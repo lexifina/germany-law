@@ -1,0 +1,122 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-09-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467879
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467879
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung Neubau, Tiefgarage
+- TOP .2.: Hotterstraße 18: Nutzungsänderungen, Einbau Gauben (Tektur)
+- TOP .3.: Färbergraben 14: Neubau eines Büro- und Geschäftshauses (Tektur)
+- TOP .4.: Rumfordstraße 5: Errichtung einer Freischankfläche (siehe auch 2012.05 B 3.1.9, 2012.06 B 3.1.8)
+- TOP .5.: Rindermarkt 16: Modernisierung des Treppenhauses und diverse Nutzungsänderungen
+- TOP .6.: Rindermarkt 17: Modernisierung des Treppenhauses und diverse Nutzungsänderungen
+- TOP .7.: Stollbergstr. 20: Umbau Wohnhaus, Aufzug, Neubau Rückgebäude
+- TOP .8.: Sendlinger Str. 14: Errichtung einer Freischankfläche
+- TOP .9.: Liebigstr. 14: Nutzungsänderung, Ausbau DG
+- TOP .10.: Maximiliansplatz 13: Neubau eines Bürogebäudes (Vorbescheid)
+- TOP .11.: NACHTRAG: Herrnstraße 30: Aufstockung eines Mehrfamilienhauses und Anbau eines Außenaufzugs (Vorbescheid)
+- TOP .12.: NACHTRAG: Neuhauser Straße 33: Verschiebung 2er Rolltreppen und Neubau eines Liftes in einem Verkaufsraum sowie Fassadenänderung (EG) - Tektur
+- TOP .13.: NACHTRAG: Sendlinger Straße 4: Umbau und Nutzungsänderung eines Geschäftshauses (Vorbescheid)
+- TOP .1.: Antrag des BA 19: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich SWM bei Veräußerung von Immobilien
+- TOP .2.: Antrag des BA 16: Kein Verkauf städtischer Grundstücke, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen könnten, ohne die Zustimmung des zuständigen Bezirksausschusses
+- TOP .1.: Vereinbarungen des Runden Tischs zur Freischankflächengestaltung in der Sendlinger Straße
+- TOP .2.: Bericht vom Ortstermin Weihnachtsmarkt Schrannenhalle
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Bürgeranliegen: Verlegung des Werbeverkaufsstands in der Rosenstraße
+- TOP .2.: Bürgeranliegen: Beleuchtung Sendlinger-Tor-Platz
+- TOP .3.: Bürgeranliegen: Schäden am Vater-Rhein-Brunnen durch ?Kulturstrand?
+- TOP .4.: Bürgeranliegen: ?Kulturstrand? am Vater-Rhein-Brunnen
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Konditorei-Cafe-Riedmeier?, Orlandostraße 1: Genehmigung einer Freischankfläche
+- TOP .2.: NACHTRAG: Freischankflächengestaltung Sendlinger Straße
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Heiliggeiststraße 7: Aufstellung von Verkaufseinrichtungen
+- TOP .2.: Papa-Schmid-Straße 1: Aufstellung von Verkaufseinrichtungen
+- TOP 1: (E) Mehr Hundekottütenspender und Abfallbehälter auf der Schwindinsel
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Ander Art Festival am 06.10.2012, Odeonsplatz
+- TOP 1.2.: Informationsveranstaltung ?Brustgesundheit? mit Beleuchtung des Neuen Rathauses am 16.10.2012, Marienplatz
+- TOP 1.3.: Informationsveranstaltung der BRH Rettungshundestaffel am 15.12.2012, Odeonsplatz
+- TOP 1.4.: DGB-Kulturfest und Open-Air-Konzert am 01.05.2013 im Bereich Marienplatz, Rosenstraße, Kaufingerstraße
+- TOP 1.5.: Erfahrungsbericht Isarinselfest 2012
+- TOP 1.6.: NACHTRAG: 3. Bauernmarktmeile am 25.09.2011 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP 1.7.: NACHTRAG: ?100 Jahre Kammerspiele? am 14.10.2012, Maximilianstraße
+- TOP 1.1.: Antrag des BA 7 Sendling-Westpark: Kein Platz für (Neo-) Nazis, Änderung des Katalogs der BA-Satzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Bericht Ortstermin Fahrradständer am St.-Anna-Platz
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Bürgeranliegen: Gewegeinebnung vor dem Anwesen Rumfordstraße 57
+- TOP 1.2.: BA-Antrag: Aufnahme des Fußgängerzonenabschnitts Sendlinger Straße in den Geltungsbereich der Altstadtfußgängerzonensatzung
+- TOP 1.1.: Standortgenehmigung für Parkscheinautomat Hochbrückenstraße
+- TOP 1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung von Teilflächen der Sendlinger Straße und der Dultstraße
+- TOP 1.1.: Vollzug der Wasserschutzgesetze: Einleiten von Mischwasser aus Entlastungsanlagen (Regenauslässe) durch die Münchner Stadtentwässerung
+- TOP 1.2.: Planfeststellungsverfahren zum Neubau der 2. S-Bahn-Stammstrecke, Abschnitt ?München West?, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, 2. Planänderung (Unterlagen unter der Treppe)
+- TOP 1.3.: Baumfällung Sattlerstraße 1
+- TOP 1.4.: Baumfällung Sternstraße 3
+- TOP 1.1.: Vorstellung des Konzepts Praterinsel in der Vorstandssitzung
+- TOP 1.1.: UA: Kinderkrippenversorgung im Lehel
+- TOP 1.1.: (E) Budget der Bezirksausschüsse FotoDoks e.V. Festival für aktuelle Dokumentarfotografie ab 17.10.2012
+- TOP 1.1.: Antrag des BA 8 und Initiative BA-Vorsitzendentreffen: Stadtteilbezug beim Budget der Bezirksausschüsse, Anpassung der BA-Satzung und der Budgetrichtlinien
+- TOP 1.2.: Antrag der Stadtratsfraktion DIE GRÜNEN/RL und Initiative BA-Vorsitzendentreffen : Kinder entscheiden im Stadtteil
+- TOP 1.3.: Beschlussentwurf für den gemeinsamen Kinder- und Jugendhilfeausschuss am 09.10.2012: Bericht zu REGSAM REGSAM neu denken REGSAM ? ein starkes Netzwerk für München
+- TOP 1.1.: Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 29.11.2012
+- TOP 1.2.: Besuch im Kinder- und Jugendmuseum ? Termin steht noch nicht fest
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Fachstelle gegen Rechtsextremismus zum Einlassvorbehalt für Veranstalter in München
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Verwaltungsgerichtsurteil zur Einrichtung einer Spielhalle im Tal 32
+- TOP 0.3.: Schreiben des Oberbürgermeisters zur Unterstützung von Mieterinteressen durch die Bezirksausschüsse
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.5.: Antwortschreiben der LBK und des KVR zum Bürgeranliegen Frauenstraße 12, TOP 2012.08 B 1.1
+- TOP 0.6.: Fristverlängerung für den BA-Antrag Nr. 08-14/3040: Änderung der BA-Satzung ? Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungssatzung
+- TOP 0.7.: Vormerkung des Baureferats zum Ortstermin bezüglich barrierefreier Ausbau des Platzl
+- TOP 0.8.: Beschluss des Sozialausschusses vom 20.09.12: Mietspiegel für München
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Protokoll ?Runder Tisch Fußgängerzone Sendlinger Straße?
+- TOP 0.6.: Protokoll Händlerversammlung Viktualienmarkt vom 31.07.2012
+- TOP 0.7.: Antwortschreiben des Veranstaltungs- und Versammlungsbüro zur Beschwerde bzgl. Klassik am Odeonsplatz
+- TOP 0.8.: Eilentscheidung Einzug Festwirte und Brauereien am 22.09.2012 und Trachten- und Schützenumzug am 23.09.2012
+- TOP 0.9.: Eilentscheidung Skulptur in der Grünfläche Maximilianstraße 39 vom 13.09. - 13.10.2012
+- TOP 0.10.: Antwortschreiben des KVR zur Veranstaltung des Zentrallandwirtschaftsministerium am 06.09.2012 auf dem Marienplatz
+- TOP 0.11.: Antwortschreiben des KVR zur Veranstaltung ?Gemeinsam Sport ? Gemeinsam Spaß? am 25.08.2012 auf dem Marienplatz
+- TOP 0.12.: Eilentscheidung Nachtrag ?Nachtschwärmer? am 07.09.2012, Münchner Innenstadt, TOP 2012.08 C 3.1.11
+- TOP 0.13.: Absage des Munich Urban Cross, TOP 2012.08 C 3.1.9
+- TOP 0.14.: Eilentscheidung zur Kunstaktion ?Theaterprojekt in der Innenstadt? vom 14. - 16.10.2012, verschiedene Orte
+- TOP 0.15.: Eilentscheidung zu den zentralen Feierlichkeiten zum Tag der Deutschen Einheit am 02. und 03.09.2012, Odeonsplatz und Umgebung
+- TOP 0.16.: Antwortschreiben des Kommunalreferenten zur Vergabe der Stände auf dem Viktualienmarkt, TOP 2012.05 A 5.1
+- TOP 0.17.: Hochbrückenstraße 4, Erweiterung der Freischankfläche ?Bianco Rosso e Nero?, Einholung der Entscheidung des Oberbürgermeisters, TOP 2012.08 C 2.1.2
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Hochbrückenstraße, Rückbeschilderung Polizeianfahrtszone - Radverkehrsführung in der Maximilianstraße - Verkehrsversuch - Maximilianstraße 33, absolutes Halteverbot ?Feuerwehranfahrtszone?
+- TOP 0.2.: Antwortschreiben des Oberbürgermeisters zur Ablehnung des BA einer BV-Empfehlung Nr. 08-14 / 1216: Öffnung des Knöbelblocks für Fußgänger
+- TOP 0.3.: Beglaubigter Beschluss des Stadtrates vom 07.07.2012 zur Umgestaltung des Tals
+- TOP 0.4.: Fahrbahnsanierung Papa-Schmid-Straße zwischen Müllerstraße und Blumenstraße
+- TOP 0.5.: Zuwegungen zum Hofbräuhaus barrierefrei ausgestalten
+- TOP 0.6.: Schreiben des KVR zur Anschaffung von ?Dialog-Displays? zur Geschwindigkeitsanzeige
+- TOP 0.7.: Bewirtschaftung des Behördenparkplatzes des Landschaftsministerium
+- TOP 0.8.: Schreiben an das Baureferat wegen Umsetzung Absenkung Karl-Scharnagel-Ring, Zwischennachricht an Bürger
+- TOP 0.1.: Antwortschreiben an Stadtrat Offmann auf seine Anfrage bzgl. der kulturelle Nutzung des Areals ?Auf der Insel?
+- TOP 0.2.: Verwendungsnachweis Kinderfest am St.-Anna-Platz
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
