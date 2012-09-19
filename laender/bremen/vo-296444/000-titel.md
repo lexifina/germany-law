@@ -1,1 +1,1 @@
-# Verordnung über die zuständigen Behörden nach dem Infektionsschutzgesetz vom 3. Juli 2001
+# Verordnung über die zuständigen Behörden nach dem Infektionsschutzgesetz vom 28. August 2012
