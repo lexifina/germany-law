@@ -1,0 +1,100 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-09-19T17:15:00+02:00
+- Ende: 2012-09-19T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2446
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2446
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 1.1: Jagdschloss Glienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - erledigt
+- TOP 3: Geschäftliche Mitteilungen - erledigt
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: KITA-Anmeldegebühren - beantwortet
+- TOP 4.2: Grundschul-Einzugsbereiche verändern? - beantwortet
+- TOP 4.3: Oberstufe am Standort der Montessori-Gemeinschaftsschule - zurückgezogen
+- TOP 4.4: Krankenstand im Ordnungsamt - beantwortet
+- TOP 4.5: Baumsterben in der Hochbaumstraße - schriftlich beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Feststellungen - erledigt
+- TOP 5.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Berufung eines beratenden Mitgliedes als Vertretung des Integrationsausschusses sowie dessen Vertretung im Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahlen: Wahlvorschläge - erledigt
+- TOP 5.3.1: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 5.4.1: Sondermittel der BVV für das Ost-Europa-Forum für Wirtschaft, Technologie und Kultur e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.5.1: Änderungen im Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushaltsplan 2012/13) durch die Senatsverwaltung für Finanzen bzw. das Abgeordnetenhaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 5.6.1: Bebauungsplan 6-17Ba [Ortsteilzentrum Kranoldplatz (Lichterfelde Ost)] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6.2: Bebauungsplan X- B 1c „Dorf Stolpe, Ortsteil Wannsee" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.7.1: Hinweisschild auf den Seniorenclub "Club Steglitz" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.2: Berichtspflicht für den Ausschuss für Unregelmäßigkeiten - in der BVV abgelehnt
+- TOP 5.7.3: Sicherheit der Gehwegnutzung wieder herstellen - Sanierung des Weges über die Rehwiese - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.4: Gehwegvorstreckungen entlang der Forststraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.5: Gegen das Grillen und Vermüllung von Schlachtensee und Krumme Lanke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.6: Lärmschutz S-Bahnhof Mexikoplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.7: Aufstellung einer Hinweistafel zu Nationalsozialistischen Forschungsinstituten in Berlin-Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.8: B-Plan für "Eisenbahn-Landwirtschaft" - in der BVV abgelehnt
+- TOP 5.7.9: Es werde Licht - im Stadtpark Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.10: Ehrenamtliche Winterhotline schaffen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.11: Fachtagung zum Thema ökologisch orientierte Grünpflege - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.12: Erinnerung an Franz Kafka - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.13: Fahrbahnmarkierungen Domicil Seniorenpflegeheim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.14: Info-Stele für Winfried Freudenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.15: Ausschilderung Schloßparktheater - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.16: Einrichtung einer Ombudsstelle im Jugendamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.17: Informationsstele zur Steglitzer Filmkunst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7.18: Kein Verschenken bezirklicher Grundstücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Anträge - erledigt
+- TOP 6.1.1: Schulweg zur Beethoven-Schule sichern - überwiesen
+- TOP 6.1.2: Verkehrssicherheit für Südende - überwiesen
+- TOP 6.1.3: Radstreifen bzw. Umweltspuren in der Birkbuschstraße - überwiesen
+- TOP 6.1.4: Widersprüchliche Parksituation Mörchinger Straße beheben - überwiesen
+- TOP 6.1.5: Schöne Alemannenstraße - überwiesen
+- TOP 6.1.6: Sicherheit rund um die Schloßstraße gewährleisten - Polizei unterstützen! - überwiesen
+- TOP 6.1.7: Radstreifen Kamenzer Damm - überwiesen
+- TOP 6.1.8: Biodiversität in der Straßenmitte fördern - überwiesen
+- TOP 6.1.9: Anwohnerschutz Teschener Weg - überwiesen
+- TOP 6.1.10: Beleuchtung für den Park hinter der Schwartzschen Villa - überwiesen
+- TOP 6.1.11: Verzicht auf Grünpfeil am Gardeschützenweg/Drakestraße - überwiesen
+- TOP 6.1.12: Bürgerengagement fördern - überwiesen
+- TOP 6.1.13: Endlich Munsterdamm sanieren - überwiesen
+- TOP 6.1.14: Beidseitige Beleuchtung am Steglitzer Damm - überwiesen
+- TOP 6.1.15: Pedelec-Nutzung fördern - überwiesen
+- TOP 6.1.16: Fortführung des EU-Projektes "Frau und Beruf: Perspektive Wiedereinstieg" (im Bezirk bekannt als "Fraueninfothek Steglitz-Zehlendorf") ab dem 01.06.2013 - überwiesen
+- TOP 6.1.17: Konzept Steglitzer Damm - überwiesen
+- TOP 6.1.18: Tempo 30 im Dahlemer Weg - überwiesen
+- TOP 6.1.19: Licht für Südende! - überwiesen
+- TOP 6.1.20: Schutzgeländer zwischen Radweg und Fahrbahn unter der Bahnbrücke in Lichterfelde-Ost - überwiesen
+- TOP 6.1.21: Planung Bürgersteige Flanaganstraße - überwiesen
+- TOP 6.1.22: Mehr Fahrradstellplätze am S-Bahnhof Lichterfelde-West - überwiesen
+- TOP 6.1.23: Trainingsanlage Kopfball im Stadion Lichterfelde - überwiesen
+- TOP 6.1.24: Bürgerportal "MAERKER" auch in Steglitz-Zehlendorf - überwiesen
+- TOP 6.1.25: Badestelle Schlachtensee - überwiesen
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 7.1: Vorlagen zur Beschlussfassung und dringl. Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Bebauungsplan 6-22 - Truman Plaza - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Treitschkestraße - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Erinnerung an Bischof Kurt Scharf - Spuren christlichen Lebens in Berlin sichtbar machen - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Bürgerwille Treitschkestraße ermitteln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - erledigt
+- TOP 11.1: Bauen ohne "Grünstreifen-Grundstück" an der Clayallee - beantwortet
+- TOP 12: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 12.1: Rederecht für Seniorenvertreter in allen Ausschüssen - in der BVV abgelehnt
+- TOP 12.2: Fair statt prekär: Arbeitsbedingungen an Musikschule und VHS verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Schlusswort des Vorstehers - erledigt
