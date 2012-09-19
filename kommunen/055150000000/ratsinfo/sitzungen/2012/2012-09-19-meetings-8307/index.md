@@ -1,0 +1,67 @@
+# 23. Sitzung (Einbringung Haushalt 2013)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-09-19T18:12:00+02:00
+- Ende: 2012-09-19T20:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8307
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8307
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00328825.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Einbringung des Entwurfes der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2013
+- TOP 10.1: Bürgerhaushalt 2012 - Einbringung der 102 bestplatzierten Bürgervorschläge - Vorlage eingebracht
+- TOP 10.2: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2013 - einstimmig beschlossen
+- TOP 10.3: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 (Teil 2) - Vorlage eingebracht
+- TOP 11: Wiederwahl der Beigeordneten Stadträtin Dr. Andrea Hanke - einstimmig beschlossen
+- TOP 12: Besetzung der Einigungsstelle nach LPVG - einstimmig beschlossen
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, anlässlich der Veranstaltung "Jazzfestival" am 06.01.2013 - mehrheitlich beschlossen
+- TOP 14: Entwurf des Jahresabschlusses zum 31.12.2011 der Stadt Münster - einstimmig beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2012 - zur Kenntnis genommen
+- TOP 16: Bericht über Beteiligungen der Stadt Münster im Jahr 2011 (Beteiligungsbericht 2011) - zur Kenntnis genommen
+- TOP 17: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.01.2013 - mehrheitlich beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Genehmigung einer Dringlichkeitsentscheidung, Finanzierung der Altlastenbeseitigung im Rahmen der Sanierung des städtischen Preußen-Stadions an der Hammer Straße - mehrheitlich beschlossen
+- TOP 18.2: Genehmigung der Dringlichkeitsentscheidung:Ausbau der Kindertagesbetreuung-Errichtungsbeschluss Kindertageseinrichtung Wiedeiken, Amelsbüren - einstimmig beschlossen
+- TOP 18.3: Genehmigung einer Dringlichkeitsentscheidung - mehrheitlich beschlossen
+- TOP 19: Bundesweite Ausschreibung einer Dienstleistungskonzession Stadtfest Münster - einstimmig beschlossen
+- TOP 20: Städtebauförderprogramm "Aktives Stadt- und Ortsteilzentrum Münster-Wolbeck" - einstimmig beschlossen
+- TOP 21: Kindertagesbetreuungsbericht 2012/2013 - einstimmig beschlossen
+- TOP 22: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 23: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung) - einstimmig beschlossen
+- TOP 23.1: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung)
+- TOP 24: Ergebnisse und Empfehlungen des Arbeitskreises Wohnungslosigkeit - einstimmig beschlossen
+- TOP 25: Maßnahmenprogramm zur Förderung von Teilhabe im Alter und zur Vermeidung von Altersarmut - einstimmig beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Münster-Mitte
+- TOP 26.1.1: 3. Änderung des Bebauungsplanes Nr. 391: Hammer Straße / Friedrich-Ebert-Straße / Alfred-Krupp-Weg / Königsweg im Bereich Eichsfelderstraße / Scheibenstraße - einstimmig beschlossen
+- TOP 26.2: Stadtbezirk Münster-West
+- TOP 26.2.1: Bebauungsplan Nr. 136, 7. Änderung - Stellungnahmen - Satzungsbeschluss, Bebauungsplan Nr. 342, 4. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2.2: Bebauungsplan Nr. 527 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26.2.3: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 323: - mehrheitlich beschlossen
+- TOP 26.3: Stadtbezirk Münster-Ost
+- TOP 26.3.1: Bebauungsplan Nr. 530 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - einstimmig beschlossen
+- TOP 26.3.2: Bebauungsplan Nr. 530 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 27.1: Früheren Beginn der Weihnachtsmärkte 2012 prüfen - zurückgezogen
+- TOP 27.2: R e s o l u t i o n Neuregelung des § 76 Haushaltssicherungskonzept (1) 2. - 1. NKF-Weiterentwicklungsgesetz - NKFWG - zurückgezogen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 28.1: Mehr Kooperation wagen - Ein Zukunftsbeitrag für städtische Theater - verwiesen
+- TOP 28.2: Auskunft aus dem Melderegister auf das absolute Mindestmaß reduzieren! - verwiesen
+- TOP 28.3: Gewalt an Schulen - Erkennen und handeln - verwiesen
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Verschiedenes
