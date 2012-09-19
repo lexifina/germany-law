@@ -1,0 +1,109 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2474156
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2474156
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Vorstellung der Rahmenplanung Lochhausen
+- TOP 1.1.6: Umgestaltung des Spielplatzes an der Kastelburgstraße - Vorstellung der Planunge
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Schwerlatsverkehr im Dreieck Lochhausener Str./Ranertstr./Langwieder Hauptstr.
+- TOP 2.2.: Lkw-Verbot in der Kastelburgstraße
+- TOP 2.3.: Fußballplatz für Jugendliche in Lochhausen
+- TOP 2.4.: Kneippanlage an der Lohwiesenstraße; Kinderspielplatz Altostraße / südlich Grabenfleckstraße
+- TOP 2.5.: Verbesserung der Verkehrssicherheit der Kindergarten- und Schulkinder in der Schussenriederstraße und Schubinweg; Gesundheitsrisiko durch Müllcontainer am Schubinweg
+- TOP 2.6.: Neubau in der Parsbergerstr. 27
+- TOP 2.7.: Ortszentrum Lochhausen - Verkehrssituation Langwieder Hauptstraße / Eschenrieder Straße
+- TOP 2.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.9.: Müllhalde Papinstraße
+- TOP 2.10.: "Camper" auf Parkplatz des SV Aubing und Spielplatz Kastelburgstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Aubing-Ost-Str. 66 - Aubing-Ost-Str. 86a-88 - Sipplinger Str. 12-16 - Kallenbergstr. 18 - Wertheimer Str. 50 - Eichelhäherstr. 66 - Heuglinstr. 4 - Eschenrieder Str. 11 - Kleiberweg 19 - Streitbergstr. 82 - Sumpfmeisenweg 5 - Aubing-Ost-Str. 1 - Mariabrunner Str. 64 - Wildenrother Str. 14 - Aubinger Str. 181
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: - Parsberger Str. 27, gem. Baumbestandsplan Nr. 2012-19021
+- TOP 3.3.: Fällungsgenehmigung: Heulinstr. 4, Schr. Planungsreferat vom 04.09.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 3.3.6: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Bahnschranke Hellensteinstraße (Anfrage)
+- TOP 4.2.: Umbenennung des S-Bahnhofs Langwied
+- TOP 4.3.: Sperrmüllcontainer im 22. Stadtbezirk
+- TOP 5: Entscheidungen
+- TOP 1: Sanierung des Eingangsbereiches und des Parkplatzes am Friedhof Aubing (Empfehlung Nr. 08-14 / E 01409 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 26.06.2012)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.2.: Bericht zu REGSAM, Anhörung Sozialreferat vom 20.08.12
+- TOP 6.1.: Campus Freiham; früherer Termin für das Partizipationstreffen, Schr. Referat für Bildung und Sport vom 22.08.12
+- TOP 6.2.: Veranstaltungen/Kooperationen im September 2012, Schr. Kulturreferat vom 17.08.12
+- TOP 6.3.: Ruhestörung durch überlaute Muski im Biergarten der Gaststätte "Aubinger Einkehr" am 19.08.12, Schr. KVR vom 31.08.12
+- TOP 6.4.: Veranstaltung auf Privatgrund: Aubinger Herbstfest vom 13.09.-16.09.12 auf der Festwiese Belandwiesenweg/Germeringer Weg, Schr. KVR vom 23.08.12
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: BA-Informationsschaukasten - Standortvorschlag in Freiham, Anhörung Kommunalreferat vom 29.08.12
+- TOP 6.2.: Planung Freiham: Kein Bau des geplanten Turms an der Bodenseestraße (Antrag 2 Ziffer 1), Bau einer ökologischen und architektonischen Mustersiedlung auf einer Teilfläche (Antrag 2 Ziffer 2) (BV-Empfehlung Nr. 1406 vom 26.06.12), Anhörung Planungsreferat vom 04.09.12
+- TOP 6.3.: Nutzungserlaubnis für Obstverkaufsstand Weingärtner in der Bodenseestraße, Anhörung Kommunalreferat vom 20.08.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Planfeststellung nach § 18 AEG für den Neubau einer 2. S-Bahn-Stammstrecke in München; Planfeststellungsabschnitt 1 "München West", Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 2. Planänderung-, Anhörung Planungsreferat vom 22.08.12
+- TOP 6.3.: Eichenauer Str. 35 - Bauabschnitt 3: Erweiterung einer bestehenden Maschinen- und Bergehalle, Anhörung Planungsreferat vom 22.08.12
+- TOP 6.4.: Eichenauer Str. 35 - Bauabschnitt 1: Neubau eines Milchviehlaufstalls mit Fahrsiloanlage, Güllegrube und Festmistanlage, Anhörung Planungsreferat vom 21.08.12
+- TOP 6.5.: Radlhauptstadt München - Förderung des Radverkehrs im Stadtbezirk 22, Anhörung Kreisverwaltungsreferat vom 14.08.12
+- TOP 6.6.: Wartezone für Linienbusse in der Zwernitzer Straße, Anhörung KVR vom 27.08.12
+- TOP 6.7.: Birkenrieder Str. 2 - Nutzungsänderung landwirtschaftlicher Gebäude, Einbau einer Wohnung im OG sowie einer Betriebswohnung und eines Hobbyraums im EG, Anhörung Planungsreferat vom 04.09.12
+- TOP 6.8.: Straßenbaumaßnahme in der Bergsonstr. zwischen Kronwinkler- und Noderstraße, Anhörung Baureferat vom 30.08.12
+- TOP 6.9.: Altostr. 21-23 - Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (Vorbescheid), Anhörung Planungsreferat vom 04.09.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 06.08.-12.08.12, 13.08.-19.08.12, 20.08.-26.08.12, 27.08.-02.09.12), Schr. Planungsreferat vom 14.08.12, 20.08.12,27.08.12, 03.09.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag:13.08.12, 20.08.12, 27.08.12, 03.09.12
+- TOP 6.3.: Sauberkeit Langwieder See und Birkensee, Schr. Baureferat vom 03.08.12
+- TOP 6.4.: Baustelleneinrichtung an der Hohenesterstraße, Schr. KVR vom 07.08.12
+- TOP 6.5.: Autoabstellplatz an der Georg-Böhmer-Str. 1, Schr. Referat für Gesundheit und Umwelt vom 09.08.12
+- TOP 6.6.: Bedarfs- und Projektgenehmigung für den Kanalbau im Umgriff des Bebauungsplans Hellensteinstraße, Schr. Münchner Stadtentwässerung vom 19.06.12
+- TOP 6.7.: Verschmutzung der Aubinger Lohe; Errichtung einer Schranke an der Nord- und Südseite der Schwojerstraße sowie Beschilderung, die Müllentsorgung untersagt, Schr. KVR vom 21.08.12
+- TOP 6.8.: "Dialog-Display" in München, Schr. KVR vom 03.08.12
+- TOP 6.9.: Verkehrsrechtliche Anordnung einer Kurzparkzone in der Bodenseestr. 238, Schr. KVR vom 29.05.12
+- TOP 6.10.: Fernwärmeprojekt Aubinger Straße - Oberflächenwiederherstellung, Schr. SWM vom 22.08.12
+- TOP 6.12.: Bebauungsplan mit Grünordnung Nr. 2074: Lochhausener Str. (südlich), Maganusweg (westlich) und Bahnlinie München-Augsburg (nordöstlich) - Aufstellungsbeschluss, Schr. Planungsreferat vom 30.08.12
+- TOP 6.13.: Teerung der Mittelfuge in der Aubing-Ost-Straße zum Joseph-Suder-Bogen, Schr. Baureferat vom 27.08.12
+- TOP 6.14.: Deckel für Abfallbehälter am Containerplatz Hornbergerstraße, Schr. Baureferat vom 03.09.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Straßenbauprojekt Industrie-, Hohenrechberg-, Huisler-, Mariabrunner Straße - Stellungnahme des BA 22
+- TOP 7.2.: Veranstaltung in mehreren städt. Grünanlagen: Pflanzaktion der MGS, Aufbau eines Pavillons am Ravensburger Ring, Zwernitzer Str., Wiesentfelser Str. vom 22.-24.10.12, Anhörung KVR vom 11.09.12
+- TOP 7.3.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse, Anhörung Direktorium vom 13.09.12
+- TOP 7.4.: Aubinger Str. 164 - Neubebauung in 5 Varianten mit Garagen und Stellplätzen: - Variante 1: Mehrfamilienhaus mit Tiefgarage, Anhörung Planungsreferat vom 13.09.12 - Variante 2 + 3: 6 Reihenhäuser mit Sattel und Flachdach sowie Stellplätzen, Anhörung Planungsreferat vom 13.09.12 - Variante 4: 2 Dreispänner mit Duplexgaragen u. Variante 5: zus.häng. Mehrfamilienhaus mit Duplexgaragen, Anhörung Planungsreferat vom 13.09.12
+- TOP 7.5.: Kronwinkler Str. 32 - Neubau eines Bürogebäudes, Erweiterung einer Lagerhalle, Freilagerflächen, Anhörung Planungsreferat vom 12.09.12
+- TOP 7.6.: Kunreuth-/Riesenburgstraße - Nachverdichtung, Anhörung Planungsreferat vom 12.09.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europe Direct Informationen 04/2012, Schr. Referat für Arbeit und Wirtschaft vom 10.08.12
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Thuisbrunner Str., Schr. Sozialreferat vom 10.08.12 - Am Langwieder Bach, Schr. Sozialreferat vom 14.08.12
+- TOP 8.3.: Festsetzung einer Veranstaltung: Gartentage im Schlosspark Freiham am 29./30.09.12 (Vorabzustimmung durch den BA-Vorsitzenden), Schr. 30.08.12
+- TOP 8.4.: Erlaubnis für Veranstaltung auf öffentlichen Verkehrsgrund: Schwemm-/Atlostraße - Festumzug und Standkonzert anlässlich Aubinger Herbstfest am 13.09.12, Schr. KVR vom 06.09.12
+- TOP 8.5.: Erlaubnis mit Änderung für Aubinger Herbstfest vom 13.-16.0912, Schr. KVR vom 10.09.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 25.07.12: - Satzung über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung)
+- TOP 10.2.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 05.09.12: Studie "Älter werden in München (UA Soziales)
+- TOP 10.3.: Beschluss des Sozialausschusses vom 20.09.12: - Mietspiegel für München
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Sitzungstermine des BA 22 im Jahr 2013 und Termin der Bürgerversammlung 2013
+- TOP 11.2.: Treffen BA mit dem Referat für Bildung und Sport am 27.11.2013, Schr. Referat für Bildung und Sport am 03.09.12
+- TOP 11.3.: Wettbewerb Aubing-Mitte: Einladung zur Ausstellungseröffnung am 24.09.12 um 18 Uhr im Foyer des Planungsreferats
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.2.: Gleisdreieck Pasing, Paosostraße - Bau eines Fuß- und Radweges und einer Skateranlage im Stadtbezirk 22, Anhörung Baureferat vom 01.06.12 (vertagt aus 08/12)
+- TOP 6.11.: Erhalt des Ensembles Schussenrieder Str. 3 (alte Bürgermeisterei), Schr. Planungsreferat vom 24.08.12
