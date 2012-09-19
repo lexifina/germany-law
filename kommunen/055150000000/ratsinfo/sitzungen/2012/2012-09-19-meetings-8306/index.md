@@ -1,0 +1,59 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-09-19T17:04:00+02:00
+- Ende: 2012-09-19T20:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8306
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8306
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00328826.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und verwiesener Anregungen von Bezirksvertretungen
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0029/2012 - einstimmig beschlossen
+- TOP 2.2: Antrag Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/ 0010/2012 - einstimmig beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0034/2012, "Transparenz in der Schulentwicklungsplanung - Mitwirkungsrechte nicht beschneiden" - mehrheitlich beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion Nr. A-R/0019/2012 an den Rat - einstimmig beschlossen
+- TOP 2.5: Antrag an den Rat Nr. A-R/0033/2012 der SPD-Fraktion vom 19.06.2012 "Theaterbetrieb weiter optimieren - Qualität bewahren" - einstimmig beschlossen
+- TOP 2.6: Anregung der BV Münster-West an den Rat - ABV/0002/2012 "Flexible Kinderbetreuung in Randzeiten und Notfällen einrichten" - einstimmig beschlossen
+- TOP 2.7: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0027/2012 "Masterplan Frühe Hilfen Münster präventiv-offensiv-qualifiziert-vernetzt" - einstimmig beschlossen
+- TOP 2.8: Antrag der CDU-Fraktion an den Rat Nr. A-R/0030/2012 "Bedingungen für eine neue Dreifach-Sporthalle am Pascal-Gymnasium prüfen" - einstimmig beschlossen
+- TOP 3: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 4: Umbau/Gestaltung Johannisstraße/Pferdegasse, Planungs- und Baubeschluss - mehrheitlich abgelehnt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Wiederwahl der Beigeordneten Stadträtin Dr. Andrea Hanke - ohne Beschlussfassung geschoben
+- TOP 6: Besetzung der Einigungsstelle nach LPVG - einstimmig beschlossen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, anlässlich der Veranstaltung "Jazzfestival" am 06.01.2013 - ohne Beschlussfassung geschoben
+- TOP 8: Entwurf des Jahresabschlusses zum 31.12.2011 der Stadt Münster - einstimmig beschlossen
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2012 - zur Kenntnis genommen
+- TOP 10: Bericht über Beteiligungen der Stadt Münster im Jahr 2011 (Beteiligungsbericht 2011) - zur Kenntnis genommen
+- TOP 11: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.01.2013 - einstimmig beschlossen
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Genehmigung einer Dringlichkeitsentscheidung, Finanzierung der Altlastenbeseitigung im Rahmen der Sanierung des städtischen Preußen-Stadions an der Hammer Straße - ohne Beschlussfassung geschoben
+- TOP 12.2: Genehmigung der Dringlichkeitsentscheidung:Ausbau der Kindertagesbetreuung-Errichtungsbeschluss Kindertageseinrichtung Wiedeiken, Amelsbüren - einstimmig beschlossen
+- TOP 12.3: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 13: Bundesweite Ausschreibung einer Dienstleistungskonzession Stadtfest Münster - ohne Beschlussfassung geschoben
+- TOP 14: Städtebauförderprogramm "Aktives Stadt- und Ortsteilzentrum Münster-Wolbeck" - einstimmig beschlossen
+- TOP 15: Kindertagesbetreuungsbericht 2012/2013 - einstimmig beschlossen
+- TOP 16: Satzung zur Änderung der Satzung für das Jugendamt der Stadt Münster - Besetzung des Ausschusses für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 17: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung) - einstimmig beschlossen
+- TOP 17.1: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung)
+- TOP 18: Ergebnisse und Empfehlungen des Arbeitskreises Wohnungslosigkeit - einstimmig beschlossen
+- TOP 19: Maßnahmenprogramm zur Förderung von Teilhabe im Alter und zur Vermeidung von Altersarmut - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Mitte
+- TOP 20.1.1: 3. Änderung des Bebauungsplanes Nr. 391: Hammer Straße / Friedrich-Ebert-Straße / Alfred-Krupp-Weg / Königsweg im Bereich Eichsfelderstraße / Scheibenstraße - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk West
+- TOP 20.2.1: Bebauungsplan Nr. 136, 7. Änderung - Stellungnahmen - Satzungsbeschluss, Bebauungsplan Nr. 342, 4. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.2.2: Bebauungsplan Nr. 527 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Ost
+- TOP 20.3.1: Bebauungsplan Nr. 530 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - ohne Beschlussfassung geschoben
+- TOP 20.3.1.1: Bebauungsplan Nr. 530 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Verschiedenes
