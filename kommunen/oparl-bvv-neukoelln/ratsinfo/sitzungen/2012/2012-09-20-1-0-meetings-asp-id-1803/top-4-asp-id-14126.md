@@ -1,0 +1,7 @@
+# TOP 4: Kiez AG
+
+- Sitzung: 10. öffentliche Sitzung des Jugendhilfeausschusses Gemeinsame Sitzung mit dem Gesundheitsausschuss (2012-09-20)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=14126
+- Ergebnis: erledigt
