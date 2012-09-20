@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-09-20T14:00:00+02:00
+- Ende: 2012-09-20T20:45:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5517
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5517
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182299.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182299.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182299.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Freie Wähler:Zu wenig Kultur für Menschen mit Migrationshintergrund in Düsseldorf - beantwortet
+- TOP 5.2: Anfrage Freie Wähler: Auswirkungen durch den verzögerten Abriss des Tausendfüßlers - beantwortet
+- TOP 5.3: Anfrage des Ratsherrn Dr. Kirchner: Datenweitergabe von Düsseldorfer Bürgern - beantwortet
+- TOP 5.4: Anfrage Die Linke: Kommunale Sozialberichterstattung in Düsseldorf - einstimmig abgelehnt
+- TOP 5.5: Anfrage Rh Laubenburg: Ergebnisse der Vermieterumfrage 2011 - schriftlich beantwortet
+- TOP 5.6: Anfrage Bü90-Grü: Instrumentenreform - Auswirkungen auf Langzeitarbeitslose in Düsseldorf - schriftlich beantwortet
+- TOP 5.7: Anfrage SPD: Kosten der neuen Dachmarke für Düsseldorf - schriftlich beantwortet
+- TOP 5.8: Anfrage Bü90-Grü: Museum Kunstpalast - schriftlich beantwortet
+- TOP 6: Einbringung des Haushaltsplanentwurfes 2013 - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 10: Jahresabschluss 2010 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 11: Bericht der Gemeindeprüfungsanstalt NRW (GPA NRW) über die überörtliche Prüfung der Eröffnungsbilanz - einstimmig beschlossen
+- TOP 12: Härtefallfonds des Landes Nordrhein-Westfalen „Alle Kinder essen mit“ - einstimmig beschlossen
+- TOP 13: Brinckmannstraße 5 - Umbau Kantine TVG II - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 14: Qualifizierung der Trainingsplätze 3+4 im Arena Sportpark - einstimmig beschlossen
+- TOP 15: Am Poth 60, Gymnasium Gerresheim - Sanierung der naturwissenschaftlichen Räume - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 16: Umgestaltung Benderstraße - mehrheitlich beschlossen
+- TOP 17: Rheinbad - Umbau zum Schwimmleistungszentrum und zur Wettkampfstätte - zur Kenntnis genommen
+- TOP 18: ÄA Die Linke: Erhalt des Schwimmbads am Flinger Broich - mehrheitlich abgelehnt
+- TOP 19: EA von CDU, SPD; BÜ90/GRÜ und FDP: Rheinbad - Umbau zum Schwimmleistungszentrum und zur Wettkampfstä - zur Kenntnis genommen
+- TOP 20: 2. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - vertagt
+- TOP 21: Düsseldorf ist ARTig/Bericht - vertagt
+- TOP 22: Beschlusskontrolle - vertagt
+- TOP 23: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 24: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 25: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 26: Neubildung Einigungsstelle nach § 67 LPVG - einstimmig beschlossen
+- TOP 27: Abberufung einer Prüferin und eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 28: Wiederbestellung eines Mitglieds des Umlegungsausschusses - einstimmig beschlossen
+- TOP 29: Nachwahl zum Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 30: Stiftung Gerhart-Hauptmann-Haus, Neubildung des Kuratoriums - vertagt
+- TOP 31: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 32: Aufsichtsrat der Messe Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 33: Aufsichtsrat Neue Schauspiel - Gesellschaft mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 34: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf -Duisburg gGmbH - Ersatzwa - einstimmig beschlossen
+- TOP 35: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 37: Planungsmaßnahmen
+- TOP 38: B-Plan Nr. 5373/049 "Östlich Aachener Straße" - Stellungnahmen; Satzungsbeschluss - einstimmig beschlossen
+- TOP 39: BPl 5578/041-NSD-§13 Stell;Änd.violett;Satzung - einstimmig beschlossen
+- TOP 40: BPl 5179/011-sw Lotharstr-Stell.; Änd.; Satzung - einstimmig beschlossen
+- TOP 41: Plan Nr. 5971/029 - Nördlich Henkelstraße -Veränderungsssperre - einstimmig beschlossen
+- TOP 42: B-Plan Nr. 5178/035 -Südwestlich Hansaallee - Aufhebungsverfahren Satzung - einstimmig beschlossen
+- TOP 43: FNP 159-Nördl.Nach den Mauresk.-Stellungnahmen; Plan - mehrheitlich beschlossen
+- TOP 44: Wahl einer Vorsitzenden des Ausschusses für die Gleichstellung für Frauen und Männern - einstimmig beschlossen
+- TOP 45: Aufsichtsrat der Kunsthalle Düsseldorf gGmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 46: Kuratorium der ZERO - Foundation - Ersatzwahl - - einstimmig beschlossen
+- TOP 47: Anträge
+- TOP 47.1: Antrag SPD. Novellierung der Richtzahlen für den Stellplatz- und Fahrradabstellplatzbedarf - vertagt
+- TOP 47.2: Antrag CDU, SPD; BÜ90/GRÜ und FDP: Kein Fracking auf Düsseldorfer Stadtgebiet - vertagt
+- TOP 47.3: Antrag Bü90-Grü und SPD: Bildungs- und Teilhabepaket - Konzept für nicht verausgabte Gelder - vertagt
+- TOP 47.4: ÄA Die Linke: Bildungs- und Teilhabepaket - vertagt
+- TOP 47.5: Antrag FDP und CDU: Belobigung für ehrenamtliche Tätigkeiten in Gremien - vertagt
+- TOP 47.6: Antrag SPD: Düsseldorf wächst: Befragung zu Wanderungsmotiven - vertagt
+- TOP 47.7: Antrag der SPD-Ratsfraktion: Resolution zum Arbeitskampf bei ZAMEK - vertagt
+- TOP 47.8: ÄA Die Linke: Resolution zum Arbeitskampf bei ZAMEK - vertagt
+- TOP 47.9: Antrag Freie Wähler: Freigängerkatzen - vertagt
+- TOP 47.10: Antrag Die Linke: : Inbetriebnahme der CO-Pipeline verhindern - vertagt
+- TOP 47.11: ÄA CDU, SPD; BÜ90/GRÜ und FDP: Inbetriebnahme der CO-Pipeline verhindern - vertagt
+- TOP 47.12: Antrag Linke: Übertragung der Ratssitzungen im Internet - vertagt
+- TOP 47.13: Antrag CDU und FDP: ÖPNV-Anbindung des Rheinbades - vertagt
+- TOP 47.14: Antrag Die Linke: Erarbeitung von Konzepten gegen rechte Gewalt - vertagt
+- TOP 47.15: ÄA SPD und Bü90-Grü: Erarbeitung von Konzepten gegen rechte Gewalt - vertagt
+- TOP 47.16: Antrag Bü90/Grü: Haushalt als Open Government Data
