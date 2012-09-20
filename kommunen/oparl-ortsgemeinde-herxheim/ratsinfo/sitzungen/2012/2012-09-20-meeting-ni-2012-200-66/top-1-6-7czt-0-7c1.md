@@ -1,0 +1,7 @@
+# TOP 1: Einwohnerfragestunde
+
+- Sitzung: 29. Sitzung des Ortsgemeinderates Herxheim (2012-09-20)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: ja
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2012-200-66%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 1 https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2012-200-66%7Czt_0%7C1
