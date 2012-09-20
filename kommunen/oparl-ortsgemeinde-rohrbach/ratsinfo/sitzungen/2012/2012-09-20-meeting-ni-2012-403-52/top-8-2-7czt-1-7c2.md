@@ -1,0 +1,6 @@
+# TOP 8: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 21. Sitzung des Bauausschusses (Dorfentwicklung und -verschönerung) der Ortsgemeinde Rohrbach (2012-09-20)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2012-403-52%7Czt_1%7C2
