@@ -1,0 +1,63 @@
+# 12. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2012-09-24T10:00:00+02:00
+- Ende: 2012-09-24T12:00:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-12
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-12
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-12
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-12
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-12
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Neuaufstellung des Bundesverkehrswegeplans (BVWP) Projektanmeldung für den Bereich Schiene
+- TOP 1.2: Neuaufstellung des Bundesverkehrswegeplans (BVWP) Projektanmeldung für den Bereich Wasserstraßen
+- TOP 1.3: Städtebauförderung hier: Unterrichtung über die Bekanntgabe des Programmentwurfs zur Städtebauförderung 2012
+- TOP 1.4: Bericht über den Stand der Umsetzung der Hochwasserrisikomanagement-Richtlinie und die Ausweisung von Überschwemmungsgebieten im Bezirk hier: Kenntnisnahme
+- TOP 1.5: Landesentwicklungsplan Nordrhein-Westfalen - Sachlicher Teilplan Großflächiger Einzelhandel - Beteiligung der in ihren Belangen berührten öffentlichen Stellen
+- TOP 1.6: RFNP-Änderungen - Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 1.7: Bauleitplanverfahren Nr. 1136 V - Dreigrenzen und 49. FNP-Änderung der Stadt Wuppertal (IKEA-Bauvorhaben).
+- TOP 1.8: Regionaler Diskurs / Regionalplan Ruhr Verhältnis RFNP - Regionalplan Ruhr weiteres Vorgehen Hier: Sachstandsbericht
+- TOP 1.8.1: Regionaler Diskurs / Regionalplan Ruhr Verhältnis RFNP – Regionalplan Ruhr weiteres Vorgehen
+- TOP 1.9: Anfragen und Mitteilungen
+- TOP 1.9.1: Bericht über laufende Verfahren: RVR als Landesplanungsbehörde
+- TOP 1.9.2: Antwort der Bezirksregierung Arnsberg zur Anfrage in der Verbandsversammlung am 26.03.12
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wechsel in den Ausschüssen
+- TOP 2.2: Planfeststellungsverfahren gemäß § 20 Abs. 1 des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG) für die Errichtung und den Betrieb einer Fernwärmeleitungsanlage vom noch im Planungsverfahren befindlichen Neubau des Kraftwerks Datteln 4 über Castrop-Rauxel bis Recklinghausen-Grullbad Hier: Beteiligung gemäß § 73 Abs. 2 Verwaltungsverfahrensgesetz für das Land Nordrhein-Westfalen (VwVfG NRW)
+- TOP 2.3: Frühzeitige Beteiligung gem. § 4 (1) BauGB zur Änderung Nr. 8a des Flächennutzungsplanes - Kraftwerk - und zum vorhabenbezogenen Bebauungsplan Nr. 105a - Kraftwerk - der Stadt Datteln hier: Stellungnahme des RVR als Träger öffentlicher Belange
+- TOP 2.4: Ideenwettbewerb zur Zukunft der Metropole Ruhr Hier: Sachstandsbericht und Besetzung des Beirates
+- TOP 2.5: Regionaler Diskurs / Regionalplan Ruhr. Hier: Prozess- und Zeitplanung
+- TOP 2.5.1: Regionaler Diskurs / Regionalplan Ruhr Hier: Prozess- und Zeitplanung
+- TOP 2.5.2: Betreff: Regionaler Diskurs / Regionalplan Ruhr. Hier: Prozess- und Zeitplanung
+- TOP 2.6: Antrag auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für das Feld 'Falke-South' Antragsteller: BNK Deutschland GmbH
+- TOP 2.7: Antrag auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen nebst den bei ihrer Gewinnung anfallenden Gasen zu gewerblichen Zwecken für das Feld 'WeselGas' Antragsteller: Thyssen Vermögensverwaltung GmbH und PVG Patentverwaltungsgesellschaft für Lagerstätten, Geologie und Bergschäden mbH Hier: Erlaubniserteilung durch die Bezirksregierung Arnsberg, Abteilung 6 Bergbau und Energie in NRW
+- TOP 2.8: Netzwerk Industrienatur - Natur und Mensch auf offenen Industriebrachen im Ruhrgebiet
+- TOP 2.9: Eckpunkte des Operationellen Programms EFRE 2014 - 2020 für Wachstum und Beschäftigung hier: Gemeinsame Stellungnahme der Metropole Ruhr im Rahmen des Konsultationsverfahrens des Wirtschaftsministeriums (06.07.-07.09.2012)
+- TOP 2.10: Klima-Expo NRW Metropole Ruhr 2020
+- TOP 2.11: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2011
+- TOP 2.12: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2011
+- TOP 2.13: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2011
+- TOP 2.14: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2011
+- TOP 2.15: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2011
+- TOP 2.16: Angelegenheiten der Ruhr Tourismus GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.17: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2011
+- TOP 2.18: Angelegenheiten der Kultur Ruhr GmbH - Übernahme der Anteile des Vereins pro Ruhrgebiet e. V. (VpR)
+- TOP 2.19: Angelegenheiten der Kultur Ruhr GmbH - Gesellschaftsvertrag, Verlängerung der Nebenabrede (2012-2014)
+- TOP 2.20: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2011
+- TOP 2.21: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2011
+- TOP 2.22: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH - Änderung des Gesellschaftsvertrages
+- TOP 2.23: Angelegenheiten der RUHR.2010 GmbH - Änderung des Gesellschaftsvertrages und Liquidation
+- TOP 2.24: Angelegenheiten der Ruhrwind Herten GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.25: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse der Freizeitgesellschaften des RVR zum 31.12.2011
+- TOP 2.26: Angelegenheiten der Freizeitgesellschaften - Haushaltsansätze 2013
+- TOP 2.27: Mobilität in der Metropole Ruhr
+- TOP 2.28: Integriertes Marketingkonzept
+- TOP 2.29: Anfragen und Mitteilungen
