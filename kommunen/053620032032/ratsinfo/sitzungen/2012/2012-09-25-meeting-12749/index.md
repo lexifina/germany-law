@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss (19. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-09-25T17:02:00+02:00
+- Ende: 2012-09-25T20:55:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZew-1AlfoAF3xeWQ8md4aAE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12749
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVgBjyoNNlqrZ_30BFT50txlUd1HJoqTKpE25s045JK3/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_25.09.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 18. Sitzung vom 26. Juni 2012
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Einführung einer Kastrations-, Kennzeichungs- und Registrierungspflicht für Freigängerkatzen
+- TOP 4.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im II. Quartal 2012
+- TOP 5.: Haushalt 2013 hier: Begrenzung der Entnahme aus der Allgemeinen Rücklage auf 5%
+- TOP 6.: Aktivitäten im Bereich der Städtepartnerschaft mit St. Vith/Belgien und Oswiecim/Polen: hier: Rückblick 2012 und Ausblick 2013
+- TOP 7.: Bürgerbeteiligung Erftlagune
+- TOP 8.: Förderung von Betreuungsvereinen im Rhein-Erft-Kreis
+- TOP 9.: Aufhebung des Sperrvermerks für die Baumaßnahme "Beseitigung brandschutztechnischer Mängel in der Rathausschule"
+- TOP 10.: Bebauungsplan SI Nr. 346 "Wohnanlage Breite Straße/Hüttenstraße"; hier: Abschluss eines Erschließungsvertrages
+- TOP 11.: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg" hier: Abschluss eines Städtebaulichen Vertrages gemäß § 11 BauGB zur Ausarbeitung städtebaulicher Planungen
+- TOP 12.: Neubau eines Sozialgebäudes für den Löschzug Kerpen hier: Kostenverfolgung, Erläuterung zum Mehrbedarf und überplanmäßige Bereitstellung von Haushaltsmitteln
+- TOP 13.: Neubau einer dreigruppigen Kindertageseinrichtung im Wohngebiet "Vogelrutherfeld" in Kerpen-Sindorf
+- TOP 14.: Anbau einer zusätzlichen Gruppe für Kinder über und unter drei Jahren an die Kindertageseinrichtung Erftpiraten in Kerpen- Horrem
+- TOP 15.: Personal-/Stellenplanangelegenheiten
+- TOP 15.1: Änderung im Stellenplan 2013, hier: Stelle für Rentenberatung Antrag der - Fraktion vom 17.07.2012
+- TOP 15.2: Bereitstellung von Ausbildungsplätzen 2013
+- TOP 16.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 16.1: Schenkung einer Skulptur für den Immissionsschutzwall in Kerpen-Buir
+- TOP 16.2: Außerplanmäßige Bereitstellung von Finanzmittel zur Errichtung einer Aufstellfläche für "fliegende Bauten"
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Kosten- und Finanzierung Vogelrutherfeld im Stadtteil Sindorf
+- TOP 18.2: Kostenübernahme durch RWE im Zusammenhang mit der Umsiedlung Manheim hier: Sachstandsbericht
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Jahreswirtschaftsbericht 2011 der Wirtschaftsförderung
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: 1. Außerplanmäßige Bereitstellung vom Haushaltsmitteln hier: Kanalsanierung im Bereich Stiftsstraße / Kölner Straße / Hahnenstraße 2. Auftragsvergabe: hier: Ausbau der Hahnenstraße 2. Bauabschnitt (zwischen Marienstraße und Kölner Straße)
+- TOP 20.2: Ankauf von Ackerparzellen in der Gemarkung Sindorf
+- TOP 21.: Erwerb von öffentlicher Verkehrsfläche aus privatem Grundstück (Teilfläche)
+- TOP 22.: Erwerb einer Immobilie und einer Teilfläche im Stadtteil Kerpen
+- TOP 23.: Veräußerung des Waldweggeländes in Kerpen-Horrem
+- TOP 24.: Verpachtung der Klärteiche im Bereich der ehemaligen Kläranlage Horrem-Sindorf hier: Pachtverlängerung
+- TOP 25.: Verpachtung von städtischen Waldflächen für Artenschutzzwecke in der Gemarkung Kerpen -Dickbusch-
+- TOP 26.: Mitteilungen
+- TOP 26.1: Sachstand Lörsfelder Hof (Ökohof)
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
