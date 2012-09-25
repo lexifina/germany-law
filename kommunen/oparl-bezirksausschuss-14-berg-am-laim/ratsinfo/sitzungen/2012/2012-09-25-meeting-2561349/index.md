@@ -1,0 +1,81 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-09-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2561349
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2561349
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Änderung der Signalschaltung an der Kreuzung Baumkirchner / Hansjakobstraße während der Bauphase - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bad-Schachener-Str. 117 - 137 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.2.: Rosenheimer Straße 143 - Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.1.3.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/22 und Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich), Bahnlinie München-Rosenheim (südlich)
+- TOP 3.1.1.4.: Aufenthaltsqualität auf dem Platz der Trambahnwendeschleife St.-Veit-Straße
+- TOP 3.1.1.5.: Containerstandplatz Baumkirchner Straße
+- TOP 3.1.2.1.: Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung unter dem Innsbrucker Ring
+- TOP 3.1.2.2.: 27. München-Marathon am 14.10.2012 mit Halbmarathon und 10km-Lauf
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: REGSAM - Bericht Vertragszeitraum 2010 - 2012 - Beschluss Vertr.-Zeitraum 2013 - 2015
+- TOP 3.5.1.: Bürgerkreis Berg am Laim e.V.
+- TOP 3.5.2.: Caritaszentrum München Ost / Land
+- TOP 3.5.3.: Elternbeirat des Michaeligymnasiums
+- TOP 3.5.4.: Nachbarschaftstreff Maikäfersiedlung
+- TOP 3.6.1.: Großvenedigerstraße 31 === Loferer Str. 6 === Hochfellnstr. 11 === Hansjakobstr. 90 === Innsbrucker Ring 75 === Innsbrucker Ring / Pertisaustr. 1 - 7
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Optimolgelände - Gesamtkonzeptplan Rettungswege/Feuerwehrzufahrten/Stellplätze
+- TOP 4.1.1.3.: Friedenstr. 10 - Unveränderte Fortführung des Gaststättenbetriebs "Arlekin"
+- TOP 4.1.1.4.: Friedenstr. 10 - Unveränderte Fortführung des Gaststättenbetriebs "Movida"
+- TOP 4.1.2.1.: Neue Haltestelle "Baumkirchner Platz" - Verkehrsrechtliche Anordnung § 45 StVO
+- TOP 4.1.2.2.: Sonnwendjochstraße Höhe Zwieselbergweg; Beschilderung mit Gefahrzeichen "138"
+- TOP 4.1.2.3.: Hausnummernhinweise an den Zufahrten zur Halserspitzstraße
+- TOP 4.1.2.4.: "Dialog-Display" in München
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 4.3.2.: Kindertagesstätten sonstiger Träger - Kinderkrippe Bad-Schachener-Straße 39 - Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013
+- TOP 4.3.3.: Erweiterung und Umbau der Mittelschule und des Sonderpädagogischen Förderzentrums am Innsbrucker Ring / Echardinger Grünstreifen
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Mietspiegel für München
+- TOP 4.4.2.: Studie "Älter werden in München" - Untersuchungskonzeption, Auftragsvergabe
+- TOP 4.5.1.: Elternbeirat der Grundschule Berg-am-Laim-Straße
+- TOP 4.5.2.: ESV München-Ost
+- TOP 4.5.3.: Berg am Laimer Tafel
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
