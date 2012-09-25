@@ -1,0 +1,61 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-09-25T17:00:00+02:00
+- Ende: 2012-09-25T18:50:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5673
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5673
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182496.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182496.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00182496.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 26.06.2012 ö. und nö - einstimmig beschlossen
+- TOP 3: Wildpark und Freundeskreis - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Öffentliche Beleuchtung in der Taubenbergstraße - einstimmig beschlossen
+- TOP 6: Zuschuss an den Düsseldorfer Turnverein 1847 e. V. - einstimmig beschlossen
+- TOP 7: Verteilung der Mittel aus BuT - hier: Schulsozialarbeit (SSA) - einstimmig beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 9.1: Benennung "Zur Düsselaue" - einstimmig beschlossen
+- TOP 10: Wegebeziehung Ludenberger Straße in Höhe Haltestelle "Vor der Hardt" - einstimmig beschlossen
+- TOP 11: Busverbindung zum Unterbacher See - einstimmig beschlossen
+- TOP 12: Pillebachweg - einstimmig beschlossen
+- TOP 13: Otto- und Vereinsstraße - einstimmig beschlossen
+- TOP 14: Regenklärbecken Glashüttenstraße - einstimmig beschlossen
+- TOP 15: Schrägparken Märkische Straße - einstimmig beschlossen
+- TOP 16: Inbetriebnahme der CO-Pipeline verhindern - zurückgezogen
+- TOP 16.1: Planänderung CO-Pipeline der Bayer Material Science AG - einstimmig beschlossen
+- TOP 17: Planänderungsverfahren zur Verlegung der CO-Pipeline - einstimmig beschlossen
+- TOP 18: Erhaltungssatzung Gerresheim-Süd - einstimmig beschlossen
+- TOP 19: Rheinbahn-Haltestelle Knuppertzbrück, Ri. Süden - einstimmig beschlossen
+- TOP 20: Bender- und Heyestraße; Entschädigungsmöglichkeiten für die betroffenen Geschäfte - zur Kenntnis genommen
+- TOP 21: Zuwegung Gerresheimer Krankenhaus - zur Kenntnis genommen
+- TOP 22: Neustadt - zur Kenntnis genommen
+- TOP 23: Unterflur-Hydranten und Hausanschlussabsperrungen - zur Kenntnis genommen
+- TOP 24: Sperrung Sauerweg
+- TOP 25: Unterbringung von AsylbewerberInnen - zur Kenntnis genommen
+- TOP 26: Nachnutzung Gelände Bergische Kaserne - zur Kenntnis genommen
+- TOP 27: Beleuchtung der Wohnhäuser in der Straße "Am Quellenbusch" - zur Kenntnis genommen
+- TOP 28: Freiraumgestaltung im Bereich "Am Quellenbusch"
+- TOP 29: Jakobskreuzkraut
+- TOP 30: Zulaufstrecke U73 - Heyestraße -Lageänderung der Haltestelle Hardenbergstraße - zur Kenntnis genommen
+- TOP 31: Zugang zur Gartenanlage "Quadenhof" - zur Kenntnis genommen
+- TOP 32: Sachstandsbericht Seniorenheim der Sana - zur Kenntnis genommen
+- TOP 33: Bedarfsbeschluss Umgestaltung Benderstraße / Parkraumbewirtschaftung - zur Kenntnis genommen
+- TOP 34: Bedarfsbeschuss Umgestaltung Benderstraße / Votum Menschen mit Behinderung - zur Kenntnis genommen
+- TOP 35: Bedarfsbeschuss Umgestaltung Benderstraße / Schrägparken - zur Kenntnis genommen
+- TOP 36: Bedarfsbeschluss Umgestaltung Benderstraße / Radwege - zur Kenntnis genommen
+- TOP 37: Wendeschleife 709 in Grafenberg - zur Kenntnis genommen
+- TOP 38: Grundstück "Wendeschleife Heyestraße" - zur Kenntnis genommen
+- TOP 39: Neue Haltestelle Schönaustraße/Ecke Heyestraße - zur Kenntnis genommen
+- TOP 40: Zentrale Umsteigehaltestelle "Gerresheim Rathaus" - Verlegung von Bushaltestellen, Gemeinsame Schie - zur Kenntnis genommen
+- TOP 41: 93. Umlegung der Erdgasleitung Nr 2 (Staufenplatz-Ernst-Poensgen-Allee,-Fahneburgstraße) - zur Kenntnis genommen
+- TOP 42: 93. Umlegung der Erdgasleitung Nr. 2 (Staufenplatz-Ernst-Poensgen-Allee Fahnenburgstraße - zur Kenntnis genommen
