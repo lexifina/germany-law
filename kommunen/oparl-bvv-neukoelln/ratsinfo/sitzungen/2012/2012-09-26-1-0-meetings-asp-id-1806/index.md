@@ -1,0 +1,92 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-09-26T17:00:00+02:00
+- Ende: 2012-09-26T22:31:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1806
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1806
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Stadtentwicklung - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bürgerdienste - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2011 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als stellvertretender Bürgerdeputierter im Ausschuss für Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Rücktritt eines Mitgliedes des Vorstandes der BVV Neukölln - gewählt
+- TOP 8.3: Prüfaufträge zur Kosten- bzw. Ausgabenreduzierung im Bereich der Hilfen zur Erziehung - erledigt
+- TOP 9: Mündliche Anfragen - beantwortet
+- TOP 9.1: Schäden im U-Bahnhof Hermannstraße - beantwortet
+- TOP 9.2: Baustelle Zwickauer Damm - beantwortet
+- TOP 9.3: Ausschreibung der Stelle Leiter/in des Kulturamtes - beantwortet
+- TOP 9.4: Was ist öffentlich? - beantwortet
+- TOP 9.5: Gefahrenabwehr Chemielager - beantwortet
+- TOP 9.6: Rechtsextreme Aufkleber im Bereich des U-Bahnhofes Britz-Süd - beantwortet
+- TOP 9.7: Planfeststellungsverfahren für die U-Bahnausgänge im U-Bahnhof Rudow - schriftlich beantwortet
+- TOP 9.8: Verkauf der Seniorentagesstätte Rudow - schriftlich beantwortet
+- TOP 9.9: Interkultureller Seniorentag - schriftlich beantwortet
+- TOP 9.10: Neuköllner im Stau - schriftlich beantwortet
+- TOP 9.11: Alte Schmiede am Richardplatz - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - beantwortet
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Reduzierung der Förderstunden zurücknehmen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Ausbau der Eltern- und Mütterkurse der VHS Neukölln - in der BVV abgelehnt
+- TOP 11.3: Unterstützung und Hilfe bei Mietschuldenübernahme - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Pressespiegel online veröffentlichen - in der BVV abgelehnt
+- TOP 11.5: Ausreichend Lehrpersonal an Neuköllner Grundschulen - in der BVV abgelehnt
+- TOP 12: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Kindstötung in Einrichtung - beantwortet
+- TOP 12.2: Analphabetismus in Neukölln - beantwortet
+- TOP 12.3: Sammellager in Neukölln? - beantwortet
+- TOP 12.4: Leben Zweit- und Drittfrauen auf Staatskosten? - beantwortet
+- TOP 12.5: Jugendliche Arbeitslose - vertagt
+- TOP 12.6: Zwangsmaßnahmen gegen Schulschwänzer zielführend? - vertagt
+- TOP 12.7: Verbesserung der Bezirksfinanzen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Radweg in der Hannemannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Kindstod: Aufklärung betreiben, nachhaltige Konsequenzen ziehen - überwiesen
+- TOP 14.3: Finanzierung des Alpha-Bündnisses - überwiesen
+- TOP 14.4: Sommerkonzert-Reihe "Blauer Mittwoch" auch im Sommer 2013 fortsetzen - überwiesen
+- TOP 14.5: Zuständigkeit in den Bereichen Soziales und Gesundheit/Sozialpsychiatrischer Dienst - überwiesen
+- TOP 14.6: Unterbringung von Flüchtlingen - überwiesen
+- TOP 14.7: Gedenkraum an der Clay-Schule - überwiesen
+- TOP 14.8: Sozialmissbrauch verhindern - überwiesen
+- TOP 14.9: Haltverbot vor Radweg in der Grenzallee - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Digitale Beglaubigungen - überwiesen
+- TOP 14.11: Tempo 30 in der Harzer Straße (zwischen Wildenbruch- und Teupitzer Straße) - überwiesen
+- TOP 14.12: Vermögenssteuer jetzt einführen - vertagt
+- TOP 14.13: Geschäftsordnung Vorstand - überwiesen
+- TOP 14.14: Sicherer Schulweg für Peter-Petersen-Grundschule und Konrad-Agahd-Grundschule - überwiesen
+- TOP 14.15: Gestaltungsmöglichkeiten für Neuköllner Politik bewahren - überwiesen
+- TOP 14.16: Rückkauf Frauenklinik - vertagt
+- TOP 14.17: Gefahr durch mangelnde Beleuchtung des Reuterplatzes und des angrenzenden Gehwegs - überwiesen
+- TOP 14.18: Querungshilfe Hermannstraße - überwiesen
+- TOP 14.19: Intensive begleitende Sprachförderung in den sechsten Klassen der Neuköllner Grundschulen - überwiesen
+- TOP 14.20: Muslimische Friedhöfe - überwiesen
+- TOP 14.21: Lichtzeichenanlage an der Kreuzung Sonnenallee/Ziegrastraße - überwiesen
+- TOP 14.22: Informationsmaterial für Migrantinnen und Migranten mehrsprachig anbieten - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Datenschutz für Schüler garantieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Schließfächer in der Helene-Nathan-Bibliothek - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Durchfahrverbot für Lastkraftwagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Überquerungshilfe Treptower/Harzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Mehr Sicherheit für Schulkinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Verkehr vor Kita beruhigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Haltverbot vor der Bushaltestelle Landhaussiedlung erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Haushaltsdokumente maschinenlesbar veröffentlichen - vertagt
+- TOP 16.7: Haltverbot in der Scheveninger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Haltverbot Kanalstraße/Mistelweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Kein Hausarrest für Seniorinnen, Senioren und Behinderte - mit Abschlussbericht zur Kenntnis genommen
