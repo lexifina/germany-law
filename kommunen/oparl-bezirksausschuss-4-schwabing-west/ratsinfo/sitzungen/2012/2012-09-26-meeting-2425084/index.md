@@ -1,0 +1,64 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-09-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2425084
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2425084
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Stadtteilcheck ?Auf Herz und Rampen prüfen?: Verbesserungsvorschläge der Jugendlichen für mehr Barrierefreiheit im Stadtbezirk
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse hpkj e.V. Projekt "Baby Bedenkzeit" ab 25.10.2012
+- TOP 2.2.: REGSAM: Bericht Vertragszeitraum 2010-2012 ?REGSAM neu denken? und Beschluss Vertragszeitraum 2013-2015 ?REGSAM ? ein starkes Netzwerk für München? Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung vom 09.10.2012
+- TOP 2.3.: Errichtung einer Kindertagesstätte mit 2 Kindergarten- und 2 Hortgruppen und einer offenen Einrichtung für Kinder und Jugendliche an der Lissi-Kaeser-Straße (Ackermannbogen IV): 1. Bedarfs- und Konzeptgenehmigung; 2. Projektauftrag Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung vom 09.10.2012
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Verkaufseinrichtungen für ?BILD München? an 12 Standorten
+- TOP 2.1.2.: Verkaufseinrichtungen für Tageszeitungen an 10 Standorten
+- TOP 2.1.3.: Nordendstr. 36, ?Stadthaus Wohngenuss am Elisabethmarkt?: 2 Warenauslagen
+- TOP 2.2: Kultur
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Verein für Heilende Erziehung e.V. Konzert am 05.10.2012
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Anwohnerfest am Nordbad am 01.07.2012: Rückfrage des KVR aufgrund einer Bürgerbeschwerde (vertagt aus 07/12)
+- TOP 2.3.2.: Radrennveranstaltung Cycling Days am 28.04.2013
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Römerstr. 21, Modernisierung eines denkmalgeschützten Wohn- und Geschäftshauses mit Balkonerneuerung und ?erweiterung
+- TOP 2.1.2.: Römerstr. 21, DG-Ausbau für zwei weitere Nutzungseinheiten
+- TOP 2.1.3.: Agnesstr. 55, RGB: Abbruch Dachgiebel und Umbau zur Dachterrasse
+- TOP 2.1.4.: Herzogstr. 43-45, Umbau und Erweiterung eines Wohn- und Geschäftshauses (Tektur)
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Halteverbote im Ackermannbogen besser ausschildern und markieren
+- TOP 1.2.: Bürgerin: Sichere Verkehrsführung und Erneuerung des Fahrbahnbelags in der Rümannstraße
+- TOP 1.3.: Bürger: Linksabbiegemöglichkeit aus der Belgrad- in die Rümannstraße
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Jakob-Klar-Str. 9, Fällung einer Kastanie
+- TOP 2.1.2.: Ackermannstr. 11-15: Fällung einer Eberesche, eines Birn- und eines Holunderbaums
+- TOP 2.1.3.: Herzogstr. 43-45: Fällung eines Holunders in Zusammenhang mit einer Baumaßnahme (vgl. TOP D 2.4)
+- TOP 2.1.4.: Versammlung Hörwarthstraße
+- TOP 2.1.5.: Belgradstr. 25: Fällung eines Ahorn
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Radlerstau am Theater der Jugend (vertagt aus 07/12)
+- TOP 2.2.2.: Austausch der Lichtzeichenanlage Elisabeth-/Schleißheimer Straße
+- TOP 2.2.3.: Ackermannbogen: Umbau des Kreuzungsbereichs Barbara-/Schwere-Reiter-Straße zum Anschluss des 4. Bauabschnitts
+- TOP 2.2.4.: Eingeschränktes Halteverbot am Hohenzollernplatz
+- TOP 2.2.1.: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien
+- TOP 2.2.2.: ?Kinder entscheiden in Ihrem Stadtteil?: Anhörung zu neuen Möglichkeiten der Kinder- und Jugendbeteiligung
+- TOP 2.2.3.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse ? Anhörung zur Änderung der BA-Satzung
+- TOP 2.2.1.: Schutz des Biotops im Baugebiet Ackermannbogen: Bauvorhaben Schwabing Hoch4 an der Petra-Kelly-Straße
