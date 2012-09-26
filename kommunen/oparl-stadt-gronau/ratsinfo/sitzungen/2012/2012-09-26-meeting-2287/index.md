@@ -1,0 +1,55 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2012-09-26T18:00:00+02:00
+- Ende: 2012-09-26T20:32:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSo7rZSNKFQ5dM6Tqcxogos
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2287
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbB-zNrvkzHQyJh2QMmKyYaA1LZ0JKVKTihUS3A65xXu/Bekanntmachung_Rat_26.09.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbcOMUuCUgZzoePIign0d26wQHki41pRKTL1cdx2hyXb/Oeffentliche_Niederschrift_Rat_26.09.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 29.08.2012
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Antrag der Fraktion Pro! Bürgerschaft vom 22.08.2012; Resolution des Rates der Stadt Gronau zum Entwurf des Umlagengenehmigungsgesetzes des Landes Nordrhein-Westfalen - Einstimmig, 2 Enthaltungen
+- TOP 3.2: Niederschlagswassergebühr für Straßenbaulastträger; Antrag der Fraktion Pro! Bürgerschaft vom 14.9.2012 - Ohne Abstimmung
+- TOP 4.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2011 - Schlussbesprechung und Beschlussfassung - - Einstimmig, 0 Enthaltungen
+- TOP 5.: 1. Änderung des Einzelhandelskonzepts für die Stadt Gronau in der Fassung des Ratsbeschlusses vom 15.12.2010 hinsichtlich des Nahversorgungszentrums Vereinsstraße/ Kaiserstiege - Einstimmig, 1 Enthaltungen
+- TOP 6.: Bauleitplanung und Anträge zur Einzelhandelsentwicklung im Bereich der (alten) Ochtruper Straße 1. Anträge auf Änderung des Bebauungsplans Nr. 137 "Alte Ochtruper Straße", Stadtteil Gronau A. Antrag auf Zulassung eines Lebensmittelmarktes in dem mit A gekennzeichneten Bereich (siehe Anlage) vom 22.05.2012 B. Antrag auf Zulassung eines Lebensmittelmarktes in dem mit B gekennzeichneten Bereich (siehe Anlage) vom 20.06.2012 C. Antrag auf Zulassung eines Lebensmittelmarktes in dem mit C gekennzeichneten Bereich (siehe Anlage) vom 16.07.2012 2. Verfahren zur 3. Änderung des Bebauungsplans Nr. 42 "Bonhoefferring", Stadtteil Gronau 3. Aufstellungsbeschluss zur Aufhebung des Bebauungsplans Nr. 137 "Alte Ochtruper Straße", Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erstellung eines Verkehrsentwicklungsplanes für die Stadt Gronau - 13 Jastimmen, 25 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Kontrolle und Instandsetzung städtischer Naturflächen - Einstimmig, 0 Enthaltungen
+- TOP 9.: Erweiterung der Dusch- und Umkleidekapazitäten am Sportzentrum Laubstiege - Einstimmig, 0 Enthaltungen
+- TOP 10.: Förderung kommunaler Projekte der Entwicklungszusammenarbeit in 2012 - Einstimmig, 0 Enthaltungen
+- TOP 11.: 91. Änderung des Flächennutzungsplanes der Stadt Gronau für den Bereich des "Sondergebietes an der Gildehauser Straße" 1. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Beschluss über die Flächennutzungsplanänderung - 37 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 12.: Antrag auf Änderung des Bebauungsplanes Nr. 33-1 "Carl-Zeiss-Weg", Stadtteil Gronau
+- TOP 12.1: Bebauungsplan Nr. 33 „Carl-Zeiss-Weg“, 4. Änderung (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) Aufstellungsbeschluss Beteiligung der Öffentlichkeit Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 144, „Spinnerei Deutschland“, 4. Änderung (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) Aufstellungsbeschluss Beteiligung der Öffentlichkeit Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 24 "Mühlenmathe", 2. Änderung, Stadtteil Gronau (Vereinfachtes Verfahren gemäß § 13 BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 121 "Bahnhof Gronau", 1. Änderung, Stadtteil Gronau (Vereinfachtes Verfahren gemäß § 13 BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 207 "Nieland", 3. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Erneuter Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Straßenendausbau Grafschafter Ring in 2013 und zukünftige Behandlung vergleichbarer Sondergebiete - Einstimmig, 0 Enthaltungen
+- TOP 18.: Beitritt der Stadt Gronau zum "Netzwerk Innenstadt NRW" - Einstimmig, 0 Enthaltungen
+- TOP 19.: 2. Änderungssatzung vom __.__.2012 zur Hauptsatzung der Stadt Gronau (Westf.) vom 28.12.2010 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Stellungnahme der Stadt Gronau zur Errichtung einer Gesamtschule in Ahaus
+- TOP 21.2: 3. Wegweiser des Bündnisses für Familien aufgelegt
+- TOP 22.: Anfragen
+- TOP 22.1: Erweiterung der in Planung befindlichen Kindertagesstätte an der Losserstraße/Königstraße noch möglich? (RM Krause)
+- TOP 22.2: Neue Poller in der Bahnhofstraße (RM Jürgens)
+- TOP 22.3: Einladung der Gastronomen zum Gespräch zur Sicherheit in der Innenstadt (RM Wagner)
+- TOP 22.4: Missbrauch der Sperrgutabfuhr zur Entsorgung von Hausmüll (RM Wagner)
+- TOP 22.5: Vorbescheid für Trianel-Kraftwerk rechtswidrig? (RM Bartels)
+- TOP 22.6: Andauernde Behinderung des Verkehrsflusses auf der Losserstraße (RM Adamsky)
+- TOP 22.7: Radwegeausschilderung im Verkehrsausschuss thematisieren? (RM Buchholz)
+- TOP 22.8: Unzureichende Ausleuchtung des Verkehrsbereichs Gildehauser Straße/Einmündung Heerweg (RM Roters)
+- TOP 22.9: Plünderung zur Abholung bereitgestellten Sperrgutes (RM Schultewolter, RM von Borczyskowski)
+- TOP 22.10: Berichte aus den Aufsichtsräten städtischer Gesellschaften auch als Standard-Tagesordnungspunkt im nichtöffentlichen Teil (RM Schwartze)
+- TOP 22.11: Diebeszug mit Kind - Gronau zuständig? (RM Krause)
