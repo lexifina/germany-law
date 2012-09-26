@@ -1,0 +1,8 @@
+# TOP -: Änderung des Beschlussvorschlages zur Sekundarschule
+
+- Sitzung: Ausschuss für Schulen, Jugend, Sport und Kultur (27. Sitzung) (2012-09-26)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/5244
+- Ergebnis: Abstimmungsergebnis:
+- Beratung: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/consultation/2011
