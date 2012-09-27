@@ -1,0 +1,7 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 24. Sitzung des Ortsgemeinderates Rohrbach (2012-09-27)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2012-400-56%7Czt_4%7C2
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
