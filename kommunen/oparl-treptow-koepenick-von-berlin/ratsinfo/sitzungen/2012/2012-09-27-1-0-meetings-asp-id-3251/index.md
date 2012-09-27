@@ -1,0 +1,64 @@
+# 12. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-09-27T16:30:00+02:00
+- Ende: 2012-09-27T20:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3251
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3251
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-12 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 2, 4 und 6 - gewählt
+- TOP 8.3: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten und eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl einer Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.5: Wahl einer Bürgerdeputierten für den Ausschuss für Weiterbildung und Kultur - gewählt
+- TOP 8.6: Wahl einer Bürgerdeputierten für den Integrationsausschuss - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Abgeordnete Schilder entfernen - überwiesen
+- TOP 9.2: WBS-Wohnungen in Treptow-Köpenick - schriftlich beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Planungsrechtliche Sicherung nach § 125 Abs. 2 BauGB zur Herstellung der Planstraßen „Wasserstraße“ und „Uferstraße“ und der öffentlichen Parkanlage / Ufergrünzug im Geltungsbereich des Bebauungsplans XV-64bb im Bezirk Treptow-Köpenick, Ortsteil Niederschöneweide. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verkehrsleistung der S-Bahn in Treptow-Köpenick verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Berichte des Bezirksamtes zu Ausschusssitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Verkehrsberuhigung Baumschulenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Unterstützung von Kooperationen zwischen Museen und Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Straßennamenschilder wieder erkennen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Veränderung der Tagesordnung der BVV-Sitzung - in der BVV zurückgezogen
+- TOP 12.7: Bebauungsplan XV-37ea-1 VE ("Erweiterung Krankenhaus Hedwigshöhe") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Bebauungsplan XV-37b-1 VE ("Parkdeck Hedwigshöhe") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Beleuchtung Fußweg zwischen Forum Köpenick und Hämmerlingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Müllbeseitigungskapazitäten im Treptower Park erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Schließung des Bürgeramtes IV in 12527 Berlin, Wassersportallee 56 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Unterstützung bei Vertragsverhandlungen zum Rathaus Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Privatsphäre von Engagierten schützen - überwiesen
+- TOP 14.3: Instandsetzung Straßen in Müggelheim und Bohnsdorf - überwiesen
+- TOP 14.4: Neue Fahlenbergbrücke – umwelt- und naturschutzrechtliche Aspekte beachten - überwiesen
+- TOP 14.5: Fußgängerüberquerung in der Bruno-Taut-Straße - in der BVV zurückgezogen
+- TOP 14.6: Verkehrsführung verl. Seelenbinderstraße, Hirschgartenstraße, Straße Am Wiesenrain - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Fortschreibung der Wassertourismuskonzeption Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Wintersicherung des Eierhäuschens im Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: "Fahrrad-Cops" gegen "Rüpel-Radler" - überwiesen
+- TOP 14.10: Volkshochschule - überwiesen
+- TOP 14.11: Freifunk in den Rathäusern Treptow und Köpenick - überwiesen
+- TOP 14.12: Änderung der Geschäftsordnung vom 26.04.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.13: Verbesserung der Zugangsmöglichkeiten zum S-Bahnhof "Oberspree" - überwiesen
+- TOP 14.14: Sportinternat - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Stellen im Regionalen Sozialpädagogischen Dienst, im Fachdienst sowie in der KITA-Kostenstelle nachbesetzen - überwiesen
+- TOP 15: Große Anfragen - (offen)
