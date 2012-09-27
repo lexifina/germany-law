@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-09-27T17:00:00+02:00
+- Ende: 2012-09-27T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWCt0S9s7rcwFJ5O7aCB2WM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4058
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBExoi2u0l4X3PtWs1yEvsTgSZSc25Ufxi_PLk3s46v/Oeffentliche_Niederschrift_Rat_27.09.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 4: Protokoll über die 23. Sitzung des Rates am 05.07.2012
+- TOP 5: Vorschlag für die En-bloc-Abstimmung
+- TOP 6: Vorschlag für die En-bloc-Abstimmung
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Umbesetzung von Ausschüssen und Gremien
+- TOP 9: Besetzung des Verwaltungsausschusses der Agentur für Arbeit Solingen-Wuppertal
+- TOP 10: V. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 11: Abberufung des Leiters des Revisionsdienstes
+- TOP 12: Abberufung einer Prüferin beim Revisionsdienst
+- TOP 13: Etatberatungen für das Haushaltsjahr 2012
+- TOP 14: Etatberatungen für das Haushaltsjahr 2013
+- TOP 15: Wirtschaftsplan 2012 Dienstleistungsbetrieb Gebäude der Stadt Solingen
+- TOP 16: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 17: Jahresabschluss 2011 der Technischen Betriebe Solingen
+- TOP 18: Jahresabschluss 2011 der Technischen Betriebe Solingen
+- TOP 19: Fortführung der Bergischen Entwicklungsagentur GmbH
+- TOP 20: Fortführung der Bergischen Entwicklungsagentur GmbH
+- TOP 21: Müngstener Brücke
+- TOP 22: Perspektive Städtepartnerschaften und Städtefreundschaften
+- TOP 23: Umsetzung der Landesstrategie Neues Übergangssystem Schule- Beruf in NRW
+- TOP 24: Bauleitplanung Mummstraße
+- TOP 25: Bauleitplanung Dönhoffstraße
+- TOP 26: Bauleitplanung Cronenberger Straße/ Haumannstraße
+- TOP 27: Bauleitplanung Löhdorfer Straße/Friedenstraße
+- TOP 28: Verschiedenes
+- TOP 29: Fracking-Verfahren
+- TOP 30: Anatolia on Tour
+- TOP 31: Zuwendungen an Kommunen aus dem Wachstumspakt der EU
+- TOP 32: Polizeieinsatz 1. Mai 2012
+- TOP 33: Tätigkeitsbericht des Seniorenbeirats der Stadt Solingen für die Jahre 2011 und 2012
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 23. Sitzung des Rates am 05.07.2012
+- TOP 3: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 4: Genehmigung einer Dringlichkeitsentscheidung zur Verleihung des Ehrenrings der Stadt Solingen
+- TOP 5: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 6: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 7: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 8: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 9: Rückkauf der Anteile an der Stadtwerke Solingen GmbH
+- TOP 10: Potenzialanalyse im Verkehrsbereich der Stadtwerke Solingen GmbH
+- TOP 11: Potenzialanalyse im Verkehrsbereich der Stadtwerke Solingen GmbH
+- TOP 12: Prüfung der Jahresrechnung 2009 der Eheleute-Carl-Ruß-Stiftung
+- TOP 13: Prüfung der Jahresrechnung 2010 der Eheleute-Carl-Ruß-Stiftung
+- TOP 14: Bauleitplanung Löhdorfer Straße/Friedenstraße
+- TOP 15: Verschiedenes
+- TOP 16: Gebäude Millatu-Ibrahim-Moschee (Mietvertrag)
+- TOP 17: Gewerbeflächen in Solingen
