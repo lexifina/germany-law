@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2012-09-27T15:05:00+02:00
+- Ende: 2012-09-27T19:05:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2008
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2008
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00079971.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00079971.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00079971.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Entwicklung und Fertigstellung der Fördermaßnahme KOMM-IN NRW - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 3: Genehmigung Wiederbestellung SSK - Einstimmiger Beschluss
+- TOP 4: Beratung des Entwurfs der 1. Änderung der Haushaltssatzung 2012 einschl. Haushaltssanierungsplan - Mit Stimmenmehrheit beschlossen
+- TOP 5: Erlass einer Hebesatzsatzung für das Haushaltsjahr 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Außerplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 015 040 010 im Jahresabschluss 2011 - Einstimmiger Beschluss
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 8: Jahresabschluss 2011 - Einstimmiger Beschluss
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2012 - Kenntnisnahme
+- TOP 10: Prolongation der Darlehensverträge mit der Borussia VfL 1900 Mönchengladbach GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 11: Beteiligung der Stadt an der NEW Kommunalholding - Einstimmiger Beschluss
+- TOP 12: Solarkataster Mönchengladbach - Kenntnisnahme
+- TOP 13: Abwasserbeseitigungskonzept 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 14: Bürgerantrag "Kommunen in Not" - Mit Stimmenmehrheit beschlossen
+- TOP 15: Sperrzeitverordnung - Einstimmiger Beschluss
+- TOP 16: Grundschulverbund Giesenkirchen - Einstimmiger Beschluss
+- TOP 17: Grundschulverbund Rheindahlen - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarung mit Zornröschen e.V. - Mit Stimmenmehrheit beschlossen
+- TOP 19: Leistungsvereinbarung Deutscher Kinderschutzbund e.V. - Mit Stimmenmehrheit beschlossen
+- TOP 20: Leistungsvereinbarung mit dem Zentrum für Körperbehinderte e.V. - Mit Stimmenmehrheit beschlossen
+- TOP 21: Leistungsvereinbarung mit AWO, Diakonischem Werk und SKF - Mit Stimmenmehrheit beschlossen
+- TOP 22: Leistungsvereinbarung Fahrradstation Hbf RY - Mit Stimmenmehrheit beschlossen
+- TOP 23: Leistungsvereinbarung Selbsthilfeinformationsstelle - Mit Stimmenmehrheit beschlossen
+- TOP 24: Leistungsvereinbarung Cafe Pflaster MG - Mit Stimmenmehrheit beschlossen
+- TOP 25: Dritter Nachtrag zur Friedhofssatzung - Einstimmiger Beschluss
+- TOP 26: Ehrenplatz - Einstimmiger Beschluss
+- TOP 27: Konzeptentwciklung zur Erweiterung der Fachbereiche 61 und 62;hier: Antrag der Ratsfraktion DIe LINK - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Gründung eines Eigenbetriebes „Grün und Entsorgung“ - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Zusammenlegung des Ausschusses für Finanzen und Beteiligungen mit dem Hauptausschuss - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Beitritt zur Kampagne "Vermögenssteuer jetzt!" - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Anfragen - Zur Kenntnis genommen
+- TOP 31.1: Anfrage von RH Küpper (FDP) - Zur Kenntnis genommen
+- TOP 31.2: Anfrage von RH Schaper (DIE LINKE) - Zur Kenntnis genommen
+- TOP 31.3: Anfrage von RH Dr. Jansen-Winkeln (FDP) - Zur Kenntnis genommen
