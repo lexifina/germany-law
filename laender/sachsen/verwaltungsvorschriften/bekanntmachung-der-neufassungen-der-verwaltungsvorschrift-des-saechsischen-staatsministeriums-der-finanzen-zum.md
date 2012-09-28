@@ -1,8 +1,8 @@
 # Bekanntmachung der Neufassungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-02-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.7
+- Datum: 2012-09-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.8
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -58,10 +58,11 @@ zum Vollzug der Sächsischen Trennungsgeldverordnung
 
 [Geändert durch
 VwV vom 4. Oktober 2001 (SächsABl. S. 1071), durch VwV
-vom 7. November 2007 (MBl. SMF S. 214) und durch VwV
-vom 26. Januar 2010 (MBl. SMF S. 10, 137)
+vom 7. November 2007 (MBl. SMF S. 214), durch VwV
+vom 26. Januar 2010 (MBl. SMF S. 10, 137) und durch VwV
+vom 25. Juli 2012 (SächsABl. S. 1138)
 
-mit Wirkung vom 26. Februar 2010]
+mit Wirkung vom 28. September 2012]
 
 Abschnitt I
 
@@ -1123,6 +1124,8 @@ Anlage 6 neu gefasst durch Bek. vom 20. Dezember 2005 (MBl. SMF 6/2006 S. 1)
 Anlagen 6 und 10 neu gefasst durch Bek. vom 7. November 2007 (MBl. SMF 7/2007 S. 214),
 
 Anlagen 1, 3, 5, 6, 9 und 10 neu gefasst durch VwV vom 26. Januar 2010 (MBl. SMF 2/2010 S. 10, ber. MBl. SMF 8/2010 S. 137)
+
+Anlagen 3, 4, 5, 7 und 8 neu gefasst durch VwV vom 25. Juli 2012 (SächsABl. S. 1138)
 
 Anlage 1
 
