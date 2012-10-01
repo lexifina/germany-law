@@ -1,0 +1,6 @@
+# TOP 3.: Verschiedenes
+
+- Sitzung: Ausschuss für Schule und Bildung (40. Sitzung) (2012-10-01)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37403
