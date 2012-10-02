@@ -1,0 +1,132 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-10-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427829
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427829
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Unterzeichnung des Aufrufs des ?Bündnis bezahlbares Wohnen? und Beitritt des Bezirksausschusses zum Bündnis
+- TOP .2.: Neue Kindergartenplätze schaffen im Dreimühlenviertel: Ausbau des Anwesens Thalkirchner Str. 108-110 in einen städtischen Kindergarten
+- TOP .3.: (NACHTRAG) Dringlichkeitsantrag: Bolzplatz Glockenbachwerkstatt - PLENUMSBESCHLUSS
+- TOP .1.: Budget der Bezirksausschüsse: Theater Continental, Theaterstück für Kinder am 04.11.2012, beantragter Zuschuss: 2.000,00 Euro - PLENUMSBESCHLUSS
+- TOP .1.: Bericht zu REGSAM, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung vom 09.10.2012
+- TOP .2.: Antrag der Stadtratsfraktion DIE GRÜNEN/RL und Initiative des Vorsitzendentreffens: Kinder entscheiden in ihrem Stadtteil, siehe 2012.08 TOP A 3.1 (Eilentscheidung des Vorsitzenden)
+- TOP .3.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse, Anhörung zur vorgeschlagenen Änderung der Bezirksausschuss-Satzung
+- TOP .1.: Wahl der Seniorenvertretung 2013, Information des Sozialreferates zu den Vorstellungsrunden der Kandidatinnen und Kandidaten, Benennung eines Vertreters des BA 2 zur Begleitung der Veranstaltung
+- TOP .2.: Termine: 25.09., 18:30 Uhr: Kinderbeauftragten-Treffen in der Prielmayerstr. 1 11.10., Besuch des Kinder- und Jugendmuseums mit BA 1, 2, 3 ? Anmeldung nötig 06.11., 20 Jahre REGSAM im Hubert-Burda-Saal der IKG
+- TOP .6: Berichte der Beauftragten
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Begrünung Schwanthalerstraße und Landwehrstraße
+- TOP 1: (E) Weg an der Isar zwischen dem Deutschen Museum und dem Marienklausensteg behindertengerecht gestalten Empfehlung Nr. 08-14 / E 01173 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt-Isarvorstadt am 17.11.2011
+- TOP 2: (E) Öffnung des Tores auf der Wittelsbacherbrücke Empfehlung Nr. 08-14 / E 01179 der Bürgerversammlung des Stadtbezirkes 2 Ludwigvorstadt-Isarvorstadt am 17.11.2011
+- TOP 2.3.1: Bauvorhaben
+- TOP 2.1.: Auenstr. 21: Sanierung, Aufstockung, Dachausbau und Neubebauung (8 WE + TG) im Innenhof (Auenstr. 21 + 21a / Wittelsbacherstr. 11 + 12)
+- TOP 2.2.: Klenzestr. 57b - 57c: Aufstockung von drei Rückgebäuden
+- TOP 2.3.: Sonnenstr. 8: Nutzungsänderung eines Ladens in einen Laden und eine Wettannahme
+- TOP 2.4.: Pestalozzistr. 21: Anbau von 4 Balkonen (Ost-/Hofseite)
+- TOP 2.5.: Lindwurmstr. 89: Erweiterung Wohn- und Geschäftshaus durch Aufstockung
+- TOP 2.6.: Corneliusstr. 38: DG-Ausbau, Fassaden- und energetische Sanierung mit Balkonanbau
+- TOP 2.7.: Baaderstr. 44a: Errichtung eines Dachausstiegs auf einem 5-stöckigen Wohngebäude
+- TOP 2.8.: Schwanthaler Str. 58 ? 60: Errichtung eines Hotelgebäudes mit hoteleigenem Frühstücksraum im EG, eines Bürogebäudes im Hinterhof sowie einer Duplex-Tiefgarage mit Rampe im 1. UG und Lager- und Technikräumen im 2. UG
+- TOP 2.9.: Corneliusstr. 28: Hofseitiger Anbau von Aufzug und Balkonen, Umbau der rückwärtigen Fenster zu Fenstertüren
+- TOP 2.10.: Ehrengutstr. 16: Anbau von Balkonen, Hofdecken-Sanierung und Abbruch der Nebenanlage, Errichtung Notleiter ? TEKTUR
+- TOP 2.11.: Ehrengutstr. 20: Anbau eines Balkons im EG / Innenhof
+- TOP 2.12.: Fleischerstr. 8: Aufzugsanbau, Vergrößerung der Dachgauben, DG-Ausbau, Neubau einer Senkgarage, Errichtung einer Dachterrasse, Nutzungsänderung von Gewerbe in Wohnen
+- TOP 2.13.: Landwehrstr. 16: Nutzungsänderung eines Lagers im UG zu einer Gaststätte
+- TOP 2.14.: Schwanthalerstr. 2: Nutzungsänderung Laden zu Gaststätte PLENUMSBESCHLUSS
+- TOP 2.15.: Schwanthalerstr. 46: Nutzungsänderung in ein Wettbüro - PLENUMSBESCHLUSS
+- TOP 2.16.: Landwehrstr. 56: Nutzungsänderung eines Mehrfamilienhauses in ein Hotel sowie Aufstockung des Anbaus - PLENUMSBESCHLUSS
+- TOP 2.17.: Geyerstr. 13: Umbau einer Halle in ein Wohnhaus mit 7 WE - PLENUMSBESCHLUSS
+- TOP 2.18.: Landwehrstr. 1: Errichtung eines Wirtsgartens mit 76 m² (zusätzlich zur Freischankfläche auf öffentlichem Grund), Landwehrstr. 1 / Sonnenstr. 18b (siehe auch TOP 2012.08 B 3.1.6) - PLENUMSBESCHLUSS
+- TOP 2.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 2.1.: Uhlandstr. 5: Antrag auf Baumfällung, 1 Ahorn
+- TOP 2.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1.: Wasserrechtsverfahren Isarwerk III: Betrieb einer Wasserkraftanlage im Bereich der Braunauer Eisenbahnbrücke ? Wittelsbacher Str. 24
+- TOP 2.2.: Planfeststellungsverfahren für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 ?München-West?, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, 2. Planänderung (Eilentscheidung des Vorsitzenden)
+- TOP 2.3.: Sanierung des Straßenbelags in der Holzstraße zwischen Holzplatz und Müllerstraße sowie Am Glockenbach (BA-Antrags-Nr. 08-14 / B 00039 vom 29.04.2008); siehe auch 2011.07 TOP B 3.3.4
+- TOP 2.1.: Maßnahmen zur Beseitigung der Lärmbelästigung durch die Braunauer Eisenbahnbrücke (siehe auch 2012.05 TOP B 2.1 und Sitzungsvorlagen-Nr. 08-14 / E 00952)
+- TOP 2.2.: (NACHTRAG) Kunst im Tunnel, Vorschlag zur Verschönerung des Tunnels in der Paul-Heyse-Straße nahe Hauptbahnhof - PLENUMUSBESCHLUSS
+- TOP 2.5.1: Bericht des Beauftragten
+- TOP 2.1.: Anhörungsrecht des BA 2 zu Entscheidungen und Besprechungen zum Oktoberfest
+- TOP 2.2.: Maßnahmen mittels Türsteher wegen ständiger Ruhestörung durch ein Lokal in der Thalkirchner Straße
+- TOP 2.2.1: Gaststättenangelegenheiten
+- TOP 2.1.: Maistr. 63 "Savanna", Erweiterung Freischankfläche
+- TOP 2.2.: Sendlinger-Tor-Pl. 5 "La Scala", Erweiterung Freischankfläche
+- TOP 2.3.: Kapuzinerplatz 4 Backwaren ?Müller?, Erweiterung Kleinstfreischankfläche
+- TOP 2.4.: Wittelsbacherstr. 15 Gaststätte ?Zoozies?, Antrag auf Betriebszeitverlängerung
+- TOP 2.5.: Goethepl. 2: ?Royals?, Änderungsantrag für eine Freischankfläche (siehe auch TOP 2012.07 C 2.1.4)
+- TOP 2.6.: Sonnenstr. 12: ?Milchbar?, Aufhebung der Sperrzeit an Sonntagen
+- TOP 2.7.: Bayerstr. 15: ?Il Gelato Italiano?, Erweiterung und Änderung Freischankfläche - PLENUMSBESCHLUSS
+- TOP 2.8.: (NACHTRAG) Lindwurmstr. 21: Gaststätte ?Zero?, Genehmigung einer Freischankfläche - PLENUMSBESCHLUSS
+- TOP 2.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.1.: Pestalozzistr. 13-15 "Webguerillas GmbH", Antrag für zwei Fahrradständer
+- TOP 2.2.: Schwanthalerstr. / Ecke Sonnenstr. 8, Gärtnerpl. 5: Aufstellung von Zeitungsentnahmegeräten für Tageszeitungen
+- TOP 2.2.3: Sonstige Entscheidungen
+- TOP 2.1.: Taxistandplatz Thalkirchner Str. 2, Entfernung der zeitlichen Befristung, Beschränkung auf einreihige Aufstellung
+- TOP 2.1.: Christkindlmarkt ?Pink Christmas? auf dem Stephansplatz (26.11.-23.12.2012) - PLENUMSBESCHLUSS
+- TOP 2.3.2: Verkehr
+- TOP 2.1: Termine
+- TOP 2.1.: Unterausschuss ?Planen-Bauen? am Montag, den 08.10.2012 um 19.00 Uhr voraussichtlich in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP 2.2.: Unterausschuss ?KVR? am Dienstag, den 09.10.2012 um 19.00 Uhr in der Gaststätte ?Schmeller Wirtshaus?, Schmellerstr. 13, 80337 München
+- TOP 2.3.: Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 10.10.2012 um 19.00 Uhr in der in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP 2.4.: Die BA-Sitzung findet am Dienstag, den 23.10.2012 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 2.5.: Die Bürgerversammlung des 2. Stadtbezirkes findet am 15.11.2012 um 19 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Ab 18 Uhr stehen Vertreter verschiedener städtischer Referate und Einrichtungen zur Bürgersprechstunde zur Verfügung.
+- TOP 2.3: Sonstiges / Verschiedenes
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Gruppenfoto aller BA-Mitglieder
+- TOP 2.&nbsp;: Unterrichtungen
+- TOP 2.1.: BA-Budget: Bescheide
+- TOP 2.2.: Verwendungsnachweise
+- TOP 2.3.: Studie ?Älter werden in München?, Sitzungsvorlagen Nr. 08-14 / V 10069, Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 05.09.2012
+- TOP 2.4.: Weihnachtsmusik auf dem Alten Südlichen Friedhof
+- TOP 2.5.: Mietspiegel für München, Beschluss des Sozialausschusses vom 20.09.2012, Sitzungsvorlagen Nr. 08-14 / V 09836
+- TOP 2.6.: Antwortschreiben des Referates für Stadtplanung und Bauordnung: Zukunft der Frauenklinik in der Maistraße (BA-Antrag-Nr. 08-14 / B 03910 vom 24.04.2012, siehe auch TOP 2012.04 A 1.1)
+- TOP 2.7.: Antwortschreiben des Sozialreferates zur Anfrage des Bezirksausschusses bezügl. der Förderung des Ausbildungsrestaurants ?Roecklplatz? (siehe auch TOP 2012.07 II 7)
+- TOP 2.8.: Tätigkeitsbericht ConAction 2011, Condrobs e.V.
+- TOP 2.9.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012: Jahr der Partizipation von Kindern und Jugendlichen in München (Sitzungsvorlage Nr. 08-14 / 10032)
+- TOP 2.1.: Baumaßnahmen SWM
+- TOP 2.2.: Antwortschreiben des Baureferates zum Bürgeranliegen ?Springbrunnen Sendlinger-Tor-Platz? (siehe auch TOP 2012.07 II 4)
+- TOP 2.3.: Antwortschreiben des Baureferates zum Bürgeranliegen ?Straßenschäden im Bereich des Anwesens Klenzestr. 50? (siehe auch TOP 2012.07 II 3)
+- TOP 2.4.: Information der Lokalbaukommission zum Bauvorhaben Schwanthalerstr. 58-60 (siehe auch TOP 2012.07 B 3.1.2)
+- TOP 2.5.: Antwortschreiben des Referates für Gesundheit und Umwelt zum BA-Antrag ?Lärm- und Verkehrsbelastungen in der Schwanthalerstr.? (BA-Antrags-Nr. 08-14 / B 04171)
+- TOP 2.6.: Antwortschreiben des Baureferates zur Stellungnahme zum Einbau einer Überquerungshilfe Pestalozzistr. / Stephanstr. (siehe auch 2012.07 TOP B 3.3.1)
+- TOP 2.7.: Zwischeninformation und Änderung der Federführung zum BA-Antrag ?Weitere Fahrradstellplätze in der Lindwurmstraße? (BA-Antrags-Nr. 08-14 / B 04166)
+- TOP 2.8.: Bayerstr. 41: Aufwertung Baumgraben
+- TOP 2.9.: Schule Klenzestr. 27: Fällen von zwei Gefahrenbäumen
+- TOP 2.10.: Beschluss des Bayerischen Verwaltungsgerichts zur Nutzungsuntersagung in der Pettenkoferstr.
+- TOP 2.11.: Antwortschreiben der LBK zum Bauvorhaben in der Schwanthalerstr. 60
+- TOP 2.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012: Neue Werkswohnungen (Sitzungsvorlagen-Nr. 08-14 / V 10159)
+- TOP 2.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Sitzungsvorlagen-Nr. 08-14 / V 09168)
+- TOP 2.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der BayBO, Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Sitzungsvorlagen-Nr. 08-14 / V 09600)
+- TOP 2.15.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2012-30.06.2012 (Sitzungsvorlagen-Nr. 08-14 / V 10181)
+- TOP 2.1.: Versammlungen unter freiem Himmel
+- TOP 2.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 2.3.: Unveränderte Gaststättenfortführungen
+- TOP 2.4.: Verkehrsrechtliche Anordnungen
+- TOP 2.5.: Erlaubnisbescheide
+- TOP 2.6.: Radverkehr im südlichen Bahnhofsviertel
+- TOP 2.7.: Ausnahmezulassung des Referates für Gesundheit und Umwelt für die Müllentsorgung während des Oktoberfestes
+- TOP 2.8.: Lärmbelästigung durch After-Wiesn-Parties in der Mozartstr. (Bürgerversammlungs-Empfehlung Nr. 08-14 / E 01171); hier: Schriftverkehr zwischen Kreisverwaltungsreferat und Antragsteller, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 2.9.: Nachtrag Gärtnerplatzfest und Open Air am 15.09. und 16.09.2012 auf dem Gärtnerplatz, Eilentscheidung des Vorsitzenden vom 30.08.2012
+- TOP 2.10.: Ausweichtermin Straßenfest in der Pestalozzistraße am 01.09.2012 (Ersatztermin: 08.09.2012)
+- TOP 2.11.: Antwortschreiben des Kreisverwaltungsreferates zur Verkehrssituation Stephanstr. / Pstalozzistr.
+- TOP 2.12.: Hackerbrücke wird Fahrradstraße (BA-Antrags-Nr. 08-14 / B 04169 vom 31.07.2012), BA 3 Maxvorstadt unterstützt den Antrag des BA 2 und gibt zusätzlichen Hinweis, siehe auch TOP 2012.07 C 1.1
+- TOP 2.13.: Zwischennachricht des Baureferates, Abtl. Gartenbau bezügl. der Pflanztröge vor dem Anwesen Bayerstr. 13 + 15 (siehe auch TOP 2012.07 C 5.1)
+- TOP 2.14.: Böllerschießen zum Auftakt der Wiesn im Ausstellungspark westlich der Ruhmeshalle, pyrotechnische Anzeige (Eilentscheidung des Vorsitzenden)
+- TOP 2.5: Sonstiges
+- TOP 2.1: Anträge
+- TOP 2.2: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4: Unterrichtungen (siehe Beiblatt)
+- TOP 2.2.: Veranstaltungen
