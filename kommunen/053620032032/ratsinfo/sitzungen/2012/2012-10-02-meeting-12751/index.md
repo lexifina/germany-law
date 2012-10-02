@@ -1,0 +1,66 @@
+# Stadtrat (23. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-10-02T17:00:00+02:00
+- Ende: 2012-10-02T19:26:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXinKc41QYDzDS0Yy80VtS4
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12751
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSW6b2cVhOwZBvcLnOJ_udhb5au7oZSDSYvbsjwb68CM/Bekanntmachung_Stadtrat_02.10.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdeifcXOgyqgIwE3Fd9lra32HNF7aEcpIwNj31DSBcb8/Oeffentliche_Niederschrift_Stadtrat_02.10.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 1a: Neue Vertriebsstruktur der Kreissparkasse Köln hier: Vortrag durch den Regionaldirektor der Kreissparkasse Köln, Gerd Roß
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Besetzung des Schulausschusses hier: Benennung von beratenden Mitgliedern
+- TOP 2.2: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleiter gem. § 61 SchulG
+- TOP 2.3: Umbesetzung des Jugendhilfeausschusses / Stimmberechtigte Mitglieder
+- TOP 3.: Einführung einer Kastrations-, Kennzeichungs- und Registrierungspflicht für Freigängerkatzen
+- TOP 4.: Förderung von Betreuungsvereinen im Rhein-Erft-Kreis
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Änderung des Regionalplanes zur Erweiterung des Gewerbegebietes Türnich III - Tauschflächen zur Kompensation der Flächenerweiterung - hier: Austausch der Tauschfläche 5 (bei Geilrath) in Sindorf gegen eine Fläche im Stadtteil Buir
+- TOP 5.2: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.3: Bebauungsplan SI 346 "Wohnanlage Breite Straße/Hüttenstraße", Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 5.4: Bebauungsplan SI Nr. 346 "Wohnanlage Breite Straße/Hüttenstraße"; hier: Abschluss eines Erschließungsvertrages
+- TOP 5.5: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 5.6: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.7: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim 1. Aufstellungsbeschluss gem. § 2 (1) BauGB 2. Teilaufhebung des Bebauungsplanes Nr. 1/1. Änderung
+- TOP 5.8: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg" hier: Abschluss eines Städtebaulichen Vertrages gemäß § 11 BauGB zur Ausarbeitung städtebaulicher Planungen
+- TOP 5.9: Schaffung der Rechtsgrundlage für einen Teilbereich der Erschließungsanlage "Vinzenzstraße" im Stadtteil Kerpen gem. § 125 (2) BauGB hier: Beteiligung der Öffentlichkeit sowie der Behörden
+- TOP 6.: Ausbau barrierefreier Bushaltestellen im Stadtgebiet hier: Ausbaubeschluss sowie Bereitstellung von Haushaltsmittel
+- TOP 7.: Neubau eines Sozialgebäudes für den Löschzug Kerpen hier: Kostenverfolgung, Erläuterung zum Mehrbedarf und überplanmäßige Bereitstellung von Haushaltsmitteln - (kein Text vorhanden)
+- TOP 8.: Neubau einer dreigruppigen Kindertageseinrichtung im Wohngebiet "Vogelrutherfeld" in Kerpen-Sindorf
+- TOP 9.: Anbau einer zusätzlichen Gruppe für Kinder über und unter drei Jahren an die Kindertageseinrichtung Erftpiraten in Kerpen- Horrem
+- TOP 10.: Sportplatz in Kerpen-Horrem, Rathausstraße hier: Wegfall der sportlichen Nutzung und künftige Ausweisung als Ausgleichsfläche
+- TOP 11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1: Bereitstellung von Ausbildungsplätzen 2013
+- TOP 11.2: Verfahren Bewerbungen techn. Beigeordnete/r
+- TOP 12.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im II. Quartal 2012
+- TOP 13.: Bekanntgabe der in der Zeit vom 01.01. bis 30.06.2012 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 14.: Sponsoringbericht 2011
+- TOP 15.: Aufhebung des Sperrvermerks für die Baumaßnahme "Beseitigung brandschutztechnischer Mängel in der Rathausschule"
+- TOP 16.: Kündigung des Vertrages zwischen dem Erftkreis (jetzt Rhein-Erft-Kreis) und der Stadt Kerpen über die Kostenbeteiligung des Straßenbaulastträgers Erftkreis an der kommunalen Kanalisation
+- TOP 17.: Kommunales Energiekonzept für die Kolpingstadt Kerpen
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Außerplanmäßige Bereitstellung von Finanzmittel zur Errichtung einer Aufstellfläche für "fliegende Bauten"
+- TOP 18.2: Weitere Verlängerung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE 338 "Hahnenpassage" im Stadtteil Kerpen gem. § 17 (2) BauGB
+- TOP 19.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 23.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 23.1: 1. Außerplanmäßige Bereitstellung vom Haushaltsmitteln hier: Kanalsanierung im Bereich Stiftsstraße / Kölner Straße / Hahnenstraße 2. Auftragsvergabe: hier: Ausbau der Hahnenstraße 2. Bauabschnitt (zwischen Marienstraße und Kölner Straße)
+- TOP 24.: Erwerb einer Immobilie und einer Teilfläche im Stadtteil Kerpen
+- TOP 25.: Veräußerung des Waldweggeländes in Kerpen-Horrem
+- TOP 26.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 27.: Mitteilungen
+- TOP 28.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 30.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
