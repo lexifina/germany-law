@@ -1,0 +1,8 @@
+# TOP 7.4: Finanzzuschuss für Geländer an Brücken im Tännichtgrund
+
+- Sitzung: 32. Sitzung des Ortschaftsrates Cossebaude (2012-10-08)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/34761
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/11215
