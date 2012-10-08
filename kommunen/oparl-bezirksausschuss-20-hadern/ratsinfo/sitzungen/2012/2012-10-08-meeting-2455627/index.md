@@ -1,0 +1,96 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455627
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455627
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Straßenreinigung und Winterdienst
+- TOP 1.2.: Neubau der Schröfelhofstraße
+- TOP 1.3.: Vermüllung der Grünanlage Stiftsbogen / Schröfelhofstraße
+- TOP 1.4.: Umbau und Neugestaltung des Spiel- und Bolzplatzes am Stiftsbogen 15 a
+- TOP 1.5.: Zustand Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 3.3.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.4.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Familienzentrum Hadern-Blumenau e.V., Einsatz "Spielkistl" in der Kalenderwoche 42 (Direktorium, 20.09.12)
+- TOP 5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Rolandseckstraße 14, Neubau eines Dreispänners (Referat für Stadtplanung und Bauordnung, 29.08.12)
+- TOP 6.2.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse (Direktorium, 13.09.12)
+- TOP 6.3.: Heiglhofstraße 13, Umbau und Erweiterung des Landgasthofs "Erdinger Weißbräu" - Vorbescheid (Referat für Stadtplanung und Bauordnung, 12.09.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Rolandseckstraße 14, gem. Baumbestandsplänen Nr. 16360, 16362, 16363 (vertagt aus 09/12)
+- TOP 7.2.: Sonnenblumenstraße 10 a, 2 Nadelbäume
+- TOP 7.3.: Rudelsburgstraße 5, gem. Baumbestandsplan Nr. 19450
+- TOP 7.4.: Heiglhofstraße 13, gem. Baumbestandsplan Nr. 15213
+- TOP 7.5.: Waldesruhe 3, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 19656
+- TOP 7.6.: Rolf-Pinegger-Straße 4, 2 Fichten und 1 Vogelbeere
+- TOP 7.7.: Waldesruhe 18, 1 Blaufichte
+- TOP 7.8.: Hirtentäschelweg 14, 1 Zeder
+- TOP 7.9.: Waldklausenweg 29, 1 Thuje
+- TOP 7.10.: Magnolienweg 4, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Gräfelfinger Straße 107 a - b, 1 Fichte (Referat für Stadtplanung und Bauordnung, 25.09.12)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Am Wiesenhang 24, 1 Birke (Referat für Stadtplanung und Bauordnung, 20.09.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Kanalsanierung 2012: Kleinhadern-Laim, Langwied-Aubing, Am Hart (Münchner Stadtentwässerung, 17.09.12)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: - Sauerbruchstraße: Fernwärme - Großhaderner Straße: Strom (Stadtwerke München, 03.09.12)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Silberblattstraße (Sozialreferat, 10.09.12) - Arnikaweg (Sozialreferat, 31.08.12) - Haseneystraße (Sozialreferat, 27.08.12) - Gräfelfinger Straße (Sozialreferat, 20.09.12)
+- TOP 8.4.: Anliegerinformation Spielplatz Stiftsbogen (Baureferat, 20.09.12)
+- TOP 8.5.: Information über eingleisige Verkehre während Gleisarbeiten auf der U3 und U6-Süd (MVG, 02.10.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Spielwiese und Schachbrett am Stiftsbogen (Baureferat, 29.08.12)
+- TOP 9.2.: Schmalere Buswartehäuschen (Referat für Arbeit und Wirtschaft, 30.08.12)
+- TOP 9.3.: Errichtung der Gehwegnasen an den Einmündungen Mäuselweg und Vingerstraße (Baureferat, 04.09.12)
+- TOP 9.4.: Gelbhofstraße 6, Umbau und Aufstockung eines Kindergartens / einer Kinderkrippe und Nutzungsänderung von Bank / Wohnen in Kita (Referat für Stadtplanung und Bauordnung, 10.09.12)
+- TOP 9.5.: Begrünung Containerstandplatz Schröfelhofstraße (Abfallwirtschaftsbetrieb München, 19.09.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Häuser Maenherstraße 40 + 45 (alt+kelber Immobilienvertrieb, 04.09.12)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Dank für Zuschuss aus dem BA-Budget zum Blumenauer Sommerfest 2012
+- TOP 11.2.: Geburtstagseinladung der Münchner Kammerspiele am 14.10.2012
+- TOP 11.3.: Mitteilung der Termine 2013 "Das Referat für Bildung und Sport trifft die Bezirksausschüsse", Termin BA 20: 27.11.2013 (Referat für Bildung und Sport, 03.09.12)
+- TOP 11.4.: Flyer Münchner EnergieSparTage am 10. und 11.11.2012 (Referat für Gesundheit und Umwelt, 05.09.12)
+- TOP 11.5.: Abschlussveranstaltung "Energiegerechte Stadtentwicklung in München Freiham/Neuaubing" am 17.10.2012 (Referat für Stadtplanung und Bauordnung, 11.09.12)
+- TOP 11.6.: Wahl der Seniorenvertretung 2013, Vorstellungsrunden der Kandidatinnen und Kandidaten (Sozialreferat, 11.09.12)
+- TOP 11.7.: Einladung zum Fachgespräch "Regionale" Pflanzenölwirtschaft kontra "regionale" Lebensmittelversorgung am Donnerstag, 18.10.2012 (Referat für Gesundheit und Umwelt, 25.09.12)
+- TOP 11.8.: Urbanes Natur-Netz München, Zwischenauswertung der Umfrage (Urbanes Wohnen e.V. München, 27.09.12)
+- TOP 11.9.: Aufkleber für die BA-Schaukästen (Direktorium, 26.09.12)
+- TOP 11.10.: Einladung zum Treffen der Gleichstellungsbeauftragten am Donnerstag, 25.10.2012 von 17.00 - 19.00 Uhr (Gleichstellungsstelle für Frauen, 01.10.12)
+- TOP 11.11.: Terminanfrage zum Gespräch mit dem Referat für Stadtplanung und Bauordnung zum Thema "Gartenstadt" (Referat für Stadtplanung und Bauordnung, 04.10.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 05.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10069 (nach Antrag): Studie "Älter werden in München" - Untersuchungskonzeption - Ermächtigung zur Auftragsvergabe - Satzungserlass zur Befragung von Haushalten
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10159: Neue Werkswohnungen a) Neue Werkswohnungen I: Betriebe und Unternehmen der öffentlichen Hand b) Neue Werkswohnungen II: Mittelständische und große Privatunternehmen c) Mehr Wohnungen für München - Nur ein größeres Wohnungsangebot kann Mieten senken!
+- TOP 12.2.: Beschluss des Ausschusses für Bildung und Sport vom 19.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10036: Kindertagesstätten sonstiger Träger; Kinderkrippe Marchioninistraße 15 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 (Förderbetrag = 1.680.000,- ?, wovon der Freistaat Bayern 1.128.000,- ? trägt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09604 (nach Antrag): Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 - Fortschreibung im Bauprogramm 2012 - Änderung des Mehrjahresinvestitionsprogramms 2011 - 2015, insbesondere zur Kita an der Waldwiesenstraße 27 (Krippe und Kindergarten, Kosten 3.910.000,- ?)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09168: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Bei der Festlegung der Entwicklungsziele von Ausgleichsflächen werden deren klimatische Ausgleichswirkungen berücksichtigt.)
+- TOP 12.2.: Hinweis / Ergänzung vom 20.08.2012 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung (Für Erklärungen des Planungsreferates, dass ein Bauvorhaben als "Freisteller" ohne Durchführung eines Genehmigungsverfahrens durchgeführt werden könne, werden Gebühren in Höhe von 35 bis 75,- ? erhoben, Art. 58 Abs. 3 Satz 4 BayBO.)
+- TOP 12.3.: Beschluss des Sozialausschusses vom 20.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09836: Mietspiegel für München (Der OB soll sich für das Streichen des 4-Jahres-Zeitraums im Sinne des § 558 Abs. 2 BGB einsetzen.)
+- TOP 12.4.: Beschluss des Sozialausschusses vom 20.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09962: Energieeffiziente Maßnahmen im Bauvorhaben des Kommunalen Wohnungsbauprogramms Finanzierung von Photovoltaikanlagen Bauvorhaben Großhaderner Straße / Ammerseestraße, Flst. 233, 234, 235 Gemarkung Großhadern, Wohnungsbau gefördert im Kommunalen Wohnungsbauprogramm-Teilprogramm C, insbesondere Darstellung der Kosten (140.000,- ?)
+- TOP 12.5.: Beschluss des Sozialausschusses vom 20.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09985: Wohnhaus zur Abklärung der Wohnperspektive - Clearinghaus Großhaderner Straße 60, Flst. 233, 234, 235 Gemarkung Großhadern Betriebskostenanmeldung Haushaltsjahr 2012 ff (2013 = 125.208,- ?, 2014 = 94.958,- ?)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10181: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2012 - 30.06.2012
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
