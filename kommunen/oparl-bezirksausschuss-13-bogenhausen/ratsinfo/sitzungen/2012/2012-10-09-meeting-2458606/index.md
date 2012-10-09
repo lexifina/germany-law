@@ -1,0 +1,59 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2012-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2458606
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2458606
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 2.2.2: Unterausschuss Planung
+- TOP 2.2.3: Unterausschuss Verkehr
+- TOP 1: (E) Überdachung der Treppenaufgänge am U-Bahnhof Arabellapark (Ziffer 2 des Antrags) Empfehlung Nr. 08-14 / E 00515 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 22.10.2009
+- TOP 1.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 1.2.5: Unterausschuss Haushalt, Satzung
+- TOP 1.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 1.2.7: Unterausschuss Kultur, Projekte
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Gestaltung des Effnerplatzes; Externer Wettbewerb
+- TOP 6.2.: Spielplatz Stuntzstraße (neben Kirche St. Capistran), Installation von Schaukeln
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
