@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2398059
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2398059
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung vom 11.09.2012 durch die PI 12 mit Schreiben vom 25.09.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: E-Mail eines Bürgers vom 07.09.2012 Beschwerde über die Ampelschaltung für Radfahrer zwischen Georgenstraße und Königsplatz (s. auch TOP 2.1.2)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 35., 36., 37., 39. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 34./35., 36./37. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Erzgießereistraße 2, Neubau eines Wohn- und Bürogebäudes mit Tiefgarage
+- TOP 2.1.4.: Referat für Stadtplanung und Bauordnung, Aufstellungsbeschluss ? Entwurf - Bebauungsplan mit Grünordnung Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich)
+- TOP 2.1.5.: Schellingstraße 24, Errichtung einer Dachterrasse ? Vorbescheid -
+- TOP 2.1.6.: Erzgießereistraße 14, Abbruch eines Büro- und Gewerbekomplexes mit Neubau einer Wohnanlage incl. Tiefgarage (Erzgießereistraße 14/Linprunstraße 18 u. 22) ? Vorbescheid -
+- TOP 2.1.7.: Dachauer Straße 12, Neubau eines Boardinghauses mit Gastrobereich im EG und TG
+- TOP 2.1.8.: Schleißheimer Straße 16, Neubau eines Wohn- und Geschäftshauses
+- TOP 2.1.9.: Karlstraße 96, Nutzungsänderung Produktion zu Büro/Verwaltung und Umbau der Ein- gangssituation (Karlstraße 96/Sandstraße 3)
+- TOP 2.1.10.: Vollzug der Baumschutzverordnung Wittelsbacherplatz 4, Abbruch und Neubau der Siemens-Konzernzentrale
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Rottmannstraße 11 ? 11b, ein Ahorn
+- TOP 2.2.2.: Theresienstraße 83, zwei Platanen
+- TOP 2.2.3.: Katharina-von-Bora-Straße 5-9, mehrere Bäume laut Baumbestandsplan
+- TOP 2.2.4.: Nymphenburger Straße 37/39, eine Hainbuche, eine Birke
+- TOP 2.2.5.: Ludwigstsraße 28, ein Bergahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 24.09.2012 Heßstraße soll Fahrradstraße werden
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen Die Dachauer Straße ist ab Höhe ?Norkauerplatz? in Richtung stadtauswärts für Radfahrer zu öffnen.
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 1: (E) Errichtung eines Radweges in Ost/West-Richtung durch die Gabelsbergerstraße von der Schleißheimer Straße bis zum Altstadtring Verkehrsberuhigung in der Gabelsbergerstraße und Theresienstraße durch Reduzierung der Fahrspuren Errichtung eines Fahrradweges in der Gabelsberstraße
+- TOP 1.2.: E-Mail eines Bürgers vom 07.09.2012 Beschwerde über die Ampelschaltung für Radfahrer zwischen Georgenstraße und Königsplatz (s. TOP 5.2.1)
+- TOP 1.3.: Einwohnerversammlung des BA 3 vom 12.07.2012 (Neubau der Siemens-Konzernzentrale am Wittelsbacherplatz) Vorschlag eines Antwortschreibens an den Antragsteller
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Radrennveranstaltung ?Cycling Days? am 28.04.2013
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Renovierung der U-Bahn-Galerie
+- TOP 3.2.: Ausstellungsplan U-Bahn-Galerie
+- TOP 3.3.: Termine UA Kultur 2013
+- TOP 3.4.: Verschiedenes
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Baureferat, Tiefbau Professor-Huber-Platz, barrierefreier Zugang
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, LBK Rosenheimer Straße 46, Nutzungsänderung in eine Spielhalle Urteil des Bayerischen Verwaltungsgerichtes München vom 23.08.2012
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nach dem Scheitern der staatlichen Pläne: Planung für das Finanzamtsareal an der Deroystraße Sitzungsvorlagen Nr. 08-14/V 10026 Beschluss des Ausschusses für Stadtplanung und Bauordnung am 26.09.2012
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße - Siemens-Konzernzentrale - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss Sitzungsvorlagen Nr. 08-14/V 10062 Beschluss des Ausschusses für Stadtplanung und Bauordnung am 26.09.2012
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung Sitzungsvorlagen Nr. 08-14/V 09168 Beschluss des Ausschusses für Stadtplanung und Bauordnung am 26.09.2012
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neue Werkswohnungen a) Neue Werkswohnungen I: Betriebe und Unternehmen der öffentlichen Hand b) Neue Werkswohnungen II: Mittelständische und große Privatunternehmen Sitzungsvorlagen Nr. 08-14/V 10159 Beschluss des Ausschusses für Stadtplanung und Bauordnung am 26.09.2012
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Kunstareal München: Kunst, Kultur, Wissen a) Sachstandsbericht b) weiteres Vorgehen c) Kunstmeile Luisenstraße, Antrag Nr. 506 vom 30.04.1991 (Stadtrat) d) Kulturviertel rund um die Arcisstraße, Antrag Nr. 620 vom 23.07.1991 (Stadtrat) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 Sitzungsvorlage Nr. 08-14 / V 10152
+- TOP 1.8.: Bürgerbeschwerde wegen einer Bar in der Neureutherstraße Schreiben der Bürger an das Kreisverwaltungsreferat
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Erstellung eines Konzeptes zur Anpassung der Bushaltestellen an der Universität an den gestiegenen Bedarf
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Genehmigungsbescheid ?Piazza Italia? auf dem Wittelsbacherplatz vom 07.09.2012 bis 16.09.2012
+- TOP 2.3.: Baumaßnahmen der Stadtwerke a) Cluster 19, TU-Viertel, Glasfaser b) Cluster 30, Maxvorstadt, Glasfaser c) Wittelsbacherplatz, Wasser
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Streetlife Festival/Corso Leopold am 08.09. und 09.09.2012 in der Ludwig- und Leopold- straße zwischen Odeonsplatz und Münchner Freiheit
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Zeitliche Beschränkung von allgemeinen Behindertenparkplätzen a) Linprunstraße 22 b) Linprunstraße 25
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Austauschprogramm für Lichtzeichenanlagen a) Görresstraße/Schleißheimer Straße b) Schellingstraße/Schleißheimer Straße
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung BV-Empfehlung Nr. 08-14 / E 01110 vom 20.10.2011 ?Verkehrsberuhigung in der Augusten- straße, ggf. temporär gesperrt? Schreiben vom 06.09.2012
+- TOP 2.8.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes, Dachauer Straße 34
+- TOP 2.9.: 2.9 Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bauernmarktmeile am 07.10.2012 auf dem Odeonsplatz und in der Ludwigstraße Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Haltverbotsone über 235 Meter für Filmaufnahmen im Arnulfpark Eilentscheidung des Vorsitzenden vom 13.09.2012
+- TOP 2.11.: Baureferat, Kunst im öffentlichen Raum Nutzung der Grünanlage Luisen-/Elisenstraße, Aufbau von zwei Einhausungen über den Bunkereingängen; Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Vorankündigung eines Konzertes von David Garrett am 01.06.2013 auf dem Königsplatz
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung des allgemeinen Behindertenparkplatzes im Bereich Augustenstraße 2
+- TOP 2.14.: Bürgerbeschwerde wegen Lärmbelästigung durch eine Gaststätte in der Schellingstraße Informationen der Bezirksinspektion und Schreiben des Vorsitzenden an den Beschwerde- führer
+- TOP 2.15.: Radfahren entgegen der Einbahnrichtung in der Sophienstraße
+- TOP 2.16.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Schreiben des KVR an die Beschwerdeführer wegen Lärmbelästigung durch Gastrono- miebetriebe in der Kurfürstenstraße (s. TOP C 2.3.2/0912)
+- TOP 2.17.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Feuerwerk zum Tag der Deutschen Einheit am 03.10.2012 in der Ludwigstraße Eilentscheidung des Vorsitzenden vom 19.09.2012
+- TOP 2.18.: Einwohnerversammlung des BA 3 vom 12.07.2012 (Neubau der Siemens-Konzernzentrale am Wittelsbacherplatz) Antwortschreiben an Antragsteller
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Sozialreferat, Beschlussvorlage Studie ?Älter werden in München? Untersuchungskonzeption, Ermächtigung zur Auftragsvergabe, Satzungserlass zur Be- fragung von Haushalten Sitzungsvorlage Nr. 08-14/V 10069 Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 05.09.2012
+- TOP 3.2.: Sozialreferat, Beschlussvorlage Mitspiegel für München; Aufnahme von Bestandsmieten in den Münchner Mitspiegel Antrag Nr. 1/2012 des Mieterbeirates vom 16.04.2012 Beschluss des sozialausschusses vom 20.09.2012 Sitzungsvorlage Nr. 08-14 / V 09836
+- TOP 3.3.: Referat für Bildung und Sport, Termine 2013 ?Das Referat für Bildung und Sport trifft die Bezirksausschüsse?
+- TOP 3.4.: Sozialreferat Bericht zu REGSAM, Bericht Vertragszeitraum 2010 ? 201 REGSAM neu denken, Beschluss Vertragszeitraum 2013 ? 2015 REGSAM ? ein starkes Netzwerk für München Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2012 Sitzungsvorlage Nr. 08-14 / V 10073
+- TOP 3.5.: Sozialreferat Jahr der Partizipation von Kindern und Jugendlichen in München Bericht über die Umsetzung 2009/2010 Einrichtung einer dauerhaften Koordinationsstelle im Sozialreferat Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012 Sitzungsvorlage Nr. 08-14 / V 10032
+- TOP 4: Kultur
+- TOP 4.1.: Kunstpavillon e.V. im Alten Botanischen Garten Schreiben und Presseerklärung der zurückgetretenen Vorsitzenden
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Terminübersicht 2013
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
