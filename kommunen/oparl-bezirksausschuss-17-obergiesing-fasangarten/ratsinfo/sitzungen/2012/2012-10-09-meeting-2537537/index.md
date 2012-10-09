@@ -1,0 +1,141 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2537537
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2537537
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: 1. Protokoll der Sitzung des Ferienausschusses des BA 17 vom 14.08.2012; 2. Protokoll der Sitzung des Bezirksausschusses 17 vom 11.09.2012
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Müllsituation Giesing; Schreiben der Bürgerin Frau B. vom 19.09.2012
+- TOP 2.1.2.2.: Zebrastreifen vor der Lincolnschule; E-Mail von Frau F. vom 20.09.2012
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Antrag zur Taktverdichtung auf der Tramlinie 17
+- TOP 3.2.: Antrag auf Einbeziehung des westlich der Marklandstraße zwischen Winlandstr. und Fasangartenstr. liegenden Waldstücks in das bereits bestehende Landschaftsschutzgebiet MUC Bio 304;
+- TOP 4: Budget
+- TOP 4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 5.1.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag der Süddeutsche Zeitungs GmbH auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Schreiben des KVR vom 19.09.2012 mit der Bitte um Entscheidung
+- TOP 5.1.2.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche Schwanseestr. 2; Beschlussvorlage des Kreisverwaltungsreferates wird nachgereicht
+- TOP 5.1.3.1.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Brecherspitzstraße 6a, Gemarkung: Sektion VIII, Fl.Nr.: 15691/0; Nutzungsänderung einer Gaststätte in ein Wettbüro; Schreiben des PlanR 30.08.2012 mit der Bitte um Stellungnahme
+- TOP 5.1.3.2.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung, Walchenseeplatz 6, Gemarkung: Sektion VIII, Fl.Nr.: 15913/34; Neubau von 6 Wohnungen im Hinterhof sowie einer Wohnung im best. Dachgeschoss; Schreiben des PlanR vom 30.08.2012 mit der Bitte um Stellungnahme
+- TOP 5.1.3.3.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Werinherstr. 69, Gemarkung: Sektion VIII, Fl.Nr.: 15681/18; Teilnutzungsänderung (Verkleinerung einer Gaststätte auf ca. 44 m² / Errichtung einer eigenständigen Café-Bar mit ca. 30 m²); Schreiben des PlanR vom 31.08.2012 mit der Bitte um Stellungnahme
+- TOP 5.1.3.4.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Chiemgaustr. 34a - 34b, Gemarkung: Sektion VIII, Fl.Nr.: 16169/19; Neubau eines Mehrfamilienhauses mit Tiefgarage; Schreiben des PlanR vom 04.09.2012 mit der Bitte um Stellungnahme
+- TOP 5.1.3.5.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung Martin-Luther-Str. 2; Nutzungsänderung mit Umbau: Büro- und Veranstaltungsgebäude zu privater Brauerei mit Büro und Gaststätte; Schreiben des PlanR vom 20.09.2012 mit der Bitte um Stellungnahme
+- TOP 5.1.4.1.: Prüfung der Realisierbarkeit eines Durchstichs / Verlängerung der Herbert-Quandt-Straße nach Süden bis zur Lincolnstraße zur späteren Andienung der Europäischen Schule München; Antwortschreiben des PlanR vom 16.08.2012
+- TOP 5.1.4.2.: Baufälle im 17. Stadtbezirk
+- TOP 5.1.4.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 5.1.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.4.5.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München) Sitzungsvorlagen Nr. 08-14 / V 09600 Anlage neu: 2. Stellungnahme des Referats für Stadtplanung und Bauordnung zum Bericht des Revisionsamtes vom 21.12.2011
+- TOP 5.1.4.6.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2012 - 30.06.2012 Sitzungsvorlagen-Nr. 08-14 / V 10181 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP 5.1.4.7.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung Anträge a) Gestaltung der Ausgleichs- und Ersatzflächen den klimatischen Bedingungen anpassen; Antrag-Nr. 08-14 / A 02766 von Herrn Stadtrat Dr. Georg Kronawitter vom 22.09.2011 b) Landwirtschaftliche Flächen in München erhalten! Antrag-Nr. 08-14 / A 02873 der Stadtratsfraktion der CSU vom 03.11.2011 Sitzungsvorlagen-Nr. 08-14 / V 09168 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP 5.1.4.8.: Bebauungsplan mit Grünordnung Nr. 2037; Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) A) Bericht über das Ergebnis des Realisierungswettbewerbs mit städtebaulichem und landschaftsplanerischem Ideenteil B) Weiteres Vorgehen Sitzungsvorlagen-Nr. 08-14 / V 10003 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP 5.1.4.9.: Europäische Schule München: Gleichzeitige Realisierung aller drei Bauabschnitte; BA-Antrags-Nr. 08-14 / B 3916 des Bezirksausschusses der Stadtbezirks 17 - Obergiesing-Fasangarten vom 10.04.2012; Antwortschreiben des Plan R vom 10.09.2012
+- TOP 5.1.4.10.: Münchner Kleingartenwesen; Modifizierung des Generalpachtvertrages Sitzungsvorlage Nr. 08-14 / V 09983 Beschluss des Bauausschusses vom 25.09.2012
+- TOP 5.1.4.11.: Allgemeines Eisenbahngesetz (AEG); Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG); Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer Eisenbahnbetriebswerkstatt in München, Ständlerstraße, durch die Stadtwerke München GmbH; Schreiben des PlanR vom 05.09.2012
+- TOP 5.1.4.12.: Münchner Wochenmärkte - Einrichtung eines Bauernmarktes am Kirchenvorplatz an der Ichostr. in Obergiesing; Antwortschreiben der Markthallen München vom 19.09.2012
+- TOP 5.1.4.13.: Informationen der Münchener Stadtentwässerung zu geplanten Rohrkanalsanierungen in Obergiesing-Fasangarten in der Zeit von Ende September bis Ende November 2012
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 5.2.3.1.: Kinder entscheiden in ihrem Stadtteil; Antrag-Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.2011; Initiative von Frau Bürgermeisterin Strobl im Treffen der BA-Vorsitzenden; Keine Fristverlängerung möglich. Nachtrag: Sitzungsvorlage Nr. 08-14 / V 10288 mit Stellungnahmen der Bezirksausschüsse
+- TOP 5.2.4.1.: Mietspiegel für München; Aufnahme von Bestandsmieten in den Münchner Mietspiegel; Antrag Nr. 01/2012 des Mieterbeirates vom 16.04.2012; Sitzungsvorlage Nr. 08-14 / V 9836; Beschluss des Sozialausschusses vom 20.09.2012
+- TOP 5.2.4.2.: Jahr der Partizipation von Kindern und Jugendlichen in München; Auftrag der Vollversammlung des Stadtrates vom 08.10.2008; Bericht über die Umsetzung 2009/2010; Einrichtung einer dauerhaften Koordinationsstelle im Sozialreferat; Produkt 60 3.1.1, Kinder- und Jugendarbeit; Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012
+- TOP 5.2.4.3.: Wohnheim der A1 GmbH München-Untersbergstr.; Schließung Flughafenunterkunft; Information der Regierung von Oberbayern vom 04.10.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 5.3.3.1.: Radlhauptstadt München - Förderung des Radverkehrs im Stadtbezirk 17; Initiative des Green City e.V.; Schreiben des KVR vom 14.08.2012 mit der Bitte um Rückmeldung, ob sich der BA 17 an dem Projekt beteiligen möchte
+- TOP 5.3.3.2.: Wallbergstraße; absolutes Halteverbot; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Schreiben des KVR vom 04.10.2012 mit der Bitte um Stellungnahme
+- TOP 5.3.4.1.: Signalanlage Martin-Luther- /Weinbauernstraße; Wartezeiten und Grünphasen für querende Fußgänger; Auswertung der Anforderungszeit / Wartezeit; Schreiben des KVR vom 03.09.2012
+- TOP 5.3.4.2.: Maßnahmen zum Schutz von Schulweghelfer und Kindern an der Chiemgau- / Traunsteiner Straße; Antwortschreiben des KVR vom 28.08.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 5.4.4.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Stettnerstr. 9; Bescheid vom 30.08.2012; 5.4.4.1.2 Balanstr. 390, Bescheid vom 17.09.2012; 5.4.4.1.3 Winlandstr. 3, Bescheid vom 17.09.2012
+- TOP 5.4.4.2.: Müllsituation am Giesinger Bahnhof; Antwortschreiben des RAW vom 13.09.2012
+- TOP 5.4.4.3.: Fasangartenstr., Fl.Nr. 2642/0, Gemarkung: Perlach, Forstarbeiten im geschützten Landschaftsbestandteil LB 304a; Antwortschreiben des PlanR vom 18.09.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 5.5.4.1.: Anzeige für öffentliche Vergnügungsveranstaltungen; Festival der Marionetten vom 25.10.2012 . 05.11.2012
+- TOP 6: Berichte der Beauftragten
+- TOP 6.1: Ausländer/Innen
+- TOP 6.2: Behinderte
+- TOP 6.3: Genderfragen
+- TOP 6.4: Kinder
+- TOP 6.4.1.: Bericht des Kinderbeauftragten vom 17.09.2012
+- TOP 6.5: Jugend
+- TOP 6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Hohenschwangauplatz 25-35, 1 Robinie, Antrag vom 11.09.2012; 2. Tirschenreutherstr. 17-19, 1 Spitzahorn, 2 Winterlinde, 2 Silberahorn, 1 Birke, 1 Hainbuche, Antrag vom 12.09.2012; 3. Schwanseestr. 64, 1 Alleebaum, Antrag vom 10.09.2012; 4. Perlacher Str. 82-90, 2 Spitzahorn, Antrag vom 17.09.2012; 5. Perlacher Str. 68-80, 1 Judasblattbaum, 1 Blutpflaume, Antrag vom 17.09.2012; 6. Perlacher Str. 80c-80e, 1 Spitzahorn, 1 Robinie, Antrag vom 17.09.2012; 7. Setzbergstr. 11b-17, 1 Robinie, Antrag vom 17.09.2012; 8. Setzbergstr. 1-5, 1 Birke, Antrag vom 17.09.2012; 9. Firstalmstr. 13-23, 2 Spitzahorn, 1 Robinie, Antrag vom 17.09.2012; 10. Untersbergstr. 52-64, 1 Birke, 1 Spitzahorn, Antrag vom 17.09.2012; 11. Auerspitzstr. 5, 1 Kiefer, Antrag vom 20.09.2012; 12. Perlacher Str. 92-98, 2 Spitzahorn, Antrag vom 17.09.2012;
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse; Schreiben des Herrn Oberbürgermeister an die Vorsitzenden der Bezirksausschüsse vom 30.07.2012 Anhörung zur vorgeschlagenen Änderung der Bezirksausschuss-Satzung; Schreiben des Direktorium vom 13.09.2012 mit der Bitte um Stellungnahme
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.2: Ankündigungen
+- TOP 8.2.1.: Termin: Öffentliche Erörterung gem. § 3 Abs. 1 BauGB am 23.10.2012; Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/24 und Bebauungsplan mit Grünordnung Nr. 2037 Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) Dienstag, den 23.10.2012 um 19 Uhr im Schulzentraum Perlacher Forst, Gebäude 388, Mehrzweckhalle, Lincolnstraße 62 Eingang Cincinnatistraße 63, 81549 München
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.5: Sonstiges (1)
+- TOP 5.1: UA Bau und Planung (1)
+- TOP 5.1.1: Bericht (1)
+- TOP 5.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.1.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.1.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.1.5: Anträge (1)
+- TOP 5.1.6: Sonstiges (2)
+- TOP 5.2: UA Familie, Soziales, Ausbildung, Sport (1)
+- TOP 5.2.1: Bericht (2)
+- TOP 5.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.2.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.2.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.2.5: Anträge (2)
+- TOP 5.2.6: Sonstiges (3)
+- TOP 5.3: UA Verkehr (1)
+- TOP 5.3.1: Bericht (3)
+- TOP 5.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.3.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.3.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.3.5: Anträge (3)
+- TOP 5.3.6: Sonstiges (4)
+- TOP 5.4: UA Umwelt (1)
+- TOP 5.4.1: Bericht (4)
+- TOP 5.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 1: (E) Sauberkeit des Straßenraums im Umfeld des Mc-Fit-Fitness-Studios in der Weißenseestraße 101 Empfehlung Nr. 08-14/ E 01458 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.07.2012 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 5.4.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 5.4.5: Anträge (4)
+- TOP 5.4.6: Sonstiges (5)
+- TOP 5.5.1: Bericht (5)
+- TOP 5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 5.5.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 5.5.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.5.5: Anträge (5)
+- TOP 5.5.6: Sonstiges (6)
+- TOP 8.1.1: UA Bau und Planung (2)
+- TOP 8.1.2: UA Familie, Soziales, Ausbildung, Sport (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt (2)
