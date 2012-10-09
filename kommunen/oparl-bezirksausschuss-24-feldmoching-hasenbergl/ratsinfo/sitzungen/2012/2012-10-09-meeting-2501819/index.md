@@ -1,0 +1,67 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501819
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501819
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt, Evangeliumskirche Musical-Potpourri am 20. und 27.10.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse junges Orchester München e.V. Symphonisches Orchesterprojekt vom 31.10. - 04.11.2012
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Projekt "Brücken zwischen uns - Multikulturelles Leben in Deutschland" vom 22.10. bis 31.10.2012
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Ittlingerstraße Schulhofgestaltung am 21.09.2012
+- TOP 2.5.: (E) Budget der Bezirksausschüsse TSV 54 - DJK München e.V. Neuaufbau der B-Junioren Fußballmannschaft für die Saison 2012/2013
+- TOP 2.6.: BA-Budget: Terminverlängerung für Projekt "Ein Stadtteil wird bunt"
+- TOP 2.7.: Baureferat: Entscheidung gem. Vollmacht des OB' s: Projektplanung Aschenbrennerstraße/ Stösserstraße - Haltestelle Stösserstraße
+- TOP 3.1.: Umwandlung des kombinierten Rad-/ Fußwges in reinen Fußweg an der Lerchenauer STraße zwischen Pongratzstraße und Josef-Frankl-Straße stadtauswärts.
+- TOP 3.2.: Feldmoching: Nutzungsmischung der städt. Grundstücke zwischen Raheinstraße und Morigglstraße
+- TOP 3.3.: Bahnübergang Fasanerie: Forderung der Bekanntgabe eines Berichtes über Planungs- und Verhandlungssachstand mit nach Eisenbahnkreuzungsgesetz vorgeschriebenen Partnern
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Detmoldstr. 14
+- TOP 5.2.: Direktorium: Änderung der BA-Satzung: Durchführung von Informationsveranstaltungen zu Brennpunktthemen auch ausserhalb der Bezirksausschusssitzungen
+- TOP 5.3.: Baumfällungen im Rahmen von Bauvorhaben: Reigersbachstraße
+- TOP 5.4.: RGU: Entwurf Beschlussvorlage Grundwasserproblematik Feldmoching
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung: Änderung des Flächennutzungsplanes für den Bereich IV/31 S-Bahnlinien München- Herrsching (nördl) und - Geltendorf (südl), Bundesautobahn A 99 West (östl), Neuaubing (westl) - Freiham - Nord
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Referat für Stadtplanung und Bauordnung: Stadtd plant keinen Bau/ Ausbau der Lassallestraße
+- TOP 6.2.: Referat für Bildung und Sport: Keine Ausgrenzung des Kinder- und Jugendsportes während und nach den Baumaßnahmen der ZHS im Olympiagelände (-&gt; Abgabenachricht zu BA-Antrag Nr. 08-14/ B 03912)
+- TOP 6.3.: Referat für Bildung und Sport: Schnellstmögliche Realisierung der Kita Paul-Huml-Bogen (-&gt; BA-Antrag Nr. 08-14/ B 03607)
+- TOP 6.4.: Baureferat: Errichtung eines weiteren Kinderspielplatzes in Feldmoching (-&gt; BA-Antrag Nr. 08-14/ B 04173)
+- TOP 6.5.: MVG: Abstimmung von U-Bahn Ankunfts- und Busabfahrtzeiten Linie 172 am U-Bahnhof Feldmoching (-&gt; BA-Antrag Nr. 08-14/ B 04172)
+- TOP 6.6.: Referat für Bildung und Sport: Wiedernutzungsmachung der Hockeyhalle des Münchner Sportclubs MSC in der Eberwurzstraße (-&gt; Antrag 9/7 der Kinder- und Jugendsprechstunde)
+- TOP 6.7.: Referat für Stadtplanung und Bauordnung: Werbetafeln auf dem Mittelteiler der Schleißheimer Straße / Ecke Dülferstraße
+- TOP 6.8.: KVR: Verkehrssicherheit Kreuzung Schleißheimer Straße/ Fortnerstraße/ Thelottstraße
+- TOP 6.9.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.10.: Meldelisten Baumfällungsanträge
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: KVR: Verkehrsrechtliche Anordnungen: Halteverbot im Franz-Sperr-Weg an der Einmündung in die Franz-Fackler-Straße
+- TOP 6.13.: SWM: Baumaßnahmen: Telekommunikationsprojekt Lassallestraße
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Studie "Älter werden in München"
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Billigungsbeschluss Bebauungsplan mit Grünordnung Nr. 1503 g (Teiländerung des Bebauungsplanes Nr. 1503 f): Am Schnepfenweg (beidseitig), Pappelallee (westlich), Pfarrer-Himmler-Straße (westlich), Am Blütenanger (nördlich)
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Billigungsbeschluss Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/41 Am Schnepfenweg (nördlich), Pappelallee (westlich)
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Neue Werkswohnungen I und II; mehr Wohnungen für München
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayer. Bauordnung...
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Beschlussvollzugskontrolle (BVK): Bericht für Zeitraum vom 01.01. bis 30.06.2012
+- TOP 6.21.: Beschlussvorlage Referat für Bildung und Sport: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 6.22.: Beschlussvorlage Referat für Bildung und Sport: Kinderkrippe Feldmochinger Str. 367; Leistung eines Investitionskostenzuschusses...
+- TOP 6.23.: Baureferat: Bauprogramm 2012 zur Realisierung von Kinderbetreuungsplätzen; verwaltungsinterne Ausführungsgenehmigung (Paul-Huml-Bogen)
+- TOP 6.24.: Beschlussvorlage Baureferat: Münchner Kleingartenwesen; Modifizierung des Generalpachtvertrages
+- TOP 6.25.: Beschlussvorlage Sozialreferat: Mietspiegel für München
+- TOP 6.26.: Beschlussvorlage Sozialreferat: Jahr der Partizipation von Kindern und Jugendlichen in München
+- TOP 6.27.: Kulturreferat: Stadtteilwoche Harthof-Nordhaide-Feldmoching-Hasenbergl 2012 (Danksagung für gute Zusammenarbeit)
+- TOP 6.28.: BA-Budget: Danksagung der Kath. Pfarrei St. Agnes
+- TOP 6.29.: KVR: Nachbarschaftsfest auf dem Dülfer Anger vom 12.10. bis 14.10.2012 ist abgesagt
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
