@@ -1,0 +1,51 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2012-10-10T15:00:00+02:00
+- Ende: 2012-10-10T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVX0aznvLpPhg7pJr77mqhs
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/550
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUyJXMuJKCQCM5M2wzkzj6STY_UEAIoYutx0qpO2dqwJ/Einladung_Seniorenbeirat_10.10.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdq2h3zLKufVxhDvyN-bsG0JLghj9sTjuJWlUVvFXZJP/Oeffentliche_Niederschrift_Seniorenbeirat_10.10.2012.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Unzureichende Wegweisung im Bereich der Stadtbahnhaltestelle "Rathaus-Süd" - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Verkehrssituation im Bereich "Willy-Brandt-Platz" (Rathaus-Platz) an Markttagen - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Öffnungszeiten öffentlicher Toiletten - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Öffentliche Toilettenanlagen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Stadtumbau West /Innere Hustadt, Brunnenplatz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: ÖPNV Fahrpläne im Eingangsbereich des Tierparks - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Einsatz von Bussen bei Veranstaltungen im RuhrCongress - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Altersspezifische Nutzung von Verkehrsmitteln - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Anfahrbarkeit der Bushaltestelle "Im Breien" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Öffentliche Toiletten im Westpark - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Barrierefreiheit von öffentlichen Gebäuden - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Barierefreies Erreichen von Wahllokalen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Bericht des Vorsitzenden, hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Berichte aus den Gremien, hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Behindertenparkplätze - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: BOGESTRA-Haltestelle Jacob-Mayer-Straße/Jahrhunderthalle - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
