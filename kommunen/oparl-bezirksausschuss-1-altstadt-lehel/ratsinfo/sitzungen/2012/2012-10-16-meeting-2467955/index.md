@@ -1,0 +1,103 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-10-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .1.: Amtseinführung von Heinrich Mayer
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Bürgeranliegen: Baustelleneinrichtung Oettingenstraße 61/63
+- TOP .2.: UA: Wiederherstellung des Marienhofs
+- TOP .3.: NACHTRAG: Tiefgarage Thomas-Wimmer-Ring
+- TOP .4.: NACHTRAG: Bolzplatz Glockenbachwerkstatt
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hotterstraße 18: Nutzungsänderungen, Einbau Gauben (Tektur)
+- TOP .2.: Rumfordstraße 5: Errichtung einer Freischankfläche
+- TOP .3.: Sendlinger Straße 14: Errichtung einer Freischankfläche
+- TOP .4.: Herrnstraße 30: Aufstockung eines Mehrfamilienhauses und Anbau eines Außenaufzugs (Vorbescheid)
+- TOP .5.: Neuhauser Straße 33: Verschiebung 2er Rolltreppen und Neubau eines Liftes in einem Verkaufsraum sowie Fassadenänderung (EG) ? Tektur
+- TOP .6.: Sendlinger Straße 4: Umbau und Nutzungsänderung eines Geschäftshauses (Vorbescheid)
+- TOP .7.: Seitzstraße 29: Änderung Biergartenfläche
+- TOP .8.: NACHTRAG: Sendlinger-Tor-Platz 11: Nutzungsänderung Wohnen in Büro, Büro in Praxis, Wohnen in Gewerbe
+- TOP .9.: NACHTRAG: Frauenplatz 12: Nutzungsänderung Laden zu Wettbüro (Vorbescheid)
+- TOP .10.: NACHTRAG: Mannhardtstraße 5: Sanierung Mehrfamilienhaus (Tektur)
+- TOP .11.: NACHTRAG: Weinstraße 1: Neubau eines Bürohauses mit Gastronomie
+- TOP .1.: Erweiterung der BA-Vertretungen in Wettbewerben, Antrag des Bezirksausschusses 5 Au-Haidhausen vom 28.03.2012 (BA-Antrags-Nr. 08-14 / B 03849)
+- TOP .2.: Planfeststellung für den 2. Stammstreckentunnel, Antrag Nr. 08-14 / A 03659 der Stadtratsfraktion DIE GRUENEN/RL vom 21.09.2012 (Sitzungsvorlagen Nr. 08-14 / V 10392)
+- TOP .1.: Vorstellung Konzeption Weihnachtsmarkt Schrannenhalle im Unterausschuss
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststätten
+- TOP .1.: Theatinerstraße 23: ?San Francisco Coffee Company?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Fürstenfelder Straße 7: Gaststätte ?Cafe Guglhupf?, Antrag auf Betriebszeitverlängerung der Freischankflächen auf 6.00 Uhr bis 24.00 Uhr
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Isatorplatz 8 ? 10: Globetrotter Ausrüstung, Denhart u. Lechhart GmbH, Aufstellung von mobilen Fahrradständern
+- TOP .2.: Orlandostraße 3: Simitime GmbH, Aufstellung eines Postkartenständers
+- TOP .3.: Zweibrückenstraße 19: Gupy Fashion, Aufstellung von Warenauslagen (Kleiderstange, Körbe)
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Marktveranstaltung: Christkindlmarkt am Sendlinger-Tor-Platz vom 26.11.-23.12.2012
+- TOP .2.: ?Cycling Days? am 28.04.2012; durch den Englischen Garten, Oettingenstraße
+- TOP .3.: Informationsveranstaltung DLRG, Karlsplatz
+- TOP .4.: Münchner Eiszauber am Karlsplatz vom 23.11.12 ? 20.01.13
+- TOP .1.: Erfahrungsbericht Kulturstrand 2012
+- TOP .1.: Bürgeranliegen: Ersatzbaumpflanzung Kanalstraße
+- TOP .2.: Bürgeranliegen: Fahrradständer an der S-Bahnhaltestelle Marienplatz
+- TOP .3.: Bürgeranliegen: Widerrechtliches Parken auf dem St.-Anna-Platz
+- TOP .4.: Bürgeranliegen: Verschiedene Verkehrssituationen im Stadtbezirk 1
+- TOP .5.: Bürgeranliegen: Radfahrgeschwindigkeit an die Verkehrssituation anpassen
+- TOP 1: (E) Rad- und Fußverkehr in der Residenzstraße
+- TOP 1.1.: Baumfällung Unsöldstraße 3
+- TOP 1.2.: Baumfällung Sattlerplatz 1
+- TOP 1.3.: Planfeststellungsverfahren 2. S-Bahn-Stammstrecke, Bereich Westseite Karlsplatz bis westliches Isarufer mit S-Bahnhof Marienhof
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Antwortschreiben des Oberbürgermeisters an Herrn Stadtrat Ruff bzgl. der Informations-Schaukästen der Bezirksausschüsse
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Beschluss des Bauausschusses vom 25.09.2012: ?Fortführung der Isarrenaturierung im Norden Münchens?
+- TOP 0.3.: Beschluss für den Planungsausschuss am 26.09.2012: Neue Werkswohnungen
+- TOP 0.4.: Beschluss für den Planungsausschuss am 26.09.2012: Kostenerhebnung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung
+- TOP 0.5.: Beschluss für den Planungsausschuss am 26.09.2012: Beschlussvollzugskontrolle
+- TOP 0.6.: Beschluss für den Planungsausschuss am 26.09.2012: Vorhabenbezogner Bebauungsplan mit Grünordnung Nr. 2064: Wittelbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße ? Siemens Konzerngelände -
+- TOP 0.7.: Beschluss für den Planungsausschuss am 26.09.2012: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung
+- TOP 0.8.: Baugenehmigung Färbergraben 14, TOP 2012.08 B 3.1.10, 2012.09 B 3.1.3
+- TOP 0.9.: Nachhaltigkeitsaspekte in Bebauungsplänen, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 (Sitzungsvorlagen Nr. 08-14 / V 09592)
+- TOP 0.10.: Langfristige Freiraumentwicklung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 (Sitzungsvorlagen Nr. 08-14 / V 09602)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung Kunstprojekt?Ferk? am 12.10.2012, Odeonsplatz
+- TOP 0.6.: Entscheidung des BA 1 vom 15.09.2009 bzgl. des Werbeverkaufsstandes in der Rosenstraße
+- TOP 0.7.: Eilentscheidung Kunstprojekt ?Schneemann? am 28.10.2012, Odeonsplatz
+- TOP 0.8.: Schreiben des Oberbürgermeisters zum ablehnenden Beschluss des BA über die Freischankfläche ?Bianco Rosso e Nero, Hochbrückenstraße 4, TOP 2012.08 C 2.1.2
+- TOP 0.9.: Antwortschreiben an Bürger zu verschiedenen Anliegen bzgl. Tal, TOP 2012.06 C 1.2
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Fahrbahnsanierung Sendlinger-Tor-Platz Ostseite im Kreuzungsbereich der Blumen- und Sonnenstraße
+- TOP 0.3.: Schreiben der Regierung von Oberbayern über die Schließung des St.-Anna-Parkplatzes
+- TOP 0.4.: Schreiben des Oberbürgermeisters zur Öffnung des Knöbelblocks, BV-Empfehlung Nr. 08-14 / E 1216
+- TOP 0.5.: Schreiben des Oberbürgermeisters zur Freigabe des Praterwehrstegs an der Praterinsel, V-Empfehlung Nr. 08-14 / E 1224
+- TOP 0.6.: Stadtratsantrag ?Mehr Aufenthaltsqualität in der Prälat-Zistl-Straße?, Information Referat für Stadtplanung und Bauordnung
+- TOP 0.7.: Abdruck der Monierung einer Ersatzpflanzung auf dem Grundstück Prannerstr. 4
+- TOP 0.8.: Information der Münchner Verkehrsgesellschaft mbH über eingleisigen Verkehr während Gleisarbeiten auf der U3 und U6-Süd
+- TOP 0.9.: Beschluss des Planungsausschusses vom 10.10.2012: Planfeststellung für den 2. Stammstreckentunnel, Abschnitt 1 West ? Licht am Ende des Tunnels?
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012: Jahr der Partizipation von Kindern und Jugendlichen in München (Sitzungsvorlage Nr. 08-14 / 10032)
+- TOP 0.2.: Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.2012: Kinder entscheiden in ihrem Stadtteil (Sitzungsvorlage Nr. 08-14 / V 10288, siehe auch TOP 2012.09 E 3.2)
+- TOP 0.3.: Kurzbericht Ausstellung ?under construction?
+- TOP 0.4.: Kurzbericht Tanzprojekt ?Tanz und Schule am Wilhelmsgymnasium?
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP .3.2: Sonstige
