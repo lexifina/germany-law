@@ -1,0 +1,7 @@
+# TOP 5: Auftragsvergaben
+
+- Sitzung: 31. Sitzung des Haupt- und Finanzausschusses der Ortsgemeinde Herxheim (2012-10-16)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: ja
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2012-201-79%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2012-201-79%7Czt_0%7C1
