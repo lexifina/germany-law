@@ -1,0 +1,7 @@
+# TOP 3: Bestätigung der Niederschrift der Sitzung vom 19.09.2012
+
+- Sitzung: Sitzung des Ausschusses für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit (2012-10-17)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730317f24bb7ed5128d1dc
+- Ergebnis: (offen)
