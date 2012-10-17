@@ -1,0 +1,116 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2474221
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2474221
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.6: Vorstellung eines Verbesserungsvorschlages zur Geh- und Radwegsituation an der B
+- TOP 1.1.7: Vorstellung von lokaler Bildungsmanagerin sowie Bildungsberaterin
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Fußballplatz für Jugendliche in Lochhausen (vertagt aus 09/12)
+- TOP 2.2.: Neubau in der Parsbergstr. 27 (vertagt aus 09/12)
+- TOP 2.3.: Ortszentrum Lochhausen - Verkehrssituation Langwieder Hauptstraße / Eschenrieder Straße (vertagt aus 09/12)
+- TOP 2.4.: Müllhalde Papinstraße (vertagt aus 09/12)
+- TOP 2.5.: Verlängerung des Haltverbots auf der Ostseite der Hellensteinstr. vom Bahnübergang bis zur Reußensteinstr.
+- TOP 2.6.: Parksituation Ecke Leienfelsstr. / Aubingerstr.
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Lisbergstr. 1 - Lisbergstr. 15 - Lichtenfelser Str. 2a - Kräheneckstr. 6a - Im Stocket 7 - Emmeringer Str. 9 - Lichtenfelser Str. 8 - Limesstr. 50 - Mariabrunnerstr. 64 - Lidelstr. 3-11
+- TOP 3.2.: Fällungsgenehmigung: Eschenrieder Str. 11, Schr. Planungsreferat vom 12.09.12
+- TOP 3.3.: Ablehnung der Baumfällung: - Hittoweg 11, Schr. Planungsreferat vom 25.09.12 - Wertheimer Str. 71, Schr. Planungsreferat vom 26.09.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 3.3.6: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Ausgleich des zusätzlichen Fehlbedarfs bzgl. Finanzierung der BA-eigenen Veranstaltung "Hartes Brot und Gutes Leben"
+- TOP 5: Entscheidungen
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Initiative Sonnenuhren Präsentation zum Thema Sonnenuhren am 19.10.2012
+- TOP 5.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Hellensteinstraße
+- TOP 5.3.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Reußensteinstraße
+- TOP 4: (E) Fußgängerampel an der Kreuzung Aubinger Straße / Radolfzeller Straße
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Fortführung und Entwicklung des neuen Kulturzentrums in Aubing-Lochhausen-Langwied, Ubostr. 7-9, genannt UBO 9; Neues Betriebskonzept für das städtische Gebäude an der Ubostraße; Zwischenbericht - aktueller Stand, Anhörung Kulturreferat vom 24.09.12
+- TOP 6.2.: Goteboldstr. 189 - Nutzungsänderung: Gastronomiebetrieb in eine Vergnügungsstätte, Anhörung Planungsreferat vom 14.09.12 (vertagt aus 09/12)
+- TOP 6.1.: Absage des Spezialmarkts im Schloss Freiham am 29./30.09.12. Schr. KVR vom 20.09.12
+- TOP 6.3.: Veranstaltungen im Oktober 2012, Schr. Kulturreferat vom 01.10.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bescheid über Zuwendungen aus dem BA-Budget für die Initiative "Lochhausen-Langwied historisch", Schr. Direktorium vom 10.09.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/31: S-Bahnlinie München-Herrsching (nördlich), S-Bahnlinie München-Geltendorf (südlich), Bundesautobahn A 99 West (östlich), Neuaubing (westlich) - Freiham-Nord, Anhörung Planungsreferat vom 26.09.12
+- TOP 6.1.: Absage des Spezialmarkts im Schloss Freiham am 29./30.09.12, Schr. KVR vom 20.09.12
+- TOP 6.2.: Versammlung unter freiem Himmel: Freihamer Alle am 29.09.12 zur "Rettung der Freihamer Allee", Schr. KVR vom 26.09.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Aubinger Str. 164 - Neubebauung in 5 Varianten mit Garagen und Stellplätzen: - Variante 1: Mehrfamilienhaus mit Tiefgarage, Anhörung Planungsreferat vom 13.09.12 - Variante 2 + 3: 6 Reihenhäuser mit Sattel und Flachdach sowie Stellplätzen, Anhörung Planungsreferat vom 13.09.12 - Variante 4: 2 Dreispänner mit Duplexgaragen und Variante 5: zus.häng. Mehrfamilienhaus mit Duplexgaragen, Anhörung Planungsreferat vom 13.09.12 (vertagt aus 09/12)
+- TOP 6.2.: Kronwinkler Str. 32 - Neubau eines Bürogebäudes, Erweiterung einer Lagerhalle, Freilagerflächen, Anhörung Planungsreferat vom 12.09.12 (vertagt aus 09/12)
+- TOP 6.3.: Kunreuth-/Riesenburgstraße - Nachverdichtung, Anhörung Planungsreferat vom 12.09.12 (vertagt aus 09/12)
+- TOP 6.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/31 S-Bahnlinie München - Herrsching (nördlich), S-Bahnlinie München - Geltendorf (südlich), Bundesautobahn A 99 West (östlich), Neuaubing (westlich) - Freiham - Nord, Anhörung Planungsreferat vom 26.09.12
+- TOP 6.6.: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels? Anhörung Planungsreferat vom 05.10.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 03.09.-09.09.12, 10.09.-16.09.12, 17.09.-23.09.12, 24.09.-30.09.12), Schr. Planungsreferat vom 10.09.12, 17.09.12, 24.09.12, 01.10.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 10.09.12, 17.09.12, 24.09.12, 01.10.12
+- TOP 6.3.: Unterschutzstellung der Hallen auf dem ehem. Dorniergelände, Brunhamstr. 19 a, Schr. Planungsreferat vom 18.09.12
+- TOP 6.4.: Anschluss von Langwied an das öffentliche Busnetz, Schr. RAW vom 13.09.12
+- TOP 6.5.: Verschmutzung der Aubinger Lohe - Errichtung einer Schranke an der Nord- und Südseite der Schwojerstraße, sowie Beschilderung, die Müllentsorgung untersagt, Schr. Baureferat vom 10.09.12
+- TOP 6.6.: Bergsonstr. 106 - Auswirkungen der Transportbetonanlage auf Aubing, Schr. Planungsreferat vom 10.09.12
+- TOP 6.7.: Bescheid - Änderungsgenehmigung: Kompostieranlage der Fa. Schernthaner GmbH, Schr. Referat für Gesundheit und Umwelt vom 11.09.12
+- TOP 6.8.: Fahrbahnsanierung: Pasinger Heuweg zwischen Obere Mühlstraße und Lochhausenerstraße, Schr. Baureferat vom 06.09.12
+- TOP 6.9.: Verkehrsrechtliche Anordnung: - Aubinger Straße östlich der östlichen Einmündung der Leienfelsstraße; Pkw-Positivbeschilderung, Schr. KVR vom 29.05.12 - Limesstr. 31-33; Kurzparkzone, Schr. KVR vom 25.07.12
+- TOP 6.10.: Baustelleneinrichtung an der Mariabrunner Str. 49, Schr. KVR vom 05.09.12
+- TOP 6.11.: Mitteilung über ein Grundstückgeschäft - diverse Flurstücke in Aubing, Schr. Kommunalreferata vom 12.09.12
+- TOP 6.12.: Drehgenehmigung in der Freischützstr. 15-17, Schr. KVR vom 12.09.12
+- TOP 6.13.: Wertstoffsammelstelle Bienenheim/Federseestraße, Schr. Abfallwirtschaftsbetrieb vom 20.09.12
+- TOP 6.14.: Autoabstellplatz Georg-Böhmer-Str. 1, Schr. RGU vom 20.09.12
+- TOP 6.15.: Erhalt der Grünflächen in Neuaubing, keine Nachverdichtung - Zwischennachricht, Schr. Planungsreferat vom 30.08.12
+- TOP 6.16.: Aufstellung Bebauungsplan im Bereich Bahnhof Aubing - Nordseite, Schr. Planungsreferat vom 25.09.12
+- TOP 6.17.: Barrierefreie Umgestaltung S-Bahn-Unterführung Aubing (Antrag 1) - Zwischennachricht, Schr. Planungsreferat vom 26.09.12
+- TOP 6.18.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2012, Schr. SWM vom 26.09.12
+- TOP 6.20.: Bahnschranken Hellensteinstraße, Schr. Referat für Arbeit und Wirtschaft vom 26.09.12
+- TOP 6.21.: Seismikmessungen im 22. Stadtbezirk, Schr. SWM vom 25.09.12
+- TOP 6.22.: Prüfung der Denkmal- bzw. Ensembleschutzwürdigkeit der Gebäude Varnhagenstraße 41, 41 a - c und 43, Schr. Planungsreferat vom 01.10.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse, Anhörung Direktorium vom 13.09.12 (vertagt aus 09/12)
+- TOP 7.2.: Bewerbung für "Kinderorte im Stadtteil sichtbar machen", das Projekt zum Weltkindertag 2013, Schr. Sozialreferat vom 10.10.12
+- TOP 7.3.: Veranstaltung in einer städt. Grünanlage: 38. Teufelsberg-Crosslauf in der Aubinger Lohe, Ziegeleistraße am 04.11.12
+- TOP 7.4.: Wahl der Seniorenvertretung 2013 - Vorstellungsrunden der Kandidatinnen und Kandidaten; Terminvorschlag für den Stadtbezirk 22: 27.02.2013 im ASZ Aubing, Schr. Sozialreferat vom 11.10.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Henschelstr. 3, Schr. KVR
+- TOP 8.2.: Wirtschafts-Info 08/2012, Schr. Referat für Arbeit und Wirtschaft vom 28.09.12
+- TOP 8.3.: Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten, Schr. OB Ude vom 27.08.12
+- TOP 8.4.: Urbanes Natur-Netz München, Zwischenauswertung der Umfrage, Schr. Urbanes Wohnen e.V. München vom 27.09.12
+- TOP 8.5.: Europe Direct Informationen 05/2012, Schr. Referat für Arbeit und Wirtschaft vom 02.10.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Sozialausschusses vom 20.09.12: - Mietspiegel für München; Aufnahme von Bestandsmieten in den Münchner Mietspiegel
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.12: - Kostenerhebung im Genehmigungsfreistellungsverfahren nach Bayer. Bauordnung, Antrag auf Änderung des Kommunalen Kostenverzeichnisses - Beschlussvollzugskontrolle - Neue Werkswohnungen - Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung - Vorhabensbezogener Bebauunsplan mit Grünordnung Nr. 2075: Autobahnkreuz München West (südlich), BAB A 8 (südwestlich), Mooswiesenstraße (westlich), Hanfgartenstraße (beiderseits), Berglwiesenstraße (östlich), BAB A 99 (südöstlich) - Aufstellungsbeschluss - Bebauungsplan mit Grünordnung Nr. 2074: Lochhausener Str. (südlich), Maganusweg (westlich) und Bahnlinie München-Augsburg (nordöstlich) - Aufstellungsbeschluss
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialauschusses in der gemeinsamen Sitzung am 09.10.12: - Bericht zu REGSAM - Jahr der Partizipation von Kindern und Jugendlichen in München
+- TOP 10.4.: Beschluss des Bauausschusses vom 25.09.12: - Bebauungsplan mit Grünordnung Nr. 2005: Industrie-, Huisler-, Hohenrechberg- und Mariabrunner Straße - Münchner Kleingartenwesen - Modifizierung des Generalpachtvertrages
+- TOP 10.5.: Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.12: - Kinder entscheiden in ihrem Stadtteil
+- TOP 10.6.: Beschluss des Ausschusses für Bildung und Sport vom 10.10.12: - Kindertagesstätten sonstiger Träger; Kindergarten an der Altostr. 35, Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.12: - Langfristige Freiraumentwicklung
+- TOP 10.8.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.10.12: - Nachhaltigkeitsaspekte in Bebauungsplänen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zum Fachgespräch "Regionale" Pflanzenölwirtschaft kontra "regionale" Lebensmittelversorgung am Donnerstag, 18.10.2012, Schr. Referat für Gesundheit und Umwelt vom 25.09.12
+- TOP 11.2.: Einladung zum Treffen der Gleichstellungsbeauftragten am 25.10.12. um 17 Uhr in der Gleichstellungsstelle
+- TOP 11.3.: Einladung: Referat für Bildung und Sport trifft Bezirksausschüsse am 28.11.12 um 16 Uhr, Bayerstr. 28
+- TOP 11.4.: Terminabfrage: Veranstaltung zum Thema Gartenstadt durch das Planungsreferat am 26.11.12 um 17 Uhr
+- TOP 11.5.: Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 29.11.12 ab 18 Uhr
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 14.11.12 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.5.: Anpassung Bahnübergang Freihamer Allee, Teilprojekt 1: Centa-Hafenbrädl-Straße / Ersatzerschließung Gut Freiham, Anhörung Baureferat vom 02.10.12
+- TOP 6.19.: "Auf Herz und Rampe prüfen" - Herstellung der Barrierefreiheit: Stufe vor Geschäftseingängen in der Altostraße (Ziffer 3 b des Antrags), Schr. Planungsreferat vom 26.09.12
