@@ -1,0 +1,66 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-10-17T17:00:00+02:00
+- Ende: 2012-10-17T20:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2917
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2917
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=57746
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 12. Sitzung der BVV am 17.10.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 12. Sitzung der BVV am 17.10.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 12. Sitzung der BVV am 17.10.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Wahl der Patientenfürsprecher / Patientenfürsprecherinnen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Flughafen Tegel – Nachnutzung (2): Ohne Flughafen trotzdem schnell zum Flughafen – Für eine schnelle und direkte ÖPNV-Anbindung zum Flughafen BER - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Anschaffung eines Moduls für Sprachausgabe beim Fahrstuhl zwischen Alt- und Neubau im Rathaus Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Wohnungsbedarf für Menschen mit Behinderungen - überwiesen
+- TOP 7.8: Lichtfarbe der neuen Elektrobeleuchtung an alte Gasbeleuchtung anpassen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Schulsanierungen in bezirklicher Verantwortung belassen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Bürgerbegehren "Gesunde Schulen für ALLE" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung des Bezirks Reinickendorf für den Zeitraum vom 01.01.2011 bis 31.03.2012 - überwiesen
+- TOP 7.12: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-33 vom 24. März 2011 mit Deckblättern vom 13. Juli 2011 und vom 01. März 2012 für das Grundstück Quickborner Straße 111/119 im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 7.13: Planlos in die Zukunft? (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Jugendliche Arbeitslose - was tut das Bezirksamt? - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Barrierefreier Ausbau des Rathauses - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Regelmäßiger Bericht Baumaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Gemeinschaftsschule im Märkischen Viertel unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Hinweis auf Lidy von Lüttwitz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Erhöhung der Zuwendung an freie Träger als Gemeinschaftsaufgabe betrachten - in der BVV abgelehnt
+- TOP 10.6: Zulassung von tragbaren Computern und Tablet-Computern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Gründung eines Projekts zum Erhalt unserer Spielplätze - überwiesen
+- TOP 12.2: Kinderschutz - überwiesen
+- TOP 12.3: Stundenzumessungen von Betreuung und Verwaltung trennen - überwiesen
+- TOP 12.4: Anwohnerinnen und Anwohner bei Spielplatzgestaltung einbeziehen (1) - überwiesen
+- TOP 12.5: Rent-A-Bike in Reinickendorf - überwiesen
+- TOP 12.6: Kenntnisse über die Arbeit der Feuerwehr und Rettungsdienste verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Oelder Weg und Bernhard-Lichtenberg-Platz für den Radverkehr in beide Richtungen freigeben - überwiesen
+- TOP 12.8: Frühzeitige Information über Besuchergruppen aus Partnerstädten - überwiesen
+- TOP 12.9: Fête de la Musique auch in Reinickendorf - überwiesen
+- TOP 12.10: Unterkünfte für Asylbewerber / Flüchtlinge - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Feuerwehrnachwuchs fördern / Anteil von Migrantinnen und Migranten bei der Berliner Feuerwehr erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Anwohnerinnen und Anwohner bei Spielplatzgestaltung einbeziehen (2) - Wohnungsbaugesellschaften - überwiesen
+- TOP 13.3: Fußgängersicherheit in Heiligensee - überwiesen
