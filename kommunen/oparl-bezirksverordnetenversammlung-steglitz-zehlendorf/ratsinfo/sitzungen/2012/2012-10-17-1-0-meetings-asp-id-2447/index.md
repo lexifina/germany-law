@@ -1,0 +1,66 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-10-17T17:00:00+02:00
+- Ende: 2012-10-17T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2447
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2447
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Rolltreppe U-Bahnhof Schloßstraße/Hermann-Ehlers-Platz - beantwortet
+- TOP 3.2: Psychiatriebeirat - beantwortet
+- TOP 3.3: Misteln, Efeu und Bäume - beantwortet
+- TOP 3.4: ISS-Plätze im Bezirk - in der BVV zurückgezogen
+- TOP 3.5: Rekultivierung der Schorlemerallee - beantwortet
+- TOP 3.6: Dreharbeiten auf dem Waldfriedhof Zehlendorf - beantwortet
+- TOP 3.7: Ordnungsamt ohne Augenmaß? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Anträge - erledigt
+- TOP 4.1.1: Trassensicherung Stammbahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Ausschussanträge - erledigt
+- TOP 4.2.1: Hinweisschild zum Maria-Rimkus-Haus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Verkehrsberuhigung Schillerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Landschaftsplanverfahren für das Gebiet südlich der Thermometer-Siedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Sicherer Straßenverkehr für die Schüler der Brentano-Grundschule - in der BVV abgelehnt
+- TOP 4.3.4: Stau vor der Ampelanlage Dahlemer Weg/Unter den Eichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Verlängerung absolutes Halteverbot Bushaltestelle Lerbacher Weg/St.-Marien-Krankenhaus Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Umstellung von Gas- auf Elektroleuchten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Verkehrszeichen Nr. 237 (Radfahrweg) am Kranoldplatz entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Radstreifen und Richtungsspuren Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Radweg Berlin-Leipzig sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.10: Schulweg sichern an der Finckensteinallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.11: Bürgerportal "MAERKER" auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.12: Verkehrssicherheit für Südende - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.13: Schöne Alemannenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.14: Pedelec-Nutzung fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2011 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Radweg Argentinische Allee - Lindenthaler Allee - überwiesen
+- TOP 5.2.2: Busbeschleunigung Schloßstraße/Bornstraße - überwiesen
+- TOP 5.2.3: Bürgerbeteiligung in der BVV fördern - überwiesen
+- TOP 5.2.4: Bauliche Verkehrsberuhigung Leichhardtstraße - überwiesen
+- TOP 5.2.5: Leitsystem für Sehbehinderte verbessern - überwiesen
+- TOP 5.2.6: Vorwegweiser Zufahrt Autobahn/Schloßstraße - überwiesen
+- TOP 5.2.7: Mehr Transparenz für den Bezirk - überwiesen
+- TOP 5.2.8: B-Plan X-165 für den dörflichen Kern Dahlems - überwiesen
+- TOP 5.2.9: Stille Helden nicht vergessen - überwiesen
+- TOP 5.2.10: Verbesserter Verkehrsfluss und erhöhte Verkehrssicherheit in der Clayallee - überwiesen
+- TOP 5.2.11: Energie- und Kosteneinsparung durch moderne LED-Beleuchtung - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Stadtzerstörung durch Senatsverwaltung!? - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Nachnutzung des NaturFreundehauses "Karl Renner" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Benennung nach Martin Niemöller - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Vorstehers - erledigt
