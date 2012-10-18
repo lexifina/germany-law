@@ -1,0 +1,58 @@
+# Gemeinderat (16. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2012-10-18T17:00:00+02:00
+- Ende: 2012-10-18T22:10:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQkxcwjRjTqOzDvHBJIh9yc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1265
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfMBkolQSyVHsHTW4WXwv9elhwaMJdaHPDQIEByQdmrr/Bekanntmachung_Gemeinderat_18.10.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjt9aswP9ZqBV0ebvdanJSoy46x1p4KNdEyogL9QvlR/Oeffentliche_Niederschrift_Gemeinderat_18.10.2012.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 23.08.2012 -öffentlicher Teil-
+- TOP 3.: Finanzen, Haushalt
+- TOP 3.1: Beitrittsbeschluss zur Haushaltssatzung 2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Genehmigung von überplanmäßigen Aufwendungen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Einbringung Haushalt 2013 sowie Anpassung Sanierungsplan
+- TOP 4.: Satzungen, Ortsrecht
+- TOP 4.1: Erlass einer Gremiensatzung hier: 7. Änderung der Geschäftsordnung und 6. Änderung der Zuständigkeitsordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Gebührenkalkulation Winterdienst - Einstimmig, 0 Enthaltung(en)Ratsherr Wassenhoven bittet die Verwaltung zu prüfen, wie im Falle von heftigen Schneefällen die Schneemassen aus den Fahrbahnbereichen abtransportiert werden können.
+- TOP 4.3: Gebührenkalkulation Abfallbeseitigung - Einstimmig, 0 Enthaltung(en)Ratsherr Paffen verweist auf die Planungen des Kreises Heinsberg, ihren Müll zukünftig nicht mehr in der Verbrennungsanlage Weisweiler zu entsorgen. Der Wegfall der Tonnage wäre gebührenmäßig für die übrigen Lieferanten nicht z
+- TOP 4.4: Gebührenkalkulation Abwasserbeseitigung / Gebührenanpassung Kleinkläranlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.5: Entgeltordnung für die Sporthallen/das Lehrschwimmbecken der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.6: Gebührenkalkulation Friedhofswesen - 9 Ja-Stimme(n), 13 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 4.7: Friedhofsatzung - Einstimmig, 0 Enthaltung(en)Ratsherr Errens regt an, Urnenbestattungen mit liegende Gedenktafel zu ermöglichen.
+- TOP 5.: Gebühren, Beiträge
+- TOP 5.1: Erhebung von Anliegerbeiträgen für die Fahrbahnerneuerung in Aldenhoven, Gemarkung Aldenhoven, "Theodor-Hürth-Straße / Von-Pforheim-Straße" (Teilstücke jeweils ab dem Einmündungsbereich "Jahnstraße") a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Ausführung des Haushalts
+- TOP 7.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 23.08.2012 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Neubeschaffung von hydraulischen Rettungsgeräten für die Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Berichte aus / Beschlüsse zu den Gremien
+- TOP 3.1: Entwicklungsgesellschaft indeland GmbH hier: Verfügung der Bezirksregierung Köln vom 23.08.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Wirtschaftsplan 2013 der Entwicklungsgesellschaft indeland (EwiG) - 19 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.3: Entwicklungsgesellschaft indeland GmbH
+- TOP 3.4: EWV-Beteiligung hier: Beauftragung Bilanzprüfung - Einstimmig, 0 Enthaltung(en)
+- TOP 3.5: Green GmbH
+- TOP 3.6: Kreis Düren Vermögensverwaltungs GmbH
+- TOP 3.7: ACI GmbH
+- TOP 3.8: Städte- und Gemeindebund NRW
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Vermarktung des ehemaligen Spielplatzes "Karl-Arnold-Ring" in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Grundstücksangelegenheiten Radwegeausbau "Via Belgica" - 21 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.3: Grundstückstausch im Bereich öffentlicher Verkehrsflächen - 16 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.4: Übertragung von Abwasseranlagen – Regenüberlaufbecken Weiler Langweiler und Dürboslar - an den Wasserverband Eifel-Rur - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Stundung von Grundbesitzabgaben - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
