@@ -1,0 +1,24 @@
+# Jahresabschlüsse der Stadt Bad Pyrmont sowie des Bauhofes für die Haushaltsjahre 2008 und 2009; - Beschluss über die Feststellung der Jahresabschlüsse und Entlastung der Bürgermeisterin gemäß § 58 Abs. 1 Nr. 10 in Verbindung mit § 129 Abs. 1 NKomVG sowie der Verwendung der jeweiligen Ergebnisse -
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 334/2012 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2012-10-18
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdZXNkA9wgmvABIgoXWoY34
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3640
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Jahresabschlüsse der Stadt Bad Pyrmont sowie des Bauhofes für die Haushaltsjahre 2008 und 2009;
+- Beschluss über die Feststellung der Jahresabschlüsse und Entlastung der Bürgermeisterin gemäß § 58 Abs. 1 Nr. 10 in Verbindung mit § 129 Abs. 1 NKomVG sowie der Verwendung der jeweiligen Ergebnisse -) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXq6CB3cBQZHJACJ764LcYd-KCdHiHqPYI6iNyroatjr/Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTwxpZnOZMkizHZmDCGwn7lxnDHP9fXBpM1q9FfUQ1jl/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbcNmKTaNwxHS1aT-tVde87o3G2yIvePlm3OEOsDhdDI/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT6qaFTkemoCMn3VQ5XIaikEtpJ8gZS0-Pw-OxY6xSaG/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaLJQB-0XURf23rrdx39kpBLjZ7EJCQozNqleV1JBfLh/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRS03znIvItfD5kdc2ThUEfi2WrwEADY74aP_Gj2QBk/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS4Q_GdzTzmZ0dEvPwfSlEcVH5WzSFo_8uTuU6dXgAdm/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcm_Ea13dUUaUI7cA2_N0nVkBL4R9nIX0ANJ33xJBOxO/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRZAcp73VRaSLpX2iPGTsi65F7LDafRROAa4DLmrl_8i/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbplL-RHaRAQh0qf25lB1ufxz1MvSTFY39TxFRAnSsXH/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf0NRE1KbUrozQ3ydMajhdApD96oOnbQkPKf2vDUME6t/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 334/2012 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRd9baDdVEhkZHt11X26LuABNXCDophkdMbOJTqu9D8a/Anlage_zur_Beschlussvorlage_334-2012_1._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14579 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
