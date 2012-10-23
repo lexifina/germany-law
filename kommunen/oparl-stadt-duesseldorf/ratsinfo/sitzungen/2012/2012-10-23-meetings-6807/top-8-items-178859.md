@@ -1,0 +1,8 @@
+# TOP 8: Gefahrenstelle für Radfahrer im Bereich des Kreisverkehrs
+
+- Sitzung: Bezirksvertretung 5 (2012-10-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/178859
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/64220
