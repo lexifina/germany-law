@@ -1,0 +1,95 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-10-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427909
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427909
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Budget der Bezirksausschüsse Zils, Huber GbR Projekt "Mein Viertel" von Januar - Juni 2013
+- TOP .1.: Planungen zum Jubiläum ?450 Jahre Alter Südfriedhof im Jahr 2013?
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schwanthalerstr. 2: Nutzungsänderung Laden zu Gaststätte, vertagt aus 2012.09 B 3.1.14
+- TOP .4.: Geyerstr. 13: Umbau einer Halle in ein Wohnhaus mit 7 WE, vertagt aus 2012.09 B 3.1.17
+- TOP .5.: Landwehrstr. 1: Errichtung eines Wirtsgartens mit 76 m² (zusätzlich zur Freischankfläche auf öffentlichem Grund), Landwehrstr. 1 / Sonnenstr. 18b (siehe auch TOP 2012.08 B 3.1.6), vertagt aus 2012.09 B 3.1.18
+- TOP .6.: Thalkirchner Str. 3: Nutzungsänderung im Erdgeschoss: Laden zu Gaststätte - PLENUMSBESCHLUSS
+- TOP .7.: Westermühlstr. 32: Nutzungsänderung und Ausbau des Dachspeichers zu vier Wohneinheiten - PLENUMSBESCHLUSS
+- TOP .8.: Zenettistr. 14: Neubau eines Bürogebäudes - PLENUMSBESCHLUSS
+- TOP .9.: Sonnenstr. 24: Umbau und Erweiterung eines Geschäftshauses mit Nutzungsänderung in eine Privatklinik mit Praxen sowie Neubau einer Tiefgarage - PLENUMSBESCHLUSS
+- TOP .10.: Corneliusstr. 20: Veränderung zweier Einheiten im Erdgeschoss (Gewerbe- und Mischnutzung) mit Aufteilung in je eine Ladenfläche straßenseitig und ein Appartement hofseitig - PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Wasserrechtsverfahren Isarwerk III: Betrieb einer Wasserkraftanlage im Bereich der Braunauer Eisenbahnbrücke ? Wittelsbacher Str. 24 (vertagt aus Sitzung vom 02.10.2012, siehe auch TOP 2012.09 B 3.3.1) - PLENUMSBESCHLUSS
+- TOP .2.: Planfeststellung 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 2, Bereich Westseite Karlsplatz, bis westliches Isarufer mit S-Bahn Marienhof ? 2. Planänderung (Sparten Marienhof)
+- TOP .3.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurm- und Auenstraße und Kompensationsmaßnahmen Bus (siehe auch TOP 2012.06 B 3.3.3)
+- TOP .4.: Erweiterung der BA-Vertretungen in Wettbewerben, Antrag des Bezirksausschusses 5 Au-Haidhausen vom 28.03.2012 (BA-Antrags-Nr. 08-14 / B 03849)
+- TOP .5.: Planfeststellung für den 2. Stammstreckentunnel, Antrag Nr. 08-14 / A 03659 der Stadtratsfraktion DIE GRUENEN/RL vom 21.09.2012 - Sitzungsvorlagen Nr. 08-14 / V 10392 (Eilentscheidung)
+- TOP .1.: Radverkehr in der Herzog-Heinrich-Straße (siehe auch TOP 2012.07 B 5.1.1)
+- TOP .2.: Urbanes Wohnen München e.V., Zwischenauswertung Urbanes Natur-Netz München
+- TOP .3.: Überschwemmung in der Kapuziner-Unterführung
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Pestalozzistr. 9: ?Ja Mai ? Hanoi Food?, Errichtung einer Freischankfläche
+- TOP .2.: Gärtnerpl. 6: ?Cotidiano?, Erweiterung einer bestehenden Freischankfläche - PLENUMSBESCHLUSS
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Holzstr. 41: Antrag für eine Warenauslage für Blumen und Pflanzen
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Ergänzung des Wiesnberichts
+- TOP .1.: Weihnachtsmarkt des Kath. Stadtpfarramtes St. Maximilian in der Grünanlage an der Pfarrer-Rosenberger-Straße (01.12.2012-24.12.2012) - PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1: Termine
+- TOP .1.: Unterausschuss ?Planen und Bauen? am Montag, den 05.11.2012 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP .2.: Unterausschuss ?KVR? am Dienstag, den 06.11.2012 um 19.00 Uhr (Sitzungsort wird in der BA-Sitzung am 23.10.2012 bekannt gegeben, ggfs. telefonisch erfragen unter 089/22802673)
+- TOP .3.: Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 07.11.2012 um 19.00 Uhr in der in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP .4.: Vorstandssitzung am 12.11.2012 um 19 Uhr in der in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP .5.: Die Bürgerversammlung des 2. Stadtbezirkes findet am 15.11.2012 um 19 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Ab 18 Uhr stehen Vertreter verschiedener städtischer Referate und Einrichtungen zur Bürgersprechstunde zur Verfügung.
+- TOP .6.: Die BA-Sitzung findet am Dienstag, den 20.11.2012 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .1.: Gentrifizierung in München Mitte, Veranstaltung von REGSAM am 08.11.2012, 18 Uhr, verbindliche Anmeldung
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .1.: Nachbesetzung des Unterausschusses KVR-Angelegenheiten
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Kinder entscheiden in ihrem Stadtteil, Beschluss des Verwaltungs- und Personalausschusses in der gemeinsamen Sitzung vom 09.10.2012 (Sitzungsvorlage Nr. 08-14 / V 10288, siehe auch TOP 2012.09 A 3.2)
+- TOP .4.: Schaffung von Ersatzräumen für Zenetti-Treff
+- TOP .5.: Dankschreiben des Kinder- und Jugendmuseums bzgl. Pflanzaktion
+- TOP .6.: Bericht zu REGSAM (Sitzungsvorlage Nr. 08-14 / V 10073), hier: Stellungnahmen der Bezirksausschüsse (siehe auch TOP 2012.09 A 3.1)
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Bordsteinabsenkung Wittelsbacherbrücke (BA-Antrags-Nr. 08-14 / B 4168 vom 31.07.2012, siehe auch TOP 2012.07 B 1.3), Antwortschreiben des Baureferates
+- TOP .3.: Umbau der S-Bahn-Verteilerebene München Hauptbahnhof, Abdruck der Stellungnahme des Referates für Stadtplanung und Bauordnung vom 26.09.2012 (siehe auch TOP 2012.08 B 3.3.2)
+- TOP .4.: Nachhaltigkeitsanspekte in Bebauungsplänen, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 (Sitzungsvorlagen Nr. 08-14 / V 09592)
+- TOP .5.: Langfristige Freiraumentwicklung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 (Sitzungsvorlagen Nr. 08-14 / V 09602)
+- TOP .6.: Antwortschreiben des Kommunalreferenten zur Nutzung des Holzplatzes (BA-Antrag Nr. 08-14 / B 04115 vom 26.06.2012), siehe auch TOP 2012.06 B 1.1
+- TOP .7.: Lichtzeichenanlagen-Bauprogramm: Bessere Ausrüstung der Ampelanlagen für Blinde, Beschluss des Kreisverwaltungsausschusses vom 23.10.2012 (Sitzungsvorlage Nr. 08-14 / V 10389)
+- TOP .8.: Antwortschreiben des Referates für Stadtplanung und Bauordnung ?Weitere Fahrradabstellplätze in der Lindwurmstraße? (BA-Antrags-Nr. 08-14 / B 04166 des BA 2 vom 31.07.2012)
+- TOP .9.: Antwortschreiben des Referates für Stadtplanung und Bauordnung zur Nutzung des Holzplatzes (siehe auch TOP 2012.05 E 3.1)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Beschwerde über Belästigung der Nachbarschaft durch das Oktoberfest
+- TOP .7.: Beschwerde wegen Lärmbelästigung durch After-Wiesn-Parties
+- TOP .8.: Graffitiwand Tumblingerstr., Anfrage wegen Einzäunung; Gitter am ehem. Südbahnhof Tumblingerstr., Anfrage wegen Abfall und Ungeziefer
+- TOP .9.: Information der Münchner Verkehrsgesellschaft mbH über eingleisigen Verkehr während Gleisbauarbeiten auf der U3 und U6-Süd
+- TOP .10.: Die Fahrradmarketingkampagne der Stadt München soll sich darum bemühen, Radfahrer zu einem angemessenen Verhalten im Straßenverkehr zu bewegen.
+- TOP .11.: Beschwerde über Belästigungen durch das Oktoberfest im Bereich der Hackerbrücke
+- TOP .12.: E-Mail-Schriftverkehr zwischen einem Beschwerdeführer und dem Referat für Arbeit und Wirtschaft bezüglich einer Beschwerde über Belästigungen durch das Oktoberfest
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .3.: Schwanthalerstr. 46: Nutzungsänderung in ein Wettbüro, vertagt aus 2012.09 B 3.1.15
+- TOP .2.: Veranstaltungen
