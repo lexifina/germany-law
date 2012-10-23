@@ -1,0 +1,8 @@
+# TOP 5: Wahlplakatierung
+
+- Sitzung: Sitzung (2012-10-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/120047
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/50502
