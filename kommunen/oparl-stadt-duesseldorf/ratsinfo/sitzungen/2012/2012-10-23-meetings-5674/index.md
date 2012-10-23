@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-10-23T17:00:00+02:00
+- Ende: 2012-10-23T19:08:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5674
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5674
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00183864.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00183864.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00183864.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 2.1: Unterbringung von Asylbewerbern - zur Kenntnis genommen
+- TOP 3: WOGEDO-Projekte im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 4: Wohnungsmarktbericht - zur Kenntnis genommen
+- TOP 5: Beleuchtung der Wohnhäuser in der Straße "Am Quellenbusch" - zur Kenntnis genommen
+- TOP 6: Freiraumkonzept Pillebach - zur Kenntnis genommen
+- TOP 6.1: Sanierung der jüdischen Friedhofsmauer (Mansfeldstr.) - einstimmig beschlossen
+- TOP 7: Pillebachweg - zur Kenntnis genommen
+- TOP 8: Erneuerung der Straßenbeleuchtungsanlage Ernst-Poensgen-Allee - einstimmig beschlossen
+- TOP 9: BPl 5976/026-Nörl.Nach d. mauresk.-Stell. Satzung - einstimmig beschlossen
+- TOP 10: Straßenbaumstatistik 2012 - zur Kenntnis genommen
+- TOP 11: Haushaltsplanentwurf 2013 mit Anlagen - einstimmig beschlossen
+- TOP 12: Sitzungstermine der Bezirksvertretung 7 im Jahre 2013 - einstimmig beschlossen
+- TOP 12.1: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Wasserspender (Trinkbrunnen) und Informationstafel Auf der Hardt - einstimmig beschlossen
+- TOP 14: "Alte Insel" - zur Kenntnis genommen
+- TOP 15: Alte Insel - einstimmig beschlossen
+- TOP 16: Sozialräumliche Gliederung Stadtbezirk 7 - einstimmig beschlossen
+- TOP 17: Grundwassersituation Glashüttengelände - einstimmig beschlossen
+- TOP 18: Bodenuntersuchung und -arbeiten auf dem Glashüttengelände - einstimmig beschlossen
+- TOP 19: Stadtteilmarketing Heyestraße - einstimmig beschlossen
+- TOP 20: Weg "Zur Düsselaue", Teil Süd - einstimmig beschlossen
+- TOP 21: Reiterhof Ludenberg, Bergische Landstraße - einstimmig beschlossen
+- TOP 22: Sperrung Sauerweg - zur Kenntnis genommen
+- TOP 23: Freiraumgestaltung im Bereich "Am Quellenbusch" - vertagt
+- TOP 24: Jakobskreuzkraut - zur Kenntnis genommen
+- TOP 25: Abarbeitung der Instandhaltungsrückstände an Straßen - vertagt
+- TOP 26: Jugendfreizeiteinrichtung im Bereich "Am Quellenbusch" - zur Kenntnis genommen
+- TOP 27: Städtebauförderung - zur Kenntnis genommen
+- TOP 28: Verkehrsführung bei Umbauarbeiten in der Benderstraße - zur Kenntnis genommen
+- TOP 29: Sicherheit für Rad- und Autofahrer - zur Kenntnis genommen
+- TOP 30: Planänderung CO-Pipeline der Bayer Material Science AG - zur Kenntnis genommen
+- TOP 31: Wegebeziehung Ludenberger Straße in Höhe Haltestelle "Vor der Hardt" - zur Kenntnis genommen
+- TOP 32: Otto- und Vereinsstraße - zur Kenntnis genommen
+- TOP 33: Rheinbahn-Haltestelle Knuppertzbrück, Ri. Süden - zur Kenntnis genommen
+- TOP 34: Sicherer Zugang zur Kindertageseinrichtung Marie-Curie-Straße - zur Kenntnis genommen
