@@ -1,0 +1,52 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-10-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2425153
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2425153
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Bürgerin: Errichtung einer Tetherball-Stange am Bayernplatz
+- TOP .1.: Pilotprojekt Kinderbeteiligung mit Kinder-Aktions-Koffern und Methodenset ?Beteiligung von Kindern bis 6 Jahren? im 4. Stadtbezirk?
+- TOP .2.: ?Kindersommer im Stadtteil: Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben!? zwischen Weltspieltag und Weltkindertag (28.05. bis 20.09.2013): Bewerbung um Ausrichtung?
+- TOP .3.: (E) Budget der Bezirksausschüsse Initiative Figurentheater 2 Figurentheateraufführungen am 08. und 15.12.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 86, Fotostudio am Kurfürstenplatz: Warenauslage
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Kathi-Kobus-Str. 3 (Vorbescheid): Neubau eines Mehrfamilienhauses als Werkswohnungsbau
+- TOP .2.: Agnesstr. 4 (Tektur): Abbruch Bestandsdach, Aufstockung um ein Vollgeschoss mit 1 WE, Aufstockung Treppenhaus und Anbau einer Notleiter
+- TOP .3.: Viktor-Scheffel-Str. 10 (Tektur), Balkonerweiterungen, Anbau eines außenliegenden Personenaufzugs
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Verschiedene Anliegen zum Thema Straßenverkehr (Teil 2 in der Sitzung 11/12) 1. Städtische Kontrolleure für den fließenden Verkehr 2. Kennzeichenpflicht für Fahrräder in München 3. Haltelinien an Lichtzeichenanlagen und Fußgängerüberwegen 4. Grünphase an Ampeln auf mindestens 30 Sekunden verlängern 5. Keine Mittelinseln an ampelgeregelten Fußgängerüberwegen 6. Kein Parken zulasten der Gehwegbreite
+- TOP .2.: Bürger: Geschwindigkeitsreduzierende Maßnahmen in der Elisabeth-Kohn-Straße
+- TOP .3.: Bürger: Ausbesserung des Grünstreifens in der Schleißheimer Str. 158-164
+- TOP .4.: Bürger: Ideenwettbewerb zur Umgestaltung des Hohenzollernplatzes (an den BA gerichteter Antrag aus der Bürgerversammlung am 11.10.2012)
+- TOP .2.1.: Umwelt
+- TOP .1.: Kaiserstr. 44: Fällung einer Robinie
+- TOP .2.: Urbanes Natur-Netz München: Stadtteilbezogene Auswertung
+- TOP .3.: Mottlstr. 25: Fällung zweier Robinien
+- TOP .4.: Kölner Platz 1: Fällung einer Birke und zahlreiche Baumveränderungen
+- TOP .5.: Rümannstr. 5 ? 13: Fällung zweier Hainbuchen
+- TOP .6.: Kathi-Kobus-Str. 3: 14 Baumfällungen in Zusammenhang mit dem Bauvorhaben unter TOP D 2.1
+- TOP .7.: Agnesstr. 10: Fällung eines Ahorn
+- TOP .8.: Adams-Lehmann-Str. 109: Fällung eines Laubbaums
+- TOP .9.: Rümannstr. 30: Fällung dreier Robinien
+- TOP .2.2.: Verkehr
+- TOP .1.: Aufstellung eines Parkscheinautomaten in der Angererstr. 9
+- TOP .2.: Barrierefreier Ausbau der Haltestellen ?Barlachstraße? und ?Nordbad?: Projektplanung
+- TOP .3.: Änderung der Radverkehrsführung in der Elisabeth- und der Franz-Joseph-Straße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
