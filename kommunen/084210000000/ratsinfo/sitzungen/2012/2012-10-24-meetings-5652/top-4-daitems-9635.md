@@ -1,0 +1,8 @@
+# TOP 4: HzE Sozialraumbudgetverträge für die Sozialräume Weststadt/Söflingen, Eselsberg, Wiblingen, Stadtmitte/Oststadt, Böfingen
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2012-10-24)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/9635
+- Ergebnis: mit Stimmenmehrheit beschlossen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/3224
