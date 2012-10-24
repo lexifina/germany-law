@@ -1,0 +1,6 @@
+# TOP 1.: Bericht über die Situation an den Schulen der Stadt Rahden im Schuljahr 2012/13
+
+- Sitzung: Arbeitskreis Schulentwicklungsplanung (3. Sitzung) (2012-10-24)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15663
