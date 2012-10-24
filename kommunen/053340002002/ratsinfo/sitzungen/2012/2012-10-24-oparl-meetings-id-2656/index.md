@@ -1,0 +1,68 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2012-10-24T17:00:00+02:00
+- Ende: 2012-10-24T22:40:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2656
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2656
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Einführung und Verpflichtung eines neuen Ratsmitgliedes - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 05.09.2012
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 5: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen /Verpflichtungsermächtigungen – Haushaltsjahr 2012Herrichtung der Häuser Hansmannstr. 30 und 32 als Übergangsheim für Flüchtlinge - geändert beschlossen
+- TOP 5.1.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen /Verpflichtungsermächtigungen – Haushaltsjahr 2012Herrichtung der Häuser Hansmannstr. 30 und 32 als Übergangsheim für Flüchtlinge - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen /Auszahlungen/ Verpflichtungsermächtigungen Haushaltsjahr 2012 –Sachstand über die Spielplatzumgestaltungen in Aachen-Nordhier: Spielplatz Wiesental - ungeändert beschlossen
+- TOP 5.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen – Haushalt 2012 -Königstraße – Beleuchtung der EisenbahnbrückenRealisierung des Projektes 'Königsbrücken' (Auszeichnung im Wettbewerb 'Illumination von Bahnbrücken' der Bundesstiftung 'Lebendige Stadt') - ungeändert beschlossen
+- TOP 5.4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2012 – Bereitstellung überplanmäßiger Mittel für den Bereich des IT-Managements - geändert beschlossen
+- TOP 5.4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2012 – Bereitstellung überplanmäßiger Mittel für den Bereich des IT-Managements - ungeändert beschlossen
+- TOP 5.5: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen– Haushaltsjahr 2012Verlustausgleich Stadttheater und Musikdirektion - ungeändert beschlossen
+- TOP 5.6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushalt 2012 - Uniklinikum: Zukünftige Verkehrserschließung, Ausführungsbeschluss - ungeändert beschlossen
+- TOP 5.7: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen – Haushalt 2012hier: Neubau der Brücke "Auf dem Foerbrich" - ungeändert beschlossen
+- TOP 6: Einbringung des Haushaltsplanentwurf 2013 mit Anlagen - ungeändert beschlossen
+- TOP 7: Entwurf Jahresabschluss 2008 - ungeändert beschlossen
+- TOP 8: VI. Änderung des Bebauungsplanes Nr. 555 - Stiftstraße/Promenadenstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Stiftstraße und Promenadenstraßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Aufhebung des Fluchtlinienplanes Nr. 374 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Eupener Straße, Goldbachstraße, Salierallee und St. Vither Straßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Satzung über die Erhebung von Beiträgen nach § 8 Kommunalabgabengesetz (KAG) für den Neuausbau der Teileinrichtung „Oberflächenentwässerung“ der Erschließungsanlage „Rosstraße“ von Guaitastraße/Stephanstraße bis Stromgasse (Fußgängerstraße) - ungeändert beschlossen
+- TOP 11: Betriebssatzung der Stadt Aachen für die eigenbetriebsähnlilche Einrichtung "Aachener Stadtbetrieb" vom 27.11.2002hier: Fünfter Nachtrag - ungeändert beschlossen
+- TOP 12: 14. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen) - geändert beschlossen
+- TOP 12.1: 14. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen)hier: Ergänzung - ungeändert beschlossen
+- TOP 13: Entwurf Wirtschaftsplan 2013 von Volkshochschule Aacheneinschließlich mittelfristige Ergebnis- und Finanzplanung 2013 bis 2017 - ungeändert beschlossen
+- TOP 14: Jahresabschluss 2010/2011 von Stadttheater und Musikdirektion Aachen per 31.07.2011 - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan Eurogress Aachen 2013 - ungeändert beschlossen
+- TOP 16: Lokaler Aktionsplan gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus von Volkshochschule Aachen - ungeändert beschlossen
+- TOP 17: Regionale StrukturreformGründung Zweckverband Region Aachen (ZV) / Neuaufstellung AGIT mbH (’AGITneu’) - ungeändert beschlossen
+- TOP 17.1: Regionale StrukturreformGründung Zweckverband Region Aachen (ZV) / Neuaufstellung AGIT mbH (’AGITneu’) - ungeändert beschlossen
+- TOP 18: Resettlementprogramm der Bundesregierung - ungeändert beschlossen
+- TOP 19: Abwasserbeseitigungskonzept der Stadt Aachen 2013 (ABK 2013) - ungeändert beschlossen
+- TOP 20: Projekt "Sauberes Aachen" - geändert beschlossen
+- TOP 21: Ausschreibung der Stelle der/des Beigeordneten für Bildung und Kultur, Schule, Jugend und Sport - ungeändert beschlossen
+- TOP 22: Annahme von Schenkungen für städtische Schulen1. KGS Forster Linde, Lintertstr. 682. Luise-Hensel-Realschule, Im Gillesbachtal 35 - ungeändert beschlossen
+- TOP 23: Einrichtung eines Video-Konferenzraums am Gymnasium St. Leonhardhier: Abschluss von Schulsponsoringverträgen - ungeändert beschlossen
+- TOP 24: Anfragen
+- TOP 25: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 25.1: Umbesetzung von Ausschüssen und anderen Gremienhier: Bildung des Beirates bei der Justizvollzugsanstalt Aachen - ungeändert beschlossen
+- TOP 25.2: Besetzung von Ausschüssenhier Schulausschuss - ungeändert beschlossen
+- TOP 25.3: Besetzung der Einigungsstelle gemäß § 67 des Landespersonalvertretungsgesetzes bei der Stadt Aachen - ungeändert beschlossen
+- TOP 26: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 27: Antrag der Piraten-Partei vom 26.06.2012 betr. Nr.233/16Zeitnahe Bereitstellung von Protokollen von Treffen der Fraktions- und Verwaltungsspitzen - ungeändert beschlossen
+- TOP 28: Aufruf des Rates der Stadt Aachen zur geplanten Schließung des Aachener Bombadier-Werks
+- TOP 29: Annahme von Schenkungena) Archäologische Vitrine undb) Informations-SteleHier: Wechsel in der Person des Schenkers - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
