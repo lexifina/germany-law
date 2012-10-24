@@ -1,0 +1,8 @@
+# TOP 8: Umstrukturierungen der katholischen Kindertageseinrichtungen St. Josef in Albachten, St. Ursula und St. Pantaleon in Roxel
+
+- Sitzung: 20. Sitzung (2012-10-24)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/120089
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/50567
