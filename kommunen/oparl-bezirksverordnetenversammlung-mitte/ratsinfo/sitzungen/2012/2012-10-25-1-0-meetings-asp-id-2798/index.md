@@ -1,0 +1,130 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-10-25T17:30:00+02:00
+- Ende: 2012-10-25T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2798
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2798
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=88388
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Geld für Seniorenfreizeitstätten - beantwortet
+- TOP 5.2: Leitsystem / Beschilderung im Rathaus Wedding - beantwortet
+- TOP 5.3: Unterbringung zusätzlicher Asylbewerber im Bezirk Mitte - beantwortet
+- TOP 5.4: Pförtnerdienst in Mittes Dienstgebäuden - schriftlich beantwortet
+- TOP 5.5: Bundesverwaltungsgericht zu Bierbikes (Ergänzung zu DS 0059/IV) - schriftlich beantwortet
+- TOP 5.6: Bundeswehr in der Schule - schriftlich beantwortet
+- TOP 5.7: Nachnutzung ehemalige Breitscheid-Oberschule - schriftlich beantwortet
+- TOP 5.8: Wie viele Kinder werden in 600 Wohnungen leben - schriftlich beantwortet
+- TOP 5.9: Stellungnahme Schulstraße 118 - schriftlich beantwortet
+- TOP 5.10: Arbeitsschutz bei Freien Trägern - schriftlich beantwortet
+- TOP 5.11: Nachnutzung ehemaliges Kleist-Gymnasium - schriftlich beantwortet
+- TOP 5.12: S-Bahnhof Perleberger Straße auf der neuen S-Bahnlinie 21 - schriftlich beantwortet
+- TOP 5.13: Zuckermuseum - schriftlich beantwortet
+- TOP 5.14: Diskothek oder Restaurant? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Sicherheit rund um den Alexanderplatz - beantwortet
+- TOP 6.2: Gefährliche Keime in den Frühchenstationen der Charité - schriftlich beantwortet
+- TOP 6.3: Schuldner- und Insolvenzberatungsstellen im Bezirk Mitte - schriftlich beantwortet
+- TOP 6.4: Umzug Seniorenfreizeiteinrichtung Schulstraße - schriftlich beantwortet
+- TOP 6.5: Wo bleibt die überfällige Antwort des Bezirksamtes zum Bibliotheksentwicklungsplan? - schriftlich beantwortet
+- TOP 6.6: Räumung des Flüchtlingscamps am Pariser Platz am 24.10.2012 - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Historischen Tunnel Dresdener Straße erhalten! - schriftlich beantwortet
+- TOP 7.2: Schulessen in Mitte: Wird der Bezirk seiner Eigenverantwortung gerecht? - beantwortet
+- TOP 7.3: Produktkosten bei den Schulen in Mitte - beantwortet
+- TOP 7.4: Nächste Schritte für den Mauerpark - schriftlich beantwortet
+- TOP 7.5: Bildungs- und Teilhabepaket - Wie erreichen wir mehr Teilhabe in den Sportvereinen und der Musikschule? - schriftlich beantwortet
+- TOP 7.6: Deja-vu-Diskussion zum Fortbestand bezirklicher Grünflächenämter - schriftlich beantwortet
+- TOP 7.7: Sicherung des Atelierhauses im Monbijoupark - schriftlich beantwortet
+- TOP 7.8: Essenversorgung an Mittes Kitas und Schulen: Gesund, schmackhaft und für alle Eltern bezahlbar - schriftlich beantwortet
+- TOP 7.9: Gartendenkmal Kleiner Tiergarten Ost - schriftlich beantwortet
+- TOP 7.10: Zusätzliches Halteverbot in der Spandauer Vorstadt - schriftlich beantwortet
+- TOP 7.11: Häusliche Gewalt und 1.Weltmädchentag - schriftlich beantwortet
+- TOP 7.12: Einsparungen durch dynamische Lichtsteuerung in den Gebäuden des Bezirksamtes - schriftlich beantwortet
+- TOP 7.13: Übergang zwischen Rathaus-Altbau Wedding und zukünftigem JobCen-ter-Standort (ehem. Rathaus-Neubau) an der Müllerstraße: Ende einer „Beamtenlaufbahn“ - schriftlich beantwortet
+- TOP 7.14: Klara-Franke-Spielplatz in der Lehrter Straße: Nutzbarkeit in Sicht? - schriftlich beantwortet
+- TOP 7.15: Vorlage zur Kenntnisnahme Drs. 0473/IV Konkretisierung städtebaulicher Sanierungsziele für den Bereich des ehemaligen Krankenhauses Moabit - schriftlich beantwortet
+- TOP 7.16: Aktionsraum+ - Integriertes Stadteilentwicklungskonzept 2012 - schriftlich beantwortet
+- TOP 7.17: Barrierefreie Zugänge in der BVV - schriftlich beantwortet
+- TOP 7.18: Unterstützung für Buschkowskys Thesen: Wie weiter mit der Integrationspolitik in Mitte? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des fortgeschriebenen Ergänzungsplans 2012 - mit Änderungen in der BVV beschlossen
+- TOP 8.2: Entwurf des Ergänzungsplans 2013 - überwiesen
+- TOP 8.3: über Verhandlungslinie des Bezirksamtes zum Abbau von VZÄ bis 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von Patientenfürsprecher/-innen nach § 30 Landeskrankenhausgesetz (LKG) durch die Bezirksverordnetenversammlung (BVV) Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan III-46-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans III-46-1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan 1-58 (südliche Invalidenstraße, westlich Ackerstraße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-58 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Konzept für Seniorenfreizeitstätten - überwiesen
+- TOP 11.2: Bürgerportal Maerker in Mitte - überwiesen
+- TOP 11.3: Nebenwache der Polizei am Alex einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Umzug Seniorenfreizeiteinrichtung Schulstraße 118 geordnet und kooperativ mit den Trägern durchführen - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Kahlschlag verhindern - Schuldentilgung nicht auf Kosten von Kindern und Jugendlichen! - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Straßenräume in Mitte auch in Zukunft lebendig gestalten! - überwiesen
+- TOP 12.2: Integrationsausschuss in der Geschäftsordnung verankern - überwiesen
+- TOP 12.3: Wahl eines Bürgerdeputierten im Hauptausschuss - vertagt
+- TOP 12.4: Die nächsten Schritte für den Mauerpark veröffentlichen - vertagt
+- TOP 12.5: Umlegbare Poller in der Grüntaler Straße kurz vor dem "Nassen Dreieck" (Grenze zum Bezirk Pankow) - überwiesen
+- TOP 12.6: Veranstaltungen auf dem Wasser bekanntmachen! - vertagt
+- TOP 12.7: Mitte soll Fairtrade-Town werden - überwiesen
+- TOP 12.8: Der BVV zur Kenntnis: Stellungnahmen der Ämter für die nächsten Schritte zur Erweiterung des Mauerparks - vertagt
+- TOP 12.9: Informationsportal zur Bürgerbeteiligung zügig umsetzen! - überwiesen
+- TOP 12.10: Zielvereinbarung zum Personalabbau auf den Tisch der BVV! - überwiesen
+- TOP 12.11: Erhalt des Kneeling bei Bussen der BVG - vertagt
+- TOP 12.12: Aufstellungsbeschluss für B-Plan - vertagt
+- TOP 12.13: Planungsrechtliche Voraussetzungen für ein Mehrgenerationenprojekt mit soziokultulturellem Angebot in der Schmidstrasse schaffen - überwiesen
+- TOP 12.14: Bündnis für soziale Mieten - vertagt
+- TOP 12.15: Zucker-Museum - vertagt
+- TOP 12.16: B-Laden in der Lehrter Straße erhalten - Zuschuss weiter bezahlen - vertagt
+- TOP 12.17: Angebote der Bibliotheken und der Volkshochschule für Seniorinnen und Senioren verbessern - vertagt
+- TOP 12.18: Schule und Quartiersmanagement - Mehr Zusammenarbeit erreichen - überwiesen
+- TOP 12.19: Sicherung der Archivalien unserer historischen Gebäude - vertagt
+- TOP 12.20: Pilotprojekt für internetbasierte Bürgerbeteiligung - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Keine Ausweitung des Flugverkehrs am Flughafen Berlin-Tegel - überwiesen
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Lebensmittelüberwachung: Positive Kontrollergebnisse endlich im Internet veröffentlichen - vertagt
+- TOP 15.2: Wir wollen wieder draußen schwimmen! - vertagt
+- TOP 15.3: Sicherung des erhaltenswerten Grünbestandes im Bezirk Berlin Mitte - vertagt
+- TOP 15.4: Mehr Presseinformationen des Bezirksamtes über Spielplätze - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bürgerportal Maerker auch in Mitte? - vertagt
+- TOP 16.2: Ersatz-Standort für den Weihnachtsmarkt und für das Gauklerfest am Opernpalais - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Barrierefreie Homepage der Stadt Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Erhalt der Bäume 197 und 197a - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Aktionstage "Zu Fuß zur Schule" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Wasser für die Planschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Wahl von Patientenfürsprecher/-innen nach § 30 Landeskrankenhausgesetz (LKG) durch die Bezirksverordnetenversammlung (BVV) Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2011 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.9: Beschluss der BVV zur Durchführung des Weihnachtsmarktes im Lustgarten umgehend umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Standortprüfungen für historischen Weihnachtsmarkt in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Sachmittel für freiwilliges Engagement in Nachbarschaften im Bezirk Mitte 2012 - vertagt
+- TOP 16.12: Konkretisierung städtebaulicher Sanierungsziele für den Bereich des ehemaligen Krankenhauses Moabit - vertagt
+- TOP 16.13: über Integriertes Stadtteilentwicklungskonzept Aktionsraum plus Wedding /Moabit-Fortschreibung 2012 - vertagt
+- TOP 16.14: über die Änderung des Geltungsbereiches des Bebauungsplanes 1-75B (am S-Bahnhof Wollankstaße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: über die Benennung einer Privatstraße in Berlin-Mitte, Ortsteil Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Mitte für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - vertagt
+- TOP 16.17: Maßnahmen zur Korruptionsprävention einleiten - vertagt
+- TOP 16.18: In der Mobilität eingeschränkte Menschen unterstützen – „Netzwerk Winter“ einrichten! - vertagt
+- TOP 16.19: Lern- und Erinnerungsort Afrikanisches Viertel - vertagt
+- TOP 16.20: Zuschüsse für bürgerschaftliche Initiativen transparent gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - vertagt
