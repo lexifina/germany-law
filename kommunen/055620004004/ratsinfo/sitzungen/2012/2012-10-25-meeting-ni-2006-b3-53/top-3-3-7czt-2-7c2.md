@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 73. Sitzung des Betriebsausschusses 3 (Ausschuss für Stadtentwicklung, Bau und Verkehr) (2012-10-25)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B3-53%7Czt_2%7C2
