@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-10-26T16:00:00+02:00
+- Ende: 2012-10-26T17:40:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6876
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6876
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184189.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184189.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184189.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Öffentliche Beleuchtung in der Flenderstraße - einstimmig beschlossen
+- TOP 5: Erneuerung der Staßenbeleuchtungsanlage Alt Himmelgeist / Nikolausstraße - einstimmig beschlossen
+- TOP 6: Straßenbaumstatistik 2012 - einstimmig beschlossen
+- TOP 7: Aufstellung eines Gedenksteines im Benrather Schlosspark (Ulmenkopf) - einstimmig beschlossen
+- TOP 8: Anfrage: Inbetriebnahme von 2 Containern in der GGS Südallee - beantwortet
+- TOP 9: Anfrage: Wegesperrung im NSG Himmelgeister Rheinbogen - vertagt
+- TOP 10: Antrag: Eingeschränktes Haltverbot im Bereich Am Bärenkamp 16 - mehrheitlich beschlossen
+- TOP 11: Antrag: Lehrschwimmbecken LVR-Karl-Tietenberg-Schule - einstimmig beschlossen
+- TOP 12: Antrag: Kreuzung Further Str./Am Schönenkamp/A 46/Deutzer Str. - einstimmig beschlossen
+- TOP 13: Antrag: Schwerlastverkehr auf der Kappeler Str. - einstimmig beschlossen
+- TOP 14: Antrag: Erweiterung des Kinderspielplatzes am Kamper Acker - einstimmig beschlossen
+- TOP 15: Antrag: Weihnachtsbaum Kamper Acker in Holthausen - einstimmig beschlossen
+- TOP 16: Antrag: Umwandlung der Julius-Rietz-Str. in eine Einbahnstraße - zurückgezogen
+- TOP 17: Antrag: Weihnachtsmarkt am Schloss Benrath - einstimmig beschlossen
+- TOP 18: Antrag: Schloss-Stiftung und Naturkundemuseum - einstimmig beschlossen
+- TOP 19: Antrag: Sachstandsbericht "Pallenberg-Stiftung" - einstimmig beschlossen
+- TOP 20: Antrag: Verfügungsmittel Heimatverein Holthausen - Itter - Himmelgeist e.V. - einstimmig beschlossen
+- TOP 21: Antrag: Verfügungsmittel Heimatverein Holthausen - Itter - Himmelgeist e.V. - einstimmig beschlossen
+- TOP 22: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz - einstimmig beschlossen
+- TOP 23: Antrag: Verfügungsmittel Förderverein Rekonstruierung Schöler-Orgel Evangel. Kirche Urdenbach - einstimmig beschlossen
+- TOP 24: Antrag: Verfügungsmittel GGS Urdenbach - einstimmig beschlossen
+- TOP 25: Antrag: Verfügungsmittel St. Sebastianus Schützenbruderschaft Düsseldorf Himmelgeist e.V. - einstimmig beschlossen
+- TOP 26: Antrag: Verfügungsmittel Benrather Kulturkreis - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel Benrather Kulturkreis; Winterausstellung und Lautsprecheranlage - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V. - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Kath. Kirchengemeinde St. Hubertus, Itter - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Regiment Fanfarencorps Düsseldorf-Wersten e.V. - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Diakonie - zentrum plus - ; Kulturmobil - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Pauls-Mühler Jecke e.V. - einstimmig beschlossen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Übertragung von Verfügungsmitteln in Haushaltsjahr 2013 - einstimmig beschlossen
+- TOP 35: Festlegung der Sitzungstermine für das Jahr 2013 - einstimmig beschlossen
+- TOP 36: Haushaltsplanberatungen 2013 - zur Kenntnis genommen
