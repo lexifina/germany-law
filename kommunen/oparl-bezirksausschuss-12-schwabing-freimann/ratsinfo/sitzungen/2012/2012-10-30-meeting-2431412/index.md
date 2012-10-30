@@ -1,0 +1,99 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-10-30T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2431412
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2431412
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Zwischennutzung der Bayernkaserne durch das Sozialreferat (Information durch Vertreter des Sozialreferats/Kommunalreferats)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten - Schreiben des Oberbürgermeisters
+- TOP .10.: sonstiges
+- TOP .1.: Sitzungstermine 2013
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Völckerstraße, Fl.Nr.: 170/5, 3 Spitzahorn
+- TOP .2.: Berliner Str. 42-48 / Schinkelstr. 12, 2 Baumfällungen und 4 Baumveränderungen gemäß Plan
+- TOP .3.: Kieferngartenstr. 17, Fl.Nr.: 309/17, Neubau einer Doppelhaushälfte mit Carport 5 Bäume gemäß Plan - Haus 1 und 2
+- TOP .4.: Osterwaldstr., Fl.Nr.: 1072; 2 Baumfällungen und div. Baumveränderungen gemäß Plan
+- TOP .5.: Erikastr. 3, 1 Birke
+- TOP .6.: Christoph-Probst-Str. 12, 2 Silberahorn-Bäume
+- TOP .1.: Leopoldstraße 11c, Fl.Nr.: 4426/2, Anbau eines Wintergartens an der Universitätskindertagesstätte
+- TOP .2.: Erweiterung der BA-Vertretungen in Wettbewerben ? Antrag (Nr. B 03849) des Bezirksausschusses 5 Au-Haidhausen
+- TOP .3.: Berliner Str. 93, Fl.Nr.: 859/22, Erweiterung Gastgarten ?Champions Bar?
+- TOP .4.: Osterwaldstr. 76, Flurstück: 1069/0, Errichtung einer Lärmschutzwand an der nördl. Zufahrts-Grundstücksgrenze und am Kinderplanschbecken ? Vorbescheid
+- TOP .5.: Situlistr. 38, Fl.Nr.: 88/145, Umbau und Nutzungsänderung von Büroflächen für ein Arbeitnehmerwohnheim
+- TOP .6.: Ingolstädter Str. 38, Fl.Nr.: 129/8, Nutzungsänderung: Raststätte zu Laufhaus (bordellartiger Betrieb); Sanierung, Um- und Anbau incl. Baumfällungen gemäß Plan
+- TOP .7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/46 ? Freisinger Landstr. (beidseits), Garchinger Mühlbach (westlich)
+- TOP .1.: Urbanes Natur-Netz München (siehe auch C.4.1.)
+- TOP .1.: Kataster für Ersatzpflanzungen von Bäumen
+- TOP .2.: Städtebauliche Entwicklungsmaßnahmen Bayernkaserne - Anpassung der Eckdaten
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Wirtsbreite 13, Fl.Nr.: 309/127, Fällung einer Douglasie
+- TOP .2.: Berliner Str. 50-68, Fällung einer Hainbuche und Baumveränderungen an einer Trauerweide
+- TOP .1.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012, Sitzungsvorlage Nr.: 08-14 / V 09168
+- TOP .2.: Beschlussvollzugskontrolle (BVK) ? Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2012 ? 30.06.2012; Sitzungsvorlage Nr.: 08-14 / V 10181, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP .3.: Neue Werkswohnungen; Sitzungsvorlage Nr.: 08-14 / V 10159 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP .4.: Allianz Arena München ? Anbau eines Windfangs ? Stellungnahme der Lokalbaukommission
+- TOP .5.: Baumaßnahmen der Stadtwerke München Informationsflyer ?Baumaßnahmen der SWM?, 2. Halbjahr 2012
+- TOP .6.: Nachhaltigkeitsaspekte in Bebauungsplänen; Sitzungsvorlage Nr.: 08-14 / V 09592 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012
+- TOP .7.: Langfristige Freiraumentwicklung ? Sitzungsvorlage Nr.: 08-14 / V 09602 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012
+- TOP .8.: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West ? Licht am Ende des Tunnels? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 Sitzungsvorlage Nr. 08-14 / V 10392 (siehe auch C.5.3.4.)
+- TOP .9.: Baumaßnahme: Clemens-/Bismarckstraße ? Begrünung und Parknasen (Anliegerinformation)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Errichtung eines geeigneten Immissionsschutzes am Isarring (Ziffer 1)
+- TOP .3.: Erweiterung der 30 km/h - Zone in der Oskar-Schlemmer-Straße
+- TOP .4.: Freigabe der Mandlstraße für den gegenläufigen Radverkehr
+- TOP .1.: Öffnung der in Richtung Westen einbahngeregelten Trautenwolfstraße zwischen der Leopoldstraße und der Kaulbachstraße für den gegenläufigen Radverkehr
+- TOP .2.: Einrichten von beidseitigen Schutzstreifen auf der Fahrbahn der Elisabethstraße zwischen Zentnerstraße und Elisabethplatz sowie in der Franz-Joseph-Straße zwischen Elisabethplatz und Leopoldstraße unter Entfernung der baulichen und markierten Radwege in diesen Bereichen; Aufhebung der Radwegbenutzungspflicht in der Elisabethstraße und der Franz-Joseph-Straße; Radwegrückbau Arcisstraße Westseite am Elisabethplatz
+- TOP .1.: Zugangssteuerung zu den Parkplätzen am Ungererbad ? Resümee der probeweisen Parkraumbewirtschaftung in der Badesaison 2012
+- TOP .2.: Genehmigung für die Änderung der Abfallentsorgungsanlage der Kauschinger Rohstoff-handel GmbH ? Durchführung einer Umweltverträglichkeitsprüfung
+- TOP .1.: Urbanes Natur-Netz München (siehe auch B.4.1.)
+- TOP .2.: Reduzierung der Straßenbeleuchtung in der Alten Heide / im Stadtgebiet München
+- TOP .3.: Installation einer Beleuchtung zwischen Isarwehr und Ernst-Petzold-Weg
+- TOP .4.: Bus 181: Einführung des 10-Minuten-Taktes und Überdachung der Bushaltestelle Josef-Wirth-Weg
+- TOP .5.: Parkplätze am Nordfriedhof
+- TOP .6.: Stadtteilcheck ?Auf Herz und Rampen prüfen?
+- TOP .1.: Ausweitung des bestehenden Haltverbotes in der Osterwaldstr. (ggü. Haus Nr. 10)
+- TOP .2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Amsterdamer Str.1
+- TOP .3.: Errichtung eines personenbezogenen Behindertenparkplatzes im Bereich Domagkstr. 44
+- TOP .4.: Haltverbot in der Kieferngartenstraße im Bereich der Bushaltestelle Bernsteinweg
+- TOP .1.: Verkehrs- und Schulwegsicherheit im Kreuzungsbereich Occam-/Haimhauser Straße (Schreiben des Kreisverwaltungsreferats an eine Bürgerin)
+- TOP .2.: Klärwerk Gut Großlappen ? Energiezentrale; Austausch von Gas-Otto-Motoren Beschluss des Stadtentwässerungsausschusses vom 16.10.2012 Sitzungsvorlage Nr.: 08-14 / V 10185
+- TOP .3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .4.: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West ? Licht am Ende des Tunnels? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 Sitzungsvorlage Nr. 08-14 / V 10392 (siehe auch B.5.3.8.)
+- TOP .5.: Parksituation Otl-Aicher-Str. / Hans-Döllgast-Str. (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .6.: Lichtzeichenanlagen-Bauprogramm; Bessere Ausrüstung der Ampelanlagen für Blinde (Empfehlung E 00895 des Stadtbezirkes 3 ? Maxvorstadt) Sitzungsvorlage Nr. 08-14/V10389 Beschluss des Kreisverwaltungsausschusses vom 23.10.2012
+- TOP .7.: Errichtung und Betrieb einer Windkraftanlage, Werner-Heisenberg-Allee 62 (Vorinformation)
+- TOP .1.: Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben (neuer Stadtbezirk gesucht für das 3. Pilotprojekt ?Kindersommer im Stadtteil?)
+- TOP .1.: Unterstützung des ?Walmdachhauses?
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Trattoria da Fausto Pizzeria?, Schank- und Speisewirtschaft, Helmtrudenstraße 1
+- TOP .2.: Ehemals ?Olio? (noch kein Name vorhanden), Kleingaststätte, Ainmillerstr. 10
+- TOP .3.: ?Hoking Chinarestaurant?, Schank- und Speisewirtschaft, Nikolaistr. 9a
+- TOP .1.: Jahr der Partizipation von Kindern und Jugendlichen; Bericht über die Umsetzung 2009/2010 Einrichtung einer dauerhaften Koordinierungsstelle im Sozialreferat Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012 Sitzungsvorlage Nr. 08-14 / V 10032
+- TOP .2.: Zuwendungsbewilligung / Bescheid für TramS ? Theater am Sozialamt für die die Verwand-lung des Vordergebäudes des TramS in einen Adventskalender in Höhe von 1.500,00 ?
+- TOP .3.: Kinderkrippe Leopoldstr. 43 ? Leistungen eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013; Sitzungsvorlage Nr.: 08-14 / V 10243 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 10.10.2012
+- TOP .4.: Kinder entscheiden in Ihrem Stadtteil; Sitzungsvorlage Nr.: 08-14 / V 10288 Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfe-ausschusses in der gemeinsamen Sitzung vom 09.10.2012
+- TOP .5.: Bericht zu Regsam: Stellungnahmen der Bezirksausschüsse zum Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
