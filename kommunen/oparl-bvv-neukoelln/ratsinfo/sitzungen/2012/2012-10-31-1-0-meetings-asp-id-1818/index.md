@@ -1,0 +1,84 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-10-31T17:00:00+01:00
+- Ende: 2012-10-31T22:46:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1818
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1818
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2012/2013 und im Jahr 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2011 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Bestellung eines Geheimschutzbeauftragten für das Bezirksamt Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Einstellung der Schülerhilfe bei Morus 14 - beantwortet
+- TOP 9.2: Frauen in der Zweitehen-Falle - beantwortet
+- TOP 9.3: Ausstellung "Heimat Großsiedlung - 50 Jahre Gropiusstadt" - beantwortet
+- TOP 9.4: Schulessen - beantwortet
+- TOP 9.5: Dritter Pflegestützpunkt in Neukölln - beantwortet
+- TOP 9.6: Umsetzung des § 5 Abs. 2 Wohnaufwendungsverordnung - beantwortet
+- TOP 9.7: Rechtswidrig abgelagerter Müll - beantwortet
+- TOP 9.8: Einsparungen durch dynamische Lichtsteuerungen - beantwortet
+- TOP 9.9: Metallpoller auf öffentlichem Straßenland - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Jugendliche Arbeitslose - beantwortet
+- TOP 10.2: Zwangsmaßnahmen gegen Schulschwänzer zielführend? - beantwortet
+- TOP 10.3: Verbesserung der Bezirksfinanzen - beantwortet
+- TOP 10.4: Vermögenssteuer jetzt einführen - in der BVV abgelehnt
+- TOP 10.5: Rückkauf Frauenklinik - in der BVV abgelehnt
+- TOP 10.6: Informationsmaterial für Migrantinnen und Migranten mehrsprachig anbieten - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - in der BVV abgelehnt
+- TOP 11.1: Barrierefrei I Barrierefreier Internetauftritt des Stadtinformationssystems (www.Berlin.de) - in der BVV abgelehnt
+- TOP 11.2: Barrierefrei II Barrierefreier Internetauftritt des Bezirks Neukölln - in der BVV abgelehnt
+- TOP 11.3: Ausweisung von Kosten in Schlussberichten - in der BVV abgelehnt
+- TOP 11.4: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Kindstod: Aufklärung betreiben, nachhaltige Konsequenzen ziehen - mit Änderungen in der BVV beschlossen
+- TOP 11.6: Gestaltungsmöglichkeiten für Neuköllner Politik bewahren - in der BVV abgelehnt
+- TOP 11.7: Finanzierung des Alpha-Bündnisses - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Gedenkraum an der Clay-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Initiative des Bezirkes gegen Rechtsextremismus - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Zukunft des "Berliner Notdienstes Kinderschutz" - beantwortet
+- TOP 12.2: Auswirkungen des neuen Spielhallengesetzes in Neukölln - schriftlich beantwortet
+- TOP 12.3: Zwangsarbeit im Nationalsozialismus in Rudow - schriftlich beantwortet
+- TOP 12.4: Beratungsangebote für Neuköllner Schülerinnen und Schüler - vertagt
+- TOP 12.5: Schulsanierungsprogramm 64 Mio. Euro statt 32 Mio. Euro - vertagt
+- TOP 12.6: Neuköllner Stromversorgung - vertagt
+- TOP 12.7: EFA-Vorbehalt in Neukölln - vertagt
+- TOP 12.8: Soziale Wohnungspolitik und Mietenbündnis - vertagt
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Unterkunft für Asylbewerber - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Professionelle Beratungs- und Betreuungsstelle für Glücksspielsüchtige - überwiesen
+- TOP 14.3: Asylbewerber unterzubringen ist eine Aufgabe für alle! - in der BVV zurückgezogen
+- TOP 14.4: "Berliner Notdienst Kinderschutz" in vollem Umfang erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Haltepunkt Lieselotte-Berger-Straße für den Bus X7 - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Erhalt der Jugendverkehrsschule am Hasenhegerweg - überwiesen
+- TOP 14.7: Ehrentafel für den ehemaligen Bezirksbürgermeister Alfred Scholz - überwiesen
+- TOP 14.8: Ratten(plage) in Neukölln - überwiesen
+- TOP 14.9: Absenkung der Bordsteinkante - überwiesen
+- TOP 14.10: Bürgerliquid für Neukölln - vertagt
+- TOP 14.11: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" zugänglich machen - überwiesen
+- TOP 14.12: Grunderwerbssteuer nachhaltig anheben - vertagt
+- TOP 14.13: Sozialleistungen an Scheinselbstständige - überwiesen
+- TOP 14.14: Nachhaltige Energie- und Klimapolitik in Neukölln - überwiesen
+- TOP 14.15: Klimawerkstatt in Neukölln - überwiesen
+- TOP 14.16: Protokolle in den Ausschüssen nach d´Hondt anfertigen - überwiesen
+- TOP 14.17: Wohnungsämter stärken - überwiesen
+- TOP 15: Mitteilungen - überwiesen
+- TOP 15.1: Parchimer Allee sicherer machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.1: Einsatz eines Präventionsmobils - mit Abschlussbericht zur Kenntnis genommen
