@@ -1,0 +1,3 @@
+# Gemeinsame Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über Zuständigkeiten zur Ausführung von Vorschriften über Schadstofffreisetzungs- und -verbringungsregister (Sächsische Schadstoffregister-Zuständigkeitsverordnung – SächsSRZuVO)
+Vom 2. Oktober 2012
+Aufgrund von § 16 Abs. 1 Satz 2 Nr. 1 des Gesetzes über die Verwaltungsorganisation des Freistaates Sachsen (Sächsisches Verwaltungsorganisationsgesetz – SächsVwOrgG) vom 25. November 2003 (SächsGVBl. S. 899), das zuletzt durch Artikel 1 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 131) geändert worden ist, und § 16 Abs. 1 Satz 2 Nr. 2 SächsVwOrgG mit Zustimmung der Staatsregierung wird verordnet:
