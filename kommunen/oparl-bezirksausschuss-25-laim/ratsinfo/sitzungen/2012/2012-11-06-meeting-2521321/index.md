@@ -1,0 +1,115 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-11-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2521321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2521321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1.: Sauberkeit in Laim
+- TOP 1.2.2.: Joergstr. 6; Antrag auf Haltverbots-Markierung
+- TOP 1.2.3.: Ruhige Wohngegend in Laim? (Vertagung aus der BA-Sitzung vom 09.10.12)
+- TOP 1.2.4.: Parkverbot in der Schäufeleinstraße (ca. auf Höhe der Hausnr. 15-22) wegen nicht-existenten Spielplätzen (Vertagung aus der BA-Sitzung vom 09.10.12)
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Forderungen bei der Neuplanung des Grundstücks an der Siglstraße mit Wohnungen (Vertagung aus der BA-Sitzung vom 09.10.12)
+- TOP 2.2.: SPD: Verringerung der Lärmemissionen durch die Straßenbahn in der Agnes-Bernauer-Straße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund, Fürstenrieder Str. 26
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund, Aindorferstr. 101, Burgkmairstr. 48, Friedenheimer Str. 77, Fürstenrieder Str. 62, Gotthardstr. 58, Gotthardstr. 63, Lautensackstr. 1, Westendstr. 174, Wotanstr. 1
+- TOP 3.3.: Antrag UA Kultur: Übernahme der Kosten in Höhe von 1.200 Euro für zwei Veranstaltungen auf dem Laimer Anger und zwei Veranstaltungen im ASZ Laim (Adventskonzerte eines Bläserquartetts) aus dem BA-Budget / Anteil für Eigenveranstaltungen
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.800 Euro für Faschingstreiben am 09.02.13; Antragsteller: Faschingsclub Laim e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 24.09.12: Radwegsanierung Westendstraße / Hans-Thonauer-Str. 5
+- TOP 4.2.: Schreiben KVR vom 28.09.12: Haltverbote in der Behamstraße zur Ermöglichung der Müllabfuhr
+- TOP 4.3.: Burgkmairstr. 42-48 / Justinus-Kerner-Str. 25-31: Antrag auf Fällung von 1 Eberesche und genehmigungspflichtige Baumveränderung an 1 Spitzahorn und 2 Robinien
+- TOP 4.4.: Schreiben Sozialreferat vom 10.10.12: Bewerbung für "Kinderorte im Stadtteil sichtbar machen", das Projekt zum Weltkindertag 2013
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.10.12: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Barrierefreier Umgang des Bahnhofs Donnersbergerbrücke an den Strecken 5540 München-Gauting und 5505 München-Lenggries, km 1.532-1.806
+- TOP 4.6.: Schreiben Direktorium vom 07.08.12: Kinder entscheiden in ihrem Stadtteil (Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN / RL vom 09.09.11 bzw. Initiative von Frau Bürgermeisterin Strobl im Treffen der BA-Vorsitzenden) (Vertagung aus der BA-Sitzung vom 11.09.12)
+- TOP 4.7.: Schreiben Sozialreferat vom 20.08.12: Bericht zur REGSAM, Bericht Vertragszeitraum 2010-2012, REGSAM neu denken, Beschluss Vertragszeitraum 2013-2015, REGSAM - ein starkes Netzwerk für München; Entwurf einer Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss (Vertagung aus der BA-Sitzung vom 11.09.12)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 11.10.12: Laimer Fisch- und Markttage vom 07.06.-16.06.13 auf dem Laimer Anger
+- TOP 4.9.: Schreiben Direktorium vom 19.10.12: Ressourcenverschwendung durch überflüssige Postsendungen stoppen (Antrag Nr. 08-14 / B 03815 des BA 14 Berg am Laim vom 27.03.12 bzw. Nr. 08-14 / B 03878 des BA 8 Schwanthalerhöhe vom 17.05.12)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 160: Neubau eines Hotels mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Siglstr. 19-21: Errichtung von Wohngebäuden sowie 2er Kindertageseinrichtungen und einer Tiefgarage (Brantstr. / Siglstr. 19 + 21) / Vorbescheid; hier: Baumfällungen
+- TOP 5.3.: Stroblstr. 37-43: Errichtung einer Balkonanlage; hier: Baumbestandsplan
+- TOP 5.4.: Landsberger Str. 270-280; Studentenwohnungen "Studio M2" / hier: Vorstellung
+- TOP 5.5.: Agnes-Bernauer-Str. 16: Neubau eines Mehrfamilienhauses (34 WE) mit Tiefgarage (28 Stpl.) / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.6.: Agnes-Bernauer-Str. 16: Aufstockung / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.7.: Agnes-Bernauer-Str. 2: Neubau eines Mehrfamilienhauses (31 WE) mit Tiefgarage (38 Stpl.) an Bestandsgiebel Agnes-Bernauer-Str. 2 und Schäufeleinstr. 5 (Agnes-Bernauer-Str. 2-6 / Schäufeleinstr. 13-21) / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.8.: Lautensackstr. 4-4d: Neubau einer Tiefgarage (38 Stpl.) / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 08.10.12: Wahl der 10. Münchner Seniorenvertretung - Aufruf zur Kandidatur
+- TOP 6.2.: Schreiben Urbanes Wohnen e.V. München vom 27.09.12: Urbanes Natur-Netz München
+- TOP 6.3.: Änderung der Besetzung in den Unterausschüssen
+- TOP 6.4.: Schreiben Direktorium vom 12.10.12: Information über rechtspopulistische / islamfeindliche Aktivitäten in München
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 17.09.12
+- TOP 7.2.: BA-Sitzung vom 09.10.12
+- TOP 7.3.: Sitzung UA Kultur vom 09.10.12
+- TOP 7.4.: BA-Sondersitzung vom 16.10.12
+- TOP 7.5.: Sitzung UA Umwelt / Verkehr vom 26.10.12
+- TOP 7.6.: Ortstermin UA Umwelt / Verkehr vom 29.10.12
+- TOP 7.7.: Sitzung UA Bau vom 31.10.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 27.08.12: Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten
+- TOP 8.2.: Schreiben Direktorium vom 04.10.12: Wohnungsbau und Kinderbetreuungseinrichtungen in der Zschokkestraße in Laim unverzüglich in Angriff nehmen
+- TOP 8.3.: Schreiben Direktorium vom 22.10.12: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Alten- und Servicezentrum Laim
+- TOP 8.4.: Schreiben Direktorium vom 22.10.12: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Kirchenchor St. Phillipus München
+- TOP 8.5.: Schreiben Baureferat vom 25.09.12: Straßenbeleuchtung in der Guido-Schneble-Straße (Schreiben BA vom 16.07.12)
+- TOP 8.6.: Schreiben Baureferat vom 15.10.12: Spielplatz Pronner Platz (Schreiben BA vom 03.08.12)
+- TOP 8.7.: Schreiben Baureferat vom 16.10.12: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Von-der-Pfordten-Str. 33
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.09.12: Agnes-Bernauer Str. 1; Neubau einer Garage im Innenhof (Agnes-Bernauer-Str. 1-5 / Lautensackstr. 6-16 / Ludwig-Richter-Str. 20 / Schedelstr. 1-11) / Vorbescheid
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.09.12: Agricolastr. 48, Einzelfällungsgenehmigung
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.09.12: Agnes-Bernauer-Str. 127; Neubau zweier Mehrfamilienhäuser (Haus 1- 8 WE / Haus 2 -5 WE) mit Tiefgarage (13. Stpl.) / Tektur
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.10.12: Einzelfällungsantrag St.-Ulrich-Str. 11
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.10.12: Fachnerstraße; Neubau eines Einfamilienhauses mit Garage / Vorbescheid
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.10.12: Fürstenrieder Str. 35; Baumfällungen (Schreiben BA vom 16.10.12)
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.10.12: Einzelfällungsantrag Mathunistr. 13
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.10.12: Landsberger Str. 191; Neubau eines Büro- und Geschäftshauses mit Arztpraxen / Vorbescheid
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.10.12: Byecherstr. 30c; Neubau eines Einfamilienhauses mit Carport
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 28.09.12: Zunehmender Fluglärm über Laim (Schreiben BA vom 17.09.12)
+- TOP 8.18.: Schreiben Kreisverwaltungsreferat vom 12.10.12: Gaststätte "Aindorfer Hof", Guido-Schneble-Str. 36; unveränderte Fortführung
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 26.09.12: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2012 für den BA
+- TOP 8.20.: Schreiben Stadtkämmerei vom 17.10.12: Mehrjahresinvestitionsprogramm für die Jahre 2012-2016
+- TOP 8.21.: Schreiben Referat für Bildung und Sport vom 22.10.12: Sporthalle Camerloherstr. 110; Informationsbrief Oktober 2012
+- TOP 8.22.: Schreiben Referat für Arbeit und Wirtschaft vom 15.10.12: Lärmgutachten zum Betriebshof Westend- / Zschokkestraße
+- TOP 8.23.: Schreiben Referat für Arbeit und Wirtschaft vom 28.09.12: Wirtschafts-Info 08/2012
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 02.10.12: Europe Direct Informationen 05/2012
+- TOP 8.25.: Schreiben Sozialreferat: Jung und alt - gemeinsam geht es besser! Der generationsübergreifende Wettbewerb in München
+- TOP 8.26.: Bautenliste vom 24.09.-30.09.12: 1. Erstantragsverfahren a) Landsberger Str. 322 2. Änderungsverfahren a) Elsenheimerstr. 59
+- TOP 8.27.: Bautenliste vom 08.10.-14.10.12 1. Erstantragsverfahren a) Flotowstr. 30
+- TOP 8.28.: Bautenliste vom 15.10.-21.10.12 1. Änderungsverfahren a) Flotowstr. 48 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 2 b) Queristr. 12 c) Agnes-Bernauer-Str. 16 d) Agnes-Bernauer-Str. 16 e) Lautensackstr. 4
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 24.09.12: Baumaßnahmen der Stadtwerke; Stichtag: 24.09.12
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 01.10.12: Baumaßnahmen der Stadtwerke; Stichtag: 01.10.12
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 08.10.12: Baumaßnahmen der Stadtwerke; Stichtag: 08.10.12
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 15.10.12: Baumaßnahmen der Stadtwerke; Stichtag: 15.10.12
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 22.10.12: Baumaßnahme der Stadtwerke; Stichtag: 22.10.12
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.12: Projekt Hauptbahnhof-Laim-Pasing, Entwicklung Teilbereich Paul-Gerhardt-Allee; Bekanntgabe des Wettbewerbsergebnisses und weiteres Vorgehen (Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2058) (Sitzungsvorlage Nr. 08-14 / V 10048)
+- TOP 8.35.: Beschluss der Vollversammlung vom 04.10.12: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Sitzungsvorlage Nr. 08-14 / V 09168)
+- TOP 8.36.: Beschluss der Vollversammlung vom 04.10.12: Münchner Kleingartenwesen; Modifizierung des Generalpachtvertrages (Sitzungsvorlage Nr. 08-14 / V 09983)
+- TOP 8.37.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.12: Jahr der Partizipation von Kindern und Jugendlichen in München (Sitzungsvorlage Nr. 08-14 / V 10032)
+- TOP 8.38.: Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.12: Kinder entscheiden in ihrem Stadtteil (Sitzungsvorlage Nr. 08-14 / V 10288)
+- TOP 8.39.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.12: Bericht zu REGSAM; Bericht Vertragszeitraum 2010-2012, REGSAM neu denken, Beschluss Vertragszeitraum 2013-2015, REGSAM - ein starkes Netzwerk für München (Sitzungsvorlage Nr. 08-14 / V 10073)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.12: Planfeststellung für den 2. Stammstreckentunnel, Abschnitt 1 West - Licht am Ende des Tunnels (Sitzungsvorlage Nr. 08-14 / V 10392)
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.12: Langfristige Freiraumentwicklung (Sitzungsvorlage Nr. 08-14 / V 09602)
+- TOP 8.42.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.12: Nachhaltigkeitsaspekte in Bebauungsplänen (Sitzungsvorlage Nr. 08-14 / V 09592)
+- TOP 8.43.: Beschluss des Ausschusses für Bildung und Sport vom 10.10.12: Neubau einer Kindertagesstätte mit 3 Kindergarten- und 4 Hortgruppen an der Camerloherstr. 108 (Sitzungsvorlage Nr. 08-14 / V 10329)
+- TOP 8.44.: Beschluss des Kreisverwaltungsausschusses vom 23.10.12: Lichtzeichenanlagen-Bauprogramm; Bessere Ausrüstung der Ampelanlagen für Blinde (Sitzungsvorlage Nr. 08-14 / V 10389)
+- TOP 8.45.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschuss und des Sozialausschuss vom 06.11.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10305)
+- TOP 8.46.: Beschluss des Kinder- und Jugendhilfeausschuss und des Sozialausschuss in der gemeinsamen Sitzung vom 06.11.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10309)
+- TOP 8.47.: Beschluss des Kinder- und Jugendhilfeausschuss und des Sozialausschuss in der gemeinsamen Sitzung vom 06.11.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10387)
+- TOP 8.48.: Beschluss des Kinder- und Jugendhilfeausschuss und des Sozialausschuss in der gemeinsamen Sitzung vom 06.11.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10337)
+- TOP 8.49.: Schreiben TAXI-München e.G. vom 01.10.12: Taxistand Gotthardstraße (Schreiben BA vom 14.09.12)
+- TOP 8.50.: Schreiben Kreisjugendring München-Stadt vom 23.10.12: Einladung zur 3. Infoveranstaltung Jugendbeteiligung - Thema "Grünes München" am 15.11.12
+- TOP 8.51.: Münchner Statistik, 1. Quartalsheft, Jahrgang 2012
+- TOP 8.52.: Schriftverkehr aus der BA-Sitzung vom 09.10.12
+- TOP 1.2: Bürgerpost an den BA
