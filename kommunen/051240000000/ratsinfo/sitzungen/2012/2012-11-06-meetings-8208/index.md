@@ -1,0 +1,60 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-11-06T16:03:00+01:00
+- Ende: 2012-11-06T17:35:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8208
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8208
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 26.10.2012 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00147455.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00148528.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der CVUA-RRW AöR für das Geschäftsjahr 2011 - Entgegennahme ohne Beschluss
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Stärkung der Finanzierungsstruktur der Gemeinnützigen Wohnungsbaugesellschaft Wuppertal mbH (GWG) - zur Entscheidung verwiesen
+- TOP 5.1.1: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 30.10.2012 - Informationen über Zahlung der AIG - Entgegennahme ohne Beschluss
+- TOP 5.1.1.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 30.10.2012 - Informationen über Zahlung der AIG - Entgegennahme ohne Beschluss
+- TOP 5.2: Einbringung des Sinfonieorchesters Wuppertal in die Wuppertaler Bühnen GmbH - geändert beschlossen
+- TOP 5.2.1: Ergänzung: Einbringung des Sinfonieorchesters Wuppertal in die Wuppertaler Bühnen GmbH - Entgegennahme ohne Beschluss
+- TOP 5.3: Zukunft der Schauspielsparte der zukünftigen Wuppertaler Bühnen und Sinfonieorchester GmbH - geändert beschlossen
+- TOP 5.4: Bestellung von Prof. Kamioka zum künstlerischen Geschäftsführer für das Musiktheater und zum Generalmusikdirektor - geändert beschlossen
+- TOP 5.5: Verbandsversammlung 2012 des Wupperverbandes - ungeändert beschlossen
+- TOP 5.6: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2012 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 5.7: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2012 der GWG und des Konzerns - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Finco-Bericht zum 30.09.2012 - Entgegennahme ohne Beschluss
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln für 2012, Teil 1 - Entgegennahme ohne Beschluss
+- TOP 7.3: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: 2.Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 - ungeändert beschlossen
+- TOP 8.2: Umsetzung des Haushaltssanierungsplans (HSP) 2012 - 2021 - Stand zum 30.09.2012 - Entgegennahme ohne Beschluss
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: Große Anfrage der CDU-Fraktion vom 10.09.2012 - Übertragung von Ratssitzungen im Internet - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Antwort auf die Große Anfrage vom 10.09.2012 - Übertragung von Ratssitzungen im Internet - Entgegennahme ohne Beschluss
+- TOP 11.2: Große Anfrage der FDP-Fraktion vom 12.10.2012 - Krankenstand bei der WSW mobil GmbH - Entgegennahme ohne Beschluss
+- TOP 11.2.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 12.10.2012 - Krankenstand bei der WSW mobil GmbH - Entgegennahme ohne Beschluss
+- TOP 11.3: Große Anfrage der FDP-Fraktion vom 10.10.2012 - "Gehälter der Geschäftsführer städtischer Beteiligungen" - Entgegennahme ohne Beschluss
+- TOP 11.3.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 10.10.2012 - Gehälter der Geschäftsführer städtischer Beteiligungen - Entgegennahme ohne Beschluss
+- TOP 11.4: Keine Umsatzbesteuerung Interkommunaler Zusammenarbeit! - ungeändert beschlossen
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Digitaler Gremiendienst - Entgegennahme ohne Beschluss
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 17: Berichte und Mitteilungen
