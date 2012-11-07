@@ -1,0 +1,71 @@
+# 23. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-11-07T17:03:00+01:00
+- Ende: 2012-11-07T21:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8308
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8308
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00331109.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0036/2012 "Auskunft aus dem Melderegister auf das absolute Mindestmaß reduzieren!" - von der Tagesordnung abgesetzt
+- TOP 2.2: Antrag der FDP-Fraktion an den Rat A-R/0009/2012 "Weniger Kosten, weniger Sorgen - KiTa-Investorenmodelle ermöglichen" - bei Stimmengleichheit abgelehnt
+- TOP 2.3: Antrag der Ratsfraktion DIE LINKE Nr. A-R/0039/2012 "Gewalt an Schulen - Erkennen und handeln" - einstimmig beschlossen
+- TOP 2.4: Antrag der Bündnis 90/Die Grünen/GAL Ratsfraktion "Kindertagespflege ausbauen und angemessen ausstatten" - einstimmig beschlossen
+- TOP 3: Speakers' Corner - mehrheitlich beschlossen
+- TOP 4: Förderung von Stadterneuerungsprojekten - Sachstand 2012 und Anträge 2013 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Wahlplakatierung - ohne Beschlussfassung geschoben
+- TOP 6: Jahresbericht 2010 / 2011 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 7: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 (Teil 2) - von der Tagesordnung abgesetzt
+- TOP 8: Bürgerhaushalt 2012 - Einbringung der 102 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 9: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2012 - ohne Beschlussfassung geschoben
+- TOP 9.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2012
+- TOP 10: Übernahme einer Ausfallbürgschaft für die AiportPark FMO GmbH - ohne Beschlussfassung geschoben
+- TOP 11: Änderung der Gesellschaftsverträge der Technologieförderung Münster GmbH und der CeNTech GmbH - einstimmig beschlossen
+- TOP 12: 'Standorte-Entwicklungskonzept Briten-Wohnungen in Münster' - Zielkonzept für die 18 Wohnstandorte - - einstimmig beschlossen
+- TOP 12.1: 'Standorte-Entwicklungskonzept Briten-Wohnungen in Münster' - Zielkonzept für die 18 Wohnstandorte -
+- TOP 13: Beschlüsse zur Aufstellung von Bebauungsplänen -Standorte Briten Wohnungen - einstimmig beschlossen
+- TOP 14: Einleitung vorbereitender Untersuchungen zur Durchführung städtebaulicher Entwicklungsmaßnahmen gem. §§ 165 ff. BauGB für die Bereiche der York-Kaserne in Münster-Gremmendorf und der Oxford-Kaserne in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 15: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 15.1: Satzung über die Erhebung von Beiträgen nach § 8 KAG - ohne Beschlussfassung geschoben
+- TOP 15.2: Satzung zur Erhebung von Kanalanschlussbeiträgen - ohne Beschlussfassung geschoben
+- TOP 15.3: Satzung für die Erhebung von Erschließungsbeiträgen in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 15.4: Neufassung der Abwassergebührensatzung (AGS) - ohne Beschlussfassung geschoben
+- TOP 15.5: Ortssatzung über die Entwässerung der Grundstücke und den Anschluss an die gemeindliche Abwasseranlage in der Stadt Münster Entwässerungssatzung (EWS) - ohne Beschlussfassung geschoben
+- TOP 15.5.1: Ortssatzung über die Entwässerung der Grundstücke und den Anschluss an die gemeindliche Abwasseranlage in der Stadt Münster Entwässerungssatzung (EWS)
+- TOP 16: Satzung über die Beseitigung des Schlammes aus nichtöffentlichen Kleinkläranlagen und geschlossenen Abwassergruben in der Stadt Münster (Klärschlammsatzung - KSS), - einstimmig beschlossen
+- TOP 17: Offene Ganztagsschule in Münster - Bericht 2009 - 2012 - ohne Beschlussfassung geschoben
+- TOP 18: Bericht zur Raumsituation zum Offenen Ganztag in Münster - ohne Beschlussfassung geschoben
+- TOP 19: Änderung der Gebührensatzung und Schulordnung der Westfälischen Schule für Musik - ohne Beschlussfassung geschoben
+- TOP 19.1: Änderung der Gebührensatzung und Schulordnung der Westfälischen Schule für Musik
+- TOP 20: Geänderter WIrtschaftsplan 2012/2013 des Theaters Münster - einstimmig beschlossen
+- TOP 21: Wirtschaftsplan 2013/2014 des Theaters Münster - einstimmig beschlossen
+- TOP 22: Ausbau der Betreuungsquote für Kinder unter drei Jahren - ohne Beschlussfassung geschoben
+- TOP 22.1: Ausbau der Betreuungsquote für Kinder unter drei Jahren
+- TOP 23: Umstrukturierung der Kindertageseinrichtung St. Bernhard, Angelmodde - einstimmig beschlossen
+- TOP 23.1: Umstrukturierung der Kindertageseinrichtung St. Bernhard, Angelmodde
+- TOP 24: Umstrukturierungen der katholischen Kindertageseinrichtungen St. Josef in Albachten, St. Ursula und St. Pantaleon in Roxel - einstimmig beschlossen
+- TOP 25: Umstrukturierung der Kindertageseinrichtung St. Sebastian, Amelsbüren - einstimmig beschlossen
+- TOP 25.1: Umstrukturierung der Kindertageseinrichtung St Sebastian , Amelsbüren
+- TOP 26: Erweiterung der Kindertageseinrichtung Outlaw, Sprakel - ohne Beschlussfassung geschoben
+- TOP 27: Umschichtung von Finanzmitteln im Sportbudget - ohne Beschlussfassung geschoben
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Mitte
+- TOP 28.1.1: Bebauungsplan Nr. 544 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 28.1.1.1: Bebauungsplan Nr. 544 - Aufstellungsbeschluss
+- TOP 28.1.2: Bebauungsplan Nr. 539 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 28.1.3: Bebauungsplan Nr. 545 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 29: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost - ohne Beschlussfassung geschoben
+- TOP 29.1: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost
+- TOP 30: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 31: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Verschiedenes
