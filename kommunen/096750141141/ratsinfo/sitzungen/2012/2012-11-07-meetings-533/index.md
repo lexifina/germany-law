@@ -1,0 +1,62 @@
+# Sitzung des Stadtrates - 2. Haushaltssitzung
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2012-11-07T17:00:00+01:00
+- Ende: 2012-11-07T20:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/533
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/533
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00012549.pdf
+
+## Tagesordnung
+
+- TOP 1: Fortführung der Beratung zum Vermögenshaushalt
+- TOP 2: Anträge zum Haushalt 2013 und zur Finanzplanung 2012 - 2016
+- TOP 2.1: Übernahme des Wohnmobilstellplatzes durch die Stadtbetriebe Kitzingen GmbH - beschlossen
+- TOP 2.2: Zeitmessung/Stechuhren für Außenstellen - beschlossen
+- TOP 2.3: Grundstücksverkaufserlöse/Grundstücksveräußerungen - beschlossen
+- TOP 2.4: Deustergelände/-park - beschlossen
+- TOP 2.5: Gartenstraße - beschlossen
+- TOP 2.6: Hort Marienthal (Sachstand) Schülerhort, Ferienbetreung - beschlossen
+- TOP 2.7: Stadtbücherei - Beschaffung neuer Medien - beschlossen
+- TOP 2.8: Sauberkeit in der Stadt, Straßenreinigung - Ohne Abstimmung
+- TOP 2.9: Flächenmanagement, Teilzeitstelle - zusätzlich - - Ohne Abstimmung
+- TOP 2.10: Ganzjährige Öffnung der Spitze der Mondseeinsel - beschlossen
+- TOP 2.11: Konzeptionelle Entwicklung eines Profiles für die Stadt Kitzingen - beschlossen
+- TOP 2.12: Gebührenfreies letztes Kindergartenjahr - Ohne Abstimmung
+- TOP 2.13: Parkgutscheine für Weinköniginnen - Ohne Abstimmung
+- TOP 2.14: Sachstandsbericht Bahnüberführung - Kaltensondheimer Straße - Ohne Abstimmung
+- TOP 2.15: Aktivitäten Bauamt - Endabrechnung - Ohne Abstimmung
+- TOP 2.16: Integrationsbeirat, Bereitstellung finanzieller Mittel - Ohne Abstimmung
+- TOP 2.17: Klärschlammentsorgung - Ohne Abstimmung
+- TOP 2.18: Bahnhof - barrierefreier Zugang zu den Zügen - beschlossen
+- TOP 2.19: Bewegungsflächen für Jugendliche - Ohne Abstimmung
+- TOP 2.20: Verkehrskonzept - Ohne Abstimmung
+- TOP 2.21: Anträge der KIK-Fraktion
+- TOP 2.22: Anbindung Geh- und Radweg entlang B 8 - Ausbau - beschlossen
+- TOP 2.23: Flurwege Hoheim begehbar machen - beschlossen
+- TOP 2.24: Ausbau Rennerstraße Repperndorf - beschlossen
+- TOP 2.25: Erneuerung Alte Reichsstraße - beschlossen
+- TOP 2.26: Öffentlicher Parkplatz "Am Seelein" - Ohne Abstimmung
+- TOP 2.27: Sachstand Altes Feuerwehrhaus Repperndorf - beschlossen
+- TOP 2.28: Anwesen "Eisgasse 6" - beschlossen
+- TOP 2.29: Anrufsammeltaxi (AST) - weiteres Vorgehen - beschlossen
+- TOP 2.30: Sachstand "Soziale Stadt" - beschlossen
+- TOP 2.31: Aufweitung Abbiegespur Kreuzung Fehrer auf die Nordtangente - beschlossen
+- TOP 2.32: Freizeitgelände Bleichwasen - beschlossen
+- TOP 2.33: Friedhof Etwashausen - beschlossen
+- TOP 2.34: Sachstand Abriss Wohnblocks - Egerländer Straße - beschlossen
+- TOP 2.35: Bürgerbräugelände - beschlossen
+- TOP 2.36: Radweg Repperndorf befestigen im Bereich Gasthaus "Stadt Kitzingen" bis Schreinerei "Schloßnagel" - beschlossen
+- TOP 2.37: Brandschutzmaßnahmen allgemein
+- TOP 2.38: Schulsportanlage Siedlung, Generalsanierung - Ohne Abstimmung
+- TOP 2.39: Grund- und Mittelschule Siedlung, Sachstandsinformation - beschlossen
+- TOP 2.40: Sachstand Zuschüsse NIK - beschlossen
+- TOP 2.41: Stadtplanung - externe Planungsleistungen - Ohne Abstimmung
+- TOP 3: Sonstiges
+- TOP 3.1: Anfragen von Stadtrat Pauluhn weiteres Vorgehen zu den Anträgen zum Haushalt Pro-Kopf Verschuldung der Stadt Kitzingen
+- TOP 3.2: Anfrage von Stadträtin Glos UA 4643 Sicherheitseinrichtungen für Kindergärten
+- TOP 3.3: Anfragen von Stadträtin Wallrapp Vorlage der Änderungsliste Vorlage der Abrechnung Neubau Feuerwehrhaus Repperndorf
