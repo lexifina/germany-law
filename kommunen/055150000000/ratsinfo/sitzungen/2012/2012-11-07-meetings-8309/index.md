@@ -1,0 +1,88 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-11-07T18:07:00+01:00
+- Ende: 2012-11-07T21:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8309
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8309
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00331111.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3.1: Frage zur Vorlage eines Berichtes zur Sponsorensuche für den Promenadenflohmarkt
+- TOP 3.2: Aufforderung zur Einlage von Eigenmitteln an eine Bürgerinitiative zur Durchführung einer städtischen Veranstaltung
+- TOP 3.3: Verwendung der auf der Grundlage der Einsparvorschläge der Bürgerinitiative eingesparten Mittel
+- TOP 3.4: Platzierung eines Vorschlages im Bürgerhaushalt
+- TOP 3.5: Verwendung der Mittel aus dem Bildungspaket im Jahr 2011
+- TOP 3.6: Verbesserung der Zusammenarbeit zwischen Politik, Verwaltung und Bürgerinitiative
+- TOP 3.7: Wohnraum für alleinstehende wohnungslose Menschen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Resolution zum Bürgerbad - mehrheitlich abgelehnt
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8.1: Kommunale Wohnungspolitik - Schaffung von finanzierbarem Wohnraum durch Eigeninitiative von Bürgern - verwiesen
+- TOP 9: Wahlplakatierung - einstimmig beschlossen
+- TOP 10: Jahresbericht 2010 / 2011 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 11: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 (Teil 2) - von der Tagesordnung abgesetzt
+- TOP 12: Bürgerhaushalt 2012 - Einbringung der 102 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 13: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2012 - einstimmig beschlossen
+- TOP 13.1: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2012
+- TOP 14: Übernahme einer Ausfallbürgschaft für die AiportPark FMO GmbH - von der Tagesordnung abgesetzt
+- TOP 15: Änderung der Gesellschaftsverträge der Technologieförderung Münster GmbH und der CeNTech GmbH - einstimmig beschlossen
+- TOP 16: 'Standorte-Entwicklungskonzept Briten-Wohnungen in Münster' - Zielkonzept für die 18 Wohnstandorte - - einstimmig beschlossen
+- TOP 16.1: 'Standorte-Entwicklungskonzept Briten-Wohnungen in Münster' - Zielkonzept für die 18 Wohnstandorte -
+- TOP 17: Beschlüsse zur Aufstellung von Bebauungsplänen -Standorte Briten Wohnungen - einstimmig beschlossen
+- TOP 18: Einleitung vorbereitender Untersuchungen zur Durchführung städtebaulicher Entwicklungsmaßnahmen gem. §§ 165 ff. BauGB für die Bereiche der York-Kaserne in Münster-Gremmendorf und der Oxford-Kaserne in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 19: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 19.1: Satzung über die Erhebung von Beiträgen nach § 8 KAG - einstimmig beschlossen
+- TOP 19.2: Satzung zur Erhebung von Kanalanschlussbeiträgen - einstimmig beschlossen
+- TOP 19.3: Satzung für die Erhebung von Erschließungsbeiträgen in der Stadt Münster - einstimmig beschlossen
+- TOP 19.4: Neufassung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 19.5: Ortssatzung über die Entwässerung der Grundstücke und den Anschluss an die gemeindliche Abwasseranlage in der Stadt Münster Entwässerungssatzung (EWS) - einstimmig beschlossen
+- TOP 19.5.1: Ortssatzung über die Entwässerung der Grundstücke und den Anschluss an die gemeindliche Abwasseranlage in der Stadt Münster Entwässerungssatzung (EWS)
+- TOP 20: Satzung über die Beseitigung des Schlammes aus nichtöffentlichen Kleinkläranlagen und geschlossenen Abwassergruben in der Stadt Münster (Klärschlammsatzung - KSS), - einstimmig beschlossen
+- TOP 21: Offene Ganztagsschule in Münster - Bericht 2009 - 2012 - zur Kenntnis genommen
+- TOP 22: Bericht zur Raumsituation zum Offenen Ganztag in Münster - zur Kenntnis genommen
+- TOP 23: Änderung der Gebührensatzung und Schulordnung der Westfälischen Schule für Musik - mehrheitlich geändert beschlossen
+- TOP 23.1: Änderung der Gebührensatzung und Schulordnung der Westfälischen Schule für Musik
+- TOP 24: Geänderter WIrtschaftsplan 2012/2013 des Theaters Münster - mehrheitlich beschlossen
+- TOP 25: Wirtschaftsplan 2013/2014 des Theaters Münster - mehrheitlich beschlossen
+- TOP 26: Ausbau der Betreuungsquote für Kinder unter drei Jahren - einstimmig beschlossen
+- TOP 26.1: Ausbau der Betreuungsquote für Kinder unter drei Jahren
+- TOP 27: Umstrukturierung der Kindertageseinrichtung St. Bernhard, Angelmodde - einstimmig beschlossen
+- TOP 27.1: Umstrukturierung der Kindertageseinrichtung St. Bernhard, Angelmodde
+- TOP 28: Umstrukturierungen der katholischen Kindertageseinrichtungen St. Josef in Albachten, St. Ursula und St. Pantaleon in Roxel - einstimmig beschlossen
+- TOP 29: Umstrukturierung der Kindertageseinrichtung St. Sebastian, Amelsbüren - einstimmig beschlossen
+- TOP 29.1: Umstrukturierung der Kindertageseinrichtung St Sebastian , Amelsbüren
+- TOP 30: Erweiterung der Kindertageseinrichtung Outlaw, Sprakel - mehrheitlich beschlossen
+- TOP 31: Umschichtung von Finanzmitteln im Sportbudget - mehrheitlich beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Münster-Mitte
+- TOP 32.1.1: Bebauungsplan Nr. 544 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 32.1.1.1: Bebaungsplan Nr. 544 - Aufstellungsbeschluss
+- TOP 32.1.2: Bebauungsplan Nr. 539 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 32.1.3: Bebauungsplan Nr. 545 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 33: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost - einstimmig beschlossen
+- TOP 33.1: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes IV Havixbeck-Roxel sowie den Ausschuss des Wasser- und Bodenverbandes Münster-Südost
+- TOP 34: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 35: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 37.1: "PRIMUS " Modellprojekt Schule 1 - 10, - ein Modell für Münster - verwiesen
+- TOP 37.2: Mediation zur Verbesserung der Bildungsteilhabe von Kindern und Jugendlichen aus neu zugewanderten Familien, insbesondere aus Bulgarien und Rumänien - verwiesen
+- TOP 37.3: Betreuungsmöglichkeiten intelligent nutzen: Platzsharing für KiTa-Plätze prüfen - verwiesen
+- TOP 37.4: Münster braucht preiswerten Wohnraum für alle! Wohn+Stadtbau finanziell und personell ertüchtigen (Konversions-)Flächen für bezahlbaren Wohnraum sichern! - verwiesen
+- TOP 37.5: Neue Chancen für die außerschulische Bildung: Perspektiven für die Volkshochschule und die musikalische Bildung in Münster - verwiesen
+- TOP 37.6: Mit der Verlagerung des SC Westfalia Kinderhaus noch im Jahr 2013 beginnen - verwiesen
+- TOP 37.7: Klinker und Klimaschutz in Münster - verwiesen
+- TOP 37.8: Gesundes Essen in Münsters Schulen - Qualität sichern und verbessern - verwiesen
+- TOP 38: Verschiedenes
