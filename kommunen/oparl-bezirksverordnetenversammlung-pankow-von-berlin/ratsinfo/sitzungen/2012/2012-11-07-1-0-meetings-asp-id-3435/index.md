@@ -1,0 +1,110 @@
+# 10. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2012-11-07T17:30:00+01:00
+- Ende: 2012-11-07T21:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3435
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3435
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=50903
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Vertagte Drucksachen aus der 9. ordentlichen Tagung der BVV - erledigt
+- TOP 1.8.1: Massenhafte Umnutzung von Wohnungen in Ferienwohnung – das Bezirksamt wartet ab und tut nichts - beantwortet
+- TOP 1.8.2: Unterstützung von Kooperationen zwischen Museen und Schulen - überwiesen
+- TOP 1.9: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2012/2013 hier: Haushaltsjahr 2013 - mit Änderungen in der BVV beschlossen
+- TOP 1.10: Nachwahl einer Bürgerdeputierten - gewählt
+- TOP 1.11: Denkmal des Monats - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Lärmsanierung an Bundesverkehrswegen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Lücken im Fahrrad-Routennetz schließen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Fußgänger am Knoten Berliner Allee-Rennbahnstraße-Bernkasteler Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Kreuzung Berliner Allee/Indira-Gandhi-Straße: südwestliche Querung der Berliner Allee verbessern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Außenstelle der IGA 2017 im Pankower Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Kulturareal Thälmannpark: Beiratsmitglieder für NutzerInnen und KünstlerInnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Kostenausweisung bei Anträgen und Anfragen - in der BVV abgelehnt
+- TOP 1.19: Unterstützung der stationären Familien- und Jugendhilfe (SGB VIII) im Kontext der Wohnungsversorgung junger Menschen und Familien im Bezirk - überwiesen
+- TOP 1.20: Honorarregelungen für arbeitnehmerähnliche Honorarkräfte der Musikschulen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Stille Straße 10 - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Entlastung der Pfeilstraße - überwiesen
+- TOP 1.23: Einrichtung einer Einbahnstraßenregelung in der Anliegerstraße (Hosemannstraße) zwischen Hosemannstraße und Mandelstraße - überwiesen
+- TOP 1.24: Keine Erweiterung der Kreuzung Wollankstraße/ Florastraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Kastanienallee (Prenzlauer Berg) als "verkehrsberuhigten Geschäftsbereich" ausweisen! - überwiesen
+- TOP 1.26: Sicherung der Planungs- und Gestaltungshoheit des Bezirkes und seiner BürgerInnen für das Areal Thälmannpark / Fröbelstraße - überwiesen
+- TOP 1.27: Grundwasserregulierung im Regenwasserkonzept berücksichtigen - überwiesen
+- TOP 1.28: Baugenehmigung Wollankstraße 15 - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Atelierhaus Prenzlauer Promenade - überwiesen
+- TOP 1.30: Bezahlbare Wohnungen für Menschen, die Arbeitslosengeld II, Leistungen für die Kosten der Unterkunft nach SGB XII oder Asylbewerberleistungsgesetz erhalten - überwiesen
+- TOP 1.31: Senioren über das Internetangebot des Bezirksamtes informieren - in der BVV abgelehnt
+- TOP 1.32: Ehemaliges Gelände der Akademie der Wissenschaften Prenzlauer Promenade 149 - 152 - beantwortet
+- TOP 1.33: Immissionsschutz im Gewerbegebiet Heinersdorf verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Nachhaltige Sicherung der "Kulturbrauerei" - überwiesen
+- TOP 1.35: Gleichberechtigung im Landespflegegeldgesetz schaffen - überwiesen
+- TOP 1.36: Gehwegverbesserung Romain-Rolland-Straße auf Höhe der Kirche - überwiesen
+- TOP 1.37: Simultanübersetzungen in Gebärdensprache - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Ein neuer Sportentwicklungsplan! - überwiesen
+- TOP 1.39: Erhöhung der Verkehrssicherheit in der Straße Alt-Karow - überwiesen
+- TOP 1.40: Mindestlohn durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Informationen über Mitwirkungs- und Einflussmöglichkeiten in Pankow in der Bezirksbroschüre - überwiesen
+- TOP 1.42: Beschluss des BEA Pankow zum Grundschulessen - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Gehweg in der Schulzestraße - überwiesen
+- TOP 1.44: Ehrenamt stärken! - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Mehr Informationen im Internet zur BürgerInnenbeteiligung in Pankow - überwiesen
+- TOP 1.46: Verkauf und Leerstand von gefördertem Wohnraum - überwiesen
+- TOP 1.47: Mehr Sicherheit und weniger Lärm in der Hermann-Hesse-Straße - überwiesen
+- TOP 1.48: Hilfe für Pfandflaschensammler - Flaschenbehälter an Papierkörben - überwiesen
+- TOP 1.49: Ausschilderung des Bürgerhauses Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Lichtsignalanlage an der Kreuzung Lessingstraße / Hauptstraße in Wilhelmsruh - überwiesen
+- TOP 1.51: Aufhebung einer Ladezone - ohne Änderungen in der BVV beschlossen
+- TOP 1.52: KünstlerInnenhaus Prenzlauer Promenade 149 - 152 - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen aus der 9. ordentlichen Tagung der BVV - (offen)
+- TOP 2.1.1: Entwicklung des Rangier- und Güterbahnhofs Pankow - vertagt
+- TOP 2.1.2: Einstellung der Bebauungsplanverfahren XVIII-1 und XVIII-2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Konsolidierungskonzept 2012 bis 2016 - vertagt
+- TOP 2.1.4: Weitere Verlängerung der Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Prenzlauer Promenade 45, 46 - vertagt
+- TOP 2.2: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Gedenktafel für Synagoge in der Schönholzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Denkmalschutzbericht erstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Umsteuern bei den Haushaltsdefiziten im Bereich der Hilfen in besonderen Lebenslagen - vertagt
+- TOP 2.6: Pankow für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Rückrufservice - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Kulturzentrum Bizetstraße nach einer Frau benennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Kostenlose Museumsbesuche - Preisnachlässe im kulturellen Bereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Verbesserung der Querungssituation in der Schönhauser Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: "Stolperstein"-Projekt sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Geschichte der Euthanasiemorde in Buch aufklären - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Ehrendes Gedenken für Christa Wolf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Erinnerung an "Die Palme" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Windeignungsgebiete ausweisen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Keine Honoraranpassung zu Lasten der Berliner Bezirke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Ausweitung der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Angebote der "Stillen Straße 10" sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Suche nach Plätzen in Kindertageseinrichtungen im Bezirk erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Weniger Verkehrslärm in der Karower Bahnhofstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Wohnprojekt „Whien“: halboffene Unterbringung des Maßregelvollzuges für Menschen mit psychischen Erkrankungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Markt am Kollwitzplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Fluglärm Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Keine generellen Freistellungen von Belegungsbindungen - vertagt
+- TOP 2.25: Weiteres Vorgehen zur Entwicklung des Rangier- und Güterbahnhofs Pankow - vertagt
+- TOP 2.26: Umsetzung der "Barrierefreie Informationstechnik-Verordnung (BITV 2.0)" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Aktionstage "Zu Fuß zur Schule" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Ausstellung – 25 Frauen aus Hoheneck - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Parkraumbewirtschaftung nördliche Torstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: "Kulturprodukte" der Produktionsrealität anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Die Anton-Saefkow-Straße für den Radverkehr in beide Richtungen öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Beflaggung zum Fest an der Panke - vertagt
+- TOP 2.33: Ehrengrabstätte für Peter Fechter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Bebauungsplan XVIII-36 für das Gelände zwischen Idunastraße, Romain-Rolland-Straße, Neukirchstraße und Heimdallstraße sowie für Abschnitte der Idunastraße, Romain-Rolland-Straße, Neukirchstraße und Heimdallstraße mit Ausnahme der Grundstücke Idunastraße 1-2 im Bezirk Pankow, Ortsteil Heinersdorf; - Einschränkung und Erweiterung des Geltungsbereichs und Aufstellung der Bebauungspläne 3-41 und 3-44 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Aufstellung des Bebauungsplans 3-46 für den südöstlichen Teil des Grundstücks Robert-Rössle-Straße 10 im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
