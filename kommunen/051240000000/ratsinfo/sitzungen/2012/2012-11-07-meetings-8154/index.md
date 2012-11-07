@@ -1,0 +1,64 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-11-07T16:05:00+01:00
+- Ende: 2012-11-07T17:40:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8154
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8154
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 24.10.2011 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00147280.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00148198.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zeitplan Umbau Döppersberg
+- TOP 2.1.1: Anfrage der FDP-Fraktion VO/0791/12 vom 31.10.2012
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Leistungsanpassung im ÖPNV - Bürgeranträge gem. § 24 GO NRW
+- TOP 3.2: Bürgerantrag der Initiative Wuppertaler Tagespflegeeltern - ungeändert beschlossen
+- TOP 3.3: Bürgerantrag gemäß § 24 GO NRW der Nachbarschaftsinitiative Langobardenstraße - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Livestream-Übertragung der Ratssitzungen im Internet - abgelehnt
+- TOP 4.2: Keine Umsatzbesteuerung Interkommunaler Zusammenarbeit! - ungeändert beschlossen
+- TOP 4.3: Nutzung von WSV-VIP-Karten - vertagt auf Rat
+- TOP 4.4: Resolution - Keine forensische Klinik an der Müngstener Straße - vertagt auf Rat
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Fünfte Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.2: Stellplatzablösesatzung der Stadt Wuppertal vom 20.11.2006 - 1. Änderungssatzung - - ungeändert beschlossen
+- TOP 6.3: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - vertagt auf Rat
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: 2.Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 - ungeändert beschlossen
+- TOP 7.2: Bericht zur Umsetzung des Haushaltssanierungsplans (HSP) 2012 - 2021 - Stand 30.09.2012 - Entgegennahme ohne Beschluss
+- TOP 7.3: Über- und außerplanmäßige Bereitstellung von Mitteln für 2012, Teil 1 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Stärkung der Finanzierungsstruktur der Gemeinnützigen Wohnungsbaugesellschaft Wuppertal mbH (GWG) - vertagt auf Rat
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1160 - Herzogstraße / Neumarktstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1175 - Gathe / Ludwigstraße / Markomannenstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 778 - Ascheweg / Zandershöfe - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Einbringung des Sinfonieorchesters Wuppertal in die Wuppertaler Bühnen GmbH - geändert beschlossen
+- TOP 11.1.1: Ergänzung: Einbringung des Sinfonieorchesters Wuppertal in die Wuppertaler Bühnen GmbH - Entgegennahme ohne Beschluss
+- TOP 11.2: Zukunft der Schauspielsparte der zukünftigen Wuppertaler Bühnen und Sinfonieorchester GmbH - geändert beschlossen
+- TOP 11.3: Neustrukturierung der Ferienbetreuung an den offenen Ganztagsschulen im Primarbereich ab dem Schuljahr 2013/2014 - vertagt auf Rat
+- TOP 11.4: Inbetriebnahme einer zweigruppigen städtischen Tageseinrichtung für Kinder Annabergstraße 15 zum 01.08.2013 - ungeändert beschlossen
+- TOP 11.5: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 11.6: Einrichtung des Zentrums für Integration, Bildung und Kulturelle Vielfalt im Ressort Zuwanderung und Integration - geändert beschlossen
+- TOP 11.7: Umsetzung der Landesstrategie Neues Übergangssystem Schule-Beruf in NRW - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.2: Neuwahl der Arbeitnehmervertreter für den Aufsichtsrat der AWG - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung für den Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Ausschuss für die Gleichstellung - ungeändert beschlossen
+- TOP 12.5: Verwaltungsausschuss der Agentur für Arbeit Wuppertal-Solingen - Vorschlagsliste für die Neuberufung der Mitglieder ab 01.01.13 bis 30.06.16 - ungeändert beschlossen
+- TOP 12.6: Benennung eines neuen Mitgliedes des Integrationsausschusses - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzung Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.8: Abberufung und Bestellung sachkundiger EinwohnerInnen im Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH/KIJU - ungeändert beschlossen
