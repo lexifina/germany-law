@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-11-08T12:00:00+01:00
+- Ende: 2012-11-08T20:42:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5519
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5519
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184916.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184916.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00184916.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage BÜ90/GRÜ: Wohnungsbauvorhaben - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktionen von CDU und FDP: Vorbild Bürgerinformation - beantwortet
+- TOP 4.3: Anfrage Die Linke: Städtische Fördermittel für kirchliche Träger - schriftlich beantwortet
+- TOP 4.4: Anfrage Die Linke: Altersarmut in Düsseldorf - schriftlich beantwortet
+- TOP 4.5: Anfrage SPD: Schaffung von Jugendwohnheimen - schriftlich beantwortet
+- TOP 4.6: Anfrage Rh Blanchard: PCB-Belastung in städtischen Gebäuden - schriftlich beantwortet
+- TOP 4.7: Anfrage der Ratsfrau Kraft-Dlangamandla: Verdienstunterschiede von Frauen und Männern - schriftlich beantwortet
+- TOP 4.8: Anfrage Rh Yimbou: Einwände gegen die Inbetriebnahme der CO-Pipeline - schriftlich beantwortet
+- TOP 4.9: Anfrage SPD: Dokumentation des technischen Baudenkmals „Tausendfüßler“ - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh Wurm: Aufgaben und Ziele des Arbeitskreises „Großregion Düsseldorf - Kooperation für eine - schriftlich beantwortet
+- TOP 4.11: Anfrage Bü90/Grü: Zukunft Museum Kunstpalast - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Prof. Dr. Voller: Masterplan Schulen - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Scheffler: Rechnungsergebnisse im Masterplan Schulen - schriftlich beantwortet
+- TOP 4.14: Anfrage des Ratsherrn Karen-Jungen: Gebühren und Entgelte - schriftlich beantwortet
+- TOP 4.15: Anfrage Rh Laubenburg: Düsseldorfer Wohnungsangebote für 5 Euro pro Quadratmeter - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Einbringung Entwurf Jahresabschluss 2011 - zur Kenntnis genommen
+- TOP 8: Kämmererliste - Haushaltsjahr 2011 - zur Kenntnis genommen
+- TOP 9: Hospitalstraße 45, Städtische Realschule Benrath und Städtisches Schloß-Gymnasium Benrath - Einbau e - einstimmig beschlossen
+- TOP 10: SozialTicket im VRR - zur Kenntnis genommen
+- TOP 11: Neufestsetzung der Eintrittspreise für das Stadtmuseum - mehrheitlich beschlossen
+- TOP 12: Annahme einer Schenkung für das Stadtmuseum - einstimmig beschlossen
+- TOP 13: Kunstpreis der Landeshauptstadt Düsseldorf; Änderung der Richtlinien - mehrheitlich beschlossen
+- TOP 14: 16. Ordnung zur Änderung der Benutzungsordnung der Stadtbüchereien Düsseldorf - mehrheitlich beschlossen
+- TOP 15: Düsseldorf ist ARTig/Bericht - zur Kenntnis genommen
+- TOP 16: 2. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - zur Kenntnis genommen
+- TOP 17: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 18: Namensänderung Städtisches Leibniz-Gymnasium - mehrheitlich beschlossen
+- TOP 19: Stiftung Gerhart-Hauptmann-Haus, Neubildung des Kuratoriums - mehrheitlich beschlossen
+- TOP 20: Umbesetzung des Vorstandes der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, F - einstimmig beschlossen
+- TOP 21: Schulausschuss - einstimmig beschlossen
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Planungsmaßnahmen
+- TOP 24: B-Plan 4977/038 -Beiderseits Wiesenstraße- Aufhebungsverfahren Stellungnahmen Satzung - einstimmig beschlossen
+- TOP 25: B-Plan 4977/040 -Beiderseits Wiesenstraße- - einstimmig beschlossen
+- TOP 26: BPl 5976/026-Nörl.Nach d. mauresk.-Stell. Satzung - mehrheitlich beschlossen
+- TOP 27: Anträge
+- TOP 27.1: Antrag SPD. Novellierung der Richtzahlen für den Stellplatz- und Fahrradabstellplatzbedarf - mehrheitlich abgelehnt
+- TOP 27.2: Antrag CDU, SPD; BÜ90/GRÜ und FDP: Kein Fracking auf Düsseldorfer Stadtgebiet - mehrheitlich beschlossen
+- TOP 27.3: Antrag Bü90-Grü und SPD: Bildungs- und Teilhabepaket - Konzept für nicht verausgabte Gelder - mehrheitlich abgelehnt
+- TOP 27.3.1: ÄA Die Linke: Bildungs- und Teilhabepaket - mehrheitlich abgelehnt
+- TOP 27.4: Antrag FDP und CDU: Belobigung für ehrenamtliche Tätigkeiten in Gremien - einstimmig beschlossen
+- TOP 27.5: Antrag SPD: Düsseldorf wächst: Befragung zu Wanderungsmotiven - mehrheitlich abgelehnt
+- TOP 27.6: Antrag der SPD-Ratsfraktion: Resolution zum Arbeitskampf bei ZAMEK - zurückgezogen
+- TOP 27.6.1: ÄA Die Linke: Resolution zum Arbeitskampf bei ZAMEK - zurückgezogen
+- TOP 27.7: Antrag Freie Wähler: Freigängerkatzen - mehrheitlich abgelehnt
+- TOP 27.8: Antrag Linke: Übertragung der Ratssitzungen im Internet - mehrheitlich abgelehnt
+- TOP 27.9: Antrag CDU und FDP: ÖPNV-Anbindung des Rheinbades - einstimmig beschlossen
+- TOP 27.10: Antrag Die Linke: Erarbeitung von Konzepten gegen rechte Gewalt - zur Kenntnis genommen
+- TOP 27.10.1: ÄA SPD und Bü90-Grü: Erarbeitung von Konzepten gegen rechte Gewalt - zur Kenntnis genommen
+- TOP 27.11: Antrag Bü90/Grü: Haushalt als Open Government Data - zur Kenntnis genommen
+- TOP 27.12: Antrag Linke: Kein Einsatz von LeiharbeiterInnen bei den Düsseldorfer Sana-Kliniken - mehrheitlich abgelehnt
+- TOP 27.13: Antrag Linke: Bearbeitungsgebühren für VerbraucherInnenkredite zurückerstatten - mehrheitlich abgelehnt
+- TOP 27.14: Antrag Linke: 50% Frauenquote in städtischen Führungspositionen - mehrheitlich abgelehnt
+- TOP 27.15: Antrag Linke: Beitritt zur Kampagne "Vermögenssteuer jetzt!" - mehrheitlich abgelehnt
+- TOP 27.16: Antrag der Ratsfraktionen von CDU, SPD und FDP und Bü90/Grü: CO-Pipeline - mehrheitlich beschlossen
+- TOP 27.17: Antrag SPD: Resolution zur Restrukturierung der Düsseldorf Flughafen Ground Handlin GmbH (FDGHG) - mehrheitlich abgelehnt
+- TOP 27.18: Antrag SPD und Bü90/Grü: Resolution: Anwendungen des TVÖD bei den SANA-Kliniken - mehrheitlich beschlossen
