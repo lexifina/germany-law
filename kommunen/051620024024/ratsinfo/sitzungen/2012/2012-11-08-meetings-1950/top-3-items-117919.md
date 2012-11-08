@@ -1,0 +1,8 @@
+# TOP 3: 6. Satzung zur Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentliche
+
+- Sitzung: Hauptausschuss (2012-11-08)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/117919
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/13761
