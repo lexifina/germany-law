@@ -1,0 +1,54 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2012-11-08T17:00:00+01:00
+- Ende: 2012-11-08T19:45:00+01:00
+- Ort: Gaststätte F. A. Wagenfeld, Wagenfelder Straße 22, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVXWcNKZHu47naJNdHyb0aI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1215
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbeYAdl1MlOGHQ6fz0xBOuasTrSV5C1-GCJ20JOIbKw/Bekanntmachung_Rat_08.11.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWV9OPHAvGxHI8oH8AB0_REFkLfi-un40teQ3zz_oyyP/Oeffentliche_Niederschrift_Rat_08.11.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Verabschiedung eines Ratsmitgliedes
+- TOP 3.: Einführung und Verpflichtung eines Ratsmitgliedes durch den Bürgermeister
+- TOP 4.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 5.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 6.: Wahl eines Ortsvorstehers für die Ortschaft Varl - 27 Stimmen dafür, 2 dagegen, 5 Enthaltungen
+- TOP 7.: Ersatzwahlen zu Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 8.: 7. Änderung des Bebauungsplanes Nr. 38 "Ortskern Varl" für den Bereich der ehemaligen Gaststätte Hanau/Helms an der Varler Straße a) Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 7. Änderung des Bebauungsplanes Nr. 38 "Ortskern Varl" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffent- licher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltung (Spreen)
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. 80 "Eisenbahnstraße" sowie 67. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öf- fentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentli- cher Belange b) Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 80 "Eisenbahnstraße" sowie des Änderungsplanes für die 67. Änderung des Flächen- nutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 3 Enthaltungen (FDP-Fraktion)
+- TOP 10.: Aufstellung des Bebauungsplanes Nr. 83 "Alte Sielhorster Mühle" der Stadt Rahden a) Beratung und Beschlussfassung über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: Erlass einer neuen Satzung über die Abfallentsorgung in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Neubau des Feuerwehrgerätehauses Wehe; hier: Antrag des Vereins Wehe Aktiv auf Erhalt des Schlauchturmes - 35 Stimmen dafür, 1 dagegen (Kuhlmann), 0 Enthaltungen
+- TOP 13.: Beitritt zum "Klimabündnis im Mühlenkreis e.V." - 16 Stimmen dafür, 15 dagegen, 5 Enthaltungen
+- TOP 14.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2012 - Ohne Abstimmung
+- TOP 15.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bekanntgaben
+- TOP 16.1: Namenszusätze – Auestadt Rahden – zum Gemeindenamen auf Ortstafeln
+- TOP 16.2: Straßenbeleuchtung
+- TOP 17.: Verschiedenes
+- TOP 17.1: Rederecht in Ausschüssen
+- TOP 17.2: Verband Teutoburger Wald Tourismus
+- TOP 17.3: Folge- und Personalkosten bei Investitionen
+- TOP 17.4: Ideenwettbewerb zur Innenstadtgestaltung
+- TOP 17.5: Ärzte für Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 18.: Beschaffung eines Mittleren Löschfahrzeuges MLF (ehem. StLF 10/6) für die Löschgruppe Wehe; hier: Auftragsvergabe - Fahrgestell - Einstimmig, 0 Enthaltungen
+- TOP 19.: Aktives Stadtzentrum Rahden; hier: Vergabe von Planungsaufträgen - 31 Stimmen dafür, 4 dagegen (FWG-Fraktion), 1 Enthaltung (Thielemann)
+- TOP 20.: Grundstücksangelegenheiten
+- TOP 20.1: Festlegung des Verkaufspreises für das Baugebiet "Alte Sielhorster Mühle" - 35 Stimmen dafür, 0 dagegen, 1 Enthaltungen (Maruszczyk)
+- TOP 20.2: Grundstücksangelegenheiten; hier: Erwerb einer Erweiterungsfläche für das Gewerbegebiet Rahden-Süd - 34 Stimmen dafür, 0 dagegen, 2 Enthaltungen (Die Grünen)
+- TOP 20.3: Genehmigung von Grundstücksgeschäften - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bekanntgaben
+- TOP 21.1: Sitzungskalender
+- TOP 21.2: Glockenspiel Rahden
+- TOP 22.: Verschiedenes
+- TOP 22.1: Jung kauft Alt
+- TOP 22.2: Einsichtnahme in aktuelle Bebauungsplanverfahren
