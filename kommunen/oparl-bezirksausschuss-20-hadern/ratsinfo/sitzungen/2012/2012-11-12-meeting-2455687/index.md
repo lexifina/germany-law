@@ -1,0 +1,113 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455687
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455687
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation Würmtalstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Sanierung der Toiletten an der Grund- und Mittelschule Guardinistraße (Grünen-Fraktion)
+- TOP 4.2.: Ergebnisse der Studie zur Lebenssituation von Menschen mit Behinderung (Grünen-Fraktion)
+- TOP 4.3.: Einrichtung eines eingeschränkten Haltverbots vor den Kindertageseinrichtungen Marchioninistraße 3 - 5 und Waldwiesenstraße (Grünen-Fraktion)
+- TOP 4.4.: Bezirkssportanlage am Wolkerweg (Grünen-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat der Montessorischule Aktion Sonnenschein, Zirkusprojekt ?ZappZarap? von 01. bis 06.07.2013 (Direktorium, 23.10.12)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Verkehrsgrund: SZ-Zeitungsständer an folgenden Standorten: Gräfelfinger Straße 92, Würmtalstraße 130, Max-Lebsche-Platz 11, Wastl-Witt-Straße 52, Terofalstraße 3, Guardinistraße 5, 41, 108, 119, 154, 181, Stiftsbogen 45, 77 (Kreisverwaltungsreferat, 19.10.12)
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Verkehrsgrund: TZ-Zeitungsständer an folgenden Standorten: Prälat-Wellenhofer-Straße / Sauerbruchstraße, Sauerbruchstraße / Max-Lebsche-Platz, Sauerbruchstraße / Marchioninistraße, Würmtalstraße / Waldhüterstraße, Würmtalstraße 2 (Kreisverwaltungsreferat, 16.10.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen, Antrag BA 14 Berg am Laim und BA 8 Schwanthalerhöhe (Direktorium, 19.10.12)
+- TOP 6.2.: Bewerbung für "Kinderorte im Stadtteil sichtbar machen", das Projekt zum Weltkindertag 2013 (Sozialreferat, 10.10.12)
+- TOP 6.3.: Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse, Initiative des OB Ude beim Treffen der BA-Vorsitzenden am 13.01.2012; Änderung der BA-Satzung (Direktorium, 23.10.12)
+- TOP 6.4.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer (AWM, 25.10.12)
+- TOP 6.5.: Beschlussentwurf: Ludlstraße (beidseits), Senftenauerstraße (westlich), Ammerseestraße (Bundesautobahn BAB A 96 München-Lindau) (nördlich), Gondrellplatz (östlich und nördlich), Alpenveilchenstraße (östlich), Rudi-Seibold-Straße (südlich) und Menaristraße (östlich bzw. beidseits) A) Eckdatenbeschluss zur Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbs für den Bereich östlich der Menaristraße B) Rahmenbedingungen für eine Untersuchung zur Nachverdichtung westlich der Menaristraße (Referat für Stadtplanung und Bauordnung, 02.11.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Arnikaweg 19, 1 Kiefer
+- TOP 7.2.: Hohenklingenstraße 5, 1 Zeder
+- TOP 7.3.: Rudi-Seibold-Straße 25, 1 Weißdorn
+- TOP 7.4.: Würmtalstraße 72 a, 1 Walnussbaum und 1 Tulpenbaum
+- TOP 7.5.: Würmtalstraße 72 b, 1 Kiefer
+- TOP 7.6.: Wadlerstraße 32, 1 Ahorn
+- TOP 7.7.: Ehrenfelsstraße 3 a, 1 Schwarzkiefer
+- TOP 7.8.: Gräfelfinger Straße 72, 1 Ahorn
+- TOP 7.9.: Waldesruhe 41 a, 1 Eibe
+- TOP 7.10.: Waldsaumstraße 23 a, 1 Fichte
+- TOP 7.11.: Würmtalstraße 50, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24414
+- TOP 7.12.: Waldklausenweg 32, 1 Fichte
+- TOP 7.13.: Windeckstraße 61, 4 Fichten
+- TOP 7.14.: Neufriedenheimer Straße 61, 1 Kiefer
+- TOP 7.15.: Waldwiesenstraße 8 i, 1 Tanne
+- TOP 7.16.: Am Brombeerschlag 4, gem. Baumbestandsplan Nr. 24943 und 24945
+- TOP 7.17.: Gelbhofstraße 1 - 3, 1 Fichte
+- TOP 7.18.: Brennereistraße 5, 2 Scheinzypressen
+- TOP 7.19.: Heckenrosenstraße 7, 1 Thuje
+- TOP 7.20.: Silberblattstraße 1, 3 Fichten
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Levkojenplatz 5, 1 Fichte (Referat für Stadtplanung und Bauordnung, 02.10.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 (Stadtkämmerei, 17.10.12)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Am Waldspitz (Sozialreferat, 16.10.12) - Guardinistraße (Sozialreferat, 02.10.12) - Rudelsburgstraße (Sozialreferat, 23.10.12)
+- TOP 8.3.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2012 für den BA (SWM, 26.09.12)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Waldwiesenstraße im Bereich der Bushaltestelle Am Ährenfeld (Kreisverwaltungsreferat, 08.10.12)
+- TOP 8.5.: Werbenutzungsvertrag der Landeshauptstadt München (Referat für Arbeit und Wirtschaft, 12.10.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Skateplatz Ludlstraße (Baureferat, 15.10.12)
+- TOP 9.2.: Gehwegplattenabsenkung vor dem Anwesen Guardinistraße 89 (Baureferat, 27.09.12)
+- TOP 9.3.: Fahrradständer an der Sauerbruchstraße (Baureferat, 20.09.12)
+- TOP 9.4.: Umbenennung der Bushaltestelle "Ehrenmal" in "Kriegsgräberstätte" (Oberbürgermeister Ude, 26.09.12)
+- TOP 9.5.: Radlfreundlicher Ausbau des Verbindungsweges von der Grünanlage Zöllerstraße zur Tischlerstraße (Baureferat, 18.09.12)
+- TOP 9.6.: Schulwegsicherheit Stiftsbogen - Verlegung des allgemeinen Behindertenparkplatzes (Kreisverwaltungsreferat, 02.10.12)
+- TOP 9.7.: Archivraum für den Geschichtsverein Hadern e.V., Kellerraum im Clearinghaus Großhaderner Straße (Sozialreferat, 04.10.12)
+- TOP 9.8.: Errichtung von Lärmschutzwällen an der A 96 - Daten der 2. Kartierungsstufe (Referat für Gesundheit und Umwelt, 04.10.12)
+- TOP 9.9.: Geh- und Radweg von der Blumenauer Straße über den Lobelienweg Richtung Baumschule (Baureferat, 08.10.12)
+- TOP 9.10.: Beschilderung "Schulweg" Marchioninistraße / Heiglhofstraße (Kreisverwaltungsreferat, 17.10.12)
+- TOP 9.11.: Schilder Querungshilfe Würmtalstraße (Baureferat, 16.10.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten; Stadtratsanfrage (Oberbürgermeister Ude, 28.09.12)
+- TOP 11.2.: Einladung "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am Mittwoch, 28.11.2012 um 16.00 Uhr (Referat für Bildung und Sport, 05.10.12)
+- TOP 11.3.: Wahl der 10. Münchner Seniorenvertretung - Aufruf zur Kandidatur (Sozialreferat, 08.10.12)
+- TOP 11.4.: Haderner Jugendkulturtag (REGSAM, 24.10.12)
+- TOP 11.5.: Kampagne "Laut gegen Brauntöne" (Direktorium, 24.10.12)
+- TOP 11.6.: Antrag BA 1 vom 16.10.2012: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen
+- TOP 11.7.: Einladung zum Morgenforum "Die Wohnungs-Eigentümer-Gemeinschaft (WEG): Mit guten Vereinbarungen gut entscheiden" am Dienstag, 27.11.2012 (Referat für Gesundheit und Umwelt, 26.10.12)
+- TOP 11.8.: Einladung zur Infoveranstaltung "Bauliche Entwicklung in den Gartenstädten" am Montag, 26.11.2012 (Referat für Stadtplanung und Bauordnung, 08.11.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 04.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09168 (nach Antrag): Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Bei der Festlegung der Entwicklungsziele von Ausgleichsflächen werden deren klimatische Ausgleichswirkungen berücksichtigt.)
+- TOP 12.1.: Hinweis / Ergänzung vom 22.10.2012 zum Beschluss vom 24.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10392: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels? (Das Vorhaben wird weiter befürwortet.)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10159 (vertagt): Neue Werkswohnungen a) Neue Werkswohnungen I: Betriebe und Unternehmen der öffentlichen Hand b) Neue Werkswohnungen II: Mittelständische und große Privatunternehmen c) Mehr Wohnungen für München - Nur ein größeres Wohnungsangebot kann Mieten senken (Auf den Beschluss "Wohnen in München V" wird Bezug genommen.)
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 23.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10389: Lichtzeichenanlagen-Bauprogramm, Bessere Ausrüstung der Ampelanlagen für Blinde, insbesondere zum bereits erfolgten Abbau der Lichtsignalanlage an der Guardinistraße / St.-Ignatius-Kirche (vorerst kein Neubau in Hadern). Die Bewertungsliste geht von folgenden Prioritäten aus (Stand 26.03.2012): a) Waldwiesenstraße / Am Ährenfeld, 9,7 Punkte, Rang 15 b) Sauerbruchstraße / Bushaltestelle Zöllerstraße, 7 Punkte, Rang 48, c) Tischlerstraße / Bushaltestelle "Ehrenmal", 3 Punkte, Rang 76 d) gestrichen wurde das Vorhaben an der Waldwiesenstraße / Eichenstraße mit 1 Punkt, bisher Rang 87
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10073 und Ergänzung vom 05.10.2012: Bericht zu REGSAM Bericht Vertragszeitraum 2010 - 2012 REGSAM neu entdecken Beschluss Vertragszeitraum 2013 - 2015 REGSAM - ein starkes Netzwerk für München Der BA Hadern hat angeregt, dass in Zukunft auch das jeweilige Referat, insbesondere das Referat für Bildung und Sport oder das RGU an der Finanzierung von REGSAM-Projekten beteiligt werden soll (Punkt 1), und wünscht sich eine Aufstockung des REGSAM-Etats für die Moderatoren zur Gewährleistung der intensiven Vernetzungsarbeit und des hohen Arbeitsaufwandes (Punkt 2). Der BA Hadern fordert, dass der neue Entwurf der REGSAM-Rahmenvereinbarung dem BA rechtzeitig vorgelegt wird, damit der BA vorab mit eingebunden ist (Punkt 3 des BA-Schreibens vom 26.09.2012 = Anlage 12). Der Vertragsverlängerung des REGSAM-Projektes für die Jahre 2013 - 2015 wird zugestimmt.
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10337 (Mehrkosten in 2013 = 37.921,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (kein Projekt in Hadern)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10387 (Mehrkosten in 2013 = 255.750,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Nachbarschaftstreff Blumenau des Vereins für Sozialarbeit e.V. im DPWV (Ansatz in 2013 = 56.000,- ?), - zum Nachbarschaftstreff Kleinhadern, Na klar! (Ansatz in 2013 = 30.500,- ?) und - zum Projekt Krokusstraße 73 der Firma KOMPRO München Krokusstraße GmbH & Co. KG (Ansatz in 2013 = 3.249,- ?)
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10309 (Mehrkosten in 2013 = 897.932,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Kinderhaus am Wolkerweg des BJR (Ansatz in 2013 = 205.062,- ?), - zum Treffpunkt für Jugendliche "PfiffTEEN" (Ansatz in 2013 = 317.891,- ?), - zum "Treff 21" des Vereins Schule-Beruf e.V. im DPWV (Ansatz in 201 = 352.948,- ?), - zum "Studio im Netz (SiN) e.V." (Ansatz in 2013 = 83.412,- ?), - zur Schulsozialarbeit an insgesamt 7 Grundschulen, in Hadern und in 6 weiteren Stadtbezirken (Ansatz in 2013 = insgesamt 356.393,- ?), - zum Familienzentrum Hadern-Blumenau des DPWV (Ansatz in 2013 = 64.973,- ?) und - zum Bewohnertreff Nachbarschaft Neuhadern (Ansatz in 2013 = 101.211,- ?)
+- TOP 12.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10305 (Mehrkosten in 2013 = 351.493,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau des Caritasverbandes (Ansatz in 2013 = 212.852,- ?) und - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 des Caritasverbandes (Ansatz in 2013 = 51.923,- ?)
+- TOP 12.7.: Beschluss des Ausschusses für Bildung und Sport vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10238: Kindertagesstätten sonstiger Träger; Kinderkrippe Terofalstraße 25 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 (1.543.405,- ?, wovon der Freistaat Bayern 1.068.000,- ? trägt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10288 und Ergänzungen vom 02.10.2012 und 09.10.2012 (nach Antrag): Kinder entscheiden in ihrem Stadtteil In Ziffer 10.1. der Richtlinien zur Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der LH München wird folgender Satz 2 angefügt: "Eine Ausnahme gilt für Zuwendungen für die Kinder- und Jugendarbeit, die zur Durchführung von zunächst ergebnisoffenen Partizipationsprojekten sowie der sich daraus ergebenden Maßnahmen bestimmt sind." Auf die Stellungnahme des BA Hadern vom 10. / 12.09.2012 wird Bezug genommen (Anlage 17). Insbesondere hat sich der BA Hadern bereit erklärt, an einem Arbeitskreis zur Entwicklung eines individuellen Modells der Kinder- und Jugendpartizipation mitzuwirken. Klargestellt werden muss, dass nicht ausgeschöpfte Mittel für ein reserviertes Kinder- und Jugendbudget im Folgejahr wieder in das allgemeine Budget des jeweiligen BA zurück fließen müssen (S. 13).
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09602: Langfristige Freiraumentwicklung
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10032: Jahr der Partizipation von Kindern und Jugendlichen in München Bericht über die Umsetzung 2009 / 2010 Einrichtung einer dauerhaften Koordinationsstelle im Sozialreferat (Kosten einmalig 29.710,- ?, jährlich 175.201,- ?)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10498: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2012 - 2016, Einzelplan 4 / Sozialbereich Der BA Hadern hat seine Beschlüsse zu den Anträgen der SPD-Fraktion (Unteranlage 1), der Grünen-Fraktion (Unteranlage 2) und der CSU-Fraktion (Unteranlage 3) mit Schreiben vom 12. / 14.03.2012 mitgeteilt (Anlage 17). Das Sozialreferat hat hierzu in Abschnitt 3.9 (S. 22 - 23) Stellung genommen, insbesondere zur Forderung Nr. 3 der SPD-Fraktion (sofortiger Planungsbeginn für das ASZ am Stiftsbogen), zur Forderung Nr. 6 = n der CSU-Fraktion (Verwirklichung eines ASZ auf dem Gelände des Bebauungsplans 1817 - Stiftsbogen -) und zur Forderung Nr. 14 der SPD-Fraktion (Verlagerung des Sozialbürgerhauses an den Ratzingerplatz). Hierauf wird Bezug genommen. Den Forderungen wird nicht entsprochen.
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09592: Nachhaltigkeitsaspekte in Bebauungsplänen
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.09.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10181: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2012 - 30.06.2012
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
