@@ -1,0 +1,8 @@
+# TOP 7: Bildung eines BAföG Kompetenzzentrums mit der Landeshauptstadt Schwerin
+
+- Sitzung: Sitzung des Ausschusses für Soziales, Familie und Gesundheit (2012-11-12)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730312f24bb7ed5128cf0c
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730312f24bb7ed5128cf09
