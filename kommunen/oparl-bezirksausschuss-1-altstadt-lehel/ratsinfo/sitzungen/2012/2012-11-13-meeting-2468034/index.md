@@ -1,0 +1,93 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-11-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2468034
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2468034
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Antrag des BA 8: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP .2.: Benennung von Beauftragten gegen Rechtsextremismus
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Herrnstraße 30: Aufstockung eines Mehrfamilienhauses und Anbau eines Außenaufzugs (Vorbescheid)
+- TOP .2.: Neuhauser Straße 33: Verschiebung zweier Rolltreppen und Neubau eines Liftes in einem Verkaufsraum sowie Fassadenänderung (EG) ? Tektur
+- TOP .3.: Sendlinger Straße 4: Umbau und Nutzungsänderung eines Geschäftshauses (Vorbescheid)
+- TOP .4.: Sendlinger-Tor-Platz 11: Nutzungsänderung Wohnen in Büro, Büro in Praxis, Wohnen in Gewerbe
+- TOP .5.: Frauenplatz 12: Nutzungsänderung Laden zu Wettbüro (Vorbescheid)
+- TOP .6.: Mannhardtstraße 5: Sanierung Mehrfamilienhaus (Tektur)
+- TOP .7.: Weinstraße 1: Neubau eines Bürohauses mit Gastronomie
+- TOP .8.: Theatinerstraße 40 ? 42: Umbau Wohn- und Geschäftshaus (Tektur)
+- TOP .9.: Residenzstraße 21: Einbau einer Freibestuhlung für eine Gaststätte in der Hauszugangspassage
+- TOP .10.: Isartorplatz 2: Nutzungsänderung Wohn- zu Gewerbe-/Büroräume
+- TOP .1.: Gremium für die Vergabe der Stände auf dem Viktualienmarkt
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Bürgeranliegen: Beschwerde über eine Gaststätte in der Müllerstraße
+- TOP .2.1: Gaststätten
+- TOP .1.: NACHTRAG: ?Clementine?, Radlsteg 2: Errichtung einer Freischankfläche
+- TOP .2.: NACHTRAG: Gaststätte ?Zum alten Hackerhaus?: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Müllerstraße 50: Mobiler Fahrradstellständer
+- TOP .2.: NACHTRAG: Zeitungsentnahmegeräte, verschiedene Standorte
+- TOP .3.: NACHTRAG: ?Clementine?, Radlsteg 2: Aufstellung von neuen Verkaufseinrichtungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Feuerzangenbowle vom 07.11.2012 - 06.01.2013, Isartorplatz
+- TOP .2.: Kunstaktion ?Play me, i'm yours vom 02.05.-21-05.2013
+- TOP .3.: Vorprüfung Streckenverlauf Münchner Stadtlauf 2012 am 23.06.2013
+- TOP .4.: Gedenkveranstaltung für die Opfer der Nazimorde
+- TOP .5.: NACHTRAG: Veranstaltungsanzeige Weihnachtsmarkt ?Alpenwahn?
+- TOP .1.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer - Standortüberprüfung
+- TOP .1.: FDP-Antrag: Errichtung eines Gehweges mit glattem Belag auf der Ostseite der Alfons-Goppel-Straße/Marstallplatz
+- TOP .2.: Bürgeranliegen: ?Sitzend schieben? in der Fußgängerzone
+- TOP .3.: BA: Radverkehrsführung in der Zweibrückenstraße
+- TOP .3.: Projektplanung Sattlerstraße, zwischen Fürstenfelder Straße und Färbergraben
+- TOP .1.: Urbanes Wohnen München ? Optimierungsvorschlage
+- TOP .2.: Baumfällung Parcellistraße 1
+- TOP .3.: Baumfällung Steinsdorfstraße 10
+- TOP .1.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Figurentheaterfestival Anfänger(r) vom 14. - 18.03.2013
+- TOP .1.: Stadtbezirk gesucht für Pilotprojekt ?Kindersommer im Stadtteil? - ?Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben!?
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012: Mehrjahresinvestitionsprogramm 2012-2016 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012-2012
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2064: Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße - Siemens-Konzernzentrale
+- TOP 0.3.: Schreiben des Planungsreferats an das Kommunalreferat bzgl. der Neubebauung der Müllerstraße 2-6, Bolzplatz der Glockenbachwerkstatt
+- TOP 0.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 7.11.2012: Klimawandel und Hitzeinseln ? Konsequenzen für die Dichte der Münchner Kernstadt
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Schreiben des KVR an einen Bürger bzgl. Betteln und Musizieren im Tal
+- TOP 0.6.: Beschluss des RAW-Ausschusses vom 16.10.2012: Werbenutzungsvertrag der LHM
+- TOP 0.7.: Eilentscheidung über die Veranstaltung ?Weihnachtsdorf? vom 26.11.-23.12.2012, Kaiserhof Residenz
+- TOP 0.8.: Eilentscheidung über die Veranstaltung ?Weihnachtsmarkt am Chinesischen Tumr? vom 26.11.-23.12.2012
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Radverkehr im Kreuzungsbereich Dienerstraße ? Max-Joseph-Platz ? Maximilianstraße, Abbau Tempo-5 Schilder in der Fußgängerzone - Teilsignalisierung Isarring/Ifflandstraße - Ausweisung von Motorradparkplätzen am Odeonsplatz
+- TOP 0.2.: Schreiben des Baureferats einen Beschwerdeführer bzgl. Rutsch- und Sturzgefahr vor der Grundschule St.-Anna-Straße
+- TOP 0.3.: Beschluss des Bauausschusses vom 25.09.2012: Fortführung der Isarnaturierung im Norden Münchens
+- TOP 0.4.: Beschluss des Kreisverwaltungsausschusses vom 23.10.2012: Lichtzeichenanlagen - Bauprogramm
+- TOP 0.5.: Fahrradstellplätze vor dem Völkerkundemuseum in der Maximilianstraße; Schreiben des Baureferates
+- TOP 0.6.: Schreiben des Baureferats bzgl. des Bürgeranliegens Gehwegeinebnung vor dem Anwesen Rumfordstraße 57, TOP 2012.09 D 1.1
+- TOP 0.7.: Schreiben bzgl. der BV-Empfehlung Nr. 08-14/ E 1224: Freigabe des Wehrstegs auf der Praterinsel
+- TOP 0.8.: Antwortschreiben des KVR zu einem Bürgeranliegen auf Errichtung zweier Behindertenparkplätze vor dem Anwesen Hackenstraße 7
+- TOP 0.9.: Schreiben des Referats für Stadtplanung und Bauordnung an die Regierung von Oberbayern bzgl. der Planfeststellung für die 2. S-Bahn-Stammstrecke
+- TOP 0.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 7.11.2012: Novellierung der Baumschutzverordnung
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.10.2012: Bericht zu REGSAM
+- TOP 0.2.: Haushaltsplan 2012: Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amts für Soziale Sicherung, des Stadtjugendamtes, des Amts für Wohnen und Migration, der Zentrale,
+- TOP 0.3.: Beschlussvorlagen zum Abbruch und Neubau Müllerstraße 2-6, Bolzplatz Glockenbachwerkstatt
+- TOP 0.4.: Beantragung von Fristverlängerung für den BA-Antrag Nr. 08-14/ B 1983: Konzeptionelle Planung für das Maximiliansforum
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP .2.: Projektplanung Viktualienmarkt, Haltestelle Marienplatz (Heilig-Geist-Kirche)
