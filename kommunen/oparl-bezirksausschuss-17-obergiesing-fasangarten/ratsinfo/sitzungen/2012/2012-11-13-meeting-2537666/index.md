@@ -1,0 +1,128 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2537666
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2537666
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Protokoll der Sitzung des Bezirksausschuss 17 vom 09.10.2012
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.4.: Bauplanungsvorhaben Amisiedlung am Perlacher Forst, Bürgerschreiben von Frau S. vom 12.11.2012
+- TOP 2.5.: Bau Europäische Schule, Bürgerschreiben von Frau F. vom 07.11.2012
+- TOP 2.6.: Europäische Schule, Bürgerschreiben des Herrn M. vom 12.11.2012
+- TOP 2.7.: Bebauungsplan Nr. 2037 - Europäische Schule; Stellungnahme zur Verkehrserschließung über die Lincolnstraße, Bürgerschreiben des Siedlerverein Perlacher Forst e.V. vom 13.11.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Beschlussfassung über die Durchführung des Neujahresempfanges 2013; Antrag des BA-Vorstandes
+- TOP 3.2.: Beschlussfassung über die Finanzierung des Neujahresempfanges 2013 aus dem Budgetanteil für BA-eigene Maßnahmen in Höhe von 2.500,- ?; Antrag des BA-Vorstandes
+- TOP 3.3.: Bebauungsplan "Europäische Schule"; Antrag der Fraktion B90/Die Grünen auf Berücksichtigung verschiedener Aspekte.
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag des Zeitungsverlag TZ München GmbH & Co. KG auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Schreiben des KVR vom 10.10.2012 mit der Bitte um Entscheidung
+- TOP 2: (E) Schnellstmögliche Beseitigung der behindernden Dauerbaustelle am U-Bahn-Abgang Untersberg- / Deisenhofener Straße Empfehlung Nr. 08-14 / E 01451 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.07.2012
+- TOP 2.1.: 5.1.3.1 Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 5.1.3.1.1 Weißenseestraße; Neubau einer Wohnanlage (Haus 8+9) mit Kindertageseinrichtung und Tiefgarage - WA 3.3; Anhörung vom 15.10.2012; 5.1.3.1.2 St.-Bonifatius-Str. 4; DG-Aufstockung, Zusammenlegung von Wohnungen, Anbau Aufzug; Anhörung vom 09.10.2012; 5.1.3.1.3 Lincolnstr. 60, Verlängerung der Nutzungsgenehmigung einer Jugendfreizeitstätte um weitere 10 Jahre, Anhörung vom 25.10.2012
+- TOP 2.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Anhörung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse Wohnraum: Untere Grasstraße 13 Schreiben des Sozialreferat vom 17.10.2012 mit der Möglichkeit eine Stellungnahme abzugeben.
+- TOP 2.3.: Sanierung der Kaskadenanlage (ehemalige Brunnenanlage) im Ostfriedhof, St.-Martins-Platz 1, im Stadtbezirk 17 Obergiesing-Fasangarten; "Rettung der Kaskadenanlage im Ostfriedhof", Antrag Nr. 08-14 / B 03488 des BA 17 vom 08.11.2011; Schreiben des Kommunalreferat vom 09.10.2012 mit Bitte um Stellungnahme. Aufgrund der Dringlichkeit hat der Vorsitzende gemäß § 20 Abs. 1 Satz 2 der BA-Satzung von seinem Recht in unaufschiebbaren Angelegenheiten selbst zu entscheiden Gebrauch gemacht.
+- TOP 2.4.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Giesinger Bahnhofplatz; 2 Stadtinformationssäulen (Kultursäulen), Schreiben des PlanR vom 24.10.2012 mit der Bitte um Stellungnahme
+- TOP 2.5.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer, Schreiben des Abfallwirtschaftsbetriebes München vom 25.10.2012 mit der Bitte um Stellungnahme
+- TOP 2.1.: Geplantes City-Service-Center des Baureferats an der Aschauer Straße; Bebauungsplan mit Grünordnung Nr. 2070; Aschauer Straße (östlich), Chiemgaustraße (südlich); Zwischennachricht des Direktorium vom 26.09.2012 zum Schreiben des BA 17 an Herrn Oberbürgermeister Ude
+- TOP 2.2.: Nachhaltigkeitsaspekte in Bebauungsplänen; Sitzungsvorlagen Nr. 08-14 / V 09592; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012
+- TOP 2.3.: Baufälle im 17. Stadtbezirk
+- TOP 2.4.: Planfeststellung für den 2. Stammstreckentunnel; Abschnitt 1 West - Licht am Ende des Tunnels?; Antrag Nr. 08-14 / A 03659 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.09.2012; Sitzungsvorlagen-Nr. 08-14 / V 10392; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012
+- TOP 2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77 und 1995) - Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 - - Aufstellungsbeschluss - B) Anträge und Empfehlungen Nr. 1. - 7. Sitzungsvorlagen-Nr. 08-14 / V 10355 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.10.2012 Hinweis/Ergänzung zum Vortrag der Referentin
+- TOP 2.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 2.8.: Europäische Schule; Beteiligung der Öffentlichkeit, Frühzeitige Unterrichtung gemäß § 3 Abs. 1 BauGB; Planungsdarlegung vom 12.10.2012 mit 13.11.2012
+- TOP 2.9.: Tegernseer Landstr. 15; Vorkaufrecht nach dem BauGB; Schreiben des Kommunalreferat vom 16.10.2012 über den Abschluss des Vorkaufsrechtsprüfungsverfahrens
+- TOP 2.10.: Amerstorfferstraße/Schwarzenbergstraße; Umsetzung des genehmigten Freiflächengestaltungsplans; Antwortschreiben des PlanR vom 26.09.2012
+- TOP 2.11.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Wohnraum: Eslarner Straße 7; Schreiben des Sozialreferat vom 18.10.2012
+- TOP 2.12.: Paulaner Nockherberg; Wettbewerbsverfahren, Wegenetzplan und Flyer zum Bauvorhaben
+- TOP 2.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.14.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016; Sitzungsvorlagen Nr. 08-14 / V 10427; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Mediation Walchenseeplatz;
+- TOP 0.1.: Freizeitsportprogramm München: ab der Saison 2012/2013 mindestens vier Kurse im 17. Stadtbezirk; Antwortschreiben des Referat für Bildung und Sport vom 24.09.2012
+- TOP 0.2.: Kommunales Wohnungsbauprogramm; Produkt 60.4.1.8; Bauträgerauswahl - Aufnahme in das Förderprogramm Kommunales Wohnungsbauprogramm Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Grundstückszuschuss im Rahmen des Kommunalen Wohnungsbauprogrammes im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Schwarzenbergstraße; 17. Stadtbezirk; Beschluss des Sozialausschusses vom 11.10.2012
+- TOP 0.3.: Kinder entscheiden in Ihrem Stadtteil; Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN - rosa liste vom 09.09.2011; Ergänzung: Stellungnahme des BA 21 Pasing-Obermenzing
+- TOP 0.4.: Bericht zu REGSAM; Sitzungsvorlage Nr. 08-14 / V 10073, Stellungnahmen der Bezirksausschüsse
+- TOP 0.5.: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren, Sitzungsvorlage Nr. 08-14 / V 10305, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012
+- TOP 0.6.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016; Schreiben der Stadtkämmerei vom 17.10.2012
+- TOP 0.7.: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren, Sitzungsvorlage Nr. 08-14 / V 10337, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012
+- TOP 0.8.: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren, Sitzungsvorlage Nr. 08-14 / V 10309, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012
+- TOP 0.9.: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren, Sitzungsvorlage Nr. 08-14 / V 10387, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012
+- TOP 0.10.: Kinder entscheiden in Ihrem Stadtteil; Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN - rosa liste vom 09.09.2011, Sitzungsvorlage Nr. 08-14 / V 10288; mit eingearbeiteten Stellungnahmen der Bezirksausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Radlhauptstadt München - Förderung des Radverkehrs im Stadtbezirk 17; Initiative des Green City e.V.; Schreiben des KVR vom 14.08.2012 mit der Bitte um Rückmeldung, ob sich der BA 17 an dem Projekt beteiligen möchte
+- TOP 0.1.: Signalanlage Severin- / Werinher- / Untersbergstraße; Änderung von Kontakt- und Dauerschaltung bzw. Tauglichkeit der Kontaktsensoren auch für Zweiräder; Beschluss des Bezirksausschusses 17 vom 13.11.2012
+- TOP 2: (E) Signalanlage am Tegernseer Platz; Koordinierung der Grünphasen für Füßgänger mit denen der Straßenbahn
+- TOP 3: (E) Erneuerung der Fahrbahndecke in der Waldsassener Straße (Wendefahrt der Buslinie 145) Empfehlung Nr. 08-14 / E 01450 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.07.2012 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.1.: Lincolnstraße; Erweiterung der Tempo-30-Zone Nr. 184 und Einrichtung eines absoluten Halteverbotes; Schreiben des Kreisverwaltungsreferat vom 30.10.2012 mit der Bitte um Stellungnahme
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Lichtzeichenanlagen-Bauprogramm; Bessere Ausrüstung der Ampelanlagen für Blinde (Ziffer 2), Empfehlung Nr. 02-08 / E 00895 der Bürgerversammlung des Stadtbezirks 03 - Maxvorstadt am 24.10.2007; Sitzungsvorlage Nr. 08-14 / V 10389 Beschluss des Kreisverwaltungsausschusses vom 23.10.2012
+- TOP 3.3.: Tegernseer Platz zwischen Ichostr. und Silberhornstr. Gleissanierungsarbeiten, sowie Bauwerksanierung um U-Bahn-Bauwerk Silberhornstr. Verkehrsrechtliche Anordnung; Schreiben des KVR vom 19.10.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 1: (E) Wiederherstellung von Geh- und Radweg sowie Straßenbegleitgrün in der St.-Martin-Straße zwischen Hohenwaldeckstraße und S-Bahnhof St.-Martin-Straße; Reinigung des Bereichs zwischen Litfaßsäule und S-Bahnhof (Ziffern 2 und 3 des Antrags) Empfehlung Nr. 08-14 / E 01457 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.07.2012
+- TOP 1.1.: Urbanes Wohnen e.V. München, Rundbrief vom 27.09.2012 mit der Bitte um Stellungnahme, Korrekturen und Ergänzungsvorschläge
+- TOP 1.2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen; BA-Antrags-Nr. 08-14 / B 03815 des Bezirksausschusses des Stadtbezirks 14 Berg am Laim vom 27.03.2012; BA-Antrags-Nr. 08-14 / B 03878 des Bezirksausschusses des Stadtbezirks 8 Schwanthalerhöhe vom 17.05.2012; Schreiben des Direktorium vom 19.10.2012 mit der Bitte um Stellungnahme
+- TOP 1.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.1.1 Kiesmüllerstr. 2a, Bescheid vom 01.10.2012; 5.4.4.1.2 Auerspitzstr. 5, Bescheid vom 22.10.2012
+- TOP 1.2.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV); Schreiben der Unteren Naturschutzbehörde vom 26.09.2012 zum Anliegen des BA 17 künftig immer eine Ersatzpflanzung anzuordnen
+- TOP 1.3.: Unterrichtung des Baureferats über die Fällung eines Gefahrenbaums zur Beseitigung einer akuten Unfallgefahr. Hier: Traunsteiner Str. 4
+- TOP 1.4.: Novellierung der Baumschutzverordnung (BaumschutzV); - Ergebnisse des Anhörungs- und Öffentlichkeitsverfahrens, - StR-Antrag Nr. 08-14 / A 01974 der Stadtratsfraktion der FDP vom 15.11.2010 - BA-Antrag Nr. 08-14 / B 04106 des Bezirksausschusses des Stadtbezirks 03 - Maxvorstadt vom 10.07.2012 - BA Antrag Nr. 08-14 / B 04165 des Bezirksausschusses des Stadtbezirks 25 - Laim vom 31.07.2012; Sitzungsvorlagen Nr. 08-14 / V 10503, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.1.: Wahl der Münchner Seniorenvertretung - Aufruf zur Kandidatur; Schreiben des Sozialreferat vom 08.10.2012; Anmeldungen als Wahlvorschlag bei der Geschäftsstelle erhältlich
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Marquartsteiner Str. 9, 3 Fichten, Antrag vom 04.10.2012; 2. Alzstraße 16, 2 Blautannen, Antrag vom 30.08.2012; 3. Schwandorfer Str. 1-1a, 1 österreichische Schwarzkiefer, Antrag vom 09.10.2012; 4. Bacherstraße 24, 1 Blaufichte, Antrag vom 02.10.2012; 5. Weißenseestraße, mehrere Bäume, Antrag vom 10.09.2012
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse; Initiative des Herrn Oberbürgermeister beim Treffen der BA-Vorsitzenden am 13.01.2012; Schreiben des Direktorium vom 23.10.2012 mit der Bitte um Stellungnahme.
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten; Antrag Nr. 08-14 / A 3300 der ÖDP vom 08.05.2012; Antwortschreiben des Herrn Oberbürgermeister Christian Ude vom 27.08.2012
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 4.1.: AntragstellerIn: Freizeittreff Obergiesing, Kreisjugendring München-Stadt, vertreten durch Armin Schroth, Antragssumme: 600,00 Euro, Antrag vom 18.10.2012
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 1.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
