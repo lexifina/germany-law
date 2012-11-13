@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2012-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506087
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506087
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: "Gemütliches" Oktoberfest auf Kosten der Anwohner
+- TOP 4.2.: Durchfahrt an Bushaltestelle Gollierplatz
+- TOP 4.3.: Straßensanierung und Verkehrskonzept Bergmannstraße zwischen Landsberger und Westendstraße und Kazmair- und Ridlerstraße
+- TOP 4.4.: Wohnungen Gollierstr. 86
+- TOP 4.5.: Parksituation Nebaugebiet an der alten Messe
+- TOP 4.6.: Runder Tisch zur Sperrung der Theresienwiese
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste 08.10. - 14.10.12, 15.10.-21-10.12
+- TOP 5.2.: Schrenkstr. 8: Neubau Sozialreferat, Vorbescheid vom 01.10.12
+- TOP 5.3.: Anhörung: Gollierstr. 29, Anbau eines Personenaufzugs, Neubau 3er Balkonanlagen und Einbau einer Dachterrasse
+- TOP 5.4.: Gollierstr. 29, Neubau eines Garten-Doppelhauses mit Duplexgarage, Lbk-Schreiben vom 19.10.12
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen, Antrag des BA 1 zur Kenntnis
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Barrierefreier Umbau des Bahnhofs Donnersbergerbrücke an den Strecken 5540 München-Gauting und 5505 München-Lenggries, km 1,532 - 1,806
+- TOP 8.2.: Barrierefreier Ausbau der S-Bahn-Station Donnersbergerbrücke, OB-Schreiben
+- TOP 8.3.: Widmungserweiterung Carlamaria-Heim-Straße
+- TOP 8.4.: Baustellen im Stadtbezirk 8 Schwanthalerhöhe
+- TOP 8.5.: Freischankfläche für Pizzeria-Trattoria "Da Maria"
+- TOP 8.6.: Anhörung: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer
+- TOP 8.7.: Haltestellen der Linien 53 und 133 an der Ecke Trappentreu-/Kazmairstraße zusammen legen
+- TOP 8.8.: 2. S-Bahn-Stammstrecke in München, 2. Planänderung, Stellungnahme der Landeshauptstadt München
+- TOP 8.9.: Geschwindigkeitsbegrenzung auf der Heimeranstraße zwischen der Ligsalzstr. und dem Alten Messeplatz
+- TOP 8.10.: Novellierung der Baumschutzverordnung, Sitzungsvorlage Nr. 08-14/ V 10503, Ausschuss für Stadtplanung und Bauordnung
+- TOP 8.11.: Entscheidung: Zeitungsständer TZ und Münchner Merkur, verschiedene Standorte
+- TOP 8.12.: St.-Martins-Feier am 08.11.12 auf der Wiese an der Schrenkstraße, Eilentscheidung des Vorsitzenden vom 31.10.12
+- TOP 8.13.: Anhörung: Baumschutz Westendstr. 38-42, Erweiterung des Betriebsgeländes der Augustiner-Brauerei, Neubau eines Lagertankgebäudes zur Erweiterung des Lagerkellers Abt. 40
+- TOP 8.14.: Radverkehr München - Grundsatzbeschluss zur Förderung des Radverkehrs; notwendige Maßnahmen im Stadtbezirk Schwanthalerhöhe
+- TOP 8.15.: Gestaltung der Unterführung Theresienhöhe / Hans-Fischer-Straße
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: KiKS-Festival 2013
+- TOP 11.2.: Bewerbung "Kinderorte im Stadtteil sichtbar machen"
+- TOP 11.3.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016
+- TOP 11.4.: Einladung: Information über rechtspopulistische / islamfeindliche Aktivitäten in München
+- TOP 11.5.: Kampagne "Laut gegen Brauntöne"
+- TOP 11.6.: Anhörung: Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse
+- TOP 11.7.: Anhörung: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 12: Protokoll und Umlauf
