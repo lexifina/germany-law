@@ -1,0 +1,9 @@
+# TOP 10.: Gebührenbedarfsberechnung Abwasser 2013
+
+- Sitzung: Gemeinsamer Betriebsausschuss für Baubetriebshof und Straßen sowie der Vlothoer Wirtschaftsbetriebe (6. Sitzung) (2012-11-13)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/39572
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/9373
+- Beschluss (Datei): Beschlusstext (Gebührenbedarfsberechnung Abwasser 2013) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYJ9i485i-jRgzMK7PuIxfrnYxFc1oIA3bmMdrqro4Pl/Beschlusstext_VIII-263_-oeffentlich-_Gemeinsamer_Betriebsausschuss_fuer_Baubetriebshof_und_Strassen_sowie_der_Vlothoer_Wirtschaftsbetriebe_13.11.2012.pdf
