@@ -1,0 +1,108 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2398223
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2398223
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des allgemeinen Rad- und Fußgängerverkehrs in der Maxvorstadt (s. auch TOP C.2.1.1)
+- TOP .2.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des Rad- und Fußgängerverkehrs in der Maxvorstadt-Ost (s. auch TOP C.2.1.2)
+- TOP .3.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des Rad- und Fußgängerverkehrs in der Maxvorstadt-West (s. auch TOP C.2.1.3)
+- TOP .5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 10.10.2012 Errichtung eines Fahrradabstellplatzes vor dem Anwesen Barer Straße 61 (s. TOP C 2.1.5)
+- TOP .6.: Schreiben der Leiterin der Grundschule an der Dachauer Straße 98 vom 25.10.2012 Kein Abbau der Ampelanlage Winzerer-/Görresstraße (s. TOP C 2.1.7)
+- TOP .7.: Schreiben einer Bürgerin zur Verkehrssituation Kreuzung Ludwig/Adalbertstraße (s. TOP C 1.6)
+- TOP .8.: Schreiben eines Bürgers mit der Bitte um Unterstützung Gestaltung einer Vitrine in der Amalienpassage (s. TOP E.3)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 39., 40., 41., 42., 43. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP .3.: Vollzug der Baumschutzverordnung Kaulbachstraße 29a, Abbruch eines Studentenwohnheims und Neubau eines Verwaltungs- und Wohngebäudes mit Tiefgarage ? Vorbescheid
+- TOP .4.: Vollzug der Baumschutzverordnung Königinstraße 25, Neubau eines Mehrfamilienhauses mit Tiefgarage ? Tektur -
+- TOP .5.: Vollzug der Baumschutzverordnung Katharina-von-Bora-Straße 5 ? 7, Neubau eines Verwaltungsgebäudes
+- TOP .6.: Türkensstraße 47, Renovierung, EinbauLiftanlagae, DG-Ausbau (Vgb) sowie Umbau (Rgb)
+- TOP .7.: Kaulbachstraße 29 a, Abbruch eines Studentenwohnheims und Neubau eines Verwaltungs- und Wohngebäudes - Vorbescheid
+- TOP .8.: Luisenstraße 49, Nutzungsänderung: Ladenfläche zu Gastraum
+- TOP .9.: Vollzug der Baumschutzverordnung Adalbertstraße 76, Renovierung und Modernisierung des denkmalgeschützten Anwesens Anbau von Balkonen und eines Außenaufzugs, Wohnungserweiterungen der EG-Woh- nungen in das Souterrain, Einbau einer Zentralheizung - Tektur
+- TOP .10.: Schleißheimer Straße 16, Neubau eines Wohn- und Geschäftshauses ? Tektur -
+- TOP .2.2: Baumfällungen
+- TOP .1.: Dachauer Straße 149, zwei Kastanien
+- TOP .2.: Schellingstraße 145/147, zwei Pappeln
+- TOP .3.: Adelheidstraße 9, eine Robinie
+- TOP .4.: Lothstraße 64, ein Spitzahorn
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag der SPD-Fraktion im BA 3 Dauerhafte Instandsetzung der Pflasterungen an der Kreuzung Schelling-/Türkenstraße vertagt aus der Sitzung vom 09.10.2012 Unterlagen liegen bereits vor.
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Anträge FDP und CSU Fuß- und Fahrradampel an der Kreuzung Ludwig-/Adalbertstraße (s. auch Bürgeranliegen unter TOP A.5.2.7)
+- TOP .7.: Antrag CSU Andreas Art. Neugestaltung Platz Barer/Nordend-/Neureutherstraße
+- TOP .2.1: Verkehr
+- TOP .1.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des allgemeinen Rad- und Fußgängerverkehrs in der Maxvorstadt (s. auch TOP A.5.2.1)
+- TOP .2.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des Rad- und Fußgängerverkehrs in der Maxvorstadt-Ost (s. auch TOP A.5.2.2)
+- TOP .3.: Schreiben eines Bürgers vom 04.10.2012 Verbesserung des Rad- und Fußgängerverkehrs in der Maxvorstadt-West (s. auch TOP A.5.2.3)
+- TOP .5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 10.10.2012 Errichtung eines Fahrradabstellplatzes vor dem Anwesen Barer Straße 61 (s. TOP A 5.2.5)
+- TOP .6.: Münchner Verkehrsgesellschaft mbH (MVG) Beschleunigung der Buslinie 154 Vorstellung der geplanten Baumaßnahmen
+- TOP .7.: Schreiben der Leiterin der Grundschule an der Dachauer Straße 98 vom 25.10.2012 Kein Abbau der Ampelanlage Winzerer-/Görresstraße (s. TOP A 5.2.6)
+- TOP .8.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines personenbezogenen Behindertenparkplatzes in der Neureutherstraße 27
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis a) Steinheilstraße 12, ein mobiler Fahrradständer b) Barer Straße 74, Verkaufseinrichtung auf öffentlichem Grund c) Zeitungsentnahmegeräte für die ?Frankfurter Allgemeine? an acht Aufstellorten
+- TOP .2.: Abfallwirtschaftsbetrieb München Erweiterung acht bestehender Containerinseln um städtische Altkleidercontainer
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis a) Schleißheimer Straße 104, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Stadtlauf 2013 am 23.06.2013: Vorprüfung des neuen Streckenverlaufs
+- TOP .1.: Sozialreferat, Anhörung, Ausschreibung ?Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben!? Neuer Stadtbezirk gesucht für 3. Pilotprojekt ?Kindersommer im Stadtteil? (zwischen Weltspieltag und Weltkindertag 2013)
+- TOP 2: (E) Errichtung eines Kinderspielplatzes im Akademiegarten Empfehlung Nr. 02-08 / E 00892 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 24.10.2007
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse kombinaTON e.V. Theaterprojekt im September 2013
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "O.R.pheus" Wiedereröffnung von O.R.pheus vom 12.10. - 04.11.2012
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Arbeitsgruppe "Renovierung der U-Bahn-Galerie" Renovierung der U-Bahn-Galerie
+- TOP 2.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nachhaltigkeitsaspekte in Bebauungsplänen Sitzungsvorlagen Nr. 08-14/V 09592 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 10.10.2012
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Langfristige Freiraumentwicklung Sitzungsvorlagen Nr. 08-14/V 09602 Beschluss des Ausschusses für Stadtplanung und Bauordnung am 10.10.2012
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Planauslegung ? Siemens Konzernzentrale - Bebauungsplan mit grünordnung Nr. 2064 Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße (Teiländerung der Beb.Pläne Nrn. 12 b und 1606)
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Novellierung der Baumschutzverordnung Sitzungsvorlagen Nr. 08-14/V 10503
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Klimawandel und Hitzeinseln ? Konsequenzen für die Dichte der Münchner Kernstadt? Sitzungsvorlagen Nr. 08-14/V 10521
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm 2012 ? 2016 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012 ? 2016 Sitzungsvorlagen Nr. 08-14/V 10454
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Änderung der Vorfahrtsregelung Georgen-/Zentnerstraße und Georgen-/Hiltenspergerstraße
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Bessere Ausrüstung der Ampelanlagen für Blinde Empfehlung Nr. 02-08 ( E 00895 der BV des BA 3 vom 24.10.2007) Beschluss des Kreisverwaltungsausschusses vom 23.10.2012 Sitzungsvorlage Nr. 08-14 / V 10389
+- TOP 3.3.: Baumaßnahmen der Stadtwerke a) Wittelsbacherplatz 2, Strom
+- TOP 3.4.: Antwortschreiben der Bezirksinspektion Mitte zur Anfrage des BA aus der Sitzung vom 09.10.2012 (TOP A 4.2) Baustelleneinrichtung Ecke Teng-/Georgenstraße
+- TOP 3.5.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Schreiben der Bezirksinspektion Mitte an das Direktorium vom 10.10.2012 (Entscheidung des Oberbürgermeisters) wegen einer Freischankfläche in der Veterinärstraße 4
+- TOP 3.6.: Münchner Stadtentwässerung Kanalumbaumaßnahme Anwohnertiefgarage Josephsplatz Bedarfs- und Projektgenehmigung Beschluss des gemeinsamen Kreisverwaltungs- und Bauausschusses vom 24.07.2012
+- TOP 3.7.: Entscheidung des Oberbürgermeisters zu einer Freischankfläche in der Schellingstraße 32
+- TOP 3.8.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Zeitliche und räumliche Ausdehnung der Baustelleneinrichtung am sog. ?Norkauerplatz? Antwort auf die Anfrage des BA vom 15.10.2012
+- TOP 3.9.: Kreisverwaltungsreferat, Verkehrsanordnungen Antrag auf Nutzung des Gehwegs auf der Südseite der Tillystraße vom 24.11. bis 13.12.2012 für Filmaufnahmen Eilentscheidung des Vorsitzenden aufgrund Vorstandsvotum: Zustimmung
+- TOP 3.10.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Abdruck des Antwortschreibens vom 26.10.2012 an eine Bürgerin Lärmbeschwerde über eine Gaststätte in der Barer Straße
+- TOP 3.1.: Direktorium, Beschlussvorlage und Ergänzung vom 02.10.2012 Kinder entscheiden in ihrem Stadtteil Sitzungsvorlagen Nr. 08-14/V 10288 Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.2012
+- TOP 3.2.: Direktorium, Beschlussvorlage Kinder entscheiden in ihrem Stadtteil, Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN ? rosa liste vom 09.09.2011 Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfe- ausschusses in der gemeinsamen Sitzung vom 09.10.2012 Sitzungsvorlage Nr. 08-14 / V 10288
+- TOP 3.3.: Sozialreferat Wahl der 10. Münchner Seniorenvertretung ? Aufruf zur Kandidatur
+- TOP 3.4.: Sozialreferat, Zentrale Haushaltsplan 2013: Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? und Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren: a) Zentrale (Sitzungsvorlage Nr. 08-14 / V 10337); b) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 10305); c) Stadtjugendamt (Sitzungsvorlage Nr. 08-14 / V 10309); d) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 10387) Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- sowie des Sozialausschusses am 06.11.2012
+- TOP 3.4.: Kultur
+- TOP 3.1.: Temporäre ergänzende Zusatztafel im Umgriff des Obelisken auf dem Karolinenplatz
+- TOP 3.1.: Schreiben des Oberbürgermeisters an die ödp, Herrn Stadtrat Tobias Ruff vom 27.08.2012 Informations-Schaukästen der Bezirksausschüsse aktualisieren und ansprechender gestalten.
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Direktorium Ressourcenverschwendung durch überflüssige Postsendungen stoppen Anhörung der Bezirksausschüsse zu Anträgen der Bezirksausschüsse 14 Berg am Laim vom 27.03.2012 und 8 Schwanthalerhöhe vom 17.05.2012
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP .4.: Schreiben eines Rechtsanwalts aus der Maxvorstadt vom 08.10.2012 Ausweisung einer ?Tempo-30-Zone? im Bereich Arcisstraße zwischen Königsplatz/Brienner Straße und Schellingstraße (s. TOP A 5.2.4)
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen und Anhörungen
+- TOP 2.3.: Aktuelle Sachstandsberichte
+- TOP 3.6.: Bezirksausschuss 1 Altstadt-Lehel Antrag vom 16.10.2012: ?Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen? mit der Bitte um Unterstützung
