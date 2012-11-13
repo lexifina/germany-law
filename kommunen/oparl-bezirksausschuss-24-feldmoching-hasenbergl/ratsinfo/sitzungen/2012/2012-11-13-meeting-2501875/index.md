@@ -1,0 +1,68 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501875
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501875
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Geh- und Radwegverbreiterung auf der Westseite der Lassallestraße (Fraktionsübergreifender Antrag)
+- TOP 3.2.: Radwegkonzept für den Münchner Norden - insbesondere den 24. Stadtbezirk (Fraktionsübergreifender Antrag)
+- TOP 3.3.: Freigabe des asphaltierten Weges südlich des Fasaneriesees für Fußgänger und Radfahrer (Fraktion Bündnis 90/ Die Grünen und ADFC München)
+- TOP 3.4.: Die Georg-Winkler-Straße soll bis zur Herbergstraße als Fahrradstraße gewidmet werden; Anbringung von Wegweisern für den Fahrradverkehr Richtung Hasenbergl und zurück (Fraktion Bündnis 90/ Die Grünen und ADFC München)
+- TOP 3.5.: Änderung des Bebauungsplanes 1940a: sofortige Einstellung aller Maßnahmen auf der Ausgleichsfläche am Rangierbahnhofsgelände Lassalle-/ Lahntalstraße bis zur Beteiligung des Landesbundes für Vogelschutz, Bund Naturschutz und Münchner Umweltinstitut (Bürgerantrag)
+- TOP 3.6.: Erstmalige Erstellung der Bocksdornstraße - Schaffung eines Gehweges (Bürgerantrag)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Lerchenauer Str. 255 5.1.2 Rainfarnstr. 44
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Lerchenauer Str. 255 5.2.1 Eberwurzstr. 128 5.2.3 Hammstr. 17
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): Heppstraße/ Grashofstr. 103
+- TOP 5.4.: Referat für Stadtplanung und Bauordnung: Beschlussentwurf: Boden- und Bauschuttrecycling und Bodenbörsen - Potentielle Standorte in München
+- TOP 5.5.: Direktorium: Recourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 5.6.: Direktorium: Benennung von Beauftragten gegen Rechtsextremismus durch die BA ' s
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Baureferat: Verlegung der Einstiegshilfe im Behindertenbereich am Feldmochinger See
+- TOP 6.2.: Kommunalreferat: Zwischenmitteilung zur Bebauung des FlSt. 1682 mit KomPro/B-Gebäuden (Moriggl-/Paidar-/Leberlestraße)
+- TOP 6.3.: Kreisverwaltungsreferat: Installation einer Geschwindigkeitsmessanzeige (Dialog-Display) und Dokumentation der Verkehrsbelastung an der Karlsfelder Straße in Ludwigsfeld
+- TOP 6.4.: Referat für Stadtplanung und Bauordnung: Beseitigung der Verschmutzung des Hartelholzes (Antwortschreiben an den BA 11)
+- TOP 6.5.: Referat für Stadtplanung und Bauordnung: Luftrechtliches Genehmigungsverfahren Polizeihubschrauberstaffel in Oberschleißheim (Zwischenmitteilung)
+- TOP 6.6.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.7.: Meldelisten Baumfällungsanträge
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: KVR: verkehrsrechtliche Anordnungen: Halteverbot im Wendehammer der Thaddäus-Robl-Straße
+- TOP 6.10.: SWM: Baumaßnahmen: 6.10.1 Netzbaumaßnahmen (2.Halbjahr 2012) 6.10.2 Stromprojekt Ferchenbachstraße 6.10.3 Telekommunikationsprojekt Frühlingsanger
+- TOP 6.11.: KVR: Verlängerung der Ausnahmegenehmigung zur Benutzung der städt. Grünanlage Graslilienanger 4 (mobile Heizzentrale)
+- TOP 6.12.: Referat für Stadtplanung und Bauordnung: Gebietsbetreuung für das Naturschutzgebiet "Panzerwiese und Hartelholz"
+- TOP 6.13.: Beschlussvorlage Direktorium: Kinder entscheiden in Ihrem Stadtteil + Ergänzungen vom 02.10.2012 und 09.10.2012
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Lanfristige Freiraumentwicklung
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Nachhaltigkeitsaspekte in Bebauungsplänen
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Höhenfreimachung Bahnübergang Fasanerie Nord: Planungen Baureferat für Straßentunnel stoppen und ergänzend Tieferlegung der Bahnstrecke planen und mit DB verhandeln.
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Planfeststellung für 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels? Beschluss vom 10.10.2012 + Neufassung vom 18.10.2012 + Hinweis/ Ergänzung vom 22.10.2012 zur Neufassung vom 18.10.2012
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrsplanung im Münchner Norden (Behandlung eines Stadtratantrages und von Bürgerversammlungsempfehlungen)
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Novellierung der Baumschutzverordnung (BaumschutzV)
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Klimawandel und Hitzeinseln - Konsequenzen für die Dichte der Münchner Kernstadt ?
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Mehrjahresinvestitionsprogramm für die Jahre 2012 bis 2016
+- TOP 6.22.: Stadtkämmerei: Mehrjahresinvestitionsprogramm 2012 bis 2016 für den Stadtbezirk 24
+- TOP 6.23.: Beschlussvorlage Kreisverwaltungsreferat: Lichtzeichenanlagen-Bauprogramm: Bessere Ausrüstung der Ampelanlagen für Blinde (Ziffer 2)
+- TOP 6.24.: Beschlussvorlage Sozialreferat (überarbeitete Version): Jahr der Partizipation von Kindern und Jugendlichen in München
+- TOP 6.25.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung
+- TOP 6.26.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.27.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 6.28.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.29.: Beschlussvorlage Sozialreferat: Bericht zu REGSAM - Ergänzung vom 05.10.2012
+- TOP 6.30.: Direktorium: Münchner Statistik (1. Quartalsheft 2012)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Termin 04.12.2012: Ausserordentliche Bürgerversammlung: Verkehrskonzept für den Münchner Norden
+- TOP 8.2.: Wahl der 10. Münchner Seniorenvertretung vom 19.02. bis 19.03.2013
+- TOP 1: (E) Wiederherstellung des Radweges Freud- / Gundermannstraße
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
