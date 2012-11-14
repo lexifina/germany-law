@@ -1,0 +1,93 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2474284
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2474284
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Umgestaltung des Spielplatzes an der Kastelburgstraße - Vorstellung der Planunge
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Bauvorhaben im Ensembleschutz am Gößweinsteinplatz
+- TOP 2.2.: Autohandel und damit verbundene Missstände im Bereich der Reichenaustr. 3, 5, 14
+- TOP 2.3.: Zebrastreifen in der Aubinger Straße
+- TOP 2.4.: Vandalismus und freilaufende Hunde/Hundekot am Spiel- und Bolzplatz an der Wiesentfelserstraße, schnellfahrende Autos in der Wiesentfelserstraße
+- TOP 2.5.: Aufenthalt von Pferden am Bach auf der Südseite am Aubinger Tunnel
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Bergsonstr. 171 - Aubingerstr. 173 - Huislerstr. 6 - Eugen-Loher-Str. 25 - Lindacher Str. 9 - Kleiberweg 17a - Bodenseestr. 113 - Brunhamstr. 38 a - Aubinger Str. 142 e - Langwieder Hauptstr. 49 - Richard-Seewald-Bogen 21 - Im Stocket 21 b
+- TOP 3.2.: Fällen von Gefahrenbäumen, Schr. Baureferat vom 27.09.12
+- TOP 3.3.: Fällungsgenehmigung: - Aubing-Ost-Str. 1, Schr. Planungsreferat vom 23.10.12 - Emmeringer Str. 9, Schr. Planungsreferat vom 31.10.12
+- TOP 3.4.: Baumfällung zu einem Bauvorhaben: - Denkenhofstr. 8, gem. Baumbestandsplan Nr. 2012-23601 - Kallmünzer Str. 5, gem. Baumbestandsplan Nr. 2012-23623 - Langwieder Hauptstr. 10, gem. Baumbestandsplan Nr. 2012-21098 - Altostr., gem. Baumbestandsplan Nr. 2012-22869 - Grafrather Str., gem. Baumbestandsplan Nr. 2012-24385
+- TOP 3.5.: Fällungsantrag Aubinger Str. 142 e, Schr. Planungsreferat vom 30.10.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 3.3.7: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Transportbetonanlage in der Bergsonstraße - Einhaltung der Sondergenehmigung für Fahrten der Betonmischfahrzeugen im Ortsbereich Aubing
+- TOP 5: Entscheidungen
+- TOP 1: Planungen für den Ausbau der Industrie-, Huisler- und Hohenrechbergstraße
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Bewerbung für "Kinderorte im Stadtteil sichtbar machen", das Projekt zum Weltkindertag 2013, Schr. Büro der Kinderbeauftragten vom 10.10.12
+- TOP 6.1.: Antrag BA 1 vom 16.10.12: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen
+- TOP 6.2.: Veranstaltungen/Kooperationen im November 2012, Schr. Kulturreferat vom 30.10.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bescheid über Zuwendungen aus dem BA-Budget für die Initiative "Sonnenuhren", Schr. Direktorium vom 26.10.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer, Anhörung Abfallwirtschaftsbetrieb vom 22.10.12
+- TOP 6.2.: Beschlussentwurf: Boden- und Bauschuttrecycling und Bodenbörsen, Potentielle Standorte in München, Anhörung Planungsreferat vom 24.10.12
+- TOP 6.3.: Altostr., Neubau 3er Wohngebäude und einer Duplexgarage - Vorbescheid, Anhörung Planungsreferat vom 26.10.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 01.10.-07.10.12, v. 08.10.-14.10.12, v. 15.10.-21.10.12, 22.10.-28.10.12), Schr. Planungsreferat vom 08.10.12, 15.10.12, 22.10.12, 30.10.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 08.10.12, 15.10.12, 22.10.12
+- TOP 6.3.: Verlängerung des Haltverbots auf der Ostseite der Hellensteinstraße vom Bahnübergang bis zur Reußensteinstraße, Schr. KVR vom 10.10.12
+- TOP 6.4.: Verkehrsrechtliche Anordnung: Absolutes Haltverbot mit Zusatz "01.11.-31.03." im Wendehammer Olchinger Weg, Schr. KVR vom 21.08.12
+- TOP 6.5.: Bahnschranken Hellensteinstraße, Schr. Referat für Arbeit und Wirtschaft vom 02.10.12
+- TOP 6.6.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung an der Industriestr. 72, Schr. KVR vom 02.10.12
+- TOP 6.7.: Werbenutzungsvertrag der Landeshauptstadt München: Umwandlung er einfachen Werbesäulen im 16. Stadtbezirk für Projekte im 16. Stadtbezirk (Antrag Nr. 3840/16. vom 03.04.12), Schr. Referat für Arbeit und Wirtschaft vom 12.10.12
+- TOP 6.8.: Schwerlastverkehr im Dreieck Lochhausener Straße / Ranertstraße / Langwieder Hauptstraße - Verkehrsplanung, Schr. Planungsreferat vom 18.10.12
+- TOP 6.9.: Anliegerinformation zu Straßenbaumaßnahme: Industrie-, Huisler-, Hohenrechberg- und Mariabrunner Straße, Schr. Baureferat vom 24.10.12
+- TOP 6.10.: Wertstoffcontainer im 22. Stadtbezirk, Schr. AWM vom 22.10.12
+- TOP 6.11.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG), 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 "München West" Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, Bau-km 100,600 bis 105,996, 2. Planänderung, Stellungnahme der Landeshauptstadt München, Schr. Planungsreferat vom 23.10.12
+- TOP 6.12.: Vollzug des Bundes-Immissionschutzgesetzes (BImSchG); Paul-Ehrlich-Weg 130 Asphalt-Mischanlage hier: Änderungsgenehmigung, Errichtung einer Lagerhalle für Asphaltgranulat, Schr. RGU vom 15.10.12
+- TOP 6.13.: Drehgenehmigung in der Rupert-Bodner-Str. und Bergsonstr., Schr. KVR vom 29.10.12
+- TOP 6.14.: Veränderungen am Spielplatz Waidachanger, Schr. Baureferat vom 22.10.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse; Initiative des Herrn Oberbürgermeister beim Treffen der BA-Vorsitzenden am 13.01.12, Anhörung Direktorium vom 23.10.12
+- TOP 7.2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen, Antrag BA 14 Berg am Laim und BA 8 Schwanthalerhöhe, Anhörung Direktorium vom 19.10.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mehrjahresinvestitionsprogramm für die Jahre 2012-2016, Schr. Stadtkämmerei vom 17.10.12
+- TOP 8.2.: Unveränderte Fortführung einer Gaststätte: - "Cafe Bistro Limes", Limesstr. 105, Schr. KVR vom 04.10.12 - "Cafe Punkt", Bodenseestr. 222 Rgb., Schr. KVR vom 18.10.12
+- TOP 8.3.: Urbanes Natur-Netz München, Zwischenauswertung der Umfrage, Schr. Urbanes Wohnen e.V. München vom 27.09.12 (vertagt aus 10/12)
+- TOP 8.4.: Wirtschafts-Info 10/2012, Schr. Referat für Arbeit und Wirtschaft vom 30.10.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.09.12: Vorhabensbezogener Bebauungsplan Nr. 2075: Autobahnkreuz München-West, BAB A8, Mooswiesenstr., Hanfgartenstr., Berglwiesenstr., BAB A 99 (geänderter Beschluss)
+- TOP 10.2.: Beschluss des Kreisverwaltungsausschusses vom 23.10.12: Lichtzeichenanlagen-Bauprogramm
+- TOP 10.3.: Beschluss der Vollversammlung vom 24.10.12: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels?
+- TOP 10.4.: Beschluss des Verwaltungs- und Personalausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.12: - Kinder entscheiden im Stadtteil - Bericht zu REGSAM
+- TOP 10.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.12: - Entwurf des Mehrjahresinvestitionsporgramms für die Jahre 2012 - 2016, Einzelplan 4 / Sozialbereich, Jugendamtsbereich - Haushaltsplan 2013: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, des Stadtjugendamtes, des Amtes für Wohnen und Migration, der Zentrale
+- TOP 10.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 06.11.12: - Kindertagesstätten sonstiger Träger; Kinderkrippe Lochhausener Str. 250, Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.12: - Klimawandel und Hitzeinseln, Konsequenzen für die Dichte der Münchner Kernstadt? - Novellierung der Baumschutzverordnung (BaumschutzV) - Planung Freiham: 1. Kein Bau des geplanten Turms an der Bodenseestraße, 2. Bau einer ökologischen Mustersiedlung auf einer Teilfläche, BV-Empfehlung Nr. 08-14 / E 01406 vom 26.06.12 - Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016, mehrere Gliederungsziffern und Festsetzung der Reihenfolge großer Siedlungsmaßnahmen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zur Informationsveranstaltung für die Bezirksausschüsse am Donnerstag, 29.11.12, Schr. Sozialreferat vom 29.10.12
+- TOP 11.2.: Kampagne "Laut gegen Brauntöne", Schr. Direktorium vom 24.10.12
+- TOP 11.3.: Bauliche Entwicklung in den Gartenstädten - Einladung des Planungsreferats am 26.11.12 um 17 Uhr, Blumenstr. 19, Raum 614, Schr. Planungsreferat vom 08.11.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 12.12.12 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
