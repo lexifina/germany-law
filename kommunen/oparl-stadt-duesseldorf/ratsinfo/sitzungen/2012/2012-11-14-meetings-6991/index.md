@@ -1,0 +1,57 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-11-14T15:00:00+01:00
+- Ende: 2012-11-14T17:10:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6991
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6991
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00185831.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00185831.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00185831.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2.1: Zulassung eines Sachverständigen gem. § 21 Abs. 14 der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzungen vom 29.08.2012 und 26.09.2012 - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Sicherheit für Senioren im Straßenverkehr - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Pilotprojekt Radschnellweg -Antrag der Ratsfraktionen von FDP und CDU- - einstimmig beschlossen
+- TOP 5.2: Radverkehrsführung bei Großveranstaltungen auf dem Burgplatz - zurückgezogen
+- TOP 5.3: Regionale Radschnellwege - einstimmig beschlossen
+- TOP 5.4: Parkraumentzug durch Flughafengäste - einstimmig beschlossen
+- TOP 6: Änderung des Gebührentarifs zur Sondernutzungssatzung - mehrheitlich beschlossen
+- TOP 7: Offenlegung des fortgeschriebenen Luftreinhalteplans für Düsseldorf - zur Kenntnis genommen
+- TOP 8: Geänderte Führung der Straßenbahnlinien 701, 706 und 715 im Rahmen der Baumaßnahme Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Instandsetzungen Verkehrsflächen und Radwegebau für das Jahr 2013 - zur Kenntnis genommen
+- TOP 10: Ergebnisse der Kordon- und Riegelzählung 2011 - zur Kenntnis genommen
+- TOP 11: SozialTicket im VRR – Information über die Erkenntnisse aus der VRR-Evaluation - zur Kenntnis genommen
+- TOP 12: Nahverkehrsplan-Entwurf des VRR für den Bereich „Koordination ÖPNV“ - zur Kenntnis genommen
+- TOP 13: Planung einer glatten Wegeverbindung über den Burgplatz - zur Kenntnis genommen
+- TOP 14: Riesenrad Burgplatz - zur Kenntnis genommen
+- TOP 15: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 16: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 17: Sitzungstermine des Ordnungs- und Verkehrsausschusses für das Jahr 2013 - zur Kenntnis genommen
+- TOP 18: Arbeitsaufträge aus dem Ordnungs- und Verkehrsausschuss - 3. Quartal 2012 - - zur Kenntnis genommen
+- TOP 19: Haushaltsanträge
+- TOP 19.1: Änderungsantrag zum Haushaltsplanentwurf 2013 – Verkehrsleitpläne - mehrheitlich abgelehnt
+- TOP 19.2: Änderungsantrag zum Haushaltsplanentwurf 2013 – Straßen - mehrheitlich abgelehnt
+- TOP 19.3: Änderungsantrag zum Haushaltsplanentwurf 2013 – Parkraumbewirtschaftung - mehrheitlich abgelehnt
+- TOP 19.4: Umgestaltung des Nebenzentrums Garath (Nord-West) - mehrheitlich abgelehnt
+- TOP 19.5: Verbesserung der Stadtbeleuchtung - Beseitigung von Angsträumen - mehrheitlich abgelehnt
+- TOP 19.6: Förderung des öffentlichen Personennahverkehrs (ÖPNV) - mehrheitlich abgelehnt
+- TOP 19.7: Förderung des Fahrradverkehrs - mehrheitlich abgelehnt
+- TOP 19.8: Beseitigung funktionaler und städtebaulicher Mängel durch kleine Kreisverkehre - mehrheitlich abgelehnt
+- TOP 19.9: Barrierefreiheit im öffentlichen Personennahverkehr (ÖPNV) - vertagt
+- TOP 19.10: Ausbau des Radwegenetzes - mehrheitlich abgelehnt
+- TOP 19.11: Barrierefreier Ausbau von Bushaltestellen - mehrheitlich abgelehnt
+- TOP 19.12: Keine Mittel für die Entlastungsstraße Derendorf - mehrheitlich abgelehnt
+- TOP 19.13: Kein weiterer Ausbau des Kö-Bogen II - mehrheitlich abgelehnt
+- TOP 19.14: Auflösung des Ordnungs- und Servicedienstes - mehrheitlich abgelehnt
+- TOP 20: Haushaltsplanentwurf des Amtes für Verkehrsmanagement sowie des Ordnungsamtes für das Jahr 2013 - mehrheitlich beschlossen
