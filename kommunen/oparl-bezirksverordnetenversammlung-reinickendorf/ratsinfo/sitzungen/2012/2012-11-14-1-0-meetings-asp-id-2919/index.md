@@ -1,0 +1,94 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-11-14T17:00:00+01:00
+- Ende: 2012-11-14T19:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2919
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2919
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=58052
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 13. Sitzung der BVV am 14.11.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 13. Sitzung der BVV am 14.11.2012 - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 13. Sitzung der BVV am 14.11.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Gemeinschaftsschule für Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: W-LAN in dem Publikumsverkehr geöffneten bezirklichen Gebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Teilnahme an der Woche der Demokratie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Stand der Baumaßnahmen im Bereich der bezirklichen Liegenschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.9: Grünpflege durch Beweidung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Bebauungsplan Mäckeritzwiesen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Grabstellen für Muslime - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Anonymisierte Bewerbungen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Bekämpfung der Beifuß-Ambrosie - überwiesen
+- TOP 7.14: Bekämpfung der Eichenprozessionsspinner - überwiesen
+- TOP 7.15: Keine Zwei-Klassen-Gesellschaft bei den freien Trägern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Bereich befristetes Parken am Ludolfingerplatz verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-26B vom 17. Juni 2010 mit Deckblatt vom 29. April 2011 für den Bereich zwischen der Großkopfstraße, dem Dankeskirchhof, der Gotthardstraße, der Scharnweberstraße, der Ollenhauerstraße,einschließlich der Friedrich-Karl-Straße und der Blankestraße sowie für die Grundstücke Von-der-Gablentz-Straße 3/15, 19 / 23, Ollenhauerstraße 134/Von-der-Gablentz-Straße 1, Ollenhauerstraße 135 – 138; Scharnweberstraße 17-20B/Ollenhauer Straße 139, - überwiesen
+- TOP 7.18: Bestellung einer Ombudsfrau/Vertragserweiterung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Bebauungsplanverfahren 12-40B vom 05. Juni 2012, für die Grundstücke Falkenplatz 1/Eichelhäherstraße 26, 2, 3/9A, 6, 10, 8/Habichtstraße 1, Stößerstraße 2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 5/9, 2/10A, Habichtstraße 1A/5, 2, Rabenstraße 1/3, 2/4A, Eichelhäherstraße 18/24, - überwiesen
+- TOP 7.20: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes 12-39B vom 15. Februar 2012, für die Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/ Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66, 68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee. - überwiesen
+- TOP 7.21: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-41B vom 15. Dezember 2011 für die Grundstücke Zeltinger Platz 1 / 17, 2 / 18, Wiltinger Straße 1-3, Zeltinger Straße 1, 2, Edelhofdamm 1, 2 sowie Burgfrauenstraße 1 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 7.22: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-42B vom 15. Dezember 2011 für die Grundstücke Ludolfingerplatz 1 / 9, 2 / 8A, Welfenallee 1 / 7, 6 / 8, KarmeliterWeg 3 – 4A, 6B (teilweise) , Sigismundkorso 1, 2, 87, Ludolfingerweg 2 / 4, 5 / 5A, Maximiliankorso 1 – 3, 74, 74A, 76 sowie Gralsburgsteig 4 / 6 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 7.23: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren XX-256a für das Gelände zwischen dem Grundstück Schloßstraße 5/Königsweg 9, dem Königsweg, der Bernstorffstraße und der Berliner Straße sowie für angrenzende Straßenflächen im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.24: Integrationsbeauftragte/Integrationsbeauftragter Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wie geht es weiter in der Peter-Witte-Schule? - beantwortet
+- TOP 8.2: Flüchtlingsunterbringung in Reinickendorf - beantwortet
+- TOP 8.2.1: Flüchtlingsunterbringung in Reinickendorf - überwiesen
+- TOP 8.3: Bewertung der vorschnellen Entscheidung zur Schließung der Peter-Witte-Schule - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Vermeidung Durchgangsverkehr in den Nebenstraßen in Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Brücke Ernststraße - mit Änderungen in der BVV beschlossen
+- TOP 10.3: 60. Jahrestag des Aufstandes in Ost-Berlin und der DDR in besonderer Weise vorbereiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Öffentliche Dokumentation der "Kiezrunden" nach § 78 KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Kiefheider Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Auch auf den Bahnhöfen der S 25 dynamische Fahrgastinformationsanzeigen vorsehen - überwiesen
+- TOP 10.7: Kitahalbtagsplätze auch nachmittags - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Lehrpfad der Brüder Humboldt in Tegel einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Unfallschwerpunkt BAB-Abfahrt Waidmannsluster Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Einrichtung eines Shuttle-Service für das Strandbad Tegeler See - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bürgerinnen und Bürger vor Lärm schützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Schul- und Sportstättensanierungsprogramm 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: "Vom Berliner Senat" verordneter Personalabbau "in den Bezirken" bis 2016 Konzeption bezirklicher Personalabbau - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Bewertung der vorschnellen Entscheidung zur Schließung der Peter-Witte-Schule - mit Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Verkehrssicherheit im Tegeler Kiez (1) - Fußgängerüberweg Medebacher Weg - überwiesen
+- TOP 12.2: Saubere Straßen trotz Hunden - überwiesen
+- TOP 12.3: Straßenerneuerung Alt-Lübars vorantreiben - überwiesen
+- TOP 12.4: Spielplätze mit Angebot für Rollstuhlfahrer und bewegungseingeschränkte Kinder bedarfsgerecht ausstatten - überwiesen
+- TOP 12.5: Musterbezirksamt - überwiesen
+- TOP 12.6: Verkehrssicherheit im Tegeler Kiez (2) - Schulwegsicherung - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bezirkliche Wohnungsplanung - Wohnungsbaupotential darstellen! - überwiesen
+- TOP 12.8: Sicherheit für Schulkinder in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Schrottauto entfernen lassen - überwiesen
+- TOP 12.10: Spielgeräte für ältere Kinder - überwiesen
+- TOP 12.11: Bevölkerung auf KATWARN aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Verkehrssicherheit im Tegeler Kiez (3) - Verkehrssicherheit Bernstorffstraße Ecke Buddestraße erhöhen - überwiesen
+- TOP 13.2: Spielplatz im Titusweg - überwiesen
+- TOP 13.3: Burgfrauenstraße - überwiesen
+- TOP 13.4: Einführung von nächtlichem Tempolimit in Wohngebieten - überwiesen
+- TOP 13.5: Hinweis auf Radfahrer an der B96 - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Maßnahmen gegen mit Graffiti beschmierte Hauswände - überwiesen
+- TOP 13.7: Schulen zur Teilnahme am "Kinder zum Olymp" animieren - ohne Änderungen in der BVV beschlossen
