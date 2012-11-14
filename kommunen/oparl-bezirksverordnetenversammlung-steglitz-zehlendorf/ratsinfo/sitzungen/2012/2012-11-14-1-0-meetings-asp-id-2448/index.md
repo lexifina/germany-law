@@ -1,0 +1,80 @@
+# 12. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-11-14T17:00:00+01:00
+- Ende: 2012-11-14T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2448
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2448
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Fahrradinfrastruktur in Steglitz-Zehlendorf - beantwortet
+- TOP 3.2: Aufnahme von Asylbewerbern - beantwortet
+- TOP 3.3: Info-Tafel Historikerstreit - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für die DLRG - Landesverband Berlin Bezirk Steglitz-Zehlendorf e.V. - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan X-26-1 (Johannesstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Radstreifen Schorlemerallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Schutz des Arboretums Schorlemer Allee sichern - Denkmalschutz beschließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Kraterlandschaft Barsekowstraße - in der BVV abgelehnt
+- TOP 4.4.4: Verkehrsberuhigten Bereich am Lauenburger Platz für den Verkehr schließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Parken Walter-Linse-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Radfahrweg in der Kaiser-Wilhelm-Straße sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Verkehrszeichen Nr. 237 (Radfahrweg) Sedanstraße/Ecke Albrechtstraße entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Fahrradbügel vor dem Stadtbad Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Querungshilfen Machnower Straße Höhe Gimpelsteig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Beleuchtung für den Park hinter der Schwartzschen Villa - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Beidseitige Beleuchtung am Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Mehr Fahrradstellplätze am S-Bahnhof Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Fortführung des EU-Projektes "Frau und Beruf: Perspektive Wiedereinstieg" (im Bezirk bekannt als "Fraueninfothek Steglitz-Zehlendorf") ab dem 01.06.2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Licht für Südende! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Planung Bürgersteige Flanaganstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Schulweg zur Beethoven-Schule sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Neuwahl von ehrenamtlichen Mitarbeitern - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Der Bezirk braucht einen Denkmalbeirat - überwiesen
+- TOP 5.2.2: Zusätzliche Schulplätze im Einvernehmen mit bestehenden Schulen schaffen - überwiesen
+- TOP 5.2.3: Beteiligung bei der Wahl zur Seniorenvertretung verbessern - überwiesen
+- TOP 5.2.4: Sanierungsplan Rathaus Zehlendorf - überwiesen
+- TOP 5.2.5: Genossenschaftlicher Wohnungsbau und Baugruppen unterstützen - überwiesen
+- TOP 5.2.6: Fahrradbügel statt Baumschutzbügel - überwiesen
+- TOP 5.2.7: Parkplatznot in Zehlendorf-Süd - überwiesen
+- TOP 5.2.8: Behindertengerechte Spielplätze - überwiesen
+- TOP 5.2.9: Reaktorsicherheit in Wannsee - überwiesen
+- TOP 5.2.10: Verkehrsinsel Drakestraße - überwiesen
+- TOP 5.2.11: Kostenanpassung und neue Ausschreibung für Schulessen - überwiesen
+- TOP 5.2.12: Fahrradbügel vor dem Rathaus Zehlendorf - überwiesen
+- TOP 5.2.13: Vorstellung von Erweiterungs- oder Ergänzungsbauten von Schulgebäuden - überwiesen
+- TOP 5.2.14: Verkehrssicherheit in der Wasgenstraße wiederherstellen - überwiesen
+- TOP 5.2.15: Musterraumprogramm erarbeiten - überwiesen
+- TOP 5.2.16: Wiederherstellung Badestellen Krumme Lanke - überwiesen
+- TOP 5.2.17: Fortführung der Fraueninfothek Steglitz-Zehlendorf sicherstellen - überwiesen
+- TOP 5.2.18: Flaschenbehälter an Papierkörben anbringen - überwiesen
+- TOP 5.2.19: Teilhabe an Information und Kommunikation für alle - überwiesen
+- TOP 5.2.20: Mehr Fahrradständer in der Clayallee - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Schlosspark-Theater unterstützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Zehlendorfer Wohnprojekt für Menschen mit Behinderung sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8.1: Berufung eines stellvertretenden beratenden Mitglieds als Vertretung des Bezirkselternausschusses der Kindertagesstätten in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - zurückgezogen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Verkehrsgutachten Neugestaltung Kirchstraße - in der BVV abgelehnt
+- TOP 9.2: Verzicht auf Grünpfeil am Gardeschützenweg/Drakestraße - zurückgezogen
+- TOP 10: Schlusswort des Vorstehers - erledigt
