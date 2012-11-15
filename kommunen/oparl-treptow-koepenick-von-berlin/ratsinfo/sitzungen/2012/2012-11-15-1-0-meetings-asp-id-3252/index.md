@@ -1,0 +1,68 @@
+# 13. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-11-15T16:30:00+01:00
+- Ende: 2012-11-15T21:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3252
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3252
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=91545
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-13 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten für den Schulausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2011 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 11.2: Bezirkshaushaltsrechnung 2011 - überwiesen
+- TOP 11.3: Entwurf des Bebauungsplans 9-45 G nebst Begründung Entwurf der Rechtsverordnung zum Bebauungsplan 9-45 G im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sitzungsterminplan 2013 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Ergänzungsplan zum Bezirkshaushaltsplan 2013 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sichere Querung der Johannisthaler Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Eine weitere Gemeinschaftsschule einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Verbot von Alkohol- und Tabakwarenkonsum auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Neue Fahlenbergbrücke – umwelt- und naturschutzrechtliche Aspekte beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Durchsuchbarkeit von Bezirksseiten - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Kindeswohlgefährdungen durch Besetzung der Personalstellen im Regionalen Sozialpädagogischen Dienst abwenden - mit Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Rechtsverordnung des Bebauungsplans XVI-36 nebst Begründung im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XV-37c ("Gartenstadt Falkenberg: Paradiesstraße") hier: Reduzierung des Geltungsbereiches - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Inhaltliche und organisatorische Zusammenarbeit der Akteure im Bezirk bei der Weiterentwicklung und Umsetzung des kommunalpolitischen Gesundheitszieles - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Verleihung des Ehrenzeichens ''Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin'' - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Herabstufung der Radickestraße als Nebenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Flüchtlinge menschenwürdig unterbringen – Anwohnerinnen und Anwohner einbeziehen - überwiesen
+- TOP 14.3: Abbau des Verkehrsschilds „Vorfahrt gewähren“ für Fahrradfahrerinnen und Fahrradfahrer an der Kreuzung Oberspreestr. / Friedlander Str. - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Einbahnstraße Hämmerlingstraße - überwiesen
+- TOP 14.5: Veröffentlichung und nachvollziehbare Darstellung der Infrastrukturkostenberichte - überwiesen
+- TOP 14.6: Bezirklicher Vertreter im zukünftigen Landesgremium zur Verbesserung der ambulanten medizinischen Versorgung in Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Gesellschaftshaus/Riviera für die Öffentlichkeit erhalten - überwiesen
+- TOP 14.8: Nachtflugverbot von 22 bis 6 Uhr erneut einfordern - vertagt
+- TOP 14.9: Beschneidung der Bäume vor dem Rathaus Treptow - überwiesen
+- TOP 14.10: Beschränkung der hindernisfreien Korridore - überwiesen
+- TOP 14.11: Wahl von Kiezpaten im Kiezkassen-Verfahren - gewählt
+- TOP 14.12: Leistungen für Bürgerinnen und Bürger erhalten - überwiesen
+- TOP 14.13: Umwidmung eines Nebenstraßenabschnitts vor Christophorus-Kirche in Friedrichshagen in eine Fußgängerzone - überwiesen
+- TOP 14.14: Veranstaltung zum Tag des Gedenkens an die Opfer des Nationalsozialismus - überwiesen
+- TOP 14.15: Kreuzung Brigittenweg – Blindschleichengang in Altglienicke besser kenntlich machen - überwiesen
+- TOP 14.16: Personalabbau und Haushaltssituation in einer Präambel zum Regionalen Entwicklungskonzept BER benennen - überwiesen
+- TOP 14.17: Kooperation von Schule und Jugend lebensnah gestalten - überwiesen
+- TOP 14.18: Lichtsignal zum Rechtsabbiegen installieren - überwiesen
+- TOP 14.19: Keine Rundfunkgebühren für Kitas - überwiesen
+- TOP 14.20: Spielplatzkommission - überwiesen
+- TOP 14.21: Tischtennisplatten im Bezirk - überwiesen
+- TOP 15: Große Anfragen - (offen)
