@@ -12,8 +12,9 @@ Rechtsstellung und Aufgaben
 Zweiter Abschnitt
 Gebiet der Gemeinde
 § 7 Gebietsbestand
-§ 8 Gebietsänderungen
-§ 9 Vereinbarung über Gebietsänderungen
+§ 8 Änderungen des Gemeindegebiets
+§ 8a Einwohneranhörung bei Änderungen des Gemeindegebiets
+§ 9 Vereinbarung über Änderungen des Gemeindegebiets
 Zweiter Teil
 Einwohner und Bürger der Gemeinde
 § 10 Rechtsstellung der Einwohner
@@ -166,6 +167,6 @@ Sonstige Vorschriften
 § 127 Rechtsverordnungen
 § 128 Muster für die Haushaltswirtschaft
 § 129 Sonstige Verwaltungsvorschriften
-§ 130 Änderung des Sächsischen Brandschutzgesetzes
-§ 131 Übergangsbestimmungen
+§ 130 Übergangsbestimmung zur Rechtsstellung von Bürgermeistern
+§ 131 Übergangsbestimmungen zum neuen Haushalts- und Rechnungswesen
 § 132 In-Kraft-Treten
