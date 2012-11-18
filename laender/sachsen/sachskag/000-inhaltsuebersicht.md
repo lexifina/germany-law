@@ -3,7 +3,7 @@ Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Rechtsgrundlage für Kommunalabgaben
 § 3 Verwaltungsverfahren
-§ 4 (aufgehoben)
+§ 4 Verwaltungshelfer
 § 5 Abgabenhinterziehung
 § 6 Leichtfertige Abgabenverkürzung und Abgabengefährdung
 Abschnitt 2 Steuern
