@@ -84,4 +84,5 @@ Vierter Teil Sonstige Vorschriften
 § 63 Verwaltungsvorschriften
 § 64 Einschränkung von Grundrechten
 § 65 Maßgebende Einwohnerzahl
+§ 65a Übergangsbestimmung
 § 66 In-Kraft-Treten
