@@ -17,7 +17,7 @@ Dritter Abschnitt Bildung des Verwaltungsverbandes
 § 11 Verbandssatzung
 § 12 Genehmigung
 § 13 Entstehung des Verwaltungsverbandes
-§ 14 Pflichtverband
+§ 14 (aufgehoben)
 Vierter Abschnitt Verfassung und Verwaltung des Verwaltungsverbandes
 § 15 Organe
 § 16 Zusammensetzung der Verbandsversammlung
@@ -33,11 +33,11 @@ Fünfter Abschnitt Wirtschafts- und Finanzverfassung
 § 25 Deckung des Finanzbedarfs
 Sechster Abschnitt Änderungen der Verbandssatzung und Auflösung des Verwaltungsverbandes
 § 26 Änderungen der Verbandssatzung
-§ 27 Auflösung des Verwaltungsverbandes
-§ 28 Wegfall von Mitgliedsgemeinden
+§ 27 Auflösung des Verwaltungsverbandes und Ausscheiden von Mitgliedsgemeinden
+§ 28 (aufgehoben)
 § 29 Abwicklung des Verwaltungsverbandes
 § 30 Haftung
-§ 31 Besondere Bestimmungen für Pflichtverbände
+§ 31 (aufgehoben)
 Siebter Abschnitt Umwandlung eines Verwaltungsverbandes in eine kreisangehörige Gemeinde
 § 32 Umwandlung
 § 33 Entstehung der neuen Gemeinde
@@ -51,7 +51,7 @@ Dritter Teil Verwaltungsgemeinschaft
 § 40 Gemeinschaftsausschuß
 § 41 Zuständigkeit des Gemeinschaftsausschusses
 § 42 Deckung des Finanzbedarfs
-§ 43 Pflichtvereinbarung
+§ 43 (aufgehoben)
 Vierter Teil Zweckverband
 Erster Abschnitt Grundlagen des Zweckverbandes
 § 44 Verbandsmitglieder
@@ -95,9 +95,9 @@ Sechster Teil Aufsicht
 § 75 Aufsicht über Verwaltungsverbände und Zweckverbände
 Siebter Teil Übergangs- und Schlußbestimmungen
 § 76 Planungsverbände
-§ 77 Kreisgebietsreform
+§ 77 (aufgehoben)
 § 78 Anwendung auf bestehende Zweckverbände, Verwaltungsgemeinschaften und gemeinsame Verwaltungsämter
-§ 78a Übergangsvorschriften aus Anlaß von Änderungen kommunalrechtlicher Vorschriften
+§ 78a Übergangsbestimmung aus Anlass des Gesetzes zur Erleichterung freiwilliger Gebietsänderungen
 § 78b Übernahme der Angestellten, Arbeiter sowie der in einem Ausbildungsverhältnis stehenden Beschäftigten
 § 79 Rechtsverordnungen
 § 80 Verwaltungsvorschriften
