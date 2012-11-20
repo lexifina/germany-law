@@ -1,0 +1,92 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2431500
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2431500
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Beschleunigung des Grundschulbaus im Baugebiet Funkkaserne
+- TOP .1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP .2.: Benennung von Beauftragten gegen Rechtsextremismus
+- TOP .10.: sonstiges
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Babel" Ausstellung vom 14. - 21.03.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Sozialservice - Gesellschaft des Bayer. Roten Kreuzes GmbH Weihnachtskonzert am 12.12.2012
+- TOP .1.: Straßenfest KJR München-Stadt ?School? over Jam? am 30.07.2013 an der Münchner Freiheit
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Munich Destillers?, Schank- und Speisewirtschaft mit regelmäßigen Musikdarbietungen, Occamstr. 2
+- TOP .1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2012?2016, Beschluss für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 06.11.2012 Einzelplan 4 / Sozialbereich, Sitzungsvorlage Nr.: 08-14 / V 10498 Einzelplan 4 / Jugendamtsbereich, Sitzungsvorlage Nr.: 08-14 / V 10514
+- TOP .2.: Haushaltsplan 2013 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? und Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 06.11.2012: 1. Zentrale (Sitzungsvorlage Nr. 08-14 / V 10337) 2. Amt für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 103305) 3. Stadtjugendamt (Sitzungsvorlage Nr. 08-14 / V 10309) 4. Amt für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 10387)
+- TOP .3.: Mehrjahresinvestitionsprogramm für die Jahre 2012 ? 2016 (siehe auch C.5.3.2./D.5.3.3.) Information der Stadtkämmerei
+- TOP .4.: Interessengemeinschaft Auensiedlung e.V. - kein Anspruch auf Zuwendungen aus dem Bud-get des BA 12 für die Maßnahmen: 60 Jahrfeier am 30.06.2012 und Erstellung einer Chronik
+- TOP .5.: Errichtung eines zentralen und transparenten Vergabesystem für Betreuungsplätze in städtischen Kinderkrippen (Antrag des Bezirksausschusses 1 Altstadt-Lehel)
+- TOP .6.: Verwendungsnachweis: für Mohr-Villa-Freimann e.V. für die Maßnahme: Zeichner-Wettbewerb mit Ausstellung im August/September 2012 in Höhe von 1.000,00 ?
+- TOP .7.: Mehrjahresinvestitionsprogramm (MIP) 2012-2016 ? Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; verfahrenstechnische Neuerungen und Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr.: 08-14 / V 10501 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 07.11.2012
+- TOP .8.: Einrichtung und Betrieb eines Kälteschutzraums für die Kälteperiode; Einrichtung eines ganzjährigen Beratungsdienstes Vorübergehende Unterbringung und ambulante Hilfe für akut Wohnungslose Beschluss des Sozialausschusses vom 08.11.2012; Sitzungsvorlage Nr. 08-14 / V 10525
+- TOP .9.: Verwendungsnachweis: für Kreisjugendring ?soundcafe? für die Maßnahme: Konzertabend am 22.06.2012 in Höhe von 448,25 ?
+- TOP .10.: Verwendungsnachweis: für die Innere Mission München, Diakonie in München und Oberbayern e.V. für die Maßnahme: Sommerfest am 18.07.2012 in Höhe von 800,00 ?
+- TOP .1.: Genehmigung zur Aufstellung von 20 bereits bestehenden Zeitungsverkaufseinrichtungen
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Bauvorhaben: Berliner Str. 95, Flurstück: 859/7, Generalsanierung und Erweiterung eines Bürogebäudes - Tektur
+- TOP .2.: Bauvorhaben: Freisinger Landstr. 187, Flurstück 275/0, Errichtung einer provisorischen Einstellhalle
+- TOP .3.: Bauvorhaben: Admiralbogen, Fl.Nr.: 309/1016, Neubau einer Wohnanlage für studentisches (200 Wohnplätze) und betreutes Wohnen (24 Apartments) mit 3 Sondernutzungen und einer Tiefgarage ? hier: Nutzungsänderung eines Lebensmittelmarktes in eine Verwaltungseinheit Fanprojekt im EG
+- TOP .4.: Bauvorhaben: Brandenburger Str. 2-24, Fl.Nr. : 986/2 ? Lärmschutzbebauung mit Tiefgarage; Neubau von 32 Wohneinheiten / Umbau von 4 Wohneinheiten
+- TOP .5.: Bauvorhaben: Möslweg 1, Fl.Nr.: 309/807, Neubau eines Einfamilienhauses und Fällung einer Fichte
+- TOP .6.: Bauvorhaben: Heidemannstr. 164, Fl.Nr.: 223/4, Werk 01.01, Geb. 28.0: Überdachung des Hofeingangs und der TG-Einfahrt incl. Baumfällungen (6 Bäume)
+- TOP .7.: Bauvorhaben: Werner-Heisenberg-Allee 62, Fl.Nr.: 420/0, Deponie Nord-West a) Neubau Betriebsgebäude / b.) Neubau Waagengebäude; incl. Baumfällungen
+- TOP .8.: Bauvorhaben: Bismarckstr. 1, Fl.Nr.: 369/33, Umbau und Erweiterung der DG-Wohnungen mit Ausbau Dachspitz, Um- und Anbau von Balkonen, Anbau Außenlift, Sanierungsarbeiten
+- TOP .9.: Bauvorhaben: Heidemannstr. 50, Fl.Nr.: 223/6, Nutzungsänderung Kasernen-Unterkunftsgebäude 58 zu Obdachlosenheim
+- TOP .10.: Bauvorhaben: Heidemannstr. 50, Fl.Nr.: 223/6, Nutzungsänderung Kasernen-Unterkunftsgebäude 11 zu Obdachlosenheim sowie Anbau einer Fluchttreppe
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Baumaßnahmen der Stadtwerke: Wasserprojekt Isoldenstraße Fernwärmeprojekt Herzogstraße
+- TOP .2.: Mehrjahresinvestitionsprogramm für die Jahre 2012 ? 2016 (siehe auch B.5.3.3./D.5.3.3.) Information der Stadtkämmerei
+- TOP .3.: Mehrjahresinvestitionsprogramm für die Jahre 2012 ? 2016 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10427
+- TOP .4.: Klimawandel und Hitzeinseln ? Konsequenzen für die Dichte der Münchner Kernstadt?Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10521
+- TOP .5.: Novellierung der Baumschutzverordnung (BaumschutzV) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10503
+- TOP .6.: Mehrjahresinvestitionsprogramm für die Jahre 2012 ? 2016 - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen; Sitzungsvorlage Nr. 08-14 / V 10454 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012
+- TOP .7.: Bebauungsplan mit Grünordnung Nr. 1967 a ? Domagkstr. (nördlich), Tramlinie 23 (westlich), Frankfurter Ring (südlich); Neubau der Erschließungsstraßen und der Fuß- und Radwegverbindungen; Bedarfs- und Konzeptgenehmigung Sitzungsvorlage Nr. 08-14 / V 10277, Beschluss des Bauausschusses vom 20.11.2012
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: (E) Verkehrssicherheit an der Kreuzung Wilhelmstraße / Hohenzollernstraße; verschiedene Maßnahmen
+- TOP 2: (E) Sorgfältigere Ausführung und Pflege der Radwege (Ziffer 4) Empfehlung Nr. 08-14 / E 01024 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 14.07.2011 Instandhaltung / sorgfältiger Unterhalt der Radwege (Ziffer 1) Empfehlung Nr. 08-14 / E 01419 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 12.07.2012
+- TOP 2.1.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer (17 Containerinseln)
+- TOP 2.2.: Erneuerung der Geh- und Radwege in der Heidemannstraße
+- TOP 2.3.: Wasserkraftanlage am Eisbach im Bereich der Straße "Am Tucherpark" (WKA "Tucherpark")
+- TOP 2.4.: Radverkehrsführung Elisabethstraße / Franz-Joseph-Straße
+- TOP 2.1.: Verkehr in der Berliner Str.
+- TOP 2.2.: Radweg westliche Leopoldstr. in Höhe Einmündung Ungererstr.
+- TOP 2.1.: Änderung des Mehrjahresinvestitionsprogramm
+- TOP 2.2.: Austausch der Abfallbehälter am Friedhof hinter der Sylvesterkirche (BV-Empfehlung 1424)
+- TOP 2.1.: Aufhebung der Radwegbenutzungspflicht in der Schinkelstraße
+- TOP 2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Leopoldstr. 223
+- TOP 2.3.: Geschwindigkeitsbeschränkung auf 30 km/h in der Oskar-Schlemmer-Str.
+- TOP 2.4.: Teilsignalisierung Isarring / Ifflandstraße - Erweiterungsmaßnahmen
+- TOP 2.1.: Bauarbeiten zur Öffnung des Mittelteilers der Ingolstädter Straße ggü. Hausnr. 40
+- TOP 2.2.: Sperrung der Durchfahrt ?Am Kiefernwald? Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 2.3.: Mehrjahresinvestitionsprogramm für die Jahre 2012 ? 2016 (siehe auch B.5.3.3./C.5.3.2.) Information der Stadtkämmerei
+- TOP 2.4.: Verkehrsplanungen im Münchner Norden ? Behandlung eines Stadtratsantrages und von Bürgerversammlungsempfehlungen (des BA 24 und BA 11) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10493
+- TOP 2.5.: Schmutz- und Lärmbelästigungen durch Veranstaltungen in Freimann (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 2.6.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP 2.7.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-1012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (Sitzungsvorlage Nr. 08-14 / V 09670)
+- TOP 2.8.: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt Sitzungsvorlage Nr. 08-14 / V 09714, Beschluss des Bauausschusses vom 20.11.2012
+- TOP 2.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP 2.5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4.: Bürgeranliegen
+- TOP 2.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 2.5.3.: Sonstige Unterrichtungen
+- TOP 2.3.2.: Sonstige Anhörungen
+- TOP 2.5.2.: Verkehrsrechtliche Anordnungen
