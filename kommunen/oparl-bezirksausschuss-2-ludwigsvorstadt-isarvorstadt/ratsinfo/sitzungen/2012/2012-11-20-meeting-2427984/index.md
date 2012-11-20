@@ -1,0 +1,114 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427984
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427984
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Verlängerung der Erhaltungssatzung ?Schlachthofviertel?
+- TOP .2.: Vorbelegungsrecht für stadtteilkulturelle Aktivitäten im Atelierhaus Baumstr. 8
+- TOP .1.: (E) Budget der Bezirksausschüsse Zils, Huber GbR Projekt "Mein Viertel" von Januar - Juni 2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Edition Karbit" Veranstaltung "Edition Karbit" vom 30.11. - 02.12.2012
+- TOP .1.: Ausschreibung zur Ausrichtung des Kindersommers 2013 ?Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben!?
+- TOP .2.: Anträge aus der Kinder- und Jugendeinwohnerversammlung: - Ampel an der Wittelbacherstr. - Zaun am Bolzplatz an der Isar
+- TOP .3.: NACHTRAG - Perspektive München, Fortschreibung Innenstadtkonzept; Pilotprojekt der Stadtentwicklung Südliches Bahnhofsviertel, Verlängerung des Quartiersmanagements Südliches Bahnhofsviertel (Sitzungsvorlage Nr. 08-14 / V 10261)
+- TOP .1.: Wahl Seniorenbeirat: Kandidatenaufstellung
+- TOP .1.: Kreisverkehr am Esperantoplatz
+- TOP .2.: Radstreifen auf dem nördlichen Bavariaring von der Theresienhöhe zur Rückertstraße
+- TOP .1.: Barrierefreier Ausbau der Bushaltestellen ?Kapuzinerplatz?, ?Poccisstraße? und ?Sendlinger Tor? im Rahmen der ?ÖPNV Offensive IV?, Beschlussvorlage des Baureferates
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Haydnstr. 10: Ausbau des Dachspeichers zu Wohnraum in Verbindung mit den darunter liegenden Wohnungen, Vergrößerung einer Gaube, Errichtung zweier Dachterrassen sowie Anbau einer Fluchtleiter
+- TOP .2.: Sonnenstr. 24: Umbau und Erweiterung eines Geschäftshauses mit Nutzungsänderung in eine Privatklinik mit Praxen sowie Neubau einer Tiefgarage, vertagt aus 2012.10 B 3.1.9
+- TOP .3.: Fraunhoferstr. 33-35: Neubau eines Rückgebäudes mit Tiefgarage
+- TOP .4.: Am Glockenbach 11: Einbau von Balkonen mit Fluchtleiter als 2. Rettungsweg
+- TOP .5.: Bayerstr. 21: Erweiterung einer Zahnklinik durch Umnutzung einer Wohnung im 6. OP (Bayerstr. 21 / Zweigstr. 4) - PLENUMSBESCHLUSS
+- TOP .6.: Goethestr. 49: Nutzungsänderung: Büros zu Wohnungen (VGB / EG - 3. OG) mit kleineren Umbauten und neuem Durchgang im Mittelgebäude zum Hof ? PLENUMSBESCHLUSS
+- TOP .7.: Schwanthalerstr. 47: Nutzungsänderung eines Boardinghauses mit 29 Apartments und einem Laden in ein Boardinghaus in Form eines Beherbergungsbetriebes mit 30 Apartments und drei Spielhallen sowie einer Wohnung im 2. DG (Tektur) - PLENUMSBESCHLUSS
+- TOP .8.: Bavariaring 31: Neugestaltung eines Verwaltungsgebäudes einschließlich Fassadensanierung ? PLENUMSBESCHLUSS
+- TOP .9.: Sonnenstr. 4: Nutzungsänderung eines Geschäftshauses ? PLENUMSBESCHLUSS
+- TOP .10.: Fraunhoferstr. 10: Nutzungsänderung 1. + 2. OG: Einbau von 4 Wohnungen in ehemaliger Pension, Abbruch + Neubau Dachstuhl, Einbau einer zusätzlichen Wohnung im DG sowie eines Personenaufzugs, Anbau von Balkonen (hofseitig), Fenster-Änderung (straßenseitig), (Tektur, siehe auch TOP 2012.07 B 3.1.9) ? PLENUMSBESCHLUSS
+- TOP .11.: Corneliusstr. 22: Errichtung eines Außenaufzugs und von Stahlbalkonen ? PLENUMSBESCHLUSS
+- TOP .12.: Baaderstr. 60: RGB: Umbau, Nutzungsänderung von Werkstatt und Büro in Wohnen, Neubau des Dachstuhls, Einbau eines Kombilifts mit 5 Stellplätzen (Tektur, jetzt Flurparker mit 15 Stellplätzen) - PLENUMSBESCHLUSS
+- TOP .13.: Reifenstuelstr. 2: Sanierung und Umbau Bestandsgebäude - PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Mozartstr. 23: Antrag auf Baumfällung, 1 Pappel ? PLENUMSBESCHLUSS
+- TOP .2.: Sonnenstr. 24 (siehe TOP B 3.1.9) ? PLENUMSBESCHLUSS
+- TOP .3.: Fraunhoferstr. 33-35 (siehe TOP B 3.1.3) ? PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Nördlicher der Teil der Braunauer Eisenbahnbrücke, Aufnahme in Denkmalliste
+- TOP .2.: NACHTRAG - Markthallen München; Zukunftsicherung der Markthallen München, Beschluss des Kommunalausschusses als Werkausschusses für die Markthallen München vom 22.11.2012, Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10592)
+- TOP .1.: Bürgeranliegen: Verkehrsbelastung durch die Bebauung des Rodenstock-Geländes
+- TOP .2.: Urbanes Wohnen München e.V., Zwischenauswertung Urbanes Natur-Netz München, vertagt aus 2012.10 B 5.1.2
+- TOP .1.: Gestaltung der Pflanztröge und Freischankflächen auf dem Fußgängerweg Stachus bis Paul-Heyse-Str. - PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Ergänzung des Wiesnberichts (siehe auch TOP 2012.10 C 2.3.1) ? PLENUMSBESCHLUSS
+- TOP .1.: ?Tollwood Winterfestival 2012? auf der Theresienwiese vom 27.11.-31.12.2012 (Eilentscheidung)
+- TOP .2.: Nutzungsanfrage Theresienwiese 2013 ?Afrika Tage München? vom 06.06.-09.06.2013 ? PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Kunst im öffentlichen Raum: ?Play me, I'm yours? vom 02.05.-21.05.2013, Corneliusbrücke, Reichenbachbrücke, Gärtnerplatz ? PLENUMSBESCHLUSS
+- TOP .2.: Beteiligungsverfahren des Abfallwirtschaftsbetriebes München zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer (geplante Standorte: Am Glockenbach, Bavariaring/Hans-Fischer-Str., Isartalerstr./Kapuzinerstr., Ruppertstr./Tumblingerstr.) ? PLENUMSBESCHLUSS
+- TOP .3.: Gärtnerpl. 6: Freischankfläche ?Cotidiano?, Alternative zum abgelehnten Erweiterungsantrag (siehe auch TOP 2012.10 C 2.1.2) ? PLENUMSBESCHLUSS
+- TOP .4.: Vermietung eines städtischen Grundstücks an der Tumblingerstr. als Wirtsgarten und Verkaufsplatz für Markthallenhändler ? PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen: Einrichten eines zusätzlichen Fußgängerüberweges an der Kreuzung Lindwurmstr. / Poccistr. / Ruppertstr. - PLENUMSBESCHLUSS
+- TOP .1: Termine
+- TOP .1.: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse, 29.11.2012
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen, BA-Anträge der Bezirksausschüsse 8 und 14 (BA-Antrags-Nr. 08-14 / B 03878 und 08-14 / B 03815); Bitte um Stellungnahme an das Direktorium
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Zwischennachricht des Referates für Stadtplanung und Bauordnung zum BA-Antrag ?Erhaltungssatzung Am Glockenbach? (BA-Antrags-Nr. 08-14 / B 04216), siehe auch TOP 2011.09 A 1.1
+- TOP .4.: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10305)
+- TOP .5.: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012: (Sitzungsvorlage Nr. 08-14 / V 10309)
+- TOP .6.: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012: (Sitzungsvorlage Nr. 08-14 / V 10387)
+- TOP .7.: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012: (Sitzungsvorlage Nr. 08-14 / V 10337)
+- TOP .8.: Mehrjahresinvestitionsprogramm für die Jahre 2012-2016, Beschluss der Vollversammlung vom 24.10.2012 (Sitzungsvorlage Nr. 08-14 / V 10368)
+- TOP .9.: Beschluss des Bauausschusses vom 16.10.2012: Sofortige Rücknahme des Skateverbots am Georg-Freundorfer-Platz (Sitzungsvorlage Nr. 08-14 / V 09878)
+- TOP .10.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2012-2016, Einzelplan 4 / Sozialbereich, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10498)
+- TOP .11.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2012-2016, Einzelplan 4 / Jugendamtsbereich, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10514)
+- TOP .12.: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städt. Kinderkrippen, Antrag des Bezirksausschusses 1 Altstadt-Lehel vom 16.10.2012
+- TOP .13.: Mehrjahresinvestitionsprogramm 2012-2016, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10454)
+- TOP .14.: Mehrjahresinvestitionsprogramm 2012-2016, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10501)
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Schreiben des Oberbürgermeisters zur Nutzung des Toilettenhäuschens am Holzplatz, hier: Abdrücke von Antwortschreiben im Rahmen der Bürgerberatung
+- TOP .3.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 16.10.2012 ? Werbenutzungsvertrag der Landeshauptstadt München, Sitzungsvorlage Nr. 08-14 / V 10306
+- TOP .4.: Ausnahmezulassung gemäß BImSchG zur Wiederherstellung der Fahrbahndecke Ickstattstr./Klenzestr.
+- TOP .5.: Novellierung der Baumschutzverordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10503)
+- TOP .6.: Neuer Steg über die Isar in Höhe der Klenzestraße, ?Klenzesteg?, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Bauausschusses vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 09173)
+- TOP .7.: Klimawandel und Hitzeinseln, Konsequenzen für die Dichte der Münchner Kernstadt? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012
+- TOP .8.: Mehrjahresinvestitionsprogramm für die Jahre 2012-2016: Natur- und Denkmalschutz, Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung, Städtebauförderung, Wohnungsbauförderung, Wohnungsfürsorge, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10427)
+- TOP .9.: Planfeststellungsverfahren 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1, ?München West?, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, 2. Planänderung, Stellungnahme der Landeshauptstadt München (siehe auch TOP 2012.09 B 3.3.2)
+- TOP .10.: Antwortschreiben des Kreisverwaltungsreferates zur ?Verbreiterung des Radweges in der Thalkirchner Straße? (BA-Antrags-Nr. 08-14 / B 04167, siehe auch TOP 2012.07 B 1.2)
+- TOP .11.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 (Sitzungsvorlage Nr. 08-14 / V 09670)
+- TOP .12.: Gestaltung der Unterführung Theresienhöhe / Hans-Fischer-Str., Vormerkung des Baureferates zur Besprechung vom 18.10.2012 (siehe auch TOP 2012.10 A 6.3)
+- TOP .13.: Platenstr. 1: Nutzungsänderung einer Wohnung in Büroräume, Abdruck der Baugenehmigung (siehe auch TOP 2012.07 B 3.1.3)
+- TOP .14.: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt, Beschluss des Bauausschusses vom 20.11.2012 (Sitzungsvorlage Nr. 08-14 / V 09714)
+- TOP .15.: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 08-14 / V 10344)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: ?Maßnahmen mittels Türsteher wegen ständiger Ruhestörung durch ein Lokal in der Thalkirchner Str.?, Antwortschreiben des Kreisverwaltungsreferates (BA-Antrags-Nr. 08-14 / B 04289, siehe auch TOP 2012.09 C 1.2)
+- TOP .7.: Demonstration am 29.09.2012, Antwort der Versammlungsbehörde auf eine Bürgerbeschwerde (siehe auch TOP 2012.10 II 5)
+- TOP .8.: Weihnachtsmarkt an der Pfarrer-Rosenberger-Str., Änderung des Konzepts (siehe auch TOP 2012.10 C 3.1.1), Eilentscheidung des Vorsitzenden
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .2.: Veranstaltungen
