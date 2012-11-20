@@ -1,0 +1,119 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2535922
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2535922
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Problematische Verkehrssituation in der Birkenleiten; Bürgerschreiben vom 23.10.12 zu TOP 2.1.2.1 Stellungnahme der PI 23 vom 26.10.12
+- TOP 2.2.: Bebauung des Paulanergeländes - Lärmschutzwall entlang der Pilgersheimer Straße; Bürgeranfrage vom 12.10.12
+- TOP 2.3.: Geringerer Schadstoffausstoß an Fahrzeugen durch das Versetzen der Zeitungsständer am St.-Quirin-Platz; Bürgerschreiben vom 25.10.12
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Ausweitung des Parkraummanagements über den Ring hinaus (südlich des Candidplatzes, Schönstraße bis zum Tierpark)
+- TOP 2.2.: Einrichtung einer Parkzone für Anwohner rund um den Tierpark
+- TOP 2.3.: Planung eines Parkhauses an der Siebenbrunner Straße
+- TOP 2.4.: Parkhaus am Candidplatz zur Verbesserung der Parkplatzsituation
+- TOP 2.5.: Tiefgarage am Candidplatz und Tageslizenzen für das Lizenzgebiet
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Projektname: Schönstraße, Bushaltestelle Lebscheestraße, Linie 52; Beschluss des BA 18 vom 20.11.12
+- TOP 3.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching; Umstufung einer Ortstraße, Hans-Mielich-Platz; Sitzungsvorlage Nr. 08-14 / V 10395; Beschluss des BA 18 vom 20.11.2012
+- TOP 3.1.: Regionalzuhalt Menterschwaige prüfen; Antrag Nr. 08-14 / A 02999 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.12.11; Sitzungsvorlage Nr. 08-14 / V 10628; Zuleitung des Referats für Stadtpl. u. Bauordnung vom 31.10.12 mit der Bitte um Stellungnahme zum Beschlussentwurf bis spät. 12.12.12
+- TOP 3.1.: Verlegung des allg. Behindertenparkplatzes in der Hans-Mielich-Straße von der nördlichen Seite des Zebrastreifens auf die südliche Seite des Zebrastreifens; Schreiben des BA 18 vom 16.05.12; Antwortschreiben des KVR vom 02.10.12 (positive Erledigung)
+- TOP 3.2.: Rotbuchenstraße - Antrag auf einen Zebrastreifen zwischen Schule / Vereinsheim und Sportplatz; BA-Antrag Nr. 08-14 / B 04205 vom 21.08.12; Antwortschreiben des KVR vom 10.10.12 (negative Erledigung)
+- TOP 3.3.: Fahrbahnmarkierung in der Oberbiberger Straße zur Verhinderung des Parkens (positive Erledigung); Markierung des Fuß- u. Radwegs am U-Bahn-Aufgang Richtung Mangfallplatz (negative Erledigung); BA-Antrag Nr. 08-14 / B 04046 vom 19.06.12; Antwortschreiben des KVR vom 11.10.12
+- TOP 3.4.: Schaffung von Fahrradabstellmöglichkeiten für Kunden der Firma ALDI in der Pilgersheimer Straße; BA-Antrag Nr. 08-14 / B 04048 vom 19.06.12 (negative Erledigung)
+- TOP 3.5.: Die LHM wird aufgefordert, dem BA 18 Pläne zu unterbreiten, wie die Parkraumsituation zu Spitzenzeiten rund um den Tierpark verbessert werden könnte; BA-Antrag Nr. 08-14 / B 04055 vom 19.06.12; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 15.10.12 (neutrale Erledigung)
+- TOP 3.6.: Fahrradweg Geiselgasteigstraße - Abmarkierung des Fahrradwegs vom Gehweg zwischen "Bei den Tannen" und der Menterschwaigstraße; BA-Antrag Nr. 08-14 / B 04201 vom 21.08.12; Antwortschreiben des Baureferats vom 27.09.12 (positive Erledigung)
+- TOP 3.7.: Mangfallplatz - weitere Fahrradständer am südlichen U-Bahn-Aufgang; BA-Antrag Nr. 08-14 / B 04051 vom 19.06.12; Antwortschreiben des Baureferats vom 01.10.2012 mit der Bitte um Stellungnahme zur vorgeschlagenen Lösung (Stellplatzumwandlung für die Schaffung weiterer Fahrradstellplätze)
+- TOP 3.8.: Wettersteinplatz - Gehweg für die Straße Richtung Fromundstraße (zwischen Grünwalder Straße und Ecke Säbener Straße); BA-Antrag Nr. 08-14 / B 03505 vom 15.11.2011; Antwortschreiben des Baureferats vom 22.10.2012 mit der Bitte um Stellungnahme zum vorgeschlagenen Planungskonzept
+- TOP 3.9.: Hans-Mielich-Straße; Erinnerung an die Umgestaltung und Umsetzung der Tempo-30-Zone; BA-Antrag Nr. 08-14 / B 04204 vom 21.08.12; Konzept für die Umgestaltung der Hans-Mielich-Straße in Partizipation mit Bürgerinnen und Bürgern; BA-Antrag Nr. 08-14 / B 04203 vom 21.08.12; Hans-Mielich-Straße; Umbau für mehr Sicherheit für Fußgänger; BA-Antrag Nr. 08-14 / B 04234 vom 18.09.12; Antwortschreiben des Baureferats-Tiefbau vom 29.10.2012 mit der Bitte um Stellungnahme zum Vorschlag eines punktuellen Umbaus der Straße
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm; Bessere Ausrüstung der Ampelanlagen für Blinde (Ziffer 2); Empfehlung Nr. 02-08 / E 00895 der BÜV des Stadtbezirkes 03 - Maxvorstadt am 24.10.2007; Beschluss des Kreisverwaltungsausschusses vom 23.10.2012 (SB)
+- TOP 3.2.: Haltverbot in der Schönstraße im Bereich der Bushaltestelle Ludmillastraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels? Stadtratsantrag Nr. 08-14 / A 03659 vom 21.09.12; Sitzungsvorlage Nr. 08-14 / V 10392; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 10.10.2012 (VB) zu TOP 3.2.6.3 Hinweis / Ergänzung vom 22.10.12 zur Neufassung vom 18.10.12
+- TOP 3.1.: Verkehrssituation am Wettersteinplatz; Abdruck eines Bürgerschreibens vom 30.09.12 an Herrn Oberbürgermeister Ude mit der Bitte um Kenntnisnahme
+- TOP 3.2.: Vorfahrtsregelung in der Säbener Straße; Abdruck eines Bürgerschreibens an das KVR mit der Bitte um Kenntnisnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Hundefreie Wiese am Kuntersweg / Kennzeichnung der Wiese als Spiel- und Liegewiese; Bürgerantrag vom 30.07.2012; Bürgerantrag aus der Sitzung des BA 18 vom 21.08.12; Antwortschreiben des Baureferats-Gartenbau vom 04.10.12 (neutrale Erledigung)
+- TOP 3.2.: St.-Magnus-Str. 35 - Aufnahme der ortsbildprägenden Rotbuche in die Naturdenkmalliste; BA-Antrag Nr. 08-14 / B 04068 vom 19.06.12; Antwortschreiben der Unteren Naturschutzbehörde vom 02.10.2012 (negative Erledigung)
+- TOP 3.1.: Unterrichtungen der Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Geiselgasteigstraße 120; Bescheid vom 11.10.12 3.3.6.1.2 Anwesen Autharistraße 45; Bescheid vom 11.10.12 3.3.6.1.3 Anwesen Braunstraße 1; Bescheid vom 05.11.12 3.3.6.1.4 Anwesen Harthauser Str. 30; Bescheid vom 05.11.12
+- TOP 3.2.: Klimawandel und Hitzeinseln; Konsequenzen für die Dichte der Münchner Kernstadt? Stadtratsantrag Nr. 08-14 / A 03358 vom 29.05.12; Sitzungsvorlagen Nr. 08-14 / V 10521; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.12 (SB)
+- TOP 3.3.: Novellierung der Baumschutzverordnung (BaumschutzV); - Ergebnisse des Anhörungs- und Öffentlichkeitsverfahrens, - StR-Antrag Nr. 08-14 / A 01974 vom 15.11.10 - BA-Antrag Nr. 08-14 / B 04106 des BA 3 vom 10.07.12 - BA-Antrag Nr. 08-14 / B 04165 des BA 25 vom 31.07.12; Sitzungsvorlagen Nr. 08-14 / V 10503; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.2012 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen; Antrag des BA 1 Altstadt Lehel aus der Sitzung vom 16.10.12 mit der Bitte um Kenntnisnahme
+- TOP 3.1.: Erhöhung des Ballfanggitters der Freifläche des Fezis - Freizeitstätte Wettersteinplatz; BA-Antrag Nr. 08-14 / B 04196 vom 21.08.12; Antwortschreiben des Baureferats vom 23.10.12 (positive Erledigung)
+- TOP 3.2.: Sonnensegel für den Kinderspielplatz Hans-Mielich-/Gerhardstraße; BA-Antrag Nr. 08-14 / B 04197 vom 21.08.12; Antwortschreiben des Baureferats-Gartenbau vom 18.10.12 (negative Erledigung)
+- TOP 3.1.: Bericht zu REGSAM; Bericht Vertragszeitraum 2010 - 2012; REGSAM neu denken; Beschluss Vertragszeitraum 2013 - 2015; REGSAM - ein starkes Netzwerk für München; Sitzungsvorlage Nr. 08-14 / V 10073; Ergänzung vom 05.10.12 zum Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 09.10.12 (SB)
+- TOP 3.2.: Kinder entscheiden in ihrem Stadtteil; Sitzungsvorlage Nr. 08-14 / V 10288; Beschluss des Verwaltungs- u. Personalausschusses u. des Kinder- u. Jugendhilfeausschusses in der gemeinsamen Sitzung vom 09.10.12 (VB); Ergänzung vom 02.10.2012 und 09.10.2012
+- TOP 3.3.: Haushaltsplan 2013; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger"; Behandlung der Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 (SB+VB); Ergänzung vom 26.10.2012 3.4.6.3.1 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 10305 3.4.6.3.2 Stadtjugendamt; Sitzungsvorlage Nr. 08-14 / V 10309 3.4.6.3.3 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 10387 3.4.6.3.4 Zentrale; Sitzungsvorlage Nr. 08-14 / V 10337
+- TOP 3.4.: Mehrjahresinvestitionsprogramm (MIP) 2012 - 2016 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen u. Sportanlagen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 08-14 / V 10501; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 07.11.2012 (VB)
+- TOP 3.1.: Ausschreibung: "Kinderorte im Stadtteil sichtbar machen - Kindern eine Stimme geben!" - Neuer Stadtbezirk gesucht für 3. Pilotprojekt "Kindersommer im Stadtteil" (zwischen Weltspieltag und Weltkindertag 2013); Schreiben der Kinderbeauftragten der LHM vom 10.10.12
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Genehmigung und Aufstellung von Maibäumen und Feldkreuzen; Vollzug der Grünanlagensatzung im Stadtbezirk 18; Aufstellung und Belassung eines Maibaumes am Laurinplatz; Beschluss des BA 18 vom 20.11.2012
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeistes vom 26.11.07; hier: die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Zeitungsentnahmegeräte TZ und Münchner Merkur), Fromundstr. / Otkerstr., Fromundstr. 33, Naupliastr. / Mangfallplatz, Pilgersheimer Str. 32, Seybothstr. / Theodolindenstr., Soyerhofstr. / Brunnenweg, Wettersteinplatz / Grünwalder Str. 14; Beschluss des BA 18 vom 20.11.12
+- TOP 3.1.: Neubau des Hauses an der Tauernstraße; Beschlussentwurf für die Sitzung des Sozialausschusses am 06.12.12; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme zum Beschlussentwurf
+- TOP 3.2.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer; Zuleitung des AWM mit der Bitte um Stellungnahme zu folgenden Standorten: Agilolfingerstraße / Teutoburger Straße, Athener Platz / Säckingenstraße, Friedrich-Ebert-Straße / Oberbibergerstraße, Fromundstraße / Gufidauner Straße, Griechenplatz / Griechenstraße, Harlachinger Straße schräg gegenüber 1a, Harthauser Straße / Waldschmidtstraße, Lebscheestraße Ende, Mangfallplatz / Akeleistraße, Pilgersheimer Straße / Kupferhammerstraße, Säbener Straße, Kuntersweg, Schönstraße / Wilhelm-Kuhnert-Straße, Schyrenstraße / Claude-Lorrain-Straße
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse durch das Sozialreferat 3.5.6.2.1 Anwesen Josef-Vötter-Straße; Mitteilung vom 04.10.12
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW Pizzeria Sessanta, Zasinger Str. 2; Mitteilung vom 25.10.12 3.5.6.3.2 Bistro - Aral Tankstelle, Tegernseer Landstraße 174; Mitteilung vom 26.10.12
+- TOP 3.4.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016; Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung u. Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 9, 10 und 21; Sitzungsvorlagen Nr. 08-14 / V 10427; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.2012 (VB)
+- TOP 3.5.: Mehrjahresinvestitionsprogramm 2012 - 2016; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012 - 2016; Sitzungsvorlagen Nr. 08-14 / V 10454; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.2012 (VB)
+- TOP 3.6.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogramms 2010-2012 vom Referat für Stadtplanung u. Bauordnung zu verantwortenden Aktivitäten; Sitzungsvorlagen Nr. 08-14 / V 09670; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.2012 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Öffentlich-rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG für Märkte sowie Festsetzung einer Veranstaltung gem. § 69 GewO; hier: Christkindlmarkt auf dem Mangfallplatz vom 30.11.12 bis 02.12.12 (Aufbau am 29.11., Abbau am 03.12.12); Zuleitung des KVR vom 23.10.12 mit der Bitte um Stellungnahme bis 21.11.12
+- TOP 3.1.: Anschluss für Abwasser, Wasser und Strom für die städtische Grünanlage an der Oberbiberger Straße; BA-Antrag Nr. 08-14 / B 03784 vom 20.03.12; Antwortschreiben des Baureferats vom 18.04.12 und 23.10.12 zum Schreiben des BA 18 vom 29.08.12 (negative Erledigung) mit der Bitte um Stellungnahme zum Alternativvorschlag (Verbesserung der vorhandenen Strom-, Wasser- u. Abwasseranschlüsse an der Veranstaltungsfläche Candidplatz)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen; BA-Antrag Nr. 08-14 / B 03815 des BA 14 vom 27.03.12; BA-Antrag Nr. 08-14 / B 03878 des BA 8 vom 17.05.12; Schreiben des Direktoriums vom 19.10.12 mit der Bitte um Stellungnahme
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Keine Schließung der Toilettenanlage am U-Bahnhof Kolumbusplatz; BA-Antrag Nr. 08-14 / B 04211 vom 21.08.12; Antwortschreiben des Kommunalreferats vom 10.10.12 (negative Erledigung)
+- TOP 4.2.: Hans-Mielich-Platz - farbliche Gestaltung der Bänke; Schreiben des BA 18 vom 21.09.2012; Antwortschreiben des Baureferats vom 19.10.2012 (positive Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016; Unterrichtung der Stadtkämmerei vom 17.10.2012
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
