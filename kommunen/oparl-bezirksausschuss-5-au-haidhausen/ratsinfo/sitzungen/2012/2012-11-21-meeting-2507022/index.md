@@ -1,0 +1,53 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-11-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2507022
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2507022
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Theater in der Au e.V. Theaterstück "Der Besuch der alten Dame" vom 31.12.2012 - 15.03.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse naturindianer-kids Aufbau und Bemalung eines Tipis sowie Einweihung eines Bauwagens am 28.10.2012 (alternativ am Wochenende KW 44)
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .6.3: Sonstige Entscheidungen
+- TOP 1: (E) Absiedlung Paulaner und Nachnutzung: Außerordentliche Bürgerversammlung zur Neubebauung des Gebiets nach Absiedlung der Paulaner-Brauerei Empfehlung Nr. 08-14/ E 01250 der Bürgerversammlung des Stadtbezirkes 5 ? Au-Haidhausen BT Haidhausen vom 08.03.2012 Weitere außerordentliche Bürgerversammlung zum Thema ?Neubebauung des Gebiets nach Absiedlung der Paulaner Brauerei? noch vor Befassung des Stadtrats Empfehlung Nr. 08-14/ E 01367 der außerordentlichen Bürgerversammlung des Stadtbezirkes 5 ? Au-Haidhausen vom 22.05.2012 - <div>nach Antrag</div>
+- TOP 1.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 1.1.: Fahrradständer für das Maria-Theresia-Gymnasium
+- TOP 1.2.: Bäume für die Elsässer Straße
+- TOP 1.3.: Vorübergehende Nutzung von Brachflächen für Gemeinschaftsgärten in Haidhausen
+- TOP 1.4.: Klinikum rechts der Isar - Durchlässigkeit für Radfahrer und Fußgänger
+- TOP 1.5.: Bürger- Einwohner- und sonstige Versammlungen bei örtlich begrenzten Themen in der Nähe abhalten
+- TOP 1.6.: Anfrage zur Hortplatzsituation an der Flurschule und am Orleansplatz 13
+- TOP 1.7.: Beibehaltung und Ausbau der Hortgruppen an der Flurschule von derzeit 2 Hortgruppen bis zur erfolgten Eröffnung eines Ganztageszuges an der Grundschule Flurstraße; Überleitung der im MIP 3 veranschlagten Investitionssumme zum Ausbau des Ganztagesangebotes an der Flurschule in das MIP 1
+- TOP 1.8.: Kita Welfenstraße
+- TOP 1.8.2: Reaktionen auf BA-Schreiben
+- TOP 1.8.3: Sonstige Unterrichtungen
+- TOP 1.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.1.: Regsam
+- TOP 1.2.: Kinder und Jugend
+- TOP 1.3.: Behinderte und Barrierefreiheit
+- TOP 1.4.: Ausländer und Flüchtlinge
+- TOP 1.5.: Frauen und Mädchen
+- TOP 1.6.: Internet
+- TOP 1.7.: Baumschutz
+- TOP 1.1.: Berichte von wahrgenommenen Terminen
+- TOP 1.2.: Nächste UA-Sitzungen
+- TOP 1.3.: Nächste BA-Sitzung
+- TOP 1.4.: Sonstige Termine
+- TOP 1.1.: Entscheidungen
+- TOP 1.2.: Anhörungen
+- TOP 1.3.: Unterrichtungen
