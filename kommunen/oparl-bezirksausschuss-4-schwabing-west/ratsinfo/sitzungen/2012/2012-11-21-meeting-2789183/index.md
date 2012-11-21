@@ -1,0 +1,65 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2789183
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2789183
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: (E) Budget der Bezirksausschüsse Kulturteam im Ackermannbogen e.V. Vorweihnachtliche Aufführungen des Figurentheaters am 08./15.12.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 79 ?talk about heads?: Kleiderständer
+- TOP .2.: Schleißheimer Str. 124-126, REWE: Neugestaltung der Warenstellagen
+- TOP .3.: Hohenzollernstr. 54, ?Lanai Home & Lifestyle?: a) Postkartenständer b) 2 mobile Fahrradständer
+- TOP .4.: Verkaufseinrichtungen für verschiedene Tageszeitungen: 17 Standorte (nachträgliche Genehmigung bzw. Umstellen schon längst aufgestellter Kästen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.2.: Kultur
+- TOP .1.: Kunstprojekt ?Play Me, I'm Yours? vom 2. bis 21. Mai 2013 stadtweit auf verschiedenen Plätzen u.a. auf dem Hohenzollernplatz
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: SPD-Fraktion: Erweiterung der Erhaltungssatzung ?Pündterplatz? als Konkretisierung des Bürgerversammlungsantrags vom 11.10.2012
+- TOP .2.1.: Planen
+- TOP .1.: Therese-Studer-Straße: Neubau einer Kindertagesstätte - Vorbescheid
+- TOP .2.: Zittelstr. 1-3: Dachranderhöhung wegen energetischer Dachsanierung sowie Umbau der Flachdächer zu Walmdach (Zittelstr. 1) bzw. Pultdach (Zittelstr. 3)
+- TOP .3.: Adelheidstr. 21: DG-Ausbau, Liftanbau, Erweiterung Balkone (vgl. dazu TOP E 2.1.1)
+- TOP .4.: Herzogstr. 121: Einbau von Aufzügen und DG-Ausbau (Herzogstr. 121+123 / Hiltenspergerstr. 61-67) ? Vorbescheid
+- TOP .5.: Bauerstr. 21: Nutzungsänderung ehemaliger Hobbyräume in eine Wohnung mit Anbau von Terrasse und Wintergarten
+- TOP .6.: Hohenzollernstr. 158: Neuerrichtung Dachgeschoss mit Ausbau zu Wohnraum (1.+2. DG), Errichtung eines Personenaufzugs, WDVS (Tektur)
+- TOP .7.: Adams-Lehmann-Straße: Neubau eines Wohngebäudes mit 56 WE, Gemeinschaftsraum und Tiefgarage (Schwabing Hoch4)
+- TOP .8.: Isabellastr. 38: Neubau einer Wohnanlage mit Tiefgarage ? Vorbescheid
+- TOP .9.: Georg-Birk-Straße: Neubau einer Wohnanlage (48 WE) mit Gaststätte und Tiefgarage
+- TOP .10.: Neubau eines Wohn- und Bürogebäudes (RGB) mit Tiefgarage und Außenaufzug (VGB)
+- TOP .11.: Konradstr. 11 1. Erweiterung einer Atelierwohnung sowie Errichtung einer Wohnung im DG-Speicher 2. Anbau eines Außenaufzugs und Dämmung des Dachs
+- TOP .12.: Ackermannbogen: Gestaltung der Urbanen Mitte mit Stadtplatz und öffentlichen Grünflächen im 4. Bauabschnitt: - Ergebnisse des Grundlagenworkshops, - Durchführung eines Planungsworkshops Anhörung zur Beschlussvorlage für den Bauausschuss am 11.12.2012 (vgl. auch TOP E 2.1.5)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Verschiedene Anliegen zum Thema Straßenverkehr (Teil 1 in der Sitzung 10/12) 1.1.1 Aufhebung des Radwegs vor den Häusern Karl-Theodor-Str. 47-53 (Bonner Platz) 1.1.2 Durchfahrtsverbot für Radfahrer an Baustelleneinrichtungen auf Gehwegen 1.1.3 Parallele Rad- und Fußwege nur bei einer Mindestbreite von 3,5 m 1.1.4 Vorrang für Fußgänger auf gemeinsam genutzten Wegen 1.1.5 Einbahnstraßen nicht ohne Mittelmarkierung für den gegenläufigen Radverkehr freigeben 1.1.6 Schutzstreifen für Radfahrer nicht neu anlegen, vorhandene auflassen
+- TOP .2.: Bürger: Gefährlicher Geh- und Fahrradweg in der Karl-Theodor-Straße
+- TOP .3.: Bürger: Umfangreiche Geschwindigkeitskontrollen durch die Polizei
+- TOP .4.: Bürgerin: Lkw parken im Wohngebiet Ackermannbogen
+- TOP .5.: FDP-Fraktion: Untertunnelung des Englischen Gartens nach dem Konzept Grub/Lejeune
+- TOP .2.1.: Umwelt
+- TOP .1.: Adelheidstr. 21: Fällung einer Eberesche und eines Holunders in Zusammenhang mit dem Bauvorhaben unter TOP D 2.3
+- TOP .2.: Borschtallee 30: Fällung einer Birke, Rückschnitt einer Esche
+- TOP .3.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer: 9 Standorte im Stadtbezirk
+- TOP .4.: Hornstr. 13-15: Rückschnitt an drei Pappeln und drei Tannen
+- TOP .5.: Gestaltung der Urbanen Mitte mit Stadtplatz und öffentlichen Grünflächen im 4. Bauabschnitt: - Ergebnisse des Grundlagenworkshops, - Durchführung eines Planungsworkshops Anhörung zur Beschlussvorlage für den Bauausschuss am 11.12.2012 (vgl. auch TOP D 2.12)
+- TOP .2.2.: Verkehr
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Baumaßnahmen zur Verbesserung des Radverkehrs zwischen Schleißheimer Straße zwischen Elisabeth- und Maßmannstraße sowie Baumpflanzungen
+- TOP .3.: Baumaßnahmen zur Verbesserung des Radverkehrs in der Karl-Theodor-Straße zwischen Belgradstraße und Bonner Platz (Projektplanung)
+- TOP .1.: Änderung der BA-Satzung in Zusammenhang mit der Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse
+- TOP .2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen Anhörung des Direktoriums zu Anträgen der Bezirksausschüsse 14 Berg am Laim und 8 Schwanthalerhöhe
+- TOP .1.: Sperrung des direkten Überwegs für Radfahrer von der Infanteriestraße in die Ackermannstraße sofort rückgängig machen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
