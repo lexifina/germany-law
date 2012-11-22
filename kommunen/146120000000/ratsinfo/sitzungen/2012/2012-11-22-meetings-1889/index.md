@@ -1,0 +1,56 @@
+# 47. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-11-22T16:00:00+01:00
+- Ende: 2012-11-22T22:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1889
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1889
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_11_22 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00115204.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Einwohnerinnen- und Einwohnerfragestunde
+- TOP 3.1: Finanzmittel städtische Krankenhäuser - erledigt
+- TOP 3.2: Potschappler Straße - Sanierung und Verkehrsanbindung - erledigt
+- TOP 3.3: Kita Objekt Burgenlandstraße - erledigt
+- TOP 3.4: Bauliche Nutzung des Grundstückes Hauptstraße 18a/26a für Kita-Neubauten - erledigt
+- TOP 3.5: Verpflichtungen der Stadt aufgrund von Bürgschaften - erledigt
+- TOP 3.6: Baumaßnahme am Zschierener See - erledigt
+- TOP 3.7: DREWAG-Bädergesellschaft - erledigt
+- TOP 3.8: Längere Öffnungszeiten der Wochenmärkte - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 6: Umbesetzung im Ortsbeirat Leuben - gewählt
+- TOP 7: Der 1. Dresdner Bildungsbericht 2012. - Zustimmung mit Änderung
+- TOP 8: Umsetzung von Stadtratsbeschlüssen: Keine Vollsperrung der Albertbrücke für Kraftfahrzeuge - Verkehrschaos bei der Brückensanierung verhindern - Vertagung
+- TOP 9: Satzung zur Änderung der Zweitwohnungssteuersatzung - Zustimmung
+- TOP 10: Verkauf des Grundstücks Flurstück 1478/102 Gemarkung Altstadt I, Prager Carree - Zustimmung mit Änderung
+- TOP 11: Wahl von Friedensrichterinnen und Friedensrichtern für die Schiedsstellen Blasewitz-Nord und Leuben der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Jahresabschluss 2011 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 13: Jahresabschluss 2011 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 14: Erarbeitung eines Konzeptes zur Dresdner Erinnerungskultur - Zustimmung mit Änderung
+- TOP 15: "Stiftung Kunst & Musik für Dresden" - Zustimmung mit Änderung
+- TOP 16: Vorhaben- und Erschließungsplan Nr. 563, Dresden-Altstadt I, Prager Straße/Ost, UFA-Kino-Zentrum - Zustimmung
+- TOP 17: Bebauungsplan Nr. 123.2 A, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platz - Zustimmung
+- TOP 18: Bebauungsplan Nr. 123.4, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platz - Zustimmung
+- TOP 19: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 20: Bebauungsplan Nr. 368, Dresden-Neustadt Nr. 35, Quartier Fabrice - Zustimmung
+- TOP 21: Weiterführung des Ausbaus der Vereinigten Weißeritz - punktweise Zustimmung
+- TOP 22: Satzung zur Änderung der Satzung über die Erhebung der Gebühren für die Abfallwirtschaft (Abfallwirtschaftsgebührensatzung) - Zustimmung mit Änderung
+- TOP 23: Neufassung der Satzung der Landeshauptstadt Dresden für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofssatzung) - Verweisung
+- TOP 24: Den 60. Jahrestag des Volksaufstandes vom 17. Juni 1953 in Dresden würdevoll gestalten - Zustimmung mit Änderung
+- TOP 25: Sicherung der Mobilität für Einwohnerinnen und Einwohner mit geringem Einkommen - Fortführung des Sozialtarifes - Ersetzung
+- TOP 26: Stopp des Ausverkaufs der Dresdner Wohnungsbestände der staatseigenen Treuhandliegenschaftsgesellschaft GmbH und Überführung in das Eigentum von kommunalen oder genossenschaftlichen Wohnungsbaugesellschaften - zurückgezogen
+- TOP 27: Einkaufszentrum Elbe-Park - Einhaltung planungsrechtlicher Vorgaben gewährleisten, Verstöße ahnden - punktweise Ablehnung
+- TOP 28: Bewahrung des historischen Gebietscharakters in Blasewitz und Striesen - Vertagung
+- TOP 29: Kommunale Wohnungsbauförderung - Vertagung
+- TOP 30: Auf dem Weg zur "europäischen Energiesparstadt" – Dresdens Teilnahme am European Energy Award® sichern - Vertagung
+- TOP 31: Betreiberkonzeption für den Kulturpalast sowie Schloss Albrechtsberg und MESSE DRESDEN - Vertagung
+- TOP 35: ausgereichte Vorlagen
+- TOP 35.1: Informationsvorlage über angemeldete und eingeordnete Mehrbedarfe der Ämter zum Doppelhaushalt 2013/2014 - zur Kenntnis genommen
