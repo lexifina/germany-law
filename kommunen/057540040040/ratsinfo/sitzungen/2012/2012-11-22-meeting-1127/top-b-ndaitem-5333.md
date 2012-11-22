@@ -1,0 +1,6 @@
+# TOP B.: Nichtöffentliche Sitzung
+
+- Sitzung: Betriebsausschuss (15. Sitzung) (2012-11-22)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/5333
