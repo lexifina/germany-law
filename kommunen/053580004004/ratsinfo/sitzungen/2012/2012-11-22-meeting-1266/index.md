@@ -1,0 +1,51 @@
+# Gemeinderat (18. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2012-11-22T18:10:00+01:00
+- Ende: 2012-11-22T22:25:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY8eqJ0cWZXgkVV_nrM1dbc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1266
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ1KSB64--cJ_d5-z6OoGln206aqx03Z4tiZbSLldom1/Bekanntmachung_Gemeinderat_22.11.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQQ4lvT1eT1Ss8KtUPnUcTXoKm5RmYEeHGWRIGbgwWWP/Oeffentliche_Niederschrift_Gemeinderat_22.11.2012.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 08.11.2012 -öffentlicher Teil-
+- TOP 3.: Errichtung einer gemeinsamen Gesamtschule mit der Stadt Linnich - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Bericht des Ombudsmannes zum Thema "Gleichbehandlung bzw. Diskriminierung" - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Entgeltordnung für die Sporthallen der Gemeinde Aldenhoven - 22 Ja-Stimme(n), 1 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 6.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 6.1: Prüfung des Jahresabschlusses für das Haushaltsjahr 2011 - 21 Ja-Stimme(n), 1 Nein-Stimme(n), 3 Stimmenthaltung(en)
+- TOP 6.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2011
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Ermächtigungsübertragungen nach § 22 GemHVO - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Verabschiedung Haushalt / Sanierungsplan 2013 - 24 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Stimmenthaltung
+- TOP 7.3: Stellenplan 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: Satzung über die Verringerung der Zahl der zu wählenden Mitglieder in den Wahlbezirken und aus den Reservelisten der Gemeinde Aldenhoven (Kommunalwahlsatzung) - 18 Ja-Stimme(n), 7 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Bauleitplanung
+- TOP 9.1: Bauleitplanung 37. Änderung des Flächennutzungsplans – Windenergiekonzentrationszone II – 40. Änderung des Flächennutzungsplans – Windenergiekonzentrationszone III – hier: Integration der 37. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven in die 40. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 9.2: Aufstellung des Landschaftsplans Aldenhoven / Linnich-West hier: Beteiligung der Träger öffentlicher Belange gemäß § 27a Landschaftsgesetz NRW (LG) - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Ausführung des Haushalts
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 08.11.2012 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 2.1: Überörtliche Prüfung der Informationstechnik der Gemeinde Aldenhoven durch die Gemeindeprüfanstalt (GPA) - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Erlass einer Gremiensatzung hier: 7. Änderung der Geschäftsordnung und 6. Änderung der Zuständigkeitsordnung - 20 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Stimmenthaltung(en)Die FWG-Fraktion wird zum Thema „Neubesetzung von Gremien“, hier: „Abwahl/Neuwahl des  Vertreters der Gemeinde in der Gesellschafterversammlung der EntwicklungsGmbH indeland“, einen schriftlichen Ant
+- TOP 4.: Berichte aus den Gremien
+- TOP 5.: Vermietungen, Verpachtungen
+- TOP 5.1: Verpachtung eines gemeindeeigenen Grundstückes in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Vertragsangelegenheiten
+- TOP 6.1: Entsorgungsdienstleistungen in der Gemeinde Aldenhoven; Vertragsverlängerungen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Vergabe der Stromkonzession zum 1. März 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
