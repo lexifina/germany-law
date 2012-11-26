@@ -1,0 +1,6 @@
+# TOP 1.: Niederschrift vom 21.06.2012
+
+- Sitzung: Ausschuss für Tiefbau und Abwasser (2. Sitzung) (2012-11-26)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/2362
