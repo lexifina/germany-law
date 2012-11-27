@@ -1,0 +1,84 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-11-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2561483
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2561483
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Aufstellung von Zeitungsverkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Hansjakobstraße - Neubau einer Wohnanlage (28 WE) mit Tiefgarage
+- TOP 3.1.1.2.: Hansjakobstraße - Neubau einer Wohnanlage (84 WE) mit Tiefgarage
+- TOP 3.1.1.3.: Truderinger Str. - Neubau zweier Wohngebäude mit insg. 15 Wohneinheiten
+- TOP 3.1.1.4.: Ampfingstraße 57 - Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 3.1.1.5.: Berg-am-Laim-Str. 125 - Neubau eines Hotels mit 168 Zimmern und einer Tiefgarage
+- TOP 3.1.1.6.: Maikäfersiedlung ? Spielplatz im Bereich der öffentlichen Grünanlage - <div></div>
+- TOP 3.1.1.7.: Boden- und Bauschuttrecycling und Bodenbörsen - Potentielle Standorte in München
+- TOP 3.1.1.8.: "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt" - Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" - A) Eckdatenbeschluss zur Durchführung eines städtebaulichen Wettbewerbs B) Bebauungsplan mit Grünordnung Nr. 2079 - Grafinger Straße (südlich), Innsbrucker Ring (westlich), Westerhamer Straße (nordöstlich) - Aufstellungsbeschluss - C) Antrag Nr. 08-14 / B 01837 des Bezirksausschusses 14, Berg am Laim vom 26.01.2010
+- TOP 3.1.2.1.: Neubau und Austausch von Lichtsignalanlagen
+- TOP 3.1.2.2.: Fußgängerüberweg an der St.-Veit-Straße bei den Grünstreifen
+- TOP 3.1.2.3.: Barrierefreie Erschließung der Westseite des U-Bahnhofs Michaelibad - <div></div>
+- TOP 3.2.1.: Ideeller Christkindlmarkt am 09.12.2012 am "Grünen Markt"
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Benennung von Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse
+- TOP 3.5.2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 3.6.1.: 3.6.1. Ampfingstr. 57 // 3.6.2. Truderinger Str. 130 // 3.6.3. Kreillerstraße 19 // 3.6.4. Baumkirchner Str. 62 // 3.6.5. Hansjakobstraße 91 // 3.6.6. Talerweg 8a // 3.6.7. Höhenstädter Str. 2 // 3.6.8. Gustav-Schwab-Str. 3 //
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 - Stadtbezirk 14
+- TOP 4.1.1.3.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 - Investitionen des Planungsreferats
+- TOP 4.1.1.4.: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 - Siedlungsmaßnahmen
+- TOP 4.1.2.1.: Beschleunigung der Buslinien 144 und 145
+- TOP 4.1.2.2.: Hausnummernhinweise an den Zufahrten zur Halserspitzstraße
+- TOP 4.1.2.3.: Antrag auf Verlegung der Kfz-Verwahrstelle Thomas-Hauser-Straße 19
+- TOP 4.1.2.4.: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt
+- TOP 4.1.3.1.: Vollzug der Wassergesetze und des Gesetzes über die Umweltverträglichkeitsprüfung; Planfeststellungsverfahren für die Freilegung und den naturnahen Ausbau des Hachinger Bachs zwischen der Kampenwandstraße und dem Hüllgraben
+- TOP 4.1.3.2.: Prüfungsantrag Renaturierung des Hachinger Bachs auf Truderinger und Daglfinger Gebiet
+- TOP 4.1.3.3.: Flugverkehr im Münchner Osten - Antwortschreiben des Referats f. Gesundheit & Umwelt
+- TOP 4.1.3.4.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten - Sitzungsvorlage Nr. 08-14 / V 09670
+- TOP 4.1.3.5.: Klimawandel und Hitzeinseln - Konsequenzen für die Dichte der Münchner Kernstadt? - Sitzungsvorlage Nr. 08-14 / V 10521
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Stadtteiltreff Mag's & More - Ausflug Schliersee & Sommerfest
+- TOP 4.5.2.: AKA e.V. - Kurzbericht "Spielewoche in der Maikäfersiedlung vom 02.-06.07.2012"
+- TOP 4.6.1.: Novellierung der Baumschutzverordnung - Sitzungsvorlage Nr. 08-14 / V 10503
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
