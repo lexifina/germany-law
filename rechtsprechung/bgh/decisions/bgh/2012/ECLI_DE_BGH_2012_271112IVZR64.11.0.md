@@ -1,0 +1,139 @@
+---
+ecli: "ECLI:DE:BGH:2012:271112IVZR64.11.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-04"
+aktenzeichen: "IV ZR 64/11"
+decided: "2012-11-27"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2012&Sort=1&Seite=107&nr=62567&anz=3531&pos=3227&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-04_NA_2012-11-27_IV_ZR_64_11_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0309.md", "germany/bund/acts/vvg_2008/0176.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0543.md", "germany/bund/acts/zpo/0552a.md"]
+---
+
+# Bundesgerichtshof, IV ZR 64/11 vom 2012-11-27
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                   BESCHLUSS
+IV ZR 64/11
+                          vom
+
+                   27. November 2012
+
+                   in dem Rechtsstreit
+
+                                     -2-
+
+
+
+
+          Der IV. Zivilsenat des Bundesgerichtshofs hat durch die Vorsitzende   Richterin   Mayen,   die   Richter   Wendt,   Felsch,   die   Richterin
+    Harsdorf-Gebhardt und den Richter Dr. Karczewski
+
+
+    am 27. November 2012
+
+
+    beschlossen:
+
+
+          Die Revision der Beklagten gegen das Urteil des Landgerichts München I - 30. Zivilkammer - vom 3. März 2011
+          wird zurückgewiesen.
+
+
+          Die Beklagte hat die Kosten des Revisionsverfahrens zu
+          tragen.
+
+
+          Streitwert: 1.346,18 €
+
+
+
+
+                                     Gründe:
+
+
+1         Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil die Voraussetzungen für die Zulassung der Revision nicht vo rliegen (§ 543 Abs. 2 Satz 1 ZPO) und das Rechtsmittel darüber hinaus
+    keine Aussicht auf Erfolg bietet. Zur Begründung wird auf den Beschluss
+    vom 12. September 2012 Bezug genommen (§ 552a Satz 2, § 522 Abs. 2
+    Satz 2 und 3 ZPO). Das Vorbringen der Beklagten im Schriftsatz vom
+    12. November 2012 hat der Senat berücksichtigt, jedoch nicht für erhe blich gehalten. Ergänzend ist zu bemerken:
+
+                                    -3-
+
+
+
+
+2         1. Die Revision hat in der Sache keine Aussicht auf Erfolg, weil die
+    Beklagte für den hier einschlägigen Fall der Umwandlung in eine be itragsfreie Versicherung in § 6 Abs. 4 der Allgemeinen Bedingungen für
+    die kapitalbildende Lebensversicherung keinen Stornoabzug vorgesehen
+    hat. Vielmehr ist dort lediglich bestimmt, dass der Rückkaufswert sich um
+    ausstehende Forderungen (z.B. rückständige Beiträge) vermindert. A nders als in Absatz 3 bei der Kündigung fehlt eine ausdrückliche Regelung, dass der Rückkaufswert zusätzlich noch um einen als angemessen
+    angesehenen Abzug vermindert wird. Soweit Absatz 4 den Begriff des
+    Rückkaufswerts verwendet, wird sich der um Verständnis bemühte
+    durchschnittliche Versicherungsnehmer zur näheren Bestimmung dieses
+    Begriffs an Absatz 3 orientieren. Dort wird bezüglich des Rückkaufswerts
+    ausdrücklich auf § 176 Abs. 3 VVG a.F. verwiesen. Das Gesetz unterscheidet in § 176 VVG a.F. gerade ausdrücklich zwischen dem Rückkaufswert in Absatz 3 sowie dem Stornoabzug in Absatz 4.
+
+
+3         Auch im weiteren Text von § 6 Abs. 3 der Allgemeinen Bedingungen für die kapitalbildende Lebensversicherung wird entsprechend dieser
+    gesetzgeberischen Wertung der Rückkaufswert bestimmt als der nach
+    den anerkannten Regeln der Versicherungsmathematik für den Schluss
+    der laufenden Versicherungsperiode berechnete Zeitwert. Erst anschli eßend wird er vermindert um den als angemessen angesehenen Abzug in
+    Höhe von 1% der Differenz zwischen der Versicherungssumme und dem
+    Deckungskapital zum Zeitpunkt der Kündigung. Eine derartige Abzugsregelung fehlt bei der Berechnung der beitragsfreien Versicherungssumme
+    in Absatz 4. Der durchschnittliche Versicherungsnehmer muss bei au fmerksamer Durchsicht der Absätze 3 und 4 mithin nicht davon ausgehen,
+    dass auch bei der Umwandlung in eine beitragsfreie Versicherung ein
+    Abzug, wie in Absatz 3 vorgesehen, vorgenommen wird.
+
+                                    -4-
+
+
+
+
+4         2. Der Senat hält ferner an seiner bereits mit Urteil vom 12. Oktober 2005 begründeten Auffassung fest, dass im Falle einer unwi rksamen
+    Vereinbarung eines Stornoabzugs dieser entfällt und kein Anspruch des
+    Versicherers auf die Vornahme eines derartigen Abzugs besteht (IV ZR
+    162/03, BGHZ 164, 297, 313). Gründe, von dieser gefestigten Rechtsprechung des Senats abzuweichen, bestehen nicht. § 174 Abs. 4 und
+    § 176 Abs. 4 VVG a.F. bestimmen unmissverständlich, dass der Versicherer zu einem Abzug nur berechtigt ist, wenn er vereinbart und ang emessen ist. Fehlt es an der wirksamen Vereinbarung eines Abzugs,
+    kommt dieser nicht in Betracht. Für eine ergänzende Vertragsauslegung
+    besteht daher anders als bei der Verrechnung der Abschlusskosten ke ine Veranlassung.
+
+
+5         Es geht auch nicht darum, dass die Beklagte zu Lasten der Vers icherungsnehmer, die den Vertrag zu Ende führen, verpflichtet wäre, an
+    die den Vertrag vorzeitig beendenden Versicherungsnehmer zusätzlich
+    zum Rückkaufswert einen Stornoabzug auszuzahlen. Vielmehr ist die
+    Beklagte umgekehrt nur berechtigt, einen Stornoabzug vorzunehmen,
+    wenn dieser vertraglich wirksam vereinbart ist. Ist dies der Fall, müssen
+    Versicherungsnehmer, die den Vertrag gleichgültig zu welcher Zeit vo rzeitig stornieren, einen derartigen Abzug hinnehmen. Anderenfalls
+    kommt er nicht in Betracht. Ein Ausgleich zwischen den Interessen de rjenigen Versicherungsnehmer, die den Vertrag vorzeitig stornieren, sowie denjenigen, die ihn planmäßig zu Ende führen, kann jedenfalls nicht
+    dazu führen, dass im Falle einer vorzeitigen Vertragsbeendigung ein
+    nicht zulässiger Stornoabzug entgegen § 174 Abs. 4, § 176 Abs. 4 VVG
+    a.F. doch vorgenommen wird.
+
+                                   -5-
+
+
+
+
+6         3. Entgegen der Auffassung der Revision muss dem Versicherungsnehmer gemäß § 309 Nr. 5b BGB ferner der Nachweis eingeräumt
+    werden, dass der Stornoabzug in geringerer Höhe als vorgesehen anz usetzen ist bzw. vollständig zu entfallen hat (Senatsurteil vom 25. Juli
+    2012 - IV ZR 201/10, VersR 2012, 1149 Rn. 64, zur Veröffentlichung in
+    BGHZ vorgesehen). Eine derartige Regelung enthalten § 6 Abs. 3 und
+    Abs. 4 der Allgemeinen Bedingungen für die kapitalbildende Lebensve rsicherung nicht.
+
+
+
+
+    Mayen                       Wendt                         Felsch
+
+
+            Harsdorf-Gebhardt             Dr. Karczewski
+
+
+
+    Vorinstanzen:
+    AG München, Entscheidung vom 20.04.2010 - 274 C 19736/09 -
+    LG München I, Entscheidung vom 03.03.2011 - 30 S 9151/10 -
