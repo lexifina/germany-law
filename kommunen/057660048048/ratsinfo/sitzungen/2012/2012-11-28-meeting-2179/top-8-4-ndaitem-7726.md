@@ -1,0 +1,6 @@
+# TOP 8.4: Herabsetzung der Geschwindigkeitsbegrenzung an der B66 bis zum Eggeweg
+
+- Sitzung: Ausschuss für Straßen, Plätze und Verkehr (21. Sitzung) (2012-11-28)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/7726
