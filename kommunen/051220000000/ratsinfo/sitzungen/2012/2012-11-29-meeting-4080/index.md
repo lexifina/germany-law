@@ -1,0 +1,58 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-11-29T17:00:00+01:00
+- Ende: 2012-11-29T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYdFX8859Z8LALp80XDY-cU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4080
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXu6SPb91mlE6bYSa8LLS4dN1Q_HW_GUQLQx2V-uAdGP/Oeffentliche_Niederschrift_Beteiligungsausschuss_29.11.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 22. Sitzung des Beteiligungsausschusses am 20.09.2012
+- TOP 3: Protokoll über die gemeinsame Sitzung des Beteiligungsausschusses und des Haupt- und Personalausschusses am 27.09.2012
+- TOP 4: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2011
+- TOP 6: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2013
+- TOP 7: Wirtschaftsplan 2013 der Technischen Betriebe Solingen
+- TOP 8: Wirtschaftsplan 2013 der Technischen Betriebe Solingen
+- TOP 9: VRR - Konkretisierung der Finanzierungsübertragung
+- TOP 10: Änderung des Gesellschaftsvertrages der Stadtwerke Solingen GmbH
+- TOP 11: Verschiedenes
+- TOP 12: Sachstand zur Vermarktung der Hallenbäder Birkerstraße und Sauerbreystraße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 22. Sitzung des Beteiligungsausschusses am 20.09.2012
+- TOP 3: Protokoll über Fortsetzung der 22. Sitzung des Beteiligungsausschusses am 27.09.2012
+- TOP 4: Protokoll über die gemeinsame Sitzung des Beteiligungsausschusses und des Haupt- und Personalausschusses am 27.09.2012
+- TOP 5: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6: Bestellung eines Wirtschaftsprüfers
+- TOP 7: Wirtschaftsplan 2013 der Entsorgung Solingen GmbH
+- TOP 8: Wirtschaftsplan 2013 der Entsorgung Solingen GmbH
+- TOP 9: Vorberatung von Gesellschafterbeschlüssen der Altenzentren der Stadt Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 10: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 11: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 12: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 13: Vorberatung der Gesellschafterversammlung der Kunstmuseum Solingen Betriebsgesellschaft mbH am 10.12.2012
+- TOP 14: Vorberatung eines Gesellschafterbeschlusses der Städtische Musikschule Solingen GmbH im schriftlichen Umlaufverfahren
+- TOP 15: Vorberatung von Gesellschafterbeschlüssen der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 16: Vorberatung von Gesellschafterbeschlüssen der Bergischen Entwicklungsagentur GmbH
+- TOP 17: Vorberatung von Gesellschafterbeschlüssen der Bergischen Entwicklungsagentur GmbH
+- TOP 18: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) im schriftlichen Umlaufverfahren
+- TOP 19: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG sowie der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 20: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG sowie der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 21: Vorberatung von Gesellschafterbeschlüssen der Gründer- und Technologiezentrum Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 22: Vorberatung von Gesellschafterbeschlüssen der Solinger Bädergesellschaft mbH (SBG) im schriftlichen Umlaufverfahren
+- TOP 23: Vorberatung von Gesellschafterbeschlüssen der Stadtwerke Solingen GmbH (SWS GmbH) im schriftlichen Umlaufverfahren
+- TOP 24: Vorberatung von Gesellschafterbeschlüssen der Stadtwerke Solingen GmbH im schriftlichen Umlaufverfahren
+- TOP 25: Potentialanalyse/Restrukturierungsprojekt im Verkehrsbetrieb Stadtwerke Solingen GmbH
+- TOP 26: Vorberatung von Gesellschafterbeschlüssen der Beteiligungsgesellschaft Stadt Solingen mbH (BSG) im schriftlichen Umlaufverfahren
+- TOP 27: Vorberatung von Gesellschafterbeschlüssen der Beteiligungsgesellschaft Stadt Solingen mbH (BSG) im schriftlichen Umlaufverfahren
+- TOP 28: Verschiedenes
+- TOP 29: Beantwortung einer Anfrage der CDU-Fraktion vom 02.11.12
