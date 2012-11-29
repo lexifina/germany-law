@@ -1,0 +1,6 @@
+# TOP 16.: Auftragsvergabe: Barrierefreier Ausbau diverser Bushaltestellen im Stadtgebiet Kerpen
+
+- Sitzung: Bau- und Feuerschutzausschuss (16. Sitzung) (2012-11-29)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/38914
