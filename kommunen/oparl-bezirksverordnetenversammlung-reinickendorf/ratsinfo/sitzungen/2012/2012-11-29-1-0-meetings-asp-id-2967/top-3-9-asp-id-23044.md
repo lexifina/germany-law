@@ -1,0 +1,8 @@
+# TOP 3.9: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-39B (Schulzendorfer Straße), für die Grundstücke Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/ Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66, 68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee.
+
+- Sitzung: 8. öffentliche Sitzung des Ausschusses für Bauwesen und Stadtplanung (2012-11-29)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=23044
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=23044
