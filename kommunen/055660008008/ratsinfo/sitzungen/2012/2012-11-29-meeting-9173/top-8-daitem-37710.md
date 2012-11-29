@@ -1,0 +1,6 @@
+# TOP 8.: Allgemeine Umweltangelegenheiten
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (52. Sitzung) (2012-11-29)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37710
