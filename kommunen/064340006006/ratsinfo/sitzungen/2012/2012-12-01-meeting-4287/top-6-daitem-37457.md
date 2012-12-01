@@ -1,0 +1,7 @@
+# TOP 6: Erhöhung der Friedhofsgebühren Anlagen
+
+- Sitzung: Haupt-, Finanz- und Petitionsausschuss (13. Sitzung) (2012-12-01)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37457
+- Ergebnis: Einstimmige Zustimmung, 9 Ja
