@@ -1,1 +1,1 @@
-# Polizeiverordnung über die öffentliche Sicherheit vom 27. September 1994
+# Polizeiverordnung über die öffentliche Sicherheit vom 23. Oktober 2012
