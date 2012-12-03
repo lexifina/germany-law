@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-12-03T15:00:00+01:00
+- Ende: 2012-12-03T15:50:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5520
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5520
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00186926.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00186926.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00186926.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage Bü90/Grü: BAMBI-Stadt Düsseldorf? - beantwortet
+- TOP 3.2: Anfrage SPD: Vorzeitige Darlehenstilgungen bei städtischen Tochtergesellschaften und Beteiligungen - beantwortet
+- TOP 4: Jahresabschluss und Lagebericht 2011 des Amtes 16 - einstimmig beschlossen
+- TOP 5: Amt 16 - Wirtschaftsplan 2013 - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2011 und Lagebericht 2011 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 7: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2013 - - einstimmig beschlossen
+- TOP 8: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - einstimmig beschlossen
+- TOP 9: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - einstimmig beschlossen
+- TOP 10: Entleerung, Reinigung und Kontrolle von Fettabscheideranlagen zum Schutz der öffentlichen Abwasserbe - einstimmig beschlossen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2013 - passieren lassen
+- TOP 12: 27. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - passieren lassen
+- TOP 13: Gebührenkalkulation Abfall für 2013 - passieren lassen
+- TOP 14: 23. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - passieren lassen
+- TOP 15: 11. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 16: Entgeltordnung des Garten-, Friedhofs- und Forstamtes - einstimmig beschlossen
+- TOP 17: Änderung der Verwaltungsgebührensatzung der Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 18: Verwaltungsgebührensatzung - passieren lassen
+- TOP 19: Änderung des Gebührentarifs zur Sondernutzungssatzung - passieren lassen
+- TOP 20: Mieten und Eintrittspreise für die vom Sportamt verwalteten Sportanlagen - passieren lassen
+- TOP 21: Neufassung der Entgeltordnung der Volkshochschule der Landeshauptstadt Düsseldorf vom - mehrheitlich beschlossen
+- TOP 22: Neufassung der Satzung für die Volkshochschule der Landeshauptstadt Düsseldorf vom - einstimmig beschlossen
+- TOP 23: Erhöhung des Hundesteuersatzes zum 01.01.2013 - einstimmig abgelehnt
+- TOP 24: Einführung der Zweitwohnungssteuer zum 01.01.2013 - passieren lassen
+- TOP 25: Etatberatung 2013 - passieren lassen
+- TOP 25.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2013 mit Anlagen - passieren lassen
+- TOP 25.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldo - passieren lassen
+- TOP 25.3: 1. VVZ zum HPL Entwurf 2013 - zur Kenntnis genommen
+- TOP 25.4: Stellenplan 2013 - passieren lassen
+- TOP 26: Kämmererliste 2012 - einstimmig beschlossen
+- TOP 27: Förderprogramm "Klimafreundliches Wohnen in Düsseldorf" - einstimmig beschlossen
+- TOP 28: Änderung der Satzung der Landeshauptstadt Düsseldorf über die Durchführung von Bürgerbegehren und Bü - einstimmig beschlossen
+- TOP 29: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 30: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 31: Ausschuss für anzeigepflichtige Entlassungen bei der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 32: Aufsichtsrat der Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA GmbH) - Ersatzwahl - - einstimmig beschlossen
+- TOP 33: Kuratorium des NRW-Forum Kultur und Wirtschaft e.V. - einstimmig beschlossen
+- TOP 34: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - einstimmig beschlossen
+- TOP 35: Antrag von CDU und FDP: Casino in Düsseldorf - mehrheitlich beschlossen
