@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2012-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2531430
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2531430
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 06.11.12
+- TOP 2: Anträge
+- TOP 2.1.: Thalkirchen braucht eine Poststelle
+- TOP 2.2.: Errichtung eines Flößerpfades in Thalkirchen
+- TOP 2.3.: Kein Verkauf städtischer Grundstücke
+- TOP 2.4.: Schutz der Vögel am Hinterbrühler See
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde München ? Andreaskirche Konzert am 17.03.2013
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Freunde des Ortskerns Forstenried e.V. Nikolausfeier mit Blasmusik am 08.12.2012
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Forstenrieder Sport Club e.V. Anschaffung von Sportgeräten
+- TOP 3.4.: Bericht
+- TOP 3.5.: (A) Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: (A) Standorte städt. Altkleidercontainer
+- TOP 4.3.: (A) Mobilfunk Baubeginnsanzeige
+- TOP 4.4.: Verzicht auf Laubbläser (Antrag BA20)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Baumaßnahmen im 19. Stadtbezirk
+- TOP 5.2.: Behindertenparkplatz Kandinskystr. 24
+- TOP 5.3.: Parksituation Walliser Str.
+- TOP 5.4.: Verkehrssituation Franziska-Reindl-Platz
+- TOP 5.5.: Behindertenparkplatz Mühlthaler Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Bebauungsplan mit Grünordnung Nr. 1985; Meglinger-, Stäbli-, Kistlerhof-, Rohrauerstr., Drygalski-Allee
+- TOP 6.3.: (A) Bebauungsplan mit Grünordnung Nr. 1930c; Siemensallee, Baierbrunner Str.
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Förderung treff + tee
+- TOP 7.2.: (U) 18.Jetzt - Fest für junge Münchnerinnen und Münchner
+- TOP 8: Entscheidungsfälle
+- TOP 8.2.: Sondernutzung Zeitungsverkaufseinrichtung Schweizer Platz
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: (A) Benennung von Beauftragten gegen Rechtsextremismus
+- TOP 9.2.: (A) Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 9.3.: (U) Barrierefreier Ausbau Haltepunkt Siemenswerke
+- TOP 9.4.: Antrag auf Zweckentfremdung Bertelestr.
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
