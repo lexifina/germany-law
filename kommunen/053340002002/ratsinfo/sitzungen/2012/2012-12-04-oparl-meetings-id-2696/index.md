@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2012-12-04T17:00:00+01:00
+- Ende: 2012-12-04T18:51:00+01:00
+- Ort: Verwaltungsgebäude Marschiertor
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2696
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2696
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Niederschrift der Sitzung 04.09.2012 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 2: Standards für Fenster beim Verkauf städtischer GrundstückeRatsantrag Nr. 235/16 - ungeändert beschlossen
+- TOP 3: Auswirkung des Beschlusses über die Standards für Fenster beim Verkauf städtischer Grundstücke - ungeändert beschlossen
+- TOP 4: Nutzung der Fördermaßnahmen im Bereich barrierefreies Bauen im Altbestand - ungeändert beschlossen
+- TOP 5: Entwicklung Siedlung Preuswald - geändert beschlossen
+- TOP 6: Änderung der Marktstandsgebührensatzung für die städtischen Wochenmärkte - abgelehnt
+- TOP 7: Investorenmodell Krefelderstraße - Einrichtung einer 5-gruppigen Kindertagesstätte - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.10: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.11: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.12: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.13: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.14: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.15: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.16: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.17: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.18: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
