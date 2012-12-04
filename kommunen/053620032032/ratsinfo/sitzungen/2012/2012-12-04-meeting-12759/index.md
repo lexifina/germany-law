@@ -1,0 +1,57 @@
+# Haupt- und Finanzausschuss (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-12-04T17:04:00+01:00
+- Ende: 2012-12-04T20:34:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf3RYri8JPl_AgB6KDFiCko
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12759
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdmafhcxcBZdqCym1hm-ukbc69QnoC-pvGVsCeK5nN1Z/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_04.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Kosten- und Finanzierungsübersicht der Städtebaulichen Entwicklungsmaßnahme Vogelrutherfeld im Stadtteil Sindorf
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 19. Sitzung vom 25. September 2012
+- TOP 4.: Reduzierung der Papier-, Kopier- und Portokosten für den Sitzungsdienst; hier: Pilotprojekt papierlose Ratsarbeit
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 2. Änderung der Geschäftsordnung für den Rat der Stadt Kerpen und seine Ausschüsse
+- TOP 5.2: 15. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 5.3: 2. Satzung zur Änderung der Vergnügungssteuersatzung der Kolpingstadt Kerpen
+- TOP 5.4: 5. Satzung zur Änderung der Hundesteuersatzung der Kolpingstadt Kerpen
+- TOP 5.5: 22. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 5.6: 13. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 5.7: 7. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 5.8: Gebührenbedarfsberechnung Abwasserentsorgung 2013
+- TOP 6.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 6.1: Anregung und Beschwerde gem. § 24 GO NRW hier: Straßenbezeichnungen und Kurzinformationen hierzu
+- TOP 7.: Personal-/Stellenplanangelegenheiten
+- TOP 7.1: Besetzung der Einigungsstelle gem. § 67 LPVG NW
+- TOP 7.2: Stellenplan 2013: Einrichtung einer zusätzlichen Architektenstelle im Bereich Hochbau
+- TOP 7.3: Stellenplan 2012 Erweiterung des Stellenplanes zur dauerhaften Weiterbeschäftigung von Zeitarbeitsverhältnissen in den Kindertageseinrichtungen
+- TOP 8.: Geplante Aktivitäten in 2013 im Rahmen der Städtepartnerschaften mit St. Vith/Belgien und Oswiecim/Polen sowie Bericht des Partnerschaftsbeauftragten über die Partnerschaften in 2012/2013
+- TOP 9.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im III. Quartal 2012
+- TOP 10.: Erstellung der Jahresabschlüsse 2008ff
+- TOP 11.: Inklusion für die Kerpener Schulen / Zukunft der Martinusschule
+- TOP 12.: Anbau von zwei Gruppen für Kinder über und unter drei Jahren für Kinder über drei Jahren an die Kindertagesstätte Erftpiraten in Kerpen- Horrem
+- TOP 13.: Neubau einer dreigruppigen Kindertagesstätte im Baugebiet "Zum Vogelruther Feld" in Kerpen- Sindorf
+- TOP 14.: Vermarktung des ehemaligen Minigolfgeländes in Kerpen-Brüggen
+- TOP 15.: Empfangsgebäudepaket NRW - möglicher Erwerb des stillgelegten Bahnhofs Sindorf
+- TOP 16.: Flurbereinigungsverfahren Hambach Ost, Änderung der Stadtgrenze
+- TOP 17.: Forstwirtschaftsplan 2013
+- TOP 18.: Mitteilungen
+- TOP 18.1: Sachstand Energieausweise - Energetische Sanierungsmaßnahmen
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Auftragsvergabe: hier: Mittagsverpflegung für alle Kindertageseinrichtungen im Stadtgebiet Kerpen
+- TOP 20.2: Auftragsvergabe: hier: Anmietung und Wartung von Druckern und Kopierern für das Rathaus und den Nebenstellen, Schulen und Kindertagesstäten im gesamten Stadtgebiet
+- TOP 21.: Vergabebericht 2011
+- TOP 22.: Verpachtung von städtischen Waldflächen für Artenschutzzwecke in der Gemarkung Kerpen -Dickbusch-
+- TOP 23.: Veräußerung einer städtischen Teilfläche für eine neue Trafostation der RWE Deutschland AG in Sindorf
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
