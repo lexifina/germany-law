@@ -1,0 +1,7 @@
+# TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+
+- Sitzung: Hauptausschuss (18. Sitzung) (2012-12-04)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/57073
+- Beschluss (Datei): Beschlusstext (Genehmigung der Niederschrift der letzten Sitzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaxipjaJpk7jWag2ilW8_JHIQNu0ISu5pqiQOQIQmsWv/Beschlusstext_TOP_3._-oeffentlich-_Hauptausschuss_04.12.2012.pdf
