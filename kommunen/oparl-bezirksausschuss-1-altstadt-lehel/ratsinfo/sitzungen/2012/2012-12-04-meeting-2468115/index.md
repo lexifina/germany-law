@@ -1,0 +1,90 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2468115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2468115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 1: (E) Erhalt / Teilerhalt der historischen Stätte am Marienhof Denkmal Empfehlung Nr. 08-14 / E 01213 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 29.11.2011
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.2.: Sendlinger Straße 4: Umbau / Aufstockung und Nutzungsänderung Dachgeschoss (Vorbescheid)
+- TOP 1.3.: Frauenstraße 4: Neubau eines Hotels (Tektur)
+- TOP 1.4.: Utzschneiderstraße 3: Umbau eines Wohnheims in ein Hotel
+- TOP 1.5.: Gewürzmühlstraße 12: DG-Ausbau und Sanierung des Wohngebäudes (Tektur)
+- TOP 1.6.: Weinstraße 1: Neubau eines Bürohauses mit Gastronomie
+- TOP 1.7.: Theatinerstraße 40 ? 42: Umbau Wohn- und Geschäftshaus (Tektur)
+- TOP 1.9.: Thierschstraße 46: Generalsanierung und Erweiterung des Wilhelmsgymnasium (Vorbescheid)
+- TOP 1.10.: Sattlerstraße 1: Nutzungsänderung und Umbau Büro und Geldautomatenraum in Espressobar
+- TOP 1.11.: Seitzstraße 29: Befristete Umverlegung der Biergartenfläche bis 31.12.2013
+- TOP 1.12.: Kreuzstraße 16: Sanierung , Aufstockung (Tektur)
+- TOP 1.13.: Frauenstraße 4: Neubau eines Hotels mit 32 Zimmern und einer Gaststätte
+- TOP 1.14.: NACHTRAG: Blumenstraße 4-6 (Schrannenhalle): Emporen, Nutzungsänderung (Tektur)
+- TOP 1.15.: NACHTRAG: Karlsplatz 9: Umbau eines Einkaufszentrums (Tektur)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1: Gaststätten
+- TOP 1.1.: ?Wirtshaus am Sendlinger Tor?, Sendlinger-Tor-Platz 10: Änderung der Betriebszeit der Freischankfläche
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: Bräuhausstraße 10: Aufstellung von neuen Verkaufseinrichtungen
+- TOP 1.2.: Müllerstraße 54: Zwei mobile Fahrradständer
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Inthronisation des Faschingspaares der Narrhalla am 12.01.2013 auf dem Marienplatz
+- TOP 1.2.: Gedenkveranstaltung für Münchner NS-Euthanasie mit Lesung am 18.01.2013 auf dem Marienplatz
+- TOP 1.3.: Straßenfußballtunier vom 25.-26.06.2012, Odeonsplatz
+- TOP 1.4.: NACHTRAG: Kunstinstallation ?It's never too late to say sorry? vom 01.03. - 30.09.2013, Odeonsplatz
+- TOP 1.5.: NACHTRAG: Kunstinstallation ?Play me ? I'm Yours?, nachträgliche Standorte
+- TOP 1.1.: Antrag des Vorsitzenden: Bäume am Marienhof
+- TOP 1.1.: Erweiterung Fußgängerzone Eisenmannstraße
+- TOP 1.1.: Erinnerungsverfahren: Färbergraben, Sattlerstraße, Hotterstraße, Wiederherstellung nach Hochbau
+- TOP 1.2.: Neubau einer Lichtsignalanlage Dultstraße/Oberanger
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. Konzerte 2013
+- TOP 1.1.: Antrag des BA 17: Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine ?Fristwahrungsanträge?)
+- TOP 1.1.: NACHTRAG: Verfahren bei Übersendung von Budget-Anträgen durch das Direktorium an die BA-Mitglieder, Möglichkeiten der Einsparung überflüssiger Postsendungen
+- TOP 1.2.: NACHTRAG: Termin für Neujahresfeier
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.2012: Mehrjahresinvestitionsprogramm 2012-2016
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Antwortschreiben an eine Bürgerin bzgl Bebbauung Müllerstraße 2-6 und Bolzplatz Glockenbachwerkstatt
+- TOP 0.3.: Beschluss des gemeinsamen Ausschusses des Verwaltungs- und Personalausschusses, des Ausschusses für Stadtplanung- und Bauordnung und des Finanzausschusses vom 21.11.2012: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung- und Bauordnung
+- TOP 0.4.: Antwortschreiben der LBK zum Bauvorhaben Hotterstraße 18, TOP 2012.10 B 3.1.1
+- TOP 0.5.: Nachträgliche Unterlagen zum Bauvorhaben Neuhauser Straße 33 (wurde in der Sitzung vom 13.11 zur Kenntnis genommen)
+- TOP 0.6.: Beschluss der Vollversammlung vom 04.10.2012: Aufnahme von Bestandsmieten in den Münchner Mietspiegel
+- TOP 0.7.: Vorbescheid Liebigstraße 14
+- TOP 0.8.: Antwortschreiben der LBK zum Bauvorhaben Frauenplatz 11, TOP 2012.08 B 3.1.7
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Schreiben an die Bürgerberatung bzgl. Reinigungsgebühren am Sebastianplatz
+- TOP 0.6.: Eilentscheidung zur Chanukkafeier am 09.12.2012, St.-Jakobs-Platz
+- TOP 0.7.: Eilentscheidung zur Weihnachtlichen Veranstaltung der Salvatorkirche am 09.12.2012, Salvatorplatz
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Erweiterung der Fußgängerzone in der Sendlinger Straße
+- TOP 0.2.: Gefahrenbaumfällungen: 1 Robine, Karlsplatz
+- TOP 0.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes zu verantwortenden Aktivitäten
+- TOP 0.4.: Beschluss des Bauausschusses vom 20.11.2012_ Weiterführung der Zusatzfinanzierung für den Straßenunterhalt
+- TOP 0.5.: Antwortschreiben des KVR zu einem Bürgeranliegen Kreuzung Liebigstraße/Alexandrastraße und Aufhebung einer Halteverbotszone
+- TOP 0.6.: Bürgeranliegen lose Pflasterung im Tal
+- TOP 0.7.: Vollzug der Baumschutzverordnung Oettingenstraße 39
+- TOP 0.8.: Beschluss der Vollversammlung vom 28.11.2012: Novellierung der Baumschutzverordnung
+- TOP 0.1.: Verwendungsnachweis Projekt ?Under Construction?
+- TOP 0.2.: Bericht 18.Jetzt
+- TOP 0.3.: Beschluss der Vollversammlung des Stadtrates vom 24.10.2012: Abbruch und Neubau eines Wohn- und Geschäftsgebäudes auf dem stadteigenen Grundstück Müllerstraße 2-6 (Glockenbachwerkstatt)
+- TOP 0.4.: Rückmeldungen anderer BAs zum Antrag auf Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.8.: Sendlinger Straße 4: Umbau und Nutzungsänderung eines Geschäftshauses (Vorbescheid)
+- TOP 1.3.2: Sonstige
