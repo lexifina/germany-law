@@ -1,0 +1,166 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2012-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2526272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2526272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Vorstellung der Planungen für die Schulen an der Grandlstraße
+- TOP 1.3: Bericht des Vorsitzenden zu den Baustellen im Pasinger Zentrum
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 2.2.1.: Zebrastreifen in der Aubinger Straße (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 2.2.2.: Zweckentfremdung von Fahrradständern; Werbefahrrad vor der Post in der Kaflerstraße (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 2.2.3.: Änderung der Hinweisbeschilderung auf der A 99 und der A 8
+- TOP 2.2.4.: Verkehrsplanung Offenbach-/Meyerbeerstraße
+- TOP 2.2.5.: Zebrastreifen an der nördlichen Kreuzung Marsopstraße / Meyerbeerstraße anstelle der Sprunginsel
+- TOP 2.2.6.: Aktuelle Situation am Kinderspielplatz neben der alten Pasinger Pfarrkirche Mariä Geburt
+- TOP 2.2.7.: Einrichtung einer Anfahrtszone vor dem Kinderhaus Wunderkind in der Gottfried-Keller-Straße 2; Aufstellung eines Hinweisschildes "Kindergarten" und Errichtung eines Pollers
+- TOP 2.2.8.: Antrag auf Fällung bzw. Rückschnitt von Bäumen in der Karl-Mangold-Straße 6
+- TOP 2.2.9.: Verkehrssituation Badenburgstraße / Amalienburgstraße
+- TOP 2.2.10.: Bauvorhaben in der Pagodenburgstraße
+- TOP 2.2.11.: Haltestellenanzeigen und -ansagen in den Buslinien 56, 157 und 161 sowie Stellungnahme MVG mit Bürgerantwort dazu
+- TOP 2.2.12.: Friedhof Pasing
+- TOP 2.2.13.: Fluggelände für Modellflieger an der Blumenauer Straße im Anflugbereich für Rettungshubschrauber
+- TOP 2.2.14.: Fahrradweg / Verbindung zwischen Paosostraße und Maria-Eich-Straße; Aufstellen einer Rutsche und einer Schaukel in der Grünfläche
+- TOP 2.2.15.: Verkehrsführung Kreuzung Scapinellistraße / Varnhagenstraße
+- TOP 2.2.16.: Fußgängerampel in der Verdistraße auf Höhe der Bushaltestellen Lustheimstraße
+- TOP 2.2.17.: Lärmschutz Marschnerstraße
+- TOP 3: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Mergenthalerstraße 5, Häuser 5 und 6, Baumbestandsplan
+- TOP 3.1.2.: Mergenthalerstraße 5, Haus 7, Baumbestandsplan
+- TOP 3.1.3.: Georg-Hann-Straße 16-18, 3 Silberahorn
+- TOP 3.1.4.: Feichthofstraße 100, 1 Birke
+- TOP 3.1.5.: Egenhoferstraße 13, 1 Ahorn, 1 Coloradotanne
+- TOP 3.1.6.: Am Knie 6, 1 Japanische Zierkirsche
+- TOP 3.1.7.: Paosostraße 16, 1 Eiche (zweistämmig)
+- TOP 3.1.8.: Daudetstraße 7a, 1 Blaufichte
+- TOP 3.1.9.: Rubensstraße 13, Baumbestandsplan
+- TOP 3.1.10.: Böcksteinerstraße 9, Baumbestandsplan
+- TOP 3.1.11.: Paganinistraße 2, 1 Silberahorn (5-stämmig)
+- TOP 3.1.12.: Pfättendorferstraße 7, Baumbestandsplan
+- TOP 3.1.13.: Bäckerstraße 44, 1 Scheinzypresse
+- TOP 3.1.14.: Kabastastraße 4, 2 Mammutbäume, 1 Nordmanntanne, 1 Hemlocktanne
+- TOP 3.1.15.: Wöhlerstraße 50a, 1 Fichte
+- TOP 3.1.16.: Landsberger Straße 472; Baufeldfreimachung ehem. Ortsgüteranlage, Baumbestandsplan
+- TOP 3.1.17.: Oneginstraße 4a, 1 Fichte
+- TOP 3.1.18.: Waldhornstraße 9, 1 Stieleiche
+- TOP 3.1.19.: Verdistraße 105a
+- TOP 3.2: Gefahrenbäume
+- TOP 3.2.1.: Listen des Baureferates vom 09.10.2012
+- TOP 3.2.2.: Listen des Baureferates vom 15.10.2012
+- TOP 4: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht d UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Pfättendorferstraße 7
+- TOP 6: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1.: Bericht vom Treffen des Referates für Bildung und Sport mit den Bezirksaus-schüssen am 28.11.2012
+- TOP 7.1: Berichte der Beauftragten
+- TOP 7.1.1: Kinder- und Jugendbeauftragte
+- TOP 7.1.2: Gleichstellungsbeauftragte
+- TOP 7.1.3: Behindertenbeauftragte
+- TOP 7.1.4: a) Bürgerbeirat Verdistraße 45 b) Bürgerbeirat Jugendhilfezentrum Scapinellistr
+- TOP 7.1.5: Migrationsbeauftragter
+- TOP 7.1.6: Beauftragter im Mieterbeirat
+- TOP 7.1.7: REGSAM-Beauftragte
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 2: (E) Gestaltung des Straßenabschnittes Grandlstraße zwischen der Kirche Leiden Christi und den Schulen an der Grandlstraße zu einem zusammenhängenden beruhigten Platz bereits während der Neuplanung / Sanierung der Schulen; Einberufung eines Runden Tisches Empfehlung Nr. 08-14 / E 01305 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 19.04.2012 BA-Antrags-Nr. 08-14 / B 03882 des Bezirksausschusses 21 Pasing-Obermenzing vom 17.04.2012 - <div>vertagt</div>
+- TOP 10: Anhörungen
+- TOP 10.1.: Boden- und Bauschuttrecycling und Bodenbörsen; Potentielle Standorte in München; Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.2.: Mergenthalerstraße 5, Neubau eines Mehrfamilienhauses mit Tiefgarage (Haus 1) - Tektur (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.3.: Vollzug der abfall- und immissionschutzrechtlichen Bestimmungen; Antrag auf Änderungsgenehmigung vom 22.10.2012 gemäß § 16 Bundes-Immissions- schutzgesetz zur Erweiterung der Lager-, Durchsatz- und Behandlungsmengen der Firma Süderde GmbH, Lochhausener Straße 67 (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.4.: Oneginstraße, Flur-Nr. 189/12, Neubau eines Einfamilienhauses mit PKW-Garage (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.5.: Urbanes Natur-Netz München; Auswertungsergebnisse einer stadtbezirks-bezogenen Umfrage; Bitte um Stellungnahme mit etwaigen Optimierungs- vorschlägen (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.6.: Zentrale Bushaltestellen Pasing Bahnhof in der Kaflerstraße / Irmonherstraße; Entfall der Position 1 (jetzige Haltestelle der Linie 56 Richtung Schloss Bluten-burg vor dem Bahnhofsgebäude); Ersatz für diese Halteposition in der Irmon-herstraße und in der Emil-Neuburger-Straße (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.7.: Gottfried-Keller-Straße; Neubau einer Wohnanlage (110 WE) mit Tiefgarage, Tektur (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 10.8.: Amalienburgstraße 25, Neubau einer Wohnanlage - Vorbescheid
+- TOP 10.9.: Pagodenburgstraße 6, Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 10.10.: Döbereinerstraße 15, Neubau eines Wohnhauses (5 WE) mit Garagen und Stellplätzen - Tektur
+- TOP 10.11.: Planegger Straße 121, Nutzungsänderung 1. OG (Gewerbe zu 3 Wohnungen) und DG-Ausbau
+- TOP 10.12.: Schlehbuschstraße 4, Errichtung einer Garage
+- TOP 10.13.: Sibeliusstraße 5, Neubau von zwei Doppelhaushälften
+- TOP 10.14.: Berthold-Hirsch-Straße, Gemarkung Obermenzing, Flur-Nr. 822/14, Neubau von 6 Einfamilienhäusern und eines Wohngebäudes (3 sozial gebundene Geschosswohnungen) mit Garagen - Vorbescheid
+- TOP 10.15.: Rubensstraße 13, Neubau eines Doppelhauses mit Garagen
+- TOP 10.16.: Nußhäherstraße 10, Neubau eines Doppelhauses mit Schwimmbad und Garagen - Tektur
+- TOP 10.17.: Planegger Straße 125, Umbau und Nutzungsänderung eines Gebäudes in ein Wohnheim für soziale Zwecke
+- TOP 10.18.: Haberlandstraße 59, Neubau eines Büro- und Lagergebäudes (Haberlandstraße 59 / Morungenstraße 3) - Tektur
+- TOP 10.19.: Von-Frays-Straße 37, Neubau eines Zweifamilienhauses mit Garage
+- TOP 10.20.: Planegger Straße 20, Neubau von Mehrfamilienhäusern mit Tiefgarage - Vorbescheid
+- TOP 10.21.: Verdistraße 125, Umbau einer Gaststätte mit Erweiterung des Anbaus - Tektur
+- TOP 10.22.: Pfättendorferstraße 7, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.23.: Böcksteiner Straße 9, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.24.: Baumbachstraße 7, Erweiterung Büroflächen in provisorische Container (für ca. 7 Jahre)
+- TOP 10.25.: Baumbachstraße 15, Nutzungsänderung EG (2 Einheiten) - Büro zu Wohnraum, Zusammenlegung von Wohneinheiten im DG durch eine Innentreppe, verbunden mit einer Änderung von Teilnutzung zu voller Wohnnutzung im Speichergeschoss
+- TOP 10.26.: Voranfrage zur Straßenbenennung der Freifläche südlich der Pasing Arcaden
+- TOP 10.27.: Budget der Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine "Fristwahrungsanträge"); Antrag Nr. 08-14 / B 04152 des BA 17 Obergiesing-Fasangarten vom 10.07.2012
+- TOP 10.28.: Errichtung einer mobilen Schulraumeinheit für das Berufliche Schulzentrum Bergsonstraße 109; Entwurf einer Beschlussvorlage für die Sitzung des Ausschusses für Bildung und Sport am 05.12.2012
+- TOP 10.29.: Frühzeitige Bürgerinformation bei gravierenden Veränderungen im Stadtbezirk, welche durch Einrichtungen des Bezirkes Oberbayern, öffentlich geförderte Einrichtungen des Bezirkes Oberbayern oder vergleichbare Projekte ausgelöst werden; BA-Antrag Nr. 08-14 / B 04226 vom 11.09.2012; Beschlussvorlage für die Sitzung des Gesundheitsausschusses am 13.12.2012
+- TOP 10.30.: Thuillestraße 42, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage - Tektur
+- TOP 10.31.: Im Wismat 15, Neubau eines Mehrfamilienhauses mit Tiefgarage - Tektur
+- TOP 10.32.: Engelbertstraße; eingeschränktes Haltverbot, Nordseite westlich der Einmündung "Am Klostergarten"
+- TOP 10.33.: Spiegelstraße; absolutes Haltverbot, Südseite zwischen Gleichmannstraße und ca. 20 m westlich
+- TOP 10.34.: Fritz-Reuter-Straße 9, Umbau und Erweiterung eines Zweifamilienhauses
+- TOP 10.35.: Mobilfunk; Suchkreismeldung im Suchkreis M-Am-Westkreuz-Nord 430310, Suchkreis-Nr.: MY4754
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: CSU: Antrag: Busüberdachung Pasinger Bahnhof Nord (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 11.2.: CSU: Antrag: Sitzgelegenheiten für Fußgänger im Pasinger Bahnhof
+- TOP 11.3.: SPD: Antrag: Wiederherstellung einer provisorischen Spielfläche, östlich der Richard-Riemerschmid-Allee
+- TOP 11.4.: SPD: Antrag: Ist-Zustand des Verkehrs auf der A 8 zwischen Kreuz München-West und Kreisel sowie auf den nachfolgenden Straßen
+- TOP 11.5.: SPD: Antrag: Runder Tisch mit der Grundschule und der Förderschule am Schererplatz zur Unterbringung der Kinder der Mittagsbetreuung
+- TOP 11.6.: SPD: Antrag: Speicherbare Formulare für Anträge aus dem BA-Budget
+- TOP 11.7.: CSU: Dringlichkeitsantrag: Verlängerung der Buslinie 119 zum Laimer Platz
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH - Aufstellungen vom 05.11.12, 12.11.12, 19.11.12, 26.11.12
+- TOP 12.2.: Bauanträge und Anträge auf Vorbescheid im Stadtbezirk - Listen vom 29.10.12-04.11.12, 05.11.12-11.11.12, 12.11.-18.11.12, 19.11.-25.11.12
+- TOP 12.3.: Unveränderte Fortführung von Gaststätten - Cafe Wimmer, Kaflerstraße 2 - Schank- und Speisewirtschaft, Indisches Speiserestaurant Ghazal, Veldener Straße 140 - Schank- und Speisewirtschaft Fahrgaststätte Obermenzing (zuvor Wienerwald), Verdistraße 125
+- TOP 12.4.: Amtsblatt Nr. 31, Nr. 32
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 07.11.2012 (2) - Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten; Sitzungsvorlage Nr. 08-14 / V 09670 - Verkehrsplanung im Münchner Norden; Sitzungsvorlage Nr. 08-14 / V 10493
+- TOP 13.3.: Ausschuss für Bildung und Sport vom 07.11.2012 - Mehrjahresinvestitionsprogramm (MIP) 2012-2016: 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, 2. verfahrenstechnische Neuerungen, 3. Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr. 08-14 / V 10501
+- TOP 13.4.: Bauausschuss vom 20.11.2012 - Weiterführung der Zusatzfinanzierung für den Straßenunterhalt (Antrag Nr. 08-14 / A 02109 "Sonderprogramm zur Sanierung der Müncher Straßen" von Mitgliedern der CSU-Stadtratsfraktion vom 04.01.2011); Sitzungsvorlage Nr. 08-14 / V 09714
+- TOP 13.5.: Gemeinsamer Ausschuss des Verwaltungs- und Personalausschusses, des Ausschusses für Stadtplanung und Bauordnung und des Finanzausschusses vom 21.11.2012 - Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung; a) Aus "Stuttgart 21" lernen - Transparenz, Diskussionsveranstaltungen und Bürgerentscheide bei kontroversen Bauvorhaben (Antrag Nr. 08-14 / A 02187 der ÖDP vom 03.02.2011); b) Verbesserte Bürgerbeteiligung II - städtische Planungen besser kommunizieren, z.B. durch Infotafeln vor Ort (Antrag Nr. 08-14 / A 02730 von Herrn Stadtrat Josef Schmid vom 22.08.2011); c) Mehr kommunale Demokratie wagen: Bürgergutachten als Form der Partizipation nutzen (Antrag Nr. 08-14 / A 02806 der Stadtratsfraktion Die Grünen/RL vom 12.10.2011); d) Bessere Bürgerbeteiligung ganz konkret: engagierte Bürger im Bauleitplanverfahren rechtzeitig über Behandlung im Stadtrat informieren (Antrag Nr. 08-14 / A 03519 der Stadtratsmitglieder Josef Schmid, Georg Kronawitter, Walter Zöller und Dr. Reinhard Barbor vom 18.07.2012); Sitzungsvorlage Nr. 08-14 / V 10344
+- TOP 13.6.: Kulturausschuss vom 22.11.2012 - Erinnerungsorte München; Antrag des BA 8 Schwanthalerhöhe Nr. 08-14 / B 03000 vom 10.05.2011; Sitzungsvorlage Nr. 08-14 / V 10578 - Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2012 ? 2016 und Stellungnahme zu den Anregungen der Bezirksausschüsse; Sitzungsvor- lage Nr. 08-14 / V 10626
+- TOP 13.7.: Kommunalausschuss vom 22.11.2012 - Mehrjahresinvestitionsprogramm 2012 ? 2016; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf; Sitzungsvorlage Nr. 08-14 / V 10583
+- TOP 13.8.: Vollversammlung des Stadtrates vom 28.11.2012 - Novellierung der Baumschutzverordnung; Ergebnisse des Anhörungs- und Öffentlichkeitsverfahrens, StR-Antrag Nr. 08-14 / A 01974 der FDP-Stadtratsfraktion vom 15.11.2010, BA-Antrag Nr. 08-14 / B 04106 des BA 3 Maxvorstadt vom 10.07.2012, BA-Antrag Nr. 08-14 / B 04165 des BA 25 Laim vom 31.07.2012; Sitzungsvorlage Nr. 08-14 / V 10503 - Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM- Klimaschutzprogrammes 2010 ? 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten; Sitzungsvorlage Nr. 08-14 / V 09670 (s. auch TOP 13.1 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012)
+- TOP 13.9.: Ausschuss für Stadtplanung und Bauordnung vom 05.12.2012 - Demografiebericht München ? Teil 1, Analyse und Bevölkerungsprognose 2011 bis 2030 (Bekanntgabe); Sitzungsvorlage Nr. 08-14 / V 10686 - Bebauungsplan mit Grünordnung Nr. 2009 Goteboldstraße zwischen Loch- hausener Straße und Müllerstadelstraße, Müllerstadelstraße zwischen Gote- boldstraße und Paul-Ehrlich-Weg, Paul-Ehrlich-Weg zwischen Müllerstadel- straße und der Anrampung der Autobahnbrücke (Billigungs- und vorbehaltli- cher Satzungsbeschluss); Aufhebung der nicht überplanten Restbereiche des zur Aufstellung beschlossenen Bebauungsplanes mit Grünordnung Nr. 2009 vom 27.06.2007; Sitzungsvorlage Nr. 08-14 / V 10655 - Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis ?Runder Tisch Werbung?; Sitzungsvorlage Nr. 08-14 / V 10677 - Wohnen in München IV; Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in Mün- chen IV (2007 ? 2011); Sitzungsvorlage Nr. 08-14 / V 10688
+- TOP 13.10.: Bauausschuss vom 11.12.2012 - Fahrradabstellkonzept (2. Realisierungsabschnitt), a) Ergebnisse der Detailunter- suchung, b) Kostendarstellung, c) Anträge; Sitzungsvorlage Nr. 08-14 / V 08245
+- TOP 14: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 14.1.1.: Direktorium - Budget des BA 21; Verwendungsnachweis des Vereins VRK Pasing v. 1872 e.V. zum Bewilligungsbescheid vom 11.09.2012 für die Maßnahme "Jubiläumsveranstaltung" - Budget des BA 21; Verwendungsnachweis des Vereins Innere Mission München e.V. zum Bewilligungsbescheid vom 08.06.2012 für die Maßnahme "Kauf von Spiel- und Therapiematerial" - Budget des BA 21; Verwendungsnachweis der Grundschule am Schererplatz für das bezuschusste Projekt ?Kinder treffen Künstler?; Schreiben vom 16.11.12
+- TOP 14.1.2.: Baureferat (1) - Straßenreinigung Bäckerstraße; Änderung der Reinigungsklassen zum 01.01.2011 (vertagt aus der BA-Sitzung am 06.11.2012) - Pasing Arcaden: geplante Treppe von der Promenade auf die Offenbachstraße; Fahrradabstellplätze im Bereich des Treppenantritts (vertagt aus der BA-Sitzung am 06.11.2012) - Grünfläche Todesmarschdenkmal an der Kafler-/Irmonherstraße sowie Bus- haltestelle; Verunreinigungen durch sogenannte Wohnungsflüchter, Umlage des erhöhten Aufwandes für die Straßenreinigung auf die Anlieger?, Laufen- de Motoren der Omnibusse trotzt längerer Wartezeit an der Bushaltestelle (vertagt aus der BA-Sitzung am 06.11.2012) - Schulweg Wöhlerstraße, Schulen an der Grandlstraße (BA-Antrag Nr. 08-14 / B 04227 vom 11.09.2012) - Neubau eines Schulkomplexes mit Staatlicher Wirtschaftsschule, Grundschule mit Tagesheim, Einfachsporthalle, Mensa, Kooperationseinrichtung und Elektrowerkstätten an der Meindlstraße 8 mit Errichtung Mobiler Raumeinheiten für Kinderhort sowie Umbau der bestehenden Grundschule an der Plinganserstraße 28 im 6. Stadtbezirk Sendling; Projektgenehmigung - Wendemöglichkeit auf der Nordumgehung Pasing auf Höhe der Ausfahrt der Pasing Arcaden - Verkehrsinsel Irmonherstraße - Abfahrt Radltunnel am Pasinger Bahnhof (Nordseite)
+- TOP 14.1.3.: Baureferat (2) - Erweiterung des Aufstellraumes um ca. 2 Meter Tiefe an der westlich der Pla- negger Straße gelegenen Fußgängerbedarfsampel (Höhe Gatterburg); BA- Antrag Nr. 08-14 / B 04090 vom 03.07.2012 - Städtische Baumschule an der Senftenauer-/Silberdistelstraße; Anfrage wegen möglicherweise Ablagerung von belastetem Sand
+- TOP 14.1.4.: Kreisverwaltungsreferat - Parksituation am Beginn der Lochhausener Straße (BA-Antrag Nr. 08-14 / B 03635 vom 10.01.2012) - Verkehrsberuhigung Alte Allee, Tempo 40 km/h - Liefereinfahrt Pasing-Arcaden; Weitergehende Vorschläge des Elternbeirates des Städt. Elsa-Brändström-Gymnasiums (Bezug: Empfehlung Nr. 08-14 / E 1300 "Liefereinfahrt Pasing Arcaden; Vorlage eines Sachstandsberichtes zu den Vorschlägen des IVV" der Bürgerversammlung vom 19.04.2012) - Verlegung einer Fernwärmeleitung - Bauphasen 2a/2b/2c - vom 22.11.-15.12.2012 in der August-Exter-Straße 1, Seite Hellihofweg; Verkehrsrechtliche Anordnung vom 20.11.2012 - Hieronymusstraße 13; Errichtung eines personenbezogenen Behindertenparkplatzes, Verkehrsrechtliche Anordnung vom 18.10.2012 - Grundstückszufahrt zum Anwesen Suessenguthstraße 17a; Grenzmarkierung gegenüber der Zufahrt - Lichtzeichenanlagen-Bauprogramm, hier: Bewertung der Fußgängersignalanlage Planegger Straße / Technozellgelände
+- TOP 14.1.5.: Referat für Stadtplanung und Bauordnung (1) - Bauliche Entwicklung in den Gartenstädten; Veranstaltung für die Bezirksausschüsse am 26.11.2012 - Bebauungsplan mit Grünordnung Nr. 2067 Bodenseestraße zwischen Trautnerstraße (ca. 70 m östlich) und Betschartstraße - Rathochstraße 50, Neubau eines Mehrfamilienhauses (6 WE) mit Garage (Tektur); Bescheid vom 09.11.2012 - Bodenseestraße 19, Nutzungsänderung der Einheit Nr. 4, 1. OG von Gewerbe- in Wohnnutzung; Bescheid vom 26.10.2012 - Schrämelstraße 175a, Neubau eines Dreispänners mit Garagen; Vorbescheid vom 05.11.2012 - Baumbachstraße 5, Errichtung einer Grundstückseinfriedung (Papierfangzaun) - Fristverlängerung; Bescheid vom 26.10.2012 - Thuillestraße 44, Neubau eines Einfamilienhauses mit Carport (Tektur); Bescheid vom 26.10.2012 - Plangenehmigung nach dem Personenbeförderungsgesetz; Antrag auf Tektur der Planfeststellung für die Verlängerung der Straßenbahnlinie 19 zum Bahnhof Pasing - Verdistraße 75, Fassadenbegrünung - Vollzug der Baumschutzverordnung; Oselstraße 26, Bescheid vom 20.11.2012
+- TOP 14.1.6.: Referat für Stadtplanung und Bauordnung (2) - Broschüre ?40 Jahre Fassadenpreis? - Anpassung des Verlaufs der Pippinger Straße im digitalen Flächennutzungsplan an die Beschlusslage; BA-Antrag Nr. 08-14 / B 04180 vom 31.07.2012 - Vollzug der Baumschutzverordnung; Erdmannsdörferstraße2, Bescheid vom 27.11.2012 - Am Klostergarten 9, Angemessene Restaurierung des St. Christopherus- Brunnens an der Friedhofsmauer von Maria Geburt und der Friedhofsmauer selbst; BA-Antrag Nr. 08-14 / B 03462 vom 08.11.2012
+- TOP 14.1.7.: Sozialreferat - Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Lützowstraße 1, EG - Wahl der Seniorenvertretung 2013; Vorstellungsrunden der Kandidatinnen und Kandidaten; für Stadtbezirk 21 am 07.03.2013 von 15:00 bis 17:00 Uhr im ASZ Pasing, Bäckerstraße 14
+- TOP 14.1.8.: Stadtwerke München GmbH - Baumaßnahmen der SWM; Mehrspartenprojekt Erschließung Pasing Gräf- straße / Planegger Straße, 2. Bauabschnitt; Erdgasprojekt Planegger Straße (vertagt aus der BA-Sitzung am 06.11.2012) - Baumaßnahmen der SWM; Fernwärmeprojekt Georg-Habel-Straße (vertagt aus der BA-Sitzung am 06.11.2012) - Überprüfung der Eintrittspreise für Kinder bis zum 15. Geburtstag im Westbad (BA-Antrag Nr. 08-14 / B 04035 vom 12.06.2012) - Baumaßnahmen der SWM; Stromprojekt Netztrafostation Offenbachstraße, Än- derung im Terminablauf - Fahrgastunterstände für die Bushaltestelle ?Siedlung am Haidelweg? in der Pla- negger Straße ? Buslinie 161
+- TOP 14.1.9.: Münchner Verkehrsgesellschaft mbH (MVG) - Grünfläche Todesmarschdenkmal an der Kafler-/Irmonherstraße sowie Bushaltestelle; Bürgeranliegen "Laufende Motoren der Omnibusse trotz längerer Wartezeit"
+- TOP 14.1.10.: Referat für Arbeit und Wirtschaft - Europe Direct Informationen 06/2012
+- TOP 14.1.11.: Referat für Gesundheit und Umwelt - Neu aufgelegtes Faltblatt zum Thema ?Laubbläser / Laubsauger? - Fachforum ?Lüftungsanlagen im Wohnungsbau: Mechanische Lüftung und Schimmel? am 06.12.2012 von 9:00 bis 12:40 Uhr im Bauzentrum München, Willy-Brandt-Allee 10
+- TOP 14.2: Sonstige
+- TOP 14.2.1.: Bezirksausschuss 1 Altstadt-Lehel - Antrag des BA 1 Nr. 08-14 / B 04330 vom 16.10.2012 ?Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städti- schen Kinderkrippen? (vertagt aus der BA-Sitzung am 06.11.2012)
+- TOP 14.2.2.: Bezirksausschuss 2 Ludwigsvorstadt-Isarvorstadt - 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 13.10.2012 im Rathaus am Marienplatz; Fragebögen zum Quiz "BA - was ist das?"
+- TOP 14.2.3.: Seniorenbeirätin des 21. Stadtbezirkes Pasing-Obermenzing - Bordsteinabsenkungen und Übergänge an den Bushaltestellen in der Kaflerstraße
+- TOP 14.2.4.: Bezirksausschuss 20 Hadern - Verzicht auf Laubbläser
+- TOP 14.2.5.: Münchner Schülerbüro e.V. - Zeitzeugengespräche - ?Erzähl mal!?
+- TOP 14.2.6.: Antworten der Grundschulen zur BA-Anfrage wegen eines Plaketes ?Lasst die Autos stehen und uns Kinder gehen!? - Grundschule An der Schäferwiese - Grundschule Oselstraße - Grundschule Peslmüllerstraße
+- TOP 14.2.7.: LILALU Bildungs- und Ferienprogramme, kulturpädagogische Veranstaltungen Johanniter-Unfall-Hilfe - LILALU Festival in den Osterferien 2013 im Stadtbezirk 21 Pasing-Obermenzing
+- TOP 14.2.8.: Waldorfschulverein Gröbenzell e.V. - Erhaltung von Zuschüssen für Kinderbetreuung
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen - 08.01.2013, 19:00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Str. 486 - 05.02.2013, 19:00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Str. 486
+- TOP 15.2.: Ortstermin zum Antrag des Kindergartens der Pfarrei Leiden Christi Obermenzing zur Freiraumgestaltung im Durchblickpark am 07.12.2012 um 8:00 Uhr
+- TOP 15.3.: Standort für einen BA-Schaukasten An der Schäferwiese
