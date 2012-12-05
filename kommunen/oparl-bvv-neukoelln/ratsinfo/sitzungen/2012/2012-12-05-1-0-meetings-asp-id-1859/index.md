@@ -1,0 +1,87 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-12-05T17:00:00+01:00
+- Ende: 2012-12-05T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1859
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1859
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Dringlichkeiten - in der BVV abgelehnt
+- TOP 2.1: Unverzüglich eine zusätzliche Personalstelle für das BVV-Büro zur Verfügung stellen - in der BVV abgelehnt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 6.1: Wahl eines stellvertretenen Bürgerdeputierten in den Wirtschaftsausschuss - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verwaltung und Gleichstellung - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Wechsel bei der Besetzung bei beratenden Mitgliedern im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.4: Benennung eines stellvertretenden Mitgliedes in den Beirat für Migrationsangelegenheiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - erledigt
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Beratungsangebote für Neuköllner Schülerinnen und Schüler - beantwortet
+- TOP 10.2: Schulsanierungsprogramm 64 Mio. Euro statt 32 Mio. Euro - beantwortet
+- TOP 10.3: Neuköllner Stromversorgung - schriftlich beantwortet
+- TOP 10.4: EFA-Vorbehalt in Neukölln - schriftlich beantwortet
+- TOP 10.5: Soziale Wohnungspolitik und Mietenbündnis - beantwortet
+- TOP 10.6: Bürgerliquid für Neukölln - in der BVV abgelehnt
+- TOP 10.7: Grunderwerbssteuer nachhaltig anheben - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Probejahr am Gymnasium bestehen - in der BVV abgelehnt
+- TOP 11.2: Haltverbot für LKW-Fahrzeuge in der Kanalstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Neukölln fahrrad- und fußgänger/innenfreundlich (7): Hinweis auf Rechtsabbieger/innen an der Autobahnauffahrt - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Neukölln fahrrad- und fußgänger/innenfreundlich (8): Überquerungshilfe statt Zaun am S-Bahnhof Köllnische Heide - in der BVV abgelehnt
+- TOP 11.5: Neukölln fahrrad- und fußgänger/innenfreundlich (11): Fahrradumgehung Weichselplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Neukölln fahrrad- und fußgänger/innenfreundlich (12): "Zebrastreifen" in der Aronsstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Umstellen der Fußgängerampel Johannisthaler Chaussee/Ecke Petunienweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Zugang "Tempelhofer Freiheit" im Südosten erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Lichtzeichenanlage an der Kreuzung Sonnenallee/Ziegrastraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sommerkonzert-Reihe "Blauer Mittwoch" auch im Sommer 2013 fortsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Professionelle Beratungs- und Betreuungsstelle für Glücksspielsüchtige - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Sachstand Grundstück für Asylbewerberunterkunft - beantwortet
+- TOP 12.2: Pflegeneuausrichtungsgesetz (PNG) - beantwortet
+- TOP 12.3: Erneuerung der Leitungen der Waßmannsdorfer Chaussee - beantwortet
+- TOP 12.4: Wohnungsbaupotentiale in Neukölln - beantwortet
+- TOP 12.5: Mietwohnungen als Ferienwohnungen? - beantwortet
+- TOP 12.6: Wohnungen für Flüchtlinge - beantwortet
+- TOP 12.7: Kein Plan von Nichts? - beantwortet
+- TOP 12.8: Erhalt des Standortes Neukölln der Hörberatungsstelle - beantwortet
+- TOP 12.9: Ferienwohnungen in Neukölln - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mehrsprachiges Informationsmaterial für Migrantinnen und Migranten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Bedürfnisanstalt in der Hufeisensiedlung - überwiesen
+- TOP 14.3: Neuköllner Kleingartenanlagen wieder in den Schutzfristenkatalog bis 2020 aufnehmen - überwiesen
+- TOP 14.4: Fußgängerüberweg im Buckower Damm/Ecke Mollnerweg - überwiesen
+- TOP 14.5: Absolutes Haltverbot in der Waltersdorfer Chaussee - überwiesen
+- TOP 14.6: Bevölkerung auf KATWARN aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Lichtzeichenanlage für sicheren Schulweg - überwiesen
+- TOP 14.8: Ziele des Brandbriefes der JHA-Vorsitzenden unterstützen - vertagt
+- TOP 14.9: Wiederinstandsetzung der Installation vor dem BVV-Büro mit der Dokumentation des Widerstandes in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Nebeneinkünfte - vertagt
+- TOP 14.11: Wohnungsbaupotenziale - überwiesen
+- TOP 14.12: Tourismuspolitischer Ratschlag - überwiesen
+- TOP 14.13: Eingaben und Beschwerden I - überwiesen
+- TOP 14.14: Eingaben und Beschwerden II - überwiesen
+- TOP 14.15: Anwohner vor Naziübergriffen schützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Vertragsüberprüfung Frauenklinik - vertagt
+- TOP 14.17: Schutzfristen Kleingartenkolonie - überwiesen
+- TOP 14.18: Hörberatungsstelle erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Eingeschränktes Haltverbot vor der Köpenicker Straße 154 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Neukölln fahrrad- und fußgänger/innenfreundlich (10): Fußgängerüberweg Treptower Straße/Weigandufer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Haushaltsdokumente maschinenlesbar veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17: Öffentlicher Beschäftigungssektor und Bürgerarbeit - beantwortet
