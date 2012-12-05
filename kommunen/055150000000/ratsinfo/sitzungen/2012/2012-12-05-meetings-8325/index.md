@@ -1,0 +1,65 @@
+# 24. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-12-05T17:04:00+01:00
+- Ende: 2012-12-05T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8325
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8325
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00335613.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Erlass einer Satzung zur Anerkennung der Gemeinnützigkeit des Betriebes gewerblicher Art "Kulturelle Veranstaltungen und Ausstellungen" - einstimmig beschlossen
+- TOP 3.2: Vierte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 3.3: Gewerbesteuer und Grundsteuern - Erlass einer Hebesatzsatzung für das Jahr 2013 - einstimmig beschlossen
+- TOP 3.4: Bürgerhaushalt 2011 - Zweiter Rechenschaftsbericht - zur Kenntnis genommen
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Wirtschaftsplan 2013 der citeq - einstimmig beschlossen
+- TOP 4.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 4.3: Konzernabschluss 2011 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.4: Gewinnausschüttung der GML Gewerbepark Münster-Loddenheide GmbH - einstimmig beschlossen
+- TOP 4.5: Entwicklung der britischen Kasernenflächen - von der Tagesordnung abgesetzt
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 5.2: Abfallgebühren 2013 - einstimmig beschlossen
+- TOP 5.3: Straßenreinigungsgebühren 2013 - einstimmig beschlossen
+- TOP 5.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2013 - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Umfeld Lotharinger Kloster/Standesamt: Kleine Lösung - mehrheitlich beschlossen
+- TOP 6.2: Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Münster - Antrag der CDU-Fraktion Nr. A-R/0075/2010 - Damit nichts anbrennt: Engagement in der Freiwilligen Feuerwehr aktiv fördern - mehrheitlich beschlossen
+- TOP 6.3: Mittagsverpflegung in Schulen - ohne Beschlussfassung geschoben
+- TOP 6.4: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung) ab 2013 ff - einstimmig beschlossen
+- TOP 6.5: Verlagerung des SC Westfalia Kinderhaus 1920 e. V. zur Bezirkssportanlage Große Wiese in Münster-Kinderhaus - einstimmig beschlossen
+- TOP 6.6: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an die GGUA zur Zwischenfinanzierung des Projekts " Teil - sein - Teilhaben. Zukunft aktiv gestalten" - einstimmig beschlossen
+- TOP 6.7: Einrichtung eines Kommunalen Integrationszentrums in Münster - mehrheitlich beschlossen
+- TOP 6.8: Satzungen der kommunalen Stiftungen (örtliche Stiftungen gem. § 100 GO NRW), hier: Satzungsänderung - einstimmig beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Städtebauliche Optimierung nördlich Stadthafen 1 (Grundstücke der Stadtwerke Münster GmbH) / Liegenschaftliches Konzept) - von der Tagesordnung abgesetzt
+- TOP 7.2: Künftige Unterbringung der VHS - mehrheitlich geändert beschlossen
+- TOP 7.3: Dichtheitsprüfung an städtischen Grundstücksentwässerungsanlagen - mehrheitlich beschlossen
+- TOP 7.4: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - zur Kenntnis genommen
+- TOP 7.5: Strategisches Flächenmanagement: Einführung eines Flächenplanes als Anlage zum Haushaltsplan - zur Kenntnis genommen
+- TOP 7.6: Umsetzung eines aktiven Vertragsmanagements unter strategischen immobilienwirtschaftlichen Gesichtspunkten für landwirtschaftliche Nutzflächen mit Pachtzinsanpassung - einstimmig beschlossen
+- TOP 7.7: Wertfestlegung bei Verkäufen von Liegenschaften an städtische Tochtergesellschaften - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 8: Haushaltsplan 2013 sowie Ergebnis- und Finanzplanung bis 2016
+- TOP 8.1: Anträge und Anregungen
+- TOP 8.1.1: Anregungen nach § 24 Gemeindeordnung NRW
+- TOP 8.1.2: Vorschläge zum Bürgerhaushalt
+- TOP 8.1.3: Anträge auf Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - mehrheitlich geändert beschlossen
+- TOP 8.1.4: Sonstige Anträge und Einwendungen
+- TOP 8.1.5: Anträge zu den Einzelmaßnahmen aus dem Handlungsprogramm 2012 bis 2017 für eine nachhaltige kommunale Haushaltspolitik
+- TOP 8.1.6: Sonstige Anträge aus der Politik
+- TOP 8.2: Veränderungsblätter/-listen
+- TOP 8.2.1: Anregungen der Bezirksvertretungen
+- TOP 8.2.2: Veränderungsliste 1 (Veränderungsblätter ohne Fachausschussberatung)
+- TOP 8.2.3: Veränderungsliste 2 (Zuständigkeit AFBL)
+- TOP 8.2.4: Veränderungsliste 3 (Gesamtveränderungsliste)
+- TOP 8.3: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2013 - mehrheitlich geändert beschlossen
+- TOP 9: Verschiedenes
