@@ -1,0 +1,62 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-12-06T17:00:00+01:00
+- Ende: 2012-12-06T19:10:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5529
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5529
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187017.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187017.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187017.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Barrierefreier Ausbau der Endhaltestelle Vennhauser Allee - zur Kenntnis genommen
+- TOP 5: Brorsstraße - Verlängerung des Gehweges und Anlage einer Querungsstelle - einstimmig beschlossen
+- TOP 6: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2013 - einstimmig beschlossen
+- TOP 7: Weihnachtsmarkt in Unterbach am 08. und 09.12.2012 - einstimmig beschlossen
+- TOP 8: Freigabe verkaufsoffener Sonntage - mehrheitlich beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 10: Zuschuss an den Unterbacher Tennisclub e.V. - einstimmig beschlossen
+- TOP 11: Wellness-Anlage Elbsee - beantwortet
+- TOP 12: Schulbusse im Stadtbezirk 8 - beantwortet
+- TOP 13: Parksituation Chemnitzer Straße - zurückgezogen
+- TOP 14: Neubau Turnhalle Bernburger Straße - beantwortet
+- TOP 15: Mittelstreifen Klein-Eller / Bernburger Straße - beantwortet
+- TOP 16: Skateranlage Heidelberger Straße - beantwortet
+- TOP 17: Inklusionsklassen in Grundschulen des Stadtbezirks 8 - beantwortet
+- TOP 18: Bunker Gatherweg - beantwortet
+- TOP 19: Ehemalige Müllkippe Eller Forst - beantwortet
+- TOP 20: Bunker Gatherweg - beantwortet
+- TOP 21: Beflaggung öffentlicher Gebäude im Stadtbezirk 8 - beantwortet
+- TOP 22: Straßenbäume im Stadtbezirk 8 - beantwortet
+- TOP 23: 3. Integrierte Jugendhilfe- und Entwicklungsplanung - einstimmig beschlossen
+- TOP 24: Sozialräumliche Gliederung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 25: Stellplätze Chemnitzer Straße - mehrheitlich beschlossen
+- TOP 26: Verkehrssicherheit Wendehammer Chemnitzer Straße - einstimmig beschlossen
+- TOP 27: Jugendfreizeitstäten im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 28: Bebauungsplanänderung für die Geschäftszentren in Eller und Lierenfeld - einstimmig beschlossen
+- TOP 29: Skater-Pipes im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Barrierefreier Ausbau der Haltestellen Eller-Süd (S) und Schlesische Straße Bahnsteig 4 - einstimmig beschlossen
+- TOP 31: Schulsanierungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 32: Tauben Unterführung Gumbertstraße - einstimmig beschlossen
+- TOP 33: Parksituation Mühlenkamp - einstimmig beschlossen
+- TOP 34: Sicherung der Gleisanlagen entlang der Hundefreilauffläche Vennhauser Allee - einstimmig beschlossen
+- TOP 35: Geänderte Führung der Straßenbahnlinien 701, 706 und 715 im Rahmen der Baumaßnahme Kö-Bogen - zur Kenntnis genommen
+- TOP 36: Sitzungstermine der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 37: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 38: Unterhaltungsmaßnahmen im Baumbestand der Südlichen Düssel und des Hoxbaches - zur Kenntnis genommen
+- TOP 39: Umgestaltung der Verkehrsfläche Am Turnisch / Reisholzer Straße - zur Kenntnis genommen
+- TOP 40: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 41: Geschwindigkeitsmessungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Verkehrsregelung Auf'm Großenfeld - Einrichtung einer Einbahnstraße - zur Kenntnis genommen
+- TOP 43: Bezirkshaushaltspläne - zur Kenntnis genommen
+- TOP 44: Ehemalige Mülldeponie Eller Forst - zur Kenntnis genommen
+- TOP 45: Schulbusse im Stadtbezirk 8 - zur Kenntnis genommen
