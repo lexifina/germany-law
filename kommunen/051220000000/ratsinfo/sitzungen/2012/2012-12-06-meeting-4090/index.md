@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-12-06T17:00:00+01:00
+- Ende: 2012-12-06T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUFAAjipD9RDmqOhNI3eXqA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4090
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfaq8Ypu67bN2u21uB0M6c0hoJ1zFnTZti0y6-gynGwM/Oeffentliche_Niederschrift_Rat_06.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Vorschlag für die En-bloc-Abstimmung
+- TOP 6: Protestnote des Rates der Klingenstadt Solingen zu den angekündigten Millionen-Kürzungen beim Stärkungspakt durch das Land Nordrhein-Westfalen
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Genehmigung der Bestellung eines Mitglieds des Vorstands der Stadt-Sparkasse Solingen
+- TOP 9: Schulentwicklung
+- TOP 10: Schulentwicklung
+- TOP 11: Räumliche Erweiterung Grundschule Erholungstraße
+- TOP 12: Klimaschutzkonzept der Stadt Solingen
+- TOP 13: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2012
+- TOP 14: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal,
+- TOP 15: Nachtrag zum Stellenplan 2012/Stellenplan 2013
+- TOP 16: Überplanmäßige Ausgaben im Bereich Stadtdienst 59
+- TOP 17: Änderung des Gesellschaftsvertrages der Stadtwerke Solingen GmbH
+- TOP 18: Gründung eines Kundenbeirates bei den SWS (Versorgung)
+- TOP 19: VRR - Konkretisierung der Finanzierungsübertragung
+- TOP 20: Technische Außerbetriebsetzung und Schließung der Turnhalle Gillicher Straße
+- TOP 21: IV Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 22: Duplikat von IV Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 23: Gebührenbedarfsberechnungen 2013 - Neufassung
+- TOP 24: III. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 25: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen - Neufassung
+- TOP 26: II. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 27: III. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 28: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 29: II. Änderungssatzung zur Friedhofsgebührensatzung für die Friedhöfe der Stadt Solingen
+- TOP 30: Wirtschaftsplan 2013 der Technischen Betriebe Solingen
+- TOP 31: 6. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) 2013 - 2018 der Klingenstadt Solingen
+- TOP 32: City 2013 - Hof- und Fassadenprogramm
+- TOP 33: City 2013
+- TOP 34: Bauleitplanung westliche Konrad-Adenauer-Straße
+- TOP 35: Bauleitplanung Kuller Straße
+- TOP 36: Bauleitplanung Cronenberger Straße/Haumannstraße
+- TOP 37: Bauleitplanung Dönhoffstraße
+- TOP 38: Bauleitplanung Schlagbaum
+- TOP 39: Bauleitplanung Scheidter Feld
+- TOP 40: Verschiedenes
+- TOP 41: Fracking – Verfahren
+- TOP 42: Tödlicher Anschlag auf Jobcenter-Mitarbeiterin in Neuss
+- TOP 43: Situation der Beteiligungsgesellschaft
+- TOP 44: Polizeieinsatz 01. Mai 2012
+- TOP 45: Anatolia on Tour
+- TOP 46: Modellrechnung zum Gemeindefinanzierungsgesetz 2013
+- TOP 47: Rechenschaftsbericht zur bürgerbeteiligten Haushaltssicherung 2012
+- TOP 48: Stärkungspakt Stadtfinanzen - Auswirkungen der Neuberechnung der strukturellen Lücke
+- TOP 49: Teilsperrung der Leverkusener Rheinbrücke (A 1)
+- TOP 50: Landesprojekt Zukunftsfaktor Bürgerengagement
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 3: Erklärung nach § 41 Absatz 1 Buchstabe p in Verbindung mit § 87 Absatz 2 GO NRW, Tageseinrichtung für Kinder in Solingen
+- TOP 4: Ausbau U3
+- TOP 5: Optimierung der Wirtschaftlichkeit des IT-Betriebes
+- TOP 6: Beteiligung der Stadtwerke Solingen GmbH am Biogaspool2 der Arcanum Energy Systems GmbH & Co. KG
+- TOP 7: Verschiedenes
+- TOP 8: Bauleitplanung Dönhoffstraße
