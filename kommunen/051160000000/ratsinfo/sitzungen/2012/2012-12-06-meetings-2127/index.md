@@ -1,0 +1,58 @@
+# Ausschuss für Finanzen und Beteiligungen
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2012-12-06T14:15:00+01:00
+- Ende: 2012-12-06T20:05:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2127
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2127
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Genehmigt
+- TOP 2: Vorstellung der Stadtsparkasse Mönchengladbach - Kenntnisnahme
+- TOP 3: Zinsen für Dispositionskredite bei der Stadtsparkasse Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 4: Situation des FB Stadtkasse - Kenntnisnahme
+- TOP 5: SozialTicket - Kenntnisnahme
+- TOP 6: Mittelbare Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 7: Außerplanmäßige Bereitstellung Haushaltsmittel - Mit Stimmenmehrheit beschlossen
+- TOP 8: Stellenplan 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 9: Entwurf des Haushaltes 2013; Haushaltssatzung einschl. Anlagen u. Fortschreibung des HSP - Mit Stimmenmehrheit beschlossen
+- TOP 9.1: Beratung des Entwurfs des Haushaltes 2013 einschließlich Fortschreibung - Mit Stimmenmehrheit abgelehnt
+- TOP 9.2: Beratung des Entwurfs des Haushaltes 2013 - Vom Antragsteller zurückgezogen
+- TOP 9.3: Beratung des Entwurfs des Haushaltes 2013 - Theaterfinanzierung - Einstimmiger Beschluss
+- TOP 9.4: Entwurf des Haushaltes 2013; zusätzliche Planungsmittel für den Neubau einer Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 9.5: Haushaltsentwurf 2013; Neubau Stadtbibliothek - Ohne Abstimmung
+- TOP 10: Zustimmung zur Inangriffnahme - Getrennte Abstimmung (s. Niederschrift)
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2012 - Kenntnisnahme
+- TOP 12: Abfallentsorgung Mönchengladbach - Ohne Abstimmung
+- TOP 12.1: Abfallentsorgung Mönchengladbach / Vorlage 2742/VIII - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 13: Kündigung Entsorgungsvertrag - Ohne Abstimmung
+- TOP 13.1: Kündigung Entsorgungsvertrag / Vorlage 2741/VIII - Mit Stimmenmehrheit beschlossen
+- TOP 14: Siebzehnter Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Mit Stimmenmehrheit beschlossen
+- TOP 15: Fünfzehnter Nachtrag Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 16: Straßenreinigungsgebühren - Mit Stimmenmehrheit beschlossen
+- TOP 17: Fünfunddreißigster Nachtrag zur Straßenreinigungs- und Gebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 18: Achtzehnter Nachtrag KanalbenutzungsgebührenO/Fünfter Nachtrag KKA - Mit Stimmenmehrheit beschlossen
+- TOP 19: Aufhebungssatzung Jagdsteuer - Einstimmiger Beschluss
+- TOP 20: Vergnügungssteuersatzung - Einstimmiger Beschluss
+- TOP 21: Sechster Nachtrag Parkgebührenordnung - Mit Stimmenmehrheit beschlossen
+- TOP 21.1: Änderung der Parkgebührenordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Satzung abweichende Erhebung von Gebühren AVerwGebO NRW - Mit Stimmenmehrheit beschlossen
+- TOP 23: Standortverlagerung der Förderschule Hardt - Einstimmiger Beschluss
+- TOP 24: Zweiter Nachtrag Tarif Benutzung Sportanlagen und Schulen - Mit Stimmenmehrheit beschlossen
+- TOP 25: Tarif für die Hallenbäder der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 26: Nachträge Museen - Mit Stimmenmehrheit beschlossen
+- TOP 27: Erster Nachtrag Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 28: Leistungsvereinbarungen Frauenhäuser - Mit Stimmenmehrheit beschlossen
+- TOP 29: Aufgabe des städtischen Jugendfreizeitheims Mülfort - Einstimmiger Beschluss
+- TOP 30: Verlängerung des Vertrages über die Wahrnehmung von Betreuungen - Mit Stimmenmehrheit beschlossen
+- TOP 31: Verlängerung des Vertrages über die Wahrnehmung von Betreuungen - Mit Stimmenmehrheit beschlossen
+- TOP 32: Leistungsvereinbarung mit AWO Familienservice gGmbH, Diakonischem Werk und Bistum Aachen - Mit Stimmenmehrheit beschlossen
+- TOP 33: Maßnahmen zum Schutz vor Überflutung der Talstraße - Einstimmiger Beschluss
+- TOP 34: Tiefgarage Marktplatz Rheydt - In die nächste Sitzung des HauptA verschoben
+- TOP 35: Mönchengladbach-Pass bei SGB II- und SGB XII-Bewilligungen beifügen - Vom Antragsteller zurückgezogen
+- TOP 36: Anfragen und Mitteilungen
