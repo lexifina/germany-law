@@ -1,0 +1,53 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2012-12-07T16:05:00+01:00
+- Ende: 2012-12-07T22:20:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfVd6mLRbsyajijU8DHAZUM
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1942
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVrGAYhGy_0sMkeisbYFgoE2gL59jaF1WDb1vatz9wG0/Einladung_Rat_07.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU1cqGpE6AdprVfTfFS_xGaVt2B9k5AfXnLsI7lEihVu/Oeffentliche_Niederschrift_Rat_07.12.2012.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 28.09.12
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: 3. Situationsbericht zur Haushaltswirtschaft 2012 - (kein Text vorhanden)
+- TOP A.5: Entwurf der Haushaltssatzung 2013 sowie Mittelfristige Ergebnis- und Finanzplanung 2012-2016, hier: Einbringung des Entwurfs der Haushaltssatzung 2013 mit ihren Anlagen - (kein Text vorhanden)
+- TOP A.5a: HVV GmbH: Konzernstruktur und Public Corporate Governance Kodex (PCGK)
+- TOP A.5b: Antrag CDU-Fraktion: Änderung der Beitragssatzung für die OGS
+- TOP A.6: Steuerung von Drittorganisationen
+- TOP A.6a: Windenergie-Westfalen-Lippe GmbH: Gründung und Beteiligung der Stadtwerke Herford GmbH - (kein Text vorhanden)
+- TOP A.6b: HVV GmbH: Wirtschaftsplan 2013 und geänderter Plan 2012 - (kein Text vorhanden)
+- TOP A.6c: WWS GmbH: Wirtschaftsplan 2013 und geänderter Plan 2012 - (kein Text vorhanden)
+- TOP A.6d: Änderung des Wirtschaftsplanes 2012 und Wirtschaftsplan 2013 des Immobilien - und Abwasser- Betriebes - (kein Text vorhanden)
+- TOP A.6e: Änderung der Betriebssatzung des Immobilien- und Abwasser- Betriebes - (kein Text vorhanden)
+- TOP A.6f: Interkomm GmbH: Wirtschaftsplan 2013 - (kein Text vorhanden)
+- TOP A.6g: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2011 und Wirtschaftsplan 2013 - (kein Text vorhanden)
+- TOP A.7: Denkmalschutzangelegenheiten: Eintragung des ehemaligen Getreidespeichers Goebenstr. 64 in die Denkmalliste der Stadt Herford - Entscheidung über mögliches Klageverfahren gegen die Weisung des Kreises Herford am 19.11.12 - (kein Text vorhanden)
+- TOP A.8: Qualitative Schulentwicklungs- und Bildungsplanung; hier: Auslaufende Auflösung der städtischen Hauptschule Meierfeld - (kein Text vorhanden)
+- TOP A.9: Ganztagsentwicklung in der Sekundarstufe ; hier: Bauliche Gestaltungsmöglichkeiten an der Otto-Hahn-Realschule - (kein Text vorhanden)
+- TOP A.10: Kurze Beine - kurze Wege Änderung der Klassenrichtzahl an Grundschulen - Steuerungsmöglichkeit bei wohnortnaher Beschulung - (kein Text vorhanden)
+- TOP A.11: Benennung von beratenden Mitgliedern des Schulausschusses: Nachbesetzung der Vertretung für die Stadtschulpflegschaft - (kein Text vorhanden)
+- TOP A.12: Jahresbericht 2012 der Behindertenbeauftragten der Stadt Herford - (kein Text vorhanden)
+- TOP A.13: Eine Gesellschaft für alle - Herford inklusiv hier: aktueller Sachstandsbericht zur Teilhabeplanung und Gründung der Lenkungsgruppe - (kein Text vorhanden)
+- TOP A.14: Änderung der Mitgliederbesetzung des Behindertenbeirates - (kein Text vorhanden)
+- TOP A.15: Endausbau Frentrupweg, Verschiebung "Herforder Heide" und "Obernbrink" - (kein Text vorhanden)
+- TOP A.16: Bebauungsplan Nr. 7.63 "Photovoltaik - Freilandanlage Deponie Speelbrink" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.17: FNP-Änderung 2.12 "Photovoltaik - Freilandanlage Deponie Speelbrink" hier: Feststellungsbeschluss - (kein Text vorhanden)
+- TOP A.18: Bebauungsplan Nr.6.74 "Am Elsenbrunnen" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.19: Bebauungsplan Nr. 8.75 "Hochstraße / Eupener Straße" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.20: Flächennutzungsplan-Änderung Nr. 3.11 "Hochstraße" hier: Feststellungsbeschluss - (kein Text vorhanden)
+- TOP A.21: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Stadt Herford - (kein Text vorhanden)
+- TOP A.22: Gebührenhaushalt Straßenreinigung hier: Gebührenkalkulation für das Jahr 2013 - (kein Text vorhanden)
+- TOP A.23: Änderung der Entwässerungsgebührensatzung Sparte: Abwasser - (kein Text vorhanden)
+- TOP A.24: E.ON Westfalen-Weser AG: Sachstand
+- TOP A.25: HVV GmbH: Konzernstruktur und Public Corporate Governance Kodex (PCGK) (Ist auf den TOP A.5b vorgezogen worden!)
+- TOP A.26: Anpassung der Gebührensatzung für den Krankentransport und Rettungsdienst - (kein Text vorhanden)
+- TOP A.27: Antrag CDU Fraktion: Umbesetzung von Ausschüssen hier: Schulausschuss und Zweckverband VHS
