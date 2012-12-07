@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-12-07T14:00:00+01:00
+- Ende: 2012-12-07T17:30:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6761
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6761
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187009.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187009.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187009.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften 09/2012 vom 26.10.2012 und 10/2012 vom 07.11.2012 - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - zur Kenntnis genommen
+- TOP 4: Sitzgelegenheiten im Stadtbezirk 1 - mündlicher Bericht - zur Kenntnis genommen
+- TOP 5: Plan Nr. 01/002 -Münsterstraße/Nordstraße Veränderungssperre - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Nutzung von Flächen des Ehrenhofes - einstimmig beschlossen
+- TOP 14: Sachstandsbericht Spee'scher Graben - zur Kenntnis genommen
+- TOP 15: Unterhaltung von baul. Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 16: Archäologischen Funde Andreasquartier - einstimmig beschlossen
+- TOP 17: "Car2go" - einstimmig beschlossen
+- TOP 18: Lärmminderungsmaßnahmen auf der Duisburger Straße - einstimmig beschlossen
+- TOP 19: Kinder beim Kö-Lauf - einstimmig beschlossen
+- TOP 20: Matschanlage Spielplatz Düsselthalerstraße - einstimmig beschlossen
+- TOP 21: Fernbusbahnhof - einstimmig beschlossen
+- TOP 22: Rad- und Gehwege Jägerhofstraße - einstimmig beschlossen
+- TOP 23: Neue Straßen und Plätze rund um den Kö-Bogen - einstimmig beschlossen
+- TOP 24: Rheinuferpromenade Nord - einstimmig beschlossen
+- TOP 25: Hugo-Viehoff-Straße - Einbahnstraßenöffnung - beantwortet
+- TOP 26: Grünfläche Bleichstraße/ Goltsteinstraße - beantwortet
+- TOP 27: Provisorischer Parkplatz Am Bonneshof - beantwortet
+- TOP 28: Erhöhung der Terrassengebühren für die Gastronomie - beantwortet
+- TOP 29: "Walk of Fame" - beantwortet
+- TOP 30: Polizeikontrollen Bagelstraße - beantwortet
+- TOP 31: Mitteilungen der Verwaltung - beantwortet
+- TOP 32: Bestellung eines Schriftführers - beantwortet
+- TOP 33: Kö-Bogen Baumfällung im Rahmen der Umsetzung des Bebauungsplanes - zur Kenntnis genommen
+- TOP 34: Trödelmärkte auf dem Gelände des Großmarktes - einstimmig beschlossen
