@@ -1,0 +1,66 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2012-12-10T18:00:00+01:00
+- Ende: 2012-12-10T19:35:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQ2E3UxhjvbKT8U7XSJ2dek
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/789
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkd9QBkUUsZMDMa4_dJnGXY50_8IY_rPSjuMmMz3K5g/Bekanntmachung_Rat_10.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZlOUiEy9lf0J0YyMXWKoV_LG1JJzNohW2dp8TxQ_hbb/Oeffentliche_Niederschrift_Rat_10.12.2012.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 17.09.2012
+- TOP 3.: Satzungen
+- TOP 3.1: 4. Satzung zur Änderung der Satzung der Stadt Brühl über die Erhebung von Verwaltungsgebühren - Verwaltungsgebührensatzung – - 43 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 3.2: Satzung über Vorkaufsrecht - (kein Text vorhanden)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4.1: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2011 - 46 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 4.3: Gesellschafterversammlung Stadtwerke - Konzernabschluss 2011 - 46 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 5.: Anträge
+- TOP 5.1: Induktionsschleife hier: Antrag der Fraktion „Die Linke.“ vom 21.10.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Rathaus B, Steinweg hier: Energetische Modernisierung und barrierefreier Umbau Bezug: Antrag der Fraktion „fw/bVb“ vom 14.11.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Archäologische Zone/Jüdisches Museum in Köln; hier: Ablehnung einer Übernahme der Betriebskosten und der Projektsteuerung seitens des LVR zur Vermeidung einer möglichen Mehrbelastung des Brühler Haushaltes Bezug: Antrag der Fraktion „fw/bVb“ vom 14.11.2012 - 43 Ja-Stimme(n), 4 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.4: Energieberatung durch Caritas hier: Antrag CDU-Fraktion vom 26.11.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Ratsherr Stilz (CDU) nimmt wieder am Sitzungstisch Platz.
+- TOP 6.: Über- und außerplanmäßige Aufwendungen und Auszahlungen Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 3. Quartal 2012
+- TOP 7.: Überplanmäßige Auszahlungen
+- TOP 7.1: Öffentliche Bekanntmachungen Überplanmäßige Ausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Außerplanmäßige Auszahlung Errichtung Max-Ernst-Museum - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3: Neubau der städtischen Kindertagesstätte „Haus für Kinder Vochem“ hier: überplanmäßige Ausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4: Hilfen zur Erziehung (HzE) nach dem SGB VIII hier: Überplanmäßige Ausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Umbesetzung in Ausschüssen
+- TOP 8.1: Umbesetzungen in Ausschüssen hier: Antrag der SPD-Fraktion vom 13.11.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2: Umbesetzung in Ausschüssen hier: Vertretung der Stadtschulpflegschaft im Schulausschuss - Einstimmig, 0 Enthaltung(en)
+- TOP 8.3: Ausschussumbesetzung hier: Antrag der Fraktion „Die Linke.“ vom 16.11.2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.4: Antrag der CDU-Fraktion; hier: Umbesetzung im Ausschuss für Lokale Agenda und Umwelt
+- TOP 9.: Beteiligungsbericht 2011
+- TOP 10.: Erstellung eines kommunalen Mobilitätskonzepts - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Durchführung von unabweisbaren Aufgaben in der Kultur-, Tourismus & Brauchtumsförderung, den städt. Veranstaltungsreihen und Städtepartnerschaften 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Straßenbenennung
+- TOP 12.1: Benennung einer Straße im Baugebiet „Bonnstr. 166-188“ Bebauungsplan 01.16 Teil 1 hier: Anregung gem. § 24 Gemeindeordnung NRW - (kein Text vorhanden)
+- TOP 13.: Prüfung des Jahresabschlusses 2011 durch die Wirtschaftsprüfungsgesellschaft Rödl & Partner - (kein Text vorhanden)
+- TOP 14.: Prüfung des Gesamtabschlusses 2010 durch die Wirtschaftsprüfungsgesellschaft Rödl & Partner - (kein Text vorhanden)
+- TOP -: Bürgermeister Kreuzberg übernimmt wieder die Sitzungsleitung.
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Abiturjahrgang 2013 hier: Anfrage der Fraktion „Die Grünen“ vom 23.11.2012
+- TOP 16.2: Doppelter Abiturjahrgang 2013 hier: Anfrage der Fraktion DIE GRÜNEN vom 23.11.2012
+- TOP 16.3: Cultra-Party im Februar 2011
+- TOP 16.4: Ratsinformationssystem im Internet
+- TOP 16.5: Ampel Rheinstraße
+- TOP 16.6: Unfallgefahr Steinweg
+- TOP 16.7: Landeszuweisungen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 17.: Sachstand Gerichtsverfahren Max-Ernst-Museum - (kein Text vorhanden)
+- TOP 18.: Zustimmung des Hauptausschusses zur Verwendung der Spendengelder zugunsten der Explosionsopfer Marc und Tobias Fischer für den Erwerb einer Immobilie - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk II (nördlicher Stadtbezirk) - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen
