@@ -1,0 +1,103 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455747
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455747
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parksituation vor dem Garagenhaus Kurparkstraße 65
+- TOP 1.2.: Raumbedarf des Ludwigsgymnasiums und des Erasmus-Grasser-Gymnasiums - Bürgerhaus Laim- Hadern - Sendling-Westpark
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Kinder / Jugend / Schule / Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Sanierung der Toiletten an der Grund- und Mittelschule Guardinistraße (Grünen-Fraktion) (vertagt aus 11/12)
+- TOP 4.2.: Ergebnisse der Studie zur Lebenssituation von Menschen mit Behinderung (Grünen-Fraktion) (vertagt aus 11/12)
+- TOP 4.3.: Einrichtung eines eingeschränkten Haltverbots vor den Kindertageseinrichtungen Marchioninistraße 3 - 5 und Waldwiesenstraße (Grünen-Fraktion) (vertagt aus 11/12)
+- TOP 4.4.: Bezirkssportanlage am Wolkerweg (Grünen-Fraktion) (vertagt aus 11/12)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Am Brombeerschlag 4, Neubau zweier Einfamilienhäuser mit zwei Garagen (Haus A) + (Haus B) (Referat für Stadtplanung und Bauordnung, 02.11.12)
+- TOP 6.2.: Würmtalstraße 50, Neubau eines 6-Familienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 29.10.12)
+- TOP 6.3.: Budget für die Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine "Fristwahrungsanträge"), Antrag BA 17 Obergiesing-Fasanengarten vom 10.07.2012 (Direktorium, 12.11.12)
+- TOP 6.4.: An der Rehwiese 19 - 21, Neubau eines Mehrfamilienhauses (4 WE) mit Personenaufzug und Tiefgarage (mit weitestgehend barrierefreiem Zugang)
+- TOP 6.5.: Erinnerungsorte München (Kulturreferat, 23.11.12)
+- TOP 6.6.: Senftenauerstraße 101, Erweiterung eines Einzelhandelsbetriebes (Referat für Stadtplanung und Bauordnung, 28.11.12)
+- TOP 6.7.: Umlaufsperren im Stadtgebiet des BA 20 Hadern (Kreisverwaltungsreferat, 05.12.12)
+- TOP 6.8.: Planung der Einsätze der Münchner Sommer SpielAktion 2013 (Spielen in der Stadt e.V., 04.12.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Eisenhutstraße 8, 2 Fichten
+- TOP 7.2.: Ossingerstraße 48, 1 Fichte
+- TOP 7.3.: Pelargonienweg 44, 1 Fichte, 1 serbische Fichte und 2 Scheinzypressen
+- TOP 7.4.: Schietweg 5, gem. Baumbestandsplan Nr. 25637
+- TOP 7.5.: Waldsaumstraße 19, gem. Baumbestandsplan Nr. 24957 und 24964
+- TOP 7.6.: Waldgartenstraße 66, 1 Fichte
+- TOP 7.7.: Pfingstrosenstraße 21 a, 1 Nussbaum
+- TOP 7.8.: Neufriedenheimer Straße 86 - 86 a, 1 Linde und 1 Kastanie
+- TOP 7.9.: Sonnenblumenstraße 17 a, 1 Spitzahorn
+- TOP 7.10.: An der Rehwiese 19 - 21, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 1108
+- TOP 7.11.: Stiftsbogen 102 - 116 / 130, 2 Pappeln
+- TOP 7.12.: Senftenauerstraße 101, gem. Baumbestandsplan Nr. 21682
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 23.10.2012 und 05.11.2012
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verwendungsnachweis für das Blumenauer Sommerfest am 21.07.2012 (Direktorium, 29.10.12)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Heiglhofstraße; Beschilderung mit Gefahrzeichen "Kinder" und Zusatzzeichen "Schule" (Kreisverwaltungsreferat, 19.11.12)
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Cafe Hölzl", Lorettoplatz 7 (Kreisverwaltungsreferat, 19.11.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Mietspiegel für München 2011, Wohnanlage Guardinistraße 87 (Sozialreferat, 02.11.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.5.: Dank für Zuschuss aus dem BA-Budget vom Familienzentrum Hadern-Blumenau e.V. für die Aktion "Spielkistl"
+- TOP 11.6.: Wahl der Seniorenvertretung 2013, Vorstellungsrunden der Kandidatinnen und Kandidaten (Sozialreferat, 06.11.12)
+- TOP 11.7.: 18.jetzt - Das Fest für junge Münchnerinnen und Münchner am 13.10.2012 im Rathaus (BA 2 Ludwigsvorstadt-Isarvorstadt, 31.10.12)
+- TOP 11.8.: Versand der Budgetvorlagen per Mail
+- TOP 11.9.: Neu aufgelegtes Faltblatt zum Thema "Laubbläser / Laubsauger" (Referat für Gesundheit und Umwelt, 26.11.12)
+- TOP 11.10.: Städtebaulicher und landschaftsplanerischer Ideenwettbewerb für den Neubau einer Wohnsiedlung an der Ludlstraße
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09602 (nach Antrag): Langfristige Freiraumentwicklung
+- TOP 12.2.: Beschluss vom 24.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10392 (nach dem Referentenantrag in der Fassung des Ausschussbeschlusses vom 10./17.10.2012): Planfeststellung für den 2. Stammstreckentunnel Abschnitt 1 West - Licht am Ende des Tunnels? (Das Vorhaben wird weiter befürwortet. Außerdem wird jetzt die "Sendlinger Spange" mit Halt in Laim befürwortet, Punkt 2 Satz 1 des Beschlusses vom 17.10.2012.)
+- TOP 12.3.: Beschluss vom 04.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09985 (nach Antrag): Wohnhaus zur Abklärung der Wohnperspektive - Clearinghaus Großhaderner Straße 60, Flst. 233, 234, 235 Gemarkung Großhadern Betriebskostenanmeldung des Internationalen Bundes e.V. für die Haushaltsjahre 2012 ff (2012 = 53.000,- ? + 48.176,- ?, 2013 = 125.208,- ?, 2014 = 94.958,- ?)
+- TOP 12.4.: Beschluss vom 04.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09962: Energieeffiziente Maßnahmen in Bauvorhaben des Kommunalen Wohnungsbauprogramms, Finanzierung von Photovoltaikanlagen Bauvorhaben Großhaderner Straße 60 / Ammerseestraße, Flst. 233, 234, 235 Gemarkung Großhadern, Wohnungsbau gefördert im Kommunalen Wohnungsbauprogramm-Teilprogramm C, insbesondere Darstellung der Kosten der Photovoltaikanlage des Clearinghauses (140.000,- ?, S. 4 und Anlage 2)
+- TOP 12.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6.: Beschluss vom 04.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09836 (nach Antrag): Mietspiegel für München Aufnahme von Bestandsmieten in den Münchner Mietspiegel (Der OB soll sich für die Streichung des 4-Jahres-Zeitraumes in § 558 Abs. 2 BGB einsetzen.)
+- TOP 12.1.: Beschluss vom 28.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10503: Novellierung der Baumschutzverordnung (BaumschutzV) Nicht geschützt sind nunmehr Hecken, die als lebende Einfriedungen dienen und durch regelmäßigen Schnitt in Form gehalten werden, sowie Obstgehölze mit Ausnahme von Walnuss, Holzbirne, Holzapfel (neu), Vogelkirsche (neu), Holunder und Hasel (§ 1 Abs. 4 des VO-Entwurfes). Das fachgerechte Verpflanzen nach den anerkannten Regeln der Technik eines geschützten Gehölzes auf dem selben Grundstück stellt kein (sonst verbotenes) Entfernen (eines lebenden Gehölzes) dar. (§ 3 Abs. 2 Satz 2) Bodenverdichtungen durch Befahren sind nunmehr verbotene Einwirkungen im Sinne des § 3 Abs. 1 (§ 3 Abs. 5 Satz 2, Spiegelstrich 3). Der fachgerechte Gehölzschnitt nach den anerkannten Regeln der Technik, der den Bestand erhält, und die fachgerechte Gestatlung, Pflege und Sicherung öffentlicher Grünflächen, bestehender Straßen und Bahnbetriebsanlagen einschließlich der Maßnahmen, die auf diesen Flächen der Erfüllung der Verkehrssicherungspflicht dienen, sind von den Verboten der VO ausgenommen (§ 4 Nr. 2 und 3).
+- TOP 12.2.: Maßnahmen zur Beseitigung unmittelbar drohender Gefahren sind vorab, spätestens jedoch 2 Wochen nach Durchführung, unter Vorlage aussagekräftiger Unterlagen, schriftlich anzuzeigen (§ 6 Abs. 1). Bei der Anordnung von Ersatzpflanzungen ist unter Berücksichtigung der Vitalität und der ökologischen Bedeutung jedes einzelnen zur Beseitigung vorgesehenen Gehölzes die Angemessenheit einer Ersatzpflanzung hinsichtlich Art und Umfang im Einzelfall abzuwägen. Wachsen Ersatzpflanzungen nicht an, ist eine erneute Pflanzung vorzunehmen (§ 7 Abs. 2). Nach dieser Maßgabe können auch Verursacher von verbotenen Maßnahmen zu Ersatzpflanzungen verpflichtet werden (§ 7 Abs. 3). Die Höhe der Ausgleichszahlungen richtet sich nach den Kosten der Anschaffung, Lieferung, fachgerechten Pflanzung und Fertigstellungspflege ( § 7 Abs. 4 Satz 1). Die Ausgleichszahlungen können jetzt auch für Pflege- und Erhaltungsmaßnahmen verwendet werden (§ 7 Abs. 4 Satz 2). Wegen weiterer Einzelheiten wird auf den Wortlaut der Neufassung Bezug genommen. Das Planungsreferat wird beauftragt, einen neuen Änderungsentwurf vorzulegen, durch den die Gattung Fichte aus der VO entfernt wird und der Schutz von mehrstämmigen Bäumen gelockert wird (Punkt 3 des Referentenantrages).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10159 (gemäß Beschlussseite): Neue Werkswohnungen a) Neue Werkswohnungen I: Betriebe und Unternehmen der öffentlichen Hand b) Neue Werkswohnungen II: Mittelständische und große Privatunternehmen c) Mehr Wohnungen für München - Nur ein größeres Wohnungsangebot kann Mieten senken! (Auf den Beschluss "Wohnen in München V" wird Bezug genommen. Die Stadt soll nunmehr Vertreter der Münchner Wirtschaft und der Wohnungswirtschaft einladen, um den "arbeitgebergeförderten" Wohnungsbau zu steigern.)
+- TOP 12.1.: Ergänzung vom 26.10.2012 zum Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10305 (Mehrkosten in 2013 = 351.493,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau des Caritasverbandes (Ansatz in 2013 = 212.852,- ?) und - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 des Caritasverbandes (Ansatz in 2013 = 51.923,- ?)
+- TOP 12.2.: Ergänzung vom 26.10.2012 zum Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10387 (Mehrkosten in 2013 = 255.750,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Nachbarschaftstreff Blumenau des Vereins für Sozialarbeit e.V. im DPWV (Ansatz in 2013 = 56.000,- ?), - zum Nachbarschaftstreff Kleinhadern, Na klar! (Ansatz in 2013 = 30.500,- ?) und - zum Projekt Krokusstraße 73 der Firma KOMPRO München Krokusstraße GmbH & Co. KG (Ansatz in 2013 = 3.249,- ?)
+- TOP 12.3.: Ergänzung vom 26.10.2012 zum Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / 10337 (Mehrkosten in 2013 = 37.921,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (kein Projekt in Hadern)
+- TOP 12.4.: Ergänzung vom 26.10.2012 zum Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 06.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10309 (Mehrkosten in 2013 = 897.932,- ?): Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Kinderhaus am Wolkerweg des BJR (Ansatz in 2013 = 205.062,- ?), - zum Treffpunkt für Jugendliche "PfiffTEEN" (Ansatz in 2013 = 317.891,- ?), - zum "Treff 21" des Vereins Schule-Beruf e.V. im DPWV (Ansatz in 201 = 352.948,- ?), - zum "Studio im Netz (SiN) e.V." (Ansatz in 2013 = 83.412,- ?), - zur Schulsozialarbeit an insgesamt 7 Grundschulen, in Hadern und in 6 weiteren Stadtbezirken (Ansatz in 2013 = insgesamt 356.393,- ?), - zum Familienzentrum Hadern-Blumenau des DPWV (Ansatz in 2013 = 64.973,- ?) und - zum Bewohnertreff Nachbarschaft Neuhadern (Ansatz in 2013 = 101.211,- ?)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10521: Klimawandel und Hitzeinseln Konsequenzen für die Dichte der Münchner Kernstadt?
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung vom 20.08.2012 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09600 (Der Referentenantrag wurde abgelehnt): Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung (Für Erklärungen des Planungsreferates, dass ein Bauvorhaben als "Freisteller" ohne Durchführung eines Genehmigungsverfahrens durchgeführt werden könne, sollen Gebühren in Höhe von 35 bis 75,- ? erhoben werden, Art. 58 Abs. 3 Satz 4 BayBO)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09670 (vertagt in die Vollversammlung): Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (Kosten 700.000,- ?)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10454 (nach Antrag): Mehrjahresinvestitionsprogramm 2012 - 2016 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012 - 2016
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10501: Mehrjahresinvestitionsprogramm (MIP) 2012 - 2016 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, insbesondere zur Grundschule am Canisiusplatz 2, Generalinstandsetzung (S. 3 unten) und zur Grundschule an der Senftenauerstraße, Sporthalle (S. 4 unten) 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse, insbesondere des BA Hadern und des Referates (S. 19 - 22) - zur Forderung Nr. 1, 15, A nach "Lärm- und Abgas-Schutzmaßnahmen für die BSA am Wolkerweg entlang der A 96 in IL 1" (derzeit abgelehnt), - zur Forderung Nr. 4 nach einem "Neubau der Kita an der Heiglhofstraße 68 in IL 1" (abgelehnt, jedoch IL 2), - zur Forderung Nr. 5 nach Errichtung einer "Modellsporthalle Hadern" in IL 1 (derzeit abgelehnt), - zur Forderung Nr. 6 nach "Neubau bzw. Sanierung der Kita an der Blumenauer Straße 9" in IL 1 (Voraussetzung ist das Vorliegen eines konkreten Planungsauftrages im Stadtrat), - zur Forderung Nr. 7 nach dem "Neubau des Kinderzentrums an der Terofalstraße 25 in IL 1" (wird grundsätzlich entsprochen), - zur Forderung Nr. 9, F nach Anlegung eines "Kunstrasenplatzes (auf dem Tennenplatz) an der BSA Wolkerweg in IL 1" (derzeit abgelehnt),
+- TOP 12.2.: - zur Forderung Nr. 10, E nach Anlegung eines "Kunstrasenplatzes (auf dem Tennenplatz) an der BSA Ludwig-Hunger-Straße in IL 1" (derzeit abgelehnt), - zur Forderung D nach "Sanierung der Sanitäranlagen (= Forderung Nr. 18, abgelehnt, S. 21) und Fenster (= Energetische Sanierung gem. Forderung Nr. 17) in der Senftenauer-Schule (abgelehnt, S. 21) und der Sanitäranlagen in der Guardini-Schule (= Forderung Nr. 19, der teilweise entsprochen wird, S. 21) in IL 1", - zur Forderung C nach "Erweiterung und Sanierung der Schulturnhallen für die GS an der Senftenauerstraße (derzeit noch abgelehnt, S. 21 unten), die GS Am Hedernfeld 42 (abgelehnt, S. 22 oben) sowie GS und HS an der Blumenauer Straße 11 (abgelehnt, S. 22 oben) in IL 1" sowie - zur Forderung J nach Herstellung der "Planungssicherheit" für die "Einrichtung eines Stadtteil-Museums/-Archivs im ehemaligen Rathaus an der Würmtalstraße nach Verlegung des eingruppigen Kindergartens" (abgelehnt)
+- TOP 12.3.: Beschluss des Bauausschusses vom 20.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09714: Weiterführung der Zusatzfinanzierung für den Sraßenunterhalt (5 x 2.000.000,- ? = 10.000.000,- ? in 2013 - 2017)
+- TOP 12.4.: Beschluss des gemeinsamen Ausschusses des Verwaltungs- und Personalausschusses, des Ausschusses für Stadtplanung und Bauordnung und des Finanzausschusses vom 21.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10344: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (Der BA Hadern hat keine Anliegen vorgetragen.)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10427: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 (Der BA Hadern hat keine Anliegen vorgetragen.)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09592: Nachhaltigkeitsaspekte in Bebauungsplänen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
