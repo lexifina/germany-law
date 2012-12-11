@@ -1,0 +1,68 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501926
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501926
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse FC Fasanerie Nord e.V. Anschaffung von Trikots
+- TOP 2.2.: (E) Budget der Bezirksausschüsse KUGEL e.V. Ausstellung zur 60-Jahrfeier der Siedlung Ludwigsfeld ab 02.02.2013
+- TOP 2.3.: (E) Budget des Bezirksausschusses Verein Stadtteilkultur 2411 e.V. Ergänzung der Grundausstattung des Kulturzentrums 2411
+- TOP 4: (E) Lärmschutz für die Wohnquartiere des 24. Stadtbezirks gegen Autobahn und Bahn Empfehlung Nr. 08-14 / E 00877 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 17.03.2011
+- TOP 4.5.: KVR: Entscheidung über Sondernutzungserlaubnis gem. OB-Vollmacht: 3 Anträge für Zeitungsverkaufseinrichtungen
+- TOP 4.6.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Dorffasching am 10.02.2013
+- TOP 3.1.: Siedlung Ludwigsfeld: Umbau und Nutzung der denkmalgeschützten Kantinenbaracke als Kultur-, Gedenk- und Begegnungszentraum Ludwigsfeld
+- TOP 3.2.: Weitere Baumpflanzung am Grünzug Feldmochinger Anger
+- TOP 3.3.: Errichtung eines Fußgängerüberweges auf der Lerchenstraße
+- TOP 3.4.: Lerchenstraße: a) Erstellung eines Zebrastreifens im Bereich zwischen Pflaum- und Dülferstraße b) sichere Überquerungsmöglichkeit für Schulkinder schaffen
+- TOP 3.5.: Reduzierung des hohen Verkehrsaufkommens und Geschwindigkeitsüberschreitungen in der Herbergstraße
+- TOP 3.6.: Detmoldstraße: Weiterbau des Fuß- und Radwegs nach Osten bis zur Schleißheimer Straße
+- TOP 3.7.: Freigabe der Einbahnstraße in der Franz-Fackler-Straße für Radfahrer in beiden Fahrtrichtungen
+- TOP 3.8.: Anträge aus der 11. Kinder- und Jugensprechstunde am 23.11.12
+- TOP 3.9.: Sanierung der Schulschwimmhalle an der Toni-Pfülf-Schule und Suche nach einer Ausweichmöglichkeit (+ Stellungnahmen des Referates für Bildung und Sport)
+- TOP 3.10.: Bau einer Fußgängerampel bzw. eines Zebrastreifens an der Dülferstr. 30
+- TOP 3.11.: Feldmoching: Fragen zum Grundwasseranstieg in Feldmoching im Umgriff des Nordwestsammlers
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Sicherheit der Radfahrer in der Lerchenstraße
+- TOP 5.2.: Bauvorhaben: 1. Wilhelmine-Reichard-Straße 2. Max-Müllner-Str. 14
+- TOP 5.3.: Baumfällungen im Rahmen von Bauvorhaben: 1. Ferchenbachstr. 15 2. Luitfriedstr. 9 3. Herbergstr. 44 4. Aronstabstr- 5
+- TOP 5.4.: Direktorium: Budget für die Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um Erfordernis einer inhaltlich qualifizierten Antragstellung (Keine "Fristwahrungsanträge")
+- TOP 5.5.: Direktorium (BA 20): Appell an LHST München: Verzicht auf Laubbläser
+- TOP 5.6.: KVR: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer
+- TOP 5.7.: KVR: Veranstaltungen auf städt. Grünanlage: Flohmärkte des Bewohnerstammtisches StadtteilQuartier e.V. im Jahr 2013 auf dem Goldschmiedplatz und dem Pfarrer-Steiner-Platz + Schreiben des Bewohnerstammtisches/ StadtteilQuartier e.V.: Notwendigkeit einer Ausnahmegenehmigung zur Befahrung des Geländes
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Referat für Bildung und Sport: Chancengleichheit bei der Aufnahme an Gymnasien für Kinder aus dem 24. Stadtbezirk und anderen Randgebieten
+- TOP 6.2.: Referat für Stadtplanung und Bauordnung: Ausbau der Karlsfelder Straße in Ludwigsfeld (Zwischenmitteilung zu Bürgerantrag; Verhandlungen gescheitert; neue Prüfung des Bebauungsplanes)
+- TOP 6.3.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.4.: Meldelisten Baumfällungsanträge
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: KVR: verkehrsrechtliche Anordnungen: 1. Strassenarbeiten in der Heppstraße vom 19.11.12 bis 15.03.13 2. Vorfahrtsregelung an der Kreuzung Schleißheimer Straße/ Aschenbrennerstraße/ Fortnerstraße 3. Aufhebung der Bücherbushaltestelle in der Blodigstraße 4. Verlegung der Haltestellen "Schittgablerstraße&gt;" der Linie 173
+- TOP 6.7.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung
+- TOP 6.8.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bebauungsplan mit Grünordnung Nr. 1503g; Am Schnepfenweg (beidseitig).....
+- TOP 6.9.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen a) bis d)
+- TOP 6.10.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnen in München IV; Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007 - 2011)
+- TOP 6.11.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Demografiebericht München - Teil 1; Analyse und Bevölkerungsprognosen 2011 bis 2030
+- TOP 6.12.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten.
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Auflösung des Werbebeirates der LHST München; Aufhebung der Werbebeiratssatzung: Gründung Beraterkreis "Runder Tisch Werbung"
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Mehrjahresinvestitionsprogramm für die Jahre 2012 bis 2016; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012 - 2016
+- TOP 6.15.: Beschlussvorlage Baureferat: Weiterführung Zusatzfinanzierung für den Straßenunterhalt
+- TOP 6.16.: Beschlussvorlage Referat für Bildung und Sport: Mehrjahresinvestitionsprogramm (MIP) 2012 - 2016
+- TOP 6.17.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013/ Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Ergänzung vom 26.10.2012)
+- TOP 6.18.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013/ Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (Ergänzung vom 26.10.2012)
+- TOP 6.19.: Beschlussvorlage Sozialreferat: Haushaltsplan 2013/ Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Ergänzung vom 26.10.2012)
+- TOP 6.20.: Direktorium (BA 1): Antrag auf Einrichtung eines Vergabesystems für Betreuungsplätze in städt. Kinderkrippen
+- TOP 6.21.: GWG: Broschüren "Report 2011"
+- TOP 6.22.: BA-Budget: Kurzberichte
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
