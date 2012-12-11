@@ -1,0 +1,102 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2398353
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2398353
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 13.11.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 03.11.2012 Parkraummanagement Kardinal-Döpfner-Straße (s. TOP C 2.1.2)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: 2.1.1 Listen der Bauvorhaben: 44., 45., 46., 47., KW
+- TOP 2.1.2.: 2.1.2 Listen der Abgeschlossenheitsbescheinigungen 42., 43., 44., 45., 46. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Adalbertstraße 82, Erneuerung Dachstuhl und DG-Ausbau, Balkonerneuerung
+- TOP 2.1.4.: Arnulfstraße 60, Umbau eines Verwaltungsgebäudes
+- TOP 2.1.5.: Josephsplatz, Neubau einer Anwohner-Tiefgarage ? Tektur -
+- TOP 2.1.6.: Arnulfstraße 2, Nutzungsänderung von Sport- und Fachschulflächen zu Verkaufs- und Ge- werbeflächen
+- TOP 2.1.7.: Linprunstraße 52, Neubau einer Wohnanlage mit Tiefgarage ? Vorbescheid -
+- TOP 2.1.8.: Schwindstraße 7, Abbruch Werkstattgebäude, Neubau Wohngebäude (4 WE) - Vorbescheid
+- TOP 2.1.9.: Schleißheimer Straße 29, Neubau eines Dreifamilienhauses mit Tiefgarage
+- TOP 2.1.10.: Augustenstraße 62, Anhebung des Dachstuhls und DG-Ausbau ? Vorbescheid
+- TOP 2.1.11.: Dachauer Straße 12, Neubau eines Boardinghauses mit Gastrobereich im Erdgeschoss und Tiefgarage
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Steinickeweg 7, eine Robinie
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Tiefbau Bauliche Maßnahmen (Schutzstreifen für Radverkehr) in der Schleißheimer Straße zwischen Elisabethstraße und Maßmannstraße sowie Begrünung der Schleißheimer Straße zwischen Georgenstraße und Heßstraße
+- TOP 2.1.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 03.11.2012 Parkraummanagement Kardinal-Döpfner-Straße (s. TOP A 5.2.1)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Sondernutzugserlaubnis a) Türkenstraße 94, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Sozialreferat, Anhörung Ausschreibung: ?Kinderorte im Stadtteil sichtbar machen ? Kindern eine Stimme geben!? - Neuer Stadtbezirk gesucht für 3. Pilotprojekt ?Kindersommer im Stadtteil? (zwischen Weltspieltag und Weltkindertag 2013) vertagt aus der Sitzung am 13.11.2012, TOP D 2.1 Unterlagen liegen bereits vor
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Marilyn" Theaterproduktion "Marilyn" am 14./15.12.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Die Fiedlerin auf dem Dach" Projekt "Die Fiedlerin auf dem Dach" am 27.01.2013
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Projekt Restlich (Werner Mally) vor dem Siegestor
+- TOP 3.2.: Planungsstand ?Maxvorstädter Vorlesungen? mit Begleitausstellungen in der U-Bahn-Ga- lerie Oktober 2013 bis Februar 2014
+- TOP 3.3.: Verschiedenes
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutz- programmes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 09670
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Baugenehmigung Wittelsbacherplatz 1, temporäre Installation eines Sockelnachbaus (?Fourth Plinth? - Aus- stellungszeitraum: zwölf Monate) befristet bis zum 15.11.2013
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Bescheid zur beantragten Baumfällung Schellingstraße 145 ? 147 (s. TOP B 2.2.2/1112)
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Novellierung der Baumschutzverordnung (BaumschutzV) Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 Sitzungsvorlage Nr. 08-14 / V 10503
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bau der geplanten Tiefgarage ? Verbesserung der Erreichbarkeit der Museen im zukünfti- gen ?Kunstareal?, dem heutigen Museumsviertel Antrag Nr. 08-14 / A 01992 von Herrn Stadtrat Dr. Reinhold Babor vom 18.11.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 09680
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bebauungsplan mit Grünordnung Nr. 1951, Linprunstraße (südlich), Sandstraße (westlich) Teiländerung des Bebauungsplanes Nr. 496 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 10728
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebei- ratssatzung; Gründung Beraterkreis ?Runder Tisch Werbung? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 10677
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München IV Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamt- bilanz für den Zeitraum von Wohnen in München IV (2007 ? 2011) Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 f/ V 10688
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2011 bis 2030 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 10686
+- TOP 1.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutz- programmes 2010 ? 2012 vom Referat für Stadtplanung und Bauordnung zu verantworten- den Aktivitäten Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 Sitzungsvorlage Nr. 08-14 / V 09670
+- TOP 1.12.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Verkehrsplanung im Münchner Norden; Behandlung eines Stadtratsantrages und von Bürgerversammlungsempfehlungen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10493
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro TUNIX 2013, Vorankündigung
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Errichtung einer temporären Geschwindigkeitsbeschränkung in der Gabelsbergerstraße auf 30 km/h mittels Zeichen 274-50 STVO und eines zeitlich befristeten Haltverbots nach Zeichen 283 StVO
+- TOP 2.3.: Kreisverwaltungsreferat, Verkehrsmanagement Antwortschreiben des KVR zum Schreibendes BA 3 vom 17.09.2012 Abschaltung der Ampel an der Grundschule Blutenburgstraße 3 nach 20.00 Uhr
+- TOP 2.4.: Baureferat Austausch von verschmutzten oder durch Vandalismus beschädigten Verkehrszeichen anfrage Nr. 08-14 / Q 00425 aus der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt am 18.10.2012
+- TOP 2.5.: Baureferat, Tiefbau Weiterführung der Zusatzfinanzierung für den Straßenunterhalt Sonderprogramm zur Sanierung der Münchner Straßenunterhalt Antrag Nr. 08-4 / A 0219 von verschiedenen Stadträten vom 04.01.2011 Beschluss des Bauausschusses vom 20.11.2012 Sitzungsvorlage Nr. 08-14 / V 09714
+- TOP 2.6.: Markthallen München, Immobilienmanagement, Lebensmittelmärkte Verlegung des Bauernmarktes am Josephsplatz (Dienstag 08.00 Uhr bis 19.00 Uhr) wegen Baurbeiten
+- TOP 2.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Weihnachtsmarkt mit Adventsspektakel auf dem Wittelsbacherplatz vom 26.11.2012 bis 23.12.2012
+- TOP 2.8.: Baureferat, Tiefbau Fehlende Fahrradstellplätze vor dem Anwesen Arnulfstraße 45,46 und 47 Anfrage Nr. 08-14 / Q 00423 aus der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 18.10.2012; Antwortschreiben des Baureferates
+- TOP 2.9.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Feuerwehrzufahrt Erika-Mann-Straße 56
+- TOP 2.10.: Referat für Arbeit und Wirtschaft Umbenennung des bisherigen Tourismusamtes München in ?München Tourismus?
+- TOP 2.11.: Die Stadt München wird beauftragt, vor dem Grundstück Oskar-von-Miller-Ring 31 (Ecke Amalienstraße) auf dem Gehweg zehn Bügel zum Anschließen von Fahrrädern einzurichten.
+- TOP 2.12.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Beschwerde über Ruhestörung in der ?Bonnie Bar?, Neureutherstraße 21 Anfrage Nr. 08-14 / Q 00424 aus der Bürgerversammlung des 3. Stadtbezirkes am 18.10.2012
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsmanagement Einrichtung von Fahrradstraßen BA-Antrag Nr. 08-14 / B 02527 vom 15.11.2010
+- TOP 2.14.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Temporäre Durchfahrtssperre am Königsplatz an Sonntagen vom 15.05.2007 bis 15.11.2007 Antrag Nr. 02-08 / B 02004 des BA 3 vom 13.03.2007 und Renaissance des öffentlichen Raumes II Zeit-Räume! Temporäre Straßenumwidmungen ermöglichen Antrag Nr. 02-08 / A 04225 der Stadtratsfraktion Bündnis 90/Die Grünen/Rosa Liste vom 07.02.2008 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 10266
+- TOP 2.15.: Baureferat Informationsveranstaltung vom 25.10.2012 zur geplanten Erschließungs-/ und Verbesse- rungsmaßnahme in der Schleißheimer Straße, Schreiben an einen Anlieger mit Gewerbebetrieb vom 26.11.2012
+- TOP 3.1.: Sozialreferat Wahl der Seniorenvertretung 2013, Vorstellungsrunden der Kandidatinnen und Kandidaten
+- TOP 4: Kultur
+- TOP 4.1.: Direktorium, BA-Angelegenheiten Budget für die Bezirksausschüsse; Ausweitung der sechs-Wochen-Vorlauffrist um die Er- fordernis einer inhaltlich qualifizierten Antragstellung (keine Fristwahrungsanträge) Antrag des BA 17 Obergiesing-FAsangarten vom 10.07.2012 (Nr. 08-14 / B 04152).
+- TOP 4.2.: Direktorium, Budget Möglichkeit der elektronischen Zuleitung der Budget-Vorlagen an die BA-Mitglieder
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
