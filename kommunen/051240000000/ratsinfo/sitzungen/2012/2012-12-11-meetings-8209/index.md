@@ -1,0 +1,90 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-12-11T16:04:00+01:00
+- Ende: 2012-12-11T18:26:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8209
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8209
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand 27.11.2012) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00149195.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00150359.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2011 des GMW - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Delphin Verwaltungs GmbH für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2011 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2013 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan 2013 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan 2013 der Wirtschaftsförderung Wuppertal AöR (WiFö) - vertagt auf Rat
+- TOP 3.5: Wirtschaftsplan 2013 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö Gmbh) - ungeändert beschlossen
+- TOP 3.6: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 3.7: Wirtschaftsplan der Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Gründung einer Tochtergesellschaft der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 5.2: Abschluss eines Kooperationsvertrages zwischen der Von der Heydt-Museum Wuppertal gemeinnützige GmbH und der Stadt Wuppertal - ungeändert beschlossen
+- TOP 5.3: Übergangsgeschäftsordnung für die Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 5.4: Bereitstellung außerplanmäßiger Mittel für die Wiederherrichtung des Geländes der ehemaligen Tierkörperbeseitigungsanstalt Bergisch-Born (TBA) - ungeändert beschlossen
+- TOP 5.5: Anteile der Hotel AG - ungeändert beschlossen
+- TOP 5.6: Änderung des Gesellschaftsvertrages der Bergische Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 5.7: Bestellung eines Abschlussprüfers für die Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 5.8: Bestellung eines Abschlussprüfers für die Geschäftsjahre 2012 - 2016 der Historische Stadthalle Wuppertal Service GmbH - ungeändert beschlossen
+- TOP 5.9: Aufwandsentschädigung für die Verwaltungsratsmitglieder der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 5.10: Bereinigung des städtischen Beteiligungsportfolios - vertagt auf Rat
+- TOP 5.10.1: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Verkauf der Anteile an der Barmer Wohnungsbau AG - in der Sache erledigt
+- TOP 5.11: Bestellung eines Vertreters in der Verbandsversammlung des Verkehrsverbundes Rhein-Ruhr (VRR) -Die Vorlage wurde von der Verwaltung zurückgezogen-
+- TOP 5.12: Beteiligungsbericht 2011 - Entgegennahme ohne Beschluss
+- TOP 5.13: Wirtschaftlicher Erfolg des Cross-Border-Leases des Kanalnetzes - Entgegennahme ohne Beschluss
+- TOP 5.14: Sachstandsbericht der Cross-Border-Lease Transaktion der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Zinsentwicklung im städtischen Kreditportfolio - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Aufstellung des Haushaltsplans 2014/2015 - Intensivierung der Bürgerbeteiligung - Entgegennahme ohne Beschluss
+- TOP 8.2: Genehmigung der Fortschreibung des Haushaltssanierungsplans 2012 - 2021 für das Jahr 2013 - Entgegennahme ohne Beschluss
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: „Keine Umsatzbesteuerung Interkommunaler Zusammenarbeit“ (Vorlage VO/0758/12) Ergänzungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 12.11.2012 - in der Sache erledigt
+- TOP 11.2: Große Anfrage der FDP-Fraktion vom 26.11.2012 - Betriebsferien zwischen den Jahren - Entgegennahme ohne Beschluss
+- TOP 11.2.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 26.11.2012 - Betriebsferien zwischen den Jahren - Entgegennahme ohne Beschluss
+- TOP 11.3: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 27.11.2012 - Berichterstattung zum Cash-Pooling im Stadtkonzern - für erledigt erklärt
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 12.2: Satzung über die Festsetzung der Hebesätze - ungeändert beschlossen
+- TOP 12.3: 4. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.4: Gebührensatzung zur Abfallwirtschaft 2013 - ungeändert beschlossen
+- TOP 12.5: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2013 - ungeändert beschlossen
+- TOP 12.6: Entgeltordnung der Stadt Wuppertal für die Nutzung von städtischem unbebauten Grundbesitz - ungeändert beschlossen
+- TOP 12.7: Neufestsetzung der Vergabewertgrenzen - zur Entscheidung verwiesen
+- TOP 12.8: Soziale Stadt Oberbarmen/Wichlinghausen - Anpassung des Integrierten Handlungskonzepts incl. Kosten- und Finanzierungsplan - ungeändert beschlossen
+- TOP 12.9: Auslaufen der Regelungen zur Bewilligung von Altersteilzeit im Beamtenbereich - ungeändert beschlossen
+- TOP 12.10: Erste Änderung der Satzung zur Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 14.1: Quartalsbericht III/2012 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 14.2: Quartalsbericht III/2012 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 14.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2013 - stationärer Bereich - - ungeändert beschlossen
+- TOP 14.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2013 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 14.5: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen A - ungeändert beschlossen
+- TOP 14.6: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit - ungeändert beschlossen
+- TOP 14.7: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2012 der APH - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 16.1: Bericht über das 3. Quartal 2012, KIJU - Entgegennahme ohne Beschluss
+- TOP 16.2: Wirtschaftsplanung KIJU für das Jahr 2013 - ungeändert beschlossen
+- TOP 17: Berichte und Mitteilungen
