@@ -1,0 +1,68 @@
+# Stadtrat (24. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-12-11T17:00:00+01:00
+- Ende: 2012-12-11T19:50:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZ7LWKKuvd2eSLQVu6CtrWU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12760
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcsMK8gZ31OXx-WduLcd6pA9EzOcGjtWG_2x72Pru5SW/Bekanntmachung_Stadtrat_11.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbyQDX8u-UKxXb8MyqoJv2L4FwQBOeKpr9yKFr19-DFp/Oeffentliche_Niederschrift_Stadtrat_11.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung des neuen Stadtverordneten Oliver Niederjohann
+- TOP 12.4: Bebauungsplan HO 350 "Gewerbegebiet Josef - Bitschnau-Straße", Stadtteil Horrem - Aufstellungsbeschluss
+- TOP 12.5: 
+- TOP 2.: Wahl eines / einer Beigeordneten
+- TOP 3.: Einwohner/innen - Fragestunde
+- TOP 4.: Widerspruch gegen die Niederschrift des Stadtrates vom 02. Oktober 2012 hier: TOP 17 - Kommunales Energiekonzept für die Kolpingstadt Kerpen
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Antrag der SPD-Fraktion
+- TOP 5.2: hier: Antrag der FDP-Fraktion
+- TOP 5.3: Umbesetzung des Jugendhilfeausschusses
+- TOP 5.4: Umbesetzung des Jugendhilfeausschusses / Beratende Mitglieder
+- TOP 5.5: Umbesetzung von Ausschüssen und Gremien hier: Antrag der BBK/UWG-Fraktion
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 2. Änderung der Geschäftsordnung für den Rat der Stadt Kerpen und seine Ausschüsse
+- TOP 6.2: 15. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 6.3: 2. Satzung zur Änderung der Vergnügungssteuersatzung der Kolpingstadt Kerpen
+- TOP 6.4: 5. Satzung zur Änderung der Hundesteuersatzung der Kolpingstadt Kerpen
+- TOP 6.5: 22. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 6.6: 13. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 6.7: 7. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 6.8: Gebührenbedarfsberechnung Abwasserentsorgung 2013
+- TOP 6.9: Straßenreinigungssatzung hier: 3. Satzung zur Änderung der Satzung über die Straßenreinigung (Straßenreinigungssatzung) in der Stadt Kerpen
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Stellenplan 2013: Einrichtung einer zusätzlichen Architektenstelle im Bereich Hochbau
+- TOP 7.2: Stellenplan 2012 Erweiterung des Stellenplanes zur dauerhaften Weiterbeschäftigung von Zeitarbeitsverhältnissen in den Kindertageseinrichtungen
+- TOP 7.3: Besetzung der Einigungsstelle gem. § 67 LPVG NW
+- TOP 8.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im III. Quartal 2012
+- TOP 9.: Bekanntgabe der in der Zeit vom 01.07. bis 30.09.2012 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 10.: Straffung der Tarifstruktur und Änderung der Eintrittspreise für die Bäder der Stadt Kerpen zum 01.01.2013
+- TOP 11.: Sanierung der Erftlagune
+- TOP 12.: Stadtentwicklung und Bauleitplanung
+- TOP 12.1: Bebauungsplan SI 228 A/1. Änderung "Kerpener Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13 BauGB (vereinfachtes Verfahren) und Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 12.2: Beschluss zur Feststellung der endgültigen Fertigstellung für den hergestellten Teilbereich der Erschließungsanlage „Marienstraße“, gelegen zw. Kölner Straße und der ehemaligen Bahnanlage hier: Beratung über die eingegangenen Stellungnahmen der Öffentlichkeit sowie der Behörden und Träger öffentlicher Belange
+- TOP 12.3: Beschluss zur Feststellung der endgültigen Fertigstellung der „Burgstraße“, gelegen zw. Broichmühlenstraße und Uhlandstraße im Stadtteil Kerpen hier: Beratung über die eingegangenen Stellungnahmen der Öffentlichkeit sowie der Behörden und Träger öffentlicher Belange
+- TOP 13.: Flurbereinigungsverfahren Hambach Ost, Änderung der Stadtgrenze
+- TOP 14.: Inklusion für die Kerpener Schulen / Zukunft der Martinusschule
+- TOP 15.: Neubau einer dreigruppigen Kindertagesstätte im Baugebiet "Zum Vogelruther Feld" in Kerpen- Sindorf
+- TOP 16.: Anbau von zwei Gruppen für Kinder über und unter drei Jahren für Kinder über drei Jahren an die Kindertagesstätte Erftpiraten in Kerpen- Horrem
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 18.: Mitteilungen
+- TOP 19.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.1: Finanzielle Auswirkungen der Insolvenzen der Firmen GEG Göttsch und Gepa
+- TOP 20.2: Sachstand Kommunales Integrationszentrum (KIZ)
+- TOP 20.3: Kosten für den Anbau der Realschule
+- TOP II.: Nichtöffentlicher Teil
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
