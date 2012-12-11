@@ -1,0 +1,8 @@
+# TOP 14.1: Quartalsbericht III/2012 zur wirtschaftlichen Situation der APH - stationärer Bereich -
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU (2012-12-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/56667
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/26806
