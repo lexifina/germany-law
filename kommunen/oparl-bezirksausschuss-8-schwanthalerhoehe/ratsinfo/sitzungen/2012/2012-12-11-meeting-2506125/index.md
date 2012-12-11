@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2012-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506125
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506125
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Umbesetzung im UA Soziales; Bestimmung eines neuen UA-Vorsitzenden
+- TOP 1.3.: Benennung eines Schaukastenbetreuers
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Lage der Glascontainerstandorte im Stadtbezirk
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Westendstr. 38-42
+- TOP 5.2.: Zweckentfremdung Tulbeckstraße 14 und 16, Schwanthalerstr. 151
+- TOP 5.3.: Gaststättenfortführungen: Alter Messeplatz 8, Kazmairstr. 28, Gollierstr. 30, Bergmannstr. 66
+- TOP 5.4.: Baulisten
+- TOP 5.5.: Anhörung: Gollierstr. 29, Anbau eines Personenaufzugs, Neubau 3er Balkonanlagen und Einbau einer Dachterrasse (vertagt aus 11/12) dazu auch: Schreiben der LBK vom 26.11.2012
+- TOP 5.6.: Gollierstr. 29, Neubau eines Garten-Doppelhauses mit Duplexgarage (vertagt aus 11/12)
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Sofortige Rücknahme des Skatesverbotes am Georg-Freundorfer-Platz SV 08-14 / V 10613
+- TOP 6.2.: Mietspiegel in München SV 08-14 / V 9836
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Erinnerungsorte München BA-Antrag Nr. 08-14/ B 03000 des Bezirksausschusses des Stadtbezirks 8 Schwanthalerhöhe vom 10.05.2012 hier: Schreiben des Kulturreferats vom 23.11.2012 und 27.11.2012
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Baumfällung Gollierstr. 70
+- TOP 8.2.: Anhörung: Baumfällung Schwanthalerstr. 149
+- TOP 8.3.: Anhörung: Baumfällung Geroltstr. 35
+- TOP 8.4.: Nutzung der Theresienwiese - Afrika-Tage 2013
+- TOP 8.5.: Einrichtung von Fahrradstraßen
+- TOP 8.6.: Gefahrloses Passieren des Fuß- und Radwegs in der Landsberger Str. 55 dazu auch: Auflagenbeiblatt zur verkehrsrechtlichen Erlaubnis
+- TOP 8.7.: "Verzicht auf Laubbläser", Antrag des BA 20
+- TOP 8.8.: Ausnahmegenehmigung für das Feriencamp Naturindianer
+- TOP 8.9.: Gefahrenbäume auf öffentlichem Grund
+- TOP 8.10.: Radverkehr München - Grundsatzbeschluss zur Förderung des Radverkehrs; notwendige Maßnahmen im Stadtbezirk Schwanthalerhöhe
+- TOP 8.11.: Verkehrssituation um die Theresienwiese während des Oktoberfestes
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Bezuschussung "Tag der offenen Tür am 20./21.10.12"
+- TOP 9.2.: Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragsstellung
+- TOP 10: Anträge
+- TOP 10.1.: Lifteinbau Fuß- und Radfahrweg Arnulfpark
+- TOP 11: Verschiedenes
+- TOP 11.1.: 18. Jetzt - Dankschreiben und Fragebogen
+- TOP 11.2.: Flyer Laubbläser
+- TOP 12: Protokoll und Umlauf
