@@ -1,0 +1,53 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2012-12-11T18:00:00+01:00
+- Ende: 2012-12-11T20:20:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSuw2vE8P194Bph5sWwoqpw
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/12346
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXla9Uc95YZdRTV4rLtqJ6ZvfgVm65dvn4XOkh-j9_ii/Bekanntmachung_Rat_11.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeITJbKcee09IkwhGG9VR-HyiS6W7yNPF7kdiaOOuzdb/Oeffentliche_Niederschrift_Rat_11.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 13.11.2012 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Öffentlich-rechtliche Vereinbarungen der Stadt Bad Münstereifel mit der Bezirksregierung Koblenz vom 09.09.1974/25.11.1976 und der Verbandsgemeinde Adenau vom 26.11.1976 über die Beschulung von hauptschulpflichtigen Schülern aus der Gemeinde Hümmel hier: Erteilung des Einvernehmens zur Aufhebung der öff.-rechtl. Vereinbarungen - Einstimmiger Beschluss:
+- TOP 5.: 2. Satzung zur Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkunft für Aussiedler, Asylbewerber und Obdachlosen (Übergangsheim) der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 6.: 15. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 7.: 8. Satzung zur Änderung der Satzung über dei Abfallentsorgung in der Stadt Bad Münstereifel vom 16.11.1992
+- TOP 7.1: 8. Satzung zur Änderung der Satzung über dei Abfallentsorgung in der Stadt Bad Münstereifel vom 16.11.1992 - Einstimmiger Beschluss:
+- TOP 8.: 27. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung der Stadt Bad Münstereifel) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 9.: Feststellung Jahresabschluss Forstbetrieb zum 31.12.2009 - Beschluss
+- TOP 10.: Erlass des Wirtschaftsplanes 2013 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:Dem Antrag von Herrn Dürholt, bei den Positionen Damwildgatter und Anschaffung eines neuen Dienstwagens Sperrvermerke anzubringen, wird zugestimmt. Die Freigabe erfolgt im Betriebsausschuss Forstbetrieb.Beschluss mit 30 Ja-Stimmen b
+- TOP 11.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2010 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser - - Beschluss
+- TOP 11.1: Feststellung des Jahresabschlusses und des Lageberichtes zum 31.12.2010 des Eigenbetriebes Stadtwerke Bad Münstereifel - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 12.: Abwassergebühren 2013 hier: 37. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung - Einstimmiger Beschluss:
+- TOP 13.: Gebühren zur Entsorgung von Grundstücksentwässerungsanlagen 2013 hier: 6. Satzung zur Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) - Beschluss
+- TOP 13.1: Gebühren zur Entsorgung von Grundstücksentwässerungsanlagen 2013 hier: 6. Satzung zur Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) - Beschluss mit 22 Ja- zu 8 Nein-Stimmen bei 2 Enthaltungen:
+- TOP 14.: Wassergebühren 2013 - Einstimmiger Beschluss:
+- TOP 15.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2010 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Beschluss
+- TOP 15.1: Feststellung Jahresabschluss und Lagebericht zum 31.12.2010 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 16.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Prüfbericht der Gemeindeprüfungsanstalt NRW und Stellungnahme der Verwaltung - Beschluss
+- TOP 16.1: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: weitere Vorgehensweise - Einstimmiger Beschluss:
+- TOP 17.: Jahresabschluss 2011 hier: Prüfbericht und Bestätigungsvermerk gem. § 101 GO NRW - Beschluss
+- TOP 17.1: Jahresabschluss 2011 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses und Entlastung gem. § 96 Abs. 1 GO NRW - Beschluss mit 22 Ja- zu 7 Nein-Stimmen bei 3 Enthaltungen zu Punkt 1 und Punkt 3:Beschluss mit 24 Ja- zu 7 Nein-Stimmen zu Punkt 2:
+- TOP 18.: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; Wirtschaftspläne 2013 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasserversorgung und Abwasserentsorgung der Stadt Bad Münstereifel hier: Einbringung der Entwürfe - Beschluss mit 31 Ja-Stimmen bei 1 Enthaltung:
+- TOP 19.: Reparatur des Seilwindenschadens des Rüstwagens der Löschgruppe Arloff-Kirspenichhier: mündlicher Antrag der CDU-Fraktion - Der Verweisungsantrag in den Bau- und Feuerwehrausschuss des Stadtverordneten Günter Kirchner wird mit 20 Nein- zu 7 Ja-Stimmen bei 4 Enthaltungen abgelehnt.Beschluss mit 20 Ja- zu 1 Nein-Stimme bei 10 Enthaltungen:
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: Datenschutz im Bereich der Ratsunterlagen hier: Stellungnahme des Landesbeauftragten für Datenschutz und Informationsfreiheit Nordrhein-Westfalen in Sachen Holzverkaufslisten - Beschluss
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Neuverpachtung Caféteria im eifelbad hier: Inhaberwechsel - Einstimmiger Beschluss:
+- TOP 2.: Elektroakustische Anlage im eifelbad - Beschluss mit 29 Ja-Stimmen bei 1 Enthaltung:
+- TOP 3.: Ausbau des Vorplatzes Orchheimer Tor/Handwerkerhof hier: Antrag auf Kostenbeteiligung - Beschluss mit 30 Ja-Stimmen bei 1 Enthaltung:
+- TOP 4.: Bahnhofsumfeld ZOB mit Umbau des Bahnsteigs, Park-and-Ride, etc. Hier: Auftragsvergaben unter außerplanmäßiger Bereitstellung der Mittel -Genehmigung der Dringlichkeitsentscheidung- - Beschluss mit 23 Ja- zu 6 Nein-Stimmen bei 2 Enthaltungen:
+- TOP 5.: Forderungen aus Energielieferungen; hier: Abschluss eines Vergleichs - Genehmigung eines Eilbeschlusses gemäß § 60 Abs. 1 GO NRW - Einstimmiger Genehmigungsbeschluss:
+- TOP 6.: 15. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 7.: Neues Kommunales Finanzmanagement hier: Dienstanweisung für die Finanzbuchhaltung - Einstimmiger Beschluss:
+- TOP 8.: Anfragen und Mitteilungen
