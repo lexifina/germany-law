@@ -1,0 +1,65 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2012-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2458778
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2458778
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 2.2.2: Unterausschuss Planung
+- TOP 2.2.3: Unterausschuss Verkehr
+- TOP 2.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 2.2.5: Unterausschuss Haushalt, Satzung
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kult e.V. 8. Kafe Kunst Fest am 02.12.2012
+- TOP 2.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 2.2.7: Unterausschuss Kultur, Projekte
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Grüne Radverbindung zwischen Zamilapark, Denninger Anger und ÖBZ
+- TOP 6.2.: Einrichtung eines absolutes Haltverbotes a.d. südl. Kurve im Kurvenbereich Regina-Ullmann-Straße / Küfnerstraße
+- TOP 6.3.: Straßenrandbegrünung in der Laplacestraße
+- TOP 6.4.: Verkehrsmaßnahmen Muspillistraße
+- TOP 6.5.: Kreuzung Cosimastraße / Fritz-Meyer-Weg / Küfnerstraße: Eindeutige Fahrbahnmarkierung der Verkehrsführung beim Linksabbiegen; Antwort KVR vom 31.10.12 (zu TOP 2.3.13/07/12)
+- TOP 6.6.: Überdachtes Haltehaus an Bushaltestelle Pühnstr. stadteinwärts (Bus 188)
+- TOP 6.7.: Hundetüten Perfallstraße; Antwort BauR vom 26.11.12 (vgl. TOP 2.4.3/06/11)
+- TOP 6.8.: Sicherung des Baudenkmals Kunihohstr. 22, ehemaliges Bauernhaus, Ensemble Daglfing (sog. Meßnerhof)
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
