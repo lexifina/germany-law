@@ -1,0 +1,8 @@
+# TOP 8: Schulsanierungen
+
+- Sitzung: Bezirksvertretung 3 (2012-12-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/179941
+- Ergebnis: mehrheitlich abgelehnt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/65043
