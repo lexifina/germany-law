@@ -1,0 +1,91 @@
+# 13. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-12-12T17:00:00+01:00
+- Ende: 2012-12-12T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2449
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2449
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Der Fußgängerüberweg (Zebrastreifen) in der Bäkestraße - ein Schildbürgerstreich? - beantwortet
+- TOP 3.2: Masterplan Wirtschaftsentwicklung - beantwortet
+- TOP 3.3: Beschwerden zum Ausbau Parkwege an "Krumme Lanke" - beantwortet
+- TOP 3.4: Unzulässige Vergrößerung der Verkaufsfläche in der Curtiusstraße? - beantwortet
+- TOP 3.5: Gelungene Sanierung des ehemaligen Postgebäudes in der Martin-Buber-Straße? - beantwortet
+- TOP 3.6: Werbeschilder Zehlendorfer Weihnachtsmarkt - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.1.1: BVV Beschluss Nr. 100 vom 25.04.2012: Einrichtung eines Integrationsbeirats - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Erlass der Veränderungssperre 6 - 28 B / 41 [Möbelhof Ostpreußendamm] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-27 [Post Hindenburgdamm] - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Arbeitnehmerfreundliche Sitzungstermine des Widerspruchsbeirats - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Taubenmanagement am S-Bahnhof Feuerbachstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Mehr Sicherheit zwischen Radweg und Fahrbahn unter der Bahnbrücke in Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Badestelle Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Anwohnerschutz Teschener Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Widersprüchliche Parksituation Mörchinger Straße beheben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Biodiversität in der Straßenmitte fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Bauliche Verkehrsberuhigung Leichhardtstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Verbesserter Verkehrsfluss und erhöhte Verkehrssicherheit in der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Busbeschleunigung Schloßstraße/Bornstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Energie- und Kosteneinsparung durch moderne LED-Beleuchtung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Verkehrsinsel Drakestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Fahrradbügel vor dem Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Anmeldungen für die Investitionsplanung 2013 bis 2017 - überwiesen
+- TOP 5.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2011 - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Straßenumbenennungen - überwiesen
+- TOP 5.3.2: Bordsteinabsenkung kenntlich machen - überwiesen
+- TOP 5.3.3: Kältehilfe für obdachlose Frauen - überwiesen
+- TOP 5.3.4: Freie Sicht vor Kaisers auf der Clayallee - überwiesen
+- TOP 5.3.5: Katastrophenschutzplan im Internet veröffentlichen - überwiesen
+- TOP 5.3.6: Bierpinsel - Öffnung 2013 noch wahrscheinlich? - überwiesen
+- TOP 5.3.7: Rechte Symbole erkennen - Fortbildung der Ordnungsamtsmitarbeiter - überwiesen
+- TOP 5.3.8: Schülersicherheit auf der Lepsiusstraße herstellen - überwiesen
+- TOP 5.3.9: Straßenland für den Verkehr sichern - überwiesen
+- TOP 5.3.10: Hinweisschilder zur "Säule der Gefangenen" - überwiesen
+- TOP 5.3.11: Unterhalt Welterbe sicherstellen - überwiesen
+- TOP 5.3.12: Berliner Charta - Verkehrssicherheit - überwiesen
+- TOP 5.3.13: Veloroute Saargemünder Straße - überwiesen
+- TOP 5.3.14: Grünpfeil Wismarer Straße - überwiesen
+- TOP 5.3.15: Verkehrsberuhigung Neue Kreisstraße - überwiesen
+- TOP 5.3.16: Straßenmarkierungen Wupperstraße Ecke Beeskowdamm - überwiesen
+- TOP 5.3.17: Tempo 30 - Lepsiusstraße - überwiesen
+- TOP 5.3.18: Verkehrsberuhigung in der Treitschkestraße umsetzen - überwiesen
+- TOP 5.3.19: Radstreifen Grunewaldstraße - überwiesen
+- TOP 5.3.20: Mehr Information zu Beratungsangeboten bei Kostensenkungsaufforderungen nach SGB II - überwiesen
+- TOP 5.3.21: Am S-Bahnhof Lichterfelde-Süd Fahrradabstellplätze schaffen - überwiesen
+- TOP 5.3.22: Mehr Information zu Beratungsangeboten bei Kostensenkungsaufforderungen - überwiesen
+- TOP 5.3.23: Entwurfsplanung für den Zehlendorfer Dorfanger - überwiesen
+- TOP 5.4: Ausschussanträge - erledigt
+- TOP 5.4.1: Sozialraumbudgetierung - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Wahlen: Vorlagen zur Beschlussfassung und dringl. Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Neuwahl von ehrenamtlichen Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Schwarz-Grünes Desaster - SARAZENU eine Millionenpleite? - beantwortet
+- TOP 7.2: Noch immer - Bauen ohne "Grünstreifen-Grundstück" an der Clayallee? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Zentrale Baustellenkoordination - überwiesen
+- TOP 8.2: Stadtbäume für Berlin - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Stadtteil-Bürgerforen einrichten! - Stärkung der Teilhabe der Einwohnerschaft im Bezirk vor Ort - in der BVV abgelehnt
+- TOP 9.2: Transparenz in Steglitz-Zehlendorf - Zugang zu Information erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Bürgerbeteiligung in der BVV fördern - in der BVV abgelehnt
+- TOP 9.4: Mehr Transparenz für den Bezirk - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
