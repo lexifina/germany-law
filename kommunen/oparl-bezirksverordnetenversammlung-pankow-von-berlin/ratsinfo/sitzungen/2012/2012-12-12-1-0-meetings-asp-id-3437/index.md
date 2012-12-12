@@ -1,0 +1,103 @@
+# 11. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2012-12-12T17:30:00+01:00
+- Ende: 2012-12-12T20:55:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3437
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3437
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=51913
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Tesla – Schule: Essenversorgung sofort in der Schule gewährleisten - vertagt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.9: Beschluss über den Bebauungsplan 3-26 für die Grundstücke Immanuelkirchstraße 14 und 14 A-C sowie Heinrich-Roller-Straße 15-18 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Veröffentlichung der Sitzungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Änderung Geschäftsordnung - in der BVV abgelehnt
+- TOP 1.12: Pilotprojekt flexible Betreuungszeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Verstetigen von Infrastruktur der Bürgerbeteiligung - zurückgezogen
+- TOP 1.14: Kein Abriss des Gesobau-Wohnhauses Am Schlosspark 30-32 - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Belegungsgebundene Wohnungen zur Versorgung von sanierungsbetroffenen Mietern - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Genderprojekt auflegen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Infoportal Stadtentwicklung - in der BVV abgelehnt
+- TOP 1.18: Erweitertes Führungszeugnis bei Kontakt mit Minderjährigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Info-Schalter für den EliasHof - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Neue Angebote zur Flexiblen Kinderbetreuung in Pankow entwickeln und erproben - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Lärmminderung in der nördlichen Berliner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Grundhafte Sanierung der nördlichen Berliner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Verbesserung der Parkplatzsituation am Antonplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Straßensanierung der Straße am Schloßpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Instandsetzung des Fußweges in der Stavanger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Parkmöglichkeiten im Volkspark Blankenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Seniorengerechter und barrierefreier Ausbau des Gehweges Gürtelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Buslinie im OT Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Gehwegschäden in Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Seniorenparkplätze - in der BVV abgelehnt
+- TOP 1.31: Informationen über Mitwirkungs- und Einflussmöglichkeiten in Pankow in der Bezirksbroschüre - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Bessere und transparentere Arbeitsbedingungen für Beschäftigte - überwiesen
+- TOP 1.33: Pankow wächst um die Größe des Ortsteils Pankow - beantwortet
+- TOP 1.34: Gründerzeitmuseum erhalten! - überwiesen
+- TOP 1.35: Sicherung der Kleingartenanlagen Hoffnung, Am Nesselweg, Gartenfreunde Nordend - überwiesen
+- TOP 1.36: Grundschule am Weißen See - beantwortet
+- TOP 1.37: Namen für Nummernstraßen: Frauenviertel jetzt! - überwiesen
+- TOP 1.38: Kulturbeirat im Bezirk einrichten - überwiesen
+- TOP 1.39: Wohnungstausch ermöglichen, Mietpreisauftrieb begrenzen - überwiesen
+- TOP 1.40: Situation von Asylbewerbern, EU – Ausländer sowie deren bedarfsgerechter Beschulung in Pankow - beantwortet
+- TOP 1.41: Gendergerechte Spielplätze jetzt! - überwiesen
+- TOP 1.42: Tram M 10 beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Umwandlungsverordnung jetzt erlassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Keine Rundfunkgebühren für Kindertagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Informationsmaterial für Schülerinnen und Schüler über ihre Mitbestimmungsrechte - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Regenwasserablauf - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Online-Bewerbungen ermöglichen - überwiesen
+- TOP 1.48: Schulwegsicherung Görschstraße/ Florastraße - überwiesen
+- TOP 1.49: Kreuzung Westerlandstraße / Berliner Straße / Esplanade - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Eltern-Kind-Arbeitsplätze im Bezirksamt Pankow - überwiesen
+- TOP 1.51: PC-gestützter Intranetzugang für Bezirksverordnete - ohne Änderungen in der BVV beschlossen
+- TOP 1.52: Parken vor der Postagentur Achillesstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.53: Indizierte Internetsuche ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen aus der 10. ordentlichen Tagung der BVV - (offen)
+- TOP 2.1.1: Entwicklung des Rangier- und Güterbahnhofs Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Konsolidierungskonzept 2012 bis 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Weitere Verlängerung der Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Prenzlauer Promenade 45, 46 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.4: Umsteuern bei den Haushaltsdefiziten im Bereich der Hilfen in besonderen Lebenslagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.5: Keine generellen Freistellungen von Belegungsbindungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.6: Weiteres Vorgehen zur Entwicklung des Rangier- und Güterbahnhofs Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.7: Beflaggung zum Fest an der Panke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Choriner Straße - Umgestaltung im Bezirk Mitte als Vorbild nehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Entwurf des Doppelhaushaltsplan 2012/2013 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Lage des Fußgängerüberweges an der Einmündung Hubertusdamm in die Bahnhofstraße in Berlin - Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Schönhauser Allee umgestalten: Mehr Platz und Sicherheit für den Rad- und Fußverkehr! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Behinderung durch Weihnachtsbäume - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Entwicklung Quartiersprägende Plätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Beteiligung bei der Wahl zur Seniorenvertretung verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Aufbaukurse bei Deutsch als Fremdsprache fortführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Weltmädchentag im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Kosten der Aufhebung des Straßenausbaubeitragsgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bahnlärmmonitoring entlang der Stettiner Bahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Verbesserung der Querungssicherheit an der Blankenburger Chaussee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Einführung der Familienpflegezeit prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Nachvollziehbarkeit der Bezirksamtsbeschlüsse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Transparenz bei Maßnahmen zur Korruptionsbekämpfung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Zusammenarbeit zwischen Bezirk und JobCenter transparent gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: "Leichte Sprache" auch im Jobcenter Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Altkleidercontainer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Schaffung einer generationsübergreifenden Freizeitstätte auf dem Gelände des ehemaligen Rangierbahnhofs Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Aufhebung einer Ladezone - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennungsabsicht für einen Privatweg in der Anlage der Siedlungs- und Gartengemeinschaft „Insel-Rügen“ eG Berlin–Pankow, im Ortsteil Pankow, in „Insel-Rügen-Weg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bebauungsplans XVIII-39 für das Gelände zwischen Blankenburger Straße, den Grundstücken Blankenburger Straße 29, Straße 31 Nr. 2/8, 10A, 12A - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bebauungsplanentwurf 3-26 für die Grundstücke Immanuelkirchstraße 14 und 14 A-C sowie Heinrich-Roller-Straße 15-18 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Nachweis der im 1. Halbjahr 2012 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
