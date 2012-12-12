@@ -1,0 +1,108 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2474348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2474348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Beteiligungsprozess Campus Freiham
+- TOP 1.1.6: Betreutes Wohnen in Aubing
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Erhebliche bauliche und räumliche Mängel in der Kindertagesstätte Freienfelsstr. 3
+- TOP 2.2.: Verunreinigungen am Sportplatz beim Krautgartenweg
+- TOP 2.3.: Zuschüsse für Kinderbetreuung in der Walddorfschule Gröbenzell
+- TOP 2.4.: Straßenerneuerung nach Vollendung der Bauprojekte
+- TOP 2.5.: Betreutes Wohnen Aubing
+- TOP 2.6.: Feuerwehrzufahrt Baugebiet Aubing-Ost-Straße
+- TOP 2.7.: MVV-Fahrpreiserhöhung um 300% nach Germering-Unterpfaffenhofen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Osterangerstr. 60 - Kühlenfelser Str. 11 - Germeringer Weg 2 - Ubostr. 43b - Neidensteiner Str. 8 - Leienfelsstr. 43 - Gotzmannstr. 25 - Riesenburgstr. 7 - Pretzfelder Str. 45 - Eichelhäherstr. 64 - Johannes-Tanner-Str. 3a-3b - Aubinger Str. 119 - Kurt-Floericke-Str. 21
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: - Hoheneckstr. 4 gem. Baumbestandsplan Nr. 2012-24752 - Taubertalstr. 15 gem. Baumbestandsplan Nr. 2012-22794
+- TOP 3.3.: Fällungsgenehmigungen: - Aubing-Ost-Str. 66 - Aubinger Str. 173 - Riesenburgstr. 7
+- TOP 3.4.: Fällen von Gefahrenbäume, Schr. Baureferat vom 08.10.12, 09.10.12
+- TOP 3.5.: Ablehnungsbescheid für beantragte Baumfällungen: - Eugen-Loher-Str. 25, Schr. Planungsreferat vom 22.11.12 - Bergsonstr. 171, Schr. Planungsreferat vom 22.11.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 3.3.6: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Runder Tisch am Westkreuz
+- TOP 4.2.: Schutz der Grünflächen am Eingang der Bezirkssportanlage Kastelburgstraße
+- TOP 4.3.: Aufstellung eines Mülleimers neben Parkbank auf Höhe der Limesstr. 1
+- TOP 4.4.: Höchstgeschwindigkeit von 30 km/h in der Limesstraße und südliche Altostraße
+- TOP 4.5.: Prüfung der Möglichkeit von Wohnbebauung im Gewerbegebiet an der Rupert-Bodner-Straße
+- TOP 4.6.: Einbeziehung des BA 22 bei Vorplanungen des Baureferats im Stadtbezirk 22
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Kastelburgstraße, Umbau und Verlegung eines Spielplatzes im 22. Stadtbezirk
+- TOP 5.2.: Antrag auf Zuschuss aus dem Budget des BA 22; Antragsteller: Verein Aubinger Archiv e.V. (vertagt)
+- TOP 5.3.: Antrag auf Zuschuss aus dem Budget des BA 22; Antragsteller: Verein Freunde Freihams e.V. (vertagt)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf öffentlichen Verkehrsgrund: Festzug mit Maifeier des Burschenvereins Aubing e.V. in der Alto-/Schwemmstraße am 01.05.13, Anhörung KVR vom 28.11.12
+- TOP 6.1.: 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 13.10.12 - BA-Quiz, Schr. BA 2 vom 31.10.12
+- TOP 6.2.: Wahl der Seniorenvertretung 2013 - Vorstellung der Kandidatinnen und Kandidaten, Schr. Sozialreferat vom 06.11.12
+- TOP 6.3.: Verbesserungen für das Freizeitgelände an der Wiesentfelser Straße, Schr. Baureferat vom 31.10.12
+- TOP 6.4.: Erlaubnis für Veranstaltung auf öffentlichen Verkehrsgrund: SPD-Christkindlmarkt am Gößweinsteinplatz am 08.12.12, Schr. KVR vom 13.11.12
+- TOP 6.5.: Veranstaltung im Freien auf Privatgrund: Christkindlmarkt St. Markus in der Wiesentfelser Str. 49 am 08./09.12.12, Schr. KVR vom 19.11.12 - Vorabzustimmung durch den BA-Vorsitzenden -
+- TOP 6.6.: Veranstaltungen Dezember 2012, Schr. Kulturreferat vom 03.12.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragsstellung (keine Fristwahrungsanträge) - Antrag Nr. 4152 des BA 17 vom 10.07.12, Anhörung Direktorium vom 12.11.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.2.: Gewerbegebiet Freiham - Vergabe von Gewerbegrundstücken, Schr. Referat für Arbeit und Wirtschaft vom 20.11.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Antrag auf Änderungsgenehmigung zur Erweiterung der Lager-, Durchsatz- und Behandlungsmengen der Fa. Süderde GmbH, Anhörung RGU vom 06.11.12
+- TOP 6.2.: Kronwinkler Str. 36 - Neubau zweier Läden mit Stellplätzen (109 Stellplätze), Vergrößerung der Tiefkühlzelle und der Backvorbereitung, Anhörung Planungsreferat vom 12.11.12
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bodenseestr. 80 Seite Am Krautgarten, Anhörung KVR vom 14.11.12
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Bodenseestr. 240 - 246 absolutes Haltverbot, Anhörung KVR vom 21.11.12
+- TOP 6.5.: Mobilfunk; Suchkreismeldung im Suchkreis M-Am Westkreuz-Nord, Planung eines neuen Mobilfunkstandorts, da der bestehende Standort am Ravensburger Ring 38 nicht erweitert werden kann, Anhörung RGU vom 22.11.12
+- TOP 6.6.: Errichtung einer Werbeanlage: Zwernitzer Str. 34 a, Anhörung Planungsreferat vom 26.11.12
+- TOP 6.7.: Taubertalstr. 15 - Nutzungsänderung eines Dachbodens zu einer 3. Wohneinheit, Anhörung Planungsreferat vom 27.11.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 29.10.- 04.11.12, v. 05.11.-11.11.12, v. 12.11.-18.11.12, 19.11.-25.11.12), Schr. Planungsreferat vom 05.11.12, 12.11.12, 20.11.12, 27.11.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 05.11.12, 12.11.12, 19.11.12, 26.11.12
+- TOP 6.3.: Verbreiterung des Geh- und Radweges in Lochhausen bis zur Keltenafferstraße, Schr. Baureferat vom 09.11.12
+- TOP 6.4.: Parksituation Ecke Henschel-/Federseestr. 1, Schr. KVR vom 30.10.12 Verbesserung der Parkplatzsituation und der Verkehrssituation Federseestr. 1 / Ecke Ziegeleistraße, Schr. Planungsreferat vom 13.11.12
+- TOP 6.5.: Verbesserung der Verkehrssicherheit der Kindergarten- und Schulkinder in der Schussenriederstraße und am Schubinweg, Schr. KVR vom 13.11.12
+- TOP 6.6.: Verkehrsrechtliche Anordnungen: - Wartezone für Linienbusse in der Zwernitzer Straße, Schr. KVR vom 09.10.12 - Errichtung absoluter Haltverbote an der Ostseite der Hellensteinstraße
+- TOP 6.8.: Schnellfahrende Autos in der Wiesentfelser Straße, Schr. KVR vom 23.11.12
+- TOP 6.9.: Fahrbahnsanierung: Osterangerstraße zwischen Alprichstraße und Haus-Nr. 55, Schr. Baureferat vom 05.11.12
+- TOP 6.10.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer im 22. Stadtbezirk, Schr. AWM vom 22.11.12
+- TOP 6.11.: Faltblatt zum Thema "Laubbläser / Laubsauger", Schr. RGU vom 26.11.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mobilfunk: Suchkreismeldung im Suchkreis Westkreuz, Planung eines neuen UMTS_Mobilfunkstandorts, Anhörung RGU vom 03.12.12
+- TOP 7.2.: Hanfgartenstr. - Neubau GIL-Tunnel mit Zugangsgebäuden, Anhörung Planungsreferat vom 05.12.12
+- TOP 7.3.: Plangenehmigung für den Rückbau eines 15-kV Gebäudes in München-Aubing, Varnhagenstr. 43, Bahnstrecke München-Pasing-Buchloe, Anhörung Planungsreferat vom 06.12.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Parsberger Straße, Schr. Sozialreferat vom 06.11.12
+- TOP 8.2.: Mitteilung über ein Grundstücksgeschäft: Fläche Nähe Schussenrieder Str. 3, Schr. Kommunalreferat vom 09.11.12
+- TOP 8.3.: Europe Direct Information 06/2012, Schr. Referat für Arbeit und Wirtschaft vom 15.11.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.12: - Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zur verantwortenden Aktivitäten - Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2012 - 2016 - Klimawandel und Hitzeinseln, Konsequenzen für die Dichte der Münchner Kernstadt? (geänderter Beschluss)
+- TOP 10.2.: Beschluss des gemeinsamen Ausschusses des Verwaltungs- und Personalausschusses, des Ausschusses für Stadtplanung und Bauordnung und des Finanzausschusses vom 21.11.12: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referats für Stadtplanung und Bauordnung
+- TOP 10.3.: Beschluss des Bauausschusses vom 20.11.12: - Weiterführung der Zusatzfinanzierung für den Straßenunterhalt (UA Planung) - Anpassung Bahnübergang Freihamer Allee Teilprojekt 1: Centa-Hafenbrädl-Str. / Ersatzerschließung Gut Freiham im 22. Stadtbezirk (UA Freiham) - Bebauungsplan mit Grünordnung Nr. 1998a; verlängerte Centa-Hafenbrädl-Str. (südlich), Kravogelstr (westlich), Stadtgrenze (nordwestlich), ehemaliges Gleislager (östlich) (UA Freiham)
+- TOP 10.4.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.12: MIP 2012-2016 (UA Soziales)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.12: - Neue Werkswohnung (geänderter Beschluss) - Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayer. Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses
+- TOP 10.6.: Beschluss der Vollversammlung vom 28.11.12: - Novellierung der Baumschutzverordnung (BaumschutzV) - Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.12: - Auflösung des Werbebeirats der LHM, Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis "Runder Tisch Werbung" - Wohnen im München IV, Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007-2011) - Bebauungsplan mit Grünordnung Nr. 2009: Goteboldstr. zwischen Lochhausener Str. und Müllerstadelstraße, Müllerstadelstr. zwischen Goteboldstr. und Paul-Ehrlich-Weg, Paul-Ehrlich-Weg zwischen Müllerstadelstr. und der Anrampung der Autobahnbrücke - Bebauungsplan mit Grünordnung Nr. 1977: Aubing-Ost-Str. (südlich), Hornberger Str. (westlich), Bahnlinie München-Pasing-Buchloe (nördlich), Berberichweg (östlich), Joseph-Suder-Bogen (östlich) - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/23: Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich)
+- TOP 10.8.: zu TOP 10.7 - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/28: Aubing-Ost-Straße (südlich), Hornberger Str. (westlich), Bahnlinie München-Pasing-Buchloe (nördlich), Berberichweg (östlich), Joseph-Suder-Bogen (östlich) - Bebauungsplan mit Gründordnung Nr. 1998 b: Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Papinstr. (südlich und östlich), Gewerbegebiet ehemaliges Ausbesserungswerk (nördlich) - Bebauungsplan mit Grünordnung Nr. 1998 a: verlängerte Centa-Hafenbrädl-Str. (südlich), Kravogelstr. (westlich), Stadtgrenze (nordwestlich), ehemaliges Gleislager (östlich) - Bebauungsplan mit Gründordnung Nr. 2060: Freihamer Weg (östlich), Bahnlinie Mü-Buchloe (südlich), Colmdorfstr. (westlich), Pretzfelder Str. (nördlich) - Demografiebericht München - Teil 1, Analyse und Bevölkerungsprognose 2011 bis 2030
+- TOP 10.9.: Beschluss des Ausschusses für Bildung und Sport vom 05.12.12: - Realisierungswettbewerb - Errichtung von vier Grundschulen in modularer Bauweise: Errichtung einer dreizügigen Grundschule an der Ruth-Drexel-Straße, einer fünfzügigen Grundschule am Bauhausplatz, einer fünfzügigen Grunschule Freiham II (Mitte) am Quartierszentrum, einer fünfzügigen Grundschule Freiham III an der "Aubinger Allee"
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Verzicht auf Laubbläser, Schr. BA 20 vom 16.11.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 16.01.13 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.7.: Barrierefreiheit im 22. Stadtbezirk: Freifinanzierter und geförderter Wohnungsbau, UN-Konvention über die Rechte von Menschen mit Behinderungen, DIN-Festlegung - Freiham, Schr. Planungsreferat vom 13.11.12
