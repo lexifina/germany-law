@@ -1,0 +1,55 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2425291
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2425291
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Verein für Kindertagesstätten in München links der Isar e.V. Anschaffung einer Reckanlage
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Georgenstr. 144, ?film 101?: Kartenständer und Warenauslagen
+- TOP 2: (E) Hohenzollernplatz als Ersatzstandort für den Wochenmarkt Josephsplatz während des Baus einer Anwohnertiefgarage Empfehlung Nr. 08-14 / E 01504 der Bürger- versammlung des Stadtbezirkes 04 - Schwabing West vom 11.10.2012
+- TOP 2.2.2.: Kultur
+- TOP 2.2.3.: Veranstaltungen
+- TOP 2.1.: Kulturwochenende Schwabing-West im Petuelpark am 04./05.05.2013
+- TOP 2.2.1.: Planen
+- TOP 2.1.: Infanteriestr. 14 - Vorbescheid: Nutzungsänderung Hochschulgebäude zu Studentenwohnheim
+- TOP 2.2.: Belgradstr. 104: Neubau von Wohnangeboten für ältere Menschen mit und ohne Behinderung, integratives Kinderhaus, öffentliche Einrichtungen für die Gemeinschaft ?Forum am Luitpold? (Belgradstr. 104 / James-Loeb-Str. 11)
+- TOP 2.3.: Brunnerstr. 35-37: Dachaufstockung, Neubau von 8 Wohnungen
+- TOP 2.4.: Tengstr. 28: Abbruch und Neuerrichtung von Balkonen
+- TOP 2.5.: Speyerer Str. 14 - Tektur: Neubau eines Mehrfamilienhauses (41 WE) mit Tiefgarage (91 Stpl.)
+- TOP 2.6.: Ansprengerstr. 15-19: Neubebauung des Garagenhofs mit einem Wohngebäude und Tiefgarage - Vorbescheid
+- TOP 2.7.: Elisabethstr. 13: Umbau einer Praxiswohnung zu einer Wohn- und Büroeinheit
+- TOP 2.8.: Schwere-Reiter-Straße: Neubau Gesundheitszentrum, 3 Geschosswohnungsbauten, 3 Townhouses mit Einzelhandelsflächen im EG und gemeinsam genutzter Tiefgarage
+- TOP 2.9.: Erlass einer Erhaltungssatzung für ganz Westschwabing (Empfehlung Nr. 08-14 / E 01498 der Bürgerversammlung vom 11.10.2012) Anhörung zur Beschlussvorlage für den Stadtrat
+- TOP 2.10.: Mainzer Str. 6-8: Neubau eines Wohnhauses (10 WE) mit Tiefgarage, Erneuerung der Freiflächen und Abbruch von Garagen
+- TOP 2.2.2.: Wohnen
+- TOP 2.1.: Bürgerin: Sichtbehinderung durch Wertstoffcontainer am Pündterplatz
+- TOP 2.2.: Gisela-Gymnasium: Zusätzliche Fahrradstellplätze durch Umwandlung zweier Parkplätze
+- TOP 2.2.1.: Umwelt
+- TOP 2.1.: Konradstr. 10: Fällung einer Silberweide
+- TOP 2.2.: St.-Blasien-Str. 3 a: Fällung einer Robinie
+- TOP 2.3.: Gentzstr. 4: Fällung eines zweistämmigen Spitzahorn
+- TOP 2.4.: Brunnerstr. 35-37: Fällung verschiedener Bäume in Zusammenhang mit einem Bauvorhaben (vgl. TOP D 2.3)
+- TOP 2.2.2.: Verkehr
+- TOP 1: (E) Bessere Koordination von Tiefbauarbeiten in der Angererstraße (Ziffer 4 des Antrags) Empfehlung Nr.08-14 / E 01502 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 11.10.2012
+- TOP 1.2.: Baumaßnahmen zur Verbesserung des Radverkehrs in der Karl-Theodor-Straße zwischen Belgradstraße und Bonner Platz (Projektplanung) (aus 11/12 vertagt, erneute Behandlung nach Ortstermin am 03.12.2012)
+- TOP 1.3.: Änderung der Radverkehrsführung in der Elisabeth- und der Franz-Joseph-Straße (aus 10/12 vertagt, erneute Behandlung nach Ortstermin am 29.11.2012)
+- TOP 1.4.: Beschleunigung der Buslinien 144 und 145 Anhörung zu einer Beschlussvorlage für den Stadtrat
+- TOP 1.5.: Kein Höhenunterschied zwischen Geh- und Radweg in der Karl-Theodor-Straße (Punkt 2 der Schülervorschläge bei der Aktion ?Auf Herz und Rampen prüfen?)
+- TOP 1.1.: Budget für die Bezirksausschüsse: 1.1 Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine ?Fristwahrungsanträge?): Anhörung zu einem Antrag des BA 17 Obergiesing-Fasangarten auf Änderung der Budgetrichtlinien 1.2 Versand der Unterlagen zu Budgetanträgen künftig nur noch elektronisch? Anfrage des Direktoriums
+- TOP 1.1.: Stadtarchiv: Beschleunigte Einrichtung einer Toilettenanlage in der Nähe der Rotunde
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen und Anhörungen
