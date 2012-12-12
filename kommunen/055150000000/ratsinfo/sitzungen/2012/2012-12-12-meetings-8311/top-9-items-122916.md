@@ -1,0 +1,8 @@
+# TOP 9: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2013
+
+- Sitzung: 25. Sitzung (Verabschiedung Haushalt 2013) (2012-12-12)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/122916
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/51224
