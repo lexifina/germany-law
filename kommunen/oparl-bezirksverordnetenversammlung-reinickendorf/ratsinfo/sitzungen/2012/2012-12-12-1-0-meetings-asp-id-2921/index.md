@@ -1,0 +1,78 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-12-12T17:00:00+01:00
+- Ende: 2012-12-12T19:30:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2921
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2921
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=68519
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 14. Sitzung der BVV am 12.12.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 14. Sitzung der BVV am 12.12.2012 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 14. Sitzung der BVV am 12.12.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Integrationslotsinnen in Regelfinanzierung - überwiesen
+- TOP 7.2: Freifunk auf Bezirksgebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Flughafen Tegel – Nachnutzung (3): Beuth-Hochschul-Umzug schnell einleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Flughafen Tegel – Nachnutzung (4): Tegel Projekt GmbH ausreichend finanziell ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Unterschutzstellung von Schul- und Feuerwehrgebäude auf dem Lübarser Dorfanger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Neue Fahrradstreifen und Fahrradwege bei den bezirklichen Maßnahmen stets prüfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Gemeinschaftsschule im Märkischen Viertel unterstützen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Kostenübernahme durch das Sozialamt bei Heimaufenthalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Peter-Witte-Schule bleibt offen! - überwiesen
+- TOP 7.15: Spielflächen und Spielgeräte Wohngebiet Lübars - Waidmannslust pflegen und erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Wappen für den Ortsteil Borsigwalde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Entwicklung der Schülerzahlen in Reinickendorf - beantwortet
+- TOP 8.1.1: Entwicklung der Reinickendorfer Grundschullandschaft - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Vorklärwerke für Frohnauer Teiche - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Aktive Stadtzentren einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Versickerung von Niederschlägen auf bezirkseigenen Grundstücken wirtschaftlich optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Beschluss über den Entwurf der Verordnung zur Veränderungssperre 12-45 / 45 für das Grundstück Buddestraße 12A, 12D, 12E im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Autorenlesefonds - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Nutzerinnen und Nutzer bei Spielplatzgestaltung einbeziehen 1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Nutzerinnen und Nutzer bei Spielplatzgestaltung einbeziehen (2) - Wohnungsbaugesellschaften - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Stundenzumessungen von Betreuung und Verwaltung trennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Gründung eines Projekts zum Erhalt unserer Spielplätze - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Fußgängersicherheit in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Bezirkliche Wohnungsplanung - Wohnungsbaupotential darstellen! - erledigt
+- TOP 10.13: Maßnahmen gegen mit Graffiti beschmierte Hauswände - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Gebäude Heiligensee-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Weg auf dem Gelände der 1. Gemeinschaftsschule Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Sicheres Abstellen von Elektrorollstühlen und Rollatoren - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl eines Bürgerdeputierten - zurückgezogen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Hausbesuche bei der Klienten-Prüfung zur Leistungsbeantragung des Pflege- und Betreuungsbedarfes - überwiesen
+- TOP 12.2: Fahrradbeauftragter - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Zustand sanitärer Anlagen an Reinickendorfer Schulen - überwiesen
+- TOP 12.4: Bekanntmachung der Servicestelle nach SGB IV § 23 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Schulwegsicherung Bertha-von-Suttner-Oberschule - überwiesen
+- TOP 12.6: Historische Leuchte am Zeltinger Platz wiederherstellen - überwiesen
+- TOP 12.7: Verkehrssicherheit Öschelbronner Weg - überwiesen
+- TOP 12.8: Verkehrssicherheit Schluchseestraße Ecke Zabel-Krüger-Damm - überwiesen
+- TOP 12.9: Umbau von Klassenräumen der Franz-Marc-Grundschule - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Bushaltestelle Sagritzer Weg wieder anfahren - überwiesen
+- TOP 13.2: Einhaltung des Verkehrsvertrages durch die BVG - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Bewilligung von Krankenhausbetten / Psychiatrie - mit Änderungen in der BVV beschlossen
