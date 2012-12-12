@@ -1,0 +1,98 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-12-12T16:02:00+01:00
+- Ende: 2012-12-12T16:28:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8155
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8155
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 30.11.2012 - 10.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00149131.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00150059.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 10.12.2012 - 10.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00149692.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung einer neuen Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Große Anfrage - Wertberichtigung für die Wuppertaler Stadtwerke GmbH (Holding)
+- TOP 2.1.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 30.11.2012
+- TOP 2.2: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu den Betriebskosten des Bürgerbades in Vohwinkel
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bau eines Aufzugs Hauptbahnhof - Distelbeck; Bürgeranträge gem. § 24 GO NRW - vertagen
+- TOP 3.2: Bürgerantrag zur Bergischen Energiewende - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Antrag der Wählergemeinschaft für Wuppertal (WfW) auf Änderung der Geschäftsordnung - abgelehnt
+- TOP 4.2: Berichterstattung zum Cash-Pooling im Stadtkonzern - abgesetzt
+- TOP 4.3: Bergische Erklärung: Hundertprozentig erneuerbar – Gemeinsam die Bergische Energiewende gestalten - ungeändert beschlossen
+- TOP 4.4: Gemeinsame Resolution von CDU und SPD zur DLK GmbH/Helios Klinikum Wuppertal - vertagt auf Rat
+- TOP 4.4.1: Resolution Solidarität mit den DLK-Beschäftigten - vertagt auf Rat
+- TOP 4.5: Einstellung von kommunalen BetriebsprüferInnen zur Erhebung der Gewerbesteuer - abgelehnt
+- TOP 4.6: Errichtung einer Sekundarschule in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.7: Schulsozialarbeit an Schulen langfristig gewährleisten - vertagt auf Rat
+- TOP 4.8: Resolution Umverteilung Stärkungspakt Stadtfinanzen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Ergänzungsantrag zu TOP 4.2. „Keine Umsatzbesteuerung Interkommunaler Zusammenarbeit“ (Vorlage VO/0758/12) - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Gebiets- und Finanzierungssatzung ISG Barmen-Werth - ungeändert beschlossen
+- TOP 6.2: Gebührensatzung zur Abfallwirtschaft 2013 - ungeändert beschlossen
+- TOP 6.3: 4. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie Obdachlose der Stadt Wuppertal (3. Änderungssatzung) - ungeändert beschlossen
+- TOP 6.5: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit - ungeändert beschlossen
+- TOP 6.6: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen A - ungeändert beschlossen
+- TOP 6.7: Satzung über die Festsetzung der Hebesätze - ungeändert beschlossen
+- TOP 6.8: Entgeltordnung der Stadt Wuppertal für die Nutzung von städtischem unbebauten Grundbesitz - ungeändert beschlossen
+- TOP 6.9: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2013 - ungeändert beschlossen
+- TOP 6.10: Vierte Änderung der Satzung der Stadt Wuppertal für die Durchführung von Einwohneranträgen, Bürgerbegehren und Bürgerentscheiden gemäß §§ 25 und 26 GO NRW - ungeändert beschlossen
+- TOP 6.11: Abfallwirtschaftssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.12: Erste Änderung der Satzung zur Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.2: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2010
+- TOP 7.3: Bereitstellung außerplanmäßiger Mittel für die Wiederherrichtung des Geländes der ehemaligen Tierkörperbeseitigungsanstalt Bergisch-Born (TBA) - ungeändert beschlossen
+- TOP 7.4: Genehmigung der Fortschreibung des Haushaltssanierungsplans 2012 - 2021 für das Jahr 2013 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2011 des GMW - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2013 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2013 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 8.4: Wirtschaftsplanung KIJU für das Jahr 2013 - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2013 der Wirtschaftsförderung Wuppertal AöR (WiFö) - vertagt auf Rat
+- TOP 8.6: Aufwandsentschädigung für die Verwaltungsratsmitglieder der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.9: Gründung einer Tochtergesellschaft der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 8.10: Wirtschaftsplan 2013 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.11: Bereinigung des städtischen Beteiligungsportfolios - vertagt auf Rat
+- TOP 8.11.1: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Verkauf der Anteile an der Barmer Wohnungsbau AG - in der Sache erledigt
+- TOP 8.12: Die Behandlung erfolgt abschließend im Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH / KIJU.
+- TOP 9: Planverfahren
+- TOP 9.1: Landschaftsplanverfahren - Landschaftsplan Wuppertal-Nord Offenlegungsbeschluß - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1146 - Hohenstaufenstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1160 - Herzogstraße / Neumarktstraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 778_2 - Ascheweg / Zanderhöfe - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1163 - Berliner Straße - - ungeändert beschlossen
+- TOP 9.6: Bauleitplanverfahren IKEA - (49. Änd. FNP und 1136 V -Dreigrenzen-) - geändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abschluss eines Kooperationsvertrages zwischen der Von der Heydt-Museum Wuppertal gemeinnützige GmbH und der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.2: Leitfaden nachhaltiges Bauen - ungeändert beschlossen
+- TOP 11.4: Soziale Stadt Oberbarmen/Wichlinghausen - Anpassung des Integrierten Handlungskonzepts incl. Kosten- und Finanzierungsplan - ungeändert beschlossen
+- TOP 11.5: Übergangsgeschäftsordnung für die Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 11.6: 8. Schulrechtsänderungsgesetz - ungeändert beschlossen
+- TOP 11.6.1: Umsetzung 8. Schulrechtsänderungsgesetz - abgelehnt
+- TOP 11.7: Ausbau der offenen Ganztagsschule im Primarbereich zum Schuljahr 2013/2014 um 100 Plätze - ungeändert beschlossen
+- TOP 11.7.1: VO/0789/12, Ausbau der offenen Ganztagsschule im Primarbereich zum Schuljahr 2013/14 um 100 Plätze, Ergänzungsantrag - geändert beschlossen
+- TOP 11.8: Neufestsetzung der Vergabewertgrenzen - vertagt auf Rat
+- TOP 11.9: Auslaufen der Regelungen zur Bewilligung von Altersteilzeit im Beamtenbereich - ungeändert beschlossen
+- TOP 11.10: Erweiterung der städt. Tageseinrichtung für Kinder Höhe 61 durch Errichtung eines Anbaus für den Betrieb von weiteren zwei Gruppen - ungeändert beschlossen
+- TOP 11.11: Erweiterung der städt. Tageseinrichtung für Kinder Peter-Beier-Straße 2 durch Errichtung eines Anbaus für den Betrieb von weiteren zwei Gruppen - ungeändert beschlossen
+- TOP 11.12: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.13: Vorzeitige endgültige Auflösung der Anne-Frank-Schule, städt. Förderschule, Förderschwerpunkt Lernen, Kyffhäuser Straße - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Abgesetzt. Die Drucksache wurde von der Verwaltung zurückgezogen.
+- TOP 12.2: 37. ordentliche Hauptversammlung des Deutschen Städtetages vom 23. bis 25. April 2013 in Frankfurt/Main - vertagt auf Rat
+- TOP 12.3: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung / Benennung - ungeändert beschlossen
