@@ -1,0 +1,97 @@
+# 25. Sitzung (Verabschiedung Haushalt 2013)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-12-12T18:21:00+01:00
+- Ende: 2012-12-12T23:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8311
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8311
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00333129.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 8.1: Bezeichnung des Grundstückes "Hawerkamp 31" in Planungsunterlagen
+- TOP -: Resolution "Münster sagt Nein zum Verkauf der Provinzial"
+- TOP -: Beratungen zum Haushalt 2013 - Reden der Vorsitzenden der Fraktionen, des Sprechers der Gruppe und des fraktionslosen Ratsmitgliedes
+- TOP 9: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2013 - mehrheitlich beschlossen
+- TOP 10: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 (Teil 2) - mehrheitlich geändert beschlossen
+- TOP 10.1: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 (Teil 2)
+- TOP 11: Bürgerhaushalt
+- TOP 11.1: Bürgerhaushalt 2012 - Beratung der 102 bestplatzierten Bürgervorschläge - mehrheitlich geändert beschlossen
+- TOP 11.2: Bürgerhaushalt 2011 - Zweiter Rechenschaftsbericht - zur Kenntnis genommen
+- TOP 12: Umfeld Lotharinger Kloster/Standesamt: Kleine Lösung - mehrheitlich beschlossen
+- TOP 13: Vergabe von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - mehrheitlich beschlossen
+- TOP 14: Verlagerung des SC Westfalia Kinderhaus 1920 e. V. zur Bezirkssportanlage Große Wiese in Münster-Kinderhaus - einstimmig beschlossen
+- TOP 15: Kommunale Koordinierung im Rahmen des Übergangssystems von der Schule in Ausbildung und Beruf - einstimmig beschlossen
+- TOP 15.1: Kommunale Koordinierung im Rahmen des Übergangssystems von der Schule in Ausbildung und Beruf
+- TOP 16: Künftige Unterbringung der VHS - mehrheitlich geändert beschlossen
+- TOP 17: Anpassung der Abdeckung der Verluste aus dem Betrieb des Sportbades der DJK Coburg (Defizitabdeckung) ab 2013 ff - mehrheitlich beschlossen
+- TOP 18: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an die GGUA zur Zwischenfinanzierung des Projekts " Teil - sein - Teilhaben. Zukunft aktiv gestalten" - einstimmig beschlossen
+- TOP 19: Festlegung von Steuern, Gebühren, Tarifen und Entgelten
+- TOP 19.1: Gewerbesteuer und Grundsteuern - Erlass einer Hebesatzsatzung für die Jahre 2013 bis 2015 - mehrheitlich beschlossen
+- TOP 19.1.1: Gewerbesteuer und Grundsteuern - Erlass einer Hebesatzsatzung für das Jahr 2013
+- TOP 19.2: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 19.3: Vierte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 19.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2013 - einstimmig beschlossen
+- TOP 19.5: Abfallgebühren 2013 - einstimmig beschlossen
+- TOP 19.6: Straßenreinigungsgebühren 2013 - einstimmig beschlossen
+- TOP -: Beratung und Beschlussfassung zu sonstigen Ratsvorlagen
+- TOP 20: Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Münster - Antrag der CDU-Fraktion Nr. A-R/0075/2010 - Damit nichts anbrennt: Engagement in der Freiwilligen Feuerwehr aktiv fördern - mehrheitlich beschlossen
+- TOP 21: Wirtschaftsplan 2013 der citeq - einstimmig beschlossen
+- TOP 22: Dichtheitsprüfung an städtischen Grundstücksentwässerungsanlagen - mehrheitlich geändert beschlossen
+- TOP 23: Kapitalerhöhung bei der Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 23.1: Kapitalerhöhung bei der Flughafen Münster/Osnabrück GmbH
+- TOP 24: Übernahme einer Ausfallbürgschaft für die AiportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 25: Erlass einer Satzung zur Anerkennung der Gemeinnützigkeit des Betriebes gewerblicher Art "Kulturelle Veranstaltungen und Ausstellungen" - einstimmig beschlossen
+- TOP 26: Strategisches Flächenmanagement: Einführung eines Flächenplanes als Anlage zum Haushaltsplan - zur Kenntnis genommen
+- TOP 27: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 28: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 29: Sanierung des Blockheizkraftwerks Münster-Coerde - einstimmig beschlossen
+- TOP 30: Dritter Nahverkehrsplan Stadt Münster - Rahmenvorgaben - mehrheitlich geändert beschlossen
+- TOP 30.1: Dritter Nahverkehrsplan Stadt Münster - Rahmenvorgaben
+- TOP 31: Reaktivierung der Westfälischen Landeseisenbahn (WLE) Münster Sendenhorst (- Neubeckum) - mehrheitlich beschlossen
+- TOP 32: Städtebauliche Optimierung nördlich Stadthafen 1 (Grundstücke der Stadtwerke Münster GmbH) / Liegenschaftliches Konzept) - von der Tagesordnung abgesetzt
+- TOP 33: Gesamtstädtisches Konzept zur Ermittlung von Flächenpotenzialen zur Errichtung von Windenergieanlagen (WEA) und zur Darstellung entsprechender Konzentrationszonen für WEA im Flächennutzungsplan der Stadt Münster - einstimmig beschlossen
+- TOP 33.1: Gesamtstädtisches Konzept zur Ermittlung von Flächenpotenzialen zur Errichtung von Windenergieanlagen (WEA) und zur Darstellung entsprechender Konzentrationszonen für WEA im Flächennutzungsplan der Stadt Münster
+- TOP 34: Zielwert für die Entwicklung der Siedlungs- und Verkehrsfläche für das Jahr 2020 für die Umweltdaten Münster und Anregung des Landschaftsbeirates gemäß § 24 GO NRW "Einführung einer Flächenverbrauchsbremse" - mehrheitlich beschlossen
+- TOP 34.1: Zielwert für die Entwicklung der Siedlungs- und Verkehrsfläche für das Jahr 2020 für die Umweltdaten Münster und Anregung des Landschaftsbeirates gemäß § 24 GO NRW "Einführung einer Flächenverbrauchsbremse"
+- TOP 35: Mittagsverpflegung in Schulen - einstimmig beschlossen
+- TOP 35.1: Mittagsverpflegung in Schulen
+- TOP 36: Errichtungsvorhaben der Berufskollegs in städtischer Trägerschaft zum Schuljahr 2013/14 - einstimmig beschlossen
+- TOP 37: Theaterbetrieb weiter optimieren - Qualität bewahrenAntrag an den Rat Nr. A-R/0033/2012 der SPD-Fraktion vom 19.06.2012 - zur Kenntnis genommen
+- TOP 38: Verfahren zur Einräumung der Wegerechte für das Elektrizitätsversorgungs- und Gasnetz in der Stadt Münster (Konzessionsvergabe nach § 46 Abs. 3 EnWG)) - einstimmig beschlossen
+- TOP 39: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Münster und dem Kreis Coesfeld - einstimmig beschlossen
+- TOP 40: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2013 - einstimmig beschlossen
+- TOP 41: Satzungen der kommunalen Stiftungen (örtliche Stiftungen gem. § 100 GO NRW), hier: Satzungsänderung - einstimmig beschlossen
+- TOP 42: Aufhebung der Stiftung Zumsande-Plönies / Übernahme des Vermögens und des Stiftungszwecks durch die Stiftung Bürgerwaisenhaus - einstimmig beschlossen
+- TOP 43: Einrichtung eines Kommunalen Integrationszentrums in Münster - mehrheitlich geändert beschlossen
+- TOP 44: Bauleitplanung
+- TOP 44.1: Stadtbezirk Münster-Nord
+- TOP 44.1.1: Bebauungsplan Nr. 557 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 45: Zuständigkeit des Ausschusses für Umweltschutz und Bauwesen für kommunalen Klimaschutz - einstimmig beschlossen
+- TOP 46: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 47: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 48: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 48.1: Verlässliche Weiterbildung in Münster - Volkshochschule als kommunales Weiterbildungszentrum braucht eine sichere Arbeitsgrundlage - verwiesen
+- TOP 48.2: "Öffentliche geförderte Beschäftigung¿ für Langzeitleistungsbeziehende in Münster - verwiesen
+- TOP 48.3: Träger stärken - transparente Leistungsvereinbarungen schaffen - verwiesen
+- TOP 48.4: Selbstverpflichtung gegen neue Haushaltsbelastungen - verwiesen
+- TOP 48.5: Einführung einer Zuschussbudgetierung / Fachbereichsbudgets - verwiesen
+- TOP 48.6: Masterplan Quartier¿: Versorgungssicherheit für Menschen mit Pflege- und Unterstüt-zungsbedarf sichern - Infrastruktur zukunftsgerecht weiterentwickeln! - verwiesen
+- TOP 48.7: Albersloher Weg: Kosteneinsparung ohne Leistungseinbußen - verwiesen
+- TOP 48.8: Attraktiver Halt für Fernbusse in Münster - verwiesen
+- TOP 48.9: Mehr Wohnraum für Studenten - Reserven mobilisieren - verwiesen
+- TOP 48.10: Großveranstaltungen Belasten Allwetterzoo und Naturkundemuseum zunehmend - Verbindliche Beteiligung an der Planung nötig - verwiesen
+- TOP 49: Verschiedenes
