@@ -1,0 +1,68 @@
+# Rat (25. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2012-12-13T17:00:00+01:00
+- Ende: 2012-12-13T19:45:00+01:00
+- Ort: Buschendorf's Gasthaus, Pr. Ströher Allee 14, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQ_9TFOIZpHHjE4syEsze6Q
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1216
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdTSdbQIxXjrjzfu233GtLwtnyZ9-HcS5YDUMuBl8Gqi/Bekanntmachung_Rat_13.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTxPDs7jWrBK28ABwgnBwRGCMdXevg1gWvPG1fitMcvw/Oeffentliche_Niederschrift_Rat_13.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: 1. Änderung der Außenbereichssatzung "Westlicher Mühlendamm" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 5.: 1. Änderung und Erweiterung des Bebauungsplanes Nr. 74 "Biogasanlagen Pr. Ströhen" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregun- gen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 6.: 10. vereinfachte Änderung des Bebauungsplanes Nr. 34 "Mühlendamm" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 7.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 8.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2011 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Feststellung des Gesamtabschlusses der Stadt Rahden zum 31.12.2011 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Entwurf der Haushaltssatzung 2013 mit Haushaltsplan - Ohne Abstimmung
+- TOP 11.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2011; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 12.: Betriebssatzung für den Eingenbetrieb Abwasserentsorgung, 1. Änderungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2013 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2011; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erlass der 5. Satzung vom __________ zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Rahden vom 30.06.2005 - 31 Stimmen dafür, 4 dagegen (Dodenhöft/Staubach/Steinkamp/Zimmermann), 0 Enthaltungen
+- TOP 16.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2013 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Beratung über die 1. Änderung der „Satzung der Stadt Rahden über die Entsorgung von Grundstücksentwässerungsanlagen 2012“ vom 16.12.2011 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Pflichtprüfung des Wasserwerkes der Stadt Rahden für das Wirtschaftsjahr 2011; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 19.: Beratung über den Erlass einer 4. Satzung vom ________ zur Änderung der Betrags- und Gebührensatzung zur Wasserversorgungssatzung der Stadt Rahden vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2013 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Errichtung eines Toilettenhauses mit Geräteraum am Göpelhaus in Sielhorst - 27 Stimmen dafür, 8 dagegen (Henke/Spreen/Maruszczyk/Logemann/Brüning/Kokemor/Steinkamp/Staubach), 0 Enthaltungen
+- TOP 22.: Ausbau des Dachgeschosses des Fachwerkhauses an der Windmühle in Tonnenheide zu einem „Zentrum für Heimat- und Kulturpflege“ - Einstimmig, 0 Enthaltungen
+- TOP 23.: Antrag der FWG-Fraktion auf Darstellung der Folge- und Personalkosten bei Investi- tionen u. a. - Einstimmig, 0 Enthaltungen
+- TOP 24.: Rederecht in Ausschüssen - Ohne Abstimmung
+- TOP 25.: Ersatzwahl eines stellvertretenden Mitgliedes für den Betriebsausschuss Wasser und Abwasser - Einstimmig, 0 Enthaltungen
+- TOP 26.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden - Ohne Abstimmung
+- TOP 27.: Benennung der Straße im Bereich des Bebauungsplanes Nr. 83 "Alte Sielhorster Mühle" - Einstimmig, 0 Enthaltungen
+- TOP 28.: Genehmigung einer überplanmäßigen Auszahlung - Einstimmig, 0 Enthaltungen
+- TOP 29.: Beschleunigung von Investitionen durch Vereinfachung im Vergaberecht - Vergabegrundsätze für Gemeinden nach § 25 Gemeindehaushaltsverordnung NRW (Kommunale Vergabegrundsätze) - Einstimmig, 0 Enthaltungen
+- TOP 30.: Bekanntgaben
+- TOP 30.1: Neubürgerempfang
+- TOP 31.: Verschiedenes
+- TOP 31.1: Krankenhaus Rahden
+- TOP 31.2: Wirtschaftsförderungsausschuss
+- TOP 31.3: Parksituation an der Weberstraße
+- TOP 31.4: Zebrastreifen für die Steinstraße und Gerichtsstraße
+- TOP 31.5: Gestaltungssatzung
+- TOP 31.6: Wohnhaus an der Osnabrücker Straße 65
+- TOP 31.7: Ärzte in Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 32.: Wertberichtigung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 33.: Grundstücksangelegenheiten
+- TOP 34.: Bekanntgaben
+- TOP 34.1: Konzessionsverträge Strom und Gas
+- TOP 34.2: Konzept über ein einheitliches Erscheinungsbild der Stadt Rahden
+- TOP 35.: Verschiedenes
+- TOP 35.1: Fachmarktzentrum an der Weher Straße
+- TOP 35.2: Bereich ehem. Feuerwehrgerätehaus Rahden/Alter Markt
+- TOP 35.3: Sitzung des Haupt- und Finanzausschusses am 31.01.2013
+- TOP 35.4: Spende von Paul Gauselmann
+- TOP 35.5: ehrenamtliche Tätigkeit
