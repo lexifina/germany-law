@@ -1,0 +1,6 @@
+# TOP 11.7: Jahresabschlussrede 2012
+
+- Sitzung: Rat der Gemeinde Ladbergen (5. Sitzung) (2012-12-13)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8038
