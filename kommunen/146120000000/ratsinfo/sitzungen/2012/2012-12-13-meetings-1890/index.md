@@ -1,0 +1,66 @@
+# 48. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-12-13T16:00:00+01:00
+- Ende: 2012-12-14T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1890
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1890
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_12_13/14 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00117633.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Werkstattverfahren Seidnitz/Tolkewitz - erledigt
+- TOP 3.2: Rückbau-/Umbaumaßnahme Straßenbeleuchtung - erledigt
+- TOP 3.3: Kunstwerk Trichter am Seetor - erledigt
+- TOP 3.4: Geplante Schließung Waldspielplatz Albertpark - erledigt
+- TOP 3.5: Jugendhilfe und Sozialarbeit in Gebieten der Sozialen Stadt - erledigt
+- TOP 3.6: Konzept Verwaltungsstandorte / neues technisches Rathaus - erledigt
+- TOP 3.7: Winterdienst - erledigt
+- TOP 3.8: Streckenverbindung Radeburgerstraße – Stauffenbergallee-West - erledigt
+- TOP 3.9: Wohnkonzept für Dresden - erledigt
+- TOP 3.10: Insolvenz der Schiffs- und Yachtwerft Dresden - erledigt
+- TOP 3.11: Verein friedrichstadtZentral - erledigt
+- TOP 3.12: Winterdienst - erledigt
+- TOP 3.13: Umsetzung von Stadtratsbeschlüssen, hier: Imbissangebot in der Innenstadt - erledigt
+- TOP 3.14: Private Hochwasserschutzanlage in Dresden Luga - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Instandsetzung, Modernisierung und Umbau des Kulturpalastes - gesellschafts- und stiftungsrechtliche Umsetzung des Finanzierungskonzeptes - Vertagung
+- TOP 6: Satzung zur Änderung der Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Satzung der Landeshauptstadt Dresden über die Erhebung von Abwassergebühren (Abwassergebührensatzung) - Zustimmung
+- TOP 8: Abschluss eines Fernwärmekonzessionsvertrages zwischen der Landeshauptstadt Dresden und der DREWAG - Stadtwerke Dresden GmbH mit einer Laufzeit vom 1. Januar 2013 bis 31. Dezember 2032 - Zustimmung
+- TOP 9: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden ab 1. Januar 2013 - Zustimmung
+- TOP 10: Einführung einer tourismusbezogenen Abgabe in Dresden - Vertagung
+- TOP 11: Gründung der Dresdner Bäder GmbH - Zustimmung mit Änderung
+- TOP 12: Einwendungen gegen den Entwurf der Haushaltssatzung 2013/2014 gemäß § 76 SächsGemO - Vertagung
+- TOP 13: Haushaltssatzung 2013/2014 - Vertagung
+- TOP 14: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden; Bildung eines Ausschusses für die Dresdner Erinnerungskultur - Zustimmung
+- TOP 15: Besetzung des zeitweiligen Ausschusses für die Dresdner "Erinnerungskultur" - Vertagung
+- TOP 16: Umbesetzung im Ortsbeirat Cotta - Vertagung
+- TOP 17: Umbesetzung im Ortsbeirat Klotzsche - Vertagung
+- TOP 18: Umbesetzung im Ortsbeirat Neustadt - Vertagung
+- TOP 19: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 20: Neufassung der Satzung der Landeshauptstadt Dresden für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofssatzung) - Zustimmung
+- TOP 21: Bewahrung des historischen Gebietscharakters in Blasewitz und Striesen - Zustimmung mit Änderung
+- TOP 22: Betreiberkonzeption für den Kulturpalast sowie Schloss Albrechtsberg und MESSE DRESDEN - Vertagung
+- TOP 23: Aufhebung des Beruflichen Schulzentrums für Dienstleistung und Gestaltung, Chemnitzer Straße 83, 01187 Dresden, zum 31. Juli 2013 - Verweisung
+- TOP 24: Veränderung von Planwerten für investive Einzahlungen und Auszahlungen des Finanzhaushaltes des Schulverwaltungsamtes - Zustimmung
+- TOP 25: Weiterführung des Leasingvertrages bis zum Ende der Gesamtmietzeit (31. Dezember 2020) und Ausübung des 3. Ankaufsrechts zum 31.12.2020 für das Leasingobjekt 4-Feld-Sport- und Mehrzweckhalle Bodenbacher Straße - Zustimmung
+- TOP 26: Jahresabschlüsse 2011 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung
+- TOP 27: Vereinbarung zur Beendigung des Wohnungsrückbauprogramms in der Landeshauptstadt Dresden - Zustimmung
+- TOP 28: Richtlinie der Landeshauptstadt Dresden zur Förderung von Kindern in Kindertagespflege - Zustimmung mit Änderung
+- TOP 29: Aufhebung der Sanierungssatzung für das Sanierungsgebiet „Dresden S 7, Dresden-Löbtau Nord“ - Zustimmung
+- TOP 30: Bebauungsplan Nr. 79.4, Dresden-Altstadt II Nr. 1, Johannstadt Nord/Gerokstraße - Zustimmung
+- TOP 31: Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben - Vertagung
+- TOP 32: Planung Königsbrücker Straße - Vertagung
+- TOP 33: Erhalt des Wochenmarktes auf dem Altmarkt / Prüfung alternativer Standorte - punktweise Ablehnung
+- TOP 34: Angeordnete Schließungen für die Kitas Hopfgartenstraße, Michelangelostraße, Hauptstraße 18a sowie für den Hort der 70. Grundschule aufschieben und für die Eltern planbar gestalten - punktweise Abstimmung
+- TOP 35: Bürgerarbeit für Dresden erhalten (Eilantrag) - satzweise Abstimmung
+- TOP 36: ausgereichte Informationsvorlagen
+- TOP 36.1: Eilentscheidung der Oberbürgermeisterin - Ankauf Gemälde "Sonnenaufgang" von Otto Dix
