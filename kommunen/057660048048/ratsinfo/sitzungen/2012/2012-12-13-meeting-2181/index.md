@@ -1,0 +1,51 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2012-12-13T18:36:00+01:00
+- Ende: 2012-12-13T20:24:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdgoeMbAzgdkdPy078-WMRA
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2181
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXgLKmNRqlKqGbQcr19QIP7WZa2eKDwI7NZVrXhOtxZI/Bekanntmachung_Rat_13.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQo0bqQGv3CACidMItQXfZZojMtEgjEEXxfIKVLav3B6/Oeffentliche_Niederschrift_Rat_13.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter aus den Verbänden und sonstigen Gremien
+- TOP 5.: Antrag der Ev.-ref. Kirchengemeinde Helpup hier: Mitfinanzierung von Verabschiedungsräumen - Zurückverwiesen
+- TOP 6.: Beratung und Beschlussempfehlung über den Jahresabschluss 2011 gem. § 96 GO NRW i. V. m. § 37 GemHVO NRW - - einstimmig -
+- TOP 7.: Aktivierung von Finanzanlagen im Kernhaushalt aus 2011 - - einstimmig -
+- TOP 8.: Verlustausgleich des Kommunalen Gebäudemanagements Leopoldshöhe (KGL) durch den Kernhaushalt im Jahresabschluss 2011 - - einstimmig -
+- TOP 9.: Erlass einer Hebesatz-Satzung für das Haushaltsjahr 2013 - - 26 Ja-Stimme(n), 2 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 10.: Anträge der Fraktionen hier: Ausschussumbesetzungen
+- TOP 10.1: Antrag der CDU-Fraktion vom 11. Dezember 2012
+- TOP 10.2: Antrag der SPD-Fraktion vom 12. Dezember 2012
+- TOP 11.: Öffentlich-rechtliche Vereinbarungen
+- TOP 11.1: Öffentlich-rechtliche Vereinbarung zur Sicherung und Nutzung öffentlichen Archivguts zwi-schen den Städten Barntrup, Horn-Bad Meinberg, Lügde und Schieder-Schwalenberg, den Gemeinden Leopoldshöhe und Schlangen sowie dem Kreis Lippe (Interkommunale Kooperation zum Archivwesen) - - einstimmig -
+- TOP 11.2: Öffentlich-rechtliche Vereinbarung zwischen der Gemeinde Leopoldshöhe und dem Kreis Lippe und den 15 Städten und Gemeinden im Kreis Lippe zur Wahrnehmung der Aufgaben einer gemeinsamen kommunalen Statistikstelle durch den Kreis Lippe - - einstimmig -
+- TOP 12.: Neufassung der Sportförderrichtlinien der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 13.: Abschluss von Nutzungsverträgen mit den TuS-Sportvereinen - - 28 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 14.: Abfallentsorgung hier: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2013 - - einstimmig -
+- TOP 15.: Friedhofsangelegenheiten hier: Änderung der Gebührensatzung zur Satzung über das Friedhofs- und Bestattungs-wesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 16.: Ordnungsbehördliche Verordnungen
+- TOP 16.1: Neufassung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 16.2: Erlass einer Ordnungsbehördlichen Verordnung über die Gegenstände des Wochenmarktverkehrs in der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 17.: 5. Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren der Gemeinde Leopoldshöhe - - 28 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 18.: Antrag auf Änderung des Flächennutzungsplanes der Gemeinde Leopoldshöhe in den Bereichen „Bobes Feld“ und „Im Schmeltebruch“ und Aufstellung eines Bebauungsplanes "Im Schmeltebruch" - - 24 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 19.: Antrag auf Aufstellung eines Bebauungsplanes im Ortsteil Bechterdissen hier: Bebauung des ehemaligen Fillies-Geländes
+- TOP -: Antrag auf Aufstellung eines Bebauungsplanes im Ortsteil Bechterdissen hier: Bebauung des ehemaligen Fillies-Geländes - - einstimmig -
+- TOP 20.: Jahresabschlüsse der Eigenbetriebe für das Wirtschaftsjahr 2011
+- TOP 20.1: Jahresabschluss des Kommunalen Gebäudemanagements Leopoldshöhe (KGL)
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss 2011 des KGL - - einstimmig -
+- TOP 20.2: Jahresabschluss der Leopoldshöher Immobilien- und Liegenschaftsverwaltung (LIL)
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss 2011 der LIL - - einstimmig -
+- TOP 20.3: Jahresabschluss des Wasserwerkes für das Wirtschaftsjahr 2011 - - einstimmig -
+- TOP 20.4: Jahresabschluss des Abwasserwerkes für das Wirtschaftsjahr 2011 - - einstimmig -
+- TOP 21.: Resolution
