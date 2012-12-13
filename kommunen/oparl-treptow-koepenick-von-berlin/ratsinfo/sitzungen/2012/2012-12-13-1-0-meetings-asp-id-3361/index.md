@@ -1,0 +1,68 @@
+# 14. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-12-13T16:30:00+01:00
+- Ende: 2012-12-13T19:55:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3361
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3361
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=92020
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-14 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Nachtflugverbot von 22 bis 6 Uhr erneut einfordern - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-13-1 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XVI-13-1 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Anmeldung zur Investitionsplanung 2013 bis 2017 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Auffahrt Spindlersfelder Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Veröffentlichung von Bebauungsplänen - im Ältestenrat zurückgezogen
+- TOP 12.3: Regionales Entwicklungskonzept BER - Erweiterung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Genehmigung der im Haushaltsjahr 2011 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Kreuzung Brigittenweg – Blindschleichengang in Altglienicke besser kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Lichtsignal zum Rechtsabbiegen installieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Spielplatzkommission - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Vernetzung von Jugend und Schule unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Kooperation von Schule und Jugend lebensnah gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bezirkshaushaltsrechnung 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Volkshochschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Veranstaltung zum Tag des Gedenkens an die Opfer des Nationalsozialismus - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Ergänzungsplan zum Bezirkshaushaltsplan 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Privatsphäre von Engagierten schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Freifunk in den Rathäusern Treptow und Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Flüchtlinge menschenwürdig unterbringen – Anwohnerinnen und Anwohner einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Personalabbau und Haushaltssituation in einer Präambel zum Regionalen Entwicklungskonzept BER benennen - gegenstandslos
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungspläne XVI-79 ("Süd-Ost-Verbindung, Nordteil") und XVI-80 ("Süd-Ost-Verbindung, Südteil") hier: Einstellung der Planaufstellungsverfahren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XVI-13-1 ("Lindenstr. 33") hier: Planreife für das Vorhaben gemäß Antrag vom 7. Februar 2012 (Nachtrag vom 5.November 2012) für das Grundstück Lindenstraße 33 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-40 G ("Ausschluss Einzelhandel Teilbereich Schnellerstraße West") hier: Einleitung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Standortentwicklungskonzept für das Gebiet Wuhlheide in Treptow-Köpenick, Ortsteil Oberschöneweide - Handlungsrahmen für die weitere Entwicklung - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sanierung des Rathaushofs Köpenick - überwiesen
+- TOP 14.2: Betreuungsbedarf im Schulhort aus familiären, pädagogischen oder sozialen Gründen - überwiesen
+- TOP 14.3: Ökologische Aspekte bei Neuausschreibungen für Essenanbieter beachten - überwiesen
+- TOP 14.4: Schulwegsicherung für Hauptmann-von-Köpenick-Grundschule - überwiesen
+- TOP 14.5: Aufhebung BVV- Beschluss 0070/08/12 "Ausweisung der Kosten je Schlussbericht" (Drs. VII/0108) - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Gedenkorte der Köpenicker Blutwoche - überwiesen
+- TOP 14.7: Linksabbiegen Südostallee - überwiesen
+- TOP 14.8: Mehrwegverpackungen für Schulmilch - überwiesen
+- TOP 14.9: Verkehrsregelung Elcknerplatz - überwiesen
+- TOP 14.10: Unterstützung Lottomittelantrag des "Flutgraben e. V." - überwiesen
+- TOP 14.11: Barrierefreie Spielgeräte - überwiesen
+- TOP 14.12: Charakter des bezirklichen Kulturkalenders erhalten - überwiesen
+- TOP 14.13: Hinweisschild des Bürgerhauses Altglienicke instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Sicherung der Schülerclubs in 2013 und Zwischenfinanzierung der Friedrichshagener Str. 8 P (Musikschule) im ersten Halbjahr 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
