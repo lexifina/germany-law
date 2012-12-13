@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-12-13T09:00:00+01:00
+- Ende: 2012-12-13T20:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5521
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5521
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187247.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187247.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00187247.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage Freie Wähler: Am Kamper Acker muss etwas geschehen - schriftlich beantwortet
+- TOP 3.2: Anfrage Freie Wähler: Methadonausgabe und die Folgen - schriftlich beantwortet
+- TOP 4: Jahresabschluss und Lagebericht 2011 des Amtes 16 - einstimmig beschlossen
+- TOP 5: Amt 16 - Wirtschaftsplan 2013 - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2011 und Lagebericht 2011 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 7: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2013 - - mehrheitlich beschlossen
+- TOP 8: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - mehrheitlich beschlossen
+- TOP 9: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - einstimmig beschlossen
+- TOP 10: Entleerung, Reinigung und Kontrolle von Fettabscheideranlagen zum Schutz der öffentlichen Abwasserbe - einstimmig beschlossen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2013 - mehrheitlich beschlossen
+- TOP 11.1: ÄA Die Linke: Keine Anhebung der Gebühren für die Straßenreinigung - mehrheitlich abgelehnt
+- TOP 11.2: ÄA SPD: Gebührenkalkulation Straßenreinigung für 2013 - mehrheitlich abgelehnt
+- TOP 12: 27. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - mehrheitlich beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2013 - mehrheitlich beschlossen
+- TOP 13.1: ÄA Die Linke: Keine Anhebung der Gebühren für die Abfallbeseitigung - mehrheitlich abgelehnt
+- TOP 14: 23. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 15: 11. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 16: Entgeltordnung des Garten-, Friedhofs- und Forstamtes - einstimmig beschlossen
+- TOP 17: Änderung der Verwaltungsgebührensatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 18: Verwaltungsgebührensatzung - mehrheitlich beschlossen
+- TOP 19: Änderung des Gebührentarifs zur Sondernutzungssatzung - mehrheitlich beschlossen
+- TOP 20: Mieten und Eintrittspreise für die vom Sportamt verwalteten Sportanlagen - einstimmig beschlossen
+- TOP 21: Neufassung der Entgeltordnung der Volkshochschule der Landeshauptstadt Düsseldorf vom - mehrheitlich beschlossen
+- TOP 21.1: ÄA Neufassung der Entgeltordnung der VHS Düsseldorf - mehrheitlich abgelehnt
+- TOP 22: Neufassung der Satzung für die Volkshochschule der Landeshauptstadt Düsseldorf vom - mehrheitlich beschlossen
+- TOP 23: Erhöhung des Hundesteuersatzes zum 01.01.2013 - einstimmig abgelehnt
+- TOP 23.1: ÄA Freie Wähler: Erhöhung des Hundesteuersatzes - zurückgezogen
+- TOP 24: Einführung der Zweitwohnungssteuer zum 01.01.2013 - einstimmig abgelehnt
+- TOP 25: Etatberatung 2013 - zur Kenntnis genommen
+- TOP 25.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2013 mit Anlagen - mehrheitlich beschlossen
+- TOP 25.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldo - zur Kenntnis genommen
+- TOP 25.3: 1. VVZ zum HPL Entwurf 2013 - zur Kenntnis genommen
+- TOP 25.4: Stellenplan 2013 - zur Kenntnis genommen
+- TOP 26: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 27: Kämmererliste 2012 - mehrheitlich beschlossen
+- TOP 28: Förderprogramm "Klimafreundliches Wohnen in Düsseldorf" - einstimmig beschlossen
+- TOP 29: Informationen in Echtzeit - Übertragung der Ratssitzungen im Internet via Livestream - einstimmig beschlossen
+- TOP 30: Änderung der Satzung der Landeshauptstadt Düsseldorf über die Durchführung von Bürgerbegehren und Bü - einstimmig beschlossen
+- TOP 31: Verwaltungsrat der Stadtsparkasse - Ersatzwahl - - einstimmig beschlossen
+- TOP 32: Bestellung stimmberechtigter Abgeordneter - Hauptversammlung Städtetag in Frankfurt - zur Kenntnis genommen
+- TOP 33: Ausschuss für anzeigepflichtige Entlassungen bei der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 34: Aufsichtsrat der Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA GmbH) - Ersatzwahl - - einstimmig beschlossen
+- TOP 35: Kuratorium des NRW-Forum Kultur und Wirtschaft e.V. - einstimmig beschlossen
+- TOP 36: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - einstimmig beschlossen
+- TOP 37: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 38: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 39: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Entgeltordnung für das Competence Center Begabtenförderung (CCB) - einstimmig beschlossen
+- TOP 41: Special Olympics - einstimmig beschlossen
+- TOP 42: Errichtung einer Sekundarschule am Schulstandort Lindenstraße 140, 40233 Düsseldorf - einstimmig beschlossen
+- TOP 43: Zustiftung an die Wim-Wenders-Stiftung - mehrheitlich beschlossen
