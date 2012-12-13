@@ -1,0 +1,54 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2012-12-13T17:30:00+01:00
+- Ende: 2012-12-13T21:40:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSd3iwv776Ftr-CLI5gtMTo
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/829
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUX1_sAD3HQXRC_mUiq37qrEaLrTThO0TFpridwL7SLl/Bekanntmachung_Rat_13.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYx09g1TM1-QWJUoJmPoN56_F-6YN5a3zJLn_VxV_rgJ/Oeffentliche_Niederschrift_Rat_13.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 18.10.2012
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Beteiligung Jugendlicher an der Kommunalpolitik
+- TOP 3.2: DVD-Film über die Alte St. Alexanderkirche
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertreterinnen und -vertreter - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Barrierefreie Gestaltung des Internet-Angebotes der Gemeinde Wallenhorst hier: Antrag der Partei 'DIE LINKE' vom 21.05.2012 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Gründung der Gemeindewerke Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Erarbeitung der Grundlage für den Neuabschluss der Konzessionsverträge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Familie und Soziales
+- TOP 6.1: Ferienbetreuung für Kinder mit erhöhtem Betreuungsbedarf - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Antrag des Vereins "Förderverein Jugendprojekt Bahnwaggon Lechtingen e.V." auf finanzielle Unterstützung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Bauleitpläne
+- TOP 8.1: Neuaufstellung des Flächennutzungsplans (FNP) hier: Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: 5. Änderung des Bebauungsplanes Nr. H 12 "Erweiterter Ortskern Hollage" hier: Entwurfsbeschluss und Beschluss über die Beteiligung gem. § 3 (2) BauGB und § 4 (2) BauGB in Verbindung mit § 13 a (2) BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Straßenbau
+- TOP 9.1: Straßen- und Kanalerneuerung "Eschweg" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Umwelt- und Energieangelegenheiten
+- TOP 10.1: Nahwärmeversorgung im Baugebiet "An der Barlager Brücke" hier: Vorstellung der Entwurfsplanung durch die iNeG - mehrheitlich mit 20 Ja-Stimme(n), 12 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 11.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 11.1: Grundsatzbeschluss über die weitere Vorgehensweise zur Umgestaltung der Randbereiche an der „Hollager Straße“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Sanierungsmaßnahme "Wallenhorst-Zentrum" Beschluss über die Erhöhung des Kosten- und Finanzierungsrahmens sowie die Beauftragung der Entwurfsplanung für die ´Große Straße-Nord´ und ´Große Straße-Süd´ - mehrheitlich mit 19 Ja-Stimme(n), 12 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Jahresabschluss für das Haushaltsjahr 2011 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beratung und Entscheidung über die Entlastung des Bürgermeisters - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2011 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Haushaltswirtschaft für das Jahr 2013 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2013
+- TOP 12.4: Genehmigung zur Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Öffnung der Lamellen im Ratssaal
+- TOP 14.2: Einladung zu kurzfristig stattfindenden Abstimmungsgesprächen
+- TOP 14.3: Anzahl und Länge von Ratssitzungen
+- TOP 14.4: Verkehrsbelastung in der Zerhusenstraße
