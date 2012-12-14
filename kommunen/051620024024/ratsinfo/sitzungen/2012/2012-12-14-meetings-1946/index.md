@@ -1,0 +1,72 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2012-12-14T16:00:00+01:00
+- Ende: 2012-12-14T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1946
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1946
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - mehrheitlich zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Erschließung des Baugebietes BPL 8/6 - Münchener Straße - einstimmig zugestimmt
+- TOP 7: BPL 443 - Allerheiligen, Am Henselsgraben: Endausbau "Im Stüttgesfeld" und "Wolfskamphof" - einstimmig zugestimmt
+- TOP 8: BPL 443 - Allerheiligen, Am Henselsgraben: Endausbau Teilabschnitt Straße "Bongarder Hof" - einstimmig zugestimmt
+- TOP 9: BP 461 - Illinghauser Hof - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 10: Neuaufstellung des FNP - Windernergie - einstimmig zugestimmt
+- TOP 11: FNP 125 - Biogasanlage - Auslegung - einstimmig zugestimmt
+- TOP 12: V 479 Hoisten Biogasanlage - Auslegung - einstimmig zugestimmt
+- TOP 13: FNP 119 - Hafenmole - Feststellungsbeschluss - einstimmig zugestimmt
+- TOP 14: V 456 - Rheintorstraße - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Wirtschaftsplan 2013 ff. der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 16: Festsetzung von Gebühren für den Bereich "Bestattungswesen" der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 17: Fortschreibung der Synoptischen Karte - einstimmig zugestimmt
+- TOP 18: Auflösung des "Runden Tisch Integrationsförderung" in der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 19: Fortschreibung des Frauenförderplanes - einstimmig zugestimmt
+- TOP 20: Prüfung des Jahresabschlusses 2011 und der zwei Sonderhaushalte (Hesemann- u. Reindl-Stiftunng) - einstimmig zugestimmt
+- TOP 21: Wirtschaftsplan 2013 der LVN - einstimmig zugestimmt
+- TOP 21.1: Reden der Fraktionsvorsitzenden zum Haushaltsplan 2013 - zur Kenntnis genommen
+- TOP 22: Abfallgebühren 2013 - mehrheitlich zugestimmt
+- TOP 23: Wirtschaftsplan 2013 für das Gebäudemanagement der Stadt Neuss (GMN) - mehrheitlich zugestimmt
+- TOP 24: Miete Jugendräume Barbaraviertel - einstimmig zugestimmt
+- TOP 25: Erhöhung des Finanzierungsanteiles der Stadt Neuss für die Ambulanz für Kinderschutz - einstimmig zugestimmt
+- TOP 26: HH-Konsolidierungskonzept zum HPL-Entwurf 2013 - Vorschlag lfd. Nr. 1: Umgliederung Tiefbauamt - mehrheitlich zugestimmt
+- TOP 27: Vorschlag Nr. 2 "Umgliederung städt. Kindertageseinrichtungen" - mehrheitlich zugestimmt
+- TOP 28: HH-Konsolidierungskonzept zum HH-Plan-Entwurf 2013; Vorschlag lfd. Nr.: 3: Umgliederung Grünflächen - mehrheitlich zugestimmt
+- TOP 29: HH-Konsolidierungskonzept 2013, lfd. Nr. 4: Sportförderung - mehrheitlich zugestimmt
+- TOP 30: HH-Konsolidierungskonzept 2013, Vorschlag lauf. Nr. 4, Umgliederung Sportanlagen - mehrheitlich zugestimmt
+- TOP 31: HH-Konsolidierungskonzept HPL-Entwurf 2013 - lfd. Nr. 5: Übertragung Öff. Beleuchtung an SWN - einstimmig zugestimmt
+- TOP 32: Haushaltskonsolidierungskonzept zum Haushaltsplan-Entwurf 2013 Vorschlag Nr. 6 - mehrheitlich zugestimmt
+- TOP 33: Haushaltskonsolidierungskonzept zum Haushaltsplan-Entwurf 2013 Nr. 7 - mehrheitlich zugestimmt
+- TOP 34: Haushaltskonsolidierungskonzept 2013 lfd.Nr. 8 - einstimmig zugestimmt
+- TOP 35: Ziffer 9 Offene Ganztagsschule – Finanzierung ab dem Schuljahr 2013/14 - mehrheitlich zugestimmt
+- TOP 36: Nr. 10.2 Einführung einer Parkgebühr für Lehrerparkplätze - mehrheitlich zugestimmt
+- TOP 37: Ziffer 10.3 des Haushaltskonsolidierungskonzepts:Erhöhung von Eintrittspreisen zu kulturellen Verann - mehrheitlich zugestimmt
+- TOP 38: Verzicht auf Förderungen Dritter und Aufgabe von städtischen Kulturprojekten - mehrheitlich zugestimmt
+- TOP 39: 10.5 des Haushaltskonsolidierungskonzeptes: Nutzungsänderung des Gebäudes "Alte Post" - einstimmig zugestimmt
+- TOP 40: Haushaltskonsolidierungskonzept - mehrheitlich zugestimmt
+- TOP 41: Vorschlag Nr. 11.2 "Haus der Jugend" - mehrheitlich zugestimmt
+- TOP 42: Vorschlag Nr. 11.3 des Haushaltskonsolidierungskonzeptes zum Haushaltsplanentwurf 2013 - Förderung d - einstimmig zugestimmt
+- TOP 43: Vorschlag Nr. 12 "Erhöhung der Elternbeiträge Tageseinrichtungen für Kinder" - mehrheitlich zugestimmt
+- TOP 44: Haushaltskonsolidierungskonzept - Verbesserungen im Bereich des fließenden Verkehrs - mehrheitlich zugestimmt
+- TOP 45: Beratung des Haushaltsplanes 2013 - mehrheitlich zugestimmt
+- TOP 46: Beratung der mittelfristigen Ergebnisplanung 2012 - 2016 - mehrheitlich zugestimmt
+- TOP 47: Beratung des Investitionsprogramms (investive Finanzplanung) 2012 - 2016 - mehrheitlich zugestimmt
+- TOP 48: Erlass einer Hebesatzsatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 49: Haushaltssatzung 2013 - mehrheitlich zugestimmt
+- TOP 50: Kommunalwahl 2014 – Zahl der Ratsvertreter ( § 3 Abs. 2 KWahlG NRW) - einstimmig zugestimmt
+- TOP 51: Änderung der Vergabeordnung - einstimmig zugestimmt
+- TOP 52: Einrichtung einer Sekundarschule/Gesamtschule- Ergebnis der Elternbefragung - mehrheitlich zugestimmt
+- TOP 53: Benennung von Stadtverordneten zur 37. ordentlichen Hauptversammlung des Deutschen Städtetages - einstimmig zugestimmt
+- TOP 54: Mehr Lebensqualität in Neuss - einstimmig zugestimmt
+- TOP 55: Entwicklung der Schmutz- und Regenwassergebühren für 2013 - einstimmig zugestimmt
+- TOP 56: Einwohnerfragestunde - zur Kenntnis genommen
