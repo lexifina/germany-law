@@ -1,4 +1,5 @@
 # Inhaltsübersicht
+Präambel
 § 1 Errichtung, Rechtsform, Sitz
 § 2 Zweck
 § 3 Gemeinnützigkeit
@@ -12,6 +13,7 @@
 § 11 Wissenschaftlicher Beirat
 § 12 Beschäftigte der Stiftung
 § 13 Haushalt
+§ 13a Satzungsermächtigung
 § 14 Rechtsaufsicht
 § 15 Prüfungsrechte
 § 16 Aufhebung der Stiftung
