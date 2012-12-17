@@ -1,0 +1,6 @@
+# TOP 3: Prüfung der Anschuldigungen gegen einen Mitarbeiter der Kleiderkammer der Berufsfeuerwehr Solingen
+
+- Sitzung: Rechnungsprüfungsausschuss (2012-12-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/4902
