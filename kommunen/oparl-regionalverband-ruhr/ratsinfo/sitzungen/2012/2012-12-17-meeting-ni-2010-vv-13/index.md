@@ -1,0 +1,66 @@
+# 13. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2012-12-17T10:00:00+01:00
+- Ende: 2012-12-17T11:55:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-13
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-13
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-13
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VV-13
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VV-13
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung der neuen Mitglieder der Verbandsversammlung
+- TOP -: Verabschiedung der ausgeschiedenen Mitglieder der Verbandsversammlung
+- TOP 2.2: Einbringung des Haushalts 2013
+- TOP 2.23: Resolution der Verbandsversammlung des Regionalverbandes Ruhr Arbeitsplätze und Wirtschaftsstandort im regionalen Interesse sichern
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Neuaufstellung des Bundesverkehrswegeplans (BVWP) Projektanmeldung für den Bereich Straße
+- TOP 1.1.1: Änderung der Projektvorschläge zur Neuaufstellung des Bundesverkehrswegeplans für den Bereich Straße
+- TOP 1.1.2: Änderung der Projektvorschläge zur Neuaufstellung des Bundesverkehrswegeplans für den Bereich Straße Antrag Bündnis 90/Die Grünen vom 14.12.2012
+- TOP 1.2: Regionaler Vorschlag zum Jahresbauprogramm 2013 für die Maßnahmen des Landesstraßenausbauplanes
+- TOP 1.3: Jahresbauprogramm 2013 zum Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Entscheidung über die Prioritäten
+- TOP 1.4: Jahresbauprogramm 2013 zum Radwegebau an bestehenden Landesstraßen: Entscheidung über die Priorisierung
+- TOP 1.5: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2013
+- TOP 1.6: Aktueller Sachstand Abfallwirtschaftsplan NRW, Teilplan Siedlungsabfälle hier: Kenntnisnahme
+- TOP 1.7: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik hier: Beratung und Beschlussfassung 2013, Rückblick auf die Förderung 2012
+- TOP 1.8: Verhältnis RFNP zum Regionalplan Ruhr hier: Gemeinsame Stellungnahme RVR und RFNP-Städte
+- TOP 1.9: Kraftwerksstandort Datteln IV: Meinungsausgleichsstermin hier: Sachstandsbericht
+- TOP 1.10: Wuppertal, 49. Flächennutzungsplanänderung – Dreigrenzen – Beteiligung der Behörden gem. § 4 Abs. 2 BauGB (IKEA)
+- TOP 1.11: Personalausstattung der Regionalplanung in Nordrhein-Westfalen
+- TOP 1.12: Entwurf des Netzentwicklungsplans Strom 2012 Sachstandsbericht
+- TOP 1.13: Anfragen und Mitteilungen
+- TOP 1.13.1: Anfrage der CDU-Fraktion in der VV vom 24.09.2012 Fracking hier: Antwort der zuständigen Genhemigungsbehörde vom 19.10.2012
+- TOP 1.13.2: Bericht über laufende Verfahren
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wechsel in den Gremien des RVR
+- TOP 2.1.1: Wechsel in den Ausschüssen
+- TOP 2.3: Entwurf des NKF-Gesamtabschlusses 2010
+- TOP 2.4: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Beteiligung an der ecce - european centre for creative economy GmbH
+- TOP 2.4.1: Änderungsantrag zuTOP 2.4 Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Beteiligung an der ecce - european centre for creative economy GmbH / DS 12/0710-1
+- TOP 2.4.2: Mündlicher Änderungsantrag der CDU-Fraktion vom 17.12.2012 zum Änderungsantrag der Fraktionen SPD, Bündnis 90/Die Grünen vom 14.12.2012 (Drucksache Nr. 12/0755)
+- TOP 2.5: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der AGR Betriebsführung GmbH
+- TOP 2.6: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Personal-Service-Ruhr GmbH (vormals CoverTronic GmbH)
+- TOP 2.6.1: Angelegenheiten der AGR – Personal-Service-Ruhr GmbH (vormals Cover Tronic GmbH)
+- TOP 2.7: Angelegenheiten der RUHR. 2010 GmbH i. L. - Jahresabschluss zum 30.12.2011
+- TOP 2.8: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.9: Angelegenheiten der Freizeitgesellschaften - Jahresabschluss der Revierpark Nienhausen GmbH zum 31.12.2011
+- TOP 2.10: Angelegenheiten der Seegesellschaft Haltern mbH - Änderung des Gesellschaftsvertrages
+- TOP 2.11: Angelegenheiten der NaturFreizeitverbund Niederrhein GmbH (NFN) - Jahresabschluss zum 31.12.2011
+- TOP 2.12: Angelegenheiten der TouristikEisenbahn Ruhrgebiet GmbH - TER - Jahresabschluss zum 31.12.2011
+- TOP 2.13: Angelegenheiten der TER TouristikEisenbahnRuhrgebiet GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.14: Feststellung Jahresabschluss zum 31.12.2011 und Lagebericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Beschluss zur Zuführung des Jahresüberschusses 2011 in die Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.15: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün für das Jahr 2013
+- TOP 2.16: Bericht: Prüfung des Jahresabschlusses der eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur 2011
+- TOP 2.17: Wirtschaftsplan 2013 der eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur
+- TOP 2.18: Bildungsregion Ruhr
+- TOP 2.19: Ideenwettbewerb zur Zukunft der Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 2.20: Geonetzwerk metropoleRuhr
+- TOP 2.21: 
+- TOP 2.22: Rechte und Pflichten von Mitgliedern in Aufsichts- und Verwaltungsräten hier: Kenntnisnahme
+- TOP 2.24: Anfragen und Mitteilungen
