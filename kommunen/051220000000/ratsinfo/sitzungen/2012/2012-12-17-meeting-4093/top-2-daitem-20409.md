@@ -1,0 +1,6 @@
+# TOP 2: Protokoll über die 10. Sitzung des Rechnungsprüfungsausschusses am 27.08.2012 – öffentlicher Teil
+
+- Sitzung: Rechnungsprüfungsausschuss (2012-12-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/20409
