@@ -1,0 +1,62 @@
+# Rat (69. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2012-12-18T17:04:00+01:00
+- Ende: 2012-12-18T20:45:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYuwtm_vZpzfADynhBGp568
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/9180
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa5tU0uxiICt59qEyZUxWkQRMMN3yQfFr76f-bqbV_w2/Bekanntmachung_Rat_18.12.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYrldKewbXyvxsrVHsRC3kpsee31jXC33oJN9I6Va8YG/Oeffentliche_Niederschrift_Rat_18.12.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 06.11.2012
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Bildung und Besetzung von Gremien
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 4.2: Entsendung von Mitgliedern des Seniorenbeirates in weitere Ausschüsse; Antrag des Seniorenbeirates vom 04.10.2012 - 34 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 5.: Bestellung des Leiters der Freiwilligen Feuerwehr Emsdetten (Wehrführer) und eines Stellvertreters (stellv. Wehrführer) - Einstimmig
+- TOP 6.: GFG 2012 - Verfassungsbeschwerde und Resolution GFG 2013 - 37 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 7.: Antrag DIE LINKE auf Beitritt der Stadt Emsdetten zur Kampagne "Vermögenssteuer jetzt" - 20 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 8.: Antrag der FDP-Fraktion auf Reaktivierung des Antrags vom 25.05.2008 zur Installation von Webcams im Ratssaal und im Sitzungsraum 415 zur direkten Veröffentlichung der öffentlichen Rats- und Ausschusssitzungen im Internetportal der Stadt Emsdetten - 7 Ja-Stimme(n), 26 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Genehmigung einer außerplanmäßigen Ausgabe zum Ankauf einer Immobilie - Einstimmig
+- TOP 10.: Vorzeitige Ausschüttung vom Jahresüberschuss 2012 des Abwasserwerkes - 4 Ja-Stimme(n), 35 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.: Satzungsrecht
+- TOP 11.1: Abweichungssatzung zur Satzung der Stadt Emsdetten über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten vom 13.05.1988 für die Erschließungsanlagen Mühlenbachaue (Süd), Goldbergweg (Abschnitt) und Platinweg - Einstimmig
+- TOP 11.2: X. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 11.3: Neufassung der Satzung der Stadt Emsdetten über die Entsorgung von Grundstücksentwässerungsanlagen - Einstimmig
+- TOP 11.4: Neufassung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen auf Grundlage der Gebührenkalkulation für das Jahr 2013 - Einstimmig
+- TOP 11.5: I. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 - Einstimmig
+- TOP 11.6: I. Nachtrag zur Gebührensatzung vom 04. Juli 2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04. Juli 2012 - Einstimmig
+- TOP 11.7: VI. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und der Winterwartung ab 2013 - 36 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Sanierungsgebiet "Innenstadt Emsdetten" - Erweiterung des Sanierungsgebietes - Einstimmig
+- TOP 13.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 13.1: Kostenspaltung Friedenstraße - 35 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 14.: Planung von Tiefbauvorhaben
+- TOP 14.1: Bauprogramm für die Friedenstraße (Teilstück zwischen Eschstraße und Amtmann-Schipper-Straße) - Einstimmig
+- TOP 14.2: Bauprogramm an Hand des Bestandsplanes für die Straße Mühlenbachaue (Süd) - Einstimmig
+- TOP 14.3: Bauprogramm an Hand des Bestandsplanes für den Platinweg und den Goldbergweg -Teilstück K53 Silberweg/bis zur westlichen auf dem Goldbergweg verlaufenden Grenze des Bebauungsplanes Nr.85 "Silberweg/Erzweg" - Einstimmig
+- TOP 15.: Allgemeine Umweltangelegenheiten
+- TOP 15.1: proKLIMA - das integrierte Klimaschutz- und Klimaanpassungskonzept der Stadt Emsdetten - Einstimmig
+- TOP 16.: Schulangelegenheiten
+- TOP 16.1: Anträge auf Einrichtung zusätzlicher Betreuungsgruppen im offenen Ganztag der Josefschule und der Johannesschule - Einstimmig
+- TOP 16.2: Bildung der Grundschul-Eingangsklassen für das Schuljahr 2013/2014 - 31 Ja-Stimme(n), 8 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.3: Errichtung einer städtischen Gesamtschule und auslaufende Auflösung der Marienschule und der Geschwister-Scholl-Schule - Einstimmig
+- TOP 17.: Kulturangelegenheiten
+- TOP 17.1: Optimierung der Öffnungszeiten der Stadtbibliothek - Einstimmig
+- TOP 18.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 18.1: Anpassung der vertraglichen Regelungen zwischen dem Kreisel e.V. und der Stadt Emsdetten über die Aufgaben der Familiengerichtshilfe ab 2013 - Einstimmig
+- TOP 18.2: Vergabe der Trägerschaft für die Durchführung von Angeboten für Kinder in den Sommerferien an den Träger Stroetmanns Fabrik - Einstimmig
+- TOP 19.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2013 - 36 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Stellenplan
+- TOP 20.1: Stellenplan 2013 - 34 Ja-Stimme(n), 1 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 21.: Etat / Budget
+- TOP 21.1: Haushaltssatzung und Haushaltsplan 2013 - 29 Ja-Stimme(n), 10 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 22.: Verschiedenes
