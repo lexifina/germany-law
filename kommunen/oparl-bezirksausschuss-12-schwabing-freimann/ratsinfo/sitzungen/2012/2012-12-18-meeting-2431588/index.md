@@ -1,0 +1,107 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2431588
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2431588
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: "Neugestaltung Wedekindplatz in Schwabing? - Vorstellung der Planung durch das Baureferat
+- TOP .2.: Städtebauliche Entwicklungsmaßnahme Bayernkaserne - Grundsatz- und Eckdatenbeschlusses (Vorstellung der Änderungen durch Vertreter des Planungsreferates)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Zusendung von Budgetanträgen des Direktoriums
+- TOP .10.: sonstiges
+- TOP .1.: Wahl eines BA-Beauftragten für das Freizeitheim LOK Freimann
+- TOP .1.: Vorgehen gegen Lärmemmissionen und Luftverschmutzungen ausgehend von Baustellen
+- TOP .1.: Wasserkraftanlage am Eisbach im Bereich der Straße "Am Tucherpark" (WKA "Tucherpark") 4. Antragsteller (vertagt aus 11/2012)
+- TOP .2.: Wasserkraftanlage am Eisbach im Bereich der Straße "Am Tucherpark" (WKA "Tucherpark") 5. Antragsteller
+- TOP .3.: Verzicht auf Laubbläser (Antrag des BA 20 Hadern)
+- TOP .4.: Ausbau der Haltestellen ?Studentenstadt? Richtung Kieferngarten für die Nachtbuslinie N40
+- TOP .5.: Neubau der Erschließungsstraßen im Areal der ehemaligen Funkkaserne
+- TOP .6.: Übernahme eines bereits bestehenden personenbezogenen Behindertenparkplatzes Karl-Theodor-Str. 31 Seite Muffatstraße
+- TOP .7.: Erweiterung der Signalanlage Alfred-Arndt-/Domagkstraße im Zuge des Projektes Funkkaserne
+- TOP .8.: Lichtzeichenanlage: Neubau am Frankfurter Ring / Max-Bill-Str.
+- TOP .1.: Echinger Straße: Überprüfung der Parksituation / Ausweitung des Parkraummanagements
+- TOP .2.: Freigabe der Mandlstraße für den gegenläufigen Radverkehr Empfehlung Nr. 08-14 / E 01417 der Bürgerversammlung vom 12.07.2012
+- TOP .3.: Erweiterung der 30 km/h-Zone in der Oskar-Schlemmer-Straße Empfehlung Nr. 08-14 / E 01418 der Bürgerversammlung vom 12.07.2012
+- TOP .4.: Errichtung eines Radlständers in der Leopoldstraße
+- TOP .1.: Zeitänderung an der Bücherbushaltestelle in der Schlüterstraße
+- TOP .1.: Installation einer Beleuchtung zwischen Isarwehr und Ernst-Petzold-Weg (Antwort der Verwaltung des Englischen Gartens auf ein Bürgeranliegen)
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (2)
+- TOP .3.: Lärmbelastung im Euro-Industriepark (Bürgeranliegen zur Information vom BA 11) siehe auch D.5.3.5.
+- TOP .4.: Schreiben eines Bürgers: Tram 23 (diverse Punkte zur Information entlang der Tram 23)
+- TOP .5.: Einrichtung von Fahrradstraßen (Information des Kreisverwaltungsreferates)
+- TOP .6.: Einführung des 10-Minuten-Taktes für die Buslinie 181 und Überdachung der Bushaltestelle ?Josef-Wirth-Weg? (Antwort der MVG auf ein Bürgeranliegen)
+- TOP .7.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.2012; Sitzungsvorlage Nr. 08-14 / V 07773
+- TOP .8.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutz-verordnung; Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchG in der Ungererstr. / Föhringer Ring für den Einbau einer Asphalt-Feinschicht mit Verdichtungsmaschinen
+- TOP .1.: (E) Budget der Bezirksausschüsse Mohr-Villa-Freimann e.V. Ausstellung vom 11. - 27.01.2013
+- TOP .1.: Budget der Bezirksausschüsse: Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine ?Fristwahrungsanträge?)
+- TOP .2.: City Bike Marathon München und nördl. Umgebung am 14.04.2013
+- TOP .3.: Münchner Sommer SpielAktion 2013 ? Planung der Einsätze durch den Spiel in der Stadt e.V.
+- TOP .4.: Verbesserung des Versorgungsgrades an Ganztagesklassen sowie an Hort- und Mittagsbetreuungsplätzen in Schwabin g-Freimann (Empfehlung E 01025) und Errichtung eines Horts im Haidpark (Empfehlung E 01032); Sitzungsvorlage 08-14 / V 10687
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Imbiss Grillbar?, Trink- und Imbisskiosk mit Bewirtungsfläche im Freien, Muthmannstr.4
+- TOP .2.: ?Lardy-Tapas & Soul?, Schank- und Speisewirtschaft, Leopoldstr. 4
+- TOP .3.: ?Zeki's?, Kleingaststätte, Frankfurter Ring 228
+- TOP .1.: Erlaubnisbescheid Schwabinger Weihnachtsmarkt
+- TOP .2.: Bescheid über die Gewährung eines Zuschusses aus dem Budget des BA 12 in Höhe von 5.364,00 ? für die Initiative ?Babel? für eine Ausstellung vom 14. bis 21.03.2013
+- TOP .3.: Bescheid über die Gewährung eines Zuschusses aus dem Budget des BA 12 in Höhe von 1.400,00 ? für Seniorenwohnen Kieferngarten für ein Weihnachtskonzert am 12.12.2012
+- TOP .4.: Realisierungswettbewerb ? Errichtung von vier Grundschulen in modularer Bauweise; BA 12: Errichtung einer fünfzügigen Grundschule am Bauhausplatz mit Räumen für ganztägige Betreuung sowie einer Dreifachsporthalle mit Zuschauertribüne, Freisportanlage und eines Hauses für Kinder mit drei Krippen- und Kindergartengruppen; Sitzungsvorlage Nr.: 08 ? 14 / V 10747 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 05.12.2012 incl. Beschlussvorlage für die Errichtung einer mobilen Schulraumeinheiten auf dem Areal der Funkkaserne (und 2 weiteren nicht im BA 12 Gebiet liegenden Standorten)
+- TOP .5.: Erinnerungsorte München, Sitzungsvorlage 08-14 / V 10578 Beschluss des Kulturausschusses vom 22.11.2012
+- TOP .6.: Infrastrukturprogramm Sport in München; Sitzungsvorlage 08-14 / V 09896 Beschluss der Vollversammlung des Stadtrates vom 24.10.2012
+- TOP .7.: Generalinstandsetzung, Auslagerung: Grund- und Förderschule an der Fröttmaninger Str. 21
+- TOP .8.: Kinder entscheiden in Ihrem Stadtteil; Sitzungsvorlage Nr.: 08-14 / V 10288 Beschluss der Vollversammlung des Stadtrates vom 28.11.2012
+- TOP .1.: Genehmigung zur Aufstellung von 39 (bereits bestehenden) Zeitungsverkaufseinrichtungen
+- TOP .2.: Genehmigung einer Freischankfläche, Leopoldstraße 57
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Freisinger Landstraße 187, Fl.Nr. 275/0, diverse Baumfällungen im Rahmen des Bauvorhabens: Erneuerung der 1. biologischen Stufe im Klärwerk Gut Großlappen
+- TOP .2.: Carl-Orff-Bogen 53, 1 Traubenkirsche
+- TOP .3.: Floriansmühlstraße 60, diverse Bäume ? Fällungen und Baumveränderungen
+- TOP .4.: Wallnerstraße 6, 5 Eschen
+- TOP .5.: Dreschstr. 9, 2 Fichten
+- TOP .6.: Rheinstr. 3-5, 1 Esche
+- TOP .7.: Hermann-Vogel-Str. 23, 1 Birke
+- TOP .8.: Genter Str. 6-6a, Fl.Nr. 1029/6, Neubau eines Mehrfamilienhauses mit Tiefgarage (Fällungen gemäß Plan)
+- TOP .1.: Bauvorhaben: Dreschstr. 2, Fl.Nr.: 924/99, Neubau eines Mehrfamilienhauses mit Tiefgarage incl. Baumfällungen
+- TOP .2.: Biedersteiner Str. 41, F.Nr.: 1215/16, Neubau eines Wohnhauses mit drei Wohneinheiten und Tiefgarage
+- TOP .3.: Münchner Freiheit, Flurstück: 340/0, Vermietung einer Standfläche für einen Kiosk
+- TOP .4.: Floriansmühlstr. 5, Fl.Nr. 33/0, Anbau eines Theaterfoyers
+- TOP .5.: Situlistr. 80, Fl.Nr.: 45/12, Neubau einer 4-gruppigen Kinderkrippe incl. Baumfällungen
+- TOP .6.: Lindberghstr., Fl.Nr.: 170/96, Neubau einer Sortierhalle mit Büro- und Sozialtrakt und Betriebsleiterwohnung
+- TOP .7.: Burmesterstr. 27, Fl.Nr.: 302/8, Generalinstandsetzung Jugendfreizeitstätte incl. Baumfällungen
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen diverse Bäume an verschiedenen Standorten; insgesamt: 15 Bäume
+- TOP .2.: Osterwaldstr. Sportplatz Fl.Nr.: 1070/3, Fällung einer Traubenkirsche
+- TOP .3.: Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen diverse Bäume an verschiedenen Standorten; insgesamt: 33 Bäume
+- TOP .1.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.10.2012 incl. Hinweisen / Ergänzungen ; Sitzungsvorlage Nr.: 08-14 / V 09600
+- TOP .2.: Baumaßnahmen der Stadtwerke München (SWM) a) Fernwärmeprojekt Franz-Joseph-Straße
+- TOP .3.: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligung für den Bereich des Referates für Stadtplanung und Bauordnung; Sitzungsvorlage Nr.: 08-14 / V 10344 Beschluss des gemeinsamen Ausschusses des Verwaltungs- und Personalausschusses, des Ausschusses für Stadtplanung und Bauordnung und des Finanzausschusses v. 21.11.2012
+- TOP .4.: Novellierung der Baumschutzverordnung (BaumschutzV) Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 mit Ergänzungen
+- TOP .5.: Lärmbelastung im Euro-Industriepark (Bürgeranliegen zur Information vom BA 11) siehe auch B.5.3.3.
+- TOP .6.: Vorbescheid: Schlößlanger 36, Um- und Ausbau des Dachgeschosses
+- TOP .7.: Veränderungssperre Nr. 653, Freisinger Landstraße 72 (Flurstücke 544/6, 544/21, 544/2 und 548/13), Nochmalige Verlängerung;Sitzungsvorlage Nr.: 08-14 / V 10642 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012
+- TOP .8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/46, Freisinger Landstraße 72 (beidseits), Garchinger Mühlbach (westlich); Sitzungsvorlage Nr.: 08-14 / V 10722 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012
+- TOP .9.: Demografiebericht München - Teil 1; Analyse und Bevölkerungsprognose 2011 bis 2030 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012; Sitzungsvorlage Nr.: 08-14 / V 10686 incl. Hinweis / Ergänzung vom 29.11.2012
+- TOP .10.: Wohnen in München IV ? Erfahrungsbericht für das Jahr 2010 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007-2011) Sitzungsvorlage Nr. 08-14 / V 10688 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012
+- TOP .11.: Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebeirats-satzung; Gründung Beraterkreis ?Runder Tisch Werbung?; Sitzungsvorlage Nr.: 08-14/V10677 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012
+- TOP .12.: Bebauungsplan mit Grünordnung Nr. 1967 a ? Domagkstr. (nördlich), Tramlinie 23 (westlich), Frankfurter Ring (südlich); Neubau der Erschließungsstraßen und der Fuß- und Radwegverbindungen; Bedarfs- und Konzeptgenehmigung; Ergänzung zum Beschluss des Bauausschusses vom 11.12.2012 Sitzungsvorlage Nr. 08-14 / V 10277
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
