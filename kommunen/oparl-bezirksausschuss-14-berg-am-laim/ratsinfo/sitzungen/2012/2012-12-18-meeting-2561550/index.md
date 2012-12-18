@@ -1,0 +1,75 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2561550
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2561550
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Planungen für die Grundstücke an der Berg-am-Laim-Str. 125 - 129 - <div></div>
+- TOP 3.1.1.2.: Strukturkonzept Gewerbegebiet Neumarkter Straße - <div></div>
+- TOP 3.1.2.1.: Öffnung der beiden einbahngeregelten Fahrbahnen des Piusplatzes zwischen Aschheimer und Westerhamer Straße für den gegenläufigen Radverkehr - Anhörung des KVR
+- TOP 3.1.2.2.: Parkregelungen in der Rottalstraße - Anhörung des KVR
+- TOP 3.1.2.3.: Beschleunigung der Buslinien 144 und 145 - Anhörung des Referates f. Arbeit & Wirtschaft
+- TOP 3.2.1.: Erinnerungsorte München - BA-Antrag Nr. 08-14 / B 03000 des BA 8
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Planung der Einsätze der Münchner Sommerspielaktion 2013
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Alzheimer Gesellschaft München e.V. - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.6.1.: Kranzhornstraße 6
+- TOP 3.6.2.: Kranzhornstraße 35
+- TOP 3.6.3.: Halserspitzstraße 18
+- TOP 3.6.4.: Seebrucker Str. 48
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtungen über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grafinger Straße 35 - Unveränderte Fortführung "Grafinger Stuben"
+- TOP 4.1.1.3.: Demographiebericht München Teil 1 - Analyse und Bevölkerungsprognose 2011 bis 2030 Sitzungsvorlagen-Nr. 08-14 / V 10686
+- TOP 4.1.1.4.: Auflösung des Werbebeirats der Landeshauptstadt München - Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis "Runder Tisch Werbung" - Vorl.-Nr. 08-14 / V 10677
+- TOP 4.1.1.5.: Bebauungsplan mit Grünordnung Nr. 2079 - Grafinger Straße (südlich), Innsbrucker Ring (westlich), Westerhamer Straße (nordöstlich) - Aufstellungsbeschluss - Nr.08-14 / V 10714
+- TOP 4.1.1.6.: Wohnen in München IV - Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007 - 2011) - Bekanntgabe - Sitzungsvorlagen-Nr. 08-14 / V 10688
+- TOP 4.1.1.7.: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen - 08-14 / V 10344
+- TOP 4.1.2.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept a) Fortsetzung des Parkraummanagements außerhalb des Mittleren Ringes b) Dauerhafte Aufgaben zum Betrieb und zur dauerhaften Qualitätssicherung des Parkraummanagements c) Eng mit der Einführung des Parkraummanagements einhergehende und bei Umsetzung des Parkraummanagements aufgetretene Fragestellungen d) Einbeziehung der Gebiete nördlich und westlich des Klinikums Schwabing in das Parkraummanagement Sitzungsvorlagen-Nr. 08-14 / V 07773
+- TOP 4.1.2.2.: Prüfungsergebnisse in Sachen Schmalere Buswartehallen - Antrag-Nr. 08-14 / B 02610
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kinder entscheiden in ihrem Stadtteil - Antrag Nr. 08-14 / A 02754
+- TOP 4.3.2.: Kindertagesstätten sonstiger Träger; Kinderkrippe Bad-Schachener-Straße 39 im 14. Stadtbezirk Berg am Laim - Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" - 2008-2013; Sitzungsvorlagen-Nr. 08-14 / V 10035
+- TOP 4.3.3.: Infrastrukturprogramm Sport in München - Sitzungsvorlagen-Nr. 08-14 / V 09896
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
