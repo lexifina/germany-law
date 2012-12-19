@@ -1,16 +1,16 @@
 # Rückwirkende Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2007-05-07 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rueckwirkende_satzung_zur_besteuerung_des_spielvergnuegens_2007-05-07.pdf
+- Datum: 2012-12-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/rueckwirkende_satzung_zur_besteuerung_des_spielvergnuegens_2012-12-19.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Rückwirkende Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln vom 16. Dezember 2005
-in der Fassung der 2. Satzung zur Änderung der Rückwirkenden Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln
-vom 7. Mai 2007
+in der Fassung der 3. Satzung zur Änderung der Rückwirkenden Satzung zur Besteuerung des Spielvergnügens an Geldspielgeräten im Gebiet der Stadt Köln
+vom 19. Dezember 2012
 Der Rat der Stadt Köln hat in seiner Sitzung am 15.12.2005 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV NRW S. 666) und des § 2 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (GV NRW S. 712) – jeweils in der zum Zeitpunkt des Erlasses dieser Satzung geltenden Fassung - folgende Satzung beschlossen:
 §1 Steuergläubiger
 Die Stadt Köln erhebt nach dieser Satzung eine Steuer auf Geldspielgeräte als örtliche Aufwandsteuer.
@@ -31,7 +31,7 @@ Seite 1 von 4
 §6 Entstehung des Steueranspruches
 Der Steueranspruch entsteht mit der Benutzung des Gerätes durch den/die Spieler/in.
 §7 Anzeigepflicht, Festsetzung und Fälligkeit
-(1) Für die Geräte nach § 2 ist dem Kassen- und Steueramt der Stadt Köln bis zum 15.Juni 2007 je Aufstellort eine Steuererklärung nach amtlich vorgeschriebenem Vordruck einzureichen, soweit noch keine bestandskräftige Steuerfestsetzung erfolgt ist.
+(1) Für die Geräte nach § 2 ist dem Kassen- und Steueramt der Stadt Köln bis zum 31. Januar 2013 je Aufstellort eine Steuererklärung nach amtlich vorgeschriebenem Vordruck einzureichen, soweit noch keine bestandskräftige Steuerfestsetzung erfolgt ist.
 Der Steuererklärung sind sämtliche Zählwerkausdrucke (Kassenstreifen) der zu versteuernden Geräte für die betreffenden Veranlagungszeiträume beizufügen.
 Die Zählwerkausdrucke (Kassenstreifen) müssen – entsprechend den Angaben auf den amtlichen Vordrucken – folgende Parameter enthalten: Aufstellort, Gerätename, Gerätenummer, Ausdruck Nr., Summe der eingesetzten Geldbeträge bzw. des Einspielergebnisses nach § 3 Abs. 2 im jeweiligen Abrechnungszeitraum.
 Die vorgenannten Daten können nach vorheriger Zustimmung des Kassen- und
@@ -39,23 +39,23 @@ Seite 2 von 4
 
 Steueramtes der Stadt Köln auch auf elektronischem Wege oder auf Datenträgern übermittelt werden.
 Die Steuererklärung muss vom Steuerschuldner oder seinem Vertreter unterschrieben sein
-(2) Die bislang für die Geräte nach § 2 geleisteten Steuern werden auf die sich nach dieser Satzung ergebenden Steuerschuld angerechnet. Ist die Steuerschuld kleiner als die Summe der geleisteten Zahlungen, wird der Unterschiedsbetrag nach Bekanntgabe des Steuerbescheides unverzüglich durch Aufrechnung oder Zurückzahlung ausgeglichen.
+(2) Ist die Steuerschuld größer als die Summe der bereits geleisteten Zahlungen, so ist der Unterschiedsbetrag innerhalb von sieben Kalendertagen nach Bekanntgabe des Steuerbescheides fällig. Soweit die Steuerschuld die Höhe der bisher festgesetzten oder gezahlten Steuer nicht übersteigt, tritt ihre Fälligkeit rückwirkend im Zeitpunkt der seinerzeitigen Festsetzung, oder, wenn diese aufgehoben wurde, im Zeitpunkt der Zahlung ein.
 §8 Steuervereinbarungen
 Das Kassen- und Steueramt der Stadt Köln kann abweichend von der Vorschrift des § 4 den Steuerbetrag mit dem Veranstalter vereinbaren, wenn der Nachweis der steuerlich relevanten Daten im Einzelfall besonders schwierig ist oder wenn die Vereinbarung zu einer Vereinfachung der Berechnung führt.
 §9 Verspätungszuschlag
 Die Festsetzung eines Verspätungszuschlages bei Nichtabgabe oder nicht fristgerechter Abgabe einer Steuererklärung (Steueranmeldung) erfolgt nach der Vorschrift des § 152 der Abgabenordnung in der jeweils geltenden Fassung.
 § 10 Steueraufsicht und Prüfungsvorschriften
 Sowohl der Veranstalter als auch der Eigentümer, der Vermieter, der Besitzer und der sonstige Inhaber der benutzten Räume oder Grundstücke sind verpflichtet, mit Dienstausweis oder besonderer Vollmacht ausgestatteten Vertretern des Kassenund Steueramtes der Stadt Köln zur Nachprüfung der Erklärungen und zur Feststellung von Steuertatbeständen unentgeltlich Einlass in die Veranstaltungsräume, auch während der Veranstaltungen, zu gewähren. Die Vertreter des Kassen- und Steueramtes der Stadt Köln sind berechtigt, sich eine Kopie des Zählwerksausdrucks mit den für die Erhebung der Spielgerätesteuer relevanten Daten erstellen zu lassen.
+Seite 3 von 4
+
 § 11 Straftaten / Ordnungswidrigkeiten
 Zuwiderhandlungen gegen die Bestimmungen der §§ 7 und 10 dieser Satzung können gemäß §§ 17 und 20 des Kommunalabgabengesetzes NRW (KAG) als Straftat bzw. Ordnungswidrigkeit verfolgt werden.
-Seite 3 von 4
 
 § 12 Geltung des Kommunalabgabengesetzes und der Abgabenordnung
 Soweit diese Satzung im Einzelnen nichts anderes bestimmt, sind die Vorschriften der §§ 12 – 22 a des KAG und der Abgabenordnung - soweit diese nach § 12 des KAG für die Vergnügungssteuer gelten - in der jeweiligen Fassung anzuwenden.
 
 § 13 In-Kraft-Treten
-Diese Satzung tritt am 01.01.2003 in Kraft.
-Sie gilt ausschließlich für Geräte nach § 2, für die noch keine bestandskräftige Steuerfestsetzung nach den Regelungen der Vergnügungssteuersatzung vom 20.12.2002 sowie der Vergnügungssteuersatzung vom 19.12.2003 in der Fassung der 1. Änderungssatzung vom 14.04.2004 erfolgt ist.
+Diese Satzung tritt am 01.01.2003 in Kraft. Sie gilt ausschließlich für die Besteuerungszeiträume vom 01.01.2003 – 31.12.2005 und nur für Geräte nach § 2, soweit nicht bereits eine bestandskräftige Steuerfestsetzung nach den Regelungen der Vergnügungssteuersatzung vom 20.12.2002 oder der Vergnügungssteuersatzung vom 19.12.2003 für die vorgenannten Zeiträume erfolgt ist
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
 Köln, den 16.12.2005
