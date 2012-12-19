@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2012-12-19T15:00:00+01:00
+- Ende: 2012-12-19T19:12:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2078
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2078
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Hauptversammlung Städtetag - Einstimmiger Beschluss
+- TOP 3: Genehmigung Bestellung SSK - Einstimmiger Beschluss
+- TOP 4: Lärmschutzbeirat - Einstimmiger Beschluss
+- TOP 5: Mittelbare Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 6: Außerplanmäßige Bereitstellung Haushaltsmittel - Mit Stimmenmehrheit beschlossen
+- TOP 7: Stellenplan 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Entwurf des Haushaltes 2013; Haushaltssatzung einschl. Anlagen u. Fortschreibung des HSP - Mit Stimmenmehrheit beschlossen
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2012 - Kenntnisnahme
+- TOP 10: Abfallentsorgung Mönchengladbach / Vorlage 2742/VIII - Einstimmiger Beschluss
+- TOP 10.1: Kündigung Entsorgungsvertrag / Vorlage 2741/VIII - Getrennte Abstimmung (s. Niederschrift)
+- TOP 11: Siebzehnter Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Mit Stimmenmehrheit beschlossen
+- TOP 12: Fünfzehnter Nachtrag Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 13: Dreizehnter Nachtrag Abfallsatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Straßenreinigungsgebühren - Mit Stimmenmehrheit beschlossen
+- TOP 15: Fünfunddreißigster Nachtrag zur Straßenreinigungs- und Gebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 16: Achtzehnter Nachtrag KanalbenutzungsgebührenO/Fünfter Nachtrag KKA - Mit Stimmenmehrheit beschlossen
+- TOP 17: Aufhebungssatzung Jagdsteuer - Einstimmiger Beschluss
+- TOP 18: Vergnügungssteuersatzung - Einstimmiger Beschluss
+- TOP 19: Genehmigung einer Dringlichkeitsentscheidung; hier: Bereitst. üpl. HHmittel wirtschaftl. Altenhilfe - Einstimmiger Beschluss
+- TOP 20: Sechster Nachtrag Parkgebührenordnung - Mit Stimmenmehrheit beschlossen
+- TOP 20.1: Änderung der Parkgebührenordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 21: Satzung abweichende Erhebung von Gebühren AVerwGebO NRW - Mit Stimmenmehrheit beschlossen
+- TOP 22: Sperrzeitverordnung - Einstimmiger Beschluss
+- TOP 23: Organisation Krankentransport - Einstimmiger Beschluss
+- TOP 24: Standortverlagerung der Förderschule Hardt - Einstimmiger Beschluss
+- TOP 25: Zweiter Nachtrag Tarif Benutzung Sportanlagen und Schulen - Mit Stimmenmehrheit beschlossen
+- TOP 26: Tarif für die Hallenbäder der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 27: Nachträge Museen - Mit Stimmenmehrheit beschlossen
+- TOP 28: Erster Nachtrag Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 29: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 30: Verabschiedung SEP 6 - Primarstufe - Einstimmiger Beschluss
+- TOP 31: Verabschiedung SEP 6 - Sekundarstufe I - Einstimmiger Beschluss
+- TOP 32: Leistungsvereinbarungen Frauenhäuser - Mit Stimmenmehrheit beschlossen
+- TOP 33: Aufgabe des städtischen Jugendfreizeitheims Mülfort - Einstimmiger Beschluss
+- TOP 34: Verlängerung des Vertrages über die Wahrnehmung von Betreuungen - Mit Stimmenmehrheit beschlossen
+- TOP 35: Leistungsvereinbarung mit AWO Familienservice gGmbH, Diakonischem Werk und Bistum Aachen - Mit Stimmenmehrheit beschlossen
+- TOP 36: Verlängerung des Vertrages über die Wahrnehmung von Betreuungen - Mit Stimmenmehrheit beschlossen
+- TOP 37: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 38: 1. Änderung eines Teilbereiches des BP 232/II - Stadtbezirk Nord - Hardt - Einstimmiger Beschluss
+- TOP 39: Bebauungsplan Nr. 741/N - Stadtbezirk Nord - Stadtteil Eicken - Einstimmiger Beschluss
+- TOP 40: Veränderungssperre Humboldtstraße - Einstimmiger Beschluss
+- TOP 41: Veränderungssperre Stresemannstraße - Einstimmiger Beschluss
+- TOP 42: Bebauungsplan Nr. 730/W - Stadtbezirk West - Mit Stimmenmehrheit beschlossen
+- TOP 43: Maßnahmen zum Schutz vor Überflutung der Talstraße - Einstimmiger Beschluss
+- TOP 44: Finanzierung Archäologische Zone/Jüdisches Museum Köln - Mit Stimmenmehrheit abgelehnt
+- TOP 45: Umbesetzung Vergabeausschuss - Einstimmiger Beschluss
+- TOP 46: Ausschreibung der Stelle einer/eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 47: Umbesetzung Kulturausschuss - Einstimmiger Beschluss
+- TOP 48: Kostentransparenz bei Beschlüssen der Ausschüsse und des Rates - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 49: Umbesetzung Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 50: Anfragen
+- TOP 50.1: Mitteilung von Beigeordneten Dr. Fischer zum 8. Schulrechtsänderungsgesetz
+- TOP 50.2: Mitteilung von Oberbürgermeister Bude zur Konversionsvereinbarung mit der BImA
+- TOP 50.3: Anfrag von RH Püllen zu Angeboten der OGATA
