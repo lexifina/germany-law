@@ -1,0 +1,78 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2012-12-19T17:00:00+01:00
+- Ende: 2012-12-19T21:00:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2685
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2685
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 24.10.2012 und 21.11.2012.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen 2012 Produkt 021501 Brandschutz Beschaffung einer überholten Gebrauchtdrehleiter - ungeändert beschlossen
+- TOP 4.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2012Ausleihung aus Stiftungsmitteln als Geldanlage (Borngasse) - ungeändert beschlossen
+- TOP 4.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen – Haushaltsjahr 2012- Maßnahmen zur Haushaltskonsolidierung – Einführung eines automatischen Kassensystems in der Schwimmhalle Brand - ungeändert beschlossen
+- TOP 4.4: Über- und außerplanmäßige Aufwendungen / Auszahlungen / VE – Haushaltsjahr 2012Anpassung der Zuschüsse an die Eigenbetriebe aufgrund geänderter Annahmen zum VKB 2010/2011 - ungeändert beschlossen
+- TOP 4.5: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2012 - Bereitstellung überplanmäßiger Mittel für den Bereich des IT-Managements - ungeändert beschlossen
+- TOP 4.6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2012 – Bereitstellung überplanmäßiger Mittel zur Beschaffung von Lizenzen - ungeändert beschlossen
+- TOP 5: I. Änderung des Bebauungsplanes Nr. 900 - Krefelder Straße/ Emmastraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Krefelder Straße, ehemaliger Alemannia-Zufahrt, Alemannia-Trainingsplatz,Emmastraße und Merowingerstraßehier: Satzungsbeschluss gem. § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 6: Bebauungsplan Nr. 947 - Jülicher Straße/ Wurmbach - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen der Jülicher Straße, dem Wurmbach und dem ehemaligen Versatz des Berliner Ringshier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 7: I. Änderung des Bebauungsplanes Nr. 715 - Düppelstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Elsassstraße und Düppelstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Erlass einer Satzung über ein besonders gemeindliches Vorkaufsrecht gemäß § 25 BauGB im Stadtbezirk Aachen-Laurensberg im Bereich 'Sportpark Soers / nördlicher Teil' - ungeändert beschlossen
+- TOP 9: Friedhofssatzung der Stadt Aachen vom 01.01.2011hier: 2. Nachtrag - ungeändert beschlossen
+- TOP 10: 15. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen) hier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 11: 12. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 12: 25. Nachtrag zur Straßenreinigungs- und Gebührensatzung in der Stadt Aachen - ungeändert beschlossen
+- TOP 13: 2. Nachtrag zur Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung) vom 10.12.2008 - ungeändert beschlossen
+- TOP 14: 1. Nachtrag zur Abfallgebührensatzung in der Stadt Aachen vom 01.01.2009 - ungeändert beschlossen
+- TOP 15: Gebührenordnung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 16: Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000hier: XII. Nachtrag - ungeändert beschlossen
+- TOP 17: Änderung der Marktstandsgebührensatzung für die städtischen Wochenmärkte - geändert beschlossen
+- TOP 17.1: Änderung der Marktstandsgebührensatzung für die städtischen Wochenmärkte - ungeändert beschlossen
+- TOP 18: Änderung der Rechnungsprüfungsordnung - ungeändert beschlossen
+- TOP 19: Bericht der PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2011 und Lagebericht für das Wirtschaftsjahr 2011 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 20: Wirtschaftsplan 2013 für den Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 21: Wirtschaftsplan 2012/2013 – 1. Änderungvon Stadttheater und Musikdirektion Aachen - geändert beschlossen
+- TOP 21.1: Wirtschaftsplan 2012/2013 – 1. Änderungvon Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 22: Jahresabschluss zum 31. 12. 2011 und Lagebericht 2011 von Volkshochschule Aachen - ungeändert beschlossen
+- TOP 23: Jahresabschluss Eurogress Aachen 2011 - ungeändert beschlossen
+- TOP 24: Weiterentwicklung StädteRegion Aachen - ungeändert beschlossen
+- TOP 25: Beschlussfassung zum Projekt Campusbahn und Beschlussfassung über die Durchführung eines Ratsbürgerentscheides nach §26 GO NRW zum Beschluss des Rates der Stadt Aachen zum Projekt CampusbahnTagesordnungsantrag der SPD vom 20.10.2012 - ungeändert beschlossen
+- TOP 26: Aachen*2030: MasterplanPerspektiven für die räumliche Entwicklung der Stadt - geändert beschlossen
+- TOP 26.1: Aachen*2030: MasterplanPerspektiven für die räumliche Entwicklung der Stadt - ungeändert beschlossen
+- TOP 27: Satzung über die Erhebung der Übernachtungsabgabe in der Stadt Aachen ab 01.01.2013 - zurückgezogen
+- TOP 28: Anordnung der Umlegung für den Bereich des aufzustellenden Bebauungsplans - Rollefstraße/Trierer Straße - - ungeändert beschlossen
+- TOP 29: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 30: a) Einführung eines Tagestickets im Bewohnerparkbereich 'Ost 2'b) Zweiter Nachtrag zur Parkgebührenordnung - ungeändert beschlossen
+- TOP 31: Schenkung von zwei Aquarellen und zwei Zeichnungen des Künstlers Fritz Schaefler (1888-1954) an das Suermondt-Ludwig-Museum durch seinen Enkel Christoph Schaefler - ungeändert beschlossen
+- TOP 32: Aufnahme von zwei Personen in die Liste von Persönlichkeiten, nach denen in Aachen eine Straße benannt werden soll - ungeändert beschlossen
+- TOP 33: Anfragen
+- TOP 34: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 35: Mitteilungen der Verwaltung und Ratsanträge
+- TOP 36: Kulturhauptstadt 2018hier: Gemeinsamer Antrag der Fraktionen von CDU und GRÜNEN v. 04.12.2012 zur Tagesordnung der Sitzung des Rates am 19.12.2012 - ungeändert beschlossen
+- TOP 37: Benennung von 4 stimmberechtigten Abgeordneten für die 37. ordentliche Hauptversammlung des Deutschen Städtetages vom 23. April bis 25. April 2013 in Frankfurt am Main - ungeändert beschlossen
+- TOP 38: Erlass von 5 neuen Stiftungssatzungen1. Stiftung Ausbildungsfonds2. Stiftung Armenfonds3. Stiftung Houben4. Stiftung Graf von Nellessen5. Stiftung Vonachten - ungeändert beschlossen
+- TOP 39: Bericht über die Prüfung des Jahresabschlusses 2008 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
