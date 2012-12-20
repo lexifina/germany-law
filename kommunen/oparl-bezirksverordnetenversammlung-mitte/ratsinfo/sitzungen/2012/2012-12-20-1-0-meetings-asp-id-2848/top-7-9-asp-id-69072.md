@@ -1,0 +1,8 @@
+# TOP 7.9: Das Schwule Museum zieht nach Mitte - Was macht das Kulturamt draus?
+
+- Sitzung: 15. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2012-12-20)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=69072
+- Ergebnis: schriftlich beantwortet
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=69072
