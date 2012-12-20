@@ -1,0 +1,21 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2013 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2013
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 494/2012 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2012-12-20
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRvXpY68VSowkqoYQOAsUss
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3770
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2013 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2013) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUMUoy6kWrfKyH7qQRXlpzniNH8RsU0cCSeiUsN0m1md/Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYI9LhG8-PQaiBwAoNY4H7lqATWiFSMYggRlop6nZsfM/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTai8qZh3nUHe4vfiDNIJI5I_oynJOhkrTJ_QPbnN7A8/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrSmvAOHXhnSd4NyaJHTfixsNKsdVW1YjySEA3fOcGm/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTctqqadndG1zq7eBr6TYMN4prD2HKYPTJf2FO9KhGUl/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfIO30OFr8Kwu3zDggsepwzvukPV4zGrktTj-av12f1T/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeZJJUGOEIU3C59l2hMPf81FtI1tBw-9AdZ23HxXCKSh/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRa4zVp-Rg6bj1XuNy4OiG9aTro6UwZgN9HKUse-XHS/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 494/2012 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYw2NsE05N2n1Prp3Ci_y5nE3XbOk-8-oVXP-C4BgvYK/Anlage_zur_Beschlussvorlage_494-2012_2._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14617 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14580 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
