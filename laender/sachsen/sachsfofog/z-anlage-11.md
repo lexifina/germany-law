@@ -1,0 +1,7 @@
+# Anlage 11 (zu § 2 Abs. 1 Nr. 11)
+Zweck und Mittelverwendung des Sondervermögens „Braunkohlesanierungsfonds Sachsen“
+Der Fonds dient der Finanzierung von Maßnahmen zur Sanierung von stillgelegten Braunkohletagebauen auf der Grundlage des Verwaltungsabkommens über die Regelung der Finanzierung der ökologischen Altlasten (VA Altlastenfinanzierung) vom 1. Dezember 1992 (BAnz. 1993 S. 2842), zuletzt geändert durch Verwaltungsabkommen vom 10. Januar 1995 (BAnz. 1995 S. 7905) und nachfolgender, ergänzender Verwaltungsabkommen über die Finanzierung der Braunkohlesanierung (VA Braunkohlesanierung) im Zeitraum 2013 bis 2017.
+Der Mitteleinsatz ist auf folgende Maßnahmen beschränkt:
+1. Maßnahmen der Sanierung der Altlasten in der Braunkohle im Rahmen der Rechtsverpflichtungen der Lausitzer und Mitteldeutschen Bergbau-Verwaltungsgesellschaft mbH (LMBV) als bergrechtlich verantwortliches Unternehmen, deren Finanzierung sich Bund und Land im Verhältnis 75 Prozent zu 25 Prozent teilen;
+2. weitere Sanierungsmaßnahmen zur Abwehr von Gefährdungen im Zusammenhang mit dem Wiederanstieg des Grundwassers sowie sonstige Maßnahmen im Zusammenhang mit der Braunkohlesanierung, deren Finanzierung sich Bund und Land im Verhältnis 50 Prozent zu 50 Prozent teilen.
+Der Mitteleinsatz dient dabei der Erfüllung der Kofinanzierungsverpflichtungen des Freistaates Sachsen, die sich aus dem jeweils geltenden VA Braunkohlesanierung ergeben.
