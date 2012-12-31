@@ -1,7 +1,7 @@
 # Anlage 2 (zu § 22 Abs. 2 Nr. 7)
 Bedarfszuweisungen zum vorübergehenden Ausgleich von Schlüsselzuweisungsverlusten
 Bedarfszuweisungen
-Laufende Nummer | Landkreis/Zeitraum | Betrag
+Laufende Nummer | Gebiet/Zeitraum | Betrag
 1. | Vogtlandkreis
  | im Jahr 2009 | 1 309 359 EUR,
  | im Jahr 2010 | 1 309 359 EUR,
