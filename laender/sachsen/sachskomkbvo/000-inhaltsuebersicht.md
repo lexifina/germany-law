@@ -47,5 +47,5 @@ Abschnitt 7 Sonderkassen, Begriffsbestimmungen, Übergangs- und Schlussvorschrif
 § 39 Schriftform
 § 40 Begriffsbestimmungen
 § 41 Ersetzung von Begriffen
-§ 42 Anwendungsbereich, Übergangsbestimmungen
+§ 42 Anwendungsbereich, Übergangsvorschriften
 § 43 Inkrafttreten und Außerkrafttreten
