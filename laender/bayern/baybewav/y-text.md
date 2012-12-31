@@ -1,0 +1,1 @@
+Auf Grund von § 67 Abs. 3 Nr. 3 Satz 4, § 80 Abs. 2, § 110 Abs. 1 Nr. 12 Satz 3 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 1. Februar 1991 (BGBl I S. 230) erläßt die Bayerische Staatsregierung folgende Verordnung:
