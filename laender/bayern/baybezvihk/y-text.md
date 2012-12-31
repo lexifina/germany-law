@@ -1,0 +1,1 @@
+Auf Grund des Art. 8 des Gesetzes zur Ergänzung und Ausführung des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern erläßt die Bayerische Staatsregierung folgende Verordnung:
