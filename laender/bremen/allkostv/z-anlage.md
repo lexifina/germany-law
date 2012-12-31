@@ -7,6 +7,8 @@ Allgemeines Kostenverzeichnis:
 100.01 | Bescheinigungen, für die in diesem Gebührenverzeichnis oder in anderen Rechtsvorschriften weder eine besondere Gebühr bestimmt noch Gebührenfreiheit vorgesehen ist | 5,00 Euro bis 100,00 Euro
  | Anmerkungen zu 100.00 und 100.01: | 
  | Der Verwaltungsaufwand als Teil der Bemessungsgrundlagen nach § 4 Absatz 2 des Bremischen Gebühren- und Beitraggesetzes ist unter Berücksichtigung der sächlichen Verwaltungskosten und der Zeitgebühren nach 103 zu ermitteln. Sind im Gebührenverzeichnis vergleichbare Amtshandlungen enthalten, ist die Gebühr unter Berücksichtigung der vergleichbaren Gebühren zu bemessen. | 
+100.02 | Veröffentlichungen im Gesetzblatt und im Amtsblatt der Freien Hansestadt Bremen auf der Grundlage eines in elektronischer Form überlassenen Textes unter Verwendung der von der veröffentlichenden Stelle zur Verfügung gestellten Dokumentenvorlage | je Seite 74,50 Euro
+100.03 | Veröffentlichungen von Karten, Grafiken oder Tabellen | nach tatsächlichem Aufwand
 101 | Verwaltungsverfahren | 
 101.00 | Gewährung von Akteneinsicht bei der aktenführenden Behörde | gebührenfrei
  | Anmerkung zu 101.00: | 
@@ -50,5 +52,6 @@ Allgemeines Kostenverzeichnis:
 103.01 | Weiterberechnung von verauslagten Rechnungen | Nach Zeitaufwand bei Anwendung der Stundensätze nach 103.00
 103.02 | Gemeinkostenzuschlag für Lagermaterial | 20 % des Nettorechnungsbetrages
 104 | Aktenversendung bzw. -aushändigung | 
-104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen ohne Portoauslagen | je Sendung 12,00 Euro
- | Anmerkung zu 104.00: Porto und sonstige Versandkosten sind als Auslagen hinzuzurechnen. Im Bußgeldverfahren gelten die Regelungen des Gesetzes über Ordnungswidrigkeiten. | 
+104.00 | Aktenversendung oder -aushändigung zur Akteneinsicht im Verwaltungsverfahren und aus sonstigen Gründen ohne Portoauslagen Anmerkung zu 104.00: Porto und sonstige Versandkosten sind als Auslagen hinzuzurechnen. Im Bußgeldverfahren gelten die Regelungen des Gesetzes über Ordnungswidrigkeiten. | je Sendung 12,00 Euro
+ | Anmerkung zu 104.00: | 
+ | Porto und sonstige Versandkosten sind als Auslagen hinzuzurechnen. Im Bußgeldverfahren gelten die Regelungen des Gesetzes über Ordnungswidrigkeiten. | 
