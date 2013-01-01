@@ -10,8 +10,8 @@ Teil 1 Örtliche Zuständigkeit und Sitz der Gerichte und Staatsanwaltschaften
 § 8 Änderungen von Gemeinde- und Landkreisgrenzen
 Teil 2 Organisations- und Verfahrensrecht Abschnitt 1 Allgemeine Vorschriften
 § 9 Zahl der Spruchkörper
-§ 10 Berufstracht der Rechtsanwälte
-§ 11 Urkundsbeamte der Geschäftsstelle und Gerichtsvollzieher
+§ 10 Mitgliedschaft im Richterwahlausschuss
+§ 11 Urkundsbeamte der Geschäftsstelle
 § 12 Zuständigkeit zur Betrauung von Bereichsrechtspflegern
 § 13 Gerichtsverwaltung
 § 13a Aufbewahrung von Schriftgut
@@ -22,13 +22,14 @@ Abschnitt 2 Ausführung von die ordentliche Gerichtsbarkeit betreffenden verfahr
 § 17 Zuständigkeiten der Gerichtsvollzieher
 § 18 Legalisation
 § 19 Insolvenzverfahren über das Vermögen juristischer Personen des öffentlichen Rechts
-§ 20 (aufgehoben)
+§ 20 Strafrechtliche Zuständigkeitskonzentration
 § 21 Amtsanwälte
 Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 22 Vertrauensleute
 § 23 Dienstaufsicht
 § 24 Normenkontrollverfahren
 § 25 Zuständigkeit des Sächsischen Oberverwaltungsgerichts im ersten Rechtszug
+§ 25a Verwaltungsgerichtliche Zuständigkeitskonzentration
 § 26 Widerspruchsbehörde bei Verwaltungsakten einer Polizeidienststelle
 § 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs- , Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
 § 27a Vorverfahren bei der Notarkammer Sachsen und der Rechtsanwaltskammer Sachsen
@@ -52,10 +53,10 @@ Abschnitt 7 Ausführung des Gesetzes über das gerichtliche Verfahren in Landwir
 § 41 Ergänzungsliste
 Teil 3 Sicherheits- und ordnungsrechtliche Befugnisse des Justizwachtmeisterdienstes
 § 42 Befugnisse der Justizwachtmeister
-Teil 4 Ausführung der Grundbuchordnung und des Grundstücksverkehrsgesetzes Abschnitt 1 Allgemeine Vorschriften im Grundbuchverkehr
+Teil 4 Ausführung der Grundbuchordnung Abschnitt 1 Allgemeine Vorschriften im Grundbuchverkehr
 § 43 Bedienstete des Grundbuchamtes und ihre Zuständigkeit
 § 44 Berggrundbuch
-§ 45 Fortführung vorhandener Grundbücher
+§ 45 (aufgehoben)
 Abschnitt 2 Erteilung von Unschädlichkeitszeugnissen
 § 46 Unschädlichkeitszeugnis
 § 47 Zuständigkeit
