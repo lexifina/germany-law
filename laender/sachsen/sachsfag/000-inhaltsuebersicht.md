@@ -1,58 +1,60 @@
+## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG)
 # Inhaltsübersicht
-Erster Abschnitt Grundsätze des Finanzausgleichs
+Abschnitt 1 Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
 § 2 Allgemeiner Steuerverbund
 § 3 Verwendung der Finanzausgleichsmasse
-Zweiter Abschnitt Aufteilung der Gesamtschlüsselmasse
+Abschnitt 2 Aufteilung der Gesamtschlüsselmasse
 § 4 Aufteilung der Gesamtschlüsselmasse
-Dritter Abschnitt Allgemeine Schlüsselzuweisungen
+Abschnitt 3 Allgemeine Schlüsselzuweisungen
 § 5 Grundsätze
-Erster Unterabschnitt Schlüsselzuweisungen nach mangelnder Steuerkraft an kreisangehörige Gemeinden
+Unterabschnitt 1 Schlüsselzuweisungen nach mangelnder Steuerkraft an kreisangehörige Gemeinden
 § 6 Allgemeines
 § 7 Bedarfsmesszahl
 § 8 Steuerkraftmesszahl
 § 9 Festsetzung der Schlüsselzuweisungen
-Zweiter Unterabschnitt Schlüsselzuweisungen nach mangelnder Steuerkraft an Kreisfreie Städte
+Unterabschnitt 2 Schlüsselzuweisungen nach mangelnder Steuerkraft an Kreisfreie Städte
 § 10 Schlüsselzuweisungen nach mangelnder Steuerkraft an Kreisfreie Städte
-Dritter Unterabschnitt Schlüsselzuweisungen nach mangelnder Umlagekraft an Landkreise
+Unterabschnitt 3 Schlüsselzuweisungen nach mangelnder Umlagekraft an Landkreise
 § 11 Allgemeines
 § 12 Bedarfsmesszahl
 § 13 Umlagekraftmesszahl
 § 14 Festsetzung der Schlüsselzuweisungen
-Vierter Abschnitt Zweckgebundene investive Schlüsselzuweisungen
+Abschnitt 4 Zweckgebundene investive Schlüsselzuweisungen
 § 15 Zweckgebundene investive Schlüsselzuweisungen
-Fünfter Abschnitt Ausgleich für übertragene Aufgaben
+Abschnitt 5 Ausgleich für übertragene Aufgaben
 § 16 Ausgleich für übertragene Aufgaben
-Sechster Abschnitt Ausgleich von Sonderlasten
+§ 16a Ergänzender Mehrbelastungsausgleich Verwaltungs- und Funktionalreform 2008
+Abschnitt 6 Ausgleich von Sonderlasten
 § 17 Ausgleich von Sonderlasten
-Erster Unterabschnitt Straßenlastenausgleich
+Unterabschnitt 1 Straßenlastenausgleich
 § 18 Zuweisungen für Kreisstraßen
 § 19 Zuweisungen für Ortsdurchfahrten von Bundesstraßen und Staats- oder Kreisstraßen
 § 20 Zuweisungen für Gemeindestraßen
-Zweiter Unterabschnitt Kulturlastenausgleich
+Unterabschnitt 2 Kulturlastenausgleich
 § 21 Kulturlastenausgleich
-Siebenter Abschnitt Bedarfszuweisungen
+Abschnitt 7 Bedarfszuweisungen
 § 22 Zuweisungen zum Ausgleich besonderen Bedarfs
-Achter Abschnitt Kommunales Vorsorgevermögen
+Abschnitt 8 Kommunales Vorsorgevermögen
 § 23 Kommunales Vorsorgevermögen
-Neunter Abschnitt Zweckzuweisungen zur Förderung von kommunalen Investitionen
-§ 24 Zweckzuweisungen zur Förderung kommunaler Investitionen
-Zehnter Abschnitt Interkommunaler Finanzausgleich
+Abschnitt 9 Zweckzuweisungen zur Förderung von kommunalen Investitionen
+§ 24 Investive Zweckzuweisungen
+Abschnitt 10 Interkommunaler Finanzausgleich
 § 25 Grundsätze
 § 25a Finanzausgleichsumlage
 § 26 Kreisumlage
 § 27 Kulturumlage
 § 28 Sozialumlage
-Elfter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
+Abschnitt 11 Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
 § 29 (aufgehoben)
-§ 29a Digitalfunk und e-Government-Basiskomponenten
+§ 29a Digitalfunk und E-Government-Basiskomponenten
 § 29b Sanktionszahlungen
-Zwölfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
+Abschnitt 12 Gemeinsame Vorschriften, Verfahren und Inkrafttreten
 § 30 Einwohnerzahl
 § 31 Berechnung, Festsetzung und Zahlung
 § 32 Durchführungsvorschriften
 § 33 Mitwirkungspflichten
 § 34 Beirat
 § 35 Verjährung
-§ 36 Inkrafttreten
-Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 22 Abs. 2 Nr. 7) Anlage 3 (zu § 22 Abs. 2 Nr. 8)
+§ 36 (Inkrafttreten)
+Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 22 Abs. 2 Nr. 6) Anlage 3 (zu § 22 Abs. 2 Nr. 7) Anlage 4 (zu § 16a)
