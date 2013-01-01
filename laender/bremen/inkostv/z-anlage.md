@@ -25,47 +25,58 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 112 | Namensänderungsrecht | 
 112.00 | Änderung oder Feststellung eines Familiennamens | 144 bis 1 150
 112.01 | Änderung des Vornamens | 40 bis 305
-114 | Glücksspiele und Sammlungen | 
-114.00 | Genehmigung öffentlicher Lotterien oder Ausspielungen, sofern nicht 114.01. Anwendung findet | 1,7 v.T. des zugelassenen Spielkapitals abzüglich der Lotteriesteuer, sofern diese erhoben wird, aufgerundet auf volle 5
-114.01 | Genehmigung öffentlicher Ausspielungen in geschlossenen Räumen (Tombolen) | 35
-114.02 | Änderung und Aufhebung einer Genehmigung nach 114.00 oder 114.01 | 10 bis 208
-114.03 | Genehmigung von Teilnahmebedingungen für öffentliche Lotterien oder Ausspielungen | 21 bis 416
-114.04 | Genehmigung von Änderungen oder Ergänzungen der Teilnahmebedingungen für öffentliche Lotterien oder Ausspielungen | 10 bis 208
-114.05 | Ablehnung eines Antrags auf Erlaubnis einer Lotterie oder Ausspielung | 10 bis 208
-114.06 | Zulassung als Buchmacher | pro Kalenderjahr 267
-114.07 | Erlaubnis zur Beschäftigung eines Buchmachergehilfen | Pro Kalenderjahr 138
-114.08 | Zulassung einer Nebenstelle | 138
-114.09 | Änderung der Zulassung als Buchmacher | 30
-114.10 | Aufhebung einer Zulassung oder Erlaubnis nach 114.06 bis 114.09 | 21 bis 416
-114.11 | Versagung der Zulassung als Buchmacher | 267
-114.12 | Versagung der Erlaubnis zur Beschäftigung eines Buchmachergehilfen | 138
-114.13 | Zulassung eines Totalisators für Pferderennen | Für jeden Renntag 31
-114.14 | Zulassung einer Annahmestelle für Pferdewetten | 79
-114.15 | Zulassung eines Totalisators für Fußballwetten oder von Sportwetten mit festen Gewinnquoten | Pro Kalenderjahr 1319
-114.16 | Zulassung eines Totalisators für Zahlenwetten | Pro Kalenderjahr 1789
-114.17 | Zulassung eines Totalisators für Pferdewetten (Rennquintett) | 1319
-114.18 | Änderung einer Zulassung nach 114.13 bis 114.17 | 208
-114.19 | Genehmigung von Teilnahmebedingungen für Fußballwetten, Zahlen- wetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 416
-114.20 | Genehmigung von Änderungen oder Ergänzung der Teilnahmebedingungen für Fußballwetten, Zahlenwetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 84 bis 167
-114.21 | Aufhebung einer Zulassung nach 114.13 bis 114.17 | 60 bis 416
-114.22 | Zulassung einer Annahmestelle zur Vermittlung von Glücksspielen aufgrund eines privatrechtlichen Vertrages mit dem Veranstalter von Glücksspielen in Bremen | 100 bis 2500
-114.23 | Genehmigung der Klassenlotterie | Pro Kalenderjahr 1319
-114.24 | Zulassung als Lotterieeinnehmer | 267
-114.25 | Versagung der Zulassung als Lotterieeinnehmer | 267
-114.26 | Zulassung als gewerblicher Spielevermittler | Pro Kalenderjahr 1319
-114.27 | Versagung der Zulassung als gewerblicher Spielevermittler | 1319
-114.28 | Ablehnung, Änderung und Aufhebung einer Genehmigung nach 114.22 bis 114.24 und 114.26 | 100 bis 1319
-114.29 | Ablehnung des Antrags der Tätigkeit als Sportwettvermittler | 1 319
-114.30 | Untersagung von unerlaubter Veranstaltung und Durchführung, Vermittlung und Werbung für Glücksspiel | 60 bis 1319
-114.31 | Zulassung einer Spielbank | 12 650
-114.32 | Änderung der Zulassung nach 114.31 und sonstige aufgrund Genehmigungen der Zulassung | 133 bis 2658
-114.33 | Aufhebung einer Zulassung nach 114.31 | 1249
+114 | Glücksspiel | 
+114.0 | Veranstalten öffentlichen Glücksspiels | 
+114.01 | Erteilung der Erlaubnis zum Veranstalten einer öffentlichen Lotterie oder Ausspielung, sofern nicht 114.02 Anwendung findet | 1,9 v.T. des zugelassenen Spielkapitals abzüglich der Lotteriesteuer sofern diese erhoben wird, aufgerundet auf volle 5
+114.02 | Genehmigung öffentlicher Ausspielungen in geschlossenen Räumen (Tombolen) | 39
+114.03 | Zulassung eines Totalisators für Zahlenwetten, Fußballwetten oder von Sportwetten mit festen Gewinnquoten, wie „6 aus 49“ und „Keno“ | pro Kalenderjahr 1 968
+114.04 | Erteilung der Erlaubnis zum Veranstalten von Sportwetten | 2 500
+114.05 | Erteilung der Zusatzerlaubnis zum Veranstalten öffentlicher Glücksspiele im Internet | 120 bis 2 500
+114.06 | Erteilung der Zusatzerlaubnis für Werbung im Internet | 120 bis 450
+114.07 | Genehmigung, Änderung oder Ergänzung von Teilnahmebedingungen für öffentliche Glücksspiele | 23 bis 458
+114.08 | Versagung, Änderung, Aufhebung der Erlaubnis oder Konzession | 120 bis 2 500
+114.1 | Vermitteln öffentlichen Glücksspiels | 
+114.11 | Erteilung der Erlaubnis zum Vermitteln einer öffentlichen Lotterie oder Ausspielung in einer Annahmestelle | 120 bis 2 500
+114.12 | Erteilung der Erlaubnis zum Vermitteln einer öffentlichen Lotterie oder Ausspielung als gewerblicher Spielvermittler | pro Kalenderjahr 1 451
+114.13 | Erteilung der Erlaubnis zum Vermitteln von Sportwetten in einer Wettvermittlungsstelle | pro Kalenderjahr 1 451
+114.14 | Erteilung der Zusatzerlaubnis zum Vermitteln öffentlicher Glücksspiele im Internet | 120 bis 2 500
+114.15 | Erteilung der Zusatzerlaubnis für Werbung im Internet | 120 bis 450
+114.16 | Versagung, Änderung, Aufhebung der Erlaubnis | 120 bis 1 500
+114.2 | Pferdewetten | 
+114.21 | Erteilung der Erlaubnis als Totalisator für Pferderennen | für jeden Renntag 34
+114.22 | Erteilung einer Buchmacherkonzession | pro Kalenderjahr 294
+114.23 | Erteilung einer Erlaubnis zum Betrieb einer Nebenstelle zu einer Buchmacherörtlichkeit | 152
+114.24 | Erteilung der Erlaubnis zur Beschäftigung eines Buchmachergehilfen | pro Kalenderjahr 152
+114.25 | Erteilung der Zusatzerlaubnis zum Veranstalten oder Vermitteln von Pferdewetten im Internet | pro Kalenderjahr 294
+114.26 | Erteilung der Zusatzerlaubnis für Werbung im Internet | pro Kalenderjahr 294
+114.27 | Versagung, Änderung oder Aufhebung der Erlaubnis | 34 bis 458
+114.3 | Spielbank | 
+114.31 | Erteilung der Zulassung für eine öffentliche Spielbank | 13 915
+114.32 | Genehmigung von neuen Geldspielgeräten | 146 bis 2 924
+114.33 | Genehmigung der Überschreitung der zugelassenen Gesamtzahl der Spieltische und Spielautomaten | 146 bis 2 924
+114.34 | Genehmigung, Änderung oder Ergänzung von Spielregeln für öffentliche Glücksspiele in einer Spielbank | 146 bis 2 924
+114.35 | Abschluss eines Konzessionsvertrags mit der öffentlichen Spielbank | 13 915
+114.36 | Versagung, Änderung, Aufhebung der Konzession | 146 bis 2 924
+114.4 | Glücksspielaufsicht | 
+114.41 | Notwendige Nachkontrolle eines Betriebs nach 114.01, 114.04, 114.11, 114.12, 114.13, 114.21, 114.22, 114.23, 114.31 | 120 bis 350
+114.42 | Untersagung von unerlaubter Veranstaltung oder Vermittlung oder der Werbung für öffentliches Glücksspiel | 70 bis 1 450
 115 | Sammlungen | 
 115.00 | Amtshandlungen für öffentliche Sammlungen auf Grund sammlungsrechtlicher Vorschriften | gebührenfrei
 118 | Schornsteinfegerwesen | 
-118.00 | Bestellung zum Bezirksschornsteinfegermeister nach § 5 Absatz 1 des Schornsteinfegergesetzes | 500,00 Euro
-118.01 | Bestellung eines Stellvertreters des zuständigen Bezirksschornsteinfegermeisters nach § 20 Satz 2 oder § 28 Satz 3 des Schornsteinfegergesetzes | 57,50 Euro
-118.02 | Erteilung von Leistungsbescheiden zur Beitreibung von rückständigen Gebühren und Auslagen gem. § 25 Abs. 4 Schornsteinfegergesetz | 40 bis 207
+118.0 | Bestellung von bevollmächtigten Bezirksschornsteinfegern, Leistungsbescheide | 
+118.00 | Bestellung zum bevollmächtigten Bezirksschornsteinfeger nach § 8 Absatz 1 des Schornsteinfeger-Handwerksgesetzes | 545
+118.01 | Bestellung eines Stellvertreters des zuständigen bevollmächtigten Bezirksschornsteinfegers - nach § 11 Absatz 2 des Schornsteinfeger-Handwerksgesetzes | 63
+118.02 | Erteilung von Leistungsbescheiden zur Beitreibung von rückständigen Gebühren und Auslagen gem. § 20 Absatz 3 des Schornsteinfeger-Handwerksgesetzes | 44 bis 225
+118.1 | Bauabnahmen nach § 81 Absatz 2 der Bremischen Landesbauordnung durch bevollmächtigte Bezirksschornsteinfeger | 
+118.10 | Grundwert je Abnahme oder Prüfung | 11,50
+118.11 | Fahrtpauschale für die An- und Abfahrt je notwendigen Arbeitsgang und Nutzungseinheit | 7,75
+118.12 | Bauzustandsbesichtigung, Rohbau- und Endabnahme je Abgasanlage für jeden angefangenen Meter | 1,50
+118.13 | Zusätzlich je angeschlossene Feuerstätte | 5
+118.14 | Zusätzlich je Feuerstätte mit Außenwandanschluss | 5,50
+118.15 | Ausstellung der Bescheinigung über die Brandsicherheit und die sichere Abführung der Verbrennungsgase von Feuerungsanlagen Anmerkung: Das gilt auch, wenn lediglich ein Mängelbericht ausgestellt werden kann. | 12,50
+118.16 | Zuschlag je Arbeitsminute, soweit die Ausstellung der Bescheinigung nach Nummer 118.15 eine rechnerische Überprüfung zur Sicherstellung der notwendigen Verbrennungsluft von Feuerstätten voraussetzt | 1
+118.17 | Zuschlag je Arbeitsminute, soweit die Ausstellung der Bescheinigung nach Nummer 118.15 eine Dichtheitsprüfung der Abgasanlage voraussetzt | 1
+118.18 | Für eine örtliche Mängelüberprüfung außerhalb eines Bauabnahmeverfahrens | 12,50
 12 | Öffentliche Sicherheit und Ordnung | 
 120 | Allgemeines Polizeirecht | 
 120.00 | Bestellung zum Hilfspolizeibeamten gem. § 76 Abs. 1 BremPolG | 69
