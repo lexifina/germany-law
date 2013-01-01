@@ -1,4 +1,4 @@
-# Anlage 2 (zu § 13 Abs. 1)
+# Anlage 2 (zu § 14 Abs. 1)
 Sachgebiete für Leistungserbringer, die Notfallrettung oder Krankentransport betreiben
 1. berufsbezogenes Recht auf den Gebieten:
 a)

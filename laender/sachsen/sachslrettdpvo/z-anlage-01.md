@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 8 Abs. 1)
+# Anlage 1 (zu § 9 Abs. 1)
 Indikationskatalog für den Notarzteinsatz
 1. Patientenzustand
 Bei Verdacht auf fehlende oder deutlich beeinträchtigte Vitalfunktion ist der Notarzt einzusetzen:

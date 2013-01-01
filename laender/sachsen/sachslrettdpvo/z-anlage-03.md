@@ -1,4 +1,4 @@
-# Anlage 3 (zu § 17 Abs. 4)
+# Anlage 3 (zu § 18 Abs. 4)
 Rahmenlastenheft über Integrierte Regionalleitstellen im Freistaat Sachsen (Rahmenlastenheft)
 Inhaltsverzeichnis
 Inhaltsverzeichnis
@@ -451,7 +451,7 @@ Lärmschutzmaßnahmen sind einzurichten und durch entsprechende Messungen vor de
 1. die Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen ( Lärm- und Vibrations-Arbeitsschutzverordnung – LärmVibrationsArbSchV) vom 6. März 2007 (BGBl. I S. 261), die zuletzt durch Artikel 3 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 964) geändert worden ist, in der jeweils geltenden Fassung;
 2. die VDI-Richtlinie 2569 „Schallschutz und akustische Gestaltung im Büro“, Ausgabe: Januar 1990, in den jeweils geltenden Fassungen, zu beziehen über die Beuth Verlag GmbH, Berlin, und beim Deutschen Patentamt archivmäßig gesichert niedergelegt.
 4.3.3.4 Klimatechnik
-Die Klimatisierung des Leitstellenraums ist für eine Temperatur von 19 bis 24 Â°C und eine relative Luftfeuchtigkeit zwischen 40 und 70 Prozent auszulegen. Die Raumbelüftung muss mit einer Luftgeschwindigkeit von 0,1 m/s erfolgen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
+Die Klimatisierung des Leitstellenraums ist für eine Temperatur von 19 bis 24 °C und eine relative Luftfeuchtigkeit zwischen 40 und 70 Prozent auszulegen. Die Raumbelüftung muss mit einer Luftgeschwindigkeit von 0,1 m/s erfolgen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
 1. die Technische Regel für Arbeitsstätten ASR A3.5 „Raumtemperatur“, Ausgabe: Juni 2010 (GMBl Nr. 35 vom 23. Juni 2010, S. 751);
 2. die Technische Regel für Arbeitsstätten ASR 5 „Lüftung“, vom 22. August 1979 (BArbBl. 10/1979 S. 103) berichtigt durch Bekanntmachung des BMA vom 13. September 1984 (BArbBl. 12/1984 S. 85);
 3. die DIN 33403 „Klima am Arbeitsplatz und in der Arbeitsumgebung“ – Teil 3: „Beurteilung des Klimas im Warm- und Hitzebereich auf der Grundlage ausgewählter Klimasummenmaße“, Ausgabe: April 2001;
