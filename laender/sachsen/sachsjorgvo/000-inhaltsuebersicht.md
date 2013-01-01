@@ -3,7 +3,7 @@ Teil 1 Gerichtsverfassung und Bereitschaftsdienst
 § 1 Kammern für Handelssachen
 § 2 Auswärtige Strafvollstreckungskammern
 § 3 Zweigstellen der Amtsgerichte
-§ 4 Auswärtige Zivilkammern und auswärtige Kammern für Handelssachen des Landgerichts Zwickau in Plauen
+§ 4 Zuständigkeit der Zweigstellen
 § 5 Bereitschaftsdienst
 Teil 2 Sonderzuständigkeiten
 Abschnitt 1 Zivilrecht
@@ -37,12 +37,13 @@ Abschnitt 2 Straf- und Bußgeldsachen
 Abschnitt 3 Fachgerichtsbarkeiten
 § 26 Fachkammern bei den Sozialgerichten
 Teil 3 Verwaltungsaufgaben
-§ 27 Befugnisse nach dem Familienrechtsänderungsgesetz
+§ 27 Anerkennung ausländischer Entscheidungen in Ehesachen
 § 28 Befugnisse nach dem Gesetz über internationale Patentübereinkommen
 § 29 Übertragbarkeit des Nießbrauchs bei juristischer Person oder rechtsfähiger Personengesellschaft
-§ 29a Zuständigkeiten nach dem Rechtsdienstleistungsgesetz
+§ 29a Zuständigkeiten nach dem Rechtsdienstleistungs- und dem Geldwäschegesetz
 § 29b Zuständigkeiten nach der Justizbeitreibungsordnung
 § 29c Disziplinargericht für Notare
+§ 29d Zuständigkeiten auf dem Gebiet der Rechtshilfe in Zivilsachen
 Teil 4 Verzeichnis über Gebühren in Justizverwaltungsangelegenheiten
 § 30 Gebührenverzeichnis
 Teil 5 Übergangs- und Schlussvorschriften
