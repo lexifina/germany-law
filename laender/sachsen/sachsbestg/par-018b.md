@@ -4,4 +4,4 @@
 (3) Die zweite Leichenschau entfällt, wenn bereits die ärztliche Leichenschau von einem Facharzt für Rechtsmedizin vorgenommen wurde.
 (4) Ergeben sich bei der zweiten Leichenschau Anhaltspunkte für einen nichtnatürlichen Tod oder handelt es sich um die Leiche eines Unbekannten, ist anstelle der Unbedenklichkeitserklärung des Gesundheitsamtes das schriftliche Einverständnis der Staatsanwaltschaft oder des Ermittlungsrichters beim Amtsgericht des Sterbeortes erforderlich.
 (5) Wird die Leiche zur Einäscherung in ein anderes Land der Bundesrepublik Deutschland überführt, hat das Gesundheitsamt des Sterbeortes eine zweite Leichenschau zu veranlassen, es sei denn, in dem jeweiligen Bundesland ist ebenfalls eine zweite Leichenschau vorgeschrieben. Bei Überführung einer Leiche zur Einäscherung in das Ausland ist immer eine zweite Leichenschau durchzuführen. Absatz 3 bleibt unberührt.
-(6) Die Urne zur Beisetzung der Asche eines Verstorbenen muss innerhalb der Ruhefrist umweltgerecht abbaubar sein. 19
+(6) Die Urne zur Beisetzung der Asche eines Verstorbenen muss innerhalb der Ruhefrist umweltgerecht abbaubar sein. 21

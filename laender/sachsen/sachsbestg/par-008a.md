@@ -5,4 +5,4 @@
 2. die Übernahme eines Grundstücks nach § 4 des Gräbergesetzes,
 3. die Zustimmung zu Verlegungen nach § 6 des Gräbergesetzes und
 4. die Anordnung einer Ausbettung und Identifizierung nach § 8 des Gräbergesetzes.
-(3) Die vom Bund nach § 10 Gräbergesetz ausgereichten Mittel werden durch die Landesdirektion Sachsen an die Gemeinden weitergeleitet. 8
+(3) Die vom Bund nach § 10 Gräbergesetz ausgereichten Mittel werden durch die Landesdirektion Sachsen an die Gemeinden weitergeleitet. 10

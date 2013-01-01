@@ -6,6 +6,7 @@ Erster Abschnitt Friedhofswesen
 § 4 Friedhöfe nichtgemeindlicher Träger
 § 5 Standort- und Abstandsregeln
 § 6 Ruhezeit
+§ 6a Ruherecht für Angehörige der Bundeswehr
 § 7 Benutzungsordnung der Gemeindefriedhöfe
 § 8 Schließung und Aufhebung von Bestattungsplätzen
 § 8a Gräber der Opfer von Krieg und Gewaltherrschaft
