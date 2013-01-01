@@ -13,7 +13,7 @@ Unterabschnitt 1 Verwaltungsrat
 § 8 Aufgaben
 § 9 Zusammensetzung, Beschlussfassung, Einberufung
 § 10 Vorsitzender
-§ 11 Weitere Mitglieder, Beschäftigte
+§ 11 Weitere Mitglieder, Vertreter der Finanzgruppe, Beschäftigte
 § 12 Hinderungsgründe
 § 13 Tätigkeitsdauer
 § 14 Rechtsstellung
