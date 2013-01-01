@@ -47,7 +47,9 @@ Siebter Teil Sonderkasse
 § 33 Verwaltungsausschuss der Zusatzversorgungskasse
 Achter Teil Sondervermögen nach § 14a Bundesbesoldungsgesetz
 § 34 Allgemeines
-§ 35 Anlage der Mittel
+§ 35 (aufgehoben)
 § 36 Verwaltungsausschuss für die Angelegenheiten des Sondervermögens nach § 14a des Bundesbesoldungsgesetzes
 § 37 Satzung
-Neunter Teil Schlussvorschriften § 38 In-Kraft-Treten und Schlussvorschriften
+Neunter Teil Übergangs- und Schlussvorschriften
+§ 37a Übergangsbestimmungen
+§ 38 In-Kraft-Treten und Schlussvorschriften
