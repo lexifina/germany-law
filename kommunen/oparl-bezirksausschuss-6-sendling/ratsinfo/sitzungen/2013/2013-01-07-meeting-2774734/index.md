@@ -1,0 +1,74 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-01-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2774734
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2774734
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Genehmigung einer dritten Vollzeitstelle für den KJT 2Club in der Thalkirchner Str. 209
+- TOP 3.2.: Wahl der Seniorenvertretung 2013
+- TOP 3.3.: Sommer SpielAktion 2013
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Bauvorhaben Königsdorfer Str. / Thalkirchner Str.; kommunal geförderter Mietwohnungsbau und Kita
+- TOP 4.2.: Infrastrukturprogramm Sport in München
+- TOP 5.1.: Oberländerstraße 32; Erweiterung einer bestehenden Freischankfläche
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 6.2.: Errichtung einer Lichtzeichenanlage an der Kreuzung Implerstraße / Schmied-Kochel-Straße / Ausfahrten Edeka-Markt und Tankstelle - <div>Zur Kenntnis genommen, aber Rückfrage an KVR</div>
+- TOP 6.3.: Widmung der Harrasplatzfläche; Parkregelung
+- TOP 6.4.: Mobilitätsmanagement in Sendling - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Durchfahrtsverbotsschild für Kfz und Lkw-Verkehr am Fuß- und Radwegübergang über die Albert-Roßhaupter-Str. in die Karwendelstr.
+- TOP 6.6.: Behindertenparkplätze
+- TOP 6.7.: Baustelleneinrichtungsflächen im Zusammenhang mit der Platzgestaltung Am Harras
+- TOP 7.1.: Bericht von der Begleitveranstaltung zur Benennung des Resi-Huber-Platzes
+- TOP 7.2.: Bericht vom Sendlinger Weihnachtsmarkt
+- TOP 7.3.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten
+- TOP 7.4.: Treffen der zweiten Bürgermeisterin mit den Bezirksausschussvorsitzenden am 20.06.12
+- TOP 7.5.: Kinder entscheiden in ihrem Stadtteil
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Oberländerstr. 4
+- TOP 8.3.: Bauvorhaben Oberländerstr. 20a
+- TOP 8.4.: Bauvorhaben Oberländerstr. 24 - 24a
+- TOP 8.5.: Bauvorhaben Fallstr. 42
+- TOP 8.6.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 8.7.: IHKM-Klimaschutzprogramm 2010 - 2012
+- TOP 8.8.: Vielfältige Möglichkeiten der Bürgerbeteiligung darstellen
+- TOP 8.9.: Demografiebericht München
+- TOP 9: Baureferat
+- TOP 9.1.: Projektplanung Implerstraße 35 - Verlegung Radweg
+- TOP 9.2.: Fernwärmeschachtabdeckung Plinganserstr. 33
+- TOP 9.3.: Erneuerung des Basketballkorbes am Valleyplatz
+- TOP 9.4.: Fahrradabstellplatzkonzept
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Plinganserstr. 114 / Flößergasse 7 / Heißstr. 1
+- TOP 10.2.: Verschiedene Baumfällungen auf öffentlichem Grund
+- TOP 10.3.: Novellierung der Baumschutzverordnung
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Fahrradabstellmöglichkeiten Am Harras und Ecke Karwendel- / Meindlstraße Empfehlung Nr. 08-14 / E 01527 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 16.10.2012 - <div>Zustimmung, einstimmig</div>
+- TOP 2: (E) Verbreiterung des Gehsteigs in Höhe des Anwesens Ganghoferstr. 74 Empfehlung Nr. 08-14 / E 01515 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 16.10.2012 - <div>Zustimmung, einstimmig</div>
+- TOP 2.3.: Unterbindung der Taubenfütterung an der Ecke Impler- / Lindenschmitstr.
+- TOP 4: (E) Verbesserung der Ampelschaltungen am Harras und an der Karwendel-/ Meindlstraße (Ziffer 2) - <div>Zustimmung, mehrheitlich</div>
+- TOP 5: (E) Maßnahmen zur Verringerung der Fahrtgeschwindigkeit in der Lindenschmitstraße - <div>Zustimmung, mehrheitlich</div>
+- TOP 6: (E) Unterbindung der Taubenfütterung an der Ecke Impler- / Lindenschmitstraße Empfehlung Nr. 08-14 / E 01525 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 16.10.2012 - <div>Zustimmung, einstimmig</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer
+- TOP 13.2.: Werbenutzungsvertrag; Bereisung Sendling
+- TOP 13.3.: Isarwerk III
+- TOP 13.4.: Zukunftssicherung Markthallen München
+- TOP 13.5.: Informationsgespräch des Kommunalreferates mit den Bezirksausschüssen am 07.03.2013
+- TOP 13.6.: Erinnerungsorte München
+- TOP 13.7.: Redakteure für die neue Sendling-Broschüre
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
