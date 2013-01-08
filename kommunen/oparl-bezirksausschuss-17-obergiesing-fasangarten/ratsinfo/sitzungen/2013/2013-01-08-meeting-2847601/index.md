@@ -1,0 +1,107 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2847601
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2847601
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Protokoll der Sitzung des Bezirksausschusses 17 vom 11.12.2012
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Fahrbahnmarkierung Tegernseer Landstr. vor TeLa-Post, Bürgeranliegen von Herrn K. vom 16.12.2012
+- TOP 2.2.: Verkehrsführung Tegernseer Landstraße; Bürgeranliegen von Herrn F. vom 13.12.12
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Alten- und Service-Zentrum Obergiesing, Eröffnungsfeier des neuen ASZ Obergiesing nach Umzug, Antragssumme: 2.135,00 Euro, Antrag vom 11.12.2012; Beschlussvorlage vom 02.01.2013
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Alten- und Service-Zentrum Obergiesing, Eröffnungsfeier des neuen ASZ Obergiesing nach Umzug, Antragssumme: 2.135,00 Euro, Antrag vom 11.12.2012
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 1. Tegernseer Landstraße 153, Umbau und Nutzungsänderung einer Gewerbefläche zu zwei abgeschlossenen Wohneinheiten mit Fassadenänderung im EG, Anhörung vom 13.12.2012; 2. Heimgartenstraße 21, Neubau einer Wohnanlage (26 WE) mit Tiefgarage, Anhörung vom 13.12.2012; 3. Spixstraße 22, DG-Ausbau und Änderung der Wohnungsaufteilung, Anhörung vom 13.12.2012; 4. Tegernseer Landstr. 27, Neubau eines Wohn- und Geschäftshauses mit TG, Anhörung vom 13.12.2012; 5. Lincolnstr. 64, Nutzungsänderung: Kinderkrippe zu soz.päd. betreuten Wohngruppen für unbegleitete minderjährige Flüchtling, befristet auf max. 5 Jahre, Anhörung vom 13.12.2012; 6. Giesinger Bahnhofplatz 2, ABBRUCH Infocenter Villeroy & Boch, Unterrichtung vom 13.12.2012; 7. Raintaler Str. 43, Aufstockung eines Wohngebäudes (Raintaler Str. 43 / Wirtstr. 32+34) und Anbau eines Fassadenaufzugs (Wirtstr. 34), Anhörung vom 13.12.2012; 8. Perlacher Str. , Errichtung eines Verbindungsbaus zweier Tiefgaragen, Anhörung vom 13.12.2012; 9. Weißenseestraße, Neubau einer Wohnanlage (Haus 8 + 9) mit Kindertageseinrichtung und Tiefgarage - WA 3.3, Anhörung vom 13.12.2012; 10. Weißenseestraße, Neubau einer Wohnanlage mit Tiefgarage - hier: Haus 5 / EG - 4. OG, Anhörung vom 13.12.2012
+- TOP 0.2.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2), Tegernseer Landstraße 123, Neubau eines Wohn- und Geschäftshauses (TELA 123) mit Autolift und zwei Untergeschosses, Unterrichtung vom 13.12.2012
+- TOP 0.3.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2): Untersbergstr. 68-72, Neubau einer Wohnanlage (83 WE) mit Großgarage (60 Stellpl.) im Rahmen der EOF ("Einkommensorientierte Förderung"), Anhörung vom 17.12.2012
+- TOP 0.4.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung; BA-Antrag Nr. 08-14 / B 03805 des BA 5 - Au-Haidhausen - vom 21.03.12; Schreiben des Direktoriums vom 18.12.12 mit der Bitte um Stellungnahme
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten, Sitzungsvorlagen Nr. 08-14 / V 09670; Anlagen: 4. Änderungsantrag der Stadtratsfraktion der SPD und Die Grünen - rosa liste vom 28.11.2012, Beschluss der Vollversammlung des Stadtrates vom 12.12.2012
+- TOP 0.3.: Geplantes City-Service-Center des Baureferates an der Aschauer Straße; Bebauungsplan mit Grünordnung Nr. 2070, Aschauer Straße (östlich), Chiemgaustraße (südlich); Antwortschreiben der Herrn Oberbürgermeister vom 10.12.2012
+- TOP 0.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.5.: BV Aschauerstr. 12; Information des BA 16 über eine Anfrage der CSU-Fraktion zu den Nutzungsmöglichkeiten
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Raumsituation am Asamgymnsium
+- TOP 0.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2013; Schreiben des "Spielen in der Stadt e.V." vom 04.12.2012 mit der Bitte um Stellungnahme
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: ABBA - Arbeit für Behinderte, Benachteiligte und Arbeitslose, E-Mail von Frau B. vom 10.12.2012 mit der Bitte um Unterstützung
+- TOP 0.3.: Kinder entscheiden in ihrem Stadtteil, Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN - rosa liste vom 09.09.2011, Sitzungsvorlage Nr. 08-14 / V 10288, Beschluss der Vollversammlung des Stadtrates vom 28.11.2012, redaktionelle Änderung der Ziffer 13.2.2
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Parklizenz, Parksituation vor Ort, Deisenhofener Str., Obergiesing, Bürgerschreiben von Frau K. Vom 06.12.2012
+- TOP 0.1.: Beschleunigung der Buslinien 144 und 145, Beschlussentwurf für einen gemeinsamen Ausschuss von RAW, BAU und KVR am 22.01.2013, Schreiben des RAW vom 20.11.2012 mit der Bitte um Stellungnahme
+- TOP 0.2.: Austausch einer Lichtsignalanlage, Deisenhofener- / Herzogstandstraße, Schreiben des KVR vom 28.11.2012 mit der Bitte um Stellungnahme
+- TOP 0.3.: Lichtzeichen-Bauprogramm 2013, Kombinierte Vormerk- und Neuantragsliste für das Bauprogramm 2013, Schreiben des KVR vom 14.12.2012 mit der Bitte um Stellungnahme
+- TOP 0.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept a) Fortsetzung des Parkraummangagements außerhalb des mittleren Rings b) Dauerhaft Aufgaben zum Betrieb und zur dauerhaften Qualitätssicherung des Parkraummanagements c) Eng mit der Einführung des Parkraummanagements einhergehende und beim Umsetzung des Parkraummanagements aufgetretene Fragestellungen d) Einbeziehung der Gebiete nördlich und westlich des Klinikums Schwabing in das Parkraummanagement, BA-Antrag-Nr. 08-14 / B 02945 des Bezirksausschusses des Stadtbezirks 4 - Schwabing West vom 13.04.2011, Sitzungsvorlage Nr. 08-14 / V 07773, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.2012
+- TOP 0.2.: Fahrradstellplatzkonzept (2. Realisierungsabschnitt) a) Ergebnisse der Detailuntersuchungen b) Kostendarstellung c) Anträge - Platz für Fußgänger, Radlständer, Antrag Nr. 08-14 / A 00149 von Herrn Stadtrat Alexander Reissl vom 15.07.2008 - Fahrradständer vor Tengelmann, Dachauer Str. 423, Anfrage des Bezirksausschusses des Stadtbezirks 10 Moosach vom 22.11.2010, Sitzungsvorlage Nr. 08-14 / V 08245, Beschluss des Bauausschusses vom 11.12.2012
+- TOP 0.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Perlacher Straße 33
+- TOP 0.4.: Entschärfung der Gefahrenquellen an der Kreuzung St.-Martin-Straße und Eintrachtstraße; Bürgerschreiben vom 10.07.2012; Antwortschreiben des KVR vom 14.12.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.1.1 Schwandorfer Str. 1, Bescheid vom 30.11.12; 5.4.4.1.2 Untersbergstr. 52 - 64, Bescheid vom 14.12.2012
+- TOP 0.2.: Novellierung der Baumschutzverordnung (BaumschutzV), - Ergebnisse des Anhörungs- und Öffentlichkeitsverfahrens, - StR-Antrag Nr. 08-14 / A 01974 der Stadtratsfraktion der FDP vom 15.11.2010 - BA-Antrag Nr. 08-14 / B 04106 des Bezirksausschusses des Stadtbezirks 03 - Maxvorstadt vom 10.07.2012 - BA-Antrag Nr. 08-14 / B 04165 des Bezirksausschusses des Stadtbezirks 25 - Laim vom 31.07.2012, Sitzungsvorlagen Nr. 08-14 / V 10503 Anlage: 6. Änderungsantrag der CSU vom 28.11.2012, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.2012 Anlage: 7. Änderungsantrag der Stadtratsfraktion Die Grünen/RL vom 12.12.2012, Beschluss der Vollversammlung des Stadtrates vom 19.12.2012
+- TOP 0.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 10.12.2012
+- TOP 0.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImschV); JAusnahmezulassung gem. § 7 Abs. 2 der 32 BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München; Zuleitungen des Referats für Gesundheit und Umwelt vom 12.12.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Anzeige für öffentliche Veranstaltungen; Ort: Walchenseeplatz Flohmarkt am 05.05.2013 und 15.08.2013, Spielmobil, Sommertreff April bis September 2013 E-Mail des KVR vom 30.11.2012 mit der Bitte um Kenntnisnahme oder ggf. Stellungnahme
+- TOP 0.1.: Erinnerungsorte München, BA-Antrag Nr. 08-14 / B 03000 des Bezirksausschusses des Stadtbezirks 08 - Schwanthalerhöhe, Information über die Datenbank zu den Erinnerungsorten
+- TOP 0.2.: Kurzbericht für den BA 17 zum Sommerfest des Nachbarschaftstreffs am Walchenseeplatz
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Hohenschwangaustr. 24, 1 Fichte, Antrag vom 09.12.2012; 2. Chiemgaustr. 20c, 1 Birke, Antrag vom 15.11.201; 3. Fischbachauerstr. 14, 1 Birke, Antrag vom 13.11.2012; 4. Kesselbergstr. 7, 1 Robinie, Antrag vom 14.12.2012
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.7.2.1.: 1. Heimgartenstr. 21 2. Fockensteinstr. 20
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.1.: Erneuerung von BA-Schaukästen
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: neue BA-Schaukästen; aktuelle Preise Austausch oder Neuaufstellung
+- TOP 7.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 7.2.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2013, Haushaltsplan 2013 - Ansätze der zentralen Bereiche - Schlussabgleich, Sitzungsvorlage Nr. 08-14 / V 10751, Beschluss der Vollversammlung des Stadtrates vom 19.12.2012, (Hinweis: Die umfangreichen Unterlagen liegen zur Einsichtnahme in der Geschäftsstelle aus)
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
