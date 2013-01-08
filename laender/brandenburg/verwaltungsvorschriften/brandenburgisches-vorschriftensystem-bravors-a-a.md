@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2012-11-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/cederbach_2013
+- Datum: 2013-01-08 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/gluecksspiel2013
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,218 +26,257 @@ A |
 |
 
 Aktuelle Fassung
-Anlagen (2)
 
-Erlass des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz und des Ministeriums für Infrastruktur und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Cederbach"
+Werberichtlinie gemäß § 5 Absatz 4 Satz 1 des Glücksspielstaatsvertrages
 
-vom 30. November 2012
+vom 8. Januar 2013
 
-(ABl./13, [Nr. 02], S.32)
+(ABl./13, [Nr. 06], S.298)
 
-Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
+Auf Grund des § 5 Absatz 4 Satz 5 des Glücksspielstaatsvertrages in Verbindung mit § 1 des Gesetzes zu dem Ersten Glücksspieländerungsstaatsvertrag vom 28. Juni 2012 (GVBl. I Nr. 29) gibt das Ministerium des Innern folgende Werberichtlinie bekannt:
 
-1 Bewirtschaftungsgegenstand
+Werberichtlinie gemäß § 5 Absatz 4 Satz 1 GlüStV
 
-Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses im Landkreis Prignitz umfasst das Gebiet von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Cederbach“, Gebietsnummer DE 2938-301.
+Vom 7. Dezember 2012
 
-Der Geltungsbereich des Erlasses hat eine Größe von rund 187 Hektar und umfasst Flächen in folgenden Fluren:
+Erster Teil
 
-| Gemeinde | Gemarkung | Flur
+Allgemeine Vorschriften
 
-| Bad Wilsnack
+§ 1
 
-| Grube
+Anwendungsbereich
 
-| 6, 7, 8 und 9;
+(1) Die Länder konkretisieren mit der Werberichtlinie Art und Umfang der gemäß § 5 Absätze 1 bis 3 Glücksspielstaatsvertrag (GlüStV) erlaubten Werbung. Die Werberichtlinie gilt für Werbung für alle Arten von öffentlichen Glücksspielen, die dem Glücksspielstaatsvertrag unterfallen.
 
+(2) Bei der Beurteilung von Werbung bei der Erlaubniserteilung insbesondere nach § 5 Absatz 3 Satz 2 in Verbindung mit § 9a Absatz 2 Nummer 1 GlüStV und im Rahmen der allgemeinen Aufsicht ist diese Werberichtlinie zu beachten.
 
-| Bad Wilsnack
+(3) Sponsoring im Sinne des § 8 Rundfunkstaatsvertrag ist von den Erlaubnispflichten für Werbung im Sinne des § 5 Absatz 3 GlüStV nicht erfasst. Ebenso wenig werden redaktionelle Medieninhalte außerhalb von Dauerwerbesendungen von dieser Richtlinie erfasst.
 
-| Haaren
+(4) Die Werberichtlinie trifft allein Regelungen in glücksspielaufsichtsrechtlicher Hinsicht. Datenschutzrechtliche Vorgaben und andere Vorschriften, insbesondere das Gesetz gegen den unlauteren Wettbewerb (UWG), das Jugendschutzgesetz (JuSchG), der Rundfunkstaatsvertrag (RStV), der Jugendmedienschutzstaatsvertrag (JMStV) und die Werberichtlinien des öffentlich-rechtlichen Rundfunks und der Landesmedienanstalten, bleiben unberührt.
 
-| 1 und 2;
+(5) Die Werberichtlinie lässt die Verhaltensregeln des Deutschen Werberats über die kommerzielle Kommunikation für Glücksspiele und dessen Entscheidungen unberührt. Danach bleibt insbesondere die Möglichkeit, den Werberat neben den von dieser Richtlinie beschriebenen Verfahren anzurufen, unberührt.
 
+§ 2
 
-| Groß Pankow
+Begriffsbestimmungen
 
-| Groß Woltersdorf
+(1) Werbung im Sinne dieser Richtlinie ist jede Äußerung bei der Ausübung eines Handelsgewerbes, Handwerks oder freien Berufs mit dem Ziel, den Absatz von Waren oder die Erbringung von Dienstleistungen zu fördern.
 
-| 4 und 5;
+(2) Im Sinne dieser Richtlinie sind
 
+Werbende Veranstalter oder Vermittler
 
-| Groß Pankow
+Veranstalter oder Vermittler öffentlicher Glücksspiele, die Werbung in Auftrag geben.
 
-| Kehrberg
+Dachmarkenwerbung
 
-| 4 und 5;
+die Werbung für den Namen oder die Firma eines Unternehmens oder einer Unternehmensgruppe oder für eine übergeordnete Marke. Auf eine Eintragung des Namens oder der Firma als Marke kommt es nicht an.
 
+Imagewerbung für das Unternehmen
 
-| Groß Pankow
+Werbung mit Nennung des Unternehmensnamens oder eines prägenden Teils des Namens, die selbst keine eigentlichen Leistungen (Glücksspielprodukte) bewirbt, sondern eine positive Haltung anregen und allgemein ein positives Bild des beworbenen Unternehmens vermitteln will.
 
-| Klein Woltersdorf
+Dauerwerbesendungen
 
-| 6;
+Sendungen wie z. B. Spielshows und Lospräsentationen von mindestens 90 Sekunden Dauer, in denen Werbung redaktionell gestaltet ist, der Werbecharakter erkennbar im Vordergrund steht und die Werbung einen wesentlichen Bestandteil darstellt.
 
+Eigenwerbekanäle
 
-| Groß Pankow
+eigenständig lizensierte Rundfunkangebote, deren Inhalte der Eigendarstellung eines Unternehmens in der Öffentlichkeit dienen. Sie dienen nicht der unmittelbaren Förderung des Absatzes von Glücksspielprodukten.
 
-| Lindenberg
+Teleshopping
 
-| 1 und 4;
+die Sendung direkter Angebote an die Öffentlichkeit zum Zwecke des Absatzes von Glücksspielen gegen Entgelt in Form von Teleshoppingkanälen, -fenstern und -spots.
 
+Casinospiele
 
-| Groß Pankow
+insbesondere Roulette, Baccara, Black Jack, Trente et quarante und Poker jeweils in allen Varianten sowie weitere international oder in Spielbanken eingeführte Glücksspiele sowie Automatenspiele.
 
-| Tüchen 
+Zweiter Teil
 
-| 1 und 2;
+Allgemeine Anforderungen an Werbung für öffentliches Glücksspiel
 
+§ 3
 
-| Plattenburg
+Zulässige Werbung
 
-| Hoppenrade
+(1) Werbung für öffentliches Glücksspiel muss mit § 5 GlüStV vereinbar sein. Dabei ist zu berücksichtigen
 
-| 1, 2, 3, 4, 6 und 7;
+welche Werbeinhalte vermittelt werden,
 
+ob gegen Werbeverbote verstoßen wird,
 
-| Plattenburg
+welche Werbemedien eingesetzt werden,
 
-| Kletzke 
+ob die erforderlichen Pflichthinweise enthalten sind und
 
-| 1 und 7;
+wie hoch das Gefährdungspotential des beworbenen Glücksspielprodukts ist.
 
+(2) Art und Umfang der Werbung für öffentliches Glücksspiel sind unter Berücksichtigung der spezifischen Gefährdungspotentiale der einzelnen Glücksspielprodukte an den gleichrangigen Zielen des § 1 GlüStV auszurichten.
 
-| Plattenburg
+(3) Es darf nur für zugelassene Glücksspielanbieter und -produkte geworben werden. Die Werbung kann Informationen über das Unternehmen, Spielangebote und Spielregeln sowie Suchtprävention und Jugendschutz zum Inhalt haben. Daneben sind Informationen über Veränderungen des beworbenen Glücksspiels oder seines Vertriebswegs zulässig. Imagewerbung für das Unternehmen und Dachmarkenwerbung sind zulässig, sofern nicht unter derselben Dachmarke auch illegale Glücksspiele angeboten werden. Informationen des Unternehmens über die Förderung gemeinnütziger Zwecke sind erlaubt.
 
-| Viesecke
+(4) Darüber hinausgehende Werbung zur Attraktivitätssteigerung des Spielangebots ist nach Maßgabe der Vorschriften des Dritten Teils dieser Richtlinie zulässig.
 
-| 1, 2, 3 und 4.
+§ 4
 
+Unerlaubte Werbung
 
-Über die Grenze des FFH-Gebietes hinaus sind unmittelbar angrenzende Flächen in den Geltungsbereich des Bewirtschaftungserlasses einbezogen worden (Pufferflächen), deren Nutzung einen erheblichen ökologischen Einfluss auf das FFH-Gebiet hat. Die Grenze des Geltungsbereiches dieses Erlasses ist in der Kartenskizze (Anlage 1), in der Biotoptypenkarte im Maßstab 1 : 5.000 (Blatt 1 bis 9), der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 5.000 (Blatt 1 bis 9) und der Zielkarte im Maßstab 1 : 5.000 (Blatt 1 bis 9) sowie in Liegenschaftskarten (Blatt 1 bis 22) eingezeichnet. Die Darstellung der Grenze des FFH-Gebietes sowie weiterer wertbestimmender Flächen in den Karten erfolgt mit durchgehender Linie. Die Pufferflächen sind mit gestrichelter Linie dargestellt. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstücksliste beim Landesamt für Umwelt, Gesundheit und Verbraucherschutz in Potsdam, beim Landkreis Prignitz als untere Naturschutzbehörde, beim Landesbetrieb Forst in der Oberförsterei Bad Wilsnack und in der Amtsverwaltung Amt Bad Wilsnack/Weisen und den Gemeindeverwaltungen Gemeinde Groß Pankow und Plattenburg von jedermann während der Dienstzeiten einsehbar.
+(1) Werbung für öffentliches Glücksspiel, die
 
-2 Beschreibung des Gebietes
+sich an Minderjährige oder vergleichbar gefährdete Zielgruppen richtet, insbesondere Darstellungen und Aussagen enthält, die Minderjährige besonders ansprechen oder Min-derjährige oder vergleichbar gefährdete Zielgruppen darstellt, die an öffentlichen Glücksspielen teilnehmen,
 
-Das Gebiet liegt im Landkreis Prignitz und umfasst den Lauf des Cederbaches von der Quelle südwestlich von Klein Woltersdorf bis zur Mündung in die Karthane nordöstlich von Bad Wilsnack einschließlich der angrenzenden naturnahen Uferbereiche. Es ist Bestandteil der naturräumlichen Einheit Mecklenburgisch-Brandenburgisches Platten- und Hügelland. Der Cederbach ist ein sommerkalter sandgeprägter Tieflandbach mit guter chemischer Gewässergüte und unbefriedigendem ökologischen Zustand, da er in den Jahren 1962 bis 1971 größtenteils begradigt wurde. In den Jahren 2002 bis 2004 wurden umfangreiche wasserbauliche Maßnahmen durchgeführt, um die biologische Durchgängigkeit des Cederbaches im Bereich zwischen der B 5 und der Mündung in die Karthane wieder herzustellen. Die vorhandene Population der Bachmuschel (Unio crassus) ist eines der bedeutendsten Vorkommen Brandenburgs. Der Cederbach liegt größtenteils innerhalb von entwässerten, teilweise intensiv bewirtschafteten landwirtschaftlichen Flächen. Von den 26 km Bachlauf fließen rund 7 km durch Wälder und Forste oder entlang von Waldrändern. Ein Teil der bachbegleitenden Waldbestände sind naturnahe Erlenwälder, die häufig deutliche Anzeichen der Entwässerung aufweisen. Mit den bachbegleitenden naturnahen Wäldern im Schlosspark Hoppenrade und im Gutspark Viesecke befinden sich zwei kulturhistorische Besonderheiten im Gebiet.
+irreführend ist, insbesondere unzutreffende Aussagen über die Gewinnchancen oder Art und Höhe der Gewinne oder über die angebotenen Glücksspiele enthält,
 
-3 Erhaltungsziele
+in ausschließlicher und einseitiger Weise den Nutzen des Glücksspiels betont,
 
-Die folgenden Erhaltungsziele sind aus dem Standarddatenbogen zum FFH-Gebiet Cederbach abgeleitet:
+gleichzeitig für unerlaubtes Glücksspiel wirbt,
 
-Ziel ist die Erhaltung des Cederbaches als Fluss der planaren Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion (Fließgewässergesellschaften), der Auenwälder mit Alnus glutinosa (Schwarzerle), der Population des Fischotters (Lutra lutra), der Population des Bitterlings (Rhodeus sericeus amarus) und der Population der Bachmuschel (Unio crassus) sowie die Entwicklung und Wiederherstellung des Teiches 2 der Woltersdorfer Teiche als Natürlichen eutrophen See mit einer Vegetation des Magnopotamions und des Hydrocharitions, der Population des Bibers (Castor fiber), der Population der Schmalen Windelschnecke (Vertigo angustior) und der Population der Bauchigen Windelschnecke (Vertigo moulinsiana).
+suggeriert, dass Glücksspiel eine vernünftige Strategie sein könnte, um die finanzielle Situation zu verbessern,
 
-4 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
+vermittelt, dass Glücksspiel Problemen wie insbesondere finanziellen Schwierigkeiten, sozialen Problemen und psychosozialen Konflikten entgegenwirken kann,
 
-Flüsse (Cederbach) der planaren Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion, LRT-Nummer 3260, Länge rund 4,6 km, Erhaltungszustand A, Länge rund 0,6 km, Erhaltungszustand B, Länge rund 1,2 km, Erhaltungszustand C, Länge rund 2,8 km
+ermutigt, Verluste zurückzugewinnen oder Gewinne wieder zu investieren,
 
-Die als LRT eingestuften Abschnitte des Cederbaches im Erhaltungszustand A bis C liegen hauptsächlich bei Viesecke, zwischen Hoppenrade und Garz sowie im Bereich der Woltersdorfer Teiche. Weitere rund 20,3 km Bachlauf befinden sich im Erhaltungszustand E (Entwicklungsflächen). Eine Verschlechterung des Zustandes durch Nährstoffeinträge, Lauf- und Strukturveränderungen durch wasserbautechnische Maßnahmen oder Grundwasserabsenkungen im Wassereinzugsgebiet ist zu vermeiden. Weitere Rückbauten von wasserbautechnischen Anlagen (Wehre) zur Wiederherstellung der biologischen Durchgängigkeit sind zu fördern. Renaturierungsmaßnahmen der begradigten Gewässerabschnitte in Anlehnung an ihren natürlichen Verlauf sollen durchgeführt werden. Die Gewässerstruktur ist weiterhin durch die Schaffung von durchgängigen Uferrandstreifen in einer Breite von bis zu 20 Metern mit naturnahen Uferstrukturen sowie die Verlagerung der Stauteiche aus dem Bachlauf in den Nebenschluss zu verbessern. Die chemische Gewässergüte ist durch die Minimierung der Stoffeinträge insbesondere aus der Landwirtschaft zu verbessern. Die chemisch-biologische Gewässergüte des Fließgewässers ist mindestens als Güteklasse II (mäßig belastet) zu erhalten oder zu entwickeln. Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+den Zufallscharakter des Glücksspiels unangemessen darstellt,
 
-Natürlich eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions, LRT-Nummer 3150, Größe rund 0,6 Hektar, Erhaltungszustand C
+den Verzicht auf Glücksspiel abwertend erscheinen lässt bzw. vermittelt, die Teilnahme an Glücksspielen fördere den eigenen sozialen Erfolg,
 
-Der Teich 2 der Woltersdorfer Teiche liegt größtenteils außerhalb des FFH-Gebietes Cederbach und wurde auf Grund seiner Einstufung als LRT einschließlich der mit Gehölzen bestandenen Uferbereiche vollständig in den Geltungsbereich des Bewirtschaftungserlasses einbezogen. Das Gewässer wird durch den Cederbach durchflossen. Der Teich ist eutroph sowie relativ struktur- und artenarm. Er weist sowohl eine Schwimmblattdecke aus schwimmendem Laichkraut als auch größere Schilf- und Rohrkolbenröhrichte und Seggenrieder auf. Die Gewässerqualität ist durch eine Extensivierung der fischereilichen Bewirtschaftung zu verbessern. Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+das Glücksspiel als Gut des täglichen Lebens erscheinen lässt,
 
-Auenwälder mit Alnus glutinosa und Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae), LRT-Nummer 91E0, Größe rund 23 Hektar, Erhaltungszustand B, Größe rund 10 Hektar, Erhaltungszustand C, Größe rund 13 Hektar
+entspricht nicht den Anforderungen des § 5 Absätze 1 und 2 GlüStV und ist nicht erlaubt.
 
-Im Gebiet ist ausschließlich der Subtyp Schwarzerlenwald vorhanden. Es handelt sich um Bestände, die größtenteils als bachbegleitende schmale Waldstreifen entlang des Cederbaches beziehungsweise der Altarme des Cederbaches vorkommen. Zusätzlich sollen rund 4 ha des LRT im Erhaltungszustand E sowie weitere rund 2 ha Erlenbruchwald und junger Erlenbestand ohne LRT-Status zum LRT entwickelt werden. Infolge von Bachbegradigung und Melioration weisen die Wälder häufig deutliche Anzeichen der Entwässerung auf. Eine Verschlechterung der Entwicklungsbedingungen durch weitere Grundwasserabsenkung, Gewässerunterhaltung oder Intensivierung der bisherigen forstwirtschaftlichen Nutzung ist zu vermeiden. Es darf eine den Lebensraum erhaltende forstliche Bewirtschaftung erfolgen. Eine Wiedervernässung der stark entwässerten Bereiche ist anzustreben. Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+(2) Vergleichbar gefährdete Zielgruppen im Sinne des Absatz 1 Nr. 1 sind insbesondere Spieler mit problematischem oder pathologischem Spielverhalten sowie Spieler in finanziellen Schwierigkeiten. Werbung richtet sich an sie, wenn sie sich nach Inhalt, Form oder Verbreitungsart überwiegend an diese wendet oder als akustischer oder visueller Schlüsselreiz (sog. Trigger) eingesetzt wird.
 
-Biber (Castor fiber), Erhaltungszustand C
+Dritter Teil
 
-Der Biber benötigt natürliche oder naturnahe Ufer von Gewässern mit dichter Vegetation und an Weichholzarten reichen Gehölzsäumen oder Auenwald. Die im Gebiet lebende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Zur Erhaltung des Habitates ist die Schaffung von nichtbewirtschafteten Uferrandstreifen zu fördern. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
+Besondere Anforderungen an Werbung für öffentliches Glücksspiel
 
-Fischotter (Lutra lutra), Erhaltungszustand A
+§ 5
 
-Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume. Die im Gebiet lebende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Zur Erhaltung des Habitates ist die derzeitige Gewässerdynamik im Gebiet beizubehalten und weiter zu fördern. Die Zerschneidung von Migrationskorridoren durch Verkehrstrassen oder Ufer- und Sohlbefestigungen ist zu vermeiden. Brücken und Durchlässe sind bei Neubau oder Ersatz mit ottergerechten Passagen auszustatten. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten. Eine mögliche Störung des Fischotters an den Wanderstrecken am Cederbach und am Südufer der Groß Woltersdorfer Teiche ist zu vermeiden.
+Differenzierung nach Art des Glücksspiels
 
-Bitterling (Rhodeus sericeus amarus), Erhaltungszustand B
+Um den Spieltrieb in geordnete Bahnen zu lenken, dürfen die werbenden Veranstalter und Vermittler unter Berücksichtigung des spezifischen Gefährdungspotentials des beworbenen Glücksspielprodukts auf das Spielangebot aufmerksam machen und das Glücksspiel so attraktiv anbieten, dass es nach Art und Ausgestaltung geeignet ist, die Teilnehmer von unerlaubten Angeboten fernzuhalten und darauf hinzuwirken, dass die Teilnehmer das beworbene Glücksspielprodukt als Alternative den illegalen bzw. gefährlicheren Glücksspielprodukten vorziehen.
 
-Der Bitterling benötigt pflanzenreiche Uferzonen langsam fließender Ströme und Seen, auch Altarme und kleinere Gewässer mit feinem weichem Sandbett. Voraussetzung für dauernde Vorkommen und Reproduktion ist das Vorkommen von Großmuscheln (hier der Bachmuschel), mit denen der Bitterling in Symbiose lebt. Eine Zerstörung beziehungsweise Verschlechterung der Lebensräume und Habitatstrukturen vor allem durch Gewässerverschmutzungen, Maßnahmen der Gewässerunterhaltung und Maßnahmen, die der Existenz stabiler Großmuschelbestände abträglich sind, ist zu verhindern.
+Hierbei ist zu unterscheiden zwischen:
 
-Bachmuschel (Unio crassus), Erhaltungszustand C
+Lotterien, die nicht häufiger als zweimal wöchentlich veranstaltet werden und Lotterien im Sinne des Dritten Abschnitts des Glücksspielstaatsvertrages
 
-Die Vorkommen im Cederbach sind im Bereich zwischen Tüchen/Lindenberg bis Garz und bei Viesecke durch Einzelfunde der Bachmuscheln belegt. Die im Bereich von der B 5 bis zur Mündung in die Karthane existierende Bachmuschelpopulation hatte in den Jahren 2002 bis 2004 einen sehr hohen Anteil juvenile Individuen, deren Anteil einer Erhebung im Jahr 2009 zufolge deutlich zurückgegangen ist. Trotzdem hat der Cederbach eine hohe Bedeutung für die Erhaltung der Art.
+Für Lotterien, die nicht häufiger als zweimal wöchentlich veranstaltet werden, sowie für Lotterien im Sinne des Dritten Abschnitts des Glücksspielstaatsvertrages darf nach Maßgabe der §§ 3 und 4 im für eine gesicherte Wahrnehmung notwendigen Umfang attraktiv geworben werden. Bei der Werbung kann der gemeinnützige Charakter der Lotterien im Sinne des Dritten Abschnitts des Glücksspielstaatsvertrages in den Vordergrund gestellt werden.
 
-Die Bachmuschel benötigt unverbaute und unbelastete saubere Flüsse mit naturnahem Verlauf und hoher Wassergüte. Durch die in den Jahren 2002 bis 2004 durchgeführten wasserbaulichen Maßnahmen wurde die biologische Durchgängigkeit des Cederbaches im Bereich zwischen der B 5 und der Mündung in die Karthane wiederhergestellt. Für eine erfolgreiche Reproduktion ist mindestens die Gewässergüteklasse I-II sowie die Einhaltung eines Stickstoffgehaltes von < 1,8 mg NO3-N/l (Nitrat-N) notwendig. Eine Zerstörung beziehungsweise Entwertung der Lebensräume durch wasserbauliche Maßnahmen mit Veränderungen der Gewässerstrukturen und der Sedimentation sowie durch Nährstoffeinträge und Gewässereutrophierung mit Verschlechterung der Wassergüte, insbesondere Nitrat- und Phosphatbelastungen durch Einwaschung aus landwirtschaftlich genutzten Flächen, ist zu verhindern. Bei der fischereilichen Bewirtschaftung entsprechend den Grundsätzen des § 3 Absatz 1 des Fischereigesetzes für das Land Brandenburg (BbgFischG) ist dafür Sorge zu tragen, dass sich der Erhaltungszustand der als Wirtsfische der Bachmuschel relevanten Arten nicht verschlechtert (Hasel, Dreistachliger Stichling, Neunstachliger Stichling, Rotfeder, Flussbarsch) beziehungsweise die Ansiedlung von relevanten Arten (zum Beispiel Elritze, Westgroppe) gefördert wird. Es sind weitere Maßnahmen durchzuführen, die die Strukturgüte des Cederbaches verbessern. Hierzu gehören insbesondere die Förderung von Strukturelementen wie Sandbänken, Totholz, Ufergehölzen zur Beschattung des Baches und Altarmanschlüssen, die Zulassung eigendynamischer Prozesse sowie die weitere Wiederherstellung der Durchgängigkeit des Fließgewässers zum Beispiel durch die Beseitigung der im Lauf des Cederbaches befindlichen Stauteiche durch Anschluss der Teiche im Nebenschluss. Die Schaffung von durchgängigen Uferrandstreifen in einer Breite von bis zu 20 Metern, auf denen auf den Einsatz von Pflanzenschutz- und Düngemitteln verzichtet wird und eine Nutzung als Grünland erfolgt, ist zur Verminderung der Stoffeinträge aus der Landwirtschaft anzustreben.
+Sportwetten
 
-Schmale Windelschnecke (Vertigo angustior), Erhaltungszustand C
+Werbung für Sportwetten im Fernsehen unmittelbar vor oder während der Live-Übertragung von Sportereignissen ist nicht zulässig, soweit gerade die Bewettung des konkreten Sportereignisses beworben werden soll. Unzulässig ist insbesondere Werbung für die Bewettung des konkreten Sportereignisses in der Spielzeitpause einer Live-Übertragung sowie als Werbeunterbrechungen im Rahmen der Live-Berichterstattung. Werbung für Sportwetten im Fernsehen und Internet mit aktiven Sportlern und Funktionären ist unzulässig. § 3 Absatz 3 und § 12 bleiben unberührt.
 
-Der Fundort der Schmalen Windelschnecke befindet sich zwischen Garz und Hoppenrade auf Feuchtwiesen nährstoffreicher Standorte. Weitere geeignete Habitate für das Vorkommen der Schmalen Windelschnecke in diesem Bereich sind Grünlandbrachen und Staudenflure feuchter Standorte sowie lichte Moor- und Bruchwälder. Die Schmale Windelschnecke bewohnt die feuchte Bodenstreu dieser Biotope. Weitere Vorkommen der Schmalen Windelschnecke im FFH-Gebiet sind in den geeigneten Habitaten entlang des Cederbaches auf nicht meliorierten Flächen möglich. Eine Zerstörung beziehungsweise Entwertung der Lebensräume und Habitatstrukturen vor allem durch Grundwasserabsenkung oder Entwässerung zur Innutzungnahme und/oder Nutzungsintensivierung bislang extensiv genutzten Feuchtgrünlandes mit Ried- und Röhrichtanteilen ist zu verhindern. Ebenso muss ein lang anhaltendes oder dauerhaftes Überstauen von Erlenbruchwäldern sowie eine Eutrophierung der Standorte durch Nährstoffeinträge vermieden werden. Zur Verbesserung des Erhaltungszustandes der Schmalen Windelschnecke ist die Entwicklung weiterer geeigneter Habitate unter besonderer Beachtung des Biotopverbundes erforderlich.
+Pferdewetten
 
-Bauchige Windelschnecke (Vertigo moulinsiana), Erhaltungszustand C
+Totalisatorwetten sind grundsätzlich den Lotterien im Sinne der Nr. 1 gleichzusetzen (vgl. Erläuterungen zu § 27 Absatz 3 GlüStV). Für Totalisatorwetten ist Werbung auch im unmittelbaren Umfeld der Pferderennveranstaltung, auf die Wetten angenommen werden können, zulässig. Diese Werbung hat sich im Wesentlichen auf Informationen über die zu erwartenden Eventualquoten sowie sonstige wettspezifische Informationen z. B. über die angebotenen Wettarten, erwartete Auszahlungssummen sowie Startzeiten zu beschränken. Für Festkurswetten entsprechend § 27 Absatz 3 GlüStV gelten die Bestimmungen der Nr. 2 sinngemäß.
 
-Der Fundort der Bauchigen Windelschnecke befindet sich ebenfalls zwischen Garz und Hoppenrade auf Feuchtwiesen nährstoffreicher Standorte. Weitere geeignete Habitate für das Vorkommen der Bauchigen Windelschnecke in diesem Bereich sind Grünlandbrachen und Staudenflure feuchter Standorte sowie Moor- und Bruchwälder. Die Bauchige Windelschnecke bewohnt naturnahe Feuchtgebiete mit gleichbleibend hohen Grundwasserständen und dauerhaft vorhandenen vertikalen Strukturelementen der Vegetation in Form von Rieden und Röhrichten, insbesondere kalkreiche Seggen- und Röhrichtmoore, auch mit Seggen (Carex spec.) reich bewachsene lichte Erlenbruchwälder. Weitere Vorkommen der Bauchigen Windelschnecke im FFH-Gebiet sind in den geeigneten Habitaten entlang des Cederbaches auf nicht meliorierten Flächen möglich. Eine Zerstörung der Lebensräume und Habitatstrukturen vor allem durch Grundwasser- und Pegelabsenkungen, besonders bei Entwässerung, durch dauerhaft hohe Überstauung oder Innutzungnahme von Seggen- und Röhrichtmooren oder durch Nutzungsintensivierung bislang extensiv genutzter Seggenrieder ist zu verhindern. Zur Verbesserung des Erhaltungszustandes der Bauchigen Windelschnecke ist die Entwicklung weiterer geeigneter Habitate unter besonderer Beachtung des Biotopverbundes erforderlich.
+§ 6
 
-Erläuterung
+Differenzierung nach Art des Werbemediums
 
-A - hervorragender Erhaltungszustand
+Werbung für öffentliches Glücksspiel in Medien, deren redaktioneller Teil sich überwiegend an Minderjährige richtet, sowie Werbegestaltungen, die primär Minderjährige ansprechen, sind unzulässig.
 
-B - guter Erhaltungszustand
+§ 7
 
-C - durchschnittlicher oder beschränkter Erhaltungszustand
+Telekommunikationsanlagen
 
-5 Bestand und Bewertung weiterer Biotope
+Werbung für öffentliches Glücksspiel über Telekommunikationsanlagen ist verboten. Nicht vom Verbot nach Satz 1 umfasst sind Anrufe des Spielers oder Spielinteressenten beim Veranstalter oder Vermittler; diese Telefonate dürfen mit Einwilligung des Spielers oder Spielinteressenten (§ 7 Absatz 2 Nr. 3 UWG) auch Werbung für erlaubtes Glücksspiel zum Gegenstand haben. Ferner ist die Kommunikation per Telefon, E-Mail und SMS innerhalb eines bestehenden Vertragsverhältnisses nicht vom Verbot nach Satz 1 erfasst.
 
-Nach § 30 BNatSchG in Verbindung mit § 32 des Brandenburgischen Naturschutzgesetzes (BbgNatSchG) geschützte Biotope,
+§ 8
 
-Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben:
+Fernsehen
 
-Ungefasste Quellbereiche mit und ohne Gehölzbewuchs (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+(1) Werbung für öffentliches Glücksspiel im Fernsehen ist grundsätzlich verboten. Das Verbot gilt unabhängig vom Verbreitungsweg und auch für eine Teilbelegung des ausgestrahlten Bildes. Vom Verbot umfasst werden auch der Fernsehtext und audiovisuelle Mediendienste auf Abruf (video on demand). Ausnahmeerlaubnisse für Werbung für Lotterien und Sport- und Pferdewetten können nach Maßgabe des § 14 in Verbindung mit §§ 3 bis 6 und 13 dieser Richtlinie erteilt werden.
 
-Im Gebiet liegen mehrere Sumpf- und Sickerquellen, drei im Wald bei Klein Woltersdorf und zwei im Garzer Wald. Zum Schutz der Bereiche soll nach Möglichkeit keine Nutzung erfolgen und die Flächen sollen der Sukzession überlassen bleiben.
+(2) Vom Verbot nach Absatz 1 umfasst ist auch die Werbung für unentgeltlich angebotene Casinospiele, sofern durch Nutzung derselben Dachmarke damit auf unerlaubte Glücksspiele hingewiesen wird.
 
-Stillgewässer (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+(3) Dauerwerbesendungen für öffentliches Glücksspiel sind im Fernsehen grundsätzlich unzulässig. Zulässig sind unbeschadet des § 5 Absatz 3 GlüStV Dauerwerbesendungen sowie Ziehungssendungen für Lotterien, die nicht häufiger als zweimal pro Woche veranstaltet werden, und Lotterien im Sinne des Dritten Abschnitts des Glücksspielstaatsvertrages.
 
-Ein Teil der im Gebiet vorkommenden Stillgewässer sind vormalige Altarme beziehungsweise ehemalige Schlingen des Cederbaches, die durch die Begradigung des Baches heute zum Teil trocken gefallen sind. Es soll eine Wiederanbindung der Altarme beziehungsweise der ehemaligen Schlingen an den Cederbach erfolgen. Der Dorfteich Hoppenrade und die Woltersdorfer Teiche werden vom Cederbach durchflossen beziehungsweise gespeist. Eine Verlagerung der Stauteiche aus dem Bachlauf in den Nebenschluss ist anzustreben.
+(4) Eigenwerbekanäle von Anbietern öffentlicher Glücksspiele sind verboten, es sei denn, es handelt sich um die Angebote der Rennvereine, die ihre Rennen, die in Ausführung von § 1 Rennwett- und Lotteriegesetz durchgeführt werden, in die ihnen angebundenen Vertriebsnetze übertragen.
 
-Feuchtgrünland (teilweise § 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+(5) Teleshopping für öffentliches Glücksspiel ist nicht erlaubt.
 
-Es handelt sich um weitgehend als Weide genutztes Grünland, wobei teilweise Trittschäden infolge Überweidung festgestellt wurden.
+(6) Die Werbung darf keine prägenden Elemente enthalten, die auch Bestandteil von Kindersendungen sind.
 
-Die im Gebiet vorkommenden Feuchtgrünländer sollen extensiv bewirtschaftet beziehungsweise gepflegt werden. Bei Beweidung soll eine Besatzdichte von maximal 1,4 RGV/ha nicht überschritten werden, um die Trittschäden zu minimieren. Eine Nutzung dieser Flächen durch Mahd ist der Beweidung vorzuziehen.
+§ 9
 
-Grünlandbrachen feuchter Standorte (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+Kino
 
-Dieser Biotoptyp befindet sich überwiegend im mittleren Teil des Gebietes. Es dominieren Röhrichtbestände mit hohem Anteil an Brennnesseln. Auf Grund der hohen Wasserstände findet eine regelmäßige, landwirtschaftliche Bodennutzung nicht statt. Teilweise erfolgte in den letzten Jahren bereits eine Pflege durch Mahd. Diese Pflege kann auf weitere Flächen ausgedehnt werden, wobei jedoch auf die Einhaltung einer Schnitthöhe (mindestens 10 cm) geachtet werden soll. Weitere extensiv zu nutzende Grünlandflächen sollen zu Grünlandbrachen feuchter Standorte entwickelt werden.
+Werbung für öffentliches Glücksspiel ist bei öffentlichen Filmveranstaltungen erst nach 18.00 Uhr zulässig.
 
-Feldgehölze (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+§ 10
 
-Im Gebiet von gemeinschaftlicher Bedeutung liegt ein Feldgehölz aus Erlen auf feuchtem Standort, westlich vom Schlosspark Hoppenrade. Die Beweidung des Feldgehölzes soll eingestellt werden. Die Gehölze sind zu erhalten. Bei Nachpflanzungen sind standorttypische Gehölze heimischer Herkunft zu verwenden.
+Hörfunk
 
-Erlenbruchwälder (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+(1) Die Werbung darf keine prägenden Elemente enthalten, die auch Bestandteil von Kindersendungen sind.
 
-Die im Gebiet liegenden Erlenbruchwälder kommen überwiegend bachbegleitend beziehungsweise den ehemaligen Bachverlauf begleitend in typischer Ausprägung vor. Ziel ist die Entwicklung und Erhaltung der naturnahen Bestände, insbesondere durch eine Wiedervernässung der stark entwässerten Bereiche.
+(2) Eigenwerbekanäle von Anbietern öffentlicher Glücksspiele sind verboten, es sei denn, es handelt sich um die Angebote der Rennvereine, die ihre Rennen, die in Ausführung von § 1 Rennwett- und Lotteriegesetz durchgeführt werden, in die ihnen angebundenen Vertriebsnetze übertragen.
 
-Lesesteinhaufen (§ 30 BNatSchG in Verbindung mit § 32 BbgNatSchG)
+§ 11
 
-Im Bereich zwischen Lindenberg und Klein Woltersdorf befinden sich zwei beschattete Lesesteinhaufen. Auf die Erhaltung dieser Lesesteinhaufen ist weiterhin zu achten.
+Internet
 
-6 Erhaltungsmaßnahmen
+(1) Werbung für öffentliches Glücksspiel im Internet ist grundsätzlich verboten. Ausnahmeerlaubnisse für Werbung für Lotterien, Sport- und Pferdewetten können nach Maßgabe des § 14 in Verbindung mit §§ 3 bis 6 und 13 dieser Richtlinie erteilt werden.
 
-Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 benannten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
+(2) Vom Verbot nach Absatz 1 umfasst ist auch die Werbung für unentgeltlich angebotene Casinospiele, sofern durch Nutzung derselben Dachmarke damit auf unerlaubte Glücksspiele hingewiesen wird.
 
-Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungszustände der Flüsse (Cederbach) der planaren Stufe mit Vegetation des Ranunculion fluitantis und des Callitricho-Batrachion (LRT-Nummer 3260) besteht in der Reduzierung der Nährstoffeinträge durch die Schaffung durchgängiger Uferrandstreifen auf landwirtschaftlich genutzten Flächen mit dem Verzicht der Anwendung von Pflanzenschutz- und Düngemitteln.
+§ 12
 
-Änderungen der Erhaltungs- und Entwicklungsmaßnahmen bedürfen der Zustimmung des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz und bei Betroffenheit des Ministeriums für Infrastruktur und Landwirtschaft.
+Trikot- und Bandenwerbung
 
-7 Projekte
+(1) Trikot- und Bandenwerbung ist in Form der Dachmarkenwerbung zulässig.
 
-Es wird darauf hingewiesen, dass Projekte vor ihrer Zulassung oder Durchführung auf ihre Verträglichkeit mit den Erhaltungszielen eines Natura-2000-Gebiets zu überprüfen sind, wenn sie einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet sind, das Gebiet erheblich zu beeinträchtigen, und nicht unmittelbar der Verwaltung des Gebiets dienen. Die Maßstäbe für die Verträglichkeit ergeben sich aus den Erhaltungszielen im Standarddatenbogen.
+(2) Werbung für öffentliches Glücksspiel auf Trikots von Kinder- oder Jugendmannschaften ist unzulässig. Bandenwerbung für öffentliches Glücksspiel, die bei Sportwettkämpfen von Minderjährigen eingesetzt wird, ist unzulässig.
 
-8 Umsetzung
+§ 13
 
-Für die Betreuung, Koordinierung und Kontrolle der Umsetzung des Bewirtschaftungserlasses ist die untere Naturschutzbehörde verantwortlich. Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert.
+Pflichthinweise
 
-Es wird darauf hingewiesen, dass seitens der überwiegenden Anzahl der Eigentümer/Nutzer eine entsprechende Kooperationsbereitschaft vorliegt, um die Maßnahmen zur Sicherung des FFH-Gebietes auf der Grundlage von Vereinbarungen umzusetzen.
+(1) Werbung für öffentliches Glücksspiel hat über die Suchtrisiken der beworbenen Glücksspiele, das Verbot der Teilnahme Minderjähriger sowie die Möglichkeiten der Beratung und Therapie aufzuklären. Nicht erfasst von der Hinweispflicht des Satzes 1 sind die Lotterien des Dritten Abschnitts des Glücksspielstaatsvertrages sowie Image- und Dachmarkenwerbung.
 
-9 Inkrafttreten
+(2) Bei einer Information über Höchstgewinne hat auch eine Aufklärung über die Wahrscheinlichkeit von Gewinn und Verlust zu erfolgen.
 
-Dieser Erlass tritt am Tage nach seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
+(3) Die Pflichthinweise gemäß Absatz 1 und 2 sind in deutlicher, gut wahrnehmbarer Form und Größe in das jeweilige Kommunikationsmittel einzubringen.
 
-Anlagen
+Vierter Teil
 
-1
+Befreiung vom Fernseh- und Internetwerbeverbot
 
-Anlage 1 Kartenskizze 269.0 KB
+§ 14
 
-2
+Verfahren
 
-Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Cederbach“ 57.9 KB
+(1) Werbende Veranstalter und Vermittler (Antragsteller) haben die Erlaubnis für Werbung für Lotterien und Sport- und Pferdewetten im Fernsehen und Internet gemäß § 5 Absatz 3 GlüStV bei der gemäß § 9 a Absatz 2 Nr. 1 GlüStV zuständigen Glücksspielaufsichtsbehörde zu beantragen. Die Glücksspielaufsichtsbehörde prüft sodann die Befreiung vom Fernseh- und Internetwerbeverbot entsprechend der in dieser Werberichtlinie dargelegten Anforderungen. Die Glücksspielaufsichtsbehörde kann von Einzelerlaubnissen absehen und eine Rahmenerlaubnis für Werbung im Fernsehen und Internet erteilen. Die Erlaubnis muss vor der Übertragung der Werbung vorliegen.
+
+(2) Der Antrag muss ein Werbekonzept mit einer Beschreibung der zu bewerbenden Glücksspielprodukte und der beabsichtigten Werbemaßnahmen, mit der Häufigkeit und Dauer von Werbesendungen und -maßnahmen und der Zielgruppe sowie mit dem geplanten Werbezeitraum beinhalten. Bei Fernsehwerbung soll das Werbekonzept zusätzlich das geplante Werbeumfeld beinhalten. Der Antragsteller hat im Werbekonzept schlüssig darzulegen, wie der Einhaltung der Werberichtlinie Genüge getan werden soll. Wesentliche Änderungen des Werbekonzepts sind der Glücksspielaufsichtsbehörde zur Genehmigung vorzulegen.
+
+(3) Die Glücksspielaufsichtsbehörde kann vom Antragsteller nachträglich die Vorlage einer konkreten Werbesendung oder sonstigen -maßnahme verlangen und auf ihre Vereinbarkeit mit der von ihr erteilten Erlaubnis prüfen.
+
+(4) Die Glücksspielaufsichtsbehörde bestimmt die näheren Einzelheiten zur Erlaubnis im Rahmen des § 9 a Absatz 2 Nummer 1, Absatz 5 GlüStV in Verbindung mit § 5 VwV wie insbesondere Nebenbestimmungen zur Erlaubnis. Die Erlaubnis kann insbesondere befristet werden und einen Widerrufsvorbehalt für den Fall der Nichteinhaltung der Bestimmungen der Werberichtlinie enthalten.
+
+(5) Zur Glücksspielwerbung findet ein regelmäßiger vertraulicher Austausch zwischen der nach § 5 Absatz 3, § 9 a Absatz 2 Nr. 1 GlüStV zuständigen Behörde, dem Glücksspielkollegium, den Landesmedienanstalten und dem Deutschen Werberat statt.
+
+Fünfter Teil
+
+Schlussbestimmungen
+
+§ 15
+
+Änderung der Werberichtlinie
+
+Vor einer wesentlichen Änderung dieser Werberichtlinie hat das Glücksspielkollegium den betroffenen Kreisen innerhalb einer angemessenen Frist Gelegenheit zur Stellungnahme zu geben.
+
+§ 16
+
+Inkrafttreten
+
+Die Werberichtlinie tritt am 1. Februar 2013 in Kraft. Sie tritt mit Außerkrafttreten des Glücksspielstaatsvertrages ebenfalls außer Kraft.
+
+§ 17
+
+Veröffentlichung
+
+Die Werberichtlinie ist in allen Ländern als normkonkretisierende Verwaltungsvorschrift in den Verkündungsblättern der Länder zu veröffentlichen. Jede Änderung der Werberichtlinie ist ebenfalls zu veröffentlichen.
