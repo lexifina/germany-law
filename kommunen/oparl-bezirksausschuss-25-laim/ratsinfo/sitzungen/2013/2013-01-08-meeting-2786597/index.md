@@ -1,0 +1,98 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786597
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786597
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Taxistandplatz Gotthardstraße: Verkürzung; Einrichtung einer Parkscheibenzone
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.000 Euro für 100 Jahrfeier der ältesten Kleingartenanlage Münchens vom 11.07.-14.07.12; Antragsteller: Bahn ? Landwirtschaft Unterbezirk München - West - <div>vertagt</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 29.11.12: Haltverbot Hogenbergstraße
+- TOP 4.2.: Schreiben Spielen in der Stadt e.V. vom 04.12.12: Planung der Einsätze der Münchner Sommer SpielAktion 2013
+- TOP 4.3.: Reutterstr. 70a: Fällung einer Birke
+- TOP 4.4.: Hogenbergstr. 11: Fällung einer Fichte
+- TOP 4.5.: Fischartstr. 17: Fällung von einer Lärche
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 14.12.12: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 4.7.: Schreiben Direktorium vom 18.12.12: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung (Antrag Nr. 08-14 / B 03805 des BA 5 Au-Haidhausen vom 21.03.12)
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 19.12.12: Flohmarkt am 16.03.13 auf dem Spielplatz Ecke Von-der-Pfordten-Straße / Valpichlerstraße
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 19.12.12: Flohmarkt am 13.04.13 und 21.09.13 auf dem Hogenbergplatz
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Straße: Neubau eines Studentenwohnheims mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Agnes-Bernauer-Straße: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.3.: Landsberger Str. 289: Nutzungsänderung einer Ladenfläche in ein Wettbüro; hier: Baupläne
+- TOP 5.4.: Flotowstr. 19: Erweiterung der EG-Wohnung eines Dreifamilienhauses (Anbau in Holzrahmenbauweise); hier: Bau- und Baumbestandspläne
+- TOP 5.5.: Queristr. 12: Neubau eines Doppelhauses mit Pkw-Garage und Stellplätzen / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.6.: Fachnerstr. 7: Neubau eines Einfamilienhauses mit Carport; hier: Bau- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Arbeit und Wirtschaft vom 04.12.12: Werbenutzungsvertrag; Bereisung Laim am 25.01.2013
+- TOP 6.2.: Schreiben Kommunalreferat vom 11.12.12: Einladung zum jährlichen Informationsaustausch am 07.03.13
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 13.11.12 (Seniorenstadtteilplan) (Vertagung aus der BA-Sitzung vom 04.12.12)
+- TOP 7.2.: Sitzung UA Soziales, Schule und Sport vom 13.11.12 (Vertagung aus der BA-Sitzung vom 04.12.12)
+- TOP 7.3.: BA-Sitzung vom 04.12.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Bürgermeisterin Christine Strobl vom 04.12.12: Treffen der BA-Vorsitzenden am 20.06.12
+- TOP 8.2.: Schreiben Direktorium vom 22.11.12: Zuwendung aus dem Budget des BA 25 für Offene Spielaktion vom 19.09.-28.09.12; Antragsteller Familienzentrum Laim
+- TOP 8.3.: Schreiben Referat für Bildung und Sport vom 21.11.12: Erläuterung der Ergebnisse der statischen Standardsicherungsprüfung an der Sporthalle Schrobenhausener Schule (Antrag Nr. 08-14 / B 03926 vom 08.05.12 bzw. Schreiben vom 13.07.12)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.11.12: Broschüre "40 Jahre Fassadenpreis"
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.11.12: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach §§ 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG), Barrierefreier Umbau des Bahnhofs Donnersbergerbrücke an den Strecken 5540 München-Gauting und 5505 München-Lenggries, km 4,532-1,806 / Nachtrag zur Stellungnahme der LH München vom 14.11.12
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.12.12: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.11.-02.12.12
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.11.12: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.10.-31.10.12 (Vertagung aus der BA-Sitzung vom 04.12.12)
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.11.12: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 01.11.-15.11.12 (Vertagung aus der BA-Sitzung vom 04.12.12)
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.12.12: Agnes-Bernauer-Str. 25; Neubau zweier Wohngebäude mit Tiefgarage / Vorbescheid
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 23.11.12: Einrichtung eines Zweirichtungsradweges auf der westlichen Seite der über die Lindauer Autobahn A 96 führenden Westendstraße (Antrag Nr. 08-14 / B 03832 vom 27.03.12 bzw. Schreiben BA vom 13.07.12)
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 29.11.12: Lkw-Parken in der Rushaimerstraße (Schreiben BA vom 15.11.12)
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 01.12.12: Schwerpunktmaßnahme in Laim zur Kontrolle der Einhaltung geltender Vorschriften der StVO für das Parken von Straßenfahrzeugen im öffentlichen Verkehrsraum (Antrag Nr. 08-14 / B 04305 vom 09.10.12)
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 06.12.12: Gefährdung des neuen Kulturtreffs Binario 11 und der Anwohner der Inderstorferstraße durch Großlaster (Schreiben BA vom 13.07.12)
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 10.12.12: Kleingaststätte "Burgkmair-Stüberl", Burgkmairstr. 60; unveränderte Fortführung
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 12.12.12: Gaststätte "Absolut", Landsberger Str. 216; unveränderte Fortführung
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 12.12.12: Gaststätte "Eros", Landsberger Str. 216 a; unveränderte Fortführung
+- TOP 8.17.: Schreiben Kulturreferat vom 23.11.12: Erinnerungsorte München
+- TOP 8.18.: Schreiben Sozialreferat vom 28.11.12: Antrag auf Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Geßlerstraße
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 05.12.12: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (öPNV), Stadtwerke München GmbH
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 12.12.12: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.22.: Schreiben Stadtkämmerei vom 07.12.12: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2013
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 29.11.12: Wirtschafts-Info 11/2012
+- TOP 8.25.: Bautenliste vom 19.-25.11.12: 1. Erstantragsverfahren a) Stadtlohner Str. 7 b) Perhamerstr. 2 2. Änderungsverfahren a) Camerloherstr. 76 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Straße
+- TOP 8.26.: Bautenliste vom 26.11.-02.12.12 1. Erstantragsverfahren a) Stadtlohner Str. 2 b) Stadtlohner Str. 5 c) Stadtlohner Str. 9 d) Agnes-Bernauer-Straße e) Perhamerstr. 1 f) Landsberger Str. 289
+- TOP 8.27.: Bautenliste vom 03.12.-09.12.12 1. Erstantragsverfahren a) Flotowstr. 19 b) Fachnerstr. 7 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Queristr. 12
+- TOP 8.28.: Bautenliste vom 10.12.-16.12.12 1. Erstantragsverfahren a) Stöberlstr. 22 b) Wilhelm-Riehl-Str. 16
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 26.11.12: Baumaßnahmen der Stadtwerke; Stichtag: 26.11.12
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 03.12.12: Baumaßnahmen der Stadtwerke; Stichtag: 03.12.12
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 10.12.12: Baumaßnahmen der Stadtwerke; Stichtag: 10.12.12
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 17.12.12: Baumaßnahmen der Stadtwerke; Stichtag: 17.12.12
+- TOP 8.33.: Beschluss der Vollversammlung vom 24.10.12: Jahr der Partizipation von Kindern und Jugendlichen in München (Sitzungsvorlage Nr. 08-14 / V 10032)
+- TOP 8.34.: Beschluss der Vollversammlung vom 24.10.12: Infrastrukturprogramm Sport in München (Sitzungsvorlage Nr. 08-14 / V 09896)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.11.12: Verkehrsplanung im Münchner Norden (Sitzungsvorlage Nr. 08-14 / V 10493)
+- TOP 8.36.: Beschluss des Kulturausschusses vom 22.11.12: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2012-2016 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Sitzungsvorlage Nr. 08-14 / V 10626)
+- TOP 8.37.: Beschluss des Kommunalausschusses vom 22.11.12: Mehrjahresinvestitionsprogramm 2012-2016; Maßnahmen im Bereich des Kommunalreferates, Programmentwurf (Sitzungsvorlage Nr. 08-14 / V 10583)
+- TOP 8.38.: Beschluss der Vollversammlung vom 28.11.12: Kinder entscheiden in ihrem Stadtteil (Sitzungsvorlage Nr. 08-14 / V 10288)
+- TOP 8.39.: Beschluss der Vollversammlung vom 28.11.12: Erinnerungsorte München (Sitzungsvorlage Nr. 08-14 / V 10578)
+- TOP 8.40.: Beschluss der Vollversammlung vom 28.11.12: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt (Sitzungsvorlage Nr. 08-14 / V 09714)
+- TOP 8.41.: Beschluss der Vollversammlung vom 28.11.12: Etablierung eines "Stadtrates für Kinder und Jugendliche" in München sowie Durchführung einer entsprechenden Pilotphase im Stadtbezirk 25 (Antrag Nr. 08-14 / B 03156 vom 05.07.11) (Sitzungsvorlage Nr. 08-14 / V 09905)
+- TOP 8.42.: Beschluss der Vollversammlung vom 28.11.12: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligung für den Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 08-14 / V 10344)
+- TOP 8.43.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.12: Demografiebericht München - Teil 1; Analyse und Bevölkerungsprognose 2011-2030 (Sitzungsvorlage Nr. 08-14 / V 10686)
+- TOP 8.44.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.12: Ludlstraße (beidseits), Senftenauer Straße (westlich), Ammerseestraße (Bundesautobahn A 96 München-Lindau) (nördlich), Gondrellplatz (östlich und nördlich), Alpenveilchenstraße (östlich), Rudi-Seibold-Straße (südlich) und Menaristraße (östlich bzw. beidseits); a) Eckdatenbeschluss zur Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbs für den Bereich östlich der Menaristraße, b) Rahmenbedingungen für eine Untersuchung zur Nachverdichtung westlich der Menaristraße (Sitzungsvorlage Nr. 08-14 / V 10732)
+- TOP 8.45.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.12: Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis "Runder Tisch Werbung" (Sitzungsvorlage Nr. 08-14 / V 10677)
+- TOP 8.46.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.12: Wohnen in München IV, Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007-2011) (Sitzungsvorlage Nr. 08-14 / V 10688)
+- TOP 8.47.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.12: Parkraummanagement in München - Fortschreibung Umsetzungskonzept (Sitzungsvorlage Nr. 08-14 / V 07773)
+- TOP 8.48.: Beschluss des Ausschusses für Bildung und Sport vom 05.12.12: Grund- und Mittelschule an der Fürstenrieder Straße; Verbesserung der Unterrichts- und Aufenthaltsbedingungen (Sitzungsvorlage Nr. 08-14 / V 10646)
+- TOP 8.49.: Beschluss des Bauausschusses vom 11.12.12: Aindorferstraße zwischen Fürstenrieder Straße und Guido-Schneble-Straße im Stadtbezirk 25 (Sitzungsvorlage Nr. 08-14 / V 10602)
+- TOP 8.50.: Beschluss des Bauausschusses vom 11.12.12: Fahrradabstellplatzkonzept (2. Realisierungsabschnitt) (Sitzungsvorlage Nr. 08-14 / V 08245)
+- TOP 8.51.: Beschluss der Vollversammlung vom 12.12.12: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogramms 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (Sitzungsvorlage Nr. 08-14 / V 09670)
+- TOP 8.52.: Beschluss der Vollversammlung vom 19.12.12: Novellierung der Baumschutzverordnung (BaumschutzV), u.a. Antrag Nr. 08-14 / B 04165 vom 31.07.12) (Sitzungsvorlage Nr. 08-14 / V 10503)
+- TOP 8.53.: Schreiben Direktorium vom 17.12.12: Antrag BA 20 Hadern: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze"
+- TOP 8.54.: Schreiben Münchner Schülerbüro e.V. vom 07.11.12: Zeitzeugengespräche - "Erzähl mal!"
+- TOP 8.55.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2012
+- TOP 1.2: Bürgerpost an den BA
