@@ -1,0 +1,52 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-01-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2784962
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2784962
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein Stadtteilkultur 2411 e.V. Ausstellung vom 16.01. - 06.02.2013
+- TOP 3.1.: Konzept für sicheren Radverkehr für Bahnübergang Fasanerie und Feldmochinger Straße
+- TOP 3.2.: Zuschüsse Kinderbetreuung auch für eine Privatschule (hier: Walddorfschule)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 1. Auf der Schrederwiesen 85 2. Hammstr. 4 3. Stanigplatz 8 4. Dülferstr.118
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Dülferstr. 118 2. Ebereschenstr. 70 3. Wolfoltstr. 1 4. Hammstr. 4
+- TOP 5.3.: Direktorium: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss)
+- TOP 5.4.: KVR: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 5.5.: Referat für Bildung und Sport: Umbau und Erweiterung der Sporthalle, Neben- und Betriebsräume der Grundschule an der Feldmochinger Str. 251
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Kommunalreferat: Feldmoching: Nutzungsmischung der städt. Grundstücke zwischen Raheinstraße und Morigglstraße
+- TOP 6.2.: KVR: Installation einer Geschwindigkeitsmessanzeige (Dialog-Display) und Dokumentation der Verkehrsbelastung an der Karlsfelderstraße
+- TOP 6.3.: Baureferat: Installation von rollstuhlgerechten Spielgeräten auf öffentlichen Spielplätzen
+- TOP 6.4.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.5.: Meldelisten Baumfällungsanträge
+- TOP 6.6.: Meldelisten Bauvorhaben
+- TOP 6.7.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen a) bis d) (-&gt; Änderungs-/Ergänzungsantrag)
+- TOP 6.8.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Demographiebericht München - Teil 1; Analyse und Bevölkerungsprognosen 2011 bis 2030 (-&gt; Hinweis/ Ergänzung vom 29.11.2012)
+- TOP 6.9.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (-&gt; 4. Änderungsantrag)
+- TOP 6.10.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Novellierung der Baumschutzverordnung (BaumschutzV): (-&gt; Änderungsanträge)
+- TOP 6.11.: Beschlussvorlage Baureferat:Fahrradstellplatzkonzept (2.Realisierungsabschnitt)
+- TOP 6.12.: Beschlussvorlage Referat für Bildung und Sport: Kindertagesstätten sonstiger Träger; Kinderkrippe Feldmochinger Str. 367: Leistung eines Investitionskostenzuschusses
+- TOP 6.13.: Beschlussvorlage Referat für Bildung und Sport: Infrastrukturprogramm Sport in München
+- TOP 6.14.: Beschlussvorlage Sozialreferat: Aufstockung der regelmässigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München)
+- TOP 6.15.: Beschlussvorlage Kulturreferat: Erinnerungsorte München + Information über Datenbank
+- TOP 6.16.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen / Katalog
+- TOP 6.17.: Referat für Gesundheit und Umwelt: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 6.18.: Sozialreferat: Bewohnerstammtisch Hasenberg-Nord: Eigentumsübergang der städt. Wohnungen (Antwortschreiben auf Anfrage)
+- TOP 6.19.: Direktorium: Änderungen in der Bezirksausschuss-Satzung bzw. in den Richtlinien für die Gewährung von Zuwendungen aus dem BA-Budget
+- TOP 6.20.: Direktorium: Münchner Statistik (2. Quartalsheft 2012)
+- TOP 6.21.: BA-Budget: Kurzberichte
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2013
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
