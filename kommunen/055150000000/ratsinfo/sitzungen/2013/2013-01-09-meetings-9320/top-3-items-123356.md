@@ -1,0 +1,6 @@
+# TOP 3: Organisation
+
+- Sitzung: 1. (konstituierende) Sitzung (2013-01-09)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/123356
