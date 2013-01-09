@@ -1,0 +1,66 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-01-09T17:00:00+01:00
+- Ende: 2013-01-09T18:05:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2985
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2985
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=68974
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - erledigt
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 15. Sitzung der BVV am 09.01.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 15. Sitzung der BVV am 09.01.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Kennzeichnungspflicht für Ordnungsamtsmitarbeiter - überwiesen
+- TOP 7.2: Sitzgelegenheiten Quäkerstraße / Auguste-Viktoria-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Sprachförderklassen für Kinder im Grundschulalter einrichten (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Fußgängerampel am Südaufgang des S-Bahnhofs Waidmannslust (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Flughafen Tegel – Nachnutzung (5): Online-Bürgerbeteiligung zur Nachnutzung auf www.reinickendorf.de anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Rückläuferklassen in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Europäisches Jahr für aktives Altern und Solidarität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Prioritätenliste für Bordabsenkungen des Behindertenbeirates von 2010 prüfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Grünrockweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Betreuung IT-Systeme an Schulen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Bericht über die bauliche Umsetzung von Fußgängerüberwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Gesundheitsangebote für Menschen mit Migrationshintergrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: "Schlagloch-Sonderprogramm" für die Bezirke auflegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Umgang mit Sachverständigengutachten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Peter-Witte-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Bäume an Bahndämmen der S-Bahn überprüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Merkblatt Brandschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Abschlussbericht des Patientenfürsprechers des Dominikus-Krankenhauses (XVIII. Wahlperiode) - überwiesen
+- TOP 7.19: Aufstellung des Bebauungsplanes mit der Bezeichnung 12-17-1 für eine Teilfläche des ehemaligen Güterbahnhofs Hermsdorf, für das Grundstück Schloßstraße 28 A, für Teilflächen der Schloßstraße, der Glienicker Straße sowie der Ulmenstraße im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Fête de la Musique auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Spielgeräte für ältere Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Spielplätze mit Angebot für Rollstuhlfahrer und bewegungseingeschränkte Kinder bedarfsgerecht ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Spielplatz im Titusweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Flüchtlingsunterbringung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Musterbezirksamt - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schutz des Mittelstreifens in der Wiltinger Straße - überwiesen
+- TOP 12.2: Geeignete Straßen für das Modellprojekt "Berliner Begegnungszonen" in Reinickendorf finden - überwiesen
+- TOP 12.3: Verkehrssicherheit an den Hallen am Borsigturm - Fußgängerüberweg auf der Straße "Am Borsigturm" - überwiesen
+- TOP 12.4: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fährbetrieb auf Tegeler See erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Studentenappartements - überwiesen
+- TOP 13.3: Gräben im MV reinigen - überwiesen
+- TOP 13.4: Seniorenticket flexibler anbieten - überwiesen
+- TOP 13.5: Fahrgastinformationen S-Bahnhof Hermsdorf - überwiesen
+- TOP 13.6: Schulhelfer - überwiesen
+- TOP 13.7: Sicherung von Kunstwerken - überwiesen
