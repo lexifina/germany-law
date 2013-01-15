@@ -1,0 +1,101 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780389
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780389
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin vom 27.11.2012 Verbesserung der Markierung der 30 km/h Zone in der Görresstraße und regelmäßige Verkehrskontrollen (s. TOP C 2.1.1)
+- TOP 5.2.2.: Schreiben eines Architekturbüros aus der Maxvorstadt vom 04.12.2012 Bauvorhaben Elisenhof, Fahrradständer im Parkstreifen (s. TOP C 2.1.2)
+- TOP 5.2.3.: Schriftliche Anfrage eines Bürgers aus der Maxvorstadt zum Anwesen Schönfeldstraße 30, Rgb. und Antwortschreiben des Referates für Stadtplanung und Bauordnung (LBK) vom 10.12.2012
+- TOP 5.2.4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 19.12.2012 Bedarfsampel Schelling-/Schwindstraße, Rot/Gelbampel an der Schleißheimer-/Maßmann-/ Schellingstraße (s. TOP C 2.1.8)
+- TOP 5.2.5.: Schreiben einer Bürgervereinigung aus der Maxvorstadt vom 20.12.2012 Anwohnertiefgarage Josephsplatz, Einwohnerversammlung, Baustopp (s. TOP B 2.1.10)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 48., 49., 50., 1.KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 50. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Katharina-von-Bora-Straße 5 ? 7, Neubau eines Verwaltungsgebäudes
+- TOP 2.1.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Die Stadt wird aufgefordert, alle notwendigen Maßnahmen zum Mieterschutz einzuleiten Empfehlung Nr. 08-14 / E 01530 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt vom 18.10.2012
+- TOP 2.1.5.: Schriftliche Anfrage eines Bürgers aus der Maxvorstadt zum Anwesen Schönfeldstraße 30, Rgb. und Antwortschreiben des Referates für Stadtplanung und Bauordnung (LBK) vom 10.12.2012 (s. TOP A 5.2.3)
+- TOP 2.1.6.: Steinheilstraße 11, Abbruch und Neubau eines Mehrfamilienhauses - Vorbescheid
+- TOP 2.1.7.: Theresienstraße 1 ? 5, Neubau eines Büro- und Geschäftshauses mit zweigeschossiger Tiefgarage
+- TOP 2.1.8.: Barer Straße 33, Neubau eines Mehrfamilienhauses mit Tiefgarage (Heßstraße 2 b) und Umbau des Rückgebäudes Barer Straße 33 zum Wohnhaus - Vorbescheid
+- TOP 2.1.9.: Vollzug der Baumschutzverordnung Linprunstraße 52, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 2.1.10.: Schreiben einer Bürgervereinigung aus der Maxvorstadt vom 20.12.2012 Anwohnertiefgarage Josephsplatz, Einwohnerversammlung, Baustopp (s. TOP A 5.2.5)
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Antrag auf fachliche Begutachtung der öffentlichen Frei- und Grünflächen im Arnulfpark
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben einer Bürgerin vom 27.11.2012 Verbesserung der Markierung der 30 km/h Zone in der Görresstraße und regelmäßige Verkehrskontrollen (s. TOP A 5.2.1)
+- TOP 2.1.2.: Schreiben eines Architekturbüros aus der Maxvorstadt vom 04.12.2012 Bauvorhaben Elisenhof, Fahrradständer im Parkstreifen (s. TOP A 5.2.2)
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Austausch der Lichtzeichenanlage Mars-/Seidlstraße, Änderungswünsche
+- TOP 2.1.4.: Anregung eines Bürgers aus der BA-Sitzung vom 11.12.2012 Beschränkung der Veranstaltungen auf dem Wittelsbacherplatz auf vier bis sechs Wochen- enden im Jahr (TOP 5.1/1212)
+- TOP 2.1.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Antwortschreiben Einrichtung von Fahrradstraßen BA-Antrag Nr. 08-14 / B 02527 vom 15.11.2010
+- TOP 2.1.6.: Zeitgemäße Instandsetzung des Belages an der Kreuzung Schelingstraße/Türkenstraße
+- TOP 2.1.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 2.1.8.: Schreiben einer Bürgerin aus der Maxvorstadt vom 19.12.2012 Bedarfsampel Schelling-/Schwindstraße, Rot/Gelbampel an der Schleißheimer-/Maßmann-/ Schellingstraße
+- TOP 2.1.9.: (E) Wiedereinrichtung einer Ladezone vor dem Anwesen Schellingstraße 52 (Ziffer 2)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Sondernutzung Josef-Ruederer-Straße gegenüber Hausnr. 3, Obstverkaufsstand (Neuantrag) Die Antragsunterlagen liegen noch nicht vor, werden aber bis zur Sitzung nachgereicht.
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Planung der Einsätze der Münchner SommerspielAktion 2013, Platzvorschläge für 2013
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Durchführung des Holocaustgedenktages am 27.01.2012 und Antrag auf Budgetmittel aus der 20-Prozent-Pauschel in Höhe von maximal 1.000,00 ?.
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG), Anhörungsverfahren Schreiben des Planungsreferates an die Regierung von Oberbayern vom 28.11.2012
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Hinweis, Ergänzung Demografiebericht München ? Teil 1, Analyse und Bevölkerungsprognose 2011 bis 2030 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 10686
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Baugenehmigung Wittelsbacherplatz 4, Baugrubenumschließung und Errichtung einer Schallschutzwand für die Zeit der Baumaßnahme (Abbruch und Neubau Siemens SHQ)
+- TOP 1.4.: Baureferat, Tiefbau Weiterführung der Zusatzfinanzierung für den Straßenunterhalt Sonderprogramm zur Sanierung der Münchner Straßen Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 Sitzungsvorlage Nr. 08-14 / V 09714
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Novellierung der Baumschutzverordnung (BaumschutzV) 6. Änderungsantrag der Stadtratsfraktion der CSU vom 28.11.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.2012 Sitzungsvorlage Nr. 08-14 / V 10503
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutz- programmes 2010 ? 2012 vom Referat für Stadtplanung und Bauordnung zu verantworten- den Aktivitäten Beschluss der Vollversammlung des Stadtrates vom 12.12.2012 Sitzungsvorlage Nr. 08-14 / V 09670
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Abdruck der Gerichtsentscheidungen zur beantragten Nutzungsänderung eines Ladens in eine Spielhalle in der Rosenheimer Straße 81
+- TOP 1.8.: Baureferat Gartenbau Unterrichtung über das Fällen von Gefahrenbäumen auf dem Alten Nördlichen Friedhof
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Novellierung der Baumschutzverordnung (BaumschutzV) 7. Änderungsantrag der Stadtratsfraktion Die Grünen/RL vom 12.12.2012 Beschluss der Vollversammlung vom 19.12.2012
+- TOP 1.10.: Direktorium Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Beziksausschüsse zur beantragten Satzungsänderung Antrag Nr. 08-14 / B 03805 des BA 5 vom 21.03.2012
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Sachstandsanfrage zum BA-Antrag Nr. 02527 des BA 3 vom 15.11.2010; Wurden folgende Straßen auf ihre Eignung als Fahrradstraße geprüft: Adalbertstraße in voller Länge und Veterinärstraße als Fortsetzung der West/Ost Radwegverbindung in den Englischen Garten
+- TOP 2.2.: Referat für Stadtplanung und Bauordnung und Kreisverwaltungsreferat, Beschlussvorlage Parkraummanagement in München ? Fortschreibung Umsetzungskonzept Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.2012 Sitzungsvorlage Nr. 08-14 / V 07773
+- TOP 2.3.: Kreisverwaltungsreferat Antrag auf Erweiterung der Freischankfläche vor dem ?Dinatale Café? in der Veterinär- straße 4 Entscheidung des Oberbürgermeisters vom 10.12.2012
+- TOP 2.4.: Reduzierung der Veranstaltungen im Innenstadtbereich Antrag des Bezirksausschusses 1 Altstadt-Lehel vom 04.12.2012
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsanordnungen Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich der Richard-Wagner-Straße 27
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsanordnungen Anordnung eines absoluten Haltverbotes im Bereich der Feuerwehrzufahrt Erika-Mann-Straße 56
+- TOP 2.7.: Baureferat Tiefbau, Straßenunterhalt und -betrieb Blutenburgstraße: Sanierung der Aufpflasterungen mit Granitgroß- und -kleinsteinpflaster
+- TOP 2.8.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Amalienstraße 89: Nutzungsänderung Laden zu Sushi-Bar mit 38 Gastplätzen und einem Wirtsgarten mit 28 Gastplätzen Abdruck eines Schreiben der Betreiber vom 24.11.2012 und eines Urteils des Landgerichts München II
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Konzertveranstaltungen auf dem Königsplatz 2013, Vorschau
+- TOP 2.10.: Kreisverwaltungsreferat, Verkehrsmanagement Hackerbrücke wird Fahrradstraße, Antrag Nr. 08-14 / B 04169 des BA 2 Ludwigsvorstadt- Isarvorstadt vom 31.07.2012
+- TOP 3.1.: Direktorium, Beschlussvorlage Kinder entscheiden in ihrem Stadtteil Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion Die Grünen ? Rosa Liste vom 09.09.2011 Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 Sitzungsvorlage Nr. 08-14 / V 10288
+- TOP 3.2.: Sozialreferat Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-Mün chen), Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000,00 ? Sitzungsvorlage Nr. 08-14 / V 10764
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Direktorium Budget der Bezirksausschüsse ? Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
