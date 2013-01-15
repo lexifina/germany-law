@@ -1,0 +1,6 @@
+# TOP 5: Antrag zum barrierefreien Ausbau der Kirchherrngasse
+
+- Sitzung: Sitzung (2013-01-15)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/123609
