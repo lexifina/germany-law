@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839047
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839047
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Ausweitung des Parkraummanagements über den Ring hinaus (südlich des Candidplatzes, Schönstraße bis zum Tierpark) - vertagt aus der Sitzung vom 20.11.12 - <div>nach Antrag</div>
+- TOP 2.2.: Einrichtung einer Parkzone für Anwohner rund um den Tierpark - vertagt aus der Sitzung vom 20.11.12 - <div>nach Antrag</div>
+- TOP 2.3.: Planung eines Parkhauses an der Siebenbrunner Straße - vertagt aus der Sitzung vom 20.11.12
+- TOP 2.4.: Parkhaus am Candidplatz zur Verbesserung der Parkplatzsituation - vertagt aus der Sitzung vom 20.11.12
+- TOP 2.5.: Tiefgarage am Candidplatz und Tageslizenzen für das Lizenzgebiet - vertagt aus der Sitzung vom 20.11.12
+- TOP 2.6.: Untersuchungen zum Verkehrsaufkommen / zur Verkehrssituation rund um den Tierpark Hellabrunn; Antrag der SPD-Fraktion vom 19.11.12 (vertagt aus der Sitzung vom 20.11.12) - <div>nach Antrag</div>
+- TOP 2.7.: Die LHM wird aufgefordert, dem BA 18 Pläne zu unterbreiten, wie die Parkraumsituation zu Spitzenzeiten rund um den Tierpark verbessert werden könnte; BA-Antrag Nr. 08-14 / B 04055 vom 19.06.12; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 15.10.12 (vertagt aus der Sitzung vom 20.11.12)
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Budget der Bezirksausschüsse - Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der LHM (BA-Satzung); Schreiben des Direktoriums vom 20.12.2012
+- TOP 3.3.2: UA Verkehr
+- TOP 1: Errichtung eines Verkehrsspiegels an der Einmündung Nithartstraße in die Schönstraße; Empfehlung Nr. 08-14 / E 01566 der BÜV des 18. Stadtbezirkes vom 08.11.12; Sitzungsvorlage Nr. 08-14 / V 10991; Beschluss des BA 18 vom 15.01.2013
+- TOP 2: Sanierung der Rabenkopfstraße zwischen Meichelbeckstraße und Holzkirchner Straße; Empfehlung Nr. 08-14 / E 01564 der BÜV des 18. Stadtbezirkes vom 08.11.12; Sitzungsvorlage Nr. 08-14 / V 10989; Beschluss des BA 18 vom 15.01.13 - <div>nach Antrag</div>
+- TOP 3: Behebung der Rechtschreibfehler in den Parkscheinautomaten Agilofingerstraße; Empfehlung Nr. 08-14 / E 01568 der BÜV des 18. Stadtbezirkes vom 08.11.12; Sitzungsvorlage Nr. 08-14 / V 10990; Beschluss des BA 18 vom 15.01.13 - <div>nach Antrag</div>
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm 2013; Zuleitung des KVR vom 14.12.12 mit der Bitte um Stellungnahme bis 15.02.13
+- TOP 3.1.: Claude-Lorrain-Straße - Verengung der Fahrbahn in der Bahnunterführung am Hans-Mielich Platz; BA-Antrag Nr. 08-14 / B 04235 vom 18.09.12; Antwortschreiben des Baureferats-Tiefbau vom 11.12.12 (positive Erledigung)
+- TOP 3.2.: Beleuchtung für den Fuß- und Radweg zwischen Rotbuchenstraße und Am Hohen Weg; Empfehlung Nr. 08-14 / E 00933 der BÜV des 18. Stadtbezirks vom 28.10.10; Beschluss des BA 18 vom 19.07.12; Antwortschreiben des Oberbürgermeisters vom 10.12.12 (negative Erledigung)
+- TOP 3.3.: Verengung der Fahrbahn in der Teutoburger Straße / Sachsenstraße in der Bahnunterführung an der Braunauer Eisenbahnbrücke; BA-Antrag Nr. 08-14 / B 4308 vom 16.10.12; Antwortschreiben des Baureferats vom 11.12.12 (negative Erledigung)
+- TOP 3.4.: Hans-Mielich-Str. 14 - Umwandlung eines Parkplatzes in eine temporären Fahrradabstellplatz; BA-Antrag Nr. 08-14 / B 03789 vom 20.03.12 und Einrichtung dauerhafter Fahrradständer in der Hans-Mielich-Straße; Änderungsantrag zu BA-Antrag Nr. 03853 vom 17.04.12; Nachfrage des BA 18 aus der Sitzung vom 21.08.12; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 19.12.12 (negative Erledigung)
+- TOP 3.5.: Hans-Mielich-Straße; Umgestaltung und Umsetzung der Tempo-30-Zone; Stellungnahme des BA 18 vom 23.11.12 zum Antwortschreiben des Baureferats zu den BA-Anträgen Nr. 08-14 / B 04204, 08-14 / B 04203 und 08-14 / B 04234; 2. Antwortschreiben des Baureferats vom 20.12.2012 (neutrale Erledigung)
+- TOP 3.1.: Vollzug des Allg. Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 VwVfG; Lärmsanierung an Schienenwegen des Bundes; Strecke 5510 München Hbf. - Rosenheim, Ortsdurchfahrt München - Untergiesing, km 6,480 bis km 7,580; Stadtbezirke Au-Haidhausen und Untergiesing-Harlaching - Erwiderung der Vorhabenträgerin vom 29.03.12; Schreiben des Referats für Stadtpl. u. Bauordnung vom 04.12.12 an das Eisenbahn-Bundesamt sowie die DB ProjektBau GmbH
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Novellierung der Baumschutzverordnung (BaumschutzV); Sitzungsvorlagen Nr. 08-14/V 10503; 7. Änderungsantrag der Stadtratsfraktion Die Grünen/RL vom 12.12.2012; Beschluss der Vollversammlung des Stadtrates vom 19.12.12
+- TOP 3.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung / Landschaftsschutzverordnung; Unterrichtung des Baureferats vom 14.12.12 über das Fällen von Gefahrenbäumen
+- TOP 3.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.3.1 Karneidplatz 12; Genehmigungsbescheid vom 28.12.12
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2013; Schreiben der Pädagogischen Aktion/Spielen in der Stadt e.V. vom 04.12.12 mit der Bitte um Nennung von Platzvorschlägen bis Mitte Februar 2013
+- TOP 3.1.: Aufstockung der regelmäßigen Zuwendungen für Kultur- u. Spielraum e.V. (Mini-München); Produkt 60 3.1.1 (Kinder- u. Jugendarbeit); Höhe der regelmäßigen jährlichen Aufstockung 62.000,- ?; Sitzungsvorlage Nr. 08-14 / V 10764; Beschluss des Kinder- u. Jugendhilfeausschusses vom 08.01.2013 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Neubau der Dreifach-Turnhalle am Theodolinden-Gymnasium ohne Tribüne; Begrenzung der Zuschauerzahlen für außerschulische Veranstaltungen und Parkraummanagement für den gesamten Bereich zwischen Hollerbusch, Eschenstraße, Soyerhofstraße und Rotbuchenstraße; Antrag des Aktionsbündnisses TLG vom 16.11.12 (vertagt aus der Sitzung vom 20.11.12 u. 18.12.12) zu 3.5.3.1 Schreiben des Aktionsbündnisses TLG an Frau Bürgermeisterin Strobl vom 26.11.12; Antwortschreiben der Bürgermeisterin vom 27.11.12 und Auslastung / zukünftige Nutzung der Dreifachsporthalle; Auswirkungen auf die Verkehrs- u. Parkplatzsituation im Umfeld; BÜV-Anfrage Nr. 08-14 / Q 00429 vom 08.11.12; Antwortschreiben des RBS vom 03.12.12 (vertagt aus der Sitzung vom 18.12.12) - <div>nach Antrag</div>
+- TOP 3.1.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer; Zuleitung des AWM mit der Bitte um Stellungnahme zu folgenden Standorten: Agilolfingerstraße / Teutoburger Straße, Athener Platz / Säckingenstraße, Friedrich-Ebert-Straße / Oberbibergerstraße, Fromundstraße / Gufidauner Straße, Griechenplatz / Griechenstraße, Harlachinger Straße schräg gegenüber 1a, Harthauser Straße / Waldschmidtstraße, Lebscheestraße Ende, Mangfallplatz / Akeleistraße, Pilgersheimer Straße / Kupferhammerstraße, Säbener Straße, Kuntersweg, Schönstraße / Wilhelm-Kuhnert-Straße, Schyrenstraße / Claude-Lorrain-Straße (vertagt aus der Sitzung vom 20.11.12 u. 18.12.12 - siehe auch TOP 2.2.1.1) zu TOP 3.5.4.3 Schreiben des AWM vom 11.12.12 (vertagt aus der Sitzung vom 18.12.12)
+- TOP 3.2.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung; BA-Antrag Nr. 08-14 / B 03805 des BA 5 - Au-Haidhausen - vom 21.03.12; Schreiben des Direktoriums vom 18.12.12 mit der Bitte um Stellungnahme
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Grünwalder Str. 255; Energetische Sanierung u. Umbau eines Reiheneckhauses; Anhörung vom 14.12.12 (vertagt aus der Sitzung vom 18.12.12)
+- TOP 3.2.: Am Staudengarten 2, Abbruch der Sporthallen sowie Neubau einer Dreifach-Turnhalle (Städt. Theodolinden-Gymnasium); Anhörung vom 09.11.12 (vertagt aus der Sitzung vom 20.11.12 und 18.12.12)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Grünwalder Str. 255; Anhörung vom 11.12.12 (vertagt aus der Sitzung vom 18.12.12)
+- TOP 3.2.: Gesellschafterbeschluss zum Erhalt der Heimag-Siedlung; BA-Antrag Nr. 08-14 / B 04198 der CSU-Fraktion und der FDP-Fraktion vom 21.08.12 und 1. Erhalt der Heimag-Siedlung - Sanierung ohne Abriss 2. Erhaltungssatzung für den Bereich Mangfallplatz - Gewofag-Siedlung und den Bereich zwischen Naupliastraße, Vollmarpark und Säbener Straße - Heimag-Siedlung; BA-Antrag Nr. 08-14 / B 04199 vom 21.08.12 (neutrale bzw. negative Erledigung)
+- TOP 3.4.: Der Bezirksausschuss fordert die LHM auf, die bestehende Beschlusslage zur Ablehnung der Einrichtung einer Tribüne mit 300 Tribünenplätzen in der neuen Turnhalle des Theodolinden-Gymnasiums umzusetzen; BA-Antrag Nr. 08-14 / B 04114 des BA 18 vom 17.07.12; Sitzungsvorlage Nr. 08-14 / V 10279; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 05.12.12 (SB) - negative Erledigung (vertagt aus der Sitzung vom 18.12.12)
+- TOP 3.5.: Erhaltungssatzung für das Gebiet um den Wettersteinplatz; Antrag des BA 18 vom Mai 2011; Antwortschreiben des Referats für Stadtpl. u. Bauordnung 03.12.12 (negative Erledigung)
+- TOP 3.6.: Verbleib des Obst- und Gemüsestands Ecke Nauplia-/St.-Magnus-Str. an seinem Standort auch über Nacht; Beschluss des BA 18 vom 16.10.12; Antwortschreiben der BI Süd vom 09.11.12 und Antwortschreiben der BI Süd zur BÜV-Anfrage Nr. 08-14 / Q 00428 vom 08.11.12 vom 03.12.12 (negative Erledigung ? vertagt aus der Sitzung vom 18.12.12)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung des Sozialreferats nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Benediktenwandstraße; Mitteilung vom 04.12.12 3.5.6.2.2 Stadelbergstraße; Mitteilung vom 05.12.12
+- TOP 3.3.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung u. Bauordnung zu verantwortenden Aktivitäten; Sitzungsvorlagen Nr. 08-14 / V 09670; 4. Änderungsantrag der Stadtratsfraktion der SPD und Die Grünen - rosa liste vom 28.11.12; Beschluss der Vollversammlung des Stadtrats vom 12.12.12
+- TOP 3.4.: Mitteilung über ein Grundstücksgeschäft (Kauf); Flst. 12869/139 Sektion VII, Lindenstraße 12 b; Zuleitung des Kommunalreferats vom 18.12.12
+- TOP 3.5.: Mitteilung über ein Grundstücksgeschäft (Übertragung im Wege der Veräußerung stadteigener Flächen - Übertragung der ehemaligen Klinikwohnungen); Flst. 12871/361; Zuleitung des Kommunalreferats vom 18.12.12
+- TOP 3.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.6.1 SSW "Cafe Sportbar", Waltramstraße 1; Mitteilung vom 21.12.12
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Keine Schließung der Toilettenanlage am U-Bahnhof Kolumbusplatz; BA-Antrag Nr. 08-14 / B 04211 vom 21.08.12; Nachfrage des BA 18 vom 23.11.12 zum Antwortschreiben des Kommunalreferats vom 10.10.12; 2. Antwortschreiben des Kommunalreferats vom 18.12.12 (negative Erledigung)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Haushaltsplan 2013 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 10751; Beschluss des Finanzausschusses vom 18.12.2012 (VB) - (Die Anlagen zum Haushaltsplan können in der BA-Geschäftsstelle Ost eingesehen werden.)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
