@@ -1,0 +1,86 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-01-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2861324
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2861324
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Überwachung der Geschwindigkeitsbeschränkung in der Bahnunterführung Allacher Straße, BV-Empf. 1394 vom 19.06.12
+- TOP 2.2.2.: Bauvorhaben auf Krauss-Maffei-Gelände
+- TOP 2.2.3.: Lichtzeichenanlage Eversbuschstraße / Paul-Ehrlich-Weg
+- TOP 3: Anträge
+- TOP 3.1.: Erneuerung der Fahrbahndecke des Dittmannweges in gleicher Weise wie die der Rudorffstraße
+- TOP 4: Entscheidungen
+- TOP 1: (E) Fahrbahnbelag und Straßenbeleuchtung in der Servetstraße erneuern bzw. ergänzen sowie Rückschnitt von Bäumen und Sträuchern (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 01374 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 19.06.2012
+- TOP 2: (E) Behebung der Gefahrensituation Allacher Straße / Ecke Zwiedineckstraße
+- TOP 5: Anhörungen
+- TOP 5.1.: Verschwenkung der Eversbuschstraße ab Allacher Straße nach Westen (Ziffer 7 des Antrags) BV-Empf. 1384 vom 19.06.12
+- TOP 5.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Neubau der Paulaner Brauerei in Langwied - Hanfgartenstraße / Antrag auf immissionsschutzrechtliche Genehmigung vom 11.1212
+- TOP 5.3.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung
+- TOP 5.4.: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 5.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Lauthstraße
+- TOP 5.6.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) i.V.m. § 76 Abs. 1 VwVfG für den Planungsabschnitt 82 M (Bereich München) der Ausbaustrecke Ingolstadt - München; Planergänzung zur Auflösung der vorbehaltenen Entscheidung zum Schutz vor Erschütterungen und sekundärem Luftschall / Anhörungsverfahren
+- TOP 5.7.: Nutzungsänderung der zwei Bahnbrücken über die Otto-Warburg-Straße (Empfehlung Nr. 08-14 / E 01383 der Bürgerversammlung vom 19.06.12)
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Bauausschusses vom 20.11.12: Mehrjahresinvestitionsprogramm für die Jahre 2012-1016 mit verbindlicher Planung für 2017; Entwurf für das Baureferat (Sitzungsvorlage Nr. 10607)
+- TOP 6.2.: Beschluss der Vollversammlung vom 28.11.12: a) Kinder entscheiden in ihrem Stadtteil (Sitzungsvorlage Nr. 10288) b) Erinnerungsorte München (Sitzungsvorlage Nr. 10578) c) Novellierung der Baumschutzverordnung (Sitzungsvorlage Nr. 10503) d) Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten ( Sitzungsvorlage Nr. 9670) e) Weiterführung der Zusatzfinanzierung für den Straßenunterhalt ( Sitzungsvorlage Nr. 9714) f) Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 10344)
+- TOP 6.3.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.12: Parkraummanagement in München - Fortschreibung des Umsetzungskonzeptes
+- TOP 6.4.: Beschluss der Vollversammlung vom 12.12.12: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (Sitzungsvorlage Nr. 9670)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.12: Novellierung der Baumschutzverordnung (Sitzungsvorlage Nr. 10503)
+- TOP 6.6.: Beschluss der Vollversammlung des Stadtrates vom 19.12.12: a) Novellierung der Baumschutzverordnung (Sitzungsvorlage Nr. 10503) b) Haushaltsplan 2013 (Sitzungsvorlage Nr. 10751)
+- TOP 6.7.: Beschluss des Kinder-und Jugendhilfeausschusses vom 08.01.13: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München), Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000 Euro (Sitzungsvorlage Nr. 08-14 / V 10764)
+- TOP 7: Verschiedenes
+- TOP 7.1.: BA-Schaukasten Kreuzung Vogelloh / Zum Schwabenbächl
+- TOP 7.2.: "Kinderorte im Stadtteil sichtbar machen" 2013
+- TOP 7.3.: Planungen der Einsätze der Münchner Sommer SpielAktion 2013
+- TOP 7.4.: Einverständniserklärung für die Sportanlagenbelegungsanzeige im Internet
+- TOP 7.5.: Informationsaustausch im Kommunalreferat am 07.03.2013, ab 18:00 Uhr
+- TOP 7.6.: Workshop zur Verkehrssituation in Allach-Untermenzing
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Bürgermeisterin Christine Strobl vom 04.12.12: Treffen der Bezirksausschussvorsitzenden am 20.06.12
+- TOP 8.2.: Schreiben Direktorium vom 17.12.12: Zuwendungsbewilligung, Antragst. Pfarrei Maria Himmelfahrt
+- TOP 8.3.: Schreiben Direktorium vom 20.12.12: Budget der Bezirksausschüsse - Änderungen im Rahmen des §10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 13.12.12: Nachtrag Anhörung Faschingsumzug Pfarrei Maria Himmelfahrt am 12.02.13
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 20.12.12: Drehgenehmigung Aktenzeichen XY
+- TOP 8.6.: Schreiben Baureferat: Bauprogramm 2012 zur Realisierung von Kinderbetreuungsplätzen Neubau einer dreigruppigen Kinderkrippe, Lauthstraße im 23. Stadtbezirk Allach / Untermenzing
+- TOP 8.7.: Schreiben Stadtwerke München vom 10.12.12, 17.12.12: Baumaßnahmen
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.12.12: Bauvorhaben Von-Reuter-Str. 1a, Bautafel
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (03.12.-09.12.12, 10.12.-16.12.12, 17.12.-23.12.12)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung: Fällungsanträge: Lechelstr. 86, Angerlohstr. 6, Am Fesenacker 5, Ganzenmüllerstr. 50, Herbigstr. 16a
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Hubert-Beckers-Str., Finsterwalderstr. 24
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung, Einzelfällungsanträge: Behringstr. 78
+- TOP 8.13.: Schreiben Referat für Gesundheit und Umwelt vom 12.12.12: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 19.12.12: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Antrag auf Änderungsgenehmigung vom 22.10.12 gem. § 16 BImSchG (Bundes-Immissionsschutzgesetz) zur Erweiterung dr Lager-, Durchsatz- und Behandlungsmengen der Fa. Süderde GmbH, Lochhausener Str. 67, 81249 München
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 20.12.12: Wirtschafts-Info 12/2012
+- TOP 8.16.: Schreiben BA 21 Pasing-Obermenzing vom 11.12.12: Ist-Zustand des Verkehrs auf der A 8 zwischen Kreuz München West und Autobahnkreisel sowie in der Umgebung (Antrag Nr. 4448 des BA 21 vom 04.12.12)
+- TOP 8.17.: Schreiben Selbsthilfezentrum München vom 11.12.12: Münchner Selbsthilfejournal einBlick 4/2012
+- TOP 8.18.: Schreiben Verein zur Förderung der Jugendarbeit der Pfarrei Maria Himmelfahrt e.V. vom 21.12.12: Kurzbericht über Budgetzuschuss zur Renovierungsmaßnahme zur Beseitigung des Wasserschadens im Keller des Jugendheims
+- TOP 9: Nachtrag
+- TOP 9.1.: Anhörungen: Erinnerungsverfahren Helferichstr. 24 bis Haus Nr. 34
+- TOP 9.2.: Erinnerungsverfahren Eversbuschstraße 127
+- TOP 9.3.: Erinnerungsverfahren Stieglstr. 2-80
+- TOP 9.4.: Umlauf: Schreiben Baureferat vom 03.01.2013: Parkplatznot Willstätterstraße, Ecke Eversbuschstraße
+- TOP 9.5.: Schreiben Baureferat vom 07.01.13: Parkbänke auf ehem. Autobahndamm Allach-Untermenzing
+- TOP 9.6.: Schreiben Autobahndirektion Südbayern vom 09.01.13: Parkbänke auf ehem. Autobahndamm Allach-Untermenzing
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.01.13: Bauanträge (24.12.-30.12.12)
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung : Vollzug der Baumschutzverordnung, Einzelfällungsanträge: Eversbuschstr. 245, Auenbruggerstr. 92
+- TOP 9.9.: Schreiben Direktorium vom 08.01.13 und 09.01.13: Budget der Bezirksausschüsse - Änderung im Rahmen des § 10 Bezirksausschuss-Satzung
+- TOP 9.10.: Schreiben Abfallwirtschaftsbetrieb München vom 08.01.13: AWM Alttextiliensammlung
+- TOP 9.11.: Schreiben Kulturreferat vom 07.01.13: Veranstaltungen / Kooperationen Januar 2013
+- TOP 9.12.: Verschiedenes: Veranstaltung "Muslime als Bedrohung? Gruppenbezogene Menschenfeindlichkeit bei Rechtsextremisten und Rechtspopulisten" am 21.01.13, 19:00 Uhr
+- TOP 9.13.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 07.11.2012: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West (Sitzungsvorlage Nr. 10362)
+- TOP 9.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013: a) Hinweis/Ergänzung: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 10344) b) Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städt. Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung (Sitzungsvorlage Nr. 10999)
