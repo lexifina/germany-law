@@ -1,0 +1,111 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2013-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Zustand der Fußgängerunterführung Bodensee-/Limesstraße
+- TOP 2.2.: Anbringung von Pfeilen für Linksabbieger an der Stockacher Straße
+- TOP 2.3.: Gefahrenzone Ubostr. 3 / Kindergarten St. Quirin
+- TOP 2.4.: Betreutes Wohnen der AWO in Aubing
+- TOP 2.5.: Zufahrtsregelung Privatweg Thuisbrunner Straße nach Osten, Richtung Überlinger Weg
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Aubing-Ost-Str. 20 - Wiesentfelser Str. 49-51 - Altostr. 122 - Lochhausener Str. 250 - Papinstraße - Sigererstr. 3b
+- TOP 3.2.: Baumfällungen zu Bauvorhaben:
+- TOP 3.3.: Fällungsgenehmigungen: - Leienfelsstr. 43 - Pretzfelder Str. 45 - Wiesentfelser Str. 49
+- TOP 3.4.: Ablehnungsbescheid für Baumfällung: - Eichelhäherstr. 64
+- TOP 3.5.: Fällen von Gefahrenbäume: Langwieder Hauptstraße, Schr. Baureferat vom 28.11.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 3.3.7: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Finanzierung Kinderball 2012
+- TOP 4.2.: Ampelanlage zur Querung an der Kreuzung Bodenseestraße / Aufseßer Platz und Zufahrt zu Netto und Rossmann
+- TOP 4.3.: Defekte Treppenstufen zu Edeka-Einkaufsmarkt
+- TOP 4.4.: Postbankdienste
+- TOP 4.5.: Müllcontainer - verstreuter Plastikabfall
+- TOP 4.6.: Anfrage: Autohandel im Georg-Böhmer-Weg
+- TOP 4.7.: Info-Veranstaltung für den 22. Stadtbezirk zur Änderung der Konzeption "Betreutes Wohnen"
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse: buntkicktgut IG e.V. - Teilnahme an der buntkicktgut-Straßenfußballliga ab Januar 2013 bis März 2014
+- TOP 5.2.: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Taxistandplatz Clarita-Bernhard-Straße: Neueinrichtung
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Platzvorschläge für Spielbuseinsätze der Münchner Sommer SpielAktion 2013, Schr. Münchner SpielAktion vom 04.12.12
+- TOP 6.1.: Betreutes Wohnen der AWO in Aubing - Anfrage der CSU-Stadtratsfraktion, Schr. Direktorium vom 12.12.12
+- TOP 6.2.: Erinnerungsorte München, Schr. Kulturreferat vom 23.11.12
+- TOP 6.3.: Drehgenehmigung für die Produktion "Aktenzeichen XY...ungelöst" im gesamten Stadtgebiet München vom 01.01.13-31.12.13, Schr. KVR vom 20.12.12
+- TOP 6.4.: Protokoll zum 12. Informations- und Arbeitstreffen zur Stadtteilkultur im Kulturzentrum 2411 am 05.11.12, Schr. Kulturreferat vom 17.12.12
+- TOP 6.5.: Neubau der 5-zügigen Grundschule Freiham II (Mitte) am Quartierszentrum (Nähe Wiesentfelser Straße) mit Räumen für ganztägige Betreuung sowie einer Zweifachsporthalle und Freisportanlagen und eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen im Siedlungsgebiet Freiham-Nord - vorläufige Genehmigung der Nutzerbedarfsprogramme und Vorplanungsauftrag, Schr. RBS vom 23.11.12
+- TOP 6.6.: Veranstaltungen/Kooperationen im Januar 2013, Schr. Kulturreferat vom 07.01.13
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Budgetmittel der Bezirksausschüsse: Ablehnung einer beantragten Zuwendung; Verein Aubinger Archiv e.V, Schr. Direktorium vom 18.12.12
+- TOP 6.2.: Budgetmittel der Bezirksausschüsse: Ablehnung einer beantragten Zuwendung; Verein Freunde Freihams e.V., Schr. Direktorium vom 18.12.12
+- TOP 6.3.: Budget der Bezirksausschüsse - Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der LHM (Bezirksausschuss-Satzung), Schr. Direktorium vom 20.12.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Freiham - Öffentliche Grün- und Ausgleichflächen, Bebauungsplan mit Grünordnung Nr. 1916a; Bauteil 2: Ausgleichflächen - Gewerbegebiet Freiham Süd, Anhörung Baureferat vom 03.01.13
+- TOP 6.1.: Neubau der 5-zügigen Grundschule Freiham II (Mitte) am Quartierszentrum (Nähe Wiesentfelser Straße) mit Räumen für ganztägige Betreuung sowie einer Zweifachsporthalle und Freisportanlagen und eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen im Siedlungsgebiet Freiham Nord - vorläufige Genehemigung der Nutzerbedarfsprogramme und Vorplanungsauftrag, Schr. RBS vom 23.11.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Plangenehmigung für den Rückbau eines 15 kV-Gebäudes in München-Aubing, Varnhagenstr. 43, Bahnstrecke 5520 München-Pasing-Buchloe, Anhörung Planungsreferat vom 06.12.12 (vertagt aus 12/12)
+- TOP 6.2.: Hanfgartenstraße - Neubau GIL-Tunnel mit Zugangsgebäuden, Anhörung Planungsreferat vom 05.12.12 (vertagt aus 12/12)
+- TOP 6.3.: Mobilfunk: Suchkreismeldung im Suchkreis Westkreuz, Planung eines neuen UMTS_Mobilfunkstandorts, Anhörung RGU vom 03.12.12 (vertagt aus 12/12)
+- TOP 6.4.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung, Anhörung Direktorium vom 18.12.12
+- TOP 6.5.: Ertelhofweg - Neubau einer landwirtschaftlichen Bergehalle , Anhörung Planungsreferat vom 12.12.12
+- TOP 6.6.: Bergsonstr. 115 - Genehmigung des provisorischen Flohmarkts befristet bis zum 31.12.14, Anhörung Planungsreferat vom 13.12.12
+- TOP 6.7.: Lochhausener Str. 201 - Neubau eines Gewerbeparks, Anhörung Planungsreferat vom 13.12.12
+- TOP 6.8.: Lichtzeichenanlagen-Bauprogramm 2013, Anhörung KVR vom 14.12.12
+- TOP 6.9.: Vollzug des Bundes-Immissionschutzgesetzes (BImSchG); Neubau der Paulaner Brauerei in Langwied - Hanfgartenstraße / Antrag auf immissionsschutzrechtliche Genehmigung vom 11.12.12, Anhörung Referat für Gesundheit und Umwelt vom 18.12.12
+- TOP 6.10.: Freiham - Öffentliche Grün- und Ausgleichsflächen, Bebauungsplan mit Grünordnung Nr. 1916a; Bauteil 2: Ausgleichsflächen - Gewerbegebiet Freiham Süd, Anhörung Baureferat vom 03.01.13
+- TOP 6.1.: Baufällle im 22. Stadtbezirk (v.26.11.-02.12.12, 03.12.-09.12.12, 10.12.-16.12.12, 17.12.-23.12.12), Schr. Planungsreferat vom 04.12.12, 10.12.12, 17.12.12, 27.12.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag:03.12.12, 10.12.12, 17.12.12
+- TOP 6.3.: "Camper" auf dem Parkplatz des SV Aubing und Spielplatz Kastelburgstraße, Schr. KVR vom 03.12.12
+- TOP 6.4.: Gehwegverbesserung Eisdiele Limesstr. 122 und Aufweitung der Kurve Wiesentfelser Straße, Schr. Baureferat vom 05.12.12
+- TOP 6.5.: Wertstoffcontainer im 22. Stadtbezirk (Nachtrag zum BA-Antrag Nr. 4265/22.), Schr. Abfallwirtschaftsbetrieb München vom 06.12.12
+- TOP 6.6.: Herstellung eines Fußweges zwischen Lidel- und Altostraße, Schr. Baureferat vom 27.12.12 (BA-Antrag Nr. 3645/22.)
+- TOP 6.7.: Antrag auf Tempo 30 an der Kreuzung Scharinenbachstraße /Wichnantstraße, Schr. KVR vom 06.12.12
+- TOP 6.8.: Bauvorhaben Parsbergerstr. 27, Schr. Planungsreferat vom 13.12.12
+- TOP 6.9.: Gewerbegebiet Aubing (Bergsonstraße, Kronwinklerstraße, Kastelburgstraße) - Vergabe von Gewerbegrundstücken, Schr. Referat für Arbeit und Wirtschaft vom 17.12.12
+- TOP 6.10.: Mitteilung über ein Grundstücksgeschäft: Grunderwerb für P+R Flächen am Bahnhof Lochhausen, Schr. Kommunalreferat vom 10.12.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Bodenseestr. 198 - Nutzungsänderung: hinterer Grundstücksbereich zu Autoverkaufsplatz, befristet auf 2 Jahre, Anhörung Planungsreferat vom 07.01.13
+- TOP 7.2.: Änderung der BA-Satzung; Unterrichtungsrecht / Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen, Anhörung Direktorium vom 10.01.13
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Ankauf von Flächen durch die Bayer. Hausbau in Langwied, Schr. Bayer. Hausbau vom 11.12.12
+- TOP 8.2.: Wirtschafts-Info 11/2012 und 12/2012, Schr. Referat für Arbeit und Wirtschaft vom 29.11.12 und 20.12.12
+- TOP 8.3.: Newsletter Bauzentrum München Nr. 12/2012, Schr. RGU vom 27.12.12
+- TOP 8.4.: Unveränderte Fortführung des Gaststättenbetriebs: - "Zum Burenwirt", Altostr. 7, Schr. KVR vom 20.12.12 - "Autostüberl", Bodenseestr. 148, Schr. KVR vom 29.11.12
+- TOP 8.5.: Zweckentfremdung von Wohnraum: Hoflacher Straße, Schr. Sozialreferat vom 27.11.12
+- TOP 8.6.: Jahresgenehmigung für Reinigunsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München, Schr. RGU vom 12.12.12 und 20.12.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.13: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München)
+- TOP 10.2.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.12: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 10.3.: Beschluss des gemeinsamen Ausschusses des Verwaltungs-und Personalausschusses, des Ausschusses für Stadtplanung und Bauordnung und des Finanzausschusses vom 21.11.12: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligung für den Bereich des Referats für Stadtplanung und Bauordnung
+- TOP 10.4.: Beschluss der Vollversammlung des Stadtrates vom 28.11.12 und 12.12.12: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (geänderter Beschluss)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.12 und der Vollversammlung des Stadtrates vom 19.12.12: Novellierung der Baumschutzverordnung (BaumschutzV)
+- TOP 10.6.: Beschluss der Kommunalausschusses vom 22.11.12: Mehrjahresinvestitionsprogramm 2012-2016; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 10.7.: Beschluss des Finanzausschusses vom 18.12.12 und der Vollversammlung am 19.12.12: Haushaltsplan 2013
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Ist-Zustand des Verkehrs auf der A 8 zwischen Kreuz München West und Autobahnkreisel sowie in der Umgebung - Antrag des BA 21 Nr. 08-14/B 04448 vom 04.12.12
+- TOP 11.2.: Einladung zum Informationsaustausch im Kommunalreferat am 07.03.13 ab 18 Uhr, Roßmarkt 3, Schr. Kommunalreferat vom 11.12.12
+- TOP 11.3.: Stunt- und Monstertruckschow am 05.08.12 auf dem Parkplatz des Praktiker-Baumarkts am Gleisdreieck in Neuaubing, Schr. der Anwohner Pfeivestlstraße
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
