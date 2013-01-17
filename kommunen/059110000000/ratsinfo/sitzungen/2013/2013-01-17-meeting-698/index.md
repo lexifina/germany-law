@@ -1,0 +1,62 @@
+# Bezirksvertretung Bochum-Mitte
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2013-01-17T15:00:00+01:00
+- Ende: 2013-01-17T15:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZfia5dMw8zVPgsyFVZ7r2k
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/698
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Bezirksvertretung Bochum-Mitte) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXZb-yaXdrd-3Q9z7p1Mj8CfR-7W2B2ENwdgGJZl2iq7/Einladung_Bezirksvertretung_Bochum-Mitte_17.01.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Bochum-Mitte) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW-bpZ_Gs1ivbQwarHmiO2bAgtg56G4q8BlJqDB8NTXR/Oeffentliche_Niederschrift_Bezirksvertretung_Bochum-Mitte_17.01.2013.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentlicher Teil
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Verkauf von städtischen bebauten und unbebauten Grundstücken hier: Ergänzung der Verkaufsliste - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Anhörungen
+- TOP 2.1: Gestaltungssatzung Nr. 482 Ga - Erste Änderungssatzung zur Satzung über örtliche Bauvorschriften für die Siedlung „Dahlhauser Heide„ in Bochum-Hordel - hier: a) Entscheidung über abgegebene Stellungnahmen b) Satzungsbeschluss - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 2.2: Bebauungsplan Nr. 830 - Herner Straße / Bulksmühle - hier: a) Entscheidung über eingegangene Stellungnahmen b) Satzungsbeschluss - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2.3: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen vom .02.2013 - Abstimmungsergebnis: Mehrheitlich gegen Beschlussvorschlag                                          
+- TOP 3: Vorschläge und Anregungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anträge
+- TOP 5.1: Brücke Wielandstraße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 5.2: Parkplatz Bergbaumuseum - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 5.3: Großdisco Nordring/Herner Straße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 5.4: Hotel Eden - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 5.5: Zuschussantrag der Wilbergschule hier: Präventionsprojekt "Mein Körper gehört mir" - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 5.6: Verkehrszeichen "Kinder" auf der Küppersstraße - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 6: Mitteilungen
+- TOP 6.1: Offenes Pflaster auf der Herderallee - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Zeitlich begrenztes Parken am Nordring - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Ampel an der Kreuzung Hunscheidtstraße/Friederikastraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Kortumstraße / Paketdienste - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Verkauf eines Grundstücks an der Castroper Straße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Graffitis / Farbschmierereien an städtischem bzw. privatem Eigentum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Oskar-Hoffmann-Straße Antrag zur Planänderung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Risiko Schulweg im Stadtbezirk Mitte - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Radfahrer / Bußgeldkatalog - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Bodenbelag auf der Kortumstraße zwischen Kunstmuseum und "Ring" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Neugestaltung der Kreuzung Bergstraße/Gudrunstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.12: Erinnerungstafeln zum jüdischen Leben in Bochum - Mitteilung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Verkehrsfluss Dorstener Straße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: 50 Jahre Deutsch-Französische Freundschaft / Städtepartnerschaften - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Erschütterungen im Bereich Berthastr./Neuflözstr./Sarnsbankstr./Heidackerstr./Wasserbankstr. - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentlicher Teil
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anhörungen
+- TOP 3.1: Verkauf eines städtischen Grundstücks an der Castroper Straße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Vorschläge und Anregungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Anträge
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Gestaltungssatzung 482 Ga - Erste Änderungssatzung zur Satzung über örtliche Bauvorschriften für die Siedlung „Dahlhauser Heide“ in Bochum-Hordel hier: Eingegangene Stellungnahmen der Öffentlichkeit - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
