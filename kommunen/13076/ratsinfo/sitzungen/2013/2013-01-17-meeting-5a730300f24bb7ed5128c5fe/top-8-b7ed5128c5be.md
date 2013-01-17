@@ -1,0 +1,8 @@
+# TOP 8: Beratung zur Personalkostenplanung für das Haushaltsjahr 2013 (wird nachgereicht)
+
+- Sitzung: Sitzung des Haushalts- und Finanzausschusses (2013-01-17)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730300f24bb7ed5128c5be
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730300f24bb7ed5128c5bb
