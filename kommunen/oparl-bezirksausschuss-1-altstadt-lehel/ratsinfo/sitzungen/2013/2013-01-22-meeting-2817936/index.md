@@ -1,0 +1,121 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-01-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2817936
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2817936
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Benennung von Beauftragten gegen Rechtsextremismus
+- TOP .2.: NACHTRAG: Benennung des BA-Vertreters im Mieterbeirat der Landeshauptstadt München
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Weinstraße 1: Neubau eines Bürohauses mit Gastronomie
+- TOP .2.: Thierschstraße 46: Generalsanierung und Erweiterung des Wilhelmsgymnasium (Vorbescheid)
+- TOP .3.: Karlsplatz 9: Umbau eines Einkaufszentrums (Tektur)
+- TOP .4.: Thierschstraße 33: Dachgeschoss-Ausbau
+- TOP .5.: Tal 8: Gastraumerweiterung (weniger als 200 Gastplätze) sowie Fassadenänderung
+- TOP .6.: Sattlerstraße 1: Temporäre Teilnutzungsänderung in einem Herbergsbetrieb
+- TOP .7.: Thomas-Wimmer-Ring 14: Umbau eines Portals
+- TOP .8.: Theatinerstraße 23: Erweiterung einer Freischankfläche
+- TOP .9.: Paradiesstraße 8: DG-Erhöhung und Ausbau (Tektur)
+- TOP .10.: Thierschplatz 3: Abbruch und Neuerrichtung Dachstuhl (Tektur)
+- TOP .11.: Christophstraße 2: Umbau und Sanierung, Lift, DG, Balkone, Dachgauben
+- TOP .12.: Am Gries: Errichtung einer Containergruppe zur Unterbringung 3er Kindergartengruppen und einer Hortgruppe
+- TOP .13.: Oettingenstraße 6 - 8: Neubau einer Wohnanlage (103 Wohneinheiten) mit Kindertagesstätte und Tiefgarage
+- TOP .14.: NACHTRAG: Isartorplatz 2: Nutzungsänderung Wohn- in Gewerberäume, Beseitigung Treppe, interner Umbau
+- TOP .1.: Antrag des BA 5 auf Satzungsänderung: Anhörungsrecht bei ?Eckdatenbeschlüssen?
+- TOP .1.: Bürgeranliegen: Aufstellen von zusätzlichen Abfallbehältern am Altstadtring
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Brotmanufaktur Schmidt?, Oettingenstraße 44: Genehmigung einer Freischankfläche
+- TOP .2.: ?Al Boccone?, Hochbrückenstraße 3: Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: ?Nigin?, Dultstraße 1:Genehmigung einer Freischankfläche
+- TOP .4.: ?Guido al Duomo?, Frauenplatz 12: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: ?Servus München?, Tal 20: Postkartenständer
+- TOP .2.: Westenriederstraße 49: Errichtung eines mobilen Fahrradständers
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Faschingszug der Damischen Ritter am 03.02.2013
+- TOP .2.: Standkonzert mit Sammlung des Volksbund Deutscher Kriegsgräberfürsorge e.V., Odeonsplatz
+- TOP .3.: NACHTRAG: Tanz der Marktfrauen und Faschingstreiben, Viktualienmarkt, 12.02.2013
+- TOP .4.: NACHTRAG: Geldbeutelwaschen am 13.02.2013, Marienplatz
+- TOP .1.: Radverkehrsführung Zweibrückenstraße, Einladung von Vertretern der Referate, des VCD und des ADAC in den Unterausschuss
+- TOP .1.: Bürgeranliegen: Reduzierung der Behindertenparkplätze in der Sendlinger Straße
+- TOP .2.: Bürgeranliegen: Vermehrte polizeiliche Kontrollen am Busparkplatz Thomas-Wimmer-Ring
+- TOP .3.: Bürgeranliegen: Vermehrte polizeiliche Kontrollen bei der Busdurchfahrt am Viktualienmarkt
+- TOP .4.: Bürgeranliegen: Aufstellen von Verkehrsschildern, Tal: Durchfahrt für Anlieger, Taxi, Fahrräder und Sightseeing-Busse frei
+- TOP .5.: Bürgeranliegen: LKW-Verkehr in der Sternstraße
+- TOP .6.: Bürgeranliegen: Gehwegeinebnung Rumfordstraße von Nord nach Süd
+- TOP .1.: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP .2.: NACHTRAG: Gleiserneuerung und Umgestaltung der Wartebereiche für die Tram an der Müllerstraße, Kreuzung Fraunhoferstraße
+- TOP .1.: Standorte für Sommer SpielAktion 2013
+- TOP .2.: Änderung der Bezirksausschuss-Satzung: Unterrichtungsrecht / Anhörungsrecht bei Änderung der Essensversorgung an den Schulen und Kindergärten
+- TOP .1.: Jährliches Treffen mit dem Kommunalreferat am 07.03.2013
+- TOP .2.: NACHTRAG: Unterausschüsse während der Faschingsferien
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschluss des Finanzausschusses vom 18.12.2012: Unterlagen zur Beratung und Verabschiedung des Haushaltsplanentwurfs 2013
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung: Wohnen in München IV: Erfahrungsbericht für das Jahr 2011
+- TOP 0.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 05.12.2012: Demografiebericht
+- TOP 0.4.: Schreiben der Gewofag zum Leerstand Blumenstraße 29
+- TOP 0.5.: Antwortschreiben des KBR zur Stellungnahme des BA zum Bauvorhaben Residenzstraße 21
+- TOP 0.6.: Absage der Einladung zum Thema Gartengrundstück Altheimer Eck
+- TOP 0.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.8.: Antwortschreiben der LBK zur Stellungnahme des BA zum Bauvorhaben Neuhauser Straße 19
+- TOP 0.9.: Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligung für den Bereich des Referates für Stadtplanung und Bauordnung
+- TOP 0.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013: Vollzug des Art. 22 Abs. 2 Bayerisches Denkmalschutzgesetz ? Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung: Auflösung des Werbebeirats
+- TOP 0.6.: Antwortschreiben des Kreisverwaltungsreferats zur Stellungnahme des BA bzgl. der Streckenführung Stadtlauf 2013
+- TOP 0.7.: Eilentscheidung Silvesterfeuerwerk P1
+- TOP 0.8.: Antwortschreiben des KVR zur Anfrage des BA wegen der Freischankfläche Karl-Scharnagel-Ring/Bürkleinstraße, TOP 2012.11 A 6
+- TOP 0.9.: Antwortschreiben des Baureferats zu einer Bürgeranfrage bzgl. der Reinigungsklasse am Sebastiansplatz
+- TOP 0.10.: Eilentscheidung des Vorsitzenden zu den Rosenkranzgebeten 2013, Marienplatz
+- TOP 0.11.: Zwischenmitteilung zum BA-Antrag Nr. 08-14/ B 4267: Aufnahme des Fußgängerzonenabschnitts Sendlinger Straße in den Geltungsbereich der Altstadtfußgängerzonensatzung
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Eingeschränktes Halteverbot in der St.-Anna-Straße - Ladezone Liebherrstraße 22
+- TOP 0.2.: Beschluss der Vollversammlung des Stadtrates am 28.11.2012: Finanzierungsbeschluss IHKM-Klimaschutzprogramm
+- TOP 0.3.: Beschluss des Bauausschusses vom 11.12.2012: Fahrradabstellplatzkonzept (2. Realisierungsabschnitt)
+- TOP 0.4.: Stellungnahme der Stadt München zum Planfeststellungsverfahren 2. Stammstrecke
+- TOP 0.5.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 05.12.2012: Parkraummanagement
+- TOP 0.6.: Antwortschreiben des Baureferats zum Bürgeranliegen Ersatzpflanzung in der Kanalstraße, TOP 2012.10 D 1.1
+- TOP 0.7.: Antwortschreiben des Vorsitzenden zu einem Bürgeranliegen bzgl. des Tegelmanns in der Christophstraße
+- TOP 0.8.: Beschluss der Vollversammlung des Stadtrates vom 28.11.2012: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt
+- TOP 0.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.2012: Novellierung der Baumschutzverordnung
+- TOP 0.10.: Beschluss der Vollversammlung des Stadtrates vom 12.12.2012: Finanzierungsbeschluss IHKM-Klimaschutzprogramm
+- TOP 0.11.: Schreiben der LBK zu den Baumfällungen Altheimer Eck
+- TOP 0.12.: Antwortschreiben des Baureferats zum Bürgeranliegen Gehwegeinebnung vor dem Anwesen Rumfordstraße 57, TOP 2012.09 D 1.1, Abdruck an den Bürger
+- TOP 0.13.: Errichtung eines Gehweges mit glattem Belag auf der Ostseite der Alfons-Goppel-Straße/Marstallplatz
+- TOP 0.14.: Gefahrenbaumfällungen
+- TOP 0.15.: Beschluss der Vollversammlung vom 19.12.2012: Novellierung der Baumschutzverordnung
+- TOP 0.16.: Beschluss des Bauausschusses vom 15.01.2013: Provisorische Begrünung des Marienhofs
+- TOP 0.1.: Rückmeldungen anderer BAs zum BA-Antrag: Einrichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen
+- TOP 0.2.: Sitzung des Kulturausschusses vom 22.11.2012: Erinnerungsorte München
+- TOP 0.3.: Beschluss der Vollversammlung des Stadtrates vom 24.10.2012: Infrastrukturprogramm Sport
+- TOP 0.4.: Antrag der BIA: Promenadeplatz endlich entmüllen ? Michael Jackson ?Memorial? beenden!
+- TOP 0.5.: Verwendungsnachweis Komische Pinakothek München ?Fiese Bilder?
+- TOP 0.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.2013: Aufstockung der regelmäßigen Zuwendungen an ?Mini-München?
+- TOP 0.7.: Informationsschreiben zu den Änderungen bei der BA-Budgetvergabe nach der Satzungsänderung
+- TOP 0.8.: Antwortschreiben an den BA 2 bzgl. seines Antrags auf zum Bolzplatz der Glockenbachwerkstatt
+- TOP 0.9.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.2012: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West
+- TOP 0.10.: Neufassung der Budget-Richtlinien
+- TOP 0.11.: Verwendungsnachweis Theater des Hölzernen Gelächters
+- TOP 0.12.: Verwendungsnachweis und Bericht Lilalu
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
