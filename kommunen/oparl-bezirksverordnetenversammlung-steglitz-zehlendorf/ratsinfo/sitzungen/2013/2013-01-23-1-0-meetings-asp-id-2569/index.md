@@ -1,0 +1,76 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-01-23T17:00:00+01:00
+- Ende: 2013-01-23T20:05:00+01:00
+- Ort: Schloßstr. 37, 12163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2569
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2569
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Nachnutzung der ehemaligen Autobahnraststätte Dreilinden - beantwortet
+- TOP 3.2: Brandschutz in Schulen und Kitas - beantwortet
+- TOP 3.3: Gender Mainstreaming (GM) - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.1.1: Berufung eines stellvertretenden beratenden Mitglieds als Vertretung des Bezirkselternausschusses der Kindertagesstätten in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Amtsperiode ab 19. August 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Kirchbauverein St. Annen - St. Annenchor - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für den Förderkreis des Museumsdorfes Düppel e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Fahrstuhl U-Bahnhof Oskar-Helene-Heim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Radstreifen bzw. Umweltspuren in der Birkbuschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Radstreifen Kamenzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Tempo 30 im Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Radweg Argentinische Allee - Lindenthaler Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Vorwegweiser Zufahrt Autobahn/Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Parkplatznot in Zehlendorf-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Vorstellung von Erweiterungs- oder Ergänzungsbauten von Schulgebäuden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Mehr Fahrradständer in der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Zusätzliche Schulplätze im Einvernehmen mit bestehenden Schulen schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Fahrradbügel statt Baumschutzbügel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Verkehrssicherheit in der Wasgenstraße wiederherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Flaschenbehälter an Papierkörben anbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Sozialraumbudgetierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Rechte Symbole erkennen - Information für die Ordnungsamtsmitarbeiter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Berliner Charta - Verkehrssicherheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Grünpfeil Wismarer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.17: Entwurfsplanung für den Zehlendorfer Dorfanger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.18: Freie Sicht vor Kaisers auf der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Fußgängerüberweg Bäkestraße - überwiesen
+- TOP 5.1.2: Transparenz beim "Grünstreifen"-Verkauf - überwiesen
+- TOP 5.1.3: Nachnutzung der Dahlemer Museen - überwiesen
+- TOP 5.1.4: Änderung der Geschäftsordnung "Audioaufzeichnung" - überwiesen
+- TOP 5.1.5: Ambrosia-Bekämpfung - überwiesen
+- TOP 5.1.6: Barrierefreies Internet - überwiesen
+- TOP 5.1.7: AFN - überwiesen
+- TOP 5.1.8: Toilettenanlage U-Bahnhof Onkel-Toms-Hütte - überwiesen
+- TOP 5.1.9: Erhalt der Psychiatrie im UKBF - überwiesen
+- TOP 5.1.10: BVV-Sitzungen im alten BVV-Saal Zehlendorf - überwiesen
+- TOP 5.2: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 5.2.1: Einrichtung einer Tempo 30 Zone in der Grunewaldstraße und in der Lepsiusstraße sowie eines Fahrradstreifens in der Grunewaldstraße und in der Schildhornstraße - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 6.1.1: Stadtzerstörung durch Senatsverwaltung II - beantwortet
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Dringliche Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Anmeldungen für die Investitionsplanung 2013 bis 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Fördermittel für ein "Bezirkliches Entwicklungskonzept Wohnen" für 2012 "verschlafen"? - beantwortet
+- TOP 8.2: Bauen ohne "Grünstreifen-Grundstück" - Teil III - beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Fluglärmüberwachung in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 9.2: Konzept Steglitzer Damm - in der BVV abgelehnt
+- TOP 9.3: Behindertengerechte Spielplätze - in der BVV zurückgezogen
+- TOP 10: Schlusswort des Vorstehers - erledigt
