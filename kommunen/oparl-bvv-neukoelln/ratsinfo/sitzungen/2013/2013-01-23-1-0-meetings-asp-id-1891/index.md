@@ -1,0 +1,116 @@
+# 14. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-01-23T17:00:00+01:00
+- Ende: 2013-01-23T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1891
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1891
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.3: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - beantwortet
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - erledigt
+- TOP 5: Der Bürgermeister hat das Wort - erledigt
+- TOP 6: Entschließungen - (offen)
+- TOP 6.1: Keine Nazis im Gemeinschaftshaus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten in den Sozialausschuss - gewählt
+- TOP 7.2: Wahl einer neuen stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.3: Schiedsmann für den Schiedsamtsbezirk 3 - gewählt
+- TOP 7.4: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Grünflächen, Natur- und Umweltschutz - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bildung einer Gemeinschaftsschule auf dem Campus Efeuweg - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2013-2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Umsetzung des Projektes Campus Efeuweg in der Gropiusstadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Bebauungsplan 8-22ba "Ehemalige Kindl-Brauerei" - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.3: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.4: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.5: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.6: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.7: Benennung eines stellvertretenden Mitgliedes in den Beirat für Migrationsangelegenheiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.8: Benennung eines stellvertretenden Mitgliedes in den Beirat für das Vivantes Klinikum Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Seniorenwohnhaus Harz - beantwortet
+- TOP 10.2: Gelebter Denkmalschutz in Alt-Buckow! - beantwortet
+- TOP 10.3: Reichsbürger - beantwortet
+- TOP 10.4: VG 27 L 264.12 - beantwortet
+- TOP 10.5: Hilfe vom Bezirksamt beim Buchschreiben? - beantwortet
+- TOP 10.6: Standorte von Pflege-Wohngemeinschaften an die Feuerwehr melden - schriftlich beantwortet
+- TOP 10.7: Fußwegbeleuchtung ausgeschaltet oder ausgefallen? - schriftlich beantwortet
+- TOP 10.8: Strategie Stadtlandschaft - schriftlich beantwortet
+- TOP 10.9: Schneeräumung in Neukölln - schriftlich beantwortet
+- TOP 10.10: Wartezeiten bei der Elterngeldstelle - schriftlich beantwortet
+- TOP 10.11: Neuköllner Wochenmärkte I - schriftlich beantwortet
+- TOP 10.12: Neuköllner Wochenmärkte II - schriftlich beantwortet
+- TOP 10.13: Neuvergabe der Rixdorfer Schmiede - schriftlich beantwortet
+- TOP 10.14: Obdachlosenunterkünfte ausreichend? - schriftlich beantwortet
+- TOP 10.15: "Wasserskulpturen" auf dem Rotraut-Richter-Platz - schriftlich beantwortet
+- TOP 10.16: Razzia durch Sprengstoffexperten - schriftlich beantwortet
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Ziele des Brandbriefes der JHA-Vorsitzenden unterstützen - in der BVV abgelehnt
+- TOP 11.2: Nebeneinkünfte - in der BVV abgelehnt
+- TOP 11.3: Vertragsüberprüfung Frauenklinik - in der BVV abgelehnt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Beschulung der Kinder sichern - in der BVV abgelehnt
+- TOP 12.3: Freilufttrinker in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Rauchverbot auf Kinderspielplätzen verhängen und kontrollieren - in der BVV abgelehnt
+- TOP 12.5: Rückübertragung Kolonie Fliedergrund - in der BVV abgelehnt
+- TOP 12.6: Sozialmissbrauch verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Wohnungsämter stärken - vertagt
+- TOP 12.8: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Straßenschäden in Neukölln - vertagt
+- TOP 13.2: Patientenfürsprecher/innen - vertagt
+- TOP 13.3: Pflegemissbrauch bekämpfen - vertagt
+- TOP 13.4: Klimaschutz in bezirklichen Gebäuden? - vertagt
+- TOP 13.5: Einbruchs- und Diebstahlserie im Süden von Neukölln - vertagt
+- TOP 13.6: Open Data für Neukölln? - vertagt
+- TOP 13.7: Prognostizierte Rückläufer/-innen von Neuköllner Gymnasien im Schuljahr 2012/13 - vertagt
+- TOP 13.8: Brandbrief Quartiersrat Reuterplatz - vertagt
+- TOP 13.9: Kinderärztliche Versorgung auch an Feiertagen gewährleisten - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Beschwerdeverzicht (Urteil des Verwaltungsgerichts Berlin VG L 26412) - vertagt
+- TOP 15.2: Überarbeitung des Patientenfürsprechergesetzes - überwiesen
+- TOP 15.3: Begrenzung der Mieterhöhungen in Neukölln - überwiesen
+- TOP 15.4: Zentrale Baustellenkoordination - überwiesen
+- TOP 15.5: Schaltintervalle der Lichtzeichenanlage im Bereich der Rudower Spinne - überwiesen
+- TOP 15.6: Alpha-Bündnis - vertagt
+- TOP 15.7: Durchfahrt für Fahrzeuge durch den Ehrenpreisweg auf 3,5 t - überwiesen
+- TOP 15.8: Strategie Stadtlandschaft - überwiesen
+- TOP 15.9: Geräuschbelästigung der Anwohner in der Neuköllner Straße durch die neue Bus-Wendekehre der BVG - überwiesen
+- TOP 15.10: Aufstellung einer mobilen Geschwindigkeitsmessanlage - überwiesen
+- TOP 15.11: Open Data für Neukölln - überwiesen
+- TOP 15.12: EU-Projekttag der Schulen - überwiesen
+- TOP 15.13: Kinderärztliche Versorgung auch an Feiertagen gewährleisten - überwiesen
+- TOP 15.14: Erneuerbare Energien in bezirklichen Gebäuden - überwiesen
+- TOP 15.15: Multilinguale Internetkompetenz - vertagt
+- TOP 15.16: Vollzug der Energieeinsparverordnung (EnEV) stärken - überwiesen
+- TOP 15.17: Klimaschutzkonzept - überwiesen
+- TOP 15.18: Verdrängung entgegentreten - überwiesen
+- TOP 15.19: Free the Robots: Bezirksseiten über Suchmaschinen auffindbar machen - im Ältestenrat zurückgezogen
+- TOP 15.20: Klimaschutzbeauftragter - überwiesen
+- TOP 16: Mitteilungen - (offen)
+- TOP 16.1: Mehr Mittel für Impfstoffe - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.2: Einwohnerfragen als Drucksache im ALLRIS - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.3: Sondernutzungserlaubnis an Kreuzungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.4: Protokolle in den Ausschüssen nach d´Hondt anfertigen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.5: Ratten(plage) in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Finanzielle Kürzungen bei Pflegestützpunkten in 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Warensortiment der Spätverkaufsstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Bebauungsplan 8-19b ("Karl-Marx-Straße/Ringbahnstraße") - mit Abschlussbericht zur Kenntnis genommen
