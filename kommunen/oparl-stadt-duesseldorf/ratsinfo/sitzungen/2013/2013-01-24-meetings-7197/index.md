@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-01-24T17:00:00+01:00
+- Ende: 2013-01-24T19:20:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7197
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7197
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188837.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188837.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188837.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: 2. Änderung des Landschaftsplans zur Umsetzung des Gesamtnutzungskonzeptes für den Unterbacher See, - einstimmig beschlossen
+- TOP 4: Sozialräumliche Gliederung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Wiederwahl der Schiedsfrau Monika Scholl - einstimmig beschlossen
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2013 - einstimmig beschlossen
+- TOP 8: Grundstück Karl-Geusen-Straße 171 - beantwortet
+- TOP 9: Bebauungsplan Am Kleinforst - beantwortet
+- TOP 10: Dynamische Fahrgastinformationen im Stadtbezirk 8 - beantwortet
+- TOP 11: Bunker Am Bermeshau - beantwortet
+- TOP 12: Sicherheit an Güterzugstrecken im Stadtbezirk 8 - beantwortet
+- TOP 13: Anliegerbeiträge bei Straßenbaumaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 14: 725 Jahr Feier der Stadt Düsseldorf im Stadtbezirk 8 - beantwortet
+- TOP 15: Unterführung Vennhauser Allee - beantwortet
+- TOP 16: S-Bahnhof Eller - beantwortet
+- TOP 17: S-Bahnhof Eller-Süd - beantwortet
+- TOP 18: Verkehrsführung Reisholzer Straße / Schlesische Straße - beantwortet
+- TOP 19: Graffitibeseitigung S-Bahnhof Eller-Süd - beantwortet
+- TOP 20: Video-Betreuung an S-Bahnhöfen, Haltestellen und Schulen im Stadtbezirk 8 - beantwortet
+- TOP 21: Sozialwohnungen im Stadtbezirk 8 - beantwortet
+- TOP 22: Spielhallen und Wettbüros im Stadtbezirk 8 - beantwortet
+- TOP 23: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 24: Sicherheit an Bahnübergängen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 25: Abbiegespur zur Carl-Sonnenschein-Schule - mehrheitlich abgelehnt
+- TOP 26: Parkplätze Gubener Straße - einstimmig beschlossen
+- TOP 27: Zuschussberatungen in 2013 - einstimmig beschlossen
+- TOP 28: Spielplatzsanierung Vennhauser Allee 71 - einstimmig beschlossen
+- TOP 29: Straßenverkehr Dillenburger Weg - einstimmig beschlossen
+- TOP 30: Grünfläche Eller Kamp / Chemnitzer Straße - mehrheitlich abgelehnt
+- TOP 31: Behindertenparkplatz Posener Straße 92 - einstimmig beschlossen
+- TOP 32: Baumfällungen und Ersatzpflanzungen auf der Ronsdorfer Straße - zur Kenntnis genommen
+- TOP 33: Verkehrssicherheit Chemnitzer Straße - zur Kenntnis genommen
+- TOP 34: Skateranlage Heidelberger Straße - zur Kenntnis genommen
+- TOP 35: Dynamische Fahrgastinformationen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Bebauungsplanänderung in Eller und Lierenfeld - zur Kenntnis genommen
+- TOP 37: Beflaggung öffentlicher Gebäude - zur Kenntnis genommen
+- TOP 38: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 39: Neubau Turnhalle Berburger Straße - zur Kenntnis genommen
+- TOP 40: Barrierefreier Ausbau von Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
