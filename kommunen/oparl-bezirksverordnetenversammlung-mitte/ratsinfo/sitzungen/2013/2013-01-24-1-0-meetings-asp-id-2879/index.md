@@ -1,0 +1,140 @@
+# 16.öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2013-01-24T17:30:00+01:00
+- Ende: 2013-01-24T23:10:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2879
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2879
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=90179
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Wohnungsneubauflächen in Mitte - beantwortet
+- TOP 5.2: Gehweg vor dem Grundstück Müllerstraße 123-125 (ehemals Müllerhalle) - beantwortet
+- TOP 5.3: Weiterbildung im Gesundheitsamt - beantwortet
+- TOP 5.4: Status Müllerhalle - beantwortet
+- TOP 5.5: Klangquellen auf dem Petriplatz - beantwortet
+- TOP 5.6: Aktueller Entwicklungsstand des Grundstückes Turmstraße 40 - beantwortet
+- TOP 5.7: Bauarbeiten Tiergartenstraße - schriftlich beantwortet
+- TOP 5.8: GründerInnen-Zentren im Bezirk - schriftlich beantwortet
+- TOP 5.9: Praktikabilität und Aktualität der Homepage des Bezirksamtes: Grillen im Großen Tiergarten und Rechtssicherheit - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Außenbecken Seydlitzbad - Warum ist Sportsenator Henkel dagegen? - beantwortet
+- TOP 6.2: Schultheiss und kein Ende - beantwortet
+- TOP 6.3: VzK DS 0529/IV zu Stellungnahme der Ämter für die nächsten Schritte zur Erweiterung des Mauerparks - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Modernisierung in der Wohnanlage Schillerhöhe - beantwortet
+- TOP 7.2: Kommunales Vorkaufsrecht auch in Mitte nutzen? - beantwortet
+- TOP 7.3: "Fanmeile": Auswirkungen des Ausbaus - beantwortet
+- TOP 7.4: Sicherheitskonzept für Fußgänger und Radfahrer - beantwortet
+- TOP 7.5: Wie viel Aufwand für 7.000 Euro schulischer Eigenverantwortung? - beantwortet
+- TOP 7.6: Geburt und Geschlecht: Beratung und Unterstützung für Transsexuelle in Mitte - beantwortet
+- TOP 7.7: Wie weiter mit dem Sprachförderzentrum? - beantwortet
+- TOP 7.8: Risiko Propangasflaschen auf Märkten im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.9: 100.000 Euro für Schulen in sozialen Brennpunkten - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Vorhabenbezogener Bebauungsplanentwurf 1-50 VE "Vabali Wellness & Spa" sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplans 1-50 VE - überwiesen
+- TOP 9.2: die Aufhebung der Wilhelm - Busch - Schule - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Keine Ausgliederung von Leistungen aus dem Bezirksamt - Stellenabbau strecken - vertagt
+- TOP 11.2: Neue Räume für die KvU - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Besetzung des Jugendhilfe-Ausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Angebote der Bibliotheken und der Volkshochschule für Seniorinnen und Senioren verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sicherung der Archivalien unserer historischen Gebäude - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Dienstfahrräder für Mitarbeiterinnen und Mitarbeiter des Allgemeinen Ordnungsdienstes - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Effizienzsteigerung des Ordnungsamtes möglich? - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Begutachtung durch Dritte in der Hilfe zur Pflege - Steuerung der Fallkosten - - überwiesen
+- TOP 12.6: Energieverbrauch an Schulen senken – Können wir so Geld für die Schulen gewinnen? - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Mehraufwendungen für gesundes Schulessen nicht auf Eltern abwälzen - das Land ist in der Pflicht! - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Veröffentlichung von Gutachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Missbilligung des Stadtrates für Finanzen - in der BVV abgelehnt
+- TOP 12.10: Mehr Raum für Schule bedarfsgerecht finanzieren! - überwiesen
+- TOP 12.11: Mikrokredite für energiesparende Elektrogeräte - in der BVV abgelehnt
+- TOP 12.12: Mehr Fahrgastsicherheit bei Bussen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Pförtnerdienst im Rathaus nicht privatisieren! - überwiesen
+- TOP 12.14: Investitionen in Energieeffizienz unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Besetzung des Jugendhilfe-Ausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Kurze und verkehrssichere Wege für die Schüler der Cosmopolitan School - überwiesen
+- TOP 12.17: Sicherheit für die Fußgängerüberquerung am Reichpietsch-Ufer und Lützowufer in Höhe Hiroshimasteg - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Einrichtung eines Deutsch-Türkischen Europa-Schulzweigs im Bezirk prüfen - überwiesen
+- TOP 12.19: Flüchtlinge im Winter nicht abschieben! - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Straßenfeste qualitativ fortentwickeln und evaluieren! - überwiesen
+- TOP 12.21: Unser Bezirk braucht jährliche Tätigkeitsberichte der Wirtschaftsförderung und Wirtschaftsberatung - NOCH VOR 2016! - überwiesen
+- TOP 12.22: Allen Eltern in Mitte die Möglichkeit zum Babyschwimmen anbieten! - überwiesen
+- TOP 12.23: Gedenk-Arbeit der Bezirksverordnetenversammlung ins MitteMuseum - überwiesen
+- TOP 12.24: Transparenz, Vernetzung und leichtere Information: Bezirkliche Gre-mien, Beiräte und Kommissionen auf der Homepage veröffentlichen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Veranstaltungsräume verbessern im Rathaus Tiergarten und im Rathaus Wedding - überwiesen
+- TOP 12.26: Internationalen Romatag am 8. April 2013 begehen - in der BVV abgelehnt
+- TOP 12.27: Endlich Schluss mit der Zweckentfremdung von Wohnraum! - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: Ein neuer Anlauf für das GründerInnen-Zentren in Moabit West - überwiesen
+- TOP 12.29: Gründerzentrum in Moabit realisieren - überwiesen
+- TOP 12.30: Veröffentlichung der Messergebnisse von Schadstoffuntersuchungen in Schulen, Kitas und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 12.31: Bürgerschaftlichen Zusammenhang unterstützen: Überdachung in der Pritzwalker Straße - überwiesen
+- TOP 12.32: Erstellen einer Positivliste schadstoffreduzierter Anschaffungen in Kitas, Schulen und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 12.33: Wasser auf die Spielplätze am Aktiven Zentrum Turmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.34: Vor Umbau der „Fanmeile“: BürgerInnen informieren und einbinden - in der BVV abgelehnt
+- TOP 12.35: Rechte der Bezirksverordnetenversammlung sichern: Wahl der Schiedspersonen und der Patientenfürsprecherinnen und Patientenfürsprecher in der Geschäftsordnung verankern - überwiesen
+- TOP 12.36: „Fanmeile“: Schutz für Flora und Fauna bei Umbau - vertagt
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Vermietung von Räumen in Schulen des Bezirkes - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Pressespiegel online für alle Bürger - mit Änderungen in der BVV beschlossen
+- TOP 15.3: Offenes Dateiformat - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Schilder an den Radweg - vertagt
+- TOP 15.5: Gesund aufwachsen in Mitte - vertagt
+- TOP 15.6: Räume der Stadtteilvertretung "mensch.müller" - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: BürgerInnen vor Lärm schützen - vertagt
+- TOP 15.8: Pilotprojekt für internetbasierte Bürgerbeteiligung - vertagt
+- TOP 15.9: Aufhebung des Beschlusses über den Erlass einer Veränderungssperre 1-59/22 für das Grundstück Brunnenstraße 183 - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Erlass einer Veränderungssperre mit der Bezeichnung 1-83/24 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes 1-83 (südlich Karl-Marx-Allee) für das Gelände zwischen Karl-Marx-Allee, Bezirksgrenze, Holzmarktstraße und Alexanderstraße, ausgenommen das Gelände zwischen Alexanderstraße, Schillingstraße und Holzmarktstraße, zwischen Alexanderstraße und Jacobystraße sowie die Grundstücke Holzmarktstraße 66 und 69, im Bezirk Mitte, Ortsteil Mitte, liegende Grundstück - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Planungen zur Umgestaltung des Gartendenkmales Kleiner Tiergarten (Ost) - vertagt
+- TOP 15.12: Straßenbahn in der Turmstraße bis 2016 realisieren - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: WLAN in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Alte Münze - vertagt
+- TOP 16.3: Investitionsblockade für Schulen und Sport vermeiden! - vertagt
+- TOP 16.4: Beteiligungsrechte der Jugendhilfeausschusses nach KJHG einhalten. Hier: B-Plan III-226 (Kolonie Virchow) - vertagt
+- TOP 16.5: Wo ist der Fritz-Schloß-Park geblieben? - vertagt
+- TOP 16.6: Europäisches Jahr für aktives Altern und Solidarität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Olof-Palme-Zentrum: Eine jugendpolitische Notwendigkeit - vertagt
+- TOP 16.8: Neuer Anlauf für das Außenbecken des Seydlitzbades - Mitte gibt nicht auf! - vertagt
+- TOP 16.9: Bürgerfreundliche Ausschilderung der Bezirksverordnetenversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Abstimmung der Förderprogramme in Mitte - vertagt
+- TOP 16.11: Allris RSS-Feed: Abo für Drucksachen - vertagt
+- TOP 16.12: Exportierbarer Sitzungskalender - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Erlass einer Satzung gemäß §172, Abs.2 Baugesetzbuch für die Wohngebiete im nördlichen Moabit - vertagt
+- TOP 16.14: Familienzentren - Landesmittel sinnvoll einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Kostendeckende Außentrauungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Anpassung Ausführungsverordnung (AV) Zuständigkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Ausgesuchte Daten der "Polizeilichen Kriminalstatistik" zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Wasser auf die Spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Vergabe Alte Münze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Freies W-Lan im Aktiven Zentrum Turmstraße - vertagt
+- TOP 16.21: Schonfrist während der Beratung der Bezirksverordnetenversammlung: Einstweilen keine Genehmigung von Altkleidercontainern in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Erhalt des Angebots der Seniorenfreizeiteinrichtung Schulstraße 118 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Moabit mit den Augen älterer Menschen - Was sagt das Bezirksamt? - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.24: Die nächsten Schritte für den Mauerpark veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Der BVV zur Kenntnis: Stellungnahmen der Ämter für die nächsten Schritte zur Erweiterung des Mauerparks - vertagt
+- TOP 16.26: Umzug Seniorenfreizeiteinrichtung Schulstraße 118 geordnet und kooperativ mit den Trägern durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Bürgerbeteiligung zur Mauerparkerweiterung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Beschluss über die Ergebnisse der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 Baugesetzbuch, der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch sowie der Beteiligung der Behörden gem. § 4 Abs 2 Baugesetzbuch zum Bebauungsplanentwurf 1-8Ba (Spandauer Vorstadt) sowie die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Maßnahmen zur Korruptionsprävention einleiten - vertagt
+- TOP 16.30: Konzept zur Durchführung einer Jugend-BVV - vertagt
+- TOP 16.31: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - mit Zwischenbericht zur Kenntnis genommen
