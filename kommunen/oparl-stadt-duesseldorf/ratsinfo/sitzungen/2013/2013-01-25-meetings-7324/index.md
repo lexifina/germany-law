@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-01-25T14:00:00+01:00
+- Ende: 2013-01-25T18:20:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7324
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7324
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188804.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188804.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00188804.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: B-Plan 5280/031-Golzh.Siedlung-Änd.Aufst.; ÖB - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Organisation des Weihnachtsmarktes auf dem Schadowplatz ab 2013 - vertagt
+- TOP 7: Lärmschutzwand Uerdinger Straße - zur Kenntnis genommen
+- TOP 8: Bodenfunde Ursulinengasse - zur Kenntnis genommen
+- TOP 9: Reisemarkt in den Schadow Arkaden - einstimmig beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntage - einstimmig beschlossen
+- TOP 11: Veranstaltungen auf dem Burgplatz im Jahre 2013 - einstimmig beschlossen
+- TOP 12: Fischmärkte auf dem Tonhallenufer im Jahre 2013 - einstimmig beschlossen
+- TOP 13: Oberflächengestaltung "Am Wehrhahn" - einstimmig beschlossen
+- TOP 14: Gehwege im Hofgarten - einstimmig beschlossen
+- TOP 15: Kriegerdenkmal an der Landskrone - einstimmig beschlossen
+- TOP 16: Wände an der Rheinpromenade - einstimmig beschlossen
+- TOP 17: "Internationaler Aktionstag gegen Gewalt an Frauen" - einstimmig beschlossen
+- TOP 18: Keine "Schickimicki-Weihnachtsmärkte" in der Innenstadt - einstimmig beschlossen
+- TOP 19: Ulmer Höh´:Erhöhung der Anzahl der zu realisierenden Wohnungen - mehrheitlich beschlossen
+- TOP 20: Wegfall Haltestellen der 701, Schienenersatzverkehr - einstimmig beschlossen
+- TOP 21: Baum auf dem Schlachthofgelände - einstimmig beschlossen
+- TOP 22: Liesegangstraße, Radverkehr - einstimmig beschlossen
+- TOP 23: Annastraße/Jülicher Straße/Eulerstraße, Baustelle - einstimmig beschlossen
+- TOP 24: "Am Wehrhahn" - Sperrmüllentsorgung - zur Kenntnis genommen
+- TOP 25: Leitungsarbeiten auf der Bergerstraße - schriftlich beantwortet
+- TOP 26: - Schaffung von Klettermöglichkeiten und Ruheinseln - - beantwortet
+- TOP 27: Ersatzstandort Jugendfreizeiteinrichtung "Ulmenclub" - beantwortet
+- TOP 28: Umsetzung der Beschlüsse in der Bezirksvertretung 1 - beantwortet
+- TOP 29: Schadowstraße, Bürgerbeteiligung - vertagt
+- TOP 30: Weihnachtsmarkt Schadowplatz - beantwortet
+- TOP 31: Mitteilungen der Verwaltung - beantwortet
+- TOP 32: Sozialräumliche Gliederung - zur Kenntnis genommen
+- TOP 33: Verpflichtung eines neuen Mitgliedes der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 34: Wahl des 2. stellv. Bezirksvorstehers bzw. der stellv. Bezirksvorsteherin - mehrheitlich beschlossen
