@@ -1,0 +1,8 @@
+# TOP 2: Kindergartenbedarfsplanung für das Kindergartenjahr 2013/2014
+
+- Sitzung: Bezirksvertretung West (2013-01-29)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/119241
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/15585
