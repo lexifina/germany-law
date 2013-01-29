@@ -1,0 +1,139 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2013-01-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2763638
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2763638
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Glockenbachwerkstatt e.V. Projekt "On & Off Spotlight ab 10.01.2013
+- TOP .2.: Budget der Bezirksausschüsse hs+veranstaltungen GmbH Literaturveranstaltung "Hörgang" am 20.04.2013
+- TOP .1.: Spielen in der Stadt e.V., Münchner Sommer-Spiel-Aktion 2013, Spielbuseinsätze
+- TOP .2.: Bürgeranliegen: Vorschlag zum Anwohnerschutz am Gärtnerplatz
+- TOP .1.: (E) Größere Mülleimer am Gärtnerplatz (Ziffer 1) Empfehlung Nr. 08-14 / E 01575 Empfehlung Nr. 08-14 / E 01577 Empfehlung Nr. 08-14 / E 01579 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 15.11.2012
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Auenstr. 32, Tektur: DG-Ausbau, Erneuerung Dachstuhl, Anbau Aufzugsanlage, Anbau Balkone, Nutzungsänderung EG: Wohn- zu Gewerbeeinheit, Einbau von versenkbaren Parkstabelsystemen im Hinterhof, Nachrüsten WDVS, vertagt aus 2012.12 B 3.1.19 (Eilentscheidung)
+- TOP .2.: Lindwurmstr. 123: Modernisierung und Erweiterung Wohn- und Geschäftshaus, Sanierung und Umgestaltung Garagenhof ? Tektur, vertagt aus 2012.12 B 3.1.24 (N) (Eilentscheidung)
+- TOP .3.: Reichenbachstr. 14: DG-Ausbau Mehrfamilienhaus, vertagt aus 2012.12 B 3.1.25 (N) (Eilentscheidung)
+- TOP .4.: Zweibrückenstr. 12: Erweiterung Kinderkrippe um eine 3. Gruppe (Eilentscheidung)
+- TOP .5.: Kapuzinerstr. 25-25a: Nutzungsänderung Läden im EG in Kita (Eilentscheidung)
+- TOP .6.: Bayerstr. 21: Umbau eines Büro- und Geschäftsgebäudes (Eilentscheidung)
+- TOP .7.: Fraunhoferstr. 13: Umbau Toiletten, Gastraumerweiterung, Erneuerung Terrasse
+- TOP .8.: Thalkirchner Str. 78: DG-Ausbau für zwei Maisonette-Dachwohnungen, Anbau Außenaufzug, Brandschutzleiter, Teilrekonstruktion Fassade (Tektur)
+- TOP .9.: St.-Paul-Str. 9: Aufstockung MGB, Ausbau Speicher im RGB mit Anbau Außenaufzug, Nutzungänderung 3. + 4. OG / VGB: Wohnungen zu Büros
+- TOP .10.: Häberlstr. 16: Vordergebäude: Erweiterung Balkonanlagen; Rückgebäude: Ausbau 2. DG-Ebene, Anbau Balkone und Notleitern, Errichtung Außenaufzug
+- TOP .11.: Schwanthalerstr. 58: Errichtung Hotelgebäude mit Frühstücksraum im EG und autom. Garage über drei Untergeschosse (Tektur: TG im 1. UG, Lager/Technik im 2. UG)
+- TOP .12.: Schwanthalerstr. 2: Nutzungsänderung und Umbau Läden zu Gaststätte und Feinkost
+- TOP .13.: Schwanthalerstr. 47: Nutzungsänderung Boardinghaus mit 29 Apartments und 1 Laden in ein Boardinghaus in Form eines Beherbergungsbetriebes mit 20 Apartments und 2 Spielhallen sowie eine Wohnung im 2. DG (Tektur)
+- TOP .14.: Goethepl. 2: Errichtung einer Freischankfläche (Tektur)
+- TOP .15.: Lindwurmstr. 70a: Nutzungsänd. EG zu Apartments sowie zu Rezeption für Boardinghaus; 4 Stellplätze und Umnutzung Waschküche im 8. OG in Personalraum (Tektur)
+- TOP .16.: Pestalozzistr. 28: Abbruch und Neuerrichtung DG (RG), interne Grundrissänderung und DG-Ausbau (VG) ? PLENUMSBESCHLUSS
+- TOP .17.: Müllerstr. 3-7: Umbau und Umnutzung HKW-Turm (Tektur) ? PLENUMSBESCHLUSS
+- TOP .18.: Fraunhoferstr. 43: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage ? PLENUMSBESCHLUSS
+- TOP .19.: Lindwurmstr. 83 ? 85: Dachgeschoss-Ausbau/Umbau 5. OG Büros zu 6 Wohnungen ? PLENUMSBESCHLUSS
+- TOP .20.: Landwehrstr. 20: Nutzungsänderung Gaststätte in Shisha-Bar ? PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Bavariaring 31, 2 Eiben - PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Sanierung Auenstr., zwischen Baldestr. und Fraunhoferstr. (Erinnerungsverfahren)
+- TOP .2.: Herstellung Absenkungen Wittelsbacherbrücke (Erinnerungsverfahren)
+- TOP .1.: Bürgeranliegen: Begrünung der Herzog-Heinrich-Straße
+- TOP .2.: Urbanes Wohnen München e.V., Zwischenauswertung Urbanes Natur-Netz München, vertagt aus 2012.10 B 5.1.2, 2012.11 B 5.2, 2012.12 B 5.2
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Schützenstr. 1 ?Anna Hotel / Restaurant?, Erweiterung bestehende Freischankfläche
+- TOP .2.: Thalkirchner Str. 3 ?Phu Quoc?: Erweiterung bestehende Freischankfläche
+- TOP .3.: Buttermelcherstr. 2a ?Kokolores?: Erweiterung bestehende Freischankfläche
+- TOP .4.: Baaderstr. 16 ?Bei Maria?: Erweiterung bestehende Freischankfläche
+- TOP .5.: NACHTRAG: Freischankflächenantrag ?Restaurant Royals?, Goetheplatz 2
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Aufstellung von neuen Zeitungsentnahmegeräten für die Tageszeitungen ?tz und Münchner Merkur?: Lindwurmstr. 77, Bavariaring 11, vertagt aus 2012.12 C 2.2.2
+- TOP .2.: Häberlstr. 21: Warenauslage für Bücher, Bild-, Tonträger und Kunsthandwerk
+- TOP .3.: Goethestr. 11, Erweiterung einer Verkaufseinrichtung ? PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Neueinrichtung eines Taxistandplatzes, Schwanthalerstr. 44 ? PLENUMSBESCHLUSS
+- TOP .2.: Keine gewerbliche Nutzung des Toilettenhäuschens am Holzplatz Empfehlung Nr. 08-14 / E 01586 und 08-14 / E 01587 der Bürgerversammlung des 2. Stadtbezirkes - Ludwigsvorstadt-Isarvorstadt vom 15.11.2012
+- TOP .3.2: Verkehr
+- TOP .1.: Lichtzeichenanlagen-Bauprogramm 2013, Vormerk- und Neuantragsliste
+- TOP .2.: Verbesserung der Radverkehrsführung in der Herzog-Heinrich-Straße
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kapuzinerstr. 33 Seite Pestalozzistr. gegenüber
+- TOP .1.: Bauvorhaben Schwanthalerstr. 2: Nutzungsänderung Laden zu Feinkostladen mit Shisha-Bar ohne Umbaumaßnahmen, vertagt in UA KVR aus 2012.12 B 3.1.20 (Eilentscheidung)
+- TOP .2.: Ausweichmöglichkeiten in andere Parklizenzbereiche für direkte Anwohner des Oktoberfestes, BV-Empfehlung 08-14 / E 01569, 08-14 / E 01569
+- TOP .3.: Bürgeranliegen: Einrichtung einer Ampelanlage in der Thalkirchner Str. / Waltherstr. (siehe hierzu gleichlautende BV-Empfehlung Nr. 08-14 / E 01571 vom 15.11.2012)
+- TOP .4.: Vermietung eines städtischen Grundstücks in der Tumblingerstr. (siehe auch TOP 2012.11 C 3.3.4, 2012.12 C 3.3.2)
+- TOP .5.: Bürgeranliegen: Erschütterungen durch Tram in der Bayerstraße - PLENUMSBESCHLUSS
+- TOP .1.: Gleiserneuerung Tram Müllerstr., Abzweig Fraunhoferstr.
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: Bericht aus der Satzungskommission, vertagt aus 2012.12 D 1.1
+- TOP .2.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten, Anhörung zur beantragten Satzungsänderung, BA-Antrags-Nr. 08-14 / B03805 des BA 5 Au-Haidhausen vom 21.03.2012
+- TOP .3.: Änderung der Bezirksausschuss-Satzung; Unterrichtung bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen, Antrag des BA 20 Hadern
+- TOP .2: Termine
+- TOP .1.: 04.02.2013: Gestaltung Pflanztröge und Freischankflächen auf Fußgängerweg Stachus bis Paul-Heyse-Straße (BA-Antrags-Nr. 08-14 / B 04387), Besprechung mit KVR
+- TOP .2.: Unterausschuss ?Planen und Bauen? am Montag, den 18.02.2013 um 19.00 Uhr in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 19.02.2013 um 19.00 Uhr in der Gaststätte "Schmeller Wirt", Schmellerstr. 17, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 20.02.2013 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung im Februar entfällt! Die BA-Sitzung findet am Dienstag, den 26.02.2013 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .3.: 31.01.2013: Abstimmungsgespräch ?Toiletten an der Isar?, Stadtrats-Antrag SPD-Fraktion
+- TOP .1.: REGSAM, Arbeitskreis Migration: 06.02.2013, 14 Uhr, Sozialbürgerhaus Mitte
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Beteiligung der LHM an der Versteigerung von Mietshäusern (BA-Antrags-Nr. 08-14 / B 04217 vom 27.09.2011), Antwortschreiben des Kommunalreferates
+- TOP .4.: Haushaltsplan 2013, Beschluss der Vollversammlung (Sitzungsvorl. Nr. 08-14/V10751)
+- TOP .5.: Aufnahme eines Kindes in den städtischen Hort an der Tumblingerstr., Erinrichtung einer zusätzlichen Integrations-Hortgruppe, Erledigung der Empfehlungen aus der Bürgerversammlung vom 19.05.2011, Antwortschreiben des Referats für Bildung und Sport
+- TOP .6.: Verlängerung der Erhaltungssatzung ?Schlachthofviertel?, Antwort des Referats für Stadtplanung und Bauordnung (BA-Antrag Nr. 08-14 / B 04381 vom 20.11.2012)
+- TOP .7.: Budget-Antrag ?Edition Karbit? zurückgenommen (siehe auch 2012.11 A 2.2)
+- TOP .8.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V., Beschluss Kinder- u. Jugendhilfeausschusses v. 08.01.2013 (Sitzungsvorlage Nr. 08-14 / V 10764)
+- TOP .9.: Änderung der Richtlinien für Budget der Bezirksausschüsse (§ 10 der BA-Satzung)
+- TOP .10.: Bolzplatz Glockenbachwerkstatt, Antwortschreiben des Kommunalreferates, (BA-Antrags-Nr. 08-14 / B 04282 vom 02.10.2012, siehe auch 2012.09 A 1.3N)
+- TOP .11.: Perspektive München, Stadtentwicklung Südl. Bahnhofsviertel, Beschluss Ausschuss für Stadtplanung und Bauordnung vom 16.01.2013 (Sitzungsvorlage Nr. 08-14 / V 10261)
+- TOP .12.: Zuwendungen Lilalu-Workshopplätze, Erfahrungsbericht der Budget-Sachbearbeitung
+- TOP .13.: Schüler- und Klassenzahlen - an den städtischen Realschulen (Sitzungsvorlage Nr. 08-14 / V 10968) - an den Gymnasien und Schulen 2. Bildungsweg (Sitzungsvorlage Nr. 08-14 / V 10937) - an den Grund-, Mittel- und Förderschulen (Sitzungsvorlage Nr. 08-14 / V 11037) - an den Beruflichen Schulen (Sitzungsvorlage Nr. 08-14 / V 10911)
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Umbau der S-Bahn-Verteilerebene München Hbf., 2. Stellungnahme d. Referates f. Stadtplanung u. Bauordnung v. 29.11.2012 (siehe auch TOP 2012.08 B 3.3.2, 2012.10 B 4.3)
+- TOP .3.: Novellierung der Baumschutzverordnung (Sitzungsvorlagen Nr. 08-14/V10503)
+- TOP .4.: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt, Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 (Sitzungsvorlage Nr. 08-14 / V 09714)
+- TOP .5.: Finanzierungsbeschluss Umsetzung IHKM-Klimaschutzprogramm 2010-2012, Beschluss der Vollversammlung des Stadtrates vom 12.12.2012 (Sitzungsvorlage Nr. 08-14/V09670)
+- TOP .6.: Zusätzliche Abfalleimer im Glockenbachviertel, Antwortschreiben des Baureferates auf Anfragen aus der Bürgerversammlung v. 15.11.2012 (Anfragen Nr. 08-14/Q433 u. Q434)
+- TOP .7.: Fraunhoferstr. 10, Situation der Mieter nach Baumaßnahmen, Antwort der Lokalbaukommission auf Anfrage aus der Bürgerversammlung v. 15.11.2012 (Anfrage Nr. 08-14/Q432)
+- TOP .8.: Unterrichtung über das Fällen von 3 Gefahrenbäumen, Erhardtstr. / Patentamt
+- TOP .9.: Gesonderte Unterrichtung über getroffene Eilentscheidungen zu den Bauvorhaben Fraunhoferstr. 10 (siehe 2012.12 B 3.1.9) und Reifenstuelstr. 2 (siehe 2012.12 B 3.1.12)
+- TOP .10.: Landwehrstr. 1 / Sonnenstr. 18b, Baugenehmigung ?Wirtsgarten im Innenhof und Freischankfläche auf öffentlichem Grund? zur Kenntnis
+- TOP .11.: Mehrjahresinvestitionsprogramm 2012-2016, Entwurf für das Baureferat, Beschluss des Bauausschusses vom 20.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10607)
+- TOP .12.: Vielfältige Möglichkeiten zur Bürgerbeteiligung, Ergänz. (Sitzungsvorlage 08-14 / V10344) - Neufassung vom 16.01.2013
+- TOP .13.: Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung städt. Zuwendungsrichtlinien; ? (Sitzungsvorlage Nr. 08-14 / V 10999)
+- TOP .14.: Schwanthalerstr. 46, Baugenehmigung Wettbüro, Information der Lokalbaukommission
+- TOP .15.: Karlspl. 25, Vorbescheid ?Neubau Hotel Königshof?, Information der Lokalbaukommission
+- TOP .16.: Fraunhoferstr. 10, Abdruck Schreiben Mieterverein an Sozialreferat wg. Bauvorhaben
+- TOP .17.: Markthallen München, Zukunftssicherung, Beschluss Vollversammlung vom 19.12.2012, (Sitzungsvorl. Nr. 08-14/V10592, siehe auch TOP 2012.12 B 3.3.1, 2012.11 B 3.3.2)
+- TOP .18.: Fahrradstellplatzkonzept (2. Realisierungsabschnitt), Beschluss Bauausschuss vom 11.12.2012 (Sitzungsvorlage Nr. 08-14 / V 08245, siehe auch TOP 2012.06 B 3.3.1)
+- TOP .19.: Lindwurmstr. 89, Baugenehmigung, Information der Lokalbaukommission
+- TOP .20.: Standort der vom BA 2 gewünschten Toilette in der Litfaßsäule am Gärtnerplatz
+- TOP .21.: Durchführung von Unterhaltsarbeiten an der Isar, Information des Baureferates
+- TOP .22.: Bericht zur Wohnsituation in München 2010-2011, Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 30.01.2013 (Sitzungsvorlage Nr. 08-14 / V 10980)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Reduzierung der Veranstaltungen im Innenstadtbereich, Antrag des BA 1 Altstadt-Lehel
+- TOP .7.: Ampel über die Wittelsbacherstr. zur Bushaltstelle, Antrag aus der Kinder- und Jugendeinwohnerversammlung (BA-Antrag Nr. 08-14 / B 04388), Antwort des KVR
+- TOP .8.: Hackerbrücke wird Fahrradstraße, Antwort des KVR (BA-Antrag Nr. 08-14/B4169)
+- TOP .9.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen, Bescheid des RGU
+- TOP .10.: Baustelle in der Landwehrstr., Antwortschreiben des KVR (siehe TOP 2012.12 C 4.9)
+- TOP .11.: ?Lärm- und Partymeile Gärtnerplatz ? was kann die Stadt tun??, Antrag des Kreisverwaltungsreferenten auf eine Stadtratsanfrage
+- TOP .1.: Schreiben Bürgermeisterin Strobl zum Treffen der BA-Vorsitzenden vom 20.06.2012 (Thema Mobilfunkanlagen, Budget der BA, Farbkopierer für Geschäftsstellen)
+- TOP .2.: Schreiben des KVR zum Treffen der BA-Vorsitzenden vom 13.12.2012 (Praxis der Genehmigungen von privaten genehmigungspflichtigen Feuerwerken beim KVR)
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
