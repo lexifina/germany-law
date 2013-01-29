@@ -1,0 +1,7 @@
+# TOP 13: Sachstandsbericht zur bergischen Kooperation der Städte Remscheid Solingen und Wuppertal, auf dem Gebiet des Gesundheitswesens
+
+- Sitzung: Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (2013-01-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11906
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/13519
