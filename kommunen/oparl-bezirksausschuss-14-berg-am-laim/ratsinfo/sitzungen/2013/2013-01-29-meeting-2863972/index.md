@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-01-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2863972
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2863972
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.3.: Einrichtung einer Lieferzone mittels eingeschränktem Haltverbot auf dem Seitenstreifen vor der Schlüsselbergstraße 13
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Gewerbebetrieb in der Halfinger Straße - Anliegerschreiben
+- TOP 3.1.1.2.: Grafinger Str. 6 - Temporäre Nutzungsänderung von Stellplätzen in Flohmarktflächen
+- TOP 3.1.2.1.: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung
+- TOP 3.5.2.: Budget der Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um die Erfordernis einer inhaltlich qualifizierten Antragstellung (keine ?Fristwahrungsanträge?) - BA-Antrags-Nr. 08-14 / B 04152 des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten
+- TOP 3.5.3.: Budget der Bezirksausschüsse - Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 3.5.4.: Änderung der BA-Satzung: Unterrichtungsrecht / Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen
+- TOP 3.5.5.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020; Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung
+- TOP 3.6.1.: Praschlerstraße 55
+- TOP 3.6.2.: Berg-am-Laim-Straße 127 -129
+- TOP 3.6.3.: Gögginger Str. 22
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Teisendorfer Str.- Errichtung eines Zweifamilienhauses
+- TOP 4.1.1.3.: Gratlspitzstraße - Errichtung eines Einfamilienhauses
+- TOP 4.1.1.4.: Grafinger Str. 6 - Unveränderte Fortführung der Diskothek "Willenlos"
+- TOP 4.1.1.5.: Grafinger Str. 6 - Unveränderte Fortführung des "New York Table Dance?
+- TOP 4.1.1.6.: Vollzug des Art. 22 Abs. 2 Bayer.Denkmalschutzgesetz (DSchG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtline; Aufnahme baulichen Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernenembles in den Gegenstand der Forderung - 08-14 / V 10999
+- TOP 4.1.1.7.: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung - Hinweis/Ergänzung V 10344
+- TOP 4.1.2.1.: Weiterführung der Zusatzfinanzierung für den Straßenunterhalt - Vorlagen-Nr. V 09714
+- TOP 4.1.2.2.: Riedgaustraße / Neumarkter Straße bis zur Weihenstephaner Str. - Antrag auf Tempo 30
+- TOP 4.1.3.1.: Häufung von Beschwerden über Lärmbelästigungen durch Kultfabrik und Optimolwerke
+- TOP 4.2.1.: Winterspielkistl der Offenen Kindersozialarbeit des AKA e.V. am Piusplatz
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München) - Produkt 60 3.1.1 (Kinder- und Jugendarbeit) - Höhe der regelmäßigen jährlichen Aufstockung 62.000,- Euro - Sitzungsvorlage 08-14 / V 10764
+- TOP 4.4.2.: Haushaltsplan 2013 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger? in Bereichen des Sozialreferates - Behandlung von Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.2012 zum Zuschussverfahren
+- TOP 4.4.3.: Halserspitzstraße - Schreiben des Kommunalreferats
+- TOP 4.4.4.: Soziale-Stadt-Projekt "Copy & Work in der Alten Post" - Erhalt der "Alten Post" als ein Haus für den Stadtteil Ramersdorf und rund um den Piusplatz
+- TOP 4.5.1.: Förderverein der Grundschule an der Grafinger Straße 71 e.V.
+- TOP 4.5.2.: Caritas Zentrum Ost / Land
+- TOP 4.5.3.: Pädagogischer Service gGmbH
+- TOP 4.6.1.: Unterrichtung über das Fällen von Gefahrenbäumen auf öffentlichem Grund
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.1.3.3.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im Stadtgebiet
+- TOP 1: (E) Neuzuordnung der Maikäfersiedlung zum Sprengel der Grundschule an der Berg-am-Laim-Straße Empfehlung Nr. 08-14 / E 01431 der Bürgerversammlung des Stadtbezirks 14 - Berg am Laim vom 29.03.2012 - <div></div>
+- TOP 2: (E) Einrichtung zweier Rechtsabbiegespuren von der Auffahrt vom Leuchtenbergring zur Einsteinstraße (Ziffer 1 des Antrags) - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.5.6.: (E) Budget der Bezirksausschüsse pädagogischer service gemeinnützige GmbH Projekttage ?Pädagogische Ziegelei? von April bis August 2013 - <div></div>
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
