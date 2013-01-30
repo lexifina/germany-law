@@ -1,0 +1,8 @@
+# TOP 5: Benennung von Kindertageseinrichtungen an besonders sozial benachteiligten Standorten
+
+- Sitzung: Bezirksvertretung Nord (2013-01-30)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/119261
+- Ergebnis: An den Fachausschuss verwiesen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/15738
