@@ -1,0 +1,69 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-01-30T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2724208
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2724208
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Münchner Sommer SpielAktion 2013: Einsatzorte für die Spielbusse?
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Verkaufseinrichtungen für verschiedene Tageszeitungen: 13 Standorte (nachträgliche Genehmigung schon längst aufgestellter Kästen)
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade Auftritt des einarmigen Gitarristen Andres Godoy am 20.03.2013
+- TOP .2.: Öffentlicher Bücherschrank
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: City Bike Marathon am 14.04.2013
+- TOP .2.: Luitpoldpark: Theateraufführungen des FestSpielHauses am 14., 15. und 22.06.2012
+- TOP .1.: Bürger: Kappungsgrenze von 15 Prozent für Mietverträge in Schwabing-West schnell umsetzen
+- TOP .2.1.: Planen
+- TOP .1.: Arcisstr. 68-74: Neubau eines Umspannwerks mit Büroaufstockung - Erstantrag + Tektur: Vorstellung des Projektes im Unterausschuss durch die Stadtwerke München und den Architekten
+- TOP .2.: Belgradstr. 128 a: Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP .3.: Heßstr. 120: Neubau der Feuerwache 4 - Tektur
+- TOP .4.: Schleißheimer Str. 198: DG-Neubau zur Schaffung von Wohnraum ? Vorbescheid: 1 Variante 1, Satteldach 2 Variante 2, Flachdach
+- TOP .5.: Hornstr. 3: Nutzungsänderung eines Bürogebäudes in ein Wohngebäude (Umbau zu 22 WE + 1 Gewerbeeinheit) mit geringfügiger Erweiterung, Fassadenneugestaltung - Tektur
+- TOP .6.: Kaiserstr. 67: Zusammenlegung zweier Einheiten EG / 1. OG RGB
+- TOP .7.: Petra-Kelly-Straße: Neubau zweier Wohnhäuser (24 WE) mit Tiefgarage (24 Stpl.) - Tektur
+- TOP .8.: Wohnanlage Schleißheimer Str. 252-258 / Giselherstr. 1-7: Antwortschreiben der Stadtverwaltung und Gesprächsangebot der Eigentümerfirma
+- TOP .9.: Barlachstr. 36: Nutzungsänderung mit Umbau Geb. 36 C 2, EG und 1. OG: Tagesstätte zu Kinderkrippe und -garten sowie Büro
+- TOP .10.: Hohenzollernstr. 59 ? Vorbescheid: Neubau einer Wohnanlage (22 WE, 2 Läden) mit Tiefgarage (ca. 24 Stellplätze)
+- TOP .11.: Georg-Birk-Straße: Neubau einer öffentlich geförderten Wohnanlage mit Supermarkt, Garage und Tiefgarage (GWG)
+- TOP .12.: Mainzer Str. 14: Neubau von geförderten Wohnungen mit einem Haus für Kinder
+- TOP .2.2.: Wohnen
+- TOP .1.: Seniorenbeirätin: Einrichtung eines Behindertenparkplatzes vor dem ASZ Schwabing-West
+- TOP .2.1.: Umwelt
+- TOP .1.: Ainmillerstr. 32: Fällung einer Roßkastanie in Zusammenhang mit dem Neubau eines Wohn- und Bürogebäudes mit Tiefgarage (RGB)
+- TOP .2.: Belgradstr. 104: Fällung von acht Bäumen in Zusammenhang mit dem Bauvorhaben der Stiftung Pfennigparade
+- TOP .3.: Lerchenauer Str. 19-29: Fällung eines chinesischen Wacholders
+- TOP .4.: (E) Mehr Abfalleimer am Nordbad bis zur Tengstraße Empfehlung Nr. 08-14 / E 01503 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 11.10.2012
+- TOP .5.: (E) Begrünung der Fallmerayerstraße zwischen Emanuel- und Herzogstraße Empfehlung Nr. 08-14 / E 01500 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 11.10.2012
+- TOP .6.: Belgradstr. 5 ? 5a: Fällung eines Spitzahorn, einer Hainbuche und einer Winterlinde
+- TOP .7.: Isoldenstr. 9 ? 11: Fällung einer Linde
+- TOP .8.: Rümannstr. 28 ? 30: Fällung einer Eiche
+- TOP .9.: Farinellistr. 2 ? 6: Fällung einer Schwarzkiefer
+- TOP .10.: Kaiserstr. 54: Fällung einer Esche und einer Robinie
+- TOP .2.2.: Verkehr
+- TOP .1.: Änderung der Radverkehrsführung in der Elisabeth- und der Franz-Joseph-Straße (aus 12/12 vertagt)
+- TOP .2.: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 3: (E) Fahrradstraße Borschtallee: Gefährdung durch parkende Fahrzeuge (Ziffer 1 des Antrags) Einrichtung eines Behindertenparkplatzes vor der Arztpraxis Herzogstr. 61 (Ziffer 2 des Antrags)
+- TOP 3.4.: Baumaßnahmen zur Verbesserung des Radverkehrs in der Karl-Theodor-Straße zwischen Belgradstraße und Bonner Platz (Projektplanung) (Erneute Anhörung zur Reaktion des Baureferats auf die Stellungnahme des BA vom Dezember 2012)
+- TOP 5: (E) Einrichtung eines Zebrastreifens über die Lerchenauer Straße in Höhe der Gartenstraße
+- TOP 5.1.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung des Direktoriums zum Antrag des BA 5 Au-Haidhausen auf Änderung der BA-Satzung
+- TOP 5.2.: Unterrichtungs- bzw. Anhörungsrecht bei Änderungen der Essensversorgung an Schulen und Kindergärten; Anhörung des Direktoriums zum Antrag des BA 20 Hadern auf Änderung der BA-Satzung
+- TOP 5.1.: Einbeziehung des BA 4 in die Tollwood-Planung und die langfristigen Planungen der Olympiapark GmbH wegen der verkehrlichen Auswirkungen
+- TOP 5.2.: Herstellung aller notwendigen und im Bebauungsplan festgelegten Fuß- und Radwege vor Umsetzung der Fahrwegänderung für den Bus 154alt/144neu in das Zentrum des Ackermannbogens
+- TOP 5.3.: Wertstoffcontainerinseln an der Karl-Theodor-Straße / Brunnerstraße und Karl-Theodor-Straße /Borschtallee barrierefrei zugänglich machen
+- TOP 5.4.: Sicherer Radverkehr in der Rümannstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
