@@ -1,0 +1,95 @@
+# 12. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2013-01-30T17:30:00+01:00
+- Ende: 2013-01-30T21:15:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3439
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3439
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=52796
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema „Im Milieuschutzgebiet ohne Milieuschutz. Gleimstraße 52: Mieter am Falkplatz werden zum Opfer des Versagens der Genehmigungspraxis des Bezirksamtes im sozialen Erhaltungsgebiet. Ein Menetekel.“ - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Anmeldung für die Investitionsplanung 2013 bis 2017 Bezirk Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.11: Nachhaltige Sicherung von parkverträglichem Kleingewerbe im Mauerpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Ost-West-Verbindung durch den Mauerpark sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Erhalt des Denkmals „Gleimtunnel“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Kiezkultur erhalten – Spätverkaufsstellen dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Umsetzung des Integrationskonzeptes kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: B-Plan-Verfahren XIX-61 zur Sicherung der KGA Famos festsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Neue Parzellen für Famos - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Pflege- und Entwicklungsplan Arkenberge - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Maerker in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Unterstützung von Kooperationen zwischen Museen und Schulen - in der BVV abgelehnt
+- TOP 1.21: Übersicht nicht-barrierefreier Orte im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Lichtsignalanlage an der Kreuzung Lessingstraße / Hauptstraße in Wilhelmsruh - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Hilfe für Pfandflaschensammler - Flaschenbehälter an Papierkörben - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Kastanienallee (Prenzlauer Berg) als "verkehrsberuhigten Geschäftsbereich" ausweisen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Gehweg in der Schulzestraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Ein neuer Sportentwicklungsplan! - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Mehr Informationen im Internet zur BürgerInnenbeteiligung in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Eltern-Kind-Arbeitsplätze im Bezirksamt Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Tesla – Schule: Essenversorgung sofort in der Schule gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Kleingartenanlagen im Bezirk Pankow dauerhaft sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Die Beteiligung von Bürgerinnen und Bürgern an den Planungen zum ehemaligen Rangierbahnhof Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Japanische Kirschbäume als Naturdenkmale ausweisen! - überwiesen
+- TOP 1.33: Bevölkerung auf KATWARN aufmerksam machen - überwiesen
+- TOP 1.34: Der transparente Weg zu den Patient*innenfürsprecher*innen - überwiesen
+- TOP 1.35: Grundstückskäufe im Bezirk - beantwortet
+- TOP 1.36: Telefonlisten des Jobcenters veröffentlichen - überwiesen
+- TOP 1.37: Taxirufsäule am S-Bahnhof Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Mauerpark - Zusammenarbeit mit dem Bezirk Mitte - beantwortet
+- TOP 1.39: Ermittlung der sozialen Situation von Selbständigen in Pankow - überwiesen
+- TOP 1.40: Bezirksamt für den Bürger transparenter und erreichbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Verbesserung der Querungssicherheit Montessori-Integrations-Zentrum Syringenweg - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Vielfältige Gewerbestrukturen in Wohngebieten erhalten - überwiesen
+- TOP 1.43: Müllsammelbehälter am Danewendplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Kein neuer Durchgangsverkehr für den Ortsteil Heinersdorf! - überwiesen
+- TOP 1.45: Zentrale Baustellenkoordination - überwiesen
+- TOP 1.46: Unverzügliche Aufstellung einer Ampel im OT Französisch-Buchholz - überwiesen
+- TOP 1.47: Instandsetzung des Gehwegs in der Dänenstraße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bezirkseigene Fahrzeuge in der Umweltzone - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Erinnerung an "Die Palme" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Neue Standorte für den Bau von Mietwohnungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Mieterschutz beim Sanierungsvorhaben der GEWOBAG tatsächlich sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Beteiligung bei der Wahl zur Seniorenvertretung verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Nach über 20 Jahren - endlich den Mauerpark fertigstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Lärmsanierung an Bundesverkehrswegen in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Sonnenburger Platz: Planung wieder aufnehmen, BürgerInnen beteiligen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Sportstätte am Weißensee – sportliche Nachnutzung ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Fußgänger am Knoten Berliner Allee-Rennbahnstraße-Bernkasteler Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Parkraumbewirtschaftung nördliche Torstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Kreuzung Berliner Allee/Indira-Gandhi-Straße: südwestliche Querung der Berliner Allee verbessern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Erweitertes Führungszeugnis bei Kontakt mit Minderjährigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Kulturareal Thälmannpark: Beiratsmitglieder für NutzerInnen und KünstlerInnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Stille Straße 10 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Ehrenamt stärken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Baugenehmigung Wollankstraße 15 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Ausschilderung des Bürgerhauses Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Immissionsschutz im Gewerbegebiet Heinersdorf verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Simultanübersetzungen in Gebärdensprache - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Keine Rundfunkgebühren für Kindertagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennung eines öffentlichen Weges im Ortsteil Französisch Buchholz in Hebammensteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Prüfkriterien für Anträge in den Erhaltungsgebieten nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Soziale Erhaltungsgebiete) im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennung von Schulen - 44. Grundschule Pankow (03G44) Sulzfelder Str. 15 in 13088 Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Bebauungsplanentwurf 3-27 vom 31.03.2011 für die Grundstücke Rykestraße 33 und Rykestraße 34 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Benennung eines Privatweges in der Anlage der Siedlungs- und Gartenge-meinschaft „Insel-Rügen“ eG Berlin–Pankow, im Ortsteil Pankow, in „Insel-Rügen-Weg“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
