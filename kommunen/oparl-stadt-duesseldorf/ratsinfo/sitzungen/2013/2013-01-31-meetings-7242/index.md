@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-01-31T14:00:00+01:00
+- Ende: 2013-01-31T21:40:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7242
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7242
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00189051.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00189051.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00189051.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage von CDU und FDP: Wohnraumförderungsbestimmungen - beantwortet
+- TOP 3.2: Anfrage CDU und FDP: 725 Jahre Stadtrechte Düsseldorf - eine Stadt mit Zukunft - beantwortet
+- TOP 3.3: Anfrage Freie Wähler:Anfrage zu Steuereinnahmen 2012 sowie zur Netto-Finanzposition der Stadt Düssel - beantwortet
+- TOP 3.4: Anfrage Freie Wähler: Anfrage zu erwarteten Steuer-Einnahmen 2013 - beantwortet
+- TOP 3.5: Anfrage SPD: Jugendfreizeiteinrichtung "Kult 3" - schriftlich beantwortet
+- TOP 3.6: Anfrage SPD: Zukunft der Interventionsstelle gegen häusliche Gewalt - schriftlich beantwortet
+- TOP 3.7: Anfrage Die Linke: Keine Hilfeleistung in katholischen Krankenhäusern - schriftlich beantwortet
+- TOP 3.8: Anfrage Die Linke: Gefährdung der Bevölkerung durch CO-Pipeline - schriftlich beantwortet
+- TOP 4: Neufestsetzung der Personal- und Fahrzeugkosten ab 01.03.2013 gemäß der Richtlinien über die Erhebun - einstimmig beschlossen
+- TOP 5: Audit Familiengerechte Kommune - Rezertifizierung - einstimmig beschlossen
+- TOP 6: Übergabe der städt. Tageseinrichtung für Kinder Carl-Friedrich-Goerdeler-Straße - mehrheitlich beschlossen
+- TOP 6.1: ÄA Die Linke: Verbleib der Kita Carl-Friedrich-oerdeler-Str. 19b in städtischer Trägerschaft - mehrheitlich abgelehnt
+- TOP 7: Freigabe verkaufsoffener Sonntage - mehrheitlich beschlossen
+- TOP 7.1: ÄA Die Linke: Keine Sonntagsöffnungen im Einzelhandel - mehrheitlich abgelehnt
+- TOP 8: Verleihung des Helmut-Käutner-Preises - einstimmig beschlossen
+- TOP 9: Bestellung beratender Mitglieder des Jugendrates in Ausschüsse - einstimmig beschlossen
+- TOP 10: Umbesetzung von Ausschüssen und sonstigen Gremien - zur Kenntnis genommen
+- TOP 10.1: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 11: Planungsmaßnahmen
+- TOP 12: Plan Nr. 01/002 -Münsterstraße/Nordstraße Veränderungssperre - einstimmig beschlossen
+- TOP 13: Anträge
+- TOP 13.1: Antrag CDU und FDP: Wohnraumförderung des Landes anpassen - mehrheitlich beschlossen
+- TOP 13.1.1: ÄA SPD: Wohnraumförderung des Landes anpassen- Reformen dringend notwendig - mehrheitlich abgelehnt
+- TOP 13.1.2: Erg. Antrag Die Linke: Wohnraumförderung des Landes anpassen nicht auf Kosten der MieterInnen - mehrheitlich abgelehnt
+- TOP 13.1.3: ÄA Bü90-Grü: Wohnraumförderung des Landes anpassen - Reform dringend notwendig - mehrheitlich abgelehnt
+- TOP 13.2: Antrag Freie Wähler: Eigenmittelanteil bei Projekten gegen Extremismus angleichen - zur Kenntnis genommen
+- TOP 13.3: Antrag Freie Wähler: Extremistische Parteien den Geldhahn zudrehen - zur Kenntnis genommen
+- TOP 13.4: Antrag Freie Wähler: Handlungsleitfaden zum Schutz vor Extremisten - zur Kenntnis genommen
+- TOP 13.5: Antrag Freie Wähler: Handlungsleitfaden zum Versammlungsrecht - zur Kenntnis genommen
+- TOP 13.6: Antrag CDU und FDP: Inklusion - Förderung und Schutz für unsere Kinder - mehrheitlich beschlossen
+- TOP 13.6.1: ÄA Die Linke: Umsetzung der Inklusion im Schulbereich - mehrheitlich abgelehnt
+- TOP 13.6.2: ÄA Bü90-Grü und SPD: hier: Inklusion - Förderung und Schutz für unsere Kinder - mehrheitlich abgelehnt
+- TOP 13.7: Antrag SPD: ehr Elektromobilität in der Stadt - Nutzung der öffentlichen Infrastruktur - - mehrheitlich abgelehnt
+- TOP 13.8: Antrag Bü90/Grü: Online-Umfragen als Form der BürgerInnenbeteiligung - mehrheitlich abgelehnt
+- TOP 13.9: Antrag Die Linke: Keine Kürzungen von Landesmitteln für Kinder und Bildung: - mehrheitlich abgelehnt
+- TOP 13.9.1: ÄA Die Linke: Erarbeitung von Konzepten gegen rechte Gewalt - mehrheitlich abgelehnt
+- TOP 13.10: Antrag SPD, BÜ90-GRÜ, CDU und FDP: Konzepte gegen rechte Gewalt - mehrheitlich beschlossen
+- TOP 13.11: Antrag der Ratsfraktionen von CDU und FDP: Beitritt zum "Bündnis für Bildung e.V." - mehrheitlich beschlossen
