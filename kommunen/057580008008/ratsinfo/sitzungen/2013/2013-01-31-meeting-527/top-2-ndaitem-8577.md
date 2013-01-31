@@ -1,0 +1,6 @@
+# TOP 2.: Niederschrift über die öffentliche Sitzung am 06.12.2012.
+
+- Sitzung: Ausschuss für öffentliche Sicherheit, Ordnung, Umwelt und Verkehr (1. Sitzung) (2013-01-31)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8577
