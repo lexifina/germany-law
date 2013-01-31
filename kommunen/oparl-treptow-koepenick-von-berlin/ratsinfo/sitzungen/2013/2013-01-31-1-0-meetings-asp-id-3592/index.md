@@ -1,0 +1,60 @@
+# 15. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-01-31T16:30:00+01:00
+- Ende: 2013-01-31T22:35:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3592
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3592
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=92656
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-15 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer Bürgerdeputierten für den Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für abw - gemeinnützige Gesellschaft für Arbeit, Bildung und Wohnen mbH (SM 1302) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Erhaltungssatzung für Alt-Treptow - überwiesen
+- TOP 12.2: Verkehrsrisiko bei der Ausfahrt aus der Straße Alter Segelfliegerdamm mindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Barrierefreie Haltestellen in der Altstadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Abgeordnete Schilder entfernen - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Gemeinsamer Geh- und Radweg Stellingdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Linksabbiegen Südostallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Anmeldung zur Investitionsplanung 2013 bis 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Personalabbau und Haushaltssituation in einer Präambel zum Regionalen Entwicklungskonzept BER benennen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Tischtennisplatten im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-78c ("Am Berg") hier: Einstellung des Bebauungsplans - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Im I. Halbjahr 2012 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gedenken an 60. Jahrestag des Volksaufstandes am 17. Juni - vertagt
+- TOP 14.2: Gefährdung durch Leuchtwerbung verhindern - überwiesen
+- TOP 14.3: Personalentwicklungskonzept für das Bezirksamt Treptow-Köpenick - vertagt
+- TOP 14.4: Schwimmunterricht für Erwachsene - überwiesen
+- TOP 14.5: Ausbau des Trampelpfades zu einem regulären Weg von der Bushaltestelle der Linie 265 "S Treptower-Park" zum Bahnhof Treptower Park - überwiesen
+- TOP 14.6: Bürgerbeteiligung stärken - überwiesen
+- TOP 14.7: Rahnsdorfer Ruderfähre - überwiesen
+- TOP 14.8: Nahverkehrstangente für den Bundesverkehrswegeplan 2015 anmelden - überwiesen
+- TOP 14.9: Mehr Details zu Haushaltsposten - überwiesen
+- TOP 14.10: Querungsmöglichkeit in der Seelenbinderstraße - überwiesen
+- TOP 14.11: Taktverdichtung Buslinie 170 - überwiesen
+- TOP 14.12: Alternative zur Ruderfähre - überwiesen
+- TOP 14.13: Fußgängerampel auf der Wassersportallee - überwiesen
+- TOP 14.14: Hans-Grade-Schule zügig realisieren - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Musikschulstandorte und ihre Kosten - vertagt
