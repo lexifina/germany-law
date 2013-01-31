@@ -1,0 +1,6 @@
+# TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+
+- Sitzung: 31. Sitzung (2013-01-31)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/123230
