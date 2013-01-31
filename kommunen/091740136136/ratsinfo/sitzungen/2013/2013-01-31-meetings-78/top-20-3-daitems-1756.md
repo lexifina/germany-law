@@ -1,0 +1,6 @@
+# TOP 20.3: Herr Gemeinderat Wolfgang Stadler fragt nach dem Sachstand Umbau Bahnhofsgebäude
+
+- Sitzung: Sitzung des Gemeinderates (2013-01-31)
+- Körperschaft: Gemeinde Petershausen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Gemeinde-Petershausen/agendaitems/1756
