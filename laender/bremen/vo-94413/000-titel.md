@@ -1,1 +1,1 @@
-# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für das Lehramt an öffentlichen Schulen im Lande Bremen vom 11. April 2012
+# Verordnung über die Festlegung der Zulassungszahlen zum Vorbereitungsdienst für die Lehrämter an öffentlichen Schulen im Lande Bremen vom 10. Januar 2013
