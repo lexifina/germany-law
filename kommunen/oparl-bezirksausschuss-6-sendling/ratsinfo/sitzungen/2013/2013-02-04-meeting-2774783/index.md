@@ -1,0 +1,72 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-02-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2774783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2774783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Mediationsverfahren Thalkirchner Straße 190
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Wahl des Seniorenbeirats 2013 - zusätzliche, vorgezogene Vorstellungsrunde
+- TOP 3.2.: Vorstellung der Ergebnisse des Gestaltungswettbewerbs für das Clearinghaus Plinganserstr. 27 - 31
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Unterbringung der Mittagsbetreuung während des Schulneubaus an der Meindlstraße 8
+- TOP 4.2.: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West
+- TOP 4.3.: Schüler- und Klassenzahlen
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.: Freischankflächenerweiterung Thalkirchner Str. 126
+- TOP 6.1.: Werbefahrräder und Werberoller in Sendling
+- TOP 6.2.: Grünzeit an der Fußgängerampel über die Plinganserstraße Höhe der Post
+- TOP 6.3.: Bushaltestellen Am Harras
+- TOP 6.4.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Freundeskreis Dante-Gymnasium München e.V. Projekt ?Perspektivenwechsel? ab März 2013 - <div>Zustimmung, einstimmig</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Kantorat der Himmelfahrtskirche München-Sendling Aufführung der ?Johannes-Passion? am 23.03.2013 - <div>Kürzung auf ? 1500,- - einstimmig</div>
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Kantorat der Himmelfahrtskirche München-Sendling sechs Orgelkonzerte von 16.02. bis 30.03.2013 - <div>Zustimmung, einstimmig</div>
+- TOP 7.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Implerstr. Instandsetzung und Neuanstrich der Schulhofmauer - <div>Zustimmung, einstimmig</div>
+- TOP 7.5.: Voranmeldung der Budgetanträge der Himmelfahrtskirche für 2013
+- TOP 7.6.: Bezuschussung von LILALU-Workshopplätzen in 2012 - Erfahrungsbericht
+- TOP 7.7.: Änderung der Budgetrichtlinien
+- TOP 7.8.: Unterrichtungs- / Anhörungsrecht der Bezirksausschüsse bei Änderung der Essensversorgung an Schulen und Kindergärten
+- TOP 7.9.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020; Anpassung der BA-Satzung
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Heißstraße
+- TOP 8.3.: Spielhalle Thalkirchner Straße 131
+- TOP 8.4.: Bericht zur Wohnsituation in München 2010 - 2011
+- TOP 8.5.: Beteiligung an den Kosten des Denkmalschutzes
+- TOP 8.6.: Parkraummanagement in München - Fortschreibung
+- TOP 8.7.: Vielfältige Möglichkeiten der Bürgerbeteiligung darstellen
+- TOP 9: Baureferat
+- TOP 9.1.: Wiedereröffnung der Bastion am Greinerberg
+- TOP 9.2.: Offizielle Übergabe des Baumhauses am Neuhofener Berg
+- TOP 9.3.: Erneuerungsmaßnahmen und Verbesserung der Plinganserstraße zwischen Am Harras und Dudenstraße
+- TOP 9.4.: Fahrradstellplatzkonzept
+- TOP 9.5.: Bachräumungstermin 2013
+- TOP 9.6.: Öffnung der Braunauer Eisenbahnbrücke für Fußgänger und Radfahrer - <div>zur Kenntnis genommen</div>
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Bavariastr. 16
+- TOP 10.2.: Baumfällungen Plinganserstr. 114 / Flößergasse 7 / Heißstr. 1 - Einrichtung einer Feuerwehrzufahrt
+- TOP 10.3.: Durchführung von Unterhaltsarbeiten an der Isar; Freischneiden und Freihalten des Isar-Hochwasserbetts
+- TOP 10.4.: Novellierung der Baumschutzverordnung
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Treppe für das Schwimmerbecken im Südbad Empfehlung Nr. 08-14 / E 01523 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 16.10.2012 - <div>Zustimmung, einstimmig</div>
+- TOP 1.2.: Realisierung von Wohneinheiten für "Betreutes Wohnen" im Bauvorhaben Königsdorfer- / Thalkirchner Str. BV-Empfehlung Nr. 1524 vom 16.10.2012
+- TOP 1.3.: Öffentliche Auslegung der Preisträger des Gestaltungsworkshops für das Clearinghaus Plinganserstr. 27 - 31 BV-Empfehlung Nr. 1522 vom 16.10.2012
+- TOP 5: (E) Realisierung von Wohneinheiten für ?Betreutes Wohnen? im Bauvorhaben Königsdorfer-/Thalkirchner Str. Empfehlung Nr. 08-14 / E 01524 ........................ - <div>Zustimmung, einstimmig</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Zukunftssicherung der Markthallen München
+- TOP 13.2.: Wege aus der Wohnungsnot IV
+- TOP 4: (E) Öffentliche Auslegung der Preisträger des Gestaltungsworkshops für das Clearinghaus Plinganserstraße 27 bis 31 Empfehlung Nr. 08-14 / E 01522 ..................... - <div>Erledigung durch Oberbürgermeister mit Schreiben vom 30.04.13</div>
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
