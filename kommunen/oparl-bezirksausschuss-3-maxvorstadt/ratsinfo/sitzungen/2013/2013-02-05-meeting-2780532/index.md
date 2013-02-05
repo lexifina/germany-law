@@ -1,0 +1,91 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-02-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780532
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780532
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 15.01.2013
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 15.01.2013 Lärmschutz bei Public Viewing und sonstigen Großveranstaltungen (s. TOP C 2.2.1)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 52., 2., 3. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: KW
+- TOP 2.1.3.: Dachauer Straße 21 Nutzungsänderung Gaststätte zu Spielothek
+- TOP 2.1.4.: Schellingstraße 50 Aufstockung Rückgebäude (Wohngebäude)
+- TOP 2.1.5.: Lenbachplatz 1 Errichtung des zweiten Rettungsweges durch Notleiteranlagen (Lenbachpl. 1/Ottostr.1)
+- TOP 2.1.6.: Erzgießereistraße 14 Abbruch eines Büro- und Gewerbekomplexes mit Neubau einer Wohnanlage inkl. Tief- garage (Erzgießereistraße 14/Linprunstraße 18 u. 22) - Vorbescheid
+- TOP 2.1.7.: Wittelsbacherplatz 4 Neubau eines Büro- und Verwaltungsgebäudes mit Sanierung der Gebäude Wittelsbacherplatz 2 u. 4 (Finkenstraße 10/Jägerstraße 1 u. 5/Wittelsbacherplatz 2 ? 4)
+- TOP 2.1.8.: Baureferat, Zwischennachricht Pflanzung einer Baumreihe entlang der gesamten Südseite der Akademiestraße Empfehlung Nr. 08-14 / E 01117 der Bürgerversammlung des Stadtbezirkes 3 Maxvor- standt vom 20.10.2011
+- TOP 2.1.9.: Beschilderung und Beschreibung von Bäumen und Sträuchern im Maßmannpark
+- TOP 2.2: Baumfällungen
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Abbau der Lichtzeichenanlage Karl-/Sandstraße
+- TOP 2.1.2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 19.12.2012 Bedarfsampel S chelling-/Schwindstraße, Rot/Gelbampel an der Schleißheimer-/Maß- mann-/Schellingstraße vertagt aus der Sitzung vom 15.01.2013 Unterlagen liegen bereits vor, eine Stellungnahme der PI 12 wurde angefordert
+- TOP 3: (E) Heßstraße zwischen Arcisstraße und Barer Straße für Radverkehr gegen die Einbahnstraße freigeben
+- TOP 4: (E) Einrichten einer Ampelanlage an der Schellingstraße 131 / Zentnerstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Schreiben eines Bürgers aus der Maxvorstadtd vom 15.01.2013 Lärmschutz bei Public Viewing und sonstigen Großveranstaltungen (s. TOP A 5.2.1)
+- TOP 2.2.2.: (E) Fahrradabstellplätze in der Schellingstraße / Ecke Barer Straße (Ziffer 1) Empfehlung Nr. 08-14 / E 01533 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 18.10.2012
+- TOP 3: (E) Errichtung von öffentlichen Toiletten an Spielplätzen vorrangig am Alten Nördlichen Friedhof, Josephsplatz und Maßmannpark Empfehlung Nr. 08-14 / E 01120 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt
+- TOP 3.4.: Abfallwirtschaftsbetrieb München: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer Zusätzliche Standorte Elisen-/Dachauer Straße, Görresstraße, Schellingstraße ggü. Nr. 157
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bürger- und Helferfest zum 150jährigen Bestehen des Roten Kreuzes am 13.07.2013 auf dem Königsplatz; Vorabanhörung
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 Theaterprojekt für die 2. Klassen ab 18.02.2013
+- TOP 2.2.: Direktorium Änderung der Bezirksausschuss-Satzung; Unterrichtungsrecht/Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essens- versorgung an Schulen und Kindertageseinrichtungen Beschluss des Bezirksausschusses 20 Hadern vom 09.01.2012
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße Zeitgenössischer Tanz für die 2. Klassen
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse post it - productions GbR Projekt "Karolinenplatz 5//Salon Deutschland" im November 2013
+- TOP 2.2.: Belegung der Akademiegalerie im August 2013
+- TOP 2.3.: Ausstellungsplan U-Bahn-Galerie
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Renovierung U-Bahn-Galerie
+- TOP 3.2.: Kunstprojekt ?Restlicht? (Werner Mally) vor dem Siegestor
+- TOP 3.3.: Katharina-von-Bora-Straße 7, Zwischennutzungskonzept SWM-Heizwerk durch das Kunst- und Kultur-Projekt ?KUNST[statt]WERK?, vorgelegt von der Gruppe ?MMA Kunst + Kultur?
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligung für den Ber- ch des Referates für Stadtplanung und Bauordnung Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013 sowie Neufassung vom 16.01.2013 für die Vollversammlung am 23.01.2013 Sitzungsvorlage Nr. 08-14 / V 10344
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vollzug des Art 22 Abs. 2 Bayer. Denkmalschutzgesetz (DschG) ? Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013 Sitzungsvorlage Nr. 08-14 / V 10999
+- TOP 1.3.: Baureferat, Beschlussvorlage Anwohnertiefgarage Josephsplatz im 3. Stadtdbezirk Maxvorstadt Beschluss des Bauausschusses vom 15.01.2013 Sitzungsvorlage Nr. 08-14 / V 11044
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bericht zur Wohnungssituation in München 2010 ? 2011 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 30.01.2013 Sitzungsvorlage Nr. 08-14 / V 10980
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Taxistandplatz Elisenstraße: Verkürzung
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Schreiben vom 11.01.2013, Genehmigung von privaten genehmigungspflichtigen Feuerwerken beim KVR
+- TOP 2.3.: Kreisverwaltungsreferat,Verkehrsmanagement, strategische Konzepte Zweirichtungsverkehr für Radfahrer in der Adamstraße (s. TOP C 2.1.9/1112)
+- TOP 2.4.: Schreiben des Kreisverwaltungsreferates vom 21.01.2013 an einen Bürger aus der Max- vorstadt wegen Veranstaltungen in der Maxvorstadt
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Referat für Bildung und Sport, Beschlussvorlage Familien-Eintrittskarten für die Eis- und Funsportzentren Ost und West Beschluss des Ausschusses für Bildung und Sport vom 07.11.2012 Sitzungsvorlage Nr. 08-14 / V 10362
+- TOP 3.2.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2012/2013 Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.2013 Sitzungsvorlage Nr. 08-14 / V 11037
+- TOP 3.3.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2012/2013 Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.2013 Sitzungsvorlage Nr. 08-14 / V 10937
+- TOP 3.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2012/2013 Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.2013 Sitzungsvorlage Nr. 08-14 / V 10968
+- TOP 3.5.: Schüler/innen- und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2012/2013 Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.2013 Sitzungsvorlage Nr. 08-14 / V 10911
+- TOP 4: Kultur
+- TOP 4.1.: Budget der Bezirksausschüsse Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der Landes- hauptstadt München (Bezirksausschuss-Satzung)
+- TOP 4.2.: Budgetantrag für das Kinder- und Bürgerfest des BA 3 am 15.06.2013 (Ersatztermin 22.06.2013) Beantragter Zuschuss: maximal 2.500,00 ?
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
