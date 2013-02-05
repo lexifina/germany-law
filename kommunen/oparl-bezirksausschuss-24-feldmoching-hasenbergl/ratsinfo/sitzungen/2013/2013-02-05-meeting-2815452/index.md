@@ -1,0 +1,58 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-02-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2815452
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2815452
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein Stadtteilkultur 2411 e.V. Ausstellung vom 16.01. - 06.02.2013
+- TOP 3.1.: Darstellung des Planungsstandes der Errichtung einer Asylbewerberunterkunft in der Wald- meisterstraße
+- TOP 3.2.: Verkehrslage in der Herbergestrasse
+- TOP 3.3.: Erstellung eines schalltechnischen Gutachtens auf der Trasse der S1 und bei Nichteinhaltung der gesetzlichen Grenzwerte Planung von Schallschutzmaßnahmen
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: Stadtinformationsanlage (Kultursäule) am Walter-Sedlmayr-Platz
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Josef-Frankl-Str. 34 5.2.2. Lerchenauer Str. 255 5.2.3 Hornkleeweg 3 5.2.4 Karlsfelder Str. 36
+- TOP 5.3.: Direktorium: Unterrichtungsrecht/ Anhörungsrecht für die Bezirksausschüsse bei Änderung der Essensversorgung an Schulen und Kindertageseinrichtungen
+- TOP 5.4.: KVR: Lichtzeichenanlagen-Bauprogramm 2013
+- TOP 5.5.: KVR: verkehrsrechtliche Anordnung: Errichtung einer Bücherbushaltestelle in der Irisstraße
+- TOP 5.6.: KVR: Veranstaltungen auf städtischer Grünanlage Dülfer Anger: 5.6.1 Frühlingsfest Hasenbergl-Nordhaide vom 31.03. bis 14.04.2013 5.6.2 Zirkusgastspiel des Chricus Roberto vom 01.05. bis 12.05.2013 5.6.3 5. öffentliche Veranstaltung des Deutsch-Türkischen Kulturvereins e.V. vom 06.06. bis 09.06.2013
+- TOP 5.7.: KVR: Veranstaltungen auf öffentlicher Grünanlage: Integrationsfest des Vereins für Integrations- und Bildungsförderung in München e.V. auf der Zirkuswiese Weitlstraße vom 01.05. - 05.05.2013 und 09.05. - 12.05.2013
+- TOP 5.8.: Direktorium: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020; Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Bürgeranliegen: a) Vorschlag an Referat für Stadtplanung und Bauordnung zur Entlastung des Verkehrsknotenpunktes Fasanerie am BÜ Fasanerie. b) Antwortschreiben Baureferat
+- TOP 6.2.: KVR: Zusätzliches Hinweisschild auf die P+R-Anlage Bahnhof Feldmoching in der Paul-Preuß-Straße
+- TOP 6.3.: Bürgeranliegen: geparkte LKW-Anhänger in der Straße "Auf den Schrederwiesen":
+- TOP 6.4.: Baureferat: Einsatz von Laubbläsern
+- TOP 6.5.: Baureferat: Höhenfreimachung Bahnübergang Fasanerie Nord; Bitte um Bericht über Planungsstand und Verhandlungen nach dem Eisenbahnkreuzungsgesetz.
+- TOP 6.6.: KVR: Kurzparkzone vor Paul-Preuß-Str. 2 und Abmarkierung Gehweg - Privatgrund.
+- TOP 6.7.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.8.: Meldelisten Baumfällungsanträge
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: Baureferat: Erinnerungsverfahren (§ 6.1 AufgrO): Diamantstraße
+- TOP 6.11.: Baureferat: Vollzug der Wassergesetze: Bachräumungstermine 2013 für die Stadt- bzw. Stadtdrandbäche
+- TOP 6.12.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Georg-Zech-Allee 15
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen: Bürgerbeteiligung für den Bereich des Referates für Stadtplanung und Bauordnung (Hinweis/ Ergänzung vom 19.12.2012 und Neufassung vom 16.01.2013)
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgestz (DschG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städt. Zuwendungsrichtlinien....
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bericht zur Wohnungssituation in München 2010 - 2011
+- TOP 6.16.: Beschlussvorlage Baureferat: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 mit verbindlicher Planung für 2017; Entwurf für das Baureferat
+- TOP 6.17.: Beschlussvorlage Referat für Bildung und Sport: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West
+- TOP 6.18.: Beschlussvorlage Referat für Bildung und Sport: Umbau und Erweiterung der Sporthalle, Neben- und Betriebsräume der Grundschule an der Feldmochinger Str. 251
+- TOP 6.19.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen der öffentlichen Grund, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagoschen Tagesstätten für das Schuljahr 2012/ 2013
+- TOP 6.20.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien, sowiean den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2012/ 2013
+- TOP 6.21.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2012/ 2013
+- TOP 6.22.: Beschlussvorlage Referat für Bildung und Sport: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2012/ 2013
+- TOP 6.23.: Direktorium: Änderungen in der Bezirksausschuss-Satzung bzw. in den Richtlinien für die Gewährung von Zuwendungen aus dem BA-Budget
+- TOP 6.24.: KVR: Geschwindigkeitsüberschreitungen im 24. Stadtbezirk, insbesondere in verkehrsberuhigten Zonen (hier: Herbergstraße)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
