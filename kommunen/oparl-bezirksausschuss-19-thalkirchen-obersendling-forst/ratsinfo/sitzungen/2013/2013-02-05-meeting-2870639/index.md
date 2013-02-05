@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2013-02-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2870639
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2870639
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähikgeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 08.01.13
+- TOP 2: Anträge
+- TOP 2.1.: Anträge aus der Einwohnerversammlung vom 28.01.13
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: (A) Mobilfunk Suchkreismeldung Obersendling
+- TOP 4.3.: (A) Mobilfunk Suchkreismeldung Neuforstenried
+- TOP 4.4.: (A) Mobilfunk Standorterweiterung
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Tempo 30 Fraunbergstr.
+- TOP 5.2.: Haltverbot Alfred-Schmidt-Str.
+- TOP 5.3.: Zebrastreifen St.-Wendel-Str.
+- TOP 5.4.: Sperrung Baierbrunner Str.
+- TOP 5.5.: Ausbau Wolfratshauser Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: Baumarkt Hofmannstr. 4
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Sondernutzung - Zeitungsentnahmegeräte SZ
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: (A) BA-Satzung - Änderung der Essenversorgung an Schulen und Kitas
+- TOP 9.2.: (U) Grundstückskauf Baierbrunner Str. 39
+- TOP 9.3.: (A) Antrag auf Zweckentfremdung Kistlerhofstr.
+- TOP 9.4.: (U) Antrag auf Zweckentfremdung Kurzbauerstr.
+- TOP 9.5.: (U) Antrag auf Zweckentfremdung Echterstr.
+- TOP 9.6.: (U) Antrag auf Zweckentfremdung Schäftlarnstr.
+- TOP 9.7.: (U) Gaststättenfortführung Fraunbergstr. 10
+- TOP 9.8.: (U) Gaststättenfortführung Boschetsrieder Str. 140
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 7.1.: Bericht
+- TOP 1: Allgemeiner Teil
