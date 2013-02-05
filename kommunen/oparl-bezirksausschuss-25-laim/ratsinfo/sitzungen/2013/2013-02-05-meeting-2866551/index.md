@@ -1,0 +1,95 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-02-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2866551
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2866551
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Gestaltung der Unterführung unter der Fürstenrieder Straße auf Höhe Hausnr. 51
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: S-Bahnhof Laim - Wartehäuschen / Windschutz
+- TOP 2.2.: SPD: Errichtung von Fahrradständern im Bereich des neuen Geschäftshauses "Fürst 51"
+- TOP 2.3.: SPD: Überprüfung der Ampelschaltung an der Kreuzung Fürstenrieder Straße / Ammerseestraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 in Höhe von 1.150 Euro für Fahnenweihe am 15.06.13; Antragsteller: Veteranen- und Kriegerverein Laim 1890/2010 e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.000 Euro für 100 Jahrfeier der Kleingartenanlage vom 11.07.-14.07.13; Antragsteller: Bahn ? Landwirtschaft Unterbezirk München - West (vertagt aus der BA-Sitzung vom 08.01.13) - <div>vertagt</div>
+- TOP 3: Beschlussvorlage Baureferat: Verbesserung der Straßenbeleuchtung in der Guido-Schneble-Straße zwischen Laimer Platz und Aindorferstraße (Empfehlung Nr. 08-14 / E 01595 der Bürgerversammlung am 20.11.2012) - <div>nach Antrag</div>
+- TOP 4: Beschlussvorlage Baureferat: Mehr Abfallkörbe an den U-Bahnhöfen Laimer Platz und Friedenheimer Straße (Ziffer 1 des Antrags) (Empfehlung Nr. 08-14 / E 01592 der Bürgerversammlung am 20.11.2012) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 18.12.12: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung (Antrag Nr. 08-14 / B 03805 des BA 5 Au-Haidhausen vom 21.03.12) (vertagt aus der BA-Sitzung vom 08.01.13)
+- TOP 4.2.: Schreiben Spielen in der Stadt e.V. vom 04.12.12: Planung der Einsätze der Münchner Sommer SpielAktion 2013 (vertagt aus der BA-Sitzung vom 08.01.13)
+- TOP 4.3.: Schreiben Direktorium vom 10.01.2013: Änderung der Bezirksausschuss-Satzung; Unterrichtungrecht / Anhörungsrecht der Bezirksausschüsse bei Änderung der Essensversorgung an Schulen und Kindertageseinrichtungen (Anhörung zum Beschluss des BA 20 Hadern vom 09.01.12)
+- TOP 4.4.: Willibaldstr. 165: Antrag auf genehmigungspflichtige Baumveränderung an einer Rotbuche
+- TOP 4.5.: Schreiben Baureferat vom 18.01.13: Erinnerungsverfahren Riegerhofstraße; Sanierung von Hausnr. 20-28
+- TOP 4.6.: Schreiben Kommunalreferat vom 24.01.13: Anbringung von Erläuterungsschildern an den Straßenschildern der Camerloherstraße (Antrag Nr. 08-14 / B 04436 vom 04.12.12)
+- TOP 4.7.: Schreiben Direktorium vom 21.01.13: Bildung der Bezirksausschüsse für die Amtsperiode 2014-2020; Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Flantinstr. 10: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.2.: Perhamerstr. 78a-78f: Neubau einer Wohnanlage / Vorbscheid (Perhamerstr. 78a-f / Agricolastraße); hier: Bau- und Baumbestandspläne
+- TOP 5.3.: Siglstr. 7-15: Neubau einer Wohnanlage (72 WE) mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.4.: Elsenheimerstr. 48-50: Umbau Bürogebäude zu Studentenwohnheim / Vorbescheid; hier: Baupläne
+- TOP 5.5.: Landsberger Str. 199: Nutzungsänderung: Teilfläche einer Gaststätte zu Spielothek; hier: Baupläne
+- TOP 5.6.: Landsberger Str. 191-191a: Abbruch aller Gebäude incl. aller Nebengebäude
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Kinder- und Jugend BA vom 30.11.12
+- TOP 7.2.: Sitzung UA Kultur vom 08.01.13
+- TOP 7.3.: BA-Sitzung vom 08.01.13
+- TOP 7.4.: Sitzung UA Soziales, Schule und Sport vom 22.01.13
+- TOP 7.5.: Sitzung UA Bau vom 30.01.13
+- TOP 7.6.: Ortstermin UA Umwelt / Verkehr vom 01.02.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Bürgermeisterin Christine Strobl vom 04.12.12: Treffen der Bezirksausschussvorsitzenden am 20.06.12
+- TOP 8.2.: Schreiben Direktorium vom 20.12.12: Budget der Bezirksausschüsse - Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung)
+- TOP 8.3.: Schreiben Direktorium vom 11.01.13: Zuwendung aus dem Budget der Bezirksausschüsse; Johanniter-Unfall-Hilfe e.V., LILALU Workshopplätze, Erfahrungsbericht
+- TOP 8.4.: Schreiben Münchner Stadtentwässerung vom 20.12.12: Städtebauliche Entwicklung des Grundstücks Mathunistr. 40 und 42 am Laimer Anger (Antrag Nr. 08-14 / B 04307 vom 09.10.12)
+- TOP 8.5.: Schreiben Baureferat vom 21.12.12: Sauberkeit in Laim; Unterführung unter der Fürstenrieder Straße auf Höhe Hausnr. 51/53 (Schreiben BA vom 28.11.12)
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 20.12.12: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.9.: Schreiben Sozialreferat vom 20.12.12: Zweckentfremdung von Wohnraum durch Abbruch; Flantinstraße
+- TOP 8.10.: Schreiben Sozialreferat vom 21.01.13: Zweckentfremdung von Wohnraum durch Abbruch; Fachnerstraße
+- TOP 8.11.: Schreiben Sozialreferat vom 21.01.13: Wahl der 10. Münchner Seniorenvertretung 2013, Werbung zur Wahl
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 20.12.12: Drehgenehmigung Aktenzeichen XY
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 10.01.13: Anzeige einer Versammlung unter freiem Himmel am 12.01.13, Fürstenrieder Str. 52-54
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 14.01.13: Infostand "Gegen Moschee am Stachus - Bürgerbewegung Die Freiheit" am 19.11.12 vor der Schule an der Fürstenrieder Str. 30 (Schreiben BA vom 17.12.12)
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.01.13: Helmpertstr. 9; VGB: DG-Ausbau mit 2 Klassenzimmern und neuen Gauben sowie Erhöhung der Fluchttreppe
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.01.13: Erhalt der Kleingartenanlage an der Westendstraße in ihrem jetzigen Zustand (Antrag Nr. 08-14 / B 04304 vom 09.10.12)
+- TOP 8.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.01.13: Kommunale Satzung für Abstandsflächen / Erstellung eines Nachverdichtungskonzept (Empfehlung Nr. 08-14 / E 01154 aus der Bürgerversammlung vom 15.11.11)
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.01.13: Ausschöpfung aller rechtlichen Möglichkeiten, künftig die dichte und massive Bebauung in Laim zu verhindern (Empfehlung Nr. 08-14 / E 01148 aus der Bürgerversammlung vom 15.11.11)
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 20.12.12: Wirtschafts-Info 12/2012
+- TOP 8.21.: Schreiben Abfallwirtschaftsbetrieb München vom 08.01.13: Pressemitteilung vom 08.01.13 bzgl. Alttextiliensammlung
+- TOP 8.22.: Bautenliste vom 17.12.-23.12.12 1. Erstantragsverfahren a) Inderstorferstr. 2 b) Siglstr. 7 c) Flantinstr. 10 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Perhamerstr. 78a
+- TOP 8.23.: Bautenliste vom 24.12.-30.12.12 1. Erstantragsverfahren a) Aindorferstr. 127 b) Schedelstr. 4 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Elsenheimerstr. 48 b) Landsberger Str. 191
+- TOP 8.24.: Bautenliste vom 07.01.-13.01.13 1. Erstantragsverfahren a) Landsberger Str. 199 b) Fürstenrieder Str. 98 c) Fürstenrieder Str. 30
+- TOP 8.25.: Bautenliste vom 14.01.-20.01.13: 1. Änderungsverfahren a) Von-der-Pfordten-Str. 59 b) Fürstenrieder Str. 51
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 14.01.13: Baumaßnahmen der Stadtwerke; Stichtag: 14.01.13
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 21.01.13: Baumaßnahmen der Stadtwerke; Stichtag: 21.01.13
+- TOP 8.28.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.12: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West (Sitzungsvorlage Nr. 08-14 / V 10362)
+- TOP 8.29.: Beschluss des Bauausschusses vom 11.12.12: Fahrradabstellkonzept (2. Realisierungsabschnitt) (Sitzungsvorlage Nr. 08-14 / V 08245)
+- TOP 8.30.: Beschluss der Vollversammlung vom 12.12.12: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogramms 2010-2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten (Sitzungsvorlage Nr. 08-14 / V 09670)
+- TOP 8.31.: Beschluss der Vollversammlung vom 19.12.12: Novellierung der Baumschutzverordnung (BaumschutzVO), u.a. Antrag Nr. 08-14 / B 04165 des BA 25 vom 31.07.12 (Sitzungsvorlage Nr. 08-14 / V 10503)
+- TOP 8.32.: Beschluss der Vollversammlung vom 19.12.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, Behandlung von Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10337)
+- TOP 8.33.: Beschluss der Vollversammlung vom 19.12.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Behandlung von Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10305)
+- TOP 8.34.: Beschluss der Vollversammlung vom 19.12.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Behandlung von Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10309)
+- TOP 8.35.: Beschluss der Vollversammlung vom 19.12.12: Haushaltsplan 2013, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Behandlung von Empfehlungen des Rechnungsprüfungsausschusses vom 03.05.12 zum Zuschussverfahren (Sitzungsvorlage Nr. 08-14 / V 10387)
+- TOP 8.36.: Beschluss der Vollversammlung vom 19.12.12: Parkraummanagement in München-Fortschreibung Umsetzungskonzept (Sitzungsvorlage Nr. 08-14 / V 07773)
+- TOP 8.37.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.13: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München), Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000 Euro (Sitzungsvorlage Nr. 08-14 / V 10764)
+- TOP 8.38.: Beschluss der Vollversammlung vom 23.01.13: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 08-14 / V 10344)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.13: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtlinien, Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensemles in den Gegenstand der Förderung (Sitzungvorlage Nr. 08-14 / V 10999)
+- TOP 8.40.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.01.13: Kindertagesstätte gemeinnütziger Träger; Haus für Kinder Haslangstr. 46, Leistung eines Baukostenzuschusses (Sitzungsvorlage Nr. 08-14 / V 10996)
+- TOP 8.41.: Bekanntgabe im Ausschuss für Bildung und Sport am 30.01.13: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2012 / 2013 (Sitzungsvorlage Nr. 08-14 / V 11037)
+- TOP 8.42.: Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.13: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2012 / 2013 (Sitzungsvorlage Nr. 08-14 / V 10937)
+- TOP 8.43.: Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.13: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städtischen Franz-Auweck-Abendschule; Schuljahr 2012 / 2013 (Sitzungsvorlage Nr. 08-14 / V 10968)
+- TOP 8.44.: Bekanntgabe im Ausschuss für Bildung und Sport vom 30.01.13: Schüler/innen- und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2012 / 2013, Stand: 20.10.12 (Sitzungsvorlage Nr. 08-14 / V 10911)
+- TOP 8.45.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 30.01.13: Bericht zur Wohnungssituation in München 2010-2011 (Sitzungsvorlage Nr. 08-14 / V 10980)
+- TOP 8.46.: Beschluss des Sozialausschusses vom 31.01.13: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Agnes-Bernauer-Str. 1, 1. Obergeschoss rechts für die Fortführung der Nutzung als Praxis für Allgemeinmedizin (Sitzungsvorlage Nr. 08-14 / V 10893)
+- TOP 8.47.: Schreiben Kreisjugendring München-Stadt vom 16.01.13: Protokoll der 3. BA-Infoveranstaltung am 15.11.12
+- TOP 8.48.: Schriftverkehr aus der BA-Sitzung vom 08.01.13
+- TOP 1.2: Bürgerpost an den BA
