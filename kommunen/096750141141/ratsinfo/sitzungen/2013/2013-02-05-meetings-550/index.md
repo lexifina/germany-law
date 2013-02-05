@@ -1,0 +1,99 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2013-02-05T17:00:00+01:00
+- Ende: 2013-02-05T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/550
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/550
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00009907.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00014209.pdf
+
+## Tagesordnung
+
+- TOP 1: Beratung des Verwaltungshaushalts 2013
+- TOP 1.1: Überblick zum Entwurf des Verwaltungshaushaltes 2013 durch Stadtkämmerer Weber
+- TOP 1.2: Anträge bzw. Fragen der Fraktionen und Gruppen
+- TOP 1.2.1: Frage der FW-FBW
+- TOP 1.2.2: Anfrage der FW-FBW-Stadtratsfraktion Haushaltsansätze zu den Energiekosten
+- TOP 1.2.3: Anfrage von Stadträtin Wallrapp Restliche Zuschüsse Natur in Kitzingen
+- TOP 1.2.4: Anfrage der FW-FBW-Stadtratsfraktion Überprüfung der Telefonverträge
+- TOP 1.2.5: Anfrage von Stadträtin Glos 0000.6300 – Verwaltungs- und Betriebsaufgaben Stabstelle
+- TOP 1.2.6: Anfrage von Stadträtin Glos 000.6329 verschiedener Aufwand an Fraktionen
+- TOP 1.2.7: Frage von Bürgermeister Christof Ansätze für GEZ
+- TOP 1.2.8: Anfrage von Stadträtin Dr. Endres-Paul Verwaltungskostenbeiträge
+- TOP 1.2.9: Hinweis von Stadträtin Wallrapp Bewirtungskosten, Repräsentationskosten, Öffentlichkeitsarbeit, Städtepartnerschaft
+- TOP 1.2.10: Anfrage von Stadträtin Walrapp 0000.6320 verschiedener Betriebsaufwand an Beiräte und Referenten
+- TOP 1.2.11: Anfrage von Stadträtin Glos Ansätze für Bekanntmachungen
+- TOP 1.2.12: Anfrage von Stadträtin Dr. Endres-Paul 0600.5010 Unterhalt Rathaus/Bauamt - Fassadenanstrich
+- TOP 1.2.13: Anfragen von Stadträtin Glos Geringere Personalausgaben bei UA 0101 Controlling Gestiegene Personalausgaben bei UA 0100 Rechnungsprüfung
+- TOP 1.2.14: Anfrage von Stadtrat Heisel Ansatz für Zeitschriften und Ergänzungslieferungen
+- TOP 1.2.15: Anfrage von Stadträtin Wallrapp Ansatz für Fortbildung, Seminare und Schulungen
+- TOP 1.2.16: Anfrage von Stadträtin Richter Nullansatz bei 0221.6525
+- TOP 1.2.17: Anfrage von Stadträtin Wallrapp Profilbildungsprozess 0241.6556 - abgelehnt
+- TOP 1.2.18: Anfrage von Stadtrat Heisel Mitgliedsbeiträge
+- TOP 1.2.19: Anfrage von Stadträtn Wallrapp 0000.5340 Leasing Elektrofahrzeug
+- TOP 1.2.20: Anfrage von Stadträtin Wallrapp 0600.6556 Honorar Röder Vermögensbuchführung
+- TOP 1.2.21: Anfrage von Stadträtin Wallrapp 0600.6557 Mediator
+- TOP 1.2.22: Anfrage von Stadträtin Glos 0600.6559 Ansätze Organisationsgutachten
+- TOP 1.2.23: Anfrage von Stadträtin Wallrapp 0601.6374 Wartungsgebühren EDV
+- TOP 1.2.24: Anfrage von Stadträtin Dr. Endres-Paul 1300.5560 Versicherung Feuerwehr
+- TOP 1.2.25: Anfrage von Stadträtin Dr. Endres-Paul 2140.5311 Miete für Sporthalle Innopark
+- TOP 1.2.26: Anfrage von Stadträtn Dr. Endres-Paul Ansätze bei der Sporthalle zur Warmwasserversorgung
+- TOP 1.2.27: Anfrage von Stadträtin Glos 3000.7182 Zuschuss an PAM
+- TOP 1.2.28: Bitte von Stadtrat Freitag Besucherzahlen von Museum sowie Alte Synagoge
+- TOP 1.2.29: Anfrage von Stadträtin Wallrapp UA 3501/3521 Schaden an der Außentreppe Luitpoldbau
+- TOP 1.2.30: Anfrage von Stadträtin Wallrapp 3501.5741 Benutzung Hallenbäder Iphofen und Dettelbach für Schwimmunterricht
+- TOP 1.2.31: Anfrage von Stadträtin Wallrapp 3521.6071 Bücherei, Ansatz Medienetat im Verwaltungshaushal
+- TOP 1.2.32: Anfrage von Stadträtin Wallrapp 3521.6374 Bücherei, Wartungsgebühren Programmpflege
+- TOP 1.2.33: Anfrage von Stadträtin Kahnt UA 4601 Schülerhort Haus Marienthal
+- TOP 1.2.34: Anfrage von Stadträtin Wallrapp 4602.7090 Zuschuss an den Spielraum e. V.
+- TOP 1.2.35: Anfrage von Stadträtin Dr. Endres-Paul 4605.5816 Lebensmittel Jugendcafe
+- TOP 1.2.36: Anfrage von Stadträtin Wallrapp 4647.5011 Unterhalt; Malerarbeiten an der Holzfassade
+- TOP 1.2.37: Anfrage von Stadträtin Wallrapp 4649.5010 Erneuerung der Lüfterelemente am Kindergarten Etwashausen
+- TOP 1.2.38: Anfrage von Stadträtin Dr. Endres-Paul 5800.5165 Unterhalt von Grün- und Parkanlagen
+- TOP 1.2.39: Anfrage von Stadträtin Wallrapp 5840.6410 Umsatzsteuer Auflösung Natur in Kitzingen GmbH
+- TOP 1.2.40: Anfrage von Stadträtin Dr. Endres-Paul 6011.6556 Honorar Energieagentur Nordbayern
+- TOP 1.2.41: Anfrage von Stadträtin Wallrapp 6021.6300 Bahnlärm in Kitzingen
+- TOP 1.2.42: Anfrage von Stadträtin Dr. Endres-Paul 6101.6321 Öffentlichkeitsarbeit Stadtplanung
+- TOP 1.2.43: Anfrage von Stadträtin Wallrapp UA 6152 Soziale Stadt Förderbescheid
+- TOP 1.2.44: Anfrage von Stadträtin Glos 6152.6750 Erstattung Personalkosten an die BauGmbH
+- TOP 1.2.45: Anfrage von Stadträtin Dr. Endres-Paul 6751.6361/6352 Müllentsorgung durch Privatunternehmen
+- TOP 1.2.46: Anfrage von Stadträtin Wallrapp UA 6709 Straßenbeleuchtung
+- TOP 1.2.47: Anfrage von Stadträtin Dr. Endres-Paul UA 7189 Kläranlage Erstattungen von den Nachbargemeinden
+- TOP 1.2.48: Anfrage von Stadträtin Wallrapp 7189.6790 Klläranlage; Innere Verrechnungen mit dem Bauhof
+- TOP 1.2.49: Hinweis von Stadträtin Wallrapp 7191.6780 Nette Toilette
+- TOP 1.2.50: Anfrage von Stadträtin Wallrapp 8260.7180 Zuschuss Flugplatz Kitzingen
+- TOP 1.2.51: Anfrage von Stadträtin Dr. Endres-Paul 9000.0812 Bußgelder aus der Verkehrsüberwachung
+- TOP 1.2.52: Anfrage von Stadträtin Dr. Endres-Paul 9141.8500 Allgemeine Deckungsreserve
+- TOP 1.2.53: Anfrage von Stadträtin Dr. Endres-Paul Termin der Haushaltsverabschiedung
+- TOP 2: Budgetfestlegung
+- TOP 2.1: Budgetfestlegung für das Haushaltsjahr 2013, Budget Standesamt - UA 0501 - beschlossen
+- TOP 2.2: Budgetfestlegung 2013 für SG 12 - EDV - beschlossen
+- TOP 2.3: Budgetfestlegung für das Haushaltsjahr 2013, Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.4: Budgetfestlegung für das Haushaltsjahr 2013, Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.5: Budgetfestlegung für das Haushaltsjahr 2013, Gesamtbudget Betriebskosten UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 2.6: Budgetfestlegung für das Haushaltsjahr 2013, Gesamtbudget Sportanlagen UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 2.7: Budgetfestlegung HHJ. 2013 Altes Synagoge - Unterabschnitt 3009 - beschlossen
+- TOP 2.8: Budgetfestlegung für das Haushaltsjahr 2013, Budget Stadtarchiv - UA 3111 - beschlossen
+- TOP 2.9: Budgetfestlegung für das Haushaltsjahr 2013, Budget Museum - UA 3200 - beschlossen
+- TOP 2.10: Budgetfestlegung für das Haushaltsjahr 2013, UA 3331 Musikschule - beschlossen
+- TOP 2.11: Budgetfestlegung für das Haushaltsjahr 2013, Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.12: Budgetfestlegung HHJ. 2013 vhs/SG 131 Unterabschnitt 3501 - beschlossen
+- TOP 2.13: Budgetfestlegung HHJ 2013 Stadtbücherei/SG 132 Unterabschnitt 3521 - beschlossen
+- TOP 2.14: Budgetfestlegung für das Haushaltsjahr 2013 jungStil-städtische Jugendarbeit - beschlossen
+- TOP 2.15: Budgetfestlegung für das Haushaltsjahr 2013, - beschlossen
+- TOP 2.16: Budgetfestlegung für das Haushaltsjahr 2013, Gesamtbudget Straßen, Wege, Plätze (UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900, 7850) - beschlossen
+- TOP 2.17: Budgetfestlegung für das Haushaltsjahr 2013, Gesamtbudget Abwasser (UA 7000, 7002, 7006, 7146, 7189) - beschlossen
+- TOP 2.18: Budgetfestlegung für das Haushaltsjahr 2013, Budget Friedhöfe - UA 7510 - 7516 - beschlossen
+- TOP 2.19: Budgetfestlegung für das Haushaltsjahr 2013, Budget: Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 2.20: Budgetfestlegung für das Haushaltsjahr 2013, Budget UA 7711 - Bauhof - beschlossen
+- TOP 2.21: Budgetfestlegung für das Haushaltsjahr 2013, hier: Tourist-Information - UA 7901 - beschlossen
+- TOP 2.22: Budgetfestlegung für das Haushaltsjahr 2013, Städtischer Waldbesitz - UA 8551 - - beschlossen
+- TOP 2.23: Budgetfestlegung für das Haushaltsjahr 2013, Wohn- und Geschäftsgrundstücke - UA 8801 - - beschlossen
+- TOP 2.24: Budgetfestlegung für das Haushaltsjahr 2013, Sonstiges Allgemeines Grundvermögen - UA 8891 - - beschlossen
+- TOP 3: Sonstiges
+- TOP 3.1: Hinweis von Oberbürgermeister Müller Stellenplan 2013
