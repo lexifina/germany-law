@@ -1,0 +1,54 @@
+# 25. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-02-06T17:05:00+01:00
+- Ende: 2013-02-06T23:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8836
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8836
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00335372.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen der Kommunalen Seniorenvertretung
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0036/2012 "Auskunft aus dem Melderegister auf das absolute Mindestmaß reduzieren!" - einstimmig beschlossen
+- TOP 2.2: Antrag der FDP-Ratsfraktion Nr. A-R/0051/2012 - mehrheitlich beschlossen
+- TOP 2.3: Antrag Nr. A-R/0054/2012 der SPD-Fraktion vom 04.12.2012 an den Rat "Albersloher Weg: Kosteneinsparung ohne Leistungseinbußen" - einstimmig beschlossen
+- TOP 2.4: Antrag der FDP Ratsfraktion A-R/0043/2012 - Betreuungsmöglichkeiten intelligent nutzen: Platzsharing für KITA-Plätze prüfen - mehrheitlich beschlossen
+- TOP 2.5: Anregung der Kommunalen Seniorenvertretung an den Rat - einstimmig beschlossen
+- TOP 2.6: Antrag an den Rat der Stadt Münster Nr. A-R/0049/2012 der Fraktion Bündnis 90/Die Grünen/GAL "Öffentliche geförderte Beschäftigung - einstimmig beschlossen
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung 2013) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel und im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2013 - ohne Beschlussfassung geschoben
+- TOP 5: Keine Urantransporte durch Münster - ohne Beschlussfassung geschoben
+- TOP 6: Genehmigung der dringlichen Entscheidung nach § 60 GO NRW Genehmigung der dringlichen Entscheidung nach § 60 GO NRW über die überplanmäßige Bereitstellung von 400.000 ¿ zur Bedienung der vertraglich vereinbarten Tilgungen von Investitionskrediten - einstimmig beschlossen
+- TOP 7: Übernahme einer Ausfallbürgschaft für die Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 8: Städtebauliche Optimierung nördlich Stadthafen 1 (Grundstücke der Stadtwerke Münster GmbH) / Liegenschaftliches Konzept) - ohne Beschlussfassung geschoben
+- TOP 9: Ergebnisse des stadtteilorientierten Demografiemonitorings Münster 2005-2010 - von der Tagesordnung abgesetzt
+- TOP 10: Künftige Unterbringung der VHS - ohne Beschlussfassung geschoben
+- TOP 11: Schulversuch PRIMUS / Durchführung einer Elternumfrage zur Bedarfsfeststellung - ohne Beschlussfassung geschoben
+- TOP 12: Ad-hoc-Maßnahmeplanungen zur Sicherung des Rechtsanspruchs für u3-Kinder ab dem 01.08.2013 - ohne Beschlussfassung geschoben
+- TOP 13: Kindertageseinrichtungen
+- TOP 13.1: Errichtungsbeschluss:Neubau einer Kindertageseinrichtung an der Schmittingheide, Mauritz-Ost - einstimmig beschlossen
+- TOP 13.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Dreifaltigkeitsschule, Uppenberg , Zustimmung zur Durchführung einer Mehrfachbeauftragung - einstimmig beschlossen
+- TOP 13.3: Umstrukturierung der Kindertageseinrichtung St. Norbert, Coerde - einstimmig beschlossen
+- TOP 14: Unterbringungskonzept für Flüchtlinge in Münster - ohne Beschlussfassung geschoben
+- TOP 15: Steuerung von Leistungen mit Bezug auf Aufgaben der Grundsicherung für Arbeitsuchende (SGB II) - ohne Beschlussfassung geschoben
+- TOP 15.1: Steuerung von Leistungen mit Bezug auf Aufgaben der Grundsicherung für Arbeitsuchende (SGB II)
+- TOP 16: Umweltdaten Münster 2010/11 - von der Tagesordnung abgesetzt
+- TOP 17: Beirat für Klimaschutz der Stadt Münster - Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln" - einstimmig beschlossen
+- TOP 17.1: Beirat für Klimaschutz der Stadt Münster - Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln"
+- TOP 18: Bauleitplanung
+- TOP 18.1: Stadtbezirk Mitte
+- TOP 18.1.1: Vorhabenbezogener Bebauungsplan Nr. 558 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 18.1.1.1: Vorhabenbezogener Bebauungsplan Nr. 558 - Beschluss zur Aufstellung
+- TOP 18.1.2: Veränderungssperre Nr. 103 - Erste Verlängerung - mehrheitlich beschlossen
+- TOP 18.2: Stadtbezirk Ost
+- TOP 18.2.1: Bebauungsplan Nr. 530 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 19: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Verschiedenes
