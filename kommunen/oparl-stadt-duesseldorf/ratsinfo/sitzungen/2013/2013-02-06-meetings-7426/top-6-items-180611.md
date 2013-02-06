@@ -1,0 +1,7 @@
+# TOP 6: Umleitungskonzepte Kö-Bogen II.BA -mündlicher Bericht-
+
+- Sitzung: Ordnungs- und Verkehrsausschuss (2013-02-06)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/180611
+- Ergebnis: zur Kenntnis genommen
