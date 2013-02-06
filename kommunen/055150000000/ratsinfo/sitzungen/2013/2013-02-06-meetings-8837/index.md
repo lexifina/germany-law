@@ -1,0 +1,63 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-02-06T17:58:00+01:00
+- Ende: 2013-02-06T23:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8837
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8837
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00335378.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Anregung der Bezirksvertretung Münster-Ost an den Rat zur Vorlage V/0004/2013 Kita in der Immobilie Gildenstraße 2 p
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel und im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2013 - mehrheitlich beschlossen
+- TOP 11: Keine Urantransporte durch Münster - zur Kenntnis genommen
+- TOP 12: Genehmigung der dringlichen Entscheidung nach § 60 GO NRW über die überplanmäßige Bereitstellung von 400.000 ¿ zur Bedienung der vertraglich vereinbarten Tilgungen von Investitionskrediten - einstimmig beschlossen
+- TOP 13: Übernahme einer Ausfallbürgschaft für die Stiftung Magdalenenhospital - einstimmig beschlossen
+- TOP 14: Städtebauliche Optimierung nördlich Stadthafen 1 (Grundstücke der Stadtwerke Münster GmbH) / Liegenschaftliches Konzept) - mehrheitlich beschlossen
+- TOP 15: Ergebnisse des stadtteilorientierten Demografiemonitorings Münster 2005-2010 - von der Tagesordnung abgesetzt
+- TOP 16: Künftige Unterbringung der VHS - einstimmig geändert beschlossen
+- TOP 17: Schulversuch PRIMUS / Durchführung einer Elternumfrage zur Bedarfsfeststellung - mehrheitlich beschlossen
+- TOP 18: Ad-hoc-Maßnahmeplanungen zur Sicherung des Rechtsanspruchs für u3-Kinder ab dem 01.08.2013 - einstimmig geändert beschlossen
+- TOP 19: Kindertageseinrichtungen
+- TOP 19.1: Errichtungsbeschluss:Neubau einer Kindertageseinrichtung an der Schmittingheide, Mauritz-Ost - einstimmig beschlossen
+- TOP 19.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Dreifaltigkeitsschule, Uppenberg , Zustimmung zur Durchführung einer Mehrfachbeauftragung - einstimmig beschlossen
+- TOP 19.3: Umstrukturierung der Kindertageseinrichtung St. Norbert, Coerde - einstimmig beschlossen
+- TOP 20: Unterbringungskonzept für Flüchtlinge in Münster - einstimmig geändert beschlossen
+- TOP 21: Steuerung von Leistungen mit Bezug auf Aufgaben der Grundsicherung für Arbeitsuchende (SGB II) - mehrheitlich beschlossen
+- TOP 21.1: Steuerung von Leistungen mit Bezug auf Aufgaben der Grundsicherung für Arbeitsuchende (SGB II)
+- TOP 22: Umweltdaten Münster 2010/11 - von der Tagesordnung abgesetzt
+- TOP 23: Beirat für Klimaschutz der Stadt Münster - Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln" - einstimmig beschlossen
+- TOP 23.1: Beirat für Klimaschutz der Stadt Münster - Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln"
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Mitte
+- TOP 24.1.1: Vorhabenbezogener Bebauungsplan Nr. 558 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 24.1.1.1: Vorhabenbezogener Bebauungsplan Nr. 558 - Beschluss zur Aufstellung
+- TOP 24.1.2: Veränderungssperre Nr. 103 - Erste Verlängerung - mehrheitlich beschlossen
+- TOP 24.2: Stadtbezirk Münster-Ost
+- TOP 24.2.1: Bebauungsplan Nr. 530 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 26.1: Resolution "Keine Privatisierung der Wasserversorgung" - mehrheitlich geändert beschlossen
+- TOP 26.2: Kinderbetreuung im Südviertel - Standort Josefschule für den Bau einer Kita nutzen - einstimmig beschlossen
+- TOP 26.3: Anerkennung der Hugo de Groot Schule als internationale Schule - mehrheitlich beschlossen
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 27.1: Wohnungen und Kita statt Bürohochhaus am Ring - verwiesen
+- TOP 27.2: Schlossplatzgestaltung voranbringen - verwiesen
+- TOP 27.3: Regionale Kompetenzen bündeln - verwiesen
+- TOP 27.4: Mit Personal-Ressourcen haushalten: Preisgerichte bei Architektur-Wettbewerben verkleinern - verwiesen
+- TOP 28: Verschiedenes
