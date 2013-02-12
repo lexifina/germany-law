@@ -1,0 +1,7 @@
+# TOP 3.1: Kurzbericht zum Stand des Projektes "Schuldnerb eratung" im Aktionsraum Wedding/Moabit
+
+- Sitzung: 17. öffentliche Sitzung des Ausschusses für Soziales und Bürgerdienste (2013-02-12)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=71093
+- Ergebnis: erledigt
