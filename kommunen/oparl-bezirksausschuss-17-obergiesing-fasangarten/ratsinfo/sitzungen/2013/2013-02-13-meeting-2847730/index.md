@@ -1,0 +1,121 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2847730
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2847730
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Protokoll der Sitzung des Bezirksausschusses 17 vom 08.01.2013
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Große Parkprobleme in der Weißenseestraße
+- TOP 2.2.: Verkehrsberuhigung Ichostraße
+- TOP 2.3.: Vermüllung im Bereich S-Bahn-Station Fasangarten
+- TOP 2.4.: Ausbau und Beschilderung am Hermelinweg
+- TOP 2.5.: Räumung der Zuwegung zur S3 Richtung Innenstadt
+- TOP 2.6.: Antrag auf Aufstellung eines Containers auf dem Gelände der Grundschule an der Weißenseestraße; hierzu: gleich lautender Antrag der SPD-Fraktion vom 11.02.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Resolution zur Münchner Trinkwasserversorgung, der Bezirksausschuss 7, Sendling-Westpark bittet um Unterstützung seines Antrages vom 05.02.2013
+- TOP 3.2.: Dringender Handlungsbedarf bei Kinderbetreuungs- und Bildungseinrichtungen infolge der demographischen Entwicklung im 17. Stadtbezirk; Antrag der SPD-Fraktion vom 11.02.2013
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Freundschaft zwischen Ausländern und Deutschen e.V. Konzert ?Musikbüfett? am 18.01.2013
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Giesinger Mädchen-Treff Selbstbehauptungskurs für Mädchen von 21. bis 26.05.2013
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Bebauungsplanentwurf Nr. 2037; Erweiterung der Europäischen Schule München, Schreiben des PlanR an Bürgerin Frau S.
+- TOP 0.2.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung, BA-Antrags-Nr. 08-14 / B 03805 des Bezirksausschusses des Stadtbezirks 05 - Au-Haidhausen - vom 2103.2012, Schreiben des Direktorium vom 18.12.2012 mit der Bitte um Stellungnahme
+- TOP 0.1.: Antrag auf Freischankfläche ?Donna Camilla & Peppone? - Gietlstr. 17; Entscheidungsvorlage des Kreisverwaltungsreferates vom 21.01.2013
+- TOP 0.1.: Standortkonzept Bürgerbüros; Einrichtung mehrerer Bürgerbüros und Meldestellen im Stadtgebiet München; Zuleitung des KVR vom 06.02.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer, Schreiben des Abfallwirtschaftsbetriebes München vom 07.02.2013 mit der Bitte um Stellungnahme
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/23, Bahnlinie München Ost - Deisenhofen (östlich), Ständlerstraße (Südlich) und Lauensteinstraße (nördlich), Billigungsbeschluss; Stadtbezirk 16 Ramersdorf - Perlach, Sitzungsvorlage Nr. 08-14 / V 10944; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013
+- TOP 0.3.: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung, Sitzungsvorlagen Nr. 08-14 / V 10999, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.5.: Giesinger Flunder muss bleiben! Antwortschreiben des PlanR vom 06.12.2012
+- TOP 0.6.: Bericht zur Wohnungssituation in München 2010 - 2011, Sitzungsvorlage Nr. 08-14 / V 10980, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 30.01.2013, Gebundene Ausgabe liegt in der Geschäftsstelle zur Einsichtnahme/Ausleihen aus
+- TOP 0.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.1.: Grundschule an der Weißenseestraße - Raumprobleme
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Asamgymnasium - Raumbedarf; hierzu: Antrag der SPD-Fraktion vom 11.02.2013 auf Bauliche Erweiterung und Instandhaltung des Asam-Gymnasiums; Antrag der CSU-Fraktion vom 13.02.2013
+- TOP 0.1.: Änderung der Bezirksausschuss-Satzung; Unterrichtungsrecht /Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen; Anhörung zum Beschluss des Bezirksausschusses des Stadtbezirks 20 Hadern vom 09.01.2012, Zuleitung des Direktorium vom 10.01.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 12. Oktober 2013, Schreiben des Direktorium mit der Bitte um Rückmeldung über die Teilnahme an dieser Veranstaltung.
+- TOP 0.1.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München; Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000,- Euro; Sitzungsvorlage Nr. 08-14 / V 10764; Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.2013
+- TOP 0.2.: Zuwendung aus dem Budget der Bezirksausschüsse; Johanniter-Unfall-Hilfe e.V. - LILALU Workshopplätze - Erfahrungsbericht des Direktorium vom 11.01.2013
+- TOP 0.3.: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West; Sitzungsvorlage Nr. 08-14 / V 10362, Beschluss der Vollversammlung des Stadtrates vom 28.11.2012
+- TOP 0.4.: Schüler/innen- und Klassenstand, Berufliche Schulen der Landeshauptstadt München; Stand 20.10.2012, Sitzungsvorlage Nr. 08-14 / V 10911, Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 30.01.2013
+- TOP 0.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2012/2013, Sitzungsvorlage Nr. 08-14 / V 11037; Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 30.01.2013
+- TOP 0.6.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2012/2013, Sitzungsvorlage Nr. 08-14 / V 10937; Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 30.01.2013
+- TOP 0.7.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2012/2013, Sitzungsvorlage Nr. 08-14 / V 10968, Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 30.01.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Lichtzeichen-Bauprogramm 2013 hier: Stadelheimer Straße / Sachranger Straße (Frasdorfer Straße), Schreiben des KVR vom 14.12.2012 und vom 14.01.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Verkehrsführung Tegernseer Landstraße; Bürgeranliegen von Herrn F. vom 13.12.2012
+- TOP 0.3.: Fahrbahnmarkierung Tegernseer Landstr. vor der TeLa-Post, Bürgeranliegen von Herrn K. vom 16.12.2012, Stellungnahme des KVR vom 23.01.2013
+- TOP 0.1.: Widmung des Kreuzbichlwegs als öffentliche Straße insbesondere im Zusammenhang mit der Einrichtung von Fahrradstraßen; Schreiben des Baureferat vom 09.01.2013 mit der Bitte um Stellungnahme
+- TOP 0.1.: Taktverdichtung auf der Tramlinie 17; Antwortschreiben der MVG vom 17.12.2012
+- TOP 0.2.: Verdichtung der Fahrzeiten der Buslinie 147 zwischen 7.00 Uhr und 8.30 Uhr; Antwortschreiben der MVG vom 19.12.2012
+- TOP 0.3.: Bürgerversammlung im Stadtbezirk 17 am 05.07.2012; Buslinie 145, Antwortschreiben der 2. Bürgermeisterin vom 15.01.2013; neu: weitere Unterlagen des Bürgers hierzu
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 17.12.2012
+- TOP 0.2.: Einbeziehung des westlich der Marklandstraße zwischen Winlandstraße und Fasangartenstraße liegenden Waldstücks in das bereits bestehende Landschaftsschutzgebiet MUC Bio 304; Antwortschreiben des PlanR vom 07.01.2013
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.3.1 Kesselbergstr. 7, Bescheid vom 17.01.2013;
+- TOP 0.5.: Vollzug der Wassergesetze, Bachräumungstermine 2013 für die Stadt- bzw. Stadtrandbäche, Zuleitung des Baureferat vom 16.01.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Stadelheimer Str. 12, mehrere Bäume, Antrag vom 17.12.2012; 2. Tegernseer Landstr. 235-237, 2 Fichten, Antrag vom 04.01.2013; 3. Werinherstr. 40-44, Antrag vom 21.12.2012 4. Flossenbürgerstr. 3a, 1 Blautanne, Antrag vom 17.01.2013
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.7.2.1.: 1. Werinherstr. 40, Fällungsantrag vom 21.12.2012
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Vorschläge für neue oder erneuerbare BA-Schaukästen
+- TOP 7.2.: Onlinebanking für Bezirksausschüsse; Nutzung des Firmenkundenportals der Stadtsparkasse München, Schreiben des Direktorium vom 15.01.2013 mit der Bitte um Stellungnahme
+- TOP 7.3.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020, Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung, Schreiben des Direktorium vom 21.01.2013 mit der Bitte um Stellungnahme
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Budget der Bezirksausschüsse - Änderungen im Rahmen des § 10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung), Information des Direktorium vom 20.12.2012
+- TOP 7.2.: Kandidatenvorstellung zur Seniorenbeiratswahl in allen Alten- und Service-Zentren im Stadtbezirk durchzuführen, BA-Antrag-Nr. 08-14 / B 04428 des Bezirksausschusses des Stadtbezirks 5 - Au-Haidhausen vom 21.11.2012, Antwortschreiben des Sozialreferat vom 08.01.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
+- TOP 0.4.: Begrünung Hohenwaldeckstraße - Ersatzpflanzung; Antwortschreiben des Baureferat vom 16.01.2013
