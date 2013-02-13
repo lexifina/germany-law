@@ -1,0 +1,56 @@
+# 16. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-02-13T10:00:00+01:00
+- Ende: 2013-02-13T12:40:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-PA-16
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-PA-16
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-PA-16
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-PA-16
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 15. Sitzung des Planungsausschusses vom 26.11.2012
+- TOP 2: Angelegenheiten nach RVRG
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.3 Dinslaken -Anhörungsverfahren Hier: Stellungnahme des Regionalverbandes Ruhr
+- TOP 2.2.1: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.3 Dinslaken -Anhörungsverfahren Hier: Stellungnahme der Regionalplanungsbehörde
+- TOP 2.3: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.4 Voerde Hier: Stellungnahme des Regionalverbands Ruhr
+- TOP 3: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3.1: Städtebauförderung hier: Abwicklung des Stadterneuerungsprogramms 2012
+- TOP 3.2: Jahresbericht 2012 zur ländlichen Entwicklung und Bodenordnung, Rückblick auf das vergangene Jahr
+- TOP 3.3: Förderprogramm kommunaler Straßen- und Radwegebau; Rückblick auf 2012 hier: Unterrichtung
+- TOP 3.4: Förderprogramm für den kommunalen Straßen- und Radwegebau 2013 hier: Unterrichtung und Beschlussfassung
+- TOP 3.5: Förderprogramm kommunaler Straßen- und Radwegebau, Rückblick auf 2012 hier: Unterrichtung
+- TOP 3.6: Förderprogramm für den kommunalen Sonder-Radwegebau 2013 (Radverkehrsförderung) hier: Unterrichtung und Beschlussfassung
+- TOP 3.7: Bericht über den Stand der Erstellung des NRW-Programms „Ländlicher Raum“ für die Förderperiode 2014 bis 2020 im Bereich der Fachgruppe 3 LEADER; Dorfentwicklung, Breitband, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze
+- TOP 3.8: RFNP-Änderungen – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 3.9: 77. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem 'Zeus-Gelände' in der Stadt Duisburg - Aufstellungsbeschluss -
+- TOP 3.10: Sachstand 7. Änderung des Regionalplans für den Regierungsbezirk Münster - TA Emscher-Lippe (Kraftwerksstandort Datteln)
+- TOP 3.11: Maßregelvollzug auf dem Gebiet des Regionalverbandes Ruhr hier: Beantwortung der Anfrage der FDP-Fraktion vom 09.11.2012
+- TOP 3.12: Weiterbetreibung der Alt-Kraftwerke Datteln I-III – Schriftliche Anfrage der Fraktion DIE LINKE im Regionalverband Ruhr vom 15.11.2012
+- TOP 3.13: Anfragen und Mitteilungen
+- TOP 3.13.1: Personalausstattung Referat 15 Hier: mündlicher Sachstandsbericht
+- TOP 3.13.2: Bericht über laufende Verfahren
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Haushaltsplan für das Jahr 2013 für die Referate 8, 9 und 15
+- TOP 4.2: Vorausberechnungen der Bevölkerung, Haushalte und Erwerbspersonen
+- TOP 4.3: Landesweit einheitliche Flächenbedarfsprognose Hier: Sachstandsbericht
+- TOP 4.4: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr hier: Projektskizze
+- TOP 4.5: Freizeit- und Tourismuskonzept Metropole Ruhr
+- TOP 4.6: Anfragen und Mitteilungen
+- TOP 4.6.1: 
+- TOP 4.6.2: Berichterstattung über das Landesgutachten zur Exploration und Gewinnung von Erdgas aus unkonventionellen Lagerstätten
+- TOP 4.6.3: Bericht über laufende Verfahren
+- TOP 5: Regionalplan Ruhr / Regionaler Diskurs
+- TOP 5.1: Ideenwettbewerb zur Zukunft der Metropole Ruhr Hier: Auslobungsexposé
+- TOP 5.2: Ideenwettbewerb zur Zukunft der Metropole Ruhr Hier: Aufgabe und Besetzung der Wettbewerbsjury
+- TOP 5.3: Regionaler Diskurs / Regionalplan Ruhr Hier: Fachdialog Großflächiger Einzelhandel - Werkstattbericht
+- TOP 5.4: Anfragen und Mitteilungen
+- TOP 5.4.1: Regionalplan Ruhr / Regionaler Diskurs. Hier: Sachstandsbericht Fachdialoge
