@@ -1,0 +1,105 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-02-13T17:00:00+01:00
+- Ende: 2013-02-13T18:40:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3030
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3030
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=69493
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 16. Sitzung der BVV am 13.02.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 16. Sitzung der BVV am 13.02.2013 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 16. Sitzung der BVV am 13.02.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorklärwerke für Frohnauer Teiche (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Verkehrssicherheit durch mehr Übersicht am Falkenplatz in Konradshöhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Sicherung Friedhof auf dem Karl-Bonhoeffer-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Fahrradstellplätze vor dem Rathaus-Altbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Integrationspreis 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Gesundheitssituation insbesondere in Reinickendorf-Ost - überwiesen
+- TOP 7.7: Integrationskonzept für den Bezirk Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Beirat für Frauen- und Mädchenangelegenheiten im Bezirk stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.10: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.12: Tag der Elektromobilität 2012 - überwiesen
+- TOP 7.13: Barrierefreier Ausbau des Rathauses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Zweiter Ausgang für den S-Bahnhof Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Alternative Zebrastreifenführung am Zeltinger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Klimaschutz durch Solaranlagen - überwiesen
+- TOP 7.17: Zeltinger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Hinweis auf Lidy von Lüttwitz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Berliner Feuerwehr- und Rettungsdienst-Akademie (BFRA) auf dem TXL-Gelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Sichere Überquerung des Zeltinger Platzes durch Fußgängerampel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Newsletters der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bessere Durchsuchbarkeit der BVV Vorgänge und Drucksachen - Volltextsuche einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bessere Durchsuchbarkeit der BVV Vorgänge und Drucksachen - Suche mit Filtern einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verlinkung mit Social-Media-Angeboten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - ALLRIS-Fortbildung für Bezirksverordnete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einfachere Bereitstellung von Drucksachen - Mehrdateien-Zugriff erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Zulassung von tragbaren Computern und Tablet-Computern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Begrenzte Verlängerung der Tätigkeit des temporären Ausschusses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Schul- und Sportstättensanierungsprogramm 2013 - überwiesen
+- TOP 7.30: "Vom Berliner Senat" verordneter Personalabbau "in den Bezirken" bis 2016 Konzeption bezirklicher Personalabbau - überwiesen
+- TOP 7.31: Kitahalbtagsplätze auch nachmittags - überwiesen
+- TOP 7.32: Nutzerinnen und Nutzer bei Spielplatzgestaltung einbeziehen (2) - Wohnungsbaugesellschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Bevölkerung auf KATWARN aufmerksam machen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.34: Schulen zur Teilnahme am "Kinder zum Olymp" animieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Sicheres Abstellen von Elektrorollstühlen und Rollatoren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.36: Erlass der Verordnung über die Veränderungssperre 12-45 / 45 für das Grundstück Buddestraße 12A, 12D, 12E im Bezirk Reinickendorf, Ortsteil Tegel. - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Vertrauenspersonen für den beim Amtsgericht Tiergarten zu bildenden Ausschuss gemäß § 40 des Gerichtsverfassungsgesetztes - gewählt
+- TOP 9.2: Abberufung und Berufung eines beratenden Mitglieds und stellvertretenden beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Aufstellen der Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter für das Oberverwaltungsgericht Berlin-Brandenburg für die Geschäftsjahre 2013-2018 - gewählt
+- TOP 9.4: Aufstellen der Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter für das Verwaltungsgericht Berlin für die Geschäftsjahre 2014-2018 - gewählt
+- TOP 9.5: Investitionsplanung 2013 bis 2017 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Betreuung von Obdachlosen in Reinickendorf sicher stellen! - erledigt
+- TOP 10.2: Klauseln gegen rechtsextreme Aktivitäten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Rechte Symbole erkennen - Ordnungsamtsmitarbeiterinnen und Ordnungsamtsmitarbeiter fortbilden - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauung der Insel im Tegeler Hafen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Rent-A-Bike in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Einführung von nächtlichem Tempolimit in Wohngebieten - in der BVV abgelehnt
+- TOP 10.7: Verkehrssicherheit im Tegeler Kiez (1) - Fußgängerüberweg Medebacher Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Straßenerneuerung Alt-Lübars vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Schrottauto entfernen lassen - erledigt
+- TOP 10.10: Burgfrauenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Saubere Straßen trotz Hunden - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Hausbesuche bei der Klienten-Prüfung zur Leistungsbeantragung des Pflege- und Betreuungsbedarfes - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Verkehrssicherheit Öschelbronner Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Verkehrssicherheit Schluchseestraße Ecke Zabel-Krüger-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Bushaltestelle Sagritzer Weg wieder anfahren - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Schulhelfer - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Veränderungen im Marie-Schlei-Haus - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schulen und Wirtschaft auf Initiative "Berliner Schulpate" aufmerksam machen - überwiesen
+- TOP 12.2: Asbesthaltige Bodenbeläge bei der GEWOBAG entfernen - überwiesen
+- TOP 12.3: Brücke nach Horst Frank benennen - überwiesen
+- TOP 12.4: Ehrengrab von Marie Schlei in ansehnlichen Zustand versetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: "Schrei-Patienten"-Einrichtung - überwiesen
+- TOP 12.6: Für Teilnahme von Reinickendorfer Grundschulen am Projekt "Berliner Schulpate" der Handwerkskammer werben - überwiesen
+- TOP 12.7: Ergänzung einer Stellenbezeichnung - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: A111 instand setzen - überwiesen
+- TOP 13.2: Beleuchtung Rue Lamartine - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Für Teilnahme von Reinickendorfer Betrieben am Projekt "Berliner Schulpate" der Handswerkskammer werben - überwiesen
+- TOP 13.4: Nahversorgung am Eichhorster Weg sichern - überwiesen
+- TOP 13.5: Busausschilderung auf den S-Bahnhöfen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: S-Bahnhof Tegel am Tegel-Center ausschildern - überwiesen
+- TOP 13.7: Familienkassen in Reinickendorfer Supermärkten einrichten - überwiesen
+- TOP 13.8: Fahrkartenautomat, Fahrkartenentwerter und elektronischen Zugzielanzeiger am Südzugang des S-Bahnhofs Waidmannslust installieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Bus 220 richtig auf dem U-Bahnhof Wittenau ausschildern - ohne Änderungen in der BVV beschlossen
