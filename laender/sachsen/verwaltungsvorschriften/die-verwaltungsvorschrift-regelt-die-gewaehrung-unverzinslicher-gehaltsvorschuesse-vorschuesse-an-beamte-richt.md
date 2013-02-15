@@ -1,0 +1,252 @@
+# Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Beschäftigte des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2013-02-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12742.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+1.
+
+Allgemeines
+
+1.1
+
+Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Beschäftigte des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte und Richter müssen sich in einem Dienstverhältnis auf Lebenszeit befinden. Beschäftigte müssen sich in einem ungekündigten Arbeitsverhältnis auf unbestimmte Zeit befinden, ihre Probezeit beendet haben und ihr Entgelt muss regelmäßig den in § 8 Abs. 1 Nr. 1 des
+Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (
+
+SGB IV) in der Fassung der Bekanntmachung vom 12. November 2009 (BGBl. I S. 3710, 3973, 2011 I S. 363), das zuletzt durch Artikel 1 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2474) geändert worden ist, in der jeweils geltenden Fassung, genannten Betrag (Stand 1. Januar 2013: 450 EUR im Monat) übersteigen.
+
+1.2
+
+Die folgenden Bestimmungen gelten entsprechend für Lebenspartner nach dem Gesetz über die Eingetragene Lebenspartnerschaft (
+Lebenspartnerschaftsgesetz –
+LPartG) vom 16. Februar 2001 (BGBl. I S. 266), das zuletzt durch Artikel 7 des Gesetzes vom 6. Juli 2009 (BGBl. I S. 1696, 1700) geändert worden ist, in der jeweils geltenden Fassung, und mit dem Bediensteten in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden Partner (vergleiche Abschnitt II Nr. 3.2.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen
+Trennungsgeldverordnung [
+VwV-SächsTGV ] in der Fassung der Bekanntmachung vom 10. November 1999 [MBl. SMF S. 234], die zuletzt durch Verwaltungsvorschrift vom 25. Juli 2012 [SächsABl. S. 1138] geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 [SächsABl. SDr. S. S 1702], in der jeweils geltenden Fassung), soweit sie sich auf den Ehegatten beziehen. Sofern sich die nachfolgenden Bestimmungen auf die Schließung, Auflösung sowie Scheidung oder das Bestehen oder frühere Bestehen einer Ehe beziehen, gelten diese entsprechend für die Begründung oder Aufhebung sowie das Bestehen oder frühere Bestehen einer Lebenspartnerschaft im Sinne des
+Lebenspartnerschaftsgesetzes.
+
+1.3
+
+Vorschüsse sind freiwillige Leistungen; ein Rechtsanspruch hierauf besteht nicht. Sie werden nicht gewährt, soweit für denselben Zweck Leistungen auf der Grundlage anderer Vorschriften zustehen oder sie im Hinblick auf ihre Tilgung zu einer untragbaren Verschuldung führen würden.
+
+1.4
+
+Über die Gewährung entscheidet das Landesamt für Steuern und Finanzen aufgrund eines schriftlichen Antrags, für den der in der Anlage beigefügte Vordruck zu verwenden ist. Die bewilligten Vorschüsse werden im Rahmen der Bezügeabrechnungsverfahren zahltagsunabhängig ausgezahlt. Das Landesamt für Steuern und Finanzen regelt gleichzeitig mit der Vorschussbewilligung das Tilgungsverfahren. Besondere Zuständigkeitsregelungen nach der Verordnung der Sächsischen Staatsregierung und der sächsischen Staatsministerien über Zuständigkeiten für die Festsetzung, Anordnung und Abrechnung der Bezüge von Bediensteten und Versorgungsempfängern (
+BezügeZustVO) in der Fassung der Bekanntmachung vom 22. Februar 1999 (SächsGVBl. S. 127, 2000 S. 4), in der jeweils geltenden Fassung, bleiben unberührt. In besonderen Härtefällen kann das Staatsministerium der Finanzen im Einzelfall Abweichungen von dieser Verwaltungsvorschrift zulassen.
+
+1.5
+
+Vorschüsse sind einkommen-/lohnsteuerrechtlich Arbeitgeberdarlehen. Die aus der unverzinslichen Abgabe entstehenden Zinsersparnisse sind Sachbezüge im Sinne des § 8 Abs. 2 des
+Einkommensteuergesetzes (EStG) in der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366, 3862), das zuletzt durch Artikel 3 des Gesetzes vom 8. Mai 2012 (BGBl. I S. 1030) geändert worden ist, in der jeweils geltenden Fassung. Diese sind als Arbeitslohn zu versteuern, wenn die Summe der noch nicht getilgten Darlehen am Ende des Lohnzahlungszeitraumes 2 600 EUR übersteigt. Die Freigrenze des § 8 Abs. 2 Satz 9
+EStG (Stand 1. Januar 2013: 44 EUR kalendermonatlich) ist zu beachten. Das Landesamt für Steuern und Finanzen hat zu prüfen, ob die Zinsersparnisse als Sachbezüge nach einkommen-/lohnsteuerrechtlichen Grundsätzen zu versteuern sind und die Höhe dieser aus dem Unterschiedsbetrag zum marktüblichen Zins zu ermitteln.
+
+2.
+
+Bewilligungsvoraussetzungen
+
+2.1
+
+Vorschüsse können bewilligt werden, wenn Bedienstete durch folgende besondere Umstände zu unabwendbaren Aufwendungen veranlasst wurden, die sie aus eigenen Mitteln einschließlich der Mittel des in häuslicher Gemeinschaft lebenden Ehegatten nicht bestreiten können:
+
+a)
+
+Wohnungswechsel aus zwingendem Anlass, es sei denn, dem Bediensteten wurde hierfür eine Zusage der Umzugskostenvergütung nach dem Sächsischen Gesetz über die Umzugskostenvergütung der Beamten und Richter (Sächsisches Umzugskostengesetz –
+SächsUKG) vom 23. November 1993 (SächsGVBl. S. 1070), zuletzt geändert durch Artikel 6 des Gesetzes vom 12. März 2009 (SächsGVBl. S. 102, 116), in der jeweils geltenden Fassung, erteilt; vorschussfähig sind nur Aufwendungen im Sinne der §§ 6 und 10 Abs. 1 und 2
+SächsUKG ,
+
+b)
+
+erstmalige Anmietung einer Wohnung am Dienstort einschließlich seines Einzugsgebietes im Sinne des § 3 Abs. 1 Nr. 1 Buchst. c
+SächsUKG ; vorschussfähig sind Wohnungsvermittlungsgebühren, Mietvorauszahlungen, Baukostenzuschüsse, Erwerb von Genossenschaftsanteilen, Ablösungsbeträge und Instandsetzungskosten,
+
+c)
+
+erstmaliger Kauf oder Bau eines Eigenheimes oder einer Eigentumswohnung am Dienstort einschließlich seines Einzugsgebietes im Sinne des § 3 Abs. 1 Nr. 1 Buchst. c
+SächsUKG ; vorschussfähig sind der Kaufpreis oder die Herstellungskosten, jedoch nicht die Kosten für den Grundstückserwerb,
+
+d)
+
+Herstellung von weiterem Wohnraum im bereits vorhandenen Wohneigentum, wenn die bisherigen Wohnverhältnisse infolge der persönlichen Verhältnisse nicht mehr ausreichen und damit ohne den Ausbau ein Wohnungswechsel aus zwingenden Anlass erforderlich wäre,
+
+e)
+
+Beschaffen von Hausrat bei dem erstmaligen Bezug einer Wohnung, der Eheschließung oder der Ehescheidung,
+
+f)
+
+Verlust von Hausrat oder Bekleidung durch Schadensereignisse,
+
+g)
+
+Erstausstattung bei Geburt oder Adoption eines Kindes, das im Haushalt des Bediensteten aufgenommen wird,
+
+h)
+
+Heirat von eigenen Kindern, Adoptiv-, Pflege- oder Stiefkindern, oder erstmaliger Bezug einer Wohnung dieser Kinder, wenn sie bisher im Haushalt des Bediensteten aufgenommen waren,
+
+i)
+
+Krankheit, Zahnersatz oder Todesfall, wenn durch die Gewährung einer Beihilfe oder Leistungen einer Versicherung beziehungsweise ähnliche Leistungen (zum Beispiel Leistungen der Heilfürsorge) nicht oder nicht ausreichend geholfen wird; hierzu gehören insbesondere auch Aufwendungen, die dem Bediensteten im Zusammenhang mit der Erkrankung oder dem Tod des Ehegatten, der eigenen Kinder, Adoptiv-, Pflege- oder Stiefkinder entstanden sind,
+
+j)
+
+Kauf eines Kraftfahrzeugs durch schwerbehinderte Bedienstete mit einem Grad der Behinderung von mindestens 70 Prozent oder von mindestens 50 Prozent mit Merkzeichen „G“ oder „aG“ im Schwerbehindertenausweis, die ein eigenes Kraftfahrzeug für das Zurücklegen des Weges zwischen Wohnung und Arbeitsstätte benötigen,
+
+k)
+
+Kauf eines neuen oder neuwertigen Kraftfahrzeugs, das der Wahrnehmung einer typischerweise im Außendienst ausgeübten Tätigkeit im Sinne des § 5 Abs. 3 des Sächsischen Gesetzes über die Reisekostenvergütung der Beamten und Richter (Sächsisches Reisekostengesetz –
+SächsRKG) vom 12. Dezember 2008 (SächsGVBl. S. 866), in der jeweils geltenden Fassung, dient, sofern sich der Bedienstete verpflichtet, das private Kraftfahrzeug für Dienstreisen einzusetzen und in ihm bei Dienstreisen andere Dienstreisende sowie Dienstgut mitzunehmen; dies ist von der Dienststelle des Bediensteten zu bestätigen. Als neuwertig gilt ein Kraftfahrzeug, das eine Fahrleistung von nicht mehr als 20 000 km aufweist und dessen Erstzulassung nicht länger als ein Jahr zurückliegt. Die unabwendbaren Aufwendungen für den Kauf eines Kraftfahrzeugs können in Höhe des Kaufpreises bis zu 20 000 EUR für ein dem Zweck angemessenes Kraftfahrzeug anerkannt werden.
+
+2.2
+
+Nummer 2.1 Buchst. b und c gilt entsprechend, wenn sich die Wohnung oder das Eigenheim außerhalb des Einzugsgebietes des Dienstortes befindet, sofern die tägliche Rückkehr an den Wohnort zumutbar ist. § 2a Abs. 2 der Verordnung des Sächsischen Staatsministeriums der Finanzen über das Trennungsgeld der Beamten und Richter (Sächsische Trennungsgeldverordnung – SächsTGV) vom 11. November 1994 (SächsGVBl. S. 1634), die zuletzt durch Verordnung vom 7. November 2012 (SächsGVBl. S. 625) geändert worden ist, in der jeweils geltenden Fassung, gilt entsprechend.
+
+2.3
+
+Vorschüsse für Kraftfahrzeuge werden nur bewilligt, wenn der Bedienstete fünf Jahre vor der Antragstellung keinen Vorschuss aus den in Nummer 2.1 Buchst. j und k genannten Anlässen erhalten hat. Dies gilt nicht, wenn das Kraftfahrzeug nach einem Totalschaden ersetzt werden muss. Aufwendungen für Kosten aus Leasingverträgen für Kraftfahrzeuge (Anzahlung, Leasingraten) sind nicht vorschussfähig. Auch der nach Ablauf der vereinbarten Leasingfrist beabsichtigte Kauf des Kraftfahrzeugs ist nicht vorschussfähig.
+
+2.4
+
+Sind aus denselben Umständen zwei miteinander verheiratete Bedienstete antragsberechtigt, wird der Vorschuss nur einem der Ehegatten bewilligt.
+
+2.5
+
+Vorschüsse werden nicht bewilligt, wenn sie mehr als sechs Monate vor oder nach Eintreten eines besonderen Umstandes beantragt werden. Als das für die Antragstellung maßgebende Ereignis gilt im Falle von Nummer 2.1 Buchst. c der Tag der Beziehbarkeit des Eigenheimes oder der Eigentumswohnung, im Falle von Nummer 2.1 Buchst. e der Tag der Eheschließung beziehungsweise der Rechtskraft des Scheidungsurteils; frühestens kann ein Vorschuss ab Einreichung des Scheidungsantrags beim Familiengericht bewilligt werden.
+
+2.6
+
+Bereits geleistete Voraus- oder Anzahlungen sind nicht vorschussfähig.
+
+2.7
+
+Die unabwendbaren Aufwendungen sind im Einzelnen darzustellen und gegebenenfalls durch Belege nachzuweisen.
+
+3.
+
+Vorschusshöhe
+
+3.1
+
+Ein Vorschuss kann bis zur Höhe der Aufwendungen im Sinne von Nummer 2.1, höchstens jedoch in Höhe von 2 600 EUR, bewilligt werden. Bei im Ausland entstandenen Aufwendungen nach Nummer 2.1 Buchst. i kann ein Vorschuss bis 5 000 EUR bewilligt werden.
+
+3.2
+
+Werden Vorschüsse wegen verschiedener besonderer Umstände beantragt oder wird vor vollständiger Tilgung eines Vorschusses ein weiterer Vorschuss beantragt, darf die Summe der Vorschüsse, gegebenenfalls unter Berücksichtigung bisher erfolgter Tilgung, 4 500 EUR und im Falle der Nummer 3.1 Satz 2 6 500 EUR nicht übersteigen.
+
+4.
+
+Nachweis der zweckentsprechenden Verwendung der Vorschüsse
+
+4.1
+
+Vorschüsse müssen in voller Höhe zweckentsprechend verwendet werden. Der Nachweis einer zweckentsprechenden Verwendung des Vorschusses gilt als erbracht, wenn der Bedienstete das Vorliegen der besonderen Umstände im Sinne von Nummer 2.1 schriftlich anzeigt und die für die Vorschusshöhe vorausgesetzten unabwendbaren Aufwendungen belegt.
+
+4.2
+
+Nicht nachweisbar zweckentsprechend verwendete Beträge oder Teilbeträge sind unverzüglich in einer Summe zurückzuzahlen.
+
+4.3
+
+Im Falle der Vorschussbewilligung vor der Vorlage der Ausgabennachweise ist der nicht zustehende Vorschussteilbetrag unverzüglich in einer Summe zurückzuzahlen, wenn der bewilligte Vorschuss höher ist als die später belegten tatsächlichen Kosten.
+
+5.
+
+Tilgung
+
+5.1
+
+Vorschüsse werden durch Abzug der monatlichen Tilgungsrate von den laufenden Bezügen des Bediensteten spätestens bis zum Ende seines Dienst- oder Beschäftigungsverhältnisses getilgt. Die Tilgung beginnt spätestens mit dem übernächsten Zahltag der laufenden Bezüge, der auf die Auszahlung des Vorschusses folgt. Beantragt ein Bediensteter vor Ablauf der Tilgungsfrist, ihn zu entlassen oder kündigt er oder werden andere Umstände bekannt, die sein Ausscheiden ohne laufende Versorgung vor Ablauf der Tilgungsfrist erwarten lassen, hat das Landesamt für Steuern und Finanzen die festgesetzte monatliche Tilgungsrate zu erhöhen, um den Vorschuss möglichst bis zum Ausscheiden des Bediensteten zu tilgen. Ist dies nicht möglich, ist der Rest des Vorschusses spätestens zum Zeitpunkt der Beendigung des Dienst- oder Beschäftigungsverhältnisses in einer Summe zurückzuzahlen. Die Bediensteten haben vor der Auszahlung des Vorschusses ihr schriftliches Einverständnis zu erteilen, dass Vorschussreste, die im Zeitpunkt des Endes des Dienst- oder Beschäftigungsverhältnisses noch bestehen, durch Einbehaltung von den letzten Bezügen abgedeckt werden.
+
+5.2
+
+Ein Vorschuss ist in höchstens 42 Monaten in Raten von mindestens 50 EUR zu tilgen. Im Falle von Nummer 3.2 sollen die Vorschüsse zusammengerechnet und eine neue Tilgungsrate festgelegt werden.
+
+5.3
+
+Die Tilgung ist auf Antrag für die Dauer
+
+a)
+
+einer Elternzeit nach dem Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz –
+BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748), zuletzt geändert durch Artikel 10 des Gesetzes vom 23. Oktober 2012 (BGBl. I S. 2246, 2262), in der jeweils geltenden Fassung, oder der Verordnung der Sächsischen Staatsregierung über die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Elternzeitverordnung –
+SächsEltZVO) in der Fassung der Bekanntmachung vom 13. Dezember 2005 (SächsGVBl. S. 322), zuletzt geändert durch Artikel 5 der Verordnung vom 23. Juni 2009 (SächsGVBl. S. 402, 408), in der jeweils geltenden Fassung,
+
+b)
+
+einer Pflegezeit nach dem Gesetz über die Pflegezeit (Pflegezeitgesetz –
+PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896), in der jeweils geltenden Fassung, oder
+
+c)
+
+des Ruhens des Arbeitsverhältnisses beziehungsweise einer Beurlaubung ohne Bezüge zur Ableistung des Grundwehr- oder Zivildienstes nach dem Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst (Arbeitsplatzschutzgesetz –
+ArbPlSchG) in der Fassung der Bekanntmachung vom 16. Juli 2009 (BGBl. I S. 2055), geändert durch Artikel 6 des Gesetzes vom 28. April 2011 (BGBl. I S. 678, 683), in der jeweils geltenden Fassung, beziehungsweise dem Gesetz über den Zivildienst der Kriegsdienstverweigerer (Zivildienstgesetz –
+ZDG) in der Fassung der Bekanntmachung vom 17. Mai 2005 (BGBl. I S. 1346), zuletzt geändert durch Artikel 6 Abs. 5 des Gesetzes vom 20. Juni 2011 (BGBl. I S. 1114 ,1122), in der jeweils geltenden Fassung,
+
+auszusetzen; dabei kann der Tilgungszeitraum nach Nummer 5.2 überschritten werden.
+
+5.4
+
+Bei einer Verminderung der laufenden Bezüge des Bediensteten, einer längeren Beurlaubung ohne Bezüge, einem Übergang in Teilzeitbeschäftigung, bei einem Ruhen des Arbeitsverhältnisses wegen des Bezuges einer Rente wegen Erwerbsminderung oder in besonderen Härtefällen kann die Tilgungsrate auf Antrag angemessen ermäßigt oder bis zu sechs Monate ausgesetzt werden. Dabei soll der Tilgungszeitraum nach Nummer 5.2 nicht überschritten werden.
+
+5.5
+
+Widerruft der Bedienstete im Falle der Nummer 2.1 Buchst. k die Erklärung nach § 5 Abs. 3 Satz 1
+SächsRKG , das private Kraftfahrzeug für Dienstreisen einzusetzen und in ihm bei Dienstreisen andere Dienstreisende sowie Dienstgut mitzunehmen, ist der Rest des Vorschusses unverzüglich in einer Summe zurückzuzahlen.
+
+6.
+
+Vorschüsse für Gerichtsvollzieher in besonderen Fällen
+
+6.1
+
+Gerichtsvollziehern und Bediensteten, die mit der Wahrnehmung von Gerichtsvollzieheraufgaben betraut sind und zur Ernennung zum planmäßigen Gerichtsvollzieher heranstehen, können Vorschüsse bewilligt werden
+
+a)
+
+zur erstmaligen Einrichtung eines Geschäftszimmers, sofern nicht von der Verpflichtung zur Einrichtung befreit wurde,
+
+b)
+
+zur erstmaligen Beschaffung eines EDV-Systems zur Unterstützung der Bürotätigkeit.
+
+Die Antragsvoraussetzungen sind durch den Präsidenten des Landgerichts, in dessen Zuständigkeitsbereich die Dienstbehörde des Gerichtsvollziehers gelegen ist, zu bestätigen. Ist die Dienstbehörde des Gerichtsvollziehers mit einem Präsidenten besetzt, ist dieser für die Bestätigung zuständig.
+
+6.2
+
+Im Fall von Nummer 6.1 kann abweichend von
+
+a)
+
+Nummer 3.1 Satz 1 ein Vorschuss bis 5 500 EUR bewilligt werden,
+
+b)
+
+Nummer 3.2 die Summe der neben- oder nacheinander gewährten Vorschüsse 8 000 EUR betragen,
+
+c)
+
+Nummer 5.2 die Tilgungsdauer höchstens 60 Monate betragen.
+
+7.
+
+Inkrafttreten und Außerkrafttreten, Übergangsbestimmungen
+
+7.1
+
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen (VwV Vorschüsse) vom 5. Dezember 2001 (SächsABl. S. 1287), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), und die Durchführungshinweise zur Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen vom 5. Dezember 2001 (SächsABl. S. 1288), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), außer Kraft.
+
+7.2
+
+Auf Vorschüsse, die vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt wurden, sind die in Nummer 7.1 Satz 2 genannten
+Vorschriften weiter anzuwenden. Wird neben einem Vorschuss nach Satz 1 ein weiterer Vorschuss nach dieser Verwaltungsvorschrift bewilligt, ist ab diesem Zeitpunkt auf beide Vorschüsse diese Verwaltungsvorschrift anzuwenden.
+
+Dresden, den 11. Januar 2013
+
+Der Staatsminister der Finanzen
+
+Prof. Dr. Georg Unland
+
+Anlage
