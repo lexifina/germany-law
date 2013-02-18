@@ -1,0 +1,10 @@
+# Feststellung des amtlichen Ergebnisses des Ratsbürgerentscheids vom 10.03.2013
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 01/0197/WP16
+- Art: Entscheidungsvorlage
+- Datum: 2013-02-18
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=10767
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=10767
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2776 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
