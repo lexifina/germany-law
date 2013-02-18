@@ -1,0 +1,115 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-02-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2747999
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2747999
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation Kriegerheimstraße und Heiglhofstraße
+- TOP 1.2.: Haderner Stern - Nutzung Schlecker-Räume
+- TOP 1.3.: Abgestelltes Auto in der Franz-Kendler-Straße
+- TOP 1.4.: Verkehrssituation Am Waldrand
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Dokumentation und Ausstellung zum Thema ?75 Jahre Eingemeindung Haderns nach München? von 19.04. bis 11.05.2013 (Direktorium, 09.01.13)
+- TOP 2: Errichtung von Gehwegen in kleineren Straßen, wie z. B. Aurikelstraße, Buschrosenweg, Platanenstraße und Silberblattstraße (Ziffer 3 des Antrages) (Baureferat, 28.01.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussentwurf für den Umweltschutzausschuss: Probleme durch zunehmende Krähenpopulation in Hadern, nördlich der Autobahn A 96 (Referat für Gesundheit und Umwelt, 09.01.13) (vertagt aus 01/13)
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Haderner Dorffest, Max-Lebsche-Platz vom 30.04. - 12.05.2013 (Kreisverwaltungsreferat, 15.01.13)
+- TOP 6.3.: Änderung der Bezirksausschuss-Satzung; Unterrichtungsrecht / Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen, Antrag BA 20 vom 09.01.2012 (Direktorium, 10.01.13)
+- TOP 6.4.: Überprüfung der Umlaufsperren im Stadtgebiet des BA 20 (Kreisverwaltungsreferat, 09.01.13)
+- TOP 6.5.: Veranstaltung in einer städt. Grünanlage, hier: Circus Roberto Max-Lebsche-Platz vom 11.04. - 15.04.2013 (Kreisverwaltungsreferat, 21.01.13)
+- TOP 6.6.: Veranstaltung in einer städt. Grünanlage, hier: Zirkusprojekt der Montessorischule mit Zirkus ZappZarap Max-Lebsche-Platz vom 01.07. - 06.07.2013 (Kreisverwaltungsreferat, 21.01.13)
+- TOP 6.7.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020; Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung (Direktorium, 21.01.13)
+- TOP 6.8.: Beschlussentwurf für den Kreisverwaltungsausschuss: Standortkonzept Bürgerbüros (Kreisverwaltungsreferat, 06.02.13)
+- TOP 6.9.: Erinnerungsverfahren: Senftenauerstraße, Fahrbahn zwischen Menaristraße und Silberdistelstraße (Baureferat, 04.02.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Aurikelstraße 15, 1 Fichte
+- TOP 7.2.: Hohenklingenstraße 7, 1 Ahorn
+- TOP 7.3.: Stiftsbogen 15, 1 Birke
+- TOP 7.4.: Waldgartenstraße 21, 1 Kirschbaum und 2 Erlen
+- TOP 7.5.: Hosigaustraße 17, gem. Baumbestandsplan Nr. 720
+- TOP 7.6.: Platanenstraße 16, gem. Baumbestandsplan Nr. 30309 und 30310
+- TOP 7.7.: Würmtalstraße 100, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 30058
+- TOP 7.8.: Neufriedenheimer Straße, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Hohenklingenstraße 7, 1 Robinie (Referat für Stadtplanung und Bauordnung, 04.02.13)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Vollzug der Wassergesetze, Bachräumungstermine 2013 für die Stadt- bzw. Stadtrandbäche (Baureferat, 16.01.13)
+- TOP 8.2.: Zuwendung aus dem Budget der Bezirksausschüsse; Johanniter-Unfall-Hilfe e.V. - LILALU Workshopplätze - Erfahrungsbericht (Direktorium, 11.01.13)
+- TOP 8.3.: Budget der Bezirksausschüsse - Änderungen im Rahmen des §10 der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Bezirksausschuss-Satzung) (Direktorium, 08.01.13)
+- TOP 8.4.: Unveränderte Fortführung eines Gaststättenbetriebes: - Guardinistraße 1 (Kreisverwaltungsreferat, 10.01.13)
+- TOP 8.5.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet (Referat für Gesundheit und Umwelt, 12.12.12)
+- TOP 8.6.: Zweckentfremdung von Wohnraum, hier: - Hartwaldstraße (Sozialreferat, 18.12.12) - Schietweg (Sozialreferat, 15.01.13) - Waldsaumstraße (Sozialreferat, 17.01.13)
+- TOP 8.7.: Fehlende Beleuchtung des Verbindungsweges zwischen Max-Lebsche-Platz und Prälat-Wellenhofer-Straße (Baureferat, 17.01.13)
+- TOP 8.8.: Information über Betriebskonzept während der Schienenschleifarbeiten auf der U6-Süd vom 03.03. - 07.03.2013 (MVG, 01.02.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Gehweg Blumenauer Straße (Baureferat, 17.01.13)
+- TOP 9.2.: Verzicht auf Laubbläser (Baureferat, 17.12.12)
+- TOP 9.3.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen, Pkw-Parkzone (Kreisverwaltungsreferat, 14.01.13)
+- TOP 9.4.: Ergebnisse der Studie zur Lebenssituation von Menschen mit Behinderung (Sozialreferat, 08.01.13)
+- TOP 9.5.: Anfrage zur Canisiusschule "Cook & Chill" (Referat für Bildung und Sport, 22.01.13)
+- TOP 9.6.: Ausweitung der bürgerfreundlichen Eintragungszeiten während des Volksbegehrens "Nein zu Studienbeiträgen in Bayern" (Kreisverwaltungsreferat, 21.01.13)
+- TOP 9.7.: Oberflächenabsenkungen beim Ausgang Südost des U-Bahnhofes Haderner Stern vor dem Anwesen Guardinistraße 89 (Baureferat, 24.01.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Fahrradständer an der Haltestelle Lorettoplatz (MVG, 10.01.13)
+- TOP 10.2.: Wegeverbindung Schröfelhofstraße (Hausverwaltung BayWV GmbH, 23.01.13)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Protokoll der 3. BA-Informationsveranstaltung für Jugendbeauftragte vom 15.11.2012 (Kreisjugendring München-Stadt, 16.01.13)
+- TOP 11.2.: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze" (Schr. BA 7 Sendling-Westpark, 17.01.13)
+- TOP 11.3.: 14. Internationale Konferenz Walk21 Fußverkehr und lebenswerte Städte vom 11. - 13.09.2013 (Referat für Stadtplanung und Bauordnung, 21.12.12)
+- TOP 11.4.: Wahl der 10. Münchner Seniorenvertretung 2013, Werbung zur Wahl (Sozialreferat, 21.01.13)
+- TOP 11.5.: Protokoll der BA-Veranstaltung im Sozialreferat am 29.11.2012 (Sozialreferat, 29.01.13)
+- TOP 11.6.: Unterstützung von kostenfreien Plätzen im Johanniter Lilalu-Ferienprogramm 2012 (Die Johanniter, 23.01.13)
+- TOP 11.7.: Praxistag Rechtspopulismus am Samstag, 13.04.2013 (Feierwerk, 28.01.13)
+- TOP 11.8.: 18.jetzt - Fest junger Erwachsener im Rathaus am 12.10.2013 (Direktorium, 22.01.13)
+- TOP 11.9.: Einladung zu einer weiteren Sitzung der BA-Beauftragten gegen Rechtsextremismus am Donnerstag, 14.03.2013 (Direktorium, 31.01.13)
+- TOP 11.10.: Eröffnung von Jugendhilfeeinrichtungen in der Schröfelhofstraße 17 und 19 (Wohnhilfe e.V., 30.01.13)
+- TOP 11.11.: Vorschlagsliste zur Auswahl für das Ehrenamt als Schöffin bzw. Schöffe für die Gerichtsperiode 2014 - 2018 (Kreisverwaltungsreferat, 04.02.13)
+- TOP 11.12.: Ortstermin zum Skateplatz Ludlstraße (Baureferat, 13.02.13)
+- TOP 11.13.: Ortstermin zur Schulwegsicherheit in der Fürstenrieder Straße am 26.02.2013 um 15.00 Uhr (BA 7 Sendling-Westpark, 13.02.13)
+- TOP 11.14.: Informationsveranstaltung der SWM am 26.03.2013 um 18.00 Uhr (SWM, 08.02.13)
+- TOP 11.15.: Einladung zum Fachforum "Betoninstandsetzung" am 27.02.2013 (Referat für Gesundheit und Umwelt, 07.02.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10503: Novellierung der Baumschutzverordnung (BaumschutzV)
+- TOP 12.2.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10677: Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis "Runder Tisch Werbung"
+- TOP 12.3.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 07773: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 12.4.: Beschluss vom 12.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09670: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten
+- TOP 12.5.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10387: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 12.6.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10309: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.7.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10305: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 12.8.: Beschluss vom 19.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10337: Haushaltsplan 2013 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 12.1.: Beschluss vom 23.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10344: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10999: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 07.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10362: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10764: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München) Produkt 60 3.1.1 (Kinder- und Jugendarbeit) Höhe der regelmäßigen jährlichen Aufstockung 62.000,- ?
+- TOP 12.2.: Beschluss des Bauausschusses vom 20.11.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10607: Mehrjahresinvestitionsprogramm für die Jahre 2012 - 2016 mit verbindlicher Planung für 2017; Entwurf für das Baureferat
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Hinweis / Ergänzung vom 29.11.2012 zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10686: Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2011 bis 2030
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.12.2012 zur Sitzungsvorlage-Nr. 08-14 / V 10688: Wohnen in München IV Erfahrungsbericht für das Jahr 2011 mit Ergänzungen unter Berücksichtigung der Gesamtbilanz für den Zeitraum von Wohnen in München IV (2007 - 2011)
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Bildung und Sport vom 30.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10911: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2012/2013 Stand: 20.10.2012
+- TOP 12.4.: Bekanntgabe in der Sitzung des Ausschusses für Bildung und Sport vom 30.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10968: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2012/2013
+- TOP 12.5.: Bekanntgabe in der Sitzung des Ausschusses für Bildung und Sport vom 30.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10937: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2012/2013
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Bildung und Sport vom 30.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11037: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2012/2013
+- TOP 12.7.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10980: Bericht zur Wohnungssituation in München 2010 - 2011
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
