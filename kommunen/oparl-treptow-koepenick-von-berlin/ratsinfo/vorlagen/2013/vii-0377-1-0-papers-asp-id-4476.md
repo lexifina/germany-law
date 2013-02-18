@@ -1,0 +1,13 @@
+# Bebauungsplan XV-30 ("Treptowers") im Bezirk Treptow-Köpenick hier: Änderung zum Bezirksamtsbeschluss Nr. 174/93 vom 04. Januar 1994 Räumlicher Geltungsbereich: das Gelände zwischen der Bezirksgrenze Friedrichshain-Kreuzberg, An den Treptowers, Elsenstraße, Puschkinallee sowie für die Eichenstraße, Ortsteil Alt-Treptow
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Drucksache/Vorlage: VII/0377
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2013-02-18
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=4476
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/papers.asp?id=4476
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=130&id=92815
+- Beratung: Kenntnisnahme https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3593 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3654 https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=75
+- underDirectionOf: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=at&id=4
