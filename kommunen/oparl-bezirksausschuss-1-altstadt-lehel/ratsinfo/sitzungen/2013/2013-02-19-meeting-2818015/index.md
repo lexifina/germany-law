@@ -1,0 +1,92 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-02-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818015
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818015
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: BA-Satzungsänderung: Bildung der Bezirksausschüsse für die Amtsperiode 2014-2020
+- TOP 1: (E) Teilerhalt der historischen Stadtmauer am Marienhof (Ziffer 2 der Anlage) Empfehlung Nr. 08-14 / E 01637 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 27.11.2012
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Thierschstraße 46: Generalsanierung und Erweiterung des Wilhelmsgymnasium (Vorbescheid)
+- TOP 1.2.: Sattlerstraße 1: Temporäre Teilnutzungsänderung in einem Herbergsbetrieb
+- TOP 1.3.: Oettingenstraße 6 - 8: Neubau einer Wohnanlage (103 Wohneinheiten) mit Kindertagesstätte und Tiefgarage
+- TOP 1.4.: Lerchenfeldstraße 24: Umbau/Nutzungsänderung von Wohnungen eines Wohnheims zu einer Kindertagesstätte
+- TOP 1.5.: Thierschstraße 33: Dachgeschoss-Ausbau, Nutzungsänderungen: Wohnen Erdgeschoss in Praxisfläche, Lager mit Duldung als Stellplatz in Bürofläche (...)
+- TOP 1.6.: Maximilianstraße 17: Umbau des Restaurantbereichs und Küche im Hotel ?vier Jahreszeiten
+- TOP 1.7.: Oberanger 16: Neubau eines Büro- und Geschäfshauses
+- TOP 1.8.: Kreuzstr. 17 / Sendlinger Straße 46: Neubau Wohn- und Geschäftsgebäude, Erweiterung, Nutzungsänderung, DG-Ausbau (Vorbescheid)
+- TOP 1.9.: Thierschstraße 4: Umbau der beiden Wohnungen im Dachgeschoss, Anbau Aufzug
+- TOP 1.1.: Bürgeranfrage: Nutzung öffentlicher Flächen für einen mobilen Eisstand
+- TOP 1.2.1: Gaststätten
+- TOP 1.1.: ?Business-Coffee GmbH?, Emil-Riedel-Straße 2: Genehmigung einer Freischankfläche
+- TOP 1.2.: ?NY. Club?, Sonnenstraße 25: Aufhebung der Sperrzeit:Freitag auf Samstag und Samstag auf Sonntag
+- TOP 1.3.: NACHTRAG: ?Rischart's Backhaus?, Marienplatz 18: Temporäre Verlegung der Freischankfläche während der Fugensanierung auf dem Marienplatz
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: Orlandostraße 6: Aufstellung von neuen Verkaufseinrichtungen
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Informationsveranstaltung der BRH Rettungshundestaffel, 30.11.2013, Odeonsplatz
+- TOP 1.2.: Informationsveranstaltung der Johanniter-Unfall-Hilfe, 07.12.2013, Odeonsplatz
+- TOP 1.3.: Michael Jackson WorldCry 2013 am 29.06.2013, Promenadeplatz
+- TOP 1.4.: Theaterveranstaltung ?Playground? der Münchner Kammerspiele am 23./24.03.2013 vor der Grundschule in der Herrnstraße
+- TOP 1.5.: Spieleabend des Sportamts sonntags von Mai bis Oktober, Richard-Strauß-Brunnen
+- TOP 1.6.: Informationsveranstaltung des vbm am 20.04.2013, Richard-Strauß-Brunnen
+- TOP 1.7.: NACHTRAG: Begleitung Earth Hour am 23.03.2013, Karlsplatz
+- TOP 1.1.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer: Oettingenstraße/Theodorpark, Tivolistraße
+- TOP 1.1.: Bürgeranliegen: Reduzierung der Behindertenparkplätze in der Sendlinger Straße
+- TOP 1.2.: Bürgeranliegen: LKW-Verkehr in der Sternstraße
+- TOP 1: (E) Geruchsemissionen durch Parfum des Modehauses Abercrombie and Fitch in der Sendlinger Straße (Ziffer 4 der Anlage) Empfehlung Nr. 08-14 / E 01657 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP 2: (E) Aufnahme der Steinsdorfstraße in den Lärmaktionsplan (Ziffer 1 der Anlage) Empfehlung Nr. 08-14 / E 01658 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP 2.1.: Baumfällung Oettingenstraße 6 - 8
+- TOP 2.2.: Baumfällung Tivolistraße
+- TOP 2.3.: Personenbezogener Behindertenparkplatz Wagmüllerstraße 21
+- TOP 2.1.: Vorstellung des Projekts ?A space called public? durch das Kulturreferat
+- TOP 2.2.: Vorstellung des Projekts ?Play me I'm Yours? durch den Antragsteller
+- TOP 2.1.: Budget-Antrag: "Kunsttunnel Odeonsplatz" vom 28.12.2013 ? 10.01.2014, Beantragter Zuschuss: 2000 Euro
+- TOP 2.1.: Tag des offenen Denkmals
+- TOP 2.1.: Teilnahme an der Veranstaltung 18Jetzt am 12.10.2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Einbindung des BA 1 in die Planungen für die Tiefgarage am Thomas-Wimmer-Ring, Hildegardstraße
+- TOP 0.3.: Bericht zur Wohnsituation in München 2010-2011, Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 30.01.2013 (Sitzungsvorlage Nr.
+- TOP 0.4.: Baugenehmigung Sendlinger Straße 14
+- TOP 0.5.: Antwortschreiben der LBK zum Bauvorhaben Paradiesstraße 8
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Antwortschreiben des Kommunalreferats zur Forderung des BA auf Errichtung von Hinweisschildern für öffentliche WC-Anlagen im Sperrengeschoss des S-Bahnhofes Isartorplatz
+- TOP 0.6.: Schreiben des Kreisverwaltungsreferates zum Treffen der BA-Vorsitzenden vom 13.12.2012, Praxis der Genehmigungen von privaten genehmigungspflichtigen Feuerwerken beim KVR
+- TOP 0.7.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?München Narrisch?
+- TOP 0.8.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Umzug Narhalla Prinzenwagen?
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Feuerwehranfahrtszone Hotterstraße - Radfahrverkehr in der Residenzstraße zwischen Perusastraße und Hofgraben - Löwengrube Nordseite, Halteverbot
+- TOP 0.2.: Fahrradabstellplatzkonzept (2. Realisierungsabschnitt), Beschluss Bauausschuss vom 11.12.2012, Sitzungsvorlage Nr. 08-14/V 08245
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.4.: Provisorische Interrimsbegrünung des Marienhofs, Beschluss des Bauausschusses vom 15.01.2013, Sitzungsvorlage Nr. 08-14 / V 11040
+- TOP 0.5.: Gefahrenbaumfällungen
+- TOP 0.6.: Bürgerbeschwerde Fußgängerüberweg Herzogspitalstraße / Ecke Eisenmannstraße
+- TOP 0.7.: Bürgerbeschwerde widerrechtlich abgestellter Hänger, Prinzregentenstraße
+- TOP 0.8.: Antwortschreiben der Polizei zur Anfrage bzgl. Verkehrsunfällen in der Theatinerstraße
+- TOP 0.1.: Verwendungsnachweis und Kurzbericht Initiative ?Buchprojekt?
+- TOP 0.2.: Schüler- und Klassenzahlen, Bekanntgabe im Ausschuss für Bildung und Sport am 30.01.2013 - an den städtischen Realschulen (Sitzungsvorlage Nr. 08-14 / V 10968) - an den Gymnasien und Schulen 2. Bildungsweg (Sitzungsvorlage Nr. 08-14 / V 10937) - an den Grund-, Mittel- und Förderschulen (Sitzungsvorlage Nr. 08-14 / V 11037) - an den Beruflichen Schulen (Sitzungsvorlage Nr. 08-14 / V 10911)
+- TOP 0.3.: Dankesschreiben Lilalu-Ferienprogramm 2012
+- TOP 0.4.: Sachstand ?Denkmal für die im Nationalsozialismus verfolgten Lesben und Schwule?
+- TOP 0.5.: Einrichtung eines zentralen und transparenten Vergabesystem für Betreuungsplätze in städtischen Kinderkrippen
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP 1.3.2: Sonstige
