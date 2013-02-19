@@ -1,0 +1,123 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839164
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839164
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Erhalt / Mietvertragsverlängerung Kindergarten Hänsel & Gretel; Schreiben des Elternbeirats vom 29.01.13 mit der Bitte um Unterstützung - <div>siehe Antrag des BA 18 zur Mietvertragsverlängerung</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Glasfasernetzausbau im 18. Stadtbezirk; Information durch die SWM GmbH
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Zuwendung aus dem Budget der Bezirksausschüsse; Johanniter-Unfall-Hilfe e.V. - LILALU Workshopplätze - Erfahrungsbericht; Zuleitung des Direktoriums vom 11.01.13 zu TOP 3.1.6.1 Schreiben des Johanniter-Unfallhilfe e.V. vom 23.01.2013
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Lärmschutzwände an der Bahnstrecke in Untergiesing; Anfrage an die LHM - <div>nach Antrag</div>
+- TOP 3.2.: Edeka in der St.-Magnus-Straße - kein widerrechtliches Parken der Lieferanten auf Fuß- oder Radweg - <div>vertagt</div>
+- TOP 3.1.: Fahrbahnsanierung Harthauser Straße zwischen Isenschmidstraße und Menterschwaigstraße (Erinnerungsverfahren); Zuleitung des Baureferats vom 24.01.13 mit der Bitte um Stellungnahme
+- TOP 3.2.: Fahrbahnsanierung Rabenkopfstraße zwischen Meichelbeckstraße und Holzkirchner Straße (Erinnerungsverfahren); Zuleitung des Baureferats vom 31.01.13 mit der Bitte um Stellungnahme
+- TOP 3.1.: Ludmillastraße / Schönstraße - Umbau der Kreuzung; BA-Antrag Nr. 08-14 / B 04233 vom 18.09.12 und Verbreiterung der Mittelinsel in der Schönstraße, Höhe Ampel Lebscheestraße; BA-Antrag Nr. 08-14 / B 04309 des BA 18 vom 16.10.12; Antwortschreiben des Baureferats-Tiefbau vom 07.01.13 (neutrale Erledigung)
+- TOP 3.2.: Antrag auf Beseitigung einer Bodenwelle vor dem Anwesen Tegernseer Landstraße 234; Bürgeranliegen aus der Sitzung des BA 18 vom 20.11.12; Antwortschreiben des Baureferats-Tiefbau vom 03.01.2013 (neutrale Erledigung)
+- TOP 3.3.: Lärmschutz an der Eisenbahn - Bürgeranliegen aus der Sitzung des BA 18 vom 18.12.12 (übernommen durch die SPD-Fraktion); Antwort des Referats für Stadtpl. u. Bauordnung vom 10.01.13 (neutrale Erledigung)
+- TOP 3.4.: Öffnung der Braunauer Eisenbahnbrücke für FußgängerInnen und RadfahrerInnen; BA-Antrag Nr. 08-14 / B 02957 vom 19.04.11; Antwortschreiben des Baureferats vom 18.01.2013 (negative Erledigung)
+- TOP 3.5.: Auerbergstraße - Verkehrszeichen 299 ("Zickzackstreifen"); Bürgerschreiben vom 14.11.12; Antwort des KVR vom 25.01.13 zur Sachstandsanfrage des BA 18 vom 21.12.12 (neutrale Erledigung)
+- TOP 3.6.: Mangfallplatz - weitere Fahrradständer am südlichen U-Bahn-Aufgang; BA-Antrag Nr. 08-14 / B 04051 vom 19.06.12; Antwortschreiben des Baureferats vom 25.01.13 zum Schreiben des BA 18 vom 21.12.12 (positive Erledigung)
+- TOP 3.1.: Geh- und Radwegbrücke über die Candidstraße (Bw.-Nr. 40/43); Instandsetzungsarbeiten 2013; Unterrichtung des Baureferats vom 07.01.2013 gem. § 14 der BA-Satzung
+- TOP 3.1.: Einrichtung eines Verkehrsspiegels an der Einmündung Nithartstraße in die Schönstraße; Widerspruch des Antragstellers gegen den Beschluss des BA 18 aus der Sitzung vom 15.01.2013 zur BÜV- Empfehlung Nr. 08-14 / E 01566; Antrag auf Ortstermin
+- TOP 3.3.3: UA Umwelt
+- TOP 1: Miesbacher Platz 1. Sanierung der Fußwege 2. Abdeckung für die Abfallkörbe auf dem Miesbacher Platz 3. Eindämmung der Ameisenplage in den Sandkästen BÜV-Empfehlung Nr. 08-14 / E 01567 vom 08.11.2012; Zuleitung des Baureferats; Beschluss des BA 18 vom 19.02.13 - <div></div>
+- TOP 1.1.: Anfrage zum Rückgang des Baumbestandes / der Zunahme der Versiegelung im Gartenstadtgebiet Harlaching - <div>vertagt</div>
+- TOP 1.2.: Schmorellplatz - Aufstellung eines Mülleimers außerhalb des umzäunten Spielplatzbereiches - <div>vertagt</div>
+- TOP 1.3.: Heckenrückschnitt für eine gefahrlose Nutzung der Gehwege - <div>vertagt</div>
+- TOP 1.1.: Unterrichtung des Baureferats-Gartenbau über das Fällen von Gefahrenbäumen; Nachfrage des BA 18 aus der Sitzung vom 18.12.2012; Antwortschreiben des Baureferats-Gartenbau vom 07.01.2013 (neutrale Erledigung)
+- TOP 1.2.: Lärmbelästigungen durch private Räum- u. Streudienste; Verbot des Einsatzes von Laubbläsern; Bürgeranliegen aus der Dezember-Sitzung; Antwortschreiben des RGU vom 17.01.13 (neutrale Erledigung)
+- TOP 1.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Harthauser Str. 25 - 25d; Ablehnungsbescheid vom 15.01.13 3.3.6.1.2 Geiselgasteigstr. 68; Genehmigungsbescheid vom 17.01.13 3.3.6.1.3 Ludmillastr. 1, Albrecht-Dürer-Str. 1 - 17, Birkenleiten 32; Bescheid vom 22.01.13
+- TOP 1.2.: Vollzug der Wassergesetze; Bachräumungstermine 2013 für die Stadt- bzw. Stadtrandbäche; Unterrichtung des Baureferats vom 16.01.2013
+- TOP 1.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung; Unterrichtung des Baureferats-Gartenbau vom 17.01.13 über das Fällen von Gefahrenbäumen
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Schüler/innen- und Klassenstand; Berufliche SChulen der LHM im Schuljahr 2012/2013; Stand 20.10.2012; Sitzungsvorlage Nr. 08-14 / V 10911; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 30.01.13
+- TOP 1.2.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2012/2013; Sitzungsvorlage Nr. 08-14 / V 11037; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 30.01.2012
+- TOP 1.3.: Schüler- u. Klassenzahlen an den städt. und staatl. Gymnasien sowie an den Schulen des Zweiten Bildungsweges u. den Schulen besonderer Art im Schuljahr 2012/2013; Sitzungsvorlage Nr. 08-14 / V 10937; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 30.01.2013
+- TOP 1.4.: Schüler- u. Klassenzahlen an den städt. Realschulen, den staatl. Realschulen u. der städt. Franz-Auweck-Abendschule; Schuljahr 2012/2013; Sitzungsvorlage Nr. 08-14 / V 10968; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 30.01.2013
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Bauvorhaben Füllstraße 3 - Ausschöpfung aller Möglichkeiten der LHM, um einen Rückbau des Gebäudes sicherzustellen; Empfehlung Nr. 08-14 / E 01556 der BÜV vom 08.11.12; Sitzungsvorlagen Nr. 08-14 / V 11118; Beschluss des BA 18 vom 19.02.13
+- TOP 1.1.: Vorkaufsrecht - Verbesserung des Verfahrens; Antrag der SPD-Fraktion vom 15.01.2013 (vertagt aus der Sitzung vom 15.01.2013) - <div>nach Antrag</div>
+- TOP 1.2.: Vorkaufsrecht für das Anwesen Oefelestraße; Antrag der Mietergemeinschaft Oefelestraße (vertagt aus der Sitzung vom 15.01.2013) - <div>nach Antrag</div>
+- TOP 1.3.: Heimag-Siedlung im 18. Stadtbezirk; Anfrage an die LHM; Antrag der CSU-Fraktion vom 19.02.13
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Tierparkstraße 30; Nutzungserweiterung für temporäre Veranstaltungen im Dschungelzelt / Raubtierhaus; Anhörung vom 14.01.13 (vertagt aus der Sitzung vom 15.01.13)
+- TOP 1.2.: Tierparkstraße 30; Errichtung eines Infoservicehäuschens; Anhörung vom 14.01.13 (vertagt aus der Sitzung vom 15.01.13)
+- TOP 1.3.: Winterstraße 4; Abbruch u. Neuerrichtung eines Dachstuhls mit 3 WE; Anhörung vom 17.01.13
+- TOP 1.4.: Laufzorner Str.; Neubau eines Sechsspänners mit Tiefgarage - VORBESCHEID (Laufzorner Str. / St.-Magnus-Straße); Anhörung vom 17.01.13
+- TOP 1.5.: Grünwalder Str. 190; Neubau eines Wohnhauses mit Läden, Büros + TG - VORBESCHEID; Anhörung vom 17.01.13
+- TOP 1.6.: Grünwalder Str. 226; Umbau u. Erweiterung eines Wohngebäudes; Anhörung vom 17.01.13
+- TOP 1.7.: Lorenzonistraße 15; Neubau eines Wohnhauses mit Garagen und Geräteraum - TEKTUR zu 1.2-2012-9597-33; Anhörung vom 17.01.13
+- TOP 1.8.: Ludmillastr. 26; Nutzungsänderung: Kleiderfabrik in ein Bürogebäude mit TG; Anhörung vom 12.02.13
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Antrag auf Erneuerung der Gehwegdecke zwischen dem Eingang des Vereinsgebäudes in der Grünwalder Str. 114 und der Harlachinger Straße; BA-Antrag Nr. 08-14 / B 03613 vom 20.12.11; Antwortschreiben des Referats für Bildung u. Sport vom 07.01.13 (neutrale Erledigung)
+- TOP 1.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 Café Wimmer, Jakob-Gelb-Platz 1; Mitteilung vom 10.01.13 3.5.6.1.2 Kleingaststätte "Ludmilla's", Ludmillastraße 20a; Mitteilung vom 09.01.13
+- TOP 1.2.: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städt. Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung; Sitzungsvorlagen Nr. 08-14 / V 10999; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 16.01.2013 (SB)
+- TOP 1.3.: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung u. Bauordnung a) Aus "Stuttgart 21" lernen - Transparenz, Diskussionsveranstaltungen und Bürgerentscheide bei kontroversen Bauvorhaben; Antrag Nr. 08-14 / A 02187 vom 03.02.11 b) Verbesserte Bürgerbeteiligung II - städt. Planungen besser kommunizieren, z.B. durch Infotafeln vor Ort; Antrag Nr. 08-14 / A 02730 vom 22.08.11 c) Mehr kommunale Demokratie wagen: Bürgergutachten als Form der Partizipation nutzen; Antrag Nr. 08-14 / A 02806 vom 12.10.11 d) Bessere Bürgerbeteiligung ganz konkret: engagierte Bürger im Bauleitplanverfahren rechtzeitig über Behandlung im Stadtrat informieren; Antrag Nr. 08-14 / A 03519 vom 18.07.12; Sitzungsvorlagen Nr. 08-14 / V 10344; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 16.01.13 (VB) zu TOP 3.5.6.3 Neufassung vom 16.01.2013; Beschluss der Vollversammlung des Stadtrates vom 23.01.2013
+- TOP 1.4.: Baufälle im 18. Stadtbezirk
+- TOP 1.5.: Neubau des Altenheims an der Tauernstraße; Informationen des Sozialreferats vom 18.01.2013 zur Behandlung im Stadtrat / zum Antrag auf Vorbescheid
+- TOP 1.6.: Bericht zur Wohnungssituation in München 2010 - 2011; Sitzungsvorlagen Nr. 08-14 / V 10980; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung vom 30.01.2013
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Grünanlage Oberbiberger Straße; Anhörungsverfahren für das Harlachinger Burschenfest / Maifest vom 01.05.2013 bis 05.05.2013; Zuleitung des KVR vom 14.01.13 mit der Bitte um Stellungnahme bis 01.03.13 (vertagt aus der Sitzung vom 15.01.2013) zu TOP 3.6.4.1 aktualisierter Lageplan vom 22.01.2013 und Bürgerschreiben vom 25.01.2013
+- TOP 1.2.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Isarspielnachmittage des Sportamts an 4 verschiedenen Standorten an der Isar ab Mai 2013; Zuleitung des KVR vom 24.01.13 mit der Bitte um Stellungnahme bis 05.04.13
+- TOP 1.3.: 18.jetzt - Fest junger Erwachsener im Rathaus am 12. Oktober 2013; Schreiben des Direktoriums vom 22.01.13 mit der Bitte um Rückmeldung
+- TOP 1.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Platzfest der Bürgervereinigung Maibaum Untergiesing e.V. zum 1. Mai auf dem Hans-Mielich-Platz; Zuleitung des KVR vom 04.02.13 mit der Bitte um Stellungnahme bis 26.03.13.
+- TOP 1.1.: Mitmachen beim Tag des offenen Denkmals 2013; Schreiben der Deutschen Stiftung Denkmalschutz vom 31.01.13
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1: WC-Anlage für den neuen Spielplatz Gerhardstraße / Hans-Mielich-Platz; BÜV-Empfehlung Nr. 08-14 / E 01562 vom 08.11.2012; Zuleitung des Baureferats; Beschluss des BA 18 vom 19.02.13 - <div></div>
+- TOP 1.4.2: Sonstige Anträge
+- TOP 1.1.: Notfallsäule mit Defibrillator für die Bezirkssportanlage Agilolfingerstraße 6; Antrag der FDP-Fraktion vom 21.01.13 - <div>nach Antrag</div>
+- TOP 1.2.: Resolution zur Münchner Trinkwasserversorgung; der Bezirksausschuss 7, Sendling-Westpark bittet um Unterstützung seines Antrages vom 05.02.2013
+- TOP 1.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 1.1.: Änderung der Bezirksausschuss-Satzung; Unterrichtungsrecht / Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen; Anhörung des Direktoriums vom 10.01.13 zum Beschluss des BA 20 vom 09.01.12 (vertagt aus der Sitzung vom 15.01.2013)
+- TOP 1.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 - 2020; Anhörung des Direktoriums vom 21.01.13 zu nötigen Anpassungen der BA-Satzung
+- TOP 1.3.: Standortkonzept Bürgerbüros, Zuleitung des Kreisverwaltungsreferats vom 06.02.2013 mit der Bitte um Stellungnahme
+- TOP 1.4.3.1: Baumschutzfälle
+- TOP 1.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.1.: Erhalt der Toilettenanlage am U-Bahnhof Kolumbusplatz
+- TOP 1.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 1.1.: Änderung der Satzung für die Bezirksausschüsse der LHM sowie der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 29.11.12 a) Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien; BA-Antrag Nr. 08-14 / B 03454 des BA 19 b) Kein Verkauf städtischer Grundstücke, ohne Zustimmung des zuständigen Bezirksausschusses, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können; BA-Antrag Nr. 08-14 / B 03929 des BA 16 c) Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung; BA-Antrag Nr. 08-14 / B 03040 des BA 7 d) Änderung der Satzung der Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentl. Grünanlagen; BA-Antrag Nr. 08-14 / B 04100 des BA 7 e) Antrag auf Satzungsänderung bzgl. Budgetvergabe; BA-Antrag Nr. 08-14 / B 04100 des BA 8 f) Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse; Ergänzung von § 2 der BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung des Anhangs 1 zur BA-Satzung (Beteiligung durch SWM GmbH) 3. Änderung der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der LHM; Beschluss des Verwaltungs- und Personalausschusses vom 12.12.12 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
