@@ -1,0 +1,57 @@
+# Ausschuss für Stadtplanung und Verkehr (22. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-02-19T17:00:00+01:00
+- Ende: 2013-02-19T20:37:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX7OQMViJOWM7n6jkf16ZrQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14619
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZ5uAVpm46N5h925JAh1Kr038ixdy6LjA0CwrqEm8P3M/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_19.02.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung des Arbeitskreises ÖPNV hier: Antrag der BBK/UWG-Fraktion
+- TOP 3.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 21. Sitzung vom 27. November 2012
+- TOP 4.: Umsiedlung Manheim
+- TOP 4.1: Bericht der Verwaltung
+- TOP 5.: Stadtentwicklung
+- TOP 5.1: Stadtteil Horrem, Hauptstraße - Bebauung des ehemaligen ALDI – Geländes, Vorstellung eines Planungskonzeptes der Deutschen Reihenhaus
+- TOP 5.2: Nahversorgung im Stadtteil Brüggen - (kein Text vorhanden)
+- TOP 5.3: Entwicklung im Hinter- bzw. Gartengelände des Bereichs Filzengraben/Alte Landstraße -Sachstand
+- TOP 5.4: Anpassung bzw. Weiterentwicklung des Vergnügungsstättenkonzeptes
+- TOP 5.5: Autohof bei Geilrath sowie zusätzliche LKW-Rastplätze entlang der A4 im Bereich von Kerpen-Horrem hier: Sachstandsbericht
+- TOP 5.6: 2. Änderung zum Rahmenbetriebsplanes zum Quarzsand- und Quarzkiestagebau -Forster Feld- sowie Errichtung eines Transportbetonwerkes im Stadtteil Manheim
+- TOP 5.7: Umgebungslärmrichtlinie/Lärmaktionsplanung für Kerpen
+- TOP 5.8: Neue Lärmschutzzonen rund um den Fliegerhorst Nörvenich - (kein Text vorhanden)
+- TOP 5.9: Gewerbeflächenentwicklungskonzept Rhein - Erft, hier: Stellungnahme der Stadt Kerpen
+- TOP 5.10: Niederschrift der 14. Sitzung des Arbeitskreises "Tagebau Buir" vom 31.10.2012
+- TOP 6.: Bauleitplanung
+- TOP 6.1: Bebauungsplan BL 341 "Verkehrsspange K55/B477n", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 6.2: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Wirksamkeitsbeschluss
+- TOP 6.3: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Beschluss zur Offenlage gem § 3 (2) BauGB
+- TOP 6.4: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 6.5: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg", hier: Abschluss eines Erschließungsvertrages
+- TOP 6.6: Vorhabenbezogener Bebauungsplan SI Nr. 255 "Nahversorgungszentrum Sindorf-Nord", hier: a. Wechsel des Vorhabenträgers und b. Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 16.05.2006
+- TOP 6.7: Bebauungsplan SI 346 "Wohnanlage Breite Straße/Hüttenstraße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.8: Bahnsteigverbreiterung S-Bahn-Haltepunkt Sindorf
+- TOP 6.9: Baugebiet Waldweg im Stadtteil Horremhier: Verkehrstechnische Anbindung des Baugebietes und Erhaltung des Baumbestandes am Paulshau
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Verkaufsstellen für VRS-Tickets / Einrichtung eines REVG Servicecenters
+- TOP 7.2: Zufahrtsmöglichkeit über die Wallraffstraße in das Neubaugebiet Wahlenpfad
+- TOP 7.3: Nahverkehrsplan Rhein-Erft
+- TOP 8.: Mitteilungen
+- TOP 8.1: Lichtsignalanlage (LSA) auf der L 122 an den Einmündungen der BAB A4
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+- TOP 9.2: Sachstand Bebauungsplanverfahren Platanenallee
+- TOP 9.3: Sachstand Bebauungsplanverfahren Sindorfer Straße
+- TOP 9.4: Entwicklungsmaßnahme Vogelrutherfeld im Stadtteil Sindorf
+- TOP 9.5: Park der Burg Hemmersbach im Stadtteil Horrem
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
