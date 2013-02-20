@@ -1,0 +1,78 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-02-20T17:00:00+01:00
+- Ende: 2013-02-20T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2570
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2570
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Scientology - beantwortet
+- TOP 3.2: Defibrillatoren in Dienstgebäuden in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Lichterfelde-Süd - beantwortet
+- TOP 3.4: Schuleinzugsbereich für die Carstennstraße - beantwortet
+- TOP 3.5: Zunahme von Gewalt an Steglitz-Zehlendorfer Schulen? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.1.1: Berufung eines beratenden Mitgliedes und eines stellvertretenden beratenden Mitgliedes als Vertretung des Bezirksschulbeirates in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Aufstellung der Vorschlagsliste für ehrenamtliche Richter für das Verwaltungsgericht Berlin für die Amtsperiode ab 1. Januar 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Anmeldungen für die Investitionsplanung 2013 bis 2017 - Fehlerberichtigung - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-23 Urselweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: JobCenter - Veröffentlichung von Telefonnummern und eMail-Adressen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Neue Fußgängerinsel Leonorenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Musterraumprogramm erarbeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Teilhabe an Information und Kommunikation für alle - in der BVV abgelehnt
+- TOP 4.5.3: Reaktorsicherheit in Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Straßenumbenennungen - in der BVV abgelehnt
+- TOP 4.5.5: Bordsteinabsenkung kenntlich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Straßenland für den Verkehr sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Straßenmarkierungen Wupperstraße Ecke Beeskowdamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Katastrophenschutzplan im Internet veröffentlichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Veloroute Saargemünder Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Verkehrsberuhigung Neue Kreisstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Verkehrsberuhigung in der Treitschkestraße umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Transparenz beim "Grünstreifen"-Verkauf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Fußgängerüberweg Bäkestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Erhalt der Psychiatrie im UKBF - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.1.1: Fortschreibung der Bezirkshaushaltsplanung 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Spiegel Kreuzung Mühlenstraße/Prinz-Handjery-Straße - überwiesen
+- TOP 5.2.2: Straßenquerung vor KiTA in der Mittelstraße sichern! - überwiesen
+- TOP 5.2.3: QR-Code für Spielplätze und Internetanwendung zur Mängelanzeige - überwiesen
+- TOP 5.2.4: Anwohnerfreundliche Halteverbote - überwiesen
+- TOP 5.2.5: Berliner Leberring e. V. unterstützen - überwiesen
+- TOP 5.2.6: Ausreichend Mülleimer für die Rehwiese - überwiesen
+- TOP 5.2.7: Wohnraum in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.8: E-Mobilität in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.9: Sicherer Übergang im Fischtalpark - überwiesen
+- TOP 5.2.10: Flugverbot über dem Forschungsreaktor Wannsee - überwiesen
+- TOP 5.2.11: Schwanenwerder - überwiesen
+- TOP 5.2.12: Nachtruhe in der Klingsorstraße - überwiesen
+- TOP 5.2.13: Mehr Fahrradstellplätze am S-Bahnhof Zehlendorf - überwiesen
+- TOP 5.2.14: Nachtruhe auch vor der Siemensbrücke - überwiesen
+- TOP 5.2.15: Landgut Eule - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Noch immer - Bauen auf der Truman Plaza ohne "Grünstreifen-Grundstück" an der Clayallee - die IV! - beantwortet
+- TOP 7.2: Wann gibt es endlich auch für unseren Bezirk einen Schulentwicklungsplan? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Erinnerung an Bischof Kurt Scharf - Spuren christlichen Lebens in Berlin sichtbar machen - in der BVV abgelehnt
+- TOP 8.2: Stille Helden nicht vergessen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Der Bezirk braucht einen Denkmalbeirat - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Hinweisschilder zur "Säule der Gefangenen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Einrichtung Tempo 30 in der Grunewaldstraße und in der Lepsiusstraße und eines Fahrradangebotsstreifens in der Grunewaldstraße und in der Schildhornstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Vorstehers - erledigt
