@@ -1,0 +1,24 @@
+# 4. Änderung des Bebauungsplanes Nr. 14.1 - Ortsteil Steinhagen - („Bereich Hagebaumarkt und Jibi-Handel“)
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-534-2009/2014 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2013-02-20
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZcxosDKwUGpd69Il_0gPBqY
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/1634
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (4. Änderung des Bebauungsplanes Nr. 14.1 - Ortsteil Steinhagen - („Bereich Hagebaumarkt und Jibi-Handel“)) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJiCabCtLNSnDF99JQxf4LW91FyNrWvae66dCGd4YXT/Beschlussvorlage_VL-534-2009-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQjbWjkoYYqAZR9iEuZbK-I3-O5381fQZabHtHbMjC1a/Anlage_1.pdf
+- Anlage: Beschlussvorlage (Anlage 1 a) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSzg8WGl9SCU6CSeChrXGFA1j923HI-2Kq_zrp-5Hmc3/Anlage_1_a.pdf
+- Anlage: Beschlussvorlage (Anlage 1 b) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQEgJmFepW6mXi0H1-Jy-1JxjhqJuz7AiQfNv6oAH3UK/Anlage_1_b.pdf
+- Anlage: Beschlussvorlage (Anlagen 2 - 6) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSiBZWEuTH13WsZJ_t_QTihd1_2yTzBGQflANxKw804J/Anlagen_2_-_6.pdf
+- Anlage: Beschlussvorlage (Anlagen 7 - 17) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWKf7dV0IkBBrYQVY_uJlYdhh1Dq_7yYYunkGPxCwvP_/Anlagen_7_-_17.pdf
+- Anlage: Beschlussvorlage (Anlagen 18 - 25) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWUrHkLAhiF2F8TQO7vh8Q6cKfnO0vx4Ds-oA3ZBSbAz/Anlagen_18_-_25.pdf
+- Anlage: Beschlussvorlage (Anlage 26) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZawRe-vUvUuMnLep3zet80sjCiP2cFiLPIlq-v2vn4qI/Anlage_26.pdf
+- Anlage: Beschlussvorlage (Anlage 27) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYRmU5tqHoD75hP0HQSNfikvnYBlG_Qu5cWVjUkj9FJz/Anlage_27.pdf
+- Anlage: Beschlussvorlage (Anlage A) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY6XvMesmBo5uV8yfx9Pe4etFePvoVEvvS1966ha83D4/Anlage_A.pdf
+- Anlage: Beschlussvorlage (Anlage B) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_yfFDojVCW1fr3IYWbg-rT2yTpxfr1FxLlMghGGkpn/Anlage_B.pdf
+- Anlage: Beschlussvorlage (Anlage C) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT5uzwA-tFuTwjScYkyuZKynRTHT6Gh5-VS_wfCAWMFe/Anlage_C.pdf
+- Anlage: Beschlussvorlage (Anlage D) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeeUWuN6PipDCW5rD3sjdCPGrXgMZwRiZ-g5j3IFdmPO/Anlage_D.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/1165 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-186
