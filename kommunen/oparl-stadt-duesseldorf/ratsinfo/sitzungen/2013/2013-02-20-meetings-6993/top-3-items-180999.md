@@ -1,0 +1,7 @@
+# TOP 3: Ergebnis des Gutachterverfahrens Unterrather Straße
+
+- Sitzung: Bezirksvertretung 6 (2013-02-20)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/180999
+- Ergebnis: zur Kenntnis genommen
