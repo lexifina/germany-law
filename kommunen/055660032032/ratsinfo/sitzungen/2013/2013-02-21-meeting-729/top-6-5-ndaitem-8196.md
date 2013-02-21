@@ -1,0 +1,6 @@
+# TOP 6.5: Sackgassenschild Jahnstraße
+
+- Sitzung: Planungs- und Bauausschuss (6. Sitzung) (2013-02-21)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8196
