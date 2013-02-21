@@ -1,0 +1,66 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-02-21T17:00:00+01:00
+- Ende: 2013-02-21T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUCR-x1nZwcyXa_QT4MHL-I
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4113
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ0vdd1-NG5gzdCsBegBpQPvZkruRpGmQOEwK-qd42Kc/Oeffentliche_Niederschrift_Rat_21.02.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: 37. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 6: Kosten der politischen Steuerung
+- TOP 7: Abberufung einer Prüferin beim Revisionsdienst
+- TOP 8: Abberufung einer Prüferin beim Revisionsdienst
+- TOP 9: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 10: Abberufung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 11: Bestellung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 12: Bestellung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 13: Bestellung des Betriebsleiters der Technischen Betriebe Solingen
+- TOP 14: Stadtwerke Solingen GmbH - Beauftragung von Sondierungsgesprächen mit dem Ziel eines optimierten Partnerschafts- und Kooperationsmodells
+- TOP 15: Verkaufsoffene Sonntage im Jahr 2013
+- TOP 16: Integriertes Stadtteilentwicklungskonzept für Solingen-Ohligs
+- TOP 17: Räumliche Erweiterung Grundschule Gottlieb-Heinrich-Straße
+- TOP 18: Räumliche Erweiterung der Grundschule Yorckstraße
+- TOP 19: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Teilnahme am Mittagessen in Kindertageseinrichtungen der Stadt Solingen
+- TOP 20: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Teilnahme am Mittagessen in Kindertageseinrichtungen der Stadt Solingen
+- TOP 21: Duplikat von Genehmigung einer Dringlichkeitsentscheidung
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 23: III. Änderung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 24: Jahresabschluss 2011 der Stadt Solingen
+- TOP 25: Jahresabschluss 2011 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 26: Jahresabschluss 2011 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 27: Wirtschaftsplan 2013 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 28: Einleitung eines aufgabenkritischen Verfahrens der BSG
+- TOP 29: Bauleitplanung Höher Straße/Beethovenstraße
+- TOP 30: Einführung einer Vermögensteuer
+- TOP 31: Einführung einer Vermögensteuer
+- TOP 32: Verschiedenes
+- TOP 33: Anatolia on tour
+- TOP 34: Pflegeplanung der Stadt Solingen
+- TOP 35: Markterkundungen im Zusammenhang mit Geschäftsabschlüssen der BSG
+- TOP 36: Neuausrichtung der Stadtwerke Solingen / Veröffentlichung von Bürgerstellungnahmen
+- TOP 37: Über- und außerplanmäßige Aufwendungen und Auszahlungen im Jahr 2012
+- TOP 38: Stadt Solingen erhält den Deutschen Nachhaltigkeitspreis 2012
+- TOP 39: Überörtliche Prüfung von Staatszuweisungen durch die Gemeindeprüfungsanstalt NRW
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 24. Sitzung des Rates am 27.09.2012
+- TOP 3: Verleihung von Ehrenringen der Stadt Solingen
+- TOP 4: Einspruch gemäß § 57 Abs. 4 Gemeindeordnung NRW
+- TOP 5: Genehmigung einer zusätzlichen Kreditermächtigung gemäß § 83 Abs. 1 GO NRW in Verbindung mit § 10 der Haushaltssatzung des Jahres 2013 zum Erwerb einer Immobilie
+- TOP 6: Genehmigung einer zusätzlichen Kreditermächtigung gemäß § 83 Abs. 1 GO NRW in Verbindung mit § 10 der Haushaltssatzung des Jahres 2013 zum Erwerb einer Immobilie
+- TOP 7: Löschwasservertrag
+- TOP 8: Einleitung eines aufgabenkritischen Verfahrens der BSG
+- TOP 9: Verschiedenes
+- TOP 10: Dienstanweisung nach § 31 Gemeindehaushaltsverordnung
