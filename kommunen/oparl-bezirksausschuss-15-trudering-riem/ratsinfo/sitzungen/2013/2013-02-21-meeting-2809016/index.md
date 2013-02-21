@@ -1,0 +1,149 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2809016
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2809016
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Sonnenquell Montessori Kindergruppe e.V. Ersatzbeschaffung einer Schaukelanlage und eines Sandkastens - <div>Ablehnung</div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse pädagogischer service gemeinnützige GmbH Projekttage ?Pädagogische Ziegelei? von April bis August 2013 - <div>Zustimmung</div>
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk Wagnis e.V. Kindertheater am 10.03.2013 - <div>Zustimmung</div>
+- TOP 1.4.: Sicherer Radweg von der Messestadt ins Truderinger Gymnasium Empfehlung Nr. 08-14 / E 01485 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 27.09.2012; Sitzungsvorlage Nr. 08-14 / V 11346; Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 21.02.2013
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Bessere Busanbindung der Tsingtauer Straße; Anbindung des Truderinger Gymnasiums durch eine Buslinie (Markgrafenstraße - Schramminger Weg - Tsingtauer Straße)
+- TOP 2.2.: Bauliche Missstände im "Haus für Kinder" in der Feldbergstraße
+- TOP 2.3.: Keine Sperrung des alten Riemer Friedhofs für Fahrradfahrer, Bürgerschreiben vom 22.01.2013 zur Verkehrssituation in Riem: Radfahrer auf reinen Fußwegen und Geschwindigkeitsüberschreitungen in der Tempo 30-Zone Leibengerstr./ Mittbacher Str./ Graf-Lehndorff-Str.
+- TOP 2.4.: Störungen durch starke Beleuchtung an der Kreillerstraße; - <div>Zustimmung mit Ergänzungen und Weiterleitung</div>
+- TOP 2.5.: Verkehrs- und Parksituation in der Friesenstraße
+- TOP 2.6.: Raumsituation der Mittagsbetreuung in der Markgrafenschule
+- TOP 2.7.: - Verbreiterung der Gehwege in der Josef-Hagen-Str, für einen sichereren Weg der Kinder der Grundschule Lehrer-Götz-Weg zum Sportunterricht - Keine Sporthalle für die Grundschule Lehrer-Götz-Weg auf Schulgelände? - Schutznetz/-wand am Basketballkorb des Pausenhofs der Grundschule Lehrer-Götz-Weg Schreiben der Kinder der Grundschule am Lehrer-Götz-Weg
+- TOP 2.8.: Amphibien Schutz-Zaun für Waldtrudering, Fauststraße
+- TOP 2.9.: Parkverbot für Lkws und Wohnwagen in der Froben- und Landshamer Straße
+- TOP 2.10.: Jugend-Kart-Slalom auf der Sonderfreifläche Messe Riem
+- TOP 2.11.: Winterdienst im 15. Stadtbezirk
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Prüfungsantrag zum Bau einer Mensa an der Grundschule Turnerstraße Schreiben des Elternbeirats vom 14.01.2013
+- TOP 3.2.: Grenzkolonie Trudering - Verkehrssicherheit Schulweg - Bus mit Füßen
+- TOP 3.3.: Energieeffiziente und betriebskostengünstige Bauweise der Grundschule Riem
+- TOP 3.4.: Neue Mobilität fördern
+- TOP 3.5.: Publikationen und Infoveranstaltungen in anderen Muttersprachen über das Bayerische Schulsystem, Verlängerung der Bearbeitungsfrist
+- TOP 3.6.: Kreative Platzgestaltung Friedenspromenade/Hugo-Weiss-Straße
+- TOP 3.7.: Verbesserung der Kontrolle von Fahrstühlen und Rolltreppen an der U-Bahn-Haltestelle Messestadt Ost
+- TOP 3.9.: Prüfungsantrag zur Dreizügigkeit der Grundschule an der Leibengerstraße von Beginn an
+- TOP 3.10.: Verkehrsbelastung Florastraße
+- TOP 3.11.: Verkauf bzw. unentgeltliche Rückgabe einer städtischen Immobilie an der Jagdhornstraße, Grundstück ohne Bebauung; Stellungnahme des BA 15 am 13.12.2012; Antwortschreiben des Kommunalreferats vom 28.01.2013
+- TOP 3.12.: Lösung für Parkplätze Riemer Park/ See suchen
+- TOP 3.13.: Anregungen zur Straßensituation Friedenspromenade
+- TOP 3.14.: Keine Feuerwerke an stillen Feiertagen
+- TOP 3.15.: Bahnhof Messestadt West; Aufrechterhaltung des Café-Betriebs oder Einrichtung eines Cafés für Jugendliche
+- TOP 3.16.: Absicherung des Fahrradweges von der Messestadt ins zukünftige Truderinger Gymnasium und Einrichtung einer Schulbusverbindung
+- TOP 3.17.: Kreuzungsbereich Heltauer Straße/ Xaver-Weismor-Straße entschärfen
+- TOP 3.18.: Maßnahmen gegen die Müllansammlung im Truderinger Wald an der Fauststraße
+- TOP 3.19.: 29. Änderung des Flächennutzungsplans der Gemeinde Aschheim; Beteiligung gem. § 4 Abs. 2 BauGB
+- TOP 3.20.: Essbare Pflanzen in Parks und Grünzügen
+- TOP 3.21.: Einkaufsvielfalt auf der Wasserburger Landstraße
+- TOP 3.22.: Ambulante Wohngemeinschaften im 15. Stadtbezirk
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Von Pasing lernen - Sanierung statt Versiegelung
+- TOP 4.2.: Zukunft des Kulturzentrums Messestadt
+- TOP 4.3.: Flächennutzung bei Truderinger Busplatte überdenken - <div>nach Antrag</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Promenadenfest im Riemer Park am 22.06.2013
+- TOP 5.2.: Änderung der Radverkehrsführung in der Schwablhofstraße; Anhörung des BA 15 gem. § 13 BA-Satzung zu 2 verkehrsrechtlichen Anordnungen nach § 45 StVO
+- TOP 5.3.: Austausch der Lichtzeichenanlage Friedenspromenade/Wasserburger Landstraße
+- TOP 5.4.: Willy-Brandt-Platz; Klassik-Open-Air am 29.06.2013
+- TOP 5.5.: Riemer Park, sonntägliche Spielenachmittage des Sportamtes von Mai bis September 2013, jeweils Sonntags von 14.30 bis 18:00 h
+- TOP 5.6.: Riemer Park; Gymnastik von Mai bis September, täglich von 18:00 bis 18:45 h
+- TOP 5.7.: Riemer Park (Fläche nördlich der Promenade und Stockholmstraße); Spielbus Osteraktion des Echo e. V. - Meister Lampes Osterwerkstatt am 28.03.2013 von 13:00 bis 18:00 h
+- TOP 5.8.: Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2012; Anhörung der Bezirksausschüsse zu nötigen Anpassungen der BA-Satzung;
+- TOP 5.9.: Unterrichtungsrecht/Anhörungsrecht der Bezirksausschüsse bei Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen; Änderung der Bezirksausschuss-Satzung; Antrag des BA 20 Hadern vom 09.01.2012; Schreiben des Direktoriums hierzu vom 10.01.2013
+- TOP 5.10.: Errichtung eines Mensa-Neubaus mit Küche sowie zwei Aufenthaltsräumen für die Grundschule Turnerstraße; Beschlussentwurf für die Sitzung des Ausschusses für Bildung und Sport des Stadtrates
+- TOP 5.11.: Hofrichterweg; Errichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 5.12.: 1) Standortkonzept Bürgerbüros; Beschlussvorlage für den Kreisverwaltungsausschusses des Stadtrats; Anhörung der Bezirksausschüsse gem. § 13 der BA-Satzung 2) Weiteres Bürgerbürostandbein des KVR am Truderinger Bahnhof
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Ein Radweg am Mitterfeld und Tempo 30 sowie die Entlastungsstraße auf Trasse 3
+- TOP 6.3.: Wasserschutzgebiet Trudering, Tsingtauer Straße: BA- Anfrage ausgehend von der Bürgerversammlungsanfrage Nr. 08-14/Q00410 vom 27.09.12
+- TOP 6.4.: Freizeitangebote für Kinder von 10 bis 18+ in Trudering, Bereich St. Augustinus-Straße; Ziffer 1, Verlängerung der Bearbeitungsfrist
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Reschstr. 6
+- TOP 7.2.: Bajuwarenstr. 99
+- TOP 7.3.: Stieglitzweg 18
+- TOP 7.4.: Radwegverbindung zwischen Gartenstadt Trudering und Neuperlach-Zentrum verbessern
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: BA-Budgetzuschuss für den Verein Nachbarschaftswerk Wagnis e. V. für das Kindertheater "Ein Daumen voll Glück" am 02.12.2012; Verwendungsnachweis vom 09.12.2012
+- TOP 7.2.: Sitzung der Bezirksausschuss-Satzungskommission vom 29.11.2012; Mitteilung der Beschlüsse des Stadtrats
+- TOP 7.3.: Johanniter-Unfallhilfe e. V., LILALU-Workshopplätze, Zuwendung aus dem BA-Budget; Erfahrungsbericht des Direktoriums
+- TOP 7.4.: BA-Budgetzuschuss für den Verein Echo e. V. für das die Ausstattung des Denkariums; Verwendungsnachweis vom 18.12.2012
+- TOP 7.5.: Zuwendungsbescheide über Budgetmittel des Bezirksausschuss 15 7.5.5.1 Münchner Bildungswerk e. V.; Bescheid vom 24.01.2013 7.5.5.2 TSV Trudering e. V.; Bescheid vom 24.01.2013 7.5.5.3 Chorgemeinschaft St. Peter und Paul Trudering; Bescheid vom 24.01.2013
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Entscheidungen entgegen dem Votum des Bezirksausschusses: Schatzbogen 50-62
+- TOP 8.2.: Reiherweg 9
+- TOP 8.3.: Samoastr. 2
+- TOP 8.4.: Sansibarstr. 13b
+- TOP 8.5.: Sulzweg 10
+- TOP 8.6.: Lebzelterstr. 16
+- TOP 8.7.: Schneebergstr. 28
+- TOP 8.8.: Drosselweg 16
+- TOP 8.9.: Lohnrößlerweg 32
+- TOP 8.10.: Heilwigstr. 32, Plan
+- TOP 8.11.: Königsseestr. 18 /Plan
+- TOP 8.12.: Hoferichterweg 25
+- TOP 8.13.: Hippelstr. 58
+- TOP 8.14.: Mona-Lisa-Str. 5/Plan
+- TOP 8.15.: Jagdhornstr. 27/Plan
+- TOP 8.16.: Habichtstr. 20a/Plan
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine 9.1.1 Gymnasium Trudering - Abstimmungstermin zur Anbindung mit öffentlichen Verkehrsmitteln am 19.02.2013 9.1.2 Treffen der BA-Vorsitzenden mit Frau Bürgermeisterin Strobl - 15.04.2013 9.1.3 Fest junger Erwachsener "18.jetzt" am 12.10.2013 im Rathaus
+- TOP 9.2.: Wahl der Münchner Seniorenvertretung 2013 am 19.03.2013
+- TOP 9.3.: Machbarkeitsstudie Buswenden am Edinburghplatz hierzu: Schreiben des Baureferats vom 22.01.2013
+- TOP 9.4.: Stromprojekt Kirtaweg
+- TOP 9.5.: Tag des offenen Denkmals am 08.09.2013
+- TOP 9.6.: Online-Banking für Bezirksausschüsse; Nutzung des Firmenkundenportals der Stadtsparkasse München
+- TOP 9.7.: Vollzug der Wassergesetze; Bachräumungstermine 2013 für die Stadt- bzw. Stadtrandbäche
+- TOP 9.8.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 29.11.2012 im Sozialreferat
+- TOP 9.9.: Städtischer Kinderhort Lehrer-Götz-Weg 21; Umzug; Dienststellenverständigung
+- TOP 9.10.: Vorschlagsliste zur Auswahl für das Ehrenamt als Schöffin bzw. Schöffe für die Gerichtsperiode 2014 bis 2018
+- TOP 9.11.: Bildungsangebote der offenen Kinder- und Jugendarbeit in Kooperation mit Schulen "Wildes Lernen?!"; Broschüre des Kreisjugendrings München
+- TOP 9.12.: GRÜNBLATT - Broschüre von Green-City e. V.
+- TOP 9.13.: Erhalt der Münchner Trinkwasserversorgung auf höchstem Niveau Resolution des Bezirksausschuss 7, Sendling-Westpark
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Bauvorhaben im Stadtbezirk im Zeitraum 31.12.2012 bis 10.02.2013
+- TOP 10.2.: Unfall- und Schadensrisiken vermeiden - Bordsteine in München entschärfen; Antrag Nr. 08-14 / A 04014 der Freien Wähler im Münchner Stadtrat
+- TOP 10.3.: Mitteilungen über Grundstücksgeschäfte im 15. Stadtbezirk; hier: Grundstück an der Koppenhagenstr./Flughafen-Riem-Straße Zuleitungen des Kommunalreferats
+- TOP 10.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 10.4.1 Kaltenbachstraße 10.4.2 von-Grafenreuth-Straße 10.4.3 von-Erckert-Straße 10.4.4 Friedenspromenade 10.4.5 Hella-von-Westarp-Straße 10.4.6 Hippelstraße 10.4.7 Günderodestraße
+- TOP 10.5.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEB) für die Erweiterung des Umschlagbahnhofs MÜnchen-Riem, Neubau einer Containerabstellanlage (Lastdepot); Planfeststellungsbeschluss; öffentliche Auslegung vom 26.02.2013 bis 11.03.2013
+- TOP 10.6.: Neue Haltverbote im 15. Stadtbezirk; Zuleitungen des Kreisverwaltungsreferats 10.6.1 Sonnespitzstraße 10.6.2 Helenenstraße
+- TOP 10.7.: Anhörungsrecht für die Bezirksausschüsse über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschlüsse); Antrag Nr. 08-14 / B 03805 des BA 5 Au-Haidhausen vom 21.03.2012; Anhörung der Bezirksausschüsse zur beantragten Satzungsänderung; Zuleitung des Direktoriums vom 18.12.2012 Stellungnahme vorab durch die BA-Vorsitzende gem. gemäß § 20 Abs. 1 Satz 2 BA-Satzung abgegeben
+- TOP 10.8.: Gastspiel des Chinesischen Staatszirkus an der Olof-Palme-Str. ab 21.12.2012; Verlängerung des Gastspiels bis 03.03.2013; Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 BA-Satzung
+- TOP 10.9.: Schüler- und Klassenzahlen im Schuljahr 2012/2013; Bekanntgaben im Ausschuss für Bildung und Sport des Stadtrats vom 30.01.2013 10.9.1 Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten; Sitzungsvorlage Nr. 08-14 / V 11037 10.9.2 Städtische und staatliche Realschulen und der städtischen Franz-Auweck-Abendschule; Sitzungsvorlage Nr. 08-14 / V 10968 10.9.3 Städtische und staatliche Gymnasien, sowie Schulen des zweiten Bildungsweges und Schulen besonderer Art; Sitzungsvorlage Nr. 08-14 / V 10937 10.9.4 Berufliche Schulen des Landshauptstadt München (Stand 20.10.2012); Sitzungsvorlage Nr. 08-14 / V 10911
+- TOP 10.10.: Bericht zur Wohnungssituation in München 2010 bis 2011; Sitzungsvorlage Nr. 08-14 / V 10980; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2013
+- TOP 10.11.: Dritte Informationsveranstaltung zum Thema Jugendbeteiligung; Protokoll der Veranstaltung vom 15.11.2012; Zuleitung des Kreisjugendrings München vom 17.01.2013
+- TOP 10.12.: Bebauungsplan mit Grünordnung Nr. 2007; Leibengerstraße (östlich), Mittbacher Straße (nördlich), Bahnlinie München-Ost ? Simbach/Inn (südlich), Erdinger Straße (westlich) im Stadtbezirk 15 Trudering-Riem Herstellung der öffentlichen Verkehrsflächen; Bedarfs- und Konzeptgenehmigung Sitzungsvorlage Nr. 08-14 / V 10528; Beschluss des Bauausschusses vom 11.12.2012 (SB)
+- TOP 10.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.14.: Fahrradstellplatzkonzept (2. Realisierungsabschnitt) a) Ergebnisse der Detailuntersuchungen b) Kostendarstellung c) Anträge - Platz für Fußgänger; Radlständer, Antrag Nr. 08-14 / A 00149 von Herrn Stadtrat Alexander Reissl vom 15.07.2008 - Fahrradständer vor Tengelmann, Dachauer Str. 423 Anfrage des Bezirksausschusses des Stadtbezirkes 10 Moosach vom 22.11.2010 Sitzungsvorlage Nr. 08-14 / V 08245; Beschluss des Bauausschusses vom 11.12.2012 (SB)
+- TOP 10.15.: Novellierung der Baumschutzverordnung (BaumschutzV); - Ergebnisse des Anhörungs- und Öffentlichkeitsverfahrens, - StR-Antrag Nr. 08-14 / A 01974 der Stadtratsfraktion der FDP vom 15.11.2010 - BA-Antrag Nr. 08-14 / B 04106 des Bezirksausschusses des Stadtbezirkes 03 ? Maxvorstadt vom 10.07.2012 - BA-Antrag Nr. 08-14 / B 04165 des Bezirksausschusses des Stadtbezirkes 25 ? Laim vom 31.07.2012; Sitzungsvorlagen Nr. 08-14/V 10503; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.12.2012(VB)
+- TOP 10.16.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für für den Bereich VI/18 Wasserburger Landstraße (südlich), Horst-Salzmann-Weg (beidseits) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 15 Trudering - Riem; Sitzungsvorlagen Nr. 08-14 / V 10072; Beschluss der Vollversammlung des Stadtrats vom 19.12.2012
+- TOP 10.17.: ?Aktive Stadt- und Ortsteilzentren? im Stadtteil Trudering A) Vorbereitende Untersuchungen Trudering B) Beteiligung der Betroffenen und der öffentlichen Aufgabenträger Ergebnisse des Erfahrungsaustausches verkehrsberuhigter Geschäftsbereich C) Förmliche Festlegung als Sanierungsgebiet ?Quartierszentrum Trudering? D) Sanierungsziele und Maßnahmen für das Sanierungsgebiet E) Organisatorische Erfordernisse zur Programmumsetzung Stadtbezirk 15 Trudering ? Riem Sitzungsvorlagen Nr. 08-14/V 10777 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2013 (VB)
+- TOP 10.18.: Auflösung des Werbebeirats der Landeshauptstadt München, Aufhebung der Werbebeiratssatzung; Gründung Beraterkreis ?Runder Tisch Werbung?; Sitzungsvorlagen Nr. 08-14 / V 10677; Beschluss der Vollversammlung des Stadtrates vom 19.12.2012
+- TOP 10.19.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept a) Fortsetzung des Parkraummanagements außerhalb des Mittleren Ringes b) Dauerhafte Aufgaben zum Betrieb und zur dauerhaften Qualitätssicherung des Parkraummanagements c) Eng mit der Einführung des Parkraummanagements einhergehende und bei Umsetzung des Parkraummanagements aufgetretene Fragestellungen d) Einbeziehung der Gebiete nördlich und westlich des Klinikums Schwabing in das Parkraummanagement, BA-Antrags-Nr. 08-14 / B 02945 des Bezirksausschusses des Stadtbezirkes 4 ? Schwabing West vom 13.04.2011; Sitzungsvorlagen Nr. 08-14 / V 07773; Beschluss der Vollversammlung des Stadtrates vom 19.12.2012
+- TOP 10.20.: Finanzierungsbeschluss zur weiteren Umsetzung der im Rahmen des IHKM-Klimaschutzprogrammes 2010 - 2012 vom Referat für Stadtplanung und Bauordnung zu verantwortenden Aktivitäten;Sitzungsvorlagen Nr. 08?14/ V 09670; Beschluss der Vollversammlung des Stadtrates vom 12.12.2012
+- TOP 10.21.: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DSchG) ? Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städtischen Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung; Sitzungsvorlagen Nr. 08-14 / V 10999; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013 (SB)
+- TOP 10.22.: Familien-Eintrittskarten in den Eis- und Funsportzentren Ost und West; Sitzungsvorlage Nr. 08-14 / V 10362; Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 07.11.2012 (VB)
+- TOP 7.1.: Prüfungsantrag: Umwidmung Gewerbegebiet Rappenweg zu Wohngebiet
