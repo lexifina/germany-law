@@ -1,0 +1,65 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-02-26T16:07:00+01:00
+- Ende: 2013-02-26T17:55:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8210
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8210
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand 13.02.2013) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00151812.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00153101.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2011/2012 - geändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan GMW 2013 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2012/2013 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2013/2014 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu den Heizkraftwerken Elberfeld und Barmen vom 24.01.2013 - Entgegennahme ohne Beschluss
+- TOP 3.1.1: Antwort auf die Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu den Heizkraftwerken Elberfeld und Barmen vom 24.01.2013 - Entgegennahme ohne Beschluss
+- TOP 3.2: Wählergemeinschaft für Wuppertal beantragt den Erwerb des Geländes Müngstenerstraße - abgelehnt
+- TOP 3.3: Neustrukturierung des WSW-Konzerns - ungeändert beschlossen
+- TOP 3.4: Satzung und Gebühren im Wasserbereich - ungeändert beschlossen
+- TOP 3.5: Bereitstellung außerplanmäßiger Mittel für die Erneuerung der Inspizienten- und ELA-Anlage in der Historischen Stadthalle Wuppertal - ungeändert beschlossen
+- TOP 3.6: Veräußerung des Anteils an der Technologiezentrum Wuppertal W-tec GmbH an die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.7: Anteilserwerb an der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 3.8: Erhöhung des Stammkapitals der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 3.9: Entwicklung und zukünftige Ausrichtung des Marketings der Historische Stadthalle Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 3.10: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.02.2013 - Risiken bei den Wuppertaler Stadtwerken - Entgegennahme ohne Beschluss
+- TOP 3.10.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.02.2013 - Risiken bei den Wuppertaler Stadtwerken - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Bericht zum 31.12.2012 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Schulden und Kassenkredite zum 31.12.2012 - Entgegennahme ohne Beschluss
+- TOP 5.3: Übersicht über die marktüblichen Zinssätze für kurz-, mittel- und langfristige Kredite - Entgegennahme ohne Beschluss
+- TOP 5.4: Umsetzung des Haushaltssanierungsplans (HSP) 2012 - 2021 - Stand zum 31.12.2012 - Entgegennahme ohne Beschluss
+- TOP 5.5: Externe Einstellungen im Jahr 2012 - Entgegennahme ohne Beschluss
+- TOP 5.6: Umsetzung des Personalentwicklungskonzeptes - Entgegennahme ohne Beschluss
+- TOP 5.7: Verkauf eines städtischen Grundstückes im Bereich der Straße Lante - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu dem Hösterey-Grundstück in Cronenberg vom 24.01.2013 - Entgegennahme ohne Beschluss
+- TOP 7.1.1: Antwort auf die Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu dem Hösterey-Grundstück in Cronenberg vom 24.01.2013 - Entgegennahme ohne Beschluss
+- TOP 7.2: Dritte Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.3: Digitaler Gremiendienst - Papierloser Rat - ungeändert beschlossen
+- TOP 7.4: Internetübertragung der Ratssitzungen - ungeändert beschlossen
+- TOP 7.5: Umsetzung der e-Government-Strategie - Entgegennahme ohne Beschluss
+- TOP 7.6: Richtlinien der Stadt Wuppertal zur aktiven Mitwirkung im Gebiet der Sozialen Stadt/ Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 7.7: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.02.2013 - Rundfunkbeitrag der Stadt - Entgegennahme ohne Beschluss
+- TOP 7.7.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 14.02.2013 - Rundfunkbeitrag der Stadt - Entgegennahme ohne Beschluss
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 9.1: Quartalsbericht IV/2012 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 9.2: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2012 der APH Service GmbH - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 12: Berichte und Mitteilungen
