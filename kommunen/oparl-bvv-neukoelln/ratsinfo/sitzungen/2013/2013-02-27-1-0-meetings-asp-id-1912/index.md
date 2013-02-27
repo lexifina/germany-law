@@ -1,0 +1,81 @@
+# 15. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-02-27T17:00:00+01:00
+- Ende: 2013-02-27T22:40:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1912
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1912
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von Vertrauenspersonen als Beisitzer für den beim Amtsgericht Neukölln zu bildenden Ausschuss für die Wahl der Schöffen - gewählt
+- TOP 6.2: Vorlage zur Wahl von ehrenamtlichen SozialpflegerInnen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: B-Plan XIV-294-1 ("TiB Columbiadamm") - Aufstellung des Bebauungsplanes zur Änderung eines rechtskräftigen Bebauungsplanes XIV-294 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: B-Plan XIV-78 a - "Hermannstraße 134" - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Vorschlagsliste für die Wahl zu ehrenamtlichen Richtern beim Oberverwaltungsgericht Berlin-Brandenburg - Amtsperiode ab 19. August 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2012 - überwiesen
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Leistungskürzung bei Dimenz? - beantwortet
+- TOP 9.2: Pferdefleisch in Neukölln - beantwortet
+- TOP 9.3: "Horst-Wessel-Gedenken" auf dem Friedhof in Britz? - beantwortet
+- TOP 9.4: Stellenbesetzung beim JobCenter Neukölln - beantwortet
+- TOP 9.5: Unhaltbare Zustände durch nicht abfließendes Oberflächenwasser in der Kanalstraße - beantwortet
+- TOP 9.6: Parken auf Radverkehrsanlagen - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Wohnungsämter stärken - in der BVV abgelehnt
+- TOP 10.2: Straßenschäden in Neukölln - beantwortet
+- TOP 10.3: Patientenfürsprecher/innen - beantwortet
+- TOP 10.4: Pflegemissbrauch bekämpfen - beantwortet
+- TOP 10.5: Klimaschutz in bezirklichen Gebäuden? - beantwortet
+- TOP 10.6: Einbruchs- und Diebstahlserie im Süden von Neukölln - beantwortet
+- TOP 10.7: Open Data für Neukölln? - beantwortet
+- TOP 10.8: Prognostizierte Rückläufer/-innen von Neuköllner Gymnasien im Schuljahr 2012/13 - beantwortet
+- TOP 10.9: Brandbrief Quartiersrat Reuterplatz - beantwortet
+- TOP 10.10: Kinderärztliche Versorgung auch an Feiertagen gewährleisten - vertagt
+- TOP 10.11: Beschwerdeverzicht (Urteil des Verwaltungsgerichts Berlin VG L 26412) - vertagt
+- TOP 10.12: Alpha-Bündnis - überwiesen
+- TOP 10.13: Multilinguale Internetkompetenz - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Absenkung der Bordsteinkante - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Ehrentafel für den ehemaligen Bezirksbürgermeister Alfred Scholz - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Fußgängerüberweg im Buckower Damm/Ecke Mollnerweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Absolutes Haltverbot in der Waltersdorfer Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Lichtzeichenanlage für sicheren Schulweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Tourismuspolitischer Ratschlag - vertagt
+- TOP 11.7: Open Data für Neukölln - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Unzureichende Leistungen zur Eingliederung? - vertagt
+- TOP 12.2: Maßnahmen gegen funktionalen Analphabetismus in Neukölln - vertagt
+- TOP 12.3: Bebauung Tempelhofer Feld - vertagt
+- TOP 12.4: Nebentätigkeiten von Bezirksamtsmitgliedern - vertagt
+- TOP 12.5: Neukölln aktiv gegen Lärm? - vertagt
+- TOP 12.6: 16,8 Mio. Euro nicht für Neukölln verwendet - vertagt
+- TOP 12.7: Werben für den Kriegseinsatz - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mehr Sicherheit für Fußgänger in der High-Deck-Siedlung - überwiesen
+- TOP 14.2: Bebauung Tempelhofer Feld - vertagt
+- TOP 14.3: Änderung der Geschäftsordnung - überwiesen
+- TOP 14.4: Milieuschutz für Neukölln - überwiesen
+- TOP 14.5: Änderung der Geschäftsordnung II - überwiesen
+- TOP 14.6: Anwohner frühzeitig über Asylbewerbersammelunterkunft informieren - überwiesen
+- TOP 14.7: Intensiv begleitende Sprachförderung in der Grundschule - überwiesen
+- TOP 14.8: Änderung des § 52 Geschäftsordnung - überwiesen
+- TOP 14.9: Volksbegehren ernst nehmen - überwiesen
+- TOP 14.10: Vandalismus verhindern - Kunst fördern - überwiesen
+- TOP 14.11: Konzept gegen Gentrifizierung - überwiesen
+- TOP 14.12: Entmietung verhindern - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
