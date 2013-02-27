@@ -1,0 +1,95 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-02-27T16:05:00+01:00
+- Ende: 2013-02-27T16:56:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8156
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8156
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen -  Stand 14.02.2013 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00151759.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00152728.pdf
+- Wortprotokoll: Nachtragsliste Stand: 25.02.2013 - 11.15 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00152451.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Wahl des ersten stellvertretenden Vorsitzenden im Hauptausschuss - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zum Stadion am Zoo und zum WSV
+- TOP 2.1.1: Große Anfrage: Stadion am Zoo und WSV
+- TOP 2.2: Wählergemeinschaft für Wuppertal fragt nach Cross-Border-Deposit
+- TOP 2.2.1: Antwort auf die Große Anfrage der WfW-Fraktion vom 04.02.2013 (VO/0145/13): Cross-Border-Leasing
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bau eines Aufzugs Hauptbahnhof - Distelbeck; Bürgeranträge gem. § 24 GO NRW - vertagt auf Rat
+- TOP 3.2: Anregung gemäß § 24 GO NRW zum Thema "Stadtentwicklung in Wuppertal - nachhaltig?" - ungeändert beschlossen
+- TOP 3.3: Antrag gemäß § 24 Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 3.4: Aufstellung von städtischen Altkleider- und Schuhcontainern - Entgegennahme ohne Beschluss
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Entgeltgleichheit - ein wichtiges Thema auch für Wuppertal - vertagt auf Rat
+- TOP 4.1.1: Änderungsantrag zum Tagesordnungspunkt 4.1 - vertagt auf Rat
+- TOP 4.2: Erhalt der Mobilen Beratungsstelle gegen Rechtsextremismus sichern - vertagt auf Rat
+- TOP 4.2.1: Änderungsantrag zu VO/0117/13 - vertagt auf Rat
+- TOP 4.3: Qualifizierung von EnergieberaterInnen
+- TOP 4.4: Resolution Wasser ist Menschenrecht - abgelehnt
+- TOP 4.5: Wählergemeinschaft für Wuppertal beantragt den Erwerb des Geländes Müngstener Straße - abgelehnt
+- TOP 4.6: Namensgebung bei den neuen Schwebebahnwagen - vertagt auf Rat
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Errichtung einer Sekundarschule in Wuppertal
+- TOP 6: Ortsrecht
+- TOP 6.1: Dritte Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Neufassung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.3: Einzelsatzung Martin-Luther-Straße - ungeändert beschlossen
+- TOP 6.4: Satzung und Gebühren im Wasserbereich
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Umsetzung des Haushaltssanierungsplans (HSP) 2012 - 2021 - Stand zum 31.12.2012 - Entgegennahme ohne Beschluss
+- TOP 7.2: Bereitstellung außerplanmäßiger Mittel für die Erneuerung der Inspizienten- und Elektroakustischen-Anlage in der Historischen Stadthalle Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan GMW 2013 - ungeändert beschlossen
+- TOP 8.2: Neustrukturierung des WSW-Konzerns - ungeändert beschlossen
+- TOP 8.2.1: Satzung und Gebühren im Wasserbereich - ungeändert beschlossen
+- TOP 8.3: Veräußerung des Anteils an der Technologiezentrum Wuppertal W-tec GmbH an die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.4: Anteilserwerb an der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 8.5: Erhöhung des Stammkapitals der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Redaktionelle Klarstellung des Wuppertaler Sortimentskonzeptes - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1143 - Laaker Teich - ungeändert beschlossen
+- TOP 9.3: Aufhebung des Fluchtlinienplanes Nr. 843 - Am Hackland - - geändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 810 A - Uellendahler Straße/ Zamenhofstraße - - ungeändert beschlossen
+- TOP 9.5: Vorhabenbezogener Bebauungsplan Nr. 890V - Am Kalkofen - - geändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1145 - Nördlich Buscherhofer Straße - - ungeändert beschlossen
+- TOP 9.7: Fluchtlinienplan Nr. 766 - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan Nr. 1033 - Heinrich-Böll-Straße - - ungeändert beschlossen
+- TOP 9.9: 48. Flächennutzungsplanänderung - Baumarkt und Discounter Lichtscheid - - geändert beschlossen
+- TOP 9.10: Bebauungsplan 1166 - Wilhelmstraße / Rommelspütt - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung eines Erweiterungsbaus an der Realschule Hohenstein - ungeändert beschlossen
+- TOP 10.2: Neubau einer Sporthalle an der Gesamtschule Langerfeld, Heinrich-Böll-Str. - ungeändert beschlossen
+- TOP 10.2.1: Neubau einer Sporthalle an der Gesamtschule Langerfeld, - Entgegennahme ohne Beschluss
+- TOP 10.3: Neubau und Inbetriebnahme einer sechsgruppigen städtischen Tageseinrichtung für Kinder Ehrenhainstraße 1a - ungeändert beschlossen
+- TOP 10.4: Sanierung des Wilhelm-Dörpfeld-Gymnasiums, Johannisberg 20, 42103 Wuppertal - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Jahresarbeitsprogramm 2013 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 11.2: Richtlinien der Stadt Wuppertal zur aktiven Mitwirkung im Gebiet der Sozialen Stadt/ Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.3: Einrichtung und Weiterführung der integrativen Lerngruppe - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 11.4: Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Abs. 2 SGB VIII - ungeändert beschlossen
+- TOP 11.5: Anmeldeverfahren Schuljahr 2013/2014: Schulorganisatorische Maßnahmen im Hauptschulbereich - vertagt auf Rat
+- TOP 11.5.1: Ergänzungsantrag zu VO/0112/13, - vertagt auf Rat
+- TOP 11.6: Internetübertragung der Ratssitzungen - vertagt auf Rat
+- TOP 11.7: Neuordnung der Geschäftsbereiche der Beigeordneten nach § 71 Abs. 1 GO NRW - ungeändert beschlossen
+- TOP 11.8: Ausbau der Betreuungsplätze für Kinder unter 3 Jahren in Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 11.9: Fortschreibung des Luftreinhalteplans Wuppertal 2013 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Benennung eines sachkundigen Einwohners für den Sportausschuss - ungeändert beschlossen
+- TOP 12.2: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.3: Benennung eines neuen Mitgliedes des Beirates der Menschen mit Behinderung, der ARGE Wuppertal und des Ausschusses für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - geändert beschlossen
+- TOP 12.4: Benennung eines neuen Mitgliedes des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 12.5: Berufung von beratenden Mitgliedern in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.6: Bestellung der Mitglieder des Aufsichtsrates der HELIOS Klinikum Wuppertal GmbH - geändert beschlossen
+- TOP 12.7: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses - vertagt auf Rat
+- TOP 12.8: Greminebesetzung - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzungen / Benennungen - ungeändert beschlossen
+- TOP 13: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - Entgegennahme ohne Beschluss
