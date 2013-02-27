@@ -1,0 +1,8 @@
+# TOP 6: Zusätzliche Kennzeichnung der Teilstrecke des Schneebergweges zwischen Forckenbeckstraße und Schurzelter Straße als „Via Regia“
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Laurensberg (2013-02-27)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=56213
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=14902&bi=17909
