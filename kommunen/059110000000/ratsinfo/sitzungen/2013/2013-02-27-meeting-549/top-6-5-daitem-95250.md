@@ -1,0 +1,7 @@
+# TOP 6.5: Berichte aus den Gremien hier: Mdl. Bericht in der Sitzung
+
+- Sitzung: Seniorenbeirat (2013-02-27)
+- Körperschaft: Stadt Bochum
+- Öffentlich: ja
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/95250
+- Ergebnis: Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
