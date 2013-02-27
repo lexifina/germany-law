@@ -1,0 +1,55 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2727714
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2727714
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 12.10.2013: Teilnahme BA 4
+- TOP .2.: Bauträgerauswahl für Baugrundstücke, u.a. Städtisches Grundstück für die Bebauung im Rahmen des Kommunalren Wohnungsbauprogramms ? Sozial Betreutes Wohnhaus in der Belgradstr. 75-81 Anhörung zur Beschlussvorlage für den Sozialausschuss am 11.04.2013
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Kurfürstenplatz 8 ?Papershop?: 3 zusätzliche Postkartenständer
+- TOP .2.: Schleißheimer Str. 127, Döner Imbiss: Erweiterung der bestehenden Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kreuzkirche München-Schwabing Jazzkonzert am 29.03.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Kreuzkirche München-Schwabing Projekt "Regenwald - zwischen Bewahrung und Zerstörung" am 08.05.2013
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Gruppenveranstaltung ?München atmet? (02.06. bis 25.08.2013)
+- TOP .2.: Luitpoldpark: Veranstaltungen des Sportamtes ab Mai 2013: 1. Eröffnungsveranstaltung des Freizeitsport-Sommers am 01.05.2013 2. Spielnachmittage jeden Sonntag von Mai bis Oktober 3. Gymnastik im Park täglich von Mai bis Oktober
+- TOP .3.: Luitpoldpark: MobilSpielfest am 21.04.2013
+- TOP .4.: Luitpoldpark: Pfingstferienprogramm der Pädagogischen Aktion vom 22. bis 26.05.2013
+- TOP .1.: Bürgerin: Wiedereinführung der Kinderkomponente pro Kind im München-Modell
+- TOP .2.1.: Planen
+- TOP 1: (E) Sondernutzungserlaubnis für Baustelleneinrichtung in der Tengstraße 45 widerrufen
+- TOP 1.2.: Isabellastr. 26: Energetische Generalsanierung eines Mehrfamilienhauses (VGB + RGB) mit DG-Ausbau
+- TOP 1.3.: Kaiserstr. 47/RGB: Erneuerung eines Balkons und Umbau einer Dachfläche zu einer Terrasse
+- TOP 1.4.: Franz-Joseph-Str. 30: Nutzungsänderung von Laden mit Wohnraum zu Laden mit Gastronomiefläche
+- TOP 1.2.2.: Wohnen
+- TOP 1.2.1.: Umwelt
+- TOP 1.1.: Erweiterung bestehender Containerinseln um städtische Altkleidercontainer: Zusätzlicher Standort Giselherstr. 14
+- TOP 2: (E) Entsorgungsmöglichkeiten für Hundekottüten in der Bauer- und Elisabethstraße schaffen (Ziffer 5 des Antrags) Empfehlung Nr. 08-14 / E 01506 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 11.10.2012
+- TOP 2.3.: Brunnerstr. 35-37: Fällung eines Ahorn und einer Hainbuche in Zusammenhang mit Baumaßnahmen (Dachaufstockung, Neubau von 6 Wohnungen)
+- TOP 2.4.: Ackermannstraße: Fällung einer Linde
+- TOP 2.5.: Ackermannstraße: Fällung eines Ahorn
+- TOP 2.6.: Konradstr. 10: Fällung einer Weide
+- TOP 2.7.: Winzererstr. 27: Fällung dreier Bäume
+- TOP 2.2.2.: Verkehr
+- TOP 2.1.: Mildred-Scheel-Bogen und Rümannstraße: Aufnahme in das Parkraummanagenent Lizenzgebiet Tristanstraße
+- TOP 2.1.: Bildung der Bezirksausschüsse für die Amtsperiode 2014-2020; Anhörung der Bezirksausschüsse zur nötigen Anpassung der BA-Satzung
+- TOP 2.2.: Standortkonzept Bürgerbüros ? Einrichtung eines Bürgerbüros am Scheidplatz Anhörung zur Beschlussvorlage für den Kreisverwaltungsausschuss
+- TOP 2.1.: Linksabbiegeverbot aus der Schleißheimer Straße in die Ackermannstraße wegen der massiven Auswirkungen wieder aufheben
+- TOP 2.2.: Barrierefreier Zugang zur Behindertentoilette am Scheidplatz
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
