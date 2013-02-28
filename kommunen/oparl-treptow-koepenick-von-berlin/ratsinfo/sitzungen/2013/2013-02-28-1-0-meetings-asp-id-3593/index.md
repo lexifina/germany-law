@@ -1,0 +1,69 @@
+# 16. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-02-28T16:30:00+01:00
+- Ende: 2013-02-28T21:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3593
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3593
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=93248
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-16 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorschlagsliste für die Wahl von ehrenamtlichen Richtern für das Oberverwaltungsgericht - gewählt
+- TOP 8.2: Wahl von 7 Vertrauenspersonen als Beisitzer im Schöffenwahlausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Gedenken an 60. Jahrestag des Volksaufstandes am 17. Juni - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Personalentwicklungskonzept für das Bezirksamt Treptow-Köpenick - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Musikschulstandorte und ihre Kosten - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans 9-35a nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-35a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - überwiesen
+- TOP 11.2: Sondermittel für Schloßplatztheater/Alte Möbelfabrik e. V. (SM 1303) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Keine Rundfunkgebühren für Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Barrierefreie Spielgeräte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bürgerbeteiligung stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fußgängerampel auf der Wassersportallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Verbesserung der Zugangsmöglichkeiten zum S-Bahnhof "Oberspree" - vertagt
+- TOP 12.6: Betreuungsbedarf im Schulhort aus familiären, pädagogischen oder sozialen Gründen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Ökologische Aspekte bei Neuausschreibungen für Essenanbieter beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Mehrwegverpackungen für Schulmilch - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Schwimmunterricht für Erwachsene - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Nahverkehrstangente für den Bundesverkehrswegeplan 2015 anmelden - überwiesen
+- TOP 12.11: Erhalt des Köpenicker Standorts der Joseph-Schmidt-Musikschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Sanierung des Rathaushofs Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Fortschreibung der Schulentwicklungsplanung für die Jahre 2012-2016 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Personalentwicklungskonzept des Bezirksamtes Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XV-30 ("Treptowers") im Bezirk Treptow-Köpenick hier: Änderung zum Bezirksamtsbeschluss Nr. 174/93 vom 04. Januar 1994 Räumlicher Geltungsbereich: das Gelände zwischen der Bezirksgrenze Friedrichshain-Kreuzberg, An den Treptowers, Elsenstraße, Puschkinallee sowie für die Eichenstraße, Ortsteil Alt-Treptow (Anlage 1 zum BA-Beschluss 151/13) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Allende-Büste im Eingangsbereich des Allende-Viertels - überwiesen
+- TOP 14.2: Allende-Denkmal restaurieren und beschriften - überwiesen
+- TOP 14.3: „Gleislinse“ - Ausgleichs- und Ersatzmaßnahmen müssen in Treptow-Köpenick verbleiben - überwiesen
+- TOP 14.4: Entgeltfreies Internetangebot in den Bibliotheken - überwiesen
+- TOP 14.5: Straßenbahn 61 - überwiesen
+- TOP 14.6: Piktogramme zur Barrieresituation - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Straßenbahnlinie 61 ins Ortszentrum Rahnsdorf verlängern - überwiesen
+- TOP 14.8: Dokumente mit Lizenzangaben versehen - überwiesen
+- TOP 14.9: Gedenkstätte für italienische Zwangsarbeiter in Niederschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Passieren des Landschaftsparks Rudow-Altglienicke mit Ponys - überwiesen
+- TOP 14.11: Radwegschild Bahnhofstraße - überwiesen
+- TOP 14.12: Weitergabe der Meldedaten - bessere Informationen über Opt-Out in Bürgerämtern - überwiesen
+- TOP 14.13: Querungshilfe Strandbad Müggelsee und Jugenddorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Rundfunkbeitrag - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Mietpreise begrenzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Weiterbetrieb Rahnsdorfer Ruderfähre - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Präzisierung der Investitionsplanung - beantwortet
