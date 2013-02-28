@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-02-28T14:00:00+01:00
+- Ende: 2013-02-28T18:10:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7245
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7245
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00190777.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00190777.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00190777.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage FDP und CDU: Kostenexplosion durch neuen Rundfunkbeitrag - beantwortet
+- TOP 4.2: Anfrage Freie Wähler: Anfrage zu den erzielten Steuer-Einnahmen im Januar - beantwortet
+- TOP 4.3: Anfrage Freie Wähler: Anfrage zu Finanzströmen - beantwortet
+- TOP 4.4: Anfrage Rh Dr. Kirchner: Zu den erhaltenen Anzahlungen der Stadt Düsseldorf - beantwortet
+- TOP 4.5: Anfrage SPD: Imageschaden durch die Suspendierung von Feuerwehrleuten - beantwortet
+- TOP 4.6: Anfrage Bü90/Grü: Auswirkungen von Landeanflugsverfahren auf Fluglärm - beantwortet
+- TOP 4.7: Anfrage Rh Spielmann: Anbindung ISS Dome: Wann ist die Verlängerung der Strecke fertig? - schriftlich beantwortet
+- TOP 4.8: Anfrage Die Linke: Ausgesprochene Platzverweise durch den OSD im Jahr 2012 - schriftlich beantwortet
+- TOP 4.9: Anfrage SPD: Pferdefleisch: Welche Erkenntnisse gibt es in Düsseldorf? - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - beantwortet
+- TOP 6: Kämmererliste - einstimmig beschlossen
+- TOP 7: Mittelbereitstellung Stadtjubiläum - mehrheitlich beschlossen
+- TOP 7.1: ÄA Bü90-Grü: Mittelbereitstellung Stadtjubiläum - mehrheitlich abgelehnt
+- TOP 8: Eingliederung des Aufgabenbereiches der sportAgentur Düsseldorf GmbH in die DüsseldorfCongress Veran - mehrheitlich beschlossen
+- TOP 9: papierlose Gremienarbeit - Pilotprojekt - einstimmig beschlossen
+- TOP 9.1: Änderungsantrag der Ratsfraktion DIE LINKE: Papierlose Gremienarbeit - mehrheitlich abgelehnt
+- TOP 10: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 11: 37. ordentliche Hauptversammlung des Deutschen Städtetages - einstimmig beschlossen
+- TOP 12: Einigungsstelle .§ 67 LPVG NRW - stellv. Vorsitzender - einstimmig beschlossen
+- TOP 13: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 14: Anträge
+- TOP 14.1: Antrag Freie Wähler: Schutz der alten Pferdetränke des Bilker Bahnhofs - mehrheitlich abgelehnt
+- TOP 14.2: Antrag Freie Wähler: DEG - ein Stück Düsseldorf erhalten - JETZT handeln - mehrheitlich abgelehnt
+- TOP 14.3: Antrag CDU und FDP: Seniorenbeirat in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 14.4: Antrag Bü90-Grü, CDU, SPD und FDP: Resolution: EU-Richtlinie „Konzessionsvergabe“ nicht auf die Was - einstimmig beschlossen
+- TOP 14.4.1: Antrag Die Linke: : Rekommunalisierung der Wasserversorgung - mehrheitlich abgelehnt
+- TOP 14.5: Antrag Bü90/Grü: Beschlusskontrolle der Bezirksvertretungen - zur Kenntnis genommen
+- TOP 14.6: Antrag SPD: Feuerwehr: Vergütung von Überstunden für den Zeitraum 2001 bis 2005 - zur Kenntnis genommen
+- TOP 14.6.1: Antrag Die Linke; Auszahlung aller Überstunden der Feuerwehr für die Jahre 2001 bis 2005 - zur Kenntnis genommen
+- TOP 14.6.2: Antrag Die Linke: Keine betriebsbedingten Kündigungen bei der Düsseldorfer Flughafentochter FDGHG - mehrheitlich abgelehnt
+- TOP 14.7: Antrag SPD: Flughafen Düsseldorf - Keine betriebsbedingten Kündigungen b. Ground Handling GmbH - zurückgezogen
+- TOP 14.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Verwaltungsrat der Stadtsparkasse - einstimmig beschlossen
+- TOP 16: ISS-Dome Überplanmäßige Mittelbereitstellung - mehrheitlich beschlossen
