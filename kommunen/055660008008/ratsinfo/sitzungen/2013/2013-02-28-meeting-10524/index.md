@@ -1,0 +1,51 @@
+# Rat (70. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2013-02-28T18:02:00+01:00
+- Ende: 2013-02-28T20:35:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeUk4bdtXZTl_oy_077lu9g
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/10524
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVWWVRGJBTij7Um4ff6hnEyzGOdKo8coZyMam-ctAszu/Bekanntmachung_Rat_28.02.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc53UfYSgymOEfs2VDmfzS37vyEdjMVbeNcmyxMzVDBS/Oeffentliche_Niederschrift_Rat_28.02.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 18.12.2012
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Bildung und Besetzung von Gremien
+- TOP 4.1: Umbesetzung von Gremien - Einstimmig
+- TOP 4.2: Besetzung des Umlegungsausschusses der Stadt Emsdetten - Einstimmig
+- TOP 4.3: Mitglieder örtlicher Beiräte als Mitglieder in Fachausschüssen des Rates der Stadt Emsdetten - hier: konkret personelle Besetzung - Einstimmig
+- TOP 4.4: Bildung eines Arbeitskreises "Stroetmanns Gelände"
+- TOP 5.: Änderung der Hauptsatzung für die Stadt Emsdetten sowie Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Stadt Emsdetten - Einstimmig
+- TOP 6.: Verabschiedung eines Handlungskonzeptes Wohnen für Emsdetten - Zur Kenntnis genommen
+- TOP 7.: Durchführung eines "Aktivierungsprozesses Innenstadt" - 28 Ja-Stimme(n), 6 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 8.: Finanzangelegenheiten
+- TOP 8.1: Beteiligungsbericht 2010 - Zur Kenntnis genommen
+- TOP 9.: Genehmigung eines überplanmäßigen Aufwandes zur Durchführung des "Aktivierungsprozesses Innnenstadt" - 29 Ja-Stimme(n), 6 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 10.: Frauenförderplan 2013 - 2015 - Einstimmig
+- TOP 11.: Umbau und Erweiterung der Feuer- und Rettungswache Emsdetten - 34 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 12.: Bebauungspläne
+- TOP 12.1: Bebauungsplan Nr. 57 B "Lerchenfeld, 2. Bauabschnitt", 1. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 12.2: Bebauungsplan Nr. 109 "Kolpingstraße / Eschstraße", 2. Änderung - Satzungbeschluss - - Einstimmig
+- TOP 13.: Allgemeine Stadtentwicklungsplanung
+- TOP 13.1: 6. Änderung des Flächennutzungsplanes der Stadt Emsdetten Hier: Beschluss zur Umstellung des Verfahrens auf einen Teilflächennutzungsplan "Windenergie" gem. § 5 Abs. 2b Baugesetzbuch - 35 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 13.2: Umsetzung des Konzeptes zur Unterbringung von Asylsuchenden und Obdachlosen hier: Handlungsstrang C im Bereich Grünring, Am Perrediek und Weststraße - Auslobung eines Investorenwettbewerbes - - 36 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Hochwassersicherung des Betriebsgeländes "An den Klärteichen" - 36 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 15.: Fortschreibung Abwasserbeseitigungskonzept - Änderungen 2013 - Einstimmig
+- TOP 16.: Ersatzpflanzung von Bäumen in Straßenbeeten - Abgesetzt
+- TOP 17.: Planung von Tiefbauvorhaben
+- TOP 17.1: Bauprogramm an Hand des Bestandsplanes für die Straße Mühlenbachaue Süd (Ergänzung Beetbepflanzung) - Einstimmig
+- TOP 17.2: Bauprogramm an Hand des Bestandsplanes für den Platinweg und den Goldbergweg -Teilstück K53/Silberweg bis zur westlichen auf dem Goldbergweg verlaufenden Gren-ze des Bebauungsplanes Nr.85 "Silberweg/Erzweg" (Ergänzung Beetbepflanzung) - Einstimmig
+- TOP 18.: Schulangelegenheiten
+- TOP 18.1: Entscheidung über die Erhebung einer Klage gegen die von der Bezirksregierung Münster erteilte Ablehnung des Antrags auf Errichtung einer Gesamtschule in Emsdetten - 36 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 18.2: Zustimmung zur Einrichtung einer Integrativen Lerngruppe an der Marienschule in Emsdetten - Einstimmig
+- TOP 19.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 19.1: Übertragung der Trägerschaft für das Jugendzentrum Grevener Damm an den Verein Rockini e.V. als Interimslösung - Einstimmig
+- TOP 20.: Verschiedenes
