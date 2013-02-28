@@ -1,0 +1,51 @@
+# 51. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-02-28T16:00:00+01:00
+- Ende: 2013-02-28T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2431
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2431
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_02_28 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00123667.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: 8. Mai - "Tag der Befreiung" - erledigt
+- TOP 2.2: Zur Genehmigung des Doppelhaushaltes - erledigt
+- TOP 2.3: Situation wohnungsloser Frauen in Dresden - erledigt
+- TOP 2.4: Umbau Bautzner Straße und Bautzner Landstraße für breite Straßenbahnen - erledigt
+- TOP 2.5: Baugenehmigung Kulturpalast - erledigt
+- TOP 2.6: Europäischer Vier-Meeres-Schienenkorridor - erledigt
+- TOP 2.7: Anzahl der Versammlungen am 13. Februar - erledigt
+- TOP 2.8: Straßenbaumaßnahme Borsbergstraße/Schandauer Straße – Auswirkungen der Umleitungsstrecken auf den ruhenden Verkehr - erledigt
+- TOP 2.9: Entwicklung Universitätsstandort Dresden - städtebaulicher Rahmenplan - erledigt
+- TOP 2.10: Vitzthum Gymnasium Dresden - erledigt
+- TOP 2.11: Weiterer Umbau für das Stadtbahnprogramm - erledigt
+- TOP 2.12: Erhöhung der Anzahl der Kindergartenplätze in der Kita Forststraße - erledigt
+- TOP 2.13: Luftreinhalteplan für die Landeshauptstadt Dresden - erledigt
+- TOP 2.14: Kinderschänder in Dresdner Schulen - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Umbesetzung im Ortsbeirat Prohlis - gewählt
+- TOP 5: Umbesetzung im Ortsbeirat Leuben - gewählt
+- TOP 6: Umbesetzung Zeitweiliger Ausschuss "Untersuchung des Verwaltungshandelns bei der Festsetzung von Straßenausbaubeiträgen" - Zustimmung
+- TOP 7: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 8: Kommunale Wohnungsbauförderung - Zustimmung
+- TOP 9: Veränderung des Sondervermögens des Eigenbetriebes Sportstätten- und Bäderbetrieb Dresden für die Wirtschaftsjahre 2011 und 2012 - Grundstückslisten - Zustimmung
+- TOP 10: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen Dresden für die Wirtschaftsjahre 2011 und 2012 - Zustimmung
+- TOP 11: Gesamtsanierung und Erweiterung der 81. Grundschule „Robert Weber“, Robert-Weber-Straße 5, 01187 Dresden - Zustimmung
+- TOP 12: Feststellung der Eröffnungsbilanz zum Stichtag 1. Januar 2011 sowie des Anhangs und des Rechenschaftsberichtes zur Eröffnungsbilanz - Zustimmung
+- TOP 13: Verbleib der Thüga Aktiengesellschaft in der DREWAG -Stadtwerke GmbH - Zustimmung mit Änderung
+- TOP 14: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2013 - Vertagung
+- TOP 15: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2013 - Vertagung
+- TOP 16: Aufnahme der Kindertageseinrichtung Marienallee 12 in 01099 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 17: Umbau der Straßenbahngleise im Zuge der B 6 - Bautzner Straße und Bautzner Landstraße - durch die Dresdner Verkehrsbetriebe AG; Ergebnisse der Einwohnerversammlung vom 14. Februar 2013 - punktweise Zustimmung
+- TOP 18: Bebauungsplan Nr. 99.1, Dresden-Sporbitz Nr. 3, Interkommunales Gewerbegebiet Dresden/Heidenau, Teilbereich Dresden ( 1. Änderung zum Bebauungsplan Nr. 99, Dresden-Sporbitz Nr. 3, Interkommunales Gewerbegebiet Dresden/Heidenau, Teilbereich Dresden) - Zustimmung
+- TOP 19: Veränderungssperre für den Bebauungsplan Nr. 357, Dresden-Neustadt Nr. 33, Leipziger Vorstadt - Zustimmung
+- TOP 20: Bebauungsplan Nr. 397, Dresden-Blasewitz Nr. 5, Elbeparkplatz - Vertagung
+- TOP 21: Bebauungsplan Nr. 396, Dresden-Loschwitz Nr. 21, Elbeparkplatz - Vertagung
+- TOP 22: Fünfte Fortschreibung des Abfallwirtschaftskonzeptes (AWK) der Landeshauptstadt Dresden - Zustimmung
