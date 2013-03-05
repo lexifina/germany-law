@@ -1,0 +1,78 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-03-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786692
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786692
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Nutzung Fläche Trambahndepot
+- TOP 1.2.2.: Verkehrssituation Ecke Flantin- / Aindorferstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Neubaustrecke Tram Westtangente - Projektsteuerung; Ausschreibung der Stadtwerke vom 18.12.12
+- TOP 2.2.: CSU: Anbringung eines Zeitkartenautomaten im U-Bahnhof Laimer Platz, Zwischengeschoss Ausgang West
+- TOP 2.3.: CSU: Schließung der Turn- und Schwimmhalle der Camerloher Schule
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 in Höhe von 1.000 Euro für 100 Jahrfeier der ältesten Kleingartenanlage Münchens vom 11.07.-14.07.13; Antragsteller: Bahn ? Landwirtschaft Unterbezirk München - West (vertagt aus der BA-Sitzung vom 05.02.13) - <div>nach Antrag</div>
+- TOP 2: Beschlussvorlage Baureferat: Mehr Obstbäume in Parkanlagen pflanzen (Ziffer 2 des Antrages) (Empfehlung Nr. 08-14 / E 01597 der Bürgerversammlung des Stadtbezirkes 25 Laim am 20.11.12) - <div>Abweichung von Referentenvorl.</div>
+- TOP 3: Beschlussvorlage Baureferat: Vermüllung von Grünanlagen in der Agricolastraße (Empfehlung Nr. 08-14 / E 01591 der Bürgerversammlung des Stadtbezirkes 25 Laim vom 20.11.12) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 22.01.13: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Straubinger Str. 30-30a
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 05.02.13: Flohmarkt am 27.04.13 auf dem Weißenfelderplatz
+- TOP 4.3.: Schreiben Baureferat vom 04.02.13: Erinnerungsverfahren Senftenauerstraße; Oberflächensanierung der Fahrbahn zwischen Menaristraße und Silberdistelstraße
+- TOP 4.4.: Schreiben Baureferat vom 04.02.13: Erinnerungsverfahren Friedenheimer Straße; Oberflächensanierung der Fahrbahn zwischen Agnes-Bernauer-Straße und Landsberger Straße
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 06.02.13: Standortkonzept Bürgerbüros; Anhörung zu einer Beschlussvorlage für den Kreisverwaltungsausschuss
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 14.02.13: Osterfeier am 31.03.13 auf dem Laimer Anger
+- TOP 4.7.: Schreiben Stadtkämmerei vom 18.02.13: Mittelfristige Finanzplanung 2012-2016; Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2013 bis 2017
+- TOP 4.8.: Schreiben Baureferat vom 18.02.13: Erinnerungsverfahren Fürstenrieder Straße; Fahrbahnsanierung zwischen Hogenbergstraße und Veit-Stoß-Straße
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 14.02.13: Überprüfung der Umlaufsperren im Stadtgebiet des BA 25
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 22.02.13: Flohmarkt am 13.04.13 auf dem Spielplatz Laimer Platz
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fachnerstr. 7: Neubau eines Einfamilienhauses mit Carport; hier: Bau- und Baumbestandspläne
+- TOP 5.2.: Landsberger Str. 318: Nutzungsänderung Lager- zu Ladenfläche; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 22.01.13: 18.jetzt - Fest junger Erwachsener am 12.10.13
+- TOP 6.2.: Schreiben Direktorium vom 31.01.13: Einladung zu einer weiteren Sitzung der BA-Beauftragten gegen Rechtsextremismus am 14.03.13
+- TOP 6.3.: Schreiben Sozialreferat vom 07.02.13: Aktionstag für Familien am 03.05.13
+- TOP 6.4.: Schreiben Stadtwerke München GmbH vom 08.02.13: Informationsveranstaltung der SWM am 26.03.13
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 05.02.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 09.01.13: Maßnahmen, um den Fußgängerüberweg an der Ampelanlage Gotthard- / Stroblstraße sicherer zu gestalten (Empfehlung Nr. 08-14 / E 01157 der Bürgerversammlung vom 15.11.11); Stellungnahme des Baureferates zum Beschluss des BA 25 mit Schreiben vom 25.04.12 zu Ziffer 2
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.01.13: Erhalt der Kleingartenanlage an der Westendstraße in ihrem jetzigen Zustand (Antrag Nr. 08-14 / B 04304 vom 09.10.12) (vertagt aus der BA-Sitzung vom 05.02.13)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.01.13: Queristr. 12; Neubau eines Doppelhauses mit Pkw-Garage und Stellplätzen / Vorbescheid
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.02.13: Queristr. 12, Neubau eines Doppelhauses mit Pkw-Garage und Stellplätzen / Vorbescheid
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.02.13: Landsberger Str. 160-162; Neubau eines Hotels mit Tiefgarage / Vorbescheid
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 29.01.13: Ampelanlage Friedenheimer Straße / Gotthardstraße (Schreiben BA vom 17.12.12)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 01.02.13: Gaststätte "Camerloher", Camerloherstr. 91; unveränderte Fortführung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 04.02.13: Vorschlagsliste zur Auswahl für das Ehrenamt als Schöffin bzw. Schöffe für die Gerichtsperiode 2014-2018
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 21.02.13: Park- / Haltverbot in der Elsenheimerstraße im östlichen Teil zwischen Landsberger Straße und Schäufeleinstraße (Schreiben BA vom 21.02.13)
+- TOP 8.10.: Schreiben Sozialreferat vom 29.01.13: Protokoll der BA-Veranstaltung vom 29.11.12
+- TOP 8.11.: Schreiben Direktorium vom 11.02.13: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller Veteranen- und Kriegerverein Laim 1890 / 2010 e.V.
+- TOP 8.12.: Schreiben Referat für Gesundheit und Umwelt vom 20.02.13: Mobilfunk; Erweiterungsvorhaben am(an) bestehenden Mobilfunkstandort(en) mit LTE
+- TOP 8.13.: Schreiben Referat für Arbeit und Wirtschaft vom 31.01.13: Wirtschafts-Info 01/2013
+- TOP 8.14.: Bautenliste vom 28.01.-03.02.13: 1. Erstantragsverfahren a) Fürstenrieder Str. 55
+- TOP 8.15.: Bautenliste vom 04.02.-10.02.13 1. Erstantragsverfahren a) Fachnerstr. 7
+- TOP 8.16.: Bautenliste vom 11.02.-17.02.13 1. Erstantragsverfahren a) Camerloherstr. 136 b) Landsberger Str. 320 c) Lautensackstr. 1 d) Landsberger Str. 318 2. Änderungsverfahren a) Stöberlstr. 22
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 28.01.13: Baumaßnahmen der Stadtwerke; Stichtag: 28.01.13
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 04.02.13: Baumaßnahmen der Stadtwerke; Stichtag: 04.02.13
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 11.02.13: Baumaßnahmen der Stadtwerke; Stichtag: 11.02.13
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 18.02.13: Baumaßnahmen der Stadtwerke; Stichtag: 18.02.13
+- TOP 8.21.: Beschluss des Verwaltungs- und Personalausschusses vom 12.12.12: Änderung der Satzung für die Bezirksausschüsse der LH München sowie der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der LH München; 1. Vorberatungen in der BA-Satzungskommission vom 29.11.12: a) Änderung der Beteiligungsrechte der BAs im Bereich der SWM bei Veräußerungen von Immobilien, b) Kein Verkauf städtischer Grundstücke, ohne Zustimmung des zuständigen BAs, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können, c) Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung, d) Änderung der Satzung der Münchner BAs; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen, e) Antrag auf Satzungsänderung bzgl. Budgetvergabe, f) Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die BAs; 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung des Anhangs 1 zur BA-Satzung (Beteiligung durch SWM GmbH); 3. Änderung der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der BAs der LH München (Sitzungsvorlage Nr. 08-14 / V 10796)
+- TOP 8.22.: Beschluss der Vollversammlung vom 23.01.13: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (Sitzungsvorlage Nr. 08-14 / V 10344)
+- TOP 8.23.: Beschluss des Verwaltungs- und Personalausschusses vom 20.02.13: Erweiterung der BA-Vertretungen in Wettbewerben (Sitzungsvorlage Nr. 08-14 / V 11083)
+- TOP 8.24.: Beschluss des Kinder- und Jugendhilfeausschusses vom 05.03.13: Kindertagesstätte sonstige Träger; Haus für Kinder an der Landsberger Str. 155 (Sitzungsvorlage Nr. 08-14 / V 11232)
+- TOP 8.25.: Beschluss des Ausschusses für Bildung und Sport vom 06.03.13: Kindertagesstätte sonstiger Träger; Haus für Kinder an der Landsberger Str. 155 (Sitzungsvorlage Nr. 08-14 / V 11232)
+- TOP 8.26.: Schreiben BA 7 Sendling-Westpark vom 07.02.13: Resolution zur Münchner Trinkwasserversorgung
+- TOP 8.27.: Schreiben Alten- und Servicezentrum Laim vom 21.01.13: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.28.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 25.01.13: Praxistag Rechtspopulismus am 13.04.13
+- TOP 8.29.: Broschüre "Bericht zur Wohnungssituation in München 2010-2011"
+- TOP 8.30.: Münchner Statistik, 3. Quartalsheft Jahrgang 2012
+- TOP 1.2: Bürgerpost an den BA
