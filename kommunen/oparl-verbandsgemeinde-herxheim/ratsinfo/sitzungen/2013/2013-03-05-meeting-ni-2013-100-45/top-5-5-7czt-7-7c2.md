@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 20. Sitzung des Verbandsgemeinderates Herxheim (2013-03-05)
+- Körperschaft: Verbandsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2013-100-45%7Czt_7%7C2
