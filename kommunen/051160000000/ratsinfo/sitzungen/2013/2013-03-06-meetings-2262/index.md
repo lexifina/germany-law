@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2013-03-06T17:00:00+01:00
+- Ende: 2013-03-06T21:10:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2262
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2262
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Genehmigt
+- TOP 2: Überörtliche Prüfung der Eröffnungsbilanz durch die Gemeindeprüfungsanstalt NRW - Kenntnisnahme
+- TOP 3: Prüferleichterung nach NKFWG - Mit Stimmenmehrheit beschlossen
+- TOP 4: Kommunale Beratungskommission für interkulturelle Fragen - In den nächsten Ratszug geschoben
+- TOP 5: DA nach § 31 GemHVO NRW und 19. Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 5.1: Gemeinsamer Antrag der Fraktionen von SPD, Bündnis 90/Die Grünen und FDP - Einstimmiger Beschluss
+- TOP 6: Sechsunddreißigster Nachtrag zur Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 7: Berechnungsgrundlagen Regenwasser-Kanalbenutzungsgebühren - In den nächsten Ratszug geschoben
+- TOP 8: Verbandsausschuss des Netteverbandes - Einstimmiger Beschluss
+- TOP 9: Einführung einer neuen Finanzsoftware - An den Rat verwiesen
+- TOP 10: Personalbericht 2012 - 2013 - Kenntnisnahme
+- TOP 11: Ordnungsbehördliche Verordnungen Rheydt 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 12: Ordnungsbehördliche Verordnungen Offenhalten Wickrath 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 13: Ordnungsbehördliche Verordnungen Offenhalten MG 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung Offenhalten 08.12.2013 - Mit Stimmenmehrheit beschlossen
+- TOP 15: Anpassung OGS-Elternbeitragssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 16: Anhebung der Pacht für die Nutzung städtischer Grundstücke durch Tennisvereine - An den Rat verwiesen
+- TOP 16.1: Anhebung der Pacht für die Nutzung städtischer Grundstücke durch Tennisvereine (HSP 2012-0075) - An den Rat verwiesen
+- TOP 17: Einrichtung von Integrativen Lerngruppen - Einstimmiger Beschluss
+- TOP 18: Projekt "Kommunale Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepaketes" - Einstimmiger Beschluss
+- TOP 19: Schenkung der Exlibris Sammlung Dr. Gernot Blum - Mit Stimmenmehrheit beschlossen
+- TOP 20: Fünfter Nachtrag Elternbeitragssatzung - Ohne Abstimmung
+- TOP 21: Verlängerung der Leistungsvereinbarung Adoptions-/Dauerpflegevermittlung - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 22: Zweiter Nachtrag zur Satzung für das Jugendamt der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 23: Wahl der Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 24: Entschädigung der Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 25: Entwurf des Lärmaktionsplans 1. Stufe - Mit Stimmenmehrheit beschlossen
+- TOP 26: Vierter Nachtrag Verwaltungsgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 27: Bebauungsplan Nr. 721/N, O - Stadtbezirke Nord und Ost - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 28: Benennung "Platz des Handwerks" - Einstimmiger Beschluss
+- TOP 29: Bebauungsplan Nr. 753/N - Stadtbezirk Nord - Hardt - Einstimmiger Beschluss
+- TOP 30: 1. Änderung BP R Nr. 1015 - in Textform - Satzung - Einstimmiger Beschluss
+- TOP 31: Bebauungsplan Nr. 740/S - Stadtbezirk Süd - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 32: Teilpläne zur Verkehrsplanung - Mit Stimmenmehrheit beschlossen
+- TOP 33: Neubau einer Zentralbibliothek in Mönchengladbach-Mitte - An den Rat verwiesen
+- TOP 33.1: Neubau Zentralbibliothek; Konzept "Bibliothek mit Zukunft" - An den Rat verwiesen
+- TOP 34: Genehmigung und Gestaltung von Sondernutzungsflächen - Einstimmiger Beschluss
+- TOP 35: Anfrage von Ratsherrn Diehl, Bündnis 90/Die Grünen - Zur Kenntnis genommen
+- TOP 35.1: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen - Zur Kenntnis genommen
