@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2013-03-06T15:05:00+01:00
+- Ende: 2013-03-06T19:15:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/730
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/730
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - mehrheitlich abgelehnt
+- TOP 2: Umbesetzung von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 3: Wahl von Vertrauenspersonen als Beisitzer der Ausschüsse für die Vorbereitung und Durchführung der Wahl von Schöffen/innen und Jugendschöffen/innen - einstimmig beschlossen
+- TOP 4: Entsendung eines Mitgliedes in die Delegiertenversammlung des Erftverbandes - einstimmig beschlossen
+- TOP 5: Benennung eines Mitglied des Aufsichtsrats der Regiobahn GmbH - einstimmig beschlossen
+- TOP 6: Feststellung des Entwurfs des Gesamtabschlusses zum 31.12.2011 - einstimmig beschlossen
+- TOP 7: 2. Verzeichnis der über-/außerplanmäßigen Aufwendungen und Auszahlungen im Haushaltsjahr 2012 - zur Kenntnis genommen
+- TOP 8: Ermächtigungsübertragungen von 2012 nach 2013 im Rahmen des Jahresabschlusses 2012 - zur Kenntnis genommen
+- TOP 9: Kreishaushalt 2013
+- TOP 9.1: Beteiligungsrechte der kreisangehörigen Städte und Gemeinden gemäß § 55 KrO NRW - einstimmig beschlossen
+- TOP 9.2: Beschluss über die Haushaltssatzung 2013 mit ihren Anlagen - mehrheitlich beschlossen
+- TOP 10: Klimapartnerschaft - mehrheitlich beschlossen
+- TOP 11: Kommunales Integrationszentrum/ Integrationskonzept - einstimmig beschlossen
+- TOP 12: Inklusion (Antrag der CDU- und der FDP-Kreistagsfraktionen) - mehrheitlich beschlossen
+- TOP 13: Förderung der Ausstattung von Fachräumen des Berufsbildungszentrums Neuss-Weingartstraße - einstimmig beschlossen
+- TOP 14: Erhöhung der Zügigkeit eines Bildungsgangs am Berufsbildungszentrum Dormagen - einstimmig beschlossen
+- TOP 15: Gemeinsame Beschulung von Auszubildenden am Berufsbildungszentrum Grevenbroich - einstimmig beschlossen
+- TOP 16: Eigenvermarktung von Elektronik-Schrott - zur Kenntnis genommen
+- TOP 17: Fortschreibung des Chancengleichheitsplanes mit Frauenförderplan - einstimmig beschlossen
+- TOP 18: Gesamtstellenplan 2013 - einstimmig beschlossen
+- TOP 19: Anträge
+- TOP 19.1: EU-Konzessionsvergaberichtlinie
+- TOP 19.1.1: Antrag der CDU- und FDP- Kreistagsfraktionen zum Thema "EU-Konzessionsvergaberichtlinie" vom 06.02.2013
+- TOP 19.1.1.1: Absatz 1 des Antrages der CDU- und FDP- Kreistagsfraktionen - einstimmig beschlossen
+- TOP 19.1.1.2: Absatz 2 des Antrages der CDU- und FDP- Kreistagsfraktionen - mehrheitlich beschlossen
+- TOP 19.1.1.3: Antrag der SPD-Kreistagsfraktion über den ursprünglichen Antrag der CDU- und FDP-Kreistagsfraktionen abzustimmen - mehrheitlich abgelehnt
+- TOP 19.1.2: Antrag der Kreisgruppe Unabhängige Linke Liste zum Thema "Wasserversorgung" vom 05.02.2013 - mehrheitlich abgelehnt
+- TOP 19.2: Windenergie
+- TOP 19.2.1: Antrag der SPD-Kreistagsfraktion zum Thema "Für ein kreisweites Windenergiekonzept" vom 27.02.2013 - mehrheitlich beschlossen
+- TOP 19.3: Antrag der SPD-Kreistagsfraktion zum Thema "Einsetzung einer/eines Klimaschutzbeauftragten" vom 25.02.2013 - einstimmig beschlossen
+- TOP 19.4: Antrag der SPD-Kreistagsfraktion zum Thema "Teilnahme am Projekt Ökoprofit NRW" vom 25.02.2013 - mehrheitlich abgelehnt
+- TOP 19.5: Antrag der SPD-Kreistagsfraktion zum Thema "Entwicklung eines ganzheitlichen Konzeptes zur ambulanten Versorgung alter, kranker und/oder behinderter Menschen im Rhein-Kreis Neuss" vom 25.02.2013 - einstimmig beschlossen
+- TOP 19.6: Antrag der SPD-Kreistagsfraktion zum Thema "Gemeinsam aufbrechen – der Rhein-Kreis Neuss auf dem Weg zur Inklusion" vom 25.02.2013
+- TOP 19.7: Antrag der SPD-Kreistagsfraktion zum Thema "Projekt: Jungen in sozialen Berufen" vom 25.02.2013 - einstimmig beschlossen
+- TOP 19.8: Antrag der SPD-Kreistagsfraktion zum Thema "Einrichtung eines Ausschusses für Wirtschaftsförderung, Kreisentwicklung und regionale Zusammenarbeit" vom 25.02.2013 - einstimmig beschlossen
+- TOP 19.9: Antrag der CDU- und FDP-Kreistagsfraktionen auf Verabschiedung einer Resolution zum Thema "Ringen" vom 27.02.2013 - einstimmig beschlossen
+- TOP 20: Mitteilungen
+- TOP 20.1: Bergschäden
+- TOP 21: Anfragen
+- TOP 21.1: Anfrage der Kreistagsfraktion Bündnis 90/ Die Grünen zum Thema "Investive Maßnahmen an Kreisgebäuden zur CO²-Emmissionsreduzierung, LED-Beleuchtung, Steuer- und Regelungstechnik" vom 01.03.2013 und Antwort der Verwaltung
+- TOP 22: Einwohnerfragestunde
