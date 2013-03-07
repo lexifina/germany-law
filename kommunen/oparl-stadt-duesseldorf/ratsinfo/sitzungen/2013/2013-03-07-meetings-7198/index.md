@@ -1,0 +1,68 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-03-07T17:00:00+01:00
+- Ende: 2013-03-07T20:20:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00191089.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00191089.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00191089.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: 3. Intergrierte Jugendhilfe- und Schulentwicklungsplanung - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Gumbertstraße - Verbreiterung der Parkstreifen im Bereich Gumbertstraße 158 - 160 und 178-186 - einstimmig beschlossen
+- TOP 7: Umbenennung der Wichern-Schule - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 10: Sperrmüllabholung im Stadtbezirk 8 - beantwortet
+- TOP 11: Blumenkübel Reisholzer Straße / Am Turnisch - beantwortet
+- TOP 12: Familienhebammen im Stadtbezirk 8 - beantwortet
+- TOP 13: S-Bahnhof Eller - beantwortet
+- TOP 14: Videoüberwachung S-Bahnhof Eller-Süd - beantwortet
+- TOP 15: Güterzugstrecke Rath - Eller - beantwortet
+- TOP 16: Neubauten Kuthsweg 16 - 20 - beantwortet
+- TOP 17: Kindertageseinrichtungen im Stadtbezirk 8 - beantwortet
+- TOP 18: Verkauf städtischer Grundstücke im Stadtbezirk 8 - beantwortet
+- TOP 19: Jugendfreizeiteinrichtung Chemnitzer Straße - beantwortet
+- TOP 20: Anmeldezahlen an Schulen im Stadtbezirk 8 - beantwortet
+- TOP 21: Zuschüsse der Bezirksvertretung 8 von 2005 bis 2012 - beantwortet
+- TOP 22: Radwege im Stadtbezirk 8 - beantwortet
+- TOP 23: Winterdienst im Stadtbezirk 8 - beantwortet
+- TOP 24: Bänke in den Stadtteiltzentren des Stadtbezirks 8 - beantwortet
+- TOP 25: Verkehrssituation in Eller und Lierenfeld - beantwortet
+- TOP 26: Kanalsanierung Eller Kamp - beantwortet
+- TOP 27: Leerung der Papiercontainer und Mülleimer im Stadtbezirk 8 - beantwortet
+- TOP 28: Auswirkungen der Baumaßnahme 'Regenrückhaltebecken Glashüttenstraße' auf den Stadtbezirk 8
+- TOP 29: Fahrbahnbelag Bernburger Straße - einstimmig beschlossen
+- TOP 30: Verkehrssituation Harffstraße / Dillenburger Weg - einstimmig beschlossen
+- TOP 31: Verkehrsführung Kreuzungsbereich Reisholzer Straße / Gatherweg - zurückgezogen
+- TOP 32: Grünrückschnitt am Campingplatz Süd - Unterbacher See - einstimmig beschlossen
+- TOP 33: Containerstation Chemnitzer Straße - zurückgezogen
+- TOP 34: Sicherung der Bahngleise Sturmstraße - einstimmig beschlossen
+- TOP 35: Radwegesituation im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 36: Wartehalle 'In den Maisbanden' - einstimmig beschlossen
+- TOP 37: Förderschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Webcam Gertrudisplatz - zur Kenntnis genommen
+- TOP 39: LKW-Verbot Siedlungsgebiet Ludwigstraße / Kissinger Straße / Fuldaer Straße / Hersfelder Straße - einstimmig beschlossen
+- TOP 40: Wärme- und Solarkataster im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 41: Parksituation Mühlenkamp - zur Kenntnis genommen
+- TOP 42: Behindertenparkplatz Posener Straße 92 - zur Kenntnis genommen
+- TOP 43: Anliegerbeiträge bei Straßenbaumaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Campingplätze Unterbacher See - zur Kenntnis genommen
+- TOP 45: Winterdienst im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Familienhebammen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Kanalbaumaßnahme Eller Kamp - zur Kenntnis genommen
+- TOP 48: Bänke in den Stadtteilzentren des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 49: Güterzugstrecke Rath - Eller - zur Kenntnis genommen
+- TOP 50: S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 51: S-Bahnhof Eller-Süd - zur Kenntnis genommen
