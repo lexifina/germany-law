@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748061
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748061
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Winterdienst und Verkehrslage in der Pfingstrosenstraße
+- TOP 1.2.: Auszug des Heiglhoftheaters (dazu Stellungnahme des Studentenwerks München)
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Dringlichkeitsantrag: "Leitfaden für Wirte" für die Haderner Wirte (Grünen-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Waldwiesenstraße (Baureferat, 13.02.13)
+- TOP 5.2.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt am 25.06. und 05.07.13 (Direktorium, 19.02.13)
+- TOP 3: Herstellung und Markierung eines Radweges in der Kriegerheimstraße (Ziffer 5 des Antrages) (Baureferat, 21.02.13)
+- TOP 3.4.: Budget der Bezirksausschüsse, private Kinderspielgruppe "Münchner Zwergerl", Einbau einer Kindertoilette (Direktorium, 28.02.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mittelfristige Finanzplanung 2012 - 2016, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2013 bis 2017 (Stadtkämmerei, 18.02.13)
+- TOP 6.2.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer (AWM, 20.02.13)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Flohmärkte am Max-Lebsche-Platz am 06.04., 15.06., 29.06., 21.09. und 12.10.2013 (Kreisverwaltungsreferat, 28.02.13)
+- TOP 6.4.: Wastl-Witt-Straße 17 - 27, Neubau zweier Wohngebäude mit Kinderkrippe und Tiefgarage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 05.03.13)
+- TOP 6.5.: Marchioninistraße 15 a, Neubau eines Bürogebäudes und des Hauses Siegmund (Klinikum Großhadern) (Referat für Stadtplanung und Bauordnung, 05.03.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Straße 136, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 30678, 30679, 30680, 30681 und 30682
+- TOP 7.2.: Wastl-Witt-Straße 17 - 27, gem. Baumbestandsplan Nr. 1912
+- TOP 7.3.: Eichenstraße 46, 1 Birke
+- TOP 7.4.: Waldgartenstraße 34, 3 serbische Fichten und 1 Douglasie
+- TOP 7.5.: Fürstenrieder Straße 276, 1 Pappel
+- TOP 7.6.: Holzapfelkreuther Straße 26, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2524
+- TOP 7.7.: Marchioninistraße 15 a, gem. Baumbestandsplan Nr. 31228
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Gräfelfinger Straße 91 b, 4 Fichten (Referat für Stadtplanung und Bauordnung, 08.02.13)
+- TOP 7.2.: Eisenhutstraße 20, 1 Birke (Referat für Stadtplanung und Bauordnung, 13.02.13)
+- TOP 7.3.: Silberblattstraße 1, 3 Fichten (Referat für Stadtplanung und Bauordnung, 20.02.13)
+- TOP 7.4.: Stiftsbogen 15, 1 Birke (Referat für Stadtplanung und Bauordnung, 20.02.13)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Karl-Witthalm-Straße 12 (Kreisverwaltungsreferat, 18.02.13)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Rolandseckstraße (Sozialreferat, 21.02.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Errichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen, Antr. BA 1 Altstadt-Lehel (Referat für Bildung und Sport, 31.01.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: - Haltestelle Großhadern Buswartehäuschen - U-Bahn-Takt U6 Richtung Klinikum Großhadern (MVG, 05.02.13)
+- TOP 10.2.: Parksituation in Hadern durch Pendler (PI 41, 05.02.13)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Resolution zur Münchner Trinkwasserversorgung (Schr. BA 7 Sendling-Westpark, 07.02.13)
+- TOP 11.2.: Einladung zum Aktionstag für Familien am 03.05.2013 (Sozialreferat, 07.02.13)
+- TOP 11.3.: Fragenkatalog zu Konflikten im öffentlichen Raum (Sozialreferat, 14.02.13)
+- TOP 11.4.: "Aufruf zum Aufstehen" der Münchner Bezirksausschüsse (BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, 20.02.13)
+- TOP 11.5.: Verzicht auf Laubbläser (Schr. BA 21 Pasing-Obermenzing, 18.02.13)
+- TOP 11.6.: MünchnerStiftungsFrühling vom 15.03. - 22.03.2013 (Sozialreferat, 05.03.13)
+- TOP 11.7.: Münchner Selbsthilfejournal einBlick 01/2013 ist online (Selbsthilfezentrum München, 01.03.13)
+- TOP 11.8.: Wahl der Seniorenvertretung 2013, Wahlausschusssitzung am 04.04.2013 (Sozialreferat, 06.03.13)
+- TOP 11.9.: Einladung zum: - Morgenforum "Vollzug der Trinkwasserverordnung 2011" am Dienstag, 19.03.2013 - Fachgespräch "Sanierungskonzepte für WEGs" am Donnerstag, 25.04.2013 (Referat für Gesundheit und Umwelt, 05.03.13)
+- TOP 11.10.: Einladung zur Einbürgerungsfeier am Dienstag, 09.04.2013 (Sozialreferat, 06.03.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 23.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10344 (gemäß S. 5 mit den neugefassten Punkten 3 und 4): Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung: Dieses wird beauftragt, dem Stadtrat die Erfahrungen des Bürgergutachtens beim Kunstareal und die beabsichtigte Vorgehensweise zu erweiterten Verfahren der Bürgerbeteiligung darzustellen (Punkt 3) sowie Infotafeln bei 3 Pilotprojekten zu erproben. Dabei soll es sich nicht um große Projekte handeln, sondern um solche, die nicht so sehr im Fokus der Öffentlichkeit stehen (Punkt 4).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 20.02.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11083: Erweiterung der BA-Vertretungen in Wettbewerben: Wird vom BA Hadern mit Beschluss vom 13.08.2012 und vom Direktorium abgelehnt.
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 31.01.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10980: Bericht zur Wohnungssituation in München 2010 - 2011, insbesondere in Hadern: Hier gibt es 2515 Wohnungen, die entweder "Sozialwohnungen" sind oder im Eigentum der Stadt stehen (S. 104 der BV bzw. 106 des Berichts).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
