@@ -1,0 +1,60 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760605
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760605
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Straßenerschließungsbeitrag Bergmannstraße
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Schwanthalerstr. 116 - Neubau eines Beherbergungsbetriebs mit Tiefgarage Sanierung und Umbau des Rückgebäudes mit Wohnungen - TEKTUR
+- TOP 5.2.: Meldeliste
+- TOP 5.3.: Anhörung: Gollierstr. 29, Neubau eines Garten-Doppelhauses mit 4 Duplexgaragen
+- TOP 5.4.: Anhörung: Schwanthalerstr. 119, Neubau eines Wohnhauses mit Hotel und Tiefgarage
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Errichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen, Antwortschreiben zum Antrag des BA1
+- TOP 6.2.: Antwortschreiben: Mittagstisch für alle Altersstufen an der Hauptschule und der Carl-von-Linde-Realschule an der Ridlerstraße
+- TOP 6.3.: Fragenkatalog zu Konflikten im öffentlichen Raum
+- TOP 7: Integration und Kultur
+- TOP 7.1.: siehe nicht-öffentliche Sitzung
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Kurdisches Neujahrsfest Newroz am Gollierplatz am 20.03.2013
+- TOP 8.2.: Standorte der Wertstoffcontainer im Stadtbezirk 8 Schwanthalerhöhe
+- TOP 8.3.: Einführung des Parkraummanagements im Neubaugebiet an der Alten Messe
+- TOP 8.4.: Lichtzeichenanlage Heimeranstr. / Feuerwache 3 (Franziska-Bilek-Weg)
+- TOP 8.5.: Anhörung: Flohmarkt der Hausgemeinschaft Sandtnerhof am Georg-Freundorfer-Platz
+- TOP 8.6.: Anhörung: Baumfällung Westendstr. 1
+- TOP 8.7.: Anhörung: Baumfällung ggü. Westendstr. 157
+- TOP 8.8.: Anhörung: Festumzug zur Eröffnung des 49. Frühlingsfestes mit Startpunkt Theresienhöhe 5 am 19.04.2013
+- TOP 8.9.: Antwortschreiben: Lifteinbau Fuß- und Radweg Arnulfpark
+- TOP 8.10.: Antwortschreiben: Maßnahmen in der Landsberger Straße auf Grundlage des Ortstermins vom 26.06.2012/ Fußgängerüberweg Trappentreustr auf Höhe Hausnummer 17
+- TOP 8.11.: Anhörung: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer, hier: Ridlerstr. 57 beim TÜV
+- TOP 8.12.: Wanderbaumallee Westend
+- TOP 8.13.: Anhörung: Flohmärkte auf dem Gollierplatz
+- TOP 8.14.: Anhörung: Öffnung des Verbindungsweges zwischen Schwanthalerstraße und Gollierstraße für den Radverkehr
+- TOP 8.15.: Barrierefreier Umbau des Bahnhofs Donnersbergerbrücke, Plangenehmigungsbescheid vom 28.01.2013
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Multikulturelles Jugendzentrum Westend mobile Spiele von 04.04. bis 31.10.2013 - <div>nach Antrag</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Elterninitiative Rumpelpilz e.V. Raummiete für die Feier des 30jährigen Bestehens am 20.04.2013 - <div>nach Antrag</div>
+- TOP 10: Anträge
+- TOP 10.1.: Gleisquerung Augustiner Brauerei, Antrag der SPD
+- TOP 10.2.: Errichtung einer sprengelübergreifenden Ganztagsschule, Antrag der SPD
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Beschlussvorlage "Freizeitnutzung der Theresienwiese"
+- TOP 11.2.: Resolution zur Münchner Trinkwasserversorgung, Schreiben des BA 7
+- TOP 11.3.: Anhörung: Standortkonzept Bürgerbüros
+- TOP 11.4.: Aufruf zum Aufstehen der Münchner Bezirksausschüsse
+- TOP 11.5.: Anhörung: Fortschreibung MIP 2013 bis 2017
+- TOP 11.6.: 18.jetzt
+- TOP 12: Protokoll und Umlauf
