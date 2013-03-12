@@ -1,0 +1,105 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.02.2013 Beibehaltung der Radwege in der Augustenstraße (s. TOP C 1.1 und C 2.1.1)
+- TOP 5.2.2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 18.02.2013 zukünftige Gestaltung des Spielplatzes am Josephsplatz nach Fertigstellung der An- wohnertiefgarage (s. TOP C 2.2.3)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag der Fraktionen Bündnis 90/Die Grünen und CSU im BA 3 Beschilderung und Beschreibung von Bäumen und Sträuchern im Maßmannpark Der BA 3 Maxvorstadt widerspricht der ablehnenden Entscheidung der Landeshauptstadt,+ Baureferat, und fordert diese auf, die häufigsten heimischen Baum- und Straucharten im Maßmannpark zu kennzeichnen.
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 4., 5., 6., 7., 8. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 6., 7. KW
+- TOP 2.1.3.: Bebauungsplan mit Grünordnung Nr. 1873 Arnulfpark Errichtung von Räumen für eine offene Einrichtung für Kinder und Jugendliche bis 14 Jahre und einen Nachbarschaftstreff in der Erika-Mann-Straße
+- TOP 2.1.4.: Kreisverwaltungsreferat, Bürgerbüro, Entwurf einer Beschlussvorlage Standortkonzept Bürgerbüros, Einrichtung von Bürgerbüros
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Arnulfstraße 52, sieben Bäume (Linde, Hainbuche, Feldahorn, Robinien)
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Baureferat, Tiefbau Pflanzung einer Baumreihe entlang der gesamten Südseite der Akademiestraße Empfehlung Nr. 8-14 / E 01117 der Bürgerversammlung des 3. Stadtbezirkes am 20.10.2011 Schreiben des Baureferates vom 22.02.2013
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 4: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 25.02.2013 Aufhebung der Radwegbenutzungspflicht für alle Radwege in der Maxvorstadt (ausgenommen Ludwigstraße)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.02.2013 Beibehaltung der Radwege in der Augustenstraße (s. TOP A 5.2.1 und C 2.1.1)
+- TOP 2.1.2.: Münchner Verkehrsgesellschaft, MVG, Anhörung Beschleunigung der Buslinie 154, Baumaßnahme Amalien-/Schellingstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: a)Verlegung des Blumenstandes und ggf. des Obststandes in der Ludwigstraße (Haltestelle Universität, Ausgang Schellingstrasse) an eine geeignetere Stell b) Zieblandstraße 2, neue Verkaufseinrichtung auf öffentlichem Grund c) Ludwigstraße 10, mobiler Fahrradständer
+- TOP 2.2.2.: Baureferat, Kunst im öffentlichen Raum, Anhörung Einstricken eines Baumes in der Augustenstraße 54
+- TOP 2.2.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 18.02.2013 zukünftige Gestaltung des Spielplatzes am Josephsplatz nach Fertigstellung der An- wohnertiefgarage (s. TOP A 5.2.2)
+- TOP 2.2.4.: Einrichten einer Rundbank für Passanten um den Baum auf dem Platz Adalbert- Ecke Nordendstraße
+- TOP 2.2.5.: Der BA 3 Maxvorstadt beantragt, einen Parkplatz vor dem Anwesen Barer Straße 61 in einen Fahrradabstellplatz umzuwandeln
+- TOP 2.2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest zum Tag des Bayerischen Bieres am 23.04.2013 Ort: Oskar-von-Miller-Ring/Brienner Straße
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis, Beschlussvorlagen a) Restaurant in der Marsstraße 6, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: (E) Lärmbelästigung durch ein Lokal in der Schellingstr. 45 ("Bar45")
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Stadtlauf am 23.06.2013
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Tag der offenen Tür des Bayer. Staatsministeriums des Innern am 13.04.2013
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 4: Aktuelle Sachstandsberichte (3)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Kunstprojekt Restlich (Werner Mally) vor dem Siegestor: Detailplanung
+- TOP 2.3.: Ausstellung Malschule Groebner in der U-Bahn-Galerie im Mai 2013
+- TOP 2.4.: Führungen für den BA 3 in Einrichtungen der Maxvorstadt
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Belegung der Akademiegalerie im August 2013
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Augustenstraße 15 ? 19, Dachterrasse auf dem Mansarddach, Urteil des Verwaltungsge- richts München vom 03.12.2012
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Klage zum Bayerischen Verwaltungsgericht vom 13.02.2013 gegen die Baugenehmigung zur Anwohnertiefgarage am Josephsplatz
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Ingenieurbau, Beschlussvorlage Anwohnertiefgarage Josephsplatz im 3. Stadtbezirk Maxvorstadt 1. Ausführungsgenehmigung 2. Genehmigung zum vorübergehenden Abbau des Franziskusbrunnens Beschluss des Bauausschusses vom 15.01.2013 Sitzungsvorlage Nr. 08-14 / V 11044
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung der Ladezone in der Dachauer Straße für Erzgießereistraße 48
+- TOP 2.3.: Baureferat, Tiefbau, Erinnerungsverfahren Fahrbahnsanierung im Bereich Amalienstraße 10 bis 28
+- TOP 2.4.: Kommunalreferat, Beschlussvorlage Antrag Nr. 08-14 / B 04037 des BA 3 vom 12.06.2012 Benennung des Platzes zwischen Schleißheimer Straße, Dachauer Straße und Rottmann- straße in Rudi-Hierl-Platz Sitzungsvorlage Nr. 08-14 / V 11011
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Neureutherstraße 27
+- TOP 2.6.: Baureferat, Tiefbau, Erinnerungsverfahren Fahrbahnsanierung im Bereich Neureutherstraße 1 bis 39
+- TOP 2.7.: Baumaßnahmen der Stadtwerke Karolinenplatz, Fernwärme, Zentnerstraße 9, Fernwärme
+- TOP 2.8.: Referat für Stadtplanung und Bauordnung, Denkmalschutz befristete Aufstellung einer Litfaßsäule vor der Bayerischen Staatsbibliothek vom 20.02.2013 bis 31.12.2013 anlässlich des 250. Geburtstages des Dichters Jean Paul
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Parade und Veranstaltung auf dem so.g. Odeonsplatz anlässlich des St.-Patrick's-Day am 17.03.2013 Eilentscheidung des Vorsitzenden durch Fristablauf (Zustimmung)
+- TOP 2.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verlegung Standort Bauernmarkt vom Josephsplatz in die Zieblandstraße (Südseite) zwischen östlich Augustenstraße und westlich Tengstraße; Errichtung eines absoluten Haltverbotes
+- TOP 2.11.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen verkehrsrechtliche Maßnahmen nach Sanierung des Lenbachhauses u.a. Feuerwehranfahrtszone Richard-Wagner-Straße, Radwegbeschilderung Luisen-/Brienner Straße
+- TOP 2.12.: Referat für Stadtplanung und Bauordnung Bau der Anwohnergarage Josephsplatz ? Ersatzmaßnahmen für entfallende Stellplätze während der Baumaßnahme
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Sicherheitszone Brienner Straße, Israelisches Generalkonsulat, Errichtung einer Haltverbotszone
+- TOP 2.15.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum, Seidlstraße 15, Seite Karlstraße, vom 27.02. bis 26.04.2013, Reparatur einer Fernwärmeleitung
+- TOP 4: Kultur
+- TOP 4.1.: Schreiben des Büros für Technikgeschichte vom 08.02.2013 Stadtwerke-Areal Katharina-von-Bora-Straße, Vorschlag zu einer Dokumentation
+- TOP 4.1.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 12.10.2013, Anhörung
+- TOP 4.2.: Direktorium, Beschlussvorlage Erweiterung der BA-Vertretung in Wettbewerben BA-Antrag Nr. 08-14 / B 03849 des BA 5 Au-Haidhausen vom 28.03.2012 Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 20.02.2013
+- TOP 4.3.: Stadtkämmerei, Anhörung Mittelfristige Finanzplanung 2012 ? 2016, Fortschreibung für die Jahre 2013 bis 2017
+- TOP 4.4.: Wahl eines BA-Beauftragten gegen Rechtsextremismus
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 2.5: Aktuelle Sachstandsberichte (4)
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.14.: Direktorium Sachstandsbericht zur Anwohnertiefgarage am Josephsplatz Antrag Nr. 08-14 / A 04046 der Stadtratsfraktion Die Grünen/Rosa Liste vom 21.02.2013
+- TOP 3: Aktuelle Sachstandsberichte
