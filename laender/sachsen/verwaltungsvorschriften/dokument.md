@@ -1,134 +1,108 @@
-# 22.12.2011 – 31.12.2018
+# 12.03.2013 – 31.12.2014
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2011-12-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4406.4
+- Datum: 2013-03-12 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12768.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
 I.
-
-Zuständigkeit
+Gegenstand des Preises
 
 1.
 
-Zur Entscheidung über Ansprüche aus Amtshaftung sind zuständig:
+Das Staatsministerium für Wissenschaft und Kunst lobt den „Sächsischen Museumspreis“ aus. Der Sächsische Museumspreis wird an nichtstaatliche Museen in Anerkennung der Pflege und der Profilierung der sächsischen Museumslandschaft und für beispielhafte Leistungen verliehen. Er ist zugleich ein Ausdruck der großen Wertschätzung der Öffentlichkeit für die Museen im Freistaat Sachsen und ein Dank an die engagierten Mitarbeiter der sächsischen Museen sowie die vielen ehrenamtlichen Helfer, die die Museen mit Einsatz, Idealismus und Sachkenntnis unterstützen und damit auch das farbenprächtige Mosaik der sächsischen Museumslandschaft pflegen und entwickeln.
+
+2.
+
+Der Sächsische Museumspreis würdigt zugleich den unverzichtbaren Beitrag, den die Museen zum kulturellen Leben in den Regionen leisten. Damit gestalten sie die Identität unseres Landes mit. Er soll sowohl für die Kulturschaffenden wie für die Sponsoren und Förderer als auch für die ehrenamtlichen Helfer in den Museen Anerkennung und Ansporn sein, den kulturellen Reichtum unserer Heimat zu erhalten, zu pflegen und möglichst vielen Menschen zu vermitteln.
+
+II.
+Auswahlkriterien
+
+1.
+
+Der Sächsische Museumspreis wird für hervorragende Projekte von Museen bei der Bewahrung und Vermittlung des natur- und kulturgeschichtlichen Erbes in Sachsen verliehen. Ausgezeichnet werden beispielhafte Neueinrichtungen oder Neugestaltungen mit wegweisenden Ansätzen in der Sammlungspräsentation und der didaktischen Vermittlung, die in den letzten Jahren entstanden sind. Ebenso kann für eine langjährige vorbildliche Museumsarbeit sowohl in ihrer Gesamtheit als auch in einzelnen Teilbereichen wie Sammlungsaufbau, Magazinverwaltung, Dokumentation, Veröffentlichung von Forschungsergebnissen des Museums, Konservierung und Restaurierung der Bestände sowie museumspädagogische Projekte der Preis verliehen werden. Insgesamt muss diese Kernarbeit der Museen nach innen wie nach außen sichtbar wirken. Preiswürdig ist eine zukunftsorientierte Arbeit auf Grundlage einer gesicherten institutionellen und finanziellen Basis mit qualifiziertem Personal.
+
+2.
+
+Weiterhin berücksichtigt werden
 
 a)
 
-das Staatsministerium der Justiz und für Europa
-
-für Schäden, die durch seine Bediensteten, die Bediensteten der Behörde des Sächsischen Landesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik sowie durch Bedienstete der Justizschule des Freistaates Sachsen am Bildungszentrum Niederbobritzsch verursacht worden sind;
+das Leitbild und das Sammlungskonzept,
 
 b)
 
-der Präsident des Oberlandesgerichts,
+der Erhaltungszustand und die Pflege der Sammlungsbestände,
 
 c)
 
-der Präsident des Sächsischen Oberverwaltungsgerichts,
+das sammlungsorientierte Sicherheitskonzept,
 
 d)
 
-der Präsident des Sächsischen Landesarbeitsgerichts,
+die wissenschaftliche Aufarbeitung des Sammlungsbestandes,
 
 e)
 
-der Präsident des Sächsischen Landessozialgerichts,
+die ausstellungstechnische und die gestalterische Umsetzung,
 
 f)
 
-der Präsident des Sächsischen Finanzgerichts,
+die Intensität, Kreativität und der Einfallsreichtum der gesamten Vermittlungsarbeit,
 
 g)
 
-der Generalstaatsanwalt des Freistaates Sachsen,
+die Gesamtwirkung und -atmosphäre und
 
 h)
 
-die Leiter der Justizvollzugsanstalten und
-
-i)
-
-der Leiter des Justizvollzugskrankenhauses
-
-jeweils für Schäden, die durch Bedienstete ihres Geschäftsbereichs verursacht worden sind.
-
-2.
-
-Zur Entscheidung über die Inanspruchnahme von Bediensteten, die Dritten oder dem Freistaat Sachsen Schäden verursacht haben, sind zuständig:
-
-a)
-
-das Staatsministerium der Justiz und für Europa,
-
-für Schäden, die durch Richter, Staatsanwälte, Beamte und vergleichbare Angestellte des höheren Dienstes sowie Bedienstete der in Nummer 1 Buchst. a genannten Behörden verursacht worden sind;
-
-b)
-
-die in Nummer 1 Buchst. b bis i genannten Behörden
-
-jeweils für Schäden, die durch die übrigen Bediensteten ihres Geschäftsbereichs verursacht worden sind.
+der effektive Einsatz der finanziellen Mittel.
 
 3.
 
-Zur Entscheidung über Ansprüche auf Entschädigung wegen erlittener Nachteile infolge der unangemessenen Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens sind die in Nummer 1 Buchst. b bis g genannten Behörden hinsichtlich der Verfahren in ihrem Geschäftsbereich zuständig.
+Der Sächsische Museumspreis kann unter ein Jahresthema gestellt werden.
 
-II.
-
-Berichtspflichten
+III. Dotierung
 
 1.
 
-Die nachgeordneten Dienststellen berichten den nach Ziffer I Nr. 2 zuständigen Behörden über schuldhafte Pflichtverletzungen von Bediensteten, durch die Dritten oder dem Freistaat Sachsen Schäden entstanden sind, oder wenn ein Dritter einen Schadensersatzanspruch oder einen Anspruch auf Entschädigung wegen unangemessener Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens geltend macht.
+Der Sächsische Museumspreis ist mit insgesamt 30 000 EUR dotiert. Es werden ein Hauptpreis in Höhe von 20 000 EUR sowie zwei Spezialpreise zu je 5 000 EUR vergeben. Sie werden zusammen mit einer Urkunde durch das Staatsministerium für Wissenschaft und Kunst überreicht.
 
 2.
 
-Die nach Ziffer I Nr. 1 Buchst. b bis i zuständigen Behörden berichten dem Staatsministerium der Justiz und für Europa, wenn durch Pflichtverletzungen von Bediensteten schuldhaft ein Schaden von mehr als 10 000 EUR verursacht wurde. Macht in diesem Fall ein Dritter einen Anspruch aus Amtshaftung geltend, ist dem Staatsministerium der Justiz und für Europa vor Abschluss des Verfahrens unter Vorlage eines Entwurfs der abschließenden Verfügung zu berichten; entsprechendes gilt, wenn ein Dritter einen Anspruch auf Entschädigung wegen unangemessener Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens von mehr als 10 000 EUR geltend macht.
-
-3.
-
-Die Berichtspflicht nach Nummer 2 besteht ohne Rücksicht auf die Schadenshöhe auch dann, wenn die Angelegenheit von grundsätzlicher Bedeutung ist, insbesondere wenn Anlass zu allgemeinen Maßnahmen bestehen kann.
-
-III.
-
-Durchsetzung von Ansprüchen gegenüber Bediensteten
-
-1.
-
-Die nach Ziffer I Nr. 2 zuständigen Behörden tragen für die Beteiligung des zuständigen Personalrats und die Einhaltung tariflicher Ausschlussfristen Sorge.
-
-2.
-
-Schadensersatzansprüche gegenüber Richtern, Staatsanwälten und Beamten sind durch Leistungsbescheid geltend zu machen, soweit nicht der Rechtsweg zu den ordentlichen Gerichten eröffnet ist. Gegen den Anspruch auf Bezüge darf erst aufgerechnet werden, wenn der Leistungsbescheid unanfechtbar oder Widerspruchsbescheid ergangen ist.
-
-3.
-
-Schadensersatzansprüche gegenüber Arbeitnehmern sind gerichtlich geltend zu machen, sofern die außergerichtliche Geltendmachung erfolglos ist. Gegen den Anspruch auf Bezüge darf erst nach Vorliegen eines vollstreckbaren Titels aufgerechnet werden.
+Das Preisgeld ist ausschließlich für museale Belange der prämierten Einrichtungen entsprechend der Definition des International Council of Museums (ICOM) und den „Standards für Museen“ des Deutschen Museumsbundes zu verwenden. Die Jury ist in geeigneter Form darüber zu unterrichten.
 
 IV.
+Jury
 
-Übergangsvorschrift
-
-1.
-
-Für die vor dem 1. Mai 1998 anhängig gewordenen Staats- und Amtshaftungsverfahren gilt weiterhin die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über die Behandlung von Amtshaftungsansprüchen und von Ansprüchen nach dem Gesetz zur Regelung der Staatshaftung in der Deutschen Demokratischen Republik (VwV Staatshaftung-Justiz) vom 10. Mai 1993 (SächsABl. S. 724), geändert durch Verwaltungsvorschrift vom 22. Oktober 1993 (SächsABl. S. 1267).
-
-2.
-
-Für Ansprüche, auf die nach § 4 Satz 1 des Gesetzes des Freistaates Sachsen zur Bereinigung des alten Landesrechts sowie des als Landesrecht fortgeltenden Rechts der Deutschen Demokratischen Republik (Sächsisches Rechtsbereinigungsgesetz -
-SächsRBG) vom 17. April 1998 (SächsGVBl S. 151) weiterhin das Gesetz zur Regelung der Staatshaftung in der Deutschen Demokratischen Republik - Staatshaftungsgesetz - vom 12. Mai 1969 (GBl. DDR I Nr. 5 S. 34), geändert durch Gesetz vom 14. Dezember 1988 (GBl. DDR I Nr. 28 S. 329) anzuwenden ist, gelten die Ziffern I und II Nr. 2 und 3 mit der Maßgabe entsprechend, daß auch im Falle schuldloser Verursachung des Schadens zu berichten ist.
+Eine vom Staatsministerium für Wissenschaft und Kunst berufene Jury unterbreitet dem Staatsministerium für Wissenschaft und Kunst die aus den Bewerbungen ausgewählten Vorschläge. Die Jury setzt sich aus fünf bis sieben Mitgliedern zusammen. Neben einem Vertreter des Staatsministeriums für Wissenschaft und Kunst sind Vertreter aus den Bereichen Kultur/Tourismus, Wirtschaft und Medien/Öffentlichkeit vertreten. Ein Vertreter der Sächsischen Landestelle für Museumswesen nimmt mit beratender Stimme an den Jurysitzungen teil und wird die Bewerbungen im Einzelnen wertungsfrei vorstellen. Darüber hinaus können weitere Sachverständige hinzugezogen werden. Sie nehmen ebenfalls mit beratender Stimme an den Sitzungen teil. Die Mitglieder der Jury werden für fünf Jahre berufen. Die Wiederberufung ist möglich. Der Vertreter des Staatsministeriums für Wissenschaft und Kunst führt den Vorsitz.
 
 V.
+Juryverfahren
 
-In-Kraft-Treten und Außer-Kraft-Treten
+Die Sachverständigen erfüllen ihre Aufgaben unparteiisch und sind zur Verschwiegenheit verpflichtet. Zu den Sitzungen der Jury erfolgen die Einladungen im Auftrag des Vorsitzenden. Die Beratungen sind nicht öffentlich. Die Vorschläge werden mit einfacher Stimmenmehrheit gefasst und sind zu begründen. Die Jury kann sich eine Geschäftsordnung geben.
 
-Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Januar 1999 in Kraft. Gleichzeitig treten die VwV Staatshaftung-Justiz sowie die Regelung über die „Geltendmachung von Amtshaftungsansprüchen bzw. von Ansprüchen nach dem Gesetz zur Regelung der Staatshaftung in der Deutschen Demokratischen Republik durch Gefangene“ gemäß Justizministerialschreiben vom 15. April 1997 (nicht veröffentlicht) außer Kraft.
+VI.
+Bewerbung
 
-Dresden, den 19. Januar 1999
+Um den Sächsischen Museumspreis können sich nichtstaatliche Museen im Freistaat Sachsen als Einzelinstitutionen oder als Zusammenschluss bewerben. Die Bewerbungsanforderungen, Termine sowie gegebenenfalls das jeweilige Jahresthema und die Abgabefristen mit Nennung der Einreichungsstellen werden in dem Ausschreibungsjahr über öffentliche Medien kommuniziert.
 
-Der Staatsminister der Justiz
+VII.
+Verleihung
 
-Steffen Heitmann
+Der Sächsische Museumspreis wird alle zwei Jahre durch das Staatsministerium für Wissenschaft und Kunst auf Grundlage der Vorschläge der Jury verliehen. Ein Rechtsanspruch auf die Vergabe des Preises besteht nicht.
+
+VIII.
+Inkrafttreten
+
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Unterzeichnung in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Vergabe eines Museumsförderpreises vom 9. Juli 2007 (SächsABl. S. 1000), zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2011 (SächsABl. SDr. S. S 1790), außer Kraft.
+
+Dresden, den 11. März 2013
+
+Die Staatsministerin für Wissenschaft und Kunst
+
+Prof. Dr. Dr. Sabine Freifrau von Schorlemer
