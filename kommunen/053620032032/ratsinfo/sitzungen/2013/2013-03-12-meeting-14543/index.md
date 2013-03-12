@@ -1,0 +1,52 @@
+# Haupt- und Finanzausschuss (21. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-03-12T17:00:00+01:00
+- Ende: 2013-03-12T22:15:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZV_YyiqeFaLAWEY2hmS7zBw
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14543
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRA9KNR0TFESY5-RcJ4Xi4PYFYOgu26dW_1XNpa7hhle/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_12.03.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 20. Sitzung vom 04. Dezember 2012
+- TOP 3.: Umbesetzung des Arbeitskreises EDV
+- TOP 4.: 10. Änderung der Vergabeordnung der Stadt Kerpen
+- TOP 5.: Personal-/Stellenplanangelegenheiten
+- TOP 5.1: Wegfall der Aufgabenstellung Stadtmarketing
+- TOP 5.2: Änderung im Stellenplan 2013; hier: Stelle für Rentenberatung
+- TOP 5.3: Änderung im Stellenplan 2013 hier: Stelle für Ambientetrauungen
+- TOP 5.4: Stellenplan 2013 Verlagerung der Stelle 90000952 in das Amt 15
+- TOP 5.5: Stellenplan 2013 Erhöhung des Stellenanteils der Stelle 90000274 Amt 13
+- TOP 5.6: Stellenplan 2013: Einrichtung von 1,5 zusätzlichen Stellen für den Bereich Leistungen nach dem SGB XII (Grundsicherung im Alter etc.)
+- TOP 5.7: Stellenplan 2013: Einrichtung von 1,5 zusätzlichen Stellen für die Überwachung des ruhenden Verkehrs
+- TOP 5.8: Stellenplan 2013/2014 hier: Personalbedarf für den Betrieb der städtischen Bäder
+- TOP 5.9: Einsatz von Signaturpads im Bürgerbüro
+- TOP 5.10: Organisations u. Personalvorlage 2013 u. 2014
+- TOP 5.11: Anpassung der Beförderungspraxis der Stadt Kerpen
+- TOP 6.: Haushaltsmittel für Straßen- und Gehwegsanierungen
+- TOP 7.: Beratung des Entwurfs der Haushaltssatzung für die Haushaltsjahre 2013/2014
+- TOP 8.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen IV. Quartal 2012
+- TOP 9.: Mängel im neuen Hallenbad
+- TOP 10.: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg", hier: Abschluss eines Erschließungsvertrages
+- TOP 11.: Vorhabenbezogener Bebauungsplan SI Nr. 255 "Nahversorgungszentrum Sindorf-Nord", hier: a. Wechsel des Vorhabenträgers und b. Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 16.05.2006
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Bundeseinheitliche Behördennummer 115
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Vertrag zur Entschädigung der soz. Infrastruktur in Manheim-alt
+- TOP 15.: Lörsfelder Hof (Ökohof) hier: Sachstandsbericht
+- TOP 16.: Klärung des Grenzverlaufs Vinzenzstraße; Gemarkung Kerpen, Flur 42, Flurstück 240
+- TOP 17.: Ankauf von Straßenland Hier: Gemarkung Türnich, Flur 33, Nr. 40, Heerstraße
+- TOP 18.: Befristete Niederschlagung einer Gewerbesteuerforderung
+- TOP 19.: Befristete Niederschlagung von Grundbesitzabgaben
+- TOP 20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.1: Antrag auf Anrechnung von Vordienstzeiten auf die ruhegehaltsfähigen Dienstzeiten
+- TOP 21.: Mitteilungen
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
