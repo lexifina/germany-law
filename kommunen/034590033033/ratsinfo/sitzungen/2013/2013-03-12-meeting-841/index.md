@@ -1,0 +1,63 @@
+# Rat (18. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2013-03-12T17:30:00+01:00
+- Ende: 2013-03-12T22:10:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZnQHMFyZ87IsTdtp1zjAE4
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/841
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZls0AAHX93zTLSAvYix98mvaNJn2Yi-GFbLqGj03_D8/Bekanntmachung_Rat_12.03.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfjuvRDF0BggE5YHw5O9uHvvYND92ucuUohaHZvnmmpl/Oeffentliche_Niederschrift_Rat_12.03.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 13.12.2012
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 8.: Seniorenangelegenheiten
+- TOP 8.1: Bericht des Seniorenbeirates
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 1. Änderung der Satzung der Gemeinde Wallenhorst über die Entschädigung der Ratsfrauen und Ratsherren sowie der sonstigen Ausschussmitglieder hier: § 8 Kommunalpolitische Bildungsarbeit (Fraktionszuwendungen) - nicht gefasst:
+- TOP 4.2: Satzung über die Benutzung und die Gebühren der Obdachlosenunterkünfte in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kommunalrechtsangelegenheiten
+- TOP 5.1: Entsendung eines Ausschussmitgliedes und einer/s Stellvertreterin/s zum Verbandsausschuss des Unterhaltungsverbandes Nr.96 „Hase-Bever“ in Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Gründung der Gemeindewerke Wallenhorst - mehrheitlich mit 19 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 6.1: Erstellung eines ÖPNV-Entwicklungskonzeptes Halen/Hollage; hier: Antrag der CDU-Fraktion vom 25.01.2012 - mehrheitlich mit 14 Ja-Stimme(n), 19 Gegenstimme(n), 0 Stimmenthaltung(en) abgelehnt:
+- TOP 6.2: ÖPNV Neustrukturierung - mehrheitlich mit 19 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.3: Öffentlicher Personennahverkehr - mehrheitlich mit 18 Ja-Stimme(n), 15 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.4: Verlegung Kirmesplatz 2013 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.5: Wahl eines Vertreters der Gemeinde Wallenhorst als Beisitzer für den Schöffenwahlausschuss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Jugendbeteiligung in der Gemeinde Wallenhorst; hier: Einrichtung eines offenen Jugendparlaments - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kindertagesstätten
+- TOP 9.1: Einführung eines nach sozialen Kriterien gestaffelten Elternbeitrages für die Kindertagesstätten Antrag der Kooperationspartner SPD - Bündnis 90/Die Grünen - Wallenhorster Wählergemeinschaft vom 02.02.2012 - mehrheitlich mit 31 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.: Kulturangelegenheiten
+- TOP 10.1: Antrag der "Freunde und Förderer der Alten Kirche zu Wallenhorst e.V." auf Bezuschussung der Restaurierung der Emporen in der Alten Kirche - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Antrag des Vereins zur Förderung und Erhaltung Knollmeyer´s Mühle im Nettetal auf Bezuschussung der Sanierungsmaßnahme - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sportangelegenheiten
+- TOP 11.1: Antrag des Sportvereines Blau-Weiss Hollage e. V. auf den Bau einer zusätzlichen Trainingshalle im Sportzentrum Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Antrag des Schützenvereins Lechtingen auf Bezuschussung der Renovierung der Toilettenanlagen im Schützenhaus Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: EU-Umgebungslärmrichtlinie 2. Stufe hier: Vorstellung der Konfliktanalyse und Meldung zur Lärmaktionsplanung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Sanierung des Kreisverkehrsplatzes Hollager Straße / Fürstenauer Weg - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Nahwärmeversorgung im Baugebiet "An der Barlager Brücke" hier: Aktueller Sachstand und weiteres Vorgehen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.4: Sanierungsmaßnahme "Wallenhorst-Zentrum" hier: Beschluss über die Entwurfsplanung „Große Straße - Süd“ und „Franksmannstraße“ Erstellung der Ausführungs- und Detailplanung der „Großen Straße - Süd“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.5: Dorferneuerung Rulle: Umbau der 5er-Kreuzung hier: Vorstellung der Ausbauplanung und Beschluss über die Maßnahme aus der „Dorferneuerung Rulle“ - nicht gefasst:
+- TOP 12.6: Antrag der CDU-Fraktion vom 20.11.2012 zur Errichtung einer Kraft-Wärme-Kopplung im Schulzentrum Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Bauleitpläne
+- TOP 13.1: Bebauungsplan Nr. 248 "Große Straße / Franksmannstraße" hier: Aufstellungsbeschluss - mehrheitlich mit 18 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 13.2: 5. Änderung des Bebauungsplanes Nr. H 12 "Erweiterter Ortskern Hollage" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: 1. Änderung des Bebauungsplanes Nr. 167 „Gemeindeverbindungsstraße - An der Sandgrube/Nordwestlich Dörnte“ hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Straßenbau
+- TOP 14.1: Umstufung der Straße ´An der Sandgrube´ zur Landesstraße und der ´Hollager Straße/Große Straße´ zur Gemeindestraße - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Kämmereiangelegenheiten
+- TOP 15.1: Haushaltswirtschaft für das Jahr 2013 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 18 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 15.2: Genehmigung der Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.: Anfragen und Anregungen
+- TOP 16.1: Beschilderung Große Straße
+- TOP 16.2: Markierung verkehrsberuhigender Maßnahmen
