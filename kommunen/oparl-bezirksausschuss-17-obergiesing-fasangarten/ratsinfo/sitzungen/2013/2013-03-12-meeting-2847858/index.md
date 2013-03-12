@@ -1,0 +1,142 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2847858
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2847858
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Zweckentfremdung/Untervermietung Sintpertstraße
+- TOP 2.1.2.2.: Buslinie 54 - Gefährliche Verkehrssituation an der Haltestelle Fockensteinstraße
+- TOP 2.1.2.3.: Verkehrsentlastung Deisenhofenerstraße, Tempo 30 Zone
+- TOP 2.1.2.4.: Route der Buslinie 145; Bürgeranliegen von Frau S. vom 12.03.2013
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Antrag der GRÜNEN-Fraktion auf Durchführung einer Einwohnerversammlung zum Bebauungsplan Nr. 2037 "Europäische Schule"
+- TOP 3.2.: Stadtgestalterische Maßnahme durch Fortführung der Allee in der Untersbergstraße (Westseite), Antrag der SPD-Fraktion vom 12.03.2013
+- TOP 4: Budget
+- TOP 4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 5.1.3.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076; Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich), Teiländerung der Bebauungspläne Nrn. 77 und 1995), Zuleitung des PlanR vom 15.02.2013 mit der Bitte um Stellungnahme
+- TOP 5.1.3.2.: Verkauf einer städtischen Immobilie; Anhörung des Bezirksausschusses gemäß § 13 der Bezirksausschusssatzung; Anwesen Lincolnstraße/Herbert-Quandt-Straße; Zuleitung des Kommunalreferats vom 11.02.2013 mit der Bitte um Stellungnahme
+- TOP 5.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 5.1.4.2.: Bürgeranliegen: Umgestaltung des St.-Quirin-Platzes; Antwortschreiben des Baureferat vom 08.02.2013
+- TOP 5.1.4.3.: Erweiterung der BA-Vertretung in Wettbewerben; BA-Antrags-Nr. 08-14 / B 03849 des Bezirksausschusses des Stadtbezirks 5 Au-Haidhause vom 28.03.2012, Sitzungsvorlage-Nr. 08-14 / V 11083, Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 20.02.2013
+- TOP 5.1.4.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 5.1.4.5.: Giesinger Flunder muss bleiben! Antrag auf Erhalt des Villeroy und Boch Gebäudes am Giesinger Bahnhofplatz, BA-Auftrag-Nr. 08-14 / B 04230 des BA 17 vom 11.09.2012, Antwort PlanR vom 22.02.2013
+- TOP 5.1.4.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076; Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich), Teiländerung der Bebauungspläne Nrn. 77 und 1995) - Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtgebiet 5 - , Zuleitung des PlanR vom 08.03.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 5.2.3.1.: Errichtung eines Hauses für Kinder mit drei Kindergarten- und zwei Hortgruppen an der Werner-Schlierf-Straße (ehem. Agfa-Gelände), 17. Stadtbezirk Obergiesing-Fasangarten - Produkt Nr. 1.1 - Genehmigung des Nutzerbedarfsprogrammes, Zuleitung des Referat für Bildung und Sport vom 13.02.2013 mit der Bitte um Stellungnahme
+- TOP 5.2.3.2.: Errichtung eines Hauses für Kinder mit zwei Krippen-, drei Kindergarten- und einer Hortgruppe an der Perlacher Straße (ehem. Agfa-Gelände), 17. Stadtbezirk Obergiesing-Fasangarten - Produkt Nr. 1.1 - Genehmigung des Nutzerbedarfsprogrammes, Zuleitung des Referat für Bildung und Sport vom 13.02.2013 mit der Bitte um Stellungnahme
+- TOP 5.2.4.1.: Kinderbetreuung in der AWO Kita Perlacher Forst, Lincolnstr. 62, Schreiben des Referat für Bildung und Sport vom 07.02.2013
+- TOP 5.2.4.2.: Aktionstag für Familien am 03.05.2013 - Machen Sie mit!
+- TOP 5.2.4.3.: Unterstützung von kostenfreien Plätzen im Johanniter Lilalu-Ferienprogramm 2012, Schreiben des Johanniter-Unfall-Hilfe e.V. vom 23.01.2013
+- TOP 5.2.4.4.: Raumsituation am Asamgymnasium; Referat für Bildung und Sport in eigener Sache, Stellungnahme des RBS in der Rathaus-Umschau vom 18.02.2013
+- TOP 5.2.4.5.: Sachbericht zum gewährten Zuschuss für die Aktion Theatertage im 103er-Freizeittreff Obergiesing, Schreiben des Kreisjugendring München-Stadt vom 19.02.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Verkehrsberuhigung Ichostraße
+- TOP 0.2.: Ausbau und Beschilderung am Hermelinweg
+- TOP 0.3.: Lichtzeichen-Bauprogramm 2013, hier: Stadelheimer Straße / Sachranger Straße (Frasdorfer Straße), Schreiben des KVR vom 14.12.2012 und vom 14.01.2013 mit der Bitte um Stellungnahme, vertagt aus der Sitzung vom 13.02.2013
+- TOP 0.4.: Verkehrsführung Tegernseer Landstr; Bürgeranliegen von Herrn F. vom 13.12.2012, vertagt aus der Sitzung vom 13.02.2013
+- TOP 0.5.: Große Parkprobleme in der Weißenseestraße
+- TOP 0.6.: Fahrbahnmarkierung Tegernseer Landstraße vor der TeLa-Post, Bürgeranliegen von Herrn K. vom 16.12.2012, Stellungnahme des KVR vom 23.01.2013; vertagt aus der Sitzung vom 13.02.2013
+- TOP 0.7.: Widmung des Kreuzbichlwegs als öffentliche Straße insbesondere im Zusammenhang mit der Einrichtung von Fahrradstraßen; Schreiben des Baureferat vom 09.01.2013 mit der Bitte um Stellungnahme; vertagt aus der Sitzung am 13.02.2013
+- TOP 0.8.: Taktverdichtung auf der Tramlinie 17; Antwortschreiben der MVG vom 17.12.2012
+- TOP 0.9.: Verdichtung der Fahrzeiten der Buslinie 147 zwischen 7.00 Uhr und 8.30 Uhr; Antwortschreiben der MVG vom 19.12.2012
+- TOP 0.10.: Bürgerversammlung im Stadtbezirk 17 am 05.07.2012; Buslinie 145, Antwortschreiben der 2. Bürgermeisterin vom 15.01.2013; neu: weitere Unterlagen des Bürgers hierzu
+- TOP 5.3.3.1.: Tegernseer Landstraße zwischen Emersonstr. und Stadelheimer Str. ; Erinnerungsverfahren; Zuleitung des Bau- referats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 5.3.3.2.: Unfall- und Schadenrisiken minimieren - Bordsteine in München entschärfen; Antrag Nr. 08-14 / A 04014 der FW vom 04.02.2013, Zuleitung des Direktorium mit der Bitte um Stellungnahme
+- TOP 5.3.3.3.: Schlierseestraße 22 - 74; Erinnerungsverfahren; Zuleitung des Bau- referats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 5.3.3.4.: Obernzeller Str.; Erinnerungsverfahren; Zuleitung des Bau- referats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 5.3.4.1.: Ausweisung der Grenzstraße als Spielstraße
+- TOP 5.3.4.2.: Beschleunigung der Buslinien 144 und 145; 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Änderung des Mehrjahresinvestitionsprogrammes 2012 - 2013 Sitzungsvorlage Nr. 08-14 / v 10954, Beschluss der Vollversammlung des Stadtrates vom 23.01.2013
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Marklandstraße: Forderung einer deutlicheren Beschilderung der Tempo-30-Zone; Antwort KVR vom 26.02.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 5.4.4.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.1.1 Weißenseestraße, Bescheid vom 15.02.2013; 5.4.4.1.2 Hohenschwangaustr. 24, Bescheid vom 30.01.2013;
+- TOP 5.4.4.2.: Frühjahrsprogramm des Umweltnetzes München - Ost
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.1: Ausländer/Innen
+- TOP 6.2: Behinderte
+- TOP 6.3: Genderfragen
+- TOP 6.4: Kinder
+- TOP 6.5: Jugend
+- TOP 6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Seemüllerstr. 13, 2 Tannen, Antrag vom 29.01.2013, 2. Winlandstr. 19, 2 Eichen, 1 Buche, Antrag vom 31.01.2013; 3. Dreisesselbergstr. 9, 1 Ahorn, 1 Thuje, Antrag vom 20.02.2013
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Mittelfristige Finanzplanung 2012 - 2016; Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2013 bis 2017; Zuleitung der Stadtkämmerei vom 18.02.2013mit der Bitte um Stellungnahme
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München sowie der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 29.11.2012 a) b) c) d) e) f) 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung des Anhangs 1 zur BA-Satzung (Beteiligung durch SWM GmbH) 3. Änderung der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse der Landeshauptstadt München, Sitzungsvorlage Nr. 08 ? 14 / V 10796 Beschluss des Verwaltungs- und Personalausschusses vom 12.12.2012 (VB)
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 4.2.1.: Budget der Bezirksausschüsse, Antragsteller: Johanniter-Unfall-Hilfe e.V. , Veranstaltung: LiLaLu-Ferienprogramm im Sommer 2013, Antragssumme: 1.950,00 Euro
+- TOP 2.5: Sonstiges (1)
+- TOP 5.1: UA Bau und Planung (1)
+- TOP 5.1.1: Bericht (1)
+- TOP 5.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.1.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.1.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.1.5: Anträge (1)
+- TOP 5.1.6: Sonstiges (2)
+- TOP 5.2: UA Familie, Soziales, Ausbildung, Sport (1)
+- TOP 5.2.1: Bericht (2)
+- TOP 5.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.2.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.2.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.2.5: Anträge (2)
+- TOP 5.2.6: Sonstiges (3)
+- TOP 5.3: UA Verkehr (1)
+- TOP 5.3.1: Bericht (3)
+- TOP 5.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.3.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.3.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.3.5: Anträge (3)
+- TOP 5.3.6: Sonstiges (4)
+- TOP 5.4: UA Umwelt (1)
+- TOP 5.4.1: Bericht (4)
+- TOP 5.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.4.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 5.4.5: Anträge (4)
+- TOP 5.4.6: Sonstiges (5)
+- TOP 5.5.1: Bericht (5)
+- TOP 5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 5.5.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 5.5.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.5.5: Anträge (5)
+- TOP 5.5.6: Sonstiges (6)
+- TOP 8.1.1: UA Bau und Planung (2)
+- TOP 8.1.2: UA Familie, Soziales, Ausbildung, Sport (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt (2)
