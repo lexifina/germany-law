@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2815572
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2815572
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Wahl eines Beirates in den Stadtteilkulturverein 2411
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Stadtteilkultur 2411 e.V. Konzert "Messiah" am 07.07.2013
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. 10 Workshopplätze für das Lilalu-Ferienprogramm vom 02. - 06.04.2013
+- TOP 3.1.: Errichtung eines ASZ am Stanigplatz in der Trägerschaft der Diakonie Hasenbergl und Errichtung einer Tages- und Halbtagesbetreuungseinrichtung in der Stösserstraße für Demenzkranke in der Trägerschaft der AWO
+- TOP 3.2.: Wiederherstellung der Wasserfontaine im Lerchenauer See
+- TOP 3.3.: Antrag auf Zufahrtsbeschränkung und Parksituation in der Luitfriedstraße
+- TOP 3.4.: Umgestaltung des Straßenraums bzw. alternative Maßnahmen zur Verkehrsüberwachung in der Blodig- und Aschenbrennerstraße
+- TOP 3.5.: Errichtung einer Fußgängerfurt oder eines Lotsenüberganges in der Max-Wönner-Straße für Schulkinder
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 1. Ebereschenstraße 63 2. Kristallstraße 3. Lassallestr. 49 4. Lerchenauer Str. 134 5. Leuchstr. 42 6. Trollblumenstr. 50a-50b 7. Wilhelmine-Reichard-Straße
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Aronstabstr. 27 2. Irisstr. 16 3. Kristallstraße 4. Lerchenauer Str. 251h 5. Ebereschenstr. 63 6. Silberpappelstr. 18 7. Wintersteinstr. 33
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): 1. Gustav-Schiefer-Str. 21-27 2. Gustav-Schiefer-Str. 26-48 3. Gustav-Schiefer-Str. 60-64 4. Joseph-Seifried-Str. 21-25 5. Lassallestr. 95-99 6. Max-Wönner-Str. 6,9,13,17 und 24 (HausNr. 32) 7. Sonnentaustr. 24
+- TOP 5.4.: Baureferat: Ausbau/ Umbau/ erstmalige Herstellung der Lerchenstraße/ Herbergstraße und notwendige Baumfällungen
+- TOP 5.5.: Sozialreferat: Bauvorhaben Leberle-/ Moriggl- / Paidar- / Raheinstraße hier: Bau einer Kinderkrippe (Entwurf Beschlussvorlage)
+- TOP 5.6.: Stadtkämmerei: Mittelfristige Finnzplanung 2012 - 2016 Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2013 bis 2017
+- TOP 5.7.: Direktorium: Fest junger Erwachsener - "18.jetzt" a, 12-10.2013 - Beteiligung der BA' s
+- TOP 5.8.: KVR: Standortkonzept Bürgerbüros
+- TOP 5.9.: KVR: Veranstaltung auf städt. Grünanlage: An- und Abfischen des Fischervereins Oberschleißheim am Regattaparksee am 13.04.2013
+- TOP 5.10.: KVR: Veranstaltung im Freien in einer städt. Grünanlage: Osterfeuer St. Johannes Evangelist in der Gustav-Schiefer-Str. 23 am 31.03.2013
+- TOP 5.11.: KVR: Veranstaltung auf städt. Grünanlage Dülfer Anger: Gastspiel Zirkus Baldoni vom 19.09. bis 29.09.2013
+- TOP 5.12.: Abfallwirtschaftsbetrieb München: Erweiterung bestehender Container-Inseln um städt. Altkleidercontainer im 24. Stadtbezirk (2. Beteiligungsrunde).
+- TOP 5.13.: KVR: Austausch von Lichtsignalanlagen hier: LZA Feldmochinger-/ Pflaumstraße
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Baureferat: Radwegkonzept für den Münchner Norden - insb. für den 24. Stadtbezirk (-&gt; BA-Antrag Nr. 08-14/ B 04401)
+- TOP 6.2.: Baureferat: Freigabe des Weges südlich des Fasaneriesees sowohl für Fußgänger als auch für Radfahrer (-&gt; BA-Antrag Nr. 08-14/ B 03818)
+- TOP 6.3.: Referat für Bildung und Sport: Grundschule Toni-Pfülf-Str. 30; Sanierung Schwimmhalle (-&gt; BA-Antrag Nr. 08-14/ B 04509)
+- TOP 6.4.: Referat für Stadtplanung und Bauordnung: diverse Antworten zu BV-Anfragen aus der ausserordentlichen Bürgerversammlung zum Verkehrskonzept Münchner Norden am 04.12.2012
+- TOP 6.5.: MVG: keine Verstärkung der Buslinie 175 morgens Richtung Georg-Brauchle-Ring (-&gt; Antrag 11/46 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.6.: Baureferat: Ausbau Detmoldstraße - hier: Weiterbau des Fuß- und Radweges nach Osten bis zur Schleißheimer Straße (Antwort zu Bürgerantrag)
+- TOP 6.7.: Aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.8.: Meldelisten Baumfällungsanträge
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: KVR: verkehrsrechtliche Anordnungen: 1. Stösserstr. 14: Höchstparkdauer 2 Std. bei den 2 Behindertenparkplätzen 2. Bocksdornstraße: Einrichtung eines absoluten Halteverbotes
+- TOP 6.11.: Referat für Stadtplanung und Bauordnung: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2073 Am Oberwiesenfeld (südlich und westlich), Triebstraße (nördlich) und Kleingartenanlage an der Feldbahnstraße (östlich)
+- TOP 6.12.: Baumaßnahmen der SWM: Stromprojekt Ferchenbachstraße - Änderung im Terminablauf
+- TOP 6.13.: Beschlussvorlage Direktorium: Erweiterung der BA-Vertretung in Wettbewerben
+- TOP 6.14.: Referat für Bildung und Sport: Zuschüsse Kinderbetreuung auch für eine Privatschule (-&gt; BA-Antrag Nr. 08-14/ B 04527)
+- TOP 6.15.: Beschlussvorlage Referat für Bildung und Sport: Leistungszentrum München für Rudern und Kanu; Erhaltung und Weiterentwicklung der Olympia-Regattaanlage Oberschleißheim; Verlängerung Geschäftsbesorgungsvertrag
+- TOP 6.16.: Beschlussvorlage Referat für Arbeit und Wirtschaft: Errichtung eines Gewerbehofes im Münchner Norden; Grundsatzkonzept
+- TOP 6.17.: KJR: Bildungsangebote der offenen Kinder- und Jugendarbeit in Kooperation mit Schulen "Wildes Lernen?!"
+- TOP 6.18.: BA-Budget: Kurzberichte
+- TOP 6.19.: Direktorium: Münchner Statistik (3. Quartalsheft 2012)
+- TOP 6.20.: KJR München-Stadt: Ausstellung "Pastinaken raus" vom 01. bis 21.03.2013 im Gasteig
+- TOP 6.21.: Referat für Stadtplanung und Bauordnung: Zwischennachrichten zu BA-Antrag Nr. 08-14/ B 0498 und BV-Empfehlung Nr. 08-14/ E 00891 mit Bitte um Verlängerung der Bearbeitungsfristen
+- TOP 6.22.: Direktorium / OB: Übertragung des Eigentums an GWG und GEWOFAG (Antwort auf Bürgeranfrage)
+- TOP 6.23.: Regsam: Pläne für Alten- und Service-Zentrum im Stadtbezirk 24 (Schreiben RAGS vom 29.02.2013 an Sozialreferentin)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: KVR: Vorschlagsliste zur Auswahl für das Ehrenamt als Schöffin bzw. Schöffe für die Gerichtsperiode 2014 - 2018
+- TOP 8.2.: Aufruf zur Teilnahme an Kundgebung: "Aufruf zum Aufstehen"
+- TOP 8.3.: Sitzungstermine BA 24 im Jahr 2013: hier: Änderung der Sitzungsorte für Sitzungen am 02.07.2013 und 10.12.2013
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
