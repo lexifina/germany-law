@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2013-03-13T15:00:00+01:00
+- Ende: 2013-03-13T22:05:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2263
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2263
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00083953.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00083953.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00083953.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Masterplan MG - Entgegennahme der Ergebnisse des Masterplans durch den Rat - Zur Kenntnis genommen
+- TOP 3: Wahl einer/eines Beigeordneten - Mit Stimmenmehrheit beschlossen
+- TOP 4: Projekt "Kommunale Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepaketes" - Kenntnisnahme
+- TOP 4.1: Projekt Kommunale Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepaketes - Mit Stimmenmehrheit beschlossen
+- TOP 4.2: Fortführung der Schulsozialarbeit - Mit Stimmenmehrheit beschlossen
+- TOP 5: Besetzung der städtischen Geschäftsführungsposition bei der GEM - Mit Stimmenmehrheit beschlossen
+- TOP 6: Neubau einer Zentralbibliothek in Mönchengladbach-Mitte - Namentliche Abstimmung
+- TOP 6.1: Neubau Zentralbibliothek; Konzept "Bibliothek mit Zukunft" - Ohne Abstimmung
+- TOP 6.2: Neubau einer Zentralbibliothek - Ohne Abstimmung
+- TOP 7: Überörtliche Prüfung der Eröffnungsbilanz durch die Gemeindeprüfungsanstalt NRW - Kenntnisnahme
+- TOP 8: Prüferleichterung nach NKFWG - Mit Stimmenmehrheit beschlossen
+- TOP 9: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2012 - In den nächsten Ratszug geschoben
+- TOP 11: Jahresabschluss 2012 - Kenntnisnahme
+- TOP 12: DA nach § 31 GemHVO NRW und 19. Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 13: Sechsunddreißigster Nachtrag zur Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Verbandsausschuss des Netteverbandes - Einstimmiger Beschluss
+- TOP 15: Einführung einer neuen Finanzsoftware - Einstimmiger Beschluss
+- TOP 16: Ordnungsbehördliche Verordnungen Rheydt 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 17: Ordnungsbehördliche Verordnungen Offenhalten Wickrath 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Ordnungsbehördliche Verordnungen Offenhalten MG 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 19: Ordnungsbehördliche Verordnung Offenhalten 08.12.2013 - Mit Stimmenmehrheit beschlossen
+- TOP 20: Anpassung OGS-Elternbeitragssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 21: Anhebung der Pacht für die Nutzung städtischer Grundstücke durch Tennisvereine - Mit Stimmenmehrheit beschlossen
+- TOP 21.1: Pacht Tennisplätze - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Einrichtung von Integrativen Lerngruppen - Einstimmiger Beschluss
+- TOP 23: Schenkung der Exlibris Sammlung Dr. Gernot Blum - Mit Stimmenmehrheit beschlossen
+- TOP 24: Fünfter Nachtrag Elternbeitragssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 25: Verlängerung der Leistungsvereinbarung Adoptions-/Dauerpflegevermittlung - Mit Stimmenmehrheit beschlossen
+- TOP 26: Zweiter Nachtrag zur Satzung für das Jugendamt der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 27: Umbesetzung des Jugendhilfeausschusses - Einstimmiger Beschluss
+- TOP 28: Wahl der Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 29: Entschädigung der Mitglieder des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 30: Entwurf des Lärmaktionsplans 1. Stufe - Mit Stimmenmehrheit beschlossen
+- TOP 30.1: Entwurf des Lärmaktionsplans 1. Stufe, Vorlagen-Nr. 2820/VIII - Ohne Abstimmung
+- TOP 31: Vierter Nachtrag Verwaltungsgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 32: Bebauungsplan Nr. 721/N, O - Stadtbezirke Nord und Ost - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 33: Benennung "Platz des Handwerks" - Einstimmiger Beschluss
+- TOP 34: Bebauungsplan Nr. 753/N - Stadtbezirk Nord - Hardt - Einstimmiger Beschluss
+- TOP 35: 1. Änderung BP R Nr. 1015 - in Textform - Satzung - Einstimmiger Beschluss
+- TOP 36: Bebauungsplan Nr. 740/S - Stadtbezirk Süd - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 37: Teilpläne zur Verkehrsplanung - Mit Stimmenmehrheit beschlossen
+- TOP 38: Europäische Bürgerinitiative "Wasser ist Menschenrecht" - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Resolution: EU-Richtlinie "Konzessionsvergabe" - Mit Stimmenmehrheit beschlossen
+- TOP 40: Umbesetzung von Ausschüssen und Gremien - Einstimmiger Beschluss
+- TOP 41: Anfragen
+- TOP 41.1: Anfrage von RH Schaper (Die Linke) zu TOP 27 des Ratsprotokolls vom 27.09.2012
+- TOP 41.2: Anfrage von RH Püllen (FWG) zum Geländes des ehemaligen Speicker Bahnhofes
+- TOP 41.3: Anfrage von RH Püllen (FWG) zu Gründungsmaßnahmen beim Bau der Arcaden Mönchengladbach
+- TOP 41.4: Mitteilung von Beigeordneten Dr. Schmitz zum Normenkontrollverfahren zum BP 730/W
