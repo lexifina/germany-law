@@ -1,0 +1,65 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-03-13T18:05:00+01:00
+- Ende: 2013-03-13T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8839
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8839
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00336853.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 6.1: Fortführung von MOBIM - verwiesen
+- TOP 6.2: Historische Aufarbeitung: Aktuelle Herausforderungen - verwiesen
+- TOP 6.3: Anregung, in Münster einen - Runden Tisch humanitäres Bleiberecht - einzurichten - verwiesen
+- TOP 6.4: Anregung an den Rat die gleichberechtigte Teilhabe an der Nutzung der öffentlichen Örtlichkeiten zu bewirken. - verwiesen
+- TOP 6.5: Anregung, der Save-me-Kampagne beizutreten - verwiesen
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 9: Bürgerhaushalt 2012 - erster Rechenschaftsbericht - einstimmig beschlossen
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2012 - zur Kenntnis genommen
+- TOP 11: Städtisches Stadion Hammer Straße - Sachstandsbericht zu Erhaltungs- und Sanierungsmaßnahmen - mehrheitlich geändert beschlossen
+- TOP 12: Ergebnisse des stadtteilorientierten Demografiemonitorings Münster 2005-2010 - einstimmig geändert beschlossen
+- TOP 13: Wirtschaftsplan 2013 für Münster Marketing - einstimmig beschlossen
+- TOP 14: Europäisches Kulturerbe-Siegel (EKS) - zur Kenntnis genommen
+- TOP 15: Auflösung der Pestalozzischule - evangelische Grundschule - mit Ablauf des 31.07.2013 und Erhöhung der Aufnahmekapazität der Idaschule - katholische Grundschule - von drei auf vier Züge mit Wirkung zum 01.08.2013 - einstimmig beschlossen
+- TOP 15.1: Auflösung der Pestalozzischule - evangelische Grundschule - mit Ablauf des 31.07.2013 und Erhöhung der Aufnahmekapazität der Idaschule - katholische Grundschule - von drei auf vier Züge mit Wirkung zum 01.08.2013
+- TOP 16: Festsetzung der Theater- und Konzertpreise ab der Spielzeit 2013/2014 - mehrheitlich beschlossen
+- TOP 17: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichungen, Kindertagespflege - mehrheitlich beschlossen
+- TOP 18: Sicherstellung des Rechtsanspruchs für Kinder von ein bis drei Jahren in Münster - einstimmig geändert beschlossen
+- TOP 18.1: Sicherstellung des Rechtsanspruchs für Kinder von ein bis drei Jahren in Münster
+- TOP 19: Ersatzbau und Erweiterung der Kindertageseinrichtung der Elterninitiative Integrativer Montessori-Kindergarten am Standort Manfred-von-Richthofen-Straße, Mitte-Nord - einstimmig beschlossen
+- TOP 20: Interimsweise Erweiterung der ev. Kindertageseinrichtung Friesenring, Innenstadtring zur Sicherstellung des Rechtsanspruchs für u3-Kinder in Münster - einstimmig beschlossen
+- TOP 21: Verfahren zur Besetzung des Örtlichen Beirates nach § 18d Sozialgesetzbuch (SGB) Zweites Buch (II) - einstimmig beschlossen
+- TOP 22: Studentische Wohnraumversorgung - einstimmig geändert beschlossen
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Mitte
+- TOP 24.1.1: Bebauungsplan Nr. 538 - einstimmig beschlossen
+- TOP 24.1.2: Bebauungsplan Nr. 529 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.1.3: Bauleitplanung für den Bereich Steinfurter Straße / York-Ring / Gasselstiege - einstimmig beschlossen
+- TOP 24.1.3.1: Bauleitplanung für den Bereich Steinfurter Straße / York-Ring / Gasselstiege
+- TOP 24.2: Stadtbezirk Münster-Südost
+- TOP 24.2.1: Bebauungsplan Nr. 415, 2. Änderung - Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Münster-Ost
+- TOP 24.3.1: Klarstellungssatzung Am Pulverschuppen / Wilhelmshavenufer - einstimmig beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 25.1: Dichtheitsprüfung auf das gesetzlich vorgeschriebene Mindestmaß beschränken - mehrheitlich geändert beschlossen
+- TOP 25.2: Weiteres Verfahren Hörster Parkplatz - mehrheitlich beschlossen
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 26.1: Europa als Chance für Münster - verwiesen
+- TOP 26.2: Ausstieg aus dem Münster Osnabrück International Airport - verwiesen
+- TOP 26.3: Eine Internationalisierung der Schullandschaft in Münster - für alle, unabhängig vom Geldbeutel - verwiesen
+- TOP 26.4: Eine zweite kommunale Gesamtschule prüfen - Elternwillen ernst nehmen - verwiesen
+- TOP 27: Verschiedenes
