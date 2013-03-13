@@ -1,0 +1,55 @@
+# 26. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-03-13T17:10:00+01:00
+- Ende: 2013-03-13T21:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8838
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8838
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00336819.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: 1. Antrag der CDU-Fraktion Nr. A-R/0050 vom 26.11.2012 "Träger stärken - transparente Leistungsvereinbarungen treffen 2. Antrag der Ratsgruppe UWG/ÖDP Nr. A-R/0052/2012 vom 30.11.2012 "Einführung einer Zuschussbudgetierung / Fachbereichsbudgets" - einstimmig beschlossen
+- TOP 2.2: Attraktiver Halt für Fernbusse in Münster - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0001/2013 - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündis 90/Die Grünen/GAL an den Rat A-R/0053/2012: "Masterplan Quartier": Versorgungssicherheit für Menschen mit Pflege- und Unterstützungsbedarf sichern - Infrastruktur zukunftsgerecht weiterentwickeln!" - einstimmig beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/ Die Grünen/GAL Nr. A-R/0041/2012 vom 22.09.2012 an den Rat - Mediation zur Verbesserung der Bildungsteilhabe von Kindern und Jugendlichen aus neu zugewanderten Familien insbesondere aus Bulgarien und Rumänien - einstimmig beschlossen
+- TOP 3: Beschwerde nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 4: Ergänzung der Richtlinien "Förderung der Auslandsbeziehungen der Stadt Münster" - einstimmig beschlossen
+- TOP 5: Beitritt der Stadt Münster zum Institut für europäische Partnerschaften und internationale Zusammenarbeit e.V. (IPZ) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Bürgerhaushalt 2012 - erster Rechenschaftsbericht - einstimmig beschlossen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2012 - zur Kenntnis genommen
+- TOP 8: Städtisches Stadion Hammer Straße - Sachstandsbericht zu Erhaltungs- und Sanierungsmaßnahmen - ohne Beschlussfassung geschoben
+- TOP 9: Ergebnisse des stadtteilorientierten Demografiemonitorings Münster 2005-2010 - zur Kenntnis genommen
+- TOP 10: Wirtschaftsplan 2013 für Münster Marketing - einstimmig beschlossen
+- TOP 11: Europäisches Kulturerbe-Siegel (EKS) - zur Kenntnis genommen
+- TOP 12: Auflösung der Pestalozzischule - evangelische Grundschule - mit Ablauf des 31.07.2013 und Erhöhung der Aufnahmekapazität der Idaschule - katholische Grundschule - von drei auf vier Züge mit Wirkung zum 01.08.2013 - einstimmig beschlossen
+- TOP 12.1: Auflösung der Pestalozzischule - evangelische Grundschule - mit Ablauf des 31.07.2013 und Erhöhung der Aufnahmekapazität der Idaschule - katholische Grundschule - von drei auf vier Züge mit Wirkung zum 01.08.2013
+- TOP 13: Festsetzung der Theater- und Konzertpreise ab der Spielzeit 2013/2014 - einstimmig beschlossen
+- TOP 14: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege - ohne Beschlussfassung geschoben
+- TOP 15: Sicherstellung des Rechtsanspruchs für Kinder von ein bis drei Jahren in Münster - ohne Beschlussfassung geschoben
+- TOP 15.1: Sicherstellung des Rechtsanspruchs für Kinder von ein bis drei Jahren in Münster
+- TOP 16: Ersatzbau und Erweiterung der Kindertageseinrichtung der Elterninitiative Integrativer Montessori-Kindergarten am Standort Manfred-von-Richthofen-Straße, Mitte-Nord - einstimmig beschlossen
+- TOP 17: Interimsweise Erweiterung der ev. Kindertageseinrichtung Friesenring, Innenstadtring zur Sicherstellung des Rechtsanspruchs für u3-Kinder in Münster - einstimmig beschlossen
+- TOP 18: Verfahren zur Besetzung des Örtlichen Beirates nach § 18d Sozialgesetzbuch (SGB) Zweites Buch (II) - einstimmig beschlossen
+- TOP 19: Studentische Wohnraumversorgung - ohne Beschlussfassung geschoben
+- TOP 20: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Mitte
+- TOP 21.1.1: Bebauungsplan Nr. 538 - einstimmig beschlossen
+- TOP 21.1.2: Bebauungsplan Nr. 529 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 21.1.3: Bauleitplanung für den Bereich Steinfurter Straße / York-Ring / Gasselstiege - einstimmig beschlossen
+- TOP 21.1.3.1: Bauleitplanung für den Bereich Steinfurter Straße / York-Ring / Gasselstiege
+- TOP 21.2: Stadtbezirk Südost
+- TOP 21.2.1: Bebauungsplan Nr. 415, 2. Änderung - Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 21.3: Stadtbezirk Ost
+- TOP 21.3.1: Klarstellungssatzung Am Pulverschuppen / Wilhelmshavenufer - einstimmig beschlossen
+- TOP 22: Verschiedenes
