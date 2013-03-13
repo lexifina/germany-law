@@ -1,0 +1,99 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-03-13T17:00:00+01:00
+- Ende: 2013-03-13T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3044
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3044
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=70037
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 17. Sitzung der BVV am 13.03.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 17. Sitzung der BVV am 13.03.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 17. Sitzung der BVV am 13.03.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Benennung eines Dr. Ilse Kassel-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Ehrenamtliches Engagement von Bürgerinnen und Bürgern mit Migrationshintergrund fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Rückläuferklassen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Ideen für schöne Plätze in Reinickendorf (Zwischenbericht) - überwiesen
+- TOP 7.7: Ehrenamtliche Sprachmittler / Dolmetscher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Regelmäßiger Bericht Investitionsmaßnahmen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" dem Bezirksamt zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Familienhebammen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Überarbeitung der Internetseiten des Bezirks und der BVV (Zwischenbericht) - überwiesen
+- TOP 7.12: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Newsletters der BVV - Technische Umsetzung - überwiesen
+- TOP 7.13: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Live-Übertragung der BVV-Sitzungen im Internet - überwiesen
+- TOP 7.14: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bezirkshaushalt transparenter gestalten - Haushalt im OpenData-Format bereit stellen (Zwischenbericht) - überwiesen
+- TOP 7.15: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einheitliche E-Mail-Adressen für Bezirksverordnete und Bürgerdeputierte - überwiesen
+- TOP 7.16: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verlinkung auf die Internetseiten der Fraktionen - überwiesen
+- TOP 7.17: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Mängelmelders für Reinickendorf - überwiesen
+- TOP 7.18: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Forum für projektbezogene Bürgerbeteiligung im Internet - überwiesen
+- TOP 7.19: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Projektbezogenes Bürgervotum im Internet - überwiesen
+- TOP 7.20: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines WLAN-Zugangs in den Sitzungsräumen (Zwischenbericht) - überwiesen
+- TOP 7.21: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Papierlose BVV anstreben (Zwischenbericht) - überwiesen
+- TOP 7.22: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Konferenztechnik in den Sitzungsräumen - überwiesen
+- TOP 7.23: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Aufzeichnungstechnik für Sitzungen bereit stellen (Zwischenbericht) - überwiesen
+- TOP 7.24: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verwendung der Tonprotokolle - überwiesen
+- TOP 7.25: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Elektronische Infotafel im Zuschauerbereich des BVV-Saals - überwiesen
+- TOP 7.26: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Kooperation mit Schulen verstärken - überwiesen
+- TOP 7.27: Neue Planungen zur Tegeler Hafeninsel öffentlich in Tegel vorstellen (Zwischenbericht) - überwiesen
+- TOP 7.28: Autorenlesefonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Kenntnisse über die Arbeit der Feuerwehr und Rettungsdienste verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Gebäude Heiligensee-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Bekanntmachung der Servicestelle nach SGB IV § 23 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Fahrradbeauftragter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Bewilligung von Krankenhausbetten / Psychiatrie (Zwischenbericht) - überwiesen
+- TOP 7.34: Aufstellung des Bebauungsplanes 12-46 für das Grundstück Im Erpelgrund 11/17, Wildganssteig 12/16 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 7.35: Bekanntmachung über die Unwirksamkeit der Verordnung über die Gestaltung baulicher Anlagen in der Borsigsiedlung im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Umwandlung des Marie-Schlei-Hauses in eine Flüchtlingseinrichtung - beantwortet
+- TOP 8.1.1: Nachnutzung des Marie-Schlei-Hauses - ohne Änderungen in der BVV beschlossen
+- TOP 8.1.2: Umwandlung des Marie-Schlei-Hauses in eine Flüchtlingseinrichtung - überwiesen
+- TOP 8.2: Reinickendorfer Sozialstationen erhalten - beantwortet
+- TOP 8.2.1: Informationsveranstaltung für Betreiber von Pflegeeinrichtungen - überwiesen
+- TOP 8.2.2: Austausch mit Sozialstationen - überwiesen
+- TOP 8.3: Rechtsextreme Symbole in Sportstätten des Bezirks - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Aufstellen der Vorschlagslisten für die Wahl der Schöffinnen / Schöffen für das Amtsgericht Tiergarten und das Landgericht Berlin für die Geschäftsjahre 2014 bis 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Abberufung und Berufung von beratenden und stellvertretenden beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Rehabilitation und Teilhabe behinderter Menschen SGB IX - Servicestelle § 23 - erledigt
+- TOP 10.2: "Schrottimmobilien" verhindern - Baugesetzbuch reformieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Ausstellung "Berliner Tatorte" im Rathaus Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Frühzeitige Information über Besuchergruppen aus Partnerstädten - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Historische Leuchte am Zeltinger Platz wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Zustand sanitärer Anlagen an Reinickendorfer Schulen - erledigt
+- TOP 10.7: Sicherung der Raumkonzepte am Schulstandort Treskowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Schutz des Mittelstreifens in der Wiltinger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Studentenappartements - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sicherung von Kunstwerken - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Initiative "Erstausbildung junger Erwachsene" - überwiesen
+- TOP 12.2: Konzept für Residenzstraße entwickeln - überwiesen
+- TOP 12.3: 100. Geburtstag von Willy Brandt mit einer Ausstellung ehren - überwiesen
+- TOP 12.4: Kampagne "Kein Raum für Missbrauch" unterstützen - überwiesen
+- TOP 12.5: Fifty-Fifty-Projekt unterstützen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Ergänzung im Schulgesetz - überwiesen
+- TOP 13.2: Fußgängerüberwege für einen sicheren Schulweg - überwiesen
+- TOP 13.3: Berlinweite Kennzeichnung von Ordnungsamtsmitarbeitern - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Pfandringe in Reinickendorf - überwiesen
+- TOP 13.5: Bahnhofszugangsbereich S Wilhelmsruh - überwiesen
+- TOP 13.6: Erinnerungsstele Niederbarnimer Eisenbahn - überwiesen
+- TOP 13.7: Verpflegungsbeauftragte / Verpflegungsbeauftragter - überwiesen
