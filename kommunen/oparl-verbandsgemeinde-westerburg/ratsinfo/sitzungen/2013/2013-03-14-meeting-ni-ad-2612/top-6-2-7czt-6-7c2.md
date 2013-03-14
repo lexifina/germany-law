@@ -1,0 +1,6 @@
+# TOP 6.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: nichtöffentliche Sitzung Ausschusses für Bau, Planung, Wirtschaft, Verkehr und Umwelt (2013-03-14)
+- Körperschaft: Verbandsgemeinde Westerburg
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-2612%7Czt_6%7C2
