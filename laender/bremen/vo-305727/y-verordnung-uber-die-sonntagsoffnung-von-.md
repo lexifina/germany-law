@@ -1,3 +1,3 @@
-# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2012 vom 25. April 2012
+# Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2013 vom 27. Februar 2013
 durch Zeitablauf erledigt
 Einzelansicht Seitenanfang
