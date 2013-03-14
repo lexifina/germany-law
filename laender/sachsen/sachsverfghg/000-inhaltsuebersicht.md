@@ -55,7 +55,8 @@ Neunter Abschnitt Verfahren in den Fällen des § 7 Nr. 9 (Aberkennung des Manda
 § 42 Mündliche Verhandlung
 § 43 Urteil
 § 44 Ausfertigungen des Urteils
-Vierter Teil Übergangs- und Schlußvorschriften
-§ 45 Erste Wahl der Verfassungsrichter
+Vierter Teil Verzögerungsbeschwerde
+§ 45 Anwendbare Vorschriften, Beschwerdekammer
+Fünfter Teil Schlussvorschriften
 § 46 Aufwandsentschädigung, Reisekostenvergütung, Unfallfürsorge
 § 47 Inkrafttreten
