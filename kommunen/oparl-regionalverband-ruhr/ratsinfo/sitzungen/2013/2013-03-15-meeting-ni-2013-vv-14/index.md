@@ -1,0 +1,60 @@
+# 14. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-03-15T09:40:00+01:00
+- Ende: 2013-03-15T11:45:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-14
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-14
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2013-VV-14
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-14
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-14
+
+## Tagesordnung
+
+- TOP 2.24: Änderung des RVR-Gesetzes
+- TOP 2.24.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr Aufgaben konkretisieren - Strukturen optimieren – Metropole stärken
+- TOP 2.24.1.1: Änderungsantrag der FDP-Fraktion vom 13.03.2013
+- TOP 2.24.1.2: Resolution der Verbandsversammlung Aufgaben konkretisieren - Strukturen optimieren - Metropole stärken Änderungsantrag der Fraktion Die Linke. vom 14.03.2013
+- TOP 2.24.2: Änderung des RVR-Gesetzes Änderungsantrag der Fraktion DIE LINKE vom 14.03.2011
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Förderprogramm für den kommunalen Straßen- und Radwegebau 2013 hier: Unterrichtung und Beschlussfassung
+- TOP 1.2: Förderprogramm für den kommunalen Sonder-Radwegebau 2013 (Radverkehrsförderung) hier: Unterrichtung und Beschlussfassung
+- TOP 1.3: Bericht über den Stand der Umsetzung der Hochwasserrisikomanagement- Richtlinie und die Ausweisung von Überschwemmungsgebieten im Bezirk
+- TOP 1.4: Bericht über den Stand der Erstellung des NRW-Programms „Ländlicher Raum“ für die Förderperiode 2014 bis 2020 im Bereich der Fachgruppe 3 LEADER; Dorfentwicklung, Breitband, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze
+- TOP 1.5: RFNP-Änderungen – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 1.6: 77. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem 'Zeus-Gelände' in der Stadt Duisburg - Aufstellungsbeschluss -
+- TOP 1.7: Sachstand 7. Änderung des Regionalplans für den Regierungsbezirk Münster - TA Emscher-Lippe (Kraftwerksstandort Datteln)
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP -: Schriftliche Antwort der Bezirksregierung Arnsberg zur Anfrage der CDU-Fraktion vom 19.02.2013 Betreff: Kürzung der Straßenbauprogramme durch die rot-grüne Landesregierung
+- TOP -: Schriftliche Antwort der Bezirksregierung Arnsberg zur Anfrage der CDU-Fraktion vom 20.02.2013 Betreff: L 104 von Bottrop nach Schermbeck
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 2.2: Bestellung eines Prüfers für das Referat Rechnungsprüfung
+- TOP 2.3: Bericht über die Prüfung des Jahresabschlusses 2011, Feststellung des Jahresabschlusses 2011 und Entlastung des Regionaldirektors des RVR für den Zeitraum 01.01. - 31.07.2011 und Entlastung der Regionaldirektorin des RVR für den Zeitraum 01.08.2011 - 31.12.2011
+- TOP 2.4: Beschluss über die Behandlung des Jahresüberschusses 2011
+- TOP 2.5: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.3 Dinslaken -Anhörungsverfahren Hier: Stellungnahme des Regionalverbandes Ruhr
+- TOP 2.6: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.3 Dinslaken -Anhörungsverfahren Hier: Stellungnahme der Regionalplanungsbehörde
+- TOP 2.7: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 Dreigleisigen Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.4 Voerde Hier: Stellungnahme des Regionalverbands Ruhr
+- TOP 2.8: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Besetzung des Kuratoriums und der Gesellschafterversammlung der ecce GmbH
+- TOP 2.9: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Änderung des Gesellschaftsvertrages der AGR Betriebsführung GmbH
+- TOP 2.10: Angelegenheiten der Kultur Ruhr GmbH - Besetzung des Aufsichtsrates
+- TOP 2.11: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2011 nach der Gemeindeordnung NRW (GO NRW)
+- TOP 2.12: Angelegenheiten der TER TouristikEisenbahnRuhrgebiet GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.13: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2012
+- TOP 2.14: Leistungsbilanz Qualitätssicherung Emscher Landschaftspark
+- TOP 2.15: Landesweit einheitliche Flächenbedarfsprognose Hier: Sachstandsbericht
+- TOP 2.16: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr hier: Projektskizze
+- TOP 2.17: Regionaler Diskurs / Regionalplan Ruhr Hier: Fachdialog Großflächiger Einzelhandel - Werkstattbericht
+- TOP 2.18: Freizeit- und Tourismuskonzept Metropole Ruhr
+- TOP 2.19: Ideenwettbewerb zur Zukunft der Metropole Ruhr Hier: Auslobungsexposé
+- TOP 2.20: Ideenwettbewerb zur Zukunft der Metropole Ruhr Hier: Aufgabe und Besetzung der Wettbewerbsjury
+- TOP 2.21: Zukunft Ruhr.2020+ - Hochschulen und Region
+- TOP 2.22: Integriertes Marketingkonzept
+- TOP 2.23: Keine Fracking-Bohrungen zur „unkonventionellen“ Gewinnung von Erdgas
+- TOP 2.25: Resolution der Verbandsversammlung Kommunale Daseinsvorsorge sichern: Wasser ist keine Handelsware - die kommunale Wasserversorgung darf nicht gefährdet werden
+- TOP 2.26: Wuppertal, 49. Flächennutzungsplanänderung – Dreigrenzen – erneute öffentliche Auslegung (IKEA)
+- TOP 2.27: Umbesetzung in den Ausschüssen
+- TOP 2.28: Anfragen und Mitteilungen
