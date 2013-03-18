@@ -1,0 +1,6 @@
+# Richtlinien zur Anwendung der Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz (ABBV-Richtlinien - RL ABBV)
+
+Die "Richtlinien zur Anwendung der Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz (ABBV-Richtlinien - RL ABBV)" sind auf der Homepage des Bundesministeriums für Verkehr, Bau und Stadtentwicklung unter www.bmvbs.de veröffentlicht und mit dem Allgemeinen Rundschreiben Straßenbau (ARS) 26/2012 vom 12.12.2012 im Verkehrsblatt 2/2013 S. 96 bekannt gemacht worden. Sie sind im Verkehrsblatt-Verlag als Sonderdruck unter der Bestellnummer B 6120 erschienen. Um einen einheitlichen Vollzug der ABBV zu gewährleisten, werden sie hiermit für die Berechnung der zu leistenden Ablösungsbeträge nach den Vorschriften des Eisenbahnkreuzungsgesetzes, des FStrG und des WaStrG eingeführt. Der Region Hannover, den Landkreisen, kreisfreien Städten und Gemeinden wird empfohlen, diese Richtlinien auch für den Bereich der Kreisstraßen und der Gemeindestraßen entsprechend anzuwenden.
+Dieser RdErl. tritt am 18.3.2013 in Kraft.
+An die Niedersächsische Landesbehörde für Straßenbau und Verkehr Region Hannover, Landkreise, kreisfreien Städte und Gemeinden
+- Nds. MBl. Nr. 11/2013 S. 259
