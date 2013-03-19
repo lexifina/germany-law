@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839280
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839280
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Hans-Mielich-Platz - Durchfahrt zur Kühbachstraße; Bürgerschreiben vom 27.02.13
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Verein zur Förderung der Festkultur in Giesing und Harlaching e.V., für die Maßnahme: Beschaffung eines Holzbodens für Zelte; Antragssumme: 7.849,62 ?; Beschlussvorlage des Direktoriums vom 26.02.13
+- TOP 3.2.: AntragstellerIn: Bürgervereinigung Maibaum-Untergiesing e.V., für die Maßnahme: Fest zum 01.05.2013; Antragssumme: 1.990,00 ?; Beschlussvorlage des Direktoriums vom 01.03.13
+- TOP 3.3.: AntragstellerIn: Johanniter-Unfall-Hilfe e.V., für die Maßnahme: Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013; Antragssumme: 1.950,00 ?; Beschlussvorlage des Direktoriums vom 06.03.13
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Zuwendung aus dem Budget der Bezirksausschüsse; Johanniter-Unfall-Hilfe e.V. - LILALU Workshopplätze - Erfahrungsbericht; Zuleitung des Direktoriums vom 11.01.13 (vertagt aus der Sitzung vom 19.02.13) zu 3.1.6.1 Schreiben des Johanniter-Unfallhilfe e.V. vom 23.01.13 (vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Edeka in der St.-Magnus-Straße - kein widerrechtliches Parken der Lieferanten auf Fuß- oder Radweg; Antrag der CSU-Fraktion vom 18.02.13 (vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.2.: Stärkere Frequenz der Buslinie 139 auf der Naupliastraße; Antrag der CSU-Fraktion vom 28.02.13 - <div>nach Antrag</div>
+- TOP 3.3.: Gestaltung der Lärmschutzwände in Untergiesing - Dringlichkeitsantrag - <div>nach Antrag</div>
+- TOP 3.4.: Antrag auf Bepflanzung des Hanges am Hans-Mielich-Platz - <div>nach Antrag</div>
+- TOP 3.1.: Fahrbahnsanierung Bruggspergerstraße zwischen Tegelbergstraße u. Theodolindenstraße (Erinnerungsverfahren); Zuleitung des Baureferats vom 07.02.13 mit der Bitte um Stellungnahme
+- TOP 3.2.: Geiselgasteigstraße - Radweg zwischen Theodolindenplatz und Holzkirchner Straße; Zuleitung des Baureferats (Erinnerungsverfahren) mit der Bitte um Stellungnahme
+- TOP 3.3.: 30 km/h Geschwindigkeitsbeschränkung im Kurvenbereich der Unterführung Teutoburger Straße / Sachsenstraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 22.02.13 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.4.: Umgestaltung des Parkplatzes am Candidplatz zum Park&Ride-Parkplatz; Empfehlung Nr. 08-14 / E 01563 der BÜV vom 08.11.12; Anhörung des Referats für Stadtplanung u. Bauordnung vom 26.02.13 zum Entwurf der Beschlussvorlage mit der Bitte um Stellungnahme bis 10.04.13
+- TOP 3.1.: Verkehrssicherheit / Schulwegsicherheit am Hans-Mielich-Platz; Bürgerschreiben vom 05.09.12; Antwortschreiben des KVR vom 18.02.13 (Punkt 1 u. 2 - positive Erledigung, Punkte 3 bis 6 - negative Erledigung)
+- TOP 3.2.: Verengung der Fahrbahn in der Teutoburger Straße / Sachsenstraße in der Bahnunterführung an der Braunauer Eisenbahnbrücke; BA-Antrag Nr. 08-14 / B 04308 vom 16.10.12; Nachfrage des BA 18 aus der Sitzung vom 15.01.13; Antwort des Baureferats vom 22.02.13 (negative Erledigung)
+- TOP 3.3.: Planungsstopp für den Autobahn-Südring; BA-Antrag Nr. 08-14 / B 04390 vom 20.11.12; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 21.02.13 (positive Erledigung)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Anfrage zum Rückgang des Baumbestandes / der Zunahme der Versiegelung im Gartenstadtgebiet Harlaching; Antrag der CSU-Fraktion vom 18.02.13 (vertagt aus der Sitzung vom 19.02.13) - <div>nach Antrag</div>
+- TOP 3.3.: Heckenrückschnitt für eine gefahrlose Nutzung der Gehwege; Antrag der CSU-Fraktion vom 18.02.13 (vertagt aus der Februar-Sitzung) - <div>nach Antrag</div>
+- TOP 3.2.: Schmorellplatz - Aufstellung eines Mülleimers außerhalb des umzäunten Spielplatzbereiches; Antrag der CSU-Fraktion vom 18.02.13 (vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.4.: Sofortiger einstweiliger Baustopp am Isarberg - Marienklause und umfassende Aufklärung des BA 18 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 3.1.: Geringerer Schadstoffausstoß an Fahrzeugen durch das Versetzen der Zeitungsständer am St.-Quirin-Platz; Bürgerschreiben vom 25.10.12; Antwortschreiben der BI Süd vom 22.02.13 (positive Erledigung)
+- TOP 3.2.: BV Griechenplatz 13 / Langobardenstraße 5 u. 8; Anfrage des BA 18 zum Bußgeldverfahren aufgrund Baumfällung u. Einladung zur Februar-Sitzung; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 14.02.13 (negative Erledigung - vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Alois-Wohlmuth-Str. 25; Bescheid vom 25.02.13
+- TOP 3.3.4: UA Soziales
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Heimag-Siedlung im 18. Stadtbezirk; Anfrage an die LHM; Antrag der CSU-Fraktion vom 19.02.13 (vertagt aus der Sitzung vom 19.02.2013) zu TOP 3.5.3.1 Zukunft der HEIMAG Wohnungen in der Ehlersstraße 2-22 und Säbener Straße 179-193; Stadtratsantrag der CSU-Fraktion vom 26.02.13 mit der Bitte um Kenntnisnahme - <div>nach Antrag</div>
+- TOP 3.1.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städt. Altkleidercontainer im 18. Stadtbezirk; Schreiben des AWM vom 07.02.13 mit der Bitte um Stellungnahme zu den Standorten Gerhardstraße (Parkplatz), Griechenplatz / Griechenstraße, Karolingerallee, Sachsenstraße, Schlehdorferstraße (Holzlager) u. Wettersteinplatz bis zur 10. KW (Fristverlängerung beantragt - vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.2.: Standortkonzept Bürgerbüros; Anhörung nach § 13 der BA-Satzung; Schreiben des KVR vom 06.02.13 mit der Bitte um Stellungnahme innerhalb von 6 Wochen zum Beschlussentwurf (vertagt aus der Sitzung vom 19.02.13 - Fristverlängerung beantragt)
+- TOP 3.3.: Zukunft der HEIMAG-Wohnungen in der Ehlersstraße 2-22 und Säbener Straße 179-193 1. Der Stadtrat fordert die HEIMAG auf, von den Plänen zum Abriss ihrer Wohnanlage an der Säbener Straße und Ehlersstraße in Harlaching dauerhaft Abstand zu nehmen. 2. Die HEIMAG wird außerdem aufgefordert, die Unterlagen oder Gutachten, die ihr als Grundlage für die Abrisspläne dienen, offenzulegen. Empfehlung Nr. 08-14 / E 01552 der BÜV des 18. Stadtbezirkes vom 08.11.2012; Zuleitung des Referats für Stadtpl. u. Bauordnung vom 27.02.13 mit der Bitte um Stellungnahme zum Beschlussentwurf bis 22.04.13
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Ludmillastraße 26; Nutzungsänderung: Kleiderfabrik in ein Bürogebäude mit baulichen Änderungen und Neubau einer TG; Anhörung vom 12.02.13 (vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.2.: Grünwalder Str. 190; Neubau eines Wohnhauses mit Läden, Büros + TG - VORBESCHEID; Anhörung vom17.01.13 (vertagt aus der Sitzung vom 19.02.13)
+- TOP 3.3.: Obere Weidenstraße; Neubau einer Wohnanlage mit Tiefgarage; Anhörung vom 28.02.13
+- TOP 3.4.: Autharistraße 26; Erweiterung einer Doppelhaushälfte; Anhörung vom 21.02.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Verbleib des Obst- und Gemüsestands Ecke Nauplia-/St.-Magnus-Str. an seinem Standort auch über Nacht; Beschluss des BA 18 vom 16.10.12; Antwortschreiben der BI Süd vom 09.11.12 und Antwortschreiben der BI Süd zur BÜV-Anfrage Nr. 08-14 / Q 00428 vom 08.11.12 vom 03.12.12 (negative Erledigung ? vertagt aus der Sitzung vom 18.12.12 und 15.01.13)
+- TOP 3.2.: Stadion an der Grünwalder Straße; Anfrage zur gastronomischen Nutzung der "VIP-Lounge"; Bürgerschreiben vom 26.11.12; Antwortschreiben des RBS vom 27.02.13 (neutrale Erledigung)
+- TOP 3.3.: Kindergarten-Erweiterung des Vereins Karl & Liesl e.V. in der Kühbachstraße; BA-Antrag Nr. 08-14 / B 04066 vp, 19.06.12; Anfrage zur beantragten Freiflächenprüfung; Antwortschreiben des RBS vom 05.03.13 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Oberbiberger Straße; Mitteilung vom 19.02.13
+- TOP 3.3.: Erweiterung der BA-Vertretung in Wettbewerben; BA-Antrags-Nr. 08-14 / B 03849 des BA 5 vom 28.03.12; Sitzungsvorlage Nr. 08-14 / V 11083; Beschluss des Verwaltungs- u. Personalausschusses in der Sitzung vom 20.02.13 (VB)
+- TOP 3.4.: Aktueller Sachstand Stadionwirtschaft im Grünwalder Stadion; Antrag der SPD-Stadtratsfraktion vom 19.02.2013 zur Kenntnisnahme
+- TOP 3.5.: Wohnungen für Auszubildende und Studierende - Wohngemeinschaften für Auszubildende im kommunalen Wohnungsbaubestand fördern; Stadtratsantrag Nr. 08-14 / A 02260 vom 02.03.11 - Ausreichend und finanzierbare Unterkünfte für Azubis und Studierende! Stadtratsantrag Nr. 08-14 / A 02799 vom 06.10.11; Sitzungsvorlage Nr. 08-14 / V 11131; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 13.03.13 (SB)
+- TOP 3.6.: OB-Kandidat Reiters "Wunschlisten": Hochhauskonzepte und Verkehrskonzept - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 1 Hochhauskonzepte gegen Wohnungsnot und Mietpreisexplosion; Antrag Nr. 08-14 / A 03595 der FW vom 13.08.12 - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 2; Integrales Verkehrskonzept für Kraftfahrer, Radfahrer, Fußgänger und ÖPNV - gegen Stau, Fahrradunfälle, Lärm, Abgase u. Feinstaub; Antrag Nr. 08-14 / A 03596 der FW vom 13.08.12; Sitzungsvorlagen Nr. 08-14 / V 11276; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 13.03.13 (SB)
+- TOP 3.1.: Neubau der Turnhalle Theodolindengymnasium, Am Staudengarten 2; Verkehrsgutachten und schalltechnische Verträglichkeitsuntersuchung gegen Rückgabe an das RBS, Stellplatzberechnung
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.10; Abhalten eines Flohmarktes am 21.04.13 (Ersatztermin: 28.04.13) auf dem Hans-Mielich-Platz; Zuleitung des KVR vom 20.02.13; Beschluss des BA 18 vom 19.03.13 - siehe auch TOP 3.6.4.2
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: 43. Deutsch-Amerikanische Wandertage am 29.06. und 30.06.13; Startpunkt: Rotbuchenstraße 81; Zuleitung des KVR vom 19.02.13 mit der Bitte um Stellungnahme bis 24.04.13
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Flohmarkt am 21.04.13 (Ersatztermin: 28.04.13) auf dem Hans-Mielich-Platz; Zuleitung des KVR vom 15.02.13 mit der Bitte um Stellungnahme bis 22.03.13 - siehe auch TOP 3.6.2.1
+- TOP 3.3.: stadteigenes Flurstück 12683/7, Gemarkung München, Sektion VII, Candidplatz, 18. Stadtbezirk - Nachbarschaftsfest des MIB e.V. vom 25.03.13 bis 04.04.13; Zuleitung des Kommunalreferats vom 01.03.13 mit der Bitte um Stellungnahme
+- TOP 3.1.: Kunstwerk der Freunde des Sechzger Stadions am Hans-Mielich-Platz - Stellplatz am Stadion an der Grünwalder Straße; BA-Antrag Nr. 08-14 / B 04193 der CSU-Fraktion vom 21.08.12; Antwortschreiben des Baureferats vom 11.02.13 mit der Bitte um Stellungnahme zum Vorschlag
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mittelfristige Finanzplanung 2012 - 2016; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2013 bis 2017; Schreiben der Stadtkämmerei vom 18.02.13 mit der Bitte um Stellungnahme bis 12.04.13
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Aufruf der Bezirksausschüsse 2, 6 und 19 für eine Kundgebung gegen Rassismus auf dem Marienplatz am Samstag, den 23.03.13, 13.00 Uhr
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: AntragstellerIn: Verein zur Förderung der Festkultur in Giesing und Harlaching e.V., für die Maßnahme: Beschaffung eines Holzbodens für Zelte; Antragssumme: 7.849,62 ?; Beschlussvorlage des Direktoriums vom 26.02.13
+- TOP 3.2.: AntragstellerIn: Bürgervereinigung Maibaum-Untergiesing e.V., für die Maßnahme: Fest zum 01.05.2013; Antragssumme: 1.990,00 ?; Beschlussvorlage des Direktoriums vom 01.03.13
+- TOP 3.3.: AntragstellerIn: Johanniter-Unfall-Hilfe e.V., für die Maßnahme: Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013; Antragssumme: 1.950,00 ?; Beschlussvorlage des Direktoriums vom 06.03.13
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
