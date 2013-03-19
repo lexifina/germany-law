@@ -1,0 +1,58 @@
+# Stadtrat (26. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-03-19T17:00:00+01:00
+- Ende: 2013-03-19T20:23:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdYBMrS2h9dQ19pKmecUdx8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14538
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVeVe5yf6ThVG70Vspu-oo3FHQfLKQigcS3CIrN-LolW/Bekanntmachung_Stadtrat_19.03.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZa31fS625D9bwjY5Txk2ghXI4UDFO4ZWAFyskHbcV3AT/Oeffentliche_Niederschrift_Stadtrat_19.03.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Korrektur der Niederschrift der Sitzung des Stadtrates am 15.01.2013 hier: Antrag der BBK/UWK-Fraktion
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Neuwahl der Delegierten der Stadt Kerpen für den Erftverband - (kein Text vorhanden)
+- TOP 3.2: Umbesetzung des Umweltausschusses hier: Antrag der CDU-Fraktion
+- TOP 3.3: Umbesetzung des Ausschusses für Sport, Freizeit und Kulturhier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 10. Änderung der Vergabeordnung der Stadt Kerpen
+- TOP 4.2: 5. Satzung zur Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen
+- TOP 4.3: Änderung der Benutzungs- und Entgeltsatzung für die offenen Ganztagsschulen im Stadtgebiet Kerpen hier: Erhöhung der Elternbeiträge
+- TOP 4.4: 4. Änderung der Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen
+- TOP 4.5: Baumschutzsatzung der Stadt Kerpen Änderung der Satzung zum Schutz des Baumbestandes der Stadt Kerpen
+- TOP 5.: Haushaltssatzung für die Haushaltsjahre 2013/2014 einschließlich des Stellenplanes
+- TOP 5.1: Stellenplan 2013: Einrichtung von 1,5 zusätzlichen Stellen für den Bereich Leistungen nach dem SGB XII (Grundsicherung im Alter etc.)
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 6.2: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Beschluss zur Offenlage gem § 3 (2) BauGB
+- TOP 6.3: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg", hier: Abschluss eines Erschließungsvertrages
+- TOP 6.4: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Wirksamkeitsbeschluss
+- TOP 6.5: Bebauungsplan BL 341 "Verkehrsspange K55/B477n", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 6.6: Vorhabenbezogener Bebauungsplan SI Nr. 255 "Nahversorgungszentrum Sindorf-Nord", hier: a. Wechsel des Vorhabenträgers und b. Abschluss des 1. Änderungsvertrages zum Durchführungsvertrag vom 16.05.2006
+- TOP 6.7: Bebauungsplan SI 346 "Wohnanlage Breite Straße/Hüttenstraße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.8: Gewerbeflächenentwicklungskonzept Rhein - Erft, hier: Stellungnahme der Stadt Kerpen
+- TOP 7.: Anbau einer u3-Gruppe an die Kindertagestätte "Erftpiraten", Horrem; hier: Generalunternehmer-Ausschreibung
+- TOP 8.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen IV. Quartal 2012
+- TOP 9.: Bekanntgabe der in der Zeit vom 01.10. bis 31.12.2012 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Anpassung der Beförderungspraxis der Stadt Kerpen
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 13.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Vertrag zur Entschädigung der soz. Infrastruktur in Manheim-alt
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.1: Antrag auf Anrechnung von Vordienstzeiten auf die ruhegehaltsfähigen Dienstzeiten
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 18.: Mitteilungen
+- TOP 19.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
