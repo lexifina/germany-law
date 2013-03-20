@@ -1,0 +1,85 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-03-20T17:10:00+01:00
+- Ende: 2013-03-20T22:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1936
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1936
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlage zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - beantwortet
+- TOP 3: Dringlichkeiten - erledigt
+- TOP 4: Geschäftliches - erledigt
+- TOP 5: Der Bürgermeister hat das Wort - erledigt
+- TOP 6: Entschließungen - erledigt
+- TOP 6.1: Energievolksbegehren unterstützen - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 7.3: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 7.4: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.5: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.6: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bürgerdienste - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Vorschlagsliste für die Wahl der Schöffen für die Jahre 2014 bis 2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Nachrücken eines stellvertretenen Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Hörberatungsstelle Neukölln - beantwortet
+- TOP 10.2: Verkehrszählung an der Straßenkreuzung Buckower Damm/Alt-Buckow - beantwortet
+- TOP 10.3: Kindergeld für Migranten nur bei Schulbesuch? - beantwortet
+- TOP 10.4: Stadtvillen mit Sozialwohnungen? - beantwortet
+- TOP 10.5: Politische Straftaten - beantwortet
+- TOP 10.6: Verteilung der sogenannten Schulhof-CD - beantwortet
+- TOP 10.7: Poller auf öffentlichem Straßenland - beantwortet
+- TOP 10.8: Sprachdefizite bei der Einschulung - beantwortet
+- TOP 10.9: Verkehrserschließung Tempelhofer Freiheit - beantwortet
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Kinderärztliche Versorgung auch an Feiertagen gewährleisten - beantwortet
+- TOP 11.2: Beschwerdeverzicht (Urteil des Verwaltungsgerichts Berlin VG L 26412) - in der BVV zurückgezogen
+- TOP 11.3: Multilinguale Internetkompetenz - in der BVV abgelehnt
+- TOP 11.4: Tourismuspolitischer Ratschlag - in der BVV abgelehnt
+- TOP 11.5: Unzureichende Leistungen zur Eingliederung? - beantwortet
+- TOP 11.6: Maßnahmen gegen funktionalen Analphabetismus in Neukölln - beantwortet
+- TOP 11.7: Bebauung Tempelhofer Feld - vertagt
+- TOP 11.8: Nebentätigkeiten von Bezirksamtsmitgliedern - vertagt
+- TOP 11.9: Neukölln aktiv gegen Lärm? - vertagt
+- TOP 11.10: 16,8 Mio. Euro nicht für Neukölln verwendet - beantwortet
+- TOP 11.11: Werben für den Kriegseinsatz - vertagt
+- TOP 11.12: Bebauung Tempelhofer Feld - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Erhalt der Jugendverkehrsschule am Hasenhegerweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Nachhaltige Energie- und Klimapolitik in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Strategie Stadtlandschaft - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Begrenzung der Mieterhöhungen in Neukölln - vertagt
+- TOP 12.5: Aufstellung einer mobilen Geschwindigkeitsmessanlage - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Leerstand im Seniorenwohnhaus Harz - vertagt
+- TOP 13.2: Vorfälle mit rechtsextremistischem Hintergrund in Neukölln 2012 - vertagt
+- TOP 13.3: Schlüsse aus Gesundheitsbericht - vertagt
+- TOP 13.4: Keine Bebauung des Tempelhofer Feldes - vertagt
+- TOP 13.5: Miet- statt Ferienwohnungen - vertagt
+- TOP 13.6: Qualitätsverbesserung des Schulessens - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Sport-Campus auf der Tempelhofer Freiheit - überwiesen
+- TOP 15.2: Neuköllner Register einführen - überwiesen
+- TOP 15.3: Altglascontainer Braunschweiger Straße/Schudomastraße - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Umwandlung in Ferienwohnungen versagen - überwiesen
+- TOP 15.5: Schulessen soll bezahlbar bleiben - überwiesen
+- TOP 16: Mitteilungen - (offen)
+- TOP 16.1: Querungshilfe Hermannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.2: Durchfahrt für Fahrzeuge durch den Ehrenpreisweg auf 3,5 t - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.3: Intensive begleitende Sprachförderung in den sechsten Klassen der Neuköllner Grundschulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Bevölkerung bei der "Schweinegrippe" nicht im Stich lassen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Verbesserung der notärztlichen Versorgung von Kindern in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Pflegestützpunkt in Süd-Neukölln - mit Abschlussbericht zur Kenntnis genommen
