@@ -1,0 +1,80 @@
+# 16. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-03-20T17:00:00+01:00
+- Ende: 2013-03-20T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2571
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2571
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Bundeswehr immer noch in unseren Schulen? - beantwortet
+- TOP 3.2: Kapitel 4211 / Hochbau - beantwortet
+- TOP 3.3: Frauen- und Mädchenzentrum in 2013? - beantwortet
+- TOP 3.4: Onkel Toms Kiezhütte - beantwortet
+- TOP 3.5: Girls'Day 2013 - beantwortet
+- TOP 3.6: Sicherung der Schulgebäude vor Schulfremden - beantwortet
+- TOP 3.7: Katastrophenschutz Reaktor Wannsee - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl von sieben Beisitzern für den Schöffenwahlausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Freundeskreis der Musikschule Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für das Saiten-Ensemble Steglitz e. V. (SES) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Fortschreibung der Bezirkshaushaltsplanung 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Engstelle auf dem Mauerweg beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Genossenschaftlicher Wohnungsbau und Baugruppen unterstützen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Wiederherstellung Badestellen Krumme Lanke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Am S-Bahnhof Lichterfelde-Süd Fahrradabstellplätze schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Stadtbäume für Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Unterhalt Welterbe sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Toilettenanlage U-Bahnhof Onkel-Toms-Hütte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Ambrosia-Bekämpfung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: AFN - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Nachnutzung der Dahlemer Museen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Spiegel Kreuzung Mühlenstraße/Prinz-Handjery-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Anwohnerfreundliche Halteverbote - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Berliner Leberring e. V. unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Nachtruhe in der Klingsorstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Nachtruhe auch vor der Siemensbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Straßenquerung vor KiTA in der Mittelstraße sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Freie Kitaplätze veröffentlichen - überwiesen
+- TOP 5.1.2: Namensstreit Treitschkestraße lösen - überwiesen
+- TOP 5.1.3: Fußgänger-LZA Albrechtstraße Nr. 109/Ecke Breite Straße - überwiesen
+- TOP 5.1.4: Unterkünfte für Flüchtlinge akquirieren - überwiesen
+- TOP 5.1.5: Bezirkliche Sportstätten online besser präsentieren - überwiesen
+- TOP 5.1.6: Gelbe Säcke - überwiesen
+- TOP 5.1.7: Bushaltestellen Machnower Straße/Sachtlebenstraße - überwiesen
+- TOP 5.1.8: Modernes Bürgeramt - Kundenservice verbessern - überwiesen
+- TOP 5.1.9: Zum "Equal Pay Day" über seine Bedeutung informieren - überwiesen
+- TOP 5.1.10: Tempo 50 auf der Clayallee - überwiesen
+- TOP 5.1.11: Informationspflicht über Lichtsignalanlagen und Zebrastreifen - überwiesen
+- TOP 5.1.12: Gedenkstätte im "Boulevard Berlin" - überwiesen
+- TOP 5.1.13: Gewerbe in Zehlendorf stärken - überwiesen
+- TOP 5.1.14: "Kurze Beine - kurze Wege" auch für Lichterfelde! - überwiesen
+- TOP 5.1.15: Aufnahme des Oskar-Helene-Heims in das bezirkliche Programm zur Erinnerungskultur - überwiesen
+- TOP 5.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.2.1: Notunterkünfte für Frauen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 6.1.1: Schwarz-Grün missachtet die Rechte des Jugendhilfeausschusses - beantwortet
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Bevölkerungswachstum in Steglitz-Zehlendorf - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Griechisches Kulturzentrum unterstützen - zurückgezogen
+- TOP 8.2: Änderung der Geschäftsordnung "Audioaufzeichnung" - in der BVV abgelehnt
+- TOP 9: Schlusswort des Vorstehers - erledigt
