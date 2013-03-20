@@ -1,0 +1,6 @@
+# TOP 3.: Wirtschaftspläne für das Jahr 2013 hier: Beratung und Beschlussempfehlung an den Gemeinderat
+
+- Sitzung: Betriebsausschuss Immobilien und Gebäudemanagement (11. Sitzung) (2013-03-20)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/8091
