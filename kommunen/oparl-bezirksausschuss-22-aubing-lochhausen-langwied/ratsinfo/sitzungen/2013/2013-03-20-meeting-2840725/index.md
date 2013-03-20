@@ -1,0 +1,112 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2013-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Vorstellung von Projekten in Aubing durch die Park & Ride Gesellschaft
+- TOP 1.1.6: Vorstellung des Netzwerks REGSAM
+- TOP 1.1.7: Vorstellung des aktuellen Projektstands Bebauungsplan Nr. 1998a durch Aurelis Re
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Hortsituation Lochhausen
+- TOP 2.2.: Hundekot - z.B. auf dem Aubinger Geschichtspfad
+- TOP 2.3.: Bus-Anschlussverbindung zur neuen Bushaltestelle in München-Freiham
+- TOP 2.4.: Verkauf des Ladenzentrums neben dem "Ramses" und Abriss/Neubau
+- TOP 2.5.: Lebensmittelgeschäft für Lochhausen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Altostr. 15 a - Rimparstr. 8 - Varnhagenstr. 43 - Am Langwieder Bach 11 - Altostr. 66c - Riesenburgstr. 50 - Ubostr. 3 - Bodenseestr. 294 - Veldensteinstr. 7 - Hohenesterstr. 8
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Allinger Str. 21 - Gotzmannstr. 25
+- TOP 3.3.: Fällung von Gefahrenbäumen: Kindergarten Colmdorfstr. 46, Schr. Baureferat vom 04.02.13
+- TOP 3.4.: Fällungsgenehmigung: - Bodenseestr. 294 - Hohenesterstr. 8
+- TOP 3.5.: Ablehnungsbescheid für Baumfällung: Rohrsängerplatz 1
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Mieterbeirat
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: U5 nach Pasing (vertagt aus 02/13)
+- TOP 4.2.: S4 Ausbau (technisch, zeitlich, Alternativen und Taktfolge) (vertagt aus 02/13)
+- TOP 4.3.: 2. Stammstreckentunnel (vertagt aus 02/13)
+- TOP 4.4.: Verlängerung der Buslinie 143 von der Kunreuthstraße bis Bahnhof Freiham und zum Gewerbegebiet (vertagt aus 02/13)
+- TOP 4.5.: Tempo-30-Limit auf der Limesstraße
+- TOP 4.6.: Baustellenlogistik Gleisharfe (Bebauungsplan Nr. 1998 b)
+- TOP 4.7.: Geothermie Freiham, was nun?
+- TOP 4.8.: Spielhallen - Mindestabstand
+- TOP 4.9.: Tag der Familie am 03.05.13 - Übernahme der Kosten für künstlerische Einlagen
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse: Johanniter-Unfall-Hilfe e.V. Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung in einer städt. Grünanlage: Dorffest mit hl. Messe, Blasmusik und Trachtentänze am Waidachanger 7a, Alprichstraße am 01.05.13, Anhörung KVR vom 27.02.13
+- TOP 6.2.: Aufruf zum Aufstehen der Münchener Bezirksausschüsse gegen Rassismus, Schr. BA 2, BA 6 und BA 19 vom 20.02.13
+- TOP 6.3.: Seniorenwohnheim Alt-Aubing: Betreutes Wohnen der AWO in Aubing, Förderung der Küche und Einrichtung für den Gemeinschaftsraum aus der nichtrechtsfähigen Stiftung "Fonds München Altenhilfe" i.H. von 21.500 Euro, Anhörung Sozialreferat vom 07.03.13
+- TOP 6.1.: Zuschüsse für Kinderbetreuung an der Waldorfschule in Gröbenzell, Schr. Referat für Bildung und Sport vom 18.02.13
+- TOP 6.2.: Schülerzahlen Realschulen (BA-Antrag Nr. 3961/22.), Schr. Referat für Bildung und Sport vom 19.02.13
+- TOP 6.3.: Betreutes Wohnen in Aubing, Schr. Sozialreferat vom 22.02.13
+- TOP 6.4.: Veranstaltungen / Kooperationen im März 2013, Schr. Kulturreferat vom 01.03.13
+- TOP 6.5.: Fragenkatalog zu Konflikten im öffentlichen Raum, Schr. Sozialreferat vom 14.02.13
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendungsbescheid aus dem Budget des BA 22: Bayer. Rotes Kreuz, KV-München, Bereitschaft West 3 Aubing, Schr. Direktorium vom 28.02.13
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Neueinrichtung Taxistandplatz Clarita-Bernhard-Straße - verkehrsrechtliche Anordnung, Schr. KVR vom 24.01.13
+- TOP 6.2.: Mitteilung über Grundstücksverkäufe: - Nähe Hörweg, Schr. Kommunalreferat vom 29.01.13 - Germeringer Weg, Schr. Kommunalreferat vom 29.01.13
+- TOP 6.3.: Baumaßnahmen der Stadtwerke München: Stromprojekt Centa-Hafenbrädl-Str., Schr. SWM vom 26.02.13
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Erhalt der Grünflächen in Neuaubing, keine Nachverdichtung, Anhörung Planungsreferat vom 06.02.13 (vertagt aus 02/13)
+- TOP 6.2.: Fahrbahndeckensanierung am Ravensburger Ring, Anhörung Baureferat vom 20.02.13
+- TOP 6.3.: Gotzmannstr. 19 - Bauliche Veränderungen zur Erfüllung des vorbeugenden Brandschutzes hinsichtlich der Rettungs- und Fluchtwege im Bestand (Schulgebäude Alt- und Erweiterungsbau und der alten und neuen Turnhalle), Anhörung Planungsreferat vom 28.02.13
+- TOP 6.4.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städt. Altkleidercontainer, Anhörung Abfallwirtschaftsbetrieb München vom 28.02.13
+- TOP 6.5.: Stockacher Straße - Neubau Boarding House, Pflegeheim oder Betreutes Wohnen, Anhörung Planungsreferat vom 05.03.13
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 04.02.-10.02.13, 11.02.-17.02.13, 18.02.-24.02.13, 25.02.-03.03.13), Schr. Planungsreferat vom 11.02.13, 18.02.13, 25.02.13, 05.03.13
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 11.02.13, 18.02.13, 25.02.13, 04.03.13
+- TOP 6.3.: Schutz der Grünflächen am Eingang der Bezirkssportanlage Kastelburgstraße, Schr. Baureferat vom 18.02.13
+- TOP 6.4.: Lkw-Parkverstöße in der Wildenrother Straße, Schr. KVR vom 06.02.13
+- TOP 6.5.: Zustand der Fußgängerunterführung Bodensee-/Limesstraße - Sauberkeit und Wandgemälde, Schr. Baureferat vom 11.02.13
+- TOP 6.6.: Müllcontainer - verstreuter Plastikmüll, Schr. Abfallwirtschaftsbetrieb München vom 15.02.13
+- TOP 6.7.: Defekte Treppenstufen zu Edeka-Einkaufszentrum an der Bodensee-/Limesstraße, Schr. Baureferat vom 05.02.13
+- TOP 6.8.: Kneippanlagen an der Lohwiese; Kinderspielplatz Altostraße / südlich Grabenfleckstraße, Schr. Baureferat vom 22.01.13
+- TOP 6.9.: Anbringung von Pfeilen für Linksabbieger an der Stockacher Straße, Schr. KVR vom 05.02.13
+- TOP 6.10.: Straßenerneuerung nach Vollendung der Bauprojekte, Schr. Baureferat vom 04.02.13
+- TOP 6.11.: Frühzeitige Einbeziehung des BA 22 bei Vorplanungen, die den 22. Stadtbezirk betreffen, Schr. Baureferat vom 27.02.13
+- TOP 6.12.: Beschilderung des Radweges entlang Eschenrieder Straße und Kreuzkapellenstraße, Schr. KVR vom 14.01.13
+- TOP 6.13.: Transportbetonanlage in der Bergsonstr. 106 - Einhaltung der Sondergenehmigung für Fahrten der Betonmischfahrzeugen im Ortsbereich Aubing, Schr. Planungsreferat vom 25.02.13
+- TOP 6.14.: Baumaßnahme der Stadtwerke München: Stromprojekt Noderstraße, Schr. SWM vom 18.02.13
+- TOP 6.15.: Beteiligung der Öffentlichkeit - Frühzeitige Unterrichtung, Plandarlegung: - Bebauungsplan Nr. 2060, Schr. Planungsreferat vom 08.03.13 - Bebauungsplan Nr. 1998 b, Schr. Planungsreferat vom 07.03.13
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Standortkonzept Bürgerbüros, Anhörung KVR vom 06.02.13 (vertagt aus 02/13)
+- TOP 7.2.: Mittelfristige Finanzplanung 2012 - 2016; Mehjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2013 bis 2017, Anhörung Stadtkämmerei vom 18.02.13
+- TOP 7.3.: Eschenrieder Straße / Radweg Langwied - Absicherung mit Baumstämmen bzw. Aufstellung von Haltverbotsschildern, Anhörung KVR vom 13.03.13
+- TOP 7.4.: Wahlen 2013/2014 - Änderung der Stimmbezirkseinteilung, Anhörung KVR vom 13.03.13
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Wirtschafts-Info 02/2013, Schr. Referat für Arbeit und Wirtschaft vom 28.02.13
+- TOP 8.2.: Zweckentfremdung von Wohnraum: Solnhofener Straße, Schr. Sozialreferat vom 07.02.13
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 23.01.13: Vielfältige Möglichkeiten zur Bürgerbeteiligung darstellen; Bürgerbeteiligungen für den Bereich des Referates für Stadtplanung und Bauordnung (geänderter Beschluss)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.13: - Wohnungen für Auszubildende und Studierende - OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept
+- TOP 10.3.: Beschluss des Bauausschusses vom 19.02.13: - Freiham - Öffentliche Grün- und Ausgleichsflächen; Bebauungsplan mit Grünordnung Nr. 1916a, Bauteil 2: Ausgleichsflächen - Gewerbegebiet Freiham Süd - Aubinger Straße; Instandsetzung der Straßenunterführung unter der DB-Strecke München-Garmisch-Partenkirchen
+- TOP 10.4.: Beschluss des Verwaltungs- und Personalausschusses vom 20.02.13: Erweiterung der BA-Vertretung in Wettbewerben
+- TOP 10.5.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.03.13: Gestaltung öffentlicher Flächen südlich des S-Bahnhaltepunktes München-Freiham
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Resolution zur Münchner Trinkwasserversorgung, Schr. BA 7 vom 07.02.13
+- TOP 11.2.: Baumfällungen auf öffentlichen Grund, Schr. BA 12 vom 09.02.13
+- TOP 11.3.: Fassadenwettbewerb Brauerei Paulaner: Ausstellung der Pläne im ASZ, Am Aubinger Wasserturm 30 vom 08.-22.03.13, jeweils Montag bis Donnerstag von 9-16.30 Uhr, Freitags von 9-14 Uhr
+- TOP 11.4.: Einladung zur 4. Informationsveranstaltung zum Thema "Jugendbeteiligung" am 25.04.13 um 18 Uhr im LesBisSchwules Jugendzentrum, Blumenstr. 11, Schr. Sozialreferat vom 27.02.13
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
