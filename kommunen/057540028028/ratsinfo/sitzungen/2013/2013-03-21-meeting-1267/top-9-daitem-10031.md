@@ -1,0 +1,7 @@
+# TOP 9: Bekanntgabe der jährlichen Flächenbilanz der zu pflegenden öffentlichen Grünflächen im Stadtgebiet
+
+- Sitzung: Bau-, Planungs-, Umwelt- und Verkehrsausschuss (33. Sitzung) (2013-03-21)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/10031
+- Ergebnis: Kenntnisnahme
