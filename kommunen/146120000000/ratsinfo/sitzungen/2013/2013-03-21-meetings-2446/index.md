@@ -1,0 +1,52 @@
+# 52. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-03-21T16:00:00+01:00
+- Ende: 2013-03-21T21:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2446
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2446
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_03_21 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00125935.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Haushaltsjahr 2012 - erledigt
+- TOP 3.2: Sachstand Gründung Dresdner Bäder GmbH - erledigt
+- TOP 3.3: Fußwegesanierung in Dresden - erledigt
+- TOP 3.4: Unterstützung für die Laubegaster Werft - erledigt
+- TOP 3.5: Auslagerung der Kita auf der Hauptstraße 18a - erledigt
+- TOP 3.6: Erstattung der Mehraufwendungen für das gemeinschaftliche Mittagessen im Hort während der Schulferien an Berechtigte für das Bildungs- und Teilhabepaket - erledigt
+- TOP 3.7: Livestreaming von Stadtrassitzungen - erledigt
+- TOP 3.8: Opferschutz - erledigt
+- TOP 3.9: Albertbrücke - erledigt
+- TOP 3.10: Zuschüsse an städtische Gesellschaften - erledigt
+- TOP 3.11: Straßenschäden und Schlaglochalarm in Dresden - erledigt
+- TOP 3.12: Neubauvorhaben der Kita auf der Hauptstraße 26a - erledigt
+- TOP 3.13: Grundstück der Ostsächsischen Sparkasse Dresden - erledigt
+- TOP 3.14: Zuwendungsbericht - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Ortsbeirat Altstadt - zurückgezogen
+- TOP 6: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2013 - Zustimmung mit Änderung
+- TOP 7: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2013 - Zustimmung mit Änderung
+- TOP 8: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 9: Bebauungsplan Nr. 397, Dresden-Blasewitz Nr. 5, Elbeparkplatz - Zustimmung
+- TOP 10: Bebauungsplan Nr. 396, Dresden-Loschwitz Nr. 21, Elbeparkplatz - Zustimmung
+- TOP 11: Breitbandstrategie für Dresden - Zustimmung mit Änderung
+- TOP 12: Livestreaming von Stadtratssitzungen - Verweisung
+- TOP 13: Bauliche Erweiterung des Gymnasium Dresden-Bühlau, Quohrener Straße 12, 01324 Dresden - Zustimmung mit Änderung
+- TOP 14: Entwicklung eines Schulstandortes in Dresden-Tolkewitz für die 32. Mittelschule und das Gymnasium Tolkewitz - Zustimmung
+- TOP 15: Gesamtsanierung und Erweiterung der 56, Mittelschule "Am Trachenberg", Cottbuser Straße 34 in 01129 Dresden - Zustimmung mit Änderung
+- TOP 16: Neubau eines Erweiterungsgebäudes sowie einer Einfeldschulsporthalle für die 70. Grundschule „An der Südhöhe“, Südhöhe 31 in 01219 Dresden - Zustimmung
+- TOP 17: Verkauf Neumarkt, Q VI - punktweise Zustimmung
+- TOP 18: Richtlinie der Landeshauptstadt Dresden zur Förderung von Großveranstaltungen - Zustimmung
+- TOP 19: Errichtung eines Wohnheimes für besondere Bedarfsgruppen als öffentliche Einrichtung im Objekt "Zur Wetterwarte 34" in 01109 Dresden - punktweise Abstimmung
+- TOP 20: Gewährung eines Mobilitätszuschusses im Rahmen des Dresden-Passes - Zustimmung
+- TOP 21: Bebauungsplan Nr. 224.1, Dresden-Gompitz Nr. 3, Alte Gärtnereien - Zustimmung
+- TOP 22: Bebauungsplan Nr. 216, Dresden-Langebrück Nr. 2, Wohngebiet "An der Heide" - Zustimmung mit Ergänzung
+- TOP 23: Workshop zum Thema „Schulbau“ - Ablehnung
