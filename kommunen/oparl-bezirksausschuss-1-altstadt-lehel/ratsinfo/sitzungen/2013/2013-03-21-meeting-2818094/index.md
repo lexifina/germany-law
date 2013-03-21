@@ -1,0 +1,88 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-03-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Haltung der Fraktionen zu einer Informationsveranstaltung zum Bauvorhaben Oettingenstraße 6 - 8
+- TOP .1.: Verlegung der Baugrenze in die Straßenmitte der Corneliusstraße; Empfehlung Nr. 08-14 / E 01661 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 27.11.2012
+- TOP .2.: Bebauung des Radspielergartens Empfehlung Nr. 08-14 / E 01654 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 27.11.2012
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Altheimer Eck 1: Nutzungsänderung Erdgeschoss: Wohnräume und Verkaufsraum zu Laden/Imbiss
+- TOP .2.: Hotterstraße 5 ? 11: Neubau von vier Wohngebäuden (Gebäudeteil A, Tektur)
+- TOP .3.: Sendlinger Straße 29: Erweiterung, Einbau und Zusammenlegung einer Verkaufsfläche, Einbau und Sanierung der Fassade
+- TOP .4.: Hackenstraße 4: Umbau eines Wohn- und Geschäftshauses sowie hofseitiger Anbau (Gebäudeteil B, Tektur)
+- TOP .5.: Christophstraße 2, Umbau und Sanierung, Lifteinbau, Dacherneuerung, Anbringung von Balkonen sowie Wiederherstellung der historischen Dachgauben und Straßenfassade
+- TOP .6.: Tal 13: Nutzungsänderung: Möbelverkauf in Wohnraum und Möbellager in Ausstellungsfläche (Vorbescheid)
+- TOP .7.: Maximilianplatz 14: Neubau eines Bürogebäudes mit Ladeneinheit und einer automatischen Garage mit 19 Stellplätzen
+- TOP .8.: Maximilianplatz 13: Teilabbruch und Neubau eines Bürogebäudes
+- TOP .9.: Oberanger 43: Revitalisierung eines Wohn- und Geschäftsquartiers mit Aufstockung und Neubau (Vorbescheid)
+- TOP .10.: Lerchenfeldstraße 4 ? 6: Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP .1.: Mittelfristige Finanzplanung 2012 ? 2016, Fortschreibung für die Jahre 2013 - 2017
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Temporäre Verlegung des Obststands Platz Nr. 15, Marienplatz 21 (Deutsche Bank) wegen Fugensanierungsarbeiten am Marienplatz
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Japanfest 2013 am 21.07.2013, Englischer Garten am Japanischen Teehaus
+- TOP .2.: Infoveranstaltung des DLRG am 04.05.2013, Neuhauser Straße
+- TOP .3.: Ausstellung anlässlich des 50-Jahre Elysée-Vertrag vom 06.04. - 16.04.2013, Odeonsplatz
+- TOP .4.: Fränkisches Weinfest vom 12.-28.07.2013, Alter Hof
+- TOP .5.: Münchner Stadtlauf am 23.06.2013
+- TOP .6.: ?Prater-Strand? vom 16.05. - 07.09.2013, Praterinsel 2
+- TOP .7.: Französischer Gourmetmarkt vom 24.-27.04.2013, Rindermarkt
+- TOP .8.: Straßenfest am Fortunabrunnen am 22.06.2013
+- TOP .9.: NACHTRAG: Kunst im Öffentlichen Raum: ?Bubblesplatz? vom 16.04. - 30.09.2013, Promenadeplatz
+- TOP .1.: Gaststätte ?Mamasita?, Isartorplatz 4: Antrag auf Betriebszeitverlängerung der Freischankfläche auf 06.00 bis 01.00 Uhr
+- TOP .1.: UA: Vorschläge zur Aufnahme von einseitig bebauten Straße in den Lärmaktionsplan
+- TOP 1: (E) Verkehrsspiegel an den Einmündungen Rosenbusch- und Paradiesstraße in die Widenmayerstraße Empfehlung Nr. 08-14 / E 01662 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP 2: (E) Schülerlotsen für die Grundschule an der Herrnstraße (Ziffer 2)
+- TOP 2.1.: Baumfällung Thomas-Wimmer-Ring 9
+- TOP 2.2.: NACHTRAG: Baumfällungen Maximilianstraße 38
+- TOP 2.1.: Budget der Bezirksausschüsse Initiative "Kunsttunnel Odeonsplatz" Projekt "Kunsttunnel Odeonsplatz" vom 28.12.2013 - 10.01.2014
+- TOP 2: (E) Erhalt der "Michael-Jackson-Gedenkstätte" am Promenadeplatz Empfehlung Nr. 08-14 / E 01636 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. 10 Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. - 11.09.2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Erweiterung der BA-Vertretungen in Wettbewerben, Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 20.03.2013, Sitzungsvorlage Nr. 08-14 / V 11083
+- TOP 0.3.: Wohnungen für Auszubildende, Beschluss des des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013, Sitzungsvorlage Nr. 08-14 / V 11131
+- TOP 0.4.: OB-Kandidat Reiters ?Wunschlisten?: Hochhausbaukonzepte und Verkehrskonzept, Beschluss des des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013, Sitzungsvorlage Nr. 08-14 / V 11276
+- TOP 0.5.: Preis für Stadtbildpflege, Beschluss des des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013, Sitzungsvorlage Nr. 08-14 / V 11412
+- TOP 0.6.: Abdruck des CSU-Stadtrats-Antrags: Erhalt und Sanierung der stadteigenen Anwesen Müllerstraße 2-6 intensiv prüfen
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Reduzierung der Veranstaltung im Innenstadtbereich
+- TOP 0.6.: Veranstaltung "Aktiv gegen Krebs", 20.04.2013, Odeonsplatz (Eilentscheidung)
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: -
+- TOP 0.2.: Resolution des BA 7 zur Münchner Trinkwasserversorgung
+- TOP 0.3.: Antwortschreiben zu einer Bürgerbeschwerde über abgestellte Fahrzeuganhänger Prinzregenten-/Lerchenfeldstraße
+- TOP 0.4.: Antwortschreiben des Baureferats auf ein Bürgeranliegen auf Gehwegeinebnung in der Rumfordstraße (TOPs 2012.09 D 1.1 und 2013.01 D 1.6)
+- TOP 0.5.: Fällungsgenehmigung Oettingenstraße 6 - 8
+- TOP 0.6.: Antwortschreiben des Baureferats zum Bürgeranliegen LKW-Verkehr in der Sternstraße
+- TOP 0.7.: Fußgängerzone: Umsetzungskonzept zur Optimierung der Barrierefreiheit und Erweiterung in die Eisenmannstraße im 1. Stadtbezirk Altstadt-Lehel, Beschluss des Bauauschusses vom 12.03.2013, Sitzungsvorlage Nr. 08-14 / V 11000
+- TOP 0.8.: Antrag des BA 12 zu Baumfällungen auf öffentlichem Grund
+- TOP 0.9.: Umgestaltung Tal, Beschluss des Bauausschusses vom 12.03.2013, Sitzungsvorlage Nr. 08-14 / V 11385
+- TOP 0.1.: Standortkonzept Bürgerbüros ? Vorlage für den Kreisverwaltungsausschuss
+- TOP 0.2.: Sondernutzungserlaubnis für die Kunstperformance ?It's never to late to say sorry?
+- TOP 0.3.: Widerruf Förderung FotoDoks
+- TOP 0.4.: Schreiben des BA 3 an das Kulturreferat bzgl. der Kunstinstallation ?Fourth Plith? auf dem Wittelsbachplatz im Rahmen des Programms für Kunst im Öffentlichen Raum
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .3.2: Sonstige
