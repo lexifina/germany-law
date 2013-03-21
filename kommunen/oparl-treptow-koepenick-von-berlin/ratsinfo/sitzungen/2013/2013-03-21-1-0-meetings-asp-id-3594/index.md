@@ -1,0 +1,65 @@
+# 17. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-03-21T16:30:00+01:00
+- Ende: 2013-03-21T19:55:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3594
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3594
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=93785
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-17 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorschlagsliste für die Wahl von ehrenamtlichen Richterinnen und Richtern für das Verwaltungsgericht - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorschlagsliste für die Wahl der ehrenamtlichen Schöffinnen und Schöffen für die Amtsperiode 2014-2018 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Verbesserung der Zugangsmöglichkeiten zum S-Bahnhof "Oberspree" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des Bebauungsplans XVI-6B nebst Begründung Entwurf der Rechtsverordnung zum Bebauungsplan XVI-6B im Bezirk Treptow-Köpenick von Berlin, Ortsteil Müggelheim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für Alt-Treptower Kinderladen Elterninitiative e. V. (SM 1301) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für den Freundeskreis Brücke der Herzen (SM 1306) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Beschränkung der hindernisfreien Korridore - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Umwidmung eines Nebenstraßenabschnitts vor der Christophorus-Kirche in Friedrichshagen in eine Fußgängerzone - vertagt
+- TOP 12.3: Gedenkorte der Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ausbau des Trampelpfades zu einem regulären Weg von der Bushaltestelle der Linie 265 "S Treptower-Park" zum Bahnhof Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Querungsmöglichkeit in der Seelenbinderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: „Gleislinse“ - Ausgleichs- und Ersatzmaßnahmen müssen in Treptow-Köpenick verbleiben - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Passieren des Landschaftsparks Rudow-Altglienicke mit Ponys - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: - Entwurf des Bebauungsplans 9-35a nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-35a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Straßenbahn 61 - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Straßenbahnlinie 61 ins Ortszentrum Rahnsdorf verlängern - vertagt
+- TOP 12.11: Taktverdichtung Buslinie 170 - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Nahverkehrstangente für den Bundesverkehrswegeplan 2015 anmelden - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Stellenwirtschaft 2013 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schulweg der Schmöckwitzer Inselschule sichern - überwiesen
+- TOP 14.2: Wohnaufwendungenverordnung anpassen - überwiesen
+- TOP 14.3: Fördermöglichkeiten zur Energetischen Sanierung nutzen - überwiesen
+- TOP 14.4: „Gleislinse“ - Ausgleichs- und Ersatzmaßnahmen müssen in Treptow-Köpenick verbleiben (2) - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Aufwertung Umfeld Bürgerhaus Altglienicke - überwiesen
+- TOP 14.6: Nächtlichen Lärmschutz durch Geschwindigkeitskontrollen gewährleisten - überwiesen
+- TOP 14.7: Haltestellenüberdachung am Bahnhof Schöneweide - überwiesen
+- TOP 14.8: Sitzbank Haltestelle Dörpfeldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Umwidmung und Beleuchtung des Fußweges entlang der Wuhle - überwiesen
+- TOP 14.10: Künftige Bibliothek in „Mittelpunktbibliothek Treptow Alte Feuerwache“ benennen - überwiesen
+- TOP 14.11: Querung für Radfahrer am Bahnhof Schöneweide - überwiesen
+- TOP 14.12: Schulhelfer - überwiesen
+- TOP 14.13: Schulobst ermöglichen - überwiesen
+- TOP 14.14: Stadtteilbibliothek Friedrichshagen - überwiesen
+- TOP 14.15: Personalabbaukonzept des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wohnungen statt Autobahn - beantwortet
