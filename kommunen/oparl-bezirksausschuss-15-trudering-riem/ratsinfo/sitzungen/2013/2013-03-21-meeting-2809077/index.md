@@ -1,0 +1,128 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2809077
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2809077
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: Barrierefreier Zugang zur Bühne und zum Pult im Kulturzentrum Trudering
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrssicherheit in der Karlsburger Straße
+- TOP 2.2.: Fahrradstellplätze am U-Bahnhof Trudering
+- TOP 2.3.: Mittagsbetreuung Feldbergschule
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Verkehrsbelastung am Renkenweg
+- TOP 3.2.: Verkehrssituation Waldschulstraße
+- TOP 3.3.: Verkehrsbelastung in der Max-Rothschild-Straße/ Feldbergstraße
+- TOP 3.4.: Aufwertung öffentlicher Plätze und Grünanlagen im 15. Stadtbezirk
+- TOP 3.5.: Ja zum barrierefreien Ausbau S-Bahnhof Riem - aber bitte noch zu unseren Lebzeiten!
+- TOP 3.6.: Aufbau einer Eislauffläche am Willy-Brandt-Platz
+- TOP 3.7.: Maßnahmen gegen die Müllansammlung im Truderinger Wald an der Fauststraße
+- TOP 3.8.: Parkplatzproblematik am Kindergarten in der Helsinkistraße
+- TOP 3.9.: Jahrelange Leerstände trotz Nachfrage - warum tut sich die Stadt mit einer Zwischennutzung leerer städtischer Immobilien in Trudering so schwer?
+- TOP 3.10.: Zukunft der Kindertagesstätte Villa Kunterbunt, Kreuzerweg 28, 81825 München
+- TOP 3.11.: Raumsituation der Mittagsbetreuung in der Markgrafenschule - <div></div>
+
+  						<div>WL an das Referat für Bildung und Sport</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Korrektur der sozialen Infrastruktur in Riem - <div></div>
+- TOP 4.2.: Korrektur der sozialen Infrastruktur in der Messestadt - <div></div>
+- TOP 4.3.: Belegungskommission für die Messestadt - <div></div>
+- TOP 4.4.: Konzeptionelle Verbesserung bei der Verwaltung der GEWOFAG Immobilien - <div></div>
+- TOP 4.5.: Sozialwohnungsanteil in der Messestadt nachjustieren - <div></div>
+- TOP 4.6.: Keine Irrwege in der Bauordnung I - <div></div>
+- TOP 4.7.: Keine Irrwege in der Bauordnung II - <div></div>
+- TOP 4.8.: Schulsozialarbeit an der Grundschule an der Leibengerstraße - <div></div>
+- TOP 4.9.: Schulwegsicherheit an der Point - <div></div>
+- TOP 4.10.: Zusätzliche Räume für die Mittagsbetreuung mit Musikschulnutzung an der Markgrafenstraße schaffen - Aufstockung der Turnhalle prüfen - - <div></div>
+- TOP 4.11.: Gefährdete Pflanzenarten in Trudering-Riem - <div></div>
+- TOP 4.12.: Planungssicherheit an der Truderinger Straße - <div></div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer
+- TOP 5.2.: Spielbus an der Ruth-Beutler-Straße am 07.04.2013
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Sperrung des südlichen Teils der Astrid-Lindgren-Straße mit Ausnahmen beginnend zwischen Nr. 125 und Nr. 62 - <div></div>
+- TOP 6.2.: Tempo 30 am Mitterfeld im Rahmen des Programms Aktives Ortsteilzentrum Trudering und LKW-Durchfahrtverbot neu von Norden sowie verstärkte Kontrolle - <div></div>
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.1: UA Schule und Soziales
+- TOP 7.1.1.: SOS Austausch Riem/Alt-Riem
+- TOP 7.1.2.: Ein Zentrum für Kinder in Alt-Riem - mit Kinderarztpraxis
+- TOP 7.2: UA Kultur:
+- TOP 7.2.1.: Jubiläumsfest im Ostpark
+- TOP 7.3: UA Planung:
+- TOP 7.3.1.: Prüfungsantrag: Umwidmung Gewerbegebiet Rappenweg zu Wohngebiet
+- TOP 7.3.2.: Wasserturmstr. 16-18
+- TOP 7.3.3.: Dualastraße 5
+- TOP 7.4: UA Bau und Verkehr:
+- TOP 7.4.1.: Bänke auf der Promenade in Riem
+- TOP 7.4.2.: Haltverbot Ottilienstraße
+- TOP 7.4.3.: Werner-Eckert-Straße 7, Feuerwehrzufahrt
+- TOP 7.5: UA Allgemeines:
+- TOP 7.5.1.: Mittelfristige Finanzplanung 2012-2016 - Mehrjahresinvestitionsprogramm - Anhörungsverfahren - Fortschreibung für die Jahre 2013 - 2017
+- TOP 7.6: UA Umwelt:
+- TOP 7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Entscheidungen entgegen dem Votum des Bezirksausschusses:
+- TOP 8.2.: Salzmesserstr. 30-32/Plan
+- TOP 8.3.: Sperberstr. 16/Plan
+- TOP 8.4.: Eisvogelweg 29
+- TOP 8.5.: Friedenspromenade 103
+- TOP 8.6.: Geitnerweg 12
+- TOP 8.7.: Wachtelweg 6
+- TOP 8.8.: Großfriedrichsburger Str. 13
+- TOP 8.9.: Vogesenstr. 18
+- TOP 8.10.: Eisgruberstr. 6/Plan
+- TOP 8.11.: Usambarastr./Plan
+- TOP 8.12.: Wasserburger Landstr. 183/Plan
+- TOP 8.13.: Merlinstraße 5
+- TOP 9: Verschiedenes
+- TOP 9.1.: Informationsveranstaltung der SWM am 26.03.2013, 18 Uhr
+- TOP 9.2.: Einladung zum Aktionstag für Familien am 03.05.2013 im Kulturhaus Milbertshofen; Mitteilung des Sozialreferates vom 07.02.13
+- TOP 9.3.: Frühjahrsprogramm des Umweltnetzes München-Ost; Mitteilung vom 10.02.13
+- TOP 9.4.: "Aufruf zum Aufstehen" der Münchner BAs, Kundgebung gegen Rechtsextremismus vom Verein "München ist bunt" am 23.3, 13 Uhr auf dem Marienplatz
+- TOP 9.5.: Zukunft des Kulturzentrums Messestadt, Protokoll der Gesprächsrunde vom 30.01.13
+- TOP 9.6.: Suchkreismeldung M-Alter Flughafen; Information über Mobilfunkmasten in der Messestadt Riem; Antwort des Planungsreferates vom 13.02.2013
+- TOP 9.7.: Protokoll der 3. BA-Infoveranstaltung vom 15.11.2012 zum Thema Jugendbeteiligung
+- TOP 9.8.: Gewerbegebiet Messestadt Riem, Nordost - 2. Bauabschnitt: Vergabe von Grundstücksparzellen; Mitteilung des RAW vom 21.02.2013
+- TOP 9.9.: Bürgerversammlung im 15. Stadtbezirk vom 27.09.12: Antwort des Direktoriums auf die Bürgerschreiben vom 20.11.12 und 15.01.13
+- TOP 9.10.: Resolution zur Münchner Trinkwasserversorung; Antrag des BA 7 Sendling-Westpark vom 05.02.13 mit der Bitte zur Unterstützung
+- TOP 9.11.: BA-Antrag Nr. 08-14/ B 04474 des BA 15: Verkehrssituation am Rappenweg: Abgabe der Federführung vom BauR an das RGU, Abgabenachricht vom 20.02.13
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Gewerbegebiet Schwablhofstraße; Vergabe von Gewerbegrundstücken; Mitteilung des Referates für Arbeit und Wirtschaft vom 04.03.13
+- TOP 10.2.: Unveränderte Fortführung des Gaststättenbetriebes "Bistro Servus 2", Hugo-Weiss-Str. 6
+- TOP 10.3.: Unveränderte Fortführung des Gaststättenbetriebes "Loge 1", Graf-Lehndorff-Str. 36
+- TOP 10.4.: Zweckentfremdung von Wohnraum durch Abbruch, Kilihofstr. 22; vorher; 88 m² bzw. 2 WE, geplant: 330 m² bzw. 3 WE
+- TOP 10.5.: Zweckentfremdung von Wohnraum durch Abbruch,Mona-Lisa-Str. 5; vorher; 126 m² bzw. 2 WE, geplant: 455 m² bzw. 5 WE
+- TOP 10.6.: Zweckentfremdung von Wohnraum durch Abbruch, Von-Grafenreuth-Str. 37; vorher; 171 m² bzw. 2 WE, geplant: 711 m² bzw. 6 WE
+- TOP 10.7.: Zweckentfremdung von Wohnraum durch Abbruch, Bajuwarenstr. 99; vorher; 122 m² bzw. 1 WE, geplant: 1.081 m² bzw. 14 WE
+- TOP 10.8.: Zweckentfremdung von Wohnraum durch Abbruch, Sperberstr. 21a; vorher; 224 m² bzw. 1 WE, geplant: 797m² bzw. 4 WE
+- TOP 10.9.: Zweckentfremdung von Wohnraum durch Abbruch, Lehrer-Götz-Weg 28; vorher; 134 m² bzw. 2 WE, geplant: 305 m² bzw. 3 WE
+- TOP 10.10.: Zweckentfremdung von Wohnraum durch Abbruch, Königsseestr. 18; vorher; 145 m² bzw. 2 WE, geplant: 323 m² bzw. 2 WE
+- TOP 10.11.: Meldeliste Erstantragsverfahren in der Zeit vom 11.02.2013 ? 03.03.2013: Hofbräuallee 1; Zehntfeldstr. 129; Brachsenstr. 5; Isarlandstr. 1; Martin-Kollaar-Str. 1; Am Hochstand 10; Florastr. 45b; Fabinistr. 3; Schneefinkenweg 8; Flughafen-Riem-Str.; Dukatenweg 14; Gründerodestr. 13a; Kreuzkopfstr. 2; Lohnrößlerweg 23; Schneebergstr. 11a; Windbauerstr. 5Mattseestr. 17
+- TOP 10.12.: Meldeliste Änderungsverfahren in der Zeit vom 18.02.2013 ? 03.03.2013: Bajuwarenstr. 99; Kathreinweg 14; Kreillerstr. ; Fauststr. 74; Kreillerstr. 194; Jagdhornstr. 50; Birkhahnweg 10; Birkhahnweg 10
+- TOP 10.13.: Meldeliste Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren in der Zeit vom18.02.2013 ? 03.03.2013: Kießlingerstr. 28a; Geitnerweg 12a; Eisvogelweg 27
+- TOP 10.14.: Broschüre Bank&Baum der Münchner Gesellschaft für Stadterneuerung mbH und des Referates für Stadtplanung und Bauordnung
+- TOP 10.15.: Markgrafenstraße - Gymnasium Trudering: Bebauungsplan mit Grünordnung Nr. 1683b, Umbau, Ausführungsgenehmigung; Beschluss des Bauausschusses vom 12.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11422)
+- TOP 10.16.: Wohnungen für Auszubildende und Studierende: Beschluss des Stadtplanungsausschusses vom 13.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11131)
+- TOP 10.17.: OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept; Beschluss des Stadtplanungsausschusses vom 13.03.2013 (Sitzungsvorlagen Nr. 08-14 / V 11276)
+- TOP 10.18.: Brandschutz- und Akustikmaßnahmen, WC-Sanierung und sonstige Maßnahmen in der Grund- und Mittelschule Feldbergstraße 85: Genehmigung des Nutzerbedarfsprogramms, Projektauftrag; Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 05.12.2012 (Sitzungsvorlage Nr. 08-14 / V 10550)
+- TOP 10.19.: Umfahrung Kirchtrudering: a) Umfahrung Kirchtrudering Trasse 3 in Troglage; BV-15-Empfehlung Nr. 08-14 / E 01489 vom 27.09.2012 b) umfahrung Kirchtrudering Trasse 3, Verkehrssituation Kirchtrudering; BV-15-Empfehlung Nr. 08-14 / E 01490 vom 27.09.2012; Beschluss des Stadtplanungsausschusses vom 13.03.2013 (Sitzungsvorlagen Nr. 08-14 / V 10908)
+- TOP 10.20.: Erweiterung der BA-Vertretung in Wettbewerben (BA-5-Antrags-Nr. 08-14 / B 03849); Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 20.02.2013 (Sitzungsvorlage Nr. 08-14 / V 11083)
+- TOP 10.21.: Unfall- und Schadenrisiken minimieren - Bordsteine in München entschärfen; Mitteilung Direktorium vom 05.02.2013
+- TOP 10.22.: Kinder- und Familienzentrum Alt-Riem, Sozialpolitischer Handlungsbedarf in der Planungsregion 15_1; Beschluss des Kinder- und Jugendhilfeausschusses vom 05.03.2013, Ergänzung vom 26.02.2013: - Erweiterung des SOS-Familientreffs in der Widmannstraße (BA-15-Antrags-Nr. 08-14 / B 03180) - Änderungen an der Sammelgarage an der Riemer Straße / Gewofag-Wohnanlage (BA-15-Antrags-Nr. 08-14 / B 03179) - Räume für die SOS-Beratungsstelle und das Familienzentrum in der Mittbacher Straße (BA-15-Antrags-Nr. 08-14 / B 04254)
+- TOP 10.23.: Kindertagesstätten sonstiger Träger; Haus für Kinder Dompfaffweg 10, Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbeteuungsfinanzierung" 2008-2013; Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 06.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11262)
+- TOP 10.24.: Vorbeugen statt nachsteuern - sozialpolitische Erkenntnisse aus dem Projekt Messestadt klar benennen und Konsequenzen für weitere Großsiedlungsprojekte wie z.B. Freiham ziehen; Freiraum für heranwachsende Kinder und Jugendliche in Riem schaffen (BA-15-Antrags-Nr. 08-14 / B 04253); Beschluss des Kinder- und Jugendhilfeausschusses und es Sozialausschusses in der gemeinsamen Sitzung vom 05.03.2013 (Sitzungsvorlage Nr. 08-14 / V 10756)
+- TOP 10.25.: Errichtung eines Mensa-Neubaus mit Küche sowie zwei Aufenthaltsräumen für die Grundschule a.d. Turnerstraße 46: - Bau einer Mensa für die Turnerschule sowie Aufstellung von Containern als kurzfristige Raumschaffungsmaßnahme ab dem Schuljahr 2013/2014, BV-Empfehlung Nr. 08-14 / E 01482 vom 27.09.2012 - Prüfungsantrag zum Bau einer Mensa a.d. Grundschule Turnerstraße, BA-15-Antrags-Nr. 08-14 / B 04318; Beschluss des Ausschusses für Bildung und Sport vom 06.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11141)
+- TOP 10.26.: Versammlung "Für unser Programm pro Deutschland unterschreiben" am 09.02.13, 13-17 Uhr am Willy-Brandt-Platz 1 der Bürgerbewegung pro Deutschland; Mitteilung des KVR vom 07.02.13
+- TOP 10.27.: Mehrjahresinvestitionsprogramm (MIP) 2012 - 2016; Beschluss des Kinder- und Jugendhilfeausschusses vom 06.11.2012 (Sitzungsvorlage Nr. 08-14 / V 10501)
