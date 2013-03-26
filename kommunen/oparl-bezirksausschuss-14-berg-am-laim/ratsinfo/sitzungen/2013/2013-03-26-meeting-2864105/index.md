@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-03-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2864105
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2864105
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Aschheimer Straße, Kreillerstraße - Aufstellen von Verkaufseinrichtungen auf öff. Grund
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Str. 186 - Nutzungsänderung für die Schankerlaubnis im Verkaufsraum eines Tankstellengebäudes
+- TOP 3.1.1.2.: Aufenthaltsqualität auf dem Platz der Trambahnwendeschleife St.-Veit-Straße
+- TOP 3.1.2.1.: Verkehrssicherheit in der Bad-Kreuther-Straße
+- TOP 3.1.2.2.: Neumarkter Straße - Erweiterung bestehender Containerinseln um Altkleidercontainer
+- TOP 3.2.1.: Anwohnerfest "75 Jahre Maikäfersiedlung" am 15.06.2013
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Fortsetzung des Projektes "Integration macht Schule im Quartier"
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Maibaumverein Berg am Laim e.V. Maibaumaufstellen in Berg am Laim am 01.05.2013
+- TOP 3.5.3.: Maibaumverein Berg-am-Laim e.V.
+- TOP 3.5.4.: Mittelfristige Finanzplanung 2012 - 2016
+- TOP 3.6.1.: Halfinger Straße 7 // Josephsburgstraße 7 // Großvenedigerstr. 46 // Roßsteinstraße // Truderinger Str. 130 //
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Friedenstraße 10, Unveränderte Fortführung Gaststättenbetrieb "Tante Erna" (Arlekin)
+- TOP 4.1.1.3.: Kranzhornstraße 6 - Neubau eines Wohngebäudes
+- TOP 4.1.1.4.: Bebauungsplan mit Grünordnung Nr. 2033 Seebrucker Straße (beiderseits), Kreillerstraße (nördlich), Hansjakobstraße (südlich) (Teiländerung des Bebauungsplanes Nr. 26) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Nr. 08-14 / V 11131
+- TOP 4.1.1.5.: Wohnungen für Auszubildende und Studierende - Wohngemeinschaften für Auszubildende im kommunalen Wohnungsbaubestand fördern - Vorlagen-Nr. 08-14 / V 11332
+- TOP 4.1.1.6.: OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept - Vorlagen-Nr. 08-14 / V 11276
+- TOP 4.1.1.7.: Erweiterung der BA-Vertretung in Wettbewerben - Vorlagen-Nr. 08-14 / V 11083
+- TOP 4.1.1.8.: Lärmsanierung entlang der Bahnlinie München-Rosenheim, Abschnitt Baumkirchen
+- TOP 4.1.2.1.: Fahrbahnsanierung Kreuzung Ampfingstraße / Berg-am-Laim-Straße
+- TOP 4.1.2.2.: Rottalstraße - Einrichtung eines Haltverbotes
+- TOP 4.1.3.1.: Resolution zur Münchner Trinkwasserversorgung
+- TOP 4.1.3.2.: Reinigung von Bürgersteigen und Grünanlagen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Soziale-Stadt-Projekt "Copy & Work in der Alten Post" - Erhalt der "Alten Post" als ein Haus für den Stadtteil Ramersdorf und rund um den Piusplatz
+- TOP 4.5.1.: Alzheimer Gesellschaft - Verwendungsnachweis
+- TOP 4.6.1.: Baumfällungen auf öffentlichem Grund
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Maibaumverein Berg am Laim e.V. Maibaumaufstellen in Berg am Laim am 01.05.2013 - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
