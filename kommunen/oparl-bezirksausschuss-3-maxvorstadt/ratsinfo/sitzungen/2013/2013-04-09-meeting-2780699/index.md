@@ -1,0 +1,104 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.02.2013 zum Spielplatz am Josephsplatz (s. TOP C 2.2.1)
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 05.03.2013 zur Parksituation in der Gückstraße (s. TOP C 2.1.1 )
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 02.03.2013 zum Bau der Anwohner- tiefgarage Josephsplatz (s. TOP C 2.2.2 )
+- TOP .4.: Erneutes Schreiben einer Bürgerin aus der Maxvorstadt vom 09.03.2013 zur Verbesserung der Markierung der 30 km/h Zone in der Görresstraße und regelmäßige Verkehrskontrollen (s. TOP C 2.1.4)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 9., 10., 11., 12. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 8., 9., 10., 11. KW
+- TOP .3.: Baureferat, Tiefbau, Beschlussvorlage Hopfenstraße, Bayerischer Rundfunk, barrierefreier Zugang, Gehwegverbreiterung
+- TOP .4.: Schellingstraße 17, Erneuerung des Dachstuhls, Erhöhung des Firsts und der hofseitigen Traufe (straßenseitige Traufe und Erscheinungsbild zur Schellingstraße wird beibehalten), Ergänzung um einen freistehenden Aufzug im Innenhof sowie Erweiterung der Wohnungen um 4 hängende Balkone zum Innenhof, Ausbau des Dachstuhls zur Vergrößerung der bei den Wohneinheiten mit einem Dacheinschnittbalkon zur Hofseite
+- TOP .5.: Ludwigstraße 6 ? 10, Umbau und denkmalgerechte Sanierung eines denkmalgeschützten Büro- und Geschäftshauses
+- TOP .6.: Adalbertstraße 23, Neubau einer Wohnanlage mit Tiefgarage und Läden im EG (Adalbertstraße 23 + 25 / Türkenstraße 96)
+- TOP .7.: Dachauer Straße 17, Nutzungsänderung Spielsalon IV und V sowie Büros zu Table Dance Lokal
+- TOP .8.: Elisenstraße 3, Erweiterung einer Diskothek (für maximal 198 Personen) durch Nutzungsänderung eines Ladens (Elisenstraße 3 + 3a / Prielmayerstraße 1 - 3)
+- TOP .9.: Lämmerstraße 3, Umbau und Umgestaltung zur Domsingschule, Änderung Dachprofil Chorsaal (Lämmerstraße 3/Marsstraße 5)
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Von-der-Tann-Straße 2, Umbau und denkmalgerechte Sanierung eines Bürogebäudes, Umgestaltung der Fassa- de und des Eingangsbereichs im EG, Nutzungsänderung des unterirdischen Tresors in eine Technikzentrale sowie Neubau einer unterirdischen Anbindung an die Tiefgarage der Anwesen Ludwigstraße 6 - 10
+- TOP .3.2: Baumfällungen
+- TOP .1.: Leopoldstr. 3, Linde, Spitzahorn und Kirsche
+- TOP .2.: Ferdinand-Miller-Platz 1, eine Esche
+- TOP .3.: Luisenstraße 37, ein Silberahorn
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Geplanter Bürgerworkshop des Planungsreferates zum Projekt ?Bürgergutachten Kunst- areal?
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 05.03.2013 zur Parksituation in der Gückstraße (s. TOP A 5.2.2 )
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Anhörung Ausweisung der gesamten Marlene-Dietrich-Straße als Anliegerstraße Empfehlung Nr. 08-14 / E 01608 der BV des 9. Stadtbezirkes Neuhausen-Nymphenburg vom 22.11.2012
+- TOP .3.: Münchner Verkehrsgesellschaft, MVG, Anhörung Beschleunigung der Buslinie 154, Baumaßnahme Amalien-/Schellingstraße vertagt aus der Sitzung vom 12.03.2013 Unterlagen liegen bereits vor
+- TOP .4.: Erneutes Schreiben einer Bürgerin aus der Maxvorstadt vom 09.03.2013 zur Verbesserung der Markierung der 30 km/h Zone in der Görresstraße und regelmäßige Verkehrskontrollen (s. TOP A 5.2.4)
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.02.2013 zum Spielplatz am Josephsplatz (s. TOP A 5.2.1)
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 02.03.2013 zum Bau der Anwohner- tiefgarage Josephsplatz (s. TOP A 5.3 )
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Lärmbelästigung durch ein Lokal in der Schellingstraße 45 Empfehlung Nr. 08-14 / E 01531 aus der Bürgerversammlung des Stadtbezirkes 3 vom 18.10.2012 Sitzungsvorlage Nr. 08-14 / V 11282
+- TOP .2.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Sondernutzungserlaubnis a) Veterinärstraße 10, Genehmigung einer Freischankfläche b) Augustenstraße 60, Genehmigung einer Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Nachtrag Anhörung Teil 2 zum 35. Münchner Stadtlauf 2013 am 23.06.2013 (Werbe-/Aufbaukonzept)
+- TOP .2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 4. Münchner Radlnacht am 08.06.2013
+- TOP .3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Firmenkontaktgespräche auf dem Geschwister-Scholl-Platz am 13., 21. und 27.05.2013 sowie am 03. und 04.06.2013
+- TOP .4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Große Fronleichnamsprozession am 30.05.2013
+- TOP .5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Basketballturnier an der Barer Straße/Ecke Theresienstraße am 25.05.2013
+- TOP .6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Ausstellung im Alten Botranischen Garten ab 13.05.2013 zum Thema ?200 Jahre Alter Botanischer Garten? vom 14.05. bis 26.05.2013
+- TOP .7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung ?München liest aus verbrannten Büchern? am 10.05.2013
+- TOP .8.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Jobmessen der LMU auf dem Geschwister-Scholl-Platz vom 22.04.-24.02.2013 und vom 05.-07.06.2013 (Ersatztermin vom 10.06.-12.06.2013) Professor-Huber-Platz am 13./14.05., 22./24.05. und 04./05.06.2013
+- TOP .1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße 68 Projekt "Tanz und Schule" vom 08.04. - Mitte Juli 2013
+- TOP .1.: Sachstand bei Vorbereitung des Kinder- und Bürgerfestes
+- TOP .1.: (E) Budget der Bezirksausschüsse Gruppe digilog Gruppenausstellung vom 07.08. - 31.08.2013
+- TOP .2.: Nachtragsantrag aus der sog. ?20-Prozent-Pauschale? zur Eröffnungsveranstaltung des Kinderspielplatzes an der Akademie wegen Übersteigung des geplanten Kostenrahmens (s. Dazu TOP D 2.4/0912)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: (E) Budget der Bezirksausschüsse Init. 84 GHz - Raum für Gestaltung Kunst im Karrèe 2013 vom 12. - 14.07.2013
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bebauungsplan mit Grünordnung Nr. 2082, Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich) ? Aufstellungsbeschluss - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 Sitzungsvorlage Nr. 08-14 / V 11315
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung, LBK, Beschlussvorlage Preis für Stadtbildpflege; Wettbewerb ?Bauen und Sanieren in historischer Umgebung? 2012; Prämierung von Wettbewerbsbeiträgen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 Sitzungsvorlage Nr. 08-14 / V 11412
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungskozepte und Verkehrskonzept Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 Sitzungsvorlage nr. 08-14 / V 11276
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Stadtsanierung und Wohnungsbau, Beschluss- vorlage Wohnung für Auszubildende und Studierende beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 Sitzungsvorlage Nr. 08-14 / V 11131
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung Plangenehmigung nach dem Personenbeförderungsgesetz, Antrag auf Tektur der Plan- feststellung für die Errichtung einer Wendeschleife im Verlauf der Straßenbahnlinie 20/21 (Lothstraße), Stellungnahme der Landeshauptstadt München an die Regierung von Oberbayern mit Schreiben vom 01.03.2013
+- TOP 3.6.: Leerstehen von Wohnraum im Rückgebäude des Anwesens Schönfeldstraße 30
+- TOP 3.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bebauungsplan mit Grünordnung Nr. 2082, Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich) ? Aufstellungsbeschluss - Beschluss der Vollversammlung des Stadtrates vom 19.03.2013 Sitzungsvorlage Nr. 08-14 / V 11315
+- TOP 3.8.: Schreiben des Max-Planck-Instituts für Steuerrecht und Öffentliche Finanzen vom 12.03.2013 Wissenschaftliche Begleitung der Patenschaftsprogramme für öffentliche Güter (wie z.B. Baumpatenschaften) der Stadt München
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Baumaßnahmen der Stadtwerke a) Schraudolphstraße 28, Fernwärme b) Amalienstraße 19, Fernwärme c) Görresstraße, Fernwärme d) Arcisstraße 68, Teilrückbau Umspannwerk
+- TOP 3.2.: Kreisverwaltungsreferat, Sicherheit, Ordnung, Gewerbe, Grundsatzangelegenheiten Bürgeranliegen zu Lärmbelästigungen bei Public Viewing und anderen Großveranstaltungen
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung nach § 45 StVO: Polizeianfahrtszone Türkenstraße, PI 12
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung Plangenehmigung nach dem Personenbeförderungsgesetz Antrag auf Tektur der Planfestrstellung für die Errichtung einer Wendeschleife im Verlauf der Straßenbahnlinie 20/21 (Lothstraße), Stellungnahme der Landeshauptstadt München
+- TOP 3.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Grundsatzangelegenheiten Sachstandsmitteilung zum BA-Antrag Nr. 2527 des BA 3 vom 15.11.2010 aufgrund erneuter Anfrage durch BA-Antrag Nr. 4373 des BA 3 vom 13.11.2012
+- TOP 3.7.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Schriftsatz der Klägerseite in der Verwaltungsstreitsache Baugenehmigung Anwohnertief- garage Josephsplatz
+- TOP 3.8.: Baureferat, Tiefbau Schaffung eines urbanen Platzes im Bereich Nordnend-, Neureuther- und Barer Straße; Umwidmung eines Teilstücks Neureutherstraße zwischen Barer- und Nordendstraße in einen Fußweg BA-Antrag Nr. 08-14 / B 04458 des BA 3 vom 11.12.2012 Zwischennachricht
+- TOP 3.9.: Baureferat, Kunst im öffentlichen Raum Kunstaktion Bushaltestellenhäuschen Ludwigstraße 7 Eilentscheidung des Vorsitzenden vom 19.03.2013, Zustimmung durch Fristablauf
+- TOP 3.1.: Sozialreferat Zentrale, Beschlussvorlagen Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich ?Förderung freier Träger? des Sozialreferats a) Zentrale (Sitzungsvorlage Nr. 08-14 / V 11357) b) Stadtjugendamt (Sitzungsvorlage Nr. 08-14 / V 11352) c) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 11364) d) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 11374) Beschluss des Kinder- und Jugendhilfeausschusses sowie des Sozialausschusses in der gemeinsamen Sitzung am 09.04.2013
+- TOP 3.4.: Kultur
+- TOP 3.1.: Kreisverwaltungsreferat, Wahlen und Abstimmungen, Anhörung Wahlen 2013/2014 ? Änderung der Stimmbezirkseinteilung
+- TOP 3.2.: Direktorium Verteilung der städtischen Telefonbücher an alle BA-Mitglieder Antrag Nr. 08-14 / B 02860 des BA 12 vom 29.03.2011 Antrag Nr. 08-14 / B 03814 des BA 2 vom 27.03.2012
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP .2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße 68 Projekt "Tanz und Schule" vom 08.04. - Mitte Juli 2013
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP 3.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Antwortschreiben auf eine Bürgeranfrage zu Veranstaltungen auf öffentl. Verkehrsgrund
