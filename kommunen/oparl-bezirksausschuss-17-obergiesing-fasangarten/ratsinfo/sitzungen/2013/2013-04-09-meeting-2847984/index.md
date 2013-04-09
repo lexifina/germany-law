@@ -1,0 +1,112 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2847984
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2847984
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Parksituation Giesing - Wildparken
+- TOP 2.2.: Müll / Dreck / Abfälle Rotwandstraße
+- TOP 2.3.: Umweltverschmutzung in der Herbert-Quandt-Str. 9
+- TOP 2.4.: Verschmutzung Wohnsiedlung an der Amerstofferstraße
+- TOP 2.5.: Beschädigte Bäume Giesinger Bahnhofsplatz
+- TOP 2.6.: Belästigung durch Reisebusse des Leonardo Hotel & Residenz München, Bürgeranliegen von Frau R. vom 30.03.2013
+- TOP 2.7.: Buslinie 145 Kiesmüller/Waldsassener Str. im Fasangarten, Bürgeranliegen von Herrn R. vom 07.04.2013
+- TOP 2.8.: Freilaufende Hunde in städtischen Grünanlagen; Bürgeranliegen des Herrn S.
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Radweg Untersbergstraße, Antrag der GRÜNEN Fraktion vom 23.03.2013
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Antragsteller: PA/Spielen in der Stadt e.V. Veranstaltung: Theaterfestival ?Rampenlichter? von 17. bis 30.06.2013 Antragssumme: 1.250,00 Euro
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Budget der Bezirksausschüsse Antragsteller:Elterninitiativ-Kindergarten Larifari e.V. Veranstaltung: Tag der offenen Tür und Einweihungsfest der neuen Räumlichkeiten am 03.05.2013 Antragssumme: 330,00 Euro
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Schwanseestraße 81; Beschlussvorlage des Kreisverwaltungsreferates vom 15.03.2013
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Erweiterung einer bestehenden Freischank- fläche in der Schwanseestraße 81; Beschlussvorlage des Kreisverwaltungsreferates vom 18.03.2013
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Schwanseestraße 21; Beschlussvorlage des Kreisverwaltungsreferates vom 21.03.2013
+- TOP 0.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77 und 1995), Zuleitung des PlanR vom 21.03.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ km 2,117-Balanstraße, Bahnstrecke 5552 München Ost, Frankenwaldstraße - Kreuzstraße, km 2,117; Zuleitung des PlanR vom 21.03.2013 mit der Bitte um Stellungnahme
+- TOP 0.3.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 1. Spixstraße, Neubau einer Wohnanlage (132 WE) mit Tiefgarage (176 Stpl.), Anhörung vom 05.03.2013
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Mehr Platz im Weißenseepark - Sitzmöglichkeiten ausbauen; Antwortschreiben des Baureferat vom 20.02.2013
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.4.: OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept, - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 1 Hochhausbaukonzepte gegen Wohnungsnot und Mietpreisexplosion, Antrag Nr. 08-14 / A 03595 der FW vom 13.08.2012 - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 2 Integrales Verkehrskonzept für Kraftfahrer, Radfahrer, Fußgänger und ÖPNV - gegen Stau, Fahrradunfälle, Lärm, Abgase und Feinstaub, Antrag Nr. 08-14 / A 03596 der FW vom 13.08.2012, Sitzungsvorlagen Nr. 08-14 / V 11276, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013
+- TOP 0.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076; Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich), Teiländerung der Bebauungspläne Nrn. 77 und 1995) - Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 -, Zuleitung des PlanR vom 08.03.2013
+- TOP 0.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.7.: Broschüre "Bank&Baum" der Münchner Gesellschaft für Stadterneuerung mbH (MGS)
+- TOP 0.8.: Übersicht über alle Denkmäler im 17. Stadtbezirk, Antwortschreiben des PlanR vom 14.03.2013
+- TOP 0.9.: Beteiligung der Öffentlichkeit; Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des BauGB; Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77 und 1995), Planungsdarlegung vom 03.04.2013 bis 03.05.2013; Zuleitung des PlanR vom 22.03.2013
+- TOP 0.10.: Walchenseeplatz 6, Fl.Nr. 15913/34, Gemarkung Sektion VIII, Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren, Zuleitung des PlanR vom 25.03.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: (E) Budget der Bezirksausschüsse Antragsteller: Johanniter-Unfall-Hilfe e.V. Veranstaltung: Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013 Antragssumme: 1.950 ?
+- TOP 0.1.: Fragenkatalog zu Konflikten aus dem öffentlichen Raum, Zuleitung des SozR vom 11.03.2013
+- TOP 0.1.: Zuschussnehmerdatei 2013; Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale, Sitzungsvorlage Nr. 08-14 / V 11357, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.2013
+- TOP 0.2.: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 08-14 / V 11364, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.04.2013
+- TOP 0.3.: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Sitzungsvorlage Nr. 08-14 / V 11352, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.2013
+- TOP 0.4.: Prozess der Ausschreibung für Betreiber von Kindertagesstätten und Kinderkrippen beschleunigen, BA-Antrag Nr. 08-14 / B 04411 des BA 5 vom 19.09.2012, Antwortschreiben des RBS vom 06.03.2013
+- TOP 0.5.: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 08-14 / V 11374, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung der Kinder- und Jugendhilfeausschusses und des Sozialhilfeausschusses vom 09.04.2013
+- TOP 0.1.: Verkehrsberuhigung Ichostraße
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; hier: Wallbergstraße, absolutes Halteverbot, Zuleitung des KVR vom 07.03.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 5.4.4.1.1 Werinherstraße 40, Bescheid vom 28.02.2013, 5.4.4.1.2 Chiemgaustr. 20c, Bescheid vom 27.02.2013
+- TOP 0.2.: Entwurf des Lärmaktionsplans für München, Stellungnahme des Bezirksausschusses 17 Obergiesing-Fasangarten vom 25.06.2012, Zuleitung des RGU vom 19.03.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Gastspiel Rieser Puppenbühne im Weißenseepark- Festwiese vom 04.-07.07.2013; Zuleitung des KVR vom 14.03.2013 mit der Bitte um Stellungnahme bis 30.04.2013
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 1. Amerstorfferstr. 13 - 29/Schwarzenbergstr. 3 - 11, 1 Silberpappel, Antrag vom 28.02.2013, 2. Kiesmüllerstr. 20, 1 Linde, Antrag vom 26.02.2013, 3. Stadelheimer Str. 12, 2 Ahorn, Antrag vom 27.02.2013; 4. Eslarner Str. 32, 1 Lärche, Antrag vom 20.03.2013; 5. Bad-Berneck-Str. 1, 2 Birken, Antrag vom 15.03.2013; 6. Pennstraße 75, 3 Bäume, Antrag vom 20.02.2013
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Wahlen 2013/2014 - Änderung der Stimmbezirkseinteilung, Anhörung gem. § 13 Bezirksausschuss-Satzung, Zuleitung des KVR vom 07.03.2013 mit der Bitte um Stellungnahme bis 10.04.2013
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder, BA-Antrag-Nr. 08-14 / B 02860 des Bezirksausschusses des Stadtbezirks 12 - Schwabing-Freimann vom 29.03.2012, Städtische Telefonbücher in elektronischer Form für BA-Mitglieder, BA-Antrag-Nr. 08-14 / B 03814 des Bezirksausschusses des Stadtbezirks 02 - Ludwigsvorstadt-Isarvorstadt vom 27.03.2012, Antwortschreiben des Direktorium 04.03.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Antragsteller: PA/Spielen in der Stadt e.V. Veranstaltung: Theaterfestival ?Rampenlichter? von 17. bis 30.06.2013 Antragssumme: 1.250,00 Euro
+- TOP 0.1.: (E) Budget der Bezirksausschüsse Antragsteller: Johanniter-Unfall-Hilfe e.V. Veranstaltung: Workshopplätze für das Lilalu-Ferienprogramm vom 05.08. bis 11.09.2013 Antragssumme: 1.950 ?
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
