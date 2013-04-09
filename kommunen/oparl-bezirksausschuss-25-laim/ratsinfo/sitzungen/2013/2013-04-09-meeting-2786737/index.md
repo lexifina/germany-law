@@ -1,0 +1,98 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786737
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786737
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Tram 19; Lärm und Vibrationen
+- TOP 1.2.2.: Stellplatznachweis eines Gewerbebetriebs / Parken auf öffentlichen Verkehrsflächen
+- TOP 2: Anträge
+- TOP 2.1.: FDP: Ampelanlage Friedenheimer Straße / Gotthardstraße
+- TOP 2.2.: SPD: Einrichten eines Zweirichtungsradweges auf der westlichen Seite der über die Autobahn A 96 führenden Westendstraße
+- TOP 2.3.: SPD: Sauberkeit am S-Bahnhof Laim sowie Verbesserung der Beleuchtung der Fuß- und Radwegunterführung
+- TOP 2.4.: SPD: Kein Verkauf städtischer Grundstücke, auch nicht solcher, die im Wesentlichen zur Erholung dienen
+- TOP 2.5.: CSU: Thomas-Wimmer-Haus; Barrierefreie Umgestaltung des Eingangsbereichs und des Zugangs zum Garten, Überprüfung des Eingangsbereichs hinsichtlich Brandschutzvorschriften, Sonnenschutz für die Ostseite der Holzpergola im Garten
+- TOP 2.6.: SPD, CSU, Bündnis 90/Die Grünen, FDP: Erwerb des zur Zwangsversteigerung anstehenden ehemaligen Kaufhaus Beck in der Fürstenrieder Straße durch die Landeshauptstadt München
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 in Höhe von 1.400 Euro für Lesung ?Jenseits von Gut und Böse ? Lou Salome und Friedrich Nietzsche? am 23.03.13; Antragsteller: post it - productions GbR - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (mobiler Fahrradständer) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Fürstenrieder Str. 24
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.7000 Euro für Aufführung von ?Falstaff? von 06. bis 08.06.2013; Antragsteller: Bohemia After Dark e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 25.02.13: Feldgottesdienst mit Fahnenweihe am 15.06.13 sowie Ökumenische Gedenkveranstaltung zum Volkstrauertag am 16.11.13 jeweils in der Grünanlage Camerloherstraße / Rushaimerstraße
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 26.02.13: Festival der Marionetten vom 05.09.-09.09.13 auf dem Laimer Anger
+- TOP 4.3.: Schreiben Abfallwirtschaftsbetrieb München vom 28.02.13: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer; Agricolastraße (gegenüber Nr. 7), Elsenheimerstraße bei Nr. 15, Friedenheimer Straße / Agnes-Bernauer-Straße, Hauzenberger Straße / Elsenheimerstraße, Joergstraße / Aindorferstraße, Landsberger Straße / Friedenheimer Straße, Straubinger Straße / Wilhelm-Riehl-Straße, Willibaldstraße / gegenüber Camerloherstr. 211, Zschokkestraße / Lautensackstraße
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 07.03.13: Spielfest am 28.06.13 auf dem Hogenbergplatz
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 07.03.13: Flohmarkt am 26.04.13 auf dem Spielplatz Von-der-Pfordten-Straße
+- TOP 4.6.: Altmannstr. 5: Fällung von 3 Fichten
+- TOP 4.7.: Eringerstr. 47: Fällung von 1 Lärche und 1 Kiefer
+- TOP 4.8.: Agnes-Bernauer-Straße 111 / 111a: Fällung von 1 Robinie
+- TOP 4.9.: Schreiben Kommunalreferat vom 19.03.13: Anbringung von Erläuterungsschildern an den Straßenschildern der Camerloherstraße (Antrag Nr. 08-14 / B 4436 vom 04.12.12) und der Geyerspergerstraße
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 22.03.13: Maitanz am 04.05.13 in der Grünanlage Laimer Anger
+- TOP 4.11.: Schreiben Baureferat vom 18.03.13: Herstellung öffentliche Verkehrsflächen Landsberger Straße östlich Wotanstraße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 318: Nutzungsänderung: Lager- zu Ladenfläche; hier: Baupläne (vertagt aus der BA-Sitzung vom 05.03.13)
+- TOP 5.2.: Landsberger Str. 320: Nutzungsänderung: Büro- zu Ladenflächen; hier: Baupläne
+- TOP 5.3.: Guido-Schneble-Str. 56: Neubau eines Zweifamilienhauses; hier: Baupläne
+- TOP 5.4.: Haslangstr. 33: Neubau zweier Mehrfamilienhäuser mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 20.03.13: Einladung Informationsveranstaltung "Jugendbeteiligung" am 15.04.13
+- TOP 6.2.: Schreiben IG Feuerwache ? Interkulturelle Begegnung und Bildung e.V. vom 25.03.13: Einladung Sitzung des Beirats der IG Feuerwache am 16.04.13
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 05.03.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister vom 25.03.13: Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse
+- TOP 8.2.: Schreiben der 2. Bürgermeisterin vom 21.03.2013: Bürgerversammlung Laim am 20.11.2012; Sanierungsprojekt sozialer Wohnungsbau Siedlung "Alte Heimat"
+- TOP 8.3.: Schreiben Kommunalreferat vom 18.03. und 19.03.13: Wohnanlage Stiftung "Alte Heimat" am Kiem-Pauli-Weg; Anfrage aus der Bürgerversammlung des 25. Stadtbezirkes Laim vom 20.11.2012, Empfehlung Nr. 08-14 / E 01601 der Bürgerversammlung des 25. Stadtbezirkes Laim am 20.11.12, Empfehlung Nr. 08-14 / E 01602 der Bürgerversammlung des 25. Stadtbezirkes Laim am 20.11.12
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 25.02.13: Gaststätte "Hubertus", Landsberger Str. 331; unveränderte Fortführung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 26.02.13: Anzeige einer Versammlung unter freiem Himmel am 02.03.13, Fürstenrieder Str. 59
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 28.02.13: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Westendstraße beidseitig der Brücke über die A 96
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 05.03.13: Anzeige einer Versammlung unter freiem Himmel am 09.03.13; Fürstenrieder Str. 63
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 31.01.13: Taxistandplatz Gotthardstraße: Verkürzung; Einrichtung einer Parkscheibenzone
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 18.03.13: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Von-der-Pfordten-Str. 33
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 15.03.13: Wahlen 2013/2014 ? Änderung der Stimmbezirkseinteilung (keine Änderung für Laim)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.03.13: Neuburger Str. 8: Umbau eines Mehrfamilienhauses (3 WE) / Neubau eines Mehrfamilienhauses (3 WE) mit Tiefgarage / Vorbescheid
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.03.13: Von-der-Pfordten-Str. 38 / Abbruch einer Garage und Neubau eines Einfamilienhauses mit Garage / Tektur
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.03.13: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Barrierefreier Umbau des Bahnhofs Donnersbergerbrücke an den Strecken 5540 München-Gauting und 5505 München-Lenggries, km 1,532-1,806 / Plangenehmigungsbescheid vom 28.01.13
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.03.13: Fürstenrieder Str. 21; Umbau des ehemaligen Kaufhauses "Beck" in ein Gewerbe- und Geschäftshaus mit 2 Wohnungen - Baustellensicherung
+- TOP 8.15.: Schreiben Sozialreferat vom 06.03.13: Wahl der Seniorenvertretung 2013, Wahlausschusssitzung am 04.04.13
+- TOP 8.16.: Schreiben Direktorium vom 07.03.13: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller Bahn-Landwirtschaft Unterbezirk München-West
+- TOP 8.17.: Schreiben Direktorium vom 04.03.13: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder (Antrag Nr. 08-14 / B 02860 des BA 12 Schwabing-Freimann vom 09.03.11), Städtische Telefonbücher in elektronischer Form für alle BA-Mitglieder (Antrag Nr. 08-14 / B 03814 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 27.03.12)
+- TOP 8.18.: Schreiben Direktorium vom 22.03.13: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen (Antrag Nr. 08-14 / 04503 vom 12.12.12)
+- TOP 8.19.: Schreiben Baureferat vom 18.03.13: Querungshilfe Gotthardstraße
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 14.03.13: Entwurf des Lärmaktionsplans für München; Stellungnahme des BA 25 Laim vom 01.08.12
+- TOP 8.21.: Schreiben Referat für Gesundheit und Umwelt vom 22.03.13: Flyer Infoabende des Bauzentrums von Mai bis Juli 2013
+- TOP 8.22.: Schreiben Referat für Gesundheit und Umwelt vom 26.03.13: Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Jahresgenehmigung für Arbei-ten an Anlagen des ÖPNV, Stadtwerke München
+- TOP 8.23.: Schreiben Referat für Arbeit und Wirtschaft vom 28.02.13: Wirtschafts-Info 02/2013
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 06.03.13: Europe Direct Informationen 01/2013
+- TOP 8.25.: Schreiben Referat für Bildung und Sport vom 25.03.13: Informationen zum Rechtsanspruch auf die Betreuung unter 3-jähriger Kinder und zur neu gegründeten Servicestelle U3 in der Abteilung KITA
+- TOP 8.26.: Bautenliste vom 18.02.-24.02.13 1. Erstantragsverfahren a) Queristr. 6 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Gotthardstr. 87 b) Reindlstr. 2
+- TOP 8.27.: Bautenliste vom 25.02.-03.03.13: 1. Änderungsverfahren a) Agnes-Bernauer-Str. 139
+- TOP 8.28.: Bautenliste vom 04.03.-10.03.13 1. Erstantragsverfahren a) Agricolastr. 86 b) Haslangstr. 33 c) Rushaimerstr. 71 d) Guido-Schneble-Str. 56 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 163
+- TOP 8.29.: Bautenliste vom 11.03.-17.03.13 1. Erstantragsverfahren a) Junkerstr. 67 2. Änderungsverfahren a) Landsberger Str. 214 b) Flantinstr. 10 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Schäufeleinstr. 2
+- TOP 8.30.: Bautenliste vom 18.03.-24.03.13 1. Erstantragsverfahren a) Johannes-Scharrer-Str. 6 2. Änderungsverfahren a) Elsenheimerstr. 12 b) Lautensackstr. 1
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 25.02.13: Baumaßnahmen der Stadtwerke; Stichtag: 25.02.13
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 04.03.13: Baumaßnahmen der Stadtwerke; Stichtag: 04.03.13
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 11.03.13: Baumaßnahmen der Stadtwerke; Stichtag: 11.03.13
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 18.03.13: Baumaßnahmen der Stadtwerke; Stichtag: 18.03.13
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.13: OB-Kandidat Reiters "Wunschlisten": Hochhauskonzept und Verkehrskonzept (Sitzungsvorlage Nr. 08-14 / V 11276)
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 25.03.13: Baumaßnahmen der Stadtwerke; Stichtag: 25.03.13
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.13: Wohnungen für Auszubildende und Schüler (Sitzungsvorlage Nr. 08-14 / V 11131)
+- TOP 8.38.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.13: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 08-14 / V 11357)
+- TOP 8.39.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.13: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 08-14 / V 11352)
+- TOP 8.40.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.04.13: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 11374)
+- TOP 8.41.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.04.13: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 11364)
+- TOP 8.42.: Schreiben Polizeiinspektion 41 vom 26.02.13: Lkw-Parken in der Rushaimerstraße (Schreiben BA vom 24.01.13)
+- TOP 8.43.: Antrag BA 12 Schwabing-Freimann vom 26.02.13: Baumfällungen auf öffentlichem Grund
+- TOP 8.44.: Ergebnisprotokoll zum Ortstermin "Radwegsicherheit an der Fürstenrieder Straße" vom 26.02.13
+- TOP 8.45.: Münchner Statistik, 4. Quartalsheft, Jahrgang 2012
+- TOP 8.46.: Schreiben TU München, Fakultät für Architektur, Lehrstuhl für Raumentwicklung, vom 22.03.13: Kolloquium "Der öffentliche Verkehr - Katalysator für die Stadtentwicklung. Public transport as urban generator"; Termine am 22.04., 13.05., 03.06.13 im Vorhoelzer Forum der TU München
+- TOP 1.2: Bürgerpost an den BA
