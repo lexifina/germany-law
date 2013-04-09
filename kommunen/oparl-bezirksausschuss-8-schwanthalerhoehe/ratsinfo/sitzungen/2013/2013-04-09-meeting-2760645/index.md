@@ -1,0 +1,57 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Neubau MKJZ
+- TOP 4.2.: Maßnahmen in der Landsberger Straße / Grasserstraße
+- TOP 4.3.: Sanierung der Bergmannschule
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Westendstr. 94; Umbau und Erweiterung eines Mehrfamilienhauses - VORBESCHEID
+- TOP 5.2.: Anhörung: Bergmannstr. 4, Abbruch und Neuerrichtung des Dachstuhls, DG-Ausbau (3 WE), Einbau eines Aufzugs
+- TOP 5.3.: Anhörung: Landesberger Str. 104, Neuerrichtung des Dachstuhls, Umbau einer Wohnung und Einbau dreier Wohneinheiten im DG
+- TOP 5.4.: Anhörung: Gollierstr. 29, Neubau eines Garten-Doppelhauses mit 4 Dupplexgaragen
+- TOP 5.5.: Anhörung: Gollierstr. 29, Anbau eines Personenaufzugs, Neubau von 3 Balkonanlagen, Einbau einer Dachterrasse, Erneuerung der Dacheindeckung mit Wärmedämmung
+- TOP 5.6.: Anhörung: Guldeinstr. 50, Umbau/Sanierung und Erweiterung eines Wohn- und Geschäftshauses, Nutzungsänderung - TEKTUR
+- TOP 5.7.: Meldeliste
+- TOP 5.8.: Anhörung: Ganghoferstr. 43, Nutzungsänderung von Nebenräumen im Umspannwerk, Ausstellung in Schulungs- und Seminarräume
+- TOP 5.9.: Anhörung: Ligsalzstr. 5, Nutzungsänderung einer Bank-Zweigstelle in ein Wettbüro
+- TOP 5.10.: Errichtung einer Kinderkrippe an der Kazmairstr. 23-25 "Lindengarten"
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Zuschüsse Kinderbetreuung, Schreiben der Freien Waldorfschule München Südwest
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Entscheidung: Projektplanung Gollier-/ Schießstättstraße
+- TOP 8.2.: Baumfällungen auf öffentlichen Grund, Antrag des BA 12
+- TOP 8.3.: Anhörung: Straßenfest zum World-Neighbours Day in der Westendstraße sowie im Innenhof des MKJZ am 01.06.2013
+- TOP 8.4.: Anhörung: Jubiläumsfest 10 Jahre Verkehrszentrum am Bavariapark am 12.05.2013
+- TOP 8.5.: Anhörung: Infoveranstaltung zur Verkehrsprävention am Bavariapark am 22.04.2013
+- TOP 8.6.: Entwurf des Lärmaktionsplans, Schreiben des RGU vom 14.03.2013
+- TOP 8.7.: Radweg in der Heimeranstraße an beiden Enden pflastern
+- TOP 8.8.: Verzicht auf Laubbläser auch bei der Landeshauptstadt München
+- TOP 8.9.: Sanierung Donnersbergerbrücke, Verkehrsrechtliche Anordnung
+- TOP 8.10.: Afrika-Tage 2013 - Nutzungskonzept
+- TOP 8.11.: Anhörung: Bladenight
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Bergmannschule Gestaltung der Pausenhofwände von Mai bis Juli 2013 - <div>siehe Beschlussseite</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. zehn Workshopplätze für das Lilalu-Ferienprogramm vom 27. bis 31.05.2013 - <div>siehe Beschlussseite</div>
+- TOP 9.3.: Verwendungsnachweis und Rückforderungsbescheid Mysterienspiel "Ludus de Antichristo"
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Verteilung der städtischen Telefonbücher an die BA-Mitglieder
+- TOP 11.2.: Wahlen 2013/2014 - Änderung der Stimmbezirkseinteilung
+- TOP 11.3.: Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse, OB-Schreiben
+- TOP 12: Protokoll und Umlauf
