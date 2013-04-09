@@ -1,0 +1,191 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2013-04-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2838138
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2838138
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Bericht des Vorsitzenden zu den Baustellen im Pasinger Zentrum
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 2.2.1.: Taxistandplatz Pasinger Bahnhof sowie Lieferverkehr Pasing Arcaden (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.2.: Erweiterung des BBZ an der Bergsonstraße durch mobile Container / Verkehrs-belastung Bergsonstraße (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.3.: Verkehrsführung im Pasinger Zentrum; Durchgangsverkehr von der Landsberger Straße über die Bäckerstraße in Richtung Gräfstraße und Weinbergerstraße (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.4.: Volmstraße, Aufhebung der Einbahnregelung von der Haberlandstraße bis zur Tiefgaragenzufahrt Volmstraße 35 (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.5.: Kindergartenbau Planegger Straße 56 (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.6.: Erhöhter Straßenlärm durch locker aufliegende neue Kanalabdeckungen im Bereich der Kreuzung Landsberger Straße / Offenbachstraße (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.7.: Verkehrsführung in Pasing / Schleichwege (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.8.: Beschädigte Trauerweide Ecke Pippinger Straße / Theodor-Storm-Straße (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 2.2.9.: Haltestelle Buslinie 160 am Pasinger Bahnhof
+- TOP 2.2.10.: Verlegung des Taxistandplatzes am Bahnhof Pasing
+- TOP 2.2.11.: Beschwerde wegen einer Veranstaltung von Animexx e.V. am 02.03.2013 im Jugendzentrum Aquarium
+- TOP 2.2.12.: Verkehrsbelastung in Pasing - konkrete Verkehrszählung
+- TOP 2.2.13.: Fahrradabstellplätze für einen Fahrradladen und eine Buchhandlung in der Landsberger Straße
+- TOP 2.2.14.: Pasinger Viktualienmarkt, Vorschlag für einen weiteren Stand
+- TOP 2.2.15.: Übergangswohngemeinschaft von Condrobs e.V. aim Haidelweg; Parksituation
+- TOP 2.2.16.: Parksituation am Anfang der Härtingerstraße
+- TOP 2.2.17.: Busverbindung in der Bäckerstraße
+- TOP 2.2.18.: Ernsbergerstraße; Freigabe der Einfahrt für Anlieger bis zu den Anwesen Ernsbergerstraße 5a und 5b von der Bodenseestraße aus kommend
+- TOP 2.2.19.: Änderung von Hinweisschildern auf der A 99 und A 8 sowie innerstädtisch an der Kreuzung Mühlangerstraße / An der Langwieder Haide
+- TOP 2.2.20.: Busverbindung Bäckerstraße
+- TOP 2.2.21.: Schneeräumen in der Stahlstraße
+- TOP 2.2.22.: Einrichtung einer Ladezone in der Planegger Straße 27
+- TOP 2.2.23.: Beschluss des BA 21 vom 05.03.2013 zur Namensgebung der Freifläche südlich der Pasing Arcaden in ?Pasinger Freiheit?
+- TOP 2.2.24.: Verkehrssituation Pasing
+- TOP 2.2.25.: Ausbau der Daudetstraße (s. auch TOP 14.1.3)
+- TOP 2.2.26.: Zuwegung zum Carlhäusl, An der Würm 1; Veröffentlichung in der Rathaus Umschau vom 25.02.2013 (s. auch TOP 14.1.5)
+- TOP 2.2.27.: Verkehrssituation Anton-Barth-Weg
+- TOP 3: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Engelbertstraße 13, 1 Robinie
+- TOP 3.1.2.: Villacher Straße 31, Baumbestandsplan
+- TOP 3.1.3.: Bärmannstraße 9, 1 Nordmanntanne
+- TOP 3.1.4.: Musäusstraße 9, 1 Rotbuche, 1 Birke, 1 Walnuss
+- TOP 3.1.5.: Veldener Straße 55, 1 Nadelbaum
+- TOP 3.1.6.: Morenastraße 6, 1 Wildkirsche (Fällung), 1 Wildkirsche (Baumveränderung)
+- TOP 3.1.7.: Pläntschweg 13, 1 Kastanie
+- TOP 3.1.8.: Karwinskistraße 45, 1 Birke
+- TOP 3.1.9.: Adelsbergstraße 22, 1 Hemlocktanne
+- TOP 3.1.10.: Pippinger Straße 47, 1 Esche, 1 Ahorn
+- TOP 3.1.11.: Meyerbeerstraße 51, 1 Buche
+- TOP 3.1.12.: Klarweinstraße 3, Baumbestandsplan
+- TOP 3.1.13.: Feichthofstraße 38, 1 Winterlinde
+- TOP 3.1.14.: Kapellengartenstr. 1, 2 Fichten
+- TOP 3.1.15.: Elly-Ney-Weg 12, 2 Lärchen
+- TOP 3.1.16.: Baumbachstraße 2a, 1 Traubenkirsche
+- TOP 3.1.17.: Donizettiweg 12, Baumbestandsplan
+- TOP 3.1.18.: Kaspar-Kerll-Straße 7, 1 Esche
+- TOP 3.1.19.: Radeckestraße 5, 1 Baum
+- TOP 3.2: Gefahrenbäume
+- TOP 4: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht d UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Dr.-Böttcher-Straße (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 5.1.2.: Anwesen in der Irmonherstraße
+- TOP 5.1.3.: Anwesen in der Bachbauernstraße
+- TOP 6: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1.: Protokoll zur Besprechung vom 26.03.2013 bei Condrobs e.V., Übergangswohnemeinschaft im Haidelweg 29d
+- TOP 7.1: Berichte der Beauftragten
+- TOP 7.1.1: Kinder- und Jugendbeauftragte
+- TOP 7.1.2: Gleichstellungsbeauftragte
+- TOP 7.1.3: Behindertenbeauftragte
+- TOP 7.1.4: a) Bürgerbeirat Verdistraße 45 b) Bürgerbeirat Jugendhilfezentrum Scapinellistr
+- TOP 7.1.4.1.: - Protokoll der Bürgerbeiratssitzung vom 29.01.2013
+- TOP 7.1.5: Migrationsbeauftragter
+- TOP 7.1.5.1.: - Bericht zu den Fragen aus der BA-Sitzung vom 06.11.2013 zur Vergabe von Genossenschaftswohnungen und zum Verkauf der GBW-Wohnungen
+- TOP 7.1.6: Beauftragter im Mieterbeirat
+- TOP 7.1.7: REGSAM-Beauftragte
+- TOP 7.1.8: Beauftragte gegen Rechtsextremismus
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für einen mobilen Fahrradständer in der Atterseestraße 6
+- TOP 9.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für einen mobilen Fahrradständer in der Landsberger Straße 452
+- TOP 9.5.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; 2 Anträge für je eine Zeitungsverkaufseinrichtung, Weinbergerstraße 40 ggü. bei der Bushaltestelle
+- TOP 9.6.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Planegger Straße 111
+- TOP 9.7.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Blumenauer Straße 177
+- TOP 9.8.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Am Knie 3 / Gräfstraße
+- TOP 9.9.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Agnes-Bernauer-Straße 264
+- TOP 9.10.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Agnes-Bernauer-Straße 202
+- TOP 9.11.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Am Knie 41 / Verkehrsinsel / Straßenbahnhaltestelle
+- TOP 9.12.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Planegger Straße 51, Seite Blumenauer Straße
+- TOP 9.13.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Fischer-von-Erlach-Straße 27, ggü. bei der Bushaltestelle
+- TOP 9.14.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Planegger Straße 111, Bushaltestelle
+- TOP 9.15.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Antrag für eine Zeitungsverkaufseinrichtung, Zacharias-Werner-Straße 12, Seite Gräfstraße
+- TOP 9.16.: Budget des BA 21, Antrag Verein Institut für zukunftsweisende Geschichte e.V. vom 06.10.2012 für das Projekt ?Nationalsozialismus in Pasing? von Juni bis August 2013 (vertagt aus der BA-Sitzung vom 06.11.2012); Sitzungsvorlage Nr. 08-14 / V 11507
+- TOP 10: Anhörungen
+- TOP 10.1.: Standortkonzept Bürgerbüros (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 10.2.: Erinnerungsverfahren Menzinger Straße 150-164, Fahrbahnsanierung (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 10.3.: Rubensstraße 6, Neubau eines Einfamilienhauses mit Garage - Vorbescheid / Genehmigungsverlängerung
+- TOP 10.4.: Bodenstedtstraße 58, Nutzungsänderung eines Ladengeschäfts in eine eingruppige Kinderkrippe
+- TOP 10.5.: Beteiligungsverfahren zur Erweiterung bestehender Containerinseln um städtische Altkleidercontainer an den Standorten Georg-Habel-Straße/Alois-Wunder-Straße, Lipperheidestraße/Bassermannstraße, Manzingerweg/Kaflerstraße/Irmonherstraße, Menterstraße/Reußweg, Offenbachstraße/Karl-Mangold-Straße, Paosostraße ggü. Haus-Nr. 44, Radeckestraße/Von-Frays-Straße, Sarasatestraße bei Haus-Nr. 14, Schererplatz, Silberdistelstraße/Weinbergerstraße
+- TOP 10.6.: Zeitlich beschränktes Haltverbot Bodenstedtstraße 35
+- TOP 10.7.: Wöhlerstraße 2, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 10.8.: Agnes-Bernauer-Straße 172, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 10.9.: Landsberger Straße 412, Verlängerung der befristeten Nutzungsänderung zur Unterbringung von Flüchtlingen einschließlich Verwaltung um weitere 10 Jahre
+- TOP 10.10.: Landsberger Straße 480 - 482, Errichtung einer Schallschutzwand
+- TOP 10.11.: Elly-Ney-Weg, Gemarkung Obermenzing, Flur-Nr. 716/56, Neubau einer Kindertagesstätte - Tektur
+- TOP 10.12.: Villacher Straße 31, Neubau eines Reihenendhauses mit Garage
+- TOP 10.13.: Heerstraße 35, Umbau eines Einfamilienhauses und Einbau von drei Schleppgauben
+- TOP 10.14.: Donizettiweg 12, Neubau eines Zweifamilienhauses mit Stellplätzen
+- TOP 10.15.: Klarweinstraße 3, Neubau eines Mehrfamilienhauses (3 WE) mit Tiefgarage (6 Stpl.)
+- TOP 10.16.: Freseniusstraße 1, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - Vorbescheid
+- TOP 10.17.: Überprüfung von Umlaufsperren, hier: Umlaufsperre Am Wasserschloss / Institutstraße
+- TOP 10.18.: Erinnerungsverfahren Radweg Avenariusplatz 20 - 29, Maria-Eich-Straße 8 - 18, Am Stadtpark
+- TOP 10.19.: Änderung / Anpassung der Reinigungsklassen im Bereich des Bezirksausschusses 21 Pasing-Obermenzing
+- TOP 10.20.: Wahlen 2013/2014 - Änderung der Stimmbezirkseinteilung
+- TOP 10.21.: Haidelweg 29d, Nutzungsänderung im EG - Umbau von Lagerflächen zu Wohnungen, Bestandssanierung, Balkonanbauten; nachträgliche Genehmigung zweier DG-Wohnungen, Umbau im OG; Tektur
+- TOP 10.22.: Faistenlohestraße 36, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefparker
+- TOP 10.23.: Gräfstraße 38, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage (11 Stellplätze) sowie Abbruch der bestehenden Garagenanlage
+- TOP 10.24.: Veranstaltung Märchenzelttheater ?Festival der Marionetten? in der Zeit vom 04.06. mit 11.06.2013 auf dem städt. Grundstück Flur-Nr. 209/2 Gemarkung Pasing, an der Bodenseestraße/Maria-Eich-Straße
+- TOP 10.25.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: FDP: Antrag: Vermeidung Verkehrschaos in der Rathausgasse, Ecke Am Schützeneck (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 11.2.: CSU: Antrag: Behindertenstellplätze im Pasinger Zentrum (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 11.3.: SPD: Antrag: Einrichtung eines neuen Taxistandplatzes Ecke Landsberger Straße / Rathausgasse (vertagt aus der BA-Sitzung am 05.03.2013)
+- TOP 11.4.: SPD: Antrag: Überprüfung der Lärm- und Abgassituation in der gesamten Planegger Straße dahingehend, ob eine Geschwindigkeitsreduzierung erforderlich ist
+- TOP 11.5.: SPD: Antrag: Anschaffung von Transporthilfewagen auch für den Friedhof Obermenzing
+- TOP 11.6.: SPD: Anfrage: Zukünftige Nutzung Dreilingsweg 14
+- TOP 11.7.: SPD: Antrag: Optische Aufhellung Eisenbahntunnel ?Hermann-Hesse-Weg?
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH - Aufstellungen vom 25.02. (vertagt aus der BA-Sitzung vom 05.03.2013), 04.03., 11.03., 18.03., 25.03., 02.04.2013
+- TOP 12.2.: Bauanträge - Listen vom 25.02.-03.03., 04.03.-10.03., 11.03.-17.03., 18.03.-24.03., 25.03.-31.03.2013
+- TOP 12.3.: Amtsblatt Nrn. 6, 7, 8
+- TOP 12.4.: Unveränderte Fortführung von Gaststättenbetrieben - Schank- und Speisewirtschaft "Il Torrente" (vormals "Aqua e Vino"), Baumbachstraße 9 - Kleingartenwirtschaft "Josef Höllerer SW 15", Fischer-von-Erlach-Straße 26 - Schank- und Speisewirtschaft "Sausalitos" (zuvor Viqoy), Kaflerstraße 2 - Schank- und Speisewirtschaft "Schweizer Hof", Planegger Straße 14 - Vereinswirtschaft Tennisclub Pasing, Agnes-Bernauer-Straße 245
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Bauausschuss vom 19.02.2013 - Aubinger Straße; Instandsetzung der Straßenunterführung unter der DB-Strecke München - Garmisch-Partenkirchen; Bedarfs- und Konzeptgenehmigung, Projektauftrag; Sitzungsvorlage Nr. 08-14 / V 11002
+- TOP 13.2.: Vollversammlung des Stadtrates vom 27.02.2013 - Erweiterung der BA-Vertretung in Wettbewerben; Antrag Nr. 08-14 / B 03849 des BA 5 Au-Haidhausen vom 28.03.2012; Sitzungsvorlage Nr. 08-14 / V 11083
+- TOP 13.3.: Kinder- und Jugendhilfeausschuss vom 05.03.2013 - Errichtung eines Hauses für Kinder mit 3 Kinderkrippen-, 1 Kindergarten- und 2 Hortgruppen in der Oselstraße 39; Bedarfs- und Konzeptgenehmigung, Projektauftrag, Vereinbarung zur Grundstücksüberlassung, Bereitstellung über- planmäßiger Auszahlungsmittel für das Haushaltsjahr 2013, Ausnahme vom Finanzierungsvorbehalt; Sitzungsvorlage Nr. 08-14 / V 11322 (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 13.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.5.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 09.04.2013 - Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 11352 - Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale; Sitzungsvorlage Nr. 08-14 / V 11357 - Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 11364 - Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 11374
+- TOP 13.6.: Kinder- und Jugendhilfeausschuss und Ausschuss für Bildung und Sport in der gemeinsamen Sitzung vom 09.04.2013 - Errichtung eines Ersatzbaus im Rahmen der Generalsanierung für die Kinder- und Jugendfreizeitstätte aqu@rium, Alois-Wunder-Straße 1; Träger: Kreisjugendring München-Stadt; Errichtung einer Kindertageseinrichtung mit zwei Hortgruppen an der Alois-Wunder-Straße 1; Zustimmung zur Planung, Genehmigung der Nutzerbedarfsprogramme, Erteilung des Vorplanungsauftrages, Zustimmung zur Trägerschaft der Kindertageseinrichtung; Sitzungsvorlage Nr. 08-14 / V 11367
+- TOP 13.7.: Sozialaussschuss vom 11.04.2013 - Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung der Nutzungsänderung des Wohnraums Theodor-Storm-Straße 12, Altbau, 1. OG rechts durch Schaffung eines Büroraumes und getrennter Umkleideräume für die Rettungswache des BRK-Kreisverband München; Sitzungsvorlage Nr. 08-14 / V 11365
+- TOP 13.8.: Bauausschuss vom 16.04.2013 - Erneuerung der Agnes-Bernauer-Straße zwischen Fischer-von-Erlach-Straße und Von-der-Pfordten-Straße; Bedarfs- und Konzeptgenehmigung; Sitzungs- vorlage Nr. 08-14 / V 07853
+- TOP 14: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 14.1.1.: Oberbürgermeister - Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse
+- TOP 14.1.2.: Direktorium - Verteilung der städtischen Telefonbücher an alle BA-Mitglieder (Antrag Nr. 08-14 / B 02860 des BA 12 Schwabing-Freimann vom 29.03.2011) und Städtische Telefonbücher in elektronischer Form an BA-Mitglieder (Antrag Nr. 08-14 / B 03814 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 27.03.2012) - Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen (Antrag Nr. 08-14 / B 04503 des BA 5 Au-Haidhausen vom 12.12.2012) - BA-Budget; Antrag der Arbeitsgemeinschaft der Pasinger Vereine e.V. vom 30.12.2012 für das Pasinger Faschingstreiben am 12.02.2013; Bewilligungsbescheid vom 18.03.2013 - BA-Budget; Antrag des Vereins 1250 Jahre Pasing e.V. vom 25.11.2012 für einen Kulturbeitrag der Pasinger Schulen zum Stadtteiljubiläum am 18.06.2013; Bewilligungsbescheid vom 18.03.2013 - BA-Beauftragte gegen Rechtsextremismus - Speicherbare Formulare für Anträge bei der Landeshauptstadt München (Antrag des BA 21 Nr. 08-14 / B 04449 vom 04.12.2012)
+- TOP 14.1.3.: Baureferat - Straßenbeschilderung Josef-Osterhuber-Platz (vertagt aus der BA-Sitzung vom 05.03.2013) - Erschließungs- oder Ausbaubeiträge für einen Ausbau der Daudetstraße im Abschnitt zwischen Bergson- und Eisenhartstraße (vertagt aus der BA-Sitzung vom 05.03.2013; s. auch TOP N 2.2.25) - Sprunginsel Offenbach-/Meyerbeerstraße auf Höhe Marsopstraße (vertagt aus der BA-Sitzung vom 05.03.2013) - Verlegung der Pippinger Straße im Bereich von St. Wolfgang - Gehweg im Bereich Sibeliusstraße 5 - Umsetzung der Pasinger Mariensäule (Antrag des BA 21 Nr. 08-14 / B 04518 vom 08.01.2013) - Fahrbahnsanierung Maria-Eich-Straße / Peslmüllerstraße zwischen Wehner- und Bachmairstraße
+- TOP 14.1.4.: Referat für Gesundheit und Umwelt - Vollzug der Wassergesetze; Tiefbrunnen Paulaner, Hanfgartenstraße; Wasserrechtliches Erlaubnisverfahren; Informationsveranstaltung - Vollzug des Bestattungsgesetzes (BestG); Kirchenfriedhof St. Georg Obermenzing, Dorfstraße 37a; Antrag der Pfarrkirchenstiftung Leiden Christi auf Genehmigung zur Wiederinbetriebnahme des Bestattungsbetriebes - Flyer Infoabende des Bauzentrums von Mai bis Juli 2013 - Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2012-2016; Beschluss des BA 21 vom 05.03.2013, hier: Standorte für Mobilfunksendeanlagen analog des Gräfelfinger Modells - Brauerei-Neubau in Langwied (Antrag des BA 21 Nr. 08-14 / B 04517 vom 08.01.2013) sowie Verkehr Fa. Paulaner und Fa. Süderde
+- TOP 14.1.5.: Kommunalreferat - Zuwegung zum Carlhäusl, An der Würm 1; Veröffentlichung in der Rathaus Umschau vom 25.02.2013 (vertagt aus der BA-Sitzung vom 05.03.2013) (s. auch TOP N 2.2.26) - Städtebauliche Gestaltung Pasinger Marienplatz; Verkauf zweier Grundstücke (Antrag des BA 21 Nr. 08-14 / B 04516 vom 08.01.2013)
+- TOP 14.1.6.: Kreisverwaltungsreferat - Stopp des Feldversuchs mit Gigalinern; keine Routen über die A 8 (Antrag des BA 21 Nr. 08-14 / B 03883 vom 17.04.2012) - Aufhebung des Taxistandplatzes Pasinger Bahnhofsplatz; Verkehrsrechtliche Anordnung - Eingeschränktes Haltverbot in der Engelbertstraße, Nordseite westlich der Einmündung "Am Klostergarten"; Verkehrsrechtliche Anordnung - Protokoll des Ortstermins der Taxikommission am Pasinger Bahnhofsplatz am 26.02.2013 - 2. Pasinger ?Baustellenspaziergang? am 18.03.2013, Zusammenfassung der Ergebnisse - Gedenkzug zur Erinnerung an den Todesmarsch von 1945 am 28.04.2013; Auftaktkundgebung Allach: Eversbusch-/Höcherstraße/Mahnmal von 16:00 bis 16:15 Uhr; Zwischenkundgebung Untermenzing: Kirchplatz St. Martin, Eversbuschstraße von 17:00 bis 17:15 Uhr; Zwischenkundgebung Obermenzing: Mahnmal an der Blutenburg von 17:45 bis 18:00 Uhr; Schlusskundgebung Pasing: Mahnmal an der Kaflerstraße von 18:30 bis 19:00 Uhr; Versammlungsanzeige des Vereins Gegen Vergessen ? Für Demokratie e.V.
+- TOP 14.1.7.: Referat für Bildung und Sport - Auslagerung des städtischen Kindergartens Paul-Gerhardt-Allee 39 - Informationen zum Rechtsanspruch auf die Betreuung unter 3-jähriger Kinder und zur neu gegründeten Servicestelle U3 in der Abteilung KITA
+- TOP 14.1.8.: Referat für Stadtplanung und Bauordnung - Vollzug der Baumschutzverordnung; Peter-Keuder-Straße 7, Bescheid vom 07.03.2013 - Vollzug der Baumschutzverordnung; Pasinger Bahnhofsplatz 4, Bescheid vom 07.03.2013 - Vollzug der Baumschutzverordnung; Peter-Putz-Straße 1, Bescheid vom 07.03.2013 - Bauvorhaben Thuillestraße 42, Neubeu eines Mehrfamilienhauses mit Garage - Bauvorhaben Döbereinerstraße 15, Neubau eines Wohnhauses mit Garagen und Stellplätzen; Bezugsfälle - Planfeststellung nach § 18 Allgemeines Eisenbahngesetzt (AEG) i.V.m. § 76 Abs. 1 VwVfG für den Planungsabschnitt 82 M der Ausbaustrecke Ingolstadt - München; Planergänzung zur Auflösung der vorbehaltenen Entscheidung zum Schutz vor Erschütterungen und sekundärem Luftschall; Stellungnahme der Landeshauptstadt München im Anhörungsverfahren - Vollzug der Baumschutzverordnung; Marschnerstraße 97, Bescheid vom 15.03.2013
+- TOP 14.1.9.: Sozialreferat - 4. Informationsveranstaltung zum Thema "Jugendbeteiligung" am 25.04.2013 ab 18:00 Uhr, LesBiSchwules Jugendzentrum (Diversity), Blumenstraße 11, 80331 München - Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 29.11.13 im Sozialreferat - Jugendhilfezentrum Scapinellistraße (Antrag des BA 21 Nr. 08-14 / B 04519 vom 08.01.2013)
+- TOP 14.1.10.: Stadtkämmerei - Unterstützung für die von den Umbaumaßnahmen im Zentrum von Pasing be- troffenen Geschäftsleute; Antrag des BA 21 Nr. 08-14 / B 04355 vom 06.11.2012 (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 14.1.11.: Referat für Arbeit und Wirtschaft - Wieder ein Lebensmittelmarkt für die Josef-Lang-Straße; Antrag des BA 21 Nr. 08-14 / B 04602 vom 05.02.2013 (vertagt aus der BA-Sitzung vom 05.03.2013) - Europe Direct Informationen 01/2013 - Wirtschafts-Info 02/2013
+- TOP 14.1.12.: Stadtwerke München GmbH - Baumaßnahmen der SWM: Fernwärmeprojekt Ernsbergerstraße (vertagt aus der BA-Sitzung vom 05.03.2013) - Baumaßnahmen der SWM: Fernwärmeprojekt Engelbertstraße - Baumaßnahmen der SWM: Stromprojekt Planegger Straße - Übersicht Fernwärme Westausbau - Baumaßnahmen der SWM: Fernwärmeprojekt Landsberger Straße - Baumaßnahmen der SWM; Stromprojekt Agnes-Bernauer-Straße - Baumaßnahmen der SWM; Fernwärmeprojekt Bachbauernstraße, Oberflächenwiederherstellung - Baumaßnahmen der SWM; Wasserprojekt Landsberger Straße / Am Knie
+- TOP 14.1.13.: Münchner Verkehrsgesellschaft mbH (MVG) - Busverbindungen Linien 56, 57, 161
+- TOP 14.1.14.: Bürgermeister Monatzeder - Zuschrift zur Bürgerversammlung am 19.03.2013 in Pasing
+- TOP 14.2: Sonstige
+- TOP 14.2.1.: Kinderkrippe Tausendfüßler München GmbH - Eröffnung einer privaten Kinderkrippe in der Bodenstedtstraße 58 (vertagt aus der BA-Sitzung vom 05.03.2013)
+- TOP 14.2.2.: P+R Park & Ride GmbH - Reservierung von Fahrradabstellplätzen für Frauen, Senioren und Kinder in den Abstellanlagen am Pasinger Bahnhof (Antrag des BA 21 Nr. 08-14 / B 04515 vom 08.01.2013)
+- TOP 14.2.3.: Freie Waldorfschule München Südwest - Zuschüsse zur Kinderbetreuung
+- TOP 14.2.4.: Taxi-München eG - Pasinger Bahnhof - Bahnhofsplatz; Schreiben der Taxi-München eG vom 16.05.2011 (Bezug: Aussprache in der BA-Sitzung am 05.03.2013)
+- TOP 14.2.5.: Bezirksausschuss 12 Schwabing-Freimann - Baumfällungen auf öffentlichem Grund; Antrag des BA 12 vom 09.02.2013
+- TOP 14.2.6.: Baugenossenschaft Arbeiterheim Pasing eG - Verkehrssituation Peter-Putz-Straße und Gräfstraße
+- TOP 14.2.7.: Selbsthilfezentrum München - Münchner Selbsthilfejournal einBlick 01/2013
+- TOP 14.2.8.: Pasing Arcaden GmbH & Co. KG - Pasing Arcaden, Maßnahmenpaket zur Verbesserung der Einfahrtssituation
+- TOP 14.2.9.: 03 Architekten GmbH - ROEK München Südwest; Präsentation zum Kick-Off-Termin am 12.03.2013 im Rathaus von Gräfelfing sowie weitere Termine
+- TOP 14.2.10.: TU München, Fakultät für Architektur, Lehrstuhl für Raumentwicklung - Kolloquium "Der öffentliche Verkehr - Katalysator für die Stadtentwicklung. Public transport as urban generator"; Termine am 22.04., 13.05. und 03.06.2013 jeweils von 18:00 bis 20:00 Uhr im Vorhoelzer Forum der TU München
+- TOP 14.2.11.: Ambiance Pasing GmbH - Außenbeleuchtung beim Baugelände an der Gottfried-Keller-Straße
+- TOP 14.2.12.: Neuer Münchner Kunstverein e.V. - Kunst gegen Gewalt - - Raumsuche in Pasing-Obermenzing
+- TOP 14.2.13.: Seniorenbeirätin des 21. Stadtbezirkes Pasing-Obermenzing - Verlängerung des absoluten Haltverbots in der Bergsonstraße, stadtauswärts, ab Haus-Nr. 82 bis Haus-Nr. 78/80
+- TOP 14.2.14.: Wasserwirtschaftsamt München - Unterhaltsmaßnahmen an der Würm im Bereich Mergenthalerstraße
+- TOP 14.2.15.: Münchner Forum e.V. - Busexkursion zum Lärmschutz am Samstag, den 27.04.2013 von 13:00 bis ca. 18:00 Uhr, Abfahrt Zentraler Omnibusbahnhof Arnulfstraße
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen - 07.05.2013, 19:00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486 - 04.06.2013, 19:00 Uhr, Pfarrheim Leiden Christi, Passionistenstraße 12
+- TOP 15.2.: Rundgang ?Pasinger Baustellenspaziergang? am Montag, den 15.04.2013 um 14:00 Uhr, Treffpunkt Info-Container vor dem Pasinger Rathaus
+- TOP 15.3.: BA-Kindersprechstunde am 19.04.2013 um 15:30 Uhr im Kindercafé in der Pasinger Fabrik
+- TOP 15.4.: Bürgerversammlung des Bezirksteils Obermenzing am Donnerstag, den 25.04.2013 um 19:00 Uhr in der Turnhalle der Schule an der Blutenburg, Grandlstraße 5, 81247 München
+- TOP 15.5.: Neuer Standort für einen BA-Informationsschaukasten: Alte Allee 35 / Rubensstraße, an der Bushaltestelle (als Ersatz für Standort Grundschule An der Schäferwiese)
