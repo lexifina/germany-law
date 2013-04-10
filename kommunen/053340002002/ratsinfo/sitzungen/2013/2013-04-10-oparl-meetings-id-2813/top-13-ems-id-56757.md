@@ -1,0 +1,7 @@
+# TOP 13: Bebauungsplan Nr. 933 - Preusweg Nord -hier: - Bericht über das Ergebnis der Offenlage- Beschluss zur erneuten Offenlage
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Mitte (2013-04-10)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=56757
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=15092&bi=18428
