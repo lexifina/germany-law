@@ -1,0 +1,78 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-04-10T17:00:00+02:00
+- Ende: 2013-04-10T19:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3074
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3074
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=70520
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 18. Sitzung der BVV am 10.04.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 18. Sitzung der BVV am 10.04.2013 - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 18. Sitzung der BVV am 10.04.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Verstärkung der Buslinie 120 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Regelmäßiger Bericht Baumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Betreuung IT-Systeme an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: 60. Jahrestag des Aufstandes in Ost-Berlin und der DDR in besonderer Weise vorbereiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Öffentliche Dokumentation der "Kiezrunden" nach § 78 KJHG - überwiesen
+- TOP 7.8: Bürgerinnen und Bürger vor Lärm schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Verkehrssicherheit im Tegeler Kiez (2) - Schulwegsicherung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Sicherheit für Schulkinder in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Bewertung der vorschnellen Entscheidung zur Schließung der Peter-Witte-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Hausbesuche bei der Klienten-Prüfung zur Leistungsbeantragung des Pflege- und Betreuungsbedarfes - überwiesen
+- TOP 7.13: Jahresbericht der Patientenfürsprecherin für die Reha-Klinik Medical-Park, Humboldtmühle, für den Zeitraum 2012 - überwiesen
+- TOP 7.14: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldtklinikum (somatischer Bereich) für den Zeitraum 2012 - überwiesen
+- TOP 7.15: Tätigkeitsbericht der Frauenbeauftragten für den Zeitraum vom 01.01.2012 bis 31.12.2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Grundschulplanung Märkisches Viertel - beantwortet
+- TOP 8.2: Aussiedlerberatungsstelle an der Reineke-Fuchs-Grundschule - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Auch auf den Bahnhöfen der S 25 dynamische Fahrgastinformationsanzeigen vorsehen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schulwegsicherung Bertha-von-Suttner-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Verkehrssicherheit an den Hallen am Borsigturm - Fußgängerüberweg auf der Straße "Am Borsigturm" - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Gräben im MV reinigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Geeignete Straßen für das Modellprojekt "Berliner Begegnungszonen" in Reinickendorf finden - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Seniorenticket flexibler anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Fahrgastinformationen S-Bahnhof Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: S-Bahnhof Tegel am Tegel-Center ausschildern - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Familienkassen in Reinickendorfer Supermärkten einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: A111 instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Nahversorgung am Eichhorster Weg sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: "Teach First" - Schulen aufmerksam machen - überwiesen
+- TOP 12.2: Fraueninfrastrukturstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schmierereien entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Kunst in Reinickendorf I - Skulptur im Rathausfoyer - überwiesen
+- TOP 12.5: Auf Aktion "Mit dem Rad zur Arbeit" hinweisen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kunst in Reinickendorf II - Sicherung einer Sammlung von Skulpturen, historischen Bauteilen und Straßenmöbeln - überwiesen
+- TOP 12.7: Energiewende in Reinickendorf - überwiesen
+- TOP 12.8: Ausweichverkehr dokumentieren - Verkehrszählung am Zeltinger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Aktion "Saubere Hände" - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Reinickendorf vor Fluglärm schützen I - überwiesen
+- TOP 13.2: Mit dem Wasser-Taxi zum Strandbad Tegel - überwiesen
+- TOP 13.3: Abfallbehälter an der Welfenallee und Donnersmarckallee vorsehen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Reinickendorf vor Fluglärm schützen II - überwiesen
+- TOP 13.5: Stillcafé im Humboldt-Klinikum offen halten - erledigt
+- TOP 13.6: Reinickendorf vor Fluglärm schützen III - überwiesen
+- TOP 13.7: Reinickendorf vor Fluglärm schützen IV - überwiesen
+- TOP 13.8: Überdachung am U-Bhf. Alt-Tegel - überwiesen
+- TOP 13.9: Kurzzeitpflegeplätze einspeisen - überwiesen
+- TOP 13.10: Handlauf am Eingang des S-Bahnhofs Hermsdorf - ohne Änderungen in der BVV beschlossen
