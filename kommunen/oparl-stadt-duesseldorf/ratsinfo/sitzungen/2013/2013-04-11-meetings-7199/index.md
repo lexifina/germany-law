@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-11T17:00:00+02:00
+- Ende: 2013-04-11T18:38:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7199
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7199
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00192781.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00192781.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00192781.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im Jahre - einstimmig beschlossen
+- TOP 4: Designerbörse Mode und Trödelkram im Stahlwerk am 16.06.2013 - einstimmig beschlossen
+- TOP 5: U3-Kindergärten im Stadtbezirk 8 - beantwortet
+- TOP 6: Grundstück Kuthsweg 16 - 20 - beantwortet
+- TOP 7: Logistikunternehmen im Gurkenland - beantwortet
+- TOP 8: Verkehrssituation im Gurkenland - beantwortet
+- TOP 9: Freiwillige Feuerwehr Unterbach - beantwortet
+- TOP 10: Sanierung macht Schule - beantwortet
+- TOP 11: Nebengebäude Schloss Eller - beantwortet
+- TOP 12: Skaterinseln im Stadtbezirk 8 - beantwortet
+- TOP 13: Skater- und Rollsportanlage Heidelberger Straße - beantwortet
+- TOP 14: Winterdienst Vennhauser Allee / Chemnitzer Straße / Zwickauer Straße - beantwortet
+- TOP 15: Lärmschutz Güterzugstrecke Rath - Eller - einstimmig beschlossen
+- TOP 16: Reinigung Bahnböschung Eller-Mitte - einstimmig beschlossen
+- TOP 17: Sicherung des Gleiskörpers zwischen Gumbertstraße und Festenbergstraße - einstimmig beschlossen
+- TOP 18: Hundeauslaufplatz Tannenhofweg - einstimmig beschlossen
+- TOP 19: Bordsteinabsenkungen an den Kreuzungen Coburger Weg / Mündrathweg und Geraer Weg / Mündrathweg - einstimmig beschlossen
+- TOP 20: Verkehrsführung Reisholzer Straße / Schlesische Straße - mehrheitlich abgelehnt
+- TOP 21: Grünfläche Parkplatz Festenbergstraße - einstimmig beschlossen
+- TOP 22: Multifunktions-Sportpark Heidelberger Straße - einstimmig beschlossen
+- TOP 23: Aktivitäten im Stadtbezirk 8 zum Stadtjubiläum - mehrheitlich beschlossen
+- TOP 24: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 25: Endhaltestelle Vennhauser Allee - Sachstandsbericht - zur Kenntnis genommen
+- TOP 26: Wärme- und Solarkataster im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Parkplätze Gubener Straße - zur Kenntnis genommen
+- TOP 28: Sanierung macht Schule im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Straßenverkehr Dillenburger Weg - zur Kenntnis genommen
+- TOP 30: Grünrückschnitt am Campingplatz Süd - Unterbacher See - zur Kenntnis genommen
+- TOP 31: Stellplätze Chemnitzer Straße - zur Kenntnis genommen
+- TOP 32: LKW-Verbot Siedlungsgebiet Ludwigstraße / Kissinger Straße / Fuldaer Straße - zur Kenntnis genommen
+- TOP 33: Videoüberwachung S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 34: Anmeldezahlen an Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Spielplatzsanierung Vennhauser Allee 71 - zur Kenntnis genommen
+- TOP 36: Gertrudisplatz - zur Kenntnis genommen
+- TOP 37: Zuschüsse der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 38: Skateranlage Heidelberger Straße - zur Kenntnis genommen
+- TOP 39: Winterdienst Vennhauser Allee / Chemnitzer Straße / Zwickauer Straße - zur Kenntnis genommen
+- TOP 40: Logistikunternehmen im Gurkenland - zur Kenntnis genommen
