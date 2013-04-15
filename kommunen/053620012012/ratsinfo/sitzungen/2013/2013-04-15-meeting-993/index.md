@@ -1,0 +1,52 @@
+# Hauptausschuss (11. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2013-04-15T18:00:00+02:00
+- Ende: 2013-04-15T19:30:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZV2qor64ns26GFC2mqcxJA4
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/993
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVv7C36b6Vka_rh2i6DFs0Tc-4SQEkWYHTvA2lbOaJu_/Bekanntmachung_Hauptausschuss_15.04.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfmEmRbiCQyZ7jMDKf01alu-m1lo-J7spVViSdSxZ3oB/Oeffentliche_Niederschrift_Hauptausschuss_15.04.2013.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Zur Tagesordnung
+- TOP 2.: Niederschrift vom 18.03.2013
+- TOP 3.: Neues Friedhofskonzept
+- TOP 3.1: Friedhofskonzept; Ergänzungsantrag "Bestattungsgärten/Friedhofspflegewerk“ Bezug: Antrag der CDU-Fraktion vom 18.2.2013
+- TOP 3.2: Friedhofskonzept Hier: Antrag der SPD-Fraktion vom 28.03.2013
+- TOP 3.2.1: Friedhofskonzept - Antrag der SPD-Fraktion vom 28.03.2013 Vorlage Nr. 122/2013 - (kein Text vorhanden)
+- TOP 3.3: Friedhofskonzept; Vorschlag der Verwaltung - (kein Text vorhanden)
+- TOP 3.4: 5.Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 3.5: 5. Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 3.6: 13.Satzung zur Änderung der Gebührensatzung für das Friedhofs- und Bestattungswesen der Stadt Brühl - (kein Text vorhanden)
+- TOP 3.7: 13. Satzung zur Änderung der Gebührensatzung für das Friedhofs- und Bestattungswesen der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.: Doppelhaushalt 2013/2014
+- TOP 4.1: Doppelhaushalt 2013/2014 Doppelhaushalt 2013/2014 hier: 1. erste verwaltungsseitige Fortschreibung 2. Beantwortung von offenen Fragen - (kein Text vorhanden)
+- TOP 4.2: Haushaltssatzung 2013/2014 hier: Stellenplan - (kein Text vorhanden)
+- TOP 4.3: Liste der Anträge der Fraktionen zum Haushalt 2013/2014
+- TOP 4.3.1: Reduzierung der Anzahl der Direktmandate im Rat der Stadt bei der nächsten Kommunalwahl 2014 aus Gründen der Kostenersparnis
+- TOP 4.3.2: Zusätzliche Anträge der Fraktion LINKE. zum Haushalt 2013/2014
+- TOP 5.: Erweiterungsbau GGS Melanchthon - (kein Text vorhanden)
+- TOP 6.: Mitteilungen
+- TOP 6.1: KPTA-Sitzung
+- TOP 7.: Anfragen
+- TOP 7.1: Abfallentsorgung - Anfragen der SPD-Fraktion im HA 05.11.2012 und HA 11.03.2013 - (kein Text vorhanden)
+- TOP 7.2: Parkdeck Giesler-Galerie
+- TOP 7.3: Ausbau Linie 18
+- TOP 7.4: Kunstrasenplätze
+- TOP 7.5: SC Renault
+- TOP B): Nichtöffentliche Sitzung
+- TOP 8.: Haushaltssatzung 2013/2014 hier: Erläuterungen zum Stellenplan - (kein Text vorhanden)
+- TOP 8.1: Stellenplan 2013/2014 hier: Feuerwehr - (kein Text vorhanden)
+- TOP 9.: Kita Ausbau Merseburger- und Clemens-August-Straße -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 10.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen - (kein Text vorhanden)
+- TOP 11.: Unbefristete Niederschlagung einer Forderung - (kein Text vorhanden)
+- TOP 12.: Aufstellung der Vorschlagsliste der Stadt Brühl für die Wahl der Schöffinnen und Schöffen für die Wahlperiode 2014 - 2018 - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen
