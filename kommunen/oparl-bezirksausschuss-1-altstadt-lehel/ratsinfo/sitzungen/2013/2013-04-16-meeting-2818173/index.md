@@ -1,0 +1,96 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-04-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818173
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818173
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Wahlen 2013/2014 ? Anhörung zur Änderung der Stimmbezirkseinteilung
+- TOP .5: Allgemeine Themen
+- TOP .1.: Antrag der FDP-Fraktion zum Vorfall im Kindergarten St.-Anna-Heim, vertagt aus 2013.03 B 1
+- TOP .2.: Aufstellung eines Bebauungsplanes für die Grundstücke Lerchenfeldstraße 4-6 und Seeaustraße 1 (siehe auch B 3.1.12), vertagt aus 2013.03 B 3.1.10
+- TOP .3.: Aufstellung eines Bebauungsplanes für die Grundstücke Oettingenstraße 6-8
+- TOP .1.: Verlegung der Baugrenze in die Straßenmitte der Corneliusstraße
+- TOP .2.: Bebauung des Radspielergartens
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Weinstraße 1 (?Donisl?): Teilbaugenehmigung Teilabbruch und Neubau eines Bürohauses mit Gastronomie
+- TOP .2.: Stollbergstraße 20: Umbau Wohnhaus mit Anbau Personenaufzug und Neubau Rückgebäude mit Umbau Gartenhaus, Tektur (wegen Baumfällung)
+- TOP .3.: Weinstraße 1 (?Donisl?): Teilabbruch und Neubau eines Bürohauses mit Gastronomie (siehe auch Antrag auf Teilbaugenehmigung B 3.1.1)
+- TOP .4.: Lenbachplatz 8: Errichtung eines Membrandachs als wandelbare Überdachung im Innenhof des ?Münchner Künstlerhaus?
+- TOP .5.: Lenbachplatz 8: Innerer Umbau im ?Münchner Künstlerhaus?
+- TOP .6.: Hackenstraße 7: Umbau, Erweiterung Radspielerhaus mit DG-Ausbau, Innenhofunterkellerung und -überdachung, Kellersanierung, Vorbescheid
+- TOP .7.: Pestalozzistraße 2: Vollständiger Rückbau / Teilabbruch
+- TOP .8.: Kreuzstraße 17: Neubau Wohn- und Geschäftsgebäude; Sendlinger Str. 46: bauliche Änderung und Erweiterung UG, EG, 1. OG, Nutzungsänderung, DG-Ausbau
+- TOP .9.: Praterinsel 3-4: Anbau Außentreppe, Nutzungsänderung Fabrik- u. Lagergebäude
+- TOP .10.: Sendlinger Straße 8: Nutzungsänderung und Umbau des ehemaligen Verlagsgebäudes, Abbruch und Neubau Kellerräume, Tektur
+- TOP .11.: Oberanger 43: Revitalisierung eines Wohn- und Geschäftsquartiers mit Aufstockung und Neubau (Vorbescheid), vertagt aus 2013.03 B 3.1.9
+- TOP .12.: Lerchenfeldstraße 4 ? 6: Neubau Mehrfamilienhaus mit Tiefgarage, vertagt aus 2013.03 B 3.1.10
+- TOP .13.: Neuhauser Str. 19-21: Neubau Wohn- / Geschäftshaus, ?Joseph-Pschorr-H.?, Tektur
+- TOP .14.: NACHTRAG: Christophstraße 2: Umbau und Sanierung, Lifteinbau, Dacherneueruung, Anbringung von Balkonen sowie Wiederherstellung der historischen Dachgauben und Straßenfassade sowie Nutzungsänderung Laden/Werkstatt/Garage zu Wohnen
+- TOP .1.: Bürgeranliegen: Freischankflächeneinrichtung nach der Baummaßnahme ?Donisl?
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Französischer Gourmetmarkt vom 25.06. - 29.06.2013, Sendlinger-Tor-Platz
+- TOP .2.: Große Fronleichnamsprozession ab Marienplatz am 30.05.2013
+- TOP .3.: Festgottesdienst Fassadeneinweihung St. Michael, Neuhauser Str. 6, 05.05.2013
+- TOP .4.: Lesung zum Gedenken an die Bücherverbrennung, Odeonsplatz, 10.05.2013
+- TOP .5.: Aktion ?Kinderfreundliches München?, Odeonsplatz, 03.05.2013
+- TOP .6.: Europatag auf dem Marienplatz, 04.05.2013
+- TOP .7.: DGB Kulturfest u. Open-Air, Marienplatz, Kaufingerstraße, Rosenstraße, 01.05.2013
+- TOP .8.: ?Pandas on Tour", WWF Deutschland, Marienhof, 30.09./01.10.2013
+- TOP .9.: Impfberatung, Odeonsplatz, 12.06.2013
+- TOP .10.: Stadtmaiandacht, Marienplatz, 03.05.2013
+- TOP .11.: Lange Nacht der Musik, Odeonsplatz, 11.05.2013
+- TOP .12.: Karfreitagsprozession (03.05.2013) und Auferstehungsfeier (04.05.2013) der Griechisch-Orthodoxen Metropolie von Deutschland, Salvatorplatz und Marienplatz
+- TOP .13.: NACHTRAG: Pfarrfest der Französichsprachigen Kath. Mission am 16.06.2013, St.-Anna-Straße
+- TOP .1.: Bürgeranliegen: Baumgraben / Grünstreifen am Thomas-Wimmer-Ring
+- TOP 1: (E) Errichtung einer Fußgängerzone im Tal (Ziffer 4 des Antrags) Empfehlung Nr. 08-14 / E 01638 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 27.11.2012
+- TOP 1.1.: Baumfällung Kreuzstraße 5
+- TOP 1.2.: Baumfällung Praterinsel 5
+- TOP 1.3.: Bürgeranliegen: Reduzierung der Behindertenparkplätze in der Sendlinger Straße, Vorschlag des Kreisverwaltungsreferates
+- TOP 1.4.: Baumfällung Sattlerstraße 1
+- TOP 1.5.: Baumfällung Platzl 9
+- TOP 1.6.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP 1.1.: Vorstellung des Projekts eines Ausbildungstheaters
+- TOP 1.1.: * Budget-Antrag: "Kunsttunnel Odeonsplatz" vom 28.12.2013 ? 10.01.2014, beantragter Zuschuss: 2.000,- Euro (vertagt aus den Sitzungen vom 19.02. und 21.03.)
+- TOP 1.2.: (E) Budget der Bezirksausschüsse AG "Nachbarn bauen Brücken" Jakobi-Fest am 21.07.2013
+- TOP 1.3.: (E) Budget der Bezirksausschüsse art.homes Vorbereitung und Durchführung des Projektes art.homes von 15. bis 25.06.2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen (BA-Antrags-Nr. 08-14 / B 04503 des BA 5), Antwortschreiben des Direktoriums
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Erweiterung der BA-Vertretung in Wettbewerben, Beschluss der Vollversammlung des Stadtrates vom 27.02.2013, Sitzungsvorlage Nr. 08-14 / V 11083
+- TOP 0.3.: Schreiben der LBK und Baugenehmigung zum Bauvorhaben Sattlerstraße 1
+- TOP 0.4.: Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss 1 in den Mieterbeirat, Beschluss des Sozialausschusses vom 11.04.2013
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Aufstellen von zusätzlichen Abfallbehältern am Altstadtring - Bürgeranliegen, Antwortschreiben des Baureferates (siehe auch TOP 2013.01 C 1.1)
+- TOP 0.6.: Abbrennen eines Feuerwerks, 11.04.2013, Lenbachplatz 8 (Künstlerhaus)
+- TOP 0.7.: Veranstaltung "Aktiv gegen Krebs", 20.04.2013, Odeonsplatz (Eilentscheidung)
+- TOP 0.8.: Konzeptionelle Planung für das Maximiliansforum (BA-Antrag Nr. 08-14 / B 01983 vom 16.03.2010), Zwischeninformation des Kulturreferates
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Fußgängerzone, Umsetzungskonzept zur Optimierung der Barrierefreiheit, Erweiterung in der Eisenmannstraße, Beschluss der Vollversammlung vom 19.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11000)
+- TOP 0.3.: Unterrichtung über das Fällen von Gefahrenbäumen: Viktualienmarkt (1 Robinie)
+- TOP 0.4.: Genehmigung für Baumfällungen in der Sattlerstraße 1
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.2013: Zuschussnehmerdatei 2013, Vollzug des Haushaltsplanes 2013 für die Bereiche: ?Förderung freier Träger? des Stadtjugendamtes, (Sitzungsvorlage Nr. 08-14 / V 11352) ?Förderung freier Träger? des Sozialreferats/Zentrale, (Sitzungsvorlage Nr. 08-14 / V 11357) ?Förderung freier Träger? des Amtes für Soziale Sicherung, (Sitzungsvorlage Nr. 08-14 / V 11364 ?Förderung freier Träger? des Amtes für Wohnen und Migration, (Sitzungsvorlage Nr. 08-14 / V 11374) ?Förderung freier Träger? des Sozialreferats/Zentrale, (Sitzungsvorlage Nr. 08-14 / V 11357)
+- TOP 0.2.: Errichtung eines zentralen und transparenten Vergabesystems für Betreuungsplätze in städtischen Kinderkrippen, BA-Antrag Nr. 08-14 / B 04330, Unterstützung des BA 8 (siehe auch TOP 02.2013 E 4.5)
+- TOP 0.3.: Rechtsanspruch für unter 3-jährige Kinder, Information des Stadtschulrates
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP .3.2: Sonstige
