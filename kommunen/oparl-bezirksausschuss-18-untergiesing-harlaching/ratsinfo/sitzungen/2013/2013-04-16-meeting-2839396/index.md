@@ -1,0 +1,90 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-04-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839396
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839396
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Obst- u. Gemüsestand Ecke Nauplia-/St.-Magnus-Straße; Information durch die Bezirksinspektion zu 2.2.1.1 Schreiben der PI 23 vom 21.03.13
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Maibaumverein Menterschwaige e.V., für die Maßnahme: Harlachinger Maifest von 30.04. bis 01.05.2013; Antragssumme: 4.943,00 ?; Beschlussvorlage des Direktoriums vom 20.03.13
+- TOP 3.2.: AntragstellerIn: Karl & Liesl e.V., für die Maßnahme: Fertigung und Einbau eines Spielhauses; Antragssumme: 4.330,00 ?; Beschlussvorlage des Direktoriums vom 26.03.13
+- TOP 3.3.: AntragstellerIn: Koop e.V., für die Maßnahme: Festival "Isarsprudel" vom 20. bis 25.08.13; Antragssumme: 2.600,00 ?; Beschlussvorlage des Direktoriums vom 22.03.13
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Projektname: Säbener Straße, Kreuzung Grödner- Klausener Straße (bauliche Verengung der Säbener Straße auf Höhe der Kreuzung); Beschluss des BA 18 vom 16.04.13 (vertagt aus der Sitzung vom 19.03.13)
+- TOP 3.1.: Öffnung der einbahngeregelten Alois-Wohlmuth-Straße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 21.03.13 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Freigabe der Berchtesgadener Straße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksaussschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 26.03.13 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.3.: Schilcher Weg 8 - Widmungsänderung Radweg; Erinnerungsverfahren; Zuleitung des Baureferats vom 07.03.13 mit der Bitte um Stellungnahme
+- TOP 3.1.: Entwurf des Lärmaktionsplans für München; Stellungnahme des BA 18 vom 25.06.12 zu Tempo 50 in der Pilgersheimer Straße und Tempo 30 in der Hans-Mielich-Straße; Antwortschreiben des RGU vom 14.03.13 (neutrale Erledigung)
+- TOP 3.1.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen und im 18. Stadtbezirk Untergiesing-Harlaching; Sitzungsvorlage Nr. 08-14 / V 11402; Beschluss des Bauausschusses vom 12.03.13 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Prößlstraße 5; Bescheid vom 28.03.13 3.3.6.1.2 Geiselgasteigstraße 103; Bescheid vom 27.03.13 3.3.6.1.3 Lorenzonistraße 35; Bescheid vom 11.03.13
+- TOP 3.1.: Tier- und Vogelschutz im Perlacher Forst im Hinblick auf das anstehende Fest des Burschenvereins Harlaching; Bürgerantrag an den Verein zur Erhaltung u. Pflege des Perlacher/Grünwalder Forstes e.V. mit der Bitte um Kenntnisnahme
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Einrichtung einer Tagespflege-Station und Bereitstellung eines Kurzzeitpflegeplatz-Kontingents im Neubau des Alten- und Pflegeheims an der Tauernstraße; BA-Antrag Nr. 08-14 / B 04530 vom 15.01.13: Antwortschreiben des Sozialreferats vom 27.03.13 (negative Erledigung)
+- TOP 3.1.: Zuschussnehmerdatei 2013; Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" 3.4.6.1.1 des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 11352 3.4.6.1.2 des Sozialreferates/Zentrale; Sitzungsvorlage Nr. 08-14 / V 11357 3.4.6.1.3 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 11364 3.4.6.1.4 des Amtes für Wohnen u. Migration; Sitzungsvorlage Nr. 08-14 / V 11374; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses vom 09.04.13 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Obere Weidenstraße; Neubau einer Wohnanlage mit TG; Anhörung vom 28.02.13 (vertagt aus der Sitzung vom 19.03.13)
+- TOP 3.2.: Autharistraße 26; Erweiterung einer Doppelhaushälfte; Anhörung vom 21.02.13 (vertagt aus der Sitzung vom 19.03.13)
+- TOP 3.3.: Tauernstraße 11; Neubau eines Pflegeheims - VORBESCHEID; Anhörung vom 07.03.13 (vertagt aus der Sitzung vom 19.03.13)
+- TOP 3.4.: Schmorellplatz 8; Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 14.03.13 (vertagt aus der Sitzung vom 19.03.13)
+- TOP 3.5.: Benediktenwandstraße 21; Neubau einer Wohnanlage mit TG - TEKTUR; Anhörung vom 21.03.13
+- TOP 3.6.: Am Perlacher Forst 174; Neubau einer Wohnanlage mit TG - TEKTUR; Anhörung vom 25.03.13 zu 3.5.4.1.6 Bürgerschreiben vom 04.03.13
+- TOP 3.7.: Harlachinger Str. 51; Hygieneverbesserungsmaßnahmen kleines OP-Zentrum; Anhörung vom 21.03.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Vorkaufsrecht nach dem BauGB; BA-Antrag Nr. 08-14 / B 04610 vom 19.02.13 und Vorkaufsrecht - Verbesserung des Verfahrens, Nr. 126/GL/2013, Vorkaufsrecht für das Anwesen Oefelestraße, Nr. 127/GL/2013; Zwischennachricht des Kommunalreferats vom 21.03.13
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen Mangfallstraße; Unterrichtung vom 27.03.13 3.5.6.2.2 Anwesen Haselburgstraße; Unterrichtung vom 26.03.13
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen; Antrag Nr. 08-14 / B 04503 des BA 5 vom 12.12.2012; Antwortschreiben des Direktoriums vom 22.03.13 und Verteilung der städt. Telefonbücher an alle BA-Mitglieder; Antrag Nr. 08-14 / B 02860 des BA 12 vom 29.03.11; Städtische Telefonbücher in elektronischer Form für BA-Mitglieder; Antrag Nr. 08-14 / B 03814 des BA 2 vom 27.03.12; Antwortschreiben des Direktoriums vom 04.03.13 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: AntragstellerIn: Maibaumverein Menterschwaige e.V., für die Maßnahme: Harlachinger Maifest von 30.04. bis 01.05.2013; Antragssumme: 4.943,00 ?; Beschlussvorlage des Direktoriums vom 20.03.13
+- TOP 3.2.: AntragstellerIn: Karl & Liesl e.V., für die Maßnahme: Fertigung und Einbau eines Spielhauses; Antragssumme: 4.330,00 ?; Beschlussvorlage des Direktoriums vom 26.03.13
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
