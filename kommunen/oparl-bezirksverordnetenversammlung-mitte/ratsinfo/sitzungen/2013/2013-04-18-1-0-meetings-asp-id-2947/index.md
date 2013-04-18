@@ -1,0 +1,109 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2013-04-18T17:30:00+02:00
+- Ende: 2013-04-18T21:45:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2947
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2947
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=107298
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=107525
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Stadtteilvertretung Turmstraße – Alles auf Anfang? - beantwortet
+- TOP 5.2: Offene Spielhallen am Karfreitag - und das Bezirksamt schaut zu? - beantwortet
+- TOP 5.3: Kein Außenbecken am Seydlitzbad – wie nun weiter? - beantwortet
+- TOP 5.4: Abgebrannt im Schillerpark? - beantwortet
+- TOP 5.5: Öffentliches und / oder dienstliches Interesse an Verwaltungsaustausch - beantwortet
+- TOP 5.6: Erschließung und Baustellenzufahrt Wohngebiet Mauerpark - beantwortet
+- TOP 5.7: United Buddy Bears - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Straßenbahn nach Moabit –Gefahr für den Kleinen Tiergarten? - beantwortet
+- TOP 6.2: Legionellengefahr in Kita Rathenower Straße? - beantwortet
+- TOP 6.3: Keine Vertragsverlängerung für das ATZE Kinder- und Musiktheater? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Fortbestand der kommunalen Jugendfreizeiteinrichtungen in Mitte - beantwortet
+- TOP 7.2: Außenbecken Seydlitzstraße - beantwortet
+- TOP 7.3: Dürfen Maxi und Schnute endlich raus aus dem Zwinger? - beantwortet
+- TOP 7.4: Müssen in Zukunft die Mitarbeiter des Ordnungsamtes sich selbst und der Polizei ein „Knöllchen“ verpassen? - beantwortet
+- TOP 7.5: Ausschreibung von Reinigungsleistungen an Schulen - beantwortet
+- TOP 7.6: Ortsteilschilder im Bezirk Mitte von Berlin - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: über die Wahl eines stimmberechtigten Mitgliedes des Verwaltungsrats des Eigenbetriebs „Kindergärten City, Eigenbetrieb von Berlin“ durch die Bezirksverordnetenversammlung Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: über den Bebauungsplanentwurf 1-60a „Alexander- /Schillingstraße“ sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-60a. - überwiesen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: VzÄ-Abbau: Die Personalphantasien des Senates dürfen Mittes bezirkliche Angebote nicht lahm legen! - überwiesen
+- TOP 11.2: Schulverpflegung - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Integrationspreis 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sprechstunde „Pflegestützpunkte“ im Rathaus Tiergarten - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Vorbereitung des Betriebs der Plansche im Schillerpark - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Vertragsverlängerung für das ATZE Kinder- und Musiktheater unter veränderten Konditionen - überwiesen
+- TOP 11.7: Empfehlung des Migrationsbeirates: Straßenumbenennung im Afrikani-schen Viertel umsetzen! - vertagt
+- TOP 11.8: Verträge mit ATZE MUSIKTHEATER verlängern und alle Optionen einer zukunftsfähigen Finanzierung prüfen - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Dreck-Weg-App: Meldung von Verunreinigungen für Bürgerinnen und Bürger vereinfachen! - überwiesen
+- TOP 12.2: Grünanlagenkonzept für Mitte? - überwiesen
+- TOP 12.3: Arbeit der Bürgergremien in den QM-Gebieten in Mitte aufwerten und ersichtlicher machen - überwiesen
+- TOP 12.4: Ausweisung der Kosten für die Beantwortung Kleiner Anfragen und die Erstellung von Schlussberichten - überwiesen
+- TOP 12.5: Konzept für kommunale Politikvermittlung entwickeln! - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Neuplanungen ehem. Schultheiss-Areal Turmstraße: Unterrichtung der Einwohnerschaft gemäß § 41 Bezirksverwaltungsgesetz - überwiesen
+- TOP 12.7: Besetzung im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Straßenbahnlinie in die Turmstraße verlängern: Mehr Bürgerbeteiligung - überwiesen
+- TOP 12.9: Offensiv auf Gedenkstätte Kroll-Oper (Ermächtigungsgesetz) hinweisen! - überwiesen
+- TOP 12.10: Wahl von Stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Skulpturengarten im Tiergarten mehr Bedeutung schenken! - überwiesen
+- TOP 12.12: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Funktionsstatus von Fahrstühlen und Rolltreppen bei BVG und S-Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen - überwiesen
+- TOP 12.15: Informativere Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Runder Tisch „Hilfe für Obdachlose und Wohnungslose“ - überwiesen
+- TOP 12.17: Wahl von Schiedspersonen und Patientenfürsprecherinnen und Patientenfürsprechern - überwiesen
+- TOP 12.18: Raum für Ateliers, Handwerk und Startups in Mitte schaffen - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Straßenbenennung Elisabeth-Schmitz-Pfad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Spielplatzentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Ausweich-Grillen im Monbijoupark: Grillflächen und Grillregeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Mehr Pünktlichkeit an Mittes Schulen durch mehr Busse der Linie M 27 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Wir wollen wieder draußen schwimmen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Freies W-Lan im Aktiven Zentrum Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Mehr Schutz vor Werbung - Besserer Hinweis auf Melderegisterauskünfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Mehr Presseinformationen des Bezirksamtes über Spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Straßensozialarbeit in der Turmstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.10: Straßenräume in Mitte auch in Zukunft lebendig gestalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Bündnis für soziale Mieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: B-Laden in der Lehrter Straße erhalten - Zuschuss weiter bezahlen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Bürgerportal Maerker in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Wirtschaftsforum Berlin Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Stellenbefristung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Abgabe von Maxi und Schnute JETZT planen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Kooperation zwischen dem Bezirksamt Mitte und der Antidiskriminie-rungsstelle für Senioren und Behinderte sowie der „Landesstelle für Gleichbehandlung – gegen Diskriminierung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Grünes Licht für Sportveranstaltungen im Bezirk! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.19: Mehr Stellflächen in BVG-Bussen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Mehr Fahrgastsicherheit bei Bussen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.21: Linienstraße 206 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Allen Eltern in Mitte die Möglichkeit zum Babyschwimmen anbieten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Endlich Schluss mit der Zweckentfremdung von Wohnraum! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Wasser auf die Spielplätze am Aktiven Zentrum Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: über die Konkretisierung der Sanierungsziele für den Östlichen Melchiorblock (Block 104 026) im Sanierungsgebiet Nördliche Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Benennung einer privaten Platzfläche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Für eine zeitgemäße SeniorInnen-Politik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Den demografischen Wandel ernst nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
