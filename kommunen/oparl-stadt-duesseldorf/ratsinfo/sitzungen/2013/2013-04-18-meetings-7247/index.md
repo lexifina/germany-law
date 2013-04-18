@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-18T14:00:00+02:00
+- Ende: 2013-04-18T21:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7247
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7247
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193017.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193017.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193017.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell der SPD: Eklat bei der Intendantensuche - beantwortet
+- TOP 3.2: Anfrage aktuell von Bü90-Grü: Findungskommission Schauspielhaus - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage CDU; FDP. Kanal-TÜV NRW - eine Belastung für die Bürger? - beantwortet
+- TOP 4.2: Anfrage Rh Dr. Kirchner: Zu den Pensionsverpflichtungen der Stadt Düsseldorf - beantwortet
+- TOP 4.3: Anfrage Dr. Kirchner: Stadt Düsseldorf und Pensionsverpflichtungen - beantwortet
+- TOP 4.4: Anfrage Freie Wähler: Erzielte Steuereinnahmen Febraur 2013 - beantwortet
+- TOP 4.5: Anfrage Freie Wähler: : Zur Netto-Finanzposition der Stadt Düsseldorf - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen - beantwortet
+- TOP 4.7: Anfrage Rh Petring: Haus Dorotheenstr. 73 / Birkenstr. 130 - schriftlich beantwortet
+- TOP 4.8: Anfrage Bü90-Grü: Goethe-Museum - schriftlich beantwortet
+- TOP 4.9: Anfrage Die Linke: Kosten für die EInführung der neuen Dachmarke - schriftlich beantwortet
+- TOP 4.10: Anfrage Rfr. Kraft-Dlangamandla Stellenabbau in der Methadon- und Drogenambulanz - schriftlich beantwortet
+- TOP 4.11: Anfrage Rh Blanchard: Totale Videoüberwachung von U-Bahnhöfen und Haltestellen der Rheinbahn - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Sachstand zum Ausgleich der Mehrarbeitszeiten bei der Feuerwehr Düsseldorf - zur Kenntnis genommen
+- TOP 8: Sachstandbericht zur Einführung einer Dachmarke - zur Kenntnis genommen
+- TOP 9: Entwurf des NKF-Gesamtabschlusses 2010 - einstimmig beschlossen
+- TOP 10: Konjunkturpaket II - Abschlussbericht - zur Kenntnis genommen
+- TOP 11: Siegburger Straße 38, Benzenberg-Realschule - Umbau zum Ganztagsbetrieb und Sanierung der naturwisse - einstimmig beschlossen
+- TOP 12: Am Poth 60, Gymnasium Gerresheim - Sanierung der naturwissenschaftlichen Räume - Ausführungs- und Fi - einstimmig beschlossen
+- TOP 13: Neubau und Betrieb eines Balletthauses Am Steinberg 35 als Probezentrum für das Ballett der Deutsche - mehrheitlich beschlossen
+- TOP 13.1: ÄA Bü90-Grü:Neubau und Betrieb eines Balletthauses - mehrheitlich abgelehnt
+- TOP 14: Frankfurter Straße 245, Feuer- und Rettungswache 6 – Ersatzneubau Atemschutzübungszentrum mit Brands - einstimmig beschlossen
+- TOP 15: Beschluss zur Fortsetzung der Theatergemeinschft Düsseldorf/Duisburg Deutsche Oper am Rhein - einstimmig beschlossen
+- TOP 16: Zweckverband Verkehrsverbund Rhein Ruhr; - zurückgezogen
+- TOP 17: Rat Mieterbüro präventiv Koordination Wohnungsnotfälle Obdachlose Personalkosten - mehrheitlich beschlossen
+- TOP 18: 2. Änderung des Landschaftsplans zur Umsetzung des Gesamtnutzungskonzeptes für den Unterbacher See, - einstimmig beschlossen
+- TOP 19: 37. ordentliche Hauptversammlung des Deutschen Städtetages - einstimmig beschlossen
+- TOP 20: Genehmigung der Wiederbestellung eines Vorstandsmitglieds der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 21: Nachwahl einer Fachjurorin/eines Fachjurors in das Preisgericht zur Verleihung des Förderpreis für L - einstimmig beschlossen
+- TOP 22: Verbandsversammlung des Zweckverbandes Unterbacher See - einstimmig beschlossen
+- TOP 23: Nachbesetzung des Kommunalwahlausschusses - einstimmig beschlossen
+- TOP 24: Bestellung von Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 25: Schulausschuss-Umbesetzung beratender Mitglieder- - einstimmig beschlossen
+- TOP 26: Wiederwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 27: Wiederwahl eines Schiedsmannes - einstimmig beschlossen
+- TOP 28: Graf-Recke-Stiftung-Verlängerung der Veränderungssperre - einstimmig beschlossen
+- TOP 29: PlNr 5174/017-beiders.Hinter der Böck- VÄ - einstimmig beschlossen
+- TOP 30: Anträge
+- TOP 30.1: Antrag SPD: Rechtsgutachten zum Ausgleich der Überstunden bei der Feuerwehr - zurückgezogen
+- TOP 30.2: Antrag Freie Wähler: Obdachlosenzeitung Fifty-Fifty - zurückgezogen
+- TOP 30.3: Antrag der Ratsfraktionen von CDU und FDP: Die Reform der Düsseldorfer Museen: Strukturen verbessern - mehrheitlich beschlossen
+- TOP 30.4: Antrag der Ratsfraktion von BÜ90/GRÜ: Stadtradeln – Politik und Verwaltung radeln für ein gutes Klim - mehrheitlich abgelehnt
+- TOP 30.5: Antrag Freie Wähler: Die Leistungen der Familienkarte erweitern - mehrheitlich abgelehnt
+- TOP 30.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30.6.1: ÄA CDU und FDP: Gutachten zur Zukunft der Düsseldorfer Wasserversorgung
+- TOP 30.6.1.1.1: Antrag Die Linke: Bezahlung der Überstunden für die Feuerwehr
+- TOP 30.6.1.2: Antrag Die Linke: Interventionsstelle gegen häusliche Gewalt
+- TOP 30.6.1.3: Antrag Bü90-Grü: Ausgleich der Mehrarbeitszeiten bei der Feuerweh
+- TOP 30.7: Antrag Bü90-Grü: Gutachten zur Zukunft der Düsseldorfer Wasserversorgung
+- TOP 30.7.1.1: Antrag Bü90-Grü: Maßnahmenpaket zur Einhaltung der Stickstoffdioxid-Grenzwerte
+- TOP 31: Verwaltungsrat der Stadtsparkasse - einstimmig beschlossen
+- TOP 32: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
