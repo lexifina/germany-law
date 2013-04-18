@@ -1,0 +1,112 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2809137
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2809137
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1: (E) Sicherer Radweg von der Messestadt ins Truderinger Gymnasium Empfehlung Nr. 08-14 / E 01485 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 27.09.2012 - <div>nach Antrag</div>
+- TOP 2: (E) Schulsprengeländerung bzw. -anpassung .... - <div>nach Antrag</div>
+- TOP 2.3.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund; Abhalten eines Flohmarktes am 04.05.2013 auf dem Platz der Menschenrechte
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Freundeskreis des Sonderpädagogischen Förderzentrums München Ost Druckkosten für die Schülerzeitung ?Eastsider? - <div>Zuschuss in voller Höhe</div>
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kreativ Musikforum Konzert der Musikschüler am 11.05.2013 - <div>Zuschuss in voller Höhe</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrssituation Friedenspromenade - <div>Information der Antragstellerin</div>
+- TOP 2.2.: Parkplatzsituation Am Hochstand - <div>Ortstermin geplant</div>
+- TOP 2.3.: Glasfaserausbau in Trudering - <div>Anfrage an das Referat für Arbeit und Wirtschaft</div>
+- TOP 2.4.: Antrag für eine Mensa und für die Lösung der angespannten Raumsituation am Schulstandort Feldbergstraße - <div>nach Antrag</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Forderung nach Lärmmessungen außerhalb des Mittleren Rings im Zuge des Lärmaktionsplans - <div>Nachfrage beim RGU</div>
+- TOP 3.2.: Verkehrssituation am Rappenweg - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Maßnahmen gegen das Parken von großen Firmen-Lkws in den Wohngebieten - <div>siehe TOP 4.3</div>
+- TOP 3.4.: Kinderarztpraxis im 4. Bauabschnitt Wohnen in der Messestadt - <div>Nachfrage beim RGU</div>
+- TOP 3.5.: Trägerausschreibung für das Kitz in der Heinrich-Böll-Straße - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Publikationen und Infoveranstaltungen in anderen Muttersprachen über das Bayerische Schulsystem - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Informationsveranstaltung zum Truderinger Gymnasium; Themen u. a. : - Bauliche Themen - Pädagogisches Konzept - Erschließung des Schulwegs - <div>Informationsveranstaltung am 25.04.2013</div>
+- TOP 3.8.: Schulbedarf bei Erstklässlern - <div>zur Kenntnis genommen</div>
+- TOP 3.9.: Anfrage zur Erreichbarkeit von Kindertageseinrichtungen für Auskünfte im Bezirk 15 Trudering-Riem - <div>Nachfrage beim Referat für Bildung und Sport</div>
+- TOP 3.10.: Gemeinsames Gespräch mit den Vereinen zur Sporthallenbelegung im Stadtbezirk 15 Trudering-Riem - <div>Klären ob 2 BA-Vertreter/innen teilnehmen können</div>
+- TOP 3.11.: Bahnhof Messestadt West; Aufrechterhaltung des Café-Betriebs oder Einrichtung eines Cafés für Jugendliche - <div>Nachfrage zur Laufzeit des Mietvertrags</div>
+- TOP 3.12.: Auf der Suche nach der Zukunft Kulturzentrum Messestadt ? der richtige Weg - <div>zur Kenntnis genommen</div>
+- TOP 3.13.: Neue Mobilität fördern - <div>zur Kenntnis genommen</div>
+- TOP 3.14.: Beteiligung der Bezirksausschüsse am Projekt "Langfristige Siedlungsentwicklung" - <div>zur Kenntnis genommen</div>
+- TOP 3.15.: Mut zur nachhaltigen Gestaltung - externe kleinteilige B-Pläne zulassen - <div>zur Kenntnis genommen</div>
+- TOP 3.16.: Gestaltung des Willy-Brandt-Platzes - <div>WV im Juli</div>
+- TOP 3.17.: Endlich Sitzbänke der Messestadt-Promenade renovieren - <div>zur Kenntnis genommen</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Garagen- oder Tiefgaragenbau auf dem Towergelände und Untersuchung der/s Messefreigelände/s und anderer Grundstücke der LH München, des Freistaates und der Flughafen GmbH - <div>neuer Antrag hierzu </div>
+- TOP 4.2.: Langfristiges tragfähiges Konzept für den Park und -Such- Verkehr während der Großmessen und größeren Besuchermessen - <div>neuer Antrag hierzu</div>
+- TOP 4.3.: Widmung der Selma-Lagerlöf-Straße, Heinrich-Böll-Straße, Mutter-Teresa-Straße und der Ingeborg-Bachmann-Straße - <div>gem. Antrag inkl. Ergänzungen</div>
+- TOP 4.4.: Zweiklassensystem bei der Hausverwaltung durch die GEWOFAG? - <div>nach Antrag</div>
+- TOP 4.5.: Chinesischer Borkenkäfer im Stadtbezirk 15? - <div>nach Antrag</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Leistungsprogramm 2014 der MVG - <div>Stellungnahme siehe Protokoll</div>
+- TOP 5.2.: Aktive Stadt- und Ortsteilzentren im Stadtteil Trudering - Vorbereitende Untersuchungen durch die Münchner Gesellschaft für Stadterneuerung (MGS) - <div>in den UA Planung verwiesen</div>
+- TOP 5.3.: Feldbergstraße; Einrichtung eines Fußgängerüberweges und Friedenspromenade; Geschwindigkeitsbeschränkung auf 30 km/h - <div>Stellungnahme siehe Protokoll</div>
+- TOP 5.4.: Fahrradparcours am Riemer See am 28.04.2013 - <div>Zustimmung</div>
+- TOP 5.5.: Fußballturnier am Graf-Spee-Platz am 19.05.2013 - <div>Zustimmung</div>
+- TOP 5.6.: Feriensportkurse des Referats für Bildung und Sport am Skatepark in der Helsinkistraße am 31.07., 01.08., 08.08., 09.08.2013 - <div>Zustimmung</div>
+- TOP 5.7.: Spielaktionen der Spiellandschaft Stadt e.V. und weiteren Veranstaltern auf div. Grünanlagen ab April 2013 - <div>Zustimmung</div>
+- TOP 5.8.: Spielbus an der Ruth-Beutler-Straße am 31.07.-02.08.2013 - <div>Zustimmung</div>
+- TOP 5.9.: Spielbus am Riemer See vom 09.-11.09.2013 - <div>Zustimmung</div>
+- TOP 5.10.: Spielbus des Echo e.V. auf der Wiese zwischen Helsinkistraße, Stockholmstraße, und Lehrer-Wirth-Straße am 16.10.2013 - <div>Zustimmung</div>
+- TOP 5.11.: Herbstfest des Echo e.V. auf der Wiese südlich Helsinkistraße 100 am 05.10.2013 - <div>Zustimmung</div>
+- TOP 5.12.: Familienveranstaltung im Riemer Park am 07.07.2013 - <div>Zustimmung</div>
+- TOP 5.13.: Flohmarkt auf dem Platz der Menschenrechte am 04.05.2013 - <div>Zustimmung</div>
+- TOP 5.14.: Truderinger Festwoche vom 09.-20.05.2012 auf dem Festplatz Wasserburger Landstraße / Feldbergstraße - <div>Zustimmung</div>
+- TOP 5.15.: Tanz in den Mai auf dem Truderinger Festplatz am 27.04.2013 - <div>Zustimmung</div>
+- TOP 5.16.: Informationsveranstaltung zu Meningokokken am 22.04.2013 auf dem Willy-Brandt-Platz - <div>bereits genehmigt</div>
+- TOP 5.17.: Wahlen 2013 / 2014 - Änderung der Stimmbezirkseinteilung - <div>Zustimmung</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Jubiläumsveranstaltung 45 Jahre Ostpark am 13.07.2013 - <div>gem. der Empfehlung des UA Kultur</div>
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: 14. Änderung des Flächennutzungsplans der Gemeinde Feldkirchen südlich der BAB A 94, westlich der B 471 und nördlich der Gemeindegrenze zur Gemeinde Haar - <div>gem. der Empfehlung des UA Planung</div>
+- TOP 7.2.: Messestadt Riem - Bebauungsplan mit Grünordnung Nr. 2065 - Willy-Brandt-Allee (südlich), Astrid-Lindgren-Straße (westlich), Michael-Ende-Straße (beidseits), Elisabeth-Mann-Borgese-Straße (nördlich), Heinrich-Böll-Straße (östlich) - (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728 h und 1728 l) - <div>gem. der Empfehlung des UA Planung</div>
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: TSV Trudering e.V. - Verwendungsnachweis, Kurzbericht - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Chorgemeinschaft St. Peter und Paul - Verwendungsnachweis - <div>zur Kenntnis genommen</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1: Entscheidungen entgegen dem Votum des Bezirksausschusses: Kranichweg 25, Wachtelweg 6, Großfriedrichsburgerstr.13, Friedenspromenade 103, Vogesenstr.18, Eisvogelweg 29, Reiherweg 15b Einzelbaumfällungsanträge: 8.2 - 8.31: Tangastr.9b / Böcklerweg 9 / Kathreinweg 2 / Birkhahnweg 55 / Achenseeplatz 9 / Elritzenstr.42 / In der Rosenau 11 / Tsingtauerstr.99 / Reiherweg 15a/15b / Truderingerstr.265b / Zehntfeldstr.129 / Bajuwarenstr.130 / Bajuwarenstr.99 / Kilihofstr.27 / Gottschalkstr.14 / Salzmesserstr.51 / Kreillerstr.171 / Turnerstr.66 / Florastr.45b / Kreillerstr.194 / Elfriedenstr.64 / Fabinistr.3 / Brachsenstr.5 / Solalindenstr.30 / Feldbergstr.58 / Am Schlossacker 8 / Waldschulstr.17 - <div>gem. der Empfehlung des UA Umwelt</div>
+- TOP 9: Verschiedenes
+- TOP 9.1.: Maßnahmen zur Bahnlärmsanierung in Trudering- Sitzungsvorlagen-Nr. 08-14 / V 11160 - <div>TOP 9 - siehe Protokoll</div>
+- TOP 9.2.: 4. Informationsveranstaltung zum Thema "Jugendbeteiligung"
+- TOP 9.3.: Baumfällungen auf öffentlichem Grund
+- TOP 9.4.: Wohnungspolitische Optimierungsmaßnahmen in der Messestadt aufzeigen - Antrag Nr. A 04131
+- TOP 9.5.: Wohnpotenziale am Rande des Riemer Parks objektiv bewerten - Antrag Nr. A 04136
+- TOP 9.6.: Kunst im öffentlichen Raum - "Wir hier" am Willy-Brandt-Platz vom 15. - 17.04.2013
+- TOP 9.7.: Markgrafenstraße - Straßenausbau beim Gymnasium
+- TOP 9.8.: Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse
+- TOP 9.9.: BA-Beauftragte gegen Rechtsextremismus
+- TOP 9.10.: Verteilung von Informationsmaterial durch REFUGIO auf Bürgerversammlungen der Landeshauptstadt
+- TOP 9.11.: 4. Informationsveranstaltung zum Thema "Jugendbeteiligung" am 25.04.2013
+- TOP 9.12.: Busexkursion zum Thema Lärmschutz am 27.04.2013
+- TOP 9.13.: Internetpräsenz vom Bündnis Bezahlbares Wohnen
+- TOP 9.14.: Veranstaltungskalender auf muenchen.de
+- TOP 9.15.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen
+- TOP 9.16.: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk (04.03. - 07.04.2013) - <div>TOP 10 wurde zur Kenntnis genommen</div>
+- TOP 10.2.: Abbruchanzeigen: - Gottschalkstr. 14 - Westermeierstr. 10 - Sperberstraße 16 - Ilmstraße 4 - Heilwigstr. 32 - Jagdhornstr. 27 - Stieglitzweg 18 - Kilihofstraße 27 - Solalindenstr. 65a
+- TOP 10.3.: Grundstücksgeschäft Heinrich-Wieland-Straße
+- TOP 10.4.: Grundstücksgeschäft Den-Haag-Straße
+- TOP 10.5.: Grundstücksgeschäft Kopenhagenstraße und Flughafen-Riem-Straße
+- TOP 10.6.: Stahlgruberring 9 - Unveränderte Fortführung Nachtclub LaNotte
+- TOP 10.7.: Max-Rothschild-Str. 6 - Betriebszeitänderung Café Enzo
+- TOP 10.8.: Zuschussnehmerdatei 2013 - Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates
