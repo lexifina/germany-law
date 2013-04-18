@@ -1,0 +1,6 @@
+# TOP 3.: Schulentwicklungsplanung Sekundarbereich I.
+
+- Sitzung: Schul- und Sozialausschuss (5. Sitzung) (2013-04-18)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/14263
