@@ -1,0 +1,59 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2013-04-19T16:00:00+02:00
+- Ende: 2013-04-19T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2254
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2254
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Radwegenetzschluss südwestlich des Romaneums - einstimmig zugestimmt
+- TOP 7: BP 216/2 - Stadionviertel, Glehner Weg - - einstimmig zugestimmt
+- TOP 8: V 442 - Stadionviertel, Kamillianergelände - Auslegung - einstimmig zugestimmt
+- TOP 9: BP 458 - Bataverstraße - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 10: V 471 - Reuschenberg, Lebensmittelmarkt - Einleitung - zur Kenntnis genommen
+- TOP 11: Vorhabenbezogener Bebauungsplan / Vorhaben- und Erschließungsplan Nr. V482 – Rosellen, St. Antoniuss - einstimmig zugestimmt
+- TOP 12: Flächennutzungsplanänderung Nr. 127 – Rosellen, St. Antoniusstraße (Erweiterung Gartenhof) - einstimmig zugestimmt
+- TOP 13: Erschließung Baugebiet BPL 461 - Allerheiligen, Illinghauser Hof - einstimmig zugestimmt
+- TOP 14: Erschließung Baugebiet BPL 449 - Holzheim, Blausteinsweg - einstimmig zugestimmt
+- TOP 15: VEP 2/5 No Lebensmittelmarkt Lessingplatz - zur Kenntnis genommen
+- TOP 16: BP 179/1 - Schellbergstraße - Auslegung - verwiesen
+- TOP 17: Zusammensetzung IR - einstimmig zugestimmt
+- TOP 18: Genehmigung überplanmäßige im Bereich HzE - einstimmig zugestimmt
+- TOP 19: Zuschuss neuss-agenda21 e. V. - zur Kenntnis genommen
+- TOP 20: Zuschuss NEWI - einstimmig zugestimmt
+- TOP 21: Klimaschutzkonzept - einstimmig zugestimmt
+- TOP 22: Luftreinhalteplan - zur Kenntnis genommen
+- TOP 23: Neues Konzept Radstation - einstimmig zugestimmt
+- TOP 24: Kinderspielplatzprogramm 2013 inclusive Ausbauplanung - einstimmig zugestimmt
+- TOP 25: Aufgabe von Kinderspielplätzen - einstimmig zugestimmt
+- TOP 26: Trägerschaft Jugendräume Barbaraviertel - einstimmig zugestimmt
+- TOP 27: Änderung der Satzung über die Erhebung von Elternbeiträgen - abgesetzt
+- TOP 28: 1. Änderung der Hebesatzsatzung vom 14.Dezember 2012 - abgesetzt
+- TOP 28.1: Grundstücksverkauf Hammfeld II zur Errichtung eines Möbelhauses - zur Kenntnis genommen
+- TOP 29: Beanstandung eines Ratsbeschlusses gem. § 54 Abs. 2 GO NRW - TOP 24 der Sitzung am 22.02.2013: Über - zur Kenntnis genommen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Gründung des "HanseVerein – Verein zur Förderung des internationalen Städtebunds DIE HANSE e. V." - einstimmig zugestimmt
+- TOP 33: Dienstreisegenehmigung für Herrn s.B. Karl Rüdiger Himmes anlässlich der Kranzniederlegung - einstimmig zugestimmt
+- TOP 34: Antrag der SPD Fraktion betr.: Juniorwahl an Neusser Schulen - zur Kenntnis genommen
+- TOP 35: Antrag der SPD-Fraktion betr.: Umsetzung der Neuregelung zur Dichtheitsprüfung - zur Kenntnis genommen
+- TOP 36: Antrag der Fraktionen CDU und FDP betr.: Dichtheitsprüfung - zur Kenntnis genommen
+- TOP 37: Antrag der SPD-Fraktion betr.: Veränderung der Parkplatzsituation in der Neusser Innenstadt - verwiesen
+- TOP 38: Antrag der SPD-Fraktion betr.: Abschaffung der Tarifwabe 521 im Bereich Rheinpark-Center - zur Kenntnis genommen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Integrationsbericht - zur Kenntnis genommen
+- TOP 42: Ziele und Kennzahlen - zur Kenntnis genommen
+- TOP 42.1: Entschärfung einer Fliegerbombe - zur Kenntnis genommen
+- TOP 43: Einwohnerfragestunde - zur Kenntnis genommen
