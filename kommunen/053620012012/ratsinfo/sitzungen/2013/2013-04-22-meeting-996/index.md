@@ -1,0 +1,55 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2013-04-22T17:00:00+02:00
+- Ende: 2013-04-22T19:25:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVJtxQgW9qNHMggd0lcwaUU
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/996
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYiqcLEPgmKxF4lRhurYnP9r6XrtftLRvq7vihGbYIBt/Bekanntmachung_Rat_22.04.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW8OD7SzeJsojpHtc5Oq_lebLlaJuE_r17ZxNneCc9_W/Oeffentliche_Niederschrift_Rat_22.04.2013.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 25.02.2013
+- TOP 3.: Haushaltssatzung 2013/2014
+- TOP 3.1: Einbringung der Haushaltssatzung für die Haushaltsjahre 2013/2014 - (kein Text vorhanden)
+- TOP 3.2: Haushaltssatzung 2013/2014 hier: Stellenplan - (kein Text vorhanden)
+- TOP 3.3: Haushaltssatzung Doppelhaushalt 2013/2014 Rat 25.02.2013 u. HA 11.03., 18.03. und 15.04.2013 - (kein Text vorhanden)
+- TOP 4.: Neues Friedhofskonzept
+- TOP 4.1: Friedhofskonzept; Vorschlag der Verwaltung - (kein Text vorhanden)
+- TOP 4.2: Friedhofskonzept; Ergänzungsantrag "Bestattungsgärten/Friedhofspflegewerk“ Bezug: Antrag der CDU-Fraktion vom 18.2.2013
+- TOP 4.3: Friedhofskonzept Hier: Antrag der SPD-Fraktion vom 28.03.2013
+- TOP 5.: Satzungen
+- TOP 5.1: 5.Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.2: 5. Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.3: 13.Satzung zur Änderung der Gebührensatzung für das Friedhofs- und Bestattungswesen der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.4: 13. Satzung zur Änderung der Gebührensatzung für das Friedhofs- und Bestattungswesen der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.5: 4.Satzung zur Änderung der Satzung über die Stiftung des Max-Ernst-Stipendiums - (kein Text vorhanden)
+- TOP 5.6: Satzung über die Erhebung von Elternbeiträgen in der Kindertagesbetreuung in der Stadt Brühl – Beitragssatzung Kindertagesbetreuung - (kein Text vorhanden)
+- TOP 5.7: Aufhebung der 1. Satzung für vorgezogene Dichtheitsprüfungen an privaten Abwasseranlagen (Ludwig-Jahn-Straße) - (kein Text vorhanden)
+- TOP 6.: Maßnahmen zur Steigerung der Energieeffizienz und Nachhaltigkeit hier: Antrag der GRÜNE- und der CDU-Fraktion in der HA-Sitzung am 15.4.2013
+- TOP 7.: Erweiterungsbau GGS Melanchthon - (kein Text vorhanden)
+- TOP 8.: Tagesbetreuung in Einrichtungen hier: Neubau und Betrieb einer 5-gruppigen Kindertagesstätte im Brühler Süden - (kein Text vorhanden)
+- TOP 9.: Umbesetzung in Aussschüssen
+- TOP 9.1: Umbesetzung im Ausschuss für Lokale Agenda und Umwelt hier: Antrag der FDP-Fraktion vom 18.4.13
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen
+- TOP 11.1: Verkleinerung RAT
+- TOP 11.2: Brühl-Vochem
+- TOP 11.3: Umgestaltung Bahnhofsumfeld
+- TOP 11.4: Vermessungen Carl-Schurz-Straße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 12.: Aufstellung der Vorschlagsliste der Stadt Brühl für die Wahl der Schöffinnen und Schöffen für die Wahlperiode 2014 - 2018 - (kein Text vorhanden)
+- TOP 13.: Kreditaufnahmen
+- TOP 13.1: Kreditaufnahme zur Finanzierung der Investitionen des städtischen Haushalts - (kein Text vorhanden)
+- TOP 13.2: Kita Ausbau Merseburger- und Clemens-August-Straße -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen
+- TOP 15.1: Klärschlamm Eisenwerk
+- TOP 15.2: Ausbau Carl-Schurz-Straße
