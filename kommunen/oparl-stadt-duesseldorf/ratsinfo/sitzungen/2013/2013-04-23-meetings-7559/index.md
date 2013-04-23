@@ -1,0 +1,56 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-23T17:00:00+02:00
+- Ende: 2013-04-23T20:25:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7559
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7559
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193166.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193166.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193166.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift ö. vom 26.02.2013 - einstimmig beschlossen
+- TOP 2.1: Sachstandsbericht Glasmacherviertel - zur Kenntnis genommen
+- TOP 3: Verkehrssituation Fahneburgstraße/Rennbahnstraße - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 9: Wiederwahl des Schiedsmannes Klaus Heyer - einstimmig beschlossen
+- TOP 10: Dog Event Düsseldorf im Jahre 2013 - einstimmig beschlossen
+- TOP 11: "Home & Garden" auf der Galopprennbahn im Jahre 2013 - einstimmig beschlossen
+- TOP 12: Bauern- und Handwerkermarkt auf dem Gerricusplatz in Gerresheim im Jahre 2013 - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2013) - einstimmig beschlossen
+- TOP 14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 15: Sachstand "U3-Betreuung" im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 16: Kath. Kindertagesstätte Dreherstr. 202 - einstimmig beschlossen
+- TOP 17: Bebauung Quellenbusch - zur Kenntnis genommen
+- TOP 18: Sachstand Bebauung Quellenbusch - einstimmig beschlossen
+- TOP 19: Sachstandsbericht Radverkehrsbezirksnetz BV 7 - einstimmig beschlossen
+- TOP 20: Masterplan Schulen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 21: Radweg Quadenhofstraße zwischen Friedhof und Steinweg - einstimmig beschlossen
+- TOP 22: Radweg Torfbruchstraße - einstimmig beschlossen
+- TOP 23: Runder Tisch Heyestraße - mehrheitlich abgelehnt
+- TOP 24: Modernisierung S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 25: Unterführung Gerresheimer Bahnhof - zur Kenntnis genommen
+- TOP 26: Rechtsgrundlage Ursula-Trabalski-Straße - zur Kenntnis genommen
+- TOP 27: Neubaugebiet Quellenbusch - vertagt
+- TOP 28: Werbetafeln (und vergleichbar) an Fußgängerüberwegen - zur Kenntnis genommen
+- TOP 29: Bauarbeiten an der CO-Pipeline - vertagt
+- TOP 30: Poststelle in Hubbelrath/Knittkuhl - zur Kenntnis genommen
+- TOP 31: Gedenkstein Helena-Curtens-und-Agnes-Olmans-Platz - zur Kenntnis genommen
+- TOP 32: Streukiste Dorfstraße - zur Kenntnis genommen
+- TOP 33: Abfallbehälter und Robidog-Behälter in der Heyestraße - zur Kenntnis genommen
+- TOP 34: Baustellenmanagement und -marketing Glashüttenstraße - zur Kenntnis genommen
+- TOP 35: Denkmalschutz Bergische Kaserne - zur Kenntnis genommen
+- TOP 36: Fuß- /Wegeverbindung zwischen Brücke Rampenstraße - Gödinghover Weg - zur Kenntnis genommen
+- TOP 37: Bebauungsplan "Grütersaaper Weg" - zur Kenntnis genommen
