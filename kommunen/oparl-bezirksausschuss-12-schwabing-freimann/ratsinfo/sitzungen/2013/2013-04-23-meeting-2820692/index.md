@@ -1,0 +1,110 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2820692
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2820692
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .10.: sonstiges
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Eilentscheidung: Novellierung eines Teilbereiches des Landschaftsschutzgebietes Isarauen ? Änderung der Landschaftsschutzverordnung ?Hirschau und Obere Isarauen?
+- TOP .1.: Wahlen 2013/2014 ? Änderung der Stimmbezirkseinteilung
+- TOP .1.: Genehmigung zur Aufstellung von 69 (bereits bestehenden) Zeitungsverkaufseinrichtungen
+- TOP .2.: Genehmigung einer Freischankfläche, Clemensstr. 20
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Mandlstr. 23, 1 Robinie
+- TOP .1.: Bauvorhaben Clemensstr. 29, Fl.Nr.: 394/26, Aufstockung eines Wohngebäudes um zwei Vollgeschosse ? Vorbescheid (3 Varianten)
+- TOP .2.: Bauvorhaben Brabanter Str. 13, Fl.Nr.: 1233/54, Wohnraumerweiterung an einem Einfamilienhaus sowie Neubau einer Garage - Vorbescheid
+- TOP .3.: Bauleitplanung der Gemeinde Ismaning: Aufstellung eines Bebauungsplanes Nr. 140 (südlich Seidl-Kreuz-Weg) für eine Kindertagesstätte mit Kinderkrippe und Wohnbauflächen
+- TOP .4.: Bauvorhaben Frankfurter Ring 224, Fl.Nr.: 880/22, Nutzungsänderung Büroräume (EG) zu Großtagespflege für Kinder
+- TOP .5.: Bauvorhaben Occamstr. 5, Fl.Nr.: 329/5, Einbau zweier Schlepp- u. zweier Satteldachgauben mit Dachbalkon, Erhöhung des Aufzugsschachts, Einbau von bodentiefen Fensterelementen, Anbringung eines WDV-Systems und Erneuerung der Notleiteranlagen
+- TOP .1.: Namensgebung ? Neugestaltung des Platzes: Heinrich-Groh-Str., Heinrich-Geißler-Str., Harkortweg
+- TOP .2.: ?Namensdiebstahl? in Pasing
+- TOP .3.: Diverse Anliegen zur Parkstadt Schwabing (siehe auch TOP C 4.5.)
+- TOP .1.: "Liebesschlösser" an Brücken belassen
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Leinthaler Str. 7, 1 Kastanie
+- TOP .2.: Traubestraße 3 (Ungererbad), 1 Totbuche (Mitteilung des Baureferat-Gartenbau)
+- TOP .1.: Erweiterung der BA-Vertretungen in Wettbewerben; Sitzungsvorlage Nr. 08-14 / V 11083 Beschluss der Vollversammlung vom 27.02.2013
+- TOP .2.: Genossenschaftlicher Wohnungsbau im Münchner Norden Reaktion der Sozialreferentin auf das Votum des BA 12 vom 21.11.2012
+- TOP .3.: Baumaßnahmen der Stadtwerke München (SWM) a) Erdgasprojekt Frankfurter Ring b) Stromprojekt Georg-Muche-Straße c) Stromprojekt Montsalvatstraße d) Stromprojekt Leopoldstraße e) Wasserprojekt ? Sanierung der Hauptwasserleitung Thiemestr./Martiusstr.
+- TOP .4.: Straßenbenennung: Margarete-Schütte-Lihotzky-Straße
+- TOP .5.: Funkkaserne Nord ? Erker Nordfassade Frankfurter Ring (Schreiben der GEWOFAG)
+- TOP .6.: Baumfällungen auf öffentlichem Grund ? Antrag B 04624 (Antworten anderer BA's) a) Bezirksausschuss 10 Moosach b) Bezirksausschuss 2 Ludwigsvorstadt-Isarvorstadt
+- TOP .7.: Heideflächenverein Münchner Norden e.V. - Erhöhung des Mitgliedsbeitrags für die Landeshauptstadt München ; Sitzungsvorlage Nr. 08-14 / V 11225 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013
+- TOP .8.: Baugenehmigung: Gertrud-Grunow-Str., Fl.Nr.: 880/127, Errichtung einer mobilen Schulraumeinheit als Interimslösung für die Grundschule Funkkaserne ? befristet auf 6 Jahre (siehe auch TOP D.5.3.4.)
+- TOP .9.: Bürgerbeteiligung bei Platzgestaltungen ? Gestaltungsmaßnahmen im öffentlichen Raum Beschluss des Bauausschusses vom 16.04.2013; Sitzungsvorlage Nr.: 08-14 / V 11607
+- TOP .10.: Bebauungsplan mit Grünordnung Nr. 1943b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstr. (nördlich) ? ehemalige Funkkaserne - Beschluss des Bauausschusses vom 16.04.2013; Sitzungsvorlage Nr.: 08-14 / V 11190
+- TOP .11.: PERSPEKTIVE MÜNCHEN ? Fortschreibung 2012: Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013; Sitzungsvorlage Nr. 08-14/V 11217
+- TOP .12.: Erhaltungssatzungen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013; Sitzungsvorlage Nr. 08-14/V 11695
+- TOP .13.: Impulse für mehr Wohnungsbau in München: Wohnungspotentiale durch Dachgeschossausbau heben! Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013; Sitzungsvorlage Nr. 08-14/V 11564
+- TOP .14.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Planungsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07. bis 31.12.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013; Sitzungsvorlage Nr. 08-14/V 11535
+- TOP .15.: Bebauungsplan mit Grünordnung Nr. 1982a -Ingolstädter Straße (östlich), Stadtgrenze (südlich) ? Sportgelände an der Ingolstädter Straße ? A) Satzungsbeschluss; B) Zweckvereinbarung mit der Gemeinde Oberschleißheim; C) Bedarfsgerechter ÖPNV-Anschluss für das neue Trainingsgelände des FC Bayern; D) Städtebauliche Entwicklungsmaßnahme für die Bereiche Fürst-Wrede-, Bayernkaserne und Randbereiche Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 Sitzungsvorlage Nr. 08-14/V 11528
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Absolutes Haltverbot in der Otl-Aicher-Str. in Höhe der Einmündung des Anlagenweges ggü. Anwesen 20
+- TOP .2.: Absolutes Haltverbot in Freisinger Landstr. 8 (Südostseite) im Bereich der Ein- und Ausfahrt der Firma Machines-Munich UG
+- TOP .1.: Verkehrs-/Parksituation in der Wilhelm-Hertz-Straße
+- TOP .2.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP .3.: Errichtung eines personenbezogenen Behindertenparkplatzes in der Heinrich-Geißler-Str. 10
+- TOP .1.: Ausdehnung der städtischen Verkehrsüberwachung auf den Bereich Biederstein-, Mannlich- und Osterwaldstraße
+- TOP .2.: Fehlender Zugang von der Otl-Aicher-Straße zu den Tram-Haltestellen Domagkstraße und Anni-Albers-Straße
+- TOP .3.: Umwandlung eines Teilbereichs der Floriansmühlstraße in eine Tempo-30-Zone
+- TOP .4.: Ausweisung je eines reservierten Parkplatzes für ambulanten Pflegedienst / Ärzte für die Einsätze im Betreuten Wohnen in der Mannlichstr. 3 und in der Osterwaldstraße 25a (siehe auch TOP D.4.1.)
+- TOP .1.: Aufstellung eines Briefkastens in Freimann (BA-Antrag; Antwort der Deutschen Post)
+- TOP .2.: Beschleunigter Rückbau der veränderten Straßen und -führungen im Umgriff der Tatzelwurmbaustelle
+- TOP .1.: Verlegung des Zebrastreifens vor Kieferngartenstr. 15
+- TOP .2.: Haltverbot in der Mies-van-der-Rohe-Straße (auf der Südostseite im Bereich der Linkskurve auf einer Länge von 20 m)
+- TOP .3.: Rechtsabbiegegebot Ausfahrt Maria-Probst-Straße 9
+- TOP .1.: Verkehrssituation in der Otl-Aicher-Straße (Schreiben des KVR an einen Bürger)
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (5)
+- TOP .3.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutz-verordnung; Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchG in der Marktstraße 13-17, Hesseloherstraße und Münchner Freiheit für die Aufstellung von Kraftstromerzeuger und Hubarbeitsbühnen für die Durchführung von Dreharbeiten vom 05.04 ? 06.042013 von 20.00 bis 4.00 Uhr
+- TOP .4.: Absolutes Haltverbot Joseph-Wirth-Weg 32 (Schreiben des KVR an einen Bürger)
+- TOP .5.: Feuerwerk (nicht genehmigungspflichtig) am 27.04.2013 auf dem Areal der ehemaligen Funkkaserne, Domagkstraße, um ca. 21.00 Uhr
+- TOP .1.: (E) Budget der Bezirksausschüsse Freie Theatergruppe Theaterprojekt "Was wir liebten" im November 2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Gaudiblatt/84 GHZ - Raum für Gestaltung Veranstaltung "Uns gehört die Stadt" am 22.06.2013
+- TOP .3.: (E) Budget der Bezirksausschüsse hpkj e.V. Projekt "Baby Bedenk Zeit" vom 17. - 20.10.2013
+- TOP .4.: (E) Budget der Bezirksausschüsse Pädagogische Aktion/SPIELkultur e.V. Spielaktion "Mal-Bau-Stelle" am 21.05.2013
+- TOP .5.: (E) Budget der Bezirksausschüsse 84 GHz ? Raum für Gestaltung Herausgabe eines Künstlerkatalogs und eines Faltplans
+- TOP .1.: Flohmarkt am 16.06.2013 an der Lyonel-Feininger-Straße / Lilly-Reich-Straße
+- TOP .2.: Veranstaltungen im Park an der Oskar-Schlemmer-Str. vom 29.06. bis 13.07.2013
+- TOP .3.: Alt-Schwabinger Maifest am 30.04.2013, Knollerstraße
+- TOP .4.: Spielaktion Wasserspielbus am 22. u. 23.07.2013, Grünecker Straße/Marchgrabenplatz
+- TOP .5.: Ferienworkshop des Referats für Bildung und Sport am 06.08., 12.08. und 01.09.2013, Skateanlage Maria-Probst-Straße
+- TOP .1.: Ausweisung je eines reservierten Parkplatzes für ambulanten Pflegedienst / Ärzte für die Einsätze im Betreuten Wohnen in der Mannlichstr. 3 und in der Osterwaldstraße 25a (siehe auch TOP C.4.4.)
+- TOP .2.: Öffentlicher Bücherschrank
+- TOP .1.: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP .2.: Verbesserung des Versorgungsgrades an Ganztagsklassen sowie an Hort- und Mittagsbetreuungsplätzen in Schwabing-Freimann (BV-Empfehlung 08-14 / E 01025) und Errichtung eines Horts im Haudpark (BV-Empfehlung 08-14 / E 01032) Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 10.04.2013
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?S 17?, Schankwirtschaft, Siegesstr. 17
+- TOP .2.: Gelateria Gino, Schank- und Speisewirtschaft, Leopoldstr. 52a
+- TOP .3.: ?Imbiss beim Flohmarktgelände?, Lilienthalallee 29
+- TOP .4.: ?Level 228?, Diskothek, Frankfurter Ring
+- TOP .5.: ?Allianz-Casino?, Schank- und Speisewirtschaft, Osterwaldstr. 144
+- TOP .1.: Zuschussnehmerdatei 2013 ? Vollzug des Haushaltsplanes 2013 für den Bereich ?Förderung freier Träger? des Sozialreferats: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 09.04.2013 1. Zentrale (Sitzungsvorlage Nr. 08-14 / V 11357) 2. Stadtjugendamt (Sitzungsvorlage Nr. 08-14 / V 11352) 3. Amt für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 11364) 4. Amt für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 11374)
+- TOP .2.: Mehrjahresinvestitionsprogramm 2012 ? 2016 (Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen) Sitzungsvorlage Nr. 08-14 / V 10501 Beschluss des Kinder- und Jugendhilfeausschusses vom 06.11.2012
+- TOP .3.: Zuwendungsbescheide / Ablehnungen über die Gewährung eines Zuschusses aus dem Budget des BA 12 a) 84 GHz ? Raum für Gestaltung für Kunst im Karrée 2013 vom 12. bis 14.07.2013 in Höhe von 2.500,00 ?: b) KJR München-Stadt für einen Selbstbehauptungskurs für Jungen am 27.04.2013 im Freizeittreff Freimann in Höhe von 445,00 ? c) Johanniter-Unfall-Hilfe e.V. für 10 Workshopplätze im Lilalu-Sommerferienprogramm in Höhe von 0,00 ?:
+- TOP .4.: Baugenehmigung: Gertrud-Grunow-Str., Fl.Nr.: 880/127, Errichtung einer mobilen Schulraumeinheit als Interimslösung für die Grundschule Funkkaserne ? befristet auf 6 Jahre (siehe auch TOP B.5.3.8.)
+- TOP .5.: Neue Bädereintrittspreise ab 01.05.2013, Schreiben der Stadtwerke
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Diverse Anliegen zur Parkstadt Schwabing (siehe auch TOP B 4.3.)
