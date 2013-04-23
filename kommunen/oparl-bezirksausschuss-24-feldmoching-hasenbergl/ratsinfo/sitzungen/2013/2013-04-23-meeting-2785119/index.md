@@ -1,0 +1,80 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2785119
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2785119
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Tanz- und Theaterfestival "Rampenlichter" vom 17. - 30.06.2013
+- TOP 2.3.: KVR: Entscheidung über Sondernutzungserlaubnis gem. OB-Vollmadht: 5 Anträge für Zeitungsverkaufseinrichtungen
+- TOP 3.1.: Ergänzung der Infoschilder in der U-Bahn-Haltestelle Hasenbergl - Richtung Ausgang Ost um den Zusatz "Stadtteilkulturzentrum/ MVHS/ Stadtbibliothek"
+- TOP 3.2.: Wiederverschließen der 2 Barrieren an den Einfahrten zum Rangierbahnhofsgelände an der Feldmochinger Straße
+- TOP 3.3.: Umgestaltung des Straßenraums bzw. alternative Maßnahmen zur Verkehrsüberwachung in der Blodig- und Aschenbrennerstraße
+- TOP 3.4.: Günstigere Gestaltung der Fußgänger-Ampelschaltung über die Schleißheimer Straße an der Abzweigung Augustin-Rösch-Straße
+- TOP 3.5.: Erweiterung bzw. Verlängerung des vorhandenen Parkverbotes vor dem Eck-Anwesen Paul-Preuß-Str. 8 bis zur Toreinfahrt
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 1. Auf den Schrederwiesen 64 2. Schittgablerstraße 3. Thelottstr.28 4. Weitlstr. 16 5. Schleißheimer Straße (Werbeanlagen) 6. Schleißheimer Straße (Werbeanlagen)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Schittgablerstraße 2. Thelottstr. 28 3. Waldmeisterstr. 68 4. Weitlstr. 16
+- TOP 5.3.: Kommunalreferat: Aufstellen von Containern oder Zelt für Gebete in der Weitlstraße ab voraussichtlich Juni/ Juli 2013 für ca. 1/2 bis 1 Jahr.
+- TOP 5.4.: MVG: Leistungsprogramm 2014 / Fahrplanwechsel Dezember 2013
+- TOP 5.5.: KVR: Errichtung eines personenbezogenen Behindertenparkplatzes in der Diamantstraße
+- TOP 5.6.: KVR: Veranstaltung auf städt. Grünanlage: Flohmarkt auf dem Gelände Am Schnepfenweg am 13.07.2013
+- TOP 5.7.: KVR: Veranstaltung auf städt. Grünanlage: Spielfest auf dem Spielplatz an der Toni-Pfülf-Straße am 03.05.2013
+- TOP 5.8.: KVR: Veranstaltung auf städt. Grünanlage: Spieleaktionen von Spiellandschaft Stadt e.V. und weiteren Veranstaltern im Jahr 2013
+- TOP 5.9.: KVR: Veranstaltung auf städt. Grünanlage Dülfer Anger: Beats on Anger am 27.07.2013
+- TOP 5.10.: KVR: Wahlen 2013/2014 - Änderung der Stimmbezirkseinteilung
+- TOP 5.11.: KVR: Veranstaltung auf städt. Grünanlage: Kindermitmachzirkus Nordini des KJR München-Stadt auf der Zirkuswiese an der Weitlstraße
+- TOP 5.12.: KVR: öffentliche Vergnügungsveranstaltungen: Skateanlage am Fasaneriesee/Feldmochinger Strasse: 02.08. und 03.08.2013 u.a. Termine
+- TOP 5.13.: KVR: Veranstaltung auf öffentlicher Grünanlage: Fahrradrallye am Feldmochinger See am 19.05.2013
+- TOP 5.14.: Referat für Stadtplanung und Bauordnung: Vorentwurf Beschlussvorlage: Vorbehaltsnetz für den städt. Wirtschaftsverkehr in München
+- TOP 5.15.: Referat für Stadtplanung und Bauordnung: Entwurf Grundsatzbeschluss: FIZ Future 2050 - Schleißheimer Straße (beiderseits), Rathenaustraße (südlich)... u.m.
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Baureferat: Sicherer Radverkehr für den Bahnübergang Fasanerie und der Feldmochinger Straße
+- TOP 6.2.: Sozialreferat: Errichtung einer Asylbewerberunterkunft in der Waldmeisterstr. 98
+- TOP 6.3.: Referat für Stadtplanung und Bauordnung: Beteiligung der Bürgerinnen und Bürger der Stadt an der künftigen städtebaulichen Entwicklung
+- TOP 6.4.: Referat für Gesundheit und Umwelt: Entwurf des Lärmaktionsplans für München
+- TOP 6.5.: Referat für Stadtplanung und Bauordnung: Beschlussvorlage zur Genehmigung des Hubschrauber-Sonderlandeplatzes in OSH/ Bescheid der Regierung von Oberbayern: Zwischennachricht
+- TOP 6.6.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Genehmigung für den Betrieb des Hubschrauberlandeplatzes OSH durch die bayerische Bereitschaftspolizei; Bescheid der Regierung von Oberbayern vom 28.02.2013
+- TOP 6.7.: Baureferat: Weitere Baumpflanzungen am Grünzug Feldmochinger Anger
+- TOP 6.8.: KVR: Zufahrtsbeschränkung und Parksituation in der Luitfriedstraße
+- TOP 6.9.: aktuelle Grundwasserdaten der messungen des RGU
+- TOP 6.10.: Meldelisten Baumfällungsanträge
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: 1. Caracciolastr. 1 2. Grohmannstr. 61 3. Karlsfelder Str. 85
+- TOP 6.13.: Direktorium: Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse
+- TOP 6.14.: Direktorium: Verteilung dere städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 6.15.: Direktorium: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen
+- TOP 6.16.: Referat für Bildung und Sport: Rechtsanspruch und Servicestelle Kinderbetreuung U3
+- TOP 6.17.: Referat für Bildung und Sport: Das RBS trifft die Bezirksausschüsse am 16.01.2013: Antwort auf erhaltene Aufträge
+- TOP 6.18.: Referat für Bildung und Sport: Errichtung eines Verkehrsgeländers auf dem Fußweg vor Kita Reinachstr. 53
+- TOP 6.19.: Referat für Stadtplanung und Bauordnung: Ablehnungsbescheid Baumfällung: Sonnentaustraße
+- TOP 6.20.: Antrag BA 12: Anhörungsrecht auch für Baumfällungen auf öffentlichem Grund
+- TOP 6.21.: Baureferat: Umbaumaßnahmen Lerchenstraße/ Herbergstraße: - Zebrastreifen in der Lerchenstraße - Zebrastreifen in der Herbergstraße - Anbringen von Geschwindigkeitsbegrenzern in der Herbergstraße
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Biovesitätsprojekt Dachauer Moos - Interkommunales Naturschutzprojekt zum Erhalt und zur Förderung der heimischen Tier- und Pflanzenarten
+- TOP 6.23.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept
+- TOP 6.24.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnungen für Auszubildende und Studierende
+- TOP 6.25.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Erhaltungssatzungen: -Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen... -Erlass von Erhaltungssatzungen in Aufwertungsgebieten - Das Instrument Erhaltungssatzung weiterentwickeln
+- TOP 6.26.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Impulse für mehr Wohnungsbau in München: Wohnungspotentiale durch Dachgeschossausbau heben!
+- TOP 6.27.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München - Fortschreibung 2012: Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, Strategische...
+- TOP 6.28.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Beschlussvollzugskontrolle (BVK); Bericht für den Zeitraum 01.07. bis 31.12.2012
+- TOP 6.29.: Beschlussvorlage Sozialreferat: Bauträgerauswahl für städt. Baugrundstücke und Ergänzung vom 02.04.2013
+- TOP 6.30.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2013: Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates/ Zentrale
+- TOP 6.31.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2013: Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.32.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2013: Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.33.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2013: Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.34.: BA-Budget: Rückzug Antrag der Kath. Kirchenstiftung
+- TOP 6.35.: Direktorium: Münchner Statistik (4. Quartalsheft 2012)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Bürgerverein Lerchenau e.V. Feier zum 10jährigen Vereins-Jubiläum am 22.06.2013
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
