@@ -1,0 +1,53 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-23T16:00:00+02:00
+- Ende: 2013-04-23T17:55:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7572
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7572
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193314.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193314.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193314.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 4: Modellprogramm für die Erweiterte Nutzung der Neuen Medien an Schulen - zur Kenntnis genommen
+- TOP 5: Trödelmärkte Garath Zentrum Ost - einstimmig beschlossen
+- TOP 6: Trödelmärkte P & R Hellerhof - einstimmig beschlossen
+- TOP 7: Trödelmärkte Garath Schützenplatz - einstimmig beschlossen
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Öffentliche Toilette in Hellerhof - zur Kenntnis genommen
+- TOP 10: Sanierung Fußball-/ Bolzplatz Jakob-Kneip-Str. - zur Kenntnis genommen
+- TOP 11: Aufstellungstermin Bänke im EKZ-Garath SW - zur Kenntnis genommen
+- TOP 12: Bepflanzung öffentlichen Grüns in Garath und Hellerhof - zur Kenntnis genommen
+- TOP 13: Sanierungskonzept Aula, Emil-Barth-Str. - zur Kenntnis genommen
+- TOP 14: Flächendeckende Reinigung durch die AWISTA GmbH - zur Kenntnis genommen
+- TOP 15: Umbaumaßnahmen Nebenzentrum Garath Nordwest - zur Kenntnis genommen
+- TOP 16: Planung Neubau Jugendfreizeiteinrichtung Lüderitzstraße - zur Kenntnis genommen
+- TOP 17: U3 / Ü3 - Kinderbetreuung im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 18: Fahrradboxen am S-Bahnhof Hellerhof - zur Kenntnis genommen
+- TOP 19: Anträge - zur Kenntnis genommen
+- TOP 20: Zuschuss aus Verfügungsmitteln der BV 10 - einstimmig beschlossen
+- TOP 21: Zuschuss aus Verfügungsmittel - einstimmig beschlossen
+- TOP 22: Zuschuss aus Verfügungsmittel - für Cineclub Düsseldorf, Sozialverband VDK - einstimmig beschlossen
+- TOP 23: Sanierungsmaßnahmen Treppenstufen zur Brücke an der Bushaltestelle Frankfurter Straße (stadteinwärts - zurückgezogen
+- TOP 24: Lärmkartierung für Garath und Hellerhof - einstimmig beschlossen
+- TOP 25: S-Bahnunterführung Garath, Dehnungsfuge - einstimmig beschlossen
+- TOP 26: 725-Jahr-Feier - Verfügungsmittel für Kinder und Jugendliche im Bezirk 10 - zur Kenntnis genommen
+- TOP 27: Zuschüsse aus den Verfügungsmitteln der BV 10 - einstimmig beschlossen
+- TOP 28: Zuschuss für die Freiwillige Feuerwehr - einstimmig beschlossen
+- TOP 29: Zuschuss für den Cineclub Düsseldorf - einstimmig beschlossen
+- TOP 30: Zuschuss für das Projekt " Meine Zukunft und ich" - einstimmig beschlossen
+- TOP 31: Zuschuss für den Sozialverband VdK - einstimmig beschlossen
+- TOP 32: Informationsvorlagen - zur Kenntnis genommen
+- TOP 33: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 34: Verschiedene Stellungnahmen - zur Kenntnis genommen
+- TOP 35: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 36: Sanierung macht Schule - zur Kenntnis genommen
