@@ -1,0 +1,99 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-04-24T17:00:00+02:00
+- Ende: 2013-04-24T20:20:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1975
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1975
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - zurückgezogen
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Anträge - (offen)
+- TOP 5.1: Bezirksbürgermeister - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Bezirksstadtrat - in der BVV abgelehnt
+- TOP 6: Entschließungen - erledigt
+- TOP 6.1: Neukölln gegen Naziaufmarsch am 1. Mai - zurückgezogen
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl eines stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan XIV-274aa - "Waßmannsdorfer Dreieck" - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bebauungsplan XIV-188 vom 03.07.2012 - "Kleingartenanlage Steingrube - Weimars Ruh" - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Vorschlagsliste für die Wahl zu ehrenamtlichen Richtern beim Verwaltungsgericht Berlin - Amtsperiode ab 1. Januar 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2012 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Sicherheit auf dem Gehweg in der Straße Alt-Rudow/Kappenstraße - beantwortet
+- TOP 10.2: Negativbereiche in Neukölln - beantwortet
+- TOP 10.3: Neubesetzung der Leitung des Kulturamtes - schriftlich beantwortet
+- TOP 10.4: Marktverbot für Blumenhändlerin - schriftlich beantwortet
+- TOP 10.5: Keine Zwangsumzüge in Neukölln - schriftlich beantwortet
+- TOP 10.6: Baustelle U-Bahnhof Boddinstraße - beantwortet
+- TOP 10.7: Musikunterricht - beantwortet
+- TOP 10.8: Schließung des Schwimmbads in der Ganghofer Straße - schriftlich beantwortet
+- TOP 10.9: Verlegung der Buslinie X11 durch das Blumenviertel - beantwortet
+- TOP 10.10: Alternative Bestattungsformen - beantwortet
+- TOP 10.11: Hermanntraße 208 - schriftlich beantwortet
+- TOP 10.12: Kita-Anmeldungen in Neukölln - schriftlich beantwortet
+- TOP 10.13: Vollständige Freistellung der Vertrauensperson der Schwerbehinderten - im Ältestenrat zurückgezogen
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Bebauung Tempelhofer Feld - vertagt
+- TOP 11.2: Nebentätigkeiten von Bezirksamtsmitgliedern - vertagt
+- TOP 11.3: Neukölln aktiv gegen Lärm? - vertagt
+- TOP 11.4: Werben für den Kriegseinsatz - vertagt
+- TOP 11.5: Bebauung Tempelhofer Feld - vertagt
+- TOP 11.6: Leerstand im Seniorenwohnhaus Harz - vertagt
+- TOP 11.7: Vorfälle mit rechtsextremistischem Hintergrund in Neukölln 2012 - vertagt
+- TOP 11.8: Schlüsse aus dem Gesundheitsbericht - vertagt
+- TOP 11.9: Keine Bebauung des Tempelhofer Feldes (THF) - vertagt
+- TOP 11.10: Mietwohnungen vor Ferienwohnungen - vertagt
+- TOP 11.11: Qualitätsverbesserung des Schulessens - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Freifunk auf Bezirksgebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Bedürfnisanstalt in der Hufeisensiedlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Neuköllner Kleingartenanlagen wieder in den Schutzfristenkatalog bis 2020 aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Schutzfristen Kleingartenkolonie - in der BVV abgelehnt
+- TOP 12.5: Begrenzung der Mieterhöhungen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erneuerbare Energien in bezirklichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Intensiv begleitende Sprachförderung in der Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Falschinformation zur Finanzierung der Jugendarbeit - vertagt
+- TOP 13.2: Schulentwicklungsplan - vertagt
+- TOP 13.3: Zwangsräumung in Neukölln - vertagt
+- TOP 13.4: Soziale Verantwortung oder Zwangsräumungen? - vertagt
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Bewachungsgewerbe auf radikale Beschäftigte prüfen - überwiesen
+- TOP 15.2: Frühjahrsputz beim "Rixdorfer Tanzpaar" - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Radfahrerbedarfsstreifen in der Reuterstraße - überwiesen
+- TOP 15.4: Dreck-Weg-App: Meldung von Verunreinigungen für Bürgerinnen und Bürger vereinfachen - überwiesen
+- TOP 15.5: Fortschreibung Schulentwicklungsplan - überwiesen
+- TOP 15.6: Wiederherstellung Behindertenparkplätze in Alt-Rudow - überwiesen
+- TOP 15.7: Wiederherstellung Behindertenparkplätze in der Karl-Marx-Straße 272 - überwiesen
+- TOP 15.8: Mehrsprachige Broschüre "Neukölln macht Grundschule" - überwiesen
+- TOP 15.9: Keine Zwangsräumungen - überwiesen
+- TOP 15.10: Standortanalyse für Schulerweiterungen und -neubauten - überwiesen
+- TOP 15.11: Senat muss notwendige Mittel für Schulinfrastruktur bereitstellen! - überwiesen
+- TOP 15.12: I-Planung und Haushalt - überwiesen
+- TOP 15.13: Eingliederungsmittel 2013 vollständig für Neukölln verwenden - überwiesen
+- TOP 15.14: Wachsam gegen Rechtsextremismus: Wachschutz und Schulstationen - überwiesen
+- TOP 15.15: Vollküchen für Neubauten von Schulen und Kindergärten - überwiesen
+- TOP 15.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.17: Querungsmöglichkeit der Sonnenallee verbessern (Schulwegsicherung) - überwiesen
+- TOP 15.18: Ausgestaltung der Flüchtlingsunterkunft - überwiesen
+- TOP 16: Mitteilungen - (offen)
+- TOP 16.1: 50 Jahre Grundsteinlegung Gropiusstadt - seit 40 Jahren trägt sie diesen Namen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.2: Ampelreparatur in der Jugendverkehrsschule im Wörnitzweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Vorlagen zur Kenntnisnahme - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17.1: Haltverbot für LKW-Fahrzeuge in der Kanalstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Radweg in der Hannemannstraße - vertagt
+- TOP 17.3: Haltverbot vor Radweg in der Grenzallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Bevölkerung auf KATWARN aufmerksam machen - mit Abschlussbericht zur Kenntnis genommen
