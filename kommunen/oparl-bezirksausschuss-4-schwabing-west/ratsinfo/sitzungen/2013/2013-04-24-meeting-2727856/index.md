@@ -1,0 +1,65 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-04-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2727856
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2727856
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse hpkj e.V. Projekt "Baby Bedenk Zeit" vom 17. - 20.10.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Pädagogische Aktion / Spielkultur e.V. Künstlergagen für das 3. City Stories Geschichtenfestival von 22. bis 26.05.2013
+- TOP .3.: (E) Budget der Bezirksausschüsse CVJM München e.V. AktivFerien am Ackermannbogen vom 21. - 24.05.2013
+- TOP .4.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Artmobil vom 21. - 23.05.2013
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Verkaufseinrichtungen für verschiedene Tageszeitungen: 14 Standorte (nachträgliche Genehmigung schon längst aufgestellter Kästen)
+- TOP .2.: Herzogstr. 44 ?Chang Noi?: Verschiebung und Erweiterung der Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Init. 84 GHz - Raum für Gestaltung Kunst im Karrèe 2013 vom 12. - 14.07.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse 84 GHz ? Raum für Gestaltung Herausgabe eines Künstlerkatalogs und eines Faltplans
+- TOP .3.: (E) Budget der Bezirksausschüsse Pianistenclub München e.V. Klavierfestival vom 12. - 21.04.2013
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Aktivferien am Ackermannbogen (Große Wiese) vom 21. bis 24.05.2013
+- TOP .2.: Anwohnerfest am Nordbad (Schleißheimer Str. 105) am 06.07.2013
+- TOP .3.: Feuerwerkstheater auf dem Elisabethplatz am 15.06.2013
+- TOP .4.: Spielaktionen 2013 der Spiellandschaft Stadt/Pädagogische Aktion im Luitpoldpark, im Petuelpark und auf der Großen Wiese am Ackermannbogen
+- TOP .5.: Kunstaktion ?Kreatives Rasenmähen? am 15.05.2013 im Luitpoldpark (Aussichtshügel)
+- TOP .1.: CSU-Fraktion: Anfrage Schleißheimer Str. 144
+- TOP .2.1.: Planen
+- TOP .1.: Destouchesstr. 60: Nutzungsänderung Einheit 2 im EG (Gewerbe- zu Wohnfläche)
+- TOP .2.: Konradstr. 11: Erweiterung einer Atelierwohnung sowie Errichtung einer Wohnung in einem ehemaligen DG-Speicher - Tektur
+- TOP .3.: Stauffenbergstr. 29-35: Anbau von 40 Balkonen
+- TOP .4.: Isabellastr. 26: Energetische Generalsanierung eines Mehrfamilienhauses mit DG-Ausbau VGB + RGB sowie Balkonanbau RGB
+- TOP .5.: Ansprengerstr. 22: Nutzungsänderung Büro in Reisebüro (1. OG/Büro 5) und Büros in Wohnungen (2. bis 4. OG/Büros 6, 7, 28, 30,31)
+- TOP .6.: Mainzer Str. 6-8: Energetische Modernisierung einer Wohnanlage (64 WE) mit Anbau von Aufzügen und Balkonen sowie DG-Ausbau (10 WE)
+- TOP .7.: Schleißheimer Str. 278 1. Nutzungsänderung St. Josefs-Kinderheim als Interimsnutzung in Kindergarten und Grundschule (Bauteile A bis E), Teilabbruch des Bauteils E 2. Neubau des Integrationskindergartens St. Josef in Containerbauweise
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Zerstörung der Grünfläche vor dem Haus Erich-Kästner-Str. 44
+- TOP .2.: Heimleitung St. Willibrord: Rücksichtslose Radfahrer auf dem Fußweg vor dem Altenheim
+- TOP .2.1.: Umwelt
+- TOP .1.: Schwere-Reiter-Straße: 2 Baumfällungen in Zusammenhang mit dem Neubau eines Hotel garni (vgl. 03/13, TOP D 2.6)
+- TOP .2.2.: Verkehr
+- TOP .1.: (E) Fußgänger- und Radfahrerübergang über die Belgradstraße an der Südseite der Rümannstraße
+- TOP .2.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP .3.: Verbesserung der Fahrradabstellsituation am U-Bahnhof Hohenzollernplatz: Als Ergebnis des Ortstermins am 26.03.2013 geplante Maßnahmen
+- TOP 4: (E) Absolutes Haltverbot in der ersten Linkskurve der Angererstraße von der Karl-Theodor-Straße kommend (Ziffer 1 des Antrags)
+- TOP 5: (E) Fahrradampel an der Kreuzung Elisabeth- / Hiltenspergerstraße
+- TOP 5.6.: Dauerhafte Beibehaltung der Parkregelung in der Ansbacher Straße
+- TOP 5.7.: Umbau Tengstraße
+- TOP 5.1.: Wahlen 2013/2014 ? Anhörung zur Änderung der Stimmbezirkseinteilung
+- TOP 5.2.: Elektronische Telefonbücher für BA-Mitglieder
+- TOP 5.1.: UA-Termine im Mai
+- TOP 5.1.: Akustisch-taktiles Signal an den Ampelanlagen Karl-Theodor-/Schleißheimer Straße und Karl-Theodor-/Belgradstraße
+- TOP 5.2.: Wiedervereinigung des Englischen Gartens durch eine Untertunnelung nach dem Konzept der Architekten Grub/Lejeune mit flankierenden Maßnahmen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
