@@ -1,0 +1,7 @@
+# TOP 4: Gründung der Zentrum für verfolgte Künste GmbH sowie der Solinger Kunst-Stiftung
+
+- Sitzung: Ausschuss für Kultur, Stadtmarketing und Tourismus (2013-04-25)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11842
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/20313
