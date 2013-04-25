@@ -38,8 +38,8 @@ Der Ortsteil Lehe wird im N und O durch die Autobahn, im S durch die Hamburger B
 Der Ortsteil Lehesterdeich wird im NW durch den Kuhgraben bis zur Einmündung in das Hollerfleet, im NO vom Hollerfleet bis zum Weg "Der Neue Deich" begrenzt. Von hier aus läuft die Grenze im Fleet weiter bis zur Oberneulander Landstraße. Im O bilden die Straße Am Rüten sowie die O-Grenze von Fl. VR 227 die Grenze. Sie stößt dann auf die Hamburger Bahn und verläuft im S an der NO-Grenze der Ortsteile Lehe und Horn.
 (351) Ortsteil Borgfeld
 Borgfeld wird im SW vom Ortsteil Lehesterdeich, im NW, NO und SO von der Landesgrenze begrenzt. Von Oberneuland wird Borgfeld durch die Wümme, den Graben am SO-Rand der VR Flur 304 bis zur NO-Grenze des Flurstückes 124/2 der VR Flur 303, dann von dessen NO- und SO-Grenze und deren Verlängerung bis zur SO-Grenze des Flurstückes 120/1 der VR Flur 303, dann von dessen S-Grenze und wieder vom Graben am SO-Rand der VR Fluren 304 und 305 getrennt.
-(361) Ortsteil Oberneuland
-Oberneuland wird im N durch den Ortsteil Borgfeld, im W durch die Ortsteile Lehesterdeich, Horn und Neue Vahr, im S die Ortsteile Blockdiek, Ellenerbrok-Schevemoor und Tenever und im O durch die Landesgrenze begrenzt.
+(36) Stadtteil Oberneuland
+Oberneuland wird im N durch den Ortsteil Borgfeld, im W durch die Ortsteile Lehesterdeich, Horn und Neue Vahr, im S durch die Ortsteile Blockdiek, Ellenerbrok-Schevemoor und Tenever und im O durch die Landesgrenze begrenzt.
 (371) Ortsteil Ellener Feld
 Der Ortsteil Ellener Feld wird im N durch den Ortsteil Blockdiek, im W den Westrand des Osterholzer Friedhofs (die Grenze erreicht die Osterholzer Heerstraße zwischen den Häusern Nr. 27/29 und Sebaldsbrücker Heerstr. 304/306), im S die Osterholzer Heerstr. 32 bis 84 i und im O durch die Osterholzer Landstraße begrenzt.
 (372) Ortsteil Ellenerbrok-Schevemoor

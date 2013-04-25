@@ -49,9 +49,9 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 342 | Lehe
  |  |  |  | 343 | Lehesterdeich
  |  |  |  | 351 | Borgfeld
- |  |  |  | 361 | Oberneuland
+ |  | 36 | Oberneuland |  | 
  |  | 37 | Osterholz | 371 | Ellener Feld
- |  |  |  | 372 | Ellenerbrok-Schevemoor
+ |  |  |  | 372 | Ellenerbrok-Schevermoor
  |  |  |  | 373 | Tenever
  |  |  |  | 374 | Osterholz
  |  |  |  | 375 | Blockdiek
