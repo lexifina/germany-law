@@ -1,0 +1,62 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-04-25T18:07:00+02:00
+- Ende: 2013-04-25T19:35:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8211
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8211
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand 15.04.2013) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00154272.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00155169.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2011/2012 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2012 der Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Hotel AG für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2012 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2012 der Gemeinschaftswerk Hattingen GmbH GWH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Bestellung einer künstlerischen Geschäftsführerin für die Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.2: Bestellung der Betriebsleitung des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 3.3: Änderung der Betriebssatzung des Eigenbetriebs Wasser und Abwasser Wuppertal und Zuordnung des Betriebsausschusses - ungeändert beschlossen
+- TOP 3.4: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 21.03.2013 - Informationskampagne zum Eigenbetrieb Wasser und Abwasser Wuppertal (WAW) - abschließend mit Aufträgen beschlossen
+- TOP 3.5: Große Anfrage der FDP-Fraktion vom 03.04.2013 - Kartellrechtliche Überprüfung der Wuppertaler Wasserpreise - Entgegennahme ohne Beschluss
+- TOP 3.5.1: Antwort auf die Große Anfrage der FDP-Fraktion zur kartellrechtlichen Überprüfung der Wasserpreise vom 03.04.2013 - Entgegennahme ohne Beschluss
+- TOP 3.6: Änderung des Gesellschaftsvertrages der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3.7: Entsendung eines Vertreters der Stadt Wuppertal in den Aufsichtsrat der Regio-Bahn - ungeändert beschlossen
+- TOP 3.8: Abwicklung der ÖPNV-Pauschale (Sachstandsbericht) - Entgegennahme ohne Beschluss
+- TOP 3.9: Bestellung eines Akkreditivs bei der KfW und der NRW.Bank im Zusammenhang mit der Cross-Border-Lease Transaktion der AWG Wuppertal - ungeändert beschlossen
+- TOP 3.10: Geschäftsführerangelegenheiten der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Umsetzung des Haushaltssicherungskonzeptes 2010-2014 - Entgegennahme ohne Beschluss
+- TOP 5.2: Umsetzung des Haushaltssanierungsplans 2012 bis 2021 - Entgegennahme ohne Beschluss
+- TOP 5.3: Bürgerbeteiligung bei der Beratung des nächsten Haushaltsplanes 2014/ 2015 – Eckpunkte des Konzeptes und weiteres Vorgehen - Entgegennahme ohne Beschluss
+- TOP 5.4: Stand der Schulden und Kassenkredite zum 31.03.2013 - Entgegennahme ohne Beschluss
+- TOP 5.5: Cash-Pooling zur Optimierung des Liquiditätsmanagements - Entgegennahme ohne Beschluss
+- TOP 5.6: Gesetz über die Genehmigung der Kreisumlage und anderer Umlagen (Umlagengenehmigungsgesetz - UmlGenehmG) - Entgegennahme ohne Beschluss
+- TOP 5.7: Über- und außerplanmäßige Bereitstellung von Mitteln 2012, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2012 - ungeändert beschlossen
+- TOP 6.2: Durchführung zusätzlicher investiver Straßenbaumaßnahmen (Beseitigung von Frostschäden) - ungeändert beschlossen
+- TOP 6.2.1: Ergänzungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu VO/0362/13 - Durchführung zusätzlicher Straßenbaumaßnahmen - abgelehnt
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Digitaler Gremiendienst - Entgegennahme ohne Beschluss
+- TOP 8: Berichte und Mitteilungen
+- TOP 8.1: Veröffentlichung der Einwohnerzahlen am 31. Mai 2013 - Entgegennahme ohne Beschluss
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 9.1: Quartalsbericht IV/2012 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 9.2: Jahresabschluss 2012 der APH Service GmbH - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 11.1: KIJU 4. Quartalsbericht 2012 - Entgegennahme ohne Beschluss
+- TOP 12: Berichte und Mitteilungen
