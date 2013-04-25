@@ -1,0 +1,7 @@
+# TOP 2: Beratung von Drucksachen
+
+- Sitzung: 11. öffentliche Sitzung des Verkehrsausschusses gemeinsam mit dem Ausschuss für Gesundheit und Soziales (Sondersitzung) (2013-04-25)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=23964
+- Ergebnis: (offen)
