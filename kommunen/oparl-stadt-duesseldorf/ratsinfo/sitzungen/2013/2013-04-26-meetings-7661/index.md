@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-26T16:00:00+02:00
+- Ende: 2013-04-26T18:40:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7661
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7661
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193580.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193580.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193580.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 4: Vorstellung der Machbarkeitsstudie zum Grundstück Hospitalstraße 1 durch die Wohngruppe des Netzwerkes Benrath - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Gehwegparken Buchenstraße - vertagt
+- TOP 7: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2013 - mehrheitlich beschlossen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 9: Heubesstraße - Barrierefreier Ausbau der Haltestelle "Urdenbacher Allee" - zur Kenntnis genommen
+- TOP 10: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 11: Anfrage: Zukunft AQZ Benrath - beantwortet
+- TOP 12: Anfrage: Inobhutnahme von Kindern aus der Familie - beantwortet
+- TOP 13: Anfrage: Werbetafeln (und vergleichbar) an Fußgängerüberwegen - beantwortet
+- TOP 14: Anfrage: Dichtigkeitsprüfung - beantwortet
+- TOP 15: Anfrage: Buslinie Wersten / Himmelgeist - vertagt
+- TOP 16: Anfrage: Henkel-Lager - beantwortet
+- TOP 17: Anfrage: Verkehrsbehinderung/Verkehrsbelästigung - beantwortet
+- TOP 18: Anfrage: Übergang Altenbrückstr. - beantwortet
+- TOP 19: Anfrage: Grünzug Potsdamer Str. - beantwortet
+- TOP 20: Antrag: Bau- / Sanierungsmaßnahmen Kölner Landstr. 391 und 393 - einstimmig beschlossen
+- TOP 21: Antrag: Empfang zur Eröffnung des Hochzeitszimmers - mehrheitlich beschlossen
+- TOP 22: Antrag: Querungshilfe Dechenweg - einstimmig beschlossen
+- TOP 23: Antrag: Urdenbacher Dorfstraße gegenüber Firma Seidel - mehrheitlich beschlossen
+- TOP 24: Antrag: 725 Jahre Düsseldorf - zurückgezogen
+- TOP 25: Antrag: Radweg Kölner Landstr. - einstimmig beschlossen
+- TOP 26: Antrag: Integriertes Handlungskonzept Düsseldorf Wersten / Holthausen - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel JSV Düsseldorf e.V., Aktion "Von klein an sportlich sein" - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Evangel. Kindertagesstätte Leichlinger Str. 68 - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Mosaikschule - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Diakonie, zentrum plus Benrath 2013 - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel VdK - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Werstener Jonges e.v.1953; 60-jähriges Bestehen - mehrheitlich beschlossen
+- TOP 33: Antrag: Verfügungsmittel St. Sebastianus Schützenverein - mehrheitlich beschlossen
+- TOP 34: Antrag: Verfügungsmittel Düsseldorfer Räbbelche 1962 e.V.; Uniformteile - einstimmig beschlossen
+- TOP 35: Antrag: "725 Jahre Stadt Düsseldorf" - Veranstaltung im Stadtbezirk 9; 5.Benrather Schlosslauf am 09 - einstimmig beschlossen
