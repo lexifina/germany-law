@@ -163,6 +163,7 @@ Sechster Teil
 Sonstige Vorschriften
 § 124 Ordnungswidrigkeiten
 § 125 Maßgebende Einwohnerzahl
+§ 125a Übergangsbestimmung aus Anlass des Zensus 2011
 § 126 Übergangsvorschriften für den Geltungsbereich des Investitionsvorranggesetzes
 § 127 Rechtsverordnungen
 § 128 Muster für die Haushaltswirtschaft
