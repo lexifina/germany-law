@@ -78,6 +78,7 @@ Fünfter Teil Aufsicht
 Sechster Teil Sonstige Vorschriften
 § 66 Ordnungswidrigkeiten
 § 67 Maßgebende Einwohnerzahl
+§ 67a Übergangsbestimmung aus Anlass des Zensus 2011
 § 68 Rechtsverordnungen
 § 69 Muster für die Haushaltswirtschaft
 § 70 Sonstige Verwaltungsvorschriften
