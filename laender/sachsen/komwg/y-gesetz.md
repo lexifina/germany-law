@@ -1,3 +1,3 @@
 # Gesetz über die Kommunalwahlen im Freistaat Sachsen (Kommunalwahlgesetz – KomWG)
-(Berichtigt durch Berichtigung vom 5. Mai 2004)
-Rechtsbereinigt mit Stand vom 18. November 2012
+[Berichtigt 5. Mai 2004 (SächsGVBl. S. 182)]
+Rechtsbereinigt mit Stand vom 28. April 2013

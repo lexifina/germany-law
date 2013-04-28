@@ -2,7 +2,7 @@
 Erster Teil Gemeindewahlen
 Erster Abschnitt Gemeinderatswahlen
 Erster Unterabschnitt Wahlvorbereitung, Wahlorgane
-§ 1 Wahltag, Bekanntmachung der Wahl
+§ 1 Wahltag, Bekanntmachung der Durchführung der Wahl
 § 2 Wahlgebiet, Wahlkreise, Wahlbezirke
 § 3 Ausübung des Wahlrechts
 § 4 Wählerverzeichnisse
@@ -11,7 +11,8 @@ Erster Unterabschnitt Wahlvorbereitung, Wahlorgane
 § 6a Inhalt und Form der Wahlvorschläge
 § 6b Unterstützungsunterschriften
 § 6c Aufstellung von Bewerbern
-§ 6d Änderung von Wahlvorschlägen
+§ 6d Rücknahme und Änderung von Wahlvorschlägen
+§ 6e Gemeinsame Wahlvorschläge
 § 7 Zulassung von Wahlvorschlägen
 § 8 Wahlorgane
 § 9 Gemeindewahlausschuss
@@ -47,7 +48,7 @@ Zweiter Abschnitt Ortschaftsratswahlen
 § 33 Anwendbarkeit von Rechtsvorschriften
 § 34 Wahltag
 § 35 Wahlgebiet, Wahlkreise, Wahlberechtigung
-§ 35a Unterstützungsunterschriften
+§ 35a Inhalt der Wahlvorschläge und Unterstützungsunterschriften
 § 36 Aufstellung von Bewerbern
 § 37 Stimmzettel
 Dritter Abschnitt Bürgermeisterwahlen
@@ -66,23 +67,25 @@ Erster Abschnitt Kreistagswahlen
 § 48 Anwendbarkeit von Rechtsvorschriften
 § 49 Wahltag
 § 50 Wahlgebiet, Wahlkreise, Wahlbezirke
+§ 50a Unterstützungsunterschriften
 § 51 Wahlorgane
-§ 52 Kreiswahlausschuss
-§ 53 Gemeindewahlausschuss
+§ 52 (aufgehoben)
+§ 53 (aufgehoben)
 § 54 Besorgung der laufenden Wahlgeschäfte
 § 55 Wahlkosten
 Zweiter Abschnitt Landratswahlen
 § 56
 Dritter Teil Gleichzeitige Durchführung mehrerer Wahlen
-§ 57
+§ 57 Verbundene Wahlen
 Vierter Teil Sonstige Vorschriften
-§ 58 (weggefallen)
-§ 59 (weggefallen)
+§ 58 (aufgehoben)
+§ 59 (aufgehoben)
 § 60 Fristen und Termine
 § 61 Ordnungswidrigkeiten
 § 62 Kommunalwahlordnung
 § 63 Verwaltungsvorschriften
 § 64 Einschränkung von Grundrechten
 § 65 Maßgebende Einwohnerzahl
-§ 65a Übergangsbestimmung
-§ 66 In-Kraft-Treten
+§ 65a Übergangsbestimmung aus Anlass des Gesetzes zur Änderung kommunalwahlrechtlicher Vorschriften im Freistaat Sachsen
+§ 65b Übergangsbestimmung aus Anlass des Zensus 2011
+§ 66 Inkrafttreten
