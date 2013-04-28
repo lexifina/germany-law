@@ -1,2 +1,2 @@
-# § 65a Übergangsbestimmung
-Für Wahlen, deren Durchführung spätestens am 17. November 2012 gemäß § 1 Abs. 4 öffentlich bekannt gemacht worden ist, ist dieses Gesetz in der am 17. November 2012 geltenden Fassung weiter anzuwenden.
+# § 65a Übergangsbestimmung aus Anlass des Gesetzes zur Änderung kommunalwahlrechtlicher Vorschriften im Freistaat Sachsen
+Für Wahlen, die vor dem 27. Juli 2013 gemäß § 1 Abs. 4 durchgeführt werden, ist das Kommunalwahlgesetz in der am 27. April 2013 geltenden Fassung weiter anzuwenden.
