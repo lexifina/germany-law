@@ -1,0 +1,75 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-04-29T14:04:00+02:00
+- Ende: 2013-04-29T14:58:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8157
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8157
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 19.04.2013, 09.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00154381.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00154996.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 23.04.2013 - 13.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00154689.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zum Kohlekraftwerk Wilhelmshaven
+- TOP 2.1.1: Antwort auf die Große Anfrage der WfW-Fraktion vom 26.03.2013 zum Kohlekraftwerk Wilhelmshaven
+- TOP 2.2: Platz am Kolk
+- TOP 2.3: Verkauf des Gewerbegrundstücks Hastenerstraße 4 - 8
+- TOP 2.4: Sanierung von asbesthaltigen Fassaden in Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bau eines Aufzugs Hauptbahnhof - Distelbeck; Bürgeranträge gem. § 24 GO NRW - vertagen
+- TOP 3.2: Bürgerantrag gemäß § 24 Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Antrag: Dichtheitsprüfung auf das gesetzlich vorgeschriebene Mindestmaß beschränken - ungeändert beschlossen
+- TOP 4.2: Antrag zur Tagesordnung: Dauerhafte Sicherstellung des Schwimmunterrichts in Vohwinkel - vertagt auf Rat
+- TOP 4.2.1: Bericht zum Antrag der FDP-Ratsfraktion , Drucksache-Nr. VO/0315/13, "Dauerhafte Sicherstellung des Schwimmunterrichts in Vohwinkel" - Entgegennahme ohne Beschluss
+- TOP 4.3: Solidarität mit den Beschäftigten bei FAG Schaeffler
+- TOP 4.4: Beschäftigungs- und Standortgarantie der Schaeffler Technologies AG & Co. KG einhalten
+- TOP 4.5: Öffentliche Unternehmen demokratisieren (1): Öffentliche Sitzungen - abgelehnt
+- TOP 4.6: Ergebnisse des Zensus 2011
+- TOP 4.6.1: Veröffentlichung der Einwohnerzahlen am 31. Mai 2013 - Entgegennahme ohne Beschluss
+- TOP 4.7: Beschäftigungs- und Standortgarantie der Schaeffler Technologies AG & Co. KG einhalten - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Erhalt der Mobilen Beratungsstelle gegen Rechtsextremismus sichern - ungeändert beschlossen
+- TOP 5.1.1: Änderungsantrag zu VO/0117/13 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2: Namensgebung bei den neuen Schwebebahnwagen - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Einzelsatzung Ludwigstraße - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen in Wuppertal Oberbarmen an Sonn- und Feiertagen - vertagt auf Rat
+- TOP 6.3: Änderung der Betriebssatzung des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2012 - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln 2012, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 7.3: Durchführung zusätzlicher investiver Straßenbaumaßnahmen (Beseitigung von Frostschäden) - ungeändert beschlossen
+- TOP 7.3.1: Ergänzungsantrag zu VO/0362/13 - Durchführung zusätzlicher Straßenbaumaßnahmen - abgelehnt
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung des Gesellschaftsvertrages der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 8.2: Bestellung eines Akkreditivs bei der KfW und der NRW.Bank im Zusammenhang mit der Cross-Border-Lease Transaktion der AWG Wuppertal - vertagt auf Rat
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1177 - Schwarzbach / Hügelstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1168 - Borner Schule -
+- TOP 9.3: Bebauungsplan 945 - Robert-Daum-Platz - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 1080 - nördlich Hermann-Ehlers-Straße - - ungeändert beschlossen
+- TOP 9.5: Vorhabenbezogener Bebauungsplan 1179 V - Heckinghauser Str./ Feuerstr.- - ungeändert beschlossen
+- TOP 9.6: Erweiterung des Steinbruchs "Grube Osterholz" einschließlich der damit verbundenen Folgemaßnahmen - Antrag der Firma Iseke GmbH & Co. KG , Hahnenfurth 5, 42327 Wuppertal - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung der städt.Tageseinrichtung Distelbeck 57 und Neubau der städt. Tageseinrichtung Buschstr. 10 - Durchführungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Neubau der städt. Tageseinrichtung für Kinder Buschstr. 10 - Durchführungsbeschluss - vertagt auf Rat
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen für die Begrünung - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung der Betriebsleitung des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 12.2: Entsendung eines Vertreters der Stadt Wuppertal in den Aufsichtsrat der Regio-Bahn - ungeändert beschlossen
+- TOP 12.3: Abberufung und Bestellung von Vertretern der Stadt Wuppertal im Verwaltungsrat der CVUA-RRW AöR - ungeändert beschlossen
+- TOP 12.4: Neukonstituierung der Verbandsversammlung des Wupperverbandes - geändert beschlossen
+- TOP 12.5: Neukonstituierung des Verbandsrates des Wupperverbands - geändert beschlossen
+- TOP 12.6: Benennung eines neuen Mitgliedes des Ausschusses für Umwelt - ungeändert beschlossen
+- TOP 12.7: Wahl der Vertrauenspersonen als Beisitzer/ innen des Schöffenwahlausschusses - geändert beschlossen
+- TOP 12.8: Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 12.9: Benennung von Mitgliedern in Ausschüssen und Aufsichtsräten - ungeändert beschlossen
