@@ -1,0 +1,1 @@
+Auf Grund von Art. 8 Abs. 3 und Art. 10 Abs. 5 des Waldgesetzes für Bayern – BayWaldG – (BayRS 7902-1-E), zuletzt geändert durch Gesetz vom 23. Februar 1989 (GVBl S. 25), erläßt die Bayerische Staatsregierung folgende Verordnung:
