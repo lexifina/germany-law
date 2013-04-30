@@ -1,0 +1,1 @@
+Auf Grund von Art. 7 Abs. 3 und Art. 51 des Gesetzes über die Forstrechte (FoRG) erläßt das Bayerische Staatsministerium für Landwirtschaft und Forsten im Einvernehmen mit den Bayerischen Staatsministerien des Innern und der Justiz folgende Durchführungsverordnung:
