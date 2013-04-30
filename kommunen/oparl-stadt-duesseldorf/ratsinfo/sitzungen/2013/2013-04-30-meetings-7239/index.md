@@ -1,0 +1,56 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-04-30T17:00:00+02:00
+- Ende: 2013-04-30T21:30:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7239
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7239
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193923.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193923.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00193923.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulasung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Gedenktafel Anton Benz Straße; weiteres Vorgehen - zur Kenntnis genommen
+- TOP 5: Info-Vorlage: Umbau und Erw. PP - einstimmig beschlossen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Gedanken zur weiteren Bebauung des Grundstücks Witzelstraße - zur Kenntnis genommen
+- TOP 7: Bedeutung des Alten Bilker Friedhofs - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Buchprojekt "Düsseldorf-Bilk" - zur Kenntnis genommen
+- TOP 10: Wegweisung zum Hauptbahnhof - einstimmig beschlossen
+- TOP 11: Bürgersteigabsenkungen - einstimmig beschlossen
+- TOP 12: Kesselwerkstraße - einstimmig beschlossen
+- TOP 13: Straßenbenennung in Oberbilk - vertagt
+- TOP 14: Fährstraße; Straßenbelag - einstimmig beschlossen
+- TOP 15: Vorstellung der aktuellen Pläne rund um das Balletthaus Am Steinberg 35 - zur Kenntnis genommen
+- TOP 15.1: Siegstraße; Lärmschutz für den Außenbereich des "Zentrum Plus" Unterbilk - einstimmig beschlossen
+- TOP 16: Bauplatz KGS ST. Peter auf der Jahnstraße - zur Kenntnis genommen
+- TOP 17: Verwertung des früheren TOOM-Baumarkt-Geländes/Grundstück Oberbilker Allee 51-55 - zur Kenntnis genommen
+- TOP 18: Brücke; Aderkirchweg - zur Kenntnis genommen
+- TOP 19: Lessingplatz Gebäudenutzung - zur Kenntnis genommen
+- TOP 20: Fernbusbahnhof - zur Kenntnis genommen
+- TOP 21: Straßenbäume - zur Kenntnis genommen
+- TOP 22: Universitätsklinikgelände; Baumfällung - vertagt
+- TOP 23: Fläche zwischen Bach- Elisabethstraße und Bilker Allee - vertagt
+- TOP 24: Hammer Dorfstraße 1-17; Leerstand - zur Kenntnis genommen
+- TOP 25: Hammer Dorfstraße 1-17 - zur Kenntnis genommen
+- TOP 26: Hammer Dorfstraße 1-17 - zur Kenntnis genommen
+- TOP 27: Bürgerbeteiligung Corneliusstraße - vertagt
+- TOP 28: Baumfällung auf dem Universitätsgelände - vertagt
+- TOP 28.1: Oberbilker Markt; Stand des Verfahrens zur Umgestaltung - vertagt
+- TOP 28.2: Stoffeler Kapellenweg 188; Haus Kolvenbach - vertagt
+- TOP 29: Lessingplatz; Pergola - zur Kenntnis genommen
+- TOP 30: Wiederwahl der Schiedsfrau Brigitte Schmidt-Weber - einstimmig beschlossen
+- TOP 31: 5 Jahre Stadtteilzentrum Bilk - vertagt
+- TOP 32: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 33: Gladbacher Straße-Barrierefreier Ausbau der Haltestelle Wupperstraße - zur Kenntnis genommen
+- TOP 34: Mitteilungen des Bezirksvorstehers - zur Kenntnis genommen
