@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-04-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877108
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877108
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Tagesordnung siehe unter "Dokumente"
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Rosenheimer Str. 143 - Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.1.2.: Berg-am-Laim-Straße 63 - Antrag auf Nutzungsänderungen
+- TOP 3.1.1.3.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand - b) Anträge und Empfehlungen
+- TOP 3.1.2.1.: Leistungsprogramm 2014 der MVG
+- TOP 3.1.2.2.: Entschärfung der Verkehrssituation auf der Bad-Kreuther-Straße
+- TOP 3.1.2.3.: Aufenthaltsqualität auf dem Platz der Trambahnwendeschleife St.-Veit-Straße
+- TOP 3.1.2.4.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München - Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen
+- TOP 3.1.3.1.: Entwurf des Lärmaktionsplanes für München - Stellungnahme des BA 14
+- TOP 3.2.1.: Preisverleihung Wettbewerb Skulpturen an der Grünanlage St.-Veit-Straße
+- TOP 3.2.2.: Künstlerfest der GEWOFAG an der Wiese Pertisaustraße
+- TOP 3.2.3.: Feriensportkurs Scooterworkshop für Einsteiger von RBS-Freizeitsport
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Münchner Volkshochschule GmbH/Stadtbereich Ost Aktion ?100 Jahre ? 100 Dinge ? Berg am Laim seit 1913? von 21. bis 23.06.2013 - <div></div>
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Mag's and More e.V./Nachbarschaftstreff Maikäfersiedlung Kinderprogramm zum Fest ?75 Jahre Maikäfersiedlung? am 15.06.2013
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Genius Loci e.V. Ausstellung ?Röcke Hosen Blusen + Kunst? von 15.06. bis 07.07.2013 - <div></div>
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse Initiative ?Künstlerische Gestaltung DB-Unterführung? Künstlerische Gestaltung der DB-Unterführung am 15.03.2013 - <div></div>
+- TOP 3.5.5.: (E) Budget der Bezirksausschüsse ASZ Berg am Laim Finanzierung eines Zeltes für das Festwochenende von 21. bis 23.06.2013 - <div></div>
+- TOP 3.5.6.: (E) Budget der Bezirksausschüsse Münchner Volkshochschule GmbH/Stadtbereich Ost ?Bespielung? des Hochbunkers an der Waldstr./Ecke Sonnwendjochstr. zum Tag des Offenen Denkmals am 08.09.2013 - <div></div>
+- TOP 3.6.1.: Gronsdorfer Str. 5 // Großvenedigerstr. 31 // Ursberger Str. 7 // Ringbergstr. 21 //
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2013 - 31.12.2012 - Vorlagen-Nr. 08-14 / V 11535
+- TOP 4.1.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.1.4.: Bauträgerauswahl für das Grundstück Grafinger Str. 96 - Ergänzung Vorlage-Nr. V 11361
+- TOP 4.1.1.5.: Verlegung des Wochenmarktes Baumkirchner Straße auf den U-Bahn-Vorplatz Kreillerstr.
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Zuschussnehmerdatei 2013 Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates und seinen Teilbereichen
+- TOP 4.5.1.: Wahlen 2013 / 2014 - Stimmbezirkseinteilung für die Berg-am-Laim-Schule
+- TOP 4.5.2.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen - Antrag Nr. 08-14 / B 04503 des BA 5 vom 12.12.12
+- TOP 4.5.3.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Mag's and More e.V./Nachbarschaftstreff Maikäfersiedlung Kinderprogramm zum Fest ?75 Jahre Maikäfersiedlung? am 15.06.2013 - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
