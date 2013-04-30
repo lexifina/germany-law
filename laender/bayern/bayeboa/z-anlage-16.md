@@ -1,0 +1,6 @@
+# Anlage 16 (zu § 16 Abs. 1) Räder für Regelspurfahrzeuge mit kleinerem Meßkreisdurchmesser als 840 mm
+1. Fahrzeuge mit Rädern, deren Meßkreisdurchmesser kleiner als 840 mm ist, müssen beim Befahren von Kreuzungen und Weichen mindestens die gleiche Sicherheit gegen Abirren in die falsche Spurrille und gegen Anfahren der Herzstückspitzen bieten wie Fahrzeuge mit Rädern, deren Meßkreisdurchmesser 840 mm oder mehr beträgt.
+2. Die Bedingungen nach Nummer 1 gelten bei nachstehenden Voraussetzungen als erfüllt:
+a) Der Meßkreisdurchmesser darf kleiner als 840 mm, aber – auch im abgenutzten Zustand – nicht kleiner als 600 mm sein, wenn die Spurkränze nach untenstehendem Bild ausgeführt sind. Für kleinere Meßkreisdurchmesser als 680 mm müssen außerdem die Bedingungen nach Buchstabe b eingehalten werden.
+b) Ist der Meßkreisdurchmesser kleiner als 680 mm, aber – auch im abgenutzten Zustand – nicht kleiner als 600 mm, so müssen Drehgestelle mit zwei oder mehr Radsätzen mit mindestens 1200 mm Radsatzabstand verwendet werden und die Endradsätze jedes Drehgestells längs und quer fest gelagert sein.
+3. Abweichungen von den Spurkranzmaßen nach untenstehendem Bild sind zulässig, wenn die Bedingungen nach Nummer 1 auf andere Weise als nach Nummer 2 erfüllt sind.
