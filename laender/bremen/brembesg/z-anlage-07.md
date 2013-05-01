@@ -1,13 +1,12 @@
-# Anlage 7a - Anwärtergrundbetrag
-Anlage 7a
+# Anlage 7 - Anwärtergrundbetrag
+Anlage 7
 Anwärtergrundbetrag
-Gültig ab 1. April 2011
+Gültig ab 01. Mai 2013
 Anwärtergrundbetrag
 (Monatsbeträge in Euro)
-Einstiegsamt, in das die Anwärterin oder der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt | Grundbetrag
-A 5 bis A 8 | 925,87
-A 9 bis A 11 | 977,22
-A 12 | 1.110,17
-A 13 | 1.140,40
-A 13 + Zulage | 
-(Nummer 12 Buchst. b der Vorbemerkungen zu den Besoldungsordnungen A und B) oder R 1 | 1.173,62
+Einstiegsamt, in das die Anwärterin oder der Anwärter nach Abschluss des Vorbereitungs- dienstes unmittelbar eintritt | Grundbetrag
+A 5 bis A 8 | 974,62
+A 9 bis A 11 | 1.028,34
+A 12 | 1.167,40
+A 13 | 1.199,02
+A 13 + Zulage (Nummer 12 Buchst. b der Vorbemerkungen zu den Besoldungsordnungen A und B) oder R 1 | 1.233,77

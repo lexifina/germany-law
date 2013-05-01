@@ -1,8 +1,9 @@
-# Anlage 3a - Besoldungsordnung W
-Anlage 3a
+# Anlage 3 - Besoldungsordnung W
+Anlage 3
 Besoldungsordnung W
-Gültig ab 1. Oktober 2011
+Gültig ab 01. September 2013
 Besoldungsordnung W
-Grundgehaltssätze (Monatsbeträge in Euro)
+Grundgehaltssätze
+(Monatsbeträge in Euro)
 Besoldungsgruppe | W 1 | W 2 | W 3
- | 3.728,47 | 4.256,15 | 5.163,64
+ | 3.903,55 | 4.449,33 | 5.387,93
