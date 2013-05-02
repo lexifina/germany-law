@@ -1,0 +1,75 @@
+# 18. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-05-02T16:30:00+02:00
+- Ende: 2013-05-02T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3595
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3595
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=94576
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-18 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl und Wiederwahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Umwidmung eines Nebenstraßenabschnitts vor der Christophorus-Kirche in Friedrichshagen in eine Fußgängerzone - vertagt
+- TOP 9.2: Straßenbahnlinie 61 ins Ortszentrum Rahnsdorf verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Förderverein KIEZKLUB RAHNSDORF e. V. (SM 13-05) - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Sondermittel für das Schloßplatztheater (SM 13-09) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Verein zur Förderung sozialer und kultureller Kontakte e. V. (SM 13-10) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Wirtschaftskreis Müggelheim e.V. (SM 13-12) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für die Lichtblick SHG Krebs (SM 13-13) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Kinderring Berlin e. V. (SM 13-14) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Zusammenlegung der beiden Sonderpädagogischen Förderzentren "Schule am Plänterwald" und "Grüne-Trift-Schule" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Forschungsarbeit zum Bevölkerungsmilieu in Alt-Treptow (neu) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Entgeltfreies Internetangebot in den Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Dokumente mit Lizenzangaben versehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Weitergabe der Meldedaten - bessere Informationen über Opt-Out in Bürgerämtern - vertagt
+- TOP 12.5: Wohnaufwendungenverordnung anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Aufwertung Umfeld Bürgerhaus Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Nächtlichen Lärmschutz durch Geschwindigkeitskontrollen gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Schulhelfer - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Allende-Büste im Eingangsbereich des Allende-Viertels - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Allende-Denkmal restaurieren und beschriften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Belegungsplan für die Urnenanlage – Baumbeisetzungen, Friedhof Adlershof Abteilung U7 A - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Vorhabenbezogener Bebauungsplan 9-61 VE ("Makarenko-Quartier") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Belegungsplan für die Urnenanlage – Baumbeisetzungen, Friedhof Baumschulenweg Abteilung F 1 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Änderung des Bezirksamtsbeschlusses Nr. 449/2005 vom 16.08.2005 (Umsetzung der Sanierungsziele für das Sanierungsgebiet Oberschöneweide im Block 56 - Grundstück Wilhelminenhofstraße 68/69 an der Slabystraße) - überwiesen
+- TOP 13.5: Gestellung von Durchsuchungszeugen gem. § 105 StPO - überwiesen
+- TOP 13.6: Benennung von 7 Privatwegen auf dem Grundstück der KGA "Erpetal", Hinter dem Kurpark 1 in 12587 Berlin-Friedrichshagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Städtebaulichen Denkmalschutz für Müggelheim beantragen - überwiesen
+- TOP 14.2: Vertragslage bei ehemaligen GSW-Wohnungen erfüllen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Schlagloch-Programm - überwiesen
+- TOP 14.4: Aktion „ Zu Fuß zur Schule“ - überwiesen
+- TOP 14.5: E-Mail-Verteiler für Planungsunterlagen - überwiesen
+- TOP 14.6: Erhalt des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Verbesserung der Anbindung des Stadions an der Alten Försterei - überwiesen
+- TOP 14.8: Ampelschaltung Rudower Chaussee - überwiesen
+- TOP 14.9: Zeitgemäße Anpassung der Straßenreinigungsgebühren für öffentliche Grünanlagen - überwiesen
+- TOP 14.10: Kitaneubau in Rahnsdorf zeitnah ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: CarSharing im Bezirk - überwiesen
+- TOP 14.12: Köpenicker Synagoge - mit Änderungen in der BVV beschlossen
+- TOP 14.13: Umbau der Bölschestraße - überwiesen
+- TOP 14.14: Fahrbahn Semmelweisstraße - überwiesen
+- TOP 14.15: Sozialticket - überwiesen
+- TOP 14.16: Fußwege in Treptow - überwiesen
+- TOP 14.17: Umbau der Bölschestraße - barrierefrei - überwiesen
+- TOP 15: Große Anfragen - (offen)
