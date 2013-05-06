@@ -1,0 +1,7 @@
+# TOP 12.1: Abgabe einer Verpflichtungserklärung gegenüber der Zusatzversorgungskasse kvw Münster wegen Rechtsumwandlung VHS Reckenberg-Ems
+
+- Sitzung: Rat der Stadt Rheda-Wiedenbrück (24. Sitzung) (2013-05-06)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/10141
+- Ergebnis: Einstimmig
