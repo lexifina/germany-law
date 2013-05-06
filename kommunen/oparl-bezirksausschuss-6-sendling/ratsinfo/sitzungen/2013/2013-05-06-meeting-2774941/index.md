@@ -1,0 +1,76 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-05-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2774941
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2774941
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Bürgerschaftliche Nutzung des Sitzungssaals im Sozialbürgerhaus in der Meindlstraße - <div>Fristverlängerung zur Kenntnis genommen</div>
+- TOP 3.2.: Bekanntmachung für den jeweiligen Stadtbezirk zuständigen Mieterbeirats durch Veröffentlichung in den BA-Schaukästen
+- TOP 3.3.: Ergebnisse der Seniorenbeiratswahl in Sendling
+- TOP 3.4.: Einstiegstreppe zum Sportschwimmbecken im Südbad
+- TOP 3.5.: Taubenfüttern am Harras
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Schaffung von Anwohnerparkplätzen im Zuge des Schulneubaus an der Meindlstraße 8
+- TOP 5.1.: Freischankfläche Lindwurmstr. 189
+- TOP 5.2.: Freischankfläche Brudermühlstr. 25
+- TOP 5.3.: Freischankflächen am Harras
+- TOP 5.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Eröffnungsfeier Am Harras am 21. und 22.06.2013
+- TOP 6.2.: Straßenfest in der Valleystr. am 22.06.2013
+- TOP 6.3.: Änderung der Radwegführung in der Implerstraße
+- TOP 6.4.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München
+- TOP 6.5.: Maifest 2013
+- TOP 6.6.: Widmung der Harrasplatzflächen; Anlieferverkehr auf der Platzfläche an der Post
+- TOP 6.7.: Beschilderung der Platzflächen Am Harras
+- TOP 6.8.: Einrichtung eines Zebrastreifens an der Südseite der Alramstraße Ecke Aberlestraße - <div>die ablehndende Enscheidung des Oberbürgermeisters wird zur Kenntnis genommen</div>
+- TOP 6.9.: Parkplatz am Isarkanal; Einrichtung eines LKW-Parkverbotes
+- TOP 6.10.: Drehgenehmigung Schanzenbachstr. 1
+- TOP 6.11.: Nachttanzdemo zur Mobilisierung zum 1. Mai 2013 am 27.04.2013
+- TOP 6.12.: CarSharing in München
+- TOP 7.1.: (E) Budget der Bezirksausschüsse FC Wacker München e.V. Anschaffung von Fußball-Trainings-Anzügen
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Kunst in Sendling Tag der offenen Tür zum 10-jährigen Jubiläum von 11. bis 13.10.2013
+- TOP 7.3.: (E) Budget der Bezirksausschüsse ?Die Sendlinger? Projekt ?Lieblingsplätze? ab Februar 2013 bis Oktober 2013
+- TOP 7.4.: Vielfältige Maßnahmen der Bürgerbeteiligung
+- TOP 7.5.: BA-Mitgliedszahlen in der Amtsperiode 2014 - 2020
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lindenschmitstr. 35
+- TOP 8.3.: Bauvorhaben Schmied-Kochel-Str. 20
+- TOP 8.4.: Bauvorhaben Fritz-Endres-Str. 4
+- TOP 8.5.: Bauvorhaben Demleitnerstr. 4; Vorbescheid
+- TOP 9: Baureferat
+- TOP 9.1.: BA-Ruhebank am Sozialbürgerhaus in der Meindlstraße
+- TOP 9.2.: "Grünzugang" für Sendlinger zum Flaucher
+- TOP 9.3.: Freilaufende Hunde in den Isarauen
+- TOP 9.4.: Verdrecktes Grundstück an der Wackersberger Str.
+- TOP 9.5.: Erläuterungsschild für das Baumhaus am Neuhofener Berg
+- TOP 9.6.: Ausstellung: Stadtgrün in München; 175 Jahre Flaucher-Park
+- TOP 9.7.: Informations- und Orientierungssystem für den neuen Harras - <div>Rückschreiben an Baureferat</div>
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Meindlstraße 5
+- TOP 10.2.: Verringerter Baumbestand rund um den Harras
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Müll im Bereich der Ruhebank in der Oberländerstraße 36 Defekte Bänke am Kirchenvorplatz der Himmelfahrtskirche Hinweis auf die Himmelfahrtskirche im Umgebungsplan der MVG Einstufung des Kirchenvorplatzes der Himmelsfahrtskirche als Feuerwehreinfahrt
+- TOP 13.2.: Wertstoffcontainerstandorte in der Meindlstraße und im Bereich Thalkirchner Str. / Oberländerstr. / Gotzinger Str.
+- TOP 13.3.: Toiletten am Bahndeckel
+- TOP 13.4.: Namenserläuterungsschilder am Resi-Huber-Platz
+- TOP 13.5.: Erhalt der städtischen Wohnungen in der Schäftlarnstraße 32 - <div>zur Kenntnis genommen</div>
+- TOP 13.6.: Neue Bädereintrittspreise
+- TOP 7.1.: (E) Budget der Bezirksausschüsse FC Wacker München e.V. Anschaffung von Fußball-Trainings-Anzügen
+- TOP 7.3.: (E) Budget der Bezirksausschüsse ?Die Sendlinger? Projekt ?Lieblingsplätze? ab Februar 2013 bis Oktober 2013
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
