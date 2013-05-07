@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2013-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2870831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2870831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 09.04.13
+- TOP 2: Anträge
+- TOP 2.1.: Prüfung der Zuschussmöglichkeiten für die Mittagsbetreuung an privaten Schulen
+- TOP 2.2.: Optische Verbesserung der südöstlichen Ecke Hofmannstr. / Kistlerhofstr.
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Wertstoffcontainerstandort Saarbrücker- / Colmarer Str.
+- TOP 4.3.: Zustand Hermann-Hahn-Platz
+- TOP 4.4.: Hunde in den Isarauen
+- TOP 4.5.: Landschaft am Sollner Stadtrand
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Fußgängersituation Herterichstr. 41
+- TOP 5.2.: (A) MVG - Leistungsprogramm 2014
+- TOP 5.3.: Übergang Drygalski-Allee in Höhe Kandinskystr.
+- TOP 5.4.: Maria-Einsiedel-Straße
+- TOP 5.5.: Parksituation Saarbrücker Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Grundsatz- und Eckdatenbeschluss - Züricher Str., Berner Str., Winterthurer Str. (Sparkassengrundstück)
+- TOP 6.3.: (A) Eckdatenbeschluss - BPl. Nr. 1769a (Ratzingerplatz)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Selbsthilfeförderung Familienzentrum München e.V.
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: (A) Vorbehaltsnetz f.d. städt. Wirtschaftsverkehr
+- TOP 9.2.: (A) Maßnahmen zur Bürgerbeteiligung
+- TOP 9.3.: (A) Grundstücksverkauf Koppstraße
+- TOP 9.4.: (A) Antrag auf Zweckentfremdung Diefenbachstr.
+- TOP 9.5.: Antrag auf Zweckentfremdung Noestr.
+- TOP 9.6.: (U) Antrag BA22 - "Ganztag gemeinsam gestalten"
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 6.4.: Bericht
+- TOP 1: Allgemeiner Teil
