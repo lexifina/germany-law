@@ -1,0 +1,7 @@
+# TOP 4: Niederschrift
+
+- Sitzung: Integrationsrat (2013-05-07)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/120021
+- Ergebnis: Zur Kenntnis genommen
