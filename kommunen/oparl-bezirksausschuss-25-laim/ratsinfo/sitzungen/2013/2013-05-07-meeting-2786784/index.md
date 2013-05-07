@@ -1,0 +1,94 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-05-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Zustand der Grünfläche im Bereich Straubinger Str. 34
+- TOP 1.2.2.: Bushaltestelle Laimer Platz (Linie 57)
+- TOP 1.2.3.: Fußgängerüberweg Pronnerplatz - Nymphenburg
+- TOP 1.2.4.: Kein Metzger in Laim
+- TOP 1.2.5.: Parkharfe Inderstorfer- / Maxstadtstraße
+- TOP 1.2.6.: Aufstellung von Holzbänken auf dem Willibaldplatz
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Wohnsiedlung Alte Heimat
+- TOP 2.2.: FDP: Zukunft Busbetriebshof West
+- TOP 2.3.: FDP: Ferienprogramm für Münchner Kinder - Unterstützung des BA Laim
+- TOP 2.4.: Bündnis 90 / Die Grünen: Laimer Röhre - "Radverkehr / Kennzeichnung Radweg"
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 Laim in Höhe von 3.800 Euro für Maitanz am 04.05.13; Antragsteller: Laimer Maibaumfreunde e.V. - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Baureferat: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung; Laimer Platz - Haltestelle Laimer Platz
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 in Höhe von 1.775 Euro für Zirkus Pumpernudl von 1. bis 03.07.2013 und Artmobil am 27. und 28.08.2013; Antragsteller: PA/Spielen in der Stadt e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben MVG vom 02.04.13: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 08.04.13: Anhörung für diverse Spielaktionen der Spiellandschaft Stadt e.V. und weiterer Veranstalter; u.a. 01.07.-03.07.13 Grünanlage Burgkmairstraße, 27.08.-28.08.13 Weißenfelderplatz, 24.09.-25.09.13 Von-der-Pfordten-Straße
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.04.13: Vorbehaltnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen
+- TOP 4.4.: Schreiben Direktorium vom 15.04.13: Vielfältige Maßnahmen der Bürgerbeteiligung; Änderungsantrag der Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- und Personalausschusses, des Planungsausschusses und des Finanzausschusses vom 21.11.12
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.04.13: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen, a) aktueller Sachstand, b) Anträge und Empfehlungen
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 17.04.13: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Westendstr. 266 b
+- TOP 4.7.: Flintsbacher Str. 6: Fällung von 4 Thujen
+- TOP 4.8.: Ilmmünsterstr. 52 a: Fällung von 2 Fichten
+- TOP 4.9.: Hogenbergplatz 2: Fällung von 3 Zypressen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Westendstraße: Nutzungsänderung / -genehmigung für einen Flohmarkt (Westend- / Zschokkestraße; hier: Baupläne
+- TOP 5.2.: Landsberger Straße: Neubau eines Studentenwohnheims mit Hotel und Tiefgarage; hier: Bau- und Freiflächengestaltungspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Mieterbeirat der LH München vom 22.04.13: Aushang von Flyern im BA-Schaukasten
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 25.02.13
+- TOP 7.2.: Sitzung UA Kultur vom 18.03.13
+- TOP 7.3.: BA-Sitzung vom 09.04.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben 2. Bürgermeisterin Christine Strobl vom 04.04.13: Einhaltung der 3-Monats-Frist bei der Erledigung von Bürgerversammlungsempfehlungen
+- TOP 8.2.: Schreiben 2. Bürgermeisterin Strobl vom 15.04.13: Raumbedarf Ludwigsgymnasium und Erasmus-Grasser-Gymnasium; Bürgerhaus Laim- Hadern-Sendling Westpark
+- TOP 8.3.: Schreiben Direktorium vom 12.04.13: Resolution zur Münchner Trinkwasserverordnung (Schreiben BA vom 19.03.13)
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 25.03.13: Überprüfung der Ampelschaltung an der Kreuzung Fürstenrieder Straße / Ammerseestraße (Antrag Nr. 08-14 / B 04585 des BA 25 vom 05.02.13)
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 03.04.13: Gaststätte "I Ricordi", Zschokkestr. 55; unveränderte Fortführung
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 03.04.13: Gaststätte "diamonds-nightclub", Landsberger Str. 216, Eingang A; unveränderte Fortführung
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 10.04.13: Gaststätte "Bami", Elsenheimerstr. 49; unveränderte Fortführung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 10.04.13: Straubinger Str. 30 a; Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.03.13: Verbesserung der Querungsmöglichkeiten für Fußgänger an der Ostseite der Kreuzung Landsberger Straße / Elsenheimerstraße / Friedenheimer Brücke im Rahmen der Überplanung des Areals an der südöstlichen Ecke der Kreuzung (BA-Antrag Nr. 08-14 / B 03625 des BA 25 vom 10.01.12)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.04.13: Weitere Entwicklung des Ladenzentrums Agnes-Bernauer-Straße / Fürstenrieder Straße (Antrag Nr. 08-14 / B 04618 des BA 25 vom 05.02.13)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.04.13: Eringerstr. 47; Fällungsantrag vom 08.03.13
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.04.13: Kleingartenanlage Westendstraße
+- TOP 8.13.: Schreiben MVG vom 27.03.13: Aufstellen eines Zeitkartenautomaten im U-Bahnhof Laimer PLatz, Zwischengeschoss Ausgang West (BA-Antrag Nr. 08-14 / B 04633 des BA 25 vom 05.03.13)
+- TOP 8.14.: Schreiben Referat für Arbeit und Wirtschaft vom 17.04.13: Neubaustrecke Tram Westtangente - Projektsteuerung; Ausschreibung der Stadtwerke München GmbH vom 18.12.12 (BA-Antrag Nr. 08-14 / B 04632 des BA 25 vom 05.03.13)
+- TOP 8.15.: Schreiben Baureferat vom 02.04.13: Errichtung von Fahrradständern im Bereich des neuen Geschäftshauses "Fürst 51" (BA-Antrag Nr. 08-14 / B 04584 des BA 25 vom 05.02.13)
+- TOP 8.16.: Schreiben Referat für Bildung und Sport vom 02.04.13: Errichtung eines Hauses für Kinder mit 3 Kinderkrippen- und 3 Kindergartengruppen sowie einem Stadtteilkulturzentrum auf dem städtischen Grundstück Westendstraße / Ludwigshafener Straße im 07. Stadtbezirk Sendling-Westpark
+- TOP 8.17.: Schreiben Kommunalreferat vom 11.04.13: Sitzung des Kommunalausschusses vom 18.04.13; Jubiläumsstiftung der Münchner Bürgerschaft Alte Heimat; Beauftragung eines Städtebaulichen Entwicklungskonzeptes, Errichtung eines neuen Personenaufzugs Siedlung "Alte Heimat" am Kiem-Pauli-Weg; Einsetzen eines Gremiums um Informationsfluss und Mitsprachemöglichkeiten der Mieter / Mieterinnen zu gewährleisten (Empfehlung Nr. 08-14 / E 01601 der Bürgerversammlung des Stadtbezirkes 25 - Laim vom 20.11.12) Sitzungsvorlage Nr. 08-14 / 11669
+- TOP 8.18.: Schreiben Sozialreferat vom 04.04.13: Zweckentfremdung von Wohnraum; Guido-Schneble-Straße
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 23.04.13: Mobilfunk; Erweiterungsvorhaben an bestehenden Mobilfunkstandorten mit LTE 2800
+- TOP 8.20.: Schreiben Markthallen München vom 27.03.13: Veranstaltungskalender auf muenchen.de
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 09.04.13: Information der Bezirksausschüsse; neue Bädereintrittspreise
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 10.04.13: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2013 für den BA
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 19.04.13: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Agnes-Bernauer-Straße, 1. Bauabschnitt
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 28.03.13: Wirtschafts-Info 03/2013
+- TOP 8.25.: Schreiben Referat für Arbeit und Wirtschaft vom 11.04.13: Europe Direct Informationen 02/2013
+- TOP 8.26.: Bautenliste vom 01.04.-07.04.13 1. Erstantragsverfahren a) Geigerstr. 5
+- TOP 8.27.: Bautenliste vom 08.04.-14.04.13 1. Erstantragsverfahren a) Westendstraße b) Landsberger Straße 2. Änderungsverfahren a) Landsberger Str. 191
+- TOP 8.28.: Bautenliste vom 15.04.-21.04.13 1. Erstantragsverfahren a) Perhamerstr. 80 b) Landsberger Str. 318 a .
+- TOP 8.29.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.04.13: Liste der eingereichten Anträge auf Abgeschlossenheitsbescheinigung vom 16.03.-31.03.13
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 02.04.13: Baumaßnahmen der Stadtwerke; Stichtag: 02.04.13
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 08.04.13: Baumaßnahmen der Stadtwerke; Stichtag: 08.04.13
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 15.04.13: Baumaßnahmen der Stadtwerke; Stichtag: 15.04.13
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 22.04.13: Baumaßnahmen der SWM; Stichtag: 22.04.13
+- TOP 8.34.: Beschluss des Bauausschusses vom 16.04.13: Agnes-Bernauer-Straße zwischen Fischer-von-Erlach-Straße und Von-der-Pfordten-Straße; Erneuerung (Sitzungsvorlage Nr. 08-14 / V 07853)
+- TOP 8.35.: Beschluss des Bauausschusses vom 16.04.13: A) Bürgerbeteiligung bei Platzgestaltungen, B) Gestaltungsmaßnahmen im öffentlichen Raum (Sitzungsvorlage Nr. 08-14 / V 11607)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordung vom 17.04.13: Erhaltungssatzungen (Sitzungsvorlage Nr. 08-14 / V 11695)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.13: Impulse für mehr Wohnungsbau in München, Wohnungspotentiale durch Dachgeschossausbau heben (Sitzungsvorlage Nr. 08-14 / V 11564)
+- TOP 8.38.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.12-31.12.12 (Sitzungsvorlage Nr. 08-14 / V 11535)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.13: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012; Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien (Sitzungsvorlage Nr. 08-14 / V 11217)
+- TOP 8.40.: Beschluss des Kreisverwaltungsausschusses vom 30.04.13: Parken Friedenheimer Brücke (Sitzungsvorlage Nr. 08-14 / V 11746)
+- TOP 8.41.: Beschluss des Kreisverwaltungsausschuss am 30.04.13: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit (Sitzungsvorlage Nr. 08-14 / V 11817)
+- TOP 8.42.: Antrag Nr. 08-14 / B 04784 des BA 22 Aubing-Lochhausen-Langwied vom 17.04.13: Ganztag gemeinsam gestalten; Betreuung von Kinder / Jugendlichen an Freitagnachmittag, nach Schulschluss und während der Ferien
+- TOP 8.43.: Broschüre: Jahresbericht 2012 mit Jahrsvorschau 2013
+- TOP 1.2: Bürgerpost an den BA
