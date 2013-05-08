@@ -1,0 +1,55 @@
+# 54. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-05-08T16:00:00+02:00
+- Ende: 2013-05-08T21:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2475
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2475
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_05_08 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00130231.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Altes Standesamt Dresden am Palaisplatz
+- TOP 3.2: Kita-Ausbauprogramm und Vergabesystem
+- TOP 3.3: Ausfall der Turnhallenbeleuchtung an der 49. Grundschule
+- TOP 3.4: Vergabe der Dienstleistungskonzession zur Vermarktung und Betrieb von dresden.de
+- TOP 3.5: Finanzbehörden zu Kulturpalast/Kommunale Immobilien Dresden GmbH & Co. KG
+- TOP 3.6: Auslagerung des Hortes „Villa Pat`s Freunde“
+- TOP 3.7: Kleinkläranlagen
+- TOP 3.8: Bahnhof Niedersedlitz
+- TOP 3.9: Betreiberkonzeption Kulturpalast - Vereinbarung Staatskapelle
+- TOP 3.10: Bedeutung des Ehrenamts
+- TOP 3.11: Insolvenz der Schiffs- und Yachtwerft Laubegast
+- TOP 3.12: Kita Schönborn
+- TOP 3.13: Grundstücksausschreibungen in Hellerau und Gorbitz
+- TOP 3.14: Datenschutzbeauftragten
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - gewählt
+- TOP 6: Umbesetzung im Betriebsausschuss für Krankenhäuser und Kindertagesstätten - gewählt
+- TOP 7: Umbesetzung im Betriebsausschuss für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen - gewählt
+- TOP 8: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 9: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 10: Umbesetzung im Ortsbeirat Prohlis - gewählt
+- TOP 11: Umbesetzung im Ortsbeirat Pieschen - gewählt
+- TOP 12: Umbesetzung im Ortsbeirat Altstadt - gewählt
+- TOP 13: Umbesetzung im Ortsbeirat Altstadt - gewählt
+- TOP 14: Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2014 bis 2018 - erneute Beratung
+- TOP 15: Livestreaming von Stadtratssitzungen - Zustimmung
+- TOP 16: Gesamtsanierung der 6. Grundschule „Am Großen Garten", Fetscherstraße 2 in 01307 Dresden - Zustimmung
+- TOP 17: Teilsanierung der 107. Mittelschule, Hepkestraße 26 in 01309 Dresden - Zustimmung
+- TOP 18: Bündnis für Schulen initiieren - alternative Schulbaumodelle prüfen - Ersetzung
+- TOP 19: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Verwaltungskosten für Amtshandlungen in weisungsfreien Angelegenheiten (Kostensatzung) vom 20. Dezember 2007 - Zustimmung
+- TOP 20: Jugendhilfeplanung für die Leistungsbereiche "Kinder-, Jugend- und Familienarbeit" und "Andere Aufgaben/Jugendgerichtshilfe" (§§ 11 bis 14, 16 und 52 SGB VIII i. V. m. JGG) für den Zeitraum 2013 bis 2016 - Zustimmung mit Änderung
+- TOP 21: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2013/2014 - Zustimmung mit Änderung
+- TOP 22: Zweiter Stadtpsychiatrieplan der Landeshauptstadt Dresden 2013 - Zustimmung
+- TOP 23: Neue Straßentrasse zwischen der den östlichen Gewerbestandorten der Großen Kreisstadt Radebeul und der Bundesautobahn A 4 (Anschlussstellen Dresden-Neustadt und Dresden-Wilder Mann; Ergebnisse der Einwohnerversammlung vom 27. November 2012 - Vertagung
+- TOP 24: Einstellung der Planungen zum Bau einer neuen Lkw-Trasse in Dresden Kaditz - Vertagung
+- TOP 25: Konzept "Heiraten in Dresden" entwickeln - Standesamt stärken, Angebote und Kooperationen erweitern, Dresden als Hochzeitsstadt deutschlandweit profilieren - Vertagung
+- TOP 26: Anhörung nach § 21 der Geschäftsordnung des Stadtrats Dresden zum Thema "Integriertes Energie- und Klimaschutzkonzept Dresden" - Zustimmung
