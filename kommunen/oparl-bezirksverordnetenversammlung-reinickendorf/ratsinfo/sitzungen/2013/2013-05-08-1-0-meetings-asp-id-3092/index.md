@@ -1,0 +1,74 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-05-08T17:05:00+02:00
+- Ende: 2013-05-08T20:40:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3092
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3092
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=71052
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 19. Sitzung der BVV am 08.05.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 19. Sitzung der BVV am 08.05.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 19. Sitzung der BVV am 08.05.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Gemeinschaftsschule für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Endlich eine Gemeinschaftsschule im Märkischen Viertel? (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Sprachförderklassen für Kinder im Grundschulalter einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Rechte Symbole erkennen - Ordnungsamtsmitarbeiterinnen und Ordnungsamtsmitarbeiter fortbilden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Rücknahme des Bürgerbegehrens "Gesunde Schulen für ALLE" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Feuerwehrnachwuchs fördern / Anteil von Migrantinnen und Migranten bei der Berliner Feuerwehr erhöhen - überwiesen
+- TOP 7.8: Straßenerneuerung Alt-Lübars vorantreiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Spielplätze mit Angebot für Rollstuhlfahrer und bewegungseingeschränkte Kinder bedarfsgerecht ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Spielplatz im Titusweg (Zwischenbericht) - überwiesen
+- TOP 7.11: Flüchtlingsunterbringung in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Bushaltestelle Sagritzer Weg wieder anfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Ehrengrab von Marie Schlei in ansehnlichen Zustand versetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Bus 220 richtig auf dem U-Bahnhof Wittenau ausschildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Annahme von Belohnungen, Geschenken und sonstigen Vorteilen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - beantwortet
+- TOP 8.1.1: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.1.2: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - überwiesen
+- TOP 8.2: Zusammenarbeit von Bezirksamt und Senat bei der Flüchtlingsunterbringung - beantwortet
+- TOP 8.2.1: Zusammenarbeit von Bezirksamt und Senat bei der Flüchtlingsunterbringung - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Flüchtlinge in Reinickendorf - Wo steht das Bezirksamt? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - in der BVV zurückgezogen
+- TOP 9.3: Berufung eines Vertreters des Ausschusses für Integration in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Wahl der Schiedsfrau Monika Raap für den Schiedsamtsbezirk Reinickendorf 3 - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Bürgerhaushalt in Reinickendorf einführen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Brücke nach Horst Frank benennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Erinnerungsstele Niederbarnimer Eisenbahn - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Kampagne "Kein Raum für Missbrauch" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Quartiersmanagement rund um den Auguste-Viktoria-Kiez - überwiesen
+- TOP 12.2: Schutzstreifen Hennigsdorfer Straße - überwiesen
+- TOP 12.3: Einmündungssituation Thaterstr. Ecke Residenzstr. verbessern - überwiesen
+- TOP 12.4: Transparenz - Bürgernähe - überwiesen
+- TOP 12.5: Wasserspender für Grundschulen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Grillen in Reinickendorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Zebrastreifen an der Jugendfarm Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: E-Box der BSR auch in Reinickendorf einführen - überwiesen
+- TOP 13.3: Nächtliches Tempo 30 / Hennigsdorfer Straße - überwiesen
+- TOP 13.4: Barrierefreies Umsteigen am S-Bahnhof Hermsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Leuchte am Behindertenparkplatz des S-Bahnhofs Hermsdorf wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Ladestationen für Elektromobile an Straßenbeleuchtungsmasten prüfen! - überwiesen
+- TOP 13.7: Kontrastreiche Markierungen an den S-Bahnhöfen Hermsdorf und Frohnau erneuern - überwiesen
+- TOP 13.8: Mastentyp bei neuer elektrischer Beleuchtung beibehalten! - überwiesen
