@@ -1,0 +1,74 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-05-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748185
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748185
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Baum an der Bushaltestelle "Großhadern"
+- TOP 1.3.: Fehlende Tagesheimplätze an der Grundschule Am Hedernfeld
+- TOP 1.4.: Wochenendbetrieb Lichtzeichenanlage Kurparkstraße / Ossingerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.3.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Budget der Bezirksausschüsse, Regsam, Blumenauer Sommerfest am 20.07.2013 (Direktorium, 26.04.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Blumenauer Straße am 20.07.2013 (Kreisverwaltungsreferat, 16.04.13)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Neufriedenheimer Straße am 29.06.2013 (Kreisverwaltungsreferat, 15.04.13)
+- TOP 6.3.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013) (MVG, 02.04.13)
+- TOP 6.4.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen (Referat für Stadtplanung und Bauordnung, 11.04.13)
+- TOP 6.5.: Beschlussentwurf für den Kulturausschuss: Kultureller Mittelpunkt am Haderner Stern: Nutzung der leerstehenden Räumlichkeiten in der Guardinistraße 90 für bürgerschaftliche und stadtteilkulturelle Aktivitäten (Kulturreferat, 18.04.13)
+- TOP 6.6.: Vielfältige Maßnahmen der Bürgerbeteiligung, Änderungsantrag der Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- und Personalausschusses, des Planungsausschusses und des Finanzausschusses vom 21.11.2012 (Direktorium, 15.04.13)
+- TOP 6.7.: Canisiusplatz 3, Neubau eines Wohngebäudes (8 WE) mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 25.04.13)
+- TOP 6.8.: Guardinistraße 129 - 143, Aufstockung einer Wohnanlage - Vorbescheid (2 Varianten) (Guardinistraße 129 - 143 / Karl-Witthalm-Straße 3 - 13) (Referat für Stadtplanung und Bauordnung, 25.04.13)
+- TOP 9.3.: Kein weiterer Ausbau der Straßenbahnlinie vom Romanplatz zum Ratzingerplatz (Referat für Arbeit und Wirtschaft, 19.04.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Batzerstraße 3, gem. Baumbestandsplan Nr. 6572
+- TOP 7.3.: Bortenhofstraße 4, 1 Blaufichte
+- TOP 7.4.: Großhaderner Straße 25, 1 Birke
+- TOP 7.8.: Sonnenblumenstraße 62, 1 Birke
+- TOP 7.9.: Fürstenrieder Straße 262, gem. Baumbestandsplan Nr. 7245
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.3.: Veranstaltungskalender für Veranstaltungen auf den Wochen- und Bauernmärkten (Kommunalreferat, 02.04.13)
+- TOP 7.4.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 09.04.13)
+- TOP 7.5.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2013 für den BA (SWM, 10.04.13)
+- TOP 7.6.: Baumaßnahmen der SWM, Stromprojekt Würmtalstraße, Änderung im Terminablauf (SWM, 08.04.13)
+- TOP 7.7.: Baumaßnahmen der Stadtwerke München, hier: Sauerbruchstraße 52 - 52 e, Strom (SWM, 15.04.13)
+- TOP 7.8.: Zweckentfremdung von Wohnraum, hier: - Gräfelfinger Straße (Sozialreferat, 28.03.13) - Hosigaustraße (Sozialreferat, 22.04.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Wahlen 2013 / 2014 - Änderung der Stimmbezirkseinteilung, Rückfrage zu Wahllokalen (Kreisverwaltungsreferat, 16.04.13)
+- TOP 9.2.: Städtebaulicher Vertrag vom 25.11.2002: Beleuchtung Verbindungsweg zwischen Max-Lebsche-Platz und Prälat-Wellenhofer-Straße (Baureferat, 26.03.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Tram Westtangente, Anfrage zum Arbeitsstand des Projektes (SWM, 12.04.13)
+- TOP 10.2.: Aushang des Mieterbeirats in den BA-Schaukästen (Mieterbeirat, 23.04.13)
+- TOP 10.4.: Einladung zum Gesprächstermin "Zukünftige Trägerschaft Guardinistraße 90" am 26.06.2013 (Kulturreferat, 30.04.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11276: OB-Kandidat Reiters "Wunschlisten": Hochhausbaukonzepte und Verkehrskonzept
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11412: Preis für Stadtteilpflege; Wettbewerb "Bauen und Sanieren in historischer Umgebung" 2012; Prämierung von Wettbewerbsbeiträgen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.03.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11131: Wohnungen für Auszubildende und Studierende
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11695: Erhaltungssatzungen: - Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten - Erlass von Erhaltungssatzungen in Aufwertungsgebieten - Das Instrument Erhaltungssatzung weiterentwickeln
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11564: Impulse für mehr Wohnungsbau in München: Wohnungspotentiale durch Dachgeschossausbau heben!
+- TOP 12.4.: Beschluss des Sozialausschusses vom 11.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11335: Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung der Nutzungsänderung des Wohnraums Gelbhofstraße 6, 1. Obergeschoss für die Einrichtung einer Kindertageseinrichtung (Kinderkrippe und Kindergarten) durch die MDM Kinderbetreuung GmbH
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11364: Zuschussnehmerdatei 2013 Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ?ASZ Kleinhadern-Blumenau? des CV, Anlage 1 a, Abschnitt 5.4.1, S. 3, laufende Nr. 10 (Ansatz in 2013 = 215.954,- ?) und - zur ?Altenwohnanlage Konrad-Dreher-Straße 19 ? 23? des CV, Abschnitt 5.4.2, S. 8, laufende Nr. 28 (Ansatz = 52.595,- ?)
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11357: Zuschussnehmerdatei 2013 Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere - zum ?Freiwilligenzentrum München-Süd?, Königswieser Straße 12, 81475 München, des Caritasverbandes (CV) der Erzdiözese München und Freising e.V., Anlage 2, Abschnitt 7.3.1, laufende Nr. 12 (Ansatz in 2013 = 44.775,- ?)
+- TOP 12.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 09.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11352: Zuschussnehmerdatei 2013 Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum ?Kinderhaus am Wolkerweg? des BJR, Anlage 1 a, Abschnitt 3.1.1, laufende Nr. 55 (Ansatz in 2013 = 207.516,- ?), - zum ?PfiffTEEN Treffpunkt für Jugendliche?, laufende Nr. 56 (Ansatz = 321.693,- ?), - zum ?Treff 21? des ?Schule-Beruf e.V. im DPWV?, laufende Nr. 65 (Ansatz = 357.326,- ?), - zum ?Studio im Netz, SiN e.V.?, laufende Nr. 104 (Ansatz = 84.928,- ?), - zur ?Schulsozialarbeit an 7 Grundschulen?, insbesondere im Stadtbezirk Hadern, Abschnitt 3.1.2, laufende Nr. 1, S. 1 (Ansatz = 359.472,- ?), - zum ?Familienzentrum Hadern-Blumenau? des DPWV, Abschnitt 3.2.1, laufende Nr. 13, S. 1 (Ansatz = 66.052,- ?) und - zur ?Nachbarschaftshilfe Neuhadern, Bewohnertreff?, Abschnitt 3.2.2, S. 1, laufende Nr. 2 (Ansatz = 102.807,- ?)
+- TOP 12.9.: Beschluss des Umweltschutzausschusses vom 09.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11555: Rabenkrähen und Saatkrähen in München
+- TOP 12.10.: Beschluss des Kreisverwaltungsausschusses vom 30.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11817: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11217: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012 Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
