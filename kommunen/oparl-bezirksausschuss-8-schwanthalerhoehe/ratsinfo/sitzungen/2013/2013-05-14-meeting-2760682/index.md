@@ -1,0 +1,54 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760682
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760682
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Videoüberwachung in den Einkaufsmärkten auf der Theresienhöhe
+- TOP 4.2.: Taubenplage in der Schwanthaler Str. 113/ Schießstättstr.
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldelisten
+- TOP 5.2.: Anhörung: Trappentreustr. 23, DG-Restausbau
+- TOP 5.3.: Gollierstr. 29, Neubau eines Garten-Doppelhauses; LBK-Schreiben vom 18.04.2013
+- TOP 5.4.: Gollierstr. 29, Anbau eines Personenaufzugs, Neubau von 3 Balkonanlagen, Einbau einer Dachterrasse, Erneuerung der Dacheindeckung mit Wärmedämmung; LBK-Schreiben vom 18.04.2013
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Ganztag gemeinsam gestalten, Antrag des BA 22
+- TOP 6.2.: Ganztagsbetreuung an der Carl-von-Linde-Realschule und Mittelschule an der Ridlerstraße 26; Schreiben der Münchner Serviceagentur für Ganztagsbildung
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Straßenfest des Ledigenheim München in der Bergmannstraße am 08.06.2013
+- TOP 8.2.: Anhörung: MVG-Leistungsprogramm 2014
+- TOP 8.3.: Entscheidung: Projektplanung Haltestelle Trappentreustraße
+- TOP 8.4.: Anhörung: Änderungen der Regelungen in Parkraummanagementgebieten zum Oktoberfest 2013
+- TOP 8.5.: Anhörung: Bahnknoten München: . Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen
+- TOP 8.6.: Anaerobe/aerobe Abwasservorbehandlungsanlage Augustiner, Genehmigungsbescheid vom 11.04.2013
+- TOP 8.7.: Entscheidung: Genehmigung einer Freischankfläche in der Astallerstr. 13
+- TOP 8.8.: Anhörung: 40jähriges Jubiläum des Kleinkinder-Tagesstätten e.V. Am Bavariapark am 23.06.2013
+- TOP 8.9.: Entscheidung: Erweiterung einer bestehenden Freischankfläche in der Ligsalzstr. 38
+- TOP 8.10.: Anhörung: Baumfällung Barthstr. 29 - 33
+- TOP 8.11.: Public Viewing zum UEFA Champions-League Finale am 25.05.2013 auf der Theresienwiese
+- TOP 8.12.: Entscheidung: Genehmigung einer Freischankfläche in der Schwanthalerstr. 131
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Münchner Kindl-Chor e.V. Aufführung ?Carmina Burana? am 26.10.2013 - <div>siehe Beschlussseite</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Evangelisches Migrationszentrum Internationales Stadtteilfest Westend am 06.07.2013 - <div>nach Antrag</div>
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Ledigenheim München e.V. Festakt anlässlich des 100jährigen Gründungsjubiläums am 08.06.2013 - <div>nach Antrag</div>
+- TOP 9.4.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Schwanthaler Flöhe e.V. doppelte Mietkosten für die Dauer der Renovierung - <div>siehe Beschlussseite</div>
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Errichtung einer sprengelübergreifenden Ganztagsschule; hier: Einladung des BA 7 zu einer der nächsten Sitzungen und Stellungnahme BA 2
+- TOP 11.2.: Einhaltung der 3-Monats-Frist bei der Erledigung von Bürgerversammlungsempfehlungen
+- TOP 11.3.: Neue Bädereintrittspreise
+- TOP 11.4.: Anhörung: Vielfältige Maßnahmen der Bürgerbeteiligung
+- TOP 12: Protokoll und Umlauf
