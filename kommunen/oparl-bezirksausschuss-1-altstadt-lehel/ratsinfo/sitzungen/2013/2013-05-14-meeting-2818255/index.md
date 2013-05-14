@@ -1,0 +1,111 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-05-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818255
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818255
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Vielfältige Maßnahmen der Bürgerbeteiligung; Änderungsantrag der Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- und Personalausschusses, des Planungsausschusses und des Finanzausschusses
+- TOP .5: Allgemeine Themen
+- TOP .1.: Aufstellung eines Bebauungsplanes für die Grundstücke Lerchenfeldstraße 4-6 und Seeaustraße 1 (siehe auch B 3.1.12), vertagt aus 2013.03 B 3.1.10 und 2013.04 B 1.1
+- TOP .2.: Aufstellung eines Bebauungsplanes für die Grundstücke Oettingenstraße 6-8, vertagt aus 2013.04 B 1.2
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Franz-Josef-Strauß-Ring 4: Errichtung eines Prüfungssaals ? Fassadengestaltung
+- TOP .2.: Franz-Josef-Strauß-Ring 4: Neubau eines Verwaltungsgebäudes für Teile des Staatsministerums des Inneren
+- TOP .3.: Liebigstraße 20c: Teilung einer Wohneinheit in zwei Wohneinheiten
+- TOP .4.: Oettingenstraße 27: Umbau einer Dachgeschoss-Wohnung mit Einbau einer Dachterrasse, einer Gaube und von Dachflächenfenstern, Anbau eines Balkons
+- TOP .5.: Christophstraße 2: Umbau und Sanierung, Lifteinbau, Dacherneueruung, Anbringung von Balkonen sowie Wiederherstellung der historischen Dachgauben und Straßenfassade sowie Nutzungsänderung (vertagt aus 2013.04 B 3.1.14 N)
+- TOP .6.: Lerchenfeldstraße 4 ? 6: Neubau Mehrfamilienhaus mit Tiefgarage, vertagt aus 2013.03 B 3.1.10 und 2013.04 B 3.1.12)
+- TOP .7.: Hackenstraße 7: Umbau, Erweiterung Radspielerhaus mit DG-Ausbau, Innenhofunterkellerung und -überdachung, Kellersanierung, Vorbescheid (vertagt aus 2013.04 B 3.1.6)
+- TOP .8.: Oberanger 43: Revitalisierung eines Wohn- und Geschäftsquartiers (Vorbescheid)
+- TOP .9.: Pestalozzistraße 2: Vollständiger Rückbau (vertagt aus 2013.04 B 3.1.7)
+- TOP .1.: Stellungnahme zur ?Hackenviertelstudie? (BV-Empfehlung Nr. 08-14/E 1655)
+- TOP .1.: Bürgeranliegen: Parkbank am St.-Anna-Platz
+- TOP .2.: Bürgeranliegen: Informationsstande von Scientology in der Sonnenstraße
+- TOP .1.: (E) Aufstellen von mobilen Toilettenanlagen in der Altstadtringunterführung (Ziffer 3 der Anlage) Empfehlung Nr. 08-14 / E 01635 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP .2.1: Gaststätten
+- TOP .1.: Gaststätte ?Casalingo?, Sebastianplatz 12: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: ?Teetruhe?, Färbergraben 5: Aufstellen von Warenauslagen und Postkartenständern
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: ?Metzgersprung? am Fischbrunnen mit Festzug am 08.09.2013
+- TOP .2.: Prozession zum Umzug des Ägyptischen Museums am 09.06.2013, Start Hofgarten
+- TOP .3.: Infoveranstaltung der Caritas am 28.06.2013, Neuhauser Straße
+- TOP .4.: Griechisch-Bayerischer Kulturtag am 14.07.2013, Odeonsplatz
+- TOP .5.: Radl-Aktionstage am 24.05. und 25.05.2013, Odeonsplatz
+- TOP .6.: ?Jump & Fly? am 04.06.2013, Odeonsplatz
+- TOP .7.: Informationsveranstaltung der Veganen Gesellschaft Deutschland am 18.04.2013, Richard-Strauss-Brunnen
+- TOP .8.: Oper für alle am 26.07 und 27.07.2013, Max-Joseph-Platz
+- TOP .9.: Musica Viva ? Aufführung eines ?Abschluss-Rituals? am 29.06. und am 01.07.2013, Neuhauser Straße
+- TOP .10.: Sommerfest Kindertagesstätte St. Lukas am 21.06.2013, Thierschstraße 28
+- TOP .11.: Informationsveranstaltung Arbeiter-Samariter-Jugend am 19.05.2013, Odeonsplatz
+- TOP .12.: UniCredit Festspiel-Nacht 2013 am 22.06.2013, Kardinal-Faulhaber-Straße
+- TOP .13.: NACHTRAG: Theaterveranstaltung der Münchner Kammerspiele ?Playground? am 29.06. und 30.06.2013, Spielplatz Hochbrückenstraße
+- TOP .1.: NACHTRAG: Wanderbaumallee Dienerstraße/Schrammerstraße
+- TOP .2.: NACHTRAG: Boulevard an der Isar
+- TOP .3.: NACHTRAG: Carsharing
+- TOP .4.: NACHTRAG: Anfrage an das Planungsreferat nach dem Stand der Planungen zur Verlegung der Corneliusstraße zwischen Müllerstraße und Blumenstraße
+- TOP .1.: Bürgeranliegen: Baumfällung Pfarrstraße 10
+- TOP 1: (E) Abstellverbot für Abfalltonnen in Parkbuchten (Ziffer 3 der Anlage) Empfehlung Nr. 08-14 / E 01656 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 27.11.2012
+- TOP 1.2.: ÖPNV Offensive IV, Projektplanung Haltestellen Marienplatz, Rindermarkt, Prälat-Zistl-Straße, Viktualienmarkt
+- TOP 1.1.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München - Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen, Beschlussvorlage für den Stadtrat
+- TOP 1.2.: 2. Stammstrecke München; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 12.06. und die Vollversammlung des Stadtrats am 26.06.2013
+- TOP 1.3.: Beschilderungsmaßnahmen im Tal nach Umbauarbeiten; Anhörung zu verkehrsrechtlicher Anordnung
+- TOP 1.1.: Vorstellung des Projekts eines Ausbildungstheaters im Unterausschuss
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Kultur & Spielraum e.V. Historisches Spielprogramm am 22.06.2013
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Initiative "Siegfried und das Mädchen mit Schwefelhölzern"
+- TOP 1.3.: Budget-Antrag: "Kunsttunnel Odeonsplatz" vom 28.12.2013 ? 10.01.2014, beantragter Zuschuss: 2.000,- Euro (vertagt aus den Sitzungen vom 19.02. 21.03. und 16.04.2013)
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Initiative "Kunsttunnel Odeonsplatz" Projekt "Kunsttunnel Odeonsplatz" vom 28.12.2013 - 10.01.2014
+- TOP 1.5.: (E) Budget der Bezirksausschüsse inkunst e.V. Veranstaltung "Richard-Richard-Sterntaler" am 16.06.2013
+- TOP 1.1.: Antrag des BA 22 Aubing-Lochhausen-Langwied: Betreuung von Kindern/Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien
+- TOP 1.1.: Vorabinfo: Workshop Denkmalschutz am 10.06.2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Einhaltung der 3-Monats-Frist bei der Erledigung von Bürgerversammlungs-empfehlungen, Schreiben der 2. Bürgermeisterin an Referate
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Erhaltungssatzungen, diverse Anträge, Ausschuss für Stadtplanung und Bauordnung am 17.04.2013 (Sitzungsvorlage Nr. 08-14 / V 11695)
+- TOP 0.3.: Perspektive München ? Fortschreibung 2012, Ausschuss für Stadtplanung und Bauordnung am 17..04.2013 (Sitzungsvorlage Nr. 08-14 / V 11217)
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.5.: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse, Ausschuss für Stadtplanung u. Bauordnung am 17.04.2013 (Sitzungsvorlage Nr. 08-14 / V 11535)
+- TOP 0.6.: Baugenehmigung zur Neuhauser Straße 47
+- TOP 0.7.: OB-Kandidat Reiters ?Wunschliste?: Stadtplanung fit für das 21. Jahrhundert
+- TOP 0.8.: Barrierefreiheit für Menschen mit Behinderung, Bauausschuss am 14.05.2013 (Sitzungsvorlage Nr. 08-14 / V 06383)
+- TOP 0.9.: Bekämpfung von Ameisen in Kinderspielbereichen, Bauausschuss am 14.05.2013 (Sitzungsvorlage Nr. 08-14 / V 11667)
+- TOP 0.10.: Lärmminderungsplan für München, Lärmaktionsplan, Beschluss des Umweltausschusses am 07.05.2013 (Sitzungsvorlage Nr. 08-14 / V 11894)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Technokonzerte auf dem Königsplatz; Beschluss des Kreisverwaltungsausschusses vom 30.04.2013 (Sitzungsvorlage Nr. 08-14/ V 11762)
+- TOP 0.6.: Schreiben des Kommunalreferats zur Vermietung des Anwesens Marienplatz 1
+- TOP 0.7.: Eilentscheidung zur Veranstaltung ?Israeltag?am 08.05.2013, Odeonsplatz
+- TOP 0.8.: Verkehrsaufsichtliche Erlaubnis Weinstraße 1
+- TOP 0.9.: Kunstaktion im Öffentlichen Raum graue Busse auf dem Isartorplatz
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Personenbezogener Behindertenparkplatz Wagmüllerstraße
+- TOP 0.2.: Umgestaltung Tal, Beschluss der Vollversammlung des Stadtrates vom 19.03.2013 (Sitzungsvorlage Nr. 08-14 / V 11385)
+- TOP 0.3.: Antwortschreiben der MVG zu den Gleisbauarbeiten Müllerstraße/Fraunhoferstraße
+- TOP 0.4.: CarSharinng in München, Zwischenbericht zur Projekthalbzeit; Beschluss des Kreisverwaltungsausschusses vom 30.04.2013 (Sitzungsvorlage Nr. 08-14/ V 11817)
+- TOP 0.5.: Antwortschreiben der Unteren Naturschutzbehörde zur Baumfällung Praterinsel 5
+- TOP 0.6.: Antwortschreiben des Baureferats zur Pflasterung Knöbelstraße
+- TOP 0.7.: Fahrbahnsanierung Sendlinger Straße zwischen Herzog-Wilhelm-Straße und Schmidstraße
+- TOP 0.8.: Thomas-Wimmer-Ring 9, Schreiben der Unteren Naturschutzbehörde zur Baumfällung
+- TOP 0.9.: Straßenbauarbeiten Eisenmannstraße
+- TOP 0.1.: Kultur-Orientierungssystem, Beschluss des Bauausschusses vom 16.04.2013 (Sitzungsvorlage Nr. 08-14/V 3894)
+- TOP 0.2.: Information über neue Bädereintrittspreise
+- TOP 0.3.: Dankesschreiben Lilalu
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP .3.2: Sonstige
