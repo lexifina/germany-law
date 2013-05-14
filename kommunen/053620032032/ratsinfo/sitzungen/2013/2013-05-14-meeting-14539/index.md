@@ -1,0 +1,60 @@
+# Stadtrat (27. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-05-14T17:00:00+02:00
+- Ende: 2013-05-14T19:26:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfrQzPtbhcMpl9bU8KnpiMk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14539
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQunmSgmfzcDN31dZoEZONUs6dC1nS1AL5J-mcjUdCRo/Bekanntmachung_Stadtrat_14.05.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZd56HfMhfJ8DwzHMminJB9TAYsA_c70TfMKd4pa_owbg/Oeffentliche_Niederschrift_Stadtrat_14.05.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Martina Bötig und Wilhelm Liesenberg
+- TOP 2.: Verabschiedung des Ersten und Technischen Beigeordneten Peter Knopp in den Ruhestand
+- TOP 3.: Einwohner/innen - Fragestunde
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung von Ausschüssen und Gremienhier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.2: Umbesetzung von Ausschüssen und Gremien hier: Antrag der CDU-Fraktion
+- TOP 4.3: Benennung der Vorsitze des Umweltausschusses und des Ausschusses für Sport, Freizeit und Kultur
+- TOP 4.4: Umbesetzung der Räte der städtischen Kindertagesstätteneinrichtungen im Stadtgebiet Kerpen
+- TOP 4.5: Umbesetzung des Bau- und Feuerschutzausschusseshier: Antrag der BBK/UWG-Fraktion vom 03.05.2013
+- TOP 4.6: Umbesetzung der Gesellschafterversammlung GEV und WFKhier: Antrag der FDP-Fraktion
+- TOP 5.: Bestellung eines allgemeinen Vertreters der Bürgermeisterin gem. § 68 Abs. 1 GO NRW hier: Beigeordneter Dieter Spürck
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: Materielle Änderung der Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen
+- TOP 7.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk IV
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: Abschluss des 1. Änderungsvertrages zum städtebaulichen Vertrag vom 06.07.2012 zur Realisierung eines Bauvorhabens im Bereich „Altes Hallenbad“ im Stadtteil Kerpen
+- TOP 8.2: Abschluss einer Planungsvereinbarung gem. § 11 BauGB für den Geltungsbereich des BP KE Nr. 344 1. Änderung "Stiftsstraße"
+- TOP 8.3: Weitere Verlängerung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE Nr. 339 "Sindorfer Straße" im Stadtgebiet Kerpen gem. § 17 (2) BauGB
+- TOP 8.4: Bebauungsplan 344, 1. Änderung „Stiftsstraße" im Stadtteil Kerpen hier: 1.) Aufstellungsbeschluss gem. § 2 (1) BauGB i. V. m. § 13 BauGB 2.) Verzicht auf die frühzeitige Unterrichtung und Erörterung gem. § 3 (1) und § 4 (1) BauGB 3.) Beschluss der öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 8.5: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf 1. Beschluss zur Offenlage gem. § 3 (2) BauGB 2. Teilaufhebung des Bebauungsplanes SI 257 „Bolzplatz Vogelrutherfeld“, Stadtteil Sindorf
+- TOP 8.6: Bebauungsplan SI 228/1. Änderung "Kerpener Straße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 9.: Interkommunale Zusammenarbeit Öffentlich-rechtliche Vereinbarung über die notärztliche Versorgung an den Notarztstand-orten in Kerpen und Pulheim
+- TOP 10.: Neuausrichtung der Finanzierung der vorschulischen Bildung von Kindern mit Behinderung
+- TOP 11.: Übersicht über die Ermächtigungsübertragungen aus dem Jahre 2012
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Vorschlagliste für die Wahl der Schöffinnen und Schöffen für die Amtszeit vom 01.01.2014 bis 31.12.2018
+- TOP 17.: Neuvergabe der Konzessionen für das Strom- und Gasnetz
+- TOP 18.: Abschluss einer Zerlegungsvereinbarung Tagebau Hambach
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.1: Ernennung eines Stadtamtsrates zum Stadtoberamtsrat
+- TOP 19.2: Ernennung eines Stadtverwaltungsrates zum Stadtoberverwaltungsrat
+- TOP 19.3: Ernennung eines Branddirektors zum Leitenden Branddirektor
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Antrag auf Anrechnung von Vordienstzeiten auf die ruhegehaltsfähigen Dienstzeiten
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
