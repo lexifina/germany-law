@@ -1,0 +1,125 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2848108
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2848108
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Spielplatzversorgung im Bezirk Fasangarten/Obergiesing, Bürgeranliegen von Frau J. vom 08.05.2013
+- TOP 2.2.: Giesinger Gemeinschaftsgarten als Zwischennutzung auf dem ehemaligen Afga-Gelände, Bürgeranliegen von Herrn K. vom 30.04.2013
+- TOP 2.3.: Kirche in der Lincolnstraße, Bürgeranliegen von Herrn L. vom 05.05.2013
+- TOP 2.4.: Abstellen von Wohnwägen in der Siedlung "Am Perlacher Forst", Bürgeranliegen von Herrn H. vom 10.05.2013
+- TOP 2.5.: Bauprojekt JVA Stadelheim/Regierung von Oberbayern, Bürgeranliegen von Herrn D. vom 30.04.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Freie Fahrt für Rad Fahrende in der Hohenwaldeckstraße, Antrag der GR?NEN-Fraktion
+- TOP 3.2.: Ganztag gemeinsam gestalten, Betreuung von Kindern/Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien, der Bezirksausschuss 22 bittet um Unterstützung seines Antrages
+- TOP 3.3.: Aschenbecher an den Auf-/Abgängen zur U-Bahn aufstellen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Elterninitiativ-Kindergarten Larifari e.V. Tag der offenen Tür am 03.05.2013
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Erweiterung einer bestehenden Freischankfläche in der Alpenstraße 19; Beschlussvorlage des Kreisverwaltungsreferates vom 17.04.2013
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Schwanseestr. 21, Beschlussvorlage des KVR vom 19.04.2013
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: erneute Vorlage Ausdehnungsantrag Schwanseestraße 81, und Neuantrag Schwanseestraße 81, Zuleitung des KVR vom 17.04.2013
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) Bad-Berneck-Str. 14, Neubau von 4 Doppelhaushälften mit 2 Duplexgaragen, Anhörung des PlanR vom 05.04.2013
+- TOP 0.2.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) Tegernseer Landstraße 131, Sanierung eines Wohn- und Geschäftshauses, Ausbau der DGs sowie Neubau eines Stadthauses (Baulücke) und eines Rückgebäudes mit Stadtwohnungen , Anhörung des PlanR vom 05.04.2013
+- TOP 0.3.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2), Spixstraße, Neubau einer Wohnanlage (44 WE) Anhörung des PlanR vom 25.04.2013
+- TOP 0.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77 und1995), Zuleitung des PlanR vom 21.03.2013 mit der Bitte um Stellungnahme
+- TOP 0.5.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2), Maxlrainstr. 2, Nutzungsänderung im EG: Einzelhandel zu Großtagespflege, Anhörung des PlanR vom 30.04.2013
+- TOP 0.6.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2), Chiemgaustr. 63 - 65, Nutzungsänderung einer Ladenfläche zu einer Förderstätte zur Betreuung und Pflege von mehrfach behinderten Blinden und Sehbehinderten mit 24 Plätzen, Anhörung des PlanR vom 30.04.2013
+- TOP 0.7.: Bebauungsplan mit Grünordnung Nr. 1979 ehem. Afga-Gelände; neuer Platz "Baumplatz" bei der Erschließungsstraße Werner-Schlierf-Straße (U-1634) im 17. Stadtbezirk, Anhörung BauR vom 02.05.2013
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ Balanstraße, km 2,117, Bahnstrecke 5552 München Ost Frankenwaldstraße - Kreuzstraße, Schreiben des PlanR vom 17.04.2013
+- TOP 0.3.: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012, Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien, Sitzungsvorlagen Nr. 08-14 / V 11217, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2012 - 31.12.2012, Sitzungsvorlagen Nr. 08-14 / V 11535, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013
+- TOP 0.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.8.: Giesinger Bahnhofplatz, Baugenehmigung gem. Art. 59 und Art. 68 BayBO einer Stadtinformationssäule (Kultursäule), Bescheid vom 27.02.2013
+- TOP 0.9.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/23, Bahnlinie München Ost - Deisenhofen (östlich), Ständlerstraße (südlich) und Lauensteinstraße (nördlich), endgültiger Beschluss, Stadtbezirk 16 Ramersdorf-Perlach, Sitzungsvorlagen Nr. 08-14 / V 11854, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Stadtteilcheck "Auf Herz und Rampen prüfen" am 16.05.2013, Rückmeldung zur Teilnahme am Projekt Stadtteilcheck, E-Mail des Kreisjugendring München-Stadt vom 19.04.2013
+- TOP 0.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sommerfest der Little Giants KiTa Giesing am 14.06.2013; Zuleitung des KVR vom 03.05.2013 mit der Bitte um Stellungnahme
+- TOP 0.1.: Schreiben des Asam-Gymnasiums vom 12.04.2013 zum aktuellen Sachstand "Erweiterungsbau"
+- TOP 0.2.: Errichtung eines Hauses für Kinder mit zwei Krippen-, drei Kindergarten- und einer Hortgruppe an der Perlacher Straße (ehem. Agfa-Gelände), 17. Stadtbezirk Obergiesing-Fasangarten - Produkt Nr. 1.1 - Genehmigung des Nutzerbedarfsprogrammes, Sitzungsvorlage Nr. 08-14 / V 11430, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 10.04.2013
+- TOP 0.3.: Kindertagesstätten gemeinnütziger Träger; Haus für Kinder an der Weißenseestraße 35 im 17. Stadtbezirk Obergiesing-Fasangarten; Leistung eines Baukostenzuschusses, Sitzungsvorlage Nr. 08-14 / V 11595, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 10.04.2013
+- TOP 0.4.: Errichtung eines Hauses für Kinder mit drei Kindergarten- und zwei Hortgruppen an der Werner-Schlierf-Straße (ehem. AGFA-Gelände), 17. Stadtbezirk Obergiesing-Fasangarten - Produkt Nr. 1.1 - Genehmigung des Nutzerbedarfsprogrammes, Sitzungsvorlage Nr. 08-14 / V 11426, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 10.04.2013
+- TOP 0.5.: Antrag auf Aufstellung eines Containers auf dem Gelände der Grundschule an der Weißenseestraße; Antwortschreiben des RBS vom 27.03.2013
+- TOP 0.6.: Sachbericht zum Bescheid vom 16.01.2013/Zuwendung zur Eröffnungsfeier am 07.02.2013, Schreiben der AWO München vom 23.04.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Leistungsprogramm 2014 der MVG (Fahrplanwechsel Dezember 2013), Zuleitung der MVG vom 02.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen, Zuleitung des PlanR vom 17.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.3.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen, Sitzungsvorlagen Nr. 08-14 / V 10157, Zuleitung des PlanR vom 11.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.1.: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit, Sitzungsvorlage Nr. 08-14 / V 11817, Beschluss des Kreisverwaltungsausschusses vom 30.04.2013
+- TOP 0.2.: Zebrastreifen vor der Lincolnschule, Antwortschreiben des KVR vom 03.04.2013
+- TOP 0.3.: Bürgeranliegen: Nachfrage zur Buslinie 145, Antwort des RGU vom 09.04.2013
+- TOP 0.4.: Bebauung Paulanergelände, Verkehrsanbindung und S-Bahn-Südring, Antrag des BA 18 zur Kenntnisnahme
+- TOP 0.5.: Beschilderung am Hermelinweg; Bürgeranliegen von Frau B. vom 11.01.2013, Antwortschreiben des KVR vom 22.04.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Winlandstr. 19, Bescheid vom 27.03.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Gottesdienst zu den heiligen Engeln am 02.06.2013 im Weißenseepark; Zuleitung des KVR vom 23.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Ernährungsworkshop für Kinder "buntKochtgut" der Münchner Aktionswerkstatt vom 21.05. - 24.05.2013; Zuleitung des KVR vom 24.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.3.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Giesinger Kirchplatzfest vom 12.-14.07.2013; Zuleitung des KVR vom 26.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.4.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sommer im Park - Bürgerfest am 12.07.2013; Zuleitung des KVR vom 06.05.2013 mit der Bitte um Stellungnahme
+- TOP 0.5.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Gottesdienst im Grünen am 16.06.2013, Zuleitung des KVR vom 14.05.2013 mit der Bitte um Stellungnahme
+- TOP 0.6.: Verkehrssicherheit der Kapelle im ehemaligen Altenheim in der St.-Martin-Str./Severinstr. wiederherstellen für den Tag des offenen Denkmals, Antwortschreiben des Kommunalreferat vom 25.04.2013 mit der Bitte um Stellungnahme
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Eslarner Str. 22, 1 Fichte, Antrag vom 29.03.2013, 2. Kapellenfeldstr. 9, 1 Ahorn, 1 Birke, Antrag vom 10.04.2013 3. Bantingstr. 7, 1 Robinie, 1 Birke, Antrag vom 19.03.2013 4. Balanstr. 386, 1 Waldkiefer, Antrag vom 24.04.2013
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Vielfältige Maßnahmen der Bürgerbeteiligung, Änderungsantrag des Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- und Personalauschusses, des Planungausschusses und des Finanzausschusses vom 21.11.2012, Anhörung des Direktorium vom 15.04.2013
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Vereinbarung von Ortsterminen mit Mitgliedern der Bezirksausschüsse, Zuleitung des Direktorium vom 25.03.2013
+- TOP 7.2.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen, Antrag des Bezirksausschusses 5 - Au-Haidhausen vom 12.12.2012, Antwortschreiben des Direktorium vom 22.03.2013
+- TOP 7.3.: OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert. OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 4, Stadtplanung fit für das 21. Jahrhundert , Antrag Nr. 08-14 / A 03598 der FW vom 13.08.2012, Sitzungsvorlagen Nr. 08-14 / V 11820, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Elterninitiativ-Kindergarten Larifari e.V. Tag der offenen Tür am 03.05.2013 - <div>nach Antrag</div>
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
