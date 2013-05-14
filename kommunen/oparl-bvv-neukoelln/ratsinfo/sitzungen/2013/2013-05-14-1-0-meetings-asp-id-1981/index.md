@@ -1,0 +1,52 @@
+# 18. (außerordentliche) öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-05-14T17:00:00+02:00
+- Ende: 2013-05-14T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1981
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1981
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlage zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - beantwortet
+- TOP 3: Antrag - (offen)
+- TOP 3.1: Amtszeitverlängerung nach § 3a Bezirksamtsmitgliedergesetz beim Bezirksstadtrat für Soziales - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Dringlichkeiten - erledigt
+- TOP 5: Geschäftliches - erledigt
+- TOP 6: Der Bürgermeister hat das Wort - erledigt
+- TOP 7: Entschließungen - erledigt
+- TOP 8: Vorlagen zur Wahl - erledigt
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 10.1: Benennung eines Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Mündliche Anfragen - erledigt
+- TOP 12: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 12.1: Bebauung Tempelhofer Feld - beantwortet
+- TOP 12.2: Nebentätigkeiten von Bezirksamtsmitgliedern - beantwortet
+- TOP 12.3: Neukölln aktiv gegen Lärm? - schriftlich beantwortet
+- TOP 12.4: Werben für den Kriegseinsatz - beantwortet
+- TOP 12.5: Bebauung Tempelhofer Feld - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Leerstand im Seniorenwohnhaus Harz - beantwortet
+- TOP 12.7: Vorfälle mit rechtsextremistischem Hintergrund in Neukölln 2012 - beantwortet
+- TOP 12.8: Schlüsse aus dem Gesundheitsbericht - beantwortet
+- TOP 12.9: Keine Bebauung des Tempelhofer Feldes (THF) - beantwortet
+- TOP 12.10: Mietwohnungen vor Ferienwohnungen - vertagt
+- TOP 12.11: Qualitätsverbesserung des Schulessens - vertagt
+- TOP 12.12: Falschinformation zur Finanzierung der Jugendarbeit - vertagt
+- TOP 12.13: Schulentwicklungsplan - vertagt
+- TOP 12.14: Zwangsräumung in Neukölln - vertagt
+- TOP 12.15: Soziale Verantwortung oder Zwangsräumungen? - vertagt
+- TOP 12.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.17: Radweg in der Hannemannstraße - vertagt
+- TOP 13: Beschlussempfehlungen - erledigt
+- TOP 14: Große Anfragen - erledigt
+- TOP 15: Große Anfragen - schriftlich - erledigt
+- TOP 16: Anträge - erledigt
+- TOP 17: Mitteilungen - erledigt
+- TOP 18: Vorlagen zur Kenntnisnahme - erledigt
