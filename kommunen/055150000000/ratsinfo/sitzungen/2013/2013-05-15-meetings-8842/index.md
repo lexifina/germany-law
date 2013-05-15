@@ -1,0 +1,65 @@
+# 29. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-05-15T18:00:00+02:00
+- Ende: 2013-05-15T20:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8842
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8842
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00339241.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 11: Feststellung des Jahresabschlusses 2011 der Stadt Münster
+- TOP 12: Dezernatsgliederung - mehrheitlich beschlossen
+- TOP 13: Wahl von Beisitzerinnen und Beisitzern in den beim Amtsgericht zu bildenden Schöffenwahlausschuss - einstimmig geändert beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2013 - mehrheitlich beschlossen
+- TOP 15: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2013 - einstimmig beschlossen
+- TOP 16: Winterdienst auf Nebenstraßen - mehrheitlich beschlossen
+- TOP 17: Dichtheitsprüfung von privaten Grundstücksentwässerungsanlagen - einstimmig beschlossen
+- TOP 18: Anregung des Integrationsrates Nr. AIR/0001/2013 "Fortführung von mobim" - einstimmig geändert beschlossen
+- TOP 19: Umsetzung der Inklusion, hier: Entwicklung der Förderschulen in Münster - zur Kenntnis genommen
+- TOP 20: Münster auf dem Weg zu einer inklusiven Bildungslandschaft, hier: Statusbericht Herbst 2012 - zur Kenntnis genommen
+- TOP 21: Schülerfahrkosten hier: Anpassung der goCard-Eigenbeteiligung ab dem 01.08.2013 - einstimmig beschlossen
+- TOP 22: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 6. Finanzformel für die Spielzeiten 2014/2015 bis 2018/2019 - Vorlage eingebracht
+- TOP 23: Zwischenbericht zur Umsetzung des "Maßnahmenprogramms einer kindbezogenen Armutsprävention in Münster". - einstimmig beschlossen
+- TOP 24: Trägerausschreibung für die Kindertageseinrichtungen Wiedeiken (Amelsbüren), Stratmannweg ( Mecklenbeck) und Kinderbachtal (Kinderhaus) - mehrheitlich beschlossen
+- TOP 24.1: Trägerausschreibung für die Kindertageseinrichtungen Wiedeiken (Amelsbüren), Stratmannweg ( Mecklenbeck) und Kinderbachtal (Kinderhaus)
+- TOP 25: Betriebsträgerschaft für die Kindertageseinrichtung in der ehemaligen Josefschule und Einrichtung von zusätzlichen Personalstellen in städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 26: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städtischen Gebäude Friedrich-Ebert-Straße 1 - einstimmig beschlossen
+- TOP 27: Unterbringungskonzept für Flüchtlinge in Münster - Standort Nienberge - einstimmig geändert beschlossen
+- TOP 28: Integrationsmonitoring 2012 - einstimmig beschlossen
+- TOP 28.1: Integrationsmonitoring 2012
+- TOP 29: Umweltdaten Münster 2010/11 - einstimmig beschlossen
+- TOP 30: Beirat für Klimaschutz - Berufung eines neuen Mitgliedes - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Mitte
+- TOP 31.1.1: Veränderungssperre Nr. 105 für den Bereich des Bebauungsplans Nr. 539 - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk Münster-Hiltrup
+- TOP 31.2.1: Bebauungsplan Nr. 542 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Bestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 35: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 35.1: Stätte der Erinnerung - Ein Erinnerungswald in Münster - verwiesen
+- TOP 35.2: Optimierung bürgerorientierter Dienstleistungen im Stadthaus 1 - mehr Service auch für ausländische Einwohner und Einwohnerinnen - verwiesen
+- TOP 35.3: Ein Fest für die ganze Stadt - verwiesen
+- TOP 35.4: Gievenbecker Reihe: Konsequenzen ziehen - verwiesen
+- TOP 35.5: Münster auf dem Weg zu einer inklusiven Bildungslandschaft - verwiesen
+- TOP 35.6: Wohnen muss bezahlbar sein - Strategische Steuerung über Grundstücksvergabe und Bauleitplanung - verwiesen
+- TOP 35.7: Aussichten und Ansichten - Gievenbecks Entwicklung neu strukturieren - verwiesen
+- TOP 36: Verschiedenes
