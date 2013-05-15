@@ -1,0 +1,102 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2013-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840845
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840845
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Pferdemist auf Straßen und Gehwegen in Lochhausen (vertagt aus 04/13 in UA Planung)
+- TOP 2.2.: Müllverschmutzung Goteboldstraße
+- TOP 2.3.: Straßenabtretung in der Osterangerstraße
+- TOP 2.4.: Begrenztes Haltverbot in der Zwernitzerstr./Thuisbrunner Str. (vertagt aus 04/13)
+- TOP 2.5.: Aufstellung eines Papierkorbs in der Colmdorfstraße
+- TOP 2.6.: Bauleitplanung im 22. Stadtbezirk
+- TOP 2.7.: Vorgartennutzung Wiesentfelser Str. 1 / Limesstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Ziegeleistr. 9 - Kravogelstr. 33 - Sigererstr. 17 - Wiesentfelser Str. 68 - Streitbergstr. 16b - Kurt-Floericke-Str. 9 - Aubing-Ost-Str. 87
+- TOP 3.2.: Fällungsgenehmigung / Bescheid: - Federseestr. 26 - Neideckstr. 71 - Riesenburgstr. 8-22a
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Mieterbeirat
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Radweg an der Eichenauer Straße - Stand der Dinge?
+- TOP 4.2.: Bordstein am Haupteingang des Aubinger Friedhofs absenken
+- TOP 4.3.: Zwischenbericht zur Raumsituation der Grundschule am Ravensburger Ring
+- TOP 5: Entscheidungen
+- TOP 1: Schaffung eines Wertstoffhofes in Freiham (Ziffer 4 des Antrages) Empfehlung Nr. 08-14 / E 01404 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 26.06.2012
+- TOP 1.2.: Budget der Bezirksausschüsse: Initiative ?Kinderspielbereich? Anlegen eines Kinderspielbereichs für Kleinkinder im Garten Aubing-Ost-Str.
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.2.: - Realschule für den 22. Stadtbezirk in Freiham; - Sofortige Planung und Umsetzung eines Schulneubaus in Freiham mit allen räumlichen Voraussetzungen zur Unterbringung sämtlicher Schularten im Ganztagsbetrieb nach den Grundsätzen pädag. Schulhausneubau (BVE Nr. 409/22.) - Planung weiterführender Schulen in Freiham und umgehender Baubeginn (BVE Nr. 603/22.) - Raumnot in der Hauptschule an der Wiesentfelser STraße (BVE Nr. 604/22.) - Modernes Bildungszentrum für Freiham; Planungsstand Hauptschule Freiham (BA-Antrag Nr. 2708/22.) - Wie geht es mit der GS und HS an der Wiesentfelser Str. 53 weiter? - Errichtung Schulzentrum Freiham (BVE Nr. 998/22.) - Rechtzeitiger Baubeginn für Campus Freiham (BA-Antrag Nr. 3582/22.) - Wann kommen Kinderbetreuungseinrichtungen (Kindergarten und Kinderkrippe) nach Freiham Süd? (BA-Antrag Nr. 3773/22.); Anhörung Referat für Bildung und Sport vom 09.04.13 (vertagt aus 04/13)
+- TOP 6.3.: Fragebogen der Stellen für Gemeinwesenmediation, Anhörung Sozialreferat vom 14.02.13 / 26.04.13
+- TOP 6.1.: Raumsituation an der Grundschule am Ravensburger Ring 37, Schr. RBS vom 02.04.13
+- TOP 6.2.: Neue Bädeeintrittsrpreise, Schr. SWM vom 09.04.13
+- TOP 6.3.: Aushang des Flyer des Mieterbeirats in den BA-Schaukästen, Schr. Mieterbeirat vom 23.04.13
+- TOP 6.4.: Veranstaltungsanzeige: 3. Aubinger Rocknacht, Schr. KVR vom 22.04.13
+- TOP 6.5.: Drehgenehmigung: Altostraße Ecke Ubostraße am 03.05.13, Schr. KVR vom 24.04.13
+- TOP 6.6.: Schulsozialarbeit an der Grundschule Ravensburger Ring, Schr. Sozialreferat vom 25.04.13
+- TOP 6.7.: Veranstaltungen/Kooperationen im Mai 2013, Schr. Kulturreferat vom 02.05.13
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Verwendung der BA-Budgetmittel für eigene Veranstaltung - Tag der Familie am 03.05.13, Schr. Direktorium vom 04.04.13
+- TOP 6.2.: Unterstützung von kostenfreien Plätzen im Johanniter Lilalu-Ferienprogramm 2013, Schr. Die Johanniter vom 15.04.13
+- TOP 6.3.: Zuwendungsbewilligung für BA-Budgetmittel, Johanniter-Unfall-Hilfe e.V., Schr. Direktorium vom 08.04.13
+- TOP 6.4.: Zuwendungsbescheid für Budgetmittel des BA 22: - Siedlergemeinschaft Aubing-Ost e.V., Schr. Direktorium vom 24.04.13 - "Archiv St. Quirin", Schr. Direktorium vom 24.04.13
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Bau einer Erschließungsstraße zwischen Centa-Hafenbrädl-Straße und Freihamer Allee, Schr. Baureferat vom 16.04.13
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.2.: Vorbehaltsnetz für städt. Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen, Anhörung Planungsreferat vom 11.04.13 (vertagt aus 04/13)
+- TOP 6.3.: Unterhaltsarbeiten auf dem Gehweg Altostr. 97 gegenüber bis Grabenfleckstraße, Anhörung Baureferat vom 22.04.13
+- TOP 6.4.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen, Anhörung Planungsreferat vom 17.04.13
+- TOP 6.5.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2075: Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich), Hanfgartenstraße (beiderseits), Berglwiesenstraße (östlich), Bundesautobahn A 99 (östlich) - Brauerei Langwied -, Anhörung Planungsreferat vom 16.04.13
+- TOP 6.6.: Germeringer Weg, Neubau eines Toilettenhäuschens mit Lagerräumen, Anhörung Planungsreferat vom 24.04.13
+- TOP 6.7.: Kühlenfelser Str. 2 - 22, Umbau und Modernisierung einer Wohnanlage; Anbau gartenseitiger Erweiterungen, Ausbau der zweiten Dachgeschossebene, Anhörung Planungsreferat vom 25.04.13
+- TOP 6.8.: Reichenbergstr. 2 - 18, Umbau und Modernisierung einer Wohnanlage; Anbau gartenseitiger Erweiterungen; Ausbau der zweiten Dachgeschossebene, Anhörung Planungsreferat vom 25.04.13
+- TOP 6.9.: Heckenhoferstr. 2 - 14, Umbau und Modernisierung einer Wohnanlage; Anbau gartenseitiger Erweiterungen; Ausbau der zweiten Dachgeschossebene, Anhörung Planungsreferat vom 25.04.13
+- TOP 6.10.: Straßensanierung Federseestr. 9 - 15 und Seite Ziegeleistr., Anhörung Baureferat vom 22.04.13
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 01.04.-07.04.13, 08.04.-14.04.13, 15.04.-21.04.13, 22.04.-28.04.13), Schr. Planungsreferat vom 08.04.13, 16.04.13, 22.04.13, 29.04.13
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 08.04.13, 15.04.13, 22.04.13, 29.04.13
+- TOP 6.3.: Konzept Bodenseestraße - Autohandel, Schr. Planungsreferat vom 08.04.13
+- TOP 6.4.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Mundesgasse 4 - verkehrsrechtliche Anordnung, Schr. KVR vom 25.03.13
+- TOP 6.5.: Informationsflyer "Baumaßnahmen der SWM": - 1. Halbjahr 2013 für den BA, Schr. SWM vom 10.04.13 - Stromprojekt Noderstraße / Änderung im Terminablauf, Schr. SWM vom 10.04.13
+- TOP 6.6.: Werkhallenabriss Papinstr. 61, Schr. Planungsreferat vom 16.04.13
+- TOP 6.7.: Entfernung der alten Christbäume auf der Wiese Dinkelsbühler-/Aubinger Straße, Schr. Baureferat vom 17.04.13
+- TOP 6.8.: Lärmschutzmaßnahmen für die Hellensteinstraße bis zur Kastelburgstraße, Schr. RAW vom 19.04.13
+- TOP 6.9.: Zwischenfall am Wertstoffhof Lochhausener Straße, Schr. AWM vom 19.04.13
+- TOP 6.10.: Baumaßnahme zur Erschließung des Wertstoffhofs AWM in der Mühlangerstraße, Schr. Baureferat vom 19.04.13
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Vielfältige Maßnahmen der Bürgerbeteiligung - Änderungsantrag der Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- und Personalausschusses, des Planungsausschusses und des Finanzausschusses vom 21.11.12, Anhörung Direktorium vom 15.04.13
+- TOP 7.2.: Veranstaltung auf öffentlichen Verkehrsgrund: Nachbarschaftsfest Hufschmiedstraße am 25.05.13, Anhörung KVR vom 03.05.13
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europe Direct Information 02/2013, Schr. Referat für Arbeit und Wirtschaft vom 11.04.13
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Limesstraße, Schr. Sozialreferat vom 22.04.13
+- TOP 8.3.: Wirtschafts-Info 04/2013, Schr. Referat für Arbeit und Wirtschaft vom 30.04.13
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.03.13: Gestaltung öffentlicher Flächen südlich des S-Bahnhaltepunktes München - Freiham
+- TOP 10.2.: Beschluss im Ausschuss für Stadtplanung und Bauordnung vom 17.04.13: - Impulse für mehr Wohnungsbau in München: Wohnungspotentiale durch Dachgeschossausbau heben! - Beschlussvollzugskontrolle - Erhaltungssatzungen - Perspektive München - Fortschreibung 2012
+- TOP 10.3.: Beschluss des Kreisverwaltungsausschusses vom 30.04.13: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit
+- TOP 10.4.: Beschluss des Bauausschusses vom 16.04.13: Bürgerbeteiligung bei Platzgestaltungen, Gestaltungsmaßnahmen im öffentlichen Raum (geänderter Beschluss!)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13: - Bebauungsplan mit Grünordnung Nr. 2034: Lochhausener Straße (südlich), Mettnauer Straße (westlich), Rossittner Straße und Spatzenwinkel (nördlich), Pirolstraße (östlich) - Billigungsbeschluss - - OB-Kandidat Reiters " Wunschliste": Stadtplanung für für das 21. Jahrhundert - Boden- und Bauschuttrecycling und Bodenbörsen, Potenzielle Standorte in München
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Schaukasten in der Colmdorfstraße
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 19.06.13 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.1.: Beteiligung der Träger öffentlicher Belange gem. § 139 BauGB bei der Vorbereitung und Durchführung der Sanierung in Neuaubing / Westkreuz, Anhörung Planungsreferat vom 25.03.13 (vertagt aus 04/13)
