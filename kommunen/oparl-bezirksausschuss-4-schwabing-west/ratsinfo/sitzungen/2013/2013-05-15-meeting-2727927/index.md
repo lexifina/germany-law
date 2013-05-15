@@ -1,0 +1,53 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2727927
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2727927
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Themenwünsche für das jährliche Treffen im Referat für Bildung und Sport (12.06.2013)
+- TOP .1.: Vorstand: Einladung an die Bezirksinspektion, u.a. wg. Vorfall am 03.05.2013 in der Hiltenspergerstraße
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 54 ?Lanai Home & Lifestyle?: Warenstellage
+- TOP .2.: Herzogstr. 105 ?Bäckerei Müller Brot?: Genehmigung einer Freischankfläche
+- TOP .3.: Agnesstr. 6: Lebensmittelladen: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Veranstaltungen am Ackermannbogen: 1. Quartiersflohmarkt am 15.06.2013 2. Nachbarschaftspicknick ?Lange Tafel? am 27.07.2013
+- TOP .2.: Kulturwochenende: Schreiben an die Mitwirkenden
+- TOP .2.1.: Planen
+- TOP .1.: Bahnanlagen im Bereich ?Olympiagleis? als Denkmal erhalten Anhörung zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP .2.: Infanteriestr. 11a: Nutzungsänderung einer Freischankfläche zugunsten einer bestehenden Cafeteria in Pavillon III
+- TOP .3.: Schwere-Reiter-Straße: Neubau zweier Gebäude mit Boardinghausnutzung, 53 Wohnungen, 3 Townhouses und Einzelhandelsflächen im EG mit gemeinsam genutzter Tiefgarage
+- TOP .4.: Franz-Joseph-Str. 41: Anbau eines Balkons (EG-Südfassade)
+- TOP .5.: Vielfältige Maßnahmen der Bürgerbeteiligung: Anregungen und Erfahrungen der Bezirksausschüsse?
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Vorfahrtregelung an der Ackermann-/Elisabeth-Kohn-Straße
+- TOP .2.: Bürger: Haltverbote für Baustelle Adelheidstr. 17
+- TOP .3.: Bürgerin: Maßnahmen gegen das Füttern von Vögeln
+- TOP .4.: Bürgerin: Parken in der Degenfeldstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Hornstr. 5-11: Fällung eines Feldahorn
+- TOP .2.2.: Verkehr
+- TOP .1.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München ? Kriterien zum Ausbau von Eisenbahn- und Straßenunterführungen Anhörung zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP .2.: Radwege in der Schleißheimer Straße: Bericht zur Ausführungsplanung
+- TOP .1.: Fragebogen der Stelle für Gemeinwesenmediation zu Konflikten im öffentlichen Raum
+- TOP .1.: Skateanlage an der Trambahnwendeschleife Schwere-Reiter-Straße: Ergebnis des Ortstermins am 08.05.2013
+- TOP .1.: Bedarfsanmeldung für den Neubau Belgradstr. 75-81
+- TOP .2.: Karl-Theodor-Straße zwischen Schleißheimer Straße und Belgradstraße: Verlegung des Radwegs auf der Südseite auf die Straße
+- TOP .3.: Wiederaufnahme des ehemaligen Klostergeländes an der Schleißheimer Str. 258 in den Geltungsbereich der Baumschutzverordnung
+- TOP .4.: Zusätzliche Fahrradabstellmöglichkeiten im Umkreis des Gisela-Gymnasiums
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
