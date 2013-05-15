@@ -1,0 +1,73 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-05-15T17:00:00+02:00
+- Ende: 2013-05-15T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2573
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2573
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Autobahnraststätte Dreilinden - beantwortet
+- TOP 3.2: Sperrung der Küche im Sonnenhaus - beantwortet
+- TOP 3.3: Stand der Sanierungsarbeiten Kita 12 Knirpse - beantwortet
+- TOP 3.4: Lüftungs- und Brandschutzanlagen der Rothenburg-Schule - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.1.1: Berufung eines beratenden Mitgliedes als Vertretung des Bezirkselternausschusses der Kindertagesstätten in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Männergesangsverein Zehlendorf 1873 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für Square Up's Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Sondermittel der BVV für die Förderfreunde der Gail-S.-Halvorsen-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: S-Bahnhof Zehlendorf - Kein Ausgang zum Teltower Damm! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: S-Bahnhof Zehlendorf - Zweiter Ausgang - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Gelbe Säcke - in der BVV abgelehnt
+- TOP 4.4.2: Tempo 50 auf der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Gewerbe in Zehlendorf stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: "Kurze Beine - kurze Wege" auch für Lichterfelde! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Teilnahme unserer Grundschulen an der Aktion "Zu Fuß zur Schule" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Parken Langkofelweg in Berlin-Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Akustisch unterstützte Fußgängerampel am Hertha-Müller-Haus errichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Verkehrssicherheit an der Kreuzung Clayallee/Schützallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Beschulung schulpflichtiger Patienten sicherstellen - überwiesen
+- TOP 5.1.2: Regelmäßiger Bericht aus der Arbeitsgruppe zur Zukunft der Museen Dahlem - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Nutzung Steglitzer Kreisel im Bezirksinteresse - überwiesen
+- TOP 5.2.2: Ampelanlage im Kreuzungsbereich Nord-Grundschule - überwiesen
+- TOP 5.2.3: Seniorenwohnungen in der Mudrastraße - überwiesen
+- TOP 5.2.4: Bezirkliche Straßenbenennungsliste aktualisieren - überwiesen
+- TOP 5.2.5: Gewerbebetriebe in Lichterfelde-Süd schützen - überwiesen
+- TOP 5.2.6: Bürgerwillen umsetzen - Chaos beenden! - überwiesen
+- TOP 5.2.7: Fahrradabstellanlagen Bushaltestelle 101 Sachtleben/Nieritzweg - überwiesen
+- TOP 5.2.8: Gestaltung des Eugen-Gerstenmaier-Platzes verbessern - überwiesen
+- TOP 5.2.9: Seniorenwohnungen - überwiesen
+- TOP 5.2.10: Geschwindigkeitsbegrenzung im Bereich eines Kindergartens - überwiesen
+- TOP 5.2.11: Herrichtung der Gehwege Parkviertel Dahlem - überwiesen
+- TOP 5.2.12: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - überwiesen
+- TOP 5.2.13: Hochbaumstraße als Fahrradstraße - überwiesen
+- TOP 5.2.14: Stadtbildpflege Nikolassee - überwiesen
+- TOP 5.2.15: Zustand sanitärer Anlagen an Steglitz-Zehlendorfer Schulen - überwiesen
+- TOP 5.2.16: Information zu Produktionsbedingungen von Kleidung - überwiesen
+- TOP 5.2.17: UNESCO-Welterbelogo - überwiesen
+- TOP 5.2.18: Wannsee-Reaktor - Informationsbroschüre bei Anmeldung aushändigen - überwiesen
+- TOP 5.2.19: Keine neuen Wettbüros auf der Albrechtstraße und am Steglitzer Damm - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Immer noch kein Neubau am Arndt-Gymnasium - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Zuständigkeit des SE Facility Managements auch für die Schulgebäude - überwiesen
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Mängel der Schule am Buschgraben - beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Namensstreit Treitschkestraße lösen - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
