@@ -1,0 +1,58 @@
+# 28. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-05-15T17:06:00+02:00
+- Ende: 2013-05-15T20:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8840
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8840
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00339239.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Einrichtung einer Arbeitsgruppe zur Begleitung der KiTa-Neubauten
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 3: Weitere Behandlung verwiesener Ratsanträge und Anregungen politischer Gremien an den Rat
+- TOP 3.1: Antrag der CDU-Ratsfraktion Nr. A-R/0005/2013 "Regionale Kompetenzen bündeln" - einstimmig geändert beschlossen
+- TOP 3.2: Anregung des Integrationsrates an den Rat Nr. AIR/4/2013 vom 07.03.2013, die gleichberechtigte Teilhabe an der Nutzung der öffentlichen Örtlichkeiten zu bewirken - einstimmig beschlossen
+- TOP 3.3: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen/GAL und der FDP-Fraktion an den Rat-Großveranstaltungen besaten Allwetterzoo und Naturkundemuseum zunehmend- Verbindliche Beteiligung an der Planung nötig - einstimmig geändert beschlossen
+- TOP 3.4: Antrag der CDU-Fraktion an den Rat A-R/0015/2013 "Wohnen muss bezahlbar bleiben" - mehrheitlich beschlossen
+- TOP 3.5: Antrag der SPD-Fraktion an den Rat A-R/0013/2013 "Eine zweite kommunale Gesamtschule prüfen - Elternwillen ernst nehmen" - einstimmig beschlossen
+- TOP 3.6: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0012/2013 "Eine Internationalisierung der Schullandschaft in Münster - für alle, unabhängig vom Geldbeutel" - einstimmig beschlossen
+- TOP 3.7: AIR/0003/2013 Anregung des Integrationsrates, in Münster einen - Runden Tisch humanitäres Bleiberecht - einzurichten - einstimmig beschlossen
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2013) - einstimmig beschlossen
+- TOP 5: Beantragung und Bewilligung von Zuschussmaßnahmen - einstimmig geändert beschlossen
+- TOP 6: Bauliche Veränderungen im Gesundheitshaus, Modernisierung des Veranstaltungsbereichs und Installation eines Sonnenschutzes - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Feststellung des Jahresabschlusses 2011 der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 8: Dezernatsgliederung - ohne Beschlussfassung geschoben
+- TOP 9: Wahl von Beisitzerinnen und Beisitzern in den beim Amtsgericht zu bildenden Schöffenwahlausschuss - ohne Beschlussfassung geschoben
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2013 - ohne Beschlussfassung geschoben
+- TOP 11: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2013 - einstimmig beschlossen
+- TOP 12: Winterdienst auf Nebenstraßen - einstimmig beschlossen
+- TOP 13: Dichtheitsprüfung von privaten Grundstücksentwässerungsanlagen - einstimmig beschlossen
+- TOP 14: Umsetzung der Inklusion, hier: Entwicklung der Förderschulen in Münster - zur Kenntnis genommen
+- TOP 15: Münster auf dem Weg zu einer inklusiven Bildungslandschaft, hier: Statusbericht Herbst 2012 - zur Kenntnis genommen
+- TOP 16: Schülerfahrkosten hier: Anpassung der goCard-Eigenbeteiligung ab dem 01.08.2013 - einstimmig beschlossen
+- TOP 17: Zwischenbericht zur Umsetzung des "Maßnahmenprogramms einer kindbezogenen Armutsprävention in Münster". - einstimmig beschlossen
+- TOP 18: Trägerausschreibung für die Kindertageseinrichtungen Wiedeiken (Amelsbüren), Stratmannweg ( Mecklenbeck) und Kinderbachtal (Kinderhaus) - einstimmig beschlossen
+- TOP 18.1: Trägerausschreibung für die Kindertageseinrichtungen Wiedeiken (Amelsbüren), Stratmannweg ( Mecklenbeck) und Kinderbachtal (Kinderhaus)
+- TOP 19: Betriebsträgerschaft für die Kindertageseinrichtung in der ehemaligen Josefschule und Einrichtung von zusätzlichen Personalstellen in städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 20: Hilfevermittlung und Kurzzeitübernachtung - HuK - für wohnungslose Männer im städtischen Gebäude Friedrich-Ebert-Straße 1 - einstimmig beschlossen
+- TOP 21: Unterbringungskonzept für Flüchtlinge in Münster - Standort Nienberge - einstimmig geändert beschlossen
+- TOP 22: Integrationsmonitoring 2012 - einstimmig beschlossen
+- TOP 22.1: Integrationsmonitoring 2012
+- TOP 23: Umweltdaten Münster 2010/11 - einstimmig beschlossen
+- TOP 24: Beirat für Klimaschutz - Berufung eines neuen Mitgliedes - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Mitte
+- TOP 25.1.1: Veränderungssperre Nr. 105 für den Bereich des Bebauungsplans Nr. 539 - einstimmig beschlossen
+- TOP 25.2: Stadtbezirk Hiltrup
+- TOP 25.2.1: Bebauungsplan Nr. 542 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - einstimmig beschlossen
+- TOP 26: Bestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Verschiedenes
