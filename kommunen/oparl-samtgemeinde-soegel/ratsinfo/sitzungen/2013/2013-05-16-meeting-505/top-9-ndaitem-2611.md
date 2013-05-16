@@ -1,0 +1,6 @@
+# TOP 9: Beratung und Beschlussfassung über die Behandlung von Spenden, Schenkungen und ähnlichen Zuwendungen gem. § 111 Abs. 7 NKomVG i.V.m. § 25 a GemHKVO
+
+- Sitzung: Samtgemeinderat der Samtgemeinde Sögel (2013-05-16)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2611
