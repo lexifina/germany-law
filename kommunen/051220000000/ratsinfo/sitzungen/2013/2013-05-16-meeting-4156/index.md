@@ -1,0 +1,78 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-05-16T17:00:00+02:00
+- Ende: 2013-05-16T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVRk1KtcVb_hxJMixxdWWc4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4156
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfSkKwtSVfdSTN4D15hk4Lqks0VKQqmaBzvydJeJqsEZ/Oeffentliche_Niederschrift_Rat_16.05.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die26. Sitzung des Rates am 21.02.2013
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Bildung des Wahlausschusses anlässlich der Kommunalwahl 2014
+- TOP 7: Bildung des Wahlausschusses anlässlich der Kommunalwahl 2014
+- TOP 8: Aufgabenkritisches Verfahren der BSG
+- TOP 9: Aufgabenkritisches Verfahren der BSG
+- TOP 10: Besetzung der Verbandsversammlung des Wupperverbandes
+- TOP 11: Besetzung der Verbandsversammlung des Wupperverbandes
+- TOP 12: Umsetzung des Gesetzes zur Stärkung des kommunalen Ehrenamtes und zur Änderung weiterer kommunalverfassungsrechtlicher Vorschriften in das Solinger Ortsrecht
+- TOP 13: Änderung der Satzung der Stadt-Sparkasse Solingen
+- TOP 14: Wahl von Vertrauenspersonen und Stellvertreterinnen/Stellvertretern als Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Solingen für die Amtsperiode vom 01.01.2014 bis 31.12.2018
+- TOP 15: Bestellung der Leitung des Revisionsdienstes
+- TOP 16: Nachtragssatzung zur Haushaltssatzung der Stadt Solingen für das Haushaltsjahr 2013
+- TOP 17: Zustimmung zu einer überplanmäßigen Auszahlung zur Finanzierung der Mehrkosten Umbau zur Mensa Gesamtschule Querstraße nebst Toilettensanierung
+- TOP 18: Zustimmung zu einer überplanmäßigen Auszahlung zur Finanzierung der Mehrkosten Umbau zur Mensa Gesamtschule Querstraße nebst Toilettensanierung
+- TOP 19: Nahverkehrsplan Solingen - Fortschreibung 2013
+- TOP 20: Nahverkehrsplan Solingen - Fortschreibung 2013
+- TOP 21: Beteiligungsbericht 2011 der Stadt Solingen
+- TOP 22: Weiterentwicklung der sonderpädagogischen Förderung
+- TOP 23: Weiterentwicklung der sonderpädagogischen Förderung
+- TOP 24: Weiterentwicklung der sonderpädagogischen Förderung
+- TOP 25: Erstellung eines Planes für die (schulische) Inklusion in Solingen
+- TOP 26: Walter-Bremer-Institut Neufassung der Entgeltordnung
+- TOP 27: Bildungs- und Teilhabepaket
+- TOP 28: Gründung der Zentrum für verfolgte Künste GmbH sowie der Solinger Kunst-Stiftung
+- TOP 29: Bergische Entwicklungsagentur GmbH
+- TOP 30: Stadtwerke Solingen Netz GmbH
+- TOP 31: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 32: Bauleitplanung Neutor/Breidbacher Tor
+- TOP 33: Wirtschaftlichkeitsüberprüfung der gemeinsamen integrierten Rettungsleitstelle der Städte Wuppertal und Solingen
+- TOP 34: Verschiedenes
+- TOP 35: Neuausrichtung der Stadtwerke Solingen / Veröffentlichung von Bürgerstellungnahmen
+- TOP 36: Betrieb der gemeinsamen integrierten Regionalleitstelle der Städte Solingen und Wuppertal
+- TOP 37: Transparenz bei Tätigkeiten von Mandatsträgern in städtischen Unternehmen
+- TOP 38: Partikelfiltersysteme in städtischen Fahrzeugen
+- TOP 39: Karnevalsempfang des Oberbürgermeisters
+- TOP 40: Anzahl der Ratssitzungen
+- TOP 41: Entwicklung Bedarfsgemeinschaften im SGB II
+- TOP 42: VDSL / LTE Netzausbau in Solingen
+- TOP 43: U 3 Betreuung
+- TOP 44: Hubschrauberlandeplatz
+- TOP 45: Anmeldungen zu den Gesamtschulen
+- TOP 46: Empfehlungen der Grundschulen zum Besuch der Sekundarstufe
+- TOP 47: Livestreamübertragung von Ratssitzungen ins Internet
+- TOP 48: Über- und außerplanmäßige Aufwendungen und Auszahlungen 1. Quartal im Jahr 2013
+- TOP 49: Information zur Einbringung des Entwurfes Jahresabschluss 2012
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 26. Sitzung des Rates am 21.02.2013
+- TOP 3: Bildung einer Einigungsstelle gemäß § 67 des Landespersonalvertretungsgesetzes Nordrhein-Westfalen (LPVG NW) bei der Stadt Solingen
+- TOP 4: Wahl der Haupt- und Hilfsschöffinnen und -schöffen für die Amtszeit vom 01.01.2014 bis 31.12.2018
+- TOP 5: Wahl der Haupt- und Hilfsschöffinnen und -schöffen für die Amtszeit vom 01.01.2014 bis 31.12.2018
+- TOP 6: Vorberatung eines Gesellschafterbeschlusses der Altenzentren der Stadt Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 7: Beteiligung der Stadtwerke Solingen GmbH an der Trianel GmbH
+- TOP 8: Beteiligung der Stadtwerke Solingen GmbH am Biogaspool2 der Arcanum Energy Systems GmbH & Co. KG
+- TOP 9: Entscheidung über die Trägerschaft der Kita Nordstadt
+- TOP 10: Verschiedenes
+- TOP 11: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 12: Bestellung der Leitung des Revisionsdienstes
