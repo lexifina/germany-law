@@ -1,0 +1,7 @@
+# TOP 4.3: Verkauf des Wohnhauses "Am Wittstock 14"
+
+- Sitzung: Gemeinderat (23. Sitzung) (2013-05-16)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/14348
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
