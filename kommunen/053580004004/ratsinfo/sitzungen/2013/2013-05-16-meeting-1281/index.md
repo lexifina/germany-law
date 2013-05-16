@@ -1,0 +1,53 @@
+# Gemeinderat (23. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2013-05-16T18:05:00+02:00
+- Ende: 2013-05-16T22:15:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQcV5u58x0EQy5HeUfF-FSo
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1281
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQeETbbwQZVF_2h4VxwWkZpG82RaXKcjDk2SE-WYOoXl/Bekanntmachung_Gemeinderat_16.05.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbjzO6ODoqGmWFRQw5LpxXHb9jlUU2ehpYCAIXhwM8Fr/Oeffentliche_Niederschrift_Gemeinderat_16.05.2013.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.04.2013 -öffentlicher Teil-
+- TOP 3.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 3.1: Antrag des Aldenhovener Bündnisses gegen Rechts hier: Resolution gegen die Umtriebe rechtsradikaler Kräfte in Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Bebauungsplan 42 N - 1. Änderung - Am Aldenhovener Weg - a.) Abwägung gem. § 1 VII BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 II und 4 II BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Bebauungsplan 42 N - 2. Änderung - Am Aldenhovener Weg - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung der 2. Änderung des Bebauungsplans 42 N - Am Aldenhovener Weg - gem. § 11 BauGB b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a Abs. 2 Ziff. 1 BauGB i.V.m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Bebauungsplan 59 S - Heidgasse - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 59 S - Heidgasse - gem. § 11 BauGB b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a Abs. 2 Ziff. 1 BauGB i.V.m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - 21 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 4.4: 40. Änderung des Flächennutzungsplans - Windenergiekonzentrationszonen - a.) Beschluss über die Abwägung gem. § 1 VII BauGB der eingegangenen Stellungnahmen während der frühzeitigen Beteiligung und der Offenlage gem. §§ 3 I, II und 4 I, II BauGB b.) Feststellungsbeschluss - Einstimmig, 1 Enthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 5.1: Schulentwicklungsplanung Sekundarbereich I
+- TOP 5.2: Auflösung der KGS Marienschule Aldenhoven
+- TOP 6.: Wahl der Haupt- und Hilfsschöffen für die Geschäftsjahre 2014 - 2018 hier: Aufnahme von Bewerbern in die Vorschlagsliste. - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Beglaubigungen von Zeugniskopien durch die Ortsbürgermeister - Zur Kenntnis genommen
+- TOP 8.: Verwaltungsorganisation/Personalsituation - Zur Kenntnis genommen
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ausführung des Haushalts
+- TOP 10.: Finanzen, Haushalt
+- TOP 10.1: Aktualisierung des Sanierungsplans - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.04.2013 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 2.1: Raumkonzept Schulzentrum Schwanenstraße
+- TOP 3.: Berichte aus den Gremien
+- TOP 4.: Grundstücksangelegenheiten
+- TOP 4.1: Veräußerung eines gemeindeeigenen Grundstücks - 17 Ja-Stimme(n), 6 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.2: Beplanung und Vermarktung gemeindeeigener Liegenschaften - Vertagt
+- TOP 4.3: Verkauf des Wohnhauses "Am Wittstock 14" - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Vertragsangelegenheiten
+- TOP 5.1: Bauleitplanung Bebauungsplan 55 S - WK II - Gestattungsvertrag zum vorhabenbezogenen Bebauungsplan 55 S - WK II - - Einstimmig, 2 Enthaltung(en)
+- TOP 5.2: Bauleitplanung Bebauungsplan 56 N - WK III - Gestattungsvertrag zum vorhabenbezogenen Bebauungsplan 56 N - WK III - - Einstimmig, 2 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Stundung von Gewerbesteuer - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Verschiedenes
