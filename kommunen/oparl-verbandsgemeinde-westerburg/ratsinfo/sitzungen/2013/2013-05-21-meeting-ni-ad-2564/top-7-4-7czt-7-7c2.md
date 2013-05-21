@@ -1,0 +1,6 @@
+# TOP 7.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Werksausschusses der Verbandsgemeinde Westerburg (2013-05-21)
+- Körperschaft: Verbandsgemeinde Westerburg
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-2564%7Czt_7%7C2
