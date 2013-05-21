@@ -1,0 +1,110 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-05-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839524
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839524
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der März-Sitzung 1.3.2 Protokoll der April-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Fußgängerweg von der Hochleite zur Großhesseloher Brücke
+- TOP 2.2.: Lärmbelästigungen durch Jugendliche auf der Grünfläche Schönstraße / Ecke Nithartstraße; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Puppentheater von 25. bis 27.08.2013; Antragssumme: 3.300,00 ?; Beschlussvorlage des Direktoriums vom 08.04.13
+- TOP 3.2.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 20.07.2013; Antragssumme: 1.599,61 ?; Beschlussvorlage des Direktoriums vom 18.04.13
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Aktionsgruppe Untergiesing e.V., für die Maßnahme: Straßenfest auf dem Hans-Mielich-Platz am 22.06.13; Antragssumme: 1.635,00 ?; Antrag vom 01.05.2013
+- TOP 3.1.: Unterstützung von kostenfreien Plätzen im Johanniter Lilalu-Ferienprogramm 2013; Dankschreiben des Johanniter-Unfall-Hilfe e.V. vom 15.04.13
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: MVG-Leistungsprogramm 2014; Zuleitung der MVG mit der Bitte um Stellungnahme bis 17.05.13 (Fristverlängerung beantragt; vertagt aus der Sitzung vom 16.04.13)
+- TOP 3.2.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München; Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen; Sitzungsvorlage Nr. 08-14 / V 10157; Zuleitung des Referats für Stadtpl. u. Bauordnung vom 11.04.13 mit der Bitte um Stellungnahme zum Beschlussentwurf bis 23.05.13
+- TOP 3.3.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 11189; Zuleitung des Referats für Stadtpl. und Bauordnung vom 17.04.13 mit der Bitte um Stellungnahme zum Beschlussentwurf für den Ausschuss für Stadtpl. u. Bauordnung am 12.06.13 bis 24.05.13
+- TOP 3.1.: Ausweitung des Parkraummanagements über den Ring hinaus (südlich des Candidplatzes, Schönstraße bis zum Tierpark); BA-Antrag Nr. 08-14 / B 04532 vom 15.01.13; Einrichtung einer Parkzone für Anwohner rund um den Tierpark; BA-Antrag Nr. 08-14 / B 04533 vom 15.01.13; Antwortschreiben des Referats für Stadtpl. und Bauordnung vom 18.04.13 (neutrale Erledigung)
+- TOP 3.1.: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit; Sitzungsvorlage Nr. 08-14 / V 11817; Beschluss des Kreisverwaltungsausschusses vom 30.04.13 (SB)
+- TOP 3.2.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen u. im 18. Stadtbezirk Untergiesing - Harlaching; Projektkosten; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 11402; Beschluss des Bauausschusses vom 12.03.13 (SB)
+- TOP 3.3.: Umgestaltung des Parkplatzes am Candidplatz zum Park&Ride-Parkplatz; Empfehlung Nr. 08-14 / E 01563 der BÜV des Stadtbezirkes 18 - Untergiesing-Harlaching am 08.11.12; Sitzungsvorlagen Nr. 08-14 /V 11833; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.05.2013 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Sofortiger einstweiliger Baustopp am Isarberg - Marienklause und umfassende Aufklärung des BA 18; BA-Antrag Nr. 08-14 / B 04677 vom 19.03.13; Antwortschreiben des Baureferats vom 29.04.13 (neutrale Erledigung)
+- TOP 3.2.: Griechenplatz 13/Langobardenstraße 5 u. 8; Neubau von Mehrfamilienhäusern mit TG; hier: Baumfällungen; Anfrage des BA 18 vom 24.04.13; Antwortschreiben der UNB vom 02.05.13 (negative Erledigung)
+- TOP 3.1.: BayernNetz Natur-Projekt "NaturErholung Isartal südlich von München"; Sitzungsvorlagen Nr. 08-14 / V 11701; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.04.13 (VB)
+- TOP 3.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.2.1 Hauensteinstraße 14; Bescheid vom 09.04.13
+- TOP 3.3.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 11667; Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.2013
+- TOP 3.4.: Lärmminderungsplanung für München; Lärmaktionsplan; Sitzungsvorlage Nr. 08-14 / V 11894; Beschluss des Umweltschutzausschusses vom 07.05.13 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ganztag gemeinsam gestalten; Betreuung von Kindern / Jugendlichen an Freitagnachmittagen, nach Schulschluss u. während der Ferien; Antrag des BA 22 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 3.1.: Fragenkatalog des Amtes für Wohnen und Migration zu Konflikten im öffentlichen Raum mit der Bitte um Rückmeldung
+- TOP 3.3.5: UA Bau und Planung
+- TOP 1: (E) 1. Sanierung des Gehweges .... - <div>nach Antrag</div>
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Reinekestraße 13; Umbau eines Einfamilienhauses mit Erneuerung einer Balkonanlage; Anhörung vom 17.04.13
+- TOP 1.2.: Schönchenstraße 14; Umbau und Erweiterung (Anbau) eines Einfamilienhauses; Anhörung vom 17.04.13
+- TOP 1.3.: Winterstraße 4; Abbruch und Neuerrichtung eines Dachstuhls mit 3 WE; Anhörung vom 18.04.13
+- TOP 1.4.: Nithartstraße; Errichtung eines Naturkindergartens durch Aufstellen zweier Bauwägen mit Holzpodest - Bestandsgenehmigung; Anhörung vom 17.04.13
+- TOP 1.5.: Hochkalterstr. 2 - 14; Aufstockung u. Nachverdichtung; Neubau von 32 WE u. Erweiterung der TG; Anhörung vom 16.04.13
+- TOP 1.6.: Tierparkstraße 30; Neugestaltung Freigehege Urwaldhaus; Anhörung vom 18.04.13
+- TOP 1.7.: Schmorellplatz 8; Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 18.04.13
+- TOP 1.8.: Tierparkstr. 30; Nutzungserweiterung für temporäre Veranstaltungen im Urwaldhaus und im Aquarium; Anhörung vom 24.04.13
+- TOP 1.9.: Oefelestraße 15; Zusammenlegung von jeweils 2 Appartements zu einer Wohneinheit in den Geschossen OG 1 - 4, Erweiterung der Balkone, Einbau eines innenliegenden Personenaufzugs, Anbringung einer Vollwärmedämmung; Anhörung vom 06.05.2013
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Vorkaufsrecht - Verbesserung des Verfahrens; BA-Antrag-Nr. 08-14 / B 04609 vom 19.02.13; Sitzungsvorlage Nr. 08-14 / V 11876; Beschluss des Kommunalausschusses vom 16.05.13 (neutrale Erledigung)
+- TOP 1.2.: Bauvorhaben Josef-Vötter-Straße 7; Kopie eines an die Lokalbaukommission gerichteten Bürgerschreibens vom 10. bzw. 23.06.12; Kopie des Antwortschreibens der Lbk vom 28.03.13
+- TOP 1.3.: Initiierung einer Machbarkeitsstudie zur Umgestaltung des Claude-Lorrain-Platzes vor dem St.-Anna-Kirchlein; BA-Antrag Nr. 08-14 / B 04278 vom 18.09.12; Antwortschreiben des Baureferats vom 24.04.13 (neutrale Erledigung)
+- TOP 1.4.: Überdachung des U-Bahnein- und -ausgangs Mangfallplatz, Ecke Naupliastraße / Oberbiberger Straße; BA-Antrag Nr. 08-14 / B 04730 vom 19.02.13; Antwortschreiben der SWM GmbH vom 29.04.13 (negative Erledigung)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Erhaltungssatzungen: - Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten; Empfehlung Nr. 08-14 / E 00429 der BÜV des 2. Stadtbezirkes vom 12.11.09 - Erlass von Erhaltungssatzungen in Aufwertungsgebieten; Antrag Nr. 3/2012 des Mieterbeirats der LHM vom 16.04.12 - Das Instrument Erhaltungssatzung weiterentwickeln; Stadtratsantrag Nr. 08-14 / A 03299 vom 08.05.12; Sitzungsvorlagen Nr. 08-14 / V 11695; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 17.04.13 (SB)
+- TOP 1.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung u. Bauordnung u. der Vollversammlung des Stadtrates im Zeitraum vom 01.07.12 - 31.12.12; Sitzungsvorlagen Nr. 08-14 / V 11535; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 17.04.2013
+- TOP 1.5.: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012; Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien; Sitzungsvorlagen Nr. 08-14 / V 11217; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 (VB)
+- TOP 1.6.: OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 4 Stadtplanung fit für das 21. Jahrhundert; Antrag Nr. 08-14 / A 03598 der FW vom 13.08.2012; Sitzungsvorlagen Nr. 08-14 / V 11820; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.05.13 (SB)
+- TOP 1.7.: Barrierefreiheit für Menschen mit Behinderung; Antrag Nr. 08-14 / A 01525 der Stadtratsfraktion der FDP vom 04.05.2010; Sitzungsvorlage Nr. 08-14 /V 06383; Beschluss des Bauausschusses vom 14.05.13 (SB)
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Platzfest am 26.07.13 auf dem Hans-Mielich-Platz; Zuleitung des KVR vom 06.05.13 mit der Bitte um Stellungnahme bis 28.06.13
+- TOP 1.1.: Veranstaltungskalender auf muenchen.de; Schreiben der Markthallen München vom 27.03.13
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Vielfältige Maßnahmen der Bürgerbeteiligung; Änderungsantrag der Stadtratsfraktion der CSU für die gemeinsame Sitzung des Verwaltungs- u. Personalausschusses, des Planungsausschusses und des Finanzausschusses vom 21.11.12; Schreiben des Direktoriums vom 15.04.13 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Puppentheater von 25. bis 27.08.2013; Antragssumme: 3.300,00 ?; Beschlussvorlage des Direktoriums vom 08.04.13
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
