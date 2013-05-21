@@ -1,0 +1,6 @@
+# TOP 6: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 34. Sitzung des Ausschusses für Bauen und Ortsentwicklung der Ortsgemeinde Herxheim (Bauausschuss) (2013-05-21)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2013-205-88%7Czt_1%7C2
