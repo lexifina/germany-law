@@ -1,0 +1,59 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-05-23T16:00:00+02:00
+- Ende: 2013-05-23T18:45:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7200
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7200
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00195100.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00195100.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00195100.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 7: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V. - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: 725 Jahre Stadt Düsseldorf - Zuschüsse für Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 11: Rhein-Ruhr-Express in Eller und Lierenfeld - beantwortet
+- TOP 12: Grundstück Vennhauser Allee 222 - beantwortet
+- TOP 13: Radwegeverkehrsnetz im Stadtbezirk 8 - beantwortet
+- TOP 14: Nutzung der ehemaligen Katholischen Grundschule Leuthenstraße - beantwortet
+- TOP 15: Unterführung Vennhauser Allee - beantwortet
+- TOP 16: Grundstück am Hasseler Richtweg - beantwortet
+- TOP 17: Bevölkerungsschutz im Stadtbezirk 8 - beantwortet
+- TOP 18: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 19: Logistik - Unternehmen im Gurkenland - beantwortet
+- TOP 20: Rothenbergstraße - beantwortet
+- TOP 21: Barrierefreies Eller - beantwortet
+- TOP 22: Containerstation Vennhauser Allee 230 - beantwortet
+- TOP 23: Baumfällungen im Stadtbezirk 8 - beantwortet
+- TOP 24: Bundeswehr in Schulen des Stadtbezirks 8 - beantwortet
+- TOP 25: Papiercontainer Vennhauser Allee 232 - mehrheitlich abgelehnt
+- TOP 26: Bänke an der Düssel - einstimmig beschlossen
+- TOP 27: Temporäre Öffnung der Gumberstraße - mehrheitlich abgelehnt
+- TOP 28: Bahnübergang Am Hackenbruch - zurückgezogen
+- TOP 29: Nachbarschaftspark Eller - Lierenfeld - einstimmig beschlossen
+- TOP 30: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 31: Bänke im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 32: Radverkehr auf dem Dillenburger Weg - mehrheitlich beschlossen
+- TOP 33: Zwischenbericht zum Bahnübergang "Am Hackenbruch" - zur Kenntnis genommen
+- TOP 34: Sicherheit an Bahnübergängen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Sicherung der Bahngleise Sturmstraße - zur Kenntnis genommen
+- TOP 36: Fahrbahnbelag Bernburger Straße - zur Kenntnis genommen
+- TOP 37: Verkehrssituation Harffstraße / Dillenburger Weg - zur Kenntnis genommen
+- TOP 38: Fläche Festenbergstraße - zur Kenntnis genommen
+- TOP 39: Förderschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Bordsteinabsenkungen Mündrathweg / Coburger Weg und Mündrathweg / Geraer Weg - zur Kenntnis genommen
+- TOP 41: Nebengebäude Schloss Eller - zur Kenntnis genommen
+- TOP 42: Skater-Pipes und Skater-Inseln im Stadtbezirk 8 - zur Kenntnis genommen
