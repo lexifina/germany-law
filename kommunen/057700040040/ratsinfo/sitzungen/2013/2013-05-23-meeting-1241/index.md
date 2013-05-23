@@ -1,0 +1,53 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2013-05-23T17:00:00+02:00
+- Ende: 2013-05-23T18:30:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcgX2JshUyOABBbJbc7jC6c
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1241
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasKcygFXgmTT4qpgGCjfa-hz7L9uSMht1Y-qce5_Frn/Bekanntmachung_Rat_23.05.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdUHfk-ioQeFU9tL1ex6bJmIs9xCppBeANAotxJczkiF/Oeffentliche_Niederschrift_Rat_23.05.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 4.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.1: Krankenhaus Rahden
+- TOP 4.2: Erhebung von Straßenbaubeiträgen nach § 8 KAG
+- TOP 4.3: Bepflanzung am Rathaus
+- TOP 5.: Erlass einer Außenbereichssatzung gem. § 35 Abs. 6 BauGB für den Bereich "Westlicher Mühlendamm - Neuaufstellung" - Einstimmig, 0 Enthaltungen
+- TOP 6.: 8. vereinfachte Änderung des Bebauungsplanes Nr. 38 "Ortskern Varl" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 7.: 7. Änderung des Bebauungsplanes Nr. 38 "Ortskern Varl" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 8.: 6. vereinfachte Änderung des Bebauungsplanes Nr. 15 "Gewerbegebiet Ost" der Stadt Rahden - 32 Stimmen dafür, 2 dagegen (Die Grünen), 0 Enthaltungen
+- TOP 9.: 1. vereinfachte Änderung des Bebauungsplanes Nr. 64 "Pr. Ströhen-Hinter der Schule" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Erhebung von Straßenbaubeiträgen nach § 8 KAG - Abgesetzt
+- TOP 11.: Abschluss einer öffentlich rechtlichen Vereinbarung zwischen dem Kreis Minden-Lübbecke und der Stadt Rahden über die Durchführung von Aufgaben zur Vergabe öffentlicher Aufträge durch den Kreis Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 12.: Vorbereitung der Wahl der Schöffinnen und Schöffen für die Amtsperiode 2014 bis 2018 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bekanntgaben
+- TOP 13.1: Hähnchenmaststall in Tonnenheide
+- TOP 13.2: Telefonzellen in Rahden
+- TOP 13.3: Feuerwehrbeschaffungskartell
+- TOP 13.4: Haushaltssatzung 2013
+- TOP 14.: Verschiedenes
+- TOP 14.1: Sekundarschule in Stemwede
+- TOP 14.2: Sekundarschule in Rahden
+- TOP 14.3: Einbindung von Unternehmen in die Konzeptgestaltung der Sekundarschule
+- TOP 14.4: Wettbewerb "Unser Dorf hat Zukunft"
+- TOP 14.5: Radweg Mindener Straße
+- TOP 14.6: Zeitungsbericht zum Thema "Sanierung der Gebäudeaußenfassaden"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 15.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Wiederbestellung eines Vorstandsmitgliedes - Einstimmig, 0 Enthaltungen
+- TOP 16.: Grundstücksangelegenheiten
+- TOP 16.1: Veräußerung des Anlagevermögens des Förderschulverbandes Espelkamp - Einstimmig, 0 Enthaltungen
+- TOP 16.2: Spielplatz Robert-Koch-Straße
+- TOP 16.3: Spielplatz Hüsinger Feld
+- TOP 17.: Bekanntgaben
+- TOP 18.: Verschiedenes
+- TOP 18.1: Krankenhaus Rahden
