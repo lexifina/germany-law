@@ -1,0 +1,64 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2013-05-28T18:00:00+02:00
+- Ende: 2013-05-28T20:00:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaximJJ0CQ-jZDYZb3WOOKU
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/14604
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX6kH8kFg1maiy1IB1BRcHBuFGELL4psci-gHO1jbnbh/Bekanntmachung_Rat_28.05.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb9E71GjGstC4ghLP3XYGuqKb5_IQx3gPxrE554pPXjJ/Oeffentliche_Niederschrift_Rat_28.05.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 19.03.2013 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Neu-/Umbesetzung des Stadtentwicklungsausschusses hier: Antrag der FDP-Fraktion vom 04.04.2013 - Einstimmiger Beschluss:
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Archivbenutzungsordnung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 8.: 5. Satzung zur Änderung der Satzung über die Erhebung von Vergnügungssteuer in der Stadt Bad Münstereifel (Vergnügungssteuersatzung) vom 17.12.2002 - Einstimmiger Beschluss:
+- TOP 9.: 39. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung; hier: Bagatellgrenze Abzugsmenge - Einstimmiger Beschluss:
+- TOP 10.: Endgültige Herstellung Teileinrichtungen von Erschließungsanlagen - Kostenspaltung, Bildung von Abrechnungsabschnitten und Abweichungssatzung - - Einstimmiger Beschluss:
+- TOP 11.: Satzung über die Benutzung des eifelbades der Stadt Bad Münstereifel (Badeordnung) hier: Erläuterungen zum gemeinsamen Fraktionsantrag vom 24.04.2013 (siehe Anlage zur RD 965-IX/Z-9) in Bezug auf das eifelbad - Einstimmiger Beschluss:
+- TOP -: Satzung über die Benutzung des eifelbades der Stadt Bad Münstereifel (Badeordnung) hier: Erläuterungen zum gemeinsamen Fraktionsantrag vom 22.05.2013 in Bezug auf das eifelbad - Beschluss
+- TOP 12.: Stellplatzsatzung für den Wohnmobilpark der Stadt Bad Münstereifel - Beschluss
+- TOP -: Stellplatzsatzung für den Wohnmobilpark der Stadt Bad Münstereifel - Beschluss
+- TOP -: Stellplatzsatzung für den Wohnmobilpark der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 13.: Aufstellung der Vorschlagliste für die Wahl der Schöffen - Einstimmiger Beschluss:
+- TOP 14.: Neufassung der Marktsatzung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 15.: 4. Satzung zur Änderung der Satzung zur Durchführung von Bürgerentscheiden im Gebiet der Stadt Bad Münstereifel vom 22.12.2004 - Einstimmiger Beschluss:
+- TOP 16.: Bebauungsplan Nr. 82 " Parkdeck Große Bleiche" - Auswertung der Offenlage und Trägerbeteiliung - Aufteilung in Teilbereich 1 und Teilbereich 2 - Satzungsbeschluss für den Teilbereich 1 - Beschluss
+- TOP -: Bebauungsplan Nr. 82 " Parkdeck Große Bleiche" - Auswertung der Offenlage und Trägerbeteiliung - Aufteilung in Teilbereich 1 und Teilbereich 2 - Satzungsbeschluss für den Teilbereich 1 - Beschluss
+- TOP -: Bebauungsplan Nr. 82 " Parkdeck Große Bleiche" - Auswertung der Offenlage und Trägerbeteiliung - Aufteilung in Teilbereich 1 und Teilbereich 2 - Satzungsbeschluss für den Teilbereich 1 - Beschluss
+- TOP -: Bebauungsplan Nr. 82 " Parkdeck Große Bleiche" - Auswertung der Offenlage und Trägerbeteiliung - Aufteilung in Teilbereich 1 und Teilbereich 2 - Satzungsbeschluss für den Bebauungsplan Nr. 82 Teilbereich 1 "Ebenerdige Stellplätze Große Bleiche" - Einstimmiger Beschluss:
+- TOP 17.: 24. Änderung des Flächennutzungsplanes"Goldenes Tal/Eifelbad-öffentliche Parkflächen" hier: Abwägungsbeschlüsse, abschließender Beschluss - Einstimmiger Beschluss: 
+- TOP 18.: Bebauungsplan Nr. 84 "Bad Münstereifel, Goldenes Tal/Eifelbadparkplatz-öffentliche Parkflächen" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP -: Bebauungsplan Nr. 84 "Bad Münstereifel, Goldenes Tal/Eifelbadparkplatz-öffentliche Parkflächen" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss
+- TOP 19.: Bebauungsplan Nr. 85 "ZOB-Bahnhof" hier: Vorstellung der verfeinerten Ausführungsplanung - Beschluss mit 29 Ja-Stimmen bei 1 Enthaltung:
+- TOP 20.: Jahresabschluss 2012 hier: Zuleitung des Entwurfs gem. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 21.: Stellenplan für das Haushaltsjahr 2013 - Beschluss mit 27 Ja-Stimmen zu 1 Nein-Stimme bei 2 Enthaltungen:
+- TOP 22.: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; Wirtschaftspläne 2013 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasserversorgung und Abwasserentsorgung der Stadt Bad Münstereifel hier: Konsolidierungsprogramm 2013 - 2023 - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: 1. Veränderungsliste, Fortschreibung bis 2023 und Auflistung Instandhaltungsrückstellungen - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: diverse Schreiben - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Bericht zum Haushalt 2012 an die Kommunalaufsicht - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Maßnahmen zur Berücksichtigung im Haushalt 2013 ff. - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Fragenkatalog der CDU-Fraktion - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: 2. Veränderungsliste und Fortschreibung bis 2023 - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Antrag der CDU-Fraktion vom 22.02.2013 - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: 3. Veränderungsliste und Fortschreibung bis 2023 unter Berücksichtigung des "Gemeinsamen Antrages aller Fraktionen im Rat der Stadt Bad Münstereifel vom 24.04.2013" - Beschluss
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Beschlussfassung - Beschluss mit 29 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP -: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Gemeinschaftlicher Antrag der Stadtratsfraktionen vom 22.05.2013 - Beschluss
+- TOP 23.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern der Haushaltsjahre 2013 - 2015 (Hebesatzsatzung) - Beschluss mit 29 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V.m § 17 Abs. 2 der Hauptsatzung - Beschluss
+- TOP 24.2: Vertraulichkeit im Rahmen der frühzeitigen Bürgerbeteiligung und der Offenlage von Bebauungsplänen hier: Vorgehensweise bei der Erstellung der Beschlussvorlage für die politische Beratung - Beschluss
+- TOP 24.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.4: Nächste Sitzung des Wahlausschusses
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Anfragen und Mitteilungen
