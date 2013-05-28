@@ -1,0 +1,71 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-05-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877174
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877174
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bebauungsplan mit Grünordnung Nr. 2061 - Rosenheimer Straße (nördlich), Anzinger Str. (nördlich), Aschheimer Straße (westlich), Ampfingstraße (westlich), Mühldorfstraße (südlich) und Friedenstraße (östlich) - (Teiländerung der Bebauungspläne Nrn. 939 und 1241; Änderung der Bebauungspläne Nrn. 822, 1259 und 1799) - Planungsdarlegung vom 7. Mai 2013 mit 7. Juni 2013 - Frühzeitige Unterrichtung und Beteiligung der Öffentlichkeit
+- TOP 3.1.1.2.: Berg-am-Laim-Str. 125 - Neubau eines Hotels - TEKTUR
+- TOP 3.1.2.1.: Entschärfung der Verkehrssituation auf der Bad-Kreuther-Straße
+- TOP 3.1.2.2.: Verkehrssicherheit in der Bad-Kreuther-Straße im Bereich der privaten Gehwege
+- TOP 3.1.2.3.: Rad- und Fußwegquerung der Berg-am-Laim-Str. in Höhe Kaufland / Josephsburgstr. verwirklichen - <div></div>
+- TOP 3.2.1.: Johannifeuer des Maibaumvereins am 22.06.2013 am Festplatz St.-Veit-Straße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Überseeplatz 17
+- TOP 3.6.2.: St.-Michael-Str. 16
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grafinger Str. 6 - Unveränderte Fortführung des Gaststättenbetriebs "Titty Twister"
+- TOP 4.1.1.3.: OB-Kandidat Reiters ?Wunschliste?: Stadtplanung fit für das 21. Jahrhundert - OB-Kandidat Reiters ?Wunschliste? jetzt in Angriff nehmen - Teil 4 Stadtplanung fit für das 21. Jahrhundert - Antrag Nr. 08-14 / A 03598 der FW vom 13.08.2012 - Vorlagen-Nr. 08-14 / V 11820
+- TOP 4.1.1.4.: Boden- und Bauschuttrecycling und Bodenbörsen Potentielle Standorte in München a) Stadtratsauftrag Gesamtkonzept für Boden- und Bauschuttrecyclinganlagen b) Gesamtkonzept für Boden- und Bauschuttrecyclinganlagen - Antrag Nr. 02-08 / A 03185 von Herrn Stadtrat Josef Schmid vom 02.08.2006 - Vorlagen-Nr. 08-14 / V 01681
+- TOP 4.1.1.5.: Barrierefreiheit für Menschen mit Behinderung - Antrag Nr. 08-14 / A 01525 der Stadtratsfraktion der FDP vom 04.05.2010 - Vorlagen-Nr. 08-14 / V 06383
+- TOP 4.1.2.1.: Erneuerung der Baumkirchner Straße zwischen Kreillerstraße und Neumarkter Straße sowie Platzgestaltung des Bereiches vor dem Behrpark - Anliegerinformation Baureferat
+- TOP 4.1.2.2.: Fußgängerquerung St.-Veit-Straße in Höhe Waldstraße bzw. angrenzender Grünanlage
+- TOP 4.1.2.3.: Öffnung der in Richtung Westen bzw. Osten einbahngeregelten Fahrbahnen des Piusplatzes zwischen Aschheimer Straße und Westerhamer Straße für den gegenläufigen Radverkehr - Verkehrsrechtliche Anhörung nach § 45 StVO
+- TOP 4.1.2.4.: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit - Vorlagen-Nr. 08-14 / V 11871
+- TOP 4.1.3.1.: Bekämpfung von Ameisen in Kinderspielbereichen - Vorlagen-Nr. 08-14 / V 11667
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Schulentwicklung der Grundschule Berg-am-Laim-Straße
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Johanniter Lilalu-Ferienprogramm 2013
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
