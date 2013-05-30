@@ -1,0 +1,58 @@
+# 19. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-05-30T16:30:00+02:00
+- Ende: 2013-05-30T19:57:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3596
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3596
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=95069
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Keine Parteiplakate in Gebäuden des Bezirksamts - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - beantwortet
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-19 - beantwortet
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Neuwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Umwidmung eines Nebenstraßenabschnitts vor der Christophorus-Kirche in Friedrichshagen in eine Fußgängerzone - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Weitergabe der Meldedaten - bessere Informationen über Opt-Out in Bürgerämtern - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittelantrag des Behindertenverein Köpenick e. V. (SM 13-17) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittelantrag der GskA mbH - Outreach mobile Jugendarbeit (SM 13-18) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag des Seniorenverein Wuhlheide e. V. (SM 13-19) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Umbau der Bölschestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: CarSharing im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sozialticket - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Umbau der Bölschestraße - barrierefrei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: E-Mail-Verteiler für Planungsunterlagen - vertagt
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-54 VE ("Nahversorgungsstandort Glienicker Straße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick hier: Einstellung des Verfahrens - überwiesen
+- TOP 13.2: Eckwerte für Ausgaben (ohne Investitionen ) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2014/2015 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Tempo 30 in der Schönefelder Chaussee bis zur Auerswaldstraße ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sichere Querung Wegedornstraße - überwiesen
+- TOP 14.3: Aufstellung von Spendern für Hundekottüten am Sterndamm 241 - überwiesen
+- TOP 14.4: Der Bezirk Treptow-Köpenick als Fair Trade Stadt - überwiesen
+- TOP 14.5: Parkplatzbedarfsrechnung für das Spreepark-Areal - überwiesen
+- TOP 14.6: Aufstellung eines Verkehrsspiegels in Altglienicke - überwiesen
+- TOP 14.7: Soziale Mischung an der Fanny-Zobel-Straße - überwiesen
+- TOP 14.8: Laufbahn auf der Willi-Sänger-Sportanlage reparieren - überwiesen
+- TOP 14.9: Dauerhafte Lösung für Teltowkanal - überwiesen
+- TOP 14.10: Buskneeling - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Kombi-Ticket für den 1. FC Union - überwiesen
+- TOP 14.12: Uferwanderweg am Mellowpark - überwiesen
+- TOP 14.13: Petition der freien Mitarbeiterinnen und Mitarbeiter der Musikschule Treptow/Köpenick und der Volkshochschule - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Die Schule für Alle – Inklusive Beschulung in Treptow-Köpenick - vertagt
