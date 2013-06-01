@@ -13,8 +13,8 @@ Teil 2 Vollzugsverlauf
 § 10 Entlassung
 Teil 3 Unterbringung und Versorgung der Untersuchungsgefangenen
 § 11 Trennungsgrundsätze
-§ 12 Unterbringung während der Arbeit, Bildung und Freizeit
-§ 13 Unterbringung während der Ruhezeit
+§ 12 Unterbringung während der Einschlusszeiten
+§ 13 Aufenthalt außerhalb der Einschlusszeiten
 § 14 Unterbringung von Müttern und Vätern mit Kindern
 § 15 Persönlicher Gewahrsam, Kostenbeteiligung
 § 16 Ausstattung des Haftraums
@@ -30,7 +30,7 @@ Teil 4 Arbeit, Bildung, Freizeit
 § 25 Arbeitsentgelt und Ausbildungsbeihilfe, Taschengeld
 § 26 Freizeit und Sport
 § 27 Zeitungen und Zeitschriften
-§ 28 Rundfunk
+§ 28 Rundfunk, Informations- und Unterhaltungselektronik
 Teil 5 Religionsausübung
 § 29 Seelsorge
 § 30 Religiöse Veranstaltungen
@@ -38,13 +38,13 @@ Teil 5 Religionsausübung
 Teil 6 Besuche, Schriftwechsel, Telefongespräche und Pakete
 § 32 Grundsatz
 § 33 Recht auf Besuch
-§ 34 Besuche von Verteidigern, Rechtsanwälten und Notaren
-§ 35 Überwachung der Besuche
-§ 36 Recht auf Schriftwechsel
-§ 37 Überwachung des Schriftwechsels
-§ 38 Weiterleitung von Schreiben, Aufbewahrung
-§ 39 Anhalten von Schreiben
-§ 40 Telefongespräche
+§ 34 Durchführung der Besuche
+§ 35 Überwachung der Gespräche
+§ 36 Telefongespräche
+§ 37 Schriftwechsel, Untersagung des Schriftwechsels
+§ 38 Sichtkontrolle, Weiterleitung und Aufbewahrung von Schreiben
+§ 39 Überwachung des Schriftwechsels
+§ 40 Anhalten von Schreiben
 § 41 Pakete
 Teil 7 Sicherheit und Ordnung
 § 42 Grundsatz
@@ -52,11 +52,12 @@ Teil 7 Sicherheit und Ordnung
 § 44 Durchsuchung
 § 45 Erkennungsdienstliche Maßnahmen, Lichtbildausweise
 § 46 Videoüberwachung
-§ 47 Maßnahmen zur Feststellung von Suchtmittelkonsum
+§ 47 Maßnahmen zur Feststellung von Suchtmittelgebrauch
+§ 47a Auslesen von Datenspeichern
 § 48 Festnahmerecht
 § 49 Besondere Sicherungsmaßnahmen
-§ 50 Einzelhaft
-§ 51 Fesselung
+§ 50 (aufgehoben)
+§ 51 (aufgehoben)
 § 52 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
 § 53 Ärztliche Überwachung
 Teil 8 Unmittelbarer Zwang
@@ -64,10 +65,10 @@ Teil 8 Unmittelbarer Zwang
 § 55 Allgemeine Voraussetzungen
 § 56 Androhung
 § 57 Schusswaffengebrauch
-§ 58 Handeln auf Anordnung
+§ 58 (aufgehoben)
 Teil 9 Disziplinarmaßnahmen
-§ 59 Voraussetzungen
-§ 60 Arten der Disziplinarmaßnahmen
+§ 59 Disziplinarmaßnahmen
+§ 60 (aufgehoben)
 § 61 Vollstreckung der Disziplinarmaßnahmen, Aussetzung zur Bewährung
 § 62 Disziplinarbefugnis
 § 63 Verfahren
@@ -83,7 +84,7 @@ Teil 11 Ergänzende Bestimmungen für junge Untersuchungsgefangene
 § 71 Schulische und berufliche Aus- und Weiterbildung, Arbeit
 § 72 Besuche, Schriftwechsel, Telefongespräche
 § 73 Freizeit und Sport
-§ 74 Besondere Sicherungsmaßnahmen, unmittelbarer Zwang
+§ 74 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge, besondere Sicherungsmaßnahmen, unmittelbarer Zwang
 § 75 Erzieherische Maßnahmen, Disziplinarmaßnahmen
 Teil 12 Aufbau der Anstalt
 § 76 Gliederung, Räume
@@ -99,8 +100,9 @@ Teil 13 Aufsicht, Beirat
 § 85 Aufsichtsbehörde
 § 86 Vollstreckungsplan
 § 87 Beirat
-Teil 14 Datenschutz
+Teil 14 Datenschutz, Kriminologische Forschung
 § 88 Datenschutz
+§ 88a Kriminologische Forschung
 Teil 15 Schlussbestimmungen
 § 89 Einschränkung von Grundrechten
 § 90 Verhältnis zum Bundesrecht
