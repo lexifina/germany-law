@@ -10,23 +10,25 @@ Teil 1 Allgemeine Bestimmungen
 § 8 Soziale Hilfe
 Teil 2 Planung des Vollzugs
 § 9 Aufnahme
-§ 10 Feststellung des Erziehungs- und Förderbedarfs
-§ 11 Vollzugsplan
+§ 10 Diagnoseverfahren
+§ 11 Vollzugs- und Eingliederungsplanung
+§ 11a Inhalt des Vollzugs- und Eingliederungsplans
 § 12 Verlegung und Überstellung
 § 13 Geschlossener und offener Vollzug, Vollzug in freien Formen
 § 14 Sozialtherapie
-§ 15 Vollzugslockerungen
-§ 16 Urlaub
-§ 17 Weisungen für Vollzugslockerungen und Urlaub, Aufhebung
-§ 18 Vorführung, Ausantwortung
-§ 19 Entlassungsvorbereitung
+§ 14a Psychologische Intervention und Psychotherapie
+§ 15 Lockerungen zur Erreichung des Vollzugsziels
+§ 16 Lockerungen aus sonstigen Gründen
+§ 17 Weisungen für Lockerungen
+§ 18 Ausführung, Außenbeschäftigung, Vorführung, Ausantwortung
+§ 19 Vorbereitung der Eingliederung
 § 20 Entlassungszeitpunkt
 § 21 Hilfe zur Entlassung, Nachsorge
 § 22 Fortführung von Maßnahmen nach der Entlassung
 Teil 3 Unterbringung und Versorgung der Gefangenen
 § 23 Trennung von männlichen und weiblichen Gefangenen
-§ 24 Unterbringung während der Ausbildung, Arbeit und Freizeit
-§ 25 Unterbringung während der Ruhezeit
+§ 24 Unterbringung während der Einschlusszeiten
+§ 25 Aufenthalt außerhalb der Einschlusszeiten
 § 26 Wohngruppen
 § 27 Mütter und Väter mit Kindern
 § 28 Persönlicher Gewahrsam, Kostenbeteiligung
@@ -36,10 +38,10 @@ Teil 3 Unterbringung und Versorgung der Gefangenen
 § 32 Gesundheitsfürsorge
 § 33 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 § 34 Medizinische Leistungen, Kostenbeteiligung
-§ 35 Verlegung und Überstellung zur medizinischen Behandlung
-§ 36 Krankenbehandlung in besonderen Fällen
-Teil 4 Bildung und Arbeit
-§ 37 Bildung und Arbeit
+§ 35 (aufgehoben)
+§ 36 Durchführung der medizinischen Leistungen, Krankenbehandlung in besonderen Fällen, Forderungsübergang
+Teil 4 Arbeitstherapeutische Maßnahmen, Arbeitstraining, schulische und berufliche Qualifizierungsmaßnahmen, Arbeit
+§ 37 Arbeitstherapeutische Maßnahmen, Arbeitstraining, schulische und berufliche Qualifizierungsmaßnahmen, Arbeit
 Teil 5 Freizeit, Sport
 § 38 Freizeit
 § 39 Sport
@@ -54,20 +56,24 @@ Teil 7 Besuche, Schriftwechsel und Telefongespräche
 § 46 Grundsatz
 § 47 Recht auf Besuch
 § 48 Besuchsverbot
-§ 49 Besuche von Verteidigern, Rechtsanwälten, Notaren und Beiständen
-§ 50 Überwachung der Besuche
-§ 51 Recht auf Schriftwechsel
-§ 52 Überwachung des Schriftwechsels
-§ 53 Weiterleitung von Schreiben, Aufbewahrung
-§ 54 Anhalten von Schreiben
-§ 55 Telefongespräche
+§ 49 Durchführung der Besuche
+§ 50 Überwachung der Gespräche
+§ 51 Telefongespräche
+§ 52 Schriftwechsel
+§ 53 Untersagung des Schriftwechsels
+§ 54 Sichtkontrolle, Weiterleitung und Aufbewahrung von Schreiben
+§ 55 Überwachung des Schriftwechsels
+§ 55a Anhalten von Schreiben
+§ 55b Andere Formen der Telekommunikation
 § 56 Pakete
 Teil 8 Gelder der Gefangenen, Freistellung von der Arbeit
-§ 57 Ausbildungsbeihilfe, Arbeitsentgelt
-§ 58 Freistellung von der Arbeit
+§ 57 Vergütung
+§ 58 (aufgehoben)
 § 59 Taschengeld
+§ 59a Konten, Bargeld
 § 60 Hausgeld
 § 61 Eigengeld
+§ 61a Zweckgebundene Einzahlungen
 § 62 Überbrückungsgeld
 Teil 9 Sicherheit und Ordnung
 § 63 Grundsatz
@@ -77,18 +83,19 @@ Teil 9 Sicherheit und Ordnung
 § 67 Erkennungsdienstliche Maßnahmen
 § 68 Lichtbildausweise
 § 68a Videoüberwachung
-§ 69 Maßnahmen zur Feststellung von Suchtmittelkonsum
+§ 69 Maßnahmen zur Feststellung von Suchtmittelgebrauch
+§ 69a Auslesen von Datenspeichern
 § 70 Festnahmerecht
 § 71 Besondere Sicherungsmaßnahmen
-§ 72 Einzelhaft
-§ 73 Fesselung
+§ 72 (aufgehoben)
+§ 73 (aufgehoben)
 § 74 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
 § 75 Ärztliche Überwachung
-§ 76 Ersatz von Aufwendungen
+§ 76 (aufgehoben)
 Teil 10 Unmittelbarer Zwang
 § 77 Begriffsbestimmungen
 § 78 Allgemeine Voraussetzungen
-§ 79 Handeln auf Anordnung
+§ 79 (aufgehoben)
 § 80 Androhung
 Teil 11 Erzieherische Maßnahmen, Disziplinarmaßnahmen
 § 81 Erzieherische Maßnahmen
@@ -120,7 +127,7 @@ Teil 15 Aufbau der Jugendstrafvollzugsanstalt
 § 103 Seelsorger
 § 104 Medizinische Versorgung
 § 105 Sozialtherapeutische Abteilung
-§ 106 Konferenzen
+§ 106 (aufgehoben)
 § 107 Mitverantwortung der Gefangenen
 § 108 Hausordnung
 Teil 16 Aufsicht, Beirat
