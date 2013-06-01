@@ -1,0 +1,4 @@
+# § 59a Konten, Bargeld
+(1) Gelder der Gefangenen werden auf Hausgeld- und Eigengeldkonten in der Anstalt geführt.
+(2) Der Besitz von Bargeld in der Anstalt ist den Gefangenen nicht gestattet. Über Ausnahmen entscheidet der Anstaltsleiter.
+(3) Geld in Fremdwährung wird zur Habe genommen.

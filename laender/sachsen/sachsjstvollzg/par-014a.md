@@ -1,0 +1,2 @@
+# § 14a Psychologische Intervention und Psychotherapie
+Psychologische Intervention und Psychotherapie im Vollzug dienen insbesondere der Behandlung psychosozialer Faktoren und psychischer Störungen des Verhaltens und Erlebens, die in einem Zusammenhang mit der Straffälligkeit stehen. Sie werden durch systematische Anwendung wissenschaftlich fundierter psychologischer und psychotherapeutischer Methoden mit einem oder mehreren Gefangenen durchgeführt.
