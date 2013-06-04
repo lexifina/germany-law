@@ -1,0 +1,85 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-06-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2785175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2785175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Wasserspielbus am 02. und 03.09.2013 und Artmobil am 10. und 11.09.2013
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt Evangeliumskriche Konzerte am 06.10. und 24.11.2013
+- TOP 2.3.: (E) Budget der Bezirksausschüsse FSV Harthof e.V. 50jähriges Vereinsjubiläum am 21./22.06.2013
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Caritas Kinder- und Jugendtreff Jump In "Sommerfest des Generationenhauses Ludwigsfeld am 06.07.2013"
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kleingärtnerverein NW 88 Gartenfest zum 25-jährigen Jubiläum am 13.07.2013
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Kath. Jugendsozialwerk München e.V., Freizeitstätte ?KistE? Open Air ?BeatsOnAnger? am 27.07.2013
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kapernaumkirche Ökumenisches Sommerfest am 13.07.2013
+- TOP 2.8.: Gewährung eines Zuschusses aus dem BA-Budget: Caritas Kinder- und Jugendtreff Jump In "Jugendfestival am 26.07.2013"
+- TOP 9: (E) Erhaltung des Wochenmarktes am nördlichen Ende der Lassallestraße Empfehlung Nr. 08-14 / E 01751 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 21.03.2013
+- TOP 9.10.: (E) Budget der Bezirksausschüsse Caritas Kinder- und Jugendtreff Jump In Jugendfestival am 26.07.2013
+- TOP 3.11.: (E) Budget der Bezirksausschüsse Caritas Kinder- und Jugendtreff Jump In Sommerfest am 06.07.2013
+- TOP 3.1.: Markierung eines Schutzstreifens für Fahrräder auf der Fahrbahn Feldmochinger Straße im Bereich zwischen BÜ Fasanerie und der Höhe Am Schnepfenweg
+- TOP 3.2.: Schaffung von ausreichenden Vorsorgemaßnahmen der Stadt München und Transparenz bei Aufrüstung von Mobilfunksendeanlagen hier: Hyazinthenstr. 6
+- TOP 3.3.: Aufhebung der Radwegbenutzungspflicht in der Feldmochinger Straße
+- TOP 3.4.: Nördliches Ende Feldmochinger Straße: a) Mitteilung der Planungen für das brachliegende Grundstück südl. der Hausnummer 431; b) mögliche geschwindigkeitsbegrenzende Maßnahmen stadtauswärts ab Kreuzung mit der Pflaum- und Karlsfelder Straße
+- TOP 3.5.: Siedlung Ludwigsfeld: Einbahnregelung in der Siedlung ?
+- TOP 3.6.: Siedlung Ludwigsfeld: Sichere Erreichbarkeit des Wartehäuschens an der Haltestelle: Siedlung Ludwigsfeld (nördlich der Karlsfelder Straße)
+- TOP 3.7.: Siedlung Ludwigsfeld: Unterflur-Wertstoffcontainer für den süd-westlichen Teil der Siedlung
+- TOP 3.8.: Siedlung Ludwigsfeld: "Kiss and Ride"-Zone und Warnhinweisschilder für den Kindergarten in der "Koop" in der Diamantstraße
+- TOP 3.9.: Siedlung Ludwigsfeld: Verlagerung des Taxistandes in der Kristallstraße in die nächste Nachbarschaft der Werke / Sanitäre Verhältnisse
+- TOP 3.10.: Siedlung Ludwigsfeld: Nächtliche Busanbindung der Siedlung
+- TOP 3.11.: Siedlung Ludwigsfeld: Verlängerung der Buslinie 175 bis zur Rothwiesenstraße
+- TOP 3.12.: Siedlung Ludwigsfeld: Einrichtung eines Behindertenparkplatzes ür die Ladenzeile am Onyxplatz nur während der Ladenöffnungszeiten
+- TOP 3.13.: Überwuchs von Anpflanzungen - Mehlprimelweg 4 - Antrag auf Sondernutzung
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Wilhelmine-Reichard-Straße 5.1.2 Auf den Schrederwiesen 85
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Hammstr. 20 5.2.2 Auf den Schrederwiesen 85 5.2.3 Hardenstr.
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): Eduard-Spranger-Str. 14
+- TOP 5.4.: KVR: Austausch Lichtzeichenanlage am Knotenpunkt Rainfarn-/Weitlstraße
+- TOP 5.5.: Kommunalreferat: geplante Veranstaltungen auf stadteigenen Grundstücken: 5.5.1 Sonnwendfeuer bei Waldmeisterstraße am 22.06.13 5.5.2 Hoffest an der Weitlstraße am 14.07.2013
+- TOP 5.6.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Spielefest am Wochenmarkt Lassallestraße am 29.06.2013
+- TOP 5.7.: KVR: diverse Veranstaltungen 2013 auf städt. Grünanlage Dülfer Anger: 5.7.4 BeatsOnAnger am 27.07.13 5.7.5 Zirkus Baldoni vom 19.09. bis 29.09.13
+- TOP 5.8.: KVR: Veranstaltung auf städt. Grünanlage: Hasenbergler Buchmesse der Diakonie Hasenbergl e.V. am 26./27.06.2013 auf dem Pfarrer-Steiner-Platz
+- TOP 5.9.: Referat für Stadtplanung und Bauordnung: Vollzug des Allg. Eisenbahngesetzes (AEG); NBS/ ABS Nürnberg-Ingolstadt-München, Ausbaumaßnahmen; landschaftspflegerische Begleitplanung
+- TOP 5.10.: KVR: Vollzug des Sprengstoffgesetzes: Feuerwerk im Rahmen einer Jubiläumsfeier am 22.06.13 auf dem Gelände der Bezirkssportanlage Ebereschenstr. 17
+- TOP 5.11.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest des Vereins "Fasanerie Aktiv" am 20.07.2013
+- TOP 5.12.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Sommerfest des KJR München-Stadt am 22.06.2013 auf dem Walter-Sedlmayr-Platz
+- TOP 5.13.: Sozialreferat: Stadtjugendamt / Förderung freier Träger; Haushaltsjahr 2014: Projekt "Interessengemeinschaft Ludwigsfeld"
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Referat für Stadtplanung und Bauordnung: Bau einer Geh- und Radwegunterführung zwischen der Wilhelmine-Reichard-Straße und Am Oberwiesenfeld
+- TOP 6.2.: Beschlussvorlage Sozialreferat: Bauträgerauswahl für Baugrundstücke: Bauvorhaben Leberle-/ Moriggl-/ Paidar-/ Raheinstraße; Ergänzung vom 02.04.2013
+- TOP 6.3.: Referat für Stadtplanung und Bauordnung: Parkraumsituation in der Siedlung Ludwigsfeld
+- TOP 6.4.: Kommunalreferat: Terminverschiebung Vermietung an der Weitlstraße (Aufstellung Container)
+- TOP 6.5.: Referat für Bildung und Sport: Generalinstandsetzung der Willy-Brandt-Gesamtschule in der Freudstr. 15
+- TOP 6.6.: Baureferat: Ausführungsgenehmigung: Erstmalige Herstellung Teilprojekt Detmoldstraße
+- TOP 6.7.: Beschlussvorlage RGU: Grundwassersituation Feldmoching
+- TOP 6.8.: Referat für Stadtplanung und Bauordnung: Genehmigungsbescheid Fällungsantrag Adlerfarnstraße
+- TOP 6.9.: Baureferat: Erinnerungsverfahren Feldmochinger Str. 214
+- TOP 6.10.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Irisstr. 1
+- TOP 6.11.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: 6.11.1 Schneeglöckchenstr. 91 6.11.2 Trollblumenstr, Am Blütenanger, Kerbelweg 6.11.3 Glyzinen-, Waldmeister- und Staudenrauchstraße
+- TOP 6.12.: Baumaßnahmen der SWM: 6.12.1 Stromprojekt Agnes-Kunze-Platz 6.12.2 Stromprojekt Ferchenbachstraße (Änderung im Terminablauf) 6.12.3 Mehrspartenprojekt Detmoldstraße
+- TOP 6.13.: Meldelisten Baumfällungsanträge
+- TOP 6.14.: Meldelisten Bauvorhaben
+- TOP 6.15.: Beschlussvorlage Direktorium: Änderung der Satzung für die Bezirksausschüsse
+- TOP 6.16.: Beschlussvorlage Baureferat: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 6.17.: Beschlussvorlage Baureferat: Barrierefreiheit für Menschen mit Behinderungen
+- TOP 6.18.: Beschlussvorlage KVR: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit
+- TOP 6.19.: Beschlussvorlage RGU: Lärmminderungsplanung für München - Lärmaktionsplan
+- TOP 6.20.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Boden- und Bauschuttrecycling und Bodenbörsen; Potentielle Standorte in München a) Stadtratsauftrag Gesamtkonzept für Boden- und Bauschuttrecyclinganlagen b) Gesamtkonzept für Boden- und Bauschuttrecyclinganlagen
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert
+- TOP 6.23.: Sozialreferat: Wunsch nach Errichtung eines Freizeittreffs und/oder eines Jugendzentrums in der Fasanerie
+- TOP 6.24.: Referat für Stadtplanung und Bauordnung: Luftrechtliche Genehmigung des Hubschraubersonderlandeplatzes in OSH für die Polizeihubschrauberstaffel Bayern
+- TOP 6.25.: SWM: Neue Bädereintrittspreise ab 01.05.2013
+- TOP 6.26.: KJR München-Stadt: Broschüre "Angebote für Kinder und Jugendliche im KJR" und Geschäftsbericht 2012
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
