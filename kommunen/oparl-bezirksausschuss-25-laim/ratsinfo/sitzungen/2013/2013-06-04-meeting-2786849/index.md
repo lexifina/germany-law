@@ -1,0 +1,95 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-06-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786849
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786849
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Überplanung Willibaldplatz
+- TOP 1.2.2.: Abbau Litfaßsäule in der Ludwig-Richter-Straße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Absenkung der Randsteine an den Fußgängerübergänge am Willibaldplatz / Westseite
+- TOP 2.2.: CSU: Städtisches Grundstück an der Agnes-Bernauer-Straße (Wochenmarkt); vorübergehende Aufstellung von Containern für die Grund- und Mittelschule an der Fürstenrieder Straße
+- TOP 2.3.: CSU: Aufstellung von 3 Containern auf dem Gelände der Schrobenhausener Mittelschule
+- TOP 2.4.: CSU: 1) Vollausbau der Sendlinger Spange unabhängig vom Bau der 2. Stammstrecke, 2) Verlängerung der U 5 West nach Pasing, 3) Erhalt der U 4 und U 5 im Westen auch nach Fertigstellung der 2. Stammstrecke (ohne Taktausdünnung)
+- TOP 2.5.: Bündnis 90 / Die Grünen: Kinderbetreuungsplätze Gelände Zschokke- / Westendstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 4.900 ? für musikalische Veranstaltungsreihe ab Juni 2013 bis April 2014; Antragsteller: Binario 11 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.027 ? für Wochenendfreizeit von 05. bis 07.07.13; Antragssteller: Initiativgruppe-Interkulturelle Begegnung und Bildung e.V. - <div>nach Antrag</div>
+- TOP 3: Beschlussvorlage Referat für Arbeit und Wirtschaft: Buslinie 51 und 168; Verbesserungen an der Haltestelle ?Fürstenrieder Straße? (Empfehlung Nr. 08-14 / E 01599 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 20.11.12) - <div>nach Antrag</div>
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 5.854,30 ? für Gestaltung und Druck eines Seniorenstadtteilplans für Laim; Antragsteller: Arbeitsgruppe ?Seniorenstadtteilplan Laim? - <div>nach Antrag</div>
+- TOP 3.5.: Antrag UA Kultur: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 / Anteil für Eigenveranstaltungen in Höhe von 6.000 Euro für Kammermusikalisches Festival im Interim im November 2013
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.05.13: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz), Vorbereitender Trassierungsbeschluss
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 13.05.13: Anwohnerstraßenfest am Weißenfelderplatz am 20.07.13
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 13.05.13: Open Air Gottesdienst am 27.06.13 am Laimer Anger
+- TOP 4.4.: Pfaffenhofener Platz 15: Fällung von 1 Kiefer
+- TOP 4.5.: Schreiben Direktorium vom 13.05.13: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben (Antrag Nr. 08-14 / B 04578 des BA 16 Ramersdorf-Perlach vom 05.02.13)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 15.05.13: Grünanlage an der Schrobenhausener Str. 1, Pfarrfest am 14.07.13
+- TOP 4.7.: Schreiben Referat für Arbeit und Wirtschaft vom 16.05.13: Hinweis in den S-Bahnen an der Haltestelle "Hauptbahnhof" auf die Möglichkeit für in ihrer Mobilität eingeschränkte Personen, links (von Westen kommend) auszusteigen (Empfehlung Nr. 08-14 / E 01600 der Bürgerversammlung vom 20.11.12); Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft am 16.07.13
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 98: Errichtung einer Freischankfläche in Wechselnutzung (ca. 80 qm im Wirtsgarten / ca. 16 qm im Vorgarten); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.2.: Elsenheimerstr. 7-13: Nutzungsänderung und Umbau ME 03 / Teilfläche einer Kindertagesstätte; hier: Baupläne
+- TOP 5.3.: Paul-Lagarde-Str. 20-26: Anbau von Stahlbalkonen an der Südseite / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.4.: Fachnerstraße: Neubau eines Einfamilienhauses mit Garage; hier: Baupläne
+- TOP 5.5.: Landsberger Str. 191-191a: Neubau eines Büro- und Geschäftshauses mit Einzelhandel, Gastronomie und Arztpraxen / Tektur; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.05.13: Einladung zur Informationsveranstaltung Denkmalschutz am 10.06.13
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 23.04.13
+- TOP 7.2.: Sitzung UA Kultur vom 23.04.13
+- TOP 7.3.: BA-Sitzung vom 07.05.13
+- TOP 7.4.: Ortstermin UA Umwelt / Verkehr am 24.05.13
+- TOP 7.5.: Sitzung UA Bau am 29.05.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 26.04.13: Budgetmittel des BA 25; Ablehnung einer beantragten Zuwendung; Antragsteller: post it - productions GbR
+- TOP 8.2.: Schreiben Direktorium vom 26.04.13: Budgetmittel des BA 25; Bewilligung einer beantragten Zuwendung; Antragsteller: Bohemia After Dark e.V.
+- TOP 8.3.: Schreiben Direktorium vom 03.05.13: Städtische Telefonbücher für BA-Mitglieder (Schreiben BA vom 12.04.13)
+- TOP 8.4.: Schreiben Direktorium vom 13.05.13: Budgetmittel des BA 25; Bewilligung einer beantragten Zuwendung; Antragsteller: PA / Spielen in der Stadt e.V.
+- TOP 8.5.: Schreiben Direktorium vom 13.05.13: Budgetmittel des BA 25; Bewilligung einer beantragten Zuwendung; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.6.: Schreiben Referat für Bildung und Sport vom 25.04.13: Bürgeranliegen bzgl. Antrag auf Aufnahme in den städtischen Hort Droste-Hülshoff-Str. 3 und 9, Antrag auf Einordnung in Rangstufe 1 (Schreiben BA vom 10.04.13)
+- TOP 8.7.: Schreiben Sozialreferat vom 26.04.13: Zweckentfremdung von Wohnraum; Geyerspergerstraße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 07.05.13: Gaststätte "Lunch-Box", Landsberger Str. 324; unveränderte Fortführung
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 13.05.13: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Hogenbergstraße und Veit-Stoß-Straße, Fahrbahnsanierung
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 16.05.13: Drehgenehmigung für 20.05.-21.05.13, Westendstraße / Zschokkestraße
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 21.05.13: Drehgenehmigung für 28.05.-29.05.13, Agnes-Bernauer-Str. 51
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 21.05.13: Anzeige einer Versammlung unter freiem Himmel am 06.06.13, Von-der-Pfordten-Str. 40 / 42
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 21.05.13: Drehgenehmigung für 22.05.13, Landsberger Str. 335-337
+- TOP 8.14.: Schreiben Baureferat vom 07.05.13: Friedenheimer Straße, Sanierung der Fahrbahn zwischen Agnes-Bernauer-Straße und Landsberger Straße
+- TOP 8.15.: Schreiben Baureferat vom 08.05.13: Fürstenrieder Straße, Sanierung des Fahrbahnbelags in Teilflächen zwischen der Hogenbergstraße und der Landsberger Straße
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.03.13: Agnes-Bernauer-Str. 2; Neubau eines Mehrfamilienhauses (31 WE) mit Tiefgarage (38 Stpl) an Bestandsgiebel Agens-Bernauer-Str. 2 und Schäufeleinstr. 5 (Agnes-Bernauer-Str. 2-6 / Schäufeleinstr. 13-21) / Vorbescheid
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.04.13: Agnes-Bernauer-Str. 16; Neubau eines Mehrfamilienhauses (34 WE) mit Tiefgarage (28 Stpl) / Vorbescheid
+- TOP 8.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.05.13: Immünsterstr. 52 a; Fällungsgenehmigung
+- TOP 8.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.13: Überplanung des gesamten Geländes an der Hans-Thonauer-Straße / Ecke Westendstraße (ehemaliger Straßenbahnbetriebshof und Busbetriebshof West) (Antrag Nr. 08-14 / B 03336 des BA 25 vom 06.10.11)
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.04.13: Laimer Unterführung (West) und Umweltverbundröhre (Ost)
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 30.04.13: Baumaßnahmen der SWM; Stromprojekt Landsberger Straße
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 13.05.13: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Mathunistraße
+- TOP 8.23.: Schreiben Referat für Gesundheit und Umwelt vom 16.05.13: Mobilfunk; Erweiterungsvorhaben an bestehenden Mobilfunkstandorten mit LTE
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 30.04.13: Wirtschafts-Info 04/2013
+- TOP 8.25.: Bautenliste vom 22.04.-28.04.13 1. Erstantragsverfahren a) Elsenheimerstr. 31 b) Junkerstr. 71 c) Junkerstr. 67 d) Gotthardstr. 154 2. Änderungsverfahren a) Flantinstr. 10 b) Flotowstr. 30
+- TOP 8.26.: Bautenliste vom 29.04.-05.05.13: 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 98 b) Weiß-Ferdl-Str. 22 c) Elsenheimerstr. 7
+- TOP 8.27.: Bautenliste vom 06.05.-12.05.13 1. Erstantragsverfahren a) Fachnerstraße
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 29.04.13: Baumaßnahmen der Stadtwerke; Stichtag: 29.04.13
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 06.05.13: Baumaßnahmen der Stadtwerke; Stichtag: 06.05.13
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 13.05.13: Baumaßnahmen der Stadtwerke; Stichtag: 13.05.13
+- TOP 8.31.: Beschluss des Ausschusses für Bildung und Sport vom 10.04.13: Platz- und Belegungszahlen der Kindertageseinrichtungen in der LH München, Tageseinrichtungsjahr 2012/2013 (Sitzungsvorlage Nr. 08-14 / V 11617)
+- TOP 8.32.: Beschluss des Bauausschusses vom 16.04.13: A) Bürgerbeteiligung bei Platzgestaltungen, B) Gestaltungsmaßnahmen im öffentlichen Raum (Sitzungsvorlage Nr. 08-14 / V 11607)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.13: Erhaltungssatzungen (Sitzungsvorlage Nr. 08-14 / V 11695)
+- TOP 8.34.: Beschluss des Verwaltungs- und Personalausschusses vom 17.04.13: Änderung der Satzung für die Bezirksausschüsse der LH München; 1. ) Vorberatung in der BA-Satzungskommission vom 07.03.13: a) Entscheidungsrechte bei der Nutzung des gesamten öffentlichen Raumes, b) Änderung der Beteiligungsrechte der BAs im Bereich des Referat für Bildung und Sport bei grundsätzlichen Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen, c) Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtischen Eckdaten (sog. Eckdatenbeschluss), d) Kein Platz für (Neo)-Nazis, e) Benennung von Beauftragten gegen Rechtsextremismus durch die BAs, f) Budget der BAs, Ausweitung der 6-Wochen-Vorlauffrist um das Erfordernis einer inhaltlich qualifizierten Antragstellung (keine "Fristwahrungsanträge"), 2.) Umsetzung der Empfehlungen in eine Änderungssatzung (Sitzungsvorlage Nr. 08-14 / V 11515)
+- TOP 8.35.: Beschluss des Umweltausschusses vom 07.05.13: Lärmminderungsplanung für München, Lärmaktionsplan (Sitzungsvorlage Nr. 08-14 / V 11894)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13: OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert (Sitzungsvorlage Nr. 08-14 / V 11820)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13: Perspektive München - Fortschreibung 2012, Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien (Sitzungsvorlage Nr. 08-14 / V 11217)
+- TOP 8.38.: Beschluss des Bauausschusses vom 14.05.13: Barrierefreiheit für Menschen mit Behinderungen (Sitzungsvorlage Nr. 08-14 / V 06383)
+- TOP 8.39.: Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.13: Bekämpfung von Ameisen in Kinderspielbereichen (Sitzungsvorlage Nr. 08-14 / V 11667)
+- TOP 8.40.: Schreiben Kreisjugendring München-Stadt vom 08.05.13: Protokoll Informationsveranstaltung Jugendbeteiligung am 25.04.13
+- TOP 8.41.: Schreiben Arbeitskreis Attraktiver Nahverkehr (AAN) im München Forum e.V. vom 12.05.13: Stellungnahme des AAN zum Leistungsprogramm 2014 der MVG
+- TOP 8.42.: Schreiben Kirchenchor St. Philippus vom 10.05.13: Bericht zum Kirchenkonzert am 25.11.12
+- TOP 1.2: Bürgerpost an den BA
