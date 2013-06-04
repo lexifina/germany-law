@@ -1,0 +1,108 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2013-06-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2782938
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2782938
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Bennenung einer/eines Beauftragten gegen Rechtsextremismus - <div>Herr Guinand</div>
+- TOP 1.4: Bericht der BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 1: St.-Cajetan-Straße, Tempo 30 Zone Bodenmarkierungen an der Einfahrt der Zone von der St.-Martin-Straße, der Balanstraße und auf Höhe der Einfahrt Kustermannpark Empfehlung Nr. 08-14 / E 01338 der Bürgerversammlung des 16. Stadtbezirkes ? Ramersdorf-Perlach am 03.05.2012 Sitzungsvorlage Nr. 08-14 / V 12001; Beschluss des Bezirksausschuss 16 - <div>Zustimmung</div>
+- TOP 1.1.: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 AntragstellerIn: PA/Spielen in der Stadt e.V.: für die Maßnahme: Ferienaktion von 01. bis 14.08. und Zirkus Pumpernudl von 18. bis 20.09.13; Antragssumme: 2.920.- ?; Sitzungsvorlage Nr. 08-14 / V 12119; Beschluss des Bezirksausschuss 16; Beschlussvorlage des Direktoriums - <div>Zustimmung</div>
+- TOP 3: Anträge
+- TOP 3.1.: Otto-Hahn-Ring, Schild ?Achtung Kinder? und eine Temporeduzierung auf 30 km/h auf Höhe der Kinderkrippe; Antrag der AWO-Kinderkrippe Otto-Hahn-Ring ?siekids? vom 29.04.2013 (TOP 3.1.4 vom 07.05.2013) - <div>Ortstermin, in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.2.: Mögliche Verbindung der Fasangarten- und der Unterhachingerstraße; Verkehrlicher Grundsatzbeschluss München-Ost; Existenzsicherung eines Betriebs; Bürgerschreiben vom 06.05.2013 (TOP 3.1.2 vom 07.05.2013) zu TOP 3.1.2 Bürgerschreiben vom 28.05.2013 - <div>WL an das Referat für Stadtplanung und Bauordnung</div>
+- TOP 3.3.: Verbesserung von Fahrradrouten von Perlach in die Innenstadt sowie nach Giesing; Antrag der Fraktion von Bündnis 90/Die Grünen im BA 16 vom 20.05.2013 zu TOP 3.1.3 Ergänzungsantrag der Fraktion von DaCG/ÖDP vom 29.05.2013 und ?Mobiler Ortstermin? zum Radverkehr im 16. Stadtbezirk und Prüfung einer Fußgänger- und Radverkehrsbrücke über den Mittleren Ring im Bereich Ramersdorf; Antrag der CSU-Fraktion im BA 16 vom 02.06.2013 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.1.: Erfassung und Kartierung der im 16. Stadtbezirk vorhandenen Spielhallen und Wettbüros; Antrag der CSU-Fraktion im BA 16 vom 02.06.2013 - <div>nach Antrag</div>
+- TOP 3.1.: Aufstellen von Bienenvölkern im Grünbereich; Bürgeranfrage vom 20.05.2013 - <div>in den UA Umwelt, Klima, Grünplanung und Gesundheit verwiesen</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Gleichstellungsbeauftragte
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Inklusionsbeauftragte
+- TOP 4.6.9: Internet
+- TOP 4.7: Arbeitsgruppe zur Verbesserung der Infrastruktur im Ostpark
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Anhörungen des Kreisverwaltungsreferats zu Veranstaltungen im 16. Stadtbezirk 5.1.1.1 Im Gefilde; Familienfest der Waldperlacher Bürger IG am 20.07.2013 5.1.1.2 Ostpark; Sponsorenlauf der Städtischen Orientierungsstufe am 12.07.2013 5.1.1.3 St.-Ingbert-Str; Straßenfest in der Umkehrschleife am 13.07.2013 (Ersatz: 20.07.2013) 5.1.1.4 Karl-Preis-Platz; 2 Flomärkte des AKA e. V. am 13.07. und 12.10.2013 5.1.1.5 Ostpark, Bolzplätze; Ostparkcup 2013 des Facharbeitskreis Jugend des Kreisjugendrings München am 12.07.13 5.1.1.6 Im Gefilde, Go-Skateboarding-Day-Skatecontest am 21.06.13 zu TOP 5.1.1.6 Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 BA-Satzung - <div>Zustimmung</div>
+- TOP 5.2.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen; Sitzungsvorlage Nr. 08-14 / V 10157; Beschlussentwurf für die Sitzung des Ausschusses für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 11.04.2013 mit der Bitte um Stellungnahme (TOP 5.1.3 vom 07.05.2013 Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 BA-Satzung abgegeben) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.3.: Leistungsprogramm der Münchner Verkehrsgesellschaft (MVG) für das Jahr 2014; Fahrplanwechsel Dezember 2013; Anhörung der Bezirksausschüsse; Zuleitung der MVG vom 02.04.2013 mit der Bitte um Stellungnahme (TOP 5.1.4 vom 07.05.2013, Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 BA-Satzung abgegeben) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.4.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen; a) aktueller Sachstand, b) Anträge und Empfehlungen; Sitzungsvorlagen Nr. 08-14 / V 11189; Beschlussentwurf für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 (VB); Zuleitung des Referats für Stadtplanung und Bauordnung vom 17.04.2013 mit der Bitte um Stellungnahme (TOP 5.1.5 vom 07.05.2013, Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 BA-Satzung abgegeben) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.1.: TOP 5.3.1 SV Neuperlach München e.V. 1. Errichtung einer Dreifachsporthalle mit Kletter- und Boulderzentrum auf dem Gelände der Bezirkssportanlage Bert-Brecht-Allee 17; Förderung der Baumaßnahme nach den städtischen Sportförderrichtlinien 2. Übernahme der Bezirkssportanlage Bert-Brecht-Allee 17 in Vereinsträgerschaft ab dem 01.01.2015; Berechnung des Einsparpotentials für die ersten 10 Jahre der Vereinsträgerschaft; Anpassung des Mehrjahresinvestitionsprogramms 2012 ? 2016; Beschlussentwurf für die Sitzung des Ausschusses für Bildung und Sport des Stadtrates vom 03.07.2013 (VB); Zuleitung des Referats für Bildung und Sport vom 29.05.2013 mit der Bitte um Stellungnahme - <div>in den UA Bildung, Soziales, Integration, Sport verwiesen</div>
+- TOP 5.1.: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung 5.4.1.1 Bayerwaldstr.; Umbau und Nutzungsänderung eines Bürogebäudes in eine Grundschule; Anhörung vom 24.04.2013 (TOP 5.4.1.6 vom 07.05.2013) 5.4.1.2 Hofangerstr.; Neubau einer Wohnanlage mit Tiefgarage ? Vorbescheid; Zuleitung vom 30.04.2013 (TOP 5.4.1.7 vom 07.05.2013) 5.4.1.2 Stemplingeranger Nutzungsänderung eines Ladengeschäfts in eine Spielstätte, Verbindung zweier Nutzungsbereiche durch eine Treppe (UG/EG) sowie zweier Wohnungen zu einer WE mittels Türdurchbruch (2. OG), Errichtung eines zusätzl. Stellplatzes; Nutzungsänderung/Tausch: EG-Laden mit UG-Spielstätte zu UG-Laden und EGSpielstätte; Anhörung vom 06.05.2013 5.4.1.3 Scherbaumstr; Neubau eines Dreispänners mit Carport; Anhörung vom 06.05.2013 - <div>gem. den Empfehlungen des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.1.: Ostparksee; Instandsetzung der Versickerungsanlagen und Reinigung; Zuleitung des Referats für Gesundheit und Umwelt vom 06.05.2013 mit der Bitte um Stellungnahme - <div>siehe Protokoll</div>
+- TOP 5.2.: Aufstellen von Bienenvölkern im Grünbereich; Bürgeranfrage vom 20.05.2013 mit der Bitte um Stellungnahme - <div>in den UA Umwelt, Klima, Grünplanung und Gesundheit verwiesen</div>
+- TOP 5.3.: Mobilfunk; Suchkreismeldung für den Bereich Perlach; Zuleitung des Referats für Gesundheit und Umwelt vom 15.05.2013 mit der Bitte um Stellungnahme - <div>in den UA Umwelt, Klima, Grünplanung und Gesundheit verwiesen</div>
+- TOP 5.1.: Vielfältige Maßnahmen zur Bürgerbeteiligung; Änderungsantrag der CSU-Stadtratsfraktion für die gemeinsame Sitzung des Verwaltungs- und Personalausschusses, des Planungsausschusses und des Finanzausschusses vom 21.11.2012; Zuleitung des Direktoriums vom 15.04.2013 mit der Bitte um Stellungnahme (TOP 5.6.1 vom 07.05.2013) - <div>gem. der Empfehlung der UA Verkehr, Bau und Umwelt</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Verkehrlicher Grundsatzbeschluss für den Münchener Südosten a) Verkehrlicher Grundsatzbeschluss, b) Bebauungsplan Nr. 57ce, 57cd, 1060f Wilhelm-Hoegner-Straße (Beendigung des Planungsverfahrens), c) Anträge und Empfehlungen; Sitzungsvorlage Nr. 08-14/V 10541; Stellungnahme des BA 16, beschlossen in der Sitzung am 04.12.2012; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 (VB) hierzu: Bürgerschreiben vom 10.05.2013 an die Regierung von Oberbayern - <div>zur Kenntnis genommen bzw.  in den UA Verkehr und Öffentliche Ordnung verwiesen -</div>
+- TOP 6.2.: Erhalt der Bushaltestelle Langbürgener Straße/Blankstadel der Linie 144; Antrag Nr. 08-14 / B 04774 des BA 16 vom 10.04.2013; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 18.04.2013 - <div>zur Kenntnis genommen bzw.  in den UA Verkehr und Öffentliche Ordnung verwiesen -</div>
+- TOP 6.3.: Überdachung des U-Bahnabgangs Neuperlach Zentrum sanieren; Antrag Nr. 08-14 / B 4743 des BA 16 vom 10.04.2013; Antwortschreiben der Stadtwerke München vom 13.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Verkehr und Öffentliche Ordnung verwiesen -</div>
+- TOP 6.1.: Standortsicherung für das Sozialbürgerhaus Ramersdorf-Perlach; Sitzungsvorlage Nr. 08-14 / V 11585; Beschluss des Kinder- und Jugendhilfe- und Sozialausschusses in der gemeinsamen Sitzung am 07.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 6.2.: Sanierung des Rasenplatzes in der Freizeitanlage Waldperlach/Im Gefilde; Antrag Nr. 08-14 / B 4434 des BA 16 vom 04.12.2012; Stellungnahme des BA 16 in der Sitzung am 05.03.2013; Antwortschreiben des Baureferats vom 07.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 6.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/19; Hochäckerstraße (nördlich), BAB 8 München-Salzburg (östlich), Peralohstraße (südlich) und Unterhachinger Straße / Ottobrunner Straße (westlich) und BAB 8 München-Salzburg (östlich), Fasangartenstraße (westlich); Beschlüsse des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 (VB) 6.4.1.1 Teilbereich: BAB 8 München-Salzburg (östlich), Fasangartenstraße (westlich) - Kompostieranlage; Endgültiger Beschluss; Sitzungsvorlage Nr. 08-14 / V 11852 6.4.1.2 Teilbereich: Hochäckerstraße (nördlich), BAB 8 München-Salzburg (östlich), Peralohstraße (südlich) und Unterhachinger Straße / Ottobrunner Straße (westlich) - Wohnen Billigungsbeschluss und vorbehaltlich endgültiger Beschluss; Sitzungsvorlage Nr. 08-14 / V 11853 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 6.2.: a) Bebauungsplan mit Grünordnung Nr. 2045 Hochäckerstraße (nördlich), BAB München-Salzburg (östlich), Peralohstraße (südlich), Unterhachinger / Ottobrunner Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 57 l) b) Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetz (BBauG) übergeleiteter einfacher Bebaungspläne - Billigungsbeschluss -; Sitzungsvorlage Nr. 08-14/V 11846; Stellungnahme des BA 16 beschlossen in der Sitzung am 12.09.2012; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 (SB) hierzu: Bürgerschreiben vom 07.05.2013 und 09.05.2013 an das Referat für Stadtplanung und Bauordnung - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 6.3.: Bebauungsplan mit Grünordnung Nr. 1609, Hanns-Seidel-Platz; Auslobung des Realisierungswettbewerbes; Sitzungsvorlage Nr. 08-14/V 11411; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 6.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/23, Bahnlinie München Ost - Deisenhofen (östlich), Ständlerstraße (südlich) und Lauensteinstraße (nördlich), Endgültiger Beschluss; Sitzungsvorlage Nr. 08-14 / V 11854; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Online-Bürgerbeteiligung und Einrichtung einer Task-Force zum Hanns-Seidel-Platz; Antrag Nr. 08-14 / B 4280 des BA 16 vom 02.10.2012; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 16.01.2013; Stellungnahme des BA 16 in der Sitzung am 05.03.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 26.04.2013 - <div>Schreiben an das Referat für Stadtplanung und Bauordnung i. V. m. TOP 6.4.7</div>
+- TOP 6.6.: Einplanung von ?Mehr-Generationen-Wohnen? oder ähnlichen Wohnformen bei den Wohnungsneubaumaßnahmen Carl-Wery-Straße bzw. Hochäckerstraße; Antrag Nr. 08-14 / B 4346; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 06.02.2013; Nachfrage des BA 16 beschlossen in der Sitzung am 10.04.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 14.05.2013 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 6.7.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder, bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Antrag Nr. 08-14 / B 4578 des BA 16 vom 05.02.2013; Antwortschreiben des Direktoriums vom 13.05.2013 - <div>siehe unter TOP 6.4.4</div>
+- TOP 6.8.: Vollzug des Allg. Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ km 2, 117-Balanstraße, Bahnstrecke 5552 München Ost, Frankenwaldstraße ? Kreuzstr., km 2, 117; Stellungnahme des BA 16 beschlossen in der Sitzung am 07.05.2013; Schreiben des Referats für Stadtplanung und Bauordnung vom 14.05.2013 hierzu - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 6.1.: Powergymnastik mit Kinderbetreuung, Budgetantrag der Pfarrei Maria Ramersdorf, St. Pius - AK Familie; Beschluss und Anfrage des BA 16 in der Sitzung am 05.03.2013; Sitzungsvorlage Nr. 08-14 / V 11156; Antwortschreiben des Sozialreferats vom 14.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: 7.1.1 Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.1.1.1 Kleingaststätte "Hofangerstüberl", Hofangerstr.; Mitteilung vom 07.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Verkehr und Öffentliche Ordnung verwiesen. </div>
+- TOP 7.1.: Keine Umbenennung des "Kriegerdenkmals" in Perlach; Bürgerschreiben vom 25.04.2013 - <div>zur Kenntnis genommen</div>
+- TOP 7.1.: Unterstützung von kostenfreien Plätzen im Johanniter-Lilalu-Ferienprogramm 2013; Schreiben des Johanniter-Unfallhilfe e. V. vom 24.04.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7.2.: Barrierefreiheit für Menschen mit Behinderung; Antrag Nr. 08-14 / A 1525 der FDP-Stadtratsfraktion vom 04.05.2010; Sitzungsvorlage Nr. 08-14 / V 06383; Beschluss des Bauausschusses vom 14.05.2013 (SB) - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7.3.: Generalinstandsetzung von 5 Sporthalleneinheiten am Schulzentrum Quiddestraße 4; Wie geht es mit den Turnhallen am Schulzentrum Quiddestr. weiter?, Antrag Nr. 08-14 / A 1351 von Frau Stadträtin Sabathil vom 12.02.2010; Sitzungsvorlage Nr. 08-14 / V 10889; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.01.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7.4.: Kindertagesstätten sonstiger Träger; Leistung von Baukostenzuschüssen; Beschlüsse des Kinder- und Jugendhilfeausschusses des Stadtrats vom 29.01.2013 7.3.4.1 Haus für Kinder an der Pfälzer-Wald-Str. 68; Sitzungsvorlage Nr. 08-14 / V 10997 7.3.4.2 Haus für Kinder an der Quiddestr. 15; Sitzungsvorlage Nr. 08-14 / V 10998 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7.5.: Informations-Veranstaltung Jugendbeteiligung am 25.April 2013; Protokoll; Zuleitung der Die Aktion! Jugendbeteiligung München vom 08.05.2013 - <div>zur Kenntnis genommen bzw.  in den UA Bildung, Soziales, Integration und Sport verwiesen -</div>
+- TOP 7.1.: Aktuelle Bauvorhaben im 16. Stadtbezirk - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.2.: Unterrichtung über das Fällen von Gefahrenbäumen; Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Zuleitung des Baureferats vom 24.04.2013 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.3.: Mitteilungen über Grundstücksgeschäfte im 16. Stadtbezirk; Zuleitungen des Kommunalreferats 7.4.3.1 Rupertigaustraße; Zuleitung vom 22.04.2013 7.4.3.2 Hochäckerstraße; Zuleitung vom 08.05.2013 7.4.3.3 Fasangartenstraße; Zuleitung vom 08.05.2013 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 7.4.2.1 Anwesen Görzer Str. ; Zuleitung vom 29.04.2013 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.1.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 11667; Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.2013 - <div> zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen. </div>
+- TOP 7.2.: Lärmminderungsplanung für München; Sitzungsvorlage Nr. 08-14 / V 11894; Beschluss des Umweltschutzausschusses vom 07.05.2013 (VB) - <div> zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen. </div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.3.: Mögliche Verwendung der Mittel aus dem Budget der Bezirksausschüsse; Bürgeranfrage an das Direktorium vom 09.05.2013 und Schreiben des Direktoriums hierzu vom 15.05.2013 - <div>an den BA-Vorstand verwiesen</div>
+- TOP 7.4.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 07.03.2013 2. Umsetzung der Empfehlungen in eine Änderungssatzung Sitzungsvorlage Nr. 08-14 / V 11515 Beschluss des Verwaltungs- und Personalausschusses vom 17.04.2013 (VB) - <div>an den BA-Vorstand verwiesen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UA
