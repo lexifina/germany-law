@@ -1,0 +1,76 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-06-05T17:00:00+02:00
+- Ende: 2013-06-05T22:30:00+02:00
+- Ort: Karl-Marx-Straße 83, 12043 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2007
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2007
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Menschenrechte von Lesben, Schwulen, Bisexuellen und Transgender in Puschkin und ganz Russland schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verlängerung der Veränderungssperre 8-61/27 für das Grundstück Kanalstraße 8 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes 8-61 - "Stubenrauch-/Kanalstraße" - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan 8-64 - "Petunienweg/Fenchelweg" - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bebauungsplan XIV-263b - "Spielplatz Saalestraße West" - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2013/2014 sowie 2014/2015 und im Jahr 2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Benennung eines stellvertretenden Mitgliedes in den Beirat für Menschen mit Behinderung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Benennung eines stellvertretenden Mitgliedes in den Beirat für das Vivantes Klinikum Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Benennung eines stellvertretenden Mitgliedes in den Beirat für Migrationsangelegenheiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Nazitreff in Rudow? - beantwortet
+- TOP 9.2: Leistungsbetrug im JobCenter Neukölln 2012 - beantwortet
+- TOP 9.3: Auswirkungen des Zensus 2011 auf Neukölln - beantwortet
+- TOP 9.4: Zusätzliche Kitaplätze in Neukölln - beantwortet
+- TOP 9.5: Waßmannsdorfer Chaussee - beantwortet
+- TOP 9.6: Parkraumsituation rund um die Hufeisensiedlung - beantwortet
+- TOP 9.7: Asylbewerberunterkunft Späthstraße? - beantwortet
+- TOP 9.8: Neue Erkenntnisse zum MAERKER? - beantwortet
+- TOP 9.9: Neukölln - (K)Ein Platz für Grundschüler - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - beantwortet
+- TOP 10.1: Mietwohnungen vor Ferienwohnungen - beantwortet
+- TOP 10.2: Qualitätsverbesserung des Schulessens - beantwortet
+- TOP 10.3: Falschinformation zur Finanzierung der Jugendarbeit - beantwortet
+- TOP 10.4: Schulentwicklungsplan - beantwortet
+- TOP 10.5: Zwangsräumung in Neukölln - beantwortet
+- TOP 10.6: Soziale Verantwortung oder Zwangsräumungen? - beantwortet
+- TOP 10.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.8: Radweg in der Hannemannstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: U-Bahnhof Zwickauer Damm sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Alpha-Bündnis - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Vollzug der Energieeinsparverordnung (EnEV) stärken - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Linksextremistisch motivierte Straftaten in Neukölln - vertagt
+- TOP 12.2: Treffpunkt von Rechtsextremist_innen in Rudow? - vertagt
+- TOP 12.3: Schnüffeln in sozialen Netzwerken - vertagt
+- TOP 12.4: Neuköllner "Umsteiger_innen" im Schuljahr 2012/2013 - vertagt
+- TOP 12.5: Mietspiegel 2013 - vertagt
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Freifläche und Wohnungen auf den Buckower Feldern - überwiesen
+- TOP 14.2: Sehbehindertengerechte Stufen im Rathaus Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Hinweisschilder für Friedhöfe - überwiesen
+- TOP 14.4: Konferenz der Neuköllner öffentlichen Oberschulen - überwiesen
+- TOP 14.5: Schulstandort auf dem Tempelhofer Feld - überwiesen
+- TOP 14.6: Boddinstraße für Radfahrer freigeben - überwiesen
+- TOP 14.7: Mehrsprachiges Informationsblatt zu den neuen Schulabschlüssen BBR und MSA - vertagt
+- TOP 14.8: Parkplätze an der Fritz-Karsen-Schule - in der BVV abgelehnt
+- TOP 14.9: Kein Schnüffeln in sozialen Netzwerken - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Sozialleistungen an Scheinselbstständige - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Wohnungsbaupotenziale - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Sport-Campus auf der Tempelhofer Freiheit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
