@@ -1,0 +1,7 @@
+# TOP 3: Überweisungen aus der BVV
+
+- Sitzung: 18. (öffentliche, außerordentliche) Sitzung des Ausschusses für Stadtentwicklung und Tiefbau (2013-06-05)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=32350
+- Ergebnis: (offen)
