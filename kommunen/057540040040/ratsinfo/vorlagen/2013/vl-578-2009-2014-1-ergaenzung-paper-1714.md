@@ -1,0 +1,23 @@
+# 24. Änderung des Flächennutzungsplanes der Gemeinde Steinhagen - Beschlussfassung über die im Rahmen der Offenlage eingegangenen Anregungen und Beschluss zur anschließenden erneuten öffentlichen Auslegung
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-578-2009/2014 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2013-06-05
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZWykZa_m9HxiJXnH-QQXi90
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/1714
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (24. Änderung des Flächennutzungsplanes der Gemeinde Steinhagen 
+- Beschlussfassung über die im Rahmen der Offenlage eingegangenen Anregungen und Beschluss zur anschließenden erneuten öffentlichen Auslegung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYUleDP7fGtFKgEBKcdLzd7w9JGTk10R7b8-nf26vHWH/Beschlussvorlage_VL-578-2009-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV6PgLOdV1sWHmZC6lhIOQ8e3RwKejY9xUrazN3z2iwf/Anlage_1.pdf
+- Anlage: Beschlussvorlage (Anlage 1 b) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasxZif0A6wjkahKjpJ4y4lBPbdQwsxYywJ5Hp5mqR4t/Anlage_1_b.pdf
+- Anlage: Beschlussvorlage (Anlage 1 c) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfFsngbwpTSupuvM5eJTotSmdTsMpnjPuRiXVrWSqGA2/Anlage_1_c.pdf
+- Anlage: Beschlussvorlage (Anlage 1 d) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJNkbbMnQLENrIJS1hmx1G0LKnezE5M8gByu4WA5FqC/Anlage_1_d.pdf
+- Anlage: Beschlussvorlage (Anlage 1 e) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVxnUVbAonImjg0NOdsQjMe4xZ0Pro6Z-UmKrh-7GxyO/Anlage_1_e.pdf
+- Anlage: Beschlussvorlage (Anlage 1 f) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZzu_fBqpIhK_FncLdmQiRAKfUSrRQuJ0QjrlBaAe8FZ/Anlage_1_f.pdf
+- Anlage: Beschlussvorlage (Anlagen A - E) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBBdR5GIuLArCSQkzI_Ow0O0s3lsV7jREftLZOkdZ9U/Anlagen_A_-_E.pdf
+- Anlage: Beschlussvorlage (Anlagen F - I) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbD0-d90zLifBBUxhUG6KFD1YFrURr3ND3XA8XrH-Ljh/Anlagen_F_-_I.pdf
+- Anlage: Beschlussvorlage (Anlagen J - O) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZI5l8MvGJq0x4JpJdZCsIrNocIswFwbhbAygSviehfE/Anlagen_J_-_O.pdf
+- Anlage: Beschlussvorlage (Anlage P) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTfDfKsX3-ucyyKCSHHAO_pP2kcEDZ8ONmgzBPqdaw1d/Anlage_P.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/1177 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-186
