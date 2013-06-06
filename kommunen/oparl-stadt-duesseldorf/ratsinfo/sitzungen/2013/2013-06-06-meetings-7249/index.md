@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-06-06T14:00:00+02:00
+- Ende: 2013-06-06T21:25:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7249
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7249
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00196053.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00196053.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00196053.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell von CDU und FDP: Zensus 2011 - Auswirkungen für die Landeshauptstadt - beantwortet
+- TOP 3.2: Anfrage aktuell Bü90-Grü:Verbindungen zur Schaffrath-Stiftung - beantwortet
+- TOP 3.3: Anfrage aktuell SPD:Entwicklung des Schuldenstandes der Landeshauptstadt Düsseldorf - beantwortet
+- TOP 4: Anfragen - beantwortet
+- TOP 4.1: Anfrage Freie Wähler: Zukunft Wohnen.Düsseldorf - beantwortet
+- TOP 4.2: Anfrage Freie Wähler: Anfrage zu den Jahresabschlüssen der Stadt Düsseldorf - beantwortet
+- TOP 4.3: Anfrage Dr. Kirchner:Erzielte Steuer-Einnahmen im Zeitraum Januar bis Mai 2013 - beantwortet
+- TOP 4.4: Anfrage Dr. Kirchner: Netto-Finanzposition der Stadt Düsseldorf - beantwortet
+- TOP 4.5: Anfrage CDU: Einsatz jugendlicher Testkäufer - beantwortet
+- TOP 4.6: Anfrage CDU: Archäologische Zone / Jüdisches Museum Köln · Auswirkungen für die Landeshauptstadt - beantwortet
+- TOP 4.7: Anfrage der Ratsfrau Sylvia Pantel: 3. Bildungskonferenz: Schwerpunkte, Ergebnisse u.a. - schriftlich beantwortet
+- TOP 4.8: Anfrage Die Linke: Städtische Unterstützung für den "Kurfürst-Jan-Wellem-Pokal" - schriftlich beantwortet
+- TOP 4.9: Anfrage Die Linke: Einsatzfähigkeit der Feuerwehr bei einem möglichen Brand von radioaktiven Frachtg - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh Laubenburg: Würdiges Gedenken an Hilarius Gilges - schriftlich beantwortet
+- TOP 4.11: Anfrage Bü90-Grü: Teilnahme am 1. Deutschen Diversity-Tag - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Betrauung einer städtischen Beteiligungsgesellschaft mit - einstimmig beschlossen
+- TOP 7: Bereitstellung der Haushaltsmittel für den Ausgleich der Feuerwehrüberstunden - einstimmig beschlossen
+- TOP 8: Satzung über Kostenersatz im Sinne von § 41 Abs. 2, 3 und 4 Satz 1 des Gesetzes über den Feuerschutz - einstimmig beschlossen
+- TOP 9: Entgeltordnung für freiwillige Hilfeleistungen im Sinne des § 41 Abs. 4 S. 2 des Gesetzes über den - zurückgezogen
+- TOP 9.1: ÄA Freie Wähler:Entgeltordnung für freiwillige Hilfeleistungen - zur Kenntnis genommen
+- TOP 10: Städtische Förderung zum Erwerb von Wohneigentum - Evaluation der städtischen Richtlinien - einstimmig beschlossen
+- TOP 11: ZUKUNFT WOHNEN.DÜSSELDORF -Ein Handlungskonzept für den Wohnungsmarkt - mehrheitlich beschlossen
+- TOP 11.1: Ergänzungsantrag der Ratsfraktionen von CDU, BÜ90/GRÜ und FDP: ZUKUNFT WOHNEN. - mehrheitlich beschlossen
+- TOP 11.2: ÄA SPD: ZUKUNFT WOHNEN.DÜSSELDORF – Ein Handlungskonzept für den Wohnungsmarkt - mehrheitlich abgelehnt
+- TOP 11.3: ZUKUNFT WOHNEN.DÜSSELDORF - Ein Handlungskonzept für den Wohnungsmarkt - Ergänzungssantrag der B90/D - zurückgezogen
+- TOP 11.4: Ergänzungsantrag BÜNDNIS 90/DIE GRÜNEN zu 61/ 25/2013: Messbare Ziele nennen - zurückgezogen
+- TOP 11.5: Ergänzungsantrag BÜNDNIS 90/DIE GRÜNEN zu 61/ 25/2013: Neue Impulse für gemeinschaftliche Wohnformen - zurückgezogen
+- TOP 11.6: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage 61/ 25/2013 Zukunft Wohnen. Düsse - zurückgezogen
+- TOP 11.7: Änderungsantrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN zur Vorlage 61/ 25/2013 Zukunft Wohnen. Düsse - zurückgezogen
+- TOP 12: Schadowstraße Neuordnung und Gestaltung der Schadowstraße - mehrheitlich beschlossen
+- TOP 12.1: ÄA CDU FDP: Neuordnung und Gestaltung der Schadowstraße - mehrheitlich beschlossen
+- TOP 12.2: ÄA SPD: Neuordnung und Gestaltung der Schadowstraße - zur Kenntnis genommen
+- TOP 12.3: Änderungsantrag der Ratsfraktion zur Vorlage Schadowstraße - zurückgezogen
+- TOP 12.4: Änderungsantrag der Ratsfraktion Bündnis 90/Die Grünen zur Vorlage Schadowstraße - zur Kenntnis genommen
+- TOP 13: Umbenennung eines Teils der August-Thyssen-Straße - einstimmig beschlossen
+- TOP 14: Denkmalbericht für die Jahre 2011 und 2012 - einstimmig beschlossen
+- TOP 15: Neues Übergangssystem Schule-Beruf in Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 16: Kündigung der Mitgliedschaft in der IT-KR/R - einstimmig beschlossen
+- TOP 17: Annahme einer Schenkung des Industrie-Club e.V. Düsseldorf und Aufstellung einer Nagel-Skulptur von - einstimmig beschlossen
+- TOP 18: Kuratorium der Goethe Museum, Anton und Katharina Kippenberg - Stiftung - einstimmig beschlossen
+- TOP 19: Gutachtergremium für Entschädigungen beim U-Bahn-Bau - einstimmig beschlossen
+- TOP 20: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 21: Kreispolizeibeirat - einstimmig beschlossen
+- TOP 22: Wiederwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 23: Wiederwahl eines Schiedsmannes - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - zurückgezogen
+- TOP 25: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Antrag Bü90-Grü: Gutachten zur Zukunft der Düsseldorfer Wasserversorgung - mehrheitlich abgelehnt
+- TOP 26.1.1: ÄA CDU und FDP: Gutachten zur Zukunft der Düsseldorfer Wasserversorgung - zurückgezogen
+- TOP 26.2: Antrag Bü90-Grü: Maßnahmenpaket zur Einhaltung der Stickstoffdioxid-Grenzwerte - mehrheitlich abgelehnt
+- TOP 26.3: Antrag der Ratsfraktionen von CDU und FDP: Zukunft der Düsseldorfer Wasserversorgung sichern - mehrheitlich beschlossen
+- TOP 26.4: Antrag FDP und CDU: Bürgerinnen und Bürger sponsern Sitzbänke - mehrheitlich beschlossen
+- TOP 26.5: Antrag SPD: Pylon des Tausendfüßlers als Düsseldorfer Kulturdenkmal erhalten - mehrheitlich abgelehnt
+- TOP 26.6: Antrag der Ratsfraktionen von CDU, SPD und FDP: Regionalverbund Ruhr - mehrheitlich beschlossen
+- TOP 26.7: Antrag Linke: Landeszuschuss für Kindertageseinrichtungen - mehrheitlich abgelehnt
+- TOP 26.8: Antrag Freie Wähler: Gebärden Dolmetscher in allen Gremiensitzungen - mehrheitlich abgelehnt
+- TOP 26.9: Antrag Freie Wähler: Konzept Unterbringung Flüchtlinge - vertagt
