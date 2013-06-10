@@ -1,0 +1,10 @@
+# TOP 4.1: Änderung des Flächennutzungsplanes des bislang als Gemeinbedarfsfläche dargestellten Areals im Geltungsbereich des Bebauungsplanes Nr. 1.45.5 "Holzhausen Süd" und Aufstellung des Bebauungsplanes Nr. 1.45.7 "Holzhausen Süd" im Parallelverfahren gemäß § 8 Abs. 3 BauGB sowie im beschleunigten Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 BauGB in Verbindung mit § 13a BauGB - Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB, Zustimmung zum Entwurf, Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB und der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB sowie die Auslegung gemäß § 3 Abs. 2 BauGB und die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB
+
+- Sitzung: Bau- und Umweltausschuss (28. Sitzung) (2013-06-10)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/18531
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5508
+- Beschluss (Datei): Beschlusstext (Änderung des Flächennutzungsplanes des bislang als Gemeinbedarfsfläche dargestellten Areals im Geltungsbereich des Bebauungsplanes Nr. 1.45.5 "Holzhausen Süd" und Aufstellung des Bebauungsplanes Nr. 1.45.7 "Holzhausen Süd" im Parallelverfahren gemäß § 8 Abs. 3 BauGB sowie im beschleunigten Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 BauGB in Verbindung mit § 13a BauGB
+- Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB, Zustimmung zum Entwurf, Beschluss über die frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB und der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB sowie die Auslegung gemäß § 3 Abs. 2 BauGB und die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdVqQs4uMGIO7BHsVB2GEuGwRtMsZXChaUsPt66IKeZQ/Beschlusstext_185-2013_-oeffentlich-_Bau-_und_Umweltausschuss_10.06.2013.pdf
