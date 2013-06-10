@@ -1,0 +1,57 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-06-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748247
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748247
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: UA Verkehr
+- TOP .3.: UA Wohnen, Bau und Umwelt vom 03.06.13
+- TOP .1.: Budget der Bezirksausschüsse, STÜPS Schulsozialarbeit an der Grundschule Blumenau, Präventionsprojekt ?Schlaue ? Power ? selbstbewusste und starke Kinder? von Oktober bis Dezember 2013 (Direktorium, 17.05.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.2.: Gräfelfinger Str. 66-70c, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums - Vorbescheid (Referat für Stadtplanung und Bauordnung, 21.05.13)
+- TOP 6.3.: Guardinistr. 109-123, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums - Vorbescheid (Referat für Stadtplanung und Bauordnung, 21.05.13)
+- TOP 6.4.: Beschlussentwurf für den gemeinsamen Ausschuss für Stadtplanung und Bauordnung, den Ausschuss für Arbeit und Wirtschaft, den Bauausschuss und den Kreisverwaltungsausschuss: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz) Vorbereitender Trassierungsbeschluss Kein weiterer Ausbau der Straßenbahnlinie vom Romanplatz zum Ratzingerplatz (Referat für Stadtplanung und Bauordnung, 02.05.13) (vertagt aus 05/13)
+- TOP 6.5.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben, BA-Antrag Nr. 08-14 / B 04578 des BA 16 Ramersdorf-Perlach vom 05.02.13 (Direktorium, 13.05.13)
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Schulfest der staatlichen Grundschule am Canisiusplatz auf dem Ersatzpausenhof am 21.06.2013 (Kreisverwaltungsreferat, 14.05.13 und 16.05.13)
+- TOP 6.8.: Spendenlauf der Grundschule um die St.-Canisius-Kirche am 21.06.13 (Kreisverwaltungsreferat, 22.05.13)
+- TOP 6.9.: Anwohnerstraßenfest in der Wilhelm-Weitling-Straße am 29.06.13 (Kreisverwaltungsreferat, 21.05.13)
+- TOP 6.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7: Baumschutz
+- TOP 7.1.: Silberblattstraße, gem. Baumbestandsplan Nr. 7650
+- TOP 7.2.: Gräfelfinger Straße 163, 1 Fichte
+- TOP 7.7.: Aurikelstraße 35, 1 Ziertanne
+- TOP 7.8.: Gräfelfinger Straße 66 - 70 c, gem. Baumbestandsplan, 6 Bergahorn
+- TOP 7.9.: Guardinistraße 109 - 123, gem. Baumbestandsplan, 4 Bergahorn
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 9: Antworten der Stadt
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der SWM, Fernwärmeprojekt Sauerbruchstraße (SWM, 08.05.13)
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Il Fiore", Ossingerstraße 4 (Kreisverwaltungsreferat, 06.05.13)
+- TOP 8.4.: Zweckentfremdung von Wohnraum - Gräfelfinger Straße (Sozialreferat, 14.05.13) - Würmtalstraße (Sozialreferat, 16.05.13) - Niederhedernstraße (Sozialreferat, 16.05.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.3.: Errichtung von eingeschränkten Haltverboten vor den Kindertageseinrichtungen Marchioninistraße 3 - 5 und Waldwiesenstraße (Kreisverwaltungsreferat, 06.05.13)
+- TOP 10.4.: Parksituation vor dem Garagenhaus Kurparkstraße 65 (Kreisverwaltungsreferat, 02.05.13)
+- TOP 10.4.: Einladung "Raumordnerisches Entwicklungskonzept München Südwest, Zwischenpräsentation" am Dienstag, 11.06.13 um 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 15.05.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.6.: Newsletter Bauzentrum München Nr. 5-2013 (Referat für Gesundheit und Umwelt, 16.05.13)
+- TOP 12.7.: Arbeitsgruppe "Gedenken an den 09. November 1938", Veranstaltungen am 09.11.2013
+- TOP 12.9.: Festschrift zum 450-jährigen Bestehen des Alten Südlichen Friedhofes (Referat für Gesundheit und Umwelt, 29.05.13)
+- TOP 12.10.: Broschüren zum neuen Münchner Förderprogramm Energieeinsparung (Referat für Gesundheit und Umwelt, 27.05.13)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11564 (nach Antrag): Impulse für mehr Wohnungsbau in München: Wohnungspotentiale durch Dachgeschossausbau heben!
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 09.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11364 (nach Antrag): Zuschussnehmerdatei 2013 Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ASZ Kleinhadern-Blumenau des Caritasverbandes (CV), Anlage, Seite 3, Nr. 10, Ansatz in 2013= 215.954 ? und zur Altenwohnanlage Konrad-Dreher-Str. 19-23 des CV, Anlage, Seite 8, Nr. 28, Ansatz in 2013 = 52.595 ?
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13 zur Sitzungsvorlage-Nr. 08-14 / V 11820 (nach Antrag): OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert (Kenntnisnahme)
+- TOP 12.7.: Beschluss des Bauausschusses vom 14.05.13 zur Sitzungsvorlage-Nr. 08-14 / V 06383 (nach Antrag): Barrierefreiheit für Menschen mit Behinderung
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Bildung und Sport vom 10.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11617: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München, Tageseinrichtungsjahr 2012/2013
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.04.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11535: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2012 - 31.12.2012
+- TOP 12.2.2: Referentenanträge
+- TOP 12.3.1: Gefasste Beschlüsse
