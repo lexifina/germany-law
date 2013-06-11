@@ -1,0 +1,92 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2848244
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2848244
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Verkehrssituation Tegernseer Platz, Bürgeranliegen von Herrn L. vom 15.05.2013
+- TOP 2.2.: Bürgerbeschwerde über Wildparken und Ruhestörung, Antwortschreiben von Herrn A. vom 27.05.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse ARGE St.-Quirin-Fest München-Giesing St.-Quirin-Fest am 04.07.2013
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Münchner Gesellschaft für Stadterneuerung mbH, Quartiersmanagement Soziale Stadt Giesing Sommer im Park 2013 am 12.07.2013
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 1: (E) Sanierung des S-Bahnhofs St.-Martin-Straße; Aufzugeinbau oder zumindest Gepäckförderband (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 01456 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 05.07.2012
+- TOP 1.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Tegernseer Landstr. 14, Beschlussvorlage des KVR vom 29.05.2013
+- TOP 1.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Alpenstraße 17, Beschlussvorlage des KVR vom 29.05.2013
+- TOP 1.1.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben, BA-Antrags-Nr. 08-14 / B 04578 des Bezirksausschusses des Stadtbezirks 16 vom 05.02.2013, Zuleitung des Direktorium vom 13.05.2013 mit der Bitte um Stellungnahme
+- TOP 1.1.: Baufälle im 17. Stadtbezirk
+- TOP 1.3.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ Balanstraße, km 2,117, Bahnstrecke 5552 München Ost Frankenwaldstraße - Kreuzstraße, Zuleitung des PlanR vom 14.05.2013
+- TOP 1.2.: Barrierefreiheit für Menschen mit Behinderung, Antrag Nr. 08-14 / A 01525 der Stadtratsfraktion der FDP vom 04.05.2010, Sitzungsvorlage Nr. 08-14 / V 06383, Beschluss des Bauausschusses vom 14.05.2013
+- TOP 1.4.: Spixstr. , Neubau einer Wohnanlage (132 WE) mit Tiefgarage (176 Stpl.), Antwortschreiben des PlanR vom 06.05.2013
+- TOP 1.1.: Spielplatzversorgung im Bezirk Fasangarten/Obergiesing, Bürgeranliegen von Frau J. vom 08.05.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Bekämpfung von Ameisen in Kinderspielbereichen, Sitzungsvorlage Nr. 08-14 / V 11667, Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Bürgeranliegen aus der letzten Sitzung: Schlechte Anbindung S-Bahn - Buslinie 145. Der Bus wartet nicht mehr auf die umsteigenden Fahrgäste, die aus der S-Bahn kommen.
+- TOP 0.1.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anhörung nach § 45 StVO, LZA-Abbau / Probeausschaltung, LZA 857 Untersberg- / Weißenseestraße, Anhörung KVR vom 24.05.2013
+- TOP 0.1.: Parkraummanagement; Parklizenzgebiet "Tegernseer Landstraße" Veränderung der Parkregelung im Bereich Tegernseer Landstraße Westseite Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 29.05.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Aufstellung von Recycling-Containern in der Brecherspitzstraße
+- TOP 0.2.: Lärmminderungsplanung für München, Lärmaktionsplan, Sitzungsvorlage Nr. 08-14 / V 11894, Beschluss des Umweltausschusses vom 07.05.2013
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Cincinnatistr. 64, Bescheid vom 24.05.2013 (dieser Antrag wurde zunächst zugeleitet, aber inzwischen zur sofortigen Beseitigung von Gefahren bereits durch die UNB genehmigt)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Verkehrssicherheit der Kapelle im ehemaligen Altenheim in der St.-Martin-Str./Severinstr. wiederherstellen für den Tag des offenen Denkmals, Antwortschreiben des KommR vom 25.04.2013 mit der Bitte um Stellungnahme
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sommerfest Tela Aktiv e.V. am 20.07.2013; Zuleitung des KVR vom 31.05.2013 mit der Bitte um Stellungnahme
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.2: Behinderte
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.4: Kinder
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8: Baumschutz
+- TOP 6.8.1.1.: 1. Cincinnatistraße 64, 2 Buchen, Antrag vom 30.04.2013,
+- TOP 6.8.2: Baumbestandspläne
+- TOP 6.8.2.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7: Sonstige Fälle
+- TOP 6.8.2.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 8.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 07.03.2013 a) Entscheidungsrecht bei der Nutzung des gesamten öffentlichen Raums b) Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich des Referates für Bildung und Sport bei grundsätzlichen Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen c) Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss) d) Kein Platz für (Neo-) Nazis, Ziffer 2 e) Benennung von BA-Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse f) Budget für die Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um das Erfordernis einer inhaltlich qualifizierten Antragstellung (keine "Fristwahrungsanträge") 2. Umsetzung der Empfehlungen in einer Änderungssatzung, Sitzungsvorlage Nr. 08-14 / V 11515
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
