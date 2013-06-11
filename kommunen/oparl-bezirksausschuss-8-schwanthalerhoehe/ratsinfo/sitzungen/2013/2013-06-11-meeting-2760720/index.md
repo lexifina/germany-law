@@ -1,0 +1,53 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760720
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760720
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Vorkommnisse im Stadtbezirk
+- TOP 4.2.: Straßenausbaubeitrag Bergmannstraße
+- TOP 4.3.: Begrünung der Bergmannstraße
+- TOP 4.4.: Wildes Campen an der Theresienwiese
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Landsberger Str. 68-76, Umbau mit Nutzungsänderung eines Bürogebäudes in ein Hotel
+- TOP 5.3.: Urteil Spielhalle Landsberger Str. 117a
+- TOP 5.4.: Genehmigungsbescheid Guldeinstr. 50
+- TOP 5.5.: Anhörung: Tulbeckstr. 12, Errichtung einer Dachterrasse
+- TOP 5.6.: Anhörung: Landsberger Str. 137, Neubau Vorderhaus - VORBESCHEID
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Ganztagsbetreuung an der Carl-von-Linde-Realschule und der Mittelschule an der Ridlerstr. 26, Schreiben des Münchner Serviceagentur für Ganztagsbildung vom 16.05.2013
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Verkehrsrechtliche Anordnung: Einrichtung einer Fahrradstraße in der Holzapfelstraße
+- TOP 8.2.: Verkehrsrechtliche Anordnung: Einrichtung einer Fahrradstraße in der Gollierstraße
+- TOP 8.3.: Barrierefreie Umgestaltung der Donnersbergerbrücke: Zeitgleich mit Umbau des Bahnhofsbauwerks den Fußgängersteg vom Bahnhof bis zu den Bushaltestellen auf der Westseite sowie das Aufgangsbauwerk an der Westseite barrierefrei umgestalten
+- TOP 8.4.: Anhörung: Platzfest des Evangelischen Migrationszentrums am Gollierplatz am 06.07.2013
+- TOP 8.5.: Barrierefreier Steg zwischen Hacker- und Donnersbergerbrücke - Lichtzeichenanlage
+- TOP 8.6.: Anhörung: Pedelec-Tag des Green City e.V. AM Bavariapark am 07.07.2013
+- TOP 8.7.: Anhörung: Straßenfest des Evangelischen Migrationszentrums in der Bergmannstraße am 22.06.2013
+- TOP 8.8.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, hier: Landsberger Str. im Zeitraum Juni-Mitte August
+- TOP 8.9.: Entscheidung: Standortgenehmigung für Parkscheinautomaten, hier: Landsberger Straße im Lizenzgebiet Westend
+- TOP 8.10.: Freischankfläche Astallerstr. 13
+- TOP 9: Budget und Finanzen
+- TOP 8.11.: Bericht Ortstermin Containerstandorte
+- TOP 9.1.: (E) Budget der Bezirksausschüsse westendstudios westendstudios 13, Tag-der-offenen-Tür-Veranstaltung von 18. bis 20.10.2013 - <div>nach Antrag</div>
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Energetische Umlage, Antrag BA 4
+- TOP 11.2.: Anhörung: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil-oder stadtviertelbezogenen Planungswettbewerben
+- TOP 12: Protokoll und Umlauf
+- TOP 12.3.: Schrenkstr. 8, Errichtung Neubau Sozialreferat, Schreiben des Oberbürgermeisters an die Regierung von Oberbayern
+- TOP 12.4.: Ortstermin in der Heimeranstraße mit dem Baureferat
