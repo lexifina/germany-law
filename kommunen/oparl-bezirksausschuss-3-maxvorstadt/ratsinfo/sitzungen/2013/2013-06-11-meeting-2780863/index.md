@@ -1,0 +1,124 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780863
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780863
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 07.05.2013
+- TOP 4.2.: Schreiben der PI 12 vom 24.05.2013 zum Problem der reservierten Stellplätze für Einsatzfahrzeuge
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Von-der-Tann-Straße vom 08.05.2013 Parkplatz- bzw. Baustellenwahnsinn im Schönfeldviertel (s. TOP C 2.1.2)
+- TOP 5.2.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 29.04.2013 Aufhebung der Einbahnregelung für Radfahrer in der Adamstraße (s. auch TOP C 2.1.3)
+- TOP 5.2.4.: Schreiben eines Bürgers vom 14.05.2013 zum Rückbau von Ampelanlagen im Stadtge- biet, insbesondere im Einzugsbereich von Schulen und Kindergärten (s. TOP C 2.1.4)
+- TOP 5.2.5.: Schreiben eines Bürgers aus der Maxvorstadt vom 24.05.2013 zum Anwesen Luisenstraße 22, sog. Paul-Heyse-Villa (s. TOP B 2.1.13)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 22.05.2013 Antrag auf Auskunft zu Baumpflanzungen im öffentlichen Straßenraum und ihre Auswir- kungen auf die Miete
+- TOP 1.2.: Antrag des Vorsitzenden vom 28.05.2013 an den Bezirksausschuss Erhalt des Anwesens Luisenstraße 22, der sog. Paul-Heyse-Villa
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 17., 18., 19., 20. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 16./17. KW
+- TOP 2.1.3.: Ottostraße 11-13, Nutzungsänderungen Büro zu Arztpraxis (5. OG) / Wohnung zu Büro (3. OG) / 2 Wohnungen zu Büro (6. OG)
+- TOP 2.1.4.: Augustenstraße 67, Aufstockung des Rückgebäudes für 17 Studenten-Apartements
+- TOP 2.1.5.: Gabelsbergerstraße 50, Erweiterung einer Speisen- und Schankwirtschaft in ebensolche mit regelmäßigen Musikdarbietungen im Nebenraum
+- TOP 2.1.6.: Adelheidstraße 10, Nutzungsänderung von Hausmeisterwohnung zu Büro
+- TOP 2.1.7.: Brienner Straße 39, Neustrukturierung der Eingangsbereiche und Errichtung Anbau für Gaststätte - Tektur
+- TOP 2.1.9.: Theresienstraße 56 b, Neubau eines Wohngebäudes (fünf WE) mit Tiefgarage
+- TOP 2.1.10.: Schwindstraße 1 a, Neubau eines Wohngebäudes mit Gewerbeeinheiten - Vorbescheid
+- TOP 2.1.11.: Türkenstraße 3 ? 7, Neubau zweier Bürogebäude mit gemeinsamer Tiefgarage
+- TOP 2.1.12.: Barer Straße 33, Neubau eines Mehrfamilienhauses mit Tiefgarage (Heßstraße 2 b) und Umbau des Rückgebäudes Barer Straße 33 zum Wohnhaus - Vorbescheid
+- TOP 2.1.13.: Schreiben eines Bürgers aus der Maxvorstadt vom 24.05.2013 zum Anwesen Luisenstraße 22, sog. Paul-Heyse-Villa (s. TOP A 5.2.5)
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Kaulbachstraße 21, 1 Ahorn
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 27.05.2013 Antrag auf Auskunft: Wann wird mit der Umgestaltung der Kreuzung Friedrich-/Georgen-/Türkenstraße be- gonnen und warum dauert die Planung so lange?
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte und Grundsatz- angelegenheiten CarSharing in München; Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit Beschlussvorlage für den Kreisverwaltungsausschuss Sitzungsvorlage Nr. 08-14 / V 11817 aus 05/13 vertagt
+- TOP 2.1.2.: Schreiben einer Bürgerin aus der Von-der-Tann-Straße vom 08.05.2013 Parkplatz- bzw. Baustellenwahnsinn im Schönfeldviertel (s. TOP A 5.2.1)
+- TOP 2.1.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 29.04.2013 Aufhebung der Einbahnregelung für Radfahrer in der Adamstraße (s. auch TOP A 5.2.3)
+- TOP 2.1.4.: Schreiben eines Bürgers vom 14.05.2013 zum Rückbau von Ampelanlagen im Stadtge- biet, insbesondere im Einzugsbereich von Schulen und Kindergärten (s. TOP A 5.2.4)
+- TOP 2.1.5.: Einführung von Tempolimit auf 30 km/h zur Erhöhung der Schulwegsicherheit in der Schellingstraße, Abschnitt Augustenstraße bis Schleißheimer Straße
+- TOP 2.1.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Abbau von Lichtzeichenanlagen/Probeausschaltung Görres-/Tengstraße, Augusten-/Görresstraße, Görres-/Schwindstraße und Görres-/Zentner- straße
+- TOP 2.1.7.: Münchner Verkehrsgesellschaft Inbetriebnahme einer neuen MVG-Buslinie 153 vom Odeonsplatz zur Hochschule München
+- TOP 2.1.8.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Änderung der Radverkehrsführung in der Marsstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Sozialreferat, Amt für Wohnen und Migration Fragebogen der Stellen für Gemeinwesenmediation
+- TOP 2.2.2.: Referat für Stadtplanung und Bauordnung, Untere Denkmalschutzbehörde, Beschlussvorlagen Aufstellung je einer Stadtinformationssäule (Kultursäule) in der a) Adalbertstraße/Ecke Ludwigstraße b) Erika-Mann-Straße/Ecke Grete-Mosheim-Straße
+- TOP 2.2.3.: Odeonsplatz 3 und 4, zwei mobile Fahrradständer
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse, Freischankflächen a) Türkenstraße 50, Änderung einer bestehenden Freischankfläche b) Dachauer Straße 69, Genehmigung einer Freischankfläche c) Brienner Straße 49, Genhemigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Veranstaltungen auf dem Königsplatz: 21.06.2013 (Helene Fischer) 23.06.2013 (Xavier Naidoo)
+- TOP 2.4.2.: Klassik am Odeonsplatz am 06.07. und 07.07.2013 und dem Wittelsbacherplatz,
+- TOP 2.4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Hamburger Fischmarkt vom 20.06. bis 30.06.2013 auf dem Wittelsbacherplatz
+- TOP 2.4.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold am 29. und 30.06.2013 zwischen Feldherrnhalle und Münchner Freiheit
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.4.: Referat für Bildung und Sport Auftakt- und Informationsveranstaltung der KITA-Servicestelle U3 am 12.06.2013
+- TOP 2.5.: Baureferat Schaffung der Funktion ?Baumpaten? für Münchner Bürgerinnen und Bürger BA-Antrag Nr. 08-14 / B 04649 v 12.03.2013
+- TOP 1: Anträge (4)
+- TOP 1.1.: Antrag des Vorsitzenden vom 27.05.2013, an den Bezirksausschuss, ein Schreiben an den Herrn Oberbürgermeister Ude in Sachen Gedenktafel für Paul Heyse zu richten. Entwurf des Schreibens an Herrn Oberbürgermeister Ude mit Erkundigung, was aus der Sitzungsvorlage vom Januar 2008 geworden ist. Anlage 1: Beschluss des BA 3 vom 15.05.2007 Anlage 2: Sitzungsvorlage Nr. 02-08/V 11440 vom 16.01.2008
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budget Theaterprojekt ?Gretchen 89 ff? beantragter Zuschuss: 1.467,50 ?
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung OB-Kandidat Reiters ?Wunschliste?: Stadtplanung fit für das 21. Jahrhundert Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.2013 Sitzungsvorlage Nr. 08-14 / V 11820
+- TOP 1.2.: Beschilderung und Beschreibung von Bäumen und Sträuchern im Maßmannpark Antwort des Baureferats Gartenbau vom 29.04.2013 auf das BA-Schreiben vom 13.03.2013
+- TOP 1.3.: Leerstehen von Wohnraum im Anwesen Theresienstrasse 75
+- TOP 1.4.: Luxussanierung Anwesen Georgenstraße 83
+- TOP 1.5.: Erhalt des Wohnraums in der Ottostraße an der sogenannten "Feierbanane"
+- TOP 1.7.: Baureferat, Beschlussvorlagen Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhaltepunkt Donnersbergerbrücke Beschluss des Bauausschusses vom 14.05.2013 Sitzungsvorlage Nr. 080-14 /V 11679
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Kunst im öffentlichen Raum Kunstaktion ?RischArt? im Alten Botanischen Garten
+- TOP 2.2.: Baureferat A. Bürgerbeteiligung bei Platzgestaltungen B. Gestaltungsmaßnahmen im öffentlichen Raum Beschluss des Bauausschusses vom 16.04.2013 Sitzungsvorlage Nr. 08-14 / V 11607
+- TOP 2.3.: Baumaßnahmen der Stadtwerke a) Seidlstraße Fernwärme b) Adamstraße/Nymphenburger Straße -REHA, Fernwärme c) Blutenburgstraße BA 1 ? REHA, Fernwärme d) Brienner Straße ? REHA, Fernwärme e) Hirtenstraße ? REHA, Fernwärme f) Karlstraße BA 1 ? REHA, Fernwärme g) Lothstraße BA 2 ? REHA, Fernwärme h) Lothstraße BA 3 ? REHA, Fernwärme
+- TOP 2.4.: Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhaltepunkt Donnersbergerbrücke Beschluss des Bauausschusses vom 14.05.2013 Sitzungsvorlage Nr. 08-14 / V 11679
+- TOP 2.5.: Schleißheimer Straße zwischen Elisabeth- und Maßmannstraße: Projektgenehmigung Beschluss des Bauausschusses vom 14.05.2013 Sitzungsvorlage Nr. 08-14 / V 11080
+- TOP 2.6.: Lärmminderungsplan für München ? Lärmaktionsplan Beschluss des Umweltschutzausschusses vom 07.05.2013 Sitzungsvorlage Nr. 08-14 / V 11894
+- TOP 2.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest in der Türkenstraße am 15.06.2013 Eilentscheidung des Vorsitzenden durch Fristablauf (Zustimmung)
+- TOP 2.8.: Wiederöffnung der Augustenstraße für Radverkehr (südlich) vor den Anwesen Augustenstraße 2 - 8
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Große Fronleichnamsprozession am 30.05.2013
+- TOP 2.10.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV) Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)/Straßenbau
+- TOP 2.11.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anfahrtssituation städt. Kooperationseinrichtung Pumucklhaus, Dachauer Straße 25 a
+- TOP 2.12.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Heßstraße 114 Seite: Lothstraße
+- TOP 2.13.: Zuschrift des Vereins Freunde des Josephsplatzes i.G. wg. Gefährdung des Josephsplatzes
+- TOP 2.14.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro ?Triple-Feier? für den FC-Bayern einschließlich Autocorso am 02.06.2013 auf dem Marienplatz Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.15.: Kommunalreferat, Markthallen München, Lebensmittelmärkte Antwortschreiben zum Antrag einer Bürgerin, Verlegung des Bauernmarktes Josephsplatz
+- TOP 2.16.: Referat für Stadtplanung und Bauordnung Verbesserung des allgemeinen Rad- und Fußgängerverkehrs in der Maxvorstadt Antwortschreiben vom 27.11.2012 zu Fragestellungen eines Bürgers aus der Maxvorstadt
+- TOP 2.17.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für Corso des FC Bayern München anlässlich der ?Tripl-Feier? am 02.06.2013 auf dem Marienplatz
+- TOP 3.1.: Baureferat, Antwortschreiben an Bürgerin vom 25.04.2013 zum geplanten Kinderspiel- platz nach Bau der Tiefgarage am Josephsplatz (s. TOP C 2.2.1/0413)
+- TOP 3.2.: Barrierefreiheit für Menschen mit Behinderung Beschluss des Bauausschusses vom 14.05.2013 Sitzungsvorlage Nr. 08-14 / V 06383
+- TOP 3.3.: Bekämpfung von Ameisen in Kinderspielbereichen Beschluss des Bauausschusses vom 14.05.2013 Sitzungsvorlage Nr. 08-14 / V 11667
+- TOP 4: Kultur
+- TOP 4.1.: Baureferat, Beschlussvorlage Kultur-Orientierungssystem u.a. Zusätzliche Hinweise auf Sehenswürdigkeiten und touristische Anziehungspunkte Antrag Nr. 02-08 / B 02143 des BA 3 vom 15.05.2007 Beschluss des Bauausschusses vom 16.04.2013 Sitzungsvorlage Nr. 08-14 / V 03894
+- TOP 4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Open Air Konzert, David Garrett am 01.06.2013, Königsplatz, Erlaubnisbescheid
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Beschluss des Verwaltungs- und Personalausschusses vom 17.04.2013 Sitzungsvorlage Nr. 08-14 / V 11515
+- TOP 4.2.: Direktorium Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben BA-Antrag Nr. 08-14 / B1 04578 des BA 16 Ramersdorf-Perlach vom 05.02.2013
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 1.6.: entfällt
+- TOP 3: Aktuelle Sachstandsberichte
