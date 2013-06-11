@@ -1,0 +1,82 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-06-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2789936
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2789936
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Fußballspielen Grünanlage Im Grund / Ernst-Haeckel-Str.
+- TOP 2.2.: Bauvorhaben Siemens Krauss-Maffei-Str.
+- TOP 2.3.: Verbindung Manzostraße mit der Saarlouiser/ Lauinger Str., Schreiben an BA 10
+- TOP 2.4.: Bunkerruine am Oertelplatz
+- TOP 2.5.: Straßenausbau Hintermeierstraße
+- TOP 2.6.: Personenbezogener Parkplatz Bauschingerstr. 13
+- TOP 2.7.: Zusätzliche Straßenbeleuchtung Weidmannstraße
+- TOP 2.8.: Lkw-Verkehr zu Krauss Maffei
+- TOP 3: Anträge
+- TOP 3.1.: Leistungsprogramm 2014 der MVG - Fahrplanergänzung Verlängerung der Bus-Linien 172 und 176
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Bedarfsplanung für schulische und vorschulische Einrichtungen; Stadtbezirk 23 soll Modellbezirk werden Empf. 1386 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 19.06.2013
+- TOP 5.2.: Pfarrfest Maria Himmelfahrt am 21.07.13
+- TOP 5.3.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben
+- TOP 5.4.: Absolutes Haltverbot im Wendehammer der Grandauerstraße;
+- TOP 5.5.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); NBS/ABS Nürnberg - Ingolstadt - München, Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt - München; Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneintrichtungs- und Zwischenlagerflächen und Änderung der Zielsetzung der landschaftspflegerischen Maßnahme M20
+- TOP 5.6.: Parkraummanagement in München
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Bekanntgabe im Ausschuss für Bildung und Sport vom 10.04.13: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München Tageseinrichtungsjahr 2012/2013 Sitzungsvorlage Nr. 11617
+- TOP 6.2.: Beschluss des Verwaltungs- und Personalausschusses vom 17.04.13: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Sitzungsvorlage Nr. 11515
+- TOP 6.3.: Beschluss der Vollversammlung des Stadtrates vom 02.05.13: Mieterbeirat Sitzungsvorlage Nr. 11299
+- TOP 6.4.: Bekanntgabe im Kinder- und Jugenhilfeausschuss vom 07.05.13: Bekämpfung von Ameisen in Kinderspielbereichen, Sitzungsvorlage Nr. 11765
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13: a) PERSPEKTIVE MÜNCHEN, Sitzungsvorlage Nr. 11217 b) Boden- und Bauschuttrecycling und Bodenbörsen, Potentielle Standorte in München; Sitzungsvorlage Nr. 1681 c) Bebauungsplan mit Grünordnung Nr. 2044 Gerberau (südlich), Bauschingerstr. (westlich), Otto-Warburg-Straße (Staatsstraße 2063) und zum Schwabenbächl (nördlich), Mannertstraße (Östlich) (Teiländerungspläne Nrn. 592 und 1341); Sitzungsvorlage Nr. 11835 d) OB-Kandidat Reiters "Wunschliste": Stadtplanung fit für das 21. Jahrhundert; Sitzungsvorlage Nr. 11820
+- TOP 6.6.: Beschluss des Bauausschusses vom 14.05.13: a) Barrierefreiheit für Menschen mit Behinderung; Sitzungsvorlage Nr. 6383 b) Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 11667
+- TOP 7: Verschiedenes
+- TOP 7.1.: Gedenken an den 9. November 1938
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 22.05.13: Zuwendungsbewilligung
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (06.05.-12.05.13, 13.05.-19.05.13, 20.05.-26.05.13)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung; Einzelfällungsanträge: Ernst-Haeckel-Str. 65, Josef-Trinkl-Str. 10
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Eversbuschstr. 144, Vogelloh 29, Waldhornstr. 75
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.05.13: Fällungsantrag Auenbruggerstr. 92
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.05.13: Bau einer Straße von der Ludwigsfelder Straße durch das Hochtief- und Junkersgelände nach Norden
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.05.13: Schöllstr. 8, Anlage von Lagerplätzen, Nutzung für Baumaschinen und Nutzfahrzeuge, Errichtung von Bürocontainern, befristet auf 2 Jahre
+- TOP 8.8.: Schreiben Stadtwerke München vom 13.05.13, 21.05.13, 27.05.13: Baumaßnahmen
+- TOP 8.9.: Schreiben Baureferat vom 19.03.13: Eversbuschstraße zwischen Hohenadelweg und Otto-Warburg-Straße, sowie Kreuzung Höcherstraße
+- TOP 8.10.: Schreiben Baureferat vom 22.05.13: Allacher Straße / Grandauer Straße
+- TOP 8.11.: Schreiben Sozialreferat vom 21.05.13: Antrag auf Zweckentfremdung von Wohnraum, Von-Kahr-Str.
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 24.05.13: Zeichen 283 StVO / Esmarchstr. 23
+- TOP 8.13.: Schreiben Kulturreferat vom 15.05.13: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, Flurnummer 81, 82, 82/2, 101/7 in Allach 2. Bürgerhaus für Allach-Untermenzing BA-Antrag Nr. 4680 Bürgerzentrum Allach-Untermenzing BA-Antrag 4777
+- TOP 8.14.: Schreiben Referat für Arbeit und Wirtschaft vom 29.05.13: Wirtschafts-Info 05/2013
+- TOP 8.15.: Schreiben Referat für Gesundheit und Umwelt vom 29.05.13: Festschrift zum 450-jährigen Bestehen des Alten Südlichen Friedhofes
+- TOP 8.16.: Schreiben Referat für Gesundheit und Umwelt vom 27.05.13: Broschüren zum neuen Münchner Förderprogramm Energieeinsparung
+- TOP 8.17.: Schreiben Bauzentrum München vom 16.05.13: Newsletter Bauzentrum München Nr. 5/2013
+- TOP 8.18.: Schreiben Arbeitskreises Attraktiver Nahverkehr (AAN) vom 12.05.13: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) im Münchner Forum e.V. zum Leistungsprogramm 2014 der MVG
+- TOP 8.19.: Schreiben Münchner Forum e.V. vom 08.05.13: Standpunkte Mai 2013
+- TOP 8.20.: Schreiben Kreisjugendring München-Stadt vom 08.05.13: Protokoll Informationsveranstaltung Jugendbeteiligung am 25.04.13
+- TOP 8.21.: Schreiben Europe Direct Informationszentrum München & Oberbayernvom 21.05.13: Einladung Europaforum "Protest in Europa", Montag 27.05.13
+- TOP 9: Nachtrag
+- TOP 9.1.: Anhörung: Von-Kahr-Str. 24, Gemarkung: Untermenzing, Fl.Nr.: 357/1 Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 9.2.: Verschiedenes: Wahlen 2013 / 2014 Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 9.3.: Umlauf: Schreiben Stadtwerke München vom 03.06.13: Baumaßnahmen
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.06.13: Baupläne (27.05.-02.06.13)
+- TOP 9.5.: Schreiben Direktorium vom 05.06.13: Rücknahme des Antrags der Kirchenstiftung Maria Himmelfahrt
+- TOP 9.6.: Schreiben BA 21 Pasing-Obermenzing vom 03.06.13: Ausstellung "Pasing im 3. Reich" vom 13.06. bis 11.08.13 im Kultur- und Bürgerzentrum Pasinger Fabrik
+- TOP 9.7.: Schreiben Kulturreferat vom 29.05.13: Veranstaltungen / Kooperationen Juni 2013
+- TOP 9.8.: Schreiben SHZ-München vom 05.06.13: Münchner Selbsthilfejournal einBlick 02/2013
+- TOP 9.9.: Schreiben Münchner Stadtbibliothek Am Gasteig vom 29.05.13: Einladung Fotoausstellung "My City, My View"
+- TOP 9.10.: Stadtrats- und Ausschussbeschlüsse: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.13: Arbeitsgruppe Ausbauoffensive; Kindertageseinrichtungen; Sachstandsbericht zum 31.03.13 Sitzungsvorlage Nr. 11869
+- TOP 9.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.13: a) Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder, Sitzungsvorlage Nr. 1719 b) Seniorenpolitisches Programm unter Einbeziehung der Referate, Sitzungsvorlage Nr. 12206
