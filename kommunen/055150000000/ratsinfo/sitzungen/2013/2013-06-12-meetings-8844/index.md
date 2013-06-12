@@ -1,0 +1,51 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-06-12T17:32:00+02:00
+- Ende: 2013-06-12T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8844
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8844
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00340909.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Anregungen des Jugendrats gem. § 24 GO
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 9.1: Beitragspflicht für den Teilausbau des Albersloher Weges
+- TOP 10: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf - Vorlage eingebracht
+- TOP 11: Perspektiven für den Haushaltsplan 2014 - Finanzeckwerte - - zur Kenntnis genommen
+- TOP 12: Abwassergebührensatzung der Stadt Münster (AGS) - einstimmig beschlossen
+- TOP 13: Grundsatzentscheidung für eine sozial differenzierte Gebührenordnung der Westfälischen Schule für Musik - mehrheitlich beschlossen
+- TOP 13.1: Grundsatzentscheidung für eine sozial differenzierte Gebührenordnung der Westfälischen Schule für Musik
+- TOP 14: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 6. Finanzformel für die Spielzeiten 2014/2015 bis 2018/2019 - mehrheitlich beschlossen
+- TOP 14.1: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 6. Finanzformel für die Spielzeiten 2014/2015 bis 2018/2019
+- TOP 15: Feststellung von Jahresabschlüssen des Jahres 2012
+- TOP 15.1: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2011/2012 - einstimmig beschlossen
+- TOP 15.2: Feststellung des Jahresabschlusses 2012 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 15.3: Feststellung des Jahresabschlusses 2012 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 15.4: Feststellung des Jahresabschlusses 2012 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 15.5: Feststellung des Jahresabschlusses 2012 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 15.6: Feststellung der Jahresabschlüsse 2012 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 16: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 17: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 17.1: Landesförderung für Archäologie und Denkmalpflege erhalten - mehrheitlich abgelehnt
+- TOP 18: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 18.1: Schülerspezialverkehr beibehalten - verwiesen
+- TOP 18.2: Einrichtung eines zentralen Anmeldeverfahrens bei Kindertageseinrichtungen zum Kindergartenjahr 2014/15, um Kitas und Eltern den Alltag zu erleichtern - verwiesen
+- TOP 18.3: Zwangsumzüge stoppen! - verwiesen
+- TOP 18.4: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskommission, hier: - verwiesen
+- TOP 18.5: Münster für alle - Einführung eines Sozialmonitorings für Münster - verwiesen
+- TOP 18.6: Fortsetzung des Programms "Soziale Stadt Kinderhaus" - - verwiesen
+- TOP 19: Verschiedenes
