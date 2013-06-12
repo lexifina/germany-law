@@ -1,0 +1,101 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-06-12T17:00:00+02:00
+- Ende: 2013-06-12T19:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3117
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3117
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=71706
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 20. Sitzung der BVV am 12.06.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 20. Sitzung der BVV am 12.06.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 20. Sitzung der BVV am 12.06.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Angemessenes Gedenken an Harald Poelchau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Integrationskonzept für den Bezirk Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Bericht Rechtsextremismus in Reinickendorf - überwiesen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Versickerung von Niederschlägen auf bezirkseigenen Grundstücken wirtschaftlich optimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Lehrpfad der Brüder Humboldt in Tegel einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Fête de la Musique auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Stundenzumessungen von Betreuung und Verwaltung trennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Kinderschutz (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Spielgeräte für ältere Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Maßnahmen gegen mit Graffiti beschmierte Hauswände (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Schulhelfer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Familienkassen in Reinickendorfer Supermärkten einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Nahversorgung am Eichhorster Weg sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Fraueninfrastrukturstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schulraumnot im Märkischen Viertel und Reinickendorf-Ost - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2011 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 24 a GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - 24 a GO BVV (Einfügung eines neuen Absatzes) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - § 20 GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Schulverpflegung - erledigt
+- TOP 10.5: Entwicklung der Reinickendorfer Grundschullandschaft - erledigt
+- TOP 10.6: Asbesthaltige Bodenbeläge bei der GEWOBAG entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Für Teilnahme von Reinickendorfer Grundschulen am Projekt "Berliner Schulpate" der Handwerkskammer werben - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Für Teilnahme von Reinickendorfer Betrieben am Projekt "Berliner Schulpate" der Handswerkskammer werben - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Schulen und Wirtschaft auf Initiative "Berliner Schulpate" aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Ergänzung einer Stellenbezeichnung - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Investitionsplanung 2013 bis 2017 - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Fifty-Fifty-Projekt unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Fußgängerüberwege für einen sicheren Schulweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Bahnhofszugangsbereich S Wilhelmsruh - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Umwandlung des Marie-Schlei-Hauses in eine Flüchtlingseinrichtung - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Informationsveranstaltung für Betreiber von Pflegeeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Austausch mit Sozialstationen - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Ergänzung im Schulgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Verpflegungsbeauftragte / Verpflegungsbeauftragter - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: "Teach First" - Schulen aufmerksam machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Reinickendorf vor Fluglärm schützen I - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Reinickendorf vor Fluglärm schützen II - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Reinickendorf vor Fluglärm schützen III - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Reinickendorf vor Fluglärm schützen IV - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Kurzzeitpflegeplätze einspeisen - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Energiewende in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Aktion "Saubere Hände" - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Ladestationen für Elektromobile an Straßenbeleuchtungsmasten prüfen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Kontrastreiche Markierungen an den S-Bahnhöfen Hermsdorf und Frohnau erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Nächtliches Tempo 30 / Hennigsdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Reinickendorf vor Fluglärm schützen V - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 10.33: Schulraumnot im Märkischen Viertel und Reinickendorf-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Bericht der Patientenfürsprecher - überwiesen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: LKW-Verkehr in der Miraustraße - überwiesen
+- TOP 12.2: Leistungsangebot des "Bollerwagens" erhalten - überwiesen
+- TOP 12.3: Internetseite des Bezirks informativer gestalten - überwiesen
+- TOP 12.4: Ausweitung Tempo 30 vor Spielplatz in der Reginhardstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Reinigung des Seggeluchbeckens - überwiesen
+- TOP 12.6: Lange Nacht der Wissenschaft auch in Reinickendorf - überwiesen
+- TOP 12.7: Toiletten mit Wickelmöglichkeiten in direkter Spielplatznähe - überwiesen
+- TOP 12.8: Strandbad Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Kein Schwerlastverkehr im Dannenwalder Weg - überwiesen
+- TOP 13.2: Geschwindigkeit auf der Heiligenseestr. häufiger kontrollieren - überwiesen
+- TOP 13.3: Anwohnerschutz an der Ruppiner Chaussee - überwiesen
+- TOP 13.4: U-Bahnhof Franz-Neumann-Platz endlich barrierefrei erreichbar - überwiesen
+- TOP 13.5: Brunnen vor der Grundschule Rollberg - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Lärm-/Sichtschutzwand A 111 zwischen Waidmannsluster Damm und Beyschlagtunnel schöner gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: S-Bahnhof Wittenau - Haltepunkt 6-Wagenzüge Richtung Süden verlegen! - überwiesen
+- TOP 13.8: ÖPNV-Tarifzone B nach Brandenburg ausweiten und P+R-Plätze im Umland schaffen - überwiesen
+- TOP 13.9: Heiligenseer Entwässerungsgräben reinigen - ohne Änderungen in der BVV beschlossen
