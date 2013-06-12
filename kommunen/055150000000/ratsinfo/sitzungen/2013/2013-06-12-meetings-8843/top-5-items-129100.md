@@ -1,0 +1,8 @@
+# TOP 5: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Theater Münster, inkl. 6. Finanzformel für die Spielzeiten 2014/2015 bis 2018/2019
+
+- Sitzung: 29. Sitzung (2013-06-12)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/129100
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/52652
