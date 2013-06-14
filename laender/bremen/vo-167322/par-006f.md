@@ -1,0 +1,3 @@
+# § 6f Beratung und Information bei Versetzungsgefährdung
+(1) Vor den Osterferien berät die Klassenkonferenz die Lernentwicklung der einzelnen Schülerinnen und Schüler der Einführungsphase.
+(2) Die Fachlehrerin oder der Fachlehrer muss schriftlich begründen, wenn die Versetzung in die Qualifikationsphase wegen mangelhafter oder ungenügender Leistungen gefährdet ist. Dabei muss die Fachlehrerin oder der Fachlehrer die Leistungen der einzelnen Schülerin oder des Schülers im Hinblick auf die im Bildungsplan vorgesehenen Teilbereiche spezifizieren. Die betroffene Schülerin oder der betroffene Schüler sowie die Erziehungsberechtigten sind schriftlich zu informieren.
