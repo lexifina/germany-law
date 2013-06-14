@@ -1,7 +1,7 @@
-# Anlage 2 - STUNDENTAFEL FÜR DIE EINFÜHRUNGSPHASE
+# Anlage 2 - Stundentafel für die Einführungsphase
 Anlage 2
 (zu § 9 Absatz 2)
-STUNDENTAFEL FÜR DIE EINFÜHRUNGSPHASE
+Stundentafel für die Einführungsphase
 Fach | Unterrichtsstunden
 Aufgabenfeld I | 
 Deutsch | 4
@@ -13,19 +13,15 @@ Geschichte | 2***
 Zwei weitere Fächer des Aufgabenfelds II | 4****
 Aufgabenfeld III | 
 Mathematik | 4
-Naturwissenschftliche Fächer | 6
+Naturwissenschaftliche Fächer | 6
 Biologie | 2***
 Chemie | 2***
 Physik | 2***
 Sport | 2***
 Wahlpflichtbereich | 8**
-• | Fächer, die nicht in der Sekundarstufe I unterrichtet werden (INF, AF II, SPO-Theorie,...)
-• | Fremdsprachen
-• | Methodenunterricht (1 - 2-stündig)
-• | Fördern
+1. Fächer, die nicht in der Sek. I Gegenstand sind (INF, AF II, SPO-Theorie, ...) 2. Fremdsprachen 3. Methodenunterricht (1 - 2-stündig) 4. Fördern | 
 Summe | 35
 Erläuterungen
-[Red. Anm.: Fußnoten]
 Die gewählte Stündigkeit ist für den gesamten Schülerjahrgang einheitlich zu gestalten.
 Fußnoten
 * auch vierstündig möglich
