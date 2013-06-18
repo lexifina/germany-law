@@ -1,0 +1,116 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-06-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839640
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839640
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.4 Anträge aus der gemeinsamen EWOV mit dem BA 2 vom 16.05.13 1.4.1 Ausbau Südring für ÖPNV und Ausbau Kurven / Verbindungen vom / zum Nordring 1.4.2 Lärmschutzmaßnahmen an der Braunauer Eisenbahnbrücke 1.4.3 Lärmschutz vor Bahnverkehr - Prüfung der Einhausung der Bahnstrecke
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: 1. Anfrage zu Parkverbotsschildern in der Theodolindenstraße 2. Austausch des Straßenbelags in der Bruggspergerstraße 3. Uhr für den U-Bahnabgang Mangfallplatz (Süd) Bürgerschreiben
+- TOP 2.2.: Kreuzung Humboldtstraße / Pilgersheimer Straße; Fällung von 2 Bäumen; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Raabennest Kindergarten e.V., für die Maßnahme: Erneuerung Sandkasten; Antragssumme: 7.234,74 ?; Beschlussvorlage des Direktoriums vom 27.05.2013
+- TOP 3.2.: AntragstellerIn: Münchner Konzertchor e.V., für die Maßnahme: Aufführung der h-moll Messe am 12.10.2013; Antragssumme: 1.800,00 ?; Beschlussvorlage des Direktoriums vom 16.05.2013
+- TOP 3.3.: AntragstellerIn: Kreisjugendring München-Stadt, für die Maßnahme: Projekt ?Graffitigestaltung Ringunterführung Lohstraße? von 12. bis 14.07.2013; Antragssumme: 1.200,00 ?; Beschlussvorlage des Direktoriums vom 14.05.2013
+- TOP 3.4.: AntragstellerIn: Freunde des Sechz'ger Stadions e.V., für die Maßnahme: Baukosten für ein Fundament für eine Stele; Antragssumme: 800,00 ?; Beschlussvorlage des Direktoriums vom 29.05.13
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Hans-Mielich-Platz - Durchfahrt von der Kühbachstraße; Bürgerschreiben vom 14.05.13 (verwiesen aus der Sitzung vom 21.05.13); Zwischennachricht des Baureferats vom 22.05.13
+- TOP 3.2.: Ampel Theodolindenstraße 97 / Ecke Seybothstraße; Bürgerschreiben vom 10.05.13 (verwiesen aus der Sitzung vom 21.05.13)
+- TOP 3.1.: Fahrradständer für die U-Bahnhaltestelle Kolumbusplatz - <div>nach Antrag</div>
+- TOP 3.1.: Schönstraße 106; eingeschränktes Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 28.05.13 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Erinnerungsverfahren Klausener Str. 22; Bauschaden beheben, Zufahrten anpassen, Spartengrabungen herstellen; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.3.: Erinnerungsverfahren Grünwalder Str. 4; Bauschaden beheben, Rettungswege, Zufahrten und Spartengrabungen herstellen; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.4.: Erinnerungsverfahren Säbener Str. zw. Nauplia und Oberbiberger Straße; Straßensanierung; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.5.: Parkraummanagement in München 1. Sachstand 2. Bürgerversammlungsempfehlungen; Entwurf der Beschlussvorlage; Anhörung des Referats für Stadtpl. u. Bauordnung vom 24.05.13 mit der Bitte um Stellungnahme bis 19.06.13
+- TOP 3.1.: Untersuchung zur Verkehrsanbindung / zum S-Bahn-Südring unter Berücksichtigung der Bebauung des Paulanergeländes; BA-Antrag Nr. 08-14 / B 04793 vom 16.04.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 24.05.13 (negative Erledigung)
+- TOP 3.2.: Lärmschutzwände an der Bahnstrecke in Untergiesing; Anfrage an die LHM; BA-Antrag Nr. 08-14 / B 04611 vom 19.02.13; Zwischennachricht des Referats für Stadtpl. u. Bauordnung vom 15.05.13 mit der Bitte um Fristverlängerung
+- TOP 3.3.: Edeka in der St.-Magnus-Straße - kein widerrechtliches Parken der Lieferanten auf Fuß- oder Radweg; BA-Antrag Nr. 08-14 / B 04792 vom 19.03.13; Antwortschreiben des KVR vom 22.05.13 (positive Erledigung)
+- TOP 3.4.: Untersuchungen zum Verkehrsaufkommen / zur Verkehrssituation rund um den Tierpark Hellabrunn; BA-Antrag Nr. 08-14 / B 04531 vom 15.01.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 13.05.13 (positive Erledigung)
+- TOP 3.1.: Barrierefreiheit für Menschen mit Behinderung; Stadtratsantrag Nr. 08-14 / A 01525 vom 04.05.10; Sitzungsvorlagen Nr. 08-14 / V 06383; Beschluss des Bauausschusses vom 14.05.13 (SB)
+- TOP 3.2.: Gerhardstraße: Beschilderung mit Gefahrzeichen "Kinder" und Teutoburger Straße: Einrichtung eines Haltverbotes; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Errichtung von Lärmschutzwänden an der Bahntrasse Untergiesing; Zurückstellung der Baumaßnahme an den stadträumlich bedeutsamen Teilbereichen Giesinger Berg, Pilgersheimer Straße und Hans-Mielich-Platz bis zum Vorliegen einer gestalterisch qualifizierten Lösung; Empfehlung Nr. 08-14 / E 01560 der BÜV des 18. Stadtbezirkes vom 08.11.12; Sitzungsvorlagen Nr. 08-14 / V 11897; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 12.06.2013 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Antrag auf Bepflanzung des Hanges am Hans-Mielich-Platz; BA-Antrag Nr. 08-14 / B 04679 vom 19.03.13; Antwortschreiben des Baureferats-Gartenbau vom 31.05.13 (positive Erledigung)
+- TOP 3.2.: Heckenrückschnitt für eine gefahrlose Nutzung der Gehwege; BA-Antrag Nr. 08-14 / B 04674 vom 19.03.13; Antwortschreiben des Baureferats vom 28.05.13 (neutrale Erledigung)
+- TOP 3.3.: Griechenpl. 13, Fl.Nr. 12875/376, Gemarkung Sektion VII; Neubau zweier Mehrfamilienhäuser mit TG (Griechenpl. 13 / Langobardenstr. 5+7); Anfrage des BA 18 aus der Sitzung vom 21.05.13 zu Baumfällungen auf dem Grundstück; Antwort der UNB vom 03.06.13 (neutrale Erledigung)
+- TOP 3.4.: Umweltverunreinigung durch Tüten mit Hundekot; Bürgerschreiben vom 16.04.2013; Abdruck des Antwortschreibens des Baureferats-Gartenbau vom 24.05.13 (neutrale Erledigung)
+- TOP 3.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Leitzachstraße 13; Ablehnungsbescheid vom 27.05.13
+- TOP 3.2.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 11667; Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.13
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Attraktivere Pausenhöfe an unseren Schulen; Antrag der FDP-Fraktion (vertagt aus der Sitzung vom 21.05.2013) - <div>nach Antrag</div>
+- TOP 3.1.: Einrichtung einer Tagespflege-Station und Bereitstellung eines Kurzzeitpflegeplatz-Kontingents im Neubau des Alten- und Pflegeheims an der Tauernstraße; BA-Antrag Nr. 08-14 / B 04530 vom 15.01.13; Stellungnahme des BA 18 vom 16.04.13 zur Antwort des Sozialreferats; Antwortschreiben des Sozialreferats vom 05.06.13 (negative Erledigung)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: 3.5.4.3 Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Anhörung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.4.3.1 Gerhardstraße; Anhörung des Sozialreferats vom 24.05.13
+- TOP 3.2.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Antrag Nr. 08-14 / B 04578 des BA 16 vom 05.02.13; Schreiben des Direktoriums vom 13.05.13 mit der Bitte um Stellungnahme bis 01.07.13
+- TOP 3.3.: Schulbauoffensive (SBO) 2013/2030; Räumliche Bedarfsplanung für die Münchner öffentlichen Realschulen und Gymnasien in München - Grundsatzbeschluss - Beschluss des Ausschusses für Bildung u. Sport, des Ausschusses für Stadtpl. u. Bauordnung, des Bauausschusses, des Kommunalausschusses und des Finanzausschusses in der gemeinsamen Sitzung des Stadtrats vom 03.07.13; Zuleitung des RBS vom 03.06.13 mit der Bitte um Stellungnahme zum Beschlussentwurf
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Harthauser Str. 96; Neubau eines Mehrfamilienwohnhauses; Anhörung vom 15.05.13 (vertagt aus der Sitzung vom 21.05.13)
+- TOP 3.2.: Hauberrißstraße; Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 13.05.13 (vertagt aus der Sitzung vom 21.05.13)
+- TOP 3.3.: Gabriel-Max-Str. 19; Errichtung 2er Mehrfamilienhäuser mit TG - VORBESCHEID; Anhörung vom 14.05.13 (vertagt aus der Sitzung vom 21.05.13)
+- TOP 3.4.: Hochkalterstr. 2- 14, Aufstockung u. Nachverdichtung, Neubau von 32 WE und Erweiterung der TG; Anhörung vom 16.04.13 (vertagt aus der Sitzung vom 21.05.13)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.5.: Am Staudengarten 2; Abbruch der Sporthallen sowie Neubau einer Dreifach-Turnhalle (Städt. Theodolinden-Gymnasium); Anhörung vom 03.06.13
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder; Empfehlung Nr. 089-14 /E 01719 der BÜV des 5. Stadtbezirkes am 07.02.2013; Sitzungsvorlagen Nr. 08-14/V 12050; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 12.06.13 (SB)
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Winterstraße; Unterrichtung des Sozialreferats vom 29.05.13
+- TOP 3.4.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2013; Sitzungsvorlagen Nr. 08-14 / V 11869; Beschluss des gemeinsamen Ausschusses für Stadtpl. u. Bauordnung und des Ausschusses für Bildung u. Sport vom 12.06.2013 (VB)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung im Freien in einer städt. Grünanlage; Benefizlauf des Maria-Theresia-Gymnasiums zu Gunsten des SchuPa Kenia e.V. im Sportgelände am Rosengarten / Sachsenstraße, Isarauen am 29.07.13; Zuleitung des KVR vom 04.06.13 mit der Bitte um Stellungnahme bis 18.07.13
+- TOP 3.2.: Veranstaltung im Freien in einer städt. Grünanlage; Benefizlauf des Albert-Einstein-Gymnasiums für den SchuPa Kenia e.V., Ecke Hochleite - Über der Klause am 29.07.2013; Zuleitung des KVR vom 04.06.13 mit der Bitte um Stellungnahme bis 18.07.2013
+- TOP 3.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Pfarrfest am 14.07.13 in der Arminiusstraße; Zuleitung des KVR vom 15.05.13 mit der Bitte um Stellungnahme bis 28.06.13
+- TOP 3.4.: Veranstaltung im Freien in einer städt. Grünanlage; Kinderzirkus-Attraktionen der Spiellandschaft Stadt; hier: Grünanlage Oberbiberger Straße vom 20.08.13 bis 31.08.13; Zuleitung des KVR vom 13.05.13 mit der Bitte um Stellungnahme bis 27.06.13
+- TOP 3.5.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Platzfest der Aktionsgruppe Untergiesing am 22.06.13 auf dem Hans-Mielich-Platz; Zuleitung des KVR vom 28.05.13 mit der Bitte um Stellungnahme bis 17.06.13 (Fristverlängerung gewährt bis 19.06.13)
+- TOP 4: Sonstige Fälle
+- TOP 3.7.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing - <div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Notfallsäule mit Defibrillator für die Bezirkssportanlage Agilolfingerstraße 6; BA-Antrag Nr. 08-14 / B 04608 vom 19.02.13; Antwortschreiben des RBS vom 22.05.13 (positive Erledigung)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 1. Stadtbezirkes; Sitzungsvorlage Nr. 08-14 / V 11299; Beschluss der Vollversammlung des Stadtrates vom 02.05.2013
+- TOP 4.2.: Änderung der Satzung für die Bezirksausschüsse der LHM; 1. Vorberatungen in der BA-Satzungskommission vom 07.03.2013 a) Entscheidungsrecht bei der Nutzung des gesamten öffentlichen Raums b) Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich des RBS bei grundsätzlichen Änderungen der Essensversorgung an Schulen und Kindertageseinrichtungen c) Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss) d) Kein Platz für (Neo-)Nazis - Ziffer 2 e) Benennung von BA-Beauftragten gegen Rechtsextremismus durch die Bezirksausschüsse f) Budget für die Bezirksausschüsse; Ausweitung der 6-Wochen-Vorlauffrist um das Erfordernis einer inhaltlich qualifizierten Antragstellung (keine "Fristwahrungsanträge") 2. Umsetzung der Empfehlungen in eine Änderungssatzung; Sitzungsvorlage Nr. 0814 / V 11515; Beschluss des Verwaltungs- u. Personalausschusses vom 17.04.2013 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 4.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 7.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
