@@ -1,0 +1,8 @@
+# TOP 8: 5. Bericht Naturdenkmale Innenbereich
+
+- Sitzung: Planungs- und Bauausschuss (2013-06-18)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/120267
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/16224
