@@ -1,0 +1,130 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-06-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818341
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818341
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Benennung eines Beauftragten gegen Rechtsextremismus
+- TOP .1.: Gespräch mit einer Vertreterin des Planungsreferats über die Entwicklung des Hackenviertels
+- TOP .1.: FDP-Fraktion: Information des BA über Nicht-Berücksichtigung seiner Bedenken bei der Erteilung von Baugenehmigungen
+- TOP .2.: Bürgeranliegen: Erhalt der Gebäude Müllerstraße 2 ? 6 und des Bolzplatzes der Glockenbachwerkstatt
+- TOP .3.: Bürgeranliegen: Bebauungsplan Oettingenstraße 6 - 8
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Isartorplatz 2: Nutzungsänderung, Wohn- in Gewerberäume (1. OG) sowie Bankfiliale in Büro
+- TOP .2.: Sternstraße 11:Dachgeschoss-Ausbau im 5. OG eines denkmalgeschützten Gebäudes
+- TOP .3.: Dreifaltigkeitsplatz 4: Bauliche Änderungen im Erd- und 1. Obergeschoss
+- TOP .4.: Sattlerstraße 1: Teilnutzungsänderung einer Schalterhalle mit Umbau: Schalterhalle zu Satellitenschränke
+- TOP .5.: Kaufingerstraße 28: Umbau im Bestand, Erweiterung der Verkaufs- und Verwaltungsflächen auf die Grundstücke Frauenplatz 2 und Augustinerstraße 1
+- TOP .6.: Rosenbuschstraße 6: Dachgeschoss-Ausbau (drei Wohneinheiten) mit Balkonen und Gauben (Tektur)
+- TOP .7.: Thierschstraße 51: Dachgeschoss-Umbau und -Ausbau, Anbau Außenaufzug, Teilausbau Kellerraum in Büro, Vergrößerung einer Balkonanlage (Tektur)
+- TOP .8.: Theatinerstraße 33: Nutzungsänderung einer Gaststätte in einen Laden mit Veränderung der Nutzflächen
+- TOP .9.: Sendlinger Straße 8: Gebäudeteil E: Nutzungsänderung und Umbau des ehemaligen Druckereigebäudes (Teil der Nachnutzung des Areals des Süddeutschen Verlages ? jetzt Sendlingerstraße 10b, 12, 12a (Tektur)
+- TOP .10.: Oettingenstraße 4 ? 8: Neubau einer Wohnanlage (Tektur)
+- TOP .11.: Promenadeplatz 1: Umbau des Innenraums der aktuellen ?Galerie Terminus?
+- TOP .12.: Blumenstraße 4 ? 6: Einbau zweier Emporen mit Erschließung in die Schrannenhalle (Tektur)
+- TOP .13.: Seitzstraße 29: Befristete Umverlegung der Biergartenfläche bis 31.12.2013 und Errichtung einer Außentreppe (Tektur)
+- TOP .14.: Triftstraße 1: Neuerrichtung von Balkonen
+- TOP .15.: Pilotystraße 10: Nutzungsänderung Gewerbeeinheit Erdgeschoss (Gaststätte zu Büro)
+- TOP .16.: Färbergraben: Abbruch und Neubau Geschäfts- und Bürogebäude ? Vorbescheid
+- TOP .17.: Kaufingerstr. 5: Umbau Löwenhofpassage
+- TOP .18.: Robert-Koch-Straße 13: Nutzungsänderung: Gaststätte und Läden zu Büros
+- TOP .19.: Hildegardstraße 4a: Errichtung zweier neuer Dachgauben
+- TOP .20.: Christophstraße 2: Anbringung von Balkonen sowie Wiederherstellung der historischen Dachgauben und Straßenfassade, Nutzungsänderungen
+- TOP .1.: Antrag des BA 16: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteilweiten- oder stadtviertelbezogenen Planunsgwettbewerben
+- TOP .2.: Generalinstandsetzung und Erweiterung des staatlichen Wilhelmgymnasiums in der Thierschstraße 46, Beschlussvorlage für den Ausschuss für Bildung und Sport vom 03.07.2013
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Kennedy's, Sendlinger-Tor-Platz 11: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Gaststätte ?Casalingo?, Sebastiansplatz 12: Genehmigung einer Freischankfläche (vertagt aus der Sitzung vom 14.05.2013)
+- TOP .3.: Gaststätte ?bamboobar?, Müllerstraße 44: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .4.: NACHTRAG: Café Kreutzkamm, Maffeistraße 4: Genehmigung einer Freischankfläche
+- TOP .1.: Tranquillo GmbH, Frauenstraße 34, Aufstellen von zwei Warenauslagen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Stadtgründungsfest am 15./16.06.2013 in der Innenstadt
+- TOP .2.: Aktionstag ?Da Sein für München?
+- TOP .4.: Ausstellung des Bundesamts für Strahlenschutz von 10.07. bis 12.07.2013, Sendlinger Tor-Platz
+- TOP .3.: Europatage der Musik am 21.06.2013, Odeonsplatz
+- TOP .5.: Klassik am Odeonsplatz, 06.07. - 07.07.2013
+- TOP .6.: ?Behindert.Besonders.Anders?, Grünanlage Fortunabrunnen Isartorplatz, 14.07.2013
+- TOP .7.: Streetlife-Festival / Corso Leopold zwischen Feldherrnhalle und Münchner Freiheit
+- TOP .8.: Fußwallfahrt St. Pius X am 26.07.2013, Odeonsplatz
+- TOP .9.: Tag der offenen Tür des Polizeipräsidiums am 29.06.2013, Ettstraße, Neuhauser Straße
+- TOP .10.: Klinik Clowns am 27.07.2013, Odeonsplatz
+- TOP .11.: Jakobi-Fest am 21.07.2013, St.-Jakobs-Platz
+- TOP .12.: ?Drei Jahreszeiten? - Aktionsfläche vom 13.06. bis 10.10.
+- TOP .13.: NACHTRAG: ?Oper für alle? am 26. und 27.07.2013, Max-Joseph-Platz
+- TOP .14.: NACHTRAG: Christopher Street Day am 13. und 14.07.2013, Marienplatz und andere Standorte
+- TOP .15.: NACHTRAG: Lesbisches Angertorfest am 06.07.2013, Angertorstraße
+- TOP .16.: NACHTRAG: Münchner Selbsthilfetag am 20.07.2013, Marienplatz
+- TOP .1.: Bürgeranliegen: Verlegung des Taxistandplatzes Wurzerstraße
+- TOP .17.: NACHTRAG: Straßenfest in der Mariannenstraße am 20,07.2013
+- TOP .18.: NACHTRAG: Informationsveranstaltung Brustkrebsprävention am 26.06.2013, Karlsplatz
+- TOP .19.: NACHTRAG: Gemeindefest St. Lukas am 14.07.2013
+- TOP .20.: NACHTRAG: Künstlerische Inszenierung ?Wagner vs. Verdi? mit zwei Paraden am 28.06.2013, Max-Joseph-Platz
+- TOP .1.: ÖPNV Offensive IV, Projektplanung Haltestellen Marienplatz, Rindermarkt, Prälat-Zistl-Straße, Viktualienmarkt (vertagt aus der Sitzung vom 14.05.2013)
+- TOP .21.: NACHTRAG: Brot-Mobil der KITA St.Lukas am 23.07.2013, Thierschstraße, Mariannenplatz
+- TOP .22.: NACHTRAG: Informationsveranstaltung des Arbeiter-Samariter-Bunds am 13.07.2013, Richard-Strauss-Brunnen
+- TOP .1.: Detaillierte Ortsangabe zur Wiederherstellung des Grünstreifens am Thomas-Wimmer-Ring
+- TOP .2.: Planfeststellungsverfahren 2. S-Bahnstammstrecke, Abschnitt München Ost
+- TOP .3.: Behindertenparkplätze Sendlinger Straße/Schrammerstraße
+- TOP .2.: Bürgeranliegen: Halteerlaubnis für eine Stunde vor der Buchhandlung BIAZZA, Oettingenstraße 3
+- TOP .1.: Auftakt- und Informationsveranstaltung der KITA-Servicestellen U3
+- TOP .4.: Änderung von Reinigungsklassen im Stadtbezirk 1
+- TOP .1.: Beschlussvorlage für den Ausschuss für Bildung und Sport am 03.07.2013: Berufliches Schulzentrum Liebherrstraße 13 (?): Umbau und Sanierung der Orthopädiewerkstätten
+- TOP .5.: NACHTRAG: Inbetriebnahme neuer Haltestellen für die neue Citybuslinie 101 zum Fahrplanwechsel im Stadtgebiet des Bezirksausschuss 1
+- TOP 0: Unterrichtungen
+- TOP 0.1.: (E) Budget der Bezirksausschüsse Theater des hölzernen Gelächters Theaterproduktion von Ende Juni - Ende September 2013
+- TOP 0.1.: NACHTRAG: Entfernung der Budda-Skulptur am Viktualienmarkt, Wahl eines neuen Standorts
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.4.: Haushaltsrückstellungen für den Sozialen Wohnungsbau, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013, Sitzungsvorlage Nr. 08-14 / V 12050
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.3.: Antwortschreiben der LBK zum Bauvorhaben Thieschplatz 3, TOP 2013.05 B 0.1
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.1.: Vorfall im Kindergarten St. Annaheim, Antwort des Oberbürgermeisters auf eine Stadtratsanfrage
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.6.: Antwortschreiben und Baugenehmigung der LBK zu Lerchenfeldstraße 4
+- TOP 0.6.: Antrag der Stadtratsfraktion DIE GRÜNEN/RL: Boulevard an der Isar
+- TOP 0.2.: Schreiben der Stadtbaurätin zur Beschwerde des BA über mangelhafte Zuleitung von Planunterlagen
+- TOP 0.8.: Antwortschreiben des Kreisverwaltungsreferats zur Veranstaltung auf öffentlichem Verkehrsgrund; Stellungnahme des BA 1 zum Israeltag am 08.05.2013, TOP 2013.05 C 4.7
+- TOP 0.5.: Antwortschreiben der LBK zu Lerchenfeldstraße 4
+- TOP 0.5.: Kunst im Öffentlichen Raum: Denkmal der grauen Busse vom 01.07 - 30.09.2013 auf der Grünanlage des Isartorplatzes vom
+- TOP 0.12.: Eilentscheidung zur Veranstaltung ?talk the line?, 08.06.2013, Grünanlage Auf der Insel
+- TOP 0.7.: Antwortschreiben des Kreisverwaltungsreferats zur Sondernutzung auf öffentlichem Verkehrsgrund; Gespräch mit den Vertretern des Bayerischen Landesverbands der Marktkaufleute, TOP 2013.03 C 0.2
+- TOP 0.14.: Eilentscheidung zum Straßenfest City Partner zur Eröffnung der Fußgängerzone in der Sendlinger Straße am 22.06.2013
+- TOP 0.11.: Brunnenhof-Konzerte in der Residenz, 01.07.-18.08.2013
+- TOP 0.13.: Eilentscheidung zur ?Infoveranstaltung des Bayerischen Realschullehrer-Verbands?, 08.06.2013, Neuhauser Straße
+- TOP 0.16.: NACHTRAG: Eilentscheidung zum ?Bennofest? am 22.06.2013, Odeonsplatz
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Änderung des Zeitzusatzes bei allgemeinem Behindertenparkplatz in der Liebherrstraße 20
+- TOP 0.9.: Eilentscheidung zur Veranstaltung ?Festzug anlässlich 60 Jahre Musikbund von Ober- und Niederbayern e.V.? am 09.06.2013, Marienplatz
+- TOP 0.6.: Nachtbauarbeiten Öffentlicher Nahverkehr
+- TOP 0.15.: Eilentscheidung zum ?Tag der offenen Tür der LHM? am 22.06.2013, Marienplatz
+- TOP 0.1.: Bekämpfung von Ameisen in Kinderspielbereichen, Bekanntgabe in der Sitzung des Bauausschusses vom 14.05.2013, Sitzungsvorlage Nr. 08-14 / V 11667
+- TOP 0.10.: Eilentscheidung zur Vorprüfung ?Künstlerische Inszenierung Wagner vs. Verdi? am 28.06.2013, Max-Joseph-Platz
+- TOP 0.2.: Barrierefreiheit für Menschen mit Behinderung, Beschluss des Bauausschusses vom 14.05.2013, Sitzungsvorlage Nr. 08-14 / A 06383
+- TOP 0.2.: Nachtbauarbeiten Sendlinger Straße
+- TOP 0.5.: Gefahrenbaumfällung Marstallplatz 5
+- TOP 0.3.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.2013, Sitzungsvorlage Nr. 08-14 / V 11869
+- TOP 0.17.: NACHTRAG: Eilentscheidung zu Dreharbeiten vom 09.-12.06.2013 auf der Praterinsel
+- TOP 0.3.: Nachtbauarbeiten Frauenstraße 4
+- TOP 0.4.: Seniorenpolitisches Programm unter Einbeziehung der Referate, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013, Sitzungsvorlage Nr. 08-14 / V 12206
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .3: Anhörungen
+- TOP .2: Entscheidungen
+- TOP .3.2: Sonstige
+- TOP 0.4.: Bürgeranliegen: Tischtennisplatten auf der Praterinsel
