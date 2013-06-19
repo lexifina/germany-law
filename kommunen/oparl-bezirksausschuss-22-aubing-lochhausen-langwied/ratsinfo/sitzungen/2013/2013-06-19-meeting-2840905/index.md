@@ -1,0 +1,113 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2013-06-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Ladenzentrum Westkreuz
+- TOP 1.1.5: 1.Preis Bundeswettbewerb für Mittelschule Wiesentfelser Straße
+- TOP 2: Bürgeranliegen
+- TOP 2.1.6: Zukünftiger Eigentümer und Nutzung Räume Schlafwagengesellschaft
+- TOP 2.1.5: Benennung eines Beauftragten gegen Rechtsextremismus
+- TOP 2.1.: Pferde am Langwieder Bach
+- TOP 2.2.: Parksituation Aubinger Lohe - Aubing - Altostr. stadtauswärts gegenüber Asmarstr.
+- TOP 2.3.: Gröbenzeller Spange, S 4-Strecke
+- TOP 2.1.: Baumfällung auf Anforderung: -Ziegeleistr. 9 - Lichtenfelser Str. 15 - Hoheneckstr. 90 - Neidensteiner Str. 8 - Seldeneckstr. 6 - Dinkelsbühler Str. 25 - Altostraße - Eichenauer Str. 4
+- TOP 2.4.: Zustand städtisches Grundstück Aubinger Straße / Klaussteinstraße / Wolfsberger Straße
+- TOP 2.5.: Hochwassersituation in der Aubinger Lohe, Krähenweg 85
+- TOP 2.6.: Zweckentfremdung der Parkfläche am Ende der Voglerstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 2.7.: Müllsammelbehälter an der Grabenfleckstraße
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.: Baumfällungen zu Bauvorhaben: - Kronwinkler Str. 70 - Kühlenfelser Str. 2 - 22 - Heckenhofer Str. 2 - 14 - Reichenbergstr. 2 - 18
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.: Sanierung Bahnsteigdach S-Bahnhof Aubing
+- TOP 3.3.6: Mieterbeirat
+- TOP 3.4.: Anpassung der Infrastruktur bei Bauvorhaben durch Nachverdichtung; hier: Infrastruktur Schulen
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4.1.: Verbesserung bei der S4 jetzt - Einsatz zusätzlicher Express S-Bahnen mit Halt in Aubing und Leienfelsstraße bis zur Realisierung 4-gleisiger Ausbau S4
+- TOP 4: Anträge
+- TOP 4.2.: Verstärkung Buslinie 162
+- TOP 6: Berichte der Unterausschüsse
+- TOP 1: Schaffung von 4 Kurzzeitparkplätzen in der Lochhausener Straße gegenüber dem S-Bahnhof Lochhausen
+- TOP 1.5.: Sendlinger Spange
+- TOP 5: Entscheidungen
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Anwohnerstraßenfest in der Kastelburgstraße am 29.06.13, Anhörung KVR vom 22.05.13
+- TOP 5.2.: Budget der Bezirksausschüsse: SOS-Mütter- und Kindertageszentrum München - Internationales Sommerfest am 12.07.2013
+- TOP 5.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 5.1.: Erlaubnisbescheid für Nachbarschaftsfest in der Hufschmiedstr. am 25.05.13, Schr. KVR vom 21.05.13
+- TOP 5.2.: Errichtung eines Hauses für Kinder mit 2 Kinderkrippen- und 2 Kindergartengruppen zwischen Rossittener Straße und Heuglinstraße - Genehmigung des Nutzerbedarsprogramms, Schr. RBS vom 06.03.13
+- TOP 5.4.: Ganztag gemeinsam gestalten; Betreuung von Kindern / Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien, Stellungnahmen des BAs 1, 8, 9, 10, 11, 17, 20, 21, 25
+- TOP 5.3.: Protokoll der Informationsveranstaltung Jugendbeteiligung, Schr. Kreisjugendring vom 08.05.13
+- TOP 5.6.3: UA Freiham
+- TOP 5.6.: Veranstaltungen / Kooperationen im Juni 2013, Schr. Kulturreferat vom 29.05.13
+- TOP 5.5.: Arbeitsgruppe "Gedenken an den 9. November 1938", geplante Veranstaltungen
+- TOP 5.1.: Genehmigungsbescheid für Zuwendung BA-Budget: "Bürgerinnen und Bürger gestalten ihre Stadt", Schr. Direktorium vom 15.05.13
+- TOP 5.2.: Ablehnung einer beantragten Zuwendung aus dem BA-Budget, Antragsteller: Initiative "Kinderspielbereich", Schr. Direktorium vom 23.05.13
+- TOP 5.2.: Inbetriebnahme neuer Haltestellen am 12.09.2013 im Stadtgebiet des Bezirksausschusses 22, Anhörung MVG vom 22.05.13
+- TOP 5.3.: Erschließung AW-Neuaubing, Bebauungsplan mit Grünordnung Nr. 1998 a, Anhörung Baureferat vom 15.05.13
+- TOP 5.2.: Geothermie Freiham, was nun?, Anfrage CSU-Fraktion, Schr. SWM vom 17.05.13
+- TOP 5.3.: Mitteilung über ein Grundstückgeschäft: - Franz-Josef-Str., Schr. Kommunalreferat vom 28.05.13 - Am Hörweg, Schr. Kommunalreferat vom 21.05.13
+- TOP 5.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 5.6.: Inbetriebnahme neuer Haltestellen am 12.09.13 im Stadtgebiet des BA 22, Anhörung MVG vom 27.05.13
+- TOP 5.1.: Planfeststellung 2. Stammstrecke München; Planfeststellungsabschnitt 3neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) - Änderungsverfahren, Anhörung Planungsreferat vom 13.05.13
+- TOP 5.4.: Wertstoffcontainerstandort: Kronwinkler Str. bei Haus-Nr. 35, Anhörung AWM vom 29.05.13
+- TOP 5.5.: Erinnerungsverfahren: Straßensanierung Bergsonstr. 109 - 115 unter der Unterführung, Anhörung Baureferat vom 22.05.13
+- TOP 5.1.: Baufälle im 22. Stadtbezirk (v. 29.04.-05.05.13, 06.05.-12.05.13, 13.05.-19.05.13, 20.05.-26.05.13, 27.05.-02.06.13), Schr. Planungsreferat vom 06.05.13, 13.05.13, 21.05.13, 27.05.13, 03.06.13
+- TOP 5.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 06.05.13, 13.05.13, 21.05.13, 27.05.13, 03.06.13
+- TOP 5.3.: Zustand Friedhof Aubing, Schr. Friedhofsverwaltung vom 07.05.13
+- TOP 5.4.: Frühzeitige Information der Bevölkerung und Fachverbände bei größeren Bauprojekten und Planungsverfahren, Schr. Planungsreferat vom 06.05.13
+- TOP 5.5.: Aufstellung eines Buswartehäuschen an der Haltestelle Wertheimer Straße der Linie 57 / 157 / 162, Schr. SWM vom 03.05.13
+- TOP 5.7.: Barrierefreiheit - Änderung der gesetzlichen Auflagen durch den bayerischen Landtag, Schr. Herr Oberbürgermeister Ude vom 08.05.13
+- TOP 5.8.: Mindestabstand zwischen Spielhallen, Schr. KVR vom 13.05.13
+- TOP 5.15.: Prüfung der Denkmal- bzw. Ensembleschutzwürdigkeit der Gebäude Varnhagenstraße 41, 41 a - c und 43, Zwischenmitteilung Planungsreferat vom 16.05.13
+- TOP 5.10.: Andauernde Lärmbelästigung durch die Deutsche Bahn, Schr. Referat für Arbeit und Wirtschaft vom 02.05.13 und Schr. RGU vom 14.05.13
+- TOP 5.11.: Privatweg Thuisbrunner Straße nach Osten, Richtung Überlinger Weg, Schr. KVR vom 15.05.13
+- TOP 5.14.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) zum Leistungsprogramm 2014 der MVG, Schr. AAN vom 12.05.13
+- TOP 5.13.: Mitteilung über ein Grundstücksgeschäft: - Germeringer Weg, Schr. Kommunalreferat vom 07.05.13
+- TOP 5.19.: Mitteilung über ein Grundstücksgeschäft, Am Hörweg, FlNr. 874 Gemarkung Aubing, Schr. Kommunalreferat vom 21.05.13
+- TOP 5.21.: Aufstellung eines Kunststoffcontainers am Aubinger Bahnhof, Schr. AWM vom 27.05.13
+- TOP 5.16.: Aufstellen von Hundekotbeutelständern neben dem Jugendtreff "s'Fredl", Bodenseestr. 186; Aufkiesung des Thuisbrunner- / Überlinger Wegs, Schr. Baureferat vom 21.05.13
+- TOP 5.19.: Fragen zum 2. Stammstreckentunnel, Schr. Planungsreferat vom 03.06.13
+- TOP 5.3.: Informationsschaukasten Ubostr. 41 / Ecke Eichenauer Str. - Ersatzaufstellung, Anhörung Kommunalreferat vom 27.05.13
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Vielfältige Maßnahmen der Bürgerbeteiligung, Anhörung Direktorium vom 15.04.13 (vertagt aus 05/13 - TOP 7.1)
+- TOP 7.2.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben (Antrag Nr. 4579/16.), Anhörung Direktorium vom 13.05.13
+- TOP 7.3.: Verkerhrssituation Ortskern Lochhausen, Einbahnregelung in der Gündinger Straße und Am Lochhauser Hügel - Niederschrift der Einwohnerversammlung vom 06.06.13, Anhörung KVR vom 05.03.13
+- TOP 7.3.: Wirtschafts-Info 05/2013, Schr. Referat für Arbeit und Wirtschaft vom 29.05.13
+- TOP 7.1.: Zweckentfremdung von Wohnraum: - Solnhofener Str., Schr. Sozialreferat vom 08.05.13
+- TOP 7.4.: Umsetzung des Informationsschaukasten an der Colmdorfstraße, Anhörung Kommunalreferat vom 05.06.13
+- TOP 7.5.: Aubinger Höfefest entlang der Ubostraße am 15.09.13, Anhörung KVR vom 17.06.13
+- TOP 7.6.: Zuwendung aus dem BA-Budget: Antrag des Bayerischen Roten Kreuzes auf Reparatur eines Einsatzfahrzeuges vom 04.01.13; Änderung auf Erwerb eines gebrauchten Einsatzfahrzeuges, Anhörung Direktorium vom 13.06.13
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.4.: Johannisfeuer mit Serenade am Ramses See und Fackelzug in der Grünanlage Sipplinger Straße am 21.06.13, Schr. KVR vom 07.06.13 - Vorabzustimmung durch BA-Vorsitzenden -
+- TOP 8.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.04.13: Erhaltungssatzungen (geänderter Beschluss)
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 8.2.: Unveränderte Fortführung des Gaststättenbetriebs: - "Aubinger Einkehr", Gößweinsteinplatz 7, Schr. KVR vom 29.04.13 - "Anämos", Radolfzeller Str. 13, Schr. KVR vom 16.05.13 - "Flames Munich American Bar & Grill", Anton-Böck-Str. 32, Schr. KVR vom 28.05.13
+- TOP 8.4.: Beschluss des Verwaltungs- und Personalausschusses vom 17.04.13: Änderung der Satzung für die Bezirksausschüsse - Vorberatungen in der BA-Satzungskommission und Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 9.5.: Beschluss des Umweltschutzausschusses vom 07.05.13: Lärmminderungsplan für München, Lärmaktionsplan
+- TOP 9.6.: Bekanntgabe in der Sitzung und Beschluss des Bauausschusses vom 14.05.13: - Bekämpfung von Ameisen in Kinderspielbereichen - Barrierefreiheit für Menschen mit Behinderung - Gleisdreieck Pasing, Paosostraße, Bau eines Fuß- und Radweges und einer Skateanlage im 22. Stadtbezirk - Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2075: Autobahnkreuz Mü-West, BAB A8, Mosswiesenstr., Hanfgartenstr., Berglwiesenstr., BAB A 99 - Brauerei Langwied -
+- TOP 9.5.: Anzeige einer Versammlung unter freiem Himmel; Streik Großhandel der Gewerkschaft ver.di am 17.06.13 Am Gleisdreieck, Schr. KVR vom 13.06.13
+- TOP 9.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.05.13: Perspektive München - Fortschreibung 2012 (geänderter Beschluss)
+- TOP 9.3.: Beschluss der Vollversammlung des Stadtrates vom 02.05.13: Ergänzung der Zweckvereinbarung zwischen der Münchner Stadtentwässerung und dem Amperverband zur abwassertechnischen Erschließung eines weiteren Grundstückes an der Straße "Am Zillerhof"
+- TOP 9.8.: Beschluss des Auschusses für Bildung und Sport vom 12.06.13: Realschule für den 22. Stadtbezirk in Freiham und weitere Anträge/Bürgerversammlungsempfehlungen zu Schulen, Kinderbetreuungseinrichtungen in Freiham
+- TOP 9.1.: Festschrift zum 450-jährigen Bestehen des Alten Südlichen Friedhofes, Schr. RGU vom 29.05.13
+- TOP 9.7.: Beschluss des Kinder- und Jugendhilfeausschusses vom 11.06.13: Errichtung eines Provisoriums für die Kinder- und Jugendfarm Neuaubing an der Wiesentfelser Str. 59
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Nächste BA-Sitzung am Mittwoch, 17.07.13 in der Gastsätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 11.2.: Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer für Landtags- und Bezirkswahl am 15.09.13, Bundestagswahl am 22.09.13, Kommunalwahl am 16.03.14 und Europawahl am 25.05.14, Schr. KVR vom 28.05.13
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 5.17.: Freiham Nord, Bürbergebeteiligung zur Vorbereitung der Objektplanung der öffentlichen Grünflächen Freiham Neuaubinger Grünband / Grünfinger, Schr. Baureferat vom 15.05.13
