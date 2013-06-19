@@ -1,0 +1,101 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-06-19T17:00:00+02:00
+- Ende: 2013-06-19T20:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2574
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2574
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Autoverkehr in Kleingartenkolonie - beantwortet
+- TOP 3.2: Inklusion in Freizeiteinrichtungen - beantwortet
+- TOP 3.3: Biodiversität in der Straßenmitte fördern - beantwortet
+- TOP 3.4: Parkbänke - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines stellvertretenden Bürgerdeputierten im Ausschuss für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen. Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.3.1: Berufung eines beratenden Mitglieds als Vertreterin eines sachverwandten Bereichs im Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan 6-29 B - Lichterfelder Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4.2: Bebauungsplan X-186 (Kleingartenanlage "Grünstreifen" - südlicher Teil) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4.3: Bebauungsplan X-185 (Kleingartenanlage "Grünstreifen" - nördlicher Teil) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Kein zweiter Umzug! Das Wohl psychisch erkrankter Menschen sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Resolution: Psychisch Kranke vor Zwangsräumung bewahren! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Bezirkliche Sportstätten online besser präsentieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Fußgänger-LZA Albrechtstraße Nr. 109/Ecke Breite Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Ausreichend Grundschulplätze in unserem Bezirk? - in der BVV abgelehnt
+- TOP 4.6.4: Vorsorge für geplantes Frauen- und Mädchenzentrum treffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Neuauflage "Kiez International" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Informationsbroschüre zu Bolzplätzen im Bezirk und zur Nutzung von Sportstätten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Bild- und Informationsstele zum Jagdschloss Glienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Poller, Fahrradständer am S-Bahnhof Botanischer Garten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Nutzung Steglitzer Kreisel im Bezirksinteresse - in der BVV abgelehnt
+- TOP 4.6.10: Gewerbebetriebe in Lichterfelde-Süd schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.11: Keine neuen Wettbüros auf der Albrechtstraße und am Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.12: Beschulung schulpflichtiger Patienten sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Vorlagen zur Kenntnisnahme und Empfehlung von Ausschüssen - erledigt
+- TOP 4.7.1: Absichtserklärung (Letter of Intent) des Bezirksamtes Steglitz-Zehlendorf von Berlin und der Groth-Gruppe zur weiteren Entwicklung einer naturnahen Parklandschaft und von Wohnungsbauflächen in Lichterfelde-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Baumschäden online melden! - überwiesen
+- TOP 5.1.2: Anschaffung eines Messfahrrades - überwiesen
+- TOP 5.1.3: Keine Tabakwerbung auf Flächen des Bezirks - überwiesen
+- TOP 5.1.4: Fußgängerinsel/Fahrbahnteiler - überwiesen
+- TOP 5.1.5: "Mütter Lernen" in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.6: Barrierefreien Zugang zu Wahllokalen sicherstellen - überwiesen
+- TOP 5.1.7: Hinweisschild auf den Atomreaktor Wannsee sowie die Sammelstelle für radioaktive Abfälle - überwiesen
+- TOP 5.1.8: Haltestelle der Fahrbibliothek vor der Kronach-Grundschule - überwiesen
+- TOP 5.1.9: Regelmäßige Berichterstattung der gemeinsamen Einrichtung JobCenter - überwiesen
+- TOP 5.1.10: Bauprojekte auch in den Umweltausschuss - überwiesen
+- TOP 5.1.11: Flugrouten-Lärmüberwachung - überwiesen
+- TOP 5.1.12: Reparatur Kletterspinne in der Paul-Schneider-Grundschule - überwiesen
+- TOP 5.1.13: Sicheres Queren der Kreuzung Ostpreußendamm/Osdorfer Straße - überwiesen
+- TOP 5.1.14: Besucher-/Ausstellungszentrum Schlosspark Glienicke einrichten - überwiesen
+- TOP 5.1.15: Neugestaltung der Verträge der Musikschule - überwiesen
+- TOP 5.1.16: Sicherheit am Ausgang S-Bahnhof Zehlendorf - Fahrradfahrer absteigen! - überwiesen
+- TOP 5.1.17: Einrichtung von "Familienbüro" prüfen - überwiesen
+- TOP 5.1.18: Erinnerungsstele zur Villen-Kolonie Alsen und zu nationalsozialistischen Forschungsinstituten in Berlin-Wannsee - überwiesen
+- TOP 5.1.19: Ein Straßenschild für die Brigittenstraße - überwiesen
+- TOP 5.1.20: Gesprächskreis Schlachtensee/Krumme Lanke initiieren - überwiesen
+- TOP 5.1.21: Wiedervereinigungsdenkmal - überwiesen
+- TOP 5.1.22: Gehweg Paul-Schneider-Straße nur 55 Zentimeter breit - überwiesen
+- TOP 5.1.23: Hilfswerksiedlung, Ausfahrt Dahlemer Weg - überwiesen
+- TOP 5.1.24: Rettung der Nikolasseer Villenlandschaft - überwiesen
+- TOP 5.1.25: Kurzzeitparkplätze am S-Bahnhof Nikolassee - überwiesen
+- TOP 5.1.26: Klärung Eigentumsverhältnisse und dann aufräumen unter der Tiburtiusbrücke! - überwiesen
+- TOP 5.1.27: Sanierungsfähigkeit der Bauten hinter dem Rathaus - überwiesen
+- TOP 5.1.28: Straßenpumpe Alt-Lankwitz 55 instand setzen - überwiesen
+- TOP 5.1.29: Mobiles Bürgeramt - überwiesen
+- TOP 5.1.30: Vertragsüberprüfung - überwiesen
+- TOP 5.1.31: Die Lanke in Lankwitz renaturieren - überwiesen
+- TOP 5.1.32: Pollerweg an Ostrand Hermann-Ehlers-Platz entfernen - überwiesen
+- TOP 5.1.33: Platz für Hunde auch in Steglitz - überwiesen
+- TOP 5.1.34: Radfahren im Park - überwiesen
+- TOP 5.1.35: Spielplatz im Schönower Park mit mehr Müllbehältern ausstatten - überwiesen
+- TOP 5.1.36: Sichere Radverkehrsführung und Busbeschleunigung am Steglitzer Kreisel - überwiesen
+- TOP 5.1.37: Sanierung A 115 - Spanische Allee - Dreieck Zehlendorf - überwiesen
+- TOP 5.1.38: Spielstraße Fahrenheitstraße - überwiesen
+- TOP 5.1.39: Attraktivität des Steglitzer Damms steigern - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 7.1: Zusätzliche Grundschul-Raumkapazitäten im Bereich um die Truman-Plaza - überwiesen
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1.1: Noch immer - Bauen auf der Truman Plaza mit oder ohne "Grünstreifen-Grundstück" an der Clayallee - die V! - beantwortet
+- TOP 8.1.2: SARAZENU – Landesrechnungshof bestätigt Schwarz-Grünes Millionendesaster - beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Informationspflicht über Lichtsignalanlagen und Zebrastreifen - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
