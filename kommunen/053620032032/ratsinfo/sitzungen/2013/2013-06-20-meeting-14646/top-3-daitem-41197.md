@@ -1,0 +1,8 @@
+# TOP 3.: Friedhof und Trauerhalle in Manheim-neu
+
+- Sitzung: Bau- und Feuerschutzausschuss (18. Sitzung) (2013-06-20)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/41197
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/51907
+- Beschluss (Datei): Beschlusstext (Friedhof und Trauerhalle in Manheim-neu) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbxOsTgDf6CNovBDfxyrnuwPwsWbaxSyIs1MYbogeJyY/Beschlusstext_224.13_-oeffentlich-_Bau-_und_Feuerschutzausschuss_20.06.2013.pdf
