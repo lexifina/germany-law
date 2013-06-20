@@ -1,0 +1,73 @@
+# 20. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-06-20T16:30:00+02:00
+- Ende: 2013-06-20T20:50:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3597
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3597
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=95665
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - (offen)
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Faire Honorarverträge für Musikschullehrerinnen und Musikschullehrer - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-20 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Die Schule für Alle – Inklusive Beschulung in Treptow-Köpenick - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Gründung einer eigenständigen Grundschule am Standort Kiefholzstraße 45, 12435 Berlin - überwiesen
+- TOP 11.2: Sondermittelantrag des FIPP e. V. (SM 13-15) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag der Evangelisch-Freikirchlichen Gemeinde Berlin-Oberschöneweide K. d. ö. R. (SM 13-20) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittelantrag des Rabenhaus e. V. (SM 13-21) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittelantrag der Jugendfeuerwehr Oberschöneweide (SM 13-22) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittelantrag des Sportclub Berlin-Grünau e. V. (SM 13-16) - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittelantrag des offensiv'91 e. V. (SM 13-23) - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2014 und 2015 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Naturnahe und nachhaltige Grünflächenpflege in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Gesellschaftshaus/Riviera für die Öffentlichkeit erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schulwegsicherung für Hauptmann-von-Köpenick-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Gefährdung durch Leuchtwerbung verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Haltestellenüberdachung am Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Querung für Radfahrer am Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schulobst ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Städtebaulichen Denkmalschutz für Müggelheim beantragen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Verbesserung der Anbindung des Stadions an der Alten Försterei - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Ampelschaltung Rudower Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Fahrbahn Semmelweisstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Fußwege in Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Aktion „ Zu Fuß zur Schule“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Sichere Querung Wegedornstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Querungshilfe Wendenschloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Dauerhafte Lösung für Teltowkanal - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schutz vor Eigenbedarfskündigung auch in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Keine Parteiplakate in Gebäuden des Bezirksamts - überwiesen
+- TOP 14.3: Versetztes Parken in der Dörpfeldstraße anordnen - überwiesen
+- TOP 14.4: Clearing in der Wohnungslosenhilfe - überwiesen
+- TOP 14.5: Ruhender Radverkehr in der Altstadt Köpenick - überwiesen
+- TOP 14.6: Kostenleistungsrechnung nicht unnötig belasten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Bessere Querung für Fußgängerinnen und Fußgänger am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Verhandlungen zum Schutz der Mieterinnen und Mieter der GSW-Wohnungen in der Mittelheide - mit Änderungen in der BVV beschlossen
+- TOP 14.9: Gemeinsamer Geh- und Radweg auf der Altglienicker Ersatzbrücke - überwiesen
+- TOP 14.10: Mehr Bürgerbeteiligung in der Stadtentwicklung - überwiesen
+- TOP 14.11: Änderung der Geschäftsordnung vom 27.09.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.12: Parkraumbewirtschaftung Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Sauberkeit im Schlesischen Busch - überwiesen
+- TOP 14.14: Schutz der ökologischen Nischen im „Schlesischen Busch“ - überwiesen
+- TOP 14.15: Rederechte der Seniorenvertretungen - überwiesen
+- TOP 14.16: Radweg Grünauer Straße - überwiesen
+- TOP 14.17: Verteilung von BVV-Unterlagen - im Ausschuss zurückgezogen
+- TOP 15: Große Anfragen - (offen)
