@@ -1,0 +1,52 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2013-06-25T17:30:00+02:00
+- Ende: 2013-06-25T23:05:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdXM5eGyY9xpPjEkH2Vs00k
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/879
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZacQYhuh0YAoQ4gPhJ21ivG026d6ojaod9x7lejdyoM7/Bekanntmachung_Rat_25.06.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbniYzkQbzmRWnnpoRk-uesXZrVGTP0V2JC2ikOGXptm/Oeffentliche_Niederschrift_Rat_25.06.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 16.05.2013
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Anfrage der CDU-Fraktion zu einer Kreisverkehrslösung an der Kreuzung Große Straße/ Ruller Straße/ Boerskamp/ Lechtinger Kirchweg
+- TOP 3.2: Informationsmaterial zur Naherholung
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 1. Änderung der Satzung der Gemeinde Wallenhorst über die Entschädigung der Ratsfrauen und Ratsherren sowie der sonstigen Ausschussmitglieder hier: § 8 Kommunalpolitische Bildungsarbeit (Fraktionszuwendungen) - mehrheitlich mit 18 Ja-Stimme(n), 11 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 4.2: Erlass einer Satzung zur Nahwärmeversorgung im Gebiet des Bebauungsplanes Nr. 250 "Fürstenauer Weg / Hansastraße" - mehrheitlich mit 19 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Benennung a) der Vertreter der Gemeinde Wallenhorst in der Gesellschafterversammlung der Gemeindewerke Wallenhorst GmbH b) der Vertreter der Gemeinde Wallenhorst im Aufsichtsrat der Gemeindewerke Wallenhorst GmbH - Bei der Wahl entfielen bei einer Enthaltung 18 Stimmen auf Alfons Schwegmann und 11 Stimmen auf Alfred Lindner. Herr Schwegmann nahm die Wahl an.
+- TOP 5.2: Jahresabschluss 2012 der Wasserversorgung Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Antrag der Linken auf Einrichtung einer Stelle zur Kommunalen Betriebsprüfung - Der Punkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 6.: Kindertagesstätten
+- TOP 6.1: Öffentlich-rechtliche Vereinbarung mit dem Landkreis Osnabrück über die Wahrnehmung der Aufgaben der Förderung von Kindern in Tageseinrichtungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Bauleitpläne
+- TOP 7.1: 3. Änderung des Bebauungsplan Nr. 103 „Sportzentrum“ hier: Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB sowie Entwurfsbeschluss und Beschluss zu den Beteiligungsverfahren gemäß § 13 a Abs. 2 BauGB i.V.m. § 3 Abs. 2 und § 4 Abs. 2 BauGB - mehrheitlich mit 18 Ja-Stimme(n), 11 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 7.2: Bebauungsplan Nr. 248 "Große Straße / Franksmannstraße" hier: Beschluss des Vorentwurfes - mehrheitlich mit 19 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 7.3: Bebauungsplan Nr. 265 „Zwischen Lechtinger Kirchweg und B 68“ hier: Entwurfsbeschluss und Beschluss über die Beteiligung gem. § 3 (2) BauGB und § 4 (2) BauGB in Verbindung mit § 13 a (2) BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Umwelt- und Energieangelegenheiten
+- TOP 8.1: Klimaschutzkonzept Besetzung des Beirates sowie erster Sachstandsbericht durch das Ingenieurbüro - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 8.2: Nahwärmeversorgung im Baugebiet "An der Barlager Brücke" hier: Vorstellung der Wirtschaftlichkeit durch die iNeG - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.3: Erstellung eines Konzeptes zur Errichtung einer Kraft-Wärme-Kopplung für die 21 gemeindeeigenen Gebäude und 8 Kindertagesstätten hier: Aktueller Sachstand und weitere Vorgehensweise - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Erschließungskonzept zum Bebauungsplan Nr. 241 "Westlich und nördlich Schwarzer See" - mehrheitlich mit 18 Ja-Stimme(n), 10 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 9.2: Dorferneuerung: Maßnahme „Verkehrsberuhigte Umgestaltung der Straße ´Im Alten Dorf´ und Stellplätze an der Alten Kirche“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Maßnahme aus der Dorferneuerung: "Gestaltung der 5er-Kreuzung" im Ortsteil Rulle hier: Erneute Beratung und Entscheidung zur Umsetzung - mehrheitlich mit 17 Ja-Stimme(n), 10 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 9.4: Umgestaltung der Randbereiche an der Hollager Straße hier: Entwurfsbeschluss für die Platzgestaltung im Bereich der Weltkugel - zurückverwiesen, mit 28 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 10.: Kämmereiangelegenheiten
+- TOP 10.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen für das Haushaltsjahr 2012 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Genehmigung zur Annahme von Zuwendungen (Ratsbeschluss) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Anfragen und Anregungen
+- TOP 11.1: Nutzung von Erdwärme im Baugebiet "Wellmanns Hügel"
+- TOP 11.2: Umleitungsverkehr der B68 über die Mühlenstraße
+- TOP 11.3: Sitzungsplanung und aktueller Sachstand zum Arkaden-Center
+- TOP 11.4: Vergabe von Baugrundstücken im Baugebiet "Hollage-West"
