@@ -1,0 +1,89 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-06-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2821057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2821057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Aufstellung eines BA-Schaukasten im HaidPark
+- TOP .10.: sonstiges
+- TOP .1.: Feriensenat
+- TOP .2.: Sitzungstermine 2014
+- TOP .3.: Oktoberfest 2013 (Terminwünsche)
+- TOP .1.: Errichtung eines absoluten Haltverbots in der Grünecker Straße (im Abschnitt zwischen Domagkstr. und Kohlrauschstr.)
+- TOP .2.: Absolutes Haltverbot in der Herzogstraße außerhalb der Parkbuchten (Nordseite zwischen Belgradstraße und Siegfriedstraße)
+- TOP .1.: Entwurf des Leistungsprogramms der MVG für 2014
+- TOP .1.: Parken in der Parkstadt Schwabing
+- TOP .1.: Errichtung einer Kurzparkzone vor dem Anwesen Marchgrabenplatz 8 a
+- TOP .1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Finauerstr. 4
+- TOP .2.: Verlegung des Zebrastreifens vor Kieferngartenstraße 15
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Otl-Aicher-Str. 52
+- TOP .4.: Absolutes Haltverbot in Freisinger Landstr. 8 (Südostseite) im Bereich der Ein- und Ausfahrt der Firma Machines-Munich UG
+- TOP .1.: Filmaufnahmen auf öffentlichem Verkehrsgrund (2)
+- TOP .2.: Erinnerungsverfahren ? geplante Baumaßnahmen im öffentlichen Straßengrund Ungererstraße 71, Gehbahn-Plattenumlegen
+- TOP .3.: Zebrastreifen Kieferngartenstraße / U-Bahn-Haltestelle Kieferngarten (Schreiben des Kreisverwaltungsreferates an einen Bürger)
+- TOP .4.: Neubau einer Lärmschutzwand entlang der A 9 Berlin-München (westlich) und entlang der Domagkstr. (nördlich) ? ehemalige Funkkaserne - Bedarfs- und Projektgenehmigung; Sitzungsvorlage Nr. 08-14 / V 11871 Beschluss des Bauausschusses vom 18.06.2013
+- TOP .5.: Ausdehnung der städtischen Verkehrsüberwachung im Bereich Biederstein- / Mannlich- / Osterwaldstr. (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .6.: Radverkehr in München ? Bericht zur Umsetzung und Aktualisierung von Zielen Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltausschusses vom 19.06.2013 Sitzungsvorlage Nr. 08-14 / V 12242
+- TOP .7.: Begegnungszonen / ?Shared Space?, Sitzungsvorlage Nr. 08-14 / V 08124 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP .1.: (E) Budget der Bezirksausschüsse KuVe Kulturverein Alte Heide e.V. Theaterstück "Haltestelle.Geister" von Juli 2013 - März 2014
+- TOP .1.: Alt-Schwabinger Wirtefest am 06.07.2013 in der Feilitzschstr. / Wedekindplatz / Siegesstr. /Franzstr. (Ersatztermin: 13.07.2013)
+- TOP .2.: Feuerwerk der Kat. II in der Osterwaldstr. 76 am 13.07.2013 im Rahmen einer Jubiläumsfeier der BayernLB
+- TOP .1.: Aufstellung eines Bücherschrankes in der Alten Heide
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2013, Sitzungsvorlagen Nr. 08-14 / V 11869 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.2013
+- TOP .2.: Erlaubnisbescheid: Firmvorbereitung des Dekanats München ? Innenstadt am 07.06.2013 auf dem Kaiserplatz
+- TOP .3.: Seniorenpolitisches Programm unter Einbeziehung der Referate Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 Sitzungsvorlage Nr. 08-14 / V 12206
+- TOP .4.: Bescheide / Zuwendungsbewilligungen a) Nachbarschaftstreff Schwabing ?Lilly 10? für das Projekt ?Kunst und Leben im Park 2013? vom 29.06. bis 20.07.2013 in Höhe von 1.500,00 ? b) Theater Heppel & Ettlich für die Anschaffung eines neuen Beamers in Höhe von 1.000,00 ? c) Innere Mission München für ein Sommerfest am 13.06.2013 in Höhe von 1.500,00 ? d) Schwabinger Frisbee Buam e.V. für die Anschaffung von Trikots und Frisbeescheiben in Höhe von 0,00 ? e) Fröttmaninger Kunst- und Kulturkreis ?Kukuk? e.V. für ein Fest am 29.06.2013 in Höhe von 750,00 ? f) Theater des Hölzernen Gelächters für die Theaterproduktion von Ende Juni ? Ende September 2013 in Höhe von 3.000,00 ? g) Gaudiblatt / 84 Ghz ? Raum für Gestaltung für die Veranstaltung am 03.08.2013 in Höhe von 2.000,00 ? h) Domagkatteliers gGmbH für die Domagkateliertage vom 27.06 bis 30.06.2013 in Höhe von 2.000,00 ?
+- TOP .1.: Aufstellung einer neuen Zeitungsverkaufseinrichtung, Isarring ? Liebergesellstraße 29 (an der Bushaltestelle Osterwaldstraße)
+- TOP .2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung der restlichen Teilstrecke der Hans-Döllgast-Straße der restlichen Teilstrecke der Otl-Aicher-Straße
+- TOP .3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung der Teilstrecke des Admiralbogens der Gesamtstrecke der Kaisermantelstraße
+- TOP .4.: Erweiterung einer bestehenden Freischankfläche um 2,44 m², Leopoldstraße 80
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Rohmederstr. 10, Fl.Nr.: 1004/48, Neubau eines Einfamilienhauses, Fällung einer Linde
+- TOP .2.: Sondermeierstr. 110, 1 Thuja
+- TOP .3.: Brabanter Str. 4, Fl.Nr.: 1227/0, Nutzungsänderung von Teilflächen einer Kindertagesstätte (Erweiterung um 1 Gruppe), Fällung einer Robinie
+- TOP .4.: Ingolstädter Str. 170, Fl.Nr. 228/7, Errichtung eines Backshops, Fällungen gemäß Plan
+- TOP .5.: Königinstr. 34, 1 Buche, 1 Esche
+- TOP .6.: Heidemannstr., Fl.Nr.: 170/46, Sanierung und Aktivierung / Nutzungsänderung des denkmalgeschützten Wasserturms zu Wohnungen mit Atelier ? Vorbescheid, diverse Fällungen gemäß Plan
+- TOP .7.: Frankfurter Ring, Fl.Nr.: 880/138, Errichtung eines Gebäudes mit Studentenwohnheim ?Haus für Kinder?, Clearinghaus und TG ? Vorbescheid, Fällung von 3 Bäumen (siehe Plan)
+- TOP .8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Bauvorhaben: Muthmannstr. 1, Fl.Nr.: 302/2, Nutzungsänderung 1. OG (max. 1.000 Personen) zu Filmproduktion und Versammlungsstätte - Tektur
+- TOP .2.: Bauvorhaben: Leopoldstr. 28a, Fl.Nr.: 3263/0, Einbau Sicherheitstreppenhaus und Anhebung 7.OG einschließlich Dacherneuerung - Vorbescheid
+- TOP .3.: Bauvorhaben: Lilienthalallee 45, Fl.Nr.: 170/187, Montagehalle Ausbesserungswerk München Freimann ? Bau- und Teilabbruchmaßnahmen zur Realteilung
+- TOP .1.: Nutzgärten in Neubaugebieten
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Vorbescheid: Eisenacher Straße 11, Neubau eines Einfamilienhauses mit Garage und Pool
+- TOP .2.: Baugenehmigung: Wilhelmstraße 10, Fl.Nr.: 404/87, Nutzungsänderung im KG: Lagerflächen zu Gastronomie mit temporärer Außenbestuhlung (12 Sitzpl.)
+- TOP .3.: Baumaßnahmen der Stadtwerke München (SWM) a) Fernwärmeprojekt Kaiserstraße b) Stromprojekt Leopoldstraße (Rückbau und Wiederanschluss)
+- TOP .4.: Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder
+- TOP .5.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den BA 1 Beschluss der Vollversammlung des Stadtrates vom 02.05.2013 Sitzungsvorlage Nr. 08-14 / V 11299
+- TOP .6.: Stadtteilgebiet Parkstadt Schwabing (Schreiben des Referats für Stadtplanung und Bauordnung sowie des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .7.: Demografiebericht München - Teil 2; kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke ; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013; Sitzungsvorlage Nr.: 08-14 / V 11936
+- TOP .8.: Umstrukturierung der Betriebsflächen der Paulaner Brauereien im Stadtbezirk 5 Au-Haidhausen; Sitzungsvorlage Nr.: 08-14 / V 11999 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013;
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Regionalausschusssitzung: Dienstag, den 18.06.2013 um 19.00 Uhr, Freiwillige Feuerwehr München Abteilung Freimann, Heinrich-Groh-Straße 8, 80939 München
+- TOP .2.: UA-Sitzungen am Mittwoch, den 19.06.2013 um 19.30 Uhr: - UA Bildung, Kultur und Soziales: Seidlvilla, Nikolaiplatz 1b - UA Stadtplanung und Architektur: Seidlvilla, Nikolaiplatz 1b - UA Umwelt und Verkehr: Seidlvilla, Nikolaiplatz 1b
+- TOP .3.: nächste Plenumssitzungen: Juli am 30.07.2013, 19.30 Uhr Seidlvilla, Nikolaiplatz 1b August / Feriensenat am 27.08.2013, 19.30 Uhr, Heidehaus, Admiralbogen (U-Bahn-Station Fröttmaning) September am 24.09.2013, 19.30 Uhr, Seidlvilla, Nikolaiplatz 1b
+- TOP .1.: - gesonderte Tagesordnung -
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
