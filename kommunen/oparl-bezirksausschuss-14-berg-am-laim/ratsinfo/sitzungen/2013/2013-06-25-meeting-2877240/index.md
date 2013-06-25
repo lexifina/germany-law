@@ -1,0 +1,61 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-06-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877240
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877240
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Tagesordnung siehe unter "Dokumente"
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Erneuerung der Baumkirchner Straße, 2. Bauabschnitt, beidseitig durchgehende und verkehrssichere Radwege Empfehlung Nr. 08-14 / E 01753 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 14.03.2013 - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 2: (E) Häufigere Reinigung des Aufzugs und des Vorraums am S-Bahnhof Berg am Laim Empfehlung Nr. 08-14 / E 01752 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 14.03.2013 - <div></div>
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bundesmonopolverwaltung für Branntwein in Berg am Laim - <div></div>
+- TOP 3.1.2.1.: Entschärfung der Verkehrssituation auf der Bad-Kreuther-Straße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 3.4: Bereich Soziales
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 3.5.1.: (E) Budget der bezirksausschüsse Eigenheimervereinigung Berg am Laim/Michaeliburg e.V. Fotoausstellung am 10. und 11.08.2013 sowie Jubiläumsfeier am 10.08.2013 - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Projektteam ?Zirkus? der städtischen Ludwig-Thoma-Realschule Zirkusprojekt von 15. bis 19.07.2013 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse FC Phönix München e.V. Sommerfest am 30.06.2013 - <div></div>
+- TOP 3.5.4.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder, bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.1.1.1.: Aufenthaltsqualität auf dem Platz der Trambahnwendeschleife St.-Veit-Straße
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.2: Ankündigungen
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 1.2: Protokolle
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
