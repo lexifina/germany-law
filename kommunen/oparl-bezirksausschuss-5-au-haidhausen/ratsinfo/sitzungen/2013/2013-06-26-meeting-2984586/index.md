@@ -1,0 +1,52 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2013-06-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2984586
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2984586
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Fällung von zwei Bäumen an der Kreuzung Humboldt- / Pilgersheimer Straße; Bürgerschreiben vom 17.05.13
+- TOP .2.: Anträge / Empfehlungen aus der außerordentlichen Bürgerversammlung vom 04.06.13 zum Thema ?Neubebauung des Gebietes nach Absiedlung der Paulaner Brauerei?: Erhalt des historischen Zacherlbaus an der Ohlmüllerstraße einschließlich des Walmdaches; barrierefreie Wegeverbindung zwischen Oberer und Unterer Au innerhalb der Paulanergebietsbebauung; Streichung aller Entwürfe aus dem Wettbewerbsverfahren, die eine Hochhausbebauung an der Isarhangkante oder in der Unteren Au vorsehen; leichte Verbindungen zum MVG-Netz, zeitgleiche Fertigstellung von Wohnungen, Infrastruktur und sozialen Einrichtungen, Erhalt des denkmalgeschützten Verwaltungsgebäudes an der Ohlmüllerstraße (Ziffern 1, 2 und 5 des Antrages); 50 % geförderter Wohnraum und Verteilung auf die drei Teilgebiete, breite Streuung von Gewerbe und Dienstleistung in den Erdgeschossen der drei Teilgebiete und freie Zugänglichkeit von Bauten und Höfen, kulturelles und soziales Angebot mit Kindertagesstätten, Bewohnertreff und Jugendzentrum; verstärkte Förderung und Berücksichtigung von Baugemeinschaften der Auer Bürgerinnen und Bürger; 100 %ige Umsetzung der Forderungen aus der Stellungnahme des Bezirksausschusses 5 aus dem Verfahren nach § 3 Abs. 1 BauGB vom 02.05. bzw. 16.05.2013; Verlängerung der Buslinie 58 von der Silberhornstraße über Ostfriedhof, Auerfeldstraße, Orleansstraße zum Ostbahnhof mit Führung durch die Welfenstraße und Haltestelle im Neubaugebiet
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse AKA e.V. Internationales Stadtteilfest am 07.07.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 10.07.2013
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Verlegung einer bestehenden und genehmigten Warenauslage), Anwesen Balanstraße 14; Beschlussvorlage des Kreisverwaltungsreferats vom 05.06.13 (ohne Vorberatung)
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis (Änderung einer Freischankfläche), ?Café Fortuna?, Sedanstraße 18; Beschlussvorlage des Kreisverwaltungsreferats vom 10.06.13 (ohne Vorberatung)
+- TOP .6.3: Weitere Entscheidungen
+- TOP 1: (E) Haltestelle Haidenauplatz: Verengung der Orleansstraße zur Verbreiterung der Haltestelleninseln Empfehlung Nr. 08-14 / E 01713 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 31.01.2013 - <div>nach Antrag</div>
+- TOP 1.2.: (E) Glasfaseranschluss für alle Anwesen in der Au Empfehlung Nr. 08-14 / E 01715 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 07.02.2013
+- TOP 1.3.: Standortgenehmigung für Parkscheinautomaten, Nördliche Au, Ohlmüllerstraße gegenüber 20; Beschlussvorlage des Baureferats (ohne Vorberatung)
+- TOP 1.1.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder, bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Anhörung durch das Direktorium vom 13.05.2013 zum Antrag Nr. 08-14 / B 04578 des BA 16 vom 05.02.2013
+- TOP 1.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 1.8.2: Reaktionen auf BA-Schreiben
+- TOP 1.8.3: Weitere Unterrichtungen
+- TOP 1.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.1.: Regsam
+- TOP 1.2.: Kinder und Jugend
+- TOP 1.3.: Behinderte und Barrierefreiheit
+- TOP 1.4.: Ausländer und Flüchtlinge
+- TOP 1.5.: Frauen und Mädchen
+- TOP 1.6.: Internet
+- TOP 1.7.: Baumschutz
+- TOP 1.1.: Berichte von wahrgenommenen Terminen
+- TOP 1.2.: Nächste UA-Sitzungen
+- TOP 1.3.: Nächste BA-Sitzung
+- TOP 1.4.: Sonstige Termine
+- TOP 1.1.: Entscheidungen
+- TOP 1.2.: Anhörungen
+- TOP 1.3.: Unterrichtungen
