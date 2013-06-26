@@ -1,0 +1,74 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2727997
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2727997
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: ?Ganztag gemeinsam gestalten ? Betreuung von Kindern/Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien? Antrag des BA 22 Aubing-Lochhausen-Langwied
+- TOP .2.: (E) Budget der Bezirksausschüsse Verein für Internationale Jugendarbeit, Ortsverein München e.V. Jubiläumsfeier 50 Jahre ClubIn am 05.07.2013
+- TOP .3.: (E) Budget der Bezirksausschüsse Eltern Kind Zentrum Schwabing Maxvorstadt Tag der offenen Tür am 29.06.2013
+- TOP .4.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Mädchenwochenende in Bayrischzell von 12. bis 14.07.2013
+- TOP .5.: (E) Budget der Bezirksausschüsse Initiative "Mädchenprojekt" Mädchenprojekt "Pubertät und Erwachsen-Werden" vom 22. - 26.07.2013
+- TOP .1.: SPD-Fraktion: Freischankflächen bei Pächterwechsel neu beantragen
+- TOP .2.: Bürger: Private bzw. geschäftliche Sitzgelegenheiten auf dem Gehweg
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Elisabethmarkt ?Nordsee?: Genehmigung einer Freischankfläche
+- TOP .2.: Elisabethplatz 2, Blumenladen ?Flower and Passion?: Warenauslagen
+- TOP .3.: Genehmigung für Stand Friedrich-/Hohenzollernstraße
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Jazz-Reihe "Be My Guest" von Oktober 2013 - April 2014
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Sommerfest zugunsten von ?Pro Animale? am 06.07.2013
+- TOP .2.: Isabellastraße: Straßenfest ?Kunst im Karree? am 12.07.2013
+- TOP .2.1.: Planen
+- TOP .1.: Kreativquartier an der Dachauer Straße: a) Ergebnis des Planungswettbewerbs; b) Weiteres Vorgehen ? Anhörung zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP .2.: Schwere-Reiter-Straße: Neubau zweier Gebäude mit Boardinghausnutzung, 53 Wohnungen, 3 Townhouses und Einzelhandelsflächen im EG mit gemeinsam genutzter Tiefgarage - Tektur
+- TOP .3.: Ackermannstraße: Neubau eines Gebäudes mit Serviceapartments sowie zweier Wohnhäuser mit gemeinsam genutzter Tiefgarage
+- TOP .4.: Destouchesstr. 60: Nutzungsänderung Einheit 2 im EG (Büros zu Wohnungen mit Duplex-Stellplatz Nr. 10 in TG)
+- TOP .5.: Bamberger Str. 11 ? Vorbescheid: Neubau von Einfamilienhäusern
+- TOP .6.: Belgradstr. 22: Umbau Rückgebäude in Wohnhaus
+- TOP .7.: Schleißheimer Str. 127: Nutzungsänderung von Büro und Lager in Büro und Kino-Kneipe
+- TOP .8.: Isabellastr. 26: Neubau eines Wohngebäudes (16 WE) mit Tiefgarage - Tektur
+- TOP .9.: Bonner Str. 29-35 ? Vorbescheid: Neubau einer Wohnanlage (43 WE) mit Tiefgarage (44 Stellplätze)
+- TOP .10.: Clemensstr. 62 a: Aufstockung und Sanierung Wohnhaus
+- TOP .11.: Destouchesstr. 81: Nutzungsänderung des Erdgeschosses eines Wohn- und Geschäftshauses in Wohnungen
+- TOP .12.: Schleißheimer Str. 141: Sanierung, Umbau und Erweiterung eines Büro- und Geschäftsgebäudes (bisher ?Schleißheimer Karree? ? Realteil 2; jetzt: ?Schwabinger Carré?) - Tektur
+- TOP .13.: Therese-Studer-Straße: Neubau zweier Doppelhaushälften - 2 Anträge verschiedener Bauherren
+- TOP .14.: Farbgebung des Neubaus Belgradstr. 87
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürgerin: Protest gegen Linksabbiegeverbot aus der Schleißheimer in die Ackermannstraße
+- TOP .2.: Bürgerin: Schlechter Zustand der Bänke an der Nordseite der Rümannstraße
+- TOP .3.: Bürgerin: Zusätzlicher Fußgängerübergang in der Belgradstraße
+- TOP .4.: Bürgerin: Mangel an Abfallbehältern
+- TOP .5.: Bürgerin: Sichtverhältnisse an der Fußgängerampel Ackermannbogen/Elisabeth-Kohn-Straße
+- TOP .6.: SPD-Fraktion: Leinenzwang auch außerhalb des Altstadtrings
+- TOP .2.1.: Umwelt
+- TOP .1.: Bäume und Bank an der Kreuzung Hohenzollern-/Friedrichstraße (Beschlussvorlage zur Erledigung der Empfehlung Nr. 08-14 / E 01491 aus der Bürgerversammlung vom 11.10.2012)
+- TOP .2.: Hohenzollernstr. 61: Fällung eines Spitzahorn
+- TOP .3.: Rossinistr. 5: Fällung einer Blutpflaume
+- TOP .4.: Georgenstr. 132: Fällung einer Blaufichte
+- TOP .5.: Belgradstr. 128: Fällung von fünf Bäumen lt. Baumbestandsplan
+- TOP .2.2.: Verkehr
+- TOP .1.: Projektgenehmigung zur Begrünung des Kreuzungsbereichs Saarstraße / Winzererstraße
+- TOP .2.: Absolutes Haltverbot in der Herzogstraße außerhalb der Parkbuchten
+- TOP .3.: Leistungsprogramm 2014 der MVG: Anhörung zum Beschlussentwurf für die Vollversammlung am 24.07.2013
+- TOP .1.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben Anhörung zum Antrag Nr. 08-14 / B 04578 des BA 16 Ramersdorf-Perlach vom 05.02.2013
+- TOP .2.: Oktoberfestbesuch 2013: 3 Wunschtermine für Reservierung der Ratsbox
+- TOP .1.: Tempo-30-Regelung in der Winzererstraße auch für den Abschnitt zwischen Elisabeth- und Hohenzollernstraße
+- TOP .2.: Markierung und Beseitigung von Schrotträdern nach dem bei Schrottautos angewendeten Verfahren
+- TOP .3.: Integrationskindergarten St. Josef, Schleißheimer Str. 278: Uneingeschränkten Betrieb gewährleisten
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
