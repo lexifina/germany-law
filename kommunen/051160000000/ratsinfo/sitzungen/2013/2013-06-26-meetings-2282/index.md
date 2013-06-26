@@ -1,0 +1,62 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2013-06-26T18:00:00+02:00
+- Ende: 2013-06-26T21:05:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2282
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2282
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Genehmigt
+- TOP 2: Dienstreise der Vorsitzenden des Integrationsrates - Einstimmiger Beschluss
+- TOP 3: Bekanntgabe Abschlussergebnis Stadtsparkass - Einstimmiger Beschluss
+- TOP 4: Verteilung der fin. Unterstützung der Kreiswerke - Einstimmiger Beschluss
+- TOP 5: Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 6: Mittelbare Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 7: Mittelbare Beteiligung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 8: Entlastung der Sparkassenorgane 2012 - Einstimmiger Beschluss
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2013 - Kenntnisnahme
+- TOP 10: 18. Nachtrag Benutzungsordnung - Einstimmiger Beschluss
+- TOP 11: Nachtrag zum Stellenplan 2013 - Mit Stimmenmehrheit beschlossen
+- TOP 12: Genehmigung und Gestaltung von Sondernutzungsflächen - Kenntnisnahme
+- TOP 13: Umgestaltung der FS Anne-Frank in eine Offene Ganztagsschule - Einstimmiger Beschluss
+- TOP 14: Bauliche Erweiterung Betreuungseinrichtung GGS Hockstein; Bericht - Kenntnisnahme
+- TOP 14.1: Bauliche Erweiterung Betreuungseinrichtung GGS Hockstein - Einstimmiger Beschluss
+- TOP 14.2: Bauliche Erweiterung der Betreuungseinrichtung der GGS Hockstein (Berichtsvorlage 3157/VIII) - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Dritter Nachtrag Tarif Benutzung Sportanlagen u. Schulen - Mit Stimmenmehrheit beschlossen
+- TOP 16: Verabschiedung Sportstättenentwicklungsplan - Einstimmiger Beschluss
+- TOP 17: HOME und Schulsozialarbeit - Mit Stimmenmehrheit beschlossen
+- TOP 17.1: HOME - Hilfe und Orientierung für Mönchengladbacher Eltern und Kommunale Schulsozialarbeit - Mit Stimmenmehrheit abgelehnt
+- TOP 18: Fortschreibung Neukonzeption Gemeinschaftsunterkünfte - An den Rat verwiesen
+- TOP 18.1: Fortschreibung der Neukonzeption zur Unterbringung ausländischer Flüchtlinge - An den Rat verwiesen
+- TOP 19: Leistungsvereinbarung Drogenberatung - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarung Brennpunktprojekt - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarungen über Mahlzeitendienste - Einstimmiger Beschluss
+- TOP 22: Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 23: Vereinbarung Kreis Viersen Betreuungsgeld - Einstimmiger Beschluss
+- TOP 24: Verlängerung der Leistungsvereinbarung mit dem DRK - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 25: Reorganisation der Straßenbeleuchtung (HSP 2012-0142) - Von Verwaltung zurückgezogen
+- TOP 25.1: Reorganisation der Straßenbeleuchtung - Vom Antragsteller zurückgezogen
+- TOP 26: GSM - Jahresabschluss 2012 - Einstimmiger Beschluss
+- TOP 27: Städtebaulicher Masterplan MG 3.0 - Abschlussbericht - Ohne Abstimmung
+- TOP 27.1: Masterplan Mönchengladbach; hier: Antrag der FDP-Ratsfraktion vom 17.05.2013 - Ohne Abstimmung
+- TOP 27.2: Städtebaulicher Masterplan MG 3.0 - Abschlussbericht; hier: Antrag der FWG-Ratsfraktion vom 17.06.2013 - Ohne Abstimmung
+- TOP 27.3: Städtebaulicher Masterplan MG 3.0 - Abschlussbericht - Mit Stimmenmehrheit beschlossen
+- TOP 27.4: Städtebaulicher Masterplan Mönchengladbach 3.0 - Ohne Abstimmung
+- TOP 27.5: Städtebaulicher Masterplan MG 3.0 - Ohne Abstimmung
+- TOP 28: Veränderungssperre Nordpark - Alternative Beschlussfassung - Mit Stimmenmehrheit beschlossen
+- TOP 29: Bebauungsplan Nr. 758/N - Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 755/S - Stadtbezirk Süd - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 31: Änderung der Satzung der Stadt MG zur Abänderung der Fristen bei der Dichtheitsprüfung; Antrag der FDP-Ratsfraktion vom 29.04.2013 - Ohne Abstimmung
+- TOP 31.1: Änderung der Satzung der Stadt MG zur Abänderung der Fristen bei der Dichtheitsprüfung - Einstimmiger Beschluss
+- TOP 32: Entwicklungskonzept Freibad Giesenkirchen; hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 24.05.2013 - Ohne Abstimmung
+- TOP 33: Richtlinie zur Durchführung auswärtiger Klausurtagungen; hier: Antrag der Ratsfraktionen CDU, SPD und FDP vom 04.06.2013 - Mit Stimmenmehrheit beschlossen
+- TOP 34: Anfragen
+- TOP 34.1: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen
+- TOP 34.2: Anfrage von Ratsherrn Küpper, FDP
+- TOP 34.3: Mitteilung durch Beigeordneten Dr. Schmitz
