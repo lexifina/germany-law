@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 37. Sitzung des Ortsgemeinderates Herxheim (2013-06-27)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2013-200-74%7Czt_5%7C2
