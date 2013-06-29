@@ -13,7 +13,7 @@ Inhalt:
 § 8c | Allgemeine Grenzwerte, Analysen- und Messverfahren
 § 8d | Anforderungen an Einleitungen aus Herkunftsbereichen der Abwasserverordnung
 § 8e | Abweichende Festsetzungen
-§ 9 | Einleitung von Niederschlags-, Grund-, Quell- und Dränagewasser
+§ 9 | Einleitung von Niederschlags-, Grund-, Quell- und Drainagewasser
 § 10 | Überwachung
 § 11 | Anschlußkanäle
 § 12 | Grundstücksentwässerungsanlagen
