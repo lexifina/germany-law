@@ -2,7 +2,7 @@
 Berechnungsgrundlage für die Auslastung einer Schwangerschafts- oder Schwangerschaftskonfliktberatungsstelle
 I. Begriffe
 Supervision ist eine Form geleiteter, prozessorientierter, berufsbezogener Beratung. Die Anleitung findet durch einen erfahrenen Fachmann statt, der über besondere Kompetenzen für diese Arbeit verfügt. In der Regel wird diese Beratung in Gruppen durchgeführt.
-Schwangerschaftskonfliktberatung ist nach deutschem Recht gemäß § 219 StGB erforderlich, damit ein Schwangerschaftsabbruch straffrei durchgeführt werden kann. Eine Schwangerschaftskonfliktberatung umfasst Konfliktklärung hinsichtlich der emotionalen, seelischen, partnerschaftlichen und lebensplanerischen Aspekte von Elternschaft beziehungsweise eines Schwangerschaftsabbruchs, Informationen über staatliche und andere Sozialleistungen und Unterstützungen, Aufklärung hinsichtlich eines operativen oder medikamentösen Eingriffs und über Kosten und Finanzierung eines Schwangerschaftsabbruchs sowie Erläuterung der Rechtsgrundlage.
+Schwangerschaftskonfliktberatung ist gemäß § 219 StGB erforderlich, damit ein Schwangerschaftsabbruch straffrei durchgeführt werden kann. Eine Schwangerschaftskonfliktberatung umfasst Konfliktklärung hinsichtlich der emotionalen, seelischen, partnerschaftlichen und lebensplanerischen Aspekte von Elternschaft beziehungsweise eines Schwangerschaftsabbruchs, Informationen über staatliche und andere Sozialleistungen und Unterstützungen, Aufklärung hinsichtlich eines operativen oder medikamentösen Eingriffs und über Kosten und Finanzierung eines Schwangerschaftsabbruchs sowie Erläuterung der Rechtsgrundlage.
 Psychologische/psychosoziale Beratungen sind Beratungen zu den Informationen gemäß § 2 Schwangerschaftskonfliktgesetz ( SchKG).
 Präventionsveranstaltungen sind Veranstaltungen, die Informationen über vorbeugende Maßnahmen, insbesondere Angebote zu Fragen der Partnerschaft, Sexualaufklärung, Familienplanung und Schwangerschaft sowie der Schutzwürdigkeit des ungeborenen Lebens geben, um ein unerwünschtes Ereignis oder eine unerwünschte Entwicklung zu vermeiden.
 Vernetzungsarbeit ist das Arbeiten in einem Geflecht von Beziehungen zu anderen Personen in verschiedenen Einrichtungen und Behörden, um rasch weitere Informationen oder Hilfen für Ratsuchende zu erhalten oder um Krisensituationen zu vermeiden oder zu bewältigen.
@@ -10,8 +10,8 @@ II. Basiswerte
 Basiswerte
 Nr. | Beschreibung | Dauer
 1. | Aufwand für Weiterbildung | 
- | Für Weiterbildung können maximal 2 400 Minuten pro Jahr pro Beratungsfachkraft angerechnet werden. Zusatzqualifikation für die Schwangerschaftskonfliktberatung wird zusätzlich angerechnet, indem sie von der Jahresarbeitszeit abgezogen wird. | hängt von tatsächlicher Durchführung ab
-2. | Aufwand für Supervision pro Beratungsfachkraft pro Jahr | 1 800 Minuten
+ | Für Weiterbildung können maximal 2 400 Minuten pro Vollzeitäquivalent pro Jahr angerechnet werden. Zusatzqualifikation für die Schwangerschaftskonfliktberatung wird zusätzlich angerechnet, indem sie von der Jahresarbeitszeit abgezogen wird. | abhängig von der tatsächlichen Durchführung
+2. | Aufwand für Supervision pro Vollzeitäquivalent pro Jahr | abhängig von der tatsächlichen Durchführung, maximal 1 800 Minuten
 Durchschnittlicher Zeitbedarf für ein Gespräch
 3. | zur Schwangerschaftskonfliktberatung gemäß § 2 Abs. 1 Nr. 2 SächsSchKGAG ohne Beratung nach Nummer 6 | 90 Minuten
 4. | zur Beratung gemäß § 2 Abs. 1 Nr. 1 SächsSchKGAG ohne Beratung nach Nummer 6 einschließlich Beratung zu und Entgegennahme, Vorprüfung und Weiterleitung von Anträgen auf finanzielle Hilfen an die Stiftung „Hilfe für Familien, Mutter und Kind“ des Freistaates Sachsen | 70 Minuten
@@ -19,12 +19,12 @@ Durchschnittlicher Zeitbedarf für ein Gespräch
 6. | bei psychologischer/psychosozialer Beratung | 
  | a) | als Einzelberatung | 75 Minuten
  | b) | als Paarberatung | 105 Minuten
-7. | durchschnittlicher Zeitbedarf für eine Präventionsveranstaltung gemäß § 2 Abs. 1 Nr. 4 | 240 Minuten
+7. | durchschnittlicher Zeitbedarf für eine Präventionsveranstaltung gemäß § 2 Abs. 1 Nr. 4 SächsSchKGAG | 240 Minuten
 8. | Aufwand für | 
- | a) | Mitarbeit in lokalen Netzwerken, die dem Kinderschutz dienen gemäß § 2 Abs. 1 Nr. 8 pro Vollzeitäquivalent pro Jahr | 2 375 Minuten
+ | a) | Mitarbeit in lokalen Netzwerken, die dem Kinderschutz dienen gemäß § 2 Abs. 1 Nr. 8 SächsSchKGAG pro Vollzeitäquivalent pro Jahr | 2 375 Minuten
  | b) | sonstige Vernetzungsarbeit pro Vollzeitäquivalent pro Jahr | 3 360 Minuten
 III. Berechnung der Gesamtjahresarbeitsleistung
-Die Gesamtjahresleistung (GJL) einer Beratungsstelle wird als Summe aus folgenden Positionen ermittelt:
+Die Gesamtjahresleistung einer Beratungsstelle wird als Summe aus folgenden Positionen ermittelt:
 a) Summe der absolvierten Weiterbildungszeiten pro Beratungsstelle
 b) Anzahl der Beratungsfachkräfte multipliziert mit Nummer 2
 c) Anzahl der Schwangerschaftskonfliktberatungsgespräche gemäß § 2 Abs. 1 Nr. 2 SächsSchKGAG multipliziert mit Nummer 3
@@ -39,6 +39,6 @@ g) Anzahl der Präventionsveranstaltungen multipliziert mit Nummer 7
 h) Anzahl der Vollzeitäquivalente multipliziert mit Nummer 8a
 i) Anzahl der Vollzeitäquivalente multipliziert mit Nummer 8b.
 IV. Auslastungsberechnung
-Die durchschnittliche Jahresarbeitsleistung (JAL) ist die Anzahl der Arbeitstage pro Jahr multipliziert mit 480 Minuten.
-Der Sollbedarf an Vollzeitäquivalenten pro Beratungsstelle wird als Quotient aus GJL und JAL gebildet.
-Die Auslastung wird als Quotient aus dem Sollbedarf an Vollzeitäquivalenten pro Beratungsstelle und dem tatsächlichen Umfang der geförderten VZÄ ermittelt.
+Die durchschnittliche Jahresarbeitsleistung ist die Anzahl der Arbeitstage pro Jahr multipliziert mit 480 Minuten.
+Der Sollbedarf an Vollzeitäquivalenten pro Beratungsstelle wird als Quotient aus Gesamtjahresleistung und Jahresarbeitsleistung gebildet.
+Die Auslastung wird als Quotient aus dem Sollbedarf an Vollzeitäquivalenten pro Beratungsstelle und dem tatsächlichen Umfang der geförderten Vollzeitäquivalente ermittelt.
