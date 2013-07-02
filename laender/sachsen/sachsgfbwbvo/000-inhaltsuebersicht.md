@@ -9,14 +9,15 @@ Abschnitt 2 Leistungsbewertung und Prüfung
 § 5 Prüfungsvorsitz und Fachausschüsse
 § 6 Aufgaben des Prüfungsvorsitzenden und Aufgaben der Fachausschüsse
 § 7 Leistungsnachweise
+§ 7a Prüfung und Leistungspunkte
 § 8 Bewertung der Leistungen
 § 9 Zulassung zur Prüfung
 § 10 Nachteilsausgleich
 § 11 Gliederung der Prüfung
-§ 12 Schriftlicher Teil der Prüfung
-§ 13 Mündlicher Teil der Prüfung oder Kolloquium
-§ 14 Praktischer Teil der Prüfung oder Facharbeit
-§ 15 Vornote für den schriftlichen Teil der Prüfung
+§ 12 Schriftliche Modulprüfung
+§ 13 Mündliche Modulprüfung oder Kolloquium
+§ 14 Praktische Modulprüfung oder Facharbeit
+§ 15 (aufgehoben)
 § 16 Bewertung und Festsetzen der Prüfungsergebnisse
 § 17 Rücktritt und Versäumnis
 § 18 Täuschungshandlungen und Ordnungsverstöße
@@ -110,4 +111,6 @@ Unterabschnitt 2 Medizinische Wellness
 § 85 Prüfung
 § 86 Weiterbildungsbezeichnung
 Teil 3 Schlussbestimmung
-§ 87 Inkrafttreten
+§ 87 Modellvorhaben
+§ 88 Übergangsvorschriften
+§ 89 Inkrafttreten
