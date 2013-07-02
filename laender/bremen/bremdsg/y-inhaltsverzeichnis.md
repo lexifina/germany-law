@@ -18,6 +18,7 @@ Abschnitt 2 Rechtsgrundlagen der Datenverarbeitung
 § 12 | Zulässigkeit und Zweckbindung der weiteren Datenverarbeitung
 § 13 | Datenübermittlung innerhalb des öffentlichen Bereichs
 § 14 | Automatisiertes Abrufverfahren
+§ 14a | Gemeinsame und verbundene automatisierte Dateien
 § 15 | Datenübermittlung an öffentlich-rechtliche Religionsgesellschaften
 § 16 | Datenübermittlung an die Bürgerschaft (Landtag) und die kommunalen Vertretungsorgane
 § 17 | Datenübermittlung an Stellen außerhalb des öffentlichen Bereichs
