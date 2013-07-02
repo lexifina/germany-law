@@ -1,0 +1,59 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2013-07-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2785228
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2785228
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Fasanerie aktiv e.V. 3. Straßenfest am 20.07.2013
+- TOP 2.2.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Freizeittreff Lerchenauer Mobile Spielaktion zum Thema "Indien" im August 2013
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 13.10.2013
+- TOP 4: (E) Ausbau der Detmoldstraße mit Anlage eines Geh- und Radweges zur Schleißheimer Straße (Ziffer 4 des Antrages) Empfehlung Nr. 08-14 / E 01746 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 21.03.2013
+- TOP 3.1.: Markierung eines Schutzstreifens für Fahrräder auf der Fahrbahn Feldmochinger Straße im Bereich zwischen BÜ Fasanerie und der Höhe am Schnepfenweg
+- TOP 3.2.: Änderung der BA-Satzung: künftige Anhörung des BA zu Aufstellungsbeschlüssen über Ausgleichsflächen ab Bekanntmachung
+- TOP 3.3.: Verkehrszählung in Verbindung mit Geschwindigkeitsmessung in der Dülferstraße westlich der Bahn
+- TOP 3.4.: Renovierung des Fußweges in München-Fasanerie an der Feldmochinger Straße
+- TOP 3.5.: Eine Lösung für die Gefährdung der Fußgänger(-innen) durch überhöhte Geschwindigkeiten von KFZ in der Blodig- und Aschenbrennerstraße
+- TOP 3.6.: Siedlung Ludwigsfeld: Brücke über den Würmkanal
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Am Gottesackerweg 5.1.2 Wilhelmine-Reichard-Straße 5.1.3 Rothwiesenstraße 5.1.4 Waldmeisterstr. 11 5.1.5 Fortnerstr. 18
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Dülferstr. 77 5.2.2 Schlottwiesenweg 7 5.2.3 Fortnerstr. 18
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): Eduard-Spranger-Str. 14-32/ Rainfarnstr. 13 und 17
+- TOP 5.4.: KVR: Veranstaltungen auf öffentlichem Verkehrsgrund: Radtour "Tour de Franz" am 04.08.2013
+- TOP 5.5.: RAW: Leistungsprogramm der MVG für die Fahrplanperiode 2014 (Beschlussentwurf)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: RAW: Errichtung eines Schutzzaunes zwischen der Gleisanlage und dem Gehweg westl. der Berberitzenstraße im Anschluss an den BÜ für Fußgänger und Radfahrer
+- TOP 6.2.: Baureferat: Wiederverschließen der zwei Barrieren an den Einfahrten zum Rangierbahnhofsgelände an der Feldmochinger Straße
+- TOP 6.3.: KVR: Günstigere Gestaltung der Fußgänger-Ampelschaltung über die Schleißheimer Straße an der Abzweigung Augustin-Rösch-Straße
+- TOP 6.4.: Referat für Stadtplanung und Bauordnung: Genehmigungsbescheid Bauvorhaben Lerchenstr. 19
+- TOP 6.5.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.6.: Meldelisten Bauvorhaben
+- TOP 6.7.: Meldelisten Baumfällungsanträge
+- TOP 6.8.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes (hier: Diamantstraße)
+- TOP 6.9.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: Glyzinenstr.- Waldmeisterstr.- Staudenrauchstr. (am 22.5. und 27.5.13 für Schulungsfilm)
+- TOP 6.10.: RGU: Genehmigungsbescheid für Mäharbeiten des Straßenbegleitgrüns
+- TOP 6.11.: Beschlussvorlage RBS: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztagszüge und offener Ganztagsangebote; u.a. Grundschule und Tagesheim an der Thelottstr. 20
+- TOP 6.12.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Begegnungszonen / "Shared Space"
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung / RBS: Arbeitsgruppe Ausbauinitiative Kindertageseinrichtungen - Sachstandsbericht zum 31.03.13
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Demografiebericht München - Teil 2; Kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Seniorenpolitisches Programm unter Einbeziehung der Referate
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung/ Baureferat/ KVR/ RGU: Radverkehr in München - Bericht zur Umsetzung und Aktualisierung von Zielen
+- TOP 6.18.: Beschlussvorlage KVR: Standortkonzept Bürgerbüros; Einrichtung eines Bürgerbüros am Scheidplatz
+- TOP 6.19.: BA-Budget: div. Verwendungsnachweise
+- TOP 6.20.: Direktorium: Münchner Statistik (1. Quartalsheft, Jahrgang 2013)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Oktoberfest 2013; Reservierungen der BA 's
+- TOP 8.2.: Wettbewerb Nachverdichtung Reschreiterstraße / Hasenbergl; Anfrage für Preisgericht (Benennung von Sachpreisrichtern)
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
