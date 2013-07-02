@@ -1,0 +1,62 @@
+# Ausschuss für Stadtplanung und Verkehr (25. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-07-02T17:00:00+02:00
+- Ende: 2013-07-02T20:33:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXPXP6zXm3XNtySwKbI1K9E
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14621
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZY7Fh9aBi3nw5UZAwt7jTRe0Af9oV69QsWT4DZnGCnJB/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_02.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umgebungslärmrichtlinie/Lärmaktionsplanung für Kerpen hier: Ergebnis des Beteiligungsverfahrens
+- TOP 2.: Wettbewerb Ortsmitte Manheim-neu - Vorstellung durch das Wettbewerbsbüro
+- TOP 3.: 380-kV-Höchstspannungsfreileitung Mönchskaul-Blatzheim
+- TOP 4.: Sindorfer Südkreisel hier: Vorstellung der Ausbauplanung
+- TOP 5.: Einwohner/innen - Fragestunde
+- TOP 6.: Umbesetzung des Arbeitskreises Verkehrsplanung und Verkehrssicherheithier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 7.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 24. Sitzung vom 23. April 2013
+- TOP 8.: Umsiedlung Manheim
+- TOP 8.1: Bericht der Verwaltung
+- TOP 9.: Stadtentwicklung
+- TOP 9.1: Grundstück Türnich, Platanenallee (altes Kindergartengelände) und Grundstück Türnich, Pappelstraße 5 - Kita "Mühlenbachkinder"
+- TOP 9.2: Bauvorhaben auf dem Jamaikaplatz im Stadtteil Sindorf Antrag der SPD – Fraktion vom 19.04.2013
+- TOP 9.3: Stellungnahme der Stadt Kerpen zur 1. Änderung des 3. Rahmenbetriebsplanes und der 1. Änderung des Sonderbetriebsplanes für die artenschutzrechtlichen Belange
+- TOP 9.4: Zensus 2011
+- TOP 10.: Bauleitplanung
+- TOP 10.1: Antrag auf Änderung des Flächennutzungsplanes für den Bereich Apollinarisstr. nördlich der BAB 4 Antrag der CDU-Fraktion vom 16.5.2013
+- TOP 10.2: Seniorengerechtes Wohnen im 5. Bauabschnitt Vogelrutherfeld im Stadtteil Sindorf – Antrag der CDU – Fraktion vom 20.05.2013 -
+- TOP 10.3: Bebauungsplan SI 238 A/2. Änderung "Paul-Klee-Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13 BauGB (vereinfachtes Verfahren)
+- TOP 10.4: Abschluss einer Planungsvereinbarung gem. § 11 BauGB für den Geltungsbereich des Bebauungsplans SI Nr. 238 A 2. Änderung "Paul-Klee-Straße"
+- TOP 10.5: Bebauungsplan KE 352 "Westliche Stiftsstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 10.6: Abschluss einer Planungsvereinbarung gem. § 11 BauGB für den Geltungsbereich des Bebauungsplans KE Nr. 352 "Westliche Stiftsstraße"
+- TOP 10.7: Bebauungsplan BL 341 "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 10.8: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Wirksamkeitsbeschluss
+- TOP 10.9: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 10.10: Bebauungsplan KE 339 "Sindorfer Straße", im Stadtteil Kerpen hier: Vergabe eines Planungsauftrages
+- TOP 11.: Verkehrsplanung
+- TOP 11.1: Benennung von Straßen im Stadtteil Sindorf
+- TOP 11.2: Benennung einer Straße im Stadtteil Blatzheim
+- TOP 11.3: Parksituation auf der Kerpener Straße in Sindorf im Bereich der Kreissparkasse Köln hier: Bereitstellung von außerplanmäßigen Haushaltsmitteln
+- TOP 11.4: Niederschrift der 14. Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit vom 25.04.2013
+- TOP 12.: Mitteilungen
+- TOP 12.1: Begrünung der Lärmschutzwände im Rahmen des Ausbaus der BAB4 im Bereich Horrem
+- TOP 12.2: Vereinbarung der Anrainer-Kommunen des Tagebaus Hambach über die künftige Umgestaltung des Tagebau-Umfeldes
+- TOP 12.3: Grünvernetzung zwischen Kerpen-Buir und der Gemeinde Merzenich hier: Sachstandsbericht
+- TOP 12.4: Radwegeverbindungen rund um Manheim-neu und Buir hier: Sachstandsbericht
+- TOP 12.5: Bericht aus dem Aufsichtsrat der REVG
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Abholzung des Baum- und Strauchwerkes am Rande der Veloroute Langenich
+- TOP 13.2: Verbesserungen im ÖPNV
+- TOP 13.3: Sachstandsbericht Planung und Vermarktung im Gleisdreieck am Bahnhof in Horrem
+- TOP 13.4: Sanierungsmaßnahmen an Landstraßen
+- TOP 13.5: Einrichtung eiens CAP-Marktes in der Kolpingstadt Kerpen
+- TOP 13.6: Zunehmender Fluglärm hier: Fliegerhorst Nörvenich und Flughafen Köln-Bonn
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
