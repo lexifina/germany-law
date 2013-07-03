@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2013-07-03T15:00:00+02:00
+- Ende: 2013-07-03T16:55:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2286
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2286
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00087102.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00087102.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00087102.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Neuwahl des Verbandsrates des Niersverbandes - Einstimmiger Beschluss
+- TOP 3: Verteilung der fin. Unterstützung der Kreiswerke - Einstimmiger Beschluss
+- TOP 4: Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 5: Mittelbare Beteiligung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 6: Mittelbare Beteiligung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 7: Bekanntgabe Abschlussergebnis Stadtsparkass - Einstimmiger Beschluss
+- TOP 8: Entlastung der Sparkassenorgane 2012 - Einstimmiger Beschluss
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2013 - Kenntnisnahme
+- TOP 10: 18. Nachtrag Benutzungsordnung - Einstimmiger Beschluss
+- TOP 11: Nachtrag zum Stellenplan 2013 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 12: Umgestaltung der FS Anne-Frank in eine Offene Ganztagsschule - Mit Stimmenmehrheit beschlossen
+- TOP 13: Bauliche Erweiterung Betreuungseinrichtung GGS Hockstein - Ohne Abstimmung
+- TOP 13.1: Bauliche Erweiterung Betreuungseinrichtung GGS Hockstein - Einstimmiger Beschluss
+- TOP 13.2: Bauliche Erweiterung der Betreuungseinrichtung der GGS Hockstein (Berichtsvorlage 3157/VIII) - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Dritter Nachtrag Tarif Benutzung Sportanlagen u. Schulen - Mit Stimmenmehrheit beschlossen
+- TOP 15: Verabschiedung Sportstättenentwicklungsplan - Einstimmiger Beschluss
+- TOP 16: Einrichtung von Integrativen Lerngruppen - Einstimmiger Beschluss
+- TOP 17: HOME und Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 17.1: HOME - Hilfe und Orientierung für Mönchengladbacher Eltern und Kommunale Schulsozialarbeit - Ohne Abstimmung
+- TOP 18: Fortschreibung Neukonzeption Gemeinschaftsunterkünfte - Von Verwaltung zurückgezogen
+- TOP 18.1: Fortschreibung der Neukonzeption zur Unterbringung ausländischer Flüchtlinge - Siehe Niederschrift
+- TOP 19: Leistungsvereinbarung Drogenberatung - Mit Stimmenmehrheit beschlossen
+- TOP 20: Leistungsvereinbarung Brennpunktprojekt - Mit Stimmenmehrheit beschlossen
+- TOP 21: Leistungsvereinbarungen über Mahlzeitendienste - Mit Stimmenmehrheit beschlossen
+- TOP 22: Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 23: Vereinbarung Kreis Viersen Betreuungsgeld - Einstimmiger Beschluss
+- TOP 24: Verlängerung der Leistungsvereinbarung mit dem DRK - Mit Stimmenmehrheit beschlossen
+- TOP 25: GSM - Jahresabschluss 2012 - Einstimmiger Beschluss
+- TOP 26: Städtebaulicher Masterplan MG 3.0 - Abschlussbericht - Getrennte Abstimmung (s. Niederschrift)
+- TOP 26.1: Masterplan Mönchengladbach - Ohne Abstimmung
+- TOP 26.2: Städtebaulicher Masterplan MG 3.0 - Abschlussbericht - Ohne Abstimmung
+- TOP 26.3: Städtebaulicher Masterplan Mönchengladbach 3.0 - Ohne Abstimmung
+- TOP 26.4: Städtebaulicher Masterplan MG 3.0 - Ohne Abstimmung
+- TOP 27: Stadtbibliothek Blücherstraße 6 - Kenntnisnahme
+- TOP 28: Veränderungssperre Nordpark - Alternative Beschlussfassung - Siehe Niederschrift
+- TOP 29: Bebauungsplan Nr. 758/N - Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 755/S - Stadtbezirk Süd - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 31: Änderung der Satzung der Stadt MG zur Abänderung der Fristen bei der Dichtheitsprüfung - Einstimmiger Beschluss
+- TOP 32: Entwicklungskonzept Freibad Giesenkirchen - Einstimmiger Beschluss
+- TOP 33: Richtlinie zur Durchführung auswärtiger Klausurtagungen - Mit Stimmenmehrheit beschlossen
+- TOP 34: Umbesetzung Stiftungskuratorium Museum Abteiberg - Einstimmiger Beschluss
+- TOP 35: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 36: Anfragen
+- TOP 36.1: Anfrage von RH Schaper zur Grundsicherungsstelle bei der Stadt Mönchengladbach
+- TOP 36.2: Mitteilung von Beigeordnetem Dr. Schmitz zum Thema Verbot von Wettbüros
+- TOP 36.3: Mitteilunng von Beigeordnetem Dr. Fischer zum Thema "Theater mit Zukunft II"
