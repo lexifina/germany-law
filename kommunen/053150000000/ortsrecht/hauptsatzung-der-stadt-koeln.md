@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2012-10-03 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_03102012.pdf
+- Datum: 2013-07-03 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_03072013.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,19 +10,19 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 9. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 03. Oktober 2012
+in der Fassung der 10. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 3. Juli 2013
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
-IV. Ausschüsse § 20 Hauptausschuss § 21 Sachkundige Bürgerinnen/Bürger und Einwohnerinnen/Einwohner
+IV. Ausschüsse § 20 Hauptsatzung § 21 Sachkundige Bürgerinnen/Bürger und Einwohnerinnen/Einwohner
 V. Beiräte § 21 a Ältestenrat § 22 Integrationsrat § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik § 23 b Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (LST)
 VI. Finanzielle Entschädigungen für Mandatsträgerinnen und Mandatsträger § 24 Ersatz des Verdienstausfalles § 25 Allgemeine Aufwandsentschädigungen § 26 Sonderaufwandsentschädigungen
 
 II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
-III. Bezirksvertretungen § 18 Allgemeines § 19 Aufgaben der Bezirksvertretungen
 
 VII. Verwaltung § 27 Gleichstellung von Frau und Mann § 28 Personalangelegenheiten § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen § 30 Zahl der Beigeordneten § 31 Inkrafttreten der Hauptsatzung
 
+III. Bezirksvertretungen § 18 Allgemeines § 19 Aufgaben der Bezirksvertretungen
 Der Rat der Stadt Köln hat in seiner Sitzung am 28. August 2008 auf Grund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) in der bei Erlass dieser Satzung geltenden Fassung diese Hauptsatzung beschlossen:
 
 Seite 1 von 23
@@ -213,21 +213,20 @@ Seite 13 von 23
 (6) Auf Ersuchen des Rates oder des Hauptausschusses hat die Bezirksvertretung zu einer den Stadtbezirk berührenden Angelegenheit Stellung zu nehmen.
 (7) Den Bezirksbürgermeisterinnen/Bezirksbürgermeistern steht ein Akteneinsichtsrecht in den Angelegenheiten zu, in denen die Bezirksvertretungen nach § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung ein Entscheidungsrecht haben.
 IV. Ausschüsse
-§ 20 Hauptausschuss (§ 57 Absätze 2 und 3, § 59 Abs. 1 GO)
-(1) Im Hauptausschuss führt die Oberbürgermeisterin/der Oberbürgermeister den Vorsitz. Dem Hauptausschuss gehören weiterhin 13 stimmberechtigte Ratsmitglieder sowie ggf. weitere Ratsmitglieder mit beratender Stimme gem. § 58 Abs. 1 Sätze 8 ff. GO an. Der Hauptausschuss wird ermächtigt, in den nicht unter § 41 Abs. 1 Satz 2, § 37 Abs. 1 GO sowie § 19 Abs. 1 Satz 2 dieser Hauptsatzung i.V.m. § 2 Abs. 1 der Zuständigkeitsordnung fallenden Angelegenheiten Entscheidungen zu treffen; jedoch bleiben Angelegenheiten von grundsätzlicher kommunalpolitischer oder erheblicher wirtschaftlicher Bedeutung der Beschlussfassung des Rates vorbehalten.
+§ 20 Hauptausschuss (§§ 57 Absätze 2 und 3, 59 Abs. 1, 60 Abs. 1, 61 GO)
+(1) Im Hauptausschuss führt die Oberbürgermeisterin/der Oberbürgermeister den Vorsitz. Dem Hauptausschuss gehören weiterhin 13 stimmberechtigte Ratsmitglieder sowie ggf. weitere Ratsmitglieder mit beratender Stimme gem. § 58 Abs. 1 Sätze 8 ff. GO an. Der Hauptausschuss entscheidet in den ihm durch §§ 59 bis 61 GO sowie den durch diese Satzung und die Zuständigkeitsordnung der Stadt Köln zugewiesenen Angelegenheiten.
 (2) Der Hauptausschuss kann in Angelegenheiten seines Aufgabenbereiches die Entscheidung der Oberbürgermeisterin/dem Oberbürgermeister übertragen.
-§ 21 Sachkundige Bürger und Einwohner
+§ 21 Sachkundige Bürger und Einwohner, Sachverständige
 (§ 58 GO)
-(1) Zu sachkundigen Bürgerinnen/Bürgern und Einwohnerinnen/Einwohnern dürfen keine Interessentinnen/Interessenten bestellt werden.
+(1) Der Rat kann gemäß § 58 GO sachkundige Personen als Mitglieder in den Ausschüssen bestellen.
 (2) Ausschüsse können Sachverständige und Vertreterinnen/Vertreter derjenigen Bevölkerungsgruppen, die von ihrer Entscheidung vorwiegend betroffen werden, zu den Beratungen zuziehen.
 V. Beiräte
 § 21 a Ältestenrat
 (1) Bei der Stadt Köln wird ein Ältestenrat gebildet.
-(2) Dem Ältestenrat gehören die Oberbürgermeisterin/der Oberbürgermeister und vier weitere stimmberechtigte Mitglieder an, die der Rat der Stadt Köln aus seiner Mitte wählt. Den Vorsitz führt eine Notarin/ein Notar (bzw. eine Notarin/Notar a. D.)
+(2) Dem Ältestenrat gehören die Oberbürgermeisterin/der Oberbürgermeister und vier weitere stimmberechtigte Mitglieder an, die der Rat der Stadt Köln aus seiner Mitte wählt. Den Vorsitz führt eine Notarin/ein Notar (bzw. eine Notarin/Notar a. D.) als beratendes Mitglied ohne Stimmrecht, die/der vom Rat im Einvernehmen mit der Oberbürgermeisterin/ dem Oberbürgermeister zu berufen ist.
+(3) Aufgaben des Ältestenrates sind:
 Seite 14 von 23
 
-als beratendes Mitglied ohne Stimmrecht, die/der vom Rat im Einvernehmen mit der Oberbürgermeisterin/ dem Oberbürgermeister zu berufen ist.
-(3) Aufgaben des Ältestenrates sind:
 1. die Beratung der Mandatsträger zur Auslegung des Leitfadens für Ratsmitglieder, Bezirksvertreter, sachkundige Einwohner und Bürger sowie Oberbürgermeister als Vorsitzender des Rates (Beschluss des Rates vom 28.04.2005, Ds. Nr.: 0616/005) und die Entwicklung praxisbezogener Handlungshinweise oder Änderungsvorschläge zum Leitfaden;
 2. die Entgegennahme von Mitteilungen und Anzeigen nach dem Leitfaden; 3. die Feststellung von Verstößen amtierender Mandatsträger gegen den
 Leitfaden oder gegen Pflichten insbesondere nach § 43 Abs. 1, 3 und 4 GO, § 17 Korruptionsbekämpfungsgesetz und § 6 dieser Hauptsatzung; 4. die Erteilung von Genehmigungen im Sinne des § 331 Abs. 3 StGB; 5. die Vorlage eines anonymisierten jährlichen Berichts an den Hauptausschuss bzw. an die Bezirksvertretungen.
@@ -239,14 +238,14 @@ Leitfaden oder gegen Pflichten insbesondere nach § 43 Abs. 1, 3 und 4 GO, § 17
 (4) Für die Verwaltung nimmt die Oberbürgermeisterin/der Oberbürgermeister oder die/der zuständige Fachbeigeordnete und/oder die Leitung des Interkulturellen Referates an den Sitzungen des Integrationsrates teil.
 Daneben können im Einzelfall Vertreterinnen/Vertreter der Arbeiterwohlfahrt, des Arbeitgeberverbandes, der Agentur für Arbeit Köln, des Caritasverbandes, des Deutschen Gewerkschaftsbundes, des Deutschen Paritätischen Wohlfahrtsverbandes, des Diakonischen Werkes, des Fördervereins Kölner Flüchtlingsrat e.V. und der Seniorenvertretung der Stadt Köln als Sachverständige zu den Beratungen hinzugezogen werden.
 (5) Die Geschäftsordnung des Rates gilt auch für den Integrationsrat. Es gelten die Befugnisse gemäß § 27 Abs. 8 und 9 der GO. Der Integrationsrat regelt seine inneren Angelegenheiten sowie Abweichungen von der Geschäftsordnung des Rates durch eine eigene Geschäftsordnung. Diese ist vom Rat zu genehmigen.
+(6) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde, insbesondere wenn sie die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, befassen und Vorschläge und Anregungen machen.
 Seite 15 von 23
 
-(6) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde, insbesondere wenn sie die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, befassen und Vorschläge und Anregungen machen.
 Der Integrationsrat ist in allen wichtigen Angelegenheiten, die die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, zu informieren und vor der Beschlussfassung durch den Rat zu beteiligen.
 (7) Der Integrationsrat wirkt an den Beratungen über die Haushaltssatzung mit. Er berät über alle Haushaltsansätze, die seine Aufgaben betreffen und kann dazu Vorschläge und Anregungen machen.
 Darüber hinaus weist der Rat dem Integrationsrat Mittel zu, die dieser nach der Maßgabe einer vom Rat zu beschließenden Richtlinie zur Förderung der Integrationsarbeit in Köln selbständig vergeben kann.
-Dabei handelt es sich insbesondere um • Zuschüsse für die Arbeit von Vereinen, Zentren und Initiativen, die in der
-Migrations-, Integrations- und Antidiskriminierungsarbeit tätig sind, • Verwendung von EU-, Bundes- oder Landesmitteln zur Förderung der Integration
+Dabei handelt es sich insbesondere um  Zuschüsse für die Arbeit von Vereinen, Zentren und Initiativen, die in der
+Migrations-, Integrations- und Antidiskriminierungsarbeit tätig sind,  Verwendung von EU-, Bundes- oder Landesmitteln zur Förderung der Integration
 und des friedlichen, gleichberechtigten Zusammenlebens. Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln gibt die Verwaltung den entsprechenden Fachausschüssen und dem Finanzausschuss unverzüglich zur Kenntnis. Der Rat entscheidet abschließend.
 (8) Dem Integrationsrat werden zur Erfüllung seiner Aufgaben die notwendigen personellen und sachlichen Mittel bereit gestellt. Gemäß § 27 Absatz 10 GO NRW werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von der Geschäftsstelle verwaltet werden. Die Einzelheiten regelt ein Ratsbeschluss.
 (9) Der Integrationsrat erhält die Möglichkeit einer eigenständigen Öffentlichkeitsarbeit.
@@ -264,7 +263,7 @@ Seite 16 von 23
 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 (1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil.
 (2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse.
-(3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen in die für die Themen Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung sowie Kinder- und Jugendhilfeangelegenheiten zuständigen Ausschüsse entsenden. Für den Verhinderungsfall ist je eine persönliche Vertreterin/ ein persönlicher Vertreter zu bestimmen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
+(3) Die Stadtarbeitsgemeinschaft Behindertenpolitik kann Mitglieder der Behindertenorganisationen und -selbsthilfegruppen in die für die Themen Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Bauen, Wohnen, Schule, Weiterbildung, Gleichstellung, Anregungen und Beschwerden sowie Kinderund Jugendhilfeangelegenheiten zuständigen Ausschüsse entsenden. Für den Verhinderungsfall ist je eine persönliche Vertreterin/ ein persönlicher Vertreter zu bestimmen. Auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
 Seite 17 von 23
 
 (4) Die Einzelheiten regelt die vom Ausschuss Soziales und Senioren beschlossene Geschäftsordnung für die Stadtarbeitsgemeinschaft Behindertenpolitik der Stadt Köln.
@@ -336,12 +335,11 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443 -
 
 Seite 22 von 23
 
-Anlage zu § 1 der Hauptsatzung der Stadt Köln
-Seite 23 von 23
+Anlage zu § 1 der Hauptsatzung der Stadt Köln Seite 23 von 23
 
 Anlagen zu §2 der Hauptsatzung der Stadt Köln
 Wappen der Stadt Köln Dienstsiegel kleines Dienstsiegel in den Ausführungen 22mm und 15mm Petrussiegel
