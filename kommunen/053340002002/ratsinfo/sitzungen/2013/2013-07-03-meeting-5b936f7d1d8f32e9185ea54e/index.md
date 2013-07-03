@@ -1,0 +1,56 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2013-07-03T17:00:00+02:00
+- Ende: 2013-07-03T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2832
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936f7d1d8f32e9185ea54e
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Einführung und Verpflichtung eines neuen Ratsmitgliedes - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzungen des Rates der Stadt vom 17.04.2013 und 29.05.2013; die Niederschrift über die Sitzung des Rates der Stadt vom 17.04.2013 wurde inzwischen übersandt. - (offen)
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen - (offen)
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2013 - Miete und Betriebskosten für das Stadtarchiv in der Nadelfabrik - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen – Haushalt 2013 Einsatz von Küchenkräften in den städtischen Tageseinrichtungen für Kinder - geändert beschlossen
+- TOP 6: Jahresabschluss 2009 - ungeändert beschlossen
+- TOP 7: Vorhabenbezogener Bebauungsplan Nr. 853 - Sandkaulstraße/ Rochusstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen der Rochusstraße und der Alexanderstraße an der östlichen Seite der Sandkaulstraße hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 8: Vorhabenbezogener Bebauungsplan Nr. 946 - Krugenofen / Hauptstraße – für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Krugenofen, Hauptstraße und Klausener Straße hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 9: Bebauungsplan Nr. 828 - Gewerbegebiet Camp Pirotte - Teil B für den Planbereich im Stadtbezirk Aachen-Brand im Bereich zwischen Eckener Straße und Vennbahnweg hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 10: Aufhebung des Bebauungsplanes Nr. 598 - Weidenweg - für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Weidenweg, Kastanienweg und Seffenter Weg hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 942 - Veltmanplatz/Kreuzherrenstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Veltmanplatz, Kreuzherrenstraße und Kirche/Pfarramt/Kindertagesstätte Heilig-Kreuz hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 12: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen in der Stadt Aachen (Aachener Straßenverordnung) <span style="color: #888a85" title="Zusatzinfo">(Die Vorlage wurde bereits zur Ratssitzung am 17.04.2013 versandt.)</span> - geändert beschlossen
+- TOP 12.1: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen in der Stadt Aachen (Aachener Straßenverordnung) Ergänzungsvorlage (Ergebnisse und Anregungen aus den Sitzungen der Bezirksvertretungen) - geändert beschlossen
+- TOP 13: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) hier: Geschwisterkindermäßigung und zusätzliche Betreuungsstufen - ungeändert beschlossen
+- TOP 14: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) zuletzt geändert durch den 3. Nachtrag vom 27.06.2012 hier: Geschwisterkindregelung und Beitrag bei Betreuung mit mehr als 45 Stunden/Woche - ungeändert beschlossen
+- TOP 15: Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Förder- und Betreuungsangeboten in der Primarstufe der Schulen der Stadt Aachen (Offene Ganztagsschulen) zuletzt geändert durch den 4. Nachtrag vom 27.06.2012 hier: Geschwisterkindregelung - ungeändert beschlossen
+- TOP 16: Jahresabschluss für den Kulturbetrieb für das Jahr 2012 - geändert beschlossen
+- TOP 17: Einrichtung eines Kommunalen Integrationszentrums - geändert beschlossen
+- TOP 18: Aachen-Pass - Änderung der Richtlinien - ungeändert beschlossen
+- TOP 19: Tagungs- und Kongressstandort Aachen - Perspektiven und Möglichkeiten hier Antrag der SPD-Fraktion vom 04.06.2013 zur Tagesordnung der Ratssitzung am 03.07.2013 - geändert beschlossen
+- TOP 20: Ausschreibung der Stelle der/des Beigeordneten für Bildung und Kultur, Schule, Jugend und Sport - ungeändert beschlossen
+- TOP 21: Anfragen - (offen)
+- TOP 22: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 22.1: Umbesetzung von Ausschüssen, hier Kinder- und Jugendausschuss - ungeändert beschlossen
+- TOP 22.2: Umbesetzung von Ausschüssen, hier Kinder- und Jugendausschuss - geändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 24: Protest gegen die Wiederinbetriebnahme von Tihange 2 hier Gemeinsamer Antrag der Fraktionen von SPD und GRÜNEN vom 19.06.2013 zur Tagesordnung der Ratssitzung 03.07.2013 <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 25: Tagesordnungsantrag der Fraktion Die Linke vom 19.06.2013: Alternativplanung für das Karlsjahr - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
