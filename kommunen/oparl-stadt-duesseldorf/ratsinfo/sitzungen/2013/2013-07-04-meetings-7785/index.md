@@ -1,0 +1,51 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-07-04T15:00:00+02:00
+- Ende: 2013-07-04T17:35:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7785
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7785
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00197262.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00197262.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00197262.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfrage Freie Wähler: Erinnerungskultur Heinrich-Heine - beantwortet
+- TOP 4: Anfrage der SPD-Fraktion:"Masterplan Kulturbauten" - Auflistung der Kultureinrichtungen - beantwortet
+- TOP 5: Anfrage der CDU/FDP-Fraktion: "Aktueller Sachstand städtische Koordinationsstelle für Kulturtermine" - beantwortet
+- TOP 6: Antrag der SPD-Fraktion: "Prüfung und Vorstellung einer Kunstkommission nach dem Münchener Modell " - mehrheitlich abgelehnt
+- TOP 7: Antrag der Ratsfraktion Bü90/Grüne: "Kunst im Öffentlichen Raum" bei Neuordnung und Ges - einstimmig beschlossen
+- TOP 8: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 9: Verleihung des Förderpreises für Wissenschaften - einstimmig beschlossen
+- TOP 10: Aquazoo/Löbbecke-Museum: Sanierung und Modernisierung 2013/2014 - einstimmig beschlossen
+- TOP 11: Altstadt/ Detailplanung Platz Am Dominikanerkloster - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Deutsche Oper am Rhein; Genehmigung des Finanzkonzeptes unter Berücksichtigung des actori-Gutachtens - einstimmig beschlossen
+- TOP 14: Ausstellungsprogramm 2. Halbjahr 2013, Heinrich-Heine-Institut - einstimmig beschlossen
+- TOP 15: Ausstellungsprogramm 2. Halbjahr 2013, Theatermuseum - einstimmig beschlossen
+- TOP 16: Ausstellungsprogramm 2. Halbjahr 2013, Stadtmuseum - einstimmig beschlossen
+- TOP 17: Ausstellungsprogramm 2. Halbjahr 2013, Goethe-Museum - einstimmig beschlossen
+- TOP 18: Ausstellungsprogramm 2. Halbjahr 2013, Filmmuseum - einstimmig beschlossen
+- TOP 19: Ausstellungsprogramm 2. Halbjahr 2013, Hetjens-Museum - zur Kenntnis genommen
+- TOP 20: Veranstaltungsprogramm 2. Halbjahr 2013, Mahn- und Gedenkstätte - zur Kenntnis genommen
+- TOP 21: Ausstellungsprogramm 2. Halbjahr 2013, Kunstraum - zur Kenntnis genommen
+- TOP 22: Zuschuss zur 1. Wissenschaftsnacht in Düsseldorf - einstimmig beschlossen
+- TOP 23: Zuschuss für ein Projekt der Kinder- und Jugendkulturarbeit 2013 - zur Kenntnis genommen
+- TOP 24: Sondersitzung Beirat Musik (19.06.2013) - zur Kenntnis genommen
+- TOP 25: Kunstprojekt "Approach to Realities" in der Partnerstadt Chongqing - zur Kenntnis genommen
+- TOP 26: Zuschuss zur Konzertreise von Stabil Elite nach Chongqing - zur Kenntnis genommen
+- TOP 27: Kooperationsprojekt 2013 "west-off - Theaternetzwerk Rheinland" - zur Kenntnis genommen
+- TOP 28: Zuschuss 2013 anlässlich des 35-jährigen Bestehens des tanzhaus nrw e.V. /Intendantenwechsel - zur Kenntnis genommen
+- TOP 29: Zuschuss 20. Jubiläum Polnisches Institut - zur Kenntnis genommen
+- TOP 30: Kooperationsprojekt 2013 „Internationales Tanzfestival PINA 40 – 40 Jahre Tanztheater Wuppertal Pina - zur Kenntnis genommen
+- TOP 31: Beirat Tanz und Theater (Sitzung am 12. Juni 2013) - zur Kenntnis genommen
+- TOP 32: Restitutionsersuchen des Gemäldes "Fruchtkorb an einer Eiche" von Abraham Mignon - mehrheitlich beschlossen
+- TOP 33: Restitutionsersuchen für das Gemälde „Pariser Wochentag“ von Adolph Menzel - mehrheitlich beschlossen
+- TOP 34: Beschlusskontrolle - einstimmig beschlossen
