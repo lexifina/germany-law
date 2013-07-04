@@ -1,0 +1,52 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-07-04T17:05:00+02:00
+- Ende: 2013-07-04T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8873
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8873
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00342199.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge und Eingaben
+- TOP 4.1: Bekanntgabe
+- TOP 4.2: Stellungnahmen
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Standortsuche für den Neubau der JVA Münster
+- TOP 5.2: Stadtregionale Zusammenarbeit in der Stadtregion Münster - zur Kenntnis genommen
+- TOP 5.3: Förderung von Stadterneuerungsprojekten - Sachstand 2013 und Anträge 2014 - einstimmig beschlossen
+- TOP 5.4: Sachstandsbericht 2013 zum Handlungskonzeptes zur Umsetzung des Klimaschutzkonzeptes 2020 und Ergebnisse der Energie- und Klimabilanz 1990 - 2011 - von der Tagesordnung abgesetzt
+- TOP 5.5: Entwicklungsperspektiven für die Errichtung und Nutzung von Biogasanlagen im Stadtgebiet Müns-ter - ohne Beschlussfassung geschoben
+- TOP 5.6: Künftige Unterbringung der VHS, - ohne Beschlussfassung geschoben
+- TOP 5.7: Quartiersentwicklung zwischen Eisenbahnstraße und Friedrichstraße - einstimmig beschlossen
+- TOP 5.8: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf - einstimmig geändert beschlossen
+- TOP 6: Stadtplanung
+- TOP 6.1: Bebauungsplan Nr. 550 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.2: Bebauungsplan Nr. 556 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.3: Bebauungsplan Nr. 552 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.4: neu! Brunnenweg - aktueller Stand
+- TOP 7: Verkehr
+- TOP 7.1: Finanzielle und personelle Bedarfe zur Fortführung des Verkehrssicherheitsprogramms 2014 - 2017 - ohne Beschlussfassung geschoben
+- TOP 7.2: Neubau Eisenbahnüberführung Heroldstraße - Aufhebung des BÜ Galgenheide - mehrheitlich abgelehnt
+- TOP 7.3: Planung zum Neubau des DB-Haltepunktes Roxel - einstimmig beschlossen
+- TOP 7.4: Programm "Verbesserungen an Haltestellen" für 2014/2015 - einstimmig geändert beschlossen
+- TOP 7.5: Regelung zum Reisebusparken in der Vorweihnachtszeit - ohne Beschlussfassung geschoben
+- TOP 7.6: Querung der Westhoffstraße im Bereich des REWE-Marktes - einstimmig beschlossen
+- TOP 7.7: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP 7.8: Schmittingheide - Anregung nach § 24 GO NRW vom 27.06.2012 (lfd. Nr. 77/2012) - einstimmig beschlossen
+- TOP 8: Bauvorhaben
+- TOP 8.1: Hüfferstraße/Ecke Rishon-Le-Zion-Ring
+- TOP 8.2: Einsteinstr. 28 - Neuerrichtung MFH nach Bestandsabriss
+- TOP 8.3: Koldering 59 - Abbruch und Neubau eines Studentenwohnheims
+- TOP 9: Verschiedenes
+- TOP 9.1: Handlungsprogramm 2012 bis 2017 - Bestandsaufnahme zu Standards und Richtlinien (Auszug Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft) - von der Tagesordnung abgesetzt
+- TOP 9.2: Handlungsprogramm 2012 bis 2017 - 1. Projektbericht zur Umsetzung (Auszug Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft) - von der Tagesordnung abgesetzt
