@@ -1,0 +1,69 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-07-04T17:00:00+02:00
+- Ende: 2013-07-04T19:06:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7201
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7201
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198195.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198195.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198195.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Freigabe eines verkaufsoffenen Sonntagnachmittages am Sonntag, dem 08.09.2013 - mehrheitlich abgelehnt
+- TOP 10: Spezialmarkt "Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller - zur Kenntnis genommen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Masterplan zur Reduzierung des Straßenverkehrslärms im Stadtbezirk 8 - beantwortet
+- TOP 13: Konjunkturpaket II, Sanierung macht Schule und Schulbaumaßnehmen im Stadtbezirk 8 - beantwortet
+- TOP 14: Logistik - Unternehmen Dillenburger Weg - beantwortet
+- TOP 15: Neugestaltung Lierenfelder Zentrum - beantwortet
+- TOP 16: Parksituation Proberaumbunker Gatherweg - beantwortet
+- TOP 17: Spielhallen und Wettbüros in Eller - beantwortet
+- TOP 18: Sachstand Ortsumgehungen - beantwortet
+- TOP 19: Bebauungspläne im Stadtbezirk 8 - beantwortet
+- TOP 20: Kulturbahnhof Eller - beantwortet
+- TOP 21: Verkehrssituation Gatherweg, Krokusweg und Wilhelm-Heinrich-Weg - beantwortet
+- TOP 22: Grundstück Am Karlshof 22 - beantwortet
+- TOP 23: Baumscheiben im Stadtbezirk 8 - beantwortet
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Grünpflege entlang der Düssel - beantwortet
+- TOP 26: Pflege des Freiheitplatzes - beantwortet
+- TOP 27: Campingplatz Süd Unterbacher See - beantwortet
+- TOP 28: Verkehrssituation Am Kleinforst - beantwortet
+- TOP 29: Kinderspielplatz Bingener Weg / Offenbacher Weg - zurückgezogen
+- TOP 30: Bedarfsampel Fußgängerüberweg Sandträgerweg - einstimmig beschlossen
+- TOP 31: Logistik - Unternehmen Dillenburger Weg - einstimmig beschlossen
+- TOP 32: Taubenabwehr Eller - einstimmig beschlossen
+- TOP 33: Durchgang S-Bahnhof Eller - Süd - einstimmig beschlossen
+- TOP 34: Verkehrsberuhigende Blumenkästen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 35: Hundeauslaufplatz Ellerkirchstraße - mehrheitlich abgelehnt
+- TOP 36: Mitteilungen des Bezirksvorstehers - mehrheitlich abgelehnt
+- TOP 37: Piktogramme Zeppelinstraße - einstimmig beschlossen
+- TOP 38: Straßenverkehr Dillenburger Weg - zur Kenntnis genommen
+- TOP 39: Wartehalle 'In den Maisbanden' - zur Kenntnis genommen
+- TOP 40: Umgestaltung der Verkehrsfläche Am Turnisch / Reisholzer Straße - zur Kenntnis genommen
+- TOP 41: Grundstück Vennhauser Allee 222 - zur Kenntnis genommen
+- TOP 42: Jugendtreff Youth4U, Gerresheimer Landstraße 89 - zur Kenntnis genommen
+- TOP 43: Konjunkturpaket II, Sanierung macht Schule und Schulbau im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Radwegesituation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Lärmschutz Güterzugstrecke Rath - Eller - zur Kenntnis genommen
+- TOP 46: Grundstück Tannenhofweg 88 - zur Kenntnis genommen
+- TOP 47: Logistik - Unternehmen im Gurkenland - zur Kenntnis genommen
+- TOP 48: Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 49: Grundstück Am Turnisch 11 + 11a - zur Kenntnis genommen
+- TOP 50: Videobetreuung an S-Bahnhöfen, Haltestellen und Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 52: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
