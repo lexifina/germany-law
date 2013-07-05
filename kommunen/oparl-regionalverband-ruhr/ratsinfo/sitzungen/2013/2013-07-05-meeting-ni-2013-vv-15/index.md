@@ -1,0 +1,54 @@
+# 15. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-07-05T09:35:00+02:00
+- Ende: 2013-07-05T13:00:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-15
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-15
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2013-VV-15
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-15
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-15
+
+## Tagesordnung
+
+- TOP -: Begrüßung/Tagesordnung
+- TOP 2.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2013
+- TOP 2.2: Verabschiedung der Haushaltssatzung 2013
+- TOP 2.2.1: Verabschiedung der Haushaltssatzung 2013 Antrag der Fraktion DIE LINKE vom 12.03.2013
+- TOP 2.2.2: (12/0901-1) Änderung der Haushaltssatzung Antrag der Fraktion Die Linke. vom 04.07.2013
+- TOP 2.10: Resolution der RVR-Verbandsversammlung zur Fortsetzung des Ökologieprogramms im Emscher-Lippe-Raum (ÖPEL)
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Sachstand zu den gemäß § 9 Abs. 4 LPlG beschlossenen Jahresprogrammen 2012/13 für a) die Maßnahmen des Landesstraßenausbauplans b) den Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten c) den Radwegebau an bestehenden Landesstraßen
+- TOP 1.2: Städtebauförderung hier: Aufstellung des Städtebauförderprogramms 2013
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Antwort der Bezirksregierung Düsseldorf zur Nachfrage der Fraktion 'Bündnis 90/ Die Grünen' zum TOP 'Städtebauförderung: Vorschlag für das Stadterneuerungsprogramm 2013“
+- TOP -: Antwort der Bezirksregierung Arnsberg vom 25.06.2013: Erläuterungen zur B-Priorisierung der durch die Stadt Wetter beantragten För-dermaßnahme 'Untere Kaiserstraße'
+- TOP 1.3: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik: hier: - Beratung und Beschlussfassung der vorgeschlagenen Projekte 2013 ( Kulturregion Ruhrgebiet ) - Rückblick der Förderung 2012 in der Kulturregion Ruhrgebiet
+- TOP 1.3.1: Regionale Kulturförderung
+- TOP 1.4: Bericht über den Stand des Verfahrens zur Aufstellung des neuen Abfallwirtschaftsplan NRW, Teilplan Siedlungsabfälle und zur Durchführung einer Bedarfsanalyse für Deponien der Deponieklasse I hier: Kenntnisnahme Erlass MKULNV vom 22.05.2013
+- TOP 1.5: Schriftliche Anfragen an die Bezirksregierung
+- TOP 1.5.1: Anfragen, hier der CDU-Fraktion vom 14.05.2013: 'Welche Straßenbauprojekte mel-det die Landesregierung zum Bundesverkehrswegeplan an?'
+- TOP 1.5.2: Sachstand zu den gemäß § 9 Abs. 4 LPlG beschlossenen Jahresbauprogrammen 2012/13 für - hier - c) den Radwegebau an bestehenden Landesstraßen, und zwar (insoweit ergänzend) zum Sachstand des Radwegebaus an der L 104
+- TOP 1.5.3: Anfragen, hier der CDU-Fraktion vom 14.05.2013 zum 'Landesstraßenerhaltungs-programm 2013'
+- TOP 1.6: 7. Änderung des Regionalplanes für den Regierungsbezirk Münster „Teilabschnitt Emscher-Lippe“ zur Festlegung eines Kraftwerksstandortes auf dem Gebiet der Stadt Datteln – Antrag auf Einleitung des Zielabweichungsverfahrens
+- TOP 1.7: Bochum, Bebauungsplan Nr. 818 – Ruhrpark Einkaufszentrum – Stellungnahme der Regionalplanungsbehörde gem. § 34 Abs. 1 Landesplanungsgesetz NRW
+- TOP 1.8: Beabsichtigte Erweiterung des Geländes der Firma SARIA am Standort Marl-Frentrop – Schriftliche Anfrage der Fraktion DIE LINKE im Regionalverband Ruhr vom 08.05.2013
+- TOP 1.9: Klimaschutzteilkonzept für die Metropole Ruhr
+- TOP 1.10: Regionaler Diskurs/Regionalplan Ruhr Hier: Fachdialog Kulturlandschaften - Werkstattbericht
+- TOP 1.11: Anfragen und Mitteilungen
+- TOP -: Anfrage der CDU-Fraktion vom 25.06.2013: Bund erhöht Gelder für den kommunalen Straßenbau hier: Antwort der Bezirksregierung Münster vom 26.06.2013
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.3: Satzung zur Änderung der Verbandsordnung vom 05.07.2013
+- TOP 2.4: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für die ABS 46/2 - Dreigleisiger Ausbau der Strecke Grenze D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 2.3 Hamminkeln - Mehrhoog Hier: Stellungnahme des Regionalverbandes Ruhr
+- TOP 2.5: Aufsuchung von Kohlenwasserstoffen - Stellungnahmen des Regionalverbandes Ruhr Hier: Antrag auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen zu gewerblichen Zwecken gemäß §§ 6 ff. BBergG der Dart Energy (Europe) Limited für ein Feld 'Freiheit 1' und konkurrierender Antrag der Mingas-Power GmbH für ein Feld 'Hohemark-Gas'
+- TOP 2.6: Aufsuchung von Kohlenwasserstoffen - Stellungnahmen des Regionalverbandes Ruhr Hier: Antrag auf Erteilung einer Erlaubnis zur Aufsuchung von Kohlenwasserstoffen zu gewerblichen Zwecken gemäß §§ 6 ff. BBergG der Dart Energy (Europe) Limited für ein Feld 'Freiheit 2' und konkurrierender Antrag der Mingas-Power GmbH für ein Feld 'Marl-Gas'
+- TOP 2.7: Jahresabschlussbericht 2012
+- TOP 2.8: Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.9: Stand und weitere Planung des Strategieprozesses
+- TOP 2.11: Restrukturierung der Freizeitgesellschaften
+- TOP 2.11.1: Restrukturierung der Freizeitgesellschaften Neufassung des Beschlussvorschlages der Vorlage 12/0897-2 Antrag der Fraktion DIE LINKE vom 2.07.2013
+- TOP 2.12: Anfragen und Mitteilungen
