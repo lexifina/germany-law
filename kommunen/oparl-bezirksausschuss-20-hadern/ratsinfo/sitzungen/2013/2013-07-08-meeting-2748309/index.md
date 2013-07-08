@@ -1,0 +1,108 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-07-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Nutzungsänderung für Freifläche zwischen Pasing und Blumenau
+- TOP 1.2.: Abgestelltes Motorrad in der Stolzenfelsstraße
+- TOP 1.3.: Anfrage bezüglich eines Imbissstellplatzes
+- TOP 1.4.: "Die Freiheit" im EKZ Haderner Stern
+- TOP 1.5.: verschiedene Anliegen zum Stadtbezirk 20 Hadern
+- TOP 1.6.: Antrag auf Förderung / Zuschuss für die Erweiterung des Naturlehrpfades
+- TOP 1.7.: Parksituation vor dem Garagenhaus Kurparkstraße 65
+- TOP 1.8.: Sackgasse am Wildtaubenweg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Familienzentrum Hadern-Blumenau e.V., Vorbereitungen für den Bezug neuer Räumlichkeiten (Direktorium, 17.06.13)
+- TOP 5.2.: Budget der Bezirksausschüsse, Kirchenstiftung Erscheinung des Herrn, Konzert am 06.10.2013 (Direktorium, 02.07.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Haderunstraße 2, Neubau eines Bürogebäudes - Vorbescheid (Referat für Stadtplanung und Bauordnung, 13.06.13)
+- TOP 6.2.: Erinnerungsverfahren: Waldwiesenstraße / Am Ährenfeld zwischen Waldwiesenstraße 3 - 27 (Baureferat, 12.06.13)
+- TOP 6.3.: Beschlussvorlage für den Umweltschutzausschuss: Erstellung eines Umweltverträglichkeitsgutachtens für die Verkehrsknoten Garmischer Straße / Ammerseestraße und Fürstenrieder Straße / Ammerseestraße (Referat für Gesundheit und Umwelt, 06.06.13)
+- TOP 6.4.: Benennung von Straßen und Wegen in Grünzügen - Anhörungsschreiben, Antrag BA 11 Milbertshofen-Am Hart (Direktorium, 24.06.13)
+- TOP 6.5.: Haderunstraße 1 a, Aufstockung eines Schulgebäudes und Neubau einer Duplex-Garage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 03.07.13)
+- TOP 6.6.: Gestaltung Spielplatz Haderner Augustiner, Würmtalstraße 113 (Augustiner-Bräu, 02.07.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Waldesruhe 3, gem. Baumbestandsplan Nr. 11014
+- TOP 7.2.: Nothkaufplatz 16, gem. Baumbestandsplan Nr. 9846
+- TOP 7.3.: Eisenhutstraße 11 a, 2 Fichten
+- TOP 7.4.: Guardinistraße 64 - 88, 1 Esche und 1 Hängebirke
+- TOP 7.5.: Kruckenburgstraße 42, 3 serbische Fichten
+- TOP 7.6.: Lichtensteinstraße 8, 1 Ahorn
+- TOP 7.7.: Nothkaufstraße 3, 1 Tanne
+- TOP 7.8.: Sonnenblumenstraße 17
+- TOP 7.9.: Waldgartenstraße 73, 1 Kiefer
+- TOP 7.10.: Windeckstraße 8 - 14, 1 Nadelbaum
+- TOP 7.11.: Schachblumenweg 13, 2 Fichten
+- TOP 7.12.: Waldhüterstraße 25, 1 Zeder
+- TOP 7.13.: Wastl-Witt-Straße 17 - 27, 3 Scheinzypressen, 1 Birke und 1 Wacholder
+- TOP 7.14.: Rodensteinstraße 16, 1 Tanne
+- TOP 7.15.: Waldklausenweg 20, 2 Douglasien
+- TOP 7.16.: Am Waldspitz 3, gem. Baumbestandsplan Nr. 14586
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 13 Bäume auf dem Waldfriedhof (Baureferat, 31.05.13)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Regionale Wohnungsbaukonferenz am 06.03.2013 - Dokumentation (Referat für Stadtplanung und Bauordnung, 06.06.13)
+- TOP 8.2.: Onlinebanking für Bezirksausschüsse; Nutzung des Firmenkundenportals der Stadtsparkasse München (Direktorium, 12.06.13)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Würmtalstraße (Sozialreferat, 14.06.13) - Batzerstraße (Sozialreferat, 19.06.13) - Waldesruhe (Sozialreferat, 21.06.13)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Fürstenrieder Straße 264 - 266 Verlängerung der Kurzparkzone (Kreisverwaltungsreferat, 11.06.13)
+- TOP 8.5.: Canisiusplatz 3, Neubau eines Wohngebäudes (8 WE) mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 29.05.13)
+- TOP 8.6.: Neubau städtisches Haus für Kinder Waldwiesenstraße 27 (Referat für Bildung und Sport, 18.06.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Anliegerstraße Würmtalstraße (Baureferat, 12.06.13)
+- TOP 9.2.: Städtebaulicher Vertrag Prälat-Wellenhofer-Straße (Baureferat, 07.06.13 und Referat für Stadtplanung und Bauordnung, 24.06.13)
+- TOP 9.3.: Grünanlage Stiftsbogen (Baureferat, 05.06.13)
+- TOP 9.4.: Haltverbot Heiglhofstraße / Baumgräben (Kreisverwaltungsreferat, 28.05.13)
+- TOP 9.5.: Zuschüsse für Kinderbetreuung an die Freie Waldorfschule München (Referat für Bildung und Sport, 13.06.13)
+- TOP 9.6.: Baum an der Bushaltestelle "Großhadern" (Baureferat, 18.06.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Zusätzlicher LVP-Behälter Kriegerheimstraße / Ecke Aurikelstraße (Remondis, 13.06.13)
+- TOP 10.2.: Tram Westtangente, Anfrage des BA 20 zum Arbeitsstand des Projekts (SWM, 31.05.13)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2013, Reservierungen der Bezirksausschüsse (Direktorium, 17.06.13)
+- TOP 11.2.: Stadtteilcheck am 17.07.2013 in Hadern (Kreisjugendring München-Stadt, 17.06.13)
+- TOP 11.3.: Landtags- und Bezirkswahl am 15.09.2013; Bundestagswahl am 22.09.2013; Kommunalwahl am 16.03.2014; Europawahl voraussichtlich am 25.05.2014, Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer (Kreisverwaltungsreferat, 28.05.13)
+- TOP 11.4.: Johanniter-Unfall-Hilfe e.V., Regionalverband München - Jahresbericht 2012 (Die Johanniter, 04.06.13)
+- TOP 11.5.: Einladung zum Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Donnerstag, 25.07.2013 (Gleichstellungsstelle für Frauen, 17.06.13)
+- TOP 11.6.: Protokoll zum 16. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse (Gleichstellungsstelle für Frauen, 14.06.13)
+- TOP 11.7.: Einladung zum Fachforum "Wirtschaftlichkeit energetischer Gebäudesanierung" am Dienstag, 16.07.2013 (Referat für Gesundheit und Umwelt, 28.06.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 05.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11217: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012 Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien
+- TOP 12.2.: Beschluss vom 02.05.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11299: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 1. Stadtbezirkes
+- TOP 12.1.: Beschluss vom 26.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12310: Wohnen in München V Städtische Wohnungsbaugesellschaften
+- TOP 12.2.: Beschluss vom 26.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12168: 2. Stammstrecke München Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Bahn am Hauptbahnhof und Ostbahnhof
+- TOP 12.3.: Beschluss vom 26.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11189: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 08124: Begegnungszonen / "Shared Space"
+- TOP 12.2.: Beschluss des Ausschusses für Bildung und Sport vom 12.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11563: Kindertagesstätten sonstiger Träger; Haus für Kinder Gelbhofstraße 6 im 20. Stadtbezirk Hadern Leistung eines Baukostenzuschusses nach dem BayKiBiG; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12050: Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12206: Seniorenpolitisches Programm unter Einbeziehung der Referate
+- TOP 12.5.: Beschluss des Ausschusses für Bildung und Sport vom 12.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12131: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztagszüge und offener Ganztagsangebote Küchensanierung und -erweiterung für die Grund- und Mittelschule an der Guardinistraße 60 im 20. Stadtbezirk Hadern
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11999: Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 Au-Haidhausen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11869: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2013
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 25.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12302: Standortkonzept Bürgerbüros Einrichtung eines Bürgerbüros am Scheidplatz
+- TOP 12.2.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltschutzausschusses vom 19.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12242: Radverkehr in München Bericht zur Umsetzung und Aktualisierung von Zielen
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Kinder- und Jugendhilfeausschuss vom 07.05.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11765: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 19.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11936: Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12300: Ludlstraße (beidseits), Senftenauer Straße (westlich), Ammerseestraße (Bundesautobahn A 96 München-Lindau) (nördlich), Gondrellplatz (östlich und nördlich), Alpenveilchenstraße (östlich), Rudi-Seibold-Straße (südlich) und Menaristraße (östlich bzw. beidseits) Bekanntgabe des Wettbewerbsergebnisses und weiteres Vorgehen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
