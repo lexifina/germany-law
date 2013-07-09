@@ -1,0 +1,86 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und Betriebsausschüsse APH / KIJU / WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-07-09T16:03:00+02:00
+- Ende: 2013-07-09T18:55:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/194
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8212
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8212
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand:26.06.13) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00156908.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00158446.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2012 und Konzernabschluss der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2012 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2012 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der GWG und des Konzerns GWG für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2012 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2012 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2012 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss der Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co KG für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss der Lokalfunk Wuppertal Beteiligungsgesellschaft mbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss der Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Änderung des Wirtschaftsplanes der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Zustimmung zur Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 3.2: Behandlung der Jahresabschlüsse der WSW-Tochtergesellschaften - Entgegennahme ohne Beschluss
+- TOP 3.3: Strukturelle Weiterentwicklung des Konzerns WSW - Entgegennahme ohne Beschluss
+- TOP 3.4: Geschäftsführerangelegenheiten der Bergische Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 3.5: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) vom 16.05.2013 - Fragen zum Bescheid der Bezirksregierung v. 29.04.13. - Entgegennahme ohne Beschluss
+- TOP 3.5.1: Antworten auf die Große Anfrage der WfW-Fraktion vom 16.05.2013 zum Bescheid der Bezirksregierung - Entgegennahme ohne Beschluss
+- TOP 3.6: Verlängerung der Regiobahn (S 28) von Mettmann nach Wuppertal - ungeändert beschlossen
+- TOP 3.7: Umbesetzung in der Mitgliederversammlung und im Beirat der Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG) - ungeändert beschlossen
+- TOP 3.8: Standortverlegung des Notarzteinsatzfahrzeuges von der Arrenberger Straße zur Hauptfeuer- und Rettungswache August-Bebel-Straße mit Erweiterung der Rettungswache für eine Besatzung - ungeändert beschlossen
+- TOP 3.9: Korrektur des Firmennamens der GWG - ungeändert beschlossen
+- TOP 3.10: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2013 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Fortschreibung des Haushaltssanierungsplans für das Jahr 2014 - aktuelle Probleme durch die Kürzung der Konsolidierungshilfen des Landes und die Steigerung der Kosten für soziale Leistungen - Entgegennahme ohne Beschluss
+- TOP 5.2: Finco-Bericht zum 30.06.2013 - Entgegennahme ohne Beschluss
+- TOP 5.3: Stand der Schulden und Kassenkredite zum 30.06.2013 - Entgegennahme ohne Beschluss
+- TOP 5.4: Gutachten zur Weiterentwicklung des kommunalen Finanzausgleichs NRW - Entgegennahme ohne Beschluss
+- TOP 5.5: Über- und außerplanmäßige Bereitstellung von Mitteln 2013, Teil 1 - Entgegennahme ohne Beschluss
+- TOP 5.6: Verkauf eines städtischen Grundstückes im Bereich der Straße Lante - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 5.7: Personalentwicklungskonzept - Bericht über die Aus- und Fortbildung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.8: 3. Erfahrungsbericht über die Umsetzung des Kooperationsprojektes "Bergisches Veterinär- und Lebensmittelüberwachungsamt Remscheid-Solingen-Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.9: Nachfolgenutzung Schauspielhaus - Entgegennahme ohne Beschluss
+- TOP 5.10: Bürgerbeteiligung zum Haushalt; Sachstandsbericht (mündlich) - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2011 - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Instandsetzung Brücke Brändströmstraße, 2. Bauabschnitt - ungeändert beschlossen
+- TOP 7.2: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 13.06.13 - Familienfreundlichkeit in der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 7.2.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zur Familienfreundlichkeit in der Stadtverwaltung - Entgegennahme ohne Beschluss
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH / KIJU / WAW
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 9.1: Quartalsbericht I/2013 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 9.2: Quartalsbericht I/2013 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 11.1: Entlastung der Betriebsleitung KIJU für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 11.2: Jahresabschluss 2012 KIJU - ungeändert beschlossen
+- TOP 11.3: Empfehlung eines Wirtschaftsprüfers für die Jahresabschlussprüfung KIJU 2013 - ungeändert beschlossen
+- TOP 11.4: KIJU 1. Quartalsbericht 2013 - Entgegennahme ohne Beschluss
+- TOP 11.5: Dachsanierung KIJU - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
+- TOP 13: Wasser und Abwasser
+- TOP 13.1: 5. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.2: Stadtentwässerung - Maßnahmenkatalog 2014/Katalogentwurf 2015 - ungeändert beschlossen
+- TOP 13.3: Sachstandsbericht Eigenbetrieb Wasser und Abwasser Wuppertal - Entgegennahme ohne Beschluss
+- TOP 13.4: Rekommunalisierung der Wasserversorgung - Entgegennahme ohne Beschluss
+- TOP 14: Berichte und Mitteilungen
