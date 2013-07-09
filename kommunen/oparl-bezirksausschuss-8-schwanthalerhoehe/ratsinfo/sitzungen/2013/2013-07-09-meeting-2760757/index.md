@@ -1,0 +1,70 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760757
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760757
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Parkprobleme während der Blade-Night
+- TOP 4.2.: Verkehr in der Tulbeckstraße
+- TOP 4.3.: Ausdehnung der LZA am Franziska-Bilek-Weg
+- TOP 4.4.: Verkehrssituation im Quartier Theresienhöhe
+- TOP 4.5.: Gollierstr. 29
+- TOP 4.6.: REWE Family Fest
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Baulisten
+- TOP 5.2.: Anhörung: Landsberger Str. 137, Neubau Vorderhaus - Vorbescheid
+- TOP 5.3.: Ligsalzstr. 5, Ablehnungsbescheid
+- TOP 5.4.: Dokumentation Regionale Wohnungsbaukonferenz
+- TOP 5.5.: Denkmalschutz und Denkmalpflege in München, Präsentation der LBK vom 10.06.13
+- TOP 5.6.: Anhörung: Trappentreutunnel; Instandsetzung des Tunnelbauwerks, Nachrüstung von Sicherheitseinrichtungen - Betriebsgebäude am Gollierplatz
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Weiterförderung des Bildungslokals Schwanthalerhöhe
+- TOP 6.2.: Grundschule an der Bergmannstraße, Schreiben des RBS vom 21.06.13
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Ökumenischer Gottesdienst in der Grünanlage Bavariapark am 28.07.2013
+- TOP 8.2.: Barrierefreier Ausbau der U-Bahn-Station Heimeranplatz, Beschluss des Bauausschusses
+- TOP 8.3.: Entscheidung: Genehmigung einer Freischankfläche in der Schwanthalerstr. 142
+- TOP 8.4.: Entscheidung: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Schwanthalerstr. 142
+- TOP 8.5.: Entscheidung: Projektplanung "ÖPNV Offensive IV - Ganghoferstraße - Haltestelle Schwanthalerhöhe"
+- TOP 8.6.: Anhörung: Verbesserungen für den Radverkehr im 2. und 8. Stadtbezirk
+- TOP 8.7.: Baumfällung Barthstr. 29, Bescheid
+- TOP 8.8.: Entscheidung: Genehmigung einer Freischankfläche in der Guldeinstr. 50
+- TOP 8.9.: Vorschläge für Fahrradstraßen
+- TOP 8.10.: Anhörung: Festival der Marionetten am Georg-Freundorfer-Platz 25.07. - 05.08.13
+- TOP 8.11.: Anhörung: Baumfällung Theresienhöhe 14
+- TOP 8.12.: Barrierefreie Umgestaltung der Donnersbergerbrücke: Zeitgleich mit dem Umbau des Bahnhofsbauwerks den Fußgängersteg vom Bahnhof bis zu den Bushaltestellen auf der Westseite sowie das Aufgangsbauwerk an der Westseite barrierefrei umgestalten BA-Antrag Nr. 08-14/ B 04366, hier: weiteres Antwortschreiben
+- TOP 8.13.: Gehweg mit dem Zusatz ?Radfahrer frei? im Verbindungsweg der Theresienhöhe zwischen Martin-Greif-Straße und Westendstraße, verkehrsrechtliche Anordnung
+- TOP 8.14.: Einrichtung einer Fahrradstraße in der Theresienhöhe, verkehrsrechtliche Anordnung
+- TOP 8.15.: Anhörung: Kinder- und Kultursommer Am Bavariapark vom 23.07. bis 02.08.13
+- TOP 8.16.: Anhörung: Privatfeuerwerk am 10.08. an der Theresienhöhe 15 (Terrasse der Kongressbar)
+- TOP 8.17.: Maßnahmen in der Landsberger Straße auf Grundlage des Ortstermins vom 26.06.2012, Fußgängerüberweg Trappentreustraße auf Höhe der Hausnummer 17; hier: Schreiben des Baureferats vom 05.07.2013
+- TOP 8.18.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Verwendungsnachweis Open Westend 2013
+- TOP 9.2.: Finanzierung der Gestaltung der Pausenhofwände der Bergmannschule
+- TOP 9.3.: Informationsschreiben des Direktoriums zu nicht verbrauchten Restmitteln
+- TOP 9.4.: (E) Budget der Bezirksausschüsse Initiative ?Stadtträume? Projekt ?Stadtträume? am 27.07.2013 und am 26.10.2013 - <div>nach Antrag</div>
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfestbesuch 2013
+- TOP 11.2.: Ferienausschuss-Sitzung am 06.08.2013
+- TOP 11.3.: Festlegung der Aufgaben der BA-Beauftragen gegen Rechtsextremismus i.S. d. § 23a BA-Satzung
+- TOP 11.4.: Rundbrief des Seniorenbeirats
+- TOP 11.5.: Anhörung: Benennung von Straßen und Wegen in Grünzügen
+- TOP 11.6.: Pedelec-Tag von Green City e.V.; Eilentscheidung des Vorsitzenden zum 1. Nachtrag der Anhörung
+- TOP 11.7.: Wechsel der Sozialbürgerhausleitung des SBH Laim/Schwanthalerhöhe
+- TOP 11.8.: Antrag des BA 4 "Freischankflächen"
+- TOP 12: Protokoll und Umlauf
