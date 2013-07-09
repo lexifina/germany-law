@@ -1,0 +1,122 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2993582
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2993582
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Schreiben der Klasse 4a der Grundschule an der Ichostraße über die Ergebnisse des Stadtteilcheck "auf Herz und Rampen prüfen"
+- TOP 2.2.: Entfällt, siehe nicht-öffentliche Tagesordnung
+- TOP 2.3.: WLAN auf Obergiesinger Plätzen, Bürgeranliegen von Herrn B. vom 19.06.2013
+- TOP 2.4.: Entfällt, Weiterleitung PlanR
+- TOP 2.5.: Fahrradweg im Bereich Martin-Luther-Straße, Bürgeranliegen von Herrn H. vom 24.06.2013
+- TOP 2.6.: Ameisenplage Amerstofferstraße/Stettnerstraße, Bürgeranliegen von Frau M. vom 18.06.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.7.: RED DRAGON; Bürgeranliegen vom 04.07.2013
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.8.: Neubau an der Tegernseer Landstraße, Bürgeranliegen von Frau H. vom 02.07.2013
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.9.: Parkplätze vor Fasangartenstraße 129, Bürgeranliegen von Herrn T. vom 26.06.2013
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.10.: Ehemaliger Spielberg in der Amerstorfferstraße, Bürgeranliegen von Herrn W. vom 21.06.2013
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.11.: Blitzer in der Aignerstraße/Luftmessungen Ichoschule, Bürgeranliegen von Herrn W. vom 08.07.2013
+- TOP 2.12.: Abfalleimer in der Watzmannstraße, Bürgeranliegen von Herrn H. vom 08.07.2013
+- TOP 3: Anträge/Anfragen
+- TOP 2.13.: Baustelle Walchenseeplatz, Bürgeranliegen von Herrn F. vom 08.07.2013
+- TOP 3.1.: Fahrradständer an der Ichostraße (bei Woolworth)
+- TOP 3.14.: Anträge an den Bezirksausschuss 17 aus der 7B des Asam-Gymnasiums, Bürgeranliegen vom 09.07.2013
+- TOP 3.2.: Sanierung und Aktivierung des Brunnen am Giesinger Berg
+- TOP 3.3.: kostenloses WLAN Giesinger Bahnhof
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Antragsteller: Tela Aktiv e.V. Veranstaltung: Sommerfest am 20.07.2013
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.4.: Übernahme der Kosten für die Teilnahme des BA am Tag des offenen Denkmals
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Beschlussvorlage des KVR vom 21.05.2013
+- TOP 0.5.: Änderung des Flächennutzungsplanes: Grundstück an der Aschauer Straße als "Schulbedarfsfläche", Antrag des BA 17
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 1. Rotwandstr. 4, Errichtung zweier Feuerwehrzufahrten und Neuordnung Stellplätze in Hof 1-3, Anhörung PlanR vom 14.06.2013 2. Eslarner Straße 5, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID, Anhörung PlanR vom 14.06.2013 3. Chiemgaustr. 12, Energetische Sanierung, Errichtung einer Gaube und einer Dachterrasse, Anbau eines verglasten Treppenhauses und von Balkonen sowie Umbau zu zwei Wohneinheiten, Anhörung PlanR vom 17.06.2013 4. Tegernseer Landstraße 125, Nutzungsänderung (ohne Baumaßnahmen): Laden in Gaststätte mit Ausschank alkohl. Getränke, Anhörung PlanR vom 18.06.2013 5. Raintaler Str. 43, TEKTUR, Aufstockung von Wohngebäuden 6. Tegernseer Landstraße 157, Nutzungsänderung und Umbau von Büro zu Hotel mit Tiefgarage, Anhörung PlanR vom 14.06.2013
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Begegnungszonen / "Shared Space", Sitzungsvorlage Nr. 08-14 / V 08124, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 0.3.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2013 - , Sitzungsvorlage Nr. 08-14 / V 11869, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.2013
+- TOP 0.4.: Maxlrainstr. 2, Nutzungsänderung im EG: Einzelhandel zu Großtagespflege, Antwort des PlanR vom 11.06.2013
+- TOP 0.5.: Demografiebericht München - Teil 2, Kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke, Sitzungsvorlage Nr. 08-14 / V 11936, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 0.6.: Seniorenpolitisches Programm unter Einbeziehung der Referate, Antrag Nr. 08-14 / A 03090 von Herrn Stadtrat Dr. Reinhold Babor vom 06.02.2012, Sitzungsvorlage Nr. 08-14 / V 12206, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013
+- TOP 0.7.: Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder, Empfehlung Nr. 08-14 / E 01719 der Bürgerversammlung 05 - Au-Haidhausen am 07.02.2013, Sitzungsvorlage Nr. 08-14 / V 12050, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013
+- TOP 0.8.: Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 Au-Haidhausen 1. Nachnutzung Paulaner Gelände: Information aller Interessierten im Vorfeld des für den 13.04.2013 vorgesehenen Workshops (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 01703 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen - Bezirksteil Haidhausen am 31.01.2013 2. Folgenutzung für Betriebsflächen der Paulaner Brauerei. Optimierung des Workshopverfahrens am 13.04.2013, BA-Antrag Nr. 08-14 / B 04713 des Bezirksausschusses 5 Au-Haidhausen vom 20.03.2013, Sitzungsvorlage Nr. 08-14 / V 11999, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Tegernseer Landstraße; Beschlussvorlage des KVR vom 27.06.2013
+- TOP 0.9.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG), Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ km 2,117-Balanstraße, Bahnstrecke 5552 München Ost, Frankenwaldstraße - Kreuzstraße, km 2,117; Zuleitung des Plangenehmigungsbescheides
+- TOP 0.10.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.11.: Regionale Wohnungsbaukonferenz am 06.03.2013 - Dokumentation, Zuleitung des PlanR vom 06.06.2013
+- TOP 0.12.: PERSPEKTIVE MÜNCHEN - Fortschreibung 2012, Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien, Sitzungsvorlagen Nr. 08-14 / V 11217, Beschluss der Vollversammlung des Stadtrates vom 05.06.2013
+- TOP 0.13.: Vollzug der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse, Anwesen Bad-Berneck-Straße; Mitteilung vom 05.06.2013
+- TOP 0.14.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 11189 Beschluss der Vollversammlung vom 26.06.2013
+- TOP 0.15.: 2. Stammstrecke München Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Bahn am Hauptbahnhof und Ostbahnhof a) Sachstand zu den ÖPNV-Anlagen b) Anträge/Anfrage Sitzungsvorlagen Nr. 08-14 / V 12168 Beschluss der Vollversammlung des Stadtrates vom 26.06.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Abschlussbericht "Vorbereitungsphase Mediation für den Walchenseeplatz in München-Obergiesing"
+- TOP 0.2.: Bericht des Giesinger Mädchen-Treff über den durch den BA 17 bezuschussten Selbstbehauptungskurs
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Entwurf Beschlussvorlage Leistungsprogramm der MVG für die Fahrplanperiode 2014, Zuleitung vom 18.06.2013 mit der Bitte um Stellungnahme
+- TOP 0.2.: Inbetriebnahme neuer Haltestellen zum Fahrplanwechsel am 15.12.2013 im Stadtgebiet des BA 17, Anhörung der MVG vom 25.06.2013
+- TOP 0.1.: Widmung des Kreuzbichlwegs als öffentliche Straße insbesondere im Zusammenhang mit der Einrichtung von Fahrradstraßen, Antwort des BauR vom 10.06.2013
+- TOP 0.2.: Beseitigung höhengleicher Bahnübergang Balanstraße, Antwort des PlanR vom 14.06.2013
+- TOP 0.3.: Radverkehr in München, Bericht zur Umsetzung und Aktualisierung von Zielen, a) Umsetzung von Maßnahmen, Prozessevaluierung und Zielerreichung b) Aktualisierung von Zielen c) Anträge - Fahrradabstellen 3: Gehsteige durch Umwandlung von Kfz-Stellplätzen zu Fahrradstellplätzen entlasten - Bezirksausschüsse sollen entscheiden, Antrag Nr. 08-14 / A 00240 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.08.2008 - Mobilität im Alter - mit dem Fahrrad, Antrag Nr. 08-14 / A 02488 von Herrn Stadtrat Dr. Reinhold Babor vom 26.05.2011 - Radfahrkonzepte auf dem Prüfstand, Antrag Nr. 08-14 / A 02978 der Freien Wähler von 12.12.11 - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 2: Integriertes Verkehrskonzept für Kraftfahrer, Radfahrer, Fußgänger und ÖPNV - gegen Stau, Fahrradunfälle, Lärm, Abgase und Feinstaub, Antrag Nr. 08-14 / A 03596 der Freien Wähler vom 13.08.2012 - Keine Benutzungspflicht von Fahrradwegen?, Antrag Nr. 08-14 / A 03788 der Freien Wähler vom 12.11.2012 Sitzungsvorlage Nr. 08-14 / V 12242, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltausschusses vom 19.06.2013
+- TOP 0.4.: Bus 145 nachmittags über Görzer Schule, Information der MVG vom 21.06.2013
+- TOP 0.5.: Bürgerbeschwerde über die Verkehrssituation am Tegernseer Platz, Antwortschreiben der PI 23 vom 18.06.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Kapellenfeldstraße 9, Bescheid vom 29.05.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Wirtstraße 1, 2 Kiefer, 1 Flügelnuss, 1 Kastanie, Antrag vom 17.06.2013 2. Martin-Luther-Straße 20, 1 Bergahorn, 1 Buche, Antrag vom 03.06.2013 3. Perlacher Straße 103, 1 Linde, Antrag vom 04.06.2013 4. Schwarzenbacher Straße, 7 Fichten, Antrag vom 06.06.2013
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 1. Stadtbezirks, Sitzungsvorlage Nr. 08-14 / V 11299, Beschluss der Vollversammlung des Stadtrates vom 02.05.2013
+- TOP 7.2.: Standortkonzepte Bürgerbüros, Einrichtung eines Bürgerbüros am Scheidplatz, Sitzungsvorlage Nr. 08-14 / V 12302, Beschluss des Kreisverwaltungsausschusses vom 25.06.2013
+- TOP 7.3.: Errichtungsdekret "Pfarrverband Obergiesing", Zuleitung des Erzbischöflichen Ordinariats München vom 22.05.2013
+- TOP 7.4.: Wohnen in München V Städtische Wohnungsbaugesellschaften 1. Steigerung und Verstetigung der Fertigstellungszahlen 2. Finanzielles Engagement der Landeshauptstadt München 3. Stadtratsanträge a) Mietpreis stabiliesieren IV - Wohnungsbaugesellschaften stärken, Erhöhung der Neubautätigkeit der Wohnungsbaugesellschaften b) Umsetzung von Wohnungen in München V: Erhöhung der Jahresraten für den geförderten Wohnungsbau - Kapazitäten der städtischen Wohnungsbaugesellschaften erhöhen c) Städtische Wohnungsbauoffensive beschleunigen d) Finanzielles Engagement im Wohnungsbau e) Städtischen Wohnungsbau noch intensiver fördern Sitzungsvorlage Nr. 08-14 / V 12310, Beschluss der Vollversammlung des Stadtrates vom 26.06.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.1.: Benennung von Straßen und Wegen in Grünzügen - Anhörungsschreiben, BA-Antrags-Nr. 08-14 / B 04763 des Bezirksausschusses des Stadtbezirks 11 - Milbertshofen-Am Hart vom 10.04.2013, Anhörung des Direktorium vom 24.06.2013
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
