@@ -1,0 +1,53 @@
+# 29. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-07-09T17:03:00+02:00
+- Ende: 2013-07-09T21:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8856
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8856
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00344034.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Handlungsprogramm 2012 bis 2017 - 1. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 3.2: Handlungsprogramm 2012 bis 2017 - Bestandsaufnahme zu Standards und Richtlinien - zur Kenntnis genommen
+- TOP 3.3: Handlungsprogramm 2012 bis 2017, Nr. 48 "Reduzierung des städtischen Zuschusses bei der Wirtschaftsförderung Münster GmbH" - Aufhebung des Sperrvermerks für den Etat - einstimmig beschlossen
+- TOP 3.4: Antrag Nr. A-R/0051/2012 der FDP-Fraktion vom 26.11.2012 an den Rat - vertagt
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2012 - einstimmig beschlossen
+- TOP 4.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 4.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2012 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.5: Jahresabschluss 2012 der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 4.6: Jahresabschluss 2012 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 4.7: Jahresabschluss 2012 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 4.8: Jahresabschluss 2012 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 4.9: Jahresabschluss 2012 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - mehrheitlich beschlossen
+- TOP 4.10: Jahresabschluss 2012 der AirportPark FMO GmbH - einstimmig beschlossen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Erhöhung der Kursgebühren der VHS und entsprechende Anpassung der Entgeltordnung - mehrheitlich beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Statusbericht zur Umsetzung sämtlicher politischer Anträge, insbesondere zur Organisationsentwicklung, zum E-Government und zur interkommunalen Zusammenarbeit - zur Kenntnis genommen
+- TOP 6.2: Finanzielle und personelle Bedarfe zur Fortführung des Verkehrssicherheitsprogramms 2014 - 2017 - ohne Beschlussfassung geschoben
+- TOP 6.3: Förderung von Stadterneuerungsprojekten - Sachstand 2013 und Anträge 2014 - ohne Beschlussfassung geschoben
+- TOP 6.4: Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepakets (BUT) - zur Kenntnis genommen
+- TOP 6.5: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V. - ohne Beschlussfassung geschoben
+- TOP 6.6: Steigerung der Wahlbeteiligung bei den Wahlen zum Integrationsrat - mehrheitlich geändert beschlossen
+- TOP 6.7: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - vertagt
+- TOP 6.8: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an die Kinderneurologie-Hilfe Münster zur Zwischenfinanzierung des Projektes "SHT-Register" - einstimmig beschlossen
+- TOP 6.9: Zukünftige Ausrichtung arbeitsmarktbezogener Maßnahmen bei der Volkshochschule Münster - mehrheitlich geändert beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Projekt "gemeinsam bauen" an der Gievenbecker Reihe - vertagt
+- TOP 7.2: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf - einstimmig geändert beschlossen
+- TOP 7.3: Quartiersentwicklung zwischen Eisenbahnstraße und Friedrichstraße - einstimmig beschlossen
+- TOP 7.4: Künftige Unterbringung der VHS, - ohne Beschlussfassung geschoben
+- TOP 7.5: Dementenwohn- und Demententagesbetreuungsanlage in Sprakel - Antrag der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen an den AFBL
+- TOP 7.6: Neubau einer Zweifachsporthalle an der Peter-Wust-Schule - einstimmig beschlossen
+- TOP 8: Verschiedenes
