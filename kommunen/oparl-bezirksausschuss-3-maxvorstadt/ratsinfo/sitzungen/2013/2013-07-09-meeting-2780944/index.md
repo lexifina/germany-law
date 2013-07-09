@@ -1,0 +1,128 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2780944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2780944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 03.06.2013 zur Einhaltung der Sonn- und Feiertagsruhe (s. dazu auch TOP E 2.1)
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 11.06.2013 Verlegung von ?Stolpersteinen? für Walter Klingenbeck vor dem Anwesen Amalienstraße 44 und für Toni Pfülf vor dem Anwesen Kaulbachstraße 12 (s. TOP C 2.2.2)
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 14.05.2013 Rückbau von Ampelanlagen im Einzugsbezirk der Schule an der Schwindstraße u.a. Einrichtungen (s. auch TOP C 2.1.2)
+- TOP 5.2.4.: Schreiben eines Bürgers aus der Maxvorstadt vom 18.07.2013 Neubau des Gesundheitsamtes Dachauer Straße 90, Durchgangsmöglichkeiten, Lärm- minderung und Grünflächennutzung), s. auch TOP B 2.1.9
+- TOP 5.2.5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 22.06.2013 Neubau auf dem Gelände der veterinärmedizinischen Fakultät an der Königinstraße (s. TOP B 2.1.10)
+- TOP 5.2.6.: chreiben der Freunde des Josephsplatzes vom 16.06.2013 zum geplanten Bau einer Anwohnertiefgarage (s. TOP C 2.2.3)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben 22. , 23., 24.KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen 21., 22., 23., 24., 25. KW
+- TOP 2.1.3.: Schleißheimer Straße 29, Neubau eines Dreifamilienhauses mit Tiefgarage
+- TOP 2.1.4.: Nymphenburger Straße 3, Erweiterung der Gastraumfläche
+- TOP 2.1.5.: Schellingstraße 17, erneuerung des Dachstuhls, Erhöhung des Firsts und der hofseitigen traufe, Ergänzung um einen freistehenden Aufzug im Innenhof sowie Erweiterung der Wohnungen um vier hängende Balkone zum Innenhof, Ausbau des Dachstuhls zur Ver- größerung der beiden Wohneinheiten mit einem Dacheinschnittsbalkon zur Hofseite.
+- TOP 2.1.6.: Linprunstraße 51, Neubau einer Wohnanlage mit Tiefgarage ? Vorbescheid
+- TOP 2.1.7.: Wittelsbacherplatz 1, Errichtung einer Freischankfläche
+- TOP 2.1.8.: Theresienstraße 55, Umbau des Dachgeschosses zu einer Wohnung, Erneuerung des Dachstuhls und Anhebung der nordwestlichen Dachfläche sowie Einbau von Dachgauben
+- TOP 2.1.9.: Schreiben eines Bürgers aus der Maxvorstadt vom 18.07.2013 Neubau des Gesundheitsamtes Dachauer Straße 90, Durchgangsmöglichkeiten, Lärm- minderung und Grünflächennutzung), s. auch TOP A 5.2.4
+- TOP 2.1.10.: Schreiben einer Bürgerin aus der Maxvorstadt vom 22.06.2013 Neubau auf dem Gelände der veterinärmedizinischen Fakultät an der Königinstraße (s. TOP A 5.2.5)
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung LZA-Abbau/Probeausschaltung Görres-/Tengstraße, Augusten-/Görresstraße, Görres-/Schwindstraße, Görres-/Zentner- straße vertagt aus der Sitzung am 11.06.2013, TOP C 2.1.6 Unterlagen liegen bereits vor
+- TOP 2.1.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 14.05.2013 Rückbau von Ampelanlagen im Einzugsbezirk der Schule an der Schwindstraße u.a. Einrichtungen (s. auch TOP A 5.2.3)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Dachauer Straße 15, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 11.06.2013 Verlegung von ?Stolpersteinen? für Walter Klingenbeck vor dem Anwesen Amalienstraße 44 und für Toni Pfülf vor dem Anwesen Kaulbachstraße 12 (s. TOP A 5.2.2)
+- TOP 2.2.3.: Schreiben der Freunde des Josephsplatzes vom 16.06.2013 zum geplanten Bau einer Anwohnertiefgarage (s. TOP A 5.2.6)
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstraße 27, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Gabelsbergerstraße 97, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: a) Straßenfest in der Erzgießereistraße am 20.07.2013 b) Kino-Open-Air auf dem Königsplatz vom 22.07. bis 01.08.2013
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Sozialreferat, Amt für Wohnen und Migration Geplante Nutzung des Tiefbunkers an der Elisenstraße 10 als Notfall-Kälteschutzein- richtung für Wohnungslose ab Winter 2013/2014
+- TOP 2.2.: Budget Förderverein der Grundschule an der Schwindstraße e.V. Maßnahme: Individuelle Lernbegleitung für Erst- bis Viertklässler vom 01.09.2013 bis 31.08.2014 beantragte Fördersumme: 8.800,00 ? vertagt aus der Sitzung vom 11.06.2013, TOP D 2.3 Unterlagen liegen bereits vor
+- TOP 2.3.: Budget Freunde des Kindergartens und Hortes St. Benno München e.V. Maßnahme: Feier zum 25jährigen Bestehen am 13.07.2013 beantragte Fördersumme: 1.113,00 ?
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 03.06.2013 zur Einhaltung der Sonn- und Feiertagsruhe (s. dazu auch TOP A 5.2.1)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Den Umgang mit dem Fundament des nördlichen ?Ehrentempels? städtebaulich neu denken Antrag Nr. 08-14 / A 03753 der Stadtratsfraktion der SPD, der CSU und Die Grünen/RL vom 23.10.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 Sitzungsvorlage Nr. 08-14 / v 12139
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Sachstandsbericht zum 31.03.2013 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 12.06.2013 Sitzungsvorlage Nr. 08-14 / V 11869
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Haushaltsrückstellungen für den Sozialen Wohnungsbau; Ausschöpfung aller im Programm Wohnen in München V vorgesehenen Gelder Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 Sitzungsvorlage 08-14 / V 12050
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung Verwaltungsstreitsache gegen die Landeshauptstadt München wegen Akteneinsicht in Bauakten Türkenstraße 54/54 Urteil des Verwaltungsgerichts München vom 28.01.2013
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 Au-Haid- hausen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013 Sitzungsvorlage Nr. 08-14 / V 11999
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Demografiebericht München ? Teil 2 Kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013 Sitzungsvorlage Nr. 08-14 / V 11936
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Perspektive München ? Fortschreibung 2012, Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München V 1. Steigerung und Verstetigung der Fertigstellungszahlen 2. Finanzielles Engagement der Landeshauptstadt München 3. Stadtratsanträge Beschluss der Vollversammlung des Stadtrates vom 26.06.2013 Sitzungsvorlage Nr. 08-14 / V 12310
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage 2. Stammstrecke für München Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Bahn am Hauptbahnhof und Ostbahnhof Beschluss der Vollversammlung des Stadtrates vom 26.06.2013 Sitzungsvorlage Nr. 08-14 / V 12168
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Die Stadt München wird aufgefordert, alle notwendigen Maßnahmen zum Mieterschutz einzuleiten Empfehlung Nr. 08-14 / E 01530 der BV des 3. Stadtbezirkes Maxvorstadt vom 18.10.2012
+- TOP 1.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bahnknoten München; 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen Beschluss der Vollversammlung vom 26.06.2013 Sitzungsvorlage Nr. 08-14 / V 11189
+- TOP 1.12.: Sozialreferat Vollzug der Eerhaltungssatzung Georgen-, Zentnerstraße, Josephsplatz Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen in der Tengstraße
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte Radfahren entgegen der Einbahnrichtung in der Sophienstraße BA-Antrag Nr. 08-14 / B 04028, Fristverlängerung bis 31.12.2013
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Prozession zum Umzug des Ägyptischen Museums am 09.06.2013
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid 4. Münchner Radlnacht mit Veranstaltung am sog. Odeonsplatz am 08.06.2013
+- TOP 2.4.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); a) Ausnahmezulassung für die Einbindung einer neuen Fernwärmeleitung Schellingstraße/ Arcisstraße b) Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für eine Kranmontage in der Sandstraße 49
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest in der Kaulbachstraße am 15.06.2013
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Straßenfest in der Türkenstraße am 15.06.2013 (Ersatztermin 22.06.2013)
+- TOP 2.7.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement, Verkehrsanordnungen Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Adalbertstraße 49
+- TOP 2.8.: Baumaßnahmen der Stadtwerke a) Katharina-von-Bora-Straße 4, Fernwärme b) Steinheilstraße 7 ? 21, Strom
+- TOP 2.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Begegnungszonen/?Shared Space? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013 Sitzungsvorlage Nr. 08-14 / V 08124
+- TOP 2.10.: Referat für Stadtpalnung und Bauordnung, Beschlussvorlage Radverkehr in München, Bericht zur Umsetzung und Aktualisierung von Zielen Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisver- waltungsausschuss, Bauausschusses und Umweltschutzausschusses vom 19.06.2013 Sitzungsvorlage Nr. 08-14 / V 12242
+- TOP 2.11.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Bayerische Ernährungstage am 13. und 14.07.2013 in der Galeriestraße Eilentscheidung des Vorsitzenden durch Fristablauf vom 13.07.2013
+- TOP 2.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 20.06. bis 30.06.2013
+- TOP 2.13.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Open Air mit Helene Fischer und Xavier Naidoo am 21.06. und 23.03.2013, Odeonsplatz
+- TOP 2.14.: Kreisverwaltungsreferat, Veranstaltungs und Versammlungsbüro, Erlaubnisbescheid Münchner Stadtlauf 2013 am 23.06.2013
+- TOP 2.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.16.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Kinder- und Bürgerfest des BA 3 am 22.06.2013 in der Augustenstraße
+- TOP 2.17.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Künstlerische Inszenierung ?Wagner vs. Verdi? am Max-Joseph-Platz mit zwei Paraden am 28.06.2013 Eilentscheidung des Vorsitzenden durch Fristablauf am 17.06.2013
+- TOP 2.18.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Verkehrsrechtliche Anordnung a) Öffnung der in Richtung Osten einbahngeregelten Haßstraße zwischen Barer Straße und Arcisstraße für den gegenläufigen Radverkehr b) Öffnung der Adamstraße zwischen Nymphenburger Straße und Blutenburgstraße für den gegenläufigen Radverkehr.
+- TOP 2.19.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro TUNIX, Königsplatz, Wiese hinter der Glyptothek vom 01.07. bis 05.07.2013 Eilentscheidung des Vorsitzenden durch Fristablauf: Zustimmung
+- TOP 2.20.: Baureferat Platz der Opfer des Nationalsozialismus Information über Baubeginn und Dauer der Baumaßnahme
+- TOP 2.21.: Referat für Stadtplanung und Bauordnung Verwaltungsstreitsache gegen die Landeshauptstadt München wegen Baugenehmigung Anwohnertiefgarage Josephsplatz Schalltechnische Untersuchung des TÜV Süd
+- TOP 2.22.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsanordnungen Baustellenbedingte Aufhebung des Ttaxistandplatzes am Platz der Opfer des Nationso- zialismus und dessen Verlegung in die Brienner Straße
+- TOP 2.23.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid für Corso Leopold und Streetlife Festival
+- TOP 2.24.: E-Mail vom 25.06.2013 zur Veranstaltung des ?Hamburger Fischmarktes? auf dem Wittelsbacherplatz
+- TOP 2.25.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Schaffung einer zusätzlichen Fußgängerquerung an der Südseite der Einmündung Ludwig-/Schellingstraße Schreiben des KVR vom 19.06.2013 als Antwort auf das Schreiben des BA 3 vom 13.05.2013
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Seniorenpolitisches Programm unter Einbeziehung der referate Antrag Nr. 08-14 / A 03090 von Herrn Stadtrat Dr. Reinhold Babor vom 06.02.2012 Beschluss des Ausschusses für Stadtdplanung und Bauordnung vom 12.06.2013 Sitzungsvorlage Nr. 08-14 / V 12206
+- TOP 3.2.: Schreiben des Vorsitzenden vom 17.06.2013 zum Abschied von Br. Marinus Parzinger, Kath. Pfarramt St. Joseph
+- TOP 3.3.: Referat für Bildung und Sport, Beschlussvorlage Kindertagesstätten sonstiger Träger; Haus für Kinder an der Dachauer Straße 143 Leistung eines Baukostenzuschusses Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 03.07.2013 Sitzungsvorlage Nr. 08-14 / V 12262
+- TOP 4: Kultur
+- TOP 4.1.: Sitzungstermine 2014
+- TOP 4.2.: Besetzung des Ferienausschusses am 06.08.2013
+- TOP 4.3.: entfällt
+- TOP 4.4.: Budgetantrag für das Kinder- und Bürgerfest 2013
+- TOP 4.5.: Kreisverwaltungsreferat, Beschlussvorlage Standortkonzept Bürgerbüros, Einrichtung eines Bürgerbüros am Scheidplatz
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
