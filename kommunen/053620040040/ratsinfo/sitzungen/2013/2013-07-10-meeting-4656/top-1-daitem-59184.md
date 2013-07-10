@@ -1,0 +1,7 @@
+# TOP 1.: Entgeltsetze der Träger, die mit dem JA Wesseling eine Entgeltvereinarung abgeschlossen haben
+
+- Sitzung: Jugendhilfeausschuss (21. Sitzung) (2013-07-10)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/59184
+- Ergebnis: Einstimmig, 0 Enthaltungen
