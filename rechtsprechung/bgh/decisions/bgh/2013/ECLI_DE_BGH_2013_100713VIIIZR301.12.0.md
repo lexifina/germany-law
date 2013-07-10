@@ -1,0 +1,315 @@
+---
+ecli: "ECLI:DE:BGH:2013:100713VIIIZR301.12.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-08"
+aktenzeichen: "VIII ZR 301/12"
+decided: "2013-07-10"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2013&Sort=1&Seite=56&nr=65463&anz=3204&pos=1706&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-08_NA_2013-07-10_VIII_ZR_301_12_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/grundgesetz/artikel/003.md"]
+---
+
+# Bundesgerichtshof, VIII ZR 301/12 vom 2013-07-10
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 IM NAMEN DES VOLKES
+
+                        URTEIL
+VIII ZR 301/12                             Verkündet am:
+                                           10. Juli 2013
+                                           Vorusso,
+                                           Justizhauptsekretärin
+                                           als Urkundsbeamtin
+                                           der Geschäftsstelle
+                     in dem Rechtsstreit
+
+                                             -2-
+
+
+
+    Der VIII. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 10. Juli 2013 durch den Vorsitzenden Richter Ball, die Richterinnen
+    Dr. Milger und Dr. Hessel sowie die Richter Dr. Achilles und Dr. Schneider
+
+    für Recht erkannt:
+
+
+          Die Revision der Klägerin gegen das Urteil des 6. Zivilsenats des
+          Brandenburgischen Oberlandesgerichts vom 14. August 2012 wird
+          zurückgewiesen.
+
+          Die Kosten des Revisionsverfahrens hat die Klägerin zu tragen.
+
+
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                          Tatbestand:
+
+1         Die Klägerin betreibt in M.        ein im Jahr 2007 in Betrieb genommenes
+    Biomasse-Heizkraftwerk mit Kraft-Wärme-Kopplungsanlage. Der erzeugte
+    Strom wird in das Netz der Beklagten als örtlicher Netzbetreiberin eingespeist.
+
+2         Im   Jahr      2009   speiste     das    Biomasse-Heizkraftwerk   insgesamt
+    9.031.240 Kilowattstunden an Strom in das Netz der Beklagten ein. Davon wurden 1.510.294 Kilowattstunden in Kraft-Wärme-Kopplung erzeugt. Die Stromerzeugung in Kraft-Wärme-Kopplung erfüllt die tatsächlichen Voraussetzungen für
+    den KWK-Bonus nach der Anlage 3 zum EEG 2009 in der Fassung vom
+    25. Oktober 2008 (BGBl. I S. 2074; im Folgenden: EEG 2009) sowie die
+    Voraussetzungen des § 8 Abs. 3 EEG in der am 31. Dezember 2008 geltenden
+    Fassung (BGBl. I S. 2550; im Folgenden: EEG 2004).
+
+                                        -3-
+
+
+
+3         Unter dem 20. Januar 2010 rechnete die Beklagte gegenüber der Klägerin für den im Heizkraftwerk im Jahr 2009 in Kraft-Wärme-Kopplung produzierten Strom die zusätzliche Vergütung gemäß § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009
+    (sogenannter KWK-Bonus) ab. Sie ermittelte dabei zuerst aus dem Quotienten
+    der gesamten eingespeisten Jahresstrommenge und den Zeitstunden im Kalenderjahr die Bemessungsleistung von 1.030,96 Kilowatt (= 9.031.240 kWh :
+    8760 h) für das Heizkraftwerk. Den in § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 genannten Schwellenwert von 500 Kilowatt setzte sie ins Verhältnis zur Bemessungsleistung, um den Anteil der in Kraft-Wärme-Kopplung erzeugten Strommenge bis zur Leistungsstufe von 500 Kilowatt festzustellen. Nur für den errechneten Anteil von 48,50 % (= 500 kW : 1.030,96 kW) an der insgesamt in
+    Kraft-Wärme-Kopplung erzeugten Strommenge, das heißt nur für 732.467 Kilowattstunden (= 1.510.294 kWh x 48,50 %), gewährte sie den erhöhten KWK-Bonus von 3,0 Cent pro Kilowattstunde gemäß § 66 Abs. 1 Nr. 3 Satz 3 EEG
+    2009. Für die restlichen 777.827 Kilowattstunden des in Kraft-Wärme-Kopplung
+    erzeugten Stroms, d.h. einem Anteil von 51,50 % an dem in Kraft-Wärme-Kopplung erzeugten Strom, gewährte sie einen KWK-Bonus von 2,0 Cent gemäß § 8 Abs. 3 EEG 2004. Den nach dieser Abrechnung ermittelten KWK-Bonus von insgesamt 37.530,55 € netto zuzüglich Umsatzsteuer bezahlte sie
+    an die Klägerin.
+
+4         Die Klägerin hält die Abrechnung der Beklagten für falsch und begehrt,
+    die gesamte in Kraft-Wärme-Kopplung erzeugte Strommenge mit dem erhöhten
+    Bonus von 3,0 Cent pro Kilowattstunde gemäß § 66 Abs. 1 Nr. 3 Satz 3 EEG
+    2009 zu vergüten. Zur Begründung führt sie an, die Leistungsgrenze von 500
+    Kilowatt beziehe sich nicht - wie abgerechnet - auf die gesamte Anlagenleistung, sondern nur auf den in Kraft-Wärme-Kopplung erzeugten Strom. Bei
+    der Division der in Kraft-Wärme-Kopplung erzeugten Strommenge durch die
+    Jahreszeitstunden   ergebe   sich   eine   Leistung   von   172,41   Kilowatt
+
+                                             -4-
+
+
+
+    (= 1.510.294 kWh : 8760 h). Da die gesamte aus Kraft-Wärme-Kopplung stammende Leistung unter der Grenze von 500 Kilowatt liege, sei die Strommenge
+    auch insgesamt mit dem erhöhten KWK-Bonus des § 66 EEG 2009 zu vergüten.
+
+5          Mit ihrer Klage nimmt die Klägerin die Beklagte auf Zahlung des von ihr
+    mit 7.728,27 € netto berechneten Differenzbetrags zuzüglich der Umsatzsteuer
+    in Höhe von 1.468,37 € nebst Zinsen in Anspruch. Das Landgericht hat der Klage stattgegeben. Das Berufungsgericht hat sie unter Abänderung des landgerichtlichen Urteils abgewiesen. Mit der vom Berufungsgericht zugelassenen Revision begehrt die Klägerin die Wiederherstellung des erstinstanzlichen Urteils.
+
+
+
+
+                                 Entscheidungsgründe:
+
+6          Die Revision hat keinen Erfolg.
+
+                                              I.
+
+7          Das Berufungsgericht hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:
+
+8          Für die Grenze von 500 Kilowatt, die in § 66 Abs. 1 Nr. 3 Satz 3 EEG
+    2009 für den KWK-Bonus von 3,0 Cent pro Kilowattstunde für Altanlagen wie
+    die der Klägerin normiert werde, komme es - anders als vom Landgericht angenommen - auf die Bemessungsleistung der Anlage im Sinne von § 18 EEG
+    2009 und nicht nur auf die in Kraft-Wärme-Kopplung erzeugte Strommenge an.
+    Zwar lasse der Wortlaut des § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 auch das Verständnis zu, dass es nur auf den Teil der Leistung ankomme, der in Kraft-Wärme-Kopplung erzeugt worden sei. Dem stehe jedoch entgegen, dass § 18
+
+                                         -5-
+
+
+
+    Abs. 1, 2 EEG 2009 bei der Ermittlung der Bemessungsleistung für die Vergütungsvorschriften jeweils auf die gesamte Anlagenleistung abstelle. § 66 Abs. 1
+    EEG 2009 nehme § 18 EEG 2009 nicht von der Anwendung auf Altanlagen
+    aus. Zudem stelle § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 dem Wortlaut nach eine
+    Maßgabe für die Fortgeltung der Vorschriften des EEG 2004 in der am 31. Dezember 2008 geltenden Fassung auf, so dass dessen Regelungen ergänzend
+    bei der Auslegung heranzuziehen seien. § 8 EEG 2004 in Verbindung mit § 12
+    Abs. 2 EEG 2004 enthalte eine zu § 18 Abs. 2 EEG 2009 inhaltsgleiche Bestimmung der Bemessungsleistung. Gemäß § 21 Abs. 1 EEG 2004 sei § 12
+    EEG 2004 auch auf Anlagen anzuwenden, die - wie die Anlage der Klägerin -
+    vor dem Inkrafttreten des EEG 2004 in Betrieb genommen worden seien. Es
+    handele sich bei dem KWK-Bonus nach dem EEG 2009 um eine Erhöhung der
+    Mindest- bzw. Grundvergütung, so dass insgesamt an die leistungsabhängige
+    Vergütung für Strom aus Biomasse anzuknüpfen sei.
+
+9         Ein entgegenstehender Wille des Gesetzgebers sei nicht zu erkennen.
+    Die Gesetzesmaterialien erläuterten den Begriff der Leistung im Sinne des § 66
+    Abs. 1 Nr. 3 Satz 3 EEG 2009 nicht. Das Auslegungsergebnis stehe auch im
+    Einklang mit dem System der leistungsabhängigen Vergütung. Es werde dem
+    Sinn und Zweck der Vergütungsvorschriften gerecht. Die Differenzierung nach
+    der Leistung trage den höheren Stromgestehungskosten kleiner, dezentraler
+    Anlagen Rechnung und fördere effizientere Anlagen. Dies rechtfertige gleichzeitig die unterschiedliche Förderung der gleichen in Kraft-Wärme-Kopplung erzeugten Strommenge je nach deren Verhältnis zu der erzeugten Gesamtstrommenge.
+
+                                              -6-
+
+
+
+                                              II.
+
+10          Diese Beurteilung hält rechtlicher Nachprüfung stand. Die Revision ist
+     daher zurückzuweisen.
+
+
+
+
+11          Der Klägerin steht über den bereits gezahlten KWK-Bonus hinaus kein
+     Anspruch auf eine erhöhte Vergütung für den restlichen im Abrechnungsjahr
+     2009 in Kraft-Wärme-Kopplung erzeugten Strom zu. Dem Berufungsgericht ist
+     darin beizupflichten, dass sich die der Klägerin nach § 66 Abs. 1 Nr. 3 Satz 3
+     EEG 2009 zustehende erhöhte Vergütung nicht anteilig nach der nur in Kraft-Wärme-Kopplung erzeugten Leistung, sondern anteilig nach der Leistung der
+     gesamten Anlage bestimmt. Den sich danach ergebenden Bonus hat die Klägerin bereits erhalten.
+
+12          1. Nach § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 erhöht sich die Vergütung für
+     Strom, der in Kraft-Wärme-Kopplung nach Maßgabe der Anlage 3 zum EEG
+     erzeugt wird, bis einschließlich einer Leistung von 500 Kilowatt um 3,0 Cent pro
+     Kilowattstunde. Dieser Bonus ist nach der Vorschrift des § 18 EEG 2009 zu berechnen, die gemäß der Übergangsregelung in § 66 Abs. 1 Satz 1 EEG 2009
+     auch auf Altanlagen anwendbar ist (Vollprecht/Kahl, ZNER 2013, S. 19, 24;
+     Schäferhoff    in   Reshöft   [Hrsg.],   EEG,   3.   Aufl.,   Anlage   3   Rn. 81;
+     Rostankowski/Vollprecht, in Altrock/Oschmann/Theobald [Hrsg.], EEG, 3. Aufl.,
+     § 66 Rn. 33, Anlage 3 Rn. 118; Vollprecht, IR 2012, S. 349, 350; aA Loibl in
+     Maslaton u.a. [Hrsg.], Biogasanlagen im EEG, 3. Aufl., S. 485 ff.; Walter in
+     Maslaton u.a. [Hrsg.], aaO S. 713; Wernsmann, AuR 2008, S. 329, 333). Nach
+     der Systematik des Gesetzes und den vom Gesetzgeber verfolgten Regelungszwecken ist auch der KWK-Bonus für Altanlagen als eine von der Leistung der
+     Anlage (§ 18 Abs. 1 EEG 2009) abhängige Vergütung anzusehen und deshalb
+
+                                          -7-
+
+
+
+     nach § 18 Abs. 1, 2 EEG 2009 in der von der Beklagten vorgenommenen Weise zu berechnen.
+
+13         2. Der Revision ist allerdings zuzugeben, dass § 66 Abs. 1 Nr. 3 Satz 3
+     EEG 2009 nach dem Wortlaut nur auf eine nicht näher bestimmte "Leistung"
+     und nicht - wie § 18 Abs. 1 EEG 2009 - auf die "Leistung der Anlage" abstellt.
+     Anders als die Revision meint, ergibt sich hieraus aber nicht, dass im Rahmen
+     des § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 ein von § 18 Abs. 1 EEG 2009 inhaltlich
+     abweichender Leistungsbegriff zugrunde zu legen und deshalb der Bonus - unabhängig von der Leistung der Anlage - für die in Kraft-Wärme-Kopplung erzeugte Leistung ungeschmälert bis zu dem Schwellenwert von 500 Kilowatt zu
+     entrichten wäre. Denn der unterschiedliche Wortlaut von § 66 Abs. 1 Nr. 3
+     Satz 3 und § 18 Abs. 1 EEG 2009 beruht nicht darauf, dass der Gesetzgeber
+     mit Weglassung der Worte "der Anlage" einen anderen Bezugsgegenstand für
+     die Leistung hätte wählen wollen. Im Gegenteil ergibt sich sowohl aus dem
+     Wortlaut der Verweisung in § 66 Abs. 1 Satz 1 EEG 2009 als auch aus der Gesetzessystematik und den vom Gesetzgeber mit dem EEG verfolgten Förderzielen, dass er die Höhe des KWK-Bonus auch hier nach den in § 18 EEG 2009
+     aufgestellten allgemeinen Regeln für die Vergütungsberechnung - nämlich in
+     Abhängigkeit von der Leistung der Anlage - bestimmen wollte.
+
+14         a) Der Gesetzgeber hat auch in anderen Bestimmungen des EEG 2009
+     keine einheitliche Terminologie verwendet, obwohl in der Sache stets einer der
+     beiden im Gesetz ausdrücklich definierten Leistungsbegriffe (installierte Leistung gemäß § 3 Nr. 6 EEG 2009 oder Bemessungsleistung gemäß § 18 Abs. 2
+     EEG 2009) gemeint sein sollte. Der in § 3 Nr. 6 EEG 2009 legal definierte und
+     in § 18 EEG 2009 für die Vergütungsvorschriften modifizierte Begriff "Leistung
+     der Anlage" wird in mehreren Vorschriften durch das Wort "Anlagenleistung"
+     ersetzt, ohne dass damit inhaltlich etwas anderes gemeint wäre. Zudem ver-
+
+                                          -8-
+
+
+
+     wendet auch § 23 Abs. 1, 3 EEG 2009 für die Bestimmung des Schwellenwerts
+     - bei grammatikalisch identischem Normaufbau wie § 66 Abs. 1 Nr. 3 Satz 3
+     EEG 2009 - nur den Begriff der Leistung, ohne hierdurch einen eigenen Leistungsbegriff oder eine andere Vergütungsberechnung als in § 18 Abs. 1, 2 EEG
+     2009 einzuführen (vgl. BT-Drucks. 16/8148, S. 53).
+
+15         Auch sonst werden die Begriffe "Leistung" und "Leistung der Anlage" in
+     der Begründung zum EEG 2009 durchgängig synonym verwendet (BT-Drucks.
+     16/8148, S. 40). Bei Entstehung von § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 wurde
+     die Wortwahl ebenfalls nicht näher erläutert, obwohl hierzu jedenfalls dann Anlass bestanden hätte, wenn der Gesetzgeber von seiner bisherigen begrifflichen
+     Praxis hätte abweichen wollen. Dagegen spricht vielmehr, dass die Norm abweichend von der ursprünglichen Konzeption erst in der Empfehlung des Ausschusses für Umwelt, Naturschutz und Reaktorsicherheit im Anschluss an die
+     Stellungnahmen von Verbänden als neu einzufügender Satz 2 vorgeschlagen
+     und in dieser Form beschlossen wurde (BT-Drucks. 16/9477, S. 11, 30; BT-PlenProt. 16/167, S. 1617748[B]). Gleichzeitig wurde § 66 Abs. 1 Nr. 4a EEG
+     2009 mit folgendem Wortlaut eingefügt: "Für Strom aus Biomasseanlagen, die
+     […] Gas einsetzen, erhöht sich die Vergütung bis einschließlich einer Anlagenleistung von 500 Kilowatt um jeweils 1,0 Cent pro Kilowattstunde […]". Auch
+     dies verdeutlicht die Praxis des Gesetzgebers zur synonymen Verwendung der
+     Begriffe. Denn auf den unterschiedlichen Wortlaut in den beiden ansonsten parallel aufgebauten Übergangsvorschriften geht die Begründung nicht ein, sondern nimmt in beiden Fällen lediglich auf die "Leistung bis einschließlich 500
+     Kilowatt" Bezug (BT-Drucks. 16/9477, S. 18 f., 30). Dass in der im Bundesgesetzblatt veröffentlichten Fassung des § 66 Abs. 1 Nr. 4a EEG 2009 nicht der
+     Begriff der "Anlagenleistung" sondern der Begriff "Leistung" steht, beruht - da
+     es für einen bewussten Willensakt des Gesetzgebers keine Anhaltspunkte gibt -
+
+                                          -9-
+
+
+
+     auf einem offensichtlichen Übertragungsfehler bei der Ausfertigung des beschlossenen Gesetzes.
+
+16          b) Die Berechnung des in § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 geregelten
+     KWK-Bonus für Altanlagen nach § 18 EEG 2009 führt dazu, dass größere Altanlagen, die im Verhältnis zur Gesamtleistung einen geringen Teil der Leistung
+     in Kraft-Wärme-Kopplung erzeugen, für KWK-Strom eine geringere Vergütung
+     erhalten als Biomassekraftwerke, die im Verhältnis zur Gesamtleistung mehr
+     Strom in Kraft-Wärme-Kopplung erzeugen; dies entspricht der gesetzgeberischen Intention.
+
+17          aa) Der Gesetzgeber wollte einerseits die Kraft-Wärme-Kopplung durch
+     gezielte Anreize fördern. Gleichzeitig sollten aber kleinere Biomasseanlagen
+     durch die gestaffelte Vergütung in stärkerem Maße von der Förderung profitieren als große Anlagen. Zur Begründung dieser aus dem EEG 2004 fortgeschriebenen Regelung wurde darauf verwiesen, dass größere Anlagen einer
+     geringeren Förderung bedürften, da sie geringere Stromgestehungskosten hätten (so zum EEG 2004 BT-Drucks. 15/2864, S. 39). Zudem führten größere Biomasseanlagen nach Ansicht des Gesetzgebers wegen der erforderlichen
+     Transportwege zu unerwünschten Nebeneffekten; auch fehle es bei ihnen an
+     geeigneten Wärmesenken, um die gewünschte effiziente Stromerzeugung in
+     Kraft-Wärme-Kopplung in vollem Umfang zu erreichen (BT-Drucks. 16/8393,
+     S. 2, 77).
+
+18          bb) Aus diesem Grund wurden die Grundvergütung im EEG 2009 für
+     neue Biomasseanlagen gestaffelt und auch der KWK-Bonus nur anteilig bis
+     einschließlich einer Leistung von 20 Megawatt gewährt (EEG 2009 Anlage 3
+     Ziffer I). Außerdem wurde für Anlagen mit einer Leistung über fünf Megawatt
+     schon die Grundvergütung überhaupt nur gewährt, soweit der Strom nach
+
+                                          - 10 -
+
+
+
+     Maßgabe der Anlage 3 erzeugt wurde (BT-Drucks. 16/8148, S. 56, 77). Große
+     neue Biomasseanlagen, die nur in geringem Umfang Strom in Kraft-Wärme-Kopplung erzeugen, sollten dementsprechend ebenfalls nur in geringerem Umfang gefördert werden, weil derartige Anlagen weniger effizient sind. Es entspricht deshalb der Gesamtsystematik der Förderung von Biomasseanlagen,
+     ineffiziente Anlagen in geringerem Umfang zu fördern als effiziente. Ebenso
+     entspricht es der Systematik, große Anlagen aufgrund des Kostenvorteils beim
+     Einkauf im Verhältnis weniger zu fördern als kleine Anlagen. Das gilt selbst
+     dann, wenn sich die Investitionskosten für das Wärmenetz bei größeren Anlagen nicht in gleichem Umfang reduzieren sollten. Denn es entspricht nach den
+     dargestellten Intentionen dem zu respektierenden Willen des Gesetzgebers,
+     dass sich die Höhe der Förderung nur an einem Teil der Kosten orientieren sollte.
+
+19         cc) Die im Gesetz darüber hinaus vorgesehene unterschiedliche Förderung von Alt- und Neuanlagen wird damit begründet, dass einerseits Altanlagen
+     nach der Einschätzung des Gesetzgebers generell bereits unter den bei ihrer
+     Errichtung bestehenden Bedingungen wirtschaftlich betrieben werden konnten
+     (BT-Drucks. 16/8148, S. 76) und deshalb bei ihnen keine Anreizfunktion mehr
+     bestand (BR-Drucks. 10/01/08 - Beschluss, S. 30; BT-Drucks. 16/8393, S. 6).
+     Andererseits sah der Gesetzgeber Anlass, die erhöhten Substratkosten in begrenztem Umfang auch für Bestandsanlagen aufzufangen, die eine vernünftige
+     Wärmenutzung betreiben. Im Übrigen hatte der Gesetzgeber bei der Förderung
+     erneuerbarer Energien auch die Kostenbelastung der Endverbraucher im Blick,
+     die spiegelbildlich zur erhöhten Förderung entsteht und nicht durch Mitnahmeeffekte erhöht werden soll. Mit diesen Intentionen lässt sich die von der Revision
+     befürwortete Maximalförderung der von § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 erfassten Anlagen nicht vereinbaren.
+
+                                           - 11 -
+
+
+
+20         dd) Schließlich steht der von der Revision vertretenen Auslegung des
+     Leistungsbegriffs in § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 auch entgegen, dass
+     hiermit die Gesamtanlage fiktiv in zwei Anlagen aufgeteilt würde, von denen ein
+     Teil ausschließlich die (besonders zu fördernde) Stromerzeugung in Kraft-Wärme-Kopplung beträfe und der andere Teil ausschließlich die sonstige
+     Stromerzeugung. Eine tatsächliche Aufteilung von größeren Biomasseanlagen
+     zum Zwecke der Fördermaximierung war vom Gesetzgeber jedoch gerade auch
+     für Altanlagen nicht erwünscht und führte auch mit Blick auf § 19 Abs. 1 EEG
+     2009 nicht zu einer erhöhten Förderung (BT-Drucks. 16/8148, S. 50 f.). Es würde der in dieser Vorschrift zum Ausdruck kommenden Wertung widersprechen,
+     an anderer Stelle Altanlagen fiktiv aufzuspalten, um den KWK-Bonus zu erhöhen (Vollprecht/Kahl, aaO S. 24).
+
+21         3. Entgegen der Auffassung der Revision verstößt die im Gesetz angelegte Ungleichbehandlung von Alt- und Neuanlagen sowie von verschiedenen
+     Anlagen je nach ihrer Effizienz nicht gegen den allgemeinen Gleichheitssatz
+     (Art. 3 Abs. 1 GG). Dem Gesetzgeber steht ein weiter Gestaltungsspielraum zu,
+     auf welche Weise er ein als förderwürdig erachtetes Verhalten unterstützen will.
+     Auch in der Entscheidung darüber, welche Personen oder Unternehmen durch
+     finanzielle Zuwendung des Staates gefördert werden sollen, ist der Gesetzgeber weitgehend frei. Er ist lediglich insoweit gebunden, als er die Leistung nicht
+     willkürlich, das heißt nicht nach unsachlichen Gesichtspunkten, verteilen darf.
+     Solange die Regelung sich nicht auf eine der Lebenserfahrung geradezu widersprechende Würdigung der jeweiligen Lebenssachverhalte stützt und die Gründe für die Ungleichbehandlung innerhalb eines vertretbaren gesetzgeberischen
+     Konzepts aufeinander abgestimmt sind, kann die Maßnahme verfassungsrechtlich nicht beanstandet werden (BVerfGE 110, 274, 293 mwN; vgl. auch Senat,
+
+                                   - 12 -
+
+
+
+Urteil vom 1. Dezember 2010 - VIII ZR 241/07, WM 2011, 514 Rn. 15 ff.). In
+dem so gezogenen Rahmen hat sich der Gesetzgeber hier gehalten.
+
+Ball                              Dr. Milger                       Dr. Hessel
+
+                 Dr. Achilles                   Dr. Schneider
+
+
+
+
+Vorinstanzen:
+LG Frankfurt (Oder), Entscheidung vom 13.04.2011 - 14 O 292/10 -
+OLG Brandenburg, Entscheidung vom 14.08.2012 - 6 U 29/11 -
