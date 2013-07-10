@@ -1,0 +1,96 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-07-10T16:05:00+02:00
+- Ende: 2013-07-10T16:35:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8158
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8158
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00157717.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00158025.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kosten und Nutzen der Kleinen Höhe
+- TOP 2.2: Fairtrade-Stadt Wuppertal: Faire Beschaffung von Textilien und anderen Waren aus Entwicklungs- und Schwellenländern
+- TOP 2.3: Öffentliche Aufsichtsratsitzungen
+- TOP 2.3.1: Antwort zu der Anfrage der Fraktion DIE LINKE - Öffentliche Aufsichtsratssitzungen
+- TOP 2.4: Verwaltungsaufwand für die technische Umsetzung des neuen Betreuungsgeldes
+- TOP 2.4.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zum Verwaltungsaufwand für die technische Umsetzung des neuen Betreuungsgeldes
+- TOP 2.5: Die Wählergemeinschaft für Wuppertal (WfW) hat folgende Fragen zur Sanierung von Gebäuden
+- TOP 2.5.1: Große Anfrage der Wählergemeinschaft für Wuppertal WfW vom 18.06.2013, Drucksache VO/0596/13
+- TOP 2.6: Stiftung "Lebendige Stadt"
+- TOP 2.7: Fragen der Wählergemeinschaft für Wuppertal zur Besetzung von Führungskräften der Stadt
+- TOP 2.7.1: Beantwortung der Anfrage der WfW-Fraktion - Besetzung von Führungskräften der Stadt
+- TOP 2.8: Fragen zum städtischen Haushalt
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bau eines Aufzugs Hauptbahnhof - Distelbeck; Bürgeranträge gem. § 24 GO NRW - erledigt durch Beschluss zu einem anderen TOP
+- TOP 3.1.1: Aufzug Hauptbahnhof - Distelbeck; Bürgeranträge gemäß § 24 Gemeindeordnung vom 21.10. bzw. 26.11.2012 - geändert beschlossen
+- TOP 3.2: Antrag nach § 24 Gemeindeordnung NRW zur Grundsteuererhöhung - ungeändert beschlossen
+- TOP 3.3: Anregungen gem. § 24 Gemeindeordnung NRW zum Projekt Wuppertal 2025 - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Qualifizierung von EnergieberaterInnen - Prüfauftrag - zurückgestellt
+- TOP 4.2: SPD-Antrag zum ‚Handlungskonzept Inklusion‘ - vertagen
+- TOP 4.2.1: Es ist normal, verschieden zu sein - vertagen
+- TOP 4.2.2: Resolution - Wuppertal bei Inklusion nicht alleine lassen - vertagt auf Rat
+- TOP 4.3: Übernahme des Saarbrücker 4-Punkte-Modells zur Reduzierung der Anzahl von Stromsperren - vertagen
+- TOP 4.4: Resolution - keine Kompetenzverlagerung zum RVR zu Lasten anderer Regionen - vertagt auf Rat
+- TOP 4.5: Toiletten in öffentlichen Parkanlagen und Trassen - abgelehnt
+- TOP 4.6: Änderung der Zuständigkeitsordnung - Annahme von Schenkungen - vertagen
+- TOP 4.7: Übertragung des Tarifabschlusses der Länder auf die Beamtinnen und Beamten - vertagt auf Rat
+- TOP 4.8: Resolution gegen den angekündigten Aufmarsch der neonazistischen Organisation „Die Rechte“
+- TOP 4.9: Kündigung des Ergänzungstarifvertrages durch die Geschäftsleitung Schaeffler Technologies AG & Co. KG
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Ergänzungsantrag zu VO/0112/13, - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.1.1: Antrag der Fraktionen von CDU und SPD zum Tagesordnungspunkt 11 des Ausschusses für Schule und Bildung, - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung zur Verkürzung der Nachwirkungsfrist für das Grundstück in Wuppertal-Langerfeld, Ortsteil Schmitteborn 42 - 68 gemäß § 22 Abs. 5 des Gesetzes zur Förderung und Nutzung von Wohnraum für das Land Nordrhein-Westfalen (WFNG NRW) - ungeändert beschlossen
+- TOP 6.2: 5. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2011 - ungeändert beschlossen
+- TOP 7.2: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2011
+- TOP 7.3: Über- und außerplanmäßige Bereitstellung von Mitteln 2013, Teil 1 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2012 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2012 der Kinder- und Jugendwohngruppen (KIJU) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 8.4: Änderung des Wirtschaftsplanes der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 8.6: Korrektur des Firmennamens der GWG - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.2: Bebauungsplan 1168 - Borner Straße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplanverfahren 1146 - Hohenstaufenstraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplanverfahren 1172/2 - Sonnborner Ufer / Rutenbecker Weg - - ungeändert beschlossen
+- TOP 9.5: - Bebauungsplan 450 -Blombach Nord - - ungeändert beschlossen
+- TOP 9.6: 49. Flächennutzungsplanänderung - Dreigrenzen - - geändert beschlossen
+- TOP 9.7: Bebauungsplan 778 - Ascheweg / Zandershöfe - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Instandsetzung Brücke Brändströmstraße, 2. Bauabschnitt - ungeändert beschlossen
+- TOP 10.2: Standortverlegung des Notarzteinsatzfahrzeuges von der Arrenberger Straße zur Hauptfeuer- und Rettungswache August-Bebel-Straße mit Erweiterung der Rettungswache für eine Besatzung - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Beendigung des Kulturlandschaftsprogramms der Stadt Wuppertal - geändert beschlossen
+- TOP 11.2: Spielflächenbedarfsplan Wuppertal 2012
+- TOP 11.3: Umsetzung des Haushaltssanierungsplans (HSP) im Bereich der Jugendhilfe - Verkauf städt. Flächen - geändert beschlossen
+- TOP 11.3.1: Verzicht auf Verkauf der Fläche am Märchenbrunnen, Antrag der Wählergemeinschaft für Wuppertal (WfW) - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.4: Stadtentwässerung - Maßnahmenkatalog 2014/Katalogentwurf 2015 - ungeändert beschlossen
+- TOP 11.5: Gewährung von Zuwendungen für Spielgruppen und andere Gruppen - ungeändert beschlossen
+- TOP 11.6: Erschließung des Erneuerbare Energien-Potenzials in Wuppertal - Maßnahmenprogramm 2013 - 2020 - geändert beschlossen
+- TOP 11.7: Aufhebung der am 05.05.08 beschlossenen Geschäftsanweisung für die örtliche Rechnungsprüfung und Inkrafttreten einer neuen Geschäftsanweisung für die örtliche Rechnungsprüfung
+- TOP 11.8: Wettbewerb des Landes NRW "KWK-Modellkommune 2012-2017" - Antrag der Städte Remscheid, Solingen, Wuppertal zur Erstellung eines Feinkonzeptes - ungeändert beschlossen
+- TOP 11.9: Umsetzung des Betreuungsgeldgesetzes - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- bzw. Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in der Mitgliederversammlung und im Beirat der Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG) - ungeändert beschlossen
+- TOP 12.3: Benennung sachkundiger Einwohner für den Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.4: Berufung von beratenden Mitgliedern in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.5: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung BA GMW - ungeändert beschlossen
+- TOP 12.7: Umbesetzung von Ausschüsse - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.9: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - vertagt auf Rat
