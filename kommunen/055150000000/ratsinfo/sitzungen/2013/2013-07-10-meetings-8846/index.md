@@ -1,0 +1,77 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-07-10T18:11:00+02:00
+- Ende: 2013-07-10T22:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8846
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8846
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00342354.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 5.1: Der Schülerspezialverkehr bleibt erhalten - verwiesen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 6.1: Kindermusikprojekt "Erlebniswelt - Weltmusik für Kinder" 2013 fördern
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Anregungen des Jugendrats gem. § 24 GO
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Statusbericht zur Umsetzung sämtlicher politischer Anträge, insbesondere zur Organisationsentwicklung, zum E-Government und zur interkommunalen Zusammenarbeit - zur Kenntnis genommen
+- TOP 11: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2012 - einstimmig beschlossen
+- TOP 12: Handlungsprogramm 2012 bis 2017 - 1. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 13: Selbstverpflichtung gegen neue Haushaltsbelastungen Antrag Nr. A-R/0051/2012 der FDP-Fraktion vom 26.11.2012 an den Rat - von der Tagesordnung abgesetzt
+- TOP 14: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf - einstimmig beschlossen
+- TOP 14.1: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf
+- TOP 15: Neubau eines Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr, Kristiansandstraße - einstimmig beschlossen
+- TOP 15.1: Neubau eines Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr, Kristiansandstraße
+- TOP 16: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 17: Einführung einer Wertstofftonne in der Stadt Münster - einstimmig beschlossen
+- TOP 18: Stadtregionale Zusammenarbeit in der Stadtregion Münster - einstimmig beschlossen
+- TOP 19: Entwicklungsperspektiven für die Errichtung und Nutzung von Biogasanlagen im Stadtgebiet Müns-ter - einstimmig beschlossen
+- TOP 19.1: Entwicklungsperspektiven für die Errichtung und Nutzung von Biogasanlagen im Stadtgebiet Müns-ter
+- TOP 20: Quartiersentwicklung zwischen Eisenbahnstraße und Friedrichstraße - einstimmig beschlossen
+- TOP 21: Finanzielle und personelle Bedarfe zur Fortführung des Verkehrssicherheitsprogramms 2014 - 2017 - einstimmig geändert beschlossen
+- TOP 22: Regelung zum Reisebusparken in der Vorweihnachtszeit - einstimmig geändert beschlossen
+- TOP 23: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 24: Schulversuch PRIMUS - Antrag an das Ministerium für Schule und Weiterbildung NRW zur Teilnahme - mehrheitlich beschlossen
+- TOP 25: Künftige Unterbringung der VHS, - einstimmig geändert beschlossen
+- TOP 26: Erhöhung der Kursgebühren der VHS und entsprechende Anpassung der Entgeltordnung - mehrheitlich beschlossen
+- TOP 27: Zukünftige Ausrichtung arbeitsmarktbezogener Maßnahmen bei der Volkshochschule Münster - mehrheitlich geändert beschlossen
+- TOP 28: Umsetzung des Konsolidierungsbeschlusses Nr. 107 "Kündigung des Vertrages zur Führung der Stadtbildstelle durch das Landesmedienzentrum des LWL" - einstimmig beschlossen
+- TOP 29: Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepakets (BUT) - zur Kenntnis genommen
+- TOP 30: Öffentlich-rechtliche Verträge zur Aufnahme von Schülerinnen und Schülern mit Förderbedarf "Lernen" aus den Umlandgemeinden Havixbeck, Nottuln, Senden sowie den Städten Drensteinfurt und Sendenhorst - einstimmig beschlossen
+- TOP 31: Kindertagesbetreuungsbericht 2013/2014 - einstimmig beschlossen
+- TOP 32: Trägerausschreibung für die Kindertageseinrichtungen Auf dem Dorn (Roxel), Gildenstraße (Handorf) und York-Kaserne (Gremmendorf) - einstimmig beschlossen
+- TOP 33: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V. - einstimmig beschlossen
+- TOP 33.1: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V.
+- TOP 33.1.1: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V.
+- TOP 34: Steigerung der Wahlbeteiligung bei den Wahlen zum Integrationsrat - von der Tagesordnung abgesetzt
+- TOP 35: Leitbild "Grundsätze der Zusammenarbeit zwischen der Stadt Münster und den freien Trägern in der Sozial-, Jugend- und Gesundheitshilfe" - zur Kenntnis genommen
+- TOP 36: Einrichtung eines Runden Tisches "Münster für ein humanitäres Bleiberecht" - einstimmig beschlossen
+- TOP 37: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - von der Tagesordnung abgesetzt
+- TOP 37.1: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - von der Tagesordnung abgesetzt
+- TOP 38: Gewährung eines zinslosen Darlehens an die Kinderneurologie-Hilfe Münster e. V. zur Zwischenfinanzierung des Projektes "Klinisches Register für Patientinnen und Patienten mit Schädelhirntrauma - SHT-Register" - einstimmig beschlossen
+- TOP 39: Öffentlich geförderte Beschäftigung für Langzeitleistungsbeziehende in Münster (Modellprojekt des Landes NRW) - mehrheitlich beschlossen
+- TOP 40: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - von der Tagesordnung abgesetzt
+- TOP 41: Besetzung von frei werdenden Positionen im Beirat für Stadtgestaltung - mehrheitlich beschlossen
+- TOP 42: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 42.1: Resolution:Schulsozialarbeit finanziell absichern - einstimmig beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 43.1: Autobahnanschluss Amelsbüren/Hiltrup nunmehr frühestmöglich freigeben - verwiesen
+- TOP 43.2: Jobs, Ausbildung, Integration, Leben = JAIL - Urbanes Leben in der JVA an der Gartenstraße - verwiesen
+- TOP 43.3: Standortsuche für den Neubau der JVA Münster - verwiesen
+- TOP 43.4: Raumkonzept für Fernbusse erstellen - Verkehrliche Drehscheibe Hauptbahnhof weiterentwickeln - verwiesen
+- TOP 43.5: Stadthaus I - die wirtschaftlichste Sanierungs-Variante wählen - verwiesen
+- TOP 43.6: Schulzentrum Roxel: Vorhandene Ressourcen nutzen - Perspektiven schaffen - verwiesen
+- TOP 43.7: Sporthallenplanung für die Innenstadt - Transparenz schaffen vor Investitionsentscheidungen - verwiesen
+- TOP 43.8: Wohnen muss bezahlbar sein. Luxusmodernisierungen verhindern, neue Möglichkeiten im Bestand suchen - verwiesen
+- TOP 44: Verschiedenes
