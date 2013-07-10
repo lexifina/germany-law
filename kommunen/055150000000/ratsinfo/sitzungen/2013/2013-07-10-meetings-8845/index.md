@@ -1,0 +1,68 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-07-10T17:06:00+02:00
+- Ende: 2013-07-10T21:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8845
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8845
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00342349.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion an den Rat Nr. A-R/0009/2013 "Europa als Chance für Münster" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion an den Rat A-R/0016/2013 "Ein saniertes Stadthaus 1 - mehr Service für Münsters Bürgerinnen und Bürger". - einstimmig beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion an den Rat A_R/0021/2013 "Wohnen muss bezahlbar sein - Strategische Steuerung über Grundstücksvergabe und Bauleitplanung" - einstimmig beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion an den Rat Nr. A-R/0014/2013Stätte der Erinnerung - Ein Erinnerungswald in Münster - mehrheitlich beschlossen
+- TOP 3: Projekt "gemeinsam bauen" an der Gievenbecker Reihe - von der Tagesordnung abgesetzt
+- TOP 4: Bericht über den Kraftstoffverbrauch des städtischen Fuhrparks - einstimmig beschlossen
+- TOP 5: Neubau einer Kindertageseinrichtung an der Dreifaltigkeitsschule - einstimmig beschlossen
+- TOP 6: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP 7: Förderung von Stadterneuerungsprojekten - Sachstand 2013 und Anträge 2014 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Statusbericht zur Umsetzung sämtlicher politischer Anträge, insbesondere zur Organisationsentwicklung, zum E-Government und zur interkommunalen Zusammenarbeit - ohne Beschlussfassung geschoben
+- TOP 9: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2012 - einstimmig beschlossen
+- TOP 10: Handlungsprogramm 2012 bis 2017 - 1. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 11: Selbstverpflichtung gegen neue Haushaltsbelastungen Antrag Nr. A-R/0051/2012 der FDP-Fraktion vom 26.11.2012 an den Rat - von der Tagesordnung abgesetzt
+- TOP 12: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf - einstimmig beschlossen
+- TOP 12.1: Ankauf der Grundstücke im Bereich der York-Kaserne, Albersloher Weg 450 in Münster-Gremmendorf
+- TOP 13: Neubau eines Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr, Kristiansandstraße - einstimmig beschlossen
+- TOP 13.1: Neubau eines Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr, Kristiansandstraße
+- TOP 14: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 15: Einführung einer Wertstofftonne in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 16: Stadtregionale Zusammenarbeit in der Stadtregion Münster - einstimmig beschlossen
+- TOP 17: Entwicklungsperspektiven für die Errichtung und Nutzung von Biogasanlagen im Stadtgebiet Müns-ter - einstimmig beschlossen
+- TOP 17.1: Entwicklungsperspektiven für die Errichtung und Nutzung von Biogasanlagen im Stadtgebiet Müns-ter
+- TOP 18: Quartiersentwicklung zwischen Eisenbahnstraße und Friedrichstraße - einstimmig beschlossen
+- TOP 19: Finanzielle und personelle Bedarfe zur Fortführung des Verkehrssicherheitsprogramms 2014 - 2017 - ohne Beschlussfassung geschoben
+- TOP 20: Regelung zum Reisebusparken in der Vorweihnachtszeit - ohne Beschlussfassung geschoben
+- TOP 21: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2012 - einstimmig beschlossen
+- TOP 22: Schulversuch PRIMUS - Antrag an das Ministerium für Schule und Weiterbildung NRW zur Teilnahme - ohne Beschlussfassung geschoben
+- TOP 23: VHS
+- TOP 23.1: Künftige Unterbringung der VHS, - ohne Beschlussfassung geschoben
+- TOP 23.2: Erhöhung der Kursgebühren der VHS und entsprechende Anpassung der Entgeltordnung - ohne Beschlussfassung geschoben
+- TOP 23.3: Zukünftige Ausrichtung arbeitsmarktbezogener Maßnahmen bei der Volkshochschule Münster - ohne Beschlussfassung geschoben
+- TOP 24: Umsetzung des Konsolidierungsbeschlusses Nr. 107 "Kündigung des Vertrages zur Führung der Stadtbildstelle durch das Landesmedienzentrum des LWL" - einstimmig beschlossen
+- TOP 25: Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepakets (BUT) - zur Kenntnis genommen
+- TOP 26: Öffentlich-rechtliche Verträge zur Aufnahme von Schülerinnen und Schülern mit Förderbedarf "Lernen" aus den Umlandgemeinden Havixbeck, Nottuln, Senden sowie den Städten Drensteinfurt und Sendenhorst - einstimmig beschlossen
+- TOP 27: Kindertagesbetreuungsbericht 2013/2014 - einstimmig beschlossen
+- TOP 28: Trägerausschreibung für die Kindertageseinrichtungen Auf dem Dorn (Roxel), Gildenstraße (Handorf) und York-Kaserne (Gremmendorf) - ohne Beschlussfassung geschoben
+- TOP 29: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V. - ohne Beschlussfassung geschoben
+- TOP 29.1: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V.
+- TOP 29.1.1: Umgestaltung der Sportanlage Große Wiese - Verlagerung des Vereins SC Westfalia Kinderhaus e. V.
+- TOP 30: Steigerung der Wahlbeteiligung bei den Wahlen zum Integrationsrat - von der Tagesordnung abgesetzt
+- TOP 31: Leitbild "Grundsätze der Zusammenarbeit zwischen der Stadt Münster und den freien Trägern in der Sozial-, Jugend- und Gesundheitshilfe" - zur Kenntnis genommen
+- TOP 32: Einrichtung eines Runden Tisches "Münster für ein humanitäres Bleiberecht" - einstimmig beschlossen
+- TOP 33: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - von der Tagesordnung abgesetzt
+- TOP 33.1: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - von der Tagesordnung abgesetzt
+- TOP 34: Gewährung eines zinslosen Darlehens an die Kinderneurologie-Hilfe Münster e. V. zur Zwischenfinanzierung des Projektes "Klinisches Register für Patientinnen und Patienten mit Schädelhirntrauma - SHT-Register" - einstimmig beschlossen
+- TOP 35: Öffentlich geförderte Beschäftigung für Langzeitleistungsbeziehende in Münster (Modellprojekt des Landes NRW) - ohne Beschlussfassung geschoben
+- TOP 36: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - von der Tagesordnung abgesetzt
+- TOP 37: Besetzung von frei werdenden Positionen im Beirat für Stadtgestaltung - mehrheitlich beschlossen
+- TOP 38: Verschiedenes
