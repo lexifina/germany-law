@@ -1,0 +1,57 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-07-11T17:00:00+02:00
+- Ende: 2013-07-11T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdjlnHI1TABgBQPM9_615RI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4175
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQk84k5btb3NS3c7Om2PvmjJFOaAwsbFiVHSFyOK-do3/Oeffentliche_Niederschrift_Beteiligungsausschuss_11.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 25. Sitzung des Beteiligungsausschusses am 13.05.2013
+- TOP 3: Parkraumbewirtschaftung
+- TOP 4: Beteiligungsbericht 2011 der Stadt Solingen
+- TOP 5: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen - GmbH
+- TOP 7: Verschmelzung der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG auf die Wirtschaftsförderung Solingen GmbH & Co. KG sowie
+- TOP 8: Sanierung und Modernisierung des Hallenbades Vogelsang
+- TOP 9: Duplikat von Sanierung und Modernisierung des Hallenbades Vogelsang
+- TOP 10: Duplikat von Sanierung und Modernisierung des Hallenbades Vogelsang
+- TOP 11: Zeitnahe Sanierung und Modernisierung Hallenbad Vogelsang
+- TOP 12: Rekommunalisierung Stadtwerke Solingen GmbH
+- TOP 13: Verschiedenes
+- TOP 14: Konjunkturelle Schwächeperiode des Müllheizkraftwerks
+- TOP 15: Berichtswesen für die Betriebe und Gesellschaften
+- TOP 16: Existenzgründung / Branchenprojekt "Cuts & Tools"
+- TOP 17: Gewerbeflächen
+- TOP 18: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 25. Sitzung des Beteiligungsausschusses am 13.05.2013
+- TOP 3: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 4: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen - GmbH
+- TOP 5: Städtische Musikschule Solingen GmbH Vorberatung von Gesellschafterbeschlüssen
+- TOP 6: Vorberatung von Gesellschafterbeschlüssen der Altenzentren der Stadt Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 7: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 8: Genehmigung von Gesellschafterbeschlüssen der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 9: Bergische Entwicklungsagentur GmbH (BEA)
+- TOP 10: Neue Effizienz-Bergische Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 11: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) im schriftlichen Umlaufverfahren
+- TOP 12: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 13: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 14: Potenzialanalyse/Restrukturierungsprojekt im Verkehrsbetrieb Stadtwerke Solingen GmbH
+- TOP 15: Rekommunalisierung Stadtwerke Solingen GmbH
+- TOP 16: Erwerb von Unternehmensanteilen an der Windpool GmbH
+- TOP 17: Kauf der Solarpark Groß Stieten GmbH & Co. KG
+- TOP 18: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH im schriftlichen Umlaufverfahren
+- TOP 19: Vorberatung von Gesellschafterbeschlüssen der Beteiligungsgesellschaft Stadt Solingen mbH (BSG) im schriftlichen Umlaufverfahren
+- TOP 20: Verschiedenes
+- TOP 21: Anfragen von Ratsmitglied Gerhards aus der Sitzung des Beteiligungsausschusses vom 14.02.2013
+- TOP 22: Anfragen von Ratsmitglied Becker aus der Sitzung des Beteiligungsausschusses vom 13.05.2013
