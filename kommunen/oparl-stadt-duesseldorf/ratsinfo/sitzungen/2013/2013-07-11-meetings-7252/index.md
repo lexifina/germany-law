@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-07-11T14:00:00+02:00
+- Ende: 2013-07-11T20:40:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7252
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7252
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198323.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198323.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00198323.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell Bü90-Grü".Verbotene Badefreuden im Düsseldorfer Norden - Schutz der Bevölkerung ausr - beantwortet
+- TOP 3.2: Anfrage aktuell Die Linke: Wann werden die städtischen Wohnungen saniert? - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage Rh Krüger: Erfahrungen mit dem neuen Nichtraucherschutzgesetz - beantwortet
+- TOP 4.2: Anfrage Freie Wähler:Prüfung des Jahresabschlusses der Stadt Düsseldorf - beantwortet
+- TOP 4.3: Anfrage Freie Wähler: Forderungen der Stadt Düsseldorf - beantwortet
+- TOP 4.4: Anfrage Rh Dr. Kirchner: Erzielte Steuer-Einnahmen im Zeitraum Januar bis Juni 2013 - beantwortet
+- TOP 4.5: Anfrage Rh Dr. Kirchner: Verschuldung und zur Netto-Finanzposition der Stadt Düsseldorf - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion von Bü 90/Grü: Quo vadis Metropolregion Rheinland? - schriftlich beantwortet
+- TOP 4.7: Anfrage Die Linke: Desaströses Krisenmanagement der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 4.8: Anfrage SPD: Lüpertz-Pavillon und kein Ende: Was hat der Spaß gekostet? - schriftlich beantwortet
+- TOP 4.9: Anfrage SPD: Mitgliedschaft städtischer Gesellschaften im Arbeitgeberverband und tarifliche Beschäf - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau El Fassi: Stasi-Überprüfung - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - mehrheitlich beschlossen
+- TOP 7: Jahresabschluss 2011 - Beschluss über das Jahresergebnis - mehrheitlich beschlossen
+- TOP 8: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - einstimmig beschlossen
+- TOP 9: Jahresabschluss 2012 der Stadtsparkasse Düsseldorf - mehrheitlich beschlossen
+- TOP 9.1: ÄA CDU und FDP: Jahresabschluss 2012 der Stadtsparkasse Düsseldorf - mehrheitlich beschlossen
+- TOP 10: Richtlinien über die Erhebung von Entgelten für Leistungen der chemisch-biologischen Laboratorien de - einstimmig beschlossen
+- TOP 11: Kaiserswerther Straße 380, Aquazoo/Löbbecke Museum - Sanierung - Ausführungs- und Finanzierungsbesch - einstimmig beschlossen
+- TOP 12: Scharnhorststraße 8, Städtisches Leibnitz-Montessori-Gymnasium - Umbau der Pausenhalle zu einer Mens - einstimmig beschlossen
+- TOP 13: Unterführung Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 14: Neufestsetzung der Gebührentarife zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseld - mehrheitlich beschlossen
+- TOP 15: Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 16: Errichtung der unselbständigen "Stiftung Haus der Universität" - einstimmig beschlossen
+- TOP 17: Erste Hilfe Angebot Amt 53 Schulen Ratsvorlage Mittel Finanzen Haushalt Unfallvorsorge Rettung - zur Kenntnis genommen
+- TOP 17.1: ÄA CDU und FDP: Durchführung von Erste-Hilfe-Kursen für Düsseldorfer Schülerinnen und Schüler - mehrheitlich beschlossen
+- TOP 17.2: ÄA Die Linke: Durchführung von Erste-Hilfe-Kursen für Düsseldorfer Schülerinnen und Schüler - einstimmig abgelehnt
+- TOP 18: Einrichtung eines komm. Integrationszentrums - einstimmig beschlossen
+- TOP 19: Freigabe eines verkaufsoffenen Sonntagnachmittages am Sonntag, dem 08.09.2013 - mehrheitlich beschlossen
+- TOP 20: Satzung "Düsseldorfer Jugendrat" - zur Kenntnis genommen
+- TOP 20.1: Satzung Düsseldorfer Jugendrat - einstimmig beschlossen
+- TOP 21: Verleihung des Förderpreises für Wissenschaften - einstimmig beschlossen
+- TOP 22: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 23: Vorstand des Bergisch-Rheinischen Wasserverbandes - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: Änderung des Gebietsentwicklungsplanes (GEP) an der Theodorstraße - einstimmig beschlossen
+- TOP 26: Anträge
+- TOP 26.1: Antrag Freie Wähler: Konzept Unterbringung Flüchtlinge - zur Kenntnis genommen
+- TOP 26.2: Antrag FDP und CDU: Opferhilfe - mehrheitlich beschlossen
+- TOP 26.3: Antrag Die Linke: Rekommunalisierung der Stadtwerke Düsseldorf - einstimmig abgelehnt
+- TOP 26.3.1: ÄA Bü90-Grü: Rekommunalisierung der Stadtwerke Düsseldorf - einstimmig abgelehnt
+- TOP 26.3.2: Änderungsantrag der Ratsfraktionen von SPD und BÜ90/GRÜ: Rekommunalisierung der Stadtwerke - einstimmig abgelehnt
+- TOP 26.4: Antrag der Ratsfraktionen von CDU und FDP: Akquise von europäischen Fördermitteln - mehrheitlich beschlossen
+- TOP 26.5: Antrag Bü90-Grü: Die Graf-Adolf-Straße nach dem Kaufhof – Daten und Rahmenplan Einzelhandel - vertagt
+- TOP 26.6: Antrag der Ratsfraktionen von CDU, SPD, B90 und FDPImmissionsgrenz- und -richtwerte für Sportanlage - einstimmig beschlossen
+- TOP 26.7: Antrag der Ratsfraktion FREIE WÄHLER: Werbung auf www.duesseldorf.de - vertagt
+- TOP 26.8: Antrag SPD/B90 - Die Grünen - Resolution: Schulsozialarbeit muss fortgeführt werden - zur Kenntnis genommen
+- TOP 27: Zustiftung an die „Stiftung Begabtenförderung Düsseldorf“ - einstimmig beschlossen
+- TOP 28: Restitutionsersuchen für das Gemälde „Pariser Wochentag“ von Adolph Menzel - mehrheitlich beschlossen
+- TOP 28.1: ÄA Rh Laubenburg:. Anerkennung von Restitutionsersuchen - einstimmig abgelehnt
+- TOP 29: Restitutionsersuchen des Gemäldes "Fruchtkorb an einer Eiche" von Abraham Mignon - mehrheitlich beschlossen
