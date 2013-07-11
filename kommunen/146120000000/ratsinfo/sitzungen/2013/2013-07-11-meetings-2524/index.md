@@ -1,0 +1,76 @@
+# 57. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-07-11T14:00:00+02:00
+- Ende: 2013-07-12T23:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2524
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2524
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_07_11/12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00137488.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Sportentwicklungsplanung - erledigt
+- TOP 2.2: Darstellung von Tagespflegepersonen im Vergabesystem eKita - erledigt
+- TOP 2.3: Neubauprojekte in Flutgebieten - erledigt
+- TOP 2.4: Hochwasser: Schadensbilanz und Schadensbeseitigung - erledigt
+- TOP 2.5: Versicherung von Flutschäden an städtischen Liegenschaften - erledigt
+- TOP 2.6: Gerichtsverfahren Bautzner Straße - erledigt
+- TOP 2.7: Hochwasser 2013 - Auswirkungen auf das Strandbad und Freibad Wostra - erledigt
+- TOP 2.8: Planungskosten städtischer Bauvorhaben - erledigt
+- TOP 2.9: Brandschutztechnische Einordnung und Asbestbelastung der Kita Hauptstraße 18a - erledigt
+- TOP 2.10: Lernmittel an den Dresdner Schulen - erledigt
+- TOP 2.11: Hort 68. Grundschule - erledigt
+- TOP 2.12: Photovoltaikanlagen auf städtischen Schulgebäuden - erledigt
+- TOP 2.13: Situation Bäder und Schwimmhallen - erledigt
+- TOP 2.14: Hochwasser Lockwitz - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Sanierung und Instandsetzung der Albertbrücke - Umsetzung der Vorzugsvariante IV b - Ablehnung
+- TOP 5: Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2014 bis 2018 - erneute Beratung
+- TOP 6: Wahl von Protokollführerinnen für die Schiedsstellen Blasewitz-Nord und Leuben der Landeshauptstadt Dresden - Zustimmung
+- TOP 7: Aufstellung der Vorschlagsliste für das Amt der ehrenamtlichen Richterin bzw. des ehrenamtlichen Richters beim Verwaltungsgericht für die Amtsperiode 2014 bis 2018 - Vertagung
+- TOP 8: Besetzung des Aufsichtsrates der Dresdner Bäder GmbH - gewählt
+- TOP 9: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 10: Umbesetzung im Ortsbeirat Klotzsche - Zustimmung
+- TOP 11: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 12: Bildung von Wahlkreisen für die Stadtratswahl 2014 - Zustimmung
+- TOP 13: Änderung der Wahlwerbesatzung - Vertagung
+- TOP 14: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 15: Prüfung einer Interimsspielstätte für die Dresdner Philharmonie in der Garnisonkirche - Vertagung
+- TOP 16: Sofortiger Stopp der Verfüllung der Kiesseen Zschieren - Vertagung
+- TOP 17: Generalübernehmervertrag und Finanzierungskonzept zur Errichtung der Theaterspielstätten im ehemaligen Kraftwerk Mitte - Zustimmung mit Ergänzung
+- TOP 18: Einbringungsvertrag, Personalüberleitungsvertrag und Betrauungsakt im Zusammenhang mit der Übertragung des Teilbetriebs Bäder des Eigenbetriebes Sportstätten- und Bäderbetrieb Dresden auf die Dresdner Bäder GmbH (V1929/12) - Zustimmung mit Ergänzung
+- TOP 19: Abgabe einer Einredeverzichtserklärung einschließlich abstraktem Schuldanerkenntnis zur Absicherung der mittelfristigen Finanzierung der Stadtentwässerung Dresden GmbH - Zustimmung
+- TOP 20: Änderung der Verträge zur Abwassereinleitung zwischen der Stadtentwässerung Dresden GmbH und der Stadtwerke Pirna GmbH bzw. der Stadt Heidenau - Zustimmung
+- TOP 21: Festlegung des Ausschreibungsverfahrens und Erarbeitung der Ausschreibungsunterlagen für den Bau und Betrieb der 32. Mittelschule und des Gymnasiums Tolkewitz (Schulstandort Tolkewitz) - Ersetzung
+- TOP 22: Prioritätenprogramm zum Bau von Gehwegen im Dresdner Straßennetz - Zustimmung mit Ergänzung
+- TOP 23: Maßnahmeuntersetzung zur Haushaltssatzung 2013/2014 des Straßen- und Tiefbauamtes (STA) und des Stadtplanungsamtes (SPA) - Zustimmung
+- TOP 24: Vorplanung Äußerer Stadtring West Hauptabschnitt 5, Hamburger Straße zwischen Warthaer Straße und Haltepunkt Cotta - Zustimmung mit Änderung
+- TOP 25: Gründung des Gymnasiums Dresden-West - Zustimmung mit Änderung
+- TOP 26: Gründung des Gymnasiums Dresden-Prohlis - Zustimmung
+- TOP 27: Veränderung der Planwerte von Auszahlungen für investive Maßnahmen des Finanzhaushaltes des Schulverwaltungsamtes - Zustimmung mit Ergänzung
+- TOP 28: Betrauung der städtischen Beteiligungsunternehmen - Zustimmung
+- TOP 29: Verkauf Neumarkt, Q IV/3 - Zustimmung
+- TOP 30: Feststellung der Jahresabschlussergebnisse 2011 einschließlich des Anhangs und des Rechenschaftsberichtes - Zustimmung
+- TOP 31: Ausnahmen zur Festlegung zu über- bzw. außerplanmäßigen Mehreinnahmen gemäß Stadtratsbeschluss Nr. V1898/12 - Punkt V. Nr. 22.a - Zustimmung mit Ergänzung
+- TOP 32: Eintrittspreise der Dresdner Musikfestspiele 2014 - Zustimmung
+- TOP 33: Elternbeiträge im Dresdner Kreuzchor - Verweisung
+- TOP 34: Aktionsplan der Landeshauptstadt Dresden zur Umsetzung der UN-Behindertenrechtskonvention - Zustimmung
+- TOP 35: Dritte Verordnung zur Änderung der "Verordnung der Landeshauptstadt Dresden über die Beförderungsentgelte und -bedingungen für den Verkehr mit Taxen (Taxitarifverordnung)" vom 4. März 1999 - Zustimmung
+- TOP 36: Veränderungen im Busnetz Coschütz und Gittersee - Zustimmung
+- TOP 37: Neu- und Umbenennung von Straßen - Vertagung
+- TOP 38: Vorhabenbezogener Bebauungsplan Nr. 573.2, Dresden-Dölzschen, Wohnpark Dölzschener Höhe - Zustimmung
+- TOP 39: Bebauungsplan Nr. 79.3, Dresden-Altstadt II Nr. 1, Johannstadt Nord/Neubertstraße - Zustimmung mit Ergänzung
+- TOP 40: Bebauungsplan Nr. 340, Dresden-Altstadt I Nr. 34, Neumarkt, Quartier VI - Zustimmung
+- TOP 41: Vorhabenbezogener Bebauungsplan Nr. 694, Dresden-Schullwitz, Biogasanlage - Zustimmung
+- TOP 42: Konzept zur Neuausrichtung des Altmarktes (Veranstaltungskonzept) - Zustimmung mit Änderung
+- TOP 43: Hochwasserschutz Laubegast am alten Elbarm - Umsetzung Maßnahme M30 (HWSK) - punktweise Zustimmung
+- TOP 44: Satzung zur Änderung der Jahr- und Spezialmarktsatzung der Landeshauptstadt Dresden vom 10. Dezember 1992, zuletzt geändert am 9. Februar 2012 - Zustimmung
+- TOP 45: Dresden fördert bürgerschaftliches Engagement - Zustimmung mit Änderung
+- TOP 46: „Bündnis für bezahlbares Wohnen und Klimaschutz in Dresden" gründen! - Vertagung
+- TOP 47: Sicherung des Gewerbestandorts am Augustusweg unter Beachtung naturschutzfachlicher Aspekte - Vertagung
