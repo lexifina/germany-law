@@ -1,0 +1,59 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2013-07-11T17:00:00+02:00
+- Ende: 2013-07-11T21:10:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZ45jdHmUzCiO9KV3KQ0NDI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1242
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQW5m1OrM1jF5bEdCFhH-hikciAHeOildPdp_IdVUFIY/Bekanntmachung_Rat_11.07.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxz28whPjT54FdLPWCA_gdoBiGyHxWV-MrzwTgLnI5B/Oeffentliche_Niederschrift_Rat_11.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 2.1: Radweg Mindener Straße
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Haus Wenzel
+- TOP 3.2: Schlauchturm Wehe
+- TOP 3.3: Bürgerwunschliste
+- TOP 3.4: Straßenbeleuchtung
+- TOP 3.5: Altes Spengemannsches Haus
+- TOP 3.6: Trans-All Flüge
+- TOP 3.7: Förderantrag
+- TOP 3.8: Glockenspiel Rahden
+- TOP 4.: Antrag auf Änderung des Regionalplanes für den Regierungsbezirk Detmold "Gebietsentwicklungsplan TA Oberbereich Bielefeld, 2004" zur vorhabenbezogenen Erweiterung eines vorhandenen Gewerbestandortes der Harting Technology Group und Darstellung des Bereiches für gewerbliche und industrielle Nutzungen (GIB) Rahden-Ost - Einstimmig, 0 Enthaltungen
+- TOP 5.: 1. vereinfachte Änderung des Bebauungsplanes Nr. 77 "Tonnenheide - An der Mühle" der Stadt Rahden - 23 Stimmen dafür, 9 dagegen (SPD, Die Grünen), 1 Enthaltung (G. Meyer)
+- TOP 6.: Erlass einer Außenbereichssatzung gem. § 35 Abs. 6 BauGB für den Bereich "Westlicher Mühlendamm - Neuaufstellung" - Einstimmig, 0 Enthaltungen
+- TOP 7.: Förderung der Dorferneuerung; hier: Erweiterung des Dorfplatzes Wehe mit Schaffung von Stellplätzen, Sanierung des Schlauchturmes, Buswartestation sowie Platzgestaltung am Ehrenmal Weher Straße / Ecke Straße Am Sportplatz - 28 Stimmen dafür, 0 dagegen, 6 Enthaltungen (Zimmermann, Brüning, Kuhlmann, Logemann, Spreen, Stuck)
+- TOP 8.: Beteiligung an der Verfassungsbeschwerde gegen das Gemeindefinanzierungsgesetz 2012 und 2013 - 22 Stimmen dafür, 11 dagegen (SPD/Die Grünen), 2 Enthaltungen (Zimmermann/Kröger)
+- TOP 9.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2013 - Ohne Abstimmung
+- TOP 10.: Bekanntgaben
+- TOP 10.1: Fachmarktzentrum Weher Straße
+- TOP 10.2: Neubautätigkeit in Rahden
+- TOP 10.3: Fracking
+- TOP 10.4: Dienstaufsichtsbeschwerde
+- TOP 11.: Verschiedenes
+- TOP 11.1: Toilettenanlage auf dem Friedhof Rahden
+- TOP 11.2: Straßenbeleuchtung
+- TOP 11.3: Einbahnstraße zur Niedermühle
+- TOP 11.4: Toilettenanlage Parkplatz Ortgies
+- TOP 11.5: Niederschlagswasser an Straßen
+- TOP 11.6: Terminabsprache für Besichtigungen
+- TOP 11.7: Sitzungstermine
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 12.: Grundstücksangelegenheiten
+- TOP 12.1: Grundstücksangelegenheiten - 32 Stimmen dafür, 0 dagegen, 3 Enthaltungen (Kokemor/Kuhlmann/Steinkamp)
+- TOP 12.2: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 12.3: Bekanntgabe der im II. Quartal 2013 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 13.: Bekanntgaben
+- TOP 14.: Verschiedenes
+- TOP 14.1: Stadtmarketing
+- TOP 14.2: Eisengießerei Meier
+- TOP 14.3: Straßenbaumaßnahmen
+- TOP 14.4: Sitzungsunterlagen
