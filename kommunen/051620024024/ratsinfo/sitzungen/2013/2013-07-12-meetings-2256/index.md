@@ -1,0 +1,55 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2013-07-12T16:00:00+02:00
+- Ende: 2013-07-12T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2256
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2256
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Flächennutzungsplanänderung Nr. 125 – Hoisten, Schelmrather Hof - einstimmig zugestimmt
+- TOP 7: Vorhabenbezogener Bebauungsplan Nr. V479 – Hoisten, Am Schelmrather Hof (Erweiterung Biogasanlage) - - einstimmig zugestimmt
+- TOP 8: Radverkehrsanlagen Schorlemerstraße / Deutsche Straße - einstimmig zugestimmt
+- TOP 9: Grünentwicklungsplan Neuss Perspektive 2025+ - einstimmig zugestimmt
+- TOP 10: Bebauungsplan Nr. 120/20 - Weckhoven, Am Lindenplatz - - einstimmig zugestimmt
+- TOP 11: Bebauungsplan Nr. 483 - Hammfeld II Ost (Möbelhaus) - - zur Kenntnis genommen
+- TOP 12: Verkehrskonzept Horremer Straße / Neusser Landstraße - einstimmig zugestimmt
+- TOP 13: VEP V 43/11 - Furth-Mitte, Engelbertstr. (Demenzkompetenzzentrum) - - einstimmig zugestimmt
+- TOP 14: Vorhabenbezogener Bebauungsplan Nr. V 348/1 - Furth-Mitte, Further Straße / Venloer Straße - - mehrheitlich zugestimmt
+- TOP 15: Änderung der Geschäftsordnung des Rates: Versand von Ausschussniederschriften - mehrheitlich zugestimmt
+- TOP 16: Einrichtung einer Verbraucherberatungsstelle in der Stadt Neuss - mehrheitlich abgelehnt
+- TOP 17: Beratung zur weiteren Nutzung der ehemaligen "Loge" im Rheinischen Landestheater (RLT) - mehrheitlich zugestimmt
+- TOP 18: Feststellung des Jahresabschlusses 2012 der Liegenschaften und Vermessung Neuss (LVN) und Beschluss - mehrheitlich zugestimmt
+- TOP 19: BPL 443 - Allerheiligen, Am Henselsgraben: Endausbau "Im Stüttgesfeld" und "Bongarder Hof" - einstimmig zugestimmt
+- TOP 20: Zuschüsse zum Betrieb der Mensen an der Gesamtschule an der Erft - einstimmig zugestimmt
+- TOP 20.1: Errichtung einer vierten Gesamtschule gem. des gemeinsamen Antrages der Fraktionen - mehrheitlich zugestimmt
+- TOP 21: Errichtung einer vierten Gesamtschule - mehrheitlich zugestimmt
+- TOP 22: Bedarfsplan 2013 Kinderbetreuung in Neuss - einstimmig zugestimmt
+- TOP 23: Ausbauplanung U3 2013-2015 - einstimmig zugestimmt
+- TOP 24: Kenntnisnahme üpl./apl. Aufwendungen und Auszahlungen IV. Quartal 2012 - einstimmig zugestimmt
+- TOP 25: Klimaanpassungskonzept für die Stadt Neuss - einstimmig zugestimmt
+- TOP 26: Waldentwicklung Steinhausstraße - einstimmig zugestimmt
+- TOP 27: Zweckgebundener Zuschuss Kitty e. V. - einstimmig zugestimmt
+- TOP 28: Ergänzung der Gartenordnung der Stadt Neuss - einstimmig zugestimmt
+- TOP 29: Ergänzung der Straßenordnung der Stadt Neuss - einstimmig zugestimmt
+- TOP 30: Entgegennahme des Abschlussberichts der Enquêtekommission "Handlungskonzept Demographie" - einstimmig zugestimmt
+- TOP 31: Änderung des Gesellschaftsvertrages der Gemeinnützigen Werkstätten Neuss GmbH, GWN - verwiesen
+- TOP 31.1: Bebauungsplan Nr. 333/1 - Gnadental, An der Erftmündung (Süd) - - zur Kenntnis genommen
+- TOP 32: Antrag der Fraktion Bündnis 90/DIE GRÜNEN betr. Stärkungskonzept für die Innenstadt - einstimmig zugestimmt
+- TOP 33: Antrag der SPD-Fraktion betr.: Schnelles Internet in Neuss - einstimmig zugestimmt
+- TOP 34: Antrag der Fraktionen CDU und FDP betr.: Kürzung des Stundenkontingentes der Musikschule Neuss - einstimmig zugestimmt
+- TOP 35: Antrag der CDU und FDP Fraktionen betr.: Schließung Konradbad - mehrheitlich zugestimmt
+- TOP 35.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Errichtung einer 2. Sekundarschule. Hier: Fragebogen zur Elternbefragung - abgesetzt
+- TOP 37: Parkraumbewirtschaftung an Neusser Schulen - mehrheitlich zugestimmt
+- TOP 38: Einwohnerfragestunde - zur Kenntnis genommen
