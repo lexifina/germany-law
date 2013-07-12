@@ -1,0 +1,22 @@
+# Antrag der SPD-Fraktion vom 19.06.2012Änderung der Satzung der Stadt Aachen über die Festlegung der Gebietszonen und der Höhe des Geldbetrages je Stellplatz gem. § 51 Abs. 5 BauO NRW (Stellplatzsatzung) vom 06.02.2001
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: B 03/0100/WP16
+- Art: Entscheidungsvorlage
+- Datum: 2013-07-12
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=11136
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=11136
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2897 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2932 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2933 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2939 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2887 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2926 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2931 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2918 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2833 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2951 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=2914 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=2915 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=37, http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=38
