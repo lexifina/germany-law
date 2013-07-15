@@ -1,0 +1,59 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-07-15T17:00:00+02:00
+- Ende: 2013-07-15T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWkHknFBoNJiJRJ6R783enE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4176
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS8VSC45SK25BseJ1biPo7c7yM6DUW1fjV3owqojEXsl/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_15.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Bauleitplanung Fürkeltrath II
+- TOP 2: Bauleitplanung Fürkeltrath II
+- TOP 3: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4: Protokoll über die . Sitzung des ASUKM am
+- TOP 5: City 2013 - Neugestaltung des Entenpfuhls und der Unteren Hauptstraße
+- TOP 6: Verkehrskonzept Ohligs-Ost
+- TOP 7: Klimaschutzteilkonzept Erneuerbare Energien
+- TOP 8: European Energy Award 2012
+- TOP 9: Klimaanpassungskonzept
+- TOP 10: Verschmelzung der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG auf die Wirtschaftsförderung Solingen GmbH & Co. KG sowie
+- TOP 11: KWK-Modellkommune 2012 - 2017
+- TOP 12: Bildung für nachhaltige Entwicklung
+- TOP 13: Leben braucht Vielfalt 2013
+- TOP 14: Schienenpersonennahverkehr – Regionalbahn RB 47
+- TOP 15: Parkraumbewirtschaftung
+- TOP 16: Fahrbahndeckenprogramm 2013
+- TOP 17: Hofgarten
+- TOP 18: Denkmalbereichssatzung Unterburg
+- TOP 19: Denkmalbereichssatzung Unterburg
+- TOP 20: Geplante Kürzungen der Fördermittel im Landeshaushalt für die Denkmalpflege in NRW unter besonderer Berücksichtigung des Stadtteils Solingen-Burg
+- TOP 21: Bauleitplanung Friedenstraße/Höhscheider Straße
+- TOP 22: Bauleitplanung Werderstraße
+- TOP 23: Bauleitplanung Schrodtberg
+- TOP 24: Bauleitplanung Schrodtberg
+- TOP 25: Bauleitplanung Betriebshof Hermann-Löns-Weg
+- TOP 26: Verschiedenes
+- TOP 27: Zustand des Wanderparkplatzes Wupperhof und Autobahnausfahrt bzw. –auffahrt zur A 3
+- TOP 28: Verhaltensregelungen für Busfahrgäste
+- TOP 29: Energiebericht 2003 - 2012
+- TOP 30: Sachstand Hochwasserrisiko-Managementplanung
+- TOP 31: Novellierung des Baugesetzbuches 2013 (BauGB)
+- TOP 32: Tempo-30-Zonen und Strecken
+- TOP 33: Anbindung an die A 3
+- TOP 34: Bundesbedarfsplan Übertragungsnetze
+- TOP 35: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 36: Anbindung Gewerbegebiet Scheuren
+- TOP 37: Aktuelle Situation Gewerbeflächen Solingen aus Sicht der Wirtschaftsförderung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Konrad-Adenauer-Straße
+- TOP 4: Denkmalbereichssatzung Unterburg
+- TOP 5: Verschiedenes
