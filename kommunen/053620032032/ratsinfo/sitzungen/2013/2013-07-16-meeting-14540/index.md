@@ -1,0 +1,56 @@
+# Stadtrat (28. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-07-16T17:00:00+02:00
+- Ende: 2013-07-16T18:25:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVwCTetL77wvJ3EeXCz11g4
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14540
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWTw68qEQX5SLEspJURNq32ZRoVZbWzmpRq2w1Jimyeg/Bekanntmachung_Stadtrat_16.07.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRRJj00O31Fyf43wiv1oSdbnQopeYYsF-OvQbfcE3vxP/Oeffentliche_Niederschrift_Stadtrat_16.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Bestellung von Vertretern/innen der Stadt Kerpen in Gremien
+- TOP 2.2: Antrag der SPD-Fraktion
+- TOP 2.3: Antrag der CDU-Fraktion
+- TOP 2.4: Umbesetzung des Jugendhilfeausschusses / Beratende Mitglieder
+- TOP 2.5: Besetzung des Schulausschusses / Benennung von beratenden Mitgliedern
+- TOP 2.6: Umbesetzung von Ausschüssen und Gremien hier: von Räten städtischer Kindertageseinrichtungen
+- TOP 3.: Wiederwahl des Schiedsmannes Eugen Weßler für den Schiedsamtsbezirk Türnich, Balkhausen, Brüggen
+- TOP 4.: Anregung und Beschwerde gem. § 24 GO NRW hier: Resolution bzw. online-Petition zum Thema "Energiewende ohne Fracking"
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 13. Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Antrag auf Änderung des Flächennutzungsplanes für den Bereich Apollinarisstr. nördlich der BAB 4 Antrag der CDU-Fraktion vom 16.5.2013
+- TOP 6.2: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.3: Bebauungsplan KE 352 "Westliche Stiftsstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.4: Abschluss einer Planungsvereinbarung gem. § 11 BauGB für den Geltungsbereich des Bebauungsplans KE Nr. 352 "Westliche Stiftsstraße"
+- TOP 6.5: Bebauungsplan BL 341 "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.6: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Wirksamkeitsbeschluss
+- TOP 6.7: Parksituation auf der Kerpener Straße in Sindorf im Bereich der Kreissparkasse Köln hier: Bereitstellung von außerplanmäßigen Haushaltsmitteln
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Stellenpläne 2013 u. 2014 hier: Zusätzliche Stellen Kindertageseinrichtungen
+- TOP 8.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 8.1: Anschaffung der Auswertungssoftware QuARZ
+- TOP 9.: Genehmigung der Verringerung der allgemeinen Rücklage in den Haushaltssatzungen 2013 und 2014 durch den Landrat des Rhein-Erft-Kreises hier: Beitrittsbeschluss des Stadtrates für das Haushaltsjahr 2014
+- TOP 10.: Sachstandsbericht zum Winterdienst 2012/13 sowie Bereitstellung von überplanmäßigen Haushaltsmitteln für die Beschaffung von Streusalz und Sole
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 12.1: Insolvenzverfahren GePa Kerpen GmbH und H.H. Göttsch hier: Sachstandsbericht der CBH Kanzlei
+- TOP 13.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Sachstandsbericht zu den Insolvenzverfahren GePa Kerpen GmbH und H.H. Göttsch
+- TOP 16.: Prüfung der Jahresabschlüsse 2009 - 2011
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 18.: Mitteilungen
+- TOP 19.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
