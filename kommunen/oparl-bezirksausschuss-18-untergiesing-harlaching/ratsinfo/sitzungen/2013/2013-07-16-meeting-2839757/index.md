@@ -1,0 +1,111 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-07-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839757
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839757
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: A) Sanierung des Radwegs entlang der Bushaltestelle "Authariplatz" Richtung Mangfallplatz B) Zusätzliche Fahrradständer für den Mangfallplatz Bürgerschreiben vom 16.06.13
+- TOP 2.2.: Baumfällungen im Bereich der Menterschwaige; Bürgerschreiben (mit Kopie an das Referat für Stadtplanung u. Bauordnung) vom 17.06.13
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Raabennest Kindergarten e.V., für die Maßnahme: Erneuerung Sandkasten; Antragssumme: 7.230,74 ?; Beschlussvorlage des Direktoriums vom 27.05.2013 (vertagt aus der Sitzung vom 18.06.2013)
+- TOP 3.1.: Maibaum des BV Harlaching e.V. als Siedlungsmittelpunkt / Dorfkern von Harlaching; Keine weiteren Zuschüsse bei Antragstellung von anderer Seite auf Zuschuss für die Aufstellung eines Maibaums in diesem Bereich; Antrag des BV Harlaching e.V.
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Linkshänder e.V., für die Maßnahme: Aktion zum 37. Weltlinkshändertag; Antragssumme: 989,00 ?; Antrag vom 22.06.13
+- TOP 3.1.: Haus der Kinder in der Säbener Straße; Kurzbericht zum neuen Spielhaus (Antrag aus Zuschuss aus dem BA-Budget 2012)
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Hans-Mielich-Platz - Durchfahrt von der Kühbachstraße; Bürgerschreiben vom 14.05.13; Antwortschreiben des Baureferats vom 01.07.2013 (positive Erledigung)
+- TOP 3.2.: Lärmschutzwände an der Bahnstrecke in Untergiesing; Anfrage an die LHM; BA-Antrag Nr. 08-14 / B 04611 vom 19.02.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 10.06.13 (negative Erledigung)
+- TOP 3.3.: Gestaltung der Lärmschutzwände in Untergiesing - Dringlichkeitsantrag; BA-Antrag Nr. 08-14 / B 04678 vom 19.03.13; Antwortschreiben des RAW vom 03.06.13 (negative Erledigung)
+- TOP 3.1.: 2. Stammstrecke München Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Bahn am Hauptbahnhof und Ostbahnhof a) Sachstand zu den ÖPNV-Anlagen b) Anträge / Anfrage Sitzungsvorlage Nr. 08-14 / V 12168; Beschluss der Vollversammlung des Stadtrates vom 26.06.13
+- TOP 3.2.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand b) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 11189; Beschluss der Vollversammlung vom 26.06.13
+- TOP 3.3.: Radverkehr in München; Bericht zur Umsetzung und Aktualisierung von Zielen a) Umsetzung von Maßnahmen, Prozessevaluierung und Zielerreichung b) Aktualisierung von Zielen c) Anträge - Fahrradabstellen 3: Gehsteige durch Umwandlung von Kfz-Stellplätzen zu Fahrradstellplätzen entlasten - Bezirksausschüsse sollen entscheiden; Stadtratsantrag Nr. 08-14 / A 00240 vom 21.08.08 - Mobilität im Alter - mit dem Fahrrad; Stadtratsantrag Nr. 08-14 / A 02488 vom 26.05.11 - Radfahrkonzepte auf dem Prüfstand; Stadtratsantrag Nr. 08-14 / A 02978 vom 12.12.11 - OB-Kandidat Reiters "Wunschliste" jetzt in Angriff nehmen - Teil 2: Integriertes Verkehrskonzept für Kraftfahrer, Radfahrer, Fußgänger und ÖPNV - gegen Stau, Fahrradunfälle, Lärm, Abgase und Feinstaub; Stadtratsantrag Nr. 08-14 / A 03596 vom 13.08.12 - Keine Benutzungspflicht von Fahrradwegen? Stadtratsantrag Nr. 08-14 / A 03788 vom 12.11.12; Sitzungsvorlage Nr. 08-14 / V 12242; Beschluss des gemeinsamen Ausschusses für Stadtpl. u. Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltschutzausschusses vom 19.06.13 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung; Unterrichtung des Baureferats-Gartenbau vom 05.06.13 über das Fällen von Gefahrenbäumen
+- TOP 3.3.4: UA Soziales
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Haus-Nr. für das Flurstück 12860/21 an der Geiselgasteigstraße; Antrag der WEG Geiselgasteigstraße (vertagt aus der Sitzung vom 18.06.2013)
+- TOP 3.1.: Kleinwohnungen unter 40 m² - Anpassung der Erhaltungssatzung; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 18.06.2013) - <div>nach Antrag</div>
+- TOP 3.2.: Obst- und Gemüsehändler außerhalb des Mittleren Rings - Genehmigung zum Stehen bleiben auch während der Nachtzeiten; Antrag der SPD-Fraktion vom 17.06.13 (vertagt aus der Sitzung vom 18.06.2013) - <div>nach Antrag</div>
+- TOP 3.1.: Benennung von Straßen und Wegen in Grünzügen - Anhörungsschreiben; BA-Antrag Nr. 08-14 / B 04763 des BA 11 vom 10.04.13; Schreiben des Direktoriums vom 24.06.13 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Gabriel-Max-Str. 47, Neubau 2er Wohnhäuser mit TG; Anhörung vom 07.06.13 (vertagt aus der Sitzung vom 18.06.13)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Klausener Str. 25, Neubau eines Wohnhauses mit vier Wohnungen u. einer TG (5 Stpl.) - VORBESCHEID; Anhörung vom 25.06.13
+- TOP 3.4.: Geiselgasteigstr. 153, Nutzungsänderung: Wohnen zu Gastraum / Tagungsraum im 1. OG - VORBESCHEID; Anhörung vom 24.06.13
+- TOP 3.5.: Säbener Str. 173, Aufstockung und DG-Ausbau; Anhörung vom 24.06.13
+- TOP 3.6.: Grauertstraße 15, Neubau eines Dreifamilienhauses; Anhörung vom 24.06.13
+- TOP 3.7.: Haselburgstr. 3, Nebau eines Einfamilienhauses - TEKTUR; Anhörung vom 24.06.13
+- TOP 3.8.: Grauertstr. 2a, Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 20.06.13
+- TOP 3.9.: Füllstraße 3, Neubau einer Wohnanlage mit TG - TEKTUR; Anhörung vom 27.06.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Städt. Stadion an der Grünwalder Straße; Anfrage zur Gastronomie; Schreiben des RBS vom 05.06.13 (neutrale Erledigung)
+- TOP 3.2.: Vollzug Erhaltungssatzung Untere Au / Untergiesing; Genehmigungsvefahren nach § 172 Abs. 1 Satz 1 Nr. 2, Abs. 4 BauGB und §§ 2,3 der Satzung; Oefelestr. 15; Schreiben des BA 18 vom 18.04.13; Zwischennachricht des Sozialreferats vom 17.06.13
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Konditorei Café Deml, Grünwalder Str. 190; Mitteilung vom 13.06.13 3.5.6.2.2 SSW Muro Bistro Café, Pilgersheimer Str. 50; Mitteilung vom 12.06.13
+- TOP 3.3.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des Mehrjahresinvestitionsprogrammes 2012-2016; Sitzungsvorlage Nr. 08-14 / V 12315; Beschluss des Ausschusses für Bildung u. Sport vom 03.07.13 (VB)
+- TOP 3.4.: Neubau des Hauses an der Tauernstraße, Stadtbezirk 18 Untergiesing-Harlaching; Produkt 7.1.2 Beteiligungsmanagement MÜNCHENSTIFT GmbH; Sitzungsvorlage Nr. 08-14 / V 12074; Beschluss des Sozialausschusses vom 04.07.13 (VB)
+- TOP 3.5.: Abriss der bestehenden Sporthallen und Neubau einer Dreifach-Sporthalle, Am Staudengarten 2 im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Ausführungskosten); Ausführungsgenehmigung; Neubau einer Dreifach-Turnhalle am TLG ohne Tribüne; Begrenzung der Zuschauerzahlen für außerschulische Veranstaltungen und Parkraummanagement für den gesamten Bereich zwischen Hollerbusch, Eschenstraße, Soyerhofstraße und Rotbuchenstraße; BA-Antrag Nr. 08-14 / B 04534 des BA 18 vom 15.01.13; Keine Erweiterung des TLG-Parkplatzes im Falle einer alternativen Stellplatzbereitstellung in der P+R-Tiefgarage am Mangfallplatz und Verzicht auf zu frühe Baumfällungen in diesem Bereich; BA-Antrag Nr. 08-14 / B 04535 des BA 18 vom 15.01.13; Sitzungsvorlage Nr. 08-14 / V 12332; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 03.07.13 (SB)
+- TOP 3.6.: Begegnungszonen / "Shared Space"; Sitzungsvorlagen Nr. 08-14 / V 08124; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 19.06.13 (SB)
+- TOP 3.7.: Schulbauoffensive (SBO) 2013 / 2030; Räumliche Bedarfsplanung für die Münchner öffentlichen Realschulen und Gymnasien - Grundsatzbeschluss - Sitzungsvorlage Nr. 08-14 / V 12217; Beschluss des Ausschusses für Bildung u. Sport, des Ausschusses für Stadtpl. u. Bauordnung, des Bauausschusses, des Kommunalausschusses und des Finanzausschusses in der gemeinsamen Sitzung des Stadtrats vom 03.07.13 (VB) zu 3.5.6.7 Ergänzung vom 26.06.13
+- TOP 3.8.: Wohnen in München V; Städt. Wohnungsbaugesellschaften 1. Steigerung und Verstetigung der Fertigstellungszahlen 2. Finanzielles Engagement der LHM 3. Stadtratsanträge a) Mietpreis stabilisieren IV - Wohnungsbaugesellschaften stärken, Erhöhung der Neubautätigkeit der Wohnungsbaugesellschaften; Stadtratsantrag Nr. 08-14 / A 04177 vom 17.04.13 b) Umsetzung von Wohnen in München V: Erhöhung der Jahresraten für den geförderten Wohnungsbau - Kapazitäten der städt. Wohnungsbaugesellschaften erhöhen; Stadtratsantrag Nr. 08-14 / A 03689 vom 05.10.12 c) Städt. Wohnungsbauoffensive beschleunigen; Stadtratsantrag Nr. 08-14 / A 03183 vom 16.03.13 d) Finanzielles Engagement im Wohnungsbau; Stadtratsantrag Nr. 08-14 / A 02819 vom 19.10.11 e) Städtischen Wohnungsbau noch intensiver fördern; Stadtratsantrag Nr. 08-14 / A 02133 vom 17.01.11; Sitzungsvorlagen Nr. 08-14 / V 12310; Beschluss der Vollversammlung des Stadtrates vom 26.06.13
+- TOP 3.9.: Demografiebericht München - Teil 2; Kleinräumige Bevölkerungsprognose 2011 bis 2030 für die Stadtbezirke; Sitzungsvorlagen Nr. 08-14 / V 11936; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 19.06.13
+- TOP 3.10.: Standortkonzept Bürgerbüros, Einrichtung eines Bürgerbüros am Scheidplatz; Antrag auf Einrichtung eines Bürgerbüros in Untergiesing-Harlaching; BA-Antrag Nr. 08-14 / B 04703 vom 19.03.13; Sitzungsvorlage Nr. 08-14 / V 12302; Beschluss des Kreisverwaltungsausschusses vom 25.06.13 (VB)
+- TOP 3.11.: Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 Au-Haidhausen 1. Nachnutzung Paulaner-Gelände: Information aller Interessierten im Vorfeld des für den 13.04.13 vorgesehenen Workshops (Ziffer 2 des Antrags); BÜV-Empfehlung Nr. 08-14 / E 01703 vom 31.01.13 2. Folgenutzung für Betriebsflächen der Paulaner Brauerei: Optimierung des Workshopverfahrens am 13.04.13; BA-Antrag Nr. 08-14 / B 04713 des BA 5 vom 20.03.13; Sitzungsvorlagen Nr. 08-14 / V 11999; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 19.06.13 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gem. Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 13.10.2013 (Ersatztermin: 20.10.2013) auf dem Hans-Mielich-Platz; Beschluss des BA 18 vom 16.07.2013
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest in der Unteren Weidenstraße am 27.07.13; Anhörung des KVR vom 17.06.13 mit der Bitte um Stellungnahme bis 17.07.13
+- TOP 3.2.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Familienfest des SPD Ortsvereins Untergiesing auf der Wiese neben dem Osramspielplatz, Hellabrunner Straße am 03.08.13 oder 10.08.13; Anhörung des KVR vom 19.06.13 mit der Bitte um Stellungnahme bis 22.07.13
+- TOP 3.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Flohmarkt am 13.10.13 (Ersatztermin: 20.10.2013) auf dem Hans-Mielich-Platz; Anhörung des KVR vom 26.06.13 mit der Bitte um Stellungnahme bis 02.08.13
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Besetzung des Sportbeirats der LHM für die Amtsperiode 2013 bis 2017; Sitzungsvorlage Nr. 08-14 / V 11331; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 06.03.13 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.1.: Neuer Vorstand des Seniorenbeirats; Rundbrief des Seniorenbeirats vom 21.06.13
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
