@@ -1,0 +1,106 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-07-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818420
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818420
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Gespräch im Unterausschuss mit Vertretern der Initiative ?Goldgrund?
+- TOP .2.: Gespräch im Unterausschuss mit dem Bauherrn des Bauvorhabens Kaufingerstraße 5: Umbau Löwenhofpassage
+- TOP .3.: Gespräch im Unterausschuss mit einer Vertreterin der Regierung von Oberbayern über das Bauvorhaben: Generalsanierung 1. Bauabschnitt Maximilianstraße 39
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Tal 4: Statik ? Änderung im ehemaligen ?Asado?, Einrichtung eines ?Bratar? Restaurants
+- TOP .2.: Perusastraße 5: Einbau eines Markisendachs über der Freischankfläche der Gaststätte ?Zum Franziskaner?
+- TOP .3.: Burgstraße 1 ? 3: Nutzungsänderung im UG: Technikräume zu Verkaufsfläche, 5. OG Gastronomie zu Servicefläche, Überbauung des Lichthofs (...)
+- TOP .4.: Theatinerstraße 44: Umbau bestehender Verkaufs- und Nebenräume in eine neue ?Tory Burch?-Filiale mit Fassadenänderung
+- TOP .5.: Frauenstraße 8: Dachgeschoss-Abbruch, -Neuerrichtung, -Ausbau (vorbescheid)
+- TOP .6.: Sendlinger Straße 35: Fassaden- und Grundrissänderung im Erdgeschoss (Vorbescheid)
+- TOP .7.: Adelgundenstraße 25: Errichtung von Gauben sowie DG-Ausbau (Tektur)
+- TOP .8.: Oettingenstraße 26: Dachsanierung und Änderung Erdgeschoss-Fassade
+- TOP .9.: NACHTRAG: Reitmorstraße 4: 1. und 2. OG: Büro zu Wohnen, sowie 4. OG: Wohnen zu Büro, Zusammenlegung zweier Wohnungen, Widenmayerstraße 10: EG und 1. bis 4. OG: Wohnen zu Büro, sowie EG Lager zu Garage und Müllraum
+- TOP .10.: NACHTRAG: Sendlinger Straße 25: Umbau und Neugestaltung der Erdgeschoss-Fassade und des Hauseingangs (Straßenseite), Neubau und Überdachung des Kellereingangs (Hofseite) sowie Nutzungsänderung Läden im Erd- und 1. Obergeschoss: Lager zu Ladenflächen
+- TOP .2.1: Gaststätten
+- TOP .1.: Gaststätte ?S'Zwölferl?, Seitzstraße 12: Erweiterung einer bestehenden Freischank-fläche
+- TOP .2.: Gaststätte ?Casalingo?, Sebastiansplatz 12: Genehmigung einer Freischankfläche, Aufhebung des Beschlusses vom 18.06.2013 (Ablehnung der Freischankfläche) und neue Entscheidung
+- TOP .3.: NACHTRAG: ?Zwickl Gastro?, Dreifaltigkeitsplatz 2: Erweiterung einer bestehenden Freischankfläche
+- TOP .4.: NACHTRAG: ?Brasserie L'Atelier Art & Vin?, Westenriederstraße 43: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: ?Stadtlesen? vom 03.-06.10.2013, Odeonsplatz
+- TOP .2.: "Kunsthandwerkermarkt" vom 01.-04.08.2013, Sendlinger-Tor-Platz
+- TOP .3.: Informationsveranstaltung ?Demokratie-Lab? am 24.07.2013, Rindermarkt
+- TOP .4.: ?Sommerfest mit Lesungen? am 25.07.2013, Salvatorplatz
+- TOP .5.: Oktoberfest Wiesnzüge 2013
+- TOP .6.: Informationsveranstaltung DLRG OV Oberschleißheim am 14.12.2013, Odeonsplatz
+- TOP .7.: Bayerisches Genussfestival vom 02.08.-04.08.2013, Odeonsplatz
+- TOP .8.: Kirchenzug zum Gärtnerjahr 2013 am 06.08.2013, Innenstadt
+- TOP .9.: Aufklärungskampagne ?Kinder haften für Ihre Eltern? am 30.07.2013, Richard-Strauss-Brunnen
+- TOP .10.: NACHTRAG: Veranstaltung zur Städtepartnerschaft / Wahlen in Zimbabwe am 31.07.2013, Odeonsplatz
+- TOP .11.: NACHTRAG: Isarinselfest vom 06.-08.09.2013
+- TOP .1.: Bürgeranliegen: Zebrastreifen Überquerung Frauenhoferstraße/Zwingerstraße
+- TOP .2.: UA: ?Isar-Boulevard? im Stadtbezirk 1
+- TOP .3.: Bürgeranliegen: Parksituation Jakobsplatz/Oberanger 9
+- TOP .1.: NACHTRAG: Projektplanung: Gebäudevorfahrt für die Linde AG, Klosterhofstraße
+- TOP .1.: Baumfällung Maximilianstraße 58
+- TOP .2.: Antrag des BA 11: Benennung von Straßen und Wegen in Grünzügen
+- TOP .3.: Mehr Aufenthaltsqualität in der Prälat-Zistl-Straße, Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 08-14/V 10123
+- TOP .1.: UA: Schreiben an das Kulturreferat bzgl. des Kunstaktion ?A space called public?
+- TOP .1.: (E) Budget der Bezirksausschüsse Afrikanischer Ältestenrat München e.V. Beitrag des Afrikanischen Ältestenrat zum Jacobi-Fest am 21.07.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative Ballett "Die 3 Delirien" Aufführung des Balletts "Die 3 Delirien" am 04.08.2013
+- TOP .1.: Beschlussvorschlag zur Bildung des Ferienausschusses 2013
+- TOP .2.: Sitzungstermine 2014
+- TOP .3.: Oktoberfestbesuch 2013 ? Benennung eines Wunschtermins und zweier Ersatztermine
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Schreiben an das Wahlamt bzgl. der Barrierefreiheit von Wahllokalen im Stadtbezirk 1
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Demografiebericht München ? Teil 2, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 0.3.: Umstrukturierung der Betriebsflächen der Paulaner Brauerei, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 0.4.: Schreiben des KVR und Baugenehmigung Freischankfläche Frauenplatz 2 (Augustiner Klosterwirt)
+- TOP 0.5.: Baugenehmigung Maximilianplatz 14
+- TOP 0.6.: Dokumentation der Regionalen Wohnbaukonferenz am 06.03.2013
+- TOP 0.7.: Vorstellung der neuen Teamleiterin des Teams 21, LBK
+- TOP 0.8.: Vergabeentscheidung ?Platz der Opfer des Nationalsozialismus?
+- TOP 0.9.: Wohnen in München V, Städtische Wohnbaugesellschaften (?), Beschluss der Vollversammlung des Stadtrates vom 26.06.2013, Sitzungsvorlage Nr. 08-14 / V 12310
+- TOP 0.10.: Schreiben und Baugenehmigung der LBK zum Bauvorhaben Thierschplatz 3
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: FDP-Antrag vom 16.08.2012: ?Kulturstrand am Vater-Rhein-Brunnen auch 2014?
+- TOP 0.6.: Schreiben des KVR und Baugenehmigung Freischankfläche Frauenplatz 2 (Augustiner Klosterwirt) (siehe unter B 4.4)
+- TOP 0.7.: Kunst im Öffentlichen Raum: Tanzprojekt Anna Konjetzky am 09. und 10.07.2013, Petersplatz
+- TOP 0.8.: Eilentscheidung zur Veranstaltung ?Präsentation der vier neuen Bücherbusse der Münchner Stadtbibliothek? am 19.07.2013, Marienplatz
+- TOP 0.9.: Eilentscheidung zum Straßenfest Thierschplatz/Tattenbachstraße am 20.07.2013
+- TOP 0.2.: Gefahrenbaumfällung Thierschstraße 37
+- TOP 0.3.: Radverkehr in München, Bericht zur Umsetzung und Aktualisierung von Zielen, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltausschusses vom 19.06.2013, Sitzungsvorlage Nr. 08-14/V 12242
+- TOP 0.4.: Begegnungszonen/ ?Shared Space?, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.06.2013, Sitzungsvorlage Nr. 08-14/V 08124
+- TOP 0.5.: Antwortschreiben des Referats für Stadtplanung und Bauordnung zum Schreiben des BA bzgl. der Fällung dreier Platanen an der Ecke Schrammerstraße/Residenzstraße im Zuge des Baus der 2. S-Bahn-Stammstrecke
+- TOP 0.6.: Zwischennachricht des Kreisverwaltungsreferats zum BA-Antrag Nr. 08-14/B 4267: Aufnahme des Fußgängerzonenabschnitts Sendlinger Straße in den Geltungsbereich der Altstadt-Fußgängerbereiche-Satzung
+- TOP 0.7.: 2. Stammstrecke München, Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Sahn am Hauptbahnhof und Ostbahnhof,. Beschluss der Vollversammlung des Stadtrates vom 26.06.2013, Sitzungsvorlage Nr. 08-14 / V 12168
+- TOP 0.8.: Bahnknoten München, 2. Stammstrecke und ergänzende Maßnahmen (...),. Beschluss der Vollversammlung des Stadtrates vom 26.06.2013, Sitzungsvorlage Nr. 08-14 / V 111898
+- TOP 0.9.: Zwischenstand zum gegenläufigen Radfahren in der Westenriederstraße
+- TOP 0.10.: Wege zum Münchner Hofbräuhaus barrierefrei gestalten, Beschluss des Bauausschusses vom 16.07.2013, Sitzungsvorlage Nr. 08-14/V 12133
+- TOP 0.1.: Schreiben des Direktoriums ? Abteilung BA-Budget an einen Antragsteller
+- TOP 0.2.: Standortkonzept Bürgerbüros, Errichtung eines Bürgerbüros am Scheidplatz, Beschluss des Kreisverwaltungsausschusses vom 25.06.2013 (Sitzungsvorlage Nr. 08-14/V 12302)
+- TOP 0.3.: Berufliches Schulzentrum Liebherrstraße 13, Umbau und Sanierung Orthopädiewerkstätten, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 03.07.2013, Sitzungsvorlage Nr. 08-14/V12198
+- TOP 0.4.: Besetzung des Sportbeirats der Landeshauptstadt München für die Amtsperiode 2013 bis 2017, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 06.03.2013, Sitzungsvorlage Nr. 08-14/V11331
+- TOP 0.5.: Schreiben des Direktoriums zu nicht verbrauchten Restmitteln im BA-Budget
+- TOP 0.6.: Verwendungsnachweis der Gesellschaft zur Förderung des Puppenspiels für die Maßnahme ?Figurenfestival Anfänger?
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Steinsdorfstraße 13, Seite Ländstraße
