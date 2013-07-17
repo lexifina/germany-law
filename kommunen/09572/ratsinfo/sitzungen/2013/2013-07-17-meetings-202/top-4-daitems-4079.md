@@ -1,0 +1,6 @@
+# TOP 4: Gymnasium Höchstadt a. d. Aisch, Errichtung eines Ersatzneubaus
+
+- Sitzung: 40. Sitzung des Bauausschusses (2013-07-17)
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/agendaitems/4079
