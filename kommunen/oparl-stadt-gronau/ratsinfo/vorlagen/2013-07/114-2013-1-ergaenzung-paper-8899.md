@@ -1,0 +1,24 @@
+# Kanalauswechslung und Straßenumbau Spechtholtshook
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 114/2013 1. Ergänzung
+- Art: Beschlussempfehlung
+- Datum: 2013-07-17
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZauvRT8lIuO2hkUwKOdNLfI
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8899
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussempfehlung (Kanalauswechslung und Straßenumbau Spechtholtshook) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe2-DV4vCvqWnokXcVDkIGUGPMRXOxRYyZEExwdpVOI1/Beschlussempfehlung_114-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussempfehlung (Variante I 1/2 (Stand 17-01-2013)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQbJJeQLo2EgpMDILSKw6haUuajflvcY2XTTNQlGlk4O/Variante_I_1-2_-Stand_17-01-2013-.pdf
+- Anlage: Beschlussempfehlung (Variante I 2/2 (Stand 17-01-2013)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfNpO235hXfauMxlC2qUV4tXV7Tkpa93rXRImGebTyLd/Variante_I_2-2_-Stand_17-01-2013-.pdf
+- Anlage: Beschlussempfehlung (Variante I a 1/2 (Stand 24-04-2013)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWy0ffj_4v6wjEmzN3EcnccNYXfDPrsXXXQfJI9XQtQP/Variante_I_a_1-2_-Stand_24-04-2013-.pdf
+- Anlage: Beschlussempfehlung (Variante I a 2/2 (Stand 24-04-2013)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZchBMcr8DqP4CfCs-JadYOAqCEyiN2GiNErgxPHVPCdH/Variante_I_a_2-2_-Stand_24-04-2013-.pdf
+- Anlage: Beschlussempfehlung (Antrag Anlieger vom 16.04.2013) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaG8dngyvGKZAQkXgdr2kDAUWlPDf079VwdJHW9NT8QY/Antrag_Anlieger_vom_16.04.2013.pdf
+- Anlage: Beschlussempfehlung (Regelquerschnitt (Stand 24-04-2013)) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRP-NPDzj8eLMrsHhOjOZJoXbEX9BpCysixY6F4zlMnJ/Regelquerschnitt_-Stand_24-04-2013-.pdf
+- Anlage: Beschlussempfehlung (Lageplan Erschließungsanlagen) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYqgX-SW6bgnhrjyTsN1hhygtsEEA9Bf10Zt74fd4VxM/Lageplan_Erschliessungsanlagen.pdf
+- Anlage: Beschlussempfehlung (Zusammenstellung Kosten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZ8-0rC9O8aJ5RH0lSSQlVC627mwxB8FKTjLhdKxT0T/Zusammenstellung_Kosten.pdf
+- Anlage: Beschlussempfehlung (Antrag Anlieger vom 28.04.2013) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXsXGL2kymp60dPYJ_q1wBH27lfO6TlCtCFwDOno2jWT/Antrag_Anlieger_vom_28.04.2013.pdf
+- Anlage: Beschlussempfehlung (Anlage Stellungnahme EGW) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUsuhBXC0oe6-MfmBor3fcijjYpmwv1z7m4vfkEZf11l/Anlage_Stellungnahme_EGW.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2674 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-108
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2520 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2653 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-108
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2522 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
