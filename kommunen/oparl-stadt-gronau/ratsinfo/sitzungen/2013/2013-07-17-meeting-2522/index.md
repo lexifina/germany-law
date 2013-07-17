@@ -1,0 +1,68 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2013-07-17T18:00:00+02:00
+- Ende: 2013-07-17T22:57:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZd3Qx8joWzd0mAlkugYMJb8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2522
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT_KPZzTVper-B1dUFqIlymxHv1ICFtSECaEHpVP0-Gg/Bekanntmachung_Rat_17.07.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYhujqYg9Ja_II5d8vl4fVLOWRQsqVA2mm1OsHq4Cmsq/Oeffentliche_Niederschrift_Rat_17.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.06.2013
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Umwandlung des Geländes Beckerhookstraße 84 für Wohnbebauung; Antrag der CDU-Fraktion vom 11.06.2013 - Einstimmig, 0 Enthaltungen
+- TOP 4.: Budgetsteigerungen 2013 bei den Aufwendungen für Sach- und Dienstleistungen Analyseauftrag und Anbringung eines Teilsperrvermerks (Ratsbeschluss vom 17.04.2013) - 15 Jastimmen, 21 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 1 Enthaltungen
+- TOP 6.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 3. Entlastung des Geschäftsführers - Ohne Abstimmung
+- TOP 7.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 4. Entlastung der Mitglieder des Aufsichtsrates - Ohne Abstimmung
+- TOP 8.: Jahresabschluss 2012 der rock´n popmuseum GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 1 Enthaltungen
+- TOP 9.: Jahresabschluss 2012 der rock´n popmuseum GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2012 der rock´n popmuseum GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2012 der Kulturbüro Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jahresabschluss 2012 der Kulturbüro Gronau GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2012 der Kulturbüro Gronau GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 14.: Beteiligungsrichtlinien und Gesamtabschlussrichtlinien der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Anträge der Fraktion Pro! Bürgerschaft - Einstimmig, 0 Enthaltungen
+- TOP 16.: Resolution auf Antrag der GAL zur Uranlagerung an der Gronauer Urananreicherungsanlage - 2 Jastimmen, 30 Neinstimmen, 3 Enthaltungen
+- TOP 16.1: Finanzielle Auswirkungen bei Einbruch von Steuererträgen - Ohne Abstimmung
+- TOP 17.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau für den öffentlichen Verkehr hier: Zum Hovesaatstein; Annette-von-Droste-Hülshoff-Ring; Rüschhausweg - Einstimmig, 0 Enthaltungen
+- TOP 18.: 90. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich: Schwartenkamp/Tieker Damm, Stadtteil Gronau Bebauungsplan Nr. 148 "'Schwartenkamp/Tieker Damm", Stadtteil Gronau 1. Aufhebung des Aufstellungsbeschlusses vom 18.02.2009 2. Erneuter Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB 4. Beteiligung der Behörden gemäß § 4 Abs. 1 BauGB - 23 Jastimmen, 13 Neinstimmen, 0 Enthaltungen
+- TOP 19.: Zum Hovesaatstein und 1. BA Annette-von-Droste-Hülshoff-Ring Genehmigung des Ausbauprogramms - Einstimmig, 1 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 227 III „Industrie- und Gewerbepark Am Berge – Teilbereich III", Stadtteil Epe 1. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB für den Bebauungsplanvorentwurf 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB für Entwurf des Bebauungsplans 3. Behandlung der Stellungnahmen aus der erneuten öffentlichen Auslegung gem. § 4a Abs. 3 BauGB sowie aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4a Abs. 3 BauGB für den überarbeiten Entwurf des Bebauungsplans 4. Genehmigung des Vertrages über die Kompensation von Eingriffen in Natur und Landschaft zwischen der Stiftung Kulturlandschaft Kreis Borken und der Stadt Gronau 5. Satzungsbeschluss für den Bebauungsplan - 34 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 21.: Bebauungsplan Nr. 157 "Overdinkelstraße", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bebauungsplan Nr. 28 "Lukas-Krankenhaus", 1. Änderung und Ergänzung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss 4. Berichtigung des Flächennutzungsplans - Einstimmig, 1 Enthaltungen
+- TOP 23.: Bebauungsplan Nr. 51 "Piepenpohlstraße", 1. Änderung und Ergänzung, Stadteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 24.: Bebauungsplan Nr. 208 „Buschgarten", 3. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 1 Enthaltungen
+- TOP 25.: Bebauungsplan Nr. 48 "Grünstiege", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB sowie der Behörden gem. § 4 Abs. 2 BauGB 2. Satzungsbeschluss 3. Berichtigung des Flächennutzungsplans - Einstimmig, 1 Enthaltungen
+- TOP 26.: Wahl eines Mitgliedes des Verwaltungsrates der Sparkasse Gronau zur Vertretung der Sparkasse Gronau in der Verbandsversammlung - Einstimmig, 0 Enthaltungen
+- TOP 27.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 28.: Mitteilungen der Verwaltung
+- TOP 28.1: Weiterentwicklung der Förderschulen im Kreisgebiet
+- TOP 28.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.3: Zahlung aus dem Einheitlastenausgleichgesetz u.a.
+- TOP 29.: Anfragen
+- TOP 29.1: Widerstand gegen Solidarumlage für abundante Kommunen (RM Möllers)
+- TOP 29.2: Teilnahme der Bürgermeisterin an den Informationsveranstaltungen zur künftigen Schullandschaft (RM John)
+- TOP 29.3: Gründe für die Abwanderung der Fa. KAGETEC (RM von Borczyskowski)
+- TOP 29.4: Transparente im Sitzungssaal nicht erlaubt? (RM Wagner)
+- TOP 29.5: Tausch der Anne-Frank-Schule bislang kein Gremienthema (1. Stellv. d, BM Doetkotte)
+- TOP 29.6: Sachstand zum Grundstück neben der Arbeitsagentur an der Zollstraße (1. Stellv. d. BM Doetkotte)
+- TOP 29.7: Wird der Standort Kreisberufsschule als Teilstandort der Gesamtschule verwaltungsseitig geprüft? (RM Gabbe)
+- TOP 29.8: Planungen für die Sporthalle an der Anne-Frank-Schule (RM Gabbe)
+- TOP 29.9: Vergaberichtlinien für die WTG (RM Gabbe)
+- TOP 29.10: Wann ist Stadtverwaltung Gronau zertifiziert mittelstandsfreundlich? (RM Gabbe)
+- TOP 29.11: Probleme mit Baugrenzen bei einem Bauprojekt Königstraße/Ecke Losserstraße (RM Hönerlage)
+- TOP 29.12: Was ist seit dem runden Tisch in Sachen Einkaufszentrum passiert? (RM Buchholz)
+- TOP 29.13: Unfall auf der B 54n zwischen Goorbach und Anschlussstelle A 31 (RM Buchholz)
+- TOP 29.14: Einladungen an die Ratsmitglieder zeitnah weiterleiten (RM Buchholz)
+- TOP 29.15: Elternbefragung zur Entwicklung der Gesamtschule und der Sekundarschule (RM Pieper)
+- TOP 29.16: Vertraulichkeit, Integrität und Seriösität der Ratsmitglieder (RM Lüttikhuis)
+- TOP 29.17: Welche nichtöffentlichen Informationen verbreitet die FDP-Fraktion? (RM Schwartze)
