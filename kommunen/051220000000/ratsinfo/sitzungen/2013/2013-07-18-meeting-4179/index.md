@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-07-18T17:00:00+02:00
+- Ende: 2013-07-18T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWv639aTEjzSptY_0q4fbfI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4179
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZEpILQmvNgyJEDD0Lza9bzzs19qZGvKobw6_Ln8HeQX/Oeffentliche_Niederschrift_Rat_18.07.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 27. Sitzung des Rates am 16.05.2013
+- TOP 3: Vorschlag für die En-bloc-Abstimmung
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Entsendung eines Vertreters in den Vorstand des Bergisch-Rheinischen Wasserverbandes sowie Benennung eines Stellvertreters
+- TOP 6: Abberufung eines Prüfers beim Revisionsdienst
+- TOP 7: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 8: Entwurf des Jahresabschlusses 2012
+- TOP 9: Einbringung des Haushalts 2014
+- TOP 10: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen - GmbH
+- TOP 11: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen GmbH
+- TOP 12: Parkraumbewirtschaftung
+- TOP 13: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2012 und Lagebericht 2012
+- TOP 14: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2012 und Lagebericht 2012
+- TOP 15: Verschmelzung der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG auf die Wirtschaftsförderung Solingen GmbH & Co. KG sowie
+- TOP 16: Gründung der Klinikum Solingen Veranstaltung GmbH
+- TOP 17: Zentrum für verfolgte Künste GmbH
+- TOP 18: Umsetzung des Betreuungsgeldgesetzes in NRW
+- TOP 19: Umsetzung des Betreuungsgeldgesetzes in NRW
+- TOP 20: Schulentwicklungsplanung
+- TOP 21: Bildung für nachhaltige Entwicklung
+- TOP 22: KWK-Modellkommune 2012 - 2017
+- TOP 23: Klimaschutzteilkonzept Erneuerbare Energien
+- TOP 24: Klimaschutzteilkonzept Erneuerbare Energien
+- TOP 25: Klimaanpassungskonzept
+- TOP 26: Klimaanpassungskonzept
+- TOP 27: Einspruch gemäß § 57 Abs. 4 Gemeindeordnung NRW
+- TOP 28: Schienenpersonennahverkehr – Regionalbahn RB 47
+- TOP 29: Bauleitplanung Friedenstraße/Höhscheider Straße
+- TOP 30: Bauleitplanung Werderstraße
+- TOP 31: Denkmalbereichssatzung Unterburg
+- TOP 32: Denkmalbereichssatzung Unterburg
+- TOP 33: Anbindung der Gewerbegebiete Scheuren und Schmalzgrube
+- TOP 34: Internetübertragung der Ratssitzungen
+- TOP 35: Verschiedenes
+- TOP 36: Information über den Einsatz von Löschschaum
+- TOP 37: Livestreamübertragung von Ratssitzungen ins Internet
+- TOP 38: Servicecenter der Stadt Solingen
+- TOP 39: Europäische Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene
+- TOP 40: Tätigkeitsbericht des Seniorenbeirats der Stadt Solingen
+- TOP 41: Einführung einer Vermögensteuer auf hohe Einkommen
+- TOP 42: Kommunale Finanzen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 27. Sitzung des Rates am 16.05.2013
+- TOP 3: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen - GmbH
+- TOP 4: Konzessionierungsverfahren Strom der Stadt Solingen für die Stadtteile Burg und Höhrath
+- TOP 5: Prüfung der Jahresrechnung 2011 der Eheleute-Carl-Ruß-Stiftung
+- TOP 6: Prüfung der Jahresrechnung 2012 der Eheleute-Carl-Ruß-Stiftung
+- TOP 7: Denkmalbereichssatzung Unterburg
+- TOP 8: Verschiedenes
+- TOP 9: Hilfen für Flüchtlinge - hier: Krankenhilfe
+- TOP 10: Sachstand der Veräußerung ungenutzter städtischer Grundstücke
+- TOP 11: Bauleitplanung Betriebshof Wuppertaler Straße
