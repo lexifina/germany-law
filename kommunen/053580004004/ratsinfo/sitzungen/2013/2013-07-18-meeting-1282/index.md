@@ -1,0 +1,56 @@
+# Gemeinderat (25. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2013-07-18T18:05:00+02:00
+- Ende: 2013-07-18T21:32:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX4WyUPBOh7ibxfEO47QVRQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1282
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaf253u5CAkYZQtlKwRncz1PpZO5-kRzlzE9x05IJ1IK/Bekanntmachung_Gemeinderat_18.07.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTW1z1mc3SZ7mZnOumkW1MW2gfyLqHulxDz8eeQeErjx/Oeffentliche_Niederschrift_Gemeinderat_18.07.2013.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.06.2013 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Eintragung der "Via Belgica" als ortsfestes Bodendenkmal gem. §3 Abs. 2 DSchG in die Denkmalliste der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Aufstellung des Landschaftsplans Aldenhoven / Linnich-West hier: Beteiligung der Träger öffentlicher Belange im Rahmen der öffentlichen Auslegung des Landschaftsplans Aldenhoven / Linnich-West gemäß § 27c Abs.1 des Gesetzes zur Sicherung des Naturhaushaltes und zur Entwicklung der Landschaft (Landschaftsgesetz NRW - LG) - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Bebauungsplan 55 S - WK II - a.) Abwägung gem. § 1 VII BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 II und 4 II BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Bebauungsplan 56 N - WK III - a.) Abwägung gem. § 1 VII BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 II und 4 II BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1: Prüfung Jahresabschluss 2012 - Einstimmig, 2 Enthaltung(en)
+- TOP 4.2: Prüfung des Gesamtabschlusses für das Jahr 2010 - Einstimmig, 2 Enthaltung(en)
+- TOP 4.3: Prüfung des Gesamtabschlusses für das Jahr 2011 - Einstimmig, 2 Enthaltung(en)
+- TOP 4.4: Entlastung des Bürgermeisters für das Haushaltsjahr 2012 sowie die Entlastung für die Gesamtabschlüsse der Jahre 2010 und 2011. - Einstimmig, 2 Enthaltung(en)
+- TOP 5.: Errichtung einer gemeinsamen Gesamtschule mit der Stadt Linnich - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 6.: Neubesetzung von Ausschüssen
+- TOP 6.1: Stellvertretende Mitglieder im Bauverwaltungsausschusses und im Schul- und Sozialausschuss - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Anträge von Fraktionen
+- TOP 7.1: Antrag der SPD-Fraktion: hier: Parken in der Römerstraße, Freialdenhoven - 22 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 8.: Anregungen und Beschwerden gem. § 24 Abs. 1 GO NW
+- TOP 8.1: Verkauf des Verbindungsweges zwischen "Patterner Ring" und "Karl-Arnold-Ring" - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Satzungen, Ortsrecht
+- TOP 9.1: 8. Änderung der Hauptsatzung hier: Neufestlegung der Ortschaften und Gemeindebezirke - 12 Ja-Stimme(n), 11 Nein-Stimme(n), 1 Stimmenthaltung(en)Ratsherr Wassenhoven beantragt für die SPD-Fraktion, in der nächsten Ratssitzung die 8. Änderung der Hauptsatzung erneut auf die Tagesordnung zu setzen.
+- TOP 9.2: Änderung der Hundesteuersatzung zum 01.01.2014 / Umsetzung des Stärkungspaktgesetzes - Einstimmig, 7 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Ausführung des Haushalts
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 25.06.2013 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1: Bebauungsplan 55 S - WK II - Durchführungsvertrag zum vorhabenbezogenen Bebauungsplan 55 S - WK II - - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Bebauungsplan 56 N - WK III - Durchführungsvertrag zum vorhabenbezogenen Bebauungsplan 56 N - WK III - - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 3.1: Errichtung eines Informationspavillons an der Mansio - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Ausrichtung der Automotive Center for Industry GmbH (ACI) - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Berichte aus den Gremien
+- TOP 6.: Grundstücksangelegenheiten
+- TOP 6.1: Kaufantrag für ein landwirtschaftlich genutztes Grundstück in der Gemarkung Freialdenhoven - Einstimmig, 1 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
