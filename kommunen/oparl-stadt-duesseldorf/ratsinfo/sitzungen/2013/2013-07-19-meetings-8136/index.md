@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-07-19T16:00:00+02:00
+- Ende: 2013-07-19T17:52:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8136
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8136
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00199011.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00199011.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00199011.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Informationsvorlage Deichöffnung Urdenbacher Altrhein - zur Kenntnis genommen
+- TOP 6: Masterplan Kinderspielplätze - einstimmig beschlossen
+- TOP 7: Anfrage: Müllentsorgung - beantwortet
+- TOP 8: Anfrage: Öffentlich geförderte Wohnungen - beantwortet
+- TOP 9: Anfrage: Jugendfreizeiteinrichtung Altenbrückstr. - beantwortet
+- TOP 10: Anfrage: Toiletten Benrather Marktplatz - beantwortet
+- TOP 11: Anfrage: Fördermittel Regionalrat - beantwortet
+- TOP 12: Anfrage: altes Benrather Krankenhaus - beantwortet
+- TOP 13: Anfrage: Verkehrslärm A 46 - beantwortet
+- TOP 14: Anfrage: Radwege Hildener Straße - beantwortet
+- TOP 15: Anfrage: Mergelgasse, Beschluss der BV 9 vom 08.12.2000 - beantwortet
+- TOP 16: Anfrage: Ersatzpflanzung eines Baumes an der Hauptschule Melanchthonstraße - vertagt
+- TOP 17: Anfrage: Rollschuhbahn Kamper Acker - vertagt
+- TOP 18: Antrag: Kreuzungsbereich Further Straße - einstimmig beschlossen
+- TOP 19: Antrag: Infokasten Am Scheitenweg - einstimmig beschlossen
+- TOP 20: Antrag: Parkscheibenregelung Werstener Feld 7-11 - einstimmig beschlossen
+- TOP 21: Antrag: Informationstafel Benrath/Urdenbach - einstimmig beschlossen
+- TOP 22: Antrag: Haltestellen "Schöne Aussicht" und "Kappeler Str." - mehrheitlich beschlossen
+- TOP 23: Antrag: Fußgängerüberweg Südallee - einstimmig beschlossen
+- TOP 24: Antrag: Abrechnung der Aufwandsentschädigung - einstimmig beschlossen
+- TOP 25: Antrag:Renovierung Durchgang Parkplatz Benrath-Bahnhof-Pausmühle - mehrheitlich beschlossen
+- TOP 26: Antrag: Unterbringung von Flüchtlingen in Benrath - zurückgezogen
+- TOP 27: Antrag: Jeder muss seinen Platz in unserer Gesellschaft haben - mehrheitlich abgelehnt
+- TOP 28: Antrag: Behindertengerechte Toilette Marktplatz Benrath - einstimmig beschlossen
+- TOP 29: Antrag: Errichtung einer behindertengerechten Toilette auf dem Marktplatz Benrtath - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen - mehrheitlich beschlossen
+- TOP 31: Antrag: Verfügungsmittel Feuer- und Rettungswache 7 - mehrheitlich beschlossen
+- TOP 32: Antrag: Verfügungsmittel Stephanuskirche Düsseldorf - mehrheitlich beschlossen
+- TOP 33: Antrag: Verfügungsmittel Chorverband Düsseldorf e.V. - mehrheitlich beschlossen
+- TOP 34: Antrag: Verfügungsmittel VFL Benrath 06 - mehrheitlich beschlossen
+- TOP 35: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V. - mehrheitlich beschlossen
+- TOP 36: Antrag: Verfügungsmittel Kath. Kirchenchor St. Cäcilia/Herz-Jesu Urdenbach - mehrheitlich beschlossen
