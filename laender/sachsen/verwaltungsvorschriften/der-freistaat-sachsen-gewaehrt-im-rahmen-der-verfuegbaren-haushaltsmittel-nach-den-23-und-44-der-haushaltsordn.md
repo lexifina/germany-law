@@ -1,8 +1,8 @@
 # Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel nach den §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung – SäHO) in der Fassung der Bekanntmachung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2012-02-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12221.1
+- Datum: 2013-07-19 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12858.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -15,28 +15,16 @@ Rechtsgrundlage, Zuwendungszweck
 1.
 
 Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel nach den §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
-SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 388) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (
-VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), zuletzt geändert durch Verwaltungsvorschrift vom 22. Dezember 2011 (SächsABl. 2012 S. 49), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), in der jeweils geltenden Fassung, auf Antrag Zuwendungen nach Maßgabe dieser Richtlinie.
+SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 13. Dezember 2012 (SächsGVBl. S. 725) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (
+VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), zuletzt geändert durch Verwaltungsvorschrift vom 2. Mai 2013 (SächsABl. S. 520), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), in der jeweils geltenden Fassung, auf Antrag Zuwendungen nach Maßgabe dieser Richtlinie.
 
 2.
 
-Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikels 107 Abs. 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) in der konsolidierten Fassung vom 30. März 2010 (ABl. Nr. C 83 vom 30.3.2010, S. 47) handelt, werden sie entweder
-
-–
-
-nach der Verordnung (EG) Nr. 800/2008 der Kommission vom 6. August 2008 zur Erklärung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Gemeinsamen Markt in Anwendung der Artikel 87 und 88
-EG-Vertrag (allgemeine Gruppenfreistellungsverordnung – AGVO) (ABl. EU Nr. L 214 vom 9.8.2008, S. 3) oder
-
-–
-
-nach der Verordnung (EG) Nr. 1998/2006 der Kommission vom 15. Dezember 2006 über die Anwendung der Artikel 87 und 88
-EG-Vertrag auf „De-minimis“-Beihilfen (ABI. EU Nr. L 379 vom 28.12.2006, S. 5)
-
-sowie nach deren jeweiligen Nachfolgeregelung gewährt.
+Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne von Artikel 107 Abs. 1 des Vertrags über die Arbeitsweise der Europäischen Union handelt, werden sie nach Maßgabe der hierfür geltenden beihilferechtlichen Vorschriften für Dienstleistungen von allgemeinem wirtschaftlichen Interesse gewährt.
 
 3.
 
-Zuwendungszweck ist die Verbesserung der Energieeffizienz von bestehenden, innerstädtischen Wohngebäuden auf der Basis einer energetischen Bewertung analog der Richtlinie des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) über die Förderung der Beratung zur sparsamen und rationellen Energieverwendung in Wohngebäuden vor Ort (Vor-Ort-Beratung) vom 10. September 2009 (BAnz. Nr. 144 S. 3360) in der jeweils geltenden Fassung.
+Zuwendungszweck ist die Verbesserung des Wohnungsangebots in innerstädtischen Bereichen durch Anpassung vorhandener Gebäude an geänderte Wohnbedürfnisse unter Berücksichtigung der demografischen Veränderungen. Es werden Baumaßnahmen in Gebäuden gefördert, die geeignet sind, die Wohnsituation von Menschen mit Behinderungen und Familien und somit verschiedenen Generationen zu verbessern. Im Ausnahmefall ist auch die Förderung von Neubauten möglich.
 
 4.
 
@@ -48,67 +36,93 @@ Gegenstand der Förderung
 
 1.
 
-Gefördert wird die Durchführung von energetischen Sanierungsmaßnahmen an Wohngebäuden auf der Basis einer energetischen Bewertung. Gefördert wird im Einzelfall auch die Umnutzung von nicht dem Wohnen dienenden Gebäuden zu Wohngebäuden, die überwiegend dem Wohnen dienen sollen. Förderfähig sind insbesondere folgende investive Maßnahmen:
+Gegenstand der Förderung sind investive Maßnahmen des barrierereduzierenden Bauens zum Umbau von Wohnungen in bestehenden Gebäuden. Ausgeschlossen ist die Förderung von Einrichtungen, die dem Gesetz zur Regelung der Betreuungs- und Wohnqualität im Alter, bei Behinderung und Pflegebedürftigkeit im Freistaat Sachsen (Sächsisches Betreuungs- und Wohnqualitätsgesetz –
+SächsBeWoG) vom 12. Juli 2012 (SächsGVBl. S. 397), in der jeweils geltenden Fassung, unterliegen.
 
-1.1
-
-zur Verbesserung der Wärmedämmung insbesondere
-
-a)
-
-der Außenwände, Fenster und Hauseingangstüren,
-
-b)
-
-des Daches und der obersten Geschossdecken,
-
-c)
-
-der Kellerdecke, der Bodenplatte oder der erdberührenden Außenflächen beheizter Räume,
-
-1.2
-
-zur Nutzung erneuerbarer Energien insbesondere
+Förderfähig sind nur folgende investive Maßnahmen in einer Wohnung, in einem Wohngebäude oder im Wohnumfeld:
 
 a)
 
-Solarthermische Anlagen,
+der Einbau von bedarfsgerechten und gebäudeangepassten Aufzügen,
 
 b)
 
-Biomasseanlagen,
+die Anpassung von Grundrissen im Wohngebäude,
 
 c)
 
-Wärmepumpen zur Nutzung von Geothermie und Umweltwärme,
+die bauliche Veränderung zur Schaffung von Gemeinschaftsräumen im Wohngebäude, zum Beispiel auch für eine Mehrzwecknutzung, etwa als Familien- und Begegnungszentrum oder für einen Gesundheits- und Sozialservice,
 
-1.3
+d)
 
-zur Verbesserung der Effizienz der Energienutzung insbesondere
+der Anbau von neuen Balkonen und die Erweiterung vorhandener Balkone,
 
-a)
+e)
 
-Austausch von Kohle-, Öl-, Gas- oder Nachtspeicherheizungen durch Brennwert-Zentralheizungsanlagen, soweit sie nicht einer gesetzlichen Austauschpflicht unterliegen,
+der Einbau von Notrufanlagen, Wechselsprechanlagen und automatischen Türöffnern,
 
-b)
+f)
 
-energieeffiziente Lüftungsanlagen gemäß DIN 1946 T6 (Wärmebereitstellungsgrad von mindestens 80 Prozent, Leistungsaufnahme der Ventilatoren maximal 0,45 W/m³*h-1,
+bauliche Veränderungen im Sanitär- und Küchenbereich,
 
-c)
+g)
 
-Anlagen zur Kraft-Wärme-Kopplung.
+das Anpassen der Schalter für elektrische Anlagen und Einrichtungen, wie zum Beispiel Licht und Jalousien,
 
-Windenergie- und Photovoltaikanlagen sind nicht förderfähig. Auch Einzelfeuerstätten mit einem Wirkungsgrad unter 85 Prozent werden nicht gefördert.
+h)
+
+die Anpassung von Türen und das Entfernen von Schwellen und Treppen,
+
+i)
+
+die Schaffung von Rollstuhl- und Kinderwagenabstellplätzen,
+
+j)
+
+die Schaffung geeigneter Zugänge zu den Gebäuden, Wohnungen, Nebenräumen, wie Kellern und gemeinschaftlich genutzten Räumen, wie Trockenräumen, Waschhäusern und Abstellräumen,
+
+k)
+
+die bedarfsgerechte bauliche und gestalterische Anpassung des unmittelbaren Wohnumfeldes auf dem Grundstück des Eigentümers, zum Beispiel Schaffung von Kinderspielbereichen, Begegnungsflächen und ähnliches.
+
+Ein Fördervorhaben muss mindestens drei der genannten Einzelmaßnahmen beinhalten.
 
 2.
 
-Für die technische und wirtschaftliche Bauberatung und -betreuung wird ein Zuschuss gewährt.
+Gegenstand der Förderung sind alternativ zu Nummer 1 die Maßnahmen des barrierefreien Bauens zum Umbau von Wohnungen oder zur Errichtung von Wohnungen in bestehenden Gebäuden gemäß DIN 18040-2, soweit diese gemäß der Bekanntmachung des Sächsischen Staatsministeriums des Innern über die Liste der eingeführten Technischen Baubestimmungen (
+LTB) vom 12. April 2012 (SächsABl. SDr. S. S 162), geändert durch Bekanntmachung vom 9. Juli 2012 (SächsABl. S. 915), in der jeweils geltenden Fassung, eingeführt worden ist. Maßnahmen gemäß DIN 18040-2, die nicht gemäß LTB eingeführt wurden, sind ebenfalls förderfähig, jedoch zu den Bestimmungen, die für die Maßnahmen nach Satz 1 gelten. Die bestehenden Gebäude können vor der Durchführung der geförderten Baumaßnahmen für andere als Wohnzwecke genutzt worden sein.
+
+Gegenstand der Förderung können investive Baumaßnahmen gemäß DIN 18040-2 in Wohnungen und Gebäuden im Rahmen der Neuerrichtung eines Wohngebäudes sein, sofern dieser Förderung das Staatsministerium des Innern schriftlich vorab zugestimmt hat. Die Neubauvorhaben müssen, unbeschadet der übrigen Zuwendungs- und Fördervoraussetzung nach dieser Vorschrift, einem städtebaulich sinnvollen Lückenschluss oder der Beseitigung von Brachflächen dienen.
+
+3.
+
+Gegenstand der Förderung können nur Baumaßnahmen sein, die über die Anforderungen der Sächsischen Bauordnung (
+SächsBO) vom 28. Mai 2004 (SächsGVBl. S. 200), zuletzt geändert durch Artikel 23 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 142), in der jeweils geltenden Fassung, für Gebäude mit mehr als zwei Wohnungen (§ 50 Abs. 1
+SächsBO) hinausgehen.
 
 III.
 
 Zuwendungsempfänger
 
-Empfänger der Zuwendung ist der Eigentümer des Gebäudes oder einer Wohnung.
+Empfänger der Zuwendung sind
+
+1.
+
+Eigentümer eines Grundstücks mit bestehendem Wohngebäude oder
+
+2.
+
+Eigentümer einer oder mehrerer Wohnungen in einem bestehenden Wohngebäude oder
+
+3.
+
+Eigentümer eines Grundstücks, das mit einem Gebäude bebaut ist, welches zum Wohngebäude umgebaut werden soll, oder
+
+4.
+
+Eigentümer eines Grundstücks, das mit einem Wohngebäude bebaut werden soll.
+
+Unter einem Wohngebäude ist ein Gebäude zu verstehen, das nach seiner Zweckbestimmung überwiegend dem Wohnen dient.
 
 IV.
 
@@ -117,138 +131,168 @@ Zuwendungsvoraussetzungen
 1.
 
 Die Förderung erfolgt in Gemeinden mit Funktionen eines Ober- oder Mittelzentrums gemäß der Verordnung der Sächsischen Staatsregierung über den Landesentwicklungsplan Sachsen (
-LEP 2003) vom 16. Dezember 2003 (SächsGVBl. S. 915), in der jeweils geltenden Fassung, und Grundzentren gemäß den jeweiligen Regionalplänen der Regionalen Planungsverbände in der jeweils geltenden Fassung. Die zuständige Gemeinde muss bestätigen, dass das Vorhaben
+LEP 2003) vom 16. Dezember 2003 (SächsGVBl. S. 915) in der jeweils geltenden Fassung und eines Grundzentrums gemäß den jeweiligen Regionalplänen der Regionalen Planungsverbände in der jeweils geltenden Fassung. Die zuständige Gemeinde muss bestätigen, dass das Wohngebäude zum Zeitpunkt der Antragstellung in einem
 
 a)
 
-zum Zeitpunkt der Antragstellung in einem Gebiet liegt, das nach dem städtebaulichen Entwicklungskonzept als integrierte Lage ausgewiesen ist oder
+Sanierungsgebiet gemäß § 142 des
+Baugesetzbuches (
+BauGB) in der Fassung der Bekanntmachung vom 23. September 2004 (BGBl. I S. 2414), das zuletzt durch Artikel 1 des Gesetzes vom 11. Juni 2013 (BGBl. I S. 1548) geändert worden ist, oder
 
 b)
 
-den demographischen und wohnungspolitischen Zielsetzungen der Gemeinde entspricht.
-
-2.
-
-Das für die Sanierung vorgesehene Gebäude muss älter als 2 Jahre sein.
-
-3.
-
-Voraussetzung ist eine energetische Bewertung des Wohngebäudes und der Heizungsanlage nach der Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik bei Gebäuden (
-Energieeinsparverordnung –
-EnEV) vom 24. Juli 2007 (BGBl. I S. 1519), geändert durch Artikel 1 der Verordnung vom 29. April 2009 (BGBl. I S. 954), in der jeweils geltenden Fassung. Die Bewertung muss den Ist-Zustand darstellen, Sanierungsmaßnahmen aufzeigen und eine Berechnung der erzielbaren Energieeinsparungen beinhalten. Die empfohlenen Sanierungsmaßnahmen müssen in einer unter energetischen und bauphysikalischen Gesichtspunkten sinnvollen Reihenfolge durchgeführt werden. Die energetische Bewertung muss durch eine nach § 21
-EnEV ausstellungsberechtigte Person erfolgen.
-
-4.
-
-Die energetische Bewertung darf zum Zeitpunkt der Antragstellung nicht älter als drei Jahre sein. Sie muss auf der Grundlage der Anforderungen der zum Zeitpunkt der Antragstellung geltenden Fassung der
-Energieeinsparverordnung erfolgen. Bereits durchgeführte Energiesparmaßnahmen sind nicht förderfähig.
-
-5.
-
-Nach der energetischen Sanierung müssen die Anforderungen des § 9
-EnEV übertroffen werden. Für Einzelanlagen nach Ziffer II Nr. 1.2 sind die Anteile aus § 5 des Gesetzes zur Förderung Erneuerbarer Energien im Wärmebereich (
-Erneuerbare-Energien-Wärmegesetz –
-EEWärmeG) vom 7. August 2008 (BGBl. I S. 1658), das durch Artikel 2 Abs. 68 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3051) geändert worden ist, sowie die technischen Mindestanforderungen aus der Anlage Nr. I, II beziehungsweise III
-EEWärmeG einzuhalten und durch einen Nachweis gemäß § 10
-EEWärmeG zu belegen. Erträge aus Photovoltaik-Anlagen dürfen für die Jahresbilanz der Anlagen nach Ziffer II Nr. 1.2 Buchst. c nicht berücksichtigt werden.
-
-6.
-
-Die Gesamtbelastung aus der Finanzierung und den sonstigen Aufwendungen muss auf Dauer tragbar erscheinen.
-
-7.
-
-Nach der Verordnung (EG) Nr. 1998/2006 ist die Gewährung von „De-minimis“-Beihilfen in den in Artikel 1 der Verordnung genannten Bereichen ausgeschlossen.
-
-V.
-
-Art, Umfang und Höhe der Zuwendung
-
-1.
-
-a)
-
-Zuwendungsart:
-
-Projektförderung
-
-b)
-
-Finanzierungsart:
-
-Anteilsfinanzierung bis zu einer Höchstgrenze
+Erhaltungsgebiet gemäß § 172 Abs. 1 Nr. 1
+BauGB oder
 
 c)
 
-Form der Zuwendung:
-
-öffentliches Darlehen
+Maßnahmegebiet Stadtumbau gemäß § 171b
+BauGB mit Schwerpunkt Aufwertung oder
 
 d)
 
-Höhe der Zuwendung:
-
-bis zu 90 Prozent der unmittelbar durch förderfähige Maßnahmen im Sinne von Ziffer II entstandenen Ausgaben einschließlich der Baunebenkosten, aber maximal 50 000 EUR je Wohneinheit eines geförderten Gebäudes. Die Darlehenshöhe muss mindestens 5 000 EUR betragen.
+Maßnahmegebiet Soziale Stadt gemäß § 171e
+BauGB oder
 
 e)
 
-Höhe der Zinsen:
+durch das Staatsministerium des Innern bestätigten Gebiet aufgrund der Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Durchführung und Förderung von Maßnahmen der nachhaltigen Stadtentwicklung und der Revitalisierung von Brachflächen zur Umsetzung des Operationellen Programms des Freistaats für den Europäischen Fonds für regionale Entwicklung in der Förderperiode 2007 bis 2013 (
+VwV Stadtentwicklung 2007 bis 2013) vom 20. Mai 2008 (SächsABl. S. 879), zuletzt geändert durch Verwaltungsvorschrift vom 20. März 2012 (SächsABl. S. 482), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), sowie deren Nachfolgeregelungen liegt und den demografischen und wohnungspolitischen Zielsetzungen der Gemeinde entspricht. Die Förderung von investiven Baumaßnahmen in Gebäuden außerhalb der benannten Gebiete nach Buchstabe a bis e erfolgt nur, wenn die zuständige Gemeinde gemäß Satz 1 bestätigt, dass das Gebäude nach dem städtebaulichen Entwicklungskonzept von städtebaulichem Interesse ist und den demografischen und wohnungspolitischen Zielsetzungen der Gemeinde entspricht.
 
-vom 1. bis zum 25. Jahr: 1,0 Prozent pro Jahr
+2.
 
-f)
+Gebäude gemäß Ziffer III Nr. 1, 2 und 3 müssen älter als zehn Jahre sein.
 
-Tilgungsfreie Zeit:
+3.
 
-bis zu einem Jahr ab Bewilligung
+Die Gesamtbelastung aus der Finanzierung und den sonstigen Aufwendungen muss auf Dauer tragbar erscheinen. Hierbei sind neben den Finanzierungskosten auch die Folgekosten für den Eigentümer zu berücksichtigen.
 
-g)
+4.
+
+Dem Vorhaben dürfen öffentlich-rechtliche Vorschriften nicht entgegenstehen, insbesondere dürfen Fördermaßnahmen für genehmigungspflichtige Baumaßnahmen an Kulturdenkmalen gemäß § 12 des Gesetzes zum Schutz und zur Pflege der Kulturdenkmale im Freistaat Sachsen (Sächsisches Denkmalschutzgesetz –
+SächsDSchG) vom 3. März 1993 (SächsGVBl. S. 229), das zuletzt durch Artikel 11 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 140) geändert worden ist, in der jeweils geltenden Fassung, nur bei Vorliegen der entsprechenden Genehmigung bewilligt und durchgeführt werden.
+
+5.
+
+Sofern aufgrund der geförderten Baumaßnahmen der Anwendungsbereich der Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik bei Gebäuden (
+Energieeinsparverordnung –
+EnEV) vom 24. Juli 2007 (BGBl. I. S. 1519), zuletzt geändert durch Artikel 4 des Gesetzes vom 5. Dezember 2012 (BGBl. I. S. 2449, 2452), in der jeweils geltenden Fassung, eröffnet ist, müssen deren Anforderungen übertroffen werden.
+
+6.
+
+Bei der Umsetzung der Maßnahmen gemäß Ziffer II Nr. 1 sind die technischen Mindestanforderungen gemäß Anlage einzuhalten. Bei der Umsetzung der Maßnahmen gemäß Ziffer II Nr. 2 sind für die jeweilige Baumaßnahme die bauaufsichtlich eingeführten Teile der DIN 18040-2 einzuhalten.
+
+7.
+
+Eine Förderung nach dieser Vorschrift ist für Maßnahmen des barrierefreien Bauens gemäß DIN 18040-2 in Wohnungen und Gebäuden im Rahmen der Neuerrichtung eines Wohngebäudes ausgeschlossen, wenn auf dem Grundstück, auf dem das Gebäude neu errichtet werden soll, ein Gebäude mit Mitteln des Freistaats Sachsen rückgebaut wurde.
+
+V.
+
+Art und Umfang, Höhe der Zuwendung
+
+1.
+
+Förderung von Baumaßnahmen des barrierereduzierenden Bauens gemäß Ziffer II Nr. 1:
+
+a)
+
+Zuwendungsart: Projektförderung durch öffentliches Darlehen
+
+b)
+
+Finanzierungsart: Anteilsfinanzierung bis zu einer Höchstgrenze
+
+c)
+
+Höhe der Zuwendung: bis zu 75 Prozent der unmittelbar für die förderfähigen Maßnahmen im Sinne von Ziffer II entstandenen Ausgaben einschließlich der Baunebenkosten, aber maximal 50 000 EUR je Wohneinheit oder Gemeinschaftsraum eines geförderten Wohngebäudes. Die Förderhöhe errechnet sich aus der Anzahl der vorhandenen Wohneinheiten nach Maßnahmebeginn.
+
+2.
+
+Förderung von Baumaßnahmen des barrierefreien Bauens gemäß Ziffer II Nr. 2:
+
+a)
+
+Zuwendungsart: Projektförderung durch öffentliches Darlehen
+
+b)
+
+Zuwendungshöhe: Festbetragsfinanzierung für folgende förderfähige Baumaßnahmen:
+
+aa)
+
+12 900 EUR je Wohnung für alle erforderlichen Baumaßnahmen zur Herstellung der Barrierefreiheit gemäß Nummer 5 DIN 18040-2 oder
+
+bb)
+
+5 000 EUR je Wohnung für alle erforderlichen Baumaßnahmen zur Herstellung der Barrierefreiheit in Sanitärräumen gemäß Nummer 5.5 DIN 18040-2;
+
+cc)
+
+6 300 EUR je Geschoss für alle erforderlichen Baumaßnahmen zur Herstellung der Barrierefreiheit gemäß DIN 18040-2 außerhalb von Wohnungen.
+
+c)
+
+Eine Förderung nach Buchstabe b Doppelbuchst. aa kann nur erfolgen, wenn die Wohnung bereits barrierefrei entsprechend DIN 18040-2 erreichbar ist oder hierfür eine Förderung nach Buchstabe b Doppelbuchst. cc erfolgt.
+
+d)
+
+Bei mehreren Fördermaßnahmen errechnet sich die Gesamtzuwendungshöhe aus der Anzahl der Wohnungen gemäß Buchstabe b Doppelbuchst. aa und bb sowie der Geschosse nach Buchstabe b Doppelbuchst. cc nach Durchführung der Baumaßnahmen.
+
+e)
+
+Bei der Neuerrichtung von Wohngebäuden sind die Mehrkosten hinsichtlich der Schaffung der Barrierefreiheit gegenüber der konventionellen Bauweise nachzuweisen. Die Darlehenshöhe wird bei Neubaumaßnahmen bis zur Höhe der nachgewiesenen Mehrkosten, höchstens jedoch bis zur Höhe der unter Buchstabe a bis c festgelegten Beträge gewährt.
+
+3.
+
+Höhe der Zinsen vom ersten bis zum 25. Jahr: 1,0 Prozent pro Jahr
+
+4.
+
+Tilgung: annuitätisch, mindestens 2,0 Prozent pro Jahr, Tilgung des Gesamtdarlehens spätestens nach 25 Jahren
+
+5.
+
+Tilgungsfreie Zeit: bis zu einem Jahr ab Bewilligung
+
+6.
 
 Auszahlung:
 
 100 Prozent des Darlehensbetrages
 
-h)
+7.
 
-Annuitätische Tilgung:
+Die Darlehenshöhe muss mindestens 5 000 EUR betragen.
 
-mindestens 2,0 Prozent pro Jahr, Tilgung des Gesamtdarlehensbetrags spätestens nach 25 Jahren, eine Anschlussfinanzierung/Umschuldung kann bei der Sächsischen Aufbaubank – Förderbank – (SAB) beantragt werden.
+8.
 
-Die Zahlweise ist monatlich. Es kann einmal jährlich mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate eine vorzeitige teilweise Rückzahlung des Darlehens ohne Vorfälligkeitsentschädigung erfolgen. Der Sondertilgungsbetrag sollte 10 Prozent des bewilligten Darlehens, jedoch mindestens 2 000 EUR betragen. Eine vollständige Rückzahlung des Darlehens kann ebenfalls mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate ohne Vorfälligkeitsentschädigung erfolgen.
+Die Rückzahlung des Darlehens erfolgt grundsätzlich in gleich großen Tilgungsraten. Die Zahlweise ist monatlich. Es kann einmal jährlich mit einer Ankündigung von zehn Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate eine vorzeitige teilweise Rückzahlung des Darlehens ohne Vorfälligkeitsentschädigung erfolgen. Der Sondertilgungsbetrag sollte mindestens 2 000 EUR betragen. Eine komplette Rückzahlung des Darlehens kann ebenfalls mit einer Ankündigung von zehn Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate ohne Vorfälligkeitsentschädigung erfolgen.
 
-2.
+9.
+
+Die Abruffrist beträgt zwölf Monate nach Bewilligung. Sofern der Darlehensnehmer diese Frist nicht einhält, kann durch die Bewilligungsstelle eine Verlängerung erfolgen. Für den Zeitraum der Verlängerung der Abruffrist werden für den noch nicht abgenommenen Teil der Darlehensvaluta Zinsen in Höhe des Förderdarlehens fällig. Bei Nichtabnahme des gesamten Darlehens wird für die Bereitstellung des Darlehens ein einmaliges Entgelt in Höhe von 1,0 Prozent des gesamten Darlehens, höchstens jedoch 1 000 EUR fällig.
+
+10.
 
 Zuschuss für technische und wirtschaftliche Bauberatung und -betreuung
 
 a)
 
-Zuwendungsart:
-
-Projektförderung
+Zuwendungsart: Projektförderung
 
 b)
 
-Finanzierungsart:
-
-Anteilsfinanzierung bis zu einer Höchstgrenze
+Finanzierungsart: Anteilsfinanzierung
 
 c)
 
-Form der Zuwendung:
-
-Zuschuss
+Form der Zuwendung: Zuschuss
 
 d)
 
-Höhe der Zuwendung:
+Höhe der Zuwendung: 100 Prozent der nachgewiesenen Ausgaben für technische und wirtschaftliche Bauberatung und -betreuung, jedoch maximal 1 000 EUR je gefördertes Vorhaben.
 
-100 Prozent der nachgewiesenen Ausgaben für die technische und wirtschaftliche Bauberatung und -betreuung, jedoch höchstens 1 000 EUR je gefördertem Vorhaben.
-
-Der Zuschuss wird nach Vollauszahlung des Darlehens und Durchführung der Maßnahmen nach Ziffer II zum übernächsten Fälligkeitstermin der Rate des Darlehens mit der Restschuld verrechnet.
-
-3.
-
-Die Abruffrist beträgt 12 Monate nach Bewilligung. Sofern der Darlehensnehmer diese Frist nicht einhält, kann durch die Bewilligungsstelle eine Verlängerung erfolgen. Für den Zeitraum der Verlängerung der Abruffrist werden für den noch nicht abgenommenen Teil der Darlehensvaluta Zinsen in Höhe des Förderdarlehenszinses fällig. Bei Nichtabnahme des gesamten Darlehens wird für die Bereitstellung des Darlehens ein einmaliges Entgelt in Höhe von 1,0 Prozent des gesamten Darlehens, höchstens jedoch 1 000 EUR, fällig.
+Der Zuschuss wird nach der Vollauszahlung des Darlehens und Durchführung der Maßnahmen nach Ziffer II zum übernächsten Fälligkeitstermin der Rate des Darlehens mit der Restschuld verrechnet.
 
 VI.
 
@@ -258,47 +302,65 @@ Sonstige Zuwendungsbestimmungen
 
 Vorhabensbeginn
 
-1.1
+a)
 
-Als Vorhabensbeginn ist grundsätzlich der Baubeginn oder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- und Leistungsvertrages zu werten. Planung, Baugrunduntersuchung sowie vorbereitende Erstellung von Gutachten gelten nicht als Beginn des Vorhabens. Die Durchführung und Finanzierung dieser Arbeiten bereits vor Beantragung der Zuwendung steht einer Anerkennung als zuwendungsfähige Ausgaben nicht entgegen.
+Eine Zuwendung kann nur gewährt werden, wenn das Vorhaben noch nicht begonnen worden ist. Als Vorhabensbeginn ist grundsätzlich der Baubeginn oder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- und Leistungsvertrages zu werten. Ist in einem auf die Ausführung bezogenen Vertrag ein Rücktrittsrecht für den Fall vereinbart, dass Zuwendungen nicht gewährt werden, gilt erst die Zahlungsansprüche auslösende Tätigkeit eines Auftragnehmers für Leistungen, die nicht der Baufreimachung zuzurechnen sind, als Baubeginn im Sinne der Nummer 1.3 der
+VwV zu § 44 SäHO .
 
-1.2
+b)
 
-Die Bewilligungsstelle kann im Ausnahmefall einen vorzeitigen Vorhabensbeginn genehmigen. Mit der Genehmigung wird bescheinigt, dass die Ausführung des Projektes einer eventuellen späteren Förderung nicht entgegensteht. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. In der Genehmigung zum vorzeitigen Vorhabensbeginn ist darauf hinzuweisen, dass hieraus kein Anspruch auf eine Förderung besteht und keine Zusicherung auf Bewilligung einer Zuwendung begründet.
+Bei den nach dieser Richtlinie förderfähigen Baumaßnahmen gelten Planung, Baugrunduntersuchung sowie vorbereitende Erstellung von Gutachten nicht als Beginn des Vorhabens. Die Durchführung und Finanzierung dieser Arbeiten bereits vor Beantragung der Zuwendung stehen einer Anerkennung als zuwendungsfähige Ausgaben nicht entgegen.
+
+c)
+
+Die Bewilligungsstelle kann im Ausnahmefall einen vorzeitigen förderunschädlichen Vorhabensbeginn genehmigen, wenn die sachliche Prüfung der Zuwendungsvoraussetzungen mit positivem Ergebnis abgeschlossen wurde. Mit der Genehmigung wird bescheinigt, dass die Ausführung des Projektes einer eventuellen späteren Förderung nicht entgegensteht. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. In der Genehmigung zum vorzeitigen förderunschädlichen Beginn ist ausdrücklich darauf hinzuweisen, dass aus ihr kein Rechtsanspruch auf eine Förderung abgeleitet werden kann, dass sie keine Zusicherung auf Bewilligung einer Zuwendung darstellt und dass eine spätere Förderung grundsätzlich nach den dann geltenden Richtlinien erfolgt.
 
 2.
 
-Für die Förderung finden die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (
+Für die Förderung finden die „Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung“ (
 ANBest-P
 , Anlage 2 zur VwV zu § 44 SäHO) Anwendung. Ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 98 Nr. 2 bis 6 des
 Gesetzes gegen Wettbewerbsbeschränkungen (
 
-GWB) in der Fassung der Bekanntmachung vom 15. Juli 2005 (BGBl. I S. 2114; 2009 I S. 3850), das zuletzt durch Artikel 2 Abs. 62 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3050) geändert worden ist, in der jeweils geltenden Fassung, vor, ist es bei Zuwendungen bis zu 300 000 EUR ausreichend, wenn durch Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung dokumentiert wird, dass die Vergabe nach wettbewerblichen Gesichtspunkten und wirtschaftlichen Bedingungen erfolgt ist. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden sollen, bedarf dies der vorherigen Bestätigung durch die Bewilligungsstelle. Ist der Zuwendungsempfänger eine natürliche Person, sind die Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung erforderlich.
+GWB) in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750), in der jeweils geltenden Fassung, vor, ist es bei Zuwendungen bis zu 300 000 EUR ausreichend, wenn durch Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung dokumentiert wird, dass die Vergabe nach wettbewerblichen Gesichtspunkten und wirtschaftlichen Bedingungen erfolgt ist. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden sollen, bedarf dies der vorherigen Bestätigung durch die Bewilligungsstelle. Ist der Zuwendungsempfänger eine natürliche Person, sind die Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung erforderlich.
 
 3.
 
-Bei Förderdarlehen über 50 000 EUR ist das gesamte Darlehen im Grundbuch an rangbereiter Stelle zu Gunsten der SAB dinglich zu sichern. Die Bewilligungsstelle kann im Einzelfall freie Grundschuldteile zur Sicherung nutzen. Darüber hinaus kann die Sicherung mehrerer Darlehen für mehrere Objekte auf einem Objekt oder gegebenenfalls auf einem nicht zu fördernden Objekt des Antragstellers erfolgen, sofern dadurch eine werthaltigere Sicherung gegeben ist. Es können im Einzelfall zusätzliche Sicherheiten verlangt werden.
+Bei Förderdarlehen über 50 000 EUR ist das gesamte Darlehen im Grundbuch an rangbereiter Stelle zu Gunsten der Sächsischen Aufbaubank – Förderbank – (SAB) dinglich zu sichern. Die Bewilligungsstelle kann im Einzelfall freie Grundschuldteile zur Sicherung nutzen. Darüber hinaus kann die Sicherung mehrerer Darlehen für mehrere Objekte auf einem Objekt oder gegebenenfalls auf einem nicht zu fördernden Objekt des Antragstellers erfolgen, sofern dadurch eine werthaltigere Sicherung gegeben ist. Es können im Einzelfall zusätzliche Sicherheiten verlangt werden.
 
 4.
 
-Die technische und wirtschaftliche Bauberatung und -betreuung ist nur in Verbindung mit einem Darlehen nach Ziffer V Nr. 1 förderfähig.
+Die Gesamtausgaben für die Maßnahmen sind je Wohngebäude in den dafür vorgesehenen Vordrucken darzustellen und dem Antrag auf Auszahlung beizufügen.
 
 5.
 
-Die Gesamtausgaben für die Sanierungsmaßnahmen sind je Wohngebäude in den dafür vorgesehenen Vordrucken darzustellen und dem Antrag auf Auszahlung beizufügen.
+Der Bauherr ist verpflichtet, für jede geförderte Baumaßnahme eine Baurechnung zu führen und auf Anforderung vorzulegen. Die Baurechnung besteht aus
+
+a)
+
+den Einnahmen und Ausgaben entsprechend den Obergruppen der DIN 276, Kosten im Hochbau, jeweils mit Rechnungsbelegen, ihrem Grunde nach bezeichnet, geordnet und getrennt von anderen Buchungen,
+
+b)
+
+der Baugenehmigung, Abweichungsentscheidungen nach § 67
+SächsBO und der denkmalschutzrechtlichen Genehmigung, soweit für das jeweilige Vorhaben erforderlich,
+
+c)
+
+dem Bewilligungsbescheid mit seinen Nebenbestimmungen,
+
+d)
+
+den dem Vorhaben zugrunde gelegten Bauvorlagen.
 
 6.
 
-Der Bauherr ist verpflichtet, für jede geförderte Baumaßnahme eine Baurechnung zu führen und auf Anforderung vorzulegen. Die Baurechnung besteht aus den Einnahmen und Ausgaben entsprechend den Obergruppen der DIN 276, Kosten im Hochbau, jeweils mit Rechnungsbelegen, ihrem Grunde nach bezeichnet, geordnet und getrennt von anderen Buchungen.
+Der geförderte Wohnraum darf innerhalb von 25 Jahren keiner anderen Nutzung zugeführt und nicht zurückgebaut werden.
 
 7.
 
-Der geförderte Wohnraum darf innerhalb von 25 Jahren keiner anderen Nutzung zugeführt und nicht zurückgebaut werden.
-
-8.
-
 Eine Förderung nach dieser Richtlinie kann durch andere Förderprogramme des Landes, des Bundes oder der Europäischen Union ergänzt werden, sofern dies die Fördervorschriften der anderen Programme zulassen und die Gesamtsumme der Fördermittel die Summe der Gesamtkosten nicht übersteigt. Für Vorhaben an Wohngebäuden, die auch nach den Kapiteln A, E oder G der Richtlinie des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft zur Integrierten Ländlichen Entwicklung im Freistaat Sachsen (Förderrichtlinie Integrierte Ländliche Entwicklung –
-RL ILE/2007) vom 18. Oktober 2007 (SächsABl. S. 1601), zuletzt geändert durch Verwaltungsvorschrift vom 18. April 2011 (SächsABl. S. 652), zuletzt enthalten in der Verwaltungsvorschrift vom 14. Dezember 2011 (SächsABl. SDr. S. S 1811), in der jeweils geltenden Fassung, gefördert werden, kann von der Gebietskulisse nach Ziffer IV Nr. 1 Satz 1 abgewichen werden.
+RL ILE/2011) vom 29. Dezember 2011 (SächsABl. 2012 S. 761), geändert durch Ziffer V der Förderrichtlinie vom 11. Juli 2012 (SächsABl. S. 935, 938), in der jeweils geltenden Fassung, gefördert werden, kann von der Gebietskulisse nach Ziffer IV Nr. 1 Satz 1 abgewichen werden.
 
 VII.
 
@@ -314,7 +376,7 @@ Bewilligungsstelle sowie Widerspruchsbehörde für Verwaltungsakte der Bewilligu
 
 3.
 
-Die Auszahlung erfolgt nach Abschluss der Maßnahme oder nach Baufortschritt und nach Prüfung des Auszahlungsantrags. Eine Bestätigung des Baufortschrittes durch den Bauleiter oder Architekten ist mit dem Auszahlungsantrag vorzulegen. Darlehenssummen von bis zu 25 000 EUR werden zu 100 Prozent nach Abschluss der Baumaßnahmen ausgezahlt. Darlehenssummen von mehr als 25 000 EUR kann die Bewilligungsstelle in bis zu drei Teilbeträgen nach Baufortschritt auszahlen.
+Die Auszahlung erfolgt nach Abschluss der Maßnahme oder nach Baufortschritt und nach Prüfung des Auszahlungsantrages. Eine Bestätigung des Baufortschrittes durch den Bauleiter oder Architekten ist mit dem Auszahlungsantrag vorzulegen. Der Auszahlungsantrag ist bei der Bewilligungsstelle auf den dafür vorgesehenen Vordrucken einzureichen.
 
 4.
 
@@ -330,29 +392,69 @@ dem Finanzierungsplan,
 
 c)
 
-der Baurechnung ohne die Belege und
+der Baurechnung ohne die Belege,
 
 d)
 
-der Bestätigung durch die Person, die die Bewertung nach Ziffer IV Nr. 3 vorgenommen hat, dass die geförderten Maßnahmen entsprechend der Bewilligung durchgeführt wurden.
+der Bestätigung des Bauleiters oder des Architekten, dass die geförderten Maßnahmen entsprechend der Bewilligung durchgeführt wurden.
 
 5.
 
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die
 VwV zu § 44 SäHO , soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
 
-6.
-
-Das Staatsministerium des Innern kann zu Ziffer II Nr. 1 und Ziffer IV Nr. 1 und 5 im Einzelfall Ausnahmen zulassen.
-
 VIII.
 
-Inkrafttreten und Außerkrafttreten
+Inkrafttreten, Außerkrafttreten
 
-Diese Richtlinie tritt am Tag nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur energetischen Sanierung von Wohnraum (RL Energetische Sanierung) vom 15. Juli 2008 (SächsABl. S. 977), geändert durch Richtlinie vom 10. Februar 2009 (SächsABl. S. 451), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), sowie die Richtlinie des Sächsischen Staatsministeriums des Innern zur Förderung der energetischen Sanierung von Wohnraum (RL Energetische Sanierung) vom 16. März 2010 (SächsABl. S. 508), zuletzt geändert durch Richtlinie vom 5. April 2011 (SächsABl. S. 603), enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), außer Kraft.
+Diese Richtlinie tritt am Tag nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Richtlinie des Sächsischen Staatsministeriums des Innern zur Förderung von Wohnraumanpassungen für generationsübergreifendes Wohnen (RL Mehrgenerationenwohnen) vom 16. März 2010 (SächsABl. S. 512), zuletzt geändert durch Richtlinie vom 19. März 2012 (SächsABl. S. 357), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), sowie die Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Anpassung von Wohnraum für generationsübergreifendes Wohnen (RL Mehrgenerationenwohnen) vom 15. Juli 2008 (SächsABl. S. 981), geändert durch Richtlinie vom 10. Februar 2009 (SächsABl. S. 451), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), außer Kraft.
 
-Dresden, den 19. Januar 2012
+Dresden, den 28. Juni 2013
 
 Der Staatsminister des Innern
 
 Markus Ulbig
+
+Anlage
+
+Technische Mindestanforderungen für investive Maßnahmen nach Ziffer II Nr. 1 der Richtlinie Mehrgenerationenwohnen
+
+Nachfolgende Anforderungen definieren die technischen Mindeststandards, die bei einer Förderung von Umbaumaßnahmen gemäß Ziffer II Nr. 1 zu erfüllen sind. Unabhängig davon sind alle geltenden öffentlich-rechtlichen Vorschriften einzuhalten, die für die Planung und Umsetzung der Fördermaßnahme von Belang sind.
+
+Mussvorschriften sind zwingend. Sollvorschriften sind ebenfalls zwingend, es sei denn, die Maßnahmen sind baukonstruktiv oder technisch nicht möglich oder nur mit unverhältnismäßigem Kostenaufwand umsetzbar. Zusätzlich wird auf die Ausnahmetatbestände nach § 50 Abs. 4
+SächsBO hingewiesen.
+
+zu Nummer 1 Buchst. a: Einbau von bedarfsgerechten und gebäudeangepassten Aufzügen
+
+Es wird auf die Regelungen der Sächsischen Bauordnung, insbesondere
+§§ 39 und
+50 SächsBO , hingewiesen.
+
+zu Nummer 1 Buchst. b: Anpassung von Grundrissen im Wohngebäude
+
+Bei Änderung des Wohnungszuschnitts sollen Flure in den Wohnungen eine nutzbare Breite von 1,20 m haben. Sie müssen aber mindestens 1,00 m breit sein. Ist der Flur schmaler als 1,20 m, dürfen die Türen nicht in den Flur zu öffnen sein, zu Ausnahmen siehe Nummer 6.
+
+Bei Änderung des Wohnungszuschnitts muss in Wohn- und Schlafräumen eine Bewegungsfläche von mindestens 1,20 m Breite entlang der Möbel vorhanden sein.
+
+zu Nummer 1 Buchst. d: Anbau und Erweiterung von Balkonen
+
+Der Zugang zu den Balkonen soll schwellenlos sein. Die Brüstungen sollen ab einer Höhe von 60 cm über Bodenniveau über eine Durchsicht verfügen.
+
+zu Nummer 1 Buchst. f: Bauliche Veränderungen im Sanitär- und Küchenbereich
+
+Im Sanitärraum muss eine Bewegungsfläche von mindestens 1,20 m x 1,20 m vorhanden sein. Duschplätze sollen bodengleich sein. Bei Veränderung der Wandstellung müssen Vorkehrungen beziehungsweise Verstärkungen zur späteren Nachrüstung von Haltegriffen berücksichtigt werden. Badezimmertüren müssen in den Flur öffnen.
+
+Bei Änderung des Wohnungszuschnitts muss die Tiefe der Bewegungsfläche entlang der Küchenmöblierung mindestens 1,20 m betragen.
+
+zu Nummer 1 Buchst. g: Anpassung von Türen und Entfernen von Schwellen
+
+Bei der Erneuerung von Türen muss die lichte Breite mindestens 80 cm betragen. Türdrücker müssen in einer Höhe von 85 cm bis 105 cm montiert sein.
+
+zu Nummer 1 Buchst. j: Schaffung von geeigneten Zugängen
+
+Zugänge zu Gebäuden sollen eine nutzbare Breite von 1,50 m haben. Sie müssen aber mindestens 1,20 m breit sein. Die äußeren Erschließungssysteme sollen schwellen- und stufenlos sein. Ist dies nicht möglich, so sollen Niveauunterschiede über Rampen oder Aufzüge zu überwinden sein. Sind Treppen zum Zugang vorhanden, müssen beidseitig Handläufe vorhanden sein.
+
+Zugänge zu Gebäuden müssen gut beleuchtet sein. Die Hauseingangstür muss mit geringem Kraftaufwand zu bedienen sein und eine lichte Breite von mindestens 90 cm haben. Die Montagehöhe der Türdrücker muss zwischen 85 cm und 105 cm liegen.
+
+Im Übrigen wird auf die Regelungen nach § 50
+SächsBO verwiesen.
