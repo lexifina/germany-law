@@ -1,0 +1,7 @@
+# TOP .1.: Viktoriastr. 25: Fällung eines Kirschbaums
+
+- Sitzung: BA 04 - Vollgremium (2013-07-24)
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/360761
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/360761
