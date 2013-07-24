@@ -1,0 +1,60 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2728067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2728067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Anliegen aus dem Kinder- und Jugendforum am 12.07.2013
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 40 ?Kult?: Kleiderständer
+- TOP .2.: Hohenzollernstr. 74 ?Kochhaus Schwabing?: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: Öffentlicher Bücherschrank ? Mitteilung des Direktoriums
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Franz-Joseph-Str. 45: Um- und Ausbau RGB, Erweiterung einer Wohneinheit (RGB) sowie Errichtung eines hofseitigen Balkons im DG/VGB
+- TOP .2.: Konradstr. 16: Teilung einer Wohnung im 4. OG in zwei unabhängige Wohneinheiten
+- TOP .3.: Elisabethstr. 91: Nutzungsänderung/Umbau eines Bürogebäudes zu Wohnungen, Anbau einer Doppelfassade-Wintergärten zur Lärm- und Wärmeschutzertüchtigung, Anbau von Balkonen und einer Liftanlage im Nordwesten, An-/Einbau einer Lift-Treppenanlage
+- TOP .4.: Adams-Lehmann-Str. 58.60:Nutzungsänderung EG ? 2. OG: Büroflächen zu Boardinghaus
+- TOP .5.: Tektur Agnesstr. 52: Energetische Sanierung und Dacherneuerung, DG-Ausbau mit Dachgauben (VGB + RGB), hofseitige Balkonsanierung, straßenseitige Balkonverglasung
+- TOP .6.: Agnesstr. 56 a: DG-Ausbau und Einbau eines Aufzugs
+- TOP .7.: Isabellastr. 38: Neubau eines Mehrfamilienhauses (18 WE) mit integriertem Laden und Tiefgarage
+- TOP .8.: Infanteriestr. 19: Verlängerung der Nutzungsdauer für Gebäude der ehemaligen Luitpoldkaserne bis 31.12.2016 (Gebäude 1, 2, 3, 4, 5, 6 und 8)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Tiefgarage am Josephsplatz
+- TOP .2.: Bürgerin: Poller vor dem Caritas-Kindergarten am Gustav-Landauer-Bogen (dazu Ortstermin vor der UA-Sitzung am 18.07.2013 um 17.45 Uhr)
+- TOP .3.: Bürgerin: Zuwenig Platz vor dem Fahrradladen Schleißheimer Str. 151
+- TOP .4.: Seniorenbeirat: Radfahrer vor dem Altenheim St. Willibrord - Neuer Vorschlag
+- TOP .5.: Bürger: Pläne zur Umgestaltung der Rümannstraße abändern
+- TOP .6.: Bürger: Sanierung des südlichen Gehwegs in der Herzogstraße zwischen Winzerer- und Schleißheimer Straße
+- TOP .7.: Nachfrage Sanierung Viktor-Scheffel-Straße
+- TOP .8.: Linksabbiegeverbot aus der Schleißheimer Straße in die Ackermannstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Viktoriastr. 25: Fällung eines Kirschbaums
+- TOP .2.2.: Verkehr
+- TOP .1.: Abbau der Lichtzeichenanlagen Clemens-/Hiltenspergerstraße und Clemens-/Mittermayrstraße
+- TOP .1.: Ferienausschuss am 28.08.2013: 1.1 Namentliche Benennung der Mitglieder und ihrer VertreterInnen 1.2 Wahl einer/eines Ausschussvorsitzenden
+- TOP .2.: Sitzungstermine 2014
+- TOP .3.: Benennung von Straßen und Wegen in Grünzügen ? Anhörung zum Antrag Nr. 08-14/B 04763 des BA 11 Milbertshofen-Am Hart vom 10.04.2013
+- TOP .4.: Partizipation ernst nehmen: Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse ? Anhörung zum Antrag Nr. 08-14/B 03384 des BA 15 Trudering-Riem vom 20.10.2011
+- TOP .1.: Shisha-Bar "Nisha" Hiltenspergerstr. 43: Freischankflächen-Genehmigung sofort widerrufen
+- TOP .2.: Auskunft zum städtischen Anwesen Schleißheimer Str. 144
+- TOP .3.: Neugestaltung der Isolden-/Rümannstraße: Kurvenradius an die Erfordernisse des Busverkehrs anpassen
+- TOP .4.: Budget der Bezirksausschüsse: Rückkehr zum früheren Verfahren bei Restmitteln aus dem Vorjahr
+- TOP .5.: Kosten der energetischen Sanierung gesondert ausweisen - Information über dadurch ausgelöste Mieterhöhung
+- TOP .6.: Aufnahme der Rümannstraße und des Mildred-Scheel-Bogens in das Lizenzgebiet ?Tristanstraße? Umwandlung der Rümann-/ Klopstockstraße von einer Parkscheiben- in eine Parkscheinzone
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
