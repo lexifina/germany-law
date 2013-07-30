@@ -1,0 +1,126 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2013-07-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2783198
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2783198
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: 2.6.1 Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; 2.6.1.1 AntragsstellerIn: WENDES; für die Maßnahme: Veranstaltung in der ?St. Jovan Vladimir? am 30.06.2013; Antragssumme: 1.177,50 ?; Sitzungsvorlage Nr. 08-14 / V 12254; Beschlussvorlage des Direktoriums (TOP 2.6.1.1 vom 02.07.2013) - <div>in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 2.2.: AntragsstellerIn: Evangelisches Hilfswerk München gGmbH; für die Maßnahme: Sommerfest der Teestube "komm"-Streetwork am 09.08.2013; Antragssumme: 240.- ?; Sitzungsvorlage Nr. 08-14 / V 12514; Beschlussvorlage des Direktoriums - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 2.3.: AntragstellerIn: Hilfe von Mensch zu Mensch e.V.; für die Maßnahme: Projekt zur Förderung der Sprachentwicklung und der Identitätsbildung von Kindern mit Migrationshintergrund im Schuljahr 2013/2014; Antragssumme: 2.400.- ?; Sitzungsvorlage Nr. 08-14 / V 12469; Beschlussvorlage des Direktoriums - <div>Abgelehnt</div>
+- TOP 2.4.: AntragstellerIn: Caritasverband für die Erzdiözese München und Freising e.V.; für die Maßnahme: Hilfen für Flüchtlingskinder und deren Familien von 01.11.2013 bis 31.10.2014; Antragssumme: 7.000.- ?; Sitzungsvorlage Nr. 08-14 / V 12474; Beschlussvorlage des Direktoriums - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 2.5.: AntragsstellerIn: Münchner Tafel e.V.; für die Maßnahme: Beschaffung von zwei Zelten; Antragssumme: 1.892,42; Sitzungsvorlage Nr. 08-14 / V 12513; Beschlussvorlage des Direktoriums - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 3: Anträge
+- TOP 3.1.: Zebrastreifen an der Kreuzung Unterbibergerstr./Bayerwaldstr. und der Kreuzung Unterbibergerstr./ Weidenerstr.; Antrag des Elternbeirats der Grundschule am Pfanzeltplatz vom 28.06.2013 - <div>nach Antrag und Forderung nach Tempo 30 in der Unterbibergerstr.</div>
+- TOP 3.2.: Verstärkte Geschwindigkeitskontrollen in der Führichstraße; Bürgerschreiben vom 25.06.2013 - <div>WL an das KVR</div>
+- TOP 3.3.: Wilhelm-Hoegner-Straße; Fußgängerüberweg auf Höhe der Lorenzstr./Elise-Aulinger-Straße; Bürgerschreiben vom 25.06.2013 - <div>WL an das Kreisverwaltungsreferat</div>
+- TOP 3.4.: Schaffung von Fahrradstraßen im 16. Stadtbezirk (Nr. 6 des Antrags); Antrag der Fraktion von DaCG/ÖDP im BA 16 vom 29.05.2013 - <div>vertagt</div>
+- TOP 3.5.: Klara-Ziegler-Bogen; Erweiterung der Fahrzeiten der Buslinie 198; Bürgerschreiben vom 06.07.2013 - <div>Information der Antragsteller</div>
+- TOP 3.6.: U-Bahn-Betriebsstelle Neuperlach Süd - Ausbau zum Betriebshof? Anfrage der SPD-Fraktion im BA 16 vom 24.07.2013 - <div>nach Antrag</div>
+- TOP 3.7.: Verkehrssicherheit an der "MonteBalan", Montessori Schule an der Balanstraße 73, stärken Antrag der CSU-Fraktion im BA 16 vom 21.07.2013 - <div>nach Antrag</div>
+- TOP 3.8.: Regelung für Infostände und Versammlungen am PEP-Vorplatz,- Thomas-Dehler-Str. 10 bzw. 12; Antrag der Fraktion von Bündnis 90/Die Grünen im BA 16 vom 27.07.2013 - <div>Ortstermin geplant</div>
+- TOP 3.1.: Lärmbelästigungen durch eine Kindertagesstätte; Bürgerschreiben vom 28.04.2013 - <div>Runder Tisch durch die Kinderbeauftragte</div>
+- TOP 3.2.: Graffiti-Projekt für die Skateanlage zwischen Neu- und Waldperlach; Schreiben des Kinder- und Jugendtreffs "Come In" vom 25.06.2013 - <div>WL an das Baureferat</div>
+- TOP 3.3.: Unterstützung bei der Anmietung weiterer Räume in der Hochäckstraße zur Erweiterung der Kinderkrippe; Antrag des Vereins Hilfe von Mensch zu Mensch e. V. vom 07.05.2013 - <div>in den UA Bildung, Soziales, Integration, Sport verwiesen</div>
+- TOP 3.1.: Quartierbennnung : Haldenseesiedlung (Gebiet abgegrenzt durch Krumbadstraße (westlich), Hechtseestraße (südlich und östlich), Bad-Schachener-Straße (nördlich); Antrag der CSU-Fraktion im BA 16 vom 19.06.2013 (TOP 3.4.1 vom 02.07.2013) - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 3.2.: 1.) Verlegung der städtischen Kompostieranlage an der Hochäckerstraße; 2.) Änderung des Flächennutzungsplans mit integrieter Landschaftsplanung für den Bereich VI/19; Hochäckerstraße 3.) Neue Kompostierungsanlage Bürgerschreiben vom 08.07.2013
+- TOP 3.3.: Schulbedarsfläche an der Aschauer Straße; Änderung des Flächennutzungsplans; Antrag des Bezirksausschuss 17 Obergiesing-Fasangarten vom 09.07.2013 - <div>nach Antrag</div>
+- TOP 3.4.: Verschönerung der Unterführung Ständlerstraße im Bereich Michael-Pröbstl-Weg; Bürgerschreiben vom 28.06.2013 - <div>nach Antrag</div>
+- TOP 3.5.: Anfrage zum Bebauungsplan 2037 (Europäische Schule, Fasangarten); Antrag der CSU-Fraktion im BA 16 vom 27.07.2013 - <div>nach Antrag</div>
+- TOP 3.1.: Einrichtung der Position einer/s Suchtbeauftragten im BA 16; Antrag der CSU-Fraktion im BA 16 vom 04.11.2012 - <div>Der Antrag wurde abgelehnt</div>
+- TOP 3.2.: Aufstellen von Bienenvölkern im Grünbereich; Bürgeranfrage vom 20.05.2013 (TOP 3.5.1 vom 02.07.2013) - <div>vertagt</div>
+- TOP 3.3.: Abbau einer Mobilfunksendeanlagen in der Kurt-Eisner-Straße; Bürgerschreiben vom 28.11.2011 - <div>Information der Antragstellerin</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Gleichstellungsbeauftragte
+- TOP 4.6.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 4.6.6.4.6.7: Integration
+- TOP 4.6.6.4.6.8: Inklusionsbeauftragte
+- TOP 4.6.9: Internet
+- TOP 4.7: Arbeitsgruppe zur Verbesserung der Infrastruktur im Ostpark
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Veranstaltungen auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Anhörungen des BA 16 durch das Kreisverwaltungsreferat 5.1.1.1 Pfanzelplatz; Perlacher Kirta am 08.09.2013; Zuleitung vom 21.06.2013 - <div>Zustimmung</div>
+- TOP 5.2.: Überprüfung der Umlaufsperren im Gebiet des 16. Stadtbezirks; Zuleitung des Kreisverwaltungsreferats vom 10.07.2013 mit der Bitte um Stellungnahme - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.3.: Gustav-Heinemann-Ring; Einrichtung eines personenbezogenen Behindertenparkplatzes auf der Seite Otto-Wels-Straße; Zuleitung des Kreisverwaltungsreferats vom 24.07.2013 - <div>Zustimmung</div>
+- TOP 5.1.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; Antrag Nr. 08-14 / B 3384 des BA 15 Trudering-Riem vom 20.10.2011; Anhörung des Direktoriums vom 09.07.2013
+- TOP 5.2.: Beteiligung der Bezirksausschüsse in der AG Gedenktafeln; Antrag der CSU-Fraktion im BA 16 vom - <div>als Stellungnahme zu TOP 5.1.1 beschlossen</div>
+- TOP 5.1.: 5.4.1 Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung 5.4.1.1 Umbau und Modernisierung der Freisportflächen der Bezirkssportanlage; (TOP 5.4.1.1 vom 02.07.2013) 5.4.1.2 Rosenheimer Str.; Neubau eines Wohngebäudes für Studierende, Pflegepersonal, Arbeitnehmer etc. mit Ladennutzung und Tiefgarage (jetzt Büro statt Lagernutzung); (TOP 5.4.1.3 vom 02.07.2013) 5.4.1.3 Pfanzeltplatz; Teilung eines Ladens in zwei voneinander getrennte Läden; 5.4.1.4 Balanstraße; Errichtung eines Mehrfamilienhauses (67 WE) mit Tiefgarage (77 Stellplätze) sowie Abbruch einer Gaststätte mit Nebengebäuden 5.4.1.5 Chiemgaustr.; Neubau eines Studentenwohnheims mit Tiefgarage ? Vorbescheid 5.4.1.6 Görzer Str.; Neubau eines Wohnhauses (18 WE) mit Tiefgarage 5.4.1.7 Fasangartenstr.; Neugründung einer Baumschule; Nutzungsänderung von Bestandsgebäuden sowie Neubau einer Halle und eines teiloffenen Substrat-Lagers mit Überdachung TOP 5.4.1.8 Chiemgaustr.; Nutzungsänderung Büro zu Fitness-Center (Nachtrag) - <div>gem. den Empfehlungen des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.1.: Mobilfunk; Suchkreismeldung im Suchkreis M-Siemens-St.-Martin-Straße; Zuleitung des Referats für Gesundheit und Umwelt vom 27.06.2013 - <div>in den Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 5.1.: Benennung von Straßen und Wegen in Grünzügen - Anhörungsschreiben; Antrag Nr. 08-14 / B 4763 des BA 11 Milbertshofen-Am Hart vom 10.04.2013; Zuleitung des Direktoriums vom 24.06.2013 - <div>Zustimmung zum Antrag des BA 11</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Einrichtung einer Querungshilfe in der Ottobrunner Straße auf Höhe der Haltestelle Diakon-Kerolt-Weg; Antrag Nr. 08-14 / B 4812 des BA 16 vom 07.05.2013; Antwortschreiben des Baureferats vom 05.07.2013
+- TOP 6.2.: Vollzug des Allg. Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ km 2, 117-Balanstraße, Bahnstrecke 5552 München Ost, Frankenwaldstraße - Kreuzstraße, km 2, 117; Stellungnahme des BA 16 beschlossen in der Sitzung am 07.05.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 26.06.2013
+- TOP 6.3.: Buslinie 145; zusätzliche Fahrt über die Görzer Schule Richtung Fasangarten; Zuleitung der Münchner Verkehrsgesellschaft vom 21.06.2013
+- TOP 6.1.: TOP 6.2.1 Kulturzentrum Ramersdorf-Perlach und Bebauung des Hanns-Seidel-Platzes Schreiben des Oberbürgermeisters vom 15.07.2013
+- TOP 6.1.: Erweiterung der Grundschule Pfanzeltplatz; Schreiben des Referats für Bildung und Sport an Frau Stadträtin Burkhardt; Anfrage des BA 16 beschlossen in der Sitzung am 07.05.2013; Antwortschreiben des Referats für Bildung und Sport vom 13.06.2013
+- TOP 6.1.: Vollzug des Art. 22 Abs. 2 Bayer. Denkmalschutzgesetz (DschG) - Beteiligung an den Kosten des Denkmalschutzes und der Denkmalpflege; Änderung der städt. Zuwendungsrichtlinien; Aufnahme baulicher Maßnahmen zur Verbesserung der historischen Erscheinungsbilder der Dorfkernensembles in den Gegenstand der Förderung; Sitzungsvorlagen Nr. 08-14 / V 10999; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.01.2013 (SB); Stellungnahme des BA 16 aus der Sitzung vom 05.03.2013 Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 24.06.2013
+- TOP 6.2.: Ständlerstraße Neubau einer Eisenbahn-Betriebswerkstätte in München durch die SWM Planfeststellungsverfahren; Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich VI/23; Bahnlinie München Ost, Deisenhofen (östlich), Ständlerstraße (südlich) und Lauensteinstraße (nördlich); Anfrage des BA 16 beschlossen in der Sitzung am 07.05.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 18.06.2013
+- TOP 6.3.: Ottobrunner Str. 39, Neubau einer Wohnanlage mit Tiefgarage; Anliegerstellplätze im öffentlichem Straßenraum; Stellungnahme des BA 16 beschlossen in der Sitzung am 10.04.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 19.06.2013
+- TOP 6.4.: Marieluise-Fleißer-Bogen; Nutzungsänderung eines ehem. Fitnessstudios in eine kleine Café-Bar und ein Bistro; Stellungnahme des BA 16 beschlossen in der Sitzung am 10.04.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 18.06.2013
+- TOP 6.5.: Bebauungsplan 57cl ? Carl-Wery-Straße / westlich Wohnungsbau; Antrag Nr. 08-14 / B 4746 des BA 16 vom 10.04.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 08.07.2013
+- TOP 6.1.: Ausbau der Streetwork im Gemeinwesen, Finanzierungsbeschluss; Mehr Stellen für die Arbeit von Streetworkern in München, BA-Antrag Nr. 08-14/B 03546 des BA 16 vom 14.12.2011; Ausweitung der bestehenden Hilfsprojekte auf langjährige ?Stammsteher?-Plätze in Moosach; BA-Antrag Nr. 08-14/B 04264 des BA 10 Moosach vom 24.09.2012; Sitzungsvorlage Nr. 08-14 / V 12335; Stellungnahme des BA 16 beschlossen in der Sitzung am 07.05.2013; Beschluss in der gemeinsamen Sitzung des Gesunheitsausschusses und des Sozialausschusses vom 04.07.2013 (VB)
+- TOP 6.1.: Budget der Bezirksausschüsse, nicht verbrauchte Restmittel; Schreiben des Direktoriums vom 01.07.2013
+- TOP 6.2.: BA-Satzung; Notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014; Zuleitung des Direktoriums vom 08.07.2013
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Charles-de-Gaulle-Straße; Aufhebung eines personenbezogenen Behindertenparkplatzes; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferats vom 20.06.2013
+- TOP 7.2.: Hochäckerstraße - Neuer Südfriedhof, Nutzung des Parkplatzes; Bürgerschreiben vom 07.07.2013 an die Friedhofsverwaltung
+- TOP 7.3.: 1. Unfall- und Schadensrisiken minimieren - Bordsteine in München entschärfen; Antrag Nr. 08-14 / A 04014 der FW vom 04.02.2013; 2. Bordsteine nicht zum Unfallrisiko werden lassen; Antrag Nr. 08-14 / B 4544 des BA 15 vom 17.01.2013; Sitzungsvorlage Nr. 08-14 / V 11625; Beschluss des Bauausschusses vom 16.07.2013 (SB)
+- TOP 7.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.1.4.1 Schank- und Speisewirtschaft (SSW) "Terranesse"; Pfälzer-Wald-Str. 65; Mitteilung vom 20.06.2013 7.1.4.2 SSW "Oroje"; Gustav-Heinemann-Ring; Mitteilung vom 25.06.2013
+- TOP 7.5.: S-Bahnhöfe Riem und Perlach barrierefrei a) Sachstandsbericht b) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 09891; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.06.2013 (SB)
+- TOP 7.6.: 2. Stammstrecke München Leistungsfähigkeit der Umsteigebeziehungen zwischen U- und S-Bahn am Hauptbahnhof und Ostbahnhof a) Sachstand zu den ÖPNV-Anlagen, b) Anträge / Anfrage, Sitzungsvorlagen Nr. 08-14/V 12168 Beschluss der Vollversammlung des Stadtrates vom 26.06.2013
+- TOP 7.7.: Leistungsprogramm der MVG für die Fahrplanperiode 2014; u. a. Bessere Busanbindung der Tsingtauer Straße; Anbindung des Truderinger Gymnasiums durch eine Buslinie - Prüfung einer Ringlinie; Antrag Nr. 08-14 / B 4662 des BA 15 vom 21.02.2013; Sitzungsvorlage Nr. 08-14 / V 12455; Beschluss des Ausschusses für Arbeit und Wirtschaft vom 16.07.2013 (VB)
+- TOP 7.8.: Bahnknoten München: 2. Stammstrecke und ergänzende Maßnahmen a) aktueller Sachstand, b) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 11189; Beschluss der Vollversammlung vom 26.06.2013
+- TOP 7.1.: 16. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse, Protokoll; Zuleitung der Gleichstellungsstelle für Frauen vom 14.06.2013
+- TOP 7.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen; - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des Mehrjahresinvestitionsprogramms 2012 bis 2016 Sitzungsvorlage Nr. 08-14 / V 12315; Beschluss des Kinder- und Jugendhilfeausschusses vom 02.07.2013 (VB)
+- TOP 7.3.: Städtische Kinderkrippe Oskar-Maria-Graf-Ring 24, Anmietobjekt; 1. Leistung eines Baukostenzuschusses Beteiligung der Landeshauptstadt an den Kosten für den Umbau und die Erweiterung des angemieteten Objekts 2. Weitere Anmietung der Bestandsfläche und Anmietung weitere Flächen zur Vergrößerung der Kapazität 3. Änderung des Mehrjahresinvestitionsprogramms 2012 bis 2016 Sitzungsvorlage Nr. 08-14 / V 12412; Beschluss des Kinder- und Jugendhilfeausschusses vom 02.07.2013
+- TOP 7.4.: Besetzung des Sportbeirats der Landeshaupstadt München für die Amtsperionde 2013 bis 2017; Sitzungsvorlage Nr. 08-14 / V 11331; Beschluss des Ausschusses für Bildung und Sport des Stadtrats vom 06.03.2013
+- TOP 7.1.: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.2.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.2.1 Heinrich-Wieland-Straße; Bescheid vom 20.06.2013
+- TOP 7.3.: Informationsveranstaltung Denkmalschutz und Denkmalpflege, Protokoll der Veranstaltung am 10.06.2013
+- TOP 7.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 7.4.4.1 Anwesen Am Jagdweg; Zuleitung vom 20.06.2013 7.4.4.1 Anwesen Bad-Schachener-Straße; Zuleitung vom 10.07.2013
+- TOP 7.5.: PERSPEKTIVE MÜNCHEN - 7.4.5.1 Fortschreibung 2012; Ergebnisse der Öffentlichkeitsbeteiligung, Leitmotiv, strategische Leitlinien; Sitzungsvorlagen Nr. 08-14/V 11217 Beschluss der Vollversammlung des Stadtrates vom 02.05.2013 7.4.5.2 Langfristige Siedlungsentwicklung; a) Ergebnisse Gutachtenphase, b) Weiteres Vorgehen, Umsetzungsschritte und Projekte, c) Anträge; Sitzungsvorlage Nr. 08-14 / V 12019; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013
+- TOP 7.6.: Wohnen in München V Städtische Wohnungsbaugesellschaften 1. Steigerung und Verstetigung der Fertigstellungszahlen 2. Finanzielles Engagement der Landeshauptstadt München 3. Stadtratsanträge Sitzungsvorlagen Nr. 08-14/V 12310 Beschluss der Vollversammlung des Stadtrates vom 26.06.2013
+- TOP 7.7.: Änderung des Flächennutzungsplans mit integrieter Landschaftsplanung für den Bereich VI/19; Hochäckerstraße (nördlich), BAB 8 München-Salzburg (östlich), Peralohstraße (südlich) und Unterhachinger Straße/Ottobrunner Straße (westlich) und BAB 8 München-Salzburg (östlich), Fasangartenstraße (westlich); Bebauungsplan mit Grünordnung Nr. 2045; Hochäckerstraße (nördlich), BAB 8 München-Salzburg (östlich), Peralohstraße (südlich) und Unterhachinger Straße/Ottobrunner Straße (westlich); Beteiligung gem. § 3 Abs. 2 Baugesetzbuch; öffentliche Auslegung vom 01.07.2013 bis zum 01.08.2013; Zuleitung des Referats für Stadtplanung und Bauordnung vom 21.06.2013
+- TOP 7.8.: 7.4.8 Bebauungsplan mit Grünordnung Nr. 2045; Hochäckerstraße (nördlich), BAB München-Salzburg (östlich), Peralohstraße (südlich), Unterhachinger-/Ottobrunner Strße (westlich), Teiländerung des Bebauungsplans Nr. 57 l; Öffentliche Auslegung des Bebauungsplans; Sitzungsvorlage Nr. 08-14 / V 12560; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013 (SB)
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.3.: Entschädigung für Wahlhelferinnen und Wahlhelfer für die Landtags- und Bundestagswahl 2013; Information des Wahlamtes
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UA
