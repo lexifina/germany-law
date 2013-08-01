@@ -3,7 +3,7 @@ Teil 1 Geltungsbereich
 § 1 Geltungsbereich
 Teil 2 Mittelschule
 Abschnitt 1 Allgemeines
-§ 2 Aufbau der Mittelschule, Klassen mit vertiefter sportlicher Ausbildung
+§ 2 Aufbau der Mittelschule, Klassen mit vertiefter sportlicher Ausbildung, Bezeichnung der Schulen
 § 3 Abschlussbezogener Unterricht, Wahl der Bildungsgänge
 § 4 Wechsel des Bildungsganges
 Abschnitt 2 Aufnahme und Schulwechsel
@@ -64,7 +64,7 @@ Abschnitt 9 Erwerb des Hauptschulabschlusses und des qualifizierenden Hauptschul
 § 52 Wiederholung der Klassenstufe 9
 Teil 3 Abendmittelschule
 Abschnitt 1 Allgemeines
-§ 53 Aufbau, Verweildauer
+§ 53 Aufbau, Verweildauer, Bezeichnung der Schulen
 § 54 Aufnahmevoraussetzungen, Aufnahmeentscheidung
 § 55 Anmeldung
 § 56 Vorkurs
