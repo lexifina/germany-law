@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
-§ 2 Aufgabe der allgemein bildenden Förderschule
+§ 2 Aufgabe der allgemeinbildenden Förderschule
 § 3 Aufgabe und Aufbau der Schule für Blinde und Sehbehinderte
 § 4 Aufgabe und Aufbau der Schule für Hörgeschädigte
 § 5 Aufgabe und Aufbau der Schule für geistig Behinderte
@@ -13,20 +13,21 @@ Abschnitt 1 Allgemeines
 § 11 Beratungsstellen
 § 12 Förderzentrum und Förderschulzentrum
 Abschnitt 2 Feststellung sonderpädagogischen Förderbedarfs, Schuleingangsphase, Wechsel der Schule und der Schulart
-§ 13 Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs
+§ 13 Verfahren zur Beratung und zur Feststellung des sonderpädagogischen Förderbedarfs
 § 14 Anmeldung und Aufnahme
 § 14a Schuleingangsphase
 § 15 Wechsel des Förderschultyps
-§ 16 Wechsel in eine andere allgemein bildende Schule, Bildungsempfehlung
+§ 16 Wechsel in eine andere allgemeinbildende Schule, Bildungsempfehlung
 § 17 Förderplanung
 Abschnitt 3 Unterrichtsorganisation
 § 18 Klassen- und Gruppenbildung
 § 19 Unterrichtszeit
 § 20 Schuljahr, Ferien, unterrichtsfreie Tage
 § 21 Aufsicht
-Abschnitt 4 Unterrichtsinhalte
+Abschnitt 4 Unterricht
 § 22 Pflicht- und Wahlpflichtbereich
 § 23 Förderpädagogische Maßnahmen
+§ 23a Berufs- und Studienorientierung
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
 § 24 Grundlagen der Leistungsbewertung
 § 25 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
@@ -43,4 +44,4 @@ Abschnitt 7 Erwerb des Realschulabschlusses‚ des Hauptschulabschlusses‚ des 
 § 34 Erwerb des Hauptschulabschlusses an der Schule zur Lernförderung
 § 34a Erfolgreicher Abschluss im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
 Abschnitt 8 Schlussvorschrift
-§ 35 In-Kraft-Treten und Außer-Kraft-Treten
+§ 35 Inkrafttreten und Außerkrafttreten
