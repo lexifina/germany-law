@@ -16,6 +16,7 @@ Teil 2 Prüfung
 § 12 | Berücksichtigung besonderer Belange von Menschen mit Behinderung
 § 13 | Zulassung zur Prüfung
 § 14 | Festlegungen zur schriftlichen Prüfung
+§ 14a | Noten
 § 15 | Vornoten der Prüfungsfächer
 § 16 | Erste Prüfungskonferenz
 § 17 | Schriftliche Prüfung
@@ -23,12 +24,13 @@ Teil 2 Prüfung
 § 19 | Projektprüfung
 § 20 | Zweite Prüfungskonferenz
 § 21 | Mündliche Prüfung
-§ 22 | Noten
+§ 22 | Ergebnis in den Fächern des Prüfungsblocks
 § 23 | Dritte Prüfungskonferenz, Ergebnis der Prüfung
 § 24 | Wiederholung der Prüfung
 § 25 | Täuschung und Behinderung
 § 26 | Versäumnis
 § 27 | Niederschriften
-Teil 3 Schlussbestimmungen
-§ 28 | Übergangsbestimmung
+Teil 3 Zuerkennung der Fachhochschulreife
+§ 28 | Nachweis des berufsbezogenen Teils der Fachhochschulreife und Zuerkennung der Fachhochschulreife
+Teil 4 Schlussbestimmung
 § 29 | Inkrafttreten, Außerkrafttreten
