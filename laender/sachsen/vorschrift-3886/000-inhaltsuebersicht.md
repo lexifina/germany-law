@@ -31,4 +31,4 @@ Abschnitt 6 Versetzung, Wiederholung
 § 23 Freiwillige Wiederholung einer Klassenstufe
 § 24 Wechsel und Überspringen einer Klassenstufe
 Abschnitt 7 Schlussvorschrift
-§ 25 In-Kraft-Treten und Außer-Kraft-Treten
+§ 25 Inkrafttreten und Außerkrafttreten
