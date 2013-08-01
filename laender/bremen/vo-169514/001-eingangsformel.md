@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 22 Absatz 3 und des § 35 Absatz 3 Satz 5 und Absatz 5 in Verbindung mit § 67 des Bremischen Schulgesetzes vom 28. Juni 2005 (Brem.GBl. S. 260, 388, 398 - 223-a-5), das zuletzt durch Artikel 1 des Gesetzes vom 23. Juni 2009 (Brem.GBl. S. 237) geändert worden ist und des § 2 Absatz 2 des Bremischen Schuldatenschutzgesetzes vom 27. Februar 2007 (Brem.GBl. S. 181 - 206-e-1) wird verordnet:
