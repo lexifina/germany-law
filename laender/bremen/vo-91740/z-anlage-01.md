@@ -8,7 +8,7 @@ Pflichtbereich |
 Fachrichtungsübergreifender Lernbereich | 
 Deutsch | 160
 Politik | 80
-Fremdsprache | 200
+Englisch | 200
 Mathematik | 200
 Naturwissenschaften | 80
 Informationsverarbeitung | 80
