@@ -15,6 +15,7 @@ Teil 2 Prüfung
 § 11 | Berücksichtigung besonderer Belange behinderter Menschen
 § 12 | Zulassung zur Prüfung
 § 13 | Festlegungen zur schriftlichen Prüfung
+§ 13a | Noten
 § 14 | Vornoten der Prüfungsfächer
 § 15 | Erste Prüfungskonferenz
 § 16 | Schriftliche Prüfung
@@ -24,7 +25,7 @@ Teil 2 Prüfung
 § 19 | Besondere Lernleistung
 § 20 | Zweite Prüfungskonferenz
 § 21 | Mündliche Prüfung
-§ 22 | Noten
+§ 22 | Ergebnis in den Fächern des Prüfungsblocks
 § 23 | Dritte Prüfungskonferenz, Ergebnis der Prüfung
 § 24 | Wiederholung der Prüfung
 § 25 | Täuschung und Behinderung
