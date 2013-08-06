@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2802951
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2802951
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Aufstellung Haltverbotsschilder an der Nordseite der Hans-Fischer-Straße zwischen Theresienhöhe und August-Kühn-Straße
+- TOP 4.2.: Gollierstr. 29
+- TOP 4.3.: Kneipensituation Schwanthalerhöhe
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Aufstellung eines Bebauungsplans für den Bereich Feuerwache, Heimeranstraße und Kazmairstraße 23/25 prüfen
+- TOP 5.3.: Anhörung: Zweckentfremdung Landsberger Str. 137 Vordergebäude
+- TOP 5.4.: Landsberger Str. 68: Umbau mit Nutzungsänderung eines Bürogebäudes in ein Hotel
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Ganztag gemeinsam gestalten; Schreiben des RBS vom 15.07.2013
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Wertstoffcontainerstandorte, Anfrage aus der Bürgerversammlung
+- TOP 8.2.: Taubenplage in der Schwanthalerstr. 113 / Schießstättstr.
+- TOP 8.3.: Sperrung der Theresienwiese zum Wiesnaufbau; Shuttlebus für Schulkinder
+- TOP 8.4.: Anhörung: Baumfällung Guldeinstr. 44
+- TOP 8.5.: Entscheidung: Genehmigung einer Freischankfläche in der Schwanthalerstr. 131
+- TOP 8.6.: Öffentliche Widmung eines Fußwegs zwischen der Kazmairstraße, Feuerwache und Heimeranstraße; Fortführung des Fußwegs durch Schaffung eines Zebrastreifens über die Heimeranstraße auf Höhe des Franziska-Bilek-Weges; BV-Empfehlung Nr. 08-14/ E 01398 vom 21.06.2013
+- TOP 8.7.: Freischankfläche am Heimeranplatz 2
+- TOP 8.8.: Anhörung: Straßenfest in der Astallerstraße am 01.09.2013
+- TOP 8.9.: Anhörung: Oldtimertreffen Am Bavariapark am 08.09.2013
+- TOP 8.10.: Fällung von Gefahrenbäumen
+- TOP 8.11.: Anhörung: Baumfällung Ligsalzstr. 29
+- TOP 8.12.: Anhörung: Puppenbühne am Georg-Freundorfer-Platz
+- TOP 8.13.: Anhörung: AWO Losstand während der Wiesn
+- TOP 8.14.: Straßenbeleuchtung an der Ecke Anglerstraße/Heimeranstraße
+- TOP 8.15.: Gleisquerung Augustiner Brauerei
+- TOP 8.16.: Entscheidung: Mobiler Fahrradständer in der Tulbeckstr. 22
+- TOP 8.17.: Unterführung Hans-Fischer-Straße / Theresienhöhe
+- TOP 8.18.: Anhörung: Freizeitnutzung der Theresienwiese, Fragenkatalog des BA 8
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse
+- TOP 11.2.: Änderung der BA-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014
+- TOP 11.3.: Vertretung der BAs bei Preisgerichten; nachträgliches Schreiben des BA 16
+- TOP 11.4.: Sprengung in der Landsberger Straße; Eilentscheidung des Vorsitzenden
+- TOP 11.5.: Straßenfest in der Gollierstraße am 10.08.2013; Eilentscheidung des Vorsitzenden
+- TOP 11.6.: Benennung von Straßen und Wegen in Grünzügen; nachträgliches Schreiben des BA 11
+- TOP 11.7.: Anhörung: Anhörungsrecht des BA 2 bei Entscheidungen und Besprechungen zum Oktoberfest
+- TOP 12: Protokoll und Umlauf
