@@ -1,0 +1,52 @@
+# 16., außerordentliche, öffentliche Sitzung des Ausschusses für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-08-06T17:00:00+02:00
+- Ende: 2013-08-06T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2725
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2725
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung der Protokolle der Sitzungen vom 18. April 2013 (wurde mit der letzten Einladung versandt) und 16. Mai 2013 (wird ggfs. nachgesandt) - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Bushaltestelle Machnower Straße/Sachtlebenstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.2: Befestigung von Gehwegen - im Ausschuss abgelehnt
+- TOP 3.3: Radwegsanierung Argentinische Allee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.4: Barrierefreiheit Argentinische Allee - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.5: Stromanschluss Breitenbachplatz - im Ausschuss abgelehnt
+- TOP 3.6: Hundeauslaufgebiet - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.7: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Gestaltung des Eugen-Gerstenmaier-Platzes verbessern - vertagt
+- TOP 3.9: Herrichtung der Gehwege Parkviertel Dahlem - vertagt
+- TOP 3.10: Stadtbildpflege Nikolassee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.11: UNESCO-Welterbelogo - mit Änderungen im Ausschuss beschlossen
+- TOP 3.12: Fahrradabstellanlagen Bushaltestelle 101 Sachtleben/Nieritzweg - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.13: Hochbaumstraße als Fahrradstraße - vertagt
+- TOP 3.14: Hinweisschild auf den Atomreaktor Wannsee sowie die Sammelstelle für radioaktive Abfälle - mit Änderungen im Ausschuss beschlossen
+- TOP 3.15: Flugrouten-Lärmüberwachung - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.16: Anschaffung eines Messfahrrades - vertagt
+- TOP 3.17: Besucher-/Ausstellungszentrum Schlosspark Glienicke einrichten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.18: Gesprächskreis Schlachtensee/Krumme Lanke initiieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.19: Pollerweg an Ostrand Hermann-Ehlers-Platz entfernen - vertagt
+- TOP 3.20: Radfahren im Park - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.21: Spielstraße Fahrenheitstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.22: Sicherheit am Ausgang S-Bahnhof Zehlendorf - Fahrradfahrer absteigen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.23: Ein Straßenschild für die Brigittenstraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.24: Straßenpumpe Alt-Lankwitz 55 instand setzen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.25: Die Lanke in Lankwitz renaturieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.26: Platz für Hunde auch in Steglitz - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.27: Spielplatz im Schönower Park mit mehr Müllbehältern ausstatten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.28: Sanierung A 115 - Spanische Allee - Dreieck Zehlendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.29: Baumschäden online melden! - vertagt
+- TOP 3.30: Fußgängerinsel/Fahrbahnteiler - vertagt
+- TOP 3.31: Reparatur Kletterspinne in der Paul-Schneider-Grundschule - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 3.32: Wiedervereinigungsdenkmal - vertagt
+- TOP 3.33: Attraktivität des Steglitzer Damms steigern - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
