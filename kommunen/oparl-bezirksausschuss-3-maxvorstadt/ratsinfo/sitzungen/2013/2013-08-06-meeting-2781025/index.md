@@ -1,0 +1,111 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2781025
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2781025
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .1.: erfolgt in der Sitzung am 10.09.2013
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Hausverwaltung aus der Maxvorstadt vom 26.06.2013 Lärmbelästigung durch Freischankflächen in der Kurfürstenstraße (s. TOP C 2.3.1)
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 26.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP B 2.1.3)
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadtd vom 24.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP B 2.1.4)
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 24.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP B 2.1.5)
+- TOP .5.: Schreiben eines Bürgers aus der Maxvorstadt vom 27.06.2013 Kommerzielle Veranstaltungen auf dem Königsplatz (s. TOP C 2.2.2)
+- TOP .6.: E-Mail einer Bürgerin aus der Maxvorstadtd vom 07.07.2013 Bürgerbeteiligung Museumsareal, Einbahnstraßenregelung, Verkehrszeichen (s. TOP C 2.2.3)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 26., 27., 28., 29. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 28. KW
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 26.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP A 5.2.2)
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadtd vom 24.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP A 5.2.3)
+- TOP .5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 24.06.2013 Neubau des Gesundheitsamtes Dachauer Straße 90 (s. TOP A 5.2.4)
+- TOP .6.: Türkenstsraße 92, Neubau eines Mehrfamilien- und eines Stadthauses mit Tiefgarage sowie Anbau eines Außenaufzugs und von Balkonen an das Bestandsgebäude
+- TOP .7.: Referat für Stadtplanung und Bauordnung Antrag des BA 3 Nr. 08-14 / B 04380 vom 13.11.2012 Festlegung der Stadtteilbezeichnung ?Museumsviertel? Terminverlängerung bis 31.03.2014 erbeten
+- TOP .8.: Karlstraße 36, Umbau und Erweiterung VGB und Neubau RGB (Karlstr. 36), Neu- bzw. Um- bau Tiefgarage (Karlstr. 36/Luisenstr. 25) und Aufstockung (Luisenstr. 25) ? Vorbescheid / 2 Varianten
+- TOP .9.: Linprunstraße 40, Errichtung eines Wohngebäudes mit Tiefgarage ? Vorbescheid
+- TOP .10.: Nymphenburger Straße 20 ? 20 b, Umnutzung eines Bürogebäudes zu einem Wohngebäude ? Vorbescheid
+- TOP .11.: Adalbertstraße 49, VGB: Umbau und Sanierung der Wohnungen, Einbau einer Aufzugsanlage, und DG-Ausbau
+- TOP .12.: Türkenstraße 92, Neubau eines Mehrfamilien- und eines Stadthauses mit Tiefgarage sowie Anbau eines Außenaufzugs und von Balkonen an das Bestandsgebäude
+- TOP .13.: Amalienstraße 93, Neubau eines Wohngebäudes (22 WE) mit Ladeneinheit und Tiefgarage
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Gabelsbergerstraße 11-13, eine Esche
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte, Anhörung Radverkehr, Verbesserung der Rad- und Fußverkehrsführung in der Lduwigstraße
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Errichtung einer Lichtzeichenanlage am Knoten Heßstraße/Lothstraße
+- TOP .3.: Antwortschreiben der PI 12 zu einer Bürgeranfrage vom 16.04.2013 (s. TOP C 2.1.5/0513)
+- TOP .4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anpassung bzw. Erneuerung von Lichtzeichenanlagen im Stadtbezirk 3 im Rahmen der Beschleunigung der Buslinie 154
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Direktorium, Satzungsänderung, Anhörung Benennung von Straßen und Wegen in Grünzügen Antrag Nr. 08-14 / B 04763 des BA 11 Milbertshofen-Amt Hart vom 10.04.2013
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 27.06.2013 Kommerzielle Veranstaltungen auf dem Königsplatz (s. TOP A 5.2.5)
+- TOP .3.: E-Mail einer Bürgerin aus der Maxvorstadtd vom 07.07.2013 Bürgerbeteiligung Museumsareal, Einbahnstraßenregelung, Verkehrszeichen (s. TOP A 5.2.6?
+- TOP .4.: Baureferat Begrünung der Karlstraße zwischen Sand- und Denisstraße
+- TOP .5.: Stadtwerke München, Fernwärme, Anhörung Sanierung der Fernwärmeversorgungsleitung mit Beseitigung eines Netzengpasses in der Karlstraße
+- TOP .6.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Barer Straße 62, Verkaufseinrichtung auf öffentlichem Grund
+- TOP .2.3: Gaststätten
+- TOP .1.: Antrag des BA 4 Schwabing-West vom 14.06.2013 Neugenehmigung einer Freischankfläche bei Wechsel des Betreibers
+- TOP .2.4: Veranstaltungen
+- TOP .1.: 4. Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Bauernmarktmeile am 29.09.2013 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP .1.: (E) Budget der Bezirksausschüsse Münchner Kindl-Chor e.V. Aufführung der "Carmina Burana" am 26.10.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Künstlergruppe "Neue Bühne München" Theaterstück "Hautnah" vom 16.10. - 16.11.2013
+- TOP .3.: Kulturreferat Denkmal der Erinnerung für die Zahlreichen Nobelpreisträger, die in der Maxvorstadt ge- forscht und gelebt haben BA-Antrag Nr. 08-14 / B 04989 des BA 3 vom 09.07.2013 Das Kulturreferat beantragt Fristverlängerung bis 31.12.2013
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 22.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung Perspektive München, langfristige Siedlungsentwicklung Beschuss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013 Sitzungsvorlage Nr. 08-14 / V 12019
+- TOP 3.2.: Baureferat, Gartenbau Schaffung der Funktion ?Baumpaten? für Münchner Bürgerinnen und Bürgeranliegen BA-Antrag Nr. 08-14 / B 04649 des BA 3 vom 12.03.2013 Schreiben des Baureferates vom 04.07.2013
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung Bauvorhaben Schwindstraße 1 a, Neubau eines Wohngebäudes mit Gewerbeeinheiten. Vorbescheid; die LBK hat einen negativen Vorbescheid erteilt.
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Erhalt des Anwesens Luisenstraße 22, der sogenannten Paul-Heyse-Villa BA-Antrag Nr. 08-14 / B 04899 des BA 3 vom 11.06.2013 Schreiben der LBK Untere Denkmalschutzbehörde vom 16.07.2013
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung Bauvorhaben Ottostraße 11, Nutzungsänderungen Büro zu Arztpraxis (5. OG); Wohnung zu Büro (3. OG); 2 Wohnungen zu Büro (6. OG) Die LBK musste die Nutzungsänderungen genehmigen.
+- TOP 3.6.: Referat für Stadtplanung und Bauordnung Perspektive München, langfristige Siedlungsentwicklung Beschluss der Vollversammlung vom 24.07.2013 Sitzungsvorlage Nr. 08-14 / V 12019
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheide a) Klassik Open Air Konzerte auf dem sog. Odeonsplatz und Wittelsbacherplatz
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Einrichtung einer Fahrradstraße in der Veterinärstraße und am Professor-Huber-Platz zwischen Königinstraße und Ludwigstraße
+- TOP 3.3.: Baureferat, Antwortschreiben Fahrradwege in der Augustenstraße auf der Ost- und Westseite zwischen Görresstraße und Brienner Straße als Fußweg umwidmen BA-Antrag Nr. 08-14 / B 04651 des BA 3 vom 12.03.2013
+- TOP 3.4.: Kreisverwaltungsreferat, Veranstaltungens- und Versammlungsbüro, Erlaubnisbescheid 4. Münchner Sportfestival am 07.07.2013 auf dem Königsplatz
+- TOP 3.5.: Baureferat, Tiefbau 1. Unfall- und Schadensrisiken minimieren ? Bordsteine in München entschärfen 2. Bordsteine nicht zum Unfallrisiko werden lassen Beschluss des Bauausschusses vom 16.07.2013 Sitzungsvorlage Nr. 08-14 / B 04544
+- TOP 3.6.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsanordnungen Schellingstraße, Geschwindigkeitsbeschränkung auf 30 km/h und Gefahrzeichenbeschil- drung
+- TOP 3.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Fest zum 150-jährigen Jubiläum des Bayer. Roten Kreuzes am 13.07.2013, Königsplat
+- TOP 3.8.: Baureferat Schaffung eines uranen Platzes im Bereich Nordend-, Neureuther- und Barer Straße; Umwidmung des Teilstücks Neureutherstraße zwischen Barer- und Nordendstraße in einen Fußweg BA-Antrag Nr. 08-14 / B 04458 des BA 3 vom 11.12.2012
+- TOP 3.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Bayerische Ernährungstage, 13. und 14.07.2013, Galeriestraße
+- TOP 3.10.: Baumaßnahmen der Stadtwerke a) Königinstraße 3, Fernwärme b) Lothsraße/Heßstraße, Fernwärme
+- TOP 3.11.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Ausnahmegenehmigungen für die Nutzung der Skateanlage im Maßmannpark am 05.08., 06., 07., 12. und 31.08.2013 sowie am 01.09.2013
+- TOP 3.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Öffentliche Grundsteinlegung für das neue Hauptquartier der Siemens AG am 15.07.2013 auf dem Wittelsbacherplatz
+- TOP 3.13.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement Ausweisung der gesamten Marlene-Dietrich-Straße als Anliegerstraße Empfehlung Nr. 8-14 / E 1608 der Bürgerversammlung des 9. Stadtbezirkes vom 22.11.2012 Beschluss des Kreisverwaltungsausschusses vom 23.07.2013 Sitzungsvorlage Nr. 08-14 / V 12538
+- TOP 3.14.: Büro 2. Bürgermeisterin Tiefgarage am Josephsplatz Antwort vom 11.07.2013 auf das Schreiben der Freunde des Josephsplatzes vom 17.06.2013
+- TOP 3.15.: 2.15 Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte CarSharing in München, Durchführung von Pilotprojekten, Zwischenbericht zur Projekt- laufzeit (s. TOP C 2.1.1/0613)
+- TOP 3.16.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der Landes- hauptstadt München; Erlass einer Haushaltsbefragungssatzung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013 Sitzungsvorlage Nr. 08-14 / V 12209
+- TOP 3.17.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Kino-Open-Air vom 22.07. bis 30.07.2013 auf dem Königsplatz
+- TOP 3.18.: Referat für Stadtplanung und Bauordnung, Kreisverwaltungsreferat, Baureferat Nahmobilität in München ? Konzeption und weiteres Vorgehen Beschluss der Vollversammlung vom 24.07.2013 Sitzungsvorlage Nr. 08-14 / V 12380
+- TOP 3.19.: Baureferat, Tiefbau Rückbau der Teilaufpflasterung in der Kaulbachstraße, südlicher Teil BA-Antrag Nr. 08-14 / B 04986 des BA 3 vom 09.07.2013
+- TOP 3.20.: reisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrssperren an der Brienner Straße Schreiben des KVR vom 17.07.2013 an CityPartnerMünchen e.V.
+- TOP 3.21.: Baureferat, Beschlussvorlage 1. Unfall- und Schadensrisiken minimieren ? Bordsteine in München entschärfen Antrag Nr. 08-14 / A 04014 der FW vom 04.02.2013 2. Bordsteine nicht zum Unfallrisiko werden lassen Antrag Nr. 08-14 / B 04544 des BA 15 Trudering-Riem vom 17.01.2013 Beschluss des Bauausschusses vom 16.07.2013 Sitzungsvorlage Nr. 08-14 / V 11625
+- TOP 22: (E) Errichtung von öffentlichen Toiletten an Spielplätzen vorrangig am Alten Nördlichen Friedhof, Josephsplatz und Maßmannpark Empfehlung Nr. 08-14 / E 01120 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt
+- TOP 22.23.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bildungscamp des Kreisjungendrings auf dem Königsplatz am 06.08.2013
+- TOP 22.1.: Seniorenbeirat, neuer Vorstand seit 20.06.2013
+- TOP 22.2.: Referat für Bildung und Sport, Beschlussvorlage Kindertagesstätten sonstiger Träger; Haus für Kinder an der Dachauer Straße 143 im 3. Stadtbezirk Maxvorstadt Beschluss desKinder- und Jugendhilfeausschusses des Stadtrates vom 02.07.2013 Sitzungsvorlage Nr. 08-14 / V 12262
+- TOP 22.4.: Kultur
+- TOP 22.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.2.: Kulturreferat Zwischennutzung Heizkraftwerk in der Maxvorstadt Schreiben des Kulturreferates an die Stadträte Schmid und Quaas, beide CSU
+- TOP 22.1.: Direktorium, Anhörung Partizipation ernst nehmen ? Entscheidungsrecht über örtliche Gedenktafeln für die Be- zirksausschüsse BA-Antrag Nr. 08-14 / B 03384 des BA 15 Trudering-Riem vom 20.10.2011
+- TOP 22.2.: Direktorium, Unterrichtung Änderung der Bezirksausschusssatzung; notwendige Anpassungen für die Wahl der Be zirksausschüsse bei der Kommunalwahl 2014
+- TOP 22.3.: Direktorium, Anhörung Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Okotoberfest BA-Antrag Nr. 08-14 / B 04288 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 02.10.2012
+- TOP 22.1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
