@@ -1,0 +1,7 @@
+# TOP 10: Planung der weiteren Arbeit des zeitweiligen Ausschusses
+
+- Sitzung: Sitzung des Zeitweiligen Ausschusses für Windenergie (2013-08-08)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7302e5f24bb7ed5128b7ef
+- Ergebnis: (offen)
