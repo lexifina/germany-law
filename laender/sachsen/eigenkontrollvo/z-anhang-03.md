@@ -31,7 +31,7 @@ Leichtstoffabscheider, die für einen Abwasserdurchfluß unter 10 l/s ausgelegt 
 2.4 Sichtkontrolle des Gewässers an der Einleitungsstelle Direkteinleiter haben mindestens einmal wöchentlich den Bereich der Einleitungsstelle ihres Abwassers in ein Oberflächengewässer auf auffällige Ablagerungen, An- oder Abschwemmungen, Geruch, Färbung und ähnliches zu kontrollieren.
 3 Häufigkeit der Untersuchungen und Kontrollen Abkürzungen:
 Abkürzungen
-Abkürzung | Bedeutung
+Abkürzung | Beistrich | Bedeutung
 t | – | täglich im Sinne einer Probenahme und Untersuchung an allen Tagen oder zu Tageszeiten (Chargenbetrieb), an denen Abwasser der Abwasserbehandlungsanlage zugeführt oder in die Sammelkanalisation oder ein Gewässer eingeleitet wird
 w | – | wöchentlich
 m | – | monatlich

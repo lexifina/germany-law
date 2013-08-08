@@ -1,6 +1,6 @@
 # Anhang 1
 Eigenkontrolle von Abwasserkanälen und -leitungen sowie von Regenentlastungs- und Regenwasserbehandlungsanlagen
-1 Geltungsbereich Die Eigenkontrolle nach Anhang 1 bezieht sich auf die öffentlichen Kanalisationsanlagen und auf Kanalisationen von gewerblich genutzten Grundstücken sowie auf die damit zusammenhängenden Regenentlastungs- und Regenwasserbehandlungsanlagen. Die Grundlage für durchzuführende Eigenkontrollen, Wartungs- und Instandsetzungsarbeiten ist DIN 1986, Teil 30 .
+1 Geltungsbereich Die Eigenkontrolle nach Anhang 1 bezieht sich auf die öffentlichen Kanalisationsanlagen und auf Kanalisationen von gewerblich genutzten Grundstücken sowie auf die damit zusammenhängenden Regenentlastungs- und Regenwasserbehandlungsanlagen. Die Grundlage für durchzuführende Eigenkontrollen, Wartungs- und Instandsetzungsarbeiten ist DIN 1986, Teil 30.
 2 Durchführung der Eigenkontrolle
 2.1 Abwasserkanäle und -leitungen
 2.1.1 Überprüfung der Dichtigkeit einschließlich der Schachtbauwerke Für die Überprüfung der Dichtigkeit von Kanälen und Leitungen ist in der Regel die optische Kontrolle durch Kanalfernauge oder durch Begehung großer Kanäle ausreichend. Es gilt folgende Überprüfungsreihenfolge:
