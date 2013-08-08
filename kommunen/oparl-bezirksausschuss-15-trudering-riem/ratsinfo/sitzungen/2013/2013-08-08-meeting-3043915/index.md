@@ -1,0 +1,54 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-08-08T17:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3043915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3043915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Spatzennest e.V. Erneuerung Küche - <div>Zuschuss in Höhe von 2.500.- ?</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Gefährliche Verkehrssituation in der Bahnstraße - <div>Ortstermin mit dem UA Bau und Verkehr</div>
+- TOP 2.2.: Stadtentwicklung im Münchner Osten/München-Riem - <div>siehe Protokoll</div>
+- TOP 2.3.: Gefährliche Verkehrssituation in der Friedenspromenade - <div>WL an das Kreisverwaltungsreferat</div>
+- TOP 2.4.: Gefahrenstelle an der Xaver-Weismor-Straße - <div>nach Antrag</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 5.1.: Riemer Park (Skateanlage und Wiese); Skate-Fun-Festival des Echo e. V. am 14.09.2013 - <div>Zustimmung</div>
+- TOP 5.2.: Truderingerstr.; Betriebszeitänderung des Trink- und Imbisskiosk - <div>Abgelehnt, siehe Protokoll</div>
+- TOP 5.3.: Anhörungsrecht des BA 2 Ludwigsvorstadt-Isarvorstadt bei Entscheidungen und Besprechungen zum Oktoberfest; Anhörung des Direktoriums - <div>Zustimmung zum Antrag des BA 2</div>
+- TOP 5.4.: Verkehrsmaßnahmen Landshamer Straße; Vorfahrtsänderung und Haltverbote - <div>Zustimmung</div>
+- TOP 5.5.: Verkauf von städtischen Immobilien; Anhörung des Bezirksausschusses gem. § 13 der BA-Satzung 5.5.1 Willy-Brandt-Allee/Selma-Lagerlöf-Str. 5.5.2 Willy-Brandt-Allee/Astrid-Lindgren-Str. - <div>Zustimmung</div>
+- TOP 5.6.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; Anhörung des Direktoriums - <div>Der BA 15 fordert das alleinige Entscheidungsrecht für die Gremien</div>
+- TOP 5.7.: Kunst im öffentlichen Raum - wir hier (Teil 2) - Willy-Brandt-Platz vom 01.10. bis 31.10.2013 - <div>Zustimmung</div>
+- TOP 5.8.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder, bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Antrag Nr. 08-14 / B 4578 des BA 16 vom 05.02.2013; Antwortschreiben des Direktoriums vom 13.05.2013 mit der Bitte um Stellungnahme - <div>vertagt auf September</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Wachtelweg 22 (TOP 7.3.4 vom 18.07.2013) - <div>vertagt auf September</div>
+- TOP 7.2.: Reschstr. 6 - <div>vertagt auf September</div>
+- TOP 7.3.: Wasserburger Landstr. 183 - <div>vertagt auf September</div>
+- TOP 7.4.: Reiherweg 9 Haus A und B - <div>vertagt auf September</div>
+- TOP 7.5.: Mönchbergstr. 13 - <div>vertagt auf September</div>
+- TOP 7.6.: Messestadt Riem Bebauungsplan mit Grünordnung Nr. 2065 Willy-Brandt-Allee (südlich), Astrid-Lindgren-Straße (westlich), Michael-Ende-Straße (beidseits), Elisabeth-Mann-Borgese-Straße (nördlich), Heinrich-Böll-Straße (östlich) Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728 h und Nr. 1728 l und des Bebauungsplanes Nr. 1952) 2 Bürgerschreiben - <div>vertagt auf September</div>
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Holi-Festival am 31.08.2013 auf der Galopprennbahn - <div>zur Kenntnis genommen</div>
