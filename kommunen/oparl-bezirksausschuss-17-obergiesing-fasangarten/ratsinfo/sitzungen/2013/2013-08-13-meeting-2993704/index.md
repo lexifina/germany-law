@@ -1,0 +1,53 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2993704
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2993704
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Schreiben der Klasse 3 g der Grundschule an der St.-Martin-Schule über die Ergebnisse des Stadtteilcheck "auf Herz und Rampen prüfen"
+- TOP 2.2.: Verschmutzung der Anwohnerstraße Firstalmstraße durch Baustellenfahrzeuge, Bürgeranliegen von Herrn M. vom 13.07.2013
+- TOP 2.3.: Verkehrssituation in der Siedlung Tegernseer Landstraße, Bürgeranliegen von Herrn O. vom 05.08.2013
+- TOP 2.4.: eingeschränktes Halteverbot für Anlieferzone/Radlständer, Bürgeranliegen von Herrn G. vom 06.08.2013
+- TOP 2.5.: Fußgängerampel in der Tegernseer Landstraße / Watzmannstraße; Bürgeranliegen von Herrn A. vom 22.08.13
+- TOP 3: Anträge/Anfragen
+- TOP 4: Entscheidungsfälle
+- TOP 4.4.1.: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksaus
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative "Mäcki-Löffel" e.V. Beschaffung von fünf Bewegungselementen
+- TOP 4.4.2: Sonstige Entscheidungsfälle
+- TOP 5: Anhörungsfälle
+- TOP 5.2.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2); 5.1.1 Balanstr. 386, Errichtung eines Zweifamilienhauses mit Garage und Carport und Abbruch des Bestandsgebäudes, Anhörung vom 22.07.2013 5.1.2 Gietlstr. 29, Nutzungsänderung eines Ladens in eine Wohnung, Anhörung vom 22.07.2013 5.1.3 Herzogstandstr. 1, Sanierung und Umbau Dachgeschoss, Anhörung vom 22.07.2013 5.1.4 Tegernseer Landstr. 99, Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung vom 22.07.2013 5.1.5 Eschenbachstr. 16, TEKTUR, DG-Ausbau und energetische Sanierung, Anhörung vom 22.07.2013 5.1.6 Eschenbachstr. 18, TEKTUR, DG-Ausbau und energetische Sanierung, Anhörung vom 22.07.2013 5.1.7 Eschenbachstr. 2, TEKTUR, DG-Ausbau und energetische Sanierung 5.1.8 Eschenbachstr. 4, TEKTUR, DG-Ausbau und energetische Sanierung 5.1.9 Eschenbachstr. 10, TEKTUR, DG-Ausbau und energetische Sanierung 5.1.10 Alpenstr. 7, Umbau und Erweiterung (Anbau) des Rückgebäudes
+- TOP 5.3.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse - Anhörung, BA-Antrags-Nr. 08-14 / B 03384 des BA 15 Trudering-Riem, Anhörung Direktorium vom 09.07.2013
+- TOP 5.4.: Anhörungsrecht des BA 2 bei Entscheidungen und Besprechungen zum Oktoberfest, BA-Antrags-Nr. 08-14 / B 04288 des BA 2 - Ludwigsvorstadt-Isarvorstadt, Anhörung Direktorium vom 23.07.2013
+- TOP 5.5.: Anmietung einer Teilfläche in der Neubaumaßnahme Pöllatstr. 11 der GEWOFAG im 17. Stbz. Giesing ab 2016 für den Betrieb eines Familien- und Beratungszentrums, einer mobilen Tagesbetreuung für Kinder eines Nachbarschaftstreffpunktes, Anhörung zur Beschlussvorlage vom 22.07.2013
+- TOP 5.6.: Bauleitplanung der Gemeinde Unterhaching, Aufstellen des Bebauungsplanes Nr. 143/2008 für das Gebiet südlich der Hans-Durach-Straße und nördlich des Glonner Weges sowie westlich des Oberweges für Wohnbau- und Gewerbeflächen, Anhörung PlanR vom 24.07.2013
+- TOP 5.7.: Vollzug des Baugesetzbuches; Frühzeitige Beteiligung im Verfahren zur 26. Änderung des Flächennutzungsplanes der Gemeinde Unterhaching in dem Bereich westlich des Grünwalder Weges, südlich der Erwin-Lesch-Straße und nördlich des Wirtsweges, Frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange, Anhörung der Gemeinde Unterhaching vom 18.08.2013
+- TOP 5.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.9.: Halteverbote für Filmaufnahmen; hier: Halteverbotszone "Am Bergsteig"
+- TOP 5.10.: Einwand gegen BA-Schaukästen Giesinger Bahnhofplatz, Bitte alternativen Standortwunsch, Information des BauR vom 08.08.2013
+- TOP 5.11.: Bürgerentscheid Arbeitstitel: "Olympiabewerbung München 2022", Vorgesehene Abstimmungsräume, Anhörung KVR vom 09.08.2013
+- TOP 6: Baumschutz
+- TOP 6.6.1: Einzelfälle
+- TOP 6.12.: 1. Chiemgaustr. 63, 1 Robinie, Antrag vom 24.04.2013 2. Dreisesselbergstr. 11a, 1 Zypresse, Antrag vom 10.06.2013 3. Gietlstr. 2a, 2 Thuja, Antrag vom 18.05.2013
+- TOP 6.6.2: Baumbestandspläne
+- TOP 6.13.: 1. Balanstr. 386
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.14.: Baufälle im 17. Stadtbezirk
+- TOP 8: Sonstiges
+- TOP 9: Termine, Ankündigungen, Verschiedenes
+- TOP 10: Nichtöffentlicher Teil
