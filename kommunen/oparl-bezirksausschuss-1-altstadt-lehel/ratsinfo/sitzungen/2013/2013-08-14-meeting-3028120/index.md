@@ -1,0 +1,106 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-08-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3028120
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3028120
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: NACHTRAG: Bürgerentscheid Arbeitstitel: ?Olympiabewerbung München 2022?, vorgesehene Abstimmungsräume
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sendlinger Straße 25: Umbau und Neugestaltung der Erdgeschoss-Fassade und des Hauseingangs (Straßenseite), Neubau und Überdachung des Kellereingangs (Hofseite) sowie Nutzungsänderung Läden im Erd- und 1. Obergeschoss: Lager zu Ladenflächen (vertagt aus der Sitzung vom 16.07.2013)
+- TOP .2.: Perusastraße 5: Einbau eines Markisendachs über der Freischankfläche der Gaststätte ?Zum Franziskaner? (vertagt aus der Sitzung vom 16.07.2013)
+- TOP .3.: Kaufingerstraße 18: Nutzungsänderung Dachgeschoss, Wohn- zu Gewerbefläche (Vorbescheid)
+- TOP .4.: Augustinerstraße 1: Neuerrichtung eines Gebäudes (Tektur)
+- TOP .5.: Errichtung einer 3-Feld-Tennis-Traglufthalle, Nutzung temporär im Winterhalbjahr
+- TOP .6.: Thierschstraße 8 ? 10: Neubau eines Wohnheims für Auszubildende (Vorbescheid)
+- TOP .7.: Maximilianstraße 33: Nutzungsänderung und Umbau eines Ladengeschäfts in ein Café Restaurant mit Freischankfläche mit 138 Personen
+- TOP .8.: NACHTRAG: Altheimer Eck: Umbau und Dachgeschoss-Neubau mit Nutzungsänderung: Büro zu Wohnen (1.-3. OG)
+- TOP .9.: NACHTRAG: Sebastiansplatz 9: Umbau Hotel ?Blauer Bock? (Modernisierung von 47 Zimmern und 44 Bädern, Nutzungsverschiebung von Nebenräumen zu Hotelzimmern, Umbau einer Wohnung, Umbauten im Keller)
+- TOP .1.: Bürgeranliegen: Straßenmusik und Betteln in der Altstadt
+- TOP .2.: Bürgeranliegen: Anpassung der Anrt und Anzahl der Müllbehälter an den Isaranlagen im bereich der Praterinsel und der Kohleninsel an die zunehmende Nutzung als Erholungs- und Freizeitgelände
+- TOP .3.: Bürgeranliegen: Flaschenverbot an der Isar
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Cole&Porter?, Sendlinger Straße 10: Genehmigung einer Freischankfläche
+- TOP .2.: ?Brasserie L'Atelier Art & Vin?, Westenriederstraße 43: Erweiterung einer bestehenden Freischankfläche (vertagt aus der Sitzung vom 16.07.2013)
+- TOP .3.: Antrag zum Betrieb eines Wirtschaftsgartens auf Privatgrund, Sattlerstraße 1
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Kultur- und Shoppingnacht am 06.09.2013, Münchner Innenstadt
+- TOP .2.: Irisch-Bayerisches Kulturfest vom 13.09.-15.09.2013, Sendlinger-Tor-Platz
+- TOP .3.: Bauernmarktmeile am 29.09.2013, Odeonsplatz
+- TOP .4.: Veranstaltungen des Literaturhauses am 14.09.2013, Salvatorplatz
+- TOP .5.: Begleitprogramm zum Oktoberfestumzug am 22.09.2013, Salvatorplatz
+- TOP .6.: Informationsveranstaltung ?Verbraucher im Dunkeln ? was kann ichdenn noch essen? im Rahmen der Nacht der Umwelt am 13.09.2013, Rindermarkt
+- TOP .7.: Prinzenpaarproklamation am 11.11.2013, Marienplatz
+- TOP .8.: Informationsveranstaltung des Erz. Ordinariat am 25.10.2013, Karlsplatz
+- TOP .9.: Informationveranstaltung von Aktion Deutschland Hilfe e.V. am 30.09.2013, Neuhauser Straße und Rindermarkt
+- TOP .1.: Erweiterung des Christkindlmarkts 2013
+- TOP .2.: Anhörungsrecht des Bezirksausschuss 2 bei Entscheidungen und Besprechungen zum Oktoberfest, Änderung der BA-Satzung
+- TOP .1.: Bürgeranliegen: Parksituation Jakobsplatz/Oberanger 9 (Rückfrage zum Beschluss vom 16.07.2013)
+- TOP .1.: Parkgarage am Altheimer Eck; Änderung von Verkehrsregelungen in der Damenstiftstraße, Eisenmannstraße und dem Altheimer Eck, Verkehrsrechtliche Anordnung
+- TOP .2.: Öffnung von einbahngeregelten Straßen in der Altstadt für den gegenläufigen Radverkehr
+- TOP .3.: Aufhebung der Einbahnregelung Hofgraben
+- TOP .1.: Partizipation ernst nehmen ? Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse
+- TOP .1.: NACHTRAG: Antwortschreiben an das KVR bzgl. barrierefreie Wahllokale im Stadtbezirk 1
+- TOP .1.: Sitzungstermine 2014
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Information des Direktoriums bzgl. der Ermittlung der Einwohnerzahlen im Hinblick auf die Kommunalwahl 2014
+- TOP 0.2.: Antwortschreiben des KVR zum Schreiben des BA bzgl. barrierefreier Wahllokale im Stadtbezirk 1
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung, Beschluss des Ausschusses für Stadtplanung und Bauordnung am 17.07.2013
+- TOP 0.3.: Antwortschreiben der LBK zur Anfrage des BA bzgl. des Bauvorhabens Kreuzstraße 17, TOP 2013.06 B 0.1
+- TOP 0.4.: Abdruck der Stellungnahme der Landeshauptstadt München zur Planfeststellung 2. S-Bahn-Stammstrecke
+- TOP 0.5.: Schreiben und Baugenehmigung der LBK zum Bauvorhaben Thierschstra0e 33
+- TOP 0.6.: Information des BA über Nicht-Berücksichtigung seiner Bedenken bei der Erteilung von Baugenehmigungen
+- TOP 0.7.: Schreiben des BA 16 zum Antrag des BA 5 auf Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder
+- TOP 0.8.: Baugenehmigung Weinstraße 1 (Donisl)
+- TOP 0.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.10.: Vorbescheid Kreuzstraße 17 / Sendlinger Straße 46
+- TOP 0.11.: Antwortschreiben der LBK zum Schreiben des BA bzgl. des Bauvorhabens Kaufingerstraße 5 Laden- und Passagenumbau
+- TOP 0.12.: Bebauungsplan Oettingenstraße 6 - 8
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Antrag des BA 4 zur Änderung der Freischankflächensatzung, Neubeantragung bei Pächterwechsel
+- TOP 0.6.: Antwortschreiben des Vorsitzenden auf eine Anfrage bzgl. der Freischankflächenbeantragung nach dem Umbau des Tals
+- TOP 0.7.: Defekte Bänke am St.-Anna-Platz, Änderung der Federführung
+- TOP 0.8.: Eilentscheidung Isarinselfest -Alternative Planung Vater-Rhein-Brunnen
+- TOP 0.9.: Antwortschreiben der AWM zum Standort des Altkleidercontainers, TOP 2013.07 A 3.1
+- TOP 0.10.: Schreiben des Vorsitzenden im Rahmen des Eilentscheidungsverfahrens zur CSU-Stadtratsanfrage zum Beleuchtungskonzept Viktualienmarkt
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Radverkehrsführung in der Maximilianstraße
+- TOP 0.2.: Zwischennachricht zum BA-Antrag Nr. 08-14/B 3808: Sperrung der Prälat-Zistl-Straße für den KFZ-Verkehr in der Südwest-Nordost-Richtung ab der Zufahrt zur Tiefgarage der Schrannenhalle
+- TOP 0.3.: Gefahrenbaumfällung Maximilianstraße 58
+- TOP 0.4.: Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der Landeshauptstadt München, Erlass einer Haushaltsbefragungssatzung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013, Sitzungsvorlage Nr. 08-14 / V 12209
+- TOP 0.5.: Antwortschreiben des KVR zur Stellungnahme des BA 1 zum CarSharing in München, Sitzungsvorlage Nr. 08-14 / V 11817, Beschluss des Kreisverwaltungsausschusses vom 30.04.2013
+- TOP 0.6.: Verbundbericht MVG
+- TOP 0.7.: Schreiben des KVR an CityPartnerMünchen e.V. bzgl. Straßensperren Brienner Straße
+- TOP 0.8.: Unfall- und Schadensrisiken minimieren ? Bordsteine in München entschärfen, Beschluss des Bauausschusses vom 16.07.2013, Sitzungsvorlage Nr. 08-14 / V 11625
+- TOP 0.9.: Antwortschreiben des Kulturreferenten zum BA-Antrag Entfernung der Buddha-Skulptur am Viktualienmarkt, Wahl eines neues Standorts, Nr. 08-14 / B 4921
+- TOP 0.10.: Bürgerbeschwerde über Rasen Marienhof, Schreiben an Gartenbau
+- TOP 0.11.: Schreiben des Baureferats an das Kreisverwaltungsreferat bzgl. der Vorfahrt Konzernzentrale Linde AG (TOP 2013.07 D 2.1)
+- TOP 0.12.: Fahrbahnsanierung Kreuzungsbereich Zweibrückenstraße / Erhardtstraße
+- TOP 0.13.: Nachtbauarbeiten Zweibrückenstraße / Erhardtstraße / Steinsdorfstraße
+- TOP 0.14.: Mitteilung des Gartenbaus bzgl. Rasenpflege Marienhof
+- TOP 0.15.: Zwischennachricht Einführung Citybuslinie 101
+- TOP 0.16.: Schreiben des BA 2 bzgl. Radverkehrsführung Zweibrückenstraße
+- TOP 0.1.: Entfernung der Buddha-Skulptur am Viktualienmarkt, Wahl eines neuen Standorts
+- TOP 0.2.: Antwortschreiben des Sozialreferats auf einen Antrag des BA 12 zur Aufnahme unbegleiteter minderjähriger Flüchtlinge in Obhut des Jugendamtes
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
