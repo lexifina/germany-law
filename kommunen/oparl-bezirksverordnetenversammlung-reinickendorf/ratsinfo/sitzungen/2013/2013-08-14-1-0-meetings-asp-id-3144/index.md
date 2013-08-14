@@ -1,0 +1,71 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-08-14T17:00:00+02:00
+- Ende: 2013-08-14T19:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3144
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3144
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=72149
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 21. Sitzung der BVV am 14.08.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 21. Sitzung der BVV am 14.08.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 21. Sitzung der BVV am 14.08.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Klimaschutz in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Waldweg an der B96 freilegen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Aktive Stadtzentren einrichten (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Prignitz-Express - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Auch auf den Bahnhöfen der S 25 dynamische Fahrgastinformationsanzeigen vorsehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Nutzerinnen und Nutzer bei Spielplatzgestaltung einbeziehen 1 - überwiesen
+- TOP 7.7: Frühzeitige Information über Besuchergruppen aus Partnerstädten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Weg auf dem Gelände der 1. Gemeinschaftsschule Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Sicherung der Raumkonzepte am Schulstandort Treskowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Geeignete Straßen für das Modellprojekt "Berliner Begegnungszonen" in Reinickendorf finden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Seniorenticket flexibler anbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Fahrkartenautomat, Fahrkartenentwerter und elektronischen Zugzielanzeiger am Südzugang des S-Bahnhofs Waidmannslust installieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: A111 instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Barrierefreies Umsteigen am S-Bahnhof Hermsdorf - überwiesen
+- TOP 7.15: Aufstellung des Bebauungsplanes 12-48 für die Grundstücke Ollenhauerstraße 125-127 mit Ausnahme der im Bebauungsplan XX-134 als Straßenverkehrsflächen festgesetzten Teilflächen im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 7.16: Aufstellung des Bebauungsplanes XX-240b-2 für das Grundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 7.17: Bestellung einer Ombudsfrau / Vertragsverlängerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Betreutes Wohnen in Reinickendorf - überwiesen
+- TOP 8.2: Windpocken im Marie-Schlei-Haus - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Interessenbekundungsverfahren für die Jugendfarm Lübars - überwiesen
+- TOP 9.2: Übertragung des Betriebes und der Unterhaltung der "Familienfarm Lübars" an einen freien Träger der Jugendhilfe zum 01.01.2014 gemäß § 12 Abs. 2 Nr. 10 Bezirksverwaltungsgesetz - überwiesen
+- TOP 9.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Konzept für Residenzstraße entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Pfandringe in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Mit dem Wasser-Taxi zum Strandbad Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Kunst in Reinickendorf II - Sicherung einer Sammlung von Skulpturen, historischen Bauteilen und Straßenmöbeln - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Einmündungssituation Thaterstr. Ecke Residenzstr. verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: E-Box der BSR auch in Reinickendorf einführen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Mastentyp bei neuer elektrischer Beleuchtung beibehalten! - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Schutzstreifen Hennigsdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Mittelbestreitung für die integrationspolitische Arbeit im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Erhalt der Fraueninfrastrukturstellen - überwiesen
+- TOP 12.2: Smiley-System auch in Reinickendorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Elektrobuslinie auch in Reinickendorf einführen - überwiesen
+- TOP 13.2: Notarztstandorte - überwiesen
+- TOP 13.3: Kinderärztliche Versorgung am Humboldt-Krankenhaus - überwiesen
+- TOP 13.4: Luft- und Lärmmessstationen - überwiesen
+- TOP 13.5: Verkehrssicherheit an der Familienfarm Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Spielplätze Cité Foch - ohne Änderungen in der BVV beschlossen
