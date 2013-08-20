@@ -1,0 +1,118 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-08-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839873
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839873
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Budget der Bezirksausschüsse - nicht verbrauchte Restmittel; Anfrage des BA 18 aus der Sitzung vom 16.07.2013; Antwort des Direktoriums vom 18.07.2013 (neutrale Erledigung)
+- TOP 3.1.: Straßenfest der Aktionsgruppe Untergiesing e.V. vom 22.06.13; Kurzbericht
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Wiedereinrichtung des Fußgängerüberwegs von der Mailänder Straße über die Grünwalder Straße; Bürgerantrag vom 08.07.2013 (verwiesen aus der Sitzung vom 16.07.2013)
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung; Projektname: Claude-Lorrain-Straße, Bahnunterführung am Hans-Mielich-Platz; Beschluss des BA 18 vom 20.08.13
+- TOP 3.1.: Erinnerungsverfahren; Candidstraße - Stauraum vor der Grünwalder Straße sowie Fahrspur zur Bushaltestelle fräsen; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.2.: Erinnerungsverfahren - Harthauser Str. / Holzkirchner Straße - Deckensanierung; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.3.: Erinnerungsverfahren - Quartiermaßnahme Deckensanierung; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.4.: Städt. Flurstück 12683/8, Sekt. VII, Candidplatz, 18. Stadtbezirk - Errichtung einer Schranke; Anhörung des Kommunalreferats vom 19.07.13 mit der Bitte um Stellungnahme
+- TOP 3.1.: Austausch des Straßenbelags in der Bruggspergerstraße; Bürgeranliegen aus der Sitzung vom 18.06.13; Antwortschreiben des Baureferats vom 05.07.13 (positive Erledigung)
+- TOP 3.2.: Überdachung des U-Bahnein- und -ausgangs Mangfallplatz, Ecke Naupliastraße / Oberbiberger Straße; BA-Antrag Nr. 08-14 / B 04730 vom 19.02.13; Schreiben des BA 18 vom 06.06.13; zweites Antwortschreiben der MVG vom 17.07.13 (negative Erledigung)
+- TOP 3.3.: Ausbau Südring für ÖPN und Ausbau Kurven / Verbindungen vom / zum Nordring; BA-Antrag Nr. 08-14 / B 04937 vin 18.06.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 30.07.13 (positive Erledigung)
+- TOP 3.4.: Verkehrssituation am Wettersteinplatz; Bürgeranliegen; Ortstermin mit dem Baureferat und Vertretern des UA Verkehr vom 27.06.13; Antwortschreiben des Baureferats vom 23.07.13 (positive Erledigung)
+- TOP 3.1.: 1. Unfall- und Schadensrisiken minimieren - Bordsteine in München entschärfen; Antrag Nr. 08-14 / A 04014 der FW vom 04.02.13 2. Bordsteine nicht zum Unfallrisiko werden lassen; Antrag Nr. 08-14 / B 04544 des BA 15 vom 17.01.13; Sitzungsvorlage Nr. 08-14 / V 11625; Beschluss des Bauausschusses vom 16.07.13
+- TOP 3.2.: Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der LHM; Erlass einer Haushaltsbefragungssatzung; Sitzungsvorlagen Nr. 08-14 / V 12209; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.07.2013 (SB) zu 3.2.6.2 Beschluss des Verwaltungs- u. Personalausschusses als Feriensenat vom 07.08.13
+- TOP 3.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2014; Sitzungsvorlage Nr. 08-14 / V 12455; Beschluss des Ausschusses für Arbeit und Wirtschaft am 16.07.2013 (VB)
+- TOP 3.4.: München beseitigt Barrieren für mobilitätseingeschränkte Personen und Blinde im öffentlichen Raum; Im Fokus: München beseitigt Barrieren für mobilitätseingeschränkte Personen; Stadtratsantrag Nr. 08-14 / A 03516 vom 17.07.12; Sitzungsvorlage Nr. 08-14 / V 12111; Beschluss des Kinder- u. Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung u. Sport, des Verwaltungs- u. Personalausschusses, des Gesundheitsausschusses, des Kulturausschusses, des Ausschusses für Stadtpl. u. Bauordnung, des Kreisverwaltungsausschusses, des Kommunalausschusses u. des Ausschusses für Arbeit u. Wirtschaft in der gemeinsamen Sitzung vom 02.07.13 (SB)
+- TOP 3.5.: Nahmobilität in München - Konzeption und weiteres Vorgehen a) Darstellung des Vorgehens zur zweistufigen Erarbeitung einer integrierten Nahmobilitätsstrategie sowie die Beschreibung entsprechender Ziele und Handlungsfelder b) Behandlung von Anträgen; Sitzungsvorlagen Nr. 08-14 / V 12380; Kurzübersicht zum Beschluss der Vollversammlung des Stadtrates vom 24.07.13
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen; hier: Unterrichtung des Baureferats-Gartenbau vom 18.07.13 über das Fällen von Gefahrenbäumen
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ganztags gemeinsam gestalten; Betreuung von Kindern/Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien; BA-Antrag Nr. 08-14 / B 04784 des BA 22; Unterstützung durch den BA 18; Antwortschreiben des Sozialreferats vom 15.07.13 (positive Erledigung)
+- TOP 3.2.: Kinderbetreuung im Stadtbezirk; Bürgeranfrage vom Juni 2013; Antwortschreiben des RBS vom 22.07.13 (neutrale Erledigung)
+- TOP 3.1.: Evaluation des 1. Aktionsplanes zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK); Finanzierung der externen Vergabe; Sitzungsvorlage Nr. 08-14 / V 12113; Beschluss des Kinder- u. Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung u. Sport, des Verwaltungs- u. Personalausschusses, des Gesundheitsausschusses, des Kulturausschusses, des Ausschusses für Stadtpl. u. Bauordnung, des Kreisverwaltungsausschusses, des Kommunalausschusses u. des Ausschusses für Arbeit u. Wirtschaft in der gemeinsamen Sitzung vom 02.07.13 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: BV Obere Weidenstraße 11; Zweckentfremdung durch Abbruch von Wohnraum; Bürgerschreiben vom 28.06.13; Antwortschreiben des Sozialreferats vom 11.07.13 (verwiesen aus der Sitzung vom 16.07.13)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Freischankflächenantrag Pilgersheimer Str. 48; Beschluss des BA 18 vom 20.08.13
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Genehmigung einer Freischankfläche in der Konradinstraße 2; Beschluss des BA 18 vom 20.08.13
+- TOP 3.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Genehmigung einer Freischankfläche in der Säbener Str. 5; Beschluss des BA 18 vom 20.08.13
+- TOP 3.1.: Neue Entscheidung über Freischankflächengenehmigung bei Pächterwechsel; BA-Antrag Nr. 08-14 / B 04947 des BA 4 vom 26.06.13 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 3.2.: Befestigung der Fläche vor den Abfallcontainern Säbener Straße / Kuntersweg; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 16.07.13) - <div>nach Antrag</div>
+- TOP 3.1.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse - Anhörung; BA-Antrag Nr. 08-14 / B 03384 des BA 15 vom 20.10.11; Schreiben des Direktoriums vom 09.07.13 mit der Bitte um Stellungnahme
+- TOP 3.2.: Bauleitplanung der Gemeinde Pullach; Aufstellung des vorhabenbezogenen Bebauungsplanes Nr. 39 "Pater-Rupert-Mayer-Schulzentrum"; Zuleitung des Referats für Stadtpl. u. Bauordnung vom 24.07.13 mit der Bitte um Stellungnahme bis 06.09.13
+- TOP 3.3.: 3.5.4.5 Anhörungen zu Bauvorhaben gem. Art. 65 Abs. 1 BayBO 3.5.4.5.1 Alois-Wohlmuth-Str. 21, Umbau u. Erweiterung eines Einfamilienhauses; Anhörung vom 29.07.13 3.5.4.5.2 Am Blumengarten 4, Sanierung eines Altbaus und Teilsanierung eines Wohnhauses; Anhörung vom 26.07.13 3.5.4.5.3 Säbener Str. 90, Abbruch Bestandsgebäude und Neubau Einfamilienhaus mit Einliegerwohnung; Anhörung vom 31.07.13
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hochkalterstr. 11 - 25, Ausbau der Dachgeschosse zu Geschosswohnungen - VORBESCHEID; Anhörung vom 04.07.13 (vertagt aus der Sitzung vom 16.07.13)
+- TOP 3.2.: Harthauser Str. 87, Neubau einer Wohnanlage (12 WE) mit TG - TEKTUR; Anhörung vom 04.07.13 (vertagt aus der Sitzung vom 16.07.13)
+- TOP 3.3.: Hebenstreitstraße, Neubau eines Appartementhauses für Studenten mit TG und Gemeinschaftsflächen; Anhörung vom 04.07.13 (vertagt aus der Sitzung vom 16.07.13)
+- TOP 3.4.: Quagliostraße 6, Neubau eines Mehrfamilienhauses - VORBESCHEID; Anhörung vom 15.07.13 (vertagt aus der Sitzung vom 16.07.13)
+- TOP 3.5.: Schilcherweg 5, Neubau 2er Mehrfamilienhäuser - VORBESCHEID; Anhörung vom 23.07.13
+- TOP 3.6.: Mondstr. 12, Neubau eines Stadthauses (2 WE) - TEKTUR; Anhörung vom 18.07.13
+- TOP 3.7.: Heigelstr. 20, Neubau dreier Stadthäuser mit Doppelparker und Carport - Haus 1; Anhörung vom 01.08.13
+- TOP 3.8.: Heigelstr. 20, Neubau dreier Stadthäuser mit Doppelparker und Carport - Haus 2; Anhörung vom 01.08.13
+- TOP 3.9.: Heigelstr. 20, Neubau dreier Stadthäuser mit Doppelparker und Carport - Haus 3; Anhörung vom 01.08.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Heigelstr. 20, Neubau dreier Stadthäuser mit Doppelparker u. Carport - Haus 1; Anhörung vom 24.07.13
+- TOP 3.2.: Heigelstraße 20, Neubau dreier Stadthäuser mit Doppelparker und Carport - Haus 2; Anhörung vom 24.07.13
+- TOP 3.3.: Heigelstraße 20, Neubau dreier Stadthäuser mit Doppelparker und Carport - Haus 3; Anhörung vom 24.07.13
+- TOP 3.1.: Anwesen Winterstraße - Nachfrage des BA 18 aus der Sitzung vom 18.06.13 zum Antrag auf Zweckentfremdung von Wohnraum durch Abbruch; Antwort des Sozialreferats vom 10.07.13 (neutrale Erledigung)
+- TOP 3.2.: Antrag auf Verbesserung der Lebenssituation am Mittleren Ring, Tegernseer Landstraße - St.-Quirin-Platz; BA-Antrag Nr. 08-14 / B 04726 vom 19.03.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 16.07.13 (negative Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Zum Dachs", Säbener Str. 173; Unterrichtung vom 11.07.13 3.5.6.2.2 Kleingaststätte "Bartini", Naupliastr. 52; Unterrichtung vom 30.07.13
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Gabriel-Max-Straße; Unterrichtung vom 10.07.13 3.5.6.3.2 Säbener Str. 90; Unterrichtung vom 30.07.13 3.5.6.3.3 Steingadener Str.; Unterrichtung vom 05.08.13
+- TOP 3.4.: PERSPEKTIVE MÜNCHEN; Langfristige Siedlungsentwicklung a) Ergebnisse der Gutachtenphase b) Weiteres Vorgehen, Umsetzungsschritte und Projekte c) Anträge 1. Impulse für mehr Wohnungsbau in München: Finanzielle Anreize für eine Stadt-Land-Kooperation; Antrag Nr. 08-14 / A 03806 vom 19.11.12 2. Wohnungsbaukonferenz mit Gemeinden und Landkreisen der Region 14; Antrag Nr. 08-14 / A 03840 vom 26.11.12; Sitzungsvorlagen Nr. 08-14 / V 12019; Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Antrag Nr. 08-14 / B 04578 des BA 16 vom 05.02.13; Schreiben des Direktoriums vom 13.05.13; Anmerkungen des BA 16 aus der Sitzung vom 02.07.13 mit der Bitte um Kenntnisnahme
+- TOP 3.2.: Füllstr. 3, Fl.Nr. 12869/81, Gemarkung Sektion VII, Neubau einer Wohnanlage mit TG - TEKTUR zu 1.2-2011-10605-33; negative Stellungnahme des BA; Abdruck der Baugenehmigung vom 10.07.13
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Flohmarkt der Emmaukirche / Aufbau eines Pavillons am Laurinplatz vom 13.10.2013 bis 22.10.2013; Zuleitung des KVR vom 06.08.13 mit der Bitte um Stellungnahme bis 20.09.13
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest; BA-Antrag Nr. 08-14 / B 04288 des BA 2 vom 02.10.2012; Schreiben des Direktoriums vom 23.07.13 mit der Bitte um Stellungnahme zur beantragten Änderung der BA-Satzung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.13; Zwischennachricht des Direktoriums vom 02.08.13 mit der Bitte um Fristverlängerung bis 31.12.2013
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014; Schreiben des Direktoriums vom 08.07.2013 (vertagt aus der Sitzung vom 16.07.2013)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
