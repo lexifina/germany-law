@@ -1,0 +1,72 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-08-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877372
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877372
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Schaffung der planungsrechtlichen Voraussetzungen für Wohnnutzung auf den Grundstücken Berg-am-Laim-Straße 125 - 129 prüfen
+- TOP 3.1.1.2.: Friedenstraße 10 - Diskothek "Bullitt" - Antrag auf Außenschankfläche mit mobiler Bar
+- TOP 3.1.2.1.: Überquerungsmöglichkeit an der Kinderkrippe Neumarkter Straße 59 - <div></div>
+- TOP 3.1.2.2.: Abgrenzung eines Spielplatzes zur Berg-am-Laim-Straße
+- TOP 3.1.2.3.: Querungshilfe Bad-Kreuther-Straße - <div></div>
+- TOP 3.1.2.4.: Querungshilfe Bad-Schachener-Straße - <div></div>
+- TOP 3.1.2.5.: Schaffung einer An- und Abfahrtzone für die Kindertagesstätte St.-Michael-Str. 77 - <div></div>
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken
+- TOP 3.5.2.: Anhörungsrecht der Bezirksausschüsse bei Entscheidungen und Besprechungen zum Oktoberfest - BA-Antrags-Nr. 08-14 - B 04288 des Bezirksausschusses 2 v. 02.10.2012
+- TOP 3.6.1.: Ampfingstr. 6
+- TOP 3.6.2.: Annabrunner Str. 11
+- TOP 3.6.3.: Ellingerweg 82
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Perspektive München - Langfristige Siedlungsentwicklung - Vorlagen-Nr. V 12019
+- TOP 4.1.2.1.: Berg-am-Laim-Straße 73 - Aufstellung einer Warenauslage
+- TOP 4.1.2.2.: Dingolfinger Straße 11 - Kurzparkregelung vor der Kinderkrippe
+- TOP 4.1.2.3.: Änderung der Verkehrsführung in der Hansjakob-, Neumarkter und St.-Veit-Straße
+- TOP 4.1.2.4.: Erneuerung der Baumkirchner Straße, 2. Bauabschnitt, beidseitig durchgehende und verkehrssichere Radwege
+- TOP 4.1.2.5.: Nahmobilität in München - Konzeption und Vorgehen - Vorlagen-Nr. V 12380
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Projekt der Städtischen Ludwig-Thoma-Realschule
+- TOP 4.5.2.: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
