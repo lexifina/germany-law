@@ -1,0 +1,70 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-08-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2820405
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2820405
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Bürgerentscheid ?Olympiabewerbung München 2022? - Vorgesehene Abstimmungsräume
+- TOP .10.: sonstiges
+- TOP .1.: Sommerfest des HaidparkCity e.V. am 13.09.2013 an der Braunaugenstraße
+- TOP .2.: Streetlife Festival / Corso Leopold am 14. und 15.09.2013 zwischen Feldherrnhalle und Münchner Freiheit
+- TOP .2.: Aufnahme unbegleiteter minderjähriger Flüchtlinge in die Obhut des Jugendamtes
+- TOP .3.: Grundschule im Baugebiet Funkkaserne "Domagkpark"
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Don Quijote?, Schank- und Speisewirtschaft, Biedersteiner Str. 6
+- TOP .2.: ?Occam Deli?, Schank- und Speisewirtschaft, Feilitzschstr. 15
+- TOP .1.: Zuwendungsbewilligung / Bescheid über die Gewährung eines Zuschusses aus dem Budget des BA 12 in Höhe von 240,00 ? an das Evangelische Hilfswerk München für das Sommerfest der Teestube ?komm?-Streetwork am 09.08.2013
+- TOP .2.: Maximiliansgymnasium, Karl-Theodor-Straße 9; Bauliche Maßnahmen
+- TOP .3.: Aufstellung eines Bücherschrankes im Stadtbezirk 12
+- TOP .4.: Ruhestörung durch Veranstaltungen im Kesselhaus
+- TOP .5.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München); Sitzungsvorlage Nr. 08-14 / V 10764 Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Umstufung einer Teilstrecke der Straße ?Carl-Orff-Bogen?
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Ursulastraße 6, Fl.Nr.: 207/11, Neubau eines Wohnhauses mit Tiefgarage, einer Büroeinheit im EG und einer Gewerbeeinheit im RGB: Fällung eines Bergahorn und einer Linde
+- TOP .2.: Werner-Heisenberg-Allee 5, Fl.Nr. 301/20, Neubau einer Kletterhalle mit Gastronomie und Neugestaltung von 6 Tennisplätzen inkl. Parkplätzen: ca. 25 Baumfällungen laut Plan
+- TOP .3.: Hortensienstraße 2: 1 Rosskastanie und 1 Ahorn
+- TOP .4.: Clemensstraße 28, 1 Bergahorn, 2-stämmig
+- TOP .1.: Aufstellung des vorhabensbezogenen Bebauungsplanes Nr. 146 ?Ersatzneubau und Umbau Seniorenzentrum Bürgerstift Ismaning?
+- TOP .2.: Bauvorhaben: Viktoriastraße 32-34, Fl.Nr.: 379/47, Umbau und Sanierung mit DG-Ausbau, Ergänzung um Balkone
+- TOP .3.: Bauvorhaben Lilienthalallee 29, Fl.Nr.: 170/55, Bauliche Änderung WC, Änderung Höchstbesucherzahl, Aufstellungsflächen Sanitätscontainer, zusatzliche Notausgänge und Rettungswegführungen, Verlängerung der Nutzungsdauer
+- TOP .4.: Bauvorhaben Kaiserstraße 28, Fl. Nr.: Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage ? Tektur (hier: Nutzungsänderung EG + 1. UG: Einzelhandel zu Gastronomie)
+- TOP .5.: Bauvorhaben Kunigundenstraße 58, Fl.Nr.: 1224/37, Sanierung und Umbau einer DHH mit Errichtung eines neuen Dachstuhls
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Fällung einer Robinie (Straßenbegleitgrün) in der Virchowstr. 11 als Gefahrenbaum
+- TOP .1.: Neugestaltung Artur-Kutscher-Platz
+- TOP .2.: Verkauf des Grundstücks Flst. 874 (WA 6 Parkstadt Schwabing) Marianne-Brandt-Straße
+- TOP .3.: Mehr Platz für Frauen; Beschluss des Kommunalausschusses vom 18.07.2013; Sitzungsvorlage Nr.: 08-14 / V 12438
+- TOP .1.: Warnschilder vor Rutschgefahr bei Nässe auf der Brücke über dem Schwabinger Bach, Nähe Crailsheimstraße (Eilantrag)
+- TOP .1.: zeitlich begrenztes Parken am Nordfriedhof
+- TOP .1.: Absolutes Haltverbot in der Lindberghstraße gegenüber Anwesen 30
+- TOP .2.: Errichtung einer Anfahrtszone für den Kindergarten in der Hans-Döllgast-Straße
+- TOP .3.: Errichtung einer Anfahrtszone für den Kindergarten in der Ottl-Aicher-Straße 42
+- TOP .1.: Austausch der Lichtzeichenanlagen Luxemburger Straße / Ungererstraße Freisinger Landstraße / Wallnerstraße
+- TOP .2.: Umlegung der Bushaltestellen Freisinger Landstr./ Heidemannstr.
+- TOP .1.: Parklizenzverfahren in der Auensiedlung (Zwischennachricht zur BV-Empfehlung E 01876)
+- TOP .1.: Absolutes Haltverbot auf der Nordseite der Otl-Aicher-Straße ggü. Anwesen 20
+- TOP .1.: Nahmobilität in München ? Konzeption und weiteres Vorgehen Beschluss der Vollversammlung vom 24.07.2013; Sitzungsvorlage Nr.: 08-14 / V 12980
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (5)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
