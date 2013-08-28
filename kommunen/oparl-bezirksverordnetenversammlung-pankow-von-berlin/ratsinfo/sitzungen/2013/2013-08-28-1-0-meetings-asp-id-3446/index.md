@@ -1,0 +1,110 @@
+# 16. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2013-08-28T17:30:00+02:00
+- Ende: 2013-08-28T21:35:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3446
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3446
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=56444
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Bezahlbare Mieten sichern, Verdrängung verhindern" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.8.1: Vertagte Drucksachen aus der 15. BVV am 05.06.2013 - erledigt
+- TOP 1.8.1: Mittelbereitstellung für die integrationspolitische Arbeit der Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 1.8.1: Mittel für die Förderung der Integrations- und Migrant_innenprojekte erhöhen - überwiesen
+- TOP 1.9: Entwurf des Doppelhaushaltsplans 2014/2015 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - überwiesen
+- TOP 1.10: Ergänzungen (Nachschiebeliste) zur BVV-Drs. VII 0502/2013 Entwurf des Doppelhaushaltsplanes 2014/2015 für den Bezirk Pankow - überwiesen
+- TOP 1.11: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk 2 (Ortsteile Niederschönhausen, Rosenthal, Wilhelmsruh, Blankenfelde und Buchholz) im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Nachweis der im Haushaltsjahr 2012 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.13: Mauerpark - Stadtleben statt Betongold und Baufilz - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sicherung eines demokratischen und transparenten Planungsprozesses für die Entwicklung des Areals Thälmannpark/ Fröbelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Tabakwerbung bekämpfen - Jugendschutz umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Stimmabgabe für Volksbegehren vereinfachen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Mini-Querparken im verdichteten Bereich der Parkraumbewirtschaftung prüfen - in der BVV abgelehnt
+- TOP 1.18: Barrierefreiheit für alle - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Schulwegsicherung im Ortsteil Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Temporäre Lösungen für den Sportunterricht und für den Vereinssport in der Grundschule am Kollwitzplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Empfangsbestätigung für Antragsteller - beantwortet
+- TOP 1.22: Bildung eines zeitweiligen Ausschusses - überwiesen
+- TOP 1.23: Kommentierung des Thälmann-Denkmals - überwiesen
+- TOP 1.24: Zentrenkonzept erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Verbesserung der Verkehrssicherheit in der Buchholzer Straße - überwiesen
+- TOP 1.26: Bestätigung der Antragsabgabe für Sozialleistungen - überwiesen
+- TOP 1.27: Berliner Mietenbündnis verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Null Toleranz gegen Rechtsextremisten bei der Vergabe öffentlicher Aufträge - überwiesen
+- TOP 1.29: Keine Werbung für Tabak und Alkohol! - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Notfalleinsätze in der Parkraumbewirtschaftungszone - überwiesen
+- TOP 1.31: Entwicklung der Schülerzahlen und daraus folgende Maßnahmen - beantwortet
+- TOP 1.32: Sichere Radwegeverbindung zwischen Wiltbergstraße und der Berlin-Brandenburger Landesgrenze - überwiesen
+- TOP 1.33: Einrichtung eines zeitweiligen Ausschusses - zurückgezogen
+- TOP 1.34: Schwimmbad Pankow als Pilotprojekt - überwiesen
+- TOP 1.35: Bei Umbaumaßnahmen Kindertoiletten im Bezirksamt vorsehen - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Baumschäden online melden - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Komplettsanierung der Grundschule Wilhelmsruh schnellst möglich realisieren – Mobile Unterrichtseinheiten so früh wie möglich - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Lückenschluss für Fahrradfahrer_innen in der Ostseestraße - überwiesen
+- TOP 1.39: Kunst statt Leere! - überwiesen
+- TOP 1.40: Verkehrsanbindung der Ortsteile Karow und Buch - überwiesen
+- TOP 1.41: Wohnbaupotenziale in Karow-Süd zügig realisieren - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Grundstücksangelegenheit Sportstätte Berliner Allee 127 in 13088 Berlin (OT Weißensee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Wanderausstellung "Opfer rechter Gewalt in Deutschland seit 1990" präsentieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Antrag zur Einrichtung von Besuchsdiensten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Verkehrssicherheit in der Hauptstraße im OT Rosenthal erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Denkmal des Monats - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Kein Abriss des Gesobau-Wohnhauses Am Schlosspark 30-32 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Genderprojekt auflegen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Sportstätte am Weißensee – sportliche Nachnutzung ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Erhalt des Denkmals „Gleimtunnel“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Info-Schalter für den EliasHof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Stille Straße 10 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Mehr Sicherheit und weniger Lärm in der Hermann-Hesse-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Beschluss des BEA Pankow zum Grundschulessen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Kastanienallee (Prenzlauer Berg) als "verkehrsberuhigten Geschäftsbereich" ausweisen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: PC-gestützter Intranetzugang für Bezirksverordnete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Namen für Nummernstraßen: Frauenviertel jetzt! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Telefonlisten des Jobcenters veröffentlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Bevölkerung auf KATWARN aufmerksam machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Unverzügliche Aufstellung einer Ampel im OT Französisch-Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Positionierung des Bezirks Pankow zum StEP Wohnen von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Verkehrsberuhigung Schönholzer Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Überflüssige Prüfung von Unterschriften gescheiterter Volksbegehren beenden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Zentrale Antidiskriminierungsberatung Pankow im Bürgeramt Fröbelstraße 17 einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Schulstationen an jede Schule Pankows - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Ansprechperson für bürgerschaftliches Engagement - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Neue Energie für Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Bedeutenden Frauen einen würdigen Platz an einem zentralen Ort in Pankow geben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Gehweg Paul-Robeson-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Ordnungswidrigkeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Bürgersteige in der Pankgrafenstraße/ Pestalozzistraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Telefonliste der Bundesagentur für Arbeit Berlin Nord veröffentlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.39: Schulhofbeleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Schulessen - besser und sozial - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.41: Schutz eines unbefestigten Gehweges an der Panke-Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.42: WBS-Anträge zeitnah bearbeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.43: Benennungsabsicht für 30 Privatwege in der Anlage Schönwald und der Kleingartenanlage (KGA) Am Rollberg im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Verordnung zur Aufhebung der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs für die Wohnanlage Belforter Straße 5 – 8, Straßburger Straße 33 – 36, Metzer Straße 35 – 37 im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg vom 24. Mai 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Förderprogramm Städtebaulicher Denkmalschutz Teutoburger Platz, Humannplatz und Ostseestraße – Vorschlagsliste für die Programmplanung 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.46: Förderprogramm Stadtumbau Ost – Vorschlagsliste für die Programmplanung 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.47: Benennungsabsicht für den Platz (Gedenkort) an der Bornholmer Straße vor der Bösebrücke im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Gleichstellungspolitisches Leitbild - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.49: Neuverteilung der Erträgnisse der Sammelstiftung Kreuzberg - mit Abschlussbericht zur Kenntnis genommen
