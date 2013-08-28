@@ -1,0 +1,95 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-08-28T17:00:00+02:00
+- Ende: 2013-08-28T22:51:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2047
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2047
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Asylbewerberunterkunft Späthstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Unterkunft für flüchtende Menschen in der Späthstraße - überwiesen
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bezirkshaushaltsplan für die Jahre 2014/2015 (Doppelhaushalt) - überwiesen
+- TOP 7.2: Bebauungsplan XIV-263a ("Spielplatz Saalestraße Ost") - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bebauungsplan XIV-274b ("Waßmannsdorfer Dreieck") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Baumaßnahmen am Bahnhof Alt-Rudow - beantwortet
+- TOP 9.2: Lehr-und Lernmittel nicht ausgegeben? - beantwortet
+- TOP 9.3: Mangelhafte Ausschilderung über den Erhalt der Briefwahlunterlagen - beantwortet
+- TOP 9.4: Vermietung von Wohnungen im Haus Harz - beantwortet
+- TOP 9.5: Kommt die neue Clay-Oberschule noch? - beantwortet
+- TOP 9.6: Finanzmittel des Jobcenters - beantwortet
+- TOP 9.7: Konzerte Tempelhofer Feld - beantwortet
+- TOP 9.8: Ablagerung von Unrat im Mittelbuschweg - beantwortet
+- TOP 9.9: Orientierungshilfe für sehbehinderte Menschen - beantwortet
+- TOP 9.10: Haushaltsvollmacht für das Bezirksamt - beantwortet
+- TOP 9.11: Selbsterfüllende Prophezeiung - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Linksextremistisch motivierte Straftaten in Neukölln - beantwortet
+- TOP 10.2: Treffpunkt von Rechtsextremist_innen in Rudow? - beantwortet
+- TOP 10.3: Schnüffeln in sozialen Netzwerken - beantwortet
+- TOP 10.4: Kein Schnüffeln in sozialen Netzwerken - in der BVV abgelehnt
+- TOP 10.5: Neuköllner "Umsteiger_innen" im Schuljahr 2012/2013 - beantwortet
+- TOP 10.6: Mietspiegel 2013 - beantwortet
+- TOP 10.7: Mehrsprachiges Informationsblatt zu den neuen Schulabschlüssen BBR und MSA - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Geschäftsordnung Vorstand - vertagt
+- TOP 11.2: Eingaben und Beschwerden I - in der BVV abgelehnt
+- TOP 11.3: Eingaben und Beschwerden II - in der BVV abgelehnt
+- TOP 11.4: Änderung der Geschäftsordnung I - vertagt
+- TOP 11.5: Änderung der Geschäftsordnung II - vertagt
+- TOP 11.6: Schulessen soll bezahlbar bleiben - in der BVV abgelehnt
+- TOP 11.7: Mehrsprachige Broschüre "Neukölln macht Grundschule" und "Neukölln macht Oberschule" - in der BVV abgelehnt
+- TOP 11.8: Umwandlung in Ferienwohnungen versagen - vertagt
+- TOP 11.9: Volksbegehren ernst nehmen - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Hörberatungsstelle in Neukölln in Gefahr? - vertagt
+- TOP 12.2: Hörberatungsstelle in Neukölln erhalten - vertagt
+- TOP 12.3: Neubau der Clay-Schule in Sicht? - vertagt
+- TOP 12.4: Notunterkünfte in ehemaliger Gartenkolonie - vertagt
+- TOP 12.5: BVG-Bus 171 durch Alt-Rudow - vertagt
+- TOP 12.6: Fehlende LererInnen in Neuköllner Schulen - vertagt
+- TOP 12.7: Spielhallengesetz - vertagt
+- TOP 12.8: Betrieb der Flüchtlingsunterkunft in der Späthstraße - vertagt
+- TOP 12.9: Haushaltsbelastung durch zu hohe Kosten - vertagt
+- TOP 12.10: Klagen gegen Hartz IV-Bescheide - vertagt
+- TOP 12.11: Maßnahmen gegen steigende Mieten - vertagt
+- TOP 12.12: Investoren zu Sozialwohnungen verpflichten - vertagt
+- TOP 12.13: Vermittlung in Jobs mit sittenwidrigen Dumpinglöhnen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Förderunterrichtsprojekt Sprint (Sprache und Integration) - überwiesen
+- TOP 14.2: Städtepartnerschaft mit Pavlovsk-Pushkin aussetzen - vertagt
+- TOP 14.3: Verkehrssicherheit für die Theodor-Storm-Grundschule - überwiesen
+- TOP 14.4: Pflege des Erich-Mühsam-Gedenksteins - überwiesen
+- TOP 14.5: Ersatzverbindung für gesperrte U-Bahnlinie 8 - überwiesen
+- TOP 14.6: Mut zu neuen Wegen-Weigandufer als Fahrradstraße - überwiesen
+- TOP 14.7: Infoabend an den Integrierten Sekundarschulen - vertagt
+- TOP 14.8: Verkehrssicherheit Hermannplatz - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Pflegemangel bei Grünflächen abhelfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Bewachungsgewerbe auf radikale Beschäftigte prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Sicherer Schulweg für Peter-Petersen-Grundschule und Konrad-Agahd-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Wiederherstellung Behindertenparkplätze in Alt-Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Wiederherstellung Behindertenparkplätze in der Karl-Marx Straße 272 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan 8-53 - "Dörferblick" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: U-Bahnhof Zwickauer Damm sanieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" zugänglich machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Hörberatungsstelle erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Verlängerung der Veränderungssperre 8-61/27 für das Grundstück Kanalstraße 8 im Bezirk Neukölln, Ortsteil Rudow im Geltungsbereich des Bebauungsplanentwurfes 8-61 - "Stubenrauch-/Kanalstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Berichte der Patientenfürsprecherinnen - mit Abschlussbericht zur Kenntnis genommen
