@@ -1,0 +1,61 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2728137
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2728137
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Abenteuerspielplatz "Haus am Schuttberg e.V." Bau einer Jurte
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Erich-Kästner-Str. 21, ?Nabucco?: Erweiterung der bestehenden Freischankfläche
+- TOP .2.: Schleißheimer Str. 158-162, ?Basic?: Aufstellung von 3 mobilen Fahrradständern
+- TOP .2.2.: Kultur
+- TOP .1.: Sachstand Öffentlicher Bücherschrank
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Isabellastr. 23: Errichtung einer Wohnanlage an der Rückfassade eines Wohngebäudes
+- TOP .2.: Nordendstr. 56: DG-Umbau zur Erweiterung der DG-Wohnung sowie Teilerneuerung eines EG-Anbaus und Erweiterung einer Ladeneinheit
+- TOP .3.: Tektur Lissi-Kaeser-Str. 27: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .4.: Einwohnerversammlung zur Gestaltung der Urbanen Mitte Ackermannbogen am 09.10.2013 in der Rotunde des Stadtarchivs
+- TOP .5.: Clemensstr. 62a: Aufstockung und Sanierung eines Wohnhauses
+- TOP .6.: Tektur Viktor-Scheffel-Str. 10: DG-Erneuerung und -Balkonerweiterungen
+- TOP .7.: Tektur Arcisstr. 68 - 74: Neubau eines Umspannwerks (Umspannwerk Schwabing)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Verkehrsberuhigung Jakob-Klar-Straße
+- TOP .2.: Bürgerin: Überfüllte Abfalleimer vor dem Jugendgästehaus in der Elisabethstraße
+- TOP .3.: Kleinkinder aus de städtischen Kindertagesstätte Fallmerayerstr. 2 (Projekt ?Aktionskoffer?): Zebrastreifen über die Hohenzollernstraße in Höhe Fallmerayer-/Isabellastraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Hohenstaufenstr. 10: Fällung einer Robinie
+- TOP .2.: Baumfällungen und Neupflanzungen auf dem Grundstück Schleißheimer Str. 232
+- TOP .2.2.: Verkehr
+- TOP .1.: Errichtung zweier Lichtzeichenanlagen in der Heßstraße
+- TOP .2.: Anpassung bzw. Erneuerung von Lichtzeichenanlagen im Rahmen der Beschleunigung der Buslinie 154: a) Elisabethstraße / Winzererstraße b) Görresstraße / Lothstraße
+- TOP .3.: Änderung der Radverkehrsführung an der Schwere-Reiter-/Ackermann-/Infanteriestraße
+- TOP .4.: Anfahrtszonen für Kindergärten in der Adams-Lehmann-Straße
+- TOP .5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Mitterwieserstr. 4
+- TOP .6.: Umsetzung der Verkehrsrechtlichen Anordnung und Begrühnungsmaßnahmen in der Schleißheimer Straße; Projektgenehmigung (Unterlagen folgen)
+- TOP .1.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest ? Anhörung zum Antrag Nr. 08-14/B 04288 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 02.10.2012
+- TOP .2.: Änderung der BA-Satzung: Erwerb und Aufstellung mobiler Geschwindigkeitsanzeiger (?Dialog-Displays?) durch die Bezirksausschüsse ? Anhörung zu entsprechenden Anträgen aus dem Stadtrat und vom BA 7 (Sendling-Westpark)
+- TOP .3.: Änderung des Katalogs zur BA-Satzung: Anhörungsrecht zu Belangen der Kinderbetreuung festschreiben ? Anhörung zum Antrag Nr. 08-14/B 03277 des BA 12 Bogenhausen vom 14.02.2013
+- TOP .1.: Bürgerentscheid ?Olympiabewerbung München 2022?: Anhörung zu den vorgesehenen Abstimmungsräumen in Schwabing-West
+- TOP .1.: Leinenzwang für Hunde auch außerhalb des Altstadtrings
+- TOP .2.: Neue Entscheidung über Freischankflächengenehmigung bei Pächterwechsel
+- TOP .3.: BA-Aktivitäten in sozialen Netzwerken im Internet
+- TOP .4.: 4. Bauabschnitt Ackermannbogen: Erstellung eines Baustelleneinrichtungsplanes und eines Wegeplanes für den Baustellenverkehr
+- TOP .5.: Verkehrssicherheit an der Baustellenzufahrt Elisabeth-Kohn-Straße
+- TOP .6.: Bauvorhaben "Olympiagate" an der Schwere-Reiter-Straße
+- TOP .7.: Überführung von GBW-Aktien in Staatseigentum
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
