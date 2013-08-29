@@ -1,0 +1,59 @@
+# 21. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-08-29T16:30:00+02:00
+- Ende: 2013-08-29T19:03:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3598
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3598
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=96487
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-21 und VII-22 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans 9-39 G nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-39 G im Bezirk Treptow-Köpenick von Berlin, Ortsteile Alt-Treptow und Plänterwald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittelantrag des Bürger für Rahnsdorf e. V. (SM 13-11) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag des Fördervereins Lokale Agenda 21 Treptow-Köpenick e. V. (SM 13-25) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Änderung des Sitzungsterminplanes für September 2013 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Weitergabe der Meldedaten - bessere Informationen über Opt-Out in Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Zeitgemäße Anpassung der Straßenreinigungsgebühren für öffentliche Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Aufstellung eines Verkehrsspiegels in Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Gründung einer eigenständigen Grundschule am Standort Kiefholzstraße 45, 12435 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ruhender Radverkehr in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Schutz der ökologischen Nischen im „Schlesischen Busch“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Versetztes Parken in der Dörpfeldstraße anordnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Radweg Grünauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Rechte von Kindern und Jugendlichen stärken – Errichtung eines Kinder- und Jugendparlamentes - überwiesen
+- TOP 14.2: Rahmenmodernisierungsvereinbarung für das Märchenviertel - überwiesen
+- TOP 14.3: Sicheres Radfahren an der Kreuzung Köpenicker Straße/Ernst-Ruska-Ufer - überwiesen
+- TOP 14.4: Sicherer Radverkehr in der Elsenstraße zwischen der Straße Am Treptower Park und Karl-Kunger-Straße - überwiesen
+- TOP 14.5: Abbau der nutzlosen Strommasten in Späthsfelde - mit Änderungen in der BVV beschlossen
+- TOP 14.6: Präventive Maßnahme gegen die Störung des Straßenbahnverkehrs in der Altstadt Köpenick - überwiesen
+- TOP 14.7: Kiezkassen – schnelle Abwicklung der Anträge - überwiesen
+- TOP 14.8: AV Stellplätze wieder in Kraft setzen - überwiesen
+- TOP 14.9: Querungshilfe Buntzelstraße - überwiesen
+- TOP 14.10: Erhalt von P+R-Parkplätzen am S-Bahnhof Altglienicke - überwiesen
+- TOP 14.11: Fahrradstellplätze Mahlsdorfer Straße - überwiesen
+- TOP 14.12: Ausweisung weiterer Grünflächen für Streuobstwiesen in Treptow-Köpenick - überwiesen
+- TOP 14.13: Konzeption zur Aufstellung von Parkbänken (Sitzgelegenheiten) - überwiesen
+- TOP 14.14: Gefahrenstelle kenntlich machen in der Siemensstraße - überwiesen
+- TOP 14.15: Querung Wuhletal-Wanderweg Höhe Lindenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Wildwuchs bzw. mangelnder Beschnitt der Straßenbäume im Beutenweg und in der Straße am Seddinsee - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Passiver Schallschutz - vertagt
