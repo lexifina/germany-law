@@ -1,0 +1,6 @@
+# TOP 21: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Kreistages Ludwigslust-Parchim (2013-08-29)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7301cbf24bb7ed51281bca
