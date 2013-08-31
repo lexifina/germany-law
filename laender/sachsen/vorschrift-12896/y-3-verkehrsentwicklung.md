@@ -1,0 +1,5 @@
+3 Verkehrsentwicklung
+Karte:
+Die für die Verkehrsinfrastruktur zu sichernden Standorte, Trassen und Korridore sind in Karte 4 „Verkehrsinfrastruktur“ als Vorranggebiete (Z) oder Vorbehaltsgebiete (G) festgelegt. Für den Bereich Straßenverkehr wurden neben den bestehenden auch die im Bau befindlichen Bundesfern- oder Staatsstraßen sowie der Korridor für die B 87n nachrichtlich in die Karte 4 übernommen.
+Hinweis:
+Trassen werden als Trassen Neubau und Trassen Ausbau festgelegt. Sie sind Vorranggebiete im Sinne von § 8 Abs. 7 Nr. 1 ROG, das heißt raumbedeutsame Nutzungen, die mit der verkehrlichen Funktion beziehungsweise Nutzung nicht vereinbar sind, sind ausgeschlossen. Durch einen Korridor erfolgt die Festlegung eines Gebietes für eine verkehrliche Nutzung, in dem auf Grund des Planungsstandes, der Vielzahl verschiedener Varianten oder aus anderen Gründen eine konkrete Trasse noch zu bestimmen ist. Korridore sind Vorbehaltsgebiete im Sinne von § 8 Abs. 7 Nr. 2 ROG. Hier ist der verkehrlichen Funktion oder Nutzung bei der Abwägung mit konkurrierenden raumbedeutsamen Nutzungen besonderes Gewicht beizumessen.

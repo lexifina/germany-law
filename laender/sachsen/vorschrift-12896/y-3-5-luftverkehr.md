@@ -1,0 +1,11 @@
+3.5 Luftverkehr
+Z 3.5.1
+Der Verkehrsflughafen Leipzig/Halle ist für den interkontinentalen Luftverkehr bedarfsgerecht weiter zu entwickeln.
+Z 3.5.2
+Der Verkehrsflughafen Dresden ist bedarfsgerecht weiter zu entwickeln.
+G 3.5.3
+Die regionalen und lokalen Verkehrslandeplätze, die Sonderlandeplätze sowie die Segelfluggelände sollen für die allgemeine Luftfahrt und den Luftsport sowie zur Erschließung der Regionen erhalten bleiben.
+Begründung zu 3.5 Luftverkehr
+zu Ziel 3.5.1 Zur weiteren Entwicklung des Verkehrsflughafens Leipzig/Halle sind die Betriebsflächen und Abfertigungseinrichtungen bedarfsgerecht bereitzustellen. Bei einem Wachstum im Passagierverkehr oder durch eine Zunahme des Luftfrachtverkehrs werden gegebenenfalls strukturelle Anpassungen und Erweiterungen im Umfeld des bestehenden Terminals erforderlich. Der Flughafen verfügt über einen Bahnhof, an dem Regional- und Fernzüge verkehren. Der Flughafen soll in das überregionale ICE-Netz integriert werden. Außerdem wird der Flughafen Leipzig/Halle künftig in das mitteldeutsche S-Bahn-Netz einbezogen. Der Flughafen Leipzig/Halle soll sich zu einem europäischen Frachtdrehkreuz entwickeln. Für den Frachtverkehr sind die Planungen so ausgelegt, dass circa 1,75 Millionen t pro Jahr umgeschlagen werden können. Dafür sind beispielsweise Rollbahnen, Vorfelder und Abfertigungseinrichtungen bedarfsgerecht bereitzustellen. Darüber hinaus soll Luftfracht auf die Schiene verlagert (Air Cargo Express) und Leipzig/Halle mit anderen Flughäfen besser vernetzt werden.
+zu Ziel 3.5.2 Der Verkehrsflughafen Dresden bleibt ein Mittelstreckenflughafen. Dementsprechend reichen die vorhandenen Kapazitäten aus, um die erwartete Nachfrage zu bedienen. Die Schienen- und Straßenanbindung ist ausreichend dimensioniert. Unter einer bedarfsgerechten Weiterentwicklung ist bei Erreichen der Kapazitätsgrenze (3,5 Millionen Passagiere pro Jahr) gegebenenfalls auch die Nutzung von Kapazitätsreserven bei der Schienenanbindung zu verstehen, die durch Anpassung der Taktfrequenz ausgeschöpft werden können.
+zu Grundsatz 3.5.3 Regionale und lokale Verkehrslandeplätze, Sonderlandeplätze sowie Segelfluggelände erfüllen wichtige Funktionen für die regionale Erschließung, die auch für die wirtschaftliche Entwicklung förderlich sind, sowie für den Luftsport.
