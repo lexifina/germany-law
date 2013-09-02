@@ -1,0 +1,96 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-09-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2775137
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2775137
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: BV Lipowskystr. 15 - Vorstellung Konzept und Betriebsablauf
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Mittagsbetreung Sendling
+- TOP 3.2.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V.
+- TOP 3.3.: Kein Verkauf des Grundstücks Karwendelstraße 39; Realisierung von bezahlbaren Wohnungen und einer Kindertageseinrichtung durch die Stadt selbst bzw. im Erbbau durch eine der städtischen Wohnungsgesellschaften oder eine Sendlinger Wohnbaugenossenschaft - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Errichtung eines behindertengerechten Spielgerätes am umzäunten Kinderspielplatz am Valleyplatz - <div>Ortstermin mit Baureferat geplant</div>
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Referat trifft Bezirksausschuss Termin 2014
+- TOP 4.2.: Anwohnertiefgarage im Schulgebäude Meindlstr. 8 und Seniorenwohnanlage Meindlstr. 8-16
+- TOP 5.1.: Lärmbelästigung durch Cafe DejaVu
+- TOP 5.2.: Lärmbelästigung Gaststätte Europa
+- TOP 5.3.: Betreiber gesucht für Cafe im Clearinghaus Plinganserstr. 27-37
+- TOP 5.4.: unveränderte Fortführung "Pfeuferstüberl"
+- TOP 5.5.: unveränderte Gaststättenfortführung "Kronensaal"
+- TOP 5.6.: Abfalleimer vor der McDonalds Filiale
+- TOP 5.8.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht Vollmacht des Oberbürgermeistes Kidlerstr. 34a
+- TOP 6.1.: Lichtzeichenanlage-Neubau Albert-Roßhaupter-Straße
+- TOP 6.2.: Plinganser Straße- Radfahrstreifen zwischen Dudenstraße und Harras
+- TOP 6.3.: Flächenerweiterung Warenauslage Lindwurmstr. 201
+- TOP 6.4.: Errichtung eines mobilen Fahradständers in der Daiserstr.9
+- TOP 6.5.: Drehgenhmigung - Wackersberger Straße
+- TOP 6.6.: Kunst im öffentlichen Raum - Schindelflügler in der Daiserstraße
+- TOP 6.7.: Versammlung "Parking Day 2013- autofreies München" am 20.09.2013
+- TOP 6.8.: Aufstellen von Verkaufseinrichtung auf öffentlichem Grund - Urbanstr.2
+- TOP 6.9.: Drehgenehmigung Reutberger Straße
+- TOP 6.10.: Grundstückszu- / ausfahrt Daiserstr. 28
+- TOP 6.11.: Behindertenparkplätze am Harras
+- TOP 7.1.: Satzungsänderung zur Finanzierung und Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Initiative ?Vietnamesisches Kinderfest? Vietnamesisches Kinderfest am 05.10.2013
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Himmelfahrtskirche München-Sendling Orgelmusik bei Kerzenschein von 30.11. bis 31.12.2013
+- TOP 7.4.: Satzungsänderung "Belange der Kinderbetreuung"
+- TOP 7.5.: Änderung der BA-Satzung;notwendige Anpassung für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Bauvorhaben Meindlstr. 8 - Tektur Neubau Schulkomplex
+- TOP 8.2.: Bauvorhaben Implerstr. 9a - Tektur Neubau ALDI-Markt
+- TOP 8.3.: Bauvorhaben Oberländerstr.12 - DG-Ausbau
+- TOP 8.4.: Bauvorhaben Flößergasse 2-6 - Nutzungsänderung und Tektur
+- TOP 8.5.: Bauvorhaben Oberländerstr. 14 - Neubau Rückgebäude und DG-Ausbau,Fahrstuhl- und Balkonbau
+- TOP 8.6.: Bauvorhaben Albert-Roßhaupter-Str. 8
+- TOP 8.7.: BV-Demleitnerstr.4- Entwurf Vorbescheid
+- TOP 8.8.: Freizeitnutzung der Theresienwiese
+- TOP 8.9.: Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der LH München
+- TOP 8.10.: Bauvorhaben Dreimühlenstr. 42 - Erweiterung und Anbau Pfandraum
+- TOP 8.11.: Baulisten
+- TOP 8.12.: Bauvorhaben Karwendelstr.24
+- TOP 8.13.: Grundstück-Fallstraße 34
+- TOP 8.14.: Zwischennutzung der Brachfläche MK6 an der Pfeuferstr. / Radlkoferstr. - <div>zur Kenntnis genommen</div>
+- TOP 9: Baureferat
+- TOP 9.1.: Antwort auf Bürgerschrieben "Baumhaus ohne Barrieren"
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen im ehemaligen Pfarrgarten in der Meindlstr.5
+- TOP 10.2.: Abfalleimer an der Oberländerstr.38
+- TOP 10.3.: Baumfällantrag Ludwig-Krafft-Str. 10
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: WLAN-Netz für den neuen Harras - <div>Fristverlängerung zur Kenntnis genommen</div>
+- TOP 12.2.: Einrichtung einer Einbahnstraße
+- TOP 13: Verschiedenes
+- TOP 13.1.: Eröffnung Baumhaus am Neuhofener Berg- Grußworte des Bezirksausschusses
+- TOP 13.2.: Ausstattung der BA-Geschäftsstelle mit Haltverbotsschilder
+- TOP 13.3.: Abstimmungsräume für Bürgerentscheid "Olympiabewerbung München 2022"
+- TOP 13.4.: Treffen mit RAW und BA zum Thema Nutzung der Theresienwiese
+- TOP 13.5.: Bürgerversammlung des 6. Stadtbezirkes am 15.10.2013
+- TOP 13.6.: Zeitungsentnahmestellen auf dem Harras
+- TOP 13.7.: Vergabeverfahren für einen Christkindlmarkt auf dem Harras
+- TOP 13.8.: Wochenmarkt auf dem Harras
+- TOP 13.9.: Teilnahme an der Konferenz Walk21 München 2013
+- TOP 13.10.: Zirkus Radlkofer- Pfeuferstrasse
+- TOP 13.11.: Wiederbelebung der Sortieranlage an der Großmarkthalle Sendling - <div>Antwortschreiben einstimmig abgelehnt; Rückschreiben an Leitung Marthallen</div>
+- TOP 13.12.: Pläne Bunker in der Gaißacher Straße
+- TOP 13.13.: Referat für Bildung und Sport trifft BA - Termin 2013
+- TOP 13.14.: Erläuterungsschilder für Resi-Huber-Platz
+- TOP 13.15.: Falsch gestellte Plakatständer in Sendling
+- TOP 13.16.: Sendlinger Broschüre
+- TOP 13.17.: Oktoberfestbesuch 27.09.13- 18:00 Uhr
+- TOP 5: Gaststättenangelegenheiten
+- TOP 5.9.: Freischankflächengenehmigung bei Pächterwechsel
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
