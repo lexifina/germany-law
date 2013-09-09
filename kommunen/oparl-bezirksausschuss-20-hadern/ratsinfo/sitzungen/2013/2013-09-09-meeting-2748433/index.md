@@ -1,0 +1,75 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-09-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748433
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748433
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Anfrage zum Bedarf einer bilingualen Kinderbetreuung
+- TOP 1.2.: Verkehrssituation in der Straße Am Waldrand
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Großhaderner Straße, Training zur Konfliktlösung und zur Gewaltprävention ab Herbst 2013 (Direktorium, 28.08.13)
+- TOP 5.2.: Budget der Bezirksausschüsse, PA/Spielen in der Stadt e.V., ?Zirkus macht stark? mit der Grundschule und der Mittelschule Guardinistraße von 23.09.2013 bis 22.06.2014 (Direktorium, 02.09.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Waldgartenstraße 32 (Baureferat, 14.08.13)
+- TOP 6.2.: Antrag des BA 7 Sendling-Westpark: Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken (Direktorium, 07.08.13)
+- TOP 6.3.: Bürgerentscheid Arbeitstitel: "Olympiabewerbung München 2022", Vorgesehene Abstimmungsräume (Kreisverwaltungsreferat, 09.08.13)
+- TOP 6.4.: Antrag BA 13 Bogenhausen: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung (Direktorium, 12.08.13)
+- TOP 6.5.: Auswahl der REGSAM-Schwerpunktgebiete ab 2014 (Sozialreferat, 26.08.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Straße 65, gem. Baumbestandsplan Nr. 13452
+- TOP 7.2.: Gaberlstraße 9, 1 Birke und 1 Hainbuche
+- TOP 7.3.: Petunienweg 4 a, 1 Weißtanne
+- TOP 7.4.: Plazerstraße 15, 1 Lärche
+- TOP 7.5.: Waldwiesenstraße 34, 1 Birke
+- TOP 7.6.: Wildanger 25, gem. Baumbestandsplan Nr. 18064
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 25 Bäume auf dem Waldfriedhof (Baureferat, 13.08.13)
+- TOP 7.2.: Heiglhofstraße 37 - 51, 1 Robinie (Referat für Stadtplanung und Bauordnung, 30.08.13)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Am Waldspitz (Sozialreferat, 30.07.13) - Rodensteinstraße (Sozialreferat, 29.07.13)
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Hangover", Guardinistraße 4 (Kreisverwaltungsreferat, 02.08.13) - "Mister Gelat OK", Alpenveilchenstraße 56 a (Kreisverwaltungsreferat, 19.08.13)
+- TOP 8.3.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2013 für den BA (SWM, 13.08.13)
+- TOP 8.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 20.08.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Zwischennachricht: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A96 vom Mittleren Ring bis zur Stadtgrenze" (Referat für Stadtplanung und Bauordnung, 02.08.13)
+- TOP 9.2.: Städtebaulicher Vertrag vom 01.08.2005, Beleuchtung Wegeverbindung zwischen Max-Lebsche-Platz und Prälat-Wellenhofer-Straße (Referat für Stadtplanung und Bauordnung, 21.08.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Stellungnahme zum Forschungsprojekt "Mädchen und junge Frauen im Umgang mit Widersprüchen: Lebenslagen, Spannungsfelder und Bewältigungsstrategien in einem Stadtteil mit besonderem Entwicklungsbedarf" (Münchner Fachforum für Mädchenarbeit, 06.08.13)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Mitteilung der Termin 2014 "Das Referat für Bildung und Sport trifft die Bezirksausschüsse", Termin BA 20 Hadern: 26.11.2014 (Referat für Bildung und Sport, 07.08.13)
+- TOP 11.2.: Blumenauer Sommerfest 2013 (Referat für Bildung und Sport, 14.08.13)
+- TOP 11.3.: Sitzungstermine 2014 des BA 20 Hadern
+- TOP 11.4.: Stadtteilcheck "Auf Herz und Rampen prüfen" am 27.09.2013 in Kleinhadern (Kreisjugendring München-Stadt, 26.08.13)
+- TOP 11.5.: Standpunkte September 2013 des Münchner Forums (Münchner Forum e.V., 03.09.13)
+- TOP 11.6.: Einladung zum Fachforum "Sonne bewegt sauber" am Mittwoch 16.10.2013 (Referat für Gesundheit und Umwelt, 04.09.13)
+- TOP 11.7.: Internationale Fußverkehrskonferenz Walk21 vom 11. - 13.09.2013 (Referat für Stadtplanung und Bauordnung, 05.09.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12019 (nach Antrag in der Fassung vom 17.07.2013, S. 3): PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung, insbesondere in der Guardinistraße (Schaffung von 30 Wohneinheiten durch Aufstockung, S. 13 - 14)
+- TOP 12.2.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10105 (nach Antrag in der Fassung vom 03.07.2013, S. 15 - 19): Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz) Vorbereitender Trassierungsbeschluss, insbesondere zur Wendeschleife und zu den Parkplätzen am Waldfriedhof (S. 8 - 11) Der BA Hadern hat (neben weiteren Bezirksausschüssen) mit Schreiben vom 11.06.2013 verschiedene Einwendungen erhoben, zu denen die beteiligten Referate mit Schreiben vom 28.06.2013 Stellung genommen haben. Auf die Ausführungen der Referate hierzu auf S. 9 - 10 wird Bezug genommen.
+- TOP 12.3.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12380 (nach Antrag in der Fassung vom 24.07.2013, S. 18 - 20): Nahmobilität in München - Konzeption und weiteres Vorgehen, insbesondere zur Blumenauer- / Terofalstraße (Anlage 7, Nr. 52): Realisierung der Umgestaltung derzeit nicht möglich, da abhängig von verkehrlichen und städtebaulichen Maßnahmen.
+- TOP 12.4.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10764 (nach Antrag): Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München) um jährlich 62.000,- ? auf netto 161.084,- ? (nach Abzug von Einnahmen, Spenden und Sponsoring)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
