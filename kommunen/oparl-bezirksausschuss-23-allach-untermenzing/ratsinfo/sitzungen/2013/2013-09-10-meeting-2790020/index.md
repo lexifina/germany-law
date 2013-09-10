@@ -1,0 +1,132 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-09-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2790020
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2790020
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Bushaltestelle Karlsfelder S-Bahnhof
+- TOP 2.2.: Neugestaltung der Hintermeierstraße
+- TOP 2.3.: Nächtliche Ruhestörungen in der Grünanlage in der Servetstraße
+- TOP 2.4.: Anfrage zum Bedarf einer bilingualen Kinderbetreuung
+- TOP 2.5.: Grünanlage Servetstraße
+- TOP 3: Anträge
+- TOP 3.1.: Kunstwerk aus Stein auf dem Gelände des ehem. Allacher Sommerbades
+- TOP 3.2.: Ausbau Allacher Str.: Im östlichen Teil, auf deren Südseite, vorhandene Parkmöglichkeiten erhalten
+- TOP 4: Entscheidungen
+- TOP 4.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Projektname: Hintermeierstraße
+- TOP 4.2.: (E) Budget der Bezirksausschüsse wohlBEDACHT ? Wohnen für dementiell Erkrankte e.V. Bau eines behindertengerechten Bades von September bis Dezember 2013
+- TOP 3: (E) Erstmalige Herstellung der Allacher Straße: Information bezüglich - Erhöhung des Verkehrsaufkommens - Lärmentwicklung - Lärmschutz und - Verkehrssicherheit (Antrag 1 Ziffer 1, Antrag 2 Ziffer 2) Empfehlung Nr. 08-14 / E 00728 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 26.10.2010 Erstmalige Herstellung der Allacher Straße; Schalluntersuchung sowie Maßnahmen des aktiven Lärmschutzes und Ausbau gem. Straßenbaurichtlinien Rast 06 (Anlage 6, Antrag 1 und Anlage 7, Antrag 1, Ziffer 2) Empfehlung Nr. 08-14 / E 01392 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 19.06.2012 Ausbau der Allacher Straße; Straße tiefer legen sowie Ausbau mit Flüsterasphalt (Antrag 11, Ziffer 1) Empfehlung Nr. 08-14 / E 01396 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 19.06.2012
+- TOP 4: (E) Radwege zum Lußsee/Langwieder See; Empfehlung Nr. 08-14 / E 00137 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 28.10.2008 Fertigstellung des Radweges zum Langwieder See; Empfehlung Nr. 08-14 / E 01373 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 19.06.2012
+- TOP 5: Anhörungen
+- TOP 5.1.: Wertstoffcontainerstandort Georg-Reismüller-Str. / St.-Johann-Str.
+- TOP 5.2.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest
+- TOP 5.3.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse
+- TOP 5.4.: Freizeitgelände Eversbuschstr. 213, ehem. Allacher Sommerbad; Weltkindertag am 20.09.13
+- TOP 5.5.: Absolutes Haltverbot Gustav-Otto-Bogen
+- TOP 5.6.: Bebauungsplan mit Grünordnung Nr. .., Karlsfelder Straße (neu) zwischen Dachauer Straße und bestehender Karlsfelder Straße in Höhe der Brücke über das Schwabenbächl; Aufstellungsbeschluss
+- TOP 5.7.: Austausch der Lichtzeichenanlage Professor-Eichmann-Straße / Von-Kahr-Straße
+- TOP 5.8.: Realisierung einer öffentlichen Grünfläche nach dem Rückbau des Allacher Sommerbades 2. Bauabschnitt
+- TOP 5.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.10.: Beschilderungsvorschlag für die MAN-Lkw-Spur in der Bauschingerstraße
+- TOP 5.11.: Zeichen 283 Schöllstraße
+- TOP 5.12.: Korrektur des Katalogs der Fälle der Entscheidungen, Anhörungen und Unterrichtungen der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung; Anhörung zum Antrag Nr. 08-14 / B 03722 des BA 13 Bogenhausen vom 14.02.12)
+- TOP 5.13.: Bürgerentscheid Arbeitstitel: "Olympiabewerbung München 2022"; Vorgesehene Abstimmungsräume
+- TOP 5.14.: Erinnerungsverfahren Karl-Schmolz-Str. / Gehweg
+- TOP 5.15.: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung
+- TOP 5.16.: Jennerstr. 23, Flst. 1098/6 Neubau eines Dreispänners mit Garage
+- TOP 5.17.: Aufhebung der Radwegbenutzungspflicht am Zum Schwabenbächl
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 26.06.13: Arbeitsgruppe Ausbauoffensive; Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2013 (Vorlagen Nr. 11869)
+- TOP 6.2.: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Verwaltungs- und Personalausschusses, des Gesundheitsausschusses, des Kulturausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Kreisverwaltungsausschusses, des Kommunalausschusses und des Ausschusses für Arbeit und Wirtschaft in der gemeinsamen Sitzung vom 02.07.13: München beseitigt Barrieren für mobilitätseingeschränkte Personen und Blinde im öffentlichen Raum (Sitzungsvorlage Nr. 12111)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013: Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der Landeshauptstadt München; Erlass einer Haushaltsbefragungssatzung (Vorlagen Nr. 12209)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.07.2013: PERSPEKTIVE MÜNCHEN; Langfristige Siedlungsentwicklung (Vorlage Nr. 12019)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 24.07.2013: a) PERSPEKTIVE MÜNCHEN; Langfristige Siedlungsentwicklung (Vorlage Nr. 12019) b) Kurzübersicht: Nahmobilität in München - Konzeption und weiteres Vorgehen (Vorlage Nr. 12380) c) Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München), Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen Aufstockung 62.000 ? (Vorlage Nr. 10764) d) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/30 Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich) (Vorlagen Nr. 12395) e) Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014 (Vorlage Nr. 12213) f) Leistungsprogramm der MVG für die Fahrplanperiode 2014 (Sitzungsvorlage Nr. 12455)
+- TOP 6.6.: Verwaltungs- und Personalausschuss als Feriensenat vom 07.08.13: - Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der LH München; Erlass einer Haushaltsbefragungssatzung (Vorlage Nr. 12209)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Geländesuche für spektakuläre Ausstellung in München
+- TOP 7.2.: Terminänderung für die zentrale Gedenkveranstaltung zum 9. November
+- TOP 7.3.: Oktoberfest 2013; Reservierung in der Ratsboxe am 23.09.13, 17:00 Uhr
+- TOP 7.4.: Fahrradabstellanlage Untermenzing
+- TOP 7.5.: Schulbus zur Grundschule Pfarrer-Grimm-Str.
+- TOP 7.6.: Provisorischer Gehweg entlang der Ernst-Haeckel-Straße
+- TOP 7.7.: Seminararbeit Stolpersteine
+- TOP 7.8.: Schüler/innen-Engagement! Alle reden über Schule - Warum spricht keiner mit uns? Dienstag, 01.10.13, 18:00 Uhr
+- TOP 7.9.: Spielplatz Osannastr. 1
+- TOP 7.10.: Ortsübliche Garagenmieten in Allach-Untermenzing
+- TOP 7.11.: Abendforum "Lärm in Moosach" am 25.09.13
+- TOP 7.12.: Mitteilung der Termine 2014 "Das Referat für Bildung und Sport trifft die Bezirksausschüsse"
+- TOP 7.13.: Fußverkehrskonferenz Walk21 vom 11.09.13 - 13.09.13
+- TOP 7.14.: Termine 2014 (Entwurf)
+- TOP 7.15.: Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 08.07.13: Änderung der Bezirksausschuss-Satzung; notwendige Anpassung für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014
+- TOP 8.2.: Schreiben Direktorium vom 09.08.13: Änderung der Bezirksausschuss-Satzung; Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksausschusses
+- TOP 8.3.: Schreiben Direktorium vom 26.08.13: - BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen (BA-Antrag 4439 des BA 16 Ramersdorf-Perlach) - Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegenstände hin zu einem passwortgeschützten Downloadverfahren (BA-Antrag 4586 des BA 6 Sendling)
+- TOP 8.4.: Schreiben Direktorium: Budget der Bezirksausschüsse; nicht verbrauchte Restmittel, Informationsschreiben vom 01.07.2013
+- TOP 8.5.: Schreiben Direktorium vom 27.08.13: Beauftragte des Seniorenbeirats für die BAs
+- TOP 8.6.: Schreiben Fachstelle gegen Rechtextremismus vom 11.07.13: BA-Beauftragte gegen Rechtsextremismus
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.07.13, 08.07.13, 18.07.13, 22.07.13, 30.07.13: Fällungsanträge Gruithuisenstr. 19, Auenbruggerstr. 59, Dirrstr. Flnr. 213/2, Simonsfeldstr. 1-1c, Ossannastr. 3,Spiegelbergstr. 27, Simonsfeldstr. 24, Vorherstr. 21
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung, Einzelfällungsanträge: Franz-Nißl-Str. 16, Vorherstr. 21, Servetstr. 29, Allacher Str. 114, Behringstr. 89, Peter-Müller-Str. 14, Im Eichgehölz 11, Josef-Führer-Str. 17, Von-Reuter-Str. 31, Theodor-Kitt-Str. 3, Pfarrer-Grimm-Str. 20b, Allacher Str. 194, Peter-Winter-Str. 19, Krayweg 19, Lauthstr. 2b, Weidmannstr. 37, Krautheimstr. 24, Krautheimstr. 8, Zum Schwabenbächl 29, Allacher Str. 114, Allacher Str. 163
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Von-Kahr-Str. 31
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (01.07.-07.07.13, 08.07.-14.07.13, 15.07.-21.07.13, 22.07.-28.07.13, 29.07.-04.08.13, 05.08.-11.08.13, 12.08.-18.08.13, 19.08.-25.08.13)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.13: Manzostr. 105
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.08.13: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/30 Oertelplatz,Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich) Beteiligung gem. § 3 Abs. 2 Baugesetzbuch
+- TOP 8.15.: Schreiben Stadtwerke München vom 01.07.13, 08.07.13, 15.07.13, 22.07.13, 29.07.13, 05.08.13, 12.08.13, 19.08.13, 26.08.13: Baumaßnahmen
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 05.08.13: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Georg-Reismüller-Straße
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 06.08.13: SWM Jahresbericht 2012
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 09.08.13: Baumaßnahmen der SWM; Stromprojekt Ernst-Haeckel-Straße
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 13.08.13: Informationsflyer "Baumaßnahmen der SWM"; 2. Halbjahr 2013 für den BA
+- TOP 8.20.: Schreiben Baureferat vom 03.07.2013: Straßenausbau Hintermeierstraße
+- TOP 8.21.: Schreiben Baureferat vom 22.08.2013: Hintermeierstraße
+- TOP 8.22.: Schreiben Baureferat vom 19.07.13: Wilhelm-Zwölfer-Str. 15
+- TOP 8.23.: Schreiben Baureferat vom 19.07.13: Allacher Lohe
+- TOP 8.24.: Schreiben Baureferat vom 30.07.13: Eine zusätzliche Straßenbeleuchtung auf Höhe der Weidmannstr. 33-35
+- TOP 8.26.: Schreiben Referat für Bildung und Sport vom 15.07.13: Ganztag gemeinsam gestalten; Betreuung von Kindern/Jugendlichen an Freitagnachmittagen, nach Schulschluss und während der Ferien
+- TOP 8.27.: Schreiben Kreisverwaltungsreferat vom 19.06.2013: Absolutes Haltverbot im gesamten Wendehammer der Grandauerstraße
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 19.07.13: Theodor-Fischer-Straße
+- TOP 8.29.: Schreiben Kreisverwaltungsreferat vom 22.07.13: Umlaufsperre Allacher Str. / Grandauerstr.
+- TOP 8.30.: Schreiben Kreisverwaltungsreferat vom 23.07.13: Erlaubnis zur befristeten Nutzungsänderung einer Schießanlage
+- TOP 8.31.: Schreiben Kreisverwaltungsreferat vom 14.05.13: Verkehrssituation Pfarrer-Grimm-Str. / Kindergartenweg
+- TOP 8.32.: Schreiben Kreisverwaltungsreferat vom 05.08.13: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel am 07.08.13, Dachauer Straße
+- TOP 8.33.: Schreiben Kreisverwaltungsreferat vom 05.08.13: Anzeige einer sich Versammlung unter freiem Himmel am 07.08.13, Krauss-Maffei-Straße
+- TOP 8.34.: Schreiben Referat für Arbeit und Wirtschaft vom 03.07.13: Notrufsäulen mit Automatisierten Defibrillationsgeräten (AED) auf Bahnsteigen der Münchner S-Bahn
+- TOP 8.35.: Schreiben Referat für Arbeit und Wirtschaft vom 25.07.13: MVG - Leistungsprogramm 2015 Direkte Busverbindung S-Bahnhof Karlsfeld / S-U-Bahnhof Feldmoching bzw. S-U-Bahnhof Moosach
+- TOP 8.36.: Schreiben Referat für Arbeit und Wirtschaft vom 30.07.13: Wirtschafts-Info 07/2013
+- TOP 8.37.: Schreiben Referat für Arbeit und Wirtschaft vom 13.08.13: Europe Direct Informationen 04/2013
+- TOP 8.38.: Schreiben Sozialreferat vom 03.07.13, 22.07.13: Antrag auf Zweckentfremdung von Wohnraum: Vogelloh, Rudhartstr.
+- TOP 8.39.: Schreiben Sozialreferat vom 23.08.13: Altenheim Hans-Sieber-Haus an der Manzostr. 105; Erhalt dort bereits vorhandener Sozialeinrichtungen, wie z.B. ASZ (BV-Empf. 1906 vom 23.07.13)
+- TOP 8.40.: Schreiben Referat für Gesundheit und Umwelt vom 17.07.13: Flyer Infoabende
+- TOP 8.41.: Schreiben Referat für Gesundheit und Umwelt vom 12.08.13: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Änderungsgenehmigung vom 01.02.12 in der Fassung vom 22.10.2012 zur Erweiterung der Lager-, Durchsatz- und Behandlungsmengen, der Fa. Süderde GmbH, Lochhausener Str. 67, 81249 München; Abfallentsorgungsanlage nach Nr. 8.11.2.2, Nr. 8.12.2 des Anhangs zur 4. BImSchV
+- TOP 8.42.: Schreiben Referat für Gesundheit und Umwelt vom 20.08.13: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 8.43.: Schreiben Referat für Gesundheit und Umwelt vom 14.08.13: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Fa. Bayer. Asphalt-Mischwerke GmbH& Co.KG für Straßenbaustoffe
+- TOP 8.44.: Schreiben Bauzentrum vom 13.08.13: Einladung zum 2. Bayerischen Radon-Netzwerk-Treffen
+- TOP 8.45.: Schreiben Kulturreferat vom 22.08.13: Veranstaltungen/Kooperationen September 2013
+- TOP 8.46.: Schreiben PI 44 vom 06.08.13: Durchfahrtsverbot Nätherstraße / Finsterwalderstraße
+- TOP 8.47.: Schreiben BA 16 Ramersdorf-Perlach vom 16.07.13: Anmerkungen zum Antrag "Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder"
+- TOP 8.48.: Schreiben BA 11 Milbertshofen-Am Hart vom 17.07.13: Schreiben zum Antrag "Benennung von Straßen und Wegen in Grünzügen"
+- TOP 8.49.: Schreiben Stabstelle Gemeinwesenmediation vom 05.08.13: Grünanlage Im Grund / Ernst-Haeckel-Straße
+- TOP 8.50.: Broschüre "Preis für Stadtbildpflege 2012"
+- TOP 8.51.: Broschüre "Bauen in Aubing, Empfehlungen zur Baugestaltung im Dorfkern und seiner Umgebung"
+- TOP 9: Nachtrag
+- TOP 9.1.: Anhörungen: Bauleitplanung im Landkreis Dachau Interkommunaler sachlicher Teilflächennutzugsplan Windkraft
+- TOP 9.2.: Erinnerungsverfahren Schönleutnerstr. 1-9,
+- TOP 9.3.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung vom 02.09.13: Liste der Bauanträge
+- TOP 9.4.: Schreiben Stadtwerke München vom 02.09.13: Baumaßnahmen
+- TOP 9.5.: Schreiben Referat für Gesundheit und Umwelt vom 26,08,13: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Paul-Ehrlich-Weg 130 Asphaltmischanlage Hier: Produktion und Verladung von Asphaltmischgut außerhalb der Tagzeit, laut Anzeige gem. § 15 BImSchG vom 09.08.13
+- TOP 9.6.: Schreiben Referat für Gesundheit und Umwelt vom 04.09.13: Einladung Fachforum "Sonne bewegt sauber" am 16.10.13
+- TOP 9.7.: Schreiben Münchner Forum e.V. vom 03.09.13: Standpunkte September 2013
