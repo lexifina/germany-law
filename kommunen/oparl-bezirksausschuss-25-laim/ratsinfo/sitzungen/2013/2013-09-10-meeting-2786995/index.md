@@ -1,0 +1,116 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2786995
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2786995
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Straßenführung Gotthardstraße / Reutterstraße
+- TOP 1.2.2.: Verkehrssituation in der Willibaldstraße zwischen Gotthard- und Agnes-Bernauer-Straße
+- TOP 2: Anträge
+- TOP 2.1.: FDP: Trolleybusse für die Fürstenrieder Straße - Verkehrsprobleme lösen, statt neue zu schaffen
+- TOP 2.2.: SPD: Informationen, wie sich die LH München auf die erwartete Zunahme des Anteils der Senioren im Stadtbezirk 25 bis 2030 vorbereitet
+- TOP 2.3.: SPD: Neugestaltung des Agnes-Bernauer-Platzes
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 690 Euro für Wein- und Weißbierfest am 12.10.13; Antragsteller: Laimer Maibaumfreunde e.V. - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: Beschlussvorlage Kreisverwaltungsreferat: Parkverbot für gewerbliche Lkw, Busse und sonstige Fahrzeuge in Wohngebieten (Ziffer 2 des Antrags); Empfehlung Nr. 08-14 / E 01594 der Bürgerversammlung des 25. Stadtbezirkes Laim am 20.11.2012 - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 23.07.13: Anhörungsrecht des BA 2 bei Entscheidungen und Besprechungen zum Oktoberfest (Antrag Nr. 08-14 / B 04288 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 02.10.12)
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 31.07.13: Einrichtung einer Kurzparkzone in der Lutzstr. 2
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 02.08.13: Grünanlage Laimer Anger, Weinfest am 12.10.13
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Schreiben Baureferat vom 08.08.13: Abbau Litfaßsäule in der Ludwig-Richter-Straße (Schreiben BA vom 11.06.13)
+- TOP 4.6.: Friedenheimer Str. 61: Fällung von 1 Linde
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 13.08.13: Open Air Gottesdienst mit Konzert am 03.07.14 auf dem Laimer Anger
+- TOP 4.8.: Schreiben Direktorium vom 12.08.13: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung; Anhörung zum BA-Antrag Nr. 08-14 / B 03722 des BA 13 Bogenhausen vom 14.02.13)
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 09.08.13: Bürgerentscheid Arbeitstitel "Olympiabewerbung München 2022"; Vorgesehene Abstimmungsräume
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 19.08.13: Flohmarkt Hogenbergplatz am 05.04.14 und 27.09.14
+- TOP 4.11.: Schreiben Baureferat vom 20.08.13: Projekt Landsberger Straße, östlich Wotanstraße, Bebauungsplan 1894 a, Projekt-Nr. 100377
+- TOP 4.12.: Schreiben Sozialreferat vom 26.08.13: Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Elsenheimerstr. 48-50: Umbau Bürogebäude zu Boarding-Haus + Wohnung / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Agnes-Bernauer-Str. 25: Neubau zweier Wohngebäude mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.3.: Camerloherstr. 67: Errichtung eines Wirtsgartens auf privatem Grund; hier: Baupläne, Bau- und Betriebsbeschreibung
+- TOP 5.4.: Geyerspergerstr. 29: Neubau eines Wohngebäudes (10 WE) mit erdgeschossigem Hotel Garni (12 Betten) und Tiefgarage (14 Stpl. incl. 1 Rollstuhlplatz); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne, Bau- und Betriebsbeschreibung
+- TOP 5.5.: Hogenbergstr. 23: Neubau eines Doppelhauses mit Garage - Haus 1; hier: Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 22.07.13: Oktoberfest 2013; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Termin für den BA 25 Laim am 04.10.13
+- TOP 6.2.: Schreiben Sozialreferat vom 19.07.13: Einladung zur 5. Informationsveranstaltung zum Thema "Jugendbeteiligung" am 01.10.13; Thema: SchülerInnen-Engagement! Alle reden über Schule - Warum spricht keiner mit uns?
+- TOP 6.3.: Schreiben Behindertenbeirat der LH München vom 25.07.13: Feier zum 40jährigen Bestehen am 14.11.13
+- TOP 6.4.: Schreiben Kreisjugendring München-Stadt vom 17.07.13: Stadtteilcheck "Auf Herz und Rampen prüfen"
+- TOP 6.5.: Schreiben Referat für Bildung und Sport vom 07.08.13: Mitteilung der Termine 2014 "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am 16.07.14
+- TOP 6.6.: Schreiben Kreisverwaltungsreferat vom 20.08.13: Laimer Röhre - "Radverkehr / Kennzeichnung Radweg" (Antrag Nr. 08-14 / B 04807 vom 07.05.13); Einladung zum Ortstermin am 10.10.13
+- TOP 6.7.: Terminplanung 2014
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 30.07.13
+- TOP 7.2.: BA-Sitzung vom 30.07.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 10.07.13: Umgestaltung Willibaldplatz (Schreiben BA vom 24.05. und 11.06.13)
+- TOP 8.2.: Schreiben Baureferat vom 16.07.13: Riegerhofstraße zwischen Gotthardstraße und Valpichlerstraße
+- TOP 8.3.: Schreiben Baureferat vom 24.07.13: Fahrradabstellflächen am Laimer Platz (Antrag Nr. 08-14 / B 03754 des BA 25 vom 06.03.12)
+- TOP 8.4.: Schreiben Baureferat vom 13.08.13: Sanierung Joergstraße (Schreiben BA vom 06.08.13)
+- TOP 8.5.: Schreiben Baureferat vom 14.08.13: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Westendstraße südlich der Brücke über die BAB 96, Nachtrag wegen Flächenerweiterung
+- TOP 8.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: Schreiben Direktorium vom 29.07.13: Vorrangige Verwendung von Restmitteln; BA-eigene Veranstaltung Kammermusikalisches Festival im November 2013 (Schreiben BA vom 24.07.13)
+- TOP 8.8.: Schreiben Direktorium vom 26.08.13: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen (Antrag Nr. 08-14 / B 04439 des BA 16 Ramersdorf-Perlach), Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegenstände hin zu einem passwortgeschützten Downloadverfahren (Antrag Nr. 08-14 / B 04586 des BA 6 Sendling-Westpark)
+- TOP 8.9.: Schreiben Kommunalreferat vom 24.07.13: Zustand der Grünfläche im Bereich der Straubinger Str. 34 (Schreiben BA vom 24.05.13)
+- TOP 8.10.: Schreiben Kommunalreferat vom 01.08.13: Kein Verkauf städtischer Grundstücke, auch nicht solcher, die im Wesentlichen zur Erholung dienen (Antrag Nr. 08-14 / B 04736 des BA 25 vom 09.04.13), Beschluss des Kommunalausschusses vom 18.07.13 (Sitzungsvorlage Nr. 08-14 / V 12442)
+- TOP 8.11.: Schreiben Kommunalreferat vom 14.08.13: Anbringung von Erläuterungsschildern für die Camerloherstraße (Antrag Nr. 08-14 / B 04436 vom 04.12.12)
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.07.13: Landsberger Str. 191-191a; Teilbaugenehmigung für Aushub und Verbau für den Neubau eines Büro- und Geschäftshauses mit Einzelhandel, Gastronomie und Arztpraxen
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.07.13: Geyerspergerstr. 29: Neubau eines Hotel Garni mit 32 Einheiten und einer Tiefgarage mit 17 Stellplätzen
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.08.13: Fällungsantrag Fürstenrieder Str. 113
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.08.13: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 01.08.-05.08.13
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.08.13: Fürstenrieder Str. 41: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid (Schreiben BA vom 11.07.13)
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 17.07.13: Flyer Infoabende September - Dezember 2013
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 18.07.13: Lärmaktionsplan für München (Schreiben BA vom 12.04.13)
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 20.08.13: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Betrieb von Müllsammelfahrzeugen
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 22.07.13: Gaststätte "Aindorfer Hof", Guido-Schneble-Str. 36; unveränderte Fortführung
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 24.07.13: Agnes-Bernauer-Str. 11a-c, Feuerwehrzufahrt
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 14.08.13: Anzeige einer Versammlung unter freiem Himmel am 31.08.13, Wotanstr. 1
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 19.07.13: Baumaßnahmen der SWM; Fernwärmeprojekt Landsberger Straße / Fürstenrieder Straße
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 31.07.13: Baumaßnahmen der SWM; Fernwärmeprojekt Laimer Unterführung
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 06.08.13: SWM Jahresbericht 2012
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 09.08.13: Baumaßnahmen der SWM; Stromprojekt Landsberger Straße, 2. Bauabschnitt
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 13.08.13: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2013
+- TOP 8.28.: Schreiben Sozialreferat vom 23.07.13: Zweckentfremdung von Wohnraum; Byecherstraße
+- TOP 8.29.: Schreiben Sozialreferat vom 02.08.13: Zweckentfremdung von Wohnraum; Byecherstraße
+- TOP 8.30.: Schreiben Sozialreferat vom 25.07.13: Zweckentfremdung von Wohnraum; Seehoferstraße
+- TOP 8.31.: Schreiben Referat für Bildung und Sport vom 09.08.13: Grundschule an der Fürstenrieder Straße; Angebot der "Naturindianer" zur Errichtung einer Hortgruppe (Schreiben BA vom 11.06.13)
+- TOP 8.32.: Schreiben Referat für Bildung und Sport vom 12.08.13: Umstrukturierung städtisches Haus für Kinder Camerloherstr. 108 (mit Saherrstr. 60)
+- TOP 8.33.: Schreiben Referat für Arbeit und Wirtschaft vom 30.07.13: Wirtschafts-Info 07/2013
+- TOP 8.34.: Schreiben Referat für Arbeit und Wirtschaft vom 13.08.13: Europe Direct Informationen 04/2013
+- TOP 8.35.: Bautenliste vom 15.07.-21.07.13 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 25
+- TOP 8.36.: Bautenliste vom 22.07.-28.07.13 1. Erstantragsverfahren a) Westendstr. 174 2. Änderungsverfahren a) Camerloherstr. 76 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Elsenheimerstr. 48 b) Siglstr. 7
+- TOP 8.37.: Bautenliste vom 05.08.-11.08.13 1. Erstantragsverfahren a) Geyerspergerstr. 29 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Byecherstr. 30
+- TOP 8.38.: Bautenliste vom 12.08.-18.08.13 1. Erstantragsverfahren a) Camerloherstr. 67 2. Änderungsverfahren a) Camerloherstr. 69 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 25
+- TOP 8.39.: Bautenliste vom 19.08.-25.08.13: 1. Änderungsverfahren a) Hartelstr. 6 b) Geigerstr. 5
+- TOP 8.40.: Schreiben Stadtwerke München GmbH vom 22.07.13: Baumaßnahmen der Stadtwerke; Stichtag: 22.07.13
+- TOP 8.41.: Schreiben Stadtwerke München GmbH vom 29.07.13: Baumaßnahmen der Stadtwerke; Stichtag: 29.07.13
+- TOP 8.42.: Schreiben Stadtwerke München GmbH vom 05.08.13: Baumaßnahmen der Stadtwerke; Stichtag: 05.08.13
+- TOP 8.43.: Schreiben Stadtwerke München GmbH vom 12.08.13: Baumaßnahmen der Stadtwerke; Stichtag: 12.08.13
+- TOP 8.44.: Schreiben Stadtwerke München GmbH vom 19.08.13: Baumaßnahmen der Stadtwerke; Stichtag: 19.08.13
+- TOP 8.45.: Schreiben Stadtwerke München GmbH vom 26.08.13: Baumaßnahmen der Stadtwerke München; Stichtag: 26.08.13
+- TOP 8.46.: Beschluss des Bauausschusses vom 16.07.13: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing (u.a. Antrag Nr. 08-14 / B 03535 des BA 25 vom 06.12.11, Nr. 08-14 / B 03536 des BA 25 vom 06.12.11 und Nr. 08-14 / B 04860 des BA 25 vom 04.06.13) (Sitzungsvorlage Nr. 08-14 / V 12297)
+- TOP 8.47.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 16.07.13: Hinweis in den S-Bahnen an der Haltestelle "Hauptbahnhof" auf die Möglichkeit für in ihrer Mobilität eingeschränkte Personen, links (von Westen her kommend) auszusteigen (Empfehlung Nr. 08-14 / E 01600 der Bürgerversammlung vom 20.11.12)
+- TOP 8.48.: Beschluss der Vollversammlung vom 24.07.13: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz), Vorbereitender Trassierungsbeschluss; Bereitstellung außerplanmäßiger Ausgabemittel 2013 sowie einer Verpflichtungsermächtigung 2014 bei Finanzposition 6300.950.1160.6 "Gemeindestraßen, Neubaustrecke Tram Westtangente"; Änderung der Mehrjahresinvestitionsprogrammes 2012-2016; a) Sachstandsbericht, b) weiteres Vorgehen, c) Änträge und Empfehlungen (Sitzungsvorlage Nr. 08-14 / V 10105)
+- TOP 8.49.: Beschluss der Vollversammlung vom 24.07.13: Nahmobilität in München - Konzeption und weiteres Vorgehen (Sitzungsvorlage Nr. 08-14 / V 12380)
+- TOP 8.50.: Beschluss der Vollversammlung vom 24.07.13: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung, a) Ergebnisse der Gutachtenphase, b) weiteres Vorgehen, Umsetzungsschritte und Projekte, c) Anträge (Sitzungsvorlage Nr. 08-14 / V 12019)
+- TOP 8.51.: Beschluss der Vollversammlung vom 24.07.13: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München), Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000 ? (Sitzungsvorlage Nr. 08-14 / V 10764)
+- TOP 8.52.: Beschluss der Vollversammlung vom 24.07.13: Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014 (Sitzungsvorlage Nr. 08-14 / V 12213)
+- TOP 8.53.: Beschluss der Vollversammlung vom 24.07.13: Leistungsprogramm der MVG für die Fahrplanperiode 2014 (Sitzungsvorlage Nr. 08-14 / V 12455)
+- TOP 8.54.: Schreiben BA 21 Pasing-Obermenzing vom 25.07.13: Absenkung der Randsteine an den Fußgängerübergängen am Willibaldplatz / Westseite (Schreiben BA 25 vom 13.06.13)
+- TOP 8.55.: Schreiben BA 10 Moosach vom 09.08.13: Abendforum "Lärm in Moosach" am 25.09.13
+- TOP 8.56.: Ergebnisse der Ortsbesichtigung der "Ludwig-Richter-Höfe" am 05.08.13
+- TOP 8.57.: Schreiben Bohemia After Dark e.V. vom 14.08.13: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.58.: Schreiben Initiativgruppe Interkulturelle Begegnung und Bildung e.V. vom 05.08.13: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.59.: Schreiben Laimer Maibaumfreunde e.V. vom 10.07.13: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.60.: Broschüre "Preis für Stadtbildpflege 2012"
+- TOP 1.2: Bürgerpost an den BA
