@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2013-09-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2871089
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2871089
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 06.08.13
+- TOP 2: Anträge
+- TOP 2.1.: BA-Schaukasten Herterichstr. 101
+- TOP 2.2.: Historischer Gedenk-Frühschoppen zur Eingemeindung Sollns
+- TOP 2.3.: Abfallbox am Parkplatz an der Zentralländstraße
+- TOP 2.4.: Autovermietung ohne Betriebsgelände
+- TOP 2.5.: Schulstandort für weiterführende Schule am Ratzingerplatz
+- TOP 2.6.: Beleuchtung Radweg zwischen Aidenbachstr. und Baierbrunner Straße
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: A) Baumschutzliste
+- TOP 4.2.: (A) Lärmbegrenzung im Naherholungsgebiet nördlich der Schießanlage Hubertus
+- TOP 4.3.: Bepflanzung als Lärm- und Sichtschutz an der Wolfratshauser Straße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (A) Austausch Lichtzeichenanlagen
+- TOP 5.2.: Lkw-Parkverbot südliche Wolfratshauser Str.
+- TOP 5.3.: Einrichtung von Stundenparkplätzen/Behindertenparkplätzen vor dem Praxisgebäude Königswieser Str. 89a
+- TOP 5.4.: (A) Personenbezogener Behindertenparkplatz Hauschildstr. 1d
+- TOP 5.5.: (A) BV-Empfehlung - "Verlängerung Stäblistr."
+- TOP 5.6.: (A) Projekt Erneuerung Kistlerhofstr. zwischen Hofmannstr. und Aidenbachstr.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: Zustand Grundstück Wolfratshauser Str. 262
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Öffentlicher Seniorensport in Obersendling
+- TOP 8: Entscheidungsfälle
+- TOP 1: (E) Freigabe des Fahrradweges in der Wofratshauser Straße zwischen Josephinenstraße und Schmiedberg für beidseitige Befahrung; entsprechende Ausschilderung: eindeutiger Übergang Siemensallee Empfehlung Nr. 08-14 / E 01761 der Bürgerver- sammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.04.2013 - <div>nach Antrag</div>
+- TOP 2: (E) Verkehrsregelnde Maßnahmen in der Maria-Einsiedel-Straße Empfehlung Nr. 08-14 / E 01773 der Bürger- versammlung des 19. Stadtbezirkes Thalkirchen- Obersendling-Forstenried-Fürstenried-Solln am 11.04.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Benennung von zwei Straßen im Neubaugebiet ehem. Siemensareal
+- TOP 9.2.: (A) Änderung der Bezirksausschuss-Satzung
+- TOP 9.3.: (A) Abstimmungsräume zum Bürgerentscheid "Olympiabewerbung 2022"
+- TOP 9.4.: (A) Korrektur der Bezirksausschuss-Satzung zu Belange der Kinderbetreuung
+- TOP 9.5.: (U) Antrag auf Zweckentfremdung Hofbrunnstraße
+- TOP 9.6.: (U) Antrag auf Zweckentfremdung Derfflingerstraße
+- TOP 9.7.: (U) Gaststättenfortführung Drygalski-Allee 118
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.&nbsp;: Bericht
+- TOP 1: Allgemeiner Teil
