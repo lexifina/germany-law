@@ -1,0 +1,109 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2781105
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2781105
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 07.07.2013, Bürgerbeteiligung bei der Gestaltung des Museumsareals (s. TOP C 2.2.1)
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 27.06.2013, Sperrung des Königsplatzes für kommerzielle Veranstaltungen (s. TOP C 2.2.2)
+- TOP 5.2.3.: Schreiben des Brienner Quartier e.V. vom 16.07.2013 Veranstaltungen auf dem Wittelsbacherplatz (s. TOP C 2.4.1) vertagt aus dem Ferienausschuss am 07.08.2013, TOP A 5.2.7
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 3O., 31., 32., 33., 34.KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: KW
+- TOP 2.1.3.: Karlstraße 36, Umbau und Erweiterung VGB und Neubau RGB (Karlstr. 36), Neu- bzw. Umbau Tiefgarage (Karlstr. 36/Luisenstr. 25) und Aufstockung (Luisenstr. 25) ? Vorbescheid / 2 Varianten vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 2.1.8
+- TOP 2.1.4.: Linprunstraße 40, Errichtung eines Wohngebäudes mit Tiefgarage ? Vorbescheid vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 2.1.9
+- TOP 2.1.5.: Nymphenburger Straße 20 ? 20 b, Umnutzung eines Bürogebäudes zu einem Wohngebäude ? Vorbescheid vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 2.1.10
+- TOP 2.1.6.: Adalbertstraße 49, VGB: Umbau und Sanierung der Wohnungen, Einbau einer Aufzugsanlage, und DG-Ausbau vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 2.1.11
+- TOP 2.1.7.: Amalienstraße 93, Neubau eines Wohngebäudes (22 WE) mit Ladeneinheit und Tiefgarage vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 2.1.13
+- TOP 2.1.8.: Kaulbachstraße 29 a, Abbruch eines Studentenwohnheims und Neubau eines Verwal- tungs- und Wohngebäudes (12 WE) mit Tiefgarage)
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Gabelsbergerstraße 11-13, eine Esche vertagt aus dem Ferienausschuss am 07.08.2013, TOP B 3.2.1
+- TOP 3.2.2.: Loristraße 9, eine Fichte, Anhörung
+- TOP 3.2.3.: Zieblandsraße 28, ein Spitzahorn
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Baureferat, Entscheidung Arnulfpark, Aufwertung mit einem Kinderspielbereich im 3. Stadtbezirk Maxvorstadt Beschlussvorlage Hierzu Bericht des Vorsitzenden: Gründung einer Arbeitsgemeinschaft ?Baumpatenschaften? im Arnulfpark (Bürgertreff Arnulfpark) sowie Vertretung des BA 3 in diesem Gremium
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 1: (E) Abschalten oder zeitliche Einschränkung der Ampel Görresstraße / Winzererstraße Empfehlung Nr. 08-14 / E 01536 der Bürgerver- sammlung des 03. Stadtbezikrkes Maxvorstadt vom 18.10.2012
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Austausch von Lichtzeichenanlagen
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Errichtung einer Lichtzeichenanlage am Knoten Heßstraße/Lothstraße vertagt aus dem Ferienausschuss am 07.08.2013, TOP C 2.1.2
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anpassung bzw. Erneuerung von Lichtzeichenanlagen im Stadtbezirk 3 im Rahmen der Beschleunigung der Buslinie 154 vertagt aus dem Ferienausschuss am 07.08.2013, TOP C 2.1.4
+- TOP 2.1.4.: Baureferat, Anhörung Schleißheimer Straße zwischen Elisabethstraße und Maßmannstraße im 3. Stadtbezirk Beschluss des Bauausschusses am 24.09.2013 Sitzungsvorlage Nr. 08-14 / V 11080
+- TOP 2.1.5.: Direktorium, Anhörung Änderung der Bezirksausschusssatzung Antrag der Stadtratsfraktion der FDP vom 25.07.2012, Nr. 08-14 / A 03545 BAs sollen über die Beschaffung und Aufstellung von Mobilen Geschwindigkeitsanzeigern (Dialog-Displays) selbst entscheiden dürfen, Antrag von StR Dr. Kronawitter, StRin Dr. Manuela Ohlhausen und StR Seidl vom 07.08.2012, Nr. 08-14 / A 03583 Änderung der Satzung zur Finanzierung und zum Ersatz von Geschwindigkeitsanzeigen in den jeweiligen Stadtbezirken Antrag Nr. 08-14 / B 04303 des BA 7 Sendling-Westpark vom 09.10.2012 (s. Auch TOP G 1)
+- TOP 2.1.6.: Referat für Gesundheit und Umwelt Neue Stadtbuslinie 153, Haltestelle am Gesundheitshaus beantragt
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 07.07.2013, Bürgerbeteiligung bei der Gestaltung des Museumsareals (s. TOP A 5.2.1)
+- TOP 2.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 27.06.2013, Sperrung des Königsplatzes für kommerzielle Veranstaltungen (s. TOP A 5.2.2)
+- TOP 2.2.3.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Entscheidung Türkensstraße 71, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.4.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Entscheidung Zeitungsentnahmegeräte für ?Abendzeitung? auf öffentlichem Grund: Kaulbachstraße 36; Ludwigstraße, Seite Professor-Huber-Platz; Ludwigstraße, Seite Ge- schwister-Scholl-Platz; Ludwigstraße 27, Seite Schellingstraße; Amalienstraße 33, Seite Theresienstraße; Schellingstraße 88; Luisenstraße 67; Schnorrstraße 8; Schraudolph- straße 34
+- TOP 2.2.5.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Entscheidung Sondernutzungserlaubnis für Zeitungsentnahmegeräte am Standort Adelheidstraße 12 Änderung des Beschlusses vom 7.05.2013
+- TOP 2.2.6.: Kreisverwaltungsreferat, Entscheidung Barerstraße 62, Erweiterung einer Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.7.: Baureferat, Beschlussvorlage, Entscheidung Karlstraße ? Begrünung, Projekt Nr. 100571
+- TOP 2.2.8.: Baureferat, Anhörung Schleißheimer Straße zwischen Elisabethstraße und Maßmannstraße Baumaßnahmen und Umgestaltung von Straßen und öffentlichem Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Isabellastraße 4: Erweiterung der bestehenden Freischankfläche
+- TOP 2.3.2.: Seidlstraße 2 a, Erweiterung der bestehenden Freischankfläche, Entscheidungen
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Schreiben des Brienner Quartier e.V. vom 16.07.2013 Veranstaltungen auf dem Wittelsbacherplatz (s. TOP A 5.2.7) vertagt aus dem Ferienausschuss am 07.08.2013, TOP C 2.4.2
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Straßenfest (Finissage) auf dem Wittelsbacherplatz zum Abschluss des Kunstprojektes am 02.10.2013
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Budgetantrag des Vorsitzenden Nachtragsantrag über 150,00 ? zur Deckung des Fehlbetrags bei der Eröffnungsfeier für den Kinderspielplatz an der Akademie der Künste.
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budget ?Luxusjach AZOR?, Ausstellung der ?what remains gallery? beantragter Zuschuss: 2.800,00 ?; Entscheidung
+- TOP 2.2.: Budget ?Der Junge mit dem Koffer? von Oktober 2013 bis Februar 2014 Institut Kultion beantragter Zuschuss: 1.590,00 ?
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Einführung eines Spättermins für Erwerbstätige zur Anlieferung beim Giftmobil und Erweiterung der Liste der abzugebenden Problemstoffe um Schrottfahrräder oder dergelichen
+- TOP 1.2.: Sozialreferat, Amt für Wohnen und Migration Verbot der Zweckentfremdung a) Rheinbergerstraße 1, EG links, WE-Nr. 1 B) Brienner Straße 14, Altbau Vordergebäude, DG, WE-Nr. 8, 9 und 10 Genehmigung des Zweckentfremdungsantrages entgegen der Stellungnahme des BA 3
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064, Wittelsbacherplatz, Fin- kenstraße, Jägerstraße, Kardinal-Döpfner-Straße ? Siemens Konzernzentrale - Satzungsbeschluss
+- TOP 1.4.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen Verlängerung der Ausnahmezulassung vom26.10.2010 für den Betriebn von drei Müll- sammelfahrzeugen
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bildungscamp des Kreisjungendrings auf dem Königsplatz am 06.08.2013
+- TOP 2.2.: entfällt, s. TOP C 2.1.7
+- TOP 2.3.: Baureferat, Verwaltung und Recht, Kunst im öffentlichen Raum Ausstellungsprojekt ZENTRAL 6039 im Alten Botanischen Garten vom 06. bis 29.09.2013 Eilentscheidung des 1. stellvertretenden Vorsitzenden durch Fristablauf: Zustimmung
+- TOP 2.4.: Kreisverwaltungsreferat, Gewerbeangelegenheiten (s. dazu auch TOP E 2.1/07/13) Beeinträchtigung der Feiertagsruhe durch Arbeiten im öffentlichen Raum
+- TOP 2.5.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchG; Herstellen und Verfüllen eines Rohrgrabens für die Verlegung einer Fernwärmeleitung einschließlich Asphaltierungsarbeiten in der Lothstraße/Görresstraße
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Streetlife Festival/Corso Leopold am 14.09. und 15.09.2013 zwischen Feldherrnhalle und Münchner Freiheit Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Wiederinbetriebnahme der Ampelanlage an der Ecke Teng- und Görresstraße an Samstagen und Sonntagen tagsüber
+- TOP 2.8.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 3. Nachtrag zur Anhörung Ästreetlife Festival/Corso Leopold am 14. und 15.09.2013 Eilentscheidung des Vorsitzenden vom 27.08.2013: Zustimmung durch Fristablauf
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Skateboard-Wettbewerb im Maßmannpark am 07.09.2013 Eilentscheidung des Vorsitzenden vom 27.08.2013: Zustimmung durch Fristablauf
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Friedensfest im Arnulfpark am 21.09.2013 Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Referat für Bildung und Sport Bekanntgabe der Termine 2014: ?Das Referat für Bildung und Sport trifft die Bezirksaus- schüsse?
+- TOP 4: Kultur
+- TOP 4.1.: Schreiben eines Gewerbebetriebes aus der Maxvorstadt vom 14.08.2013 zum Erhalt der Paul-Heyse-Villa
+- TOP 4.1.: Direktorium, Anhörung Änderung der Bezirksausschusssatzung Antrag der Stadtratsfraktion der FDP vom 25.07.2012, Nr. 08-14 / A 03545 BAs sollen über die Beschaffung und Aufstellung von Mobilen Geschwindigkeitsanzeigern (Dialog-Displays) selbst entscheiden dürfen, Antrag von StR Dr. Kronawitter, StRin Dr. Manuela Ohlhausen und StR Seidl vom 07.08.2012, Nr. 08-14 / A 03583 Änderung der Satzung zur Finanzierung und zum Ersatz von geschwindigkeitsanzeigen in den jeweiligen Stadtbezirken Antrag Nr. 08-14 / B 04303 des BA 7 Sendling-Westpark vom 09.10.2012
+- TOP 4.2.: Kreisverwaltungsreferat, Anhörung Bürgerentscheid Arbeitstitel: ?Olympiabewerbung München 2022?, vorgesehene Abstimmunsräume
+- TOP 4.3.: Direktorium, Anhörung Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Be- zirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung BA-Antrag Nr. 08-14 / B 03722 des BA 13 Bogenhausen vom 14.02.2012
+- TOP 4.4.: Bürgerbüro, Schellingstraße 28 a Einbau eines Zwischenzählers für Büro und WC
+- TOP 4.5.: Direktorium, Unterrichtung Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014 Beschluss der Vollversammlung des Stadtrates vom 24.07.2013 Sitzungsvorlage Nr. 08-14 / V 12213
+- TOP 4.6.: Direktorium, Kenntnisnahme BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen BA-Antrag Nr. 08-14/B04439 des BA 16 vom 04.12.2012 Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegenstände hin zu einem pass- wortgeschützten Downloadverfahren BA-Antrag Nr. 08-14 / B 04586 des BA 6 vom 04.02.2013
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
