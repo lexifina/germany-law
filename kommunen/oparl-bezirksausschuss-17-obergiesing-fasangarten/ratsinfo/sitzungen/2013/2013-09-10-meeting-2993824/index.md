@@ -1,0 +1,125 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2993824
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2993824
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Verkehrsberuhigung in Obergiesing, Bürgeranliegen von Herrn B. vom 16.08.2013
+- TOP 2.2.: Fußgängerampel in der Tegernseer Landstraße / Watzmannstraße; Bürgeranliegen von Herrn A. vom 22.08.13
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Anträge aus der Einwohnerversammlung am 24.07.2013 "Bebauungsplan Nr. 2037 Europäische Schule": 1. Schaffung der bauplanungsrechtlichen Voraussetzungen für bis zu 50 Wohnungen für Betreutes Wohnen, Bürgeranliegen von Herrn W. 2. Radwegverbindung westlich der S-Bahn als querungsfreie und autofreie Nord-Süd-Verbindung, Bürgeranliegen von Herrn L. 3. Berücksichtigung der Barrierefreiheit für Behinderte, Mütter mit Kindern und Senioren, Bürgeranliegen von Herrn J. 4. Vermeidung von Lärmbelästigungen für die Anwohner durch Zu- und Abfahrtsverkehr, Bürgeranliegen von Herrn J. 5. Reduzierung der Größe des Nahversorgers, Bürgeranliegen von Herrn E. 6. Abwicklung des Anlieferverkehrs nicht über die Marklandstraße, Bürgeranliegen von Herrn E. 7. Vorziehen der Erstellung einer Verkehrsplanung, Bürgeranliegen von Herrn E.
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Elternbeirat der GS an der Fromundstraße, für die Maßnahme: Theater-, Tanz- und Bewegungsprojekt für die 4. Klassen; Antragssumme: 500,00 ?; Antrag vom 02.08.2013
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 1. Balanstraße 386, Errichtung eines Zweifamilienhauses mit Garage und Carport und Abbruch des Bestandsgebäudes 2. Tegernseer Landstr. 99, Neubau eines Mehrfamilienhauses mit Tiefgarage (vertagt aus der BA-Sitzung vom 13.08.2013)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Tegernseer Landstr. 44a, Beschlussvorlage des KVR vom 05.08.2013
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Aufstellung eines mobilen Fahrradständers auf der Ichostraße 5, Beschlussvorlage des KVR vom 05.08.2013
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der St.-Bonifatius-Str. 20, Beschlussvorlage des KVR vom 09.08.2013
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung 5.1.3.1.1 Tegernseer Landstraße, Aufstockung und DG-Ausbau (4 WE) sowie Anbau von Balkonen u. eines Aufzugs; Anhörung vom 20.08.2013 5.1.3.1.2 Werinherstraße 67, Nutzungsänderung: Textilladen mit Lager zu Sport-Café (Gaststätte) mit 34 m²; Anhörung vom 21.08.2013
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.4.: Stadtgestalterische Maßnahme durch Fortführung der Allee in der Untersbergstraße (Westseite), Antwortschreiben des BauR vom 10.07.2013, Antwortschreiben des BauR vom 10.07.2013
+- TOP 0.5.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 , 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Änderung des BÜ km 2,117 - Balanstraße, Bahnstrecke 5552 München Ost, Frankenwaldstraße - Kreuzstraße, km 2,117, Information des PlanR vom 26.06.2013
+- TOP 0.6.: Unterrichtung der Bezirksausschüsse nach Ziffer 7 des Katalogs der Anhörung und Unterrichtung, Bauvorhaben im 17. Stadtbezirk; Anforderung der Anhörung im Einzelfall gemäß Ziffer 7.2, Information des PlanR vom 30.07.2013
+- TOP 0.7.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder, bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; Antrag Nr. 08-14 / B 04578 des BA 16 vom 05.02.2013; Antwortschreiben des Direktorium vom 13.05.2013, Sitzung des BA 16 am 02.07.2013
+- TOP 0.8.: Schulbedarfsfläche an der Aschauer Straße; Änderung des Flächennutzungsplans, Interfraktioneller Antrag des BA 17, Antwort des BA 16 vom 06.08.2013
+- TOP 0.9.: Verkauf des GBW-Wohnungsbestandes an den Freistaat Bayern, Antwortschreiben des PlanR vom 13.08.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Mehr Ferienangebote für Jugendliche zwischen 13 und 16 Jahren / Mehr Treffpunkte für Jugendliche / Mehr Spielstätten für Jugendliche (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 0.2.: Schreiben der Klasse 3g der Grundschule an der St.-Martin-Straße über die Ergebnisse des Stadtteilcheck "auf Herz und Rampen prüfen" (Vertagt aus der BA-Sitzung am 13.08.2013
+- TOP 0.1.: Korrektur des Kataloges der Fälle der Entscheidungen, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung, Anhörung zum BA-Antrag Nr. 08-14 / B 03722 des Bezirksausschusses des Stadtbezirks 13 - Bogenhausen vom 14.02.2013, Anhörung Direktorium vom 12.08.2013
+- TOP 0.2.: Auswahl der REGSAM-Schwerpunktgebiete für den Zeitraum ab Januar 2014; Fragebogen des Sozialreferats mit der Bitte um Stellungnahme bis 31.10.2013
+- TOP 0.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des Mehrjahresinvestitionsprogrammes 2012 - 2016 Sitzungsvorlage Nr. 08-14 / V 12315, Beschluss des Ausschusses für Bildung und Sport vom 03.07.2013
+- TOP 0.3.: Besetzung des Sportbeirats der Landeshauptstadt München für die Amtsperiode 2013 bis 2017, Sitzungsvorlage Nr. 08-14 / V 11331, Beschluss des Ausschusses für Bildung und Sport vom 06.03.2013
+- TOP 0.4.: Aufstockung der regelmäßigen Zuwendungen für Kultur- und Spielraum e.V. (Mini-München) Produkt 60 3.1.1 (Kinder- und Jugendarbeit), Höhe der regelmäßigen jährlichen Aufstockung 62.000,- Euro, Sitzungsvorlage Nr. 08-14 / V 10764, Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 0.5.: Dienststellenverständigung: Umstrukturierung städt. KITZ Severinstr. 2/4; Mitteilung des RBS vom 19.08.13
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Fahrradständer an der Ichostraße (bei Woolworth), (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 0.2.: Verkehrssituation in der Siedlung Tegernseer Landstraße, Bürgeranliegen von Herrn O. vom 05.08.2013 (vertagt aus der BA-Sitzung vom 13.08.2013)
+- TOP 0.3.: eingeschränktes Halteverbot für Anlieferzone/Radlständer, Bürgeranliegen von Herrn G. vom 06.08.2013 (vertagt aus der BA-Sitzung vom 13.08.2013)
+- TOP 0.1.: 1. Unfall- und Schadensrisiken minimieren - Bordsteine in München entschärfen, Antrag Nr. 08-14 / A 04014 der FW vom 04.02.2013 2. Bordsteine nicht zum Unfallrisiko werden lassen, BA-Antrag Nr. 08-14 / B 04544 des BA 15 Trudering-Riem vom 17.01.2013 Sitzungsvorlage Nr. 08-14 / V 11625, Beschluss des Bauausschusses vom 16.07.2013
+- TOP 0.2.: Nahmobilität in München - Konzeption und weiteres Vorgehen, a) Darstellung des Vorgehens zur zweistufigen Erarbeitung einer integrierten Nahmobilitätsstrategie sowie die Beschreibung entsprechender Ziele und Handlungsfelder b) Behandlung von Anträgen Sitzungsvorlage Nr. 08-14 / V 12380 Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 0.3.: Temporäre Geschwindigkeitsüberwachung in der Deisenhofener Straße, Antwortschreiben des KVR vom 15.07.2013
+- TOP 0.4.: Radweg Untersbergstraße
+- TOP 0.5.: Erfassung des privaten Stellplatzangebotes in ausgewählten Teilbereichen der Landeshauptstadt München, Erlass einer Haushaltsbefragungssatzung, Sitzungsvorlage Nr. 08-14 / V 12209, Beschluss Verwaltungs- und Personalausschusses als Feriensenat vom 07.08.2013
+- TOP 0.7.: Buslinie 145; Verlegung der Wendeschleife Kiesmüller/Waldsassener Straße (Ziffer 1 des Antrages), Zwischennachricht des RAW vom 31.07.2013
+- TOP 0.8.: LZA-Abbau; LZA 857 Untersberg- / Weißenseestraße; Mitteilung des KVR vom 23.08.2013 über den Fortbestand
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Mehr Papierkörbe im 17. Stadtbezirk. Wo besteht der Bedarf (geeignete Standorte)? (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 0.2.: Mehr Liegewiesen im 17. Stadtbezirk. Welche Flächen sind dafür geeignet? (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 0.3.: Abfalleimer in der Watzmannstr. Bürgeranliegen von Herrn H vom 08.07.2013 (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 0.1.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel", 2. Bauabschnitt im 17. Stadtbezirk Obergiesing-Fasangarten; Projektkosten; 1. Konzeptgenehmigung, 2. Projektauftrag; Sitzungsvorlage Nr. 08-14 / V 11736; Beschluss des Bauausschusses vom 15.10.2013 (VB); Zuleitung des Baureferats vom 23.08.13 mit der Bitte um Stellungnahme
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Schwarzenbacher Str. 16, Bescheid vom 11.07.2013 2. Eslarner Str. 22, Bescheid vom 09.07.2013 3. Balanstr. 386, Bescheid vom 10.07.2013 4. Martin-Luther-Str. 20, Bescheid vom 29.07.2013 5. Chiemgaustr. 63; Bescheid vom 22.08.13
+- TOP 0.2.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Verlagerung der städtischen Kompostieranlage Hochäckerstraße in die Fasangartenstraße in München; Bescheid über die Zulassung des vorzeitigen Beginns nach § 8a Bundes-Immissionsschutzgesetz (BImSchG), Information des RGU vom 30.07.2013
+- TOP 0.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 07.08.2013
+- TOP 0.4.: Luftmessungen im Bereich Giesinger Berg/Tegernseer Platz, Bürgeranliegen vom 08.07.2013, Antwort des RGU vom 05.08.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse - Anhörung, BA-Antrag-Nr. 08-14 / B 03384 des BA 15 Trudering-Riem, Anhörung Direktorium vom 09.07.2013 (vertagt aus der BA-Sitzung vom 13.08.2013)
+- TOP 0.1.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Puppenbühne Maatz im Weißenseepark ? Zirkuswiese vom 23.10.2013 bis 05.11.2013; Zuleitung des KVR vom 28.08.2013 mit der Bitte um Stellungnahme bis 13.09.2013
+- TOP 0.1.: Bezifferung der Höhe der Sanierungskosten für die Kapelle im ehemaligen Altenheim in der St.-Martin-Straße/Severinstraße/Werinherstraße, Antwortschreiben des BauR vom 16.07.2013
+- TOP 0.2.: Kurzbericht, St.-Quirin-Fest am Donnerstag, den 04.07.2013
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Benennung von Straßen und Wegen in Grünzügen - Anhörungsschreiben, BA-Antrags-Nr. 08-14 / B 04763 des Bezirksausschusses des Stadtbezirks 11 - Milbertshofen-Am Hart vom 10.04.2013, Anhörung des Direktorium vom 24.06.2013 (Vertagt aus der BA-Sitzung vom 09.07.2013)
+- TOP 7.2.: Einwand gegen den BA-Schaukasten am Giesinger Bahnhofplatz, Bitte um alternativen Standortwunsch, Information des BauR vom 08.08.2013 (vertagt aus der BA-Sitzung vom 13.08.2013)
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Evaluation des 1. Aktionsplanes zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Finanzierung der externen Vergabe, Produkte 5.4.2 - Förderung von Bildung, Aktivitäten und Engagement behinderter und älterer Menschen, Sitzungsvorlage Nr. 08-14 / V 12113, Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Verwaltungs- und Personalausschusses, des Gesundheitsausschusses, des Kulturausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Kreisverwaltungsausschusses, des Kommunalausschusses und des Ausschusses für Arbeit und Wirtschaft in gemeinsamer Sitzung vom 02.07.2013
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: Budget der Bezirksausschüsse; nicht verbrauchte Restmittel, Information des Direktorium vom 01.07.2013
+- TOP 7.4.: Änderung der Bezirksausschuss-Satzung; notwendige Anpassung für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014, Information des Direktorium vom 08.07.2013
+- TOP 7.5.: Information für den Bezirksausschuss des Stadtbezirkes 17, Obergiesing-Fasangarten, hier: Neuaufstellung, Information des KommR vom 01.07.2013
+- TOP 7.6.: Erweiterung der Öffnungszeiten/Servicezeiten der Postfiliale am Tegernseer Platz 7, Antwortschreiben der Postbank vom 26.07.2013
+- TOP 7.7.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020; Schreiben des Direktoriums vom 21.08.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
