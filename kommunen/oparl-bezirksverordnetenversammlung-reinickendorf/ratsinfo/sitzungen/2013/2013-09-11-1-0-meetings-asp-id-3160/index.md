@@ -1,0 +1,120 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-09-11T17:10:00+02:00
+- Ende: 2013-09-11T20:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3160
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3160
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=72734
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 1.1: Flüchtlinge und Asylbewerber sind willkommen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 22. Sitzung der BVV am 11.09.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 22. Sitzung der BVV am 11.09.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 22. Sitzung der BVV am 11.09.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Parkverbot Borsigdamm Richtung Eisenhammer Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Naturschutz auf der NEB-Insel durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Fußgängerampel am Südaufgang des S-Bahnhofs Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Vermeidung Durchgangsverkehr in den Nebenstraßen in Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Brücke Ernststraße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Liegenschaften in der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Klauseln gegen rechtsextreme Aktivitäten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Anonymisierte Bewerbungen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bezirkshaushalt transparenter gestalten - Haushalt im OpenData-Format bereit stellen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Kiefheider Weg (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: S-Bahnwegweiser Bahnhof Schulzendorf sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Einrichtung eines Shuttle-Service für das Strandbad Tegeler See (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Verkehrssicherheit im Tegeler Kiez (1) - Fußgängerüberweg Medebacher Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Spielplatz im Titusweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Verkehrssicherheit Öschelbronner Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Verkehrssicherheit Schluchseestraße Ecke Zabel-Krüger-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Einhaltung des Verkehrsvertrages durch die BVG - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Gräben im MV reinigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Studentenappartements - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Asbesthaltige Bodenbeläge bei der GEWOBAG entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Busausschilderung auf den S-Bahnhöfen verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Brücke nach Horst Frank benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Ergänzung einer Stellenbezeichnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Fifty-Fifty-Projekt unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Bahnhofszugangsbereich S Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Nachnutzung des Marie-Schlei-Hauses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Berlinweite Kennzeichnung von Ordnungsamtsmitarbeitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Reinickendorf vor Fluglärm schützen III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Abfallbehälter an der Welfenallee und Donnersmarckallee vorsehen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Kontrastreiche Markierungen an den S-Bahnhöfen Hermsdorf und Frohnau erneuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Zebrastreifen an der Jugendfarm Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Nächtliches Tempo 30 / Hennigsdorfer Straße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.34: Zusammenarbeit von Bezirksamt und Senat bei der Flüchtlingsunterbringung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Brunnen vor der Grundschule Rollberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.36: Heiligenseer Entwässerungsgräben reinigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: Aufstellung des Bebauungsplans 12-47 für die Grundstücke an der Allée St. Exupéry, an der Rue Henri Guillaumet, an der Rue Joseph le Brix, an der Rue Doret, an der Rue Marin la Meslée, an der Rue Nungesser et Coli, für die Grundstücke Avenue Jean Mermoz 20 / 24 und 28 / 36 sowie für Teilflächen der Grundstücke Rue Doret 8, Seidelstraße 52, Allée St. Exupéry 36 im Bezirk Reinickendorf, Ortsteil Tegel (nordwestlicher Teil der Cité Guynemer) - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Änderungen am Zahlenteil des Entwurfs des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - Nachschiebeliste - - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.10: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.12: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 9.1.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 9.1.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen
+- TOP 9.1.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.1.18: Gesundes Kita- und Schulessen - mit Sicherheit! - mit Änderungen in der BVV beschlossen
+- TOP 9.1.19: Schüler sind und wichtig - Bauvorhaben in Schulen mit Schülern planen! - in der BVV abgelehnt
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 9.3: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Oelder Weg und Bernhard-Lichtenberg-Platz für den Radverkehr in beide Richtungen freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Initiative "Erstausbildung junger Erwachsener" - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Überdachung am U-Bhf. Alt-Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Transparenz - Bürgernähe - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Reinigung des Seggeluchbeckens - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Toiletten mit Wickelmöglichkeiten in direkter Spielplatznähe - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: S-Bahnhof Wittenau - Haltepunkt 6-Wagenzüge Richtung Süden verlegen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: ÖPNV-Tarifzone B nach Brandenburg ausweiten und P+R-Plätze im Umland schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Anwohnerschutz an der Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kein Schwerlastverkehr im Dannenwalder Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: U-Bahnhof Franz-Neumann-Platz endlich barrierefrei erreichbar - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Finanzierung der Integrationslotsen I - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Finanzierung der Integrationslotsen II - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Finanzierung der Integrationslotsen III - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Übertragung des Betriebes und der Unterhaltung der "Familienfarm Lübars" an einen freien Träger der Jugendhilfe zum 01.01.2014 gemäß § 12 Abs. 2 Nr. 10 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Sportstättenhinweise im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Fahrradabstellplätze Frohnau - überwiesen
+- TOP 12.3: Elektrofahrzeuge fürs Ordnungsamt - überwiesen
+- TOP 12.4: Öffnung von Einbahnstraßen für den Radverkehr - überwiesen
+- TOP 12.5: Radfahrerschutz auf der Ruppiner Chaussee - überwiesen
+- TOP 12.6: Ausreichende Müllbehälter an Badestelle Sandhauser Straße ("Tivoli") schaffen - überwiesen
+- TOP 12.7: Schreibstube der Tagesförderstätte "Spastikerhilfe" Kienhorststraße unterstützen - überwiesen
+- TOP 12.8: Schulwegsicherung Sigismundkorso Ecke Alemannenstraße - überwiesen
+- TOP 12.9: Mindeststandard für Lernmittel seit dem Schuljahr 2012/2013 - mit Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Freigabe der Karolinenstraße für den Radverkehr in nördlicher Richtung - überwiesen
+- TOP 13.2: Fahrgastinformation am U-Bahnhof Alt-Tegel verbessern! - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Buslinie 124 Richtung Heiligensee - überwiesen
+- TOP 13.4: Verlängerung der Buslinie 324 - überwiesen
