@@ -1,0 +1,7 @@
+# TOP 5: Anfragen der Ausschussmitglieder
+
+- Sitzung: Sitzung des Ausschusses für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit (2013-09-11)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7302def24bb7ed5128b4ae
+- Ergebnis: (offen)
