@@ -1,0 +1,52 @@
+# Verkehrsausschuss (8. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2013-09-17T18:15:00+02:00
+- Ende: 2013-09-17T21:55:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-45
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf9C4jsJSXCw2nQpDZo3QEQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/1006
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Verkehrsausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY_pTcC3ig6k11gijFNb5rmkbFptWIekLclAuXZbUFzS/Bekanntmachung_Verkehrsausschuss_17.09.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Verkehrsausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQyaqk8WzBBWOeFX6nFQs31T4-5doJIMBQ7VQD0G9VGT/Oeffentliche_Niederschrift_Verkehrsausschuss_17.09.2013.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 06.06.2013
+- TOP 2.: Niederschrift vom 09.07.2013
+- TOP 3.: Verkehrssicherheitsarbeit; Vortrag über die Arbeit der Unfallkommission des Rhein-Erft-Kreis (REK) Frau N. Beißel, Verkehrsingenieurin REK
+- TOP 4.: L 184 Theodor-Heuss-Straße/Willy-Brandt-Straße, UHS 06/13 Maßnahmen zur Verbesserung der Verkehrssicherheit an einer Unfallhäufungsstelle - (kein Text vorhanden)
+- TOP 5.: Anregungen und Bedenken gem. § 24 GO
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Verkehrsberuhigende Maßnahmen mit baulichen Veränderungen für die Uhlstraße hier: Antrag Piraten-Partei vom 25.5.2013 Bezug: VKA 17.9.2013
+- TOP 5.2.1: Anregungen und Bedenken gem. § 24 GO hier: Verkehrsberuhigende Maßnahmen Uhlstraße; Antrag Piraten-Partei vom 25.5.2013 Bezug: PStA 13.11.12 und VkA 07.03.13 (Vorl.Nr. 3/2012 und 59/2013) - (kein Text vorhanden)
+- TOP 6.: Anträge
+- TOP 6.1: Fußgängerüberwege hier: Antrag der SPD-Fraktion v. 10.05.2013 - (kein Text vorhanden)
+- TOP 6.2: Verbesserung der Fahrradinfrastruktur hier: Antrag der Grüne-Fraktion vom 25. Juni 2013
+- TOP 6.2.1: Maßnahmen zur Verbesserung der Fahrradinfrastruktur hier: Antrag der Fraktion Die Grünen v. 25.06.2013 - (kein Text vorhanden)
+- TOP 6.3: Gutachten zur Machbarkeit der Umsetzung der Gründsätze der Nahmobilität in Brühl hier: Antrag der GRÜNE-Fraktion vom 25.6.2013
+- TOP 6.4: Radfahrer-Abbiegespur Kölnstraße, L 194, Antrag der SPD Fraktion v. 10.05.2013 - (kein Text vorhanden)
+- TOP 7.: Parkplatzbenutzungsgebühren Janshof - (kein Text vorhanden)
+- TOP 8.: Knotenpunkt Kaiserstraße / Kurfürstenstraße / Friedrichstraße Umgestaltung zum Minikreisverkehr - (kein Text vorhanden)
+- TOP 9.: Straßenneuausbau Schiffergasse (nördlicher Teil) - (kein Text vorhanden)
+- TOP 10.: Straßenneuausbau Badorfer Straße von Euskirchener Straße bis Bendgespfad - (kein Text vorhanden)
+- TOP 11.: Kölnstraße Verkehrberuhigter Geschäftsbereich Beschwerde Bezug: Schreiben des Rhein-Erft-Kreises v. 09.08.2013 - (kein Text vorhanden)
+- TOP 12.: Bericht über die Sitzung des Aufsichtsrates der REVG am 26.06.2013 - (kein Text vorhanden)
+- TOP 13.: Sachstandsbericht unerledigte Beschlüsse Stand: 06.09.2013 - (kein Text vorhanden)
+- TOP 14.: Mitteilungen
+- TOP 14.1: Baustellenabwicklung Uhlstraße -mündlicher Bericht-
+- TOP 14.2: Gesperrter Abzweig L183 in Brühl-Schwadorf
+- TOP 15.: Anfragen
+- TOP 15.1: Mühlenstraße hier: Anfrage Ratsmitglied Dr. Heermann (fw/bvb) in der Sitzung des Rates v.03.05 .2012, TOP 4.3 - (kein Text vorhanden)
+- TOP 15.2: Test von LED - Lampen in der "Siebengebirgesiedlung" am Wasserturm
+- TOP 15.3: Thüringer Platz 1
+- TOP 15.4: Thüringer Platz 2
+- TOP 15.5: Parken auf der Rheinstraße
+- TOP 15.6: Theodor-Heuss-Straße
+- TOP 15.7: Bushaltestellenausbau
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen
