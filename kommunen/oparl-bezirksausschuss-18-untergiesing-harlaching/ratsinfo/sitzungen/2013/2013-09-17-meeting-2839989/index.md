@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2839989
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2839989
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Vandalismus und Verunreinigungen im 18. Stadtbezirk; Bürgerschreiben vom 22.08.2013 zu TOP 2.1.2.1 Antwortschreiben des Baureferats-Gartenbau vom 03.09.2013
+- TOP 2.3.: Busverbindung Thalkirchen-Harlaching; Bürgerschreiben vom 01.09.2013
+- TOP 2.4.: 1. "Geister-Radfahrer" auf der Seyboth- und Naupliastraße 2. Asphaltierung der Autharistraße und Theodolindenstraße; Bürgerschreiben vom 20.08.2013
+- TOP 2.5.: Unhygienische Zustände am Wettersteinplatz; Bürgerschreiben vom 13.08.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Budgetvergabe transparenter machen - mehrere Angebote einholen; Antrag der Fraktion Bündnis 90 / Die Grünen im BA 18 vom 24.08.2013 - <div>nach Antrag / mit Änderung</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Theater Stückwerk, für die Maßnahme: Kunst/Kultur/Kneipen-Festival "Münchner Frühling" vom 03.06.13 bis 06.10.13; Antragssumme: 1.115,00 ?; Antrag vom 21.08.2013
+- TOP 3.1.: Verein zur Erhaltung u. Pflege des Perlacher / Grünwalder Forstes e.V.; Bericht über das vom BA 18 bezuschusste Waldfest
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: 1. Asphaltierung des Radwegs zwischen dem Krankenhaus Harlaching und der Großhesseloher Brücke 2. Uhr für den U-Bahnhof Mangfallplatz (Süd) und Videoanzeige der Abfahrts- und Ankunftszeiten der U1 im Zwischengeschoß; Bürgerschreiben vom 07.08.2013 (verwiesen aus der Sitzung vom 20.08.13) zu Punkt 2: Antwortschreiben der MVG (negative Erledigung)
+- TOP 3.1.: Verlegung der Bushaltestelle an der Humboldtstraße, Höhe Hausnummer 27, stadteinwärts; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 20.08.2013) - <div>mehrheitlich abgelehnt</div>
+- TOP 3.1.: Fahrradständer für die U-Bahnhaltestelle Kolumbusplatz; BA-Antrag Nr. 08-14 / B 04918 vom 18.06.13; Antwortschreiben des Baureferats vom 27.08.13 mit der Bitte um Stellungnahme zur vorgeschlagenen Stellplatzumwandlung
+- TOP 3.1.: Hangweg an der Marienklause - zeitweise Sperrung des Weges aufgrund Asphaltierungsmaßnahmen; Unterrichtung des Baureferats-Gartenbau vom 29.08.2013
+- TOP 3.2.: Informationsschreiben des Baureferats-Tiefbau vom 30.08.2013 zur grundhaften Erneuerung der südlichen Fahrbahn der Grünwalder Straße zwischen Lorenzonistraße und Mailänder Straße
+- TOP 3.3.: Arbeiten im Straßenraum Heinrich-Zisch-Weg / Sperrung der Fußgänger-/Radfahrerbrücke über die Candidstraße; Info des KVR vom 03.09.2013
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Grünflächen in Harlaching; Bürgerschreiben vom 09.08.2013 (verwiesen aus der Sitzung vom 20.08.2013) zu 3.3.1.1 weiteres Bürgerschreiben vom 27.08.2013 zum Antwortschreiben des Baureferats-Gartenbau vom 14.08.2013
+- TOP 3.1.: Der nächste Sommer kommt bestimmt: Verbesserungen an der Isar; Antrag der Fraktion Bündnis 90 / Die Grünen im BA 18 vom 24.08.2013 - <div>nach Antrag</div>
+- TOP 3.1.: Theodolindenplatz und Krankenhaus Harlaching - Aufstellung von Hundekottütenspendern; BA-Antrag Nr. 08-14 / B 04997 vom 17.07.2013; Antwortschreiben des Baureferats-Gartenbau vom 16.08.13 (negative Erledigung)
+- TOP 3.1.: Mitteilungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Kurzstraße 13; Ablehnungsbescheid vom 03.09.2013
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Auswahl der REGSAM-Schwerpunktgebiete ab 2014; Schreiben des Sozialreferats vom 26.08.2013 mit der Bitte um Rückmeldung
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Kampfhund am Kuntersweg / Hoher Weg; Antwortschreiben des KVR vom 13.08.2013 auf ein diesbezügliches Bürgerschreiben vom 23.07.2013 (verwiesen aus der Sitzung vom 20.08.2013)
+- TOP 3.1.: Freischankflächenantrag für das Anwesen Konradinstraße 2; Beschluss des BA 18 vom 20.08.2013; Schreiben des KVR vom 28.08.2013 zur gewünschten Reduzierung der Betriebszeit mit der Bitte um erneute Beschlussfassung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Lorenzonistr. 33, Errichtung eines Anbaus an ein Reihenendhaus; Anhörung vom 12.08.13 (vertagt aus der Sitzung vom 20.08.13)
+- TOP 3.2.: Hochkalterstr. 11 - 25, Ausbau der Dachgeschosse zu Geschosswohnungen - VORBESCHEID; Anhörung vom 04.07.13 (vertagt aus den Sitzungen vom 16.07.13 und 20.08.13)
+- TOP 3.3.: Harthauser Str. 87, Neubau einer Wohnanlage (12 WE) mit Tiefgarage - TEKTUR; Anhörung vom 04.07.13 (vertagt aus den Sitzungen vom 16.07.13 und 20.08.13)
+- TOP 3.4.: Hebenstreitstraße, Neubau eines Appartementhauses für Studenten mit Tiefgarage u. Gemeinschaftsräumen; Anhörung vom 04.07.13 (vertagt aus den Sitzungen vom 16.07.13 und 20.08.13)
+- TOP 3.5.: Quagliostr. 6, Neubau eines Mehrfamilienhauses - VORBESCHEID; Anhörung vom 15.07.13 (vertagt aus den Sitzungen vom 16.07.13 und 20.08.13)
+- TOP 3.6.: Grünwalder Str. 65, Abbruch des Bestands u. Neubebauung mit Wohnungen - VORBESCHEID; Anhörung vom 21.08.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: BV Meichelbeckstr. 20; Bürgerschreiben vom 17.06. zu Baumfällungen / zum Bauvorhaben; Antwortschreiben der Lokalbaukommission vom 27.08.13 (neutrale Erledigung)
+- TOP 3.2.: Aufforderung an die LHM, die zum Verkauf stehenden Wohnungen der GBW zu erwerben, insbesondere im 18. Stadtbezirk; BA-Antrag Nr. 08-14 / B 03365 vom 18.10.2011; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 13.08.2013 (negative Erledigung)
+- TOP 3.3.: Gartenstadt Harlaching!? Bürgerschreiben vom August 2013 (TOP 2.1.2.6 vom 20.08.13); Zwischennachricht der Lbk vom 28.08.2013; Bürgerschreiben vom 30.08.2013
+- TOP 3.4.: Obst- und Gemüsehändler außerhalb des Mittleren Rings - Genehmigung zum Stehen bleiben auch während der Nachtzeiten; BA-Antrag Nr. 08-14 / B 04999 vom 16.07.2013; Zwischennachricht des KVR vom 01.08.2013
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW Adria, Grünwalder Str. 9; Mitteilung vom 04.09.13
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung in einer städt. Grünanlage am 12. - 13.10.2013; hier: Oberbiberger Str. gegenüber Säbener Platz; Weinfest 2013 des Vereins zur Förderung der Festkultur in Giesing und Harlaching; Zuleitung des KVR vom 30.08.13 mit der Bitte um Stellungnahme bis 23.09.2013
+- TOP 3.2.: Städt. Flst. 12683/7, Sektion VII, Candidplatz, 18. Stadtbezirk, Förderation Islamischer Vereine und Gemeinden im Land Bayern e.V. - Kermes Familientage vom 03.10.2013 bis 06.10.2013; Mietanfrage des Kommunalreferats mit der Bitte um Stellungnahme
+- TOP 3.1.: Kulturtage in Untergiesing-Harlaching; Antrag des BA 18 - Schreiben vom 06.08.2013; Antwortschreiben des Kulturreferats vom 28.08.2013 (positive Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Bürgerentscheid Arbeitstitel: "Olympiabewerbung München 2022" - vorgesehene Abstimmungsräume; Anhörung gem. § 13 der BA-Satzung; Schreiben des KVR vom 09.08.13 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 20.08.13)
+- TOP 4.2.: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung; Anhörung zum BA-Antrag Nr. 08-14 / B 03722 des BA 13 vom 14.02.2012; Schreiben des Direktoriums vom 12.08.2013 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 20.08.2013)
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen; BA-Antrag Nr. 08-14 / B 04439 des BA 16 vom 04.12.2012; Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegenstände hin zu einem passwortgeschützten Downloadverfahren; BA-Antrag Nr. 08-14 / B 04586 des BA 6 vom 04.02.2013; Antwortschreiben des Direktoriums vom 26.08.2013 (neutrale Erledigung)
+- TOP 4.2.: Instandsetzung des Zauns und der Zugangstür zum Bahndamm rechts von der Bahnunterführung Claude-Lorrain-Straße zum Hans-Mielich-Platz; BA-Antrag Nr. 08-14 / B 04047 vom 19.06.2013; Abdruck der Zwischennachricht des RAW an die DB Netz AG vom 21.08.13
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020; Schreiben des Direktoriums vom 21.08.2013
+- TOP 4.2.: Kontaktaufnahme durch Scientology-Organisation; Stiftung "Der Weg zum Glücklichsein"; Schreiben des KVR an das Direktorium vom 27.08.2013
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 2.2.: Antrag auf Verbot von Laubbläsergeräten in Harlaching wegen unerträglicher Lärmbelästigung; Bürgerschreiben vom 27.08.2013
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
