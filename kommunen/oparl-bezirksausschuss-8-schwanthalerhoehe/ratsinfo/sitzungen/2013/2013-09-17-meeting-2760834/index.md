@@ -1,0 +1,61 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760834
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760834
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Vorstellung des BildungsLokals Schwanthalerhöhe
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Mini-Open-Air
+- TOP 4.2.: Brunnen auf der Esplanade (Ganghoferstr. 37)
+- TOP 4.3.: Vorschläge für die Schwanthalerhöhe
+- TOP 4.4.: Hotel an der Landsberger Str. 137
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Nutzerbedarfsprogramm Kinderkrippe Kazmairstr. 23
+- TOP 5.3.: Anhörung: Westendstr. 94, Umbau und Erweiterung eines Mehrfamilienhauses, Vorbescheid
+- TOP 5.4.: Anhörung: Landsberger Str. 12, Abbruch von Garagengebäuden, Neubau eines Wohnhauses (IV + D)im rückwärtigen Grundstücksteil sowie Neubau einer Tiefgarage
+- TOP 5.5.: Gollierstr. 29, Neubau eines Garten-Doppelhauses mit 4 Duplexgaragen
+- TOP 5.6.: Anhörung: Ridlerstr. 57, Neubau eines Bürogebäudes mit Tiefgarage (Zentraler Verwaltungsstandort TÜV SÜD AG), Vorbescheid
+- TOP 5.7.: Vorbescheid Schrenkstr. 8, Stellungnahme der Regierung von Oberbayern vom 26.08.2013
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Grundschule an der Bergmannstraße, Schreiben des RBS vom 21.06.2013
+- TOP 6.2.: Das RBS trifft die Bezirksausschüsse - Termine 2014
+- TOP 6.3.: Anhörung: Korrektur des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung, Antrag des BA 13
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 1: Entscheidung: Ersatzstandort für fehlende Wertstoffcontainer an der Ecke Ligsalzstraße/Heimeranstraße Empfehlung Nr. 08-14 / E 01820 der Bürger- versammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 13.06.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 1.2.: Versetzung Wertstoffcontainer, Schreiben des AWM vom 26.07.2013 und 19.08.2013
+- TOP 1.3.: Lärmaktionsplan für München
+- TOP 1.4.: Anhörung: Freizeitnutzung der Theresienwiese (mit geänderter Beschlussvorlage)
+- TOP 1.5.: Einsatz von extralangen Bus-Garnituren auf der Buslinie 53 oder anderen Linien
+- TOP 1.6.: Kosten der Straßenbaumaßnahme entlang der Bergmannstraße
+- TOP 1.7.: Taubenplage in der Schwanthalerstr. 113/ Schießstättstr., Ansiedlung von Greifvögeln
+- TOP 1.8.: Entscheidung: Aufstellung von neuen Verkaufseinrichtungen in der Ligsalzstr. 27
+- TOP 1.9.: Toilettenwagen im Stadtbezirk während des Oktoberfests
+- TOP 1.10.: Bebauungsplan mit Grünordnung Nr. 1961, Teiländerung, Satzungsbeschluss
+- TOP 1.11.: Ausnahmezulassung nach BImschG für die Müllentsorgung während des Oktoberfests
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse
+- TOP 11.2.: Anhörung: Beschaffung und Aufstellung von mobilen Geschwindigkeitsanzeigern
+- TOP 11.3.: Anhörung: Vorgesehene Abstimmungsräume für den Bürgerentscheid Olympiabewerbung 2022
+- TOP 11.4.: Grünanlage Gollierstr. 63 Pfarrfest am 22.09., hier: Eilentscheidung des Vorsitzenden
+- TOP 11.5.: Rechtsschutz beim Engagement gegen Rechtsextremismus und Rechtspopulismus
+- TOP 11.6.: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen, Pilotprojekt BA-online, Schreiben des Direktoriums vom 26.08.2013
+- TOP 11.7.: Deutsch-Griechisches Weinfest am 15.09.2013; Eilentscheidung des Stellv. Vorsitzenden
+- TOP 11.8.: Sitzungstermine und Bürgerversammlung 2014
+- TOP 11.9.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014-2020
+- TOP 12: Protokoll und Umlauf
