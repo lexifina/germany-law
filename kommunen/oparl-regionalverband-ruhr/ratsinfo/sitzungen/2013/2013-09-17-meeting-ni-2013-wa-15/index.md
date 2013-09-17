@@ -1,0 +1,53 @@
+# 15. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-09-17T10:10:00+02:00
+- Ende: 2013-09-17T12:40:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-WA-15
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-WA-15
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2013-WA-15
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2013-WA-15
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 04.06.2013
+- TOP 3: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH
+- TOP 3.1: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2012
+- TOP 3.2: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Sachstandsbericht über das 1. Halbjahr 2013
+- TOP 3.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Sachstand zukünftige Geschäftsführung (mündlicher Bericht)
+- TOP 4: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 4.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2012
+- TOP 4.2: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2013
+- TOP 4.3: Angelegenheiten der Ruhr Tourismus GmbH - Anschlussfinanzierung Projekte 2014 ff
+- TOP 5: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 5.1: Angelegenheiten der Abfallentsorgung-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2012
+- TOP 5.2: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2012
+- TOP 5.3: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2012
+- TOP 6: Angelegenheiten der Kultur Ruhr GmbH
+- TOP 6.1: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2012
+- TOP 6.2: Angelegenheiten der Kultur Ruhr GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2013
+- TOP 7: Angelegenheiten der Freizeitgesellschaften
+- TOP 7.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2012
+- TOP 7.2: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2013
+- TOP 7.3: Angelegenheiten der Freizeitgesellschaften - Stand des Aufbaus eines Benchmark-Systems für die Freizeitgesellschaften
+- TOP 7.4: Angelegenheiten der Freizeitgesellschaften - Konzept zur Neustrukturierung der Freizeitgesellschaften - Zwischenbericht (mündlicher Bericht)
+- TOP 7.5: Angelegenheiten der Freizeitgesellschaften - Haushaltsansatz 2014 für die Freizeitgesellschaften
+- TOP 8: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2012
+- TOP 9: Angelegenheiten der TER TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2012
+- TOP 10: Angelegenheiten der RUHR.2010 GmbH i. L.
+- TOP 10.1: Angelegenheiten der RUHR.2010 GmbH i. L. - Jahresabschluss zum 31.12.2012
+- TOP 10.2: Angelegenheiten der RUHR.2010 GmbH i. L. - Stand der Liquidation
+- TOP 11: Angelegenheiten der NFN NaturFreizeitverbund Niederrhein GmbH - Stand des Liquidationsverfahrens
+- TOP 12: Restrukturierung der Freizeitgesellschaften Neufassung des Beschlussvorschlages der Vorlage 12/0897-2 Antrag der Fraktion DIE LINKE vom 2.07.2013
+- TOP 13: Anfragen und Mitteilungen - Zwischenbericht 'Zusammenarbeit der Wirtschaftsförderung metropoleruhr GmbH und den kommunalen Wirtschaftsförderern'
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
