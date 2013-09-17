@@ -1,0 +1,6 @@
+# TOP 10.: Planungen zur Zukunft Kölner Straße 14 -Haarhof-Villa- -Sachstandsbereicht-
+
+- Sitzung: Unterausschuss für Liegenschaften (20. Sitzung) (2013-09-17)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/59673
