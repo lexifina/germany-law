@@ -1,0 +1,104 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-09-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818507
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818507
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sebastiansplatz 9: Umbau Hotel ?Blauer Bock? (Modernisierung von 47 Zimmern und 44 Bädern, Nutzungsverschiebung von Nebenräumen zu Hotelzimmern, Umbau einer Wohnung, Umbauten im Keller) (vertagt aus der Sitzung vom 14.08.2013)
+- TOP .2.: Altheimer Eck 3: Umbau und Dachgeschoss-Neubau mit Nutzungsänderung: Büro zu Wohnen (1. - 3. OG) (vertagt aus der Sitzung vom 14.08.2013)
+- TOP .3.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung Wohn- und Geschäftshaus mit Neubau Tiefgarage (vertagt aus der Sitzung vom 14.08.2013)
+- TOP .4.: Karlsplatz 4: Nutzungsänderungen und bauliche Maßnahmen in einem Wohn- und Geschäftshaus ? Nachträgliche Genehmigung (vertagt aus der Sitzung vom 14.08.2013)
+- TOP .5.: Thierschstraße 8 ? 10: Neubau eines Wohnheims für Auszubildende (Vorbescheid) (vertagt aus der Sitzung vom 14.08.2013) ABGESETZT, wir im Oktober behandelt
+- TOP .6.: Altheimer Eck 15: Nutzungsänderung 3. OG: Büro/Wohnung zu drei Wohnungen, Anbau von Balkonen
+- TOP .7.: Sendlinger Straße 44: Neubau eines Wohn- und Geschäftshauses
+- TOP .8.: Hackenstraße 6: Errichtung eines Neubaus (Vorbescheid)
+- TOP .9.: Neuhauser Straße 5: Dachgeschossumbau (Tektur)
+- TOP .10.: Maximilianstraße 43: Umbau 3. und 4. OG
+- TOP .11.: Mannhardtstraße 7: Außenlift-Anbau (Vordergebäude) sowie Balkone, Aufstockung und Anbau Treppenhaus (Rückgebäude) (Vorbescheid)
+- TOP .13.: NACHTRAG: Kardinal-Faulhaber-Straße 1: Um- und neubau der Gebäudeteile (Vorbescheid)
+- TOP .14.: NACHTRAG: Neuhauser Straße 12: Nutzungsänderung Büro- zu Verkaufsflächen
+- TOP .15.: NACHTRAG: Weinstraße 9: Nutzungsänderung 3. und 5. OG
+- TOP .16.: NACHTRAG: Ländstraße 6: Nutzungsänderung eines Wohnheims in ein Boardinghaus und Wohnheim
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Brasserie L'Atelier Art & Vin?, Westenriederstraße 43: Erweiterung einer bestehenden Freischankfläche (vertagt aus der Sitzung vom 16.07.2013 und 14.08.2013)
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Orthodoxer Kirchentag am 29.09.2013, Salvatorplatz
+- TOP .2.: Christkindlmarkt vom 25.11.-23.12.2013, Sendlinger-Tor-Platz
+- TOP .3.: Statio der Marianischen Männerkongregation am 19.10.2013, Marienplatz
+- TOP .4.: Oktoberrosenkranzgebet mit Kardinal Marx am 13.10.2013, Marienplatz
+- TOP .5.: Ander Art Festival am 27.09.2013, Odeonsplatz
+- TOP .6.: Internationales Fest der Kulturen am 28.09.2013, Odeonsplatz
+- TOP .8.: München Marathon am 13.10.2013
+- TOP .9.: NACHTRAG: Lange Nacht der Münchner Museen am 19.10.2013, Odeonsplatz
+- TOP .1.: Kulturstrand am Vater-Rhein-Brunnen auch 2014, Antrag der Stadtrats-FDP Missbrauch des Vater-Rhein-Brunnens als Strand- und Feierlocation, BV-Empfehlung Nr. 08-14 / 1663
+- TOP .1.: Änderung von Verkehrsregelungen in der Damenstiftstraße, Eisenmannstraße und dem Altheimer Eck, Gespräch mit Vertretern des Referats für Stadtplanung und Bauordnung im Unterausschuss
+- TOP .2.: Vorstellung des Straßenbauvorhabens Josephspitalstraße durch das Ingenieurbüro in der Unterausschusssitzung
+- TOP .1.: Bürgeranliegen: Planung Tiefgarage Thomas-Wimmer-Ring
+- TOP .2.: Bürgeranliegen: Verkehrliche Situation in der Marienstraße
+- TOP .3.: Bürgeranliegen: Baumfällungen auf dem Grundstück Franz-Joseph-Strauß-Ring 4
+- TOP .4.: Bürgeranliegen: Verkehrliche Situation und Abfallbehälter in der Christophstraße
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Änderung der BA-Satzung; Anhörung zu den Stadtratsanträgen: - BAs sollen über die Beschaffung und Aufstellung von mobilen Geschwindigkeitsanzeigen selbst entscheiden dürfen - Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigen in den jeweiligen Stadtbezirken
+- TOP .2.: Einrichtung eines personenbezogenen Behindertenparkplatzes Bruderstraße 3
+- TOP .3.: Baumfällung Praterinsel 1
+- TOP .1.: Entwurf eines Schreibens an das Kulturreferat bzgl. deren Praxis, Antragsteller an den BA zu verweisen.
+- TOP .1.: BA-Budget: Umzugskostenhilfe für den Kindergarten am St. Anna-Platz
+- TOP .1.: Antrag des BA 13 auf Satzungsänderung bzgl. der Belange der Kinderbetreuung
+- TOP .1.: Terminvorankündigung: ?Das Referat für Bildung und Sport trifft die Bezirksausschüsse? am 14.05.2014
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Antwortschreiben des KVR zur Stellungnahme des BA bzgl. der Wahllokale für den Bürgerentscheid
+- TOP 0.2.: Antrag des BA 16 und des BA 6: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Antwortschreiben des Referats für Stadtplanung und Bauordnung zur Anfrage des BA bzgl. der Aufstellung von Bebauungsplanen für die Grundstücke Oettingenstraße 6 ? 8 und Lerchenfeldstraße 4 - 6
+- TOP 0.3.: Information vom Bebauungsplan ?Siemens Konzerngelände?
+- TOP 0.4.: Schreiben an die Bayerische Hausbau bzgl. Baustelleneinrichtung Donisl
+- TOP 0.5.: Schreiben der LBK und Baugenehmigung zum Bauvorhaben Oettingenstraße 6 - 8
+- TOP 0.6.: Schreiben der LBK zum Bauvorhaben Dreifaltigkeitsplatz 4
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Schreiben der Bezirksinspektion an die Betreiber der Freischankflächen im Tal
+- TOP 0.6.: Schreiben zur Bürgerbeschwerde über den Strand auf der Praterinsel
+- TOP 0.7.: Antwortschreiben der Bezirksinspektion zu den Wechselnutzungen in der Heiliggeiststraße
+- TOP 0.8.: Eilentscheidung ?Pucknick im Grünen? der Bündnis 90/Die Grünen am 05.09.2013, Marienhof
+- TOP 0.9.: Eilentscheidung zur Informationsveranstaltung mit Pressetermin der AWM am 23.10.2013, Karlsplatz
+- TOP 0.10.: Eilentscheidung des DFB Fanclubs am 05.09.2013, Odeonsplatz
+- TOP 0.11.: Eilentscheidung für FotoDoks/Panos vom 16.10.-30.10.2013, Marienhof
+- TOP 0.12.: Eilentscheidung zur Informationsveranstaltung Weltkindertag am 20.09.2013
+- TOP 0.13.: Eilentscheidung zur SPD Wahlkampfveranstaltung am 12.09.2013, Odeonsplatz
+- TOP 0.14.: Beantwortung der Stadtratsanfrage zum Beleuchtungskonzept für den Viktualienmarkt
+- TOP 0.15.: Schreiben des KVR zum BA-Beschluss über die Freischankfläche die Schank- und Speisewirtschaft ?Cole & Porter?, Sendlinger Straße 10, Verweis an den Oberbürgermeister
+- TOP 0.16.: Zusammenfassung des Ortstermins zur Residenzstraße im Bereich zwischen Maximilianstraße/Perusastraße und Hofgraben/Schrammerstraße, Wiederherstellung der Fußgängerzone nach Bauschaden
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Halteverbotszone zur Sicherstellung polizeilicher Aufgaben vor dem Anwesen Hackenstraße 4
+- TOP 0.2.: Schreiben des KVR bzgl. der Radverkehrsführung in der Zweibrückenstraße
+- TOP 0.3.: Antwortschreiben der Verwaltung des Englischen Gartens zur Bürgerbeschwerde über das Trommeln am Monopterus
+- TOP 0.4.: Erneutes Antwortschreiben auf eine Bürgeranfrage nach einer Halteerlaubnis vor der Buchhandlung BIAZZA, TOP 2013.06 D 1.2
+- TOP 0.5.: Antwort auf eine Bürgeranfrage zur Grünanlage an der Lukaskirche
+- TOP 0.6.: MVG-Leistungsprogramm, beglaubigter Beschluss
+- TOP 0.7.: Antwortschreiben des Baureferats zur Beschwerde über eine Baustelleneinrichtung in der Oettingenstraße gegenüber der Tennisanlagen
+- TOP 0.1.: Sondernutzungserlaubnis für das Kunstprojekt ?Transport a Smell of revolution?
+- TOP 0.2.: Kunst im öffentlichen Raum, Verlängerung ?Denkmal der grauen Busse?, Grünanlage Isartor
+- TOP 0.3.: Kunst im öffentlichen Raum ?Eisblock am Salvatorplatz?
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .7.: Informationsveranstaltung ?Glasklar? der BzgA vom 18.-19.20.2013, Neuhauser Straße
+- TOP .3.2: Sonstige
