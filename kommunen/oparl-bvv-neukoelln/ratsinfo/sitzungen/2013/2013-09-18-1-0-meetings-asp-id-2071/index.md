@@ -1,0 +1,89 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-09-18T17:00:00+02:00
+- Ende: 2013-09-18T22:40:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2071
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2071
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: Bezirkshaushaltsplan für die Jahre 2014/2015 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtentwicklung - gewählt
+- TOP 6.2: Wahl einer stellvertretenden Bürgerdeputierten für den Sozialausschuss - gewählt
+- TOP 6.3: Wahl einer stellvertrenden Bürgerdeputierten für den Gesundheitsausschuss - gewählt
+- TOP 6.4: Wahl zum stellvertretenden Mitglied in den Beirat des JobCenters - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2012 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Mandats als stellvertretender Bürgerdeputierter im Wirtschaftsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Äußerungen von Bezirksamtsmitglied auf Info-Veranstaltung in der Fritz-Karsen-Schule - beantwortet
+- TOP 9.2: Wähler unerwünscht? - beantwortet
+- TOP 9.3: Verlegung der Gebäude der Flüchtlingsunterkunft - beantwortet
+- TOP 9.4: Räumung in der Kopfstraße abwenden - beantwortet
+- TOP 9.5: Mehr Sicherheit im Bereich Höltermannsteig - beantwortet
+- TOP 9.6: Übersicht über Neuköllner Sportstätten - beantwortet
+- TOP 9.7: Lipschitzbad Gropiusstadt Neukölln - beantwortet
+- TOP 9.8: Parkverstöße vor der Ausfahrt der Freiwilligen Feuerwehr in Rudow - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Geschäftsordnung Vorstand - in der BVV abgelehnt
+- TOP 10.2: Volksbegehren ernst nehmen - in der BVV abgelehnt
+- TOP 10.3: Änderung der Geschäftsordnung I - in der BVV abgelehnt
+- TOP 10.4: Änderung der Geschäftsordnung II - in der BVV abgelehnt
+- TOP 10.5: Umwandlung in Ferienwohnungen versagen - in der BVV abgelehnt
+- TOP 10.6: Hörberatungsstelle in Neukölln in Gefahr? - beantwortet
+- TOP 10.7: Hörberatungsstelle in Neukölln erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Neubau der Clay-Schule in Sicht? - vertagt
+- TOP 10.9: Notunterkünfte in ehemaliger Gartenkolonie - schriftlich beantwortet
+- TOP 10.10: BVG-Bus 171 durch Alt-Rudow - vertagt
+- TOP 10.11: Spielhallengesetz - vertagt
+- TOP 10.12: Fehlende Lehrer*innen in Neuköllner Schulen - vertagt
+- TOP 10.13: Haushaltsbelastung durch zu hohe Kosten - vertagt
+- TOP 10.14: Maßnahmen gegen steigende Mieten - vertagt
+- TOP 10.15: Betrieb der Flüchtlingsunterkunft in der Späthstraße - vertagt
+- TOP 10.16: Klagen gegen Hartz IV-Bescheide - vertagt
+- TOP 10.17: Investoren zu Sozialwohnungen verpflichten - vertagt
+- TOP 10.18: Vermittlung in Jobs mit sittenwidrigen Dumpinglöhnen - vertagt
+- TOP 10.19: Infoabend an den Integrierten Sekundarschulen - vertagt
+- TOP 10.20: Städtepartnerschaft mit Pavlovsk-Puschkin aussetzen - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Schaltintervalle der Lichtzeichenanlage im Bereich der Rudower Spinne - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Senat muss notwendige Mittel für Schulinfrastruktur bereit stellen! - in der BVV abgelehnt
+- TOP 11.3: I-Planung und Haushalt - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Lern-/Verhaltensdispositionen bei „Umsteiger*innen im Schuljahr 2013/14“ - vertagt
+- TOP 12.2: Gefahrenstelle auf der Hermannbrücke beseitigen - vertagt
+- TOP 13: Große Anfragen - schriftlich - vertagt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Integrationsetat - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Aktive Städtepartnerschaften im Rathaus stärker würdigen - überwiesen
+- TOP 14.3: Zusammenarbeit von Grundschule und Gymnasium - überwiesen
+- TOP 14.4: Gefahrenstelle auf der Hermannbrücke beseitigen - überwiesen
+- TOP 14.5: Parkbänke im Grünzug Lipschitz./Wutzkyallee - überwiesen
+- TOP 14.6: Fußgängerüberweg Lettberger Straße / Künnekeweg - überwiesen
+- TOP 14.7: Verdienten Stadtvater im Straßenbild würdigen - überwiesen
+- TOP 14.8: Ausstellung "Widerstand in Neukölln" - vertagt
+- TOP 14.9: Treffpunkt von Nazis in Neukölln veröffentlichen - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Besondere Beziehung mit der Stadt Hof - überwiesen
+- TOP 14.11: Wahlen und Abstimmungen gleich behandeln - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Tempo 30 in der Harzer Straße (zwischen Wildenbruch- und Teupitzer Straße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Finanzielle Mittel für den Wachschutz an Neuköllner Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Ausstattung mit Hausmeister(inne)n und Schulsekretär(inn)en - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Erhalt der Jugendverkehrsschule am Hasenhegerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Identifikation stiften - Jeder Schule ihren Namen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: "Berliner Notdienst Kinderschutz" in vollem Umfang erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Bildung einer Gemeinschaftsschule auf dem Campus Efeuweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.7: Gedenkraum an der Clay-Schule - mit Zwischenbericht zur Kenntnis genommen
