@@ -1,0 +1,76 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2013-09-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3040279
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3040279
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Caritas-Zentrum Au-Haidhausen-Giesing Gesamtveranstaltung am 22.09.2013
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Sozialwerk München Ost e.V. Begegnungsnachmittag für bedürftige Personen aus dem Pfarrverband Haidhausen am 21.09.2013
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 6.3.1.: (E) Welfenstraße (südlich), Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München-Rosenheim (nördlich) Erweiterung und Umgestaltung des Schwester-Eubulina-Platzes und Tassiloplatzes mit integrierter Lärmschutzwand im Bebauungsplan mit Grünordnung Nr. 1995 im 5. Stadtbezirk Au-Haidhausen Bedarfs- und Konzeptgenehmigung
+- TOP 2: (E) Signalanlage Innere Wiener Str / Stubenvollstraße: Fußgängerfreundliche Schaltung Empfehlung Nr. 08-14 / E 01712 der Bürgerver- sammlung des Stadtbezirkes - Au-Haidhausen- Bezirksteil Haidhausen am 31.01.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3: (E) Einrichtung einer Fußgängerschutzanlage (Fußgängerampel) an der Welfenstraße/ Ecke Aurbacherstraße bzw. Senftlstraße Empfehlung Nr. 08-14 / E 01720 der Bürgerver- sammlung des Stadtbezirkes 05 - Au-Haidhausen am 07.02.2013 - <div>mit Ergänzungen</div>
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Keine Umwandlung / Zweckentfremdung von Bestandswohnungen für die Nutzung als Kindertagesstätten; Keine Unterschreitung der Freispielfläche von 10 qm pro Kind
+- TOP 8.1.2.: Erneuerung von Fahrbahnmarkierungen (Schiltbergerstraße, Zeppelinstraße, Eduard-Schmid-Straße)
+- TOP 8.1.3.: Busline 100: Taktverstärkung im Schülerverkehr
+- TOP 8.1.4.: Aufstellung eines Wartehäuschens an der Bushaltestelle Schweigerstraße, stadteinwärts
+- TOP 8.1.5.: Änderung der Bestimmungen zur Durchführung von Marktveranstaltungen auf öffentlichen Plätzen in Wohngebieten: keine "Dauerbespielung" ohne vierwöchige Unterbrechung
+- TOP 8.1.6.: Renovierung / Instandsetzung der Toiletten im Zwischengeschoss des S-Bahnhofs Rosenheimer Platz und gebührenpflichtige Wiederinbetriebnahme
+- TOP 8.1.7.: Gefahrenstellen in den Welfenhöfen entschärfen
+- TOP 8.1.8.: Freihalten des Zugangs zum Genoveva-Schauer-Platz
+- TOP 8.1.9.: Einfädelstreifen des Radweges zwischen Balan- und Metzstraße erneuern
+- TOP 8.1.10.: Neubebauung Bernbacher-Gelände
+- TOP 8.1.11.: Rolltreppen am Rosenheimer Platz
+- TOP 8.1.12.: Schutz der Mieter beim Verkauf der GBW-Wohnungen in Haidhausen
+- TOP 8.1.13.: GBW-Wohnungen in öffentlichem Eigentum behalten
+- TOP 8.1.14.: Beseitigung von Lärmbelästigung durch die Trambahnlinien 15/25 im Zuge Milchstraße/Genoveva-Schauer-Platz
+- TOP 8.1.15.: Taubenvergrämung auf den Abspannungen an der Straßenbahnhaltestelle am Ostbahnhof
+- TOP 8.1.16.: Verbesserung der Barrierefreiheit in Bus- u. Trambahnen des MVG ? Für bessere Rutschfestigkeit im Türbereich
+- TOP 8.1.17.: Uhr am Rosenheimer Platz
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
