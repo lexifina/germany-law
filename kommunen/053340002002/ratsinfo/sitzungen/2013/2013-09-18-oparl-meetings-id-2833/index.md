@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2013-09-18T17:00:00+02:00
+- Ende: 2013-09-18T20:15:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2833
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2833
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 29.05.2013 und 03.07.2013 - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 4: Genehmigung der Dringlichkeitsentscheidung vom 29.08.2013Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen- Haushaltsjahr 2013 -Beschaffung von Vermögensgegenständen - Festwerte-Übergangsheime - ungeändert beschlossen
+- TOP 5: Gestaltungssatzung 'Bahnhofsumfeld Rothe Erde' - ungeändert beschlossen
+- TOP 6: II. Änderung des Bebauungsplans Nr. 800 - Grenzüberschreitendes Gewerbegebiet Aachen-Heerlen - für den Planbereich im Stadtbezirk Aachen-Richterich im Bereich zwischen der Staatsgrenze Deutschland /Niederlande und der Avantisalleehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Bebauungsplan Nr. 855 – Lichtenbusch Innenbereich – für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim im Bereich zwischen Raerener Straße, Kesselstraße und Monschauer Straßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Gestaltungssatzung - Lichtenbusch Innenbereich -hier: Satzungsbeschluss - geändert beschlossen
+- TOP 9.1: Gestaltungssatzung - Lichtenbusch Innenbereich -hier: Satzungsbeschluss - ungeändert beschlossen
+- TOP 10: I. Änderung des Bebauungsplans Nr. 866 - Alter Schlachthof - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Metzgerstraße, Feldstraße, Heinrich-Holland-Straße und Liebigstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 11: II. Änderung des Bebauungsplans Nr. 900 – Krefelder Straße/ Emmastraße – für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Krefelder Straße, ehemaliger Alemannia-Zufahrt, Alemannia-Trainingsplatz, Emmastraße und Merowingerstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: I. Änderung des Bebauungsplans Nr. 913 – Roder Weg – für den Planbereich im Stadtbezirk Aachen-Richterich im Bereich zwischen Roermonder Straße, Bahnlinie Aachen-Düsseldorf und Amstelbachhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Bebauungsplan Nr. 938 - Ludwigsallee - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Ludwigsallee, Kupferstraße, Salvatorberg und der Parkanlage Salvatorstraßehier: Satzungsbeschluss gem. § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 15: Bebauungsplan Nr. 949 - Niederforstbacher Straße / Münsterstraße / Pützgasse - für den Planbereich im Stadtbezirk Aachen-Brand in einem Teilbereich zwischen Niederforstbacher Straße, Münsterstraße undPützgassehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 16: I. Änderung des Bebauungsplans Nr. 915 - Seffenter Weg / Melaten (Hochschulerweiterung) – für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Seffenter Weg, Septfontainesweg, Willkommsweg, Rabentalweg, Pariser Ring, Forckenbeckstraße, Otto-Blumenthal-Straße und Steinbachstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 17: Bebauungsplan Nr. 940 – Laurentiusstraße/ Sandhäuschen – für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Laurentiusstraße, Vetschauer Str. und dem Sportgeländehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 18: Änderung Nr.122 des Flächennutzungsplanes 1980 der Stadt Aachen – Laurentiusstraße/Sandhäuschen - für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Laurentiusstraße, Vetschauer Str. und dem Sportgeländehier: Änderungsbeschluss - ungeändert beschlossen
+- TOP 19: Gestaltungssatzung 'Laurentiusstraße / Sandhäuschen'hier: Satzungsbeschluss - geändert beschlossen
+- TOP 19.1: Gestaltungssatzung 'Laurentiusstraße / Sandhäuschen'hier: Satzungsbeschluss - ungeändert beschlossen
+- TOP 20: Änderung Nr. 117 des Flächennutzungsplanes 1980 - Konzentrationsflächen für Windkraftanlagen-hier: -Beitrittsbeschluss zur Genehmigung der Bezirksregierung Köln vom 05.08.2013 - ungeändert beschlossen
+- TOP 21: Antrag der SPD-Fraktion vom 19.06.2012Änderung der Satzung der Stadt Aachen über die Festlegung der Gebietszonen und der Höhe des Geldbetrages je Stellplatz gem. § 51 Abs. 5 BauO NRW (Stellplatzsatzung) vom 06.02.2001 - ungeändert beschlossen
+- TOP 22: Antrag der SPD-Fraktion im Rat der Stadt Aachen vom 12.03.2013hier: Einsatz von auftauenden Streustoffen auf Gehwegen - ungeändert beschlossen
+- TOP 23: Studentisches Wohnen am KronenbergGemeinsamer Antrag der Fraktionen von CDU und Grünen im Rat der Stadt Aachen vom 18.02.2013 - ungeändert beschlossen
+- TOP 24: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 25: Umgang mit öffentlicher Spielplatzfläche im Rahmen von vorhabenbezogenen Bebauungsplänen und Bebauungsplänen mit städtebaulichem Vertrag - geändert beschlossen
+- TOP 26: UmlegungsausschussWiederwahl von Mitgliedern - ungeändert beschlossen
+- TOP 29: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 29.1: Umbesetzung von Ausschüssenhier: Schulausschuss - ungeändert beschlossen
+- TOP 30: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
