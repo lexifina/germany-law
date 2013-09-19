@@ -1,0 +1,59 @@
+# 22. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-09-19T16:30:00+02:00
+- Ende: 2013-09-19T19:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3599
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3599
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=97053
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-23 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2012 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 11.2: Sondermittelantrag des Richtershorner Ruderverein e. V. (SM 13-24) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag der RodewaldFoest Produktion GbR (SM 13-26) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittelantrag des Fördervereins "Köpenicker Knospen" (SM 13-28) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bezirkshaushaltsrechnung 2012 - überwiesen
+- TOP 11.6: Sondermittelantrag des Schlossplatztheater/ c/o Alte Möbelfabrik e. V. (SM 13-27) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittelantrag des Fördervereins Kiezklub Rahnsdorf e. V. (SM 13-29) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2014 und 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Aufstellung von Spendern für Hundekottüten am Sterndamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Gemeinsamer Geh- und Radweg auf der Altglienicker Ersatzbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Querungshilfe Buntzelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ausweisung weiterer Grünflächen für Streuobstwiesen in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Abitur an den Gemeinschaftsschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Parkplatzbedarfsrechnung für das Spreepark-Areal - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gedenken zum 25. Jahrestag der friedlichen Revolution und des Mauerfalls in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Weniger Parteiplakate in Wahlkämpfen - überwiesen
+- TOP 14.3: Sanierung einer Fahrbahn in der Hundsfelder Straße in Bohnsdorf - überwiesen
+- TOP 14.4: Regenwasseransammlung am S-Bahnhof Schöneweide in den Griff kriegen - in der BVV zurückgezogen
+- TOP 14.5: Ausstellung in der Gedenkstätte Köpenicker Blutwoche bewerben - überwiesen
+- TOP 14.6: Keine Werbung für die Bundeswehr an Schulen - überwiesen
+- TOP 14.7: Sozialer Wohnungsneubau in Treptow-Köpenick - überwiesen
+- TOP 14.8: Bedarfs-Lichtsignalanlage Straße An der Wuhlheide - überwiesen
+- TOP 14.9: Umsetzung von Kiezkassenentscheidungen fördern - überwiesen
+- TOP 14.10: Fahrradabstellplatz am S-Bahnhof Grünau sanieren und erweitern - überwiesen
+- TOP 14.11: Bibliotheksstandorte erhalten - mit Änderungen in der BVV beschlossen
+- TOP 14.12: Klarheit im Haushaltskapitel 3800, Titel 52101 des aktuellen Haushaltes - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Begleitantrag zum Bezirkshaushaltsplan 2014/2015 - Stadtentwicklung und Tiefbau - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Begleitantrag zum Bezirkshaushaltsplan 2014/2015 - Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bibliotheksentwicklung in Treptow-Köpenick - in der BVV zurückgezogen
