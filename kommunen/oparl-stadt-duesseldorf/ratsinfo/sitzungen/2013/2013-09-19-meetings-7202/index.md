@@ -1,0 +1,62 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-09-19T17:00:00+02:00
+- Ende: 2013-09-19T19:07:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7202
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7202
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201086.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201086.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201086.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 04.07.2013 - zur Kenntnis genommen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Zuschuss an den Boston Club e.V. Düsseldorf - einstimmig beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Nutzungskonzept Grünfläche Tannenhofweg - beantwortet
+- TOP 8: Lärmschutz Rhein-Ruhr-Express im Stadtbezirk 8 - beantwortet
+- TOP 9: Güterbahnstrecke Rath - Eller / Bahnübergang Am Hackenbruch - beantwortet
+- TOP 10: Anmeldezahlen offener und gebundener Ganztag im Stadtbezirk 8 - beantwortet
+- TOP 11: Skateranlage Heidelberger Straße - beantwortet
+- TOP 12: Legale Graffitiflächen im Stadtbezirk 8 - beantwortet
+- TOP 13: Kreuzungsbereich Höherhofstraße / Gubener Straße - beantwortet
+- TOP 14: Gestaltung Erkrather Straße / Am Karlshof - einstimmig beschlossen
+- TOP 15: Tauben Unterführung Gumbertstraße - mehrheitlich beschlossen
+- TOP 16: Bahnübergang Am Hackenbruch - einstimmig beschlossen
+- TOP 17: Containerstation Am Stufstock - einstimmig beschlossen
+- TOP 18: Halteverbot Dillenburger Weg - mehrheitlich abgelehnt
+- TOP 19: Verkehrsregelung Marburger Straße / Sturmstraße / Dillenburger Weg - einstimmig beschlossen
+- TOP 20: Logistik - Unternehmen Dillenburger Weg - zur Kenntnis genommen
+- TOP 21: Pflege des Freiheitplatzes - zur Kenntnis genommen
+- TOP 22: Radverkehr auf dem Dillenburger Weg - zur Kenntnis genommen
+- TOP 23: Grünpflege entlang der Düssel - zur Kenntnis genommen
+- TOP 24: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 25: Baumscheiben im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Durchgang S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 27: Verkehrsberuhigende Blumenkästen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Piktogramme Zeppelinstraße - zur Kenntnis genommen
+- TOP 29: Parksituation Proberaumbunker Gatherweg - zur Kenntnis genommen
+- TOP 30: Bedarfsampel Fußgängerüberweg Sandträgerweg - zur Kenntnis genommen
+- TOP 31: Steuerung von Spielhallen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Grundwassersituation Gerresheim - zur Kenntnis genommen
+- TOP 33: Verkehrssituation Brorsstraße - zur Kenntnis genommen
+- TOP 34: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 35: Taubenabwehrmaßnahmen Eller - zur Kenntnis genommen
+- TOP 36: Logistik-Unternehmen Dillenburger Weg - zur Kenntnis genommen
+- TOP 37: Bänke im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Masterplan zur Reduzierung des Straßenverkehrslärms im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Sachstand Ortsumgehungen - zur Kenntnis genommen
+- TOP 40: Kanalsanierung Am Hackenbruch - zur Kenntnis genommen
+- TOP 41: Neubau Kindertagesstätte Tannenhofweg 88 - zur Kenntnis genommen
+- TOP 42: Sicherung der Gleisanlagen entlang der Hundefreilauffläche Venhauser Allee - zur Kenntnis genommen
+- TOP 43: Multifunktions - Sportpark Heidelberger Straße - zur Kenntnis genommen
+- TOP 44: Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 45: Bahnübergang Am Hackenbruch - zur Kenntnis genommen
