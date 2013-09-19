@@ -1,0 +1,122 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2013-09-19T17:30:00+02:00
+- Ende: 2013-09-19T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3039
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3039
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=109890
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Verkehrssituation Michaelkirchstraße / Michaelkirchplatz - beantwortet
+- TOP 5.2: Good Bye Windows XP - beantwortet
+- TOP 5.3: Schließung des Einzelhandelsgeschäfts Real am Standort Müllerstraße? - beantwortet
+- TOP 5.4: Langes Warten auf die Schulentwicklungsplanung - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Betreuungsgeld statt Kita? - beantwortet
+- TOP 7.2: Aktueller Planungsstand im Kleinen Tiergarten Ost? - beantwortet
+- TOP 7.3: Städtebauliche Verträge - beantwortet
+- TOP 7.4: Ahndung von Mietpreisüberhöhungen auf Grundlage von § 5 Wirtschaftsstrafgesetz - beantwortet
+- TOP 7.5: Auswirkungen der beabsichtigten Schließung des „Haus der Gesundheit“ am Alexanderplatz - beantwortet
+- TOP 7.6: Asylbewerberplätze in Moabit - beantwortet
+- TOP 7.7: Schließung der Elterngeldstelle in Mitte - beantwortet
+- TOP 7.8: Kontrolle von Spielhallen - beantwortet
+- TOP 7.9: „Hundeauslaufgebiet Essener Park?“ - schriftlich beantwortet
+- TOP 7.10: „Reisebusse in der Lehrter Straße“ - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Nachschiebeliste zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2014 und 2015 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Patenschaft des Bezirkes Mitte von Berlin mit dem Feldjägerregiment 1 Berlin (Julius-Leber-Kaserne) - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sitzungskalender 2014 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Entwurf der Doppelbezirkshaushaltsplanung Mitte für die Haushaltsjahre 2014 und 2015 - mit Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Änderungen im Sozialamt mit der BVV beraten - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Planungen zur Umgestaltung des Gartendenkmales Kleiner Tiergarten (Ost) 2 - in der BVV abgelehnt
+- TOP 11.3: Entscheidung Bezirksaufsichtsbehörde - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Schutz der Skulpturen und Spielflächen im Köllnischen Park - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wertvolle Baumbestände erhalten! - in der BVV abgelehnt
+- TOP 11.6: Glückwunschschreiben für Seniorinnen und Senioren nicht einstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: "Nutzung der VZÄ-Steuerungsreserve" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Jugendarbeit bedarfsgerecht finanzieren - in der BVV abgelehnt
+- TOP 12.2: Keine Schließung des Hauses der Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Käfig und Banane - in der BVV abgelehnt
+- TOP 12.4: "Haus der Gesundheit" am Alexanderplatz erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Bibliotheksentwicklungsplan fortschreiben - überwiesen
+- TOP 12.6: Teile des ehem. Präsidium der Volkspolizei am Alexanderplatz zu einem Erinnerungsort umgestalten - überwiesen
+- TOP 12.7: Änderung der Geschäftsordnung §36 - überwiesen
+- TOP 12.8: Besetzung des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Anschaffung umweltfreundlicher Fahrzeuge mit Elektroantrieb für das BA - überwiesen
+- TOP 12.10: Bebauungsplanes 1-72 (Bachstraße 1-2): Öffentlichkeit bei Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - überwiesen
+- TOP 12.11: Schaustellergewerbe unterstützen - Ausnahmeregelung für die Umweltzone ermöglichen - überwiesen
+- TOP 12.12: Städtepartnerschaft mit Moskau aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Wanderausstellung "Mütter des Grundgesetzes" - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Kaufland Müllerstraße 123-125 den Bedarfen der BewohnerInnen anpassen - vertagt
+- TOP 12.15: Übergänge für RollstuhlfahrerInnen im Kreuzungsbereich Reinickendorfer Str. / Ecke Oudenarder Str. besser absichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Lärmschutz in der Wollankstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Keine Privatisierung des Spreeuferweges - vertagt
+- TOP 12.18: Ausnahmen für Sondernutzungserlaubnis am Platz des 17. Juni - überwiesen
+- TOP 12.19: Wasserspielplatz im Fritz-Schloß-Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Den Berliner Mittelstand stärken- Einrichtung eines landesweiten „Mittelstandslotsen“! - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 13.1: Flüchtlinge und AsylbewerberInnen sind in Mitte willkommen - vertagt
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Skulpturengarten im Tiergarten mehr Bedeutung schenken! - vertagt
+- TOP 15.2: Wahl von Schiedspersonen und Patientenfürsprecherinnen und Patientenfürsprechern - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Zivilgesellschaftliches Engagement stärken - ein interkultureller Garten in der Schulstraße 118 - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Monbijoupark: Bürgerbeteiligung nicht erst, wenn die Messen gesungen sind? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Offenes Dateiformat - vertagt
+- TOP 16.3: Gesund aufwachsen in Mitte - vertagt
+- TOP 16.4: Kann das Bezirksamt Mitte von Berlin als "familienfreundlicher Betrieb" zertifiziert werden? - vertagt
+- TOP 16.5: Sicherung der Archivalien unserer historischen Gebäude - vertagt
+- TOP 16.6: Pilotprojekt für internetbasierte Bürgerbeteiligung - vertagt
+- TOP 16.7: Planungen zur Umgestaltung des Gartendenkmales Kleiner Tiergarten (Ost) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Konzept für alle Schulen gegen jede Art von häuslicher Gewalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Endlich Abbau struktureller Defizite! - vertagt
+- TOP 16.10: Beteiligung der Träger öffentlicher Belange zum B-Plan III-226 - vertagt
+- TOP 16.11: Veröffentlichung von Gutachten - vertagt
+- TOP 16.12: Bringt das Inselglück zurück nach Moabit – Neue Kulturprojekte sollen an erfolgreichen Projekten anknüpfen - vertagt
+- TOP 16.13: Mehr Öffentlichkeit für die Bezirksamtsbeschlüsse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Haushaltsüberwachung weiterentwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Bündnis für Wohnen im Bezirk Mitte - Vereinbarung für die Sicherung des Wohnraums in Mitte - vertagt
+- TOP 16.16: Investitionen in Energieeffizienz unterstützen - vertagt
+- TOP 16.17: Gründerzentrum in Moabit realisieren - vertagt
+- TOP 16.18: Regionalmanagement Moabit West - vertagt
+- TOP 16.19: Über Wirtschaftsprojekte berichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Mehr Datenschutz auf berlin.de - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Historische Gehweggestaltung im Hansaviertel erhalten, sichern und wiederherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Milieuschutzregelungen ausbauen – Rechte des Bezirks stärken - vertagt
+- TOP 16.23: BVV-Entscheidung zu Bebauungsplänen sicherstellen - vertagt
+- TOP 16.24: Konzept für eine bürger/innenfreundliche Beschwerdestelle/ alt: Drucksache Nr. 99/I
+- TOP 16.25: Passen Schule und Volkshochschule zusammen? (2) - vertagt
+- TOP 16.26: Sprechstunde „Pflegestützpunkte“ im Rathaus Tiergarten - vertagt
+- TOP 16.27: Frühzeitige Information für Gewerbetreibende bei geplanten Baumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Bündnis für bezahlbare Wohnungspolitik und bezahlbare Mieten auch nach Sanierung der Wohnungen in der Schillerhöhe durch die GESOBAU - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Prioritätenliste barrierefreie Zugänglichkeit von U-Bahnhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.30: Fahrstuhl am Bahnhof Friedrichstraße wieder in Betrieb setzen - vertagt
+- TOP 16.31: Es werde Licht am Alex! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.32: Rundgang mit Seniorinnen und Senioren im Sprengelkiez – Was sagt das Bezirksamt? (3) - vertagt
+- TOP 16.33: Umbenennung des Teilabschnitts der Einemstraße in Karl-Heinrich-Ulrichs-Staße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.34: Aufhebung des Beschlusses des Bezirksamtes, der die Ausschilderung der Arminiusmarkthalle verhindert (Ds 0724/IV) - vertagt
+- TOP 16.35: Aufstellung des Bebauungsplanes 1-72 im Bezirk Mitte, Ortsteil Hansaviertel, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB), die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuchsowie der Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.36: Beschluss das Ergebnis der frühzeitigen Behördenbeteiligung gem. § 4 Abs. 1 Baugesetzbuch (BauGB) zum Bebauungsplanentwurf 1-85B (Friedrich-Wilhelm-Stadt, mittlerer Bereich), das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB, das Ergebnis der Beteiligung der Behörden gem. § 4 Abs 2 BauGB, das Ergebnis der eingeschränkten Beteiligung der Behörden gem. § 4a Abs 3 BauGB i.V. mit § 4 Abs 2 BauGB sowie die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 (...) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.37: die im ersten Halbjahr des Haushaltsjahres 2013 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.38: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - vertagt
