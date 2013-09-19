@@ -1,0 +1,51 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-09-19T17:00:00+02:00
+- Ende: 2013-09-19T22:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8874
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8874
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00345117.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Hauptbahnhof Münster West- und Ostseite, Zwischenstand 2013 - ohne Beschlussfassung geschoben
+- TOP 4: Attraktiver Halt für Fernreisebusse in Münster-Antrag der SPD-Fraktion an den Rat Nr. A-R/055/2012Raumkonzept für Fernbusse erstellen-Verkehrliche Drehscheibe Hauptbahnhof weiterentwickeln, Antrag der Fraktion Bündnis90/Die Grünen/GAL an den Rat Nr. - einstimmig beschlossen
+- TOP 5: Genehmigung der Tagesordnung
+- TOP 5.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 6: Mitteilungen der Verwaltung
+- TOP 7: Anträge und Eingaben
+- TOP 7.1: Bearbeitungsstand der Rats- und Ausschussanträge (Dez. 2009 bis Sept. 2013)
+- TOP 7.2: Bekanntgabe
+- TOP 7.3: Stellungnahmen
+- TOP 8: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 8.1: Bahnflächenentwicklung ehemaliger Stückgutbahnhof, Sachstand 2013 - einstimmig geändert beschlossen
+- TOP 8.2: Wohnanlage auf dem Grundstück der Eissporthalle - Johann-Krane-Weg 2, 4
+- TOP 8.3: Sachstandsbericht 2013 zum Handlungskonzeptes zur Umsetzung des Klimaschutzkonzept 2020 und Ergebnisse der Energie- und Klimabilanz 1990 - 2011 - zur Kenntnis genommen
+- TOP 8.4: Zuzugsumfrage 2013 - zur Kenntnis genommen
+- TOP 8.5: Bürgerumfrage 2013: Ergebnisse der Fragen zum "Bürgerhaushalt" - zur Kenntnis genommen
+- TOP 9: Stadtplanung
+- TOP 9.1: 38. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 9.2: Aufhebung des Bebauungsplanes Nr. 520: Steinfurter Straße / York-Ring / Gasselstiege - einstimmig beschlossen
+- TOP 9.3: Steinfurter Straße / York-Ring / Gasselstiege (eh. TÜV-Gelände): weiteres Vorgehen
+- TOP 9.4: Bebauungsplan Nr. 533 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 9.5: Erhaltungs- und Gestaltungssatzung für die Siedlung Zum Erlenbusch - mehrheitlich beschlossen
+- TOP 10: Verkehr
+- TOP 10.1: Fahrradfahren in Münster: "Runder Tisch Radverkehr" einrichten sowie Modellprojekte "Velorouten" planen und umsetzen - mehrheitlich geändert beschlossen
+- TOP 10.2: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP 10.3: Verkehrsplanungen zur Verbesserung der Verkehrssicherheit und der Verkehrsanlagen im Bereich der Robert-Bosch-Straße / Siemensstraße sowie deren Verlauf bis Trauttmansdorffstraße - von der Tagesordnung abgesetzt
+- TOP 10.4: Kappenberger Damm - barrierefreier Ausbau der Haltestelle "Brunnenweg" (Maßnahme im Haltestellenprogramm 2014) - einstimmig beschlossen
+- TOP 11: Bauvorhaben
+- TOP 11.1: Städtisches Stadion Hammer Straße - Kostenplan und Sanierung 2014-2020 - ohne Beschlussfassung geschoben
+- TOP 12: Verschiedenes
+- TOP 12.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel für die Kalenderjahre 2014 und 2015 - mehrheitlich geändert beschlossen
+- TOP 12.2: Handlungsprogramm 2012 bis 2017 - 1. Projektbericht zur Umsetzung (Auszug Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft) - einstimmig beschlossen
+- TOP 12.3: Handlungsprogramm 2012 bis 2017 - Bestandsaufnahme zu Standards und Richtlinien (Auszug Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft) - einstimmig beschlossen
+- TOP 12.4: neu: Bahnübergang Mecklenbeck-Heroldstraße (Stellwerk)
+- TOP 12.5: neu: Verkehrspoller Albachten
