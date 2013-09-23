@@ -1,0 +1,7 @@
+# TOP 1.3: der 16. Sitzung am 27.05.2013
+
+- Sitzung: 18. öffentliche/nichtöffentliche Sitzung des Ausschusses für Wirtschaft, Arbeit und Ordnungsamt (2013-09-23)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=77149
+- Ergebnis: vertagt
