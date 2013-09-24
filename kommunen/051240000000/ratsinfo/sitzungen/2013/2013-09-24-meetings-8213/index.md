@@ -1,0 +1,53 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und Betriebsausschüsse APH / KIJU / WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-09-24T16:05:00+02:00
+- Ende: 2013-09-24T17:37:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/194
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8213
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8213
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00159245.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00160619.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2012 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2013/2014 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Neuordnung der Vermögens- und Finanzierungsstruktur der WSW - geändert beschlossen
+- TOP 3.2: Gesellschaftsvertrag der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 3.3: Übertragung der Bewirtschaftung der ÖPNV-Pauschale ab 2014 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 3.4: Auflösung der Hotel AG - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Externe Einstellungen im Zeitraum 01.01.2013-30.06.2013 - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Haushaltsplan 2014/2015 - Änderung in den Bewirtschaftungsrichtlinien - Entgegennahme ohne Beschluss
+- TOP 6.2: Umsetzung des Haushaltssanierungsplans 2012 - 2021 - Stand zum 30.06.2013 - Entgegennahme ohne Beschluss
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.07.2013 zum TOP 5.7 Personalentwicklungskonzept - Bericht über die Aus- und Fortbildung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 7.1.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.07.2013 zum Personalentwicklungskonzept - Bericht über die Aus- und Fortbildung der Stadt Wuppertal vom 19.06.2013 - Entgegennahme ohne Beschluss
+- TOP 7.2: Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu den Bezügen der Vorstände der städtischen Unternehmen vom 04.09.2013 - Entgegennahme ohne Beschluss
+- TOP 7.2.1: Antwort auf die Große Anfrage der Wählergemeinschaft für Wuppertal (WfW) zu den Bezügen der Vorstände der städtischen Unternehmen - Entgegennahme ohne Beschluss
+- TOP 7.3: Fahrbahnerneuerung Hermannstraße - ungeändert beschlossen
+- TOP 7.4: Neubau Remlingrader Brücke - geändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH / KIJU / WAW
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 9.1: Jahresabschluss 2012 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 9.2: Quartalsbericht II/2013 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 9.3: Quartalsbericht II/2013 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 9.4: Entlastung der Betriebsleitung APH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 11.1: KIJU 2. Quartalsbericht 2013 - Entgegennahme ohne Beschluss
+- TOP 12: Berichte und Mitteilungen
+- TOP 13: Wasser und Abwasser
+- TOP 14: Berichte und Mitteilungen
