@@ -1,0 +1,64 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-09-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877438
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877438
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Größere Mülleimer an der Straßenbahn-Endhaltestelle St.-Veit-Straße (Ziffer 5 des Antrages) Empfehlung Nr. 08-14 / E 01735 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim am 14.03.2013 - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Blombergstr. 59 - Neubau dreier Wohngebäude mit Garagen
+- TOP 3.1.1.2.: Schildensteinstraße 2 - Neubau eines Wohngebäudes mit 58 Wohneinheiten und TG
+- TOP 3.1.1.3.: Bad-Kreuther-Straße 8 - Tektur - Modernisierung und Umbau eines Restaurants
+- TOP 3.1.1.4.: Ampfingstraße 32 - Neubau einer Kfz-Unterstellhalle
+- TOP 3.1.1.5.: Baumkirchner Straße 59 - Neubau eines Verkaufsgebäudes mit Verkaufsräumen im UG + EG sowie zwei Parkdecks im 1. / 2. Obergeschoss + Technikgeschoss
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Seebrucker Straße 4 - 26 - Baumbestandsplan
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München - Vorlagen-Nr. 08-14 / V 12544
+- TOP 4.1.1.3.: Baustelleneinrichtung an der Josephsburgstraße / Else-Rosenfeld-Straße
+- TOP 4.1.2.1.: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr - Vorlagen-Nr. 08-14 / V 12850
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020
+- TOP 4.6.1.: Baumschutzoffensive I: Umfassende Information über Baumschutzoffensive Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung Anträge Nrn. 08-14 / A 03235, A 03236 und A 03238 der Stadtratsfraktion DIE GRÜNEN/RL vom 04.04.2013 - Vorlagen-Nr. 08-14 / V 12778
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
