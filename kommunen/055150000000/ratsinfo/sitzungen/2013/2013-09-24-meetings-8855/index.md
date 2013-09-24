@@ -1,0 +1,56 @@
+# 30. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-09-24T18:05:00+02:00
+- Ende: 2013-09-24T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8855
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8855
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00346466.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Bestätigung des Gesamtabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 3.2: Zwischenbericht zur Haushaltswirtschaft des Jahres 2013 - Finanzbericht 2. Quartal 2013 - zur Kenntnis genommen
+- TOP 3.3: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2013 - zur Kenntnis genommen
+- TOP 3.4: Selbstverpflichtung gegen neue Haushaltsbelastungen - vertagt
+- TOP 3.5: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2013 bis 2017 - zur Kenntnis genommen
+- TOP 3.6: Außerplanmäßige Mittelbereitstellung im Produktbereich 06 "Kinder- und Jugendhilfe" - einstimmig beschlossen
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Bericht über die Beteiligungen der Stadt Münster im Jahr 2012 (Beteiligungsbericht 2012) - zur Kenntnis genommen
+- TOP 4.2: Konzernberichtswesen für die städtischen Gesellschaften und eigenbetriebsähnlichen - zur Kenntnis genommen
+- TOP 4.3: Konzernabschluss 2012 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2012 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 4.5: Stauchung der Auszahlungen im Rahmen der bereits beschlossenen Kapitalerhöhung der FMO Flughafen Münster / Osnabrück GmbH (FMO) - mehrheitlich geändert beschlossen
+- TOP 4.6: Jahresabschluss 2012 der GML Gewerbepark Münster-Loddenheide GmbH (GML GmbH) - einstimmig beschlossen
+- TOP 4.7: Ausschüttungen der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 4.8: Betriebe gewerblicher Art der Stadt Münster - zur Kenntnis genommen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Neufassung der Feuerwehrsatzung - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Bürgerumfrage 2013: Ergebnisse der Fragen zum "Bürgerhaushalt" - zur Kenntnis genommen
+- TOP 6.2: Bürgerhaushalt Münster - Ergebnisse der Umfragen im Internet - zur Kenntnis genommen
+- TOP 6.3: Bürgerhaushalt Münster - Anregung nach § 24 Gemeindeordnung NRW (Nr. 2012-00168) - einstimmig beschlossen
+- TOP 6.4: Umsetzung und Weiterentwicklung der Förderangebote für Grundschulkinder im offenen Ganztag - Förderinseln - einstimmig beschlossen
+- TOP 6.5: Offene Ganztagsschule - Aufstockung der Wochenstundenzahl für Koordinatoren/innen und Gruppenleitungen - einstimmig beschlossen
+- TOP 6.6: Weiterführung und Neuausschreibung der Schülerspezialverkehre zum 01.08.2014 - ohne Beschlussfassung geschoben
+- TOP 6.7: Mittagsverpflegung in Schulen - von der Tagesordnung abgesetzt
+- TOP 6.8: Zwischenbericht "Optimierung der Betriebsführerschaft der städtischen Bäder" - ohne Beschlussfassung geschoben
+- TOP 6.9: Beauftragte Stelle für Hilfen gem. § 67 SGB XII: Entscheidung über die Weiterführung der Vereinbarung mit dem LWL - einstimmig beschlossen
+- TOP 6.10: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - einstimmig beschlossen
+- TOP 6.11: Konzept zur Reduzierung der Verschmutzung mit Hundekot - einstimmig beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Satzungen zur Änderung von Festsetzungen der Rezesse verschiedener Interessentenschaften - einstimmig beschlossen
+- TOP 7.2: Projekt "gemeinsam bauen" an der Gievenbecker Reihe - zur Kenntnis genommen
+- TOP 7.3: Städtisches Stadion Hammer Straße - Kostenplan und Sanierung 2014-2020 - ohne Beschlussfassung geschoben
+- TOP 7.4: Ersatzbau und Erweiterung der katholischen Kindertageseinrichtung St. Nikolaus in Münster-Wolbeck - einstimmig beschlossen
+- TOP 7.5: Ersatzbau und Erweiterung der DRK-Kita Horstmarer Landweg in Münster-Sentrup, Horstmarer Landweg 87 - einstimmig beschlossen
+- TOP 7.6: Dementenwohn- und Demententagesbetreuungsanlage in Sprakel - Antrag der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen an den AFBL - einstimmig geändert beschlossen
+- TOP 7.7: Hauptbahnhof Münster West- und Ostseite, Zwischenstand 2013
+- TOP 8: Verschiedenes
