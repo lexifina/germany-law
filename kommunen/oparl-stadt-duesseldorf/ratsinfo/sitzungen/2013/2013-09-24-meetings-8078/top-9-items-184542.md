@@ -1,0 +1,8 @@
+# TOP 9: Trassenführungen U 81
+
+- Sitzung: Bezirksvertretung 5 (2013-09-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/184542
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/67838
