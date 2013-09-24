@@ -1,0 +1,102 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2821147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2821147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Vorstellung der Sanierung und Aufwertung des bestehenden Spielplatzes an der Münchner Freiheit durch das Baureferat ? Gartenbau im UA Stadtplanung und Architektur: Seidlvilla, Nikolaiplatz 1b, am Mittwoch, 18.09.2013, Beginn 19.30 Uh
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Vorstellung der Planungen zur Nutzung der Häuser 17 und 19 in der Bayernkaserne Unterbringung wohnungsloser Haushalte ? Kälteschutzprogramm durch das Sozialreferat; Amt für Wohnen und Migration
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen bzw. Pilotprojekt BA-Online (Antwort des Direktoriums auf zwei BA-Anträge anderer Bezirksausschüsse)
+- TOP .2.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 ? 2020 (Größe / Anzahl der Mitglieder in den Bezirksausschüssen in der neuen Amtsperiode)
+- TOP .1.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest; Anhörung zum BA-Antrag Nr. 08-14/B 04288 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 02.10.2012
+- TOP .2.: Erwerb und Aufstellung von mobilen Geschwindigkeitsanzeigern ? Anträge auf Änderung der BA-Satzung
+- TOP .3.: Korrektur der BA-Satzung nach Übergang der Zuständigkeit für die Kinderkrippen vom Sozialreferat auf das Referat für Bildung und Sport ? Beibehalten des Anhörungsrechts
+- TOP .10.: sonstiges
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Optimierung der Kreuzung Ungererstraße / Luxemburger Straße für den Radweg im Zuge des Lichtzeichenanlagen.Austauschs
+- TOP 2: (E) Sorgfältige / nachhaltige Sanierung der Radwege (Ziffer 5a) Empfehlung Nr. 08-14 / E 01883 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 11.07.2013 Einheitliche Asphaltbeläge auf Straßen und Radwegen (Ziffer 6) Empfehlung Nr. 08-14 / E 01884 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 11.07.2013
+- TOP 3: (E) Errichtung einer Verbindungsstraße zwischen Lilienthalallee und der Maria-Probst-Straße Empfehlung Nr. 08-14 / E 01877 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 02.07.2013
+- TOP 3.4.: Aufstellung eines mobilen Fahrradständers, Leopoldstr. 68
+- TOP 3.1.: Auflassung des Radweges in der Thiemestraße
+- TOP 3.2.: Tempolimit ?Englischer Garten? - Beschränkung der Höchstgeschwindigkeit auf 30 km/h in der Verbindungsstraße zwischen Tivoli- und Thiemesstraße
+- TOP 3.1.: Erneuerung der Feilitzschstraße und Neugestaltung des Wedekindplatzes
+- TOP 3.2.: Errichtung eines personenbezogenen Behindertenparkplatzes in der Bismarckstraße 2
+- TOP 3.3.: Beschleunigung der Buslinie 154 (incl. abschnittsweise 54, 153 und 184) Beschlussentwurf für den gemeinsamen Ausschuss von Referat für Arbeit und Wirtschaft, Baureferat und Kreisverwaltungsreferat am 15.10.2013 bzw. 23.10.2013)
+- TOP 3.4.: Umlegung der Bushaltestellen in der Freisinger Landstraße / Heidemannstraße
+- TOP 3.1.: Verkehrssituation an der Kreuzung Potsdamer Straße / Leopoldstraße (1); Auslastung der Tram 23 (2); Tempo 30 in der Isoldenstraße (3); Elektrosmog durch Trafostation (5) siehe auch TOP D.4.1.
+- TOP 3.2.: Zugang zur Tramhaltestelle Domagkstraße (diverse Bürger)
+- TOP 3.3.: Ampelschaltung an der Leopoldstraße
+- TOP 3.4.: Einbahnstraßenregelung Feilitzstraße
+- TOP 3.1.: Neubau der Lichtzeichenanlage Frankfurter Ring / Max-Bill-Straße Ost
+- TOP 3.2.: Neubau der Lichtzeichenanlage Frankfurter Ring / Max-Bill-Straße West
+- TOP 3.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (4)
+- TOP 3.4.: Antrag auf Anbringung von zwei Verkehrszeichen ?Durchfahrt verboten? mit Zusatzschild ?Lieferverkehr frei? am Isarring und an der Schenkendorfstr. zur Einfahrt in die Biedersteinerstraße (Schreiben eines Bürgers an das Kreisverwaltungsreferat)
+- TOP 3.5.: Entwurf des Leistungsprogramms der MVG für 2014; Sitzungsvorlage Nr. 08-14 / V 12455 Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 3.6.: Zur Energiewende gehört die Verkehrswende ? München setzt auf postfossilen Verkahr Sitzungsvorlage Nr.: 08-14 / V 12850; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes GmbH Weihnachtskonzert am 11.12.2013
+- TOP 3.1.: Auswahl der REGSAM-Schwerpunktgebiete für den Zeitraum ab Januar 2014
+- TOP 3.2.: Generalinstandsetzung 3-zügige Grundschule mit 4-gruppigem Tagesheim, Sportnutzung und Interimsbauten, Fröttmaninger Str. 21; Beschlussvorlage für den Ausschuss für Bildung und Sport am 09.10.2013 (siehe auch TOP D.3.2.4.)
+- TOP 3.3.: 28. München Marathon (13.10.2013) und Trachtenlauf (12.10.2013)
+- TOP 3.4.: Münchens Stadtteilkultur stärken ? Ausweitung von Betriebszuschüssen und Personalkostenaufstockung ab 2014 Anhörung zur Beschlussvorlage für den Kulturausschuss am 17.10.2013
+- TOP 3.1.: Fußballwiese / Grünanlage zwischen Lilly-Reich-Straße / Gunta-Stölzl-Straße
+- TOP 3.2.: Zukunft des Restaurants ?La Lucania? (siehe auch TOP D.4.2.)
+- TOP 3.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: ?Trattoria Weinbar Centro Moda?, Schank- und Speisewirtschaft, Ingolstädter Str. 44
+- TOP 3.1.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne Margarete-Schütte-Lihotzky-Straße; Bebauungsplan mit Grünordnung Nr. 1943 b ; Beschluss des Kommunalausschusses vom 18.07.2013 incl. Ergänzungsantrag von Bündnis 90/Die Grünen/RL; Sitzungsvorlage Nr.: 08-14 / V 12181; (siehe auch TOP D.5.3.2.)
+- TOP 3.2.: Verwendungsnachweis der Innere Mission München für ein Sommerfest am 13.06.2013 in Höhe von 1.500,00 ?
+- TOP 3.3.: Kurzbericht des Spielkultur e.V. über die Verwendung eines Zuschusses aus dem Budget des BA 12 für die Spielaktion ?Mal-Bau-Stelle? am 21.05.2013
+- TOP 3.4.: Leistungen eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuung? 2008-2014 für das Haus Für Kinder an der Karl-Theodor-Straße 29; Sitzungsvorlage Nr.: 08-14 / V 12753 Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 17.09.2013
+- TOP 3.5.: Umsetzung der UN-Behindertenrechtskonvention; Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen; Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention; Sitzungsvorlage Nr.: 08-14 / V 12112 Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 3.6.: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder; Beschluss des Bauausschusses vom 24.09.2013; Sitzungsvorlage Nr.: 08-14 / V 12257
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.1.: Baumfällungen
+- TOP 3.1.: Am Blütenring 64, Fl.Nr.: 580/150, Neubau eines Dreifamilienhauses mit Tiefgarage- Vorbescheid, Fällung einer Eibe
+- TOP 3.2.: Kieferngartenstr. 29, Fl.Nr. 309/120, Neubau einer DHH (1WE) mit Garage, Fällung von 8 Bäumen gemäß Plan
+- TOP 3.3.: Kieferngartenstr. 29, Fl.Nr. 309/120, Neubau einer DHH (2 WE) mit Duplexgarage, Haus 1 Fällung von 8 Bäumen gemäß Plan
+- TOP 3.4.: Situlistr. 71, Fällung einer Birke (mehrstämmig)
+- TOP 3.5.: Am Blütenring 19, Fällung von 8 Fichten und 3 Birken
+- TOP 3.6.: Finauer Str. 21, Fällung eines Spitzahorn
+- TOP 3.7.: Bauernfeindstr. 18-22, Fällung einer Linde
+- TOP 3.1.: Bauleitplanung der Stadt Garching: Aufstellung eines vorhabnebezogenen Bebauungsplanes Nr. 163 ?Galileo ? Neue Mitte am Hochschulcampus Garching?
+- TOP 3.2.: Bauvorhaben: Föhringer Ring 6, Fl.Nr.: 106/4, Aufstellung einer Bürocontaineranlage als Interimnutzung (geplante Nutzungsdauer / Standzeit ca. 8-10 Jahre, voraussichtl. bis 2021 / 2023) und befristete Errichtung eines Vordachs an einer Bestandaußentreppe
+- TOP 3.3.: Bauvorhaben: Montsalvatstr. 12, Fl.Nr.: 806/28, Einbau Dachgaube und -einschnitt anstelle einer Bestandsgaube, Errichtung Fluchtbalkon für Dachspitz und Erweiterung Kellereingang mit Ausbau des Dachspitzes
+- TOP 3.4.: Generalinstandsetzung 3-zügige Grundschule mit 4-gruppigem Tagesheim, Sportnutzung und Interimsbauten, Fröttmaninger Str. 21; Beschlussvorlage für den Ausschuss für Bildung und Sport am 09.10.2013 (siehe auch TOP C.3.2.)
+- TOP 3.5.: Bauvorhaben: Eisenacher Str. 11, Fl.Nr.: 808/12, Neubau eines Einfamilienhauses mit Garage und Pool, incl. Baumfällungen - 3 Bäume und eine Tujahecke
+- TOP 3.6.: Bauvorhaben: Rheinlandstr. 4, Fl.Nr.: 1004/33, Neubau eines Mehrfamilienhauses ? Vorbescheid incl. Baumfällung gemäß Plan
+- TOP 3.1.: Einhaltung der Abstandsflächen bei Neubauten in der Isoldenstraße (4); siehe auch TOP B.4.1.
+- TOP 3.2.: Zukunft des Restaurants ?La Lucania? (siehe auch TOP C.4.2.)
+- TOP 3.5.2.: Genehmigte Baumfällungen
+- TOP 3.1.: Viktoriastraße 25, 1 Vogelkirsche
+- TOP 3.2.: Clemensstr. 28, 1 Bergahorn (2-stämmig)
+- TOP 3.1.: Baumaßnahmen der Stadtwerke München (SWM) a) Netzbaumaßnahmen, 2. Halbjahr 2013 b) Stromprojekt Kaiserstraße (neuer Bautermin)
+- TOP 3.2.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne Margarete-Schütte-Lihotzky-Straße; Bebauungsplan mit Grünordnung Nr. 1943 b ; Beschluss des Kommunalausschusses vom 18.07.2013 incl. Ergänzungsantrag von Bündnis 90/Die Grünen/RL; Sitzungsvorlage Nr.: 08-14 / V 12181; (siehe auch TOP C.5.3.1.)
+- TOP 3.3.: Baumschutzoffensive. Umfassende Information über Baumschutz; Besserer Baumschutz bei Bauvorhaben und Ökologische Baubegleitung (Anträge der Stadtratsfraktion DIE GRUENEN/RL; Sitzungsvorlage Nr.: 08-14 / V 12778 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013
+- TOP 3.4.: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München; Sitzungsvorlage Nr.: 08-14 / V 12544 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013
+- TOP 3.5.: Umstufung einer Teilstrecke der Straße ?Carl-Orff-Bogen?; Beschluss des Ferienausschusses des BA 12 vom 27.08.2013; Sitzungsvorlage Nr. 08-14/V 12561;
+- TOP 3.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.1.: Anträge
+- TOP 3.5.: Unterrichtungen
+- TOP 3.2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.2.: Sonstige Anhörungen
+- TOP 3.4.: Bürgeranliegen
+- TOP 3.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 3.5.3.: Sonstige Unterrichtungen
