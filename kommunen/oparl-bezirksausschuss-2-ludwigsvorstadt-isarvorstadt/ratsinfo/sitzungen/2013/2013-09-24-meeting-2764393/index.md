@@ -1,0 +1,73 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2013-09-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2764393
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2764393
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Wiedereinführung einer mobilen Mieterberatung
+- TOP .1.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Andreas Lichtinstallation und Andreaskonzert am 29.11.2013
+- TOP .2.: (E) Budget der Bezirksausschüsse Kultion Theaterstück ?Der Junge mit dem Koffer" von Oktober 2013 bis Februar 2014
+- TOP .3.: (E) Budget der Bezirksausschüsse Initiative "Münchner Bahnhofskapelle" Konzert am 26.10.2013
+- TOP .1.: Abfallbeseitigung und Toilette am Gärtnerplatz, siehe auch 2013.08 A 4.3
+- TOP .1.: Erstellung eines qualifizierten Bebauungsplans für das Schlachthof- / Viehhof-Gelände mit Bürgerbeteiligung, siehe auch 2013.05 B 1.3, 2013.06 B 5.2
+- TOP .2.: Errichtung einer Mittelinsel in der Schwanthalerstr., Höhe St.-Paul-Str. / Eine-Welt-Haus, vertagt aus 2013.07 B 1.3
+- TOP .3.: Errichtung einer Verkehrsinsel in der Thalkirchner Str., Höhe Waltherstr., vertagt aus 2013.05 B 1.1, 2013.07 B 1.1, 2013.08 B 1.1
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Lindwurmstr. 77: Nutzungsänderung im 1. OG, Zwei Wohnungen zu Arztpraxis
+- TOP .2.: Landwehrstr. 25: Vordergebäude: Umbau 1. + 4. OG, Nutzungsänderung 1. + 3. OG (Büro zu Wohnungen), Aufstockung 5. + 6. OG, Errichtung von Balkonen und Fundamenten; Seitengebäude: Nutzungsänderung 1. + 2. OG (kirchliche Räume zu Wohnungen), Errichtung von Balkonen
+- TOP .3.: Tumblingerstr. 34: Aufstockung Rückgebäude Nord ? Vorbescheid (3 Varianten)
+- TOP .4.: Thalkirchner Str. 71: DG-Ausbau (3 WE), Einbau Aufzug, Fassadenänderung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Landwehrstr. 21: Antrag auf Baumfällung und Baumveränderung, 3 Bäume
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Bürgeranliegen: Anpassung der Art und Anzahl der Müllbehälter an der Isar im Bereich des BA 2 und darüber hinaus an die zunehmende Nutzung als Erholungs- und Freizeitgelände
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Lindwurmstr. 147, ?Döner 4 you?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Karlspl. 25, ?Pronto Mode Bazar?, Aufstellen von Kleiderständern
+- TOP .2.: Landwehrstr. 9, ?Oasis UG?, Aufstellen einer Warenstellage für Obst und Gemüse
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Holzstr. 17, Kindergarten ?Die Bärenkinder e.V.?, Aufstellen eines Fahrradständers
+- TOP .3.2: Verkehr
+- TOP .1.: Bürgeranliegen Lindwurmstraße
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Planen und Bauen? am Montag, den 14.10.2013 um 19.00 Uhr in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 15.10.2013 um 19.00 Uhr in der Gaststätte "Schmeller Wirt", Schmellerstr. 17, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 16.10.2013 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung findet am 21.10.2013 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 29.10.2013 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Kunst im Öffentlichen Raum: ?Die Weitung?, Boschbrücke
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Bauvorhaben Pestalozzistr. 20, Antwortschreiben der Lokalbaukommission auf ablehnende Stellungnahme des BA, siehe 2013.07 B 3.1.13 und 2013.08 B 4.6
+- TOP .3.: Lärm- und Verkehrsbelastung in der Schwanthalerstr., BA-Antrag Nr. 08-14 / B 04171, Antwortschreiben des Kreisverwaltungsreferat zu Ziffer 2 des Antrages
+- TOP .4.: Baugenehmigung Adlzreiterstr. 13
+- TOP .5.: Nachricht des KVR zur Verbesserung der Radverkehrsführung Zweibrückenstraße (2013.08 B 3.3.1, 2013.07 B 5.2)
+- TOP .6.: Fahrradschnellwege ins Münchner Umland ? in die interkommunale Kooperation einsteigen ? erste Pilotprojekte beginnen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 4423
+- TOP .7.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München (?); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 10157
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Parkplatznot durch Baustelleneinrichtungen (siehe 2013.07 II 1); Bürgeranliegen: Parkraummanagement, Parkverbotszone für das Bauvorhaben auf dem ehemaligen Rodenstockgelände in der Auenstr. (siehe 2013.07 C 5.3), Antwortschreiben des KVR
+- TOP .7.: Mobile Flashmobaktion ?Z hoch 3?, Eilentscheidung des Vorsitzenden
+- TOP .8.: Zwischennachricht zum BA-Antrag Nr 08-14/ 5041: Zulässigkeit des Radfahrens entlang des Westermühlbachs und im Zuge der Querverbindung vom Glockenbachplatz zur Talkirchner Straße
+- TOP .1.: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen, Antrag des BA 6 und BA 16
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
