@@ -1,0 +1,53 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-09-24T17:00:00+02:00
+- Ende: 2013-09-24T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUveW73m_2OAAWpLTJdUWzE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4196
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYSQr5aHbYkJdkiraoxr6b1uYCOpeS3FGqtRKDEyPJIm/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_24.09.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 29. Sitzung am 16. Juli 2013
+- TOP 3: Protokoll über die 30. Sitzung am 24. September 2013
+- TOP 4: Neubenennung von Mitgliedern in die Organe des Wupperverbandes
+- TOP 5: Vertretung der Stadt Solingen im Vorstand des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 6: Übertragung von Ratssitzungen ins Internet
+- TOP 7: Europäische Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene
+- TOP 8: Bergische Kooperation der Gesundheitsämter
+- TOP 9: Neufassung der Satzung für das Jugendamt der Stadt Solingen
+- TOP 10: Neufassung der Satzung für das Jugendamt der Stadt Solingen
+- TOP 11: Gewährleistung der Sicherheit und Ordnung
+- TOP 12: Anbau von Umkleide- und Sanitärräumen am Feuerwehrgerätehaus Wipperauer Straße 35
+- TOP 13: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2013
+- TOP 14: Verschiedenes
+- TOP 15: Personalsituation in den städtischen Kindertagesstätten
+- TOP 16: Nordstadtfest 2013 - Beteiligung Milli Görüs
+- TOP 17: Gewährleistung der öffentlichen Sicherheit und Ordnung
+- TOP 18: Umgang mit Lärmbelästigungen (Ruhestörender Lärm)
+- TOP 19: Baumschutzsatzung
+- TOP 20: Anbau Löscheinheit 2 Rupelrath
+- TOP 21: Zentrum für verfolgte Künste GmbH – Solinger Kunst-Stiftung
+- TOP 22: Bergische Symphoniker – Orchester der Städte Remscheid und Solingen GmbH
+- TOP 23: Eingabe gemäß § 24 Gemeindeordnung NRW
+- TOP 24: Regionalagentur
+- TOP 25: Solinger Kunst-Stiftung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 29. Sitzung am 16. Juli 2013
+- TOP 3: Protokoll über die 30. Sitzung am 24. September 2013
+- TOP 4: Führung von zwei Rechtsstreitigkeiten wegen Versorgungslastenausgleich
+- TOP 5: Abschluss eines Vergleiches im Rechtsstreit einer Bauunternehmung gegen die Stadt Solingen
+- TOP 6: Ersatzbeschaffung einer Drehleiter mit Korb
+- TOP 7: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) im schriftlichen Umlaufverfahren
+- TOP 8: Verschiedenes
+- TOP 9: Übertragung von Ratssitzungen ins Internet
+- TOP 10: Bestellung von Gutachten
+- TOP 11: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2013
