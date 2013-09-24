@@ -1,0 +1,6 @@
+# TOP 11: Gewährleistung der Sicherheit und Ordnung
+
+- Sitzung: Haupt- und Personalausschuss (2013-09-24)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/18558
