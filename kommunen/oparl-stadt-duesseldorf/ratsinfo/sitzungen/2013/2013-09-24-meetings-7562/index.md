@@ -1,0 +1,61 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-09-24T17:00:00+02:00
+- Ende: 2013-09-24T19:28:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7562
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7562
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201203.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201203.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201203.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift ö. vom 25.06.2013 - einstimmig beschlossen
+- TOP 3: Knittkuhl - einstimmig beschlossen
+- TOP 4: Bürgerbefragung in Hubbelrath - mehrheitlich abgelehnt
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Zuschuss an den Düsseldorfer Sport-Club 1899 e. V. - einstimmig beschlossen
+- TOP 8: Sitzungstermine der Bezirksvertretung 7 im Jahre 2014 - einstimmig beschlossen
+- TOP 9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 10: Bodenpflasterung um den Offenen Bücherschrank - einstimmig beschlossen
+- TOP 11: Alternative Einkaufsmöglichkeiten während des Umbaus der Benderstraße - mehrheitlich beschlossen
+- TOP 12: Bericht CKW und PFT Vorkommnisse - einstimmig beschlossen
+- TOP 13: "Alte Insel"; städtisches Grundstück - einstimmig beschlossen
+- TOP 14: Entschleunigung der Heyestraße - mehrheitlich beschlossen
+- TOP 15: Kostenloses Internet im Zentrum Gerresheim - einstimmig beschlossen
+- TOP 16: Lärmschutz BAB 3 im Bereich Hubbelrath - einstimmig beschlossen
+- TOP 17: LKW-Verbot "Auf den Kuhbenden" - mehrheitlich abgelehnt
+- TOP 18: Aufstellung von Sitzbänken vor dem Altenheim Blankertzstraße - zurückgezogen
+- TOP 19: Radwegeverbindung Fröbelstraße/Quellenbusch - vertagt
+- TOP 20: Baumfällungen an der Poßbergwegsiedlung - zur Kenntnis genommen
+- TOP 21: Verfahren zur Benderstraße - zur Kenntnis genommen
+- TOP 22: Restauration Fuchsjagd - zur Kenntnis genommen
+- TOP 23: Güterbahnstrecke Ratingen-West - vertagt
+- TOP 24: Sportzentrum (ehem. Glashüttengelände) / Paralympischer Leistungsstützpunkt am Staufenplatz - zur Kenntnis genommen
+- TOP 25: Neubaugebiet Quellenbusch / Bereich Hallesche Straße - zur Kenntnis genommen
+- TOP 26: Park & Rideplatz S-Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 27: Ortsumgehung Gerresheim / Verkehrsanbindung Glasmacherviertel - zur Kenntnis genommen
+- TOP 28: Bebauungsplan Gebiet südlich Siedlung Knittkuhl - zur Kenntnis genommen
+- TOP 29: Aufstellung von Bänken - zur Kenntnis genommen
+- TOP 30: Radweg Torfbruchstraße - zur Kenntnis genommen
+- TOP 31: Ursula-Trabalski-Straße - zur Kenntnis genommen
+- TOP 32: Container Apostelplatz - zur Kenntnis genommen
+- TOP 33: Kinderspielplatz Diepenstraße - zur Kenntnis genommen
+- TOP 34: Bedarfsampel Ludenberger Straße in Höhe Haltestelle "Vor der Hardt" - zur Kenntnis genommen
+- TOP 35: Platz vor dem ehem. Amtsgericht Heyestraße - zur Kenntnis genommen
+- TOP 36: Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 37: Bezirkssatzung - zur Kenntnis genommen
+- TOP 38: Autobahn-Hinweis "Basilika St. Margareta" - zur Kenntnis genommen
+- TOP 39: Haltestelle Neuenhaus - zur Kenntnis genommen
+- TOP 40: Radwege im Bereich Quellenbusch Richtung Unterbacher See - zur Kenntnis genommen
+- TOP 41: Gewinnung von Parkplätzen - zur Kenntnis genommen
+- TOP 42: Parkbänke, Mülleimer und Beleuchtung im Quellenbusch - zur Kenntnis genommen
+- TOP 43: Hundefreilauffläche im Diepenpark - zur Kenntnis genommen
+- TOP 44: Straßenbahn-Haltestelle "Hardenbergstraße" (Verlauf Heyestraße) - zur Kenntnis genommen
