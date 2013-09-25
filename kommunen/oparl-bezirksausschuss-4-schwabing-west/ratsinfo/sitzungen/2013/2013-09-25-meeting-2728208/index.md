@@ -1,0 +1,51 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-09-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2728208
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2728208
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Auswahl der REGSAM-Schwerpunktgebiete für den Zeitraum ab Januar 2014
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Belgradstr. 8, ?Ritschi's?: Aufstellung neuer Verkaufseinrichtungen
+- TOP .2.2.: Kultur
+- TOP .1.: Sachstand Öffentlicher Bücherschrank (vertagt aus 08/2013)
+- TOP .2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V., Kulturteam Konzert für Kinder und Jugendliche ab der 1. Klasse sowie für Erwachsene am 23.11.2013
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: München Marathon am 13.10.2013
+- TOP .1.: Vertreter der MGS stellen das Ergebnis der Bemusterung für das städtische Bauprojekt Mainzer Straße 14 vor
+- TOP .2.1.: Planen
+- TOP .1.: Franz-Joseph-Str. 45: Um- und Ausbau RGB, Erweiterung e3iner Wohneinheit (RGB) sowie Errichtung
+- TOP .2.: Clemensstr. 118: Sanierung eines Wohnheims mit Umbau und Dachausbau in ein Studentenwohnheim mit Hausmeisterwohnung ? Tektur
+- TOP .3.: Emanuelstr. 18: Energetische Sanierung eines Studentenwohnheims und Errichtung einer neuen optimierten Notleiteranlage ? Vorbescheid
+- TOP .4.: Hohenstaufenstr. 13: Anbau eines Wohngebäudes ? Vorbescheid
+- TOP .5.: Ansprengerstr. 1: DG-Ausbau (Erweiterung der Wohnung 4.OG links und separate DG-Wohnung) sowie Erweiterung der Wohnung 4. OG rechts um einen Raum
+- TOP .6.: Infanteriestr. 11: Abbruch Satteldach, Aufstockung mit Flachdach ? Vorbescheid
+- TOP .7.: Kaiserstr. 47/RGB: Errichtung eines Wintergartens auf bestehender Dachterrasse
+- TOP .8.: Ackermannstr.: Neubau eines Gebäudes mit Serviceapartments sowie zweier Wohnhäuser mit gemeinsam genutzter Tiefgarage (Ackermann- / Lissi-Kaeser- / Schwere-Reiter-Str.) - Tektur
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Verkehrssituation an der Kreuzung Schleißheimer Str. / Hohenzollernstraße
+- TOP .2.: Bürgerin: Baumschäden durch Slacklining im Luitpoldpark verhindern
+- TOP .2.1.: Umwelt
+- TOP .1.: Infanteriestraße 6, Fällung eines Kirschbaumes, zwei Spitzahorn und zwei Fichten
+- TOP .2.: Belgradstr. 104: Fällung von 9 Bäumen in Zusammenhang mit dem Bauvorhaben ?Forum am Luitpold? der Stiftung Pfennigparade
+- TOP .3.: Brunnerstr. 35-37: Fällung einer doppelstämmigen Robinie
+- TOP .2.2.: Verkehr
+- TOP .1.: Standortgenehmigung für zwei Parkscheinautomaten in der Rümannstraße
+- TOP .2.: Beschleunigung der Buslinie 154 (Inkl. ausschnittsweise 54, 153 und 184) Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP .3.: Ortstermin Ampelabschaltungen Clemensstraße
+- TOP .1.: Abfalleimer an den Straßen und in den Grünanlagen in Schwabing möglichst schnell durch Behälter mit Deckel ersetzen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
