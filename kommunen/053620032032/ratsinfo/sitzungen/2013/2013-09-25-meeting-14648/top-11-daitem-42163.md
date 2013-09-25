@@ -1,0 +1,6 @@
+# TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+
+- Sitzung: Schulausschuss (14. Sitzung) (2013-09-25)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/42163
