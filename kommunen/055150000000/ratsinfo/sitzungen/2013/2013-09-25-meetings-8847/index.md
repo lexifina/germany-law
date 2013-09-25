@@ -1,0 +1,76 @@
+# 31. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-09-25T17:06:00+02:00
+- Ende: 2013-09-25T22:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8847
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8847
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00345113.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion an den Rat A-R/0031/2013 "Jobs, Ausbildung, Integration, Leben = JAIL - Urbanes Leben in der JVA an der Gartenstraße" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion an den Rat A-R/0036/2013 "Schulzentrum Roxel: vorhandene Ressourcen nutzen - Perspektiven schaffen" - von der Tagesordnung abgesetzt
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0029/2013 "Fortsetzung des Programms "Soziale Stadt Kinderhaus - Fokus auf Prävention für Kinder, Jugendliche und Familien richten"" - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion an den Rat Nr. A-R/0037/2013 - einstimmig geändert beschlossen
+- TOP 2.5: Antrag der Ratsgruppe UWG / ÖDP an den Rat der Stadt Münster A-R/0024/2013 "Einrichtung eines zentralen Anmeldeverfahrens bei Kindertageseinrichtungen zum Kindergartenjahr 2014/15, um Kitas und Eltern den Alltag zu erleichtern" - einstimmig beschlossen
+- TOP 2.6: Antrag der Ratsgruppe DIE LINKE. an den Rat A-R/0025/2013: Zwangsumzüge stoppen! - einstimmig beschlossen
+- TOP 2.7: Antrag der SPD-Fraktion an den Rat A-R/0028/2013 vom 04.06.2013: Münster für alle - Einführung eines Sozialmonitorings für Münster - einstimmig beschlossen
+- TOP 2.8: Antrag der SPD-Fraktion an den Rat A-R/0038/2013 "Wohnen muss bezahlbar sein - Luxusmodernisierungen verhindern, neue Möglichkeiten im Bestand suchen" - einstimmig geändert beschlossen
+- TOP 3: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP 4: Attraktiver Halt für Fernreisebusse in Münster-Antrag der SPD-Fraktion an den Rat Nr. A-R/055/2012Raumkonzept für Fernbusse erstellen-Verkehrliche Drehscheibe Hauptbahnhof weiterentwickeln, Antrag der Fraktion Bündnis90/Die Grünen/GAL an den Rat Nr. - zur Kenntnis genommen
+- TOP 5: Konzept zur Reduzierung der Verschmutzung mit Hundekot - einstimmig beschlossen
+- TOP 6: Projekt "gemeinsam bauen" an der Gievenbecker Reihe - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Bestätigung des Gesamtabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 8: Neufassung der Feuerwehrsatzung - einstimmig beschlossen
+- TOP 9: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel für die Kalenderjahre 2014 und 2015 - ohne Beschlussfassung geschoben
+- TOP 10: Selbstverpflichtung gegen neue Haushaltsbelastungen - von der Tagesordnung abgesetzt
+- TOP 10.1: Selbstverpflichtung gegen neue Haushaltsbelastungen - von der Tagesordnung abgesetzt
+- TOP 11: Zwischenbericht "Optimierung der Betriebsführerschaft der städtischen Bäder" - ohne Beschlussfassung geschoben
+- TOP 12: Bericht über die Beteiligungen der Stadt Münster im Jahr 2012 (Beteiligungsbericht 2012) - zur Kenntnis genommen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2013 - zur Kenntnis genommen
+- TOP 14: Stauchung der Auszahlungen im Rahmen der bereits beschlossenen Kapitalerhöhung der FMO Flughafen Münster / Osnabrück GmbH (FMO) - ohne Beschlussfassung geschoben
+- TOP 15: Satzungen zur Änderung von Festsetzungen der Rezesse verschiedener Interessentenschaften - einstimmig beschlossen
+- TOP 16: Hauptbahnhof Münster West- und Ostseite, Zwischenstand 2013 - ohne Beschlussfassung geschoben
+- TOP 17: Bahnflächenentwicklung ehemaliger Stückgutbahnhof, Sachstand 2013 - einstimmig beschlossen
+- TOP 17.1: Bahnflächenentwicklung ehemaliger Stückgutbahnhof, Sachstand 2013
+- TOP 18: Städtisches Stadion Hammer Straße - Kostenplan und Sanierung 2014-2020 - ohne Beschlussfassung geschoben
+- TOP 19: Bürgerumfrage 2013: Ergebnisse der Fragen zum "Bürgerhaushalt" - zur Kenntnis genommen
+- TOP 20: Weiterführung und Neuausschreibung der Schülerspezialverkehre zum 01.08.2014 - ohne Beschlussfassung geschoben
+- TOP 21: Mittagsverpflegung in Schulen - von der Tagesordnung abgesetzt
+- TOP 22: Trägerausschreibung für die Kindertageseinrichtungen an der Dreifaltigkeitsschule (Uppenberg)und Schmittingheide (Mauritz-Ost) - ohne Beschlussfassung geschoben
+- TOP 23: Ersatzbau und Erweiterung der DRK-Kita Horstmarer Landweg in Münster-Sentrup, Horstmarer Landweg 87 - ohne Beschlussfassung geschoben
+- TOP 24: Ersatzbau und Erweiterung der katholischen Kindertageseinrichtung St. Nikolaus in Münster-Wolbeck - ohne Beschlussfassung geschoben
+- TOP 25: Offene Ganztagsschule - Aufstockung der Wochenstundenzahl für Koordinatoren/innen und Gruppenleitungen - einstimmig beschlossen
+- TOP 25.1: Offene Ganztagsschule - Aufstockung der Wochenstundenzahl für Koordinatoren/innen und Gruppenleitungen
+- TOP 26: Umsetzung und Weiterentwicklung der Förderangebote für Grundschulkinder im offenen Ganztag - Förderinseln - einstimmig beschlossen
+- TOP 27: Außerplanmäßige Mittelbereitstellung im Produktbereich 06 "Kinder- und Jugendhilfe" - einstimmig beschlossen
+- TOP 28: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - einstimmig beschlossen
+- TOP 28.1: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 28.2: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 29: Beauftragte Stelle für Hilfen gem. § 67 SGB XII: Entscheidung über die Weiterführung der Vereinbarung mit dem LWL - einstimmig beschlossen
+- TOP 30: Korbacher Resolution / online-Petition, Energiewende ohne Fracking - einstimmig beschlossen
+- TOP 31: Steigerung der Wahlbeteiligung bei den Wahlen zum Integrationsrat - ohne Beschlussfassung geschoben
+- TOP 32: Einrichtung des Fachbeirats für das Kommunale Integrationszentrum in Münster - einstimmig beschlossen
+- TOP 33: Save-me Kampagne - zur Kenntnis genommen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Mehrere Stadtbezirke
+- TOP 34.1.1: 38. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 34.2: Stadtbezirk Mitte
+- TOP 34.2.1: Aufhebung des Bebauungsplanes Nr. 520: Steinfurter Straße / York-Ring / Gasselstiege - ohne Beschlussfassung geschoben
+- TOP 34.3: Stadtbezirk Hiltrup
+- TOP 34.3.1: Bebauungsplan Nr. 542: Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.4: Stadtbezirk Südost
+- TOP 34.4.1: Bebauungsplan Nr. 533 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 34.4.2: Erhaltungs- und Gestaltungssatzung für die Siedlung Zum Erlenbusch - ohne Beschlussfassung geschoben
+- TOP 35: Anhörung zur Bestellung der Mitglieder des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 36: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - ohne Beschlussfassung geschoben
+- TOP 37: Verschiedenes
