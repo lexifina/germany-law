@@ -1,0 +1,78 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-09-25T17:56:00+02:00
+- Ende: 2013-09-25T22:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8848
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8848
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00345115.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.2: Korbacher Resolution / online-Petition, Energiewende ohne Fracking - einstimmig beschlossen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Anregungen des Jugendrats gem. § 24 GO
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 9.1: Beabsichtigte Bebauung Schürbusch/ehemalige Peter-Wust-Schule
+- TOP 10: Bestätigung des Gesamtabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Neufassung der Feuerwehrsatzung - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel für die Kalenderjahre 2014 und 2015 - mehrheitlich beschlossen
+- TOP 13: Selbstverpflichtung gegen neue Haushaltsbelastungen - von der Tagesordnung abgesetzt
+- TOP 13.1: Selbstverpflichtung gegen neue Haushaltsbelastungen - von der Tagesordnung abgesetzt
+- TOP 14: Zwischenbericht "Optimierung der Betriebsführerschaft der städtischen Bäder" - einstimmig beschlossen
+- TOP 15: Bericht über die Beteiligungen der Stadt Münster im Jahr 2012 (Beteiligungsbericht 2012) - zur Kenntnis genommen
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2013 - zur Kenntnis genommen
+- TOP 17: Stauchung der Auszahlungen im Rahmen der bereits beschlossenen Kapitalerhöhung der FMO Flughafen Münster / Osnabrück GmbH (FMO) - mehrheitlich geändert beschlossen
+- TOP 18: Satzungen zur Änderung von Festsetzungen der Rezesse verschiedener Interessentenschaften - einstimmig beschlossen
+- TOP 19: Hauptbahnhof Münster West- und Ostseite, Zwischenstand 2013 - einstimmig geändert beschlossen
+- TOP 20: Bahnflächenentwicklung ehemaliger Stückgutbahnhof, Sachstand 2013 - einstimmig beschlossen
+- TOP 20.1: Bahnflächenentwicklung ehemaliger Stückgutbahnhof, Sachstand 2013
+- TOP 21: Städtisches Stadion Hammer Straße - Kostenplan und Sanierung 2014-2020 - einstimmig geändert beschlossen
+- TOP 22: Bürgerumfrage 2013: Ergebnisse der Fragen zum "Bürgerhaushalt" - zur Kenntnis genommen
+- TOP 23: Weiterführung und Neuausschreibung der Schülerspezialverkehre zum 01.08.2014 - mehrheitlich abgelehnt
+- TOP 24: Mittagsverpflegung in Schulen - von der Tagesordnung abgesetzt
+- TOP 25: Trägerausschreibung für die Kindertageseinrichtungen an der Dreifaltigkeitsschule (Uppenberg)und Schmittingheide (Mauritz-Ost) - einstimmig beschlossen
+- TOP 26: Ersatzbau und Erweiterung der DRK-Kita Horstmarer Landweg in Münster-Sentrup, Horstmarer Landweg 87 - einstimmig beschlossen
+- TOP 27: Ersatzbau und Erweiterung der katholischen Kindertageseinrichtung St. Nikolaus in Münster-Wolbeck - einstimmig beschlossen
+- TOP 28: Offene Ganztagsschule - Aufstockung der Wochenstundenzahl für Koordinatoren/innen und Gruppenleitungen - einstimmig beschlossen
+- TOP 28.1: Offene Ganztagsschule - Aufstockung der Wochenstundenzahl für Koordinatoren/innen und Gruppenleitungen
+- TOP 29: Umsetzung und Weiterentwicklung der Förderangebote für Grundschulkinder im offenen Ganztag - Förderinseln - einstimmig beschlossen
+- TOP 30: Außerplanmäßige Mittelbereitstellung im Produktbereich 06 "Kinder- und Jugendhilfe" - einstimmig beschlossen
+- TOP 31: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention - einstimmig beschlossen
+- TOP 31.1: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 31.2: Münster auf dem Weg zur inklusiven Stadt: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 32: Beauftragte Stelle für Hilfen gem. § 67 SGB XII: Entscheidung über die Weiterführung der Vereinbarung mit dem LWL - einstimmig beschlossen
+- TOP 33: Steigerung der Wahlbeteiligung bei den Wahlen zum Integrationsrat - mehrheitlich geändert beschlossen
+- TOP 34: Einrichtung des Fachbeirats für das Kommunale Integrationszentrum in Münster - einstimmig geändert beschlossen
+- TOP 35: Save-me Kampagne - zur Kenntnis genommen
+- TOP 36: Bauleitplanung
+- TOP 36.1: Mehrere Stadtbezirke
+- TOP 36.1.1: 38. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 36.2: Stadtbezirk Münster-Mitte
+- TOP 36.2.1: Aufhebung des Bebauungsplanes Nr. 520: Steinfurter Straße / York-Ring / Gasselstiege - einstimmig beschlossen
+- TOP 36.3: Stadtbezirk Münster-Hiltrup
+- TOP 36.3.1: Bebauungsplan Nr. 542: Satzungsbeschluss - einstimmig beschlossen
+- TOP 36.4: Stadtbezirk Münster-Südost
+- TOP 36.4.1: Bebauungsplan Nr. 533 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 36.4.2: Erhaltungs- und Gestaltungssatzung für die Siedlung Zum Erlenbusch - vertagt
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 38.1: Münster - Stadt des Breitensports: Speckbrettplätze in Münster erhalten! - verwiesen
+- TOP 38.2: Tempo 50 auf der B 51 - verwiesen
+- TOP 38.3: Parken auf dem Domplatz ohne Stau - verwiesen
+- TOP 38.4: Kostenfreies WLAN für Münster - verwiesen
+- TOP 39: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Anhörung zur Bestellung der Mitglieder des Gutachterausschusses für Grundstückswerte in der Stadt Münster - mehrheitlich beschlossen
+- TOP 41: Verschiedenes
