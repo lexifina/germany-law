@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-09-26T14:00:00+02:00
+- Ende: 2013-09-26T20:17:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7255
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7255
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201519.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201519.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00201519.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell Bü90-Grü:Geänderte Neugestaltung des Schadowplatzes - beantwortet
+- TOP 3.2: Anfrage aktuell Die Linke: Anstieg rechtsextremer Straftaten in Düsseldorf - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion FW: Einführung einer Vergnügungssteuer - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion FW: Konzernabschluss der Holding der Stadt Düsseldorf - beantwortet
+- TOP 4.3: Anfrage des Ratsherrn Dr. en jur. (BOL) Kirchner: Erzielte Steuereinnahmen - beantwortet
+- TOP 4.4: Anfrage des Ratsherrn Dr. en jur. (BOL) Kirchner: Verschuldung und Netto-Finanzposition - beantwortet
+- TOP 4.5: Anfrage der Ratsfrau El Fassi: Zahl der Anfragen, Anträge und Beschlußvorlagen in dieser Ratsperiode - beantwortet
+- TOP 4.6: Anfrage der Ratsfrau El Fassi: Effekte der Schließung der Verwaltung zum Jahreswechsel 20012/2013 - beantwortet
+- TOP 4.7: Anfrage der SPD-Ratsfraktion: Immobilienhandel: Instrument Stadtplanung oder Haushaltssanierung - beantwortet
+- TOP 4.8: Anfrage des Ratsherrn Krüger: Beanstandung eines Beschlusses der BV 1 - beantwortet
+- TOP 4.9: Anfrage der Ratsfraktion DIE LINKE: Verkauf der EnBW-Anteile an den Stadtwerken Düsseldorf - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Krüger (FW): Zugriffe (Klicks) auf duesseldorf.de - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Raub::Stadtentwicklungskonzept 2025+ - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Leibauer: Jugendfreizeiteinrichtung "Kult 3" Am Quellenbusch (Radeberger Straße - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfraktion von BÜ90/GRÜ: Freies W-Lan - offen für alle? - schriftlich beantwortet
+- TOP 5: Einbringung des Haushaltsplanentwurfes 2014 - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - passieren lassen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Übertragene Ermächtigungen von 2012 nach 2013 - zur Kenntnis genommen
+- TOP 9: Entwurf Jahresabschluss 2012 der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 10: Mühlenstraße 29 - Neukonzeption der Mahn- und Gedenkstätte - Ausführungs- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 11: Am Litzgraben 28a, Friedrich-von-Spee-Schule Städt. Gemeinschaftsgrundschule - Ersatzneubau Schule - - einstimmig beschlossen
+- TOP 12: Sanierung der Ufermauer im Zollhafen - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 13: Erneuerung Brücke Aderkirchweg - einstimmig beschlossen
+- TOP 14: Aufsichtsrat der RheinCargo GmbH & Co.KG - Neuwahl der Arbeitnehmervertreter - - einstimmig beschlossen
+- TOP 15: Beirat der Sana Kliniken Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 16: Bestellung von Vertretern der Stadt für die Mitgliederversammlungen - einstimmig beschlossen
+- TOP 17: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 18: 3. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - zur Kenntnis genommen
+- TOP 19: Düsseldorf ist ARTig/Bericht - einstimmig beschlossen
+- TOP 20: Lokale Agenda 21 in Düsseldorf und - einstimmig beschlossen
+- TOP 21: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anträge
+- TOP 23.1: Antrag Bü90-Grü: Die Graf-Adolf-Straße nach dem Kaufhof – Daten und Rahmenplan Einzelhandel - mehrheitlich abgelehnt
+- TOP 23.2: Antrag der Ratsfraktion FREIE WÄHLER: Werbung auf www.duesseldorf.de - mehrheitlich abgelehnt
+- TOP 23.2.1: ÄA SPD und Bü90-Grü:Schwächung Stadtfinanzen - mehrheitlich abgelehnt
+- TOP 23.3: Antrag der Ratsfraktionen von CDU und FDP: Schwächungspakt Stadtfinanzen - mehrheitlich beschlossen
+- TOP 23.4: Antrag der Ratsfraktion DIE LINKE: Kein Ausverkauf städtischer Grundstücke - mehrheitlich abgelehnt
+- TOP 23.5: Antrag der Ratsfraktion DIE LINKE: Maßnahmen gegen Wohnungsleerstand - mehrheitlich abgelehnt
+- TOP 23.5.1: ÄA SPD: Maßnahmen gegen Wohnungsleerstand - mehrheitlich abgelehnt
+- TOP 23.6: Antrag der Ratsfraktion DIE LINKE: Öffentliche Aufsichtsratssitzungen bei städtischen Tochterunterne - mehrheitlich abgelehnt
+- TOP 23.7: Antrag der Ratsfraktion DIE LINKE: Sanierung der städtischen Wohnungen - mehrheitlich abgelehnt
+- TOP 23.7.1: ÄA SPD: Sanierung der städtischen Wohnungen - mehrheitlich abgelehnt
+- TOP 23.8: Antrag der Ratsfraktion FREIE WÄHLER: Ehrenempfang - mehrheitlich abgelehnt
+- TOP 23.9: Antrag der Ratsfraktion FREIE WÄHLER: "Countdown-Ampeln" für Düsseldorf - mehrheitlich abgelehnt
+- TOP 23.10: Antrag Bü90-Grü: Mehr Ruhe am Flughafen Düsseldorf - mehrheitlich abgelehnt
+- TOP 23.11: Resolution von SPD, BÜ90/GRÜ und FDP: Resolution gegen Homophobie in Russland - mehrheitlich beschlossen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
