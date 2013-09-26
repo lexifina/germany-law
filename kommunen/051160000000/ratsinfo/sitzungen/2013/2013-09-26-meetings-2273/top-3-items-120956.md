@@ -1,0 +1,7 @@
+# TOP 3: Niederschrift
+
+- Sitzung: Rat (2013-09-26)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/120956
+- Ergebnis: Zur Kenntnis genommen
