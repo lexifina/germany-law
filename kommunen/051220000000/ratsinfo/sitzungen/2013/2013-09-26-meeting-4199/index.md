@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-09-26T17:00:00+02:00
+- Ende: 2013-09-26T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUGw5gGBGSP2ixg-SQ4R5FM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4199
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMj4T-vk_JOQJd2TWrcjVGmEBvZLdz9DmXeV7W3-qAb/Oeffentliche_Niederschrift_Rat_26.09.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Resolution "Förderung von Gewerbebrachen unterhalb 5 ha"
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 4: Protokoll über die 28. Sitzung des Rates am 18.07.2013
+- TOP 5: Vorschlag für die En-bloc-Abstimmung
+- TOP 6: Neubenennung von Mitgliedern in die Organe des Wupperverbandes
+- TOP 7: Vertretung der Stadt Solingen im Vorstand des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 8: Übertragung von Ratssitzungen ins Internet
+- TOP 9: Resolution "Förderung von Gewerbebrachen unterhalb 5 ha"
+- TOP 10: Bergische Kooperation der Gesundheitsämter
+- TOP 11: Europäische Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene
+- TOP 12: Neufassung der Satzung für das Jugendamt der Stadt Solingen
+- TOP 13: Neufassung der Satzung für das Jugendamt der Stadt Solingen
+- TOP 14: I. Änderungssatzung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für die städtischen Konzerte
+- TOP 15: I. Änderungssatzung zur Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater
+- TOP 16: Jahresabschluss 2012 der Technischen Betriebe Solingen
+- TOP 17: Jahresabschluss 2012 der Technischen Betriebe Solingen
+- TOP 18: Jahresabschluss 2012 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 19: Jahresabschluss 2012 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 20: Abfallwirtschaftskonzept 2013 - 2017 der Stadt Solingen
+- TOP 21: Aktionsprogramm Nachhaltige Entwicklung in Solingen
+- TOP 22: Bildung für nachhaltige Entwicklung
+- TOP 23: Bauleitplanung Bergstraße/Friedrichstraße
+- TOP 24: Bauleitplanung Friedrich-Ebert-Straße/Heukämpchenstraße
+- TOP 25: Bauleitplanung Neptunstraße/Kamper Straße
+- TOP 26: Bauleitplanung Wiefeldick
+- TOP 27: Bauleitplanung Betriebshof Hermann-Löns-Weg
+- TOP 28: Bauleitplanung Mummstraße
+- TOP 29: Denkmalbereichssatzung Unterburg
+- TOP 30: Denkmalbereichssatzung Unterburg
+- TOP 31: Denkmalbereichssatzung Unterburg
+- TOP 32: Verschiedenes
+- TOP 33: Hilfen für Flüchtlinge und Asylbewerber/innen
+- TOP 34: Beschlüsse zu TOP 23 - Einspruch gemäß § 57 Abs. 4 GO NRW gegen Beschlüsse ... Reduzierung des Pflegestandards beim Straßengrün -, Vorlagen-Nr. 2912
+- TOP 35: Anfrage zum Einspruch gemäß § 57 Abs. 4 Gemeindeordnung NRW gegen den Beschluss des ASUKM vom 06.05.2013 und des FA vom 07.05.2013 zur HSP 197 Reduzierung des Sachaufwands Straßenunterhaltung
+- TOP 36: Entwicklung in der Solinger Automobilzuliefererindustrie
+- TOP 37: Aufgaben und Methoden des Sonderteams beim Jobcenter
+- TOP 38: Über- und außerplanmäßige Aufwendungen und Auszahlungen 2. Quartal im Jahr 2013
+- TOP 39: Resolution des Rates der Stadt Solingen zur Schulsozialarbeit vom 16.05.2013
+- TOP 40: Abfrage sog. "Wahlprüfsteine" bei den hiesigen Bundestagskandidaten - eine Aktion auf Initiative des Aktionsbündnisses "Raus aus den Schulden/Für die Würde unserer Städte"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 28. Sitzung des Rates am 18.07.2013
+- TOP 3: Bauleitplanung Wiefeldick
+- TOP 4: Absicherung von Darlehen durch Bürgschaften an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 5: Kauf der Solarpark Groß Stieten GmbH & Co. KG
+- TOP 6: Kauf der Solarpark Groß Stieten GmbH & Co. KG
+- TOP 7: Kauf der Solarpark Groß Stieten GmbH & Co. KG
+- TOP 8: Verschiedenes
+- TOP 9: Hilfen für Flüchtlinge und Asylbewerber/innen
+- TOP 10: Übertragung von Ratssitzungen ins Internet
