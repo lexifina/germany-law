@@ -1,0 +1,76 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-09-30T14:05:00+02:00
+- Ende: 2013-09-30T14:25:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8159
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8159
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00159962.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00160391.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00160100.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Beschluss über eine offizielle Städtepartnerschaft mit der Stadt Xinxiang in China
+- TOP 1.2: Beschluss über die Aufnahme von Verhandlungen über eine offizielle Städtepartnerschaft mit der Stadt Jekaterinburg in Russland
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Rechtliche Möglichkeiten bei extremistischen Kundgebungen und Demonstrationen auf Wuppertaler Stadtgebiet
+- TOP 2.2: Kosten und Nutzen der Kleinen Höhe
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gem. § 24 GO NRW zur Kastrations- und Kennzeichnungspflicht für freilaufende Katzen - ungeändert beschlossen
+- TOP 3.2: Benennung des Stadtplatzes vor dem Wuppertaler Schauspielhaus in Pina-Bausch-Platz; Bürgerantrag gem. § 24 GO NRW - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Klarstellung der Geschäftsordnung des Rates - Einberufungen von Ausschusssitzungen - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Toiletten in öffentlichen Parkanlagen und Trassen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 6.2: Regelung der Zuständigkeiten für die Annahme von Schenkungen durch die Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2012 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2012 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 8.4: Gesellschaftsvertrag der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 8.5: Neuordnung der Vermögens- und Finanzierungsstruktur der WSW - geändert beschlossen
+- TOP 8.6: Übertragung der Bewirtschaftung der ÖPNV-Pauschale ab 2014 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 8.7: Auflösung der Hotel AG - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: vorhabenbezogener Bebauungsplan 1114/1 V - Baumarkt Lichtscheid - - ungeändert beschlossen
+- TOP 9.2: Vorhabenbezogener Bebauungsplan 1114/2 V - Discounter Lichtscheid - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1173 - Holländische Heide - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 622 A/1 -Friedrich-Engels-Allee- - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1160 - Herzogstraße / Neumarktstraße- - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1182 - Friedrich-Ebert-Straße / Haarhausstraße - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1066 - Engineering Park Wuppertal (GOH-Kaserne) - - ungeändert beschlossen
+- TOP 9.8: 69. Änderung des Flächennutzungsplanes - Sambatrasse - - ungeändert beschlossen
+- TOP 9.9: Erhaltungs- und Gestaltungssatzung -Robert-Koch-Platz - / Liebigstraße - - geändert beschlossen
+- TOP 9.10: Denkmalbereichsatzung für den historischen Ortskern in Wuppertal-Beyenburg.Erneuter Offenlegungsbeschluss - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Fahrbahnerneuerung Hermannstraße - ungeändert beschlossen
+- TOP 10.2: Neubau Remlingrader Brücke - geändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Die Drucksache wurde von der Verwaltung zurückgezogen.
+- TOP 11.2: Ein Wuppertal für Alle - Handlungsprogramm zur Wuppertaler Inklusionspolitik - ungeändert beschlossen
+- TOP 11.2.1: SPD-Antrag zum ‚Handlungskonzept Inklusion‘ - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.2.2: Es ist normal, verschieden zu sein - erledigt durch Beschluss zu einem anderen TOP
+- TOP 11.2.3: Beratung des Handlungsprogramms Inklusion im Integrationsausschuss und im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 11.3: Straßenrechtliche Widmung der Nordbahntrasse im Wuppertaler Stadtgebiet - ungeändert beschlossen
+- TOP 11.4: Übertragung der Sammlungen des Fuhlrott-Museums
+- TOP 11.5: Regionale Klimaanpassungsstrategie im Bergischen Städtedreieck - ungeändert beschlossen
+- TOP 11.6: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.7: Aufgabe und Übertragung von kommunalen Sportstätten - ungeändert beschlossen
+- TOP 11.8: Spielflächenbedarfsplan Wuppertal 2012 - ungeändert beschlossen
+- TOP 11.9: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung im Betriebsausschuss Gebäudemanagement - ungeändert beschlossen
+- TOP 12.2: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.3: Neuberufung der Mitglieder des Gestaltungsbeirats - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzungen des Ausschusses für Kultur - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung - ungeändert beschlossen
