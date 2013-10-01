@@ -1,0 +1,3 @@
+# Gesetz über die Verlängerung des vorläufigen Verzichts auf die Wahl der Landrätin oder des Landrates des Landkreises Osterode am Harz
+
+Der Kreistag des Landkreises Osterode am Harz kann vor dem 1. November 2013 beschließen, den für den vorläufigen Verzicht auf die Wahl der Landrätin oder des Landrates festgelegten Zeitraum bis zum 31. Oktober 2016 zu verlängern. Wird der Beschluss nach Satz 1 aufgehoben, so wird die Landrätin oder der Landrat des Landkreises Osterode am Harz innerhalb von sechs Monaten nach dem Aufhebungsbeschluss gewählt. Die Wahl kann bis zu drei Monate später stattfinden, wenn dadurch die gemeinsame Durchführung mit einer anderen Wahl ermöglicht wird.
