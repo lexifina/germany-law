@@ -1,0 +1,59 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-10-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2787040
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2787040
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Sicherheitsproblematik Einmündung Joergstraße in Gotthardstraße am Laimer Platz
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Errichtung einer Bedarfsampel an der Agnes-Bernauer-Straße im Bereich Laimer Anger / Riegerhofweg bzw. Lutzstraße
+- TOP 2.2.: SPD: Entwicklung eines "Bildungscampus München am Westpark"
+- TOP 2.3.: Bündnis 90 / Die Grünen: Situation Hortplätze / Ganztagesbetreuung an Laimer Schulen
+- TOP 2.4.: CSU: Absolutes Haltverbot auf der Friedenheimer Brücke während der Sperrung der Laimer Röhre in den Herbstferien
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: UA Kultur: Übernahme der Kosten in Höhe von 1.200 Euro für 2 Adventskonzerte auf dem Laimer Anger und 2 Adventskonzert im Alten- und Servicezentrum aus dem BA-Budget / Anteil für Eigenveranstaltungen
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 720,60 Euro für Ausbildungsfahrt der StreitschlichterInnen vom 07.10.-10.10.13; Antragsteller: STÜPS Laim - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 26.08.13: Auswahl der REGSAM-Schwerpunktgebiete ab 2014 (Vertagung aus der BA-Sitzung vom 10.09.13)
+- TOP 4.2.: Schreiben Direktorium vom 29.08.13: Ferienprogramm für Münchner Kinder - Unterstützung des BA Laim (Antrag Nr. 08-14 / B 04809 vom 07.05.13)
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 06.09.13: Fachnerstr. 11; Änderung des Zeitzusatzes des bestehenden Haltverbots
+- TOP 4.4.: Schedelstr. 2: Antrag auf Fällung von 2 Bäumen sowie auf genehmigungspflichtige Baumveränderung an 10 Bäumen
+- TOP 4.5.: Valpichlerstr. 59: Antrag auf Fällung von 1 Spitzahorn
+- TOP 4.6.: Höhnlestr. 46: Antrag auf Fällung von 1 Birke
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 67: Errichtung eines Wirtsgartens auf privatem Grund; hier: Baupläne, Bau- und Betriebsbeschreibung (Vertagung aus der BA-Sitzung am 10.09.13)
+- TOP 5.2.: Mitterhoferstr. 2: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kreisjugendring München-Stadt vom 17.07.13: Stadtteilcheck "Auf Herz und Rampen prüfen" (Vertagung aus der BA-Sitzung vom 10.09.13)
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 10.09.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 04.09.13: Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2020
+- TOP 8.2.: Schreiben Direktorium vom 12.09.13: Budgemittel des BA 25; Ablehnung einer beantragten Zuwendung; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 01.08.13: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Camerloherstr. 90 / Seite Lanzstraße
+- TOP 8.4.: Schreiben Kommunalreferat vom 10.09.13: Jubiläumsstiftung der Münchner Bürgerschaft Alte Heimat, Stiftungsanwesen: Burgkmairstr. 9; Errichtung eines neuen Personenaufzuges; Beschlussfassung über die Genehmigung des Nutzerbedarfprogramms und Projektauftrag durch den Bezirksausschuss 25 Laim
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.09.13: Plananforderung BA 25; Bauvorhaben Von-der-Pfordten-Str. 38
+- TOP 8.6.: Bautenliste vom 02.09.-08.09.13 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) St.-Ulrich-Str. 4
+- TOP 8.7.: Bautenliste vom 09.09.-15.09.13 1. Erstantragsverfahren a) Von-der-Pfordten-Str. 38 b) Mitterhoferstr. 2 c) Landsberger Str. 380
+- TOP 8.8.: Schreiben Stadtwerke München GmbH vom 02.09.13: Baumaßnahmen der Stadtwerke; Stichtag: 02.09.13
+- TOP 8.9.: Schreiben Stadtwerke München GmbH vom 09.09.13: Baumaßnahmen der Stadtwerke; Stichtag: 09.09.13
+- TOP 8.10.: Schreiben Stadtwerke München GmbH vom 16.09.13: Baumaßnahmen der Stadtwerke; Stichtag: 16.09.13
+- TOP 8.11.: Beschluss der Vollversammlung vom 24.07.13: Umsetzung der UN-Behindertenrechtskonvention, Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen, Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention (Sitzungsvorlage Nr. 08-14 / V 12112)
+- TOP 8.12.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 04.09.13: Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2020 (Sitzungsvorlage Nr. 08-14 / V 12724)
+- TOP 8.13.: Beschluss des Bauausschusses vom 24.09.13: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder (Sitzungsvorlage Nr. 08-14 / V 12257)
+- TOP 8.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Baumschutzoffensive I: Umfassende Information über Baumschutz; Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben; Baumschutzoffensive IV: Ökologische Baubegleitung (Sitzungsvorlage Nr. 08-14 / V 12778)
+- TOP 8.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Sitzungsvorlage Nr. 08-14 / V 12850)
+- TOP 8.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Fahrradschnellwege ins Münchner Umland - in die interkommunale Kooperation einsteigen - erste Pilotprojekte beginnen (Sitzungsvorlage Nr. 08-14 / V 12943)
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen (Sitzungsvorlage Nr. 08-14 / V 10157)
+- TOP 8.18.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.04.-30.06.13 (Sitzungsvorlage Nr. 08-14 / V 12957)
+- TOP 8.19.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der LH München (Sitzungsvorlage Nr. 08-14 / V 12544)
+- TOP 1.2: Bürgerpost an den BA
