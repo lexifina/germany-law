@@ -79,74 +79,71 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 118.18 | Für eine örtliche Mängelüberprüfung außerhalb eines Bauabnahmeverfahrens | 12,50
 12 | Öffentliche Sicherheit und Ordnung | 
 120 | Allgemeines Polizeirecht | 
-120.00 | Bestellung zum Hilfspolizeibeamten gem. § 76 Abs. 1 BremPolG | 69
+120.00 | Bestellung zum Hilfspolizeibeamten gem. § 76 Absatz 1 Bremisches Polizeigesetz | 75
  | Anmerkung: | 
- | Die Bestellung ist gebührenfrei, wenn Antragsteller Behörde oder öffentlich-rechtliche Körperschaft ist oder Bestellung von Amts wegen erfolgt. | 
-120.1 | Gestellung von Beamten und Fahrzeugen einschließlich von Wasserfahrzeugen: | 
- | 1. zur Begleitung von Fahrzeugen, soweit die Begleitung auf Grund verkehrsrechtlicher Vorschriften bestimmt worden ist, | 
- | 2. zur Begleitung oder Sicherung von Transporten, wenn durch die Ladung die öffentliche Sicherheit gefährdet werden könnte und dieser Einsatz durch oder auf Grund von Rechtsvorschriften bestimmt worden ist, | 
- | 3. zur Begleitung und Sicherung von Transporten mit wertvollen Ladungen, soweit dieses auf Antrag des Berechtigten geschieht und der Polizeivollzugsdienst nicht von Amts wegen tätig werden muss, | 
- | 4. zur Überwachung von Tätigkeiten, durch die die öffentliche Sicherheit gefährdet werden könnte, für die die polizeiliche Überwachung durch oder auf Grund von Rechtsvorschriften bestimmt worden ist und es sich nicht um solche Tätigkeiten des Veranlassers handelt, die zur Abwehr einer anderweitigen Gefahr notwendig sind, | 
- | 5. zur Begleitung oder Beförderung von Personen, wenn diese sich durch eigenes Verschulden in eine schutzbedürftige Lage versetzt haben und die Begleitung oder Beförderung überwiegend in ihrem Interesse liegt, | 
- | 6. zur Überwachung von Veranstaltungen, soweit die Überwachung durch eine schriftliche Verfügung bestimmt worden ist oder der Berechtigte sie beantragt hat, | 
- | 7. für die Begehung zur Abnahme bei der Polizei aufgeschalteter, neu installierter Überfall- und Einbruchmeldeanlagen; Gebührenschuldner ist das Unternehmen, das die Anlage errichtet hat; | 
-120.10 | für jeden Beamten | Stundensatz nach der Allgemeinen Kostenverordnung Auslagen werden gesondert erhoben
-120.11 | für den Einsatz eines Kraftrades | für jeden angefangenen Km 0,65
-120.12 | für den Einsatz eines Personenkraftwagens | für jeden angefangenen Km 1
-120.13 | für den Einsatz eines Kraftfahrzeuges bis zu 3,5 t zulässiges Gesamtgewicht | für jeden angefangenen Km 1,35
-120.14 | für den Einsatz eines Kraftfahrzeuges über 3,5 t zulässiges Gesamtgewicht | für jeden angefangenen Km 1,90
-120.15 | für den Einsatz eines Küstenbootes | je angefangene Betriebsstunde 215
-120.16 | für den Einsatz eines Streckenbootes | je angefangene Betriebsstunde 100
-120.17 | für den Einsatz eines Hafenbootes | je angefangene Betriebsstunde 55
- | Anmerkung zu 120.10 bis 120.17: | 
- | Bei der Festsetzung der Gebühren werden Hin- und Rückwege zum bzw. vom Einsatzort mitberechnet. Bei angebrochenen Stunden siehe § 5 BremGebBeitrG. | 
-120.19 | für die Begleitung und Sicherung von Landtransporten durch Kraftfahrzeuge innerhalb des jeweiligen Gemeindegebietes | je Kraftfahrzeug 100
-120.20 | Gestellung von Beamten und Fahrzeugen bei Veranstaltungen im Sinne des Versammlungsrechts und bei Veranstaltungen, die gemeinnützigen oder mildtätigen Zwecken dienen, einschließlich sportlichen Veranstaltungen nichtgewerblicher Art | gebührenfrei
-120.21 | Reinigungspauschale bei Verunreinigung eines Einsatzfahrzeuges durch eine beförderte Person oder bei Verunreinigung einer Gewahrsamszelle durch eine untergebrachte Person | 35
-120.22 | Pauschale für die Verbringung eines verunreinigten Fahrzeuges zur Reinigung | 35
- | Anmerkung zu 120.21 und 120.22: | 
- | Die Erhebung besonderer Auslagen nach 120.61 bleibt unberührt. | 
+ | Die Bestellung ist gebührenfrei, wenn der Antragsteller eine Behörde oder öffentlich-rechtliche Körperschaft ist oder die Bestellung von Amts wegen erfolgt. | 
+120.1 | Gestellung von Beamten und Fahrzeugen einschließlich von Wasserfahrzeugen | 
+ | zur Begleitung von Fahrzeugen, soweit eine Begleitung aufgrund verkehrsrechtlicher Vorschriften bestimmt worden ist (z.B. Schwerlasttransporte), | 148 bis 270
+ | zur Begleitung oder Sicherung von Transporten, wenn durch die Ladung die öffentliche Sicherheit gefährdet werden könnte und dieser Einsatz durch oder aufgrund von Rechtsvorschriften bestimmt worden ist, | 148 bis 270
+ | zur Begleitung oder Beförderung von Personen, wenn diese sich durch eigenes Handeln in eine schutzbedürftige Lage versetzt haben und die Begleitung oder Beförderung überwiegend in ihrem Interesse liegt, oder sie in den Fällen der Nummer 120.30 Nummer 1 bis 3 im Polizeigewahrsam untergebracht werden sollen | Die Abrechnung erfolgt nach tatsächlichem Aufwand
+ | bei Ruhestörungen oder Streitigkeiten, soweit das wiederholte Einschreiten in der gleichen Angelegenheit erforderlich ist | Die Abrechnung erfolgt nach tatsächlichem Aufwand
+ | für die Begehung zur Abnahme bei der Polizei aufgeschalteter, neu installierter Überfall- und Einbruch-Meldeanlagen | Die Abrechnung erfolgt nach tatsächlichem Aufwand
+ | bei der Suche nach einer als vermisst gemeldeten Person ab dem Zeitpunkt ihrer Rückkehr oder ihres Auffindens, wenn dieses der Polizei nicht oder nicht rechtzeitig mitgeteilt wird | Die Abrechnung erfolgt nach tatsächlichem Aufwand, Auslagen werden gesondert erhoben
+ | zur kurzfristigen Bewachung von Gebäuden, Grundstücken, Wohnwagen oder Fahrzeugen zum Zweck der Eigentumssicherung wegen nicht verschlossener Türen und Fenster | Die Abrechnung erfolgt nach tatsächlichem Aufwand
+ | bei verkehrslenkenden Maßnahmen, soweit sie nicht im Zusammenhang mit einer Unfallaufnahme stehen, soweit nicht fahrbereite Fahrzeuge, Fahrzeugteile oder Ladung den Verkehr behindern oder gefährden | Die Abrechnung erfolgt nach tatsächlichem Aufwand, Auslagen werden gesondert erhoben
+ | Anmerkung zu Nr. 5: | 
+ | Gebührenschuldner ist das Unternehmen, das die Anlage errichtet hat | 
+120.10 | für jeden Beamten | Stundensatz nach der Allgemeinen Kostenverordnung, Auslagen werden gesondert erhoben
+120.11 | für den Einsatz eines Kraftrades | für jeden angefangenen Kilometer 1,60
+120.12 | für den Einsatz eines Personenkraftwagens | für jeden angefangenen Kilometer 2,10
+120.13 | für den Einsatz eines Kraftfahrzeuges bis zu 3,5 t zulässiges Gesamtgewicht | für jeden angefangenen Kilometer 2,40
+120.14 | für den Einsatz eines Kraftfahrzeuges über 3,5 t zulässiges Gesamtgewicht | für jeden angefangenen Kilometer 3,40
+120.15 | für den Einsatz eines Streckenbootes | je angefangene Betriebsstunde 212
+120.16 | für den Einsatz eines Hafen- oder Schlauchbootes | Je angefangene Betriebsstunde 96
+ | Anmerkung zu 120.10 bis 120.16: | 
+ | Bei der Festsetzung der Gebühren werden Wege zum oder vom Einsatzort mitberechnet. Bei angebrochenen Stunden siehe § 5 Bremisches Gebühren- und Beitragsgesetz | 
+120.20 | Reinigungspauschale bei Verunreinigungen eines Einsatzfahrzeuges durch eine beförderte Person oder bei Verunreinigung einer Gewahrsamszelle durch eine untergebrachte Person | 36
+120.21 | Pauschale für die Zeit der Verbringung eines verunreinigten Fahrzeugs zur Fahrzeugreinigung | 35
 120.3 | Unterbringung von Personen im Polizeigewahrsam | 
-120.30 | Unterbringung von Personen in einem Polizeigewahrsam, soweit die Unterbringung auf Antrag oder auf Grund gesetzlicher Ermächtigung im überwiegenden Interesse des Betroffenen oder zum Schutz eines Dritten vorgenommen wird. | für jede angefangenen 24 Stunden 36,55 Auslagen werden gesondert erhoben
- | Anmerkung zu 120.30: | 
- | Außer der Gebühr nach 120.30 sind die Arztkosten für die Haftfähigkeitsuntersuchung zu erstatten. | 
-120.31 | Aufwendungen bei der Unterbringung in einem Polizeigewahrsam durch Gestellung von Bettwäsche, einer Morgenmahlzeit, eines Mittagessens, eines Abendessens | Erstattung in Höhe der der Polizei tatsächlich entstandenen Aufwendungen besondere Auslagen werden gesondert erhoben
+120.30 | Unterbringung von Personen in einem Polizeigewahrsam, soweit die Unterbringung | für jede angefangenen 24 Stunden 36,55 - Die Aufwendungen der Unterbringung sind nach 120.31 zu erheben
+ | im überwiegenden Interesse des Betroffenen aufgrund der Einwirkung berauschender Mittel angeordnet wird | 
+ | unerlässlich zur Verhinderung oder Beseitigung einer gegenwärtigen Gefahr für die öffentliche Sicherheit ist | 
+ | zur Durchsetzung einer Platz- oder Wohnungsverweisung oder eines Rückkehrverbots erfolgt | 
  | Anmerkung: | 
- | Diese Aufwendungen sind auch dann zu erstatten, wenn die Unterbringung gebührenfrei ist. | 
+ | Außer der Gebühr nach 120.30 sind die Arztkosten für die Haftfähigkeitsuntersuchung zu erstatten. | 
+120.31 | Aufwendungen bei der Unterbringung in einem Polizeigewahrsam (Gestellung von Bettwäsche, einer Morgenmahlzeit, eines Mittag- und Abendessens) | Die Abrechnung erfolgt nach tatsächlichem Aufwand, Auslagen werden gesondert erhoben
+ | Anmerkung: | 
+ | Die Aufwendungen sind auch dann zu erstatten, wenn die Unterbringung gebührenfrei ist | 
 120.4 | Für das Tätigwerden beim Abschleppen und Befördern von Fahrzeugen und Anhängern | 
 120.40 | für jeden Bediensteten | Stundensatz nach der Allgemeinen Kostenverordnung
-120.41 | für den Einsatz eines Kraftfahrzeuges beim Abschleppen oder Befördern | für jeden angefangenen km die Sätze nach 120.12 bis 120.14
-120.42 | für den Einsatz von Wasserfahrzeugen der Wasserschutzpolizei | für jede angefangene Betriebsstunde die Sätze nach 120.15 bis 120.17
- | Anmerkungen zu 120.4 bis 120.42: | 
- | a) | Bei der Festsetzung der Gebühren werden Hin- und Rückwege zum bzw. vom Einsatzort mitberechnet. Bei angebrochenen Stunden siehe § 5 BremGebBeitrG.
- | b) | Werden Fahrzeuge im Wege der Ersatzvornahme abgeschleppt oder befördert, so sind die der Polizei entstandenen notwendigen Kosten ausschließlich nach den §§ 15 und 19 des BremVwVG zu erstatten.
-120.5 | Aufbewahren von Fahrzeugen auf Grund eines Antrages oder im überwiegenden Interesse eines einzelnen oder nach Beendigung einer gesetzlich zulässigen Besitzentziehungsmaßnahme (z.B. Sicherstellung, Beschlagnahme) je angefangenen Kalendertag für | 
-120.50 | ein Fahrrad (mit oder ohne Hilfsmotor) | 0,60
-120.51 | ein Kraftrad ohne Beiwagen | 1,10
-120.52 | ein Kraftrad mit Beiwagen, einen Anhänger oder ein Pferdefuhrwerk | 1,40
-120.53 | einen Personenkraftwagen oder ein Kombifahrzeug | 2,50
-120.54 | einen Lastkraftwagen oder Omnibus | 4,50
-120.55 | ein Wasserfahrzeug | 3,20
-120.56 | ein Fahrzeugteil oder Ähnliches bei einer Abstellfläche bis 4 qm | 1,40
-120.57 | ein Fahrzeugteil oder Ähnliches bei einer Abstellfläche über 4 qm | 2,50
+120.41 | für den Einsatz eines Kraftfahrzeuges beim Abschleppen oder Befördern | für jeden angefangenen Kilometer die Sätze nach 120.12 bis 120.14
+120.42 | für den Einsatz von Wasserfahrzeugen der Wasserschutzpolizei | für jede angefangene Betriebsstunde die Sätze nach 120.15 und 120.16
+ | Anmerkung zu 120.4 bis 120.42: | 
+ | Bei der Festsetzung der Gebühren werden Wege zum oder vom Einsatzort mitberechnet. Bei angebrochenen Stunden siehe § 5 Bremisches Gebühren- und Beitragsgesetz | 
+ | Werden Fahrzeuge im Wege der Ersatzvornahme abgeschleppt oder befördert, so sind die der Polizei entstandenen notwendigen Kosten ausschließlich nach den §§ 15 und 19 Bremisches Verwaltungsvollstreckungsgesetz zu erstatten. | 
+120.5 | Aufbewahren eines Fahrzeuges aufgrund eines Antrages oder im überwiegenden Interesse eines Einzelnen oder nach Beendigung einer gesetzlich zulässigen Entziehung des Besitzes (z.B. Sicherstellung, Beschlagnahme) je angefangenen Kalendertag für | 
+120.50 | ein Fahrrad (mit oder ohne Hilfsmotor) | 1,00
+120.51 | ein Kraftrad ohne Beiwagen | 1,50
+120.52 | ein Kraftrad mit Beiwagen oder ein Anhänger | 1,70
+120.53 | einen Personenkraftwagen oder ein Kombifahrzeug | 3,50
+120.54 | einen Lastkraftwagen oder Omnibus | 6,00
+120.55 | ein Wasserfahrzeug | 4,00
+120.56 | ein Fahrzeugteil oder Ähnliches bei einer Abstellfläche bis 4 qm | 1,70
+120.57 | ein Fahrzeugteil oder Ähnliches bei einer Abstellfläche über 4 Quadratmeter | 3,50
  | Anmerkung zu 120.50 bis 120.57: | 
- | Werden Fahrzeuge durch Privatfirmen oder andere Behörden abgestellt, so sind die der Polizei entstandenen Kosten zu erstatten. | 
-120.60 | Maßnahmen des Polizeivollzugsdienstes im Rahmen der Vollzugs- oder Amtshilfe, sofern das Tätigwerden des Polizeivollzugsdienstes durch Nichterfüllung eines dem Betroffenen durch die ersuchenden Stellen aufgegebenen Verlangens oder sonst durch das Verhalten des Betroffenen veranlasst wird und sofern es sich nicht um Maßnahmen im Zusammenhang mit der Strafvollstreckung handelt | 16 bis 84
+ | Werden Fahrzeuge durch Firmen oder andere Behörden abgestellt, so sind die der Polizei entstandenen Kosten zu erstatten. | 
+120.58 | Unberechtigtes Anfordern von Beamten oder Fahrzeugen oder Beschädigung oder Verunreinigung der Einrichtungen oder Fahrzeuge der Polizei | Erstattung der Aufwendungen nach Maßgabe der Nummern 120.10 bis 120.16 oder falls dies nicht möglich ist, in Höhe der tatsächlichen Aufwendungen
  | Anmerkung: | 
- | Gebührenschuldner ist derjenige, gegen den sich die Maßnahme richtet (Betroffener). | 
-120.61 | Unberechtigtes Anfordern von Beamten oder Fahrzeugen oder Beschädigung oder Verunreinigung der Einrichtungen oder Fahrzeuge der Polizei | Erstattung der Aufwendungen nach Maßgabe 120.10 bis 120.60 oder, falls dies nicht möglich ist, in Höhe der tatsächlichen Aufwendungen. Besondere Auslagen werden gesondert erhoben.
+ | Als unberechtigtes Anfordern gilt auch die missbräuchliche Alarmierung oder das Vortäuschen einer Gefahrenlage oder Straftat | 
+120.59 | Einsatz der Polizei nach Alarmierung aufgrund des Fehlalarms einer Überfall- und Einbruchmeldeanlage | Je Fehlalarm pauschal zwei Stundensätze nach Nummer 103.00 der Allgemeinen Kostenverordnung (Laufbahngruppe II, erstes Einstiegsamt) zuzüglich 16 Kilometer nach Nummer 120.12
  | Anmerkung: | 
- | Als unberechtigtes Anfordern gilt auch die missbräuchliche Alarmierung oder das Vortäuschen einer Gefahrenlage oder einer Straftat. | 
-120.62 | Einsatz der Polizei nach Alarmierung auf Grund des Fehlalarms einer Überfall- und Einbruchmeldeanlage | Je Fehlalarm pauschal zwei Stundensätze nach der Allgemeinen Kostenverordnung zuzüglich 16 km nach 120.12. Besondere Auslagen werden gesondert erhoben
- | Anmerkung: | 
- | Als Fehlalarm einer Überfall- und Einbruchmeldeanlage gilt ein Alarm, der nicht durch einen Einbruch oder Einbruchversuch ausgelöst wurde. | 
+ | Als Fehlalarm einer Überfall- und Einbruchmeldeanlage gilt ein Alarm, der nicht durch einen Einbruch oder Einbruchsversuch ausgelöst wurde. | 
  | Gebührenschuldner ist | 
- | - | bei Anlagen, die an eine Alarmzentrale angeschlossen sind, das Unternehmen, das die Alarmzentrale betreibt,
- | - | bei Anlagen, die nicht an eine Alarmzentrale angeschlossen sind, der Anlagenbesitzer,
- | - | bei kombinierten Anlagen das Unternehmen, das die Alarmzentrale betreibt, wenn durch sie zuerst die Polizei benachrichtigt wurde, in den übrigen Fällen der Anlagenbesitzer.
-120.63 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in dieser Kostenverordnung oder der Allgemeinen Kostenverordnung nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 BremGebBeitrG nicht vorgeschrieben ist | gebührenfrei
-120.64 | Überlassung von Absperrgittern (Druckgittern) an natürliche Personen oder sonstige private Veranstalter oder Einrichtungen (je Druckgitter und angefangene 24 Stunden) | 5
-120.70 | Schriftliche Verbote und Gebote nach dem Brem.Polizeigesetz | 58 bis 1 150
+ | bei Anlagen, die an eine Alarmzentrale angeschlossen sind, das Unternehmen, das die Alarmzentrale betreibt, | 
+ | bei kombinierten Anlagen das Unternehmen, das die Alarmzentrale betreibt, wenn durch sie zuerst die Polizei benachrichtigt wurde | 
+ | in den übrigen Fällen der Anlagenbesitzer | 
+120.60 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in dieser Kostenverordnung oder der Allgemeinen Kostenverordnung nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 Bremisches Gebühren- und Beitragsgesetz nicht vorgeschrieben ist | Gebührenfrei
+120.61 | Schriftliche Verbote und Gebote nach dem Bremischen Polizeigesetz | 63 bis 1 255
 121 | Melde- und Ausweiswesen | 
 121.00 | Einfache Melderegisterauskunft nach § 32 Abs. 1 Meldegesetz | je Einwohner 6
 121.01 | Erweiterte Melderegisterauskunft nach § 32 Abs. 2 Meldegesetz | je Einwohner 10
