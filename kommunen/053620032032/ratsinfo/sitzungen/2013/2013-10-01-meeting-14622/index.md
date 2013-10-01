@@ -1,0 +1,59 @@
+# Ausschuss für Stadtplanung und Verkehr (26. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-10-01T17:00:00+02:00
+- Ende: 2013-10-01T19:50:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWdDon3uF4KTQlOXqEW3Wws
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14622
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQBKDm2Is4tZT4qnH3jMewxrD4R2em2hFETMzTP3FIvI/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_01.10.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 25. Sitzung vom 02. Juli 2013
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Äußere Erschließung, Fertigstellung des umgebenden Fuß- und Radwegenetzes, Vortrag RWE
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Verfahrensstand zu den Planungen eines Autohofes in der Höhe von Kerpen-Geilrath
+- TOP 4.2: Verkauf des ehemaligen Hallenbadgrundstücks im Stadtteil Sindorf; Vorstellung eines Auswahlverfahrens
+- TOP 4.3: Nahversorgung in den Stadtteilen Türnich, Balkhausen und Brüggen
+- TOP 4.4: BP SI 254 "Nördlich Heppendorfer Str.", Stadtteil Sindorf - Investorenauswahlverfahren barrierefreie Wohnform
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.2: Bebauungsplan KE 353 "Nördlicher Rad/Gehweg K17", Stadtteil Kerpen hier: Aufstellungsbeschluss gem § 2 (1) BauGB
+- TOP 5.3: Bebauungsplan KE 354 "Südlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan KE Nr. 344, 1. Änderung "Stiftsstraße" im Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.5: Vorhabenbezogener Bebauungsplan KE 263 A "Westliche Teilfläche Hubertusbusch" im Stadtteil Kerpen hier: Einleitungsbeschluss gem. § 12 (2) BauGB und Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.6: Vorhabenbezogener Bebauungsplan KE Nr. 263 A "Westl. Teilbereich Hubertusbusch"; hier: Abschluss eines Verpflichtungsvertrages
+- TOP 5.7: Beschluss zur Feststellung der endgültig fertig gestellten Teilfläche der Erschließungs-anlage "Vinzenzstraße" beginnend von der Schulstraße bis zur Parzelle 446 im Stadtteil Kerpen hier: Beratung über die eingegangenen Stellungnahmen der Öffentlichkeit sowie der Behörden und Trager öffentlicher Belange
+- TOP 5.8: Weitere Zufahrt zum Wohnviertel "Auf dem Vorst" im Stadtteil Kerpen
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Aufgaben des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit
+- TOP 6.2: Planungsinitiative Kölner Straße mit Bürgerbeteiligung
+- TOP 6.3: Ausrüstung von Verkehrs-Lichtsignalanlagen (LSA) mit Sensoren für Busbeschleunigung
+- TOP 6.4: Regionaltangente Rhein-Erft/ Köln-West; Informationstermin am 23.07.2013 im Kreishaus Bergheim
+- TOP 6.5: Radwegeerschließung zum Langenicher Einkaufszentrum
+- TOP 6.6: Niederschrift der 9. Sitzung des AK ÖPNV vom 10.09.2013
+- TOP 6.7: Schulweg zur Europaschule - Gymnasium - der Stadt Kerpen ab Manheim-neu
+- TOP 7.: Mitteilungen
+- TOP 7.1: Bericht aus dem Aufsichtsrat der REVG
+- TOP 7.2: Sachstandsbericht der Verwaltung zum Projekt „Waldweg“
+- TOP 7.3: Landesentwicklungsplan 2025
+- TOP 7.4: Schredderanlage im Stadtteil Horrem/Neu-Bottenbroich hier: Sachstandsbericht
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Verkehrssituation im Wohngebiet Vogelrutherfeld im Stadtteil Sindorf
+- TOP 8.2: Ausweisung von Vorrangflächen für Windkraftanlagen
+- TOP 8.3: Umbau der Hahnenstraße in Kerpen
+- TOP 8.4: Fertigstellung Radweg entlang der K39 - B477-neu
+- TOP 8.5: Sachstand Neue Mitte Sindorf
+- TOP 8.6: Planfeststellungsverfahren Hochspannungsleitung zwischen Bergerhausenudn Mönchskaul hier: Abstimmung der Stellungnahme
+- TOP 8.7: Grundstück ehemaliger Kindergarten Platanenallee im Stadtteil Türnich hier: Sachstand
+- TOP II.: Nichtöffentlicher Teil
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Parkplatzsituation an der Kommandeursburg im Stadtteil Blatzheim
