@@ -1,0 +1,59 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2013-10-01T17:30:00+02:00
+- Ende: 2013-10-01T21:34:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYBnd7aSLqEpRCidLmqwEwM
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/898
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdbz7oqMHwvxQjB1xIQLKlJGGGTeCjQGuQcptCO8ojXc/Oeffentliche_Niederschrift_Rat_01.10.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 25.06.2013
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Verweisungsbeschluss Überquerungshilfe Osnabrücker Straße/ EDEKA
+- TOP 3.2: Partnerschaftsbesuch aus der Partnergemeinde Stawiguda/ Stabigotten
+- TOP -: Liegenschaften
+- TOP 5.4: Projekt Arkaden-Center; öffentliche Darstellung und Erörterung der Sach- und Rechtslage
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 1. Änderung der Satzung der Gemeinde Wallenhorst über die Entschädigung der Ratsfrauen und Ratsherren sowie der sonstigen Ausschussmitglieder hier: § 8 Kommunalpolitische Bildungsarbeit (Fraktionszuwendungen) - zurückverwiesen, mit 33 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Sanierung der Bushaltestelle Schulzentrum Wallenhorst; hier: Antrag der CDU-Fraktion - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Personalgestellungsvertrag zwischen Gemeinde und Gemeindewerke GmbH - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 5.3: Beschluss über den Wirtschaftsplan der Gemeindewerke Wallenhorst GmbH für 2014 - mehrheitlich mit 20 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.: Kindertagesstätten
+- TOP 6.1: Änderung des Beitragsmodells für den Besuch einer Kindertagesstätte mit Beginn des Kindergartenjahres 2014/2015 - mehrheitlich mit 32 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 7.: Bauleitpläne
+- TOP 7.1: Bebauungsplan Nr. 256 "Alte Straßenmeisterei" hier: Entwurfsbeschluss und Beschluss über die Beteiligung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) und § 4 Abs. 2 BauGB in Verbindung mit § 13 a Abs. 2 BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Bebauungsplan Nr. 248 „Große Straße / Franksmannstraße“ hier: Entwurfsbeschluss und Beschluss über die Beteiligung gem. § 3 (2) BauGB und § 4 (2) BauGB in Verbindung mit § 13 a (2) BauGB - mehrheitlich mit 19 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 7.3: 43. Änderung des Flächennutzungsplanes und Bebauungsplan Nr. 241 „Westlich und nördlich Schwarzer See" hier: Erweiterung des Geltungsbereiches Beschluss des Vorentwurfes zur 43. Änderung des Flächennutzungsplanes und zum Bebauungsplan Nr. 241 „Westlich und nördlich Schwarzer See“ Beschluss zum frühzeitigen Beteiligungsverfahren gem. § 3 (1) und § 4 (1) Baugesetz- buch (BauGB) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.4: 1. Änderung des Bebauungsplanes Nr. 193 "Hof Im Hagen" hier: Aufstellungsbeschluss gem. § 2 (1) Baugesetzbuch (BauGB) Entwurfsbeschluss und Beschluss zu den Beteiligungsverfahren gem. § 3 (2) und § 4 (2) BauGB in Verbindung mit § 13 (2) BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.5: Neuaufstellung des Flächennutzungsplanes (FNP) hier: Beschluss zum Vorentwurf des FNP Beschluss zu den frühzeitigen Beteiligungsverfahren gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und § 4 Abs. 1 BauGB - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 8.: Straßenbau
+- TOP 8.1: Bau eines Radweges an der "Osnabrücker Straße" zwischen ´Rheinstraße´ und ´Zum Gruthügel´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Bau eines Kreisverkehrsplatzes im Bereich der Kreuzung „Große Straße/Boerskamp/Lechtinger Kirchweg/Ruller Straße“ - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 9.: Umwelt- und Energieangelegenheiten
+- TOP 9.1: Erstellung eines Konzeptes zur Errichtung einer Kraft-Wärme-Kopplung für die 21 gemeindeeigenen Gebäude und 8 Kindertagesstätten hier: Vorstellung der Ergebnisse - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Erstellung eines Konzeptes zur Errichtung einer Kraft-Wärme-Kopplung für die 21 gemeindeeigenen Gebäude und 8 Kindertagesstätten. hier: weitere strategische Vorgehensweise zur Umsetzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Beteiligung im Rahmen der Teilfortschreibung des Regionalen Raumordnungsprogramms 2004 (RROP) für den Landkreis Osnabrück - Teilbereich "Energie 2013", 2. Entwurf hier: Zustimmung zur Stellungnahme der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Umgestaltung der Randbereiche der ´Hollager Straße´ hier: Angepasste Entwurfsplanung zur Platzgestaltung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Satzung über die Änderung der Sanierungssatzung der Gemeinde Wallenhorst in der Fassung vom 10.11.2008 über die förmliche Festlegung des Sanierungsgebietes "Wallenhorst-Zentrum" hier: Einbeziehung des ´Drosselweges´ in das Sanierungsgebiet „Wallenhorst-Zentrum“ - mehrheitlich mit 19 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.3: Antrag der Kooperationspartner SPD - Bündnis 90/Die Grünen - Wallenhorster Wählergemeinschaft vom 9.9.2013 zum Ausbau des Radwegenetzes. - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kämmereiangelegenheiten
+- TOP 11.1: Haushaltswirtschaft für das Jahr 2014 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2014
+- TOP 11.2: Zustimmung zu einem überplanmäßigen Aufwand / Auszahlung für die Dachsanierungsmaßnahme "Turnhalle Lechtingen" im Deckungskreis "Unterhaltung und Bewirtschaftung" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Genehmigung zur Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Ausdrucke zu Ergebnissen der Bundestagswahl
+- TOP 12.2: Ergänzungsvorschläge zur Neuaufstellung des Flächennutzungsplanes
+- TOP 12.3: 50jährige Tätigkeit als Ratsmitglied
+- TOP 12.4: Gräber auf dem alten Friedhof in Hollage
+- TOP 12.5: Behindertengerechter Ausbau der Großen Straße
+- TOP 12.6: Absetzen von Tagesordnungspunkten
