@@ -1,0 +1,84 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-10-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2775188
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2775188
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung des Bauvorhabens Lipowskystr. 15
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 3.2.: Mobile Einstiegstreppe im Südbad
+- TOP 3.3.: Umsetzung der UN-Behindertenrechtskonvention
+- TOP 3.4.: Sozialbürgerhaus Sendling - Westpark
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Wassereinbruch in der Implerschule - Oberflächenanpassung
+- TOP 4.2.: Treffen mit dem Referat für Bildung und Sport am 16.10.2013, 16:00 Uhr
+- TOP 6.1.: Errichtung von Zeitungsentnahmegeräten an der Pfeuferstr. 33
+- TOP 6.2.: Beantragte Aufstellung von Zeitungsentnahmegeräten am Harras und am Herzog-Ernst-Pl.
+- TOP 6.3.: Fahrradweglückenschluss in der Plinganserstr. zwischen Harras und Lindwurmstr.
+- TOP 6.4.: Christkindlmarkt und Wochenmarkt Am Harras - Christbaumverkauf
+- TOP 6.5.: Kombinationsparkregelung in der Plinganserstr. zwischen Lindenschmit- und Lindwurmstr.
+- TOP 6.6.: Gefährdung der Fußgänger durch Befahren der Fußgängerbereiche Am Harras mit KFZ
+- TOP 6.7.: Zufahrt zum Wertstoffcontainerstandort in der Ludwig-Krafft-Str.
+- TOP 6.8.: Baustelleneinrichtungsfläche in der Kidlerstr. 38
+- TOP 6.9.: Stellplätze für STATTAUTO auf dem MK6-Gelände Radlkofer- / Hans-Klein-Str.
+- TOP 6.10.: Realisierung einer Anwohnerparkgarage im Zusammenhang mit der Errichtung der Seniorenwohnanlage Meindlstr. 8 - 16
+- TOP 6.11.: Geschwindigkeitskontrollen in der Meindlstr.
+- TOP 6.12.: Leistungsprogramm der MVG 2014
+- TOP 6.13.: Versammlung "Klassenkampf statt Weltkrieg" Am Harras am 18.09.2013
+- TOP 6.14.: Schaffung einer Seniorenwohnanlage auf dem Anwesen Meindlstr. 8-16 Realisierung einer Anwohnertiefgarage
+- TOP 6.15.: Fahrradweg - Lückenschluss in der Plinganserstraße zwischen Harras und Lindwurmstraße
+- TOP 7.1.: Budgetantrag des EB Grundschule Implerstr; Sanierung der Schulhofmauer
+- TOP 7.2.: Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegen- stände hin zu einem passwortgeschützten Downloadverfahren
+- TOP 7.3.: Einbindung der Bezirksausschüsse bei stadtteilbezogenen Eröffnungsfeiern
+- TOP 7.4.: Einladung zur Informationsveranstaltung zur Einreichung und Aufstellung der Wahlvorschläge am 16.10.2013, 16.00 Uhr
+- TOP 7.5.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020
+- TOP 7.6.: Einladung der Fachstelle gegen Rechtsextremismus am 23.09.2013 zum Thema "Dialog der Religionen im Zusammenhang mit rechtspopulistischen Äußerungen"
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lindwurmstr. 191
+- TOP 8.3.: Bauvorhaben Flößergasse 4 - 6
+- TOP 8.4.: Bauvorhaben Aberlestr. 14
+- TOP 8.5.: Bauvorhaben Schäftlarnstr. 94
+- TOP 8.6.: Bauvorhaben Senserstr. 14 - Zurückziehung
+- TOP 8.7.: Bauvorhaben Karwendelstr. 24 - Vorbescheid
+- TOP 8.8.: Ankauf und stadtgestalterische Aufwertung des Neuhofener Platzes; Schaffung einer Unterquerung der Bahnlinie am Südende des S-Bahnhofes Mittersendling; Aufnahme des städt. Grundstücks Fl.Nr. 9314 in den Umgriff des Gestaltungswettbewerbs für das Bauvorhaben Fallstr. 34
+- TOP 8.9.: Fortschreibung des Zentrenkonzeptes
+- TOP 8.10.: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr
+- TOP 8.11.: Fahrradschnellwege ins Münchner Umland
+- TOP 8.12.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München
+- TOP 8.13.: Beschlussvollzugskontrolle
+- TOP 9: Baureferat
+- TOP 9.1.: Bürgerschreiben zum Harras
+- TOP 9.2.: Verdreckte Bahnunterführung an der Bavariastraße
+- TOP 9.3.: Straßenbauarbeiten in der Schaftlachstr. zwischen Urbanstr. und Dietramszeller Str.
+- TOP 9.4.: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Sylvensteinestr. 4 - 10
+- TOP 10.2.: Baumfällung Ganghoferstr. 76 und 76a
+- TOP 10.3.: Baumfällung Josef-Lutz-Weg 2
+- TOP 10.4.: Fällungsfreigabe Aberlestr. 3
+- TOP 10.5.: Umfassende Information über Baumschutz / Besserer Baumschutz bei Bauvorhaben / Ökologische Baubegleitung
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Wertstoffcontainerstandort im Umfeld der Meindlstr. - Einrichtung von Unterflurcontainern
+- TOP 13.2.: 175 Jahre Flaucher und Stadtgartendirektion
+- TOP 13.4.: Leserbrief anlässlich des Textes für das Straßennamenerläuterungsschild des Resi-Huber-Platzes
+- TOP 13.3.: Grün-, Erholungs- und Freizeitnutzung des Ensembles Theresienwiese mit Bavariapark; Wiederherstellung des Gleichgewichts der kommerziellen mit der nichtkommerziellen Nutzung der Theresienwiese
+- TOP 13.5.: WLAN-Zugang in den Veranstaltungsräumen des Direktoriums im Alten und Neuen Rathaus
+- TOP 13.6.: Falsch gestellte Wahlplakatständer in Sendling
+- TOP 13.7.: Münchens Stadtteilkultur stärken
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
