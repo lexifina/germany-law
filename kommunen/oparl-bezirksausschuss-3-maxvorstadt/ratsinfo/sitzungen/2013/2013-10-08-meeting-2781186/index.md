@@ -1,0 +1,109 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2781186
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2781186
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 20.09.2013 Betriebsbeginn der Straßenbahnlinie 28 bereits vor 09.00 Uhr (s. TOP C 2.1.3)
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 08.09.2013 Bedarfsampel für die Kreuzung Görresstraße/Ecke Zentnerstraße (s. TOP C 2.1.4)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 35., 36., 37., KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 34., 35., 36., 37., 38. KW
+- TOP 2.1.3.: Denisstraße 5, Bebauungsvorschlag für die neue Nutzung der Grundstücke an der Denis- straße/Karlstraße (Denisstraße 5/Karlstraße 77+79) ? Vorbescheid
+- TOP 2.1.4.: Schleißheimer Straße 16, Neubau eines Wohn- und Geschäftshauses ? Vorbescheid
+- TOP 2.1.5.: Linprunstraße 10, Nutzungsänderung und Umbau von Gewerbeflächen zu Wohnungen
+- TOP 2.1.6.: Brienner Straße 14, Umbau und Erweiterung eines Büro- und Geschäftshauses (BA I / VGB + BA II / RGB)
+- TOP 2.1.7.: Georgenstraße 85, Modernisierung, Erweiterung und DG-Umbau
+- TOP 2.1.8.: Augustenstraße 33 a, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein ?Boardinghaus? mit Tiefgarage sowie Neubau eines Rückgebäudes
+- TOP 2.1.9.: Schellingstraße 127, Neubau Rückgebäude mit Pensionsnutzung
+- TOP 2.1.10.: Nordendstraße 17, DG-Ausbau und Aufstockung Vordergebäude, DG-Ausbau und Aufzugs- anbau Seitengebäude, Balkonanbau Vorder- und Seitengebäude, Nutzungsänderung zweier Garagen zu Wohnflächen
+- TOP 2.1.11.: Georgenstraße 79, Nutzungsänderung und Dachstuhlausbau eines Mehrfamilienhauses
+- TOP 2.1.12.: Erlass von Erhaltungssatzungen, u.a. Erhaltungssatzung ?St.-Benno-Viertel? Anhörung zum Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Türkenstraße 92, Neubau eines Mehrfamilien- und eines Stadthauses mit Tiefgarage so- wie Anbau eines Außenaufzugs und von Balkonen an das Bestandsgebäude
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Amalienstraße 46, eine Weide
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Referat für Arbeit und Wirtschaft, Baureferat Tiefbau und Kreisverwaltungsreferat Beschlenigung der Buslinie 154 (inkl. Abschnittsweise 54, 153 und 184) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigungen 3. Änderung des Entwurfes desMehrjahresinvestitionsprogrammes 2013 ? 2017 Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschusses am 15.10.2013 Sitzungsvorlage Nr. 08-14 / V 12967
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Austausch von Lichtzeichenanlagen vertagt aus der Sitzung vom 10.09.2013 Unterlagen liegen bereits vor
+- TOP 2.1.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 20.09.2013 Betriebsbeginn der Straßenbahnlinie 28 bereits vor 09.00 Uhr (S. TOP A 5.2.1)
+- TOP 2.1.4.: Schreiben eines Bürgers aus der Maxvorstadt vom 08.09.2013 Bedarfsampel für die Kreuzung Görresstraße/Ecke Zentnerstraße (s. TOP A 5.2.2)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Entscheidung Zeitungsentnahmegeräte für ?Abendzeitung? auf öffentlichem Grund: Lenbachplatz 3 (U-Bahn-Ausgang) und Oskar-von-Miller-Ring 29
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Mittelalterlicher Weihnachtsmarkt vom 25.11. bis 23.12.2013 auf dem Wittelsbacherplatz
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Kulturreferat, Anhörung Münchens Stadtteilkultur stärken ? Ausweitung von Betriebskostenzuschüssen ab 2014; Personalkostenaufstockung (Ausweitung SNP) ab 2014 Beschlussentwurf für den Kulturausschuss am 17.10.2013
+- TOP 2.2.: Referat für Arbeit und Wirtschaft, Anhörung Kulturelle Zwischennutzung für das Heizkraftwerk ermöglichen Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft am 19.11.2013
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, untere Naturschutzbehörde Genehmigungsbescheid zum einem Fällantrag Seidlstraße 5, TOP B 3.2.1/0513
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung ?Zur Energiewende geört die Verkehrswende ? München setzt auf postfossilen Verkehr? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013 Sitzungsvorlage Nr. 08-14 / V 12850
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung ?Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschrei- bung des Zentrenkonzeptes der Landeshauptstadt München Bekanntngabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013 Sitzungsvorlage Nr. 08-14 / V 12544
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung Unbau/Neubau Hauptbahnhof München: Dienstbetrieb der Polizeidienststellen Antrag Nr. 08-14 / A 03406 der FW vom 25.06.2012 Beschluss des Ausschusses für Stadtpl
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung ?Baumschutzoffensive I: Umfassende Information über Baumschutz Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung? Anträge Nrn. 08-14 / A 03235, A 03236 und A 03238 der Stadtratsfraktion Die Grünen/RL vom 04.04.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013 Sitzungsvorlage Nr. 08-14 / V 12778 Ergänzung vom 11.09.2013: eine Kurzübersicht mit Datum 25.09.2013 1. Seite Beschlussvorlage mit Datum 25.09.2013
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München; Kriterien zum Ausbau von Eisenbahn- oder Straßenüberfürhungen - Ausbau der Bahnunterführung an der Bodenseestraße (Empfehlung Nr. 08-14/E 01793 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 25.04.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 Sitzungsvorlage Nr. 08-14 / V 10157
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung Zur Energiewende gehört die Verkehrswende ? München ssetzt auf postfossielen Verkehr Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 Sitzungsvorlage Nr. 08-14 / V 12850
+- TOP 1.8.: Umbau/Neubau Hauptbahnhof München, Dienstbetrieb der Polizeidienststellen Antrag Nr. 08-14 / A 03406 der FW vom 25.06.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 Sitzungsvorlage Nr. 08-14 / V 12849
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung Fahrradschnellwege in Münchner Umland ? in die kommunale Kooperation einsteigen - erste Pilotprojekte beginnen Antrag Nr. 08-14 / A 04423 der Stadtratsfraktion Die Grünen/RL vom 04.07.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2013 Sitzungsvorlage Nr. 08-14 / V 12943
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung bom 25.09.2013 Sitzungsvorlage Nr. 08-14 / V 12544
+- TOP 1.11.: Referat für Stadtplanung und Bauordnung Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2013 bis 30.06.2013 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 Sitzungsvorlage Nr. 12957
+- TOP 1.12.: Referat für Stadtplanung und Bauordnung Großwohnungen, Luxussanierung in einem Gebäude in der Georgenstraße im Erhaltungs satzungsgebiet BA-Antrag Nr. 08-14 / B 04985 des BA 3 vom 09.07.2013
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baumaßnahmen der Stadtwerke a) Erzgießereistraße 30, Fernwärme b) Ottostraße 21, Fernwärme
+- TOP 2.2.: Kreisverwaltungsreferat, Arbeiten im Straßenraum, verkehrsrechtliche Anordnung Karlstraße zwischen Anwesen 122 und Sandstraße, Fernwärme, 09.09. bis 29.11.2013
+- TOP 2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 29.08.2013 Verbesserung der Wirksamkeit der Aufsichtspflicht der Stadt München als Bauherr von kommunalen Bauprojekten
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für das Kunstarealfest in der Gabelsbergerstraße am 15.09.2013
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Einrichtung eines Fußgängerüberweges Görresstraße Höhe Zentnerstraße b) Einrichtung eines Fußgängerüberweges Görresstraße Höhe Schwindstraße
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für Streetlife Festival/Corso Leopold mit Kunsthandwerkermarkt und ?Bio Erleben? am 14.09. und 15.09.2013
+- TOP 2.7.: Referat für Umwelt und Gesundheit Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Kranmontage, Türkenstraße 58
+- TOP 2.8.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro München Marathon am 13.10.2013 mit Halbmarathon sowie Trachtenlauf am 12.10.2013 Eilentscheidung des Vorsitzenden vom 17.09.2013: Zustimmung durch Fristablauf
+- TOP 2.9.: Baureferat Tiefbau Schleißheimer Straße zwischen Elisabethstraße und Maßmannstraße ? Projektgenehmigung Ergänzende Beschlussvorlage für den Bauausschuss vom 24.09.2013 Sitzungsvorlage Nr. 08-14/V 11080
+- TOP 2.10.: Kreisverwaltungsrefert, Veranstaltungs- und Versammlungsbüro Wittelsbacherplatz Straßenfest anl. der Finissage eines Kunstprojektes am 02.10.2013 Eilentscheidung des Vorsitzenden durch Fristablauf: Zustimmung
+- TOP 2.11.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für 4. Bauernmarktmeile am 29.9.2013 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP 2.12.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung gem. § 45 StVO: Schaffung von Ersatzparkplätzen in der Sandstraße im Zusammenhang mit den Sparten- verlegungsarbeiten in der Nymphenburger Straße und anderen Straßen
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Sozialreferat Bebauungsplan mit Grünordnung Nr. 1873 Arnulfpark Errichtung von Räumen für eine offene Einrichtung für Kinder und Jugendliche bis 14 Jahre und einen Nachbarschaftstreff in der Erika-Mann-Straße (Produkt 3.1.1 und 4.1.7) Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 08.10.2013 (SB und VB) Sitzungsvorlage Nr. 08-14 / V 11287
+- TOP 4: Kultur
+- TOP 4.1.: Termin für Bürgerversammlung 2014
+- TOP 4.2.: Direktorium, Unterrichtung Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amts- periode 2014 bis 2020 Sitzungsvorlage Nr. 08-14 / V 12724 Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 04.09.2013
+- TOP 4.3.: Direktorium, Unterrrichtung ?Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 ? 2020? Schreiben an die im Stadtrat vertretenen Parteien vom 04.09.2013
+- TOP 4.4.: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der zirksausschüsse (Anlage 1 der BA-Satzung )bzgl. der Belange der Kinderbetreuung BA-Antrag Nr. 08-14 / B 03722 des BA 13 Bogenhausen vom 14.02.2012 vertagt aus der Sitzung vom 10.09.2013 Unterlagen liegen bereits vor
+- TOP 4.5.: Direktorium, Unterrichtung Zulässigkeit eines Antrags auf Begrenzung der Tätigkeit des Beauftragten gegen Rechtsextremismus Antwort der Rechtsabteilung vom 16.09.2013 auf die Nachfrage des BA-Vorsitzenden vom 01.08.2013
+- TOP 4.6.: Budgetantrag für die Lesung am 09.11.2013 anlässlich des 75. Jahrestages der Reichspogromnacht
+- TOP 4.7.: Budgetantrag für die Veranstaltung zum Holocaustgedenktag 2014
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Aktuelle Sachstandsberichte
