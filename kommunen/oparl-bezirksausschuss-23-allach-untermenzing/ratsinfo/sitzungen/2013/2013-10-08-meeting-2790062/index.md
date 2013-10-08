@@ -1,0 +1,74 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-10-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2790062
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2790062
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Schandfleck an der Eversbuschstraße
+- TOP 2.2.: Allacher Maibaum
+- TOP 2.3.: Siberstr. / Ludwigsfelder Str.
+- TOP 2.4.: Antrag auf Tempo 30 für die Menzinger Straße im Wohnsammelstraßenbereich
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse TSV Allach 09 Turnen und Handball e.V. Fahrtkosten für die Saison 2013/2014
+- TOP 5: Anhörungen
+- TOP 5.1.: Erinnerungsverfahren: Eversbuschstr. 57 - 59
+- TOP 5.2.: Erinnerungsverfahren: Eisolzriederstr. 2-4
+- TOP 5.3.: Erinnerungsverfahren: Nasslstr. 23-41
+- TOP 5.4.: Erinnerungsverfahren: Willstätterstr. 17-45 von Esmarchstr. bis Eversbuschstr.
+- TOP 5.5.: Münchens Stadtteilkultur stärken Ausweitung von Betriebszuschüssen ab 2014 Personalkostenaufstockung (Ausweitung SNP) ab 2014
+- TOP 5.6.: Austausch der Lichtzeichenanlage Professor-Eichmann-Straße / Von-Kahr-Straße
+- TOP 5.7.: Bauleitplanung im Landkreis Interkommunaler sachlicher Teilflächennutzungsplan Windkraft
+- TOP 5.8.: Lebensmittelversorgung in der Gerberau sicherstellen BV-Empf. 1907 vom 23.07.13
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 24.07.13: Umsetzung der UN-Behindertenrechtskonventionen, Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen; Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention (Sitzungsvorlage Nr. 12112)
+- TOP 6.2.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 04.09.13: Änderung der Bezirksausschuss-Satzung, Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2020 (Sitzungsvorlage Nr. 12724)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013: a) Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Sitzungsvorlage Nr. 12850) b) Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München (Sitzungsvorlage Nr. 12544) c) Baumschutzoffensive I: Umfassende Information über Baumschutz; Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben; Baumschutzoffensive IV: Ökologische Baubegleitung (Sitzungsvorlage Nr. 12778)
+- TOP 6.4.: Beschluss des Bauausschusses vom 24.09.13: a) Realisierung einer öffentlichen Grünfläche nach dem Rückbau des Allacher Sommerbades 2. Bauabschnitt im 23. Stadtbezirk Allach-Untermenzing (Vorlage Nr. 5209) b) Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder (Vorlage Nr. 12257)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: a) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2075 Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich), Hanfgartenstraße (beiderseits), Berglwiesenstraße (östlich), Bundesautobahn A 99 (südöstlich) -Brauerei Langwied- (Sitzungsvorlage Nr. 12909) b) Vorbehaltsnetz für den städt. Wirtschaftsverkehr in München Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen -Ausbau der Bahnunterführungen an der Bodenseestr. (Sitzungsvorlage Nr. 10157)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: c) Hinweis/Ergänzung: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Sitzungsvorlage Nr. 12850) d) Fahrradschnellwege ins Münchner Umland - in die interkommunale Kooperation einsteigen - erste Pilotprojekte beginnen (Sitzungsvorlage Nr. 12943) e) Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München (Sitzungsvorlage Nr. 12544) f) Hinweis/Ergänzung: Baumschutzoffensive I: Umfassende Information über Baumschutz; Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben; Baumschutzoffensive IV: Ökologische Baubegleitung (Sitzungsvorlage Nr. 12778) g) Bekanntgabe: Beschlussvollzugskontrolle (BVK) (Sitzungsvorlage Nr. 12957)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Behindertenbeirat Gesprächsrunde FAK Wohnen - Einladung 09.10.13, 14.00 - 16:00 Uhr
+- TOP 7.2.: Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 7.3.: Sitzungstermine 2014
+- TOP 7.4.: Kranzniederlegung auf Neuem Israelitischen Friedhof 17.11.13, 13:00 Uhr
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 04.09.13: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020
+- TOP 8.2.: Schreiben Direktorium vom 10.09.13: Verhinderung des Lkw-Verkehrs in der Von-Reuter- und Rueßstraße
+- TOP 8.3.: Schreiben Direktorium vom 20.09.13: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 06.09.13: Drehgenehmigung Hußweg 4.12.09.13, 13.09.13 und 16.09.13
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 09.09.13: Containerstandplatz Auenbruggerstr./Pasinger Heuweg
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 23.09.13: Drehgenehmigung vom 23.09.-26.09.13, Ludwigsfelder Str. u. Allacher Str.
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 24.09.13: Absolutes Haltverbot im gesamten Wendehammer der Grandauerstraße
+- TOP 8.8.: Schreiben Referat für Bildung und Sport: Errichtung einer viergruppigen Kinderkrippe am Krayweg
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (02.09.-08.09.13, 09.09.-15.09.13, 16.09.-22.09.13)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Georg-Reismüller-Str. 4, Herbigstr. 4, Kunstmannstr. 18, Kleselstr. 6
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.09.13: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Baldusweg 4
+- TOP 8.12.: Schreiben Stadtwerke München vom 09.09.13, 16.09.13, 23.09.13: Baumaßnahmen
+- TOP 8.13.: Schreiben Fachstelle gegen Rechtsextremismus vom 18.09.13 Neue Version "Info zum Bürgerbegehren ZIE-M"
+- TOP 8.14.: Schreiben Sozialreferat vom 19.09.13: Privates Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B 23. Stadtbezirk Allach-Untermenzing, Theodor-Kitt-Str. 22, Flst. 747/3, Gemarkung Untermenzing
+- TOP 8.15.: Schreiben Sozialreferat vom 25.09.13: Europäisches Jahr für aktives Altern und Solidarität zwischen den Generationen 2012 - Dokumentation
+- TOP 8.16.: Schreiben Mittelschule Franz-Nißl-Straße vom 05.09.13: Bericht zum Trommel und Tanzprojekt
+- TOP 8.17.: Schreiben BA 18 Untergiesing-Harlaching vom 25.09.13: Budgetvergabe transparenter machen - mehrere Angebote einholen
+- TOP 8.18.: Schreiben Sozialpsychiatrischer Dienst München-West vom 25.09.13: Neue Adresse
+- TOP 9: Nachtrag
+- TOP 9.1.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung vom 27.09.13: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Dachauer Str. 667, Augustenfelder Str. 14
+- TOP 9.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.09.13: Bauanträge (23.09.-29.09.13)
+- TOP 9.3.: Schreiben Stadtwerke München vom 30.09.13: Baumaßnahmen
+- TOP 9.4.: Schreiben Kulturreferat vom 30.09.13: Veranstaltungsübersicht Oktober
+- TOP 9.5.: Schreiben Referat für Arbeit und Wirtschaft vom 30.09.13: Wirtschafts-Info 08/2013
