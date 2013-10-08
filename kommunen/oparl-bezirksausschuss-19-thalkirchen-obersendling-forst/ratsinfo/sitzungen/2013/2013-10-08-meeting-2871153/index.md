@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2013-10-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2871153
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2871153
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 3.4.: Zuschuss für den Elternbeirat der Grundschule Boschetsrieder Straße
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Baumfällung Buchhierlstraße
+- TOP 4.3.: (A) Wertstoffcontainerstandort Greinerberg/Emil-Geis-Str.
+- TOP 4.4.: Wertstoffcontainer in Thalkirchen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrssituation und Verkehrsausbau Wilhelm-Leibl-Straße
+- TOP 5.2.: Haltverbot Königswieser-/Vinzenz-Schüpfer-Straße
+- TOP 5.3.: Spielstraße am Luganoweg
+- TOP 5.4.: Vorfahrtssituation Hans-Fitz-Weg
+- TOP 5.5.: Parksituation Buchloer Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben laut Liste
+- TOP 6.2.: Änderung der Bautafel Konrad-Witz-Str. 9
+- TOP 6.3.: (A) Einstellung der Bauleitplanung für die Verlängerung der Stäblistraße
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Auswahl der REGSAM-Schwerpunktgebiete für den Zeitraum ab Januar 2014
+- TOP 8: Entscheidungsfälle
+- TOP 1: (E) 1. Errichtung einer Zone 30 für Fraunbergstraße und Schmiedberg; 2. Installation einer Drückerampel an der Ecke Fraunbergstraße/Maria-Einsiedel-Straße; 3. Geschwindigkeitswarnanzeige in stadtein- wärtiger Richtung auf der Maria-Einsiedel-Straße vor dem neuen Kinderspielplatz Empfehlung Nr. 08-14 / E 01767 der Bürgerver- sammlung des 19. Stadtbezirkes Thalkirchen- Obersendling-Forstenried-Fürstenried-Solln am 11.04.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: (E) Fußgängerüberweg mit Ampel auf Höhe der Maria-Einsiedel-Straße 17 Empfehlung Nr. 08-14 / E 01766 der Bürgerversammlung des 19. Stadtbezirkes Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.04.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 3: (E) Errichtung eines Zaunes für den Spielplatz an der Maria-Einsiedel-Straße Empfehlung Nr. 08-14 / E 01763 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.04.2013 - <div>Abweichung von Referentenvorl.</div>
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: (A) Münchens Stadtteilkultur stärken
+- TOP 9.2.: (A) Zuschuss an die Königlich Privilegierte Hauptschützengesellschaft für den Umbau des Kutscherhauses an der Zielstattstraße 6
+- TOP 9.3.: Zweckentfremdung
+- TOP 9.4.: Budgetvergabe transparenter machen, Antrag des BA 18
+- TOP 9.5.: (A) Martinsumzug Kistlerhofstraße, Münsinger Str.
+- TOP 9.6.: A) Ressourvenverschwendung durch überflüssige Postsendungen
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
