@@ -1,0 +1,21 @@
+# Kindergartenbedarfsplanung 2013 - 2015
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-34/2013 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2013-10-10
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTvxLFsYv0fwWG5A5dAZopk
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/201
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Kindergartenbedarfsplanung 2013 - 2015) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdHb00aJn0a-P4FsMRar59Gq9Dy2BIdc7S-I8i-Az9Gz/Beschlussvorlage_Gemeindevertretung_VL-34-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Bedarfsplanung-2013-2015-Fassung-Okt-2013) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQb31Fy7bplsVHItdbQCbb5_bxrVsIwOGRcdYUaUUGdv/Bedarfsplanung-2013-2015-Fassung-Okt-2013.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Belegungsstatistik nach Betreuungsarten Stand 30-09-2013) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUjHwmeKr-JRCve0orMnK5LNoFm9OisjKmidhfBJambc/Belegungsstatistik_nach_Betreuungsarten_Stand_30-09-2013.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Belegungsstatistik Kindergarten Panrod im Jahr der Schließung 2009  (zum 31.12.2009)) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXyTAyE9sJ4MgzgPPMBHAuJe-_KYQd1kE5yT62O811ua/Belegungsstatistik_Kindergarten_Panrod_im_Jahr_der_Schliessung_2009__-zum_31.12.2009-.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWUtXuapIeBKXqixKWIrcDehiR9qAYBtbaffzGbSstZ4/Berechnung_Kifoeg-Kettenbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-32c -Kettenbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVzEWsv19iyZrVVvzb5KjRVbxnEOvQv74OEyLbg7BKk0/Berechnung_Kifoeg-32c_-Kettenbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYeG4K75OxOsXtaH1yoaW7Krom-Okb1VOdu89Nxs7Qf7/Berechnung_Kifoeg-Michelbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-32c -Michelbach) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV-eEPVF4QMLyU6lkfmOv1p13Pq4trAORVmMY3YHu4CC/Berechnung_Kifoeg-32c_-Michelbach.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-Rückershausen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ7zxhH7fClxvArIuvNUpZWu_iKuP97X7JSRd-IG8jGI/Berechnung_Kifoeg-Rueckershausen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Berechnung Kifög-32c -Rückershausen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX1WFj5ov6LirYxRFYpe4V7eDsH6n2tTk0AEZ0lohGiu/Berechnung_Kifoeg-32c_-Rueckershausen.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/453 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-1
