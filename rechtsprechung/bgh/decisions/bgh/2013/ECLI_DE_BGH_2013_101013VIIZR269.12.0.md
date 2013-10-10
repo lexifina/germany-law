@@ -1,0 +1,222 @@
+---
+ecli: "ECLI:DE:BGH:2013:101013VIIZR269.12.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-07"
+aktenzeichen: "VII ZR 269/12"
+decided: "2013-10-10"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2013&Sort=1&Seite=82&nr=65769&anz=3204&pos=2486&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-07_NA_2013-10-10_VII_ZR_269_12_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0311b.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/zpo/0398.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0529.md", "germany/bund/acts/zpo/0531.md", "germany/bund/acts/zpo/0544.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VII ZR 269/12 vom 2013-10-10
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                     BESCHLUSS
+VII ZR 269/12
+
+                            vom
+
+                     10. Oktober 2013
+
+                     in dem Rechtsstreit
+
+                                           -2-
+
+
+
+    Der VII. Zivilsenat des Bundesgerichtshofs hat am 10. Oktober 2013 durch den
+    Richter Dr. Eick, die Richterin Safari Chabestari und die Richter Kosziol,
+    Dr. Kartzke und Prof. Dr. Jurgeleit
+
+    beschlossen:
+
+
+          Der Beschwerde der Klägerin gegen die Nichtzulassung der Revision wird stattgegeben.
+
+          Der Beschluss des 13. Zivilsenats des Oberlandesgerichts München vom 29. August 2012 wird gemäß § 544 Abs. 7 ZPO aufgehoben.
+
+          Die Sache wird zur neuen Verhandlung und Entscheidung, auch
+          über die Kosten des Nichtzulassungsbeschwerdeverfahrens einschließlich der durch die Nebenintervention verursachten Kosten,
+          an einen anderen Senat des Berufungsgerichts zurückverwiesen.
+
+          Streitwert: 250.000 €
+
+
+
+
+                                          Gründe:
+
+                                            I.
+
+1         Die Klägerin macht als Zessionarin gegen die Beklagte einen vertraglichen Anspruch auf pauschalierten Schadensersatz geltend, den die R. W. G.
+    GmbH & Co. KG, die Streithelferin der Klägerin, erfüllungshalber an die Klägerin abgetreten hat.
+
+                                         -3-
+
+
+
+2         Mit notariell beurkundetem Vertrag vom 18. September 2008 verkaufte
+    die Streithelferin an die Beklagte Grundbesitz, der an Grundbesitz der Klägerin
+    angrenzt. Dieser Vertrag enthält in Nr. XX eine gegenseitige Bauverpflichtung,
+    wobei sich die Beklagte verpflichtete, den Vertragsgegenstand im Wesentlichen
+    auf der Basis des Bebauungsplans zu bebauen. Nr. XX Absätze 3 und 4 des
+    Vertrags lauten wie folgt:
+
+          "Die Bezugsfertigkeit muss jeweils bis spätestens 31.12.2010 gegeben sein.
+
+          Wird der vorgenannte Termin durch einen der Bauverpflichteten
+          aus Gründen nicht eingehalten, die dieser zu vertreten hat, ist der
+          jeweils Bauverpflichtete verpflichtet, dem anderen Teil einen pauschalierten Schadensersatz in Höhe von 250.000,00 EUR (i.W.
+          zweihundertfünfzigtausend Euro) bis spätestens 31.01.2011 zu
+          zahlen. Mit dieser Schadensersatzzahlung sind sämtliche gegenseitigen Ansprüche aus der Nicht- oder Späterfüllung der Bauverpflichtung abgegolten."
+
+3         Die Parteien streiten im Wesentlichen darüber, ob die Beklagte die ihr
+    obliegende Bauverpflichtung wegen mangelnder Bezugsfertigkeit zum 31. Dezember 2010 nicht eingehalten hat.
+
+4         Die Klägerin hat in erster Instanz beantragt, die Beklagte zu verurteilen,
+    an sie 250.000 € nebst Zinsen zu zahlen. Das Landgericht hat die Klage nach
+    Beweisaufnahme abgewiesen. Die Berufung der Klägerin hat das Berufungsgericht zurückgewiesen. Gegen die Nichtzulassung der Revision richtet sich die
+    Beschwerde der Klägerin, die ihren Zahlungsanspruch in Höhe von 250.000 €
+    nebst Zinsen weiterverfolgt.
+
+                                          -4-
+
+
+
+                                            II.
+
+5         1. Das Berufungsgericht führt, soweit für die Beschwerde von Bedeutung, im Wesentlichen aus, die Beklagte habe die Bezugsfertigkeit rechtzeitig
+    hergestellt, so dass sie keinen Schadensersatz schulde. Das Landgericht habe
+    die protokollierten Zeugenaussagen unbeschadet des nach der Beweisaufnahme eingetretenen Richterwechsels verwerten dürfen. Es sei fehlerfrei zu dem
+    Ergebnis gelangt, dass der Beklagten der Beweis für die von ihr geltend gemachte Auslegung des Begriffs "Bezugsfertigkeit" unter Berücksichtigung des
+    am 17. Juni 2009 Besprochenen gelungen sei. Die Zeugen K. und B. hätten
+    eindeutig bestätigt, dass für Bezugsfertigkeit die Bezugsfertigkeit einer einzigen
+    Wohnung genügen sollte. Der Zeuge W. sei bei der Besprechung vom 17. Juni
+    2009 zwar anwesend gewesen, habe aber lediglich angeben können, dass keine Notwendigkeit für eine schriftliche Definition gesehen worden sei. Entscheidend sei die Aktennotiz des Zeugen B. vom 10. September 2009. Als Kern der
+    Beweisaufnahme habe herausgearbeitet werden können, dass die Beteiligten in
+    der Besprechung vom 17. Juni 2009 zwar nichts schriftlich niedergelegt hätten,
+    dass aber Einigkeit über das Verständnis des Begriffs "Bezugsfertigkeit" im
+    Sinne der Makler- und Bauträgerverordnung bestanden habe und dass die Bezugsfertigkeit bereits einer Wohnung ausreichen sollte. Soweit der Zeuge W.
+    bekundet habe "Es wurde nicht besprochen, ob unter Bezugsfertigkeit die Fertigstellung einzelner oder aller Wohneinheiten zu verstehen war", beziehe sich
+    diese Aussage auf das Telefonat mit dem Geschäftsführer der Beklagten vom
+    22. Juni 2009, nicht auf die Besprechung vom 17. Juni 2009.
+
+6         Zwei Wohnungen, die noch im Jahr 2010 bezogen worden seien, müssten bezugsfertig gewesen sein, da sonst die Käufer nicht deren Bezugsfertigkeit
+    bestätigt hätten. Darauf, ob die Außenanlagen "bezugsfertig" gewesen seien,
+    komme es nicht an. Maßgeblich sei mit Blick auf die Gemeinschaftsanlagen, ob
+
+                                          -5-
+
+
+
+    der Bezug eines Hauses dem Erwerber habe zugemutet werden können und ob
+    ein sicherer Zugang zum Haus bestehe. Letzteres sei nach den Feststellungen
+    des Privatsachverständigen H. der Fall gewesen.
+
+7         2. Die Beschwerde der Klägerin gegen die Nichtzulassung der Revision
+    führt zur Aufhebung des angefochtenen Beschlusses und zur Zurückverweisung der Sache an das Berufungsgericht, § 544 Abs. 7 ZPO. Der Beschluss
+    des Berufungsgerichts gemäß § 522 Abs. 2 ZPO verletzt den Anspruch der
+    Klägerin auf rechtliches Gehör in entscheidungserheblicher Weise, Art. 103
+    Abs. 1 GG.
+
+8         a) Nach § 529 Abs. 1 Nr. 1 ZPO ist das Berufungsgericht grundsätzlich
+    an die Tatsachenfeststellungen des ersten Rechtszuges gebunden. Bestehen
+    allerdings Zweifel an der Richtigkeit und Vollständigkeit der entscheidungserheblichen Feststellungen im erstinstanzlichen Urteil, ist in aller Regel eine erneute Beweisaufnahme geboten (vgl. BGH, Beschluss vom 25. Juni 2013
+    - XI ZR 210/12, juris Rn. 9 m.w.N.). Das gilt insbesondere für die erneute Vernehmung von Zeugen, die grundsätzlich gemäß § 398 Abs. 1 ZPO im Ermessen des Berufungsgerichts steht (vgl. BGH, Beschluss vom 21. März 2012
+    - XII ZR 18/11, NJW-RR 2012, 704 Rn. 6). Vor allem muss das Berufungsgericht einen im ersten Rechtszug vernommenen Zeugen dann erneut hören,
+    wenn das erstinstanzliche Gericht die Aussage nur zum Teil oder gar nicht gewürdigt hat, diese aber nach ihrem protokollierten Inhalt mehrdeutig ist (vgl.
+    BGH, Urteil vom 13. Januar 1992 - II ZR 63/91, juris Rn. 6 m.w.N.).
+
+9         b) Nach diesen Maßstäben ist Art. 103 Abs. 1 GG hier verletzt, weil das
+    Berufungsgericht den von der Klägerin gegenbeweislich - bezüglich des am
+    17. Juni 2009 zur Bezugsfertigkeit Besprochenen - benannten Zeugen W. nicht
+    erneut vernommen hat. Das Landgericht hat die Aussage dieses Zeugen
+
+                                          -6-
+
+
+
+     - ebenso wie die Aussagen der Zeugen L. und G. - lediglich pauschal dahingehend gewürdigt, er habe zur Aufklärung des Sachverhalts, insbesondere zur
+     Frage, was zur Bezugsfertigkeit vereinbart worden sei, keine Angaben machen
+     können, und ist auf den protokollierten Inhalt der Aussage nicht im Einzelnen
+     eingegangen. Die Aussage des Zeugen W. ist nach ihrem protokollierten Inhalt
+     mehrdeutig. Dies gilt insbesondere für die Äußerung "Es wurde nicht besprochen, ob unter Bezugsfertigkeit die Fertigstellung einzelner oder aller Wohneinheiten zu verstehen war". Es ist unklar, ob sich diese Äußerung, wie das Berufungsgericht gemeint hat, lediglich auf das Telefonat mit dem Geschäftsführer
+     der Beklagten vom 22. Juni 2009 oder (auch) auf die Besprechung vom
+     17. Juni 2009 bezieht. Es ist unschädlich, dass die Beschwerde nicht ausdrücklich die Verletzung der § 398 Abs. 1, § 529 Abs. 1 Nr. 1 ZPO rügt; es genügt,
+     dass sie die Beweiswürdigung des Berufungsgerichts unter dem Gesichtspunkt
+     der Mehrdeutigkeit des protokollierten Inhalts beanstandet und hierin eine Verletzung des Anspruchs der Klägerin auf rechtliches Gehör nach Art. 103
+     Abs. 1 GG sieht (vgl. BGH, Beschluss vom 9. Februar 2010 - XI ZR 140/09,
+     BKR 2010, 515, 516).
+
+10          c) Der angefochtene Beschluss beruht auf der Verletzung des Rechts der
+     Klägerin auf rechtliches Gehör. Denn es kann nicht ausgeschlossen werden,
+     dass das Berufungsgericht bei erneuter Vernehmung des Zeugen W. eine für
+     die Klägerin günstigere Vertragsauslegung in dem Sinne, dass sich der Begriff
+     der "Bezugsfertigkeit" gemäß dem zwischen den Vertragsparteien Vereinbarten
+     auf sämtliche von der Beklagten zu erstellenden Wohneinheiten bezieht, zugrunde gelegt und auf dieser Grundlage eine für die Klägerin günstigere Entscheidung getroffen hätte, zumal das vom Berufungsgericht zugrunde gelegte
+     Verständnis vom Begriff der "Bezugsfertigkeit" nach allgemeinem Sprachverständnis fernliegend ist.
+
+                                           -7-
+
+
+
+11         d) Der Senat macht von der auch im Verfahren nach § 544 Abs. 7 ZPO
+     bestehenden    Möglichkeit   (vgl.   BGH,   Beschluss   vom   1. Februar 2007
+     - V ZR 200/06, NJW-RR 2007, 1221 Rn. 12) des § 563 Abs. 1 Satz 2 ZPO Gebrauch, die Sache an einen anderen Spruchkörper des Berufungsgerichts zurückzuverweisen.
+
+12         3. Für das weitere Verfahren weist der Senat auf Folgendes hin:
+
+13         a) Das Berufungsgericht wird außer dem von der Klägerin benannten
+     Zeugen W. unter Umständen auch die übrigen erstinstanzlich gehörten Zeugen
+     erneut zu vernehmen haben, § 398 ZPO. Die nochmalige Vernehmung eines
+     Zeugen kann allenfalls dann unterbleiben, wenn sich das Berufungsgericht auf
+     solche Umstände stützt, die weder die Urteilsfähigkeit, das Erinnerungsvermögen oder die Wahrheitsliebe des Zeugen, noch die Vollständigkeit oder Widerspruchsfreiheit seiner Aussage betreffen (vgl. BGH, Beschluss vom 4. Juli 2013
+     - VII ZR 165/12, BauR 2013, 1726 Rn. 12 m.w.N.). Danach ist es dem Berufungsgericht verwehrt, ohne erneute Vernehmung der Zeugen K. und B. von der
+     Glaubwürdigkeit bzw. Glaubhaftigkeit ihrer vor dem Landgericht gemachten
+     Aussagen auszugehen und aufgrund einer solchen Würdigung dieser Aussagen
+     eine Vereinbarung der Vertragsparteien dahingehend anzunehmen, dass für
+     Bezugsfertigkeit im Sinne von Nr. XX des Vertrags vom 18. September 2008
+     die Bezugsfertigkeit einer einzigen Wohnung genügen sollte.
+
+14         b) Soweit das Berufungsgericht ausgeführt hat, der erstinstanzlich gehörte Zeuge B. habe eindeutig bestätigt, dass für Bezugsfertigkeit die Bezugsfertigkeit einer einzigen Wohnung genügen sollte, hat diese Würdigung im protokollierten Inhalt seiner Aussage keine hinreichende Grundlage. Auf Vorhalt der
+     Aktennotiz vom 10. September 2009 hat der Zeuge B. lediglich erklärt: "Nachdem klar war, dass keine notarielle Vereinbarung geschlossen werden würde,
+
+                                          -8-
+
+
+
+     habe ich mein Empfinden von der Besprechung in einer Aktennotiz niedergeschrieben. So habe ich das Ergebnis der Besprechung verstanden".
+
+15         c) Sollte das Berufungsgericht nach erneuter Beweisaufnahme wiederum
+     zu dem Ergebnis gelangen, dass die Vertragsparteien in der Besprechung vom
+     17. Juni 2009 den Begriff der Bezugsfertigkeit im Sinne von Nr. XX des Vertrags vom 18. September 2008 übereinstimmend im Sinne der Bezugsfertigkeit
+     lediglich einer einzigen Wohnung bei sicherer Zugänglichkeit hierzu definiert
+     haben, wird es gegebenenfalls Feststellungen dazu zu treffen haben, ob insoweit eine grundsätzlich dem Formzwang des § 311b Abs. 1 Satz 1 BGB unterliegende Abänderung des Vertrags vom 18. September 2008 vereinbart wurde
+     und ob eine Heilung eines etwaigen Formmangels erfolgt ist.
+
+16         d) Nachdem das Berufungsgericht geklärt hat, wie der Begriff der Bezugsfertigkeit gemäß dem zwischen den Vertragsparteien Vereinbarten zu verstehen ist, wird es unter Umständen Feststellungen zum tatsächlichen Stand
+     des Bauvorhabens zum 31. Dezember 2010, soweit dieser für die Bezugsfertigkeit in dem genannten Sinne relevant ist, zu treffen haben. Dabei wird es gegebenenfalls auch die von der Klägerin angebotene Zeugin G. (Beweisangebot in
+     der Klageschrift vom 5. April 2011, Seite 5) und - soweit keine Sachbehandlung
+     nach § 531 Abs. 2 Satz 1 ZPO erfolgt - den erstmals in der Berufungsbegründung dazu angebotenen Zeugen Dipl.-Ing. B. zu vernehmen haben.
+
+                                          -9-
+
+
+
+17          e) Die Zurückverweisung gibt dem Berufungsgericht im Übrigen Gelegenheit, sich gegebenenfalls mit den weiteren Rügen der Klägerin in der Nichtzulassungsbeschwerde auseinanderzusetzen.
+
+
+     Eick                           Safari Chabestari                    Kosziol
+
+                  Kartzke                                 Jurgeleit
+
+
+
+
+     Vorinstanzen:
+     LG München I, Entscheidung vom 28.02.2012 - 13 HK O 7120/11 -
+     OLG München, Entscheidung vom 29.08.2012 - 13 U 1092/12 Bau -
