@@ -1,0 +1,67 @@
+# 16. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-10-11T09:30:00+02:00
+- Ende: 2013-10-11T10:25:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-16
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-VV-16
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2013-VV-16
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-16
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-VV-16
+
+## Tagesordnung
+
+- TOP -: Begrüßung
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Geologischer Dienst Monitoringbericht Lockergesteine im Verbandsgebiet des RVR
+- TOP 1.2: Planfeststellungsverfahren gem. § 35 Abs. 2 Kreislaufwirtschaftsgesetz für die geplante Erweiterung der Deponie Wehofen-Nord in Dinslaken (3. Bauab-schnitt) hier: öffentlich-rechtlicher Vertrag (gem. § 13 Raumordnungsgesetz) zwischen der ThyssenKrupp Steel Europe AG und der Verbandsversammlung des RVR zur Trassensicherung der stillgelegten Trasse Lohbergbahn Duisburg / Dinslaken
+- TOP 1.3: Änderungsverfahren 13 gesamt (Zentren und Einzelhandel) zum Regionalen Flächennutzungsplan – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 1.4: Landesentwicklungsplan Nordrhein-Westfalen - Sachlicher Teilplan Großflächiger Einzelhandel
+- TOP 1.5: 77. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Duisburg
+- TOP 1.6: Bochum, Bebauungsplan Nr. 818 – Ruhrpark Einkaufszentrum – Stellungnahme der Regionalplanungsbehörde gem. § 34 Abs. 5 Landesplanungsgesetz NRW
+- TOP 1.7: Duisburg, Flächennutzungsplan-Änderung Nr. 2.34 und Bebauungsplan Nr. 1179 – Obermarxloh – Factory-Outlet-Center (FOC), Stellungnahme der Regionalplanungsbehörde gem. § 34 Abs. 1 Landesplanungsgesetz NRW
+- TOP 1.8: Einladung zu Informationsveranstaltungen zum Entwurf des neuen Landesentwicklungsplans Nordrhein-Westfalen (LEP NRW)
+- TOP 1.9: L 104 - Radwegebau an bestehenden Landesstraßen
+- TOP 1.10: Resolution 'Streichung von Teilstrecken des Ausbaus der A 52 aus der Vorschlagsliste zum Bundesverkehrswegeplan (BVWP) Bereich Straße durch das Land NRW' Antrag der Fraktion DIE LINKE vom 08.10.2013
+- TOP 1.11: Bundesverkehrswegeplan Hier: Teil Straße
+- TOP 1.12: Anfragen und Mitteilungen
+- TOP -: Anfrage der Fraktion Bündnis 90/Die Grünen vom 12.09.2013 zum Thema 'Städtebauförderung'
+- TOP -: Anfrage der CDU-Fraktion vom 16.09.2013 zum Thema 'Kaiserstrasse Wetter' hier: Antwort der Bezirksregierung Düsseldorf vom 08.10.2013
+- TOP -: Anfrage der CDU-Fraktion vom 16.09.2013 zum Thema 'A52' hier: Antwort der Verwaltung des RVR und der Bezirksregierung Düsseldorf vom 27.09.2013
+- TOP -: Bundesverkehrswegeplan 2015: Kriterien für Straßenverkehrsprojekte
+- TOP -: Anfrage der CDU-Fraktion vom 08.10.2013 zum Thema 'Bundesverkehrswegeplan 2015: Kriterien für Straßenverkehrsprojekte' hier: Antwort der Bezirksregierung Düsseldorf vom 09.10.2013
+- TOP -: Personalausstattung der Regionalplanungsbehörde
+- TOP -: Finanzierung der Regionalratsarbeit
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Fortschreibung des Frauenförderplanes zur Gleichstellung von Frauen und Männern beim RVR 2013 bis 2016 inkl. Abschlussbericht zur Umsetzung des Frauenförderplans 2010 - 2012 (FFPL)
+- TOP 2.2: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.3: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.4: Angelegenheiten der Abfallentsorgung-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2012
+- TOP 2.5: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2012
+- TOP 2.6: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2012
+- TOP 2.7: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.8: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2012
+- TOP 2.9: Angelegenheiten der Freizeitgesellschaften - Haushaltsansatz 2014 für die Freizeitgesellschaften
+- TOP 2.9.1: Angelegenheiten der Freizeitgesellschaften - Haushaltsansatz 2014 für die Freizeitgesellschaften Antrag der Fraktion DIE LINKE vom 26.09.2013
+- TOP 2.10: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.11: Angelegenheiten der TER TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2012
+- TOP 2.12: Angelegenheiten der RUHR.2010 GmbH i. L. - Jahresabschluss zum 30.12.2012
+- TOP 2.13: Angelegenheiten der NFN NaturFreizeitverbund Niederrhein GmbH - Stand des Liquidationsverfahrens
+- TOP 2.14: Resolution der Verbandsversammlung des RVR zur Fernwärmeschiene Ruhr - Ausbau des Fernwärmenetzes Ruhr-Rhein
+- TOP 2.14.1: Resolution zur Fernwärmeschiene Ruhr - Ausbau des Fernwärmenetzes Ruhr-Rhein Ergänzung des Beschlussvorschlages der Vorlage 12/0953 Antrag der Fraktion DIE LINKE vom 08.10.2013
+- TOP 2.15: Stellungnahme des Regionalverbandes Ruhr zum Entwurf des Nahverkehrsplanes der Stadt Mülheim an der Ruhr 2013
+- TOP 2.16: Internationale Gartenbau-Ausstellung (IGA 2027)
+- TOP 2.17: Radschnellweg Ruhr (RS1) Hier: Zwischenbericht Machbarkeitsstudie
+- TOP 2.18: Ideenwettbewerb Zukunft Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 2.19: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Verkehr und Mobilität
+- TOP 2.20: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Freizeit und Erholung
+- TOP 2.21: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Land- und Forstwirtschaft
+- TOP 2.22: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Freiraum - Natur und Landschaft
+- TOP 2.23: Wechsel in den Ausschüssen
+- TOP 2.24: Anfragen und Mitteilungen
+- TOP -: Anfrage der Fraktion Die Linke. vom 25.09.2013 zum Thema 'Verbandsgrünflächen' hier: Antwort der Verwaltung vom 27.09.2013
