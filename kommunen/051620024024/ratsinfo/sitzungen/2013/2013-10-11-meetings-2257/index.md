@@ -1,0 +1,60 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2013-10-11T16:00:00+02:00
+- Ende: 2013-10-11T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2257
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2257
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Änderung des Gesellschaftsvertrages der Gemeinnützigen Werkstätten Neuss GmbH, GWN - einstimmig zugestimmt
+- TOP 7: Neuabschluss des Stromkonzessionsvertrages mit der Stadtwerke Neuss Energie und Wasser GmbH - einstimmig zugestimmt
+- TOP 8: Einzelhandelskonzept: Neusser Liste - mehrheitlich zugestimmt
+- TOP 9: VEP Nr. V 59/3 - Dreikönigenv., Eichendorff- / Weberstraße - Auslegung - mehrheitlich zugestimmt
+- TOP 10: Städtebauliche Sanierungsmaßnahme Östlicher Innenstadtrand - einstimmig zugestimmt
+- TOP 11: FNP 129 - Augustinusviertel - Aufstellung - einstimmig zugestimmt
+- TOP 12: BP 484 - Augustinusviertel - Aufstellung - einstimmig zugestimmt
+- TOP 13: BP 169/7 - Kita Volmerswerther Str. - Auslegung - einstimmig zugestimmt
+- TOP 14: BP 216/2 Satzungsbeschluss - einstimmig zugestimmt
+- TOP 15: B-Plan 118/5 - Weckhoven-Hülchrather Str. / Aufstellungsbeschluss - einstimmig zugestimmt
+- TOP 16: Bahnhofsentwicklungskonzept - weitere Maßnahmen - einstimmig zugestimmt
+- TOP 17: VEP V 442 - Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 18: Bebauungsplan Nr. 483 - Hammfeld II Ost (Möbelhaus) - Auslegung - mehrheitlich zugestimmt
+- TOP 19: Vorhabenbezogener Bebauungsplan Nr. V447 – Holzheim, Blausteinsweg-Süd (Wohnungsbau) - Satzung - einstimmig zugestimmt
+- TOP 20: FNP Nr. 128 - Bataverstr. / Kreitzweg - Aufstellung - einstimmig zugestimmt
+- TOP 21: Standardbauweisen im Straßenbau - Fortschreibung - einstimmig zugestimmt
+- TOP 22: Freiflächengestaltung "Am Kehlturm", 2. Bauabschnitt: Radwegenetzschluss - einstimmig zugestimmt
+- TOP 23: Genehmigung der Dringlichkeitsentscheidung Nr. 111: Bereitstellung der Mittel für die Aus- und Umlag - einstimmig zugestimmt
+- TOP 24: Entscheidung zur zukünftigen Nutzung der Gewerbefläche im EG des Tranktorgebäudes - vertagt
+- TOP 25: 2. Satzung zur Änderung der Satzung für das Jugendamt der Stadt Neuss vom 30. Mai 1994 - einstimmig zugestimmt
+- TOP 26: Ausbauplanung U3 2013-2015 - einstimmig zugestimmt
+- TOP 27: Grünrahmenplan zu den Bebauungsplänen Nr. 43/10 - Steinhaus- / Engelbertstraße und Nr. V 43/11 - Fur - einstimmig zugestimmt
+- TOP 28: Sekundarschule Neuss: Planung und Kostenschätzung - einstimmig zugestimmt
+- TOP 29: Errichtung einer zweiten Sekundarschule - einstimmig zugestimmt
+- TOP 30: OGS inklusiv / Ganztag inklusiv - einstimmig zugestimmt
+- TOP 31: Aufhebung der Satzungen der ISN AöR zu Dichtheitsprüfungen zu § 61 a LWG NRW - einstimmig zugestimmt
+- TOP 32: Einbringung Haushaltsplan-Entwurf 2014 - einstimmig zugestimmt
+- TOP 33: Jahresabschluss 2012 - einstimmig zugestimmt
+- TOP 34: Aufsichtsrat der RheinCargo GmbH & Co. KG – Neuwahl der Arbeitnehmervertreter - einstimmig zugestimmt
+- TOP 35: Bestellung der Betriebsleitung für "Tiefbaumanagement der Stadt Neuss" - einstimmig zugestimmt
+- TOP 36: Handlungskonzept Demographie - einstimmig zugestimmt
+- TOP 37: Benennung der Teilnehmer für die 8. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - einstimmig zugestimmt
+- TOP 38: Konradbad - einstimmig zugestimmt
+- TOP 39: Bebauungsplan Nr. 486 - Augustinus-Viertel / Meertal, Berghäuschensweg (Erweiterung des Einzelhandel - einstimmig zugestimmt
+- TOP 40: Antrag der Fraktion Bündnis 90/Die Grünen betr.:Bau eines Seniorenzentrums in Norf - einstimmig zugestimmt
+- TOP 41: Antrag der Fraktionen CDU und FDP betr.: Bebauung Nievenheimer Straße in Norf - zur Kenntnis genommen
+- TOP 42: Antrag der Fraktionen CDU und FDP betr.: Kommunale Zwangsabgabe verhindern - mehrheitlich zugestimmt
+- TOP 43: Sitzungsübersicht 1. Halbjahr 2014 - einstimmig zugestimmt
+- TOP 44: Umsetzung des Ratsbeschlusses zur Abschaffung der Tarifwabe 521 im Bereich Rheinpark-Center - einstimmig zugestimmt
+- TOP 45: Ausgliederung der städtischen Kindertageseinrichtungen - Sachstand - einstimmig zugestimmt
+- TOP 46: Einwohnerfragestunde - zur Kenntnis genommen
