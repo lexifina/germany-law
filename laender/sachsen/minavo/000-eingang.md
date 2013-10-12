@@ -1,4 +1,0 @@
-# Verordnung des Sächsischen Staatsministeriums der Justiz und für Europa zu Mitteilungen in Nachlasssachen (MiNaVO)
-Vom 3. Dezember 2008
-Rechtsbereinigt mit Stand vom 14. Juli 2012
-Aufgrund von § 82a Abs. 6 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit in der im Bundesgesetzblatt Teil III, Gliederungsnummer 315-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 12 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2039) geändert worden ist, in Verbindung mit § 1 Nr. 16 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), die durch Artikel 3 der Verordnung vom 6. Juni 2008 (SächsGVBl. S. 336, 337) geändert worden ist, wird verordnet:
