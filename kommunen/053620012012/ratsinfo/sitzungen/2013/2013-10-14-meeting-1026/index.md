@@ -1,0 +1,59 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2013-10-14T18:00:00+02:00
+- Ende: 2013-10-14T20:05:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeQQvuqATFee31-7y7ivpA8
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/1026
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQTw53FMjOenYJn4oBScKabPILa-rum5KcuJrbuFTrDV/Bekanntmachung_Rat_14.10.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUVfbQJ7NIhuGAarXY63d-kiBO73g_7jwMON9Fkq1_9w/Oeffentliche_Niederschrift_Rat_14.10.2013.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Baumaßnahme Thüringer Platz
+- TOP 1.2: Kosten Stichwahl Landrat
+- TOP 1.3: Baugerüst Clemens-August-Schule
+- TOP 1.4: Bebauungsplan Rosenhof
+- TOP 1.5: Rathausgalerie
+- TOP 1.6: Partnerschaftsjubiläum
+- TOP 2.: Niederschrift vom 15.07.2013
+- TOP 3.: Bebauungspläne
+- TOP 3.1: Bebauungsplan 05.01 "Unter dem Dorf / Am Rheindorfer Bach" hier: Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB - (kein Text vorhanden)
+- TOP 3.2: Bebauungsplan 04.04/2, 1. Änderung 'Rosenhof' - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 3.3: Bebauungsplan 06.16, 2. Änderung 'Alte Bonnstraße / Steingasse' - Satzungsbeschluss - Bezug: PSTA 01.10.2013 und Vorlage 300/2013 - (kein Text vorhanden)
+- TOP 3.4: Bebauungsplan 08.10 'Liblarer Straße / Am Krausen Baum' - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 4.: Gesellschafterversammlung Stadtwerke- -Jahresabschluss 2012 und Konzernabschluss 2012- - (kein Text vorhanden)
+- TOP 5.: Über-/Außerplanmäßige Ausgaben
+- TOP 5.1: Überplanmäßige Ausgabe im Bereich „Leistungen nach dem Asylbewerberleistungsgesetz“ (TEP 3103) - (kein Text vorhanden)
+- TOP 5.2: Außerplanmäßige Ausgaben - Kanalbau "Liblarer Straße" - (kein Text vorhanden)
+- TOP 6.: Genehmigung Dringlichkeitsentscheidung
+- TOP 6.1: Überplanmäßige Ausgaben Thüringer Platz / Familienzentrum hier: Dringlichkeitsentscheidung Bürgermeister Kreuzberg und Ratsherr Klug (CDU) vom 10.9.2013 - (kein Text vorhanden)
+- TOP 7.: Anträge
+- TOP 7.1: Öffentlichkeitsarbeit des Integrationsausschusses Bezug: IntA 6.2.2012, 8.11.2012 und 16.5.2013 - (kein Text vorhanden)
+- TOP 7.2: Digitale Ratsarbeit hier: Antrag der Fraktion "Die Linke." vom 15.09.2013
+- TOP 7.2.1: Digitale Ratsarbeit hier: Antrag der Fraktion "Die Linke." vom 15.9.2013
+- TOP 7.3: Dezentrale Unterbringung von AsylbewerberInnen und geduldeten MigrantInnen hier: Antrag der Fraktion "Die Linke." vom 20.09.2013
+- TOP 7.3.1: Konzept einer dezentralen Unterbringung von AsylbewerberInnen und geduldeten MigrantInnen für die Stadt Brühl Antrag der Fraktion Die Linke vom 20.09.2013 - (kein Text vorhanden)
+- TOP 7.4: Induktive Höranlage hier: Antrag der Fraktion „Die Linke.“ vom 21.10.2012 Bezug: Rat 10.12.2012, AG „Menschen mit Behinderung“ 20.3.2013, Test Höranlage Rat 17.6.2013
+- TOP 8.: Mitteilungen
+- TOP 8.1: Bericht über die 116. Sitzung des Aufsichtsrates der Stadtwerke Brühl GmbH am 17.7.2013
+- TOP 8.2: Bericht über die Sitzung des Aufsichtsrates der REVG am 26.06.2013
+- TOP 8.3: Wahltermin Bürgermeisterwahl
+- TOP 9.: Anfragen
+- TOP 9.1: Plakatierung
+- TOP 9.2: Baumschnitt Petersbergstraße
+- TOP 9.3: Verlegung Wochenmarkt Balthasar-Neumann-Platz
+- TOP 9.4: Plakatierung Veranstaltung Cultra
+- TOP 9.5: Verschmutzung Bremer Straße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 10.: Bestellung einer Geschäftsführerin für die Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 11.: Abberufung der technischen Prüferin der örtlichen Rechnungsprüfung und Bestellung eines neuen technischen Prüfers - (kein Text vorhanden)
+- TOP 12.: Neufassung des Gesellschaftervertrages der Wirtschaftsförderung Rhein-Erft GmbH
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen
