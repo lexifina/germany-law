@@ -1,0 +1,109 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Einkommensgrenzen von Senioren für Mietwohnungen nach dem München-Modell
+- TOP 1.2.: Anregung Haltverbot in der Großhaderner Straße gegenüber Aldi
+- TOP 1.3.: Verkehrssituation Kriegerheimstraße und Heiglhofstraße
+- TOP 1.4.: Einrichtung eines Spielplatzes zwischen Würmtal- und Waldwiesenstraße
+- TOP 1.5.: Verkehrssituation Sauerbruchstraße / Haderner Weg
+- TOP 1.6.: Verkehrssituation Kriegerheimstraße / Lorettoplatz
+- TOP 1.7.: Kinderkrippe in der Marchioninistraße 1
+- TOP 1.8.: Bauvorhaben Wastl-Witt-Straße 17 - 27, Neubau zweier Wohngebäude mit Kinderkrippe und Tiefgarage
+- TOP 1.9.: Poststelle am Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Stiftsbogen 114, Aufstockung (Referat für Stadtplanung und Bauordnung, 25.09.13)
+- TOP 6.2.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Johanniter-Unfall-Hilfe e.V. - Lilalu (Direktorium, 27.09.13)
+- TOP 6.3.: Erinnerungsverfahren: Sonnenblumenstraße 49, 50 (Baureferat, 23.09.13)
+- TOP 6.4.: Erinnerungsverfahren: Gräfelfinger Straße 139 zwischen Am Heidebruch und Eichenstraße (Baureferat, 23.09.13)
+- TOP 6.5.: Canisiusplatz 3, Neubau eines Wohngebäudes (7 WE) mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 08.10.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Canisiusplatz 3, gem. Baumbestandsplan Nr. 2194
+- TOP 7.2.: Am Heidebruch 1, 4 Nadelbäume
+- TOP 7.3.: Am Waldrand 41 a, 1 Zierkirsche
+- TOP 7.4.: Asternstraße 5, 1 Walnussbaum
+- TOP 7.5.: Geranienstraße 4, 1 Kiefer
+- TOP 7.6.: Goldregenstraße 8 a, 1 Mammutbaum
+- TOP 7.7.: Heckenrosenstraße 3, 1 Fichte
+- TOP 7.8.: Hochwaldstraße 7, 1 Birke
+- TOP 7.9.: Maenherstraße 35, 1 Ahorn
+- TOP 7.10.: Magnolienweg 8, 1 Linde
+- TOP 7.11.: Steinbrechweg 19 a, 1 Weide
+- TOP 7.12.: Waldwiesenstraße 4 - 6, 1 Esche
+- TOP 7.13.: Krokusstraße 22 a, 1 Zierpflaume
+- TOP 7.14.: Terofalstraße 66, 1 Akazie
+- TOP 7.15.: Krokusstraße 75 - 77, 1 Birke
+- TOP 7.16.: Guardinistraße 153, 1 Spitzahorn
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Neufriedenheimer Straße 22, 1 Eberesche (Referat für Stadtplanung und Bauordnung, 13.09.13)
+- TOP 7.2.: Platanenstraße 1, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 16.09.13)
+- TOP 7.3.: Magnolienweg 8, 1 Hainbuche (Referat für Stadtplanung und Bauordnung, 24.09.13)
+- TOP 7.4.: Terofalstraße 9, 1 Robinie (Referat für Stadtplanung und Bauordnung, 04.10.13)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Waldwiesenstraße 27; eingeschränktes Haltverbot (Kreisverwaltungsreferat, 06.09.13)
+- TOP 8.2.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2014 - 2020 (Direktorium, 04.09.13)
+- TOP 8.3.: Arbeiten im Straßenraum: Senftenauerstraße zwischen Willibaldstraße und Menaristraße, Sanierungsarbeiten (Kreisverwaltungsreferat, 18.09.13)
+- TOP 8.4.: Beschlussvorlage für den Sozialausschuss: Städtisches Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B, Ludlstraße (Sozialreferat, 19.09.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Kindertageseinrichtungen Waldwiesenstraße 27 und Marchioninistraße 1 (Baureferat, 13.09.13)
+- TOP 9.2.: Städtebaulicher Vertrag vom 01.08.2005, Beleuchtung Wegeverbindung zwischen Max-Lebsche-Platz und Prälat-Wellenhofer-Straße (Referat für Stadtplanung und Bauordnung, 13.09.13)
+- TOP 9.3.: Nutzungsänderung für Freifläche zwischen Pasing und Blumenau (Referat für Stadtplanung und Bauordnung, 29.08.13)
+- TOP 9.4.: Bewohnter Wohnwagen in der Zöllerstraße (OB Ude, 12.09.13)
+- TOP 9.5.: Haus für Kinder an der Waldwiesenstraße 27, weitere Planungen (Referat für Bildung und Sport, 28.08.13)
+- TOP 9.6.: Umbenennung der "Ludlstraße" (Kommunalreferat, 26.08.13)
+- TOP 9.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.8.: Grundstück Stiftsbogen; Freizeiteinrichtung für Seniorinnen und Senioren (Sozialreferat, 04.09.13)
+- TOP 9.9.: Verkaufsstand in der Gelbhofstraße (Kommunalreferat, 23.09.13)
+- TOP 9.10.: Lichtzeichenanlage Fürstenrieder- / Andreas-Vöst-Straße - Freigabezeiten für Fußgänger - (Kreisverwaltungsreferat, 23.09.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Antrag BA 16: BA-Sitzungsunterlagen künftig auch in digitaler Form vorlegen Antrag BA 6: Pilotprojekt BA-online; Umstellung der derzeitigen Mailversendung der Beratungsgegenstände hin zu einem passwortgeschützten Downloadverfahren (Direktorium, 26.08.13)
+- TOP 11.2.: Dokumentation und Ausstellung "75 Jahre Eingemeindung Haderns nach München" (Geschichtsverein Hadern e.V.)
+- TOP 11.3.: Antrag BA 18 Untergiesing-Harlaching vom 17.09.2013: Budgetvergabe transparenter machen - mehrere Angebote einholen
+- TOP 11.4.: Antrag BA 14 und BA 8: Ressourcenverschwendung durch überflüssige Postsendungen stoppen (Direktorium, 20.09.13)
+- TOP 11.5.: Europäisches Jahr für aktives Altern und Solidarität zwischen den Generationen 2012 - Dokumentation - (Sozialreferat, 25.09.13)
+- TOP 11.6.: Einladung zum Morgenforum "WEG-Gebäude instand halten mit System" am Donnerstag, 17.10.2013 (Referat für Gesundheit und Umwelt, 27.09.13)
+- TOP 11.7.: Einladung zum Fachforum "Einregulierung der Lüftungsanlagen" am Mittwoch, 23.10.2013 (Referat für Gesundheit und Umwelt, 08.10.13)
+- TOP 11.8.: Schreiben BA 7 Sendling-Westpark: Fürstenrieder Straße Richtung Norden - Abbiegen zur Lindauer Autobahn mit zwei Fahrspuren - weniger Stau, Ortstermin am 22.10.2013
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12213 (nach Antrag): Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014 aufgrund von Änderungen des Bayer. Gemeinde- und Landkreiswahlgesetzes (BayGLKrWG), betreffend die Wählbarkeit und die Amtsniederlegung als BA-Mitglied ab 2014
+- TOP 12.2.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12455 (nach Antrag): Leistungsprogramm der MVG für die Fahrplanperiode 2014 (Hadern ist nicht betroffen)
+- TOP 12.3.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12112 (nach Antrag): Umsetzung der UN-Behindertenrechtskonvention Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention (Kosten in 2013 = 373.711,- ?, Folgekosten jährlich 552.065,- ?)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 11.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12131 (nach Antrag): Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztagszüge und offener Ganztagsangebote, insbesondere Küchensanierung und -erweiterung (mit Rampe und Vordach) für die Grund- und Mittelschule an der Guardinistraße 60 im 20. Stadtbezirk Hadern (= Maßnahme c, S. 3 - 4). Kosten 1.100.000,- ? (S. 5). Eine staatliche Förderung nach Artikel 10 des Bayer. Finanzausgleichsgesetzes (BayFAG) wird erwartet ("FAG + 15").
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 04.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12724 (nach Antrag): Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2020 (Wieder 23 Mitglieder bei einer Einwohnerzahl von 48.775). Der BA Hadern hat dem zugestimmt.
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 11.06.2013 zur Sitzungsvorlage-Nr. 08-14 / V 11563 (nach Antrag): Kindertagesstätten sonstiger Träger (hier: MDM Kinderbetreuung GmbH); Haus für Kinder Gelbhofstraße 6 im 20. Stadtbezirk Hadern mit 52 Plätzen Leistung eines Baukostenzuschusses nach BayKiBiG; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 iHv 1.037.971,- ?, wovon der Freistaat Bayern 611.500,- ? trägt. Die Elterngebühren betragen für einen Krippenplatz 380 - 800,- ? monatlich, für einen Kindergartenplatz 260 - 470,- ? monatlich. Das Verpflegungsgeld beträgt monatlich 80,- ?.
+- TOP 12.1.: Hinweis / Ergänzung vom 11.09.2013 und Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12778: Baumschutzoffensive I: Umfassende Information über Baumschutz Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung Den Baumschutzbelangen wird im Baugenehmigungsverfahren im Rahmen der rechtlichen Möglichkeiten Rechnung getragen.
+- TOP 12.2.: Hinweis / Ergänzung vom 11.09.2013 und Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12850: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Kosten einer Untersuchung 30.000,- ?)
+- TOP 12.3.: Beschluss des Bauausschusses vom 24.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12257: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder (wird vom Baureferat abgelehnt)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12943: Fahrradschnellwege ins Münchner Umland - in die interkommunale Kooperation einsteigen - erste Pilotprojekte beginnen (wird vom Planungsreferat unterstützt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10157 (wurde vom BA Hadern zur Kenntnis genommen): Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen, insbesondere zum LKW-Durchfahrtsverbot und seinen Ausnahmen zwischen der A 8 (Salzburg), der A 95 (Garmisch) und der A 96 (Lindau) (= S. 4)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Hinweis / Ergänzung vom 11.09.2013 und Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12544: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München, insbesondere zur Gesamtverkaufsfläche in Hadern, die rückläufig ist (Tabelle 2, S. 4)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12957: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2013 - 30.06.20103
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
