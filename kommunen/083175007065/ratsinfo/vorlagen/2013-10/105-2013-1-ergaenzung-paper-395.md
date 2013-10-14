@@ -1,0 +1,22 @@
+# Umbau und Erweiterung der Otto-Hahn-Realschule zur Ganztagsschule - Vorstellung der Entwurfsplanung
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 105/2013 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2013-10-14
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZUhjQvWJrsJEMSQlWlLA9QI
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/395
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Umbau und Erweiterung der Otto-Hahn-Realschule zur Ganztagsschule
+- Vorstellung der Entwurfsplanung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWgyFtopOMlvcglaJzY43NokTOx0OkG5TXAHEarhSLnH/Beschlussvorlage_105-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Städtebauliches Konzept) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWM2wvuym30EHBH7tJrwH6cToOywBqm7mS0RJoyI9YdY/Staedtebauliches_Konzept.pdf
+- Anlage: Beschlussvorlage (Perspektiven Neuer Pausenhof) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbicm42fRPIDEOaPyljClstgOc66dVcoWhBxeycOUqCT/Perspektiven_Neuer_Pausenhof.pdf
+- Anlage: Beschlussvorlage (Perspektiven Gebäudekonzept) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ5AMDCYpbPyEb2W_qMxcxNOmRGwBx6ztIDIrY4XfOSD/Perspektiven_Gebaeudekonzept.pdf
+- Anlage: Beschlussvorlage (Grundriss Erdgeschoss) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdXhLAFQYcBODBMRetP-iSfsxQ5OBoDxnYPK_leHVMcN/Grundriss_Erdgeschoss.pdf
+- Anlage: Beschlussvorlage (Grundriss Obergeschoss) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQRnt9C7K6CUdgFFck4QQgQP7sRNkydHlYBhbMXYaYQm/Grundriss_Obergeschoss.pdf
+- Anlage: Beschlussvorlage (Grundriss Erdgeschoss Veranstaltungsmöglichkeit) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXLbh8NMd9nrw5wErqzkuvol8IP53baJCltqQyPuyOvB/Grundriss_Erdgeschoss_Veranstaltungsmoeglichkeit.pdf
+- Anlage: Beschlussvorlage (Flächenaufstellung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYI8Ru5RhAa7_bRoELZMoWzELHr6f7RHs_kVti5CCMlL/Flaechenaufstellung.pdf
+- Anlage: Beschlussvorlage (Kostenschätzung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZam6A-EDfABi06TrDSYL0ocYKJWaQraUBH0nPNQB7Er/Kostenschaetzung.pdf
+- Anlage: Beschlussvorlage (Pädagogisches Konzept der OHR) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsrPJjR75NqQhYYTEpTYbTZgI1dGXENO5a-tK4aXSuL/Paedagogisches_Konzept_der_OHR.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/547 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-29
