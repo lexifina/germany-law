@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-10-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der August-Sitzung 1.3.2 Protokoll der September-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Theater Stückwerk ?Münchner Frühling? von 03. bis 06.10.2013
+- TOP 3.2.: AntragstellerIn: Raabennest Kindergarten e.V., für die Maßnahme: Erneuerung Sandkasten; Antragssumme: ursprünglich 7.230,74 ? (inzwischen reduziert); Beschlussvorlage des Direktoriums vom 27.05.13 (vertagt aus der Sitzung vom 16.07.13)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Antrag auf Verbesserung der Lebenssituation am Mittleren Ring, Tegernseer Landstraße - St.-Quirin-Platz; BA-Antrag Nr. 08-14 / B 04726 vom 19.03.13; Nachfrage des BA 18 zum Erscheinungsdatum der Machbarkeitsstudie Mittlerer Ring / Tegernseer Landstraße; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 17.09.13 (neutrale Erledigung)
+- TOP 3.2.: Sanierung des Rad- und Gehwegs in der Geiselgasteigstraße; Bürgeranliegen; Antwortschreiben des Baureferats vom 06.09.13 (positive Erledigung)
+- TOP 3.1.: Fahrradschnellwege ins Münchner Umland - in die interkommunale Kooperation einsteigen - erste Pilotprojekte beginnen; Antrag Nr. 08-14 / A 04423 der Stadtratsfraktion DIE GRÜNEN/RL vom 04.07.2013; Sitzungsvorlagen Nr. 08-14 / V 12943; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 (SB)
+- TOP 3.2.: Vorbehaltsnetz für den städt. Wirtschaftsverkehr in München; Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen - Ausbau der Bahnunterführung an der Bodenseestraße (Ziffer 1 des Antrags); Empfehlung Nr. 08-14 / E 01793 der BÜV des 21. Stadtbezirkes vom 25.04.2013; Sitzungsvorlagen Nr. 08-14 / V 10157; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 25.09.2013 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Beschwerde über Müll + Schmutz am Wettersteinplatz; Bürgerschreiben vom 07.08.2013; Antwortschreiben des Baureferats-Tiefbau vom 03.09.13 (positive Erledigung)
+- TOP 3.2.: Anfrage zum Rückgang des Baumbestandes / der Zunahme der Versiegelung im Gartenstadtgebiet Harlaching; BA-Antrag Nr. 08-14 / B 04673 vom 19.03.13; Antwortschreiben der Unteren Naturschutzbehörde vom 06.09.13 (neutrale Erledigung)
+- TOP 3.3.: Baumfällungen auf dem Grundstück Griechenplatz 13 / Langobardenstr. 5 und 8; Antrag des BA 18 auf Einsichtnahme in die Bußgeldakten; Zwischennachricht der Lbk vom 13.09.13 mit der Bitte um Fristverlängerung bis Ende Oktober
+- TOP 3.1.: Baumschutzoffensive I: Umfassende Information über Baumschutz Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung Anträge Nrn. 08-14 / A 03235, A 03236 u. A 03238 der Stadtratsfraktion DIE GRÜNEN/RL vom 04.04.2012; Sitzungsvorlagen Nr. 08-14 / V 12778; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013 (SB) zu 3.3.6.1 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 25.09.2013 (SB)
+- TOP 3.2.: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr; Sitzungsvorlagen Nr. 08-14 / V 12850; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 18.09.2013 (SB) zu 3.3.6.2 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 25.09.13 (SB)
+- TOP 3.3.: Unterrichtungen der Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.3.1 Grünwalder Str. 40; Bescheid vom 18.09.2013 3.3.6.3.2 Laufzorner Str. 8; Bescheid vom 27.09.13
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder; Stadtratsantrag Nr. 08-14 / A 04264 vom 21.05.13; Sitzungsvorlage Nr. 08-14 / V 12257; Beschluss des Bauausschusses vom 24.09.13 (SB)
+- TOP 3.2.: Umsetzung der UN-Behindertenrechtskonvention; Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen; Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention; München wird inklusiv; Sitzungsvorlage Nr. 08-14 / V 12112; Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 3.3.: Kindertagesstätten sonstige Träger; Kinderkrippe Schönstraße 106 im 18. Stadtbezirk Untergiesing-Harlaching; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2014; Sitzungsvorlage Nr. 08-14 / V 12999; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 09.10.2013 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. XXXXX; Candidstraße (südlich), Hellabrunner Str. (östlich), Salierstraße (westlich) (Änderung des Bebauungsplanes Nr. 10b) - ehem. Osramgelände - Eckdaten- u. Aufstellungsbeschluss - B) Auslobung eines städtebaulichen und landschaftsplanerischen Wettbewerbes; Beschlussentwurf des Referats für Stadtpl. u. Bauordnung vom 19.09.13 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Seybothstraße 16, Erweiterung eines Einfamilienhauses; Anhörung vom 06.09.13 (vertagt aus der Sitzung vom 17.09.13)
+- TOP 3.2.: Lorenzonistraße 74a, DG-Ausbau im Hofbereich in Form einer Dachgaube, Angleichung der Dachfläche im Straßenbereich an das gedämmte Dach des Nachbarn, Einbau einer Treppe zum DG, Nutzung des Dachraums als Hobby- u. Abstellraum; Anhörung vom 06.09.13 (vertagt aus der Sitzung vom 17.09.13)
+- TOP 3.3.: Tierparkstr. 30, Abbruch der Kuppel des Elefantenhauses sowie Neuerrichtung in Stahlbauweise; Anhörung vom 09.09.13 (vertagt aus der Sitzung vom 17.09.13)
+- TOP 3.4.: Königswarterstr. 12, Neubau eines Einfamilienhauses mit Garage u. TG - VORBESCHEID (V 2); Anhörung vom 19.09.13
+- TOP 3.5.: Königswarterstr. 12, Neubau eines Einfamilienhauses mit Garage und TG - VORBESCHEID (V 3); Anhörung vom 19.09.13
+- TOP 3.6.: Königswarterstr. 12, Neubau eines Reihenhauses mit TG - VORBESCHEID (V 1A); Anhörung vom 19.09.13
+- TOP 3.7.: Königswarterstr. 12, Neubau eines Reihenhauses mit TG - VORBESCHEID (V 1B); Anhörung vom 19.09.13
+- TOP 3.8.: Athener Str. 26, Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 18.09.13
+- TOP 3.9.: Gerhardstr. 5, Nutzungsänderung: Speicher zu Wohnraum sowie Errichtung einer Gaube u. einer Dachterrasse im 7. OG u. eines Balkons im 6. OG; Anhörung vom 23.09.13
+- TOP 3.10.: Grünwalder Str. 72, Umbau u. Erweiterung Zentral-OP - VORBESCHEID; Anhörung vom 24.09.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Vollzug der Erhaltungssatzung Untere Au / Untergiesing; Genehmigungsverfahren nach § 172 Abs. 1 Satz 2, Abs. 4 BauGB und §§ 2,3 der Satzung; Oefelestraße 15; Schreiben des BA 18 vom 18.04.2013; Antwortschreiben des Sozialreferats vom 16.09.2013 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Mitteilung des Kommunalreferats vom 02.09.13 über ein Grundstücksgeschäft; Flst. Sektion VII, 1210 Sektion VII, Bahnlinie München - Rosenheim - Kauf
+- TOP 3.3.: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der LHM; Sitzungsvorlagen Nr. 08-14 / V 12544; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 18.09.2013 zu 3.5.6.3 Hinweis/Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 25.09.13
+- TOP 3.4.: Gastsstätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 Kleingaststätte "Café Bar 23", Grünwalder Str. 9; Mitteilung vom 10.09.13
+- TOP 3.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtpl. u. Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2013 - 30.06.2013; Sitzungsvorlagen Nr. 08-14 / V 12957; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 25.09.2013
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Mitmachzirkus an der Oberbiberger Straße; Bürgerschreiben vom 07.09.13 (vertagt aus der Sitzung vom 17.09.13)
+- TOP 3.1.: Trommeln am Hans-Mielich-Platz ? Veranstaltung der BI ?Mehr Platz zum Leben? am 13.12.2013; Sperrung der Unterführung; Antrag der Fraktion Bündnis 90/Die Grünen vom 29.09.2013
+- TOP 3.1.: Veranstaltung im Freien in einer städt. Grünanlage; hier: offenes Feuer im Feuerkorb des Kindergartens Biene Maja e.V. anlässlich St. Martin in der Grünanlage Karolingerallee, Ecke Harlachinger Straße am 11.11.13
+- TOP 3.2.: Münchens Stadtteilkultur stärken; Stadtratsantrag Nr. 08-14 / A 04384 vom 27.06.13; Ausweitung von Betriebszuschüssen ab 2014; Personalkostenaufstockung (Ausweitung SNP) ab 2014; Beschlussentwurf des Kulturreferats mit der Bitte um Stellungnahme (Fristverlängerung bis 16.10.13 gewährt)
+- TOP 3.1.: Anfrage zur Nutzung des Strom- u. Wasseranschlusses des Münchner Kindl-Heims; Antwortschreiben des Einrichtungsleiters vom 25.09.13 (neutrale Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen; BA-Antrag Nr. 08-14 / B 03815 des BA 14 vom 27.03.12; BA-Antrag Nr. 08-14 / B 03878 des BA 8 vom 17.05.12; Schreiben des Direktoriums vom 20.09.2013 (neutrale Erledigung)
+- TOP 4.2.: Instandsetzung des Zauns und der Zugangstür zum Bahndamm rechts von der Bahnunterführung Claude-Lorrain-Straße zum Hans-Mielich-Platz; Antrag der SPD-Fraktion vom 19.06.12; Antwortschreiben der DB Netz AG vom 12.09.2013 (positive Erledigung)
+- TOP 4.3.: Ruhestörungen im Anwesen Pilgersheimer Str. 42; Bürgeranliegen aus der September-Sitzung; Stellungnahme der PI 23 vom 24.09.13 (positive Erledigung)
+- TOP 4.4.: Schaukastenstandort Schönstraße; Schaukastenstandort Candidplatz; Anliegen des BA 18; Stellungnahme des Kommunalreferats vom 30.09.2013
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2014 bis 2020; Sitzungsvorlage Nr. 08-14 / V 12724; Beschluss des Verwaltungs- u. Personalausschusses als Feriensenat vom 04.09.2013
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
