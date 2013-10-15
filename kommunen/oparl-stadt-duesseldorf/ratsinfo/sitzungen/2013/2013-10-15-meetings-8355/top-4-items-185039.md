@@ -1,0 +1,7 @@
+# TOP 4: Fachübergreifende Vorlagen
+
+- Sitzung: Jugendhilfeausschuss (2013-10-15)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/185039
+- Ergebnis: zur Kenntnis genommen
