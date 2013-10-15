@@ -1,0 +1,62 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-10-15T16:00:00+02:00
+- Ende: 2013-10-15T18:25:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8205
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8205
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202851.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202851.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202851.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 3: Martinszug 2013 - einstimmig beschlossen
+- TOP 4: Parkstreifen Garath SW - einstimmig beschlossen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 6: "Rodelberg", Hellerhof - zur Kenntnis genommen
+- TOP 7: Abwasserkanäle Grünverbindungsweg Garath SW - zur Kenntnis genommen
+- TOP 8: Planungsstand Gelände zwischen Am Kapeller Feld und Garather Mühlenbach - zur Kenntnis genommen
+- TOP 9: Neuvermietung, LEG - zur Kenntnis genommen
+- TOP 10: Anträge - zur Kenntnis genommen
+- TOP 11: Zuschuss 2013 - einstimmig beschlossen
+- TOP 12: Zuschuss aus Verfügungsmitteln - einstimmig beschlossen
+- TOP 13: Zuschuss aus Verfügungsmitteln für den Bürgerverein Hellerhof e.V. - einstimmig beschlossen
+- TOP 14: Wlan-HotSpots - einstimmig beschlossen
+- TOP 15: Ergebnisse Seniorenbefragung - einstimmig beschlossen
+- TOP 16: Sanierung Einkaufszentrum Garath Nord-West - einstimmig beschlossen
+- TOP 17: Einrichtung einer Parkourstrecke in Garath - einstimmig beschlossen
+- TOP 18: Aufzüge an den S-Bahnhöfen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 19: Zuschuss Garather Jonges 1969 e.V. - einstimmig beschlossen
+- TOP 20: Verfügungsmittel - einstimmig beschlossen
+- TOP 21: Zuschuss - einstimmig beschlossen
+- TOP 22: Zuschuss - einstimmig beschlossen
+- TOP 23: Zuschuss - einstimmig beschlossen
+- TOP 24: Zuschuss - einstimmig beschlossen
+- TOP 25: Zuschuss - mehrheitlich beschlossen
+- TOP 26: S-Bahn, Fahrgastinformationen - einstimmig beschlossen
+- TOP 27: Zuschuss - vertagt
+- TOP 28: Bezirksbezogene Verfügungsmittel - einstimmig beschlossen
+- TOP 29: Zuschuss - einstimmig beschlossen
+- TOP 30: Zuschuss - zurückgezogen
+- TOP 31: Zuschuss - einstimmig beschlossen
+- TOP 32: Haushaltsplanberatung - zur Kenntnis genommen
+- TOP 33: Anfragen zum Haushaltsplan 2014 - Entwurf - zur Kenntnis genommen
+- TOP 34: Sanierung EKZ Garath NW - zur Kenntnis genommen
+- TOP 35: Verschiedenen Produktnummern - zur Kenntnis genommen
+- TOP 36: Anträge zum Haushaltsplan 2014 - Entwurf - zur Kenntnis genommen
+- TOP 37: Anschubfinanzierung zur Ausbaustärkung EKZ Garath SW - mehrheitlich abgelehnt
+- TOP 38: Grundschulen - mehrheitlich abgelehnt
+- TOP 39: Jugendarbeit - mehrheitlich abgelehnt
+- TOP 40: Winterdienst - mehrheitlich abgelehnt
+- TOP 41: Unterhaltung des öffentlichen Grüns - mehrheitlich abgelehnt
+- TOP 42: Einrichtung einer öffentl. Toilette in Hellerhof - mehrheitlich abgelehnt
+- TOP 43: Informationsvorlagen - zur Kenntnis genommen
+- TOP 44: Straßenbaumstatistik 2013 - zur Kenntnis genommen
+- TOP 45: Verschiedene Stellungnahmen - zur Kenntnis genommen
