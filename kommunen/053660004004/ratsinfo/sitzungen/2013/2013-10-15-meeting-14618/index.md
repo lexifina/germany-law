@@ -1,0 +1,52 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2013-10-15T18:00:00+02:00
+- Ende: 2013-10-15T19:50:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZb4lIVBOz7h5HJ48ytQd7c
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/14618
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXtw1fXkX3i-7AxjjioFto07MISzcBHkOge7_5NDeYvM/Bekanntmachung_Rat_15.10.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSfhHgFwex3_BKjulTBIrCbXtqKaXHQ42gTbb09hd3c-/Oeffentliche_Niederschrift_Rat_15.10.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 24.09.2013 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Einrichtung eines Energiebeirates mit der Kreis-Energie-Versorgung Schleiden GmbH; hier: Benennung der Gremienmitglieder - Einstimmiger Beschluss:
+- TOP 7.: Öffentlich-rechtliche Vereinbarung zwischen den Städten Bad Münstereifel und Euskirchen zur gemeinsamen Wahrnehmung der Aufgaben der Volkshochschule (VHS); hier: Anfrage der Stadt Euskirchen vom 15.08.2013 - Einstimmiger Beschluss:
+- TOP 8.: Satzung zur Aufhebung der Satzung über die Desinfektionsstelle der Stadt Bad Münstereifel und über die Erhebung von Gebühren für Desinfektionen - Einstimmiger Beschluss:
+- TOP 9.: Bebauungsplan Nr. 82 Teilbereich 1 "Ebenerdige Stellplätze Große Bleiche" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Der Abwägungsbeschluss:Behörden und sonstige Träger öffentlicher Belange – T 5 Nr. 5 erfolgt mit 27 Ja-Stimmen zu 1 Nein-Stimme bei 1 Enthaltung.Weitere Abwägungsbeschlüsse sind nicht zu fassen. Beschluss mit 26 Ja-Stimmen zu 1 Nein-Stimme bei 2 Enthaltun
+- TOP 10.: 4. vereinfachte Änderung des Bebauungsplanes Nr. 37 "Kirspenich-Flettenberg" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse erfolgen mit folgenden Ausnahmen einstimmig:Behörden und sonstige Träger öffentlicher Belange – 05.2-1 sowie Anwohner 1.1 und 1.2: Abwägungsbeschluss mit 28 Ja-Stimmen bei 1 Enthaltung.Beschluss mit 28 Ja-Stimmen bei 1 Enthaltung:
+- TOP 11.: Abschluss einer Verwaltungsvereinbarung mit dem Land Nordrhein-Westfalen- Landesbetrieb Straßenbau NRW-Straßenbauverwaltung und der Stadt Bad Münstereifel über den verkehrsgerechten Umbau der L 165 Trierer Straße in Bad Münstereifel -Genehmigung der Dringlichkeit- - Einstimmiger Beschluss:
+- TOP 12.: Bebauungsplan Nr. 85 "ZOB-Bahnhof" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse erfolgen mit folgenden Ausnahmen einstimmig:Träger öffentlicher Belange – 5.1: Abwägungsbeschluss mit 29 Ja-Stimmen zu 1 Nein-Stimme,Träger öffentlicher Belange – 5.3: Abwägungsbeschluss mit 29 Ja-Stimmen bei 1 Enthaltung,Träger öf
+- TOP 13.: Feststellung Jahressabschluss Forstbetrieb zum 31.12.2010 - Einstimmiger Beschluss:
+- TOP 14.: Erlass des Wirtschaftsplanes 2014 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 15.: Verbesserung der Schulwegsicherheit im Rahmen des verkehrsgerechten Umbaus der L 165 Trierer Straße (westlicher Teil); hier: Umplanung - Einstimmiger Beschluss:
+- TOP 16.: Feststellung Jahresabschluss zum 31.12.2011 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 17.: Feststellung Jahresabschluss zum 31.12.2011 des Eigenbetriebs Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 18.: Erlass der Wirtschaftspläne 2014 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Abwasser und Wasser hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 19.: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Haushaltsverfügung des Landrates des Kreises Euskirchen als untere staatliche Verwaltungsbehörde vom 19.07.2013 - Genehmigung der Dringlichkeit - - Einstimmiger Beschluss:
+- TOP 20.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Sachstand - Einstimmiger Beschluss:
+- TOP 21.: Haushalt 2013 hier: Bericht zum 31.08.2013 im Rahmen des Finanzcontrollings - Einstimmiger Beschluss:
+- TOP 22.: Erlass der Haushaltssatzung für die Haushaltsjahre 2014/2015 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2016-2025 hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 23.: Anfragen und Mitteilungen
+- TOP 23.1: Einrichtung einer Projektgruppe zur Einführung einer Kosten- und Leistungsrechnung - Beschluss
+- TOP 23.2: Vereinbarung zwischen der Stadt und den Betrieben über die Aufnahme und Bewirtschaftung liquider Mittel - Beschluss
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Umsetzung verkehrlicher Baumaßnahmen aus dem Verkehrskonzept und der Verwaltungsvereinbarung mit dem Landesbetrieb im Bereich Trierer Straße/Sittardweg hier: Vertragsabschluss mit Projektträger - Genehmigung einer Dringlichkeit- - Beschluss mit 27 Ja-Stimmen bei 1 Enthaltung:
+- TOP 2.: Verbesserung der Schulwegsicherheit im Rahmen des verkehrsgerechten Umbaus der L 165 Trierer Straße (westlicher Teil); hier: Genehmigung einer überplanmäßigen Auszahlung - Genehmigung der Dringlichkeit- - Beschluss mit 27 Ja-Stimmen bei 1 Enthaltung:
+- TOP 3.: Ausschreibung Stromlieferung; hier: Vergabe - Mit 9 Ja-Stimmen zu 21 Nein-Stimmen wird der Antrag von Herrn Matthias Hürten und Georg Borsch, sich für Ökostrom zu entscheiden, abgelehnt.Beschluss mit 21 Ja- zu 8 Nein-Stimmen bei 1 Enthaltung:
+- TOP 4.: Anpassung einer Grunddienstbarkeit - Beschluss mit 23 Ja- zu 6 Nein-Stimmen bei 1 Enthaltung:
+- TOP -: Anpassung einer Grunddienstbarkeit - Beschluss
+- TOP -: Anpassung einer Grunddienstbarkeit - Beschluss
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Erlass der Haushaltssatzung für das Haushaltsjahr 2013 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2014 - 2023; hier: Gemeinschaftlicher Antrag der Stadtratsfraktionen vom 22.05.2013 - Beschluss
+- TOP 5.2: Papierloser Sitzungsdienst; Sachstand
