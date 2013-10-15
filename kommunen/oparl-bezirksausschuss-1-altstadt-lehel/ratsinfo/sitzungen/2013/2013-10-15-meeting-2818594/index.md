@@ -1,0 +1,98 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-10-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums in der Thierschstraße 46, Beschluss des Ausschusses für Bildung und Sport vom 09.10.2013; Diskussion mit einer Vertreterin des Baureferats im Unterausschuss
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Thierschstraße 8 ? 10: Neubau eines Wohnheims für Auszubildende (Vorbescheid) (vertagt aus den Sitzungen vom 14.08.2013 und 17.09.2013)
+- TOP .2.: Kardinal-Faulhaber-Straße 1: Um- und Neubau der Gebäudeteile (Vorbescheid) (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .3.: Hackenstraße 6: Errichtung eines Neubaus (Vorbescheid) (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .4.: Neuhauser Straße 12: Nutzungsänderung Büro- zu Verkaufsflächen (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .5.: Weinstraße 9: Nutzungsänderung 3. und 5. OG (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .6.: Ländstraße 6: Nutzungsänderung eines Wohnheims in ein Boardinghaus und Wohnheim (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .7.: Maximilianstraße 39: Neubau Besprechungszentrum, Kantine, Kinderkrippe und Tiefgarage
+- TOP .8.: Oberanger 43 ? 45: Revitalisierung eines Wohn- und Geschäftsquartiers mit Aufstockung und Neubau
+- TOP .9.: NACHTRAG: Karlsplatz 7: Neubau eines Wohn- und Geschäftshauses
+- TOP .10.: NACHTRAG: Marienplatz 22: Umbau eines Geschäftsgebäudes mit Fassaden-Neugestaltung (Vorbescheid)
+- TOP .11.: NACHTRAG: Reitmorstraße 17: Umbau Erdgeschoss mit Errichtung eines Rückgebäudes (Vorbescheid)
+- TOP .12.: NACHTRAG: Oettingenstraße 16: Nutzungsänderung/Umbau und Sanierung (...)
+- TOP .13.: NACHTRAG: Maximilianstraße 36: Umbau und Sanierung Innenhof
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Tranquillo?, Frauenstraße 34: Genhemigung einer Freischankfläche
+- TOP .2.: NACHTRAG: ?Poseidon?, Westenriederstraße 13: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Genehmigung eines mobilen Fahrradständers, Fürstenfeldstraße 13
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Informationsveranstaltung des DLRG am 09.12.2013, Odeonsplatz
+- TOP .2.: NACHTRAG: Weihnachtsmarkt am Chinesischen Turm vom 29.11. - 23.12.2013
+- TOP .3.: NACHTRAG: Münchner Eiszauber vom 22.11.2013 ? 19.01.2014, Karlsplatz
+- TOP .1.: Weihnachtsmarkt ?Alpenwahn? 2014
+- TOP .1.: Projektplanung Bushaltestellen Prälat-Zistl-Straße, Gespräch mit Vertretern des Baureferats und dem Behindertenbeauftragten im Unterausschuss
+- TOP .2.: Bürgeranliegen: Baumfällungen auf dem Grundstück Franz-Joseph-Strauß-Ring 4, Gespräch mit Vertretern der Bauherrin, dem Staatlichen Bauamt, der Unteren Naturschutzbehörde und den Bürgern in der Unterausschusssitzung vom 08.10.2013
+- TOP .1.: Bürgeranliegen: Planung Tiefgarage Thomas-Wimmer-Ring (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .2.: Bürgeranliegen: Verkehrliche Situation und Abfallbehälter in der Christophstraße (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .1.: Baumfällung Lenbachplatz 7
+- TOP .1.: Unterausschuss: Entwurf eines Schreibens an das Kulturreferat bzgl. deren Praxis, Antragsteller an den BA zu verweisen (vertagt aus der Sitzung vom 17.09.2013)
+- TOP .1.: BA-Budget: Umzugskostenhilfe für den Kindergarten am St. Anna-Platz BESCHLUSS EINFÜGEN!!!
+- TOP .2.: (E) Budget der Bezirksausschüsse Kindergarten am St.Anna-Platz e.V. Kosten des Umzugs des Kindergartens zum 01.10.2013
+- TOP .1.: Antrag des BA 13 auf Satzungsänderung bzgl. der Belange der Kinderbetreuung
+- TOP .2.: Münchens Stadtteilkultur stärken: Ausweitung von Betriebszuschüssen am 2014, Personalkostenaufstockung, Antrag Nr. 08-14 / A 04384 FRIST ist der 15.10.2013, VORSCHLAG DAHER: VORBERATUNG IM UA, DANN EILENTSCHEIDUNG DURCH DEN VORSITZENDEN
+- TOP .1.: Veranstaltung für Anlieger der Fußgängerzone bzgl. Barrierefreiheit, verschiedene Termine
+- TOP .2.: Runder Tisch ?Tal? am 17.10.2013
+- TOP .3.: Jahrestreffen des Referats für Stadtplanung und Bauordnung mit dem BA 1 am 05.11.2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Schreiben des Direktoriums an die Parteien bzgl. der Bildung der Bezirksausschüsse für die Amtsperiode 2014 ? 2020
+- TOP 0.2.: Antwortschreiben des Direktoriums zum Antrag des BA 14: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzepts der Landeshauptstadt München, Bekanntgabe in der Vollversammlung vom 02.10.2013
+- TOP 0.3.: Verbot der Zweckentfremdung von Wohnraum; Beschluss des Sozialausschusses vom 19.09.2013, Sitzungsvorlage Nr. 08-14/ V 12583
+- TOP 0.4.: Aufnahme des Fußgängerzonenabschnitts Sendlinger Straße, sowie des Tals, der Diener- und der Residenzstraße in den Geltungsbereich der Altstadtfußgängerzonensatzung; Zwischennachricht des Kreisverwaltungsreferats zum BA-Antrag Nr. 08-14/B 4267 und Schreiben vom 27.08.2013
+- TOP 0.5.: Beschlussvollzugskontrolle, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 12957
+- TOP 0.6.: Antwortschreiben und Baugenehmigung der LBK zum Bauvorhaben Maximilianstraße 33
+- TOP 0.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Bürgerbeschwerde über Lärm am Marienplatz
+- TOP 0.6.: Entscheidung der 1. Bürgermeisterin zur Freischankfläche ?Cole & Porter?, Sendlinger Straße 10
+- TOP 0.7.: Erfahrungsbericht Isarinselfest
+- TOP 0.8.: Eilentscheidung zur Geschäftsneueröffnung Neuhauser Straße 19-21 vom 10.10.2013 ? 12.20.2013
+- TOP 0.9.: Eilentscheidung zu einer Lichtinstallation von Plan International e.V. am 11.10.2013, Promenadeplatz
+- TOP 0.10.: Verlängerung des Aufstellungszeitraumes bis zum 18.11.2013 für die Kunstinstallation ?Denkmal der Grauen Busse? auf dem Marienhof
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Halteverbotszone zur Sicherstellung polizeilicher Aufgaben vor dem Anwesen Hackenstraße 4
+- TOP 0.2.: Zur Energiewende gehört die Verkehrswende ? München setzt auf postfossilen Verkehr; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013, Sitzungsvorlage Nr. 08-14/ V 12850
+- TOP 0.3.: Mehr Aufenthaltsqualität in der Prälat-Zistl-Straße; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013, Sitzungsvorlage Nr. 08-14/ V 10123
+- TOP 0.4.: Baumschutzoffensive I: Umfassende Information über Baumschutzoffensive Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013, Sitzungsvorlage Nr. 08-14/ V 12778
+- TOP 0.5.: Frauuenplatz bis Löwengrube; Beschluss des Bauausschusses vom 24.09.2013, Sitzungsvorlage Nr. 08-14/ V 12729
+- TOP 0.6.: Fahrradschnellwege ins Münchner Umland ? in die interkommunale Kooperation einsteigen ? erste Pilotprojekte beginnen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / A 4423
+- TOP 0.7.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München (?); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 10157
+- TOP 0.8.: Straßenbauarbeiten Residenzstraße zwischen Maximilianstr./Perusastr. und Hofgraben/Schrammerstraße
+- TOP 0.9.: Baumschutzoffensive I, II und IV, Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 12778
+- TOP 0.10.: Schreiben des KVR auf eine Bürgeranfrage bzgl. Kurzzeitparken in der Oettingenstraße
+- TOP 0.1.: Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2014 ? 2020, Beschluss in der Sitzung des Verwaltungs- und Personalausschusses als Feriensenat vom 04.09.2013, Sitzungsvorlage Nr. 08-14/ V 12724
+- TOP 0.2.: Umsetzung der UN-Behindertenrechtskonvention Maßnahmen und 1. Aktionsplan sowie weiteres Vorgehen Einrichtung eines Koordinierungsbüros zur Umsetzung der UN-Behindertenrechtskonvention, Beschluss der Vollversammlung vom 24.07.2013, Sitzungsvorlage Nr. 08-14/ V 12112
+- TOP 0.3.: Einzäunung von Kleinspielplätzen als Ruhebereich für Kinder; Beschluss des Bauausschusses vom 24.09.2013, Sitzungsvorlage Nr. 08-14 / V 12257
+- TOP 0.4.: Antrag des BA 18: Budgetvergabe transparenter machen ? mehrere Angebote einholen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 0.12.: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013, Sitzungsvorlage Nr. 08-14/ V 12978
