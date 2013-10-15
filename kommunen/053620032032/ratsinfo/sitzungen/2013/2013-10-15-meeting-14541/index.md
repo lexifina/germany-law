@@ -1,0 +1,62 @@
+# Stadtrat (29. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-10-15T17:00:00+02:00
+- Ende: 2013-10-15T18:51:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRXsNt7hPwIZ9898L-jf1mg
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14541
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRdzIxepuE2mXwxqw391dvKDwI_AerGE_3ZpM0Xx6hjI/Bekanntmachung_Stadtrat_15.10.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZnTJRZvktuq97GaquopbSJFjzsbnvdGThUNe0yQyYxn/Oeffentliche_Niederschrift_Stadtrat_15.10.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Einführung und Verpflichtung der neuen Stadtverordneten Ursula Schmitz
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Antrag der CDU-Fraktion
+- TOP 2.2: Antrag der SPD-Fraktion
+- TOP 2.3: Antrag der FDP-Fraktion
+- TOP 2.4: Besetzung des Schulausschusses hier: Benennung von beratenden Mitgliedern
+- TOP 2.5: Umbesetzung des Ausschusses für Stadtplanung und Verkehr und des Sozialausschusses hier: beratende Mitglieder des Seniorenbeirates
+- TOP 2.6: Umbesetzung von Räten in städtischen Kindertageseinrichtungen
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 1. Änderung der Verwaltungsgebührensatzung vom 20.03.2002
+- TOP 3.2: 6. Satzung zur Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen (Muslimische Bestattungen)
+- TOP 3.3: 3. Satzung zur Änderung der Satzung über die Erhebung von Vergnügungssteuer in der Kolpingstadt Kerpen (Vergnügungssteuersatzung)
+- TOP 4.: Kündigung der Mitgliedschaft der Kolpingstadt Kerpen im Zweckverband "Musikschule La Musica"
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Umsiedlung Manheim hier: Schülertransportkosten und Kindergartentransfer
+- TOP 5.2: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.3: Bebauungsplan KE 353 "Nördlicher Rad/Gehweg K17", Stadtteil Kerpen hier: Aufstellungsbeschluss gem § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan KE 354 "Südlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.5: Beschluss zur Feststellung der endgültig fertig gestellten Teilfläche der Erschließungs-anlage "Vinzenzstraße" beginnend von der Schulstraße bis zur Parzelle 446 im Stadtteil Kerpen hier: Beratung über die eingegangenen Stellungnahmen der Öffentlichkeit sowie der Behörden und Trager öffentlicher Belange
+- TOP 5.6: Bebauungsplan KE Nr. 344, 1. Änderung "Stiftsstraße" im Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.7: Vorhabenbezogener Bebauungsplan KE 263 A "Westliche Teilfläche Hubertusbusch" im Stadtteil Kerpen hier: Einleitungsbeschluss gem. § 12 (2) BauGB und Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.8: Vorhabenbezogener Bebauungsplan KE Nr. 263 A "Westl. Teilbereich Hubertusbusch"; hier: Abschluss eines Verpflichtungsvertrages
+- TOP 6.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im II. Quartal 2013
+- TOP 7.: Sponsoringbericht 2012
+- TOP 8.: Sanierung der Erftlagune hier: Freigabe von Finanzmitteln zur Beauftragung von Architektenleistungen
+- TOP 9.: Übertragung der Entscheidungsbefugnis der Bildung und Zuordnung der Eingangsklassen im Grundschulbereich nach dem 8. Schulrechtsänderungsgesetz ab dem Schuljahr 2014/2015 auf den Schulausschuss
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Bereitstellung von Ausbildungsplätzen für das Jahr 2014
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 13.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Pavillon der Kreissparkasse Köln im Stadtteil Mödrath hier: aktueller Sachstand
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Anstehende Neufassung des Gesellschaftsvertrages der Wirtschaftsförderung Rhein-Erft GmbH (WFG)
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.1: Versetzung eines Beamten des höheren Dienstes in den Ruhestand
+- TOP 17.: Beauftragung einer externen Projektsteuerung für die Umsetzung der sozialen Infrastrukturmaßnahmen in Manheim - neu
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Erwerb einer Immobilie und einer Teilfläche im Stadtteil Kerpen hier: Sachstandsbericht
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
