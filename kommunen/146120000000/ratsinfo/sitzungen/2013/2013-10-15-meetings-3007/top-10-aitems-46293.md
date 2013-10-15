@@ -1,0 +1,8 @@
+# TOP 10: Auswertung Hochwasserereignisse Juni 2013
+
+- Sitzung: 58. Sitzung des Ortschaftsrates Langebrück (2013-10-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/46293
+- Ergebnis: punktweise Abstimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/13465
