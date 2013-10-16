@@ -1,0 +1,72 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-10-16T17:00:00+02:00
+- Ende: 2013-10-16T17:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2576
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2576
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Beschwerde einer Schiedsperson - beantwortet
+- TOP 3.2: Installation eines Fahrstuhls im U-Bahnhof Onkel-Toms-Hütte - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringliche Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel für den Allgemeinen Blinden- und Sehbehindertenverein e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufungen - erledigt
+- TOP 4.2.1: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.3.1: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.4.1: Wahl eines stimmberechtigten ordentlichen Mitglieds (Bürgerdeputierten) in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz - Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Wahl eines 1. stellvertretenden Mitglieds (Bürgerdeputierten) in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz - Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan 6-23 (Urselweg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5.2: Bebauungsplan 6-33 (Gründerzentrum Fabeckstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Anträge - erledigt
+- TOP 4.6.1: Dialog-Display für die Spanische Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Bürgerwillen umsetzen - Chaos beenden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Gestaltung des Eugen-Gerstenmaier-Platzes verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Herrichtung der Gehwege Parkviertel Dahlem - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Hochbaumstraße als Fahrradstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Behindertengerechten Zugang zu Wahllokalen sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Gesprächskreis Schlachtensee/Krumme Lanke initiieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Sichere Radverkehrsführung und Busbeschleunigung am Steglitzer Kreisel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Kurzzeitparkplätze am S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Neugestaltung der Verträge der Musikschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Städtebaulichen Architekten-Wettbewerb zur Bebauung von "Parks Range" mit der BVV abstimmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Eine 2-Feld-Sporthalle für die Kopernikus-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Fußgängerampel Clayallee-Finkenstraße-Dohnenstieg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.13: Verkehrsberuhigung in Dahlem - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.14: Barrierefreiheit im Einkaufszentrum "Das Schloss", Einkaufszentren Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.15: Ostpreußendamm 108 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.16: TGZ jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2012 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Leitfaden für Einwohneranträge - erledigt
+- TOP 5.2.2: Straßenmarkierung Sundgauer Straße - überwiesen
+- TOP 5.2.3: Ausstellung "Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert" - überwiesen
+- TOP 5.2.4: Piktogramme zur Barriere-Situation - überwiesen
+- TOP 5.2.5: Ausweitung der Residenzpflicht für Asylbewerberinnen und Asylbewerber in der Goerzallee - überwiesen
+- TOP 5.2.6: Wohnraumbindung abändern - überwiesen
+- TOP 5.2.7: Buslinie 115 verlängern - überwiesen
+- TOP 5.2.8: Regelmäßiger Bericht bezirklicher Investitionsmaßnahmen - überwiesen
+- TOP 5.2.9: Umgestaltung der Unterführungen am S-Bahnhof Nikolassee - überwiesen
+- TOP 5.2.10: Gemeindezentrum Hüttenweg - überwiesen
+- TOP 5.2.11: Umsteigesituation in Lichterfelde-West - überwiesen
+- TOP 5.2.12: Parken Walter-Linse-Straße - überwiesen
+- TOP 5.2.13: Flüchtlinge in Steglitz-Zehlendorf fördern - überwiesen
+- TOP 5.2.14: Linksabbiegen von der Clayallee durch Straßenmarkierungen erleichtern! - überwiesen
+- TOP 5.2.15: Privatstraßen im Schweizer Viertel umwidmen - überwiesen
+- TOP 6: Schlusswort des Vorstehers - erledigt
