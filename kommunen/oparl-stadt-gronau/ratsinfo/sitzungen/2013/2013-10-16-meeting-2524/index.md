@@ -1,0 +1,55 @@
+# Rat (44. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2013-10-16T18:00:00+02:00
+- Ende: 2013-10-16T22:26:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW_WDqOGU-8o6jGHkTcMJs8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2524
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdbJ4d_OkaaqBEK3l5zlBuGR850I9Vww1VdgUYItutvP/Bekanntmachung_Rat_16.10.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVKfi08HMgRjjxuKQlmorh0Pd9JYRiG7S09z9ZiCyKYw/Oeffentliche_Niederschrift_Rat_16.10.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 18.09.2013
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Erhalt der Pestalozzischule; Antrag der SPD-Fraktion vom 04.10.2013 - Einstimmig, 0 Enthaltungen
+- TOP 4.: Entwurf des Gesamtabschlusses 2010 der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 5.: Jahresabschluss 2012 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) 1. Feststellung des Jahresabschlussergebnisses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2012 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2012 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jugendhilfeplanung - Betreuungsplätze für Kinder In Kindertageseinrichtungen und Kindertagespflege Bedarfsplanung 2013 bis 2015 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Aufnahme des Jugendamtselternbeirates als ständiges beratendes Mitglied in den Jugendhilfeausschuss - Einstimmig, 0 Enthaltungen
+- TOP 10.: Weiterentwicklung des städtischen Schulangebotes - Längeres gemeinsames Lernen 1. Auswertung und Analyse der Elternbefragung 2. Vorstellung des anlassbezogenen Schulentwicklungsplanes und des Raumkonzeptes 3. Beschluss des Rates der Stadt Gronau zur Veränderung der Schulstruktur ab dem Schuljahr 2014/15 - Einstimmig, 1 Enthaltungen
+- TOP 11.: Beschluss der Satzung über die Verlängerung der Veränderungssperre für den Geltungsbereich des Bebauungsplans Nr. 156 „ Enscheder Straße / Grenze Glanerbrug“, Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 12.: Satzung über die Erhebung einer Steuer für sexuelle Vergnügungen in der Stadt Gronau - 40 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Satzung über die Erhebung einer Vergnügungssteuer in der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 14.: Besetzung von Ausschüssen und sonstigen Gremien
+- TOP 15.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 16.: 1. Änderungssatzung zur Wahlordnung für die Wahl des Beirates für Seniorinnen und Senioren der Stadt Gronau (Westf.) vom 10.09.2013 - Einstimmig, 1 Enthaltungen
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 17.1: Sachstand zur Sperrung der Ochtruper Straße
+- TOP 17.2: Beschluss zur Aufstellung einer Sanierungssatzung
+- TOP 17.3: Wasserschaden in der Kita Dinkelnest
+- TOP 17.4: Interkommunale Sitzung in Düsseldorf bezüglich der Abundanzumlage
+- TOP 17.5: Anfragen
+- TOP 17.5.1: Anfrage von RM Schultewolter; Grundsätzliche Aufarbeitung der Problematik an der Ochtruper Straße
+- TOP 17.5.2: Anfrage von RM Buchholz; Sachstand zur Innenstadt und zur Hertie-Immobilie
+- TOP 17.5.3: Anfrage von RM Doetkotte; Sanierung der Martin-Luther-Schule und Abrissgenehmigung für die Spinnerei Deutschland
+- TOP 17.5.4: Anfrage von RM Lenz; Wartezeiten an Bahnübergängen
+- TOP 17.5.5: Anfrage von RM Lenz; Kunstrasenplatz des FC Epe
+- TOP 17.5.6: Anfrage von RM Lüttikhuis; Einfahrt der Buterlandschule
+- TOP 17.5.7: Anfrage von RM Buchholz, Verkehrsschau
+- TOP 17.5.8: Anfrage von RM Buchholz; Sachstand zum Bürgerbusverein
+- TOP 17.5.9: Anfrage von RM Buchholz; Brand im Lasterfeld - fehlende Atemschutzgeräte bei der Feuerwehr Gronau
+- TOP 17.5.10: Anfrage von RM Pieper; Nutzung von Laubpustern auf den Schulhöfen zur Mittagszeit
+- TOP 17.5.11: Anfrage von RM Krefter; Kooperation der Stadtwerke Gronau mit der Telekom
+- TOP 17.5.12: Anfrage von RM Gabbe; Verkehrssituation an der Losser Straße Ecke Königsstraße
+- TOP 17.5.13: Anfrage von RM Gabbe; Offene Anfragen aus der letzten Ratssitzung
+- TOP 17.5.14: Anfrage von RM Gabbe; Anpassung der Gebühren für den Rettungsdienst
+- TOP 17.5.15: Anfrage von RM Buchholz; Nutzung von Laubpustern durch städtische Mitarbeiter
