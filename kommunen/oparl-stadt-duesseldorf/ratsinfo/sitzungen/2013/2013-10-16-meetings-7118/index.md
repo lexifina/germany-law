@@ -1,0 +1,55 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-10-16T16:00:00+02:00
+- Ende: 2013-10-16T17:50:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7118
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7118
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202697.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202697.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00202697.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschriften - zur Kenntnis genommen
+- TOP 2.1: Genehmigung der Niederschrift vom 13.02.2013 (inkl. Änderungswunsch) - einstimmig beschlossen
+- TOP 2.2: Genehmigung der Niederschrift vom 20.03.2013 - einstimmig beschlossen
+- TOP 2.3: Genehmigung der Niederschrift der gemeinsamen Sitzung des APS, AWTL und AWM vom 20.03.2013 - einstimmig beschlossen
+- TOP 2.4: Genehmigung der Niederschrift vom 22.05.2013 - einstimmig beschlossen
+- TOP 2.5: Genehmigung der Niederschrift vom 26.06.2013 - einstimmig beschlossen
+- TOP 3: Anfragen, Anträge - zur Kenntnis genommen
+- TOP 3.1: Anfrage der Ratsfraktionen von FDP und CDU„Regierungsviertel“ - zur Kenntnis genommen
+- TOP 3.2: Anfrage der Ratsfraktion von BÜNDNIS 90/ DIE GRÜNEN: Regionale Kooperation konkret - zur Kenntnis genommen
+- TOP 3.3: Anfrage der Ratsfraktionen von CDU und FDP "Entwicklung des Geländes des ehemaligen Benrather - zur Kenntnis genommen
+- TOP 3.4: Antrag der CDU Ratzsfraktion: "Bänke am Schadowplatz" - einstimmig beschlossen
+- TOP 3.5: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Masterplan Industrie – Arbeitsgruppe Flächen/Inf - zur Kenntnis genommen
+- TOP 3.6: Anfrage der Ratsfrau Wiesendorf: „Praktiker“-Insolvenz: Zukunft der Einzelhandelsflächen? - zur Kenntnis genommen
+- TOP 3.7: Antrag der SPD-Ratsfraktion: Werkstattverfahren Hospitalstraße - mehrheitlich abgelehnt
+- TOP 3.8: Anfrage des Bürgermitglieds Dr. Grumbach: Neubau eines Altenpflegeheimes in Garath-Hellerhof - zur Kenntnis genommen
+- TOP 3.9: Antrag des Bürgermitglieds Dr. Grumbach: Entwicklung des Nebenzentrums Garath Süd-West - einstimmig abgelehnt
+- TOP 4: Genehmigung einer dringlichen Entscheidung - einstimmig beschlossen
+- TOP 4.1.1: Plan Nr. 03/001 - Oberbilker Allee/ Ringelsweide - Aufstellung - zur Kenntnis genommen
+- TOP 4.2: Dringliche Entscheidung zu VL.-Nr. 61/ 82/2013 - zur Kenntnis genommen
+- TOP 5: Bauleitplanung - zur Kenntnis genommen
+- TOP 5.1: B- Plan-Nr.: 4977/039Gewerbe- und Industiregebiet südlich Heerdter Landstraße- Aufstellung der Aufhe - einstimmig beschlossen
+- TOP 5.2: Plan Nr. 5077/058Gewerbe- und Industriegebiete zwischen Wiesenstraße und Pestalozziastraße - - einstimmig beschlossen
+- TOP 5.3: Plan Nr. 4977/042-Sandvik-Gelände-Aufstellung - einstimmig beschlossen
+- TOP 6: B-Plan 5679/058-Ludwig-Beck-Str-ÖB - einstimmig beschlossen
+- TOP 7: B-Plan Nr. 6170/64 - Forststraße / Hasselsstraße - - einstimmig beschlossen
+- TOP 8: FNP-Änderung Nr. 140 (Entwurf) Südlich Paulsmühlenstraße - einstimmig beschlossen
+- TOP 9: B-Plan Entwurf Nr. 6170/081 - westlich Kleinstraße - - einstimmig beschlossen
+- TOP 10: FNP-Ä Nr. 146 -Am Heerdter Krankenhaus- Planbeschluss - einstimmig beschlossen
+- TOP 11: Plan Nr. 5280/029 Veränderungssperre-Golzheimer Siedlung nördlich der Rotterdamer Straße - Veränderu - einstimmig beschlossen
+- TOP 11.1: B-Plan 07 / 001 - Innenhof Nördlich Hardtstraße - Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 11.2: Weizenmühlenstraße / Kesselstraße - zur Kenntnis genommen
+- TOP 11.2.1: FNP-Änderung Nr. 158 Weizenmühlenstraße / Kesselstraße - einstimmig beschlossen
+- TOP 11.2.2: B-Plan Entwurf Nr. 5275/020 Kesselstraße Einstellung des Verfahrens - einstimmig beschlossen
+- TOP 11.2.3: Plan Nr. 03/002 Kesselstraße Aufstellung Bebauungsplan - einstimmig beschlossen
+- TOP 12: Richtlinie Düsseldorf fördert grüne Innenhöfe, begrünte Dächer und neugestaltete Fassaden im Rahmen - einstimmig beschlossen
+- TOP 13: Richtlinie Düsseldorf fördert grüne Innenhöfe, begrünte Dächer und neugestaltete Fassaden im Rahmen - einstimmig beschlossen
+- TOP 14: Sitzungstermine 2014 - zur Kenntnis genommen
