@@ -1,0 +1,68 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2013-10-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3040365
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3040365
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Freunde der Vorstadt Au e.V. Adventliche Autorenlesung am 04.12.2013
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Zukunft der Tiefbrunnen der Paulaner-Brauerei
+- TOP .2.: Überprüfung der Grenzwerte elektromagnetischer Felder der Mobilfunkanlage und schriftliche Mitteilung der konkreten Messergebnisse durch die Bundesnetzagentur; Standort Mobilfunkanlage: auf dem Kaufringgebäude Orleansplatz / Ecke Weißenburger Str.
+- TOP .3.: Wartehäuschen an der Tram-Haltestelle Ostbahnhof instandsetzen
+- TOP .4.: Verbesserung der Barrierefreiheit in Bus- u. Trambahnen des MVG ? Für ein gleichmäßigeres Anfahren und Bremsen
+- TOP .5.: Schnelle Beseitigung der Stolperstellen bei der Baustelleneinrichtung Einstein- / Grillparzerstraße zur Vermeidung weiterer Unfälle
+- TOP .6.: Erforderliche Maßnahmen im Bereich Baustelle Grundschule an der Kirchenstraße sowie Kirchenstraße Richtung Innere Wiener Straße (Umsetzung der Ergebnisse aus dem Ortstermin vom 10.04.2013)
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Langerstraße 2, Penthouse-Aufstockung eines Wohngebäudes; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 04.10.13 zur ablehnenden Stellungn ahme des BA 5 vom 26.06.13
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Bericht über die Begehung ?Unionsbräu? am 04.09.2013
+- TOP .2.: ?Die Nockherstraße ? eine Alt-Münchner Straße in der Vorstadt Au?; Schreiben des Autoren mit der Bitte um Unterstützung / Förderung seiner Publikation
+- TOP .3.: Münchens Stadtteilkultur stärken; Ausweitung von Betriebszuschüssen ab 2014, Personalkostenaufstockung (Ausweitung SNP) ab 2014; Anhörung durch das Kulturreferat vom 12.09.2013 zum Beschluss für den Kulturausschuss am 17.10.2013 (Termin 15.10.2013)
+- TOP .1.: Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums in der Thierschstraße 46 / Stadtbezirk 1; u.a. Komplettauslagerung / Interimsgebäude auf die Sportanlage an der Lucile-Grahn-Straße; Anhörung durch das Referat für Bildung und Sport vom 19.09.2013 zur Beschlussvorlage für den Ausschuss für Bildung und Sport am 09.10.2013
+- TOP .1.: Budgetvergabe transparenter machen ? mehrere Angebote einholen; Antrag (Nr. 08-14 / B 05217) des BA 18 ? Untergiesing-Harlaching ? vom 17.09.13 mit der Bitte um Unterstützung
+- TOP .2.: Isarinselfest vom 06.09. bis 08.09.13 ? Erfahrungsbericht; E-Mail des Kreisverwaltungsreferats vom 18.09.13 mit der Bitte um Mitteilung von Erfahrungen, Stellungnahmen, Anregungen und Vorschlägen
+- TOP .1.: Information über neu eingegangene Anträge auf Zuschussgewährung aus dem BA-Budget (vorab zur Kenntnis, ohne Vorprüfung / Entscheidungsvorlage durch das Direktorium folgt) Freunde der Vorstadt Au e.V., für die Maßnahme ?Adventliche Autorenlesung mit musikalischer Begleitung?; Antragssumme: 1.700,- ?; Antrag vom 25.09.13
+- TOP .2.: Drehgenehmigungen durch das KVR: Produktion ?Wild Wanna Bees?; Hypopark (Elsässer Straße), am 20.09.13; Produktion / Krimi-Serie ?SOKO 5113?; Weißenburger Platz 3, am 23.09.13
+- TOP .1.: Kreuzungsbereich Lucile-Grahn- / Einsteinstraße, Gefahren für Fußgänger durch querende / abbiegende Fahrzeuge; Bürgeranliegen aus der Sitzung vom 18.09.2013
+- TOP .2.: Vorstellung der Tram Steinhausen
+- TOP .3.: Beschleunigung der Buslinie 154 (inkl. abschnittsweise 54, 153 und 184); Anhörung durch das Referat für Arbeit und Wirtschaft zum Beschlussentwurf für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss am 15.10.2013
+- TOP .1.: Baumschutzoffensive I: Umfassende Information über Baumschutzoffensive; Baumschutz-offensive II: Besserer Baumschutz bei Bauvorhaben; Baumschutzoffensive IV: Ökologische Baubegleitung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013
+- TOP .2.: Zur Energiewende gehört die Verkehrswende ? München setzt auf postfossilen Verkehr; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.09.2013
+- TOP .3.: Fahrradschnellwege ins Münchner Umland ? in die interkommunale Kooperation einsteigen ? erste Pilotprojekte beginnen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013
+- TOP .4.: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013
+- TOP .5.: Kirchenstraße 5 / 7; Änderung der Parkregelung: Parken nur für Pkw; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferats vom 19.07.2013
+- TOP .6.: WLAN-Zugang in den Veranstaltungsräumen des Direktoriums im Alten und Neu8en Rathaus; Schreiben des Direktoriums-Geschäftsleitung
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 20.11.2013, 19.00 Uhr, Gasteig, Rosenheimer Straße 5, Besprechungsraum 4.156
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
