@@ -1,0 +1,71 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-10-16T17:00:00+02:00
+- Ende: 2013-10-16T18:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3192
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3192
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=73369
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - beantwortet
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 23. Sitzung der BVV am 16.10.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 23. Sitzung der BVV am 16.10.2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 23. Sitzung der BVV am 16.10.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines WLAN-Zugangs in den Sitzungsräumen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Ausstellung "Berliner Tatorte" im Rathaus Reinickendorf zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Erinnerungsstele Niederbarnimer Eisenbahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Ergänzung im Schulgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Verpflegungsbeauftragte / Verpflegungsbeauftragter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Reinickendorf vor Fluglärm schützen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Reinickendorf vor Fluglärm schützen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Reinickendorf vor Fluglärm schützen IV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Energiewende in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Reinickendorf vor Fluglärm schützen V - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Schulraumnot im Märkischen Viertel und Reinickendorf-Ost - überwiesen
+- TOP 7.12: Jahresbericht des Patientenfürsprechers im Krankenhaus für den Maßregelvollzug in Reinickendorf für den Zeitraum 2011 und 2012 - überwiesen
+- TOP 7.13: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung des Bezirks Reinickendorf für den Zeitraum vom 01.04.2012 bis 31.03.2013 - überwiesen
+- TOP 7.14: Neue gleichstellungspolitische Ziele und Handlungsgrundlagen im Bereich Gender Mainstreaming/Budgeting des Bezirksamtes Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Bericht des Partnerschaftsbeauftragten - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2014 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Quartiersmanagement rund um den Auguste-Viktoria-Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Internetseite des Bezirks informativer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Geschwindigkeit auf der Heiligenseestr. häufiger kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Lange Nacht der Wissenschaft auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Leistungsangebot des "Bollerwagens" erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Notarztstandorte - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Interessenbekundungsverfahren für die Jugendfarm Lübars - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Ersetzungsantrag zu den Drs. Nrn. 0494/XIX-14 und 0494/XIX-14-01 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" in öffentlichen Einrichtungen verstärken - überwiesen
+- TOP 12.2: Fahrradabstellmöglichkeiten - überwiesen
+- TOP 12.3: Parkraumsituation an den Frohnauer Plätzen verbessern! - überwiesen
+- TOP 12.4: Nachnutzung der Heiligensee-Grundschule - überwiesen
+- TOP 12.5: Namensgebung für den Platz zwischen der Wilhelm-Gericke-Straße und Oranienburger Straße - überwiesen
+- TOP 12.6: Anwendung von PFA anstelle von Kaltasphalt bei Schlaglöchern erproben! - überwiesen
+- TOP 12.7: Instrument der frühzeitigen Öffentlichkeitsbeteiligung anwenden! - überwiesen
+- TOP 12.8: Transparente Bürgerbeteiligung auch in den Reinickendorfer Schulen umsetzen! - überwiesen
+- TOP 12.9: Jugendsozialarbeit ausweiten! - überwiesen
+- TOP 12.10: Verlagerung der Ellef-Ringnes-Grundschule in die Heiligenseegrundschule prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Datenschutz auf Krankenhausaufenthaltsbescheinigung - überwiesen
+- TOP 13.2: Müllentsorgung Bahndamm Schönholz - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Mülleimer im Bekassinenweg - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" verstärken - überwiesen
+- TOP 13.5: Familienrat - überwiesen
+- TOP 13.6: Count-Down-Ampel auch in Reinickendorf - überwiesen
