@@ -1,0 +1,7 @@
+# TOP 5: Anhörungen
+
+- Sitzung: BA 15 - Vollgremium (2013-10-17)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/365876
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/365876
