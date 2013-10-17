@@ -1,0 +1,7 @@
+# TOP 8: Gemeinschaftsaufgabe Verbesserung der regionalen Wirtschaftsstruktur
+
+- Sitzung: Haupt- und Personalausschuss (2013-10-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/10045
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/20826
