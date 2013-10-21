@@ -1,0 +1,58 @@
+# Übernachtungsteuersatzung Satzung über die Erhebung einer Steuer auf Übernachtungen in Beherbergungsbetrieben (Übernachtungssteuer) in der Landeshauptstadt Schwerin in der Fassung der 2. Änderungssatzung (Lesefassung)
+
+- Gemeinde: Landeshauptstadt Schwerin (ARS 130040000000)
+- Datum: 2013-10-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.schwerin.de/export/sites/default/.galleries/Dokumente/Ortsrecht/Finanzen/Lesefassung-Uebernachtungssteuer-in-der-Fassung-der-2.-Aenderungssatzung.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Übernachtungsteuersatzung
+Satzung über die Erhebung einer Steuer auf Übernachtungen in Beherbergungsbetrieben (Übernachtungssteuer) in der Landeshauptstadt Schwerin in der
+Fassung der 2. Änderungssatzung (Lesefassung)
+Aufgrund des § 5 der Kommunalverfassung für das Land Mecklenburg-Vorpommern (KV MV) in der Fassung der Bekanntmachung vom 13. Juli 2011, verkündet als Artikel 1 des Gesetzes über die Kommunalverfassung und zur Änderung weiterer kommunalrechtlicher Vorschriften vom 13. Juli 2011 (GVOBl. M-V. S. 777) und der §§ 1 bis 3 des Kommunalabgabengesetzes MecklenburgVorpommern (KAG M-V) in der Fassung der Bekanntmachung vom 12.April 2005 (GVOBl. M-V 2005, S. 146) zuletzt geändert durch Artikel 2 des Gesetzes vom 13. Juli 2011 (GVOBl. M-V S. 777, 833) hat die Stadtvertretung der Landeshauptstadt Schwerin in ihrer Sitzung am 21.10.2013 folgende Satzung der Landeshauptstadt Schwerin über die Erhebung einer Übernachtungssteuer beschlossen, zuletzt geändert am 2…4.…03….20…25. durch die 2. Änderung der Satzung über die Erhebung einer Steuer auf Übernachtungen in Beherbergungsbetrieben (Übernachtungssteuer) in der Landeshauptstadt Schwerin:
+§ 1 Steuererhebung
+Die Landeshauptstadt Schwerin erhebt eine Steuer auf Übernachtungen in Beherbergungsbetrieben (Übernachtungssteuer) in der Landeshauptstadt Schwerin nach Maßgabe dieser Satzung. Beherbergungsbetriebe im Sinne dieser Satzung sind Hotels, Pensionen, Ferienwohnungen, Ferienhäuser, Gasthöfe, Herbergen und ähnliche Einrichtungen, in denen Übernachtung gegen Entgelt zu vorübergehenden Zwecken angeboten werden. Campingplätze und Wohnmobilstandplätze sind Beherbergungsbetriebe, sofern besondere Sanitärräume eigens für diese Übernachtungsgäste angeboten werden. Die Steuer wird als indirekte Steuer erhoben.
+§ 2 Steuertatbestand
+Gegenstand der Übernachtungssteuer ist der Aufwand des Gastes für die entgeltliche Nutzung von Beherbergungsleistungen in Beherbergungsbetrieben im Stadtgebiet der Landeshauptstadt Schwerin.
+§ 3 Steuerschuldnerin bzw. Steuerschuldner
+(1) Steuerschuldnerin bzw. Steuerschuldner ist, wer eine vorübergehende Übernachtungsmöglichkeit im Stadtgebiet der Landeshauptstadt Schwerin gegen Entgelt bereitstellt (Betreiberin oder Betreiber eines Beherbergungsbetriebes). (2) Stellen mehrere Personen gemeinschaftlich eine vorübergehende Übernachtungsmöglichkeit gegen Entgelt bereit, so sind sie Gesamtschuldnerinnen bzw. Gesamtschuldner.
+§ 4 Bemessungsgrundlage
+Bemessungsgrundlage ist das von dem Gast für die Übernachtung erhobene Entgelt (abzüglich der Umsatzsteuer und abzüglich etwaiger Vermittlungsentgelte).
+§ 5 Steuersatz
+(1) Der Übernachtungssteuersatz beträgt 7 % der Bemessungsgrundlage.
+1
+
+Übernachtungsteuersatzung
+(2) Sofern die Aufteilung einer Gesamtrechnung in Übernachtungsentgelt und Entgelt für sonstige Dienstleistungen ausnahmsweise nicht möglich ist, gilt als Bemessungsgrundlage bei einem Beherbergungsbetrieb mit Pauschalpreis (Übernachtung / Frühstück bzw. Halb- oder Vollpension) der Betrag der Gesamtrechnung abzüglich einer Pauschale von 7,00 Euro für Frühstück und je 10,00 Euro für Mittagessen und Abendessen je Gast und Mahlzeit.
+§ 6 Entstehung
+Die Steuer entsteht mit dem Beginn der entgeltpflichtigen Beherbergungsleistung.
+§ 7 Steuerbefreiung
+Die Betreiberin bzw. der Betreiber eines Beherbergungsbetriebes ist von der Abgabe befreit bei: 1. Gruppenreisen von Kindern und Jugendlichen bis zum Alter von 18 Jahren, einschließlich der sie begleitenden Gruppenleiter. 2. Gruppenreisen von Kindern und Jugendlichen allgemeinbildender Schulen und beruflicher Schulen (gemäß § 12 Abs. 2 Nr. 1 und 2 des Schulgesetzes Mecklenburg-Vorpommern), einschließlich der sie begleitenden Gruppenleiter. 3. Übernachtungen in Kliniken, Krankenhäusern, Kur- und Rehabilitationseinrichtungen, Hospizen, Frauenhäusern und in vergleichbaren Einrichtungen. 4. Zusammenhängende Übernachtungen eines Gastes in einem Beherbergungsbetrieb, die eine Gesamtdauer von drei Monaten übersteigen, unterliegen nicht der Besteuerung.
+§ 8 Anzeige- und Nachweispflicht
+(1) Jede Betreiberin bzw. jeder Betreiber eines Beherbergungsbetriebes ist verpflichtet, bis zum 15. Tage nach dem Ablauf eines Kalendervierteljahres dem Sachgebiet Abgaben der Landeshauptstadt Schwerin eine Erklärung nach amtlich vorgeschriebenem Vordruck einzureichen. Die Erklärung muss eigenhändig von der Betreiberin bzw. dem Betreiber des Beherbergungsbetriebes oder einem bevollmächtigten Vertreter unterzeichnet sein.
+(2) Jede Betreiberin bzw. jeder Betreiber eines Beherbergungsbetriebes ist verpflichtet, in den Fällen der Steuerbefreiung nach § 7 dieser Satzung das Vorliegen der Voraussetzung anhand geeigneter Belege nachzuweisen. Die Belege sind dem Sachgebiet Abgaben der Landeshauptstadt Schwerin auf Verlangen vorzulegen.
+(3) Zur Prüfung der Angaben in der Erklärung sind dem Sachgebiet Abgaben der Landeshauptstadt Schwerin auf Anforderung sämtliche bzw. ausgewählte Nachweise (z. B. Rechnungen, Quittungsbelege) über die Beherbergungsleistungen für den jeweiligen Veranlagungszeitraum im Original vorzulegen.
+(4) weggefallen
+§ 9 Festsetzung und Fälligkeit
+(1) Die Steuer wird durch einen Steuerbescheid für das Kalendervierteljahr (Veranlagungszeitraum) festgesetzt. (2) Die Steuer wird einen Monat nach Bekanntgabe des Bescheides an die Steuerpflichtige bzw. den Steuerpflichtigen fällig. Sie ist zum Fälligkeitstag an die Landeshauptstadt Schwerin zu entrichten.
+§ 10 gestrichen
+2
+
+Übernachtungsteuersatzung
+§ 11 Abweichende Festsetzungen
+Das Sachgebiet Abgaben der Landeshauptstadt Schwerin kann abweichend von § 5 dieser Satzung den Abgabenbetrag aufgrund von Schätzungen festsetzen, wenn der Nachweis der abgabenrelevanten Daten im Einzelfall besonders schwierig ist.
+§ 12 Ordnungswidrigkeiten
+(1) Ordnungswidrig handelt, wer als Steuerschuldnerin bzw. Steuerschuldner oder bei Wahrnehmung der Angelegenheit einer Steuerschuldnerin bzw. eines Steuerschuldners leichtfertig a) über steuerrechtlich erhebliche Tatsachen unrichtige oder unvollständige Angaben macht oder b) die Landeshauptstadt Schwerin, Sachgebiet Abgaben, pflichtwidrig über steuerrechtlich erhebliche Tatsachen in Unkenntnis lässt
+und dadurch Steuer verkürzt oder nicht gerechtfertigte Steuervorteile für sich oder einen anderen erlangt. Die Strafbestimmungen des § 16 des KAG M-V bei Vorsatz bleiben unberührt. (2) Ordnungswidrig handelt auch, wer vorsätzlich oder leichtfertig a) Belege ausstellt, die in tatsachlicher Hinsicht unrichtig sind oder b) der Anzeige – und Nachweispflicht gemäß § 8 dieser Satzung nicht oder nicht richtig nachkommt. Zuwiderhandlungen gegen §§ 8 und 10 dieser Satzung sind Ordnungswidrigkeiten nach § 17 Abs. 2 Nr. 2 des KAG M-V. (3) Gemäß § 17 Abs. 3 des KAG M-V kann eine Ordnungswidrigkeit nach Absatz 1 mit einer Geldbuße bis zu 10.000 Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer Geldbuße bis zu 5.000 Euro geahndet werden.
+§ 13 Datenverarbeitung
+(1) Zur Ermittlung der Steuerschuldnerinnen bzw. Steuerschuldner und zur Festsetzung der Steuer im Rahmen der Veranlagung nach dieser Satzung ist die Erhebung und die Verarbeitung folgender Daten gemäß den datenschutzrechtlichen Bestimmungen, im Besonderen gem. §§ 3 Abs. 4 Satz 2 Nr. 1, 7 Nr. 1, 9 Abs. 2, 10, 11 Datenschutzgesetz des Landes Mecklenburg-Vorpommern durch die Landeshauptstadt Schwerin, Sachgebiet Abgaben, zulässig: Personenbezogene Daten werden erhoben über a) Namen, Vornamen, Anschrift, Geburtsdatum und ggf. Kontoverbindung (bei Steuererstattungen) der Steuerschuldnerin bzw. des Steuerschuldners, b) Namen und Anschrift eines evtl. Handlungs- oder Zustellungsbevollmächtigten, Daten dürfen
+erhoben werden durch Mitteilung oder Übermittlung von: • Bereich Kasse der Landeshauptstadt Schwerin • Bereich Melde- und Gewerbeangelegenheiten der Landeshauptstadt Schwerin • Sachgebiet Abgaben der Landeshauptstadt Schwerin • Einwohnermeldeämtern • Finanzämtern • Stadtmarketing Schwerin • Stadtwerke Schwerin • Vermittlungsagenturen
+Neben diesen Daten werden die für die Errechnung und Festsetzung der Steuer erforderlichen Daten erhoben.
+3
+
+Übernachtungsteuersatzung (2) Die Landeshauptstadt Schwerin ist befugt, auf der Grundlage von Angaben der Steuerpflichtigen
+und von Daten, die nach Abs. 1 anfallen, ein Verzeichnis der Steuerschuldnerinnen bzw. Steuerschuldner mit den für die Steuererhebung nach dieser Satzung erforderlichen Daten zu führen und diese Daten zum Zwecke der Steuererhebung nach dieser Satzung zu verwenden und weiter zu verarbeiten. (3) Der Einsatz technikunterstützter Informationsverarbeitung ist zulässig.
+§ 14 Inkrafttreten Diese Satzung tritt am 01.01.2014 in Kraft. Angelika Gramkow Die Oberbürgermeisterin
+4
