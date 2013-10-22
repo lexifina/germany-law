@@ -1,0 +1,79 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2820874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2820874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Vorstellung der Planungen zur Nutzung der Häuser 17 und 19 in der Bayernkaserne Unterbringung wohnungsloser Haushalte ? Kälteschutzprogramm durch das Sozialreferat; Amt für Wohnen und Migration (vertagt aus 09/2013)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Eilentscheidung: Haltverbotszonen für Filmaufnahmen in der Karl-Theodor-Str. / Siegfriedstr. vom 08.10. bis 10.10.2013 ? zugestimmt (siehe auch TOP C.5.3.2.)
+- TOP .1.: ?Budgetvergabe transparenter machen ? mehrere Angebote einholen? Antrag B 05217 des Bezirksausschusses 18 Untergiesing-Harlaching
+- TOP .2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen (Anträge der BA's 14 und 8) ? Einstellung der Versendung der Rathaus-Umschau
+- TOP .10.: sonstiges
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Leopoldstr. 57, ?Tchibo?: Aufstellung von neuen Verkaufseinrichtungen
+- TOP .2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung einer Teilstrecke der Kaisermantelstraße
+- TOP .3.: (E) Straßenbenennung im 12. Stadtbezirk Schwabing-Freimann Weimarer Straße Werkbundstraße
+- TOP .4.: Aufwertung des Spielplatzes an der Münchner Freiheit
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Föhringer Ring 6, Fällung eines zweistämmigen Ahorns
+- TOP .2.: Fichtenweg 11, Fällung einer Kiefer
+- TOP .3.: Ainmillerstr. 9, Fällung eines Katsurabaumes
+- TOP .4.: Karl-Theodor-Str. 19, Fällung einer Linde
+- TOP .5.: Hermann-Vogel-Str. 36, Fl.Nr.: 106/22, Umbau und Sanierung eines Einfamilienhauses mit Garage; Baumfällungen gemäß Plan
+- TOP .1.: Bauvorhaben: Mohrstraße 6, Fl.Nr.: 63/17, Aufstockung eines Wohnhauses
+- TOP .2.: Bauvorhaben Wagnerstraße 3, Fl.Nr.: 80/0, Abbruch des Bestands und Neubau eines Wohngebäudes - Vorbescheid
+- TOP .3.: Erlass von Erhaltungssatzungen, u.a. Erhaltungssatzung ?Hohenzollernstraße und Hohenzollernplatz? sowie Ergänzung (Änderung) der Erhaltungssatzung ?Pündter- und Viktoriaplatz? um den Bereich ?Bonner Platz?
+- TOP .4.: Bauvorhaben: Leopoldstr. 204, Fl.Nr.: 894/5, Abbruch eines Verwaltungsgebäudes sowie Neubau von Wohngebäuden, ggf. mit teilweiser Hotelnutzung incl. Baumfällungen - Vorbescheid -
+- TOP .5.: Funkkaserne - Städtisches Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramm ? Teilprogramm B sowie eine offene Einrichtung für ganzheitliche Bewohnerarbeit und eine Kindertageseinrichtung nach der Konzeption von Horizont e.V. (siehe auch TOP D.3.1.)
+- TOP .6.: Bauvorhaben: Leopoldstraße 17, Flurstück 4436/1, Erweiterung des Schulhauses - Vorbescheid
+- TOP .7.: Bauvorhaben: Margarete-Schütte-Lihotzky-Str., Flurstück 880/152, Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Leopoldstr. 129 ;Fällung von zwei Robinien; Leopoldstr. 153, Fällung einer Esche (Information des Baureferats Gartenbau)
+- TOP .2.: Hortensienstr. 2, Fällung einer Kastanie und eines Spitzahorns (Information der Unteren Naturschutzbehörde)
+- TOP .3.: Heidemannstr. 50, Fällung von 30 Bäumen (Information der Unteren Naturschutzbehörde)
+- TOP .4.: Situlistr. 75, Fällung einer Esche und einer Linde (Information des Baureferats Gartenbau)
+- TOP .1.: Baumaßnahmen der Stadtwerke München (SWM) a) Wasserprojekt ? Sanierung Hauptwasserleitung 4; Thiemestr. / Martiusstr b) Fernwärmeprojekt Feilitzschstraße
+- TOP .2.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01. bis 30.06.2013; Sitzungsvorlage Nr.: 08-14 / V 12957 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013
+- TOP .3.: Schaffung eines Platzes vor der Erlöserkirche in München ? Spielplatz an der Münchner Freiheit ? Einbahnstraßenregelung Feilitzschstr. (Schreiben eines Bürgers an div. Institutionen)
+- TOP .4.: Erlass einer Erhaltungssatzung ?Alte Heide?; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013; Sitzungsvorlage Nr.: 08-14 / V 12500
+- TOP 1: (E) Überwachung der verkehrswidrig abgestellten KFZs im Bereich Osterwald-/ Mannlich-/ Mommsen-/ Schwedenstraße Empfehlung Nr. 08-14 / E 01882 der Bürgerver- sammlung des Stadtbezirkes 12 - Schwabing-Freimann am 11.07.2013
+- TOP 2: (E) Bei der Genehmigung von Konzerten und Veranstaltungen im Zenith / Kesselhaus sind die Lärmschutzbestimmungen bindend festzulegen
+- TOP 2.1.: CarSharing in München ? Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit und Anpassung der Rahmenbedingungen (Stadtratsbeschlussentwurf)
+- TOP 2.1.: Zeitlich begrenztes Parken am Nordfriedhof (Crailsheimstraße); BV-Empfehlung E 01412
+- TOP 2.1.: Errichtung von elektronischen Ladesäulen im Rahmen des Projekts E-Plan Muc
+- TOP 2.2.: Anfahrtszone für den Kindergarten in der Domagkstr. 14 / Seite Hans-Döllgast-Str.
+- TOP 2.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Arnold-Schönberg-Weg 25
+- TOP 2.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Arnold-Schönberg-Weg 23
+- TOP 2.1.: Fahrradschnellwege ins Münchner Umland ? in die interkommunale Kooperation einsteigen ? erste Pilotprojekte beginnen: Sitzungsvorlage Nr.: 08-14 / V 12943; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013
+- TOP 2.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (2)
+- TOP 2.3.: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013; Sitzungsvorlage Nr.: 08-14 / V 12978
+- TOP 2.4.: Änderung der Straßenreinigungssatzung ? Anschlussverzeichnis Beschluss des Bauausschusses vom 15.10.2013; Sitzungsvorlage Nr.: 08-14 / V 13149
+- TOP 2.1.: (E) Budget der Bezirksausschüsse TamS Theater Verwandlung des Vorderhauses des Theaters in einen Adventskalender
+- TOP 2.1.: Funkkaserne - Städtisches Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramm ? Teilprogramm B sowie eine offene Einrichtung für ganzheitliche Bewohnerarbeit und eine Kindertageseinrichtung nach der Konzeption von Horizont e.V. (siehe auch TOP B.3.2.5.)
+- TOP 2.2.: Schwabinger Weihnachtsmarkt vom 29.11. bis 24.12.2013
+- TOP 2.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 2.1.: Zuwendungsbewilligung (Bescheid): Sozialservice-Gesellschaft des BRK für ein Weihnachtskonzert am 11.12.2013 in Höhe von 1.700,00 ?:
+- TOP 2.2.: Keine Erweiterung des Christkindl-Marktes 2013 (bis zum Stachus) (Schreiben des Bezirksausschusses 1 Altstadt-Lehel an das Referat für Arbeit und Wirtschaft)
+- TOP 2.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 2.1.: Anträge
+- TOP 2.5.: Unterrichtungen
+- TOP 2.2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.3.2.: Sonstige Anhörungen
+- TOP 2.4.: Bürgeranliegen
+- TOP 2.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 2.5.3.: Sonstige Unterrichtungen
+- TOP 2.5.2.: Verkehrsrechtliche Anordnungen
