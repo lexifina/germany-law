@@ -1,0 +1,7 @@
+# TOP .2.: Isabellastr. 45: Fällung eines Spitzahorn
+
+- Sitzung: BA 04 - Vollgremium (2013-10-23)
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/366091
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/366091
