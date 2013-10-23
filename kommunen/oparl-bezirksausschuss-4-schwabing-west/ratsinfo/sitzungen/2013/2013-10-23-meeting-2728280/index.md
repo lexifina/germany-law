@@ -1,0 +1,58 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2728280
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2728280
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .2.1.: Wirtschaft
+- TOP .2.2.: Kultur
+- TOP .1.: Bereitstellung der Kosten für den öffentlichen Bücherschrank und für die Eröffnung
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Elisabethplatz: Benefiz-Weihnachtsflohmarkt am 14.12.2013
+- TOP .1.: Bürger: Punkt b) Abstandsflächen der Neubauten in der Isoldenstraße
+- TOP .2.: SPD: Bebauung des Stadtwerkegrundstücks am Elisabethplatz
+- TOP .3.: Anfrage bez. Aufbau Viktoriastr. 9
+- TOP .2.1.: Planen
+- TOP .1.: Bauerstr. 38: Erneuerung von 5 baufälligen Balkonen
+- TOP .2.: Schwere-Reiter-Straße: Neubau zweier Gebäude mit Boardinghausnutzung, 53 Wohnungen, 3 Townhouses und Einzelhandelsflächen im EG mit gemeinsam genutzter Tiefgarage - Tektur
+- TOP .3.: Erlass von Erhaltungssatzungen, u.a. Erhaltungssatzung ?Hohenzollernstraße und Hohenzollernplatz? sowie Ergänzung der Erhaltungssatzung ?Pündter- und Viktoriaplatz? um den Bereich ?Bonner Platz?- Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP .4.: Vorbescheid Friedrich-Loy-Str. 4, Neubau eines Mehrfamilienhauses mit Kindertagesstätte und Tiefgarage (Friedrich-Loy-Str. 4-14/Hiltenspergerstr. 55+57)
+- TOP .5.: Hohenzollernstr. 110, Nutzungsänderung Büroeinheit im EG zu Wohneinheit
+- TOP .6.: Lissi-Kaeser-Straße; Neubau einer Kindertagesstätte und einer offenen Einrichtung für Kinder und Jugendliche (Ackermannbogen IV)
+- TOP .7.: Hohenzollernplatz 7, Aufstockung eines Boardinghauses mit Flachdach - Tektur
+- TOP .8.: Vorbescheid Zentnerstr. 26: DG-Ausbau
+- TOP .9.: Kurfürstenstr. 37: Anbau von Balkonen an der Süd- und Westfassade
+- TOP .10.: Tengstr. 27: DG-Ausbau (2. Ebene) sowie teilweise Sanierung und Ertüchtigung der Dachkonstruktion - Tektur
+- TOP .11.: Schleißheimer Str. 83: Umbau 4. OG und DG-Ausbau - Tektur
+- TOP .12.: Vorbescheid Infanteriestr. 11a: Neubau dreier Gebäude zur Nachverdichtung eines Campus vertagt auf 11/13 ? Projekt wird im UA vorgestellt
+- TOP .13.: Clemensstr. 45: Abbruch des Dachstuhls und Neuerrichtung einer DG-Wohnung - Tektur
+- TOP .2.2.: Wohnen
+- TOP .2.: Bürger: Ampelschaltung an der Kreuzung Ackermannstraße/Spiridon-Louis-Ring
+- TOP .3.: Bürger: Schulwegsicherheit an der Kreuzung Elisabeth-/Hiltenspergerstraße
+- TOP .4.: Bürger: Punkt a) Rücknahme der Tempo 30-Beschränkung in der Isoldenstraße
+- TOP .2.1.: Umwelt
+- TOP .2.: Isabellastr. 45: Fällung eines Spitzahorn
+- TOP .3.: Kraepelinstr. 12: Fällung einer Hainbuche
+- TOP .2.2.: Verkehr
+- TOP .1.: Ampelabschaltungen Clemensstraße: Ergebnis des Ortstermins am 17.10.
+- TOP .2.: Errichtung eines Verkehrshelferübergangs an der Elisabeth-Kohn-Straße
+- TOP .3.: Radwegführung Franz-Joseph-Straße zwischen Nordend- und Kurfürstenstraße
+- TOP .1.: Verlegung der Radwege in der Elisabethstraße zwischen Schleißheimer Straße und Isabellastraße auf die Fahrbahn
+- TOP .2.: Radverkehr an der Schauburg / Theater der Jugend entzerren
+- TOP .3.: Durchfahrt vor dem Kindergarten an der Westspange des Gustav-Landauer-Bogens durch Poller verhindern
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .1.: entfällt
