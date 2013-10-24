@@ -1,0 +1,128 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2013-10-24T17:30:00+02:00
+- Ende: 2013-10-24T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3058
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3058
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=110527
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Auszählung unter Ausschluss der Öffentlichkeit? - beantwortet
+- TOP 5.2: Deutschkurse für Flüchtlinge und AsylbewerberInnen in Mitte - beantwortet
+- TOP 5.3: Aktuelle haushaltswirtschaftliche Beschränkungen im Bezirksamt - beantwortet
+- TOP 5.4: Kita-Besuch auch für Flüchtlingskinder? - beantwortet
+- TOP 5.5: Ausweis-Automaten auch in Mitte? - schriftlich beantwortet
+- TOP 5.6: Neubaugebiete prüfen für den Schulentwicklungsplan- hinfällig oder notwendig? - schriftlich beantwortet
+- TOP 5.7: Ausstellungseinladung motiviert rechtsextremistische Strömungen? - schriftlich beantwortet
+- TOP 5.8: Funktioniert das Beschwerde- und Impulsmanagement des Bezirksamts Mitte - schriftlich beantwortet
+- TOP 5.9: Was bringen Anzeigen für nicht ordnungsgemäß aufgestellte Altkleider-Container? - schriftlich beantwortet
+- TOP 5.10: Asbestbelastung in Mitte - schriftlich beantwortet
+- TOP 5.11: Abräumen von illegal aufgestellten Altkleidersammelcontainer in Berlin-Mitte - schriftlich beantwortet
+- TOP 5.12: Verlängerung für die Fanmeilen-Ertüchtigung? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Aktueller Stand der Flüchtlinge vom Brandenburger Tor - beantwortet
+- TOP 6.2: Delegation im Bärenpark - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bildungsgutscheine - beantwortet
+- TOP 7.2: Rufen im Wald ohne Echo: Das lange Leben einer Kleinen Anfrage zum Schul-gebäude Adalbertstraße - beantwortet
+- TOP 7.3: Umsetzung der Beschlusslage zur Nutzung der VZÄ-Steuerungsreserve - beantwortet
+- TOP 7.4: Kinderärztliche Versorgung in Mitte - beantwortet
+- TOP 7.5: Stand des Genehmigungsverfahrens Wochenmarkt Dorothea-Schlegel-Platz - beantwortet
+- TOP 7.6: Willkommensklassen für Flüchtlinge in Mitte: Neuzugänge ohne Deutsch-kenntnisse - schriftlich beantwortet
+- TOP 7.7: Jugendverkehrsschule Tiergarten - schriftlich beantwortet
+- TOP 7.8: Lebensmittelkontrolleure in Berlin-Mitte gut ausgerüstet? - schriftlich beantwortet
+- TOP 7.9: Cybermobbing an Schulen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.10: Das Ricola-Syndrom: Mittes Bezirksamtsbeschlüsse ab sofort online - schriftlich beantwortet
+- TOP 7.11: Medizinische und psychologische Versorgung von Flüchtlingen / AsylbewerberInnen - schriftlich beantwortet
+- TOP 7.12: Kein Geld mehr für Inklusion in Mitte? - schriftlich beantwortet
+- TOP 7.13: Betroffenenrat Lehrter Straße und Wohnungsbau Groth-Gruppe im Mittel-bereich der Lehrter Straße - schriftlich beantwortet
+- TOP 7.14: Weg zwischen den Häusern Lehrter Straße 63 und 64 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: „Wahl einer Patientenfürsprecherin im Evangelischen Geriatriezentrum Berlin nach § 30 Landeskrankenhausgesetz (LKG) durch die Bezirksverordnetenversammlung (BVV) Mitte“ - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf 1-47 (Bayer) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanentwurfes 1-47 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kaufland Müllerstraße 123-125 den Bedarfen der BewohnerInnen anpassen - in der BVV abgelehnt
+- TOP 12.2: Keine Privatisierung des Spreeuferweges - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Optimierung des Verkehrs auf der Swinemünder Brücke - überwiesen
+- TOP 12.4: Informationsmaterialien der BVV Mitte - überwiesen
+- TOP 12.5: Moabit hilft": Flüchtlinge in der Notunterkunft im ehemaligen Vermessungsamt Alt-Moabit über den Sport integrieren - überwiesen
+- TOP 12.6: Linux im Bezirksamt - überwiesen
+- TOP 12.7: Anrainer-Beauftragte/r auch für die Invaliden-/Chausseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Bündnis für Wohnen im Bezirk (II) - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Holz statt Stein - in der BVV abgelehnt
+- TOP 12.10: Interessenbekundungsverfahren für Dorothea-Schlegel-Platz einleiten - überwiesen
+- TOP 12.11: Information und Veröffentlichung von Gutachten (II) - überwiesen
+- TOP 12.12: Abgelegte Bücher der Bibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Busrouten und Abfahrtszeiten der Linien 106, 123 und M27 in Moabit West arbeitnehmerfreundlicher gestalten - überwiesen
+- TOP 12.14: Ergänzende Berichterstattung zu Liegenschaften - überwiesen
+- TOP 12.15: Gedenkstätte zum Deportationsbahnhof „Güterbahnhof Moabit" - überwiesen
+- TOP 12.16: Schulwegsicherung in Moabit-West aus AZ-Mitteln - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Flüchtlinge und AsylbewerberInnen sind in Mitte willkommen - mit Änderungen in der BVV beschlossen
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Milieuschutzverordnung Oranienburger Vorstadt anpassen – Ferienwoh-nungen bekämpfen - in der BVV abgelehnt
+- TOP 15.2: Runder Tisch gegen Lärm- und Schmutzbelästigung durch Clubs - erledigt
+- TOP 15.3: Skulpturengarten im Tiergarten mehr Bedeutung schenken! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Sozialverträgliche Sanierung am Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Zivilgesellschaftliches Engagement stärken - ein interkultureller Garten in der Schulstraße 118 - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Teile des ehem. Präsidium der Volkspolizei am Alexanderplatz zu einem Erinnerungsort umgestalten - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Schaustellergewerbe unterstützen - Ausnahmeregelung für die Umweltzone ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Städtebauliche Kriminalprävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Barrierefreie Homepage der Stadt Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Offenes Dateiformat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Gesund aufwachsen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Kann das Bezirksamt Mitte von Berlin als "familienfreundlicher Betrieb" zertifiziert werden? - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Moabit mit den Augen älterer Menschen - Was sagt das Bezirksamt? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Mitte soll Fairtrade-Town werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.8: Informationsportal zur Bürgerbeteiligung zügig umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Sicherung der Archivalien unserer historischen Gebäude - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Pilotprojekt für internetbasierte Bürgerbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.11: Keine Zentralisierung der öffentlichen Gesundheitsdienste - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Endlich Abbau struktureller Defizite! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Straßenbahn in der Turmstraße bis 2016 realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.14: Beteiligung der Träger öffentlicher Belange zum B-Plan III-226 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Veröffentlichung von Gutachten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Abgabe von Maxi und Schnute JETZT planen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Bringt das Inselglück zurück nach Moabit – Neue Kulturprojekte sollen an erfolgreichen Projekten anknüpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Bündnis für Wohnen im Bezirk Mitte - Vereinbarung für die Sicherung des Wohnraums in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Investitionen in Energieeffizienz unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Gründerzentrum in Moabit realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.21: Regionalmanagement Moabit West - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Milieuschutzregelungen ausbauen – Rechte des Bezirks stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: BVV-Entscheidung zu Bebauungsplänen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Treffpunkt an großen Bahnhöfen in Berlin-Mitte einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Einheitliches Vorgehen gegen Altkleidersammelcontainer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Passen Schule und Volkshochschule zusammen? (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Arbeit der Bürgergremien in den QM-Gebieten in Mitte aufwerten und ersichtlicher machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Informativere Vorlagen zur Kenntnisnahme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Sprechstunde „Pflegestützpunkte“ im Rathaus Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.30: Fahrstuhl am Bahnhof Friedrichstraße wieder in Betrieb setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.31: Rundgang mit Seniorinnen und Senioren im Sprengelkiez – Was sagt das Bezirksamt? (3) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.32: Baumschäden online melden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.33: Aufhebung des Beschlusses des Bezirksamtes, der die Ausschilderung der Arminiusmarkthalle verhindert (Ds 0724/IV) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.34: Fahrradwege sicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.35: Inhalte und Ziele der Förderung des bürgerschaftlichen Engagements und der Partizipation im Stadtteil - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.36: Aufbau einer Online-Plattform als Element eines bezirklichen Beteiligungsmodells zur Aktivierung und Förderung von Partizipation und Bürgerschaftlichem Engagement in den Sozialräumen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.37: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.38: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.39: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - mit Abschlussbericht zur Kenntnis genommen
