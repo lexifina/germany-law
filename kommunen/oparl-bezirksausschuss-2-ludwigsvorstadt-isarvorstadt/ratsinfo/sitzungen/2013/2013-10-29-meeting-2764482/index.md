@@ -1,0 +1,106 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2013-10-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2764482
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2764482
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: Genehmigung der Protokolle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kindertheater im Fraunhofer Theaterstück für Kinder ab 24.11.2013 - <div></div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Adam-Schall-Gesellschaft für Deutsch-Chinesische Zusammenarbeit e.V. Integration der chinesischen Familien vom 12.10. - 07.12.2013 - <div></div>
+- TOP 3.1.: Münchens Stadtteilkultur stärken, Ausweitung von Betriebszuschüssen ab 2014, Personalkostenaufstockung (Ausweitung SNP) ab 2014, Anhörung zur Beschlussvorlage des Kulturausschusses vom 17.10.2013, siehe auch 2013.09 A 3.1
+- TOP 1.1.: Errichtung einer Verkehrsinsel in der Thalkirchner Str., Höhe Waltherstr., vertagt aus 2013.05 B 1.1, 2013.07 B 1.1, 2013.08 B 1.1, 2013.09 B 1.3
+- TOP 1: (E) Übergang für Fußgänger auf der Braunauer Eisenbahnbrücke (Ziffer 3) Empfehlung Nr. 08-14 / E 01584 der Bürgerversammlung des Stadtbezirkes 02 ? Ludwigsvorstadt-Isarvorstadt am 15.11.2012 - <div></div>
+- TOP 1.2.: Standortgenehmigung für Parkscheinautomaten, Kapuzinerstr. 37
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Paul-Heyse-Str. 31a: Neubau Wohnanlage (84 WE), Laden, vertagt aus 2013.09 B 3.1.5 (Eilentscheidung)
+- TOP 3.1.2.: Reifenstuelstr. 2: Sanierung und Umbau Bestandsgebäude (DG-Ausbau zu 2 WE), Anbau von Balkonen, Nutzungsänderung EG Läden zu Wohnungen ?, vertagt aus 2013.09 B 3.1.8 (Eilentscheidung)
+- TOP 3.1.3.: Häberlstr. 20: Nachträgliche Genehmigung einer vor 1956 errichteten Dachgaube im Vordergebäude
+- TOP 3.1.4.: Dreimühlenstr. 36: Dachgeschoss-Umbau mit Quergiebel und Gauben, Zusammenlegung zweier Wohnungen im 4. OG, Errichtung Aufzug und Erneuerung Balkone
+- TOP 3.1.5.: Herzog-Heinrich-Str. 26, Erneuerung von vier Balkonen
+- TOP 3.1.6.: Fraunhoferstr. 10, Nutzungsänderung 1.+2. OG: Einbau von vier Wohnungen in ehemal. Pension, Abbruch und Neubau Dachstuhl, Einbau einer zusätzlichen Wohnung im DG sowie Personenaufzug, Anbau von Balkonen (hofseitig), Fenster-Änderung (straßenseitig) ? Tektur
+- TOP 3.1.7.: Jahnstr. 5: Dachgeschoss-Ausbau und Anbau eines Außenaufzugs
+- TOP 3.1.8.: Baaderstr. 1: Erweiterung eines Hotels um sieben Zimmer, Umbau Treppenhaus, Anbau Fluchttreppenhaus, Erneuerung Dachstuhl - Tektur
+- TOP 3.2.1.: Isartalstr. 24: Antrag auf Baumfällung, 1 Kastanie
+- TOP 3.2.2.: Arnulfstr. 15: Antrag auf Baumfällung, 1 Spitzahorn
+- TOP 1.1.: Anpassung der Querung für Fußgänger an der Kreuzung Müllerstr./Fraunhoferstr. zur Trambahnhaltestelle der Linien 16 und 18 (Richtung Reichenbachpl.)
+- TOP 2.1.1.: Fraunhoferstr. 44, ?Max Rischart's Backhaus KG?, Freischankfläche
+- TOP 2.1.2.: Ickstattstr. 10, ?Privatbäckerei Wimmer?, Änderung der Freischankfläche
+- TOP 2.1.3.: Fraunhoferstr. 20, ?Frenzy?, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.1.: Paul-Heyse-Str. 2, Zeitungsentnahmekasten
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Austausch der Lichtzeichenanlage Ickstattstr. / Klenzestr., vertagt aus 2013.08 C 3.2.1, siehe auch 2013.09 C 3.2.1 ? erneute Behandlung
+- TOP 5.1.: Sandstrand auf der Corneliusbrücke
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2.1.: Unterausschuss ?Planen und Bauen? am Montag, den 11.11.2013 um 19.00 Uhr in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 12.11.2013 um 19.00 Uhr in der Gaststätte "Schmeller Wirt", Schmellerstr. 17, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 13.11.2013 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung findet am 18.11.2013 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 26.11.2013 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Die Bürgerversammlung des 2. Stadtbezirkes findet am 07.11.2013 um 19 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Ab 18 Uhr stehen Vertreter verschiedener städtischer Referate und Einrichtungen zur Bürgersprechstunde zur Verfügung.
+- TOP 0: Unterrichtungen
+- TOP 0.1.: BA-Budget: Bescheide
+- TOP 0.2.: Verwendungsnachweise
+- TOP 0.3.: Budgetvergabe transparenter machen, Antrag des BA 18 Untergiesing-Harlaching
+- TOP 0.4.: ?Neuplanung Berufsschulzentrum Südbahnhof beschleunigen?, BV-Empfehlung Nr. 08-14 / E 00960 vom 24.05.2011, Zwischennachricht des Referates für Bildung und Sport
+- TOP 0.1.: Baumaßnahmen SWM
+- TOP 0.2.: Bauvorhaben Reifenstuelstr. 4, Antwortschreiben der Lokalbaukommission zur Stellungnahme des BA 2, siehe auch 2013.06 B 3.1.25
+- TOP 0.3.: Bauvorhaben Landwehrstr. 77, Antwortschreiben der Lokalbaukommission zur Stellungnahme des BA 2, siehe auch 2013.02 B 3.1.8
+- TOP 0.4.: Gefahrenbaum Corneliusstr. 6, Abdruck der Fällgenehmigung
+- TOP 0.5.: Bauvorhaben Klenzestr. 22, Antwortschreiben der Lokalbaukommission zur Stellungnahme des BA 2, siehe auch 2013.08 B 3.1.1
+- TOP 0.6.: Öffnung der Adolf-Kolping-Str. und Radwegweisung zur Sonnenstr., BA-Antrag Nr. 08-14 / B 05039 vom 30.07.2013, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.7.: Erlass einer Erhaltungssatzung ?Dreimühlenstraße/Baldeplatz?, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 16.10.2013, Sitzungsvorlage Nr. 08-14 / V 11984 (Erledigung der BA-Anträge Nr. 08-14 / B 04216 und 08-14 / B 04866)
+- TOP 0.8.: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013, Sitzungsvorlage Nr. 08-14 / V 12978
+- TOP 0.9.: Änderung der Straßenreinigungssatzung, Beschluss des Bauausschusses vom 15.10.2013, Sitzungsvorlage Nr. 08-14 7 V 13149
+- TOP 0.10.: Bauvorhaben Adolf-Kolping-Str. 11, Abdruck des Vorbescheides, siehe 2013.08 B 3.1.14
+- TOP 0.1.: Versammlungen unter freiem Himmel
+- TOP 0.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 0.3.: Unveränderte Gaststättenfortführungen
+- TOP 0.4.: Verkehrsrechtliche Anordnungen
+- TOP 0.5.: Erlaubnisbescheide
+- TOP 0.6.: Baustellensituation im Dreimühlenviertel; Geplante Sanierung einer Fernwärmeleitung in der Dreimühlenstr. sowie der Isartalstr., Information des Kreisverwaltungsreferates
+- TOP 0.7.: Umwidmung von Teilen der Pestalozzistr. in eine Fahrradstraße, BA-Antrag Nr. 08-14 / B 04946, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.8.: Absage Kunst- u. Kulturprojekt ?Notre Dame sur l'Isar?, Wittelsbacherstr., 11.-20.10.2013
+- TOP 0.9.: Erweiterung des Christkindl-Marktes in der Altstadt, Schreiben des Vorsitzenden des BA 1 an Referat für Arbeit und Wirtschaft
+- TOP 0.10.: Zulässigkeit des Radfahrens entlang des Westermühlbachs und im Zuge der Querverbindung vom Glockenbachplatz zur Thalkirchner Str.
+- TOP 0.11.: Aufhebung der Radwegbenutzungspflicht in der Thalkirchner Straße, verkehrsrechtliche Anordnung
+- TOP 0.12.: Information der MVG über Betriebskonzept während der Schienenschleifarbeiten auf der U1-Süd vom 13. mit 17. Oktober 2013
+- TOP 0.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen, abschließende Beantwortung von BA-Anträgen Nr. 08-14 / B 03815 (BA 14), 08-14 / B 03878 (BA 8)
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 1.5: Sonstiges
+- TOP 4.1: Anträge
+- TOP 3.1.2: Entscheidungen
+- TOP 3.1.3.: Anhörungen
+- TOP 3.6: Berichte der Beauftragten
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2: Termine
+- TOP 5.2.: Veranstaltungen
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 5: Sonstiges (2)
+- TOP 6: Berichte der Beauftragten (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 5: Sonstiges (3)
+- TOP 6: Berichte der Beauftragten (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.3: Sonstiges (4)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 5: Sonstiges (5)
+- TOP 3: Veranstaltungen (2)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (4)
