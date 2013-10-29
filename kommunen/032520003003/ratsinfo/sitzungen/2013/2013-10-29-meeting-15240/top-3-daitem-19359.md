@@ -1,0 +1,7 @@
+# TOP 3.: Genehmigung des Protokolls über die Sitzung am 05.09.2013
+
+- Sitzung: Ausschuss für Finanzen, Wirtschaftsförderung und Soziales (13. Sitzung) (2013-10-29)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/19359
+- Beschluss (Datei): Beschlusstext (Genehmigung des Protokolls über die Sitzung am 05.09.2013) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRg5gs32J6S9qVM-1WT6YnKQI9YtYO-hoiasAQpm8nQi/Beschlusstext_TOP_3._-oeffentlich-_Ausschuss_fuer_Finanzen-_Wirtschaftsfoerderung_und_Soziales_29.10.2013.pdf
