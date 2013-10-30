@@ -1,0 +1,94 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-10-30T17:00:00+01:00
+- Ende: 2013-10-30T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2105
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2105
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Gemeinsam wird Neukölln seiner Verantwortung gerecht: Recht auf Asyl und Schutz vor Verfolgung und Krieg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Teilnahme am Energievolksentscheid am 03. November - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Durchführung einer Einwohnerversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Einwohnerantrag - in der BVV abgelehnt
+- TOP 7.3: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2012 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Absage des Begehungstermins in der Hörberatungsstelle - beantwortet
+- TOP 9.2: Baustelle Zwickauer Damm - beantwortet
+- TOP 9.3: Flüchtlingsunterkunft an der Neuen Späthstraße - beantwortet
+- TOP 9.4: Glücksspiel in Neukölln - beantwortet
+- TOP 9.5: Notunterkünfte für Obdachlose im Winter - beantwortet
+- TOP 9.6: Saalestein - schriftlich beantwortet
+- TOP 9.7: Fortbildungsveranstaltungen für Mitarbeiter*innen im Ordnungsamt - schriftlich beantwortet
+- TOP 9.8: Vermietung von Wohnungen Haus Harz - schriftlich beantwortet
+- TOP 9.9: Werbekampagne ZLB - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Neubau der Clay-Schule in Sicht? - beantwortet
+- TOP 10.2: BVG-Bus 171 durch Alt-Rudow - beantwortet
+- TOP 10.3: Spielhallengesetz - beantwortet
+- TOP 10.4: Fehlende Lehrer*innen in Neuköllner Schulen - beantwortet
+- TOP 10.5: Haushaltsbelastung durch zu hohe Kosten - beantwortet
+- TOP 10.6: Maßnahmen gegen steigende Mieten - vertagt
+- TOP 10.7: Betrieb der Flüchtlingsunterkunft in der Späthstraße - vertagt
+- TOP 10.8: Klagen gegen Hartz IV-Bescheide - vertagt
+- TOP 10.9: Investoren zu Sozialwohnungen verpflichten - vertagt
+- TOP 10.10: Vermittlung in Jobs mit sittenwidrigen Dumpinglöhnen - vertagt
+- TOP 10.11: Infoabend an den Integrierten Sekundarschulen - vertagt
+- TOP 10.12: Städtepartnerschaft mit Pavlovsk-Puschkin aussetzen - vertagt
+- TOP 10.13: Lern-/Verhaltensdispositionen bei „Umsteiger*innen im Schuljahr 2013/14“ - vertagt
+- TOP 10.14: Gefahrenstelle auf der Hermannbrücke beseitigen - vertagt
+- TOP 10.15: Ausstellung "Widerstand in Neukölln" - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Verdrängung entgegentreten - vertagt
+- TOP 11.2: Milieuschutz für Neukölln - vertagt
+- TOP 11.3: Neuköllner Register einführen - überwiesen
+- TOP 11.4: Schulstandort auf dem Tempelhofer Feld - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Boddinstraße für Radfahrer freigeben - in der BVV abgelehnt
+- TOP 11.6: Freifläche und Wohnungen auf den Buckower Feldern - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Verkehrssicherheit Hermannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Fußgängerüberweg Lettberger Straße / Künnekeweg - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Beteiligung der Öffentlichkeit bei großen Bauvorhaben - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Beleuchtung an der Fritz-Karsen-Schule - überwiesen
+- TOP 14.2: Änderung der Verkehrszeichen Köpenicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Ausreichende Gemeinschaftsräume für die entstehende Unterkunft für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Weitergabe von Meldedaten - Information über Opt - Out - überwiesen
+- TOP 14.5: Öffentliche Beteiliggungsveranstaltungen bei größeren Bauvorhaben durchführen - überwiesen
+- TOP 14.6: Fußgängerüberweg in der Fritz-Reuter-Allee - überwiesen
+- TOP 14.7: Separate Abbiegerampel in LZA Buckower Damm/Mohriner Allee - überwiesen
+- TOP 14.8: Unterstützung der Erweiterungspläne des Hotels Estrel - überwiesen
+- TOP 14.9: Bebauungsplanverfahren 8-66 - Buckower Felder - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Begrüßungspaket für die Schüler*innen Neuköllns Oberschulen - überwiesen
+- TOP 14.11: Integration von Rückläufer*innen an Sekundarschulen - überwiesen
+- TOP 14.12: Personal der Hörberatungsstelle - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Hinweisschilder für Friedhöfe - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Parkbänke im Grünzug Lipschitz./Wutzkyallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Honoraranpassungen JA, aber nicht zu Lasten der Bezirke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Abfederung der Honorarerhöhungen an Volkshochschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Lichtzeichenanlage an der Kreuzung Sonnenallee/Ziegrastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Finanzierung des Alpha-Bündnisses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Absolutes Haltverbot in der Waltersdorfer Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Wiederinstandsetzung der Installation vor dem BVV-Büro mit der Dokumentation des Widerstandes in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Bebauungsplan 8-22ba "Ehemalige Kindl-Brauerei" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Bebauungsplan XIV-274aa - "Waßmannsdorfer Dreieck" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Bebauungsplan XIV-188 vom 03.07.2012 - "Kleingartenanlage Steingrube - Weimars Ruh" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Bebauungsplan XIV-263b - "Spielplatz Saalestraße West" - mit Abschlussbericht zur Kenntnis genommen
