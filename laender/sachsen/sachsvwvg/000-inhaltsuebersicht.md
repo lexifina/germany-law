@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Geltungsbereich
 § 2 Allgemeine Voraussetzungen der Verwaltungsvollstre- ckung
@@ -18,7 +18,7 @@ Zweiter Teil Vollstreckung von Leistungsbescheiden
 § 14 Beitreibung durch Vollstreckung in bewegliche Sachen
 § 15 Beitreibung durch Vollstreckung in sonstige Vermögensgegenstände
 § 16 Sonstige Vorschriften für die Beitreibung
-§ 17 Eidesstattliche Versicherung
+§ 17 Vermögensauskunft
 § 18 Beitreibung gegen juristische Personen des öffentlichen Rechts
 Dritter Teil Vollstreckung sonstiger Verwaltungsakte
 1. Abschnitt Allgemeine Vorschriften
