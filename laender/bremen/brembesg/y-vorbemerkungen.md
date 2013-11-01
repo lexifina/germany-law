@@ -38,4 +38,4 @@ Eine das Grundgehalt ergänzende ruhegehaltfähige Stellenzulage nach Anlage 6 e
 a) Beamtinnen und Beamte der Laufbahngruppe 1, deren Einstiegsamt der Besoldungsgruppe A 6, A 7 oder A 8 zugeordnet ist,
 aa) in den Besoldungsgruppen A 6 bis A 8,
 bb) in der Besoldungsgruppe A 9,
-b) Beamtinnen und Beamte der Laufbahngruppe 2 in den Besoldungsgruppen A 9 bis A 13, soweit deren Einstiegsamt der Besoldungsgruppe A 9, nach § 15 Absatz 2 des Bremischen Besoldungsgesetzes der Besoldungsgruppe A 10 oder der Besoldungsgruppe A 13 zugeordnet ist.
+b) Beamtinnen und Beamte der Laufbahngruppe 2 in den Besoldungsgruppen A 9 bis A 13, soweit deren Einstiegsamt der Besoldungsgruppe A 9, nach § 15 Absatz 2 des Bremischen Besoldungsgesetzes der Besoldungsgruppe A 10, der Besoldungsgruppe A 12 im Amtsanwaltsdienst oder der Besoldungsgruppe A 13 zugeordnet ist.
