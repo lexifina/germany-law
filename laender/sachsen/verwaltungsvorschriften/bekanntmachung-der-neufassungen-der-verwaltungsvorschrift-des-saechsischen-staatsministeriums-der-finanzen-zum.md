@@ -1,8 +1,8 @@
 # Bekanntmachung der Neufassungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2012-09-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.8
+- Datum: 2013-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.9
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -59,10 +59,11 @@ zum Vollzug der Sächsischen Trennungsgeldverordnung
 [Geändert durch
 VwV vom 4. Oktober 2001 (SächsABl. S. 1071), durch VwV
 vom 7. November 2007 (MBl. SMF S. 214), durch VwV
-vom 26. Januar 2010 (MBl. SMF S. 10, 137) und durch VwV
-vom 25. Juli 2012 (SächsABl. S. 1138)
+vom 26. Januar 2010 (MBl. SMF S. 10, 137), durch VwV
+vom 25. Juli 2012 (SächsABl. S. 1138) und durch
+VwV vom 23. September 2013 (SächsABl. S. 1038)
 
-mit Wirkung vom 28. September 2012]
+mit Wirkung vom 1. November 2013]
 
 Abschnitt I
 
@@ -239,22 +240,22 @@ Angemessenheit der Wohnung
 | Größe in qm
 
 | für Alleinstehende
-|     45 m 2
+|     45 m²
 
 | bei zwei Familienmitgliedern
-|     60 m 2
+|     60 m²
 
 | bei drei Familienmitgliedern
-|     75 m 2
+|     75 m²
 
 | bei vier Familienmitgliedern
-|     90 m 2
+|     90 m²
 
 | bei fünf Familienmitgliedern
-|    105 m 2
+|    105 m²
 
 | bei sechs Familienmitgliedern
-|    120 m 2
+|    120 m²
 
 An das Kriterium Ausstattung ist ein strenger Maßstab anzulegen. Eine Wohnung ist dann angemessen ausgestattet, wenn sie dem üblichen Standard entspricht. Dazu gehören Zentralheizung sowie Bad und WC innerhalb der Wohnung. Eine Wohnung ist hinsichtlich der Miethöhe angemessen, wenn die Miete (ohne Nebenkosten) 25 vom Hundert des Nettofamilieneinkommens nicht übersteigt. Maßgebend ist das Nettoeinkommen aller Familienmitglieder im Zeitpunkt der Antragstellung. Spätere Änderungen, die das Familieneinkommen nachhaltig beeinflussen, sind beim Wohnungsangebot zu berücksichtigen. Als Nettoeinkommen ist die Summe der steuerpflichtigen monatlichen Bruttobezüge abzüglich
 
@@ -414,7 +415,8 @@ SächsRKG sind uneingeschränkt anzuwenden.
 b)
 
 Übernachtungskostenerstattung (§ 9
-SächsRKG). Erstattet werden die nachgewiesenen notwendigen Kosten der Übernachtung bis zu 61,36 EUR je Übernachtung. Darüber hinaus gehende Übernachtungskosten können erstattet werden, soweit ihre Unvermeidbarkeit nachgewiesen wird oder vor Beginn der Maßnahme der Höhe nach anerkannt wurden. Die Kürzungsbestimmungen des § 9 Abs. 1 Satz 3 und des § 11 Abs. 3 und 4
+SächsRKG). Erstattet werden die nachgewiesenen notwendigen Kosten der Übernachtung bis zu 61,36 EUR je Übernachtung. Darüber hinaus gehende Übernachtungskosten können erstattet werden, soweit ihre Unvermeidbarkeit nachgewiesen wird oder vor Beginn der Maßnahme der Höhe nach anerkannt wurden. Die Kürzungsbestimmungen des
+§ 9 Abs. 1 Satz 3 und des § 11 Abs. 3 und 4
 SächsRKG sind uneingeschränkt anzuwenden.
 
 c)
@@ -602,7 +604,8 @@ SächsRKG.
 
 Zu § 5 Reisebeihilfen für Heimfahrten
 
-Zu den Kosten für Heimfahrten werden Beihilfen gewährt. Heimfahrten sind keine Dienstreisen. Regelungen zu den Reisebeihilfen für Heimfahrten enthalten die §§ 5 und 11
+Zu den Kosten für Heimfahrten werden Beihilfen gewährt. Heimfahrten sind keine Dienstreisen. Regelungen zu den Reisebeihilfen für Heimfahrten enthalten die §§
+5 und 11
 SächsTGV. Grundvoraussetzung für die Gewährung von Reisebeihilfen für Heimfahrten ist der Anspruch auf Trennungsgeld nach § 3. Eine Ausnahme dazu bildet § 5 Abs. 2.
 
 5.1
@@ -828,7 +831,7 @@ Die allgemeine Beweis- und Mitwirkungspflicht umfasst auch die Anzeigepflicht. D
 
 10
 
-aufgehoben
+(aufgehoben)
 
 11
 
@@ -863,10 +866,6 @@ Bei Vorliegen persönlicher Gründe des Trennungsgeldberechtigten nach § 3 zum 
 Zu Absatz 4
 
 Sind die Fristen für die Gewährung kalenderwöchentlicher und halbmonatlicher Reisebeihilfen nach Absatz 1 und 2 abgelaufen und liegt auch kein begründeter Einzelfall (Härtefall) nach Absatz 3 mehr vor, werden Reisebeihilfen nur noch nach den allgemeinen Regelungen des § 5 gewährt.
-
-11.5
-
-aufgehoben
 
 Abschnitt III
 
@@ -1126,6 +1125,8 @@ Anlagen 6 und 10 neu gefasst durch Bek. vom 7. November 2007 (MBl. SMF 7/2007 S.
 Anlagen 1, 3, 5, 6, 9 und 10 neu gefasst durch VwV vom 26. Januar 2010 (MBl. SMF 2/2010 S. 10, ber. MBl. SMF 8/2010 S. 137)
 
 Anlagen 3, 4, 5, 7 und 8 neu gefasst durch VwV vom 25. Juli 2012 (SächsABl. S. 1138)
+
+Anlagen 3, 4 und 5 neu gefasst durch VwV vom 23. September 2013 (SächsABl. S. 1038)
 
 Anlage 1
 
