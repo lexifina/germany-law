@@ -10,10 +10,9 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  | Bremen, Bremen-Nord | 1.3 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht
  |  |  | 1.4 | Durchführung der Einheitsbewertung und Bedarfsbewertung des Grundvermögens
  |  |  | 1.5 | Verwaltung der
- |  |  | 1.5.1 | Grunderwerbsteuer
- |  |  | 1.5.2 | Zweitwohnungsteuer
- |  |  | 1.5.3 | Hundesteuer
- |  |  | 1.5.4 | Vergnügungssteuer
+ |  |  | 1.5.1 | Zweitwohnungsteuer
+ |  |  | 1.5.2 | Hundesteuer
+ |  |  | 1.5.3 | Vergnügungssteuer
  |  |  | 1.6 | Festsetzung und Erhebung der Grundbesitzabgaben
  |  | Bremen | 1.7 | Kassengeschäfte
  |  |  | 1.8 | Vollstreckung
@@ -46,3 +45,4 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
 5 | Bremerhaven | Alle Finanzämter im Lande Bremen | 5.1 | Verwaltung der
  |  |  | 5.1.1 | Erbschaft- und Schenkungsteuer
  |  |  | 5.1.2 | Erbschaft- und Schenkungsteuer in den Fällen des § 4 des Außensteuergesetzes
+ |  |  | 5.1.3 | Grunderwerbsteuer
