@@ -1,1 +1,1 @@
-# Verordnung über die Laufbahn der Beamten des feuerwehrtechnischen Dienstes im Lande Bremen (Feuerwehrlaufbahnverordnung - FwLV) in der Fassung vom 1. Dezember 2006
+# Bremische Verordnung über die Laufbahn der Beamtinnen und Beamten der Fachrichtung Feuerwehr (Feuerwehrlaufbahnverordnung - FwLV -) vom 17. September 2013

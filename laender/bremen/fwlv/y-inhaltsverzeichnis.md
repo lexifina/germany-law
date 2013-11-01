@@ -1,27 +1,24 @@
 # Inhaltsverzeichnis
-Inhaltsverzeichnis
+Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 | Geltungsbereich
 § 2 | Laufbahn, Ämter
-Abschnitt 2 Laufbahnabschnitt I - mittlerer feuerwehrtechnischer Dienst -
+Abschnitt 2 Laufbahnabschnitt I - Laufbahngruppe 1, zweites Einstiegsamt -
 § 3 | Einstellungsvoraussetzungen
-§ 4 | Laufbahnausbildung I
+§ 4 | Vorbereitungsdienst, Laufbahnprüfung
 § 5 | Probezeit
-Abschnitt 3 Laufbahnabschnitt II - gehobener feuerwehrtechnischer Dienst -
-Titel 1 Aufstieg
-§ 6 | Voraussetzungen
-§ 7 | Laufbahnausbildung II
-§ 8 | Prüfungsfreier Aufstieg von lebensälteren Beamten des Laufbahnabschnittes I
-Titel 2 Unmittelbare Einstellung
-§ 9 | Voraussetzungen
-§ 10 | Laufbahnausbildung
-§ 11 | Probezeit
-Abschnitt 4 Laufbahnabschnitt III - höherer feuerwehrtechnischer Dienst -
-§ 12 | Aufstieg
-§ 13 | Unmittelbare Einstellung
+Abschnitt 3 Laufbahnabschnitt II - Laufbahngruppe 2, erstes Einstiegssamt -
+§ 6 | Einstellungsvoraussetzungen
+§ 7 | Vorbereitungsdienst, Laufbahnprüfung
+§ 8 | Probezeit
+§ 9 | Regelaufstieg
+§ 10 | Praxisaufstieg
+Abschnitt 4 Laufbahnabschnitt III - Laufbahngruppe 2, zweites Einstiegsamt -
+§ 11 | Einstellungsvoraussetzungen
+§ 12 | Vorbereitungsdienst, Laufbahnprüfung
+§ 13 | Sonstiger Zugang zur Laufbahngruppe 2, zweites Einstiegsamt
 Abschnitt 5 Übergangsvorschriften
-§ 14 | Überleitung
+§ 14 | Übergangsbestimmung
 Abschnitt 6 Schlussvorschriften
-§ 15 | Ausbildungsplanung
-§ 16 | Ausführungsbestimmungen
-§ 17 | In-Kraft-Treten
+§ 15 | Ausführungsbestimmung
+§ 16 | Inkrafttreten, Außerkrafttreten
