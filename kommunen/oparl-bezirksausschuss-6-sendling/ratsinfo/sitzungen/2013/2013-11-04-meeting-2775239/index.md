@@ -1,0 +1,71 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2013-11-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2775239
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2775239
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Kulturzentrum Tumblingerstraße - aktueller Sachstand des Projektes
+- TOP 2.2.: Erhalt der Montessorischule in der Reutberger Straße
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Investitionskosten- und Mietkostenzuschuss für eine Mittagsbetreuungsgruppe an der Impler- bzw. Gotzingerschule auch außerhalb der Schule - <div>zur Kenntnis genommen</div>
+- TOP 4.2.: Treffen des Referates für Bildung und Sport mit den Bezirksausschüssen am 16.10.2013
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Zeitungsentnahmegerät Pfeuferstraße 33
+- TOP 6.2.: Zeitungsentnahmegeräte am Harras und am Herzog-Ernst-Platz
+- TOP 6.3.: Christkindlmarkt am Harras von 28.11. - 23.12.2013
+- TOP 6.4.: Gedenken an die Pogromnacht 9. November 1938; Lindwurmstr. 185
+- TOP 6.5.: CarSharing in München - Zwischenbericht zur Projekthalbzeit
+- TOP 6.6.: Errichtung eines Wochenmarktes am Harras
+- TOP 6.7.: Verlagerung der Behindertenparkplätze am Anwesen Plinganserstraße 37
+- TOP 6.8.: Sendlinger Spange - Anbindung des Bahnhofs Harras zurückgestellt
+- TOP 6.9.: Schienenschleifarbeiten auf der U3-Süd vom 03.11. bis 07.11.2013
+- TOP 6.10.: Verkehrssituation Abbiegen aus nördlicher Heckenstallerstraße zur Passauerstraße in südlicher Richtung
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Kunst in Sendling Bespielung des Hochbunkers vom 10. - 13.10.2013 - <div>Kürzung auf ? 1500,- - mehrheitlich</div>
+- TOP 7.2.: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale
+- TOP 7.3.: WLAN-Spot im großen Sitzungssaal des Sozialbürgerhauses Meindlstraße sowie am Harras
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Hans-Preißinger-Str. 8
+- TOP 8.3.: Bauvorhaben Ganghoferstr. 74
+- TOP 8.4.: Bauvorhaben Senserstr. 14
+- TOP 8.5.: Bauvorhaben Plinganserstr. 33
+- TOP 8.6.: Bauvorhaben Implerstr. 56
+- TOP 8.7.: Bauvorhaben Aberlestr. 14 - Antwortschreiben
+- TOP 8.8.: Bauvorhaben Meindlstraße 8; Staubemissionen
+- TOP 8.9.: Markthallen München, Konzept Machbarkeitsstudie
+- TOP 8.10.: Infrastrukturbedarf für rund 600 neue Wohnungen im Umgriff der Steinerstraße, Georg-Hallmaier-Straße, Fallstraße und Bahnlinie - <div>zur Kenntnis genommen</div>
+- TOP 8.11.: Ankauf und stadtgestalterische Aufwertung des Neuhofener Platzes; Schaffung einer Unterquerung der Bahnlinie am Südende des S-Bahnhofes Mittersendling; Aufnahme des städt. Grundstücks Fl.Nr. 9314 in den Umgriff des Gestaltungswettbewerbs für das Bauvorhaben Fallstr. 34 - <div>zur Kenntnis genommen</div>
+- TOP 8.12.: Parkraummanagement in München
+- TOP 8.13.: Erlass einer Erhaltungssatzung "Am Harras / Passauerstraße"
+- TOP 8.14.: Fortschreibung Zentrenkonzept
+- TOP 8.15.: Landesentwicklungsprogramm Bayern
+- TOP 9: Baureferat
+- TOP 9.1.: Projektplanung Straßenbaumaßnahme Meindlstraße 8
+- TOP 9.2.: Änderung der Straßenreinigungssatzung
+- TOP 9.3.: Kunst im öffentlichen Raum - Projekt "Moving Munich"; 15. - 30.11.2013
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Meindlstraße 5
+- TOP 10.2.: Baumfällung Josef-Lutz-Weg 2
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Mehr Rechtsabbiegepfeile für Radlfahrer
+- TOP 12.2.: Verkauf des Bunkers an der Gaißacher Straße
+- TOP 13: Verschiedenes
+- TOP 13.1.: MK6-Gelände Radlkofer- / Pfeuferstr.; Kies auf dem Gehweg
+- TOP 13.2.: Jour Fixe-Protokoll des Treffens des Kulturreferates mit den Bezirksausschüssen vom 15.07.2013
+- TOP 13.3.: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
