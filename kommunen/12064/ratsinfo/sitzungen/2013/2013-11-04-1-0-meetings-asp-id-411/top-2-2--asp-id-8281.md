@@ -1,0 +1,6 @@
+# TOP 2.2: Anfragen der Mitglieder des Ausschusses
+
+- Sitzung: 34. Sitzung des Ausschusses für Bau (2013-11-04)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=8281
