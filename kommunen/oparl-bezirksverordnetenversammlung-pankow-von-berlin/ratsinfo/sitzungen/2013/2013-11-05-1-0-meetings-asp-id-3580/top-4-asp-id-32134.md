@@ -1,0 +1,7 @@
+# TOP 4: Abstimmung weiteres Vorgehen Planungen Pappelallee
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Verkehr und öffentliche Ordnung (2013-11-05)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=32134
+- Ergebnis: erledigt
