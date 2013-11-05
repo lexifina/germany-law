@@ -1,0 +1,102 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2013-11-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2787120
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2787120
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Straßenführung Gotthardstraße / Reutterstraße
+- TOP 2: Anträge
+- TOP 2.1.: FDP: Park&Ride Plätze an der Fürstenrieder Straße?
+- TOP 2.2.: Bündnis 90 / Die Grünen: Ganztageszüge an Laimer Grundschulen - unter welchen Voraussetzungen sind die jeweiligen Schulleitungen bereit, Ganztagszüge anzubieten
+- TOP 2.3.: Bündnis 90 / Die Grünen: Tiefgarage Ludwig-Richter-Höfe, Verzicht auf Stellplätze entsprechend Stellplatzsatzung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.070 Euro für Faschingstreiben am 01.03.14; Antragsteller: Faschingsclub Laim e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.432,50 Euro für Konzert am 24.11.13; Antragsteller: Kirchenchor St. Philippus München - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 26.08.13: Auswahl der REGSAM-Schwerpunktgebiete ab 2014 (Vertagung aus der BA-Sitzung vom 01.10.13)
+- TOP 4.2.: Schreiben Baureferat vom 25.09.13: Erinnerungsverfahren; Gehbahnsanierung Helmpertstr. 1-7 und gegenüber
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 02.10.13: Flohmarkt am 07.12.13 auf dem Laimer Platz
+- TOP 4.4.: Schreiben Kommunalreferat vom 15.10.13: Stadteigenes Grundstück Flst. 8485/5 (Teilfläche), Gemarkung Laim an der Westend- / Zschokkestraße; Kleinzirkus Wintergastspiel vom Dezember 2013 bis Januar 2014
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 17.10.13: Stadtratsbeschlussentwurf "CarSharing in München, Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit, Anpassung der Rahmenbedingungen"
+- TOP 4.6.: Von-der-Pfordten-Str. 40: Antrag auf Fällung von 1 Fichte
+- TOP 4.7.: Junkerstr. 19: Antrag auf Fällung von 1 Zypresse
+- TOP 4.8.: Hauzenberger Str. 26-32: Antrag auf Fällung von 1 Kastanie
+- TOP 4.9.: Schreiben Baureferat vom 23.10.13: Projekt Agnes-Bernauer-Straße zwischen Fischer-von-Erlach-Straße und Von-der-Pfordten-Straße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 67: Errichtung eines Wirtsgartens auf privatem Grund; hier: Baupläne, Bau- und Betriebsbeschreibung (Vertagung aus der BA-Sitzung am 01.10.13) =&gt; dazu Schreiben Referat für Stadtplanung und Bauordnung vom 10.10.13
+- TOP 5.2.: Landsberger Str. 380: Umbau eines Marktes in einen Drogeriefachmarkt und Anbau eines Lebensmittelverbrauchermarktes; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.3.: Flotowstr. 68: Neubau eines Einfamilienhauses mit Carport; hier: Baupläne, Baubeschreibung
+- TOP 5.4.: Fürstenrieder Str. 41: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.5.: Geyerspergerstr. 29: Neubau eines Wohngebäudes (14 WE) mit erdgeschossigem Hotel Garni (12 Betten) und Tiefgarage (14 Stplätze incl. 1 Rollstuhlplatz); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.6.: Fürstenrieder Str. 70: Neubau Wohn- und Geschäftsgebäude (3 Varianten) / Vorbescheid (Fürstenrieder Str. 70 / Gotthardstr. 53); hier: Baupläne
+- TOP 5.7.: Agnes-Bernauer-Str. 25: Neubau zweier Wohngebäude mit Tiefgarage / Tektur; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.8.: Mitterhoferstr. 2: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Bau-, Baumbestands- und Freiflächengestaltungspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kreisjugendring München-Stadt vom 17.07.13: Stadtteilcheck "Auf Herz und Rampen prüfen" (Vertagung aus der BA-Sitzung vom 01.10.13)
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 24.09.13
+- TOP 7.2.: BA-Sitzung vom 01.10.13
+- TOP 7.3.: Sitzung UA Soziales, Schule und Sport vom 15.10.13
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister Ude vom 19.09.13: Maßnahmen, um den Fußgängerüberweg an der Ampelanlage Gotthard- / Stroblstraße sicherer zu gestalten (Empfehlung Nr. 08-14 / E 01157 der Bürgerversammlung vom 15.11.11)
+- TOP 8.2.: Schreiben Zweite Bürgermeisterin Strobl vom 19.09.13: Einbindung der Bezirksausschüsse bei stadtteilbezogenen Eröffnungsfeiern
+- TOP 8.3.: Schreiben Direktorium vom 20.09.13: Ressourcenverschwendung durch überflüssige Postsendungen stoppen (Antrag Nr. 08-14 / B 03815 des BA 8 Schwanthalerhöhe und Nr. 08-14 / B 03878 des BA 14 Berg am Laim)
+- TOP 8.4.: Schreiben Direktorium vom 02.10.13: Änderung der Bezirksausschuss-Satzung; notwendige Anpassungen für die Wahl der Bezirksausschüsse bei der Kommunalwahl 2014 (Schreiben BA vom 23.08.13)
+- TOP 8.5.: Schreiben Direktorium vom 04.10.13: Keine Fortschritte beim Thomas-Wimmer-Haus; schriftliche Anfrage gem. §68 GeSchO von Herrn Stadtrat Josef Schmid vom 04.10.13
+- TOP 8.6.: Schreiben Direktorium vom 14.10.13: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale
+- TOP 8.7.: Schreiben Direktorium vom 16.10.13: Steuerlicher Freibetrag für ehrenamtliche Tätigkeit (Schreiben BA vom 17.09.13)
+- TOP 8.8.: Schreiben Direktorium vom 18.10.13: Budget des BA 25; Bewilligung einer beantragten Zuwendung; Antragsteller: Kath. Pfarrei Zu den Heiligen Zwölf Aposteln
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.09.13: Fürstenrieder Str. 8b; Neubau eines Mehrfamilienhauses mit Tiefgarage sowie Herstellung einer Öffnung zur Bestands-Tiefgarage (auf Fl.Nr. 25/6)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.09.13: Fachnerstraße; Neubau eines Einfamilienhauses mit Garage
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.09.13: St.-Ulrich-Straße; Antrag auf Baumfällung
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.09.13: Von-der-Pfordten-Str. 38; Abbruch einer Garage und Neubau eines Einfamilienhauses / Tektur
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.10.13: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 15.09.-01.10.13
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.10.13: Landsberger Str. 289; Nutzungsänderung einer Ladenfläche in ein Wettbüro
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.10.13: Haslangstr. 33; Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 8.16.: Schreiben Baureferat vom 12.09.13: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Schrobenhausener Str. 15 / Innenhof
+- TOP 8.17.: Schreiben Baureferat vom 25.09.13: Entfernen von Spielgeräten oder Freizeiteinrichtungen; Weißenfelderplatz
+- TOP 8.18.: Schreiben Baureferat vom 26.09.13: Joergstraße, Sanierung des Fahrbahnbelags zwischen der Aindorferstraße und der Camerloherstraße
+- TOP 8.19.: Schreiben Baureferat vom 11.10.13: Verkehrsinsel Gotthardstraße / Höhe Reutterstraße
+- TOP 8.20.: Schreiben Sozialreferat vom 19.09.13: Europäisches Jahr für aktives Altern und Solidarität zwischen den Generationen 2012 - Dokumentation
+- TOP 8.21.: Schreiben Sozialreferat vom 04.10.13: Zweckentfremdung von Wohnraum; Haslangstraße
+- TOP 8.22.: Schreiben Referat für Bildung und Sport vom 24.09.13: Umstrukturierung städtisches Haus für Kinder Camerloherstr. 108 (Schreiben BA vom 17.09.13)
+- TOP 8.24.: Schreiben Kreisverwaltungsreferat vom 30.09.13: Gaststätte "Hoa Quynh", Elsenheimerstr. 26; unveränderte Fortführung
+- TOP 8.25.: Schreiben Kreisverwaltungsreferat vom 01.10.13: Bürgerentscheid Arbeitstitel "Olympiabewerbung München 2022", Vorgesehene Abstimmungsräume (Schreiben BA vom 18.09.13)
+- TOP 8.26.: Schreiben Kreisverwaltungsreferat vom 09.10.13: Genehmigung von Informationsständen der Organisation "Scientology" nur unter Auflagen (Antrag Nr. 08-14 / B 04808 des BA 25 vom 07.05.13)
+- TOP 8.27.: Schreiben Kreisverwaltungsreferat vom 21.10.13: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel am 29.11.13; Laimer Unterführung - Fürstenrieder Straße - Waldfriedhof - Laimer Unterführung
+- TOP 8.28.: Schreiben Referat für Arbeit und Wirtschaft vom 30.09.13: Wirtschafts-Info 08/2013
+- TOP 8.29.: Schreiben Referat für Arbeit und Wirtschaft vom 07.10.13: Erhalt der U 4 und U 5 im Westen auch nach Fertigstellung der 2. Stammstrecke (ohne Taktausdünnung) (Ziffer 2 des Antrags) (Antrag Nr. 08-14 / B 04861 des BA 25 vom 04.06.13)
+- TOP 8.30.: Schreiben Kulturreferat vom 01.10.13: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 15.07.13
+- TOP 8.31.: Schreiben Referat für Gesundheit und Umwelt vom 09.10.13: Zunehmender Fluglärm durch Hubschrauber über Laim (Schreiben BA vom 17.09.13)
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 30.09.13: Baumaßnahmen der SWM; Fernwärmeprojekt Landsberger Straße / Fürstenrieder Straße, Änderung im Bauablauf
+- TOP 8.33.: Schreiben Stadtkämmerei vom 17.10.13: Mehrjahresinvestitionsprogramm für die Jahre 2013-2017
+- TOP 8.34.: Bautenliste vom 16.09.-22.09.13: 1. Erstantragsverfahren a) Mathunistr. 13 b) Flotowstr. 68 c) Fröbelplatz 15 2. Änderungsverfahren a) Geyerspergerstr. 29 b) Agnes-Bernauer-Str. 25 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 70 b) Fürstenrieder Str. 41
+- TOP 8.35.: Bautenliste vom 23.09.-29.09.13 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Byecherstr. 44
+- TOP 8.36.: Bautenliste vom 07.10.-13.10.13: 1. Erstantragsverfahren a) Camerloherstr. 67
+- TOP 8.37.: Bautenliste vom 14.10.-20.10.13 1. Erstantragsverfahren a) Schrottstr. 7 b) Rushaimerstr. 9b
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 23.09.13: Baumaßnahmen der Stadtwerke; Stichtag: 23.09.13
+- TOP 8.39.: Schreiben Stadtwerke München GmbH vom 30.09.13: Baumaßnahmen der Stadtwerke; Stichtag: 30.09.13
+- TOP 8.40.: Schreiben Stadtwerke München GmbH vom 07.10.13: Baumaßnahmen der Stadtwerke; Stichtag: 07.10.13
+- TOP 8.41.: Schreiben Stadtwerke München GmbH vom 16.10.13: Baumaßnahmen der Stadtwerke; Stichtag: 14.10.13
+- TOP 8.42.: Schreiben Stadtwerke München GmbH vom 21.10.13: Baumaßnahmen der Stadtwerke; Stichtag: 21.10.13
+- TOP 8.43.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Sitzungsvorlage Nr. 08-14 / V 12850)
+- TOP 8.44.: Beschluss der Vollversammlung vom 02.10.13: Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München, Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen (Sitzungsvorlage Nr. 08-14 / V 10157)
+- TOP 8.45.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.13: Laimer Unterführung (West) und Umweltverbundröhre (Ost) (Sitzungsvorlage Nr. 08-14 / V 11483)
+- TOP 8.46.: Beschluss der Vollversammlung vom 23.10.13: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlagen Nr. 08-14 / V 12978)
+- TOP 8.47.: Antrag BA 18 Untergiesing-Harlaching vom 17.09.13: Budgetvergabe transparenter mach - mehrere Angebote einholen
+- TOP 8.48.: Schreiben Spielen in der Stadt e.V. vom 25.09.13: Kurzbericht über die vom BA 25 bezuschussten Spielbuseinsatz 2013
+- TOP 8.49.: Schreiben Lukas-Schule vom 01.10.13: Lärmbelästigung Lukas-Schule
+- TOP 8.50.: Schreiben BA 7 Sendling-Westpark vom 09.10.13: Antrag bzgl. Fürstenrieder Straße Richtung Norden - Abbiegen zur Lindauer Autobahn mit zwei Fahrspuren - weniger Stau
+- TOP 8.51.: Schreiben Evangelisch-Lutherische Paul-Gerhardt-Kirche München-Laim vom 18.10.13: Lärmbelästigung durch Glockengeläut
+- TOP 8.52.: Schreiben GWG vom Oktober 2013: Corporate Social Responsibility Report 2012 - Bericht über die nachhaltige Entwicklung bei der GWG München
+- TOP 8.53.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2013
+- TOP 1.2: Bürgerpost an den BA
