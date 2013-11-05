@@ -1,0 +1,53 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2013-11-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2871217
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2871217
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 10.09.13, 11.09.13 und 08.10.13
+- TOP 2: Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 3.&nbsp;: Bericht
+- TOP 3.2.: (E) Budgetantrag TSV Solln
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Mobilfunkstandorte
+- TOP 4.3.: (A) Containerstandort Pognerstr. / Schachnerstr.
+- TOP 4.4.: (A) Containerstandort Am Isarkanal (zwichen Nr. 36 und 42)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Spielstraße am Luganoweg
+- TOP 5.2.: Vorfahrtsituation Hans-Fitz-Weg
+- TOP 5.3.: Parksituation Buchloer Straße
+- TOP 5.4.: Fußgängerüberweg U-Bhf. Basler Str.
+- TOP 5.5.: (A) Carsharing in München
+- TOP 5.6.: Verkehrssituation Wilhelm-Leibl-Str.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Umstrukturierung Campus Süd
+- TOP 6.3.: (A) Einleitungsbeschluss Boschetsrieder Str.
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (U) Eröffnung Kinderkrippe Ammerstr. 3
+- TOP 7.2.: (U) Zusammenlegung Kita Stribeckstr. 9/ Herterichstr. 41 und Konrad-Witz-Str. 8
+- TOP 7.3.: (U) Umstrukturierung Haus für Kinder Zielstattstr. 72/74
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: (E) Sondernutzung Boschetsrieder Str. 4
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: (A) Erneuerung des Kunstrasenplatzes Bezirkssportanlage Graubündener Str. 100
+- TOP 9.2.: (U) Antrag auf Zweckentfremdung Irmgardstr.
+- TOP 9.3.: (U) Antrag auf Zweckentfremdung Halbreiterstr.
+- TOP 9.4.: (U) Antrag auf Zweckentfremdung Scheidegger Str.
+- TOP 9.5.: (U) Gaststättenfortführung Fraunbergstr. 10
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
