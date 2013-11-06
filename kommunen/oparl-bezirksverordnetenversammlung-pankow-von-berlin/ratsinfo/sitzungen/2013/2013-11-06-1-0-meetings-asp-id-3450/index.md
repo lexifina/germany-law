@@ -1,0 +1,85 @@
+# 18. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2013-11-06T17:30:00+01:00
+- Ende: 2013-11-06T20:50:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3450
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3450
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=57752
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Stellen von Schulsozialarbeitern an Pankower Schulen dauerhaft sichern und an jeder Schule (alle Schultypen) etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.4.2: Finanzierung der Schul- und Jugendsozialarbeit an Schulen sichern! - zurückgezogen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.9: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Bessere und transparentere Arbeitsbedingungen für Beschäftigte - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Bauvorhaben an der Blankenburger Straße zurückstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Mitglieder der Beiräte des Bezirksamts veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Fahrradverkehr in Konflikt mit BVG-Bussen - endlich handeln! - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Aufstellungsbeschlüsse in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Nachweis der im Haushaltsjahr 2012 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sichere Radwegeverbindung zwischen Wiltbergstraße und der Berlin-Brandenburger Landesgrenze - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Lückenschluss für Fahrradfahrer_innen in der Ostseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Notfalleinsätze in der Parkraumbewirtschaftungszone - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Verbesserung der Verkehrssicherheit in der Buchholzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Schwimmbad Pankow als Pilotprojekt - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Maßnahme- und Zeitplan für die Übertragung des Kulturareals am Thälmannpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Umgehende Fertigstellung der Toilettensanierung in der Jeanne-Barez-Schule - vertagt
+- TOP 1.23: Car-Sharing-Stellplätze besser gegen Fremdparken schützen - überwiesen
+- TOP 1.24: »Straßensheriffs« - überwiesen
+- TOP 1.25: Prävention gegen illegale Abfallentsorgung - beantwortet
+- TOP 1.26: Vorhandene Selbsthilfe im Bezirk stärken und unterstützen - überwiesen
+- TOP 1.27: Mögliche Bebauung Pistoriusplatz - beantwortet
+- TOP 1.28: Botanischer Volkspark Blankenfelde - überwiesen
+- TOP 1.29: Bürgerservice: Informationen über absehbar verlängerte Wartezeiten - überwiesen
+- TOP 1.30: Ausstellung " Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert " - überwiesen
+- TOP 1.31: Stellung von asylsuchenden Menschen verbessern, die wegen ihrer sexuellen oder geschlechtlichen Identität verfolgt werden - zurückgezogen
+- TOP 1.32: Finanzierung neuer sozialer Angebote in den Bezirksregionen II (Blankenfelde/ Niederschönhausen) und X (Weißensee Ost) - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Zentrale Erstberatung bei Diskriminierung in den Räumen des Bürgeramts Fröbelstraße 17 einrichten - überwiesen
+- TOP 1.34: Geordnete Entwicklung in der Blankenburger Straße (OT Niederschönhausen) ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Bibliotheksmedien karitativ einsetzen - überwiesen
+- TOP 1.36: Fuß- und Radweg entlang der Pankgrafenstraße - überwiesen
+- TOP 1.37: Schleichverkehr in der Sültstraße - überwiesen
+- TOP 1.38: Brückensanierungen in Pankow - überwiesen
+- TOP 1.39: Radfernwanderweg Berlin-Usedom vom MIV entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kinder- und Jugendparlament im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Verkehrssicherheit in der Hauptstraße im OT Rosenthal erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Pilotprojekt flexible Betreuungszeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4.1: Neue Angebote zur Flexiblen Kinderbetreuung in Pankow entwickeln und erproben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Erweiterte Straßenbeschilderung im Pankower Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Altkleidercontainer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Stille Straße 10 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Telefonlisten des Jobcenters veröffentlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Japanische Kirschbäume als Naturdenkmale ausweisen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Flüchtlingsunterkunft langfristig erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Tabakwerbung bekämpfen - Jugendschutz umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Stimmabgabe für Volksbegehren vereinfachen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Schulwegsicherung im Ortsteil Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Rattenbekämpfung auf dem Arnimplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Lärmschutz und Entschädigung für die Betroffenen des Flughafens Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Ehrentage, Gedenktage, Jubiläen in den Regionen Weißensee, Pankow und Prenzlauer Berg und in den Kiezen einer breiten Öffentlichkeit bekannt machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Temporäre Lösungen für den Sportunterricht und für den Vereinssport in der Grundschule am Kollwitzplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Mittelbereitstellung für die integrationspolitische Arbeit der Bezirke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Entwurf des Doppelhaushaltsplans 2014/2015 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20.1: Ergänzungen (Nachschiebeliste) zur BVV-Drs. VII 0502/2013 Entwurf des Doppelhaushaltsplanes 2014/2015 für den Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Beantragung der Entscheidung der Bezirksaufsicht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Bei Umbaumaßnahmen Kindertoiletten im Bezirksamt vorsehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Keine Werbung für Tabak und Alkohol! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Bezirkliche Schulentwicklungsplanung - Fortschreibung öffentliche Grundschulen in Pankow 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennungsabsicht für die Planstraßen A, B, C und D und die Privatstraßen III, IV, V, VI, VII, X, XIV gemäß Bebauungsplanentwurf XIX-48b für das Gelände zwischen Dr.-Markus-Straße, Parkgraben, Ferdinand-Buisson-Straße, Bahnhofstraße und Berliner Straße im Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
