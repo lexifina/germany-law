@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verwahrlosung der Grünfläche zwischen Augustinum und Schröfelhofstraße
+- TOP 1.2.: Beschwerde über die Parkplatzsituation Würmtalstraße Nebenfahrbahn
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule Blumenau, Projekt "Musical" ab Anfang Oktober 2013 - Ende Juli 2014 (Direktorium, 14.10.13)
+- TOP 5.2.: Budget der Bezirksausschüsse, Mieterinitiative Haderner Stern e.V., Lesung am 20.12.2013 (Direktorium, 15.10.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Wertstoffcontainerstandort: Kriegerheimstraße / Am Waldrand (AWM, 04.10.13)
+- TOP 6.2.: Bauleitplanung der Gemeinde Gräfelfing, Bebauungsplan Nr. 11 B "Bahnhofstraße - Ost" (Referat für Stadtplanung und Bauordnung, 24.10.13)
+- TOP 6.3.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag der Kreativwerkstatt, Änderung Bewilligungszeitraum und Fördermaßnahme (Direktorium, 31.10.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Straße 24, 1 Ahorn
+- TOP 7.2.: Hirtentäschelweg 2, 2 Birken
+- TOP 7.3.: Hohenklingenstraße 3 b, 1 Nussbaum
+- TOP 7.4.: Saalburgstraße 10, 1 Kiefer
+- TOP 7.5.: Stiftsbogen 118 - 126, 3 Robinien
+- TOP 7.6.: Saalburgstraße 11, 1 Scheinzypresse
+- TOP 7.7.: Mäuselweg 20, 1 Kiefer und 1 Zeder
+- TOP 7.8.: Würmtalstraße 148, 3 Fichten
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 20 Bäume auf dem Waldfriedhof (Baureferat, 30.09.13)
+- TOP 7.2.: Gräfelfinger Straße 109, 1 Fichte (Referat für Stadtplanung und Bauordnung, 22.10.13)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: - Sauerbruchstraße 50, Fernwärme (SWM, 30.09.13) - Ossingerstraße 61, Gas und Wasser (SWM, 07.10.13)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Rodensteinstraße (Sozialreferat, 07.10.13)
+- TOP 8.3.: Zusammenlegung städtische Kindertagesstätte Farnweg 12 mit Kindergarten Würmtalstraße 126 (Referat für Bildung und Sport, 08.10.13)
+- TOP 8.4.: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale (Direktorium, 14.10.13)
+- TOP 8.5.: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017 (Stadtkämmerei, 17.10.13)
+- TOP 8.6.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Weihnachtliche Veranstaltung am 07. und 08.12.2013 auf dem Canisiusplatz (Kreisverwaltungsreferat, 23.10.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Lärmaktionsplan für München (Referat für Gesundheit und Umwelt, 08.10.13)
+- TOP 9.2.: Verkehrskonzept rund um den Luise-Kiesselbach-Platz (Referat für Stadtplanung und Bauordnung, 17.10.13)
+- TOP 9.3.: Anregung Haltverbot Großhaderner Straße Höhe Aldi-Zufahrt (Kreisverwaltungsreferat, 18.10.13)
+- TOP 9.4.: Städtisches Grundstück an der Rolf-Pinegger-Straße / Ecke Brunellenweg (Kommunalreferat, 21.10.13)
+- TOP 9.5.: Beleuchtung der Wegeverbindung zwischen Max-Lebsche-Platz und Prälat-Wellenhofer-Straße (Referat für Stadtplanung und Bauordnung, 21.10.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Jour Fixe Bezirksausschüsse mit dem Kulturreferat, Protokoll der Sitzung vom 15.07.2013 (Kulturreferat, 01.10.13)
+- TOP 11.2.: Einladung "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am Mittwoch, 27.11.2013 (Referat für Bildung und Sport, 16.10.13)
+- TOP 11.3.: Einladung zum Symposium "Urbaner Holzbau" am Dienstag, 19.11.2013 (Referat für Gesundheit und Umwelt, 14.10.13)
+- TOP 11.4.: Schreiben des BA 1 Altstadt-Lehel vom 18.10.2013: Verweise der MitarbeiterInnen des Kulturreferates an das Budget der Bezirksausschüsse
+- TOP 11.5.: Einladung zum Fachforum "WDSV: Putze und Oberflächen" am Mittwoch, 13.11.2013 (Referat für Gesundheit und Umwelt, 04.11.13)
+- TOP 11.6.: Standpunkte November 2013 des Münchner Forum e.V.
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 02.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10157 (nach Antrag, wurde vom BA Hadern zur Kenntnis genommen): Vorbehaltsnetz für den städtischen Wirtschaftsverkehr in München Kriterien zum Ausbau von Eisenbahn- oder Straßenüberführungen, insbesondere zum LKW-Durchfahrtsverbot und seinen Ausnahmen zwischen der A 8 (Salzburg), der A 95 (Garmisch) und der A 96 (Lindau) (= S. 4)
+- TOP 12.2.: Beschluss vom 24.07.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12315 (nach Antrag): Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des Mehrjahresinvestitionsprogramms 2012 - 2016, insbesondere zum Standort Waldwiesenstraße 27 (Kosten 3.910.000,- ?, Anlage Nr. 20)
+- TOP 12.1.: Beschluss vom 23.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12978: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Streichung der Transrapidtrasse im Stadtbezirk 24 Feldmoching-Hasenbergl)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Hinweis / Ergänzung vom 11.09.2013 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12850 (nach Antrag unter Berücksichtigung des Änderungsantrages zu Punkt 1 vom 25.09.2013): Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Kosten einer Untersuchung 30.000,- ?)
+- TOP 12.2.: Hinweis / Ergänzung vom 11.09.2013 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12778 (nach Antrag): Baumschutzoffensive I: Umfassende Information über Baumschutz Baumschutzoffensive II: Besserer Baumschutz bei Bauvorhaben Baumschutzoffensive IV: Ökologische Baubegleitung Den Baumschutzbelangen wird im Baugenehmigungsverfahren im Rahmen der rechtlichen Möglichkeiten Rechnung getragen.
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12943 (nach Antrag): Fahrradschnellwege ins Münchner Umland - in die interkommunale Kooperation einsteigen - erste Pilotprojekte beginnen (wird vom Planungsreferat unterstützt)
+- TOP 12.4.: Beschluss des Bauausschusses vom 24.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12257 (nach Antrag): Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder (wird vom Baureferat abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kulturausschusses vom 17.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13110 (nach Antrag): Münchens Stadtteilkultur stärken, Ausweitung von Betriebszuschüssen und Personalkostenaufstockung ab 2014, insbesondere zur Kultur in Hadern e.V. (S. 12), deren Förderung in gleicher Höhe fortgesetzt wird. Der Vorstand des BA Hadern hat mit Eilentscheidung vom 27.09.2013 der Beschlussvorlage zugestimmt.
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Hinweis / Ergänzung zur Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 und Bekanntgabe in der Sitzung der Vollversammlung vom 02.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12544: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München, insbesondere zur Gesamtverkaufsfläche in Hadern, die rückläufig ist (Tabelle 2, S. 4)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12957: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2013 - 30.06.2013 (keine Auswirkungen in Hadern)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
