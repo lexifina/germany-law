@@ -1,0 +1,57 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2013-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2760908
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2760908
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Verbesserungsvorschläge für den Georg-Freundorfer-Platz und Bavariapark
+- TOP 4.2.: Lärmbelästigung Bavariapark
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Gollierstr. 29, hier: Mauerseglerbrutplätze
+- TOP 5.3.: Anhörung: Landsberger Str. 14-18, Abbruch von Werkstattgebäuden und Neubau eines Wohnhauses im rückwärtigen Grundstücksteil
+- TOP 5.4.: Anhörung: Errichtung und Betrieb einer Blockheizkraftwerkanlage
+- TOP 5.5.: Schwanthalerstr. 119, Schreiben der LBK vom 21.10.2013
+- TOP 5.6.: Schwanthalerstr. 116, Schreiben der LBK vom 21.10.2013
+- TOP 5.7.: Bavariaring 5 Schreiben der LBK vom 23.10.2013
+- TOP 5.8.: Modernisierung der Wohnhäuser Gollierstr. 86 und 84 und Westendstr. 151
+- TOP 5.9.: Westendstr. 89, Zurückziehung des Antrags
+- TOP 5.10.: Anhörung: Gollierstr. 84-86a, Abbruch der Hofbebauung.; Var. 1: Neubau eines versetzten Rückgebäudes mit Tiefgarage, Var. 2: Neubau eines Rückgebäudes mit Tiefgarage - VORBESCHEID
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Auswahl der REGSAM-Schwerpunktgebiete für den Zeitraum ab Januar 2014
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Hunde im Bavariapark
+- TOP 8.2.: Haltverbot Hans-Fischer-Str. 10/12, verkehrsrechtl. Anordnung
+- TOP 8.3.: Funktionsfähigkeit der Parkscheinautomaten im Stadtbezirk
+- TOP 8.4.: Anhörung: Baumfällung Ganghoferstr. 43
+- TOP 8.5.: Anhörung: Wertstoffcontainerstandort Heimeranstraße gegenüber Hausnummer 34
+- TOP 8.6.: Umbau Bushaltestellen anlässlich des Einsatzes von Buszügen
+- TOP 8.7.: Änderung der Straßenreinigungssatzung, Beschluss Bauausschuss
+- TOP 8.8.: Umbau Gollierstr./Schießstättstr. - Anliegerinfo und geänderte verkehrsrechtliche Anordnung
+- TOP 8.9.: Projekt Moving Munich
+- TOP 8.10.: Zebrastreifen in der Ridlerstraße
+- TOP 8.11.: Maßnahmen in der Landsberger Straße auf Grundlage des Ortstermins vom 26.06.2012, hier: Grasserstraße
+- TOP 8.12.: Umbau Bushaltestelle Hans-Fischer-Straße -Anliegerinfo
+- TOP 8.13.: Anhörung: CarSharing in München
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Budgetverweise aus dem Kulturreferat, Schreiben des BA 1
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Beschlussvorlage Freizeitnutzung der Theresienwiese
+- TOP 11.2.: Beauftragte gegen Rechtsextremismus, Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale
+- TOP 11.3.: Mehrjahresinvestitionsprogramm 2013-2017 zur Kenntnis
+- TOP 11.4.: Absiedlung XXXLutz: Einladung Planungsreferat und KVR zur BA-Sitzung
+- TOP 12: Protokoll und Umlauf
