@@ -1,0 +1,7 @@
+# TOP 2.: Einführung Digitalfunk Feuerwehr; hier: Zentrale Beschaffung durch den Kreis Euskirchen, Auftragsvergabe
+
+- Sitzung: Rat (27. Sitzung) (2013-11-12)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/26695
+- Ergebnis: Einstimmiger Beschluss:
