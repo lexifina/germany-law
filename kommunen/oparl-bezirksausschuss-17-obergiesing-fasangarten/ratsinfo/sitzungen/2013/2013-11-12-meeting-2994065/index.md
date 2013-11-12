@@ -1,0 +1,102 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2994065
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2994065
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Unterstützung bei der Beantragung von Parklizenzen, Bürgeranliegen einer KiTa vom 28.10.2013
+- TOP 2.2.: Gefahrensituation Spixstraße, Bürgeranliegen des Herrn P. vom 30.10.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Initiative ?Küchen entlang der Tegernseer Landstraße? Erstellung des Buchs ?Küchen entlang der Tegernseer Landstraße?, Erscheinungstermin ca. Ende Februar, Antragssumme: 5.260,00 ?
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Antragsteller: 103er - Freizeittreff Obergiesing Veranstaltung: Theatertage am 05. und 06.12.2013, "Der kleine Muck", Antragssumme: 310 ?
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2013; hier: Genehmigung der Aufstellung von neuen Verkaufeinrichtungen auf öffentlichem Grund in der Tegernseer Landstraße 37, Anhörung KVR vom 24.10.2013
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2013; hier: Genehmigung einer Freischankfläche in der Schlierseestr. 77, Anhörung KVR vom 30.10.2013
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2013; hier: Genehmigung einer neuen Verkaufseinrichtung (Christbaumverkaufsplatz) auf dem St.-Martins-Platz, Anhörung KVR vom 11.11.2013
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 5.1.3.1.1 Lincolnstr. 64, Neubau eines Pflegeheims (132 Plätze) mit betreutem Wohnen (19 WE), Dienstwohnungen (10 WE) und Tiefgarage (21 Stpl.), Anhörung des PlanR vom 17.10.2013, 5.1.3.1.2 St.-Martin-Straße 68, Nutzungsänderung EG: Büro- zu Sport-/Fitnessfläche, Anhörung PlanR vom 02.10.2013
+- TOP 0.2.: Soziale Stadt 2013 - Stand der Umsetzung des Bund-Länder-Städtebauförderprogramms, Stadt- und Ortsteile mit besonderem Entwicklungsbedarf A) Fortschreibung der integrierten Handlungskonzepte B) Lenkungsgruppe Stadtsanierung C) Städtebauförderung hier: Anhörung der Bezirksausschüsse, Anhörung des PlanR vom 29.10.2013
+- TOP 0.1.: Übertragung der Entscheidung über Sondernutzungserlaubnisse für die Bezirksausschüsse; Entscheidung des Bezirksausschusses 17 über einen Erweiterungsantrag für Warenauslagen auf öffentlichem Grund; hier: 5 zusätzliche Verkaufseinrichtungen der Fa. Schum EuroShop GmbH & Co.KG vor dem Anwesen Schwanseestraße 5, Schreiben des KVR vom 25.09.2013
+- TOP 0.2.: Baufälle im 17. Stadtbezirk
+- TOP 0.3.: Gesamtfortschreibung des Landesentwicklungsprogrammes Bayern a) Information über neues Landesentwicklungsprogramm 2013 b) Ersatzlose Löschung der Freihaltung der Transrapidtrasse aus dem Landesentwicklungsplan und nachgeordneten Plänen zu erwirken und dazu auch den Rechtsweg auszuschöpfen (Ziffer 1 des Antrages), Empfehlung Nr. 08-14 / E 01748 der Bürgerversammlung des Stadtbezirks 24 Feldmoching-Hasenbergl am 21.03.2013, Sitzungsvorlage Nr. 08-14 / V 12978, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013
+- TOP 0.4.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße, Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel", 2. Bauabschnitt im 17. Stadtbezirk Obergiesing-Fasangarten, Sitzungsvorlage Nr. 08-14 / V 11736, Beschluss des Bauausschusses vom 15.10.2013
+- TOP 0.5.: Bauvorhaben Deisenhofener Straße/Herzogstandstraße, Anpassung der Projektrahmenbedingungen für o.g. Baugrundstück im Rahmen des kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B), Mittelpunktsbibliothek, Kinderkrippe und Anwohnertiefgarage, Änderung des Entwurfs des Mehrjahresinvestitionsprogramms 2013 -2017, Produkt 60 4.1.8 - Schaffung preiswerten Wohnraums, Sitzungsvorlage Nr. 08-14 / V 13121, Beschluss des Sozialausschusses vom 14.11.2013
+- TOP 0.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Planung der Einsätze der Münchner SommerSpielAktion 2014, Platzvorschläge für die Spielbuseinsätze, Anhörung des Spielen in der Stadt e.V. vom 06.11.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Engpass bei Fahrradstellplätzen in der Rotwandstraße, Bürgeranliegen von Frau W. vom 27.09.2013 (vertagt aus der Sitzung vom 08.10.2013)
+- TOP 0.2.: Fahrradständer an der Ichostraße (bei Woolworth); Antrag der CSU-Fraktion vom 25.06.13 (vertagt aus den Sitzungen vom 09.07.13, 10.09.13 und 08.10.2013)
+- TOP 0.3.: Verkehrssituation in der Siedlung Tegernseer Landstraße; Bürgeranliegen von Herrn O. vom 05.08.13 (verwiesen aus den Sitzungen vom 13.08.13, 10.09.13 und 08.10.2013 - bis Vorliegen der Stellungnahme der JVA), Stellungnahme der JVA München vom 10.10.2013
+- TOP 1: (E) Schlierseestraße: Überprüfung des LKW-Verkehrs auf gültige Umweltplaketten durch die Polizei Empfehlung Nr. 08-14 / E 01899 der Bürgerver- sammlung des Stadtbezirkes 17 - Obergiesing- Fasangarten am 04.07.2013 - <div>nach Antrag</div>
+- TOP 1.1.: Eingeschränktes Haltverbot für Anlieferzone Tela/Wendelsteinstraße, Bürgeranliegen aus der Sitzung des BA 17 vom 10.09.2013, Antwortschreiben des KVR vom 08.11.2013
+- TOP 1.1.: Schulwegsicherheit an der Ichoschule, Antwortschreiben des PlanR vom 16.10.2013
+- TOP 1.2.: Verkehrsberuhigung des Tegernseer Platzes durch ein Durchfahrtsverbot für privaten, motorisierten Verkehr, Zwischennachricht des PlanR vom 21.10.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Bepflanzung des Kreisverkehrs in der Fasangartenstraße, Anhörung des BauR vom 11.10.2013
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Amerstorfferstr. 13-26, Bescheid vom 21.10.2013 2. Fasangartenstr. 140, Bescheid vom 22.10.2013
+- TOP 0.2.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Verlagreung der städtischen Kompostieranlage Hochäckerstarße in die Fasangartenstraße in München; Antrag vom 21.11.2011 auf Errichtung und Betrieb einer immissionschutzrechtlichen Kompostieranlage nach Nr. 8.5.2 des Anhangs zur 4. BImSchV, Genehmigungsbescheid des RGU vom 21.10.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Kurzbericht zum Sommerfest des Tela Aktiv e.V.
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Raintaler Str. 7, 1 Birke, Antrag vom 04.10.2013, 2. Traunsteiner Str. 16, 1 Ahorn, Antrag vom 23.09.2013; 3. St.-Martin-Str. 16-18, 2 Blutpflaumen, Antrag vom 11.10.2013, 4. Holtzendorffstraße 17/19, 1 Ahorn, 1 Birke, Antrag vom 11.10.2013
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Einwand gegen den BA-Schaukasten am Giesinger Bahnhofplatz, Bitte um alternativen Standortwunsch, Information des BauR vom 30.09.2013 (vertagt aus der Sitzung vom 08.10.2013)
+- TOP 7.2.: CarSharing in München, Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit, Anpassung der Rahmenbedingungen, Sitzungsvorlage Nr. 08-14 / V 18817, Anhörung des KVR zur Beschlussvorlage des Kreisverwaltungsausschusses vom 26.11.2013
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale, Information des Direktorium vom 14.10.2013
+- TOP 7.2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen, BA-Antrag-Nr. 08-14 / B 0315 des BA 14 Berg am Laim vom 27.03.2012, BA-Antrag-Nr. 08-14 / B 3875 des BA 8 Schwanthalerhöhe vom 17.05.2013, Information des Direktorium vom 20.09.2013
+- TOP 7.3.: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017, Information der Stadtkämmerei vom 17.10.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
