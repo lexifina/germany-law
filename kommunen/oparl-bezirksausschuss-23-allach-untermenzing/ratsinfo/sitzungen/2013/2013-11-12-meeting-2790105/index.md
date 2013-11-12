@@ -1,0 +1,95 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-11-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2790105
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2790105
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.3.1.: Genehmigung des Protokolls der Einwohnerversammlung vom 17.10.13
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Tempo 30 Menzinger Str.
+- TOP 2.2.2.: Verlegung Flaschen-Container von der Hitlstraße
+- TOP 2.2.3.: Stopp aller weiteren Planungsschritte bzgl. des neuen Einkaufszentrum / Oertelplatz
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Hintermeierstraße (Erstmalige Herstellung der Hintermeierstraße im Abschnitt zwischen Willstätterstraße und der Theodor-Kitt-Straße)
+- TOP 4.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung einer Teilstrecke der Lautenschlägerstraße
+- TOP 3: (E) Einstellung des Einsatzes von verbrennungsmotorbetriebenen Laubbläsern Empfehlung Nr. 08-14 / E 01911 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 23.07.2013
+- TOP 4: (E) Einrichtung von öffentlichen Toiletten Empfehlung Nr. 08-14 / E 01914 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 24.07.2013
+- TOP 5: Anhörungen
+- TOP 5.1.: Verlegung des Hans-Sieber-Hauses von der Manzostraße in die Franz-Nißl-Straße oder einen vergleichbaren Standort im Stadtbezirk 23 Altenheim Hans-Sieber-Haus an der Manzostr. 105; Erhalt bereits dort vorhandener Sozialeinrichtungen, wie z.B. ASZ (BV-Empf. 1906 vom 23.07.13)
+- TOP 5.2.: Niethammerstr. 13, Fl.Nr. 175/23, Gemarkung Untermenzing Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat fürStadtplanung und Bauordnung Katalog-Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), hier: Nachtrag in die Denkmalliste
+- TOP 5.3.: Behringstr., Gemarkung: Untermenzing, Fl.Nr.: 842/0 Neubau einer Bergehalle
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Bauausschusses vom 24.09.13: Realisierung einer öffentlichen Grünfläche nach dem Rückbau des Allacher Sommerbades 2. Bauabschnitt im 23. Stadtbezirk (Sitzungsvorlage Nr. 5209)
+- TOP 6.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der Landeshauptstadt München (Sitzungsvorlage Nr. 12544)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: a) Hinweis/Ergänzung: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (Sitzungsvorlage Nr. 12850) b) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2075 Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstr. (westlich), Hanfgartenstr. (beiderseits), Berglwiesenstr. (östlich), Bundesautobahn A 99 (südöstlich) (Sitzungsvorlage Nr. 12909)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.13: a) Parkraummanagement in München (Sitzungsvorlage Nr. 11718) b) Bebauungsplan mit Grünordnung Nr. 2085 Karlsfelder Straße (neu) zwischen Dachauer Straße und bestehender Karlsfelder Straße in Höhe der Brücke über das Schwabenbächl (Sitzungsvorlage Nr. 12982) c) Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlage Nr. 12978)
+- TOP 6.5.: Beschluss des Kulturausschusses vom 17.10.13: Münchens Stadtteilkultur stärken; Ausweitung von Betriebszuschüssen ab 2014; Personalkostenaufstockung (Ausweitung SNP) ab 2014 (Sitzungsvorlage Nr. 13110)
+- TOP 6.6.: Beschluss der Vollversammlung vom 23.10.13: a) Parkraummanagement in München (Sitzungsvorlage Nr. 11718) b) Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlage Nr. 12978)
+- TOP 6.7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.11.13: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger a) des Stadtjugendamtes (Sitzungsvorlage Nr. 13051) b) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 13012) c) der Zentrale (Sitzungsvorlage Nr. 12995) d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 13021)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse am 27.11.13, 16:00 - 18:00 Uhr
+- TOP 7.2.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2013
+- TOP 7.3.: Kindersommer 2013
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 14.10.13: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale
+- TOP 8.2.: Schreiben Kulturreferat vom 15.10.13: Fristverlängerung für -Verkauf des Grundstücks Eversbuschstraße 155/157, Flurnummer 81, 82,82/2, 101/7 in Allach; Bürgerhaus für Allach-Untermenzing (BA-Antrag Nr. 4680) -Bürgerzentrum Allach-Untermenzing (BA-Antrag 4777)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Jennerstr. 23, Ganzenmüllerstr. 34
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung, Einzelfällungsanträge: Dyroffstr. 10, Allacher Str. 179, Allacher Str. 293, Servetstr. 9, Korbinian-Beer-Str. 12, Eversbuschstr. 247, Waldhornstr. 31
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.10.13: Bauanträge (07.10.-13.10.13, 14.10.-20.10.13, 21.10.-27.10.13)
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.10.13: Bauleitplanung im Landkreis Dachau
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.10.13, 17.10.13: Geplantes Verteilerzentrum der DHL in der Ludwigsfelder Str. / Am Neubruch
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.10.13: Fällungsgenehmigung Arnoldstr. 8
+- TOP 8.9.: Schreiben Stadtwerke München vom 07.10.13, 16.10.13, 21.10.13, 28.10.13: Baumaßnahmen
+- TOP 8.10.: Schreiben Stadtwerke München vom 22.10.13: Baumaßnahmen der SWM, Wasserprojekt Vogelloh
+- TOP 8.11.: Schreiben Stadtwerke München vom 23.10.13: Baumaßnahmen der SWM; Stromprojekt Lauthstraße
+- TOP 8.12.: Schreiben Sozialreferat vom 02.10.13, 04.10.13: Antrag auf Zweckentfremdung von Wohnraum: Allacher Str., Von-Kahr-Str., Ganzenmüllerstr., Arnoldstr.
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 17.09.13: Durchfahrtsverbot für Lkw an der Nätherstraße
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 17.10.13: CarSharing in München
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 21.10.13: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Zur Allacher Mühle"
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 30.10.13: Verkehrsrechtliche Anordnung, hier: Z 283 Gustav-Otto-Bogen
+- TOP 8.17.: Schreiben Stadtkämmerei vom 17.10.13: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017
+- TOP 8.18.: Schreiben Nemetschek Stiftung vom 24.10.13: Ausstellung "drinnen und draußen - Neun Blicke auf unsere Gesellschaft" vom 21.11.13-01.12.13
+- TOP 8.19.: Schreiben Bauzentrum vom 14.10.13: Einladung zum Symposium "Urbaner Holzbau" am 19.11.13
+- TOP 8.20.: Schreiben Kreisjugendring München-Stadt vom 24.10.13: Einladung Konzept-Präsentation "Münchner Haus der SchülerInnen" am 28.11.13, 18:00 Uhr
+- TOP 8.21.: Schreiben Kreisjugendring München-Stadt vom 02.10.13: HFK-Nachrichten 2013
+- TOP 8.22.: Schreiben Fachinformationsstelle gegen Rechtextremismus in München Feierwerk e.V. vom 14.10.13: Veranstaltung zur neonazistischen griechischen Partei "Chrysi Avgi"
+- TOP 8.23.: Schreiben Fachinformationsstelle Rechtsextremismus München vom 17.10.13: Ausstellung "Gegen die Regeln" im Farbenladen
+- TOP 8.24.: Schreiben Fachinformationsstelle für Rechtsextremismus München vom 28.10.13: Neuer Schwung für Bildung? 20. Internationaler Kongress zur Jugendkulturarbeit vom 20.11.-22.11.13
+- TOP 8.25.: Schreiben BA 1 Altstadt-Lehel vom 18.10.13: Verweise der MitarbeiterInnen des Kulturreferates an das Budget der Bezirksausschüsse
+- TOP 8.26.: Schreiben Fahrgastverband Pro Bahn vom 26.10.13: Einladung zur Jahresversammlung am 16.11.13
+- TOP 8.27.: Schreiben Gleichstellungsstelle für Frauen vom 25.10.13: Einladung zum 17. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Donnerstag, 07.11.2013 von 17.30 - 19.30 Uhr
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 15.10.13: Änderung der Radverkehrsführung am Zum Schwabenbächl
+- TOP 9: Nachtrag
+- TOP 9.1.: Genehmigung des Protokolls der Sondersitzung vom 24.10.2013
+- TOP 9.2.: Bürgerpost an den BA Erweiterungsbau Wohnungslosenunterkunft Schöllstraße
+- TOP 9.3.: Baumfällung am Löherweg
+- TOP 9.4.: Antrag Zusätzliche Fahrradstellplätze auf der Ostseite in der Unterführung am S-Bahn Haltepunkt Allach
+- TOP 9.5.: Anhörungen Überprüfung der Umlaufsperren im Stadtgebiet des BA 23
+- TOP 9.7.: Verschiedenes Einladung zum 1. Jahresempfang des Muslimrat München e.V. am 28.11.13
+- TOP 9.8.: Umlauf Schreiben Stadtwerke München vom 04.11.13: Baumaßnahmen der Stadtwerke München
+- TOP 9.9.: Schreiben Direktorium vom 29.10.13: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen
+- TOP 9.10.: Schreiben Referat für Arbeit und Wirtschaft vom 31.10.13: Wirtschafts-Info 10/2013
+- TOP 9.11.: Schreiben Referat für Arbeit und Wirtschaft vom 31.10.13: Europe Direct Informationen 05/2013
+- TOP 9.12.: Schreiben Kulturreferat vom 04.11.13: Veranstaltungsübersicht November
+- TOP 9.13.: Schreiben Kinderinformation der Spiellandschaft Stadt e.V. vom 30.10.13: Nächste Sitzung der Arbeitsgemeinschaft Spiellandschaft Stadt am 14.11.13, 10:00-12:00 Uhr
+- TOP 9.14.: Schreiben Walk21 München 2013 vom 30.10.13: Dank
+- TOP 9.15.: Schreiben Münchner Forum e.V. vom 06.11.13: Standpunkte November 2013
+- TOP 9.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.11.13: Gleichberechtigt - noch lange nicht? Frauen auf dem Münchner Arbeitsmarkt, 13.11.13, 18:00 Uhr
+- TOP 9.17.: Stadtrats- und Ausschussbeschlüsse: Beschluss der Vollversammlung des Stadtrates vom 23.10.13: Münchens Stadtteilkultur stärken; Ausweitung von Betriebszuschüssen ab 2014, Personalkostenaufstockung (Ausweitung SNP) ab 2014 (Sitzungsvorlage Nr. 13110)
+- TOP 9.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.13: a) Lebensmittelversorgung in der Gerberau sicherstellen (Sitzungsvorlage Nr. 13084) b) Mehrjahresinvestitionsprogramm für die Jahre 2013-2017 (Sitzungsvorlage Nr. 13302) c) Mehrjahresinvestititonsprogramm 2013.2017; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013-2017 (Sitzungsvorlage Nr. 13227)
+- TOP 9.6.: Bau eines kulturellen Bürgerhauses im 23. Stadtbezirk Allach-Untermenzing
