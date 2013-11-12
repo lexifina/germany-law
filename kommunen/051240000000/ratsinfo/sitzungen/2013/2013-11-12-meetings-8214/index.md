@@ -1,0 +1,69 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und Betriebsausschüsse APH / KIJU / WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-11-12T16:06:00+01:00
+- Ende: 2013-11-12T17:35:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/194
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8214
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8214
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00161314.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00162962.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Delphin Verwaltungs GmbH für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2012 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 1.5: Jahresabschluss 2012 der Regio-Bahn - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2014 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Verbandsversammlung 2013 des Wupperverbandes - ungeändert beschlossen
+- TOP 3.2: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2013 der GWG und des Konzerns - ungeändert beschlossen
+- TOP 3.3: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2013 der Regio-Bahn - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Stand der Schulden und Kassenkredite zum 30.09.2013 - Entgegennahme ohne Beschluss
+- TOP 5.2: Finco-Bericht zum 30.09.2013 - Entgegennahme ohne Beschluss
+- TOP 5.3: Gesetzentwurf zum Gemeindefinanzierungsgesetz (GFG) 2014 - Entgegennahme ohne Beschluss
+- TOP 5.4: Umsetzung des Haushaltssanierungsplans (HSP) 2012-2021 – Stand zum 30.09.2013 - Entgegennahme ohne Beschluss
+- TOP 5.5: Externe Einstellungen im Zeitraum Januar bis September 2013 - Entgegennahme ohne Beschluss
+- TOP 5.6: Auditierung der Stadtverwaltung Wuppertal zum Thema Vereinbarkeit von Familie und Beruf - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Neugestaltung Döppersberg - 2. BA: Erhöhung der Bau- und Folgekosten, Sicherstellung der Finanzierung - vertagt auf Rat
+- TOP 6.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 6.3: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 6.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 6.5: Antrag zum Haushaltsplan 2014/2015, VO/0721/13 - vertagt auf Rat
+- TOP 6.6: Bürgerbeteiligung bei der Beratung des Haushaltsplanes 2014/2015 - ungeändert beschlossen
+- TOP 6.7: Zweite Phase der Bürgerbeteiligung zum Haushaltsplan-Entwurf 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 6.8: Beschaffung einer neuen Software für das Einsatzleitsystem der gemeinsamen Leitstelle der Feuerwehren Solingen und Wuppertal - ungeändert beschlossen
+- TOP 6.9: Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 6.10: 3. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2014 - geändert beschlossen
+- TOP 6.11: 3. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2014 - Kompromissszenario - ungeändert beschlossen
+- TOP 6.12: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2014/2015 - ungeändert beschlossen
+- TOP 6.13: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2014/2015 - ungeändert beschlossen
+- TOP 6.14: Haushaltsplan 2014/2015 - vertagt auf Rat
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Private Investitionsflächen im Rahmen der städtebaulichen Neuordnung Döppersberg/Hauptbahnhof - ungeändert beschlossen
+- TOP 7.2: Erneuerung des Straßenbelags in der Straße Schloßbleiche - ungeändert beschlossen
+- TOP 7.3: Zinserhöhung kommunaler Wohnungsbaudarlehen gem. §§ 30-39 WFNG NRW - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 28.10.13 - Prüfauftrag - Kostengünstige Kantine im Rathaus - eingebracht mit Verweis
+- TOP 7.5: Soziale Stadt Oberbarmen-Wichlinghausen - Anpassung des integrierten Handlungskonzeptes Hier: Erweiterung des Kirchengebäudes Samoastraße zu einem "Mehrgenerationentreffpunkt Hilgershöhe" - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH / KIJU / WAW
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 12: Berichte und Mitteilungen
+- TOP 13: Wasser und Abwasser
+- TOP 13.1: 1. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.2: 1. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
