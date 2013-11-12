@@ -1,0 +1,94 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2781267
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2781267
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 14.10.2013; Zufahrt zum Georg-Elser- Platz (s. TOP C 2.1.1)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 39., 40., 41., 42., 43. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 38., 39. KW
+- TOP 2.1.3.: Arcisstraße 32, Aufstockung eines Wohn- und Geschäftshauses mit zwei Wohneinheiten Vorbescheid
+- TOP 2.1.4.: Adalbertstraße 31, Neuerrichtung des Daches, Neubau Außenaufzug, Vergrößerung der Balkone ? Vorbescheid
+- TOP 2.1.5.: Kaulbachstraße 6, DG-Umbau - Vorbescheid
+- TOP 2.1.6.: Türkenstraße 3-7, Neubau zweier Bürogebäude mit gemeinsamer 2-geschossiger Tiefgarage Antrag auf Teilbaugenehmigung
+- TOP 2.1.7.: Ottostraße 17, Umbau eines Bürogebäudes sowie Anbau
+- TOP 2.1.8.: Königinstraße 29, Änderung der Denkmalliste nach Art. 2 DschG; Nachtrag einer Villa in die Denkmalliste, Anhörung
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Nymphenburger Straße 43 Umbau und Erweiterung einer Augenklinik
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Kaulbachstraße 47, 3 Ahornbäume
+- TOP 3.2.2.: Finkenstraße, eine Robinie
+- TOP 3.2.3.: Katharina-vn-Bora-Straße 10, eine Esche, eine Robinie
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 14.10.2013; Zufahrt zum Georg-Elser- Platz (s. TOP A 5.2.1)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Entscheidung Gabelsbergerstraße 97, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budget Antragsteller: THETA e.V. Treffen der Münchner privaten Schauspielschulen vom 18. bis 31.12.2013 Beantragter Zuschuss: 2.561, 40 ?
+- TOP 2.2.: Budget, Entscheidung Antragsteller: Pfarrgemeinde St. Benno in München für ein Konzert am 15.12.2013 Beantragter Zuschuss: 3.242,50 ?
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Bauvorhaben auf dem Areal der Tierärztlichen Fakultät und Bau des Instituts für Nanophysik Kopie des Antwortschreibens vom 30.09.2013 an eine Bürgerin
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Gesamtfortschreibung des Landesentwicklungsprogramms Bayern Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.2013
+- TOP 1.3.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid Finissage am 02.10.2013 auf dem Wittelsbacherplatz
+- TOP 2.2.: Baumaßnahmen der Stadtwerke a) Türkenstraße 92, Fernwärme b) Theresienstraße 5, Fernwärme c) Theresienstraße 7, Fernwärme d) Teng-/Görresstraße, Fernwärme e) Adamstraße/Nymphenburger Straße, Gernwärme f) Lothstraße/Heßstraße, Fernwärme
+- TOP 2.3.: Erweiterung des Christkindl-Marktes 2013 Schreiben des BA 1 vom 04.10.2013 an den Referenten für Arbeit und Wirtschaft
+- TOP 2.4.: Referat für Umwelt und Gesundheit, Immissionsschutz Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Arbeiten zur Einbindung einer Gashochdruckleitung am Sonntag, den 13.10.2013, Straßenraum Blutenburgstraße zwischen Adam- und Pappenheimstraße
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Info-Stand des Sneep e.V. am 06.11.2013 auf dem Geschwister-Scholl-Platz Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 2.6.: Baureferat, Kunst im öffentlichen Raum Projekt ?Moving Munich? - Anna Konjetzky, 15. bis 30.11.2013 Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 2.7.: Baureferat Verteilerkasten auf dem Fußweg in der Arnulfstraße 35 (s. TOP A 5.2.2/0810)
+- TOP 2.8.: Kreisverwaltungsreferat, Anhörung CarSharing Beschlussvorlage Entwurf für KVA am 26.11.2013 Zustimmung zur Beschlussvorlage durch Eilentscheidung des Vorsitzenden vom 28.10.2013
+- TOP 2.9.: Referat für Gesundheit und Umwelt Vollzug des Bundesimmissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV), Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Änderungsgenehmigung Blutenburgstraße zwischen Adamstraße und Kreu- zungsbereich Pappenheimstraße
+- TOP 3.1.: Elternbeirat der Grundschule an der Dachauer Straße 98 Sachbericht zum ?MFM-Projekt? für die 4. Klassen
+- TOP 3.2.: Referat für Bildung und Sport Benennung des Beruflichen Schulzentrums in der Luisenstraße 9-11 nach Thomas Wimmer Beschluss des Ausschusses für Bildung und Sport vom 18.09.2013 Sitzungsvorlage Nr. 08-14/V 12415
+- TOP 3.3.: Sozialreferat Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale, des Amtes für Soziale Sicherung des Stadtjugendamtes und des Amtes für Wohnen und Migration Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013 Sitzungsvorlagen Nrn. 08-14 / V 12995, 13012 und 13051 und 13021
+- TOP 4: Kultur
+- TOP 4.1.: Direktorium BA-Antrag-Nr. 08-14 / B 04994 des BA 3 vom 09.07.2013, Antwortschreiben
+- TOP 4.1.: BA-Antrag Nr. 08-14 / B 05217 des Bezirksausschuss 18 Budgetvergabe transparenter machen ? mehrere Angebote einholen
+- TOP 4.2.: Direktorium, Unterrichtung Ressourcenverschwendung durch überflüssige Postsendungen stoppe BA-Antrag Nr. 08-14 / B 03815 des BA 14 Berg am Laim vom 27.03.2012 und BA-Antrag Nr. 08-14 / B 03878 des BA 8 Schwanthalerhöhe vom 17.05.2012
+- TOP 4.3.: Direktorium, Unterrichtung Beauftragte gegen Rechtsextremismus; Finanzierung von Verantaltungen aus der Verwaltungskostenpauschale
+- TOP 4.4.: Mehrjahresinvestitionsprogramm (MIP) 2013 bis 2017 für den Stadtbezirk 3 Maxvorstadt
+- TOP 4.5.: Antrag eines Bürgers aus der Maxvorstadt aus der Bürgerversammlung des 3. Stadtbe- zirkes vom 17.10.2013: Der BA 3 wird gebeten, seine Sitzungsprotokolle auf seiner Website zu veröffentlichen. Darüber hinaus sollen die Inhalte der Website besser gepflegt werden.
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
