@@ -1,0 +1,74 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-11-13T17:00:00+01:00
+- Ende: 2013-11-13T19:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3211
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3211
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=73714
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.1: NEIN zur neuen Gebührenordnung am Flughafen TXL - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 24. Sitzung der BVV am 13.11.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 24. Sitzung der BVV am 13.11.2013 - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 24. Sitzung der BVV am 13.11.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Fahrrat einrichten - überwiesen
+- TOP 7.3: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Überarbeitung der Internetseiten des Bezirks und der BVV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Oelder Weg und Bernhard-Lichtenberg-Platz für den Radverkehr in beide Richtungen freigeben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Für Teilnahme von Reinickendorfer Betrieben am Projekt "Berliner Schulpate" der Handswerkskammer werben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Auf Aktion "Mit dem Rad zur Arbeit" hinweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Überdachung am U-Bhf. Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Kurzzeitpflegeplätze einspeisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: E-Box der BSR auch in Reinickendorf einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Wasserspender für Grundschulen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Internetseite des Bezirks informativer gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: U-Bahnhof Franz-Neumann-Platz endlich barrierefrei erreichbar - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Mittelbestreitung für die integrationspolitische Arbeit im Bezirk Reinickendorf - überwiesen
+- TOP 7.14: Fahrgastinformation am U-Bahnhof Alt-Tegel verbessern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Bericht der Patientenfürsprecherin in der Psychatrie des Vivantes Netzwerkes für Gesundheit GmbH - Am Nordgraben - für die Jahre 2011 und 2012 - überwiesen
+- TOP 7.16: Jahresbericht des Patientenfürsprechers aus dem Krankenhaus des Maßregelvollzugs für den Zeitraum 01.01.2012 bis 31.12.2012 - überwiesen
+- TOP 7.17: Aufstellung des Bebauungsplans 12-49 für die Grundstücke Alter Bernauer Heerweg 31/35 und Quickborner Straße 192 A-D, 192 E-F (teilweise), 192 G im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 7.18: Rückgabe der Besitzrechte an dem rund 457.300 m² großen Gelände des Flughafensees einschließlich der Uferbereiche sowie der damit verbundenen Nutzen und Lasten an den Grundstückseigentümer, die Bundesrepublik Deutschland, mit Wirkung zum 01.01.2014. - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Situation der Graphothek - beantwortet
+- TOP 8.1.1: Werbung der Graphothek intensivieren - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Neuwahl der Patientenfürsprecherin/des Patientenfürsprechers für das Krankenhaus Medical Park Berlin Humboldtmühle im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Buslinie 124 Richtung Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schulwegsicherung Sigismundkorso Ecke Alemannenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Freigabe der Karolinenstraße für den Radverkehr in nördlicher Richtung - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Unzuständigkeit von Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: § 28 GO - Bezirksamtsvorlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Schulsozialarbeit sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Sicherheit für Radfahrer in Frohnau erhöhen - überwiesen
+- TOP 12.2: Sportunterricht - überwiesen
+- TOP 12.3: Neue Fassadentechnologie als Energieeinsparungsmodell für Reinickendorf - überwiesen
+- TOP 12.4: Bezirksaktivitäten zum Jubiläum MV - überwiesen
+- TOP 12.5: Radwege B 96 - überwiesen
+- TOP 12.6: Berufsorientierung in Schulen mit den Eltern stärken - überwiesen
+- TOP 12.7: Ausschilderung Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fahrradschutzstreifen Heiligenseestraße (1) - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: BVG Anzeigetafeln in Frohnau instandsetzen - überwiesen
+- TOP 13.2: Kein Ausbau der Bahntrasse durch Wittenau, Waidmannslust, Hermsdorf und Frohnau - Rostock-Express durch Reinickendorf verhindern! - überwiesen
+- TOP 13.3: Wartehäuschen an der Einstiegshaltesstelle Alt-Lübars! - überwiesen
+- TOP 13.4: Einwechseln von Wildtieren in Siedlungsgebiete - überwiesen
+- TOP 13.5: Bedarfsgerechte Leerung der Mülleimer - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Sprachcamps im Kiez Auguste-Viktoria-Allee sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Fahrradschutzstreifen Heiligensee (2) - überwiesen
