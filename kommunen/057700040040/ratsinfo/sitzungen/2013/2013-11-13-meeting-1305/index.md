@@ -1,0 +1,58 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2013-11-13T17:00:00+01:00
+- Ende: 2013-11-13T21:10:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdtVRNYEzXnaBulsoU5Rv-U
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1305
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZecLfZUtEwaHa0-sv2JC1x59tLpO9j4BoySEGpK90E9O/Bekanntmachung_Rat_13.11.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfb5A5qRvkLiQt1wYN8g-u2lsAVaC-DOEPtx3pyOnAAU/Oeffentliche_Niederschrift_Rat_13.11.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Beratung und Beschlussfassung über den Brandschutzbedarfsplanes für die Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 5.: Konzept für ein einheitliches Erscheinungsbild der Stadt Rahden - Einstimmig, 1 Enthaltung (Steinkamp)
+- TOP 6.: 2. Änderung und Erweiterung des Bebauungsplanes Nr. 41 "Gewerbegebiet Pr. Ströhen" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 7.: 2. Änderung des Bebauungsplanes Nr. 64 "Pr. Ströhen – Hinter der Schule" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 2. Änderung des Bebauungsplanes Nr. 64 "Pr. Ströhen – Hinter der Schule" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 8.: 11. Änderung des Bebauungsplanes Nr. 30 "Lemförder Straße" im Bereich des Grundstückes Von-Bodelschwingh-Str. 16 Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 11. Änderung des Bebauungsplanes Nr. 30 "Lemförder Straße" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 9.: Erhebung von Straßenbaubeiträgen nach § 8 KAG - 17 Stimmen dafür (CDU/FDP), 13 dagegen (Die Grünen/SPD/FWG), 3 Enthaltungen (Thielemann/G. Meyer/Schepsmeier) Ratsmitglied Winkelmann nahm nicht an der Abstimmung teil.
+- TOP 10.: Pflichtprüfung für das „Wasserwerkes der Stadt Rahden und städtische Bäder“ für das Wirtschaftsjahr 2012; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 11.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschafts-jahr 2012; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 12.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2012 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Ärzteversorgung in Rahden - Ohne Abstimmung
+- TOP 14.: Änderung der Verwaltungsgebührensatzung vom 22.03.2013 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2012 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 16.: Ersatzwahlen zum Jugend- und Schulausschuss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Antrag der FDP-Fraktion auf Schaffung einer Stelle für einen kommunalen Wirtschaftsförderer - Ohne Abstimmung
+- TOP 18.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2012 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Feststellung des Gesamtabschlusses der Stadt Rahden zum 31.12.2012 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2013 - Ohne Abstimmung
+- TOP 21.: Bekanntgaben
+- TOP 21.1: Entscheidung der Kommunalaufsicht
+- TOP 21.2: Sekundarschule Rahden
+- TOP 21.3: Besuch aus Glindow
+- TOP 21.4: Kreistierschau
+- TOP 21.5: Ausbau des Breitbandnetzes in Rahden
+- TOP 21.6: Antrag der Fraktion Bündnis 90 / Die Grünen auf Prüfung der Fördermöglichkeiten für Klimaschutzprojekte
+- TOP 21.7: Gas- und Stromverbrauch im Schwimmbad Rahden
+- TOP 22.: Verschiedenes
+- TOP 22.1: Sitzungstermine
+- TOP 22.2: Theaterstück im Bahnhof Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 23.: Beratung und Beschlussfassung über die Vergabe des Heckenschnittes ab 2014 auf den Friedhöfen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 24.: Wertberichtigung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 25.: Grundstücksangelegenheiten
+- TOP 25.1: Erwerb von Bauland an der Robert-Koch-Straße - Einstimmig, 2 Enthaltungen (Bruhn/Steinkamp) Ratmitglied Zimmermann hat nicht an der Beschlussfassung teilgenommen.
+- TOP 26.: Bekanntgaben
+- TOP 26.1: Resolution gegen Fracking
+- TOP 27.: Verschiedenes
+- TOP 27.1: Ausweisung von Bauplätzen
+- TOP 27.2: Weihnachtsmarkt "Advent mit leisen Tönen" auf dem Gelände am Schloss Rahden
