@@ -1,0 +1,55 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-11-13T17:36:00+01:00
+- Ende: 2013-11-13T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8850
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8850
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00347354.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.2: Anregung nach § 24 GO NRW Nr. 2013-00029 vom 08.04.2013 "Verrechnung der Kosten der Beseitigung der Fanaufkleber mit dem Zuschuss an den Verein SC Preußen Münster" - einstimmig beschlossen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Änderung Bebauungsplan Nr. 99 Rüschhausweg / Nienborgweg / Nünningweg - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10.1: Zukunft des Johann-Conrad-Schlaun-Gymnasiums
+- TOP 10.2: Haushaltsmittel für das Johann-Conrad-Schlaun-Gymnasium
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2012 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Überplanmäßige Mittelbereitstellungen im Haushaltsjahr 2013 durch den Rat der Stadt Münster - einstimmig beschlossen
+- TOP 13: Selbstverpflichtung gegen neue Haushaltsbelastungen - einstimmig geändert beschlossen
+- TOP 13.1: Selbstverpflichtung gegen neue Haushaltsbelastungen
+- TOP 14: Änderung des Gesellschaftsvertrages der Wirtschaftsförderung Münster GmbH, der Technologieförderung Münster GmbH und der Center - einstimmig beschlossen
+- TOP 15: Auslobung und Mittelbereitstellung zum städtebaulichen und freiraumplanerischen Wettbewerb York- Kaserne - einstimmig geändert beschlossen
+- TOP 15.1: Auslobung und Mittelbereitstellung zum städtebaulichen und freiraumplanerischen Wettbewerb York- Kaserne
+- TOP 16: Erhaltungs- und Gestaltungssatzung für die Siedlung Zum Erlenbusch - mehrheitlich beschlossen
+- TOP 17: PTA-Lehranstalt - mehrheitlich geändert beschlossen
+- TOP 18: Kulturkonzept für Münster - mehrheitlich beschlossen
+- TOP 18.1: Kulturkonzept für Münster
+- TOP 19: Skulptur Projekte Ausstellung 2017 - einstimmig beschlossen
+- TOP 20: Änderung der Gebührensatzung und Schulordnung der Westfälischen Schule für Musik - mehrheitlich beschlossen
+- TOP 21: Probeweise Einführung der Bestattung an Samstagen auf dem Waldfriedhof Lauheide - mehrheitlich beschlossen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 23.1: Stadtrat Münster fordert: CDU-SPD-Koalition muss das BImA-Gesetz ändern, um in Münster bezahlbaren Wohnraum für alle zu schaffen - einstimmig geändert beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 24.1: Verfügbares WLAN als Standortfaktor - verwiesen
+- TOP 24.2: Unbegleitete minderjährige Flüchtlinge - verwiesen
+- TOP 24.3: Alle potentiellen Standorte für Windenergieanlagen in die Flächennutzungsplanung aufnehmen! - verwiesen
+- TOP 24.4: Eltern unterstützen: In jedem Stadtteil eine KiTa mit flexiblen Öffnungszeiten einrichten - verwiesen
+- TOP 24.5: Der neue Hauptbahnhof: stadtstrukturell verträglich und verkehrspolitisch sinnvoll ¿ komfortabler, transparenter, stressfreier für die BahnnutzerInnen - verwiesen
+- TOP 25: Verschiedenes
