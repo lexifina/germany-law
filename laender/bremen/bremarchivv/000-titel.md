@@ -1,1 +1,1 @@
-# Verordnung über die Benutzung des Staatsarchivs (Bremische Archivbenutzungsordnung - BremArchivBO) vom 1. März 1993
+# Verordnung über die Benutzung des Staatsarchivs Bremen (Bremische Archivbenutzungsverordnung - BremArchivV) vom 30. Oktober 2013
