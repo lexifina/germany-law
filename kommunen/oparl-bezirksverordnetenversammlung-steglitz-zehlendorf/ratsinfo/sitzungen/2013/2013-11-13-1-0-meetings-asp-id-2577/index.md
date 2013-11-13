@@ -1,0 +1,95 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-11-13T17:00:00+01:00
+- Ende: 2013-11-13T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2577
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2577
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Mexikoplatz - beantwortet
+- TOP 3.2: Beschulung der Flüchtlingskinder - beantwortet
+- TOP 3.3: Fahrbahn Jägerndorfer Zeile - beantwortet
+- TOP 3.4: Umgestaltung von Straßenbegleitgrün im Bezirk - beantwortet
+- TOP 3.5: Technologie- und Gründungszentrum in der Fabeckstraße - beantwortet
+- TOP 3.6: Situation im Jugendfreizeitheim Schottenburg - beantwortet
+- TOP 3.7: Besetzung der Stelle des Antikorruptionsbeauftragten - schriftlich beantwortet
+- TOP 3.8: Zukunft des Freilandlabors in Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten. Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Anträge - erledigt
+- TOP 4.2.1: Verweilen auf der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Offene Beschlüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Fortbildung für Leitungspersonal des Bezirksamts - in der BVV abgelehnt
+- TOP 4.3.2: Einrichtung einer Arbeitsgruppe Wohnen und Mieterschutz prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Optimierung des Managements von bezirklichen Wohnungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Tödlicher Radunfall Leonorenstraße/Siemensstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Energierückspeisung bei bezirkseigenen Aufzugsanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Information zu Produktionsbedingungen von Kleidung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Anschaffung eines Messfahrrades - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Pollerweg an Ostrand Hermann-Ehlers-Platz entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Gehweg Paul-Schneider-Straße nur 55 Zentimeter breit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.10: Attraktivität des Steglitzer Damms steigern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.11: Vorgaben von Sen Fin im Haushaltsplan kennzeichnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.12: Notfallambulanz in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.13: Bolzplätze sanieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.14: Parken in der Brettnacher Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.15: Abfallbehälter für die Kilstetter Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.16: Fahrbahnbelagsanierung Schloßstraße in Höhe Kieler Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.17: Lärm durch Güterzüge in Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.18: Harry-S.-Truman-Allee für Durchgangsverkehr schließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.19: Fahrbahnsanierung Englerallee/Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.20: Anwohnerinnen und Anwohner frühzeitig über Entwicklungen zu möglicher Flüchtlingsunterkunft informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.21: Barrierefreiheit im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.22: Fortschreibung Nachhaltigkeitsbericht Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.23: Prognose Bevölkerungsentwicklung - seniorengerechtes Wohnen fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.24: Radführung in der Paul-Schneider-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.25: Sanierung Radweg Königsberger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.26: Straßenmarkierung Sundgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.27: Umsteigesituation in Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.28: Piktogramme zur Barriere-Situation - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.29: Buslinie 115 verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.30: Parken Walter-Linse-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.31: Linksabbiegen von der Clayallee durch Straßenmarkierungen erleichtern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Anwohner des Bezirks auf KATWARN hinweisen - überwiesen
+- TOP 5.1.2: Abbiegespur Schloßstraße - überwiesen
+- TOP 5.1.3: Seniorenwohnhäuser Mudrastraße 1, 5, 9 und 11 - überwiesen
+- TOP 5.1.4: Barrierefreie Orte im Bezirk - überwiesen
+- TOP 5.1.5: Aktenpläne für Steglitz-Zehlendorf im Internet veröffentlichen - überwiesen
+- TOP 5.1.6: Attraktivität des Ahornplatzes wiederherstellen - überwiesen
+- TOP 5.1.7: Informationstafel zum Denkmal auf dem Gelände des KZ-Außenlagers Lichterfelde - überwiesen
+- TOP 5.1.8: Bushaltestelle "Schloss Glienicke" sichern - überwiesen
+- TOP 5.1.9: Open Data endlich im Bezirk nutzen - überwiesen
+- TOP 5.1.10: Toilette für die Elfie-Wiese - überwiesen
+- TOP 5.1.11: Hinweistafel zum Landhaus Oppenheim - überwiesen
+- TOP 5.1.12: Öffnungszeiten Ingeborg-Drewitz-Bibliothek ausweiten - überwiesen
+- TOP 5.1.13: Integrationspreis - überwiesen
+- TOP 5.1.14: Zerstörte Vielfalt - auch in der BVV in Steglitz und Zehlendorf - überwiesen
+- TOP 5.1.15: Verwenden des Logos "Berlin Südwest" vom Bezirksamt - überwiesen
+- TOP 5.1.16: Sicherung der kinderärztlichen Versorgung in der Charité - Campus Benjamin Franklin - überwiesen
+- TOP 5.1.17: Essentials für den Bebauungsplan "Lichterfelde-Süd"-Parks Range! - überwiesen
+- TOP 5.1.18: Sitzplätze an der Bushaltestelle Winfriedstraße - überwiesen
+- TOP 5.1.19: Schadensbeseitigung am Mahnmal für Opfer an der Berliner Mauer - überwiesen
+- TOP 5.1.20: "Parks Range" für Bürgerinnen und Bürger öffnen - überwiesen
+- TOP 5.1.21: Neugestaltung eines Kreuzungsbereichs Dahlemer Weg / Curtiusstraße/Neubaugebiet - überwiesen
+- TOP 5.1.22: Parks Range - Erhalt der Gewerbeinsel - überwiesen
+- TOP 5.1.23: Schluss mit dem Parkchaos Auf dem Grat - überwiesen
+- TOP 5.1.24: Vorstellung des Projekts "Parks Range" in der Bezirksverordnetenversammlung - überwiesen
+- TOP 5.1.25: Mobile Toilette an Krumme Lanke und Schlachtensee - überwiesen
+- TOP 5.1.26: Leitfaden für Einwohneranträge - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Wie arbeitet die Ombudsfrau in unserem Bezirk? - beantwortet
+- TOP 8: Schlusswort des Bezirksverordnetenvorstehers - erledigt
