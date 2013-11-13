@@ -1,0 +1,8 @@
+# TOP 4.2: Resolution – Beibehaltung der Option des Integrationsausschusses in §27 GO NRW
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Hauptausschusses (2013-11-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/61151
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/29164
