@@ -1,0 +1,8 @@
+# TOP 2.2: Einführung der Ortschaftsverfassung für das gesamte Stadtgebiet Dresdens
+
+- Sitzung: 43. Sitzung des Ortsbeirates Blasewitz (2013-11-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/47343
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/14160
