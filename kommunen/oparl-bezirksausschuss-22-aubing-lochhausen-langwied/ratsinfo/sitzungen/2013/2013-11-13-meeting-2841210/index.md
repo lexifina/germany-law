@@ -1,0 +1,114 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2013-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2841210
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2841210
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Straßenverschmutzung durch Bauern in der Lochhausener Str. / An der Langwieder Haide (vertagt aus 09/13)
+- TOP 2.2.: Bebauung Federsee- / Henschelstraße / Kleiberweg - frühzeitige Bürgerbeteiligung am Planungsprozess
+- TOP 2.3.: Keine Änderung der Adressen in der Hohenrechbergstraße
+- TOP 2.4.: Kein Verkauf der denkmalgeschützten Immobilie Schussenrieder Str. 3
+- TOP 2.5.: Straßenbenennung Neubaugebiet Lochhausen
+- TOP 2.6.: Abbruchantrag für baufälliges Haus in Dorniersiedlung und ensemblegerechte Neubebauung in der Aufseßer Straße
+- TOP 2.7.: Einrichtung von Haltverbotszonen in der Hans-Stützle-Straße und Ärztehaus
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Altostr. 68 - Reichenaustr. 18 + 20 - Lindacher Str. 25 - Ubostr. 5 - Schönbrunner Str. 5 - Neideckstr. 42 - Pretzfelder Str. 12a (N) - Krautgartenweg 44 (N) - Bodenseestr. 300 (N) - Grabenstr. 48 (N) - Am Loferfeld 33 (N)
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: - Kronwinkler Str. 30a-32 - Zwernitzer Str. 12 - Dinkelsbühler Str. 24
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Mieterbeirat
+- TOP 3.3.7: Seniorenbeirat
+- TOP 3.3.8: Beauftragte gegen Rechtsextremismus
+- TOP 4: Anträge
+- TOP 4.1.: Errichtung eines Fahrradständers an der Endhaltestelle der Linie 162 in der Eichelhäherstraße
+- TOP 4.2.: Ausweis von mehr Parkplätzen im Bereich Toni-Berger-Straße
+- TOP 4.3.: Anfrage Kiefernhain Freiham-Süd
+- TOP 4.4.: Anfrage Bodenseestraße zu Aufstellung eines Bebauungsplanes und Erneuerung der Unterführung
+- TOP 4.5.: Verstärkung Streetwork-Arbeit im Münchner Westen
+- TOP 4.6.: Anfrage Freiham-Süd
+- TOP 4.7.: Anfrage Verschönerung der Mauer Colmdorfstraße
+- TOP 4.8.: Nachfragen und Aussagen zum Antwortschreiben bezüglich 2. Stammstreckentunnel
+- TOP 4.9.: Kostengünstige S4 Ausbau-Alternative
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Aubinger Straße / Limessstraße / LZA-Neubau
+- TOP 5.2.: Verschmutzung des Distelfinkwegs durch Pferdemist
+- TOP 3: (E) Georg-Böhmer-Straße; Schriftliche Aufforderung an die Eigentümer, der Vermüllung entgegen zu wirken Empfehlung Nr. 08-14 / E 01860 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 25.06.2013
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.2.: Mittagsbetreuung der Grundschule Schubingweg - Zuschuss für Ferienbetreuung, Schr. Referat für Bildung und Sport vom 14.10.13
+- TOP 6.3.: Anzeige Kleinfeuerwerk: Feuerwerk in der Ubostr. 7-9 am 23.11.13, Schr. KVR vom 28.10.13
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Budgetmittel der Bezirksausschüsse: Ablehnung der beantragten Zuwendung für die Initiative Naturspielplatzbereich, Schr. Direktorium vom 30.09.13
+- TOP 6.2.: Zuwendungsbewilligung aus Budgetmittel der Bezirksausschüsse für - die Freunde der Freiwilligen Feuerwehr Aubing e.V. , Schr. Direktorium vom 30.09.13 - die Initiat. "Lochhausen-Langwied historisch", Schr. Direktorium vom 30.09.13
+- TOP 6.3.: Verweise der MitarbeiterInnen des Kulturreferats an das Budget der Bezirksausschüsse, Schr. des BA 1 vom 18.10.13
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Altostr. 21-23 - Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung Planungsreferat vom 04.10.13 (vertagt aus 09/13)
+- TOP 6.2.: Kühlenfelser Str. 2-22: Umbau und Modernisierung einer Wohnanlage; Anbau gartenseitiger Erweiterungen, Ausbau der zweiten DG-Ebene - Tektur, Anhörung Planungsreferat vom 22.10.13
+- TOP 6.3.: Heckenhofer Str. 2-14: Umbau und Modernisierung einer Wohnanlage, Anbau gartenseitiger Erweiterungen, Ausbau der zweiten DG-Ebene - Tektur, Anhörung Planungsreferat vom 22.10.13
+- TOP 6.4.: Reichenbergstr. 2-18: Umbau und Modernisierung einer Wohnanlage, Anbau gartenseitiger Erweiterungen, Ausbau der zweiten DG-Ebene - Tektur, Anhörung Planungsreferat vom 22.10.13
+- TOP 6.5.: CarSharing in München: Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit, Anpassung der Rahmenbedingungen, Anhörung des KVR vom 17.10.13
+- TOP 6.6.: Bauleitplanung der Gemeinde Gräfelfing: Bebauungsplan Nr. 11 B "Bahnhofstraße-Ost", Anhörung Planungsreferat vom 24.10.13
+- TOP 6.7.: Haltverbot in der Langenburgstraße auf der Seite der Fa. Guggenberger, Anhörung KVR vom 23.10.13
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 23.-29.09.13, 07.-13.10.13, 14.-20.10.13, 21.-27.10.13) SChr. Planungsreferat vom 30.09.13, 14.10.13, 21.10.13, 29.10.13
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 30.09.13, 07.10.13, 14.10.13, 21.10.13, 28.10.13
+- TOP 6.3.: Buswartehäuschen für die Buslinie 162 an der Haltestelle S-Bahnhof Lochhausen Südseite stadtauswärts, Schr. Baureferat vom 09.10.13
+- TOP 6.4.: Vermüllung Bahnhof Aubing, Schr. Referat für Arbeit und Wirtschaft vom 07.10.13
+- TOP 6.5.: Verstärkung der Buslinie 162 durch Gelenkbusse oder Einrichtung eines 10-Minuten-Taktes, Schr. Referat für Arbeit und Wirtschaft vom 08.10.13
+- TOP 6.7.: Verkehrsrechtliche Anordnungen: - Zeitliche Einschränkung des bestehenden Haltverbots in der Langwieder Hauptstraße 7-9, Schr. KVR vom 17.07.13 - Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Dickensstr. 6, Schr. KVR vom 20.09.13 - Absolutes Haltverbot an der Ostseite der Zwernitzer Straße, Schr. KVR vom 07.08.13
+- TOP 6.8.: Aubing-Ost-Straße: Sanierung des Fahrbahnbelags zwischen der Limesstraße und der Mariabrunner-Straße, Schr. Baureferat vom 26.09.13
+- TOP 6.9.: Baumaßnahmen der SWM: - Wasserprojekt Lochhausener Straße, Schr. SWM vom 16.10.13 - Stromprojekt Erwin-Hielscher-Straße, Schr. SWM vom 10.10.13
+- TOP 6.10.: Gemeindeübergreifendes Planungsgebiet Landkreis Fürstenfeldbruck, Interkommunaler sachlicher Teilflächennutzungsplan Windkraft, Beteiligung der Behörden und sonst. Träger öffentlicher Belange, Schr. Planungsreferat vom 26.09.13
+- TOP 6.11.: Varnhagenstr. 43 - Nachtrag des ehem. Unterwerks Pasing in die Denkmalliste, Schr. Planungsreferat vom 15.10.13
+- TOP 6.12.: Geplante Änderung des Flächennutzungsplans Henschelstraße- Bürgereinspruch, Schr. Planungsreferat vom 10.10.13
+- TOP 6.15.: Planungsabsichten der Stadt München im Bereich zwischen S4 und nördliche Ortsgrenze Aubing, Schr. Planungsreferat vom 21.10.13
+- TOP 6.16.: Kanalisierung Hanfgartenstraße zwischen Goteboldstraße und Mooswiesenstraße, Schr. Stadtentwässerung vom 18.06.13
+- TOP 6.17.: Arbeiten im Straßenraum: Lochhausener Str. 216, S-Bahn-Unterführung zwischen Lochhausener Str. und Henschelstr. sowie im Bereich des S-Bahnhofvorplatzes und Henschelstr. 1 (Relining ohne Ringraum der Wasserleitung DN 200), Schr. Kreisverwaltungsreferat vom 30.10.13
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Straßenbenennung: Umbenennung der Mariabrunner Straße, Anhörung Kommunalreferat vom 05.11.13
+- TOP 7.2.: LZA Neubau am Knotenpunkt Mooswiesen-/Mühlangerstraße, Anhörung KVR vom 23.09.13 (vertagt aus 09/13)
+- TOP 7.3.: Haßfurter Straße - Neubau eines Einfamilienhauses mit Garage, Anhörung Planungsreferat vom 08.11.13
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Wirtschafts-Info 08/2013, Schr. Referat für Arbeit und Wirtschaft vom 30.09.13
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebs: - Club LH Lochhaus, Lochhausener Str. 124, Schr. KVR vom 01.10.13 - Aubinger Zwicklwirt, Marzellgasse 1, Schr. KVR vom 24.10.13
+- TOP 8.3.: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017, Schr. Stadtkämmerei vom 17.10.13
+- TOP 8.4.: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale, Schr. Direktorium vom 14.10.13
+- TOP 8.5.: Zweckentfremdung von Wohnraum: Kainacher Straße, Schr. Sozialreferat vom 25.10.13
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrats vom 23.10.13: Gesamtfortschreibung des Landesentwicklungsporgramms Bayern
+- TOP 10.2.: Beschluss des Bauausschusses vom 24.09.13: Einzäunung von Kleinkinderspielplätzen als Ruhebereich für Kinder
+- TOP 10.3.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 02.10.13: Ergebnisse der turnusmäßigen Erhebung 2012 als Grundlage zur weiteren Fortschreibung des Zentrenkonzeptes der LHM
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: Zur Energiewende gehört die Verkehrswende - München setzt auf postfossilen Verkehr (geänderter Beschluss)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.09.13: - Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2075 - Autobahnkreuz München West (südlich), Bundesautobahn A 8 (südwestlich), Mooswiesenstraße (westlich), Hanfgartenstraße (beiderseits), Berglwiesenstraße (östlich), Bundesautobahn A 99 (südöstlich) - Brauerei Langwied - Förderprojekt "Energiegerechte Stadtentwicklung im München Freiham/Neuaubing"
+- TOP 10.6.: Beschluss des Kulturausschusses vom 17.10.13: Münchens Stadtteilkultur stärken
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.13: Gesamtfortschreibung des Landesentwicklungsporgramms Bayern (geänderter Beschluss)
+- TOP 10.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.13: Haushaltsplan 2014; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" - des Stadtjugendamtes - des Amtes für Wohnen und Migration - der Zentrale - des Amtes für Soziale Sicherung
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Jour Fixe der Bezirkausschüsse mit dem Kulturreferat vom 15.07.13 - Protokoll, Schr. Kulturreferat vom 01.10.13
+- TOP 11.2.: Einladung: Das Referats für Bildung und Sport trifft die Bezirksausschüsse am 27.11.13 um 16 Uhr, Bayerstr. 28, Raum 5.074
+- TOP 11.3.: Einladung des Seniorenbeirats zur Eröffnung der Ausstellung "Kreativität kennt kein Alter" am 29.11.13 um 11 Uhr in der Rathaus-Galerie
+- TOP 11.4.: Einladung zur Bürgerbeteiligung: Neugestaltung des Bereichs Alto-/Ubostr./Giglweg am 18.11.13 um 19 Uhr im "UBO 9", Schr. Baureferat vom 24.10.13
+- TOP 11.5.: Stadtteilwoche Aubing 2014: Einladung zu den Vorbereitungssitzungen am 26.11.13 und 30.01.14, jeweils um 19 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63, Schr. Kulturreferat vom 24.10.13
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 11.12.2013 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.14.: Nutzung der Grünfläche Friedrichshafener Straße - Mehrgenerationenpark, Schr. Baureferat vom 02.10.13
+- TOP 6.13.: Verkehrsplanung Neubaugebiet Freiham - Planungen Georg-Böhmer-Straße, Schr. Planungsreferat vom 01.10.13
