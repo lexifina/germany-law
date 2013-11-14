@@ -1,0 +1,7 @@
+# TOP 14: ulm 2.0 Statusbericht - mündlicher Bericht
+
+- Sitzung: Sitzung des Hauptausschusses (2013-11-14)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/11006
+- Ergebnis: Kenntnis genommen
