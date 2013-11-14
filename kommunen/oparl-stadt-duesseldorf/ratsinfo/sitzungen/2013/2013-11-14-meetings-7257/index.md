@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-11-14T14:00:00+01:00
+- Ende: 2013-11-14T18:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7257
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7257
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00204677.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00204677.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00204677.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell Bü90-Grü: hier: Werden die energiepolitischen Positionen der Stadt ausschließlich mi - beantwortet
+- TOP 4.2: Anfrage aktuell Frei Wähler: Falschangaben auf den Internetseiten der Stadt - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage CDU und FDP: Albrecht-Dürer-Berufskolleg quo vadis? - beantwortet
+- TOP 5.2: Anfrage Freie Wähler: Ehemalige NSDAP-Mitglieder auf Ehrenlisten - beantwortet
+- TOP 5.3: Anfrage Freie Wähler: WLAN in den Stadtteilen - beantwortet
+- TOP 5.4: Anfrage des Ratsherrn Krüger: Geänderte Abgrenzungssystematik für umsatzsteuerpflichtige Tätigkeitsb - beantwortet
+- TOP 5.5: Anfrage Dr. Kirchner: Erzielte Steuereinnahmen bis Ende Oktober 2013 - beantwortet
+- TOP 5.6: Anfrage Dr. Kirchner: Verschuldung und Netto-Finanzposition der Stadt Düsseldorf zum 31. Oktober - beantwortet
+- TOP 5.7: Anfrage Rh Krüger: Informationsfreiheitsgesetz - schriftlich beantwortet
+- TOP 5.8: Anfrage der Ratsfrau El Fassi: Einsparungen im Personalhaushalt der Stadt Düsseldorf - schriftlich beantwortet
+- TOP 5.9: Anfrage der Ratsfrau El Fassi: Containerterminal Reisholz Hafen - schriftlich beantwortet
+- TOP 5.10: Anfrage Bü90-Grü: Unterjährige Kürzungen im Kultur-Bereich? - schriftlich beantwortet
+- TOP 5.11: Anfrage SPD: Neue Stadtteile - schriftlich beantwortet
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Regelung zu den Grundsätzen von Ermächtigungsübertragungen gem. § 22 GemHVO - einstimmig beschlossen
+- TOP 8: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2012 und 2013 - einstimmig beschlossen
+- TOP 9: Folgekosten des 1. Halbjahres 2013 aufgrund von Ausführungs- und Finanzierungsbeschlüssen - zur Kenntnis genommen
+- TOP 10: Änderung des Bau- und Finanzierungsbeschlusses für die Stadtbahnstrecke der Wehrhahn-Linie - mehrheitlich beschlossen
+- TOP 11: Stadtbahn U81 - 1. Bauabschnitt Freiligrathplatz - Flughafen Terminal - Neufassung - mehrheitlich beschlossen
+- TOP 12: Klärwerk-Nord, Optimierung Energieerzeugung und Energieverteilung - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 13: Richtlinie Düsseldorf fördert grüne Innenhöfe, begrünte Dächer und neugestaltete Fassaden im Rahmen - einstimmig beschlossen
+- TOP 14: Richtlinie Düsseldorf fördert grüne Innenhöfe, begrünte Dächer und neugestaltete Fassaden im Rahmen - einstimmig beschlossen
+- TOP 15: Änderung der „Richtlinien für den Erwerb von Mietpreis- und Belegungsbindungen“ - einstimmig beschlossen
+- TOP 16: Änderung der „Richtlinien zur Förderung der Errichtung von Mietwohnungen in der soz. Wohnraumför. - einstimmig beschlossen
+- TOP 17: Satzung des Seniorenbeirates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 18: Restitution Wilhelm von Schadow - einstimmig beschlossen
+- TOP 19: Neu- bzw. Wiederbestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Land - einstimmig beschlossen
+- TOP 20: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20.1: Wahl eines stellvertretenden Vorsitzenden für den Schulausschuss - einstimmig beschlossen
+- TOP 21: FNP-Änderung Nr. 158 Weizenmühlenstraße / Kesselstraße - mehrheitlich beschlossen
+- TOP 22: B-Plan Entwurf Nr. 5275/020 Kesselstraße Einstellung des Verfahrens - einstimmig beschlossen
+- TOP 23: Plan Nr. 03/002 Kesselstraße Aufstellung Bebauungsplan - einstimmig beschlossen
+- TOP 24: FNP-Ä Nr. 146 -Am Heerdter Krankenhaus- Planbeschluss - einstimmig beschlossen
+- TOP 25: Plan Nr. 5280/029 Veränderungssperre-Golzheimer Siedlung nördlich der Rotterdamer Straße - Veränderu - einstimmig beschlossen
+- TOP 26: Anträge
+- TOP 26.1.1: Antrag SPD,BÜ90/GRÜ und FDP: Resolution gegen Homophobie in Russland - mehrheitlich beschlossen
+- TOP 26.2: Resolution von SPD, BÜ90/GRÜ und FDP: Resolution gegen Homophobie in Russland - zur Kenntnis genommen
+- TOP 26.3: Antrag FREIE WÄHLER: Betriebskindergärten - mehrheitlich abgelehnt
+- TOP 26.4: Antrag Freie Wähler: Einführung einer Besteuerung von sexuellen Handlungen und Vergnügungen - mehrheitlich abgelehnt
+- TOP 26.5: Antrag der Ratsfraktion DIE LINKE: Grundstücksgeschäfte öffentlich machen - mehrheitlich abgelehnt
+- TOP 26.5.1: Änderungsantrag BÜ90/GRÜ: Grundstücksverkäufe öffentlich machen - zur Kenntnis genommen
+- TOP 26.6: Antrag Bü90-Grü: Konzept Ratsinformationssystem - verwiesen
+- TOP 26.7: Antrag Die Linke: Sozialtarif für Strom - mehrheitlich abgelehnt
+- TOP 26.7.1: ÄA SPD und BÜ90/GRÜ:Sozialtarif für Strom - zur Kenntnis genommen
+- TOP 27: Antrag der Ratsfraktion DIE LINKE: Hundetoiletten im Bereich des Rathauses - mehrheitlich abgelehnt
+- TOP 27.1: Antrag SPD: Städtebauliche Neuordnung in den Bereichen Gustav-Gründgens-Platz und Tuchtinsel - mehrheitlich abgelehnt
+- TOP 28: Neuwahl eines Schulausschussmitgliedes in das Kuratorium der Volkshochschule - einstimmig beschlossen
+- TOP 29: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH Ersatzwahl - einstimmig beschlossen
