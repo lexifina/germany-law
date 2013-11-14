@@ -1,0 +1,64 @@
+# 23. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-11-14T16:30:00+01:00
+- Ende: 2013-11-14T21:50:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3600
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3600
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=97768
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-24 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Arbeit, Soziales und Gesundheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Neuwahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Abberufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Passiver Schallschutz - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sitzungsterminplan 2014 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittelantrag des Berliner Ruderclub Ägir e. V. (SM 13-30) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag des Fördervereins der Grundschule An den Püttbergen e. V. (SM 13-31) - vertagt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Sauberkeit im Schlesischen Busch - überwiesen
+- TOP 12.3: Rechte von Kindern und Jugendlichen stärken – Errichtung eines Kinder- und Jugendparlamentes - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ausstellung in der Gedenkstätte Köpenicker Blutwoche bewerben - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Keine Werbung für die Bundeswehr an Schulen - überwiesen
+- TOP 12.6: Bedarfs-Lichtsignalanlage Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Maschinenlesbare Haushaltsunterlagen zur Weiterverarbeitung - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Kombi-Ticket für den 1. FC Union - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Genehmigung der im Haushaltsjahr 2012 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Personalkonzept des Bezirksamtes - vertagt
+- TOP 13.2: Bebauungsplan XV-29b ("Schönefelder Chaussee/Ortolfstraße") hier: Änderung des BA-Beschlusses 128/94 vom 13.09.1994 (Weiterführung des Planverfahrens als vorhabenbezogenen B-Plan XV-29 b VE) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sicherung und Ausweitung der Schulsozialarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Schulwegsicherung Sonnenblumenschule - überwiesen
+- TOP 14.3: Schmetterlingshorst weiterhin mietfrei überlassen - überwiesen
+- TOP 14.4: Radspur in der Straße Am Bahndamm - überwiesen
+- TOP 14.5: Zebrastreifen auf dem Fürstenwalder Damm - überwiesen
+- TOP 14.6: Hinzuziehung und Rederecht sachkundiger Personen und Betroffener - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Motorradfrei über die Wuhlebrücke - überwiesen
+- TOP 14.8: Parkplatzsituation in der Rinkartstraße entspannen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Evaluation des ZfD - überwiesen
+- TOP 14.10: Radspur in der Straße An der Wuhlheide - überwiesen
+- TOP 14.11: Transparenz bei den Kiezkassen - überwiesen
+- TOP 14.12: Querungshilfe Kreuzung Kaulsdorfer Straße/Gehsener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Neugestaltung Uferweg am Mellowpark – Übertragung der Weißen Villa - überwiesen
+- TOP 14.14: Schrägaufzug im Spreetunnel - überwiesen
+- TOP 14.15: Querungshilfe Straße "Am Studio" - überwiesen
+- TOP 14.16: Verlängerung der Verstärkerfahrten des Busses 167 - überwiesen
+- TOP 15: Große Anfragen - im Ausschuss abgelehnt
