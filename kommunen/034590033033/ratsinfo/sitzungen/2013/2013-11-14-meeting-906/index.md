@@ -1,0 +1,51 @@
+# Rat (25. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2013-11-14T17:30:00+01:00
+- Ende: 2013-11-14T22:15:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdasOb7Pai0j0GAcauA0Er0
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/906
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbCBQW9px7_jckU8pvVQMUjvs6jHIzgwSt_JlccGbver/Bekanntmachung_Rat_14.11.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYnk4_rUYdmOhWz_R4KYP2IoTh2a4Y7rtu4J-YVtq9RZ/Oeffentliche_Niederschrift_Rat_14.11.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 01.10.2013
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 1. Änderung der Satzung der Gemeinde Wallenhorst über die Entschädigung der Ratsfrauen und Ratsherren sowie der sonstigen Ausschussmitglieder hier: § 8 Kommunalpolitische Bildungsarbeit (Fraktionszuwendungen) - mehrheitlich mit 31 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 4.2: 1. Änderung der Hauptsatzung; beschließende Ausschüsse - mehrheitlich mit 31 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 5.: Kommunalrechtsangelegenheiten
+- TOP 5.1: Bildung der Ausschüsse 'Finanzen und Wirtschaft' und 'Straßen und Verkehr': hier: Benennung der stellvertretenden Ausschussmitglieder - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertreterinnen und -vertreter - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Dienstleistungsvertrag zwischen GWW GmbH und der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Beschluss über den Gestattungsvertrag zur Installation und Nutzung von Photovoltaikanlagen - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 6.3: Schulentwicklungsplanung; hier: Antrag der Kooperationspartner im Rat der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Antrag der Kooperation über die Suche nach einem strategischen Partner für die Gemeindewerke Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Verkehrsangelegenheiten
+- TOP 7.1: Sanierung der Bushaltestelle am Schulzentrum und Errichtung einer zentralen Bushaltestelle auf der Nordseite der Niedersachsenstraße - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 7.2: Einrichtung einer Überquerungshilfe an der Osnabrücker Straße in Höhe der Verbrauchermärkte - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 8.: Straßenbau
+- TOP 8.1: Bau eines Kreisverkehrsplatzes im Bereich der Kreuzung "Große Straße/Boerskamp/Lechtinger Kirchweg/Ruller Straße" - mehrheitlich mit 31 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 8.2: Sanierung der Straßen "Rathausallee", "Alte Hofstelle", "Alte Webschule" und "Leinengasse" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Bauleitpläne
+- TOP 9.1: Antrag der CDU-Fraktion auf Änderung des Flächennutzungsplanes und Aufstellung eines Bebauungsplanes für die Fläche zwischen den Straßen 'Im Alten Dorf, 'Franksmannstraße' und 'B 68'; - mehrheitlich mit 18 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 9.2: Neuaufstellung des Flächennutzungsplanes (FNP) hier: Beschluss zum Vorentwurf des FNP Beschluss zu den frühzeitigen Beteiligungsverfahren gem. § 3 Abs. 1 Baugesetzbuch (BauGB) und § 4 Abs. 1 BauGB - mehrheitlich mit 18 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Erweiterung der Feldbahn am Piesberg - mehrheitlich mit 31 Ja-Stimme(n), 1 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 11.: Liegenschaften
+- TOP 11.1: Vorhaben- und Erschließungsplan "Projekt Grüne Wiese Wallenhorst - Arkaden-Center" hier: Entscheidung über die "Beendigung" des Verfahrens
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Genehmigung zur Annahme von Zuwendungen (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Übergabe des Ratsvorsitzes in der öffentlichen Sitzung am 07.11.2013
+- TOP 13.2: Ersatz des Wortes "behindertengerecht" durch das Wort "barrierefrei"
+- TOP 13.3: Sitzungsunterbrechung bei zeitlicher Überschreitung der Sitzungsdauer
+- TOP 13.4: Beschlüsse von Teilhaushalten
