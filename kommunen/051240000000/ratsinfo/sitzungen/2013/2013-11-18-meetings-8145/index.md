@@ -1,0 +1,83 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-11-18T16:03:00+01:00
+- Ende: 2013-11-18T21:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8145
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8145
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 08.11.2013 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00162015.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00162862.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00162488.pdf
+
+## Tagesordnung
+
+- TOP 1: Haushalt
+- TOP 1.1: Haushaltsreden
+- TOP 1.2: Neugestaltung Döppersberg - 2. BA: Erhöhung der Bau- und Folgekosten, Sicherstellung der Finanzierung - ungeändert beschlossen
+- TOP 1.2.1: Ratsbürgerentscheid zum Döppersberg-Umbau - abgelehnt
+- TOP 1.2.2: Antrag - "Sonderprüfung der Kostensteigerungen beim Umbau Döppersberg durch das Rechnungsprüfungsamt" - zurückgezogen
+- TOP 1.2.3: Änderungsantrag zu VO/1002/13 - Fehleranalyse, Ehrlichkeit und Transparenz - zurückgezogen
+- TOP 1.2.4: Den Döppersberg-Umbau transparent und bürgernah gestalten - abgelehnt
+- TOP 1.2.5: Begleitantrag zur VO/1002/13, Neugestaltung Döppersberg - 2. BA: Erhöhung der Bau- und Folgekosten, Sicherstellung der Finanzierung - Antrag zum Tagesordnungspunkt 1.2 - geändert beschlossen
+- TOP 1.3: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 1.3.1: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 1.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 1.5: Antrag zum Haushaltsplan 2014/2015, VO/0721/13 - ungeändert beschlossen
+- TOP 1.5.1: Befristete Fortführung der Schulsozialarbeit - geändert beschlossen
+- TOP 1.5.2: Schulsozialarbeit weiterführen - abgelehnt
+- TOP 1.5.3: Resolution Weiterfinanzierung der Schulsozialarbeit - abgelehnt
+- TOP 1.5.4: Haushalt 2014/15 - abgelehnt
+- TOP 1.6: Bürgerbeteiligung bei der Beratung des Haushaltsplanes 2014/2015 - ungeändert beschlossen
+- TOP 1.6.1: Bürgerbeteiligung bei der Beratung des Haushaltsplanes 2014/2015 (Ergänzung) - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.6.2: Zweite Phase der Bürgerbeteiligung zum Haushaltsplan-Entwurf 2014/2015 - Entgegennahme ohne Beschluss
+- TOP 1.7: Beschaffung einer neuen Software für das Einsatzleitsystem der gemeinsamen Leitstelle der Feuerwehren Solingen und Wuppertal - ungeändert beschlossen
+- TOP 1.8: Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 1.9: 3. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2014 - geändert beschlossen
+- TOP 1.9.1: 3. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2014 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.10: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2014/2015 - ungeändert beschlossen
+- TOP 1.10.1: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2014/2015 - ungeändert beschlossen
+- TOP 1.10.2: 3. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2014/2015 - ungeändert beschlossen
+- TOP 1.11: Haushaltssatzung 2014/2015 - ungeändert beschlossen
+- TOP 1.12: Mittelfristige Finanzplanung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.13: Stellenplan - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.14: Haushaltsplan 2014/2015 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Finanzierung des Vereins wuppertalaktiv e.V. - Kenntnis genommen
+- TOP 2.1.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE zur Finanzierung des Vereins wuppertalaktiv e.V. - Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zum Thema: "Wuppertal-Nord: Schluss mit dem Ausverkauf"
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Stellungnahme der Verwaltung in Zusammenarbeit mit der wsw mobil GmbH zum Bürgerantrag zur Buslinie CE 62 - ungeändert beschlossen
+- TOP 4.2: Resolution – Beibehaltung der Option des Integrationsausschusses in §27 GO NRW - ungeändert beschlossen
+- TOP 4.3: Vertretung des Beirates der Menschen mit Behinderung Wuppertal in Ausschüssen und Bezirksvertretungen - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: 1. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: 1. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Umsetzung des Haushaltssanierungsplans (HSP) 2012-2021 – Stand zum 30.09.2013 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1066 - Engineering Park Wuppertal (GOH-Kaserne)- - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erneuerung des Straßenbelags in der Straße Schloßbleiche - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Festsetzung des Überschwemmungsgebietes des Mirker Baches - ungeändert beschlossen
+- TOP 11.2: Beschlussvorlage zum Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Landeshauptstadt Düsseldorf und der Stadt Wuppertal über die Erteilung der eingeschränkten Heilpraktikererlaubnis für das Gebiet Physiotherapie in NRW. - ungeändert beschlossen
+- TOP 11.3: Zinserhöhung kommunaler Wohnungsbaudarlehen gem. §§ 30-39 WFNG NRW - ungeändert beschlossen
+- TOP 11.4: Antrag auf Genehmigung der gemeinsamen Beschulung und der Erhöhung der Zügigkeit eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Bildungsgang "Elektroniker für Betriebstechnik" - ungeändert beschlossen
+- TOP 11.5: Schenkung einer Engels-Skulptur durch die VR China - ungeändert beschlossen
+- TOP 11.6: Annahme einer Schenkung in Form der Bauleistung "Denkmalgerechte Restaurierung des Drei-Kaiser-Denkmals - ungeändert beschlossen
+- TOP 11.7: Soziale Stadt Oberbarmen-Wichlinghausen - Anpassung des intergreirten Handlungskonzeptes - ungeändert beschlossen
+- TOP 11.8: Private Investitionsflächen im Rahmen der städtebaulichen Neuordnung Döppersberg/Hauptbahnhof - ungeändert beschlossen
+- TOP 11.8.1: Dringlichkeitsantrag der Wählergemeinschaft für Wuppertal (WfW) zu VO/1056/13 - abgelehnt
+- TOP 11.8.2: Begleitantrag zu VO/1056/13 - Städtebauliche Entwicklung der privaten Investitionsflächen - - abgelehnt
+- TOP 11.9: RatsTV - Verlängerung der Pilotphase - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienumbesetzung Beirat Menschen mit Behinderung - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung / Benennung - ungeändert beschlossen
