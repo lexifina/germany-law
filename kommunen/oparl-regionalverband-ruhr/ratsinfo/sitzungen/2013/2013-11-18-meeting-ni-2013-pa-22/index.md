@@ -1,0 +1,51 @@
+# 21. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-11-18T10:00:00+01:00
+- Ende: 2013-11-18T13:00:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-PA-22
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-PA-22
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-PA-22
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2013-PA-22
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 19. und 20. Sitzung des Planungsausschusses am 16.09.2013
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Regionaler Vorschlag zum Jahresbauprogramm 2014 für die Maßnahmen des Landesstraßenausbauplans
+- TOP 2.2: Programm Radwegebau an bestehenden Landesstraßen: Priorisierung der Maßnahmen für das Jahr 2014
+- TOP 2.2.1: Radweg an L104 Bottrop/Kirchhellen – Schermbeck/Gahlen, Antrag der CDU-Fraktion vom 15.11.2013
+- TOP 2.2.2: Änderung der Prioritätenliste für den Radwegebau an bestehenden Landstraßen für das Jahr 2014, Antrag der Fraktion Die Linke. vom 18.11.2013
+- TOP 2.3: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Priorisierung von Maßnahmen für das Jahr 2014
+- TOP 2.4: Städtebauförderung hier: Veröffentlichung des Stadterneuerungsprogramms 2013
+- TOP 2.5: Neuaufstellung des Bundesverkehrswegeplanes - Straßenbauprojekte - Meldung des Landes NRW zur Bewertung an den Bund
+- TOP 3.1: Elektromobilität in der Metropole Ruhr
+- TOP 2.6: 79. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Kamp-Lintfort, Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen und allgemeiner Freiraum- und Agrarbereich in GIB (Erarbeitungsbeschluss)
+- TOP 2.7: Rohstoffmonitoring des Geologischen Dienstes NRW für das Gebiet des RVR Hier: mündliche Erläuterung der Berechnungen des Geologischen Dienstes NRW und des Regierungsbezirkes Düsseldorf für den Kreis Wesel
+- TOP 2.8: Stellungnahme zur Fortschreibung des Regionalplans Münsterland
+- TOP 2.9: Anfragen und Mitteilungen
+- TOP 2.9.1: IKEA Wuppertal - mündlicher Sachstandsbericht
+- TOP 2.9.2: 7. Regionalplanänderung des Regierungsbezirkes Münster, Teilabschnitt Emscher-Lippe (Festlegung eines Kraftwerksstandortes) Hier: Bericht über die Ergebnisse der FFH-Verträglichkeitsprüfung und über die Information der Landesplanungsbehörde
+- TOP 2.9.3: Bericht über laufende Verfahren Hier: RVR als Regionalplanungsbehörde
+- TOP 2.9.4: Mündliche Anfrage der FDP-Fraktion: Stellungnahme des Regionalverbandes Ruhr zum Entwurf des neuen Landesentwicklungsplanes NRW
+- TOP 2.9.5: Mündliche Anfrage der FDP-Fraktion: Maßregelvollzug im Gebiet des Regionalverbandes Ruhr
+- TOP 3: Angelegenheiten nach RVR-Gesetz
+- TOP 3.2: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes des Kreises Unna 2013
+- TOP 3.3: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr hier: Sachstandsbericht
+- TOP 3.4: E-Mobilität auf dem Ruhrtalradweg, Antrag der CDU-Fraktion vom 15.11.2013
+- TOP 3.5: Anfragen und Mitteilungen
+- TOP 3.5.1: Beantwortung der Fragen der CDU-Fraktion im RVR zum Thema 'Interkommunale Gewerbeflächenentwicklung im Ennepe-Ruhr-Kreis' (Drucksache Nr. 12/0948)
+- TOP 3.5.2: Antwort der Verwaltung auf die CDU-Anfrage 'E-Mobilität auf dem Ruhrtalradweg'
+- TOP 3.5.3: Bericht über laufende Verfahren Hier: RVR als Träger öffentlicher Belange
+- TOP 4: Regionaler Diskurs/Regionalplan Ruhr
+- TOP 4.1: Ideenwettbewerb Zukunft Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 4.2: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Wasser
+- TOP 4.3: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Siedlungsentwicklung
+- TOP 4.4: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Klimaschutz und Klimaanpassung
+- TOP 4.5: Regionaler Diskurs/Regionalplan Ruhr. Hier: Perspektiven zur räumlichen Entwicklung der Metropole Ruhr
