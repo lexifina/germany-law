@@ -1,0 +1,102 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-11-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818677
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818677
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Pilotystraße 8
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Kardinal-Faulhaber-Straße 1: Um- und Neubau der Gebäudeteile (Vorbescheid) (vertagt aus der Sitzung vom 17.09. und 15.10.2013, Antragsteller in den UA eingeladen)
+- TOP .2.: Hackenstraße 6: Errichtung eines Neubaus (Vorbescheid) (vertagt aus der Sitzung vom 17.09. und 15.10.2013, Antragsteller in den UA eingeladen)
+- TOP .3.: Oberanger 43 ? 45: Revitalisierung eines Wohn- und Geschäftsquartiers mit Aufstockung und Neubau (vertagt aus der Sitzung vom 15.10.2013, Vertreter Planungsreferat für UA angefordert)
+- TOP .4.: Karlsplatz 7: Neubau eines Wohn- und Geschäftshauses (vertagt aus der Sitzung vom 15.10.2013)
+- TOP .5.: Marienplatz 22: Umbau eines Geschäftsgebäudes mit Fassadenneugestaltung (Vorbescheid) (vertagt aus der Sitzung vom 15.10.2013)
+- TOP .6.: Reitmorstraße 17: Umbau Erdgeschoss mit Errichtung eines Rückgebäudes (Vorbescheid) (vertagt aus der Sitzung vom 15.10.2013)
+- TOP .7.: Oettingenstraße 16: Nutzungsänderung / Umbau und Sanierung (?) (vertagt aus der Sitzung vom 15.10.2013)
+- TOP .8.: Maximilianstraße 36: Umbau und Sanierung Innenhof (vertagt aus der Sitzung vom 15.10.2013)
+- TOP .9.: Hackenstraße 7: Instandsetzung, Umbau, Erweiterung eines Wohn- und Geschäftshauses mit Neubau einer Tiefgarage (Tektur)
+- TOP .10.: Pfarrstraße 10: Neubau eines Rückgebäudes (Tektur)
+- TOP .11.: Kaufingerstraße 19: Umbau und Nutzungsänderung im DG (...)
+- TOP .1.: Bericht zum Runden Tisch zur Freischankflächengestaltung im Tal am 17.10.2013
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Sonnenstraße 23, ?Alnatura?: Verkaufseinrichtung
+- TOP .2.: Müllerstraße 20, ?Atelier sv GbR?, Fahrradständer
+- TOP .3.: Müllerstraße 20, ?Osa + Ochs Schmidhuber Architekturgesellschaft mbH? Fahrradständer
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Chanukkafeier am 01.12.2013, St.-Jakobs-Platz
+- TOP .1.: Straßenplattensanierung auf dem Marienplatz und in der Fußgängerzone
+- TOP .2.: UA: Verkehrsführung Zweibrückenstraße ? Entwurf eines Schreibens
+- TOP .3.: NACHTRAG: Vorstellung der MVG im UA des Bauvorhabens U-Bahnhof Sendlinger Tor
+- TOP .1.: Bürgeranliegen: Straßenmusik in der Münchner Fußgängerzone
+- TOP .2.: UA: Wiederherstellung des Rasenpflasters am ?Sattlerplatz?
+- TOP .1.: Standortgenehmigung weiterer Parkscheinautomaten in der Galeriestraße
+- TOP .2.: (E) Belebung des Isartorplatzes Empfehlung Nr. 08-14 / E 01634 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 27.11.2012
+- TOP .1.: NACHTRAG: Baumfällung Thierschstraße 46
+- TOP .2.: NACHTRAG: Baumfällung Liebigstraße 20
+- TOP .1.: Bestellung städtischer Leistungen: Finanzierung einer Tischtennisplatte auf der Praterinsel i.H.v. 2.200 Euro (netto) aus dem BA-Budget
+- TOP .2.: (E) Budget der Bezirksausschüsse Singidunum Chor-München e.V. Konzert am 30.11.2013
+- TOP .3.: (E) Budget der Bezirksausschüsse Kammeroper München e.V. Figurentheater "Falstaff" am 25.01. und 16.02.2014
+- TOP .1.: SommerSpielAktion 2014, Standortvorschläge
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Mehrjahresinvestitionsprogramm für die Jahre 2013 ? 2017 - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013 ? 2017 - Gliederungsziffern
+- TOP 0.2.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen, Antwortschreiben des Direktoriums an den BA 15
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Schreiben der LBK zum Bauvorhaben Residenzstraße 21
+- TOP 0.3.: Aufstellung eines Bebauungsplans für das Hackenviertel
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Antwortschreiben auf eine Anfrage der Urbanauten bzgl. der Stellungnahme des BA 1 zum Kulturstrand am Vater-Rhein-Brunnen
+- TOP 0.6.: Schreiben an das Baureferat bzgl. der Beseitigung von Schrotträdern
+- TOP 0.7.: Änderung der Straßenreinigungssatzung, Beschluss des Bauausschusses vom 15.10.2013, Sitzungsvorlage Nr. 08-14 / 13149
+- TOP 0.8.: Vorabinfo Faschingszug ?Die Damischen Ritter? 2014
+- TOP 0.9.: E-Mailverkehr mit einem Bürger bzgl. der Wertstoffinsel am Thomas-Wimmer-Ring/Knöbelstraße
+- TOP 0.10.: Eilentscheidung zu einer temporären Installation in der Grünanlage Herzog-Heinrich-Wilhelm-Str. am 30.10.2013
+- TOP 0.11.: Kunstprojekt im Öffentlichen Raum ?Moving Munich? vom 15.-30.11.2013, Isartorplatz
+- TOP 0.12.: Eilentscheidung ?Prater on Ice? vom 29.11.2013 ? 02.03.2014, Praterinsel
+- TOP 0.13.: Schriftverkehr zwischen den Urbanauten und dem Vorsitzenden bzgl. des Kulturstrands am Vater-Rhein-Brunnen
+- TOP 0.14.: Eilentscheidung ?Praterstrand on Ice? vom 29.11.2013 ? 02.03.2014, Praterinsel
+- TOP 0.15.: Schreiben des KVR, Bezirksinspektion bzgl. der Veranstaltung ?Praterstrand on Ice?
+- TOP 0.16.: Rückzug des Antrags ?Praterstrand on Ice?
+- TOP 0.17.: Bürgeranliegen wegen Verunreinigung durch Wahlplakate, weitergeleitet an und beantwortet durch das KVR
+- TOP 0.18.: Kunstaktion Eisblock am Salvatorplatz am 23.11.2013
+- TOP 0.19.: NACHTRAG: Eilentscheidung des Vorsitzenden zur Stadtratsvorlage ?CarSharing?
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Antwortschreiben des KVR zur Änderung von Verkehrsregelungen in der Damenstiftstraße, Eisenmannstraße und dem Altheimer Eck
+- TOP 0.3.: Zwischennachricht des Baureferats zur Fahrradabstellanlage am St.-Anna-Platz
+- TOP 0.4.: Zwischennachricht des RGU zum Vorschlag des BAs zur Aufnahme von einseitig bebauten Straßen in den Lärmminderungsplan
+- TOP 0.5.: Nachtbauarbeiten Gleisbereich Thierschstraße
+- TOP 0.6.: Berücksichtigung eines glatten Straßenbelags für Mobilitätsbehinderte bei der Wiederherstellung des Straßenbelags in der Residenzstraße
+- TOP 0.7.: Antrag des BA 2 auf Anpassung der Querung für Fußgänger an der Kreuzung Müllerstr./Fraunhoferstr. (Richtung Reichenbachpl.) und Müllerstr./papa-Schmid-Str. (Richtung Sendlinger-Tor-Pl.) zu den Trambahnhaltestellen der Linien 16 und 18
+- TOP 0.8.: Änderung der Straßenreinigungssatzung, Beschluss der Vollversammlung vom 23.10.2013, Sitzungsvorlage Nr. 08-14 / V 13149
+- TOP 0.9.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen, Beschluss des Bauausschusses vom 19.11.2013, Sitzungsvorlage Nr. 08-14 / V 12710
+- TOP 0.10.: Antwortscheiben des KVR zur Bürgerbeschwerde über widerrechtliches Parken an den Tennisanlagen, TOP 2013.10 A 3
+- TOP 0.1.: Schreiben des Direktoriums zur Erhöhung der Verwaltungskostenpauschale
+- TOP 0.2.: Reaktionen anderer BAs auf das Schreiben bzgl. der Budgetverweise des Kulturreferats
+- TOP 0.3.: Sachbericht, Verwendungsnachweis und Schreiben des Direktoriums BA-Budget Jacobi-Fest 2013
+- TOP 0.4.: Sachbericht Historisches Spielfest am Isartor
+- TOP 0.5.: Baukostenzuschuss Kindertagesstätte Oettingenstraße 8, Beschluss des Ausschusses für Bildung und Sport vom 13.11.2013, Sitzungsvorlage Nr. 08-14 / 13185
+- TOP 0.6.: Haushaltsplan 2014: Produkt und zielorientiert Ansätze für den Bereich ?Förderung freier Träger? - des Amtes für Wohnen und Migration - des Stadtjugendamtes - des Amtes für Soziale Sicherung - der Zentrale
+- TOP 0.7.: Bericht über die Veranstaltung 18.Jetzt
+- TOP 0.8.: NACHTRAG: Schriftverkehr mit dem Elternbeirat des Wilhemgymnasiums
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
