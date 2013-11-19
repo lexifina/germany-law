@@ -1,0 +1,56 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-11-19T17:07:00+01:00
+- Ende: 2013-11-19T19:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/36
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8948
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8948
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00348058.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der Tagesordnung
+- TOP 1.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Antrag der Kommission zur Förderung der Inklusion von Menschen mit Behinderungen vom 08.10.2013 "Brandschutz, Rettungswesen" an den AUB - Hinweise der Verwaltung zum weiteren Verfahren -
+- TOP 3: Einbringen von Eingaben
+- TOP 4: Umweltschutz/ sonstige Vorlagen
+- TOP 4.1: Prüfung der ortsfesten und ortveränderlichen elektrischen Betriebsmittel - ohne Beschlussfassung geschoben
+- TOP 4.2: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 4.3: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 4.4: Aufgabe und Vermarktung des ehem. Spielplatzes an der Paul-Gerhard-Straße sowie Umgestaltung des Spielplatzes am Nottulner Landweg - einstimmig beschlossen
+- TOP 4.5: Rückbau von öffentlichen Spiel- und Bolzplätzen - einstimmig geändert beschlossen
+- TOP 4.6: Neufassung der Satzung für die Benutzung der Friedhofseinrichtungen der Stadt Münster und Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 4.7: Einführung einer Wertstofftonne - zur Kenntnis genommen
+- TOP 4.8: Beirat für Klimaschutz - Handlungsprogramm 2012 - 2017 Nachhaltige kommunale Haushaltspolitik, Einzelmaßnahme 259 - zur Kenntnis genommen
+- TOP 4.9: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP 4.10: Reduzierung des Pflegestandards - einstimmig geändert beschlossen
+- TOP 4.11: Konzept zur Umsetzung von Maßnahmen im öffentlichen Grün und im Straßenbegleitgrün gemäß Handlungsprogramm 2012-2017 - einstimmig abgelehnt
+- TOP 4.12: Handlungsprogramm 2012 bis 2017 - 2. Projektbericht zur Umsetzung (Auszug Ausschuss für Umweltschutz und Bauwesen) - zur Kenntnis genommen
+- TOP 4.13: Jahresbericht 2012 der Biologischen Station Rieselfelder Münster - zur Kenntnis genommen
+- TOP 4.14: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 5: Baumaßnahmen
+- TOP 5.1: Entwurf der Stellungnahme der Stadt Münster zum geplanten 6-streifigen Ausbau der A1 von der Anschlussstelle Münster/Nord bis Anschlussstelle Greven von Bau-km 41-028,80 bis Bau-km 30+450,00 im Planfeststellungsverfahren - einstimmig beschlossen
+- TOP 5.2: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 5.3: Optimierung bürgerorientierter Dienstleistungen: Stadthaus 1 - Sanierung sowie Einrichtung eines Bürgerservicezentrums, Verbleib Bauteile E+F sowie Petzholdhaus im Eigentum - von der Tagesordnung abgesetzt
+- TOP 5.4: Optimierung bürgerorientierter Dienstleistungen: Künftige Nutzung Dominikanerkirche - von der Tagesordnung abgesetzt
+- TOP 5.5: Pascal-Gymnasium, Uppenkampstiege - vertagt
+- TOP 5.6: Neubau einer Zweifachsporthalle an der Peter-Wust-Schule - einstimmig beschlossen
+- TOP 5.7: Neubau einer Kindertageseinrichtung an der Dreifaltigkeitsschule - einstimmig beschlossen
+- TOP 5.8: Handorfer Straße zwischen Warendorfer Straße und Hobbeltstraße. - von der Tagesordnung abgesetzt
+- TOP 5.9: Landoisstraße - Baubeschluss Kanalsanierung - - einstimmig beschlossen
+- TOP 5.10: Ausbau der Siemensstraße im Abschnitt Hausnummer 31 - 60 1. BA - einstimmig beschlossen
+- TOP 5.11: Weseler Straße einschl. Stichstraße/Stadtbereichszentrum Mecklenbeck - einstimmig geändert beschlossen
+- TOP 5.12: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Hiltrup - einstimmig beschlossen
+- TOP 5.13: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Mitte - einstimmig beschlossen
+- TOP 5.14: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Nord - einstimmig beschlossen
+- TOP 5.15: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Ost - einstimmig beschlossen
+- TOP 5.16: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Südost - einstimmig beschlossen
+- TOP 5.17: Maßnahmenprogramm 2014 - 2015 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk West - einstimmig beschlossen
+- TOP 6: Beratung des Entwurfes des Haushaltsplanes 2014 sowie des Finanzplanes und des Investitionsprogramms 2013 - 2017
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Sonstiges
