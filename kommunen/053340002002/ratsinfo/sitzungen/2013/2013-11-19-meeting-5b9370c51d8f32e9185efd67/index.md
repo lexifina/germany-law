@@ -1,0 +1,54 @@
+# öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses
+
+- Körperschaft: Aachen
+- Beginn: 2013-11-19T17:00:00+01:00
+- Ende: 2013-11-19T20:09:00+01:00
+- Ort: Verwaltungsgebäude Marschiert, Lagerhausstraße
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b2e1d8f32e9185d6f81
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2910
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9370c51d8f32e9185efd67
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift der Sitzung 10.09.2013 (öffentlicher Teil) - (offen)
+- TOP 3: Wohnen in Aachen - Sachstand und Ausblick Aachen-Strategie-Wohnen unter besonderer Berücksichtigung Wohnungspolitischer Instrumente im sozialen Wohnungsbau, Anträge der Fraktion der SPD im Rat der Stadt Aachen vom 23.08, 10.09. und 23.09.2013 - ungeändert beschlossen
+- TOP 4: Modernisierung des denkmalgeschützten Wohnungsbestandes im Bereich Kalverbenden/Spaakallee - ungeändert beschlossen
+- TOP 5: Haushaltsplanberatung 2014 einschl. mittelfristige Planung bis 2017 - zurückgestellt
+- TOP 6: Immobilienbericht 2012 - Aussprache - ungeändert beschlossen
+- TOP 7: Projekt: Entwicklung des Gewerbepark Brand (ehemals Camp Pirotte) Vermarktungskonzept - ungeändert beschlossen
+- TOP 8: Aufwertungsstudie für das städt. Gebäude Goerdelerstr. und den Vorplatz hier: Vorstellung durch das Büro Kada Wittfeld - geändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.10: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.11: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.12: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.13: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.14: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.15: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.8.16: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.10: nicht öffentlicher Tagesordnungspunkt
