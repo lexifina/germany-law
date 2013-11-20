@@ -1,0 +1,6 @@
+# TOP 7.1: Anfrage zum Bildungs- und Teilhabepaket - Schulsozialarbeit (BuT-S) in der Stadt Spenge
+
+- Sitzung: Schul-, Jugend- und Sportausschuss (12. Sitzung) (2013-11-20)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/3553
