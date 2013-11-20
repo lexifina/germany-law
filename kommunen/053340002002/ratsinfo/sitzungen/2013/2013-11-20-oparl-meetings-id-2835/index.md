@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2013-11-20T17:00:00+01:00
+- Ende: 2013-11-20T19:50:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2835
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2835
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 18.09.2013 und 09.10.2013; die Niederschrift über die Sitzung des Rates der Stadt vom 09.10.2013 wird nachgereicht.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Wahl eines Beigeordneten/einer Beigeordneten für Bildung und Kultur, Schule, Jugend und Sport - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen- Haushaltsjahr 2013 -Überplanmäßige Bereitstellung von Mitteln im Produkt 050202 - Leistungen nach dem AsylbLG - - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2013Zufahrt von der Krefelder Straße zum Parkhaus Tivoli, PSP-Element 5 - 011301 - 900 - 01100 - 300 - 2 Genehmigung einer Dringleichkeitsentscheidung - ungeändert beschlossen
+- TOP 6: I. (vereinfachte) Änderung des Bebauungsplanes Nr. 894 S- Lütticher Straße / Hasselholzer Weg- (Teil Süd) für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Hasselholzer Weg, Am Adamshäuschen, Preusweg und Lutherweghier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - vertagt
+- TOP 7: Satzung über die Erhebung von Beiträgen nach § 8 Kommunalabgabengesetz (KAG) für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage "Annastraße" von Fischmarkt bis Frère-Roger-Straße (Fußgängergeschäftsstraße) - ungeändert beschlossen
+- TOP 8: 26. Nachtrag zur Straßenreinigungs- und Gebührensatzung der Stadt Aachen vom 14.12.1987 - ungeändert beschlossen
+- TOP 9: Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - ungeändert beschlossen
+- TOP 10: Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000 - ungeändert beschlossen
+- TOP 11: Wirtschaftsplan 2014 für den Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 12: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2014 - ungeändert beschlossen
+- TOP 13: Kosten der Inklusionhier: Antrag der CDU-Fraktion vom 26.07.2013 - geändert beschlossen
+- TOP 13.1: Kosten der Inklusionhier: Antrag der CDU-Fraktion vom 26.07.2013 - ungeändert beschlossen
+- TOP 14: Überarbeitung des Wanderangebots im Aachener Stadtwald und seinem Vorland mit Einführung eines Knotenpunktensystems - ungeändert beschlossen
+- TOP 15: Städteregion - Beteiligungsverfahren zur künftigen Förderung des Verein für allgemeine und berufliche Weiterbildung e.V. (VABW) - vertagt
+- TOP 16: Sachstandsbericht Zentrales IT-Management, Budget und strategische Planung;Ratsantrag der SPD-Fraktion vom 15.10.2013 - vertagt
+- TOP 17: Fortführung der städt. Schulsozialarbeit im Rahmen des Bildungs- und Teilhabepakets über den 31.12.2013 hinaus - ungeändert beschlossen
+- TOP 18: Anfragen
+- TOP 19: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 20: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 21: Raumplanung Ludwig Forum für Internationale Kunsthier: Umgestaltung des Eingangsbereichs des Ludwig Forums - geändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
