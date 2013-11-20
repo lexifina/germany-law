@@ -1,0 +1,71 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2013-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3040451
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3040451
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Kath. Männerfürsorgeverein München e.V. Gestaltung und Dekoration der Weihnachtsfeier am 24.12.2013
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP 1: (E) Schaffung einer sicheren Überquerungsmöglichkeit über die Auerfeldstraße, auf Höhe der Sieboldstraße/ Bushaltestelle Schwester-Eubulina-Platz Empfehlung Nr. 08-14 / E 01723 der Bürger- versammlung des 5. Stadtbezirkes Au-Haidhausen am 07.02.2013 Querungshilfe über die Auerfeldstraße in Höhe Sieboldstraße bzw. Schwester-Eubulina-Platz Antrag Nr. 08-14 / B 04413 des Bezirksausschusses des 5. Stadtbezirkes - Au-Haidhausen vom 19.09.2012 - <div>nach Antrag</div>
+- TOP 1.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 1.1.: Leerstehender Wohnraum im Besitz der Landeshauptstadt München bzw. deren Tochter-Gesellschaften Gewofag und GWG
+- TOP 1.2.: Sozialregion München ? Versorgung durch das Bürgerhaus Orleansplatz
+- TOP 1.3.: Rechtliche Konsequenzen der finanzielle Beteiligung der Landeshauptstadt München am zweiten S-Bahn Tunnel
+- TOP 1.4.: Bürgerinformation bei Instandsetzungsarbeiten an Kinderspielplätzen
+- TOP 1.5.: Mädchenspielplatz am Tassiloplatz muss dauerhaft bleiben
+- TOP 1.6.: Gravelottestraße 4
+- TOP 1.7.: BA 5 an den Planungen zu "Isar-Events" beteiligen
+- TOP 1.8.: Bepflanzung vor der Schule am Simon-Knoll-Platz
+- TOP 1.9.: Einzäunung der Rasenfläche vor der Schule am Simon-Knoll-Platz
+- TOP 1.10.: Reinigung der Bürgersteige vor der Schule am Simon-Knoll-Platz
+- TOP 1.11.: Mülleimer in der Umgebung der Simon-Knoll-Schule
+- TOP 1.12.: Hundetoiletten am Auer Mühlbach
+- TOP 1.13.: Max-Weber-Platz - Mehr Sauberkeit vor der Stadtsparkasse
+- TOP 1.14.: Verbesserung der Sauberkeit auf dem Wiener Platz
+- TOP 1.15.: Wirksame Staubfilter für Kehrmaschinen
+- TOP 1.16.: Freihalten des Gehweges in der Nigerstraße
+- TOP 1.17.: Ostbahnhof - mehr Platz für Fußgänger
+- TOP 1.18.: Verbesserung der Situation für Fußgänger am Treppenabgang von der Ludwigsbrücke zum Müller`schen Volksbad
+- TOP 1.19.: Sedanstraße: Fußgängerquerungshilfe mit Pollern schützen
+- TOP 1.20.: Prüfung der Auswirkungen von Tempo 30 in der Wörthstraße
+- TOP 1.21.: Bänke auf dem Orleansplatz instandsetzen bzw. ergänzen; Anbringung größerer Mülleimer
+- TOP 1.22.: Abschlussarbeiten Welfenstraße
+- TOP 1.23.: Erneuerung von Fahrbahnmarkierungen (Schiltbergerstraße, Zeppelinstraße, Eduard-Schmid-Straße)
+- TOP 1.24.: Poller an den Baumgraben erneuern (u.a. Belfortstraße, Breisacher Straße)
+- TOP 1.25.: Radweg rechts der Isar: Ergänzung durch Rad-/Fußgängerampel am Maximilianeum
+- TOP 1.26.: Sachstandsbericht zur Radwegplanung in der Rosenheimer Straße zwischen Rosenheimer Platz und Orleansstraße
+- TOP 1.27.: Grünfläche Tauben- / Ecke Falkenstraße; Schutz durch Querbügel und Nachpflanzung
+- TOP 1.8.2: Reaktionen auf BA-Schreiben
+- TOP 1.8.3: Weitere Unterrichtungen
+- TOP 1.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.1.: Regsam
+- TOP 1.2.: Kinder und Jugend
+- TOP 1.3.: Behinderte und Barrierefreiheit
+- TOP 1.4.: Ausländer und Flüchtlinge
+- TOP 1.5.: Frauen und Mädchen
+- TOP 1.6.: Internet
+- TOP 1.7.: Baumschutz
+- TOP 1.1.: Berichte von wahrgenommenen Terminen
+- TOP 1.2.: Nächste UA-Sitzungen
+- TOP 1.3.: Nächste BA-Sitzung
+- TOP 1.4.: Sonstige Termine
+- TOP 1.1.: Entscheidungen
+- TOP 1.2.: Anhörungen
+- TOP 1.3.: Unterrichtungen
