@@ -1,0 +1,57 @@
+# 62. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-11-21T16:00:00+01:00
+- Ende: 2013-11-21T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2621
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2621
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_11_21 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00150954.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: 4. Einwohnerinnen- und Einwohnerfragestunde
+- TOP 3.1: Vermüllung städtischer Grünflächen - erledigt
+- TOP 3.2: Sanierung Gymnasium Dreikönigschule - erledigt
+- TOP 3.3: Polizeiverordnung Äußere Neustadt - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 6: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 7: Umbesetzung im Ortsbeirat Leuben - gewählt
+- TOP 8: Umbesetzung im Ortsbeirat Plauen - gewählt
+- TOP 9: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - gewählt
+- TOP 10: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - gewählt
+- TOP 11: Umbesetzung im Ausschuss für Soziales, Gesundheit und Wohnen - gewählt
+- TOP 12: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen - gewählt
+- TOP 13: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 14: Umbesetzung im Beirat Gesunde Städte - Zustimmung
+- TOP 15: Neubesetzung des Umlegungsausschusses - Zustimmung
+- TOP 16: Wahl des Gemeindewahlausschusses für die Kommunalwahlen am 25. Mai 2014 - Zustimmung
+- TOP 17: Satzung über die Erhebung einer Kurtaxe - Zustimmung mit Änderung
+- TOP 18: Jahresabschlüsse 2012 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung
+- TOP 19: Bestellung der Wirtschaftsprüfungsgesellschaft für die Jahresabschlüsse der beiden städtischen Krankenhäuser für die Jahre 2013 und 2014 - Zustimmung
+- TOP 20: Bestellung eines Wirtschaftsprüfers für die Prüfung der Jahresabschlüsse 2013 bis 2014 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 21: Bestellung eines Wirtschaftsprüfers für die Prüfung der Jahresabschlüsse 2013 bis 2017 einschließlich Prüfung der Ordnungsmäßigkeit der Geschäftsführung nach § 53 HGrG für den Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 22: Wirtschaftsplanung 2014 der Eigenbetriebe der Landeshauptstadt Dresden - punktweise Zustimmung mit Änderung
+- TOP 23: NEUES RATHAUS DRESDEN, Bereitstellung von überplanmäßigen Haushaltsmitteln - Ersetzung
+- TOP 24: Verkehrsbauvorhaben Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee - Teilbeschlussfassung mit Vertagung
+- TOP 25: Weitere Umsetzung des Lokalen Handlungsprogramms für Toleranz und Demokratie und gegen Extremismus (LHP Toleranz) ab 2014, schwerpunktmäßige Fortschreibung - Zustimmung
+- TOP 26: Fortschreibung der Sportentwicklungsplanung der Landeshauptstadt Dresden (FoSep 2025) - punktweise Zustimmung
+- TOP 27: Standortverlagerung des Beruflichen Schulzentrums für Wirtschaft „Franz Ludwig Gehe“ (derzeit: Berthelsdorfer Weg 2, 01279 Dresden) - Zustimmung mit Ergänzung
+- TOP 28: Veränderung der Subventionierung der Kosten der Unterbringung und Betreuung im Sportschulinternat des Sportschulzentrums Messering 2 a, 01067 Dresden - Zustimmung
+- TOP 29: Vereinbarungen mit der Betriebsgesellschaft ESCD Dresden mbH (BG ESCD mbH) zur Absicherung des Spielbetriebes der Saison 2013/2014 - Fristverlängerung zur Abgabe des Sanierungskonzeptes einschließlich Wirtschaftsplan - Zustimmung mit Änderung
+- TOP 30: Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden aus dem Jahr 2003 - Zustimmung mit Änderung
+- TOP 31: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Abwassergebühren (Abwassergebührensatzung) - Zustimmung
+- TOP 32: Satzung zur Änderung der Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 33: Entgeltordnung für die Museen und Galerien der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 34: Städtebauliches Entwicklungskonzept für das Stadtumbaugebiet Westlicher Innenstadtrand als Grundlage für die Beantragung von Fördermitteln im Rahmen der Städtebauförderung - Zustimmung
+- TOP 35: Beschleunigte Umsetzung der Komplexmaßnahme Pennricher Straße - Zustimmung
+- TOP 36: Vorhabenbezogener Bebauungsplan Nr. 6014, Dresden-Langebrück, Erweiterung "Micro-Epsilon Optronic" - Zustimmung mit Ergänzung
+- TOP 37: ausgereichte Informationsvorlagen
+- TOP 37.1: Konzept zur Umsetzung und nachhaltigen Verankerung von Gender Mainstreaming in der Landeshauptstadt Dresden - Fortschreibung 2013 - zur Kenntnis genommen
+- TOP 37.2: Rahmenplan Nr. 789, Dresden-Reick/Strehlen/Gruna, Wissenschaftsstandort Dresden-Ost - zur Kenntnis genommen
