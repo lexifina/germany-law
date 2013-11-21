@@ -1,0 +1,115 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2809503
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2809503
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.4.: Nachbesetzung der Unterausschüsse - <div>siehe Protokoll</div>
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: 17.10.2013 - <div>zur Kenntnis genommen</div>
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Konzert am 24.11.2013 - <div>Zustimmung in beantragter Höhe</div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Gewerbe & Eigentümerverband Trudering e.V. Auf und Abbau der Weihnachtsbeleuchtung sowie Auftaktveranstaltung am 29.11.2013 - <div>Zustimmung in beantragter Höhe</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Fußballmöglichkeiten in der Messestadt - <div>Zustimmung und Weiterleitung mit Änderungen</div>
+- TOP 2.2.: Absicherung des Zugangs zu den Läden an der Friedenspromenade durch einen Handlauf - <div>Zustimmung und Weiterleitung mit Änderungen</div>
+- TOP 2.3.: Nutzung des Durchgangs zum S-Bahnbereich- Gronsdorf nur noch für Fußgänger und Errichtung einer versetzten Absperrung für Radfahrer - <div>Durchführung eines Ortstermins</div>
+- TOP 2.4.: Verkehrsberuhigung zwischen Schatzbogen und An der Point - <div>teilweise Zustimmung und Weiterleitung mit Änderungen</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Kinderarztpraxis im 4. Bauabschnitt Wohnen in der Messestadt - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Verlängerung der Öffnungszeiten des Friedhofs Riem - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Fahrradfahrer im Bereich des Friedhofs Riem - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Telefonverzeichnis der Münchner Stadtverwaltung der Öffentlichkeit zugänglich machen ? Die bewährte Praxis anderer Städte übernehmen - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Mittelschule an der Feldbergstraße München-Trudering Unnützwiese Installation fester Tore mit Kunstrasen - <div>weiteres Schreiben an das Baureferat</div>
+- TOP 3.6.: Ballspielverbot für den Platz der Menschenrechte - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Planungssicherheit an der Truderinger Straße - <div>vertagt in 12/2013</div>
+- TOP 3.8.: Baumbepflanzung in der Friesenstraße/Truderinger Straße - <div>zur Kenntnis genommen</div>
+- TOP 3.9.: Wann kommen die Kleinbusse in der Messestadt? - <div>weiteres Schreiben an das RAW</div>
+- TOP 3.10.: Willkommen auf der Wärmeinsel München - begünstigt durch Nachverdichtung und Versiegelung in den gartenstadtähnlichen Münchner Siedlungsgebieten? (siehe auch Sitzungsvorlage Nr. 08-14/ V 13228, Beschluss des Umweltausschusses vom 12.11.2013 (SB)) - <div>zur Kenntnis genommen</div>
+- TOP 3.11.: Wie erfolgt die Belegung von Wohnungen, die im Eigentum von Privaten oder Fonds stehen und die mit EOF-Mitteln (Einkommensorientierter Wohnungsbau) gefördert wurden? - <div>zur Kenntnis genommen</div>
+- TOP 3.12.: Herstellung von Verkehrsflächen Bebauungsplan mit Grünordnung Nr. 2007 Leibengerstraße - <div>zur Kenntnis genommen</div>
+- TOP 3.13.: Zehntfeldstrasse: Tempo 60 in der 30er Zone - <div>zur Kenntnis genommen</div>
+- TOP 3.14.: Heltauerstraße; Ablagerung von Unrat und Schrottfahrzeugen
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Einrichtung einer Blinkhaltestelle an der Bergerwaldstraße, Buslinie 192 - <div>nach Antrag und Weiterleitung an die MVG</div>
+- TOP 4.2.: Abkoppelung Graf-Lehndorff-Straße - <div>Neufassung des Beschlusses und Weiterleitung an das KVR</div>
+- TOP 4.3.: Vorklasse für die Riemer Schule an der Lehrer- Götz- Straße - <div>nach Antrag und Weiterleitung an das RBS</div>
+- TOP 4.4.: Aktives Zentrum Trudering- Planungsgrundlagen zügig schaffen - <div>vertagt in 12/2013</div>
+- TOP 4.5.: Weiteres Vorgehen zur Bekämpfung des Asiatischen Laubholzbockkäfers transparent erörtern - <div>nach Antrag und Weiterleitung</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Einrichtung einer Bücherbushaltestelle, einer Anfahrtszone und eines allgemeinen Behindertenparkplatzes an der Grundschule in der Markgrafenstraße - <div>Zustimmung</div>
+- TOP 5.2.: Langfristige Stadtentwicklung: Gutachten zur Klima-Perspektive und -Abschätzung innerhalb er geplanten Nord-Ost- Bebauung abwarten, Einarbeitung der Ergebnisse der beim Deutschen Wetterdienst in Auftrag gegebenen Studie, Empfehlung Nr. 08-14/ E 01650 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 25.10.2012 - <div>Zustimmung</div>
+- TOP 5.3.: Beschlussentwurf Umfahrung Kirchtrudering Vertiefende Untersuchungen - <div>Beschluss des BA 15 </div>
+- TOP 5.4.: Ergänzungen zu TOP 5.3 - <div>siehe TOP 5.3</div>
+- TOP 5.5.: Nikolausfeier auf dem Truderinger Festplatz am 08.12.2013 - <div>Zustimmung</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Vorstellung des Selbsthilfevereins für Dystonie- Betroffene (vertagt aus 10/2013, TOP 7.1.1) - <div>zur Kenntnis genommen</div>
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Schneebergstraße 32
+- TOP 7.2.: Vogesenstraße 46d - <div>Zustimmung</div>
+- TOP 7.3.: Reiherweg 9, Haus A - <div>Zustimmung</div>
+- TOP 7.4.: Reiherweg 9, Haus B - <div>Zustimmung</div>
+- TOP 7.5.: Emplstraße - <div>Zustimmung mit Hinweisen</div>
+- TOP 7.6.: Emplstraße 5 - <div>siehe TOP 7.3.5</div>
+- TOP 7.7.: Bauleitplanung der Gemeinde Aschheim Aufstellung des Bebauungsplanes Nr. 042/02 "Sportpark Aschheim, 2. Teiländerung" Verfahren nach § 4 Abs. 1BauGB - <div>zur Kenntnis genommen</div>
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Vorstellung eines möglichen Konzepts zur Straßenreinigung in der Messestadt
+- TOP 7.2.: Radverkehrsführung Friedenspromenade - <div>zur Kenntnis genommen</div>
+- TOP 7.3.: Vorübergehender Taxistandplatz auf dem Grundstück westlich Paul- Wassermann- Straße und nördlich Joseph- Wild- Straße (Alfons Schuhbeck Teatro) - <div>zur Kenntnis genommen</div>
+- TOP 7.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Oslostraße 10 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Mehrjahresinvestitionsprogramm für die Jahre 2013- 2017 - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Budget der Bezirksausschüsse, Sachbericht des Sommerfestes in der Siedlung Widmannstraße - <div>zur Kenntnis genommen</div>
+- TOP 7.3.: Budget der Bezirksausschüsse; nicht verbrauchte Restmittel - <div>zur Kenntnis genommen</div>
+- TOP 7.4.: Antrag auf Budgetmittel des BA 15 hier: Verwendung für eigene Veranstaltungen (max. 20% Ihres Jahresbudgets) Gedenkfeier zur Reichskristallnacht am 09.11.2013 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Neubau von Mehrfamilienhäusern auf FlNr. 87/2, Karlsburgerstraße- hier Bestand der schützenswerten Baumreihe (Bürgerschreiben) - <div>zur Kenntnis genommen</div>
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Grundelstr.13a, Waldschulstr.37, Heilwigstr.70a, Evereststr.28, Dresselstr.17 Flußaalweg 14, Tsingtauerstr.53a, Spieljochstr.14, Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Friedenspromenade 115 Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Mauerseglerstr. 9 Plan 8.3 Von-Erckertstr.21a 8.4 Funtenseestr.15 8.5 Westermeierstr.33 8.6 Xaver-Weismor-Str.45 8.7 Scheibmeirstr.27 8.8 Graf-Ottenburg-Str.16 8.9 Barbenweg 8 8.10 Zehntfeldstr.175 8.11 Stieglitzweg 11 8.12 Bartholomäer-Str.1 8.13 Togostr.26-28 8.14 Möwestr.9 8.15 Friedenspromenade 115 Von der Unteren Naturschutzbehörde die Fällung vorab genehmigt. Bereits 2008 die Fällung genehmigt. Siehe TOP 8.1 8.16 Wachtelweg 24 8.17 Bithälmerstr.78 8.18 Bithälmerstr.76 / Salzmeserstr,8-10 8.19 Solalindenstr.68 8.20 Pfennigweg 4a 8.21 Ottilienstr.61 8.22 Tangastr.38-38a 8.23 Salzmesserstraße 62 8.24 Edeltruadstraße 20 8.25 Elfriedenstraße 20 8.26 Vorderrrißstraße 5 8.27 Teuchertstraße 22-24 8.28 Brodstraße 4 8.29 Am Hochstand 19 8.30 Mönchbergstraße 32 8.31 Von-Erckert-Platz 17 8.32 Florastraße 32 8.33 Wasserburger Landstraße 17a 8.34 Wiesbachhornstraße 27-29 8.35 Heinrich- Wieland- Straße 83 - <div>Zustimmung wie vom UA vorgschlagen</div>
+- TOP 9: Verschiedenes
+- TOP 9.1.: Beauftragte gegen Rechtsextremismus; Finanzierung von Veranstaltungen aus der Verwaltungskostenpauschale - <div>zur Kenntnis genommen</div>
+- TOP 9.2.: Verkehrsberuhigter Bereich Martin-Empl-Ring in München-Riem - <div>zur Kenntnis genommen</div>
+- TOP 9.3.: Aufstellung einer Almhütte Ecke Edingburghplatz/ Olof-Palme Straße, Mitteilung des Kommunalreferats - <div>Antrag wird verlangt, Kenntnisnahme</div>
+- TOP 9.4.: Stellungnahme des BA 15 zum Stadtratsbeschlussentwurf CarSharing in München - <div>Weiterleitung an das KVR</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Trennung der städtischen Kindertageseinrichtungen: Unnützstraße 28/ Forellenstraße 5
+- TOP 10.2.: Mitteilung über ein Grundstücksgeschäft: 10.13.1 Finkenacker- Weg
+- TOP 10.3.: 10.3 Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.3.1 Kreuzerweg 25 10.3.2 Kreuzerweg 27 10.3.3 Turnerstraße 33 10.3.4 Reiherweg 9 10.3.5 Niobestraße 2 10.3.6 Toni-Schmid-Straße 7b
+- TOP 10.4.: Versammlung unter freiem Himmel am 31.10.2013, Willy- Brandt- Platz 1
+- TOP 10.5.: Städtebauliche Entwicklungsmaßnahme gemäß §§ 165ff. BauGB für den Bereich Nordosten;- Zwischenbericht und weiteres Vorgehen, - Erweiterung des Umgriffs um den Bereich zwischen der Bahnlinie München- Mühldorf (südlich) und der Riemer Straße (nördlich), - Vergabe von Gutachten und weiteren externen Leistungen Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering- Riem Sitzungsvorlagen Nr. 08-14/ V 13044, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 (VB)
+- TOP 10.6.: Kindertagesstätten sonstiger Träger; Haus für Kinder Am Moosfeld 85 im 15. Stadtbezirk Trudering- Riem Leistung eines Baukostenzuschusses Sitzugnsvorlage Nr. 08-14/ V 13186, Beschluss des Ausschusses für Bildung und Sport vom 13.11.2013 (SB)
+- TOP 10.7.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2013- 2017, Einzelplan 4/ Sozialbereich Sitzungsvorlage Nr. 08-14/ V 13042, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.11.2013 (VB)
+- TOP 10.8.: Haushaltsplan 2014 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale Sitzungsvorlage Nr. 08-14/ V 12995, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 12.11.2013 (SB)
+- TOP 10.9.: Haushaltsplan 2014 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 08-14/ V 13012, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.11.2013 (SB)
+- TOP 10.10.: Haushaltsplan 2014 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 08-14/ V 13051, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013 (SB)
+- TOP 10.11.: Haushaltsplan 2014 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 08-14/ V 13021, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 12.11.2013 (SB)
+- TOP 10.12.: Mehrjahresinvestitionsprogramm für die Jahre 2013-2017 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahmen zu den Anträgen der Bezirksausschüsse Sitzungsvorlage Nr. 08-14/V 13302, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 (VB)
+- TOP 10.13.: Mehrjahresinvestitionsprogramm 2013-2017 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013-2017 Sitzungsvorlagen Nr. 08-14/ V 13227, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 (VB)
+- TOP 10.14.: Messestadt Riem Bebauungsplan mit Grünordnung Nr. 2065 Willy- Brandt- Allee (südlich), Astrid- Lindgren- Straße (westlich), Michael- Ende- Straße (beidseits), Elisabeth- Mann- Borgese- Straße (nördlich), Heinrich- Böll-Straße (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728h und Nr. 1728 I und des Bebauungsplanes Nr. 1952)- Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss- Stadtbezirk 15 Trudering- Riem Sitzungsvorlage Nr. 08-14/ V 12391, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013
+- TOP 10.15.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des Mehrjahresinvestitionsprogrammes 2012-2016 Sitzungsvorlage Nr.: 08-14/ V 12315 Beschluss des Stadtrates vom 24.07.2013
+- TOP 10.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.17.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Lärmsanierung an Schienenwegen der Eisenbahnen des Bundes: Neubau von Lärmschutzwänden auf der Eisenbahnstrecke Nr. 5510 München- Rosenheim im Abschnitt Gronsdorf, km 17,100 bis km 18,725 Herstellung des Benehmens
+- TOP 10.18.: Vollzug der Straßenverkehrsordnung (StVO); Filmaufnahmen auf öffentlichem Verkehrsgrund am 13.11.2013 Truderinger Straße- S- Bahn-Unterführung
+- TOP 10.19.: Mehrjahresinvestitionsprogramm (MIP) 2013- 2017 1. Investitionsmaßnahmen für Schulen. Kindertageseinrichtungen und Sportanlagen 2. Verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 08-14/ V 13279, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 13.11.2013
+- TOP 10.20.: Feldbergstraße/ Zehntfeldstraße/ Hugo-Lang-Bogen Kreuzungsausbau; LZA- Austausch im 15. Stadtbezirk Trudering- Riem Projektkosten( Kostenobergrenze): 950.00? Projektgenhemigung Sitzungsvorlage Nr. 08-14/ V 13171, Beschluss des Bauausschusses vom 19.11.2013
+- TOP 10.21.: Frühzeitige und umfassende bürgerschaftliche Planungsbedingung beim städtebaulichen Projekt ?Entwicklungsgebiet München Nordost?: grundlegendes Bürgergutachten und nachfolgende Planungszelle in Ablehnung an das ?MitDenken- Programm? Empfehlung Nr. 08-14/ E 01651 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 25.10.2012 Sitzungsvorlage Nr. 08-14/ V 11826, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 (SB)
+- TOP 10.22.: Energienutzungsplan- nachhaltige und vorausschauende Energieplanung für München Antrag Nr. 08-14/ A 03331 der Stadtratsfraktion DIE GRÜNEN/ RL vom 21.05.2012 Sitzungsvorlage Nr. 08-14/ V 13415, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 04.12.2013 (VB)
+- TOP 10.23.: Arbeiten im Straßenraum Riemer Straße zwischen Turfstraße und Burgauer Straße (Straßenbauarbeiten) vom 07.11.2013 bis 29.11.2013 (4 Arbeitstage bzw. Nächte zwischen 23.00 Uhr und 06.00 Uhr)
+- TOP 10.24.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen Standarderhöhung und Finanzierung - Endlich auch die Radwege professionell Schneeräumen- oder wann bleibt München endlich fahrradfreundlich auch im Winter? Antrag Nr. 08-14/ A 04018 von Herrn Stadtrat Dr. Georg Kronawitter und Herrn Stadtrat Richard Quaas vom 27.02.2013 ? Radlhauptstadt München auch im Winter- Verkehrssicherheit auf Münchens Radwegen auch im Winter und bei Minusgraden gewährleisten Antrag Nr. 08-14/ A 04035 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.02.2013 ? Winterdienst auf Gehbahnen Antrag Nr. 08-14/ A 04667 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Bettina Messinger vom 04.10.2013 Sitzungsvorlage Nr. 08-14/ V 12710, Beschluss des Bauausschusses vom 19.11.2013
