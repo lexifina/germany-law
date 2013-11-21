@@ -1,0 +1,52 @@
+# Gemeinderat (28. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2013-11-21T18:05:00+01:00
+- Ende: 2013-11-21T20:55:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVxohFjnf_nmesKFnj8IFYQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1352
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZpyhPEQxkubDc354JmAZYJWPXPGMhxPKQylF4SKnSdf/Bekanntmachung_Gemeinderat_21.11.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeTjXWoyMIpquWrhbXn56BLry3v4H3wHtZdCcreqmNzP/Oeffentliche_Niederschrift_Gemeinderat_21.11.2013.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.10.2013 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung der 7. Änderung des Bebauungplans 17 A - Industriegebiet - a.) Beschluss über den Abschluss eines städtebaulichen Vertrags gem. § 11 BauGB b.) Aufstellungsbeschluss gem. § 2 BauGB i.V.m. § 13 BauGB c.) Beschluss über die Offenlage gem. § 3 Abs. 2 und § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: 1. Änderung des Bebauungsplans 14 F - Althoffstraße – a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung der 1. Änderung des Bebauungsplans 14 F - Althoffstraße - gem. § 11 BauGB b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a Abs. 2 Ziff. 1 BauGB i.V.m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Ergänzungssatzung gem. § 34 Abs. 4 Nr. 3 BauGB - Althoffstraße - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung der Ergänzungssatzung gem. § 34 Abs. 4 Nr. 3 BauGB - Althoffstraße - b.) Aufstellungsbeschluss gemäß § 34 Abs. 4 Nr. 3 i.V.m. § 13 BauGB c.) Beschluss über die Offenlage gemäß § 3 Abs. 2 BauGB i.V.m. § 13 Abs. 2 BauGB und die Beteiligung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB i.V.m. § 13 Abs. 2 BauGB. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: Bebauungsplan Nr. 57 DE – WK IV – a.) Zusammenführung der vorhabenbezogenen Bebauungspläne 57 D - WK IV - und 58 E - WK V - zum vorhabenbezogenen Bebauungsplan 57 DE - WK IV - b.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des vorhabenbezogenen Bebauungsplans 57 DE – WK IV – gem. § 11 BauGB c.) Aufstellungsbeschluss gemäß § 2 BauGB d.) Beschluss über die Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie die Beteiligung der Behörden und berührten Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB - Einstimmig, 1 Enthaltung(en)
+- TOP 3.5: 1. 43. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2. Bebauungsplan 60 S - Röttgens Weg - a.) zu 1. und 2. Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 43. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven und zur Aufstellung des Bebauungsplans 60 S - Röttgens Weg - b.) zu 1. und 2. Aufstellungsbeschlüsse gemäß § 2 Abs. 1 BauGB c.) zu 1. und 2. Beschluss über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 4.1: Änderungsvorschläge der Verwaltung zum Haushalt 2014 / Sanierungsplan - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Erlebnisraum Römerstraße (Via Belgica) - Perspektive 2015+ - 18 Ja-Stimme(n), 7 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Ermächtigungsübertragungen nach § 22 GemHVO - Zur Kenntnis genommen
+- TOP 5.2: Verabschiedung des Haushalts / Sanierungsplans 2014 - 20 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.3: Stellenplan 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Friedhofssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Friedhofsgebührensatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: 5. Änderung der Satzung über die Abfallentsorgung in der Gemeinde Aldenhoven in der Fassung der 4. Änderung vom 03. Juli 2008. - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Klimaschutzkonzept - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 8.2: Entgeltordnung für die Sporthallen der Gemeinde Aldenhoven; Erfahrungsbericht - Zur Kenntnis genommen
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.10.2013 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Auftragsvergaben
+- TOP 3.1: Neuanschaffung eines Feuerwehrfahrzeuges - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Bescheide über Grunderwerbssteuer - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Einsammlung und Transport von Wertstoffen und Abfällen ab 01.01.2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Interkommunale Zusammenarbeit
+- TOP 7.: Verschiedenes
