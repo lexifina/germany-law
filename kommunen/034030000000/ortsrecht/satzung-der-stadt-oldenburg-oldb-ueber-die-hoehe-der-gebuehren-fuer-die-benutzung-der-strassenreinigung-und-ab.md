@@ -1,8 +1,8 @@
-# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2013
+# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2014
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2012-11-26 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2013_vom_26.11.2012.pdf
+- Datum: 2013-11-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2014.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -12,9 +12,9 @@
 
 Satzung der Stadt Oldenburg (Oldb)
 
-über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2013 vom 26.11.2012
+über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2014 vom 25.11.2013
 
-Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.10 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 18.07.12 (Nds. GVBl. S. 279), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.07 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 18.07.12 (Nds. GVBl. S. 279), hat der Rat der Stadt Oldenburg (Oldb) am 26.11.2012 folgende Satzung beschlossen:
+Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.10 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 12.12.12 (Nds. GVBl. S. 589), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.07 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 18.07.12 (Nds. GVBl. S. 279), hat der Rat der Stadt Oldenburg (Oldb) am 25.11.2013 folgende Satzung beschlossen:
 
 §1
 
@@ -72,13 +72,17 @@ jährlich für einen Abfallbehälter mit einem Füllraum von
 
 7. 240 Liter
 
-8. 770 Liter
+8. 400 Liter
 
-9. 1 100 Liter
+9. 500 Liter
 
-29,80 €, 52,15 €, 74,50 €, 89,40 €, 119,20 €, 178,80 €, 357,60 €, 1.085,70 €, 1.551,00 €.
+10. 770 Liter
 
-Bei wöchentlicher Entleerung der in den Ziffern 8 und 9 genannten Behälter verdoppeln sich die betreffenden Gebühren.
+11. 1 100 Liter
+
+29,80 €, 52,15 €, 74,50 €, 89,40 €, 119,20 €, 178,80 €, 357,60 €, 564,00 €, 705,00 €, 1.085,70 €, 1.551,00 €.
+
+Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter verdoppeln sich die betreffenden Gebühren.
 
 (3) Die pauschale Jahresgebühr für die ersten 60 Liter Bioabfall je angeschlossenes Grundstück beträgt 15,00 €. Die Gebühren für das 14-tägliche Einsammeln von Bioabfall betragen danach jährlich für einen Abfallbehälter mit einem Füllraum von
 
@@ -116,15 +120,15 @@ Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 20,00 €.
 
-(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 133,35 €/t. Die Mindestgebühr beträgt 26,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
+(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 142,25 €/t. Die Mindestgebühr beträgt 28,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
 
 1. Sperrmüll
 
-25,30 €/m³
+27,00 €/m³
 
 2. Kompostierbaren Gartenabfällen
 
-25,30 €/m³.
+27,00 €/m³
 
 Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
@@ -161,4 +165,5 @@ Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
 73,50 € 10,00 €
 
-4 §3 Diese Satzung tritt am 01.01.2013 in Kraft. Oldenburg (Oldb), den 26.11.2012
+4
+§3 Diese Satzung tritt am 01.01.2014 in Kraft. Oldenburg (Oldb), den 25.11.2013
