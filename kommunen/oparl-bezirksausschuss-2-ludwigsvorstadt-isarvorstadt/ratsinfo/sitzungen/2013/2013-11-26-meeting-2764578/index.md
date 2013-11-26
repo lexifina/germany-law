@@ -1,0 +1,72 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2013-11-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2764578
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2764578
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Einsätze Münchner SommerSpielAktion 2014, Platzvorschläge ? PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen: Tumblingerschule, siehe 2013.10 II 2, II 3
+- TOP .1.: BA-eigene Veranstaltung: Gartenprojekt Isarbalkon an der Corneliusbrücke ? PLENUMSBESCHLUSS
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Klenzestr. 1, Erstellung von fünf zusätzlichen Appartements im 1.-5. OG (Klenzestr. 1 / Rumfordstr. 32, Vordergebäude) ? Eilentscheidung
+- TOP .2.: Klenzestr. 1, Neuorganisation Wohnheim sowie Nutzungsänderung der EG-Flächen zu Gewerbe (Klenzestr. 1 / Rumfordstr. 32, Rückgebäude) ? Eilentscheidung
+- TOP .3.: Klenzestr. 1, Nutzungsänderung 1.-6. OG, Arbeiterwohnheim für Frauen zu 34 Appartements ? Eilentscheidung
+- TOP .4.: Rothmundstr. 6, Einbau zweier Dachgeschoss-Wohnungen, Wiederherstellung des Dachprofils von 1896 sowie Einbau eines Personenaufzuges ? Eilentscheidung
+- TOP .5.: Schwanthalerstr. 67, Neubau Hauptgebäude, Modernisierung Rückgebäude mit Errichtung eines verglasten Verbindungsgangs im 1. OG ? Eilentscheidung
+- TOP .6.: Maistr. 8, Erneuerung des Dachstuhls mit Dachgeschoss-Ausbau zu zwei Wohneinheiten sowie Errichtung eines Außenaufzugs ? Eilentscheidung
+- TOP .7.: Westermühlstr. 24: Änderung der Freiflächengestaltung ? Tektur
+- TOP .8.: Bayerstr. 89: Umbau Bestandsgebäude, Nutzungsänderung von Büro- und Kinderkrippennutzung in Hotel- und Gaststättennutzung
+- TOP .9.: Schwanthalerstr. 47: Nutzungsänderung Boardinghaus ? Tektur, hier: Nutzungsänderung Spielhalle zu Laden und Personalwohnung zu Mietapartement, bauliche Veränderungen zur Erstellung bzw. Änderung von Lager-, Personal- und sonstigen Räumen
+- TOP .10.: Häberlstr. 17: Nutzungsänderung Jugendzentrum, Abbruch und Neuerrichtung Dachstuhl, Wiederausbau zweier DG-Wohnungen (VGB), Abbruch Dachstühle, Teilabbruch 3. OG (RGB), Aufstockung zweier Wohnungen, rückwärtiger Anbau von Glas-Außenaufzügen (VGB + RGB), energetische Sanierung (RGB) ? PLENUMSBESCHLUSS
+- TOP .11.: Landwehrstr. 79: Abbruch Bürogebäude mit TG, Neubau Wohngebäude mit TG ? PLENUMSBESCHLUSS
+- TOP .12.: Landwehrstr. 55: Dachgeschoss-Ausbau, Errichtung eines neuen Dachs mit einer Wohnung ? PLENUMSBESCHLUSS
+- TOP .13.: Rumfordstr. 42: Tektur ? VGB: Erneuerung Dachstuhl, Errichtung einer Wohneinheit m. Dachterrasse u. Galerie im DG, Außenaufzug u. Stahlbalkone an Südfassade, jetzt: 2 Wohneinheiten m. Dachterrasse, Logia u. Galerie im DG ? PLENUMSBESCHLUSS
+- TOP .14.: Schubertstr. 8: DG-Ausbau, Aufzugsanbau, Anbau von Wintergärten u. Balkonen, Zusammenlegung Wohnung UG/EG, Nutzungsänderung von vier Wohnungen zu Büros sowie Neubau von 4 Parkliften (gesamt 14 Stellplätze) ? PLENUMSBESCHLUSS
+- TOP .15.: Reichenbachstr. 31: Errichtung drei hofseitige Balkone VGB - PLENUMSBESCHLUSS
+- TOP .16.: Klenzestr. 22: Aufstockung, DG-Ausbau, Balkonanbau 4. OG ? PLENUMSBESCHL.
+- TOP .17.: Häberlstr. 9: Tektur - Dachaufstockung m. 9 Hotelzimmern in zwei Geschossen auf Seitengebäude, Errichtung Außentreppe; jetzt: 10 Hotelzimmer ? PLENUMSBESCHL.
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Stielerstr. 9, Antrag auf Baumfällung, 1 Ahorn ? PLENUMSBESCHLUSS
+- TOP .2.: Wittelsbacherstr. 20, Antrag auf Baumfällung, 1 Ahorn ? PLENUMSBESCHLUSS
+- TOP .3.: Dreimühlenstr. 2, Antrag auf Baumfällung, 1 Kastanie
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Viehhof-Gelände, siehe 2013.10 B 5.1 ? PLENUMSBESCHLUSS
+- TOP .2.: Bürgerbeteiligung St.-Pauls-Platz, weiteres Vorgehen im Anschluss an die Bürgerbeteiligung am 19.11.2013
+- TOP .1.: Anfrage zum Sachstand für das Konzept der Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund ? PLENUMSBESCHLUSS
+- TOP .2.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und gewerbliche Veranstaltungen auf privatem und öffentlichem privaten Grund ? PLENUMSBESCHLUSS
+- TOP .3.: Keinen Kulturstrand mehr auf dem Isarbalkon auf der Corneliusbrücke ? PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Holzstr. 29, Gaststätte ?Hey Luigi?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Dreimühlenstr. 30, Anfrage Erweiterung Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: ?Cirque du Soleil, Kooza?, 30.01.-02.03.2014, Theresienwiese
+- TOP .3.2: Verkehr
+- TOP .1.: Sandstrand auf der Corneliusbrücke, siehe 2013.10 C 5.1 ? siehe C 1.3
+- TOP .2.: Bürgeranliegen: Ampel in der Kapuzinerstr. / Häberlstr.
+- TOP .1: Termine
+- TOP .1.: Unterausschuss ?Planen und Bauen? am Montag, den 09.12.2013 um 19.00 Uhr in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 10.12.2013 um 19.00 Uhr in der Gaststätte "Schmeller Wirt", Schmellerstr. 17, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 11.12.2013 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung im Dezember entfällt. Die BA-Sitzung findet am Dienstag, den 17.12.2013 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide Verwendungsnachweise Schreiben des BA 1 an das Kulturreferat bezügl. Budget der Bezirksausschüsse Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses am 12.11.2013: Haushaltsplan 2014, Produkt- und Zielorientierte Ansätze für den Bereich ?Förderung freier Träger?: - des Amtes für Soziale Sicherung, Sitzungvorlage Nr. 08-14 / V 13012 - des Stadtjugendamtes, Sitzungsvorlage Nr. 08-14 / V 13051 - des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 08-14 / V 13021 - der Zentrale, Sitzungsvorlage Nr. 08-14 / V 12995 Kinderkrippe Zweibrückenstr. 12, Leistung eines Investitionskostenzuschusses, Ausschuss für Bildung und Sport vom 13.11.2013, Sitzungsvorlage Nr. 08-14 / V 13183
+- TOP .1.: 4.1 Baumaßnahmen SWM 4.2 Kunst i. Öffentl. Raum, ?Moving Munich?, 19.11.2013 Goehtepl., 20.11.2013 Gärtnerpl. 4.3 Bauvorhaben Bavariaring 5, ehemaliges Brausebad und Bedürfnisanstalt, Information der Lokalbaukommission zur baurechtlichen und denkmalschutzrechtlichen Genehmigung 4.4 Bauvorhaben Adlzreiterstr. 29, Antwortschreiben der Lokalbaukommission zur ablehnenden Stellungnahme des Bezirksausschusses, siehe 2013.08 B 3.1.5 4.5 Bauvorhaben Sonnenstr. 12, 12a, Antwortschreiben der Lokalbaukommission zur ablehnenden Stellungnahme des Bezirksausschusses, siehe 2013.06 B 3.1.1 4.6 Bauvorhaben Arndtstr. 5, Antwortschreiben der Lokalbaukommission zur ablehnenden Stellungnahme des Bezirksausschusses, siehe 2013.08 B 3.1.7 4.7 Mehrjahresinvestitionsprogramm 2013-2017, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 13.11.2013: - Fortsetzung der Reihenfolge großer Siedlungsmaßnahmen, Sitzungsvorl. 08-14/V13227 - Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 9 und 21, 08-14 / V 13302 4.8 Bauvorhaben Lindwurmstr. 77, Antwortschreiben der Lokalbaukommission zur ablehnenden Stellungnahme des Bezirksausschusses, siehe 2013.09 B 3.1.1 4.9 Radstreifen auf dem nördlichen Bavariaring, BA-Antrag Nr. 08-14 / B 04386, Antwortschreiben des Kreisverwaltungsreferates
+- TOP .2.: 4.10 Bauvorhaben Fraunhoferstr. 32, Antwortschreiben der Lokalbaukommission auf ablehnende Stellungnahme d. Bezirksausschusses, siehe 2013.06 B 3.1.16, 2013.07 B 3.1.25 4.11 Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen, Sitzungsvorlage Nr. 08-14 / V 12710 für Bauausschuss am 19.11.2013 4.12 Toiletten an der Isar, Sitzungsvorl. Nr. 08-14 / V 12127 für Bauausschuss am 19.11.2013 4.13 Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau, Bescheid des RGU 4.14 Energienutzungsplan ? nachhaltige und vorausschauende Energieplanung für München, Sitzungsvorlage Nr. 08-14 / V 13415, Gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses am 04.12.2013 4.15 Bauvorhaben St.-Paul-Str. 9, Antwortschreiben der Lokalbaukommission auf ablehnende Stellungnahme des Bezirksausschusses, siehe 2013.05 B 3.1.2 4.16 Bauvorhaben Isartalstr. 32, Antwortschreiben der Lokalbaukommission auf ablehnende Stellungnahme des Bezirksausschusses, siehe 2012.07 B 3.1.5
+- TOP .1.: 4.1 Versammlungen unter freiem Himmel 4.2 Filmaufnahmen auf öffentlichem Grund 4.3 Unveränderte Gaststättenfortführungen 4.4 Verkehrsrechtliche Anordnungen 4.5 Erlaubnisbescheide 4.6 Geschwindigkeitskontrollen im Bereich Waltherstr. / Maistr. / Häberlstr., Antwortschreiben des Kreisverwaltungsreferates, siehe 2013.09 II 3 4.7 Tollwood-Winterfestival 2013, Antwortschreiben des Kreisverwaltungsreferates zur Stellungnahme des Bezirksausschusses, siehe 2013.10 C 3.1.2 4.8 Lichtzeichenanlagen-Bauprogramm, Beschlussvorlage für Kreisverwaltungsausschuss am 26.11.2013, Sitzungsvorlage Nr. 08-14 / V 13447 4.9 Antwortschreiben des Kreisverwaltungsreferates zu Bürgerbeschwerden bezügl. des Open Air Kinos im Viehhof, siehe 2013.08 C 5.1 4.10 Widmung der Außengastronomiefläche Bavariaring 5, BA-Antrag Nr. 08-14 / B 05303, Antwortschreiben des Baureferates
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .2.: Veranstaltungen
