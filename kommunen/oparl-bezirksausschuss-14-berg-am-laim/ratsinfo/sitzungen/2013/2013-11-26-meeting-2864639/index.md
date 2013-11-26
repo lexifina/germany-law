@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-11-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2864639
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2864639
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Zusätzliche/r Schulweghelfer/in am Übergang St.-Michael-Straße (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 01736 der Bürgerver- sammlung des Stadtbezirkes 14 - Berg am Laim am 14.03.2013 - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.: Neumarkter Str. 43 - Nutzungsänderung zu Low-Budget-Hotel mit Aufstockung
+- TOP 3.1.2.1.: Radwege entlang der Neumarkter Str. und Hansjakobstraße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Planung der Einsätze der Münchner Sommerspielaktion 2014
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Freundes- und Förderkreis Kirchenmusik ok Adventskonzert am 08.12.2013 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Innere Mission, Diakonie in München und Oberbayern e.V. Spieleaktion für Asylbewerberkinder - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Flechtwerk2+1 gGmbH ? Für Kinder mit zwei Elternhäuser Benefiz-Aktion ?Künstler für Kinder? am 22.11.2013 - <div></div>
+- TOP 3.6.1.: Mühldorfstraße 26
+- TOP 3.6.2.: Plankensteinstraße 4
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Soziale Stadt 2013 - Fortschreibung, Lenkungsgruppe Stadtsanierung, Städtebauförderung
+- TOP 4.1.1.3.: Grafinger Str. 6 - Unveränderte Fortführung des Gaststättenbetriebs "Blue Sun" ("Noa")
+- TOP 4.1.1.4.: Grafinger Str. 35 - Unveränderte Fortführung des Gaststättenbetriebs "Grafinger Stuben"
+- TOP 4.1.1.5.: Mehrjahresinvestitionsprogramm 2013 - 2017 - Maßnahmen im 14. Stadtbezirk
+- TOP 4.1.1.6.: Mehrjahresinvestitionsprogramm 2013 - 2017 - Investitionsvorhaben Planungsreferat
+- TOP 4.1.1.7.: Mehrjahresinvestitionsprogramm 2013 - 2017 - Reihenfolge der Siedlungsmaßnahmen
+- TOP 4.1.2.1.: Verkehrsverträglichkeitsuntersuchung zur Einrichtung von Radverkehrsanlagen in der Rosenheimer Straße zwischen Orleansstraße und Rosenheimer Platz
+- TOP 4.1.2.3.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität - hier: Erweiterung des Sektor 4, Stadtbezirk 14
+- TOP 4.1.2.4.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen - Standarderhöhung und Finanzierung - Vorlagen-Nr. 08-14 / V 12710
+- TOP 4.1.2.5.: Schaffung einer An- und Abfahrtzone für die Kindertagesstätte St.-Michael-Str. 77
+- TOP 4.1.2.6.: Neumarkter Straße, Weihenstephaner Straße - Gefahrzeichen
+- TOP 4.1.2.7.: Verlängerung der "Tram Steinhausen" auch in Richtung Berg am Laim prüfen
+- TOP 4.1.3.1.: Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Errichtung einer mobilen Schulraumeinheit auf der Freisportanlage Josephsburgstraße 41
+- TOP 4.3.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 - Fortschreibung im Bauprogramm 2013 - Änderung des MIP 2012 - 2016 - Vorlagen-Nr. 08-14 / V 12315
+- TOP 4.3.3.: Kindertagesstätten gemeinnütziger Träger; Kindertagesstätte an der Baumkirchner Str. 26 - Leistung eines Baukostenzuschusses - Vorlagen-Nr. 08-14 / V 13297
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Haushaltsplan 2014 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" im Sozialreferat
+- TOP 4.5.1.: Telefonverzeichnis der Münchner Stadtverwaltung der Öffentlichkeit zugänglich machen ? Die bewährte Praxis anderer Städte übernehmen
+- TOP 4.5.2.: Verwendungsnachweise
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
