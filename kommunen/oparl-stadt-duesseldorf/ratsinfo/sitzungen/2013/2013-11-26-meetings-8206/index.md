@@ -1,0 +1,68 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-11-26T15:30:00+01:00
+- Ende: 2013-11-26T18:45:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8206
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8206
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00206086.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00206086.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00206086.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorstellung der VIVARTE-Ausstellung "Euroshop-Team" - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: SORAQ „Soziale Ressourcen für altersgerechte Quartiere“ - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Bau einer Dreifachturnhalle - zur Kenntnis genommen
+- TOP 10: Nebenzentrum Garath SW - zur Kenntnis genommen
+- TOP 11: "Nette Toilette" - zur Kenntnis genommen
+- TOP 12: Bezirks Bauunterhalt, Zeitdauer Ausschreibungen - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: S-Bahnhaltepunkt Hellerhof - einstimmig beschlossen
+- TOP 15: Zuschüsse an die BIG und den Spielmannszug Blau/Weiß - einstimmig beschlossen
+- TOP 16: Zuschuss an die Judoabteilung des GSV - einstimmig beschlossen
+- TOP 17: Zuschuss für den ASP - einstimmig beschlossen
+- TOP 18: Zuschuss für den Sportring Garath/Chor der FSG - mehrheitlich beschlossen
+- TOP 19: Bezirkliche Förderung für den GSV - einstimmig beschlossen
+- TOP 20: Bezirkliche Förderung für den Sportring-Süd Garath e.V. - einstimmig beschlossen
+- TOP 21: Zuschuss für den GSV 1966 e.V. - einstimmig beschlossen
+- TOP 22: ÖPNV-Anbindung des Stadtbezirkes 10 an die Universität - einstimmig beschlossen
+- TOP 23: Zuschuss aus Verfügungsmitteln für Weihnachtsbäume der Werbegemeinschaft garathACTIV+ - mehrheitlich beschlossen
+- TOP 24: Stolperfalle Fuß- und Radweg Reinhold-Schneider-Straße - einstimmig beschlossen
+- TOP 25: Ungehinderte Zufahrt für Feuerwehr und Rettungswagen am Caritas Altenheim - einstimmig beschlossen
+- TOP 26: Freizeitstättenkino - einstimmig beschlossen
+- TOP 27: Zuschuss für den Sportring Düsseldorf-Süd - einstimmig beschlossen
+- TOP 28: Zuschuss für die Werbegemeinschaft "garathACTIV+" - mehrheitlich beschlossen
+- TOP 29: Zuschuss für die Kabinenbeleuchtung des GSV - einstimmig beschlossen
+- TOP 30: Zuschuss für den Chor "Joyful Voices" - einstimmig beschlossen
+- TOP 31: Zuschuss für die Judoabteilung des GSV - einstimmig beschlossen
+- TOP 32: Vergabe restlicher Verfügungsmittel in 2013 - zur Kenntnis genommen
+- TOP 33: Bauunterhalt Produktsachkonto 011 111 050 (Liste a, b, c) - einstimmig beschlossen
+- TOP 34: Beschädigte Sitzbänke im HEZ wegen Verletzungsgefahr austauschen - einstimmig beschlossen
+- TOP 35: Zuschuss aus Verfügungsmitteln für SOS KInderdorf u. Freizeitstätte Garath - einstimmig beschlossen
+- TOP 36: Zuschussanträge an die BV - mehrheitlich abgelehnt
+- TOP 37: Zuschuss für die Weihnachtsbaumaufstellung durch die BIG - einstimmig beschlossen
+- TOP 38: Zuschuss für die Weihnachtsbaumaufstellun durch SOS Kinderdorf - einstimmig beschlossen
+- TOP 39: Zuschuss fürdie Weihnachtsbaumaufstellung in Garath Nord-West - einstimmig beschlossen
+- TOP 40: Zuschuss für den Spielmannszug Blau-Weiß zum 40-jährigen Bestehen - mehrheitlich beschlossen
+- TOP 41: Zuschuss für den Chor der Freizeitstätte Joyful Voices e.V. - einstimmig beschlossen
+- TOP 42: Zuschuss für die Anschaffung von Judomatten der GSV Judoabteilung - einstimmig beschlossen
+- TOP 43: Zuschuss für die Weihnachtsaktion der garathACTIV+ Werbegemeinschaft e.V. - mehrheitlich beschlossen
+- TOP 44: Zuschuss für den Sportring Garath e.V. - einstimmig beschlossen
+- TOP 45: Zuschuss für den Weihnachtsbaum im Zentrum Garath Süd-Ost - einstimmig beschlossen
+- TOP 46: Bauunterhalt 2013-Produktsachkonto 011 111 050 - einstimmig beschlossen
+- TOP 47: Einrichtung von Parkplätzen in Hellerhof-Ost - einstimmig beschlossen
+- TOP 48: Ausbesserung des Stichweges - zurückgezogen
+- TOP 49: Informationsvorlagen - zur Kenntnis genommen
+- TOP 50: Verschiedene Stellungnahmen - zur Kenntnis genommen
+- TOP 51: Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
