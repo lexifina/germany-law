@@ -1,0 +1,8 @@
+# TOP 2.1: Vorschläge zur Umgestaltung der oberen Frankfurter Straße sowie Hainstraße Antrag der Fraktion Bündnis90/Die Grünen vom 05.11.2013
+
+- Sitzung: Ausschuss für Stadtentwicklung und Umwelt (17. Sitzung) (2013-11-26)
+- Körperschaft: Stadt Kronberg im Taunus
+- Öffentlich: ja
+- OParl: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/39897
+- Ergebnis: Die Vorlage wird in die StVV geschoben.
+- Beratung: https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/14884
