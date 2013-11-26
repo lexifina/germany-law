@@ -1,0 +1,60 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-11-26T17:00:00+01:00
+- Ende: 2013-11-26T20:50:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7564
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7564
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00205958.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00205958.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00205958.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift ö. vom 15.10.2013 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: 3. Landschaftsplanänderung - „Grütersaaper Weg“ – Frühzeitige Beteiligung der Träger öffentlicher Be - einstimmig beschlossen
+- TOP 5: Öffentliche Beleuchtung in der Hardtstraße - einstimmig beschlossen
+- TOP 6: Kanalbau Glashüttenstraße - zur Kenntnis genommen
+- TOP 7: Lärmaktionsplan - zur Kenntnis genommen
+- TOP 8: Zuschuss an den Postsportverein Düsseldorf e. V. - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 9.1: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 10: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 11: Spiegel an der Keldenichstraße Ausfahrt Neunzigstraße - mehrheitlich beschlossen
+- TOP 12: Schaukästen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 13: Teilabgabe der Bergischen Kaserne - einstimmig beschlossen
+- TOP 14: Teilnutzung Bergische Kaserne Hubbelrath - einstimmig beschlossen
+- TOP 15: Schulwegengpass an der Dreherstraße - einstimmig beschlossen
+- TOP 16: Bericht Stadtbezirkskonferenz Seniorenarbeit - einstimmig beschlossen
+- TOP 17: Ampelschaltung Dreherstraße/Schönaustraße - einstimmig beschlossen
+- TOP 18: Haltestellenbereich Norbert-Schmidt-Straße - einstimmig beschlossen
+- TOP 19: Baumpflanzungen entlang der A3 im Düsseldorfer Stadtgebiet - einstimmig beschlossen
+- TOP 20: Test zur Auswirkung auf den Verkehr durch den Umbau der Benderstraße - mehrheitlich abgelehnt
+- TOP 21: Straßenbahnhaltestellen in der Benderstraße - mehrheitlich abgelehnt
+- TOP 22: Zwischennutzung der Gebäude Gräulinger Straße und Dernbuschweg ermöglichen - mehrheitlich abgelehnt
+- TOP 23: Lärmschutz Güterzugverkehr Grafenberg / Gerresheim I - einstimmig beschlossen
+- TOP 24: Lärmschutz Güterzugverkehr Grafenberg / Gerresheim II - einstimmig beschlossen
+- TOP 25: Tempo-Limit Benderstraße - einstimmig beschlossen
+- TOP 26: Signalanlage Neunzigstraße / Ecke Benderstraße - einstimmig beschlossen
+- TOP 27: Fußgängerüberweg Einmündung Märkische Straße / Dreherstraße - einstimmig beschlossen
+- TOP 28: Zentraldeponie Hubbelrath - einstimmig beschlossen
+- TOP 29: Pflasterung Fußgängerzone Gerresheim - einstimmig beschlossen
+- TOP 30: Spielstraße "Am Bürgerhaus" - einstimmig beschlossen
+- TOP 31: CO-Pipeline der BAYER MaterialScience AG (BMS) - einstimmig beschlossen
+- TOP 32: Verkehrssicherheit Bergische Landstr. (B7) im Abschnitt Höhe Araltankstelle bei Hubbelrath Dorf - einstimmig beschlossen
+- TOP 33: Restauration Fuchsjagd - zur Kenntnis genommen
+- TOP 34: Baumaßnahmen in der Benderstraße - zur Kenntnis genommen
+- TOP 35: Halle Staufenplatz - zur Kenntnis genommen
+- TOP 36: Baukostensteigerung Wehrhahnlinie / Benderstraße - vertagt
+- TOP 37: Verkehrszählung Benderstraße / Bergische Landstraße - zur Kenntnis genommen
+- TOP 38: Ausbau Straße "Am Gartenkamp", Ludenberg - zur Kenntnis genommen
+- TOP 39: Wäldchen Marie-Curie-Straße / Mansfeldstraße - vertagt
+- TOP 40: Sachstandsbericht Fußgängerüberweg und Bushaltestelle Bertastraße - zur Kenntnis genommen
+- TOP 41: Bodenpflasterung um den Offenen Bücherschrank - zur Kenntnis genommen
+- TOP 42: Lärmschutz BAB 3 im Bereich Hubbelrath - zur Kenntnis genommen
