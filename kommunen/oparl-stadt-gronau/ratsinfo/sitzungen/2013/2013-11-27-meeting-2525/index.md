@@ -1,0 +1,75 @@
+# Rat (45. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2013-11-27T18:00:00+01:00
+- Ende: 2013-11-27T23:47:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeDLj4EeBmdEn4D_GyY2qRw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2525
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUwOKiJskHaKUIvLhIhHuwQIIXY_QYrqPmGROGyun87M/Bekanntmachung_Rat_27.11.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZGKR9NRaKMnxZqH4jO-rsB7NpH9Dvj-WpETUaRsYrD3/Oeffentliche_Niederschrift_Rat_27.11.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Amtseinführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 3.: Einwohnerfragestunde
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Niederschrift vom 16.10.2013
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Sicherheitslage in Querungsbereichen der Ochtruper und Hermann-Ehlers-Straße; Antrag der FDP-Fraktion vom 27.10.2013 - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Prüfungsauftrag Begegnungsflächen auf ehemaligem Schulgelände; Antrag der SPD-Fraktion vom 15.11.2013 - Einstimmig, 0 Enthaltungen
+- TOP 5.3: Kleinspielfelder; Antrag der SPD-Fraktion vom 16.11.2013 - Einstimmig, 0 Enthaltungen
+- TOP 5.4: Geschwindigkeitsreduzierung auf 70 km/h für Teilbereiche der Alstätter und Steinfurter Straße; Antrag der UWG-Fraktion vom 15.11.2013 - Einstimmig, 0 Enthaltungen
+- TOP 5.5: Verlängerung der Tempo-30-Zone auf dem Amelandsbrückenweg in Epe; Antrag der UWG-Fraktion vom 15.11.2013 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Budgetbericht zum III. Quartal 2013 - Ohne Abstimmung
+- TOP 7.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - 40 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 9.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2012 der Stadtwerke Gronau GmbH 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wirtschaftsplan 2014 der Stadtwerke Gronau GmbH - 34 Jastimmen, 6 Neinstimmen, 1 Enthaltungen
+- TOP 12.: Veräußerung von EEX-Anteilen der Trianel GmbH - Einstimmig, 0 Enthaltungen
+- TOP 13.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2014 II. Abwassergebührenkalkulation für das Jahr 2014 - Einstimmig, 1 Enthaltungen
+- TOP 14.: Auswahl und Bestellung eines neuen Wirtschaftsprüfers für den Jahresabschluss 2013 für das Abwasserwerk der Stadt Gronau - Einstimmig, 2 Enthaltungen
+- TOP 15.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2012 Entlastung des Betriebsausschusses - Einstimmig, 2 Enthaltungen
+- TOP 16.: Wirtschaftsplan für das Jahr 2014 der Zentralen Bau- und Umweltdienste - 39 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Jahresabschluss 2012 der Forstdienstleistung Gronau GbR - Einstimmig, 0 Enthaltungen
+- TOP 18.: Zukunft der Förderschulstruktur im Kreisgebiet Borken/Auswirkungen auf den Standort Pestalozzischule - Gutachten des Instituts für Schulentwicklungsforschung der TU Dortmund - Anträge der SPD-Fraktion und der CDU Fraktion zum Erhalt des Förderschulstandortes - Einstimmig, 0 Enthaltungen
+- TOP 19.: Zwischenbericht zur "Baumaßnahme“ Verlagerung der Wilhelmschule
+- TOP 20.: Neufassung der Sportförderrichtlinie für die Stadt Gronau und Anpassung der Entgelt- ordnung für die Benutzung der Turnhallen und Gymnastikräume - 35 Jastimmen, 5 Neinstimmen, 1 Enthaltungen
+- TOP 21.: Zukünftige Leitlinen der Innenstadtentwicklung unter Berücksichtigung der sich aus dem Erwerb der Hertie-Immobilie durch die Stadt Gronau ergebenden Konsequenzen - Einstimmig, 3 Enthaltungen
+- TOP 22.: Durchführung von vorbereitenden Untersuchungen nach § 141 BauGB für die Innenstadt von Gronau - Einstimmig, 0 Enthaltungen
+- TOP 23.: Verkehrsentlastung für den Ortskern Epe hier: Entzerrung des Verkehrs an der Gronauer Straße / Oststraße durch die Verteilung des Verkehrs auf das vorhandene Straßennetz - Einstimmig, 0 Enthaltungen
+- TOP 24.: Erneuerung der öffentlichen Straßenbeleuchtung in Gronau Bauprogramm, Erhebung von Ausbaubeiträgen - Einstimmig, 2 Enthaltungen
+- TOP 25.: Widmung von Verkehrsflächen im Bereich der Stadt Gronau für den öffentlichen Verkehr hier: Klosterstraße (Hofkamp bis Schoppenkamp) - Einstimmig, 0 Enthaltungen
+- TOP 26.: Konzept zur Bewirtschaftung von kommunalen Wirtschaftswegen in Gronau (Stand November 2013) - Einstimmig, 0 Enthaltungen
+- TOP 27.: Gemeinsames Vorgehen der abundanten Kommunen gegen das Stärkungspaktgesetz - Einstimmig, 0 Enthaltungen
+- TOP 28.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 29.: Sitzungstermine 2014 - Ohne Abstimmung
+- TOP 30.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 31.: Mitteilungen der Verwaltung
+- TOP 31.1: Gebäudetechnische Umsetzung der Schulentwicklung
+- TOP 31.2: Widmung von Radwegen entlang der Dinkel
+- TOP 31.3: Wartezeiten an Bahnübergängen
+- TOP 31.4: Einfahrt zur Buterlandschule
+- TOP 31.5: Beleuchtung in den Eper Bülten
+- TOP 32.: Anfragen
+- TOP 32.1: Ausleuchtung der Zuwegung vom Parkplatz zum Eingang des Jugendzentrums Stop (2. Stellv. d. BM Lüttikhuis)
+- TOP 32.2: Streupflichten der Stadt Gronau auf der Kreisstraße 25? (RM von Borczyskowski)
+- TOP 32.3: Fehlende Weihnachtsbeleuchtung in der Bahnhofstraße (RM Krause)
+- TOP 32.4: Reaktion der Behindertenbeauftragten bleibt aus (RM Krause)
+- TOP 32.5: Unterrichtung über die Ergebnisse der EURGIO-Rat-Sitzungen (RM Dr. Breuer)
+- TOP 32.6: Geschenkbörse am Wertstoffhof (RM Buchholz)
+- TOP 32.7: Neue Einwendungsmöglichkeiten gegen den Flughafen Twente? (RM Buchholz)
+- TOP 32.8: Verlegung von Glasfaser-Kabel im Stadtgebiet (RM Buchholz)
+- TOP 32.9: Fassadensanierung der Martin-Luther-Schule (RM Greitenevert, 1. Stellv. d. BM Doetkotte)
+- TOP 32.10: Genehmigung von Spielhallen an der Ochtruper Straße (RM Möllers)
+- TOP 32.11: Erschließungskosten Hovesaatstein (RM Möllers)
+- TOP 32.12: EUREGIO will anderes Gebäude beziehen (RM Gabbe, RM Bartels)
+- TOP 32.13: Überprüfung der Beleuchtung des Radwegs am Gymnasium (RM Buchholz)
+- TOP 32.14: Mitgliedschaft im EUREGIO-Rat (2. Stellv. d. BM Lüttikhuis)
+- TOP 32.15: Folgen der möglichen Aufgabe der Unter-Glas-Flächen der Stadtgärtnerei (RM Schultewolter)
