@@ -1,0 +1,59 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2013-11-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2728350
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2728350
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Ikarus e.V. (Initiativkreis ambulante Reha und soziale Dienste im Münchner Norden): Offener Brief zur Situation der Pflege und häuslichen Versorgung im Münchner Norden
+- TOP .1.: Münchner SommerSpielAktion 2014: Einsatzorte für die Spielbusse?
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Herzogstr. 105/Ecke Erich-Kästner-Straße: Genehmigung eines neuen Obst- und Gemüsestandes
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade Lesung am 18.03.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Vorweihnachtliche Aufführung am 21.12.2013
+- TOP .3.: (E) Budget der Bezirksausschüsse Offene Bücherschränke Schwabing West e.V. Kauf und Bereitstellung eines Bücherschrankes
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Silvesterlauf im Olympiapark und in der Ackermannstraße
+- TOP .2.1.: Planen
+- TOP .1.: Vorbescheid Infanteriestr. 11a: Neubau dreier Gebäude zur Nachverdichtung eines Campus
+- TOP .2.: Viktoriastr. 1: Erneuerung und Vergrößerung der Balkone
+- TOP .3.: Bauerstr. 35-35 a: Energetische Sanierung (Gebäudehülle, Fenster) und Balkonerneuerung
+- TOP .4.: Tektur Herzogstr. 43-45: Umbau und Erweiterung (Anbau) eines Wohn- und Geschäftshauses
+- TOP .5.: Vorbescheid Emanuelstr. 20: Aufstockung des Rückgebäudes um ein Geschoss
+- TOP .6.: Ackermannstraße: Neubau eines Gebäudes mit Serviceapartments sowie zweier Wohnhäuser mit gemeinsam genutzter Tiefgarage
+- TOP .7.: Bauerstr. 10-12: DG-Um- und -Ausbau sowie Neubau einer Garage mit mechanischem Parksystem
+- TOP .8.: Nordendstr. 62-64: Nutzungsänderung italienischer Schnellimbiss zu Pizzadienst mit Direktverzehr ohne Alkoholausschank
+- TOP .9.: Schwere-Reiter-Straße: Neubau zweier Gebäude mit Boardinghausnutzung, 53 Wohnungen, 3 Townhouses und Einzelhandelsflächen im EG mit gemeinsam genutzter Tiefgarage ? Tektur (vertagt aus 10/13)
+- TOP .10.: Max-von-Gruber-Str. 4-6: Nutzungsänderung einer Souterrainwohnung in ein Büro
+- TOP .11.: Parzivalstr. 63: Umbau und Sanierung (Haus 1 / 4.+5. OG)
+- TOP .12.: Bauerstr. 9: Erneuerung der Balkone
+- TOP .2.2.: Wohnen
+- TOP .1.: Die Grünen: Busanbindung Ackermannbogen an den Scheidplatz
+- TOP .2.1.: Umwelt
+- TOP .1.: Gestaltung der Urbanen Mitte des Ackermannbogens: Anträge aus der Einwohnerversammlung vom 09.10.2013 und weitere Bürgervorschläge a) zum Wettbewerb Urbane Mitte b) Vorschläge zum Ackermannbogen allgemein
+- TOP .2.: Kraepelinstr. 18: Fällung eines Silberahorn, Kroneneinkürzungen an 3 weiteren Bäumen
+- TOP .3.: Düsseldorfer Str. 20: Fällung eines Ahorn, einer Linde und zweier Schwarzkiefern
+- TOP .4.: Burgunderstr. 1-9: Fällung zweier Robinien
+- TOP .2.2.: Verkehr
+- TOP .1.: Aufstellung von Bänken für Seniorinnen und Senioren in Schwabing-West (Bürgerversammlungsempfehlung Nr. 08-14/E 01936): Rückfrage des Baureferats zu den fünf vorgeschlagenen Standorten
+- TOP .2.: Kreuzung Friedrich-/Georgenstraße: Grobkonzept für bauliche Maßnahmen in Zusammenhang mit dem Abbau der Lichtzeichenanlage
+- TOP .1.: Linksabbiegeverbot aus der Schleißheimer Straße in die Ackermannstraße aufheben
+- TOP .2.: Sichtverhältnisse an der Fußgängerampel Ackermannbogen/Elisabeth-Kohn-Straße verbessern
+- TOP .4.: MVG-Kampagne für mehr Rücksicht auf aussteigende Fahrgäste
+- TOP .5.: Radverkehrsführung in der Elisabeth- und Franz-Joseph-Straße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Franz-Joseph-Str. 29: Abgeschlossenheitsbescheinigungen beantragt oder erteilt?
