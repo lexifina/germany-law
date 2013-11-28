@@ -1,0 +1,7 @@
+# TOP 15: Schulhof Grundschule Schützenstraße 205
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (2013-11-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/10685
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/17835
