@@ -1,0 +1,1 @@
+# Verordnung über hochwassergefährdete Gebiete im tidebeeinflussten Einzugsgebiet der Weser, der Lesum und der Ochtum in der Stadtgemeinde Bremen (Hochwassergebietsverordnung Weser - Weser-HwGebV) vom 21. November 2013
