@@ -1,0 +1,61 @@
+# 18. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2013-12-02T10:00:00+01:00
+- Ende: 2013-12-02T10:45:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2013-VA-19
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2013-VA-19
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2013-VA-19
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2013-VA-19
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Bericht über den Stand des Verfahrens zur Aufstellung des neuen Abfallwirtschaftsplanes NRW, Teilplan Siedlungsabfälle und zur Durch- führung einer Bedarfsanalyse für Deponien der Deponieklasse I hier: Kenntnisnahme Erlass MKULNV vom 07.10.2013
+- TOP 1.2: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2014
+- TOP 1.3: Bericht über den Stand der Umsetzung der Hochwasserrisikomanagement- Richtlinie und die Ausweisung von Überschwemmungsgebieten im Bezirk
+- TOP 1.4: Regionaler Vorschlag zum Jahresbauprogramm 2014 für die Maßnahmen des Landesstraßenausbauplans
+- TOP 1.5: Programm Radwegebau an bestehenden Landesstraßen: Priorisierung der Maßnahmen für das Jahr 2014
+- TOP 1.5.1: Radweg an L104 Bottrop/Kirchhellen – Schermbeck/Gahlen, Antrag der CDU-Fraktion vom 15.11.2013
+- TOP 1.5.2: Änderung der Prioritätenliste für den Radwegebau an bestehenden Landstraßen für das Jahr 2014, Antrag der Fraktion Die Linke. vom 18.11.2013
+- TOP 1.6: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Priorisierung von Maßnahmen für das Jahr 2014
+- TOP 1.7: Städtebauförderung hier: Veröffentlichung des Stadterneuerungsprogramms 2013
+- TOP 1.8: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik hier: Beratung und Beschlussfassung 2014, Rückblick auf die Förderung 2013
+- TOP 1.9: 79. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Kamp-Lintfort, Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen und allgemeiner Freiraum- und Agrarbereich in GIB (Erarbeitungsbeschluss)
+- TOP 1.10: Stellungnahme zur Fortschreibung des Regionalplans Münsterland
+- TOP 1.11: Anfragen und Mitteilungen
+- TOP -: Anfrage der CDU-Fraktion vom 18.11.2013 zum Thema 'Jahresbauprogramm 2014 für die Maßnahmen des Landesstraßenbauplans' hier: Antwort der Bezirksregierung Arnsberg vom 26.11.2013
+- TOP -: Anfrage aus dem Planungsausschuss vom 18.11.2013 zum Thema 'Neuaufstellung des Bundesverkehrswegeplans' hier: Antwort der Bezirksregierung Arnsberg vom 26.11.2013
+- TOP -: Anfrage aus dem Planungsausschusses vom 18.11.2013 zum Thema 'Prioritätenliste für den Radwegebau an bestehenden Landstraßen für das Jahr 2014' hier: Antowrt der Bezirksregierung Arnsberg vom 26.11.2013
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Bericht über die Prüfung des Gesamtabschlusses 2010, Bestätigung des Gesamtabschlusses 2010 und Entlastung des Regionaldirektors Heinz-Dieter-Klink und der Regionaldirektorin Karola Geiß-Netthöfel
+- TOP 2.2: RVR-Strategieprozess Zwischenbilanz Themenworkshops
+- TOP 2.3: Änderung von Satzungen und Gesellschaftsverträgen bei Beteiligungsgesellschaften des Regionalverbandes Ruhr
+- TOP 2.4: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - RVR-Modell - Gründung einer Zweckgesellschaft
+- TOP 2.5: Aufgabe des Standortes Bochum-Riemke der AGR-DAR GmbH (vormals KOST Entsorgung & Recycling GmbH), Antrag der FDP-Fraktion vom 21.11.2013
+- TOP 2.5.1: Zukünftige Nutzung des Geländes des Standortes Bochum-Riemke der AGR-DAR GmbH (vormals KOST Entsorgung ) nach dem Großbrand, Anfrage der Fraktion Die Linke. vom 28.11.2013
+- TOP 2.6: Angelegenheiten der Kultur Ruhr GmbH - Verlängerung der Nebenabrede 2015-2017
+- TOP 2.7: Wirtschaftsplan 2014
+- TOP 2.8: Bestellung der Betriebsleitung der Route der Industriekultur
+- TOP 2.9: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Dringlichkeitsbeschluss Wechsel in der Besetzung des Kuratoriums der ecce GmbH
+- TOP 2.10: Feststellung Jahresabschluss zum 31.12.2012 und Lagbericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Beschluss zur Zuführung des Jahresüberschusses 2012 in die Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften - Konzept zur Neustrukturierung der Freizeitgesellschaften
+- TOP 2.11.1: Restrukturierung der Freizeitgesellschaften Neufassung des Beschlussvorschlages der Vorlage 12/0897-2 Antrag der Fraktion DIE LINKE vom 2.07.2013
+- TOP 2.12: Resolution der Verbandsversammlung des Regionalverbandes Ruhr 'Strukturen der regionalen Kulturförderung verbessern'
+- TOP 2.13: Planungs- und Durchführungskonzept der Ruhr Games 2015 (- 2021) Beratende Agenturen: ProProjekt Planungsmanagement und Projektberatung GmbH Cardiac Communication LtD. Jung von Matt/sports
+- TOP 2.14: E-Mobilität auf dem Ruhrtalradweg, Antrag der CDU-Fraktion vom 15.11.2013
+- TOP 2.15: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes des Kreises Unna 2013
+- TOP 2.16: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr hier: Sachstandsbericht
+- TOP 2.17: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Wasser
+- TOP 2.18: Ideenwettbewerb Zukunft Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 2.19: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Siedlungsentwicklung
+- TOP 2.20: Regionaler Diskurs/Regionalplan Ruhr. Hier: Werkstattbericht Fachdialog Klimaschutz und Klimaanpassung
+- TOP 2.21: Regionaler Diskurs/Regionalplan Ruhr. Hier: Perspektiven zur räumlichen Entwicklung der Metropole Ruhr
+- TOP 2.22: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
