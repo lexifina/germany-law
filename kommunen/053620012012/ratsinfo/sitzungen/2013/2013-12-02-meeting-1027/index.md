@@ -1,0 +1,70 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2013-12-02T18:00:00+01:00
+- Ende: 2013-12-02T20:50:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZb8mNZwW1TvvaoWuuAbOD2w
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/1027
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-ZOHTL_j_IIcW3Kb0BGsAkt-ySfUDr3tc8ewNVjn1s/Bekanntmachung_Rat_02.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR3EjnQ0Lktj459Nife74RPGY0YzY60G8bbZdesCyiRH/Oeffentliche_Niederschrift_Rat_02.12.2013.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschriften vom 17.06.2013 und 14.10.2013
+- TOP 3.: Prüfung des Jahresabschlusses 2012 durch die Wirtschaftsprüfungsgesellschaft Rödl & Partner Bezug: RPA 20.11.2013 - (kein Text vorhanden)
+- TOP 4.: Satzungen
+- TOP 4.1: 2. Satzung zur Änderung der Satzung über die Benutzung der Bücherei der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.2: 6.Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 5.: Neufassung des Gesellschaftsvertrages der Gebausie GmbH - (kein Text vorhanden)
+- TOP 6.: Grundsätze bei Ermächtigungsübertragungen Hier: Zustimmung des Rates gem. § 22, Abs. 1 GemHVO - (kein Text vorhanden)
+- TOP 7.: Ergänzung zu der Vereinbarung mit der WEPAG Veranstaltungs- GmbH & Co. KG über die Durchführung von Veranstaltungen - (kein Text vorhanden)
+- TOP 8.: Beteiligungsbericht 2012
+- TOP 9.: Über- und außerplanmäßige Auszahlungen und Aufwendungen
+- TOP 9.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 3. Quartal 2013
+- TOP 9.2: Außerplanmäßige Auszahlung für die Gewährung eines Darlehens Bezug: JHA 14.11.2013, Vorlage-Nr. 329/2013 - (kein Text vorhanden)
+- TOP 9.3: Überplanmäßige Ausgabe im Bereich „Leistungen nach dem Asylbewerberleistungsgesetz“ (TEP 3103) - (kein Text vorhanden)
+- TOP 9.4: Verwaltergebühr Gembäudemanagement hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.5: Städtepartnerschaftsjubiläum 2013; hier: Zwischenfinanzierung - (kein Text vorhanden)
+- TOP 10.: Energieberatung bei drohender Energiearmut Bezug: HA 18.11.2013, SoMiA 19.11.2013 - (kein Text vorhanden)
+- TOP 11.: Tagesbetreuung in Einrichtungen hier: Neubau einer viergruppigen Kindertagesstätte in Schwadorf - (kein Text vorhanden)
+- TOP 12.: Bebauungsplan 11.02 Teilbereich A "Hauptstraße / Stiftstraße / Zum Sommersberg" - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 13.: Zustimmung zum Erschließungs - und Städtebaulichen Vertrag im östlichen Gebiet des künftigen Bebauungsplanes 06.21 "Nördliche Steingasse", 2. Änderungssatzung, (sb Heimbau Rhein-Erft GmbH) - (kein Text vorhanden)
+- TOP 14.: Abschluss einer öffentlich-rechtlichen Vereinbarung mit der Stadt Köln über den Betrieb und Finanzierung der Stadtbahnlinie 18 - (kein Text vorhanden)
+- TOP 15.: Anträge der Fraktionen
+- TOP 15.1: Bereitstellung von Mitteln für die Bürgerbeteiligung hier: Antrag der GRÜNE-Fraktion vom 16.11.2013 - (kein Text vorhanden)
+- TOP 15.2: Erstellung einer Wohnraumbedarfsanalyse hier: Antrag der GRÜNE-Fraktion vom 16.11.2013 - (kein Text vorhanden)
+- TOP 15.3: Akzeptanz eines Wintermarktes in Brühl hier: Antrag der GRÜNE-Fraktion vom 15.11.2013
+- TOP 15.4: Vorläufige Nutzung Rathausgalerie hier: Anträge der CDU-Fraktion vom 20.11.2013 - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Wahl eines stellvertretenden Mitglieds in den Ausschuss für Kultur, Partnerschaften und Tourismus hier: Antrag der Fraktion "Die Grünen" vom 14.11.2013 - (kein Text vorhanden)
+- TOP 16.2: Umbesetzung im Wahlausschuss hier: Antrag der CDU-Fraktion vom 21.11.2013 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Bekanntgabe der Nebentätigkeit des Bürgermeisters gem. § 53 Landesbeamtengesetz hier: Gremientätigkeit 2013
+- TOP 17.2: Pflaster Steinweg
+- TOP 17.3: Weihnachtsbaum Stern
+- TOP 18.: Anfragen
+- TOP 18.1: Fahrradständer Clemens-August-Straße
+- TOP 18.2: Fahrradständer Steinweg
+- TOP 18.3: Zuparken Fahrradschutzstreifen
+- TOP 18.4: Parkleitsystem Ecke Römerstraße/Konrad-Adenauer-Straße
+- TOP 18.5: Erörterungstermin zweigleisiger Ausbau Linie 18
+- TOP 18.6: Fluglärm
+- TOP 18.7: Parkendes Auto Rheinstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Vorstellung des neuen technischen Rechnungsprüfers Dieter Röske Bezug: RAT 14.10.2013, Vorlagen-Nr. 304/2013
+- TOP 20.: Vorläufige Nutzung Rathausgalerie hier: Anträge der CDU-Fraktion vom 20.11.2013 Vorlage Nr. 391/2013
+- TOP 21.: Gewährung eines Darlehens - (kein Text vorhanden)
+- TOP 22.: Kreditaufnahme zur Finanzierung der Investitionen des städtischen Haushalts 2012 und 2013 - (kein Text vorhanden)
+- TOP 23.: Wirtschaftlichkeitsvergleich Rathaus B; Auftragsvergabe Wirtschaftlichkeitsvergleich Rathaus B Bezug: Gemeinsamer Antrag der Fraktionen von CDU, SPD, Bündnis 90/Die Grünen und FDP vom 11.2.2013 - (kein Text vorhanden)
+- TOP 24.: Bericht über die Sitzung des Aufsichtsrates der REVG am 25.9.2013
+- TOP 25.: Mitteilungen
+- TOP 25.1: Wahlhelfer Bürgermeisterwahl
+- TOP 26.: Anfragen
+- TOP 26.1: Thüringer Platz
+- TOP 26.2: Ampelschaltung Römerstraße/Liblarer Straße
