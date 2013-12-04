@@ -1,0 +1,64 @@
+# 32. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-12-04T17:03:00+01:00
+- Ende: 2013-12-04T19:53:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8853
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8853
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00352261.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Handlungsprogramm 2012 bis 2017 - 2. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 3.2: Prüfauftrag: Möglichkeiten einer Beitragsreduzierung des Vereins Münsterland e. V. - mehrheitlich geändert beschlossen
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Wirtschaftsplan 2014 der citeq - einstimmig beschlossen
+- TOP 4.2: Abfallwirtschaftbetriebe Münster - einstimmig beschlossen
+- TOP 4.3: Finanzangelegenheiten der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig beschlossen
+- TOP 4.4: Vorabgewinnausschüttung 2013 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.5: Ausschüttung der GML Gewerbepark Münster-Loddenheide GmbH - einstimmig beschlossen
+- TOP 4.6: Flughafen Münster-Osnabrück GmbH, Verkauf des Anteils der Kamer van Koophandel Oost Nederland - einstimmig beschlossen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 5.2: Abfallgebühren 2014 - einstimmig beschlossen
+- TOP 5.3: Straßenreinigungsgebühren 2014 - einstimmig beschlossen
+- TOP 5.4: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2014 - einstimmig beschlossen
+- TOP 5.5: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 5.6: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 5.7: Neufassung der Satzung für die Benutzung der Friedhofseinrichtungen der Stadt Münster und Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Kommunales Handlungskonzept Wohnen - ohne Beschlussfassung geschoben
+- TOP 6.2: Hauptbahnhof Münster (West- und Ostseite), Städtebaulicher Vertrag und Baubeginn - ohne Beschlussfassung geschoben
+- TOP 6.3: Mittagsverpflegung in Schulen - einstimmig geändert beschlossen
+- TOP 6.4: Förderung Musikschularbeit (Produktgruppe 0403 Westfälische Schule für Musik und Förderung der Stadtteilmusikschulen) hier Fortschreibung des Zuschusses auf der Basis des Haushaltsjahres 2013 - einstimmig beschlossen
+- TOP 6.5: Historische Aufarbeitung der Rolle der Stadtverwaltung Münster in der NS-Zeit - einstimmig beschlossen
+- TOP 6.6: "Masterplan Quartier" (Versorgungssicherheit für Menschen mit Pflege- und Unterstützungsbedarf), Vorhabenkonkretisierung, Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0053/2012 - zur Kenntnis genommen
+- TOP 6.7: Ausschöpfung des Eingliederungstitels (EGT) des Jobcenter Münster - einstimmig geändert beschlossen
+- TOP 6.8: Aufgabe und Vermarktung des ehem. Spielplatzes an der Paul-Gerhard-Straße sowie Umgestaltung des Spielplatzes am Nottulner Landweg - einstimmig beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadt Münster - vertagt, mit Prüfauftrag
+- TOP 7.2: Optimierung bürgerorientierter Dienstleistungen: Stadthaus 1 - Sanierung sowie Einrichtung eines Bürgerservicezentrums, Verbleib Bauteile E+F sowie Petzholdhaus im Eigentum - vertagt, mit Prüfauftrag
+- TOP 7.3: Optimierung bürgerorientierter Dienstleistungen: Künftige Nutzung Dominikanerkirche - vertagt, mit Prüfauftrag
+- TOP 7.4: Baulandprogramm 2020 - vertagt
+- TOP 7.5: 2. städtische Gesamtschule: Vorbereitende Prüfaufträge - ohne Beschlussfassung geschoben
+- TOP 7.6: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - vertagt
+- TOP 7.7: Prüfung der ortsfesten und ortveränderlichen elektrischen Betriebsmittel - einstimmig geändert beschlossen
+- TOP 8: Haushaltsplan 2014 sowie Ergebnis- und Finanzplanung bis 2017
+- TOP 8.1: Anträge und Anregungen
+- TOP 8.1.1: Anregungen nach § 24 Gemeindeordnung NRW
+- TOP 8.1.2: Sonstige Anträge und Einwendungen
+- TOP 8.1.3: Sonstige Anträge aus der Politik
+- TOP 8.2: Veränderungsblätter/-listen
+- TOP 8.2.1: Anregungen der Bezirksvertretungen
+- TOP 8.2.2: Veränderungsliste 1
+- TOP 8.2.3: Veränderungsliste 2
+- TOP 8.2.4: Veränderungsliste 3
+- TOP 8.3: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2014 - einstimmig geändert beschlossen
+- TOP 9: Verschiedenes
