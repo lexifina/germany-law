@@ -1,0 +1,64 @@
+# 24. Öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2013-12-04T17:00:00+01:00
+- Ende: 2013-12-04T22:47:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2167
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2167
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 3: Geschäftliches - beantwortet
+- TOP 4: Der Bürgermeister hat das Wort - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Entschließungen - (offen)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Vorlage zur Wahl von ehrenamtlichen SozialpflegerInnen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Straftaten in Neukölln - beantwortet
+- TOP 9.2: Sachstand Hörberatungsstelle - beantwortet
+- TOP 9.3: Baumfällungen auf dem Polizeigelände in der Wildenbruchstraße - beantwortet
+- TOP 9.4: Mittelverwendung für Eingliederungsleistungen in 2013 - beantwortet
+- TOP 9.5: Straßenstrich in Neukölln - beantwortet
+- TOP 9.6: Ordnungsgemäßer Verlauf der BVV-Sitzungen - beantwortet
+- TOP 9.7: Aufstellung einer Altenhilfeplanung im Bezirk Neukölln - schriftlich beantwortet
+- TOP 9.8: Fällungen von Straßenbäumen - beantwortet
+- TOP 9.9: Laternenbeleuchtung Lipschitz- und Bat-Yam-Platz - beantwortet
+- TOP 9.10: Probejahr 2013/14 - beantwortet
+- TOP 9.11: Wochenmarkt in der Parchimer Allee - beantwortet
+- TOP 9.12: Straßenbelag in der Buschkrugallee - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Lern-/Verhaltensdispositionen bei „Umsteiger*innen im Schuljahr 2013/14“ - beantwortet
+- TOP 10.2: Beteiligung der Öffentlichkeit bei großen Bauvorhaben - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Jugendberufsagentur - beantwortet
+- TOP 12.2: Was bedeuten die Haushaltsplanungen für Neukölln? - beantwortet
+- TOP 12.3: Beschulung der Flüchtlingskinder - beantwortet
+- TOP 12.4: Sanierungen und Modernisierungen - beantwortet
+- TOP 12.5: Zugesagte 25 Mio. für die Bezirke nur als Kredit - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Altenhilfeplanung erarbeiten - überwiesen
+- TOP 14.2: Fehlende Mittel für Clay-Schule bereitstellen - überwiesen
+- TOP 14.3: Milieuschutz - überwiesen
+- TOP 14.4: OpenAntrag: E-Mailsicherheit im Bürgerkontakt - überwiesen
+- TOP 14.5: Zusammenarbeit mit ehrenamtlichen Helfern in der Späthstraße - überwiesen
+- TOP 14.6: Bekanntheit der Patientenfürsprecher/innen in den Krankenhäusern verbessern - überwiesen
+- TOP 14.7: Netzwerk Schulerfolg - überwiesen
+- TOP 14.8: Aufstellung einer Altenhilfeplanung im Bezirk Neukölln - überwiesen
+- TOP 14.9: Beschulung der Flüchtlingskinder - überwiesen
+- TOP 14.10: Lernförderung für die Prüfungen BBR/MSA im Schuljahr 2013/14 - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Kindstod: Aufklärung betreiben, nachhaltige Konsequenzen ziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Erneuerbare Energien in bezirklichen Gebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Frühjahrsputz beim "Rixdorfer Tanzpaar" - mit Abschlussbericht zur Kenntnis genommen
