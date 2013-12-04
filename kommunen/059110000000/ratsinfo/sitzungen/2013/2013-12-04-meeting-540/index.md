@@ -1,0 +1,55 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2013-12-04T14:00:00+01:00
+- Ende: 2013-12-04T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZ7u2fotZB0j4AE35O3aN_k
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/540
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZGKU9h09rXBGHnzwpXQefYQzh2ArFqb0ql1LjT8YEmP/Einladung_Seniorenbeirat_04.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZebWNjijKrH2ihJvFhTquw-k8b1uaLelhxG9N6lPab2E/Oeffentliche_Niederschrift_Seniorenbeirat_04.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Instandsetzungsbedürftige Fahrbahndecke - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Wegweiser für Stadtrundfahrten und kostenloses Angebot für Neubürger - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Sitzbänke in der Innenstadt - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.4: Erhalt der Senioren-Begegnungsstätten (Stützpunkte) - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Energiearmut in NRW hier: Mdl. Bericht
+- TOP 6.2: Informationen zum Förderprojekt "Anlaufstellen für ältere Menschen" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Brunnenplatz in der Hustadt - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Absenkung von Bordsteinen an Fußgängerüberwegen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Parksituation am Springerplatz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Bochumer Ortsteile kompakt 2013 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Zusammenarbeit zwischen Stadt und Wohlfahrtsverbänden in den Seniorenbüros Bochum ab dem 01.01.2014 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Berichte aus den Gremien hier: Mdl. Berichte in der Sitzung
+- TOP 6.9: Bericht des Vorsitzenden hier: Mdl. Bericht in der Sitzung
+- TOP 7: Anfragen
+- TOP 7.1: Städtische Kolumbarien - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Kirmesplatz - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Übergang Rathaus/City Passage - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.4: Kortumstraße/Ecke Bongardstraße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.5: Ärztezentrum gegenüber dem Hauptbahnhof - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.6: Sachstand Stadtumbau West / Innere Hustadt: „Brunnenplatz“ - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.7: Sachstand seniorengerechte Wohnungen in Bochum - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
