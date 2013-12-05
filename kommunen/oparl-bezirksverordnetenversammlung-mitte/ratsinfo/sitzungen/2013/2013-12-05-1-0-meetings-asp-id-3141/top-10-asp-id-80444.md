@@ -1,0 +1,7 @@
+# TOP 10: Jahresplanung 2014
+
+- Sitzung: 25. öffentliche Sitzung des Jugendhilfeausschusses (2013-12-05)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=80444
+- Ergebnis: vertagt
