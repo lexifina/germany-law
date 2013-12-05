@@ -1,0 +1,59 @@
+# Finanzausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-12-05T17:00:00+01:00
+- Ende: 2013-12-05T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYtuwmzZNImjiL9OlEp92IE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4238
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSLPflpAZTQtr_Q__dw5kc8nhCU5WPEzL7lX1ptCARLB/Oeffentliche_Niederschrift_Finanzausschuss_05.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Gebührenbedarfsberechnungen 2014
+- TOP 4: IV. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 5: Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 6: Satzung der Stadt Solingen über die Entwässerung der Grundstücke
+- TOP 7: Satzung über die Entsorgung der Grundstücksentwässerungsanlagen
+- TOP 8: VI. Änderung der Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte
+- TOP 9: Neufassung der Friedhofssatzung und der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 10: Wirtschaftsplan 2014 der Technischen Betriebe Solingen
+- TOP 11: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem AsylbLG und SGB XII
+- TOP 12: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem SGB II
+- TOP 13: VI. Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 14: Parkraumbewirtschaftung am Standort Rathausplatz 1
+- TOP 15: Ermächtigungsübertragungen gemäß § 22 Gemeindehaushaltsverordnung NRW (GemHVO)
+- TOP 16: Einsatz von Kunststoff-Fenster- und -Türanlagen in städtischen Gebäuden
+- TOP 17: Abbruch und Neubau eines Pavillons der Wilhelm-Hartschen-Schule
+- TOP 18: Abbruch und Neubau eines Pavillons der Wilhelm-Hartschen-Schule
+- TOP 19: Sachstand Kostenentwicklung Sanierung der Gesamtschule Querstraße 42 sowie Darstellung der Raum- und Investitionsbedarfe am Mildred-Scheel-Berufskolleg, dem Schulzentrum Vogelsang und der Friedrich-Albert-Lange-Schule
+- TOP 20: HSP-Controlling lt. Stärkungspaktgesetz
+- TOP 21: 3. Quartalsbericht zum Ergebnisplan des Haushaltes 2013
+- TOP 22: Aktuelles zum Stärkungspakt Stadtfinanzen
+- TOP 23: Themenplan Finanzausschuss 2014
+- TOP 24: Verschiedenes
+- TOP 25: Über- und außerplanmäßige Aufwendungen und Auszahlungen 3. Quartal im Jahr 2013
+- TOP 26: HSP-Maßnahme M 265 Senkung Kosten politischer Steuerung und Zentralisierung Sitzungsdienst
+- TOP 27: Verkehrsbeziehungen in der Innenstadt
+- TOP 28: Kostenentwicklung im IT-Budget
+- TOP 29: Prozentuale Darstellung der Mehrkosten der Bergischen Versorgungsverwaltung
+- TOP 30: Finanzielle Auswirkungen der 7. Novellierung der HOAI vom 17.07.2013
+- TOP 31: Vergleich der Sachausgaben 2013/2014
+- TOP 32: Solinger Kunst-Stiftung
+- TOP 33: Hundesteuer
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Kommunale Anleihe
+- TOP 4: Kommunale Anleihe
+- TOP 5: Verkauf einer städtischen Liegenschaft
+- TOP 6: Konrad-Adenauer-Straße
+- TOP 7: Vergaben und Vertragsabschlüsse über 50.000 Euro, Berichtszeitraum 01.04.2013 bis 31.10.2013 sowie An- und Verkauf von Grundstücken über 50.000 Euro bis 250.000 Euro, Berichtszeitraum 13.04.2012 bis 31.10.2013
+- TOP 8: Verschiedenes
+- TOP 9: Bürgschaften
