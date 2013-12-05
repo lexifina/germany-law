@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2013-12-05T17:00:00+01:00
+- Ende: 2013-12-05T19:23:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7204
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/7204
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00207065.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00207065.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00207065.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2014 - einstimmig beschlossen
+- TOP 5: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 6: Zuschüsse der Bezirksvertretung 8 im Jahre 2013 - mehrheitlich beschlossen
+- TOP 7: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Ortsumgehung Gerresheim und Radschnellweg Düsseldorf - Erkrath - beantwortet
+- TOP 9: Kanalbaumaßnahme Karl-Geusen-Straße - beantwortet
+- TOP 10: Kanalbaumaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 11: Querungshilfe Kreuzung Sandträger Weg/Bunzlauer Weg - beantwortet
+- TOP 12: Verbindungsweg zwischen dem Coburger Weg und Reichenbacher Weg - beantwortet
+- TOP 13: Grundstück Vennhauser Allee 254 - beantwortet
+- TOP 14: Nahverkehrsplan im Stadtbezirk 8 - beantwortet
+- TOP 15: Kanal - TÜV im Stadtbezirk 8 - beantwortet
+- TOP 16: Schlosspark Eller und Grünordnungsplan - beantwortet
+- TOP 17: Durchfahrt Coburger Weg / Am Schmiedekotten - beantwortet
+- TOP 18: Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf an den Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 19: Grundstück Am Kleinforst - beantwortet
+- TOP 20: Barrierefreier Umbau S-Bahnhöfe Eller und Eller-Süd - beantwortet
+- TOP 21: Radwege im Stadtbezirk 8 - mehrheitlich abgelehnt
+- TOP 22: Parkplätze und Radstellplätze am Proberaumbunker Gatherweg - einstimmig beschlossen
+- TOP 23: Schutzstreifen auf dem Coburger Weg zwischen Kamper Weg und Mündrathweg - einstimmig beschlossen
+- TOP 24: Straßenschilder in der Siedlung Freiheit - einstimmig beschlossen
+- TOP 25: Düsselbrücke zwischen dem Reichenbacher Weg und Coburger Weg - einstimmig beschlossen
+- TOP 26: Treppen zum S-Bahnhof Eller - einstimmig beschlossen
+- TOP 27: Halteverbot Sandträgerweg 92 - mehrheitlich abgelehnt
+- TOP 28: Lärmschutz an der Güterbahnstrecke Rath-Eller - einstimmig beschlossen
+- TOP 29: Campingplätze Unterbacher See - zurückgezogen
+- TOP 30: Bäume Ellerkirchstraße - einstimmig beschlossen
+- TOP 31: Containerstation Heidelberger Straße / Deutzer Straße - zurückgezogen
+- TOP 32: Kindertagesstätte Chemnitzer Straße 43 - zurückgezogen
+- TOP 33: Verkehrsregelung Gubener Straße - mehrheitlich beschlossen
+- TOP 34: Barrierefreier Umbau Endhaltestelle Vennhauser Allee - einstimmig beschlossen
+- TOP 35: Parkplatzerweiterung Eller-Mitte - mehrheitlich beschlossen
+- TOP 36: Grünpflege im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 37: Fairtrade Produkte bei Sitzungen der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 38: Verkehrsregelung Gubener Straße - mehrheitlich abgelehnt
+- TOP 39: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 40: Containerstation Vennhauser Allee 230 - zur Kenntnis genommen
+- TOP 41: Sicherung der Bahngleise Sturmstraße - zur Kenntnis genommen
+- TOP 42: Sicherung des Gleiskörpers zwischen Gumbertstraße und Festenbergstraße - zur Kenntnis genommen
+- TOP 43: Reinigung Bahnböschung Eller - Mitte - zur Kenntnis genommen
+- TOP 44: Verkehrssituation Am Schurfwinkel - zur Kenntnis genommen
+- TOP 45: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Widmung von Straßen - zur Kenntnis genommen
+- TOP 47: Sitzungstermine der Bezirksvertretung 8 im Jahre 2014 - zur Kenntnis genommen
+- TOP 48: Terminierung der Einwohnerfragestunden und Zuschussberatungen im Jahre 2014 - zur Kenntnis genommen
+- TOP 49: Kanalbaumaßnahme Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 50: Kanalbaumaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Überwachung von Abwasseranlagen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Nahverkehrsplan 2010 - 2015 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Gestaltung Gertrudisplatz - zur Kenntnis genommen
+- TOP 54: Videobetreuung an S-Bahnhöfen und Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 55: Verkehrssituation Brorsstraße - zur Kenntnis genommen
+- TOP 56: Schlosspark Eller und Grünordnungsplan - zur Kenntnis genommen
+- TOP 57: Anmeldezahlen für den offenen und gebundenen Ganztag im Stadtbezirk 8 - zur Kenntnis genommen
