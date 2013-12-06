@@ -1,0 +1,57 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2013-12-06T16:00:00+01:00
+- Ende: 2013-12-06T20:25:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcamym76BGBbNPlSZYLM5q4
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2168
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWF4ZnxcEbevIkTXf9q9d_RFLEjoi9lexuUOTELMLgG/Einladung_Rat_06.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVajExdp3mBA-k0X1vDeS1GbOm_lmbA_tE7s3w1ropug/Oeffentliche_Niederschrift_Rat_06.12.2013.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 11.10.2013
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Prüfung und Feststellung des Jahresabschlusses 2012, Ergebnisausgleich und Entlastung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.6: 3. Situationsbericht zur Haushaltswirtschaft - (kein Text vorhanden)
+- TOP A.7: Haushaltssatzung 2014 sowie mittelfristige Ergebnis- und Finanzplanung 2013 – 2017 - (kein Text vorhanden)
+- TOP A.7: Haushaltssatzung 2014 sowie mittelfristige Ergebnis- und Finanzplanung 2013 – 2017 - (kein Text vorhanden)
+- TOP A.8: Stellenplan für das Haushaltsjahr 2014 1.1 RöHerford, den 20.11.13 - (kein Text vorhanden)
+- TOP A.9: Vergnügungssteuer; hier: 8. Satzung zur Änderung der Vergnügungssteuersatzung - (kein Text vorhanden)
+- TOP A.10: Gebührenhaushalt Straßenreinigung hier: 2. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - (kein Text vorhanden)
+- TOP A.11: Gebührenhaushalt Friedhöfe Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Stadt Herford Änderung der Satzung für die Friedhöfe der Stadt Herford (Friedhofssatzung) - (kein Text vorhanden)
+- TOP A.12: Gebührenhaushalt Abfallentsorgung hier: Sachstandsbericht über die Entwicklung im Jahr 2013 und Kalkulation der Gebühren für 2014 - (kein Text vorhanden)
+- TOP A.13: Jahresbericht der Behindertenbeauftragten hier: Vorlage in "leichter Sprache" - (kein Text vorhanden)
+- TOP A.14: 10. Frauenförderplan der Stadtverwaltung Herford für die Jahre 2014 – 2016 und Bericht über den Zeitraum 2011 - 2013 1.1 RöHerford, den 20.11.13 - (kein Text vorhanden)
+- TOP A.15: Durchführung verkaufsoffener Sonntage im Jahre 2014 - (kein Text vorhanden)
+- TOP A.16: Sportentwicklungs- und Sportstättenbedarfsplanung - (kein Text vorhanden)
+- TOP A.17: Brandschutzbedarfsplan - (kein Text vorhanden)
+- TOP A.18: Besetzungen in Gremien:
+- TOP A.18a: Nachbesetzung Behindertenbeirat - (kein Text vorhanden)
+- TOP A.18b: Benennung von beratenden Mitgliedern des Jugendhilfeausschusses: Neubesetzung der Vertretung für den Jugendamtselternbeirat - (kein Text vorhanden)
+- TOP A.18c: Besetzungen im Kulturbeirat - (kein Text vorhanden)
+- TOP A.19: Bebauungsplan Nr. 9.28 "Bandelstraße", Änd. 2.12 hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.20: Bebauungsplan Nr. 8.33b "Wellbrok" Teil 1 Änderung Nr. 311 hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.21: Bebauungsplan Nr. 8.76 "Nördlich Strotheide" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.22: Bebauungsplan Nr. 11.36 "Am kleinen Bulskamp" hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP A.23: Stellungnahme der Stadt Herford zum Entwurf des Landesentwicklungsplans (LEP NRW) - (kein Text vorhanden)
+- TOP A.24: Erdgas-Gewinnung durch Fracking (Sitzung des Rates vom 11.10.13) - (kein Text vorhanden)
+- TOP A.25: Resolution zu den „Hexenprozessen“ in der Stadt Herford - (kein Text vorhanden)
+- TOP A.26: Berichte aus den Tochtergesellschaften aus dem Konzern:
+- TOP A.26a: IAB: Änderung des Wirtschaftsplanes 2013 und Wirtschaftsplan 2014 - (kein Text vorhanden)
+- TOP A.26b: Abwasserbeseitigungskonzept - (kein Text vorhanden)
+- TOP A.26c: Westfalen Weser Energie GmbH & Co. KG a) Änderung des Gesellschaftsvertrages b) Geänderte Zielstruktur - (kein Text vorhanden)
+- TOP A.26d: HVV GmbH: Wirtschaftsplan 2014 und geänderter Plan 2013 - (kein Text vorhanden)
+- TOP A.26e: HVV GmbH: Konzernstruktur und Public Corporate Governance Kodex (PCGK) a) PCGK und Beteiligungsrichtlinie b) Geänderte Gesellschaftsverträge c) Neufestsetzung der Vergütungen in den Aufsichtsräten der HVV GmbH, SWH GmbH und WWS GmbH - (kein Text vorhanden)
+- TOP A.26f: WWS GmbH: Wirtschaftsplan 2014 und geänderter Plan 2013 - (kein Text vorhanden)
+- TOP A.26g: Interkomm GmbH: Wirtschaftsplan 2014 - (kein Text vorhanden)
+- TOP A.26h: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2012, Wirtschaftsplan 2014 und Wahl einer Geschäftsführerin - (kein Text vorhanden)
+- TOP A.26i: Beteiligungsbericht 2012 / 2013 - (kein Text vorhanden)
+- TOP A.27: Antrag der SPD Fraktion vom 15.11.2013 für die Sitzung des Rates am 06.12.2013 - (kein Text vorhanden)
