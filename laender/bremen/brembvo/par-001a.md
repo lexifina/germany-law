@@ -14,7 +14,7 @@ solange sie Dienstbezüge, Anwärterbezüge, Ausbildungsbeihilfe, Ruhegehalt, Wi
 (4) Beim Zusammentreffen mehrerer Beihilfeberechtigungen auf Grund beamtenrechtlicher Vorschriften schließt eine Beihilfeberechtigung
 1. aus einem Dienstverhältnis die Beihilfeberechtigung aus einem Rechtsverhältnis als Versorgungsempfänger,
 2. auf Grund eines neuen Versorgungsbezugs die Beihilfeberechtigung auf Grund früherer Versorgungsbezüge
-aus.
+aus. Nummer 2 gilt nicht, wenn der frühere Versorgungsanspruch aus einem eigenen Dienstverhältnis folgt.
 (5) Die Beihilfeberechtigung nach anderen als beamtenrechtlichen Vorschriften geht der Beihilfeberechtigung aus einem Rechtsverhältnis als Versorgungsempfänger vor.
 (6) Die Beihilfeberechtigung auf Grund beamtenrechtlicher Vorschriften schließt die Berücksichtigungsfähigkeit als Angehöriger aus. Die Beihilfeberechtigung nach anderen als beamtenrechtlichen Vorschriften geht der Berücksichtigungsfähigkeit als Angehöriger vor.
 (7) Der Beihilfeberechtigung nach beamtenrechtlichen Vorschriften steht der Anspruch auf Fürsorgeleistungen nach § 27 des Gesetzes über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages, § 11 des Europaabgeordnetengesetzes oder entsprechenden landesrechtlichen Vorschriften, nach § 78 des Bundesbeamtengesetzes gegen die Deutsche Bundesbahn oder entsprechenden kirchenrechtlichen Vorschriften gleich.

@@ -1,0 +1,6 @@
+# § 5a Aufwendungen bei Suchtbehandlungen
+(1) Aufwendungen für Suchtbehandlungen, die als medizinische Rehabilitationsmaßnahmen oder Entwöhnungen durchgeführt werden, sowie die Nachsorge sind bis zur Höhe der von den gesetzlichen Krankenkassen oder den Rentenversicherungsträgern getragenen Kosten beihilfefähig, wenn die Suchtbehandlung ärztlich verordnet ist und die Festsetzungsstelle die Notwendigkeit der Suchtbehandlung vor deren Beginn anerkannt hat.
+(2) Die ärztliche Verordnung muss Art, Dauer und Inhalt der Suchtbehandlung bestimmen. Die Ärztin oder der Arzt darf nicht in einer Rechtsbeziehung zur Einrichtung stehen, in der die Behandlung durchgeführt wird.
+(3) Aufwendungen für die Verlängerung einer Suchtbehandlung sind nur beihilfefähig, wenn die Einrichtung, die die Behandlung durchführt, festgestellt hat, dass die Verlängerung aus medizinischen Gründen dringend erforderlich ist.
+(4) Fahrtkosten für die An- und Abreise sind nur beihilfefähig, wenn die Fahrt ärztlich verordnet ist. Für die Höhe gilt § 5 Absatz 5 Nummer 5 entsprechend.
+(5) Im Zusammenhang mit einer stationären Suchtbehandlung sind Aufwendungen für die Unterkunft und Verpflegung einer Begleitperson bis zur Höhe der von den gesetzlichen Krankenkassen oder den Rentenversicherungsträgern getragenen Kosten beihilfefähig, wenn eine Begleitung aus medizinischen Gründen notwendig ist.

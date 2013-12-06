@@ -1,0 +1,2 @@
+# § 4f Beihilfefähige Aufwendungen bei Versorgung in Hospizen
+Aufwendungen einer stationären oder teilstationären Versorgung in Hospizen, in denen palliativmedizinische Behandlung erbracht wird (§ 39 a des Fünften Buches Sozialgesetzbuch), sind nach Maßgabe einer ärztlichen Bescheinigung bis zur Höhe des Zuschusses der gesetzlichen Krankenversicherung beihilfefähig. §§ 4a bis 4e bleiben unberührt. Voraussetzung ist, dass eine ambulante Versorgung im Haushalt oder der Familie der zu versorgenden Person nicht erbracht werden kann.

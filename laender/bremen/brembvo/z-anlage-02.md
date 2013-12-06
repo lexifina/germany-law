@@ -4,7 +4,7 @@ Anlage 2
 Zahnärztliche und kieferorthopädische Leistungen
 Aufwendungen für zahnärztliche und kieferorthopädische Leistungen nach den folgenden Maßgaben beihilfefähig:
 1. Zahntechnische Leistungen
-Aufwendungen für zahntechnische Leistungen, die bei einer zahnärztlichen Behandlung für konservierende Leistungen nach Abschnitt C Nummern 213 bis 232, prothetische Leistungen nach Abschnitt F und implantologische Leistungen nach Abschnitt K des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte entstehen, sowie Aufwendungen für Edelmetalle, Edelmetalllegierungen und Keramik sind einschließlich der Handwerksleistungen in Höhe von 60 vom Hundert beihilfefähig. Nummer 6 Buchstabe b bleibt unberührt.
+Aufwendungen für zahntechnische Leistungen, die bei einer zahnärztlichen Behandlung für konservierende Leistungen nach Abschnitt C Nummern 2150 bis 2180, 2200 bis 2250 und 2310 bis 2320, prothetische Leistungen nach Abschnitt F und implantologische Leistungen nach Abschnitt K des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte entstehen, sowie Aufwendungen für Edelmetalle, Edelmetalllegierungen und Keramik sind einschließlich der Handwerksleistungen in Höhe von 60 vom Hundert beihilfefähig. Nummer 6 Buchstabe b bleibt unberührt.
 2. Kieferorthopädische Leistungen
 Aufwendungen für kieferorthopädische Leistungen (Abschnitt G des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte) sind nur beihilfefähig, wenn
 a) die behandelte Person bei Beginn der Behandlung das 18. Lebensjahr noch nicht vollendet hat; dies gilt nicht bei schweren Kieferanomalien, die eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfordern,
@@ -16,7 +16,7 @@ a) Kiefergelenk- und Muskelerkrankungen im Kieferbereich (Myoarthropathien) grö
 b) Zahnbetterkrankungen (Parodontopathien),
 c) umfangreiche Gebisssanierung, d.h. wenn in jedem Kiefer mindestens die Hälfte der Zähne eines natürlichen Gebisses sanierungsbedürftig ist und die richtige Schlussbissstellung auf andere Weise nicht mehr feststellbar ist,
 d) umfangreiche kieferorthopädische Maßnahmen.
-Dies gilt nur, wenn der erhobene Befund mit dem nach Nummer 800 des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte vorgeschriebenen Formblatt belegt wird.
+Dies gilt nur, wenn der erhobene Befund mit dem nach Nummer 8000 des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte vorgeschriebenen Formblatt belegt wird.
 4. Implantologische Leistungen
 Aufwendungen für implantologische Leistungen einschließlich aller damit verbundenen weiteren zahnärztlichen Leistungen sind nur bis zu zwei Implantaten pro Kiefer beihilfefähig.
 Aufwendungen für mehr als zwei Implantate pro Kiefer, einschließlich vorhandener Implantate, sind nur bei Einzelzahnlücken, wenn beide benachbarten Zähne intakt und nicht überkronungsbedürftig sind, oder mit besonderer Begründung zur Fixierung von Totalprothesen beihilfefähig; Aufwendungen für mehr als vier Implantate pro Kiefer, einschließlich vorhandener Implantate, sind von der Beihilfefähigkeit ausgeschlossen.

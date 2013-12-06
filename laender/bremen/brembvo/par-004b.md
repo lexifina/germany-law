@@ -1,2 +1,13 @@
-# § 4b Beihilfefähige Aufwendungen bei Versorgung in Hospizen
-Aufwendungen einer stationären oder teilstationären Versorgung in Hospizen, in denen palliativmedizinische Behandlung erbracht wird (§ 39 a des Fünften Buches Sozialgesetzbuch), sind nach Maßgabe einer ärztlichen Bescheinigung bis zur Höhe des Zuschusses der gesetzlichen Krankenversicherung beihilfefähig. § 4 a bleibt unberührt. Voraussetzung ist, dass eine ambulante Versorgung im Haushalt oder der Familie der zu versorgenden Person nicht erbracht werden kann.
+# § 4b Häusliche Pflege
+(1) Aufwendungen für eine häusliche Pflege durch geeignete Pflegekräfte nach § 36 Absatz 1 Satz 3 und 4 des Elften Buches Sozialgesetzbuch sind je nach Pflegestufe des § 15 des Elften Buches Sozialgesetzbuch monatlich
+1. in Pflegestufe I bis zur Höhe von 20 vom Hundert,
+2. in Pflegestufe II bis zur Höhe von 40 vom Hundert,
+3. in Pflegestufe III bis zur Höhe von 60 vom Hundert
+der durchschnittlichen Kosten einer Pflegekraft der Vergütungsgruppe Kr. V der Anlage 1 b des bis zum 30. September 2005 geltenden BAT beihilfefähig. Bei außergewöhnlich hohem Pflegeaufwand können die Aufwendungen in der Pflegestufe III bis zur Höhe von 80 vom Hundert der Kosten dieser Pflegekraft als beihilfefähig anerkannt werden.
+(2) Bei einer häuslichen Pflege durch selbst beschaffte Pflegehilfen im Sinne des § 37 Absatz 1 Satz 1 und 2 des Elften Buches Sozialgesetzbuch sind entsprechend den Pflegestufen des § 15 des Elften Buches Sozialgesetzbuch monatlich folgende Pauschalen beihilfefähig:
+1. in Pflegestufe I | 235 Euro,
+2. in Pflegestufe II | 440 Euro,
+3. in Pflegestufe III | 700 Euro.
+Wird die Pflege nicht für einen vollen Kalendermonat erbracht, ist die Pauschale nach Satz 1 um ein Dreißigstel für jeden nicht in Anspruch genommenen Tag zu mindern. Verstirbt die oder der Pflegebedürftige, wird die Pauschale bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
+(3) Ist die Pflegeperson nach Absatz 2 wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen verhindert, so sind die Aufwendungen für die Ersatzpflege im Kalenderjahr bis zu 1 550 Euro beihilfefähig (§ 39 Satz 3 des Elften Buches Sozialgesetzbuch). Während der Ersatzpflege ist der nach Absatz 2 beihilfefähige Pauschalbetrag zusätzlich für bis zu vier Wochen je Kalenderjahr zu 50 vom Hundert beihilfefähig. Absatz 2 Satz 2 und 3 bleibt unberührt.
+(4) Nimmt die pflegebedürftige Person häusliche Pflege nach Absatz 1 nur teilweise in Anspruch, ist daneben eine anteilige Pflegepauschale nach Absatz 2 beihilfefähig, sofern die Pflegeversicherung Kombinationsleistungen (§ 38 des Elften Buches Sozialgesetzbuch) erbringt. Die Pflegepauschale nach Absatz 2 wird um den Vomhundertsatz vermindert, in dem die pflegebedürftige Person beihilfefähige Aufwendungen nach Absatz 1 geltend macht. Eine anteilige Pflegepauschale nach Absatz 2 ist während einer Kurzzeitpflege nach § 4c Absatz 6 bis 8 und einer Verhinderungspflege nach Absatz 3 zusätzlich jeweils für bis zu vier Wochen je Kalenderjahr in Höhe der Hälfte der vor Beginn der Kurzzeit- oder Verhinderungspflege gezahlten Pauschale beihilfefähig.
