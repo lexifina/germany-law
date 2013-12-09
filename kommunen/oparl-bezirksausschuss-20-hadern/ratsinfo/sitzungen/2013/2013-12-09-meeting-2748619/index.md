@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2013-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2748619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2748619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Buslinie 167
+- TOP 1.2.: Verkehrskontrollen in der Würmtalstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 1: Einzäunung der Spiel- und Liegewiese im Naturlehrpfad (Antrag 2) (Baureferat, 21.11.13)
+- TOP 2: Aufstellung von Halteverboten für die Straßenreinigung (Antrag 4) (Baureferat, 21.11.13)
+- TOP 3: Mehr Kunststoffcontainer am Containerstandort Kriegerheimstraße (Antrag 1) (Kommunalreferat, 28.11.13)
+- TOP 3.4.: Verkehrssicherheit an der Kreuzung Waldwiesenstraße / Eichenstraße (Kreisverwaltungsreferat, 28.11.13)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Planung der Einsätze der Münchner SommerSpielAktion 2014 (Spielen in der Stadt, 06.11.13)
+- TOP 6.2.: Bauleitplanung der Gemeinde Gräfelfing, Bebauungsplan Nr. 11 A "Bahnhofstraße - West" (Referat für Stadtplanung und Bauordnung, 07.11.13)
+- TOP 6.3.: Großhaderner Straße 50, Neubau Kaltdachraum und Fassadendämmung einer Grundschule (Referat für Stadtplanung und Bauordnung, 02.12.13)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Haltverbot als Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße (Kreisverwaltungsreferat, 28.11.13)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Großhaderner Straße 50, gem. Baumbestandsplan Nr. 25722
+- TOP 7.2.: Eichenstraße 33, 1 Trompetenbaum
+- TOP 7.3.: Ettenhoferstraße 2 a, 1 Zypresse und 1 Blaufichte
+- TOP 7.4.: Guardinistraße 27, 1 Gelbkiefer
+- TOP 7.5.: Kornwegerstraße 55, 1 Ahorn
+- TOP 7.6.: Krokusstraße 49, 2 Scheinzypressen
+- TOP 7.7.: Enzianstraße 11, gem. Baumbestandsplänen Nr. 23741 und 23742
+- TOP 7.8.: Pfingstrosenstraße 44 a, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 23690
+- TOP 7.9.: Veilchenstraße 2, gem. Baumbestandsplan Nr. 4286
+- TOP 7.10.: Stiftsbogen 152 - 166, 3 Robinien
+- TOP 7.11.: Windeckstraße 60, 2 Thujen und 1 Eibe
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Am Kornacker 15, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 13.11.13)
+- TOP 7.2.: Haderunstraße 10 (Baureferat, 11.11.13)
+- TOP 7.3.: Liste des Baureferates: - vom 07.11.2013: 49 Bäume auf dem Waldfriedhof - vom 11.11.2013: 17 Bäume im Straßenbegleitgrün
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen, Antr. BA 15 Trudering-Riem vom 16.05.2013 (Direktorium, 29.10.13)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: Würmtalstraße 32: Strom (SWM, 04.11.13)
+- TOP 8.3.: Eingriff in Natur und Landschaft mit Fällungen bzw. Baumveränderungen auf dem Grundstück Marchioninistraße 15 (Referat für Stadtplanung und Bauordnung, 18.11.13)
+- TOP 8.4.: Übertragung der Entscheidung über Sondernutzungserlaubnisse auf die Bezirksausschüsse; Entscheidung über neue Verkaufseinrichtung, hier: Christbaumverkauf an der Sauerbruchstraße / Ecke Immastraße (Kreisverwaltungsreferat, 15.11.13)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Gräfelfinger Straße (Sozialreferat, 21.11.13) - Maenherstraße (Sozialreferat, 22.11.13)
+- TOP 8.6.: Finanzierung von Einwohnerversammlungen (Bürgermeisterin Strobl, 25.11.13)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Umrüstung der Straßenbeleuchtung in der Gräfelfinger Straße (Baureferat, 28.10.13)
+- TOP 9.2.: Einkommensgrenzen für Senioren beim München-Modell; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung am 04.12.2013 (Referat für Stadtplanung und Bauordnung, 07.11.13 und 18.11.13; Sozialreferat, 27.11.13)
+- TOP 9.3.: Verkehrssituation in der Straße Am Waldrand (Kreisverwaltungsreferat, 28.10.13)
+- TOP 9.4.: Zwischennachricht: Kein weiterer Ausbau der Straßenbahnlinie vom Romanplatz zum Ratzingerplatz (Referat für Arbeit und Wirtschaft, 31.10.13)
+- TOP 9.5.: Leerstehendes Haus an der Neufriedenheimer Straße 57 (Kommunalreferat, 04.11.13 und Referat für Stadtplanung und Bauordnung, 25.11.13)
+- TOP 9.6.: Wegebeleuchtung Sauerbruchstraße 48 (Referat für Stadtplanung und Bauordnung, 19.11.13)
+- TOP 9.7.: Radständer am U-Bahnhof Haderner Stern (Baureferat, 19.11.13)
+- TOP 9.8.: Ferienangebote für sozial benachteiligte Familien (Sozialreferat, 21.11.13)
+- TOP 9.9.: Zwischennachricht: Geschwindigkeitsbeschränkung auf 60 km/h für LKW nachts auf der A96 im Stadtgebiet (Kreisverwaltungsreferat, 21.11.13) BV-Anfrage Nr. 524
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Verkaufsstand in der Gelbhofstraße (Bayerischer Landesverband der Marktkaufleute, 14.11.13)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Raumordnerisches Entwicklungskonzept München Südwest, Vorstellung der bisherigen Ergebnisse (Referat für Stadtplanung und Bauordnung, 06.11.13)
+- TOP 11.2.: Sachbericht zum Tanz- und Theaterfestival "Rampenlichter" (Spielen in der Stadt, 04.11.13)
+- TOP 11.3.: 18.jetzt - Das Fest für junge Münchnerinnen und Münchner am 12.10.2013 im Rathaus (BA 2 Ludwigsvorstadt-Isarvorstadt, 04.11.13)
+- TOP 11.4.: BA 7 Sendling-Westpark: Radwegführung Fürstenrieder Straße
+- TOP 11.5.: Faltblatt "Wohnungsmarktdaten München 2012" (Referat für Stadtplanung und Bauordnung, 19.11.13)
+- TOP 11.6.: Neubau Hans-Grässel-Weg 11
+- TOP 11.7.: Urbanes NaturNetz für ganz München! "Grünzüge in Fahrt bringen!" durch neue Grüne Achsen in den 25 Münchner BezirksNaturNetzen (Urbanes Wohnen e.V. München, 24.11.13)
+- TOP 11.8.: Ergebnisse der ersten Münchner Jugendbefragung (Sozialreferat, 22.11.13)
+- TOP 11.9.: Münchner Selbsthilfejournal einBlick 04/2013 ist online (Selbsthilfezentrum München, 02.12.13)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 23.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12978 (gem. Ausschussbeschluss vom 16.10.2013): Gesamtfortschreibung des Landesentwicklungsprogramms Bayern a) Information über neues Landesentwicklungsprogramms 2013 b) Ersatzlose Löschung der Freihaltung der Transrapidtrasse aus dem Landesentwicklungsplan und nachgeordneten Plänen zu erwirken und dazu auch den Rechtsweg auszuschöpfen (Betrifft den Stadtbezirk 24 Feldmoching-Hasenbergl)
+- TOP 12.2.: Beschluss vom 23.10.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13110: Münchens Stadtteilkultur stärken Ausweitung von Betriebszuschüssen ab 2014 Personalkostenaufstockung (Ausweitung SNP) ab 2014, insbesondere zur Kultur in Hadern e.V. (S. 12), deren Förderung in gleicher Höhe fortgesetzt wird. Der Vorstand des BA Hadern hat mit Eilentscheidung vom 27.09.2013 der Beschlussvorlage zugestimmt. Auf den Beschluss des Kulturausschusses vom 17.10.2013 wird Bezug genommen.
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13447: Lichtzeichenanlagen-Bauprogramm Für Hadern sind keine neuen Anlagen vorgesehen. Die beantragte LZA an der Waldwiesenstraße / Am Ährenfeld hat 9,7 Punkte und steht damit an 11. Stelle. Die beantragte Anlage an der Sauerbruchstraße / Bushaltestelle Zöllerstraße steht mit 6,7 Punkten an 49. Stelle.
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12995: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale In Hadern sind keine Maßnahmen vorgesehen.
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13012: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau des Caritasverbandes (CV) (Ansatz unveränderte 215.954,- ? = Anlage, S. 4, Abschnitt 5.4.1, lfd. Nr. 10) und - zur Altenwohnanlage an der Konrad-Dreher-Straße 19 - 23 des CV (Ansatz unveränderte 52.595,- ? = Anlage, S. 11, Abschnitt 5.4.2, lfd. Nr. 30)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13051: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus am Wolkerweg" des BJR (Ansatz unverändert 199.861,- ?, beantragt 209.854,- ? = Anlage 1, S. 7, Abschnitt 3.1.1, lfd. Nr. 56), - zum "pfiffTEEN Treffpunkt für Jugendliche" des BJR (Ansatz unverändert 323.427,- ?, beantragt 339.599,- ?, a.a.O., lfd. Nr. 57), - zum "Treff 21" des Vereins "Schule-Beruf e.V." im DPWV (Ansatz unverändert lt. Antrag 357.326,- ? = Anlage 1, S. 8, a.a.O., lfd. Nr. 66), - zum "Studio im Netz" des Vereins "SiN e.V." (Ansatz unverändert lt. Antrag 84.928,- ? = Anlage 1, S. 9, a.a.O., lfd. Nr. 107), - zum "Familienzentrum Hadern-Blumenau" des DPWV (Ansatz unverändert 66.052,- ?, beantragt 67.289,- ? = Anlage 1, S. 17, Abschnitt 3.2.1, lfd. Nr. 13) und - zur "Nachbarschaft Neuhadern, Bewohnertreff" des DPWV (Ansatz unverändert lt. Antrag 102.807,- ? = Anlage 1, S. 22, Abschnitt 3.2.2, lfd. Nr. 2)
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13021: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Nachbarschaftstreff Blumenau" des "Vereins für Sozialarbeit e.V." im DPWV (Ansatz unverändert 54.580,- ? = Anlage, Abschnitt 4.1.7, S. 1, lfd. Nr. 9) und - zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz 49.390,- ? = a.a.O., lfd. Nr. 35)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13441: CarSharing in München Durchführung von Pilotprojekten Zwischenbericht zur Projekthalbzeit Anpassung der Rahmenbedingungen
+- TOP 12.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13042: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2013 - 2017, Einzelplan 4 / Sozialbereich mit Stellungnahme des Sozialreferates zum BA-Beschluss vom 08./09.04.2013 (Anlage 9, S. 21, zum inhaltsgleichen Antrag der SPD-Fraktion Nr. 3 und der CSU-Fraktion Nr. 6 = lit. "o" lt. Verwaltung, sowie zum Antrag der SPD-Fraktion Nr. 17): Die Errichtung eines 2. ASZ am Stiftsbogen wird abgelehnt. Die Errichtung eines neuen Sozialbürgerhauses (bisher an der Plinganserstraße) ist im Bebauungsplan Nr. 1769 a vorgesehen.
+- TOP 12.3.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 04.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13415: Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München
+- TOP 12.4.: Beschluss des Bauausschusses vom 19.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12710: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen Standarderhöhung und Finanzierung
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13227: Mehrjahresinvestitionsprogramm 2013 - 2017 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013 - 2017, insbesondere zum Wohnungsbau an der Sauerbruchstraße (Anlage 4, MIP 179)
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13302: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017 Gliederungsziffern: 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.7.: Beschluss des Ausschusses für Bildung und Sport vom 13.11.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13279: Mehrjahresinvestitionsprogramm (MIP) 2013 - 2017 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse, insbesondere zur Generalinstandsetzung der "Grundschule am Canisiusplatz" (S. 4 - 5) und zu den BA-Anträgen vom 08./09.04.2013, die vom Referat für Bildung und Sport verbeschieden werden (S. 21 - 24).
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
