@@ -1,0 +1,51 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-12-09T17:00:00+01:00
+- Ende: 2013-12-09T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYmnkbHRMxa3qGYkEUyzyTA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4240
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdlw_xQHt3qXZix9guFkhnoVT3ilF_pe4ZKmlwXkqrs-/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_09.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Vorstellung und Beschluss des kommunalen Einzelhandelskonzeptes (KEK) für die Stadt Solingen
+- TOP 4: Soziale Stadt Nordstadt
+- TOP 5: Umbau der Konrad-Adenauer-Straße
+- TOP 6: Straßen als Regenwasser-Fließwege
+- TOP 7: Einsatz von Kunststoff-Fenster- und -Türanlagen in städtischen Gebäuden
+- TOP 8: Parkraumbewirtschaftung am Standort Rathausplatz 1
+- TOP 9: Parkraumbewirtschaftung Ufergarten
+- TOP 10: Verkehrskonzept Ohligs-Ost
+- TOP 11: Neufassung von Standorten für die Windenergienutzung in Solingen
+- TOP 12: Ökologische Bewertung des Ittertals in der Stadt Solingen
+- TOP 13: Erstellung eines Gesamtgutachtens im Hinblick auf die weitere Bebauung des Ittertals
+- TOP 14: Geplante Kürzung und Änderung der Denkmalförderung des Landes NRW
+- TOP 15: Bauleitplanung Hauptstraße/Eiland
+- TOP 16: Bauleitplanung Monhofer Feld
+- TOP 17: Errichtung von privaten Kinderspielplätzen
+- TOP 18: Sozialer Wohnungsbau
+- TOP 19: Parkleitsystem Innenstadt und Zebrastreifen Bergstraße
+- TOP 20: Auswirkungen der Hofgarteneröffnung auf den Innenstadtverkehr
+- TOP 21: Verschiedenes
+- TOP 22: Windenergienutzung
+- TOP 23: Ersatzpflanzungen von Bäumen in Parkanlagen
+- TOP 24: Verkehrsbeziehungen in der Innenstadt
+- TOP 25: Umweltprüfung Ittertal und Reserveflächen für gewerbliche Nutzungen
+- TOP 26: Finanzielle Auswirkungen der 7. Novellierung der HOAI vom 17.07.2013
+- TOP 27: Auszeichnung der Stadt Solingen mit dem European Energy Award
+- TOP 28: Auszeichnung Solingens als Stadt der Weltdekade Bildung für nachhaltige Entwicklung der Vereinten Nationen
+- TOP 29: Vorhabenbezogener Bebauungsplan 1136V - Dreigrenzen (IKEA/Homepark)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Konrad-Adenauer-Straße
+- TOP 4: Bauleitplanung Monhofer Feld
+- TOP 5: Verschiedenes
