@@ -1,0 +1,54 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2013-12-10T18:00:00+01:00
+- Ende: 2013-12-10T19:52:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZU_JMqQ6cRQ8no4pzFXlAQg
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/14626
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfbbE03Z-5AEwhWdKX6C5J5aFZ05FJdJTOqKzOFLUN0t/Bekanntmachung_Rat_10.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRHdrIWw0EIaKMYhzBi8Rp67H0MmU6SxvUSYOmu7TzGr/Oeffentliche_Niederschrift_Rat_10.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 12.11.2013 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Bestellung eines weiteren stellvertretenden Wahlleiters für die Kommunalwahlen 2014 - Beschluss mit 30 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 5.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gem. § 46 Abs. 3 SchulG NRW n. F. - Beschluss mit 31 Ja-Stimmen bei 2 Enthaltungen:
+- TOP 6.: Widmung von Parkflächen an der "Große Bleiche" in Bad Münstereifel (Bebauungsplan Nr. 82, Teilbereich 1 "Ebenerdige Stellplätze Große Bleiche") - Beschluss mit 30 Ja- zu 2 Nein-Stimmen bei 1 Enthaltung:
+- TOP 7.: Widmung von Parkflächen an der "Dr. Greve-Straße" in Bad Münstereifel (Bebauungsplan Nr. 84, Goldenes Tal / eifelbad) - Beschluss mit 25 Ja- zu 7 Nein-Stimmen bei 1 Enthaltung:
+- TOP 8.: 3. Änderung des Bebauungsplan Nr 5b "Gewerbegebiet Bad Münstereifel Kernstadt - Bereich Flaches Feld / Steinsmühle" hier: Abwägungsbeschlüsse nach Offenlagen und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage I der Originalniederschrift) erfolgen mit folgender Ausnahme einstimmig:Behörden und sonstige Träger öffentlicher Belange – 8. Industrie und Handelskammer (Anlage 3 der Vorlage) sowie lfd. Nr. 1 Industrie und Handelskamme
+- TOP -: 3. Änderung des Bebauungsplans Nr. 5b "Gewerbegebiet Bad Münstereifel Kernstadt - Bereich Flaches Feld / Steinsmühle" hier: Abwägungsbeschlüsse nach den Offenlagen und Satzungsbeschluss - Beschluss
+- TOP -: 3. Änderung des Bebauungsplans Nr. 5b "Gewerbegebiet Bad Münstereifel Kernstadt - Bereich Flaches Feld / Steinsmühle" hier: Abwägungsbeschlüsse nach den Offenlagen und Satzungsbeschluss - Die Abwägungsbeschlüsse erfolgen mit folgenden Ausnahmen einstimmig:Abwägungsbeschlüsse mit 32 Ja-Stimmen bei 1 Enthaltung:Behörden und sonstige Träger öffentlicher Belange- 8. Industrie und Handelskammer (Anlage 3 der Z-1),- lfd. Nr. 1 Industrie und Hand
+- TOP 9.: Bebauungsplan Nr. 18 "Eicherscheid" 3. Änderung im vereinfachten Verfahren gem. § 13 BauGB hier: Abwägungsbeschlüsse, Satzungsbeschluss - Abwägungsbeschluss mit 31 Ja-Stimmen bei 2 Enthaltungen:- Öffentlichkeit – Einwand eines Bürgers gemäß Schreiben vom 24.11.2013Beschluss mit 31 Ja-Stimmen bei 2 Enthaltungen:
+- TOP -: Bebauungsplan Nr. 18 "Eicherscheid" 3. Änderung im vereinfachten Verfahren gem. § 13 BauGB hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss
+- TOP -: Bebauungsplan Nr. 18 "Eicherscheid" 3. Änderung im vereinfachten Verfahren gem. § 13 BauGB hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss
+- TOP -: Bebauungsplan Nr. 18 "Eicherscheid" 3. Änderung im vereinfachten Verfahren gem. § 13 BauGB hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss
+- TOP 10.: Aufhebung eines Teils des Bebauungsplanes Nr. 18 "Eicherscheid" für das Grundstück Gemarkung Münstereifel, Flur 8, Nr. 114,115, 116, Bitburger Str. 20-22 hier: Abwägungsbeschlüsse, Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP 11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.: 28. Satzung zur Änderung der Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münstereifel (Gebührensatzung zur Straßenreinigungssatzung der Stadt Bad Münstereifel vom 10.12.1980) - Einstimmiger Beschluss:
+- TOP 13.: 16. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel hier: Satzungsbeschluss - Einstimmiger Beschluss:
+- TOP 14.: Anfragen und Mitteilungen
+- TOP 14.1: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das 1. Halbjahr 2014 - Beschluss
+- TOP 14.2: Klimaschutz und Energieeffizienz - Beschluss
+- TOP 14.3: Zensus 2011
+- TOP 14.4: Verkehrsberuhigende Maßnahme auf der L 165 in Esch
+- TOP 14.5: Partnerschaftstreffen 2014
+- TOP 14.6: Ehrenamtspreisverleihung
+- TOP 14.7: Schulküche in der Grundschule Bad Münstereifel
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: 16. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel hier: Gebührenbedarfsberechnung - Beschluss
+- TOP -: 16. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel hier: Gebührenbedarfsberechnung - Einstimmiger Beschluss:
+- TOP 2.: ZOB-Bahnhof Hier: Vergabe der Bauarbeiten des 1. Bauabschnitts - Beschluss
+- TOP -: ZOB-Bahnhof Hier: Vergabe der Bauarbeiten des 1. Bauabschnitts - Beschluss mit 32 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 3.: Konzessionsvertrag Gas; hier: Sachstand und weitere Vorgehensweise - Einstimmiger Beschluss:
+- TOP 4.: Erneuerung der Schulküche im Schulzentrum hier: Auftragsvergabe - Beschluss
+- TOP 5.: Auflösung des Pachtvertrages Sauna - Einstimmiger Beschluss:
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Aktives Schuldenmanagement
+- TOP 6.2: Beschaffung von Feuerwehrfahrzeugen hier: Entscheidung des Bundeskartellamtes
