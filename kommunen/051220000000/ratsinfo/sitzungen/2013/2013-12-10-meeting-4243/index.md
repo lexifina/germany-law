@@ -1,0 +1,51 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-12-10T17:00:00+01:00
+- Ende: 2013-12-10T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZto8jEuX5ESW12HYtg4zw0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4243
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVaYahSWfZDyR7tu3sqW41n6WSkKQOK2uMXevEln2EDO/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_10.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 31. Sitzung am 17.10.2013
+- TOP 3: Online-Bürgerbefragung zur Ausweisung neuer Gewerbegebiete
+- TOP 4: Bürgerinitiative Rettet das Ittertal
+- TOP 5: Ausweisung eines Gebietes im Bereich Stöcken/Schrodtberg als Landschaftsschutzgebiet im Rahmen der Bauleitplanung Schrodtberg
+- TOP 6: Ausweisung von Gewerbegebieten; hier: Stärkere Einbeziehung der Belange der Unternehmen und ihrer Mitarbeiter bei den gesamtstädtischen Planungen
+- TOP 7: Weiterentwicklung der bergischen Zusammenarbeit im Städtedreieck
+- TOP 8: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 9: Mitgliederversammlung 2014 des Städtetages Nordrhein-Westfalen
+- TOP 10: Sachstandsbericht über die erste Sicherheitskonferenz der Stadt Solingen
+- TOP 11: Parkraumbewirtschaftung am Standort Rathausplatz 1
+- TOP 12: Nachtrag zum Stellenplan 2013/Stellenplan 2014
+- TOP 13: Verschiedenes
+- TOP 14: Türkei-Reise
+- TOP 15: Personelle Situation im Stadtdienst Gesundheit
+- TOP 16: Baumaßnahme Feuerwehrgerätehaus Rupelrath
+- TOP 17: Gemeinsame Feuerwehrleitstelle
+- TOP 18: Vereinbarkeit von Familie und Beruf
+- TOP 19: Solinger Kunst-Stiftung
+- TOP 20: Übertragung von Ratssitzungen ins Internet
+- TOP 21: Anfrage unter Bezugnahme auf § 24 GO NRW
+- TOP 22: Konferenz für Sicherheit und Vorbeugung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 31. Sitzung am 17.10.2013
+- TOP 3: Beförderung von Beamten
+- TOP 4: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG sowie der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 5: Vorberatung der Gesellschafterversammlung der Bergische Gesellschaft für Ressourceneffizienz mbH (BGR) am 13.12.2013
+- TOP 6: Genehmigung von Gesellschafterbeschlüssen der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 7: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG am 16.12.2013
+- TOP 8: Vorberatung der Gesellschafterverammlaung der Institut für Galvano und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) am 17.12.2013
+- TOP 9: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 10: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 11: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 12: Verschiedenes
