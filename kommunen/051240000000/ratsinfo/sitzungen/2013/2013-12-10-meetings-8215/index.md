@@ -1,0 +1,70 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und Betriebsausschüsse APH / KIJU / WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-12-10T15:06:00+01:00
+- Ende: 2013-12-10T16:24:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/194
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8215
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8215
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00163048.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00163995.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2012 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der CVUA-RRW AöR für das Geschäftsjahr 2012 - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2014 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - vertagt auf Rat
+- TOP 2.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan 2014 der Wirtschaftsförderung Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 2.4: Wirtschaftsplan 2014 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH i. L. (WiBeFö) - ungeändert beschlossen
+- TOP 2.5: Wirtschaftsplan der Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Änderung der Zweckverbandssatzung des Zweckverbandes Bergische Volkshochschule - ungeändert beschlossen
+- TOP 3.2: Änderung der Entgeltordnung der Bergischen Volkshochschule - ungeändert beschlossen
+- TOP 3.3: Änderung der Honorarordnung der Bergischen Volkshochschule - ungeändert beschlossen
+- TOP 3.4: Umzug des Herzzentrums der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 3.5: Wirtschaftlicher Erfolg der Cross-Border-Lease-Transaktion der AWG Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.6: Beteiligungsbericht 2012 - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Über- und außerplanmäßige Bereitstellung von Mitteln, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 5.2: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal – finanzielle Auswirkungen der bergischen Projekte - Entgegennahme ohne Beschluss
+- TOP 5.3: Analyse der Personalfluktuation 2011-2021 - 1. Fortschreibung der Daten - Entgegennahme ohne Beschluss
+- TOP 5.4: Kantinenbetrieb - Ergebnisse der Prüfung
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Gebührensatzung zur Abfallwirtschaft 2014 - ungeändert beschlossen
+- TOP 6.2: 6. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2014 - ungeändert beschlossen
+- TOP 6.4: Dritte Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.5: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und der Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2012 - ungeändert beschlossen
+- TOP 7.2: Entwurf des Gesamtabschlusses zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.3: Entwurf der Richtlinie für den Gesamtabschluss der Stadt Wuppertal (Gesamtabschlussrichtlinie) - Entgegennahme ohne Beschluss
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH / KIJU / WAW
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 9.1: Quartalsbericht III/2013 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 9.2: Quartalsbericht III/2013 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 9.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2013 der APH - ungeändert beschlossen
+- TOP 9.4: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2013 der APH Service GmbH - ungeändert beschlossen
+- TOP 9.5: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2014 - stationärer Bereich - - ungeändert beschlossen
+- TOP 9.6: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2014 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 9.7: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2014 bis 31.12.2014 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 11.1: KIJU 3. Quartalsbericht 2013 - Entgegennahme ohne Beschluss
+- TOP 11.2: Wirtschaftsplanung KIJU für das Jahr 2014 - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
+- TOP 13: Wasser und Abwasser
+- TOP 13.1: Bestellung und Abberufung der/s Betriebsleiters/in des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 13.2: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
