@@ -1,0 +1,7 @@
+# TOP 9: Wiederbefestigung eines Grabmals auf dem Friedhof Wehden
+
+- Sitzung: Ortsrat Wehden (77. Sitzung) (2013-12-10)
+- Körperschaft: Gemeinde Schiffdorf
+- Öffentlich: ja
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/17658
+- Beratung: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5334
