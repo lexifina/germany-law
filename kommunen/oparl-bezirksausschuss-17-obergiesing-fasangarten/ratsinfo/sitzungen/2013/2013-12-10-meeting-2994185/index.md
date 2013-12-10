@@ -1,0 +1,110 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2013-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2994185
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2994185
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Für den Erhalt des bestehenden Bauernmarkts - kein zum Bauernmarkt konkurrierender Wochenmarkt vor dem Kommerzkomplex, Bürgeranliegen der Bürgerinitiative Amisiedlung
+- TOP 2.2.: Antrag auf Schaffung einer Spielstätte für Bikepolo, Bürgeranliegen vom 29.11.2013
+- TOP 2.3.: Gutachten TRANSVER zur Verkehrlichen Neuordnung der Tegernseer Landstraße, Bürgeranliegen von Herrn R. vom 09.12.2013
+- TOP 2.4.: Verbesserung des Freizeitangebots auf dem Freizeitgelände an der Ichostraße, Bürgeranliegen von Herrn J. vom 10.12.2013
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Machbarkeitsstudie zur Verbesserung des Lärmschutzes und der Luftschadstoffbelastung an der Tegernseer Landstraße/Chiemgaustraße, Antrag DIE GRÜNEN vom 23.11.2013
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Budget der Bezirksausschüsse, Antragsteller: REGSAM, Postkarte "Kinder, Jugend und Familie in Giesing", Antragssumme: 611,51 ?
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung der Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Beschlussvorlage des KVR vom 28.11.2013
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 5.1.3.1.1 Eslarner Str. 5-7, Neubau von zwei Mehrfamilienhäusern (je 6 WE) mit Tiefgarage, Anhörung PlanR vom 21.11.2013, 5.1.3.1.2 Fasangartenstr. 127a, Neubau einer russisch-orthodoxen Kirche "Buna Vestire" (bis zu 150 Besucher), Anhörung PlanR vom 14.11.2013, 5.1.3.1.3, Weißenseestr. 45, Errichtung einer temporären Schulraumeinheit (Standzeit bis 2024), Anhörung PlanR vom 28.11.2013
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Wohnungsmarkt München - Expertenbefragung 2013 Sitzungsvorlage Nr. 08-14 / V 13572, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 0.3.: Einkommensgrenzen für Senioren beim München-Modell, Empfehlung Nr. 08-14 / E 01924 der Bürgerversammlung des Stadtbezirks 20 - Hadern am 25.09.2013, Sitzungsvorlage Nr. 08-14 / V 13475, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 0.4.: Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017 Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge, Stellungnahmen zu den Anträgen der Bezirksausschüsse, Sitzungsvorlage Nr. 08-14 / V 13302, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013
+- TOP 0.5.: Mehrjahresinvestitionsprogramm 2013 - 2017, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013 2017, Sitzungsvorlage Nr. 08-14 / V 13227, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013
+- TOP 0.6.: Sanierung des S-Bahnhofs St.-Martin-Straße, Empfehlung Nr. 08-14 / E 01456 der Bürgerversammlung des Stadtbezirks 17 Obergiesing-Fasangarten am 05.07.2012, Antwortschreiben des RAW vom 08.11.2013
+- TOP 0.7.: Engergiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete", Antrag Nr. 08-14 / A 03196 der Stadtratsfraktion DIE GRÜNEN/RL vom 22.03.2013, Sitzungsvorlage Nr. 08-14 / V 13147, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 04.12.2013
+- TOP 0.8.: Antrag auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen fünf zusätzlicher Verkaufseinrichtungen vor dem Anwesen Schwanseestraße 5; Schreiben des Oberbürgermeister vom 13.11.2013
+- TOP 0.9.: Bebauungsplan mit Grünordnung Nr. 2037, Terminverlängerung, Information des PlanR vom 14.11.2013
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Errichtung von Mobilen Schulraumeinheiten an den nachstehenden Standorten in München, A) Errichtung einer Mobilen Schulraumeinheit für 8 Grundschulklassen und Räumen für ganztägige Betreuung an der Weißenseestraße 45 im 17. Stadtbezirk Obergiesing-Fasangarten 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Projektgenehmigung 4. Genehmigung der Ausführung von vorgezogenen Maßnahmen 5. Genehmigung zur verwaltungsinternen Aufsführungsgenehmigung 6. Änderung des Entwurfs des Mehrjahresinvestitionsprogrammes 2013 - 2017, Investitionsliste 1 7. Außerplanmäßige Mittelbereitstellung im Finanzhaushalt 8. Ausnahme vom Finanzierungsmoratorium Sitzungsvorlage Nr. 08-14 / V 13390 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 13.11.2013
+- TOP 0.2.: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, Sitzungsvorlage Nr. 08-14 / V 12995, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013
+- TOP 0.3.: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 08-14 / V 13012, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013
+- TOP 0.4.: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 08-14 / V 13021, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013
+- TOP 0.5.: Haushaltsplan 2014, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Sitzungsvorlage Nr. 08-14 / V 13051, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.2013
+- TOP 0.6.: Fortführung der Mediation zu Nutzerkonflikten am Walchseeplatz, E-Mail der Mediatorin vom 19.11.2013
+- TOP 0.7.: Sachbericht: Tanz- und Theaterfestival "Rampenlichter"
+- TOP 0.8.: Bauliche Themen Asam-Gymnasium, Schreiben des Asam-Gymnasium vom 05.11.2013
+- TOP 0.9.: 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 12.10.2013 im Rathaus, Information des BA 2 - Ludwigsvorstadt-Isarvorstadt - über die Ergebnisse
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Parklizenzen für Besucher in München Antrag Nr. 08-14 / A 02839 der Stadtratsfraktion der FDP vom 24.10.2011, Sitzungsvorlage Nr. 08-14 / V 13392, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 0.2.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen, Standarderhöhung und Finanzierung, Endlich auch die Radwege professionell schneeräumen - oder wann bleibt München endlich fahrradfreundlich auch im Winter? Antrag Nr. 08-14 / A 04018 von Herrn Stadtrat Dr. Georg Kronawitter und Herrn Stadtrat Richard Quaas vom 07.02.2013 Radlhauptstadt München auch im Winter - Verkehrssicherheit auf Mnchens Radwegen auch im Winter und bei Minusgraden gewährleisten! Antrag Nr. 08-14 / A 04035 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.02.2013 Winterdienst auf Gehbahnen, Antrag Nr. 08-14 / A 04667 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Bettina Messinger vom 04.10.2013, Sitzungsvorlage Nr. 08-14 / V 12710, Beschluss des Bauausschusses vom 19.11.2013
+- TOP 0.3.: CarSharing in München, Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit, Anpassung der Rahmenbedingungen, Sitzungsvorlage Nr. 08-14 / V 13441, Beschluss des Kreisverwaltungsausschusses vom 26.11.2013
+- TOP 0.4.: Lichtzeichen-Bauprogramm, Sitzungsvorlage Nr. 08-14 / V 13447, Beschluss des Kreisverwaltungsausschusses vom 26.11.2013
+- TOP 0.5.: Handlungsprogramm Mittlerer Ring, Sachstand und weiterer Handlungsbedarf, Sitzungsvorlage Nr. 08-14 / V 10707, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 0.6.: Freie Fahrt für Rad Fahrende in der Hohenwaldeckstraße, Öffnung der in Richtung Süden einbahngeregelten Hohenwaldeckstraße zwischen der Werinherstraße und der St.-Martin-Straße, Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 1: (E) Verbot des Einsatzes von Laubbläsern und Laubsaugern an allen Haltestellen der MVG Empfehlung Nr. 08-14 / E 01902 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing-Fasangarten am 04.07.2013
+- TOP 1.1.: Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München, Antrag Nr. 08-14 / A 03331 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.05.2012, Sitzungsvorlage Nr. 08-14 / V 13415, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 04.12.2013
+- TOP 1.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Wirthstr. 1, Bescheid vom 05.11.2013, 2. Stadelheimer Str. 12, Bescheid vom 06.11.2013, 3. Deisenhofener Str. 98-104, Bescheid vom 19.11.2013,
+- TOP 1.3.: Aufstellen einer Reifenwaschanlage auf der Baustelle auf dem ehemaligen Agfa-Gelände, Antwortschreiben des PlanR vom 18.11.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Sachbericht des Quartiersmanagements für den vom Bezirksausschuss 17 bewilligten Zuschuss aus dem BA-Budget für die Aktion "Sommer im Park - Bürgerfest am 12.07.2013 im Weißenseepark
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Maxlrainstr. 1-7, 1 Sommerlinde, Antrag vom 09.11.2013 2. Waldsassener Str. 21, 1 Fichte, Antrag vom 06.11.2013 3. Fasangartenstr. 164, 4 Fichten, 1 Tanne, Antrag vom 07.11.2013 4. Sachrangerstr. 8-10, 2 Vogelbeeren, Antrag vom 05.11.2013 5. Holtzendorffstr. 17/19, 1 Ahorn, 1 Birke, Antrag vom 11.10.2013 6. Arzbergerstr. 24-30, 1 Vogelkirsche, Antrag vom 28.10.2013 7. Fasangartenstr. 98, 1 Tanne, Antrag vom 20.11.2013
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Anhörungsfrist für die Bezirksausschüsse nach § 13 Abs. 1 der Bezirksausschuss-Satzung, Information der 2. Bürgermeisterin vom 29.10.2013
+- TOP 7.2.: Verweise der Mitarbeiter/innen des Kulturreferats an das Budget der Bezirksausschüsse, Schreiben des BA 1- Altstadt-Lehel - vom 18.10.2013
+- TOP 7.3.: Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen, Antrag des Bezirksausschusses 15, Trudering-Riem, Antwort des Direktorium vom 29.10.2013
+- TOP 7.4.: Finanzierung von Einwohnerversammlungen; Schreiben vom 27.09.2013, Information der Bürgermeisterin vom 25.11.2013
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 1.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
