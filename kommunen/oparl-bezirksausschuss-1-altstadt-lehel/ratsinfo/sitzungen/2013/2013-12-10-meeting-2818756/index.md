@@ -1,0 +1,54 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2013-12-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2818756
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2818756
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstraße 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro-, Wohn- und Geschäftshaus
+- TOP .2.: Frauenstraße 10-12, DG-Ausbau mit 3 neuen Wohnungen; zwei Aufzugsanbauten; diverse Nutzungsänderungen
+- TOP .3.: Stollbergstr. 15, Umbau eines denkmalgeschützten Gebäudes: 4 Gewerbeeinheiten und 1 Wohneinheit zu 2 Wohneinheiten
+- TOP .4.: Praterinsel 3-4, Anbau einer Außentreppe und Nutzungsänderung eines Fabrik- und Lagergebäudes (Haus 3) in Atelier sowie Ausstellungs- und Veranstaltungsflächen für maximal 300 Besucher, befristet auf ein Jahr (mit Verlängerungsoption um ein weiteres Jahr)
+- TOP .5.: Oettingenstr. 26, Errichtung eines neuen Dachstuhls, Änderung der Fassade im Erd- und Dachgeschoss, Errichtung von Dachgauben und Dachterrassen, Tektur
+- TOP .6.: Herzog-Wilhelm-Str. 22, Nutzungsänderung von Gewerbeeinheiten und einer Wohnung in Büroräume, Tektur (ohne Vorberatung)
+- TOP .7.: Josephspitalstr. 8, Nutzungsänderung einer Hausmeisterwohnung zu Büroräumen ? ohne Baumaßnahmen (ohne Vorberatung)
+- TOP .8.: Maximilianstr. 50, Umbau, Sanierung, Nutzungsänderung 1. OG von Wohnen zu Büro und Anbau von Balkonen ? Tektur, hier: Wanddurchbruch bei Stellplatz TG und Grundrissänderung 4. / 5. OG (ohne Vorberatung)
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Sparkassenstraße 5, Aufstellung von Postkartenständern
+- TOP .2.: Tal ? Entwicklung (Freischankflächengestaltung, etc.) nach Fertigstellung der Baumaßnahme
+- TOP .3.: Sendlinger Straße, Fußgängerzone: 1. Evaluierung Freischanflächengestaltung etc. 2. Turnusplatz für Obst- / Gemüse-Verkauf 3. Turnusplatz für Werbeverkauf
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Inthronisation des Narhalla-Faschingsprinzenpaares, 11.01.2014, Marienplatz
+- TOP .2.: Faschingszug der Damischen Ritter, 16.02.2014, Innenstadt
+- TOP .3.: Glockenspiel-Turnier, 14.-17.08.2014, Marienhof
+- TOP .4.: Gedenkveranstaltung am Platz der Opfer des Nationalsozialismus, 27.01.2014 (ohne Vorberatung)
+- TOP .1.: Antrag: Durchführung einer Verkehrszählung am Isartorplatz
+- TOP .1.: Widmung einer Teilstrecke der Alfons-Goppel-Straße und einer Teilstrecke der Hofgartenstraße, Vollzug des BayStrWG, Sitzungsvorlage Nr. 08-14 / V 13457
+- TOP .1.: Bruderstr. 3, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP .2.: Baumfällung Reichenbachstr. 5, vertagt aus 2013.11 D 3.3
+- TOP .3.: Baumfällung Franz-Joseph-Strauß-Ring 4, vertagt aus 2013.11 D 3.4
+- TOP .4.: Urbanes Natur Netz, Urbanes Wohnen e.V. München, Bitte um Rückmeldung zu Rundbrief an alle Bezirksausschüsse
+- TOP .1.: Bürgerantrag: Spielstätte für Bikepolo im Bereich der Sportanlage Hirschanger
+- TOP .1.: (E) Budget der Bezirksausschüsse Kammeroper München e.V. Figurentheater "Falstaff" am 25.01. und 16.02.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Trägerverein Kindergarten am St.Anna-Platz e.V. Neuanschaffungen für den Kindergarten
+- TOP 0: Unterrichtungen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
