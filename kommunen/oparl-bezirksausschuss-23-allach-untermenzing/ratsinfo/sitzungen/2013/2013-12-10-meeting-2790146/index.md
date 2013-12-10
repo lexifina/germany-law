@@ -1,0 +1,81 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2013-12-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2790146
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2790146
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Neue Bushaltestelle Angerlohstr. 14
+- TOP 2.2.2.: Menzinger Straße, Tempo 50 beibehalten
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse wohlBEDACHT ? Wohnen für dementiell Erkrankte e.V. Beschaffung einer dementengerechten Sitzgruppe
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Verein zur Förderung der HS Franz-Nißl-Str. e.V. Projekt Bandklasse von Januar bis Juli 2014
+- TOP 3: (E) Busverbindung von S-Bahnhof Allach nach S-Bahnhof Moosach über die Ludwigsfelder Straße Empfehlung Nr. 08-14 / E 01913 der Bürgerversammlung des Stadtbezirkes 23 - Allach-Untermenzing am 23.07.2013
+- TOP 4: (E) Baugrube Manzostr. 37a Empfehlung Nr. 08-14 / E 01918 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 23.07.2013
+- TOP 5: (E) Verhinderung des Lkw-Verkehrs in der Von-Reuter-Straße und Rueßstraße Empfehlung Nr. 08-14 / E 01111 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 20.10.2011
+- TOP 5: Anhörungen
+- TOP 5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2014
+- TOP 5.2.: Behringstraße, Gemarkung Untermenzing, Fl.Nr.: 891/0: Neubau einer Lagerhalle (Behringstraße / Pasinger Heuweg)
+- TOP 5.3.: Löherweg, Fl.Nr. 697/9: Antrag auf Fällung von 5 Fichten
+- TOP 5.4.: Niethammerstr. 13, Fl.Nr. 175/23, Gemarkung Untermenzing Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtplanung und Bauordnung Katalog-Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), hier: Nachtrag in die Denkmalliste (Vertagung aus der BA-Sitzung am 12.11.13)
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.10.13: Bebauungsplan mit Grünordnung Nr. 2085 Karlsfelder Straße (neu) zwischen Dachauer Straße und bestehender Karlsfelder Straße in Höhe der Brücke über das Schwabenbächl -Aufstellungsbeschluss-
+- TOP 6.2.: Beschluss der Vollversammlung vom 23.10.13: a) Parkraummanagement in München (Sitzungsvorlage Nr. 08-14 / V 11718) b) Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlage Nr. 08-14 / V 12978)
+- TOP 6.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.11.13: Haushaltsjahr 2014; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" a) des Amtes für Wohnen und Migration b) des Amtes für Soziale Sicherung c) der Zentrale
+- TOP 6.4.: Beschluss des Ausschuss für Bildung und Sport vom 13.11.13: Mehrjahresinvestitionsprogramm (MIP) 2013-2017; 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, 2. Verfahrenstechnische Neuerungen, 3. Stellungnahmen der Bezirksausschüsse (Sitzungsvorlage Nr. 08-14 / V 13279)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.13: a) Lebensmittelversorgung in der Gerberau sicherstellen b) Mehrjahresinvestitionsprogramm für die Jahre 2013-2017; Gliederungsziffern c) Mehrjahresinvestitionsprogramm 2013-2017; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013-2017
+- TOP 6.6.: Beschluss des Bauausschusses vom 19.11.13: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen, Standarderhöhung und Finanzierung (Sitzungsvorlage Nr. 08-14 / V 12710)
+- TOP 6.7.: Beschluss des Kreisverwaltungsausschusses vom 26.11.13: a) Lichtzeichenanlagen-Bauprogramm (Sitzungsvorlage Nr. 08-14 / V 13447) b) CarSharing in München, Durchführung von Pilotprojekten, Zwischenbericht zur Projekthalbzeit, Anpassung der Rahmenbedingungen (Sitzungsvorlage Nr. 08-14 / V 13441)
+- TOP 6.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.13: Stellplatzschlüssel im Wohnungsbau
+- TOP 6.9.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 04.12.13: a) Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München (Sitzugsvorlage Nr. 08-14 / V 13415) b) Energiekonzepte für neue Baugebiete; a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren; b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete" c) Wohnungsmarkt München - Expertenbefragung 2013 d) Einkommensgrenzen für Senioren beim München-Modell e) Parklizenzen für Besucher in München
+- TOP 6.10.: Beschluss des Sozialausschusses vom 05.12.13: a) Bauträgerauswahl für Baugrundstücke, Produkt 60 4.1.8; GWG Städtische Wohnungsbaugesellschaft München mbH, u.a. Privates Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B, 23. Stadtbezirk Allach-Untermenzing, Theodor-Kitt-Str. 22, Flst. 747/3, Gemarktung Untermenzing (Sitzungsvorlage Nr. 08-14 / V 13088) b) Verlegung des Hans-Sieber-Hauses von der Manzostraße an die Franz-Nißl-Straße oder einen vergleichbaren Standort im Stadtbezirk 23 und Betriebsführung des Hauses an der Tauernstraße; Altenheim Hans-Sieber-Haus an der Manzostr. 105; Erhalt bereits dort vorhandener Sozialeinrichtungen wie z.B. ASZ (BV-Empf. 1906) c) Ergänzung vom 25.11.13: Verlegung des Hans-Sieber-Hauses von der Manzostraße an die Franz-Nißl-Str. oder einen vergleichbaren Standort im Stadtbezirk 23 und Betriebsführung des Hauses an der Tauernstraße; Altenheim Hans-Sieber-Haus an der Manzostr. 105; Erhalt bereits dort vorhandener Sozialeinrichtungen wie z.B. ASZ (BV-Empf. 1906)
+- TOP 6.11.: Beschluss des Bauausschusses vom 10.12.13: Darstellung und Überraschung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen
+- TOP 7: Verschiedenes
+- TOP 7.1.: Schreiben BA 2 Ludwigvorstadt-Isarvorstadt vom 04.11.13: 18.jetzt - Das Fest für junge Münchnerinnen und Münchner am 12.10.13 im Rathaus
+- TOP 7.2.: Schreiben Sozialreferat vom 21.11.13: Einladung zur Infoveranstaltung für die Bezirksausschüsse am 12.12.13
+- TOP 7.3.: Urbanes NaturNetz für ganz München!
+- TOP 7.4.: Ergebnisse der ersten Münchner Jugendbefragung
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben 2. Bürgermeisterin Strobl vom 29.10.13: Anhörungsfrist für die Bezirksausschüsse nach § 13 Abs. 1 der Bezirksausschuss-Satzung
+- TOP 8.2.: Schreiben Baureferat vom 13.11.13: Bankette Stieglstraße und Pasinger Heuweg
+- TOP 8.3.: Schreiben Baureferat vom 13.11.13: Bürgeranliegen aus der BA-Sitzung vom 08.10.13 (Bank am Allacher Maibaum, Spielplatz / Bolzplatz Hitlstraße, Kneippanlage Servetstraße)
+- TOP 8.4.: Schreiben Baureferat vom 18.10.13: Kunstwerk aus Stein auf dem Gelände des ehem. Allacher Sommerbades (Antrag Nr. 08-14 / B 05209 des BA 23 vom 10.09.13)
+- TOP 8.5.: Schreiben Baureferat vom 26.11.13: Beschwerde zur Straßenbeschaffung und Verhältnisse
+- TOP 8.6.: Schreiben Sozialreferat vom 04.11.13, 11.11.13: Zweckentfremdung von Wohnraum; Baldusweg, Höcherstraße
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Hormayrstr. 13, Stormeyerstr. 6,Hormayrstr. 15, Trumppstr. 11, Auenbruggerstr. 46, Eversbuschstr. 69, Riezlerweg 41, Ramannstr. 21, Vorherstr. 4, Finsterwalderstr. 44, Zitauer Str. 29, Streberstr. 19, Untere Mühlstr. 31, Angerlohstr. 55, Manzostr. 41, Manzostr. 94, Kreckestr. 6, Untere Mühlstr. 30, Herbigstr. 19, Untere Mühlstr. 31, Hormayrstr. 16
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.11.13: Vollzug der Baumschutzverordnung in Zusammenhang mit einem Bauvorhaben; Arnoldstr. 10, Dachauer Str. 568
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom: Bauanträge (28.10.-03.11.11, 04.11.-10.11.13, 11.11.-17.11.13, 18.11.-24.11.13)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.11.13: Faltblatt "Wohnungsmarktdaten München 2012"
+- TOP 8.11.: Broschüre Referat für Stadtplanung und Bauordnung "Denkmalschutz in München, 40 Jahre Bayerisches Denkmalschutzgesetz"
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 11.11.13, 18.11.13, 25.11.13: Baumaßnahmen
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 24.09.13: Z 283 in der Schöllstraße beidseitig
+- TOP 8.14.: Schreiben Referat für Bildung und Sport vom 20.11.13: Hortplätze in Allach-Untermenzing (BA-Antrag Nr. 3809 vom 13.03.12)
+- TOP 9: Nachtrag
+- TOP 9.1.: Umlauf: Schreiben Direktorium vom 02.12.13: Abrechnung der Aufwandsentschädigungen nach § 18 BA-Satzung; hier: steuerliche Behandlung des Abrechnungsjahres 2013 und Abrechnung der Aufwandsentschädigungen im Jahr 2014
+- TOP 9.2.: Schreiben Direktorium vom 25.11.13: Wohnungslosenunterkunft Schöllstraße 2
+- TOP 9.3.: Schreiben Sozialreferat vom 27.11.13: Altenheim Hans-Sieber-Haus an der Manzostr. 105; Erhalt des dort bereits vorhandenen Alten- und Service-Zentrums (ASZ)
+- TOP 9.4.: Schreiben Sozialreferat vom 27.11.13: Ergänzung Beschluss Sozialausschuss vom 05.12.13: Verlegung des Hans-Sieber-Hauses von der Manzostraße an die Franz-Nißl-Straße oder eines vergleichbaren Standort im Stadtbezirk 23
+- TOP 9.5.: Schreiben Sozialreferat vom 16.10.13: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen
+- TOP 9.6.: Schreiben Stadtwerke München vom 02.12.13: Baumaßnahmen
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.11.13: Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Baldusweg 4, Hubert-Beckers-Str.
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung, Einzelfällungsanträge: August-Föppl-Str., Waldhornstr. 71, Franz-Albert-Str. 17
+- TOP 9.9.: Schreiben Deutsche Bahn AG vom 30.11.13: Fahrkartenautomaten am Oertelplatz
+- TOP 9.10.: Schreiben Referat für Arbeit und Wirtschaft vom 02.12.13: Newsletter Wirtschaft 11/2013
+- TOP 9.11.: Schreiben Kulturreferat vom 02.12.13: Veranstaltungen/ Kooperationen Dezember 2013
+- TOP 9.12.: Schreiben Selbsthilfezentrum München vom 02.12.13: Münchner Selbsthilfejournal einBlick 4/2013
+- TOP 9.13.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.13: Flächenhaften Naturschutz in der Verwaltung stärken! (Sitzungsvorlagen Nr. 13318)
