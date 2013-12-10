@@ -1,0 +1,105 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2013-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2781348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2781348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben von Bürgern aus der Maxvorstadt vom 24.11.2013 Wiederinbetriebnahme der Ampelanlage Augusten-/Görresstraße (s. TOP C 2.1.2)
+- TOP 5.2.2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 21.11.2013 Situation auf dem Georg-Elser-Platz (s. TOP C 2.2.4)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 44., 45., 46., 47. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 42., 43., 44., 45., 46. KW
+- TOP 2.1.3.: Sandstraße 35, Abbruch des Werkstattgebäudes und Neubau eines Wohngebäudes (RGB) mit Tiefgarage
+- TOP 2.1.4.: Zieblandstraße 28, Neubau eines Mehrfamilienhauses und Abbruch einer Garagenanlage
+- TOP 2.1.5.: Umstrukturierung des Areals der Tierärztlichen Fakultät der LMU zwischen Veterinärstraße, Königinstraße und Englischem Garten ? Anhörung - Entwicklungscampus Königinstraße mit Neubau Nano-Institut LMU München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014
+- TOP 2.1.6.: Schellingstraße 127, Neubau eines Rückgebäudes mit Pensionsnutzung
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Nordendstraße 12, ein Bergahorn
+- TOP 3.2.2.: Arcisstraße 48, eine Hainbuche
+- TOP 3.2.3.: Brienner Straße 56, eine Weide
+- TOP 3.2.4.: Georgenstraße 27, ein Eschenahorn
+- TOP 3.2.5.: Nymphenburger Straße 51, eine Eibe
+- TOP 3.2.6.: Kaulbachstraße 16, eine Hängebirke
+- TOP 3.2.7.: Zieblandstraße 18a-20, ein Holunderbaum
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Urbanes Wohnen e.V. Urbanes NaturNetz für ganz München-Mode ?Grünzüge in Fahrt bringen!? durch neue Grüne Achsen in den 25 Münchener BezirksNa- turNetzen
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörungen LZA-Abbau Friedrichstraße/Georgenstraße
+- TOP 2.1.2.: Schreiben von Bürgern aus der Maxvorstadt vom 24.11.2013 Wiederinbetriebnahme der Ampelanlage Augusten-/Görresstraße (s. TOP A 5.2.1)
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsanordnungen, Schulwegsicherheit Geschwindigkeitsbeschränkung auf 30 km/h und Gefahrzeichenbeschilderung in der Schellingstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Sondernutzung, Entscheidung Adalbertstraße 21, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Türkenstraße 71, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.3.: Baureferat, Anhörung Einrichten von Fahrradstellplätzen auf öffentlichem Grund für die TU München im Bereich des Haupteinganges in der Arcisstraße 21
+- TOP 2.2.4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 21.11.2013 Situation auf dem Georg-Elser-Platz (s. TOP A 5.2.2)
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Spielen in der Stadt e.V. Planung der Einsätze der Münchner SommerSpielAktion 2014
+- TOP 2.2.: Budget Antragsteller: La Foret Magique ? Der Zauberwald e.B. beantragter Zuschuss: 1.268,75 ? Maßnahme: Ausstattung eines Turnraumes
+- TOP 2.3.: Budget Benediktinerabtei St. Bonifaz, Obdachlosenhilfe St. Bonifaz im Haneberghaus beantragter Zuschuss: 1.100,00 ? Maßnahme: Gebühren für die Ausstellung von Ausweisen von mittellosen Personen
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Mehrjahresinvestitionsprogramm 2013 ? 2017 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2013 ? 2017 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 Sitzungsvorlage Nr. 08-14 / V 13227
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Mehrjahresinvestitionsprogramm für die Jahre 2013 ? 2017 Stellungnahmen zu den Anträgen der Bezirksausschüsse Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 Sitzungsvorlage Nr. 08-14 / V 13302
+- TOP 1.3.: Referat für Gesundheit und Umwelt, Beschlussvorlage Energienutzungsplan ? nachhaltige und vorausschauende Energieplanung für München Beschluss der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13415
+- TOP 1.4.: Antrag auf Auskunft zur Straßenausbaubeitragssatzung bei Baumpflanzungen im öffentlichen Straßenraum
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung Wohnungsmarkt München ? Expertenbefragung 2013 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13572
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages ?Entwicklung von Energiekonzepten für Baugebiete? Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauord- nung und des Umweltschutzausschusses vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbe- zirken 3 Maxvorstadt, 4 Schwabing-West und 12 Schwabing-Freimann U.a. Antrag des BA 3 Nr. 08-14 / B 04901 vom 11.06.2013: Das Instrument der Erhaltungs- satzung weiterentwickeln ? Ergänzung der Indikatoren Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 12718
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße (Teiländerung der Bebauungspläne Nrn. 12b und 1606) ? Siemens Konzernzentrale - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13511
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Grundsatzangelegenheiten Einrichtung einer Fahrradstraße in der Adalbertstraße, BA-Anträge Nrn. 08-14 / B 2527 vom 15.11.2010 und 4373 vom 19.10.2012 Schreiben des KVR vom 31.10.2013
+- TOP 2.2.: Baureferat, Beschlussvorlage Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen; Standarderhöhung und Finanzierung
+- TOP 2.3.: Baumaßnahmen der Stadtwerke München a) Karlstraße 47 a, Strom b) Seidlstraße 28, Fernwärme c) Richard-Wagner-Straße 19, Fernwärme d) Richard-Wagner-Straße 17, Fernwärme e) Finkenstraße 2, Fernwärme f) Wittelsbacherplatz 4, Fernwärme g) Jägerstraße 1, Fernwärme
+- TOP 2.4.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImschG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImschV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImschV Fahrbahnquerung für Fernwärme, Nymphenburger Straße 62 bis 70
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehssteuerung, Beschlussvorlage Lichtzeichenanlagen-Bauprogramm Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 Sitzungsvorlage Nr. 08-14 / V 13447
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte, Grudsatzange- legenheiten, Beschlussvorlage CarSharing in München; Durchführung von Pilotprojekten, Zwischenbericht zur Projekt- halbzeit, Anpassung der Rahmenbedingungen Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 Sitzungsvorlage Nr. 08-14 / V 13441
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung Parklizenzen für Besucher in München Antrag Nr. 08-14 / A 02839 der Stadtratsfraktion der FDP vom 24.10.2011 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13392
+- TOP 2.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Temporäre Straßenumwidmungen in München Temporäre Durchfahrtssperre am Königsplatz an Sonntagen vom 15.05.2007 bis 15.11.2007 Antrag Nr. 02-08 / B 02004 des BA 3 vom 13.03.2007 Renaissance des öffentlichen Raumes II Zeit-Räume! Temporäre Straßenumwidmungen ermöglichen Antrag Nr. 02-08 / A 04225 der Stadtratsfraktion Bündnis 90/Die Grünen/Rosa Liste vom 07.02.2008 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 10266
+- TOP 2.9.: Referat für Gesundheit und Umwelt, Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Sandstraße 49, Krandemontage
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Referat für Bildung und Sport Kindertagesstätten sonstiger Träger; Kinderkrippe Richard-Wagner-Straße 5 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von In- vestitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2014 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 13.11.2013 Sitzungsvorlage Nr. 08-14 / V 13180
+- TOP 3.2.: Bebauungsplan mit Grünordnung Nr. 1873 Arnulfpark Errichtung von Räumen für eine offene Einrichtung für Kinder und Jugendliche bis 14 Jahre und einen Nachbarschaftstreff Erika-Mann-Straße: 1. Genehmigung des Nutzerbedarfsprogramms; 2. Ermächtigung zum Betrieb der Einrichtung; 3. Erteilung des Vorplanungsauftrags Beschluss des Kinder- und Jugendhilfe- und des Sozialausschusses in der gemeinsamen Sitzung vom 03.12.2013 Sitzungsvorlage Nr. 08-14 / V 11287
+- TOP 3.3.: Sozialreferat Einkommensgrenzen für Senioren beim München-Modell Empfehlung Nr. 08-14 / E 01924 der BV des Stadtbezirkes 20 ? Hadern vom 25.09.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13475
+- TOP 4: Kultur
+- TOP 4.1.: Kulturreferat, Antwortschreiben Denkmal der Erinnerung für die zahlreichen Nobelpreisträger, die in der Maxvorstadt geforscht und gelebt haben BA-Antrag Nr. 08-14 / B 04989 des BA 3 vom 09.07.2013
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Schreiben der Kinder- und Jugendbeauftragten des BA 2 Ludwigsvorstadt-Isarvorstadt 18.Jetzt ? Das Fest für junge Münchnerinnen und Münchner, Unterrichtung
+- TOP 4.3.: Direktorium, Unterrichtung Telefonnummern der Münchner Stadtverwaltung öffentlich zugänglich machen Antrag des BA 15 Trudering ? Riem vom 16.05.2013, Nr. 08-14 / B 04839
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
