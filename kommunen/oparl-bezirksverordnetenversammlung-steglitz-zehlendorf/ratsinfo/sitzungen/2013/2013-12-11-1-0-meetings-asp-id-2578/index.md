@@ -1,0 +1,100 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2013-12-11T17:00:00+01:00
+- Ende: 2013-12-11T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2578
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2578
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Wie geht es weiter mit dem Busbahnhof Rathaus Steglitz? - schriftlich beantwortet
+- TOP 3.2: Kitaproblematik am Gesundheitsstandort "eins - alles für die Gesundheit" - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringl. Ausschussänträge - erledigt
+- TOP 4.1.1: Resolution der Bezirksverordnetenversammlung Steglitz-Zehlendorf zum "Willkommensbündnis" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Feststellungen - erledigt
+- TOP 4.2.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Abberufungen - erledigt
+- TOP 4.3.1: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.4.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.5.1: Berufung eines beratenden Mitgliedes als Vertretung des Integrationsausschusses sowie dessen Vertretung im Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Haushaltsangelegenheiten Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.6.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Radwege in der Schloßstraße sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Zustand sanitärer Anlagen an Steglitz-Zehlendorfer Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Haltestelle der Fahrbibliothek vor der Kronach-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Erinnerungsstele zu den Villenkolonien und zu nationalsozialistischen Forschungsinstituten in Berlin-Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Register zur Erfassung menschenverachtender Vorfälle auch in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.7.6: Benennung des Vorplatzes des U-Bahnhofs Onkel-Toms-Hütte nach "Richard Draemert" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Einwohnerfragestunde der BVV modifizieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Sporthalle "Onkel Tom" braucht eine neue Anzeigetafel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Sauberkeit und Hygiene im S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Schultoiletten sanieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Verwaltungskräfte der Musikschule entlasten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Kinder- und Jugendbeteiligung Parks Range - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.13: Wohnraumbindung abändern - in der BVV abgelehnt
+- TOP 4.7.14: Umgestaltung der Unterführungen am S-Bahnhof Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.15: Regelmäßiger Bericht bezirklicher Investitionsmaßnahmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.16: Flüchtlinge in Steglitz-Zehlendorf fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.17: Ausstellung "Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.18: Seniorenwohnhäuser Mudrastraße 1, 5, 9 und 11 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.19: Sitzplätze an der Bushaltestelle Winfriedstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2012 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Beachtung der Gestaltungsprinzipien alters- und behindertengerechten Wohnens in Lichterfelde-Süd - überwiesen
+- TOP 5.2.2: Ausschilderung des bezirklichen Radnebenroutennetzes - überwiesen
+- TOP 5.2.3: Brümmerstraße Fahrradstraße! - überwiesen
+- TOP 5.2.4: Ausschreibungen - überwiesen
+- TOP 5.2.5: Blindengerechte Ausstattung der Lichtzeichenanlage (LZA) Saargemünder Straße/Kehler Weg - überwiesen
+- TOP 5.2.6: Broschüre zu Sehenswürdigkeiten des Bezirks - überwiesen
+- TOP 5.2.7: Nachhaltige Ausschusssitzungen - überwiesen
+- TOP 5.2.8: Geschützte Grünanlage "Kastanienwiese" - überwiesen
+- TOP 5.2.9: Gemeindepark Lankwitz verkehrssicher machen - überwiesen
+- TOP 5.2.10: "Fahrradleichen" am Rathaus Steglitz entfernen - überwiesen
+- TOP 5.2.11: Neuerliche Heckenmassaker verhindern - überwiesen
+- TOP 5.2.12: Baufirmen motivieren - überwiesen
+- TOP 5.2.13: Unterstützung von Bauherren: Investition in Spielplätze - überwiesen
+- TOP 5.2.14: Rückübertragung des Spielplatz-Grundstücks Osteweg durch den Senat - überwiesen
+- TOP 5.2.15: Platz des 4. Juli - überwiesen
+- TOP 5.2.16: Keine weitere Rodung von Straßenbegleitgrün! - überwiesen
+- TOP 5.2.17: Schulhofsanierung - überwiesen
+- TOP 5.2.18: Taubennetze an dem S-Bahnhof Mexikoplatz - überwiesen
+- TOP 5.2.19: Parkverbote beim Fußgängerüberweg Lichterfelde-West, Drakestraße, in Höhe Reichelt aufheben - überwiesen
+- TOP 5.2.20: Tourismusinformationsbüro für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.21: Bausteuerung verbessern - überwiesen
+- TOP 5.2.22: Patientenfürsprecherinnen und Patientenfürsprecher bekannter machen - überwiesen
+- TOP 5.2.23: Verbesserungen für Fußgänger und Radverkehr am Bahnhofsvorplatz Lichterfelde-West - überwiesen
+- TOP 5.2.24: Pflanzenkläranlage im Bäkepark - überwiesen
+- TOP 5.2.25: Verkehrssicherheit durchsetzen an der Ringstraße - überwiesen
+- TOP 5.2.26: Radwegmarkierung Mozartstraße/Siemensstraße erneuern - überwiesen
+- TOP 5.2.27: Sicherer Verkehrsfluss auf der Steglitzer Schloßstraße - überwiesen
+- TOP 5.2.28: Verkehrskonzept - Schloßstraße - überwiesen
+- TOP 5.2.29: Verkehrssituation im Komponistenviertel in Lankwitz entspannen - überwiesen
+- TOP 5.2.30: Zertifizierung für Wohnen im Bezirk - überwiesen
+- TOP 5.2.31: Ampelanlage Bäkestraße/Ostpreußendamm abschalten - überwiesen
+- TOP 5.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.3.1: Bauprojekte auch in den Umweltausschuss - überwiesen
+- TOP 5.3.2: Aktenpläne für Steglitz-Zehlendorf im Internet veröffentlichen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringende Große Anfragen - erledigt
+- TOP 7: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 7.1: Erhaltung des Gaslichts in Steglitz-Zehlendorf - überwiesen
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Erhaltung des Gaslichts in Steglitz-Zehlendorf - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Besucher-/Ausstellungszentrum Schlosspark Glienicke einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bürgerbeteiligung mit Charrette-Verfahren in Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
