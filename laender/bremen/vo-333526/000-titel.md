@@ -1,1 +1,1 @@
-# Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weserin der Stadtgemeinde Bremerhaven vom 13. Februar 2013
+# Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weser in der Stadtgemeinde Bremerhaven vom 20. November 2013
