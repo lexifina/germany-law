@@ -1,0 +1,7 @@
+# TOP 2: Niederschrift über die 32. Sitzung des Hauptausschusses am 13.11.2013 - öffentlicher Teil -
+
+- Sitzung: Hauptausschuss (2013-12-11)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/121783
+- Ergebnis: Genehmigt
