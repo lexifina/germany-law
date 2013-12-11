@@ -1,0 +1,60 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2013-12-11T17:00:00+01:00
+- Ende: 2013-12-11T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2836
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9371ac1d8f32e9185f3a3b
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 09.10.2013 und 20.11.2013; die Niederschriften werden nachgereicht. - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 4: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushalt 2013 Personalausstattung in der Nadelfabrik - ungeändert beschlossen
+- TOP 4.2: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2013 hier: Schlossstraße, Erneuerung - ungeändert beschlossen
+- TOP 4.3: Über- und ausserplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen -Haushaltsjahr 2013- 5-060101-NNNN 78310000 "Aussenspielgeräte Aussengelände Kita Krefelder Strasse" - ungeändert beschlossen
+- TOP 4.4: Baumaßnahmen im Rahmen des KITA-U3-Ausbaus Ersatzbau 4 Gruppen integrative KiTa Talbotstraße 16 in Trägerschaft des VKM Entwurf und Kostenberechnung, Baubeschluss - ungeändert beschlossen
+- TOP 4.5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2013 - Bereitstellung außerplanmäßiger Mittel für den Gewerbepark Brand - ungeändert beschlossen
+- TOP 4.6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2013 - Bereitstellung überplanmäßiger Mittel für die Maßnahme gewoge - Soziale Stadt Aachen Nord - ungeändert beschlossen
+- TOP 4.7: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen Haushaltsjahr 2013 - Bereitstellung außerplanmäßiger Mittel für die Maßnahme gewoge - Kalverbenden - ungeändert beschlossen
+- TOP 4.8: Überplanmäßige Bereitstellung von Finanzmitteln - hier: Zuschüsse an den Zweckverband Region Aachen für das Haushaltsjahr 2013 - ungeändert beschlossen
+- TOP 4.9: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2013 hier: Synagogenplatz - ungeändert beschlossen
+- TOP 5: I. (vereinfachte) Änderung des Bebauungsplanes Nr. 894 S- Lütticher Straße / Hasselholzer Weg- (Teil Süd) für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Hasselholzer Weg, Am Adamshäuschen, Preusweg und Lutherweg hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - zurückgezogen
+- TOP 6: Vorhabenbezogener Bebauungsplan Nr. 879 - Beverstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen der Beverstraße, Kronprinzenstraße und den rückwärtigen Grundstücksgrenzen der Bebauung entlang der Goerdelerstraße und Bismarckstraße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 7: I. Änderung Bebauungsplan Nr. 774 - Reihstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Adalbertstraße, Reihstraße und Harscampstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9: 16. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalhausanschlusssatzung) der Stadt Aachen hier: notwendige Anpassung der Gebührenhöhe - geändert beschlossen
+- TOP 9.1: Ergänzung zur Vorlage 16. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) (TOP 15 der Einladung) hier: Neufassung des Satzungstextes - Stand 08.11.2013 - geändert beschlossen
+- TOP 9.2: 16. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen hier: Neufassung der Vorlage - ungeändert beschlossen
+- TOP 10: 13. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 11: Satzungsänderung der Stiftung Bischoff - geändert beschlossen
+- TOP 12: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2012 - ungeändert beschlossen
+- TOP 13: Wirtschaftsplan 2014 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Vorläufiger Wirtschaftsplan Eurogress Aachen 2014 - ungeändert beschlossen
+- TOP 15: Städteregion - Beteiligungsverfahren zur künftigen Förderung des Verein für allgemeine und berufliche Weiterbildung e.V. (VABW) <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen wurden bereits mit den Nachtragsunterlagen zur Ratssitzung am 20.11.2013 versandt, sind aber nochmals beigefügt.)</span> - geändert beschlossen
+- TOP 16: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Verbraucherberatungsstelle Aachen für die Jahre 2014 bis 2018 (Allgemeine Verbraucherberatung einschl. Schuldnerberatung) - ungeändert beschlossen
+- TOP 17: Aachen*2030: Masterplan Fortschreibungskonzeption und Kommunikationsstrategie - ungeändert beschlossen
+- TOP 18: Umsetzung des 9. Schulrechtsänderungsgesetzes "Inklusion auf kommunaler Ebene" Hier: Anteilige Finanzierung des kommunalen Aufwandes aus freiwerdenden Mitteln und Verkaufserlösen von Schulgebäuden – Antrag der SPD-Fraktion vom 25.06.2013 - ungeändert beschlossen
+- TOP 19: Fanprojekt Alemannia - ungeändert beschlossen
+- TOP 20: Übernahme der Trägeranteilefür die Kindertageseinrichtungen der AWO hier: Antrag der AWO vom 12.09.2013 - zurückgezogen
+- TOP 21: Übertragung der Unterhaltungszuständigkeit für die Hochwasserrückhaltebecken "Johannisbach" und "Klinikum" an den Wasserverband Eifel-Rur (WVER) - ungeändert beschlossen
+- TOP 22: Anfragen - (offen)
+- TOP 23: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 24: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 25: Zweckverband Region Aachen - Haushaltsentwurf 2014 / 2015 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
