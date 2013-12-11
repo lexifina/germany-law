@@ -1,0 +1,90 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2013-12-11T17:05:00+01:00
+- Ende: 2013-12-11T19:35:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3253
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3253
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=74347
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 25. Sitzung der BVV am 11.12.2013 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 25. Sitzung der BVV am 11.12.2013 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 25. Sitzung der BVV am 11.12.2013 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Endlich eine Gemeinschaftsschule im Märkischen Viertel? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 7.3: Anonymisierte Bewerbungen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Historische Leuchte am Zeltinger Platz wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Für Teilnahme von Reinickendorfer Grundschulen am Projekt "Berliner Schulpate" der Handwerkskammer werben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Schulen und Wirtschaft auf Initiative "Berliner Schulpate" aufmerksam machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Pfandringe in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: "Teach First" - Schulen aufmerksam machen - überwiesen
+- TOP 7.9: Aktion "Saubere Hände" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Verbesserung der Gesundheitsvorsorge für Pflegebedürftige in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Verlagerung der Ellef-Ringnes-Grundschule in die Heiligenseegrundschule prüfen - überwiesen
+- TOP 7.13: Aufstellung des Bebauungsplanes 12-43 für das Gelände der Eigentümer-Kolonie "Beusselsche Erben", Singdrosselsteig 4, im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.14: Aufstellung des Bebauungsplanes 12-44 für die Grundstücke Alter Wiesenweg 17 / 125 (ehemalige Kleingartenanlage Albrechtsche Erben, Köppensche Erben und Eigenland), die Kleingartenanlage "Neuland II", sowie eine Teilfläche der Straße Alter Wiesenweg(Flurstück 302 teilweise) im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.15: Aufstellung des Bebauungsplans 12-49 für die Grundstücke Alter Bernauer Heerweg 31/35 und Quickborner Straße 192 A-D, 192 E-F (teilweise), 192 G im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Situation der Pflegestützpunkte im Bezirk - überwiesen
+- TOP 8.1.1: Dritter Pflegestützpunkt in Reinickendorf - überwiesen
+- TOP 8.2: Schließung des Flughafens Tegel - beantwortet
+- TOP 8.2.1: Schließung des Flughafens Tegel ist nicht verhandelbar - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Vorlage betreffend des Beschlusses des Bebauungsplanentwurfes 12-39B vom 10. Oktober 2012 und des Beschlusses über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-39B für die Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/ Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66, 68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 9.2: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten und deren Stellvertreter - gewählt
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.4: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Luft- und Lärmmessstationen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - erledigt
+- TOP 10.4: Ausreichende Müllbehälter an Badestelle Sandhauser Straße ("Tivoli") schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Schreibstube der Tagesförderstätte "Spastikerhilfe" Kienhorststraße unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Anwendung von PFA anstelle von Kaltasphalt bei Schlaglöchern erproben! - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Namensgebung für den Platz zwischen der Wilhelm-Gericke-Straße und Oranienburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Datenschutz auf Krankenhausaufenthaltsbescheinigung - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sanierungskonzept Landesleistungszentrum Kanu - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: § 39 Verhandlungsbericht, Niederschrift - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: § 31 a Live-Stream der BVV-Sitzung - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Begrenzte Verlängerung der Tätigkeit des temporären Ausschusses für transparente und moderne Öffentlichkeitsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Neuwahl der Patientenfürsprecherin/des Patientenfürsprechers für das Krankenhaus Medical Park Berlin Humboldtmühle im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Seniorenspielplätze in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Schulwegsicherung durch Lotsen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Palliativ-Versorgung im Bezirk - überwiesen
+- TOP 12.4: Radweg Schulzendorfer Straße - überwiesen
+- TOP 12.5: Erstellen einer Positivliste schadstoffreduzierter Anschaffungen in Kitas, Schulen und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 12.6: Sicherer Schulweg für die Ellef-Ringnes-Grundschule auch in 2014 - überwiesen
+- TOP 12.7: Schulwegsicherung Schulzendorfer Straße Ecke Fichtestraße verbessern - überwiesen
+- TOP 12.8: Ausstellung "Kinder im Versteck. Verfolgt. Untergetaucht. Gerettet? Berlin 1943 - 1945" auch in Reinickendorf zeigen - überwiesen
+- TOP 12.9: Schneebeseitigung auf den Gehwegen vor den Grundstücken Waidmannsluster Damm 155, 157, 161 und 163-167 sicherstellen! - überwiesen
+- TOP 12.10: Kiezfond 2.0 - überwiesen
+- TOP 12.11: Sicherung Ellef-Ringnes-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Genehmigungsrechtliche und städtebauvertragliche Möglichkeiten beim Grundstück Waidmannsluster Damm 155 ausschöpfen! - überwiesen
+- TOP 12.13: Quartiersmanagement für Reinickendorf-West - überwiesen
+- TOP 12.14: Spielstraße Wilhelm-Blume-Allee - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fahrtreppe am U-Bahnhof Alt-Tegel wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Grünphase für Fußgänger verlängern - überwiesen
+- TOP 13.3: Schulwegsicherung der Ellef-Ringnes-Grundschule - überwiesen
+- TOP 13.4: Rauchverbot auf S-Bahnhöfen stärker kontrollieren - überwiesen
+- TOP 13.5: Illegalen Müllabwurf an der Burgfrauenstraße stoppen - überwiesen
+- TOP 13.6: BVG-Anzeigetafeln am Tegel-Center instandsetzen - überwiesen
+- TOP 13.7: Inklusive Modellschule Standort Lauterbach - Sonderpädagogische Kompetenz in der Schulleitung sichern - überwiesen
