@@ -1,0 +1,89 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2013-12-11T17:09:00+01:00
+- Ende: 2013-12-11T18:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8851
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8851
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00349009.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion an den Rat A-R /0022/2013 vom 06.05.2013: Aussichten und Ansichten - Gievenbecks Entwicklung neu strukturieren - einstimmig geändert beschlossen
+- TOP 3: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2014 - ohne Beschlussfassung geschoben
+- TOP 5: Optimierung bürgerorientierter Dienstleistungen:
+- TOP 5.1: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadt Münster - vertagt, mit Prüfauftrag
+- TOP 5.2: Optimierung bürgerorientierter Dienstleistungen: Stadthaus 1 - Sanierung sowie Einrichtung eines Bürgerservicezentrums, Verbleib Bauteile E+F sowie Petzholdhaus im Eigentum - vertagt, mit Prüfauftrag
+- TOP 5.3: Optimierung bürgerorientierter Dienstleistungen: Künftige Nutzung Dominikanerkirche - vertagt, mit Prüfauftrag
+- TOP 6: Fortschreibung des Bedarfsplanes für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 7: Wirtschaftsplan 2014 der citeq - einstimmig beschlossen
+- TOP 8: Handlungsprogramm 2012 bis 2017 - 2. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 9: Flughafen Münster-Osnabrück GmbH, Verkauf des Anteils der Kamer van Koophandel Oost Nederland - einstimmig beschlossen
+- TOP 10: Finanzangelegenheiten der eigenbetriebsähnlichen Einrichtung Münster Marketing - einstimmig beschlossen
+- TOP 11: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 12: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 13: Einführung einer Wertstofftonne - zur Kenntnis genommen
+- TOP 14: Abfallwirtschaftbetriebe Münster - einstimmig beschlossen
+- TOP 15: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - von der Tagesordnung abgesetzt
+- TOP 16: Prüfung der ortsfesten und ortsveränderlichen elektrischen Betriebsmittel - einstimmig geändert beschlossen
+- TOP 16.1: Prüfung der ortsfesten und ortsveränderlichen elektrischen Betriebsmittel
+- TOP 17: Hauptbahnhof Münster (West- und Ostseite), Städtebaulicher Vertrag und Baubeginn - ohne Beschlussfassung geschoben
+- TOP 17.1: Hauptbahnhof Münster (West- und Ostseite), Städtebaulicher Vertrag und Baubeginn
+- TOP 18: Entwurf der Stellungnahme der Stadt Münster zum geplanten 6-streifigen Ausbau der A1 von der Anschlussstelle Münster/Nord bis Anschlussstelle Greven von Bau-km 41-028,80 bis Bau-km 30+450,00 im Planfeststellungsverfahren - ohne Beschlussfassung geschoben
+- TOP 18.1: Entwurf der Stellungnahme der Stadt Münster zum geplanten 6-streifigen Ausbau der A1 von der Anschlussstelle Münster/Nord bis Anschlussstelle Greven von Bau-km 41-028,80 bis Bau-km 30+450,00 im Planfeststellungsverfahren
+- TOP 18.2: Entwurf der Stellungnahme der Stadt Münster zum geplanten 6-streifigen Ausbau der A1 von der Anschlussstelle Münster/Nord bis Anschlussstelle Greven von Bau-km 41-028,80 bis Bau-km 30+450,00 im Planfeststellungsverfahren
+- TOP 19: Kommunales Handlungskonzept Wohnen - ohne Beschlussfassung geschoben
+- TOP 20: Baulandprogramm 2020 - ohne Beschlussfassung geschoben
+- TOP 20.1: Baulandprogramm 2020
+- TOP 21: Investorenwettbewerb nördlich Stadthafen 1, Flächen der Stadtwerke Münster GmbH (Hafenweg 34-44) - von der Tagesordnung abgesetzt
+- TOP 22: Prüfauftrag: Möglichkeiten einer Beitragsreduzierung des Vereins Münsterland e. V. - ohne Beschlussfassung geschoben
+- TOP 23: 2. städtische Gesamtschule: Vorbereitende Prüfaufträge - einstimmig geändert beschlossen
+- TOP 24: Teilnahme an einem Schulversuch gem. § 25 SchulG NRW: dreijähriger vollzeitschulischer Bildungsgang "Berufliches Gymnasium für Gesundheit" am Anne-Frank-Berufskolleg zum Schuljahr 2014/15 - ohne Beschlussfassung geschoben
+- TOP 25: Mittagsverpflegung in Schulen - ohne Beschlussfassung geschoben
+- TOP 26: Historische Aufarbeitung der Rolle der Stadtverwaltung Münster in der NS-Zeit - einstimmig beschlossen
+- TOP 26.1: Historische Aufarbeitung der Rolle der Stadtverwaltung Münster in der NS-Zeit
+- TOP 27: Förderung Musikschularbeit (Produktgruppe 0403 Westfälische Schule für Musik und Förderung der Stadtteilmusikschulen) hier Fortschreibung des Zuschusses auf der Basis des Haushaltsjahres 2013 - einstimmig beschlossen
+- TOP 28: Antrag der Bündnis 90/Die Grünen/GAL Ratsfraktion an den Rat Nr. A-R/0028/2012 ¿Kindertagespflege ausbauen und angemessen ausstatten¿ - einstimmig beschlossen
+- TOP 29: Projektbereich der VHS, Organisation der arbeitsmarktbezogenen Maßnahmen bei der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 30: Ausschöpfung des Eingliederungstitels (EGT) des Jobcenter Münster - einstimmig beschlossen
+- TOP 31: Eckpunkte Arbeitsmarktprogramm 2014 - einstimmig beschlossen
+- TOP 32: "Masterplan Quartier" (Versorgungssicherheit für Menschen mit Pflege- und Unterstützungsbedarf), Vorhabenkonkretisierung, Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0053/2012 - ohne Beschlussfassung geschoben
+- TOP 33: Kinderhaus-Brüningheide: a) Jahresbericht 2012 und Fortsetzung des Maßnahmeprogramms ab 2014, b) Perspektiven für die künftige Jugendarbeit/Jugendsozialarbeit im Wohngebiet - einstimmig beschlossen
+- TOP 33.1: Kinderhaus-Brüningheide: a) Jahresbericht 2012 und Fortsetzung des Maßnahmeprogramms ab 2014, b) Perspektiven für die künftige Jugendarbeit/Jugendsozialarbeit im Wohngebiet
+- TOP 34: Aufgabe und Vermarktung des ehem. Spielplatzes an der Paul-Gerhard-Straße sowie Umgestaltung des Spielplatzes am Nottulner Landweg - einstimmig beschlossen
+- TOP 35: Beirat für Klimaschutz - Handlungsprogramm 2012 - 2017 Nachhaltige kommunale Haushaltspolitik, Einzelmaßnahme 259 - zur Kenntnis genommen
+- TOP 36: Rückbau von öffentlichen Spiel- und Bolzplätzen - einstimmig beschlossen
+- TOP 36.1: Rückbau von öffentlichen Spiel- und Bolzplätzen
+- TOP 37: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2014 - einstimmig geändert beschlossen
+- TOP 38: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 38.1: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 38.2: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2014 - einstimmig beschlossen
+- TOP 38.3: Straßenreinigungsgebühren 2014 - einstimmig beschlossen
+- TOP 38.4: Abfallgebühren 2014 - einstimmig beschlossen
+- TOP 38.5: Neufassung der Satzung für die Benutzung der Friedhofseinrichtungen der Stadt Münster und Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster - einstimmig beschlossen
+- TOP 38.5.1: Neufassung der Satzung für die Benutzung der Friedhofseinrichtungen der Stadt Münster und Änderung der Gebührensatzung für die Friedhofseinrichtungen der Stadt Münster
+- TOP 38.6: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 38.7: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 39: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 40: Bauleitplanung
+- TOP 40.1: Stadtbezirk Mitte
+- TOP 40.1.1: Bebauungsplan Nr. 310, 1. Änderung - Beschluss zur Änderung - Kenntnisnahme des Entwurfs - einstimmig beschlossen
+- TOP 40.2: Stadtbezirk West
+- TOP 40.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 40.3: Stadtbezirk Nord
+- TOP 40.3.1: Erhaltungs- und Gestaltungssatzung für die Siedlung Dachsleite/ Igelpatt/ Bisamgang/ Mümmelmannweg/ Biberweg - einstimmig beschlossen
+- TOP 40.4: Stadtbezirk Südost
+- TOP 40.4.1: 49. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 563 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 40.5: Stadtbezirk Ost
+- TOP 40.5.1: 48. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 561 - Beschluss zur Aufstellung - Bebauungsplan Nr. 562 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 40.5.1.1: 48. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 561 - Beschluss zur Aufstellung - Bebauungsplan Nr. 562 - Beschluss zur Aufstellung
+- TOP 41: Verschiedenes
