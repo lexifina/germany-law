@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2013-12-12T17:00:00+01:00
+- Ende: 2013-12-12T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUAzXewHrCM8Q3qpvVSc0GM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4247
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcfI4uUskz7n4fd898TJne63ZFG5fOOco0lDqnSLeIVK/Oeffentliche_Niederschrift_Rat_12.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 30. Sitzung des Rates am 07.11.2013
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Mitgliederversammlung 2014 des Städtetages Nordrhein-Westfalen
+- TOP 7: Prüfung der Wirtschaftlichkeit der gemeinsamen Integrierten Rettungsleitstelle der Städte Wuppertal und Solingen
+- TOP 8: Vorstellung und Beschluss des kommunalen Einzelhandelskonzeptes (KEK) für die Stadt Solingen
+- TOP 9: Vorstellung und Beschluss des kommunalen Einzelhandelskonzeptes (KEK) für die Stadt Solingen
+- TOP 10: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2013
+- TOP 11: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem SGB II
+- TOP 12: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem AsylbLG und SGB XII
+- TOP 13: Ermächtigungsübertragungen gemäß § 22 Gemeindehaushaltsverordnung NRW (GemHVO)
+- TOP 14: Abbruch und Neubau eines Pavillons der Wilhelm-Hartschen-Schule
+- TOP 15: Abbruch und Neubau eines Pavillons der Wilhelm-Hartschen-Schule
+- TOP 16: Sachstand Kostenentwicklung Sanierung der Gesamtschule Querstraße 42 sowie Darstellung der Raum- und Investitionsbedarfe am Mildred-Scheel-Berufskolleg, dem Schulzentrum Vogelsang und der Friedrich-Albert-Lange-Schule
+- TOP 17: Kostenberechnungen bei Bauvorhaben
+- TOP 18: Kostenentwicklung Sanierung Gesamtschule Querstr. 42
+- TOP 19: Vereinbarkeit von Familie und Beruf
+- TOP 20: Nachtrag zum Stellenplan 2013/Stellenplan 2014
+- TOP 21: Gebührenbedarfsberechnungen 2014
+- TOP 22: IV. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 23: Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 24: Satzung der Stadt Solingen über die Entwässerung der Grundstücke
+- TOP 25: Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage
+- TOP 26: Satzung über die Entsorgung der Grundstücksentwässerungsanlagen
+- TOP 27: VI. Änderung der Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte
+- TOP 28: Neufassung der Friedhofssatzung und der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 29: Wirtschaftsplan 2014 der Technischen Betriebe Solingen
+- TOP 30: VI. Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 31: Beteiligungsbericht 2012 der Stadt Solingen
+- TOP 32: Parkraumbewirtschaftung am Standort Rathausplatz 1
+- TOP 33: Bauleitplanung Hauptstraße/Eiland
+- TOP 34: Bauleitplanung Monhofer Feld
+- TOP 35: Verschiedenes
+- TOP 36: Kostenloses WLAN im Stadtgebiet / WLAN in Bussen
+- TOP 37: Abfallwirtschaftskonzept
+- TOP 38: Hofgarten
+- TOP 39: Sachstand Verspätung S1
+- TOP 40: Lebensmittelkontrolle
+- TOP 41: Hundesteuer
+- TOP 42: Übertragung von Ratssitzungen ins Internet
+- TOP 43: Auszeichnung Solingens als Stadt der Weltdekade Bildung für nachhaltige Entwicklung der Vereinten Nationen
+- TOP 44: Stellungnahme des BVLA zur Veröffentlichung des Landes zur Lebensmittelkontrolle im Jahre 2011
+- TOP 45: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 30. Sitzung des Rates am 07.11.2013
+- TOP 3: Verleihung des Ehrenpreises der Stadt Solingen "Die Schärfste Klinge" 2014
+- TOP 4: Umgestaltung der RW-Holding Aktiengesellschaft
+- TOP 5: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 6: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 7: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 8: Kauf von Kommanditanteilen der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG (IGOS) durch die Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Bestellung von Mitgliedern in den Beirat
+- TOP 9: Verschiedenes
+- TOP 10: Erwerb von Gesellschaftsanteilen im Rahmen des Projektes SynEErgie
+- TOP 11: Bauleitplanung Monhofer Feld
