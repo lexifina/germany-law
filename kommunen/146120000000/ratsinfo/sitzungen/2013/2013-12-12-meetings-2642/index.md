@@ -1,0 +1,63 @@
+# 63. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-12-12T16:00:00+01:00
+- Ende: 2013-12-12T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/2642
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/2642
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2013_12_12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00153737.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Kommunalwahlkreis II - Mandat Bündnis 90/Die Grünen (Grüne) - Zustimmung
+- TOP 2: Verpflichtung gemäß § 35 Abs. 1 SächsGemO
+- TOP 3: Bericht der Oberbürgermeisterin
+- TOP 4: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4.1: Skaterhalle in Dresden-Reick - erledigt
+- TOP 4.2: Planungen zum Ausbau der Stauffenbergallee-West vorlegen - erledigt
+- TOP 4.3: Gesamtsanierung und Erweiterung der Mittelschule Weißig - Auslagerung während der Bauphase - erledigt
+- TOP 4.4: Verkehrsplanung und Sanierung der Augsburger Straße - erledigt
+- TOP 4.5: Baumaßnahmen in rechtlich festgesetzten Überschwemmungsgebieten - erledigt
+- TOP 4.6: Photovoltaik-Anlagen - erledigt
+- TOP 4.7: Unterbrinung von Asylbewerbern - erledigt
+- TOP 4.8: Jugendhaus Pixel - erledigt
+- TOP 4.9: Vorgehen bei Bombenfunden im Stadtgebiet Dresden - erledigt
+- TOP 4.10: Stadtteilzentrum Neustadt auf dem Postgelände - erledigt
+- TOP 4.11: Nicht realisierte Straßenverkehrsbauvorhaben - erledigt
+- TOP 4.12: dresden.de - Internetauftritt der Landeshauptstadt Dresden - erledigt
+- TOP 4.13: Asylbewerber - erledigt
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 7: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 8: Umbesetzung im Behindertenbeirat - Zustimmung
+- TOP 9: Umbesetzung im Ausschuss "Erinnerungskultur" - gewählt
+- TOP 10: Umbesetzung im Betriebsausschuss für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen - Zustimmung
+- TOP 11: Umbesetzung im Ausschuss für Kultur - Zustimmung
+- TOP 12: Umbesetzung im Petitionsausschuss - Zustimmung
+- TOP 13: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 14: Umbesetzung im Ausschuss für Soziales, Gesundheit und Wohnen - Zustimmung
+- TOP 15: Umbesetzung im Ausschuss für Umwelt und Kommunalwirtschaft - Zustimmung
+- TOP 16: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 17: Umbesetzung im Aufsichtsrat der Stadtreinigung Dresden GmbH - gewählt
+- TOP 18: Umbesetzung in der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe - gewählt
+- TOP 19: Gesamtsanierung und Erweiterung der Mittelschule Weißig, Gönnsdorfer Weg 1, 01328 Dresden - Zustimmung
+- TOP 20: Wiederaufbauplan der Landeshauptstadt Dresden zum Juni-Hochwasser 2013 - Zustimmung
+- TOP 21: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 22: Kommunales Handlungskonzept Bildung - Vertagung
+- TOP 23: Satzung der Landeshauptstadt Dresden über die Erteilung von Wohnberechtigungsscheinen für vertraglich belegungsgebundene Wohnungen - Zustimmung
+- TOP 24: Änderung der Richtlinie der Landeshauptstadt Dresden zur Förderung von Kindern in Kindertagespflege - Zustimmung
+- TOP 25: Aufnahme der Kindertageseinrichtung Fetscherstraße 111 in 01307 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden unter der Trägerschaft des Trägers DRK Kreisverband Dresden e. V. - Zustimmung
+- TOP 26: Bebauungsplan Nr. 369, Dresden - Leubnitz-Neuostra Nr. 5, Wohnanlage Friebelstraße - Zustimmung
+- TOP 27: Bebauungsplan Nr. 393, Dresden-Räcknitz Nr. 3, Nöthnitzer Straße - Campus Süd in Verbindung mit Rahmenplan Nr. 791, Rahmenkonzept für den Bereich des Campus der Technischen Universität Dresden und dessen Umfeld - Vertagung
+- TOP 28: Bebauungsplan Nr. 358, Dresden - Hellerau Nr. 12, Wohnbebauung Am Pfarrlehn - Zustimmung mit Ergänzung
+- TOP 29: Aufhebung der Sanierungssatzung und der Änderungssatzung für das Sanierungsgebiet Dresden S 4, Dresden-Loschwitz - Zustimmung
+- TOP 30: Umsetzung des Stadtratsbeschlusses zu V0212/09 - Zustimmung mit Änderung
+- TOP 31: Neubenennung einer Straße - Zustimmung
+- TOP 32: Finanzierungsvereinbarung mit der Landestalsperrenverwaltung Sachsen zur gemeinsamen baulichen Umsetzung der Hochwasserschutzmaßnahme "Streckung und Aufweitung des Weißeritzknicks" (Los 2.1) an der Vereinigten Weißeritz - Zustimmung
+- TOP 33: Gedenken an den Dresdner Bürger und Mäzen Dr. Justus Friedrich Güntz - Verweisung
+- TOP 34: Hochwasserschutz am Laubegaster Ufer (Maßnahme Z1) – Planungsleistungen für erweiterte Grundlagenermittlung unverzüglich veranlassen - Vertagung
+- TOP 35: Bauplanungen in hochwassergefährdeten Gebieten überprüfen - Hochwasservorsorge ernst nehmen - Vertagung
