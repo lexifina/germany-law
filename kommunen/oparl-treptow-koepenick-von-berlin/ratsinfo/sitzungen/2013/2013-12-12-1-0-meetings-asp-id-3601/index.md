@@ -1,0 +1,69 @@
+# 24. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2013-12-12T16:30:00+01:00
+- Ende: 2013-12-12T19:58:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3601
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3601
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=98441
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-25 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten für den Ausschuss für Arbeit, Soziales und Gesundheit - gewählt
+- TOP 8.3: Wahl einer Bürgerdeputierten für den Ausschuss für Weiterbildung und Kultur - gewählt
+- TOP 8.4: Wahl von stellvertretenden Kiezpat(inn)en - gewählt
+- TOP 8.5: Neuwahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.6: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Personalkonzept des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittelantrag des Kunstfabrik e. V. (SM 13-32) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Uferwanderweg am Mellowpark - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Soziale Mischung an der Fanny-Zobel-Straße - überwiesen
+- TOP 12.3: Mehr Bürgerbeteiligung in der Stadtentwicklung - überwiesen
+- TOP 12.4: Sicherer Radverkehr in der Elsenstraße zwischen der Straße Am Treptower Park und Karl-Kunger-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Erhalt von P+R-Parkplätzen am S-Bahnhof Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Fahrradstellplätze Mahlsdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Keine Werbung für die Bundeswehr an Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Schulwegsicherung Sonnenblumenschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Schmetterlingshorst erhalten - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Zebrastreifen auf dem Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Motorradfrei über die Wuhlebrücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Querungshilfe Straße "Am Studio" - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Kiezkassen – schnelle Abwicklung der Anträge - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Konzeption zur Aufstellung von Sitzgelegenheiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Transparenz bei den Kiezkassen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Im I. Halbjahr 2013 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Unterzeichnung der "Charta der Vielfalt" durch das Bezirksamt Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Erneuerung der Städtepartnerschaftsvereinbarung zwischen dem Bezirk Treptow-Köpenick von Berlin und dem Bezirk Warschau-Mokotów - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Bebauungspläne XV-30a ("Treptowers") und XV-30b VE ("Hotel und Wohnen an der Spree") hier: Änderung zum Bezirksamtsbeschluss Nr. 115/13 vom 12.02.2013 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Denkmalwert Gaslaternen - überwiesen
+- TOP 14.2: Stellungnahme zum Personalabbaukonzept - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Bohnsdorfer Kulturküche erhalten - überwiesen
+- TOP 14.4: Weiterer Fußgängerüberweg in der Neuen Krugallee - überwiesen
+- TOP 14.5: Einsatz von E-Mailverschlüsselung im Amt - überwiesen
+- TOP 14.6: Überschwemmungsgebietsverordnung – Bürgerbeteiligung im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Einhaltung des Berliner Ausschreibungs- und Vergabegesetzes durch Reinigungsfirmen an Schulen sicherstellen - überwiesen
+- TOP 14.8: Neubau der Anschlussstelle Hubertus an der Autobahn A 117 bei km 2,351 - überwiesen
+- TOP 14.9: Lokale Agenda 21: 10 Jahre Beschluss von Bezirksamt und Bezirksverordnetenversammlung - überwiesen
+- TOP 14.10: Tempo 30-Zone in Bohnsdorf - überwiesen
+- TOP 14.11: Weihnachtsmarkt in der Altstadt Köpenick an verkaufsoffenen Sonntagen - überwiesen
+- TOP 14.12: Parkflächen bei neuen Bauvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
