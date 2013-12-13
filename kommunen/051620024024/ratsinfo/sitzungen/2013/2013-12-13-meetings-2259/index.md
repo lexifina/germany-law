@@ -1,0 +1,57 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2013-12-13T16:00:00+01:00
+- Ende: 2013-12-13T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2259
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2259
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Bebauungsplan Nr. 137/3 - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 7: VEP Nr. V 481 - Uedesheim, Sudermannstraße - Einleitung/Auslegung - einstimmig zugestimmt
+- TOP 8: BPL 443 - Allerheiligen, Am Henselsgraben: Endausbau "Am Lichtweg" (westl. Straße "Am Linckhof") - einstimmig zugestimmt
+- TOP 9: Prüfung des Jahresabschlusses 2012 und der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - mehrheitlich zugestimmt
+- TOP 10: Umbau des Gehweges Tückingstraße / Schwannstraße - einstimmig zugestimmt
+- TOP 11: Ausbau der Straße "Am Konvent" - mehrheitlich zugestimmt
+- TOP 12: Rückbau Ufermauer Erftmühlengraben im Bereich Augustinusstraße - einstimmig zugestimmt
+- TOP 13: BPL 449 - Holzheim, Blausteinsweg: Lärmschutzanlage - einstimmig zugestimmt
+- TOP 14: Standardbauweisen im Straßenbau - Fortschreibung - einstimmig zugestimmt
+- TOP 15: Gnadentaler Allee - Bushaltestellen Gnadentaler Allee: Barrierefreier Ausbau - einstimmig zugestimmt
+- TOP 16: Satzungsänderung Stadtbibliothek - einstimmig zugestimmt
+- TOP 17: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2012 und Beschlus - einstimmig zugestimmt
+- TOP 18: Wirtschaftsplan 2014 ff. der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 19: Festsetzung von Gebühren für den Bereich "Bestattungswesen" der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 20: Grünrahmenplan zum Bebauungsplan Nr. 449 "Blausteinsweg"!, Holzheim - einstimmig zugestimmt
+- TOP 21: Förderprogramm „Ganztag intensiv“ - einstimmig zugestimmt
+- TOP 22: Festsetzung der Gebühren im Rettungswesen ab 2014 - einstimmig zugestimmt
+- TOP 23: Abfallentsorgungsgebühren 2014 - einstimmig zugestimmt
+- TOP 24: üpl. Aufwendungen Asylbereich 2013 - einstimmig zugestimmt
+- TOP 25: Haushaltsplan 2014 - zur Kenntnis genommen
+- TOP 26: mittelfristige Ergebnisplanung 2013 - 2017 - mehrheitlich zugestimmt
+- TOP 27: Investitionsprogramm 2013 - 2017 - mehrheitlich zugestimmt
+- TOP 28: Erlass Hebesatzsatzung 2014 - mehrheitlich zugestimmt
+- TOP 29: Haushaltssatzung 2014 - mehrheitlich zugestimmt
+- TOP 30: Jahresabschluss 2012 GMN - zur Kenntnis genommen
+- TOP 31: Wirtschaftsplan 2014 GMN - zur Kenntnis genommen
+- TOP 32: apl. Aufwand VRR-Verbandsumlage 2013 - einstimmig zugestimmt
+- TOP 33: Änderung der Vergabeordnung - einstimmig zugestimmt
+- TOP 34: Bestellung der weiteren Betriebsleiter und Aufbauorganisation - mehrheitlich zugestimmt
+- TOP 35: Benennung der Vertreter der Stadt Neuss für den Aufsichtsrat der GWN - zur Kenntnis genommen
+- TOP 36: Gründung der LuKiTA Neusser Kindertageseinrichtungen GmbH - zur Kenntnis genommen
+- TOP 37: Besetzung Beirat Demographie - einstimmig zugestimmt
+- TOP 38: Umgliederung des Grünflächenamtes in eine eigenbetriebsähnliche Einrichtung - einstimmig zugestimmt
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Kenntnisnahme üpl/apl IV. 2012 und III. 2013 - zur Kenntnis genommen
+- TOP 41: Entwicklung der Schmutz- und Regenwassergebühren für 2014 - zur Kenntnis genommen
+- TOP 42: Mitteilung der Verwaltung zum Thema Schule am Stadtwald GmbH - zur Kenntnis genommen
+- TOP 43: Einwohnerfragestunde - zur Kenntnis genommen
