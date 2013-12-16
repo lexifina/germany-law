@@ -1,0 +1,24 @@
+# Erlass einer Richtlinie für die Überlassung von städtischen Veranstaltungsräumen; Neufassung der Allgemeinen und besonderen Miet- und Nutzungsbedingungen bei Vermietung von städtischen Veranstaltungsräumen; Neufassung der Entgeltordnung für die Benutzung von öffentlichen Räumlichkeiten und Hallen der Stadt Lahr
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 125/2013 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2013-12-16
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQjjhpe06CxJ7DJvku7DFpo
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/505
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Erlass einer Richtlinie für die Überlassung von städtischen Veranstaltungsräumen; Neufassung der Allgemeinen und besonderen Miet- und Nutzungsbedingungen bei Vermietung von städtischen Veranstaltungsräumen; Neufassung der Entgeltordnung für die Benutzung von öffentlichen Räumlichkeiten und Hallen der Stadt Lahr) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcz2cqLd54wfTDJSfnnE2AxiITXU0ythkV3CW1JGWGkG/Beschlussvorlage_125-2013_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1a Richtlinie für Überlassung Veranstaltungsräume) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSGk9oocr9vn1t8r0ssxmDu4IPONu2r5X9BNtAQm34NM/Anlage_1a_Richtlinie_fuer_Ueberlassung_Veranstaltungsraeume.pdf
+- Anlage: Beschlussvorlage (Anlage 2 Allg. Miet u. Nutzungsbedingungen) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZasQYOdHnVALdmcHfQsNL2ZinKEwCJvBnSL9lRiUt0ZW/Anlage_2_Allg._Miet_u._Nutzungsbedingungen.pdf
+- Anlage: Beschlussvorlage (Anlage 3 Besondere Vertragsbedingungen) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeU2QGA016qv7fBKFzcosqSDxaUA92VFJG50fUVOG1Lm/Anlage_3_Besondere_Vertragsbedingungen.pdf
+- Anlage: Beschlussvorlage (Anlage 4.1a Entgeltordnung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenEAPR6C7T4mYQzCegT2dK5le6XJX8qZvyntIY63UHD/Anlage_4.1a_Entgeltordnung.pdf
+- Anlage: Beschlussvorlage (Anlage 4.1b Entgeltübersicht) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUEXs1_f4SgwznWH5FNeDWBtf5wxo6fgaRbPKInZu1z/Anlage_4.1b_Entgeltuebersicht.pdf
+- Anlage: Beschlussvorlage (Anlage 4.2 Synopse Entgeltordnung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbmB1LdfT2mLAX3CNw4iU8kdSmJsASMDJ_pLyC6mlAqm/Anlage_4.2_Synopse_Entgeltordnung.pdf
+- Anlage: Beschlussvorlage (Anlage 4.3 Erläuterungen Entgeltkalkulation) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4-64A72WHzVTfXnjqgh3mQ2E-PVYQdt-FTOcXhmdT1/Anlage_4.3_Erlaeuterungen_Entgeltkalkulation.pdf
+- Anlage: Beschlussvorlage (Anlage 4.4 Entgeltberechnung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRvaZ9ZUYzcxT5NOz4WXCGJsgMOgS-2op0JII1AIEPUQ/Anlage_4.4_Entgeltberechnung.pdf
+- Anlage: Beschlussvorlage (Anlage 4.5 Gegenüberstellung Entgelte alt - neu) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdfjEAzgSXp15Bc32kW4NDzSKBRsJaYwfD_hHVoVwe0Z/Anlage_4.5_Gegenueberstellung_Entgelte_alt_-_neu.pdf
+- Anlage: Beschlussvorlage (Anlage 5 Mustermietvertrag) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaqJbdBeENiXcVAiVbzEaiAESpCoqfbWsmktUUoA_WaW/Anlage_5_Mustermietvertrag.pdf
+- Anlage: Beschlussvorlage (Anlage 6 Synopse Allg. Miet- und Nutzungsbedingungen) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXGbNgDj3rSaDvYiV81AXvxQ4JLAZoZFMzs0YzOdNNrh/Anlage_6_Synopse_Allg._Miet-_und_Nutzungsbedingungen.pdf
+- Anlage: Beschlussvorlage (Anlage 1b Widmungszweck) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUtbujyBJbb7pr2DpSckIS1RDZqpwfionzPbs6hX7kZZ/Anlage_1b_Widmungszweck.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/549 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-5
