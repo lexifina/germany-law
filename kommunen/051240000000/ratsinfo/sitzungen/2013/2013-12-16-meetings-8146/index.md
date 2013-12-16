@@ -1,0 +1,77 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2013-12-16T16:05:00+01:00
+- Ende: 2013-12-16T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8146
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8146
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00163491.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00164102.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Klage gegen Bebauungspläne - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Anfrage der FDP-Fraktion vom 29.11.2013 - abschließend zur Kenntnis genommen
+- TOP 2.2: Personalabbau bei Helios - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.11.2013 - Personalabbau bei HELIOS - abschließend zur Kenntnis genommen
+- TOP 2.3: Reduzierung der Geschäftsführer*innen für die Bezirksvertretungen? - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.11.2013 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgeranträge zum Erhalt des CE 62 Am Eckbusch - Elberfeld Hauptbahnhof
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Vertretung des Beirates der Menschen mit Behinderung Wuppertal in Ausschüssen und Bezirksvertretungen
+- TOP 4.1.1: Beteiligung des Beirates der Menschen mit Behinderung an den Beratungen der Ausschüsse und Bezirksvertretungen - ungeändert beschlossen
+- TOP 4.2: Zusammenführung von BEA und Regionalagentur - abgelehnt
+- TOP 4.3: Schlussfolgerung aus Kennzahlenvergleich zu Transferleistungen - ungeändert beschlossen
+- TOP 4.4: Leitfaden kommunale Bürgerbeteiligung - zur Vorberatung verwiesen
+- TOP 4.5: Entscheidung über Vollsperrung der B7 - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Dritte Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.2: 6. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2014 - ungeändert beschlossen
+- TOP 6.4: Gebührensatzung zur Abfallwirtschaft 2014 - ungeändert beschlossen
+- TOP 6.5: Änderung der Zuständigkeitsordnung
+- TOP 6.6: Satzung über die Festsetzung der Hebesätze der Grundsteuer A und der Grundsteuer B sowie der Gewerbesteuer der Stadt Wuppertal (Hebesatzsatzung) - ungeändert beschlossen
+- TOP 6.7: Dritte Satzung zur Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Gesamtabschlusses zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.2: Entwurf der Richtlinie für den Gesamtabschluss der Stadt Wuppertal (Gesamtabschlussrichtlinie) - Entgegennahme ohne Beschluss
+- TOP 7.3: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2012 - geändert beschlossen
+- TOP 7.4: Über- und außerplanmäßige Bereitstellung von Mitteln, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 7.5: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.1012 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2012 - Entgegennahme ohne Beschluss
+- TOP 8.2: Jahresabschluss 2012 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan 2014 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplanung KIJU für das Jahr 2014 - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2014 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.7: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2014 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.8: Wirtschaftsplan 2014 der Wirtschaftsförderung Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 8.9: Umzug des Herzzentrums der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 8.10: Geschäftsführerangelegenheiten der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 9: Baumaßnahmen
+- TOP 9.1: Bebauungsplan 1163 - Berliner Straße - - ungeändert beschlossen
+- TOP 10: Planverfahren
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gremienbericht Stadt Wuppertal - abgesetzt
+- TOP 11.2: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2014 bis 31.12.2014 - ungeändert beschlossen
+- TOP 11.3: Bestellung und Abberufung der/s Betriebsleiters/in des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 11.4: Antrag auf Namensänderung der Städt. Gesamtschule Vohwinkel gem. § 6 SchulG NRW - ungeändert beschlossen
+- TOP 11.5: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal – finanzielle Auswirkungen der bergischen Projekte - Entgegennahme ohne Beschluss
+- TOP 11.6: Fortschreibung der Leitlinien in der Strategie Wuppertal 2025 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neuberufung von 4 beratenden Mitgliedern für die Planungs- und Baubegleitkommission Döppersberg - ungeändert beschlossen
+- TOP 12.2: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 03. April 2014 in Mülheim an der Ruhr - Benennung der stimmberechtigten Abgeordneten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.3: Umbesetzungsantrag - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.5: Einigungssstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz NRW) - Bestimmung der von der Dienststelle zu benennenden Beisitzerinnen und Beisitzer - ungeändert beschlossen
+- TOP 12.6: Gremienumbesetzung - ungeändert beschlossen
