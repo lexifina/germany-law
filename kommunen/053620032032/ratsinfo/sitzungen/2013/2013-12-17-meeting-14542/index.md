@@ -1,0 +1,60 @@
+# Stadtrat (30. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2013-12-17T17:00:00+01:00
+- Ende: 2013-12-17T20:09:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZd6YNp6nzgtFupwTV-N9gjU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/14542
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZb11OJ5fh8cpy8aUWPN5kMMK-U87kj_t8F4JQjwoxyZ9/Bekanntmachung_Stadtrat_17.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXj4SVUuH9pOH_mTLjBJj15obgk2CstmOyGGQkVS4LtS/Oeffentliche_Niederschrift_Stadtrat_17.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Informationen zum Flugbetrieb des taktischen Luftwaffengeschwaders 31 Boelcke hier: Bericht des Kommodore Oberst Hoppe
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 3.2: Antrag der CDU-Fraktion
+- TOP 3.3: Umbesetzung des Jugendhilfeausschusses
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 11. Änderung der Vergabeordnung der Kolpingstadt Kerpen
+- TOP 4.2: 15. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Kolpingstadt Kerpen
+- TOP 4.3: Gebührenbedarfsberechnung Abwasserentsorgung 2014
+- TOP 4.4: 23. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 4.5: 14. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 4.6: Gebührenbedarfsberechnung Abfallentsorgung 2014
+- TOP 4.7: Materielle Änderung der Satzung der Kolpingstadt Kerpen über die Förderung der Kindertagespflege
+- TOP 5.: Bürgerfreundlicher Umgang mit Bürgerbegehren hier: Antrag der FDP-Fraktion
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Umsiedlung Manheim, Einrichtungen der sozialen Infrastruktur, weitere Vorgehensweise bei Gemeindehaus, beim Bürgerzentrum und beim Sportplatz
+- TOP 6.2: 68. Änderung des Flächennutzungsplanes "Heppendorfer Straße/Zum Wasserwerk", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.3: Bebauungsplan SI 254 A "Heppendorfer Straße/Zum Wasserwerk", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Funktion des Kämmerers der Kolpingstadt Kerpen
+- TOP 7.2: Stellenplan 2014; Einrichtung von zwei zusätzlichen Stellen im Jugendamt
+- TOP 8.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im III. Quartal 2013
+- TOP 9.: Bereitstellung von zusätzlichen Mitteln zur Realisierung der Verpflichtungen aus dem Städtebaulichen Vertrag vom 06.07.2012, „Tanzende Stadthäuser“.
+- TOP 10.: Bekanntgabe der in der Zeit vom 01.01. bis 30.09.2013 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben nach § 83 Abs. 2 GO NW
+- TOP 11.: Dienstanweisung über die Grundsätze der Ermächtigungsübertragungen; hier: Zustimmung des Stadtrates gemäß § 22 Abs. 1 Gemeindehaushaltsverordnung
+- TOP 12.: Veränderung der Bezuschussung in der Tagespflege wegen Rechtsanspruch u3
+- TOP 13.: Änderung der Martinusschule, Förderschule mit dem Förderschwerpunkt Lernen
+- TOP 14.: Vergabebericht 2012
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Neuvergabe der Konzessionen für das Strom- und Gasnetz
+- TOP 20.: Auftragsvergabe zur Erstellung einer Sport(stätten)entwicklungsplanung
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.: Prüfung der Jahresabschlüsse 2012 - 2013
+- TOP 23.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 24.: Mitteilungen
+- TOP 25.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 26.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
