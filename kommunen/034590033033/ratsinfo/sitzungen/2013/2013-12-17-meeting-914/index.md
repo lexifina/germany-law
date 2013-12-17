@@ -1,0 +1,66 @@
+# Rat (26. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2013-12-17T17:45:00+01:00
+- Ende: 2013-12-17T22:35:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZc8EUtlw_4XUSS2xRzuTDzY
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/914
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbkc4-MLZX82lAQ1yngXBZ4d4EfnG_8FZaQwO3qbsaNn/Bekanntmachung_Rat_17.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQahVYCsrUcPR715gC5ghG3jPxpnbgaLOVcI_-jrsOoc/Oeffentliche_Niederschrift_Rat_17.12.2013.pdf
+
+## Tagesordnung
+
+- TOP II.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschriften über die Sitzungen vom 07.11. 2013 und 14.11.2013
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Abschluss eines Erschließungsvertrages für das Baugebiet 'An der Barlager Brücke'
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Wahltermin für die Bürgermeisterwahl 2014 - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 4.2: Benennung eines neuen stellvertretenden Gemeindewahlleiters
+- TOP 4.3: Einrichtung Carsharing in Wallenhorst hier: Antrag der Kooperationspartner - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Änderung der Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen ehrenamtlichen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Kommunalangelegenheiten
+- TOP 6.1: Beschluss über den Gestattungsvertrag zur Installation und Nutzung von Photovoltaikanlagen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Kapitalaufstockung Gemeindewerke Wallenhorst GmbH - mehrheitlich mit 20 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.3: Änderung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen vom 07.10.2008 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Jugendangelegenheiten
+- TOP 7.1: Antrag der Kath. Kirchengemeinde St. Alexander auf Bezuschussung der Kellersanierung im Jugendheim "Franziskushaus" Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Kindertagesstätten
+- TOP 8.1: Zuschuss für die Umbaumaßnahme am Kindergarten St. Stephanus zur räumlichen Optimierung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Schulangelegenheiten
+- TOP 9.1: Schulhofgestaltung an der St.-Bernhard-Schule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Kulturangelegenheiten
+- TOP 10.1: Antrag der Katholischen Kirchengemeinde St. Johannes Rulle auf Bezuschussung der Kosten für die Sanierungsmaßnahme Kirchplatz Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sportangelegenheiten
+- TOP 11.1: Antrag des Sportvereines Blau-Weiss Hollage auf Erstellung einer zusätzlichen Trainingshalle im Sportzentrum Hollage - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 11.2: Antrag des Sportvereines Blau-Weiss Hollage auf Einzäunung des Sportgeländes Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Wasserdurchlässigkeit des Rasenplatzes im Sportgelände Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.4: Sanierung der Tennenlaufbahn am Sportplatz Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.5: Antrag des Reit- und Fahrvereins Hollage e. V. auf Bezuschussung der Sanierung der Stallboxen - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 11.6: Zustimmung zu einer überplanmäßigen Ausgabe für das Budget Sport - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Verkehrsangelegenheiten
+- TOP 12.1: Sanierung der Bushaltestelle am Schulzentrum und Errichtung einer zentralen Bushaltestelle auf der Nordseite der Niedersachsenstraße - mehrheitlich mit 19 Ja-Stimme(n), 15 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 13.: Bauleitpläne
+- TOP 13.1: 1. Änderung des Bebauungsplanes Nr. 193 "Hof im Hagen" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 13.2: Bebauungsplan Nr. 256 "Alte Straßenmeisterei" hier: Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge Beschluss über den Entwurf Beschluss über die erneute Beteiligung gem. § 4a Abs. 3 Baugesetzbuch (BauGB) in Verbindung mit § 13a Abs. 2 BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: B-Plan Nr. 262 „Nördlich der Hansastraße und östlich der Moorlandstraße“ hier: Beschluss zur Offenlage gem. § 3 (2) und § 4 (2) Baugesetz- buch (BauGB) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.4: Bebauungsplan Nr. 265 "Zwischen Lechtinger Kirchweg und B 68" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.5: Bebauungsplan Nr. 248 „Große Straße / Franksmannstraße“ hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - mehrheitlich mit 19 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 14.: Liegenschaften
+- TOP 14.1: Vergabe der Baugrundstücke im Baugebiet "An der Barlager Brücke" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 15.1: Sanierungsmaßnahme "Wallenhorst-Zentrum" hier: Grundsatzbeschluss über die Gestaltung des Bereichs "Große Straße - Nord" entsprechend dem städtebaulichen Rahmenplan - mehrheitlich mit 16 Ja-Stimme(n), 18 Gegenstimme(n), 0 Stimmenthaltung(en) abgelehnt:
+- TOP 15.2: Umgestaltung der Randbereiche „Hollager Straße“ hier: Festlegung Pflastermaterial - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.3: Projekt „Arkaden-Center“
+- TOP 15.4: Umsetzung einer Anregung gemäß § 34 NKomVG der ´IG Fracking-freies Artland e.V.´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.: Kämmereiangelegenheiten
+- TOP 16.1: Jahresabschluss für das Haushaltsjahr 2012 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2012 - Beratung und Entscheidung über die Entlastung des Bürgermeisters - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.2: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2012 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2012 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 16.3: Haushaltswirtschaft für das Jahr 2014 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - mehrheitlich mit 19 Ja-Stimme(n), 14 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 17.: Anfragen und Anregungen
