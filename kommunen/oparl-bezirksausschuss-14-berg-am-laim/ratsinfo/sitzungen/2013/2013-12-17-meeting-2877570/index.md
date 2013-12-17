@@ -1,0 +1,77 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2013-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2877570
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2877570
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Baumkirchner Straße - WA 1 - Neubau einer Wohnanlage mit 170 WE und TG
+- TOP 3.1.1.2.: Grafinger Str. 6 - Erweiterung der Nachtkantine und Genehmigung als Versammlungsstätte
+- TOP 3.1.2.1.: Radwegeinbau / Verkehrsplanerische Maßnahmen in der Rosenheimer Straße
+- TOP 3.1.3.1.: Aufwertung der städtischen Grünanlage an der Zehntfeldstraße (zwischen Kranzhorn- und Rofanstraße)
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Baumkirchner Straße (WA 1)
+- TOP 3.6.2.: Altöttinger Str. 31
+- TOP 3.6.3.: Talerweg 22
+- TOP 3.6.4.: Kreillerstraße 141 - 145
+- TOP 3.6.5.: Hachinger-Bach-Str. 2 d
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Antrag auf Unveränderte Gaststättenfortführung: - Satyam - Berg-am-Laim-Str. 53 // - Red Hill - Ampfingstr. 48 // - Blue Sun - Grafinger Str. 6 //
+- TOP 4.1.1.3.: A) - Bebauungsplan mit Grünordnung Nr. 1971 Baumkirchner Straße (westlich), Bahnlinie München-Rosenheim (südlich) (Teiländerung des Bebauungsplanes Nr. 1435) - Aufhebung übergeleiteter einfacher Bebauungspläne gemäß § 173 Abs. 3 BBauG-Satzungsbeschluss B) Städtebauliche Entwicklungsmaßnahme gemäß § 165 Baugesetzbuch für den Bereich Ostbahnhof - Leuchtenbergring und S-Bahnhof Berg am Laim - Teilaufhebung des Einleitungsbeschlusses vom 23.04.1996 im Bereich des Bebauungsplanes Nr. 1971 - V 13450
+- TOP 4.1.1.4.: Energiekonzepte für neue Baugebiete - Vorlage Nr. 08-14 / V 13147 a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete"
+- TOP 4.1.1.5.: Stellplatzschlüssel im Wohnungsbau - 08-14 / V 13593
+- TOP 4.1.1.6.: Wohnungsmarkt München - Expertenbefragung 2013 - Bekanntgabe - 08-14 / V 13572
+- TOP 4.1.1.7.: Einkommensgrenzen für Senioren beim München-Modell - 08-14 / V 13475
+- TOP 4.1.2.1.: Schaffung einer An- und Abfahrtzone für die Kindertagesstätte St.-Michael-Str. 77
+- TOP 4.1.2.2.: Handlungsprogramm Mittlerer Ring - 08-14 / V 10707
+- TOP 4.1.2.3.: Lichtzeichenanlagen-Bauprogramm - 08-14 / V 13447
+- TOP 4.1.2.4.: Parklizenzen für Besucher in München - Vorlagen Nr. 08-14 / V 13392
+- TOP 4.1.2.5.: CarSharing in München - Durchführung von Pilotprojekten Zwischenbericht - V 13441
+- TOP 4.1.3.1.: Flächenhaften Naturschutz in der Verwaltung stärken ! - Vorlagen-Nr. 08-14 / V 13318
+- TOP 4.1.3.2.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen - Vorlagen-Nr. V 13354
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Einrichtung eines Nachbarschaftstreffs in der Westerhamerstraße 14 zur Standortergänzung eines Nachbarschaftstreffs - Vorlagen-Nr. 08-14 / V 13223
+- TOP 4.4.2.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen emöglichen
+- TOP 4.6.1.: Plankensteinstr. 2 - 4
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
