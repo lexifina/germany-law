@@ -1,0 +1,51 @@
+# Rat (76. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2013-12-17T18:03:00+01:00
+- Ende: 2013-12-17T21:15:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeWd18dnw3wdP3Dl-S6TXfU
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/10529
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVDOOJhNxq2bNS0bHEUFiKqUH5mWaRquQwOc8lEGQxrk/Bekanntmachung_Rat_17.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeQDXb3VXx5CjeRVdubA7YjrXwVbA9OmulNff2Mk6EqC/Oeffentliche_Niederschrift_Rat_17.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 11.11.2013
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Kommunale Gemeinschaftsarbeit
+- TOP 4.1: Interkommunale Zusammenarbeit im Bereich der Rechnungsprüfung - Abschluss einer öffentlich-rechtlichen Vereinbarung mit dem Kreis Steinfurt - Einstimmig
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) vom 20.12.2007 in der Fassung des VII. Nachtrages - 35 Ja-Stimme(n), 3 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 5.2: II. Nachtrag zur Gebührensatzung vom 04. Juli 2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04. Juli 2012 - Einstimmig
+- TOP 5.3: I. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 19. Dezember 2012 auf Grundlage der Gebührenkalkulation für das Jahr 2014 - 37 Ja-Stimme(n), 1 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 5.4: XI. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 5.5: Änderung der Satzung der Stadt Emsdetten über die Erlaubnisse und Gebühren für Sondernutzung an öffentlichen Straßen - 37 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.6: Aktivierungsprozess Innenstadt hier: Weiterentwicklung Hauptgeschäftszentrum - 6 Ja-Stimme(n), 27 Gegenstimme(n), 6 Enthaltung(en)
+- TOP 5.7: Satzung der Stadt Emsdetten über ein besonderes Vorkaufsrecht nach § 25 Baugesetzbuch (Vorkaufsrechtssatzung) im Bereich Rheiner Straße / Emsstraße - Einstimmig
+- TOP 5.8: Satzung der Stadt Emsdetten über ein besonderes Vorkaufsrecht nach § 25 Baugesetzbuch (Vorkaufsrechtssatzung) im Bereich Schulstraße - Einstimmig
+- TOP 5.9: Bebauungsplan Nr. 8 K "Rheiner Straße / Emsstraße" - Satzung über eine Veränderungssperre - - 21 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.: Privaterschließungs- und städtebauliche Verträge
+- TOP 6.1: Abschluss eines städtebaulichen Vertrages mit der Fa. Bioenergie GmbH & CoKG i.G. - Einstimmig
+- TOP 7.: Flächennutzungsplan
+- TOP 7.1: 8. Änderung des Flächennutzungsplanes der Stadt Emsdetten im Bereich des Bebauungsplanes Nr. 87 "Nahwärmeversorgung Ahlintel" - Feststellungsbeschluss - - Einstimmig
+- TOP 7.2: Antrag der Fraktion DIE GRÜNEN, der Fraktion Emsdettener Liste sowie der fraktionslosen Einzelratsmitglieder Ingeborg Krüper, Thomas Huesmann und Hubert Klodt auf Unterstützung der Errichtung eines Trauerwaldes im Stadtgebiet Emsdettens
+- TOP 8.: Bebauungspläne
+- TOP 8.1: Bebauungsplan Nr. 87 "Nahwärmeversorgung Ahlintel" - Satzungsbeschluss - - Einstimmig
+- TOP 9.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 9.1: Übertragung der Durchführung von Ferienmaßnahmen in den Sommerferien am Standort "Mehrzweckhalle Sinningen" auf den Trägerverbund Kreisel e.V. und Outlaw gGmbH - Einstimmig
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Verleihung des Kulturpreises der Stadt Emsdetten an die Karnevalsgesellschaft Emsdetten e.V. - 19 Ja-Stimme(n), 19 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2012 mit Jahresabschluss zum 31.12.2012 - 36 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 12.: Vorzeitige Ausschüttung vom Jahresüberschuss 2013 des Abwasserwerkes - 36 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 13.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2014 - 36 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Stellenplan
+- TOP 14.1: Stellenplan 2014 - 35 Ja-Stimme(n), 0 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 15.: Etat / Budget
+- TOP 15.1: Haushaltssatzung und Haushaltsplan 2014 - 35 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Verschiedenes
