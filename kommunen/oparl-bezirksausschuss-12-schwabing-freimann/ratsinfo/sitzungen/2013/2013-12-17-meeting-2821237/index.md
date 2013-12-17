@@ -1,0 +1,87 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2013-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2821237
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2821237
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Finanzierung von Einwohnerversammlungen
+- TOP .2.: Abrechnung der Aufwandsentschädigungen im Jahr 2014
+- TOP .3.: Anwohnerbeschwerden ?Cafe Uni Reitschule? / ?Cavos? - Stellungnahme der Bezirksinspektion Nord
+- TOP .10.: sonstiges
+- TOP 1: (E) Errichtung einer beidseitigen Lärmschutzwand an der U-Bahn-Brücke Heidemannstraße Empfehlung Nr. 08-14 / E 01871 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 02.07.2013
+- TOP 1.1.: Errichtung eines Wertstoffcontainerstandorts am Admiralbogen / Kieferngartenstraße / Am Kiefernwald
+- TOP 1.1.: Maßnahmen gegen Müll und Lärm vor der Diskothek ?Crash?
+- TOP 1.1.: Sicherung der Fuß- und Radwegeverbindung vom Joseph-Dollinger-Bogen zur Kleingartensiedlung über die A9
+- TOP 1.1.: Errichtung eines absoluten Haltverbots in der Lindberghstraße ggü. Anwesen 30
+- TOP 1.2.: Absolutes Haltverbot in der Herzogstraße außerhalb der Parkbuchten
+- TOP 1.3.: Kurzparkzonen Crailsheimstraße
+- TOP 1.4.: Absolutes Haltverbot in der Grünecker Straße
+- TOP 1.5.: Punktuelle Sperrung der Biedersteiner Straße für LKW's
+- TOP 1.1.: Ausnahmezulassung gemäß BImSchV für einen Kraftstromerzeuger in der Leopoldstraße 61
+- TOP 1.2.: Vollsperrung der U-Bahnlinie U6 vom 12. 05 bis 05.09.2014 wegen Gleis- und Brückenbauarbeiten.
+- TOP 1.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (3)
+- TOP 1.4.: Parklizenzen für Besucher in München; Sitzungsvorlage Nr. 08-14 / V 13392 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.5.: Handlungsprogramm Mittlerer Ring ? Sachstand und weiterer Handlungsbedarf Sitzungsvorlage Nr. 08-14 / V 10707 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.6.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Sitzungsvorlage Nr. 08-14 / V 13354, Beschluss des Bauausschusses vom 10.12.2013
+- TOP 1.7.: Vorläufige Sicherung und Festsetzung des ermittelten Überschwemmungsgebiets Isar
+- TOP 1.8.: Flächenhaften Naturschutz in der Verwaltung stärken! Sitzungsvorlage Nr.: 08-14 / V 13318; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.9.: Urbanes NaturNetz für ganz München
+- TOP 1.10.: Zugangsmöglichkeit zur Tram-Haltestelle ?Domagkstraße? - Antwort der MVG auf div. Bürgeranliegen
+- TOP 1: (E) Bau eines Schwimmbads in Freimann Empfehlung Nr. 08-14 / E 01880 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 02.07.2013
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Metropoltheater gGmbH Inszenierung von "Unter dem Milchwald" vom 20.01.2014 - März 2014
+- TOP 1.1.: Sicherung des Trainingsbetriebs des Isar-Dojo e.V. München in der Leinthaler Straße
+- TOP 1.1.: Auf der Spielfläche zwischen der Siedlung Am Haidpark und der Kieferngartensiedlung sind z. B. im nordwestlichen Teil mindestens zwei Tischtennisplatten und zwei Fußballtore aufzustellen.
+- TOP 1.2.: Erhalt des Charakters der Domagkateliers in ihrer Gesamtheit und Rückerstattung der von den Künstlern getätigten Investitionen bei Nichtberücksichtigung zur Belegung der Ateliers
+- TOP 1.3.: Genehmigung von Holzkohlegrill bei öffentlichen Festen
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: ?Khorassan Restaurant? (ehemals ?Shanai?), Schank- und Speisewirtschaft, Ungererstr. 56
+- TOP 1.1.: Verwendungsnachweise / Sachberichte Evangelisches Hilfswerk München gGmbH für das Sommerfest der Teestube ?komm?-Streetwork am 09.08.2013
+- TOP 1.2.: Bescheide / Zuwendungsbewilligungen Freunde des OvMG e.V. für die Ausstellung zum 150jährigen Jubiläum von Januar 2014 ? Oktober 2014 in Höhe von 1.875,00 ? Seidlvilla-Verein e.V. für das Jazz-Festival am 16./17.05.2014 in Höhe von 2.037,00 ?
+- TOP 1.3.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen
+- TOP 1.4.: Errichtung von vier Grundschulen in modularer Bauweise: BA 12 betrifft: Neubau einer fünfzügigen Grundschule am Bauhausplatz mit Räumen für ganztägige Betreuung sowie einer Dreifachsporthalle und Freisportanlagen und eines Hauses für Kinder mit drei Krippen- und drei Kindergartengruppen; Sitzungsvorlage Nr.: 08 ? 14 / V 13658 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 04.12.2013 (siehe auch TOP D.5.3.9.)
+- TOP 1.1.: Bau eines Schwimmbads in Freimann (Empfehlung Nr. 08-14 / E 01880; siehe auch C.2.1)
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Floriansmühlstraße 60, Fällung von 13 Bäumen
+- TOP 1.2.: Leopoldstraße 208, Fl.Nr.: 894/4, Nutzungsänderung eines Bürogebäudes zu einer Privatschule mit Vorschule, Fällung von 10 Bäumen gemäß Plan
+- TOP 1.3.: Frankfurter Ring, Fl.Nr.: 880/138, Errichtung eines Gebäudes mit Studentenwohnheim ?Haus für Kinder? (3-gruppige Krippe), Clearinghaus und Tiefgarage, Fällung einer Esche und einer Winterlinde
+- TOP 1.4.: Clemenststr. 2, Neubau einer Tiefgarage; Fällungen gemäß Plan
+- TOP 1.5.: Leinthalerstr., Fl.Nr.: 88/228, Neubau eines Doppelhauses mit Garage (Haus 1 und 2) Fällung diverser Bäume
+- TOP 1.1.: Domagkstraße, Fl.Nr.: 266/7, Neubau eines Parkhauses für 339 PKW
+- TOP 1.2.: Änderung der Denkmalliste ? Nachtrag eines Hauses in die Denkmalliste Heinrich-Groh-Straße 6
+- TOP 1.3.: Bauvorhaben: Clemensstraße 26, Fl.Nr.: 380/7, Umbau 1. DG und Ausbau 2. DG, Aufzugsanbau sowie Anbau und Erweiterung von Balkonen eines denkmalgeschützten Wohngebäudes
+- TOP 1.5.2.: Genehmigte Baumfällungen
+- TOP 1.1.: Ingolstädter Straße 12, Fällung einer Robinie
+- TOP 1.2.: Herzogstraße 31, Fällung eines Ahornbaumes
+- TOP 1.3.: Zirbelweg 13a, Fällung einer Weide
+- TOP 1.1.: Probleme in der Parkstadt Schwabing ? Antrag der Stadtratsfraktion der FDP vom 13.11.2013
+- TOP 1.2.: Straßenbeneennung im 12. Stadtbezirk ? Werkbundstraße und Weimarer Straße
+- TOP 1.3.: Wohnungsmarkt München ? Expertenbefragung 2013; Sitzungsvorlage Nr. 08-14 / V 13572 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.4.: Einkommensgrenzen für Senioren beim München-Modell ; BV-Empfehlung des Stadtbezirks 20 Hadern vom 25.09.2013; Sitzungsvorlage Nr. 08-14 / V 13475 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.5.: Bebauungsplan mit Grünordnung Nr. 2031 b ? Freisinger Landstraße (östlich), Garchinger Mühlbach (westlich) und Verlängerung Josef-Wirth-Weg (nördlich) ? Satzungsbeschluss Sitzungsvorlage Nr. 08-14 / V 13571 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.6.: Mehrjahresinvestitionsprogramm 2013 ? 2017; Maßnahmen im Bereich des Kommunalreferats; Programmentwurf; Sitzungsvorlage Nr.: 08-14 / V 13335 Beschluss des Kommunalausschusses vom 21.11.2013
+- TOP 1.7.: Stellplatzschlüssel im Wohnungsbau; Sitzungsvorlage Nr. 08-14 / V 13593 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.8.: Städtebauliche Entwicklungsmaßnahme Funkkaserne ? Bebauungsplan mit Grünordnung Nr. 1943b; Konzeptausschreibung für die Bauquartiere WA 5, WA 6 und WA 7, freifinanzierter Eigentumswohnungsbau und München Modell-Eigentum; Ausschreibungsbeschluss; Sitzungsvorlage Nr. 08-14 / V 13127 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 1.9.: Errichtung von vier Grundschulen in modularer Bauweise: BA 12 betrifft: Neubau einer fünfzügigen Grundschule am Bauhausplatz mit Räumen für ganztägige Betreuung sowie einer Dreifachsporthalle und Freisportanlagen und eines Hauses für Kinder mit drei Krippen- und drei Kindergartengruppen; Sitzungsvorlage Nr.: 08 ? 14 / V 13658 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 04.12.2013 (siehe auch TOP C.5.3.4.)
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
