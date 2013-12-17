@@ -1,0 +1,122 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2013-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2840341
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2840341
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Bewerbung des BA 18 für den Kindersommer 2014 in Untergiesing-Harlaching; Bürgerantrag vom 14.11.2013
+- TOP 2.2.: Auftrag an den Bezirksausschuss 18, sämtliche Gebäude im Stadtbezirk unter dem Denkmalschutz-Aspekt zu sichten und auf deren Erhalt zu achten
+- TOP 2.3.: Schaffung einer Spielstätte für Bikepolo im 18. Stadtbezirk; Antrag des Vereins Bikepolo München e.V. vom 29.11.2013 - <div>nach Antrag</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Alten- und Service-Zentrum Harlaching, für die Maßnahme: Veranstaltungsreihe ?Little America in Harlaching?, erstes Halbjahr 2014; Antragssumme: 750,00 ?; Beschlussvorlage des Direktoriums vom 26.11.2013
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Budgetvergabe transparenter machen - mehrere Angebote einholen; Antrag Nr. 08-14 / B 05217 des BA 18; Stellungnahme des BA 3 vom 13.11.2013 (negativ)
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Einrichtung von Zebrastreifen über den "Isarradweg" am Flaucher; Verkehrs- und Parkplatzsituation an der Schönstraße; Bürgerschreiben (verwiesen aus der Sitzung vom 19.11.13)
+- TOP 3.1.: Verkehrssicherheit in der Unterführung Sachstenstraße/Teutoburger Straße; Antrag der Fraktion Bündnis 90/Die Grünen vom 29.11.2013 - <div>nach Antrag</div>
+- TOP 3.2.: Machbarkeitsstudie Tegernseer Landstraße / Chiemgaustraße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 vom 15.12.2013 - <div>vertagt</div>
+- TOP 3.1.: Öffnung der einbahngeregelten Lautererstraße zwischen der Grünwalder Straße und der Aretinstraße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen AO nach § 45 StVO; Zuleitung des KVR vom 25.11.13 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.1.: Verstärkung der Poller vor dem Flamingo-Eingang des Tierparks Hellabrunn im Zuge der Baumaßnahme Tierparkstraße; BA-Antrag Nr. 08-14 / B 05218 vom 17.09.13; Antwortschreiben des Baureferats-Tiefbau vom 26.11.2013 (positive Erledigung)
+- TOP 3.1.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen; Standarderhöhung und Finanzierung; Sitzungsvorlage Nr. 08-14/V 12710; Beschluss des Bauausschusses vom 19.11.2013 (VB)
+- TOP 3.2.: Lichtzeichenanlagen-Bauprogramm; Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 (SB)
+- TOP 3.3.: CarSharing in München; Durchführung von Pilotprojekten; Zwischenbericht zur Projekthalbzeit; Anpassung der Rahmenbedingungen; Sitzungsvorlage Nr. 08-14 / V 13441; Beschluss des Kreisverwaltungsausschusses vom 26.11.2013 (VB)
+- TOP 3.4.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Rotbuchenstraße 44; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 3.5.: Parklizenzen für Besucher in München; Antrag Nr. 08-14 / A 02839 der Stadtratsfraktion der FDP vom 24.10.2011; Sitzungsvorlagen Nr. 08-14 / V 13392; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 (SB)
+- TOP 3.6.: Handlungsprogramm Mittlerer Ring; Sachstand und weiterer Handlungsbedarf; Sitzungsvorlagen Nr. 08-14/V 10707; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.12.2013 (VB)
+- TOP 3.7.: Öffnung der einbahngeregelten Alois-Wohlmuth-Straße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung nach § 45 StVO; Unterrichtung des KVR
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Kontrolle der Grundstücksbäume am Perlacher Forst; Bürgerschreiben vom 13.11.2013 (verwiesen aus der Sitzung vom 19.11.13)
+- TOP 3.1.: Urbanes NaturNetz für ganz München! "Grünzüge in Fahrt bringen!" durch neue GRÜNE ACHSEN in den 25 Münchner BezirksNaturNetzen; Schreiben des Vereins Urbanes Wohnen e.V. mit der Bitte um Stellungnahme
+- TOP 3.2.: Der nächste Sommer kommt bestimmt: Verbesserungen an der Isar; BA-Antrag Nr. 08-14 / B 05193 vom 17.09.2013; Antwortschreiben des Baureferats vom 21.11.2013 (neutrale Erledigung)
+- TOP 3.3.: Kampfhund am Kuntersweg / Hoher Weg; Vorschlag des BA 18 aus der Sitzung vom 17.09.2013 zur Grünfläche; Antwortschreiben des Baureferats-Gartenbau vom 18.11.2013 mit der Bitte um Kontaktaufnahme (ggf. Ortstermin)
+- TOP 3.4.: Baumfällungen auf dem Grundstück Griechenplatz 13 / Langobardenstraße 5 und 8; Antrag auf Einsichtnahme in die Bußgeldakten nach § 16 BA-Satzung; Schreiben des Direktoriums vom 25.11.2013 (negative Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Gabriel-Max-Str. 31; Bescheid vom 13.11.2013 3.3.6.1.2 Seybothstraße 50; Bescheid vom 22.11.2013 3.3.6.1.3 Willroiderstraße 16; Bescheid vom 26.11.2013
+- TOP 3.2.: Energienutzungsplan - nachhaltige und vorausschauende Energieplanung für München; Antrag Nr. 08-14 / A 03331 der Stadtratsfraktion DIE GRÜNEN / RL vom 21.05.2012; Sitzungsvorlage Nr. 08-14 / V 13415; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung u. Bauordnung u. des Umweltschutzausschusses vom 04.12.2013 (VB)
+- TOP 3.3.: Müllberge an der Isar (und in Grünanlagen) - wie gehen andere Städte mit dem Müllproblem im Öffentlichen Raum um? Stadtratsantrag Nr. 08-14 / A 03444; Aktionen zur Sensibilisierung von Kindern und Jugendlichen im Umgang mit Müll am Beispiel der Verschmutzung am Isarstrand; Stadtratsantrag Nr. 08-14 / A 03445; Kampagne "Deine Isar"; Stadtratsantrag Nr. 08-14 / A 03560; Sitzungsvorlage Nr. 08-14 / V 12005; Beschluss des Bauausschusses vom 19.11.2013 (VB)
+- TOP 3.4.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Antrag Nr. 08-14 / A 04305 vom 07.06.13; Sitzungsvorlage Nr. 08-14 / V 13354; Beschluss des Bauausschusses vom 10.12.2013 (SB)
+- TOP 3.5.: Vollzug der Wassergesetze; vorläufige Sicherung und Festsetzung des ermittelten Überschwemmungsgebiets Isar; Schreiben des RGU vom 22.11.2013
+- TOP 3.6.: Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 08-14 / A 04569 der Stadtratsfraktion DIE GRÜNEN / ROSA Liste vom 13.08.2013; Sitzungsvorlagen Nr. 08-14 / V 13318; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.12.2013 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2014; Schreiben der PA/Spielen in der Stadt e.V. mit der Bitte um Platzvorschläge für den Spielbuseinsatz im Jahr 2014 (vertagt aus der November-Sitzung)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 12.10.2013 im Rathaus; Schreiben des BA 2 vom 04.11.2013 / Fragebögen zum 18. Stadtbezirk
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Wohnanlage Hochkalterstraße 2 - 14; Bürgerschreiben vom 12.11.2013 und Abdruck des diesbezüglichen Schriftverkehrs mit der LHM (verwiesen aus der Sitzung vom 19.11.13)
+- TOP 3.2.: Neuordnung Osram-Gelände; Bürgerschreiben vom 14.11.2013 (verwiesen aus der Sitzung vom 19.11.2013)
+- TOP 3.3.: Nutzung des Osram-Geländes - Kath. Männerfürsorgeheim Pistorinistraße 30; Bürgeranliegen vom 18.11.13 (verwiesen aus der Sitzung vom 19.11.2013)
+- TOP 3.4.: Unterlagen zur HEIMAG-Mieterversammlung am 18.09.2013 (verwiesen aus der Sitzung vom 15.10.13 und 19.11.13)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Pilgersheimer Str. 32; Beschluss des BA 18 vom 17.12.2013
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Die LHM wird um Prüfung gebeten, ob das ehemalige Gelände der Stadtgärtnerei neben der Pfarrei Heilige Familie Harlachinger Vereinen zur Verfügung gestellt werden kann; Antrag der CSU-Fraktion vom 02.12.2013 - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Grünwalder Str. 190, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage; Anhörung vom 13.11.2013 (vertagt aus der November-Sitzung)
+- TOP 3.2.: Prößlstraße 12, Neubau 2er Wohngebäude mit Tiefgarage - VORBESCHEID (2 Var.); Anhörung vom 19.11.2013
+- TOP 3.3.: Tierparkstraße 30, Errichtung einer Spielstrecke an der Savannenanlage; Anhörung vom 21.11.13
+- TOP 3.4.: Hauberrißstraße 7, Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 22.11.13
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Vereinsgaststätte MKV Sportgaststätte, Säbener Straße; Mitteilung vom 14.11.13
+- TOP 3.3.: Wohnungsmarkt München - Expertenbefragung 2013; Sitzungsvorlagen Nr. 08-14 / V 13572; Bekanntgabe des Ausschusses für Stadtplanung u. Bauordnung vom 04.12.2013
+- TOP 3.4.: Einkommensgrenzen für Senioren beim München-Modell; Empfehlung Nr. 08-14 / E 01924 der BÜV des Stadtbezirkes 20 - Hadern am 25.09.2013; Sitzungsvorlagen Nr. 08-14 / V 13475; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 04.12.2013 (SB)
+- TOP 3.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.5.1 Grünwalder Straße; Mitteilung vom 18.11.2013
+- TOP 3.6.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2088 Candidstraße (südlich), Hellabrunner Straße (östlich), Salierstraße (westlich) (Änderung des Bebauungsplanes Nr. 10b) - ehem. Osramgelände - - Eckdaten- und Aufstellungsbeschluss - B) Auslobung eines städtebaulichen und landschaftsplanerischen Wettbewerbes Sitzungsvorlagen Nr. 08-14 / V 13482; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 (VB)
+- TOP 3.7.: Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete"; Antrag Nr. 08-14 / A 03196 der Stadtratsfraktion DIE GRÜNEN / RL vom 22.03.2013; Sitzungsvorlagen Nr. 08-14 / V 13147; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung u. Bauordnung und des Umweltschutzausschusses vom 04.12.2013 (VB)
+- TOP 3.8.: Stellplatzschlüssel im Wohnungsbau; Sitzungsvorlagen Nr. 08-14 / V 13593; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.12.2013 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Kunst im öffentlichen Raum - dauerhafte Aufstellung einer Skulptur in der Grünanlage Lindenstraße / Über der Klause / Josef-Humar-Straße; Nachfrage des BA 18 aus der Sitzung vom 19.11.2013 zur Unterrichtung; Stellungnahme des Baureferats vom 25.11.2013 (neutrale Erledigung)
+- TOP 3.2.: Anschluss für Abwasser, Wasser und Strom für die städtische Grünanlage an der Oberbiberger Straße; erneutes Schreiben des BA 18 vom 22.10.2013; Antwortschreiben des Baureferats-Gartenbau vom 11.11.2013 (negative Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Anhörungsfrist für die Bezirksausschüsse nach § 13 Abs. 1 der BA-Satzung; Schreiben der 2. Bürgemeisterin an die Referate der LHM mit der Bitte um Kenntnisnahme
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: Antrag auf Verbot von Laubbläsergeräten in Harlaching wegen unerträglicher Lärmbelästigung; Bürgerschreiben vom 27.08.2013; Informationsschreiben des RGU vom 04.11.2013 (neutrale Erledigung)
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
