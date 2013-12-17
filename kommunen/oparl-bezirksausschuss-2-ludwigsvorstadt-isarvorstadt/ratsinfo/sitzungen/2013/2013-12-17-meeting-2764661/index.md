@@ -1,0 +1,74 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2013-12-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2764661
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2764661
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Ausstattung des Kinderhortes
+- TOP .1.: 5.1 Info-/Beratungs-/Einweisungszentrum ?Schiller 25?, Evangelisches Hilfswerk München 5.2 Seniorenstadtteilplan, Anfrage BA 3 5.3 Gartenprojekt Isarbalkon, siehe auch 2013.11 A 1.1 5.4 Kulturzentrum ?zwei-sechs Südbahnhof?
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Baaderstr. 67, Dachaufstockung mit Anbau eines Außenaufzugs ? Vorbescheid
+- TOP .2.: Jahnstr. 11, Erweiterung der beiden DG-Wohnungen durch Ausbau des Dachspeichers und Einbau zweier Dachterrassen; Anbau zweier Balkonanlagen / hofseitig; Umbau und Nutzungsänderung des eingeschossigen Rückgebäudes von Gewerbe zu Wohnen mit Errichtung einer kleinen Dachterrasse
+- TOP .3.: Hermann-Lingg-Str. 16, Nutzungsänderung und Umbau sowie Erweiterung eines Bürogebäudes in ein Wohn- und Bürogebäude
+- TOP .4.: Schwanthalerstr. 69, Nutzungsänderung EG (Büro zu Kindertagesstätte) + 6. OG (Technik/Lüftung/Klima zu Büro), energetische Fassadensanierung / -auswechslung, Dachaufbauten für die Haustechnik, Anpassen Lüftungsschacht (1.-6. OG)
+- TOP .5.: Häberlstr. 17: Nutzungsänderung Jugendzentrum, Abbruch und Neuerrichtung Dachstuhl, Wiederausbau zweier DG-Wohnungen (VGB), Abbruch Dachstühle, Teilabbruch 3. OG (RGB), Aufstockung zweier Wohnungen, rückwärtiger Anbau von Glas-Außenaufzügen (VGB + RGB), energetische Sanierung (RGB), vertagt aus 2013.11 B 3.1.10 (Eilentscheidung)
+- TOP .6.: Landwehrstr. 79: Abbruch Bürogebäude mit TG, Neubau Wohngebäude mit TG, vertagt aus 2013.11 B 3.1.11 (Eilentscheidung)
+- TOP .7.: Landwehrstr. 55: Dachgeschoss-Ausbau, Errichtung eines neuen Dachs mit einer Wohnung, vertagt aus 2013.11 B 3.1.12 (Eilentscheidung)
+- TOP .8.: Rumfordstr. 42: Tektur ? VGB: Erneuerung Dachstuhl, Errichtung einer Wohneinheit m. Dachterrasse u. Galerie im DG, Außenaufzug u. Stahlbalkone an Südfassade, jetzt: 2 Wohneinheiten m. Dachterrasse, Loggia u. Galerie im DG, vertagt aus 2013.11 B 3.1.13 (Eilentscheidung)
+- TOP .9.: Schubertstraße. 8: DG-Ausbau, Aufzuganbau, Anbau von Wintergärten u. Balkonen, Zusammenlegung Wohnung UG/EG, Nutzungsänderung von vier Wohnungen zu Büros sowie Neubau von 4 Parkliften (gesamt 14 Stellplätze), vertagt aus 2013.11 B 3.1.14 (Eilentscheidung)
+- TOP .10.: Häberlstr. 9: Tektur - Dachaufstockung m. 9 Hotelzimmern in zwei Geschossen auf Seitengebäude, Errichtung Außentreppe; jetzt: 10 Hotelzimmer, vertagt aus 2013.11 B 3.1.17 (Eilentscheidung)
+- TOP .11.: Zenettistr. 36, DG-Ausbau (4 WE) und Errichtung von Balkonen mit Notleitern
+- TOP .12.: Schwanthalerstr. 65, Umbau u. Aufstockung eines als Boardinghaus genutzten Hotels
+- TOP .13.: Aventinstr. 1, Umbau und ergänzende Aufstockung des Rückgebäudes, Tektur
+- TOP .14.: Jahnstr. 27, VGB: Nutzungsänderung, Auflösung Bäckerei in drei Teileinheiten, Neuaufbau Dachstuhl mit DG-Ausbau, Anbau Aufzugsanlage, Vergrößerung Balkonanlagen; RGB: Aufstockung, Abbruch Garage, Tektur
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Dreimühlenstr. 7, Antrag auf Baumfällung, 1 Kastanie, 1 Weide, 1 Bergahorn
+- TOP .2.: Stielerstr. 4, Antrag auf Baumfällung, 1 Spitzahorn
+- TOP .3.: Wittelsbacherstr. 20, Antrag auf Baumfällung, 1 Ahorn, vertagt aus 2013.11 B 3.2.2
+- TOP .4.: Baldestr. 15, Antrag auf Baumfällung, 1 Trompetenbaum
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Am Glockenbach und Kreuzungsbereiche Geyer- / Baldestr. und Jahn- / Baumstr., Erneuerungsmaßnahme mit Verbesserungen, Anhörung zum Beschlussentwurf für den Bauausschuss am 14.01.2014, Sitzungsvorlage Nr. 08-14 / V 10864
+- TOP .1.: Vorstellung Baumaßnahme U-Bahnhof Sendlinger Tor durch MVG im Unterausschuss
+- TOP .2.: Urbanes Natur Netz, Urbanes Wohnen e.V. München, Bitte um Rückmeldung zu Rundbrief an alle Bezirksausschüsse
+- TOP .3.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .1.: Geschwindigkeitskontrollen in der Maistr. bzw. Häberlstr.
+- TOP .2.: Vorschlag der CSU-Fraktion des BA 3 Maxvorstadt: Trennung des Fußgänger- und Radverkehrs vom Straßenverkehr in der Paul-Heyse-Unterführung
+- TOP .3.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und gewerbliche Veranstaltungen auf privatem und öffentlichem privaten Grund, vertagt aus 2013.11 C 1.2
+- TOP .4.: Keinen Kulturstrand mehr auf dem Isarbalkon auf der Corneliusbrücke, vertagt aus 2013.11 C 1.3
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Bayerstr. 8, ?King's Shop?, Aufstellung eines Fahrradständers
+- TOP .2.: Schwanthalerstr. 5, Aufstellung eines mobilen Fahrradständers
+- TOP .3.: Ickstattstr. 2b, Garment Modedesign KG, Aufstellung eines mobilen Fahrradständers
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Nutzungsanfragen Theresienwiese 2014, Anhörung Referat für Arbeit und Wirtschaft
+- TOP .3.2: Verkehr
+- TOP .1.: Lichtzeichenanlage Ickstatt-/Klenzestr., Ausschaltung der Lichtzeichenanlage versuchsweise außerhalb der Schulzeiten, siehe auch 2013.09 C 3.2.1
+- TOP .1.: Nutzung der Theresienwiese, Anhörung zum Beschlussentwurf für Ausschuss für Arbeit und Wirtschaft, Sitzungsvorlage Nr. 08-14 / V 11749
+- TOP .2.: Wertstoffcontainerstandort Bavariaring / Esperantoplatz, Anhörung des Abfallwirtschaftsbetriebes zu Verlegungsalternativen (Bavariaring 20, 28, 35, 37, 42)
+- TOP .1.: Bürgeranliegen: Christbaumverkauf auf der Theresienwiese
+- TOP .2.: Bürgeranliegen: Parkregelungen während des Oktoberfestes und Umgang mit Verwarngeldern für Carsharing-Autos
+- TOP .3.: Bürgeranliegen: Verlegung der Haltelinien für Fahrradfahrer auf dem Fahrradweg im Verlauf der Lindwurmstr. auf gleiche Höhe der Haltelinie für Autofahrer, 2013.11 II 1
+- TOP .4.: Bürgeranliegen: ?Rückgabe? der Theresienwiese an die Bevölkerung, 2013.11 II 2
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Planen und Bauen? am Montag, den 13.01.2014 um 19.00 Uhr (Sitzungslokal wird noch bekannt gegeben, ggf. telefonisch unter 089/22802673 erfragen) Unterausschuss ?KVR? am Dienstag, den 14.01.2014 um 19.00 Uhr in der Gaststätte "Schmeller Wirt", Schmellerstr. 17, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 15.01.2014 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung findet am 20.01.2014 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 28.01.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
