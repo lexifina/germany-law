@@ -1,0 +1,51 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2013-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3147556
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3147556
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Erforderliche Maßnahmen im Bereich Baustelle Grundschule an der Kirchenstraße sowie Kirchenstraße Richtung Innere Wiener Straße (Umsetzung der Ergebnisse aus dem Ortstermin vom 10.04.2013)
+- TOP .2.: Feuerwehreinfahrt an der Simon-Knoll-Schule
+- TOP .3.: Umgestaltung der Rosenheimer Straße (Ziffern 1 und 2 des Antrages)
+- TOP .4.: Qualitätssicherung bei Kinderkrippen
+- TOP .5.: Max-Weber-Platz - Mehr Sauberkeit vor der Stadtsparkasse
+- TOP .6.: Rasengleis am Bordeauxplatz wieder herstellen
+- TOP .7.: Aufstellen von Zigarettenkippenbehältnissen im Bereich der Bushaltestelle Ostbahnhof
+- TOP .8.: Brückenerweiterung für die Regerstraße
+- TOP .9.: Inklusive Ausstattung des zusätzlichen Tunnels unter den Gleisen am Ostbahnhof
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .3.: Nächste BA-Sitzung
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
