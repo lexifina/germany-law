@@ -1,16 +1,16 @@
 # Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2012-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgeb__hrensatzung_19_12_2012.pdf
+- Datum: 2013-12-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgebuehrensatzung_18_12_2013.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -) vom 21. Dezember 2011
-in der Fassung der 1. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
-(Abfallgebührensatzung – AbfGS -) vom 19. Dezember 2012
+in der Fassung der 2. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
+(Abfallgebührensatzung – AbfGS -) vom 18. Dezember 2013
 Der Rat der Stadt Köln hat in seiner Sitzung vom 20.12.2011 aufgrund der §§ 4, 5, 6 und 20 Abs. 2 des Kommunalabgabengesetzes des Landes Nordrhein-Westfalen vom 21. Oktober 1969 (SGV. NRW. 610) in Verbindung mit den §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (SGV. NRW. 2023) und der §§ 1, 2 und 9 des Abfallgesetzes für das Land NordrheinWestfalen vom 21. Juni 1988 (GV. NRW. S. 250) - Landesabfallgesetz - jeweils in der bei Erlass der Satzung geltenden Fassung - diese Satzung beschlossen.
 I.
 §1 Gebührenpflicht
@@ -21,22 +21,21 @@ c) für Leistungen nach § 9 Abs. 4, § 11 Abs. 2 und Abs. 3 sowie § 16 AbfS vo
 d) im Fall des § 6 Abs. 1 Sätze 2, 3 AbfS von den dort genannten Erzeugern/innen und Besitzern/innen von Abfällen
 Gebühren erhoben.
 Übt ein anderer als der/die Eigentümer/in die tatsächliche Herrschaft über das Grundstück in der Weise aus, dass er/sie den/die Eigentümer/in im Regelfall für die gewöhnliche Nutzungsdauer von der Einwirkung auf das Grundstück wirtschaftlich ausschließen kann, ist er/sie Gebührenschuldner/in. In den Fällen des § 39 Abs. 2 Nr. 1 S. 2 AO ist der/die Eigentümer/in Gebührenschuldner/in.
-Die Gebühren werden nach einem modifizierten Volumenmaßstab erhoben, der auf die Größe des in Anspruch genommenen Restmüllgefäßes abstellt. Dabei werden in
-Seite 1 von 10
+Die Gebühren werden nach einem modifizierten Volumenmaßstab erhoben, der auf die Größe des in Anspruch genommenen Restmüllgefäßes abstellt. Dabei werden in der Gebührenberechnung die Erfahrungswerte für das Verhältnis von Gewicht und Volumen jeder Behältergröße zu Grunde gelegt.
+Grundlagen für die Gebührenberechnung sind Anzahl, Art und Größe der aufgestellten Abfallbehälter, die Art der Abfälle, die Weise des Einsammelns und die Häufigkeit der regelmäßigen Abfuhren sowie die beantragten Sonderabfuhren. Für die Bemessung der Gebühren ist unerheblich, ob und in welchem Umfang die
+Seite 1 von 9
 
-der Gebührenberechnung die Erfahrungswerte für das Verhältnis von Gewicht und Volumen jeder Behältergröße zu Grunde gelegt.
-Grundlagen für die Gebührenberechnung sind Anzahl, Art und Größe der aufgestellten Abfallbehälter, die Art der Abfälle, die Weise des Einsammelns und die Häufigkeit der regelmäßigen Abfuhren sowie die beantragten Sonderabfuhren. Für die Bemessung der Gebühren ist unerheblich, ob und in welchem Umfang die aufgestellten Abfallbehälter bei ihrer Leerung im Einzelfall gefüllt und wie viele Abfallbehälter im Einzelfall zu entleeren waren. Unberücksichtigt bleibt auch, ob und in welchem Umfang sperrige, Schadstoffe enthaltende sowie wiederverwertbare Abfälle zur Abfuhr gegeben wurden.
+aufgestellten Abfallbehälter bei ihrer Leerung im Einzelfall gefüllt und wie viele Abfallbehälter im Einzelfall zu entleeren waren. Unberücksichtigt bleibt auch, ob und in welchem Umfang sperrige, Schadstoffe enthaltende sowie wiederverwertbare Abfälle zur Abfuhr gegeben wurden.
 (2) Die Gebührenpflicht entsteht bei unbefristet aufgestellten Abfallbehältern mit dem Ersten des dem Aufstellen des Behälters folgenden Monats. Sie endet mit Ablauf des Monats, in dem die Behälter eingezogen werden; das gleiche gilt, wenn sie bei der AWB Abfallwirtschaftsbetriebe Köln GmbH & Co. KG (im folgenden „AWB“ genannt) abgemeldet worden sind und die Abmeldung den Erfordernissen des § 8 AbfS nicht widerspricht.
 (3) Im Falle des § 9 Abs. 4 sowie des § 11 Abs. 4 Satz 2 AbfS entsteht die Gebührenpflicht mit dem Beginn der Leistung, im Falle des § 17 Abs. 1 AbfS mit der Annahme der Abfälle an der Abfallentsorgungsanlage und im Falle des § 11 Abs. 3 sowie des § 16 AbfS mit der Ausgabe des Abfallsackes oder Behälters; die Ausgabe gilt als Beginn der Leistung. Im Falle des § 11 Abs. 2 Satz 4 AbfS entsteht die Gebührenpflicht mit dem Bereitstellen im Hafenbereich oder an anderen Liegeplätzen im Stadtgebiet Köln.
 (4) Beim Wechsel des/der Grundstückseigentümers/in oder der in § 23 AbfS genannten Personen ist vom Beginn des folgenden Monats an der/die Rechtsnachfolger/in gebührenpflichtig. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
-(5) Für die Entsorgung von Bioabfällen über die Biotonne, Papier/Pappe über die Blaue Tonne gem. § 9 Abs. 1 AbfS, sperrigen Abfällen gem. § 13 AbfS sowie Schadstoffe enthaltenden Abfällen gem. § 15 AbfS werden separate Gebühren nicht erhoben; die Kosten hierfür sind, mit den nach § 2 Absätze 1, 2, 5 und 7 erhobenen Gebühren abgegolten.
+(5) Für die Entsorgung von Bioabfällen über die Biotonne, Papier/Pappe über die Blaue Tonne, Wertstoffen über die Wertstofftonne gem. § 9 Abs. 1 AbfS, sperrigen Abfällen gem. § 13 AbfS sowie Schadstoffe enthaltenden Abfällen gem. § 15 AbfS werden separate Gebühren nicht erhoben; die Kosten hierfür sind, mit den nach § 2 Absätze 1, 2, 2a, 2b, 5, 7 und 12 erhobenen Gebühren abgegolten.
 (6) Die Gebührenpflichtigen nach § 1 Abs. 1 Buchstaben a) und b) erhalten für die unbefristete Inanspruchnahme der Abfallbehälter einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann. Bei Wohnungseigentümern können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden.
-(7) Sind Abfallbehälter für mehrere zusammenhängende oder benachbarte Grundstücke desselben/derselben Gebührenpflichtigen auf einem gemeinschaftlichen Standplatz aufgestellt, oder sind Abfallbehälter auf gemeinsamen schriftlichen Antrag der Anschlusspflichtigen für mehrere benachbarte Grundstücke
-Seite 2 von 10
-
-zur gemeinsamen Benutzung zur Verfügung gestellt, können die Gebühren hierfür anteilig und zusammen veranlagt werden.
+(7) Sind Abfallbehälter für mehrere zusammenhängende oder benachbarte Grundstücke desselben/derselben Gebührenpflichtigen auf einem gemeinschaftlichen Standplatz aufgestellt, oder sind Abfallbehälter auf gemeinsamen schriftlichen Antrag der Anschlusspflichtigen für mehrere benachbarte Grundstücke zur gemeinsamen Benutzung zur Verfügung gestellt, können die Gebühren hierfür anteilig und zusammen veranlagt werden.
 (8) Die Gebührenpflichtigen nach § 1 Abs. 1 Buchstabe c) erhalten für die erbrachten Leistungen einen Gebührenbescheid. Sie erhalten im Falle des § 11 Abs. 3 AbfS über den Erwerb gegen Barzahlung einen Beleg.
 Im Falle des § 11 Abs. 2 Satz 4 AbfS übermittelt die HGK Häfen und Güterverkehr Köln AG den Gebührenbescheid als äußerlich erkennbaren Teil ihrer Hafenrechnung.
+Seite 2 von 9
+
 (9) Grundstücksbezogene Benutzungsgebühren ruhen als öffentliche Last auf dem Grundstück.
 
 §2 Höhe der Gebühren
@@ -45,241 +44,239 @@ Im Falle des § 11 Abs. 2 Satz 4 AbfS übermittelt die HGK Häfen und Güterverk
 
 1. 60 l-Behälter
 
-286,90 €
+286,19 €
 
 2. 80 l-Behälter
 
-336,00 €
+335,06 €
 
 3. 120 l-Behälter
 
-455,55 €
+453,63 €
 
 4. 180 l-Behälter
 
-620,07 €
+616,87 €
 
 5. 240 l-Behälter
 
-797,73 €
+792,80 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 l-Behälters auf Antrag reduziert und beträgt 148,44 €.
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 l-Behälters auf Antrag reduziert und beträgt 148,34 €.
 
 (2) Der Gebührensatz beträgt im Falle des § 12 Abs. 1 Ziffer 2 AbfS (Gruppe II, VollService) für ein Kalenderjahr bei wöchentlich einmaliger Abfuhr für
 
 1. 60 l-Behälter
 
-328,03 €
+327,76 €
 
 2. 70 l-Behälter
 
-387,33 €
+387,28 €
 
 3. 80 l-Behälter
 
-380,86 €
+380,40 €
 
 4. 110 l-Behälter
 
-501,77 €
+500,86 €
 
 5. 120 l-Behälter
 
-507,86 €
+506,50 €
 
 6. 180 l-Behälter
 
-675,04 €
+672,43 €
 
 7. 240 l-Behälter
 
-851,56 €
+847,22 €
 
 8. 500 l-Behälter
 
-1.598,33 €
-
-Seite 3 von 10
+1.590,73 €
 
 9. 660 l-Behälter
 
-1.893,87 €
+1.884,04 €
 
 10. 770 l-Behälter
 
-2.002,98 €
+1.992,32 €
 
 11. 1.100 l-Behälter
 
-2.761,68 €
+2.743,73 €
 
 12. 500 l-Behälter mit Müllschleuse
 
-1.693,94 €
+1.684,92 €
 
 13. 660 l-Behälter mit Müllschleuse
 
-2.123,35 €
+2.110,10 €
 
 14. 770 l-Behälter mit Müllschleuse
 
-2.391,18 €
+2.374,73 €
 
 15. 1.100 l-Behälter mit Müllschleuse
 
-3.258,89 €
+3.233,52 €
 
 16. 500 l-Behälter mit Nachsortierung
 
-1.850,41 €
+1.830,49 €
 
 17. 660 l-Behälter mit Nachsortierung
 
-2.295,46 €
+2.268,34 €
 
 18. 770 l-Behälter mit Nachsortierung
 
-2.458,11 €
+2.572,53 €
 
 19. 1.100 l-Behälter mit Nachsortierung
 
-3.239,77 €
+3.327,72 €
 
 20. 5.000 l-Unterflurbehälter
 
-13.545,25 €
+13.472,92 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 l-Behälters auf Antrag reduziert und beträgt 168,99 €.
+Seite 3 von 9
 
-(2a) Der Gebührensatz für eine Korrektur von Fehlbefüllungen (Nachsortierung) gem. § 12 Abs. 9 AbfS beträgt für ein Kalenderjahr 581,27 € bei einmal wöchentlicher Abfuhr pro Restmüllbehälter der Größe 500 l bis 1.100 l (§ 9 Abs. 1 Nr. 2 AbfS).
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 l-Behälters auf Antrag reduziert und beträgt 169,11 €.
 
-(2b) Der Gebührensatz für einen 5.000 l-Unterflurbehälter zur Aufnahme von Papier gem. § 9 Abs. 1 Ziff. 4 AbfS beträgt für ein Kalenderjahr 1.411,25 € bei 14-täglicher Leerung.
+(2a) Der Gebührensatz für eine Korrektur von Fehlbefüllungen (Nachsortierung) gem. § 12 Abs. 9 AbfS beträgt für ein Kalenderjahr 587,65 € bei einmal wöchentlicher Abfuhr pro Restmüllbehälter der Größe 500 l bis 1.100 l (§ 9 Abs. 1 Nr. 1 und 2 AbfS).
+
+(2b) Der Gebührensatz für einen 5.000 l-Unterflurbehälter zur Aufnahme von Papier gem. § 9 Abs. 1 Ziff. 4 AbfS beträgt für ein Kalenderjahr 1.435,93 € bei 14-täglicher Leerung.
 
 (3) Eigenkompostierer erhalten auf Antrag einen Abschlag, wenn sie nachweisen, ob und in welchem Umfang sie den anfallenden Bioabfall und Grünschnitt ordnungsgemäß und schadlos verwerten. Der Abschlag beträgt im Falle des § 12 Abs. 1 Ziffer 1 AbfS (Gruppe I, Teil-Service) bei wöchentlich einmaliger Abfuhr für
 
 1. 60 l-Behälter
 
-40,01 €
+42,51 €
 
 2. 80 l-Behälter
 
-47,24 €
+50,18 €
 
 3. 120 l-Behälter
 
-68,81 €
+73,11 €
 
 4. 180 l-Behälter
 
-97,87 €
+103,98 €
 
 5. 240 l-Behälter
 
-132,53 €
+140,80 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 20,01 €.
-
-Seite 4 von 10
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 21,26 €.
 
 (4) Eigenkompostierer erhalten auf Antrag einen Abschlag, wenn sie nachweisen, ob und in welchem Umfang sie den anfallenden Bioabfall und Grünschnitt ordnungsgemäß und schadlos verwerten. Der Abschlag beträgt im Falle des § 12 Abs. 1 Ziffer 2 AbfS (Gruppe II, Voll-Service) bei wöchentlich einmaliger Abfuhr für
 
 1. 60 l-Behälter
 
-40,01 €
+42,51 €
 
 2. 70 l-Behälter
 
-44,01 €
+46,75 €
 
 3. 80 l-Behälter
 
-47,24 €
+50,18 €
 
 4. 110 l-Behälter
 
-64,01 €
+68,01 €
 
 5. 120 l-Behälter
 
-68,81 €
+73,11 €
 
 6. 180 l-Behälter
 
-97,87 €
+103,98 €
 
 7. 240 l-Behälter
 
-132,53 €
+140,80 €
 
 8. 500 l-Behälter
 
-240,00 €
+254,98 €
 
 9. 660 l-Behälter
 
-291,57 €
+309,76 €
 
 10. 770 l-Behälter
 
-310,73 €
+330,12 €
 
 11. 1.100 l-Behälter
 
-457,92 €
+486,49 €
 
 12. 500 l-Behälter mit Müllschleuse
 
-263,36 €
+279,80 €
 
 13. 660 l-Behälter mit Müllschleuse
 
-347,64 €
+369,33 €
 
 14. 770 l-Behälter mit Müllschleuse
 
-405,58 €
+430,89 €
 
 15. 1.100 l-Behälter mit Müllschleuse
 
-579,40 €
+615,55 €
 
 16. 500 l-Behälter mit Nachsortierung
 
-301,60 €
+318,16 €
+
+Seite 4 von 9
 
 17. 660 l-Behälter mit Nachsortierung
 
-389,70 €
+411,03 €
 
 18. 770 l-Behälter mit Nachsortierung
 
-421,94 €
+483,01 €
 
 19. 1.100 l-Behälter mit Nachsortierung
 
-574,73 €
+640,37 €
 
 20. 5.000 l-Unterflurbehälter
 
-2.081,43 €
+2.211,30 €
 
-Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 20,01 €.
+Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 21,26 €.
 
 (5) Der Gebührensatz für die Entsorgung von 3.000 l- und 5.000 l-Behältern für Restmüll beträgt für ein Kalenderjahr bei wöchentlich einmaliger Abfuhr für
 
 1. 3.000 l-Behälter
 
-6.424,70 €
+6.430,33 €
 
 2. 5.000 l-Behälter
 
-10.708,75 €
+10.718,13 €
 
-Seite 5 von 10
+(6) Im Falle des § 9 Abs. 1 Ziffer 2 AbfS (verschließbare Abfallbehälter) erhöhen sich die Gebühren nach § 2 Absätze 1 bis 3 um 18,92 € je Behälter und Jahr.
 
-(6) Im Falle des § 9 Abs. 1 Ziffer 2 AbfS (verschließbare Abfallbehälter) erhöhen sich die Gebühren nach § 2 Absätze 1 bis 3 um 18,72 € je Behälter und Jahr.
-
-(7) Soweit in den durch Köln-Gesetz eingegliederten Gebieten Grundstückseigentümer selbst Eigentümer der Umleerbehälter sind, beträgt der Gebührensatz für den 1.100 l-Behälter 2.717,08 €.
+(7) Soweit in den durch Köln-Gesetz eingegliederten Gebieten Grundstückseigentümer selbst Eigentümer der Umleerbehälter sind, beträgt der Gebührensatz für den 1.100 l-Behälter 2.710,73 €.
 
 (8) Wird der Abfall mehr als einmal wöchentlich bzw. mehr als einmal zweiwöchentlich eingesammelt, so erhöhen sich die Gebühren bzw. Gebührenabschläge nach den Absätzen 1 bis 5 und 7 entsprechend.
 
@@ -291,17 +288,37 @@ Seite 5 von 10
 
 (12) Im Falle des § 11 Abs. 2 Satz 4 AbfS beträgt die Gebühr je angefangene 24 Stunden Liegezeit bei
 
-● Fahrgastschiffen bis 800 qm genutzter Wasserfläche über 800qm bis 1300 qm genutzter Wasserfläche über 1.300 qm genutzter Wasserfläche
+Fahrgastschiffen
 
-165,69 €
-331,38 € 378,88 €
+● bis 800 qm genutzter Wasserfläche
 
-● Hotelschiffen bis 800 qm genutzter Wasserfläche über 800 qm bis 1300 qm genutzter Wasserfläche über 1.300 qm genutzter Wasserfläche
+144,24 €
 
-220,92 €
-441,84 € 504,80 €
+● über 800qm bis 1300 qm genutzter Wasserfläche
 
-(13) Im Falle des § 11 Abs. 3 i.V.m. § 12 Abs. 6 AbfS beträgt die Gebühr für den Abfallsack 4,47 €.
+288,47 €
+
+● über 1.300 qm genutzter Wasserfläche
+
+329,82 €
+
+Hotelschiffen
+
+● bis 800 qm genutzter Wasserfläche
+
+192,31 €
+
+Seite 5 von 9
+
+● über 800 qm bis 1300 qm genutzter Wasserfläche
+
+384,63 €
+
+● über 1.300 qm genutzter Wasserfläche
+
+439,44 €
+
+(13) Im Falle des § 11 Abs. 3 i.V.m. § 12 Abs. 6 AbfS beträgt die Gebühr für den Abfallsack 4,50 €.
 
 (14) Für Abfallbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück von der Grundstücksgrenze des/der Anschlusspflichtigen länger als 15 m ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben:
 
@@ -309,31 +326,29 @@ Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 1, 3, 5 – 7:
 
 1. Transportweg über 15 m bis 25 m:
 
-14,68 €
-
-Seite 6 von 10
+14,87 €
 
 2. Transportweg über 25 m bis 40 m:
 
-36,32 €
+36,74 €
 
 3. Transportweg über 40 m:
 
-59,10 €
+59,76 €
 
 Auf die Gebührensätze nach § 2 Abs. 2, Ziffern 8 bis 19 und Abs. 7:
 
-4. Transportweg über 15 m bis 25 m:
+1. Transportweg über 15 m bis 25 m:
 
-61,71 €
+62,39 €
 
-5. Transportweg über 25 m bis 40 m:
+2. Transportweg über 25 m bis 40 m:
 
-164,50 €
+166,31 €
 
-6. Transportweg über 40 m:
+3. Transportweg über 40 m:
 
-267,30 €
+270,21 €
 
 (14a) Für die Bereitstellung von Restmüllbehältern gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS durch die Stadt Köln gemäß § 12 Abs. 7 AbfS werden Zuschläge auf die Gebührensätze wie folgt erhoben:
 
@@ -341,23 +356,23 @@ Auf die Gebührensätze nach § 2 Abs. 1 sowie Abs. 2 Satz 1 Ziffern 1-7, Satz 2
 
 je angefangene 50 m Transportweg
 
-49,64 €
+50,20 €
 
 Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 8-19
 
 je angefangene 50 m Transportweg
 
-225,47 €
+227,93 €
 
 (15) Für Restmüllbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück bis zur Grundstücksgrenze des/der Anschlusspflichtigen bis zu 15 m lang ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben, wenn sich auf dem Weg Hindernisse befinden:
 
 1. Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 1, 3, 5 – 7:
 
-14,68 €
+14,87 €
 
 2. Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 8 bis 19 und Abs. 7:
 
-61,71 €
+62,39 €
 
 Hindernisse im Sinne dieses Absatzes liegen vor, wenn der Transportweg nicht ebenerdig (Straßenniveau) oder nicht mit einem harten, dauerhaften Belag versehen ist (§ 10 Abs. 3 und 4 AbfS).
 
@@ -365,29 +380,29 @@ Hindernisse im Sinne dieses Absatzes liegen vor, wenn der Transportweg nicht ebe
 
 je Abfuhr und Entleerung
 
-305,63 €
+340,27 €
 
 und für die Entsorgung je Tonne Abfall
 
-144,14 €
+146,05 €
 
 In allen übrigen Fällen des § 9 Abs. 3 AbfS erfolgt die Gebührenfestsetzung entsprechend § 2 Absätze 1 und 2 sowie 5 und 7.
 
-(17) Für die zusätzliche Leerung der Papiertonne wird eine Gebühr erhoben je Entleerung für
+Seite 6 von 9
+
+(17) Für die zusätzliche Leerung von Papiertonnen wird eine Gebühr erhoben je Entleerung für
 
 1. 80 l, 120 l und 240 l-Behälter
 
-5,59 €
+5,65 €
 
 2. 500 l, 770 l und 1.100 l-Behälter
 
-14,64 €
-
-Seite 7 von 10
+14,79 €
 
 3. 3.000l und 5.000 l-Behälter
 
-23,21 €
+23,44 €
 
 (18) Bei unterbliebener Abfuhr besteht kein Anspruch auf Gebührenermäßigung. Ist das Einsammeln aus Gründen unterblieben, die dem/der Gebührenpflichtigen zuzurechnen sind und wird das Einsammeln vor dem nächsten Sammeltag nachgeholt, werden zusätzliche Gebühren entsprechend Abs. 11 Satz 1 erhoben.
 
@@ -400,32 +415,22 @@ Seite 7 von 10
 (6) Ist die nach Abs. 1 gezahlte Vorauszahlung höher als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, so wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Rückzahlung ausgeglichen.
 (7) Die Absätze 4 und 5 gelten entsprechend, wenn der Gebührenbescheid nach Zahlung aufgehoben oder geändert wird.
 
-Seite 8 von 10
+Seite 7 von 9
 
 §4 Verwaltungshilfe
-Die Stadt Köln beauftragt die AWB Abfallwirtschaftsbetriebe Köln GmbH & Co. KG (im folgenden „AWB“ genannt) als Verwaltungshelferin mit der Abrechnung der Entgelte sowie zum Inkasso in folgenden Fällen:
-1. Arzttonne, Krankenhausabfälle u.ä. (§§ 16, 9 Abs. 1 Ziffer 2 AbfS, § 2 Abs. 6 AbfGS),
-2. Abfallsäcke (§ 11 Abs. 3 AbfS, § 2 Abs. 13 AbfGS),
-3. 3.000 l und 5.000 l (§ 9 Abs. 1 Ziff. 1 und 2 AbfS, § 2 Abs. 5 AbfGS),
-4. Pressmüllcontainer (§ 9 Abs. 3 AbfS, § 2 Abs. 16 AbfGS),
-5. offene Abfuhr (§ 11 Abs. 2 AbfS, § 2 Abs. 11 AbfGS),
-6. Abrechnung mit der HGK Häfen und Güterverkehr Köln AG, insbesondere in den Fällen des Gebühreneinzuges durch die HGK bei gewerblichen Zwecken dienenden Schiffen im Rheinstrom oder an anderen Liegeplätzen im Stadtgebiet (§ 11 Abs. 2 Satz 4 AbfS, § 1 Abs. 3 Satz 2 und § 2 Abs. 12 AbfGS),
-7. Blockabfuhr; Abrechnung bei kurzzeitig aufgestellten Abfallbehältern für vorübergehenden Bedarf (§ 9 Abs. 4 AbfS, § 1 Abs. 3 Satz 1 und § 2 Abs. 11 AbfGS),
-8. Abrechnung im Einzelfall bei dauerhaft aufgestellten Abfallbehältern bei Erzeugern/Erzeugerinnen und Besitzer/Besitzerinnen von Abfällen zur Beseitigung aus anderen Herkunftsbereichen (§ 6 Abs. 1 S. 2 AbfS),
-9. Abrechnung für falsch befüllte Wertstoffbehälter (§ 11 Abs. 4 Satz 2 AbfS, § 2 Abs. 11 AbfGS),
-10. 5000 l-Unterflurbehälter Restmüll (§ 9 Abs. 1 Ziff. 1 und 4 AbfS, § 2 Abs. 2 Ziff. 20 AbfGS),
-11. 5000 l-Unterflurbehälter Papier (§ 9 Abs. 1 Ziff. 1 und 4 AbfS, § 2 Abs. 2b) AbfGS),
-12. Zusatzleerung der Papiertonne (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 17 AbfGS).
+Die Stadt Köln beauftragt die AWB Abfallwirtschaftsbetriebe Köln GmbH & Co. KG (im folgenden „AWB“ genannt) als Verwaltungshelferin mit der Abrechnung der Entgelte sowie zum Inkasso in folgenden Fällen: 1. Arzttonne, Krankenhausabfälle u.ä. (§§ 16, 9 Abs. 1 Ziffer 2 AbfS, § 2 Abs. 6
+AbfGS), 2. Abfallsäcke (§ 11 Abs. 3 AbfS, § 2 Abs. 13 AbfGS), 3. 3.000 l und 5.000 l (§ 9 Abs. 1 Ziff. 1 und 2 AbfS, § 2 Abs. 5 AbfGS), 4. Pressmüllcontainer (§ 9 Abs. 3 AbfS, § 2 Abs. 16 AbfGS), 5. offene Abfuhr (§ 11 Abs. 2 AbfS, § 2 Abs. 11 AbfGS), 6. Abrechnung mit der HGK Häfen und Güterverkehr Köln AG, insbesondere in den
+Fällen des Gebühreneinzuges durch die HGK bei gewerblichen Zwecken dienenden Schiffen im Rheinstrom oder an anderen Liegeplätzen im Stadtgebiet (§ 11 Abs. 2 Satz 4 AbfS, § 1 Abs. 3 Satz 2 und § 2 Abs. 12 AbfGS), 7. Blockabfuhr; Abrechnung bei kurzzeitig aufgestellten Abfallbehältern für vorübergehenden Bedarf (§ 9 Abs. 4 AbfS, § 1 Abs. 3 Satz 1 und § 2 Abs. 11 AbfGS), 8. Abrechnung im Einzelfall bei dauerhaft aufgestellten Abfallbehältern bei Erzeugern/Erzeugerinnen und Besitzer/Besitzerinnen von Abfällen zur Beseitigung aus anderen Herkunftsbereichen (§ 6 Abs. 1 S. 2 AbfS), 9. Abrechnung für falsch befüllte Wertstoffbehälter (§ 11 Abs. 4 Satz 2 AbfS, § 2 Abs. 11 AbfGS), 10. 5000 l-Unterflurbehälter Restmüll (§ 9 Abs. 1 Ziff. 1 und 4 AbfS, § 2 Abs. 2 Ziff. 20 AbfGS), 11. 5000 l-Unterflurbehälter Papier (§ 9 Abs. 1 Ziff. 1 und 4 AbfS, § 2 Abs. 2b) AbfGS), 12. Zusatzleerung der Papiertonne (§ 9 Abs. 1 Ziff. 4 AbfS, § 2 Abs. 17 AbfGS).
 §5 Ordnungswidrigkeiten
 Die nach § 1 Abs. 1 Buchstaben a) bis d) Gebührenpflichtigen sind verpflichtet, der AWB über alle für die richtige Veranlagung maßgebenden Tatsachen unverzüglich die erforderlichen Angaben zu machen. Wer gegen diese Pflicht vorsätzlich oder fahrlässig verstößt, handelt ordnungswidrig.
-Seite 9 von 10
-
 II. In-Kraft-Treten
-Die Satzung tritt am 01. Januar 2013 in Kraft.
-Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+Die Satzung tritt am 01. Januar 2014 in Kraft. Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+Seite 8 von 9
 
-Köln, den 21.12.2011 - ABl. Stadt Köln 2011, S. 1139, 2012, S. 1052 -
+Köln, den 21.12.2011
 
 Der Oberbürgermeister gez. Roters
 
-Seite 10 von 10
+- ABl. Stadt Köln 2011, S. 1139, 2012, S. 1052, 2013, S. 801 -
+
+Seite 9 von 9
