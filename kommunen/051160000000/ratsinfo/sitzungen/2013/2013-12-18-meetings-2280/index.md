@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2013-12-18T15:00:00+01:00
+- Ende: 2013-12-18T21:35:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2280
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2280
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Kommunale Beratungskommission für interkulturelle Fragen - Einstimmiger Beschluss
+- TOP 3: Bericht zur Umsetzung des HSP zum 30.09.2013 - Kenntnisnahme
+- TOP 4: Mitgliederversammlung des Städtetages - Mit Stimmenmehrheit beschlossen
+- TOP 5: Änderung des Terminplans für die Feststellung des geprüften Jahresabschlusses 2011, die Feststellung - Einstimmiger Beschluss
+- TOP 6: Beteiligung der NEW AG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2013 - Kenntnisnahme
+- TOP 8: Neunzehnter Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Getrennte Abstimmung (s. Niederschrift)
+- TOP 9: Sechzehnter Nachtrag Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 10: Neunzehnter Nachtrag zur Kanalbenutzungsgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 11: Siebenunddreißigster Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 12: Aufhebungssatzung Fristensatzung und 45. NT Entwässerungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 13: Ordnungsbehördliche Verordnungen verkaufsoffene Sonntage - Mit Stimmenmehrheit beschlossen
+- TOP 14: Erfahrungsbericht über die Sperrzeitverordnung für Schank- und Speisewirtschaften - Kenntnisnahme
+- TOP 15: Auslaufende Auflösung der GHS Frankfurter Straße - Einstimmiger Beschluss
+- TOP 16: Ausweitung des HOME Projektes - Einstimmiger Beschluss
+- TOP 17: Soziale Stadt Rheydt - Einstimmiger Beschluss
+- TOP 18: Schiedsamtswahl Bezirk Süd - Einstimmiger Beschluss
+- TOP 19: Anpassung der Leistungsvereinbarung Schuldnerberatung - Einstimmiger Beschluss
+- TOP 20: Verlängerung des Vertrages über die Wahrnehmung von Betreuungen mit dem Betreuungsverein des SKM - Einstimmiger Beschluss
+- TOP 21: Abschluss von Vereinbarungen im Bereich flexibler Hilfen - Einstimmiger Beschluss
+- TOP 22: Verlängerung der Leistungsvereinbarung über mobile Jugendarbeit in Odenkirchen und Wickrath - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung Reha - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung AIDS - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 26: Betriebssatzung, Hauptsatzung und Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 27: Reorganisation der Straßenbeleuchtung - Mit Stimmenmehrheit beschlossen
+- TOP 28: Bebauungsplan Nr. 756/S - Stadtbezirk Süd, Königstraße, Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 28.1: Bebauungsplan Nr. 756/S - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Satzung Verlängerung Veränderungssperre Humboldtstraße - Einstimmiger Beschluss
+- TOP 30: Masterplan für Mönchengladbach; Hier: Masterplanbeirat - Mit Stimmenmehrheit beschlossen
+- TOP 31: Straßenumbenennung im Nordpark - Einstimmiger Beschluss
+- TOP 32: Straßenbenennung im Monforts Quartier - Einstimmiger Beschluss
+- TOP 33: Bauvorbescheid Breitenbachstraße - Von Verwaltung zurückgezogen
+- TOP 34: Bericht der Verwaltung zum FDP-Antrag Verwaltungsgebäude Oberstadt - Kenntnisnahme
+- TOP 35: Änderung FNP Wanlo - Mit Stimmenmehrheit beschlossen
+- TOP 36: Kündigung des Vertrages mit der GEM - Einstimmiger Beschluss
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Anfrage von RH Baus (FDP) zum Planungs- und Bauordnungsamt
+- TOP 37.2: Anfrage von RH Püllen (FWG) zu Schildern im Bauordnungsamt
+- TOP 37.3: Anfrage von RH Besten (CDU) zu einer Anfrage im Planungs- und Bauausschuss
