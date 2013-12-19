@@ -1,0 +1,57 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2013-12-19T17:00:00+01:00
+- Ende: 2013-12-19T19:50:00+01:00
+- Ort: Gaststätte Am Museumshof, Lemförder Straße 43, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWl9kAbrAlbNv2LL96LaaWg
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1310
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVp2eJHbgsoPEHErm6OCyi8xGYnkgNtxAhc4uL5wFik6/Bekanntmachung_Rat_19.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSm86DavYpI_kNmcX9Vjf0gGQoOZd4CFd7Exd7f7eTpi/Oeffentliche_Niederschrift_Rat_19.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: 8. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig, 0 Enthaltungen
+- TOP 5.: Satzung über die Erhebung von Kosten und Gebühren für Einsätze und Leistungen der Freiwilligen Feuerwehr der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 6.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheimes Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 7.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 8.: Antrag des Mühlenvereins im Kreis Minden-Lübbecke e.V. auf Gewährung eines Zuschusses zu den Sanierungskosten für die Windmühle in Tonnenheide - Abgesetzt
+- TOP 9.: Beschaffung eines Gerätewagens Logistik für den Löschzug Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Durchführung von Sanierungsmaßnahmen im Feuerwehrgerätehaus Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 11.: Genehmigung einer überplanmäßigen Ausgabe für die Beteiligung am SGB II-Aufwand unter Einbeziehung des vorläufigen Härteausgleichs - 35 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 12.: Entwurf der Haushaltssatzung 2014 mit Haushaltsplan - Ohne Abstimmung
+- TOP 13.: Ausweisung von Konzentrationszonen für die Windenergienutzung im Stadtgebiet Rahden; Aufstellungsbeschluss zur 72. Änderung des Flächennutzungsplanes der Stadt Rahden zur Darstellung von Konzentrationszonen für die Windenergienutzung - 27 Stimmen dafür, 5 dagegen, 4 Enthaltungen
+- TOP 14.: Aktives Stadtzentrum Rahden - Innenstadt, weitere Beschlussfassung für die Bereiche Glindower Platz - Katzengasse - Alter Markt - 31 Stimmen dafür, 4 dagegen, 1 Enthaltungen
+- TOP 15.: Aufstellung des Bebauungsplanes Nr. 84 „Gewerbegebiet Harting“ und 75. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) zur Ausweisung einer gewerblichen Baufläche für die Betriebserweiterung der Fa. Harting in der Ortschaft Kleinendorf - Einstimmig, 0 Enthaltungen
+- TOP 16.: 14. vereinfachte Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" - 23 Stimmen dafür, 11 dagegen, 0 Enthaltungen
+- TOP 17.: Umsetzung der europäischen Wasserrahmenrichtlinie (WRRL) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2014 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2014 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2014 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bildung von Eingangsklassen im Schuljahr 2014/15 und Verteilung auf die Grundschulen der Stadt Rahden - 35 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 22.: Auflösung des Förderschulverbandes Espelkamp - Einstimmig, 0 Enthaltungen
+- TOP 23.: Auflösung des Förderschulverbandes Espelkamp - Einstimmig, 0 Enthaltungen
+- TOP 24.: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen dem Förderschulverband Lübbecke und der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 25.: Kommunale Vergabegrundsätze - Ergänzung der Vergabeordnung der Stadt Rahden vom 02. April 2009 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden - Abgesetzt
+- TOP 27.: Bekanntgaben
+- TOP 27.1: Hähnchenmastall Tonnenheide
+- TOP 27.2: Kirsch- und Ziegelfest 2014 in Glindow
+- TOP 27.3: Sekundarschule Rahden
+- TOP 28.: Verschiedenes
+- TOP 28.1: Ärzteversorgung in Rahden
+- TOP 28.2: Einkaufskraft in Rahden
+- TOP 28.3: Lesung des Zimmertheaters "Am Eck"
+- TOP 28.4: Bauvorhaben "Weidenweg"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 29.: Grundstücksangelegenheiten
+- TOP 29.1: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden-Ost - Einstimmig, 0 Enthaltungen
+- TOP 30.: Bekanntgaben
+- TOP 31.: Verschiedenes
