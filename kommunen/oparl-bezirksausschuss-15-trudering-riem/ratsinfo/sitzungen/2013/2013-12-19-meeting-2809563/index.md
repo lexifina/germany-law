@@ -1,0 +1,122 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2013-12-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2809563
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2809563
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1: (E) Durchgängiger Radweg auf dem Mitterfeld (Ziffer 4 des Antrags) Empfehlung Nr. 08-14 / E 01954 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 10.10.2013
+- TOP 1.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung einer Teilstrecke der Maria-Montessori-Straße der Gesamtstrecke der Ruth-Beutler-Straße der Gesamtstrecke der Magdalena-Schwarz-Straße der Gesamtstrecke der Elisabeth-Mann-Borgese-Straße einer Teilstrecke und -fläche der Heinrich-Böll-Straße der Gesamtstrecke der Mutter-Teresa-Straße der Gesamtstrecke der Ingeborg-Bachmann-Straße der Gesamtstrecke der Michael-Ende-Straße von Teilstrecken der Willy-Brandt-Allee (Parallelstraße) - <div>nach Antrag</div>
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk Wagnis e.V. Kinder-Theateraufführung ?Der König hat ein Horn? am 06.01.2014 - <div>nach Antrag</div>
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Trudering Großes Truderinger Neujahrskonzert am 19.01.2014 - <div>nach Antrag</div>
+- TOP 1.5.: Entscheidung über Sondernutzungserlaubnisse - Freischankflächen - gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschlussvorlage des Kreisverwaltungsreferats 1.5.1 Konrad-Zuse-Platz; 2 Freischankflächen für ein Hotel 1.5.2 Olof-Palme-Straße; Freischankfläche für ein Hotel - <div>nach Antrag</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Bauplanung Messestadt Riem - <div>Verweisung an Fachreferat</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Störungen durch starke Beleuchtung an der Kreillerstraße; - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Angemessene Lösung der Raumsituation am Schulstandort Feldbergschule - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Erweiterung der Grundschule an der Astrid-Lindgren-Straße - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Sicherheit für Kinder an den Gleisen an der Bürgermeister-Keller-Straße - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Langfristiges tragfähiges Konzept für den Park und -Such-Verkehr während der Großmessen, Fachmessen und großen Besuchermessen - <div>Ortstermin geplant, Verweis in den Unterausschuss</div>
+- TOP 3.6.: Planungssicherheit an der Truderinger Straße, vertagt TOP 3.7/11/2013 - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Laubsammelverfahren in der Herbstsaison ausweiten - <div>zur Kenntnis genommen</div>
+- TOP 3.8.: Glasfaserausbau in Trudering
+- TOP 3.9.: Bahnhof Trudering- Abschluss der Sanierung der P+R Anlage Trudering Nord Frauenparkplätze am P&R- Parkplatz Trudering - <div>zur Kenntnis genommen</div>
+- TOP 3.10.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion - <div>zur Kenntnis genommen</div>
+- TOP 3.11.: Anfrage zur Nachverdichtung in Trudering und Riem - <div>zur Kenntnis genommen</div>
+- TOP 3.12.: Erstellung eines Sportentwicklungsplans für den BA 15 - <div>weiteres Schreiben an das RBS-Zwischenbericht wird gefordert</div>
+- TOP 3.13.: Herstellung von Verkehrsflächen Bebauungsplan mir Grünordnung Nr. 2007 Leibengerstraße - <div>zur Kenntnis genommen</div>
+- TOP 3.14.: Almhütte in Riem
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Weitere Stunden für die Schulsozialarbeit an der Astrid-Lindgren-Schule - <div>nach Antrag und Weiterleitung an das Sozialreferat</div>
+- TOP 4.2.: Finanzierung von Straßenzusatzschildern aus dem Budget des BA 15 - <div>vertagt in UA Allgemeines</div>
+- TOP 4.3.: Aktives Zentrum Trudering- Planungsgrundlagen zügig schaffen - <div>Antrag wurde zurück gezogen</div>
+- TOP 4.4.: e- Carsharing in der Messestadt fördern - <div>nach Antrag und Weiterleitung an das KVR</div>
+- TOP 4.5.: Einrichtung von Kurzparkplätzen am Truderinger Bahnhof/Südseite - <div>nach Antrag und Weiterleitung an das KVR</div>
+- TOP 4.6.: Einrichtung einer Stadtteilbibliothek im Kopfbau der Zuschauertribühne (Antrag der CSU-Fraktion im BA 15) oder alternativ Schaffung von Künstlerateliers im Kopfbau (Antrag der Freien Wähler im BA 15) - <div>nur Zustimmung zum Alternativantrag</div>
+- TOP 4.7.: Verstöße gegen die Baunutzungsverordnung ahnden - <div>nach Antrag und Weiterleitung an das Referat für Stadtplanung und Bauordnung</div>
+- TOP 4.8.: Ein Schulcampus für die Messestadt West - <div>nach Antrag und Weiterleitung an das RBS</div>
+- TOP 4.9.: Verbesserung bei der Hundebeutel- Entsorgung in städtischen Grünanlagen - <div>nach Antrag und Weiterleitung an das Baureferat</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Verkauf einer städtischen Immobilie, Flst. 184/11 (Tlfl. ca. 850m²), Stolzhofstraße o.Hs.Nr. - <div>Zustimmung</div>
+- TOP 5.2.: Verkauf einer städtischen Immobilie, Flst. 184/11 (Tlfl. ca. 900m²), Stolzhofstraße o.Hs.Nr. - <div>Zustimmung</div>
+- TOP 5.3.: Lauf im Riemer Park am 06.09.2014 - <div>Rückstellung, bis BVE Nr.08-14/ E 01971 beantwortet ist</div>
+- TOP 5.4.: Musikveranstaltung auf der Sonderfreifläche Riem am 02./03.082014 - <div>Zustimmung unter Auflagen</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Planung der Einsätze der Münchner SommerSpielAktion 2014 - <div>Weiterleitung der Vorschläge</div>
+- TOP 7.2.: Abgleich der Kindertagesstätten durch EDV (s. auch Stadtratsantrag Nr. 08-14 / A 01183), vertagt aus TOP 3.12/10/2013 - <div>Schreiben an das RBS</div>
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Öffentlicher Bücherschrank für Trudering - <div>nach Antrag</div>
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Bauleitplanung der Gemeinde Haar Verfahren nach §§ 13a, 4 Abs. 1 BauGB, Bebauungsplan Nr. 159, 2. Änderung für einen Teilbereich nördlich der Münchner Straße - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Brachsenstraße 4 Parzelle A - <div>zur Kenntnis genommen</div>
+- TOP 7.3.: Brachsenstraße 4, Parzelle B - <div>zur Kenntnis genommen</div>
+- TOP 7.4.: Brachsenstraße 4, Parzelle C - <div>zur Kenntnis genommen</div>
+- TOP 7.5.: Brachsenstraße 4, Parzelle D - <div>zur Kenntnis genommen</div>
+- TOP 7.6.: Usambarastraße 5 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.: Wiesbachhornstraße 27-29 - <div>Reduzierung der versiegelten Flächen, Kenntnisnahme</div>
+- TOP 7.8.: Florastraße 45 - <div>Orientierung an HsNr.49/49a, Kenntnisnahme</div>
+- TOP 7.9.: Von-Erckert-Platz 17 - <div>Reduzierung auf 2 Vollgeschosse,Kenntnisnahme</div>
+- TOP 7.10.: Mönchbergstraße 32 - <div>zur Kenntnis genommen</div>
+- TOP 7.11.: Wasserburger Landstraße 17a - <div>Einhaltung der Baulinie, Kenntnisnahme</div>
+- TOP 7.12.: Birkhahnweg 47 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Vorfahrtsänderung und Haltverbote in der Landshamer Straße - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Vorstellung eines möglichen Konzepts zur Straßenreinigung in der Messestadt - <div>zur Kenntnis genommen</div>
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: 7.5.1 Zuwendungen aus dem Budget der Bezirksausschüsse Verwendungsnachweise- 7.5.1.1 Kath. Kirchenstiftung Christi Himmelfahrt inkl. Schreiben des Direktoriums vom 21.11.2013 7.5.1.2 Sonderpädagogisches Förderzentrum München- Ost 7.5.1.3 Elternbeirat der Grundschule in der Forellenstraße 7.5.1.4 Feunde der Abteilung Waldtrudering FFW München e.V. 7.5.1.5 Bürgerzentrum Trudering e.V. 7.5.1.6 TSV Trudeirng e.V. 7.5.1.7 Förderverein Markgrafenschule e.V. 7.5.1.8 SOS Kinderdorf 7.5.1.9 Spatzennetz e.V. 7.5.1.10 Freunde der freiwilligen Feuerwehr Riem v. 1874 e.V. 7.5.1.11 TSV Trudering e.V. - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Lichtzeichenanlagen- Bauprogramm, Sitzungsvorlage Nr. 08-14/ V 13447; Beschluss des Kreisverwaltungsreferates vom 26.11.2013 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Truderinger Str.263 Plan 8.3 Wachtelweg 24 Plan 8.4 Martin-Kollar-Str.8 Plan 8.5 Waterbergstr.8 Plan 8.6 Usambarastr.5 Plan 8.7 Heldackerweg 3 8.8 Friedenspromenade 45 8.9 Waldtruderingerstr.28 8.10 Kothieringerstr.16 8.11 Heilwigstr.21 8.12 Salzmesserstr.8-10 / Birthälmerstr.76 8.13 Turnerstr.72 8.14 Hererostr.20 8.15 Kamerunerstr.1 8.16 Sperberstr.57 8.17 Sperberstr.59 8.18 Josef-Brückl-Str.10 8.19 Florastr.35 8.20 Matterhornstr.72 8.21 Heilwigstr.33 8.22 Batschkastr.19 8.23 Schneebergstr.29 8.24 Spertentalstr.2 8.25 Birkhahnweg 47 Plan 8.26 Zeisigweg 26 8.27 Fauststr.68 8.28 Bajuwarenstr.131 - <div>Zustimmung, wie vom UA vorgetragen</div>
+- TOP 9: Verschiedenes
+- TOP 9.1.: 18.Jetzt- Rückblick auf das Fest für junge Münchnerinnen und Münchner am 12.10.2013 im Rathaus - <div>zur Kenntnis genommen</div>
+- TOP 9.2.: Finanzierung von Einwohnerversammlungen; Schreiben der BA's vom 27.09.2013- Antwort der 2. Bürgermeisterin vom 25.11.2013 - <div>zur Kenntnis genommen</div>
+- TOP 9.3.: Abrechnung der Aufwandsentschädigungen nach § 18 BA- Satzung; hier: steuerliche Behandlung des Abrechnungsjahres 2013 und Abrechnung der Aufwandsentschädigungen im Jahr 2014 - <div>zur Kenntnis genommen</div>
+- TOP 9.4.: Verkehrsberuhigter Bereich Martin-Empl-Ring in München-Riem - <div>zur Kenntnis genommen</div>
+- TOP 9.5.: Messestadt Riem EM 483- Mehrgenerationenparcours im Riemer Park Öffentlichkeitsbeteiligung - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Mitteilung über ein Grund?tückgeschäft, Flst. 1475 Trudering, Joseph- Wild- Straße
+- TOP 10.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.2.1 Mönchbergstraße 32 10.2.2 Sulzer-Belchen-Weg 33 10.2.3 Sulzer-Belchen-Weg 35 10.2.4 Kilihofstraße 25 10.2.5 Schwarzenkopfstraße 24 10.2.6 Wasserburger Landstraße 16a
+- TOP 10.3.: Bauarbeiten Paul- Henri- Spaak- Straße/ De- Casperie- Bogen vom 18.11.2013 bis 26.11.2013, Mitteilung des Baureferates vom 18.11.2013
+- TOP 10.4.: Dienststellenverständigung: Anschriften- Änderung: Städtische Kindertageseinrichtung Forellenstraße 5, neu: Marianne- Plehn- Straße 71
+- TOP 10.5.: Arbeiten im Straßenraum Riemer Straße zwischen Turfstraße und Burgauer Straße (Straßenbauarbeiten) vom 02.12.2013 bis 20.12.2013
+- TOP 10.6.: Brandschutz im Münchner Osten- was ist zu tun? Schriftliche Anfrage von Herrn Stadtrat Hans Podiuk
+- TOP 10.7.: Mitteilungen über die unveränderte Fortführung eines Gaststättenbetriebes 10.7.1 Halfinger Straße 10.7.2 Graf-Lehndorff-Straße 36
+- TOP 10.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.9.: Ausführungsgenehmigung für Baumaßnahmen bis 500.000 ?, P+R Anlage Messestadt Ost Sanierung Entwässerungsanlagen "Messerampe"
+- TOP 10.10.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen Verbesserung der Betreuungssituation in den Ferien für bedürftige bzw. einkommensbenachteiligte Familien, Information für die Vorsitzenden der Bezirksausschüsse 1-25 der Landeshauptstadt München, Schreiben der Sozialreferentin vom 16.10.2013
+- TOP 10.11.: Einkommensgrenzen für Senioren beim München- Modell Empfehlung Nr. 08-14/ E 01924 der Bürgerversammlung des Stadtbezirkes 20- Hadern am 25.09.2013, Sitzungsvorlagen Nr. 08-14/ V 13475; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 (SB)
+- TOP 10.12.: Filmaufnahmen auf öffentlichem Verkehrsgrund- Schatzbogen am 27.11.2013von 07.00 Uhr bis 12.00 Uhr
+- TOP 10.13.: Feldbergstraße/ Zehntfeldstraße/Hugo-Lang-Bogen Kreuzungsumbau; LZA-Austausch im 15. Stdatbezirk Trudering-Riem Projektkosten (Kostenobergrenze): 950.000 ? Projektgenehmigung, Sitzungsvorlage Nr. 08-14/ V 13171; Beschluss des Bauausschusses vom 19.11.2013 (SB)
+- TOP 10.14.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen Antrag Nr. 08-14/ A 03029 der Stadtratsfraktionen der SPD und DIE GRÜNEN/RL vom 12.01.2012 Günstige MVV- Nutzung mit Ferienpässen in ALLEN Ferien Antrag Nr. 08-14/ A 03969 der Stadtratsfraktion DIE GRÜNEN/RL vom 16.01.2013 Produkt 60.3.1.1, Kinder- und Jugendarbeit, Sitzungsvorlage Nr. 08-14/ V 12336; Beschluss der Vollversammlung des Stadtrates vom 24.07.2013
+- TOP 10.15.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 StVO- Filmaufnahmen auf öffentlichem Verkehrsgrund Mittbacher Straße 6-8 am 09.12.2013 vom 7.00 bis 19.00 Uhr
+- TOP 10.16.: Bebauungsplan mit Grünordnung Nr. 2007 Leibengerstraße (östlich), Mittelbacher Straße (nördlich), Bahnlinie München-Ost- Simbach/Inn (südlich), Erdinger Straße (westlich) im Stadtbezirk 15 Trudering- Riem, Herstellung der öffentlichen Verkehrsflächen hier: Erschließungsstraße U- 1675 und Platz U-1676 (1. Bauabschnitt) Projektkosten (Kostenobergrenze): 850.000 ?, 1. Projektgenehmigung für die Maßnahmen 2.1 und 2.2 (1. Bauabschnitt) mit Projektkosten in Höhe von 850.000 ? 2. Genehmigung zur Durchführung vorgezogener Maßnahmen n Höhe von 230.000 ?, Sitzungsvorlage Nr. 08-14/ V 13408; Beschluss des Bauausschusses vom 10.12.2013
+- TOP 10.17.: Mehrjahresinvestitionsprogramm 2013-2017; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf Sitzungsvorlage Nr. 08-14/ V 13335; 3 Anlagen, Beschluss des Kommunalausschusses vom 21.11.2013 (VB)
+- TOP 10.18.: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2013-2017 und Stellungnahme der Bezirksausschüsse, Sitzungsvorlage Nr. 08-14/ V 13397; Beschluss des Kulturreferates vom 21.11.2013 (VB)
+- TOP 10.19.: Umfahrung Kirchtrudering- Vertiefende Untersuchungen inkl. Hinweis/Ergänzungen, Sitzungsvorlagen Nr. 08-14/ V 13255; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.20123 (SB)
+- TOP 10.20.: Messestadt Riem Bebauungsplan mit Grünordnung Nr. 2065 Willy- Brandt- Allee (südlich), Astrid- Lindgren- Straße (westlich), Michael- Ende- Straße (beidseits), Elisabeth- Mann- Borgese- Straße (nördlich), Heinrich- Böll- Straße (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728 h und Nr. 1728 I und des Bebauungsplanes Nr. 1952) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss- Stadtbezirk 15- Trudering- Riem, Sitzungsvorlage Nr. 08-14/ V 12391; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.11.2013 (SB)
+- TOP 10.21.: Städtebauliche Entwickungsmaßnahme gemäß §§ 165ff. BauGB für den Bereich Nordosten; - Zwischenbericht und weiteres Vorgehen- Erweiterung des Umgriffs um den Bereich zwischen der Bahnlinie München- Mühldorf (südlich) und der Riemer Straße (nördlich) - Vergabe von Gutachten und weiteren externen Leistungen Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering- Riem, Sitzungsvorlagen Nr. 08-14/ V 13044- § 2 Nr. 9b und Nr. 14 GeschO- Beschluss der Vollversammlung des Stadtrates vom 27.11.2013
+- TOP 10.22.: Parklizenzen für Besucher in München Antrag Nr. 08-14/ A 02839 der Stadtratsfraktion der FDP vom 24.10.2011, Sitzungsvorlagen Nr. 08-14/ V 13392; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 (SB)
+- TOP 10.23.: Wohnungsmarkt München- Expertenbefragung 2013, Sitzungsvorlagen Nr. 08-14/ V 13572; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 10.24.: Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete" Antrag Nr. 08-14/ A 03196 der Stadtratsfraktion DIE GRÜNEN/RL vom 2.03.2013, Sitzungsvorlagen Nr. 08-14/ V 13147; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 04.12.2013 (VB)
+- TOP 10.25.: Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 08-14/ A 04569 der Stadtratsfraktion DIE GRPNEN/ Rosa Liste vom 13.08.2013, Sitzungsvorlagen Nr. 08-14/ V 13318; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 10.26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.27.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen Antrag Nr. 08-14/ A 04305 der Stadtratsfrajtion DIE GRÜNEN/RL vom 07.06.2013, Sitzungsvorlage Nr. 08-14/ V 13354; Beschluss des Bauaausschusses vom 10.12.2013
+- TOP 10.28.: Konzeptausschreibungen für Baugenossenschaften, Messestadt Riem 4. Bauabschnitt Wohnen Bauquartiere WA 2 und WA 11; Ergänzung zum Ausschreibungsbeschluss vom 19.06.2013, Sitzungsvorlagen Nr. 08-14/ V 13376; Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP 10.29.: CarSharing in München Durchführung von Pilotprojekten Zwischenbericht zur Projkethalbzeit Anpassung der Rahmenbedingungen, Sitzungsvorlage Nr. 08-14/ V 13441; Beschluss des Kreisverwaltungsreferates vom 26.11.2013
+- TOP 5.6.: Verkauf einer städtischen Immobilie, Flst.: 184/11 (Tlfl.), Stolzhofstraße o.Hs.Nr. - <div>Zustimmung</div>
