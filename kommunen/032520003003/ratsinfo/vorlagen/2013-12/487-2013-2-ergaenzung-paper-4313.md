@@ -1,0 +1,21 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2014 der Stadt Bad Pyrmont nach dem NKR und Beschluss der Haushaltssatzung 2014
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 487/2013 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2013-12-19
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTqK6eAfOb7xvJdEHwL5Tfc
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/4313
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2014 der Stadt Bad Pyrmont nach dem NKR und Beschluss der Haushaltssatzung 2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWtuUbY3EQXLj4wiRsExY6u2G1WsGzkk2cNe8ZJg93CS/Beschlussvorlage_487-2013_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQNE4EyWEyRpk63IOPpBD7YBNuaAScJ6JppLhvjFEQwI/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ6YP4mvO3S38xC-4A_Bxs-UnJ_rvBM6cXtie94BPkSA/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbG2AN98hQVpkmsJ0Yp9AxGMt1rpASJYyFNa2t7Pi2GW/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQXNihxNUTWt32MWeOY1rgmbgnDfll7eKS8RrIyp-6eX/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLtkin9ay1sB_QP7FnqXw6h3p3BHXpZBBJsMHUy0PbF/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBfRGlw3MJ4JlU8qSmKaT0mhkL--C687RRIlP7DbbnN/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVhEx8AQaU-P1Nl2Z0W0AZqkoftaNMb_CUPoaGowlsMt/Anlage_zur_Beschlussvorlage_487-2013_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 487/2013 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdUTTBX8gUB6ejA6qWweQ6FiBvj4NDskV6hGRa956KlH/Anlage_zur_Beschlussvorlage_487-2013_2._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15241 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15312 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
