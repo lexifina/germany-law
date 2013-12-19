@@ -1,0 +1,60 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2013-12-19T18:32:00+01:00
+- Ende: 2013-12-19T19:42:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVMvTYFqQh0uHnR4Pd6gzZk
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2336
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdyfdDvRw6gj0CduDsJmd27rPsbedqrPDltOg2f1nj3I/Bekanntmachung_Rat_19.12.2013.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnUn-dpKfxYWILjWA1cmippwfwIyNjsMq7A3v33EHiD/Oeffentliche_Niederschrift_Rat_19.12.2013.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter aus den Verbänden und sonstigen Gremien
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der CDU-Fraktion vom 21.11.2013 hier: Erstellung eines "freiwilligen" Haushaltssicherungskonzeptes
+- TOP 5.2: Antrag der Fraktion Bündnis 90/Die Grünen vom 04.12.2013 hier: Ausschussumbesetzungen
+- TOP 6.: Fortschreibung des Frauenförderplans 2013 - 2015 - - 33 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 7.: Neufassung der Hauptsatzung der Gemeinde Leopoldshöhe - - 30 Ja-Stimme(n), 1 Nein-Stimme(n), 3 Enthaltung(en) -
+- TOP 8.: Abfallentsorgung hier: Umstieg auf ein differenziertes Volumensystem
+- TOP 8.1: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2014 - Mehrheitlich dafür
+- TOP 8.2: Neufassung der Satzung über die Abfallentsorgung - Abfallentsorgungssatzung - in der Gemeinde Leopoldshöhe - - 18 Ja-Stimme(n), 15 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 8.3: Neufassung der Gebührensatzung zur Abfallentsorgungssatzung der Gemeinde Leopoldshöhe - Mehrheitlich dafür
+- TOP 9.: Friedhofsangelegenheiten hier: Änderung der Gebührensatzung zur Satzung über das Friedhofs- und Bestattungswesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 10.: 1. Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren der Gemeinde Leopoldshöhe vom 18. Juli 2013 - - 24 Ja-Stimme(n), 3 Nein-Stimme(n), 7 Enthaltung(en) -
+- TOP 11.: Personalsituation Freiwillige Feuerwehr - - 28 Ja-Stimme(n), 2 Nein-Stimme(n), 4 Enthaltung(en) -
+- TOP 12.: Haushaltsplanentwurf 2014
+- TOP 12.1: Beratung etwaiger gegen den Haushaltsplanentwurf 2014 erhobener Einwendungen seitens der Einwohner/innen und Abgabepflichtigen im Sinne des § 80 Abs. 3 GO NW (neue Fassung)
+- TOP 12.2: Beschlussfassung über die Haushaltssatzung 2014 nebst Anlagen
+- TOP 13.: Beschlussfassung über den Stellenplan 2014
+- TOP 14.: Beschlussfassung über die Wirtschaftspläne für das Wirtschaftsjahr 2014
+- TOP 14.1: Wirtschaftsplan 2014 des Kommunalen Gebäudemanagements Leopoldshöhe
+- TOP 14.2: Wirtschaftsplan 2014 der Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP 14.3: Wirtschaftsplan 2014 des Abwasserwerkes Leopoldshöhe
+- TOP 14.4: Wirtschaftsplan 2014 des Wasserwerkes Leopoldshöhe
+- TOP 15.: Jahresabschlüsse 2012
+- TOP 15.1: Jahresabschluss 2012 des Kernhaushalts
+- TOP -: Beratung und Beschlussempfehlung über den Jahresabschluss 2012 gem. § 96 GO NRW i.V.m. § 37 GemHVO NRW
+- TOP 15.2: Jahresabschluss 2012 des Kommunalen Gebäudemanagements Leopoldshöhe
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss 2012 des KGL - - einstimmig -
+- TOP 15.3: Jahresabschluss 2012 der Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss 2012 der LIL
+- TOP -: Jahresabschluss der Leopoldshöher Immobilien- und Liegenschaftsverwaltung für das Wirtschaftsjahr 2012 - - einstimmig -
+- TOP 15.4: Jahresabschluss 2012 des Abwasserwerkes Leopoldshöhe
+- TOP -: Jahresabschluss des Abwasserwerkes Leopoldshöhe für das Wirtschaftsjahr 2012 - - einstimmig -
+- TOP 15.5: Jahresabschluss 2012 des Wasserwerkes Leopoldshöhe
+- TOP -: Jahresabschluss des Wasserwerkes Leopoldshöhe für das Wirtschaftsjahr 2012 - - einstimmig -
+- TOP 16.: Aufstellung des Vorhabenbezogenen Bebauungsplanes Nr. 08/001 „Saatgutbearbeitungs-halle Gut Hovedissen“ für einen Teilbereich der landwirtschaftlichen Nutzflächen südlich der Schackenburger Straße (L 968) östlich des Gutes Hovedissen im Ortsteil Schuckenbaum -Wechsel des Vorhabenträgers -Beschluss über den Durchführungsvertrag zum vorhabenbezogenenBebauungsplanes Nr. 08/001 „Saatgutbearbeitungshalle Gut Hovedissen“ - - einstimmig -
+- TOP 17.: Aufstellung des Vorhabenbezogenen Bebauungsplanes Nr. 08/001 „Saatgutbearbei-tungshalle Gut Hovedissen“ für einen Teilbereich der landwirtschaftlichen Nutzflächen südlich der Schackenburger Straße (L 968) östlich des Gutes Hovedissen im Ortsteil Schuckenbaum 21. Änderung des Flächennutzungsplanes hier: - Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öf-fentlichkeit / der Offenlage gemäß § 3 (2) BauGB und der Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange gemäß § 4 (2) BauGB- Satzungsempfehlung an den Rat über den Vorhabenbezogenen Bebauungsplan - Feststellungsbeschluss zur Änderung des Flächennutzungsplanes als Empfehlung an den Rat - - einstimmig -
+- TOP 18.: 7. Änderung des Bebauungsplanes Nr. 08/03 „Ortskern“ im beschleunigten Verfahren ge-mäß § 13a BauGB hier: Nachverdichtung im Bereich zwischen Fliederstraße, im Süden, Eckendorfer Straße, im Norden sowie Holunderstraße, im Westen und Herforder Straße, im Osten - Beratung und Beschluss über die während der Auslegung eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange -Satzungsempfehlung - - einstimmig -
+- TOP -: 7. Änderung des Bebauungsplanes Nr. 08/03 „Ortskern“ im beschleunigten Verfahren ge-mäß § 13a BauGB hier: Nachverdichtung im Bereich zwischen Fliederstraße, im Süden, Eckendorfer Straße, im Norden sowie Holunderstraße, im Westen und Herforder Straße, im Osten - Beratung und Beschluss über die während der Auslegung eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange -Satzungsempfehlung - - einstimmig -
+- TOP 19.: Änderung des städtebaulichen Vertrages für die 18. Änderung des Bebauungsplanes Nr. 02/02 „Milser Heide“ - - 31 Ja-Stimme(n), 0 Nein-Stimme(n), 3 Enthaltung(en) -
+- TOP 20.: Aufstellung des Bebauungsplanes Nr. 04/12 "Grabbestraße" hier: - Beratung und Beschluss über die während der Auslegung eingegangenen Stellungnahmen der Öffentlichkeit, der Behörden und der sonstigen Träger öffentlicher Belange - Satzungsempfehlung - - 33 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
