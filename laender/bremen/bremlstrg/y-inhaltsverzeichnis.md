@@ -58,6 +58,7 @@ Schutzmaßnahmen | Schutzmaßnahmen
 § 45 | Bestehende Regelungen über die Verteilung der Straßenbaulast
 12. Abschnitt Behörden und Zuständigkeiten
 § 46 | Behörden
+§ 46a | Behörden nach dem Bundesfernstraßengesetz
 § 47 | Zuständigkeiten
 13. Abschnitt Ordnungswidrigkeiten
 § 48 | Ordnungswidrigkeiten
