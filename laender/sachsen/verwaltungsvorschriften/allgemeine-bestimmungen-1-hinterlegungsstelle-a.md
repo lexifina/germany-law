@@ -1,8 +1,8 @@
 # Allgemeine Bestimmungen 1. Hinterlegungsstelle a)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-12-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11606.1
+- Datum: 2013-12-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11606.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -18,7 +18,7 @@ Hinterlegungsstelle
 
 a)
 
-Die Hinterlegungsstelle führt ihren Schriftwechsel unter der Bezeichnung: Amtsgericht - Hinterlegungsstelle. Sie führt Siegel und Stempel des Amtsgerichts.
+Die Hinterlegungsstelle führt ihren Schriftwechsel unter der Bezeichnung: Amtsgericht – Hinterlegungsstelle. Sie führt Siegel und Stempel des Amtsgerichts.
 
 b)
 
@@ -91,11 +91,11 @@ Von der Annahmeanordnung sind zwei Mehrfertigungen zu erstellen. Die Annahmeanor
 
 b)
 
-Die Hinterlegungskasse bestätigt die Hinterlegung auf der Annahmeanordnung und ihren Mehrfertigungen mit dem Buchungsvermerk nebst Siegel und übersendet die mit der Urschrift des Annahmeantrags verbundene Urschrift der Annahmeanordnung an die Hinterlegungsstelle. Eine mit einer Mehrfertigung des Annahmeantrags verbundene Mehrfertigung der Annahmeanordnung übermittelt sie an den Hinterleger zum Nachweis der Hinterlegung (Hinterlegungsschein). Die zweite Mehrfertigung der Annahmeanordnung verbleibt bei der Hinterlegungskasse.
+Die Hinterlegungskasse bestätigt die Hinterlegung auf der Annahmeanordnung und ihren Mehrfertigungen mit dem Buchungsvermerk nebst Siegel und übersendet die mit der Urschrift des Annahmeantrags verbundene Mehrfertigung der Annahmeanordnung an die Hinterlegungsstelle. Eine mit einer Mehrfertigung des Annahmeantrags verbundene Mehrfertigung der Annahmeanordnung übermittelt sie an den Hinterleger zum Nachweis der Hinterlegung (Hinterlegungsschein). Die Urschrift der Annahmeanordnung verbleibt bei der Hinterlegungskasse.
 
 c)
 
-Soll die Hinterlegung bei einer Gerichtszahlstelle angenommen werden, so ist die Annahmeanordnung entsprechend Buchstabe a an diese zu richten. Die Gerichtszahlstelle bestätigt die Hinterlegung entsprechend Buchstabe b Sätze 1 und 2. Die Quittung für den Hinterleger erteilt sie auf der ersten Mehrfertigung der Annahmeanordnung. Die zweite Mehrfertigung übersendet sie der Hinterlegungskasse.
+Soll die Hinterlegung bei einer Gerichtszahlstelle angenommen werden, so ist die Annahmeanordnung entsprechend Buchstabe a an diese zu richten. Die Gerichtszahlstelle bestätigt die Hinterlegung entsprechend Buchstabe b Sätze 1 und 2. Die Quittung für den Hinterleger erteilt sie auf der ersten Mehrfertigung der Annahmeanordnung. Die Urschrift der Annahmeanordnung übersendet sie der Hinterlegungskasse.
 
 III.
 
@@ -120,8 +120,10 @@ SächsHintG bezeichneten Geschäfte werden von der Deutschen Bundesbank, Zentral
 b)
 
 Die Hinterlegungskasse gibt die bei ihr hinterlegten Wertpapiere der in § 1 Abs. 1 des Gesetzes über die Verwahrung und Anschaffung von Wertpapieren (
-Depotgesetz –
+Depotgesetz
+–
 DepotG) in der Fassung der Bekanntmachung vom 11. Januar 1995 (BGBl. I S. 34), das zuletzt durch Artikel 5 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2512, 2519) geändert worden ist, in der jeweils geltenden Fassung, genannten Art nach Maßgabe des § 14 Abs. 1
+
 SächsHintG ohne besondere Prüfung zur Verwahrung und Verwaltung in ein unter ihrem Namen zu führendes offenes Depot an die nach Buchstabe a zuständige Stelle ab. Die Abgabe geschieht mit Lieferschein in doppelter Ausfertigung. In dem Lieferschein ist ferner anzugeben, wem Steuerbescheinigungen oder Bescheinigungen über einbehaltene Kapitalertragsteuer zu erteilen sind. Das von der nach Buchstabe a zuständigen Stelle mit Empfangsbescheinigung an die Hinterlegungskasse zurückgesandte Zweitstück des Lieferscheins dient als Nachweis der Abgabe. Sofern sich am Sitz der Hinterlegungskasse eine Filiale der Deutschen Bundesbank befindet, sind die Wertpapiere dieser zur Weiterleitung an die nach Buchstabe a zuständige Stelle zu übergeben. In diesen Fällen ist der Lieferschein in vierfacher Ausfertigung beizufügen. Die örtliche Filiale der Deutschen Bundesbank gibt ein Stück des Lieferscheins mit vorläufiger Empfangsbescheinigung bei der Hingabe der Wertpapiere an die Hinterlegungskasse zurück, während die nach Buchstabe a zuständige Stelle ein weiteres Stück des Lieferscheins mit endgültiger Empfangsbescheinigung unmittelbar an die Hinterlegungskasse zurücksendet.
 
 c)
@@ -162,7 +164,8 @@ SächsHintG kann bis zum Ablauf eines Jahres seit der Hinterlegung ausgesetzt we
 b)
 
 Erscheint der Schuldner zur Stellung des Hinterlegungsantrags, soll ihm die Aufforderung gemäß § 15 Abs. 2
-SächsHintG sogleich nach § 173 der
+SächsHintG
+sogleich nach § 173 der
 Zivilprozessordnung zugestellt werden.
 
 4.
@@ -216,8 +219,8 @@ Werden Urkunden, die zum Nachweis der Berechtigung des Empfängers eingereicht s
 d)
 
 Ohne Herausgabeantrag werden die gemäß § 18a Satz 1 des Gesetzes zur Regelung offener Vermögensfragen (
-Vermögensgesetz –
-VermG) in der Fassung der Bekanntmachung 9. Februar 2005 (BGBl. I S. 205), das zuletzt durch Artikel 4 des Gesetzes vom 3. Juli 2009 (BGBl. I S. 1688, 1692) geändert worden ist, in der jeweils geltenden Fassung, hinterlegten Ablösebeträge nach Ablauf von fünf Jahren seit der Hinterlegung an den Entschädigungsfonds abgeführt, sofern der Hinterlegungsstelle nicht die Anhängigkeit eines Rechtsstreits bekannt geworden ist (§ 18b Abs. 4
+Vermögensgesetz
+– VermG) in der Fassung der Bekanntmachung 9. Februar 2005 (BGBl. I S. 205), das zuletzt durch Artikel 4 des Gesetzes vom 3. Juli 2009 (BGBl. I S. 1688, 1692) geändert worden ist, in der jeweils geltenden Fassung, hinterlegten Ablösebeträge nach Ablauf von fünf Jahren seit der Hinterlegung an den Entschädigungsfonds abgeführt, sofern der Hinterlegungsstelle nicht die Anhängigkeit eines Rechtsstreits bekannt geworden ist (§ 18b Abs. 4
 VermG).
 
 2.
@@ -335,6 +338,7 @@ e)
 
 Sparbücher, die für unbekannte Erben hinterlegt sind, übersendet die Hinterlegungsstelle dem zuständigen Nachlassgericht mit der Anregung, nach § 1964 Abs. 1 des
 Bürgerlichen Gesetzbuches (
+
 BGB) in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), das zuletzt durch Artikel 1 des Gesetzes vom 24. Juli 2010 (BGBl. I S. 977) geändert worden ist, in der jeweils geltenden Fassung, zu verfahren. Dabei sind die in den Hinterlegungsakten enthaltenen Angaben über die Person des Erblassers mitzuteilen.
 
 f)
@@ -391,13 +395,17 @@ bei der Hinterlegung zur Befreiung eines Schuldners von seiner Verbindlichkeit n
 cc)
 
 bei der Hinterlegung aufgrund des § 52 Abs. 1
-BGB, der §§ 272 Abs. 2 und 278 Abs. 3 des
-Aktiengesetzes
-vom 6. September 1965 (BGBl. I S. 1089), das zuletzt durch Artikel 1 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2509) geändert worden ist, in der jeweils geltenden Fassung, des § 73 Abs. 2 des
+BGB
+
+, der §§ 272 Abs. 2 und 278 Abs. 3 des
+Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089), das zuletzt durch Artikel 1 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2509) geändert worden ist, in der jeweils geltenden Fassung, des § 73 Abs. 2 des
+
 Gesetzes betreffend die Gesellschaften mit beschränkter Haftung (
 
-GmbHG) in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4123-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 5 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2509, 2511) geändert worden ist, in der jeweils geltenden Fassung, und des § 90 Abs. 2 des Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften (
-Genossenschaftsgesetz –
+GmbHG
+) in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4123-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 5 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2509, 2511) geändert worden ist, in der jeweils geltenden Fassung, und des § 90 Abs. 2 des Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften (
+Genossenschaftsgesetz
+–
 GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in der jeweils geltenden Fassung, nach dem Namen des Vereins, nach der Firma der Aktiengesellschaft, der Kommanditgesellschaft auf Aktien, der Gesellschaft mit beschränkter Haftung und der Genossenschaft;
 
 dd)
@@ -446,6 +454,7 @@ cc)
 
 bei Hinterlegungen aufgrund der
 Insolvenzordnung (
+
 InsO), vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 2 des Gesetzes vom 19. November 2010 (BGBl. I S. 1592, 1609) geändert worden ist, in der jeweils geltenden Fassung;
 
 dd)
@@ -477,21 +486,22 @@ VI.
 
 a)
 
-Geld- und andere Hinterlegungen, für die der Anspruch auf Herausgabe bis einschließlich 2. Oktober 1990 erloschen ist, stehen dem Bund als Finanzvermögen zu. Geldhinterlegungen sind der Bundeskasse Halle (Bundesbank Leipzig, Kontonummer: 860 010 40, Bankleitzahl: 860 000 00) zu überweisen. Als Verwendungszweck ist der jeweilige Regierungsbezirk, Kapitel 0892 und Titel 131 11, Bundesanstalt für Immobilienaufgaben sowie das betreffende staatliche Notariat und dessen Aktenzeichen anzugeben. Für Urkunden, die für den Nachweis und die Geltendmachung von Grundpfandrechten von Bedeutung sind, gilt Ziffer IV Nr. 6 f. Im Übrigen sind Werthinterlegungen der für den Bezirk der Hinterlegungskasse zuständigen Außenstelle der Bundesanstalt für Immobilienaufgaben körperlich herauszugeben.
+Geld- und andere Hinterlegungen, für die der Anspruch auf Herausgabe bis einschließlich 2. Oktober 1990 erloschen ist, stehen dem Bund als Finanzvermögen zu. Geldhinterlegungen sind der Bundeskasse Halle (Bundesbank Leipzig, IBAN: DE38 8600 0000 0086 0010 40, BIC: MARK DE F1 860) zu überweisen. Als Verwendungszweck ist der jeweilige Regierungsbezirk, Kapitel 0892 und Titel 131 11, Bundesanstalt für Immobilienaufgaben sowie das betreffende staatliche Notariat und dessen Aktenzeichen anzugeben. Für Urkunden, die für den Nachweis und die Geltendmachung von Grundpfandrechten von Bedeutung sind, gilt Ziffer IV Nr. 6 f. Im Übrigen sind Werthinterlegungen der für den Bezirk der Hinterlegungskasse zuständigen Außenstelle der Bundesanstalt für Immobilienaufgaben körperlich herauszugeben.
 
 b)
 
 Auf der Grundlage ehemaliger Rechtsbestimmungen der Deutschen Demokratischen Republik hinterlegte Beträge aus Schuldbuchforderungen im Sinne von § 4 des Gesetzes zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik (
-DDR-Schuldbuchbereinigungsgesetz –
+DDR-Schuldbuchbereinigungsgesetz
+–
 SchuldBBerG) vom 27. September 1994 (BGBl. I S. 2624, 2634), das zuletzt durch Artikel 5 Abs. 1 des Gesetzes vom 17. Juli 1997 (BGBl. I S. 1823, 1830) geändert worden ist, für die der Anspruch auf Herausgabe erloschen ist, sind abweichend von Buchstabe a nach vorheriger Zahlungsankündigung wie folgt zu überweisen:
 
 aa)
 
-Bis zum 2. Oktober 1990 hinterlegte Beträge sind an das Bundesamt für zentrale Dienste und offene Vermögensfragen (Bundeskasse Kiel, Kontonummer: 2100 10 30, Bankleitzahl: 210 000 00) unter Angabe des Verwendungszwecks „1094 0002 8702 BEW 03114508/01809618-AG 1-(4567)- VV 5500-0-1/97, der Nummer der Einzelschuldbuchforderung, dem Namen des Schuldbuchgläubigers, der Hinterlegungsstelle und der Hinterlegungskontonummer“ zu überweisen.
+Bis zum 2. Oktober 1990 hinterlegte Beträge sind an das Bundesamt für zentrale Dienste und offene Vermögensfragen (Bundeskasse Trier – Dienstsitz Kiel, IBAN: DE18 2000 0000 0020 0010 66, BIC: MARK DE F1 200) unter Angabe des Verwendungszwecks „1094 0002 8702 BEW 03114508/01809618-AG 1-(4567) – VV 5500-0-1/97, der Nummer der Einzelschuldbuchforderung, dem Namen des Schuldbuchgläubigers, der Hinterlegungsstelle und der Hinterlegungskontonummer“ zu überweisen.
 
 bb)
 
-Ab dem 3. Oktober 1990 hinterlegte Beträge sind an den Erblastentilgungsfonds (Bundeskasse Trier - Ast Frankfurt/M., Kontonummer: 500 010 20, Bankleitzahl: 500 000 00) unter Angabe des Verwendungszwecks „Kap. 3290 11906-873 – HL Schuldbuchforderungen“ zu überweisen.
+Ab dem 3. Oktober 1990 hinterlegte Beträge sind an den Erblastentilgungsfonds (Bundeskasse Trier IBAN DE81 5900 0000 0059 0010 20, BIC: MARK DE F1 590) unter Angabe des Verwendungszwecks „Kap. 3290 11906-873 – HL Schuldbuchforderungen“ zu überweisen.
 
 2.
 
