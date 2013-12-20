@@ -1,0 +1,2 @@
+# § 46a Behörden nach dem Bundesfernstraßengesetz
+Oberste Landesstraßenbaubehörde im Sinne des § 22 Absatz 4 des Bundesfernstraßengesetzes ist der nach § 46 Absatz 1 Nummer 1 bestimmte Senator. Dieser Senator wird ermächtigt, durch Rechtsverordnung die ihm nach dem Bundesfernstraßengesetz obliegenden Aufgaben den Straßenbaubehörden zuzuweisen sowie ihm zustehende Befugnisse auf das Amt für Straßen und Verkehr als Obere Landesstraßenbaubehörde zu übertragen.
