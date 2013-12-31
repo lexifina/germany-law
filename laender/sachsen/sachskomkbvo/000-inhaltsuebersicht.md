@@ -9,7 +9,7 @@ Abschnitt 1 Aufgaben und Organisation der Gemeindekasse
 Abschnitt 2 Kassenanordnungen
 § 7 Allgemeines
 § 8 Zahlungsanordnung
-§ 9 Allgemeine Zahlungsanordnung
+§ 9 Allgemeine Zahlungs- und Buchungsanordnung
 § 10 Ausnahmen vom Erfordernis der Zahlungsanordnung
 § 11 Sachliche und rechnerische Feststellung
 Abschnitt 3 Zahlungsverkehr
