@@ -1,0 +1,6 @@
+# Verordnung des Sächsischen Staatsministeriums des Innern zur Weiterentwicklung des neuen kommunalen Haushalts- und Rechnungswesens
+Vom 10. Dezember 2013
+Es wird verordnet aufgrund von
+1. § 127 Abs. 1 Nr. 9, 11, 13, 14, 18, 19 und 20 der Gemeindeordnung für den Freistaat Sachsen (SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die zuletzt durch Artikel 1 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822) geändert worden ist, hinsichtlich § 127 Abs. 1 Nr. 9 SächsGemO im Benehmen mit dem Staatsministerium der Finanzen,
+2. § 68 Abs. 1 Nr. 7, 9, 11, 12, 16, 17 und 18 der Landkreisordnung für den Freistaat Sachsen (SächsLKrO) vom 19. Juli 1993 (SächsGVBl. S. 577), die zuletzt durch Artikel 2 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822, 831) geändert worden ist, hinsichtlich § 68 Abs. 1 Nr. 7 SächsLKrO im Benehmen mit dem Staatsministerium der Finanzen,
+3. § 5 Abs. 3 Satz 1 und § 47 Abs. 2 Satz 1 des Sächsischen Gesetzes über kommunale Zusammenarbeit (SächsKomZG) vom 19. August 1993 (SächsGVBl. S. 815, 1103), das zuletzt durch Artikel 3 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822, 836) geändert worden ist, in Verbindung mit § 127 Abs. 1 Nr. 9, 11, 13, 14, 18, 19 und 20 SächsGemO, hinsichtlich § 127 Abs. 1 Nr. 9 SächsGemO im Benehmen mit dem Staatsministerium der Finanzen:
