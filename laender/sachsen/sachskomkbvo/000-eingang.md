@@ -1,6 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums des Innern über die Kassen- und Buchführung der Kommunen (Sächsische Kommunale Kassen- und Buchführungsverordnung – SächsKomKBVO)
 Vom 26. Januar 2005
-Rechtsbereinigt mit Stand vom 31. Dezember 2012
+Rechtsbereinigt mit Stand vom 31. Dezember 2013
 Es wird verordnet aufgrund von
 1. § 127 Abs. 1 Nr. 19 der Gemeindeordnung für den Freistaat Sachsen (SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die durch Artikel 7 des Gesetzes vom 13. Dezember 2002 (SächsGVBl. S. 333, 351) geändert worden ist,
 2. § 68 Abs. 1 Nr. 17 der Landkreisordnung für den Freistaat Sachsen (SächsLKrO) vom 19. Juli 1993 (SächsGVBl. S. 577), die zuletzt durch Artikel 9 des Gesetzes vom 5. Mai 2004 (SächsGVBl. S. 148, 153) geändert worden ist, und
