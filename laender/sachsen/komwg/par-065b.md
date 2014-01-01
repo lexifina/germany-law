@@ -1,2 +1,3 @@
 # § 65b Übergangsvorschrift aus Anlass des Zensus 2011
 § 65 findet für Wahlen, die im Jahr 2013 durchgeführt werden, mit der Maßgabe Anwendung, dass die vom Statistischen Landesamt zum 31. Dezember 2011 auf Grundlage der am 3. Oktober 1990 nachgewiesenen Bevölkerungszahl fortgeschriebene Einwohnerzahl maßgebend ist. Für die regelmäßigen Gemeinderats- und Kreistagswahlen 2014 findet § 65 mit der Maßgabe Anwendung, dass die vom Statistischen Landesamt zum 31. Dezember 2012 auf Grundlage der am 3. Oktober 1990 nachgewiesenen Bevölkerungszahl fortgeschriebene Einwohnerzahl maßgebend ist.
+### § 66 (Inkrafttreten)
