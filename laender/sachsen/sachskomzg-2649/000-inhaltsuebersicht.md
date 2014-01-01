@@ -87,23 +87,26 @@ Sechster Abschnitt Vereinigung und Eingliederung von Zweckverbänden
 § 69 Ausscheiden eines Verbandsmitgliedes
 § 70 Eingliederung von Zweckverbänden
 Fünfter Teil Zweckvereinbarung
-§ 71 Voraussetzungen einer Zweckvereinbarung
+§ 71 Voraussetzungen und Formen einer Zweckvereinbarung
 § 72 Rechtsverhältnisse
 § 73 Pflichtvereinbarung
-Sechster Teil Aufsicht
+Sechster Teil Kommunale Arbeitsgemeinschaften
+§ 73a Kommunale Arbeitsgemeinschaften
+Siebter Teil Aufsicht
 § 74 Rechtsaufsichtsbehörden
 § 75 Aufsicht über Verwaltungsverbände und Zweckverbände
-Siebter Teil Übergangs- und Schlußbestimmungen
+Achter Teil Übergangs- und Schlußbestimmungen
 § 76 Planungsverbände
 § 77 (aufgehoben)
 § 78 Anwendung auf bestehende Zweckverbände, Verwaltungsgemeinschaften und gemeinsame Verwaltungsämter
 § 78a Übergangsbestimmung aus Anlass des Gesetzes zur Erleichterung freiwilliger Gebietsänderungen
 § 78b Übernahme der Angestellten, Arbeiter sowie der in einem Ausbildungsverhältnis stehenden Beschäftigten
+§ 78c Übergangsbestimmungen aus Anlass des Gesetzes zur Fortentwicklung des Kommunalrechts
 § 79 Rechtsverordnungen
 § 80 Verwaltungsvorschriften
 § 81 Grenzüberschreitende Zweckverbände
-§ 82 Änderung der Sächsischen Bauordnung
-§ 83 Änderung des Gesetzes über den Kommunalen Versorgungsverband Sachsen
-§ 84 Änderung des Kommunalbeamtenrechtlichen Vorschaltgesetzes
-§ 85 Änderung des Sächsischen Brandschutzgesetzes
+§ 82 (aufgehoben)
+§ 83 (aufgehoben)
+§ 84 (aufgehoben)
+§ 85 (aufgehoben)
 § 86 Inkrafttreten
