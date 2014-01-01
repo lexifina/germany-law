@@ -1,1 +1,1 @@
-# Verordnung über die Tilgung uneinbringlicher Geldstrafen durch freie Arbeit vom 11. Januar 1982
+# Verordnung über die Tilgung uneinbringlicher Geldstrafen durch gemeinnützige Arbeit vom 6. Dezember 2013
