@@ -1,0 +1,5 @@
+# § 95a Eigenbetriebe
+(1) Die Gemeinde kann Unternehmen ohne eigene Rechtspersönlichkeit als Eigenbetrieb führen, wenn Art und Umfang der Tätigkeit eine selbstständige Wirtschaftsführung rechtfertigen. Eigenbetriebe werden finanzwirtschaftlich als Sondervermögen der Gemeinde verwaltet und nachgewiesen.
+(2) Für den Eigenbetrieb ist eine Betriebsleitung zu bilden, die vom Gemeinderat gewählt wird. Die Betriebsleitung führt die laufenden Geschäfte des Eigenbetriebs. Ihr können weitere Aufgaben übertragen werden. Die Betriebsleitung vertritt die Gemeinde im Rahmen ihrer Aufgaben.
+(3) Der Gemeinderat regelt die Rechtsverhältnisse des Eigenbetriebs in einer Betriebssatzung. Durch die Betriebssatzung soll ein beratender oder beschließender Ausschuss des Gemeinderats (Betriebsausschuss) für die Angelegenheiten des Eigenbetriebs gebildet werden.
+(4) Die § 72 Abs. 1 und 2 Satz 1, §§ 73, 76 Abs. 2 Satz 2, §§ 78, 80 bis 84, 89 Abs. 1 bis 4 und § 90 über die Haushaltswirtschaft und das Vermögen der Gemeinde gelten entsprechend.

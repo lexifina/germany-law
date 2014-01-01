@@ -1,5 +1,5 @@
 # § 35a Fraktionen
 (1) Gemeinderäte können sich zu Fraktionen zusammenschließen. Diese sind Organteile des Gemeinderats. Das Nähere über die Bildung, die Stärke der Fraktionen, ihre Rechte und Pflichten innerhalb des Gemeinderats regelt die Gemeinde durch Geschäftsordnung.
-(2) Die Fraktionen wirken bei der Willensbildung und Entscheidungsfindung des Gemeinderats mit; sie dürfen ihre Auffassungen öffentlich darstellen.
-(3) Die Gemeinde kann den Fraktionen Mittel aus ihrem Haushalt für die sächlichen und personellen Aufwendungen für die Geschäftsführung gewähren. Diese Mittel sind in einer besonderen Anlage zum Haushaltsplan darzustellen. Über ihre Verwendung ist ein Nachweis in einfacher Form zu führen.
-(4) Für Bedienstete der Fraktionen gilt § 19 Abs. 2 entsprechend.
+(2) Die Fraktionen wirken bei der Willensbildung und Entscheidungsfindung des Gemeinderats mit; sie können ihre Auffassungen öffentlich darstellen.
+(3) Die Gemeinde kann den Fraktionen Mittel aus ihrem Haushalt für die sächlichen und personellen Aufwendungen für die Geschäftsführung gewähren. In Gemeinden ab 30 000 Einwohner sollen ihnen Mittel gewährt werden. Diese Mittel sind in einer besonderen Anlage zum Haushaltsplan darzustellen. Über ihre Verwendung ist ein Nachweis in einfacher Form zu führen.
+(4) Für Bedienstete der Fraktionen gilt § 19 Abs. 2 entsprechend. Die Geschäftsordnung kann vorsehen, dass Arbeitnehmer der Fraktionen zu nichtöffentlichen Sitzungen des Gemeinderats und seiner Ausschüsse Zutritt haben.

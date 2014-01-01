@@ -1,0 +1,3 @@
+# § 69a Aufhebung der Ortschaftsverfassung
+(1) Die Ortschaftsverfassung kann durch Änderung der Hauptsatzung zur nächsten regelmäßigen Wahl der Gemeinderäte aufgehoben werden.
+(2) Wird die Ortschaftsverfassung auf Grund einer Vereinbarung nach § 9 Abs. 3 oder 4 auf unbestimmte Zeit eingeführt, kann sie nur mit Zustimmung des Ortschaftsrats aufgehoben werden, frühestens zur übernächsten regelmäßigen Wahl nach ihrer Einführung. Der Beschluss des Ortschaftsrats bedarf der Mehrheit der Stimmen aller Mitglieder. Ist die Zahl der Ortschaftsräte während der Wahlperiode auf weniger als die Hälfte der festgelegten Mitgliederzahl gesunken, tritt an Stelle des Beschlusses des Ortschaftsrats nach Satz 2 die Entscheidung des Gemeinderats.
