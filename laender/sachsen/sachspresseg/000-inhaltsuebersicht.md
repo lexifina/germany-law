@@ -9,7 +9,7 @@
 § 8 Offenlegungspflicht
 § 9 Kennzeichnung entgeltlicher Veröffentlichungen
 § 10 Gegendarstellung
-§ 11 Ablieferungspflicht
+§ 11 Ablieferungspflicht analoger und digitaler Publikationen
 § 11a Anwendbarkeit des Bundesdatenschutzgesetzes
 § 12 Strafrechtliche Verantwortung
 § 13 Ordnungswidrigkeiten
