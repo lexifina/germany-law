@@ -1,0 +1,8 @@
+# § 15d Nicht zu berücksichtigende Dienstzeiten
+(Regelung zur Ersetzung des § 30 des Bundesbesoldungsgesetzes)
+(1) Zeiten einer Tätigkeit für das Ministerium für Staatssicherheit oder das Amt für Nationale Sicherheit sind bei der Bemessung des Grundgehalts nach § 15b nicht zu berücksichtigen. Dies gilt auch für Zeiten, die vor einer solchen Tätigkeit zurückgelegt worden sind. Satz 1 gilt auch für Zeiten einer Tätigkeit als Angehörige oder Angehöriger der Grenztruppen der ehemaligen Deutschen Demokratischen Republik.
+(2) Absatz 1 Satz 1 und 2 gilt auch für Zeiten einer Tätigkeit, die aufgrund einer besonderen persönlichen Nähe zum System der ehemaligen Deutschen Demokratischen Republik übertragen war. Das Vorliegen dieser Voraussetzung wird insbesondere widerlegbar vermutet, wenn die Beamtin oder der Beamte
+1. vor oder bei Übertragung der Tätigkeit eine hauptamtliche oder hervorgehobene ehrenamtliche Funktion in der Sozialistischen Einheitspartei Deutschlands, dem Freien Deutschen Gewerkschaftsbund, der Freien Deutschen Jugend oder einer vergleichbaren systemunterstützenden Partei oder Organisation innehatte oder
+2. als mittlere oder obere Führungskraft in zentralen Staatsorganen, als obere Führungskraft beim Rat eines Bezirkes, als Vorsitzende oder Vorsitzender des Rates eines Kreises oder einer kreisfreien Stadt oder in einer vergleichbaren Funktion tätig war oder
+3. hauptamtlich Lehrende oder hauptamtlich Lehrender an den Bildungseinrichtungen der staatstragenden Parteien oder einer Massen- oder gesellschaftlichen Organisation war oder
+4. Absolventin oder Absolvent der Akademie für Staat und Recht oder einer vergleichbaren Bildungseinrichtung war.
