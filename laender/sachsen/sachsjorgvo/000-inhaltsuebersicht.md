@@ -1,10 +1,11 @@
 # Inhaltsübersicht
-Teil 1 Gerichtsverfassung und Bereitschaftsdienst
+Teil 1 Gerichtsverfassung, Bereitschaftsdienst und Aufhebung von Richtervorbehalten
 § 1 Kammern für Handelssachen
 § 2 Auswärtige Strafvollstreckungskammern
 § 3 Zweigstellen der Amtsgerichte
 § 4 Zuständigkeit der Zweigstellen
 § 5 Bereitschaftsdienst
+§ 5a Aufhebung von Richtervorbehalten
 Teil 2 Sonderzuständigkeiten
 Abschnitt 1 Zivilrecht
 Unterabschnitt 1 Prozesskostenhilfe
