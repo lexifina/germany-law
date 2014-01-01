@@ -1,8 +1,8 @@
-# Entgeltordnung (Miet- und Nebenkostentarife) für die Nutzung multifunktionaler Räume in den sozialkulturellen Zentren der Stadt Köln Bürgerzentrum Chorweiler Pariser Platz 1 50765 Köln ab 01.01.2014
+# Entgeltordnung (Miet- und Nebenkostentarife) für die Nutzung multifunktionaler Räume in den sozialkulturellen Zentren der Stadt Köln Bürgerzentrum Deutz Tempelstr. 41-43 50679 Köln ab 01.01.2014
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
 - Datum: 2014-01-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/entgeltordnung_bürgerzentrum_chorweiler.pdf
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/entgeltordnung_bürgerzentrum_deutz.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -11,71 +11,117 @@
 Entgeltordnung (Miet- und Nebenkostentarife) für die Nutzung multifunktionaler Räume in den sozialkulturellen Zentren
 der Stadt Köln
 
-Bürgerzentrum Chorweiler Pariser Platz 1 50765 Köln
+Bürgerzentrum Deutz Tempelstr. 41-43 50679 Köln
+
 ab 01.01.2014
 
 I. Großer Saal
 
-1. Miete je angefangene Stunde
+1. Miete pro Stunde
 
-2. Nutzung der Ton- und Lichtanlage
+(einschl. Auf- und Abbauzeit)
 
-(Bedienung nur durch Beauftragte des Bürgerzentrums)
+Zuschlag für Sa/ So/ Feiertage und Tage vor Feiertagen
 
-Nutzungspauschale Lichtanlage; unabhängig vom Zeitumfang
+2. Nutzung der Tonanlage / Beamer
 
-(bis 2014 nicht buchbar)
+Bedienung nur durch Beauftragte des Bürgerhauses
 
-Nutzungspauschale Tonanlage; unabhängig von Zeitumfang
+Nutzungspauschale Tonanlage
 
-(Tonanlage bis 2014 nur stundenabhängig und als Personalkosten definiert)
+bis 4 Std.
 
-Nutzung der mobilen Tonanlage; unabhängig von Zeitumfang
+ab 4 Std.
 
-(bis 2014 nicht buchbar)
+Nutzungspauschale Beamer
+
+bis 4 Std.
+
+ab 4 Std.
+
+Nutzung LAN / W-LAN
+
+pro Nutzer
+
+Nutzungspauschale Konferenzanlage
+
+pro 6 Mikros
 
 3. Kaution
 
 4. Reinigungspauschale
 
-für private Mieter
+wochentags
 
-für gewerbliche Mieter 5. Zusatzkosten ( gilt entspr. für Bürgersäle und Foyer Großer Saal)
+Sonn-/Feiertags
 
-• Sachkundige Aufsichtsperson/Hausbeauftragte/r pro Stunde
+5. Zusatzkosten (nichtstädtisch)
 
-• Wachdienst
+• Sachkundige Aufsichtsperson
 
-Montag bis Sonntag Feiertag
+pro Stunde
 
-• Technikerstunde Licht und Ton je angefangene Stunde , ( bei Personalunion, ansonsten Einzelpreis je Techniker)
+• Technikerstunde Ton
 
-II. Bürgersäle 1 und 2 oder 3
+pro Stunde
 
-1. Miete je angefangene Stunde
-
-(erst ab 2014 incl. Reinigung, Küche) Küche separat anzumieten je Std.
-
-2. Kaution
-
-III. Foyer Großer Saal
+II. Kleiner Saal
 
 1. Miete pro Stunde
 
-2. Kaution ( ohne Anmietung Großer Saal)
+2. Nutzung der Medienschrank / Beamer
 
-77,00€
-120,00€ 120,00€
-60,00€ 1500,00€
-100,00€ 200,00€
-15,00€ 15,00€ 23,00€ 30,00€
-16,00€
-incl. 300,00€
-16,00€ 300,00€
+Nutzungspauschale Medienschrank
+
+Nutzungspauschale Beamer
+
+Nutzung W-LAN
+
+pro Nutzer
+
+III. Clubraum
+
+Miete pro Stunde
+
+Zuschlag an Wochenenden pauschal
+
+Nutzungspauschale Fernseher
+
+Nutzung W-LAN
+
+pro Nutzer
+
+22,00€
+85,00€
+25,00€ 40,00€ 25,00€ 50,00€
+5,00€ 80,00€ 200,00€ 50,00€ 100,00€
+15,00€ 26,00€
+10,00€
+25,00€ 25,00€
+5,00€
+12,50€ 100,00€
+25,00€ 5,00€
 
 Seite 1 von 2
 
-Grundsätzliches: 1. Bei mehrstündiger und/ oder regelmäßiger Nutzung können Pauschalen
-vereinbart werden. 2. Bei Veranstaltungen mit zahlendem Publikum können anstelle der Miete und der
-Nutzungsgebühr Verträge auf Basis prozentualer Eintrittsgeld-Teilung vereinbart werden. In Einzelfällen ist eine Staffelung der Einnahmeteilung je nach Anzahl der zahlenden Besucher möglich. 3. Bei Veranstaltungen, die gewerbliche oder sonstige Erwerbszwecke verfolgen, werden auf den Einzelfall abgestimmte Mietkonditionen vereinbart. 4. Die Zahlung für die Inanspruchnahme der Dienstleistungen von nichtstädtischen Ton- und Lichttechnikern, sachkundigen Aufsichtspersonen und Wachdiensten erfolgt in der Regel direkt zwischen Mietern und Dienstleistern. 5. Bei Vorliegen der Voraussetzungen wird die gesetzliche Mehrwertsteuer erhoben. 6. Im Einzelfall kann das Entgelt entsprechend dem Rahmenkonzept und der Intention des Mieters/der Mieterin durch die Leitung des Bürgerhauses/Bürgerzentrums erlassen bzw. ermäßigt werden.
+IV. Lebensraum 1. Miete pro Stunde Zuschlag an Wochenenden pauschal
+
+15,00€ 100,00€
+
+V. Oase Miete pro Stunde
+
+7,00€
+
+VI. Computerraum Miete pro Stunde
+
+7,00€
+
+Grundsätzliches:
+1. Bei mehrstündiger und/ oder regelmäßiger Nutzung können Pauschalen vereinbart werden.
+2. Bei Veranstaltungen mit zahlendem Publikum können anstelle der Miete und der Nutzungsgebühr Verträge auf Basis prozentualer Eintrittsgeld-Teilung vereinbart werden. In Einzelfällen ist eine Staffelung der Einnahmeteilung je nach Anzahl der zahlenden Besucher möglich.
+3. Bei Veranstaltungen, die gewerbliche oder sonstige Erwerbszwecke verfolgen, werden auf den Einzelfall abgestimmte Mietkonditionen vereinbart.
+4. Die Zahlung für die Inanspruchnahme der Dienstleistungen von nichtstädtischen Ton- und Lichttechnikern, sachkundigen Aufsichtspersonen und Wachdiensten erfolgt in der Regel direkt zwischen Mietern und Dienstleistern.
+5. Bei Vorliegen der Voraussetzungen wird die gesetzliche Mehrwertsteuer erhoben.
+6. Im Einzelfall kann das Entgelt entsprechend dem Rahmenkonzept und der Intention des Mieters/der Mieterin durch die Leitung des Bürgerhauses/Bürgerzentrums erlassen bzw. ermäßigt werden.
+
 Seite 2 von 2
