@@ -1,8 +1,8 @@
 # Bekanntmachung der Neufassungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2013-11-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.9
+- Datum: 2014-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.10
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -60,10 +60,11 @@ zum Vollzug der Sächsischen Trennungsgeldverordnung
 VwV vom 4. Oktober 2001 (SächsABl. S. 1071), durch VwV
 vom 7. November 2007 (MBl. SMF S. 214), durch VwV
 vom 26. Januar 2010 (MBl. SMF S. 10, 137), durch VwV
-vom 25. Juli 2012 (SächsABl. S. 1138) und durch
-VwV vom 23. September 2013 (SächsABl. S. 1038)
+vom 25. Juli 2012 (SächsABl. S. 1138), durch
+VwV vom 23. September 2013 (SächsABl. S. 1038) und durch
+VwV vom 27. Januar 2015 (SächsABl.S. 214)
 
-mit Wirkung vom 1. November 2013]
+mit Wirkung vom 1. Januar 2014]
 
 Abschnitt I
 
@@ -177,7 +178,7 @@ Das Einzugsgebiet bestimmt sich nach § 2a Abs 1. Danach liegt die Wohnung im Ei
 
 Trennungsgeld bei vorübergehenden Maßnahmen
 
-Bei Maßnahmen nach § 1 Abs. 2 Nr. 6 bis 9 wird Trennungsgeld auch dann gewährt, wenn die Wohnung im Einzugsgebiet liegt. Das Trennungsgeld wird für die Dauer der Maßnahme, längstens für drei Monate gezahlt. Die Berechnung der Drei-Monats-Frist richtet sich nach § 32 VwVfG in Verbindung mit §§ 186 ff. BGB.
+Bei Maßnahmen nach § 1 Abs. 2 Nr. 6 bis 9 wird Trennungsgeld auch dann gewährt, wenn die Wohnung im Einzugsgebiet liegt. Das Trennungsgeld wird für die Dauer der Maßnahme, längstens für drei Monate gezahlt. Die Berechnung der Drei-Monats-Frist richtet sich nach § 32 VwVfG in Verbindung mit §§ 186 ff.              BGB.
 
 1.3.4
 
@@ -235,9 +236,9 @@ Die Angemessenheit der Wohnung ist nach den familiären Bedürfnissen des Berech
 
 Angemessenheit der Wohnung
 
-| für
+| für wen
 
-| Größe in qm
+| wieviel m²
 
 | für Alleinstehende
 |     45 m²
@@ -343,7 +344,7 @@ Zu Absatz 4
 
 Widerruf beziehungsweise Rücknahme der Zusage der Umzugskostenvergütung
 
-Weder der auf die Zukunft gerichtete Widerruf einer rechtmäßigen (§ 49 VwVfG) noch die Rücknahme einer rechtswidrigen Zusage (§ 48 VwVfG) der Umzugskostenvergütung außerhalb eines Rechtsbehelfsverfahrens begründen einen Anspruch auf Trennungsgeld. Besteht zum Zeitpunkt der Aufhebung der Zusage der Umzugskostenvergütung ein Anspruch, ist Trennungsgeld – nunmehr nach § 1 – weiter zu zahlen.
+Weder der auf die Zukunft gerichtete Widerruf einer rechtmäßigen (§ 49 VwVfG) noch die Rücknahme einer rechtswidrigen Zusage (§ 48              VwVfG) der Umzugskostenvergütung außerhalb eines Rechtsbehelfsverfahrens begründen einen Anspruch auf Trennungsgeld. Besteht zum Zeitpunkt der Aufhebung der Zusage der Umzugskostenvergütung ein Anspruch, ist Trennungsgeld – nunmehr nach § 1 – weiter zu zahlen.
 
 2.4.2
 
@@ -408,7 +409,9 @@ Trennungsreisegeld wird von dem Tage an gewährt, der auf den Tag folgt, an dem 
 a)
 
 Tagegeld (§ 8
-SächsRKG). Die Höhe des Tagegeldes bestimmt sich nach § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 EStG. Nach Maßgabe des § 8 Abs. 2                       SächsRKG kann ein Zuschuss zum Tagegeld gewährt werden. Anstelle des Tagegeldes kann auch eine Aufwandsvergütung nach § 8 Abs. 3
+SächsRKG
+). Die Höhe des Tagegeldes bestimmt sich nach § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 EStG. Nach Maßgabe des § 8 Abs. 2
+SächsRKG kann ein Zuschuss zum Tagegeld gewährt werden. Anstelle des Tagegeldes kann auch eine Aufwandsvergütung nach § 8 Abs. 3
 SächsRKG gewährt werden. Die Kürzungsbestimmungen des § 11 Abs. 1, 2 und 4
 SächsRKG sind uneingeschränkt anzuwenden.
 
@@ -616,7 +619,8 @@ Zu Absatz 1
 
 Anspruchszeitraum
 
-Für die Ermittlung der Anspruchszeiträume gelten die §§ 187 ff. Bürgerliches Gesetzbuch (           BGB). Ist der Anspruchszeitraum ein „halber Monat“, ist eine Frist von 15 Tagen maßgebend und zwar ohne Rücksicht darauf, ob der Kalendermonat mit dem 28., 29., 30. oder 31. Tag endet. Die Monatsfrist bezieht sich nicht auf Kalendermonate, sondern auf Monate im Sinne des Fristenrechts des BGB. Bei einer neuen Maßnahme nach § 1 Abs. 2 wird der Anspruchszeitraum nicht unterbrochen, das heißt eine schon begonnene Frist läuft weiter. Dabei ist es unschädlich, ob zwischen dem Ende der vorausgegangenen Maßnahme und dem Beginn der neuen Maßnahme allgemein dienstfreie Tage oder Tage der Dienstantrittsreise liegen. Die Heimfahrt muss innerhalb des maßgebenden Anspruchszeitraums ausgeführt werden. Liegt zwischen dem letzten Dienstleistungstag am bisherigen und dem Dienstantrittstag am neuen Dienstort Urlaub, Dienstbefreiung oder Erkrankung, beginnt mit dem Tag des Dienstantritts am neuen Dienstort ein neuer Anspruchszeitraum. Urlaub, Dienstbefreiung und Erkrankung führen nicht zu einer Unterbrechung des Anspruchszeitraumes, wenn sie vor dem letzten Dienstleistungstag am bisherigen oder nach dem ersten Dienstleistungstag am neuen Dienstort liegen.
+Für die Ermittlung der Anspruchszeiträume gelten die §§ 187 ff. Bürgerliches Gesetzbuch                (BGB). Ist der Anspruchszeitraum ein „halber Monat“, ist eine Frist von 15 Tagen maßgebend und zwar ohne Rücksicht darauf, ob der Kalendermonat mit dem 28., 29., 30. oder 31. Tag endet. Die Monatsfrist bezieht sich nicht auf Kalendermonate, sondern auf Monate im Sinne des Fristenrechts des
+BGB. Bei einer neuen Maßnahme nach § 1 Abs. 2 wird der Anspruchszeitraum nicht unterbrochen, das heißt eine schon begonnene Frist läuft weiter. Dabei ist es unschädlich, ob zwischen dem Ende der vorausgegangenen Maßnahme und dem Beginn der neuen Maßnahme allgemein dienstfreie Tage oder Tage der Dienstantrittsreise liegen. Die Heimfahrt muss innerhalb des maßgebenden Anspruchszeitraums ausgeführt werden. Liegt zwischen dem letzten Dienstleistungstag am bisherigen und dem Dienstantrittstag am neuen Dienstort Urlaub, Dienstbefreiung oder Erkrankung, beginnt mit dem Tag des Dienstantritts am neuen Dienstort ein neuer Anspruchszeitraum. Urlaub, Dienstbefreiung und Erkrankung führen nicht zu einer Unterbrechung des Anspruchszeitraumes, wenn sie vor dem letzten Dienstleistungstag am bisherigen oder nach dem ersten Dienstleistungstag am neuen Dienstort liegen.
 
 5.1.2
 
@@ -748,9 +752,10 @@ Verbleibt der Bedienstete aufgrund einer dienstlichen Weisung am Dienstort, wird
 
 Zu Absatz 4
 
-Der Trennungsgeldanspruch setzt einen Anspruch auf Besoldung voraus. Für Zeiträume, für die keine Besoldung gezahlt wird, wird auch kein Trennungsgeld gewährt. Für volle Tage des Wegfalls der Besoldung fällt das volle Trennungsgeld weg, das heißt, das Trennungsreisegeld entfällt einschließlich des Übernachtungsgeldes und das Trennungstagegeld einschließlich des Übernachtungsanteils. Das volle Trennungsgeld für einen Tag besteht aus der Summe von Verpflegungs- und Übernachtungsanteil. Der Tag und die darauf folgende Nacht sind für die Abfindung eines vollen Tages eine Einheit. Die Trennungsgeldverordnung bietet keine Rechtsgrundlage, den Übernachtungsanteil zu gewähren oder weiterzugewähren (vergleiche § 4 Abs. 1). Besoldung
+Der Trennungsgeldanspruch setzt einen Anspruch auf Besoldung voraus. Für Zeiträume, für die keine Besoldung gezahlt wird, wird auch kein Trennungsgeld gewährt. Für volle Tage des Wegfalls der Besoldung fällt das volle Trennungsgeld weg, das heißt, das Trennungsreisegeld entfällt einschließlich des Übernachtungsgeldes und das Trennungstagegeld einschließlich des Übernachtungsanteils. Das volle Trennungsgeld für einen Tag besteht aus der Summe von Verpflegungs- und Übernachtungsanteil. Der Tag und die darauf folgende Nacht sind für die Abfindung eines vollen Tages eine Einheit. Die Trennungsgeldverordnung bietet keine Rechtsgrundlage, den Übernachtungsanteil zu gewähren oder weiterzugewähren (vergleiche § 4 Abs. 1).            Besoldung
 
-im Sinne des § 7 Abs. 4 sind bei den Beamten die Dienstbezüge nach § 1 Abs. 2 BBesG oder die Anwärterbezüge nach § 1 Abs. 3 Nr. 1              BBesG, bei den Angestellten, Arbeitern und Auszubildenden die entsprechenden Vergütungen nach dem BAT-O, MTArb-O und MTVAzubi-O. Nach § 3 Abs. 2 und § 6 Abs. 1            MuSchG dürfen in der Regel werdende Mütter in den letzten sechs Wochen vor der Entbindung und Wöchnerinnen in den ersten acht Wochen nach der Entbindung nicht beschäftigt werden. Beamtinnen erhalten während dieser Zeit ihre Dienstbezüge weiter (§ 4 MuSchV). Arbeitnehmerinnen (Angestellte und Arbeiterinnen) erhalten während der Schutzfristen keine Vergütungen nach dem BAT-O oder MTArb-O, sondern Mutterschaftsgeld nach §12 MuSchG und eventuell einen Zuschuss zum Mutterschaftsgeld nach § 14 MuSchG. Im Interesse der trennungsgeldrechtlichen Gleichbehandlung wird das Mutterschaftsgeld den Dienstbezügen gleichgestellt.
+im Sinne des § 7 Abs. 4 sind bei den Beamten die Dienstbezüge nach § 1 Abs. 2 BBesG oder die Anwärterbezüge nach § 1 Abs. 3 Nr. 1              BBesG
+, bei den Angestellten, Arbeitern und Auszubildenden die entsprechenden Vergütungen nach dem BAT-O, MTArb-O und MTVAzubi-O. Nach § 3 Abs. 2 und § 6 Abs. 1 MuSchG dürfen in der Regel werdende Mütter in den letzten sechs Wochen vor der Entbindung und Wöchnerinnen in den ersten acht Wochen nach der Entbindung nicht beschäftigt werden. Beamtinnen erhalten während dieser Zeit ihre Dienstbezüge weiter (§ 4 MuSchV). Arbeitnehmerinnen (Angestellte und Arbeiterinnen) erhalten während der Schutzfristen keine Vergütungen nach dem BAT-O oder MTArb-O, sondern Mutterschaftsgeld nach §12 MuSchG und eventuell einen Zuschuss zum Mutterschaftsgeld nach § 14                MuSchG. Im Interesse der trennungsgeldrechtlichen Gleichbehandlung wird das Mutterschaftsgeld den Dienstbezügen gleichgestellt.
 
 8
 
@@ -799,7 +804,7 @@ Zu Absatz 1
 
 Antrag, Antragsfrist
 
-Die Ausschlussfrist von zwei Jahren kann nicht verlängert werden. Bei Fristversäumnis ist der Anspruch verwirkt. Wiedereinsetzung in den vorigen Stand (§ 32 VwVfG) kann nicht gewährt werden. Das ergibt sich aus der in jeder Hinsicht ausreichend langen Dauer der Frist und ihrer ausdrücklichen Bezeichnung als Ausschlussfrist (§ 32 Abs. 5 VwVfG). Die Frist beginnt mit Ablauf des Kalendermonats, für den das Trennungsgeld zusteht. Wird das Trennungsgeld innerhalb der Ausschlussfrist beantragt, wird es nicht erst vom Antragstag an, sondern von Anfang an, das heißt von dem Tage an gewährt, an dem es erstmalig zusteht.
+Die Ausschlussfrist von zwei Jahren kann nicht verlängert werden. Bei Fristversäumnis ist der Anspruch verwirkt. Wiedereinsetzung in den vorigen Stand (§ 32 VwVfG) kann nicht gewährt werden. Das ergibt sich aus der in jeder Hinsicht ausreichend langen Dauer der Frist und ihrer ausdrücklichen Bezeichnung als Ausschlussfrist (§ 32 Abs. 5              VwVfG). Die Frist beginnt mit Ablauf des Kalendermonats, für den das Trennungsgeld zusteht. Wird das Trennungsgeld innerhalb der Ausschlussfrist beantragt, wird es nicht erst vom Antragstag an, sondern von Anfang an, das heißt von dem Tage an gewährt, an dem es erstmalig zusteht.
 
 9.1.2
 
@@ -1002,7 +1007,7 @@ gelten bei Auslandsverwendung die bundesrechtlichen Vorschriften (§§ 13 und 14
 
 a)
 
-die Verordnung über das Auslandstrennungsgeld (Auslandstrennungsgeldverordnung – ATGV) in der Fassung der Bekanntmachung vom 22. Januar 1998 (BGBl. I S. 189) in der jeweils geltenden Fassung,
+die Verordnung über das Auslandstrennungsgeld (Auslandstrennungsgeldverordnung              – ATGV) in der Fassung der Bekanntmachung vom 22. Januar 1998 (BGBl. I S. 189) in der jeweils geltenden Fassung,
 
 b)
 
@@ -1014,7 +1019,7 @@ die Richtlinie über die Zahlung einer Aufwandsentschädigung in Fällen dienstl
 
 d)
 
-die Verordnung über die Umzugskostenvergütung bei Auslandsumzügen (Auslandsumzugskostenverordnung – AUV) vom 4. Mai 1991 (BGBl. I S. 1072), geändert durch Artikel 1 der Verordnung vom 30. Mai 1997 (BGBl. S. 1325) in der jeweils geltenden Fassung.
+die Verordnung über die Umzugskostenvergütung bei Auslandsumzügen (Auslandsumzugskostenverordnung              – AUV) vom 4. Mai 1991 (BGBl. I S. 1072), geändert durch Artikel 1 der Verordnung vom 30. Mai 1997 (BGBl. S. 1325) in der jeweils geltenden Fassung.
 
 17
 
@@ -1023,7 +1028,8 @@ Hinweise zur Gewährung von Auslandstrennungsgeld und der Aufwandsentschädigung
 a)
 
 Aufgrund der entsprechenden Anwendung werden die bundesrechtlichen Vorschriften dann nicht unmittelbar angewendet, wenn landesrechtliche Besonderheiten bestehen. Da der Unterkunftsanteil des Trennungstagegeldes nach § 11 Abs. 3
-SächsRKG 35 vom Hundert des Trennungstagegeldes beträgt, wird das Trennungstagegeld abweichend von § 6 Abs. 1, § 7 Abs. 1 und § 8 Abs. 1 ATGV um diesen Anteil gemindert.
+SächsRKG
+35 vom Hundert des Trennungstagegeldes beträgt, wird das Trennungstagegeld abweichend von § 6 Abs. 1, § 7 Abs. 1 und § 8 Abs. 1 ATGV um diesen Anteil gemindert.
 
 b)
 
@@ -1031,7 +1037,7 @@ Die Aufwandsentschädigung nach der AER ist nach § 3 Nr. 12 Satz 1 Einkommenste
 
 c)
 
-Bei vorübergehender Auslandsverwendung kann Umzugskostenvergütung nach Maßgabe des § 17 AUV gewährt werden. Nach § 17 Abs. 1 Nr. 1 Buchst. b und § 17 Abs. 1 Nr. 2 AUV hat der Berechtigte einen Anspruch auf Erstattung der notwendigen Auslagen für das Beibehalten der bisherigen Wohnung im Inland. Berechtigte, die zudem einen Anspruch auf Erstattung der Miete am ausländischen Dienstort nach den Abschnitten VI Abs. 1 Nr. 1, VII Nr. 1 AER oder nach Abschnitt IX AER haben, können wählen, welchen Mietersatz sie beantragen. Der Mietersatz wird jedoch nur für eine Wohnung gewährt.
+Bei vorübergehender Auslandsverwendung kann Umzugskostenvergütung nach Maßgabe des § 17 AUV gewährt werden. Nach § 17 Abs. 1 Nr. 1 Buchst. b und § 17 Abs. 1 Nr. 2              AUV hat der Berechtigte einen Anspruch auf Erstattung der notwendigen Auslagen für das Beibehalten der bisherigen Wohnung im Inland. Berechtigte, die zudem einen Anspruch auf Erstattung der Miete am ausländischen Dienstort nach den Abschnitten VI Abs. 1 Nr. 1, VII Nr. 1 AER oder nach Abschnitt IX AER haben, können wählen, welchen Mietersatz sie beantragen. Der Mietersatz wird jedoch nur für eine Wohnung gewährt.
 
 d)
 
@@ -1050,7 +1056,9 @@ Verfahren zur steuerlichen Behandlung von Trennungsgeld
 
 Allgemeines
 
-Trennungsgelder sind gemäß § 3 Nr. 13 Satz 2 Einkommensteuergesetz (           EStG) nur insoweit steuerfrei, als sie die nach § 9 Abs. 1 Satz 3 Nr. 5 und Abs. 5 sowie § 4 Abs. 5 Satz 1 Nr. 5 EStG abziehbaren Aufwendungen nicht übersteigen. Die danach nicht steuerfreien Teile von Trennungsgeldern nach der                       SächsTGV sind sowohl für Arbeitnehmer als auch für Beamte und Richter steuerpflichtiger Arbeitslohn. Dieser steuerpflichtige Arbeitslohn ist für Arbeitnehmer auch sozialversicherungsbeitragspflichtig.
+Trennungsgelder sind gemäß § 3 Nr. 13 Satz 2 Einkommensteuergesetz                (EStG) nur insoweit steuerfrei, als sie die nach § 9 Abs. 1 Satz 3 Nr. 5 und Abs. 5 sowie § 4 Abs. 5 Satz 1 Nr. 5
+EStG abziehbaren Aufwendungen nicht übersteigen. Die danach nicht steuerfreien Teile von Trennungsgeldern nach der
+SächsTGV sind sowohl für Arbeitnehmer als auch für Beamte und Richter steuerpflichtiger Arbeitslohn. Dieser steuerpflichtige Arbeitslohn ist für Arbeitnehmer auch sozialversicherungsbeitragspflichtig.
 
 19
 
@@ -1127,6 +1135,8 @@ Anlagen 1, 3, 5, 6, 9 und 10 neu gefasst durch VwV vom 26. Januar 2010 (MBl. SMF
 Anlagen 3, 4, 5, 7 und 8 neu gefasst durch VwV vom 25. Juli 2012 (SächsABl. S. 1138)
 
 Anlagen 3, 4 und 5 neu gefasst durch VwV vom 23. September 2013 (SächsABl. S. 1038)
+
+Anlagen 1, 3 bis 10 neu gefasst, Anlage 2 aufgehoben durch VwV vom 14. Januar 2015 (SächsABl. S. 215)
 
 Anlage 1
 
