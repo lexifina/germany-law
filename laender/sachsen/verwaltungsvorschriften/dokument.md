@@ -1,108 +1,170 @@
-# 12.03.2013 – 31.12.2014
+# 01.01.2014 – 28.06.2018
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2013-03-12 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12768.1
+- Datum: 2014-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/13952.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
 I.
-Gegenstand des Preises
 
-1.
+Stiftungszweck
 
-Das Staatsministerium für Wissenschaft und Kunst lobt den „Sächsischen Museumspreis“ aus. Der Sächsische Museumspreis wird an nichtstaatliche Museen in Anerkennung der Pflege und der Profilierung der sächsischen Museumslandschaft und für beispielhafte Leistungen verliehen. Er ist zugleich ein Ausdruck der großen Wertschätzung der Öffentlichkeit für die Museen im Freistaat Sachsen und ein Dank an die engagierten Mitarbeiter der sächsischen Museen sowie die vielen ehrenamtlichen Helfer, die die Museen mit Einsatz, Idealismus und Sachkenntnis unterstützen und damit auch das farbenprächtige Mosaik der sächsischen Museumslandschaft pflegen und entwickeln.
-
-2.
-
-Der Sächsische Museumspreis würdigt zugleich den unverzichtbaren Beitrag, den die Museen zum kulturellen Leben in den Regionen leisten. Damit gestalten sie die Identität unseres Landes mit. Er soll sowohl für die Kulturschaffenden wie für die Sponsoren und Förderer als auch für die ehrenamtlichen Helfer in den Museen Anerkennung und Ansporn sein, den kulturellen Reichtum unserer Heimat zu erhalten, zu pflegen und möglichst vielen Menschen zu vermitteln.
+Der Freistaat Sachsen stiftet als staatliche Anerkennung jeweils verbunden mit einer Verleihungsurkunde die Feuerwehr- und Helfer-Ehrenzeichen am Band für den langjährigen aktiven, ehrenamtlichen Dienst in der Freiwilligen Feuerwehr, im Rettungsdienst und in den Einheiten des Katastrophenschutzes und die Feuerwehr- und Helfer-Ehrenzeichen als Steckkreuz für besondere Verdienste um die Entwicklung des Brandschutzes, des Rettungsdienstes oder des Katastrophenschutzes sowie für besonders mutiges und entschlossenes Verhalten im Einsatz.
 
 II.
-Auswahlkriterien
+
+Beschaffenheit, Gestaltung und Trageweise
 
 1.
 
-Der Sächsische Museumspreis wird für hervorragende Projekte von Museen bei der Bewahrung und Vermittlung des natur- und kulturgeschichtlichen Erbes in Sachsen verliehen. Ausgezeichnet werden beispielhafte Neueinrichtungen oder Neugestaltungen mit wegweisenden Ansätzen in der Sammlungspräsentation und der didaktischen Vermittlung, die in den letzten Jahren entstanden sind. Ebenso kann für eine langjährige vorbildliche Museumsarbeit sowohl in ihrer Gesamtheit als auch in einzelnen Teilbereichen wie Sammlungsaufbau, Magazinverwaltung, Dokumentation, Veröffentlichung von Forschungsergebnissen des Museums, Konservierung und Restaurierung der Bestände sowie museumspädagogische Projekte der Preis verliehen werden. Insgesamt muss diese Kernarbeit der Museen nach innen wie nach außen sichtbar wirken. Preiswürdig ist eine zukunftsorientierte Arbeit auf Grundlage einer gesicherten institutionellen und finanziellen Basis mit qualifiziertem Personal.
-
-2.
-
-Weiterhin berücksichtigt werden
+Ehrenzeichen am Band
 
 a)
 
-das Leitbild und das Sammlungskonzept,
+Das Feuerwehr-Ehrenzeichen am Band besteht aus einem gleichschenkligen, geprägten Kreuz an einem weiß-grün-weißen, bronze-, silber- oder goldfarben eingefassten Band. Auf der Vorderseite des Kreuzes ist mittig ein Flammenkreuz konturenhaft dargestellt. In der Mitte des Flammenkreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz und das Flammenkreuz sind rot emailliert und mit einem bronze-, silber- oder goldfarbenen Rand eingefasst. Die Rückseite trägt die Inschrift „Für langjährigen aktiven Dienst“. Die Bandschnalle ist mit einem bronze-, silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen.
 
 b)
 
-der Erhaltungszustand und die Pflege der Sammlungsbestände,
-
-c)
-
-das sammlungsorientierte Sicherheitskonzept,
-
-d)
-
-die wissenschaftliche Aufarbeitung des Sammlungsbestandes,
-
-e)
-
-die ausstellungstechnische und die gestalterische Umsetzung,
-
-f)
-
-die Intensität, Kreativität und der Einfallsreichtum der gesamten Vermittlungsarbeit,
-
-g)
-
-die Gesamtwirkung und -atmosphäre und
-
-h)
-
-der effektive Einsatz der finanziellen Mittel.
-
-3.
-
-Der Sächsische Museumspreis kann unter ein Jahresthema gestellt werden.
-
-III. Dotierung
-
-1.
-
-Der Sächsische Museumspreis ist mit insgesamt 30 000 EUR dotiert. Es werden ein Hauptpreis in Höhe von 20 000 EUR sowie zwei Spezialpreise zu je 5 000 EUR vergeben. Sie werden zusammen mit einer Urkunde durch das Staatsministerium für Wissenschaft und Kunst überreicht.
+Das Helfer-Ehrenzeichen am Band besteht aus einem gleichschenkligen, geprägten Kreuz an einem weiß-grün-weißen, bronze-, silber- oder goldfarben eingefassten Band. Auf der Vorderseite der Schenkel des Kreuzes sind bronze-, silber- oder goldfarbene Eichenblätter dargestellt. In der Mitte des Kreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz ist weiß emailliert und mit einem bronze-, silber- oder goldfarbenen Rand eingefasst. Die Rückseite trägt die Inschrift „Für langjährigen aktiven Dienst“. Die Bandschnalle ist mit einem bronze-, silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen.
 
 2.
 
-Das Preisgeld ist ausschließlich für museale Belange der prämierten Einrichtungen entsprechend der Definition des International Council of Museums (ICOM) und den „Standards für Museen“ des Deutschen Museumsbundes zu verwenden. Die Jury ist in geeigneter Form darüber zu unterrichten.
+Ehrenzeichen als Steckkreuz
 
-IV.
-Jury
+a)
 
-Eine vom Staatsministerium für Wissenschaft und Kunst berufene Jury unterbreitet dem Staatsministerium für Wissenschaft und Kunst die aus den Bewerbungen ausgewählten Vorschläge. Die Jury setzt sich aus fünf bis sieben Mitgliedern zusammen. Neben einem Vertreter des Staatsministeriums für Wissenschaft und Kunst sind Vertreter aus den Bereichen Kultur/Tourismus, Wirtschaft und Medien/Öffentlichkeit vertreten. Ein Vertreter der Sächsischen Landestelle für Museumswesen nimmt mit beratender Stimme an den Jurysitzungen teil und wird die Bewerbungen im Einzelnen wertungsfrei vorstellen. Darüber hinaus können weitere Sachverständige hinzugezogen werden. Sie nehmen ebenfalls mit beratender Stimme an den Sitzungen teil. Die Mitglieder der Jury werden für fünf Jahre berufen. Die Wiederberufung ist möglich. Der Vertreter des Staatsministeriums für Wissenschaft und Kunst führt den Vorsitz.
+Das Feuerwehr-Ehrenzeichen als Steckkreuz besteht aus einem gleichschenkligen, geprägten schwarzen Kreuz. Auf der Vorderseite ist mittig ein rotes Flammenkreuz konturenhaft dargestellt. In der Mitte des Flammenkreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz und das Flammenkreuz sind emailliert und mit einem silber- oder goldfarbenen Rand eingefasst. Die Rückseite ist silber- oder goldfarben. Die Schenkel des Kreuzes verbindet ein silber- oder goldfarbener geprägter Kranz aus Eichenlaub. Die Bandschnalle ist mit einem silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen. In der Mitte ist ein silber- oder goldfarbenes Feuerwehremblem aufgesetzt.
 
-V.
-Juryverfahren
+b)
 
-Die Sachverständigen erfüllen ihre Aufgaben unparteiisch und sind zur Verschwiegenheit verpflichtet. Zu den Sitzungen der Jury erfolgen die Einladungen im Auftrag des Vorsitzenden. Die Beratungen sind nicht öffentlich. Die Vorschläge werden mit einfacher Stimmenmehrheit gefasst und sind zu begründen. Die Jury kann sich eine Geschäftsordnung geben.
+Das Helfer-Ehrenzeichen als Steckkreuz besteht aus einem gleichschenkligen, geprägten schwarzen Kreuz. Auf der Vorderseite der Schenkel sind silber- oder goldfarbene Eichenblätter dargestellt. In der Mitte des Kreuzes ist das emaillierte Wappen des Freistaates Sachsen aufgelegt. Das Kreuz ist emailliert und mit einem silber- oder goldfarbenen Rand eingefasst. Die Rückseite ist silber- oder goldfarben. Die Schenkel des Kreuzes verbindet ein silber- oder goldfarbener geprägter Kranz aus Eichenlaub. Die Bandschnalle ist mit einem silber- oder goldfarben eingefassten weiß-grün-weißen Band bezogen. In der Mitte sind zwei silber- oder goldfarbene Eichenlaubblätter aufgesetzt.
 
-VI.
-Bewerbung
+3.
 
-Um den Sächsischen Museumspreis können sich nichtstaatliche Museen im Freistaat Sachsen als Einzelinstitutionen oder als Zusammenschluss bewerben. Die Bewerbungsanforderungen, Termine sowie gegebenenfalls das jeweilige Jahresthema und die Abgabefristen mit Nennung der Einreichungsstellen werden in dem Ausschreibungsjahr über öffentliche Medien kommuniziert.
+Verleihungsurkunde
 
-VII.
+Die Verleihungsurkunde trägt das Wappen des Freistaates Sachsen, die Unterschrift des Staatsministers des Innern sowie das Siegel des Staatsministeriums des Innern. Der dem Stiftungszweck entsprechende Auszeichnungsanlass ist aufgetragen.
+
+4.
+
+Trageweise
+
+Die Ehrenzeichen sind mittig auf der linken oberen Brustseite der Dienstkleidung in gleicher Höhe nebeneinander zu tragen. Das Ehrenzeichen am Band wird nur in der höchsten verliehenen Stufe (Ziffer III Nr. 1 Buchst. a) getragen. Die Bandschnalle des Ehrenzeichens ist oberhalb der linken Brusttasche jedoch nicht gemeinsam mit den Ehrenzeichen zu tragen. Mehrere Bandschnallen für die Dienstkleidung sind nebeneinander zu tragen.
+
+III.
+
+Ehrenzeichen am Band
+
+1.
+
+Persönliche Voraussetzungen
+
+a)
+
+Das Feuerwehr-Ehrenzeichen am Band wird den Angehörigen der Freiwilligen Feuerwehren, das Helfer-Ehrenzeichen am Band den Mitarbeitern im Rettungsdienst und den Helfern im Katastrophenschutz jeweils in den Stufen Bronze für 10-jährigen, Silber für 25-jährigen und Gold für 40-jährigen aktiven ehrenamtlichen Dienst verliehen.
+
+b)
+
+Die aktive ehrenamtliche Dienstzeit muss ohne wesentliche Unterbrechung erfolgt sein. Wehrdienst, Wehrersatzdienst oder eine nachgewiesene Krankheit gelten nicht als Unterbrechung. Wurde die aktive ehrenamtliche Dienstzeit bei verschiedenen Organisationen nach Buchstabe a geleistet oder wurde sie unterbrochen, sind die Dienstzeiten zusammenzufassen. Bei Doppelzugehörigkeiten in Organisationen nach Buchstabe a wird das Ehrenzeichen nur für einen aktiven ehrenamtlichen Dienst verliehen. Vergleichbare aktive ehrenamtliche Dienstzeiten in anderen Ländern oder anderen Mitgliedstaaten der Europäischen Union werden auf Nachweis angerechnet. Zeiten einer haupt- oder nebenberuflichen Tätigkeit werden nicht berücksichtigt.
+
+2.
+
+Vorschlagsberechtigte
+
+Vorschlagsberechtigt sind
+
+a)
+
+für die Angehörigen der Freiwilligen Feuerwehren die Gemeinden,
+
+b)
+
+für die Mitarbeiter im Rettungsdienst die Rettungszweckverbände und die Landkreise und Kreisfreien Städte, die sich nicht zu einem Rettungszweckverband zusammengeschlossen haben,
+
+c)
+
+für die nicht unter Buchstabe a und b erfassten Helfer im Katastrophenschutz die Landkreise und Kreisfreien Städte,
+
+d)
+
+in den Fällen Buchstaben b und c können auch die privaten Hilfsorganisationen Vorschläge einreichen.
+
+3.
+
+Vorschlagsverfahren
+
+Die Vorschläge für das laufende Jahr sind der Landesdirektion Sachsen getrennt nach Stufen in einer Vorschlagsliste bis zum 31. Januar vorzulegen. Im Falle der kreisangehörigen Gemeinden und der privaten Hilfsorganisationen erfolgt zunächst bis zum 31. Dezember des Vorjahres die Vorlage an den Landkreis oder an die Kreisfreie Stadt. Diese bestätigen die Kenntnisnahme und leiten die Vorschlagslisten bis zum 31. Januar des laufenden Jahres an die Landesdirektion Sachsen weiter. Für die Einreichung der Vorschläge sind die von der Landesdirektion Sachsen vorgegebenen Vorschlagslisten zu verwenden. Die Landesdirektion Sachsen meldet dem Staatsministerium des Innern bis zum 28. Februar des laufenden Jahres den Bedarf an Ehrenzeichen.
+
+4.
+
+Entscheidung über die Auszeichnungsvorschläge
+
+Die Landesdirektion Sachsen entscheidet über die Vorschläge zur Verleihung der Ehrenzeichen am Band. Sie teilt ihre Entscheidungen den Vorschlagsberechtigten auf dem Dienstweg mit. Das Staatsministerium des Innern stellt nach Anforderung der Landesdirektion Sachsen die Ehrenzeichen und die Verleihungsurkunden bereit.
+
+5.
+
 Verleihung
 
-Der Sächsische Museumspreis wird alle zwei Jahre durch das Staatsministerium für Wissenschaft und Kunst auf Grundlage der Vorschläge der Jury verliehen. Ein Rechtsanspruch auf die Vergabe des Preises besteht nicht.
+a)
 
-VIII.
-Inkrafttreten
+Die Feuerwehr-Ehrenzeichen am Band in der Stufe Bronze werden durch die Bürgermeister oder Oberbürgermeister ausgehändigt, die Feuerwehr-Ehrenzeichen in den Stufen Silber und Gold sowie die Helfer-Ehrenzeichen am Band in den Stufen Bronze, Silber und Gold durch die Landräte beziehungsweise Oberbürgermeister. Bei der Verleihung der Feuerwehr-Ehrenzeichen am Band sind die Kreisbrandmeister und die Leiter der Berufsfeuerwehren zu beteiligen.
 
-Diese Verwaltungsvorschrift tritt am Tage nach ihrer Unterzeichnung in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Vergabe eines Museumsförderpreises vom 9. Juli 2007 (SächsABl. S. 1000), zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2011 (SächsABl. SDr. S. S 1790), außer Kraft.
+b)
 
-Dresden, den 11. März 2013
+Die Übergabe nach Buchstabe a kann im Einzelfall durch den Staatsminister des Innern oder einen von ihm Beauftragten erfolgen.
 
-Die Staatsministerin für Wissenschaft und Kunst
+c)
 
-Prof. Dr. Dr. Sabine Freifrau von Schorlemer
+Dem Auszuzeichnenden ist mit dem Ehrenzeichen am Band die Verleihungsurkunde in einer dem Anlass entsprechenden Form zu übergeben. Zugleich soll der Dank nach der Verordnung des Sächsischen Staatsministeriums des Innern über die Gewährung von Jubiläumszuwendungen an ehrenamtlich Tätige in den Freiwilligen Feuerwehren, den Rettungsdiensten und den Einheiten des Katastrophenschutzes im Freistaat Sachsen (Sächsische BRK-Jubiläumszuwendungsverordnung –
+SächsBRKJubZVO) vom 16. März 2011 (SächsGVBl. S. 55), zuletzt geändert durch Verordnung vom 21. Mai 2013 (SächsGVBl. S. 339), ausgesprochen werden.
+
+IV.
+
+Ehrenzeichen als Steckkreuz
+
+1.
+
+Persönliche Voraussetzungen
+
+Die Feuerwehr- und Helfer-Ehrenzeichen als Steckkreuz werden für besondere Verdienste um die Entwicklung des Brandschutzes, des Rettungsdienstes oder des Katastrophenschutzes sowie für besonders mutiges und entschlossenes Verhalten im Einsatz verliehen. Im Einzelfall kann eine Verleihung postum erfolgen. Die Vorschläge müssen eine ausreichende Begründung der Verleihungsvoraussetzungen enthalten sowie eine Beurteilung der Persönlichkeit ermöglichen. Aus der Begründung für einen Vorschlag muss im besonderen Maße der außerordentliche Verdienst des für die Verleihung mit dem Ehrenzeichen als Steckkreuz Vorgeschlagenen hervorgehen. Sie sollten sich die besonderen Verdienste nicht nur in der eigenen Feuerwehr oder der Gemeinde und der Hilfsorganisation, sondern auch über deren Grenzen hinaus erworben haben. Die Aufzählung von Funktionen und damit verbundenen Aktivitäten reichen nicht aus.
+
+2.
+
+Vorschlagsberechtigte
+
+Vorschlagsberechtigt sind die unter Ziffer III Nr. 2 Genannten sowie der Präsident der Landesdirektion Sachsen, der Vorsitzende des Landesfeuerwehrverbandes, die Landräte, die Vertreter der Landesorganisationen der privaten Hilfsorganisationen und das Staatsministerium des Innern.
+
+3.
+
+Vorschlagsverfahren
+
+a)
+
+Bei den Vorschlägen ist das Muster nach Anlage zu verwenden. Der Vorschlag ist schriftlich zu begründen. Die Vorschläge der Gemeinden, Landkreise und Kreisfreien Städte sind in zweifacher Ausfertigung auf dem Dienstweg der Landesdirektion Sachsen vorzulegen. Zu den Vorschlägen der kreisangehörigen Gemeinden haben der Kreisbrandmeister oder der Leiter der Berufsfeuerwehr Stellung zu nehmen, bei Vorschlägen zum Helfer-Ehrenzeichen der Landkreis beziehungsweise die Kreisfreie Stadt. Die Vorschläge des Vorsitzenden des Landesfeuerwehrverbandes sind der Landesdirektion Sachsen vorzulegen, bei Wohnorten außerhalb des Freistaates Sachsen dem Staatsministerium des Innern. Die Landesdirektion Sachsen nimmt zu den bei ihr eingereichten Vorschlägen Stellung und legt sie mit den eigenen Vorschlägen dem Staatsministerium des Innern vor.
+
+b)
+
+Wegen der herausragenden Bedeutung des Ehrenzeichens als Steckkreuz soll die Anzahl der jährlichen Verleihungen auf höchstens 60 Steckkreuze begrenzt werden. Von der Landesdirektion Sachsen können bis zu 45 Vorschläge in der Stufe Silber und bis zu 15 Vorschläge in der Stufe Gold eingereicht werden. Hiervon abweichende Regelungen können durch das Staatsministerium des Innern getroffen werden.
+
+4.
+
+Entscheidung und Verleihung
+
+Das Staatsministerium des Innern entscheidet über die Vorschläge zur Verleihung des Ehrenzeichens als Steckkreuz. Die Verleihung erfolgt durch den Staatsminister des Innern oder einen von ihm Beauftragten.
+
+V.
+
+Inkrafttreten und Außerkrafttreten
+
+Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Januar 2014 in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Stiftung eines Feuerwehr-Ehrenzeichens (VwV Feuerwehr-Ehrenzeichen – VwVFeuEZ) vom 29. April 2008 (SächsABl. S. 971), geändert durch Ziffer III der Verwaltungsvorschrift vom 1. März 2012 (SächsABl. S. 336, 337), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), außer Kraft.
+
+Dresden, den 8. April 2014
+
+Der Staatsminister des Innern
+
+Markus Ulbig
+
+Anlage
