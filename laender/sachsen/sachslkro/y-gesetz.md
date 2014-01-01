@@ -1,3 +1,4 @@
+# Landkreisordnung für den Freistaat Sachsen (SächsLKrO)
 Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet des Landkreises
 Erster Abschnitt Rechtsstellung und Aufgaben
@@ -14,13 +15,13 @@ Zweiter Teil Einwohner und Bürger des Landkreises
 § 9 Rechtsstellung der Einwohner
 § 10 Unterrichtung und Beratung der Einwohner
 § 11 Petitionsrecht
-§ 12 Anschluß- und Benutzungszwang
+§ 12 Anschluss- und Benutzungszwang
 § 13 Bürger des Landkreises
 § 14 Wahlrecht
 § 15 Ehrenamtliche Tätigkeit
 § 16 Ablehnung ehrenamtlicher Tätigkeit
-§ 17 Pflichten ehrenamtlich tätiger Bürger
-§ 18 Ausschluß wegen Befangenheit
+§ 17 Pflichten ehrenamtlich Tätiger
+§ 18 Ausschluss wegen Befangenheit
 § 19 Entschädigung für ehrenamtliche Tätigkeit
 § 20 Einwohnerantrag
 § 21 Bürgerbegehren
@@ -40,7 +41,7 @@ Erster Abschnitt Kreistag
 § 32 Vorsitz im Kreistag, Einberufung der Sitzungen
 § 33 Öffentlichkeit der Sitzungen
 § 34 Verhandlungsleitung, Geschäftsgang
-§ 35 Beschlußfassung
+§ 35 Beschlussfassung
 § 36 Niederschrift
 § 37 Beschließende Ausschüsse
 § 38 Zusammensetzung der beschließenden Ausschüsse
@@ -74,7 +75,7 @@ Vierter Teil Wirtschaft des Landkreises
 § 63 Unternehmen und Beteiligungen des Landkreises
 § 64 Prüfungswesen
 Fünfter Teil Aufsicht
-§ 65
+§ 65 Aufsicht, Rechtsaufsichtsbehörden
 Sechster Teil Sonstige Vorschriften
 § 66 Ordnungswidrigkeiten
 § 67 Maßgebende Einwohnerzahl
@@ -82,7 +83,7 @@ Sechster Teil Sonstige Vorschriften
 § 68 Rechtsverordnungen
 § 69 Muster für die Haushaltswirtschaft
 § 70 Sonstige Verwaltungsvorschriften
-§ 71 Änderung des Sächsischen Naturschutzgesetzes
-§ 72 Änderung der Gemeindeordnung für den Freistaat Sachsen
+§ 71 (weggefallen)
+§ 72 (weggefallen)
 § 73 Übergangsvorschriften
-§ 74 Inkrafttreten
+§ 74 (Inkrafttreten)
