@@ -1,0 +1,2 @@
+# § 5a Aufhebung von Richtervorbehalten
+Die Richtervorbehalte nach dem Rechtspflegergesetz (RPflG) vom 5. November 1969 (BGBl. I S. 2065), zuletzt geändert durch Artikel 3 des Gesetzes vom 15. März 2012 (BGBl. II S. 178), in der jeweils geltenden Fassung, werden für die Geschäfte des § 19 Abs. 1 Satz 1 Nr. 2 bis 5 RPflG aufgehoben. Soweit bei diesen Geschäften Einwände gegen den Erlass der beantragten Entscheidung erhoben werden, hat der Rechtspfleger das Verfahren dem Richter zur weiteren Bearbeitung vorzulegen.
