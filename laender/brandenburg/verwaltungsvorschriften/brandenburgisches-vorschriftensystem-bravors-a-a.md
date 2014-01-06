@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2013-10-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_ansprechpartner_2013
+- Datum: 2014-01-06 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/bbg_brkgvwv_2014
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,12 +27,30 @@ A |
 
 Aktuelle Fassung
 
-Aufhebung eines Erlasses
+Reform des steuerlichen Reisekostenrechts ab 1. Januar 2014
 
-vom 27. August 2013
+vom 6. Januar 2014
 
-(ABl./13, [Nr. 38], S.2512)
+(ABl./14, [Nr. 3], S.75)
 
-Die mit Wirkung vom 1. November 2009 im Geschäftsbereich des Ministers für Wirtschaft und Europaangelegenheiten errichtete Einrichtung „Einheitlicher Ansprechpartner für das Land Brandenburg“ wird mit Ablauf des 30. September 2013 geschlossen und der Erlass des Ministers für Wirtschaft zur Errichtung der Einrichtung „Einheitlicher Ansprechpartner für das Land Brandenburg“ (EAPBbg) vom 6. Oktober 2009 (ABl. S. 2053) wird aufgehoben.
+Berichtigung der Bekanntmachung
 
-Dieser Erlass tritt am 1. Oktober 2013 in Kraft.
+des Ministeriums der Finanzen
+
+zur Reform des steuerlichen Reisekostenrechts
+
+ab 1. Januar 2014
+
+Bekanntmachung des Ministeriums der Finanzen
+
+- 45-FD 2700.3-2013#001 -
+
+Vom 6. Januar 2014
+
+„berichtigt durch die Bekanntmachung vom 6. Januar 2014 (ABl. 03/14 S. 75)“.
+
+Die Bekanntmachung des Ministeriums der Finanzen zur
+
+Reform des steuerlichen Reisekostenrechts - 45-FD 2700.3-2013#001 - vom 29. November 2013 (ABl. S. 3102, 3105) ist wie folgt zu berichtigen:
+
+In der Zweiten Verwaltungsvorschrift zur Änderung der Allgemeinen Verwaltungsvorschrift des Landes Brandenburg zum Bundesreisekostengesetz vom 29. November 2013 (Anlage zum Rundschreiben des Ministeriums der Finanzen - 45-FD 2700.3-2013#001 - vom 29. November 2013) ist im Hinweis zu Textziffer 6.1.1 die Angabe „§ 9 Absatz 4a Satz 3 BRKG“ durch die Angabe „§ 9 Absatz 4a Satz 3 EStG“ zu ersetzen.
