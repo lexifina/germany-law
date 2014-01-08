@@ -1,0 +1,8 @@
+# TOP 7.6: ÖPNV-Tarifzone B nach Brandenburg ausweiten und P+R-Plätze im Umland schaffen (Zwischenbericht)
+
+- Sitzung: 26. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf (2014-01-08)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=25376
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=25376
