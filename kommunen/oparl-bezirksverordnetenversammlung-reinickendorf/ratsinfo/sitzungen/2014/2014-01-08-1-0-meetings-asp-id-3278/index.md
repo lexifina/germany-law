@@ -1,0 +1,64 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-01-08T17:00:00+01:00
+- Ende: 2014-01-08T18:30:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3278
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3278
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=74743
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 26. Sitzung der BVV am 08.01.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 26. Sitzung der BVV am 08.01.2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 26. Sitzung der BVV am 08.01.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Unfallschwerpunkt BAB-Abfahrt Waidmannsluster Damm (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Hinweis auf Radfahrer an der B96 (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Ausweichverkehr dokumentieren - Verkehrszählung am Zeltinger Platz (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Mastentyp bei neuer elektrischer Beleuchtung beibehalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Reinigung des Seggeluchbeckens - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: ÖPNV-Tarifzone B nach Brandenburg ausweiten und P+R-Plätze im Umland schaffen (Zwischenbericht) - überwiesen
+- TOP 7.7: Ausweitung Tempo 30 vor Spielplatz in der Reginhardstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Spielplätze Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Mindeststandard für Lernmittel seit dem Schuljahr 2012/2013 - überwiesen
+- TOP 7.10: Müllentsorgung Bahndamm Schönholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Bedarfsgerechte Leerung der Mülleimer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschluss des Bebauungsplanentwurfs 12-41B vom 10. Oktober 2012 mit Deckblatt vom 21. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-41B für die Grundstücke Zeltinger Platz 1 / 17, 2 / 18, Wiltinger Straße 1 - 3, Zeltinger Straße 1, 2, Edelhofdamm 1, 2 sowie Burgfrauenstraße 1 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 9.2: Beschluss des Bebauungsplanentwurfes 12-40B vom 10. Oktober 2012 und des Beschlusses über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-40B für die Grundstücke Falkenplatz 1/Eichelhäherstraße 26, 2, 3/9A, 6, 10, 8/Habichtstraße 1, Stößerstraße 2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 5/9, 2/10A, Habichtstraße 1A/5, 2, Rabenstraße 1/3, 2/4A u.v.m. im Bezirk Reinickendorf, Ortsteil Konradshöhe. - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Elektrofahrzeuge fürs Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Parkraumsituation an den Frohnauer Plätzen verbessern! - in der BVV abgelehnt
+- TOP 10.3: Jugendsozialarbeit ausweiten! - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Familienrat - erledigt
+- TOP 10.5: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" in öffentlichen Einrichtungen verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Count-Down-Ampel auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Sicherheit für Radfahrer in Frohnau erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Berufsorientierung in Schulen mit den Eltern stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: BVG Anzeigetafeln in Frohnau instandsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Fahrradschutzstreifen Heiligenseestraße (1) - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schulwegsicherung Jean-Jaurès-Straße mit Tempo 30 - überwiesen
+- TOP 12.2: Höhenverstellbares Rednerpult - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Ruppiner Chaussee für Radfahrer und Fußgänger freigeben - überwiesen
+- TOP 12.4: Nachfrist Wahlplakate - überwiesen
+- TOP 12.5: Kalender für integrative Feste in Reinickendorf - überwiesen
+- TOP 12.6: Innovationspreis "Pflege" - überwiesen
+- TOP 12.7: Öffentlicher Bücherschrank auch in Reinickendorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Keine Tabakwerbung in Reinickendorf - überwiesen
+- TOP 13.2: Sicherung S-Bahntrasse - ohne Änderungen in der BVV beschlossen
