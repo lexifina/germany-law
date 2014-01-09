@@ -1,0 +1,84 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2014-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3134483
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3134483
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung des Projektes "MVG Rad und Mobilitätsstationen"
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Standortsuche für einen Kindergarten in Sendling
+- TOP 3.2.: Schaffung einer Spielstätte für Bikepolo
+- TOP 3.3.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen
+- TOP 3.4.: Bericht über die REGSAM-Arbeit
+- TOP 3.5.: Neue REGSAM-Moderatorin Region 6 / 7
+- TOP 3.6.: Bericht "Sozialreferat trifft BAs"
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Neubau eines Schulkomplexes mit Koop an der Meindlstraße 8; Nutzung des Schulhofes und der Sportanlage auch für Externe Realisierung einer Anwohnerparkgarage - <div>zur Kenntnis genommen</div>
+- TOP 5.1.: Freischankfläche Implerstr. 49
+- TOP 6.1.: Bericht aus der Sitzung des Unterausschusses Verkehr vom 12.12.13
+- TOP 6.2.: Nächtliche Lärmbelästigung durch LKW-Verkehr im Bereich der Laderampe Gotzingerstr. 5
+- TOP 6.3.: Entlastung der Meindlstraße von Durchgangs- / Umgehungsverkehr durch Schaffung einer unechten Einbahnstraße ab der Lindenschmitstraße in südlicher Richtung bis zur Albert-Roßhaupter-Straße oder durch vorübergehende Kappung der Meindlstraße nördlich der Baustellenausfahrt zum Anwesen Meindlstraße 8 (zunächst für die Zeit der Baustelleneinrichtung) - <div>nach Antrag</div>
+- TOP 6.4.: Aufhebung der Anfahrtszone für Schulbusse in der Pfeuferstraße 1
+- TOP 6.5.: Grenzmarkierung in der Daiserstr. 28
+- TOP 6.6.: Obst- und Gemüsestand am Harras
+- TOP 6.7.: Christkindlmarkt am Harras
+- TOP 6.8.: Meldelisten Bauvorhaben SWM
+- TOP 7.1.: 100. Geburtstag von Sigi Sommer am 23.08.2014; Sendling Buch
+- TOP 7.2.: Finanzierung eines Sendlinger Stadtteilführers für Senioren; ca. ? 1000,-
+- TOP 7.3.: Budgetantrag "Neuanstrich Schulhofmauer Implerschule" - Kostenübernahme durch das Referat für Bildung und Sport
+- TOP 7.4.: Abrechnung der Aufwandsentschädigung nach § 18 BA-Satzung
+- TOP 7.5.: Finanzierung von Einwohnerversammlungen
+- TOP 7.6.: Zuteilung einer städtischen Mailadresse an BA-Vorsitzende
+- TOP 7.7.: WLAN für den Sitzungssaal des SBH Meindlstraße
+- TOP 7.8.: WLAN-Netz für den Harras
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Hans-Preißinger-Str. 8
+- TOP 8.3.: Bauvorhaben Plinganserstr. 33; Freihaltung der Fenster im Ergeschoss von Regalen und Werbung
+- TOP 8.4.: Bauvorhaben Senserstr. 3; Zweckentfremdungsverfahren
+- TOP 8.5.: Bauvorhaben Senserstr. 14
+- TOP 8.6.: Bauvorhaben Aberlestr. 14
+- TOP 8.7.: Bauvorhaben Brudermühlstr. 26 - 30 - Antwortschreiben
+- TOP 8.8.: Bauvorhaben Daiserstr. 51 - Antwortschreiben
+- TOP 8.9.: Flächenhaften Naturschutz in der Verwaltung stärken
+- TOP 8.10.: Stellplatzschlüssel im Wohnungsbau
+- TOP 8.11.: Bezahlbarer Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter
+- TOP 9: Baureferat
+- TOP 9.1.: Fußgängerweg zwischen Leipartstraße und Zechstraße; Verbreiterung des bestehenden Weges durch Hinzunahme eines Streifens des städtischen Grundstücks (FlNr. 9314 / 0) Schaffung einer getrennten Führung von Fuß- und Radweg - <div>Rückschreiben an Referat</div>
+- TOP 9.2.: Errichtung einer öffentlichen Toilettenanlage im Bereich der Spielfläche des Bahndeckels Theresienhöhe - <div>Rückschreiben an Referat</div>
+- TOP 9.3.: Straßenbaumaßnahme Plinganserstr. zwischen Harras und Dudenstraße
+- TOP 9.4.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen
+- TOP 9.5.: Mähkonzepte auf städtischen Grünflächen und Straßenbegleitgrün; Schaffung von Stellplätzen für Bienen
+- TOP 9.6.: Umprofilierung der Meindlstraße; zeitliche Planung der Baumaßnahme - <div>Zustimmung, einstimmig</div>
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Karwendelstr. 28
+- TOP 10.2.: Baumfällung Brudermühlstr. 45
+- TOP 10.3.: Baumfällung Meindlstr. 5
+- TOP 10.4.: Vorläufige Sicherung des Überschwemmungsgebietes an der Isar
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Ausstattung der Platzfläche am Harras mit Blumenkästen und zusätzlichen Sitzbänken; stärkere Beteiligung der McDonald´s Filiale bei der Müllbeseitigung Empfehlung Nr. 08-14 / E 01988 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 15.10.2013 - <div>ergänzender Antrag</div>
+- TOP 2: (E) Wasserlache am Fußgängerüberweg Plinganserstr. West / Sylvensteinstr. Nord Empfehlung Nr. 08-14 / E 01968 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 15.10.2013 - <div>Zustimmung, einstimmig</div>
+- TOP 3: (E) Verursacher für Straßenschäden haftbar machen Empfehlung Nr. 08-14 / E 01977 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 15.10.2013 - <div>Zustimmung, einstimmig</div>
+- TOP 3.4.: Behindertentoiletten bekannt machen BV-Empfehlung Nr. 1979 am 15.10.2013
+- TOP 12: Anträge
+- TOP 12.1.: Lageplan von Spielplätzen im Stadtviertel und Umgebung
+- TOP 12.2.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt"; Ideenworkshop über die nach der Neugestaltung der Großmarkthalle frei werdenden Flächen nordwestlich der alten Thalkirchner Straße in Sendling
+- TOP 13: Verschiedenes
+- TOP 13.1.: Drogeriemärkte in Sendling im Umfeld der Brudermühl- / Implerstraße
+- TOP 13.2.: Wochenmarkt am Margaretenplatz; Umfrage zum Standort
+- TOP 13.3.: Neuer Standort für die Münchner City-Logistik an der Gleisanlage des Südbahnhofes und am Nordrand des Großmarkthallengeländes
+- TOP 13.4.: 175jähriges Jubiläum der Flaucheranlagen; Besprechungsprotokoll vom 19.11.13
+- TOP 13.5.: Containerstandort Meindlstraße 16
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
