@@ -1,0 +1,114 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3193666
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3193666
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Bürgeranliegen des Elternbeirates der Grund- und Mittelschule und des Tagesheims an der Ichostraße bezüglich der verkehrlichen Neuordnung der Tegernseer Landstraße
+- TOP 2.2.: Machbarkeitsstudie zur verkehrlichen Neuordnung der Tegernseer Landstraße, Beteiligung der Öffentlichkeit, Bürgeranliegen vom 18.12.2013
+- TOP 2.3.: Untertunnelung Giesinger Berg, Bürgeranliegen von Herrn C. vom 02.01.2014
+- TOP 2.4.: Parkplätze in der TeLa Süd, Bürgeranliegen von Herrn F. vom 08.01.2014
+- TOP 2.5.: Antrag auf Überprüfung alternativer Standorte für den Versorger in der Neubauphase der europäischen Schule, Bürgeranliegen von Herrn M. vom 11.01.2014
+- TOP 2.6.: Beschwerde über nochmalige Verbindungsnachteile, Bürgeranliegen von Herrn M. vom 11.01.2014
+- TOP 2.7.: Umgestaltung Tegernseer Landstraße/-Platz, Bürgeranliegen von Frau H. vom 14.01.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Anträge aus der Einwohnerversammlung vom 12.12.2013, "Aufwertung Tegernseer Landstraße; Vorstellung der Rahmenplanung": 1. Demontage der Halteverbotsschilder vor dem Anwesen Aignerstr. 31, Bürgeranliegen von Herrn S. 2. Verkehrsberuhigung der Aignerstraße zwischen Gietlstraße und Ichostraße, Bürgeranliegen von Herrn R. und Frau S. 3. Lärmschutzmaßnahmen für die Martin-Luther-Straße, Bürgeranliegen von Frau S. 4. Reduzieren einer zusätzlichen Belastung der Martin-Luther-Straße, Bürgeranliegen von Herrn M. 5. Begrünung der Tegernseer Landstraße, Bürgeranliegen von Frau B. 6. Umsetzung der Variante 1 (Planfall A), Bürgeranliegen von Frau R. 7. Einbau von Schallschutzfenstern in der Ichoschule, Bürgeranliegen von Frau R. 8. Einführung einer Tempo-30-Zone in der Silberhornstraße und der Ichostraße, Bürgeranliegen von Frau R. 9. Einrichtung einer Ampel auf Höhe der Aignerstraße, Bürgeranliegen von Frau R. 10. Bau einer Brücke am Giesinger Berg, Bürgeranliegen von Herrn R. 11. Giesinger Berg: Bau einer oberirdischen statt einer unterirdischen Querung 12. Anzahl der Kurzzeit-Parkplätze erhalten, Bürgeranliegen von Herrn F. 13. Belieferung der Geschäfte ohne Blockierung des Verkehrs, Bürgeranliegen von Herrn F. 14. Mehr Fahrradabstellmöglichkeiten, Bürgeranliegen von Herrn F. 15. Zugang zu den Geschäften muss während der Bauarbeiten erhalten bleiben, Bürgeranliegen von Herrn F. ,16. Bessere Querungsmöglichkeiten der Tegernseer Landstraße, Bürgeranliegen von Herrn F.
+- TOP 3.2.: 17. Tempo 30, Werinherstraße zwischen Herzogstandstraße und Heimgartenstraße, Bürgeranliegen von Herrn B.
+- TOP 3.3.: zu 3. Gutachten TRANSVER zur Vehrkehrlichen Neuordnung der Tegernseer Landstraße, Bürgeranliegen von Herrn R. (vertagt aus der BA-Sitzung vom 10.12.2013)
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Budget der Bezirksausschüsse, Antragsteller: Ensemble Index München, Veranstaltung Konzertreihe ?on the track? ab 21.02.2014
+- TOP 4.2.: Budget der Bezirksausschüsse, Antragsteller: Regsam, FAK Kinder Jugend Familie, Layout und Druck der Postkarte ?Kinder, Jugend und Familie in Giesing?
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Budget der Bezirksausschüsse, Antragsteller: Ensemble Index München, Konzertreihe "on the track", Antragssumme: 2.244,00 ?
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung der Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund 1. in der Severinstraße/Ecke Werinherstraße, Beschlussvorlage des KVR vom 09.12.2013, 2. in der Tegernseer Landstraße 15, Beschlussvorlage des KVR vom 09.12.2013
+- TOP 0.1.: Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtpl. u. Bauordnung Katalog Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), Weinbauernstr. 15, Nachtrag des Rückgebäudes (ehem. Feuerlöschrequisitenhaus) in die Denkmalliste; Zuleitung der Unteren Denkmalschutzbehörde vom 05.12.2013 mit der Bitte um Kenntnisnahme u. ggf. Stellungnahme
+- TOP 0.2.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 5.1.3.2.1 Lincolnstr. 64, Neubau eines Pflegeheims (132 Plätze) mit betreutem Wohnen (19 WE), Dienstwohnungen (10 WE) und Tiefgarage (21 Stpl.), Anhörung PlanR vom 12.12.2013,
+- TOP 0.3.: Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse, Projektname: Bebauungsplan mit Grünordnung Nr. 1979 - Werner-Schlierf-Straße und Baumplatz (ehem. Agfa-Gelände), Anhörung BauR vom 17.12.2013
+- TOP 0.4.: Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5, 1. Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbs mit Realisierungsteil für das Verwaltungsgebäude sowie Ergebnis der Überarbeitung 2. Darstellung der bislang durchgeführten Öffentlichkeits- Behörden- sowie Bezirksausschussbeteiligung 3. Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076, Regerstraße (nordwestlich), Welfenstraße (südlich), und Ohlmüllerstraße (westlich) - Einleitung eines Verfahrens für einen vorhabenbezogenen Bebauungsplan, Qualifizierung des Aufstellungsbeschlusses Nr. 2076 vom 24.10.2012 - Aufhebung des Geltungsbereiches des Aufstellungsbeschlusses Nr. 2076 vom 24.10.2012 im Bereich des zukünftigen Verwaltungsgebäudes der Paulaner Brauerei an der Ohlmüllerstraße 4. Empfehlungen der außerordentlichen Bürgerversammlung des Stadtbezirks 5 Au-Haidhausen am 04.06.2013, Anhörung des PlanR vom 03.01.2014
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.4.: Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern, Antrag Nr. 08-14 / A04209, Berücksichtigung von Beschäftigten in Mangelberufen/nachgefragten Sozialberufen in den städtischen Wohnungsförderprogrammen, Antrag Nr. 08-14 / A 04557, Sitzungsvorlage Nr. 08-14 / V 13430, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 0.5.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Verbesserung des Freizeitangebots auf dem Freizeitgelände an der Ichostraße, Bürgeranliegen von Herrn J. (vertagt aus der BA-Sitzung vom 10.12.2013)
+- TOP 0.2.: Antrag auf Schaffung einer Spielstätte für BikePolo, Bürgeranliegen vom 29.11.2013 (vertagt aus der BA-Sitzung vom 10.12.2013)
+- TOP 0.1.: Sachbericht der EKI Mäcki Löffel e.V. vom 02.12.2013
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Unterstützung von kostenfreien Plätzen im Johanniter LILALU-Ferienprogramm 2013
+- TOP 0.4.: Verlängerung des Gehweggeländers im Bereich der Grundschule an der Ichostraße, Antwort des BauR vom 19.12.2013
+- TOP 0.5.: Quartierbezogene Bewohnerarbeit, Produkt 60 4.1.7, Wirkungsanalyse, Ergebnisse der Studie der Hochschule München, Nachbarschaftstreffs auf dem Prüfstand, Antrag Nr. 08-14 / A 02929 der Stadtratsfraktion der FDP vom 23.11.2011, Sitzungsvorlage Nr. 08-14 / V 13224, Beschluss des Sozialausschusses vom 05.12.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der St.-Bonifatius-Str.; Anhörung durch das Kreisverwaltungsreferat vom 19.12.2013
+- TOP 0.2.: Lichtzeichenanlagen-Bauprogramm 2014, Anhörung des KVR vom 07.01.2014
+- TOP 0.1.: Aufwertung der Tegernseer Landstraße zwischen St.-Bonifatius-Str. und Candidstraße, Schreiben des BA 5 vom 21.11.2013
+- TOP 0.2.: Handlungsprogramm Mittlerer Ring, Sachstand und weiterer Handlungsbedarf - Straßennetz im Münchner Südwesten entlasten, Antrag Nr. 02-08 / A 03614 - Qualifizierter Abschluss der Ausbaumaßnahmen am Mittleren Ring in München, Antrag Nr. 08-14 / A 01557 - Hadern und Sendling-Westpark vom Autobahn-Verbindungsverkehr wirksam entlasten, Antrag Nr. 08-14 / A 01620 - Qualifizierter Abschluss der Ausbaumaßnahmen am Mittleren Ring in München - Sitzungsvorlage zu FREIE-WÄHLER-Antrag 08-14 / A 01557 vom 15.10.2010, Antrag Nr. 08-14 / A 03865 - Ein Englischer Garten, Antrag Nr. 08-14 / B 04337 - Provisorischer Umbau der Staustelle Isarring/Ifflandstraße, Antrag Nr. 08-14 / A 04154 neu: - Provisorium und Tunnel Englischer Garten, Antrag Nr. 08-14 / A 04865, Sitzungsvorlage Nr. 08-14 / V 10707, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 0.3.: Handlungsprogramm Mittlerer Ring - Bericht über Ergebnisse der Machbarkeitsuntersuchungen zu baulichen Maßnahmenkonzepten zur Verbesserung der Lärm- und Luftschadstoffsituation an der Landshuter Allee und Tegernseer Landstraße - Weiteres Vorgehen, Sitzungsvorlage Nr. 08-14 / V 13576 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 und der Vollversammlung vom 18.12.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Ausweichroute für Mountainbiker im Perlacher Forst
+- TOP 0.1.: Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 08-14 / A 04569 der Stadtratsfraktion DIE GRÜNEN / Rosa Liste vom 13.08.2013 Sitzungsvorlage Nr. 08-14 / V 13318 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013
+- TOP 0.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Waldsassener Str. 21, Bescheid vom 17.12.2013, 2. Fasangartenstr. 164, Bescheid vom 17.12.2013, 3. Fasangartenstr. 98, Bescheid vom 18.12.2013, 4. Sachranger Str. 8-10, Bescheid vom 02.01.2014
+- TOP 0.3.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion DIE GrÜNEN/RL vom 07.06.2013, Sitzungsvorlage Nr. 08-14 / V 13354, Beschluss des Bauausschusses vom 10.12.2013
+- TOP 0.4.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 25.11.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Anzeige für öffentliche Veranstaltungen; Ort: Walchenseeplatz Flohmarkt am 01.05.2014 und 27.07.2014, Spielmobil, Sommertreff April bis September 2014 E-Mail des KVR vom 17.12.2014 mit der Bitte um Kenntnisnahme oder ggf. Stellungnahme
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Edelweißstr. 1, 1 Eberesche, Antrag vom 20.11.2013, 2. Kapellenfeldstraße 7a, 1 Nordmanntanne, Antrag vom 20.11.2013, 3. Schwanseestr. 57, 2 Linden, Antrag vom 16.12.2013
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung, Anhörung des KVR vom 17.12.2013
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Haushaltsplan 2014 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 13516, Beschluss der Vollversammlunge des Stadtrates vom 18.12.2013, Hinweis! Unterlage zu umfangreich, bitte Unterlagen im RIS nachschlagen oder in der Geschäftsstelle anfordern
+- TOP 7.2.: Abrechnung der Aufwandsentschädigungen nach § 18 BA-SAtzung; hier: steuerliche Behandlung des Abrechnungsjahres 2013 und Abrechnung der Aufwandsentschädigungen im Jahr 2014, Information des Direktorium vom 02.12.2013
+- TOP 7.3.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren, Beschluss der Vollversammlung des Stadtrats vom 28.11.2012, Sitzungsvorlage Nr. 08-14 / V 08102, Frühzeitige Bürgerbeteiligung bei Bauvorhaben auch für die bekannten Bürgerinitiativen und die betroffenen Bürgerinnen und Bürger, Antrag des Bezirksausschusses 13 - Bogenhausen Nr. 08-14 / B 04822 vom 147.05.2013, Sitzungsvorlage Nr. 08-14 / V13605, Beschluss des Verwaltungs- und Personalausschusses am 15.01.2014
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
