@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-01-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.3.1.: Genehmigung des Protokolls der Sondersitzung vom 02.12.13
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Wohnungslosenunterkunft an der Schöllstraße
+- TOP 3: Anträge
+- TOP 3.1.: Ausbau Allacher Straße Im östlichen Teil, auf deren Südseite, vorhandene Parkmöglichkeiten erhalten Schreiben Baureferat vom 19.12.13: Ausbau Allacher Straße Im östlichen Teil, auf deren Südseite, vorhandene Parkmöglichkeiten erhalten
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 04.03.2014
+- TOP 2: (E) Erhöhung Schulwegsicherheit Eversbuschstraße, Richtung Pfarrer-Grimm-Straße Empfehlung Nr. 08-14 / E 01912 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 23.07.2013
+- TOP 5: Anhörungen
+- TOP 5.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Krauss-Maffei-Str. 2, Lackieranlage für Schienenfahrzeuge/Geb. 0201
+- TOP 5.2.: Am Neubruch 15, Gemarkung: Moosach, Fl.Nr.: 1860/0 Neubau einer mechanisierten Zustellbasis der Deutschen Post
+- TOP 5.3.: Dachauer Str. 568, Gemarkung: Ludwigsfeld, Fl.Nr.: 129/0 Neubau MAN Parkdeck P52
+- TOP 5.4.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 27.11.13: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen Standarderhöhung und Finanzierung (Sitzungsvorlage Nr. 08-14 / V 12710)
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.13: - Wohnungsmarkt München-Expertenbefragung 2013 (Sitzungsvorlage Nr. 08-14 / V 13572) - Einkommensgrenzen für Senioren beim München-Modell (Sitzungsvorlage Nr. 08-14 / V 13775)
+- TOP 6.3.: Beschluss des Sozialausschusses vom 05.12.13: - Quartierbezogene Bewohnerarbeit, Produkt 60 4.1.7, Wirkungsanalyse, Ergebnisse der Studie der Hochschule München, Nachbarschaftstreffs auf dem Prüfstand (Sitzungvorlage Nr. 08-14 / V 13224)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.13: - Stellplatzschlüssel im Wohnungsbau (Sitzungsvorlage Nr. 08-14 / V 13593)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 18.12.13: a) München Modell-Miete; Elisabeth-Kohn-Staße (Sitzungsvorlage Nr. 08-14 / V 13775) b) Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern (Sitzungsvorlage Nr. 08-14 / V 113430) c) Haushaltsplan 2014 -Ansätze der zentralen Bereiche -Schlussabgleich (Sitzungsvorlage Nr. 08-14 / V 13516)
+- TOP 6.6.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.14: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren, Frühzeitige Bürgerbeteiligung bei Bauvorhaben auch für die bekannten Bürgerinitiativen und betroffenen Bürgerinnen und Bürger (Sitzungsvorlage Nr. 08-14 / V 13605)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Schreiben Sozialpolitisches Forum München e.V. vom 21.12.13: Einladung zu Veranstaltung zu den Themen Sozialraum und Sozialbürgerhauser am 28.01.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 04.12.13: Postagenturen in der Landeshauptstadt München - Untermenzing
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: LSG Lochholz
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (25.11.-01.12.13, 02.12.-08.12.13, 09.12.-15.12.13, 16.12.-22.12.13)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.12.13: Fällungsgenehmigung Löherweg
+- TOP 8.5.: Schreiben Kulturreferat vom 17.12.13: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, Flurnummer 81,82,82/2, 101/7 in Allach 2. Bürgerhaus für Allach-Untermenzing BA-Antrag (BA-Antrag 4680 vom 12.03.13) Bürgerzentrum Allach-Untermenzing (BA-Antrag 4777 vom 09.04.13)
+- TOP 8.6.: Schreiben Kulturreferat vom 02.01.14: Veranstaltungen / Kooperationen Januar 2014
+- TOP 8.7.: Schreiben Abfallwirtschaftsbetrieb München vom 19.12.13: Flaschencontainer Hitlstraße
+- TOP 8.8.: Schreiben REGSAM vom 16.12.13: REGSAM-Aktuell
+- TOP 8.9.: Schreiben Stadtwerke München GmbH vom 09.12.13, 16.12.13: Baumaßnahmen
+- TOP 8.10.: Schreiben Gleichstellungsstelle vom 11.12.13: Protokoll des 17. Treffens
+- TOP 8.11.: Schreiben Die Johanniter/Lilalu vom 09.12.13: Unterstützung von kostenfreien Plätzen im Johanniter LILALU-Ferienprogramm 2013
+- TOP 8.12.: Schreiben Baureferat vom 03.12.13: Baumfällung Kirschstr. 33 gegenüber
+- TOP 8.13.: Schreiben Referat für Gesundheit und Umwelt vom 10.12.13: Fleyer Infoabende 01-04/14
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 12.12.13: Verlängerung der Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV/Nächtliche Reinigung von U-Bahnhöfen
+- TOP 8.15.: Schreiben Referat für Gesundheit und Umwelt vom 10.12.13: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Fa. Berndt
+- TOP 8.16.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.13: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.13: Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) sowie des Gesetzes über die Umweltverträglichkeit (UVPG), Hanfgartenstr. Fl.Nr. 179, 180, 181, 191 u.a. Gemarkung Langwied; Neubau der Paulaner Brauerei in München Langwied, Immissionsschutzrechtliche Genehmigung nach § 4 BimSchG
+- TOP 8.18.: Schreiben Referat für Arbeit und Wirtschaft vom 20.12.13: Europe Direct Informationen 06/2013
+- TOP 8.19.: Schreiben Sozialreferat vom 20.12.13: Aktionstag für Familien 2014 - Aktionsforum für Familien
+- TOP 8.20.: Schreiben Münchner Forum e.V. vom 30.12.13: Standpunkte im Januar 2014
+- TOP 9: Nachtrag
+- TOP 9.1.: Antrag: Schulsozialarbeit an der Grundschule Eversbuschstraße 182
+- TOP 9.2.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.13: Parklizenzen für Besucher in München (Sitzungsvorlagen Nr. 13392)
+- TOP 9.3.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 15.01.14: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts (Sitzungsvorlagen Nr. 13668)
+- TOP 9.4.: Hinweis/Ergänzung zum Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 15.01.14: Energiekonzepte für neue Baugebiete; a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren, b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete" (Sitzungsvorlage Nr. 13147)
+- TOP 9.5.: Umlauf: Schreiben Kreisverwaltungsreferat vom 18.12.13: Gemeinsamer Geh- und Radweg Lautenschlägerstraße
+- TOP 9.6.: Schreiben Sozialreferat vom 27.12.13: Antrag auf Zweckentfremdung, Augustenfelder Str.
+- TOP 9.7.: Schreiben Fachinformationsstelle Rechtsextremismus München vom 08.01.14: Veranstaltungshinweise
