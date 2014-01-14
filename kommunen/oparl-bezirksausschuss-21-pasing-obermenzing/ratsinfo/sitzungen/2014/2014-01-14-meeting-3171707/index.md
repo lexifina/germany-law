@@ -1,0 +1,176 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2014-01-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3171707
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3171707
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Bericht des Vorsitzenden zu den Baustellen im Pasinger Zentrum
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 2.2.1.: Zebrastreifen Kaflerstraße / Manzingerweg (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.2.: Stau auf der Nordumgehung Pasing; Steuerung der Lichtzeichenanlage Josef-Felder-Straße / Landsberger Straße (vertagt aus der BA-Sitzung vom 03.12.2013); s. hierzu auch unten bei TOP 14.1. - KVR
+- TOP 2.2.3.: Verkehrsknoten Landsberger Straße / Am Knie (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.4.: Abfallbehälter im Bereich des Pasinger Bahnhofs (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.5.: Marschnerstraße/Alte Allee/Pippinger Straße - Ampelanlage an der Südseite Alte Allee bei Verkehrsinsel - Radverkehr Marschnerstraße (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.6.: Verkehrssituation Haberlandstraße und Varnhagenstraße (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.7.: Öffnung der Gottfried-Keller-Straße für den Fahrradverkehr in beide Richtungen, bestenfalls Ausschilderung als Fahrradstraße (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.8.: Bebauungsplan Nr. 2067 Bodenseestraße zwischen Trautnerstraße (ca. 70 m östlich) und Betschartstraße; Aufnahme weiterer Argumente zur Diskussion (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.9.: Buslinien Nordseite Pasinger Bahnhof - Anfrage (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.10.: Entfernung der Abmarkierungen zum Parken auf Gehwegen rund um den Wensauerplatz (vertagt aus der Bürgersprechstunde der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.11.: Ablehnung der Planung für ein Multiplexkino an der Landsberger Straße / Offenbachstraße (vertagt aus der Bürgersprechstunde der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.12.: Ebenböckstraße; Durchgangsverkehr und häufige Überschreitung der zulässigen Höchstgeschwindigkeit von 30 km/h
+- TOP 2.2.13.: Parksituation Bachbauernstraße
+- TOP 2.2.14.: Änderung der Hinweisbeschilderungen auf der A 99 und A 8; Absolutes Haltver-bot Alte Allee zwischen Bergsonstraße und Haltestelle "Alte Allee"; Erweiterung des BBZ an der Bergsonstraße, Parksituation (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.15.: Bebauungsplan Nr. 1922a, Grundstück Ecke Landsberger Straße/Offenbach-straße; Alternativprojekt zum geplanten Multiplexkino mit 12 Sälen (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2.2.16.: Erweiterung der JOKI Kindertagesstätte im Haidelweg 46
+- TOP 2.2.17.: Veröffentlichung der BA-Sitzungsprotokolle im Internet
+- TOP 2.2.18.: Verkehrskonzept Pasing-Nord
+- TOP 2.2.19.: Ausstattung des Bahnhofsplatzes Pasing mit einer zentralen Uhr
+- TOP 2.2.20.: Kurzparkplätze am Bahnhof Pasing / Verkehrsneuordnung am Pasinger Bahnhof
+- TOP 2.2.21.: Fahrgastunterstand für die Haltestelle der Buslinie 56 am Bahnhof Pasing, Fahrtrichtung Schloss Blutenburg sowie Erweiterung der Kurzparkplätze beim Bahnhofs-Terminalgebäude, Josef-Felder-Straße
+- TOP 2.2.22.: Vorrangschaltung für Einsatz-/Rettungsfahrzeuge der Rettungsleitstelle des Roten Kreuzes (Theodor-Storm-Straße 14) an der Ampelanlage Theodor-Storm-Straße/Pippinger Straße
+- TOP 2.2.23.: Einhaltung der Verkehrsregeln am Pasinger Bahnhofsplatz
+- TOP 2.2.24.: Baugenehmigung zum Bauvorhaben Wöhlerstraße 2
+- TOP 2.2.25.: Fehlender Bahnsteig bei der neuen Straßenbahnhaltestelle Bahnhof Pasing (s. auch unten bei N-TOP 14.1.15)
+- TOP 2.2.26.: Anwohnerparken in den Straßen Manzingerweg, Irmonherstraße und Bachbauernstraße
+- TOP 2.2.27.: Weihnachtsbaum vor dem Bahnhof Pasing
+- TOP 2.2.28.: (N) Parken in Gleichmann- und Bäckerstraße
+- TOP 2.2.29.: (N) Markierungen für die Fußgänger- und Fahrradkreuzung am Südende des Radltunnels am Pasinger Bahnhof
+- TOP 2.2.30.: (N) Baustelle Kaspar-Kerll-Straße / Sibeliusstraße
+- TOP 2.2.31.: (N) Wartehäuschen und Sitzbank für die Haltestelle der Buslinie 56 Pasing Bahnhof Richtung An der Schäferwiese Obermenzing (s. auch oben bei TOP 2.2.21)
+- TOP 2.2.32.: (N) Fahrradstraße in Pasing
+- TOP 2.2.33.: (N) Haltverbot am Pasinger Bahnhof
+- TOP 2.2.34.: (N) Überstehende Hecken im Joseph-Haas-Weg
+- TOP 3: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Bauseweinallee 4a, 2 Zypressen, 1 Fichte, 1 Linde, 1 Kiefer, 6 Birken
+- TOP 3.1.2.: Orthstraße 2, 1 Esche
+- TOP 3.1.3.: Berrschestraße 8, 1 Fichte, 1 Birke
+- TOP 3.1.4.: Pfeivestlstraße 50, 2 Fichten, 1 Zypresse
+- TOP 3.1.5.: Steiermarkstraße 23, 1 Douglasie
+- TOP 3.1.6.: Paosostraße 47, 1 Birke
+- TOP 3.1.7.: Sarasatestraße 16, Baumbestandsplan
+- TOP 3.1.8.: Numbergerstraße 6, 1 Birke, 2 Eschen
+- TOP 3.1.9.: Menzinger Straße 119, 4 Serbische Fichten (Fällung oder Baumveränderung)
+- TOP 3.1.10.: Am Stadtpark 46, 2 Fichten
+- TOP 3.1.11.: Menzinger Straße 72a, 1 Zierkirsche
+- TOP 3.1.12.: Pfeivestlstraße 45, Baumbestandsplan
+- TOP 3.1.13.: (N) Menzinger Straße 70 a - e, 1 Weide
+- TOP 3.2: Gefahrenbäume
+- TOP 3.2.1.: Liste des Baureferates vom 26.11.2013
+- TOP 4: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht d UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.1.: Anwesen in der Morenastraße
+- TOP 6: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1: Berichte der Beauftragten
+- TOP 7.1.1: Kinder- und Jugendbeauftragte
+- TOP 7.1.2: Gleichstellungsbeauftragte
+- TOP 7.1.3: Behindertenbeauftragte
+- TOP 7.1.4: Beiräte Verdistr., Jugendhilfezentrum Scapinellistr., Condrobs e.V. Haidelweg
+- TOP 7.1.5: Migrationsbeauftragter
+- TOP 7.1.6: Beauftragter im Mieterbeirat
+- TOP 7.1.7: REGSAM-Beauftragte
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.1.: Budget des BA 21; Antrag der Arbeitsgemeinschaft der Pasinger Vereine e.V. auf Gewährung eines Zuschusses für das Pasinger Faschingstreiben am 04.03.2014; Sitzungsvorlage Nr. 08-14 / V 13501 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 2: (E) Gestaltung des Platzes / Straßenabschnittes der Grandlstraße zwischen der Kirche Leiden Christi und den Schulen an der Grandlstraße Empfehlung Nr. 08-14 / E 01788 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 25.04.2013 - <div>vertagt</div>
+- TOP 2.4.: Kindergerechter Straßenübergang über die Pippinger Straße auf Höhe Betzen-weg; Empfehlung Nr. 08-14 / E 01787 der Bürgerversammlung des 21. Stadtbe-zirkes Pasing-Obermenzing am 25.04.2013; Sitzungsvorlage Nr. 08-14 / V 12742 (vertagt aus der BA-Sitzung vom 01.10.2013 - Stellungnahme KVR vom 16.12.2013)
+- TOP 2.5.: Kindergerechter Straßenübergang über die Pippinger Straße auf Höhe Betzenweg - <div>nach Antrag</div>
+- TOP 10: Anhörungen
+- TOP 10.1.: Gailkircherstraße 1a; Neubau eines Zweifamilienhauses mit Doppelgarage
+- TOP 10.2.: Bodenseestraße 51; Neubau eines Wohngebäudes (6 WE) mit Carport
+- TOP 10.3.: Verdistraße 21; Erweiterung einer Pension durch seitlichen Anbau (3 Gästezimmer)
+- TOP 10.4.: Freseniusstraße 15; Umbau / Nutzungsänderung, Einfamilienhaus mit Doppelgarage zu Pension (14 Betten) mit 5 Stellplätzen - Tektur
+- TOP 10.5.: Haidelweg 50; Nutzungsänderung Mehrfamilienhaus, Erdgeschoss, Teilbereich Laden zu Kindergarten (1 Gruppe / Erweiterung)
+- TOP 10.6.: Landsberger Straße 388; Erweiterung der Verkaufsfläche durch Aufgabe des L-Lagers im ALDI-Laden
+- TOP 10.7.: Waldhornstraße 3; Neubau von zwei Wohnhäusern mit Doppelgarage - Vorbescheid
+- TOP 10.8.: Pippinger Straße, Gemarkung Pasing, Flur-Nr. 670/0; Errichtung eines Mehrfamilienhauses (3 WE) mit Duplex-Garage und Stellplatz - Vorbescheid
+- TOP 10.9.: Sarasatestraße 16; Neubau eines Pfarrhauses (1 Wohneinheit)
+- TOP 10.10.: Verdistraße 62; Anbau eines Wohngebäudes mit Tiefgarage an ein Wohn- und Geschäftshaus
+- TOP 10.11.: Feichthofstraße 163; Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 10.12.: Landsberger Straße 489; Nutzungsänderung und Umbau von 2 Ladenräumen zu 2 Wohneinheiten (Whg 1 + 2) mit integriertem Büro bei Wohnung 1
+- TOP 10.13.: Bahnhof Pasing: Geheimnisse um den Bahnhof Pasing lüften - Optionen für die U-Bahn-Anbindung endlich vorstellen (Stadtratsantrag Nr. 08-14 / A 03318 vom 16.05.2012); Unverzügliche Verlängerung der U-Bahnlinie U5 vom Laimer Platz bis zum Bahnhof Pasing (Empfehlung Nr. 08-14 / E 01705 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen vom 31.01.2013); Vorentwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung; Sitzungsvorlage Nr. 08-14 / V 13029 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 10.14.: Freseniusstraße 9; Nachtrag in die Bayerische Denkmalliste
+- TOP 10.15.: Landsberger Straße, Gemarkung Pasing, Flur-Nr. 842/0, Neubau eines Multiplex-Kinocenters mit 12 Sälen (ges. 1805 Plätze) und ergänzender Wohnnutzung mit Tiefgarage - Vorbescheid (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 10.16.: Straßenbauprojekt Am Knie (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 10.17.: Austausch von Lichtzeichenanlagen im Rahmen der Beschleunigung der Buslinie 56
+- TOP 10.18.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/32 und Bebauungsplan mit Grünordnung Nr. 2058a Paul-Gerhardt-Allee (östlich), Bärmannstraße (südlich), Bahnlinie München-Ingolstadt (westlich), Bahnlinie München-Augsburg (nördlich), Baumbachstraße (östlich) (Teiländerung der Bebauungspläne Nr. 61a, Teilbereich I und 1075)
+- TOP 10.19.: Neubau einer offenen Einrichtung für Teenies und Jugendliche im Neubaugebiet Paul-Gerhardt-Allee im Umgriff des Bebauungsplanes Nr. 2058a; Entwurf einer Beschlussvorlage für den Kinder- und Jugendhilfeausschuss des Stadtrates am 25.02.2013
+- TOP 10.20.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 10.21.: Erinnerungsverfahren Landsberger Straße 367 - 369; Bauschaden- und Unterhaltsarbeiten
+- TOP 10.22.: Erinnerungsverfahren Am Stadtpark 32 - 32a/Ecke Bierbaumstraße; Bauschaden- und Unterhaltsarbeiten
+- TOP 10.23.: Teileigentumserwerb von Räumen für einen Kinder- und Familientreff im Neubaugebiet Paul-Gerhardt-Allee im Umgriff des Bebauungsplanes Nr. 2058a; Entwurf einer Beschlussvorlage für den Kinder- und Jugendhilfeausschuss am 25.02.2014
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: SPD; Antrag: Dauerausstellung über die Pasinger Geschichte (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 11.2.: SPD; Antrag: Einrichtung eines Arbeitskreises ?Pasinger Marienplatz? (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 11.3.: SPD, Antrag: Barrierefreie Gestaltung des Zugangs zur Kindertagesstätte ?Am Durchblick?
+- TOP 11.4.: SPD, Anfrage: Planungsstand Marienbrunnen mit der Mutter-Kind-Figur vor dem ?Confetti? am Pasinger Marienplatz
+- TOP 11.5.: SPD und Bündnis 90/Die Grünen, Antrag: Modellhafte Erschließung des Neubau- gebietes Paul-Gerhardt-Allee im Sinne der Nahmobilität
+- TOP 11.6.: CSU, Antrag: Quartiersbus für den Norden Obermenzing
+- TOP 11.7.: CSU, Anfrage: ÖPNV-Erschließung des Neubaugebiets Paul-Gerhardt-Allee
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Amtsblatt Nrn. 33, 34, 35/2013, Sondernrn. 3 und 4/2013
+- TOP 12.2.: Bauanträge - Listen vom 25.11.-01.12., 02.-08.12., 09.12.-15.12., 16.12.-22.12.2013
+- TOP 12.3.: Baumaßnahmen der Stadtwerke München GmbH - Aufstellungen vom 02.12., 09.12., 16.12.
+- TOP 12.4.: Unveränderte Fortführung eines Gaststättenbetriebes - Schank- und Speisewirtschaft ?Prinz Myshkin Garden?, Menzinger Straße 103 - Schank- und Speisewirtschaft "Prinzregent-Garten", Benedikterstraße 35
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Bauausschuss vom 19.11.2013 - Mehrjahresinvestitionsprogramm für die Jahre 2013 - 2017 mit verbindlicher Planung für 2018; Entwurf für das Baureferat; Sitzungsvorlage Nr. 08-14 / V 13310
+- TOP 13.2.: Kulturausschuss vom 21.11.2013 - Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2013 ? 2017 und Stellungnahme zu den Anregungen der Bezirksausschüsse; Sitzungsvorlage Nr. 08-14 / V 13397 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 13.3.: Kommunalausschuss vom 21.11.2013 - Mehrjahresinvestitionsprogramm 2013 ? 2017; Maßnahmen im Bereich des Kommunalreferates, Programmentwurf; Sitzungsvorlage Nr. 08-14 / V 13335 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 13.4.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung mit Umweltschutzausschuss vom 04.12.2013 - Energiekonzepte für neue Baugebiete: a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren, b) Behandlung des Antrages ?Entwicklung von Energiekonzepten für Baugebiete? (Antrag Nr. 08-14 / A 03196 der Stadtratsfraktion Die Grünen / RL vom 22.03.13; Sitzungsvorlage Nr. 08-14 / V 13147 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 04.12.2013 (1) - Parklizenzen für Besucher in München (Antrag Nr. 08-14 / A 02839 der Stadtratsfraktion der FDP vom 24.10.11); Sitzungsvorlage Nr. 08-14 / V 13392 (vertagt aus der BA-Sitzung vom 03.12.2013) - Einkommensgrenzen für Senioren beim München-Modell (Empfehlung Nr. 08-14 / E 01924 der Bürgerversammlung des 20. Stadtbezirkes Hadern am 25.09.2013); Sitzungsvorlage Nr. 08-14 / V 13475 (vertagt aus der BA-Sitzung vom 03.12.2013) - Wohnungsmarkt München ? Expertenbefragung 2013 (Bekanntgabe); Sitzungsvorlage Nr. 08-14 / V 13572 (vertagt aus der BA-Sitzung vom 03.12.2013) - Keine Straßenbahn durch das Westkreuz und Neuaubing (Empfehlung Nr. 08-14 / E 01844 der Bürgerversammlung des 22. Stadtbezirkes Aubing-Lochhausen-Langwied am 25.06.2013); Sitzungsvorlage Nr. 08-14 / V 13573 (vertagt aus der BA-Sitzung vom 03.12.2013) - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/27 Verdistraße (südlich), Pippinger Straße (westlich), Greinzstraße (östlich), Lipperheidestraße (östlich), Bahnlinie München-Augsburg (nördlich); Endgültiger Beschluss; Sitzungsvorlage Nr. 08.14 / V 11527 (vertagt aus der BA-Sitzung vom 03.12.2013) - Stellplatzschlüssel im Wohnungsbau; Sitzungsvorlage Nr. 08-14 / V 13593 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 13.6.: Ausschuss für Stadtplanung und Bauordnung vom 04.12.2013 (2) - Flächenhaften Naturschutz in der Verwaltung stärken! (Antrag Nr. 08-14 / A 04569 der Stadtratsfraktion Die Grünen/RL vom 13.08.2013); Sitzungsvorlage Nr. 08-14 / V 13318
+- TOP 13.7.: Sozialausschuss vom 05.12.2013 - Quartierbezogene Bewohnerarbeit, Produkt 60 4.1.7, Wirkungsanalyse; Ergebnisse der Studie der Hochschule München; Nachbarschaftstreffs auf dem Prüfstand (Antrag der FDP-Stadtratsfraktion Nr. 08-14 / A 02929 vom 23.11.2011); Sitzungsvorlage Nr. 08-14 / V 13224
+- TOP 13.8.: Bauausschuss vom 10.12.2013 - Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen (Antrag der Stadtratsfraktion Die Grünen/RL Nr. 08-14 / A 04305 vom 07.06.2013); Sitzungsvorlage Nr. 08-14 / V 13354 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 13.9.: Vollversammlung des Stadtrates vom 18.12.2013 - Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnnen und Mitarbeiter schaffen sowie dauerhaft sichern (Antrag Nr. 08-14 / A 04209 der SPD-Stadtratsfraktion und der Stadtratsfraktion Die Grünen/RL vom 30.04.2013) sowie Berücksichtigung von Beschäftigten in Mangelberufen/nachgefragten Sozialberufen in den städtischen Wohnungsförderprogrammen (Antrag Nr. 08-14 / A 04557 der CSU-Stadtratsfraktion vom 08.08.2013); Sitzungsvorlage Nr. 08-14 / V 13430 - München Modell-Miete Elisabeth-Kohn-Straße; Sitzungsvorlage Nr. 08-14 / V 13775
+- TOP 13.10.: Verwaltungs- und Personalausschuss vom 15.01.2014 - Checkliste zur Durchführung von Bürgerbeteiligungsverfahren (Beschluss der Vollversammlung des Stadtrates vom 28.11.2012, Sitzungsvorlage Nr. 08-14 / V 08102); Frühzeitige Bürgerbeteiligung bei Bauvorhaben auch für die bekannten Bürgerinitiativen und die betroffenen Bürgerinnen und Bürger (Antrag des BA 13 Bogenhausen Nr. 08-14 / B 04822 vom 14.05.2013); Sitzungsvorlage Nr. 08-14 / V 13605
+- TOP 13.11.: Ausschuss für Stadtplanung und Bauordnung vom 15.01.2014 - (N) Erhaltungssatzungen in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing; a)Erhaltungssatzung für Laim, Antrag Nr. 08-14 / A 04609 der SPD-Stadtratsfraktion vom 03.09.2013, b) Erhaltungssatzung im Zentrum Pasings, Antrag Nr. 08-14 / A 04612 der Stadtratsfraktion Die Grünen/RL vom 04.09.2013; Sitzungsvorlage Nr. 08-14 / V 13329 - (N) Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weitere Fortentwicklung des Städtebaurechts (?BauGB-Novelle 2013?); Sitzungsvorlage Nr. 08-14 / V 13668 (Bekanntgabe)
+- TOP 13.12.: Gemeinsamer Ausschuss für Stadtplanung und Bauordnung und Umweltschutz- ausschuss vom 15.01.2014 - (N) Energiekonzepte für neue Baugebiete ? a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren, b) Behandlung des Antrages der Stadtratsfraktion Die Grünen/RL ?Entwicklung von Energiekonzepten für Baugebiete? Nr. 08-14 / A 03196 vom 22.03.2012; Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 14: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 14.1.1.: Direktorium - Schließung des Bürgerbüros Pasing wegen Umbau (Antrag Nr. 08-14 / A 04828 der CSU-Stadtratsfraktion vom 26.11.2013) - Budget des BA 21; Abrechnung / Verwendungsnachweis zum Projekt "Nationalsozialismus in Pasing" - Abrechnung der Aufwandsentschädigung nach § 18 BA-Satzung; steuerliche Behandlung des Abrechnungsjahres 2013 und Abrechnung der Aufwandsentschädigung im Jahr 2014 - Zusätzliche Anlaufstellen während der Schließung des Bürgerbüros im Pasinger Rathaus (Antrag Nr. 08-14 / A 04882 der SPD-Stadtratsfraktion vom 10.12.2013) - Zuteilung einer städtischen Mailadresse an Bezirksausschussvorsitzende - Schließung des Bürgerbüros Pasing - Budget des BA 21; Antrag der AG Obermenzinger Vereine auf Gewährung eines Zuschusses für die Beschaffung eines Vereinsschaukastens; Bescheid vom 18.12.2013 - Protokoll des Treffens der BA-Vorsitzenden vom 21.11.2013 - Budget des BA 21; Abrechnung zum BA-Kinderfest am 21.09.2013
+- TOP 14.1.2.: Gleichstellungsstelle für Frauen - Protokoll des 17. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse vom 07.11.2013
+- TOP 14.1.3.: Baureferat - Radweg zum Langwieder See; Antrag des BA 21 Nr. 08-14 / B 04975 vom 02.07.2013 (vertagt aus der BA-Sitzung vom 03.12.2013) - Antrag auf Fahrradabstellplätze für Fahrradzielverkehr vor den Läden in der Landsberger Straße 497 - Verwahrlosung der Straße "Am Durchblick" (Bezug: Ortstermin am 25.11.2013) - Temporäre Kunst im öffentlichen Raum; Projekt "Verweile doch" im Rahmen von 1250 Jahre, hier: Antrag auf dauerhafte Aufstellung des Kunstobjektes "Leerer Stuhl" - Ausbau Bodenseestraße (Bezug: Antrag des BA 21 Nr. 08-14 / B 05425 "Umbau der Bodenseestraße im Abschnitt zwischen Lortzingstraße und Pasinger Marienplatz" vom 03.12.2013) - Parkweg südlich der Perlschneiderstraße zwischen Blumenauer Straße und Weinberger-/Silberdistelstraße; Bezeichnung von Bäumen uns Sträuchern - Läuterung von Gehölzbestand Am Durchblick - Gestaltung der Kreuzung Agnes-Bernauer-Straße / Weinbergerstraße / Gräfstraße / Am Knie (Antrag des BA 21 Nr. 08-14 / B 04885 vom 04.06.2013)
+- TOP 14.1.4.: Referat für Gesundheit und Umwelt - Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImschV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet; Bescheid vom 06.12.2013 - Flyer Infoabende des Bauzentrums München vom Januar bis April 2014 - Vollzug des Bundes-Immissionsschutzgesetzes (BImschG) sowie des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG); Hanfgartenstraße Langwied; Neubau der Paulaner Brauerei; Immissionsschutzrechtliche Genehmigung nach § 4 BImschG vom 06.12.2013
+- TOP 14.1.5.: Kommunalreferat - Geplante Verwendung des städtischen Grundstücks Dreilingsweg 14
+- TOP 14.1.6.: Kreisverwaltungsreferat - Stellungnahme zu Bürgeranliegen "Lichtzeichenanlage Josef-Felder-Straße / Landsberger Straße" (s. auch oben bei TOP 2.2.2) - Schließung des Bürgerbüros Pasing - Änderung der Einsatzzeiten für Schulweghelfer für die Grundschule an der Bäckerstraße (Antrag des BA 21 Nr. 08-14 / B 05332 vom 05.11.2013) - Einrichtung einer Schulbushaltestelle in der Carossastraße für den Schülerverkehr von und zu den Nymphenburger Schulen; Verkehrsrechtliche Anordnung nach § 45 StVO vom 11.11.2013 - Schließung des Bürgerbüros Pasing ab 23.12.2013 für die Dauer von ca. sechs Monaten wegen Umbaumaßnahmen - Verkehrsführung Pasing (Wintersicherung); Verkehrsrechtliche Anordnung vom 17.12.2013 - Gestaltung des Straßenabschnittes Grandlstraße zwischen der Kirche Leiden Christi und den Schulen an der Grandlstraße zu einem zusammenhängenden beruhigten Platz; Einladung zum Runden Tisch am 17.01.2014 - (N) Antrag der Kinderkrippe ?Kleine Bärchen? in der Pippinger Straße 133a auf Errichtung einer Fußgängerampel oder eines Zebrastreifens in der Pippinger Straße auf Höhe der Kinderkrippe - (N) Überprüfung der Funktion der Fußgänger-/Fahrradampeln auf der Nordseite der Kreuzung Amalienburgstraße / Menzinger Straße (Antrag des BA 21 Nr. 08-14 / B 05327 vom 05.11.2013) - Umbau des Versicherungsamtes Pasing
+- TOP 14.1.7.: Kulturreferat - Veranstaltungen / Kooperationen Januar 2014
+- TOP 14.1.8.: Referat für Bildung und Sport - Betrieb der Tennisplätze bei der Sportanlage Agnes-Bernauer-Straße 239-241; Staubeinwirkung auf Gärten der Kleingartenanlage Josef-Höllerer-Weg München e.V.
+- TOP 14.1.9.: Referat für Stadtplanung und Bauordnung (1) - Vollzug der Baumschutzverordnung; Suessenguthstraße 30, Bescheid der Unteren Naturschutzbehörde vom 22.11.13 (vertagt aus der BA-Sitzung vom 03.12.2013) - Vollzug der Baumschutzverordnung; Sollerbauerweg 2, Bescheid der Unteren Naturschutzbehörde vom 22.11.13 (vertagt aus der BA-Sitzung vom 03.12.2013) - Überschlägige Verkehrsuntersuchung der Firma gevas humberg & partner Ingenieurgesellschaft und Verkehrstechnik mbH zum Bauvorhaben Landsberger Straße / Offenbachstraße (vertagt aus der BA-Sitzung vom 03.12.2013) - Solarsiedlung zwischen Am Knie und Offenbachstraße (Antrag des BA 21 Nr. 08-14 / B 01847 vom 02.02.2010) - Vollzug der Baumschutzverordnung; Slezakstraße 5, Bescheid der Unteren Naturschutzbehörde vom 06.12.2013 - Vollzug der Baumschutzverordnung; Marsopstraße 7, Bescheid der Unteren Naturschutzbehörde vom 04.12.2013 - Vollzug der Baumschutzverordnung; Marschnerstraße 83, Bescheid der Unteren Naturschutzbehörde vom 05.12.2013 - Vollzug der Baumschutzverordnung; Perlschneiderstraße 7, Bescheid der Unteren Naturschutzbehörde vom 05.12.2013 - Vollzug der Baumschutzverordnung; Menzinger Straße 62a, Bescheid der Unteren Naturschutzbehörde vom 05.12.2013 - Keine weitere Tiefgarageneinfahrt an der östlichen Seite der Offenbachstraße zwischen Landsberger Straße und der Josef-Felder-Straßenbrücke; Antrag des BA 21 Nr.08-14/B 5184 vom 10.09.13 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 14.1.10.: Referat für Stadtplanung und Bauordnung (2) - Vollzug der Baumschutzverordnung; Fasanenstraße 17, Bescheid der Unteren Naturschutzbehörde vom 11.12.2013 - Vollzug der Baumschutzverordnung; Betzenweg 14, Bescheid der Unteren Naturschutzbehörde vom 13.12.2013 - Vollzug der Baumschutzverordnung; Daudetstraße 34, Bescheid der Unteren Naturschutzbehörde vom 13.12.2013 - Vollzug der Baumschutzverordnung; Nimmerfallstraße 39-47, Bescheid der Unteren Naturschutzbehörde vom 16.12.2013 - Paosostraße 53 e-g; Bauüberwachung für KomProB-Haus an der Paosostraße (Antrag des BA 21 Nr. 08-14 / B 05188 vom 10.09.2013) - Betzenweg 76; Neubebauung Betzenweg (Antrag des BA 21 Nr. 08-14 / B 05187 vom 10.09.2013) - Radwege Pasing zentral - Oneginstraße 4a, Neubau eines Einfamilienhauses mit Garage; Mitteilung vom 18.12.2013 - Erschließung des Neubaugebietes an der Paul-Gerhardt-Allee (Empfehlungen der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, Bezirksteil Obermenzing, Nr. 08-14 / E 01792 und 08-14 / E 01795 vom 25.04.2013 sowie Antrag des BA 21 Nr. 08-14 / B 04646 vom 05.03.2013) - (N) - ROEK München-Südwest; Workshop/Ergebnisdiskussion mit Öffentlichkeitsbeteiligung am 24.02.2014 von 13:00 bis 19:00 Uhr im Bürger- und Kulturzentrum ?bosco?, Gauting, Oberer Kirchenweg 1
+- TOP 14.1.11.: Sozialreferat - Ergebnisse der ersten Münchner Jugendbefragung 2012 (vertagt aus der BA-Sitzung vom 03.12.2013) - Mietertag des Mieterbeirates am 13.01.2014 von 18:30 bis 22:00 Uhr im Kleinen Sitzungssaal des Rathauses am Marienplatz - Erhalt des Containers in der Freseniusstraße 117 als Jugendzentrum (Antrag des BA 21 Nr. 08-14 / B 05330 vom 05.11.2013) - Kommunales Wohnungsbauprogramm - Teilprogramm B für Benachteiligte am Wohnungsmarkt; Fertigstellungen/Bezug bis 12/2013 und Fertigstellungen/Bezug 2014 - Aktionstag für Familien 2014 - Aktionsforum für Familien
+- TOP 14.1.12.: Referat für Arbeit und Wirtschaft - Errichtung eines Wartehäuschens an der Bushaltestelle "Friedhof Obermenzing" (Empfehlung Nr. 08-14 / E 01729 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing, Bezirksteil Pasing, am 19.03.2013; Beschluss des BA 21 vom 10.09.2013) - Europe Direct Informationen 06/2013
+- TOP 14.1.13.: Münchner Verkehrsgesellschaft mbH (MVG) - Buslinienführung Nordseite Pasinger Bahnhof - Beschleunigung der Buslinie 56; Vorstellung der geplanten Baumaßnahmen - Fahrplanaushang auch bei Ersatzhaltestellen (Antrag des BA 21 Nr. 08-14 / B 05331 vom 05.11.2013) - (N) Fahrgastunterstände beim Friedhof Obermenzing
+- TOP 14.1.14.: Stadtkämmerei - Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2014
+- TOP 14.1.15.: Stadtwerke München GmbH - (N) Barrierefreier Einstieg in die Trambahn am Pasinger Bahnhof (s. auch oben bei TOP 2.2.25)
+- TOP 14.2: Sonstige
+- TOP 14.2.1.: Institut für zukunftsweisende Geschichte e.V. - Gewährung eines Zuschusses aus dem BA-Budget für das Ausstellungs- und Buchprojekt ?Alles wird anders ? Pasing im 3. Reich?; Bericht zur Ausstellung vom 12.06. bis 11.08.2013 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 14.2.2.: Bezirksausschuss 10 Moosach - Verbesserung der Fahrradwegesituation in der Schragenhofstraße (vertagt aus der BA-Sitzung vom 03.12.2013)) - Überprüfung der Funktion der Fußgänger-/Fahrradampeln auf der Nordseite der Kreuzung Amalienburgstraße / Menzinger Straße; Antrag des BA 21 Nr. 08-14 / B 05327 vom 05.11.2013 (vertagt aus der BA-Sitzung vom 03.12.2013)
+- TOP 14.2.3.: SV Waldeck Obermenzing e.V. - BA-Budget; Sachbericht zur Gewährung eines Zuschusses für die Beschaffung und den Aufbau von zwei Spielerkabinen
+- TOP 14.2.4.: Interessengemeinschaft Zehentstadel e.V. - BA-Budget; Sachbericht und Verwendungsnachweis zur Gewährung eines Zuschusses für den Einbau von vier Thekenteilen
+- TOP 14.2.5.: Architekturbüro Dipl.Ing. Johannes Wolffhardt - Plangutachten Lipperheidestraße; Bericht der Vorprüfung
+- TOP 14.2.6.: REGSAM - Regionale Netzwerke für Soziale Arbeit in München - Newsletter "REGSAM aktuell" - Kurzbericht zum vom Bezirksausschuss bezuschussten Straßenfest Pasing Nord am 28.09.2013
+- TOP 14.2.7.: Fair Price Hostels GmbH - Besichtigung des Wohnheimes für soziale Zwecke in der Planegger Straße 125
+- TOP 14.2.8.: 03 Architekten GmbH - ROEK München Südwest - Vorstellung und Diskussion, Zwischenstand - ROEK München Südwest - Nennung von Vertretern der Öffentlichkeit für den nächsten Workshop - ROEK München Südwest - Workshop "Ergebnisdiskussion mit Öffentlichkeitsbeteiligung" am 24.02.2014 von 13:00 bis 19:00 Uhr im Bürger- und Kulturzentrum "bosco", Gauting, Oberer Kirchenweg 1
+- TOP 14.2.9.: Arbeitsgemeinschaft der Pasinger Vereine e.V. - Jahreshauptversammlung der Arbeitsgemeinschaft der Pasinger Vereine e.V. am 30.01.2014 um 19:00 Uhr im Vereinsheim Trachtenverein D`Würmtaler-Stamm Pasing e.V., Manzingerweg 6a
+- TOP 14.2.10.: Sozialpolitisches Forum München e.V. - Veranstaltung zu den Themen Sozialraum und Sozialbürgerhäuser am 28.01.2014 ab 17:00 Uhr im Gewerkschaftshaus in der Schwanthaler Straße 64; Beginn Podiumsdiskussion der im Stadtrat vertretenen Fraktionen um 19:15 Uhr
+- TOP 14.2.11.: Münchner Forum e.V. - Standpunkte 01/2014
+- TOP 14.2.12.: (N) Regierung von Oberbayern - Erweiterung der Asylbewerberunterkunft in der Landsberger Straße 412
+- TOP 14.2.13.: Bund Naturschutz in Bayern e.V., Kreisgruppe München - (N) Bericht zu den Naturerlebnistagen 2013 für städtische Kindertagesstätten der Landeshauptstadt München
+- TOP 14.2.14.: Institut für sozial-ökologische Forschung ISOE GmbH - (N) Protokoll vom Workshop ?KlimaAlltag? vom 17.10.2013 im Referat für Stadt- planung und Bauordnung
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen - 04.02.2014, 19:00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486 - 11.03.2014, 19:00 Uhr, Alten- und Service-Zentrum Obermenzing, Packenreiterstraße 48
+- TOP 15.2.: Runder Tisch "Grandlstraße" am Freitag, den 17.01.2014 um 8:00 Uhr im Pfarrhaus der Pfarrei Leiden Christi, Passionistenstraße 12 (Treffpunkt um 7:30 Uhr vor dem Schuleingang Grandlstraße 5)
