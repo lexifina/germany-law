@@ -1,0 +1,54 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3103724
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3103724
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Projekt MVG Rad
+- TOP 3.2.: Blade Night von Green City e.V.
+- TOP 3.3.: Die HBB Hanseatische Betreuungs- und Beteiligungsgesellschaft mbH stellt sich vor
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Weihnachtsmarkt auf dem Georg-Freundorfer-Platz
+- TOP 4.2.: Pflege Sportplatz Kazmairwiese
+- TOP 4.3.: Nutzung der Theresienhöhe
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Nachnutzung für das Gelände des ehemaligen XXXLutz und dessen Umgriff - neuer Sachstand
+- TOP 5.3.: entfällt
+- TOP 5.4.: Anhörung: Bauvorhaben Schwanthalerstr. 111-115 - neue Stellungnahme?
+- TOP 5.5.: Anhörung: Bauvorhaben Theresienhöhe 15
+- TOP 5.6.: Anhörung: Tektur Schwanthalerstr. 116
+- TOP 5.7.: Nutzung des ehemaligen Brausebades am Bavariaring 5
+- TOP 5.8.: Wettbüros Ligsalzstr. 5/ Schwanthalerstr. 176
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Information über das Konzept "Ärztin/Arzt an der Schule"
+- TOP 6.2.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen - Information des Sozialreferats
+- TOP 6.3.: Bericht aus der RAGS 8/25
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Kulturgeschichtspfad Schwanthalerhöhe
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Jahresgenehmigungen für Reinigungsarbeiten in den U-Bahnhöfen
+- TOP 8.2.: Kosten der Straßenbaumaßnahme entlang der Bergmannstraße
+- TOP 8.3.: Verbesserungsmaßnahmen am Georg-Freundorfer-Platz und am Bavariapark - Antwortschreiben
+- TOP 8.4.: Asphaltfläche auf der Theresienwiese - Antwortschreiben
+- TOP 8.5.: Fortschritt der Planung für den barrierefreien Ausbau am Aufgang des S-Bahnhofs Donnersbergerbrücke zur Westseite der Brücke
+- TOP 8.6.: Anhörung: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 8.7.: Maßnahmen in der Landsberger Straße / Grasserstraße - Information zum Sachstand
+- TOP 8.8.: Anhörung: Baumfällungen in der Astallerstr. 22, 24 und 26
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Finanzierung von Einwohnerversammlungen
+- TOP 11.2.: Zuteilung einer städtischen Mailadresse an Bezirksausschussvorsitzende
+- TOP 12: Protokoll und Umlauf
