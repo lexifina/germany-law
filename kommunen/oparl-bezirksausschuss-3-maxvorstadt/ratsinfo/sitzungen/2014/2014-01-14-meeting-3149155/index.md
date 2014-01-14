@@ -1,0 +1,94 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149155
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149155
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Beantwortung der Fragen aus der Sitzung vom 10.12.2013 mit E-Mail vom 11.12.2013
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.12.2013 Modernisierungs- bzw. Entmietungsmaßnahmen in der Maxvorstadt (s. TOP B 2.1.8)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Liste der Bauvorhaben: 48., 49., 51. KW
+- TOP .2.: Liste der Abgeschlossenheitsbescheinigungen:
+- TOP .3.: Steinickeweg 7, Erweiterung des Studentenwohnheimes durch Errichtung eines Wohnge- bäudes incl. Verbindungsgang, Leseräume und Freifläche
+- TOP .4.: Schwindstraße 7, Neubau eines Wohngebäudes (vier WE)
+- TOP .5.: Schellingstraße 38, Rückbau eingeschossiges RGB, Neubau fünfgeschossiges Hofge- bäude mit eingeschossigem Verbindungsgebäude zum Vorderhaus (Nachverdichtung) Vorbescheid (2 Varianten)
+- TOP .6.: Linprunstraße 54, Neubau eines Gartenhauses, Vorbescheid
+- TOP .7.: Linprunstraße 5, Neubau zweier Wohngebäude, Vorbescheid (Linprunstraße 5/Sandstraße)
+- TOP .8.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.12.2013 Modernisierungs- bzw. Entmietungsmaßnahmen in der Maxvorstadt (s. TOP A 5.2.1)
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Katharina-von-Bora-Straße 13, fünf Spitzahorn
+- TOP .2.: Barer Straße 27, eine Kastanie
+- TOP .3.: Barer Straße 29, ein Spitzahorn
+- TOP .4.: Leopoldstraße 3, ein Spitzahorn
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat Temp-30-Zone in der Heß- und Schraudolphstraße
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Anhörung Mehr Aufenthaltsqualität ? weniger Autos ? Die Anwohnergarage Josephsplatz als Chance Antrag Nr. 08-14 / A 04171 (Ziffer 1 und 2) der Stadtrtsfraktion Die Grünen/Rosa Liste vom 15.04.2013
+- TOP 2: (E) Der Abfallbehälter Ecke Erzgießereistraße 27 / Ecke Kreittmayrstraße soll durch einen Abfallbehälter mit Deckel ersetzt werden. Empfehlung Nr. 08-14 / E 02002 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013
+- TOP 3: (E) Toiletten für die Spielplätze am Maßmannpark und am Alten Nordfriedhof Empfehlung Nr. 08-14 / E 01990 der Bürgerversammlung des Stadtbezirkes 3 Maxorstadt am 17.10.2013
+- TOP 4: (E) Anzahl der öffentlichen Mülleimer in der Maxvorstadt verdoppeln Empfehlung Nr. 08-14 / E 02003 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013
+- TOP 5: (E) Die in der Maxvorstadt auf öffentlichem Grund stehenden Schrottfahrräder sollen entfernt werden, insbesondere aus Hecken und Baumgräben Empfehlung Nr. 08-14 / E 01995 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013
+- TOP 6: (E) Die Fahrräder auf dem Gehweg vor der TU und dem Giselagymnasium sollen entfernt werden, da sie den Gehweg für Rollstuhlfahrer und Kinderwagen versperren Empfehlung Nr. 08-14 / E 02018 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013
+- TOP 6.7.: Baureferat, Anhörung Gestaltung des Josephsplatzes und Bau der Anwohnertiefgarage Stadtratsantrag Nr. 08-14 7 A 04171 der Fraktion die Grünen/RL vom 15.04.2013 Empfehlungen Nrn. 08-14 / E 01989, 08-14 / E 01994, 08-14 / E 01997 und 08-14 / E01999 der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt vom 17.10.2013 Beschluss des Bauausschusses vom 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13797
+- TOP 6.8.: Kreisverwaltungsreferat, Anhörung Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 6.2.3: Gaststätten
+- TOP 6.2.4: Veranstaltungen
+- TOP 6.1.: Schreiben eines Bürgers vom 29.11.2013 Errichtung einer Spielstätte incl. Bandensystem für Bikepolo in Schwabing (s. auch TOP A 5.2.2)
+- TOP 6.2.: Schreiben der Münchner Aids-Hilfe e.V. vom 16.12.2013 Verlegung eines Präventionsautomaten
+- TOP 6.1.: (E) Budget der Bezirksausschüsse Internationale Frauenliga für Frieden und Freiheit Ausstellung im März/April 2015 und Anbringung einer Gedenktafel
+- TOP 6.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Baureferat Wiedererrichtung des Denkmals für König Ludwig II. auf der der Corneliusbrücke Antrag Nr. 08-14 / A 04110 der Stadträte Josef Schmid, Richard Quaas, Georg Schlag- bauer und Mario Schmidbauer vom 18.03.2013 Antrag Nr. 08-14 / B 04682 des BA 2 Ludwigsvorstadtd-Isarvorstadt Beschluss des Bauausschusses vom 10.12.2013 Sitzungsvorlage Nr. 08-14 / V 13579
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung Stellplatzschlüssel im Wohnungsbau (div. Anträge aus dem Münchner Stadtrat) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13593
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 8-14 / A 04569 der Stadtratsfraktion Die Grünen/Rosa Liste vom 13.08.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 Sitzungsvorlage Nr. 08-14 / V 13318
+- TOP 3.4.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigungen für Reini- gungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München 1.6 Kommunalreferat, Antwortschreiben
+- TOP 3.6.: Kommunalreferat, Antwortschreiben Wertstoffmobil, das turnusmäßig, ähnlich dem Giftmobil, an bestimmten Punkten, zu bestimmten Tagen, Metalle, Elektrokleingeräte und Kunststoffe entgegennimmt BA-Antrag Nr. 08-14 / B 05344 des BA 3 vom 12.11.2013
+- TOP 3.7.: Baureferat, Gartenbau, Unterhalt Mitte Unterrichtung über das Fällen von Gefahrenbäumen a) Meisterbezirk 2 b) Meisterbezirk 3
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbe- zirken 3 Maxvorstadt, 4 Schwabing-West und 12 Schwabing-Freimann Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 Sitzungsvorlage Nr. 08-14 7 V 12718
+- TOP 3.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage München Modell-Miete, Elisabeth-Kohn-Straße diverse Anträge aus dem Stadtrat Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 Sitzungsvorlage Nr. 08-14 / V 13775
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Baureferat Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Ver- kehrsbegleitgrün und Schaffung von Stellplätzen für Bienen Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013 Beschluss des Bauausschusses vom 10.12.2013 Sitzungsvorlage Nr. 08-14 / V 13354
+- TOP 3.2.: Baumaßnahmen der Stadtwerke a) Karlstraße 49, Fernwärme
+- TOP 3.3.: Baureferat, Beschlussvorlage Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring im 3. Stadtbezirk Maxvorstadt und im 1. Stadtbezirk Altstadt-Lehel 1. Bedarfs- und Konzeptgenehmigung 2. Antrag des BA 3 Nr. 08-14 / B 02807 vom 15.03.2011 Beschluss des Bauausschusses vom 10.12.2013 Sitzungsvorlage Nr. 08-14 / v 13410
+- TOP 3.4.: Baureferat Die Rechtsabbiegespur in der Augustenstraße/Ecke Görresstraße wird zurückgebaut und durch Fahrradabstellbügel und Begrünung ersetzt Antwortschreiben vom 06.12.2013 zum BA-Antrag Nr. 08-14 / B 05167 des BA 3 vom 10.09.2013
+- TOP 3.5.: Baureferat, Tiefbau, Beschlussvorlage Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen Standarderhöhung und Finanzierung
+- TOP 3.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkürzung der Polizeianfahrtszone Türkenstraße
+- TOP 3.7.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Augustenstraße 55, Krandemontage
+- TOP 3.1.: Sozialreferat, Schreiben vom 16.10.2013 und Beschlussvorlage Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen Verbesserung der Betreuungssituation in den Ferien für bedürftige bzw. einkommensbe- nachteiligte Familien Beschluss der Vollversammlung des Stadtrates vom 24.07.2013 Sitzungsvorlage Nr. 08-14 / V 12336
+- TOP 3.2.: Schreiben der Johanniter-Unfall-Hilfe e.V. vom 09.12.2013 Unterstützung von kostenfreien Plätzen im Johanniter LILALU-Ferienprogramm 2013
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnraumversorgung: Bezahlbaren Wohnraum für städtische MitarbeiterInnen und Mit- arbeiter schaffen sowie dauerhaft sichern. Antrag Nr. 08-14 / A 04209 vom 30.04.2013 von div. Mitgliedern des Staddtrates Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 Sitzungsvorlage Nr. 08-14 / V 13430
+- TOP 3.4.: Kultur
+- TOP 3.1.: Referat für Arbeit und Wirtschaft Kulturelle Zwischennutzung für das Heizwerk ermöglichen! Antrag Nr. 08-14 / A 04028 der Stadtratsfraktion Die Grünen/RL vom 19.02.2013 Beschluss des Ausschusses für Arbeit und Wirtschaft am 19.11.2013 Sitzungsvorlage Nr. 08-14 / V 13006
+- TOP 3.1.: Schreiben von Frau Bürgermeisterin Strobl vom 25.11.2013 Finanzierung von Einwohnerversammlungen
+- TOP 3.2.: Direktorium, Schreiben vom 02.12.2013 Abrechnung der Aufwandsentschädigungen nach § 18 BA-Satzung steuerliche Behandlung des Abrechnungsjahres 2013 und Abrechnung der Aufwandsent- schädigungen im Jahr 2014
+- TOP 3.3.: Stadtdkämmerei, Beschlussvorlage Haushaltsplan 2014 - Ansätze der zentralen Bereiche - Schlussabgleich Beschluss des Finanzausschusses vom 17.12.2013 und Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 Sitzungsvorlage Nr. 08-14 / V 13516
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Budgetantrag des B A 9 Neuhausen-Nymphenburg vom 19.12.2013, Unterrichtung Filmaufführung ?Der Dachdecker von Birkenau?
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP 6.1.: Anträge
+- TOP 6.2.: Entscheidungen und Anhörungen
+- TOP 6.3.: Aktuelle Sachstandsberichte
+- TOP 3.9.: entfällt
