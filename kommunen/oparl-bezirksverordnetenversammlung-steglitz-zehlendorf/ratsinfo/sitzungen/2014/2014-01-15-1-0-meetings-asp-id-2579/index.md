@@ -1,0 +1,53 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-01-15T17:00:00+01:00
+- Ende: 2014-01-15T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2579
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2579
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sammelcontainer für Altglas - beantwortet
+- TOP 3.2: Auftragsvergabe Schulessen - beantwortet
+- TOP 3.3: Schulessen nach Elternwillen - beantwortet
+- TOP 3.4: Gemeindezentrum Hüttenweg - beantwortet
+- TOP 3.5: Zukunft der Eisbahn Lankwitz gesichert? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Erlass der Veränderungssperre 6-29 B / 42 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Anträge - erledigt
+- TOP 4.2.1: Sitzbänke für den S-Bahnhof Osdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sitzmöbel an BVG-Haltestellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Informative Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Hinweistafel zum Landhaus Oppenheim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Schadensbeseitigung am Mahnmal für Opfer an der Berliner Mauer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Beleuchtung in der Hampsteadstraße - überwiesen
+- TOP 5.1.2: Pilotprojekt "Coffeeshops einrichten" - überwiesen
+- TOP 5.1.3: Einzelhandel am Hindenburgdamm stärken - überwiesen
+- TOP 5.1.4: Hinweistafeln bei den Tiergehegen im Gemeindepark Lankwitz - überwiesen
+- TOP 5.1.5: Nur Anwohnerparken in der Treitschkestraße! - überwiesen
+- TOP 5.1.6: Schilder auf die Elfi-Wiese - überwiesen
+- TOP 5.1.7: Sanierungsfähigkeit der Bauten hinter dem Rathaus - überwiesen
+- TOP 5.1.8: Bordsteinabsenkungen im Bezirk - überwiesen
+- TOP 5.1.9: Zügige Errichtung eines Fahrstuhls in der Ladenstraße - überwiesen
+- TOP 5.1.10: Durchfahrtsbreitenverbote umstellen - überwiesen
+- TOP 5.1.11: Flut wild aufgestellter Schuh- und Altkleidercontainer stoppen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Aufnahme der Flüchtlinge im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 7.2: Keine Schulentwicklungsplanung in Steglitz-Zehlendorf? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Essentials für den Bebauungsplan "Lichterfelde-Süd"-Parks Range! - in der BVV abgelehnt
+- TOP 8.2: Vorstellung des Projekts "Parks Range" in der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 9: Schlusswort des Vorstehers - erledigt
