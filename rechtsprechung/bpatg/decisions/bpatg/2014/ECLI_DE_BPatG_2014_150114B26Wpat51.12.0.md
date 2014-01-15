@@ -1,0 +1,339 @@
+---
+ecli: "ECLI:DE:BPatG:2014:150114B26Wpat51.12.0"
+court: "Bundespatentgericht"
+spruchkoerper: "26"
+aktenzeichen: "26 W (pat) 51/12"
+decided: "2014-01-15"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bpatg&Art=en&Datum=2014&Sort=1&Seite=1&nr=25728&anz=1119&pos=27&Blank=1.pdf"
+corpus_doc_id: "BPatG_Marken_NA_2014-01-15_26_W-pat_51_12_NA_0.txt"
+cites_law: ["germany/bund/acts/markeng/0002.md", "germany/bund/acts/markeng/0009.md", "germany/bund/acts/markeng/0026.md", "germany/bund/acts/markeng/0043.md", "germany/bund/acts/markeng/0071.md", "germany/bund/acts/markeng/0083.md"]
+---
+
+# Bundespatentgericht, 26 W (pat) 51/12 vom 2014-01-15
+
+## Entscheidung
+
+BUNDESPATENTGERICHT
+
+
+
+ 26 W (pat) 51/12
+_______________________
+
+    (Aktenzeichen)
+
+
+
+
+                           BESCHLUSS
+
+                          In der Beschwerdesache
+…
+
+
+
+
+BPatG 152
+08.05
+
+                                      -2-
+
+
+
+                       betreffend die Marke 307 31 326
+
+
+hat der 26. Senat (Marken-Beschwerdesenat) des Bundespatentgerichts im
+schriftlichen Verfahren am 15. Januar 2014 unter Mitwirkung des Vorsitzenden
+Richters Dr. Fuchs-Wissemann sowie der Richter Reker und Dr. Himmelmann
+
+
+beschlossen:
+
+
+                     Die Beschwerde wird zurückgewiesen.
+
+
+
+
+                                     Gründe
+
+
+                                       I
+
+
+Gegen die Eintragung der Marke 307 31 326.3
+
+
+
+
+für die Waren und Dienstleistungen
+
+
+       09: Software: bereitgestellte Logos und Klingeltöne in Form von
+       Dateien (herunterladbar) in allen Online- und Audiosystemen und
+       Mobilfunknetzen; Datenverarbeitungsgeräte; Computer
+
+                               -3-
+
+
+
+15: Werbung: Geschäftsführung; Unternehmensverwaltung; Unternehmensberatung; Marketing; Public Relations: kommerzielle
+Verwaltung der Lizenzierung von Waren und Dienstleistungen für
+Dritte
+
+
+38: Telekommunikation, insbesondere Datendienste im Rahmen
+des Betriebes von Datenbanken, Bereitstellung von Zugängen
+zum Internet und ähnlichen Netzen; Entwicklung und Betrieb von
+kommerziellen Anwendungen und Diensten für Mobiltelefone und
+ähnliche Datenempfänger; Telefonauskunftsdienste, nämlich Anrufweiterschaltungen, Konferenzschaltungen, Anrufbeantworter-,
+Mailbox- und Auskunftsdienste; Telefondienste; Bereitstellen und
+Übermitteln von Informationen im Internet; Bereitstellen von Plattformen und Portalen im Internet; Telekommunikation mittels
+Plattformen und Portalen im Internet; Kommunikationsdienste
+mittels Telefon; elektronischer Austausch von Nachrichten mittels
+Chatlines, Chatrooms und Internetforen; Bereitstellung von Internet-Chatrooms und Foren; Bereitstellung von Handylogos, Bildmitteilungen, Klingeltönen und Videoclips sowie die Bereitstellung
+des Zugriffs darauf in Telekommunikationsnetzen; Verschaffen
+des Zugriffs zu Datenbanken
+
+
+41:Unterhaltungsdienste; Veranstaltung von Gewinnspielen
+
+
+42: Erstellung und Betrieb von SMS- und internetbasierten Anwendungen und Diensten; Aktualisierung (Update) von Software;
+Installation und Wartung von Software; Speichern von Daten in
+Computerdatenbanken; Vermietung und Wartung von Speicherplätzen zur Benutzung als Websites für Dritte (hosting); Zurverfügungstellung oder Vermietung von elektronischen Speicherplätzen
+(Webspace) im Internet
+
+                                      -4-
+
+
+
+ist aus der
+
+
+für die Dienstleistung der Klasse 38 "Telekommunikation" eingetragenen Marke
+396 16 528.1
+
+
+                                     M"net
+
+
+Widerspruch erhoben worden.
+
+
+Mit Beschluss vom 1. Oktober 2008 hat die Markenstelle für Klasse 38 zunächst
+die teilweise Löschung der angemeldeten Marke 307 31 326.3 wegen des Widerspruchs aus der eingetragenen Marke 396 16 528.1 wegen der teilweisen Identität
+bzw. Ähnlichkeit der sich gegenüberstehenden Vergleichsprodukte einerseits und
+der im Hinblick darauf hinreichend großen Ähnlichkeit der Vergleichsmarken andererseits gemäß §§ 43 Abs. 2 Satz 2, 9 Abs. 1 Nr. 2 MarkenG angeordnet. Mit dem
+auf die Erinnerung der Markeninhaberin ergangenen Beschluss vom 8. März 2012
+hat die Markenstelle diesen Beschluss aufgehoben und den Widerspruch insgesamt zurückgewiesen.
+
+
+Zur Begründung hat die Markenstelle ausgeführt, zwischen den sich gegenüberstehenden Marken bestehe keine Verwechslungsgefahr im Sinne des § 9 Abs. 1
+Nr. 2 MarkenG. Denn die Hauptübereinstimmung der Zeichen, das in beiden Zeichen enthaltene Wort "net", sei als unmittelbar beschreibender Hinweis auf einen
+Bezug der beanspruchten Produkte zu einem Netzwerk vollkommen schutzunfähig, unterliege einem extrem hohen Freihaltebedürfnis und sei daher unter keinen
+Umständen geeignet, eine Verwechslungsgefahr zu begründen. Da im Übrigen
+aber die kennzeichnende Wirkung der Zeichen infolge der völlig verschieden angeordneten weiteren Einzelbuchstaben "M" (einmal hinter dem "net", einmal davor) vollkommen unterschiedlich und im Übrigen die Verwendung der schutzunfähigen Bezeichnung "net" zusammen mit einer Abkürzung nicht sonderlich kenn-
+
+                                          -5-
+
+
+
+zeichnungskräftig sei, komme eine Verwechslungsgefahr zwischen den sich gegenüberstehenden Kennzeichnungen vorliegend ohnehin nicht in Betracht.
+Außerdem habe die Widersprechende eine rechtserhaltende Benutzung des Widerspruchszeichens im Sinne der §§ 43, 26 MarkenG nicht glaubhaft gemacht,
+weshalb nach § 43 Abs. 1 Satz 3 MarkenG für die Entscheidung über den Widerspruch aus der Marke 396 16 528.1 keine Dienstleistung berücksichtigt werden
+könne.
+
+
+Gegen die Beschlüsse der Markenstelle wendet sich die Widersprechende mit
+ihrer Beschwerde, soweit der Widerspruch jeweils zurückgewiesen worden ist. Sie
+ist der Auffassung, beide Marken seien durch die Bestandteile „M/m" und „net"
+geprägt und es verbleibe als einziger Unterschied die Umstellung der beiden prägenden jeweils identischen Bestandteile in den entgegenstehenden Marken, weshalb sie unter Hinweis auch auf vergleichbare Rechtsprechung hochgradig ähnlich
+seien. Soweit man einen beschreibenden Teil „net" annehmen wollte, führe das
+erst recht zu einer hochgradigen Ähnlichkeit.
+Hinsichtlich der rechtserhaltenden Benutzung verweist die Widersprechende darauf, dass das Zeichen „M"net" sogar mehrfach in den Unterlagen gezeigt sei
+(z. B. „M"net DSLplus", „M"net DSLplus privat", „M"net ISDN" , „M"net ISDN privat", „M"net Metro-Ethernet").
+
+
+Ergänzend     wird   auf   den   Inhalt    der   Schriftsätze   vom   12. April   und
+27. September 2012 Bezug genommen.
+
+
+Die Widersprechende beantragt,
+
+
+         die Beschlüsse der Markenstelle für Klasse 38 des DPMA vom
+         1. Oktober 2008 und 8. März 2012 jeweils im Umfang der Zurückweisung des Widerspruchs aufzuheben.
+
+                                      -6-
+
+
+
+Die Markeninhaberin beantragt,
+
+
+      die Beschwerde zurückzuweisen.
+
+
+Sie meint, die sich gegenüberstehenden Zeichen seien nicht verwechselbar ähnlich, da „net“ kennzeichnungsschwach sei und die grammatikalisch atypische Verwendung von zwei Apostrophen als Surrogat für einen Bindestrich einen markanten Unterschied ausmache, der auch vom nur flüchtigen Betrachter bemerkt und
+erinnert werde. Die Waren und Dienstleistungen seien zudem ausreichend entfernt vergleichbar, da auch innerhalb der Klasse 38 verschiedene Waren/Dienstleistungen mit unterschiedlichem Fokus enthalten seien, so z. B. die
+Dienstleistungen „rund ums Handy" der Markeninhaberin und „Dienstleistungen
+eines Providers für Internet und Telefonie“ der Widersprechenden. Die vorgetragene Benutzung stelle lediglich eine rein firmenmäßige Verwendung dar. Auf den
+Inhalt der Schriftsätze vom 14. August 2012 und 28. Januar 2013 wird Bezug genommen.
+
+
+
+
+                                       II
+
+
+Die zulässige Beschwerde der Widersprechenden ist unbegründet. Zwischen der
+angegriffenen Marke und der prioritätsälteren Widerspruchsmarke besteht keine
+markenrechtlich relevante Verwechslungsgefahr i. S. d. § 9 Abs. 1 Nr. 2 MarkenG,
+weshalb Bedenken im Zusammenhang mit rechtserhaltender Benutzung der Widerspruchsmarke dahinstehen können.
+
+
+Die Beurteilung der Verwechslungsgefahr nach der vorgenannten Bestimmung ist
+unter Berücksichtigung aller Umstände des Einzelfalles vorzunehmen. Dabei besteht eine Wechselwirkung zwischen den in Betracht zu ziehenden Faktoren, insbesondere der Ähnlichkeit bzw. der Identität der Marken, der für die Marken eingetragenen Waren bzw. Dienstleistungen und der Kennzeichnungskraft der prio-
+
+                                      -7-
+
+
+
+ritätsälteren Marke, sodass ein geringerer Grad der Ähnlichkeit der Marken oder
+Waren bzw. Dienstleistungen durch eine erhöhte Kennzeichnungskraft der älteren
+Marke ausgeglichen werden kann und umgekehrt (ständige Rechtsprechung, vgl.
+BGH GRUR 2008, 905 - Pantohexal; GRUR 2010, 235 - AIDA/AIDU). Bei dieser
+umfassenden Beurteilung der Verwechslungsgefahr ist auf den durch die Zeichen
+hervorgerufenen Gesamteindruck abzustellen, wobei insbesondere ihre unterscheidungskräftigen und dominierenden Elemente zu berücksichtigen sind
+(EuGH GRUR 2010, 933 - Barbara Becker; BGH GRUR 2012, 64 - Maalox/Melox-GRY).
+
+
+
+Ausgehend von diesen rechtlichen Grundsätzen besteht zwischen den beiderseitigen Marken selbst bei Identität der Waren keine markenrechtliche Verwechslungsgefahr i. S. d. § 9 Abs. 1 Nr. 2 MarkenG, denn die Widerspruchsmarke verfügt wegen ihres für die maßgeblichen Waren beschreibenden Sinngehalts, der
+sich unstreitig aufdrängt und den auch die Markenstelle zutreffend herausgearbeitet, über einen von Haus aus verminderten Schutzumfang. Der Bestandteil
+„net" der Widerspruchsmarke weist im Bereich „Telekommunikation" auf ein Netz
+bzw. ein Kommunikationsnetz hin. Auch ist dieser Teil häufig im Bereich der Telekommunikation am Markt vertreten. Es ist somit von einer originären Kennzeichnungsschwäche und somit von einer erheblichen Schwächung der Kennzeichnungskraft der Widerspruchsmarke auszugehen.
+
+
+Die Feststellung der Kennzeichnungskraft der prioritätsälteren Marke ist im markenrechtlichen Widerspruchsverfahren unabdingbare Voraussetzung und Grundlage für die Beurteilung der Verwechslungsgefahr (BGH GRUR 2008, 505,
+507 - TUC-Salzcracker). Eine normale Kennzeichnungskraft kommt Marken zu,
+die uneingeschränkt geeignet sind, zur Unterscheidung der Waren und Dienstleistungen ihres Inhabers zu dienen (EuGH GRUR Int. 1999, 734, 736 - Lloyd).
+Dagegen können schutzunfähige Zeichen und Angaben für sich genommen nicht
+Grundlage einer markenrechtlich relevanten Verwechslungsgefahr sein. Das be-
+
+                                       -8-
+
+
+
+deutet insbesondere, dass der Schutzbereich von Marken, die nur eine geringe
+Unterscheidungskraft aufweisen und/oder an beschreibende Angaben angelehnt
+sind, eng zu bemessen ist und sich auf die jeweilige - ggf. nur minimale - eintragungsbegründende Eigenprägung beschränkt (BGH GRUR 2008,
+1002, 1004 - Schuhpark; GRUR 2010, 729, 731 - MIXI), wobei allein der Umstand,
+dass die fragliche Angabe im Verkehr sonst noch verwendet wird, noch nicht gegen eine Kennzeichnungsschwäche spricht (BGH a. a. O. - Schuhpark).
+
+
+Handelt es sich bei der eingetragenen prioritätsälteren Marke um eine beschreibende oder sonst schutzunfähige Angabe, so kann ihr wegen der Bindungswirkung der Eintragung zwar nicht jeder Schutz abgesprochen werden. Jedoch ist der
+Schutzbereich einer solchen Marke auf ein Minimum zu beschränken, mit der
+Folge, dass schon geringe Abwandlungen oder Hinzufügungen aus dem Schutzumfang der Marke herausführen (st. Rspr., vgl. BPatG PAVIS PROMA
+24 W (pat) 202/99                     - Dent-O-Care/Dent                     Care;
+24 W pat) 79/07       -   THERMARIVM/THERMARIUM;            29 W (pat) 16/09 – framewwwork/FRAMEWORKS;                 30 W (pat) 243/04         – BIO-LINE/Bioline;
+32 W (pat) 23/00 - Clima Innova; 29 W (pat) 220/00 - T-INNOVA; BGH GRUR
+2012, 1040 - pjur).
+
+
+Wegen des geringen Schutzumfangs der Widerspruchsmarke besteht zwischen
+ihr und der angegriffenen Marke trotz der Übernahme der Bestandteile „M/m“ und
+„net“ in die angegriffene Marke und der daraus resultierenden gewissen Ähnlichkeit der Marken in diesem Bestandteil keine markenrechtlich relevante Verwechslungsgefahr i. S. d. § 9 Abs. 1 Nr. 2 MarkenG.
+
+
+Bei der Beurteilung der Markenähnlichkeit ist stets von der im Register eingetragenen Form der Marken auszugehen (BGH a. a. O. – il Padrone / II Portone). Insoweit unterscheiden sich die beiderseitigen Marken sowohl schriftbildlich als auch
+klanglich. Es sind die sich gegenüberstehenden Kennzeichen jeweils als Ganzes
+zu berücksichtigen und in ihrem Gesamteindruck miteinander zu vergleichen. Das
+
+                                       -9-
+
+
+
+schließt jedoch nicht aus, dass unter Umständen ein oder mehrere Bestandteile
+eines komplexen Kennzeichens für den Gesamteindruck prägend sein können,
+den das Kennzeichen im Gedächtnis der angesprochenen Verkehrskreise hervorruft. Bei Wort-/Bildmarken tritt bei mündlicher Wiedergabe grundsätzlich der Bildbestandteil zurück. Es stehen sich somit die Worte „M"-net" und „net-m" gegenüber.
+
+
+
+
+Zwar ist bei der Beurteilung der klanglichen Ähnlichkeit im Fall einer anagrammatischen Klangrotation die Annahme einer Verwechslungsgefahr nicht ausgeschlossen, da sich der Durchschnittsverbraucher bei flüchtiger Wahrnehmung einzelne Zeichenelemente merkt, sich aber - wenn der erste Eindruck verblasst -
+häufig nicht mehr an seine genaue Reihenfolge erinnern kann und deshalb versucht ist, in einem aus entsprechenden Teilen aber in anderer Reihenfolgen gebildeten Zeichen die früher gehörte Marke wiederzuerkennen. Dies gilt insbesondere
+für Fälle, in denen sich die begriffliche Gesamtaussage nicht wesentlich verändert.
+Allerdings ist bei der Verbindung kennzeichnungsschwacher Markenteile, deren
+Schutzfähigkeit auf der gewählten Reihenfolge beruht Zurückhaltung geboten
+(Ströbele/Hacker, Markengesetz, 10. Auflage, § 9 Rdn. 240). Da ferner zu beachten ist, dass bei Kurzwörtern - wie hier - diese durch die vorliegenden Abweichungen stärker beeinflusst werden, weshalb eine klangliche Verwechselungsgefahr
+nicht zu besorgen ist.
+
+Bei der Beurteilung der schriftbildlichen Ähnlichkeit der Marken ist schließlich zu
+berücksichtigen, dass das Schriftbild von Marken erfahrungsgemäß eine genauere
+und in der Regel sogar wiederholte Wahrnehmung der Bezeichnung gestattet als
+die schnell verklingende Bezeichnung einer reinen Wortmarke (BPatG GRUR
+2004, 950, 954 - ACELAT/Acesal). Zur Unterscheidbarkeit der Marken trägt insoweit außer der deutlich unterschiedlichen Anordnung der Zeichenbestandteile bei,
+dass die angegriffene Marke in der maßgeblichen eingetragenen Form einen
+deutlich anderen, sofort ins Auge springenden Zeichenaufbau aufweist als die
+
+                                       - 10 -
+
+
+
+Widerspruchsmarke. Zuletzt tritt der Bildbestandteil der angegriffenen Marke zwar
+nicht prägend in den Vordergrund. Der Verkehr wird ihn aber auch nicht gänzlich
+unberücksichtigt lassen. Bestehen die kollidierenden Zeichen jeweils aus einem
+einzelnen Buchstaben, haben bildliche Zeichenunterschiede bei der Beurteilung
+der visuellen Zeichenähnlichkeit ein wesentlich größeres Gewicht als bei normalen
+Wortzeichen (BGH GRUR 2012, 930-936 (Bogner B/Barbie B), was auch gelten
+muss, wenn der weitere Zeichenbestandteil als kennzeichnungsschwach zurücktritt.
+
+
+Die Ähnlichkeit der beiderseitigen Marken in ihrer jeweils eingetragenen Form ist
+in klanglicher und schriftbildlicher Hinsicht daher nur als sehr gering zu bewerten,
+was bei der geringen Kennzeichnungskraft der Widerspruchsmarke für die Feststellung einer markenrechtlich relevanten Verwechslungsgefahr i. S. d. § 9 Abs. 1
+Nr. 2 MarkenG nicht ausreicht.
+
+
+Der Bestandteil „net“ der angegriffenen Marke ist auch nicht geeignet, deren Gesamteindruck zu prägen. Die Eignung zur Prägung des Gesamteindrucks fehlt
+diesem mit der Widerspruchsmarke übereinstimmenden Bestandteil schon deshalb, weil er für die hier maßgeblichen Waren angesichts seines beschreibenden
+Charakters nur über eine geringe Kennzeichnungskraft verfügt. Schon die Markenstelle hat zutreffend darauf hingewiesen, dass auch bei identischen Waren
+deshalb eine Verwechslungsgefahr für das Publikum nicht zu besorgen ist.
+
+
+Auch eine markenrechtlich relevante begriffliche Verwechslungsgefahr der Marken
+besteht nicht. Die Übereinstimmung von Marken in beschreibenden Begriffen oder
+an diesen angelehnten Bestandteilen reicht für die Annahme einer markenrechtlichen Verwechslungsgefahr nicht aus (st. Rspr.; vgl. BPatG PAVIS PROMA
+24 W (pat) 113/04    - FITAMIN/VIT-H-MIN;       25 W (pat) 34/07   - Sucren/SUKRI-NETTEN).
+
+                                       - 11 -
+
+
+
+Weitere Tatsachen, die eine Verwechslungsgefahr der Marken nahelegen könnten, sind weder von der Widersprechenden vorgetragen worden noch sonst ersichtlich. Daher konnte die Beschwerde der Widersprechenden keinen Erfolg haben.
+
+Die Voraussetzungen zur Zulassung der Rechtsbeschwerde gem. § 83 Abs. 2
+Nr. 1 und 2 MarkenG sind nicht gegeben, da weder eine Rechtsfrage von grundsätzlicher Bedeutung zu entscheiden war, noch die Fortbildung des Rechts oder
+die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Bundesgerichtshofs erfordern. Zur Bejahung dieses Tatbestandes reicht es nicht aus,
+dass die Sache von besonderer Wichtigkeit für die Beteiligten ist. Rechtlich beruht
+die vorliegende Entscheidung des Senats auf in ständiger Rechtsprechung anerkannten Grundsätzen zur Beurteilung von Unterscheidungskraft und des Freihaltungsbedürfnisses. Nach ständiger Rechtsprechung des Europäischen Gerichtshofes (vgl. EuGH GRUR 2004, 674, Rdn. 86 - Postkantoor; EuGH GRUR 2004,
+680, Rdn. 19 - BIOMILD; EuGH GRUR Int. 2011, 400, Rdn. 33, 46 - Zahl 1000)
+sind beschreibende Zeichen und Angaben „zwangsläufig“ nicht unterscheidungskräftig.
+
+
+Für eine Auferlegung der Kosten des Beschwerdeverfahrens auf eine der am
+Verfahren beteiligten Parteien (§ 71 Abs. 1 S. 1 MarkenG) besteht nach der Sachund Rechtslage keine Veranlassung. Auch das Verhalten der Beteiligten gibt keinen Anlass für eine solche Kostenauferlegung. Daher bleibt es bei der für das
+markenrechtliche Beschwerdeverfahren im Regelfall vorgesehenen gesetzlichen
+Kostenfolge des § 71 Abs. 1 S. 2 MarkenG, wonach jeder Beteiligte die ihm entstanden Kosten selbst zu tragen hat.
+
+
+
+
+Dr. Fuchs-Wissemann                    Reker                     Dr. Himmelmann
+
+
+                                                                                Bb
