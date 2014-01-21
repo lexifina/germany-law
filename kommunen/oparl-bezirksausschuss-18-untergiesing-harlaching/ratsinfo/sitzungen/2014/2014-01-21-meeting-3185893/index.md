@@ -1,0 +1,123 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-01-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3185893
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3185893
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.4.1 Rahmenplanung Tegernseer Landstraße - Begrünung der Tegernseer Landstraße
+- TOP 1.2.: 1.4.2 Tempo 30 für den Bereich Deisenhofener Straße, Werinherstraße, Heimgarten- und Herzogstandstraße, Eintracht- und Schlierseestraße
+- TOP 1.3.: 1.4.3 Rahmenplanung Tegernseer Landstraße - Untersuchung der Auswirkungen für die Martin-Luther-Straße durch Ausweichverkehr
+- TOP 1.4.: 1.4.4 Brücke über den Giesinger Berg für Fußgänger, Radfahrer und Menschen mit Mobilitätseinschränkung
+- TOP 1.5.: 1.4.5 Ampel in Höhe der Aignerstraße zur Verbesserung der Schulwegsicherheit
+- TOP 1.6.: 1.4.6 Rahmenplanung Tegernseer Landstraße - Realisierung der Variante 1
+- TOP 1.7.: 1.4.7 Rahmenplanung Tegernseer Landstraße - Einbau von Schallschutzfenstern
+- TOP 1.8.: 1.4.8 Verkehrsberuhigung der Aignerstraße zwischen Gietlstraße und Ichostraße
+- TOP 1.9.: 1.4.9 Tempo 30 für die Silberhornstraße und Ichostraße
+- TOP 1.10.: 1.4.10 Lärmschutzmaßnahmen für die Martin-Luther-Straße
+- TOP 1.11.: 1.4.11 Giesinger Berg - oberiridische Querung statt unterirdischer
+- TOP 1.12.: 1.4.12 Parkplatznot in der Aignerstraße - Abbau von Haltverbotsschildern
+- TOP 1.13.: 1.4.13 Lieferverkehr für Gewerbetreibende der Tegernseer Landstraße ermöglichen
+- TOP 1.14.: 1.4.14 Erhalt von Kurzzeit-Parkmöglichkeiten
+- TOP 1.15.: 1.4.15 Mehr Fahrrad-Abstellmöglichkeiten, nicht nur an Tram- und U-Bahnstationen
+- TOP 1.16.: 1.4.16 Verbesserung der Querungsmöglichkeiten über die Tegernseer Landstraße
+- TOP 1.17.: 1.4.17 zukünftige Verkehrsführung: weniger Durchgangsverkehr, mehr Zielverkehr für die Tegernseer Landstraße
+- TOP 1.18.: 1.4.18 Koordination von Baustellen - Erhalt des Zugangs zu den Geschäften
+- TOP 1.19.: Wegenetz Giesing: Maßnahmen zeitnah umsetzen; Antrag der Fraktion Bündnis 90/Die Grünen vom 11.01.2014
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Harlachinger Burschenfest 2014; Bürgerschreiben vom 07.01.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Bürgervereinigung Maibaum Untergiesing e.V., für die Maßnahme: Maibaumaufstellen am 01.05.2014 auf dem Hans-Mielich-Platz; Antragssumme: 4.740,00 ?; Antrag vom 02.01.2014
+- TOP 3.1.: Sachbericht über den Bau eines Spielhauses (unterstützt aus dem Budget des BA 18 im Jahr 2013) im Kindergarten Karl & Liesl e.V.
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tiefgarage Agilolfingerschule: Platzgestaltung berücksichtigen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 vom 06.12.2013 - <div>nach Antrag</div>
+- TOP 3.2.: Machbarkeitsstudie Tegernseer Landstraße / Chiemgaustraße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 vom 15.12.2013 (vertagt aus der Sitzung vom 17.12.2013) - <div>nach Antrag</div>
+- TOP 3.1.: Bozzarisstraße; Einrichtung eines absoluten Haltverbots; verkehrsrechtliche Anordnung nach § 45 StVO; Zuleitung des KVR vom 17.12.2013 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Agilolfingerstraße - nördl. Einmündung Thusneldastraße - Neuherstellung Querungshilfe Agilolfingerstraße beiseitig; Erinnerungsverfahren des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.2.: Verkehrsbelastung ? Parksituation Tierpark; Bürgerschreiben vom 04.11.2013; Stellungnahme des Referats für Stadtplanung u. Bauordnung vom 19.12.2013 (neutrale Erledigung)
+- TOP 3.3.: Reinekestraße 10 - absolutes Haltverbot; Stellungnahme des KVR zu einem Bürgerschreiben vom 29.11.2013 (neutrale Erledigung)
+- TOP 3.1.: Entfernung des Radfahrstreifens an der Südseite des Theodolindenplatzes; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.2.: Stresemannstraße - eingeschränktes Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Handlungsprogramm Mittlerer Ring - Bericht über Ergebnisse der Machbarkeitsuntersuchungen zu baulichen Maßnahmekonzepten zur Verbesserung der Lärm- und Luftschadstoffsituation an der Landshuter Allee und Tegernseer Landstraße - weiteres Vorgehen; Sitzungsvorlagen Nr. 08-14 / V 13576; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.12.2013 zu 3.2.6.3 Beschluss der Vollversammlung vom 18.12.2013; Neufassung vom 18.12.2013
+- TOP 3.4.: Öffnung der in Richtung Westen einbahngeregelten Berchtesgadener Straße zwischen Grünwalder Straße und Säbener Straße für den gegenläufigen Radverkehr; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 3.5.: Handlungsprogramm Mittlerer Ring; Sachstand und weiterer Handlungsbedarf - Straßennetz im Münchner Südwesten entlasten; Antrag Nr. 08-14 / A 03614 - Qualifizierter Abschluss der Ausbaumaßnahmen am Mittleren Ring in München; Antrag Nr. 08-14 / A 01557 - Hadern und Sendling-Westpark vom Autobahn-Verbindungsverkehr wirksam entlasten; Antrag Nr. 08-14 / A 01620 - Qualifizierter Abschluss der Ausbaumaßnahmen am Mittleren Ring in München; Antrag Nr. 08-14 / A 03865 - Ein Englischer Garten; Antrag Nr. 08-14 / B 04337 - Provisorischer Umbau der Staustelle Isarring / Ifflandstraße; Antrag Nr. 08-14 / A 04154 - Provisorium und Tunnel Englischer Garten; Antrag Nr. 08-14 / A 04865; Sitzungsvorlage Nr. 08-14 / V 10707; Beschluss der Vollversammlung des Stadtrates vom 18.12.2013; Neufassung vom 18.12.2013
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vollzug der Wassergesetze; vorläufige Sicherung des Überschwemmungsgebietes an der Isar; Sitzungsvorlage Nr. 08-14 / V 13738; Bekanntgabe in der Sitzung des Umweltschutzausschusses vom 28.01.2014
+- TOP 3.2.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion DIE GRÜNEN/RL vom 07.06.2013; Sitzungsvorlage Nr. 08-14 / V 13354; Beschluss des Bauausschusses vom 10.12.2013 (SB)
+- TOP 3.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung des Baureferats-Gartenbau vom 03.12.2013 über das Fällen von Gefahrenbäumen
+- TOP 3.4.: Unterrichtungen der UNB mit Vollzug der Baumschutzverordnung 3.3.6.4.1 Harthauser Str. 133; Bescheid vom 02.01.2014 3.3.6.4.2 Laufzorner Str. 6; Bescheid vom 30.12.2013
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Wie geht es weiter mit der Agilolfingerschule? Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 vom 06.12.2013 - <div>nach Antrag</div>
+- TOP 3.1.: Quartiersbezogene Bewohnerarbeit; Produkt 60 4.1.7 Wirkungsanalyse; Ergebnisse der Studie der Hochschule München; Nachbarschaftstreff auf dem Prüfstand; Antrag Nr. 08-14 / A 02929 der Stadtratsfraktion der FDP vom 23.11.11; Sitzungsvorlage Nr. 08-14 / V 13224; Beschluss des Sozialausschusses vom 05.12.2013 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung; Zuleitung des KVR vom 17.12.2013 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Griechenstraße 9, Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 18.12.13
+- TOP 3.2.: Schmorellplatz 8, Neubau eines Mehrfamilienhauses mit TG und Rückbau des Bestandsgebäudes - VORBESCHEID; Anhörung vom 20.12.2013
+- TOP 3.3.: Geiselgasteigstraße 88b, Erneuerung Hausein- und -zugang; Anhörung vom 27.12.2013
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.2.: Stiftungsanwesen Armanspergstraße 3 - Neubau eines Wohngebäudes mit Tiefgarage - VORBESCHEID; Verkauf des Anwesens; Stellungnahme und Anfrage des BA 18 aus der Sitzung vom 19.11.2013; Antwortschreiben des Sozialreferats vom 18.12.2013 (neutrale Erledigung)
+- TOP 3.3.: Candidplatz - farbliche Gestaltung der Pfeiler der Candidhochbrücke; BA-Antrag Nr. 08-14 / B 05192 vom 17.09.13; Antwortschreiben des Baureferats vom 05.11.2013 (negative Erledigung) und E-Mail des Baureferats vom 17.12.2013 (vertagt aus der Sitzung vom 17.12.2013)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Grauertstraße; Mitteilung des Sozialreferats vom 12.12.13 3.5.6.3.2 Stresemannstraße; Mitteilung des Sozialreferats vom 18.12.13
+- TOP 3.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 SSW "Kyeso", Candidplatz 9; Mitteilung vom 20.12.2013 3.5.6.4.2 SSW "Likabitos", Kühbachstraße 4; Mitteilung vom 20.12.2013
+- TOP 3.5.: München Modell-Miete Elisabeth-Kohn-Straße; Sitzungsvorlagen Nr. 08-14 / V 13775; Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 3.6.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2088 Candidstraße (südlich), Hellabrunner Straße (östlich), Salierstraße (westlich) (Änderung des Bebauungsplanes Nr. 10b) - ehem. Osramgelände - - Eckdaten- und Aufstellungsbeschluss - B) Auslobung eines städtebaulichen und landschaftsplanerischen Wettbewerbes Stadtbezirk 18 - Untergiesing-Harlaching Sitzungsvorlagen Nr. 08-14 / V 13714; Beschluss der Vollversammlung des Statdrates vom 18.12.2013 (Neufassung vom 12.12.2013)
+- TOP 3.7.: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts ("BauGB-Novelle 2013"); Sitzungsvorlagen Nr. 08-14 / V 13668; Bekanntgabe in des Ausschusses für Stadtplanung u. Bauordnung vom 15.01.2014
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.13; Zwischennachricht des Direktoriums vom 16.12.13 mit der Bitte um Fristverlängerung bis 31.03.2014
+- TOP 4.2.: Bürgerversammlung an einem Samstag; Bürgerantrag an das Direktorium; Stellungnahme des Direktoriums vom 05.12.2013 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Zuteilung einer städtischen Mailadresse an Bezirksausschussvorsitzende; Schreiben des Direktoriums vom 09.12.2013
+- TOP 4.2.: Haushaltsplan 2014 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 13516; Beschluss des Finanzausschusses vom 17.12.2013 (VB)
+- TOP 4.3.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren; Sitzungsvorlage Nr. 08-14 / V 13605; Beschlussentwurf für den Verwaltungs- und Personalausschuss am 15.01.2014
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
