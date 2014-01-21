@@ -1,0 +1,349 @@
+---
+ecli: "ECLI:DE:BGH:2014:210114ENVR22.13.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Kartellsenat"
+aktenzeichen: "EnVR 22/13"
+decided: "2014-01-21"
+typ: "B"
+bemerkung: "Öffentliche Bekanntmachung\r\nLeitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2014&Sort=1&Seite=5&nr=66785&anz=3080&pos=166&Blank=1.pdf"
+corpus_doc_id: "BGH_Kartellsenat_LE_2014-01-21_NA_EnVR_22_13_NA_Öffentliche-Bekanntmachung_0.txt"
+cites_law: ["germany/bund/acts/ao_1977/0356.md", "germany/bund/acts/enwg_2005/0029.md", "germany/bund/acts/enwg_2005/0073.md", "germany/bund/acts/enwg_2005/0078.md", "germany/bund/acts/enwg_2005/0090.md", "germany/bund/acts/sgg/0066.md", "germany/bund/acts/vwgo/0056a.md", "germany/bund/acts/vwgo/0058.md", "germany/bund/acts/vwvfg/0041.md", "germany/bund/acts/vwzg_2005/0004.md", "germany/bund/acts/vwzg_2005/0005.md"]
+---
+
+# Bundesgerichtshof, EnVR 22/13 vom 2014-01-21: Öffentliche-Bekanntmachung
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                              BESCHLUSS
+EnVR 22/13
+
+                                      vom
+
+                                21. Januar 2014
+
+              in der energiewirtschaftsrechtlichen Verwaltungssache
+
+
+Nachschlagewerk:      ja
+
+BGHZ:               nein
+
+BGHR:                 ja
+
+                                                     Öffentliche Bekanntmachung
+
+EnWG § 73 Abs. 1a
+
+Zu den Anforderungen an eine die Zustellung ersetzende öffentliche Bekanntmachung nach § 73 Abs. 1a EnWG.
+
+BGH, Beschluss vom 21. Januar 2014 - EnVR 22/13 - OLG Düsseldorf
+
+                                          -2-
+
+
+
+      Der Kartellsenat des Bundesgerichtshofs hat am 21. Januar 2014 durch den
+Vorsitzenden     Richter   Prof. Dr. Meier-Beck   und   die   Richter   Prof. Dr. Strohn,
+Dr. Grüneberg, Dr. Bacher und Dr. Deichfuß
+
+
+beschlossen:
+
+
+
+      Die Rechtsbeschwerde gegen den Beschluss des 3. Kartellsenats des
+      Oberlandesgerichts Düsseldorf vom 22. März 2013 in der Fassung
+      des Berichtigungsbeschlusses vom 29. April 2013 wird zurückgewiesen.
+
+
+
+      Die Betroffene hat die Kosten des Rechtsbeschwerdeverfahrens einschließlich der notwendigen Auslagen der Bundesnetzagentur zu tragen.
+
+
+
+      Der Wert für das Rechtsbeschwerdeverfahren wird auf 50.000 € festgesetzt.
+
+                                            -3-
+
+
+
+
+                                          Gründe:
+
+
+                                             I.
+
+
+
+1          Die Betroffene, die ein regionales Strom- und Gasversorgungsnetz betreibt,
+    wendet sich gegen den öffentlich bekanntgemachten Beschluss der Bundesnetzagentur vom 31. Oktober 2011 "hinsichtlich der Festlegung von Eigenkapitalzinssätzen für Alt- und Neuanlagen für Betreiber von Elektrizitäts- und Gasversorgungsnetzen für die zweite Regulierungsperiode in der Anreizregulierung" (BK4-11-304). Die
+    Beteiligten streiten im vorliegenden Rechtsbeschwerdeverfahren lediglich darum, ob
+    die Beschwerde der Betroffenen gegen die Festlegung fristgerecht eingelegt worden
+    ist.
+
+
+2          Die Bundesnetzagentur hat den Tenor der Festlegung mit Mitteilung
+    Nr. 817/2011 in ihrem Amtsblatt Nr. 21 vom 2. November 2011 bekannt gemacht. Die
+    Mitteilung hat außerdem unter anderem folgenden weiteren Inhalt:
+
+
+           "Die vollständige Entscheidung kann auf der Homepage der Bundesnetzagentur (www.bundesnetzagentur.de, Beschlusskammer 4) abgerufen werden. Gemäß § 73 Abs. 1a EnWG ergeht hiermit der Hinweis,
+           dass die Festlegung mit dem Tag als zugestellt gilt, an dem seit dem
+           Tag der Bekanntmachung im Amtsblatt der Bundesnetzagentur zwei
+           Wochen verstrichen sind.
+
+
+           Gegen diese Entscheidung ist die Beschwerde zulässig. Sie ist schriftlich binnen einer mit der Zustellung der Entscheidung beginnenden Frist
+           von einem Monat bei der Bundesnetzagentur … einzureichen. Zur
+           Fristwahrung genügt jedoch, wenn die Beschwerde innerhalb dieser
+           Frist bei dem Beschwerdegericht, dem Oberlandesgericht Düsseldorf,
+           eingeht. …"
+
+                                             -4-
+
+
+
+3         Gegen die Festlegung hat die Betroffene beim Beschwerdegericht am 25. Juli
+    2012 Beschwerde eingelegt. Sie ist der Auffassung, dass die Beschwerdefrist noch
+    nicht abgelaufen sei, weil die Rechtsbehelfsbelehrung in der Mitteilung Nr. 817/2011
+    fehlerhaft sei und deshalb die Beschwerde in analoger Anwendung des § 58 Abs. 2
+    VwGO fristwahrend noch innerhalb eines Jahres ab der Bekanntmachung habe eingelegt werden können. Das Beschwerdegericht hat die Beschwerde als unzulässig
+    verworfen. Dagegen richtet sich die - vom Beschwerdegericht zugelassene - Rechtsbeschwerde der Betroffenen.
+
+
+
+                                             II.
+
+
+4         Die Rechtsbeschwerde, über die der Senat ohne mündliche Verhandlung entscheiden kann (vgl. BGH, Beschluss vom 29. April 1971 - KVR 1/71, BGHZ 56, 155,
+    157 - Bankenverband), ist unbegründet.
+
+
+5         1. Das Beschwerdegericht hat seine Entscheidung (OLG Düsseldorf, RdE
+    2013, 441) im Wesentlichen wie folgt begründet:
+
+
+6         Die Beschwerde sei unzulässig, weil sie erst am 25. Juli 2012 und damit nicht
+    binnen der Frist von einem Monat ab Zustellung der Festlegung eingegangen sei
+    (§ 78 Abs. 1 Satz 1, Satz 2 EnWG). Gemäß § 73 Abs. 1 Satz 1 EnWG sei die Regulierungsbehörde verpflichtet, ihre mit einer Rechtsmittelbelehrung versehenen Entscheidungen nach den Vorschriften des Verwaltungszustellungsgesetzes des Bundes förmlich zuzustellen. § 73 Abs. 1a EnWG sehe jedoch unter anderem für Festlegungen nach § 29 Abs. 1 und 2 EnWG ergänzend dazu vor, dass die Zustellung
+    durch öffentliche Bekanntmachung ersetzt werden könne. Dies sei im Streitfall
+    dadurch bewirkt worden, dass der verfügende Teil der Festlegung, die Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung der vollständigen Entscheidung im Amtsblatt der Bundesnetzagentur vom 2. November 2011 bekannt gemacht worden seien. Aufgrund der Fiktion des § 73 Abs. 1a Satz 3 EnWG sei die
+
+                                            -5-
+
+
+
+    Festlegung den betroffenen Netzbetreibern damit am 16. November 2011 wirksam
+    zugestellt worden.
+
+
+7         Der Einwand der Betroffenen, mit Blick auf § 73 Abs. 1a Satz 4 EnWG gelte
+    die Festlegung erst am 5. November 2011 als bekannt gemacht, so dass sie erst am
+    19. November 2011 als zugestellt gelte, gehe fehl. Dass § 73 Abs. 1a Satz 4 EnWG
+    in der bis zum 27. Dezember 2012 geltenden Fassung die entsprechende Anwendung des § 41 Abs. 2 Satz 2 VwVfG vorgesehen habe, ändere daran nichts. Die Fiktion der Zustellung knüpfe allein an den Tag der (öffentlichen) Bekanntmachung im
+    Amtsblatt der Bundesnetzagentur an. Die Bekanntgabefiktion des § 41 Abs. 2 Satz 2
+    VwVfG habe darauf keinen Einfluss. Diese Norm beziehe sich nur auf die - nicht
+    förmliche - elektronische Bekanntgabe von Verwaltungsakten, während der Gesetzgeber in § 73 Abs. 1 EnWG die förmliche Zustellung der Entscheidungen der Regulierungsbehörde nach den Vorschriften des Verwaltungszustellungsgesetzes vorsehe. Soweit es die Regelungen zum Ersatz der - förmlichen - Zustellung durch öffentliche Bekanntmachung angehe, wäre daher allenfalls Raum für eine entsprechende
+    Anwendung der in § 41 Abs. 4 VwVfG enthaltenen Regelungen. Die Verweisung in
+    § 73 Abs. 1a Satz 4 EnWG auf § 41 Abs. 2 Satz 2 VwVfG sei daher fehlerhaft. Dies
+    ergebe sich auch aus der zum 28. Dezember 2012 erfolgten Änderung des § 73
+    Abs. 1a Satz 4 EnWG, der nun nicht mehr auf § 41 Abs. 2 Satz 2 VwVfG, sondern
+    auf § 41 Abs. 4 Satz 4 VwVfG verweise. Vor diesem Hintergrund könne der frühere
+    Verweis auf § 41 Abs. 2 Satz 2 VwVfG nach dem Sinn und Zweck nur dahin verstanden werden, dass die dort vorgesehene Fiktion der Bekanntgabe bei elektronischer
+    Übermittlung die Kenntnis von dem vollständigen Inhalt der Festlegung betreffe.
+
+
+8         Entgegen der Auffassung der Betroffenen sei auch die der Entscheidung beigefügte Rechtsmittelbelehrung nicht fehlerhaft, so dass für eine entsprechende Anwendung des § 58 Abs. 2 VwGO mit der Folge einer einjährigen Beschwerdefrist
+    kein Raum sei. Insbesondere sei die abstrakte Angabe des Fristbeginns ausreichend; die konkrete Berechnung der Frist obliege jeweils den Betroffenen. Aus dem
+    Umstand, dass die Zustellung hier durch öffentliche Bekanntmachung ersetzt sei,
+
+                                                -6-
+
+
+
+     folge nichts anderes. Der besonderen Schutzbedürftigkeit der von der Zustellungsfiktion betroffenen Netzbetreiber trage § 73 Abs. 1a Satz 3 EnWG dadurch Rechnung,
+     dass in der Bekanntmachung auf die Zustellungsfiktion hingewiesen werde. Schließlich habe es keines Hinweises auf die bei elektronischer Übermittlung vorgesehene
+     Dreitagesfrist bedurft, weil diese nicht eingreife.
+
+
+9           2. Diese Ausführungen halten rechtlicher Nachprüfung stand.
+
+
+10          Das Beschwerdegericht hat die Beschwerde zu Recht als unzulässig verworfen, weil die Betroffene ihre Beschwerde gegen die angegriffene Festlegung nicht
+     binnen der Frist von einem Monat ab Zustellung der Entscheidung eingelegt hat und
+     die der Bekanntmachung der Festlegung beigefügte Rechtsbehelfsbelehrung nicht
+     unrichtig im Sinne des § 73 Abs. 1a Satz 2 EnWG in Verbindung mit § 58 Abs. 2
+     Satz 1 VwGO ist.
+
+
+11          a) Das Erfordernis einer Rechtsbehelfsbelehrung für Entscheidungen der Regulierungsbehörde ergibt sich aus § 73 Abs. 1 Satz 1 EnWG. Der notwendige Inhalt
+     der Rechtsbehelfsbelehrung und die Rechtsfolgen einer unrichtigen Belehrung sind
+     dagegen im Energiewirtschaftsgesetz nicht geregelt. Diese Regelungslücke ist durch
+     einen Rückgriff auf das Verwaltungsprozessrecht zu schließen (siehe hierzu Senatsbeschlüsse vom 11. November 2008 - EnVR 1/08, RdE 2009, 185 Rn. 9 - citiworks,
+     und vom 6. Mai 2009 - EnVR 16/08, RdE 2010, 51 Rn. 3 - Energiesparaktion), das in
+     § 58 Abs. 1 VwGO den Inhalt der Rechtsbehelfsbelehrung regelt und in § 58 Abs. 2
+     VwGO bestimmt, dass bei einer unrichtigen Belehrung die Frist für die Einlegung des
+     Rechtsbehelfs ein Jahr seit Zustellung beträgt.
+
+
+12          Danach ist eine Rechtsbehelfsbelehrung im Sinne des § 73 Abs. 1 Satz 1
+     EnWG fehlerhaft, wenn sie die in § 58 Abs. 1 VwGO zwingend geforderten Mindestangaben nicht enthält oder wenn diesen Angaben ein unzutreffender oder irreführender Zusatz beigefügt ist, der sich generell eignet, die Einlegung des Rechtsbehelfs zu erschweren (vgl. BVerwGE 25, 191, 192 f.; BVerwG, NJW 1991, 508; DVBl.
+
+                                            -7-
+
+
+
+     2002, 1553; NVwZ 2006, 943; ebenso BFHE 239, 25 zu § 356 Abs. 2 Satz 1 AO;
+     BSGE 79, 293 zu § 66 Abs. 2 Satz 1 SGG).
+
+
+13         b) Nach diesen Maßgaben ist weder die der Festlegung vom 31. Oktober 2011
+     beigefügte noch die in der Bekanntmachung vom 2. November 2011 enthaltene
+     Rechtsbehelfsbelehrung unrichtig.
+
+
+14         aa) Entgegen der Auffassung der Rechtsbeschwerde bedurfte es in den
+     Rechtsmittelbelehrungen keines Hinweises auf die Drei-Tages-Fiktion nach § 73
+     Abs. 1a Satz 4 EnWG in der bis zum 27. Dezember 2012 geltenden Fassung in Verbindung mit § 41 Abs. 2 Satz 2 VwVfG. Danach gilt ein Verwaltungsakt, der im Inland
+     oder in das Ausland elektronisch übermittelt wird, am dritten Tag nach der Absendung als bekannt gegeben. Diese Regelung ist indes nicht einschlägig, wenn die Regulierungsbehörde - wie hier - eine Entscheidung an die Betroffenen nicht nach § 73
+     Abs. 1 EnWG förmlich zustellt, sondern die Zustellung gemäß § 73 Abs. 1a EnWG
+     durch öffentliche Bekanntmachung ersetzt.
+
+
+15         Hierfür sprechen bereits der Wortlaut und der Regelungszusammenhang des
+     § 73 Abs. 1a EnWG. Nach dessen Satz 3 gilt im Fall der öffentlichen Bekanntmachung die Festlegung mit dem Tag als zugestellt, an dem seit dem Tag der Bekanntmachung im Amtsblatt der Bundesnetzagentur zwei Wochen verstrichen sind.
+     Unter Zugrundelegung der Rechtsauffassung der Rechtsbeschwerde würde diese
+     Frist bei Anwendung des § 41 Abs. 2 Satz 2 VwVfG indes im Regelfall stets um drei
+     Tage verlängert. Hätte der Gesetzgeber dies gewollt, hätte es aus Gründen der
+     Normenklarheit nahegelegen, auf die Verweisung zu verzichten und stattdessen die
+     Regelfrist von zwei Wochen unmittelbar in § 73 Abs. 1a Satz 3 EnWG anzuheben.
+     Der Verweisung auf § 41 Abs. 2 Satz 2 VwVfG kommt daher bei Ersetzung der förmlichen Zustellung einer Entscheidung durch deren öffentliche Bekanntmachung keine
+     Bedeutung zu.
+
+                                             -8-
+
+
+
+16         Dies folgt auch aus dem Normzusammenhang des § 41 VwVfG. Diese Vorschrift unterscheidet zwischen der Bekanntgabe eines schriftlichen Verwaltungsaktes
+     durch Übermittlung durch die Post oder auf elektronischem Weg, die in Absatz 2 geregelt wird, und der öffentlichen Bekanntgabe eines Verwaltungsaktes durch öffentliche Bekanntgabe in Absatz 4. Die Drei-Tages-Fiktion des § 41 Abs. 2 Satz 2 VwVfG
+     gilt (nur) für die individuelle Übermittlung eines Verwaltungsaktes, während bei der
+     öffentlichen Bekanntgabe eines Verwaltungsaktes nach Absatz 4 eine Zwei-Wochen-Fiktion vorgesehen ist. Diese Unterscheidung hat ihren Grund darin, dass im Falle
+     der individuellen Übermittlung eines schriftlichen Verwaltungsaktes die Zustellung
+     grundsätzlich mit der Übergabe erfolgt. Wird der Verwaltungsakt durch die Post
+     übermittelt, gilt er am dritten Tag nach der Aufgabe zur Post als bekannt gegeben
+     (§ 41 Abs. 2 Satz 1 VwVfG, § 4 Abs. 2 Satz 2 VwZG); ab dann läuft die Frist für die
+     Einlegung eines Rechtsbehelfs. Dem entsprechen für den Fall der elektronischen
+     Übermittlung eines Verwaltungsaktes die Drei-Tages-Fiktion des § 41 Abs. 2 Satz 2
+     VwVfG und des § 5 Abs. 7 Satz 2 VwZG. Damit soll den Unwägbarkeiten der postalischen Übermittlung wie denjenigen des Internets Rechnung getragen werden, weil
+     die Behörde den tatsächlichen Zugang des Verwaltungsaktes nicht selbst feststellen
+     kann (vgl. BT-Drucks. 14/9000, S. 34). Bei einer öffentlichen Bekanntgabe eines
+     schriftlichen oder elektronischen Verwaltungsaktes gilt dagegen gemäß § 41 Abs. 4
+     Satz 3 VwVfG für den Zeitpunkt der Bekanntgabe, ab dem die Rechtsbehelfsfrist
+     läuft, (sogar) eine Zwei-Wochen-Fiktion. Dem entspricht das Normengefüge des § 73
+     EnWG, der ebenfalls zwischen der individuellen Zustellung (Absatz 1) und der öffentlichen Bekanntmachung einer Entscheidung (Absatz 1a) unterscheidet. Für eine Verlängerung der Zwei-Wochen-Fiktion des § 73 Abs. 1a Satz 3 EnWG besteht kein
+     sachlicher Grund. Die Bundesnetzagentur bedient sich damit zwar eines elektronischen Übertragungswegs. Dies geschieht allerdings allein zu dem Zweck, den Betroffenen den vollständigen Inhalt einer Festlegung nach § 29 Abs. 1 EnWG oder
+     eines Änderungsbeschlusses nach § 29 Abs. 2 EnWG zugänglich zu machen, während die öffentliche Bekanntmachung bereits dadurch erfolgt, dass der verfügende
+     Teil der Entscheidung, die Rechtsbehelfsbelehrung und ein Hinweis auf die Veröf-
+
+                                             -9-
+
+
+
+     fentlichung der vollständigen Entscheidung auf der Internetseite der Bundesnetzagentur in ihrem Amtsblatt bekannt gemacht wird.
+
+
+17         Dem Verweis auf § 41 Abs. 2 Satz 2 VwVfG kommt daher für die öffentliche
+     Bekanntmachung nach § 73 Abs. 1a EnWG keine eigenständige Bedeutung zu. Dies
+     wird dadurch bestätigt, dass der Gesetzgeber selbst den Verweis als "fehlerhaft" bezeichnet (vgl. BT-Drucks 17/10754, S. 33) und mit Wirkung vom 28. Dezember 2012
+     durch das Dritte Gesetz zur Neuregelung energiewirtschaftsrechtlicher Vorschriften
+     vom 20. Dezember 2012 (BGBl. I S. 2730) geändert hat.
+
+
+18         bb) Anders als die Rechtsbeschwerde meint, bedurfte es in der Rechtsbehelfsbelehrung auch keines ausdrücklichen Hinweises darauf, dass die Zustellung
+     der Festlegung durch die öffentliche Bekanntmachung ersetzt worden ist. § 73
+     Abs. 1a EnWG schreibt einen solchen Hinweis nicht vor. Vielmehr ist es - im Interesse des Rechtsverkehrs und der Betroffenen - lediglich erforderlich, dass die mit der
+     öffentlichen Bekanntmachung verbundene Zustellungsfiktion klar und unmissverständlich mitgeteilt wird, um dem Rechtsuchenden die Frist für die Einlegung eines
+     etwaigen Rechtsbehelfs deutlich vor Augen zu führen. Diesen Anforderungen wird
+     die Mitteilung Nr. 817/2011 gerecht. Darin wird unter Nennung von § 73 Abs. 1a
+     EnWG auf die Zwei-Wochen-Fiktion hingewiesen. In der Rechtsbehelfsbelehrung
+     wird mitgeteilt, dass die Beschwerdefrist "mit der Zustellung der Entscheidung" beginnt. Damit waren für den angesprochenen Personenkreis, die Netzbetreiber, Beginn und Ablauf der Beschwerdefrist hinreichend deutlich. Die hier zu beurteilende
+     Rechtsbehelfsbelehrung ist weder missverständlich noch irreführend. Insbesondere
+     geht der Einwand der Rechtsbeschwerde fehl, dass der einzelne Netzbetreiber erwarten durfte, es werde noch zu einer individuellen Zustellung der Festlegung kommen. Im Hinblick auf den Hinweis auf § 73 Abs. 1a EnWG, dessen Kenntnis von einem Netzbetreiber verlangt werden kann, ist dies fernliegend.
+
+                                              - 10 -
+
+
+
+
+19          cc) Entgegen der Auffassung der Rechtsbeschwerde ist die Rechtsbehelfsbelehrung auch nicht deshalb fehlerhaft, weil sie nur über die abstrakte Rechtsmittelfrist
+     belehrt und kein konkretes Datum für den Fristbeginn enthält.
+
+
+20          Die Belehrung über die "einzuhaltende Frist" im Sinne des § 58 Abs. 1 VwGO
+     erfordert nach allgemeiner Rechtsansicht grundsätzlich nur einen allgemeinen und
+     abstrakten Hinweis auf Beginn und Dauer der Rechtsbehelfsfrist, während die konkrete Berechnung ihres Laufes der eigenen Verantwortlichkeit des Betroffenen überlassen bleibt (vgl. nur BVerfGE 31, 388, 390; BVerwG NJW 1991, 508, 509;
+     Kopp/Schenke, VwGO, 19. Aufl., § 58 Rn. 10 f.; Eyermann/Schmidt, VwGO,
+     13. Aufl., § 58 Rn. 8).
+
+
+21          Nach diesen Maßgaben, die für die Rechtbehelfsbelehrung im Sinne des § 73
+     Abs. 1 Satz 1 EnWG gleichermaßen gelten, ist die hier zu beurteilende Rechtsbehelfsbelehrung nicht zu beanstanden. In der Rechtsbehelfsbelehrung findet sich
+     sowohl ein Hinweis auf die Monatsfrist des § 78 Abs. 1 Satz 1 EnWG als auch auf
+     die für den Fristbeginn maßgebliche Regelung des § 78 Abs. 1 Satz 2 in Verbindung
+     mit § 73 Abs. 1a Satz 3 EnWG. Dies wird als solches von der Rechtsbeschwerde
+     auch nicht in Frage gestellt. Sie hält lediglich unter Hinweis auf § 56a VwGO und das
+     dazu vorhandene Schrifttum dafür, dass im Fall einer öffentlichen Bekanntmachung
+     nach § 73 Abs. 1a EnWG erhöhte Anforderungen an die Rechtsbehelfsbelehrung zu
+     stellen seien. Dies ist indes nicht der Fall. Bei § 56a VwGO handelt es sich um eine
+     Sondervorschrift, die in sogenannten Massenverfahren mit mehr als 50 Beteiligten
+     das gerichtliche Verfahren einschließlich des Zustellwesens erleichtern soll. Damit ist
+     die Bekanntgabe einer Festlegung durch die Bundesnetzagentur nicht vergleichbar.
+     Hier wird nach § 73 Abs. 1a EnWG mit der öffentlichen Bekanntmachung zugleich
+     die Festlegung mit ihrem vollständigen Inhalt auf den Internetseiten der Bundesnetz-
+
+                                             - 11 -
+
+
+
+     agentur veröffentlicht, so dass die Betroffenen ohne weiteres sofort und unmittelbar
+     Kenntnis von den Entscheidungsgründen der Festlegung erlangen können.
+22
+           dd) Schließlich bleibt die Rechtsbeschwerde auch mit ihrem Einwand ohne Erfolg, dass es bei dem im Amtsblatt der Bundesnetzagentur veröffentlichten Hinweis
+     auf die Veröffentlichung der vollständigen Festlegung auf deren Internetseite an einer
+     exakten Angabe fehle, wo genau diese Veröffentlichung zu finden sei.
+
+
+23         § 73 Abs. 1a Satz 2 EnWG fordert lediglich einen Hinweis auf die Veröffentlichung der vollständigen Entscheidung auf den Internetseiten der Bundesnetzagentur. Ob auch bei einem fehlerhaften Hinweis, der - wie sich an der getrennten Aufzählung in dieser Vorschrift zeigt - kein Bestandteil der Rechtsbehelfsbelehrung und
+     damit von dieser zu unterscheiden ist, § 58 Abs. 2 Satz 1 VwGO entsprechend anwendbar ist, bedarf keiner Entscheidung. Denn der Hinweis in der Mitteilung
+     Nr. 817/2011 wird den Anforderungen des § 73 Abs. 1a Satz 2 EnWG gerecht. Die
+     angefochtene Festlegung kann - was die Rechtsbeschwerde nicht in Abrede stellt -
+     über ein Weiterklicken zu den Veröffentlichungen der Beschlusskammer 4 abgerufen
+     und/oder heruntergeladen werden. Dies kann von dem betroffenen Personenkreis
+     ohne weiteres erwartet werden. Eines genauen Links, der auch von § 73 Abs. 1a
+     Satz 2 EnWG nicht gefordert wird, bedurfte es daher nicht. Nachvollziehbare Sachgründe hierfür werden von der Rechtsbeschwerde nicht aufgezeigt.
+
+                                           - 12 -
+
+
+
+
+                                            III.
+
+
+
+24         Die Kostenentscheidung beruht auf § 90 EnWG.
+
+
+
+     Meier-Beck                           Strohn                            Grüneberg
+
+
+
+                     Bacher                                  Deichfuß
+
+
+
+     Vorinstanz:
+     OLG Düsseldorf, Entscheidung vom 22.03.2013 - VI-3 Kart 225/12 (V) -
