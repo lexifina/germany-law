@@ -1,0 +1,55 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-01-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3108876
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3108876
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstraße 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro-, Wohn- und Geschäftshaus, vertagt aus 2013.12 B 3.1.1 - verschoben in Februar
+- TOP .2.: Herzog-Wilhelm-Str. 22, Nutzungsänderung von Gewerbeeinheiten und einer Wohnung in Büroräume, Tektur, vertagt aus 2013.12 B 3.1.6
+- TOP .3.: Josephspitalstr. 8, Nutzungsänderung einer Hausmeisterwohnung zu Büroräumen ? ohne Baumaßnahmen, vertagt aus 2013.12 B 3.1.7
+- TOP .4.: Maximilianstr. 50, Umbau, Sanierung, Nutzungsänderung 1. OG von Wohnen zu Büro und Anbau von Balkonen ? Tektur, hier: Wanddurchbruch bei Stellplatz TG und Grundrissänderung 4. / 5. OG, vertagt aus 2013.12 B 3.1.8
+- TOP .5.: Maffeistr. 3a, Errichtung einer Freischankfläche (196,72 m² / 134 Sitzplätze) (ohne Vorberatung), vertagt aus 2013.12 B 3.1.9
+- TOP .6.: Residenzstr. 21, Überbauung Kellergeschoss im Innenhofbereich sowie Errichtung einer Freischankfläche
+- TOP .7.: Thierschstr. 38, Dachgeschoss-Ausbau (eine Wohneinheit)
+- TOP .8.: Lenbachpl., Errichtung einer Plakatwand als Kunstobjekt im öffentlichen Raum
+- TOP .9.: Hildegardstr. 8, Dachausbau eines denkmalgeschützten Gebäudes mit Nutzungsänderung / Rückführung
+- TOP .10.: Hackenstr. 7, Umbau des Radspielerhauses mit Errichtung von Dachgauben, Innenhofunterkellerung und -überdachung, Einbau eines Personen- und eines Lastenaufzugs sowie bauliche Änderungen im Ladenlokal im EG
+- TOP .11.: Maximilianspl. 13, Teilabbruch und Neubau eines Bürogebäudes ? Tektur
+- TOP .12.: Maximilianstr. 35, Aufstockung eines Bürogebäudes (Wohnnutzung) ? Vorbescheid
+- TOP .1.: Dienerstr. 20, Änderung der Denkmalliste, hier: Nachtrag Keller in Denkmalliste
+- TOP .2.: Generalinstandsetzung und Erweiterung des Staatl. Wilhelmsgymnasiums in der Thierschstr. 46, Anhörung zur Beschlussvorlage für den Ausschuss für Bildung und Sport am 29.01.2014
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Sendlinger Straße, Fußgängerzone: 1. Evaluierung Freischankflächengestaltung etc. 2. Turnusplatz für Obst- / Gemüse-Verkauf 3. Turnusplatz für Werbeverkauf (vertagt aus 2013.12 D 2.2)
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Geldbeutelwaschen, 05.03.2014 (Aschermittwoch), Marienplatz
+- TOP .1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungs-gebührensatzung, Anhörung des Kreisverwaltungsreferates
+- TOP .1.: Bürgeranliegen: Verkehrssituation im Tal (Antrag aus der Bürgerversammlung vom 05.12.2013, der wegen Ablauf der Redezeit nicht mehr behandelt werden konnte)
+- TOP .2.: Bürgeranliegen: Fahrräder gewerblicher Fahrradvermietungen; Umwandlung von PKW-Stellplätzen in Fahrradabstellplätze in der Maximilianstr. (Antrag aus der Bürgerversammlung vom 05.12.2013, der wegen Ablauf der Redezeit nicht mehr behandelt werden konnte)
+- TOP .3.: BA-Antrag: Gestaltung Tal, Entfernung der Litfaßsäulen
+- TOP .4.: Bürgeranliegen: Veranstaltungen an der Isar unterbinden (Praterinsel, Isarboulevard, Kulturstrand), Anliegen aus der Bürgerversammlung vom 05.12.2013, das an den Bezirksausschuss übergeben wurde und nicht in der Versammlung behandelt wurde
+- TOP .1.: Standortgenehmigung für einen Parkscheinautomaten, Maxburgstr.
+- TOP .1.: Lerchenfeldstr. 21, Antrag auf Baumfällung, 1 Grauerle
+- TOP .1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. Konzerte 2014
+- TOP 0: Unterrichtungen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
