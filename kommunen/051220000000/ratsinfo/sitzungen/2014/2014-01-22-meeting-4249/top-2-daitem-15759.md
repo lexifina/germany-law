@@ -1,0 +1,6 @@
+# TOP 2: Ergebnisse der Sitzung der Grundsatzkommission vom 08.01.2014
+
+- Sitzung: Seniorenbeirat (2014-01-22)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/15759
