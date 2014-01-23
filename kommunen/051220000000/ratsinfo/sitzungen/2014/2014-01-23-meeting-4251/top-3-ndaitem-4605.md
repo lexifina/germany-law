@@ -1,0 +1,7 @@
+# TOP 3: Zentrum für verfolgte Künste
+
+- Sitzung: Ausschuss für Kultur, Stadtmarketing und Tourismus (2014-01-23)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/4605
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/17566
