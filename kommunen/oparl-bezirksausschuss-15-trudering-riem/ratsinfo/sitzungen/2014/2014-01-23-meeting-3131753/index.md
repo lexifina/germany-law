@@ -1,0 +1,96 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-01-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3131753
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3131753
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse SV Gartenstadt Trudering e.V. Erwerb von Scheiben zur Ausübung der Sportart Bogenschiessen - <div>nach Antrag</div>
+- TOP 2: (E) Winterdienst mit Augenmaß Empfehlung Nr. 08-14 / E 01974 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 10.10.2013 - <div>nach Antrag</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrskonzept Messe- West, Edinburghplatz/Helsinkistraße - <div>mit Änderungen beschlossen</div>
+- TOP 2.2.: Aufhebung absolutes Haltverbot in der Riemer Straße Höhe Hausnummern 299, 301, 303 - <div>Ortstermin geplant, Verweis in den UA Verkehr</div>
+- TOP 2.3.: Genehmigung einer PKW- Kurzzeitparkzone für Behinderte in der Graf-Lehndorff-Straße 1A - <div>Zustimmung und Weiterleitung</div>
+- TOP 2.4.: Beleuchtung der Anlage zwischen Truderinger Bahnhof und Kreillerstraße - <div>Zustimmung und Weiterleitung</div>
+- TOP 2.5.: Neuer Fußgängerübergang an der Feldbergstraße
+- TOP 2.6.: Gestaltung der Mauer am Platz der Menschenrechte - <div>Zustimmung und Weiterleitung</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Räumlichkeiten für "Kinderarztpraxis auf Abruf" planen
+- TOP 3.2.: Errichtung eines Fitnessparcours in der Messestadt Riem
+- TOP 3.3.: Naturnahe Umgestaltung des Truderinger Hüllgrabens im Bereich des Tierheims - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Erhaltung der See-Bepflanzung an der Südseite des BUGA-Sees
+- TOP 3.5.: Mittelschule an der Feldbergstraße München-Trudering Aufenthaltsort für Jugendliche ab 13 Jahre - <div>Verweis in den UA Schule und Soziales</div>
+- TOP 3.6.: Schulsozialarbeit an der Grundschule an der Leibengerstraße - <div>zur Kenntnis genommen</div>
+- TOP 3.7.: Einfriedungen von Gräbern im Riemer Friedhof grundsätzlich erlauben - <div>zur Kenntnis genommen</div>
+- TOP 3.8.: Bestattungsbezirk des Stadtteilfriedhofs Riem erweitern
+- TOP 3.9.: Einbahnstraßen-Regelung für die Renkenstraße - <div>zur Kenntnis genommen</div>
+- TOP 3.10.: Querung der Wasserburger Landstraße
+- TOP 3.11.: Gefahrenstelle für Kinder an der Xaver-Weismor-Straße - <div>Verweis in den UA Verkehr</div>
+- TOP 3.12.: S-Bahn-Züge in Gronsdorf radlfreundlich halten lassen - <div>zur Kenntnis genommen</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Grünfläche an der Unnützwiese - <div>Zustimmung und Weiterleitung</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Grundschule Astrid-Lindgren-Straße 11 Errichtung Mobiler Raumeinheiten - <div>Zustimmung</div>
+- TOP 5.2.: Bebauung Piedersdorfer- Keine Erschließung über die Friedenspromenade, sondern über die Ständlerstraße und Karl-Marx-Ring, Empfehlung Nr. 08-14/ E 01972 der Bürgerversammlung des Stadtbezirkes 15- Trudering- Riem am 10.10.2013 - <div>keine Stellungnahme, Vorstellung der Planungen im BA </div>
+- TOP 5.3.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 5.4.: Lichtzeichenanlagen-Bauprogramm 2014 - <div>vertagt in UA Allgemeines</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Jagdhornstraße 27-29
+- TOP 7.2.: Mondseestraße 12
+- TOP 7.3.: Schwammerlweg 10
+- TOP 7.4.: Tangastraße 58
+- TOP 7.5.: Deikestraße 35
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Einrichtung einer Bücherbushaltestelle in der Feldbergstraße - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Kreuzung Schatzbogen/Riemer Straße, Einrichtung einer Süd/Nord Querung der Riemer Straße für Radfahrer und Fußgänger, Anliegen aus der Bürgersprechstunde des 13. Stadtbezirkes am 24.10.2013 - <div>zur Kenntnis genommen</div>
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Finanzierung von Straßenzusatzschildern aus dem Budget des BA 15, TOP 4.2 aus 12/2013
+- TOP 7.2.: 7.5.2 Zuwendungen aus dem Budget des Bezirksausschuss 15 7.5.2.1 Sonderpädagogisches Förderzentrum München- Ost, Sachbericht 7.5.2.2 Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V., Sachbericht 7.5.2.3 Chrisopherus- Schulverein München e.V., Kurzbericht 7.5.2.4 Ev.- Luth. Gesamtkirchengemeinde München, Sachbericht und Verwendungsnachweis
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen vom 11.10.2013, 03.12.2013 und vom 04.12.2013 Entscheidungen entgegen dem Votum des Bezirksausschusses: Zeisigweg 26, Spertentalstraße 2, Florastraße 35, Sperberstraße 57
+- TOP 8.2.: 8.2. Baumfällungen auf öffentlichen Grün- und Freiflächen 8.2.1 Jaghornstraße 27-29 8.2.2 Waldtruderinger Straße 54 8.2.3 Waldtruderinger Straße 56 8.2.4 Frau-von-Ura-Straße 26 8.2.5 Mädelestraße 9 8.2.6 Edeltraudstraße 51 8.2.7 Friedenspromenade 103 8.2.8 Tsingtaier Straße 96 8.2.9 Waldschulstraße 49 8.2.10 Jagdhornstraße/Otto-Lederer-Weg 8.2.11 Schönauer Weg 4 8.2.12 Tsingtauer Straße 15 8.2.13 Heilwigstraße 11 8.2.14 Großfriedrichsburger Straße 4
+- TOP 9: Verschiedenes
+- TOP 9.1.: Verkehrsbelastung im Hugo-Lang-Bogen/Goldschaggbogen; Schreiben des BA 16 vom 09.12.2013
+- TOP 9.2.: Ausstellen von Zuwendungsbestätigungen für Spenden Veröffentlichung neuer Muster durch die Finanzverwaltung
+- TOP 9.3.: Protokoll des 17. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse am 07.11.2013
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Haushaltsplan 2014 Produkt- und Zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 10.2.: Haushaltsplan 2014 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14/ V 13516, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 10.3.: Mehrjahresinvestitionsprogramm für die Jahre 2013-2017 mit verbindlicher Planung für 2018: Entwurf für das Baureferat; Sitzugnsvorlage Nr. 08-14/ V 13310, Beschluss des Bauausschusses vom 19.11.2013 (VB)
+- TOP 10.4.: Vollzug des Bundes- Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München für die Firma Gebäudereinigung Berndt
+- TOP 10.5.: Vollzug des Bundes- Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Reinigungsarbeiten an U- Bahnhöfen im gesamten Stadtgebiet München für die Firma Hermann & Schmidt
+- TOP 10.6.: Haushaltsplan 2014- Ansätze der zentralen Bereiche- Schlussabgleich, Sitzungsvorlage Nr. 08-14/ V 13516; Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 10.7.: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts ("BauGB-Novelle 2013"); Sitzungsvorlage Nr. 08-14/ V 13668 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.01.2014
+- TOP 10.8.: Langfristige Siedlungsentwicklung: Gutachten zur Klima- Perspektive und -Abschätzung innerhalb der geplanten Nord-Ost-Bebauung abwarten, Einarbeitung der Ergebnisse der beim Deutschen Wetterdienst in Auftrag gegebenen Studie; Empfehlung Nr. 08-14/ E 01650 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 25.10.2012; Sitzungsvorlage Nr. 08-14/ V 11733, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2014 (SB)
+- TOP 10.9.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren, Beschluss der Vollversammlung des Stadtrats vom 28.11.2012, Sitzungsvorlage Nr. 08-14/ V 08102, Frühzeitige Bürgerbeteiligung bei Bauvorhaben auch für die bekannten Bürgerinitiativen und die betroffenen Bürgerinnen und Bürger, Antrag des Bezirksausschusses 13- Bogenhausen 08-14/ B 04822 vom 14.05.2013; Sitzungsvorlage Nr. 08-14/ V 13605, Beschluss des Verwaltungs- und Personalausschusses am 15.01.2014
+- TOP 10.10.: Bebauungsplan mit Grünordnung Nr. 2007 Leibengerstraße (östlich), Mittbacher Straße (nördlich), Bahnlinie München Ost-Simbach/Inn (südlich), Erdinger Straße (westlich) im Stadtbezirk 15 Trudering- Riem, Herstellung öffentlicher Verkehrsflächen hier: Erschließungsstraße U- 1675 und Platz U- 1676 (1. Bauabschnitt) Projektkosten (Kostenobergrenze): 850.00?, 1. Projektgenehmigung für die Maßnahmen 2.1 und 2.2 (1. Bauabschnitt) mit Projektkosten in Höhe von 850.000?, 2. Genehmigung zur Durchführung vorgezogener Maßnahmen in Höhe von 230.000?; Sitzungsvorlage Nr. 08-14/ V 13408, Beschluss des Bauausschusses vom 10.12.2013 (SB)
+- TOP 10.11.: Quartierbezogene Bwohnerarbeit Produkt 60 4.1.7 Wirkungsanalyse, Ergebnisse der Studie der Hochschule München Nachbarschaftstreffs auf dem Prüfstand Antrag Nr. 08-14/ A 02929 der Stadtratsfraktion der FDP vom 23.11.2011; Sitzungsvorlage Nr. 08-14/ V 13224, Beschluss des Sozialausschusses vom 05.12.2013 (SB)
+- TOP 10.12.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 12.1 Gerstäckerstraße 124 und 126 12.2 Lamprechtstraße 10 12.3 Florastraße 45 12.4 Wasserburger Landstraße 17a 12.5 Grundelstraße 14 12.6 Eslarner Straße 5
+- TOP 10.13.: Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete" Antrag Nr. 08-14/ A 03196 der Stadtratsfraktion DIE GRÜNEN/ RL vom 22.03.2012; Sitzungsvorlagen Nr. 08-14/ V 13147, Hinweis/ Ergänzung zum Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 15.01.2014 (VB)
+- TOP 10.14.: Konzeptausschreibungen für Baugenossenschaften, Messestadt Riem 4. Bauabschnitt Wohnen Bauquartiere WA 2 und WA 11; Ergänzung zum Ausschreibungsbeschluss vom 19.06.2013; Sitzungsvorlagen Nr. 08-14/ V 13376, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 (SB)
+- TOP 10.15.: Mitteilung über ein Grundstücksgeschäft, Veräußerung stadteigener Flächen in der Otto-Perutz-Straße
+- TOP 10.16.: München Modell-Miete Elisabeth-Kohn-Straße a) Fehler der Stadt beim München- Modell; Antrag Nr. 08-14/ A 04895 der Stadtratsfraktion der FDP vom 12.12.2013 b) Rechtslage bei Mietverhältnissen im Rahmen des München- Modells; Antrag Nr. 08-14/ A 04923 von Herrn Stadtrat Alexander Reissl und Frau Stadträtin Beatrix Zurek vom 13.12.2013 c) München Modell Elisabeth-Kohn-Straße Muss das München Modell insgesamt überarbeitet werden?; Antrag Nr. 08-14/ A 04922 von Herrn Stadtrat Josef Schmid und Frau Stadträtin Evelyne Menges vom 13.12.2013 d) Muss das "München Modell-Miete" nachjustiert werden?; Schriftliche Anfrage gemäß § 68 GeschO von Frau Stadträtin Sabine Krieger und Frau Stadträtin Gülseren Demirel vom 13.12.2013; Sitzungsvorlagen Nr. 08-14/ V 13775, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 10.17.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Antrag Nr. 08-14/ A 04305 der Stadtratsfraktion DIE GRÜNEN/RL vom 07.0.62013; Sitzungsvorlage Nr. 08-14/ V 13354, Beschluss des Bauausschusses vom 10.12.2013 (SB)
+- TOP 10.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.19.: Städtebauliche Entwicklungsmaßnahme gemäß §§ 165ff. BauGB für den Bereich Nordosten; - Zwischenbericht und weiteres Vorgehen - Erweiterung des Umgriffs um den Bereich zwischen der Bahnlinie München- Mühldorf (südlich) und der Riemer Straße (nördlich) - Vergabe von Gutachten und weiteren externen Leistungen Stadtbezirk 13 Bogenhausen, Stadtbezirk 15 Trudering- Riem; Sitzungsvorlagen Nr. 08-14/ V 13044 - § 2 Nr. 9b und Nr. 14 GeschO- Beschluss der Vollversammlung des Stadtrats vom 27.11.2013
+- TOP 10.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.21.: Unveränderte Fortführung eines Gaststättenbetriebes, Truderinger Straße 263
+- TOP 10.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.23.: Tagesordnungspunkt (betrifft Privatpersonen)
