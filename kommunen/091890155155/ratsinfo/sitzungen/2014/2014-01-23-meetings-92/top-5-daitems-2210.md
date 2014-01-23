@@ -1,0 +1,8 @@
+# TOP 5: Antrag auf Vorbescheid zur Errichtung eines Mehrfamilienhauses mit Tiefgarage auf dem Grundstück Fl.Nr. 744/10 der Gemarkung Traunstein an der Goethestraße in Traunstein
+
+- Sitzung: Sitzung des Bauausschusses (2014-01-23)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/2210
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/consultations/556
