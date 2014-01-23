@@ -1,0 +1,58 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-01-23T17:00:00+01:00
+- Ende: 2014-01-23T18:43:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8699
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8699
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00208956.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00208956.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00208956.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Mitgliedes der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2014 - einstimmig beschlossen
+- TOP 6: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2014 - mehrheitlich beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 9: Wellness Centre am Elbsee - beantwortet
+- TOP 10: Kindergarten Tannenhofweg - beantwortet
+- TOP 11: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - beantwortet
+- TOP 12: Bauvorhaben in Lierenfeld - beantwortet
+- TOP 13: Logistik-Unternehmen und Verkehrsregelung Dillenburger Weg / Sturmstraße - beantwortet
+- TOP 14: Wasserspielplatz Schlosspark Eller - beantwortet
+- TOP 15: Grundstück Karl-Geusen-Straße 171 - beantwortet
+- TOP 16: Gaslaternen im Stadtbezirk 8 - beantwortet
+- TOP 17: Aufstellung von Verkehrsschildern im Stadtbezirk 8 - beantwortet
+- TOP 18: Ortsumgehungen Gerresheim und Flingern - mehrheitlich beschlossen
+- TOP 19: Instandsetzung von Wegen und Parkanlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 20: Verkehrsregelung Eller - Mitte - einstimmig beschlossen
+- TOP 21: Kreuzungsbereich Erlenkamp / Bebelstraße - einstimmig beschlossen
+- TOP 22: Fuß- / Radweg Am Kleinforst - einstimmig beschlossen
+- TOP 23: Barrierefreie Haltestelle Am Turnisch - einstimmig beschlossen
+- TOP 24: Umsetzung von NVP-Maßnahmen in den Stadtbezirken 8 und 9 - zur Kenntnis genommen
+- TOP 25: Widmung von Straßen - zur Kenntnis genommen
+- TOP 26: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 27: Barrierefreier Umbau der S-Bahnhöfe Eller und Eller-Süd - zur Kenntnis genommen
+- TOP 28: Haltestelle In den Maisbanden - zur Kenntnis genommen
+- TOP 29: Durchfahrt Coburger Weg / Am Schmiedekotten - zur Kenntnis genommen
+- TOP 30: Verkehrsregelung Gubener Straße - zur Kenntnis genommen
+- TOP 31: Containerstandorte Chemnitzer Straße - zur Kenntnis genommen
+- TOP 32: Gehweg Coburger Weg - zur Kenntnis genommen
+- TOP 33: Bäume Ellerkirchstraße - zur Kenntnis genommen
+- TOP 34: Grünpflege im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Geschwindigkeitsmessungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Parkplatzerweiterung Eller-Mitte - zur Kenntnis genommen
+- TOP 37: Barrierefreier Umbau Endhaltestelle Vennhauser Allee - zur Kenntnis genommen
+- TOP 38: Schulbaumaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Gleisbauarbeiten Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 40: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Düsselbrücke zwischen Reichenbacher Weg und Coburger Weg - zur Kenntnis genommen
