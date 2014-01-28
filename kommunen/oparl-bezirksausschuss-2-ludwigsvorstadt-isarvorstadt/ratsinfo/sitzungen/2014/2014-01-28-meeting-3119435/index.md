@@ -1,0 +1,86 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-01-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3119435
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3119435
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Gartenprojekt Isarbalkon
+- TOP .2.: Finanzierung des Gartenprojekts Isarbalkon
+- TOP .1.: BA-eigene Veranstaltung ?Alt und Jung ? Grenzenlos?
+- TOP .2.: BA-eigene Veranstaltung ?Glockenbachfest?
+- TOP .3.: (E) Budget der Bezirksausschüsse Lora Förderverein e.V. Pilotprojekt "Bürgerhaushalt" am 21.02.2014
+- TOP .1.: Stadtbezirkstreffen der Münchner Schulen, Schreiben der StadtschülerInnenvertretung
+- TOP .2.: Diskussionsrunde Bürgerhaushalt, 21.02.2014, Eine-Welt-Haus
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Westermühlstr. 21, DG-Ausbau sowie Einbau eines Lifts in ein Mehrfamilienhaus
+- TOP .2.: Reifenstuelstr. 7, Umbau und Nutzungsänderung der Einheit 26 im EG / RGB (Schlosserei zu Wohneinheit)
+- TOP .3.: Fleischerstr. 6, Balkonanbau Vordergebäude
+- TOP .4.: Thalkirchner Str. 1, Nutzungsänderung Gewerbe (Laden) zu Gastronomie mit Alkoholausschank und Kiosk
+- TOP .5.: Lindwurmstr. 89, Erweiterung Wohn- und Geschäftshaus durch Aufstockung und Errichtung eines Unterflurparkers - Tektur
+- TOP .6.: Schwanthalerstr. 70-72, Neubau einer Wohnanlage mit Tiefgarage ? Vorbescheid, siehe auch Baumfällung B 3.2.1
+- TOP .7.: Waltherstr. 31, Neubau eines Wohn- und Geschäftshauses - Vorbescheid
+- TOP .8.: Schwanthalerstr. 58-60, Zusammenlegung des Hotels Hausnr. 58 mit dem Hotel Hausnr. 60 / EG ? 7. OG zu einer Nutzungseinheit
+- TOP .9.: Zenettipl. 2, Teilnutzungsänderung eines Gebäudes mit Büro- und Wohnnutzung in ein Gebäude mit 8 Wohn- und 2 Gewerbeeinheiten; Aufstockung eines Geschosses samt DG-Ausbau, Anbau von Balkonen, Einbau eines Personenaufzugs, Anbringung einer außenliegenden Wärmedämmung
+- TOP .10.: Adlzreiterstr. 32, Erweiterung der DG-Wohnung und Anbau von Balkonen mit Fluchtleiter für den zweiten Rettungsweg
+- TOP .11.: Waltherstr. 9, Aufstellen eines Whirlpools, eines abgetreppten Holzaufbaus und einer Sauna auf einer Dachterrasse
+- TOP .12.: Bayerstr. 35-37, Neubau eines Hotels mit Gastronomie und Tiefgarage - Tektur
+- TOP .13.: Schwanthalerstr. 47, Nutzungsänderung eines Boardinghauses mit 29 Apartments und einem Laden in ein Boardinghaus in Form eines Beherbergungsbetriebes mit 30 Apartments, einem Laden, einer Spielhalle und ein Bistro sowie eine Wohnung im 2. DG ? Tektur, jetzt: 31 Apartments sowie Entfall der Wohnung im 2. DG
+- TOP .14.: Lindwurmstr. 123 RGB, Aufstockung einer Garage und Errichtung einer Wohnung sowie 1 Duplexparker ? Tektur, jetzt: Aufstockung einer Garage sowie Errichtung 3er Apartments und eines 3-fach-Parkers
+- TOP .15.: Klenzestr. 1, Errichtung von fünf zusätzlichen Apartments im 1.-5. OG im Gebäudeteil Rumfordstr. 32 / VGB ? Tektur
+- TOP .16.: Klenzestr. 1, Neuorganisation des Wohnheims sowie Nutzungsänderung von Gemeinschaftsräumen und einer Wohnung im EG zu Gewerbeflächen (Lager-, Internetverkaufs- und Dienstleistungsflächen) sowie von 8 Wohnheimzimmern im DG zu 4 Wohnheimwohnungen (Klenzestr. 1 / Rumfordstr. 32 RGB) ? Tektur
+- TOP .17.: Klenzestr. 1, Nutzungsänderung 1.-6. OG: Arbeiterwohnheim für Frauen zu 34 Apartments (Klenzestr. 1 / Rumfordstr. 32 RGB) ? Tektur
+- TOP .18.: Landwehrstr. 75, Neubau eines Wohngebäudes mit MK-Nutzung ? Vorbescheid ? PLENUMSBESCHLUSS
+- TOP .19.: Schillerstr. 23, Nutzungsänderung im 1.-4. OG und DG ? PLENUMSBESCHLUSS
+- TOP .20.: Schillerstr. 38, Nutzungsänderung von Hausmeisterwohnung in Personalaufenthaltsräume (1. OG), von Lagerräumen in Büroräume (2. OG) sowie von Werkräumen in Schulungsräume (3. OG) ? Änderungsantrag ? PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Schwanthalerstr. 70-72, siehe auch B 3.1.6
+- TOP .2.: Müllerstr. 1, Baumfällung, 1 Robinie
+- TOP .3.: Schützenstr., Baumfällung, 2 Platanen ? PLENUMSBESCHLUSS
+- TOP .4.: Jahnstr. 40, Baumfällung, 1 Lärche ? PLENUMSBESCHLUSS
+- TOP .5.: Baumfällung U-Bahn-Baustelle am Sendlinger-Tor-Platz ? PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Aufwertung des Baldeplatzes zu einem attraktiven und lebenswerten Stadtplatz mit Kinderspielplatz, BV-Empfehlung Nr. 08-14 / E 01585 vom 15.11.2012, Anhörung zu einem Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 08-14 / V 13921 ? PLENUMSBESCHLUSS
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .2.: Urbanes Natur Netz, Urbanes Wohnen e.V. München, Bitte um Rückmeldung zu Rundbrief an alle Bezirksausschüsse, siehe 2013.12 B 5.2 (Initiator wurde in UA-Sitzung eingeladen)
+- TOP .3.: Bürgeranliegen: Förderung von Gemeinschaftsnutzgärten ? PLENUMSBESCHLUSS
+- TOP .1.: Sperrfläche für Durchgang zur Haltestelle des Metrobus 58 am Taxistandplatz Hauptbahnhof ? PLENUMSBESCHLUSS
+- TOP .2.: Parkverbot Haydnstr. für die Dauer des bestehenden Einfahrtverbots aufheben ? PLENUMSBESCHLUSS
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Holzstr. 29, Gaststätte ?Hey Luigi?, Erweiterung einer bestehenden Freischankfläche - nochmalige Vorlage eines nun reduzierten Antrages, nachdem der BA den ersten Antrag am 26.11.2013 abgelehnt hat, siehe 2013.11 C 2.1.1, vertagt aus 2013.12 C 2.1.1, siehe auch C 4.11
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Fraunhoferstr. 42, Aufstellung einer Warenauslage für Blumen und Pflanzen
+- TOP .2.: Zenettistr. 20, Aufstellung von zwei mobilen Fahrradständern ? PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Faschings-Straßenfest in der Reichenbachstr., 04.03.2014 ? PLENUMSBESCHLUSS
+- TOP .2.: Afrika-Tage, 06.06.-09.06.2014, Theresienwiese
+- TOP .3.: Münchner Kammerspiele ?Niemandsland?, 02.06.-15.06.2014, Theresienwiese
+- TOP .3.2: Verkehr
+- TOP .1.: ?MVG-Rad?, Präsentation des neuen Angebots der MVG im Unterausschuss
+- TOP .2.: Lichtzeichenanlagen-Bauprogramm 2014, Anhörung des Kreisverwaltungsreferates zur kombinierten Vormerk- und Neuantragsliste für das Jahr 2014
+- TOP .1.: Gestaltung der Pflanztröge und Freischankflächen auf dem Fußgängerweg Stachus bis Paul-Heyse-Str., BA-Antrag Nr. 08-14 / B 04387, Schreiben des Kreisverwaltungsreferates mit der Bitte um Stellungnahme
+- TOP .2.: Wertstoffcontainerstandort Bavariaring / Esperantoplatz, Anhörung Abfallwirtschaftsbetrieb zu Verlegungsalternativen (Bavariaring 20, 28, 35, 37, 42), vertagt aus 2013.12 C 3.3.2
+- TOP .3.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung, Anhörung des Kreisverwaltungsreferates
+- TOP .1.: Bürgeranliegen: 1.) Verkehrssituation Sonnenstr. / Schwanthalerstr., 2.) Lift an der Tramhaltestelle Stachus
+- TOP .2.: Bürgeranliegen: Markierung des Radwegs in der Stielerstr. entfernen
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Planen und Bauen? am Montag, den 10.02.2014 um 19.00 Uhr, in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 11.02.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 12.02.2014 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung findet am 17.02.2014 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 25.02.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
