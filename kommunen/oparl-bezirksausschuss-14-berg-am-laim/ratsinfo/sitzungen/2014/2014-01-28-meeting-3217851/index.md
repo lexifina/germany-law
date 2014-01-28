@@ -1,0 +1,96 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-01-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3217851
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3217851
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Baumkirchner Str. 5 - Weißes Bräuhaus - Sanierung der Wohnungen im Altbau und Umbau der Gaststätte mit ergänzenden Neubauten sowie Wiederbelebung der historischen Hausbrauerei im Hofbau
+- TOP 3.1.1.2.: Auf dem Wasen 4 - 6 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.3.: Grafinger Straße 6 - Werk 7 - Umbau des Technikraums als Versammlungsstätte mit Übungsräumen sowie Bürotrakt
+- TOP 3.1.1.4.: Rosenheimer Str. 143a - d - Neubau/Sanierung eines Bürogebäudes mit Garage
+- TOP 3.1.1.5.: Strukturkonzept Gewerbegebiet Neumarkter Straße
+- TOP 3.1.1.6.: Rege Bautätigkeit in Berg am Laim erfordert umfassende Verkehrsplanung
+- TOP 3.1.2.1.: Verlängerung der Tram 15 nach Berg am Laim
+- TOP 3.1.2.2.: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 3.1.2.3.: Haltverbot als Ausweichstelle für den Linienbusverkehr in der Grafinger Straße
+- TOP 3.1.2.4.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 3.2.1.: Bewerbung um Stadtteilwoche 2017 (+) - <div></div>
+- TOP 3.2.2.: Sport-, Spiel- und Kreativwoche des AKA am Piusplatz vom 02.06.2014 - 04.07.2014
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Nutzungskonzept für die Sportflächen an der Fehwiesenstraße - <div></div>
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V.
+- TOP 3.5.2.: ESV München-Ost e.V. - Abt. Schützen
+- TOP 3.5.3.: Förderkreis der Grundschule an der Grafinger Straße
+- TOP 3.6.1.: Baumkirchner Straße 5
+- TOP 3.6.2.: Rosenheimer Straße 143a - d
+- TOP 3.6.3.: Inzeller Weg 1 - 5
+- TOP 3.6.4.: Neumarkter Str. 59-63
+- TOP 3.6.5.: Kreillerstraße 15-17
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Kreillerstraße 63 - Unveränderte Fortführung des Gaststättenbetriebs "Manu's"
+- TOP 4.1.1.3.: Grafinger Str. 6 - Unveränderte Fortführung des Gaststättenbetriebs "Schlagergarten"
+- TOP 4.1.1.4.: Halserspitzstraße - Mitteilung über ein Grundstücksgeschäft
+- TOP 4.1.1.5.: Soziale Stadt Projekt im Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" - Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen - hier: 2. Bauabschnitt - Projektkosten & Ausführungsgenehmigung - Vorlagen-Nr. 08-14 / V 13767
+- TOP 4.1.1.6.: Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern - Vorlagen-Nr. 8-14 / V 13430
+- TOP 4.1.1.7.: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts ("BauGB-Novelle 2013") - Vorlage 08-14 / V 13668
+- TOP 4.1.1.8.: Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete" Vorlagen-Nr. 08-14 / V 13147
+- TOP 4.1.1.9.: Standortliste City-Light-Säulen gem. Werbenutzungsvertrag vom 28.11.2013
+- TOP 4.1.2.1.: Querungshilfe Bad-Kreuther-Straße
+- TOP 4.1.2.2.: Querungshilfe Bad-Schachener-Straße
+- TOP 4.1.2.3.: Rückbau des Schleichweges zur Grünanlage Waldstraße
+- TOP 4.1.2.4.: Aufhebung der Bücherbushaltestelle in der Seebrucker Straße
+- TOP 4.1.2.5.: Tram-Neubaustrecke Steinhausen und Verbesserung des anliegenden Straßenraums - Trassierungsbeschluss und Projektgenehmigung des Stadtrats am 05.02.2014
+- TOP 4.1.2.6.: Handlungsprogramm Mittlerer Ring - Sachstand und weiterer Handlungsbedarf - V 10707
+- TOP 4.1.2.7.: Intensivierung des Winterdienstes auf Radverkehrsanlagen und Gehbahnen - V 12710
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.: Infrastrukturprogramm Sport in München - Rückblick 2013 und Ausblick 2014 - V 13230
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Quartierbezogene Bewohnerarbeit - Wirkungsanalyse - Ergebnisse der Studie der Hochschule München - Sitzungsvorlage 08-14 / V 13224
+- TOP 4.5.1.: Unterstützung von kostenfreien Plätzen im Johanniter Lilalu-Ferienprogramm 2013
+- TOP 4.5.2.: Eigenheimervereinigung Berg am Laim / Michaeliburg - Verwendungsnachweis
+- TOP 4.5.3.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren - 08-14 / V 13605
+- TOP 4.5.4.: Finanzierung von Einwohnerversammlungen
+- TOP 4.6.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
