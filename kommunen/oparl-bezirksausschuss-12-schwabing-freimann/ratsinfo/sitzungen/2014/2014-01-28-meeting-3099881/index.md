@@ -1,0 +1,107 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-01-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3099881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3099881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .10.: sonstiges
+- TOP .1.: Stadtbezirkstreffen der Münchner Schulen
+- TOP .2.: Förderung von Gemeinschaftsnutzgärten
+- TOP .1.: Planungsstand ehemaliges Floriansmühlbad
+- TOP .2.: Öffnung des ehemaligen Floriansmühlbades als Erholungslandschaft siehe auch TOP D.1.1.
+- TOP .1.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund, Herzogstraße 1
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Frankfurter Ring 228, Fl.Nr.: 880/24, Neubau eines multifunktionalen Gewerbeobjekts mit Tiefgarage ? Vorbescheid; Fällung von 4 Bäumen
+- TOP .2.: Wilhelmstraße 19 b+c, Fällung einer Sandbirke
+- TOP .3.: Fritz-Winter-Straße, Fl.Nr.: 880/154, Neubau einer Wohnanlage mit gemeinschaftlichen und gewerblichen Nutzungen im EG und Tiefgarage; Fällung div. Bäume
+- TOP .4.: Floriansmühlstraße 16 / Freisinger Landstraße 21, Fl.Nr.: 87/4, Nutzungsänderung von Büroräumen in einer Schule, Fällungen gemäß Plan
+- TOP .5.: Freisinger Landstraße 72, Fl.Nr.: 544/2, Neubau einer Wohnanlage, Baumfällungen gemäß Plan
+- TOP .1.: Pflanzung von Bäumen und Aufstellung einer Bank an der Kreuzung Hohenzollernstraße / Friedrichstraße (Empfehlung 08-14 / E 01491 aus der BV des Stadtbezirks Schwabing-West)
+- TOP .2.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung (Behandlung auch unter TOP C.3.2.2.)
+- TOP .3.: Bauleitplanung der Gemeinde Ismaning ? 17. Änderung des Flächennutzungsplans
+- TOP .4.: Namensgebung für den neu geschaffenen Platz an der Heinrich-Groh-Straße
+- TOP .1.: Rückbau der Schräge am Habsburger Platz
+- TOP .2.: Benennung des Asphaltweges von der Straßenbahnlienie zur Anni-Albers-Straße (siehe C.4.4.)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung des Baureferats-Gartenbau über div. Fällungen im Stadtbezirk 12
+- TOP .2.: Osterwaldstraße 14, Fällung einer Esche und eines Spitzahorn
+- TOP .3.: Stenglstraße 19-23, Fällung eines Spitzahorn (abgestorbener Baumbestand)
+- TOP .1.: München Modell-Miete: Elisabeth-Kohn-Straße; Sitzungsvorlage Nr.: 08-14 / V 13775; Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP .2.: Anwohnerbeschwerden Gaststätte ?Uni-Reitschule? / ?Cavos? in der Königinstraße - Stellungnahme des Referats für Stadtplanung und Bauordnung (siehe auch TOP C.5.3.2.)
+- TOP .3.: Baumaßnahmen der Stadtwerke München (SWM) Stromprojekt Leopoldstraße 28 a (Änderungen im Terminablauf)
+- TOP .4.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren bei Bauvorhaben Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 Sitzungsvorlage Nr.: 08-14 / V 13605
+- TOP .5.: Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern; Sitzungsvorlage Nr.: 08-14 / V 13430 Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP .6.: Handlungsprogramm Mittlerer Ring ? Sachstand und Handlungsbedarf; Sitzungsvorlage Nr.: 08-14 / V 10707; Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 (incl. Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.2013)
+- TOP .7.: ?BauGB-Novelle 2013? - Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts; Sitzungsvorlage Nr.: 08-14 / V 13668; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 15.01.2014
+- TOP .8.: Montsalvatstr. 12, Fl.Nr.: 806/28, Einbau Dachgaube und -einschnitt anstelle einer Bestandsgaube, Errichtung Fluchtbalkon für Dachspitz und Erweiterung (Antwort des Planungsreferats zur Stellungnahme des BA 12 vom 25.09.2013)
+- TOP .9.: Energiekonzepte für neue Baugebiete; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.01.2013 incl. Hinweis / Ergänzung Sitzungsvorlage Nr.: 08-14 / V 13147
+- TOP .10.: Aufstellung von 170 City-Light-Säulen gemäß Standortliste für wechselnde Produktwerbung im gesamten Stadtgebiet München gemäß Werbenutzungsvertrag
+- TOP .1.: Aufstellung eines Abfalleimers im südlichen Bahnsteigbereich des U-Bahnhofes Freimann
+- TOP .2.: (erneuter) Antrag auf Errichtung eines zusätzlichen Fahrradständers in der Leopoldstraße
+- TOP .3.: Feuerwehr- / Rettungsdienstzugänglichkeit der Gohrenstraße
+- TOP .4.: Neuer Wertstoffcontainerstandort in der Haidparksiedlung
+- TOP .5.: Zwei neue Recyclingcontainer in der Siedlung am Haidpark
+- TOP .1.: Verbreiterung der nördlichen Aufstellflächen der Kreuzung Occamstraße / Haimhauser Straße - Schulwegsicherheit (siehe auch D.2.2)
+- TOP .1.: Erinnerungsverfahren: Frankfurter Ring 150-166 inkl. Kreuzungsbereich Ingolstädter Straße
+- TOP .2.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung (Behandlung auch unter TOP B.3.2.2.)
+- TOP .3.: Erinnerungsverfahren: Kreuzungsbereich Ungererstraße / Schenkendorfstraße
+- TOP .4.: Erinnerungsverfahren: Erschließungsstraßen Am Nordring
+- TOP .5.: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP .6.: Erinnerungsverfahren: Erneuerung der Fahrbahn Brüsseler Str. / Hollandstr. / Brabanter Str.
+- TOP .7.: Filmaufnahmen der Fa. Constantin Entertainment in der Trautenwolfstraße vom 02.03 bis 04.03.2014 und vom 30.03. - 01.04.2014
+- TOP .1.: Schulwegsicherheit im Bereich des Eingangs der Grundschule in der Haimhauserstraße (siehe auch TOP D.4.2.)
+- TOP .2.: Aufnahme der Siedlung um die Hermann-Vogel-Straße in das Parkraummanagement
+- TOP .3.: Aufstellung von Abfalleimern am Werner-Egk-Bogen und am Schmidbartlanger
+- TOP .4.: Unterbindung des U-Turn vor dem IBIS-Hotel in der Lyponel-Feininger-Straße (siehe B.4.2.)
+- TOP .5.: Ampelschaltung Leopoldstraße
+- TOP .1.: Durchgängig sinnvoll befahrbare Radwegverbindung zwischen Carl-Orf-Bogen und Am Kiefernwald von West nach Ost
+- TOP .1.: Haltverbote in der Unteren Länge westlich Werner-Egk-Bogen
+- TOP .2.: Beschilderung Heinrich-Groh-Straße
+- TOP .3.: Kurzparkzone für die Kindergärten Otl-Aicher-Straße 36 und 42
+- TOP .4.: Errichtung einer Feuerwehranfahrtszone in der Leopoldstraße 15-17
+- TOP .5.: Aufhebung der Radwegbenutzungspflicht in der Crailsheimstraße
+- TOP .1.: Vorläufige Sicherung des Überschwemmungsgebiets an der Isar; Bekanntgabe in der Sitzung des Umweltausschusses am 28.01.2014; Sitzungsvorlage Nr.: 08-14 / V 13738;
+- TOP .2.: Anwohnerbeschwerden Gaststätte ?Uni-Reitschule? / ?Cavos? in der Königinstraße - Stellungnahme des Referats für Stadtplanung und Bauordnung (siehe auch TOP B.5.3.2.)
+- TOP .3.: ?Mobbing? des Schwabinger Podiums ? Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP .4.: Feilitzschstraße zwischen Münchner Freiheit und Biedersteiner Straße (Erneuerung) und Wedekindplatz (Erneuerung mit Verbesserung) ? Projektgenehmigung Beschluss des Bauausschusses vom 14.01.2014; Sitzungsvorlage Nr.: 08-14 / V 13596
+- TOP .5.: Neubau einer Kreuzung an der Ingolstädter Straße und Herstellung einer Fuß- und Radwegverbindung (Erschließung eines Sportgeländes gemäß Bebauungsplan mit Grünordnung Nr. 1982a); Beschluss der Vollversammlung des Stadtrates vom 18.12.2013 Sitzungsvorlage Nr.: 08-14 / V 13236
+- TOP .6.: Beschleunigung beschleunigen ? Beschluss der Vollversammlung des Stadtrates am 18.12.2014; Sitzungsvorlage Nr.: 08-14 / V 12959
+- TOP .1.: Öffnung des ehemaligen Floriansmühlbades als Erholungslandschaft, siehe auch TOP B.1.2.
+- TOP .1.: (E) Budget der Bezirksausschüsse Rationaltheater München e.V. Instandhaltung und Erneuerung der Licht- und Tontechnik im Rationaltheater
+- TOP .2.: Verbreiterung der nördlichen Aufstellflächen der Kreuzung Occamstraße / Haimhauser Straße - Schulwegsicherheit (siehe auch C.2.1)
+- TOP .3.: (E) Budget der Bezirksausschüsse Projekt "Pique Dame Schwabing" am 24.04.2014 Initiative "Pique Dame Schwabing"
+- TOP .1.: City Bike Marathon München und nördliche Umgebung am 06.04.2014
+- TOP .2.: School's over Jam an der Münchner Freiheit am 29.07.2014
+- TOP .3.: Quartiersflohmarkt Nikolaiplatz/Schwabing der Nachbarschaft Schwabing/Seidlvilla-Verein e.V. am 24.05.2014
+- TOP .4.: ?Circus Roberto?, Osterwaldstraße vom 31.01. - 23.02.2014
+- TOP .1.: Ganztagsschule an der Domagkstraße
+- TOP .2.: Schulwegsicherheit im Bereich des Eingangs der Grundschule in der Haimhauserstraße (siehe auch TOP C.4.1.)
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Bescheid: Ablehnung eines Zuschusses aus dem Budget des BA 12 in Höhe von 13.000,00 ? für muk Studio für die Ausstellung von Schwabinger Künstlern vom 14.11.2013 ? 14.07.2014
+- TOP .2.: Verwendungsnachweis / Sachbericht: a) Theater des Hölzernen Gelächters für die Theaterproduktion von Ende Juni ? Ende September 2013 - ?Die Launen der Belissa? b) Freie Theatergruppe für das Theaterprojekt ?Was wir liebten? im November 2013 c) Domagkatelier für die Domagktage
+- TOP .3.: Bescheid: Gewährung eines Zuschusses aus dem Budget des BA 12 in Höhe von 5.000,00 ? für Metropoltheater gGmbH für die Inszenierung von "Unter dem Milchwald" vom 20.01.2014 bis März 2014
+- TOP .4.: Quartierbezogene Bewohnerarbeit ? Wirkungsanalyse; Ergebnisse der Studie der Hochschule München; Nachbarschaftstreffs auf dem Prüfstand; Sitzungsvorlage Nr.: 08-14 / V 13224; Beschluss des Sozialausschusses vom 05.12.2013
+- TOP .5.: Infrastrukturprogramm Sport in München ? Rückblick 2013 und Ausblick 2014; Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 04.12.2013 Sitzungsvorlage Nr.: 08-14 / V 13230
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
