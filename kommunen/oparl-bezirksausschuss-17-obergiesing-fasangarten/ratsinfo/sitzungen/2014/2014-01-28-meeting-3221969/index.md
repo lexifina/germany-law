@@ -1,0 +1,89 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-01-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3221969
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3221969
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Demontage der Halteverbotsschilder vor dem Anwesen Aignerstr. 31, Bürgeranliegen von Herrn S.
+- TOP 3.2.: Verkehrsberuhigung der Aignerstraße zwischen Gietlstraße und Ichostraße, Bürgeranliegen von Herrn R. und Frau S.
+- TOP 3.3.: Lärmschutzmaßnahmen für die Martin-Luther-Straße,Bürgeranliegen von Frau S.
+- TOP 3.4.: Reduzieren einer zusätzlichen Belastung der Martin-Luther-Straße, Bürgeranliegen von Herrn M.
+- TOP 3.5.: Begrünung der Tegernseer Landstraße, Bürgeranliegen von Frau B.
+- TOP 3.6.: Umsetzung der Variante 1 (Planfall A), Bürgeranliegen von Frau R. (Ziffer 1)
+- TOP 3.7.: Einbau von Schallschutzfenstern in der Ichoschule, Bürgeranliegen von Frau R. (Ziffer 2)
+- TOP 3.8.: Einführung einer Tempo-30-Zone in der Silberhornstraße und der Ichostraße, Bürgeranliegen von Frau R. (Ziffer 3)
+- TOP 3.9.: Einrichtung einer Ampel auf Höhe der Aignerstraße, Bürgeranliegen von Frau R. (Ziffer 4)
+- TOP 3.10.: Bau einer Brücke am Giesinger Berg, Bürgeranliegen von Herrn R.
+- TOP 3.11.: Giesinger Berg: Bau einer oberirdischen statt einer unterirdischen Querung, Bürgeranliegen von Frau S. (Ziffer 2)
+- TOP 3.12.: Anzahl der Kurzzeit-Parkplätze erhalten, Bürgeranliegen von Herrn F. (Ziffer 1)
+- TOP 3.13.: Belieferung der Geschäfte ohne Blockierung des Verkehrs, Bürgeranliegen von Herrn F. (Ziffer 2)
+- TOP 3.14.: Mehr Fahrradabstellmöglichkeiten, Bürgeranliegen von Herrn F. (Ziffer 3)
+- TOP 3.15.: Zugang zu den Geschäften muss während der Bauarbeiten erhalten bleiben, Bürgeranliegen von Herrn F. (Ziffer 4)
+- TOP 3.16.: Bessere Querungsmöglichkeiten der Tegernseer Landstraße, Bürgeranliegen von Herrn F. (Ziffer 5)
+- TOP 3.17.: Tempo 30, Werinherstraße zwischen Herzogstandstraße und Heimgartenstraße, Bürgeranliegen von Herrn B.
+- TOP 3.18.: Gutachten TRANSVER zur Verkehrlichen Neuordnung der Tegernseer Landstraße, Bürgeranliegen von Herrn R. (vertagt aus der BA-Sitzung vom 10.12.2013)
+- TOP 3.19.: Bürgeranliegen des Elternbeirates der Grund- und Mittelschule und des Tagesheims an der Ichostraße bezüglich der verkehrlichen Neuordnung der Tegernseer Landstraße 1. Favorisierung der Variante 1 2. Einbau von Lärmschutzfenstern 3. Einführung einer Tempo-30-Zone in der Icho- und Silberhornstraße 4. Koordinierung der Ampelschaltungen 5. Errichten einer Querungsmöglichkeit in der Ichostraße 6. Messung der Immissionsbelastung der Ichoschule
+- TOP 3.20.: Machbarkeitsstudie zur verkehrlichen Neuordnung der Tegernseer Landstraße, Beteiligung der Öffentlichkeit, Bürgeranliegen vom 18.12.2013 1. Empfehlungen der Koordinierungsgruppe der Sozialen Stadt Giesing 2. Empfehlung zur TeLa Süd zwischen Perlacher Straße und Kesselbergstraße
+- TOP 3.21.: Parkplätze in der TeLa Süd, Bürgeranliegen von Herrn F. vom 08.01.2014, Antrag des TeLa Aktiv e.V.
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
