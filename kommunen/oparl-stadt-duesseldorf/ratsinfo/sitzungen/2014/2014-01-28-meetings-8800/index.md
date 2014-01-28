@@ -1,0 +1,70 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-01-28T17:00:00+01:00
+- Ende: 2014-01-28T20:35:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8800
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8800
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00209179.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00209179.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00209179.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift ö. und nö. vom 26.11.2013 - einstimmig beschlossen
+- TOP 3: Umbau Benderstraße - mehrheitlich beschlossen
+- TOP 3.1: Umbau der Benderstraße - mehrheitlich abgelehnt
+- TOP 3.2: Umbau Benderstraße - mehrheitlich beschlossen
+- TOP 3.3: Parkplätze Bereich Benderstraße - mehrheitlich beschlossen
+- TOP 4: Plan 5976/025 - Glasmacherviertel - Überarbeitung Masterplan - vertagt
+- TOP 4.1: Sportpark Gerresheim-Süd - einstimmig beschlossen
+- TOP 4.2: Masterplan Glasmacherviertel - einstimmig beschlossen
+- TOP 4.3: Masterplan Glasmacherviertel - einstimmig beschlossen
+- TOP 4.4: Masterplan Glasmacherviertel - Wohnen - einstimmig beschlossen
+- TOP 4.5: Masterplan Glasmacherviertel - Gewerbe - einstimmig beschlossen
+- TOP 4.6: Masterplan Glasmacherviertel - Verkehrsbelastung - einstimmig beschlossen
+- TOP 4.7: Masterplan Glasmacherviertel - Parkplatz - einstimmig beschlossen
+- TOP 4.8: Masterplan Glasmacherviertel - Kunst, Kultur - einstimmig beschlossen
+- TOP 4.9: Masterplan Glasmacherviertel - Soziale Einrichtungen - einstimmig beschlossen
+- TOP 4.10: Masterplan Glasmacherviertel - Verkehrsströme, OU - einstimmig beschlossen
+- TOP 4.11: Masterplan Glasmacherviertel - einstimmig beschlossen
+- TOP 5: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2014 - mehrheitlich beschlossen
+- TOP 6: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 7: Straßenbenennung Kurt-Burchardt-Weg - einstimmig beschlossen
+- TOP 8: Sachstandsbericht Ursula-Trabalski-Straße - einstimmig beschlossen
+- TOP 9: Gedenkstein am sowjetischen Soldatenfriedhof - einstimmig beschlossen
+- TOP 10: Stadtentwicklungskonzept Düsseldorf 2025+ - einstimmig beschlossen
+- TOP 11: Ruhebank Alter Markt - einstimmig beschlossen
+- TOP 12: Nachbarschaftspark Diepenstraße - einstimmig beschlossen
+- TOP 13: Aufstellung eines zweiten Bücherschrankes im Bezirk 7 - einstimmig beschlossen
+- TOP 14: Straßenwinterdienst der AWISTA - mehrheitlich abgelehnt
+- TOP 15: Sachstandsbericht Bushaltestellen - einstimmig beschlossen
+- TOP 16: Ersatzhaltestelle Knuppertsbrück - zurückgezogen
+- TOP 17: Tiefgarage Am Wallgraben I - einstimmig beschlossen
+- TOP 18: Tiefgarage Am Wallgraben II - einstimmig beschlossen
+- TOP 19: Baukostensteigerung Wehrhahnlinie / Benderstraße - zurückgezogen
+- TOP 20: Wäldchen Marie-Curie-Straße / Mansfeldstraße - zur Kenntnis genommen
+- TOP 21: Bürgerhaus Gerresheim - zur Kenntnis genommen
+- TOP 22: Bericht Stadtbezirkskonferenz Seniorenarbeit - zur Kenntnis genommen
+- TOP 23: Baumpflanzungen entlang der A3 im Düsseldorfer Stadtgebiet - zur Kenntnis genommen
+- TOP 24: Verkehrssicherung am Übergang "Nach den Mauresköthen" zum "Zamenhofweg" für Fußgänger und Radfahrer - zur Kenntnis genommen
+- TOP 25: Pflasterung Fußgängerzone Gerresheim - zur Kenntnis genommen
+- TOP 26: Platz vor dem ehemaligen Amtsgericht Heyestraße - zur Kenntnis genommen
+- TOP 27: Haltestellenbereich Norbert-Schmidt-Straße - zur Kenntnis genommen
+- TOP 28: Tempo-Limit Benderstraße - zur Kenntnis genommen
+- TOP 29: CO-Pipeline der Bayer Material Science AG (BMS) - zur Kenntnis genommen
+- TOP 30: Ergebnisse der Haushaltsberatungen 2014 - zur Kenntnis genommen
+- TOP 31: Sachstandsbericht städtisches Grundstück (ehem. Glashütte) - zur Kenntnis genommen
+- TOP 32: Buslinie 725 - zur Kenntnis genommen
+- TOP 33: Streckenführung Buslinie 733 - zur Kenntnis genommen
+- TOP 34: Sachstandsbericht L404 - zur Kenntnis genommen
+- TOP 35: Überfüllte Busse der Rheinbahnlinie 733 - zur Kenntnis genommen
+- TOP 36: Entschleunigung der Heyestraße - zur Kenntnis genommen
+- TOP 37: Alternative Einkaufsmöglichkeiten während des Umbaus der Benderstraße - zur Kenntnis genommen
+- TOP 38: Spiegel an der Keldenichstraße Ausfahrt Neunzigstraße - zur Kenntnis genommen
+- TOP 39: Schulwegengpass an der Dreherstraße - zur Kenntnis genommen
