@@ -1,0 +1,8 @@
+# TOP 2.1: Gefälschte Unterschriften für das Volksbegehren Tempelhofer Feld?
+
+- Sitzung: 25. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2014-01-29)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=17497
+- Ergebnis: in der BVV abgelehnt
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=17497
