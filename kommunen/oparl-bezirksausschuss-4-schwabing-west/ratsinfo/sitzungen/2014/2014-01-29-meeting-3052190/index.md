@@ -1,0 +1,59 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-01-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052190
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052190
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Verein für heilende Erziehung Soziale Kompetenz und Gewaltprävention vom 07.01. - 29.07.2014
+- TOP .2.: StadtSchülerInnenVertretung München: Stadtbezirkstreffen der Münchner Schulen
+- TOP .2.1.: Wirtschaft
+- TOP 1: (E) Belieferung der Norma-Filiale in der Mitterwieserstraße nicht vor 7.00 Uhr morgens Empfehlung Nr. 08-14 / E 01931 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 01.10.2013
+- TOP 1.2.: ?Tolle Wolle?, Hohenzollernstr. 156: Warenauslage
+- TOP 1.2.2.: Kultur
+- TOP 1.2.3.: Veranstaltungen
+- TOP 1.1.: City-Bike-Marathon in München und der nördlichen Umgebung am 06.04.2014
+- TOP 1.1.: Bürgerin: Geplante Baumaßnahmen auf dem Areal des Max-Planck-Instituts für Psychiatrie (Kraepelinstr. 2)
+- TOP 1.2.1.: Planen
+- TOP 1.1.: Kathi-Kobus-Str. 9 ? 11: Schaffung von Wohnraum mittels Aufstockung sowie Errichtung von Balkonen im Zuge einer energetischen Gebäudesanierung
+- TOP 1.2.: Isabellastr. 38: Neubau eines Mehrfamilienhauses (16 WE) mit integriertem Laden, Büro und Tiefgarage
+- TOP 1.3.: Agnesstr. 12: Balkonanbau
+- TOP 1.4.: Grundstückstausch Mainzer Str. 14: Erneute Behandlung nach Klarstellung des Hintergrunds durch das Kommunalreferat
+- TOP 1.5.: Herzogstr. 88: Erweiterung zweier DG-Wohnungen, Verlängerung des ersten Fluchtwegs bis ins 2. DG
+- TOP 1.6.: Tektur Konradstr. 14: Errichtung eines Dacheinschnitts
+- TOP 1.7.: Destouchesstr. 69: Errichtung zweier neuer Dachgauben, nachträgliche Genehmigung des Wintergartens, Nutzungsänderung zweier Speicherräume zu Wohnräumen
+- TOP 1.8.: Bummstr. 5 ? 15: Errichtung von Balkonen
+- TOP 1.2.2.: Wohnen
+- TOP 1.1.: Bürger: Abgestellte Räder vor BASIC, Schleißheimer Str. 158-162
+- TOP 1.2.: Bürger: Wiederinbetriebnahme der Ampel an der Kreuzung Rümann-/Belgradstraße
+- TOP 1.3.: Bürger: Gefahrenpunkt Kreuzung Hohenzollern-/Schleißheimer Straße
+- TOP 1.4.: CSU-Fraktion: 1. Beschilderung des Verbindungswegs zw. Therese-Studer-Straße und Centa-Herker-Bogen 2. Konzepte für Elektromobilität im Stadtbezirk
+- TOP 1.5.: Bürgerin: Offizieller Radweg über den Hohenzollernplatz
+- TOP 1.6.: Bürger: Förderung von Gemeinschaftsnutzgärten
+- TOP 1.2.1.: Umwelt
+- TOP 1.1.: Angererstr. 16-24: Fällung eines dreistämmigen Ahorn
+- TOP 1.2.: Rümannstr. 53: Fällung eines Ahorn
+- TOP 1.2.2.: Verkehr
+- TOP 1: (E) Verkehrskontrollen gegen nächtliche Motorradraser auf der Strecke Ackermannstraße / Schwere-Reiter-Straße Empfehlung Nr. 08-14 / E 01938 der Bürgerversammlung des 4. Stadtbezirkes - Schwabing West am 01.10.2013
+- TOP 1.2.: Hohenzollern-/Friedrichstraße: Baumpflanzungen und Aufstellen einer Bank (Anhörung zu den Planunterlagen)
+- TOP 1.3.: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 1.4.: Fahrbahnsanierung der Viktoriastraße zwischen Bonner Platz und Destouchesstraße
+- TOP 1.1.: Kreuzung Hohenzollern-/Schleißheimer Straße: Maßnahmen zum Schutz der Fußgänger
+- TOP 1.2.: Bebauungsplan Nr. 2011: Verfahren zum Erlass umgehend weiterführen
+- TOP 1.3.: Fahrzeugtausch auf den Straßenbahnlinien 27 und 28
+- TOP 1.4.: Überholverbot an der Haltestelle Hohenzollernplatz durch Markierung verdeutlichen
+- TOP 1.5.: Mehr Tiefgaragenplätze für die studiomuc-Serviceapartments an der Schwere-Reiter-Straße
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
