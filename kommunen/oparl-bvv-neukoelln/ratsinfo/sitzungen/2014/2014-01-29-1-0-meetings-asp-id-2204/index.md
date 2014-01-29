@@ -1,0 +1,87 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-01-29T17:00:00+01:00
+- Ende: 2014-01-29T22:00:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2204
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2204
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 2.1: Gefälschte Unterschriften für das Volksbegehren Tempelhofer Feld? - in der BVV abgelehnt
+- TOP 2.2: Durchführung eines Interessenbekundungsverfahrens zum Betrieb einer Kindertagesstätte auf dem Grundstück Böhmische Straße 39 in 12055 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Unterstützung der Erweiterungspläne des Hotels Estrel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl zweier Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 6.2: Wahl einer stellvertretenden Bürgerdeputierten in den Sozialausschuss - gewählt
+- TOP 6.3: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss Bildung, Schule und Kultur - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Neubau einer Grundschule auf / an der Tempelhofer Freiheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2013 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines Mitgliedes des Jugendhilfeausschusses - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines Mitgliedes des Jugendhilfeausschusses - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.4: Benennung eines persönlichen Vertreters eines Mitgliedes des JHA - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.5: Benennung eines persönlichen Vertreters eines Mitgliedes des JHA - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Kita-Bedarfsatlas 2014 - beantwortet
+- TOP 9.2: Werbung in Neukölln - beantwortet
+- TOP 9.3: Fußgängerüberweg Treptower Straße Ecke Harzer Straße - beantwortet
+- TOP 9.4: Auszählung der Unterschriften zum Volksbegehren - beantwortet
+- TOP 9.5: Schulheizungen instand setzen - beantwortet
+- TOP 9.6: Kitaplätze in Neukölln - beantwortet
+- TOP 9.7: Überquerungshilfe Treptower/Harzer Str. - beantwortet
+- TOP 9.8: Alt-Buckow 21 - beantwortet
+- TOP 9.9: Wochenmarktschild Kranoldplatz - schriftlich beantwortet
+- TOP 9.10: Spielhallen mit Verstößen? - schriftlich beantwortet
+- TOP 9.11: Gewerbemieten - schriftlich beantwortet
+- TOP 9.12: Luxus-Lofts am Kindl-Boulevard - schriftlich beantwortet
+- TOP 9.13: Schlitten-Verbot im Britzer Garten - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Öffentliche Beteiliggungsveranstaltungen bei größeren Bauvorhaben durchführen - in der BVV abgelehnt
+- TOP 11.3: Separate Abbiegerampel in LZA Buckower Damm/Mohriner Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Altenhilfeplanung erarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Neuköllner Register einführen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Heizungsausfall an der Oskar-Heinroth-Grundschule - beantwortet
+- TOP 12.2: Leitlinien zur Fixierung von Patient*innen - beantwortet
+- TOP 12.3: Ordnungsamt: Spätischließungen an Sonntagen - beantwortet
+- TOP 12.4: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern - beantwortet
+- TOP 12.5: Immobilien-Einkaufstour durch Neukölln - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Tempo 30 in der Gerlinger Str. - überwiesen
+- TOP 14.2: Alpha-Bündnis - überwiesen
+- TOP 14.3: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern I - überwiesen
+- TOP 14.4: Parken in der Bouchéstraße - überwiesen
+- TOP 14.5: Altglassammelbehälter nicht entfernen - überwiesen
+- TOP 14.6: Auswahlverfahren für die Neuköllner Ehrennadel - in der BVV abgelehnt
+- TOP 14.7: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern II - überwiesen
+- TOP 14.8: Internationale Woche gegen Rassismus - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Großinvestoren stoppen - in der BVV abgelehnt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Eingliederungsmittel 2013 vollständig für Neukölln verwenden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Verkehrssicherheit für die Theodor-Storm-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Fußgängerüberweg in der Fritz-Reuter-Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Aufstellung einer Altenhilfeplanung im Bezirk Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Querungshilfe Treptower Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Unterstützung der Erweiterungspläne des Hotels Estrel - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Freifunk auf Bezirksgebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bebauungsplan XIV-274b ("Waßmannsdorfer Dreieck") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Freilufttrinker in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Professionelle Beratungs- und Betreuungsstelle für Glücksspielsüchtige - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Fußgängerüberweg im Buckower Damm/Ecke Mollnerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Task Force Okerstraße - mit Abschlussbericht zur Kenntnis genommen
