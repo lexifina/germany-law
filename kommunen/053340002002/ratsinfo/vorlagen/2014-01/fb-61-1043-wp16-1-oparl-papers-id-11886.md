@@ -1,0 +1,10 @@
+# I. vereinfachte Änderung des vorhabenbezogenen Bebauungsplanes Nr. 852 A - Münsterstraße/ Wohnen und Arbeiten - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/Walheim im Bereich zwischen Münsterstraße und Vennbahnweg;hier:Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/1043/WP16-1
+- Art: Entscheidungsvorlage
+- Datum: 2014-01-30
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=11886
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=11886
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2959 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
