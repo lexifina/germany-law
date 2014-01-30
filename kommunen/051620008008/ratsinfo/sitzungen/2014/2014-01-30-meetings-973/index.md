@@ -1,0 +1,52 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-01-30T18:07:00+01:00
+- Ende: 2014-01-30T20:56:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/973
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/973
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Verpflichtung von zwei neuen Ratsmitgliedern
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Ausschussumbesetzung - einstimmig
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.4.1: Nelson-Mandela-Gesamtschule - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Die Linke/FBG
+- TOP 3.8: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: ABG
+- TOP 4.7: Die Linke/FBG
+- TOP 4.7.1: Anfrage zum Thema Kleidercontainer
+- TOP 4.7.2: Anfrage zum Thema: Ungenutzte Bushaltestellen
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Auflösung Fraktion - einstimmig
+- TOP 8: Reden der Fraktionsvorsitzenden zum Haushalt 2014
+- TOP 9: Haushalt 2014 - mehrheitlich bei
+- TOP 10: Gemeinsamer Unterricht / Integrative Lerngruppen im Bereich der Sekundarstufe I - mehrheitlich bei
+- TOP 11: mündliche Anträge/Anfragen
+- TOP 11.1: Bauruine Viktoria Straße
+- TOP 11.2: Abfallentsorgung
+- TOP 11.3: Haus Hauptstraße 119
+- TOP 11.4: Lehrerwechsel
+- TOP 11.5: Vertragsverhältnis
+- TOP 11.6: Beeinträchtigung durch Hecke
+- TOP 11.7: Unterführung Hemmerden
+- TOP 12: Mitteilungen BM'in
