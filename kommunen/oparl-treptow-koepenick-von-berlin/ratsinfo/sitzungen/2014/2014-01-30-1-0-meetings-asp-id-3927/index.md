@@ -1,0 +1,60 @@
+# 25. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-01-30T16:30:00+01:00
+- Ende: 2014-01-30T20:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3927
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3927
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99063
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-26 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Ausschuss für Stadtentwicklung und Tiefbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtentwicklung und Tiefbau - gegenstandslos
+- TOP 8.4: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.5: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Ausschuss für Bürgerdienste und Ordnungsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittelantrag des Fördervereins der Bouché-Grundschule (SM 14-01) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Messstellen an Badestellen "Teppich" und "Kamerun" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Mehr Bürgerbeteiligung in der Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sanierung einer Fahrbahn in der Hundsfelder Straße in Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verlängerung der Verstärkerfahrten des Busses 167 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Weiterer Fußgängerüberweg in der Neuen Krugallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Einhaltung des Berliner Ausschreibungs- und Vergabegesetzes durch Reinigungsfirmen an Schulen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Tempo 30-Zone in Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Evaluation des Zentrums für Demokratie und sämtlicher weiterer Projekte im Kopfkapitel des Bezirksbürgermeisters - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Einsatz von E-Mailverschlüsselung im Amt - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mieterfreundliches Altglasrecycling erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Tabakwerbeverzicht auf Werbeflächen - überwiesen
+- TOP 14.3: Überschwemmung des Strohblumenwegs bei starken Regenfällen verhindern - überwiesen
+- TOP 14.4: Schlesischer Busch – Zusammenarbeit der Grünflächen- und Ordnungsämter aus Treptow-Köpenick und Friedrichshain-Kreuzberg - überwiesen
+- TOP 14.5: Soziale, ökologische und stadtentwicklungspolitische Kriterien beim Wohnungsneubau - überwiesen
+- TOP 14.6: Mehrstöckige Turnhalle Anna-Seghers-Schule - überwiesen
+- TOP 14.7: Radfahrstreifen Dörpfeldstraße - überwiesen
+- TOP 14.8: Gustav Hertz durch eine Platzbenennung würdigen - überwiesen
+- TOP 14.9: Kein Schwerlastverkehr in der Dörpfeldstraße - überwiesen
+- TOP 14.10: S-Bahnhof Treptower Park - Hinweisschilder für Aufzüge - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Verteilung der Mittel im Kiezkassenverfahren 2014 - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Erbbaupachtvertrag Hasselwerder Villa - mit Änderungen in der BVV beschlossen
+- TOP 14.13: Mehr Kommunikation vom LAGeSo einfordern - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Standorte von Technologie-, Innovations-, Gründer- und Gewerbezentren in Treptow-Köpenick (ohne WISTA) - beantwortet
+- TOP 15.2: Unterstützung für die Mieter der Beermannstraße 20 und 22 - beantwortet
