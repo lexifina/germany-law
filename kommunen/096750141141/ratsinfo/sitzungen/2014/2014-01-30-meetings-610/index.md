@@ -1,0 +1,54 @@
+# Sitzung des Stadtrates - Haushaltsberatung (Vermögenshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2014-01-30T17:00:00+01:00
+- Ende: 2014-01-30T21:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/610
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/610
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00014133.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00014702.pdf
+
+## Tagesordnung
+
+- TOP 1: Beratung des Vermögenshaushalts 2014 mit Finanzplanung 2013 - 2017
+- TOP 1.1: Vorinformation von Stadtkämmerer Weber zur Beratung des Vermögenshaushaltes
+- TOP 1.2: 2140.9451 Schulsporthalle Deusterpark – Sanierung/Neubau Sporthalle inkl. Brandschutz Generalsanierung; Mehrzweckhalle
+- TOP 1.3: Anfrage von Stadträtin Wallrapp 2141.9450 – Generalsanierung und Brandschutz Turnhalle Siedlungsschule
+- TOP 1.4: 2431.9450/9490 Friedrich-Bernbeck-Schule – Aus- und Umbaumaßnahme, Brandschutz sowie Planungskosten Erhaltungsinvestitionen
+- TOP 1.5: Anfrage von Stadträtin Wallrapp 3009.9350 – Alte Synagoge, Abdichtung der Türme
+- TOP 1.6: Anfrage von Stadträtin Glos 3009.9450/9490 – Alte Synagoge Brandschutz (Gutachten und Maßnahme)
+- TOP 1.7: Anfrage von Stadträtin Wallrapp 3331.9350 – Musikschule, Verkauf von Werkzeugen
+- TOP 1.8: Anfrage von Stadträtin Wallrapp 3700.9450 – Investitionszuschüsse für Kirchen; Bergkirche Hohenfeld
+- TOP 1.9: Anfrage von Stadträtin Dr. Endres-Paul 3700.9880 – Investitionszuschüsse für übrigen Bereiche
+- TOP 1.10: Anfrage von Stadtrat Popp 3601.9328 Pauschaler Ansatz für Ablösungszahl für Ausgleichsflächen (Öko-Fonds)
+- TOP 1.11: Anfrage von Stadträtin Wallrapp 4609.9350 – Dezentrale Jugendtreffs, Erwerb von bewegl. Sachen des Anlagevermögens
+- TOP 1.12: 4351.9453 Obdachlosenunterkünfte; Erweiterungs-, Um- und Ausbau Maßnahme, Mindestausstattung (Heizung, Bodenbeläge)
+- TOP 1.13: Antrag von Stadträtin Stocker 4643.9450 Kindergarten Hohenfeld, Einbau von Krippenplätzen - beschlossen
+- TOP 1.14: Anfrage von Stadträtin Wallrapp 4644.9452 Brandschutz Kindergarten Alemannenstraße
+- TOP 1.15: Anfrage von Stadträtin Wallrapp 4645.3610 Zuschüsse für Kindergrippe und Kindergarten St. Elisabeth
+- TOP 1.16: 5601.9580 – Sportanlage Etwashausen, Ballfangzaun
+- TOP 1.17: Anfrage von Stadträtin Dr. Endres-Paul 5800.9585 Baugebiet Eselsberg Süd, Gelände profilieren und Ansaat
+- TOP 1.18: 5932.9350 - Ersatz Spielgeräte in verschiedenen Spielplätzen
+- TOP 1.19: Anfrage von Stadträtin Dr. Endres-Paul 5821.9352 Stadtgärtnerei – Arbeitsgeräte und Maschinen
+- TOP 1.20: Anfrage von Stadträtin Wallrapp UA 5900 – Kleine Gartenschau, NIK
+- TOP 1.21: 6101.9590 – Stadtplanung, allg. Gutachten + Planungskosten (ohne Konversion)
+- TOP 1.22: Anfrage von Stadträtin Richter 6101.9650 – Ausbau Breitband-/DSL-Versorgung
+- TOP 1.23: Anfrage von Stadträtin Dr. Endres-Paul 6151.9882 Privatmaßnahmen in Sanierungsgebieten (auch Fastnachtsmuseum)
+- TOP 1.24: UA 6302 – Kreuzungsquerung Fußgängerzone zur Alten Mainbrücke - abgelehnt
+- TOP 1.25: Anfrage von Stadträtin Wallrapp Prioritätenliste für Straßenbau und Kanal
+- TOP 1.26: Anfrage von Stadträtin Wallrapp UA 6306 Umgestaltung Bahnhofsvorplatz – Straßenbau
+- TOP 1.27: Anfrage von Stadtrat Schardt Straße im Bereich Dreistock
+- TOP 1.28: Anfrage von Stadträtin Dr. Endres-Paul Unterschiedliche Unterabschnitte hinsichtlich der Gesamtmaßnahme Bahnhof
+- TOP 1.29: Anfrage von Stadträtin Wallrapp UA 6321 Geh- und Radweg nach Mainbernheim
+- TOP 1.30: Hinweis von Oberbürgermeister Müller 6402.9508 – Straßenausbau Gartenstraße Etwashausen
+- TOP 1.31: Anfrage von Stadträtin Wallrapp 6402.3525 – Straßenausbaubeiträge/Anliegerbeiträge Friedrich-Eber-Straße
+- TOP 1.32: Anfrage von Stadträtin Dr. Endres-Paul 6453.9501 – Geh- und Radwege im Stadtgebiet (Absenkungen/Markierungen) pauschale
+- TOP 1.33: Antrag der KIK-Stadtratsfraktion 6709.9582 Straßenbeleuchtung
+- TOP 1.34: 6815.9518/9598 Parkfläche am Hallenbad (Erweiterung/Umbau sowie Planung 6815.9519/9599 Parkfläche Bleichwasen (Neubau sowie Planung) - beschlossen
+- TOP 1.35: Anfrage von Stadträtin Wallrapp UA 7000 – Prioritätenliste Kanalbau - beschlossen
+- TOP 1.36: Anfrage von Stadträtin Dr. Endres-Paul 7517.9580 Anlage einer Friedwiese
+- TOP 1.37: Anfrage von Stadträtin Dr. Endres-Paul 7692.9359 – Verdunkelung Rathaushalle
