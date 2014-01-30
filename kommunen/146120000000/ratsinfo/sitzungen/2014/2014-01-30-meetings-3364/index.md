@@ -1,0 +1,57 @@
+# 64. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-01-30T16:00:00+01:00
+- Ende: 2014-01-30T22:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3364
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3364
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_01_30 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00157855.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Aktuelle Stunde nach § 18 der Geschäftsordnung des Stadtrats Dresden zum Thema „KREATIVES DRESDEN - Räume für die Kreativwirtschaft - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 6: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 7: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 8: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 9: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 10: Umbesetzung im Petitionsausschuss - Zustimmung
+- TOP 11: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - Zustimmung
+- TOP 12: Umbesetzung im Betriebsausschuss für Sportstätten - Zustimmung
+- TOP 13: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 14: Umbesetzung im Behindertenbeirat - Zustimmung
+- TOP 15: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - Zustimmung
+- TOP 16: Umbesetzung im Ausschuss für Soziales, Gesundheit und Wohnen - Zustimmung
+- TOP 17: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - Zustimmung
+- TOP 18: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen - Zustimmung
+- TOP 19: Kommunales Handlungskonzept Bildung - Zustimmung mit Änderung
+- TOP 20: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Vertagung
+- TOP 21: Bebauungsplan Nr. 393, Dresden-Räcknitz Nr. 3, Nöthnitzer Straße - Campus Süd in Verbindung mit Rahmenplan Nr. 791, Rahmenkonzept für den Bereich des Campus der Technischen Universität Dresden und dessen Umfeld - Zustimmung
+- TOP 22: Ergebnisse der Einwohnerversammlung vom 9. September 2013 zur geplanten Straßenbahnverbindung Tiergarten-Oskarstraße-Wasaplatz im Rahmen des Stadtbahnprojektes 2020 - Zustimmung mit Änderung
+- TOP 23: Hochwasserschutz am Laubegaster Ufer (Maßnahme Z1) – Planungsleistungen für erweiterte Grundlagenermittlung unverzüglich veranlassen - Ablehnung
+- TOP 24: Bauplanungen in hochwassergefährdeten Gebieten überprüfen - Hochwasservorsorge ernst nehmen - punktweise Ablehnung
+- TOP 25: Vorbeugender Hochwasserschutz braucht Vorrang: Nachhaltigen Hochwasserschutz gewährleisten - punktweise Ablehnung
+- TOP 26: Auswertung Hochwasserereignisse Juni 2013 - Ablehnung
+- TOP 27: Gesamtsanierung und Erweiterung der 89. Grundschule, Sosaer Straße 10 in 01257 Dresden - Zustimmung
+- TOP 28: Neufassung der Satzung der Landeshauptstadt Dresden über die Erstattung der notwendigen Schülerbeförderungskosten (Satzung Schülerbeförderungskosten-Erstattung) - Verweisung
+- TOP 29: Gliederung des Gesamthaushaltes in 8 Teilhaushalte nach der örtlichen Organisation in der Landeshauptstadt Dresden gemäß § 4 Sächsische Kommunalhaushaltsverordnung-Doppik (SächsKomHVO-Doppik) - Zustimmung
+- TOP 30: Eintrittspreise Staatsoperette Dresden ab der Spielzeit 2014/2015 - Zustimmung mit Änderung
+- TOP 31: Neufassung des Statutes zur Verleihung des Dresdner Lyrikpreises - Zustimmung mit Änderung
+- TOP 32: Satzung der Landeshauptstadt Dresden zur Förderung von Kindern in Kindertageseinrichtungen (Fördersatzung) - Zustimmung mit Änderung
+- TOP 33: Aufhebung der Sanierungssatzung für das Sanierungsgebiet Cossebaude - Altstadt - Zustimmung
+- TOP 34: Schwimmsportkomplex Freiberger Platz – Fördermitteleinsatz zum Neubau einer Schwimmhalle - Zustimmung
+- TOP 35: Aufhebung des Stadtratsbeschlusses A0061/09, „Mobilitätsticket für einkommensschwache Fahrgäste im VVO“ - Zustimmung
+- TOP 36: Neubenennung von Straßen - Zustimmung
+- TOP 37: Veränderungssperre für den Bebauungsplan Nr. 357, Dresden-Neustadt Nr. 33, Leipziger Vorstadt - Zustimmung
+- TOP 38: Ergänzungssatzung Nr. 440, Dresden Klotzsche Nr. 1, Geschwister-Scholl-Straße - Vertagung
+- TOP 39: Bürgerbeteiligung stärken – Einrichtung einer Plattform für E-Petitionen auf der Stadt-Website - Vertagung
+- TOP 40: Einführung der Ortschaftsverfassung für das gesamte Stadtgebiet Dresdens - Vertagung
+- TOP 41: Parkplatzsituation in Johannstadt verbessern - Zustimmung mit Änderung
+- TOP 42: Bürgerbeteiligung an Projekten der Erneuerbaren Energien - Vertagung
