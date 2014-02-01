@@ -1,5 +1,4 @@
-# Archivgesetz
-für den Freistaat Sachsen (SächsArchivG)
+# Archivgesetz für den Freistaat Sachsen (SächsArchivG)
 Vom 17. Mai 1993
-Rechtsbereinigt mit Stand vom 1. Januar 2005
+Rechtsbereinigt mit Stand vom 1. Februar 2014
 Der Sächsische Landtag hat am 22. April 1993 das folgende Gesetz beschlossen:
