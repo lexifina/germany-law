@@ -29,7 +29,7 @@ Abschnitt 2 Allgemeinbildende Schulen
 § 19a | (weggefallen)
 § 20 | Oberschule und Gymnasium
 § 21 | Erwerb der Abschlüsse in den allgemeinbildenden Schulen
-Abschnitt 3 Besondere Organisationsformen allgemeinbildender Schulen
+Abschnitt 3 Besondere Organisationsformen
 § 22 | Zentrum für unterstützende Pädagogik
 § 23 | Ganztagsschule
 § 23a | (weggefallen)
@@ -98,7 +98,7 @@ Teil 7 Übergangs- und Schlussbestimmungen
 § 68 | Sechsjährige Grundschule
 § 69 | Gymnasien
 § 70 | Sekundarschule, Gesamtschule, Gymnasium und Gymnasiale Oberstufe am Schulzentrum
-§ 70a | Eigenständige Zentren für unterstützende Pädagogik
+§ 70a | Förderzentrum
 § 71 | Zweijähriger Bildungsgang Berufseingangsstufe/Berufsfachschule
 § 72 | Werkschulen
 § 73 | Inkrafttreten
