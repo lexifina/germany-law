@@ -1,0 +1,67 @@
+# Sitzung des Stadtrates - Haushaltsberatung (Verwaltungshaushalt mit Stellenplanung)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2014-02-04T17:00:00+01:00
+- Ende: 2014-02-04T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/609
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/609
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00014223.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00014766.pdf
+
+## Tagesordnung
+
+- TOP 1: Beratung des Vermögenshaushaltes 2014 mit Finanzplan 2013 bis 2017
+- TOP 1.1: 8260.9870 - Flugplatz Kitzingen, Zuschüsse an Träger von Sanierungs- und Erschließungsmaßnahmen (pauschale)
+- TOP 1.2: 8800.9322 - Erwerb bebauter Grundstücke, Teilflächen aus Konversion
+- TOP 1.3: 8801.9420 Energieeinsparmaßnahmen an bestehenden Gebäuden
+- TOP 1.4: Anfrage von Stadtrat Schmidt 8801.9510/8801.9590 - Aus-/Umbau Kaiserstraße 17, Sanierungskonzept
+- TOP 1.5: 8801.9450 Wohn- und Geschäftsgrundstücke - Einrichtungen von Bädern, Duschen und dergleichen - abgelehnt
+- TOP 1.6: Antrag von Stadträtin Wallrapp 8809.9400 - Restaurierung Marktbrunnen - beschlossen
+- TOP 1.7: Information durch Stadtkämmerer Weber Änderungen beim Einzelplan 9
+- TOP 1.8: Einsparungsvorschläge von Stadtrat Schmidt
+- TOP 1.9: Antrag der ödp auf Durchwegung im Marktplatz - beschlossen
+- TOP 2: Budgetfestlegung
+- TOP 2.1: Budgetfestlegung für das Haushaltsjahr 2014; Budget Standesamt - UA 0501 - beschlossen
+- TOP 2.2: Budgetfestlegung 2014 für SG 12 - EDV - beschlossen
+- TOP 2.3: Budgetfestlegung für das Haushaltsjahr 2013; Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.4: Budgetfestlegung für das Haushaltsjahr 2014; Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.5: Budgetfestlegung für das Haushaltsjahr 2014; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 2.6: Budgetfestlegung für das Haushaltsjahr 2014; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 2.7: Budgetfestlegung für das Haushaltsjahr 2014; Gesamtbudget "Sportanlagen - UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 2.8: Budgetfestlegung HHJ. 2014 Alte Synagoge Unterabschnitt 3009 - beschlossen
+- TOP 2.9: Budgetfestlegung für das Haushaltsjahr 2014 - beschlossen
+- TOP 2.10: Budgetfestlegung für das Haushaltsjahr 2014 - beschlossen
+- TOP 2.11: Budgetfestlegung für das Haushaltsjahr 2014; UA 3331 Musikschule - beschlossen
+- TOP 2.12: Budgetfestlegung für das Haushaltsjahr 2014; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.13: Budgetfestlegung HHJ. 2014 vhs/SG131 Unterabschnitt 3501 - beschlossen
+- TOP 2.14: Budgetfestlegung HHJ. 2014 Stadtbücherei/SG 132 Unterabschnitt 3521 - beschlossen
+- TOP 2.15: Budgetfestlegung jungStil 2014 - beschlossen
+- TOP 2.16: Budgetfestlegung für das Haushaltsjahr 2014 UA 5821 - Gärtnerei - beschlossen
+- TOP 2.17: Budgetfestlegung für das Hauhaltsjahr 2014 Gesamtbudet Straßen, Wege, Plätze (UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900, 7850) - beschlossen
+- TOP 2.18: Budgetfestlegung für das Haushaltsjahr 2014; Gesamtbudget für Abwasser (UA 7000, 7002m 7006, 7146, 7189) - beschlossen
+- TOP 2.19: Budgetfestlegung für das Haushaltsjahr 2014; Budget Friedhöfe - UA 7510 - 7516 - beschlossen
+- TOP 2.20: Budgetfestlegung für das Haushaltsjahr 2014, Budget: Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 2.21: Budgetfestlegung für das Haushaltsjahr 2014; Budget UA 7711 - Bauhof - beschlossen
+- TOP 2.22: Budgetfestlegungen für das Haushaltsjahr 2014 - beschlossen
+- TOP 2.23: Budgetfestlegung für das Haushaltsjahr 2014; „Städtischer Waldbesitz“ - UA 8551 - - beschlossen
+- TOP 2.24: Budgetfestlegung für das Haushaltsjahr 2014; Budget „Wohngrundstücke, Sonstige bebaute Grundstücke“ - UA 8801, UA 8802 - - beschlossen
+- TOP 2.25: Budgetfestlegung für das Haushaltsjahr 2014, "Sonstiges Allgemeines Grundvermögen" - UA 8891 - - beschlossen
+- TOP 3: Sozialstationen im Landkreis Kitzingen, Finanzierungsbeteiligung der Stadt Kitzingen - beschlossen
+- TOP 4: Beratung des Verwaltungshaushalts 2014
+- TOP 4.1: Antrag der UsW-Fraktion 5500.7090 Förderung des Sports, Zuschüsse für lfd. Zwecke an Verbände, Vereine u. ä. - beschlossen
+- TOP 4.2: Anfrage von Stadträtin Schwab 0600.6360 Kugelkäferbekämpfung im Stadtbauamt
+- TOP 4.3: Antrag der FW-FBW-Fraktion 0600.5340 Überprüfung des Leasingvertrages für das Elektrofahrzeug
+- TOP 4.4: Antrag der SPD-Fraktion UA 3400 Restaurierung der alten Schilder im Ortsteil Repperndorf, die teilweise nicht mehr lesbar sind
+- TOP 4.5: Antrag der FW-FBW Fraktion 4351 5010 Obdachlosenunterkünfte Unterhalt Gebäude
+- TOP 4.6: Antrag der FW-FBW-Fraktion 6300.5130 - Straßenunterhalt, Alte Reichsstraße
+- TOP 4.7: Antrag der FW-FBW 6300.5130 - Straßenunterhalt; Kaltensondheimer Straße
+- TOP 4.8: Antrag der FW-FBW Friedhof Etwashausen
+- TOP 4.9: Anfragen von Stadträtin Wallrapp zum Vermögenshaushalt, Gesetzestexte und Ergänzungslieferungen, Strom/Heizung, Telefongebühren, Personalkosten
+- TOP 4.10: Anfrage von Stadträtin Wallrapp UA 0601 EDV - Pflege der Internetseite
+- TOP 4.11: Anfrage von Stadträtin Wallrapp 0800.1390/6326 - Schlemmerblöcke
+- TOP 4.12: Anfrage von Stadträtin Dr. Endres-Paul Zuschüsse für das Anrufsammeltaxi
+- TOP 4.13: Anfragen von Stadträtin Wallrapp Beteiligung an den Investitionskosten für die Grundschule Sulzfeld
