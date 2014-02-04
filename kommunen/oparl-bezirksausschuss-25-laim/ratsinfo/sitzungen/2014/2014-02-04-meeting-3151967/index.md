@@ -1,0 +1,84 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-02-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3151967
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3151967
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.3: Vorstellung des Seniorenstadtteilplans
+- TOP 1.3.1.: Beitragspflicht wegen Straßenbaumaßnahmen in der Agnes-Bernauer-Straße
+- TOP 1.3.2.: Förderung von Gemeinschaftsnutzgärten
+- TOP 1.3.3.: Baustelle Agnes-Bernauer-Str. 127
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Tiefgarage Ludwig Richter Höfe, Verzicht auf Stellplätze entsprechend Stellplatzsatzung (Vertagung aus der BA-Sitzung vom 14.01.14)
+- TOP 2.2.: CSU-Fraktion: "Grün statt Grau" - Maßnahmen gegen den zunehmenden Kahlschlag in Laim
+- TOP 3: Entscheidungsfälle
+- TOP 1: Beschlussvorlage Kommunalreferat: Entfernung des Kleidercontainers an der Ecke Straubinger Straße / Wilhelm-Riehl-Straße (Empfehlung Nr. 08-14 / E 02116 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 26.11.2013)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 17.12.13: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 07.01.14: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.01.14: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick (Empfehlungen Nr. 08-14 / E 01148 und E 01154 der Bürgerversammlung vom 15.11.11 sowie Nr. 08-14 / E 01598 der Bürgerversammlung vom 20.11.12)
+- TOP 4.4.: Schreiben Sozialreferat vom 17.01.14: Ausschreibung nächster Einsatz "Kinder-Aktions-Koffer" zur Beteiligung von Kinder an der Stadtteil-Entwicklung
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 17.01.14: Errichtung einer Haltverbotszone im Wendehammer vor den Anwesen Stroblstr. 11/13
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 04.12.13: Änderung der Zeitzusätze an den Haltverbotszonen am Linienweg der MVG-Linie 168 in der Aindorferstraße und Guido-Schneble-Straße (Vertagung aus der BA-Sitzung vom 14.01.14)
+- TOP 4.7.: Endelhauserstr. 14: Antrag auf Fällung von 1 Edeltanne sowie Baumveränderung an 1 Walnuss
+- TOP 4.8.: Schreiben Kommunalreferat vom 06.11.13 und 22.01.14: Stadteigenes Grundstück, Flst. 8485/5 (Teilfläche) Gemarkung Laim, an der Westend- / Zschokkestraße; Dinnershow "Johann Lafer`s Cotton Club" vom 15.10.14-31.03.15
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 42: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.2.: Von-der-Pfordten-Str. 38: Abbruch einer Garage und Neubau eines Einfamilienhauses mit Garage / Tektur; hier: Baumbestands- und Freiflächengestaltungspläne
+- TOP 5.3.: Agnes-Bernauer-Str. 32: Aufstockung eines Wohngebäudes um 2 Geschosse, Errichtung von 6 Wohneinheiten; hier: Baupläne
+- TOP 5.4.: Agnes-Bernauer-Str. 36: Aufstockung eines Wohngebäudes um 2 Geschosse, Errichtung von 6 Wohneinheiten; hier: Baupläne
+- TOP 5.5.: Agnes-Bernauer-Str. 38: Aufstockung eines Wohngebäudes um 2 Geschosse, Errichtung von 4 Wohneinheiten; hier: Baupläne
+- TOP 5.6.: Agnes-Bernauer-Str. 40: Aufstockung eines Wohngebäudes um 2 Geschosse, Errichtung von 4 Wohneinheiten; hier: Baupläne
+- TOP 5.7.: Schäufeleinstr. 33: Aufstockung eines Wohngebäudes um 2 Geschosse, Errichtung von 8 Wohneinheiten; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben StadtschülerInnenvertretung München vom 13.01.14: Stadtbezirkstreffen der Münchner Schulen
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 14.01.14
+- TOP 7.2.: Sitzung UA Kultur vom 14.01.14
+- TOP 7.3.: Ortstermin UA Umwelt / Verkehr vom 24.01.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.12.13: Aufstellung von 170 City-Light-Säulen (beleuchtet) für wechselnde Produktwerbung; Standortliste gemäß Werbenutzungsvertrag vom 28.11.13
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.01.14: Vollzug der Baumschutzverordnung; Mitterhoferstr. 7
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.01.14: Baumfällungsantrag Aindorferstr. 77
+- TOP 8.5.: Schreiben Baureferat vom 08.01.14: Gehweg im Bereich Fürstenrieder Str. 33-37 (Schreiben BA vom 13.12.13)
+- TOP 8.6.: Schreiben Referat für Bildung und Sport vom 08.01.14: Forderungen bei der Neuplanung des Grundstücks an der Siglstraße mit Wohnungen und Kinderbetreuungseinrichtungen; hier: Forderungen zur Kinderbetreuungseinrichtung (Antrag Nr. 08-14 / B 04488 vom 04.12.12)
+- TOP 8.7.: Schreiben Referat für Bildung und Sport vom 16.01.14: Generalinstandsetzung bzw. Neubau der Sporthalle und Erweiterung der Grund- und Mittelschule Schrobenhausener Str. 15; Genehmigung der veränderten Bedarfsanmeldung durch verwaltungsinterne Abstimmung
+- TOP 8.8.: Schreiben Referat für Arbeit und Wirtschaft vom 15.01.14: Telefonzelle Ecke Fürstenrieder Straße / Käthe-Bauer-Weg (Schreiben BA vom 11.11.13)
+- TOP 8.9.: Schreiben Direktorium vom 20.01.14: Budgetmittel des BA 25; Ablehnung einer beantragten Bewilligung; Antragsteller: Paul-Gerhardt-Chor München
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 31.10.13: Reduzierung der Schulbushaltestellen an der Droste-Hülshoff-Straße
+- TOP 8.11.: Schreiben Referat für Gesundheit und Umwelt vom 09.01.14: Schadstoffmessungen an der BAB 96 zwischen Fürstenrieder - und Garmischer Straße (Antrag Nr. 08-14 / B 04902 des BA 7 Sendling-Westpark vom 11.06.13)
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 13.01.14: Baumaßnahmen der Stadtwerke; Stichtag: 13.01.14
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 20.01.14: Baumaßnahmen der Stadtwerke; Stichtag: 20.01.14
+- TOP 8.14.: Bautenliste vom 06.01.-12.01.14 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 32 b) Schäufeleinstr. 33 c) Agnes-Bernauer-Str. 40 d) Schäufeleinstr. 35 e) Rechpacherstr. 18 f) Baudererstr. 6 g) Agnes-Bernauer-Str. 38 h) Agnes-Bernauer-Str. 36
+- TOP 8.15.: Beschluss des Ausschusses für Bildung und Sport vom 04.12.13: Infrastrukturprogramm Sport in München, Rückblick 2013 und Ausblick 2014 (Sitzungsvorlage Nr. 08-14 / V 13230)
+- TOP 8.16.: Beschluss des Sozialausschusses vom 05.12.13: Quartierbezogene Bewohnerarbeit, Produkt 60 4.1.7, Wirkungsanalyse, Ergebnisse der Studie der Hochschule München (Sitzungsvorlage Nr. 08-14 / V 13224)
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.13: Stellplatzschlüssel im Wohnungsbau (Sitzungsvorlage Nr. 08-14 / V 13593)
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.13: Einhausung der A 96 (Sitzungsvorlage Nr. 08-14 / V 13570)
+- TOP 8.19.: Beschluss der Vollversammlung vom 18.12.13: Handlungsprogramm Mittlerer Ring, Sachstand und weiterer Handlungsbedarf (Sitzungsvorlage Nr. 08-14 / V 10707)
+- TOP 8.20.: Beschluss der Vollversammlung vom 18.12.13: München Modell-Miete, Elisabeth-Krohn-Straße (Sitzungsvorlage Nr. 08-14 / V 13775)
+- TOP 8.21.: Beschluss der Vollversammlung vom 18.12.13: Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern (Sitzungsvorlage Nr. 08-14 / V 13430)
+- TOP 8.22.: Beschluss der Vollversammlung vom 18.12.13: Beschleunigung beschleunigen (Sitzungsvorlage Nr. 08-14 / V 12959)
+- TOP 8.23.: Beschluss der Vollversammlung vom 18.12.13: Bauträgerauswahl für Baugrundstücke, Produkt 60 4.1.8; u.a. Städtisches Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B, 25. Stadtbezirk, Brantstraße Flst. 400/4, 400/52 und 400/53, Gemarkung Laim (Sitzungsvorlage Nr. 08-14 / V 13088)
+- TOP 8.24.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 15.01.14: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weitere Fortentwicklung des Städtebaurechts ("BauGB-Novelle 2013") (Sitzungsvorlage Nr. 08-14 / V 13668)
+- TOP 8.25.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.14: Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen (Sitzungsvorlage Nr. 08-14 / V 13728)
+- TOP 8.26.: Beschluss des Vollversammlung vom 22.01.14: Energiekonzepte für neue Baugebiete (Sitzungsvorlage Nr. 08-14 / V 13147)
+- TOP 8.27.: Beschluss der Vollversammlung vom 22.01.14: Erhaltungssatzungen in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing (Sitzungsvorlage Nr. 08-14 / V 13329)
+- TOP 8.28.: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Ausschusses für Arbeit und Wirtschaft, des Kreisverwaltungsausschusses und des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.14: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) (Sitzungsvorlage Nr. 08-14 / V 13716)
+- TOP 8.29.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.14: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2013 / 2014 (Sitzungsvorlage Nr. 08-14 / V 13781)
+- TOP 8.30.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.14: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013 / 2014 (Sitzungsvorlage Nr. 08-14 / V 13763)
+- TOP 8.31.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.14: Schüler/innen und Klassenzahlen, Berufliche Schulen der LH München im Schuljahr 2013 / 2014; Stand: 20.10.13 (Sitzungsvorlage Nr. 08-14 / V 13754)
+- TOP 8.32.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.14: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck Abendschule; Schuljahr 2013 / 2014 (Sitzungsvorlage Nr. 08-14 / V 13813)
+- TOP 8.33.: Beschluss des Ausschusses für Bildung und Sport und des Ausschusses für Stadtplanung und Bauordnung in der gemeinsamen Sitzung des Stadtrates vom 29.01.14: Arbeitsgruppe Schulbauoffensive (SBO) 2013/2030, A. Sachstandsbericht - Berichtszeitraum 2013, B. Räumliche Bedarfsplanung für Münchner öffentliche Realschulen und Gymnasien - Fortschreibung (u.a. Antrag Nr. 08-14 / B 05242 des BA 25 vom 01.10.13 "Entwicklung eines "Bildungscampus München am Westpark"")(Sitzungsvorlage Nr. 08-14 / V 13853)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.14: Flächenhaften Naturschutz in der Verwaltung stärken! (Sitzungsvorlage Nr. 08-14 / V 13906)
+- TOP 8.35.: Schreiben Arbeitsgruppe Seniorenstadtteilplan Laim vom 16.01.14: Kurzbericht Seniorenstadtteilplan
+- TOP 1.2: Bürgerpost an den BA
