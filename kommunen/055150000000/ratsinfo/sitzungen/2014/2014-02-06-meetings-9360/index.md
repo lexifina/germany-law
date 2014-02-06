@@ -1,0 +1,53 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-02-06T17:05:00+01:00
+- Ende: 2014-02-06T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9360
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9360
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00351521.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbau Hbf Münster, Vorstellung des Baustellenkonzeptes durch Bahn AG
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 4.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 5: Mitteilungen der Verwaltung
+- TOP 6: Anträge und Eingaben
+- TOP 6.1: Bekanntgabe
+- TOP 6.2: Stellungnahmen
+- TOP 7: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 7.1: Investorenwettbewerb nördlich Stadthafen 1, Flächen der Stadtwerke Münster GmbH (Hafenweg 34-44) - mehrheitlich geändert beschlossen
+- TOP 7.2: 39. Änderung des Flächennutzungssplans und Bebauungsplan Nr. 535 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 7.3: Vorstellung des Wettbewerbsergebnisses Paul-Gerhard-Haus - von der Tagesordnung abgesetzt
+- TOP 7.4: Entwurf Landesentwicklungsplan (LEP) NRW - Stellungnahme Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 7.5: Das Städtedreieck Münster, Osnabrück, Netwerkstad Twente (MONT): Rückblick, Sachstand, Perspektiven - zur Kenntnis genommen
+- TOP 7.6: Bürgerumfrage 2013: Ergebnisse zu den Fragenkomplexen "Lebensbedingungen in Münster", "Wohnen in Münster" und "Verkehr in Münster" - zur Kenntnis genommen
+- TOP 7.7: Weitere Umsetzung des Unterbringungskonzeptes für Flüchtlinge in Münster - einstimmig geändert beschlossen
+- TOP 7.8: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen - einstimmig geändert beschlossen
+- TOP 7.9: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2014 - einstimmig beschlossen
+- TOP 8: Stadtplanung
+- TOP 8.1: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - mehrheitlich beschlossen
+- TOP 8.2: 52. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 509 - Beschluss zur Aufstellung - Bebauungsplan Nr. 344 - Beschluss zur Aufhebung - einstimmig beschlossen
+- TOP 8.3: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 8.4: Bebauungsplan Nr. 550 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.5: Bebauungsplan Nr. 565: Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 8.6: Eissporthalle - Leoland - zur Kenntnis genommen
+- TOP 9: Verkehr
+- TOP 9.1: Haltepunkt Roxel - geplante Querungshilfe in Höhe Pienersallee Nr. 55 - einstimmig beschlossen
+- TOP 9.2: P+R-Anlagen in Münster - Bestandsaufnahme und Konzept - - zur Kenntnis genommen
+- TOP 9.3: Priorisierung Verkehrssicherheitsprogramm 2014 - 2017 - zur Kenntnis genommen
+- TOP 9.4: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2014 - zur Kenntnis genommen
+- TOP 9.5: Planungsbeschluss zur Erweiterung des Parkleitsystems mit Wechselwegweisern auf der Umgehungsstraße (B 51) zum Messe und Congress Centrum Halle Münsterland - einstimmig beschlossen
+- TOP 9.6: Verkehrskonzept für die Umgestaltung der Amelsbürener Straße zwischen der Meesenstiege und der Westfalenstraße - vertagt, mit Prüfauftrag
+- TOP 10: Bauvorhaben
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Hüfferstr./Rishon-le-Zion Ring - zur Kenntnis genommen
+- TOP 11: Verschiedenes
+- TOP 11.1: Bericht Bürgeranhörung Brunnenviertel vom 22.1.2014 und weiteres Verfahren - zur Kenntnis genommen
