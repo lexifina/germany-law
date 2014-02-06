@@ -1,0 +1,51 @@
+# Gemeinderat (29. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-02-06T18:00:00+01:00
+- Ende: 2014-02-06T22:15:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZLfCZbNq38mS9edTmN6DRA
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1359
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWMDS1Wlo7e29dpxRj2YM7_SRSYYZpXzkYB1_nxy-4k-/Bekanntmachung_Gemeinderat_06.02.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRsBHlC41V1Q6hUe0J5IX3aHRms8l3Ok3OSMv10Jvu_Z/Oeffentliche_Niederschrift_Gemeinderat_06.02.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.11.2013 -öffentlicher Teil-
+- TOP 3.: Einstieg in den papierlosen Sitzungsdienst / mobile Gremienarbeit - Zur Kenntnis genommen
+- TOP 4.: Finanzen, Haushalt
+- TOP 4.1: Kinder- und Jugendförderung 2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Beteiligungsberichte nach § 117 GO der Jahre 2010 und 2011 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Feststellung des Gesamtabschlusses für das Haushaltsjahr 2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der SPD-Fraktion hier: Verkehrssicherungsmaßnahmen auf Siersdorfer Straße in Schleiden - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Entgeltordnung für die Sporthallen der Gemeinde Aldenhoven - 27 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Bauleitplanung
+- TOP 7.1: 1. Bebauungsplan 62 A – Niedermerzer Straße – (Aufstellungsbeschluss) 2. Erlass einer Veränderungssperre als Satzung für das Plangebiet des Bebauungsplans 62 A 3. Befreiung von den Festsetzungen des Bebauungsplans 15 A - Neu Pattern - - Einstimmig, 12 Enthaltung(en)
+- TOP 7.2: Neuaufstellung des Landesentwicklungsplans (LEP) des Landes Nordrhein-Westfalen - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.11.2013 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Erwerb eines Fahrzeuges für den Baubetriebshof - Vertagt
+- TOP 2.2: Beteiligung der EWV an der RurEnergie GmbH - Vertagt
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Berichte aus den Gremien
+- TOP 4.: Vermietungen, Verpachtungen
+- TOP 4.1: Sachstandsbericht zum Abschluss eines Mietvertrages mit der profinos gGmbH
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Übernahme aller der Erschließung Grundstücke im Bereich der Bebauungspläne 32 S und 44 S der befindlichen Grundstücke in das gemeindliche Eigentum - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Veräußerung des Grundstückes Gemarkung Koslar, Flur 26, Flurstück 79 an des Wasserverband Eifel-Rur - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Umwandlung des Tennenplatzes in Freialdenhoven in einen Kunstrasenplatz - Vertagt
+- TOP 7.: Entschädigung für die Errichtung von Windenergieanlagen im Gemeindegebiet - Vertagt
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
