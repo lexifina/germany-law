@@ -1,0 +1,6 @@
+# TOP 2: Aktuelle Informationen
+
+- Sitzung: 51. Sitzung des Ortschaftsrates Schönfeld-Weißig (2014-02-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/49577
