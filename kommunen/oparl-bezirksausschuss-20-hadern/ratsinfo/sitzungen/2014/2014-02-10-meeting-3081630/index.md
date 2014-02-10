@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081630
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081630
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Winterdienst in der Pfingstrosenstraße - zum Schreiben Baureferat vom 27.12.2013
+- TOP 1.2.: Taktung der Buslinien in der Würmtalstraße
+- TOP 1.3.: Radweg Sauerbruchstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: Bericht zum Runden Tisch zur nachschulischen Betreuung der Schülerinnen und Schüler der Grundschule an der Blumenauer Straße 11 und zum Neubau der Kindertageseinrichtung an der Blumenauer Straße 9
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Sanierung Jugendspielplatz an der Gelbhofstraße / Am Hedernfeld (Baureferat, 10.01.14)
+- TOP 2: Beleuchtung des Weges zur Bushaltestelle ?Zöllerstraße? (Bus 56) Empfehlung Nr. 08-14 / E 01921 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 25.09.2013 (Baureferat, 23.01.14)
+- TOP 2.3.: Ablehnung der Nachverdichtung in der Wastl-Witt-Straße 17-27 Empfehlung Nr. 08-14 / E 01922 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 25.09.2013 (Referat für Stadtplanung und Bauordnung, 23.01.14)
+- TOP 2.4.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., Trommelworkshop von 05. bis 09.05.2014 (Direktorium, 03.02.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung (Kreisverwaltungsreferat, 17.12.13)
+- TOP 6.2.: Lichtzeichenanlagen-Bauprogramm 2014 (Kreisverwaltungsreferat, 07.01.14)
+- TOP 6.3.: Ausschreibung nächster Einsatz "Kinder-Aktions-Koffer" zur Beteiligung von Kindern an der Stadtteil-Entwicklung (Sozialreferat, 17.01.14)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Pfingstrosenstraße 73 und gegenüber; Einrichtung eines absoluten Haltverbots (Kreisverwaltungsreferat, 23.01.14)
+- TOP 6.5.: Erinnerungsverfahren: Ossingerstraße zwischen Kurparkstraße und Neufriedenheimer Straße (Baureferat, 03.02.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Waldgartenstraße 31, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 29222
+- TOP 7.2.: Burg-Eltz-Weg 1, 1 Robinie
+- TOP 7.3.: Gräfelfinger Straße 43, 1 Birke, 1 Weide und 1 Robinie
+- TOP 7.4.: Waldgartenstraße 46, 1 Federahorn
+- TOP 7.5.: Marchioninistraße 15, 3 Ahornbäume
+- TOP 7.6.: Sauerbruchstraße 8 - 10, 2 Platanen
+- TOP 7.7.: Pfingstrosenstraße 5, 1 Thuje
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Kleinhaderner Straße 51 a, 1 Spitzahorn (Referat für Stadtplanung und Bauordnung, 22.01.14)
+- TOP 7.2.: Hertlstraße 26, 1 Fichte (Referat für Stadtplanung und Bauordnung, 28.01.14)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Vollzug der Wassergesetze, Bachräumungstermine 2014 für die Stadt- bzw. Stadtrandbäche (Baureferat, 15.01.14)
+- TOP 8.2.: Aufstellung von 170 City-Light-Säulen (beleuchtet) für wechselnde Produktwerbung Standort Stadtbezirk 20 Hadern: Würmtalstraße / Kriegerheimstraße (Referat für Stadtplanung und Bauordnung, 27.12.13)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Enzianstraße (Sozialreferat, 21.01.14)
+- TOP 8.4.: Schadstoffmessung an der BAB 96 zwischen Fürstenrieder Straße und Garmischer Straße - Antrag des BA 7 Sendling-Westpark vom 11.06.2013 (Referat für Gesundheit und Umwelt, 09.01.14)
+- TOP 8.5.: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014 (Sozialreferat, 28.01.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Schaffung von Radständern an der Grundschule in der Senftenauerstraße 21 (Referat für Bildung und Sport, 13.12.13)
+- TOP 9.2.: Errichtung der Kindertageseinrichtungen Waldwiesenstraße 27 und Marchioninistraße 1 (Referat für Bildung und Sport, 17.01.14)
+- TOP 9.3.: Einrichtung eines Spielplatzes im Umgriff zwischen Würmtal- und Waldwiesenstraße (Baureferat, 22.01.14)
+- TOP 9.4.: Anwohnerbeschwerde Buschrosenweg 20 (Kreisverwaltungsreferat, 24.01.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: U-Bahn-Durchsagen an der Haltestelle Klinikum Großhadern (MVG, 07.01.14)
+- TOP 10.2.: Buslinie 167 (MVG, 13.01.14)
+- TOP 10.3.: Wertstoffcontainerstandort Waldgartenstraße / Am Brombeerschlag (AWM, 24.01.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Stellungnahme des BA 8 Schwanthalerhöhe zur Neufassung der Sondernutzungsrichtlinien (zu TOP 6.1.)
+- TOP 11.2.: Neuerscheinung Broschüre zum Schutz vor Veranstaltungsstörungen durch die extreme Rechte (Direktorium, 27.01.14)
+- TOP 11.3.: Gründung des Fördervereins Bildungscampus am Westpark
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 18.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13430 (gemäß Ergänzungsantrag): Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern, insbesondere für Mitarbeiter des München-Stifts und des Städtischen Klinikums München
+- TOP 12.2.: Beschluss vom 18.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 12959 (nach Antrag): Beschleunigung beschleunigen (Keine Verschlechterung zu Lasten des Individualverkehrs, der bei der neuen Ampelschaltung profitieren soll)
+- TOP 12.3.: Beschluss vom 18.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 10707 (Vertagt): Handlungsprogramm Mittlerer Ring Sachstand und weitere Handlungsbedarf, insbesondere zum Antrag der Herren Stadträte Dr. Kronawitter, Seidl und Stadler auf wirksame Entlastung der Stadtbezirke Hadern und Sendling-Westpark vom Autobahnverbindungsverkehr vom 18.06.2010 (= Anl. 3). Die Behandlung dieses Antrags wurde vom Stadtrat am 16.02.11 zurückgestellt (Beschlussvorlage Nr. 08-14 / V 05912). Auf die Stellungnahme des Planungsreferats zum "Bereich BAB 96 - Luise-Kiesselbach-Platz" auf S. 14 wird Bezug genommen. Insbesondere wird eine Erhöhung der bisher festgestellten Tagesrate von 98.000 in 2010 auf 110.000 KFZ in 2025 angenommen (S. 14). Vom Planungsreferat wird daher für diesen Bereich ein "Vertiefender Untersuchungsbedarf" angenommen (Abschn. 4.2 = S. 17 und 18). Mit dem Antrag vom 18.06.10 Nr. 08-14 / A 01620 wird ein Konzept von verkehrsleitenden Maßnahmen gefordert, das die Stadtbezirke Hadern und Sendling-Westpark von Durchgangsverkehren der Lindauer und Garmischer Autobahn (A96 und A95) wirksam befreit. Das Planungsreferat will ein gesondertes Konzept für weitere Leistungsfähigkeitsanalysen und verkehrssteuernde Maßnahmen zur Verbesserung des Verkehrsflusses für den Bereich "Mittlerer Ring Südwest" erarbeiten und dem Stadtrat zur Entscheidung vorlegen. Dem Antrag vom 18.06.2010 wird mit diesem Referentenantrag nunmehr entsprochen.
+- TOP 12.4.: Auf die Änderungsanträge in den Anlagen 9 - 11 und das Schreiben der Stadt an den Regierungspräsidenten von Oberbayern vom 12.12.2013 (= Anlage 12) wird Bezug genommen.
+- TOP 12.5.: Beschluss vom 18.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13775 (gemäß Referentenantrag Nr. 1 und Ergänzungsantrag Nr. 2): München Modell-Miete Elisabeth-Kohn-Straße Insbesondere wird die Stadtverwaltung aufgefordert, ihre vertraglichen Auskunftsrechte aus dem Bauvertrag mit einem Bauträger über sämtliche Mietverhältnisse auszuüben und dem Stadtrat zu berichten, dem auch darzulegen ist, welche rechtlichen Handhaben der Stadt zur Verfügung stehen (Ergänzungsantrag Nr. 2). Die Punkte 3 - 6 neu (= 2 - 5 alt) des Referentenantrages werden in den Planungsausschuss vertagt.
+- TOP 12.6.: Beschluss vom 18.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13088 (nach Antrag): Bauträgerauswahl für Baugrundstücke im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm B, insbesondere das städtisches Grundstück an der Ludlstraße, Flst. 297/2 der Gemarkung Großhadern Das Grundstück wurde in das Förderprogramm aufgenommen (S. 5). Auf die Ausführungen des Planungsreferates hierzu wird Bezug genommen (Abschnitt 2.1, S. 6 und 7). Insbesondere wird die Fa. "GEWOFAG Wohnen GmbH" als Bauträger für das Wohnbauvorhaben mit ca. 30 Mietwohnungen (= 2.500 m² Geschossfläche) für das "Kommunale Wohnungsbauprogramm, Teilprogramm B" auf dem Planungsgebiet der Ludlstraße ausgewählt (S. 11).
+- TOP 12.1.: Beschluss vom 22.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13147: Energiekonzepte für neue Baugebiete, insbesondere das Baugebiet "Ludlstraße - Ost" (S. 31). Die Referenten übernehmen den Beschluss des Planungs- und Umweltausschusses vom 15.01.2014, insbesondere die Punkte 1 - 6 und 12 (S. 3 - 5).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sozialausschusses vom 05.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13224 (nach Antrag): Quartierbezogene Bewohnerarbeit Wirkungsanalyse Ergebnisse der Studie der Hochschule München Nachbarschaftstreffs auf dem Prüfstand, insbesondere zur Nachbarschaftshilfe "Na klar (Kleinhadern)" der Evangelischen Freikirche (S. 26 - 29) und zur "Nachbarschaftshilfe Blumenau" (S. 28 - 29)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13593 (Vertagt in den Planungsausschuss vom 15.01.2014): Stellplatzschlüssel im Wohnungsbau (Hadern ist nicht erwähnt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13475 (nach Antrag): Einkommensgrenzen für Senioren beim München-Modell Die Empfehlung der Bürgerversammlung Hadern vom 25.09.2013 wird nunmehr abgelehnt. Der BA Hadern hatte am 14.10.2013 beschlossen, diese Empfehlung zu unterstützen, und beantragt, diese Erhöhung nicht nur für Senioren, sondern für "alle Antragsteller für Wohnungen nach dem München-Modell" einzuführen (Anlage 3, BA-Schreiben vom 21.10.2013; Antrag der Seniorenvertretung des Stadtbezirkes 20 Hadern vom 02.09.2013).
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13230 (nach Antrag i.d.F. des Änderungsantrages vom 04.12.2013): Infrastrukturprogramm Sport in München Rückblick 2013 und Ausblick 2014, Neubau des Kunstrasenplatzes am Wolkerweg sofort beginnen (Antrag der Stadträte Schmid, Schmidbauer und Stadler vom 18.06.2013). Diesem Antrag wird insoweit entsprochen, als die Absicht bestehe, den Tennenplatz der BSA "in den nächsten Jahren" durch einen Kunstrasenplatz zu ersetzen. Im Übrigen wird auf die Stellungnahme des Sportamtes Bezug genommen (S. 7).
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13392 (nach Antrag): Parklizenzen für Besucher in München (abgelehnt)
+- TOP 12.6.: Hinweis / Ergänzung vom 09.12.2013 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13570 (nach Antrag i.d.F. des Ergänzungsantrages und mündlichen Änderungsantrages zu Punkt 2): Einhausung A 96 - Anträge und Empfehlungen -, insbesondere zum BA-Antrag vom 10.12.2012 auf Erstellung einer Machbarkeitsstudie "Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze" und zur Empfehlung der Bürgerversammlung Hadern vom 28.09.2010 wegen "Erstellung einer Machbarkeitsstudie einschließlich Wirtschaftlichkeitsberechnung für neu zu schaffende Flächen beim Bau einer Einhausung auf der A 96 vom Mittleren Ring bis zur Stadtgrenze". Der BA Hadern hat der Beschlussvorlage am 28.11.2013 zugestimmt, jedoch die "extrem verkürzte" Anhörungsfrist scharf kritisiert (S. 2 und Anlage 17). Das Planungsreferat soll beauftragt werden, mit Unterstützung eines "externen Projektsteuerers" das "Untersuchungsdesign" für eine Machbarkeitsstudie zur Einhausung der A 96 zu entwickeln. Das Konzept soll anschließend dem Stadtrat bis spätestens Mai 2014 vorgestellt sowie zur Entscheidung zum weiteren Vorgehen und zur Erteilung von Aufträgen vorgelegt werden (Punkt 2 des Beschlusses).
+- TOP 12.7.: Beschluss des Bauausschusses vom 10.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13354 (Vertagt): Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, insbesondere an der Kriegerheimstraße (ehemalige Trambahntrasse = 6.500 m²) und an der Würmtalstraße zwischen Kriegerheimstraße und Fürstenrieder Straße (2.500 m² = Anlage 1)
+- TOP 12.8.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13728 (nach Antrag): Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen (Direktorium, HA II, ist einverstanden)
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13605: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren Insbesondere sollen bekannte Bürgerinitiativen und betroffene Bürger bei Bauvorhaben frühzeitig beteiligt werden, auch über Internet. Hadern ist im Übrigen nicht erwähnt.
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13906: Flächenhaften Naturschutz in der Verwaltung stärken! (Hadern ist nicht erwähnt.)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Ausschusses für Arbeit und Wirtschaft, des Kreisverwaltungsausschusses und des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13716: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) (Hadern ist nicht erwähnt.)
+- TOP 12.3.: Beschluss des Ausschusses für Bildung und Sport und des Ausschusses für Stadtplanung und Bauordnung in der gemeinsamen Sitzung vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13853: Arbeitsgruppe Schulbauoffensive (SBO) 2013 / 2030 A. Sachstandsbericht - Berichtszeitraum 2013 B. Räumliche Bedarfsplanung für Münchner öffentliche Realschulen und Gymnasien - Fortschreibung, insbesondere zum "Bildungscampus am Westpark" (Anfrage vom 16.08.2013 = Anlage 1), zum BA-Beschluss vom 09.09.2013 = Anlage 2 und zum "ehemaligen Gehörlosenzentrum der Regierung von Oberbayern an der Fürstenrieder Straße" (S. 12 und 17 - 18). Der BA Hadern wird beteiligt (S. 24). Auf die beiden Anträge der CSU-Fraktion vom 10.08.2013 und der SPD-Fraktion im BA Hadern vom 09.09.2013 sowie die Bürgerinitiative "Bildungscampus München am Westpark" des Erasmus-Grasser-Gymnasiums, des Ludwigsgymnasiums und der Grundschule an der Gilmstraße (5 Seiten) wird Bezug genommen.
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13752: Urbanes Gärtnern in München Analyse und Grundsatzbeschluss, insbesondere zum Bienen- und Kulturgarten in Hadern (S. 20), zu den "Münchner Krautgärten" (Abschnitt 2.5, S. 25 - 28), zum "Urbanen Gärtnern auf Dachgärten" (Abschnitt 4.4, S. 43 - 44), zum Antrag der Stadträte Schmid, Seidl und Stadler vom 28.06.2011 "München braucht mehr Kleingartenanlagen" (= Anlage 5) und zum Antrag der Stadträte Schmid, Podiuk, Brannekämper, Seidl und Stadler vom 11.10.2012 "Kleingartenanlage im Grünzug Grünes Band Ost prüfen" (S. 54 - 55).
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13875: Landwirtschaft auf Dächern in der Stadt (Das Planungsreferat sieht "keinen vorrangigen Bedarf".)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 15.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13668: Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts vom 11.06.2013 ("BauGB-Novelle 2013", Bundesgesetzblatt I, S. 1548 = Anlage), (Vorstellung und Bewertung der Neuregelung)
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 04.12.2013 zur Sitzungsvorlage-Nr. 08-14 / V 13572 (nach Antrag): Wohnungsmarkt München - Expertenbefragung 2013 (Keine Angaben in Bezug auf den Stadtbezirk Hadern.)
+- TOP 12.3.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13813: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2013 / 2014
+- TOP 12.4.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13754: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2013 / 2014 Stand: 20.10.2013
+- TOP 12.5.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13763: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013 / 2014, insbesondere zu den Grundschulen (GS) Am Hedernfeld (Anlage 1, S. 1), an der Blumenauer Straße (Anlage 1, S. 2), am Canisiusplatz (Anlage 1, S. 3), an der Großhaderner Straße und an der Guardinistraße (Anlage 1, S. 6) und an der Senftenauerstraße (Anlage 1, S. 13) sowie zu den Mittelschulen (MS) an der Blumenauer Straße (Anlage 2, S. 1) und an der Guardinistraße (Anlage 2, S. 5) sowie zu den "Schüler- und Klassenzahlen der gebundenen Ganztagsschulen 2013 / 2014", insbesondere mit "IPS-Klassen" in Hadern der "GS Hedernfeld (IPS)" (= Anlage 4) mit 62 Schülern in den Klassen 1 - 3 (Klassenstärke 20 bzw. 21 Schüler), der "MS Blumenauer Straße" mit 29Schülern in den Klassen 5 und 6 (Klassenstärke 14 bzw. 15 Schüler) und der "MS Guardinistraße" mit 92 Schülern in den Klassen 5 - 9 (Klassenstärke 16 - 21 Schüler) (= Anlage 4, Rückseite) sowie zu den "Gruppen- und Schülerzahlen an den städt. Tagesheimen und Heilpädagogischen Tagesstätten", insbesondere zur GS Am Hedernfeld mit 164 Schülern in 8 Gruppen und zur GS an der Großhaderner Straße mit 185 Schülern in 8 Gruppen (= Anlage 5)
+- TOP 12.6.: Bekanntgabe im Ausschuss für Bildung und Sport vom 29.01.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13781: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2013 / 2014, insbesondere zum Erasmus-Grasser-Gymnasium (Anlage 1, S. 7) und zum Ludwigsgymnasium (Anlage 1, S. 9)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
