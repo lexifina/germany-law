@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss (26. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-02-11T17:00:00+01:00
+- Ende: 2014-02-11T19:25:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf5xuKDTrLvpxoW9DZesets
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16538
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRF9un20EZWc5LhqoxQdr0-svIRu_tUzdxl16U0SW50K/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_11.02.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Arbeitserleichterung durch moderne Software
+- TOP 3.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 25. Sitzung vom 10. Dezember 2013
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung des Arbeitskreises Personal
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 5.1: hier: Fahrradfreundliche Stadt Kerpen - Verbesserung der Situation am Bahnhof im Stadtteil Buir
+- TOP 5.2: hier: Informationen zur Änderung eines Bebauungsplanes im Stadtteil Buir – ehemaliges Schulgrundstück
+- TOP 5.3: hier: Vandalismus im Stadtteil Sindorf, Kampstraße/Mühlenfeldschule Prüfung Installation einer Zaunanlage
+- TOP 5.4: hier: Baumscheiben im Bereich der Parkflächen auf der Kerpener Straße im Stadtteil Sindorf
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 16. Änderung der Hauptsatzung der Kolpingstadt Kerpen
+- TOP 6.2: 11. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Kolpingstadt Kerpen
+- TOP 6.3: Neufassung der Wahlordnung für die Wahl des Integrationsrates der Kolpingstadt Kerpen
+- TOP 6.4: Änderung der Haus- und Badeordnung sowie der Entgeltordnung für die Bäder der Kolpingstadt Kerpen
+- TOP 7.: Personal-/Stellenplanangelegenheiten
+- TOP 7.1: Wiederbesetzung der Stelle der Leitung der örtlichen Rechnungsprüfung
+- TOP 7.2: Umsetzung der Verordnung über die Arbeitszeit der Beamtinnen und Beamten im feuerwehrtechnischen Dienst im Land Nordrhein-Westfalen (AZVO-Feu)
+- TOP 7.3: Einrichtung von Anwärterstellen für Brandmeisterinnen und Brandmeister; Ausbildung von feuerwehrtechnischen Beamtinnen und Beamten zum Rettungsassistenten - Umsetzung des Notfallsanitätergesetzes
+- TOP 8.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im IV. Quartal 2013
+- TOP 9.: Bereitstellung von überplanmäßigen Haushaltsmitteln hier: Beauftragung eines Beratungsbüros für die Ausschreibung der Energielieferungen für die Kolpingstadt Kerpen (Gas und Strom)
+- TOP 10.: Umsiedlung Manheim hier: Niederschriften der 8., 9. und 10. Sitzung des Bürgerbeirates Manheim
+- TOP 11.: Vorhabenbezogener Bebauungsplan HO Nr. 351 "VEP Waldweg". hier: Abschluss eines Verpflichtungsvertrages
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Einrichtung von Hundetoiletten und Vorhaltung von Entsorgungsbeuteln im Stadtteil Sindorf
+- TOP 13.2: Nutzung des alten Bahnhofes im Stadtteil Sindorf
+- TOP 13.3: Weitere Budgetierung von Schulmitteln
+- TOP 13.4: Sachstand Bundesfreiwilligendienst
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Verkauf einer Parzelle in der Gemarkung Blatzheim, Dürener Straße
+- TOP 15.: Vermietung von Stellplätzen im Arrondierungsbereich des Rathauses und der Tanzenden Stadthäuser
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.0: Mitbestimmung des Stadtrates bei der Besetzung von Amtsleiterstellen
+- TOP 16.1: Höhergruppierung eines Verwaltungsangestellten
+- TOP 17.: Verkauf der Alten Volksschule Götzenkirchen
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
