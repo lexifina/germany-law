@@ -1,0 +1,99 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149245
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149245
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Beantwortung der Fragen aus der Sitzung vom 14.01.2014
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Gartenbauunternehmens aus München vom 11.01.2014 Thema: Urban-Farming (s. TOP B 3.3.1)
+- TOP .2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 24.01.2014 Für die Maxvorstadt soll ein Seniorenstadtteilplan erstellt werden (s. TOP D 2.1)
+- TOP .1.: Antrag von Fraktion Bündnis 90/Die Grünen im BA 3 vom 25.01.2014 Maßnahmen in der Maxvorstadt um die Folgen des Klimawandels zu dämpfen
+- TOP .2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 24.01.2014 Trinkwasserbrunnen in der Maxvorstadt aufstellen
+- TOP .3.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 25.01.2014 Anpassung von Baumscheiben
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 52. KW 2013, 1., 2., 4. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 51., 52. KW 2013, 1. KW 2014
+- TOP .3.: Erzgießereistraße 7 - 9, Schließen einer Baulücke und DG-Ausbau
+- TOP 4: (E) Überprüfung der Hinter- und Innenhofgaragen bzw. -stellplätze auf Benutzbarkeit und Einhaltung des Stellplatzschlüssel (Ziffer 2 des Antrags) Empfehlung Nr. 08-14 / E 02016 der Bürgerversammlung des Stadtbezirks 03 - Maxvorstadt am 17.10.2013
+- TOP 4.5.: Referat für Stadtplanung und Bauordnung, Anhörung Bebauungsplan mit Grünordnung Pappenheimstraße (westlich), zwischen Marsplatz und Blutenburgstraße (Teiländerung des Bebauungsplanes Nr. 1466) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014
+- TOP 4.6.: Linprunstraße 5, Neubau zweier Wohngebäude ? Vorbescheid (Linprunstr. 5/Sandstraße)
+- TOP 4.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 4.3.1: Vollzug der Baumschutzverordnung
+- TOP 4.3.2: Baumfällungen
+- TOP 4.1.: Gabelsbergerstraße 45, eine Robinie
+- TOP 4.2.: Gabelsbergerstraße 47, eine Esche
+- TOP 4.3.: Schellingstraße 33, eine Akazie
+- TOP 4.4.: Schönfeldstraße 13, drei Spitzahorn
+- TOP 4.5.: Barer Straße 29, eine Robinie
+- TOP 4.3.3: Grün- und Freiflächenplanung
+- TOP 4.1.: Schreiben eines Gartenbauunternehmens aus München vom 11.01.2014 Thema: Urban-Farming (s. TOP A 5.2.1)
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 24.01.2014 Flächendeckend freies WLAN in der Maxvorstadt
+- TOP 4.2.1: Verkehr
+- TOP 4.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 4.2.: Münchner Verkehrsgesellschaft mbH (MVG) Optimierung der Stadtbuslinie 153 ? Änderung des Linienweges und Inbetriebnahme einer neuen Haltestelle ab 03.03.2014 im Stadtgebiet des Bezirksausschusses 3
+- TOP 3: (E) Fahrradstraße als Ost-West-Querverbindung von der Ludwigstraße zum Josephsplatz (Ziffer 2 des Antrags) Empfehlung Nr. 08-14 / E 02012 der Bürgerver- sammlung des Stadtbezirks 3 Maxvorstadt am 17.10.2013
+- TOP 4: (E) Verbesserung der Verkehrs- und Schulwegsituation in der Maxvorstadt, insbesondere im Bereich der Schule an der Schwindstraße Empfehlung Nr. 08-14 / E 02021 der Bürgerver- sammlung des 3. Stadtbezirkes Maxvorstadt am 17.10.2013
+- TOP 5: (E) Regelmäßige Geschwindigkeitskontrollen in der Gabelsberger- und Theresienstraße Empfehlung Nr. 08-14 / E 02011 der Bürgerver- sammlung des 3. Stadtbezirkes-Maxvorstadt am 17.10.2013
+- TOP 5.2.2: Öffentlicher Raum
+- TOP 5.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse, Beschlussvorlagen Schellingstraße 16, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2: (E) Die durch das Baureferat auf der Baustelle Josephsplatz durchgeführten Lärmmessungen sollen umgehend kontrollfähig veröffentlicht werden. Empfehlung Nr. 08-14 / E 01998 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013 Die durch die Bauarbeiten auf dem Josephsplatz entfallenen sieben Sitzbänke sollen im verbliebenen öffentlichen Raum aufgestellt werden. Empfehlung Nr. 08-14 / E 02000 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013 Josephsplatz: Maßnahmen zum Schutz der Linden auf der Nordseite während der Bauzeit und Wiederbepflanzung mit Großbäumen Empfehlung Nr. 08-14 / E 02001 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 17.10.2013
+- TOP 2.2.3: Gaststätten
+- TOP 2.2.4: Veranstaltungen
+- TOP 2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 24.01.2014 Für die Maxvorstadt soll ein Seniorenstadtteilplan erstellt werden (s. TOP A 5.2.2)
+- TOP 2.1.: Antrag der SPD-Fraktion im BA 3 vom 18.01.2014 Errichten einer Gedenktafel für die Kunsthändlerfamilie Heinemann am Anwesen Lenbachplatz 5 - 6
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Init. "Mit dem Kopf schlage ich Nägel in den Boden" Theater "Mit dem Kopf schlage ich Nägel in den Boden" ab 19.03.2014
+- TOP 2.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG) und der Baumschutzverordnung (BaumschutzV), Fällungsantrag vom 20.11.2013 auf dem Grundstück a)Loristraße 21 b) Zieblandstraße 18a - 20 Genehmigungsbescheide
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren fortentwicklung des Städtebaurechts (?BauGB-Novelle 2013?) Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 15.01.2014 Sitzungsvorlage Nr. 08-14 / V 13668
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages ?Entwicklung von Energiekonzepten für Baugebiete? Antrag Nr. 08-14 / A 03196 der Staddtratsfraktion Die Grünen/RL vom 22.03.2012 Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 3.4.: Abfallwirtschaftsbetrieb München, Antwort BA-Antrag Nr. 08-14 / B 05344 Wertstoffmobil für die Maxvorstadt für Metalle, Elektrogeräte und Kunststoffe Antwortschreiben vom 08.01.2014
+- TOP 3.5.: entfällt
+- TOP 3.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages ?Entwicklung von Energiekonzepten für Baugebiete? Antrag Nr. 08-14 / A 03196 der Stadtratsfraktion Die Grünen/RL vom 22.3.2012 Beschluss der Vollversammlung des Stadtrates vom 22.01.2014 Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 3.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 08-14 / A 04569 der Stadtratsfraktion Die Grünen/RL vom 13.08.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 Sitzungsvorlage Nr. 080-14 / V 13906
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Umstrukturierung des Areals der Tierärztlichen Fakultät der LMU zwischen Veterinär- straße, Königinstraße und Englischem Garten Entwicklungscampus Königinstraße mit Neubau Nano-Institut LMU München a) Ergebnis des Realisierungswettbewerbs mit städtebaulichem und landschaftsplane- rischem Ideenteil b) weiteres Vorgehen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 Sitzungsvorlage Nr. 08-14 / V 13835
+- TOP 3.9.: Referat für Stadtplanung und Bauordnung Schreiben vom 15.01.2013 an das Referat für Gesundheit und Umwelt BA-Antrag Nr. 08-14 / B 05170 In der Tiefgarage im Neubau des Gesundheitsamtes in der Dachauer Straße sollen An- wohnerstellpätze ausgewiesen werden.
+- TOP 3.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlagen Urbanes Gärtnern in München ? Analyse und Grundsatzbeschluss Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014 Sitzungsvorlage Nr. 08-14 / V 13752
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Schreiben vom 27.12.2013 Aufstellung von 170 City-Light-Säulen (beleuchtet) für wechselnde Produktwerbung Standortliste gemäß Werbenutzungsvertrag vom 28.11.2013 Baugenehmigung gem. Art. 59 und Art 68 Bayerische Bauordnung (BayBO) im vereinfach- ten Genehmigungsverfahren (Werbeanlage) mit aufschiebender Bedingung
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Schreiben vom 13.01.2014 Schaffung eines Zebrastreifens zum Überqueren der Görresstraße an der Kreuzung Augussten-/Görresstraße (TOP C 2.1.2/1213)
+- TOP 3.3.: Referat für Arbeit und Wirtschaft, Beschlussvorlage Beschleunigung beschleunigen Antrag Nr. 08-14 / A 02663 der Stadtratsfraktion Die Grünen/RL und der SPD vom 27.07.2011 Sitzungsvorlage Nr. 08-14 / V 12959
+- TOP 3.4.: Baureferat, Beschlussvorlage Altstadtdring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring im 3. Stadtbezirk Maxvorstadt und im 1. Stadtbezirk Altstadt-Lehel Beschluss des Bauausschusses vom 10.12.2013 Sitzungsvorlage Nr. 08-14 / V 13410
+- TOP 3.5.: Baumaßnahmen der Stadtwerke a) Heßstraße 71, Fernwärme b) Ottostraße 21, Fernwärme
+- TOP 3.6.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Einrichtung einer Bücherbushaltestelle in der Blutenburgstraße
+- TOP 3.7.: Baurefert, Kunst im öffentlichen Raum Projekt ?Camouflag? ab dem 28.07.2014 für 40 Tage Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 3.8.: Baureferat, Beschlussvorlage Mehr Aufenthaltsqualität ? weniger Autos Die Anwohnergarage Joephsplatz als Chance Empfehlungen Nrn. 08-14 / E 1989, 1994, 1997 und 1999 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt vom 17.10.2013 Beschluss des Bauausschusses vom 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13797
+- TOP 3.9.: Schreiben des Vorsitzenden an das Kreisverwaltungsreferat vom 27.01.2014 Kabelbrücke über die Luisenstraße vor dem Anwesen Luisenstraße 29
+- TOP 3.10.: Schreiben eines Bürgers vom 12.01.2014 an das Polizeipräsidium München mit Abdruck an den BA 3 wegen nächtlichen Verkehrslärms in der Schleißheimer Straße und Antwort- schreiben der Polizeiinspektion 12
+- TOP 3.11.: Baureferat, Antwortschreiben zu Fragen aus der Sitzung vom 14.01.2014 Anzahl der öffentlichen Mülleimer in der Maxvorstadt verdoppeln Empfehlung Nr. 08-14 / E 02003 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt vom 17.10.2013
+- TOP 3.1.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schujahr 2013/2014 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 29.01.2014 Sitzungsvorlage Nr. 08-14 / V 13781
+- TOP 3.2.: Referat für Bildung und Sport Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013/2014 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 29.01.2014 Sitzungsvorlage Nr. 008-14 / V 13763
+- TOP 3.3.: Referat für Bildung und Sport, Beschlussvorlage Schülere/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2013/20114, Stand 20.10.2013 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 29.01.2014 Sitzungsvorlage Nr. 08-14 / V 13754
+- TOP 3.4.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2013/2014 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtdrates vom 29.01.2014 Sitzungsvorlage Nr. 08-14 / V 13813
+- TOP 3.5.: Sozialreferat, Beschlussvorlage Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) Antrag Nr. 08-14 / A 04260 der Stadtratsfraktion Die Grünen/RL und SPD vom 16.05.2013 Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? Antrag Nr. 008-14 / A 03767 der Stadtratsfraktion Die Grünen/RL vom 30.10.2012 Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Aus- schusses für Bildung und Sport, des Ausschusses für Arbeit und Wirtschaft, des Kreisver- waltungsausschusses und des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.2014 Sitzungsvorlage Nr. 08-14 / V 13716
+- TOP 3.6.: Kreisverwaltungsreferat Verkürzung der Öffnungszeiten für Spielhallen, BA-Antrag Nr. 08-14 / B 05346 vom 12.11.2013; Fristverlängerung
+- TOP 3.4.: Kultur
+- TOP 3.1.: Direktorium, Unterrichtung Checkliste zur Durchführung von Bürgerbeteiligungsverfahren Beschluss der Vollversammlung des Stadtrates vom 28.11.2012 Sitzungsvorlage Nr. 08-14 / V 08102 Frühzeitige Bürgerbeteiligung bei Bauvorhaben auch für die bekannten Bürgerinitiativen und die betroffenen Bürgerinnen und Bürger Antrag des BA 13 Bogenhausen vom 14.05.2013 Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 Sitzungsvorlage Nr. 08-14 / V 13605
+- TOP 3.2.: Direktorium, Unterrichtung Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Ver- fügung stellen Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 Sitzungsvorlage Nr. 08-14 / V 13728
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen und Anhörungen
+- TOP 2.3.: Aktuelle Sachstandsberichte
