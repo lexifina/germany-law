@@ -1,0 +1,81 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-02-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129542
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129542
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Parksituation in der Georg-Reismüller-Straße
+- TOP 2.2.2.: Baumfällung am Löherweg
+- TOP 2.2.3.: Weitere Gestaltung des ehem. Allacher Sommerbades
+- TOP 2.2.4.: Bebauungsplan bzw. Planungsabsichten der LHM für das Karree zwischen Auenbruggerstraße und Theodor-Fischer-Straße, sowie zwischen Behringstraße und Stieglstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 04.03.2014
+- TOP 2: (E) Behebung der Gefahrensituation Allacher Straße / Ecke Zwiedineckstraße
+- TOP 5: Anhörungen
+- TOP 5.1.: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 5.2.: Erinnerungsverfahren Naßlstraße, zwischen Stieglstraße und Gleichplatz
+- TOP 5.3.: Faschingsumzug Pfarrei Maria Himmelfahrt am 04.03.14
+- TOP 5.4.: Am Neubruch 15, Gemarkung: Moosach, Fl.Nr.: 1860/0 Neubau einer mechanisierten Zustellbasis der Deutschen Post
+- TOP 5.5.: Schöllstr. 2, Gemarkung: Allach, Fl.Nr.: 952/6 Neubau Hotel / Wohnheim als Anbau an ein bestehendes Hotel - inkl. Aufstockung des bestehenden Hotels Vollzug der Baumschutzverordnung im Zusammenhang mit einem Bauvorhaben: Schöllstr. 2
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Bildung und Sport vom 04.12.13: Infrastrukturprogramm Sport in München; Rückblick 2013 und Ausblick 2014; Neubau eines Kunstrasenplatzes sofort beginnen (Sitzungsvorlage Nr. 13230)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 18.12.13: a) Beschleunigung beschleunigen (Sitzungsvorlage Nr. 12959) b) Verlegung des Hans-Sieber-Hauses von der Manzostraße an die Franz-Nißl-Straße oder einen vergleichbaren Standort im Stadtbezirk 23 und Betriebsführung des Hauses an der Tauernstraße (Sitzungsvorlage Nr. 13300) c) Bauträgerauswahl für Baugrundstücke Produkt 60 4.1 8 (Sitzungsvorlage Nr. 13088) d) Wohnraumversorgung: Bezahlbaren Wohnraum für städtische Mitarbeiterinnen und Mitarbeiter schaffen sowie dauerhaft sichern (Sitzungsvorlage Nr. 13430)
+- TOP 6.3.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.14: a) Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen (Sitzungsvorlage Nr. 13728) b) Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben (Sitzungsvorlage Nr. 13587)
+- TOP 6.4.: Hinweis/Ergänzung zum Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 15.01.14: Energiekonzepte für neue Baugebiete (Sitzungsvorlage Nr. 13147)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 22.01.14: Energiekonzepte für neue Baugebiete (Sitzungsvorlage Nr. 13147)
+- TOP 6.6.: Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Ausschusses für Arbeit und Wirtschaft, des Kreisverwaltungsausschusses und des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.14: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) (Sitzungsvorlage Nr. 13716)
+- TOP 6.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.14: a) Flächenhaften Naturschutz in der Verwaltung stärken! (Sitzungsvorlage Nr. 13906) b) Landwirtschaft auf Dächern in der Stadt (Sitzungsvorlage Nr. 13875) c) Urbanes Gärtnern in München; Analyse und Grundsatzbeschluss (Sitzungsvorlage Nr. 13752)
+- TOP 6.8.: Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 29.01.14: a) Schüler- und Klassenzahlen an den städtischen Realschulen, an den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2013/2014 (Sitzungsvorlage Nr. 13813) b) Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2013/2014; Stand: 20.10.2013 (Sitzungsvorlage Nr. 13754) c) Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013/2014 (Sitzungsvorlage Nr. 13763) d) Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2013/2014 (Sitzungsvorlage Nr. 13781)
+- TOP 6.9.: Beschluss des Bauausschusses vom 04.02.14: Darstellung und Überarbeitung der Mähkonzepte auf städt. Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen (Sitzungsvorlage Nr. 13354)
+- TOP 6.10.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 04.02.14: Grundsatzbeschluss zum Fahrradvermietsystem "MVG Rad" (Sitzungsvorlage Nr. 13949)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Förderung von Gemeinschaftsgärten Eine SINNvestition in Nachhaltigkeit
+- TOP 7.2.: Kindersommer 2013
+- TOP 7.3.: Neuerscheinung Broschüre zum Schutz vor Veranstaltungsstörungen durch die extreme Rechte
+- TOP 7.4.: Bürgersaal / Kulturzentrum
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 21.01.14: Kurzzeitparkplätze Schreibwarengeschäft Angerlohstr. 14
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 22.01.14: Antrag auf Tempo 30 für die Menzinger Straße im Wohnsammelbereich
+- TOP 8.3.: Schreiben Stadtwerke München GmbH vom 13.01.14, 20.01.14, 27.01.14: Baumaßnahmen
+- TOP 8.4.: Schreiben Sozialreferat vom 08.01.14: Antrag auf Zweckentfremdung von Wohnraum, St.-Johann-Str.
+- TOP 8.5.: Schreiben Sozialreferat vom 28.01.14: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (23.12.13-05.01.14, 06.01.-12.01.14, 13.01.-19.01.14, 20.01.-26.01.14)
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Dachauer Str. 667, Ippenbergerstr. 13, Ernst-Haeckel-Str. 27, Zwiedineckstr. 18, Mangstr. 12, Vesaliusstr. 16, Nigglstr. 3
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Willi-Wien-Str. 10, Ganzenmüllerstr. 50, Ludwig-Radlkofer-Str. 10
+- TOP 8.9.: Schreiben Referat für Gesundheit und Umwelt vom 15.01.14: Anfrage LKW-Nachtfahrten Paul-Ehrlich-Weg
+- TOP 8.10.: Schreiben Baureferat vom 15.01.14, 21.01.14: Vollzug der Wassergesetze
+- TOP 8.11.: Schreiben Kinderbeauftragte der LHM vom 17.01.14: Ausschreibung nächster Einsatz "Kinder-Aktions-Koffer" zur Beteiligung von Kindern an der Stadtteil-Entwicklung
+- TOP 8.12.: Schreiben Bahnhofsmanagement München: Beschilderung am S-Bahn-Haltepunkt Untermenzing
+- TOP 8.13.: Schreiben BA 8 Schwanthalerhöhe vom 20.01.14: Neufassung der Sondernutzungsrichtlinien
+- TOP 8.14.: Schreiben Fachinformationsstelle gegen Rechtsextremismus vom 09.01.14: Broschüre zur "Goldenen Morgenröte"
+- TOP 8.15.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 28.01.14: Veranstaltungseinladung 20.02.14
+- TOP 9: Nachtrag
+- TOP 9.1.: Antrag: Parkverbotszone in der Preißnitzstraße
+- TOP 9.2.: Umlauf: Schreiben Sozialreferat vom 03.02.14: Antrag auf Zweckentfremdung von Wohnraum, Ganzenmüllerstr.
+- TOP 9.3.: Schreiben Sozialreferat, Stabstelle Gemeinwesenmediation vom 30.01.14: Konzept Nutzungskonflikte Raum/SteG
+- TOP 9.4.: Schreiben Direktorium vom 03.02.14: Entwicklung im Norden Allachs
+- TOP 9.5.: Schreiben MVG vom 04.02.14: Haltestelle "Rueßstraße" Richtung Allach Bf. Ost des Bus 163
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der Baumschutzverordnung in Zusammenhang mit einem Bauvorhaben: Rueßstr. 3, Sertürnerstr. 3
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsantrag, Rudhartstr. 41, Behringstr. 57
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (27.01.-02.02.14)
+- TOP 9.9.: Schreiben Stadtwerke München GmbH vom 03.02.14: Baumaßnahmen
+- TOP 9.10.: Schreiben Kommunalreferat vom 30.01.14: Baumfällung in Allach, Flst. 219/20 - August-Föppl-Str.
+- TOP 9.11.: Schreiben Kulturreferat vom 06.02.14: Veranstaltungen / Kooperationen Februar 2014
+- TOP 9.12.: Schreiben München Forum e.V. vom 30.01.14: Standpunkte Februar 2014
+- TOP 9.13.: Schreiben Ghanesische Behinderte und Waisenkinder in Not e.V. vom 03.02.14: Stellungnahme zu den geplanten Änderungen der Richtlinien für Sondernutzungen an den öffentlichen Straßen
