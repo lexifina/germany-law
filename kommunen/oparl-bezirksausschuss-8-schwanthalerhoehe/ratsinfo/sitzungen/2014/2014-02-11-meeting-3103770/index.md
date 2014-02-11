@@ -1,0 +1,54 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3103770
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3103770
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Soziale Isolation (pflegebedürftiger) älterer Mitbürgerinnen und Mitbürger im Westend
+- TOP 3.2.: Sachstand Ganztagsschule Bergmannstraße
+- TOP 3.3.: Vorstellung und Budgetantrag Väterinitiative e.V.
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Förderung von Gemeinschaftsnutzgärten
+- TOP 4.2.: Tauben an der Donnersbergerbrücke, dazu auch: Beschlussvorlage "Stadttauben"
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Vorbescheid Ligsalzstr. 32
+- TOP 5.3.: Anhörung: Schwanthalerstr. 116, Vordergebäude (vertagt)
+- TOP 5.4.: Anhörung: Schwanthalerstr. 116, Rückgebäude
+- TOP 5.5.: Baugenehmigung City-Light-Säulen
+- TOP 5.6.: Anhörung: Gollierstr. 32
+- TOP 5.7.: Verunreinigungen der Passagen und der öffentlich zugänglichen Tiefgarage um das Gelände des ehemaligen XXXLutz
+- TOP 5.8.: Anhörung: Landsberger Str. 110
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Ausschreibung Kinder-Aktions-Koffer
+- TOP 6.2.: Beschlussvorlage "Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa)"
+- TOP 6.3.: Information zu den REGSAM-Schwerpunktgebieten ab 2014
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Beleuchtung für den Fußweg zwischen Landsberger Straße und Westendstraße - Zwischennachricht
+- TOP 8.2.: Anhörung: Lichtzeichenanlagen-Bauprogramm 2014
+- TOP 8.3.: Kreuzung Grasserstraße/ Landsberger Straße, hier: Warnhinweis zum Schutz von querenden Fußgängern
+- TOP 8.4.: Anhörung: Baumfällung Ligsalzstr. 23
+- TOP 8.5.: Anhörung: "Sidewalk Artists Fest 2014" auf dem Georg-Freundorfer-Platz vom 21.06.-22.06.2014
+- TOP 8.6.: Anhörung: Flohmarkt der Hausgemeinschaft Sandtner Hof auf dem Georg-Freundorfer-Platz
+- TOP 8.7.: Fußgänger- und Radwegbrücke zwischen Arnulfpark und Landsberger Straße
+- TOP 8.8.: Genehmigungsbescheid Baumfällung Ligsalzstr. 29
+- TOP 9: (E) Keine Parklizenz für Tiefgaragenbesitzer Empfehlung Nr. 08-14 / E 01816 der Bürgerver- sammlung des 8. Stadtbezirkes - Schwanthalerhöhe am 13.06.2013 - <div>nach Antrag</div>
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Schwanthaler Flöhe e.V. Nachrüsten von Stauraum - <div>nach Antrag</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Initiative open westend open westend 2014 von 04. bis 06. April 2014 - <div>nach Antrag</div>
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Änderung des Sitzungslokals im März
+- TOP 12: Protokoll und Umlauf
