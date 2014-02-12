@@ -1,0 +1,104 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-02-12T17:10:00+01:00
+- Ende: 2014-02-12T21:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3300
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3300
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=75290
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 27. Sitzung der BVV am 12.02.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 27. Sitzung der BVV am 12.02.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 27. Sitzung der BVV am 12.02.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Stellplatzobergrenzenverordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Sauberkeit im öffentlichen Straßenland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Humboldt-Bibliothek - Verbindungstreppe zwischen Parkplatz und Zugangsweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Aufzeichnungstechnik für Sitzungen bereit stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Unfallschwerpunkt BAB-Abfahrt Waidmannsluster Damm (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Bevölkerung auf KATWARN aufmerksam machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Burgfrauenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Schutz des Mittelstreifens in der Wiltinger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Fährbetrieb auf Tegeler See erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Konzept für Residenzstraße entwickeln (Zwischenbericht) - überwiesen
+- TOP 7.11: Anwohnerschutz an der Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Kein Schwerlastverkehr im Dannenwalder Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Notarztstandorte - überwiesen
+- TOP 7.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.18: Datenschutz auf Krankenhausaufenthaltsbescheinigung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Schulsozialarbeit sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Fahrtreppe am U-Bahnhof Alt-Tegel wieder in Betrieb nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Bericht des Patientenfürsprechers aus dem Dominikus-Krankenhaus Berlin für den Zeitraum 01.01.2013 bis 31.12.2013 - überwiesen
+- TOP 7.22: Jahresbericht der Patientenfürsprecherin aus dem Vitanas Krankenhaus für Geriatrie für den Zeitraum 01.01.2013 bis 31.12.2013 - überwiesen
+- TOP 7.23: Auswertung der eingegangenen Anregungen bzw. Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit nach § 3 Abs. 1 Baugesetzbuch (BauGB) sowie aus der frühzeitigen Beteiligung der Behörden und Träger öffentlicher Belange nach § 4 Abs. 1BauGB am Bebauungsplanentwurf 12-31, Bernauer Straße 151 im Bezirk Reinickendorf, Orsteil Tegel - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Siedlung "Am Steinberg" - beantwortet
+- TOP 8.1.1: Siedlung "Am Steinberg" - überwiesen
+- TOP 8.2: Aktueller Stand Gemeinschaftsschule - beantwortet
+- TOP 8.2.1: Externe Evaluation für die Gemeinschaftsschule durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2012 - überwiesen
+- TOP 9.2: Beschluss des Bebauungsplanentwurfs 12-42B vom 10. Oktober 2012 mit Deckblatt vom 28. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-42B für die Grundstücke Ludolfingerplatz 1 / 9, 2 / 8A, Welfenallee 1 / 7, 6 / 8, Karmeliterweg 3 4a, 6B (teilweise), Sigismundkorso 1, 2, 87, Ludolfingerweg 2 / 4, 5 / 5A, Maximiliankorso 1 - 3, 74 / 74A, 76 sowie Gralsburgsteig 4 / 6 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 9.3: Beschluss des Bebauungsplanentwurfs 12-32B vom 1. März 2011 mit Deckblatt vom 26. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanentwurfs 12 32B für das Gelände zwischen Bernstorffstraße, Buddestraße, Grußdorfstraße und Berliner Straße sowie für die Grundstücke Grußdorfstraße 12 - 19, Am Buddeplatz 1, Brunowstraße 8, 9, 11, 12, 14 und 51 - 55, Schlieperstraße 8 – 10, 12, 13 und 73 - 74 u.v.m. im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Fahrradabstellplätze Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Instrument der frühzeitigen Öffentlichkeitsbeteiligung anwenden! - in der BVV abgelehnt
+- TOP 10.3: Fahrradabstellmöglichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bezirksaktivitäten zum Jubiläum MV - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Wartehäuschen an der Einstiegshaltesstelle Alt-Lübars! - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Radwege B 96 - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sportunterricht - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Neue Fassadentechnologie als Energieeinsparungsmodell für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Vorlage betreffend des Beschlusses des Bebauungsplanentwurfes 12-39B vom 10. Oktober 2012 und des Beschlusses über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-39B für die Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/ Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66, 68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Radweg Schulzendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sicherer Schulweg für die Ellef-Ringnes-Grundschule auch in 2014 - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Schulwegsicherung der Ellef-Ringnes-Grundschule - erledigt
+- TOP 10.13: Ausstellung "Kinder im Versteck. Verfolgt. Untergetaucht. Gerettet? Berlin 1943 - 1945" auch in Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Schulwegsicherung Schulzendorfer Straße Ecke Fichtestraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Grünphase für Fußgänger verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Rauchverbot auf S-Bahnhöfen stärker kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: BVG-Anzeigetafeln am Tegel-Center instandsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Inklusive Modellschule Standort Lauterbach - Sonderpädagogische Kompetenz in der Schulleitung sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Ruppiner Chaussee für Radfahrer und Fußgänger freigeben - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Schulwegsicherung Jean-Jaurès-Straße mit Tempo 30 - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Kalender für integrative Feste in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: § 19 - Ausschusssitzungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Bereitstellung von Planbetten im Vivantes Humboldt-Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Einrichtung eines Halteverbotes Alemannenstraße / Maximiliankorso - überwiesen
+- TOP 12.2: Tempo 30 / Am Dachsbau - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Grundschulneubau zukunftsweisend planen - überwiesen
+- TOP 12.4: Ausweich-Sporthallen - überwiesen
+- TOP 12.5: Pilotprojekt verschlüsselte E-Mail-Kommunikation mit der Verwaltung - überwiesen
+- TOP 12.6: Handläufe an den Eingängen der Friedhofskapelle auf dem Hermsdorfer Friedhof - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Angebot an Willkommensklassen in Reinickendorf erhöhen - überwiesen
+- TOP 12.8: Soziale Erhaltungssatzungen - überwiesen
+- TOP 12.9: Schulen besser informieren - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Sichere Straßenquerung Calauer Straße / Senftenberger Ring - überwiesen
+- TOP 13.2: Sitzgelegenheiten vor der Humboldt-Bibliothek - überwiesen
+- TOP 13.3: Reflektorenpflicht in der dunklen Jahreszeit - überwiesen
+- TOP 13.4: Ständig besetzte U-Bahnhöfe mit Servicekräften auch in Reinickendorf! - überwiesen
+- TOP 13.5: Sicherer Schulweg für Heiligenseer Schüler 1 - überwiesen
+- TOP 13.6: Sicherer Schulweg für Heiligenseer Schüler 2 - erledigt
+- TOP 13.7: Sicher zur Schule und zum Einkaufen! - überwiesen
+- TOP 13.8: Geschwindigkeitskontrollen 1 - überwiesen
+- TOP 13.9: Geschwindigkeitskontrollen 2 - überwiesen
