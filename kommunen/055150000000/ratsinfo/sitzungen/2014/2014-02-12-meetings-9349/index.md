@@ -1,0 +1,61 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-02-12T17:06:00+01:00
+- Ende: 2014-02-12T21:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9349
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9349
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00351206.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion an den Rat Nr. A-R/0053/2013 "Starkes Personal für eine bürgerfreundliche Verwaltung" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis90/Die Grünen/GAL an den Rat Nr. A-R/0052/2013 "Neue Verkehrsregelung - Domplatz/Pferdegasse" - einstimmig beschlossen
+- TOP 2.3: Antrag A-R/0047/2013 der Fraktion Bündnis 90/Die Grünen/'GAL an den Rat "Alle potenziellen Standorte für Windenergieanlagen in die Flächennutzungsplanung aufnehmen!"¿ - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/ Die Grünen/ GAL an den Rat Nr. A-R/0046/2013 vom 01.10.2013 "Unbegleitete minderjährige Flüchtlinge" - einstimmig beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion an den Rat Nr. A-R/0051/2013: "Münster-Pass: Angebotspalette erweitern!" - mehrheitlich beschlossen
+- TOP 3: WLAN für Münster - einstimmig geändert beschlossen
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung 2014 - einstimmig beschlossen
+- TOP 5: Einsatz von Restrotanzeigen (Count-Down-Anzeigen) an Lichtsignalanlagen - mehrheitlich geändert beschlossen
+- TOP 6: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2014 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Änderung der Wahlordnung für die Wahl der Mitglieder des Integrationsrates der Stadt Münster - einstimmig beschlossen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2014 - ohne Beschlussfassung geschoben
+- TOP 9: Münster als Stadt des Friedens weiter profilieren - Ergebnisses des Fachbeirates Frieden - ohne Beschlussfassung geschoben
+- TOP 10: Weiterentwicklung Bürgerhaushalt - Eckpunkte des Verfahrens Bürgerhaushalt 2014 - ohne Beschlussfassung geschoben
+- TOP 11: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster - einstimmig beschlossen
+- TOP 11.1: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster
+- TOP 11.1.1: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster
+- TOP 12: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster mit der Anlage zur Verwaltungsgebührensatzung (Verwaltungsgebührentarif) der stadt Münster - einstimmig beschlossen
+- TOP 13: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - von der Tagesordnung abgesetzt
+- TOP 14: Investorenwettbewerb nördlich Stadthafen 1, Flächen der Stadtwerke Münster GmbH (Hafenweg 34-44) - ohne Beschlussfassung geschoben
+- TOP 15: Das Städtedreieck Münster, Osnabrück, Netwerkstad Twente (MONT): Rückblick, Sachstand, Perspektiven - zur Kenntnis genommen
+- TOP 16: Bürgerumfrage 2013: Ergebnisse zu den Fragenkomplexen "Lebensbedingungen in Münster", "Wohnen in Münster" und "Verkehr in Münster" - zur Kenntnis genommen
+- TOP 17: Entwurf Landesentwicklungsplan (LEP) NRW - Stellungnahme Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 18: Umstrukturierung des Förderschulangebotes "Lernen" - ohne Beschlussfassung geschoben
+- TOP 19: Interimsweise Nutzung der ehemaligen Hausmeisterwohnung des Fachwerk Gievenbeck als Dependance der Kita Gescherweg in Gievenbeck - einstimmig beschlossen
+- TOP 20: Errichtung einer zweigruppigen Kindertageseinrichtung am Kiesekampweg in Münster Coerde als Dependance einer in Coerde bestehenden Kindertageseinrichtung - einstimmig beschlossen
+- TOP 21: Errichtungsbeschluss für den Neubau der städtischen Übergangswohnungen für Obdachlose am Schwarzen Kamp - einstimmig beschlossen
+- TOP 21.1: Errichtungsbeschluss für den Neubau der städtischen Übergangswohnungen für Obdachlose am Schwarzen Kamp
+- TOP 22: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen - ohne Beschlussfassung geschoben
+- TOP 22.1: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen
+- TOP 23: Weitere Umsetzung des Unterbringungskonzeptes für Flüchtlinge in Münster - ohne Beschlussfassung geschoben
+- TOP 23.1: Weitere Umsetzung des Unterbringungskonzeptes für Flüchtlinge in Münster
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Mitte
+- TOP 24.1.1: Bebauungsplan Nr. 565: Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk West
+- TOP 24.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 24.3: Stadtbezirk Nord
+- TOP 24.3.1: Bebauungsplan Nr. 550 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.4: Stadtbezirk Südost
+- TOP 24.4.1: 52. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 509 - Beschluss zur Aufstellung - Bebauungsplan Nr. 344 - Beschluss zur Aufhebung - einstimmig beschlossen
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 26: Verschiedenes
