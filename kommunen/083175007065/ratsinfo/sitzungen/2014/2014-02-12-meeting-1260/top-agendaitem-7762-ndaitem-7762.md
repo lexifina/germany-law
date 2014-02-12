@@ -1,0 +1,6 @@
+# TOP -: Vorstellung der Arbeit im Mehrgenerationenhaus durch die hauptamtlichen Mitarbeiterinnen und den Sprecherinnen der Bürgerinitiative Begegnungshaus
+
+- Sitzung: Ausschuss für Soziales, Bildung und Sport (1. Sitzung) (2014-02-12)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/7762
