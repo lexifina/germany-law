@@ -1,0 +1,66 @@
+# 36. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-02-12T18:29:00+01:00
+- Ende: 2014-02-12T21:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9350
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9350
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00351204.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 8: Anregungen des Jugendrats gem. § 24 GO
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Änderung der Wahlordnung für die Wahl der Mitglieder des Integrationsrates der Stadt Münster - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2014 - mehrheitlich beschlossen
+- TOP 12: Münster als Stadt des Friedens weiter profilieren - Ergebnisses des Fachbeirates Frieden - einstimmig geändert beschlossen
+- TOP 13: Weiterentwicklung Bürgerhaushalt - Eckpunkte des Verfahrens Bürgerhaushalt 2014 - einstimmig geändert beschlossen
+- TOP 14: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster - einstimmig beschlossen
+- TOP 14.1: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster
+- TOP 14.1.1: Einführung einer optimierten immobilienwirtschaftlichen Steuerung in der Stadt Münster
+- TOP 15: Sozialgerechte Bodennutzung in Münster - Vorlage eingebracht
+- TOP 16: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster mit der Anlage zur Verwaltungsgebührensatzung (Verwaltungsgebührentarif) der stadt Münster - einstimmig beschlossen
+- TOP 17: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - von der Tagesordnung abgesetzt
+- TOP 18: Künftige Unterbringung der VHS, der Schulpsychologischen Beratungsstelle und der Westfälischen Schule für Musik - von der Tagesordnung abgesetzt
+- TOP 19: Investorenwettbewerb nördlich Stadthafen 1, Flächen der Stadtwerke Münster GmbH (Hafenweg 34-44) - mehrheitlich geändert beschlossen
+- TOP 20: Das Städtedreieck Münster, Osnabrück, Netwerkstad Twente (MONT): Rückblick, Sachstand, Perspektiven - zur Kenntnis genommen
+- TOP 21: Bürgerumfrage 2013: Ergebnisse zu den Fragenkomplexen "Lebensbedingungen in Münster", "Wohnen in Münster" und "Verkehr in Münster" - zur Kenntnis genommen
+- TOP 22: Entwurf Landesentwicklungsplan (LEP) NRW - Stellungnahme Stadt Münster - mehrheitlich beschlossen
+- TOP 23: Umstrukturierung des Förderschulangebotes "Lernen" - einstimmig beschlossen
+- TOP 24: Interimsweise Nutzung der ehemaligen Hausmeisterwohnung des Fachwerk Gievenbeck als Dependance der Kita Gescherweg in Gievenbeck - einstimmig beschlossen
+- TOP 25: Errichtung einer zweigruppigen Kindertageseinrichtung am Kiesekampweg in Münster Coerde als Dependance einer in Coerde bestehenden Kindertageseinrichtung - einstimmig beschlossen
+- TOP 26: Errichtungsbeschluss für den Neubau der städtischen Übergangswohnungen für Obdachlose am Schwarzen Kamp - einstimmig beschlossen
+- TOP 26.1: Errichtungsbeschluss für den Neubau der städtischen Übergangswohnungen für Obdachlose am Schwarzen Kamp
+- TOP 27: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen - einstimmig beschlossen
+- TOP 27.1: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen
+- TOP 28: Weitere Umsetzung des Unterbringungskonzeptes für Flüchtlinge in Münster - einstimmig beschlossen
+- TOP 28.1: Weitere Umsetzung des Unterbringungskonzeptes für Flüchtlinge in Münster
+- TOP 29: Bauleitplanung
+- TOP 29.1: Stadtbezirk Münster-Mitte
+- TOP 29.1.1: Bebauungsplan Nr. 565: Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 29.2: Stadtbezirk Münster-West
+- TOP 29.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - von der Tagesordnung abgesetzt
+- TOP 29.3: Stadtbezirk Münster-Nord
+- TOP 29.3.1: Bebauungsplan Nr. 550 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 29.4: Stadtbezirk Münster-Südost
+- TOP 29.4.1: 52. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 509 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 30: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 31.1: BImA: Der Gemeinwohlorientierung Geltung verschaffen - das Höchstpreisprinzip ablösen - einstimmig beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 32.1: Vor der weiteren Planung der Sporthalle Innenstadt den Bedarf an einer Sportveranstaltungshalle in der Innenstadt genauer prüfen - verwiesen
+- TOP 32.2: Aktualisierung und Fortschreibung des Einzelhandelskonzeptes vornehmen - Regionales Einzelhandelskonzept voranbringen - verwiesen
+- TOP 32.3: Kurze Wege nutzen, neue Perspektiven eröffnen - regelmäßige Arbeitsmarkt-Konferenz einberufen - verwiesen
+- TOP 33: Verschiedenes
