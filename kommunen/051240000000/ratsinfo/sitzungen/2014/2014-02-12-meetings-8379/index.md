@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-02-12T16:00:00+01:00
+- Ende: 2014-02-12T17:50:00+01:00
+- Ort: Rathaus Wuppertal-Barmen, Sitzungszimmer II/III
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/111
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8379
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8379
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00164805.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00166301.pdf
+
+## Tagesordnung
+
+- TOP 1: Nordbahntrasse - mündl. Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 2: Eckpunkte des Regionalen Strukturprogramms für die Förderperiode 2014 - 2020 - ungeändert beschlossen
+- TOP 3: Jahresarbeitsprogramm 2014 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 4: Soziale Stadt - Perspektiven ab 2016 - ungeändert beschlossen
+- TOP 5: Bolzplatz/Spielplatz Windhukstraße (CVJM) - ungeändert beschlossen
+- TOP 6: Multifunktionale Sport- und Eventfläche für den aufgegebenen Sportplatz / die Turnhalle am Stadion Zoo - ungeändert beschlossen
+- TOP 7: Rahmenplan Spitzenstraße - ungeändert beschlossen
+- TOP 8: Städtebauliches Rahmenkonzept Ronsdorf - An den Friedhöfen / Kottsiepen - ungeändert beschlossen
+- TOP 9: Erhaltungs- und Gestaltungssatzung - Terrassenbebauung Stralsunder Straße / Bremer Straße - ungeändert beschlossen
+- TOP 10: Bebauungsplan 1197 - Kaiserstraße / Bissingstraße - - ungeändert beschlossen
+- TOP 11: Bebauungsplan 1198 - Waldeckstraße / Auf der Bleiche - - ungeändert beschlossen
+- TOP 12: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße - geändert beschlossen
+- TOP 13: Bebauungsplan 983 - Ahrstraße - 1. Änderung des Bebauungsplanes - Aufstellungsbeschluss - Flächennutzungsplanänderung 85 - Aufstellungsbeschluss - - ungeändert beschlossen
+- TOP 14: Bebauungsplan 1193 V - Heidestraße - - ungeändert beschlossen
+- TOP 15: Vorhabenbezogener Bebauungsplan 1194 V - südlich Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 16: Bebauungsplan 1199 - Gathe / Paradestraße - - ungeändert beschlossen
+- TOP 17: Bebauungsplan 486 - Sonnenblume - - ungeändert beschlossen
+- TOP 18: Bebauungsplan 954 - Döppersberg - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 1151 - Sportplatz Sondern - - ungeändert beschlossen
+- TOP 20: 63. Flächennutzungsplanänderung - Sportplatz Sondern - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 869 - Radenberg- - ungeändert beschlossen
+- TOP 22: Bebauungsplan 1167 - Lessingstraße - - abgesetzt
+- TOP 23: Bebauungsplan 1081 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 24: Bebauungsplan 1171 - Gesundheitstraße - (mit Flächennutzungsplanberichtigung 70B) - Offenlegungsbeschluss - Durchführungsplan 48 - Offenlegungsbeschluss zur Aufhebung - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 1166 - Wilhelmstraße / Rommelspütt - - ungeändert beschlossen
+- TOP 26: Vorhabenbezogener Bebauungsplan 1136V - Dreigrenzen - - ungeändert beschlossen
+- TOP 27: Bebauungsplan 1177 -Schwarzbach / Hügelstraße- - ungeändert beschlossen
+- TOP 28: Vorhabenbezogener Bebauungsplan 1191V- Kaiserstraße - - ungeändert beschlossen
+- TOP 29: Bebauungsplan 938 - Ronsdorfer Straße / Kronprinzenallee - - ungeändert beschlossen
+- TOP 30: Bebauungsplanverfahren 1000 - Widukindstr.- - ungeändert beschlossen
+- TOP 31: Vorhabenbezogener Bebauungsplan 1137V - Hans-Böckler-Straße / Am Deckershäuschen - (mit Flächennutzungsplanberichtigung 26B) - Satzungsbeschluss- Bebauungsplan 677 - Am Deckershäuschen - - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 32: Vorhabenbezogener Bebauungsplan 1107 V - Heidter Straße / Rädchen - - ungeändert beschlossen
+- TOP 33: Bebauungsplan 654 - Otto-Hausmann-Ring - 1. Änderung - ungeändert beschlossen
+- TOP 34: Bebauungsplan 1175 - Gathe / Ludwigstraße / Markomannenstraße - - ungeändert beschlossen
+- TOP 35: Bebauungsplan 1166 - Wilhelmstraße / Rommelspütt - - ungeändert beschlossen
+- TOP 36: Erklärung über die Funktionslosigkeit von Festsetzungen im Fluchtlinienplan 774 - Kaulbachstraße - - ungeändert beschlossen
+- TOP 37: Erklärung über die Funktionslosigkeit von Festsetzungen im Bebauungsplan 157 A/1 - Im Springen - - ungeändert beschlossen
+- TOP 38: Auswirkungen des Wegfalls von Sitzungen - Entgegennahme ohne Beschluss
+- TOP 38.1: Auswirkungen des Wegfalls von Sitzungen - Entgegennahme ohne Beschluss
