@@ -1,0 +1,94 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-02-13T18:02:00+01:00
+- Ende: 2014-02-13T19:26:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1005
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1005
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Verstärkte sichtbare Präsenz der Polizei (Antrag Nr. 4/2014) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00050862.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Wiesenstraße - einstimmig
+- TOP 3.1.2: Pflasterarbeiten - einstimmig
+- TOP 3.1.3: Deutsch-Ritter-Allee/Vogteistraße - einstimmig
+- TOP 3.1.4: Nahverkehr - einstimmig
+- TOP 3.1.5: Garage - einstimmig
+- TOP 3.1.6: Sanierungsarbeiten Erasmus - einstimmig
+- TOP 3.1.7: Schulwege - einstimmig
+- TOP 3.1.8: Versicherungspool - einstimmig
+- TOP 3.1.9: Polizeipräsenz - einstimmig
+- TOP 3.2: UWG
+- TOP 3.3: FDP
+- TOP 3.3.1: Mängelmelder "App" - einstimmig
+- TOP 3.3.2: Übertragung Ogata an freie Träger - einstimmig
+- TOP 3.4: B 90/DIE GRÜNEN
+- TOP 3.5: ABG
+- TOP 3.5.1: AG WGV/SEG - einstimmig
+- TOP 3.6: Gemeinschaftsanträge
+- TOP 3.7: SPD
+- TOP 3.7.1: Entsendung Erftverband
+- TOP 3.7.2: Verlegung Haltestelle - einstimmig
+- TOP 3.7.3: Entsendung Delegiertenversammlung Erftverband - einstimmig
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.1.1: Geschwindigkeitsübertretungen
+- TOP 4.1.2: Lange-Walker
+- TOP 4.2: SPD
+- TOP 4.2.1: Busverbindung
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: ABG
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Änderung der Hauptsatzung - einstimmig
+- TOP 8: Entscheidung Planungs- und KulturA
+- TOP 8.1: Umbenennung Finlay Park - mehrheitlich bei
+- TOP 9: Entscheidung PlanungsA
+- TOP 9.1: 2. Änd. Gu 34 - Satzungsbeschluss - einstimmig
+- TOP 9.2: Aufhebung W 29 n - Aufhebungsbeschluss - mehrheitlich bei
+- TOP 9.3: Aufhebung 1. vereinf. Änd. W 29 n - Aufhebungsbeschluss - mehrheitlich bei
+- TOP 9.4: 1. vereinf. Änd. F 21 - Satzungbeschluss - mehrheitlich bei
+- TOP 9.5: 14. Änd. FNP "Grevenbroicher Straße" - Aufst. + Öffentlichkeitsbet. - einstimmig
+- TOP 9.6: G 204 Königslindenstraße - Beschluss Erschließungsvertrag - mehrheitlich bei
+- TOP 9.7: Satzungsbeschluss G 204 - mehrheitlich bei
+- TOP 9.8: Neuwahl Mitglieder Umlegungsausschuss - einstimmig
+- TOP 9.9: Errichtung eines Drogeriemarktes im Bereich des Bebauungsplanes 3. Änderung K 25 - mehrheitlich bei
+- TOP 10: Beantwortung Anträge
+- TOP 11: Beantwortung Anfragen
+- TOP 12: mündliche Anträge/Anfragen
+- TOP 12.1: Zaunanlage
+- TOP 12.2: Schulen
+- TOP 12.3: Aufwendungen Sach- und Dienstleistungen
+- TOP 12.4: LKW-Verkehr
+- TOP 12.5: Im Kamp 10
+- TOP 12.6: Infotheke
+- TOP 12.7: Kinderspielplatz
+- TOP 12.8: Baby-Begrüßungsdienst
+- TOP 12.9: Bahnhof Kapellen
+- TOP 12.10: Anwohnerparkplätze
+- TOP 12.11: Verkehrsspiegel
+- TOP 12.12: Grundstücksnutzung
+- TOP 12.13: Rheydter Straße
+- TOP 12.14: Müllkonzept
+- TOP 12.15: Kanaldeckel
+- TOP 12.16: parkender LKW
+- TOP 12.17: Lärmbelästigung
+- TOP 12.18: Automatiktür
+- TOP 12.19: RWE-Power
+- TOP 12.20: Gewerbegebiet GV-Roki
+- TOP 12.21: Bolzplatz
+- TOP 12.22: ehem. GS Neurath
+- TOP 12.23: Spielplatzoptimierungskonzept
+- TOP 12.24: Anwohnerparkausweis
+- TOP 12.25: Rheydter Straße Ecke Am Hammerwerk
+- TOP 13: Mitteilungen BM'in
