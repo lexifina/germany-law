@@ -1,0 +1,92 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-02-13T14:00:00+01:00
+- Ende: 2014-02-13T20:34:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8428
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8428
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00210545.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00210545.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00210545.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wiederwahl von Herrn Beigeordneten Dr. Gregor Bonin - mehrheitlich beschlossen
+- TOP 4: Wiederwahl von Herrn Beigeordneten Hans-Georg Lohe - mehrheitlich beschlossen
+- TOP 5: Aktuelle Anfragen
+- TOP 5.1: Anfrage aktuell Freie Wähler: Krankenstand beim OSD - beantwortet
+- TOP 5.2: Anfrage aktuell Bü90-Grü: Bauliche und sicherheitsrelevante Probleme im Opernhaus Düsseldorf - beantwortet
+- TOP 5.3: Anfrage aktuell-Die Linke: Baumfällungen am Martin-Luther-Platz - schriftlich beantwortet
+- TOP 5.4: Anfrage aktuell SPD:eutsche Oper am Rhein: Informationen über die baulichen und technischen Mängel - schriftlich beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage Freie Wähler: Videowürfel ISS-Dome - beantwortet
+- TOP 6.2: Anfrage Freie Wähler: Brennpunkt Lessingplatz in Oberbilk - beantwortet
+- TOP 6.3: Anfrage Rh Krüger: LVR Sonderumlage im Haushaltsjahr 2014 - beantwortet
+- TOP 6.4: Anfrage Rf El Fassi: Barrierefreiheit an den Rheinbahn-Haltestellen in Oberkassel - beantwortet
+- TOP 6.5: Anfrage Dr. Kirchner: Verschuldung und Netto-Finanzposition der Stadt Düsseldorf zum 31. Januar 2014 - beantwortet
+- TOP 6.6: Anfrage Rh Dr. Kirchner: Erzielte Steuereinnahmen bis Ende Januar 2014 - beantwortet
+- TOP 6.7: Anfrage der FDP-Ratsfraktion: Interkommunale Zusammenarbeit - beantwortet
+- TOP 6.8: Anfrage Rh Krüger: Kosten für die Versendung von externen Briefen - beantwortet
+- TOP 6.9: Anfrage der Ratsfrau El Fassi: Unterbringung von Flüchtlingen - schriftlich beantwortet
+- TOP 6.10: Anfrage der FDP-Ratsfraktion: Auswirkungen einer PKW-Maut auf Düsseldorf - schriftlich beantwortet
+- TOP 6.11: Anfrage Bü90/Grü: Muskator Insolvenz: Warum versagt der „Masterplan Industrie“ in der Realität? - schriftlich beantwortet
+- TOP 6.12: Anfrage der Ratsfrau Deilmann: Werstener Bunker - schriftlich beantwortet
+- TOP 6.13: Anfrage der Ratsfraktion DIE LINKE: Bäderstandort Flinger Broich erhalten - schriftlich beantwortet
+- TOP 6.14: Anfrage Die Linke: Zukunft Wohnen.Düsseldorf - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bewerbung um die Ausrichtung des NRW-Tages 2016 - einstimmig beschlossen
+- TOP 9: Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinwirtschaftlichen Aufgaben - zurückgezogen
+- TOP 10: Ellerstraße 84-94, NRW-Sportschule – Neubau einer Dreifachsporthalle inkl. Räume für den Ganztag - A - zur Kenntnis genommen
+- TOP 11: Umbau Benderstraße städtischer Anteil - zur Kenntnis genommen
+- TOP 12: Oberbilker Markt - Neugestaltung und Umfeldanpassung - einstimmig beschlossen
+- TOP 13: Marktplatz 5-6, Verwaltungsgebäude, Gesamtsanierung - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 14: Hauptsammler-Mitte (HSM), Sanierung, Auf dem Draap bis Südring (I 30233026) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 15: Fortschreibung des Rettungsdienstbedarfsplans sowie Änderung der Gebührentarife zur Gebührensatzu - einstimmig beschlossen
+- TOP 15.1: ÄA SPD: Fortschreibung des Rettungsdienstbedarfsplan - mehrheitlich abgelehnt
+- TOP 16: Teilschließung von Friedhofsflächen gemäß Friedhofsentwicklungskonzept - einstimmig beschlossen
+- TOP 17: Satzung zur Aufhebung der Satzung vom 24.06.2010 zur Bestimmung von Fristen für Dichtheitsprüfungen - einstimmig beschlossen
+- TOP 18: Erinnerungs- und Lernort auf dem neuen Campus der Fachhochschule Düsseldorf - zur Kenntnis genommen
+- TOP 19: Zielvereinbarung zur Erlangung des Zertifikats zum Audit "Familiengerechte Kommune" - mehrheitlich beschlossen
+- TOP 20: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2014 - mehrheitlich beschlossen
+- TOP 21: Änderung des § 27 Gemeindeordnung NRW (GO NRW) - Integration - - mehrheitlich beschlossen
+- TOP 22: Änderung Hauptsatzung - einstimmig beschlossen
+- TOP 23: Rat Ehrenamtskarte Antrag SBR Freiwillige Anreiz Vergünstigung bürgerschaftliches Engagement - verwiesen
+- TOP 24: Beschlusskontrolle - einstimmig beschlossen
+- TOP 25: Bestellung einer Prüferin und eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 26: Besetzung des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife - einstimmig beschlossen
+- TOP 27: Bestellung beratender Mitglieder des Jugendrates in Ausschüsse - einstimmig beschlossen
+- TOP 28: Aufsichtsrat der Flughafen Mönchengladbach GmbH - Neuwahl - einstimmig beschlossen
+- TOP 29: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 30: Sportbeirat der DüsseldorfCongress Sport & Event GmbH - Neuwahl - - mehrheitlich beschlossen
+- TOP 31: Neuaufstellung des Landesentwicklungsplans NRW - Stellungnahme der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 32: Denkmalbereichssatzung Golzheimer Siedlung - Satzung - einstimmig beschlossen
+- TOP 33: Bebauungsplan-Entwurf Nr. 5077/056 Am Heerdter Krankenhaus - mehrheitlich beschlossen
+- TOP 34: Anträge
+- TOP 34.1: Antrag Freie Wähler: Videoüberwachung an Gefahrenschwerpunkten - zur Kenntnis genommen
+- TOP 34.2: Antrag Freie Wähler: Düsseldorf rückt zusammen - Wohnquartiere für Flüchtlinge - verwiesen
+- TOP 34.3: Antrag Freie Wähler: : Kunstakademie an den Hilarius-Gilges-Platz - verwiesen
+- TOP 34.4: Antrag Freie Wähler: Separierung der Baumaßnahme Benderstraße - zurückgezogen
+- TOP 34.5: Antrag CDU und FDP: Kunst- und Kulturachsen in der Landeshauptstadt Düsseldorf - verwiesen
+- TOP 34.6: Antrag CDU und FDP:Schaffung Archiv- und Depotzentrums der Landeshauptstadt Düsseldorf an der - verwiesen
+- TOP 34.7: Antrag der SPD-Ratsfraktion: Ausrichtung des NRW-Tages 2016 - zurückgezogen
+- TOP 34.8: Antrag CDU und FDP: Lärmschutz Güterbahnverkehr Rath/Eller - verwiesen
+- TOP 34.8.1: ÄA Bü90/Grü: Lärmschutz Güterbahnverkehr Rath/Eller - verwiesen
+- TOP 34.8.2: ÄA SPD und BÜ90/GRÜ: Kö-Bogen II - verwiesen
+- TOP 34.9: Antrag FDP und CDU: Kö-Bogen II - verwiesen
+- TOP 34.10: Antrag der Ratsfraktionen von FDP und CDU: Benennung eines Platzes - verwiesen
+- TOP 34.11: Antrag SPD:Eintrittsfreies Public Viewing und Fan-Treffs zur Fußball-Weltmeisterschaft 2014 - zur Kenntnis genommen
+- TOP 34.11.1: ÄA CDU und FDP: Eintrittfreies Public Viewing mit Fanmeile zur Fußball-WM 2014 - einstimmig beschlossen
+- TOP 34.11.2: Erg. Antrag SPD: Maßnahmen gegen den ungebremsten Mietenanstieg - zur Kenntnis genommen
+- TOP 34.11.3: Antrag der Ratsfraktion DIE LINKE: Vorstellung des Bäderkonzeptes 2020 - verwiesen
+- TOP 34.11.4: Antrag der Ratsfraktion DIE LINKE: Kostenlose Stände für Vereine und Initiativen am Europatag - verwiesen
+- TOP 34.11.5: Antrag der Ratsfraktion DIE LINKE: Menschenwürdige Unterbringung in Sammelunterkünften - verwiesen
+- TOP 34.12: Antrag der Ratsfraktion von BÜ90/GRÜ: Maßnahmen gegen den ungebremsten Mietenanstieg - zur Kenntnis genommen
+- TOP 34.12.1: Ant SPD,GRÜ, LINKE : Gemeinsam gegen Homophobie - Für Vielfalt, Respekt und Akzeptanz im Sport - zurückgezogen
+- TOP 35: Aufsichtsrat Flughafen Düsseldorf - einstimmig beschlossen
+- TOP 36: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
