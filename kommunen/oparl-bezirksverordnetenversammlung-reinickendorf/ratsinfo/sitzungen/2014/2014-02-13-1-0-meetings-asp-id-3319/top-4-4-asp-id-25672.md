@@ -1,0 +1,8 @@
+# TOP 4.4: Beschluss des Bebauungsplanentwurfs 12-41B vom 10. Oktober 2012 mit Deckblatt vom 21. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-41B für die Grundstücke Zeltinger Platz 1 / 17, 2 / 18, Wiltinger Straße 1 - 3, Zeltinger Straße 1, 2, Edelhofdamm 1, 2 sowie Burgfrauenstraße 1 im Bezirk Reinickendorf, Ortsteil Frohnau
+
+- Sitzung: 18. öffentliche Sitzung des Ausschusses für Bauwesen und Stadtplanung (2014-02-13)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=25672
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=25672
