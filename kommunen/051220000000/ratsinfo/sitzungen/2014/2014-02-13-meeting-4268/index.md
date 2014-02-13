@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-02-13T17:00:00+01:00
+- Ende: 2014-02-13T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa1qCuzTY8nXUtOdVhz4jEs
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4268
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQLz5YxoEipxm0mOqWBo7dCtJzWBfbc2FHPllj8BoHrP/Oeffentliche_Niederschrift_Rat_13.02.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 31. Sitzung des Rates am 12.12.2013
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Umbesetzung von Ausschüssen und Gremien
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Wahlordnung für die Wahl des Integrationsrates der Stadt Solingen
+- TOP 9: Eckpunktepapier des Regionalen Strukturprogramms für die EU-Förderperiode 2014 – 2020
+- TOP 10: Beteiligungskultur ausbauen
+- TOP 11: Politische Beteiligung an Wettbewerben
+- TOP 12: Soziale Stadt Nordstadt
+- TOP 13: Erstellen eines Digitalen Gesamtkonzeptes
+- TOP 14: Satzungsänderung bei der Niederschlagswassergebührenerhebung bzgl. Definition Flächenbefestigung
+- TOP 15: Den Fortbestand der Schulsozialarbeit sichern
+- TOP 16: Vereinbarkeit von Familie und Beruf
+- TOP 17: Vereinbarkeit von Familie und Beruf
+- TOP 18: Verkaufsoffene Sonntage im Jahr 2014
+- TOP 19: Vertrag zwischen der Verbraucherberatung NRW und der Stadt Solingen über den Betrieb der Verbraucherberatungsstelle Solingen
+- TOP 20: 1. Nachtrag zum Stellenplan 2014
+- TOP 21: Konzessionierungsverfahren Strom der Stadt Solingen für die Stadtteile Burg und Höhrath
+- TOP 22: Wirtschaftsplan 2014 des Dienstleistungsbetriebs Gebäude der Stadt Solingen
+- TOP 23: Bauleitplanung Hochstraße/Sauerbreystraße
+- TOP 24: Verschiedenes
+- TOP 25: Parksituation der Mitarbeiter/innen am städtischen Klinikum
+- TOP 26: Landesmittel für die Integration von Neuzugewanderten
+- TOP 27: Entsorgung von Feinbstaubfilterrückständen
+- TOP 28: Betrieb der gemeinsamen integrierten Regionalleitstelle der Städte Solingen und Wuppertal
+- TOP 29: Schließung der Sporthalle der August-Dicke-Schule
+- TOP 30: Hofgarten
+- TOP 31: Betrieb der gemeinsamen integrierten Regionalleitstelle der Städte Solingen und Wuppertal
+- TOP 32: Krankenstände bei der Feuerwehrleitstelle
+- TOP 33: Sachstand Verspätung S1
+- TOP 34: Absichtserklärung der Telekom Deutschland und der Stadt Solingen für den Ausbau der Breitband-Infrastruktur
+- TOP 35: Situation Feuerwehr Solingen
+- TOP 36: Über- und außerplanmäßige Aufwendungen und Auszahlungen 4. Quartal im Jahr 2013
+- TOP 37: Sachstandsbericht Schulsozialarbeit (BuT)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 31. Sitzung des Rates am 12.12.2013
+- TOP 3: Erwerb von Geschäftsanteilen an der Trianel Onshore Windkraftwerke GmbH & Co. KG (TOW)
+- TOP 4: Umgang mit den RWE-Holding-Aktien im Rahmen der Übertragung besagter Aktien in eine Gesellschaft
+- TOP 5: Verschiedenes
+- TOP 6: Bußgeldverfahren gegen das Städtische Klinikum Solingen gGmbH
+- TOP 7: Konzessionierungsverfahren Strom der Stadt Solingen für die Stadtteile Burg und Höhrath
