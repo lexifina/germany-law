@@ -1,0 +1,59 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-02-17T18:00:00+01:00
+- Ende: 2014-02-17T20:10:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdHN2MkYknjxaUAvz_so-7g
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3426
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf8US7ms0l_Od3u_LzIxkDi7zEAATKOJlcW5_4ZpCXqP/Bekanntmachung_Rat_17.02.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb7tJX8JOpLUOUnX2woZvcRyD4U66wdeOK-Yeakgj7FI/Oeffentliche_Niederschrift_Rat_17.02.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Vereidigung und Amtseinführung des Bürgermeisters
+- TOP 2.: Zur Tagesordnung
+- TOP 3.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 4.: Niederschrift vom 02.12.2013
+- TOP 5.: Anregungen und Bedenken gem. § 24 Gemeindeordnung
+- TOP 5.1: Benennung einer Straße im Baugebiet „Haup¬t¬straße/ Stiftsstraße/Zum Sommersberg Bebauungsplan 11.12 „ - Anregung gem. § 24 Gemeindeordnung NRW -
+- TOP 5.1.1: Benennung einer Straße im Baugebiet "Hauptstraße / Stiftsstraße / Zum Sommersberg - Bebauungsplan 11.12“ hier: Anregung gem. § 24 Gemeindeordnung, Vorlage Nr. 385/2013 Bezug: HA 10.2.2014 - (kein Text vorhanden)
+- TOP 5.2: Änderung eines Straßennamens hier: Änderung des eigenen Antrages vom 19.12.2012 von Ralf-Richard Kenter, Phantasialand, Bezug: HA 18.02. und 11.3.2013, Vorlage Nr. 39/2013 und 98/2013
+- TOP 5.2.1: Umbenennung Teilstück Kuhgasse hier: Anregung gem. § 24 Gemeindeordnung, Vorlage Nr. 3/2014 Bezug: HA 10.2.2014 - (kein Text vorhanden)
+- TOP 6.: Wirtschaftsplan Stadtwerke Brühl GmbH 2014 - (kein Text vorhanden)
+- TOP 7.: Bebauungsplan 08.10 „Liblarer Straße / Am Krausen Baum“, 1. Vereinfachte Änderung - Aufstellungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 8.: Sondersatzung gemäß § 4 Abs. 5 der Satzung über die Erhebung von Beiträgen nach § 8 KAG NRW für straßenbauliche Maßnahmen hier: Schiffergasse Bezug: TA 26.11.2012, Vorlage Nr. 171/2012; VKA 17.09.2013, Vorlage Nr. 272/2013 - (kein Text vorhanden)
+- TOP 9.: 13. Satzung zur Änderung der Hauptsatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 10.: Neufassung der Wahlordnung für die Wahl des Integrationsrates der Stadt Brühl - (kein Text vorhanden)
+- TOP 11.: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 4. Quartal 2013
+- TOP 12.: Städtepartnerschaftsjubiläum 2014; hier: Zwischenfinanzierung - (kein Text vorhanden)
+- TOP 13.: Überplanmäßige Ausgabe Sanierung WC-Anlagen Max-Ernst-Gymnasium - (kein Text vorhanden)
+- TOP 14.: Eingangsklassenbildung Schuljahr 2014/2015 - (kein Text vorhanden)
+- TOP 15.: Anträge
+- TOP 15.1: Begrenzung der Wahlplakatierung bei der Kommunalwahl hier: Antrag der Fraktion fw/bVb vom 31.01.2014
+- TOP 15.2: Einrichtung eines Jugendparlaments hier: Antrag der Fraktion "Die LINKE" vom 23.01.2014 - (kein Text vorhanden)
+- TOP 15.3: Inklusion hier: Antrag der Fraktion "Die LINKE." vom 02.02.2014 - (kein Text vorhanden)
+- TOP 16.: Umbesetzungen in Ausschüssen
+- TOP 17.: Mitteilungen
+- TOP 17.1: Niederschrift über die 67. Sitzung der Verbandsversammlung des Zweckverbandes der KDVZ am 06.12.2013
+- TOP 17.2: WLAN-Zugang Sitzungsräume
+- TOP 18.: Anfragen
+- TOP 18.1: Bürgermeisterwahl; KDVZ-Probleme bei der Ergebnispräsentation
+- TOP 18.2: Beleuchtung Euskirchener Straße
+- TOP 18.3: Verkehrssituation Steingasse
+- TOP 18.4: Beleuchtung Petersbergstraße
+- TOP 18.5: Weg Wasserturm/Maiglerwiese
+- TOP 18.6: Integrationsrat
+- TOP 18.7: Verschmutzung durch LKW-Verkehr Kiesgrube
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Beauftragung des Vertreters in der Gesellschafterversammlung der Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 20.: Energetische Sanierung Bahnhofsgebäude Hauptbahnhof Brühl -Kreditaufnahme- - (kein Text vorhanden)
+- TOP 21.: Mitteilungen
+- TOP 21.1: Bericht über die 118. Sitzung des Aufsichtsrates der Stadtwerke Brühl GmbH am 02.12.2013
+- TOP 22.: Anfragen
+- TOP 22.1: Behördenabstimmung
+- TOP 22.2: TOP 19/Gebausie
