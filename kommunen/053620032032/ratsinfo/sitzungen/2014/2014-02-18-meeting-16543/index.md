@@ -1,0 +1,55 @@
+# Stadtrat (31. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-02-18T17:00:00+01:00
+- Ende: 2014-02-18T18:35:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZQiNP8ScvthdzeBst1vpMw
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16543
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRoYItB58H3G5NPFfAMBJzP0tx1eVgPA-INwPqf948XD/Bekanntmachung_Stadtrat_18.02.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSaSpbc5Jq2s1VqsNvV0QmAntvN6KJYlxpSX9gfe9TDV/Oeffentliche_Niederschrift_Stadtrat_18.02.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung des neuen Stadtverordneten Heinz Krüll
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Antrag der SPD-Fraktion
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 16. Änderung der Hauptsatzung der Kolpingstadt Kerpen
+- TOP 4.2: 11. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Kolpingstadt Kerpen
+- TOP 4.3: Neufassung der Wahlordnung für die Wahl des Integrationsrates der Kolpingstadt Kerpen
+- TOP 4.4: Änderung der Haus- und Badeordnung sowie der Entgeltordnung für die Bäder der Kolpingstadt Kerpen
+- TOP 5.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im IV. Quartal 2013
+- TOP 6.: Bekanntgabe der in der Zeit vom 01.10. bis 31.12.2013 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NRW
+- TOP 7.: Bereitstellung von überplanmäßigen Haushaltsmitteln hier: Beauftragung eines Beratungsbüros für die Ausschreibung der Energielieferungen für die Kolpingstadt Kerpen (Gas und Strom)
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: Stellungnahme der Kolpingstadt Kerpen zum Entwurf des Landesentwicklungsplan NRW
+- TOP 8.2: Vorhabenbezogener Bebauungsplan HO 351 "Waldweg", Stadtteil Horrem A Einleitungsbeschluss gem. § 12 (2) BauGB i.V.m. § 13a BauGB B Teilaufhebung des Bebauungsplanes HO 290 A „Alte Kartbahn“, Stadtteil Horrem
+- TOP 8.3: Vorhabenbezogener Bebauungsplan HO 290 B "Waldweg", Stadtteil Horrem hier: Aufhebungsbeschluss gem. § 2 (1) und § 1 (8) BauGB i.V.m. § 13 BauGB
+- TOP 8.4: Vorhabenbezogener Bebauungsplan HO Nr. 351 "VEP Waldweg". hier: Abschluss eines Verpflichtungsvertrages
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: Umsetzung der Verordnung über die Arbeitszeit der Beamtinnen und Beamten im feuerwehrtechnischen Dienst im Land Nordrhein-Westfalen (AZVO-Feu)
+- TOP 9.2: Einrichtung von Anwärterstellen für Brandmeisterinnen und Brandmeister; Ausbildung von feuerwehrtechnischen Beamtinnen und Beamten zum Rettungsassistenten - Umsetzung des Notfallsanitätergesetzes
+- TOP 9.3: Wiederbesetzung der Stelle der Leitung der örtlichen Rechnungsprüfung
+- TOP 10.: Öffentlich-rechtliche Vereinbarung mit der Stadt Erftstadt über die Bildung und den Betrieb eines Teilstandortes der Förderschule mit dem Förderschwerpunkt Lernen
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Mitteilungen
+- TOP 13.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Sachstand Lörsfelder Hof (Ökohof)
+- TOP 14.2: Sicherheit an den Banhöfen in der Kolpingstadt Kerpen
+- TOP 14.3: Ehemaliges Patro-Gelände im Gewerbegebiet des Stadtteils Horrem
+- TOP II.: Nichtöffentlicher Teil
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Höhergruppierung eines Verwaltungsangestellten
+- TOP 16.: Umsiedlung Manheim hier: Erstattung Personalkostenmehraufwand
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 18.: Mitteilungen
+- TOP 19.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
