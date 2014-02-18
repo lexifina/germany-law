@@ -1,0 +1,57 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und Betriebsausschüsse APH / KIJU / WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-02-18T16:03:00+01:00
+- Ende: 2014-02-18T17:31:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/194
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8216
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8216
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand 13.02.2014) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00165917.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00166943.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2012/2013 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2012/2013 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan GMW 2014 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2014/2015 - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Neufassung des Gesellschaftsvertrages der Historische Stadthalle Wuppertal GmbH - ungeändert beschlossen
+- TOP 3.2: Große Anfrage der FDP-Fraktion vom 04.02.2014 - Gehälter der Geschäftsführer städtischer Beteiligungen - Entgegennahme ohne Beschluss
+- TOP 3.3: Auskunftsrechte von Ratsmitgliedern - vorläufiges Ergebnis der rechtlichen Prüfung - Entgegennahme ohne Beschluss
+- TOP 3.4: Antrag der FDP-Fraktion vom 05.02.2014 - Verwaltungsneubau der Wuppertaler Stadtwerke - vertagen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Finco-Bericht zum 31.12.2013 - Entgegennahme ohne Beschluss
+- TOP 5.2: Stand der Schulden und Kassenkredite zum 31.12.2013 - Entgegennahme ohne Beschluss
+- TOP 5.3: Externe Einstellungen im Zeitraum Januar bis Dezember 2013 - Entgegennahme ohne Beschluss
+- TOP 5.4: Umsetzung des Haushaltssicherungskonzeptes 2010-2014 - Zielerreichung 2013 - Entgegennahme ohne Beschluss
+- TOP 5.5: Beteiligung an der NRW-Städteanleihe - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Soziale Stadt - Perspektiven ab 2016 - ungeändert beschlossen
+- TOP 7.2: Eckpunkte des Regionalen Strukturprogramms für die Förderperiode 2014 - 2020 - ungeändert beschlossen
+- TOP 7.3: Beteiligung der Bürgerinnen und Bürger in Wuppertal - ungeändert beschlossen
+- TOP 7.4: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 03.12.2013 - Leitfaden kommunale Bürgerbeteiligung - abgelehnt
+- TOP 7.5: Antrag zur Vorlage der Verwaltung zur Bürgerbeteiligung, VO/0113/14 und zum Antrag VO/1197/13 - ungeändert beschlossen
+- TOP 7.6: Digitaler Gremiendienst - ungeändert beschlossen
+- TOP 7.7: Neuregelung der Projektleitung im Projekt Döppersberg - ungeändert beschlossen
+- TOP 7.8: Private Investitionen im Rahmen der Neugestaltung Wuppertal Döppersberg - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH / KIJU / WAW
+- TOP 9: Alten- und Altenpflegeheime
+- TOP 10: Berichte und Mitteilungen
+- TOP 11: Kinder- und Jugendwohngruppen
+- TOP 12: Berichte und Mitteilungen
+- TOP 13: Wasser und Abwasser
+- TOP 13.1: Wirtschaftsplan 2014 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
