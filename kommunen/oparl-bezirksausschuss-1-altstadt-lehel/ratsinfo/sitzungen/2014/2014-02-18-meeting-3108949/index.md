@@ -1,0 +1,107 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-02-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3108949
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3108949
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Denkmalschutz für Anwesen Müllerstraße 2
+- TOP 2: (E) Vorgehen gegen Beherberbungsbetrieb Sattlerstraße 1 (Ziffer 2) Empfehlung Nr. 08-14 / E 02136 .................
+- TOP 2.3.1: Bauvorhaben
+- TOP 2.1.: Maximilianstraße 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro-, Wohn- und Geschäftshaus, vertagt aus 2013.12 B 3.1.1 (Antragsteller in den UA eingeladen, siehe auch B 4.10!)
+- TOP 2.2.: Sendlinger Straße 13, Umbau eines Wohn- und Geschäftshauses
+- TOP 2.3.: Lerchenfeldstr. 2, Generalsanierung und Erweiterung der Archäologischen Staatssammlung (siehe auch Baumfällung TOP D.3.1)
+- TOP 2.4.: Maffeistr. 3a, Errichtung einer Freischankfläche (196,72 m² / 134 Sitzplätze), vertagt aus 2013.12 B 3.1.9 und 2014.01 B 3.1.5
+- TOP 2.5.: Maximilianstr. 35, Aufstockung eines Bürogebäudes (Wohnnutzung) ? Vorbescheid, vertagt aus 2014.01 B 3.1.12 (Antragsteller in den UA eingeladen)
+- TOP 2.6.: Lenbachpl., Errichtung einer Plakatwand als Kunstobjekt im öffentlichen Raum, vertagt aus 2014.01 B 3.1.8, siehe auch E 3.1
+- TOP 2.7.: Knöbelstr. 34, Vordergebäude: DG-Aufstockung (GK 5); Rückgebäude: Sanierung und Nutzungsänderung 3er WE zu 1WE (GK2)
+- TOP 2.8.: Schäfflerstr. 3, DG-Umbau und -Erweiterung
+- TOP 2.9.: Ledererstr. 21, DG-Umbau, Anbau Wintergarten, Vergrößerung der Dachterrasse
+- TOP 2.10.: Hotterstr. 10-12, Umbau eines ehem. Hochbunkers und Neubau eines Wohngebäudes mit Tiefgarage ? Vorbescheid (2 Varianten) (siehe auch Baumfällung TOP D.3.4)
+- TOP 2.11.: Oberanger 16, Neubau eines Büro- und Geschäftshauses - Tektur
+- TOP 2.1.: Abbruch und Neubau / Sanierung eines Wohn- und Geschäftsgebäudes auf dem stadteigenen Grundstück Müllerstr. 2 ? 6, Ergebnis der Variantenuntersuchung und weiteres Vorgehen; Anhörung zur Sitzungsvorlage für den Kommunalausschuss am 06.02.2014
+- TOP 2.2.1: Gaststätten
+- TOP 2.2.2: Sondernutzungen
+- TOP 2.1.: Sendlinger Straße, Fußgängerzone: 1. Evaluierung Freischankflächengestaltung etc. 2. Turnusplatz für Obst- / Gemüse-Verkauf 3. Turnusplatz für Werbeverkauf (vertagt aus 2013.12 D 2.2 und 2013.01 C 2.2.1)
+- TOP 2.2.: Rosental 1, ?Grandios?, Aufstellung von drei Warenstellagen
+- TOP 2.3.: Rindermarkt 21, ?Holzschnitzereien, Antiquitäten?, Aufstellung einer Warenstellage
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: St. Patrick's Day Parade, 17.03.2013, u.a. Odeonsplatz
+- TOP 2.1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung, Anhörung des Kreisverwaltungsreferates, vertagt aus 2014.01 C 3.2.1
+- TOP 2.1.: Tram-Baumaßnahme Maxmonument / Thierschstr., Vorstellung der Planungen durch Vertreter der MVG im Unterausschuss
+- TOP 2.2.: Bauvorhaben Pestalozzistr. 2, Vorstellung der Planungen durch Vertreter des Referates für Stadtplanung und Bauordnung im Unterausschuss
+- TOP 2.1.: Bürgeranliegen: Förderung von Gemeinschaftsnutzgärten (siehe auch D 4.9, D 4.10)
+- TOP 2.2.: Bürgeranliegen: Verkehr im Hofgraben und in der Sparkassenstraße
+- TOP 2.3.: Bürgeranliegen: Verkehrssituation im Tal
+- TOP 2.4.: Bürgeranliegen: Radverkehr an der Isar
+- TOP 1: (E) Befahren der Fußgängerzone durch Taxis mit schwerbehinderten Fahrgästen erlauben Empfehlung Nr. 08-14 / E 02140 der Bürgerver- sammlung des 1. Stadtbezirkes Altstadt-Lehel am 05.12.2013
+- TOP 1.1.: Lerchenfeldstr. 2, Antrag auf Baumfällung (siehe auch Bauvorhaben TOP B.3.1.3)
+- TOP 1.2.: Erinnerungsverfahren: Fahrbahnsanierung der Herzogspitalstr. zwischen Eisenmannstr. und Herzog-Wilhelm-Str.
+- TOP 1.3.: Erinnerungsverfahren: Fahrbahnsanierung Altheimer Eck zwischen Eisenmannstr. und Hotterstr.
+- TOP 1.4.: Hotterstr. 10-12, Antrag auf Baumfällung (siehe auch Bauvorhaben TOP B.3.1.10)
+- TOP 1.5.: Eingeschränktes Haltverbot in der Paradiesstr. vor dem Anwesen Lerchenfeldstr. 10
+- TOP 1.1.: Vorstellung des neuen Bauprojekts ?Höllentalangerhütte? am Haus des Alpinismus (Praterinsel 5) durch Vertreter des Deutschen Alpenvereins im Unterausschuss
+- TOP 1.1.: (E) Budget der Bezirksausschüsse St.Anna-Heim im Lehel e.V. Anschaffung von Spielgeräten
+- TOP 1.1.: Bauvorhaben Lenbachpl., Errichtung einer Plakatwand als Kunstobjekt im öffentlichen Raum, siehe B 3.1.6
+- TOP 1.2.: Tag des offenen Denkmals
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen; Sitzungsvorlage Nr.: 08-14 / V 13728 Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bauvorhaben Hackenstr. 6, Vorbescheid der Lokalbaukommission zur Kenntnis
+- TOP 0.3.: BV-Anfrage Nr. 08-14 / Q 00566 aus der Bürgerversammlung vom 05.12.2013, Bau der geplanten Tiefgarage unter dem Thomas-Wimmer-Ring: Zufahrtswege der Baufahrzeuge und Lärm- und Staubbelastung der Anwohner beim Projekt Hilde, Antwortschreiben der Lokalbaukommission
+- TOP 0.4.: Informationen zu den Untersuchungen an den ?Uferbefestigungen an der Isar?, Schreiben des Baureferates
+- TOP 0.5.: Aufstellung von 170 beleuchteten City-Light-Säulen (davon 4 im 1. Stadtbezirk) für wechselnde Produktwerbung, Abdruck der Baugenehmigung
+- TOP 0.6.: Energiekonzepte für neue Baugebiete, Beschlussvorlage für die Vollversammlung des Stadtrates am 22.01.2014, Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 0.7.: Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität zwischen Veterinärstraße, Königinstraße und Englischem Garten; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014, Sitzungsvorlage Nr. 08-14 / V 13835
+- TOP 0.8.: Generalinstandsetzung und Erweiterung des Staatl. Wilhelmsgymnasiums in der Thierschstr. 46, Ergänzung vom 27.01.2014 zum Beschluss des Ausschuss für Bildung und Sport am 29.01.2014; Sitzungsvorlage Nr. 08-14 / V 13857
+- TOP 0.9.: Energiekonzepte für neue Baugebiete, Neufassung vom 16.01.2013, Beschluss der Vollversammlung des Stadtrates vom 22.01.2014, Sitzungsvorlage Nr. 08-14 / V 13147
+- TOP 0.10.: Bauvorhaben Maximilianstr. 2-6, Schreiben der Lokalbaukommission und Abdruck der Baugenehmigung, siehe auch B 3.1.1
+- TOP 0.11.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- und stadtviertelbezogenen Planungswettbewerben; Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 15.01.2014, Sitzungsvorlage Nr. 08-14 / V 13587
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Kunst im öffentlichen Raum, MOBI-Projekt, 07.05.-18.05.2014, verschiedene Orte
+- TOP 0.6.: Tanz der Marktfrauen und Faschingstreiben, 04.03.2014, Viktualienmarkt
+- TOP 0.7.: Kunst im öffentlichen Raum, ?Anonym?, Platz vor der Feldherrenhalle im Juli 2014
+- TOP 0.8.: Warenverkauf zugunsten wohltätiger Zwecke im Tal (siehe Protokoll 2014.01 A.3.3.)
+- TOP 0.9.: Kunst im öffentlichen Raum, ?Big Boy Toy?, 13.03.-11.04.2014, Maximilianstraße 42
+- TOP 0.10.: Wahlkampfveranstaltung der SPD, 08.03.2014, Richard-Strauß-Brunnen, Eilentscheidung des Vorsitzenden
+- TOP 0.11.: Kunst im öffentlichen Raum ?Kraterfeld?, von 2014 bis 2018, Marienhof
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Kurzparkregelung Maximilianstraße - Schulbushaltestelle an der Herrenstraße ? Verlängerung und Änderung des Zeitzusatzes
+- TOP 0.2.: Beschleunigung beschleunigen, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013, Sitzungsvorlage Nr. 08-14 / V 12959
+- TOP 0.3.: Rückbau von zwei Abbiegespuren in der Oettingen- und Sternstraße, BV-Empfehlung Nr. 08-14 / E 02122 vom 05.12.2013, Zwischennachricht des Baureferates
+- TOP 0.4.: Leinenpflicht rund um das temporäre Kindergartengrundstück ?Am Gries? (Ziffer 1), BA-Antrag Nr. 08-14 / B 05378 v. 19.11.2013, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.5.: Bachauskehrtermine 2014, Information des Baureferates
+- TOP 0.6.: Widmung einer Teilstrecke der Alfons-Goppel-Straße und einer Teilstrecke der Hofgartenstraße, Vollzug des BayStrWG, Sitzungsvorlage Nr. 08-14 / V 13457
+- TOP 0.7.: Flächenhaften Naturschutz in der Verwaltung stärken, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014, Sitzungsvorlage Nr. 08-14 / V 13906
+- TOP 0.8.: Vollzug der Baumschutzverordnung, Franz-Josef-Strauß-Ring
+- TOP 0.9.: Landwirtschaft auf Dächern in der Stadt; Sitzungsvorlage Nr.: 08-14 / V 13875 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014,
+- TOP 0.10.: Urbanes Gärtnern in München ? Analyse und Grundsatzbeschluss Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014, Sitzungsvorlage Nr. 08-14 / V 13752
+- TOP 0.11.: Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum, Zwischenstand der Bearbeitung und weiteres Vorgehen, Sitzungsvorlage Nr. 08-14 / V 13908 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014
+- TOP 0.12.: Grundsatzbeschluss zum Farradvermietsystem ?MVG Rad?; Beschluss des Ausschusses für Arbeit und Wirtschaft vom 04.02.2014, Sitzungsvorlage Nr. 08-14 / V 13949
+- TOP 0.13.: Stadttauben; Beschluss des Umweltausschusses vom 25.02.2014, Sitzungsvorlage Nr. 08-14 / V 13973 incl. der Bürgerversammlungsempfehlung 08-14 / E 00792 ? Verbot der Taubenfütterung
+- TOP 0.14.: Erinnerungsverfahren: Fahrbahnsanierung der Widenmayerstraße zwischen Rosenbuschstraße und Haus-Nr. 45
+- TOP 0.15.: Durchführung einer Verkehrszählung am Isartorplatz, BA-Antrag Nr. 08-14 / B 05433 vom 10.12.2013, Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 0.1.: Schüler- und Klassenzahlen, Bekanntgabe im Ausschuss für Bildung und Sport am 29.01.2014 - an den städtischen Realschulen (Sitzungsvorlage Nr. 08-14 / V 13813) - an den Gymnasien und Schulen 2. Bildungsweg (Sitzungsvorlage Nr. 08-14 / V 13781) - an den Grund-, Mittel- und Förderschulen (Sitzungsvorlage Nr. 08-14 / V 13763) - an den Beruflichen Schulen (Sitzungsvorlage Nr. 08-14 / V 13754)
+- TOP 0.2.: Runder Tisch zur Armutsauswanderung aus EU-Ländern (Südosteuropa); Beschluss des Kinder- und Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung und Sport, des Ausschusses für Arbeit und Wirtschaft, des Kreisverwaltungs-ausschusses und des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.2014; Sitzungsvorlage Nr. 08-14 / V 13716
+- TOP 0.3.: Information zur Auswahl der REGSAM-Schwerpunktgebiete 2014
+- TOP 0.4.: Unterführung Maximilianstraße / Karl-Scharnagl-Ring - ?Maximiliansforum?, Regelungen zur Übergabe des unterirdischen Bauwerks an das Kommunalreferat
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 2.3.2: Sonstige
