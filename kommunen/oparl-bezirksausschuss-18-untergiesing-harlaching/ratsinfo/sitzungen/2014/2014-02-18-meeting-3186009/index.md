@@ -1,0 +1,147 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-02-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186009
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186009
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Rahmenplanung TeLA - Begrünung der Tegernseer Landstraße
+- TOP 1.2.: Tempo 30 für den Bereich Deisenhofener Straße, Werinherstraße, Heimgarten- und Herzogstandstraße, Eintracht- und Schlierseestraße
+- TOP 1.3.: Rahmenplanung TeLA - Untersuchung der Auswirkungen für die Martin-Luther-Straße durch Ausweichverkehr
+- TOP 1.4.: Brücke über den Giesinger Berg für Fußgänger, Radfahrer und Menschen mit Mobilitätseinschränkung
+- TOP 1.5.: Ampel in Höhe der Aignerstraße zur Verbesserung der Schulwegsicherheit
+- TOP 1.6.: Rahmenplanung TeLa - Realisierung der Variante 1
+- TOP 1.7.: Rahmenplanung TeLA - Einbau von Schallschutzfenstern
+- TOP 1.8.: Verkehrsberuhigung der Aignerstraße zwischen Gietlstraße und Ichostraße
+- TOP 1.9.: Tempo 30 in der Silberhornstraße und Ichostraße
+- TOP 1.10.: Lärmschutzmaßnahmen für die Martin-Luther-Straße
+- TOP 1.11.: Giesinger Berg - oberiridische Querung statt unterirdischer
+- TOP 1.12.: Parkplatznot in der Aignerstraße - Abbau von Haltverbotsschildern
+- TOP 1.13.: Lieferverkehr für Gewerbetreibende der Tegernseer Landstraße ermöglichen
+- TOP 1.14.: 1.4.15 Mehr Fahrrad-Abstellmöglichkeiten, nicht nur an Tram- und U-Bahnstationen
+- TOP 1.15.: 1.4.16Verbesserung der Querungsmöglichkeiten über die Tegernseer Landstraße
+- TOP 1.16.: 1.4.17 zukünftige Verkehrsführung: weniger Durchgangsverkehr, mehr Zielverkehr für die Tegernseer Landstraße
+- TOP 1.17.: 1.4.18 Koordination von Baustellen - Erhalt des Zugangs zu Geschäften
+- TOP 1.18.: zu 1.4.4 Wegenetz Giesing: Maßnahmen zeitnah umsetzen; Antrag der Fraktion Bündnis 90/Die Grünen vom 11.01.2014 - <div>nach Antrag</div>
+- TOP 1.19.: 1.4.14 Erhalt von Kurzzeit-Parkmöglichkeiten
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Beschilderung der Flaucherbrücke für Fußgänger und Radfahrer; Bürgerschreiben vom 22.01.2014
+- TOP 2.2.: Vermüllung rund um den Wettersteinplatz; Reinigung der Wege; Bürgerschreiben vom 18.01.2014
+- TOP 2.3.: Wohnanlage Hochkalterstraße 2 - 14; Bürgerschreiben vom 28.01.2014
+- TOP 2.4.: Ampel Theodolindenstraße 97 / Ecke Seybothstraße; Bürgerschreiben vom 28.12.2013
+- TOP 2.5.: Bauvorhaben Geiselgasteigstr. 114d - Überprüfung der Rechtmäßigkeit; Bürgerschreiben vom 03.02.2014
+- TOP 2.6.: Rosengarten - Verschmutzung durch Hunde, Verbesserung der Situation; Bürgerschreiben vom 04.02.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bürgervereinigung Maibaum ? Untergiesing e.V. Maibaumaufstellung am 01.05.2014 am Hans-Mielich-Platz
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Sachbericht "Münchner Frühling" des Theaters Stückwerk e.V.
+- TOP 3.3.2: UA Verkehr
+- TOP 1: (E) Bahnunterführung Sachsenstraße ? Verbreiterung des Fußwegs Empfehlung Nr. 08-14 / E 02071 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 14.11.2013
+- TOP 1.1.: Isarauen schützen - Ausweichroute für Mountainbiker schaffen; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 1.1.: Erinnerungsverfahren des Baureferats mit der Bitte um Stellungnahme 3.2.4.1.1 Lindenstraße 30, 34 und 38; Sanierung Gehbahn und Bauschaden 3.2.4.1.2 Tegelbergstr. zwischen Naupliastr. u. Am Perlacher Forst; Deckensanierung 3.2.4.1.3 Autharistr. zwischen Bruggspergerstr. u. Seybothstraße; Deckensanierung 3.2.4.1.4 Gabriel-Max-Str. zwischen Geiselgasteigstraße u. Defreggerstraße; Deckensanierung
+- TOP 1.2.: Lichtzeichenanlagen-Bauprogramm 2014; Zuleitung des KVR vom 07.01.2014 mit der Bitte um Stellungnahme bis 24.02.2014
+- TOP 1.3.: Maßnahmen zur Verringerung des Schienenverkehrslärms im Bereich des Dreimühlenviertels; Beschlussvorlage für den Umweltschutzausschuss; Lärmschutzmaßnahmen für die Braunauer Eisenbahnbrücke; BA-Antrag Nr. 087-14 / B 04938 vom 18.06.13 und Lärmschutz vor Bahnverkehr - Prüfung der Einhausung der Bahnstrecke - BA-Antrag Nr. 08-14 / B 04939 vom 18.06.13; Zuleitung des RGU vom 28.01.14 mit der Bitte um Stellungnahme
+- TOP 1.1.: Verkehrssicherheit in der Unterführung Sachstenstraße/Teutoburger Straße; BA-Antrag Nr. 08-14 / B 05457 vom 17.12.13; Antwortschreiben des AWM vom 22.01.13 (negative Erledigung)
+- TOP 1.1.: Haltverbote im Bereich der Bushaltestellen Autharistraße in der Seybothstraße; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 1.2.: Aufhebung der Radwegbenutzungspflicht und Auflassung des Radwegs im Schilcherweg; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 1.3.: Änderung der Radverkehrsführung in der Tierparkstraße und auf der Thalkirchner Brücke; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 1.4.: Handlungsprogramm Mittlerer Ring - Bericht über Ergebnisse der Machbarkeitsuntersuchungen zu baulichen Maßnahmenkonzepten zur Verbesserung der Lärm- und Luftschadstoffsituation an der Landshuter Allee und Tegernseer Landstraße - weiteres Vorgehen; Sitzungsvorlagen Nr. 08-14 / V 13576; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 29.01.2014 (VB)
+- TOP 1.5.: Handlungsprogramm Mittlerer Ring; Sachstand und weiterer Handlungsbedarf; Sitzungsvorlagen Nr. 08-14 / V 10707; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 29.01.2014 (VB)
+- TOP 1.6.: Beschleunigung beschleunigen; Antrag Nr. 08-14 / A 02663 der Stadtratsfraktion DIE GRÜNEN/RL und der SPD vom 27.07.2011; Sitzungsvorlagen Nr. 08-14/V 12959; Beschluss der Vollversammlung des Stadtrates am 18.12.2013
+- TOP 1.7.: Grundsatzbeschluss zum Fahrradvermietsystem "MVG Rad", Radlhauptstadt 2.0; VI: Alles aus einer Hand - Das Fahrrad ins Mobilitätspaket! Antrag Nr. 4235 der Stadtratsfraktion Die Grünen/Rosa Liste vom 07.05.2013 (hier nur Ziffer 2); Sitzungsvorlagen Nr. 08-14 / V 13949; Beschluss des Ausschusses für Arbeit und Wirtschaft am 04.02.2014 (SB)
+- TOP 1.8.: Bozzarisstraße; Einrichtung eines absoluten Haltverbots; verkehrsrechtliche AO nach § 45 StVO; Mitteilung des KVR
+- TOP 1.3.3: UA Umwelt
+- TOP 1: (E) Wettersteinplatz und Unterführung Otkerstraße - häufigere und bessere Reinigung durch die LHM Empfehlung Nr. 08-14 / E 02083 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 14.11.2013
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Urbanes Gärtnern in München; Analyse und Grundsatzbeschluss a) Urbanes Gärtnern b) Behandlung der Anträge / der Empfehlung 1. Mehr Kleingartenanlagen für die Münchner Bevölkerung; Antrag Nr. 08-14 / A 02709 vom 10.08.11 2. Prinzessinengarten für München; Antrag Nr. 08-14 / A 02753 vom 08.09.11 3. München braucht mehr Kleingartenanlagen; Antrag Nr. 08-14 / A 03423 vom 28.06.12 4. Neue Flächen für Kleingartenanlagen; Antrag Nr. 08-14 / A 03513 vom 17.07.12 5. Kleingartenanlage im Grünzug Grünes Band Ost prüfen; Antrag Nr. 08-14 / A 03706 vom 11.10.12 6. Kleingartenanlage SW 52 an der Wilhelm-Riehl-Str. 50 als Daueranlage widmen; Antrag Nr. 08-14 / A 04245 vom 14.05.13 7. Gemeinschaftsgärten im 6. Stadtbezirk; Empfehlung Nr. 08-14 / E 01984 vom 15.10.13; Sitzungsvorlagen Nr. 08-14 / V 13752; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 29.01.2014 (VB)
+- TOP 1.3.: Vollzug der Wassergesetze; Bachräumungstermine 2014 für die Stadt- bzw. Stadtrandbäche; Mitteilung des Baureferats vom 15.01.2014
+- TOP 1.4.: Flächenhaften Naturschutz in der Verwaltung stärken! Antrag Nr. 08-14 / A 04569 der Stadtratsfraktion DIE GRÜNEN / Rosa Liste vom 13.08.2013; Sitzungsvorlagen Nr. 08-14 / V 13906; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 29.01.2014 (VB)
+- TOP 1.5.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.5.1 Waldeckstr. 40 - 62; Ablehnungsbescheid vom 07.01.2014 3.3.6.5.2 Gabriel-Max-Str. 4; Bescheid vom 30.01.2014 3.3.6.5.3 Konradinstr. 18; Ablehnungsbescheid vom 31.01.2014
+- TOP 1.6.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen / Rosa Liste vom 07.06.2013; Sitzungsvorlage Nr. 08-14 / V 13354; Beschluss des Bauausschusses vom 04.02.2014 (SB) - ERGÄNZENDE VORLAGE
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa); Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? Antrag Nr. 08-14 / A 03767 vom 30.10.12 Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa); Antrag Nr. 08-14 / A 04260 vom 16.05.13; Sitzungsvorlage Nr. 08-14 / V 13716; Beschluss des Kinder- u. Jugendhilfeausschusses, des Sozialausschusses, des Ausschusses für Bildung u. Sport, des Ausschusses für Arbeit u. Wirtschaft, des Kreisverwaltungsausschusses u. des Gesundheitsausschusses in der gemeinsamen Sitzung vom 28.01.2014 (VB)
+- TOP 1.2.: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014; Schreiben des Sozialreferats vom 28.01.2014
+- TOP 1.3.: Schüler- u. Klassenzahlen an den städt. Realschulen, den staatlichen Realschulen u. der Städt. Franz-Auweck-Abendschule; Schuljahr 2013/2014; Sitzungsvorlage Nr. 08-14 / V 13813; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 29.01.2014
+- TOP 1.4.: Schüler/innen und Klassenstand; Berufliche Schulen der LHM im Schuljahr 2013/2014; Stand: 20.10.2013; Sitzungsvorlage Nr. 08-14 / V 13754; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 29.01.2014
+- TOP 1.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013/2014; Sitzungsvorlage Nr. 08-14 / V 13763; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 29.01.2014
+- TOP 1.6.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2013/2014; Sitzungsvorlage Nr. 08-14 / V 13781; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 29.01.2014
+- TOP 1.7.: Infrastruktur Sport in München - Rückblick 2013 und Ausblick 2014; Neubau des Kunstrasenplatzes sofort beginnen; Stadtratsantrag Nr. 08-14 / A 04342 vom 18.06.2013; Sitzungsvorlage Nr. 08-14 / V 13230; Beschluss des Ausschusses für Bildung u. Sport des Stadtrats vom 04.12.2013 (SB)
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Entwicklung der GFZ in Harlaching in den letzten zehn Jahren - <div>nach Antrag</div>
+- TOP 1.2.: Machbarkeitsprüfung durch die LHM zum Bau einer Mehrzweckturnhalle auf dem Parkplatz Klausener Bad - <div>vertagt</div>
+- TOP 1.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick; Empfehlungen Nr. 08-14 / E 01158 und E 01159 der BÜV des Stadtbezirkes 18 vom 10.11.2011; Empfehlungen Nr. 08-14 / E 01553, E 01554, E 01555 und E 01557 der BÜV des Stadtbezirkes 18 vom 08.11.2012; Entwurf der Vorlage für den Ausschuss für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme bis 21.02.2014
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Griechenplatz 20, Neubau eines Doppelhauses mit zwei Einzelgaragen; Anhörung vom 28.01.2014
+- TOP 1.2.: Saleggstraße 21, DG-Ausbau und Neubau eines Außenaufzugs - TEKTUR zu 1.2-2011-12852-33; Anhörung vom 28.01.2014
+- TOP 1.3.: Gindelalmstraße 5, Neubau eines Mehrfamilienhauses (6 WE) mit TG - VORBESCHEID; Anhörung vom 28.01.2014
+- TOP 1.4.: Maukestraße 3, Neubau eines Mehrfamilienhauses (9 WE) mit TG; Anhörung vom 23.01.2014
+- TOP 1.5.: Bozzarisstraße 31, Neubau 2er Mehrfamilienhäuser mit Tiefgarage und Pkw-Aufzug; Anhörung vom 28.01.2014 (siehe auch TOP 3.5.4.2.1)
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Bozzarisstraße 31; Anhörung vom 24.01.2014 (siehe auch TOP 3.5.4.1.5)
+- TOP 1.2.: Maukestraße 3; Anhörung vom 28.01.2014 (siehe auch TOP 3.5.4.1.4)
+- TOP 1.3.: Mangfallstr. 2; Anhörung vom 30.01.2014
+- TOP 1.4.: Alois-Wohlmuth-Str. 21; Anhörung vom 31.01.2014
+- TOP 1.1.: Tischtennisplatten am Hans-Mielich-Platz; BA-Antrag Nr. 08-14 / B 05459 vom 17.12.13; Antwortschreiben des Baureferats vom 22.01.2014 mit Übersichtsplan zu neuem Standortvorschlag (Areal des Fitnessparcours in den Isarauen)
+- TOP 1.2.: Wiederaufnahme der Planungen und Schaffung eines Festbaus für den Kindergarten St. Franziskus auf dem Grundstück an der Claude-Lorrain-Straße des Baureferats-Gartenbau; Antwortschreiben des RBS vom 17.01.2014 (negative Erledigung)
+- TOP 1.3.: BV Stilfser-Joch-Straße 3, Fl.Nr. 13025/17, Gemarkung Sektion VII, Anbau eines Außenaufzugs an ein Reiheneckhaus; Anforderung des BA 18 vom 22.01.2014; Übermittlung der Baugenehmigung mit Schreiben der Lbk vom 29.01.2014
+- TOP 1.4.: Mangfallplatz 6, Fl.Nr. 12887/199, Gemarkung Sektion VII, Umbau u. Teilaufstockung; Anforderung des BA 18 vom 22.01.14; Baugenehmigung der Lbk vom 29.01.2014
+- TOP 1.5.: Denkmalschutzliste für den 18. Stadtbezirk; Schreiben des BA 18 vom 08.01.2014; Antwortschreiben der Unteren Denkmalschutzbehörde vom 03.02.2014 (negative Erledigung)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Soziale Stadt 2013 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt A) Fortschreibung der Integrierten Handlungskonzepte B) Lenkungsgruppe Stadtsanierung C) Städtebauförderung Sitzungsvorlagen Nr. 08-14 / V 12683; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 29.01.2014 (VB) zu 3.5.6.2 Hinweis/Ergänzung vom 27.01.2014
+- TOP 1.3.: Darstellung der Skateinfrastruktur in München; Antrag Nr. 08-14 / A 04674 vom 08.10.13; Sanierung von Skateflächen; Antrag Nr. 08-14 / A 04675 vom 08.10.13; Sitzungsvorlage Nr. 08-14 / V 13779; Beschluss des Bauausschusses vom 04.02.2014 (SB)
+- TOP 1.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 SSW "Limani", Rotdornstraße 2; Mitteilung vom 28.01.14
+- TOP 1.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.5.1 Anwesen Griechenstraße; Mitteilung vom 08.01.2014 3.5.6.5.2 Anwesen Oggersheimer Straße; Mitteilung vom 30.01.2014
+- TOP 1.6.: Bruckenfischer- / Stettnerstraße; Fußgängerüberführung über die Tegernseer Landstraße im 17. Stadtbezirk Obergiesing-Fasangarten und im 18. Stadtbezirk Untergiesing-Harlaching 1. Genehmigung der Bedarfsanmeldung 2. Untersuchungsauftrag Zuleitung des Baureferats-Ingenieurbau
+- TOP 1.7.: Energiekonzepte für neue Baugebiete a) Grundsätze zur Entwicklung von Energiekonzepten auf der Ebene von Stadtquartieren b) Behandlung des Antrages "Entwicklung von Energiekonzepten für Baugebiete"; Antrag Nr. 08-14 / A 03196 der Stadtratsfraktion DIE GRÜNEN / RL vom 22.03.2012; Sitzungsvorlagen Nr. 08-14 / V 13147; Hinweis/Ergänzung zum Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung u. Bauordnung u. des Umweltschutzausschusses vom 15.01.2014 (VB) zu TOP 3.5.6.7 Neufassung vom 16.01.2014; Beschluss der Vollversammlung des Stadtrates vom 22.01.2014
+- TOP 1.8.: Aufstellung von 170 City-Light-Säulen (beleuchtet) für wechselnde Produktwerbung; Standortliste gemäß Werbenutzungsvertrag vom 28.11.2013; Baugenehmigung nach Art. 59 und Art. 68 BayBO im vereinfachten Genehmigungsverfahren (Werbeanlage) mit aufschiebender Bedingung; Zuleitung des Referats für Stadtplanung und Bauordnung
+- TOP 1.1.: Neufassung der Sondernutzungsrichtlinien; Stellungnahme des BA 8 aus der Sitzung vom 14.01.2014 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 30.03.2014 (Ersatztermin: 06.04.2014) auf dem Hans-Mielich-Platz; Beschluss des BA 18 vom 18.02.2014
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen; BV-Empfehlung Nr. 08-14 / E 02024 der BÜV des Stadtbezirkes 07 vom 22.10.2013; Sitzungsvorlage Nr. 08-14 / V 13728; Beschluss des Verwaltungs- und Personalausschusses vom 15.01.2014 (SB)
+- TOP 4.2.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben; BA-Antrag Nr. 08-14 / B 04578 des BA 16 vom 05.02.2013; Sitzungsvorlage Nr. 08-14 / V 13578; Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 15.01.2014 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
