@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-02-21T16:00:00+01:00
+- Ende: 2014-02-21T17:30:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8931
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8931
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211124.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211124.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211124.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Abbruchantrag Gänsestraße 47 - Abbruch des Wohnhauses - einstimmig beschlossen
+- TOP 8: B-Plan 09/004 - Westlich Kappeler Straße - Aufstellung - mehrheitlich beschlossen
+- TOP 9: B-Plan 09/005 - Nördlich Henkelstraße - Änderung gem. § 13 BauGB, Stellungnahmen; Änderungen in rote - einstimmig beschlossen
+- TOP 10: Trödelmärkte auf dem Schützenplatz Benrath - Bayreuther Str. - mehrheitlich beschlossen
+- TOP 11: Anfrage: Wasseranschluss Benrather Markt - beantwortet
+- TOP 12: Anfrage: Wohnbaukonzept Hoxbachstraße/Forststraße/Am Wald - beantwortet
+- TOP 13: Anfrage: Fuß- und Radwegeverbindung Pauslmühle - Benrath Zentrum - beantwortet
+- TOP 14: Anfrage: Zukünftige Nutzung Gelände nördlich Pauslmühlenstraße - beantwortet
+- TOP 15: Anfrage: Joggingstrecken im Stadtbezirk 9 - beantwortet
+- TOP 16: Anfrage: Neuer Eigentümer der Wohnanlage in Hassels-Nord - beantwortet
+- TOP 17: Anfrage: Parkplatzsituation "Rund um das Benrather Krankenhaus" - beantwortet
+- TOP 18: Anfrage: Sporthallenbedarf im Stadtbezirk 09 - vertagt
+- TOP 19: Anfrage: Radschnellwege - beantwortet
+- TOP 20: Anfrage: Sanierung Grundschule Himmelgeist - beantwortet
+- TOP 21: Anfrage: Straßenbeleuchtung in Himmelgeist - beantwortet
+- TOP 22: Anfrage: Erneuerung der Straßenbeleuchtung Nosthoffenstraße - beantwortet
+- TOP 23: Anfrage: Grundstück/Grünfläche Hügelstr. 70-76 - vertagt
+- TOP 24: Anfrage: "1000 Bänke für Düsseldorf" - vertagt
+- TOP 25: Anfrage: Lichtmasterplan Teil 2 - vertagt
+- TOP 26: Anfrage: Fahrradboxen Kölner Landstraße - beantwortet
+- TOP 27: Antrag: Umlaufschranken zur Grünanlage "Am Scheitenweg" - einstimmig beschlossen
+- TOP 28: Antrag: Hochbahnsteig Holthausen für U74/U77 - einstimmig beschlossen
+- TOP 29: Antrag: Hochwassergefahren und Hochwasserrisiken im Stadtbezirk 09 - einstimmig beschlossen
+- TOP 30: Antrag: Aufstellung einer Sitzbank an der Bedarfshaltestelle der Rheinbahbn an der Urdenbacher Allee - zurückgezogen
+- TOP 31: Antrag: Aufstellung von Bänken und Wegsanierung - Benrather Schloßufer - einstimmig beschlossen
+- TOP 32: Antrag: Bereitstellung von zusätzlichen Parkflächen in Urdenbach - mehrheitlich beschlossen
+- TOP 33: Antrag: Wetterschutzhäuschen Haltestelle Corellistr. - einstimmig beschlossen
+- TOP 34: Antrag: Verkehrsspiegel Opladener Str. / Werstener Feld - einstimmig beschlossen
+- TOP 35: Antrag: Rotlichtüberwachungsanlagen mit Induktionsschleife am "Werstener Kreuz" - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Don Bosco Stiftung, Stadtteilkompass - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel St.-Elisabeth-Schule - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel Himmelgeist 1100 e.V., Himmelgeister Jüchtlauf 2014 - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel "Wir in Wersten", Osterfeuer - einstimmig beschlossen
+- TOP 40: Antrag: Verfügungsmittel "Wir in Wersten", Stadtteilrallye - einstimmig beschlossen
