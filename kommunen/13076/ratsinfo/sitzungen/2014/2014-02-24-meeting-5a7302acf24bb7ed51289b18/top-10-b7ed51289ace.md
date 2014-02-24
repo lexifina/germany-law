@@ -1,0 +1,6 @@
+# TOP 10: Vereinbarung zur Unterbringung von Berufsschülern an den Standorten Ludwigslust und Hagenow
+
+- Sitzung: Sitzung des Ausschusses für Bildung, Kultur und Sport (2014-02-24)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a7302abf24bb7ed51289ace
