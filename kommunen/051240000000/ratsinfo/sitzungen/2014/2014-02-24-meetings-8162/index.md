@@ -1,0 +1,89 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-02-24T14:05:00+01:00
+- Ende: 2014-02-24T14:25:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8162
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8162
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00166180.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00166680.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00166343.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Beschluss über die Verleihung einer Ehrenbezeichnung
+- TOP 1.2: Neufassung der Ehrenordnung und des Ehrenkodexes der Stadt Wuppertal - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Die Wählergemeinschaft für Wuppertal (WfW) hat folgende Fragen zur vorgeschlagenen Sperrung der B7 im Rahmen des Döppersberg-Umbaus
+- TOP 2.1.1: Sperrung der B7 - Anfrage der Wählergemeinschaft für Wuppertal (WfW) vom 15.01.2014
+- TOP 2.2: Hastener Straße 4-8
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 21.01.2014 - Hastener Str. 4-8
+- TOP 2.3: Kosten für die Kommunikationsstrategie Döppersberg-Umbau
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Mehr Frauen in die Gremien - abgelehnt
+- TOP 4.2: Kommunale Energiewende - abgelehnt
+- TOP 4.3: Fortführung der Finanzierung der Schulsozialarbeit an Wuppertaler Schulen bis zum Ende des Jahres 2014 - ungeändert beschlossen
+- TOP 4.4: Förderung des Ehrenamts in kommunalen Räten - abgelehnt
+- TOP 4.4.1: Förderung des Ehrenamtes in kommunalen Räten - abgelehnt
+- TOP 4.5: Mehr Freiheit wagen - zur Vorberatung verwiesen
+- TOP 4.6: Parkraumbewirtschaftung im Umfeld von Kliniken - abgelehnt
+- TOP 4.7: Konsequenzen des Freihandelsabkommens TTIP für Wuppertal - abgelehnt
+- TOP 4.8: Finanzielle und personelle Unterstützung durch den Bund bei der Provenienzforschung - Appell an die Bundesregierung - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Entgeltordnung des Von der Heydt-Museums - geändert beschlossen
+- TOP 6.2: Erste Satzung zur Änderung der Satzung des Beirates der Menschen mit Behinderung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Geschäftsordnung für die Gesundheits-, Alters- und Pflegekonferenz Wuppertal - ungeändert beschlossen
+- TOP 6.4: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 6.5: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen in Wuppertal Langerfeld - ungeändert beschlossen
+- TOP 6.6: Neufassung der Wahlordnung für die Wahl des Integrationsrates der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2014 des Eigenbetriebes Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan GMW 2014 - ungeändert beschlossen
+- TOP 8.4: Wahltermin des Betriebsausschusses GMW - ungeändert beschlossen
+- TOP 8.5: Neufassung des Gesellschaftsvertrages der Historische Stadthalle Wuppertal GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplanverfahren 1000 - Widukindstr.- - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1166 - Wilhelmstraße / Rommelspütt - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1175 - Gathe / Ludwigstraße / Markomannenstraße - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan 1137V - Hans-Böckler-Straße / Am Deckershäuschen - (mit Flächennutzungsplanberichtigung 26B) - Satzungsbeschluss- Bebauungsplan 677 - Am Deckershäuschen - - Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 654 - Otto-Hausmann-Ring - 1. Änderung - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 938 - Ronsdorfer Straße / Kronprinzenallee - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1177 -Schwarzbach / Hügelstraße- - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 1191 V- Kaiserstraße - - ungeändert beschlossen
+- TOP 9.9: Vorhabenbezogener Bebauungsplan 1136V - Dreigrenzen - - ungeändert beschlossen
+- TOP 9.9.1: Ansiedlung eines Möbelfachmarktes in Wuppertal - abgelehnt
+- TOP 9.10: Vorhabenbezogener Bebauungsplan 1107 V - Heidter Straße / Rädchen - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Umgestaltung Döppersberg
+- TOP 11.1.1: Private Investitionen im Rahmen der Neugestaltung Wuppertal Döppersberg - vertagt auf Rat
+- TOP 11.1.2: Neugestaltung Wuppertal Döppersberg - Beschleunigung des Bauablaufes durch Sperrung der B7 - vertagt auf Rat
+- TOP 11.1.2.1: Ergänzungsantrag zur Verwaltungsdrucksache VO/0175/14 – Neugestaltung Wuppertal Döppersberg – Beschleunigung des Bauablaufes durch Sperrung der B7 - vertagt auf Rat
+- TOP 11.1.2.2: Begleitantrag zu VO/0175/14 - B7 - Unterbrechungsfolgen so gering wie möglich halten
+- TOP 11.1.3: Neuregelung der Projektleitung im Projekt Döppersberg - vertagt auf Rat
+- TOP 11.2: Eckpunkte des Regionalen Strukturprogramms für die Förderperiode 2014 - 2020 - ungeändert beschlossen
+- TOP 11.2.1: Eckpunkte des Regionalen Strukturprogramms für die Förderperiode 2014 – 2020 - abgelehnt
+- TOP 11.3: Jahresarbeitsprogramm 2014 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 11.4: Digitaler Gremiendienst - ungeändert beschlossen
+- TOP 11.5: Beteiligung der Bürgerinnen und Bürger in Wuppertal - ungeändert beschlossen
+- TOP 11.5.1: Leitfaden kommunale Bürgerbeteiligung - abgelehnt
+- TOP 11.5.2: Antrag zur Vorlage der Verwaltung zur Bürgerbeteiligung, VO/0113/14 und zum Antrag VO/1197/13 - ungeändert beschlossen
+- TOP 11.6: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - ungeändert beschlossen
+- TOP 11.7: Soziale Stadt - Perspektiven ab 2016 - ungeändert beschlossen
+- TOP 11.8: Zusammenlegung und Umgestaltung der Anlagen für Kodiakbären und Wölfe; Annahme eines Geschenkes des Zoo-Vereins Wuppertal e. V. - ungeändert beschlossen
+- TOP 11.9: Erweiterung der städt. Tageseinrichtung für Kinder Flensburger Straße 39 um eine Gruppe durch Umbau der früheren Hausmeisterwohnung im Dachgeschoss - Dringlichkeitsentscheidung genehmigt
+- TOP 11.10: Neubau und Inbetriebnahme einer sechsgruppigen städtischen Tageseinrichtung für Kinder Kohlstr. 122 - Dringlichkeitsentscheidung genehmigt
+- TOP 11.11: Inbetriebnahme einer dreigruppigen städtischen Tageseinrichtung für Kinder Leibuschstr. 37 - ungeändert beschlossen
+- TOP 11.12: Schulentwicklungsplanung für die Förderschulen der Stadt Wuppertal 2010 - 2020, Teil 2 - Umsetzung der Verordnung über die Mindestgrößen der Förderschulen (Mindestgrößen VO) vom 16.03.2013 - ungeändert beschlossen
+- TOP 11.13: Restitution eines Kunstgegenstandes aus ehemals jüdischem Besitz - ungeändert beschlossen
+- TOP 11.14: Ergänzungsvorlage-Übertragung der Sammlung des Fuhlrott-Museums - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
