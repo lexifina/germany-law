@@ -1,0 +1,57 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-02-25T16:00:00+01:00
+- Ende: 2014-02-25T18:20:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8801
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8801
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211339.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211339.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211339.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 28.01.2014 - einstimmig beschlossen
+- TOP 2.1: Zulassung eines Vertreters des Jugendrates - einstimmig beschlossen
+- TOP 3: Masterplan Glasmacherviertel - zur Kenntnis genommen
+- TOP 3.1: Masterplan 2014 Glasmacherviertel - Verkehrslärm - mehrheitlich beschlossen
+- TOP 3.2: Freiflächen - einstimmig beschlossen
+- TOP 3.3: Bebauungsdichte - mehrheitlich beschlossen
+- TOP 4: Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 5: Plan 5976/025 - Glasmacherviertel - Überarbeitung Masterplan - einstimmig beschlossen
+- TOP 6: Präsentation der Kandidaten für die Wahl des Seniorenbeirates 2014 - zur Kenntnis genommen
+- TOP 6.1: Stadtentwicklungskonzept Düsseldorf 2025+ - zur Kenntnis genommen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2014) - einstimmig beschlossen
+- TOP 8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 9: Staufenplatz: Ersatzpflanzungen von 4 gefällten Bäumen - einstimmig beschlossen
+- TOP 10: Bürgerhaus Gerresheim (ehem. Pfarrhaus)
+- TOP 11: Herrichtung des Platzes vor dem ehem. Amtsgericht Heyestraße - einstimmig beschlossen
+- TOP 12: Sachstandsbericht Denkmalschutz Berg. Kaserne - einstimmig beschlossen
+- TOP 13: Platzbenennung Willi Wigold - einstimmig beschlossen
+- TOP 14: Bauarbeiten Glashüttenstraße - einstimmig beschlossen
+- TOP 15: Offener Bücherschrank Heyestraße - einstimmig beschlossen
+- TOP 16: Laternen an der Nördlichen Düssel parallel zur Zweibrückenstraße - mehrheitlich abgelehnt
+- TOP 17: Laternen, Parkanlage Otto-Götzen-Weg, Graf-Recke-Straße, Mörsenbroicher Weg - einstimmig beschlossen
+- TOP 18: Konfessionelle Grundschule für Schulstandort Diepenstraße - mehrheitlich abgelehnt
+- TOP 19: Sachstandsbericht Städtisches Grundstück (ehem. Glashütte Lager-61) - einstimmig beschlossen
+- TOP 20: Klimafolgen-Monitoring - zur Kenntnis genommen
+- TOP 21: Bushaltestelle Am Pesch/Schönaustraße der Linie 724 in Richtung Dreherstraße - zur Kenntnis genommen
+- TOP 22: Umbau Benderstraße - Telekommunikationsleitungen - zur Kenntnis genommen
+- TOP 23: Dreherstraße - zur Kenntnis genommen
+- TOP 24: Straßenreinigung - zur Kenntnis genommen
+- TOP 25: Verkehrssicherheit Bergische Landstraße (B7) im Abschnitt Höhe Araltankstelle bei Hubbelrath Dorf - zur Kenntnis genommen
+- TOP 26: Signalanlage Neunzigstraße/Ecke Benderstraße - zur Kenntnis genommen
+- TOP 27: Spielstraße Am Bügerhaus - zur Kenntnis genommen
+- TOP 28: Fußgängerüberweg Einmündung Märkische Straße/Dreherstraße - zur Kenntnis genommen
+- TOP 29: Ampelschaltung Dreher-/Schönaustraße - zur Kenntnis genommen
+- TOP 30: Aktion "Blitzmarathon" 04.06.2013 - zur Kenntnis genommen
+- TOP 31: Kostenloses Internet im Zentrum Gerresheims - zur Kenntnis genommen
+- TOP 32: Straßenbenennung Kurt-Burchardt-Weg - zur Kenntnis genommen
+- TOP 33: Parken II in Gerresheim: Wendeschleife Rheinbahn Heyestraße - zur Kenntnis genommen
+- TOP 34: Umbau Benderstraße - zur Kenntnis genommen
+- TOP 35: Umbau Benderstraße - zur Kenntnis genommen
