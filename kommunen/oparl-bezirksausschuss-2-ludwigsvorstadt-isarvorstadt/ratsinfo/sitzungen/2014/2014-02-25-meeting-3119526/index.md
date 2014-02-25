@@ -1,0 +1,65 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-02-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3119526
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3119526
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Stolpersteine in München auf öffentlichem Grund verlegen
+- TOP .2.: Stadtteilbibliothek im Arbeitsamt
+- TOP .3.: Zustellung von Päckchen und Paketen durch die Post
+- TOP .4.: Verhinderung der zweckfremden Nutzung von Eigentums- und Mietwohnungen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Landwehrstr. 75, Neubau eines Wohngebäudes mit MK-Nutzung ? Vorbescheid, vertagt aus 2014.01 B 3.1.18 (Eilentscheidung)
+- TOP .2.: Schillerstr. 23, Nutzungsänderung im 1.-4. OG und DG, vertagt aus 2014.01 B 3.1.19 (Eilentscheidung)
+- TOP .3.: Schillerstr. 38, Nutzungsänderung von Hausmeisterwohnung in Personalaufenthaltsräume (1. OG), von Lagerräumen in Büroräume (2. OG) sowie von Werkräumen in Schulungsräume (3. OG) ? Änderungsantrag, vertagt aus 2014.01 B 3.1.20 (Eilentscheidung)
+- TOP .4.: Ruppertstr. 5, Nutzungsänderung: Lager- und Verkaufshalle in eine Quranschule mit Seminar- und kulturellen Veranstaltungsräumen (max. befristet bis 31.10.2014) Tektur
+- TOP .5.: Landwehrstr. 79, Abbruch eines Bürogebäudes und einer Tiefgarage, Neubau eines Wohngebäudes mit Tiefgarage ? PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Klenzestr. 34-34b, Antrag auf Baumveränderung / Baumfällung
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Aufwertung des Baldeplatzes zu einem attraktiven und lebenswerten Stadtplatz mit Kinderspielplatz, BV-Empfehlung Nr. 08-14 / E 01585 vom 15.11.2012, Anhörung zu einem Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 08-14 / V 13921, vertagt aus 2014.01 B 3.3.1
+- TOP .2.: Fahrbahnsanierung Hackerbrücke, Erinnerungsverfahren
+- TOP .3.: Fahrbahnsanierung Kaiser-Ludwig-Platz, Herzog-Heinrich-Str., Erinnerungsverfahren
+- TOP .4.: Fahrbahnsanierung Wittelsbacherstr., Absenkungen Wittelsbacherbrücke, Erinnerungsverfahren
+- TOP .5.: Maßnahmen zur Verringerung des Schienenverkehrslärms im Bereich des Dreimühlenviertels, Anhörung des Referates für Gesundheit und Umwelt zu Beschlussvorlage für den Umweltausschuss am 25.03.2014
+- TOP .6.: Fahrbahnsanierung und Herstellung von Behindertenabsenkungen, Pestalozzistr. ab Müllerstr. bis Holzplatz, Erinnerungsverfahren
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .2.: Verkehrssituation am Baldeplatz, siehe auch C 5.1
+- TOP .3.: Bürgeranliegen: Förderung von Gemeinschaftsnutzgärten, vertagt aus 2014.01 B 5.3
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Rothmundstr. 5, ?Viva Maria?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Kapuzinerstr. 11, ?Bodystreet?, Aufstellung eines mobilen Fahrradständers
+- TOP .2.3: Sonstige Entscheidungen
+- TOP 1: (E) Fußweg entlang des Westermühlbachs zwischen Dreimühlenstraße und Holzstraße für Radfahrer freigeben Empfehlung Nr. 08-14 / E 02054 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt 07.11.2013
+- TOP 2: (E) Installation eines Abfallkorbes für Umverpackungen an einem Supermarkt in der Geyerstr. 48 Empfehlung Nr. 08-14 / E 02093 der Bürgerver- sammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt - am 07.11.2013
+- TOP 3: (E) Anpassung der Öffnungszeiten des Biergartens in der Kapuzinerstraße Empfehlung Nr. 08-14 / E 02064 der Bürgerver- sammlung des Stadtbezirkes 2 - Ludwigsvorstadt- Isarvorstadt - am 07.11.2013
+- TOP 3.1.: Vorprüfung der Strecke für 5. Münchner Radlnacht, 07.06.2014 (Eilentscheidung)
+- TOP 3.2.: Flohmarkt auf der Theresienwiese, 26.04.2014
+- TOP 3.3.: Isarspielnachmittage / Isarspielmeile, ab Mai 2014, Hochwasserbett an der Wittelsbacherbrücke
+- TOP 3.4.: REWE Family Fest, Theresienwiese, 05.07.2014
+- TOP 3.3.2: Verkehr
+- TOP 3.1.: Fortführung Fugensanierung Hauptbahnhof, Abschnitt Bayerstr., geplante Änderungen der Verkehrsführung, Vorstellung der Maßnahme durch die MVG im Unterausschuss
+- TOP 3.1.: Verkehrssituation am Baldeplatz, siehe auch B 5.2
+- TOP 3.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 3.2: Termine
+- TOP 3.1.: Unterausschuss ?Planen und Bauen? am Montag, den 10.03.2014 um 19.00 Uhr, in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Unterausschuss ?KVR? am Dienstag, den 11.03.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München Unterausschuss ?Kultur, Jugend, Soziales? am Mittwoch, den 12.03.2014 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Die Vorstandssitzung findet am 17.03.2014 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München statt. Die BA-Sitzung findet am Dienstag, den 25.03.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3.&nbsp;: Unterrichtungen
+- TOP 3.5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP 3.3: Veranstaltungen
