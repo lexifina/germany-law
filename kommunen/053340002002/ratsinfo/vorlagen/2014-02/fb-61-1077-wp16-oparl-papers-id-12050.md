@@ -1,0 +1,12 @@
+# Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2013hier: Alter Schlachthof, Endausbau
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/1077/WP16
+- Art: Entscheidungsvorlage
+- Datum: 2014-02-25
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=12050
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=12050
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2993 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=9
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2996 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2990 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
