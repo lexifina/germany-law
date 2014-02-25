@@ -1,0 +1,84 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-02-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3217919
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3217919
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung einer Teilstrecke der Gögginger Straße - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.2.1.: Einrichtung einer Fahrradstraße in der Hachinger-Bach-Straße zwischen St.-Michael-Str. und Großvenedigerstraße, Anhörung zu einer verkehrsrechtlichen Anhörung
+- TOP 3.1.2.2.: Verkehrsverträglichkeitsuntersuchung zur Einrichtung von Radverkehrsanlagen in der Rosenheimer Straße zwischen Orleansstraße und Rosenheimer Platz - Beurteilung mögl. Verkehrsverlagerungen im Falle einer Umsetzung der Radfahrstreifen-Konzeptvariante
+- TOP 3.1.2.3.: Einrichtung eines Fußgängerüberwegs an der St.-Veit-Straße in Höhe der Tramhaltestelle
+- TOP 3.1.2.4.: Wiedererrichtung des Fußgängerüberwegs in der Echardinger Straße
+- TOP 3.1.2.5.: Keine Durchfahrmöglichkeit von der Gögginger Straße zur Vinzenz-von-Paul-Straße - <div></div>
+- TOP 3.1.2.6.: Bauarbeiten in der Grafinger Straße zwischen Friedenstr. und Haager Straße
+- TOP 3.1.2.7.: Bauarbeiten in der Rosenheimer Straße in Höhe des Kustermannparks
+- TOP 3.1.2.8.: Bauarbeiten in der Aschheimer und Grafinger Straße
+- TOP 3.2.1.: Stadtteilwoche an der Festwiese St.-Veit-Straße vom 27.06. - 03.07.2014
+- TOP 3.2.2.: Straßenfest in der St.-Michael-Straße am 24.05.2014
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Neumarkter Straße 1
+- TOP 3.6.2.: Mutschellestraße 20
+- TOP 3.6.3.: Schildensteinstr. 2
+- TOP 3.6.4.: Inzeller Weg 4
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grafinger Str. 6 - Unveränderte Fortführung des Gaststättenbetriebs "Latinos"
+- TOP 4.1.1.3.: Soziale Stadt 2013 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt A) Fortschreibung der Integrierten Handlungskonzepte B) Lenkungsgruppe Stadtsanierung C) Städtebauförderung - Vorlagen-Nr. 08-14 / V 12683
+- TOP 4.1.1.4.: Energiekonzepte für neue Baugebiete - Hinweis/Ergänzung zu Vorlage 08-14 / V 13147
+- TOP 4.1.2.1.: Handlungsprogramm Mittlerer Ring Sachstand und weiterer Handlungsbedarf - V 10707
+- TOP 4.1.2.2.: Beschleunigung beschleunigen - Antrag Nr. 08-14 / A 02663 - Vorlage Nr. 08-14 / V 12959
+- TOP 4.1.2.3.: Grundsatzbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 4.1.2.4.: Thomas-Hauser-Straße - Haltverbot
+- TOP 4.1.3.1.: Aufwertung der städtischen Grünanlage an der Zehntfeldstraße (zwischen Kranzhorn- und Rofanstraße)
+- TOP 4.1.3.2.: Flächenhaften Naturschutz in der Verwaltung stärken! - Antrag Nr. 08-14 / A 04569 vom 13.08.2013 - Vorlagen-Nr. 08-14 / V 13906
+- TOP 4.1.3.3.: Landwirtschaft auf Dächern in der Stadt a) Landwirtschaft auf Dächern in der Stadt b) Behandlung des Antrags "Landwirtschaft auf den Großstadt-Dächern" Antrag Nr. 08-14 / A 03114 vom 14.02.2012 - Vorlagen-Nr. 08-14 / V 13875
+- TOP 4.1.3.4.: Urbanes Gärtnern in München Analyse und Grundsatzbeschluss a) Urbanes Gärtnern b) Behandlung der Anträge/ der Empfehlung - Vorlagen-Nr. 08-14 / V 13752
+- TOP 4.1.3.5.: Bachräumungstermine 2014 für die Stadt- bzw. Stadtrandbäche
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien, den Schulen des Zweiten Bildungsweges, den Schulen besonderer Art, den städtischen und staatlichen Realschulen, der städt. Franz-Auweck-Abendschule, der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2013 / 2014 - Vorlagen-Nrn. 08-14 / V 13763, 13813, 13781
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) - Antrag Nr. 08-14 / A 04260 - Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? - Antrag Nr. 08-14 / A 03767 - Vorlagen-Nr. 08-14 / V 13716
+- TOP 4.4.2.: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 4.5.1.: Wortmeldezettel für Bürgerversammlungen als ausfüllbare PDF-Datei im Internet zur Verfügung stellen - BV-Empfehlung Nr. 08-14 / E 02024 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark vom 22.10.2013 - Vorlagen-Nr. 08-14 / V 13728
+- TOP 4.5.2.: Tag des Offenen Denkmals 2013 - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
