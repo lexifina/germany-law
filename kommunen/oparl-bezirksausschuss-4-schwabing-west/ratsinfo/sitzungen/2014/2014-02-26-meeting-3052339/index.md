@@ -1,0 +1,60 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-02-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052339
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052339
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Kinderschutz e.V. Quartierbezogenes Hausaufgabenprojekt am Ackermannbogen von Mai bis Dezember 2014
+- TOP .1.: Fraktion Die Grünen: Verlegung von Stolpersteinen auf öffentlichem Grund
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Benefiz-Flohmärkte auf dem Elisabethplatz
+- TOP .2.: MobilSpielfest am 27.04.2014 im Luitpoldpark
+- TOP .1.: Bürgerin: Fehlender Staubschutz an der Baustelle Fallmerayer-/Destouchesstraße
+- TOP .2.1.: Planen
+- TOP .1.: Zentnerstr. 26: Dachgeschoss-Ausbau
+- TOP .2.: Herzogstr. 49: Neubau eines Wohnhauses mit Tiefgarage
+- TOP .3.: Wertherstr. 5: Neubau eines Wohngebäudes (2 WE) mit eingruppiger Kinderkrippe
+- TOP .4.: Isoldenstr. 19: Umbau und Modernisierung der Bestandswohnungen, Fassadensanierung mit Balkonanbau, DG-Ausbau
+- TOP .5.: Hohenzollernstr. 59: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP .6.: Sailerstr. 2: Neubau eines Mehrfamilienhauses
+- TOP .7.: Infanteriestr. 19: Teilnutzungsänderung mit baulichen Änderungen
+- TOP .8.: Angererstr. 9: Nutzungsänderung Ladengeschäft zu ostheopatischer Privatpraxis (Innenumbau)
+- TOP .9.: Schwere-Reiter-Str. 39: Umbau und Nutzungsänderung eines denkmalgeschützten Gebäudes inkl. Anbau einer Tiefgarage
+- TOP .10.: Clemensstr. 85: Errichtung von Balkonen
+- TOP .11.: Wormser Str. 3: Nutzungsänderung Kellerräume zu Wohneinheit
+- TOP .12.: Bauerstr. 10: DG-Um- und -Ausbau sowie Neubau einer Tiefgarage mit mechanischem Parksystem
+- TOP .13.: Bauerstr. 12: DG-Um- und -Ausbau
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Taubenplage in der Wohnanlage Ackermann-/Schleißheimer Straße
+- TOP .2.: Bürger: Mildred-Scheel-Bogen als verkehrsberuhigter Bereich (?Spielstraße?)
+- TOP .2.1.: Umwelt
+- TOP .1.: Mainzer Str. 13-15: Fällung eines Silber-Ahorn
+- TOP .2.: Lothstr. 21: Fällung einer Steinweichsel
+- TOP .2.2.: Verkehr
+- TOP .1.: Einrichtung einer Fahrradstraße in der Erich-Kästner-Straße zwischen Herzog- und Destouchesstraße sowie in der Angererstraße zwischen Karl-Theodor- und Erich-Kästner-Straße
+- TOP 2: (E) Umwandlung der Hagedornstraße in eine Einbahnstraße Richtung Rümannstraße Empfehlung Nr. 08-14 / E 01935 der Bürgerver- sammlung des 4. Stadtbezirkes - Schwabing-West am 01.10.2013
+- TOP 2.3.: Fahrbahnsanierungen 1. Destouchesstraße zwischen Viktoriaplatz und Belgradstraße 2. Kaiserplatz und Viktoriastraße bis zur Herzogstraße 3. Elisabethstraße zwischen Schleißheimer Straße und Winzererstraße 4. Agnesstraße zwischen Teng- und Adelheidstraße 5. Petuelring bis zum Walther-Bathe-Weg 6. Viktor-Scheffel-Straße zwischen Belgrad- und Römerstraße 5. Petuelring bis zum Walther-Bathe-Weg
+- TOP 2.4.: Radwegsanierung 1. Schleißheimer Str. 220-228 2. Dachauer Straße/Leonrodstraße/Schleißheimer Straße
+- TOP 2.5.: MVG Rad: Errichtung von Leihradstationen an ausgewählten Haltestellen
+- TOP 2.6.: Lichtzeichenanlagenabbau in der Clemensstraße: Protokoll des Ortstermins vom 17.10.2013
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Bebauung des Stadtwerkegrundstücks am Elisabethplatz
+- TOP 2.2.: Clemens-/Mittermayrstraße: Aufwertung des Zugangs zur Grünanlage Bayernplatz im Zuge der Straßenbauarbeiten in Zusammenhang mit dem Abbau der Ampelanlage
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
