@@ -1,0 +1,72 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-02-26T17:00:00+01:00
+- Ende: 2014-02-26T21:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2225
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2225
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Angemessenes Gedenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl zur Schiedsfrau - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 6.3: Wahl einer stellvertretenden Bürgerdeputierten für den Wirtschaftsausschuss - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Beebauungsplan 8-16a ("Clay-Oberschule") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Stadtteilmütter - beantwortet
+- TOP 9.2: Sportplatz Karl-Marx-Straße - beantwortet
+- TOP 9.3: Stadtteilmütter in Gefahr? - beantwortet
+- TOP 9.4: Vermieterwillkür Kienitzer Str. 95 - beantwortet
+- TOP 9.5: Umbau Rudower Spinne - beantwortet
+- TOP 9.6: Behindertengerechtes Rathaus - beantwortet
+- TOP 9.7: „Ruine„ Bettenhaus des ehemaligen Britzer Krankenhauses - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Dokumente mit klaren Lizenzangaben versehen - in der BVV abgelehnt
+- TOP 11.2: Alpha-Bündnis - in der BVV abgelehnt
+- TOP 11.3: Zusammenarbeit mit ehrenamtlichen Helfern in der Späthstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Ausgestaltung der Flüchtlingsunterkunft - in der BVV abgelehnt
+- TOP 11.5: Altglassammelbehälter nicht entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Qualitätssicherung von Pflegediensten - beantwortet
+- TOP 12.2: Senioren Tipps - beantwortet
+- TOP 12.3: Gefälschte Unterschriften für das Volksbegehren Tempelhofer Feld? - beantwortet
+- TOP 12.4: Ordnungsamt: Spätischließungen an Sonntagen - Teil 2 - beantwortet
+- TOP 12.5: Migration und Gesundheit - beantwortet
+- TOP 12.6: Gekaufte Väter in Neukölln? - beantwortet
+- TOP 12.7: Schule ohne Rassismus - Schule mit Courage - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Koordinationsstelle für das Flüchtlingsheim - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Fußgängerquerungshilfe (Fußgängerüberweg) in der Fritz-Reuter-Allee - überwiesen
+- TOP 14.3: Senioren Tipps - überwiesen
+- TOP 14.4: Regionalisierte Umsetzung der Zweckentfremdungsverbotsverordnung - überwiesen
+- TOP 14.5: Werbung für gesundheitsgefährdende Genussmittel auf bezirkseigenen Werbeflächen - überwiesen
+- TOP 14.6: Eingliederungsmittel vollständig für Neukölln verwenden - überwiesen
+- TOP 14.7: Schaffung eines Bundesleistungsgesetzes - überwiesen
+- TOP 14.8: Anti-Bias-Training für Schüler*innen - Umgang mit Voreingenommenheit - überwiesen
+- TOP 14.9: Mobile Geschwindigkeitsmessanlage im Buckower Damm - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Halteverbot in der Kanalstraße - überwiesen
+- TOP 14.11: Wohngeldbescheide abarbeiten - überwiesen
+- TOP 14.12: Anti -Bias -Training für pädagogisches Personal - überwiesen
+- TOP 14.13: Anwohnerschaft in Treptow-Köpenick über Flüchtlingsunterkunft informieren - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: EU-Projekttag der Schulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Konferenz der Neuköllner öffentlichen Oberschulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Weitergabe von Meldedaten - Information über Opt - Out - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Bekanntheit der Patientenfürsprecher/innen in den Krankenhäusern verbessern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern I - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
