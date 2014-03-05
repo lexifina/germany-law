@@ -1,0 +1,96 @@
+# 21. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2014-03-05T17:30:00+01:00
+- Ende: 2014-03-05T19:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4568
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4568
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=59779
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Einwohnerfragestunde der BVV - überwiesen
+- TOP 1.9: Nachwahl eines Bürgerdeputierten und einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: »Straßensheriffs« - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Asylrecht für Menschen unterschiedlicher sexueller und geschlechtlicher Identität stärken - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Unverträgliche Verdichtung durch Bauvorhaben der Gesobau im Erhaltungsgebiet - in der BVV abgelehnt
+- TOP 1.13: Aktiver Tier- und Umweltschutz in der Stadt durch Nistkästen und Fassadenbegrünung - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Verkehrssicherheit für RadfahrerInnen erhöhen durch Radfahrstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Räume des ehemaligen Ratskellers im Rathaus Pankow wieder für die Pankower BürgerInnen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Schulwegsicherheit im Umfeld der Schulen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Integriertes Stadtteilentwicklungskonzept für den Ortsteil Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Streuobstwiesen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Benennung eines Platzes nach Prof. Werner Klemke - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Informationstafel zum Käthe-Kollwitz-Denkmal auf dem Kollwitzplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Informieren über die EU-Wahlen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Informationen zur Teilnahme an der Europawahl für Bürgerinnen und Bürger aus anderen EU-Staaten - zurückgezogen
+- TOP 1.23: Förderprogramme zu Klimaschutz und Energieeffizienz nutzen - überwiesen
+- TOP 1.24: MitarbeiterInnen mit Fremdsprachen-Kenntnissen am Informationsschalter - überwiesen
+- TOP 1.25: KurzFilmFestival unterstützen - zurückgezogen
+- TOP 1.26: Unterstützung des west-östlichen Filmfestivals - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Stauraumkanal im Mauerpark - überwiesen
+- TOP 1.28: Checkliste für den Informationsschalter des Bürgeramts - überwiesen
+- TOP 1.29: Elektromobilität - beantwortet
+- TOP 1.30: Bürgerorientierter Einsatz der Mitarbeiterinnen und Mitarbeiter der Parkraumüberwachung - überwiesen
+- TOP 1.31: Programm für Fairplay und gegen Rassismus - überwiesen
+- TOP 1.32: Buslinie 154 - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Begrünte Fassaden im Bezirk - überwiesen
+- TOP 1.34: Modernisierung der technischen Arbeitsabläufe der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Integration durch Sport - überwiesen
+- TOP 1.36: Offensive für eine diskriminierungsfreie Gesellschaft - überwiesen
+- TOP 1.37: Pendlerverkehre reduzieren - Konzeption für P+R-Parkplätze - überwiesen
+- TOP 1.38: Oberstufe für die Wilhelm-von-Humboldt Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Knoten Walter-Friedrich-/Groscurthstraße - überwiesen
+- TOP 1.40: Nachbarschaftsgärten in der Hansastraße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Wärmeisolierung bezirkseigener Gebäude - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Öffentlichkeit bei Baumarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Verlängerung des Fahrradweges in der Hauptstraße/Wilhelmsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kreuzung Romain-Rolland-Straße/Neukirchstraße - Barrieren abbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Lücken im Fahrrad-Routennetz schließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Zusätzliche Tischtennisplatten für den Platz Stargarder Str. / Dunckerstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Außenstelle der IGA 2017 im Pankower Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Altkleidercontainer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Einrichtung einer Einbahnstraßenregelung in der Anliegerstraße (Hosemannstraße) zwischen Hosemannstraße und Mandelstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Erhöhung der Verkehrssicherheit in der Straße Alt-Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Atelierhaus Prenzlauer Promenade 149 - 152 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Kostenloses W-LAN in Pankower Stadtbibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Öffnungszeiten der Bürgerämter Pankows bürgerfreundlicher gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Bezirkliche Immobilienentwicklung - Umzugsplanung und Verdichtung der Verwaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Marthashof für Alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Planmäßiger Einsatz von Haushaltsmitteln zur Pflege der Kunst im öffentlichen Raum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bessere Wartung der Grünflächen in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Informationsbroschüre zu Bolzplätzen im Bezirk und zur Nutzung von Sportstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Graffitischutz von Mahn- und Gedenkzeichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Pankow soll Fairtrade Town werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Anonymisierte Bewerbungsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bestätigung der Antragsabgabe für Sozialleistungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Null Toleranz gegen Rechtsextremisten bei der Vergabe öffentlicher Aufträge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Kunst statt Leere! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Baumschäden online melden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Schwimmbad Pankow als Pilotprojekt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Bürgerbeteiligung und Bürgerbegehren Online ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Verhinderung / Reduzierung des Durchgangsverkehrs in der Richard-Ermisch-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Straßenbegleitgrün in Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Bibliotheksmedien karitativ einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Krankenstand bei der Parkraumüberwachung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.35: Bebauungsplan 3-46 für den südöstlichen Teil des Grundstücks Robert-Rössle-Straße 10 im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Benennungsabsicht für die Nummernstraße Straße 16 im Ortsteil Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Benennungsabsicht für die öffentliche Straße 201 im Ortsteil Niederschönhausen in "Beatrice-Zweig-Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Bebauungsplan 3-26 vom 12.10.2009 mit Deckblatt vom 05.04.2012 für die Grundstücke Immanuelkirchstraße 14 und 14 A-C sowie Heinrich-Roller-Straße 15-18 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Benennung von 8 Privatwegen in der Anlage Nordend im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
