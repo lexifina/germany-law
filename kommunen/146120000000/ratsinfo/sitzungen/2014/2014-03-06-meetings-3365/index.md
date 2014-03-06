@@ -1,0 +1,53 @@
+# 65. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-03-06T16:00:00+01:00
+- Ende: 2014-03-06T21:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3365
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3365
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_03_06 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00161587.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Fußweg an der Kesselsdorferstraße 49 - erledigt
+- TOP 3.2: Arbeitsstand zum Beschluss des Antrags A0721/13 vom 02.10.2013 - erledigt
+- TOP 3.3: Neue Mensa - erledigt
+- TOP 3.4: Baumfällungen Winter 2013/14 - erledigt
+- TOP 3.5: TU Mensa-Geäude - erledigt
+- TOP 3.6: Umplanungen Werkstätten Kraftwerk Mitte - erledigt
+- TOP 3.7: Erstaufnahmeeinrichtung - erledigt
+- TOP 3.8: Zukunft der Kleingärten in der Gleisschleife Pfotenhauer Straße - erledigt
+- TOP 3.9: Sachstand der Planungen/Umsetzungen für den P+R-Platz Bühlau - erledigt
+- TOP 3.10: Fortgang der Petition zum Fernsehturm - erledigt
+- TOP 3.11: Grundstücke für Bauherrengemeinschaften - erledigt
+- TOP 3.12: Kinderbetreuungsangebot im Rathaus - erledigt
+- TOP 3.13: Ersatz für Park-and-Ride-Platz in Bühlau - erledigt
+- TOP 3.14: Plakatierung Kommunalwahl/Europawahl - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 6: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 7: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 8: Nachbesetzung im OBR Altstadt - Zustimmung
+- TOP 9: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 10: Umbesetzung im Gemeindewahlausschuss für die Kommunalwahl am 25. Mai 2014 - punktweise Abstimmung
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Zustimmung
+- TOP 12: Flächennutzungsplan-Änderung Nr. 57, Ortsamt Neustadt, Teilbereich Alter Leipziger Bahnhof - Zustimmung
+- TOP 13: Ergänzungssatzung Nr. 440, Dresden Klotzsche Nr. 1, Geschwister-Scholl-Straße - Zustimmung
+- TOP 14: Bürgerbeteiligung stärken – Einrichtung einer Plattform für E-Petitionen auf der Stadt-Website - punktweise Zustimmung
+- TOP 15: Einführung der Ortschaftsverfassung für das gesamte Stadtgebiet Dresdens - Zustimmung mit Änderung
+- TOP 16: Bürgerbeteiligung an Projekten der Erneuerbaren Energien - Ablehnung
+- TOP 17: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Verwaltungskosten für Amtshandlungen in weisungsfreien Angelegenheiten (Kostensatzung) vom 20. Dezember 2007 - Zustimmung
+- TOP 18: Neufassung der Satzung der Landeshauptstadt Dresden über die Entschädigung für die ehrenamtliche Tätigkeitke - Zustimmung
+- TOP 19: Gedenken an den Dresdner Bürger und Mäzen Dr. Justus Friedrich Güntz - Zustimmung mit Änderung
+- TOP 20: Erhalt Mobiler Service - MOSE - Zustimmung mit Änderung
+- TOP 21: Wohnungssituation in Dresden analysieren - - Vertagung
+- TOP 22: Einrichtung von Fahrradabstellanlagen an Bahnhöfen und S-Bahn-Haltepunkten - punktweise Abstimmung
+- TOP 23: EU-Förderstrategie für Dresden entwickeln - Wirtschafts- und Wissenschaftsstandort stärken, sozialen Zusammenhalt fördern - Zustimmung mit Änderung
+- TOP 24: REGKLAM-Ergebnisse nutzen – Klimaanpassung in Dresden jetzt beginnen - Zustimmung mit Änderung
