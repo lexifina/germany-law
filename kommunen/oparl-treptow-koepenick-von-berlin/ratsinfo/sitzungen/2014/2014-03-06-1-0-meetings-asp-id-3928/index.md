@@ -1,0 +1,84 @@
+# 26. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-03-06T16:30:00+01:00
+- Ende: 2014-03-06T20:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3928
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3928
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99945
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Aufstellung von Schulcontainern während der Bauphase in der Anna-Seghers-Schule - gegenstandslos
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-27 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl einer Kiezpatin für die Region Köpenick Süd - gewählt
+- TOP 8.2: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Bürgerdienste und Ordnungsangelegenheiten - gewählt
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Schulausschuss - gewählt
+- TOP 8.4: Wahl einer stellvertretenden Bürgerdeputierten für den Schulausschuss - gewählt
+- TOP 8.5: Wahl eines stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 8.6: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittelantrag des Industriesalon Schöneweide e. V. (SM 14-02) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittelantrag des Schulfördervereins Freunde der Emmy-Noether-Schule e. V. (SM 14-04) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Prüfung der Radwegebenutzungspflicht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: "Fahrrad-Cops" gegen "Rüpel-Radler" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Sicheres Radfahren an der Kreuzung Köpenicker Straße/Ernst-Ruska-Ufer - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Präventive Maßnahme gegen die Störung des Straßenbahnverkehrs in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Gefahrenstelle kenntlich machen in der Siemensstraße - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Radspur in der Straße Am Bahndamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Radspur in der Straße An der Wuhlheide - in der BVV zurückgezogen
+- TOP 12.8: Neugestaltung Uferweg am Mellowpark – Übertragung der Weißen Villa - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Denkmalwert Gaslaternen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Soziale, ökologische und stadtentwicklungspolitische Kriterien beim Wohnungsneubau - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Radfahrstreifen Dörpfeldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Weniger Parteiplakate in Wahlkämpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung einer Planstraße im Wissenschafts- und Technologiepark Adlershof in "Konrad-Zuse-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplanverfahren XV-10b ("Kirschweg") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Tätigkeitsbericht und Maßnahmeplan der Arbeitsgruppe Personalentwicklung des Bezirksamtes Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Erlass einer Satzung zur Erhaltung der Zusammensetzung der Bevölkerung in Alt-Treptow - überwiesen
+- TOP 14.2: Netzwerk AsylbewerberInnenunterkünfte - überwiesen
+- TOP 14.3: Durchsetzungsmöglichkeiten für die Umsetzung sozialer, ökologischer und stadtentwicklungspolitischer Kriterien entscheidend verbessern - überwiesen
+- TOP 14.4: Einführung der Anwendung "Allegro" in den Job-Centern - überwiesen
+- TOP 14.5: Anlaufstelle für Gewaltopfer - überwiesen
+- TOP 14.6: Sozialverträglicher Wohnungsneubau in der Altstadt - überwiesen
+- TOP 14.7: Bezirkliche Interessen bei Veränderungen der Berliner Bäder wahren - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Straßenschild Firlstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Überprüfung der Qualität von Reinigungsleistungen an Schulen und anderen öffentlichen Einrichtungen im Bezirk im Rahmen des Berliner Ausschreibungs- und Vergabegesetzes - im Ältestenrat zurückgezogen
+- TOP 14.10: Kreuzung Kiefholzstraße/ Bouchéstraße – Gehwegvorstreckung - überwiesen
+- TOP 14.11: Linie 61 mit den Einwohnern vor Ort - überwiesen
+- TOP 14.12: Henriette-Lustig-Straße - überwiesen
+- TOP 14.13: Reinigungsleistungen an Schulen - im Ältestenrat zurückgezogen
+- TOP 14.14: Radweg Köpenicker Landstraße - überwiesen
+- TOP 14.15: Überprüfung der Radwegbenutzungspflicht in der Edisonstraße - überwiesen
+- TOP 14.16: Claus-Dieter-Sprink-Brücke - überwiesen
+- TOP 14.17: Umstellung der PC in der schulischen Verwaltung - überwiesen
+- TOP 14.18: Rodelbergweg - überwiesen
+- TOP 14.19: Überprüfung der Radwegbenutzungspflicht, Köpenick / Lange Brücke (Dahme) - überwiesen
+- TOP 14.20: Müllverringerung im Umfeld der Alten Försterei - überwiesen
+- TOP 14.21: PC-Betriebssysteme Windows 7 oder 8.1 in den Schulen - überwiesen
+- TOP 14.22: Verkehrssicherheit Kiefholzstraße - überwiesen
+- TOP 14.23: Überprüfung der Radwegbenutzungspflicht in der Oberspreestraße (Südseite) - überwiesen
+- TOP 14.24: Vorgezogene Haltelinie - überwiesen
+- TOP 14.25: Personalausstattung der Schulbibliotheken - überwiesen
+- TOP 14.26: Schäden an bezirks- oder landeseigenen Gebäuden - überwiesen
+- TOP 14.27: Endlich ein Bibliotheksgesetz - überwiesen
+- TOP 14.28: Tempo 30 in Johannisthal - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Ist Treptow-Köpenick auf die Bevölkerungsentwicklung vorbereitet? - beantwortet
+- TOP 15.2: Mietkostenfreiheit in der Freiheit 15/16 - vertagt
