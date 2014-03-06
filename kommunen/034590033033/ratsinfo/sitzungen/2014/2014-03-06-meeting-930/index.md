@@ -1,0 +1,51 @@
+# Rat (27. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2014-03-06T17:30:00+01:00
+- Ende: 2014-03-06T21:00:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZchpg0xy2xijz2JyP9Ikc5s
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/930
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT3Xb-XLvxGExZngTo9Wvq_0V268L2Q1LAi-1YL6TxNi/Bekanntmachung_Rat_06.03.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaa5ODk1D-T8bD5qmtesXSfzbraqFWZyYcdUNVBpb2CU/Oeffentliche_Niederschrift_Rat_06.03.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 17.12.2013
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Überprüfung eines Ratsbeschlusses
+- TOP 3.2: Schiedspersonen
+- TOP 7.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 7.1: Sanierungsmaßnahme "Wallenhorst-Zentrum" hier: Grundsatzbeschluss über die Gestaltung des Bereiches „Große Straße – Nord“ entsprechend dem städtebaulichen Rahmenplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Wahltermin für die Bürgermeisterwahl 2014 - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Neufassung der Satzung über die Erhebung von Gebühren für Dienst- und Sachleistungen der Freiwilligen Feuerwehr außerhalb der entgeltlich zu erfüllenden Pflichtaufgaben (Gebührensatzung Feuerwehr) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 6.1: Mannschaftstransportwagen der Ortsfeuerwehr Rulle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 7.2: Maßnahme ´17´ des Dorferneuerungsplanes „Gestaltung des Kreuzungsbereiches Nonnenpfad/Zum Gruthügel/Am Haupthügel mit Ortseingang“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.3: Maßnahme ´27´ des Dorferneuerungsplanes „Gestaltung des Kreuzungsbereiches Stiegte/L 109/ Ostenort“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Bauleitpläne
+- TOP 8.1: Bebauungsplan Nr. 256 "Alte Straßenmeisterei" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kämmereiangelegenheiten
+- TOP 9.1: Zustimmung zur außerplanmäßigen Auszahlung zum Erwerb von Flächen im Rahmen der Ansiedlung eines Gewerbebetriebes - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.2: Genehmigung zur Annahme von Zuwendungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Erwerb des Grundstückes Osnabrücker Straße 110, ehemaliges Café Hindenburg. Zustimmung zur außerplanmäßigen Auszahlung. - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Anfragen und Anregungen
+- TOP 10.1: Antrag der CDU-Fraktion auf Änderung des FNP und Aufstellung eines B-Planes für die Fläche zwischen A1, Stüvestr. und Pyer Kirchweg mit dem Ziel dort Wohnbebauung auszuweisen
+- TOP 10.2: Errichtung eines Blockheizkraftwerkes
+- TOP 10.3: Kennzeichnung der Behindertenparkplätze an der Großen Straße
+- TOP 10.4: Überprüfung des Gehwegen zwischen JaB2 und der Real- bzw. Alexanderschule
+- TOP 10.5: Rathaus Tiefgarage
+- TOP 10.6: Mögliche Interessenkollision bei Ausübung des Aufsichtsratsmandates der Gemeindewerke
+- TOP 10.7: Radfahrer auf Gehwegen
+- TOP 10.8: Erhöhung der Entschädigungsleistung für die ehrenamtlichen Wahlhelfer
+- TOP 10.9: Kosten für Städtepartnerschaft
+- TOP 10.10: Nachfrage zum aktuellen Sachstand Arkaden-Center
+- TOP 10.11: Wahrnehmung eines Vorkaufsrechtes für ein Grundstück am Porta Kreisel
