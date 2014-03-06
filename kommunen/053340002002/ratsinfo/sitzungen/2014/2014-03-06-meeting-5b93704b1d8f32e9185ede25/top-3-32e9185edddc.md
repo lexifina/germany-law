@@ -1,0 +1,7 @@
+# TOP 3: Genehmigung der Tagesordnung
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Seniorenrates (2014-03-06)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b93704a1d8f32e9185edddc
+- Ergebnis: (offen)
