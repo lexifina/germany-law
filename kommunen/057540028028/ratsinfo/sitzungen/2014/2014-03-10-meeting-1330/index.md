@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (29. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2014-03-10T17:00:00+01:00
+- Ende: 2014-03-10T20:00:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTb27siQJ78hOb_LuHbkMLQ
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1330
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRyXUsjQWfmCxc67co0TDysdlSEcuwK8Xlo7_1Ykpv-V/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_10.03.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYcgP1u6wrIDdgYIN3Clq9Ntfs0YAEmOxK7FZM3jJaM4/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_10.03.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Stadtbussystem – Vorstellung eines neuen Systems Bezug: FDP-Fraktionsantrag - 27 Ja-Stimme(n), 6 Enthaltung(en)
+- TOP 5: Bürgerbus in Rheda-Wiedenbrück Bezug: FDP-Fraktionsantrag - Kenntnisnahme
+- TOP 6: Antrag der CDU-Fraktion zur Abfuhr von Verpackungsmaterial ("gelbe Säcke") - Antwort der Verwaltung - Absetzung
+- TOP 7: Änderung des § 7 der Hauptsatzung: Bildung eines Integrationsrates - Einstimmig
+- TOP 8: Erlass einer Wahlordnung für die Wahl der Mitglieder des Integrationsrates - Einstimmig
+- TOP 9: Gebührenordnung für Parkscheinautomaten zur Überwachung der Parkzeit im Gebiet der Stadt Rheda-Wiedenbrück (Parkgebührenordnung) vom 04.10.1993 (zuletzt geändert am 24.09.2001) - Einstimmig
+- TOP 10: Neufassung der Satzung für die Durchführung von Bürgerbegehren, Bürgerentscheiden und Ratsbürgerentscheiden - Einstimmig
+- TOP 11: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück - 23 Ja-Stimme(n), 10 Nein-Stimme(n)
+- TOP 12: Gesamtabschluss zum 31.12.2011; Bestätigung und Entlastung des Bürgermeisters - Einstimmig
+- TOP 13: Jahresabschluss zum 31.12.2012; Feststellung und Entlastung des Bürgermeisters - Einstimmig
+- TOP 14: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen - Kenntnisnahme
+- TOP 15: Gesamtschule, Baubeschluss für den 1. Bauabschnitt - 30 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 16: Beachvolleyballfeld an der Postdammschule in Lintel; Prüfantrag der CDU-Fraktion vom 07.02.2014 - mehrheitlich wird zugestimmt
+- TOP 17: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2014 - 21 Ja-Stimme(n), 12 Nein-Stimme(n)
+- TOP 18: Abwasserbeseitigungskonzept der Stadt Rheda-Wiedenbrück 2014 – 2019 - 9 Ja-Stimme(n), 23 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 19: Befliegung des Entsorgungsgebietes der Stadt Rheda-Wiedenbrück und stereoskopische Auswertung von Luftbildern - 26 Ja-Stimme(n), 7 Nein-Stimme(n)
+- TOP 20: Ausbau der Vietingstraße; Beschluss des Ausbauplanes (Bauprogramm) - Einstimmig
+- TOP 21: Bebauungsplan Nr. 384 „Neuer Wall"; Verlängerung des Erlasses einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes - Einstimmig
+- TOP 22: Bebauungsplan Nr. 370 „Anekabel“, 1. Änderung; a) Ergebnisse der Betroffenenbeteiligung nach § 13 Abs. 2 Nr. 2 BauGB und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 13 Abs. 2 Nr. 3 BauGB b) Satzungsbeschluss - Einstimmig
+- TOP 23: Bericht der Flora Westfalica - FGS-Fördergesellschaft Wirtschaft und Kultur GmbH Rheda-Wiedenbrück über die Arbeit der Stadtbibliothek im Jahr 2013 - Kenntnisnahme
+- TOP 24: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 25: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 26: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 27: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 28: Erklärung von Ausschließungsgründen
+- TOP 29: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 30: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2014 - 29 Ja-Stimme(n), 4 Enthaltung(en)
+- TOP 31: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 32: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 33: Dringende Anfragen und Anregungen
