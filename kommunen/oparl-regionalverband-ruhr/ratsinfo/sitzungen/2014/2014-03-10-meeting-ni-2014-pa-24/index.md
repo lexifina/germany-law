@@ -1,0 +1,58 @@
+# 23. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2014-03-10T10:00:00+01:00
+- Ende: 2014-03-10T12:08:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2014-PA-24
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2014-PA-24
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2014-PA-24
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2014-PA-24
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 21. Sitzung des Planungsausschusses vom 18.11.2013 und der Niederschrift der 22. Sitzung des Planungsausschusses (Sondersitzung) vom 13.12.2013
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Förderprogramm 'Kommunaler Straßen- und Radwegebau'; Rückblick auf 2013 hier: Unterrichtung
+- TOP 2.2: Förderprogramm 'Kommunaler Straßenbau 2014' hier: Unterrichtung und Beschlussfassung
+- TOP 2.3: Förderprogramm 'Nahmobilität' (ehemals Sonder-Radwegebau); Rückblick auf 2013 hier: Unterrichtung
+- TOP 2.4: Förderprogramm 'Nahmobilität 2014' (ehemals Sonder-Radwegebau) hier: Unterrichtung und Beschlussfassung
+- TOP 2.5: Neuaufstellung des Bundesverkehrswegeplans (BVWP) 2015, Bereich Straße: Abschließender Sachstand der Projektanmeldungen des Landes NRW an den Bund zur fachlichen Bewertung
+- TOP 2.6: Jahresbericht 2013 zur ländlichen Entwicklung und Bodenordnung im Gebiet des Regionalverbandes Ruhr (RVR)
+- TOP 2.7: Bericht über den Stand der Erstellung des NRW-Programms „Ländlicher Raum“ für die Förderperiode 2014 bis 2020 im Bereich der Fachgruppe 3 LEADER; Dorfentwicklung, Breitband, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze Kenntnisnahme
+- TOP 2.8: Städtebauförderung hier: Abwicklung des Städtebauförderprogramms 2013
+- TOP 2.9: 81. Änderung des Regionalplanes für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Voerde, Änderung und Erweiterung eines Bereichs in gewerbliche und industrielle Nutzungen (GIB) mit der Zweckbindung - Standort des kombinierten Güterverkehrs (Erarbeitungsbeschluss)
+- TOP 2.10: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein-Westfalen
+- TOP 3.10.2: Stellungnahme der Metropole Ruhr zum Landesentwicklungsplan (LEP) Antrag der CDU-Fraktion vom 11.02.2014
+- TOP 2.11: Wuppertal, 49. Flächennutzungsplanänderung – Dreigrenzen – erneute Beteiligung der Behörden gem. § 4 Abs. 2 BauGB i.V.m. § 4a Abs. 3 BauGB (IKEA)
+- TOP 2.12: 7. Änderung des Regionalplanes für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) zur Festlegung eines Kraftwerksstandortes auf dem Gebiet der Stadt Datteln – Bescheid über die landesplanerische Zielabweichung -
+- TOP 2.13: Anträge
+- TOP 2.14: Anfragen und Mitteilungen
+- TOP 2.14.1: Anfrage der FDP-Fraktion vom 18.11.2013 zum Maßregelvollzug auf dem Gebiet des RVR
+- TOP 2.14.2: Raumordnungsverfahren für die geplante Erdgasanschlussleitung von Datteln (Hachhausen) zum Kraftwerk Herne
+- TOP 2.14.3: Bericht über laufende Verfahren: RVR als Regionalplanungsbehörde
+- TOP 3: Angelegenheiten nach RVR-Gesetz
+- TOP 3.1: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes der Stadt Dortmund
+- TOP 3.2: Stellungnahme des RVR als Träger öffentlicher Belange zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen (ABS46/2) Planfeststellungsabschnitt 2.1 Voerde-Friedrichsfeld“
+- TOP 3.3: Stellungnahme des RVR als Träger öffentlicher Belange zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen (ABS46/2) Planfeststellungsabschnitt 2.2 Wesel“
+- TOP 3.4: Regionale ZukunftsLAND 2016 - WALDband Projektstudie
+- TOP 3.5: Konzept Ruhr & Wandel als Chance - Perspektive 2020
+- TOP 3.6: Vereinbarung zur vorausschauenden Revitalisierung bedeutsamer Bergbauflächen
+- TOP 3.7: Abschlussbericht zur Evaluation des Fahrradverleihsystems 'metropolradruhr'
+- TOP 3.7.1: Abschlussbericht zur Evaluation des Fahrradverleihsystems ,metropolradruhr‘ Antrag der Fraktion Die Linke. vom 10.03.2014
+- TOP 3.8: Haushaltsplan für das Jahr 2014 für die Referate 8, 9 und 15
+- TOP 3.9: Planfeststellung für den 6-streifigen Ausbau der A 43 von der Anschlussstelle Bochum-Riemke (Bau-km 28+160) bis zum Rhein-Herne-Kanal (Bau-km 32+360) mit damit zusammenhängenden Maßnahmen
+- TOP 3.10: Anträge
+- TOP 3.10.1: E-Mobilität auf dem RuhrtalRadweg Hier: Information zum Sachstand
+- TOP 3.11: Anfragen und Mitteilungen
+- TOP 3.11.1: Interkommunale Gewerbeflächenentwicklung im Ennepe-Ruhr-Kreis Hier: Sachstandsbericht
+- TOP 3.11.2: Fortschreibung des Regionalplanes Münsterland Hier: Keine Stellungnahme des RVR
+- TOP 3.11.3: Bericht über laufende Verfahren: RVR als Träger öffentlicher Belange
+- TOP 4: Regionaler Diskurs/ Regionalplan Ruhr
+- TOP 4.1: Ideenwettbewerb Zukunft Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 4.2: Regionaler Diskurs/Regionalplan Ruhr. Hier: Perspektiven zur räumlichen Entwicklung der Metropole Ruhr
