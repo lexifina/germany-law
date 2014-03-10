@@ -1,0 +1,78 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2014-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3134583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3134583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Parkraummanagement - aktueller Sachstand und Bestandsaufnahme nach mehr als drei Jahren Parkraummanagement in Sendling
+- TOP 2.2.: Förderung von Gemeinschaftsnutzgärten; Errichtung eines Gemeinschaftsnutzgartens auf einem Teilbereich der Stemmerwiese
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Mieterbeirat - Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 6. Stadtbezirkes
+- TOP 3.2.: Unterbringung von Flüchtlingen / Wohnungslosen; Informationsveranstaltung am 27.02.14
+- TOP 3.3.: Protokoll der Informationsveranstaltung des Sozialreferates vom 12.12.2013
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Sanierungsstau am Klenze-Gymnasium
+- TOP 4.2.: Dante-Schulbad wieder in Betrieb
+- TOP 6.1.: Ambulanter Straßenhandel in der Grünanlage ggü. Kidlerplatz 8
+- TOP 6.2.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 6.3.: Parksituation in der Wackersberger Straße
+- TOP 6.4.: Feuerwehrzufahrt zum Margaretenplatz; Errichtung eines absoluten Haltverbots mit dem Zusatz Feuerwehrzufahrt
+- TOP 6.5.: Lichtzeichenanlagen Bauprogramm; Errichtung einer Fahrradampel mit Rechtsabbiegerpfeil an der Kreuzung Impler- / Oberländerstraße
+- TOP 6.6.: Public Viewing Am Harras zur Fußball-WM 2014
+- TOP 6.7.: Nutzungsantrag Theresienwiese für das REWE-Family-Fest 2014
+- TOP 6.8.: Informationsveranstaltung der SWM am 24.03.2014
+- TOP 6.9.: Vorstellung der baulichen Machbarkeitsstudie U9
+- TOP 6.10.: Untersuchung zum Wirtschaftsverkehr in München
+- TOP 6.11.: Grundsatzbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 6.12.: Lichtzeichenanlagen-Bauprogramm; Errichtung einer Fahrradampel mit Rechtsabbiegerpfeil an der Kreuzung Implerstraße / Oberländerstraße
+- TOP 7.1.: Benennung von Straßen und Wegen in Grünanlagen
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Seniorenvertretung Sendling Druck, Grafik und Planung des Seniorenstadtteilplans Sendling
+- TOP 7.3.: Voranmeldung der Budgetanträge 2014
+- TOP 7.4.: (E) Budget der Bezirksausschüsse Stadtimker München öffentliches Sensenmähwochenende und Tag der offenen Tür von 16. bis 18.05.2014
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lindwurmstraße 124
+- TOP 8.3.: Bauvorhaben Brudermühlstr. 24 - 30; Antwortschreiben
+- TOP 8.4.: Bauvorhaben Lindenschmitstr. 37 - Zurückziehung
+- TOP 8.5.: Bauvorhaben Gotzinger Str. 15; Reaktionen der Leitung von Univeg und Großmarkthalle auf die Lärmbeschwerden aus den umliegenden Wohngebieten
+- TOP 8.6.: Landwirtschaft auf Dächern in der Stadt
+- TOP 8.7.: Urbanes Gärtnern in München
+- TOP 9: Baureferat
+- TOP 9.1.: Margaretenplatz Fahrbahnsanierung
+- TOP 9.2.: Errichtung einer öffentlichen Toilettenanlage im Bereich der Spielfläche des Bahndeckels Theresienhöhe
+- TOP 9.3.: Jubiläum 175 Jahre Flaucheranlagen und Stadtgartendirektion am 09.08.2014; Rederecht des BA6
+- TOP 9.4.: Flaueranlagen; Wegeumbau im Bereich des Trampelpfades zwischen Isarufer und Baumschulgelände
+- TOP 9.5.: Hundekot in Sendlinger Grünanlagen und Straßen
+- TOP 9.6.: Kinderspielplatz auf der Grünanlage am Gotzinger Platz
+- TOP 9.7.: Darstellung der Skateinfrastruktur in München
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Schäftlarnstr. 72 - 74
+- TOP 10.2.: Baumfällung Lipowskystr. 8
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Konsequente Durchsetzung des Taubenfütterungsverbot Empfehlung Nr. 08-14 / E 01985 der Bürgerver- sammlung des 6. Stadtbezirkes Sendling am 15.10.2013 - <div>Zustimmung zum Antrag des Referenten</div>
+- TOP 2: (E) Bessere Kennzeichnung der Fahrradstraßen in der Meindl- und Margaretenstraße; Überwachung der Autofahrer und Radfahrer Empfehlung Nr. 08-14 / E 01959 der Bürgerver- sammlung des Stadtbezirkes 6 Sendling am 15.10.2013 - <div>Zustimmung zum Antrag des Referenten</div>
+- TOP 3: (E) Radfahren auf dem Gehweg an den Bushaltestellen in der Albert-Roßhaupter-Straße Höhe Bahnunterführung Empfehlung Nr. 08-14 / E 01966 der Bürgerver-sammlung des Stadtbezirkes 6 - Sendling - am 15.10.2013 - <div>Zustimmung zum Antrag des Referenten</div>
+- TOP 4: (E) Hochbunker Gaißacher Str. / Thalkirchner Str. für Kunst- und Kulturveranstaltungen nutzbar machen Empfehlung Nr. 08-14 / E 01982 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 15.10.2013 - <div>Zustimmung zum Antrag des Referenten</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2014 - 2018
+- TOP 13.2.: Wiederbelebung der Sortieranlage in der Großmarkthalle; BA-Anträge Nr. 4851 und 5249 / BV-Empfehlung Nr. 1981
+- TOP 13.3.: Schülerlabor Großmarkthalle München
+- TOP 13.4.: Münchner Volkstheater - Großmarkthalle - Halle 1 als Alternativer Standort
+- TOP 13.5.: Nutzungskonzept für den "Kulturbunker Sendling"
+- TOP 13.6.: Verschiedene Versammlungen in Sendling
+- TOP 13.7.: Infoblatt zum Bürgerbegehren gegen das ZIE-M; Verteilstopp für die Landeshauptstadt München bis zur Kommunalwahl
+- TOP 13.8.: Grundstücksgeschäft Bleyerstraße 6
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
