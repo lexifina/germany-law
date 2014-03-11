@@ -1,0 +1,80 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-03-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129588
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129588
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Gemeindehaus / Vereinsheim für Untermenzing - östlich der Bahnlinie
+- TOP 3: Anträge
+- TOP 3.1.: Parkverbotszone in der Prießnitzstraße Schreiben Kreisverwaltungsreferat vom 21.02.14: Absolutes Haltverbot mit Zusatz "we mi 7-11 Uhr" auf der Südseite der Prießnitzstraße, ab östlich der Baumstänglstraße auf die Länge des Anwesens 11
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Lange Nacht der Kirche am 09.05.2014
+- TOP 4.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung der Gesamtstrecke des Auerhahnweges und der Gesamtstrecke des Buntspechtweges
+- TOP 5: Anhörungen
+- TOP 5.1.: Mittelfristige Finanzplanung 2013 - 2017 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2014 bis 2018
+- TOP 5.2.: Stellungnahme zur Thematik "Benennung von Straßen und Wegen in Grünanlagen"
+- TOP 5.3.: Erinnerungsverfahren Augustenfelder Straße Hs.Nr. 1-39 + Am Lochholz Hs.Nr. 1-57
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Bildung und Sport vom 13.11.13: Mehrjahresinvestitionsprogramm (MIP) 2013-2017 (Sitzungsvorlage Nr. 13279)
+- TOP 6.2.: Kurzbericht zum Beschluss des Kommunalausschusses als Werksausschuss für die Stadtgüter München vom 16.01.14: Gemeinschaftsgärten und Krautgärten für Allach-Untermenzing (Sitzungsvorlage Nr. 13798)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.14: a) Landwirtschaft auf Dächern in der Stadt (Sitzungsvorlage Nr. 13875) b) Urbanes Gärtnern in München (Sitzungsvorlage Nr. 13752)
+- TOP 6.4.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 04.02.14: Grundsatzbeschluss zum Fahrradvermietungsystem "MVG Rad" (Sitzungsvorlage Nr. 13949)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.02.14: a) Urbanes Gärtnern in München (Sitzungsvorlage Nr. 13752) b) Landwirtschaft auf Dächern in der Stadt (Sitzungsvorlage Nr. 13875)
+- TOP 6.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.02.14: Untersuchungen zum Wirtschaftsverkehr in München (Sitzungsvorlage Nr. 14117)
+- TOP 6.7.: Beschluss des Bauausschusses vom 11.03.14: Kleingartenverband München e.V. unterstützen (Sitzungsvorlage Nr. 13834)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Informationsveranstaltung der SWM, 24.03.14 um 18:00 Uhr
+- TOP 7.2.: Urbanes NaturNetz für ganz München
+- TOP 7.3.: Scoping-Termin 28.03.14, 10:00 Uhr Realisierung einer öffentl. Grünfläche nach dem Rückbau des Allacher Sommerbades 2. Bauabschnitt mit Seitenarm der Würm
+- TOP 7.4.: Vorstellung Bauvorhaben Eversbuschstraße Nord / Otto-Warburg-Straße / S-Bahnlinie
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 07.02.14: Helft Allach - die Grundschule in der Eversbuschstraße braucht dringend Schulsozialarbeit! Antr. 5088 der BIA vom 07.02.14
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Dachauer Str. 667, Friedrich-Zahn-Str. 28, Vogelloh 48, Frühaufstr. 26, Lochhausener Str. 59, Karl-Gayer-Str. 23, Grünwedelstr. 4, Am Gemeindewald 6, Prießnitzstr. 10
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (03.02.-09.02.14, 10.02.-16.02.14, 17.02.-23.02.14)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.02.14: Vogelloh 48 a
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.02.14: Behringstr. 57
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.02.14: Fällgenehmigung Am Gemeindewald 6
+- TOP 8.7.: Schreiben Stadtwerke München GmbH vom 10.02.14, 17.02.14, 24.02.14: Baumaßnahmen
+- TOP 8.8.: Schreiben Stadtwerke München GmbH vom 18.02.14: Präsentation zur Informationsveranstaltung MVG Rad vom 27.01.14
+- TOP 8.9.: Schreiben MVG vom 19.02.14: Buslinie 163: Zusätzliche Haltestelle in der Allacher Straße, auf Höhe der Wollny-/ oder Gruithuisenstraße
+- TOP 8.10.: Schreiben Kulturreferat vom 24.02.14: Treffen der Vorsitzenden der Bezirksausschüsse; Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 06.02.14: Antrag auf Vornahme von geeigneten Maßnahmen zur Reduzierung der verkehrsbedingten Lärm- und Abgasbelastung an der Allacher Straße in München
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 12.02.14: Anordnung von Tempo 30 in der Eversbuschstraße sowie durchgängige Ampelschaltung Eversbuschstraße / Ecke Allacher Straße (BV-Empf. 1368)
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 24.02.14: Antrag auf unveränderte Fortführung des Cafè Papaya
+- TOP 8.14.: Schreiben Kommunalreferat vom 05.02.14: Erhöhung Schulwegsicherheit Eversbuschstraße Grunderwerbsverhandlungen bzgl. einer Brücke über die Würm in Höhe der Allacher Straße
+- TOP 8.15.: Schreiben Sozialreferat vom 13.02.14: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 12.12.13
+- TOP 8.16.: Schreiben Sozialreferat vom 20.02.14: Ergebnisprotokoll der Begehung der Schöll- und Pasteurstr. mit Junkersgelände und anschließendem Gespräch
+- TOP 8.17.: Schreiben Linkshänder e.V. vom 10.02.14: Urbanes Strickprojekt
+- TOP 8.18.: Schreiben BürgerStiftung München vom 17.02.14: Jahresempfang am 27.03.14 ab 17:30 Uhr
+- TOP 8.19.: Schreiben Feierwerk e.V. vom 26.02.14: Veranstaltung: Blut und Ehre. Die Geschichte rechter Gewalt am 27.03.14, 19:00 Uhr
+- TOP 9: Nachtrag
+- TOP 9.1.: Anhörung: Antrag auf Genehmigung Spielaktionen 2014
+- TOP 9.2.: Bebauungsplan Oertelplatz, Tiefgaragenzu- und abfahrten
+- TOP 9.3.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Eversbuschstr. 55, Theodor-Fischer-Str. 118
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.03.14: Bauanträge (24.02.-02.03.14)
+- TOP 9.5.: Schreiben Stadtwerke München vom 03.03.14: Baumaßnahmen
+- TOP 9.6.: Schreiben Referat für Arbeit und Wirtschaft vom 28.02.14: Europe Direct Information 01/2014
+- TOP 9.7.: Schreiben Kulturreferat vom 28.02.14: Veranstaltungen / Kooperationen März 2014
+- TOP 9.8.: Schreiben Direktorium vom März 2014: Jahresbericht 2013 mit Jahresvorschau 2014
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 27.02.14: Erlaubnis Faschingsumzug der Kath. Pfarrgemeinde Maria Himmelfahrt
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 27.02.14: Antrag auf unveränderte Fortführung des Backshops in der Allguth-Tankstelle, Von-Kahr-Str. 1
+- TOP 9.11.: Schreiben Referat für Bildung und Sport vom 05.03.14: Planung einer weiteren Grundschule mit Ganztagesklassen westl. Würm, Antr. 4067
+- TOP 9.12.: Schreiben Deutsche Post AG vom 05.03.14: Packstation am S-Bahnhof Allach
+- TOP 9.13.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 03.03.14, 05.03.14: - "Ich wähle demokratisch" und "Kunst, Kultur, Respekt" Kampagne - Veranstaltung 31.03.13 zu NSU und Keupstr.
+- TOP 9.14.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Bauausschusses vom 04.02.14: Darstellung und Überarbeitung der Mähkonzepte auf städt. Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen
+- TOP 9.15.: Bekanntagabe in der Sitzung des Umweltschutzausschusses vom 25.03.14: Abfallentsorgungsanlage der Fa. Thyssen Dück Rohstoffhandel GmbH & Co.KG, Rupert-Bodner-str. 25, 81245 München
