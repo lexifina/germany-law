@@ -1,0 +1,17 @@
+# Sauberkeit auf dem öffentlichen Spielplatz Stralsunder Straße / Strelitzer Straße (neben Gustav-Falke-Schule) durch regelmäßige Kontrollen fördern!
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 1360/IV
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2014-03-11
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=5990
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=5990
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=114186
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3218 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3226 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=42
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3270 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=40
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3237 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3290 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3389 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=24
