@@ -1,0 +1,91 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 24.02.2014 Der Bezirksausschuss Maxvorstadt fordert die Landeshauptstadt München auf, im Bereich des Marsplatzes drei Bäume neu zu pflanzen
+- TOP .2.1: Bauvorhaben
+- TOP .1.: a) Listen der Bauvorhaben: 5., 6., 7., 8., KW 2014 b) WEB Listen der LBK: 6., 7., KW
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Anhörung Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2056 Deroystraße (östlich) zwischen Tillystraße und Arnulfstraße
+- TOP .3.: Augustenstraße 73, Aufstockung des Rückgebäudes mit drei Wohnungen - Vorbescheid
+- TOP .4.: Schwindstraße 7, Abbruch eines Werkstattgebäudes, Neubau eines Wohngebäudes (vier WE), temporäre Aufstellung zweier Container für die Bauzeit als Lager sowie Nutzungsänderung im VGB: Wohnung zu Büro
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Erzgießereistraße 7-9 Schließen einer Baulücke und DG.-Ausbau, Vorlage eines Freiflächengestaltungsplanes
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP 1: (E) Lückenlose Überprüfung aller beantragten und ausgestellten Parklizenzen auf Rechtmäßigkeit der Angaben zu privaten Abstellmöglichkeiten (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 02015 der Bürgerver- sammlung des 3. Stadtbezirkes -Maxvorstadt- am 17.10.2013
+- TOP 2: (E) Tempo 30 in der Schellingstraße von der Ludwigstraße bis mindestens zur Arcisstraße Empf. Nr. 08-14 / E 02014 der Bürgerver- sammlung des 3. Stadtbezirkes Maxvorstadt am 17.10.2013
+- TOP 2.3.: Kreisverwaltungsreferat, Anhörung Einrichtung von Fahrradstraßen BA-Antrag Nr. 08-14 / B 02527 vom 15.11.2010 und BA-Antrag Nr. 08-14 / B 04373 vom 13.11.2012 Schreiben des KVR vom 11.02.2014 mit der Bitte um Stellungnahme
+- TOP 2.4.: Kreisverwaltungsreferat, Anhörung Freigabe der Schraudolphstraße und des Steinickeweges für den gegenläufigen Rad- verkehr; verkehrsrechtliche Anordnung gem. § 45 StVO
+- TOP 2.2.2: Öffentlicher Raum
+- TOP 2.1.: Kommunalreferat, Anhörung Stellungnahme zur Thematik ?Benennung von Straßen und Wegen in Grünanlagen?
+- TOP 2.2.3: Gaststätten
+- TOP 2.2.4: Veranstaltungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße Theaterprojekt ab 01.05.2014
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative ?Glückliche Tage? Theaterprojekt ?Glückliche Tage? im September 2014
+- TOP 2.2.: Kulturreferat, Anhörung zur geplanten Beschlussvorlage Kunst im öffentlichen Raum Realisation der Intervention ?Ballenernte? von Michael Beutler Ankauf und Installation des Kunstwerks ?Waterfall? von Tatiana Trouvé
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Weiße Rose Stiftung e.V. Film und Zeitzeugengespräch am 18.03.2014
+- TOP 2.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Die Tiefgarage des Gesundheitsamtes in der Dachauer Straße soll so ge- plant werden, dass Anwohnerparkplätze ausgewiesen werden können.
+- TOP 3.2.: Beantwortung der Fragen aus dem BA-Antrag Nr. 08-14 / B 04985 durch das Sozialreferat hinsichtlich der Genehmigung von Großwohnungen im Anwesen Georgenstraße 83 im Erhaltungssatzungsgebiet.
+- TOP 3.3.: Referat für Gesundheit und Umwelt, Immissionsschutz Antwort vom 24.01.2014 auf das Schreiben des BA 3 vom 17.01.2014 Modernisierungs- und Entmietungsmaßnahmen in der Augustenstraße 4
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Untere Denkmalschutzbehörde Antwort vom 03.02.2014 auf die Schreiben des BA 3 vom 14.11.2013 an die Stadtbaurätin und an das Referat für Bildung und Sport Fassadenprojekt Luisenstraße 9-11 des Vereins Positive-Propaganda e.V.
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Urbanes Gärtnern in München, Analyse und Grundsatzbeschluss Beschluss der Vollversammlung des Stadtrates vom 19.02.2014 Sitzungsvorlage Nr. 08-14 / V 13752
+- TOP 3.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Untersuchungen zum Wirtschaftsverkehr in München Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014 Sitzungsvorlage Nr. 08-14 7 V 14117
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung BA-Antrag Nr. 08-14 / B 05343 des BA 3 vom 12.11.2013 Antwortschreiben
+- TOP 3.9.: Kommunalreferat, Beschlussvorlage Realisierungswettbewerb Dachauer Straße 90, Neubau Verwaltungsgebäude für das Re- ferat für Gesundheit und Umwelt im 3. Stadtbezirk Maxvorstadt; Bekanntgabe des Ergeb- nisses des Realisierungswettbewerbs Beauftragung eines Preisträgers Beschluss des Kommunalausschusses vom 13.03.2014 Sitzungsvorlage Nr. 08-14 / V 14170
+- TOP 3.10.: Sozialreferat Vollzug der Zweckentfremdungssatzung, Leerstände in der Maxvorstadt Linprunstraße und Karlstraße
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Baureferat Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Ver- kehrsbegleitgrün und Schaffung von Stellplätzen für Bienen ? ergänzende Vorlage - Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013 Beschluss des Bauausschusses vom 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13354
+- TOP 3.2.: Referat für Arbeit und Wirtschaft Grundsatzbeschluss zum Fahrradvermietsystem?MVG Rad? Antrag Nr. 4235 der Stadtratsfraktion Die Grünen/RL vom 07.05.2013 Beschluss des Ausschusses für Arbeit und Wirtschaft am 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13949
+- TOP 3.3.: Baureferat Tiefbau, Erinnerungsverfahren a) Fahrbahnsanierung der Amalienstraße zwischen Theresienstraße und Oskar-von-Miller-Ring b) Fahrbahnsanierung der Arcisstraße zwischen Theresienstraße und Gabelsbergerstraße
+- TOP 3.4.: Baureferat Bürgerbeteiligung bei Platzgestaltungen ? Fünf Plätze attraktiv neu gestalten Beschluss des Bauausschusses vom 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13916
+- TOP 3.5.: Baumaßnahmen der Stadtwerke a) Karlstraße 18, Fernwärme b) Schellingstraße, Gas
+- TOP 3.6.: Baureferat, Beschlussvorlage Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Stadtdreparatur um den Oskar-von-Miller-Ring im 3. Stadtbezirk Maxvorstadt und im 1. Stadtbezirk Altstadt-Lehel Beschluss der Vollversammlung des Stadtdrates vom 22.01.2014 Sitzungsvorlage Nr. 08-14 / V 13410
+- TOP 3.7.: Referat für Gesundheit und Umwelt Vollzug der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für nächtlichen Aus- und Einhub von Rolltreppen a) Rotkreuzplatz und Maillingerstraße b) Ludwigstraße 23
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehr Aufenthaltsqualität ? weniger Autos Die Anwohnergarage Josephsplatz als Chance Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014 Sitzungsvorlage Nr. 8-14 / V 14118
+- TOP 3.9.: Kreisverwaltungsreferat Cycling Days Radrennveranstaltung am 18.05.2014 Absage der Veranstaltung
+- TOP 3.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Vorfahrtregelung Adalbert-/Schraudolphstraße Auftrag ausgeführt am 12.02.2014
+- TOP 3.11.: Schreiben des Kreisverwaltungsreferates vom 20.02.2014 Lichtzeichenanlagen-Bauprogramm 2014, TOP C 2.1.1/0214 Antwortschreiben des KVR zur Anfrage des BA 3 vom 14.02.2014: Lichtzeichenanlagen- Bauprogramm 2014
+- TOP 3.12.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen LZA Dachauer Straße/Lazarettstraße (s. TOP C 1.2/112013) Schreiben des KVR vom 21.02.2014
+- TOP 3.13.: Schreiben der MVG vom 24.02.2014 Baumaßnahme Tram Karolinenplatz/Barer Straße, Bauzeiten
+- TOP 3.14.: Kreisverwaltungsreferat, Anhörung Umzug des Narrhalla Prinzenwagens in der Innenstadt am 04.03.2014 Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 3.1.: Schreiben des Sozialreferates, Amt für Wohnen und Migration vom 05.02.2014 Modernisierungs- bzw. Entmietungsmaßnahmen in der Augustenstraße
+- TOP 3.2.: Referat für Bildung und Sport Kindertagesstätten sonstiger Träger, Kinderkrippe Richard-Wagner-Straße 5 im BA 3; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Inves- titionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2014 Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 12.11.2013 Sitzungsvorlage Nr. 08-14 / V 13180
+- TOP 3.4.: Kultur
+- TOP 3.1.: Schreiben der Katholischen Kirchenstiftung St. Benno vom 31.01.2014 Sachbericht zum Kirchenkonzert am 15.12.2013
+- TOP 3.2.: Kulturreferat, Beschlussvorlage Aufstellen einer größeren Gedenktafel vor dem ehemaligen Wittelsbacher Palais Empfehlung Nr. 08-14 / E 02144 der Bürgerversammlung des Stadtbezirkes 1, Altstadt- Lehel am 05.12.2013 Beschluss des Kulturausschusses vom 13.03.2014 Sitzungsvorlage Nr. 08-14 / V 14227
+- TOP 3.1.: Direktorium, Unterrichtung Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben BA-Antrag Nr. 08-14 / B 04578 des BA 16 Ramersdorf-Perlach vom 05.02.2013 Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 15.01.2014 Sitzungsvorlage Nr. 08-14 / V 13587
+- TOP 3.2.: Stadtkämmerei, Anhörung Mittelfristige Finanzplanung 2013 ? 2017 Mehrjahresinvestitionsprogramm ? Anhörungsverfahren Fortschreibung für die Jahre 2014 bis 2018
+- TOP 3.3.: Antrag von Bündnis 90/Die Grünen vom 05.02.2014 vertagt aus der Sitzung vom 11.02.2014 Die SPD im BA wird um Klärung über die Pressemitteilung ?Radweg Sophienstraße, ein SPD-Antrag vom 04.02.2014, gebeten.
+- TOP 3.4.: Antrag der Franktion Bündnis 90/Die Grünen im BA 3 vom 24.02.2014 Der Bezirksausschuss Maxvorstadt fordert die Landeshauptstadt München auf, im Bereich des Arnulfparks, und zwar in der Nähe des Nachbarschaftstreffs, einen Schauksten auf- zustellen.
+- TOP 3.5.: Kulturreferat, Schreiben vom 24.02.2014 Mehr Unterstützung durch das Kulturreferat bei Veranstaltungen der Bezirksausschüsse
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen und Anhörungen
+- TOP 2.3.: Aktuelle Sachstandsberichte
