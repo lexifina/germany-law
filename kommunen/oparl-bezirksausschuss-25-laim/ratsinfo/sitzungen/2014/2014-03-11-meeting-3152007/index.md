@@ -1,0 +1,117 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152007
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152007
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Fahrradständer an der U-Bahn Haltestelle Laimer Platz
+- TOP 1.2.2.: Gründung eines Fördervereins Bildungscampus am Westpark
+- TOP 1.2.3.: Schilder Westendstraße zwischen Endelhauser- / Droste-Hülshoff-Straße
+- TOP 1.2.4.: Anfrage für Veranstaltung (Mittelaltermarkt) auf dem Gelände an der Zschokke- / Westendstraße
+- TOP 1.2.5.: Anfrage zu Tram 18; Behinderung am Stegener Weg
+- TOP 1.2.6.: Urbanes Strickprojekt
+- TOP 1.2.7.: Geschwindigkeitsbeschränkung in der Willibaldstraße zwischen Gotthardstraße und Senftenauerstraße
+- TOP 1.2.8.: Direkte Anbindung von der Landsberger Straße / Willibaldstraße zum Schlosspark
+- TOP 2: Anträge
+- TOP 2.1.: FDP: Zunehmender Fluglärm über Laim - welche Rolle spielt hierbei der ADAC?
+- TOP 2.2.: FDP: Mindeststandards für Wertstoffcontainer einhalten - häufiger entleeren - Sauberkeit der "Wertstoffinseln" sicherstellen
+- TOP 2.3.: Bündnis 90 / Die Grünen: Barrierefreiheit an den U-Bahnhöfen in Laim
+- TOP 2.4.: Bündnis 90 / Die Grünen: Situation Hortplätze / Ganztagesbetreuung an Laimer Schulen
+- TOP 2.5.: SPD und Bündnis 90 / Die Grünen: Nutzung des städtischen Grundstücks Hogenberg- / Kirchmairstraße und des Gebäudes "ehem. Freibank"
+- TOP 2.6.: SPD und Bündnis 90 / Die Grünen: Forderungen zur Neuplanung des Grundstücks an der Siglstraße / Brantstraße mit Wohnungen und Kinderbetreuungseinrichtungen
+- TOP 2.7.: SPD: Vergabe der Flächen auf dem ehemaligen Trambahndepot und Busdepot an der Westendstraße / Zschokkestraße vorrangig im Erbbaurecht an Wohnungsgenossenschaften und Wohnbaugesellschaften mit gemeinnütziger Zielsetzung
+- TOP 2.8.: CSU: Erhalt der Hans-Thonauer-Straße und Barmerstraße für den motorisierten Verkehr sowie Schaffung von Radwegen in der Hans-Thonauer-Straße und Barmerstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 858 ? für Vernissage vom 09.05. - 27.07.14; Antragsteller: Initiative ?Vernissage? - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.000 ? für Konzert am 19.10.14; Antragsteller: Paul-Gerhardt-Chor München-Laim - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des 25 in Höhe von 3.050 ? für Maitanz am 01.05.14; Antragsteller: Laimer Maibaumfreunde e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 04.02.14: Maifest am 01.05.14 auf dem Laimer Anger
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 29.01.14: Flohmarkt am 29.03.14 auf dem Laimer Platz
+- TOP 4.3.: Lautensackstr. 32-36: Fällung von 2 Robinien
+- TOP 4.4.: Schreiben Baureferat vom 29.01.14: Erinnerungsverfahren; Westendstr. 240-266, Rechte Fahrspur in Richtung BAB und Radweg
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 04.02.14: Flohmarkt am 03.05.14 und 20.09.14 auf dem Hogenbergplatz
+- TOP 4.6.: Schedelstr. 4 + 6: Fällung von 1 Fichte und 1 Hollunderbaum
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 06.02.14: Festival der Marionetten auf dem Laimer Anger vom 16.09.-23.09.14
+- TOP 4.8.: Schreiben Abfallwirtschaftsbetrieb München vom 14.02.14 und 17.02.14: Entfernung des Kleidercontainers an der Ecke Straubinger Straße / Wilhelm-Riehl-Straße (Beschluss vom 04.02.14 bzgl. der Empfehlung Nr. 08-14 / E 02116 aus der Bürgerversammlung vom 26.11.13)
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 13.02.14: Flohmarkt am 26.04.14 auf dem Weißenfelder Platz
+- TOP 4.10.: Schreiben Stadtkämmerei vom 17.02.14: Mittelfristige Finanzplanung 2013-2017, Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2014 bis 2018
+- TOP 4.11.: Schreiben Kommunalreferat vom 20.02.14: Stellungnahme zur Thematik "Benennung von Straßen und Wegen in Grünanlagen"
+- TOP 4.12.: Schreiben Kreisverwaltungsreferat vom 21.02.14: Flohmarkt am 12.04.14 auf dem Spielplatz Valpichlerstraße / Von-der-Pfordten-Straße
+- TOP 4.13.: Schreiben Kreisverwaltungsreferat vom 26.02.14: Spielfest am 27.06.14 auf dem Hogenbergplatz
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 338: Umbau und Nutzungsänderung eines Bürohauses in eine / ein Jugendherberge / Hostel / Hotel; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 04.02.14
+- TOP 7.2.: Sitzung UA Kultur vom 04.02.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 19.11.13: Einrichtung einer Bücherbushaltestelle in der Camerloherstraße
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 24.01.14: Änderung der Zeitzusätze an den Haltverbotszonen am Linienweg der MVG-Linie 168 in der Aindorferstraße und Guido-Schneble-Straße
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 14.01.14: Haltverbot Stroblstraße im Wendehammer vor den Anwesen Nr. 11/13
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 04.02.14: Gaststätte "Bierbauch", Camerloherstr. 75; unveränderte Fortführung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 25.02.14: Gaststätte "Burgkmair-Stüberl", Burgkmairstr. 60; unveränderte Fortführung
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 25.02.14: Gaststätte "The red 1!, Landsberger Str. 216; unveränderte Fortführung
+- TOP 8.7.: Schreiben Baureferat vom 16.01.14: Straßenbeleuchtung Agnes-Bernauer-Straße, Von-der-Pfordten-Straße / Gotthardstraße sowie Senftenauerstraße gegenüber der Schule (Schreiben BA vom 13.12.13)
+- TOP 8.8.: Schreiben Baureferat vom 17.01.14: Spielplatz Käthe-Bauer-Weg (Schreiben BA vom 05.11.13)
+- TOP 8.9.: Schreiben Baureferat vom 27.01.14: Neugestaltung des Bereichs Gotthardstraße / Fürstenrieder Straße (Empfehlung Nr. 08-14 / E 02117 der Bürgerversammlung vom 26.11.13)
+- TOP 8.10.: Schreiben Baureferat vom 03.02.14: Neugestaltung des Agnes-Bernauer-Platzes (Antrag Nr. 08-14 / B 05160 vom 10.09.13)
+- TOP 8.11.: Schreiben Baureferat vom 11.02.14: Verschönerung der Laimer Unterführung (Schreiben BA vom 21.01.14)
+- TOP 8.12.: Schreiben Baureferat vom 12.02.14: Verbesserung der Beleuchtungssituation am Jugendzentrum "Das Laimers", Von-der-Pfordten-Str. 59 (Schreiben BA vom 21.01.14)
+- TOP 8.13.: Schreiben Baureferat vom 18.02.14: Erneuerung der Fahrradständer auf der westlichen Seite des südlichen Zugangs zum S-Bahnhof Laim sowie Aufstellung weiterer Fahrradständer (Antrag Nr. 08-14 / B 02876 des BA 25 vom 05.04.11); hier: Aufstellung der zugesagten Werbetafeln (Schreiben BA vom 21.01.14)
+- TOP 8.14.: Schreiben Abfallwirtschaftsbetrieb München vom 27.01.14: Wertstoffcontainer Friedenheimer Str. 33 (Schreiben BA vom 20.01.14)
+- TOP 8.15.: Schreiben Direktorium vom 27.01.14: Neuerscheinung Broschüre zum Schutz vor Veranstaltungsstörungen durch die extreme Rechte
+- TOP 8.16.: Schreiben Sozialreferat vom 28.01.14: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014
+- TOP 8.17.: Schreiben Sozialreferat / Stabstelle Gemeinwesenmediation vom 30.01.14: Konzept Nutzungskonflikte im öffentlichen Raum / SteG
+- TOP 8.18.: Schreiben Sozialreferat vo 13.02.14: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 12.12.13
+- TOP 8.19.: Schreiben Sozialreferat vom 21.02.14: Zweckentfremdung von Wohnraum; Weichselbaumerstraße
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.02.14: Protokoll der 250. Sitzung der Kommission für Stadtgestaltung vom 26.11.13
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.02.14: Fürstenrieder Str. 41; Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid
+- TOP 8.22.: Broschüre Referat für Stadtplanung und Bauordnung: Kommission für Stadtgestaltung - 40 Projekte aus 40 Jahren
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.02.14 Broschüre "Denkmalpflege Themen - Archäologie und Ehrenamt"
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.02.14: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigungsverfahren nach §§ 18, 18b AEG i.V.m. § 74 Abs. 6 VwVfG für das Vorhaben "Neubau Kranüberdachung Außenkran ICE Betriebswerk, Landsberger Str. 158, 80687 München, Bahnstrecke 5503 Augsburg-München; km 2,9 bis 3,0; Herstellung des Benehmens mit den Trägern öffentlicher Belange
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.02.14: Geyerspergerstr. 29; Neubau eines Wohngebäudes (10 WE) mit erdgeschossigem Hotel (12 Betten) und Tiefgarage (14 Stpl. incl. 1 Rollstuhlplatz) / Tektur
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 03.02.14: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Agnes-Bernauer-Straße, 2. Bauabschnitt
+- TOP 8.27.: Schreiben Referat für Bildung und Sport vom 06.02.14: Mittagsbetreuung Naturindianer Fürstenrieder Straße
+- TOP 8.28.: Schreiben Kommunalreferat vom 17.02.14: Veranstaltung Dinnershow Johann Lafers Cotton Club
+- TOP 8.29.: Schreiben Kulturreferat vom 24.02.14: Treffen der Vorsitzenden der Bezirksausschüsse; Mehr Unterstützung des Kulturreferates bei Veranstaltungen der Bezirksausschüsse
+- TOP 8.30.: Bautenliste vom 20.01.-26.01.14 1. Erstantragsverfahren a) Weiß-Ferdl-Str. 1 2. Änderungsverfahren a) Aindorferstr. 77 f
+- TOP 8.31.: Bautenliste vom 27.01.-02.02.14 1. Erstantragsverfahren a) Landsberger Str. 338 b) Dichtlstr. 6
+- TOP 8.32.: Bautenliste vom 03.02.-09.02.14 1. Erstantragsverfahren a) Ilmmünsterstr. 54 b) Helmpertstr. 2 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Senftenauerstr. 78
+- TOP 8.33.: Bautenliste vom 10.02.-16.02.14: 1. Erstantragsverfahren a) Ilmmünsterstr. 66 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Elsenheimerstr. 61
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 27.01.14: Baumaßnahmen der Stadtwerke; Stichtag: 27.01.14
+- TOP 8.35.: Schreiben Stadtwerke München GmbH vom 03.02.14: Baumaßnahmen der Stadtwerke; Stichtag: 03.02.14
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 10.02.14: Baumaßnahmen der Stadtwerke; Stichtag: 10.02.14
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 17.02.14: Baumaßnahmen der Stadtwerke; Stichtag: 17.02.14
+- TOP 8.38.: Beschluss des Ausschusses für Bildung und Sport vom 13.11.13: Mehrjahresinvestitionsprogramm (MIP) 2013-2017; 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, 2. Verfahrenstechnische Neuerungen, 3. Stellungnahmen der Bezirksausschüsse (Sitzungsvorlage Nr. 08-14 / V 13279)
+- TOP 8.39.: Beschluss des Ausschusses für Bildung und Sport vom 04.12.13: SV München-Laim e.V., Private Evangelische Lukas-Schule; 1. Errichtung eines Kunstrasenplatzes mit Flutlichtanlage, eines Brunnens, einer Laufbahn mit Weitsprunggrube und eines Beachvolleyballplatzes auf der Sportanlage an der Riegerhofstr. 20, 2. Langfristige Überlassung der benötigten Grundstücksflächen für die geplante Baumaßnahme (Sitzungsvorlage Nr. 08-14 / V 13469)
+- TOP 8.40.: Beschluss des Ausschusses für Bildung und Sport vom 08.01.14: Private Evangelische Lukas-Schule; 1. Errichtung einer Laufbahn mit Weitsprunggrube und eines Beachvolleyballplatzes auf der Sportanlage an der Riegerhofstr. 20, 2. Langfristige Überlassung der benötigten Grundstücksflächen für die geplante Baumaßnahme (Sitzungsvorlage Nr. 08-14 / V 13774)
+- TOP 8.41.: Beschluss des Bauausschusses vom 14.01.14: Fuß- und Radwegeverbindung Hauptbahnhof-Laim-Pasing, Teilabschnitt Nymphenburger Vorfeld (Sitzungsvorlage Nr. 08-14 / V 13645)
+- TOP 8.42.: Beschluss des Verwaltungs- und Personalausschusses vom 15.01.14: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben (Sitzungsvorlage Nr. 08-14 / V 13587)
+- TOP 8.43.: Beschluss der Vollversammlung vom 22.01.14: Erhaltungssatzungen in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing (Sitzungsvorlage Nr. 08-14 / V 13329)
+- TOP 8.44.: Beschluss der Vollversammlung vom 22.01.14: Energiekonzepte für neue Baugebiete (Sitzungsvorlage Nr. 08-14 / V 13147)
+- TOP 8.45.: Ergänzung zum Beschluss des Ausschusses für Bildung und Sport und des Ausschusses für Stadtplanung und Bauordnung in der gemeinsamen Sitzung des Stadtrates vom 29.01.14: Arbeitsgruppe Schulbauoffensive (SBO) 2013/2030, A. Sachstandsbericht - Berichtszeitraum 2013, B. Räumliche Bedarfsplanung für Münchner öffentliche Realschulen und Gymnasien - Fortschreibung (u.a. Antrag Nr. 08-14 / B 05242 des BA 25 vom 01.10.13 "Entwicklung eines "Bildungscampus München am Westpark"")(Sitzungsvorlage Nr. 08-14 / V 13853)
+- TOP 8.46.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.14: Flächenhaften Naturschutz in der Verwaltung stärken (Sitzungsvorlage Nr. 08-14 / V 13906)
+- TOP 8.47.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 04.02.14: Grundsatzbeschluss zum Fahrradvermietsystem "MVG Rad" (Sitzungsvorlage Nr. 08-14 / V 13949)
+- TOP 8.48.: Beschluss des Bauausschusses vom 04.02.14: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen / ergänzende Vorlage (Sitzungsvorlage Nr. 08-14 / V 13354)
+- TOP 8.49.: Beschluss des Bauausschusses vom 04.02.14: Trappentreutunnel, Instandsetzung und sicherheitstechnische Nachrüstung (Sitzungsvorlage Nr. 08-14 / V 14011)
+- TOP 8.50.: Beschluss des Bauausschusses vom 04.02.14: Bürgerbeteiligung bei Platzgestaltungen - Fünf Plätze attraktiv neu gestalten (Sitzungsvorlage Nr. 08-14 / V 13916)
+- TOP 8.51.: Beschluss der Vollversammlung vom 19.02.14: Urbanes Gärtnern in München, Analyse und Grundsatzbeschluss (Sitzungsvorlage Nr. 08-14 / V 13752)
+- TOP 8.52.: Beschluss der Vollversammlung vom 19.02.14: Landwirtschaft auf Dächern in der Stadt (Sitzungsvorlage Nr. 08-14 / V 13875)
+- TOP 8.53.: Beschluss der Vollversammlung vom 19.02.14: Handlungsprogramm Mittlerer Ring, Sachstand und weiterer Handlungsbedarf (Sitzungsvorlage Nr. 08-14 / V 10707)
+- TOP 8.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.14: Bahnhof Pasing (Sitzungsvorlage Nr. 08-14 / V 13029)
+- TOP 8.55.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.02.14: Untersuchung zum Wirtschaftsverkehr in München, 1. Studie "Kraftfahrzeugverkehr in Deutschland 2010 (KiD 2010)", 2. Studie "Bestandsaufnahme, Analyse und Bewertung vorhandener Gleisanschlüsse in München und dem angrenzenden Umland" (Sitzungsvorlage Nr. 08-14 / V 14117)
+- TOP 8.56.: Beschluss des Ausschusses für Bildung und Sport vom 26.02.14: Kindertagesstätten sonstiger Träger; Kindertagesstätte Elsenheimerstr. 11, Leistung eines Baukostenzuschusses (Sitzungsvorlage Nr. 08-14 / V 13994)
+- TOP 8.57.: Beschluss des Umweltausschusses vom 25.03.14: Erstellung eines Umweltverträglichkeitsgutachten für die Verkehrsknotenpunkte Garmischer Straße / Ammerseestraße und Fürstenrieder Straße / Ammerseestraße (Sitzungsvorlage Nr. 08-14 / V 14191)
+- TOP 8.58.: Schreiben Ghanesische Behinderte und Waisenkinder in Not e.V. vom 03.02.14: Stellungnahme zu den geplanten Änderungen der Richtlinien für Sondernutzung an den öffentlichen Straße
+- TOP 8.59.: Schreiben Remondis GmbH & Co.KG vom 14.02.14: Wertstoffcontainer Friedenheimer Str. 33 (Schreiben BA vom 20.01.14)
+- TOP 1.2: Bürgerpost an den BA
