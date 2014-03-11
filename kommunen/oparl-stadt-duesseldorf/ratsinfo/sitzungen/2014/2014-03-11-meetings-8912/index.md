@@ -1,0 +1,58 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-11T15:00:00+01:00
+- Ende: 2014-03-11T16:40:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8912
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8912
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211848.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211848.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00211848.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - mehrheitlich beschlossen
+- TOP 2: Niederschrift - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 3.1: Anfrage CDU-FDP - Auswirkungen KiBiz-Revision - zur Kenntnis genommen
+- TOP 3.2: Anfrage CDU - FDP: Bilinguale Kita in Düsseldorf - zur Kenntnis genommen
+- TOP 3.3: Anfrage B90/Die Grünen - Pflegekinder in Düsseldorfer Regenbogenfamilien - zur Kenntnis genommen
+- TOP 3.4: Anfrage CDU - FDP - Sicherung sozialer Aufgaben in Düsseldorf - zur Kenntnis genommen
+- TOP 3.5: Anfrage SPD - Kooperation zwischen Kindertageseinrichtungen und Grundschulen - zur Kenntnis genommen
+- TOP 3.6: Antrag Ratsfraktion B90 / Die Grünen - Stadtentwicklungskonzept - zurückgezogen
+- TOP 4: Der neue Düsseldorfer Jugendrat - zur Kenntnis genommen
+- TOP 5: Zentrale Dienste - zur Kenntnis genommen
+- TOP 5.1: Kinder- und Jugendhilfevereinfachungsgesetz - Änderung Kostenbeteiligung - zur Kenntnis genommen
+- TOP 6: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 6.1: Umsetzung KiBiz in Düsseldorf im Kindergartenjahr 2014/2015 - einstimmig beschlossen
+- TOP 6.2: Förderung von Familienzentren durch das Land NRW im Kindergartenjahr 2014 / 2015 - einstimmig beschlossen
+- TOP 6.3: Fördermodelle im Rahmen des Ausbaus der Plätze für Kinder unter 3 Jahren - zur Kenntnis genommen
+- TOP 6.4: Neuregelung in der Kindertagespflege - hier: Neufassung Zielgruppe Kooperationspartner - einstimmig beschlossen
+- TOP 6.5: Qualifiziertes Personal für die Kita und die Kinder- und Jugendarbeit - zur Kenntnis genommen
+- TOP 6.6: Förderprojekt der Achenbach-Stiftung "Malen-Tanzen-Singen" - zur Kenntnis genommen
+- TOP 6.7: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder - einstimmig beschlossen
+- TOP 7: Jugendförderung - zur Kenntnis genommen
+- TOP 7.1: Zuschüsse an freie Träger für Aktionen und Projekte 2014 - einstimmig beschlossen
+- TOP 7.2: Investitionskostenzuschüsse an freie Träger - einstimmig beschlossen
+- TOP 7.3: Mittelvergabe "Jugendschützende und -fördernde Aktionen und Projekte" - einstimmig beschlossen
+- TOP 7.4: Düsselferien 2014 - zur Kenntnis genommen
+- TOP 8: Familienförderung - zur Kenntnis genommen
+- TOP 8.1: Beratung und Unterstützung durch die Beistandschaft - zur Kenntnis genommen
+- TOP 9: Anerkennung gemäß § 75 SGB VIII - zur Kenntnis genommen
+- TOP 9.1: Anerkennung Träger freie Jugendhilfe "Forum freies Theater e.V." - einstimmig beschlossen
+- TOP 10: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 10.1: Modellprojekt „Kein Kind zurücklassen!“ - zur Kenntnis genommen
+- TOP 10.2: Umsetzung des § 72a Abs. 4 SGB VIII - ehrenamtlich tätige Personen - einstimmig beschlossen
+- TOP 10.3: Stadtentwicklungskonzept Düsseldorf 2025+ - Mehr Leben. Mehr Stadt. Für alle. - zurückgezogen
+- TOP 10.4: Programm Jugend, Kultur und Schule - einstimmig beschlossen
+- TOP 10.5: Immigrather Straße 45, Stadtteiltreff Wersten – Neubau - einstimmig beschlossen
+- TOP 11: Controllingberichte - zur Kenntnis genommen
+- TOP 11.1: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 11.2: Controllingbericht Tagespflege - zur Kenntnis genommen
+- TOP 11.3: Controllingbericht Jugendsozialarbeit - zur Kenntnis genommen
+- TOP 11.4: Controllingbericht Jugendförderung - zur Kenntnis genommen
+- TOP 11.5: Beschlusskontrolle I/2014 - zur Kenntnis genommen
