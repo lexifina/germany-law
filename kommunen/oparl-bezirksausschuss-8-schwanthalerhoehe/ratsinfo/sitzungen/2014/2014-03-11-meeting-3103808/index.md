@@ -1,0 +1,53 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3103808
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3103808
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Urbanes Strickprojekt
+- TOP 4.2.: Bauzaun an der Schwimmhalle der Carl-von-Linde-Realschule
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Ligsalzstr. 32 - LBK-Schreiben
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Zwischennutzung Stadtbibliothek Westend
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Fällung Gefahrenbäume
+- TOP 8.2.: Anhörung: Straßenfest Bergmannstraße am 31.05.2014
+- TOP 8.3.: Anhörung: Erinnerungsverfahren Landsbergerstraße, Kreuzungsbereich Trappentreustraße
+- TOP 8.4.: Fahrradstraßen im Stadtbezirk 8 Schwanthalerhöhe
+- TOP 8.5.: Barrierefreie Umgestaltung der Donnersbergerbrücke
+- TOP 8.6.: Neufassung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung, hier: Stellungnahme des BA 20
+- TOP 8.7.: Gleisquerung Augustiner Brauerei - Sachstand
+- TOP 8.8.: Anhörung: Erinnerungsverfahren Trappentreutunnel zwischen Donnersbergerbrücke und Garmischer Straße
+- TOP 8.9.: Zebrastreifen in der Ridlerstraße
+- TOP 8.10.: Wertstoffcontainerstandorte - Schreiben des AWM und Bürgerschreiben
+- TOP 8.11.: Anhörung: Benennung von Straßen und Wegen in Grünanlagen
+- TOP 8.12.: Anhörung: Kurdisches Neujahrsfest Newroz am 20.03.2014 auf dem Gollierplatz
+- TOP 8.13.: Anhörung: Festzug zum Frühlingsfest auf der Theresienwiese am 25.04.2014
+- TOP 8.14.: Anhörung: Flohmarkt des Kulturladen Westend am Gollierplatz
+- TOP 8.15.: Überprüfung der Straßenausbaubeitragserhebung in der Bergmannstraße durch die Regierung von Oberbayern
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Multikulturelles Jugendzentrum ?Mobile Spiele? auf dem Georg-Freundorfer-Platz von 03.04. bis 30.10.2014 - <div>nach Antrag</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Initiative ?Stadtträume? Theaterprojekt ?Bodyswitch? mit Uraufführung Ende Juli 2014 - <div>nach Antrag</div>
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Väterinitiative für engagierte Elternschaft e.V. Pilotprojekt ?Seifenkistenbau? von 14. bis 17.04.2014 - <div>nach Antrag</div>
+- TOP 10: Anträge
+- TOP 10.1.: Trinkwasserbrunnen auf der Schwanthalerhöhe aufstellen
+- TOP 11: Verschiedenes
+- TOP 11.1.: Zugriff auf das städtische Intranet für BA-Mitglieder
+- TOP 11.2.: Anhörung: Mehrjahresinvestitionsprogramm - Fortschreibung 2014-2018
+- TOP 11.3.: Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse
+- TOP 12: Protokoll und Umlauf
