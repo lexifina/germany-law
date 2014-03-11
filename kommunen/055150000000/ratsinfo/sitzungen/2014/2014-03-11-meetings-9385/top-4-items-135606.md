@@ -1,0 +1,8 @@
+# TOP 4: 3. Münsteraner Kinder- und Jugendförderplan
+
+- Sitzung: Sitzung (2014-03-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/135606
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/53514
