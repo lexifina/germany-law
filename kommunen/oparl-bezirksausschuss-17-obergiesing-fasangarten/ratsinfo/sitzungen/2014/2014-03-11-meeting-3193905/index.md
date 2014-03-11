@@ -1,0 +1,130 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-03-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3193905
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3193905
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: MVG Straßenbahntrasse TeLa, Bürgeranliegen von Herrn G. vom 17.02.2014
+- TOP 2.2.: Rahmenplanung TeLa, Bürgeranliegen von Frau R. vom 04.02.2014, vom 10.03.2014 und vom 11.03.2014
+- TOP 2.3.: Holztafeln "Bundeseigenen Wohnanlage Am Perlacher Forst", Bürgeranliegen von Herrn S. vom 09.02.2014
+- TOP 2.4.: Tegernseer Platz als BürgerInnenplatz gestalten, Bürgeranliegen von Frau R. vom 05.03.2014
+- TOP 2.5.: Mobile Schulerweiterung Weißenseeschule, Bürgeranliegen von Herrn S. vom 11.03.2014
+- TOP 2.6.: Situation Untersbergstraße, Bürgeranliegen von Herrn Z. vom 06.03.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Resolution zur Bebauung McGraw, Antrag der Fraktion DIE GRÜNE vom 26.02.2014
+- TOP 3.2.: Müllentsorgung vor Tela Post, Antrag der CSU vom 11.03.2014
+- TOP 3.3.: Sommer im Park 2014, Antrag der SPD-Fraktion vom 11.03.2014
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Evang. Luth. Philippuskirche München-Giesing 50jähriges Jubiläum der evang. Philippuskirche am 11.05.2014
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Münchner Aktionswerkstatt G'sundheit Sommer im Park 2014 am 04.07.2014
+- TOP 4.3.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Mäcki Löffel e.V. Theaterpädagogisches Projekt ab 09.04.2014
+- TOP 4.4.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Tanz- und Theaterfestival ?Rampenlichter? von 09. bis 19.07.2014
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: Budget der Bezirksausschüsse, Antragsteller: Rikki Reinwein, "Skulptur", Antragssumme: 1.000,00 ?
+- TOP 4.2.: Budget der Bezirksausschüsse, Antragsteller: Eltern-Kind-Initiative Mäcki-Löffel e.V. , Theaterpädagogisches Projekt, Antragssumme: 412,50 ?
+- TOP 4.3.: Budget der Bezirksausschüsse, Antragsteller: PA/Spielen in der Stadt, Rampenlichter, Antragssumme: 1.250, ?
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Erinnerungsverfahren; Projektname: Aignerstr. 27-43 und Obere Grasstraße 6, Schreiben des BauR vom 04.02.2014 (Vertagt aus der Sitzung vom 11.02.2014)
+- TOP 0.2.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2), 1. Kleinfeldstraße 14, Neubau eines Einfamilienhauses, Anhörung PlanR vom 30.01.2014 (Vertagt aus der Sitzung vom 11.02.2014), 2. Chiemgaustraße, Nachverdichtung mit barrierefreien Wohnungen und Tiefgarage - VORBESCHEID, Anhörung PlanR vom 04.02.2014 (Vertagt aus der Sitzung vom 11.02.2014)
+- TOP 1: (E) Verbesserung und Sicherung der Grünausstattung im alten Dorfkern Obergiesing Empfehlung Nr. 08-14 / E 01888 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2013
+- TOP 1.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 1. Bad-Berneck-Str. 11, Neubau eines Wohnhauses mit Tiefgarage - VORBESCHEID, Anhörung PlanR vom 21.02.2014, 2. Fasangartenstr. 162, Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung PlanR vom 27.02.2014, 3. Tegernseer Landstraße 337, Nutzungsänderung einer Tankstelle in eine für Fahrzeugüberführungen, Anhörung PlanR vom 28.02.2014, Fasangartenstraße 93, Errichtung eines Reihenhauses, Anhörung PlanR 03.03.2014, 5. St.-Bonifatius-Str. 3, Ersatzneubau eines Wohn-und Geschäftshauses mit TG / VORBESCHEID, Anhörung PlanR vom 03.03.2014, 6. Perlacher Straße, Neubau einer Kindertagesstätte, Anhörung PlanR vom 03.03.2014, 7. Auerspitzstraße 31, Umbau eines Wohnheims, Anhörung PlanR vom 03.03.2014, 8. Deisenhofener Str. 80-82, Anbau eines Wohnhauses in ein Büro- und Wohngebäude, Anhörung PlanR vom 04.03.2014
+- TOP 1.2.: Erinnerungsverfahren; Projektname: Perlacher Straße 50-52, Schreiben des BauR vom 17.02.2014
+- TOP 1.3.: Erinnerungsverfahren; Projektname: Severinstraße 3-3a, Schreiben des BauR vom 19.02.2014
+- TOP 1.1.: Baufälle im 17. Stadtbezirk
+- TOP 1.2.: Erhöhung der Anzahl der im Preisgericht vertretenen BA-Mitglieder bei lokalen, stadtteil- oder stadtviertelbezogenen Planungswettbewerben, BA-Antrag-Nr. 08-14 / B 04578 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 05.02.2013, Sitzungsvorlage Nr. 08-14 / V 13587, Beschluss des Verwaltungs- und Personalausschusses in der Sitzung vom 15.01.2014
+- TOP 1.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 1.4.: Baugenehmigung gem. Art. 59 und Art. 68 BayBO im vereinfachten Genehmigungsverfahren; Eslarner Straße, Neubau von zwei Mehrfamilienhäusern mit Tiefgarage, Bescheid des PlanR vom 06.02.2014
+- TOP 1.5.: Aufnahme des Cincinnati-Kinos in die Denkmalliste, Antrag des BA 17 Obergiesing-Fasangarten vom 14.01.2014, Antwort des PlanR vom 14.02.2014
+- TOP 1.6.: Sorge um Gebäude 327, Cincinnatistraße 57 - 61 Am Fasangarten, Bürgeranliegen aus der Sitzung des BA 17 vom 10.12.2013, Antwort des Sozialreferat vom 28.01.2014
+- TOP 1.7.: Soziale Stadt 2013 - Stand der Umsetzung des Bund-Länder-Städtebauförderprogramms, Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt A) Fortschreibung der Integrierten Handlungskonzepte B) Lenkungsgruppe Stadtsanierung C) Städtebauförderung Sitzungsvorlage Nr. 08-14 / V 12683, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014, Hinweis/Ergänzung vom 27.01.2014
+- TOP 1.8.: Weißenseestr. 45, Errichtung einer temporären Schulraumeinheit (Standzeit bis 2024), Bauherr: Referat für Bildung und Sport, Baugenehmigung gem. Art. 60 und 68 BayBO
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 5.1.3.2.1 Lincolnstr. 64, Neubau eines Pflegeheims (132 Plätze) mit betreutem Wohnen (19 WE), Dienstwohnungen (10 WE) und Tiefgarage (21 Stpl.), Anhörung PlanR vom 12.12.2013 (vertagt aus den Sitzungen vom 14.01.2014 und vom 11.02.2014)
+- TOP 0.1.: Mittelfristige Finanzplanung 2013-2017, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2014 - 2018, Anhörung der Stadtkämmerei vom 17.02.2014
+- TOP 0.2.: Antrag auf Genehmigung der Spielaktionen 2014, Anhörung KVR vom 28.02.2014
+- TOP 0.3.: Sommerfest Little Giants KITA Giesing am 11.07.2014, Anhörung KVR vom 28.02.2014
+- TOP 0.1.: Darstellung der Skateinfrastruktur in München Antrag Nr. 08-14 / A 04674 Sanierung von Skateflächen Antrag Nr. 08-14 / A 04675 von Frau Stadträtin Verena Dietl, Herrn Stadtrat Christian Müller, Frau Stadträtin Beatrix Zurek und Frau Stadträtin Birgit Volk vom 08.10.2013, Sitzungsvorlage Nr. 08-14 / V 13779, Beschluss des Bauausschusses vom 04.02.2014
+- TOP 0.2.: Information zur Auswahl der REGSAM-Schwerpunktgebiete ab 2014, Schreiben des SozR vom 04.02.2014
+- TOP 0.3.: Sachbericht zum gewährten Zuschuss für die Aktion Theatertage im 103er-Freizeittreff Obergiesing, Schreiben des Kreisjugendring München-Stadt vom 29.01.2014
+- TOP 0.4.: Errichtung von Mobilen Schulraumeinheiten an den nachstehenden Standorten in München, A) Errichtung einer Mobilen Schulraumeinheit für 8 Grundschulklassen und Räumen für ganztägige Betreuung an der Weißenseestraße 45 im 17. Stadtbezirk Obergiesing-Fasangarten 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Projektgenehmigung 4. Genehmigung der Ausführung von vorgezogenen Maßnahmen 5. Genehmigung zur verwaltungsinternen Aufsführungsgenehmigung 6. Änderung des Entwurfs des Mehrjahresinvestitionsprogrammes 2013 - 2017, Investitionsliste 1 7. Außerplanmäßige Mittelbereitstellung im Finanzhaushalt 8. Ausnahme vom Finanzierungsmoratorium Sitzungsvorlage Nr. 08-14 / V 13390 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 27.11.2013
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Verkehrssituation in der Heimgartenstraße - Verlegung des Bushalts für das Hotel Leonardo München in den Bereich der TG-Einfahrt für das Klinikum (BA-Antrag Nr. 08-14 / B 05264), Anhörung KVR vom 30.01.2014 (vertagt aus der Sitzung vom 11.02.2014)
+- TOP 0.1.: Antrag zur Parksituation in der Untersbergstraße / Tegernseer Landstraße, Antwort des KommR vom 27.01.2014
+- TOP 0.2.: Verkehrsrechtliche Anordnung nach § 45 StVO, Einrichtung einer Zufahrt zum Straßenbahnplanum in der Tegernseer Landstraße nördlich Kesselbergstraße für die neue Buslinie X30, Information des KVR vom 30.01.2014
+- TOP 0.3.: Grundsatzbeschluss zum Fahrradvermietsystem "MVG-Rad", Radlhauptstadt 2.0, VI: Alles aus einer Hand - Das Fahrrad ins Mobilitätspaket!, Antrag Nr. 4235 der Stadtratsfraktion DIE GRÜNEN/RL vom 07.05.2013 (hier nur Ziffer 2), Sitzungsvorlage Nr. 08-14 / V 13949, Beschluss des Ausschusses für Arbeit und Wirtschaft am 04.02.2014
+- TOP 0.4.: Mehr Fahrradständer in der Ichostraße, Antwort des Baureferat vom 28.01.2014
+- TOP 0.5.: Untersuchungen zum Wirtschaftsverkehr in München, 1. Studie "Kraftfahrzeugverkehr in Deutschland 2010 (KiD 2010)" 2. Studie "Bestandsaufnahme, Analyse und Bewertung vorhandener Gleisanschlüsse in München und dem angrenzenden Umland", Sitzungsvorlage Nr. 08-14 / V 14117, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014
+- TOP 0.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.7.: Brücke für Fußgänger und Fahrradfahrer am Giesinger Berg zwischen Bergsteig und Bergstraße, Antrag Nr. 08-14 / A 05061 der Stadtratsfraktion FDP vom 03.02.2014, Schreiben des Direktorium vom 03.02.2014
+- TOP 0.8.: Verkehrsaufkommen in der östlichen Wirtstraße bzw. Raintalerstraße nach einer verkehrlichen Neuordnung der Tegernseer Landstraße, Antwort des PlanR vom 06.02.2014
+- TOP 0.9.: Handlungsprogramm Mittlerer Ring - Bericht über Ergebnisse der Machbarkeitsuntersuchungen zu baulichen Maßnahmenkonzepten zur Verbesserung der Lärm- und Luftschadstoffsituation an der Landshuter Allee und Tegernseer Landstraße - Weiteres Vorgehen, Sitzungsvorlage Nr. 08-14 / V 13576 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.2014
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Abfallentsorgungsanlage der Fa. Ammer Entsorgungs GmbH, Antrag vom 06.12.2013 auf Durchführung eines immissionsschutzrechtlichen Genehmigungsverfahrens, Anhörung RGU vom 27.01.2014 (vertagt aus der Sitzung vom 11.02.2014)
+- TOP 0.2.: Mehr Mülleimer im 17. Stadtbezirk (Vertagt aus der Sitzung vom 14.01.2014 und 11.02.2014) (ohne Unterlagen)
+- TOP 0.1.: Urbanes Gärtnern in München, Analyse und Grundsatzbeschluss a) Urbanes Gärtnern b) Behandlung der Anträge/der Empfehlung 1. Mehr Kleingartenanlagen für die Münchner Bevölkerung 2. Prinzessinengarten für München 3. München braucht mehr Kleingartenanlagen 4. Neue Flächen für Kleingartenanlagen 5. Kleingartenanlage im Grünzug Grünes Band Ost prüfen 6. Kleingartenanlage SW 52 an der Wilhelm-Riehl-Str. 50 als Daueranlage widmen 7. Gemeinschaftsgärten im 6. Stadtbezirk, Sitzungsvorlage N.r 08-14 / V 13752 Beschluss der Vollversammlung des Stadtrates vom 19.02.2014
+- TOP 0.2.: Vollzug der Wassergesetze, Vorläufige Sicherung des Überschwemmungsgebietes an der Isar, Sitzungsvorlage Nr. 08-14 / V 13738, Bekanntgabe in der Sitzung des Umweltausschusses vom 28.01.2014
+- TOP 0.3.: Energienutzungsplan- nachhaltige und vorausschauende Energieplanung für München, Antrag Nr. 08-14 / A 03331 der Stadtratsfraktion DIE GRÜNEN /RL vom 21.05.2012, Sitzungsvorlage Nr. 08-14 / V 13415, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 15.01.2014
+- TOP 0.4.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Hohenschwangaustr. 15, Bescheid vom 17.02.2014
+- TOP 0.5.: Verschmutzung der Schlierseestraße, Bürgeranliegen aus der Sitzung vom 14.01.2014, Antwort des Baureferat vom 04.02.2014
+- TOP 0.6.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion DIE GRÜNEN/RL vom 07.06.2013, Sitzungsvorlage Nr. 08-14 / V 13354, Beschluss des Bauausschusses vom 04.02.2014, Ergänzende Vorlage
+- TOP 0.7.: Wiederbepflanzung der Bäume in der Weißenseestraße, Antwort des BauR vom 14.02.2014
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Hohenschwangauplatz, 1 Robinie, 1 Esche, 2 Kiefer, 1 Fichte, Antrag vom 06.02.2014 2. Tegernseer Landstraße 207-245, 1 Laubbaum, Antrag vom 07.02.2014, 3. Kiefernstraße 14, 1 Fichte, Antrag vom 08.02.2014 4. Balanstraße 361, Europäische Lärche, Antrag vom 02.02.2014
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Benennung von Straßen und Wegen in Grünzügen, BA-Antrag-Nr. 08-14 / B 04763 des Bezirksausschusses des Stadtbezirks 11 - Milbertshofen - Am Hart vom 10.04.2013, Stellungnahme zur Thematik "Benennung von Straßen und Wegen in Grünanlagen", Anhörung KommR vom 20.02.2014
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Mehr Briefkästen im Bereich des S-Bahnhofs St.-Martin-Straße, Antwort des RAW vom 27.01.2014
+- TOP 7.2.: Straßenbeleuchtung Walchenseeplatz, Bürgeranliegen aus der Sitzung vom 14.01.2014, Antwort des Baureferat vom 06.02.2014
+- TOP 7.3.: Treffen der Vorsitzenden der Bezirksausschüsse; Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse, Information des KultR vom 24.02.2014
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
