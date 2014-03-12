@@ -1,0 +1,7 @@
+# TOP 3.2: Zielvereinbarungen – Amt für Umwelt und Naturschutz / Amt für Weiterbildung und Kultur
+
+- Sitzung: 28. öffentliche Sitzung des Ausschusses für Bildung, Kultur und Umweltschutz (2014-03-12)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=84207
+- Ergebnis: erledigt
