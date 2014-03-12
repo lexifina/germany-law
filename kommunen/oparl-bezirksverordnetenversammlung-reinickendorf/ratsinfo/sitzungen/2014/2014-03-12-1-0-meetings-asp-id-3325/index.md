@@ -1,0 +1,73 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-03-12T17:05:00+01:00
+- Ende: 2014-03-12T20:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3325
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3325
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=75910
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 28. Sitzung der BVV am 12.03.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 28. Sitzung der BVV am 12.03.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 28. Sitzung der BVV am 12.03.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Regelmäßiger Bericht Investitionsmaßnahmen (Zwischenbericht) - überwiesen
+- TOP 7.3: Gemeinschaftsschule im Märkischen Viertel unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Saubere Straßen trotz Hunden (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Lärm-/Sichtschutzwand A 111 zwischen Waidmannsluster Damm und Beyschlagtunnel schöner gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.8: Berufsorientierung in Schulen mit den Eltern stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Sprachcamps im Kiez Auguste-Viktoria-Allee sicherstellen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Schulwegsicherung durch Lotsen - überwiesen
+- TOP 7.11: Sicherung Ellef-Ringnes-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Sicherung S-Bahntrasse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Neue Finanzierungsnotwendigkeiten zur Sicherstellung des Schul- und Vereinssports im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Park & Ride-Parkplätze für Reinickendorf - beantwortet
+- TOP 8.1.1: Park & Ride-Parkplätze für Reinickendorf - überwiesen
+- TOP 8.2: Tag für Menschen mit und ohne Behinderung - beantwortet
+- TOP 8.3: Erhöhte Bearbeitungszeiten von Baugenehmigungen in Reinickendorf - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Abberufung und Berufung eines stellvertretenden beratenden Mitglieds des Jugendhilfeausschusses - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Genehmigungsrechtliche Möglichkeiten beim Grundstück Waidmannsluster Damm 155 ausschöpfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Dritter Pflegestützpunkt in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Palliativ-Versorgung im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Beschluss des Bebauungsplanentwurfs 12-41B vom 10. Oktober 2012 mit Deckblatt vom 21. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-41B für die Grundstücke Zeltinger Platz 1 / 17, 2 / 18, Wiltinger Straße 1 - 3, Zeltinger Straße 1, 2, Edelhofdamm 1, 2 sowie Burgfrauenstraße 1 im Bezirk Reinickendorf, Ortsteil Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Beschluss des Bebauungsplanentwurfes 12-40B vom 10. Oktober 2012 und des Beschlusses über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-40B für die Grundstücke Falkenplatz 1/Eichelhäherstraße 26, 2, 3/9A, 6, 10, 8/Habichtstraße 1, Stößerstraße 2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 5/9, 2/10A, Habichtstraße 1A/5, 2, Rabenstraße 1/3, 2/4A u.v.m. im Bezirk Reinickendorf, Ortsteil Konradshöhe. - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Notarztstandorte - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Sporthallenkapazitäten wiederherstellen, Mensaplanung konsolidieren - erledigt
+- TOP 11.1.1: Sporthallenkapazitäten wiederherstellen, Mensaplanung konsolidieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bildung von Ausschüssen - Änderung der Mitgliederstärke - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Gelbe Fußstapfen für Frohnau - überwiesen
+- TOP 12.2: Unterstützung der Schulen mit erhöhter Anzahl von Schülern ohne Deutschkenntnisse - überwiesen
+- TOP 12.3: Simmelstraße öffnen - überwiesen
+- TOP 12.4: Carsharing im Bezirk ausweiten - überwiesen
+- TOP 12.5: Sanierung der Ellef-Ringes-Grundschule - überwiesen
+- TOP 12.6: Carsharing-Parkplätze im Bezirk ausweisen - überwiesen
+- TOP 12.7: Register in Reinickendorf einrichten - überwiesen
+- TOP 12.8: Gleisbett aus dem Gehweg entfernen - überwiesen
+- TOP 12.9: Dorfschule Lübars - überwiesen
+- TOP 12.10: Konzept Residenzstraße - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Busspur Kurt-Schumacher-Damm zeitlich ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Standorte für anzeigenunabhängige Spurensicherung - überwiesen
+- TOP 13.3: Zebrastreifen an der Einmündung Waidmannsluster Damm / Dianastraße - überwiesen
+- TOP 13.4: Vor der Kita Maximiliankorso wieder Tempo 30 einrichten - überwiesen
