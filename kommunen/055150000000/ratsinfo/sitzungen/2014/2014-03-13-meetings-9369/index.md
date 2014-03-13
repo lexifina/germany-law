@@ -1,0 +1,62 @@
+# 38. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-03-13T17:00:00+01:00
+- Ende: 2014-03-13T20:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9369
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9369
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00353103.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Beantwortung von Anfragen
+- TOP 4.1: Zwischennutzung der Oxford-Kaserne - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Neue Zweifachsporthalle an der Peter-Wust-Schule in Münster-Mecklenbeck - zur Kenntnis genommen
+- TOP 5.2: Investitionen auf Vereinssportanlagen - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig beschlossen
+- TOP 6.2: Maßnahmenprogramm 2014/2015 des Tiefbauamtes für die bezirklichen Maßnahmen im Bereich West - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Satzung über die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 7.2: Ankauf der Grundstücke im Bereich der Oxford-Kaserne, Roxeler Straße 340, in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 7.3: Nutzung einer Teilfläche der Augustin-Wibbelt-Schule als Kindertagesstätte - einstimmig beschlossen
+- TOP 7.4: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7.4.1: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 7.5: Einbringung des Entwurfes "3. Nahverkehrsplan Stadt Münster" und weiteres Verfahren - einstimmig geändert beschlossen
+- TOP 7.6: Programm "Verbesserungen an Haltestellen" für 2015/2016 - einstimmig geändert beschlossen
+- TOP 7.7: Auslobung und Mittelbereitstellung zum städtebaulichen Gutachterverfahren Oxford-Kaserne - Konversion Oxford-Kaserne - - einstimmig beschlossen
+- TOP 7.8: Baulandprogramm 2014 - 2020 - einstimmig geändert beschlossen
+- TOP 7.9: Haltepunkt Roxel - Neubau Querungshilfe in Höhe Pienersallee Nr. 55 - einstimmig beschlossen
+- TOP 7.10: Leitsystem Skulpturensammlung - einstimmig beschlossen
+- TOP 7.11: 3. Münsteraner Kinder- und Jugendförderplan - einstimmig beschlossen
+- TOP 7.12: Interim-Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne, Gievenbeck - einstimmig geändert beschlossen
+- TOP 7.13: Erweiterung der Kindertageseinrichtung St. Pantaleon, Roxel - einstimmig beschlossen
+- TOP 7.14: Baumaßnahmen von Münsteraner Sportvereinen - einstimmig beschlossen
+- TOP 7.15: Investitionen auf Vereinssportanlagen - einstimmig beschlossen
+- TOP 7.16: Ausschreibung und Vergabe der Betriebsträgerschaft für die neue Flüchtlingseinrichtung in Roxel, Zum Schultenhof - einstimmig beschlossen
+- TOP 8: Vorschläge und Anregungen
+- TOP 8.1: Paulushof als Zentrum für Kinder- und Jugendarbeit in Mecklenbeck erhalten - zur Kenntnis genommen
+- TOP 8.2: Parksituation im Zentrum Roxel - zur Kenntnis genommen
+- TOP 8.3: Barrierefreiheit am evangelischen Gemeindezentrum Roxel - einstimmig beschlossen
+- TOP 8.4: Erweiterung des Offenen Ganztags in der Mosaikschule in Gievenbeck - zur Kenntnis genommen
+- TOP 8.5: Ganztagsangebote an Grundschulen im Bezirk-West und insbesondere in Gievenbeck ausbauen - zur Kenntnis genommen
+- TOP 8.6: Barrierefreier Überweg auf der Pantaleonstraße am Hofmannspättken - eingebracht
+- TOP 8.7: Masterplan Havixbecker Straße - eingebracht
+- TOP 8.8: Bessere Beleuchtung im Baugebiet Roxel-Nord - zur Kenntnis genommen
+- TOP 8.9: Wege im Offerbachpark in Münster-Albachten sanieren - eingebracht
+- TOP 8.10: MuM eine Perspektive verschaffen - zur Kenntnis genommen
+- TOP 8.11: Verunreinigung Taxenwarteplatz Von-Esmarch-Straße - eingebracht
+- TOP 8.12: Suche und Einrichtung eines frei zugänglichen Areals mit Bolzplatz als Treff für Jugendliche in Münster-Albachten - eingebracht
+- TOP 8.13: Wohnlandentwicklung östlich der Havixbecker Straße und südlich der Straße Stodtbrockweg - zur Kenntnis genommen
+- TOP 8.14: Nutzung der Spielfläche im Grünen Finger für OGS der Mosaikschule - eingebracht
+- TOP 8.15: Mitnutzung des beschlossenen Umkleidegebäudes im Grünen Finger für den OGS der Mosaikschule - eingebracht
+- TOP 9: Verschiedenes - zur Kenntnis genommen
