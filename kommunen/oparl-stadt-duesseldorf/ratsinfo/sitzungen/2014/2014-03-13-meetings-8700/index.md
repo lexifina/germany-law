@@ -1,0 +1,79 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-13T17:00:00+01:00
+- Ende: 2014-03-13T19:15:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8700
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8700
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212861.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212861.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212861.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Gutachterverfahren mit Öffentlickeitsb.- Nördlich Gerresheimer Landstraße - - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Brorsstraße - Verlängerung des Gehweges und Anlage von Querungsstellen sowie Ausweisung von Halte- bzw. Parkverboten - einstimmig beschlossen
+- TOP 7: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 8: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V. - einstimmig beschlossen
+- TOP 9: Parkregelung Geraer Weg - zurückgezogen
+- TOP 10: Spezialmarkt "Düsseldorfer Herbstfestival" - mehrheitlich beschlossen
+- TOP 11: Trödelmärkte auf dem Schützenplatz Gubener Straße im Jahre 2014 - einstimmig beschlossen
+- TOP 12: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 13: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 14: Grünstreifen Gubener Straße - beantwortet
+- TOP 15: Grundstück Sodener Weg / Sturmstraße, ehemaliger Kirmesplatz - beantwortet
+- TOP 16: Campingplätze Unterbacher See - beantwortet
+- TOP 17: Kreuzungsbereich Karlsruher Straße / Bernburger Straße / Heidelberger Straße - beantwortet
+- TOP 18: Skaterpark Heidelberger Straße und Skaterinsel Am Stufstock - beantwortet
+- TOP 19: Halle Mensch, Posener Straße 156 - beantwortet
+- TOP 20: Spielpunkte im Stadtbezirk 8 - beantwortet
+- TOP 21: Verkehrsunfallstatistik 2013 und Verkehrsüberwachung im Stadtbezirk 8 - beantwortet
+- TOP 22: Lärmschutz Rothenbergstraße - beantwortet
+- TOP 23: Pausenhofdach GGS Gumbertstraße 191 - beantwortet
+- TOP 24: Gleisanlagen Güterzugstrecke Rath - Eller - beantwortet
+- TOP 25: Bürgersteig Coburger Weg - einstimmig beschlossen
+- TOP 26: Gehweg Chemnitzer Straße - einstimmig beschlossen
+- TOP 27: Beschilderung Königshütter Straße - zurückgezogen
+- TOP 28: Sicherung Gleisanlage Eller-Mitte - einstimmig beschlossen
+- TOP 29: Grundstück Festenbergstraße 13 - einstimmig beschlossen
+- TOP 30: Brachfläche Festenbergstraße - einstimmig beschlossen
+- TOP 31: Fußgängerbrücke Festenbergstraße / Krippstraße - einstimmig beschlossen
+- TOP 32: Campingplätze Unterbacher See - mehrheitlich abgelehnt
+- TOP 33: Maßgaben der Bezirksvertretung 8 für die Gewährung von Zuschüssen - zurückgezogen
+- TOP 34: Fahrbahnsanierung Ludwigstraße - einstimmig beschlossen
+- TOP 35: Bebauungsplan Dillenburger Weg - einstimmig beschlossen
+- TOP 36: Car Share, Bike Rental und E-Mobilität im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 37: Masterplan Kinderspielplätze im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Abfallbehälter Gertrudisplatz - einstimmig beschlossen
+- TOP 39: Bezirkssatzung - einstimmig beschlossen
+- TOP 40: Fahrbahndeckensanierung Butzbacher Weg - einstimmig beschlossen
+- TOP 41: Lichtzeichenanlage Karlsruher Straße / Haustertshofweg - einstimmig beschlossen
+- TOP 42: Verkehrsregelung Reisholzer Straße / Schlesische Straße - mehrheitlich abgelehnt
+- TOP 43: Mittelinsel Eller Kamp / Am Kleinforst - einstimmig beschlossen
+- TOP 44: Skateranlage Heidelberger Straße im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Treppen am S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 46: Barrierefreier Ausbau der Bushaltestelle D-Eller-Süd - zur Kenntnis genommen
+- TOP 47: 1.000 Bänke für Düsseldorf - zur Kenntnis genommen
+- TOP 48: Postagentur Lierenfeld - zur Kenntnis genommen
+- TOP 49: Reinigung von Straßenschildern im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Tauben Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 51: Unterführung Vennhauser Allee - zur Kenntnis genommen
+- TOP 52: Lärmschutz an der Güterbahnstrecke Rath-Eller - zur Kenntnis genommen
+- TOP 53: Kreuzungsbereich Erlenkamp / Bebelstraße - zur Kenntnis genommen
+- TOP 54: Fußgängerüberweg Gubener Straße - zur Kenntnis genommen
+- TOP 55: Instandsetzung von Wegen und Plätzen in Parkanlagen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Barrierefreie Haltestelle Am Turnisch - zur Kenntnis genommen
+- TOP 57: Trödelmarkt auf dem OBI-Parkplatz - zur Kenntnis genommen
+- TOP 58: Verkehrslärm Rothenbergstraße - zur Kenntnis genommen
+- TOP 59: Verkehrsunfallstatistik 2013 und Verkehrsüberwachung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 60: Logistik - Unternehmen Dillenburger Weg - zur Kenntnis genommen
+- TOP 61: Parkplätze und Radstellplätze am Proberaumbunker Gatherweg - zur Kenntnis genommen
+- TOP 62: Verkehrsregelung Eller - Mitte - zur Kenntnis genommen
