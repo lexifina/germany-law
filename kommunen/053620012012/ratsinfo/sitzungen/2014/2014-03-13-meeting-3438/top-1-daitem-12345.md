@@ -1,0 +1,6 @@
+# TOP 1.: Besichtigung der Dirt-Bike-Anlage
+
+- Sitzung: Sportausschuss (7. Sitzung) (2014-03-13)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/12345
