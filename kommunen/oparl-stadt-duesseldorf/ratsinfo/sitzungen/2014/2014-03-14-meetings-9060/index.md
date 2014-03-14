@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-14T14:00:00+01:00
+- Ende: 2014-03-14T17:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9060
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9060
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212879.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212879.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00212879.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: FNP-Änderung Nr. 120 - Ulmer Höh' - Aufstellung, Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 5: Städtebaul. Entwurf Plan Nr. 01/004 - Ulmer Höh' - Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 6: Pl 5576/085-Innenstadt Vergn.stätten-1.Verl.VÄ - einstimmig beschlossen
+- TOP 7: Mehrfachbeauftragung Franziskanerkloster Ausl (ö) - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: 1.000 Bänke für Düsseldorf - zur Kenntnis genommen
+- TOP 13: Baumpflanzungen im Stadtteil Pempelfort - einstimmig beschlossen
+- TOP 14: Gepäckwagen bei den Taxiständen vor dem Hauptbahnhof - einstimmig beschlossen
+- TOP 15: Neugestaltung des Rheinufers "Museumsufer" - einstimmig beschlossen
+- TOP 16: Instandsetzung Straßenbelag Römerstraße - zurückgezogen
+- TOP 17: Aufstellung von Fahrradständern - einstimmig beschlossen
+- TOP 18: Standorte für Unterflurcontainer im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 19: Zugänge zu den U-Bahnstationen Heinrich-Heine-Allee (Opernshop), Bolker Stern und Carschhaus - einstimmig beschlossen
+- TOP 20: Ladezonen Nordstraße - einstimmig beschlossen
+- TOP 21: Verlängerung der Buslinie 733 bis zum Spichernplatz - einstimmig beschlossen
+- TOP 22: Parkplatzmarkierung Tußmannstraße - einstimmig beschlossen
+- TOP 23: Sicherung der Haltestelle Tannenstraße 707/715 stadteinwärts - einstimmig beschlossen
+- TOP 24: Rasengleise Spichernplatz - einstimmig beschlossen
+- TOP 25: Kö-Bogen 2. BA/weitere Baumfällungen und Absperrungen - einstimmig beschlossen
+- TOP 26: Gestaltung des Rochusmarktes - einstimmig beschlossen
+- TOP 27: Bautätigkeiten in der Nähe des "Alten Hafens" - zur Kenntnis genommen
+- TOP 28: Walltoiletten im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 29: Kunstwerk "Schwebender Kristall" - zur Kenntnis genommen
+- TOP 30: Immobilie Finanzamt Düsseldorf-Nord - zur Kenntnis genommen
+- TOP 31: Martin-Luther-Platz - zur Kenntnis genommen
+- TOP 32: Gestaltung der Gebäude "Platz der Ideen" - zur Kenntnis genommen
+- TOP 33: Umgestaltung des Grundstückes Roßstraße 76 - zur Kenntnis genommen
+- TOP 34: § 14 Geschäftsordnung - einstimmig beschlossen
+- TOP 35: Mitteilungen der Verwaltung - einstimmig beschlossen
