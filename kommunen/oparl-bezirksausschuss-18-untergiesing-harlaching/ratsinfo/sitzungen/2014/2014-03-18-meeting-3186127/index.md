@@ -1,0 +1,151 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186127
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186127
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.2.1.: Schulbushaltestelle Holzkirchner Straße - Gehweg; Bürgeranliegen vom 21.02.2014 - <div>vertagt / Ortsbegehung UA Verkehr</div>
+- TOP 2.1.2.2.: Antrag auf Beseitigung einer Bodenwelle vor dem Anwesen Tegernseer Landstraße 234; zweites Bürgerschreiben in dieser Angelegenheit vom 12.02.2014
+- TOP 2.1.2.3.: Mountainbiker im Perlacher Forst, neues Areal als Ausweichroute (u. a. Antrag von Bündnis 90 / Die Grünen); Bürgerschreiben vom 21.02.2014
+- TOP 2.1.2.4.: Veränderung im / am Perlacher Forst; Bitte um Anwohnerbefragung; Bürgeranliegen vom 20.02.2014
+- TOP 2.1.2.5.: 1. Erneuerung des Fahrbahnbelags Autharistraße 2. Erneuerung des Radweges von der Tramhaltestelle Klinikum Harlaching in Richtung Tramhaltestelle Großhesseloher Brücke 3. Entfernen der Werbung gegenüber der kath. Kirche Maria Immaculata Bürgeranliegen vom 16.02.2014
+- TOP 2.1.2.6.: Einrichtung eines Biergartens in Untergiesing (z.B. an der Sachsenstraße, Sportanlage an der Claude-Lorrain-Straße, Schyrenbad, Humboldtstraße etc.); Bürgeranliegen - verwiesen vom BA 5 an den BA 18
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.2.1.: AntragstellerIn: GTEV Chiemgauer München, für die Maßnahme: Anschaffungen im Bereich Trachtenpflege und Auftritte 2014; Antragssumme: 1.550,00 ?; Beschlussvorlage des Direktoriums vom 13.02.2014
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.2: UA Verkehr
+- TOP 3.2.2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching Widmungserweiterung einer Teilstrecke des Schilcherweges - <div></div>
+- TOP 3.2.3.1.: Einführung eines Anwohnerparkbereiches rund um die Gufidauner Straße; Antrag der CSU-Fraktion vom 05.03.2014 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.2.4.1.: Erinnerungsverfahren; Zuleitungen des Baureferats-Tiefbau mit der Bitte um Stellungnahme 3.2.4.1.1 Claude-Lorrain-Straße; Verbreiterung der Gehbahn und Wiederherstellung Fahrbahn nach Spartengrabung 3.2.4.1.2 Brunnenweg 6 - 8; Gehweginstandsetzung als Vorwegmaßnahme DSK und Fahrbahninstandsetzung mit Verbesserung der Entwässerung 3.2.4.1.3 Harlachinger Straße; Sanierung Geh- und Radweg 3.2.4.1.4 Am Hollerbusch 9; Am Staudengarten 39; Gehbahninstandsetzung als Vorwegmaßnahme DSK u. Fahrbahninstandsetzung mit Verbesserung der Entwässerung 3.2.4.1.5 Rotbuchenstr. 79b - 81 mit Am Hollerbusch 1 - 5; Gehbahninstandsetzung und Fahrbahninstandsetzung mit Verbesserung der Entwässerung 3.2.4.1.6 Klausener Str. 1 - 5; Gehbahninstandsetzung als Vorwegmaßnahme DSK u. Fahrbahninstandsetzung; Grabungssanierung mit Verbesserung der Entwässerung 3.2.4.1.7 Grödner Str. 2 - 20; Gehbahninstandsetzung als Vorwegmaßnahme DSK und Fahrbahninstandsetzung mit Verbesserung der Entwässerung 3.2.4.1.8 Geiselgasteigstr. 114d; Sanierung des Radwegs zw. Meichelbeckstraße u. Menterschwaigstraße
+- TOP 3.2.5.1.: Zustand Harthauser Straße / Holzkirchner Straße - Bürgerantrag; Schreiben des BA 18 vom 21.11.2013 mit der Bitte um einen Ortstermin; Antwortschreiben des Baureferats-Tiefbau vom 12.02.2014 (neutrale Erledigung)
+- TOP 3.2.5.2.: Machbarkeitsstudie Tegernseer Landstraße / Chiemgaustraße; BA-Antrag Nr. 08-14 / B 05528 vom 21.01.14; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 20.02.2014 (positive Erledigung)
+- TOP 3.2.5.3.: Querung der Isar von Thalkirchen nach Harlaching und zurück mittels Seilbahn; BA-Antrag Nr. 08-14 / B 05369 vom 19.11.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 24.02.14 (negative Erledigung)
+- TOP 3.2.6.1.: Untersuchungen zum Wirtschaftsverkehr in München 1. Studie "Kraftfahrzeugverkehr in Deutschland 2010 (KiD 2010)" 2. Studie "Bestandsaufnahme, Analyse und Bewertung vorhandener Gleisanschlüsse in München und dem angrenzenden Umland"; Sitzungsvorlagen Nr. 08-14 / V 14117; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 26.02.2014
+- TOP 3.2.6.2.: Handlungsprogramm Mittlerer Ring - Sachstand und weiterer Handlungsbedarf; neu: Ramersdorf nicht vergessen! Prognoseberechnungen für den Mittleren Ring auch im 16. Stadtbezirk durchführen; Stadtratsantrag Nr. 08-14 / A 05034 vom 23.01.14; Berg-am-Laim nicht vergessen! Prognoseberechnungen für den Mittleren Ring auch im 14. Stadtbezirk durchführen! Stadtratsantrag Nr. 08-14 / A 05052 vom 30.01.14; Sitzungsvorlagen Nr. 08-14 / V 10707; Beschluss der Vollversammlung des Stadtrates vom 19.02.2014
+- TOP 3.2.6.3.: Verlegung der bestehenden Straßenbahngleise in der Tegernseer Landstraße zwischen den Haltestellen Silberhornstraße und Tegernseer Landstraße zur Ermöglichung eines Radweges in südlicher Fahrtrichtung; Trassierungsbeschluss vor Einleitung des Planfeststellungsverfahrens; Beschlussentwurf für eine gemeinsame Sitzung der Ausschüsse von RAW, Planungsreferat und KVR am 02.04.14 mit der Bitte um Kenntnisnahme
+- TOP 3.3: UA Umwelt
+- TOP 3.3.5.1.: Baumfällungen in der St.-Magnus-Straße (vor REWE); Bürgeranliegen aus der Februar-Sitzung; Antwort des Baureferats-Gartenbau vom 25.02.2014 (positive Erledigung)
+- TOP 3.3.6.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Harthauser Straße 103; Bescheid vom 26.02.2014 3.3.6.1.2 Söltlstraße 34; Bescheid vom 26.02.2014 3.3.6.1.3 Rotbuchenstr. 48 - 50; Bescheid vom 05.03.2014
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1.1.: BV Bozzarisstraße 31; Schreiben der WEG Bruggspergerstraße (verwiesen aus der Sitzung vom 18.02.2014)
+- TOP 3.5.3.1.: Machbarkeitsprüfung durch die LHM zum Bau einer Mehrzweckturnhalle auf dem Parkplatz Klausener Bad; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 18.02.2014) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.5.4.1.: Stellungnahme zur Thematik "Benennung von Straßen und Wegen in Grünanlagen"; Schreiben des Kommunalreferats vom 20.02.2014 mit der Bitte um Rückäußerung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Tierparkstraße 30, Umbau und Sanierung des Elefantenhauses (ohne Kuppel); Anhörung vom 13.02.2014 (vertagt aus der Sitzung vom 18.02.14)
+- TOP 3.5.4.1.2.: Herzog-Garibald-Str. 10, An- und Umbau eines Mehrfamilienhauses; Anhörung vom 25.02.2014
+- TOP 3.5.4.1.3.: Am Perlacher Forst 186, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID; Anhörung vom 25.02.14
+- TOP 3.5.4.1.4.: Obere Weidenstraße 5, Sanierung und Umbau eines Reihenmittelhauses; Anhörung vom 25.02.14
+- TOP 3.5.4.1.5.: Grünwalder Str. 65, Abbruch des Bestands und Neubebauung mit Wohnungen - VORBESCHEID (2 Varianten); Anhörung vom 25.02.14
+- TOP 3.5.4.1.6.: Sachsenstraße 25 - 31, Betriebshofgebäude Süd, 1. OG: Erstellung 2er Wanddurchbrüche und Umgestaltung der Aufenthaltsbereiche im Freien; Anhörung vom 26.02.14
+- TOP 3.5.4.1.7.: Candidplatz 9-15, Nutzungsänderung; Anhörung vom 28.02.2014
+- TOP 3.5.4.1.8.: Säbener Str. 9 / RGB, DG-Aufstockung und -Ausbau, Teil-Nutzungsänderung u. Umbau von 4 Werkstätten und 6 WE zu 6 RH-Einheiten, Vergrößerung der Windfänge u. Anbauten, Errichtung von Balkonen u. einer Einhausung des Müllabstellplatzes, Anbringen einer außenliegenden Wärmedämmung; Anhörung vom 03.03.14
+- TOP 3.5.4.1.9.: Tierparkstraße 30, Errichtung eines Stachelschweingeheges an der Savannenanlage; Anhörung vom 03.03.14
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.5.1.: Verbesserung der Wohnsituation für Mieter des Anwesens Pilgersheimer Straße 42; BA-Antrag Nr. 08-14 / B 05462 vom 17.12.13; Antwortschreiben des Sozialreferats vom 14.02.13 (neutrale Erledigung)
+- TOP 3.5.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.5.3.: Heimag-Siedlung an der Säbener Straße - Stellungnahme der LHM; BA-Antrag Nr. 08-14 / B 05460 des BA 18 vom 17.12.13; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 27.02.14 (neutrale Erledigung)
+- TOP 3.5.6.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 Vereinswirtschaft MKV Sportgaststätte, Säbener Str. 49; Mitteilung vom 11.02.14 3.5.6.1.2 Kleingaststätte "Giasinger Schlümpfe", Humboldtstraße; Mitteilung vom 20.02.14 3.5.6.1.3 Kleingaststätte "Türkitch", Humboldtstraße; Mitteilung vom 27.02.14
+- TOP 3.5.6.2.: Mitteilung des Kommunalreferats vom 31.01.2014 über ein Grundstücksgeschäft (Kauf) im 18. Stadtbezirk, Krumpterstraße 12-16, Agilolfingerstraße 31, 33
+- TOP 3.5.6.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.6.4.: Mitteilung des Kommunalreferats über ein Grundstücksgeschäft (Verkauf) im 18. Stadtbezirk, Pilgersheimer Str. 11 und Säckingenstraße 8
+- TOP 3.5.6.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.5.1 Anwesen Rabenkopfstraße; Mitteilung vom 18.02.14 3.5.6.5.2 Anwesen Klausener Straße; Mitteilung vom 26.02.14 3.5.6.5.3 Anwesen Bozzarisstraße; Mitteilung vom 27.02.14
+- TOP 3.5.6.6.: Kleingartenverband München e.V. unterstützen; Stadtratsantrag Nr. 08-14 / A 03484 vom 11.07.12; Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen; Stadtratsantrag Nr. 08-14 / A 03514 vom 17.07.12; Sitzungsvorlage Nr. 08-14 / V 13834; Beschluss des Bauausschusses vom 11.03.2014 (SB)
+- TOP 3.5.7.1.: Prößlstraße 12, Fl.Nr. 12863/29, Gemarkung Sektion VII, Neubau 2er Wohngebäude mit TG - VORBESCHEID (2 Var.) - negative Stellungnahme des BA 18 vom 20.12.2013; Kopie des Vorbescheids der Lbk vom 05.02.2014
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.2.1.: Harlachinger Burschenfest - Durchführung des Festes in den kommenden Jahren in der jetzigen Form; Empfehlung Nr. 08-14 / E 02074 der BÜV des 18. Stadtbezirkes vom 14.11.2013; Sitzungsvorlage Nr. 08-14 / V 14206; Beschluss des BA 18 vom 18.03.2014 - <div></div>
+- TOP 3.6.4.1.: Wanderbaumallee Humboldtstraße; Schreiben des Vereins Green City e.V. mit der Bitte um Stellungnahme
+- TOP 3.6.5.1.: Anschluss für Abwasser, Wasser und Strom für die städtische Grünanlage an der Oberbiberger Straße; Bitte um Ortstermin mit Vertretern des Baureferates, des Bezirksausschusses und den ortsansässigen Vereinen; Schreiben des BA 18 vom 10.01.2014; Antwortschreiben des Baureferats-Gartenbau vom 07.02.2014
+- TOP 3.6.7.1.: Tag des offenen Denkmals am 14. September 2014; Informationen zur Anmeldung
+- TOP 3.6.7.2.: Urbanes Strickprojekt im 18. Stadtbezirk; Anfrage des Vereins Linkshänder e.V. vom 10.02.2014
+- TOP 4: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: Mittelfristige Finanzplanung 2013 - 2017; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2014 - 2018; Zuleitung der Stadtkämmerei vom 17.02.2014 mit der Bitte um Stellungnahme bis 14.04.2014
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.2013; Zwischennachricht des Direktoriums vom 16.12.2013; Nachfrage des Direktoriums vom 06.02.2014 mit der Bitte um Rücksendung einer Liste der priorisierten Standorte im 18. Stadtbezirk
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Ausländer /-innen
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.2.1.: neuer Sitzungstermin für die konstituierende BA-Sitzung im Mai: Dienstag, 13.05.2014
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
+- TOP 3.1.1: Bericht (1)
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.1.3: Anträge (1)
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.1.7: Sonstiges (1)
+- TOP 3.2.1: Bericht (2)
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.2.3: Anträge (2)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen (1)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.2.7: Sonstiges (2)
+- TOP 3.3.1: Bericht (3)
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.3.3: Anträge (3)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen (2)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.3.7: Sonstiges (3)
+- TOP 3.4.1: Bericht (4)
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 3.4.3: Anträge (4)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen (3)
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.4.7: Sonstiges (4)
+- TOP 3.5.1: Bericht (5)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 3.5.3: Anträge (5)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen (3)
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen (4)
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 3.5.7: Sonstiges (5)
+- TOP 3.6.1: Bericht (6)
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 2: (E) Harlachinger Burschenfest - Durchführung des Festes in den kommenden Jahren in der jetzigen Form Empfehlung Nr. 08-14 / E 02074 der Bürgerver-sammlung des Stadtabezirkes 18 - Untergiesing-Harlaching am 14.11.2013 - <div></div>
+- TOP 3.6.3: Anträge (6)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen (4)
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen (5)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 3.6.7: Sonstiges (6)
