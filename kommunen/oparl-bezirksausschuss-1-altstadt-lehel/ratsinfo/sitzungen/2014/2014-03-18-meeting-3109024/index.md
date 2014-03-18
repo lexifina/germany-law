@@ -1,0 +1,95 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-03-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109024
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109024
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Bürgeranliegen: Bauvorhaben Maximilianstr. 33, Einladung eines Vertreters der GEWOFAG in die Sitzung des Unterausschusses (incl. Vorinformation des Antragstellers - Antrag auf Freischankfläche)
+- TOP .1.: (E) Wiederherstellung der Treppe an der Praterinsel Empfehlung Nr. 08-14 / E 02143 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013 08-14 / E 02143
+- TOP .2.: Erweiterung der Fußgängerzone Sendlinger Straße bis Asamkirche (Ziffer 1)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstraße 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro-, Wohn- und Geschäftshaus, vertagt aus 2013.12 B 3.1.1, 2014.01 B 3.1.1, 2014.02 B 3.1.1
+- TOP .2.: Maximilianstr. 35, Aufstockung eines Bürogebäudes (Wohnnutzung) ? Vorbescheid, vertagt aus 2014.01 B 3.1.12, 2014.02 B 3.1.5
+- TOP .3.: Lenbachpl., Errichtung einer Plakatwand als Kunstobjekt im öffentlichen Raum, vertagt aus 2014.01 B 3.1.8, 2014.02 B 3.1.6, siehe auch E 3.1 (incl. Zwischennachricht der Lokalbaukommission)
+- TOP .4.: Lerchenfeldstr. 2, Generalsanierung und Erweiterung der Archäologischen Staatssammlung (siehe auch Baumfällung TOP D 3.2), vertagt aus 2014.02 B 3.1.3
+- TOP .5.: Unsöldstr. 2, Errichtung eines Wintergartens mit Sonnenschutz-Vordach sowie einer Terrasse auf dem Dachgeschoss (DG), Einbaueiner Spindeltreppe (DG-Wintergarten, Abbruch des gemauerten Kamins auf dem DG - Tektur
+- TOP .6.: Kreuzstr. 18, Aufstockung und Fassadenänderung durch Fenstereinbau im Erdgeschoss
+- TOP .7.: Roßmarkt 10, Einbau einer Dachterrasse (1. Dachgeschoss straßenseitig), Verlängerung einer Gaube (hofseitig) und Einbau einer Gaube im Galleriegeschoss
+- TOP .8.: Sattlerstr. 1, Nutzungsänderung: Bankfiliale zu Einzelhandel sowie Änderung der Fassade
+- TOP .9.: Kaufingerstr. 12, Umbau des Eingangsbereichs eines Ladengeschäfts
+- TOP .10.: Isartorplatz 8, Errichtung eines Wintergartens unter den Arkaden (Freischankfläche)
+- TOP .11.: Maximilianstr. 13-15, Innenausbau einer Ladeneinheit und Anbringung von Werbeanlagen an der Fassade
+- TOP .12.: Marienplatz 25, Umbau eines Geschäftshauses (1. Unter- bis 1. Obergeschoss) sowie Fassadenneugestaltung im Erdgeschoss
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018
+- TOP .2.: Pilotystr. 8, Änderung der Denkmalliste ? Nachtrag des Vordergebäudes in die Bayerische Denkmalliste Teil A: Baudenkmäler
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Eiscafe ?i love leo?, Rindermarkt 2: Genehmigung einer Freischankfläche
+- TOP .2.: Gaststätte ?Oskarmaria?, Salvatorplatz 1, Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Sendlinger Straße, Fußgängerzone: 1. Evaluierung Freischankflächengestaltung etc. 2. Turnusplatz für Obst- / Gemüse-Verkauf 3. Turnusplatz für Werbeverkauf (vertagt aus 2013.12 D 2.2 / 2013.01 C 2.2.1 und 2013.02 C.2.2.1)
+- TOP 1: (E) Kein Kulturstrand am Vater-Rhein-Brunnen 2014 Empfehlung Nr. 08-14 / E 02147 der Bürgerver- sammlung des Stadtbezirkes 1 Altstadt_Lehel am 05.12.2013
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Spieleabend des Sportamtes sonntäglich von Mai bis Oktober 2014 auf dem Marienhof
+- TOP 1.2.: Michael Jackson World Cry Day auf dem Promenandenplatz am 28.06.2014
+- TOP 1.3.: Italienischer Markt vom 26.03. bis 29.03.2014 auf dem Rindermarkt
+- TOP 1.4.: Kunsthandwerkermarkt vom 10.04. bis 13.04. 2014 auf dem Sendlinger-Tor-Platz
+- TOP 1.5.: Sportveranstaltungen auf dem Marienplatz ? Informelle Abfrage des Referats für Bildung und Sport
+- TOP 1.6.: Informationsveranstaltung mit Sammlung Johanniter Unfallhilfe e.V.
+- TOP 1.7.: StadtLesen vom 24.04. bis 27.04.2014 auf dem sog. Odeonsplatz
+- TOP 1.8.: Kulturveranstaltung ?What? the Deal? vom 10.04. bis 12.04.2014 auf dem Max-Joseph-Platz
+- TOP 1.1.: Bürgeranliegen: Wanderbaumallle in der Sendlinger Str.
+- TOP 1.2.: Bürgeranliegen: Verkehrssituation Rosenbuschstr. / Emil-Riedel-Str., siehe 2014.02 A3.2
+- TOP 1.3.: Bürgeranliegen: Behinderung durch Altkleidercontainer in der Knöbelstr., siehe 2014.02 A 3.7
+- TOP 1.4.: Bürgeranliegen: Durchgang durch den Knöbelblock, siehe 2014.02 A 3.7
+- TOP 1: (E) Leinenzwang für alle Hunde am Sebastians- und Jakobsplatz (Ziffer 2) Empfehlung Nr. 08-14 / E 02125 der Bürgerver- sammlung des 1. Stadtbezirkes - Altstadt-Lehel am 05.12.2013
+- TOP 1.1.: Errichtung von Motorradparkplätzen an der Prälat-Zistl-Straße
+- TOP 1.2.: Lerchenfeldstr. 2, Generalsanierung und Erweiterung der Archäologischen Staatssammlung (siehe auch Bauvorhaben TOP B 3.1.4),vertagt aus 2014.02 B 3.1.3
+- TOP 1.3.: Benennung von Straßen und Wegen in Grünanlagen
+- TOP 1.4.: Erinnerungsverfahren: Wiederherstellung der Geh- und Fahrbahnen in der Hofstatt
+- TOP 1.1.: Fragen an das Kulturreferat bezügl. Budget für Kunst im öffentlichen Raum, siehe 2014. 01 E 0.1 (Vertreterin des Kulturreferates in BA-Sitzung eingeladen)
+- TOP 1.1.: Lenbachpl., Errichtung einer Plakatwand als Kunstobjekt im öffentlichen Raum, vertagt aus 2014.01 B 3.1.8, 2014.02 B 3.1.8, siehe auch B 3.1.3
+- TOP 1.2.: Tag des offenen Denkmals, vertagt aus 2014.02 E 3.2
+- TOP 1.3.: Spielaktionen 2014 der Spiellandschaft Stadt
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Änderung der Satzung für die Bezirksausschüsse; Sitzungsvorlage Nr. 08-14 / V 13400; Beschluss des Verwaltungs- und Personalausschusses vom 05.02.2014
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Tiefgarage am Thomas-Wimmer-Ring ? Offener Brief von betroffenen Bürgerinnen und Bürgern
+- TOP 0.3.: Abbruch und Neubau / Sanierung eines Wohn- und Geschäftsgebäudes auf dem stadteigenen Grundstück Müllerstr. 2 ? 6, Ergebnis der Variantenuntersuchung und weiteres Vorgehen; Beschluss der Vollversammlung des Stadtrates am 19.02.2014
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Kiosk im Arkadenbereiches des Alten Rathauses, Marienplatz 15
+- TOP 0.6.: Veranstaltungskonzept ?Praterstrand?, Praterinsel 4, 15.05.-07.09.2014
+- TOP 0.7.: Umzug des Narrhalla-Prinzenwagens in der Innenstadt am 04.03.2014, Eilentscheidung des Vorsitzenden
+- TOP 0.8.: Kunst im öffentlichen Raum: Aufstellung eines Eisblocks in der Viscardigasse ab 20.03.2014
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Bruderstr. 5
+- TOP 0.2.: Altstadtring Nordwest ? Sicherheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring im 3. Stadtbezirk Maxvorstadt und im 1. Stadtbezirk Altstadt-Lehel; Beschluss der Vollversammlung des Stadtrates vom 22.01.2014
+- TOP 0.3.: Anzahl der Stellplätze in der geplanten Tiefgarage in der Hildegartstraße, Antwort des Referats für Stadtplanung und Bauordnung zur Bürgerversammlungsanfrage 08-14/Q 00569
+- TOP 0.4.: Randstein Straßenbereich Residenzstr. / Viscardigasse, Barrierefreiheit, Antwortschreiben des Baureferates, siehe 2014.01 A 3.2
+- TOP 0.5.: Untersuchungen zum Wirtschaftsverkehr in München; Sitzungsvorlage Nr. 08-14 / V 14117; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014
+- TOP 0.6.: Ausnahmezulassung für die Aufstellung eines Kraftstromerzeuger bei Dreharbeiten an versch. Standorten gemäß Bundes-Immissionsschutzgesetz (BImSchG)
+- TOP 0.7.: Aufhebung der Einbahnstraßenregelung für Radfahrer in der Seitzstraße, zwischen Altstadtring und Zufahrt zur Tiefgarage des BRK, BA-Antrag Nr. 08-14 / B 05380 vom 19.11.2013, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.8.: Einsatz von Laubbläsern, Rasenmähern, Kettensägen (Antwortschreiben des Baureferates zum BA-Schreiben 2014.01 A.3.1 vom 31.01.2014)
+- TOP 0.9.: Aktion saubere Stadt ? Weiterentwicklung; Sitzungsvorlage Nr. 08-14 / V 14090; Beschluss des Bauausschusses vom 11.03.2014
+- TOP 0.1.: Aufstellen einer größeren Gedenktafel vor dem ehemaligen Wittelsbacher Palais Beschluss des Kulturausschusses vom 13.03.2014 zur Empfehlung Nr. 08-14 / E 02144 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013
+- TOP 0.2.: Treffen der Vorsitzenden der Bezirksausschüsse; Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
