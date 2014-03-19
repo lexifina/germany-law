@@ -1,0 +1,9 @@
+# TOP -: Feststellung Jahresabschluss und Lagebericht zum 31.12.2013 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser - hier: Vorabinformation
+
+- Sitzung: Betriebsausschuss "Stadtwerke" (24. Sitzung) (2014-03-19)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/27615
+- Beratung: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/consultation/34866
+- Beschluss (Datei): Beschlusstext (Feststellung Jahresabschluss und Lagebericht zum 31.12.2013 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser -
+hier: Vorabinformation) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYGl9S6dahVY0zaVOPdqkrxwAhklLYPA8B1hLye6Rb8r/Beschlusstext_1269-IX-Z-1_-oeffentlich-_Betriebsausschuss_-Stadtwerke_Bad_Muenstereifel-_19.03.2014.pdf
