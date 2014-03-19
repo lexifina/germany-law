@@ -1,0 +1,119 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3096494
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3096494
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Reitpferde im Wohngebiet Lochhausen / Aubinger Lohe
+- TOP 2.2.: Spielplatz Wasserturm Aubing
+- TOP 2.3.: Parken von Pkw auf Gehwegen an der Kreuzung Limes-/Seldeneckstraße
+- TOP 2.4.: Radverkehrsverbindung Gräfelfing - Gewerbegebiet Freiham
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Streitbergstr. 38 - Brunhamstr. - Kastelburgstr. 11 - Reichenaustr. 15 - Soldhofstr. 24 - Ehrenbürgstr. 9 - Zwingenberger Str. 7 - Mainaustr. 69 - Kainacher Str. 6 - Industriestr. 66 - Stolzeneckstr. 3
+- TOP 3.1.2.: Genehmigung Baumfällung: - Aubinger Str. 152, Schr. Planungsreferat vom 25.02.14
+- TOP 3.3: Jugendbeauftragte
+- TOP 3.4: Migrationsbeauftragte
+- TOP 3.5: Regsambeauftragte
+- TOP 3.6: Mieterbeirat
+- TOP 3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Bolzplatz in Freiham-Nord
+- TOP 4.2.: Hilfe für Hallensportler
+- TOP 4.3.: Jugendversammlung
+- TOP 4.4.: Kinder- und Jugendforum
+- TOP 4.5.: Forum 22 für Schulen im 22. Stadtbezirk
+- TOP 4.6.: Grünfläche zwischen Hornberger Straße und Leienfelsstraße
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse: Kirchenverwaltung St. Quirin Aubing / Veteranen und Kameradschaftsverein Aubing Anfertigung von drei Gedenktafeln
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Antrag auf Genehmigungen Spielaktionen 2014, Anhörung KVR vom 28.02.14
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Einrichtungen für Flüchtlinge im Stadtbezirk 22, Schr. Sozialreferat vom 03.02.14
+- TOP 6.1.2.2.: Ferienangebote für alle bedürftigen Kinder und Jugendlichen ermöglichen, Schr. Sozialreferat vom 27.02.14
+- TOP 6.1.2.3.: Veranstaltungen / Kooperationen März 2014, Schr. Kulturreferat vom 28.02.14
+- TOP 6.2: UA Budget
+- TOP 6.3: UA Freiham
+- TOP 6.3.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.3.2.2.: Anfrage zu Freiham Süd, Schr. Planungsreferat vom 19.02.14
+- TOP 6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.4.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.4.1.1.: Brunhamstr. 19 a - Nutzungsänderung eines ehem. Schlafwagenreparaturbetriebes in Antik-/Trödelmarkt, Werkstätten, Ateliers, Ausstellungshalle, Halle mit Wechselnutzungen sowie Anbau zweier Nebengebäude und Aufstellen einer Containeranlage, Anhörung Planungsreferat vom 07.02.14 (vertagt aus 02/14)
+- TOP 6.4.1.2.: Energiewirtschaftsgesetz: 110 kV-Leitung Kochel-Karlsfeld, Ltg. Nr. B 2, Erhöhung einzelner Maste zur Verbesserung der Boden- und Objektabstände, Anhörung Planungsreferat vom 06.02.14 (vertagt aus 02/14)
+- TOP 6.4.1.3.: Bodenseestr. 279-281 - Aufstockung eines Fitness-Studios, Anhörung Planungsreferat vom 21.02.14
+- TOP 6.4.1.4.: Bodenseestr. 149 - Neubau einer 2-gassigen Pkw-Prüfstelle, Anhörung Planungsreferat vom 21.02.14
+- TOP 6.4.1.5.: Joseph-Suder-Bogen - Neubau eines 5-gruppigen Hauses für Kinder, Anhörung Planungsreferat vom 21.02.14
+- TOP 6.4.1.6.: Papinstraße - Neubau eines Einfamilienhauses mit Doppelgarage, Anhörung Planungsreferat vom 21.02.14
+- TOP 6.4.1.7.: Benennung von Straßen und Wegen in Grünanlagen, Anhörung Kommunalreferat vom 20.02.14
+- TOP 6.4.1.8.: Verlängerung Haltverbot Ecke Aubinger Straße / Ravensburger Ring; Einrichtung eines Halt-/Parkverbotes im Bereich Abfallcontainer in der Mainaustr., Anhörung KVR vom 07.02.14
+- TOP 6.4.1.9.: Straßenausbau Aubing-Ost-Straße südlich - Bebauungsplan Nr. 1977, Anhörung Baureferat vom 28.02.14
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk v. 03.02.-09.02.14, v. 10.02.-16.02.14 v. 17.02.-23.02.14, Schr. Planungsreferat vom 11.02.14, 17.02.14, 24.02.14
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 10.02.14, 17.02.14, 24.02.14
+- TOP 6.4.2.4.: Frühzeitige Bürgerbeteiligung am Planungsprozess zur geplanten Bebauung in der Federsee-/Henschelstraße; Anfrage Freiham-Süd; Anfrage zu Bodenseestr.; Brache an der Ecke Schussenrieder Straße und Schubinweg, Schr. Planungsreferat vom 19.02.14
+- TOP 6.4.2.5.: Neubau einer Lichtsignalanlage am Knotenpunkt Aubinger-/Limesstraße, Schr. KVR vom 06.02.14
+- TOP 6.4.2.6.: Vollzug des Bundes-Immissionschutzgesetzes; Brunhamstr. 21 - Lärmbelästigung, Schr. RGU vom 17.02.14
+- TOP 6.4.2.7.: Vollzug der Grünanlagensatzung; Baustelleneinrichtung an der Federseestraße, Schr. KVR vom 18.02.14
+- TOP 6.4.2.8.: Johannes-Tanner-Str. in Lochhausen - zusätzliche Parkplätze im Pfarrgarten und Zufahrt dazu, Schr. KVR vom 12.02.14
+- TOP 6.4.2.9.: Einrichtung von Parkplätzen für Friedhofsbesucher am Friedhof Lochhausen, Schr. KVR vom 13.02.14
+- TOP 6.4.2.10.: Erhalt Ensemble ehem. Dorfkern Aubing, Schr. Planungsreferat vom 12.02.14
+- TOP 6.4.2.11.: Verkehrssituation Langwieder Hauptstraße / Eschenrieder Straße, Schr. KVR vom 06.02.14
+- TOP 6.4.2.12.: Erneuerung der Gehwegabsperrung an der Schussenrieder Straße zwischen Schubinweg und Kirch, Schr. Baureferat vom 31.01.14
+- TOP 6.4.2.13.: Wiederherstellung des Flurwegs in Lochhausen (Verlängerung des Lohwiesenweges / Krähenweges), Schr. Baureferat vom 30.01.14
+- TOP 6.4.2.14.: Verkehrsrechtliche Anordnungen: - Anpassung bestehender Tempo-30-Zonen in der Eschenrieder Straße und am Schubinweg, Schr. KVR vom 17.07.13 - Halteverbot in der Hans-Stützle-Straße, Schr. KVR vom 05.02.14 - Zusatzschild "Radfahrer frei" in der Erni-Singerl-Str. und Bally-Prell-Str., Schr. KVR vom 31.01.14
+- TOP 6.4.2.15.: Kostengünstige S4 Ausbau-Alternative - 2. Stammstreckentunnel, Schr. Planungsreferat vom 13.02.14
+- TOP 6.4.2.16.: Parkbank auf dem Gehsteig Kronwinklerstraße / Ecke Langenburgstraße, Schr. Baureferat vom 20.02.14
+- TOP 6.4.2.17.: Informationsveranstaltung der MVG Rad - Präsentation, Schr. MVG vom 18.02.14
+- TOP 6.4.2.18.: Brandschutz - Schussenrieder Str. / Toni-Berger-Straße, Schr. KVR vom 25.02.14
+- TOP 6.4.2.19.: Haltverbot am nördlichen Ende der Johannes-Tanner-Straße, Schr. KVR vom 25.02.14
+- TOP 6.4.2.22.: Wegeverbindung für Fußgänger an der Papinstraße bis zur Kravogelstraße, Schr. Baureferat vom 27.02.14
+- TOP 6.4.2.23.: Planungen Meisterhaus und Lagerhalle Ziegeleistr. 16, Schr. Kommunalreferat vom 26.02.14
+- TOP 6.4.2.24.: Laden im Bereich Wiesentfelser Str. 1 / Limesstr., Schr. PI 45 vom 26.02.14
+- TOP 7.1.: Mittelfristige Finanzplanung 2013 - 2017: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2014 - 2017, Anhörung Stadtkämmerei vom 17.02.14
+- TOP 7.2.: Veranstaltung auf stadteigenem Grundstück: Zirkus "La Strada" an der Bodensee-/Anton-Böck-Straße vom 06.05.-18.05.14, Anhörung Kommunalreferat vom 03.03.14
+- TOP 7.3.: Freiham Nord 1. Schaffung der Planungsvoraussetzungen für ein Alten- und Pflegeheim im Neubaugebiet Freiham Anhörung Planungsreferat vom 12.03.14
+- TOP 7.4.: Freiham Nord 2. Genügend Fläche für den Bildungscampus Freiham Anhörung Planungsreferat vom 12.03.14
+- TOP 8.1.: Mitteilung über Grundstücksgeschäfte: - Germeringer Weg, Schr. Kommunalreferat vom 31.01.14 - Sumpfmeisenweg, Schr. Kommunalreferat vom 19.12.13
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Limesstr., Schr. Sozialreferat vom 11.02.14 - Alprichstr. , Schr. Sozialreferat vom 20.02.14 - Aubinger Str., Schr. Sozialreferat vom 19.02.14 - Zwingenberger Str., Schr. Sozialreferat vom 26.02.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 12.11.13: Mehrjahresinvestitionsprogramm (MIP) 2013-2017 - Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; Verfahrenstechnische Neuerungen, Stellungnahmen der Bezirksausschüsse
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.01.14 und 05.02.14: - Urbanes Gärtnern in München, Analyse und Grundsatzbeschluss - Landwirtschaft auf Dächern in der Stadt - Siedlungsschwerpunkt Freiham, Finanzbedarf des Referat für Stadtplanung und Bauordnung für die Jahre 2014 - 2016
+- TOP 10.3.: Beschluss der Vollversammlung des Stadtrates vom 22.01.14: Energiekonzepte für neue Baugebiete
+- TOP 10.4.: Beschluss des Bauausschusses vom 14.01.14: Bebauungsplan mit Grünordnung Nr. 1977 - Aubing-Ost-Str. (südlich), Hornberger Str. (westlich), Bahnlinie München-Pasing-Buchloe (nördlich), Berberichweg (östlich), Joseph-Suder-Bogen (östlich), Neubau der Straßen im Bebauungsplanumgriff Bedarfs- und Konzeptgenehmigung
+- TOP 10.5.: Beschluss des Bauausschusses vom 04.02.14: - Darstellung der Skateinfrastruktur in München, Sanierung von Skateflächen - Bürgerbeteiligung bei Platzgestaltungen - Fünf Plätze attraktiv neu gestalten - Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.14: Untersuchungen zum Wirtschaftsverkehr in München
+- TOP 10.7.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 04.02.14: Grundsatzbeschluss zum Fahrradvermietsystem "MVG-Rad"
+- TOP 10.8.: Beschluss der Vollversammlung des Stadtrates vom 19.02.14: - Landwirtschaft auf Dächern in der Stadt - Siedlungsschwerpunkt Freiham - Finanzbedarf des Referats für Stadtplanung und Bauordnung für die Jahre 2014 - 2016
+- TOP 10.9.: Beschluss des Bauausschusses vom 11.03.14: Kleingartenverband München e.V. unterstützen
+- TOP 10.10.: Beschluss des Ausschusses für Bildung und Sport vom 08.01.14: Grundschule am Ravensburger Ring 37, Erweiterungsbau zur Abdeckung des Raumfehlbedarfs, Umbau im Bestand zur Einrichtung des Lernhauskonzeptes
+- TOP 10.11.: Beschluss des Ausschusses für Bildung und Sport vom 04.12.13: Errichtung von vier Grundschulen in modularer Bauweise
+- TOP 10.12.: Beschluss des Ausschusses für Bildung und Sport vom 29.01.14: Realisierungswettbewerb, Bildungscampus und Sportpark Freiham
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 09.04.2014 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (4)
+- TOP 8: Unterrichtungen / Bekanntgaben (4)
+- TOP 6.4.2.3.: Aufstellung eines Ortsteilschildes, Schr. Kommunalreferat vom 06.02.14
+- TOP 6.4.2.25.: Kiefernhain Freiham Süd, Schr. Baureferat vom 20.02.14
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.2: Kinderbeauftragte
+- TOP 6.4.2.20.: Darstellung einer nachvollziehbaren Verkehrskonzeption für Freiham und den 22. Stadtbezirk; Entwicklung einer übergeordneten Verkehrskonzeption unter Berücksichtigung der Entwicklungen in den westlichen Landkreisen, Schr. Planungsreferat vom 19.02.14
+- TOP 6.4.2.21.: Aufnahme der Bebauungspläne 1998b (Gleisharfe) und 2060 (Aubing Mitte) in das Konzept der Nahmobilität der Rahmenplanung Freiham (2068), Schr. Planungsreferat vom 19.02.14
