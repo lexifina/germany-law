@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-03-19T15:00:00+01:00
+- Ende: 2014-03-19T21:40:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2541
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2541
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00094852.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00094852.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00094852.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 31. Sitzung des Rates am 18.12.2013 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Zuwendungen - Kenntnisnahme
+- TOP 3: Wahlordnung IR - Einstimmiger Beschluss
+- TOP 4: Jahresabschluss 2013 - Kenntnisnahme
+- TOP 5: Einlage von städtischen Grundstücken; hier: städtische Flächen im Bereich des Baugebietes Rönneter - Mit Stimmenmehrheit beschlossen
+- TOP 6: Bestellung einer Vertreterin der Stadt Mönchengladbach im Wasser- und Bodenverband der Mittleren Ni - Einstimmiger Beschluss
+- TOP 7: Sanierung Sportanlage Beckrath - Einstimmiger Beschluss
+- TOP 8: Wiederwahl eines Beigeordneten - alternativ - Ausschreibung einer Beigeordnetenstelle - Mit Stimmenmehrheit abgelehnt
+- TOP 8.1: Wahl eines Beigeordneten - Ohne Abstimmung
+- TOP 9: Wahlausschuss - Einstimmiger Beschluss
+- TOP 10: Schulen des Gemeinsamen Lernens - Einstimmiger Beschluss
+- TOP 11: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 12: Berufung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 13: Leistungsvereinbarung mit der Evangelischen Jugend- und Familienhilfe gGmbH, Kaarst über SPFH - Einstimmiger Beschluss
+- TOP 14: Leistungsvereinbarung über psychosoziale Begleitung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Konversion Joint Headquarters (JHQ) - Getrennte Abstimmung (s. Niederschrift)
+- TOP 15.1: Konversion Joint Headquarters (JHQ) - Ohne Abstimmung
+- TOP 15.2: Konversion Joint Headquarters (JHQ) - Mit Stimmenmehrheit abgelehnt
+- TOP 16: Veränderungssperre Stadtbezirk Süd, Gebiet zwische der Ottostraße, dem Stockholtweg, der Keplerstraß - Einstimmiger Beschluss
+- TOP 17: Verlängerung Veränderungssperre Stresemannstraße - Einstimmiger Beschluss
+- TOP 18: 1. Änderung des BP Nr. 378/III Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 705/N Stadtgebiet Nord, Krichelstraße - Einstimmiger Beschluss
+- TOP 20: Bericht der Verwaltung zum FDP-Antrag Verwaltungsgebäude Oberstadt - Kenntnisnahme
+- TOP 21: Segelfluggelände Wanlo - Kenntnisnahme
+- TOP 22: Schließung der Baracken in den Notunterkünften - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Freier Zugang zu Informationen im Rahmen des Informationsfreiheitsgesetzes - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Prüfung der Realisierungsmöglichkeiten zur Schaffung flexibler Betreuungszeiten in KITA´s - Einstimmiger Beschluss
+- TOP 25: Beratungen in Aufsichts- und Beiräten - Mit Stimmenmehrheit abgelehnt
+- TOP 25.1: Beratung in Aufsichts- und Beiräten - Einstimmiger Beschluss
+- TOP 26: Wiederaufbau des ehemaligen Stadtkassenportals am nahezu historischen Standort - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Zinsen für Dispositionskredite bei der Stadtsparkasse Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Finanzierung Gesamtschule Stadtmitte - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Verwendung der Mittel „Wohnumfeldverbesserung bei bürgerschaftlichem Engagement“ - Siehe Niederschrift
+- TOP 30: Verwendung der Sportpauschale 2014 - Zur Kenntnis genommen
+- TOP 31: Anfragen und Mitteilungen
+- TOP 31.1: Anfrage von RH Schaper zu einem Gutachten zur Demographie - Zur Kenntnis genommen
+- TOP 31.2: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) bezüglich Abwassergebühren - Zur Kenntnis genommen
+- TOP 31.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum sog. Fördermarathon - Zur Kenntnis genommen
+- TOP 31.4: Anfrage von RF Brombeis (Bündnis 90/ Die Grünen) bezogen auf Werbebanner auf der städt. Homepage - Zur Kenntnis genommen
