@@ -1,0 +1,85 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-03-19T17:00:00+01:00
+- Ende: 2014-03-19T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2779
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2779
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Lungenklinik Heckeshorn - beantwortet
+- TOP 3.2: Baumfällungen im Bereich der Hildburghauser Straße - beantwortet
+- TOP 3.3: Baum der Deutschen Einheit - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für den Verein der Mitglieder der Baltischen Segler-Vereinigung in Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Sondermittel der BVV für die Initiative KZ-Außenlager Lichterfelde e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Sondermittel der BVV für das Outreach-Team Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan 6 - 8 [ehemaliger Coca-Cola-Standort] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Beschilderung nach Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Haushaltsnahe Altglassammlung erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Aktenpläne für Steglitz-Zehlendorf im Internet veröffentlichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Integrationspreis - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Schluss mit dem Parkchaos Auf dem Grat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Beachtung der Gestaltungsprinzipien alters- und behindertengerechten Wohnens in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Gemeindepark Lankwitz verkehrssicher machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Unterstützung von Bauherren: Investition in Spielplätze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Patientenfürsprecherinnen und Patientenfürsprecher bekannter machen - in der BVV abgelehnt
+- TOP 4.4.8: Radwegmarkierung Mozartstraße/Siemensstraße erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Ampelanlage Bäkestraße/Ostpreußendamm abschalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Baufirmen motivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Taubennetze an dem S-Bahnhof Mexikoplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Rückübertragung des Spielplatz-Grundstücks Osteweg durch den Senat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Hinweistafeln bei den Tiergehegen im Gemeindepark Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Flut wild aufgestellter Schuh- und Altkleidercontainer stoppen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Beleuchtung in der Hampsteadstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Endhaltestelle Busseallee - Freihaltung des Fußgängerüberweges - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.17: Linksabbiegegebot Machnower Straße in den Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.18: Sitzgelegenheit Bushaltestelle Zehlendorf Eiche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.19: Zebrastreifen Onkel-Tom-Straße im Bereich Siebenendenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Aktionen im Rahmen UN-Konvention - überwiesen
+- TOP 5.1.2: Verkehrsgutachten für Lichterfelde-Süd jetzt - überwiesen
+- TOP 5.1.3: Raumluft in Steglitz-Zehlendorfer Schulen verbessern - überwiesen
+- TOP 5.1.4: Endlich freie Wohnungen in der Mudrastraße vermieten - überwiesen
+- TOP 5.1.5: Drängelgitter im Verlauf von Radstrecken - überwiesen
+- TOP 5.1.6: Iodblockade - aber richtig - überwiesen
+- TOP 5.1.7: Renovierung der Mudrastraße peu à peu - überwiesen
+- TOP 5.1.8: Fahrradstreifen im Kreuzungsbereich von Schildhorn-/ Lepsiusstraße - überwiesen
+- TOP 5.1.9: Gerechtere Ärzteverteilung im Bezirk - überwiesen
+- TOP 5.1.10: Mietpreissteigerung bei gewerblicher Vermietung regeln - überwiesen
+- TOP 5.1.11: UNESCO-Weltkulturerbe verfällt - überwiesen
+- TOP 5.1.12: Erhöhte Frequenz der Abfahrtzeiten des 112er-Busses ab Station Zehlendorf Eiche - überwiesen
+- TOP 5.1.13: Unverzüglich Bebauungsplan für Technologie- und Gründungszentrum in der Fabeckstraße aufstellen - überwiesen
+- TOP 5.1.14: Wannseefähre "Lichterfelde" als Restaurantschiff - überwiesen
+- TOP 5.1.15: Regenrückhalteteich an der Osdorfer Straße/Fahrenheitstraße "entmüllen" - überwiesen
+- TOP 5.1.16: Verkaufsoffener Sonntag autofrei auf der Schloßstraße - überwiesen
+- TOP 5.1.17: Brücken sanieren - überwiesen
+- TOP 5.1.18: Fußgänger schützen - überwiesen
+- TOP 5.1.19: Lichtzeichenanlage Machnower Straße Ecke Teltower Damm - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Neuer Kooperationspartner für Restauration im Haus der Volkshochschule in der Goethestraße - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Planung für die Einrichtung eines Beratungs- und Unterstützungszentrums (BUZ) in Steglitz-Zehlendorf - beantwortet
+- TOP 7.2: Truman Plaza - Verkauf Grünstreifen - die VI. - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Verkehrszählung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Sicherer Verkehrsfluss auf der Steglitzer Schloßstraße - in der BVV abgelehnt
+- TOP 9.2: Erinnerung verfolgter Politiker und Politikerinnen aus dem Bezirk weiter pflegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: "Parks Range" für Bürgerinnen und Bürger öffnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Gender-Budgetierung evaluieren - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
