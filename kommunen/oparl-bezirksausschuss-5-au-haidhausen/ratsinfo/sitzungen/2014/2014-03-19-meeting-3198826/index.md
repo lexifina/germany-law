@@ -1,0 +1,64 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-03-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3198826
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3198826
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1.: (E) Budget der Bezirksausschüsse Initiative ?Druck? Druck der Broschüre ?Bürgerbeteiligung altes Postgelände? - <div>nach Antrag</div>
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Städtebauliche Eckdaten ? Anhörungsrecht für BAs
+- TOP 8.1.2.: Konzept zum Schutz der Grünstreifen vor abgestellten Fahrrädern
+- TOP 8.1.3.: Spielplatz St.-Wolfgangs-Platz
+- TOP 8.1.4.: Krähensichere Abfallbehälter für den Bordeauxplatz
+- TOP 8.1.5.: Poller für Rosenheimer Straße 38
+- TOP 8.1.6.: Neugestaltung Rosenheimer Straße / Lilienstraße / Zeppelinstraße: Erweiterung des Umgriffs / Sanierung des ersten Teilstücks der Rosenheimer Straße (Gehbahn) bis Am Lilienberg
+- TOP 8.1.7.: Baumgräben von Zeitungsablagerungen freihalten
+- TOP 8.1.8.: Radweg Sieboldstraße durchgängig abmarkieren
+- TOP 8.1.9.: Parkbank am Mariahilfplatz, beim Brunnen / Mariensäule
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
