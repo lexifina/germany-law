@@ -1,0 +1,25 @@
+# Aufstellung des sachlichen Teilplanes Erneuerbare Energien des Regionalplanes Südhessen und des Regionalen Flächennutzungsplanes für das Gebiet des Regionalverbandes FrankfurtRheinMain
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-18/2014 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2014-03-20
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdfoI27_jbu4t5SyISNyECk
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/427
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Aufstellung des sachlichen Teilplanes Erneuerbare Energien des Regionalplanes Südhessen und des Regionalen Flächennutzungsplanes für das Gebiet des Regionalverbandes FrankfurtRheinMain) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbYy_b-1wVAq8tttFmwXprCAhtonzOA6c5FwFAZAVfkr/Beschlussvorlage_Gemeindevertretung_VL-18-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Entwurf Teilplan) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQJRFuQzzzPRHtfxPoP8SB2-Svy2DaCappd_wa4LlpTR/Entwurf_Teilplan.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Potenziale Windenergie-Aarbergen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZYVK4Ud3oiKR3EboHn3TP2fBX7P2Yis_3r8K239XoPU/Potenziale_Windenergie-Aarbergen.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 1) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU4oWTBsVXYdTm5voaRLLsvU2Tu47NEEHLvR_IC8bVpx/Ausschlusskarte_1.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 2) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb5uGmXVdbSuxFa5F8YUpJk05LnGAVzuHIbYMGMda5kJ/Ausschlusskarte_2.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 3) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZePa8rkBbktiiIdk2k9tf9EwnZGoSGxFi2QI1cfuPyDu/Ausschlusskarte_3.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 4) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXUsesDNqzTQQl8wVUx9hStg2QBftarDsv5X3KAdf3vR/Ausschlusskarte_4.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 5) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb_i5mmSIXWTe7zzy1BJkFI5aiY0Fhi02jPZQfajyS04/Ausschlusskarte_5.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Auszug aus der Karte Natura 2000 Schutzgebiete) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf5jPgDS8MkXLJ8NdRpZIdYYAkSXKnoVJAuQ5oqfSywj/Auszug_aus_der_Karte_Natura_2000_Schutzgebiete.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 6) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVpCTTvAtDF2fUUXDwBIlTVpjenkuRb31FVYAMvtOIiC/Ausschlusskarte_6.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte 7) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU-NNWjg72F_aZi1pHG7b9XjuqL0pC2J3OZdmGogT2S9/Ausschlusskarte_7.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte Vögel) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQgM2h1ky8wXkA09dzN8Pb4k89jwNJCCtYWfXbeoIKGW/Ausschlusskarte_Voegel.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlußkarte Fledermäuse) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdtYi9Lf7kwelwkN7AqJ7j3dY1N2eUquR61-3kPyxyKz/Ausschlusskarte_Fledermaeuse.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (Ausschlusskarte Deutsche Flugsicherung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZrxGA7BwqIe7LSLafL31II23Ek1PRkl2hXLuv51avss/Ausschlusskarte_Deutsche_Flugsicherung.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/530 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-2
