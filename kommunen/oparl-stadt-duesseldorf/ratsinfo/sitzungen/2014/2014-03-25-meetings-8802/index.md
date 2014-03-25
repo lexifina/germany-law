@@ -1,0 +1,62 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-25T17:00:00+01:00
+- Ende: 2014-03-25T20:15:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8802
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8802
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00213764.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00213764.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00213764.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Lärmschutz Güterzugverkehr Grafenberg/Gerresheim - zur Kenntnis genommen
+- TOP 4: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 5: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung 2012 - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bänke - einstimmig beschlossen
+- TOP 9: Bänke Quadenhofstraße - einstimmig beschlossen
+- TOP 10: Sauerweg - einstimmig beschlossen
+- TOP 11: Spielplatz an der Gutenbergstraße - einstimmig beschlossen
+- TOP 12: 1.000 Bänke für Düsseldorf - einstimmig beschlossen
+- TOP 13: "Home & Garden" auf der Galopprennbahn im Jahre 2014 - mehrheitlich beschlossen
+- TOP 14: Bauern- und Handwerkermarkt auf dem Gerricusplatz in Gerresheim im Jahr 2014 - mehrheitlich beschlossen
+- TOP 15: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 16: Gutenbergstraße - einstimmig beschlossen
+- TOP 17: Joggingstrecke Ostpark - Limburgstraße - mehrheitlich beschlossen
+- TOP 18: Pumpstation an der Gutenbergstraße - einstimmig beschlossen
+- TOP 19: Stadtbahnplanung - einstimmig beschlossen
+- TOP 20: Fuß-/Wegeverbindung zwischen Brücke Rampenstraße - Gödinghover Weg - einstimmig beschlossen
+- TOP 21: LM-Markt Dreherstraße/Hallesche Straße - einstimmig beschlossen
+- TOP 22: Bürgersteig Grundreinigung - einstimmig beschlossen
+- TOP 23: Projekte im Stadtentwicklungskonzept Düsseldorf 2025+ - einstimmig beschlossen
+- TOP 24: Masterplan "Reduzierung des Straßenverkehrslärms" - einstimmig beschlossen
+- TOP 25: Hinweisbeschilderung SANA-Klinik Gerresheim - einstimmig beschlossen
+- TOP 26: Stadtentwicklungskonzept Düsseldorf 2025+ (StEK) - einstimmig beschlossen
+- TOP 27: Akustik im Pädagogischen Zentrum des Marie-Curie-Gymnasiums - einstimmig beschlossen
+- TOP 28: Stadtentwickungskonzept Düsseldorf 2025+ (StEK) - einstimmig beschlossen
+- TOP 28.1: Ortsumgehung Gerresheim - zur Kenntnis genommen
+- TOP 29: Anbindung der Heyestraße an die Ortsumgehung - mehrheitlich beschlossen
+- TOP 30: Folgekosten Umbau der Benderstraße - zur Kenntnis genommen
+- TOP 31: Grundstück Von-Gahlen-Str. 9/Marie-Curie-Straße - zur Kenntnis genommen
+- TOP 32: Bürgersolaranlagen auf städtischen Dächern - zur Kenntnis genommen
+- TOP 33: Förderprogramm Schallschutzfenster - zur Kenntnis genommen
+- TOP 34: Gedenkstein am sowjetischen Soldatenfriedhof - zur Kenntnis genommen
+- TOP 35: Aufstellung eines zweiten Bücherschrankes im Bezirk 7 - zur Kenntnis genommen
+- TOP 36: Nachbarschaftspark Diepenstraße - zur Kenntnis genommen
+- TOP 37: Alte Insel - zur Kenntnis genommen
+- TOP 38: Ruhebank Alter Markt - zur Kenntnis genommen
+- TOP 39: Fläche Neunzigstraße / Pfeffergässchen - zur Kenntnis genommen
+- TOP 40: Brücke Pillebach mit Zuwegung / Kleingartenanlage "Quadenhof" - zur Kenntnis genommen
+- TOP 41: Masterplan Glasmacherviertel - Parkplatz - - zur Kenntnis genommen
+- TOP 42: Masterplan Glasmacherviertel - Verkehrsbelastung und Verkehrsströme, OU - - zur Kenntnis genommen
+- TOP 43: Tiefgarage Am Wallgraben - zur Kenntnis genommen
+- TOP 44: Bauarbeiten Glashüttenstraße - zur Kenntnis genommen
