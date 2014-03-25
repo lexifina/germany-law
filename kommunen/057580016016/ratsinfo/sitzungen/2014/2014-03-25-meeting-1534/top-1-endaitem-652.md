@@ -1,0 +1,6 @@
+# TOP 1.: Mitteilungen
+
+- Sitzung: Feuerschutz- und Umweltausschuss (1. / 2014) (2014-03-25)
+- Körperschaft: Gemeinde Hiddenhausen
+- Öffentlich: ja
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/652
