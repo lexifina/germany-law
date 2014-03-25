@@ -1,0 +1,124 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-03-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3119609
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3119609
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Capoeira Gerais ? Sport und Kultur vereint e.V. Batizado 2014 Capoeira Gerais München von 02. bis 04.05.2014 - <div></div>
+- TOP 2.2.: BA-eigene Veranstaltung, Bürgerbeteiligung Planungen Viehhof-Gelände
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Morassistr. 22-22 b, Hausnr. 22 ? Nutzungsänderung im EG: Gaststätte zu Café und Büroeinheit, 1.+2. OG: Umbau/Aufteilung 2er WE je Geschoss, 1.+2. DG: baul. Änderungen im DG, Fluchtweg im 2. DG über Dachflächenfenster und Errichtung 2er Dachterrassen; Hausnr. 22 a ? Errichtung Rampe in Fahrradkeller, EG: Verkleinerung WE 13 und Abtrennung von mit Nutzungsänderung von Wohnen zu Büro, 1. OG: Errichtung Balkon, 1.+2. DG: Errichtung Dachterrasse, baul. Änderungen in Maisonettewohnung und Fluchtweg über Dachterrasse im 2. DG mit Fluchtleiter; Hausnr. 22 b: Nutzungsänderung von Ausstellungsräumen zu 2 Büroeinheiten sowie Vordach-Erweiterung und Büroanbau
+- TOP 3.1.2.: Baaderstr. 86-90, Teilnutzungsänderung und Erweiterung eines Wohnheims in ein Hotel und Umbau eines Wohnheims in ein Wohngebäude mit Aufstockung zweier Wohneinheiten - Tektur
+- TOP 3.1.3.: Corneliusstr. 21, Anbau weiterer Balkone
+- TOP 3.1.4.: Arndtstr. 2, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.1.5.: Rothmundstr. 8, Denkmalgerechte und energetische Sanierung sowie Umbau von 15 auf 20 Wohneinheiten
+- TOP 3.1.6.: Zenettipl. 2, Nutzungsänderung einer Gewerbeeinheit zu zwei Wohnungen (1. OG), Grundrissänderungen in einer Gewerbeeinheit (EG)
+- TOP 3.1.7.: Lindwurmstr. 29, Nutzungsänderung Büro zu Wohnung
+- TOP 3.1.8.: Lindwurmstr. 65, Aufstockung und Ausbau zu Wohnungen
+- TOP 3.1.9.: Kapuzinerstr. 16, Abbruch einer Werkstatt und Neubau eines Wohnhauses (Rückgebäude)
+- TOP 3.1.10.: Thalkirchner Str. 86, Umbau und Nutzungsänderung EG/Schwesternhaus in Zusatzräume für den Kindergarten im Vordergebäude, Anbau einer Notleiteranlage mit Zustiegspodest im DG inkl. Anpassung der bestehenden Dachgaube, Anbau von Balkonen/Rettungspodesten im 1. OG + DG
+- TOP 3.1.11.: Schwanthalerstr. 47, Nutzungsänderung eines Boardinghauses mit 29 Apartments und einem Laden in ein Boardinghaus in Form eines Beherbergungsbetriebes mit 31 Apartments, einem Laden, einer Spielhalle und einem Bistro - Tektur
+- TOP 3.1.12.: Schwanthalerstr. 58-60, Zusammenlegung des Hotels Hs.-Nr. 58 mit dem Hotel Hs.-Nr. 60 (UG 1 ? OG 4) zu einer Nutzungseinheit
+- TOP 3.1.13.: Nußbaumstr. 8, Anbau von 2 x 6 Balkonen (selbsttragende Stahlkonstruktion) und Dachschrägenverglasung
+- TOP 3.1.14.: Landwehrstr. 1, DG-Ausbau mit Hotelzimmer und Errichtung einer neuen Dachgaube sowie Verkleinerung der Gastraumfläche im EG
+- TOP 3.1.15.: Schwanthalerstr. 26, Umbau und Nutzungsänderung eines Büro- und Geschäftshauses in ein Boarding House inkl. Gaststätte
+- TOP 3.1.16.: Landwehrstr. 79, Abbruch eines Bürogebäudes und einer Tiefgarage, Neubau eines Wohngebäudes mit Tiefgarage, vertagt aus 2014.02 B 3.1.5
+- TOP 3.1.17.: Hans-Sachs-Str. 12, Umbau und Nutzungsänderung im Erdgeschoss: Theater zu zwei Wohnungen
+- TOP 3.1.18.: Adlzreiterstr. 32, Erweiterung der Dachgeschoss-Wohnung und Anbau von Balkonen mit Fluchtleiter für den 2. Rettungsweg ? jetzt: DG-Wohnung bleibt unverändert, Einbau einer weiteren Wohneinheit - Tektur
+- TOP 3.1.19.: Schillerstr. 38, Anbau eines Vordaches an ein Gebäude im Erdgeschoss
+- TOP 3.1.20.: Schwanthalerstr. 18, Nutzungsänderung im Rückgebäude: Büro-, Garagen- und Lagerflächen zu Schulungs-, Lager- und Büroräumen sowie Mieterausbau
+- TOP 3.1.21.: Jahnstr. 27, Vordergebäude: Nutzungsänderung ? Auflösung Bäckerei in 3 separate Teileinheiten; Rückgebäude: Aufstockung des Bestandsgebäudes und Abbruch der ungenehmigten Garage (hier: Vordergebäude ? Nutzungsänderung im Kellergeschoss und Erweiterung des Ladens im EG um ein Zimmer zu Lasten der Wohnung) - Tektur
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Ruppertstr. 7, Baumfällungen, 2 Hemlocktannen
+- TOP 3.2.2.: Zenettistr. 45/45a, Baumfällungen, 2 Hainbuchen und eine Eberesche
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Fortschreibung des Mehrjahresinvestitionsprogramms für die Jahre 2014 bis 2018
+- TOP 3.3.2.: Benennung von Straßen und Wegen in Grünzügen, Erneute Anhörung zur beantragten Änderung der BA-Satzung, BA-Antrag Nr. 08-14 / B 04763, BA 11 Milbertshofen-Am Hart
+- TOP 3.3.3.: Maßnahmen zur Verringerung des Schienenverkehrslärms im Bereich des Dreimühlenviertels, Anhörung des Referates für Gesundheit und Umwelt zu Beschlussvorlage für den Umweltausschuss am 25.03.2014, vertagt aus 2014.02 B 3.3.5
+- TOP 5.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 1.1.: Direktes Linksabbiegen von der Goethestr. in die Lessingstr. für den Radverkehr, vertagt aus 2014.02 C 1.1
+- TOP 1.2.: Schrägparken auf dem Bavariaring zugunsten weitergehender Gestaltungsmöglichkeiten am St.-Pauls-Platz, vertagt aus 2014.02 C 1.2
+- TOP 1.3.: Radstreifen Paul-Heyse-Str. zwischen Bayerstr. und Schwanthalerstr., vertagt aus 2014.02 C 1.4
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Rumfordstr. 42, Gaststätte ?Thompson?, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Ehrengutstr. 27, Gaststätte ?Alla Famiglia?, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.3.: Thalkirchner Str. 23, Cabaret ?Pigalle?, Genehmigung einer Freischankfläche - PLENUMSBESCHLUSS
+- TOP 2.1.4.: Baldestr. 21, Bistro ?Max Pettchen?, Genehmigung einer Freischankfläche - PLENUMSBESCHLUSS
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Reichenbachstr. 40, ?hannes roether?; Aufstellung einer neuen Warenstellage
+- TOP 2.2.2.: Schillerstr. 29, ?Arbaelo SuperMarkt? , Aufstellung einer zusätzlichen Warenstellage
+- TOP 2.2.3.: Reichenbachstr. 30, Buchhandlung ?Leselotte?, Aufstellung einer neuen Warenstellage - PLENUMSBESCHLUSS
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1.1.: Festzug zum Frühlingsfest auf der Theresienwiese am 25.04.2014
+- TOP 3.1.2.: Spielaktionen auf dem Spielplatz an der Schmellerstraße (13. u. 14.05.2014) und auf der Museumsinsel (01. bis 03.08.2014)
+- TOP 3.1.3.: Wahl der Maikönigin in der Hans-Sachs-Straße am 30.04.2014
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Einrichtung von Fahrradstraßen, BA-Antrag Nr. 08-14 / B 02308, Anhörung des Kreisverwaltungsreferates zu vorgeschlagenen Maßnahmen
+- TOP 3.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ehrengutstr. 7
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 0: Unterrichtungen
+- TOP 0.1.: BA-Budget: Bescheide
+- TOP 0.2.: Verwendungsnachweise
+- TOP 0.3.: Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse: Checklisten für Veranstaltungen in Räumen bzw. im Freien
+- TOP 0.4.: Tumblingerschule: Ganztagsklassen und Mittagessen, Antwortschreiben des Referats für Bildung und Sport zum BA-Schreiben vom 27.01.2014
+- TOP 0.5.: Ersatzwohnraum in der Landwehrstr. 25, Antwort des Sozialreferats zum BA-Schreiben vom 27.02.2014
+- TOP 0.6.: Sachbericht zum Andreaskonzert mit Lichtinstallation am 29.11.2013
+- TOP 0.7.: Errichtung einer sprengelübergreifenden Ganztagsschule, Abdruck der Antwort des Referates für Bildung und Sport auf einen Antrag des BA 8 Schwanthalerhöhe vom 12.03.13
+- TOP 0.8.: Zuschussnehmerdatei 2014 ? Vollzug des Haushaltsplanes 2014 für den Bereich ?Förderung freier Träger? a) des Sozialreferates/Zentrale (Sitzungsvorlage Nr. 08-14/V 14007); b) des Stadtjugendamtes (Sitzungsvorlage Nr. 08-14/V 14048); c) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 08-14/V 14036); d) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 08-14/V 14082); Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses
+- TOP 0.1.: Baumaßnahmen SWM
+- TOP 0.2.: Bauvorhaben Bayerstr. 89, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, siehe 2013.11 B 3.1.8
+- TOP 0.3.: Errichtung einer Freispielfläche für das Haus für Kinder an der Auenstraße ? Projektauftrag mit Projektgenehmigung
+- TOP 0.4.: Bauvorhaben Landwehrstr. 75, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, siehe 2014.02 B 3.1.1
+- TOP 0.5.: Bauvorhaben Schubertstr. 8, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, siehe 2013.12 B 3.1.9
+- TOP 0.6.: Aktion Saubere Stadt - Weiterentwicklung, Beschlussvorlage Nr. 08-14 / V 14090 für den Bauausschuss am 11.03.2014
+- TOP 0.7.: Denkmalschutz für das Anwesen Müllerstr. 2; Kopie des Beschlusses des BA 1 vom 18.02.2014 zur Erledigung der Empfehlung Nr. 08-14/E 01633 aus der Bürgerversammlung Altstadt-Lehel am 27.11.2013
+- TOP 0.8.: Bauvorhaben Aventinstr. 1, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, siehe 2013.05 B 3.1.10 und 2013.12 B 3.1.13
+- TOP 9.1.: Versammlungen unter freiem Himmel
+- TOP 9.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 9.3.: Unveränderte Gaststättenfortführungen
+- TOP 9.4.: Verkehrsrechtliche Anordnungen
+- TOP 9.5.: Erlaubnisbescheide
+- TOP 9.6.: Faschingsumzug Städt. Haus für Kinder an der Klenzestr., 27.02.2014, Eilentscheidung
+- TOP 9.7.: Radschnellweg München Nord ? Hauptbahnhof, Konzept ADFC
+- TOP 9.8.: Geschwindigkeitskontrollen in der Maistr. bzw. Häberlstr.
+- TOP 9.9.: Markierung eines Durchganges zur Haltestelle Metrobus 58 vor dem Haupteingang des Hauptbahnhofes am Taxistand als Sperrfläche nach der ersten Stellplatzreihe
+- TOP 9.10.: Trennung des Fußgänger- und Radverkehrs vom Straßenverkehr in der Paul-Heyse-Unterführung
+- TOP 9.11.: Anpassung der Querung für Fußgänger an der Kreuzung Müllerstr./Fraunhoferstr. (Richtung Reichenbachpl.) und Müllerstr./Papa-Schmid-Str. (Richtung Sendlinger-Tor-Pl.) zu den Trambahnhaltestellen der Linien 16 und 18
+- TOP 9.12.: Das Parkverbot in der Haydnstraße, Einmündung Kaiser-Ludwig-Platz, wird für die Dauer des bestehenden Einfahrtverbotes aufgehoben.
+- TOP 9.13.: Einhaltung der Vorschriften über Freischankflächen am Bahnhofsplatz und in der Schwanthalerstraße, Antwortschreiben der BI Mitte auf ein Bürgeranliegen aus der BA-Sitzung vom 11.02.2014
+- TOP 9.14.: Behinderungen durch Wahlwerbung in Bereichen von ÖPNV-Haltestellen; Behinderungen durch Baukran in der Lindwurmstraße; Verlegen der Bushaltestelle Poccistraße während des Oktoberfestes, Rückmeldung des Kreisverwaltungsreferates zu Bürgeranliegen aus der BA-Sitzung vom 28.01.2014
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 5: Sonstiges (2)
+- TOP 6: Berichte der Beauftragten (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 5: Sonstiges (3)
+- TOP 6: Berichte der Beauftragten (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.3: Sonstiges (4)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 5: Sonstiges (5)
+- TOP 3: Veranstaltungen (2)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (4)
+- TOP 9: (E) Übergang für Fußgänger auf der Braunauer Eisenbahnbrücke (Ziffer 3) Empfehlung Nr. 08-14 / E 01584 der Bürgerversammlung des Stadtbezirkes 02 ? Ludwigsvorstadt-Isarvorstadt am 15.11.2012 - <div></div>
