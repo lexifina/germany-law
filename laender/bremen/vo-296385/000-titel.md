@@ -1,1 +1,1 @@
-# Verordnung über das Naturschutzgebiet "Eispohl/Sandwehen" im Gebiet der Stadtgemeinde Bremen vom 15. Juni 1988
+# Verordnung über das Naturschutzgebiet „Eispohl, Sandwehen und Heideweiher“ in der Stadtgemeinde Bremen vom 18. März 2014
