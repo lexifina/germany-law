@@ -1,0 +1,56 @@
+# 45. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-03-25T17:22:00+01:00
+- Ende: 2014-03-25T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9367
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9367
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00353784.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Ausbau der Oberschlesier Straße zwischen Inselbogen und Gut Insel - einstimmig beschlossen
+- TOP 4.2: Ausbau der Julius-Voos-Gasse - einstimmig beschlossen
+- TOP 4.3: Skulptur "Münsters Geschichte von unten" (Paul Wulf von Silke Wagner) - mehrheitlich beschlossen
+- TOP 4.4: Spielplatz Elisabeth-Kirchplatz, Umgestaltung 2014 - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Neubau einer KiTa an der Dreifaltigkeitsschule - Freianlagen - einstimmig beschlossen
+- TOP 5.2: Maßnahmenprogramm 2014/2015 des Tiefbauamtes - einstimmig beschlossen
+- TOP 5.3: Erneuerung und Anschluss von 8 Lichtsignalanlagen im Bereich D3 - einstimmig beschlossen
+- TOP 5.4: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig beschlossen
+- TOP 5.5: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 5.6: Einbringung des Entwurfes "3. Nahverkehrsplan Stadt Münster" und weiteres Verfahren - mehrheitlich geändert beschlossen
+- TOP 5.7: Programm "Verbesserungen an Haltestellen" für 2015/2016 - mehrheitlich geändert beschlossen
+- TOP 5.8: Aufstellen der Skulptur "Fassbinder" von Richard Serra auf dem Domplatz - zurückgezogen
+- TOP 5.9: Baulandprogramm 2014 - 2020 - einstimmig beschlossen
+- TOP 5.10: Bebauungsplan Nr. 310, 1. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 5.11: Bebauungsplan Nr. 558 - Stellungnahmen - Satzungsbeschluss - bei Stimmengleichheit abgelehnt
+- TOP 5.12: Primus-Schule - einstimmig beschlossen
+- TOP 5.13: Baumaßnahmen von Münsteraner Sportvereinen - einstimmig geändert beschlossen
+- TOP 5.14: Investitionen auf Vereinssportanlagen - einstimmig beschlossen
+- TOP 5.15: Leitsystem Skulpturensammlung - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Öffentliche Bänke in der Innenstadt - Möglichkeiten des Verfügungsfonds
+- TOP 6.2: Erfahrungsbericht zur Speakers' Corner an der Engelenschanze/Windthorststraße - zur Kenntnis genommen
+- TOP 6.3: Bebauungsplan Nr. 551 - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 6.4: Planungsprozess "Stadtraum Windthorststraße" - mehrheitlich geändert beschlossen
+- TOP 6.5: Investitionen auf Vereinssportanlagen - zur Kenntnis genommen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Barrierefreien Ausbau der Haltestelle Maximilianstraße an der Kanalstraße vorziehen - zur Kenntnis genommen
+- TOP 7.2: Mehr Aufmerksamkeit für Behinderte und Senioren - Rollstuhlsymbole probeweise farblich hervorheben - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Planung von Fahrradabstellplätzen im Bereich des Landesmuseums voranbringen - zur Kenntnis genommen
+- TOP 8.2: Mehr Verkehrssicherheit im Kreuzviertel umsetzen! - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.3: Behinderten-Parkplätze am Nebeneingang des Zentralfriedhofes in der Annette-Allee dauerhaft befestigen - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
