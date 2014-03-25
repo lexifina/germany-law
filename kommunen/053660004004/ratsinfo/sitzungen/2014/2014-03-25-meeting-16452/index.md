@@ -1,0 +1,53 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-03-25T18:00:00+01:00
+- Ende: 2014-03-25T19:00:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdk11a3Rga-FA2rp7GJglLs
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/16452
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRYuvZMeQUQ3pfnXBkVsfpA8CPAelyd8bKMSTgOV-lfZ/Bekanntmachung_Rat_25.03.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZuDFdBRAAPOFZjuRqJmXH28j60gKWlExLrClwATl2Nj/Oeffentliche_Niederschrift_Rat_25.03.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 19.12.2013 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Feststellung des Jahresabschlusses zum 31.12.2011 - Einstimmiger Beschluss:
+- TOP 5.: Feststellung des Jahresabschlusses zum 31.12.2012 - Einstimmiger Beschluss:
+- TOP 6.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2012 des Eigenbetriebes Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 7.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2012 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 8.: 9. Änderungssatzung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen und abflusslose Gruben) hier: Änderungen im Rahmen des geänderten LWG NRW und neuen SüwVO Abw NRW - Einstimmiger Beschluss:
+- TOP 9.: Satzung zur Aufhebung der Satzung zur Abänderung der Fristen bei der Dichtheitsprüfung von privaten Abwasserleitungen gemäß § 61 a Abs. 3 bis 7 LWG NRW der Stadt Bad Münstereifel vom 15.12.2010 - Einstimmiger Beschluss:
+- TOP 10.: 5. Satzung zur Änderung der Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage - Entwässerungssatzung - der Stadt Bad Münstereifel vom 25.06.1997 - Einstimmiger Beschluss:
+- TOP 11.: Fortführung des Vereinssport in der Mehrzweckhalle Arloff - Einstimmiger Beschluss:
+- TOP 12.: Errichtung einer Kindertageseinrichtung mit Erweiterungsoption in Bad Münstereifel; hier: Deckung eines kurzfristigen Betreuungsbedarfs - Beschluss mit 26 Ja- zu 6 Nein-Stimmen:
+- TOP 13.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gem. § 46 Abs. 3 SchulG NRW n. F. hier: Genehmigung einer Dringlichkeit - Einstimmiger Beschluss: 
+- TOP 14.: Neugründung zweier Schulen in Nachbarschaft zu Bad Münstereifel und deren Auswirkung; hier: Antrag der SPD-Fraktion vom 20.09.2013 - Einstimmiger Beschluss:
+- TOP 15.: Bestellung von Vertretern/innen des Schulträgers für die Schulkonferenzen - Beschluss
+- TOP -: Bestellung von Vertretern/innen des Schulträgers für die Schulkonferenzen hier: Genehmigung einer Dringlichkeit - Einstimmiger Beschluss:
+- TOP 16.: Erlass der Haushaltssatzung für die Haushaltsjahre 2014/2015 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2016-2025 hier: Haushaltsverfügung des Landrates des Kreises Euskirchen als untere staatliche Verwaltungsbehörde vom 18.12.2013 - Genehmigung der Dringlichkeit - - Beschluss mit 29 Ja- zu 3 Nein-Stimmen:
+- TOP 17.: 17. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen, Wege und Plätze in der Stadt Bad Münstereifel (Straßenreinigungssatzung) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 18.: Kauf von Abfallkörben mit Bodenleeerung zur Erfassung von Grünabfällen auf den Friedhöfen; Genehmigung einer außerplanmäßigen investiven Auszahlung - Einstimmiger Beschluss:
+- TOP 19.: 3. Satzung zur Änderung der Friedhofs- und Bestattungssatzung der Stadt Bad Münstereifel vom 18.12.2007 - Einstimmiger Beschluss:
+- TOP 20.: 2. Satzung zur Änderung der Gebührensatzung vom 30.11.2009 zur Friedhofs- und Bestattungssatzung der Stadt Bad Münstereifel vom 18.12.2007 - Einstimmiger Beschluss:
+- TOP 21.: Schaffung von Grabfeldern für pflegefreie Urnengräber auf den Friedhöfen in Bad Münstereifel-Iversheim und Kolvenbach; Genehmigung einer außerplanmäßigen investiven Auszahlung für die Anschaffung von 10 Erdurnenkammern - Beschluss mit 30 Ja-Stimmen bei 2 Enthaltungen:
+- TOP 22.: Resolution des Kreistages des Kreises Euskirchen zum kommunalen Finanzausgleich in Nordrhein-Westfalen vom 18.12.2013 - Einstimmiger Beschluss:
+- TOP 23.: Dienstanweisung über die Grundsätze der Ermächtigungsübertragungen gem. § 22 Abs. 1 GemHVO der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 24.: Jahresabschluss 2013 hier: Zuleitung des Entwurfs gem. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 25.: Resolution zur Verabschiedung im Rat zum Thema "Finanzielle Entlastung der Kommunen und Eingliederungshilfe" hier: Antrag der Fraktion "Die Grünen" vom 17.03.2014 - Einstimmiger Beschluss:
+- TOP 26.: Anfragen und Mitteilungen
+- TOP 26.1: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und des Bürgermeisters - Beschluss
+- TOP 26.2: Umsetzungs- und Organisationsmaßnahmen mit Wirkung zum 01.03.2014 - Beschluss
+- TOP 26.3: Ermächtigungsübertragungen gem. § 22 GemHVO NRW für das Haushaltsjahr 2013 - Beschluss
+- TOP 26.4: Umwandlung der Katholischen Grundschule Arloff in eine Gemeinschaftsgrundschule - Beschluss
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Überörtliche Prüfung der Informationstechnik der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 2.: Offene Ganztagsschulen in Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 3.: Anfragen und Mitteilungen
+- TOP 3.1: Terminankündigung im Gaskonzessionsverfahren
