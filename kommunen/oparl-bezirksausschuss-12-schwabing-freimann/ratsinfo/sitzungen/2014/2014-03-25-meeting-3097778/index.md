@@ -1,0 +1,109 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-03-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3097778
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3097778
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Eilentscheidung: Gondershauser Straße 14, Neubau eines Zweifamilienhauses; Fällung eines Walnussbaumes ? zugestimmt
+- TOP .10.: sonstiges
+- TOP .1.: Garchinger Mühlbach ? Stauwehr
+- TOP .1.: Errichtung eines personenbezogenen Behindertenparkplatzes am Carl-Orff-Bogen 12
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top C.3.1 und D.3.2.1)
+- TOP .2.: Schulwegsicherheit und Brandschutz Grundschule an der Haimhauserstraße (Ergebnisse aus dem Ortstermin vom 20.01.2014)
+- TOP .1.: U-Turn vor dem Ibis-Hotel in der Lyonel-Feininger-Straße
+- TOP .1.: Neuer Wertstoffcontainerstandort in der Haidparksiedlung
+- TOP .2.: Zwei neue Recyclingcontainer in der Siedlung am Haidpark
+- TOP .3.: Parkraummanagement außerhalb des Mittleren Rings ? Aufnahme der Alten Heide in den Prüfungskatalog
+- TOP .4.: Lärmschutz an der A9 München-Nürnberg im Bereich Alte Heide und Parkstadt Schwabing
+- TOP .1.: Parkraummanagement Parklizenzgebiet ?Gieselastraße? - Rückbeschilderung der baustellenbedingten Änderung in der Gedonstraße
+- TOP .2.: Ablehnung der Ausweisung einer Ladezone in der Feilitzschstraße 7-9 (Schreiben des Kreisverwaltungsreferats an den Antragsteller)
+- TOP .1.: Handlungsprogramm Mittlerer Ring ? Sachstand und weiterer Handlungsbedarf; Sitzungsvorlage Nr.: 08-14 / V 10707; Beschluss der Vollversammlung des Stadtrates vom 19.02.2014 (incl. BA-Antrag 08-14 / B 04337 ?Ein Englischer Garten?)
+- TOP .2.: Untersuchungen zum Wirtschaftsverkehr in München; Sitzungsvorlage Nr. 08-14 / V 14117; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014
+- TOP .3.: U-Bahn-Verbindung zwischen den U-Bahn-Linien U2 und U6 ? Zwischennachricht zum BA-Antrag Nr. 08-14 / B 05399
+- TOP .4.: Kleingartenverband München e.V. unterstützen; Sitzungsvorlage Nr. 08-14 / V 13834; Beschluss des Bauausschusses vom 11.03.2014
+- TOP .5.: Filmaufnahmen auf öffentlichem Verkehrsgrund (2)
+- TOP .6.: Aktion Saubere Stadt ? Weiterentwicklung; Sitzungsvorlage Nr. 08-14 / V 14090; Beschluss des Bauausschusses vom 11.03.2014
+- TOP .7.: Entfernung der Einzäunung und der Abfallcontainer an der Ecke Hohenzollern- / Wilhelmstr. - Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen
+- TOP .8.: Information des Baureferats über eine geplante Straßenbaumaßnahme Rümannstraße und Isoldenstraße
+- TOP .9.: Kanalbau im Umgriff des Bebauungsplanes Nr. 1967a Domagkstraße
+- TOP .10.: Ausbau des Öffentlichen Nahverkehr in Schwabing-Freimann (Schreiben eines Bürgers an div. Institutionen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Gaudiblatt / 84 GHz ? Raum für Gestaltung Nachbarschaftsfest am 21.06.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse KJR München Stadt, Freizeittreff Freimann Programm zur Friedenserziehung ?Prima Klima? von 14.04. bis Ende Juni 2014
+- TOP .3.: Kinder-Flohmärkte ?Der kleine Münchner? an der Münchner Freiheit am 26.04., 24.05., 19.07 und 04.10.2014
+- TOP .4.: (E) Budget der Bezirksausschüsse RegieAlsFaktor Theateraufführung ?Beschreibung eines Kampfes? im Mai und Juni 2014
+- TOP .5.: (E) Budget der Bezirksausschüsse Kulturverein Wendes München Veranstaltung in der St.-Ursula Kirche am 27.04.2014
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top B.3.2.1 und D.3.2.1.)
+- TOP .2.: Spielaktion 2014 der Spiellandschaft Stadt
+- TOP .3.: Flohmarkt auf der Grünanlage Lilly-Reich-Straße / Gunta-Stölzl-Straße am 25.05.2014
+- TOP .4.: Naturpädagogisches Projekt ?Auf zu neuen Schafen? am Fröttmaninger Berg vom 06.07 -02.08.2014
+- TOP .5.: Karfreitagsprozession am 18.04.2014 und Auferstehungsfeier am 19.04.2014 der Griech.-Orthodoxen Metropolie
+- TOP .1.: Erhalt der Kinderkrippe in der Clemensstraße 29
+- TOP .1.: Grundschule Haimhauserstraße - Durchführung der Generalsanierung und Gewährleistung der Mittagsbetreuung
+- TOP .2.: Aufstellung eines öffentlichen Bücherschrankes
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Zur Buche? Vereinswirtschaft, Freisinger Landstraße 100
+- TOP .2.: ?CENONE?, Schank- und Speisewirtschaft, Occamstraße 11
+- TOP .1.: Haus für Kinder Brabanter Straße 4; Leistungen eines Baukostenzuschusses, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 26.02.2014 Sitzungsvorlage Nr. 08-14 / V 13981
+- TOP .2.: Haus für Kinder Leopoldstraße 236; Leistungen eines Baukostenzuschusses, Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 26.02.2014 Sitzungsvorlage Nr. 08-14 / V 14042
+- TOP .3.: Änderung der Satzung für die Bezirksausschüsse ? Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse bzgl. der Belange der Kinderbetreuung; Sitzungsvorlage Nr.: 08-14 / V 13400; Beschluss des Verwaltungs- und Personalausschusses vom 05.02.2014
+- TOP .4.: Bescheide / Zuwendungsbewilligungen a) Urbanes Wohnen e.V. für die Entstehung eines NaturNetzes in Höhe von 500,00 ? b) Initiative 84 GHz für Kunst im Karrée 2014 vom 11.07. bis 13.07.2014 in Höhe von 2.500,00 ?
+- TOP .5.: Zuschussnehmerdatei 2014 ? Vollzug des Haushaltsplanes 2014 für den Bereich ?Förderung freier Träger? des Sozialreferats: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses am 25.03.2014 Zentrale (Sitzungsvorlage Nr. 08-14 / V 14007) Stadtjugendamt (Sitzungsvorlage Nr. 08-14 / V 14048) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 14036) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 14082)
+- TOP .6.: Erlaubnisbescheid: Festumzug zum St. Patricksday und Fest am 16.03.2014
+- TOP .1.: Erweiterung einer bestehenden Freischankfläche, Feilitzschstr. 15
+- TOP .2.: Aufstellung eines Zeitungsentnahmegerätes, Dietlindenstraße 8
+- TOP .3.: Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund, Franz-Joseph-Straße 21
+- TOP .4.: Genehmigung einer Freischankfläche, Leopoldstraße 68
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Sonnleitnerstraße 17, Fällung eines Ahornbaumes
+- TOP .2.: Franz-Joseph-Straße 3, Fällung einer Kastanie
+- TOP .3.: Sederanger 3, Fl.Nr.: 1207/10, ?Tivoli? - Neubau eines Wohn- und Bürogebäudes mit 2 Untergeschossen inkl. Tiefgarage - Tektur
+- TOP .4.: König-Marke-Straße 8, Fällung einer Linde
+- TOP .5.: Kunigundenstraße 66, F.Nr.: 1224/11, Neubau eines Einfamilienhauses mit Garage ? Vorbescheid; Fällungen gemäß Plan
+- TOP .6.: Leopoldstraße 204, Fl.Nr.: 894/5, Abbruch eines Bürogebäudes mit Teilabbruch der Tiefgarage, Fällungen gemäß Plan
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top B.3.2.1 und C.3.1.)
+- TOP .2.: Leopoldstraße 85, Fl.Nr.: 343/2, Umbau eines Mehrfamilienhauses mit Garagen zu einer Maisonette-Wohnung und Gewerbeeinheit, Nutzungsänderung von Garagen in eine Gewerbeeinheit
+- TOP .3.: Benennung von Straßen und Wegen in Grünanlagen
+- TOP .4.: Nachtrag der Reihenwohnhäuser Leopoldstraße 149, 149a, 151, 151a und Parzivalplatz 1 in die Denkmalliste
+- TOP .5.: Königinstraße 107, Fl.Nr.: 3188/0, Teilabbruch und Umbau eines Technikgebäudes
+- TOP .6.: Seestraße 7 ? 7a, Fl.Nr.: 140/0, Neubau eines Garagengebäudes mit unterirdischem Verbindungsgang zum Haupthaus, Abbruch eines Carports und einer Terrassenüberdachung, Errichtung eines Wintergartens
+- TOP .7.: Haimhauserstraße 11, Fl.Nr.: 327/0, Nutzungsänderung: Metzgerei und Flur zu Laden sowie Laden zu Gastronomie
+- TOP .8.: Wallnerstraße 35, Fl.Nr.: 522/30, Umbau und Erweiterung (Anbau) eines Wohngebäudes
+- TOP .9.: Wurzgartenweg 5, Neubau eines Wohnhauses (3WE) mit Garagen
+- TOP .1.: Planungsstand des ehemaligen Floriansmühlbad
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung des Baureferats-Gartenbau über das Fällen von Gefahrenbäumen Leopoldstraße 18, 26 und 36, je eine Säulenpappel
+- TOP .2.: Ludwig-Merk-Straße 13, Fällung einer Douglasie
+- TOP .1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2031 b ? Freisinger Landstraße (östlich), Garchinger Mühlbach (westlich) und Verlängerung Josef-Wirth-Weg (nördlich) Sitzungsvorlage Nr. 08-14 / V 14100; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014
+- TOP .2.: Baumaßnahmen der Stadtwerke München a) Stromprojekt Freisinger Landstraße b) Stromprojekt, Netztrafostation Leopoldstraße c) Wasserprojekt Thiemestraße / Königinstraße
+- TOP .3.: Baugenehmigung: Biedersteiner Straße 41, Neubau eines Wohnhauses (3 WE) mit Tiefgarage - Tektur
+- TOP .4.: Teilbaugenehmigung, Brabanter Straße 1 -5, für Tiefgaragenaushub (incl. Baumfällungen)
+- TOP .5.: Baugenehmigung mit aufschiebenderr Bedingung: Maria-Probst-Straße 17, Nutzungsänderung mit baulicher Änderung: Verkaufsfläche zu Fitness-Studio (McFit)
+- TOP .6.: Aufstellung von Bänken für Seniorinnen und Senioren in Schwabing-West (BV-Empfehlung Nr.: 08-14 / E 01936 des Stadtbezirkes 4 Schwabing-West)
+- TOP .7.: Fehlendes Straßenschild am Wedekindplatz (Antwort des Kommunalreferats auf ein Bürgeranliegen)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
