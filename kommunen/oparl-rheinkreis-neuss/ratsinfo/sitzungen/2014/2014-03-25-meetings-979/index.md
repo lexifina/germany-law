@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2014-03-25T14:00:00+01:00
+- Ende: 2014-03-25T17:30:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/979
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/979
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift Kreistag 25.03.2014  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00055516.pdf
+- Ergebnisprotokoll: Niederschrift Kreistag 25.03.2014  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00055516.pdf
+- Wortprotokoll: Niederschrift Kreistag 25.03.2014  öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00055516.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Umbesetzung von Ausschüssen und Gremien - einstimmig beschlossen
+- TOP 3: Entsendung von Vertretern des Rhein-Kreises Neuss in die Gesellschafterversammlung der IRRö-Innovationsregion Rheinisches Revier GmbH - einstimmig beschlossen
+- TOP 4: Benennung von Vertretern für die Gesellschafterversammlung der Verpflegungsgesellschaft Rhein-Kreis Neuss mbH - einstimmig beschlossen
+- TOP 5: Feststellung des Entwurfs des Gesamtabschlusses zum 31.12.2012 - einstimmig beschlossen
+- TOP 6: Ermächtigungsübertragungen von 2013 nach 2014 im Rahmen des Jahresabschlusses 2013 - einstimmig beschlossen
+- TOP 7: Kreishaushalt 2014/2015
+- TOP 7.1: Beteiligungsrechte der kreisangehörigen Städte und Gemeinden
+- TOP 7.2: Beschluss über die Haushaltssatzung mit ihren Anlagen
+- TOP 7.2.1: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen zum Thema "Präventive Hausbesuche" - mehrheitlich abgelehnt
+- TOP 7.2.2: Antrag der SPD-Kreistagsfraktion vom 05.12.2013 keinen Doppelhaushalt zu verabschieden - mehrheitlich abgelehnt
+- TOP 7.2.3: Antrag der Kreistagsfraktion UWG/Die Aktive vom 05.12.2013 den Doppelhaushalt erst für die Jahre 2015/2016 aufzustellen - mehrheitlich abgelehnt
+- TOP 7.2.4: Beschluss über die Haushaltssatzung mit ihren Anlagen - mehrheitlich beschlossen
+- TOP 7.2.5: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen "Schulsozialarbeit - weitere Planungen" vom 12.03.2014 - einstimmig beschlossen
+- TOP 8: Satzungsänderung der Musikschule Rhein-Kreis Neuss, hier: geplante Gebührenerhöhung - einstimmig beschlossen
+- TOP 9: Kein Abschluss ohne Anschluss - Übergang Schule/Beruf in NRW - einstimmig beschlossen
+- TOP 10: Erweiterung der Martinusschule um den Schwerpunkt Emotionale und soziale Entwicklung - einstimmig beschlossen
+- TOP 11: Kreisentwicklungskonzept Inklusion von Menschen mit Behinderung im Rhein-Kreis Neuss
+- TOP 11.1: Vorlage der Verwaltung
+- TOP 11.1.1: Antrag der SPD-Kreistagsfraktion auf Verweisung - mehrheitlich abgelehnt
+- TOP 11.1.2: Antrag der SPD-Kreistagsfraktion auf Aufnahme der nicht berücksichtigten Aspekten aus den Anträgen - mehrheitlich abgelehnt
+- TOP 11.1.3: Kreisentwicklungskonzept Inklusion von Menschen mit Behinderung im Rhein-Kreis Neuss - mehrheitlich beschlossen
+- TOP 11.2: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen zum Thema "Inklusion im öffentlichen Leben, in Verwaltungen und Politik im Rhein-Kreis Neuss voranbringen" vom 10.03.2014
+- TOP 11.3: Antrag der SPD-Kreistagsfraktion zur Weiterentwicklung des Kreisentwicklungskonzeptes Inklusion von Menschen mit Behinderung vom 19.03.2014
+- TOP 12: Gesamtstellenplan 2014/2015 - einstimmig beschlossen
+- TOP 13: Änderung der Satzung des Sparkassenzweckverbandes - einstimmig beschlossen
+- TOP 14: Anträge
+- TOP 14.1: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen auf Verabschiedung einer Resolution zur Entlastung des Rhein-Kreises Neuss vom 12.03.2014 - mehrheitlich abgelehnt
+- TOP 14.2: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen "Vergabe der Aufträge für den Schülerspezialverkehr der Förderschulen" vom 12.03.2014
+- TOP 14.3: Antrag der SPD-Kreistagsfraktion "Errichtung einer Klimaschutzstelle mit einer/einem Klimaschutzbeauftragten" vom 19.03.2014 und Stellungnahme der Verwaltung - mehrheitlich abgelehnt
+- TOP 15: Mitteilungen
+- TOP 16: Anfragen
+- TOP 16.1: Anschlusstelle Delrath
+- TOP 16.2: Wahlen
+- TOP 16.3: Schülerspezialverkehr
+- TOP 17: Einwohnerfragestunde
