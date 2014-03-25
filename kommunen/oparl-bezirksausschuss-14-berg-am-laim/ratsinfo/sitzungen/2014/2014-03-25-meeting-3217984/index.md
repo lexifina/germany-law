@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-03-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3217984
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3217984
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Schildensteinstraße 2 - Neubau eines Wohngebäudes mit zwei Tiefgaragen
+- TOP 3.1.1.2.: St.-Veit-Straße 4 - Aufstockung eines Verwaltungsgebäudes um 1 Geschoss
+- TOP 3.1.1.3.: Freilegung Hachinger Bach zwischen Kampenwandstraße und Hüllgraben - Vorl. V 13476
+- TOP 3.2.1.: Grünanlage zwischen Westerhamer- und Achentalstraße ? Public Viewing am 30.06.14
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Mittelfristige Finanzplanung 2013 - 2017 - Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2014 bis 2018
+- TOP 3.5.2.: Benennung von Straßen und Wegen in Grünzügen
+- TOP 3.5.3.: Maibaumverein Berg am Laim e.V. - Maifeier an der Baumkirchner Straße
+- TOP 3.6.1.: Josephsburgstraße 180 // Truderinger Straße 191 // Hansjakobstraße 57 // St.-Veit-Straße 70b // Heinrich-Wieland-Straße 29 // Halserspitzstraße 40 // Hochgernstraße 6 // Kranzhornstraße 23 //
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Unterrichtung über ein Grundstückgeschäft in der Gotteszeller Straße
+- TOP 4.1.1.3.: Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen - Kleingartenverband München e.V. unterstützen - Vorlagen-Nr. 08-14 / V 13834
+- TOP 4.1.1.4.: Mauer und Zaun vor der Loretokapelle, Ecke Baumkirchner / Josephsburgstraße: fachgerechte Sanierung der Ziegelsteinmauer und Entfernung der Werbetafeln am Zaun
+- TOP 4.1.2.1.: Haltverbot in der Grafinger Straße als Ausweichstelle für den Linienverkehr
+- TOP 4.1.2.2.: Bauarbeiten in der Grafinger Straße zwischen Friedenstraße und Haager Straße
+- TOP 4.1.2.3.: Widmung einer Teilstrecke der Gögginger Straße - Vollzug des Straßen- u. Wegegesetzes
+- TOP 4.1.2.4.: Information über Schienenschleifarbeiten auf dem Linienweg der U5 vom 23.-27.03.2014
+- TOP 4.1.2.5.: Handlungsprogramm Mittlerer Ring - Ergänzende Vorlage Nr. 08-14 / V 10707
+- TOP 4.1.2.6.: Untersuchungen zum Wirtschaftsverkehr in München - Vorlagen-Nr. 08-14 / V 14117
+- TOP 4.1.3.1.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen - Vorl. Nr. V 13354
+- TOP 4.1.3.2.: Aktion Saubere Stadt - Weiterentwicklung - Vorlagen-Nr. 08-14 / V 14090
+- TOP 4.2.1.: Mehr Unterstützung des Kulturreferats bei Veranstaltungen der Bezirksausschüsse
+- TOP 4.2.2.: Bewerbung um Stadtteilwoche 2017 (+)
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Baukostenzuschuss für die Kindertagesstätte St.-Michael - Vorlage-Nr. V 13297
+- TOP 4.3.2.: Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung - BA-Antrag Nr. 08-14 / B 03722 zur BA-Satzungsänderung - Vorlagen-Nr. V 13400
+- TOP 4.3.3.: Errichtung einer Mobilen Schulraumeinheit für 8 Grundschulklassen und Räumen für ganztägige Betreuung an der Josephsburgstraße 41 - Projektkosten - Vorlagen-Nr. V 13390
+- TOP 4.3.4.: Turnhallensituation am Michaeli-Gymnasium - Schreiben des Referats für Bildung & Sport
+- TOP 4.3.5.: Darstellung der Skateinfrastruktur in München - Vorlagen-Nr. 08-14 / V 13779
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Münchner Volkshochschule - Verwendungsnachweis
+- TOP 4.5.2.: Berg am Laimer Tafel - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
