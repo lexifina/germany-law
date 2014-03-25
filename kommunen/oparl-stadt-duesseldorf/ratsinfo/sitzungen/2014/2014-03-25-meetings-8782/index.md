@@ -1,0 +1,63 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-25T16:00:00+01:00
+- Ende: 2014-03-25T21:20:00+01:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8782
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8782
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214102.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214102.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214102.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Vertretern des Jugendrates - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Vorstellung der Christlichen Hausgemeinschaft; Kölner Straße 140 - zur Kenntnis genommen
+- TOP 6: Übergabe des "Bilker Bibers" für besonderes soziales Engagement - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Vorstellung des Basketballvereins "Alte Freunde" - zur Kenntnis genommen
+- TOP 9: Neuwahl einer Schiedsfrau - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Ernst-Reuter-Platz; Pflanzkonzept Tita Giese - zur Kenntnis genommen
+- TOP 13: Ernst-Reuter-Platz - einstimmig beschlossen
+- TOP 14: BPl03/010(alt5275/028)Südl.Franziusstr.§13,Aufst.öff.Ausl. - einstimmig beschlossen
+- TOP 15: FNP-Änderung Nr. 172 - Oberbilker Allee / Ringelsweide - Aufstellung, Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 16: B-Plan Vorentwurf Nr. 03/001- Oberbilker Allee/Ringelsweide - Beschluss frühzeitige Öffentlichkeitsb - einstimmig beschlossen
+- TOP 17: Plan Nr. 03/009 - Oberbilker Allee/Ringelsweide - Veränderungssperre - mehrheitlich beschlossen
+- TOP 18: Pl 5576/085-Innenstadt Vergn.stätten-1.Verl.VÄ - einstimmig beschlossen
+- TOP 19: 1000 Bänke für Düsseldorf - einstimmig beschlossen
+- TOP 20: Bauunterhaltungsmittel 2014 - einstimmig beschlossen
+- TOP 21: Schulhofgestaltung GGS Sonnenstraße - einstimmig beschlossen
+- TOP 22: Gehwege an der Düssel; Instandsetzung - einstimmig beschlossen
+- TOP 23: Sternwartdenkmals Alt St. Martin; Instandsetzung - einstimmig beschlossen
+- TOP 24: Absenkung einer Bordsteinkante an Kreuzung Färberstr./Brachtstr. - einstimmig beschlossen
+- TOP 25: Aufstellung von Fahrradständern im Kreuzungsbereich Suitbertusstr./Aachener Str. im - einstimmig beschlossen
+- TOP 26: Benutzung des Bürgersteigs für Fahrradfahrer*innen vor den Düsseldorfer Arcaden - mehrheitlich beschlossen
+- TOP 27: Geländer Bilker Arkaden - mehrheitlich abgelehnt
+- TOP 28: Bänke Völklinger Straße - einstimmig beschlossen
+- TOP 29: Fußgängersicherheit Brinckmannstraße - einstimmig beschlossen
+- TOP 29.1: Blumen - einstimmig beschlossen
+- TOP 30: Einhaltung Handlungskonzept ZUKUNFT WOHNEN.DÜSSELDORF bei Neubau - schriftlich beantwortet
+- TOP 31: Kunstpavillon - schriftlich beantwortet
+- TOP 32: Kosten zur Absenkung einer Bordsteinkante an Kreuzung Färberstraße / Brachtstraße - schriftlich beantwortet
+- TOP 33: Verbesserung der öffentlichen Beleuchtung auf der Benzenbergstraße aus - schriftlich beantwortet
+- TOP 34: Baumpflanzungen Krankenhaus/Florastraße - schriftlich beantwortet
+- TOP 35: Haus Kolvenbach, Stoffelerkappelenweg 188 - vertagt
+- TOP 36: Radfahrstreifen Gladbacher Straße und Bilker Allee - vertagt
+- TOP 37: Auslastung der Parkhäuser im Stadtbezirk 3 - schriftlich beantwortet
+- TOP 38: Bilker Höfe - vertagt
+- TOP 39: Verlegung des Fußgängerüberwegs im Zufahrtsbereich zum neuen Einkaufszentrum von - vertagt
+- TOP 40: Spielen und Leben in Bilk e.V - schriftlich beantwortet
+- TOP 41: Leerstand ehemaliges Restaurant "Atrium" - vertagt
+- TOP 42: Hundfreilauffläche im Volksgarten - vertagt
+- TOP 43: Rückblick Bürgerforum "Aktiv im Alter" - zur Kenntnis genommen
+- TOP 44: Tanztee am 28.02.2014 Dringlichkeitsbeschluss - einstimmig beschlossen
+- TOP 45: Mitteilungen des Bezirksvorstehers - zur Kenntnis genommen
