@@ -1,0 +1,54 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-03-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052406
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052406
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2014-2018 (vgl. TOP D 2.1 und E 2.2.1)
+- TOP .2.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. MobilSpielfest am 27.04.2014
+- TOP .3.: Gewährter Zuschuss aus dem BA-Budget an den Verein ?La Foret Magique ? Der Zauberwald e.V.? für die Ausstattung eines Turnraums in der Kindertagesstätte: Anhörung zur Änderung des Bewilligungszeitraums und der zu beschaffenden Geräte
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Herzogstr. 84, ?Die Kuchenwerkstatt?: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Projektgruppe Kultur im Ackermannbogen e.V. Projekt ?Zauberflöte ? Kunst und Musik im Prozess? mit Aufführungstermin am 01.07.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kreuzkirche München-Schwabing Konzert am 18.04.2014
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Veranstaltungen des Sportamtes im Luitpoldpark ab Mai 2014: a) tägliche Gymnastik auf der Wiese nördlich des Bamberger Hauses b) Spielnachmittage sonntags ab 14.30 Uhr
+- TOP .2.: Veranstaltungen der Pädagogischen Aktion/Spielen in der Stadt e.V. a) Piratenspielaktion auf der großen Wiese Ackermannbogen (01. bis 03.07.2014) b) Herbstfest im Luitpoldpark vom 03. bis 05.10.2014
+- TOP .3.: Geschichtenfestival im Luitpoldpark am 14. und 15.06.2014
+- TOP .2.1.: Planen
+- TOP .1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2014-2018 (vgl. TOP B 2.1 und E 2.2.1)
+- TOP .2.: Viktor-Scheffel-Str. 16: Abbruch und Neuerrichtung der Fluchttreppe 1./2. DG
+- TOP .3.: Tengstr. 22: Erneuerung von Dachgauben
+- TOP .4.: Tektur Herzogstr. 41: VGB: Dachanhebung mit Ausbau, Anbau von Balkonen, Einbau eines Personenaufzugs, Nutzungsänderung Kindertagesstätte zu Büro; RGB: Nutzungsänderung zu Wohnen, Einbau eines Personenaufzugs, Erweiterung der Dachterrasse
+- TOP .5.: Clemensstr. 129: DG-Ausbau (Einbau einer Dachterrasse und einer Gaube in eine bestehende Wohnung)
+- TOP .6.: Belgradstr. 1: Umbau und Erweiterung des ?Café Schwabing? mit Sanierung der Betriebsbereiche um EG + UG
+- TOP .7.: Tektur Isabellastr. 38: Neubau eines Mehrfamilienhauses (16 WE) mit integriertem Laden, Büro und Tiefgarage
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Schlechte Sichtverhältnisse an der Kreuzung Bregenzer/Birnauer Straße
+- TOP .2.1.: Umwelt
+- TOP .1.: Schwere-Reiter-Str. 39: Baumfällungen in Zusammenhang mit einem Bauvorhaben (Umbau und Nutzungsänderung eines denkmalgeschützten Gebäudes inkl. Anbau einer Tiefgarage, vgl. TOP D 2.9 der letzten Sitzung)
+- TOP .2.: Wertherstr. 4: Baumfällungen in Zusammenhang mit einem Bauvorhaben (Erweiterung um einen Wohnraum im Erdgeschoss)
+- TOP .3.: Farinellistr. 10, Fällung von fünf Lärchen
+- TOP .4.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Entstehung eines NaturNetzes
+- TOP .5.: Bummstr. 5-15: Baumfällungen in Zusammenhang mit einem Bauvorhaben (Anbau von Balkonen)
+- TOP .2.2.: Verkehr
+- TOP .1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2014-2018 (vgl. TOP B 2.1 und E 2.1.1)
+- TOP .1.: Benennung von Straßen und Wegen in Grünzügen ? Erneute Anhörung zum Antrag Nr. 08-14/B 04763 des BA 11 Milbertshofen-Am Hart vom 10.04.2013
+- TOP .1.: Wiederanbringen des Schildes "Radfahrer frei" am Verbindungsweg zwischen der Therese-Studer-Straße und dem Centa-Herker-Bogen (Antrag 1)
+- TOP .2.: Koordinierung der Ampelschaltungen entlang der Ackermannstraße und kürzere Wartezeit für querende Fußgänger und Radfahrer in Höhe Spiridon-Louis-Ring
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
