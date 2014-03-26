@@ -1,0 +1,77 @@
+# 27.öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-03-26T17:00:00+01:00
+- Ende: 2014-03-26T23:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2303
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2303
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-65 vom 29.10.2013 ("Putenweg / Rhodeländerweg") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Weitere Flüchtlingsunterkünfte in Neukölln? - beantwortet
+- TOP 9.2: Nutzungskonzept zum Gelände des ehemaligen St. Thomas-Friedhofs in der Hermannstraße - beantwortet
+- TOP 9.3: Schleichende Verödung nach Aufhebung der Schutzfrist? - beantwortet
+- TOP 9.4: Öffentliches Schwimmbad zu verkaufen - beantwortet
+- TOP 9.5: Angebote für Menschen mit Behinderung - beantwortet
+- TOP 9.6: Städtebaufördermittel für Neukölln? - beantwortet
+- TOP 9.7: Baumaßnahmen im Blumenviertel - beantwortet
+- TOP 9.8: Aufgaben von Pallotti-Mobil - beantwortet
+- TOP 9.9: Beleuchtung in der Prierosser Straße - beantwortet
+- TOP 9.10: Wie gedenkt Neukölln in 2014 - schriftlich beantwortet
+- TOP 9.11: Rückschlüsse aus Vivantes-Bescheinigungen - schriftlich beantwortet
+- TOP 9.12: Bearbeitungszeit von Wohngeldanträgen - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Zusammenarbeit von Grundschule und Gymnasium - in der BVV abgelehnt
+- TOP 11.2: Lernförderung für die Prüfungen BBR/MSA im Schuljahr 2013/14 - in der BVV abgelehnt
+- TOP 11.3: Senioren Tipps - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Beschulung der Kinder aus der Flüchtlingsunterkunft sichern II - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Von der Bruttogeschossfläche zur Wohneinheit - beantwortet
+- TOP 12.2: Berliner Krankenhausplan 2016 - beantwortet
+- TOP 12.3: Demos in Neukölln - beantwortet
+- TOP 12.4: Kein Konzept für sozialen Wohnungsbau auf dem Tempelhofer Feld? - beantwortet
+- TOP 12.5: Bürgerinformation Kiehlsteg - beantwortet
+- TOP 12.6: Werbung für Senatsantrag zum THF - beantwortet
+- TOP 12.7: Standortvorschläge für Flüchtlingsunterkünfte - beantwortet
+- TOP 12.8: Handlungsorientierter Sozialstrukturatlas 2013 - vertagt
+- TOP 12.9: Transparentes Jobcenter? - vertagt
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Kennzeichnung eines Fahrradweges in der Neuköllner Straße / Ecke Rudower Spinne - überwiesen
+- TOP 14.2: Rudower Spinne - überwiesen
+- TOP 14.3: Aufschub des Abrisses des Kiehlstegs - in der BVV zurückgezogen
+- TOP 14.4: Interne Weisungen des Jobcenters Neukölln - überwiesen
+- TOP 14.5: Fußgängerquerungshilfe (Fußgängerüberweg/ggfs. Anforderungsampel) in der Stubenrauchstraße - überwiesen
+- TOP 14.6: Sanierungskosten Werner-Seelenbinder-Sportpark - überwiesen
+- TOP 14.7: Stelle eines / einer Beauftragten für Senioren einrichten - überwiesen
+- TOP 14.8: Öffentlich nutzbare WC´s im Einzelhandel - überwiesen
+- TOP 14.9: Netzwerktreffen „Zukunftsaufgabe erfolgreiche Integrations-/Bildungspolitik in Neukölln “ - überwiesen
+- TOP 14.10: Gleiche Bedingungen beim Volksentscheid THF - in der BVV abgelehnt
+- TOP 14.11: Schritt für Schritt gegen Häusliche Gewalt – Häusliche Gewalt ist keine Privatsache - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Sprachbildung und Sprachförderung - überwiesen
+- TOP 14.13: Neubewertung der Infrastrukturkosten - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Digitale Beglaubigungen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Fehlende Mittel für Clay-Schule bereitstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Pflege des Erich-Mühsam-Gedenksteins - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Beleuchtung an der Fritz-Karsen-Schule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Neukölln fahrrad- und fußgänger/innenfreundlich (12): "Zebrastreifen" in der Aronsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Schaltintervalle der Lichtzeichenanlage im Bereich der Rudower Spinne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Lichtzeichenanlage für sicheren Schulweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Berichte der Patientenfürsprecherinnen - zur Kenntnis genommen (Beratungsfolge beendet)
