@@ -1,0 +1,416 @@
+---
+ecli: "ECLI:DE:BVerfG:2014:rk20140326.1bvr318509"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 3185/09"
+decided: "2014-03-26"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 26. März 2014\n- 1 BvR 3185/09 -, Rn. 1-42,\n                    https://www.bverfg.de/e/rk20140326_1bvr318509"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2014/03/rk20140326_1bvr318509.html"
+corpus_doc_id: "BVerfG_2014-03-26_K_1_BvR_3185_09_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/arbgg/0045.md", "germany/bund/acts/bverfgg/0017.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/grundgesetz/artikel/008.md", "germany/bund/acts/grundgesetz/artikel/009.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/014.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/101.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 3185/09 vom 2014-03-26
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 3185/09 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Handelsverbands Berlin-Brandenburg e.V. (HBB),
+vertreten durch die Präsidentin Karin Genrich,
+Mehringdamm 48, 10961 Berlin,
+
+- Bevollmächtigte:1. Prof. Dr. Gregor Thüsing LL.M.,
+                 2. Prof. Dr. Christian Waldhoff –
+
+gegen a) das Urteil des Bundesarbeitsgerichts vom 22. September 2009 - 1 AZR
+         972/08 -,
+
+      b) das Urteil des Landesarbeitsgerichts Berlin-Brandenburg vom 29. September 2008 - 5 Sa 967/08 -,
+
+      c) das Urteil des Arbeitsgerichts Berlin vom 1. April 2008 - 34 Ca 2402/08 -
+
+hat die 3. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                 den Vizepräsidenten Kirchhof,
+                                 den Richter Masing
+                                 und die Richterin Baer
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 26. März 2014 einstimmig beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                     Gründe:
+
+                                        A.
+ Die Verfassungsbeschwerde richtet sich gegen Urteile des Bundesarbeitsgerichts,      1
+des Landesarbeitsgerichts und des Arbeitsgerichts, mit denen diese gewerkschaftlich
+organisierte, streikbegleitende sogenannte Flashmob-Aktionen im Einzelhandel als
+rechtmäßig angesehen haben.
+
+                                        I.
+ 1. Der Beschwerdeführer organisiert als Arbeitgeberverband Einzelhandelsunternehmen im Raum Berlin-Brandenburg. Die im Ausgangsverfahren beklagte Gewerkschaft führte im Jahre 2007 einen Streik zur Durchsetzung ihrer Forderung nach einem neuen Tarifvertrag für den Einzelhandel. Ihr Landesbezirk Berlin-Brandenburg
+
+
+
+                                        1/12
+
+veröffentlichte während des Streiks ein virtuelles Flugblatt, mit der Frage „Hast Du
+Lust, Dich an Flashmob-Aktionen zu beteiligen?“, bat Interessierte um die Handy-Nummer, um diese per SMS zu informieren, wenn man gemeinsam „in einer bestreikten Filiale, in der Streikbrecher arbeiten, gezielt einkaufen gehen“ wolle, „z.B. so: Viele Menschen kaufen zur gleichen Zeit einen Pfennig-Artikel und blockieren damit für
+längere Zeit den Kassenbereich. Viele Menschen packen zur gleichen Zeit ihre Einkaufswagen voll (bitte keine Frischware!!!) und lassen sie dann stehen.“ Die Gewerkschaft propagierte dies auch in der Presse und im Rahmen einer öffentlichen Kundgebung.
+
+  Im Dezember 2007 führte die Gewerkschaft in der Filiale eines Mitgliedsunternehmens des Beschwerdeführers eine solche Flashmob-Aktion durch. Es beteiligten sich
+etwa 40 bis 50 Personen, die per SMS von der Gewerkschaft dorthin bestellt worden
+waren. Zwei oder drei Teilnehmende trugen eine Jacke mit der Aufschrift „ver.di“,
+zahlreiche andere trugen Sticker der Gewerkschaft. Zunächst betraten etwa drei Personen die Filiale, klebten ein Flugblatt mit einem Streikaufruf an einen Backofen, legten weitere Flugblätter an die Kasse und forderten eine Arbeitnehmerin zur Streikteilnahme auf. Später begaben sich etwa 40 Personen in die Filiale und kauften dort in
+größerer Zahl sogenannte Pfennig- oder Cent-Artikel, weshalb sich an den Kassen
+Warteschlangen bildeten. Andere füllten etwa 40 Einkaufswagen mit Waren und ließen diese ohne Begründung oder mit der Angabe, das Geld vergessen zu haben, in
+den Gängen oder im Kassenbereich stehen. Die Aktion dauerte nach Angaben des
+Beschwerdeführers etwa eine Stunde, nach Angaben der Gewerkschaft 45 Minuten.
+
+ Mit seiner Klage im Ausgangsverfahren verfolgte der Beschwerdeführer das Ziel,              4
+der Gewerkschaft den Aufruf zu weiteren derartigen Flashmobs zu untersagen.
+
+  2. Das Arbeitsgericht wies die Klage ab, das Landesarbeitsgericht wies die Berufung zurück. Die vom Beschwerdeführer eingelegte Revision wies das Bundesarbeitsgericht zurück, denn die Klage sei unbegründet. Der Beschwerdeführer könne
+von der Gewerkschaft nicht die Unterlassung künftiger Aufrufe zu sogenannten
+Flashmob-Aktionen verlangen; diese seien nicht generell rechtswidrig. Zwar seien sie
+regelmäßig ein Eingriff in den eingerichteten und ausgeübten Gewerbebetrieb. Doch
+sei dieser aus Gründen des Arbeitskampfrechts gerechtfertigt. Streikbegleitende
+Flashmob-Aktionen der Gewerkschaften, mit denen tarifliche Ziele verfolgt würden,
+unterfielen dem Schutzbereich des Art. 9 Abs. 3 GG. Ob eine Betätigung koalitionsspezifisch sei, richte sich grundsätzlich nicht nach der Art des gewählten Mittels, sondern nach dem verfolgten Zweck. Der Schutz des Art. 9 Abs. 3 GG sei auch nicht versperrt, weil nicht ausgeschlossen werden könne, dass sich Dritte beteiligten. Doch
+bedeute dies nicht, dass Flashmob-Aktionen stets zulässig seien. Zentraler Maßstab
+sei die Verhältnismäßigkeit. Hinsichtlich der Geeignetheit und Erforderlichkeit von Arbeitskampfmaßnahmen komme den Koalitionen ein Beurteilungsspielraum zu.
+Streikbegleitende Flashmob-Aktionen seien nicht stets offensichtlich ungeeignet oder
+stets offensichtlich nicht erforderlich zur Durchsetzung von tariflichen Zielen. Sie seien auch nicht generell unverhältnismäßig. Zwar unterschieden sie sich vom her-
+
+
+                                           2/12
+
+kömmlichen Arbeitskampfmittel des Streiks nicht unbeträchtlich. Es gehe um eine
+„aktive“ Störung betrieblicher Abläufe, anders als beim Streik fehle eine Selbstschädigung durch den Entfall des Vergütungsanspruches und es bestünde die Gefahr, dass
+derartige Aktionen durch ein weniger beeinflussbares Verhalten Dritter außer Kontrolle gerieten; daher müssten Flashmob-Aktionen klar als von der Gewerkschaft getragene Arbeitskampfmaßnahmen erkennbar sein. Doch sei die Arbeitgeberseite diesen nicht wehrlos ausgeliefert, sondern habe wirksame Verteidigungsmöglichkeiten.
+Sie könne ihr Hausrecht nutzen, wo sich strafbar mache, wer einem Verweis nicht
+Folge leiste, oder einem Flashmob durch eine vorübergehende Betriebsschließung
+begegnen. Es handele sich nicht um „Betriebsblockaden“, denn Flashmobs seien auf
+eine relativ kurzfristige, vorübergehende Störung betrieblicher Abläufe gerichtet. Die
+bloße Möglichkeit, dass es zu „Exzessen“ komme, führe nicht zur generellen Rechtswidrigkeit des Arbeitskampfmittels.
+
+                                           II.
+ Mit seiner Verfassungsbeschwerde rügt der Beschwerdeführer eine Verletzung der             6
+Art. 9 Abs. 3, Art. 12, Art. 14, Art. 101 Abs. 1 Satz 2 GG sowie Art. 9 Abs. 3 in Verbindung mit Art. 20 Abs. 2 Satz 2 und Abs. 3 GG als Grenze richterlicher Rechtsfortbildung.
+
+  1. Die Entscheidung des Bundesarbeitsgerichts verletze ihn in seinem Grundrecht           7
+aus Art. 9 Abs. 3 GG, da durch Überdehnung des Schutzbereichs der Koalitionsfreiheit der Gewerkschaft die Koalitionsfreiheit des Beschwerdeführers unzulässig verkürzt werde. Es sei ein typologisches Verständnis dessen geboten, was als Arbeitskampfmaßnahme zu betrachten sei, wobei einer historischen Orientierung
+besondere Bedeutung zukomme. Streik und Aussperrung seien grundsätzlich zulässig, Betriebsblockaden dagegen unzulässig. Der Flashmob sei der Blockade ähnlich;
+es gehe um das temporäre „Dichtmachen“ der Filiale. Der Grundsatz der freien Wahl
+der Arbeitskampfmittel erlaube den Koalitionen nicht, unbegrenzt neue Arbeitskampfmittel zu schaffen. Kennzeichnend für ein zulässiges Arbeitskampfmittel sei die Vorenthaltung der vertraglich geschuldeten Leistung, wohingegen die aktive Beteiligung
+Dritter sowie Eingriffe in Gesundheit, Freiheit und Eigentum ausschieden. Das Bundesarbeitsgericht verkenne den Schutzbereich des Art. 9 Abs. 3 GG, indem es ihn
+von der Funktionsfähigkeit der Tarifautonomie löse, denn geschützt sei nur, was für
+diese erforderlich sei. Durch die Beteiligung Dritter werde zudem die Kampfstärke einer Gewerkschaft von ihrer organisatorischen Stärke, also dem Organisationsgrad
+und der Fähigkeit zur Mobilisierung der Belegschaft gelöst. Für Dritte gelte im Übrigen Art. 8 GG, nicht Art. 9 Abs. 3 GG. Auch seien Flashmob-Aktionen typischerweise
+schwer kontrollierbar, so dass die Gewerkschaft nicht dafür garantieren könne, dass
+sich alle Teilnehmenden an die vorgegebenen Spielregeln halten würden. Die Koalitionsfreiheit des Beschwerdeführers werde verletzt, weil die Zulassung von Flashmobs
+zu einer paritätswidrigen Ausgestaltung des Arbeitskampfrechts führe. Die Gegenseite könne nicht wirksam reagieren, denn die Betriebsstilllegung sei kein Gegenmittel,
+sondern eine Kapitulation, und die Ausübung des Hausrechts kaum möglich, für kurz-
+
+
+                                           3/12
+
+fristige Aktionen nicht geeignet und mit dem Risiko weiterer Eskalation verbunden.
+Zudem werde ein Arbeitskampfmittel anerkannt, das ohne ein Element der Selbstschädigung auskomme, denn anders als ein Streik verursache ein Flashmob für die
+Gewerkschaft praktisch keine Kosten.
+
+ 2. Die angegriffene Entscheidung des Bundesarbeitsgerichts verletze das Recht             8
+des Beschwerdeführers auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG,
+weil es der Erste Senat des Bundesarbeitsgerichts versäumt habe, den Großen Senat anzurufen. Eine Verpflichtung zur Vorlage ergebe sich nach § 45 Abs. 2 ArbGG
+aus dem Gesichtspunkt der Divergenz, weil sich der Erste Senat von den Vorgaben
+des Großen Senats zum Arbeitskampfrecht weitgehend gelöst habe. Zudem habe die
+Sache grundsätzliche Bedeutung nach § 45 Abs. 4 ArbGG, denn der Erste Senat
+schaffe unter Umgehung des Großen Senats ein qualitativ neuartiges Arbeitskampfmittel.
+
+  3. Der Beschwerdeführer werde ferner in seinen Grundrechten aus Art. 9 Abs. 3 GG         9
+in Verbindung mit Art. 20 Abs. 2 Satz 2 und Abs. 3 GG verletzt, weil die angegriffenen
+Urteile die verfassungsrechtlichen Grenzen richterlicher Rechtsfortbildung missachteten. Nach der Wesentlichkeitstheorie müsse der parlamentarische Gesetzgeber
+hier selbst regeln. Zwar habe das Bundesverfassungsgericht für die Ausgestaltung
+des Arbeitskampfrechts entschieden, dass dies nicht für das Verhältnis zwischen
+gleichgeordneten Grundrechtsträgern gelte. Die Unterscheidung zwischen Akteuren
+im Gleichordnungsverhältnis und im Über-/Unterordnungsverhältnis überzeuge jedoch nicht. Zudem genüge das Bundesarbeitsgericht nicht den verfassungsrechtlichen Anforderungen an die Bestimmtheit von Rechtsnormen, wenn es Arbeitskampfmaßnahmen ausschließlich anhand des Verhältnismäßigkeitsprinzips beurteile.
+
+ 4. Die Mitgliedsunternehmen des Beschwerdeführers seien in ihrem Grundrecht              10
+aus Art. 14 GG beziehungsweise Art. 12 GG verletzt.
+
+                                          III.
+  Zu der Verfassungsbeschwerde haben die Vereinigte Dienstleistungsgewerkschaft           11
+(ver.di) als Beklagte des Ausgangsverfahrens, der Deutsche Gewerkschaftsbund
+(DGB), für die Bundesregierung das Bundesministerium für Arbeit und Soziales
+(BMAS), der Handelsverband Deutschland (HDE) sowie die Bundesvereinigung der
+Deutschen Arbeitgeberverbände (BDA) Stellung genommen; der Beschwerdeführer
+hat auf die eingegangenen Stellungnahmen erwidert.
+
+  1. Die Vereinigte Dienstleistungsgewerkschaft (ver.di) verteidigt die angegriffenen     12
+arbeitsgerichtlichen Urteile. Das Bundesarbeitsgericht habe Flashmob-Aktionen nicht
+generell für zulässig erklärt, sondern festgestellt, dass diese Aktionen nicht in allen
+ernsthaft in Betracht kommenden Fallgestaltungen unverhältnismäßig seien. Die Beteiligung Dritter an Flashmobs stehe dem nicht entgegen. An gewerkschaftlichen Arbeitskämpfen seien Beschäftigte anderer Betriebe und Gewerkschaften, Familienangehörige und sonstige Interessierte schon immer passiv oder aktiv beteiligt. Die
+
+
+                                          4/12
+
+gewerkschaftliche Organisation müsse Gäste daran hindern, Schaden zu stiften und
+die Gewerkschaft täte auch alles, um Exzesse zu verhindern. Flashmobs würden als
+Arbeitskampfmittel nur eingesetzt, wenn sie auch betrieblich unterstützt und getragen
+würden, also nicht unabhängig von der eigenen Stärke der Koalition. Die Arbeitgeberseite habe geeignete Verteidigungsmittel, denn die suspendierende Betriebsstilllegung erzeuge Druck auf die Gewerkschaft, den Betroffenen Streik- beziehungsweise Aussperrungsunterstützung zu zahlen, und das Hausrecht lasse den Verbleib
+im Betrieb zum Hausfriedensbruch werden. Ein Flashmob sei keine Betriebsblockade, denn der Zugang zum Geschäft werde nicht behindert. Schließlich sei zu beachten, dass sich die Bedingungen, unter denen Arbeitskämpfe im Einzelhandel geführt
+würden, in den letzten Jahren unter anderem durch den Einsatz von Leiharbeit und
+Werkverträgen zu Lasten der Gewerkschaften verändert hätten. Flashmob-Aktionen
+könnten andere Arbeitskampfmittel daher zwar nicht ersetzen, sie aber ergänzen. Sie
+würden, wie Streiks, durch Situationsanalysen, Aktionsplanungen und Schulungen
+vorbereitet und Verhaltensregeln zum Beispiel zum Schutz verderblicher Ware vermittelt. Die örtliche Arbeitskampfleitung sei dafür verantwortlich, dass diese Regeln
+eingehalten und Störungen durch Dritte unterbunden würden.
+
+ 2. Der Deutsche Gewerkschaftsbund (DGB) hält die Verfassungsbeschwerde für             13
+unbegründet. Schutzbereich und Grenzen der Koalitionsfreiheit seien verfassungsrechtlich geklärt. Das Bundesarbeitsgericht habe dies nur dahingehend ausgestaltet,
+dass streikbegleitende, gewerkschaftlich getragene Flashmob-Aktionen einer bestimmten Art nicht von vornherein generell rechtswidrig seien. Es habe dem Arbeitskampfmittel der aktiven Betriebsstörung mit Hilfe des Verhältnismäßigkeitsgrundsatzes enge Grenzen gesetzt. Stelle sich im Nachhinein die Rechtswidrigkeit der Aktion
+heraus, laufe die Gewerkschaft Gefahr, auf Schadensersatz in Anspruch genommen
+zu werden. Die Zulassung des Flashmobs als Arbeitskampfmittel sei für die Funktionsfähigkeit der Tarifautonomie als notwendiges Korrelat zur Möglichkeit der Leiharbeit auf Arbeitgeberseite erforderlich. Dies beeinträchtige nicht die Parität der Arbeitskampfmittel. Es sei auch zweifelhaft, ob Flashmob-Aktionen eine größere
+praktische Bedeutung in Arbeitskämpfen erlangen könnten.
+
+ 3. Das Bundesministerium für Arbeit und Soziales (BMAS) hält die Verfassungsbeschwerde für begründet. Das Bundesarbeitsgericht habe bei der Abwägung der
+Grundrechtspositionen unzutreffend gewichtet. Es könne dahinstehen, ob nur die
+klassischen Instrumente von Streik und Aussperrung geschützt seien; jedenfalls seien Flashmob-Aktionen unzulässig, weil sie von der Gewerkschaft frei von eigenen Risiken eingesetzt werden könnten und der Gegenseite keine geeigneten Verteidigungsmöglichkeiten ließen, denn Betriebsschließung und Hausverbot seien nicht
+wirksam.
+
+  4. Der Handelsverband Deutschland (HDE) hält die Verfassungsbeschwerde für begründet. Gegen Flashmob-Aktionen gebe es keine wirksamen Verteidigungsmöglichkeiten; es komme auch zu Exzessen. Insbesondere ließen sich Hausverbote nicht effizient durchsetzen. Es handele sich unabhängig von der Dauer um unzulässige
+
+
+                                         5/12
+
+Betriebsblockaden, denn es könne keinen Unterschied machen, ob der Betrieb von
+außen blockiert werde oder ob eine Blockade der Kassen von innen erfolge. Auch
+müsse erhebliche Arbeitszeit aufgewendet werden, nach einem Flashmob sämtliche
+Artikel wieder einzuräumen.
+
+ 5. Die Bundesvereinigung der Deutschen Arbeitgeberverbände (BDA) meint, der             16
+Flashmob sei von der Kampfmittelfreiheit nicht mehr umfasst. Er sei kein friedliches
+Arbeitskampfmittel und zur Herstellung eines Kräftegleichgewichts weder erforderlich
+noch verhältnismäßig. Das Bundesarbeitsgericht berücksichtige nicht ausreichend,
+dass Flashmob-Aktionen - anders als Streiks - unmittelbar in Eigentum und Besitz
+der Gegenseite eingriffen. Art. 9 Abs. 3 GG gebe aber kein Recht, das Eigentum des
+Gegners zu okkupieren, um Verhandlungsdruck zu erzeugen.
+
+                                         B.
+ Gründe für die Annahme der Verfassungsbeschwerde im Sinne von § 93a Abs. 2              17
+BVerfGG liegen nicht vor.
+
+  Die Verfassungsbeschwerde hat keine grundsätzliche verfassungsrechtliche Bedeutung im Sinne des § 93a Abs. 2 Buchstabe a BVerfGG, denn die Maßstäbe zur
+Beurteilung von Arbeitskämpfen, die sich aus Art. 9 Abs. 3 GG ergeben, sind geklärt
+(vgl. BVerfGE 84, 212 <224 ff.>; 88, 103 <113 ff.>; 92, 365 <393 ff.>). Dies gilt auch
+für die Frage nach der Kompetenz des Bundesarbeitsgerichts zur Fortentwicklung
+des Arbeitskampfrechts (vgl. BVerfGE 84, 212 <226 f.>; 88, 103 <115 f.>).
+
+ Die Annahme der Verfassungsbeschwerde ist auch nicht nach § 93a Abs. 2 Buchstabe b BVerfGG zur Durchsetzung der in § 90 Abs. 1 BVerfGG genannten Rechte
+angezeigt, denn die Verfassungsbeschwerde ist ohne Aussicht auf Erfolg.
+
+                                          I.
+  Soweit der Beschwerdeführer eine Verletzung der aus Art. 12 beziehungsweise            20
+Art. 14 GG abgeleiteten Rechte seiner vom Flashmob betroffenen Mitgliedsunternehmen geltend macht, ist die Verfassungsbeschwerde unzulässig. Eine Verletzung wird
+hier ohnehin nur behauptet, ohne diese näher zu begründen. Der Beschwerdeführer
+ist nicht selbst betroffen.
+
+                                          II.
+ Soweit die Verfassungsbeschwerde zulässig ist, ist sie unbegründet.                     21
+
+ 1. Die angegriffenen Entscheidungen verletzen nicht die in Art. 9 Abs. 3 GG geschützte Koalitionsfreiheit des Beschwerdeführers.
+
+ a) Das Doppelgrundrecht des Art. 9 Abs. 3 GG schützt nicht nur Einzelne in ihrer        23
+Freiheit, eine Vereinigung zur Wahrung der Arbeits- und Wirtschaftsbedingungen zu
+gründen, ihr beizutreten oder fernzubleiben oder sie zu verlassen. Geschützt ist auch
+die Koalition selbst in ihrem Bestand, ihrer organisatorischen Ausgestaltung und in
+
+
+
+                                         6/12
+
+ihren Betätigungen, sofern diese der Förderung der Arbeits- und Wirtschaftsbedingungen dienen. Der Schutz ist nach mittlerweile ständiger Rechtsprechung nicht etwa von vornherein auf den Bereich des Unerlässlichen beschränkt, sondern erstreckt
+sich auf alle koalitionsspezifischen Verhaltensweisen (vgl. BVerfGE 93, 352 <358 f.>;
+zudem BVerfGE 94, 268 <283>; 100, 271 <282>; 103, 293 <304> m.w.N.). Er ist
+auch nicht auf die traditionell anerkannten Formen des Streiks und der Aussperrung beschränkt, denn es gibt keinen Anhaltspunkt dafür, dass allein diese Arbeitskampfmittel in ihrer historischen Ausprägung vom Verfassungsgeber als Ausdruck
+eines prästabilen Gleichgewichts angesehen worden wären (vgl. BVerfGE 84, 212
+<229 f.>). Die Wahl der Mittel, die die Koalitionen zur Erreichung der koalitionsspezifischen Zwecke für geeignet halten, überlässt Art. 9 Abs. 3 GG vielmehr grundsätzlich ihnen selbst. Dies folgt aus der Bedeutung des Art. 9 Abs. 3 GG als Freiheitsrecht der Koalitionen und aus der Staatsferne der Koalitionsfreiheit (vgl. BVerfGE 92,
+365 <393> m.w.N.).
+
+ Das Grundrecht der Koalitionsfreiheit bedarf allerdings der Ausgestaltung durch die       24
+Rechtsordnung, soweit es die Beziehungen zwischen Trägern widerstreitender Interessen zum Gegenstand hat (vgl. BVerfGE 84, 212 <228>; 88, 103 <115>; 92, 365
+<394>). Beide Tarifvertragsparteien genießen den Schutz des Art. 9 Abs. 3 GG in
+gleicher Weise, stehen bei seiner Ausübung aber in Gegnerschaft zueinander. Sie
+sind auch insoweit vor staatlicher Einflussnahme geschützt, als sie zum Austragen ihrer Interessengegensätze Kampfmittel mit beträchtlichen Auswirkungen auf den Gegner und die Allgemeinheit einsetzen (vgl. BVerfGE 88, 103 <115>; 92, 365 <394>).
+
+  Bei der Ausgestaltung des Arbeitskampfrechts besteht ein weiter Handlungsspielraum. Das Grundgesetz schreibt nicht vor, wie die gegensätzlichen Grundrechtspositionen im Einzelnen abzugrenzen sind; es verlangt keine Optimierung der Kampfbedingungen (vgl. BVerfGE 92, 365 <394 ff.>). Umstrittene Arbeitskampfmaßnahmen
+werden unter dem Gesichtspunkt der Proportionalität überprüft; durch den Einsatz
+von Arbeitskampfmaßnahmen soll kein einseitiges Übergewicht bei Tarifverhandlungen entstehen (vgl. BVerfGE 84, 212 <229>; 92, 365 <395>). Die Orientierung des
+Bundesarbeitsgerichts am Grundsatz der Verhältnismäßigkeit ist insofern nicht zu
+beanstanden (vgl. BVerfGE 84, 212 <229>; 92, 365 <395>; entsprechend BAG, Großer Senat, Beschluss vom 21. April 1971 - GS 1/68 -, juris, sowie EGMR, Enerji Yapi-Yol Sen v. Türkei, Urteil vom 21. April 2009, Nr. 68959/01, - NZA 2010, S. 1423,
+§§ 24, 32).
+
+  b) Ausgehend von diesen Maßstäben lässt sich eine Verletzung des Beschwerdeführers in seiner Koalitionsfreiheit aus Art. 9 Abs. 3 GG durch die angegriffenen Urteile nicht feststellen. Gewerkschaftlich getragene, auf Tarifverhandlungen bezogene
+sogenannte Flashmob-Aktionen der vorliegend zu beurteilenden Art fallen in den
+Schutzbereich der Koalitionsfreiheit aus Art. 9 Abs. 3 GG.
+
+ aa) Das Bundesarbeitsgericht geht zutreffend davon aus, dass die Beurteilung, ob          27
+eine Betätigung koalitionsspezifisch ist, grundsätzlich nicht nach der Art des von der
+
+
+
+                                          7/12
+
+Koalition gewählten Mittels, sondern nach dem von ihr damit verfolgten Ziel zu erfolgen hat. Es besteht kein Anlass, am koalitionsspezifischen Zweck des Aufrufs zu einem Flashmob der vorliegend zu beurteilenden Art zu zweifeln, der streikbegleitend
+während der laufenden Tarifauseinandersetzung erkennbar darauf ausgerichtet ist,
+rechtmäßige Arbeitskampfziele zu unterstützen.
+
+ Die Frage, ob strafbare Handlungen von vornherein aus dem Schutzbereich der Koalitionsfreiheit ausgeschlossen sind, muss vorliegend nicht beantwortet werden. Das
+Bundesarbeitsgericht, das allein darauf abstellt, dass Flashmob-Aktionen nicht generell unzulässig seien, geht in verfassungsrechtlich nicht zu beanstandender Weise
+davon aus, dass es hier um Aufrufe zu streikbegleitenden Flashmob-Aktionen geht,
+die jedenfalls nicht typischerweise mit Straftaten wie Hausfriedensbruch, Nötigung
+oder Sachbeschädigung einhergehen. Tatsächlich hatte die Gewerkschaft in ihrem
+Flugblatt, das für den Beschwerdeführer Anlass war, die Unterlassung vergleichbarer
+Aufrufe zu fordern, ausdrücklich darauf hingewiesen, dass keine Frischware in die
+Einkaufswagen gelegt werden solle, also Sachbeschädigungen vermieden werden
+sollten, und sie hat auch nicht zum Hausfriedensbruch aufgefordert. Das Bundesarbeitsgericht hat den Antrag so ausgelegt, dass ein Aufruf dazu, Wagen mit verderblicher Frischware zu beladen oder Waren einscannen zu lassen, sie aber sodann nicht
+zu bezahlen und den gefüllten Wagen an der Kasse stehen zu lassen, nicht Verfahrensgegenstand war, weshalb es über die Rechtmäßigkeit eines derartigen Aufrufs
+nicht entschieden hat. Es nimmt für seine Aussagen vielmehr eine Fallkonstellation
+zum Ausgangspunkt, in der - soweit ersichtlich - Straftaten nicht begangen wurden.
+
+ bb) Die vom Bundesarbeitsgericht herangezogenen Kriterien zur Beurteilung von          29
+Flashmob-Aktionen sind auch hinsichtlich der Grenzen der Koalitionsfreiheit verfassungsrechtlich nicht zu beanstanden.
+
+  (1) Das Bundesarbeitsgericht berücksichtigt insbesondere, dass sich durch die Teilnahme Dritter an Flashmob-Aktionen die Gefahr erhöhen kann, dass diese außer
+Kontrolle geraten, weil das Verhalten Dritter weniger beeinflussbar ist. Es setzt der
+- im Ausgangsfall auch tatsächlich eingeschränkten - Teilnahme Dritter daher auch
+rechtliche Grenzen. So muss der Flashmob als gewerkschaftlich getragene Arbeitskampfmaßnahme erkennbar sein, also deutlich werden, dass es sich nicht um eine
+„wilde“, nicht gewerkschaftlich getragene Aktion handelt, was auch für Schadensersatzforderungen der Arbeitgeber bei rechtswidrigen Aktionen von Bedeutung ist. In
+verfassungsrechtlich nicht zu beanstandender Weise berücksichtigt das Bundesarbeitsgericht auch, dass Flashmob-Aktionen - anders als Streiks - kein Element unmittelbarer Selbstschädigung der Teilnehmenden in Form des Verlustes des Arbeitsentgelts innewohnt, das einen (eigen-)verantwortlichen Umgang mit dem
+Arbeitskampfmittel fördern kann. Der Gehalt des Art. 9 Abs. 3 GG, der sowohl die
+Gewerkschaft als auch die Arbeitgeberseite schützt, wird jedoch nicht verkannt, wenn
+das Bundesarbeitsgericht darauf abstellt, dass der Arbeitgeberseite geeignete Verteidigungsmittel gegen die hier in Rede stehenden Aktionen zur Verfügung stünden. Es
+ist nicht Aufgabe des Bundesverfassungsgerichts, eine eigene Einschätzung zur
+
+
+                                         8/12
+
+praktischen Wirksamkeit von Reaktionsmöglichkeiten der Arbeitgeberseite an die
+Stelle derjenigen der Fachgerichte zu setzen, solange diese nicht einer deutlichen
+Fehleinschätzung folgen. Eine solche ist hier nicht erkennbar, denn das Bundesarbeitsgericht hat sich mit der Frage nach wirksamen Gegenmaßnahmen der Arbeitgeberseite gegen einen streikbegleitenden Flashmob intensiv auseinandergesetzt.
+Es berücksichtigt dabei insbesondere auch die Interessen der Arbeitgeberseite. Danach ist ein Hausverbot ein Mittel zur Abwehr der hier streitigen Arbeitskampfmaßnahmen, soweit Teilnehmende äußerlich als solche zu erkennen sind, zum Beispiel
+aufgrund von Kleidung oder Mitgliedszeichen der Gewerkschaft oder aufgrund eindeutigen Verhaltens; die Befürchtung, dass Teilnehmende der Aufforderung, die Einzelhandelsfiliale zu verlassen, verbreitet keine Folge leisten würden, wird durch die
+Strafandrohung des § 123 Abs. 1 2. Alt. StGB relativiert. Auch die Annahme, eine
+suspendierende Betriebsstilllegung sei in Fällen der vorübergehenden Störung des
+Betriebsablaufes durch einen Flashmob nicht wirkungslos, ist jedenfalls nicht offensichtlich unrichtig; mit ihr verlören auch die Arbeitswilligen ihren Lohnanspruch, was
+ein für die Gewerkschaft beachtlicher und die Kampfparität fördernder Effekt ist.
+Gegen diese fachgerichtliche Einschätzung, das Hausrecht und die vorübergehende Betriebsstilllegung seien als wirksame Verteidigungsmittel anzusehen, ist verfassungsrechtlich daher nichts zu erinnern.
+
+ (2) Das Bundesarbeitsgericht verkennt den Schutzgehalt des Art. 9 Abs. 3 GG auch        31
+nicht mit Blick auf die vorübergehende Erschwerung des Zugangs zu den Kassen
+durch beladene Einkaufswagen und durch den Einkauf von Cent-Artikeln, denn die
+an sich durchaus gewichtige Beeinträchtigung des Betriebs war nicht umfassend und
+von vergleichsweise kurzer Dauer. Es ist nicht ersichtlich, dass der Kassenbereich
+durch die hier konkret zu beurteilende Aktion nachhaltig blockiert gewesen wäre.
+
+  2. Art. 28 der Charta der Grundrechte der Europäischen Union (Grundrechtecharta        32
+- EuGRCh) zum Recht auf Kollektivverhandlungen und Kollektivmaßnahmen einschließlich des Streiks ist hier entgegen einer in den Stellungnahmen geäußerten
+Auffassung nicht anwendbar. Nach Art. 51 Abs. 1 EuGRCh bindet die Charta die Mitgliedstaaten ausschließlich bei der Durchführung des Rechts der Union. Die Charta
+findet keine Anwendung, wenn über einen Sachverhalt zu entscheiden ist, für den der
+Union die Regelungskompetenz fehlt. Das Primärrecht schließt eine Zuständigkeit
+der Union für das Koalitionsrecht, Streikrecht und Aussperrungsrecht in Art. 153 Abs.
+5 AEUV ausdrücklich aus.
+
+ 3. Die Rüge des Beschwerdeführers zu Art. 101 Abs. 1 Satz 2 GG hat keinen Erfolg.       33
+Der gesetzliche Richter ist nicht dadurch entzogen worden, dass der Erste Senat des
+Bundesarbeitsgerichts nicht an den Großen Senat vorgelegt hat.
+
+ a) Rechtsuchende können dem gesetzlichen Richter dadurch entzogen werden,               34
+dass das Gericht der Verpflichtung zur Vorlage an ein anderes Gericht nicht nachkommt (vgl. BVerfGE 13, 132 <143>; 101, 331 <359>). Auch die unterlassene Vorlage an den Großen Senat eines obersten Bundesgerichts kann Art. 101 Abs. 1 Satz 2
+
+
+
+                                         9/12
+
+GG verletzen (vgl. BVerfGE 19, 38 <43>; BVerfGK 2, 213 <220>). Ein Verstoß gegen
+Art. 101 Abs. 1 Satz 2 GG durch Nichtvorlage liegt allerdings nur vor, wenn die Auslegung und Anwendung einfachen Rechts nicht nur fehlerhaft, sondern willkürlich ist
+(grundlegend BVerfGE 3, 359 <364 f.>).
+
+ b) Davon ausgehend ist nicht ersichtlich, dass das Bundesarbeitsgericht die Vorlagepflicht aus § 45 ArbGG willkürlich verkannt hätte. Das gilt sowohl für die Anforderungen an eine Divergenzvorlage als auch für jene an eine Grundsatzvorlage.
+
+ aa) Der Große Senat des Bundesarbeitsgerichts hat keinen Rechtssatz zum Arbeitskampfrecht aufgestellt, von dem die angegriffene Entscheidung abwiche. Auch
+nach der Rechtsprechung des Großen Senats gibt es eine „Kampffreiheit“ bei der
+Wahl der Mittel des Arbeitskampfes und es gilt der Grundsatz der Waffengleichheit
+als Kampfparität (vgl. BAG, Beschluss vom 28. Januar 1955 - GS 1/54 -, juris,
+Rn. 65); maßgeblich ist der Verhältnismäßigkeitsgrundsatz (vgl. BAG, Beschluss
+vom 21. April 1971 - GS 1/68 -, juris, Rn. 62 ff.), der auch die vorliegende Entscheidung trägt.
+
+  bb) Das Bundesarbeitsgericht hat auch eine Grundsatzvorlage nicht willkürlich unterlassen. Es kann dahinstehen, ob § 45 Abs. 4 ArbGG verfassungskonform dahingehend auszulegen ist, dass bei grundsätzlicher Bedeutung zwingend vorzulegen ist
+oder ob ein Ermessen besteht. Jedenfalls ist dies im Rahmen des Art. 101 Abs. 1
+Satz 2 GG nur anhand des Willkürmaßstabs zu überprüfen. Für Willkür spricht aber
+vorliegend nichts. Das Bundesarbeitsgericht hat die Rechtsprechung zum Arbeitskampfrecht nicht in Frage gestellt, sondern für einen konkreten Sachverhalt weiterentwickelt.
+
+  4. Der Beschwerdeführer kann nicht mit Erfolg geltend machen, er sei in seinen         38
+Grundrechten aus Art. 9 Abs. 3 GG in Verbindung mit Art. 20 Abs. 2 Satz 2 und
+Abs. 3 GG verletzt, weil die angegriffenen Urteile die Grenzen richterlicher Rechtsfortbildung missachteten.
+
+  a) Die Gerichte sind nicht aus verfassungsrechtlichen Gründen gehindert, die Ausgestaltung der Koalitionsfreiheit vorzunehmen, weil dies allein Sache des Gesetzgebers wäre. Zwar ist es Aufgabe des Gesetzgebers, die Koalitionsfreiheit näher auszugestalten. Soweit es um das Verhältnis der Parteien des Arbeitskampfes als
+gleichgeordnete Grundrechtsträger geht, muss diese Ausformung nicht zwingend
+durch gesetzliche Regelungen erfolgen (vgl. BVerfGE 84, 212 <226 f.>; 88, 103
+<115 f.> m.w.N.). Die Gerichte sind aufgrund des aus dem Rechtsstaatsprinzip abgeleiteten Justizgewährleistungsanspruchs verpflichtet, wirkungsvollen Rechtsschutz
+zu bieten (vgl. BVerfGE 85, 337 <345>; 107, 395 <406 f.>). Sie müssen bei unzureichenden gesetzlichen Vorgaben mit den anerkannten Methoden der Rechtsfindung
+aus den bestehenden Rechtsgrundlagen ableiten, was im Einzelfall gilt (vgl. BVerfGE
+84, 212 <226 f.>). Entschieden die Gerichte für Arbeitssachen arbeitskampfrechtliche
+Streitigkeiten mit Hinweis auf fehlende gesetzliche Regelungen nicht, verhielten sie
+sich ihrerseits verfassungswidrig.
+
+
+                                         10/12
+
+ b) Die Rechtsprechung des Bundesarbeitsgerichts genügt auch den Anforderungen, die sich aus dem Rechtsstaatsprinzip für die Bestimmtheit des Rechts ergeben.
+Der Grundsatz der Bestimmtheit verlangt von der Gesetzgebung, Tatbestände so
+präzise zu formulieren, dass von einer Norm Adressierte ihr Handeln kalkulieren können, weil die Folgen der Regelung für sie voraussehbar und berechenbar sind (vgl.
+BVerfGE 78, 205 <212>; 84, 133 <149>). Rechtsnormen brauchen allerdings nur so
+bestimmt zu sein, wie dies nach der Eigenart der zu regelnden Sachverhalte mit
+Rücksicht auf den Normzweck möglich ist (vgl. BVerfGE 78, 205 <212>; 84, 133
+<149>), weshalb auch unbestimmte Rechtsbegriffe oder auslegungsfähige Generalklauseln zulässig sind (vgl. BVerfGE 31, 255 <264>; 110, 33 <56 f.>). Diese bedürfen
+dann der Konkretisierung durch die Gerichte. Den Gerichten sind hierbei durch das
+Rechtsstaatsprinzip, insbesondere durch die Grundsätze der Bestimmtheit und der
+Rechtssicherheit, Grenzen gesetzt. Angesichts seiner Weite ist bei der Ableitung
+konkreter Begrenzungen jedoch behutsam vorzugehen (vgl. BVerfGE 111, 54 <82>).
+
+  Danach unterliegt es von Verfassung wegen keinen Bedenken, dass das Bundesarbeitsgericht die Flashmob-Aktionen auf der Grundlage des geltenden Rechts nach
+Maßgabe näherer Ableitungen aus dem Verhältnismäßigkeitsgrundsatz nicht als generell unzulässig beurteilte. Der hierfür vom Bundesarbeitsgericht maßgeblich herangezogene Grundsatz der Verhältnismäßigkeit ist zwar inhaltlich unbestimmt, aber
+dogmatisch detailliert durchformt. Das Bundesarbeitsgericht präzisiert so die Anforderungen an einen Flashmob, nachdem die übrigen Voraussetzungen des Schutzes
+von Art. 9 Abs. 3 GG bejaht worden sind. Die Verhältnismäßigkeit strukturiert die gerichtliche Überprüfung der Grenzen, die einer grundrechtlich geschützten Freiheit gesetzt sind. Dies genügt den Anforderungen, die sich aus der Verfassung für die auf
+das Recht bezogene Handlungsorientierung der Arbeitskampfparteien stellen.
+
+                                         III.
+ Diese Entscheidung ist unanfechtbar.                                                   42
+
+               Kirchhof               Masing                  Baer
+
+
+
+
+                                        11/12
+
+Bundesverfassungsgericht, Beschluss der 3. Kammer des Ersten Senats vom
+26. März 2014 - 1 BvR 3185/09
+
+Zitiervorschlag BVerfG, Beschluss der 3. Kammer des Ersten Senats vom
+                26. März 2014 - 1 BvR 3185/09 - Rn. (1 - 42), http://www.bverfg.de/e/
+                rk20140326_1bvr318509.html
+
+ECLI             ECLI:DE:BVerfG:2014:rk20140326.1bvr318509
+
+
+
+
+                                       12/12
