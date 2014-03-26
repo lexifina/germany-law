@@ -1,0 +1,51 @@
+# Rat (49. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2014-03-26T18:00:00+01:00
+- Ende: 2014-03-26T22:12:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZYSByE-2ads_sco4YDN1Mk
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2778
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTuy-NjYK46JECbhXDvcoFw-mumxI9n1f_Due1TiTO8W/Bekanntmachung_Rat_26.03.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSlcW2JPexuKc-h7Q0upHJhAEDM88yCjhj6TKzIC17d_/Oeffentliche_Niederschrift_Rat_26.03.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 19.02.2014
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Kinderärztliche Versorgung im nördlichen Bereich des Kreises Borken - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Prüfungsauftrag an das RPA gem. § 103 Abs. 2 Ziff. 1 Gemeindeordnung NRW; Antrag der FDP-Fraktion vom 01.03.2014 - 4 Jastimmen, 33 Neinstimmen, 2 Enthaltungen
+- TOP 4.: Budgetbericht zum IV-Quartal 2013 - Ohne Abstimmung
+- TOP 5.: Umzug der Hermann-Gmeiner-Hauptschule aufgrund der Sanierungsmaßnahmen am Schulzentrum - Einstimmig, 0 Enthaltungen
+- TOP 6.: Bebauungsplan Nr. 227 "Industrie- und Gewerbepark Am Berge", Teilbereich II, 1. Änderung, Stadtteil Epe 1. Aufhebung des Aufstellungsbeschlusses vom 23.05.2012 2. Erneuter Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Beteiligung der Behörden gem. § 4 Abs. 2 BauGB - 36 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Aufhebung des Bebauungsplans Nr. 130 "Inselpark Gronau", Stadtteil Gronau (zugleich Aufhebung des des Bebauungsplans Nr. 25 "Nördliche Innenstadt", Teilbereich I, Stadtteil Gronau) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 8.: Planung einer zentral gelegenen Sportanlage zur gemeinsamen Nutzung der Fussballvereine - Einstimmig, 0 Enthaltungen
+- TOP 9.: Planung einer zentral gelegenen Sportanlage zur gemeinsamen Nutzung der Tennisvereine
+- TOP 10.: Organisation der Verwaltung - Ohne Abstimmung
+- TOP 11.: Stellenplan der Stadt Gronau für das Haushaltsjahr 2014 - 38 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Abschließende Beratung des Gesamtbudgets 2014 Verabschiedung der Haushaltssatzung
+- TOP 12.1: Abschließende Beratung des Gesamtbudgets 2014 Verabschiedung der Haushaltssatzung - 35 Jastimmen, 4 Neinstimmen, 1 Enthaltungen
+- TOP 13.: Kommunalverfassungsbeschwerden wegen der Gesetze zur Regelung der Zuweisungen des Landes Nordrhein-Westfalen an die Gemeinden und Gemeindeverbände in den Haushaltsjahren 2013 und 2014 (Gemeindefinanzierungsgesetze 2013 und 2014) - 38 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Stellungnahme der Stadt Gronau zum Entwurf des Landesentwicklungsplans Nordrhein-Westfalen (LEP NRW) - Einstimmig, 2 Enthaltungen
+- TOP 15.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 16.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 16.1: Mitteilung des Vorsitzenden des Aufsichtsrates der Stadtwerke Gronau GmbH
+- TOP 16.2: Mitteilung des Geschäftsführers der WTG mbH
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 18.: Anfragen
+- TOP 18.1: Öffentlichkeitsbeteiligung zum Entwurf der Flughafenverordnung für den Flughafen Twente (RM Buchholz)
+- TOP 18.2: Neuer Termin für die Gesellschafterversammlung der WTG mbH? (RM Gabbe)
+- TOP 18.3: Offene Ganztagsschule und Freizeitaktivitäten nicht in Einklang zu bringen? (RM Gabbe)
+- TOP 18.4: Abzug von Polizeibeamten aus Gronau? (2. Stellv. d. BM Lüttikhuis)
+- TOP 18.5: Grenzenlose Industriekultur (RM Dr. Breuer)
+- TOP 18.6: Zusätzliche Kennzeichnung der städtischen Wahltafeln möglich? (RM Buchholz)
+- TOP 18.7: Sachstand Tempobergrenzung Steinfurter und Alstätter Straße (RM Rörick)
+- TOP 18.8: Leckage an einer Kaverne im Amtsvenn (RM Alfers)
+- TOP 18.9: Informationen zur Wahlwerbung (RM Post)
+- TOP 18.10: Beteiligung des Landes an den Kosten der Inklusion (RM Pieper, RM Wagner)
+- TOP 18.11: Straßenführung der B 54n kausal für Unfallträchtigkeit? (RM Buchholz)
