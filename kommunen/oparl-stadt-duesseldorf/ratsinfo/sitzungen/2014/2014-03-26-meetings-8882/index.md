@@ -1,0 +1,59 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-26T17:35:00+01:00
+- Ende: 2014-03-26T19:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/11
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8882
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8882
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217553.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217553.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217553.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anfragen, Anträge - zur Kenntnis genommen
+- TOP 2.1: Antrag der Ratsfraktionen von CDU und FDP: "Rheinuferprominade - mehrheitlich beschlossen
+- TOP 2.1.1: Erg-Antr Bü90/Grüne zu 61/50/2014 - mehrheitlich abgelehnt
+- TOP 2.2: Anfrage DIE LINKE: "Private Gartennutzung an der Hügelstraße in Holthausen" - zur Kenntnis genommen
+- TOP 2.3: Anfrage DIE LINKE: "Baumfällungen auf dem Martin-Luther-Platz" - zur Kenntnis genommen
+- TOP 2.4: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zum Stadtentwicklungskonzept 2025+ „Mehr - verwiesen
+- TOP 2.5: Änderungsantrag der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN zum Stadtentwicklungskonzept 2025+ „Mehr - verwiesen
+- TOP 2.6: Anfrage der Ratsfraktion von BÜNDNIS 90/DIE GRÜNEN: Erweiterung der St. Apollinaris Dependance Himme - zur Kenntnis genommen
+- TOP 3: Mehrfachbeauftragung Franziskanerkloster Ausl (ö) - einstimmig beschlossen
+- TOP 3.1: Erg-Antrag Bü90/Grüne zu 61/44/2014 - mehrheitlich abgelehnt
+- TOP 4: B-Plan 09/004 - Westlich Kappeler Straße - Aufstellung - einstimmig beschlossen
+- TOP 5: Ulmer Höh ´ - zur Kenntnis genommen
+- TOP 5.1: FNP-Änderung Nr. 120 - Ulmer Höh' - Aufstellung, Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 5.2: Städtebaul. Entwurf Plan Nr. 01/004 - Ulmer Höh' - Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 6: BPl03/010(alt5275/028)Südl.Franziusstr.§13,Aufst.öff.Ausl. - einstimmig beschlossen
+- TOP 7: Südöstlich Böhlerstraße - zur Kenntnis genommen
+- TOP 7.1: Plan Nr. 5078/027 - Südöstlich Böhlerstraße - - einstimmig beschlossen
+- TOP 7.2: FNP-Änderung Nr. 162 Hansaallee/ Böhlerstraße Aufstellung, Öffentlichkeitsbeteiligung, Behördenbetei - einstimmig beschlossen
+- TOP 7.3: B-Plan 04/004 Hansaallee/Böhlerstraße zum Offenlagebeschluss - mehrheitlich beschlossen
+- TOP 8: BPl 02/004-Thyssen-Trade-Center-Aufst;ÖB; öff.Ausl. - einstimmig beschlossen
+- TOP 9: Nördlich Westfalenstraße - zur Kenntnis genommen
+- TOP 9.1: FNP-Änderung Nr. 51 - Nördlich Westfalenstraße - Öffentliche Auslegung gem. § 3.2 BauGB - einstimmig beschlossen
+- TOP 9.2: Plan Nr.5781/038 - Nördlich Westfalenstraße - Änderung des Aufstellungsbeschlusses - einstimmig beschlossen
+- TOP 9.3: Vorhabenbezogener B-Plan Entwurf Nördlich Westfalenstraße - mehrheitlich beschlossen
+- TOP 10: Graf-Recke-Stiftung - zur Kenntnis genommen
+- TOP 10.1: FNP-Änderung Nr. 156 - Graf-Recke-Stiftung - - einstimmig beschlossen
+- TOP 10.2: BPlan 05/001 - Graf-Recke-Stiftung - Stellungnahmen, Änderungen in roter Farbe, Satzung - einstimmig beschlossen
+- TOP 11: B-Plan 09/005 - Nördlich Henkelstraße - Änderung gem. § 13 BauGB, Stellungnahmen; Änderungen in rote - einstimmig beschlossen
+- TOP 12: B-Plan 04/008 Beim Dorf Änderung gem. § 13 BauGB, Stellungnahmen, Ergänzungen in roter Farbe, Satzun - einstimmig beschlossen
+- TOP 13: B-Pan-Entwurf 09/007 - westl. Kleinstr. Änderungen Satzung - einstimmig beschlossen
+- TOP 14: Oberbilker Alle / Ringelsweide - zur Kenntnis genommen
+- TOP 14.1: FNP-Änderung Nr. 172 - Oberbilker Allee / Ringelsweide - Aufstellung, Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 14.2: B-Plan Vorentwurf Nr. 03/001- Oberbilker Allee/Ringelsweide - Beschluss frühzeitige Öffentlichkeitsb - einstimmig beschlossen
+- TOP 14.3: Plan Nr. 03/009 - Oberbilker Allee/Ringelsweide - Veränderungssperre - einstimmig beschlossen
+- TOP 15: Plan-Nr.: 09/008 - Forststraße/ Hasselsstraße - Veränderungssperre - einstimmig beschlossen
+- TOP 16: Plan 5576/085-Innenstadt Vergn.stätten-1.Verl.VÄ - einstimmig beschlossen
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Stadtentwicklungskonzept Düsseldorf 2025+ - Mehr Leben. Mehr Stadt. Für alle. - verwiesen
+- TOP 20: Gutachterverfahren mit Öffentlickeitsb.- Nördlich Gerresheimer Landstraße - - zur Kenntnis genommen
+- TOP 21: Plan Nr. 5976/025 - Glasmacherviertel - Masterplan Anträge BV 7 und Stellungnahmen - zur Kenntnis genommen
