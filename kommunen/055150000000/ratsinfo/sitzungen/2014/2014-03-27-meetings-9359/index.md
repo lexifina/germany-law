@@ -1,0 +1,55 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-03-27T16:00:00+01:00
+- Ende: 2014-03-27T22:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9359
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9359
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00353945.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Städisches Stadion Hammer Straße - Neubau Sitzplatztribüne Westkurve, Ergebnis der Machbarkeitsstudie
+- TOP 4: Genehmigung der Tagesordnung
+- TOP 4.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 5: Mitteilungen der Verwaltung
+- TOP 6: Anträge und Eingaben
+- TOP 6.1: Bekanntgabe
+- TOP 6.2: Stellungnahmen
+- TOP 7: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 7.1: Projektliste: weitere Verfahrensschritte bis Herbst 2014
+- TOP 7.2: Vorstellung der Ergebnisse (1. Phase) des Wettbewerbs "Entwicklung der York-Kaserne"
+- TOP 7.3: Auslobung und Mittelbereitstellung zum städtebaulichen Gutachterverfahren Oxford-Kaserne - Konversion Oxford-Kaserne - - einstimmig beschlossen
+- TOP 7.4: Ankauf der Grundstücke im Bereich der Oxford-Kaserne, Roxeler Straße 340, in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 7.5: Sozialgerechte Bodennutzung in Münster - einstimmig beschlossen
+- TOP 7.6: Baulandprogramm 2014 - 2020 - einstimmig geändert beschlossen
+- TOP 7.7: Wohnraumförderung des Landes Nordrhein-Westfalen 2014 - 2017 - einstimmig beschlossen
+- TOP 7.8: Sozialmonitoring: Konkretisierung und weiteres Verfahren - einstimmig beschlossen
+- TOP 7.9: Leitsystem Skulpturensammlung - einstimmig beschlossen
+- TOP 8: Stadtplanung
+- TOP 8.1: Landschaftsplan Roxeler Riedel - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.2: Planungsprozess "Stadtraum Windthorststraße" - einstimmig geändert beschlossen
+- TOP 8.3: Bebauungsplan Nr. 558 - Stellungnahmen - Satzungsbeschluss - mehrheitlich geändert beschlossen
+- TOP 8.4: Bebauungsplan Nr. 310, 1. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.5: Bebauungsplan Nr. 552 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.6: Bebauungsplan Nr. 555 und Erhaltungs- und Gestaltungssatzung - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 8.7: Bebauungsplan Nr. 551 - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 8.8: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - ohne Beschlussfassung geschoben
+- TOP 8.9: Bebauungsplan Nr. 567 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 9: Verkehr
+- TOP 9.1: Luftreinhalteplan Münster 2014 - einstimmig beschlossen
+- TOP 9.2: Einbringung des Entwurfes "3. Nahverkehrsplan Stadt Münster" und weiteres Verfahren - einstimmig beschlossen
+- TOP 9.3: Programm "Verbesserungen an Haltestellen" für 2015/2016 - mehrheitlich geändert beschlossen
+- TOP 9.4: Reisebusparken am Schlossplatz in der Vorweihnachtszeit: Neuregelung ab 2014 - einstimmig beschlossen
+- TOP 9.5: Verkehrsabwicklung Hörster Straße / Promenade - einstimmig beschlossen
+- TOP 9.6: Verkehrskonzept für die Umgestaltung der Amelsbürener Straße zwischen der Meesenstiege und der Westfalenstraße - vertagt
+- TOP 9.7: Anregung gem. § 24 GO NRW Nr. 2013-00097 - mehrheitlich beschlossen
+- TOP 10: Bauvorhaben
+- TOP 11: Verschiedenes
+- TOP 11.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2014 - einstimmig beschlossen
