@@ -1,0 +1,54 @@
+# Gemeinderat (30. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-03-27T18:05:00+01:00
+- Ende: 2014-03-27T22:20:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdLJND2UtG9Xvsgs0HL_eCQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1360
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbVb38rclcf0QEu469cq2-RESpbGdC2UvdeWgznAB56U/Bekanntmachung_Gemeinderat_27.03.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZewGYgCihI0AyZC4NE74-TeI6dSKANtJp-6XR2yTOE0L/Oeffentliche_Niederschrift_Gemeinderat_27.03.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 06.02.2014 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Ergänzungssatzung gem. § 34 Abs. 4 Nr. 3 BauGB - Im Weidenpesch - a.) Abwägung gem. § 1 VII BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 II und 4 II BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Bebauungsplan 42 N - 2. Änderung - Am Aldenhovener Weg - a.) Abwägung gem. § 1 VII BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 II und 4 II BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Bebauungsplan 63 N - Am Aldenhovener Weg II - a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB b.) Beschluss über die frühzeitige Beteiligung gemäß §§ 3 Abs. 1 und 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Finanzen, Haushalt
+- TOP 4.1: Controlling Energiekosten/ -verbräuche; Mehraufwendungen zu den Ansätzen 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Feststellung des jahresergebnisses 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Kommunalverfassungsbeschwerde "Inklusionskosten" hier: Beteiligung - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Kosten des Sitzungdienstes in Papierform - Zur Kenntnis genommen
+- TOP 6.2: Ausführung des Haushalts
+- TOP 7.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 06.02.2014 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Erwerb eines Fahrzeuges für den Baubetriebshof - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Beteiligung der EWV an der RurEnergie GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Beteiligung der EWV GmbH an der GREEN Bioenergie Cereshof GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Berichte aus den Gremien
+- TOP 4.: Vermietungen, Verpachtungen
+- TOP 4.1: Abschluss eines Mietvertrages mit der profinos gGmbH - Einstimmig, 2 Enthaltung(en)
+- TOP 4.2: Übersicht Pachteinnahmen sowie interkommunaler Vergleich von Pachtzinsen - Vertagt
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Verkauf einer Teilfläche des Grundstückes Gemarkung Niedermerz, Flur 13, Flurstück 68 - Vertagt
+- TOP 5.2: Vermarktung / Freilegung der Grundstücke "Am Wittstock / Heinrich-Franken-Straße" - ehemaliger Kindergarten und Gebäude „Am Wittstock 14“ - Vertagt
+- TOP 5.3: Verkauf des Grundstückes Gemarkung Aldenhoven, Flur 22, Flurstück 61 - Vertagt
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: 1. Änderung des Stellenplanes 2014 - Einstimmig, 2 Enthaltung(en)
+- TOP 7.: Umwandlung des Tennenplatzes in Freialdenhoven in einen Kunstrasenplatz - Vertagt
+- TOP 8.: Entschädigung für die Errichtung von Windenergieanlagen im Gemeindegebiet - Vertagt
+- TOP 9.: Mitteilung des Bürgermeisters gemäß § 17 Korruptionsbekämpfungsgesetz - Vertagt
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Interkommunale Zusammenarbeit
+- TOP 11.: Verschiedenes
