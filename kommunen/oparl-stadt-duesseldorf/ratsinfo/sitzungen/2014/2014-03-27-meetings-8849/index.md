@@ -1,0 +1,51 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-27T15:00:00+01:00
+- Ende: 2014-03-27T16:30:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8849
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8849
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214368.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214368.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214368.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Anfrage der Ratsfraktion Bü 90/Die Grünen: Provenienzforschung in Düsseldorfer Museen - beantwortet
+- TOP 5: Anfrage der SPD-Fraktion: Prüfung von Arbeits- und Aufführungsmöglichkeiten der freien Tanz- und The - beantwortet
+- TOP 6: Anfrage der SPD-Fraktion: Raumnutzungskonzept im Museum Kunstpalast - beantwortet
+- TOP 7: Anfrage der Ratsfrau Cornelia Mohrs: Zukunft des Theaters "Flin" - beantwortet
+- TOP 8: Möglichkeiten der Zusammenarbeit zwischen städtischen Institutionen (z.B. Schulen), Freien Tanz- und - beantwortet
+- TOP 9: Prüfantrag der Ratsfraktionen von CDU und FDP zum Thema Verlagerung der Zentralbibliothek der Düss - einstimmig beschlossen
+- TOP 10: Einführung einer neuen Bibliothekssoftware bei den Stadtbüchereien Düsseldorf sowie beim Gesamtkata - einstimmig beschlossen
+- TOP 11: Ausführungs- und Finanzierungsbeschluss Neukonzeption SchifffahrtMuseum - einstimmig beschlossen
+- TOP 12: Programm Jugend, Kultur und Schule - einstimmig beschlossen
+- TOP 13: Zuschuss für ein Projekt der Kinder- und Jugendkulturarbeit - einstimmig beschlossen
+- TOP 14: Beirat Tanz und Theater (Sitzung am 12.03.2014) - einstimmig beschlossen
+- TOP 15: Beirat Literatur (Sitzung am 19.02.2014) - einstimmig beschlossen
+- TOP 16: Beirat Musik (Sitzung am 25.02.2014) - einstimmig beschlossen
+- TOP 17: Beirat bildende Kunst (Sitzung am 18.03.2014) - einstimmig beschlossen
+- TOP 18: Kooperationsprojekt 2014 "west-off" - Theaternetzwerk Rheinland - einstimmig beschlossen
+- TOP 19: Filmfest und SommerKult Festival an der Heinrich-Heine-Universität - einstimmig beschlossen
+- TOP 20: Soundtrips NRW - einstimmig beschlossen
+- TOP 21: Ausstellungsprogramm 2. Halbjahr 2014, Heinrich-Heine-Institut - einstimmig beschlossen
+- TOP 22: Ausstellungsprogramm 2. Halbjahr 2014, Theatermuseum - einstimmig beschlossen
+- TOP 23: Ausstellungsprogramm 2. Halbjahr 2014, Stadtmuseum - einstimmig beschlossen
+- TOP 24: Ausstellungsprogramm 2. Halbjahr 2014, Goethe-Museum - einstimmig beschlossen
+- TOP 25: Ausstellungsprogramm 2. Halbjahr 2014, Filmmuseum - einstimmig beschlossen
+- TOP 26: Ausstellungsprogramm 2. Halbjahr 2014, Hetjens-Museum - einstimmig beschlossen
+- TOP 27: Veranstaltungsprogramm 2. Halbjahr 2014, Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 28: Ausstellungsprogramm 2. Halbjahr 2014, Kunstraum - einstimmig beschlossen
+- TOP 29: Heine-Stipendium - einstimmig beschlossen
+- TOP 30: Info Ehrenamt AGS Kultur Freiwillige Anerkennung Vergünstigung Eintritt landesweit Bonus - zur Kenntnis genommen
+- TOP 31: Zuschuss Polnisches Institut - einstimmig beschlossen
+- TOP 32: Gedenkstätte in Trostinez bei Minsk (Weißrussland) - einstimmig beschlossen
+- TOP 33: Förderkreis Industriepfad Düsseldorf-Gerresheim e.V. - einstimmig beschlossen
+- TOP 34: Theatermuseum - Schenkung Nachlass Prof. Dr. Volker Canaris - einstimmig beschlossen
