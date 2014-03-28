@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-28T16:00:00+01:00
+- Ende: 2014-03-28T18:05:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9141
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9141
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214209.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214209.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214209.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Plan-Nr.: 09/008 - Forststraße/ Hasselsstraße - Veränderungssperre - einstimmig beschlossen
+- TOP 8: B-Pan-Entwurf 09/007 - westl. Kleinstr. Änderungen Satzung - einstimmig beschlossen
+- TOP 9: Informationsvorlage: Maßnahmen im Gebiet des Städtebauförderprogramms Soziale Stadt Wersten/Holthaus - zur Kenntnis genommen
+- TOP 10: Immigrather Straße 45, Stadtteiltreff Wersten – Neubau - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 12: Halbhüftiges Parken Pannebäcker Straße - mehrheitlich beschlossen
+- TOP 13: Eingeschränktes Haltverbot Kita Kohlhagenstraße - einstimmig beschlossen
+- TOP 14: Haltverbot Cäcilienstraße 2-4 - einstimmig beschlossen
+- TOP 15: 1.000 Bänke für Düsseldorf - zur Kenntnis genommen
+- TOP 16: Zulassung eines Vertreters des Jugendrates - einstimmig beschlossen
+- TOP 17: Anfrage: Blindgänger auf dem RWE/Shell Gelände Reisholzer Hafen - beantwortet
+- TOP 18: Anfrage: Dreifachturnhalle Gymnasium Koblenzer Straße - beantwortet
+- TOP 19: Anfrage: Radverkehrsnetz Bezirk 9
+- TOP 20: Anfrage: Naturraum für Kinder
+- TOP 21: Anfrage: Radweg Itterstr., Südseite - beantwortet
+- TOP 22: Antrag: ÖPNV-Anbindung des Stadtbezirkes 10 an die Universität - einstimmig beschlossen
+- TOP 23: Antrag: Parkplatzsituation am Benrather Krankenhaus - zur Kenntnis genommen
+- TOP 24: Antrag: Sanierung des Straßenbelags der Kampstraße - einstimmig beschlossen
+- TOP 25: Antrag: Fahrradstellplätze im Bereich Werstener Kreuz - einstimmig beschlossen
+- TOP 26: Antrag: Straßenbeleuchtung und Sanierung Fußgängerweges "Am Spaltwerk" - einstimmig beschlossen
+- TOP 27: Antrag: nördlich Paulsmühlenstraße - westlich Telleringstraße - einstimmig beschlossen
+- TOP 28: Antrag: ÖPNV-Anbindung "Hassels Fit" - einstimmig beschlossen
+- TOP 29: Antrag: Rampen am Bahnhof Benrath etc. - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Hegering Benrath - mehrheitlich beschlossen
+- TOP 31: Antrag: Verfügungsmittel Benrather Kulturkreis - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Mosaikschule Düsseldorf e.V. - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel KSP Silcher-/Flotowstraße - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Kleingärtner-Verein der Kriegsbeschädigten e.V. - einstimmig beschlossen
+- TOP 35: Benrather Jahrmärkte im Jahre 2014 - einstimmig beschlossen
