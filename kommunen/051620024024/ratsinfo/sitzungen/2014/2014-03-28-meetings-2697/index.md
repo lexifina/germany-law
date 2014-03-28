@@ -1,0 +1,61 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2014-03-28T16:00:00+01:00
+- Ende: 2014-03-28T20:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2697
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2697
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: BPL 456 - Rheintorstraße/Düsseldorfer Straße: Umbau Knotenpunkte - einstimmig zugestimmt
+- TOP 7: BPL 443 - Allerheiligen, Am Henselsgraben: Teilendausbau Lichtweg, Mühlenweg u. An der Feldscheune - einstimmig zugestimmt
+- TOP 8: FNP 127 - Auslegung - einstimmig zugestimmt
+- TOP 9: VEP V 482 - Auslegungsbeschluss - einstimmig zugestimmt
+- TOP 10: Ausbau Haltestelle Macherscheider Straße - einstimmig zugestimmt
+- TOP 11: V 481, Sudermannstraße - Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 12: Vorhabenbezogener Bebauungsplan Nr. V 2/5 No - Norf, Lessingplatz (Lebensmittelmarkt) - Satzung - mehrheitlich zugestimmt
+- TOP 13: Verkaufsoffene Sonntage 2014 bis 2016 - mehrheitlich zugestimmt
+- TOP 14: Wahlverfahrensordnung - einstimmig zugestimmt
+- TOP 15: Kinderspielplatzprogramm incl. Ausbauplanung 2014 - einstimmig zugestimmt
+- TOP 16: Ausbau- und Bedarfsplanung Kindertagesbetreuung 2014 ff. - einstimmig zugestimmt
+- TOP 17: Ausbau Insel- und Uferpark Hafenbecken 1, Ostufer - einstimmig zugestimmt
+- TOP 18: Ausbau Nordpark 1. BA - einstimmig zugestimmt
+- TOP 19: Zweckgebundener Zuschuss für die Neusser-Eine-Welt-Initiative e. V. (NEWI) für die Eine-Welt-Arbeit - einstimmig zugestimmt
+- TOP 20: Zweckgebundener Zuschuss für die neuss-agenda21 e. V. für die Agendaarbeit in Neuss für das Jahr 201 - einstimmig zugestimmt
+- TOP 21: Zweckgebundener Zuschuss für die Katzennothilfe Kitty e. V. für die Umsetzung der Kastrations- und K - mehrheitlich zugestimmt
+- TOP 22: Projekt und Förderantrag Stadt-Boden-Klima - Aktivierung der Bodenkühlleistung für stadtklimatische - einstimmig zugestimmt
+- TOP 23: Integriertes Klimaschutzkonzept der Stadt Neuss - Inanspruchnahme von Fördermitteln und städtisches - einstimmig zugestimmt
+- TOP 24: Sanierungsgebiet Östlicher Innenstadtrand - Stadtmauerweg - einstimmig zugestimmt
+- TOP 25: Ausbau Einmündung Meertal - einstimmig zugestimmt
+- TOP 26: Gestaltungssatzung Carossastraße - einstimmig zugestimmt
+- TOP 27: Verwaltung in der Gesamtschule Nor 14/15, Planvorlage u. Kostenschätzung - abgesetzt
+- TOP 28: Dritte Eingangsklasse Realschule Holzheim 14/15 Planvorlage u. Kostenschätzung - abgesetzt
+- TOP 29: Leichtathletikzentrum Wolkeranlage - einstimmig zugestimmt
+- TOP 30: Antrag des SV Uedesheim auf den Umbau des Tennenfeldes der Bezirkssportanlage Uedesheim zu einem Kun - einstimmig zugestimmt
+- TOP 31: Genehmigung der Dringlichkeitsentscheidung Nr. 116 Bebauungsplan Nr. 120/20 – Weckhoven, Am Lindenpl - einstimmig zugestimmt
+- TOP 32: Einspruch der SPD gem. § 24 Abs. 8 der Geschäftsordnung - zur Kenntnis genommen
+- TOP 33: Dienstreisegenehmigung Seniorenbeauftragte - einstimmig zugestimmt
+- TOP 34: Antrag der Fraktion Bündnis 90/DIE GRÜNEN betr.: „Mobiles multifunktionales Bauen von städt. Gebäude - einstimmig zugestimmt
+- TOP 35: Antrag der Fraktion Bündnis 90/DIE GRÜNEN betr.:Maßnahmen zum Erhalt des Berufsbildungswerks - einstimmig zugestimmt
+- TOP 36: Antrag der CDU und FDP Fraktionen betr.: Feuerwache im Neusser Süden - einstimmig zugestimmt
+- TOP 37: Antrag der CDU und FDP Fraktionen betr.: Sprachförderung in Kindertagesstätten prüfen - verwiesen
+- TOP 38: Antrag der Fraktionen CDU und FDP betr.: Erstellung eines Gebäudekatasters der öffentlichen Gebäude - einstimmig zugestimmt
+- TOP 39: Antrag der FDP-Fraktion betr.: Zunehmende Christenverfolgung in vielen Ländern - abgesetzt
+- TOP 40: Antrag der SPD-Fraktion betr. Umbenennung Hindenburgplatz - mehrheitlich abgelehnt
+- TOP 41: Antrag der SPD-Fraktion betr.: Bericht zur Verbraucherpolitik in Neuss - einstimmig zugestimmt
+- TOP 42: Antrag der SPD-Fraktion betr.: Resolution zur Eingliederungshilfe - zur Kenntnis genommen
+- TOP 43: Antrag der SPD-Fraktion betr.: Berichterstattung zum aktuellen Sachstand Parkraumbewirtschaftung - zur Kenntnis genommen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Wahl des Integrationsrates am 25.05.2014 - zur Kenntnis genommen
+- TOP 46: Ab in die Mitte! Die City-Offensive NRW' 2014 - zur Kenntnis genommen
+- TOP 47: Einwohnerfragestunde - zur Kenntnis genommen
