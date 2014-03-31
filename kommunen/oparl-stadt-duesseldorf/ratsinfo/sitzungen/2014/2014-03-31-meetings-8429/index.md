@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-03-31T15:00:00+02:00
+- Ende: 2014-03-31T15:45:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8429
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8429
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214632.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214632.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00214632.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfrage SPD: : Stadtentwicklungskonzept und Finanzplanung - beantwortet
+- TOP 4: Jahresabschluss 2012 - Beschluss über das Jahresergebnis - passieren lassen
+- TOP 5: Übertragene Ermächtigungen von 2013 nach 2014 - einstimmig beschlossen
+- TOP 6: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2013 und 2014 - einstimmig beschlossen
+- TOP 7: Folgekosten des 2. Halbjahres 2013 aufgrund von Ausführungs-und Finanzierungsbeschlüssen - einstimmig beschlossen
+- TOP 8: Zweckverband Verkehrsverbund Rhein Ruhr-Finanzierungsübertragung für die Abwicklung der ÖPNV-Pauscha - einstimmig beschlossen
+- TOP 9: Umsetzung des neuen Sicherheits- und Brandschutzkonzeptes im Rheinalleetunnel – langfr. Maßnahmen - einstimmig beschlossen
+- TOP 10: Sportanlage Nagelsweg Kunstrasen AFB - einstimmig beschlossen
+- TOP 11: Kaiserswerther Straße 390, Verwaltungsgebäude des Garten-, Friedhofs- und Forstamtes, Sanierung - Be - einstimmig beschlossen
+- TOP 12: Karlstraße / Worringer Straße - Radweg - einstimmig beschlossen
+- TOP 13: Immigrather Straße 45, Stadtteiltreff Wersten – Neubau - einstimmig beschlossen
+- TOP 14: KöBogen 2.BA - passieren lassen
+- TOP 15: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung 2012 - einstimmig beschlossen
+- TOP 16: örV zur 115 mit Kaarst - einstimmig beschlossen
+- TOP 17: Annahme einer Schenkung des Fördervereins Kaiserpfalz Kaiserswerth e.V. und Aufstellung der Skulptur - einstimmig beschlossen
+- TOP 18: Bibliothekarischer Beirat der ekz.bibliotheksservice GmbH - Neuwahl - - einstimmig beschlossen
+- TOP 19: Wiederbestellung des Vorsitzenden des Gutachterausschusses für Grundstückswerte in der Landeshauptst - einstimmig beschlossen
+- TOP 20: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 21: Neuwahl einer Schiedsmannes - einstimmig beschlossen
+- TOP 22: Wiederwahl der Schiedsfrau Carola Krüger - einstimmig beschlossen
+- TOP 23: Wiederwahl des Schiedsmannes Bartholomä Kohler - einstimmig beschlossen
+- TOP 24: Wiederwahl des Schiedsmannes Dietmar Schwabe-Werner - einstimmig beschlossen
+- TOP 25: Planungsmaßnahmen
+- TOP 26: Vorhabenbezogener B-Plan Entwurf Nördlich Westfalenstraße - einstimmig beschlossen
+- TOP 27: FNP-Änderung Nr. 156 - Graf-Recke-Stiftung - - einstimmig beschlossen
+- TOP 28: BPlan 05/001 - Graf-Recke-Stiftung - Stellungnahmen, Änderungen in roter Farbe, Satzung - einstimmig beschlossen
+- TOP 29: B-Plan 09/005 - Nördlich Henkelstraße - Änderung gem. § 13 BauGB, Stellungnahmen; Änderungen in rote - einstimmig beschlossen
+- TOP 30: B-Plan 04/008 Beim Dorf Änderung gem. § 13 BauGB, Stellungnahmen, Ergänzungen in roter Farbe, Satzun - einstimmig beschlossen
+- TOP 31: B-Pan-Entwurf 09/007 - westl. Kleinstr. Änderungen Satzung - einstimmig beschlossen
+- TOP 32: Plan Nr. 03/009 - Oberbilker Allee/Ringelsweide - Veränderungssperre - einstimmig beschlossen
+- TOP 33: Plan-Nr.: 09/008 - Forststraße/ Hasselsstraße - Veränderungssperre - einstimmig beschlossen
+- TOP 34: Pl 5576/085-Innenstadt Vergn.stätten-1.Verl.VÄ - einstimmig beschlossen
+- TOP 35: Brehmstraße 27a, Eisstadion – Erneuerung der Kälteanlage und Sanierung des Maschinenraumes - Bedarfs - einstimmig beschlossen
+- TOP 36: Theatermuseum - Schenkung Nachlass Prof. Dr. Volker Canaris - einstimmig beschlossen
+- TOP 37: ÖGDG NRW Rat Satzung Entscheidung Einnahmen Gebühren Entgelte Gesundheit - einstimmig beschlossen
