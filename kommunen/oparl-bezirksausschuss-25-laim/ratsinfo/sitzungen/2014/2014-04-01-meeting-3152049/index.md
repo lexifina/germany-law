@@ -1,0 +1,70 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-04-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152049
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152049
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Antrag auf Parkzeitverlängerung in der Fürstenrieder Straße
+- TOP 1.2.2.: Baustellenbedingte Behinderungen minimieren; Agnes-Bernauer-Str. 25 / 27
+- TOP 1.2.3.: Urbanes Strickprojekt (Vertagung aus der BA-Sitzung am 11.03.14)
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Aufhebung des zeitweisen Haltverbot Ecke Joergstraße / Inderstorferstraße
+- TOP 2.2.: CSU: Verwendung des städt. Grundstücks Agnes-Bernauer-Straße, Flurstück 47, Gemarkung Laim, für die Schule an der Fürstenrieder Str. 30
+- TOP 2.3.: CSU: Verlegung des Laimer Bauernmarktes vom jetzigen Standort auf den Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 1: Beschlussvorlage Baureferat: Nutzung des städtischen Grundstücks Mathunistraße 40/42 für soziale und kulturelle Zwecke (Empfehlung Nr. 08-14 / E 02121 der Bürgerversammlung vom 26.11.13) - <div>nach Antrag</div>
+- TOP 2: Beschlussvorlage Baureferat: Umfassende Neugestaltung des Willibaldplatzes (Empfehlung Nr. 08-14 / E 01151 der Bürgerversammlung vom 15.11.11) - <div>nach Antrag</div>
+- TOP 2.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 für Veranstaltung "Wer oder was ist ein Kalkutaner" am 21.11.14; Antragsteller: Bohemia After Dark e.V. - <div>nach Antrag</div>
+- TOP 2.4.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (mobiler Fahrradständer); Fachnerstr. 41
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Elsenheimerstr. 14: Antrag auf Fällung von 1 Esche
+- TOP 4.2.: Diesterwegstr. 13: Antrag auf Fällung von 1 Kiefer
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 28.02.14: Spielaktionen der Spiellandschaft Stadt e.V. 2014; u.a. 05.06.-06.06.14 auf dem Agricolaplatz, 02.07.-04.07.14 Von-der-Pfordten-Straße / Valpichlerstraße, 18.08.-19.08.14 Burgerplatz und 04.09.-05.09.14 Laimer Platz
+- TOP 4.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.03.14: Agnes-Bernauer-Str. 1-9; Änderung der Denkmalliste, hier: Nachtrag von zwei Laimer Wohnblöcken in die Bayer. Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Agnes-Bernauer-Str. 1-9 (unger.), Lautensackstr. 6-16 (ger.), Ludwig-Richter-Str. 20 / 22 / 24, Schedelstr. 1-12, 14
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 18.03.14: Kirmes mit Kinderspielen am 13.04. / 14.04.14 auf dem Laimer Anger
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Weichselbaumerstr. 5: Neubau eines Einfamilienhauses mit Garage; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 11.03.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schrieben Direktorium vom März 2014: Jahresbericht 2013 mit Jahresvorschau 2014
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 06.02.14: Friedrich-von-Paulis-Str. 11; Feuerwehranfahrtszone
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 05.03.14: Gaststätte "Cleopatra", Landsberger Str. 317; unveränderte Fortführung
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 05.03.14: Ausweisung eines allgemeinen Behindertenparkplatzes in der Reutterstraße (Schreiben BA vom 10.02.14)
+- TOP 8.5.: Schreiben Baureferat vom 20.02.14: Verschmutzung des Geh- und Radweges an der Baustelle Agnes-Bernauer-Str. 127 (Schreiben BA vom 10.02.14)
+- TOP 8.6.: Schreiben Referat für Bildung und Sport vom 25.02.14: Betreuungsangebot der naturindianer-kids gUG
+- TOP 8.7.: Schreiben Referat für Bildung und Sport vom 10.03.14: Broschüre "Sporthighlights 2014 - Veranstaltungen in München"
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 12.03.14: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 28.02.14: Europe Direct Informationen 01/2014
+- TOP 8.10.: Bautenliste vom 17.02.-23.02.14 1.) Erstantragsverfahren a) Camerloherstr. 78 b) Droste-Hülshoff-Str. 9 c) Lanzstr. 18 b
+- TOP 8.11.: Bautenliste vom 03.03.-09.03.14 1. Erstantragsverfahren a) Weichselbaumerstr. 5 b) Hörkherstr. 14 c) Weichselbaumerstr. 7
+- TOP 8.12.: Bautenliste vom 10.03.-16.03.14 1. Änderungsverfahren a) Landsberger Straße
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 24.02.14: Baumaßnahmen der Stadtwerke; Stichtag: 24.02.14
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 03.03.14: Baumaßnahmen der Stadtwerke München; Stichtag: 03.03.14
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 10.03.14: Baumaßnahmen der Stadtwerke München; Stichtag: 10.03.14
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 17.03.14: Baumaßnahmen der Stadtwerke GmbH; Stichtag: 17.03.14
+- TOP 8.17.: Beschluss der Vollversammlung vom 19.02.14: Änderung der Satzung für die Bezirksausschüsse der LH München; 1. Vorberatungen in der BA-Satzungskommission vom 28.11.13 "Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung", 2. Umsetzung der Empfehlungen in eine Änderungssatzung (Sitzungsvorlage Nr. 08-14 / V 1340)
+- TOP 8.18.: Beschluss der Vollversammlung vom 19.02.14: Handlungsprogramm Mittlerer Ring, Sachstand und weiterer Handlungsbedarf (Sitzungsvorlage Nr. 08-14 / V 10707)
+- TOP 8.19.: Beschluss der Vollversammlung vom 19.02.14: Urbanes Gärtnern in München, Analyse und Grundsatzbeschluss (Sitzungsvorlage Nr. 08-14 / V 13752)
+- TOP 8.20.: Beschluss der Vollversammlung vom 19.02.14: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) (Sitzungsvorlage Nr. 08-14 / V 13716)
+- TOP 8.21.: Beschluss des Bauausschusses vom 11.03.14: Kleingartenverband München e.V. unterstützen; Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen (Sitzungsvorlage Nr. 08-14 / V 13834)
+- TOP 8.22.: Beschluss des Bauausschusses vom 11.03.14: Aktion Saubere Stadt - Weiterentwicklung (Sitzungsvorlage Nr. 08-14 / V 14090)
+- TOP 8.23.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.14: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 08-14 / V 14082)
+- TOP 8.24.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.14: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 08-14 / V 14048)
+- TOP 8.25.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.14: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 08-14 / V 14007)
+- TOP 8.26.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 25.03.14: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 14036)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.14: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum (Sitzungsvorlage Nr. 08-14 / V 14244)
+- TOP 8.28.: Schreiben Mieterverein München e.V. vom 12.03.14: Mieternotfalltelefon mit der Stadt München
+- TOP 8.29.: Schreiben GEWOFAG vom 10.03.14: Bauvorhaben Saherrstraße; Stellplätze
+- TOP 8.30.: Münchner Statistik, 4. Quartalsheft, Jahrgang 2013
+- TOP 1.2: Bürgerpost an den BA
