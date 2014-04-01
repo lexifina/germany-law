@@ -1,0 +1,60 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-04-01T17:03:00+02:00
+- Ende: 2014-04-01T19:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9356
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9356
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00355438.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Feststellung des Jahresabschlusses 2012 der Stadt Münster - einstimmig beschlossen
+- TOP 3.2: Schulden- und Liquiditätsbericht 2013 - zur Kenntnis genommen
+- TOP 3.3: Schuldscheine und Anleihen als kommunales Finanzierungsinstrument
+- TOP 3.4: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2013 - zur Kenntnis genommen
+- TOP 3.5: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011 und 2012 - einstimmig beschlossen
+- TOP 3.6: Primus-Schule - einstimmig beschlossen
+- TOP 3.7: Festival FLURSTÜCKE 2015 - einstimmig beschlossen
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Feststellung des Jahresabschlusses und des Lageberichts des Theaters Münster für das Wirtschaftsjahr 2012/2013 - einstimmig beschlossen
+- TOP 4.2: Wirtschaftsplan 2014/2015 des Theaters Münster - einstimmig beschlossen
+- TOP 4.3: Wirtschaftsplan 2014 für Münster Marketing - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2013 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - mehrheitlich beschlossen
+- TOP 4.5: 1. Gewinn- und Verlustübernahmevertrag zwischen der Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 4.6: Gewinn- und Verlustübernahmevertrag zwischen der Westfälische Landes-Eisenbahn GmbH - einstimmig beschlossen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G - einstimmig beschlossen
+- TOP 5.2: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2014 - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an Frauen und Beruf, Frauenforum e.V. zur Zwischenfinanzierung - einstimmig beschlossen
+- TOP 6.2: Reisebusparken am Schlossplatz in der Vorweihnachtszeit: Neuregelung ab 2014 - einstimmig beschlossen
+- TOP 6.3: Stadtfeste ab 2015 - ohne Beschlussfassung geschoben
+- TOP 6.4: Flexible Kindertagesbetreuung in Münster - einstimmig beschlossen
+- TOP 6.5: Interim-Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne, Gievenbeck - einstimmig geändert beschlossen
+- TOP 6.6: Trägerausschreibung für die zweigruppige Dependance einer Kindertageseinrichtung in Coerde am Kiesekampweg - einstimmig beschlossen
+- TOP 6.7: Ausweitung der Förderangebote für Grundschulkinder im Offenen Ganztag- Förderinseln - einstimmig beschlossen
+- TOP 6.8: Einrichtung neuer Gruppen an Offenen Ganztagsschulen zum Schuljahr 2014/15 - einstimmig beschlossen
+- TOP 6.9: Zuschuss für Instandsetzungs- und -haltungskosten für das Sportbad der DJK Coburg - einstimmig beschlossen
+- TOP 6.10: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen, hier: Zeitlich befristete Maßnahmen zum Bau von Flüchtlingseinrichtungen in Containerbauweise und zur Einrichtung einer städtischen Erstaufnahmeeinrichtung - einstimmig beschlossen
+- TOP 6.11: Organisation der arbeitsmarktbezogenen Maßnahmen bei der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 6.12: Fortsetzung des Hochzeitswaldes Münster sowie Schaffung einer Stätte der Erinnerung - Ein Erinnerungswald in Münster - einstimmig beschlossen
+- TOP 6.13: Wohnraumförderung des Landes Nordrhein-Westfalen 2014 - 2017 - einstimmig beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Baulandprogramm 2014 - 2020 - ohne Beschlussfassung geschoben
+- TOP 7.2: Sozialgerechte Bodennutzung in Münster - ohne Beschlussfassung geschoben
+- TOP 7.3: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses für den Löschzug Handorf - ohne Beschlussfassung geschoben
+- TOP 7.4: Erweiterung der Kindertageseinrichtung St. Pantaleon, Roxel - einstimmig beschlossen
+- TOP 7.5: Ankauf der Grundstücke im Bereich der Oxford-Kaserne, Roxeler Straße 340, in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 7.6: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - einstimmig geändert beschlossen
+- TOP 7.7: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - einstimmig geändert beschlossen
+- TOP 7.8: Überarbeitung der Gebäudeleitlinien der Stadt Münster - einstimmig beschlossen
+- TOP 8: Aufhebung eines Sperrvermerkes
+- TOP 9: Verschiedenes
