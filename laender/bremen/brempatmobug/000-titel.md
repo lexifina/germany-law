@@ -1,0 +1,1 @@
+# Bremisches Gesetz zur Umsetzung der Richtlinie 2011/24/EU des europäischen Parlaments und des Rates vom 9. März 2011 über die Ausübung der Patientenrechte in der grenzüberschreitenden Gesundheitsversorgung (Bremisches Patientenmobilitätsumsetzungsgesetz -
