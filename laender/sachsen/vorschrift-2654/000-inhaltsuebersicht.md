@@ -45,10 +45,10 @@ Sechster Teil Aufsicht
 Siebter Teil Sonderkasse
 § 32 Allgemeines
 § 33 Verwaltungsausschuss der Zusatzversorgungskasse
-Achter Teil Sondervermögen nach § 14a Bundesbesoldungsgesetz
+Achter Teil Sondervermögen nach § 20 des Sächsischen Besoldungsgesetzes
 § 34 Allgemeines
 § 35 (aufgehoben)
-§ 36 Verwaltungsausschuss für die Angelegenheiten des Sondervermögens nach § 14a des Bundesbesoldungsgesetzes
+§ 36 Verwaltungsausschuss für die Angelegenheiten des Sondervermögens nach § 20 des Sächsischen Besoldungsgesetzes
 § 37 Satzung
 Neunter Teil Übergangs- und Schlussvorschriften
 § 37a Übergangsbestimmungen
