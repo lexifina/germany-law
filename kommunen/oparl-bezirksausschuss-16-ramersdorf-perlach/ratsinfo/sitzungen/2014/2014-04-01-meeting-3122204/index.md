@@ -1,0 +1,113 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2014-04-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3122204
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3122204
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.4: Bericht der BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: AntragstellerIn: Mag's & MORE e.V., für die Maßnahme: Bewohnerfest am 17.05.2014; Antragssumme: 800.- ?; Sitzungsvorlage Nr.: 08-14 / V 14415; Beschlussvorlage des Direktoriums - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kulturkreis Ramersdorf-Perlach e.V. Durchführung eines Kulturfestes von 17. bis 20.07.2014 - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 3: Anträge
+- TOP 3.1.: Hechtseestraße, Umwandlung zur Tempo-30-Zone; Bürgerschreiben vom 10.03.2014 - <div>nach Antrag</div>
+- TOP 3.2.: Probleme im Einmündungsbereich Kafkastraße/Sudermannallee; Bürgerschreiben vom 24.01.2014 (TOP 3.1.4 vom 12.03.2014) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.3.: Verbesserung der Verkehrssicherheit in Ramersdorf; Fußgängerübergang an Haltestelle Adilostraße Bus 55, Ottobrunner Straße; Bürgerschreiben vom 12.03.2014 - <div>nach Antrag</div>
+- TOP 3.4.: Mehr Unfälle und weniger Kontrollen in der Weidener Straße?; Antrag der CSU-Fraktion im BA 16 vom 13.03.2014 - <div>nach Antrag</div>
+- TOP 3.5.: Zusätzliche Parkflächen an der Langko-/Theodor-Alt-Straße; Bürgerschreiben vom 11.03. und 17.03.2014 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.1.: Sanierung des Fußballplatzes an der Wilramstr./Hohenaschauer Straße; Antrag der Klasse 9a der Mittelschule Führichstraße vom 13.03.2014 - <div>nach Antrag</div>
+- TOP 3.2.: Verwirklichung einer Beachvolleyballanlage in der Zieglerstraße; Bürgerschreiben vom 14.03.2014 - <div>Zustimmung</div>
+- TOP 3.1.: Keine bauliche Verdichtung der Gartenstadt am Beispiel Bebbauungsplan Nr. 91der Gemeine Ottobrunn; Bürgerschreiben vom 31.01.2014 - <div>WL an das Referat für Stadtplanung und Bauordnung</div>
+- TOP 3.2.: Umstrukturierung des PEP-Parkhauses; Verkehrsgutachten; Mitteilung des PEP-Managements vom 04.03.2014 (TOP 3.4.1 vom 12.03.2014) - <div>Anfrage an das Referat für Stadtplanung und Bauordnung</div>
+- TOP 3.3.: Das Stadtteilparlament fordert Mitsprache! Anhörungsrecht des BA in den Planungen zum Hanns- Seidel- Platz sicherstellen - <div>nach Antrag</div>
+- TOP 3.4.: Sind bei Wohnungsneubauten/Nachverdichtungen je Einheit wirklich zwei Stellplätze notwendig? - <div>neuer Antrag hierzu beschlossen</div>
+- TOP 3.1.: Ostparksee; Schild "Füttern verboten" an den Brücken; Bürgerschreiben vom 10.03.2014 - <div>nach Antrag</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: BA- Arbeit den aktuellen Herausforderungen anpassen- zusätzlichen Unterausschuss bilden und Aufgabenzuordnung neu regeln; Antrag der SPD-Fraktion im BA 16 vom 27.03.2014 - <div>zur Kenntnis genommen </div>
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Gleichstellungsbeauftragte
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Inklusionsbeauftragte
+- TOP 4.6.9: Internet
+- TOP 4.610: Gegen Rechtsextremismus
+- TOP 4.7: Arbeitsgruppe zur Verbesserung der Infrastruktur im Ostpark
+- TOP 4.7.1.: Toiletten für den Ostpark; Anfrage des BA 16 beschlossen in der Sitzung am 15.01.2014; Antwortschreiben des Baureferats vom 24.02.2014 (TOP 4.7.1 vom 12.03.2014) - <div>zur Kenntnis genommen</div>
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Verkehrsverträglichkeitsuntersuchung zur Einrichtung von Radverkehrsanlage in der Rosenheimer Straße zwischen Orleansstraße und Rosenheimer Platz; Schreiben des BA 14 Berg am Laim vom 28.02.2014 mit der Bitte um Unterstützung - <div>Zustimmung</div>
+- TOP 5.2.: Veranstaltungen im Freien in städtischen Grünanlagen; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 5.1.2.1 Karl-Preis-Platz, Flohmarkt des AKA e. V. vom 19.07. bis 06.09.2014; Zuleitung vom 07.03.2014 (Termin für die Stellungnahme 17.04.2014) 5.1.2.2 Spielaktionen der Spiellandschaft Stadt im gesamten Stadtgebiet im Zeitraum von Mai bis September 2014; Zuleitung vom 28.02.2014 (Termin für die Stellungnahme 11.04.2014) 5.1.2.3 Ostpark, Nacht-Marathon zur Zeitumstellung am 25.10./26.10.2014; Zuleitung vom 11.03.2014 (Termin für die Stellungnahme 22.04.2014) TOP 5.1.2.4 Grünanlage Kirchseeoner Str./Innsbrucker Ring; Gastspiel des Zirkus ?La Strada? vom 16.10. - 26.10.14 (Termin für die Stellungnahme 06.05.2014) - <div>Zustimmung zu allen Veranstaltungen</div>
+- TOP 5.3.: Veranstaltungen auf öffentlichem Verkehrsgrund gem. § 29 StVO; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 5.1.3.1 City-Lauf Neuperlach im und um das PEP-Einkaufszentrum am 18.05.2014 (Termin für die Stellungnahme 02.05.2014) TOP 5.1.3.2 Allgäuer Bauern- und Käsemarkt am 27.04.2014 auf dem Pfanzeltplatz incl. Grünanlage; Markt-Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO; Zuleitung vom 26.03.2014 (Termin für die Stellungnahme 14.04.2014) - <div>Zustimmung zu allen Veranstaltungen</div>
+- TOP 5.4.: S-Bahnhof Perlach; Getrennte Unterführungen für den motorisierten und nicht-motorisierten Verkehr; Empfehlung Nr. 08-14 / E 01869 der Bürgerversammlung des 16. Stadtbezirks Ramersdorf-Perlach am 27.06.2013, Anhörung zur Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 14.03.2014 mit der Bitte um Stellungnahme bis 30.04.2014 - <div>Zustimmung zum Antrag der Referentin</div>
+- TOP 5.5.: TOP 5.1.5 Erbeerverkaufstand auf einem städtischen Grundstück an der Carl-Wery-Straße; Zuleitung des Kommunalreferats vom 24.03.2014 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.6.: TOP 5.1.6 Hugo-Lang-Bogen; Einrichtung eines personenbezogenen Behindertenparkplatzes; Zuleitung des Kreisverwaltungsreferats mit der Bitte um Stellungnahme bis 07.05.2014 - <div>Zustimmung</div>
+- TOP 5.1.: Nächster Einsatz des Kinderaktionskoffers zur Beteiligung von Kindern 2014/2015; Zuleitung der städtischen Kinderbeauftragten mit der Bitte um Rückmeldung bis 30.05.2014 (TOP 5.3.1 vom 12.03.2014) - <div>vertagt in die Mai-Sitzung</div>
+- TOP 5.1.: 5.4.1 Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang) 5.4.1.1 Elise-Aulinger-Straße; Antrag auf Befreiung von der Baugrenze für einen provisorischen Kleinbusparkplatz; Anhörung vom 28.02.2014 (TOP 5.4.1.9 vom 12.03.2014) 5.4.1.2 Kaspar-Spät-Straße; Neubau eines Wohngebäudes mit Tiefgarage; Anhörung vom 03.03.2014 (TOP 5.4.1.10 vom 12.03.2014) 5.4.1.3 Nixenweg; Neubau eines Einfamilienhauses bzw. einer Doppelhaushälfte mit Garagen; Anhörung vom 12.03.2014 5.4.1.4 Friedrich-Panzer-Weg; Neubau von 4 Doppelhäusern mit Tiefgarage - Vorbescheid; Anhörung vom 17.03.2014 5.4.1.5 Friedrich-Panzer-Weg; Neubau 2er Mehrfamilienhäuser mit Tiefagare - Vorbescheid; Anhörung vom 17.03.2014 TOP 5.4.1.6 Adam-Berg-Sraße, Neubau einer Wohnanlage - Vorbescheid; Anhörung vom 19.03.2014 TOP 5.4.1.7 Ulrich-von-Hutten-Str.; Neubau einer 4- und 2-gruppigen Bewegungs-Kindertagesstätte; Anhörung vom 20.03.2014 TOP 5.4.1.8 Willinger Weg; Abbruch und Neubau eines Wohnheims ? Vorbescheid; Anhörung vom 20.03.2014 TOP 5.4.1.9 Peschelanger 3; Neubau eines Studentenwohnheims mit Kindertagesstätte Bankfiliale und Tiefgarage; (Stellungnahme vorab durch die BA-Vorsitzende gem. § 20 Abs. 1 Satz 2 der BA-Satzung) - <div>siehe Protokoll</div>
+- TOP 5.1.: Mittelfristige Finanzplanung 2013 bis 2017; Mehrjahresinvestitionsprogramm; Anhörungsverfahren; Fortschreibung für die Jahre 2014 bis 2018; Zuleitung der Stadtkämmerei vom 17.02.2014 mit der Bitte um Stellungnahme bis 14.04.2014 (TOP 5.6.1 vom 12.03.2014) - <div>Stellungnahme gem. der Empfehlung der Unterausschüsse</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Verkehrssicherheit an der "MonteBalan", MontessoriSchule an der Balanstraße 73, stärken; Antrag Nr. 08-14 / B 5047 des BA 16 vom 30.07.2013; Nachfrage des BA 16 beschlossen in der Sitzung am 15.01.2014; Antwortschreiben des Kreisverwaltungsreferats vom 27.02.2014 - <div>zur Kenntnis genommen  bzw. en bloc in den UA Verkehr und Öffentliche Ordnung verwiesen</div>
+- TOP 6.2.: Verbesserung des Schulwegs von Unterbiberg zum Heinrich-Heine-Gymnasium; Antrag Nr. 08-14 / B 5411 des BA 16 vom 03.12.2013; Antwortschreiben des Kreisverwaltungsreferats vom 06.03.2014 - <div>zur Kenntnis genommen  bzw. en bloc in den UA Verkehr und Öffentliche Ordnung verwiesen.</div>
+- TOP 6.3.: Reinigung des Bereichs an der Albert-Schweitzer-Straße/Thomas-Dehler-Straße; Möglicher Rattenbefall in diesem Berreich; Bürgeranliegen in der Sitzung des BA 16 am 12.03.2014; Antwortschreiben des Referats für Gesundheit und Umwelt - <div>zur Kenntnis genommen  bzw. en bloc in den UA Verkehr und Öffentliche Ordnung verwiesen.</div>
+- TOP 6.4.: Ertüchtigung eines zweiten Gleises bei Umgestaltung der Fasanengartenstraße und Neubebauung "Perlacher Tor"; Antrag Nr. 08-14 / B 5522 des BA 16 vom 15.01.2014; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 18.03.2014 - <div>zur Kenntnis genommen  bzw. en bloc in den UA Verkehr und Öffentliche Ordnung verwiesen.</div>
+- TOP 6.1.: 6.4.1 Bauvorhaben im 16. Stadtbezirk; Stellungnahmen des BA 16; Antwortschreiben des Referats für Stadtplanung und Bauordnung 6.4.1.1 Elfenstraße; Neubau eines Wohnhauses mit Garage - Tektur; Stellungnahme des BA 16 beschlossen in der Sitzung am 15.01.2014; Antwortschreiben vom 06.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.2.: Erfassung und Kartierung der im 16. Stadtbezirk vorhandenen Spielhallen und Wettbüros; Antrag Nr. 08-14 / B 4850 des BA 16 vom 04.06.2013; Nachfrage des BA 16 beschlossen in der Sitzung am 04.02.2014; Antwortschreiben des Kreisverwaltungsreferats vom 10.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.1.: Fremdnutzung der Grünanlage Schlesierstraße/Hohenaschauerstraße durch Auswärtige; Bürgerschreiben vom 13.08.2013; Bürgeranliegen in der Sitzung des BA 16 am 11.09.2013; Nachfrage beschlossen in der Sitzung des BA 16 am 15.01.2014; Antwortschreiben des Kreisverwaltungsreferats vom 27.02.2014 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.2.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen; Sitzungsvorlage Nr. 08-14 / V 13354; Beschluss des Bauausschusses vom 10.12.2013 (SB); Stellungnahme des BA 16 hierzu beschlossen in der Sitzung am 04.02.2014; Antwortschreiben des Baureferats vom 05.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.3.: Errichtung einer Geothermie- Anlage für Ramersdorf- Perlach; Antrag Nr. 08-14 / B 5524 des BA 16 vom 15.01.2014; Antwortschreiben der Stadtwerke München vom 27.02.2014 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.4.: Maßnahmen gegen den Sperrmüll in der Demblerstraße; Bürgeranliegen in der Sitzung des BA 16 am 04.02.2014; Antwortschreiben der Hausverwaltung vom 14.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München: 1. Vorberatungen in der BA-Satzungskommission vom 28.11.2013 Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung, BA-Antrag Nr. 08-14 / B 03722 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 14.02.2012 2. Umsetzung der Empfehlungen in eine Änderungssatzung; Stellungnahme des BA 16 beschlossen in der Sitzung am 11.09.2013; Sitzungsvorlage Nr. 08-14 / V 13400; Beschluss des Verwaltungs- und Personalausschusses vom 05.02.2014 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Aktion Saubere Stadt - Weiterentwicklung; Sitzungsvorlage Nr. 08-14 / V 14090; Beschluss des Bauausschusses vom 11.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 7.1.: Kindertagesstätten sonstiger Träger, Kinderkrippe St.-Martin-Straße 57; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2014; Sitzungsvorlage Nr. 08-14 / V 13182; Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrats vom 12.11.2013 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.2.: StadtschülerInnenvertretung München, Jahresbericht 2013; Zuleitung vom 27.02.2014 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.3.: Schul- und Kindertagesstättenanlage Führichstraße 53/Kirchseeoner Str. 5-9; Erweiterung bzw. Aus- und Umbau der Anlage im Rahmen des Bund-Länder-Städtebauförderungsprogramms Teil V "Städtebaulicher Denkmalschutz"; Sitzungsvorlage Nr. 08-14 / V 13486; Beschluss des Ausschusses für Bildung und Sport des Stadtrats vom 04.12.2013 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.4.: 7.3.4 Zuschussnehmerdatei 2013; Vollzug des Haushaltsplanes 2013 für den Bereich "Förderung freier Träger"; Beschlüsse des Kinder- und Jugendhilfeausschusses sowie des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 (SB) 7.3.4.1 Sozialreferat/Zentrale; Sitzungsvorlage Nr. 08-14 / V 14007 7.3.4.2 Amt für soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 14036 7.3.4.3 Stadtjugendamt; Sitzungsvorlage Nr. 08-14 / V 14048 7.3.4.4 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 14082 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.5.: Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? Antrag Nr. 08-14 / A 03767 der Stadtratsfraktion DIE GRÜNEN/RL vom 30.10.2012 Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) Antrag Nr. 08-14 / A 04260 der Stadtratsfraktionen DIE GRÜNEN/RL und SPD vom 16.05.2013; Sitzungsvorlage Nr. 08-14 / V 13716; Beschluss der Vollversammlung des Stadtrats vom 19.02.2014 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.6.: Quartierbezogene Bewohnerarbeit, Sachstand I. Quartal 2014 Aufstockung Verwaltungsstelle Neue Projekte ?Die Hochäcker? Vorlaufprojekt und Nachbarschaftstreff im 16. Stadtbezirk/Ramersdorf-Perlach Änderung des Mehrjahresinvestitionsprogramms 2013 - 2017; Sitzungsvorlage Nr. 08-14 / V 14095; Beschluss des Sozialausschusses vom 27.03.2014 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.1.: Aktuelle Bauvorhaben im 16. Stadtbezirk - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.2.: Grundstücksgeschäfte im 16. Stadtbezirk; Mitteilungen des Kommunalreferats 7.4.2.1 Görzer Straße; Mitteilung vom 24.02.2014 7.4.2.2 Unterhachinger Straße; Mitteilung vom 13.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 7.4.3.1 Anwesen Sundergaustraße; Zuleitung vom 11.03.2014 7.4.3.2 Anwesen Schneewittchenstraße; Zuleitung vom 14.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.4.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.4.1 Anwesen Unterhachinger Straße; Bescheid vom 14.03.2014 7.4.4.2 Anwesen Görzerstraße; Bescheid vom 14.03.2014 7.4.4.3 Anwesen Erminoldstraße; Bescheid vom 14.03.2014 7.4.4.4 Anwesen Emdenstraße; Bescheid vom 18.03.2014 7.4.4.5 Anwesen Staudingerstraße; Bescheid vom 19.03.2014 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.5.: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigen Wohnraum; Empfehlung Nr. 08-14 / E 2081 der Bürgerversammlung des 18. Stadtbezirks Untergiesing-Haralching vom 14.11.2013; Sitzungsvorlage Nr. 08-14 / V 14244; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.6.: Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 Au-Haidhausen; 1. Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbs mit Realisierungsteil für das Verwaltungsgebäude sowie Ergebnis der Überarbeitung 2. Darstellung der bislang durchgeführten Öffentlichkeits-, Behörden- sowie Bezirksausschussbeteiligung 3. Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2076 (Regerstr. nordwestlich, Welfenstr. südlich, und Ohlmüllerstr. westlich, Teiländerung der Bebauungspläne Nr. 77 und 1995) 4-6 Empehlungen; Sitzungsvorlage Nr. 08-14 / V 14358; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen. </div>
+- TOP 7.1.: Kleingartenverband München e. V. unterstützen, Antrag Nr. 08-14 / A 03484 von Herrn Stadtrat Josef Schmid, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 11.07.2012; Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen, Antrag Nr. 08-14 / A 03514 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Frau Stadträtin Christiane Hacker, Frau Stadträtin Dr. Inci Sieber, Frau Stadträtin Barbara Scheuble-Schaefer und Herrn Stadtrat Dr. Reinhard Bauer vom 17.07.2012; Sitzungsvorlage Nr. 08-14 / V 13834; Beschluss des Bauausschusses vom 11.03.2014 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragstellerIn: Kulturkreis Ramersdorf-Perlach e. V.; für die Maßnahme: Feierlichkeiten 150 Jahre Ramersdorf bei München; Antragssumme: 20.000.- ?; Antrag vom 01.03.2014 - <div>siehe unter TOP 2.6.1.2</div>
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen 7.6.2.1 AntragstellerIn: Frauentreffpunkt Neuperlach ; für die Maßnahme: Kauf von Notebook, Beamer, Leinwand; Verwendungsnachweis vom 24.02.2014 und Sachbericht vom 12.03.2014 7.6.2.2 AntragstellerIn: Pfarrverband Maria Ramersdorf und St. Pius ; für die Maßnahme: Powergymnastik mit Kinderbetreuung; Verwendungsnachweis vom 18.01.2014 7.6.2.3 AntragstellerIn: VDK MÜnchen ; für die Maßnahme: Volkstrauertag am 17.11.2013; Verwendungsnachweis vom 20.01.2014 7.6.2.4 AntragstellerIn: ZAK Neuperlach; für die Maßnahme: Fachgespräch "Familienstrukturen und Erziehungsverhalten in türkischen Migrantenfamilien"; Verwendungsnachweis vom 16.01.2014 - <div>alle TOPs wurden in den UA Bildung, Soziales, Integration, Sport verwiesen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UA
