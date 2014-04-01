@@ -1,0 +1,56 @@
+# Haupt- und Finanzausschuss (27. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-04-01T17:00:00+02:00
+- Ende: 2014-04-01T20:12:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTB7lGYr8DXMdBUmTUB98Sg
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16539
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVvf0paBl-KZIOTyQMvJntU2gBm8zIZN3NMYxVGv0P6Z/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_01.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung eines Schriftführers für die Erstellung der Niederschrift - (kein Text vorhanden)
+- TOP 2.: Finanzierung der Städtebaulichen Entwicklungsmaßnahme Vogelrutherfeld im Stadtteil Sindorf hier: Kosten- und Finanzierungsübersicht
+- TOP 3.: Einwohner/innen - Fragestunde
+- TOP 4.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 26. Sitzung vom 11. Februar 2014 - (kein Text vorhanden)
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 5.1: Einrichtung einer Ringbuslinie im Stadtteil Kerpen - (kein Text vorhanden)
+- TOP 5.2: Verbindung des Stadtteils Neu-Bottenbroich durch die Linie 976 mit dem Ortskern
+- TOP 5.3: Bebauungsplan SI 251 B "Vogelrutherfeld" im Stadtteil Sindorf 1. unrechtmäßiger Einbehalt einer Bürgschaft 2. rechtswidrige Bauausführung von 5 Reihenhäusern - (kein Text vorhanden)
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 2. Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Stadt Kerpen
+- TOP 6.2: Neufassung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - (kein Text vorhanden)
+- TOP 7.: Personal-/Stellenplanangelegenheiten
+- TOP 7.1: Stellenplan 2014 hier: Umwandlung von bisher zeitlich befristeten Stellen in Dauerstellen für den Betrieb der städtischen Bäder - (kein Text vorhanden)
+- TOP 7.2: Zusätzliches Personal für den Zentralen Außendienst (ZAD) des Ordnungsamtes - (kein Text vorhanden)
+- TOP 7.3: Dienstanweisung für die Finanzbuchhaltung
+- TOP 8.: Wiederdurchführung des Girls- und Boys´Day 2015 in Einrichtungen der Stadt Kerpen
+- TOP 9.: Bilanzielle Auswirkungen von Veräußerungen/Außerbetriebnahmen städtischen Anlagevermögens, hier insbesondere städtischer Immobilien
+- TOP 10.: Mitgliedschaft in der Musikschule La Musica - (kein Text vorhanden)
+- TOP 11.: Notwendige Erneuerung der Lüftungsanlage in der Turnhalle der Theodor-Heuss-Schule in Kerpen, Broichmühlenstraße 41-49 - (kein Text vorhanden)
+- TOP 12.: Mittelbereitstellung für Kanalunterhaltung 2014 - (kein Text vorhanden)
+- TOP 13.: Außerplanmäßige Mittelbereitstellung für das Haushaltsjahr 2014 für die Erweiterung der medizin-technischen Beladung des Notarzteinsatzfahrzeuges - (kein Text vorhanden)
+- TOP 14.: Prioritätenliste für die Ersatzbeschaffung von Feuerwehrfahrzeugen - (kein Text vorhanden)
+- TOP 15.: Jahresbericht 2012 für die Bäder der Kolpingstadt Kerpen
+- TOP 16.: Umsiedlung Manheim hier: Niederschrift der 11. Sitzung des Bürgerbeirates Manheim
+- TOP 17.: Übernahme der Trägerschaft - (kein Text vorhanden)
+- TOP 18.: Sicherstellung Rechtsanspruch durch vorgefertigte Systembauweise an der städt. Kindertageseinrichtung Spielkiste in Horrem - (kein Text vorhanden)
+- TOP 19.: Sicherstellung Rechtsanspruch durch Einrichtung eines Waldkindergartens in Horrem - (kein Text vorhanden)
+- TOP 20.: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan vom 01.01.2015 bis 30.06.2015 im Rahmen einer Fixierung der bestehenden Haushaltsmittel - (kein Text vorhanden)
+- TOP 21.: Kinder- und Jugendförderplan, Teil III und Teil IV hier: Gültigkeitsverlängerung bis zum 30.06.15 - (kein Text vorhanden)
+- TOP 22.: Konzept zur Unterbringung von Asylbewerbern und Flüchtlingen - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 24.1: Doppelte Bescheide über Grundbesitzabgaben
+- TOP 24.2: Flächen.Pool NRW
+- TOP II.: Nichtöffentlicher Teil
+- TOP 25.: Neuvergabe der Konzessionen für das Strom- und Gasnetz sowie Gründung von Netzgesellschaften hier: Beschluss über die notwendigen Vertragswerke
+- TOP 26.: Ankauf einer Ackerfläche in der Gemarkung Türnich - (kein Text vorhanden)
+- TOP 27.: Verkauf einer städtischen Wegeparzelle in der Gemarkung Blatzheim - (kein Text vorhanden)
+- TOP 28.: Mitteilungen
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
