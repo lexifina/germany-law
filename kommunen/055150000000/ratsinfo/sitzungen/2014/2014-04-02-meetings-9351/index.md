@@ -1,0 +1,108 @@
+# 35. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-04-02T17:03:00+02:00
+- Ende: 2014-04-02T22:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9351
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9351
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00354228.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat: A-R/0002/2014 - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der FDP-Fraktion an den Rat Nr. A-R/0003/2014 "Kurze Wege nutzen, neue Perspektiven eröffnen - regelmäßige Arbeitsmarkt-Konferenz einberufen" - mehrheitlich beschlossen
+- TOP 3: Bericht über die Beschäftigung von Menschen mit Schwerbehinderung und diesen Gleichgestellten bei der Stadt Münster - zur Kenntnis genommen
+- TOP 4: Erfahrungsbericht zur Speakers' Corner an der Engelenschanze/Windthorststraße - zur Kenntnis genommen
+- TOP 5: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2014) - einstimmig beschlossen
+- TOP 6: Reform des Zuschusswesens der Stadt Münster - Zwischenbericht - - zur Kenntnis genommen
+- TOP 7: Überarbeitung der Gebäudeleitlinien der Stadt Münster - einstimmig beschlossen
+- TOP 7.1: Überarbeitung der Gebäudeleitlinien der Stadt Münster
+- TOP 8: Umbau und Erweiterung des Verwaltungsgebäudes Rösnerstraße 10 - zurückgezogen
+- TOP 9: Leitsystem Skulpturensammlung - einstimmig beschlossen
+- TOP 10: Historische Aufarbeitung der Rolle der Stadtverwaltung Münster in der NS-Zeit - zur Kenntnis genommen
+- TOP 11: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2014 - einstimmig beschlossen
+- TOP 12: Fortsetzung des Hochzeitswaldes Münster sowie Schaffung einer Stätte der Erinnerung - Ein Erinnerungswald in Münster - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 13: Europäische Charta für die Gleichstellung von Männern und Frauen auf lokaler Ebene - Abschlussbericht zum Aktionsplan 2011-2013 und Aktionsplan 2013 - 2015 - ohne Beschlussfassung geschoben
+- TOP 14: Gewährung einer zinslosen, zurück zu zahlenden Überbrückungsfinanzierung an Frauen und Beruf, Frauenforum e.V. zur Zwischenfinanzierung - einstimmig beschlossen
+- TOP 15: Feststellung des Jahresabschlusses 2012 der Stadt Münster - einstimmig beschlossen
+- TOP 16: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2014 - einstimmig beschlossen
+- TOP 17: Satzung über die Wochenmärkte in der Stadt Münster - einstimmig geändert beschlossen
+- TOP 18: Öffentlich-rechtliche Vereinbarung zur Durchführung von Telefonserviceleistungen durch die Stadt Münster für die Gemeinde Everswinkel - einstimmig beschlossen
+- TOP 18.1: Öffentlich-rechtliche Vereinbarung zur Durchführung von Telefonserviceleistungen durch die Stadt Münster für die Gemeinde Everswinkel
+- TOP 19: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses für den Löschzug Handorf - ohne Beschlussfassung geschoben
+- TOP 20: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011 und 2012 - einstimmig beschlossen
+- TOP 21: Ankauf der Grundstücke im Bereich der Oxford-Kaserne, Roxeler Straße 340, in Münster-Gievenbeck - einstimmig beschlossen
+- TOP 22: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2013 - zur Kenntnis genommen
+- TOP 23: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2014 - einstimmig beschlossen
+- TOP 24: Sozialgerechte Bodennutzung in Münster - ohne Beschlussfassung geschoben
+- TOP 25: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße - einstimmig beschlossen
+- TOP 25.1: Verwertung der städtischen Immobilie Herwarthstraße/von-Steuben-Straße
+- TOP 26: Nutzung einer Teilfläche der Augustin-Wibbelt-Schule Roxel als Kindertagesstätte - einstimmig beschlossen
+- TOP 27: Errichtung einer Gesamtschule am Standort der Paul-Gerhardt-Realschule, Jüdefelder Straße 10 - ohne Beschlussfassung geschoben
+- TOP 28: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 28.1: Änderung der Straßenreinigungssatzung
+- TOP 29: Baulandprogramm 2014 - 2020 - ohne Beschlussfassung geschoben
+- TOP 29.1: Baulandprogramm 2014 - 2020
+- TOP 30: Städisches Stadion Hammer Straße - Neubau Sitzplatztribüne Westkurve, Ergebnis der Machbarkeitsstudie - ohne Beschlussfassung geschoben
+- TOP 31: Reisebusparken am Schlossplatz in der Vorweihnachtszeit: Neuregelung ab 2014 - einstimmig beschlossen
+- TOP 32: Auslobung und Mittelbereitstellung zum städtebaulichen Gutachterverfahren Oxford-Kaserne - Konversion Oxford-Kaserne - - einstimmig beschlossen
+- TOP 32.1: Auslobung und Mittelbereitstellung zum städtebaulichen Gutachterverfahren Oxford-Kaserne - Konversion Oxford-Kaserne -
+- TOP 33: Wirtschaftsplan 2014 für Münster Marketing - einstimmig beschlossen
+- TOP 34: Stadtfeste ab 2015 - einstimmig beschlossen
+- TOP 35: Schulische Integration von zugewanderten Kindern und Jugendlichen in Regelschulen - einstimmig beschlossen
+- TOP 35.1: Schulische Integration von zugewanderten Kindern und Jugendlichen in Regelschulen
+- TOP 36: Umwandlung des 2. Zuges der Hauptschule Wolbeck in einen erweiterten Ganztagszug zum Schuljahr 2014/2015 - einstimmig beschlossen
+- TOP 37: Festival FLURSTÜCKE 2015 - einstimmig beschlossen
+- TOP 38: Feststellung des Jahresabschlusses und des Lageberichts des Theaters Münster für das Wirtschaftsjahr 2012/2013 - einstimmig beschlossen
+- TOP 39: Wirtschaftsplan 2014/2015 des Theaters Münster - einstimmig beschlossen
+- TOP 40: Flexible Kindertagesbetreuung in Münster - einstimmig beschlossen
+- TOP 41: Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne, Gievenbeck - einstimmig beschlossen
+- TOP 41.1: Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne, Gievenbeck
+- TOP 42: Ausweitung der Förderangebote für Grundschulkinder im Offenen Ganztag- Förderinseln - einstimmig beschlossen
+- TOP 43: Einrichtung neuer Gruppen an Offenen Ganztagsschulen zum Schuljahr 2014/15 - einstimmig beschlossen
+- TOP 44: Erweiterung der Kindertageseinrichtung St. Pantaleon, Roxel - einstimmig beschlossen
+- TOP 45: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G - einstimmig beschlossen
+- TOP 46: Anpassung der Richtlinien über Verfügungen aus dem Sonderfonds " Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" - einstimmig beschlossen
+- TOP 47: Trägerausschreibung für die zweigruppige Dependance einer Kindertageseinrichtung in Coerde am Kiesekampweg - einstimmig beschlossen
+- TOP 48: Zuschuss für Instandsetzungs- und -haltungskosten für das Sportbad der DJK Coburg - einstimmig beschlossen
+- TOP 49: Jahresbericht der Arbeit der Ombudsstelle - zur Kenntnis genommen
+- TOP 50: Steuerung von Leistungen mit Bezug zu Aufgaben für Arbeitssuchende (SGB II) - einstimmig beschlossen
+- TOP 51: Aktualisiertes Migrationsleitbild 2014 - einstimmig beschlossen
+- TOP 52: Wirtschaftsplan der Hüfferstiftung für das Jahr 2014 - einstimmig beschlossen
+- TOP 53: Leitbild der Kommunalen Stiftungen und Leitbild der FreiwilligenAgentur - einstimmig beschlossen
+- TOP 54: Feststellung von Jahresabschlüssen
+- TOP 54.1: Feststellung des Jahresabschlusses 2013 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 54.2: Feststellung des Jahresabschlusses 2013 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 54.3: Feststellung des Jahresabschlusses 2013 der Klarastift Service GmbH - ohne Beschlussfassung geschoben
+- TOP 54.4: Feststellung des Jahresabschlusses 2013 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 55: Ausschreibung und Vergabe der Betriebsträgerschaft für die neue Flüchtlingseinrichtung in Roxel, Zum Schultenhof - ohne Beschlussfassung geschoben
+- TOP 56: Sozialmonitoring: Konkretisierung und weiteres Verfahren - einstimmig beschlossen
+- TOP 57: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen, hier: Zeitlich befristete Maßnahmen zum Bau von Flüchtlingseinrichtungen in Containerbauweise und zur Einrichtung einer städtischen Erstaufnahmeeinrichtung - ohne Beschlussfassung geschoben
+- TOP 57.1: Aktuelle Unterbringungssituation und Perspektiven für die Wohnraumversorgung von Flüchtlingen, hier: Zeitlich befristete Maßnahmen zum Bau von Flüchtlingseinrichtungen in Containerbauweise und zur Einrichtung einer städtischen Erstaufnahmeeinrichtung
+- TOP 58: Organisation der arbeitsmarktbezogenen Maßnahmen bei der Stadt Münster - einstimmig beschlossen
+- TOP 59: Zielvereinbarung 2014 mit dem Ministerium für Arbeit, Integration und Soziales NRW - einstimmig beschlossen
+- TOP 60: Wohnraumförderung des Landes Nordrhein-Westfalen 2014 - 2017 - einstimmig beschlossen
+- TOP 61: Luftreinhalteplan Münster 2014 - einstimmig beschlossen
+- TOP 62: Landschaftsplan Roxeler Riedel - Satzungsbeschluss - einstimmig beschlossen
+- TOP 62.1: Landschaftsplan Roxeler Riedel - Satzungsbeschluss
+- TOP 62.1.1: Landschaftsplan Roxeler Riedel - Satzungsbeschluss
+- TOP 63: Bauleitplanung
+- TOP 63.1: Stadtbezirk Mitte
+- TOP 63.1.1: Bebauungsplan Nr. 558 - Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 63.1.2: Bebauungsplan Nr. 310, 1. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 63.2: Stadtbezirk West
+- TOP 63.2.1: Bebauungsplan Nr. 540 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs - ohne Beschlussfassung geschoben
+- TOP 63.3: Stadtbezirk Südost
+- TOP 63.3.1: Bebauungsplan Nr. 552 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 63.4: Stadtbezirk Ost
+- TOP 63.4.1: Bebauungsplan Nr. 567 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 64: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 65: Verschiedenes
