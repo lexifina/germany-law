@@ -1,0 +1,98 @@
+# 22. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2014-04-02T17:30:00+02:00
+- Ende: 2014-04-02T21:43:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4569
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4569
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=60566
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Pankower Milieuschutz für Investoren, nicht für Mieter." - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Öffentliche Auslegung des B-Plan 1 - 64 (am Mauerpark) in Mitte - zurückgezogen
+- TOP 1.5.2: Kampagne der GESOBAU gegen den »Pankower MieterInnenprotest« zurückweisen - überwiesen
+- TOP 1.5.3: Keine Schlagstöcke und Pfefferspray für die Parkraumüberwachung - ohne Änderungen in der BVV beschlossen
+- TOP 1.6: Mündliche Anfragen - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.10: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.11: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.12: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.13: Wahl eines stellvertretenden Bürgerdeputierten sowie eines Bürgerdeputierten - gewählt
+- TOP 1.14: Wahl eines Bürgerdeputierte sowie eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.15: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Kollwitzplatz“ im Bezirk Pankow von Ber-lin, Ortsteil Prenzlauer Berg, und über die Aufhebung der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Kollwitzplatz-Nord“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 647), berich-tigt am 16.11.1998 (GVBl. S. 347). - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Teutoburger Platz“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg und über die Aufhebung der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Teutoburger Platz-Süd“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 643) sowie der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Teutoburger Platz-Nord“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 645). - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Winsstraße“ im Bezirk Pankow von Ber-lin, Ortsteil Prenzlauer Berg, und über die Aufhebung der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Winsstraße-Nord“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 653). - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Helmholtzplatz“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg, und über die Aufhebung der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Helmholtzplatz-Ost“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 649). - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Beschluss über eine Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 des Baugesetzbuches (BauGB) für das Gebiet „Bötzowstraße“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg, und über die Aufhebung der „Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 des Baugesetzbuches für das Gebiet „Bötzowstraße“ im Bezirk Prenzlauer Berg von Berlin“ vom 9. Dezember 1997 (GVBl. S. 651). - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Schlaglochsonderprogramm - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Brückensanierungen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Flächenerweiterung und Weiterentwicklung prüfen: Rosa-Luxemburg-Oberschule und Wolkensteingrundschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Vorsorge für weiter wachsenden Bezirk treffen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Bürger_innenfreundlichkeit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Rauchwarnmelder retten Leben - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Entwicklung des ehemaligen Parkplatzes an der Achillesstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Baugenehmigungsstatistik in Pankow - in der BVV abgelehnt
+- TOP 1.28: Verkehrsberuhigung am Schloss Schönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Veränderungen der KFZ-Stellplätze im öffentlichen Straßenland dokumentieren - in der BVV abgelehnt
+- TOP 1.30: Stauraumkanal im Mauerpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Nachbarschaftsgärten in der Hansastraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Knoten Walter-Friedrich-/Groscurthstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Einwohnerfragestunde der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Sportbetontes Schulangebot im Bezirk Pankow ausweiten - überwiesen
+- TOP 1.35: Europakompetenz der Pankower Verwaltung stärken - beantwortet
+- TOP 1.36: Standort des Griechisch-Zweiges an der Homer-Grundschule (SESB) erhalten - überwiesen
+- TOP 1.37: Fußgängerüberweg an der Bucher Chaussee in Höhe Hofzeichendamm - überwiesen
+- TOP 1.38: Clearingstelle im JobCenter Pankow als ersten Schritt - überwiesen
+- TOP 1.39: Lärmminderung am Betriebshof Weißensee durchsetzen und finanzieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Ehem. Akademie der Wissenschaften – als Atelierhaus und für Gemeinbedarfsflächen weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 1.41: Rücknahme der Kündigung des Kieztreffs Gleimviertel - überwiesen
+- TOP 1.42: Lärmschutz an der Stettiner Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Aufstellung eines Verkehrsspiegels - überwiesen
+- TOP 1.44: Neue Gebiete für die Städtebauförderung im Bezirk Pankow - überwiesen
+- TOP 1.45: Namensschilder für Mitarbeiterinnen und Mitarbeiter des Bezirksamtes Pankow - überwiesen
+- TOP 1.46: Mobile Kinder- und Jugend(sozial)arbeit ermöglichen - überwiesen
+- TOP 1.47: Interner Erfahrungsaustausch zur Parkraumbewirtschaftung mit externer Moderation - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Verkehrssicherheit an der Tram- und Bus-Haltestelle S+U-Bhf Pankow herstellen - überwiesen
+- TOP 1.49: Flyer für EU-Bürgerinnen und Bürger über den Zugang zu existenzsichernden Leistungen - überwiesen
+- TOP 1.50: Wiederherstellung der Aussichtsplattform am Weißen See - überwiesen
+- TOP 1.51: Internetportal und Webserver von jugendnetz-berlin.de als Ressource für Stadt und Bezirk retten - überwiesen
+- TOP 1.52: Verkehrsberuhigung in der Bizetstraße und dem Komponistenviertel - überwiesen
+- TOP 1.53: Haushaltsnahe Altglassammlung erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Personalentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Teilhabekonzept Menschen mit Beeinträchtigungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Choriner Straße - Umgestaltung im Bezirk Mitte als Vorbild nehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Kreuzung Romain-Rolland-Straße/Rothenbachstraße - Mehr Sicherheit für FußgängerInnen - vertagt
+- TOP 2.5: Kontinuierliches Kundenmonitoring für Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Umwandlungsverordnung jetzt erlassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Radverkehr Dietzgenstraße - vertagt
+- TOP 2.8: Kommentierung des Thälmann-Denkmals - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Sichere Radwegeverbindung zwischen Wiltbergstraße und der Berlin-Brandenburger Landesgrenze - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Lückenschluss für Fahrradfahrer_innen in der Ostseestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Personal für Kontrolle Zweckentfremdung und Verfolgung Wirtschaftskriminalität Mietwucher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: »Straßensheriffs« - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Schleichverkehr in der Sültstraße - vertagt
+- TOP 2.14: Ausstellung " Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert " - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Fuß- und Radweg entlang der Pankgrafenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Car-Sharing-Stellplätze besser gegen Fremdparken schützen - vertagt
+- TOP 2.17: An das Zwangsarbeiterlager Lunapark erinnern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Gedenken zum 25. Jahrestag der friedlichen Revolution und des Mauerfalls in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Beitritt des Bezirks Pankow zum Bündnis „Vermögenssteuer jetzt“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Unterstützung des west-östlichen Filmfestivals - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Arbeitsbericht des Frauenbeirates des Bezirksamtes Pankow Zeitraum Februar 2012 – Dezember 2013 - vertagt
+- TOP 2.22: Förderprogramm Städtebaulicher Denkmalschutz/Programmdurchführung Integriertes Stadtentwicklungskonzept (INSEK) Humannplatz und Ostseestraße – Vertiefung und Fortschreibung des Integrierten Stadtteilentwicklungskonzepts von 2011/2012 Erster landesweiter Jahresbericht über das Monitoring und die Evaluation des Programms Städtebaulicher Denkmalschutz für das Berichtsjahr 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zu Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Null Toleranz gegen Rechtsextremisten bei der Vergabe öffentlicher Aufträge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennungsabsicht für die bisher unbenannte öffentliche Straße im Abschnitt von der Kleingartenanlage "Neu Berlin" bis Sigridstraße und in Fortführung die Umbenennungsabsicht der öffentlichen Straße Syringenplatz im Abschnitt von Sigridstraße bis Maiglöckchenstraße in "Am Weingarten" - mit Abschlussbericht zur Kenntnis genommen
