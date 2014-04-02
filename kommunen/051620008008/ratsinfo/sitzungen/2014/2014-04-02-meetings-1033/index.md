@@ -1,0 +1,14 @@
+# Sozialausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-04-02T18:10:00+02:00
+- Ende: 2014-04-02T20:55:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/19
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1033
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1033
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
