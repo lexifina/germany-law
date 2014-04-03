@@ -1,0 +1,72 @@
+# 27. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-04-03T16:30:00+02:00
+- Ende: 2014-04-03T20:22:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3929
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3929
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100622
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-28 und VII-29 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten für den Sportausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Mietkostenfreiheit in der Freiheit 15/16 - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Psychosozialen Verbund Treptow e. V. (SM 14-05) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für den Verein der Freunde und Förderer der Sonnenblumen-Grundschule e. V. (SM 14-06) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Schlossplatztheater / Alte Möbelfabrik (SM 14-07) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Bürger für Rahnsdorf e. V. (SM 14-08) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für die Freie evangelische Gemeinde Berlin Adlershof (SM 14-09) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den Förderverein der Grundschule am Berg (SM 14-12) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Segel-Club Argo e. V. (SM 14-11) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Tempo 30 in ganz Rauchfangswerder - vertagt
+- TOP 12.2: Querungsmöglichkeit in der Seelenbinderstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Fahrradabstellplatz am S-Bahnhof Grünau sanieren und erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Überschwemmung des Strohblumenwegs bei starken Regenfällen verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Durchsetzungsmöglichkeiten für die Umsetzung sozialer, ökologischer und stadtentwicklungspolitischer Kriterien entscheidend verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Claus-Dieter-Sprink-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Kreuzung Kiefholzstraße/ Bouchéstraße – Gehwegvorstreckung - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Vorgezogene Haltelinie - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Umstellung der PC in der schulischen Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sozialverträglicher Wohnungsneubau in der Altstadt - zurückgezogen
+- TOP 12.11: Gesamtkonzeption Schulstandort Anna-Seghers-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Wahlaufruf an die ausländischen EU-Bürgerinnen und EU-Bürger in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Kontaktinformationen an Spielplätzen - überwiesen
+- TOP 14.3: Förderung von Spielplatzpatenschaften - überwiesen
+- TOP 14.4: Hinweis zur Registrierung zur Europawahl veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Erörterung Nachtflugverbot - mit Änderungen in der BVV beschlossen
+- TOP 14.6: Modifizierung von Pflegeverträgen in Landschaftsschutzgebieten (LSG) - überwiesen
+- TOP 14.7: Straßenbelag des Grenzbergewegs sanieren - überwiesen
+- TOP 14.8: Reparatur des Wuhleradwanderwegs - in der BVV abgelehnt
+- TOP 14.9: Kooperation im Naturschutz - überwiesen
+- TOP 14.10: Erosionsschutz und Wegesicherung im Naturschutzgebiet Wilhelmshagen - überwiesen
+- TOP 14.11: Verbesserung der Reinigungsleistung an Schulen und anderen öffentlichen Gebäuden - überwiesen
+- TOP 14.12: Verkehrsaufkommensgerechte Ampelschaltungen - überwiesen
+- TOP 14.13: Schulwegsicherung an der Schmöckwitzer Inselschule – Lichtsignalanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Waldweg Wuhlheide - überwiesen
+- TOP 14.15: Aufstellung von Schulcontainern während der Bauphase in der Anna-Seghers-Schule - überwiesen
+- TOP 14.16: Spreepark – Nutzungskonzept nur mit Einwohner/-innen & Anwohner/-innen - überwiesen
+- TOP 14.17: Keine entgeltpflichtige Parkraumbewirtschaftung in der Altstadt Köpenick - überwiesen
+- TOP 14.18: Öffentlichkeitsarbeit zur Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Rassistische, antisemitische und rechtsextrem motivierte Vorfälle in Treptow-Köpenick - beantwortet
+- TOP 15.2: Steuerung der Hilfen zur Erziehung und die neue AV Hilfeplanung - vertagt
