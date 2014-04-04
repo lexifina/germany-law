@@ -1,0 +1,80 @@
+# 18. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2014-04-04T09:30:00+02:00
+- Ende: 2014-04-04T13:00:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2014-VV-18
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2014-VV-18
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2014-VV-18
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2014-VV-18
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2014-VV-18
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP -: Mündlicher Bericht zur Gesetzesnovelle des RVR-G
+- TOP -: Haushalt 2014
+- TOP 2.1.1: Verabschiedung des Haushalts 2014
+- TOP 2.1.1.1: Verabschiedung des Haushalts 2014 Antrag der SPD-Fraktion und Bündnis 90/Die Grünen vom 01.04.2014
+- TOP 2.1.1.2: Verabschiedung des Haushaltes 2014 Antrag der Fraktion DIE LINKE
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Förderprogramm 'Kommunaler Straßenbau 2014' hier: Unterrichtung und Beschlussfassung
+- TOP 1.2: Förderprogramm 'Nahmobilität 2014' (ehemals Sonder-Radwegebau) hier: Unterrichtung und Beschlussfassung
+- TOP 1.3: Neuaufstellung des Bundesverkehrswegeplans (BVWP) 2015, Bereich Straße: Abschließender Sachstand der Projektanmeldungen des Landes NRW an den Bund zur fachlichen Bewertung
+- TOP 1.4: Bericht über den Stand der Erstellung des NRW-Programms „Ländlicher Raum“ für die Förderperiode 2014 bis 2020 im Bereich der Fachgruppe 3 LEADER; Dorfentwicklung, Breitband, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze Kenntnisnahme
+- TOP 1.5: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik Ruhrgebiet hier: Beratung und Beschlussfassung 2014
+- TOP 1.6: 81. Änderung des Regionalplanes für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Voerde, Änderung und Erweiterung eines Bereichs in gewerbliche und industrielle Nutzungen (GIB) mit der Zweckbindung - Standort des kombinierten Güterverkehrs (Erarbeitungsbeschluss)
+- TOP 1.7: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein-Westfalen
+- TOP 1.7.1: Stellungnahme der Regionalplanungsbehörde beim RVR sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange zum Entwurf des Landesentwicklungsplanes Nordrhein- Westfalen Antrag der Fraktion DIE LINKE
+- TOP 1.8: Wuppertal, 49. Flächennutzungsplanänderung – Dreigrenzen – erneute Beteiligung der Behörden gem. § 4 Abs. 2 BauGB i.V.m. § 4a Abs. 3 BauGB (IKEA)
+- TOP 1.9: 7. Änderung des Regionalplanes für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) zur Festlegung eines Kraftwerksstandortes auf dem Gebiet der Stadt Datteln – Bescheid über die landesplanerische Zielabweichung -
+- TOP 1.10: Abfallwirtschaftsplan NRW, Teilplan Siedlungsabfälle, Einleitung des Beteiligungsverfahrens, hier: Kenntnisnahme Erlass MKULNV NRW vom 10.03.2014
+- TOP 1.11: Anfragen und Mitteilungen
+- TOP 1.11.1: Anfrage der FDP-Fraktion vom 18.11.2013 zum Maßregelvollzug auf dem Gebiet des RVR
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Haushalt 2014
+- TOP 2.1.2: Übertragung von Ermächtigungen aus dem Haushaltsjahr 2013 in das Haushaltsjahr 2014
+- TOP 2.2: Jahresabschluss 2012
+- TOP 2.2.1: Beschluss über die Behandlung des Jahresüberschusses 2012
+- TOP 2.2.2: Bericht über die Prüfung des Jahresabschlusses 2012, Feststellung des Jahresabschlusses 2012 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2012 bis 31.12.2012
+- TOP 2.3: Beschluss über die Behandlung der Jahresüberschüsse der Vorjahre von 2006 bis 2011
+- TOP 2.4: Entwurf des NKF-Gesamtabschlusses 2011
+- TOP 2.5: Resolution 'Schnellstmögliche finanzielle Entlastung der Kommunen'
+- TOP 2.5.1: Resolution 'Schnellstmögliche finanzielle Entlastung der Kommunen“ Ergänzung des Beschlussvorschlages der Vorlage 12/1123 Antrag der Fraktion DIE LINKE
+- TOP 2.6: Strategie und Ziele der RVR-Familie
+- TOP 2.6.1: Strategie- und Ziele der RVR-Familie hier: Vertagung Antrag der CDU-Fraktion vom 01.04.2014
+- TOP 2.6.2: Strategie und Ziele der RVR-Familie Änderungsantrag der Fraktion DIE LINKE
+- TOP 2.7: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes der Stadt Dortmund
+- TOP 2.8: Stellungnahme des RVR als Träger öffentlicher Belange zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen (ABS46/2) Planfeststellungsabschnitt 2.1 Voerde-Friedrichsfeld“
+- TOP 2.8.1: Stellungnahme des RVR als Träger öffentlicher Belange zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen (ABS46/2) Planfeststellungsabschnitt 1.2 Oberhausen-Sterkrade“
+- TOP 2.9: Stellungnahme des RVR als Träger öffentlicher Belange zum „Ausbau der Bahnstrecke Grenze NL/D – Emmerich – Oberhausen (ABS46/2) Planfeststellungsabschnitt 2.2 Wesel“
+- TOP 2.10: Stellungnahme der Metropole Ruhr zum Landesentwicklungsplan (LEP) Antrag der CDU-Fraktion vom 11.02.2014
+- TOP 2.10.1: Stellungnahme der Metropole Ruhr zum Landesentwicklungsplan (LEP) Änderungsantrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 02.04.2014
+- TOP 2.11: Angelegenheiten der RUHR.2010 GmbH i. L. - Dringlichkeitsentscheidung Liquidationsschlussbilanz der RUHR.2010 GmbH i. L. zum 31.10.2013
+- TOP 2.12: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün für das Jahr 2014
+- TOP 2.13: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2013
+- TOP 2.14: Regionale ZukunftsLAND 2016 - WALDband Projektstudie
+- TOP 2.15: Konzept Ruhr & Wandel als Chance - Perspektive 2020
+- TOP 2.16: Vereinbarung zur vorausschauenden Revitalisierung bedeutsamer Bergbauflächen
+- TOP 2.17: Abschlussbericht zur Evaluation des Fahrradverleihsystems 'metropolradruhr'
+- TOP 2.17.1: Abschlussbericht zur Evaluation des Fahrradverleihsystems 'metropolradruhr' Antwort der Verwaltung vom 18.03.2014
+- TOP 2.18: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2012 nach der Gemeindeordnung NRW (GO NRW)
+- TOP 2.19: Evaluierungsbericht Trägerschaft Emscher Landschaftspark
+- TOP 2.20: Position Emscher Landschaftspark 2020+; Leitlinien und Handlungsprogramm
+- TOP 2.21: Kongress 2015: 'Agglomeration Ruhr im internationalen Vergleich'
+- TOP 2.22: Projekt 'Zeit-Landschaften: Erinnerungsorte Ruhr'
+- TOP 2.23: Ideenwettbewerb Zukunft Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 2.24: Regionaler Diskurs/Regionalplan Ruhr. Hier: Perspektiven zur räumlichen Entwicklung der Metropole Ruhr
+- TOP 2.24.1: Regionaler Diskurs Antrag der CDU-Fraktion vom 19.03.2014
+- TOP 2.24.2: Regionaler Diskurs/Regionalplan Ruhr. hier: Stellungnahme der Verwaltung vom 26.03.2014
+- TOP 2.24.3: Regionaler Diskurs/Regionalplan Ruhr Hier: Perspektiven zur räumlichen Entwicklung der Metropole Ruhr Änderungsantrag der Fraktion DIE LINKE
+- TOP 2.24.4: Regionalplan Ruhr/Regionaler Diskurs hier: Stellungnahme der Verwaltung vom 03.04.2014 zum Änderungsantrag der Fraktion Die Linke. vom 02.04.2014
+- TOP 2.25: Änderungen am RVR-Gesetz zügig umsetzen Antrag der CDU-Fraktion und der Fraktion Die Linke. vom 11.03.2014
+- TOP 2.26: Direkte Anbindung des interkommunalen Gewerbegebiets HER-BO-43
+- TOP 2.27: Organisatorische Veränderung im Bereich IV
+- TOP 2.28: Anfragen und Mitteilungen
+- TOP 2.28.1: 7. Änderung des Regionalplans Münster (Teilabschnitt Emscher-Lippe) zur Festlegung eines Kraftwerkstandortes auf dem Gebiet der Stadt Datteln hier: Stellungnahme der Verwaltung vom 25.03.2014
