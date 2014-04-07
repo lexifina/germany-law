@@ -1,0 +1,58 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-04-07T17:00:00+02:00
+- Ende: 2014-04-07T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRRc_1tPqo0wLukcZ6VwkB0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4292
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeoDbabDmugHXtrLztzWyE1VtvBCIdWORFk91_d0_TYU/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_07.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Verbesserung der Anbindung an die A 3
+- TOP 4: Agenda-Team
+- TOP 5: Stellungnahme der Stadt Solingen zur Aufstellung des Einzelhandelskonzeptes für die Stadt Remscheid
+- TOP 6: Stellungnahme zur Ansiedlung eines Designer-Outlet-Centers (DOC) in Remscheid
+- TOP 7: Dickenbusch
+- TOP 8: Fahrbahndeckenprogramm 2014
+- TOP 9: Neufassung der Gebührenordnung für Parkuhren und Parkscheinautomaten in der Stadt Solingen
+- TOP 10: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 11: Bauleitplanung nördliche Schwesternstraße
+- TOP 12: Bauleitplanung Birkenweiher/Kölner Straße
+- TOP 13: Bauleitplanung Goldberger Weg/ Löhdorfer Straße
+- TOP 14: Bauleitplanung Freizeitanlage Aufderhöhe
+- TOP 15: Bauleitplanung Naturpark/ Hermann-Löns-Weg
+- TOP 16: Bauleitplanung Josefstal/ Bielauer Weg
+- TOP 17: Bauleitplanung Friedenstraße/Höhscheider Straße
+- TOP 18: Bauleitplanung Forststraße
+- TOP 19: Bauleitplanung Forststraße
+- TOP 20: Weitere Planung für das Omega-/Evertz-Gelände
+- TOP 21: Verschiedenes
+- TOP 22: Verkehrssituation in der Innenstadt
+- TOP 23: Parkleitsystem Solingen Innenstadt
+- TOP 24: Einspurige Verkehrsführung Eschbachstraße in Solingen - Unterburg
+- TOP 25: Verschmutzung Innenstadt
+- TOP 26: Evaluation Parken an der Klingenhalle
+- TOP 27: Zufahrt Firma Wolff, Beethovenstraße
+- TOP 28: Neufassung von Standorten für die Windenergienutzung in Solingen, Sachlicher Teilflächennutzungsplan
+- TOP 29: Gemeinsam leben in Solingen
+- TOP 30: ÖPNV-Fahrgastbeirat 20.03.2014
+- TOP 31: Modernisierungsoffensive (MOF) 2 NRW
+- TOP 32: Rückbau Kölner Straße zwischen Katternberger Straße und Birkerstraße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 4: Bauleitplanung Naturpark/ Hermann-Löns-Weg
+- TOP 5: Bauleitplanung Forststraße
+- TOP 6: Bauleitplanung Forststraße
+- TOP 7: Verschiedenes
+- TOP 8: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 9: Steuerung von Einzelhandel
