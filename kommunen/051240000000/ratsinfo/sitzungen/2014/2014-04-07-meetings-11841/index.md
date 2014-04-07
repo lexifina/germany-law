@@ -1,0 +1,60 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-04-07T16:02:00+02:00
+- Ende: 2014-04-07T20:22:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11841
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11841
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00167281.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00167689.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung - Stand: 31.03.2014 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00167472.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Döppersberg-Umbau Rückbaukosten - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Rückbaukosten bauzeitliche Verkehrsführung - Entgegennahme ohne Beschluss
+- TOP 2.2: Große Anfrage "Fortführung der Schulsozialarbeit in 2014" - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Beantwortung der Anfrage der FDP-Fraktion zur Fortführung der Schulsozialarbeit in 2014 - Entgegennahme ohne Beschluss
+- TOP 2.3: Inbetriebnahme Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Inbetriebnahme Kohlekraftwerk Wilhelmshaven - Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN - Entgegennahme ohne Beschluss
+- TOP 2.4: Große Anfrage "Sachstand Kraftwerk Wilhelmshaven" - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Sachstand Kraftwerk Wilhelmshaven - Antwort auf die Anfrage der FDP-Fraktion - Entgegennahme ohne Beschluss
+- TOP 2.5: Tagespflege in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Tagespflege in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Kinder – und Jugendförderplan 2010-2014 evaluieren - abgelehnt
+- TOP 4.2: Zukunft der Uni-Halle - Entgegennahme ohne Beschluss
+- TOP 4.2.1: Zukunft der Uni-Halle - Entgegennahme ohne Beschluss
+- TOP 4.3: Resolution "Landesregierung soll die geplante Änderung des KiBiz überarbeiten" - abgelehnt
+- TOP 4.4: Bundesregierung soll Kommunen unmittelbar entlasten - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.5: Entlastung der Kommunen durch den Bund fortführen - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.6: Resolution "Dauerhafte Sicherung der Schulsozialarbeit durch das Land" - abgelehnt
+- TOP 4.7: Dauerhafte Sicherung der Schulsozialarbeit - abgesetzt
+- TOP 4.8: Schulsozialarbeit sichern - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Geschäftsführerangelegenheiten der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1200 - Vogelsangstraße / Vogelsangbach - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1201 - Obere Lichtenplatzer Straße / Kothener Busch -
+- TOP 9.3: Bebauungsplan 896 - Berliner Straße / Wupperfelder Markt - 1. Änderung - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Private Investition im Rahmen der Neugestaltung Wuppertal Döppersberg - ungeändert beschlossen
+- TOP 11.2: Entscheidung über die Zulässigkeit des Bürgerbegehrens der Initiative "Döpps 105" - ungeändert beschlossen
+- TOP 11.3: Positionsbestimmung des zukünftigen Musiktheaters - Entgegennahme ohne Beschluss
+- TOP 11.3.1: Sondersitzung Kulturausschuss - abgelehnt
+- TOP 11.3.2: Fragen der Wählergemeinschaft v - Entgegennahme ohne Beschluss
+- TOP 11.3.2.1: Fragen der Wählergemeinschaft für Wuppertal zum Opernbetrieb - Entgegennahme ohne Beschluss
+- TOP 11.4: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 11.5: Annahme von Sachleistungen durch die Wuppertalbewegung für die Nordbahntrasse - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
