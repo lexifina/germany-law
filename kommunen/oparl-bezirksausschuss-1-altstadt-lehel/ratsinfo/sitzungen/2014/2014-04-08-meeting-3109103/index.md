@@ -1,0 +1,74 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-04-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109103
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109103
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstraße 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro-, Wohn- und Geschäftshaus, vertagt aus 2013.12 B 3.1.1, 2014.01 B 3.1.1, 2014.02 B 3.1.1, 2014.03 B 3.1.1
+- TOP .2.: Kreuzstr. 18, Aufstockung und Fassadenänderung durch Fenstereinbau im Erdgeschoss, vertagt aus 2013.03 B 3.1.6 (Bauherr in den Unterausschuss eingeladen)
+- TOP .3.: Viktualienmarkt 6, Nutzungsänderung des Auktionshauses in zwei Ladenflächen
+- TOP .4.: Viktualienmarkt, Unterstützung von Kellerdecken (Marktstände 3, 4, 5, 6, 10, 11, 12, 13, 14, 22, 23, 37, 38), Sanierung Marktstände 3, 4, 26, 27 sowie Zusammenlegung von 4 zu 2 Läden
+- TOP .5.: Neuturmstr. 1, Umbau Lobby, Restaurants, Küchen, Nebenflächen, technische Anlagen
+- TOP .2.1: Gaststätten
+- TOP .1.: Marienstr. 4, Gaststätte ?Buffet Kull?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Frauenstr. 34, ?Tranquillo?, Genehmigung einer Freischankfläche
+- TOP .2.: Rumfordstr. 41, Genehmigung eines mobilen Fahrradständers
+- TOP .3.: Sendlinger Straße, Fußgängerzone: 1. Evaluierung Freischankflächengestaltung etc. 2. Turnusplatz für Obst- / Gemüse-Verkauf 3. Turnusplatz für Werbeverkauf (vertagt aus 2013.12 D 2.2 / 2013.01 C 2.2.1, 2013.02 C.2.2.1, 2013.03 C 2.2.3)
+- TOP .4.: St. Anna-Str. 16, ?Leone?, Einzelhandel mit Kaffeeausschank, Genehmigung einer Freischankfläche
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: 36. Münchner Stadtlauf am 29.06.2014
+- TOP .2.: Japanfest am 20.07.2014 im Englischen Garten
+- TOP .3.: 6. Architekturwoche vom 16.05. bis 23.05.2014 in der Herzog-Wilhelm-Straße
+- TOP .4.: Lesung zum Gedenken an die Bücherverbrennung, 10.05.2014, sog. Odeonsplatz
+- TOP .5.: Aktionstag Gesundheit ?Rückendeckung? der Stadt München, 02.07.2014, Marienhof
+- TOP .6.: Karfreitagsprozession (18.04.), Auferstehungsfeier (19.04.), Salvatorplatz, Marienplatz
+- TOP 1: (E) Wiederherstellung der Treppe an der Praterinsel Empfehlung Nr. 08-14 / E 02143 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013
+- TOP 2: (E) Aufstellen eines großen Abfalleimers am Sebastiansplatz und am Jakobsplatz (Ziffer 1) Empfehlung Nr. 08-14 / E 02126 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013
+- TOP 2.1.: Verkehrsbehinderungen vor den Anwesen Unsöldstraße 10, 12 und 14
+- TOP 2.2.: Oettingenstr. 27, Antrag auf Baumfällung, 1 Kastanie
+- TOP 2.3.: Umbau der Blumen- / Pestalozzi- / Müllerstraße
+- TOP 2.4.: Absolutes Haltverbot mit Zusatzzeichen ?Anfahrtsbereich Notdienste? in der Seitzstr., Anhörung zu einer beabsichtigten verkehrsrechtlichen Anordnung des KVR
+- TOP 2.1.: (E) Budget der Bezirksausschüsse h+s veranstaltungen GmbH Veranstaltung ?Hörgang 2014? am 24.05.2014
+- TOP 2.1.: StadtLesen vom 24.04. bis 27.04.2014 auf dem sog. Odeonsplatz, vertagt aus 2014.03 C 3.1.7 (Veranstalter in den Unterausschuss eingeladen)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Änderung der Satzung für die Bezirksausschüsse, Beschluss der Vollversammlung vom 19.03.2014, Sitzungsvorlage Nr. 08-14 / V 14059
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum Empfehlung Nr. 08-14 / E 02081 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching vom 14.11.2013; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014; Sitzungsvorlage Nr.: 08-14 / V 14244
+- TOP 0.3.: Aufstellung eines Bebauungsplans für den Bereich der Tennisanlage Oettingenstr. / Tivolistr., BA-Antrag Nr. 08-14 / B 05451, Zwischennachricht des Planungsreferates
+- TOP 0.4.: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung, Beschlussvorlage für den Bauausschuss am 01.04.2014, Sitzungsvorlage Nr. 08-14 / V 13917
+- TOP 0.5.: Beschlussvollzugskontrolle, Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung, Bekanntgabe, Sitzungsvorlage Nr. 08-14 / V 14350
+- TOP 0.6.: Abdruck der Stellungnahme der Lokalbaukommission im Zustimmungsverfahren zum Bauvorhaben Lerchenfeldstr. 2, siehe auch 2014.03 B 3.1.4
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Freischankfläche Tal 7, ?Weisses Bräuhaus?
+- TOP 0.1.: Unterrichtungen ? Verkehr und Umwelt Verkehrsrechtliche Anordnungen: - Eingeschränktes Haltverbot in der Paradiesstraße vor dem Anwesen Lerchenfeldstr. 10
+- TOP 0.2.: Verkehrssituation im Tal ? Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen
+- TOP 0.3.: Siemens-Studie ?German Green City Index? darstellen, Beschlussvorlage Nr. 08-14 / V 014348 für Ausschuss für Stadtplanung und Bauordnung am 26.03.2014
+- TOP 0.4.: Englischer Garten, Lärmbelästigung und Müll im Umfeld (Antwort des Baureferat auf eine Bürgeranfrage aus der BA-Sitzung vom 21.01.2014; siehe Protokoll TOP A.3.4 2014.01)
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für die Bereiche ?Förderung freier Träger? des Stadtjugendamtes, (Sitzungsvorlage Nr. 08-14 / V 14048) Sozialreferats/Zentrale, (Sitzungsvorlage Nr. 08-14 / V 14007) Amtes für Soziale Sicherung, (Sitzungsvorlage Nr. 08-14 / V 14036) Amtes für Wohnen und Migration, (Sitzungsvorlage Nr. 08-14 / V 14082)
+- TOP 0.2.: Verwendungsnachweis Jacobi-Fest 2013
+- TOP 0.3.: Kunstprojekt ?Wohlstandsbank?, Zurückziehung des Budgetantrages an den BA
+- TOP 0.4.: Arbeits- und Lebenssituation von Menschen mit Behinderungen in der Landeshauptstadt München, Kurzbericht des Sozialreferates zur Studie 2013
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .3.2: Sonstige
