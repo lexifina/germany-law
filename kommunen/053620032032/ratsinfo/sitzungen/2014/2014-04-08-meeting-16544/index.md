@@ -1,0 +1,74 @@
+# Stadtrat (32. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-04-08T17:00:00+02:00
+- Ende: 2014-04-08T19:55:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZHoDT8iM4mrqv10mZk5npc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16544
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVk_W4Lzc4dR0No_GgY6qjXH-JQW104MfqZ2JzHgUC1k/Bekanntmachung_Stadtrat_08.04.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVvQMRVzs1-NOxIpw5qLBaDMQcUt2lzpVJfr4sVF7FuV/Oeffentliche_Niederschrift_Stadtrat_08.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Kosten- und Finanzierungsübersicht SEM Vogelrutherfeld
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 2. Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Stadt Kerpen
+- TOP 3.2: 7. Satzung zur Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen
+- TOP 3.3: Neufassung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bebauungsplan TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen 1. Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB 2. Teilaufhebung des Bebauungsplanes Nr. 18 und Aufhebung des Bebauungsplanes Nr. 18/3. Änderung
+- TOP 4.2: Bebauungsplan KE 353 "Nördlicher Rad/Gehweg K17", Stadtteil Kerpen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 4.3: Bebauungsplan KE 354 "Südlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 4.4: Bebauungsplan KE Nr. 338 "Hahnenpassage" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB und öffentliche Auslegung gem. § 3 (2) BauGB
+- TOP 4.5: 70. Änderung des Flächennutzungsplanes "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Stadtteil Sindorf - Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.6: Bebauungsplan SI 357 – "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Stadtteil Sindorf - Aufstellungsbeschluss
+- TOP 5.: Konzept zur Unterbringung von Asylbewerbern und Flüchtlingen
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Stellenplan 2014 hier: Umwandlung von bisher zeitlich befristeten Stellen in Dauerstellen für den Betrieb der städtischen Bäder
+- TOP 6.2: Zusätzliches Personal für den Zentralen Außendienst (ZAD) des Ordnungsamtes - (kein Text vorhanden)
+- TOP 6.3: Dienstanweisung für die Finanzbuchhaltung
+- TOP 6.4: Wiederbesetzung der Stelle der Leitung der örtlichen Rechnungsprüfung - Verfahren nach § 69 Abs. 6 des Landespersonalvertretungsgesetzes NRW -
+- TOP 7.: Sport, Freizeit und Kultur
+- TOP 7.1: Mitgliedschaft in der Musikschule La Musica - (kein Text vorhanden)
+- TOP 7.2: Ausstattung der Sportanlage Manheim-neu für den American-Football-Sport - (kein Text vorhanden)
+- TOP 8.: Hochbau, Gebäude- und Energiewirtschaft
+- TOP 8.1: Notwendige Erneuerung der Lüftungsanlage in der Turnhalle der Theodor-Heuss-Schule in Kerpen, Broichmühlenstraße 41-49
+- TOP 8.2: Jahresbericht 2012 für die Bäder der Kolpingstadt Kerpen
+- TOP 8.3: Ausschreibung der Stromlieferung für die städtischen Gebäude hier: Beschaffung von Ökostrom
+- TOP 9.: Kindertagesbetreuung, Schulen
+- TOP 9.1: 3. Kindertageseinrichtung im Vogelrutherfeld, Stadtteil Sindorf
+- TOP 9.1.1: Übernahme der Trägerschaft
+- TOP 9.1.2: Planung des Neubaus
+- TOP 9.2: Sicherstellung Rechtsanspruch durch vorgefertigte Systembauweise an der städt. Kindertageseinrichtung Spielkiste in Horrem
+- TOP 9.3: Sicherstellung Rechtsanspruch durch Einrichtung eines Waldkindergartens in Horrem
+- TOP 9.4: Beteiligung der Kolpingstadt Kerpen an einer Kommunalverfassungsbeschwerde zur Konnexitätsrelevanz des 9. Schulrechtsänderungsgesetzes NRW (Inklusion)
+- TOP 9.5: Planung der Kindertagesstätte für Manheim-neu • Prüfung des Bedarfs für die 3.Gruppe • Anbindung an das Wegenetz
+- TOP 10.: Jugend und Soziales
+- TOP 10.1: Entscheidung über die Zulassung der Wahlvorschläge für die Seniorenbeiratswahl 2014
+- TOP 10.2: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan vom 01.01.2015 bis 30.06.2015 im Rahmen einer Fixierung der bestehenden Haushaltsmittel
+- TOP 10.3: Kinder- und Jugendförderplan, Teil III und Teil IV hier: Gültigkeitsverlängerung bis zum 30.06.15
+- TOP 11.: Mittelbereitstellung für Kanalunterhaltung 2014
+- TOP 12.: Mittelbereitstellung für die Planerleistungen zur Sanierung der Erftlagune
+- TOP 13.: Außerplanmäßige Mittelbereitstellung für das Haushaltsjahr 2014 für die Erweiterung der medizin-technischen Beladung des Notarzteinsatzfahrzeuges
+- TOP 14.: Prioritätenliste für die Ersatzbeschaffung von Feuerwehrfahrzeugen - (kein Text vorhanden)
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Bewerbung um Fördergelder "Soziale Stadt NRW" für das Hochhaus Maastrichter Straße
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Neuvergabe der Konzessionen für das Strom- und Gasnetz sowie Gründung von Netzgesellschaften hier: Beschluss über die notwendigen Vertragswerke
+- TOP 20.: Bericht der GPA NRW vom 28.09.2012 über die überörtliche Prüfung der Eröffnungsbilanz der Stadt Kerpen
+- TOP 21.: Berichte der GPA NRW vom 21.12.2010 über die überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Kerpen sowie vom 19.03.2010 über die überörtliche Prüfung der Zahlungsabwicklung der Stadt Kerpen
+- TOP 22.: Sachstand Lörsfelder Hof (Ökohof)
+- TOP 23.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 24.: Mitteilungen
+- TOP 25.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 26.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
