@@ -1,0 +1,53 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-04-08T17:00:00+02:00
+- Ende: 2014-04-08T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZanIMvdr21E_HrKrZdleyvA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4293
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfBhauls8VHQQLkIA9BQRb9JQreO8AHsSOyd1rhUdmDO/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_08.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 33. Sitzung des Haupt- und Personalausschusses am 11.02.2014
+- TOP 3: Planungen Soziale Stadt - Nordstadt
+- TOP 4: Zentrum für verfolgte Künste
+- TOP 5: Beteiligungskultur weiterentwickeln und systematisieren
+- TOP 6: Umsetzung des Gesetzes zur Weiterentwicklung der politischen Partizipation in den Gemeinden
+- TOP 7: Umsetzung des Gesetzes zur Weiterentwicklung der politischen Partizipation in den Gemeinden
+- TOP 8: Satzung der Jugendfeuerwehr Solingen
+- TOP 9: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 10: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht NRW
+- TOP 11: Altersteilzeit beim Konzern Stadt Solingen
+- TOP 12: Personalpool für die Städtischen Kindertagesstätten
+- TOP 13: Personalpool für die Städtischen Kindertagesstätten
+- TOP 14: Videoüberwachung an Gefahrenpunkten
+- TOP 15: Verschiedenes
+- TOP 16: Verbeamtung von Tarifbeschäftigten
+- TOP 17: Notarzteinsätze
+- TOP 18: Betrieb der gemeinsamen integrierten Regionalleitstelle der Städte Solingen und Wuppertal
+- TOP 19: Bergische Entwicklungsagentur GmbH (BEA)
+- TOP 20: Qualitätsbericht 2013 der Feuerwehrleitstelle der Städte Solingen und Wuppertal
+- TOP 21: Unterausschuss Gender, Inklusion und Demografie
+- TOP 22: Anfrage unter Bezugnahme auf § 24 GO NRW des Vereines Gemeinsam Leben Lernen Solingen e. V. vom 25.10.2013
+- TOP 23: Zulässigkeit des Bürgerbegehrens
+- TOP 24: Zulässigkeit des Bürgerbegehrens
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 33. Sitzung des Haupt- und Personalausschusses am 11.02.2014
+- TOP 3: Bestellung des Leiters des Stadtdienstes Recht
+- TOP 4: Abschluss eines Vergleichs in einem Rechtsstreitverfahren der Stadt Solingen
+- TOP 5: Genehmigung von Gesellschafterbeschlüssen der Bergische Entwicklungsagentur GmbH (BEA)
+- TOP 6: Vorberatung der Gesellschafterversammlung der Bergische Gesellschaft für Ressourceneffizienz mbH (BGR) am 04.06.2014
+- TOP 7: Verschiedenes
+- TOP 8: Klageverfahren gegen die Firma Elektro Disch GmbH
+- TOP 9: Auswirkungen einer nicht durch Ratsbeschluss genehmigten Stelle
+- TOP 10: Vergabe § 21 (2) Hauptsatzung der Stadt Solingen
+- TOP 11: Vergabe § 21 (2) Hauptsatzung der Stadt Solingen
+- TOP 12: Vergabe § 21 (2) Hauptsatzung der Stadt Solingen
