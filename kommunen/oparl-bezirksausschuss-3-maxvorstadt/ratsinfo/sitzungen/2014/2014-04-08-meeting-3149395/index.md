@@ -1,0 +1,93 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149395
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149395
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 9., 10, 11. und 12. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 8., 9., KW
+- TOP 2.1.3.: Schwindstraße 15, Aufstockung und Umbau Vordergebäude und Rückgebäude, Anbau eines Aufzugs und einer Balkonanlage
+- TOP 2.1.4.: Karlstraße 36, Neubau eines Rückgebäudes sowie Umbau und Sanierung des Bestan- des (Karlstraße 36), Umbau und Erweiterung der Tiefgarage (Karlstraße 36/Luisenstraße 25 und 27)
+- TOP 2.1.5.: Türkenstraße 91 ? 95, Nutzungsänderung von Wohnen in Büro, Dachgeschossausbau, bauliche Änderungen Kino, Wohnungszusammenlegung, Tektur
+- TOP 2.1.6.: Türkenstraße 52, Umbau und Nutzungsänderung: Ladenfläche zu Gastronomie (Bar)
+- TOP 2.1.7.: Schraudolphstraße 1,Abbruch und Wiederaufbau eines Schulungs- und Bürogebäudes sowie Anbauten (Südseite) - Vorbescheid
+- TOP 2.1.8.: Königinstraße 9 ? 11, Veränderung der Dachform an den inneren Giebelwänden, Errich- tung von Gauben und energetische Sanierung (HausNr. 9, 9a und 11 VGB), teilweise Neuaufteilung Erdgeschoss bis 4. Obergeschoss (HausNr. 9 n und 9 a), Umbau im Ber- reich SW-Ecke Erdgeschoss bis 3. Obergeschoss und teilweise Neuaufteilung 4. Oberge- schoss sowie Abbruch des zwei- und Neuerrichtung des fünfgeschossigen Zwischen- baus (HausNr. 11)
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Zieblandstraße 28 Neubau eines Mehrfamilienhauses und Abbruch einer Garagenanlage
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Königinstraße 5, 2 Robinien
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Anhörung Verbreiterung des Gehweges und Schaffung eines Radweges in der Dachauer Straße stadteinwärts zwischen Lori- und Sandstraße Empfehlung Nr. 08-14 / E 02013 der Bürgerversammlung des Stadtbezirkes 3 Maxvor- stadt am 17.10.2013 Sitzungsvorlage Nr. 08-14 / V 13833
+- TOP 2.1.2.: Baureferat, Anhörung Neugestaltung der Verkehrssituation in der Tengstraße Empfehlung Nr. 08-14 / E 02005 der Bürgerversammlung des Stadtbezirkes 3 Maxvor- stadt am 17.10.2013 Sitzungsvorlage Nr. 08-14 / V 13720
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Theresienstraße 71, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Augustenstraße 66/68, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.3.: Kreittmayrstraße 5, Mobiler Fahrradständer
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Neureutherstraße 8 Verlegung der Teilfläche einer Freischankfläche
+- TOP 2.3.2.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Neureutherstraße 1 Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Anhörung Straßenfest zum Tag des Bayerischen Bieres am 23.04.2014
+- TOP 2.4.2.: Kreisverwaltungsreferat, Anhörung Spieleaktion ?Spielen in der Stadt e.V.? 19. bis 20.05.2014 im Maßmannpark
+- TOP 2.4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Veranstaltung auf öffentlichem Verkehrsgrund: 36. Münchner Stadtlauf 2013 am 29.06.2014
+- TOP 2.4.4.: Kreisverwaltungsreferat, Anhörung TUNIX Open-Air vom 23. bis 28.06.2014
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Direktorium, Budget Antrag des Vereins La Foret Magique ? Der Zauberwald e.V., Ausstattung eines Turn- raumes Beschluss des BA 3 Maxvorstadt vom 10.12.2013 Verlängerung des Bewilligungszeitraumes und geänderter Kostenvoranschlag
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Ludwig-Maximilian-Universität München Dokumentation der Maxvorstädter Vorlesungen sowie Ausstellung in der U-Bahn-Galerie ?Universität? von Mitte April bis Mitte Mai
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Theta e.V. Lesetheater ?Die letzten Tage der Menschheit? im September 2014
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Friedhelm Schnitzler Musikstiftung Konzert am 28.12.2014
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Einrichtung Spielhaus Sophienstraße Erstellung eines Audioguides für den Alten Nördlichen Friedhof von Mai bis Juli 2014
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Baureferat Gartenbau, Beschlussvorlage Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Ver- kehrsbegleitgrün und Schaffung von Stellplätzen für Bienen Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013 Beschluss des Bauausschusses vom 04.02.2014 Sitzungsvorlage Nr. 08-14 / V 13354
+- TOP 1.2.: Baureferat Hochbau, Beschlussvorlage Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung Antrag Nr. 02-08 / A 02368 der SPD-Stadtratsfraktion vom 15.03.2005 und Antrag Nr. 02-08 / B 02578 des BA 3 Maxvorstadt vom 13.11.2007 Beschluss des Bauausschusses vom 01.04.2014 Sitzungsvorlage Nr. 08-14 / V 13917
+- TOP 1.3.: Baureferat Tiefbau, Beschlussvorlage Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064: Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße ? Siemens-Konzernzentrale ? Wiederherstellung und Aufwertung der öffentlichen Straßen und Grünfläche nach der Hochbaumaßnahme Beschluss des Bauausschusses vom 01.04.2014 Sitzungsvorlage Nr. 08-14 / V 13978
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Siemens-Studie ?German Green City Index? darstellen Antrag Nr. 08-14 / A 02963 der CSU-Stadtratsfraktion vom 06.12.2011 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 Sitzungsvorlage Nr. 08-14 / V 14348
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Beschlussvorlage Bürgerbeteiligung bei Platzgestaltungen ? fünf Plätze attraktiv neu gestalten Platzgestaltung des Verkehrsraums am Gasteig vor den Museumslichtspielen, zwischen Rosenheimer Straße, Lilienstraße und Zeppelinstraße Antrag Nr. 08-14 / B 05542 des BA 5 Au-Haidhausen vom 22.01.2014
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einbahnregelung in der Blutenburgstraße wegen Verlegen einer Fernwärmeleitung
+- TOP 2.3.: Kreisverwaltungsreferat, Verkehrsmanagement Anfrage des BA 3 an das Kreisverwaltungsreferat vom 14.02.2014 Radfahrstreifen in der Von-der-Tann-Straße und Aufhebung der Radwegbenutzungs- pflicht am Oskar- von-Miller-Ring und Freigabe des Gehweges auf der Ostseite des Os- kar-von-Miller-Ringes zwischen Brienner Stsraße und Jägerstraße mit dem Zuatz ?Rad- fahrer frei? Antwortschreiben des Kreisverwaltungsreferates vom 03.03.2014
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Umzug des Narrhalla Prinzenwagens in der Innenstadt am 04.03.2014, Genehmigungs- bescheid
+- TOP 2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für den Festumzug zum St. Patrick's Day und Fest am sog. Odeons- platz am 16.03.2014
+- TOP 2.7.: Baumaßnahmen der Stadtwerke a) Ottostraße 4, Fernwärme
+- TOP 2.8.: Mehr Parkplätze in der Königinstraße
+- TOP 2.9.: Direktorium Treffpunkt Augustenstraße ? attraktive Straßenraumgestaltung für das Nahbereichszen- trum in der Maxvorstadt Antrag Nr. 08-14 / A 05231 der Stadtratsfraktion Die Grünen/RL vom 11.03.2014
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Sozialreferat, Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für a) Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 Sitzungsvorlage Nr. 08-14 / V 14007 b) Bereich ?Förderung freier Träger des Amtes für Soziale Sicherung Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Ju- gendhilfeausschusses und des aozialausschusses vom 25.03.2014 Sitzungsvorlage Nr. 08-14 / V 14036 c) Bereich ?Förderung freier Träger? des Stadtjugendamtes Beschluss des Kinde- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 Sitzungsvorlage Nr. 08-14 / V 14048 d) Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum Empfehlung Nr. 08-14 / E 02081 der Bürgerversammlung des Stadtbezirkes 18 ? Unter- giesing -Harlaching am 14.11.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 Sitzungsvorlage Nr. 08-14 7 V 14244
+- TOP 3.3.: Auskunft über ungenutzte Wohnungen in städtischem Eigentum in der Maxvorstadt
+- TOP 4: Kultur
+- TOP 4.1.: Errichtung einer Gedenktafel für die Kunsthändlerfamiie Heinemann am Anwesen Lenbachplatz 5-6
+- TOP 4.1.: Direktorium, Unterrichtung Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Beschluss des Verwaltungs- und Personalausschusses vom 05.02.2014 Sitzungsvorlage Nr. 08-14 / V 13400
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
