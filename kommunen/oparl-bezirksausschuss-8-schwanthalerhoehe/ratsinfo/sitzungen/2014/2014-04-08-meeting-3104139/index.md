@@ -1,0 +1,51 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3104139
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3104139
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Tauben an der Donnersbergerbrücke
+- TOP 4.2.: Kindertagesstätte St. Rupert
+- TOP 4.3.: Abriss Theresienhöhe 16
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Landsberger Str. 110
+- TOP 5.3.: Grundstück Theresienhöhe / Hans-Fischer-Straße
+- TOP 5.4.: Öffentliche Toiletten in Litfaßsäulen
+- TOP 5.5.: Anhörung: Ligsalzstr. 29
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Errichtung einer sprengelübergreifenden Ganztagsschule
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Festival der Marionetten auf dem Georg-Freundorfer-Platz
+- TOP 8.2.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 8.3.: Zwischennachricht Sportplatz Kazmairwiese
+- TOP 8.4.: Heizpilze Trappentreustr. 31
+- TOP 8.5.: Anhörung: Ökumenischer Gottesdienst Am Bavariapark
+- TOP 8.6.: Anhörung: Spielaktionen 2014
+- TOP 8.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmungserweiterung eines Teilbereichs des Gollierplatzes (Südseite) - <div>Abweichung von Referentenvorl.</div>
+- TOP 8.8.: Anhörung: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Tulbeckstr. 25
+- TOP 8.9.: Fällerlaubnis für eine Korkenzieherweide auf dem Grundstück Ligsalzstr. 23
+- TOP 8.10.: Anhörung: Straßenfest in der Tulbeckstraße am 19.07.2014
+- TOP 8.11.: Anhörung: ePROJEKT am 17.05.2014 auf dem Freigelände vor dem Deutschen Museum Verkehrszentrum
+- TOP 8.12.: Anhörung: Bladenight 2014
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse CHOSSYs WunderKammerMusik WunderKammerMusik-Konzert am 17.10.2014 - <div>abweichend</div>
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Termin der konstituierenden Sitzung
+- TOP 11.2.: Anhörung: Rede- und Antragsrecht für Elternbeiräte auf Bürger- und Einwohnerversammlungen
+- TOP 11.3.: Einladung REGSAM-Fachtag Sinti und Roma am 12.05.
+- TOP 12: Protokoll und Umlauf
