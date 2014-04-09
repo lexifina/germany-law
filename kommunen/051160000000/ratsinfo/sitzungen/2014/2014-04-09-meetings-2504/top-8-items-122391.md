@@ -1,0 +1,8 @@
+# TOP 8: Bürgerantrag Brücke Bungtbach
+
+- Sitzung: Bezirksvertretung Süd (2014-04-09)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/122391
+- Ergebnis: Mit Stimmenmehrheit beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/17747
