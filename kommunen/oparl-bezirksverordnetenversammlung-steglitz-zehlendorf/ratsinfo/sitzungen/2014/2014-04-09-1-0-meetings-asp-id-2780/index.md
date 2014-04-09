@@ -1,0 +1,67 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-04-09T17:00:00+02:00
+- Ende: 2014-04-09T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2780
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2780
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Flüchtlingsunterkünfte - beantwortet
+- TOP 3.2: Teilnahme privatwirtschaftlicher Unternehmen am "Girl´s Day" 2014 - beantwortet
+- TOP 3.3: Ersetzung der Stadtjäger durch Polizisten - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung einer Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl einer Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Wirtschaft, Personal und Europa - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Bildung, Kultur und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Wahl einer Schiedsperson für den Schiedsamtsbezirk 3 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Wahl einer Schiedsperson für den Schiedsamtsbezirk 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.6: Wahl einer Schiedsperson für den Schiedsamtsbezirk 7 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Aktive Einbindung in den Reformprozess der Berliner Bäder-Betriebe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Residenzpflicht für Asylbewerber und Asylbewerberinnen für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Informationsstele zum Denkmal auf dem Gelände des KZ-Außenlagers Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Verkehrssituation im Komponistenviertel in Lankwitz entspannen - in der BVV abgelehnt
+- TOP 4.4.4: Durchfahrtsbreitenverbote umstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Benennung eines namenlosen Platzes nach Hedwig und Georg Flatow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Gedenkveranstaltung zum 09.11.1989 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Schulentwicklungsplanung überarbeiten - in der BVV abgelehnt
+- TOP 4.4.8: Verkehrsinsel Drakestraße auch bei Dunkelheit erkennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Knoten Morgensternstraße/Königsberger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Erhöhte Frequenz der Abfahrtzeiten des 112er-Busses ab Station Zehlendorf Eiche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Wannseefähre "Lichterfelde" als Restaurantschiff - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Lichtzeichenanlage Machnower Straße Ecke Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Fahrradstreifen im Kreuzungsbereich von Schildhorn-/ Lepsiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Gründung einer neuen Grundschule im Ortsteil Steglitz, Drakestr. 80, 12205 Berlin, zum Schuljahr 2014/15 sowie Schließung der Paul-Braune-Schule auf der Grundlage des Schulkonferenzbeschlusses vom 20.01.2011 zum 31.07.2014 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Radstreifen für die Schorlemerallee - überwiesen
+- TOP 5.1.2: Gedenkveranstaltung zum 25. Jahrestag der Deutschen Einheit am 3. Oktober 2015 auf der Dorfaue Lankwitz - überwiesen
+- TOP 5.1.3: Ausreichende Abstellmöglichkeiten für Fahrräder am S-Bahnhof Feuerbachstraße schaffen - überwiesen
+- TOP 5.1.4: QR-Codes für historische Orte - überwiesen
+- TOP 5.1.5: Bring- und Holzone für die Giesensdorfer-Grundschule - überwiesen
+- TOP 5.1.6: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 5.1.7: Naturerlebnis Grunewald bewahren - überwiesen
+- TOP 5.1.8: Teilstück einer preußischen Magistrale erhalten - überwiesen
+- TOP 5.1.9: Vernetzung der integrativen Arbeit der Berliner Bezirke - überwiesen
+- TOP 5.1.10: Weniger Wahlplakate in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.11: Baumdreieck zur Wiedervereinigung würdigen - überwiesen
+- TOP 6: Anträge - erledigt
+- TOP 6.1: Fahrradführung RR1 Löhleinstraße/Brümmerstraße - überwiesen
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Brümmerstraße Fahrradstraße! - in der BVV abgelehnt
+- TOP 8: Dringlichkeiten - erledigt
+- TOP 9: Schlusswort des Vorstehers - erledigt
