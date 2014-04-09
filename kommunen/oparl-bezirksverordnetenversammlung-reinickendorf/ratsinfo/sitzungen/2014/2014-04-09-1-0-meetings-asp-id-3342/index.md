@@ -1,0 +1,108 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-04-09T17:05:00+02:00
+- Ende: 2014-04-09T19:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3342
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3342
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=76535
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.1: Zukunft des Berufsstandes der freiberuflichen Hebammen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 29. Sitzung der BVV am 09.04.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 29. Sitzung der BVV am 09.04.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 29. Sitzung der BVV am 09.04.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorklärwerke für Frohnauer Teiche (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Bürgerhaushalt in Reinickendorf einführen - überwiesen
+- TOP 7.3: Waldweg an der B96 freilegen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Grünpflege durch Beweidung (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Brücke Ernststraße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Aktive Stadtzentren einrichten (Zwischenbericht) - überwiesen
+- TOP 7.7: "Schrottimmobilien" verhindern - Baugesetzbuch reformieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Kiefheider Weg (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Neue Planungen zur Tegeler Hafeninsel öffentlich in Tegel vorstellen (Zwischenbericht) - überwiesen
+- TOP 7.10: Bebauung der Insel im Tegeler Hafen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Rent-A-Bike in Reinickendorf (Zwischenbericht) - überwiesen
+- TOP 7.12: Hinweis auf Radfahrer an der B96 (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Beleuchtung Rue Lamartine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Fußgängerüberwege für einen sicheren Schulweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Informationsveranstaltung für Betreiber von Pflegeeinrichtungen - überwiesen
+- TOP 7.16: Austausch mit Sozialstationen - überwiesen
+- TOP 7.17: Einmündungssituation Thaterstr. Ecke Residenzstr. verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Verkehrssicherheit an der Familienfarm Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Luft- und Lärmmessstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.21: Anwendung von PFA anstelle von Kaltasphalt bei Schlaglöchern erproben! (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.22: Aufklärungsangebote zum Thema "sexuelle Gewalt an Kindern" verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Count-Down-Ampel auch in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.24: BVG Anzeigetafeln in Frohnau instandsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Ausschilderung Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Sicherer Schulweg für die Ellef-Ringnes-Grundschule auch in 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Grünphase für Fußgänger verlängern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.28: Ruppiner Chaussee für Radfahrer und Fußgänger freigeben - überwiesen
+- TOP 7.29: Städtebauförderungsprogramm Aktive Stadtzentren - überwiesen
+- TOP 7.30: Tätigkeitsbericht der Gleichstellungsbeauftragten für den Zeitraum vom 01.01.2013 bis 31.12.2013 - überwiesen
+- TOP 7.31: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldtklinikum (somatischer Bereich) für den Zeitraum 01.01.2013 bis 31.12.2013 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Europa in Reinickendorf - beantwortet
+- TOP 8.2: Kommunale Integrationsarbeit - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Elektrobuslinie auch in Reinickendorf einführen - erledigt
+- TOP 10.2: Smiley-System auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Radfahrerschutz auf der Ruppiner Chaussee - erledigt
+- TOP 10.4: Schneebeseitigung auf den Gehwegen vor den Grundstücken Waidmannsluster Damm 155, 157, 161 und 163-167 sicherstellen! - erledigt
+- TOP 10.5: Illegalen Müllabwurf an der Burgfrauenstraße stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Drs. Nr. 0618/XIX "Öffentlicher Bücherschrank auch in Reinickendorf" - siehe TOP 12.8 - (offen)
+- TOP 10.7: Keine Tabakwerbung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Beschluss des Bebauungsplanentwurfs 12-42B vom 10. Oktober 2012 mit Deckblatt vom 28. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-42B für die Grundstücke Ludolfingerplatz 1 / 9, 2 / 8A, Welfenallee 1 / 7, 6 / 8, Karmeliterweg 3 - 4a, 6B (teilweise), Sigismundkorso 1, 2, 87, Ludolfingerweg 2 / 4, 5 / 5A, Maximiliankorso 1 - 3, 74 / 74A, 76 sowie Gralsburgsteig 4 / 6 im Bezirk Reinickendorf, Ortsteil Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Beschluss des Bebauungsplanentwurfs 12-32B vom 1. März 2011 mit Deckblatt vom 26. November 2013 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanentwurfs 12 32B für das Gelände zwischen Bernstorffstraße, Buddestraße, Grußdorfstraße und Berliner Straße sowie für die Grundstücke Grußdorfstraße 12 - 19, Am Buddeplatz 1, Brunowstraße 8, 9, 11, 12, 14 und 51 - 55, Schlieperstraße 8 – 10, 12, 13 und 73 - 74 u.v.m. im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Ausweich-Sporthallen - erledigt
+- TOP 10.11: Siedlung "Am Steinberg" - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Sitzgelegenheiten vor der Humboldt-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Einrichtung eines Halteverbotes Alemannenstraße / Maximiliankorso - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Sichere Straßenquerung Calauer Straße / Senftenberger Ring - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Pilotprojekt verschlüsselte E-Mail-Kommunikation mit der Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Grundschulneubau zukunftsweisend planen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Angebot an Willkommensklassen in Reinickendorf erhöhen - erledigt
+- TOP 10.18: Ständig besetzte U-Bahnhöfe mit Servicekräften auch in Reinickendorf! - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Sicherer Schulweg für Heiligenseer Schüler 1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Sicher zur Schule und zum Einkaufen! - in der BVV abgelehnt
+- TOP 10.21: Geschwindigkeitskontrollen 1 - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Geschwindigkeitskontrollen 2 - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Schulen besser informieren - in der BVV abgelehnt
+- TOP 10.24: Anbringung von Display-Monitoren - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Bürgerbeteiligung mit Hilfe des Internets - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Wegbeleuchtung zwischen Genfer Straße bis zur Seniorenresidenz Domicil Thaterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: "Mobiles Learning Center" auch nach Reinickendorf - überwiesen
+- TOP 12.3: Sportangebote für Flüchtlinge im Bezirk Reinickendorf - überwiesen
+- TOP 12.4: Interkultureller Garten in Reinickendorf - überwiesen
+- TOP 12.5: Baumschutz an der Ruppiner Chaussee - überwiesen
+- TOP 12.6: Umleitungsstrecken ertüchtigen - überwiesen
+- TOP 12.7: Beitritt Berliner Charta für die Verkehrssicherheit - überwiesen
+- TOP 12.8: Öffentlicher Bücherschrank auch in Reinickendorf - überwiesen
+- TOP 12.9: Flüchtlingsarbeit unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Erwachsenenlotsen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Verkehrssicherheit in Hermsdorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Strandbad Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Lieferverkehr am Waidmannsluster Damm - Rückstau vermeiden - überwiesen
+- TOP 13.3: Straßenbeleuchtung Alter Bernauer Heerweg - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Abfahrtszeiten anzeigen - überwiesen
+- TOP 13.5: Einrichtung von Willkommensklassen unterstützen! - überwiesen
+- TOP 13.6: Keine Rücknahme der Verkehrseinschränkungen in der Straße Alt-Lübars zwischen Quickborner Straße und Zabel-Krüger-Damm - überwiesen
