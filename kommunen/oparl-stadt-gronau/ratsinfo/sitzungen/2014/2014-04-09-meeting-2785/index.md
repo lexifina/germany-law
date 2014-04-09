@@ -1,0 +1,52 @@
+# Rat (50. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2014-04-09T18:00:00+02:00
+- Ende: 2014-04-10T22:38:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWM_AGzkumEp5K75wti_oeE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2785
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaT0SfKmL-lV_643CPBzK69BGqIi-oWrhbFCJVryEmit/Bekanntmachung_Rat_09.04.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbCNSp7THTbFU1mWful1quP58iZAGYFLTK_rf21mkbBm/Oeffentliche_Niederschrift_Rat_09.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Bestellung einer Schriftführerin für den Rat - Einstimmig, 0 Enthaltungen
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Niederschrift vom 26.03.2014
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Sachstandsbericht zum Thema Kleinspielfelder an der Bernhard-Overberg-Schule sowie der Martin-Luther-Schule Antrag der Fraktion Pro!Bürgerschaft vom 29.03.2014 - Ohne Abstimmung
+- TOP 5.2: Aktuelle Situation der Unterkünfte für Asylsuchende; Antrag der GAL-Fraktion vom 31.03.2014 - Einstimmig, 1 Enthaltungen
+- TOP 5.3: Parkraumbewirtschaftung; Antrag der GAL-Fraktion vom 31.03.2014 - Einstimmig, 0 Enthaltungen
+- TOP 5.4: Tempo 30 in der Straße „Zum Lukaskrankenhaus“; Antrag der GAL-Fraktion vom 31.03.2014 - 41 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 5.5: Grünraumschutz in Gronau; Antrag der GAL-Fraktion vom 31.03.2014 - 18 Jastimmen, 23 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Leitfaden für die Benennung und Umbenennung von Straßen, Wegen, Plätzen und Gebäuden in der Stadt Gronau - 36 Jastimmen, 2 Neinstimmen, 3 Enthaltungen
+- TOP 7.: Zusatzbezeichnung der Stadt Gronau als "Musikstadt" - Einstimmig, 0 Enthaltungen
+- TOP 8.: Konzept zur Bewirtschaftung von kommunalen Wirtschaftswegen in Gronau (Stand Februar 2014) - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beteiligung an einer Kommunalverfassungsbeschwerde gegen das Erste Gesetz zur Umsetzung der VN-Behindertenrechtskonvention in den Schulen (9. Schulrechts-änderungsgesetz) - Einstimmig, 2 Enthaltungen
+- TOP 10.: Öffentlichkeitsbeteiligung zum Entwurf der Flughafenverordnung für den Flughafen Twente vom 7.März bis zum 17.April 2014 - 36 Jastimmen, 3 Neinstimmen, 1 Enthaltungen
+- TOP 11.: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Gronau (Westf.) - Einstimmig, 3 Enthaltungen
+- TOP 11.1: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 12.: Mitteilungen der Verwaltung
+- TOP 12.1: Termin Jugendhilfeausschuss
+- TOP 12.2: Raumsituation Gymnasium
+- TOP 12.3: Doetkottenweg
+- TOP 13.: Anfragen
+- TOP 13.1: Raumsituation Gymnasium (Anfrage von RM Pieper)
+- TOP 13.2: Sachstand Hertie (Anfrage von RM Gabbe)
+- TOP 13.3: Sachstand neue Baugebiete (Anfrage von RM Arends)
+- TOP 13.4: Radwegekonzept (Anfrage von RM Buchholz)
+- TOP 13.5: Wachtelfarm (Anfrage von RM Buchholz)
+- TOP 13.6: Morgensternsiedlung (Anfrage von RM Krause)
+- TOP 13.7: Berichtswesen Nebentätigkeit (Anfrage von RM Krause)
+- TOP 13.8: Wochenmärkte (Anfrage von RM Krause)
+- TOP 13.9: Parksituation Losserstraße (Anfrage von 1. Stellv. BM Doetkotte)
+- TOP 13.10: Geruchsbelästigung (Anfrage von 1. Stellv. BM Doetkotte)
+- TOP 13.11: Raumsituation Gymnasium (Anfrage von RM Adamsky)
+- TOP 13.12: Förderung "Frühe Hilfen" (Anfrage von RM Rörick)
+- TOP 13.13: Tierpatenschaften (Anfrage von RM Breuer)
