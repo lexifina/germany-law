@@ -1,0 +1,108 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-04-10T14:00:00+02:00
+- Ende: 2014-04-10T22:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8430
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8430
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00215101.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00215101.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00215101.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktionen von CDU und FDP: Düsseldorf - eine Stadt der inklusiven Bildung - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion FREIE WÄHLER: Suizide in der Alten- und Krankenpflege - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion FREIE WÄHLER: Betriebsstörungen im Liniennetz der Rheinbahn - schriftlich beantwortet
+- TOP 4.4: Anfrage des Rh Krüger: Beteiligungskultur in der integrierten Stadtverwaltung - schriftlich beantwortet
+- TOP 4.5: Anfrage des Rh Krüger: Rückstände der Stadt Düsseldorf bei der Spitzabrechnung der Zuschüsse des LV - schriftlich beantwortet
+- TOP 4.6: Anfrage der Rf El Fassi: Erneuerung der Zugsicherungstechnik der Rheinbahn - schriftlich beantwortet
+- TOP 4.7: Anfrage der Rf El Fassi: Gedenkstätte Derendorfer Rampe - schriftlich beantwortet
+- TOP 4.8: Anfrage des Ratsherrn Dr en jur. (BOL) Kirchner: Verschuldung und Netto-Finanzposition der Stadt Düs - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Dr. en jur. (BOL) Kirchner: Erzielte Steuereinnahmen bis Ende März 2014 - schriftlich beantwortet
+- TOP 4.10: Anfrage Die Linke: Abschiebungen 2013 - schriftlich beantwortet
+- TOP 4.11: Anfrage Die Linke: Auswirkungen des EU-USA Freihandelsabkommens auf Düsseldorf - schriftlich beantwortet
+- TOP 4.12: Anfrage Bü90-Grü: Diamorphingestützte Behandlung in Düsseldorf - schriftlich beantwortet
+- TOP 4.13: Anfrage Bü90-Grü: Sponsoring im Sport - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Kraft-Dlangamandla: Sozialticket in Düsseldorf - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Yimbou: Mehreinnahmen durch städtische BetriebsprüferInnen - schriftlich beantwortet
+- TOP 4.16: Anfrage von Ratsfrau Hebeler: Clearingstelle für unbegleitete minderjährige Flüchtlinge - schriftlich beantwortet
+- TOP 4.17: Anfrage Rh Wolf: Bildungssituation von Zuwanderungskindern aus Südosteuropa - schriftlich beantwortet
+- TOP 4.18: Anfrage RH Blanchard: Sanierung der Wohnungen an der Hammer Dorfstraße - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 7: Jahresabschluss 2012 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 8: Übertragene Ermächtigungen von 2013 nach 2014 - zur Kenntnis genommen
+- TOP 9: Informationen zum vorläufigen Jahresabschluss 2013 - einstimmig beschlossen
+- TOP 10: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - einstimmig beschlossen
+- TOP 11: Zweckverband Verkehrsverbund Rhein Ruhr-Finanzierungsübertragung für die Abwicklung der ÖPNV-Pauscha - einstimmig beschlossen
+- TOP 12: Umsetzung des neuen Sicherheits- und Brandschutzkonzeptes im Rheinalleetunnel – langfr. Maßnahmen - einstimmig beschlossen
+- TOP 13: Sportanlage Nagelsweg Kunstrasen AFB - einstimmig beschlossen
+- TOP 14: Kaiserswerther Straße 390, Verwaltungsgebäude des Garten-, Friedhofs- und Forstamtes, Sanierung - Be - einstimmig beschlossen
+- TOP 15: Brehmstraße 27a, Eisstadion – Erneuerung der Kälteanlage und Sanierung des Maschinenraumes - Bedarfs - einstimmig beschlossen
+- TOP 16: Karlstraße / Worringer Straße - Radweg - einstimmig beschlossen
+- TOP 17: Immigrather Straße 45, Stadtteiltreff Wersten – Neubau - einstimmig beschlossen
+- TOP 18: KöBogen 2.BA - mehrheitlich beschlossen
+- TOP 18.1: Ergänzungsantrag der Ratsfraktionen von CDU und FDP: Kö-Bogen 2.BA - mehrheitlich beschlossen
+- TOP 18.2: ÄA Die Linke: Kö-Bogen, 2. BA - mehrheitlich abgelehnt
+- TOP 19: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung 2012 - einstimmig beschlossen
+- TOP 20: Kom!ma, Verein für Frauenkommunikation - einstimmig beschlossen
+- TOP 20.1: ÄA Die Linke: Kom!ma - mehrheitlich abgelehnt
+- TOP 21: Chancengleichheitsplan - Plan zur beruflichen Chancengleichheit von Frauen und Männern - mehrheitlich beschlossen
+- TOP 21.1: Erg.Antrag Bü90-Grü: Chancengleichheitsplan - mehrheitlich beschlossen
+- TOP 22: ÖGDG NRW Rat Satzung Entscheidung Einnahmen Gebühren Entgelte Gesundheit - einstimmig beschlossen
+- TOP 23: örV zur 115 mit Kaarst - einstimmig beschlossen
+- TOP 24: Annahme einer Schenkung des Fördervereins Kaiserpfalz Kaiserswerth e.V. und Aufstellung der Skulptur - einstimmig beschlossen
+- TOP 25: Theatermuseum - Schenkung Nachlass Prof. Dr. Volker Canaris - einstimmig beschlossen
+- TOP 26: Bibliothekarischer Beirat der ekz.bibliotheksservice GmbH - Neuwahl - - einstimmig beschlossen
+- TOP 27: Wiederbestellung des Vorsitzenden des Gutachterausschusses für Grundstückswerte in der Landeshauptst - einstimmig beschlossen
+- TOP 28: Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 29: Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 30: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 31: Neuwahl einer Schiedsmannes - einstimmig beschlossen
+- TOP 32: Wiederwahl der Schiedsfrau Carola Krüger - einstimmig beschlossen
+- TOP 33: Wiederwahl des Schiedsmannes Bartholomä Kohler - einstimmig beschlossen
+- TOP 34: Wiederwahl des Schiedsmannes Dietmar Schwabe-Werner - einstimmig beschlossen
+- TOP 35: Bestellung des beratenden Mitgliedes des Jugendrates im Kulturausschuss - einstimmig beschlossen
+- TOP 36: Vorhabenbezogener B-Plan Entwurf Nördlich Westfalenstraße - mehrheitlich beschlossen
+- TOP 37: FNP-Änderung Nr. 156 - Graf-Recke-Stiftung - - mehrheitlich beschlossen
+- TOP 38: BPlan 05/001 - Graf-Recke-Stiftung - Stellungnahmen, Änderungen in roter Farbe, Satzung - einstimmig beschlossen
+- TOP 39: B-Plan 09/005 - Nördlich Henkelstraße - Änderung gem. § 13 BauGB, Stellungnahmen; Änderungen in rote - einstimmig beschlossen
+- TOP 40: B-Plan 04/008 Beim Dorf Änderung gem. § 13 BauGB, Stellungnahmen, Ergänzungen in roter Farbe, Satzun - einstimmig beschlossen
+- TOP 41: B-Pan-Entwurf 09/007 - westl. Kleinstr. Änderungen Satzung - einstimmig beschlossen
+- TOP 42: Plan Nr. 03/009 - Oberbilker Allee/Ringelsweide - Veränderungssperre - einstimmig beschlossen
+- TOP 43: Plan-Nr.: 09/008 - Forststraße/ Hasselsstraße - Veränderungssperre - einstimmig beschlossen
+- TOP 44: Pl 5576/085-Innenstadt Vergn.stätten-1.Verl.VÄ - einstimmig beschlossen
+- TOP 45: Anträge
+- TOP 45.1: Antrag Freie Wähler: : Kunstakademie an den Hilarius-Gilges-Platz - mehrheitlich abgelehnt
+- TOP 45.2: Antrag CDU und FDP: Kunst- und Kulturachsen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 45.2.1: ÄA SPD: Kunst- und Kulturachsen in der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 45.3: Antrag CDU und FDP:Schaffung Archiv- und Depotzentrums der Landeshauptstadt Düsseldorf an der - einstimmig beschlossen
+- TOP 45.4: Antrag CDU und FDP: Mehr Lärmschutz für die Anwohner der Güterzugstrecke Rath/Eller - einstimmig beschlossen
+- TOP 45.4.1: ÄA Bü90/Grü: Mehr Lärmschutz für die Anwohner der Güterzugstrecke Rath/Eller - mehrheitlich abgelehnt
+- TOP 45.4.2: ÄA SPD und BÜ90/GRÜ: Kö-Bogen II - zurückgezogen
+- TOP 45.5: Antrag FDP und CDU: Kö-Bogen II - zurückgezogen
+- TOP 45.6: Antrag der Ratsfraktionen von FDP und CDU: Benennung eines Platzes - mehrheitlich beschlossen
+- TOP 45.7: Antrag der Ratsfraktion DIE LINKE: Kostenlose Stände für Vereine und Initiativen am Europatag - mehrheitlich abgelehnt
+- TOP 45.8: Antrag der Ratsfraktion DIE LINKE: Menschenwürdige Unterbringung in Sammelunterkünften - mehrheitlich abgelehnt
+- TOP 45.9: Ant SPD,GRÜ, LINKE : Gemeinsam gegen Homophobie - Für Vielfalt, Respekt und Akzeptanz im Sport - einstimmig beschlossen
+- TOP 45.10: Antrag Bü90-Grü: Nutzung des Kö-Bogen Infopavillons als EUROPE DIRECT Informationszentrum - mehrheitlich abgelehnt
+- TOP 45.11: Antrag Bü90/Grü, SPD, Die Linke: Regionalhalt Bilk muss schnell kommen - einstimmig beschlossen
+- TOP 45.12: Antrag Die Linke: Resolution zur Unterstützung der Hebammen - zur Kenntnis genommen
+- TOP 45.12.1: ÄA CDU und FDP: Resolution zur Unterstützung der Hebammen - zur Kenntnis genommen
+- TOP 45.13: Antrag Bü90-Grü: Historischer Frauen-Stadtplan für Düsseldorf - zur Kenntnis genommen
+- TOP 45.14: Antrag Bü90-Grü: Unterstützung bürgerlicher Initiativen zu Gemeinschaftsgärten (Urban Gardening) - einstimmig beschlossen
+- TOP 45.15: Antrag Die Linke: Vorlage aller Verträge mit Investoren - mehrheitlich abgelehnt
+- TOP 45.16: Antrag FDP und CDU: Einführung einer Schuldenbremse - mehrheitlich beschlossen
+- TOP 45.16.1: Erg. Antrag Bü90-Grü: Einführung einer Schuldenbremse - mehrheitlich abgelehnt
+- TOP 45.16.2: ÄA Freie Wähler: Einführung einer Schuldenbremse - mehrheitlich abgelehnt
+- TOP 45.17: Antrag Bü90-Grü: Keine Fracking-Experimente! - einstimmig beschlossen
+- TOP 45.18: Antrag der Ratsfraktion Bündnis 90/Die Grünen: Ausstellung "Minijobs - Minichance?" für Düsseldorf - einstimmig beschlossen
