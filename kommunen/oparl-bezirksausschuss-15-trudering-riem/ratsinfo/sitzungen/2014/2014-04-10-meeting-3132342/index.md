@@ -1,0 +1,83 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132342
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132342
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: 20.03.2014 - <div>Zustimmung</div>
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Tierheim München gGmbH Bepflanzung des Truderinger Hüllgrabens - <div>Zustimmung zur Vorlage</div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Kreativ Musikforum Konzert am 10.05.2014 - <div>Zustimmung zur Vorlage</div>
+- TOP 1.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Graf-Spee- Platz im 15. Stadtbezirk Trudering- Riem - <div>Zustimmung zur Vorlage</div>
+- TOP 1.4.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.10.2010; Abhalten eines Flohmarktes am 24.05.2014 auf dem Platz der Menschenrecht - <div>Zustimmung zur Vorlage</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verlegung des Seefestes im Riemer Park - <div>abgesetzt, da Seefest abgesagt</div>
+- TOP 2.2.: Verschmutzung der Truderinger Straße am Truderinger Bahnhof - <div>Zustimmung und Weiterleitung</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Erhaltung der See-Bepflanzung an der Südseite des BUGA-Sees - <div>Kenntnisnahme</div>
+- TOP 3.2.: Weitere Stunden für die Schulsozialarbeit an der Astrid-Lindgren-Schule - <div>Kenntnisnahme</div>
+- TOP 3.3.: Beleuchtung der Anlage zwischen Truderinger Bahnhof und Kreillerstraße - <div>Kenntnisnahme</div>
+- TOP 3.4.: Verkehrskonzept Messestadt- West, Edinburghplatz- Helsinkistraße - <div>Kenntnisnahme</div>
+- TOP 3.5.: Sicherheit der Kreuzung Kreillerstr.-Wasserburger Landstr. / Bajuwarenstr. - <div>Ortstermin zur künftigen Signalisierung geplant</div>
+- TOP 3.6.: Räumlichkeiten für "Kinderarztpraxis auf Abruf" planen - <div>Kenntnisnahme</div>
+- TOP 3.7.: Schaffung von Künstlerateliers im Kopfbau der Zuschauertribühne in Riem - <div>Kenntnisnahme</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Fertigstellung der Ampelanlage vor dem Gymnasium Trudering - <div>Zustimmung und Weiterleitung</div>
+- TOP 4.2.: Regelmäßige Reinigung des Grünstreifens an der Willy- Brandt- Allee - <div>Zustimung zum geänderten Antrag und Weiterleitung</div>
+- TOP 4.3.: Zukunftsfähiges Sanierungskonzept für die Flughafentribühne - <div>Zustimmung und Weiterleitung </div>
+- TOP 4.4.: Verbesserung der verkehrlichen Situation am Tierheim Riem - <div>Zustimmung und Weiterleitung</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Dinner-Variete-Show-Veranstaltung auf der Sonderfreifläche Riem vom 14.11.2014 bis 18.01.2015 (Aufbau vom 03.11.-12.11.2014, Abbau vom 19.01.-24.01.2015)
+- TOP 5.2.: RadbaR in der Helsinkistraße 57 am 10.05.2014
+- TOP 5.3.: Truderinger Festwoche vom 23.05.2014 bis 01.06.2014
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Bauleitplanung Feldkirchen, Aufstellung des Bebauungsplanes Nr. 100 für das Gebiet zwischen der Friedens-, Sonnen-, Emeran- und Kreuzstraße, Verfahren nach §§ 13a, 4 Abs. 2 BauGB - <div>Kenntnisnahme</div>
+- TOP 7.2.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 101./02/01 "Teiländerung des Bebauungsplans für das Gewerbegebiet Aschheim Südost/Teilbereich C östlich der Oskar-Maria-Graf-Straße und südlich der Theodor-Fontane-Straße", Verfahren nach § 4 Abs. 1 BauGB - <div>Kenntnisnahme</div>
+- TOP 7.3.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 147 "Gewerbegebiet südlich der Klausnerstraße/östlich des temporären Bauma- Parkplatzes", Verfahren nach " 4 Abs. 1 BauGB - <div>Kenntnisnahme</div>
+- TOP 7.4.: Truderinger Straße 331 - <div>Kenntnisnahme</div>
+- TOP 7.5.: Hochkönigstraße 5 - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.8.: Wachtelweg 22 - <div>ohne Entscheidung</div>
+- TOP 7.9.: Schwedensteinstraße 44 - <div>Kenntnisnahme</div>
+- TOP 7.10.: Iltisstraße 56a - <div>Kenntnisnahme</div>
+- TOP 7.11.: Vogesenstraße - <div>Kenntnisnahme</div>
+- TOP 7.12.: Von-Gravenreuth-Straße 18 - <div>Reduzierung der TG gefordert, ansonsten Kenntnisnahme</div>
+- TOP 7.13.: Projektentwicklung Truderinger Straße 288/290; Bajuwarenstraße 136/138- Vorstellung des Projekts - <div>Kenntnisnahme</div>
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweise über Bewilligungsbescheide der Landeshauptstadt München: 1. Gewerbe- und Eigentümerverband für die Aktion "Weihnachtsbeleuchtung" 2. SV Gartenstadt Trudering e.V. für die Aktion "Scheiben für die Bogenschützen" 3. Chorgemeinschaft St. Peter und Paul für die Aktion "Großes Truderinger Neujahrskonzert 2014" 4. Chorgemeinschaft St. Peter und Paul für die Aktion "Ruhn in Frieden alle Seelen" 5. Nachbarschaftswerk Wagnis e.V. für die Aktion "Kindertheater" 6. Nachbarschaftswerk Wagnis e.V. für die Aktion "Kindertheater am 15.12.2013" - <div>Kenntnisnahme</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 7.1.: Gefahrenstelle für Kinder an der Xaver- Weismor- Straße; BA- Antrag Nr. 08-14/ B 05104 am 07.04.2014, 8.30 Uhr - <div>weitere Inaugenscheinnahme</div>
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.2 Zeisigweg 15 8.3 Fauststr.70 8.4 Von-Erckert-Platz 17 8.5 Himalajastr.47 8.6 Salzmesserstr.65 8.7 Sansibarstr.8b 8.8 Groß-Nabas-Str.6 8.9 Pfennigweg 6 8.10 Pilatusstr.7 8.11 Rotfuchsweg 20 8.12 Friedenspromenade 29 8.13 Frauenalplweg 7 8.14 Von-Gravenreuth-Straße 18 8.15 Heldackerweg 21 - <div>Zustimmung zum Votum des UA</div>
+- TOP 9: Verschiedenes
+- TOP 9.1.: Stellungnahme des BA 16 zur Bebauung "Piederstorfer" - <div>Kenntnisnahme</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Abbruch des Anwesens Waldschulstraße 44 für den Neubau einer Kindertageseinrichtung mit Kinderkrippe und Kindergarten; Sitzungsvorlage Nr. 08-14/ V 13686; Beschluss des Sozialausschusses vom 30.01.2014 - <div>Kenntnisnahme</div>
+- TOP 10.2.: Unveränderte Fortführung eines Gaststättenbetriebes 1. Graf- Lehndorff- Straße 36 - <div>Kenntnisnahme</div>
+- TOP 10.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 1. Brachsenstraße 4 2. Waldschulstraße 44 - <div>Kenntnisnahme</div>
+- TOP 10.4.: Vollzug der Grünanalgensatzung vom 15.06.2012, Baustelleneinrichtung an der Karpfenstraße azúf Flst. 339/42 vom 13.03.2014 bis 30.06.2015 - <div>Kenntnisnahme</div>
+- TOP 10.5.: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum, Empfehlung Nr. 08-14/ E 02081 der Bürgerversammlung des 18. Stadtbezirkes 18- Untergiesing- Harlaching vom 14.11.2013; Sitzungsvorlagen Nr. 08-14/ V 14244; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.6.: Städtebauliche Entwicklungsmaßnahme gemäß §§165ff. BauGB für den Bereich Nordosten; Integriertes Strukturkonzept mit externer Steuerungsunterstützung Vergabeverfahren; Sitzungsvorlagen Nr. 08-14/ V14310; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.7.: Mensa- Erweiterungsbau mit Küche sowie zwei Aufenthaltsräumen für die Grundschule an der Turnerstraße 46 im 15. Stadtbezirk Trudering- Riem, Projektkosten (Kostenobergrenze) 4.460.000 Euro davon Ersteinrichtungskosten164.000 Euro 1. Genehmigung des Nutzerbedarfsprogramms 2. Projektauftrag 3. Genehmigung von vorgezogenen Maßnahmen zur Baufeldfreimachung (Baumfällung); Sitzu ngtsvorlage nr. 08-14/ V 14182; Beschluss des Ausschusses für Bildung und Sport vom 26.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.8.: Siemens-Studie "German Green City Index" darstellen, Antrag Nr. 08-14/ A 02963 von Frau Stadträtin Eva Maria Caim, Herrn Stadtrat Dr. Georg Kronawitter, Frau Stadträtin Dr. Manuela Olhausen vom 06.12.2011; Sitzungsvorlage Nr. 08-14/ V 014348; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.9.: Mitteilung über ein Grundstücksgeschäft, An der Hofbräuallee (Tausch Flst. 1723/0, 1711/2 (Tlfl)./.1706/3 (Tlfl.)) - <div>Kenntnisnahme</div>
+- TOP 10.10.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Voberatungen in der BA- Satzungskommission vom 28.11.2013 a) Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest, BA- Antrag Nr. 08-14/ B 04288 des Bezirksausschusses des Stadtbezirkes 2- Ludwigsvorstadt- Isarvorstadt vom 02.10.2012 b) Benennung von Straßen und Wegen in Grünzügen, BA- Antrag Nr. 08-14/ B 04763 des Bezirksausschusses des Stadtbezirkes 11- Milbertshofen- Am Hart vom 10.04.2013 c) Änderung der Bezirksausschuss- Satzung, Antrag Nr. 08-14/ A 03545 der Stadtratsfraktion der FDP vom 25.07.2012 Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken, BA- Antrag Nr. 08-14/ B 04303 des Bezirksausschusses des Stadtbezirkes 7- Sendling- Westpark vom 09.10.2012 2. Umsetzung der Empfehlungen in eine Änderungssatzung; Sitzungsvorlage Nr. 08-14/ V 14059; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 - <div>Kenntnisnahme</div>
+- TOP 10.11.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2013 bis 31.12.2013; Sitzungsvorlage Nr. 08-14/ V 14350; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 - <div>Kenntnisnahme</div>
+- TOP 7.7.: Kreuzerweg 4 - <div>Kenntnisnahme</div>
