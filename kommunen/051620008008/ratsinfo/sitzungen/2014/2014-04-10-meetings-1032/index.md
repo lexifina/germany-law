@@ -1,0 +1,102 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-04-10T18:13:00+02:00
+- Ende: 2014-04-10T20:56:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1032
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1032
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anträge der UWG-Fraktion Nr. 111/2010 (erledigt) und vom 04.03.2008 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00051755.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: SPD
+- TOP 2.1.1: SPD-Antrag Nr. 66/2014 - einstimmig
+- TOP 2.1.2: SPD Antrag Nr. 67/2014 - einstimmig
+- TOP 2.1.3: UWG Antrag Nr. 68/2014 - einstimmig
+- TOP 2.1.4: Antrag 59/2014, UWG-Fraktion - einstimmig
+- TOP 2.1.5: Antrag Nr. 60/2014 - einstimmig
+- TOP 2.1.6: Antrag Nr. 61/2014 - einstimmig
+- TOP 2.1.7: Antrag Nr. 62/2014 - einstimmig
+- TOP 2.2: UWG - vertagt
+- TOP 2.3: FDP
+- TOP 2.4: B 90/DIE GRÜNEN
+- TOP 2.5: ABG
+- TOP 2.6: CDU
+- TOP 2.6.1: CDU-Antrag Nr. 63/2014 - einstimmig
+- TOP 2.7: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.1.1: CDU Anfrage Nr. 64/2014 - Kenntnisnahme
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.4.1: FDP Anfrage Nr. 65/2014 - Kenntnisnahme
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Verwaltungsgebührensatzung - mehrheitlich bei
+- TOP 7: Bekanntgabe der von der Stadtkämmerin genehmigten über- und außerplanmäßigen Aufw. u. Auz. - Kenntnisnahme
+- TOP 8: Spenden/Sponsoring 2013 - Kenntnisnahme
+- TOP 9: 9. Schulrechtsänderungsgesetz (Inklusion) - einstimmig
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Jahresabschluss 2012 Eigenbetrieb Abwasseranlagen - einstimmig
+- TOP 10.2: Aufhebungssatzung - einstimmig
+- TOP 10.3: Abwasserbeseitigungssatzung - einstimmig
+- TOP 11: PersonalA 25.03.2014
+- TOP 11.1: Frauenförderplan - einstimmig
+- TOP 12: UmweltA
+- TOP 12.1: European Energy Award - einstimmig
+- TOP 13: BauA 27.03.2014
+- TOP 13.1: Abbau von öffentlichen Fernsprecherstandorten im Stadtgebiet Grevenbroich - einstimmig
+- TOP 14: Entscheidung PlanungsA
+- TOP 14.1: Aufstellung N 39 Bürgerwäldchen Satzungsbeschluss - einstimmig
+- TOP 14.2: K32 "Gewerbegebiet Heinrich Hertz Straße" - Aufst. + Öff. Bet. - einstimmig
+- TOP 14.3: 15. Änd. FNP "Lindenstr./Am Hagelkreuz" - Aufst. + Öff. Bet. - einstimmig
+- TOP 14.4: G 212 "Lindenstr./Am Hagelkreuz" - Aufst. + Öffentlichkeitsbet. - einstimmig
+- TOP 14.5: G 189 Aufstellungsbeschluss - mehrheitlich bei
+- TOP 14.6: Veränderungssperre G 189 - mehrheitlich bei
+- TOP 14.7: F 26 - Satzungsbeschluss - einstimmig
+- TOP 14.8: 2. Änd. F 13 Kasterstraße - Satzungsbeschluss - einstimmig
+- TOP 14.9: 8. Änd. G 89 - Satzungsbeschluss - einstimmig
+- TOP 14.10: 2. Verlängerung Veränderungssperre H 19 - einstimmig
+- TOP 14.11: 1. Änd. + Erg. G 204 Königslindenstraße Aufst.+Öff.Bet. - mehrheitlich bei
+- TOP 14.12: Einstellung 5. Änd.+Erg. G 158 Teilbereich 1c - einstimmig
+- TOP 15: SchulA 09.04.2014
+- TOP 15.1: Auflösung Gemeinschaftsgrundschule Allrath - mehrheitlich bei
+- TOP 15.2: Beschlussfassung zu einer Maßnahme aus dem Sanierungskonzept der Stadt Grevenbroich 2014-2024 - mehrheitlich bei
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Brandschutzüberprüfung GS Noithausen
+- TOP 16.2: Parkplätze
+- TOP 16.3: Brücke
+- TOP 16.4: Müllbehälter
+- TOP 16.5: AK Sicherheitsmaßnahmen bei Veranstaltungen
+- TOP 16.6: Lagerhalle
+- TOP 16.7: Schausteller
+- TOP 16.8: Spielplatz Südstadt
+- TOP 16.9: Am Mausacker
+- TOP 16.10: Brandschutzbedarfsplan
+- TOP 16.11: Feuerwehrautos
+- TOP 16.12: Schloßbad
+- TOP 16.13: Sirenenalarmierung
+- TOP 16.14: Kastanien
+- TOP 16.15: Baumfällung
+- TOP 16.16: Ausländeramt
+- TOP 16.17: Kreismülldeponie
+- TOP 17: Beantwortung Anträge
+- TOP 17.1: Beantwortung UWG Antrag 212/13 Sachstand Garzweiler II - Kenntnisnahme
+- TOP 17.2: Beantwortung Antrag Nr. 5/2014 - Kenntnisnahme
+- TOP 17.3: CDU-Antrag Nr. 23/2014 - Kenntnisnahme
+- TOP 17.4: Bürgerantrag Stellwerkiniatitive und CDU Antrag 27/14 - einstimmig
+- TOP 17.5: UWG-Antrag Nr. 4/2014 - Kenntnisnahme
+- TOP 18: Beantwortung Anfragen
+- TOP 18.1: Beantwortung von mündlichen Anfragen - Kenntnisnahme
+- TOP 19: Mitteilungen BM'in
+- TOP 19.1: Ausschusszusammenlegung - Kenntnisnahme
+- TOP 20: Vortrag
