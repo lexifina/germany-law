@@ -1,0 +1,6 @@
+# TOP 4.1: Antrag des Vereins Bürgerbahnhof Vlotho e.V. auf Aufhebung oder Aussetzung des Beschlusses des Rates zum Abriss des Bahnhofgebäudes
+
+- Sitzung: Rat (35. Sitzung) (2014-04-10)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/41783
