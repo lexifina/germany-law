@@ -1,0 +1,90 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-04-10T17:00:00+02:00
+- Ende: 2014-04-10T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUgfzKZSG8zCmLWaW6E5oJU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4295
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdjWeIHwZnL_rOnGllSX9nIEFn6J8vs08lQ4HHxeumtm/Oeffentliche_Niederschrift_Rat_10.04.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 32. Sitzung des Rates am 13.02.2014
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Umsetzung des Gesetzes zur Weiterentwicklung der politischen Partizipation in den Gemeinden
+- TOP 6: Umsetzung des Gesetzes zur Weiterentwicklung der politischen Partizipation in den Gemeinden
+- TOP 7: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht NRW
+- TOP 8: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 9: Abberufung einer Prüferin beim Revisionsdienst
+- TOP 10: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 11: Entwurf des Jahresabschlusses 2013 der Stadt Solingen
+- TOP 12: Prüfung der Wirtschaftlichkeit der gemeinsamen Integrierten Rettungsleitstelle der Städte Wuppertal und Solingen
+- TOP 13: Satzung der Jugendfeuerwehr Solingen
+- TOP 14: Zentrum für verfolgte Künste
+- TOP 15: Zentrum für verfolgte Künste
+- TOP 16: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Nutzung der intensivpädagogischen Jugendwohngruppe in der Einrichtung „Die 10“ vom 14. November 2010
+- TOP 17: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Nutzung der intensivpädagogischen Jugendwohngruppe in der Einrichtung „Die 10“ vom 14. November 2001
+- TOP 18: Zuschussrichtlinien zur Förderung der Jugendverbandsarbeit
+- TOP 19: Zuschussrichtlinien zur Förderung der Jugendverbandsarbeit und der Kinder- und Jugendarbeit im Rahmen des Kinder- und Jugendförderplans der Stadt Solingen
+- TOP 20: Neufassung der Gebührenordnung für Parkuhren und Parkscheinautomaten in der Stadt Solingen
+- TOP 21: Neufassung der Gebührenordnung für Parkuhren und Parkscheinautomaten in der Stadt Solingen
+- TOP 22: Neufassung der Gebührenordnung für Parkuhren und Parkscheinautomaten in der Stadt Solingen
+- TOP 23: I. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 24: V. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 25: itec Informationstechnologie Solingen GmbH (itec)
+- TOP 26: Bauleitplanung nördliche Schwesternstraße
+- TOP 27: Bauleitplanung Birkenweiher/Kölner Straße
+- TOP 28: Bauleitplanung Birkenweiher/Kölner Straße
+- TOP 29: Bauleitplanung Forststraße
+- TOP 30: Bauleitplanung Forststraße
+- TOP 31: Konzept zur optimierten Bürgerbeteiligung
+- TOP 32: Beteiligungskultur
+- TOP 33: Alters- und quartiersgerechtes Wohnen in Solingen - Umsetzung der Erkenntnisse aus der Pflegeplanung und dem Handlungskonzept
+- TOP 34: Alters- und quartiersgerechtes Wohnen in Solingen
+- TOP 35: Alters- und quartiersgerechtes Wohnen in Solingen
+- TOP 36: Einführung der Biotonne in Solingen
+- TOP 37: Einführung einer Biotonne in der Stadt Solingen
+- TOP 38: Öffnung der Raststättenzufahrt Rasthof Ohligs und Baustellenmanagement
+- TOP 39: Klimabonus
+- TOP 40: Fracking
+- TOP 41: Bundesteilhabegesetz
+- TOP 42: Schulsozialarbeit
+- TOP 43: Schulsozialarbeit
+- TOP 44: Resolution gegen den 8-streifigen Ausbau der Bundesautobahn A3 auf dem Abschnitt zwischen Leverkusen/Opladen und Hildener Kreuz
+- TOP 45: Gentechnikfreies Solingen
+- TOP 46: Verschiedenes
+- TOP 47: Tierschutzverein Solingen
+- TOP 48: Entsorgung von Feinstaubfilterrückständen
+- TOP 49: Absichtserklärung der Telekom Deutschland und der Stadt Solingen für den Ausbau der Breitband-Infrastruktur
+- TOP 50: Interkommunale Anleihe
+- TOP 51: Hinweis auf vermutete Salafisten im Bärenloch
+- TOP 52: BürgerEnergie Solingen Genossenschaft in Gründung
+- TOP 53: Neue Gewerbegebiete - weiteres Verfahren
+- TOP 54: Betrieb der Feuerwehrleitstelle der Städte Solingen und Wuppertal
+- TOP 55: Personalsituation der Berufsfeuerwehr
+- TOP 56: Fethullah Gülen-Bewegung
+- TOP 57: Aufgabenwahrnehmung nach § 103 Abs. 1 Nr. 6 GO NRW (DV-Verfahrensprüfung)
+- TOP 58: Klage gegen ein Mitglied der Solinger Linkspartei mit Migrationshintergrund
+- TOP 59: Agenda-Team
+- TOP 60: Zulässigkeit des Bürgerbegehrens
+- TOP 61: Zulässigkeit des Bürgerbegehrens
+- TOP 62: Verfügung der Bezirksregierung Düsseldorf zum Haushaltsplan 2014
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bauleitplanung Forststraße
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 32. Sitzung des Rates am 13.02.2014
+- TOP 4: Eigenstromerzeugung durch das Städtische Klinikum Solingen gGmbH
+- TOP 5: Verschiedenes
+- TOP 6: Interessengemeinschaft von Ex-OWB-Genossen gegen "Nachschuss"
+- TOP 7: Fragen zur Teilnahme des Oberbürgermeisters an Sitzungen der Aufsichtsgremien städtischer Tochtergesellschaften
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tierschutzverein Solingen
+- TOP 10: Personalsituation der Berufsfeuerwehr
+- TOP 11: Bauleitplanung Forststraße
