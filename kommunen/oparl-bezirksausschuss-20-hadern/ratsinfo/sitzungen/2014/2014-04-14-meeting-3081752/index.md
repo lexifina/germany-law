@@ -1,0 +1,120 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081752
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081752
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Tempo 30 in der Terofalstraße oder Abmarkierung eines Radweges
+- TOP 1.2.: Schließung der Postfiliale in der Terofalstraße
+- TOP 1.3.: Bauvorhaben Fürstenrieder Straße 172 - 176 - massive Nachverdichtung in der Kurparksiedlung
+- TOP 1.4.: Anbindung der Häuser Schröfelhofstraße 70 und 74 an den Gehweg der Stadt
+- TOP 1.5.: Lkw-Parken in der Silberdistelstraße
+- TOP 1.6.: Rückschnitt der Bäume und Sträucher im Stadtbezirk 20 Hadern
+- TOP 1.7.: Raumnot an der Guardinischule
+- TOP 1.8.: Baumaßnahme Buschrosenweg 23
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, TSV München-Großhadern von 1926 e.V., Beschaffung von Trikots (Direktorium, 26.03.14)
+- TOP 5.2.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt am 04.06.2014 (Direktorium, 31.03.14)
+- TOP 3: Suche nach Fläche für Gartenprojekt in Hadern Empfehlung Nr. 08-14 / E 01923 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 25.09.2013 (Kommunalreferat, 07.04.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mittelfristige Finanzplanung 2013 - 2017, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2014 bis 2018 (Stadtkämmerei, 17.02.14) (vertagt aus 03/14)
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Privater Flohmarkt am Max-Lebsche-Platz am 03.05., 14.06., 26.07., 13.09.2014 (Kreisverwaltungsreferat, 24.03.14)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Neufriedenheimer Straße am 24.05.2014 (Kreisverwaltungsreferat, 21.03.14)
+- TOP 6.4.: Austausch der Lichtzeichenanlage Sauerbruchstraße / Würmtalstraße (Kreisverwaltungsreferat, 12.03.14)
+- TOP 6.5.: Barbierstraße 6, Neubau eines Mehrfamilienhauses mit Tiefgarage (5 Stpl.) (Referat für Stadtplanung und Bauordnung, 19.03.14)
+- TOP 6.6.: Platanenstraße 3, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 18.03.14)
+- TOP 6.7.: Fürstenrieder Straße 172 - 176, Neubau eines Mehrfamilienhauses mit TG (Referat für Stadtplanung und Bauordnung, 14.03.14)
+- TOP 6.8.: Veranstaltung in einer städt. Grünanlage, hier: Feldmesse von Namen Jesu mit der Simeonskirche, Grünanlage Neufriedenheimer Platz am 13.07.2014 (Kreisverwaltungsreferat, 26.03.14)
+- TOP 6.9.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben, BV-Empfehlung Stadtbezirk 3 Maxvorstadt (Direktorium, 31.03.14)
+- TOP 6.10.: Am Brombeerschlag 16, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 28.03.14)
+- TOP 6.11.: Wildanger 19, Neubau einer Doppelhaushälfte mit Garage - Haus 1 und Haus 2 (Referat für Stadtplanung und Bauordnung, 28.03.14, 31.03.14)
+- TOP 6.12.: Veranstaltung in einer städt. Grünanlage, hier: 28. Haderner Dorffest auf dem Max-Lebsche-Platz vom 23.05. - 01.06.2014 (Kreisverwaltungsreferat, 08.04.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Am Heidebruch, gem. Baumbestandsplan Nr. 1964
+- TOP 7.2.: Barbierstraße 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4432
+- TOP 7.3.: Am Hedernfeld 10, 1 Kiefer
+- TOP 7.4.: Am Hedernfeld 13 - 17, 2 Kiefern
+- TOP 7.5.: Am Hedernfeld 22 - 26, 1 Kiefer
+- TOP 7.6.: Am Kornacker 10 a, 1 Birke
+- TOP 7.7.: Cochemstraße 5, 1 Buche
+- TOP 7.8.: Gelbhofstraße 22 - 24, 1 Fichte und 1 Thuja
+- TOP 7.9.: Ginsterweg 5, 1 Scheinzypresse
+- TOP 7.10.: Senftenauerstraße 150, 1 Thuja
+- TOP 7.11.: Stiftsbogen 17 - 61, 1 Feldahorn und 1 Winterlinde
+- TOP 7.12.: Terofalstraße 72, 4 Ahornbäume
+- TOP 7.13.: Waldgartenstraße 19, 1 Ahorn
+- TOP 7.14.: Waldgartenstraße 42, 1 Akazie
+- TOP 7.15.: Wildtaubenweg 16 - 24, 1 Bergahorn
+- TOP 7.16.: Wildtaubenweg 4 - 12, 1 Spitzahorn
+- TOP 7.17.: Hartwaldstraße 13, 1 Fichte
+- TOP 7.18.: Gelbhofstraße 1 - 3, 1 Robinie
+- TOP 7.19.: Küchelstraße 3 a, 1 Buche
+- TOP 7.20.: Waldeslust 24, 2 Birken
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Krokusstraße 75 + 77, 1 Weide und 1 Birke (Referat für Stadtplanung und Bauordnung, 10.03.14)
+- TOP 7.2.: Würmtalstraße 132, 1 Walnussbaum (Referat für Stadtplanung und Bauordnung, 01.04.14)
+- TOP 7.3.: Maenherstraße 2, 1 Birke (Referat für Stadtplanung und Bauordnung, 14.04.14)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Haltverbot als Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße (Kreisverwaltungsreferat, 20.03.14)
+- TOP 8.2.: Widmungserweiterung "Radverkehr frei" auf einer Teilstrecke der Waldsaumstraße (Baureferat, 25.02.14)
+- TOP 8.3.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: - "Cafe-Bar 007", Terofalstraße 8 (Kreisverwaltungsreferat, 11.03.14)
+- TOP 8.4.: Treffen der Vorsitzenden der Bezirksausschüsse; Mehr Unterstützung des Kulturreferates bei Veranstaltungen der Bezirksausschüsse (Kulturreferat, 24.02.14)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Am Waldrand (Sozialreferat, 25.03.14)
+- TOP 8.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Herstellung von Reinigungsöffnungen am städtischen Kanal, Fürstenrieder Straße 256, 260, 276 (Referat für Gesundheit und Umwelt, 25.03.14)
+- TOP 8.7.: Beschilderung Marktstandort Heiglhofstraße (Kommunalreferat, 07.04.14 und Kreisverwaltungsreferat, 08.04.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Radlverleihstation in Großhadern für Fahrten zum Campus Martinsried (Referat für Arbeit und Wirtschaft, 19.02.14)
+- TOP 9.2.: Parkplatzsituation Würmtalstraße Nebenfahrbahn (Kreisverwaltungsreferat, 06.03.14)
+- TOP 9.3.: Heizungsanlage im "Augustinum", Stiftsbogen 74 (Referat für Gesundheit und Umwelt, 13.03.14)
+- TOP 9.4.: Sauberkeit im Stadtbezirk 20 Hadern (Kreisverwaltungsreferat, 21.03.14)
+- TOP 9.5.: Aufstellung eines größeren Abfalleimers an der Bushaltestelle "Großhadern" an der Würmtalstraße (Nordseite) (Kreisverwaltungsreferat, 21.03.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Taktung der Buslinie in der Würmtalstraße (MVG, 19.03.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Broschüre "Sporthighlights 2014 - Veranstaltungen in München" (Referat für Bildung und Sport, 10.03.14)
+- TOP 11.2.: Parksituation vor dem Garagenhaus an der Kurparkstraße 65
+- TOP 11.3.: Hubschrauberplatz Klinikum Großhadern
+- TOP 11.4.: "Arbeits- und Lebenssituation von Menschen mit Behinderungen in der Landeshauptstadt München", Kurzbericht zur Studie 2013 (Sozialreferat, 18.03.14)
+- TOP 11.5.: Einladung zum 19. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Mittwoch, 28.05.2014 (Gleichstellungsstelle für Frauen, 27.03.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13875 (nach Antrag): Landwirtschaft auf den Dächern in der Stadt (Das Planungsreferat sieht "keinen vorrangigen Bedarf".)
+- TOP 12.2.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13752 (nach Antrag i.d.F. des Beschlusses des Planungsausschusses vom 05.02.2014. Jedoch wird in Punkt 3 der eingefügte Halbsatz "und im Pachtvertrag, soweit es rechtlich möglich ist, eine ökologische Bewirtschaftung anzustreben" wieder gestrichen): Urbanes Gärtnern in München Analyse und Grundsatzbeschluss, insbesondere zum Bienen- und Kulturgarten in Hadern (S. 20), zu den "Münchner Krautgärten" (Abschnitt 2.5, S. 25 - 28), zum Antrag der Stadträte Schmid, Seidl und Stadler vom 28.06.2011 "München braucht mehr Kleingartenanlagen" (= Anlage 5) und zum Antrag der Stadträte Schmid, Podiuk, Brannekämper, Seidl und Stadler vom 11.10.2012 "Kleingartenanlage im Grünzug Grünes Band Ost prüfen" (S. 54 - 55). Wesentliche Entscheidungen zu den Punkten 2 - 4 sollen dem Stadtrat vorbehalten bleiben. Die Verwaltung wird gebeten, dem Stadtrat entsprechende Beschlussvorlagen vorzulegen (Punkt 5).
+- TOP 12.3.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 10707 (nach Antrag in den Punkten 3 - 19. Wegen der Punkte 1 "Isarring - Einfädelspur" und 2 "Isarring - Tunnellösung" wird auf die Beschlussseite Bezug genommen): Handlungsprogramm Mittlerer Ring Sachstand und weiterer Handlungsbedarf, insbesondere zum Antrag der Herren Stadträte Dr. Kronawitter, Seidl und Stadler auf wirksame Entlastung der Stadtbezirke Hadern und Sendling-Westpark vom Autobahnverbindungsverkehr vom 18.06.2010 (= Anl. 3). Die Behandlung dieses Antrags wurde vom Stadtrat am 16.02.11 zurückgestellt (Beschlussvorlage Nr. 08-14 / V 05912). Auf die Stellungnahme des Planungsreferats zum "Bereich BAB 96 - Luise-Kiesselbach-Platz" auf S. 14 wird Bezug genommen. Insbesondere wird eine Erhöhung der bisher festgestellten Tagesrate von 98.000 in 2010 auf 110.000 KFZ in 2025 angenommen (S. 14). Vom Planungsreferat wird daher für diesen Bereich ein "Vertiefender Untersuchungsbedarf" angenommen (Abschn. 4.2 = S. 17 und 18). Mit dem Antrag vom 18.06.10 Nr. 08-14 / A 01620 wird ein Konzept von verkehrsleitenden Maßnahmen gefordert, das die Stadtbezirke Hadern und Sendling-Westpark von Durchgangsverkehren der Lindauer und Garmischer Autobahn (A96 und A95) wirksam befreit.
+- TOP 12.4.: Das Planungsreferat will ein gesondertes Konzept für weitere Leistungsfähigkeitsanalysen und verkehrssteuernde Maßnahmen zur Verbesserung des Verkehrsflusses für den Bereich "Mittlerer Ring Südwest" erarbeiten und dem Stadtrat zur Entscheidung vorlegen. Dem Antrag vom 18.06.2010 wird mit diesem Referentenantrag nunmehr entsprochen. Auf die Änderungsanträge in den Anlagen 9 - 11 und das Schreiben der Stadt an den Regierungspräsidenten von Oberbayern vom 12.12.2013 (= Anlage 12) wird Bezug genommen. Die Referentin beantragt zusätzlich, die Notwendigkeit der Finanzierung dieses Beschlusses als "unaufschiebbar" im Sinne des Art. 69 Abs. 1 Nr. 1 der Bayerischen Gemeindeordnung festzustellen, da die Weiterführung notwendiger Aufgaben im Hinblick auf die voraussichtliche Verkehrsfreigabe des Luise-Kiesselbach-Tunnels in 2015 und damit die notwendigen Untersuchungen im Umfeld der Donnersberger Brücke bis zum Brudermühl-Tunnel "unaufschiebbar" seien (Punkt 8).
+- TOP 12.5.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13906 (nach Antrag): Flächenhaften Naturschutz in der Verwaltung stärken! (Hadern ist nicht erwähnt.)
+- TOP 12.6.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13716 (nach Antrag): Runder Tisch zur Armutszuwanderung aus EU-Ländern (Südosteuropa) (Hadern ist nicht erwähnt.)
+- TOP 12.7.: Beschluss vom 19.02.2014 und des Verwaltungs- und Personalausschusses vom 05.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13400 (nach Antrag in Übereinstimmung mit dem zustimmenden Beschluss des BA Hadern vom 09.09.2013): Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 28.11.2013 Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung 2. Umsetzung der Empfehlungen in eine Änderungssatzung (Anlage 2)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 04.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13354 (i.d.F. des geänderten Referentenantrages zu den Punkten 2 und 3, S. 5): Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, insbesondere an der Kriegerheimstraße (ehemalige Trambahntrasse = 6.400 m²) und an der Würmtalstraße zwischen Kriegerheimstraße und Fürstenrieder Straße (= 2.500 m² = Anlage 1). Das Baureferat soll insbesondere beauftragt werden, unter Einbindung der jeweiligen Bezirksausschüsse weitere Flächen, nämlich "bislang intensiv gepflegte ohne großen Nutzungsdruck und insbesondere aus der Kategorie bisher ca. 4 mal gemulchter Wiesen, in ein- bzw. zweimahdige Wiesen / Blumenwiesen umzuwandeln." Über das Ergebnis der BA-Abstimmungen ist dem Stadtrat noch in 2014 zu berichten. Auch im Stadtbegleitgrün soll nach Flächen gesucht werden, die extensiviert werden können (Nr. 2 des Referentenantrages, S. 5). Das Baureferat soll beauftragt werden, Möglichkeiten zur Aufstellung von Bienenvölkern in großen Parkanlagen und in den städtischen Kleingartenanlagen zu prüfen (Nr. 3 des Referentenantrages, S. 5).
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14048: Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus am Wolkerweg" mit einem Haushaltsansatz in 2014 von 198.751,- ?, - zum "pfiffTEEN Treffpunkt für Jugendliche" mit einem Haushaltsansatz von 321.362,- ? (Anlage 1a, bisher 14, S. 8, Abschnitt 3.1.1, lfd. Nrn. 56 und 57), - zum "Treff 21, Schule-Beruf e.V." des DPWV mit einem Ansatz von 357.326,- ? (a.a.O., S. 9, Abschnitt 3.1.1, lfd. Nr. 66), - zum "Studio im Netz, SiN e.V." mit einem Ansatz von 84.928,- ? (a.a.O., S. 10, Abschnitt 3.1.1, lfd. Nr. 107), - zum "Familienzentrum Hadern-Blumenau" des DPWV mit einem Ansatz von 66.052,- ? (Der ursprünglich für 2013 geplante Vertrag wird in 2014 abgeschlossen, a.a.O., S. 20, Abschnitt 3.2.1, lfd. Nr. 13) und - zur "Nachbarschaft Neuhadern, Bewohnertreff" des DPWV mit einem Ansatz von 102.807,- ? (a.a.O., S. 25, Abschnitt 3.2.2, lfd. Nr. 2)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14082: Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Nachbarschaftstreff Blumenau" des "Vereins für Sozialarbeit e.V." im DPWV mit einem Ansatz von 58.000,- ? lt. Antrag (Die Differenz zum Vorjahr i.H.v. 3.420,- ? wird aus Haushaltsresten finanziert, Anlage 1a, S. 10, Abschnitt 4.1.7, lfd. Nr. 8) und - zum "Nachbarschaftstreff Kleinhadern, Na klar!" mit einem gegenüber dem Vorjahr nach 16.390,- ? erhöhten Ansatz von 49.390,- ? (Die Erhöhung wird aus Restmitteln zur "Stärkung des Ehrenamtes" finanziert, a.a.O., S. 12, Abschnitt 4.1.7, lfd. Nr. 31)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14036: Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum "ASZ Kleinhadern-Blumenau" des Caritasverbandes der Erzdiözese München und Freising e.V. (Caritasverband) mit einem Ansatz von 215.954,- ? (Anlage 1a, S. 4, Abschnitt 5.4.1, lfd. Nr. 10) und - zur "Altenwohnanlage Konrad-Dreher-Straße 19 - 23" (a.a.O., S. 11, Abschnitt 5.4.2, lfd. Nr. 30)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14007: Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere - zum "Freiwilligen-Zentrum Süd" des Caritasverbandes, Königswieser Straße 12, für die Stadtbezirke 19 und 20 mit einem gegenüber dem Vorjahr (45.775,- ?) gekürzten Ansatz von 44.775,- ? (Es handelt sich hierbei um die Bezahlung von 2 Teilzeitkräften nach dem "Monti-Paket". Beantragt war ein Zuschuss von 52.055,- ?, Anlage 2, Abschnitt 7.3.1, lfd. Nr. 12.) und - zur "Förderung der Regionalisierung Sozialer Arbeit in München - REGSAM" des "Trägervereins für regionale soziale Arbeit e.V.", Bayerstraße 77a, Rückgebäude, mit einem Gesamtaufwand von 628.487,- ?, wovon die Stadt 550.221,- ? trägt (a.a.O., Abschnitt 7.3.2, Nr. 1)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14244: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum (Keine Änderung der Flächenanteile, die für den genossenschaftlichen Wohnungsbau verwendet werden.)
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14348: Siemens-Studie "German Green City Index" darstellen (Wird zur Kenntnis genommen.)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 11.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14090: Aktion Saubere Stadt - Weiterentwicklung
+- TOP 12.2.: Beschluss des Bauausschusses vom 01.04.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13917: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14350: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2013 - 31.12.2013
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14117: Untersuchungen zum Wirtschaftsverkehr in München 1. Studie "Kraftfahrzeugverkehr in Deutschland 2010 (KiD 2010)" 2. Studie "Bestandsaufnahme, Analyse und Bewertung vorhandener Gleisanschlüsse in München und dem angrenzenden Umland
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
