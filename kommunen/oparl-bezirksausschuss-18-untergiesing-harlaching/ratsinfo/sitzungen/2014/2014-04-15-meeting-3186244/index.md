@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-04-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186244
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186244
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Schulwegsicherung Untergiesing: Bahnunterführung Claude-Lorrain-Straße / Hans-Mielich-Platz; Bürgeranliegen vom 22.03.2014
+- TOP 2.2.: Verkauf des Osram-Geländes am Mittleren Ring, Hellabrunner Straße; Schreiben des Kath. Stadtpfarramtes St. Franziskus
+- TOP 2.3.: Erneuerung der Ampelanlagen entlang der Naupliastraße und Seybothstraße (akkustisches Signal bei Grünlichtphase); Bürgerschreiben vom 03.03.2014
+- TOP 2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5.: Mountainbiker im Perlacher Forst; Bürgerschreiben vom 31.03.2014 zu 2.1.2.5 weiteres Bürgerschreiben vom 31.03.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Offener Brief des Elternbeirats der Kindertageseinrichtung Schönstraße an das RBS zum baulichen Zustand der Kindertageseinrichtung - Information durch Vertreter des RBS / des Elternbeirats
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Maibaumverein Menterschwaige e.V., für die Maßnahme: Harlachinger Maifest am 30.04 und 01.05.2014; Antragssumme: 4.604,00 ?; Beschlussvorlage des Direktoriums vom 26.03.2014
+- TOP 3.2.: AntragstellerIn: Katholische Kirchenstiftung St. Helena, für die Maßnahme: Erstellung eines Kirchen-Führers; Antragssumme: 600,00 ?; Beschlussvorlage des Direktoriums vom 26.03.2014
+- TOP 3.3.: AntragstellerIn: Kirchenstiftung der Pfarrei St. Helena, für die Maßnahme: Veranstaltung zum 50jährigen Jubiläum der Pfarrgemeinde St. Helena am 04.10.2014; Antragssumme: 1.440,00 ?; Beschlussvorlage des Direktoriums vom 31.03.2014
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Linkshänder e.V., für die Maßnahme: Strickaktion am Jakob-Gelb-Platz; Antragssumme: 884,38 ?; Antrag vom 25.03.2014
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Schulbushaltestelle Holzkirchner Straße - Gehweg; Bürgeranliegen vom 21.02.2014 (verwiesen aus der Sitzung vom 18.03.2014)
+- TOP 3.1.: Information über Betriebskonzept während der Weichenerneuerung am Kolumbusplatz in den Osterferien 2014; Schreiben der MVG vom 27.03.2014
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Gartenbauliche Pflege des Kreuzweges an der Marienklause; BA-Antrag Nr. 08-14 / B 04996 des BA 18 vom 17.07.2013; Vormerkung vom 27.02.2014 über einen Ortstermin an der Marienklause
+- TOP 3.2.: Rosengarten - Verschmutzung durch Hunde, Verbesserung der Situation; Bürgerschreiben vom 04.02.2014; Antwortschreiben des Baureferats-Gartenbau vom 13.03.2014 (neutrale Erledigung)
+- TOP 3.3.: Kioske in den Isarauen; BA-Antrag Nr. 08-14 / B 03477 vom 15.11.2011; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 28.03.2014 (neutrale Erledigung)
+- TOP 3.1.: Siemens-Studie "German Green City Index" darstellen; Stadtratsantrag Nr. 08-14 / A 02963 vom 06.12.2011; Sitzungsvorlage Nr. 08-14 / V 14348; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 26.03.2014 (SB)
+- TOP 3.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.2.1 Am Perlacher Forst 190, Genehmigungsbescheid vom 20.03.2014
+- TOP 3.3.: Aktion Saubere Stadt - Weiterentwicklung - Sauberkeit im öffentlichen Raum - Mehr Hundekottütenspender in Verbindung mit adäquaten Abfalleimern; Stadtratsantrag Nr. 08-14 / A 04146 vom 02.04.13 - Mehr Abfallbehälter auf öffentlichen Flächen; Stadtratsantrag Nr. 08-14 / A 04624 vom 12.09.13 - Bei Anruf Abfall-Leerung; Stadtratsantrag Nr. 08-14 / A 04639 vom 20.09.2013 - Müllproblematik im öffentlichen Raum; Stadtratsantrag Nr. 08-14 / A 04755 vom 06.11.2013; Sitzungsvorlage Nr. 08-14 / V 14090; Beschluss des Bauausschusses vom 11.03.2014 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 1: (E) Torwand (Ballnetz) am Candidplatz (Ost) wieder aufstellen Empfehlung Nr. 08-14 / E 02084 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 14.11.2013
+- TOP 1.1.: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des 3.4.6.1.1 Sozialreferats/Zentrale; Sitzungsvorlage Nr. 08-14 / V 14007 3.4.6.1.2 Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 14036 3.4.6.1.3 Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 14048 3.4.6.1.4 Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 14082 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 (SB)
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Beschlussentwurf zur Behandlung der Empfehlungen Nrn. 2073, 2075, 2076, 2077, 2078, 2086 aus der Bürgerversammlung des 18. Stadtbezirkes am 14.11.2013 zur künftigen Bebauung des Osram-Geländes; Zuleitung des Referats für Stadtplanung und Bauordnung vom 19.03.2014 mit der Bitte um Stellungnahme zum Entwurf bis spätestens 30.04.2014
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Josef-Humar-Straße, Neubau eines Zweifamilienhauses mit Doppelgarage und Stellplatz - TEKTUR; Anhörung vom 10.03.2014 (vertagt aus der Sitzung vom 18.03.2014)
+- TOP 1.2.: Griechenplatz 20, Neubau eines Doppelhauses mit zwei Einzelgaragen; Anhörung vom 14.03.14 (vertagt aus der Sitzung vom 18.03.14)
+- TOP 1.3.: Geiselgasteigstraße 126 - 128, Neubau einer Wohnanlage (24 WE) mit Tiefgarage (34 Stpl.); Anhörung vom 28.03.2014
+- TOP 1.4.: Athener Str. 52, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 20.03.2014
+- TOP 1.5.: Rabenkopfstraße 17, Neubau eines Einfamilienhauses mit Doppelgarage; Anhörung vom 26.03.2014
+- TOP 1.6.: Karneidstraße 9, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 19.03.2014
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Neuordnung Osram-Gelände; Bürgerschreiben vom 14.11.2013; Beschluss des BA 18 aus der Sitzung vom 17.12.2013; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 10.03.2014 (neutrale Erledigung)
+- TOP 1.2.: Geiselgasteigstraße 114d, Fl.Nr.: 12860/21, Gemarkung Sektion VII, bauaufsichtliche Überprüfung des Bauvorhabens; Bürgeranliegen vom 03.02.2014; Antwortschreiben der Lbk vom 18.03.2014 (negative Erledigung)
+- TOP 1.3.: A) Die LHM wird aufgefordert, das Anwesen Armanspergstraße 3 nicht zu veräußern. B) Die LHM wird aufgefordert, auf dem Grundstück einen Kindergarten/eine Kinderkrippe zu errichten, bzw. das Objekt an einen Träger zu vermieten/verpachten. C) Die LHM wird aufgefordert, eine Vergleichsberechnung über einen Zeitraum von 25 Jahren vorzulegen, mit der die Kosten für die Bezuschussung einer von einem freien Träger errichteten Kinderkrippe auf einem fremden Grundstück und die Kosten einer im Eigentum der LHM stehenden Kinderkrippe im Bestandsgebäude an diesem Standort verglichen werden; BA-Antrag Nr. 08-14 / B 05533 vom 21.01.2014; Zwischennachricht des Sozialreferats vom 03.04.2014
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Mitteilung des Kommunalreferats vom 10.03.2014 über ein Grundstücksgeschäft; hier: Ausübung des Vorkaufsrechts in der Pilgersheimer Straße 8
+- TOP 1.3.: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum; Empfehlung Nr. 08-14 / E 02081 der BÜV des Stadtbezirkes 18 am 14.11.2013; Sitzungsvorlagen Nr. 08-14 / V 14244; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 26.03.2014 (VB)
+- TOP 1.4.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.4.1 Anwesen Karneidstraße; Mitteilung des Sozialreferats vom 05.03.14
+- TOP 1.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung u. Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2013 - 31.12.2013; Sitzungsvorlagen Nr. 08-14 / V 14350; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 26.03.2014
+- TOP 1.6.: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung; Stadtratsantrag Nr. 02-08 / A 02368 vom 15.03.2005; BA-Antrag Nr. 02-08 / B 02578 vom 13.11.2007; Sitzungsvorlage Nr. 08-14 / V 13917; Beschluss des Bauausschusses vom 01.04.2014 (VB)
+- TOP 1.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.7.1 SSW "Café Mühle", Tierparkstraße 30; Mitteilung vom 01.04.2014
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Harlachinger Burschenfest - Durchführung des Festes in den kommenden Jahren in der jetzigen Form; Empfehlung Nr. 08-14 / E 02074 der BÜV des Stadtbezirkes 18 - Untergiesing-Harlaching am 14.11.2013; Sitzungsvorlage Nr. 08-14 / V 14206; Beschluss des BA 18 vom 15.04.2014 (vertagt aus der Sitzung vom 18.03.2014)
+- TOP 1.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Harlachinger Burschenfest in der Grünanlage an der Oberbiberger Straße vom 29.05.14 bis 01.06.14; Zuleitung des KVR mit der Bitte um Stellungnahme bis 23.04.14
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben; BV-Empfehlung Nr. 08-14 / E 02020 der BÜV des Stadtbezirkes 03 - Maxvorstadt vom 17.10.2013; Schreiben des Direktoriums vom 31.03.14 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.2013; Zwischennachricht des Direktoriums vom 16.12.2013; Nachfrage des Direktoriums vom 06.02.2014 mit der Bitte um Rücksendung einer Liste der priorisierten Standorte im 18. Stadtbezirk (vertagt aus der Sitzung vom 18.03.2014)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bezirkssportanlage Agilolfingerstraße 6; verschiedene Anliegen; Ergebnisprotokoll des Referats für Bildung und Sport zum gemeinsamen Ortstermin vom 11.03.2014
+- TOP 4.2.: Änderung der Satzung für die Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 28.11.2013; Korrektur des Kataloges der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse (Anlage 1 der BA-Satzung) bzgl. der Belange der Kinderbetreuung; BA-Antrag Nr. 08-14 / B 03722 des BA 13 vom 14.02.2012 2. Umsetzung der Empfehlungen in eine Änderungssatzung; Sitzungsvorlage Nr. 08-14 / V 13400; Beschluss des Verwaltungs- und Personalausschusses vom 05.02.2014 (VB)
+- TOP 4.3.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LHM (Sondernutzungsrichtlinien - SoNuRL); Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LHM (Sondernutzungsgebührensatzung - SoNuGebS); Beschluss des Kreisverwaltungsausschusses vom 08.04.2014 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
