@@ -1,0 +1,59 @@
+# 67. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-04-16T16:00:00+02:00
+- Ende: 2014-04-16T22:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3367
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3367
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_04_16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00166546.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Einrichtung des Gymnasiums Prohlis - erledigt
+- TOP 2.2: Ausschreibung Käseglocke - Pavillon am Postplatz - erledigt
+- TOP 2.3: Regelung Straßenmusik - erledigt
+- TOP 2.4: Erlwein-Villa - Elsa-Brandström-Straße - erledigt
+- TOP 2.5: Bürgerarbeitsplätze und Fortführung MOSE - erledigt
+- TOP 2.6: Erinnern - Gedenken - Feiern: 25-jähriges Jubiläum der Friedlichen Revolution - erledigt
+- TOP 2.7: 6. Tag der deutschen Zukunft - erledigt
+- TOP 2.8: Zukunft des Hochbauamtes - erledigt
+- TOP 2.9: Fuß- und Wanderwege - erledigt
+- TOP 2.10: Spielplatz am Fährgarten Johannstadt - erledigt
+- TOP 2.11: Sandsteinskulpturen Hauptstraße - erledigt
+- TOP 2.12: Erweiterung des Gymnasium Dresden-Bühlau: Kapazität und P+R Platz - erledigt
+- TOP 2.13: Hort 91. Grundschule "Am Sand" - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Ergebnisse der Einwohnerversammlung vom 17. Januar 2014 zum Ausbau der Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee - Zustimmung
+- TOP 5: Verkehrsbauvorhaben Königsbrücker Straße zwischen Albertplatz und Stauffenbergallee - Zustimmung mit Änderung
+- TOP 6: Vorkaufsrecht in Überschwemmungsgebieten wahrnehmen - Vertagung
+- TOP 7: Runder Tisch "Künstlerinnen, Künstler und Kulturwirtschaft brauchen Raum" - Vertagung
+- TOP 8: KREATIVES DRESDEN - Räume für die Kreativwirtschaft - Vertagung
+- TOP 9: Via Neolithica Dresdensis (Der Weg der Neolithen in Dresden) - Vertagung
+- TOP 10: Etablierung einer Kinderschutzambulanz im Rahmen des Netzwerkes Kinderschutz und Frühe Hilfen in Dresden - Vertagung
+- TOP 11: Medizinische Versorgung für Asylbewerberinnen und Asylbewerber verbessern - Krankenversichertenkarten einführen - Vertagung
+- TOP 12: Einrichtung einer Ombudsstelle für ALG-II-Beziehende - Vertagung
+- TOP 13: Sicherung der Mobilität im ÖPNV für Einwohnerinnen und Einwohner mit geringem Einkom-men durch Abfederung der jährlichen Tarifsteigerungen für den ÖPNV durch stetige Anpas-sung der Rabattstufen im Sozialtarif - Vertagung
+- TOP 14: Einstellung der Unterstützung durch die Landeshauptstadt Dresden zur Sanierung der Betriebsgesellschaft (BG) ESCD Dresden mbHt - Ersetzung
+- TOP 15: Unterstützung der SG Dynamo Dresden beim Lizenzierungsverfahren für den Spielbetrieb der Saison 2014/2015 - punktweise Zustimmung mit Änderung
+- TOP 16: Stadtratsbeschlüsse umsetzen - Dynamo-Stadionverträge endlich überarbeiten, Sicherheit und Klarheit für alle Vertragspartner schaffen! - Ablehnung
+- TOP 17: Neubau einer Zweifeldschulsporthalle an der 117. Grundschule "Ludwig Reichenbach", Reichenbachstraße 12 in 01069 Dresden - Zustimmung mit Ergänzung
+- TOP 18: Änderungsbeschluss zum Beschluss „Bauliche Erweiterung des Gymnasium Dresden-Bühlau, Quohrener Str. 12 in 01324 Dresden“ - Zustimmung mit Ergänzung
+- TOP 19: Annahme und Verwendung einer Zuwendung in Höhe von 12.000 EUR für das Stadtmuseum - Zustimmung
+- TOP 20: Veränderung des Sondervermögens des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Verweisung
+- TOP 21: Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - Vertagung
+- TOP 22: Aufhebung der Satzung über die Beteiligung und Entschädigung für sozial erfahrene Personen im Widerspruchsverfahren vom 25. November 1999 - Zustimmung
+- TOP 23: Kostensatz für das Übergangswohnheim Florian-Geyer-Straße 48 mit 17 Betten als Ausweichstandort für wohnungslose Personen - Vertagung
+- TOP 24: Kostensatzveränderung in Folge der Neuausrichtung und baulichen Instandsetzung des Übergangswohnheimes Hamburger Straße 63 zum Übergangswohnheim mit 55 Betten für Wohnungslose - Vertagung
+- TOP 25: Ergebnisse der Dresdner Debatte zum Entwurf des Verkehrsentwicklungsplans 2025plus (VEP 2025plus) der Landeshauptstadt Dresden - Vertagung
+- TOP 26: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Regelung der Wochenmärkte (Wochenmarktsatzung) vom 23.10.2008, zuletzt geändert am 23.12.2012 - Zustimmung
+- TOP 27: Verlängerung der Konzessionsverträge für die Thematischen Weihnachtsmärkte Prager Straße, Neumarkt, Hauptstraße, Postplatz und Taschenberg bis zum Jahr 2016 - Zustimmung
+- TOP 28: Gleiche Chancen für alle – Einführung anonymisierter Bewerbungsverfahren in der Stadtverwaltung - Vertagung
+- TOP 29: Entfristung der nicht zweckgebundenen Bundesmittel im Rahmen des Bildungs- und Teilhabepaketes - Vertagung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Übertragung der investiven Budgetreste vom Haushaltsjahr 2013 nach 2014 - zur Kenntnis genommen
