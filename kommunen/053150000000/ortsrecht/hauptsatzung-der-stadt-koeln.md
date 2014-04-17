@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2013-07-03 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_03072013.pdf
+- Datum: 2014-04-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_17042014.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 10. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 3. Juli 2013
+in der Fassung der 11. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 17. April 2014
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -111,7 +111,7 @@ j) die Funktionen in Vereinen oder vergleichbaren Gremien.
 (2) Die Geschäftsordnung regelt auch das Verfahren der Unterrichtung des Rates nach § 113 Abs. 5 GO.
 (3) Die Geschäftsordnung kann durch einfachen Mehrheitsbeschluss des Rates geändert werden.
 §8 Öffentliche Bekanntmachungen (§ 7 Abs. 4, § 48 Abs. 1, § 52 Abs. 3 GO; BekanntmachungsVO)
-(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden im "Amtsblatt der Stadt Köln" vollzogen.
+(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden im "Amtsblatt der Stadt Köln" vollzogen. Das gilt auch für sonstige durch Rechtsvorschrift vorgeschriebene öffentliche Bekanntmachungen.
 Seite 5 von 23
 
 Sonderregelungen des Bundes-, des Landes- oder darauf beruhenden Kölner Ortsrechts bleiben unberührt.
@@ -213,7 +213,7 @@ Seite 13 von 23
 (6) Auf Ersuchen des Rates oder des Hauptausschusses hat die Bezirksvertretung zu einer den Stadtbezirk berührenden Angelegenheit Stellung zu nehmen.
 (7) Den Bezirksbürgermeisterinnen/Bezirksbürgermeistern steht ein Akteneinsichtsrecht in den Angelegenheiten zu, in denen die Bezirksvertretungen nach § 19 Abs. 1 Hauptsatzung i.V.m. § 2 Abs. 1 Nr. 1 bis 7 Zuständigkeitsordnung ein Entscheidungsrecht haben.
 IV. Ausschüsse
-§ 20 Hauptausschuss (§§ 57 Absätze 2 und 3, 59 Abs. 1, 60 Abs. 1, 61 GO)
+§ 20 Hauptsatzung (§§ 57 Absätze 2 und 3, 59 Abs. 1, 60 Abs. 1, 61 GO)
 (1) Im Hauptausschuss führt die Oberbürgermeisterin/der Oberbürgermeister den Vorsitz. Dem Hauptausschuss gehören weiterhin 13 stimmberechtigte Ratsmitglieder sowie ggf. weitere Ratsmitglieder mit beratender Stimme gem. § 58 Abs. 1 Sätze 8 ff. GO an. Der Hauptausschuss entscheidet in den ihm durch §§ 59 bis 61 GO sowie den durch diese Satzung und die Zuständigkeitsordnung der Stadt Köln zugewiesenen Angelegenheiten.
 (2) Der Hauptausschuss kann in Angelegenheiten seines Aufgabenbereiches die Entscheidung der Oberbürgermeisterin/dem Oberbürgermeister übertragen.
 § 21 Sachkundige Bürger und Einwohner, Sachverständige
@@ -229,7 +229,7 @@ Seite 14 von 23
 
 1. die Beratung der Mandatsträger zur Auslegung des Leitfadens für Ratsmitglieder, Bezirksvertreter, sachkundige Einwohner und Bürger sowie Oberbürgermeister als Vorsitzender des Rates (Beschluss des Rates vom 28.04.2005, Ds. Nr.: 0616/005) und die Entwicklung praxisbezogener Handlungshinweise oder Änderungsvorschläge zum Leitfaden;
 2. die Entgegennahme von Mitteilungen und Anzeigen nach dem Leitfaden; 3. die Feststellung von Verstößen amtierender Mandatsträger gegen den
-Leitfaden oder gegen Pflichten insbesondere nach § 43 Abs. 1, 3 und 4 GO, § 17 Korruptionsbekämpfungsgesetz und § 6 dieser Hauptsatzung; 4. die Erteilung von Genehmigungen im Sinne des § 331 Abs. 3 StGB; 5. die Vorlage eines anonymisierten jährlichen Berichts an den Hauptausschuss bzw. an die Bezirksvertretungen.
+Leitfaden oder gegen Pflichten insbesondere nach § 43 Abs. 1, 3 und 4 GO, § 16 Korruptionsbekämpfungsgesetz und § 6 dieser Hauptsatzung; 4. die Erteilung von Genehmigungen im Sinne des § 331 Abs. 3 StGB; 5. die Vorlage eines anonymisierten jährlichen Berichts an den Hauptausschuss bzw. an die Bezirksvertretungen.
 (4) Das Nähere regeln der Leitfaden und eine vom Ältestenrat zu beschließende Geschäftsordnung.
 § 22 Integrationsrat (§§ 27 i.V.m. 126 GO)
 (1) Der Integrationsrat der Stadt Köln besteht aus 33 Mitgliedern. Die Mitglieder werden vom Rat zu einem Drittel nach dem für die Ausschüsse geltenden Verfahren aus seiner Mitte bestellt, zu zwei Dritteln nach den Bestimmungen des § 27 Gemeindeordnung (GO) für die Dauer der Wahlzeit des Rates nach Listen oder als Einzelbewerberinnen/Einzelbewerber gewählt.
@@ -244,8 +244,8 @@ Seite 15 von 23
 Der Integrationsrat ist in allen wichtigen Angelegenheiten, die die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, zu informieren und vor der Beschlussfassung durch den Rat zu beteiligen.
 (7) Der Integrationsrat wirkt an den Beratungen über die Haushaltssatzung mit. Er berät über alle Haushaltsansätze, die seine Aufgaben betreffen und kann dazu Vorschläge und Anregungen machen.
 Darüber hinaus weist der Rat dem Integrationsrat Mittel zu, die dieser nach der Maßgabe einer vom Rat zu beschließenden Richtlinie zur Förderung der Integrationsarbeit in Köln selbständig vergeben kann.
-Dabei handelt es sich insbesondere um  Zuschüsse für die Arbeit von Vereinen, Zentren und Initiativen, die in der
-Migrations-, Integrations- und Antidiskriminierungsarbeit tätig sind,  Verwendung von EU-, Bundes- oder Landesmitteln zur Förderung der Integration
+Dabei handelt es sich insbesondere um • Zuschüsse für die Arbeit von Vereinen, Zentren und Initiativen, die in der
+Migrations-, Integrations- und Antidiskriminierungsarbeit tätig sind, • Verwendung von EU-, Bundes- oder Landesmitteln zur Förderung der Integration
 und des friedlichen, gleichberechtigten Zusammenlebens. Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln gibt die Verwaltung den entsprechenden Fachausschüssen und dem Finanzausschuss unverzüglich zur Kenntnis. Der Rat entscheidet abschließend.
 (8) Dem Integrationsrat werden zur Erfüllung seiner Aufgaben die notwendigen personellen und sachlichen Mittel bereit gestellt. Gemäß § 27 Absatz 10 GO NRW werden dem Integrationsrat Mittel im städtischen Haushalt zugewiesen, die von der Geschäftsstelle verwaltet werden. Die Einzelheiten regelt ein Ratsbeschluss.
 (9) Der Integrationsrat erhält die Möglichkeit einer eigenständigen Öffentlichkeitsarbeit.
@@ -335,7 +335,7 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286 -
 
 Seite 22 von 23
 
