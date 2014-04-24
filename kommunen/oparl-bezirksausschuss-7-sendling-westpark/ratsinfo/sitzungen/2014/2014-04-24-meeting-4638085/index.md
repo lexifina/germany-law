@@ -1,0 +1,73 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2014-04-24T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638085
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638085
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgerinnen und Bürger haben das Wort
+- TOP 2: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5: Fragen an die Polizei
+- TOP 6: Weitere Punkte
+- TOP 7: Bürgerversammlungsempfehlungen
+- TOP 8: Entscheidungen
+- TOP 9: Budget
+- TOP 10: Anträge
+- TOP 11: Anträge und Berichte aus den Unterausschüssen
+- TOP 12: Berichte der Beauftragten
+- TOP 13: Baumfällungen
+- TOP 14: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15: Veranstaltungen auf öffentlichem Grund
+- TOP 16: Westparkveranstaltungen
+- TOP 17: Baureferat (1)
+- TOP 18: Büro des Oberbürgermeisters (1)
+- TOP 19: Direktorium (1)
+- TOP 20: Kommunalreferat (1)
+- TOP 21: Kreisverwaltungsreferat (1)
+- TOP 22: Kulturreferat (1)
+- TOP 23: Lokalbaukommission (1)
+- TOP 24: Referat für Arbeit und Wirtschaft (1)
+- TOP 25: Referat für Bildung und Sport (1)
+- TOP 26: Referat für Gesundheit und Umwelt (1)
+- TOP 27: Referat für Stadtplanung und Bauordnung (1)
+- TOP 28: Sozialreferat (1)
+- TOP 29: Weitere Anhörungen
+- TOP 30: Amtsblatt
+- TOP 31: Baureferat (2)
+- TOP 32: Büro des Oberbürgermeisters (2)
+- TOP 33: Direktorium (2)
+- TOP 34: Kommunalreferat (2)
+- TOP 35: Kreisverwaltungsreferat (2)
+- TOP 36: Kulturreferat (2)
+- TOP 37: Lokalbaukommission (2)
+- TOP 38: Referat für Arbeit und Wirtschaft (2)
+- TOP 39: Referat für Bildung und Sport (2)
+- TOP 40: Referat für Gesundheit und Umwelt (2)
+- TOP 41: Referat für Stadtplanung und Bauordnung (2)
+- TOP 42: Sozialreferat (2)
+- TOP 43: Weitere Unterrichtungen
+- TOP 44: Bürgerschreiben
+- TOP 45: Baureferat (3)
+- TOP 46: Büro des Oberbürgermeisters (3)
+- TOP 47: Direktorium (3)
+- TOP 48: Kommunalreferat (3)
+- TOP 49: Kreisverwaltungsreferat (3)
+- TOP 50: Kulturreferat (3)
+- TOP 51: Lokalbaukommission (3)
+- TOP 52: Referat für Arbeit und Wirtschaft (3)
+- TOP 53: Referat für Bildung und Sport (3)
+- TOP 54: Referat für Gesundheit und Umwelt (3)
+- TOP 55: Referat für Stadtplanung und Bauordnung (3)
+- TOP 56: Sozialreferat (3)
+- TOP 57: Weiterer Schriftverkehr
+- TOP 58: Verschiedenes
+- TOP 59: nichtöffentliche Tagesordnungspunkte
