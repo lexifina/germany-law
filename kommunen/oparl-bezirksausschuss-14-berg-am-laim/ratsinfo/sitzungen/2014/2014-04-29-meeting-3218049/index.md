@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218049
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218049
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Schlüsselbergstraße 36 - Genehmigung einer Freischankfläche
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Grafinger Str. 6 - Werk 9 - Nutzungsverlängerung bis 11.01.2016 sowie bauliche Änderungen im Erdgeschoss und 2. Obergeschoss
+- TOP 3.1.2.1.: Vorrang für Fußgänger und Radfahrer an der Rechtsabbiegespur vom Innsbrucker Ring in die Schlüsselbergstraße - <div></div>
+- TOP 3.1.2.2.: Radwege entlang der Neumarkter Str. und Hansjakobstraße
+- TOP 3.2.1.: Einen offiziellen Namen für den neugestalteten Platz an der Baumkirchner Straße - <div></div>
+- TOP 3.2.2.: Piusplatz - Frühlingsfest AKA e.V. am 06.06.2014
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben
+- TOP 3.5.2.: Alzheimer Gesellschaft München e.V. - Zuschussantrag
+- TOP 3.6.1.: Kainzenbadstraße 13
+- TOP 3.6.2.: Neumarkter Straße 35 - 41
+- TOP 3.6.3.: Berg-am-Laim-Straße 71
+- TOP 3.6.4.: Berg-am-Laim-Straße 42
+- TOP 3.6.5.: Waldstraße 24
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Mitteilung über ein Grundstücksgeschäft in der Neumarkter Straße
+- TOP 4.1.1.3.: Neubau von Entwässerungsanlagen an der Bahnlinie München-Rosenheim
+- TOP 4.1.1.4.: Ersatzneubau einer Bahnstromleitung von der Abzw. Karlsfeld nach München-Ost
+- TOP 4.1.1.5.: Beschlussvollzugskontrolle Ausschuss für Stadtplanung und Bauordnung des Stadtrates
+- TOP 4.1.1.6.: Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum - Empfehlung Nr. 08-14 / E 02081 der BV 18 am 14.11.2013 - Vorlagen-Nr. 08-14 / V 14244
+- TOP 4.1.1.7.: Siemens-Studie "German Green City Index" darstellen; Antrag Nr. 08-14 / A 02963 vom 06.12.2011 - Vorlagen-Nr. 08-14 / V 14348
+- TOP 4.1.2.1.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien -SoNuRL); Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS); Vorl.-Nr. 08-14 / V 14456
+- TOP 4.1.3.1.: Aktion Saubere Stadt - Weiterentwicklung - Sauberkeit im öffentlichen Raum Mehr Hundekottütenspender in Verbindung mit adäquaten Abfalleimern Antrag Nr. 08-14 / A 04146 vom 02.04.2013 Mehr Abfallbehälter auf öffentlichen Flächen Antrag Nr. 08-14 / A 04624 vom 12.09.2013 Bei Anruf Abfall-Leerung Antrag Nr. 08-14 / A 04639 vom 20.09.2013 Müllproblematik im öffentlichen Raum Antrag Nr. 08-14 / A 04755 vom 06.11.2013 Vorlagen -Nr. 08-14 / V 14090
+- TOP 4.1.3.2.: Kleingartenverband München e. V. unterstützen Antrag Nr. 08-14 / A 03484 vom 11.07.2012 Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen Antrag Nr. 08-14 / A 03514 vom 17.07.2012 - Vorlagen-Nr. 08-14 / V 13834
+- TOP 4.2.1.: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Vorlagen-Nr. 08-14 / V 13917 Richtlinienaktualisierung Kunst am Bau, Kunst im öffentlichen Raum - Antrag Nr. 02-08 / A 02368 vom 15.03.2005 Stimmrecht für VertreterInnen der Bezirksausschüsse in Preisgerichten für Kunst am Bau bzw. Kunst im öffentlichen Raum - Antrag Nr. 02-08 / B 02578 des BA 3
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: München lebt Vielfalt - Interkultureller Integrationsbericht 2013 - Vorl.-Nr. 08-14 / V 13861 - Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? Antrag Nr. 08-14 / A 03767
+- TOP 4.5.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 28.11.2013 a) Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest - BA-Antrag Nr. 08-14 / B 04288 des Bezirksausschusses 2 b) Benennung von Straßen und Wegen in Grünzügen - BA-Antrag Nr. 08-14 / B 04763 des Bezirksausschusses des Stadtbezirkes 11 c) Änderung der Bezirksausschuss-Satzung Antrag Nr. 08-14 / A 03545 der Stadtratsfraktion der FDP vom 25.07.2012 Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken - BA-Antrag Nr. 08-14 / B 04303 des BA 7 - Umsetzung der Empfehlungen in eine Änderungssatzung Vorlagen-Nr. 08-14 / V 14059
+- TOP 4.5.2.: MAG's & More e.V. - Verwendungsnachweis
+- TOP 4.5.3.: Münchner Volkshochschule - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.1.2.: Rosenheimer Straße 141 - Nutzungsänderung Büro- und Verwaltungsgebäude mit Einheiten > 400 m² & Errichtung von Außentreppen für den 2. Rettungsweg
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
