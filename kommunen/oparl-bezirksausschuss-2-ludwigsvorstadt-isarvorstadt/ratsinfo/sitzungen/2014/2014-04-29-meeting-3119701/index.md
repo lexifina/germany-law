@@ -1,0 +1,121 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-04-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3119701
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3119701
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Hälbjährliche Information der Bezirksausschüsse durch die Verwaltung über sämtlichen städtischen Leerstand im Bezirk
+- TOP .1.: (E) Budget der Bezirksausschüsse Südgarten Initiative Anfangsinvestitionen für einen Gemeinschaftsgarten
+- TOP .2.: (E) Budget der Bezirksausschüsse Kindertheater im Fraunhofer Musical ?Loreen schießt in die Luft? ab 13.04.2014
+- TOP .3.: (E) Budget der Bezirksausschüsse Haus der kleinen Künste e.V. ?Oper ist im Keller? von Mitte Juni bis Mitte Juli 2014
+- TOP .1.: Gestaltung des Spielplatzes an der Lagerhausstraße
+- TOP .2.: Gartenprojekt auf der Corneliusbrücke
+- TOP .3.: Geschichtswerkstatt, nächster Termin: 09.05.2014, 18:30 Uhr, Kreszentia-Stift
+- TOP .1.: Bahnhofsplatz autofrei gestalten, vertagt aus 2014.02 B 1.5
+- TOP .2.: Liste aller Hotels und Boardinghäuser im Stadtviertel, Antrag der SPD-Fraktion
+- TOP .1.: Projektplanung ?Erhardtstraße ? Haltestelle Corneliusbrücke?, Beschlussvorlage des Baureferates
+- TOP 2: (E) Teilweise Begrünung der Landwehrstraße zwischen Sonnenstraße und Schillerstraße (Ziffer 1) Empfehlung Nr. 08-14 / E 02055 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 07.11.2013
+- TOP 3: (E) Beseitigung des Leerstandes in städtischen Wohnungen Empfehlung Nr. 08-14 / E 02051 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 07.11.2013
+- TOP 3.3.1: Bauvorhaben
+- TOP 3.1.: Kapuzinerstr. 18, Neubau eines Wohngebäudes ? Vorbescheid, vertagt aus 2014.03 (Eilentscheidung)
+- TOP 3.2.: Lindwurmstr. 135, Erweiterung Ladenfläche EG ? Vorbescheid, vertagt aus 2014.03 (Eilentscheidung)
+- TOP 3.3.: Lindwurmstr. 35, Umbau eines Bürogebäudes in ein Hotel, vertagt aus 2014.03 (Eilentscheidung)
+- TOP 3.4.: Lindwurmstr. 117, Anbau / Erweiterung der Anlieferung hofseitig, Errichtung Müllbox-Stellplatz und Schalleinhausung sowie Austausch der Ein- und Ausgangstürelemente im EG straßenseitig, vertagt aus 2014.03 (Eilentscheidung)
+- TOP 3.5.: Schmellerstr. 32, Nutzungsänderung von Lagerraum zu Wohnen, Dachgeschoss-Ausbau, Anbau einer Notleiter ? Tektur, jetzt: Einbau eines Dachbalkons (Hofseite) sowie zweier Dachflächenfenster statt der Gaube (Straßenseite), vertagt aus 2014.03 (Eilentscheidung)
+- TOP 3.6.: Schillerstr. 5, Erweiterung / Aufstockung eines Hotels ? Vorbescheid
+- TOP 3.7.: Reichenbachstr. 14, Dachgeschoss-Ausbau eines Mehrfamilienhauses und Errichtung einer Notleiter ? Tektur
+- TOP 3.8.: Ickstattstr. 5, Dachaufbau neu mit straßenseitigem Giebel und Gauben (VGB) mit Speicherausbau im 4. OG, Balkon- (VGB + 1 RGB) und Aufzugsanbau (1. RGB), Dachneubau mit DG-Ausbau (1. RGB), Errichtung Dachterrasse (Seitenflügel 2. RGB), Nutzungsänderungen: EG VGB ? Wohnraum zu Bürofläche, EG 1. RGB ? Werkstatt zu Büroraum, 2. RGB ? Lager- zu Wohn- und Büroraum sowie Werkstattgebäude zu Müllhaus
+- TOP 3.9.: Baumstr. 6, Balkonanbau im Innenhof eines Mehrfamilienhauses (VGB + RGB)
+- TOP 3.10.: Baumstr. 6, Anbau eines Außenaufzugs an ein Mehrfamilienhaus
+- TOP 3.11.: Paul-Heyse-Str. 17, Dachgeschoss-Ausbau - Tektur
+- TOP 3.12.: Westermühlstr. 8, Einbau Dachgaube, Umbau Dachgaube und Umbau Dachgeschoss
+- TOP 3.13.: Adolf-Kolping-Str. 11, Umbau von Teilbereichen des Hotels und brandschutztechnische Ertüchtigung des Treppenraums, Erweiterung des Frührstückraums im EG bis zur Gebäudeaußenkante, Umbau des 5. OG und des Dachgeschosses ? Tektur
+- TOP 3.14.: Reichenbachstr. 43, Dachgeschossausbau (2 WE)
+- TOP 3.15.: Häberlstr. 17, Nutzungsänderung ?Netzwerk Geburt und Familie e.V.? und ?Beratungsstelle für natürliche Geburt und Elternsein e.V.?, Abbruch und Neuerrichtung des Dachstuhls (Vordergebäude) und Wiederaufbau zweier DG-Wohnungen, Abbruch der Dachstühle und Teilabbruch des 3. OG (Rückgebäude), Wiedererrichtung des 3. OG als Gewerbefläche und Aufstockung zweier Wohnungen, rückwärtiger Anbau von Glasaufzügen am VGB + RGB, energetische Sanierung des RGB ? Tektur
+- TOP 3.16.: Mittererstr. 9, Aufstockung eines Bürogebäudes und Umnutzung zu einem Hotel ? Vorbescheid
+- TOP 3.17.: Landwehrstr. 1, Dachgeschossausbau mit Hotelzimmer und Errichtung einer neuen Dachgaube sowie Verkleinerung der Gastraumfläche im Erdgeschoss - Tektur
+- TOP 3.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.1.: Kaiser-Ludwig-Pl. 3, Antrag auf Baumfällung, 2 Buchen
+- TOP 3.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 3.2.: Bürgeranliegen: Erscheinungsbild U-Bahn-Aufgang Fraunhoferstr. / Reichenbachstr.
+- TOP 3.1.: Keine offenen Feuer beim Nachtbiergarten des Viehhof-Kino, vertagt aus 2014.03
+- TOP 3.2.1: Gaststättenangelegenheiten
+- TOP 3.1.: Reichenbachstr. 51, Kleingaststätte ?Toskana Handels GmbH?, Erweiterung einer bestehenden Freischankfläche
+- TOP 3.2.: Bayerstr. 9, ?Helin Imbiss?, Erweiterung einer Freischankfläche, erneute Behandlung
+- TOP 3.3.: Bayerstr. 13, ?Pizza Hut?, Erweiterung einer Freischankfläche, erneute Behandlung
+- TOP 3.4.: Reichenbachstr. 13, ?Deutsche Eiche?, Erweiterung einer Freischankfläche
+- TOP 3.5.: Rumfordstr. 42, ?Gaststätte Thompson?, Errichtung einer Freischankfläche
+- TOP 3.6.: Poccistr. 2, ?Pizza Pocci?, Errichtung einer Freischankfläche ? PLENUMSBESCHLUSS
+- TOP 3.7.: Landwehrstr. 40, ?Sara Restaurant?, Erweiterung Freischankfläche ? PLENUMSBESCHL.
+- TOP 3.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 3.1.: Klenzestr. 45, ?Der Blumenladen?, Aufstellung einer Warenauslage (Blumen, Pflanzen)
+- TOP 3.2.: Reichenbachstr. 40, ?hannes roether?, Aufstellung einer neuen Warenstellage, vertagt aus 2014.03 C 2.2.1
+- TOP 3.2.3: Sonstige Entscheidungen
+- TOP 1: (E) Errichtung von Bus-/Wartehäuschen in der Richtung Ostbahnhof ? Zenettistr. (Linie 62) Empfehlung Nr. 08-14 / E 002065 der Bürgerversammlung des Stadtbezirkes 2 ? Ludwigsvorstadt - Isarvorstadt am 07.11.2013
+- TOP 1.1.: ?Dreimühlenspektakel?, Straßenfest Ehrengut-/Dreimühlenstr., 26.07.2014
+- TOP 1.2.: Münchner Bladenight 2014, ab 05.05.2014
+- TOP 1.3.: Temporärer Isarboulevard an zwei Wochenenden 2014
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Aufhebung der Radwegbenutzungspflicht in der Isartalstr., Anhörung des Kreisverwaltungsreferates zu einer geplanten verkehrsrechtlichen Anordnung
+- TOP 1.2.: Kapuzinerpl. 5, Errichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 1.3.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014), Anhörung ? PLENUMSBESCHLUSS
+- TOP 1.1.: Gelände der ehemaligen Großviehhalle auf dem Viehhof; geplante Vermietung für ?Schuhbeck's Teatro?, Anhörung der Markthallen München
+- TOP 1.1.: Bürgeranliegen: Kreuzung Lindwurmstr. / Poccistr. / Ruppertstr.
+- TOP 1.2.: Bürgeranliegen: Gestaltung Karl-Heinrich-Ulrichs-Platz
+- TOP 1.3.: Bürgeranliegen: Halteverbote bei einer Baustelle in der Reichenbachstr. 20-24 und 29-31
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.2: Termine
+- TOP 1.1.: Die konstituierende Sitzung des Bezirksausschusses (Wahlperiode 2014-2020) findet am Mittwoch, den 07.05.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.2.: Die BA-Sitzung findet am Dienstag, den 27.05.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.3.: Die konstituierende Sitzung des Bezirksausschusses (Wahlperiode 2014-2020) findet am Mittwoch, den 07.05.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Die BA-Sitzung findet am Dienstag, den 27.05.2014 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: Verwendungsnachweise
+- TOP 1.3.: Trainingsraum für Capoeira, BA-Antrag Nr. 08-14 / B 05296, Antwortschreiben des Referates für Bildung und Sport
+- TOP 1.4.: München lebt Vielfalt, Interkultureller Integrationsbericht 2013, Beschluss der Vollversammlung vom 19.03.2014, Sitzungsvorlage Nr. 08-14 / V 13861
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München
+- TOP 1.2.: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung, Beschlussvorlage für Bauausschuss am 01.04.2014, Sitzungsvorlage Nr. 08-14 / V 13917
+- TOP 1.3.: Beschlussvollzugskontrolle über die Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014, Sitzungsvorlage Nr. 08-14 / V 14350
+- TOP 1.4.: Siemens-Studie ?German Green City Index? darstellen, Beschlussvorlage Nr. 08-14 / V 014348 für den Ausschuss für Stadtplanung und Bauordnung am 26.03.2014
+- TOP 1.5.: Fahrbahnsanierung Wittelsbacherstr., Absenkungen Wittelsbacherbrücke, Erinnerungsverfahren; Antwortschreiben des Baureferates auf Stellungnahme des Bezirksausschusses bezügl. Maßnahmen in der Pfarrer-Rosenberger-Str., siehe 2014.02 B 3.3.4
+- TOP 1.6.: Baustelleneinrichtung an der Nußbaumstr. (Matthäuskirche), Ausnahmegenehmigung des Kreisverwaltungsreferates
+- TOP 1.7.: Bauvorhaben Schwanthalerstr. 47, Antwortschreiben der Lokalbaukommission auf Stellungnahme des Bezirksausschusses, siehe 2014.03 B 3.1.11
+- TOP 1.8.: Begrünung der Fraunhoferstr., Antwort der Lokalbaukommission bezügl. Bauvorhaben Fraunhoferstr. 43, siehe 2014.03 B 3.3.4
+- TOP 1.9.: Glockenbachmaibaum, Antwortschreiben der Verantwortlichen, siehe 2014.03 II 1
+- TOP 1.10.: Brunnen auf dem Viehhof-Gelände, Antwortschreiben Markthallen, siehe 2014.03 B 5.1
+- TOP 1.11.: Rückschnitt von Bäumen auf dem Grundstück Thalkirchner Str. 49, 49a-c, Abdruck eines Schreibens der Anwohner an die Hausverwaltung
+- TOP 1.12.: Mehrjahresinvestitionsprogramm 2014-2018, Schreiben der Stadtkämmerei
+- TOP 1.13.: Aktion Saubere Stadt Weiterentwicklung, Beschlussvorlage Nr. 08-14 / V 14090 der Vollversammlung vom 19.03.2014
+- TOP 1.14.: Verbleib der Stadtteilbibliothek im Arbeitsamt sicherstellen, BA-Antrag Nr. 08-14 / B 05724, Antwortschreiben der Münchner Stadtbibliothek
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Busparkplätze auf der Theresienwiese, Großveranstaltung am 26.03.2014, Schriftverkehr
+- TOP 1.7.: Anschaffung zusätzlicher Stationen mit Beuteln für Hundekot und Nachfüllen der Stationen, Anfrage Nr. 08-14 / Q 00555 aus der Bürgerversammlung vom 07.11.2013, Antwortschreiben des Baureferates
+- TOP 1.8.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest, BA-Antrag Nr. 08-14 / B 04288, Zwischennachricht des Direktoriums, siehe auch D 4.1
+- TOP 1.9.: Neufassung der Sondernutzungsrichtlinien und Sondernutzungsgebührensatzung, Beschlussvorlage für den Kreisverwaltungsausschuss am 08.04.2014, Sitzungsvorlage Nr. 08-14 / V 14456
+- TOP 1.10.: Information der MVG über Betriebskonzept während der Weichenerneuerung am Kolumbusplatz in den Osterferien 2014
+- TOP 1.11.: Kein Sandstrand auf dem Isarbalkon der Corneliusbrücke, BA-Antrag Nr. 08-14 / B 05468, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 1.12.: Neufassung der Sondernutzungsrichtlinien, Informationsschreiben des KVR zu neuen Freischankflächenrichtlinien an alle Gastwirte zur Kenntnis
+- TOP 1.1.: Änderung der Satzung für die Bezirksausschüsse, Beschluss d. Vollversammlung v. 19.03.2014, Sitzungsvorlage Nr. 08-14 / V 14059 (u.a. bezügl. Anhörungsrecht des BA 2 bei Entscheidungen u. Besprechungen zum Oktoberfest, BA-Antrag Nr. 08-14 / B 04288)
+- TOP 1.5: Sonstiges
+- TOP 3.1: Anträge
+- TOP 3.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 3.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
