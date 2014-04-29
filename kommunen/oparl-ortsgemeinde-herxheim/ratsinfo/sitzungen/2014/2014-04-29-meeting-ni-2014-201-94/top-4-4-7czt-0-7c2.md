@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 46. Sitzung des Haupt- und Finanzausschusses der Ortsgemeinde Herxheim (2014-04-29)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2014-201-94%7Czt_0%7C2
