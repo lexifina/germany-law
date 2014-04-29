@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-04-29T17:00:00+02:00
+- Ende: 2014-04-29T19:27:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8701
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8701
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216071.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216071.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216071.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Kinderspielplatz Vennhauser Allee - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Öffentliche Beleuchtung Wilhelm-Heinrich-Weg / Gatherweg - - einstimmig beschlossen
+- TOP 7: Öffentliche Beleuchtung Büllenkothenweg - einstimmig beschlossen
+- TOP 8: Parkregelung Geraer Weg - einstimmig beschlossen
+- TOP 9: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2014 - zur Kenntnis genommen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Grünfläche Denkmal Unterbach - beantwortet
+- TOP 13: Raumsituation GGS Brorsstraße - beantwortet
+- TOP 14: GHS Bernburger Straße - beantwortet
+- TOP 15: Überschwemmungsgebiete an der Südlichen Düssel - beantwortet
+- TOP 16: Masterplan Schulen im Stadtbezirk 8 - beantwortet
+- TOP 17: Anmeldezahlen und Inklusion an Schulen im Stadtbezirk 8 - beantwortet
+- TOP 18: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 19: Radverkehr im Stadtbezirk 8 - beantwortet
+- TOP 20: Barrierefreier Ausbau der S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 21: Grundstück Königsberger Straße 91 - beantwortet
+- TOP 22: Schlaglöcher im Stadtbezirk 8 - beantwortet
+- TOP 23: Leerstehende Wohngebäue im Stadtbezirk 8 - beantwortet
+- TOP 24: Grünschnitt im Stadtbezirk 8 - beantwortet
+- TOP 25: Zweckverband Unterbacher See - Dauercamper - beantwortet
+- TOP 26: Verkehrssituation Seeweg - einstimmig beschlossen
+- TOP 27: Grünfläche Unterbacher Denkmal - zurückgezogen
+- TOP 28: Bahnübergang Am Hackenbruch - zurückgezogen
+- TOP 29: Tütenspender und Abfallbehälter für Hundekot im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Bordsteinabsenkungen Geraer Weg - einstimmig beschlossen
+- TOP 31: Fassadenreinigung Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 32: Toilettenhaus Wasserspielplatz Eller - zurückgezogen
+- TOP 33: Spielplatz Nachbarschaftspark Eller-Lierenfeld - einstimmig beschlossen
+- TOP 34: Kindergarten Alt-Eller 31a - einstimmig beschlossen
+- TOP 35: Spielgeräte und Spielpunkte im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 36: Containerstation und Schulbushaltestelle Heidelberger Straße - einstimmig beschlossen
+- TOP 37: Toilettenanlage Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 38: Heizungsanlage Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 39: Gebäude Schlkossallee 14, Lore-Lorentz-Schule - einstimmig beschlossen
+- TOP 40: Bürgerpark Am Stufstock - mehrheitlich abgelehnt
+- TOP 41: Sanierung Straßenbelag Ludwigshafener und Unterbacher Straße - einstimmig beschlossen
+- TOP 42: Neugestaltung Am Turnisch - mehrheitlich abgelehnt
+- TOP 43: Einrichtung eines Radstreifens auf der Gubener Straße - mehrheitlich abgelehnt
+- TOP 44: Gymnasium im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 45: Spielpunkte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Barrierefreie Haltestelle Am Turnisch - zur Kenntnis genommen
+- TOP 47: Bürgersteig Coburger Weg - zur Kenntnis genommen
+- TOP 48: Fahrbahndeckensanierung Butzbacher Weg - zur Kenntnis genommen
+- TOP 49: Fahrbahnsanierung Ludwigstraße - zur Kenntnis genommen
+- TOP 50: Grundstück Festenbergstraße 13 - zur Kenntnis genommen
+- TOP 51: Mittelinsel Eller Kamp / Am Kleinforst - zur Kenntnis genommen
+- TOP 52: Pausenhofdach GGS Gumbertstraße 191 - zur Kenntnis genommen
+- TOP 53: Fuß- und Radwege Am Kleinforst und Vennhauser Allee - zur Kenntnis genommen
+- TOP 54: Ortsumgehungen Gerresheim und Flingern - zur Kenntnis genommen
+- TOP 55: Masterplan Kinderspielplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Fußgängerbrücke Festenbergstraße / Krippstraße - zur Kenntnis genommen
+- TOP 57: Abfallbehälter Gertrudisplatz - zur Kenntnis genommen
+- TOP 58: Gehweg Chemnitzer Straße - zur Kenntnis genommen
+- TOP 59: Brachfläche Festenbergstraße - zur Kenntnis genommen
+- TOP 60: Bankstandorte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 61: Anmeldezahlen und Inklusion an Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 62: Schulentwicklung im Gymnasialbereich - zur Kenntnis genommen
+- TOP 63: Beflaggung öffentlicher Gebäude im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Grünschnitt im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 65: Barriefereier Umbau der S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Masterplan Schulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Schlaglöcher im Stadtbezirk 8 - zur Kenntnis genommen
