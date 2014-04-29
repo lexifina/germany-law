@@ -1,0 +1,7 @@
+# TOP 3: Bauleitplanung nördliche Schwesternstraße
+
+- Sitzung: Rat (2014-04-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/27073
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/1529
