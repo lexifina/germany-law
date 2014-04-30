@@ -1,0 +1,59 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-04-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052472
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052472
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Jugendzentrum Schwabing-West/CVJM München e.V. AktivFerien am Ackermannbogen vom 10. bis 14.06.2014
+- TOP .1.: Bürger: Bar ?Pomp?, Georgenstr. 50: Belästigung der Anwohner; mögliche Erweiterung
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Clemensstr. 84, Feinkost ?Reblaus?: Genehmigung einer Freischankfläche
+- TOP .2.: Clemensstr. 71, ?X?: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. April-Ausstellung im SchauRaum vom 20. bis 30.04.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Münchner Filmwerkstatt e.V. Kurzfilmfestival vom 19. bis 25.06.2014
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Veranstaltungen am Ackermannbogen a) Quartiersflohmarkt am 17.05.2014 b) Aktivferien vom 10. bis 13.06.2014
+- TOP .2.: Anwohnerfest an der Schleißheimer Str. 105 am 28.06.2014
+- TOP .3.: Münchner Bladenight 2014 ab 05.05.2014
+- TOP .4.: Straßenfest in der Isabellastraße zwischen Georgen- und Agnesstraße am 11.07.2014
+- TOP .2.1.: Planen
+- TOP .1.: Belgradstr. 128 a: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .2.: Herzogstr. 88: Erweiterung von zwei DG-Wohnungen mit Verlängerung des Fluchtwegs bis ins 2. DG
+- TOP .3.: Georgenstr. 26-28: Bau einer Loggia
+- TOP .4.: Tektur Elisabethstr. 91: Nutzungsänderung/Umbau eines Bürogebäudes zu Wohnungen
+- TOP .5.: Belgradstr. 36: Erweiterung des Speicherausbaus im 2. DG (VH) und Zusammenlegung mit der Wohnung im 1. DG über eine Spindeltreppe, Anbau von Balkonen sowie Errichtung eines Dacheinschnitts und von Gauben
+- TOP .6.: Bummstr. 5-15: Anbau von Balkonen
+- TOP .7.: Gentzstr. 3: Anbau eines Aufzugs
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Einrichtung eines Kreisverkehrs an der Kreuzung Lerchenauer Straße / Schleißheimer Straße / Bamberger Straße
+- TOP .2.: Bürger und Bürgerin: Straßenmarkierung an der Karl-Theodor-/Belgradstraße
+- TOP .3.: Bürger: Parksituation in Schwabing-West
+- TOP .4.: FDP-Fraktion: Grünfläche am Kriegerdenkmal an der Loth-/Winzerer-/Georgenstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Clemensstr. 59: Fällung einer Hängebirke
+- TOP .2.: Winzererstr. 43: Fällung eines Bergahorn
+- TOP .3.: Schleißheimer Str. 144: Fällung einer Fichte in Zusammenhang mit einem Bauvorhaben des Sozialreferats (Modernisierung eines Mehrfamilienhauses mit Erneuerung des Dachstuhls und DG-Ausbau)
+- TOP .4.: Hildeboldstr. 6: Fällung eines Laubbaums
+- TOP .5.: Sailerstr. 20: Fällung einer Tanne und einer Mehlbeere
+- TOP .2.2.: Verkehr
+- TOP .1.: Veränderung der Verkehrssituation in der Tengstraße (Empfehlung Nr. 08-14/E 01933 aus der Bürgerversammlung am 01.10.2013) Anhörung zur Beschlussvorlage für den Stadtrat
+- TOP .1.: Rede- und Antragsrecht für Elternbeiräte durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben (Anhörung zu einer Empfehlung der Bürgerversammlung Maxvorstadt am 17.10.2013)
+- TOP .1.: Anträge auf Abgeschlossenheitsbescheinigung in den Erhaltungssatzungsgebieten in Schwabing-West
+- TOP .2.: Probeweise Installation von "Pfandkisten" neben bzw. an öffentlichen Abfallbehältern in Schwabing-West
+- TOP .3.: Probleme beim Abbiegen der Busse der Linie 153 aus der Belgrad- in die Herzogstraße: Neumarkierung der Haltelinie in der Herzogstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
