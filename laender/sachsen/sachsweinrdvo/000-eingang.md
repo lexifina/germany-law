@@ -1,5 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Durchführung des Weinrechts (WeinrechtsDVO)
 Vom 30. November 2012
+Rechtsbereinigt mit Stand vom 1. Mai 2014
 Es wird verordnet
 1. durch das Staatsministerium für Umwelt und Landwirtschaft aufgrund von
 a)
@@ -11,7 +12,7 @@ c)
 d)
 § 29 Abs. 1 Nr. 1 und Abs. 2 Nr. 1 und 2 des Weingesetzes in Verbindung mit § 14 Abs. 1 der Wein-Überwachungsverordnung in der Fassung der Bekanntmachung vom 14. Mai 2002 (BGBl. I S. 1624), die zuletzt durch Artikel 2 der Verordnung vom 19. Juli 2011 (BGBl. I S. 1514, 1515) geändert worden ist, und § 33 Abs. 1 Nr. 1 bis 3 des Weingesetzes in Verbindung mit § 29 Abs. 3 der Wein-Überwachungsverordnung, jeweils in Verbindung mit § 54 Abs. 1 des Weingesetzes und § 1 Abs. 1 Nr. 12 und Abs. 2 Nr. 2 der Verordnung der Sächsischen Staatsregierung zur Übertragung von Verordnungsermächtigungen im Bereich der Land- und Forstwirtschaft sowie des Verbraucherschutzes im Einvernehmen mit dem Staatsministerium für Soziales und Verbraucherschutz,
 e)
-§ 6 Abs. 3 Satz 1 Nr. 1 in Verbindung mit § 6 Abs. 1 Nr. 8, 10 Buchst. b und Nr. 11 des Gesetzes zum Schutz der Kulturpflanzen (Pflanzenschutzgesetz – PflSchG) vom 6. Februar 2012 (BGBl. I S. 148, 1281) in Verbindung mit § 1 Abs. 1 Nr. 1 der Verordnung der Sächsischen Staatsregierung zur Übertragung von Verordnungsermächtigungen im Bereich der Land- und Forstwirtschaft sowie des Verbraucherschutzes ,
+§ 6 Abs. 3 Satz 1 Nr. 1 in Verbindung mit § 6 Abs. 1 Nr. 8, 10 Buchst. b und Nr. 11 des Gesetzes zum Schutz der Kulturpflanzen ( Pflanzenschutzgesetz – PflSchG) vom 6. Februar 2012 (BGBl. I S. 148, 1281) in Verbindung mit § 1 Abs. 1 Nr. 1 der Verordnung der Sächsischen Staatsregierung zur Übertragung von Verordnungsermächtigungen im Bereich der Land- und Forstwirtschaft sowie des Verbraucherschutzes,
 f)
 § 16 Abs. 1 Satz 2 Nr. 1 des Gesetzes über die Verwaltungsorganisation des Freistaates Sachsen (Sächsisches Verwaltungsorganisationsgesetz – SächsVwOrgG) vom 25. November 2003 (SächsGVBl. S. 899), das zuletzt durch Artikel 1 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 131) geändert worden ist,
 2. durch das Staatsministerium für Soziales und Verbraucherschutz aufgrund von
