@@ -1,19 +1,19 @@
 # Anlage 2 - Besoldungsordnung B
 Anlage 2
 Besoldungsordnung B
-Gültig ab 01. September 2013
+Gültig ab 01. September 2014
 Besoldungsordnung B
 Grundgehaltssätze
 (Monatsbeträge in Euro)
 Besoldungsgruppe | 
-B 1 | 5.602,75
-B 2 | 6.506,48
-B 3 | 6.889,09
-B 4 | 7.289,81
-B 5 | 7.749,54
-B 6 | 8.183,70
-B 7 | 8.606,01
-B 8 | 9.046,16
-B 9 | 9.592,69
-B 10 | 11.289,86
-B 11 | 11.727,27
+B 1 | 5.726,79
+B 2 | 6.644,08
+B 3 | 7.032,43
+B 4 | 7.439,16
+B 5 | 7.905,78
+B 6 | 8.346,46
+B 7 | 8.775,10
+B 8 | 9.221,85
+B 9 | 9.776,58
+B 10 | 11.499,21
+B 11 | 11.943,18
