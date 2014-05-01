@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 Teil 1 Allgemeine Vorschriften
 § 1 Anwendungsbereich
 § 2 Begriffe
@@ -103,7 +103,7 @@ Abschnitt 6 Baulasten
 Teil 6 Ausführungsbestimmungen zum Baugesetzbuch
 § 84 Nachnutzung land- und forstwirtschaftlicher Gebäude
 § 85 Zuständigkeitsregelungen für Aufgaben nach dem Baugesetzbuch
-§ 86 Aufsicht über Gutachterausschüsse nach dem Baugesetzbuch
+§ 86 Bildung eines Oberen Gutachterausschusses, Aufsicht über die Gutachterausschüsse und den Oberen Gutachterausschuss
 Teil 7 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften
 § 87 Ordnungswidrigkeiten
 § 88 Rechtsvorschriften
