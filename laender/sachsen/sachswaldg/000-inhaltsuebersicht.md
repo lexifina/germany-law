@@ -30,7 +30,7 @@ Vierter Teil Bewirtschaftung des Waldes
 § 24 Beachtung ökologischer Grundsätze bei der Bewirtschaftung des Waldes
 § 25 Nachbarrechte und Nachbarpflichten
 § 26 Benutzung fremder Grundstücke
-§ 27 Vorkaufsrecht
+§ 27 (aufgehoben)
 § 28 Schutzmaßnahmen gegen Waldbrände und Naturereignisse
 Fünfter Teil Wälder mit Sonderstatus
 § 29 Schutzwald
