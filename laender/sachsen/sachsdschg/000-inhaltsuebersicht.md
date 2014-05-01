@@ -14,7 +14,7 @@ III. Abschnitt Schutzvorschriften
 § 9 Nutzung, Zugang
 § 10 Verzeichnis der Kulturdenkmale
 § 11 Maßnahmen der Denkmalschutzbehörden
-§ 12 Genehmigungspflichtige Vorhaben an Kulturdenkmalen
+§ 12 Genehmigungspflichtige und anzeigepflichtige Vorhaben an Kulturdenkmalen
 § 13 Genehmigungsverfahren
 § 14 Genehmigungspflicht für Bodeneingriffe, Nutzungsänderungen und Nachforschungen; Kostenerstattungspflicht
 § 15 Auskunfts- und Duldungspflichten
