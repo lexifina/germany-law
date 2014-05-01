@@ -1,4 +1,4 @@
 # Straßengesetz für den Freistaat Sachsen (Sächsisches Straßengesetz – SächsStrG)
 Vom 21. Januar 1993
-Rechtsbereinigt mit Stand vom 1. März 2012
+Rechtsbereinigt mit Stand vom 1. Mai 2014
 Der Sächsische Landtag hat am 17. Dezember 1992 das folgende Gesetz beschlossen:
