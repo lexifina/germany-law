@@ -1,0 +1,83 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-05-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149468
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149468
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben der Seniorenbeirätin vom 17.04.2014 Anregung zur Benennung einer/s Seniorenbeauftragten im BA 3
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 07.04.2014 Gehweg vor dem Haupteingang der TU ist durch abgestellte Fahrräder versperrt
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.04.2014 Freischankflächen und Gaststätten in der Maxvorstadt
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 02.04.2014 Beschattung durch Bäume in der Blutenburgstraße
+- TOP .5.: Schreiben einer Bürgerin aus der Maxvorstadt vom 17.04.2014 Erläuterungstafel zum Obelisken am Karolinenplatz
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Baulisten des Planungsreferates: 13., 14., 15., 16. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen:
+- TOP .3.: Theresienstraße 71 a + 75, Neubau zweier Wohnhäuser mit Keller (BT 1+2), Innenhofbebauung (BT 3-7), Kellergeschoss sowie Großgarage (BT 8) ? Vorbescheid
+- TOP .4.: Schleißheimer Straße 52, Neubau eines Rückgebäudes ? Vorbescheid
+- TOP .5.: Luisenstraße 43, Aufstockung eines Rückgebäudes um 2 Geschosse (2 WE) ? Vorbescheid
+- TOP .6.: Augustenstraße 62, Anhebung des Dachstuhls und DG-Ausbau
+- TOP .7.: Augustenstraße 4, Sanierung, Ausbau und Umbau des Speichers sowie interne Verbindung des Speichers mit der rechten Wohnung im DG
+- TOP .8.: Theresienstraße 126, Dachgeschoss-Ausbau
+- TOP .9.: Schellingstraße 109 a, Neubau eines Wohn- und Geschäftsgebäudes, Vorbescheid
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Nymphenburger Straße 37, 1 japanischer Pagodenbaum
+- TOP .2.: Geschwister-Scholl-Platz 1, eine Pappel, eine Robinie
+- TOP .3.: Königinstraße 6-8, Bäume laut Gehölzliste zum Baumbestandsplan, Stand Januar 2012
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Grundsatzangelegenheiten, verkehrs- rechtliche Anordnung nach § 45 StVO Öffnung des in Richtung Süden einbahngeregelten Steinickeweges zwischen der There- sienstraße und der Heßstraße für den gegenläufigen Radverkehr
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Ersatzloser Abbau der Lichtzeichenanlage Augusten-/Görresstraße
+- TOP .3.: Radfahren entgegen der Einbahnrichtung in der Sophienstraße
+- TOP .4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Anhörung Einrichtung eines personenbezogenen Behindertenparkplatzes in der Georgenstraße 53
+- TOP .5.: Münchner Verkehrsgesellschaft mbH (MVG), Anhörung Leistungsprogramm der MVG (Fahrplanwechsel Dezember 2014)
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Maximiliansplatz 9 Erweiterung einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Anhörung Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 22.05. bis 01.06.2014
+- TOP .2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Basketballturnier an der Barer Straße/Ecke Theresienstraße am 31.05.2014
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Sozialreferat Vollzug der Zweckentfremdungssatzung, Leerstände in der Maxvorstadt Amalienstraße
+- TOP 3.2.: Baureferat Gartenbau Mitteilung über die Fällung einer Robinie in der Königinstraße als Gefahrenbaum
+- TOP 3.3.: Stadtwerke München Information über eine Baumfällung in der Blutenburgstraße, Höhe Haus Nr. 18
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Nördliches Ende der Augustenstraße umgestalten
+- TOP 3.2.: Baureferat Königsplatz, Sanierung des Anlagenweges Königsplatz/Arcisstraße
+- TOP 3.3.: Baumaßnahmen der Stadtwerke a) Karlstraße 49,Strom b) U-Bahnhof Universität, Strom
+- TOP 3.4.: Kreisverwaltungsreferat, Gaststätten, Bezirksinspektionen Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Lan- deshauptstadt München (Sondernutzungsrichtlinien ? SoNuRL) Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS)
+- TOP 3.5.: Kreisverwaltungsreferat, Gaststätten, Bezirksinspektionen Genehmigung von Freischankflächen Empfehlung Nr. 08-14 / E 00177 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt (Unterlagen s. TOP F 2.4)
+- TOP 3.6.: Kreisverwaltungsreferat, Gaststätten, Bezirksinspektionen Antrag auf Aufhebung der Sperrzeit für die Table-Dance-Bar ?boobs?, Dachauer Str. 17 Bitte um Herbeiführung einer Entscheidung des Oberbürgermeisters nach dem Beschluss des BA 3 vom 10.12.2013
+- TOP 3.7.: Verlängerung des vorhandenen Radwegs am Oskar-von-Miller-Ring und Anpassung der Fußgänger-Aufstellflächen an den Ampeln.
+- TOP 3.8.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest zum Tag des Bayerischen Bieres am 23.04.2014, Genehmigungsbescheid
+- TOP 3.9.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung nach § 45 StVO: Tempo-30-Zone in der Heß- und der Schraudolphstraße
+- TOP 3.10.: Kreisverwaltungsreferat, Gewerbe Neufassung der Sondernutzungsrichtlinien; Änderung in den Freischankflächenrichtlinien
+- TOP 3.11.: Trinkwasserbrunnen in der Maxvorstadt aufstellen
+- TOP 3.4.: Kultur
+- TOP 3.1.: Kulturreferat Kunst im öffentlichen Raum; u.a. Realisation der Intervention ?Ballenernte? von Michael Beutler Sitzungsvorlage Nr. 08-14 / V 14432 Beschluss des Kulturausschusses vom 27.03.2014
+- TOP 3.2.: Baureferat Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung Antrag Nr. 02-08 / A 02368 vom 15.03.2005 von Mitgliedern des Stadtrates Stimmrecht für VertreterInnen der Bezirksausschüsse in Preisgerichten für Kunst am Bau bzw. Kunst im öffentlichen Raum Antrag Nr. 02-08 / B 02578 des BA 3 Maxvorstadt vom 13.11.2007
+- TOP 3.1.: Direktorium, Unterrichtung Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München BA-Antrag 08-14 / B 04288 des BA 2 Ludwigsvorstadtd-Isarvorstadt vom 02.10.2012 BA-Antrag 08-14 / B 04763 des BA 11 Milbertshofen-Am Hart vom 10.04.2013 BA-Antrag 08-14 / B 04303 des BA 7 Sendling-Westpark vom 09.10.2012 Antrag Nr. 08-14 / A 03545 der Stadtratsfraktion der FDP vom 25.07.2012 Sitzungsvorlage Nr. 08-14 / V 14059 Beschluss der Vollversammlung des Staddtrates vom 19.03.2014
+- TOP 3.2.: Rede und Antragsrecht für Elternbeiräte etc. durch deren Vertreter in Bürgerversamm- lungen, auch wenn diese keinen Wohnsitz im Stadtbezirk haben, Anhörung BV-Empfehlung Nr. 08-14 / E 02020 der Bürgerversammlung für den Stadtbezirk 3 Max- vorstadt vom 17.10.2013
+- TOP 3.3.: Baureferat Einwohnerversammlung Josephsplatz
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
