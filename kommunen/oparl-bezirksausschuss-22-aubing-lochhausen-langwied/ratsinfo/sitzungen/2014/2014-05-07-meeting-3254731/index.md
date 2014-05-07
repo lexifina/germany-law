@@ -1,0 +1,107 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-05-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3254731
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3254731
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: "Vertreibung" von unserer seit über 50 Jahren bestehenden Sportanlage in der Brunhamstraße / Verein Sportgemeinschaft 1992 München e.V.
+- TOP 2.2.: Öffnung Langwieder Bach
+- TOP 2.3.: Bauvorhaben Walter-Brecht-Str. 12
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungsgenehmigung: - Staufener Str. 10, Schr. Planungsreferat vom 03.04.14 - Stolzeneckstr. 3, Schr. Planungsreferat vom 03.04.14
+- TOP 3.2.: Baumfällungen auf Anforderung: - Wolfsberger Str. 5 - Aubing-Ost-Str. 19 - Heuglinstr. 16 - Ehrenbürgstr. 9 - Gilchinger Str. 7 - Ubostr. 11
+- TOP 3.3.: Unterrichtung über das Fällen von Gefahrenbäumen, hier: - Mooswiesenstr. Fl.Nr. 2544, Schr. Baureferat vom 03.04.14 - Ubostr. 11, Schr. Baureferat vom 11.04.14 - Ehrenbürgstr. 9, Schr. Planungsreferat vom 22.04.14
+- TOP 3.4.: Baumfällung zu Bauvorhaben: - Emmeringer Str. 2
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Regsambeauftragte
+- TOP 3.3.6: Beauftragte gegen Rechtsextremismus
+- TOP 3.3.6: Mieterbeirat
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Darstellung Grundschulversorgung aufgrund des Neubaugebietes Aubing-Ost (Bebauungsplan Nr. 1977)
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse: PA/Spielen in der Stadt e.V. - Tanz- und Theaterfestival ?Rampenlichter? von 09. bis 19.07.2014 (vertagt aus 04/14)
+- TOP 2: Verfüllung der kleinen Unterführung und Errichtung eines Überganges an der Kreuzung Limes- / Bodenseestraße Empfehlung Nr. 08-14 / E 01402 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 26.06.2012 Kreuzung Brunhamstraße / Bodenseestraße; Einbau einer Rechtsabbiegespur (Antrag 3) Empfehlung Nr. 08-14 / E 01848 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 25.06.2013 (Siehe dazu TOP 6.4.2.24)
+- TOP 2.3.: Budget der Bezirksausschüsse BRK Wasserwacht OG München-West Beschaffung Sitzgruppe und Flachbildschirm
+- TOP 2.4.: Vollz. d. Bay. Straßen- und Wegegesetzes im Stadtbezirk 22, hier: Widmung einer Teilstrecke der Centa-Hafenbrädl-Straße und Umstufung einer Teilstrecke der Freihamer Allee
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.2.: Aufstellung von Containern für Schulen, Schr. Referat für Bildung und Sport vom 02.04.14
+- TOP 6.3.: Zwischenbericht zur Raumsituation der Grundschule am Ravensburger Ring, Schr. Referat für Bildung und Sport vom 02.04.14
+- TOP 6.4.: Fußballplatz für Jugendliche in Lochhausen, Schr. Baureferat vom 09.04.14
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendungsbewilligung aus dem Budget des BA für die Kirchenverwaltung St. Quirin Aubing, Schr. Direktorium vom 07.04.14
+- TOP 6.2.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: SOS Mütter- und Kindertageszentrum München, Bescheid vom 17.04.14
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Rothenbühler Str. 8 - Neubau eines Dreifamilienhauses mit 3 Stellplätzen, Anhörung Planungsreferat vom 31.03.14 (vertagt aus 04/14)
+- TOP 6.2.: Pretzfelder Str. 26 - Neubau eines 6-Familienwohnhauses mit Tiefgarage, Anhörung Planungsreferat vom 02.04.14 (vertagt aus 04/14)
+- TOP 6.3.: Leitungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014), Anhörung MVG vom 14.04.14
+- TOP 6.4.: Aubing-Ost-Str., Fl.St. 1630/30, Neubau einer Wohnanlage (103 WE) mit Großgarage (62 Stpl.), Anhörung Planungsreferat vom 10.04.14
+- TOP 6.5.: Feuerhausstr. 8, Neubau eines Mehrfamilienhauses mit Tiefgarage (12 Stpl.) - Vorbescheid, Anhörung Planungsreferat vom 10.04.14
+- TOP 6.7.: Bodenseestr., Gemarkung: Aubing, Fl.Nr. 3528/0, Temporäres Betonmischwerk und Kieslager (Gesamtfläche ca. 2,4 ha) befristet für die Dauer der Entwicklungszeit des neuen Siedlungsschwerpunktes Freiham, mind. jedoch für 15 Jahre / Vorbescheid, Anhörung des Planungsreferates vom 17.04.14
+- TOP 6.8.: Bebauungsplan mit Grünordnung Nr. 1998b Bahnlinie München-Herrsching (südlich) Kravogelstr. (westlich) Papinstr. (südlich, östlich), Gewerbegebiet ehem. Ausbesserungswerk (nördlich) (Teiländerung des Bpl. Nr. 1127), Anhörung Planungsreferat vom 15.04.14
+- TOP 6.1.: Baufälle im 22. Stadtbezirk v. 24.03.-30.03.14, v. 31.03.-06.04.14, v. 07.04.-13.04.14, v. 14.04.-20.04.14, Schr. Planungsreferat vom 31.03.14, 08.04.14, 15.04.14, 22.04.14
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 31.03.14, 07.04.14, 14.04.14, 22.04.14
+- TOP 6.4.: Verkehrsrechtliche Anordnung: Hanfgartenstraße Kreuzung Mooswiesenstraße, Schr. KVR vom 26.03.14
+- TOP 6.5.: Mobilfunk, Suchkreismeldung im Suchkreis M-Aubing Wasserturm, Planung eines neuen GSM-/UMTS-/LTE-Mobilfunkstandortes, Schr. TÜV Rheinland
+- TOP 6.6.: Kanalverlängerung Hohensteinstraße: Bedarfs- und Projektgenehmigung, Schr. Münchner Stadtentwässerung vom 06.03.14
+- TOP 6.7.: Leerung der Abfallkörbe an der Bushaltestelle Wiesentfelser Str. 68 und Lichteneck-/Kastelburgstraße, Schr. Baureferat vom 01.04.14
+- TOP 6.8.: Parkverbot bei Reinigung der Straßen und Bürgerinformation, Schr. Baureferat vom 31.03.14
+- TOP 6.9.: Reinigung der Aubing-Ost-Straße von Baustellendreck, Schr. Planungsreferat vom 01.04.14
+- TOP 6.10.: Friedhof Aubing - Gießwasser, Brunnen auf dem Friedhof, Schr. Städt. Friedhöfe München vom 03.04.14
+- TOP 6.11.: Energiewirtschaftsgesetz - EnWG; 110 kV-Leitung Kochel-Karlsfeld, Erhöhung einzelner Maste zu Verbesserung der Boden- und Objektabstände, Schr. Planungsreferat vom 01.04.14
+- TOP 6.12.: Haltverbot Schwemmstraße, Schr. KVR vom 02.04.14
+- TOP 6.13.: Schaffung von Sitzmöglichkeiten an der Bushaltestelle Limesstr., Buslinie 162, Schr. SWM vom 25.03.14
+- TOP 6.14.: Verschmutzung des Distelfinkwegs durch Pferdemist, Schr. Baureferat vom 03.04.14
+- TOP 6.15.: Aufstellung eines Buswartehäuschens an der Haltestelle Kunreuthstr. / Riesenburgstr., Schr. SWM vom 25.03.14
+- TOP 6.16.: Spielplatz Wasserturm Aubing, Schr. Baureferat vom 07.04.14
+- TOP 6.17.: Abbau der Buswartehäuschen und Wartebänke an den ehemaligen Haltestellen Kunreuth-/Riesenburgstraße, Schr. SWM vom 08.04.14
+- TOP 6.18.: Planfeststellung nach § 18 AEG für das Vorhaben: Bf München - Lochhausen, barrierefreier Ausbau der S-Bahn Station - Planfeststellungsbeschluss, Schr. Planungsreferat vom 07.04.14
+- TOP 6.19.: Aufstellung eines Briefkastens südlich der Wiesenfelser Straße, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.04.14
+- TOP 6.20.: Verkehrssituation Aubing, Verparkung der Gehwege, Schr. KVR vom 09.04.14
+- TOP 6.21.: Buscaps in der Bergsonstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 08.04.14
+- TOP 6.22.: Verstärkung S 4, Schr. Ref. f. Arbeit u. Wirtschaft vom 10.04.14
+- TOP 6.23.: Zustand der Aubing-Ost-Str. aufgrund Bauarbeiten, Schr. Planungsreferat vom 11.04.14
+- TOP 6.24.: Verfüllung der kleinen Unterführung und Errichtung eines Übergangs an der Kreuzung Limes- / Bodenseestr., Schr. Baureferat vom 16.04.14
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben (BV-Empfehlung Nr. 08-14/E02020 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt vom 17.10.14), Anhörung Direktorium vom 31.03.14
+- TOP 7.2.: Zweckentfremdung von Wohnraum: - Kronwinkler Str, Anhörung Sozialreferat vom 09.04.14
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung des Gaststättenbetriebs: - "Autostüberl", Bodenseestr. 148, Schr. KVR vom 03.04.14
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Walter-Brecht-Str., Schr. Sozialreferat vom 10.04.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kreisverwaltungsausschusses vom 08.04.14: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL); Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS)
+- TOP 10.2.: Beschluss der Vollversammlung des Stadtrates vom 19.03.14: - Mieterbeirat: Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 6. Stadtbezirkes - Änderung der Satzung für die Bezirksausschüsse der LHM - München lebt Vielfalt, Interkultureller Integrationsbericht 2013 - Aktion Saubere Stadt - Weiterentwicklung
+- TOP 10.3.: Beschluss des Bauausschusses vom 11.03.14: - Kleingartenverband München e.V. unterstützen; Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen
+- TOP 10.4.: Beschluss der Vollversammlung des Stadtrates vom 09.04.14: - "Aktive Stadt- und Ortsteilzentren" in den Stadtbezirksteilen Neuaubing und Westkreuz - Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung
+- TOP 10.5.: Beschluss des Bauausschusses vom 01.04.14: - Kreuzungsbereich Radolfzeller Str. / Aubinger Str. / Hellensteinstr.
+- TOP 10.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.03.14: - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung im Zeitraum vom 01.07.-31.12.13
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung der Gleichstellungsstelle für Frauen zum 19. Treffen der Gleichstellungsbeauftragten aus den Bezirksausschüssen am 28.05.14 von 17.30-19.30 Uhr im Raum 280 im Rathaus, Marienplatz 8
+- TOP 11.2.: Vorstellung Vorentwurf der Planung Freiham Nord, Öffentliche Grünflächen Freiham Neuaubinger Grünband / Grünfinger, Schr. Baureferat vom 09.04.14
+- TOP 11.3.: Stadtteilcheck am 15.05.14 Grundschule Limesstraße von 9.30-13.00 Uhr im Rahmen des Projekts "Auf Herz und Rampen prüfen", Schr. Kreisjugendring vom 17.04.14
+- TOP 11.4.: Benennung einer/eines Sachpreisrichters und dessen Stellvertreter/in für den Realisierungswettbewerb Bildungscampus und Sportpark Freiham
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: BA-Sondersitzung zum Thema "Abfallentsorgungsanlage der Thyssen Dück Rohstoffhandel GmbH und Co.KG" am Mittwoch, den 14.05.2014 um 19.30 Uhr im Pasinger Rathaus, Großer Sitzungssaal, Landsberger Str. 486 Nächste BA-Sitzung am Mittwoch, den 25.06.2014 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.6.: Anpassung Bahnübergang Freihamer Allee, Teilprojekt 2: Freihamer Allee, Anhörung Baureferat vom 15.04.14
+- TOP 6.3.: Ehrenbürgstr. 9, ehemaliges Zwangsarbeiterlager in Neuaubing, Schr. Planungsreferat vom 26.03.14
