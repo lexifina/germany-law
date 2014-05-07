@@ -1,0 +1,81 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-05-07T17:00:00+02:00
+- Ende: 2014-05-07T22:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2321
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2321
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Brandanschlag - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-69-1 („Kormoranweg“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Übertragung von nicht verwendeten Geldern des Jobcenters - beantwortet
+- TOP 9.2: Kältebus in Neukölln - beantwortet
+- TOP 9.3: Anzahl geplanter Wohneinheiten an der Oderstraße - beantwortet
+- TOP 9.4: Datenspeicherungen in der Flüchtlingsunterkunft - beantwortet
+- TOP 9.5: Lebensmittelkontrolle bei Fast-Food-Ketten - beantwortet
+- TOP 9.6: Hort-Situation an Neuköllner Schulen - beantwortet
+- TOP 9.7: Sprache und Integration (Annahme des Antrages Drs. Nr. 0674/XIX) - beantwortet
+- TOP 9.8: Brücken in Neukölln - beantwortet
+- TOP 9.9: Wartezeiten bei Bearbeitung von Wohngeldanträgen - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Transparentes Jobcenter? - schriftlich beantwortet
+- TOP 10.2: Handlungsorientierter Sozialstrukturatlas 2013 - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Unterbringung von Flüchtlingen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Wachsam gegen Rechtsextremismus: Wachschutz und Schulstationen - in der BVV abgelehnt
+- TOP 11.3: Netzwerk Schulerfolg - in der BVV abgelehnt
+- TOP 11.4: Tempo 30 in der Gerlinger Str. - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wohngeldbescheide abarbeiten - in der BVV abgelehnt
+- TOP 11.6: Eingliederungsmittel vollständig für Neukölln verwenden - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Fußgängerquerungshilfe (Fußgängerüberweg) in der Fritz-Reuter-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Schaffung eines Bundesleistungsgesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Öffentlich nutzbare WC´s im Einzelhandel - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Inkrafttreten des Zweckentfremdungsverbotes - beantwortet
+- TOP 12.2: Neugeborenenbesuche in Neukölln - beantwortet
+- TOP 12.3: Umsetzung des Berliner Partizipations- und Integrationsgesetzes (PartIntG) in Berlin-Neukölln - beantwortet
+- TOP 12.4: Inklusive Schule - beantwortet
+- TOP 12.5: Quartiersmanagement Reuterkiez - beantwortet
+- TOP 12.6: Jugendberufsagentur in Neukölln - vertagt
+- TOP 12.7: Windows XP Support "plötzlich" ausgelaufen - vertagt
+- TOP 12.8: Beschulung der Kinder aus der Flüchtlingsunterkunft in der Herman-Nohl-Schule - vertagt
+- TOP 12.9: OpenAntrag - Neukölln verstaubt - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Falschparker - überwiesen
+- TOP 14.2: Ausstellung "Diktatur und Demokratie im Zeitalter der Extreme, Streiflichter auf die Geschichte Europas im 20. Jahrhundert" in unserem Bezirk zeigen - überwiesen
+- TOP 14.3: Sommerschule Neukölln - überwiesen
+- TOP 14.4: Willkommen in 2014 - vertagt
+- TOP 14.5: Beschulung der Kinder aus der Flüchtlingsunterkunft in der Herman-Nohl-Schule - überwiesen
+- TOP 14.6: Parken im Wendehalsweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: 25 Jahre nach dem Mauerfall - DDR-Unrecht in Schulen wirkungsvoll vermitteln - überwiesen
+- TOP 14.8: VHS Neukölln - überwiesen
+- TOP 14.9: DDR-Unrecht im Rathaus Neukölln sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Free the Robots II: Return of the Bezirksseiten über Suchmaschinen auffindbar machen - überwiesen
+- TOP 14.11: Alle geplanten Psychiatrie-Betten im Krankenhaus Neukölln einrichten - überwiesen
+- TOP 14.12: Standesamt entlasten - überwiesen
+- TOP 14.13: Gefährlichen Chemikalienbestand entsorgen - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Initiative des Bezirkes gegen Rechtsextremismus - vertagt
+- TOP 16.2: Informationsveranstaltung über Rechtsextremismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Frühjahrsputz im S-Bahn-Graben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Demokratie stärken - Rechtsextremismus bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Anwohner vor Naziübergriffen schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Unterkunft für Asylbewerber - mit Abschlussbericht zur Kenntnis genommen
