@@ -1,0 +1,51 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2014-05-09T16:00:00+02:00
+- Ende: 2014-05-09T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2702
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2702
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Aufstellung des neuen Flächennutzungsplanes für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 7: Öffnung der Kapitelstraße für den Radverkehr in Gegenrichtung - einstimmig zugestimmt
+- TOP 8: V 59/3 Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 9: V 471 - Reuschenberg Lebensmittelmarkt - Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 10: Zentralter Versorgungsbereich Reuschenberg - mehrheitlich zugestimmt
+- TOP 11: Innenstadtstärkungsprogramm - verwiesen
+- TOP 12: FNP 123 Feststellungsbeschluss - einstimmig zugestimmt
+- TOP 13: Bebauungsplan Nr. 469 - Hammfeld, Rheinpark-Center - - einstimmig zugestimmt
+- TOP 14: BP 483 - verbesserte Erschließung - Straßenbahnhaltestelle „Langemarckstraße“ - einstimmig zugestimmt
+- TOP 15: Städtebauliches Handlungskonzept Hammfeld I - einstimmig zugestimmt
+- TOP 16: Bebauungsplan Nr. 118/5 Weckhoven, Wohnquartier Hülchrather Straße - einstimmig zugestimmt
+- TOP 17: Städtebauliches Gutachterverfahren Ehemaliges Pierburg-Gelände, Düsseldorfer Straße - einstimmig zugestimmt
+- TOP 18: Interessenbekundungverfahren Norf, Nievenheimer Straße - einstimmig zugestimmt
+- TOP 19: Erschließung BPL 169/17 - Grimlinghausen, Kita Volmerswerther Straße - einstimmig zugestimmt
+- TOP 20: BPL 443 - Allerheiligen, Am Henselsgraben: Endausbau Am Linckhof, Wolfskamphof, Im Stüttgesfeld - einstimmig zugestimmt
+- TOP 21: Umbau Theodor-Heuss-Platz (Straßenbau, Beleuchtung) - einstimmig zugestimmt
+- TOP 22: Römerstraße, Bushaltestelle "Im Tal" (stadtauswärts): Verbreiterung Nebenanlage - einstimmig zugestimmt
+- TOP 23: Jaegersstraße: Verbesserte Anbindung eines Geh- und Radweges an die Fahrbahn - einstimmig zugestimmt
+- TOP 24: Forsteinrichtung für den Stadtwald Neuss (Betriebsplan vom 01.01.2012 bis 31.12.2021) - einstimmig zugestimmt
+- TOP 25: Ortsrandeingrünung Habichtweg, BPL-Nr. 421 - einstimmig zugestimmt
+- TOP 26: Änderung der Satzung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss - einstimmig zugestimmt
+- TOP 26.1: Grundschule in Allerheiligen - einstimmig zugestimmt
+- TOP 27: Gesamtabschluss 2010 - einstimmig zugestimmt
+- TOP 28: Änderung der Satzung Kindertagespflege - einstimmig zugestimmt
+- TOP 28.1: Aufstellungsbeschluss für den Bebauungsplan Nr. 488 - Uedesheim, Am Blankenwasser / Sandhofsee - - einstimmig zugestimmt
+- TOP 29: Antrag der Fraktionen CDU und FDP betr.: Grundschule Allerheiligen - einstimmig zugestimmt
+- TOP 30: Antrag der Fraktion Bündnis 90/DIE GRÜNEN betr.: Grundschule in Allerheiligen - einstimmig zugestimmt
+- TOP 31: Antrag der Fraktion UWG-Neuss betr.: 1. Stunde-kostenloses Parken in Neuss - mehrheitlich abgelehnt
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Bildung des Beirates Demografie in der Ratsperiode 2014-2020 - zur Kenntnis genommen
+- TOP 34: Bericht zum Sanierungsstand Clemens-Sels Museum zum Prüfauftrag des Kulturausschusses - zur Kenntnis genommen
+- TOP 35: Einwohnerfragestunde - zur Kenntnis genommen
