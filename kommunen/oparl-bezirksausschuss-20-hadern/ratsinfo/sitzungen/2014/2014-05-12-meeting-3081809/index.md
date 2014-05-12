@@ -1,0 +1,81 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081809
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081809
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bushaltestelle Wastl-Witt-Straße - geplante Verlegung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, VdK Hadern-Neuried, Sozialpolitischer Nachmittag am 01.06.2014 (Direktorium, 17.04.14)
+- TOP 5.2.: Budget der Bezirksausschüsse, STÜPS Schulsozialarbeit an der Grundschule Blumenauer Str., Präventionsprojekt ?Schlaue-Power-selbstbewusste und starke Kinder? von Oktober bis Dezember 2014 (Direktorium, 17.04.14)
+- TOP 5.3.: Budget der Bezirksausschüsse, REGSAM, Blumenauer Sommerfest am 19.07.2014 (Direktorium, 17.04.14)
+- TOP 5.4.: Budget der Bezirksausschüsse, FTM-Blumenau v. 1866 e. V., Kauf eines Trampolins (Direktorium, 24.04.14)
+- TOP 5.5.: Budget der Bezirksausschüsse, Pfarrjugend der Katholischen Pfarrei Fronleichnam, Beschaffung eines Mannschaftszeltes (Direktorium, 24.04.14)
+- TOP 5.6.: Budget der Bezirksausschüsse, Hundesportverein Neuried e. V., Umzäunung eines Grundstücks, Elektroarbeiten sowie die Beschaffung eines Gartenhauses und eines Rasentraktors (Direktorium, 30.04.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erstmalige Herstellung Sauerbruchstraße (Baureferat, 16.04.14)
+- TOP 6.2.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014) (MVG, 14.04.14)
+- TOP 6.3.: Ludlstraße 1, Städtebauliche Entwicklungsmaßnahme Ludlstraße - Vorbescheid (Ludlstraße 1 - 51 + 2 - 22 / Senftenauerstraße 1 - 13) (Referat für Stadtplanung und Bauordnung, 16.04.14)
+- TOP 6.4.: Heiglhofstraße 8, Teil-Ersatzneubau und Nutzungsänderung sowie Neubau einer Mittelgarage - Vorbescheid (2 Varianten) (Referat für Stadtplanung und Bauordnung, 16.04.14)
+- TOP 6.5.: Fürstenrieder Straße 172 - 176, Neubau eines Mehrfamilienhauses mit TG - Flächennutzungsplan (Referat für Stadtplanung und Bauordnung, 29.04.14)
+- TOP 6.6.: Vollzug des Sprengstoffgesetzes - SprengG -, hier: Feuerwerk am 31.05.2014 - Dorffest des TSV Großhadern (Kreisverwaltungsreferat, 08.05.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Pfingstrosenstraße 49, 1 Kiefer
+- TOP 7.2.: Küchelstraße 4, 1 Birke
+- TOP 7.3.: Gräfelfinger Straße 81, 1 Kiefer
+- TOP 7.4.: Steinbrechweg 8, 1 Robinie und 1 Birke
+- TOP 7.5.: Waldesruhe 49, 2 Fichten, 1 Birke und 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Am Hedernfeld 10, 14 - 20, 1 Schwarzkiefer (Referat für Stadtplanung und Bauordnung, 23.04.14)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2014 für den BA (SWM, 31.03.14)
+- TOP 8.2.: Verunreinigung im Umfeld der Schulanlagen Blumenauer Straße 11 und Am Hedernfeld 42 - 44 (Referat für Bildung und Sport, 01.04.14)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Pfingstrosenstraße 73 gegenüber; Einrichtung eines absoluten Haltverbotes (Kreisverwaltungsreferat, 25.03.14)
+- TOP 8.4.: Mitteilung über ein Grundstücksgeschäft, hier: Guardinistraße 90 (Kommunalreferat, 08.04.14)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Asternstraße (Sozialreferat, 24.04.14) - Platanenstraße (Sozialreferat, 24.04.14)
+- TOP 9: Antworten der Stadt
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Benennung neuer Schaukastenbetreuer
+- TOP 11.2.: Straßenbahn in der Fürstenrieder Straße
+- TOP 11.3.: Neuauflage der Broschüre "Migrantinnen und Migranten in München" (Direktorium, Geschäftsstelle des Ausländerbeirates, 15.04.14)
+- TOP 11.4.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 07.04.2014 (Mieterbeirat der Landeshauptstadt München, 29.04.14)
+- TOP 11.5.: Leistungsfähige und intelligente Freiraumgestaltung: Pumptracks in der Stadt Informationsveranstaltung am Dienstag, 27.05.2014 (Baureferat, 12.05.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: Beschluss vom 19.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14059 (Punkt 1 lit. a und b sowie Punkt 2 nach Referentenantrag; Punkt 1 lit. c i.d.F. des FDP-Antrages Nr. 08-14 / A 03545 vom 26.07.2012, betreffend die "Finanzierung von Maßnahmen zur Verbesserung der örtlichen Verkehrssicherheit" durch Einfügung eines neuen § 10 Abs. 1 lit. d in die vorliegende "Änderungssatzung zur BA-Satzung", Anlage III 7): Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 28.11.2013 a) Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest (Wurde vom BA Hadern abgelehnt.) b) Benennung von Straßen und Wegen in Grünzügen (Vorerst abgelehnt. Wurde vom BA Hadern insoweit unterstützt, als es sich um städtische Grünanlagen handelt, Beschluss vom 08.07.2013.) c) Änderung der Satzung zur Finanzierung und zum Einsatz von Geschwindigkeitsanzeigern in den jeweiligen Stadtbezirken (Wurde vom BA Hadern mit Beschluss vom 09.09.2013 abgelehnt.) 2. Umsetzung der Empfehlungen in eine Änderungssatzung Die vorliegende Fassung der Änderungssatzung (Anlage 4 des Referentenantrages) betrifft nur das "Oktoberfest" und die "Oide Wiesn". Der o.g. FDP-Antrag zu Punkt 1c muss noch eingearbeitet werden.
+- TOP 12.3.: Beschluss vom 19.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13861 (nach Referentenantrag): München lebt Vielfalt Interkultureller Integrationsbericht 2013 Der Ergänzungsantrag der CSU zu Punkt 2.1 des Referentenantrages vom 25.02.2014 mit der Anforderung einer Darstellung der Ursachen für "die unterschiedlichen Übertrittsquoten ins Gymnasium" und "die unterschiedliche SGB-II-Dichte" bei deutschen und ausländischen Kindern gilt als "eingebracht".
+- TOP 12.4.: Beschluss vom 19.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14090 (nach Antrag): Aktion Saubere Stadt - Weiterentwicklung Es wurden folgende Maßnahmen beschlossen: Aufstellung spezieller Kontroll- und Reinigungstrupps (Kosten jährlich 179.280,- ?), KFZ-Beschaffung (Kosten einmalig 100.000,- ?), Beschaffung von 400 Hundekot-Tütenspendern in Abstimmung mit dem jeweiligen BA (Kosten einmalig 120.000,- ?) und Bereitstellung von Verkehrsflächen (Kosten jährlich 51.000,- ?).
+- TOP 12.5.: Beschluss vom 09.04.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13917 (nach Antrag): Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14048 (nach Antrag): Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus am Wolkerweg" mit einem Haushaltsansatz in 2014 von 198.751,- ?, - zum "pfiffTEEN Treffpunkt für Jugendliche" mit einem Haushaltsansatz von 321.362,- ? (Anlage 1 a, bisher 14, S. 8, Abschnitt 3.1.1, lfd. Nrn. 56 und 57), - zum "Treff 21, Schule-Beruf e.V." des DPWV mit einem Ansatz von 357.326,- ? (a.a.O., S. 9, Abschnitt 3.1.1, lfd. Nr. 66), - zum "Studio im Netz, SiN e.V." mit einem Ansatz von 84.928,- ? (a.a.O., S. 10, Abschnitt 3.1.1, lfd. Nr. 107), - zum "Familienzentrum Hadern-Blumenau" des DPWV mit einem Ansatz von 66.052,- ? (Der ursprünglich in 2013 geplante Vertrag wird in 2014 abgeschlossen, a.a.O., S. 20, Abschnitt 3.2.1, lfd. Nr. 13) und - zur "Nachbarschaft Neuhadern, Bewohnertreff" des DPWV mit einem Ansatz von 102.807,- ? (a.a.O., S. 25, Abschnitt 3.2.2, lfd. Nr. 2)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14082 (nach Antrag): Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Nachbarschaftstreff Blumenau" des "Vereins für Sozialarbeit e.V." im DPWV mit einem Ansatz von 58.000,- ? lt. Antrag (Die Differenz zum Vorjahr i.H.v. 3.420,- ? wird aus Haushaltsresten finanziert, Anlage 1 a, S. 10, Abschnitt 4.1.7, lfd. Nr. 8) und - zum "Nachbarschaftstreff Kleinhadern, Na klar!" mit einem gegenüber dem Vorjahr nach 16.390,- ? erhöhten Ansatz von 49.390,- ? (Die Erhöhung wird aus Restmitteln zur "Stärkung des Ehrenamtes" finanziert, a.a.O., S. 12, Abschnitt 4.1.7, lfd. Nr. 31)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14036 (nach Antrag): Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum "ASZ Kleinhadern-Blumenau" des Caritasverbandes der Erzdiözese München und Freising e.V. (Caritasverband) mit einem Ansatz von 215.954,- ? (Anlage 1 a, S. 4, Abschnitt 5.4.1, lfd. Nr. 10) und - zur "Altenwohnanlage Konrad-Dreher-Straße 19 - 23" (a.a.O., S. 11, Abschnitt 5.4.2, lfd. Nr. 30)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14007 (nach Antrag): Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere - zum "Freiwilligen-Zentrum München Süd" des Caritasverbandes , Königswieser Straße 12, für die Stadtbezirke 19 und 20 mit einem gegenüber dem Vorjahr (45.775,- ?) gekürzten Ansatz von 44.775,- ? (Es handelt sich hierbei um die Bezahlung von 2 Teilzeitkräften nach dem "Monti-Paket". Beantragt war ein Zuschuss von 52.055,- ?, Anlage 2, Abschnitt 7.3.1, lfd. Nr. 12.) und - zur "Förderung der Regionalisierung Sozialer Arbeit in München - REGSAM" des "Trägervereins für regionale soziale Arbeit e.V.", Bayerstraße 77 a, Rückgebäude, mit einem Gesamtaufwand von 628.487,- ?, wovon die Stadt 550.221,- ? trägt (a.a.O., Abschnitt 7.3.2, lfd. Nr. 1)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14244 (nach Antrag): Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum (Keine Änderung der Flächenanteile, die für den genossenschaftlichen Wohnungsbau verwendet werden.)
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14348 (nach Antrag): Siemens-Studie "German Green City Index" darstellen (Wird zur Kenntnis genommen.)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 08.04.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14456: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien - SoNuRL); Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS), insbesondere zum "Straßengruppenverzeichnis" im Stadtbezirk Hadern: Zur "Straßengruppe II" gehören die Blumenauer Straße, die Großhaderner Straße, die Guardinistraße, die Heiglhofstraße, der Lorettoplatz, die Sauerbruchstraße und die Senftenauerstraße. Zur "Straßengruppe III" gehören die Fürstenrieder Straße, der Stiftsbogen und die Würmtalstraße. Alle übrigen Straßen gehören zur Straßengruppe I (Unteranlage II, S. 43). Der BA Hadern hat am 10.02.2014 den Entwürfen der SoNuRL und der Sondernutzungsgebührensatzung mit Ausnahme der - während der Sommerzeit vom KVR vorgesehenen - Zulassung von Heizstrahlern, die vom BA Hadern ganzjährig abgelehnt wird (Abschnitt 7.2, S. 19).
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 26.03.2014 zur Sitzungsvorlage-Nr. 08-14 / V 14350 (nach Antrag): Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2013 - 31.12.2013
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
