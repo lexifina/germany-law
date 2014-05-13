@@ -1,0 +1,116 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-05-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3304205
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3304205
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: TEIL A - KONSTITUIERENDE SITZUNG des Bezirksausschusses 18 1. Allgemeines 1.1 Bestimmung einer Sitzungsleiterin / eines Sitzungsleiters (§ 8 Abs. 1 BA-Geschäftsordnung) 1.2 Begrüßung, Beschlussfähigkeit, Entschuldigungen, Feststellung der ordnungsgemäßen Ladung (§ 8 Abs. 2 BA-Geschäftsordnung) 1.3 Beschluss über die Tagesordnung (§ 8 Abs. 3 BA-Geschäftsordnung) 1.4 Hinweise zur Stimmabgabe und zum Wahl-Procedere (§ 8 Abs. 2 BA-Satzung, § 14 BA-Geschäftsordnung) 1.5 Bildung eines Wahlausschusses (optional)
+- TOP 1.2.: 2. Wahl des BA-Vorstandes (§ 19 Abs. 1 BA-Satzung i.V.m. § 14 Abs. 1 - 3 BA-Geschäftsordnung) 2.1 Wahl der/des Vorsitzenden des Bezirksausschusses 18 2.2 Übergabe der Sitzungsleitung an die/den gewählten BA-Vorsitzende(n) 2.3 Vereidigung ggf. noch nicht vereidigter, neuer BA-Mitglieder 2.4 Wahl der/des 1. stellvertretenden BA-Vorsitzenden 2.5 Wahl der/des 2. stellvertretenden BA-Vorsitzenden 2.5 Beschlussfassung über die weitere Zusammensetzung des Vorstandes 2.6 Wahl des/der Beisitzer/s (optional, maximal 2) 2.7 Wahl der Kassiererin / des Kassiers (optional)
+- TOP 1.3.: 3. Bildung der Unterausschüsse (§ 22 Abs. 1-3 BA-Satzung i.V.m. § 14 Abs. 1-3 BA-Geschäftsordnung) 3.1 Beschlussfassung über Anzahl, Ressortverteilung, Größe und Sitzverteilung der Unterausschüsse (gem. § 18 Abs. 6 BA-Satzung) 3.2 Wahl der Vorsitzenden der Unterausschüsse des Bezirksausschusses 18 (§ 22 Abs. 2 BA-Satzung) 3.3. Benennung der stellvertretenden Vorsitzenden der Unterausschüsse (offene Abstimmung) 3.4 Berufung der Unterausschuss-Mitglieder - Regelung der Stellvertretung
+- TOP 1.4.: 4. Beauftragte des Bezirksausschusses 4.1 Beschlussfassung über Anzahl und Ressortverteilung der Beauftragten (§ 23 und 23a BA-Satzung und § 5 Abs. 2 BA-Geschäftsordnung) 4.2 Wahl einer/eines Kinderbeauftragten (§ 23 Abs. 1 BA-Satzung) 4.3 Wahl einer/eines Jugendbeauftragten (§ 23 Abs. 5 BA-Satzung) 4.4 Benennung einer/s Beauftragten gegen Rechtsextremismus (§ 23 a BA-Satzung) 4.5 Benennung weiterer Beauftragter (offene Abstimmung) 5. Sonstiges / Verschiedenes
+- TOP 1.5.: TEIL B - ARBEITSSITZUNG des neu konstituierten Bezirksausschusses 18
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Stadtteilcheck "Auf Herz und Rampen prüfen" - Barrierefreiheit im 18. Stadtbezirk; Schreiben des KJR München-Stadt vom 01.04.2014
+- TOP 2.2.: Verlängerung des Pendelbusses von der Haltestelle Tierpark zum Freibad Maria Einsiedel über die Thalkirchner Brücke zur Endhaltestelle der Buslinie 52 als Ringlinie; Bürgerschreiben
+- TOP 2.3.: Perlacher Forst - Ausweichroute für Moutainbiker; Bürgerschreiben vom 27.04.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Wiederaufnahme der Planungen und Schaffung eines Festbaus für den Kindergarten St. Franziskus auf dem Grundstück an der Claude-Lorrain-Straße; Informationen durch das Referat für Bildung und Sport
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Linkshänder e.V., für die Maßnahme: Strickaktion am Jakob-Gelb-Platz bis September 2014; Antragssumme: 884,38 ?; Beschlussvorlage des Direktoriums vom 09.04.2014
+- TOP 3.2.: AntragstellerIn: Katholische Kirchenstiftung St. Helena, für die Maßnahme: Foto-Ausstellung vom 04. bis 11.10.2014; Antragssumme: 400,00 ?; Beschlussvorlage des Direktoriums vom 22.04.2014
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Elternbeirat der GS an der Fromundstraße, für die Maßnahme: Festspielbus von Spiellandschaft Stadt zum Schulsommerfest anlässlich des 50jährigen Jubiläums; Antragssumme: 500,00 ?; Antrag vom 16.04.2014
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Zehn-Minuten-Takt für die Buslinie 139; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 - <div>nach Antrag</div>
+- TOP 3.2.: Einberufung einer Einwohnerversammlung zum Ausbau des S-Bahn-Südrings und zur Einrichtung einer Haltestelle am Kolumbusplatz; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18
+- TOP 3.1.: Öffnung der Freibadstraße/Schyrenstraße, der Unteren Weidenstraße, der Sommerstraße und der Oefelestraße für den gegenläufigen Radverkehr; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen AO nach § 45 StVO; Zuleitung des KVR vom 17.04.14 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014); Zuleitung der MVG mit der Bitte um Stellungnahme bis 14.04.2014
+- TOP 3.3.: Bahnunterführung Sachsenstraße - Verbreiterung des Fußweges; abweichender Beschluss des BA 18 zum Antrag der Referentin aus der Sitzung vom 18.02.2014; einseitige Gehwegverbreiterung auf der Westseite auf 1,0 m; Vorschlag des Baureferats-Tiefbau vom 16.04.2014 mit der Bitte um Stellungnahme
+- TOP 3.1.: Verkehrssicherheit in der Unterführung Sachsenstraße/Teutoburger Straße; BA-Antrag Nr. 08-14 / B 05457 vom 17.12.2013; Nachfrage des BA 18 aus der Sitzung vom 18.02.2014; Antwortschreiben des AWM vom 25.03.2014 (negative Erledigung)
+- TOP 3.2.: 1. Erneuerung des Fahrbahnbelags Autharistraße 2. Erneuerung des Radweges von der Tramhaltestelle Klinikum Harlaching in Richtung Tramhaltestelle Großhesseloher Brücke 3. Entfernen der Werbung gegenüber der kath. Kirche Maria Immaculata Bürgeranliegen vom 16.02.2014; Antwortschreiben des Baureferats-Tiefbau vom 22.04.2014 (positive Erledigung) und Antwortschreiben der BI Süd (neutrale Erledigung)
+- TOP 3.1.: Verlegung der bestehenden Straßenbahngleise in der Tegernseer Landstraße zwischen den Haltestellen Silberhornstraße und Tegernseer Landstraße zur Ermöglichung eines Radweges in südlicher Fahrtrichtung; Radeln ermöglichen - Trambahngleise südlich Telapost verlegen; Gestaltung des Gleis- und Fahrbahnbereichs der Tegernseer Landstraße zwischen Tegernseer Platz und Martin-Luther-Straße für die Ermöglichung des Radfahrverkehrs; Sitzungsvorlage Nr. 08-14 / V 13816; Beschluss der Vollversammlung des Stadtrates am 09.04.2014
+- TOP 3.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Seybothstraße 29, Seite: Portiastraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Öffnung der in Richtung Norden einbahngeregelten Lautererstraße zwischen der Grünwalder Straße und der Aretinstraße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.4.: Radverkehr; Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze; verkehrsrechtliche AO nach § 45 StVO
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Lärmbelästigung in der Sommerstraße; Bürgeranliegen vom 07.04.2014 und Antwortschreiben des RGU vom 10.04.2014 (verwiesen aus der Sitzung vom 15.04.2014)
+- TOP 3.1.: Baumfällungen Agilolfingerstraße / Candidstraße - Gutachten eines beeideten Baumsachverständigen; BA-Antrag Nr. 08-14 / B 05539 vom 21.01.2014; Antwortschreiben der Unteren Naturschutzbehörde vom 14.04.2014 (neutrale Erledigung)
+- TOP 3.2.: Söltlstraße 34, Rotbuchenstraße 48 - 50; Fällungsgenehmigungen; Schreiben des BA 18 vom 26.03.2014 mit der Bitte um Ersatzpflanzungen; Antwortschreiben der UNB vom 09.04.2014 (negative Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 St.-Magnus-Str. 20; Genehmigungsbescheid vom 22.04.2014 3.3.6.1.2 Schmorellplatz 13; Genehmigungsbescheid vom 22.04.2014
+- TOP 3.2.: Aktion Saubere Stadt - Weiterentwicklung; Sitzungsvorlage Nr. 08-14 / V 14090; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014
+- TOP 3.1.: Pilotprojekt "Essbare Stadt" - Einbindung des BA 18; Schreiben des Baureferats-Gartenbau vom 16.04.2014
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Angebote für Jugendliche im Stadtbezirk (Basketball, Fußballtore etc.); Bürgeranliegen vom 08.04.2014 (verwiesen aus der Sitzung vom 15.04.2014)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: München lebt Vielfalt; Interkultureller Integrationsbericht 2013; Integrationskonzept erweitern für ZuwanderInnen aus neuen EU-Beitrittsländern? Antrag Nr. 08-14 / A 03767 der Stadtratsfraktion DIE GRÜNEN/RL vom 30.10.2012; Sitzungsvorlage Nr. 08-14 / V 13861; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Isenschmidstraße 3, Neubau einer Wohnanlage mit 6 WE und 6 Garagenplätzen; Anhörung vom 17.04.2014
+- TOP 3.2.: Humboldtstraße 20, Nutzungsänderung von Waschsalon zu Gaststätte; Anhörung vom 17.04.2014
+- TOP 3.3.: Willroiderstraße 5, Neubau eines Mehrfamilienhauses (10 WE) mit Tiefgarage (10 Stpl.); Anhörung vom 15.04.2014
+- TOP 3.4.: Dolomitenstraße 6, Wintergartenanbau inkl. Sanierung und Vollwärmeschutz der Doppelhaushälfte; Anhörung vom 23.04.2014
+- TOP 3.5.: Gerhardstraße 5, Errichtung einer Gaube und einer Dachterrasse im 7. OG und eines Balkons im 6. OG; Anhörung vom 24.04.2014
+- TOP 3.6.: Isenschmidstraße 19, Nutzungsänderung von Kellerräumen zu Funktionsräumen für Arztpraxen des Ärztehauses Harlaching - TEKTUR; Anhörung vom 24.04.2014
+- TOP 3.7.: Klausener Str. 25, Neubau einer Doppelhaushälfte (West); Anhörung vom 24.04.2014
+- TOP 3.8.: Hauberrißstraße 7, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 24.04.2014
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: BV Grünwalder Straße 190 im 18. Stadtbezirk - Überprüfung des erteilten Vorbescheids durch die Oberste Baubehörde; Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 03.04.2014 (vertagt aus der Sitzung vom 15.04.2014) zu 3.5.5.1 BV Grünwalder Str. 190, Schreiben des BA 18 vom 20.12.2013; Antwortschreiben der Lokalbaukommission vom 16.04.2014 (negative Erledigung)
+- TOP 3.2.: A) Die LHM wird aufgefordert, das Anwesen Armanspergstraße 3 nicht zu veräußern. B) Die LHM wird aufgefordert, auf dem Grundstück einen Kindergarten/eine Kinderkrippe zu errichten, bzw. das Objekt an einen Träger zu vermieten/verpachten. C) Die LHM wird aufgefordert, eine Vergleichsberechnung über einen Zeitraum von 25 Jahren vorzulegen, mit der die Kosten für die Bezuschussung einer von einem freien Träger errichteten Kinderkrippe auf einem fremden Grundstück und die Kosten einer im Eigentum der LHM stehenden Kinderkrippe im Bestandsgebäude an diesem Standort verglichen werden; BA-Antrag Nr. 08-14 / B 05533 vom 21.01.2014; Zwischennachricht des Sozialreferats vom 03.04.2014 (vertagt aus der Sitzung vom 15.04.2014)
+- TOP 3.3.: Hochkalterstraße 2 - 14, Fl.Nr.: 13033/0, Gemarkung Sektion VII, Aufstockung und Nachverdichtung, Neubau von 32 WE und Erweiterung der Tiefgarage; Baugenehmigung der Lokalbaukommission; Schreiben des BA 18 vom 24.02.2014; Antwortschreiben der Lokalbaukommission vom 01.04.2014 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs de Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 3.5.6.2.1 Königswarterstraße; Mitteilung vom 11.04.2014
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Kleingastwirtschaft "Zum Gartl", Nithartstraße 8; Mitteilung vom 29.04.2014
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Waldfest des Perlacher Forst-Vereins in der Grünanlage an der Oberbiberger Straße am 12.07.2014; Zuleitung des KVR mit der Bitte um Stellungnahme bis 30.05.2014
+- TOP 3.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sommerfest der Kinderwelt Harlaching in der Grünanlage an der Oberbiberger Straße am 19.07.2014; Zuleitung des KVR mit der Bitte um Stellungnahme bis 30.05.2014
+- TOP 3.3.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Griechisch-Bayerisches Fest am Athener Platz am 21. und 22.06.2014; Zuleitung des KVR mit der Bitte um Stellungnahme bis 26.05.2014
+- TOP 3.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Pfarrfest des kath. Pfarramts St. Franziskus am 13.07.2014 in der Arminiusstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 10.06.2014
+- TOP 3.5.: Veranstaltung in einer städtischen Grünanlage; hier: Frühlingsfest der Kinderkrippe minimucs GmbH am 28.05.2014 auf dem Athener Platz; Zuleitung des KVR mit der Bitte um Stellungnahme bis 23.05.2014
+- TOP 3.1.: Anfrage zum Public Viewing am Candidplatz während der Fußball-WM 2014
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Information der SWM GmbH über neue Bädereintrittspreise ab 1. Mai 2014
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
