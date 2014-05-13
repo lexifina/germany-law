@@ -1,0 +1,86 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-05-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109176
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109176
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Konstituierung: 1. Eröffnung der Sitzung 1.1 Bestimmung einer Versammlungsleiterin/eines Versammlungsleiters 1.2 Begrüßung, Feststellung der Beschlussfähigkeit 1.3 Beschluss über die endgültige Tagesordnung 1.4 Berufung einer Wahlkommission 1.5 Bekanntgabe der Fraktionsvorsitzenden 2. Wahl des Vorstandes 2.1 Wahl einer/eines Vorsitzenden 2.1.1 Vereidigung neugewählter BA-Mitglieder, die nicht an der Vereidigungsveranstaltung am 02.05.2014 und am 05.05.2014 teilnehmen konnten 2.2 Beschluss über die Größe des gewählten BA-Vorstandes 2.3 Wahl der Vorstandsmitglieder 2.3.1 Wahl des/der 1. und 2. StellvertreterIn 2.3.2 Wahl der ggf. zusätzlichen Vorstandsmitglieder (bis zu 2 BeisitzerInnen, 1 KassiererIn 3. Bildung von Unterausschüssen 3.1 Beschlussfassung über die Anzahl und Zuständigkeit der Unterausschüsse 3.2 Beschlussfassung über die jeweilige Anzahl der Mitglieder 3.3 Berufung der Mitglieder und Regelung der StellvertreterInnen 3.4 Wahl der Vorsitzenden der Unterausschüsse und Berufung der StellvertreterInnen 4. Berufung/Wahl von Beauftragten des Bezirksausschusses 4.1 Wahl einer/eines Kinderbeauftragten, ggf. eines Jugendbeauftragten 4.2 Beschlussfassung über die Wahl bzw. Berufung weiterer Beauftragter und deren Zuständigkeit 4.3 Berufung der Beauftragten (Wahl oder offene Abstimmung) 4.4 Berufung eines Mieterbeiratsmitglieds 4.5 Berufung der Schaukasten-Betreuer 5. Beschluss über die weiteren Sitzungstermine und -orte im Jahr 2014 6. Verschiedenes/Sonstiges
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Tal 4, Zusammenlegung 2er Gaststätten und Erweiterung der Gasträume sowie Errichtung eines Müllraums
+- TOP .2.: Tal 4, Erweiterung einer Laden- um angrenzende Gastraumfläche
+- TOP .3.: Herrnstraße 13, Anbau von 5 Balkonen an ein Wohn- und Geschäftshaus
+- TOP .4.: Unsöldstraße 9-11b, Umbau, Sanierung und Dachgeschossausbau eines denkmalgeschützten Wohngebäudes mit Postamt
+- TOP .5.: Dienerstraße 20, Umbau und Aufstockung eines Büro- und Geschäftshauses
+- TOP .1.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Sattlerstr. 1, Fa. Lecker Schmecker Bäcker Snäcker GmbH; Genehmigung einer Freischankfläche
+- TOP .2.: Müllerstraße 50, Loretta Gaststätten GmbH, Gaststätte ?Loretta?; Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Brienner Str. 11, La Gâterie Verwaltungs GmbH in Fa. La Gâterie GmbH & Co. KG; Genehmigung einer Freischankfläche
+- TOP .4.: Änderung des Antrags einer Freischankfläche nach Ortstermin: Sendlingerstr. Fußgängerzone; Evaluierung Freischankflächengestaltung, Turnusplatz für Obst- und Gemüseverkauf in der neuen FGZ Sendlinger Str. , Turnusplatz für Werbeverkauf
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Bayerische Woche der Geodäsie 2014 am 30.06.2014 auf dem Odeonsplatz; Landesamt für Vermessung und Geoinformation
+- TOP .2.: Stadtkonzert mit Prominentensammlung am 23.10.2014 auf dem Odeonsplatz; Volksbund Deutsche Kriegsgräberfürsorge e.V.
+- TOP .3.: Jump & Fly München Sportevent am 25.06.2014 auf dem Marienhof; Referat für Bildung und Sport/Sportamt Stadt München
+- TOP .4.: Lange Nacht der Musik am 17.05.2014 auf dem sog. Odeonsplatz; Münchner Kultur GmbH
+- TOP .5.: Solidaritätslauf des Theresia-Gerhardinger-Gymnasiums am 06.06.2014 , Unterer Anger ? St.-Jakobs-Platz - Corneliusstr. - Blumenstr.
+- TOP .6.: Informationsstand am Richard-Strauss-Brunnen am 15.07.2014; Bund der Steuerzahler in Bayern e.V.
+- TOP .7.: Israeltag am 15.05.2014 auf dem sog. Odeonsplatz; ILI - I Like Israel e.V.
+- TOP .8.: Der italienische Markt am 19.05.- 25.05.2014 auf dem Sendlinger Tor Platz; Athena International Company
+- TOP .9.: Kirchen- und Festzug zum Münchner Brauertag am 28.06.2014 auf dem Marienplatz; Verein Münchener Brauereien e.V.
+- TOP .10.: Streetlife Festival/Corso Leopold am 31.05.-01.06.2014 zwischen Feldherrnhalle und Münchner Freiheit; Green City e.V. und Corso Leopold e.V.
+- TOP .11.: Oper für alle am 28.06.2014 auf dem Max-Joseph-Platz; Freistaat Bayern, Bayerische Staatsoper
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung einer Teilstrecke der Eisenmannstraße
+- TOP .1.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014)
+- TOP .1.: Budget der Bezirksausschüsse: Musica Sacra St. Anna e.V., Veranstaltung ?Johann Sebastian Bach; H-Moll-Messe?, 27.07.2014, beantragter Zuschuss: 1.500,00 ?
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Neue Bädereintrittspreise ab 1. Mai 2014; SWM
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Zweckentfremdung Herzog-Wilhelm-Str. 22; Rückmeldung des Referats für Stadtplanung und Bauordnung, TOP 2014.01 B 3.1.2
+- TOP 0.3.: Vorbescheid zum Bauvorhaben Oberanger 43
+- TOP 0.4.: Bescheid des Referats für Gesundheit und Umwelt über Ausnahmezulassung für Geräte- und Maschinen für die Gleisbauarbeiten zwischen der Thierschstr. und Maximilianstr.
+- TOP 0.5.: Änderungsgenehmigung der Baugenehmigung vom 21.01.2014 des Referats für Stadtplanung und Bauordnung für Maximilianstr. 6-8, Baugrube, Verbau, Entkernung und Sicherung für Büro- , Wohn- und Geschäftshaus (vertagt aus 2013.12 B 3.1.1, 2014.01 B 3.1.1, 2014.02 B 3.1.1)
+- TOP 0.6.: Stellungnahme von Herrn OB Ude an Bürger der BV-Empfehlung 02128, Tiefgarage am Thomas-Wimmer-Ring
+- TOP 0.7.: Rückmeldung der LBK zum Bauvorhaben am Viktualienmarkt 6, Nutzungsänderung des Auktionshauses in zwei Ladenflächen; TOP B 3.13 vom 08.04.2014
+- TOP 0.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.9.: Rückmeldung der LBK zum Bauvorhaben: Viktualienmarkt 6, Nutzungsänderung des Auktionshauses in zwei Ladeflächen
+- TOP 0.10.: Fahrbahnsanierung der Herzogspitalstraße vom 02.06.2014 bis 13.06.2014, Baureferat
+- TOP 0.11.: Fahrbahnsanierung Altheimer Eck 16.06.2014 bis 27.06.2014, Baureferat
+- TOP 0.1.: Zustimmung der Eilentscheidung; Radlaktionstage am 02.05.-03.05.2014 auf dem Odeonsplatz
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Zustimmung der Eilentscheidung; Verabschiedung OB Ude am 30.04.2014 auf dem Marienplatz
+- TOP 0.4.: Zustimmung der Eilentscheidung; Stadtmaiandacht am 03.05.2014 auf dem Marienplatz
+- TOP 0.5.: Neufassung der Sondernutzungsrichtlinien des Kreisverwaltungsreferats; Informationsschreiben zu den neuen Freischankflächenrichtlinien an die betreffenden Gastwirte zur Kenntnis
+- TOP 0.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.7.: Richtlinienaktualisierung, Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Beschluss der Vollversammlung des Stadtrates vom 09.04.2014; 08-14/V 13917
+- TOP 0.8.: Ausnahmegenehmigung des Kreisverwaltungsreferats, Baustelleneinrichtung auf dem Marienhof vom 22.04.-02.05.2014
+- TOP 0.9.: Rückmeldung des Kreisverwaltungsreferats zur Verlegung der Veranstaltungen Kulturfest am 01.05.2014 und Europatag am 09.05.2014 vom Marienplatz auf den Odeonsplatz; TOP 2014.04 C 3.1.7/2014.04. C 3.1.10
+- TOP 0.10.: Zustimmung der Eilentscheidung; Staatsbesuch der ök. Patriarchen am 17.05.2014 auf dem Salvatorplatz
+- TOP 0.11.: Stellung des Kommunalreferats zur Umbenennung des sog. Odeonsplatzes in den Odeonsplatz; TOP 2014.04 C 3.1.10
+- TOP 0.12.: Zustimmung der Eilentscheidung; Corso des FC Bayern zur Feier der Deutschen Fußballweltmeisterschaft und Meisterfeier auf dem Marienplatz am 10.05.2014
+- TOP 0.1.: Aktion Saubere Stadt ? Weiterentwicklung, Verbesserung der Sauberkeit, Beschluss der Vollversammlung des Stadtrates vom 19.03.2014
+- TOP 0.2.: Bescheid Baumfällung Bürkleinstraße 12; TOP D 3.7 vom 08.04.2014
+- TOP 0.3.: Verkehrsrechtliche Anordnungen: - Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze, Salvatorplatz 2 - Aufhebung zweier allgemeiner Behindertenparkplätze im Bereich Sendlinger Str. 19
+- TOP 0.1.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 6. Stadtbezirkes, Beschlussvorlage Nr. 08-14/V 13863 der Vollversammlung des Stadtrates vom 19.03.2014
+- TOP 0.2.: Interkultureller Integrationsbericht 2013, Beschluss des Stadtrates vom 19.03.2014 (Unterrichtung)
+- TOP 0.3.: Rückmeldung der Stadtkämmerei zur Fortschreibung des Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018
+- TOP 0.4.: Kunst im öffentlichen Raum ? Women with Talents: Spring Cleaning am 05.06.2014 auf dem Karlsplatz
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
