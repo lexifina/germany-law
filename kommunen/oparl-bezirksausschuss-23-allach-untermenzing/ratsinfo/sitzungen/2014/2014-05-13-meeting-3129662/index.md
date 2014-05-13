@@ -1,0 +1,53 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-05-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129662
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129662
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Wohnen in der Hirmerei
+- TOP 2.2.2.: Herstellung der planungsrechtlichen Grundlage für die Entwicklung des Bereiches Junkersgelände im Jahr 2014
+- TOP 2.2.3.: Stichstraße von der Ludwigsfelder Straße aus durch das Junkers- und Hochtiefgelände
+- TOP 2.2.4.: Beendigung der Zwischennutzung auf dem Junkers- und Hochtiefgelände durch das Kommunalreferat, Abteilung Immobilienverwaltung
+- TOP 2.2.5.: Unterstützung und Befürwortung des BI-Antrages zur Bürgerbeteiligung zur Gesamtkonzeptionierung unseres Stadtviertels
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse BRK Wasserwacht OG München-West Beschaffung Sitzgruppe und Flachbildschirm
+- TOP 5: Anhörungen
+- TOP 5.1.: Erinnerungsverfahren Paul-Ehrlich-Weg 29-31; Gehbahn/Radweg Südseite
+- TOP 5.2.: Erinnerungsverfahren Schöllstraße 5-33; östliche Gehbahn
+- TOP 5.3.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach und im Stadtbezirk 23 Allach-Untermenzing Widmung einer Teilstrecke der Waldhornstraße
+- TOP 5.4.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014)
+- TOP 5.5.: Wertstoffcontainerstandort: Von-Reuter-Straße / Allacher Straße
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Bauausschusses vom 11.03.14: Kleingartenverband Münche e.V. unterstützen; Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen (Sitzungsvorlage Nr. 13834)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 19.03.14: Aktion Saubere Stadt - Weiterentwicklung (Sitzungsvorlage Nr. 14090)
+- TOP 6.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.14: Zuschussnehmerdatei 2014; Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" a) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14082) b) des Stadtjugendamtes (Sitzungsvorlage Nr. 14048) c) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14036) d) des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 14007)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 26.03.14: a) Förderung von Wohnungsbaugenossenschaften zum Erhalt von günstigem Wohnraum (Sitzungsvorlage Nr. 14244) b) Siemens-Studie "German Green City Index" darstellen (Sitzungsvorlage Nr. 14348)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 09.04.2014: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung (Sitzungsvorlage Nr. 13917)
+- TOP 7: Verschiedenes
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Willi-Wien-Str. 19, Dyroffstr. 12
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: St.-Johann-Str. 1, Ganzenmüllerstr. 34, Waldhornstr. 75
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (31.03.-06.04.14, 07.04.-13.04.14)
+- TOP 8.4.: Schreiben Stadtwerke GmbH vom 07.04.14, 14.04.14, 22.04.14: Baumaßnahmen
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 13.02.14: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Nigglstr. 16
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 15.04.14: Geh- und Radweg entlang der Bahntrasse zwischen Oertelplatz und Hintermeierstraße
+- TOP 8.7.: Schreiben Sozialreferat vom 10.04.14: Antrag auf Zweckentfremdung von Wohnraum: Willi-Wien-Str., Rueßstr.
+- TOP 8.8.: Schreiben Techn. Universität München vom 07.04.14: Einladung zum Kolloquium "Der öffentliche Verkehr - Katalysator für die Stadtentwicklung"
+- TOP 8.9.: Schreiben Kath. Pfarrgemeinde Maria Himmelfahrt vom 15.04.14: Kurzbericht Faschingsumzug am 04.03.14
+- TOP 9: Nachtrag
