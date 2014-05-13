@@ -1,0 +1,103 @@
+---
+ecli: "ECLI:DE:BGH:2014:130514IIZR62.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-02"
+aktenzeichen: "II ZR 62/14"
+decided: "2014-05-13"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2014&Sort=1&Seite=39&nr=67915&anz=3080&pos=1197&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-02_NA_2014-05-13_II_ZR_62_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0543.md"]
+---
+
+# Bundesgerichtshof, II ZR 62/14 vom 2014-05-13
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+               BESCHLUSS
+II ZR 62/14
+
+                      vom
+
+                  13. Mai 2014
+
+               in dem Rechtsstreit
+
+                                         -2-
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat am 13. Mai 2014 durch den Vorsitzenden Richter Prof. Dr. Bergmann und den Richter Prof. Dr. Strohn, die
+    Richterinnen Caliebe und Dr. Reichart sowie den Richter Sunder
+
+    beschlossen:
+
+
+          Die Beschwerde der Kläger gegen die Nichtzulassung der
+          Revision   in   dem    Beschluss   des    21.   Zivilsenats   des
+          Oberlandesgerichts München vom 4. Dezember 2013 wird auf
+          ihre Kosten als unzulässig verworfen.
+
+
+          Streitwert: 13.361,92 €
+
+
+
+
+                                       Gründe:
+
+
+1         I. Die Nichtzulassungsbeschwerde der Kläger ist unzulässig, weil die
+    gemäß § 26 Nr. 8 EGZPO erforderliche Mindestbeschwer von 20.000 € nicht
+    erreicht wird. Von dem mit dem Klageantrag zu 1 zuletzt geltend gemachten
+    Zahlungsanspruch ist der darin enthaltene Betrag von 8.798,54 € für
+    entgangenen Gewinn abzuziehen, da es sich dabei um eine Nebenforderung
+    der eingeklagten Hauptforderung auf Rückzahlung des investierten Kapitals
+    handelt, die den Streitwert nicht erhöht und bei der Bemessung der mit der
+    Revision geltend zu machenden Beschwer nicht zu berücksichtigen ist (BGH,
+    Beschluss vom 8. Mai 2012 - XI ZR 261/10, ZIP 2012, 1579 Rn. 14; Beschluss
+    vom 15. Januar 2013 - XI ZR 370/11, juris; Beschluss vom 27. Juni 2013
+    - III ZR 143/12, WM 2013, 1504 Rn. 6 f.; Beschluss vom 27. November 2013
+    - III ZR 423/12, juris Rn. 1; Beschluss vom 18. Dezember 2013 - III ZR 65/13,
+    juris Rn. 2; Beschluss vom 18. Februar 2014 - II ZR 191/12, juris Rn. 5 ff.). Zu
+
+                                           -3-
+
+
+
+    dem danach verbleibenden Zahlungsantrag von 11.792,53 € ist lediglich noch
+    der Betrag für den Klageantrag zu 2 von 1.150,41 € hinzuzurechnen. Der mit
+    dem Klageantrag zu 3 begehrten Feststellung des Annahmeverzugs kommt bei
+    der Bemessung der Beschwer neben der im Klageantrag zu 1 verfolgten Zugum-Zug-Verurteilung keine eigenständige wirtschaftliche Bedeutung zu. Die
+    Frage des Annahmeverzugs ist lediglich ein rechtlich unselbständiges Element
+    der umstrittenen Leistungsverpflichtung und deshalb mit dieser wirtschaftlich
+    identisch (vgl. BGH, Beschluss vom 6. Juli 2010 - XI ZB 40/09, WM 2010, 1673
+    Rn. 16; Beschluss vom 27. Juni 2013 - III ZR 143/12, WM 2013, 1504 Rn. 10).
+
+
+2         II. Im Übrigen wäre die Beschwerde der Kläger auch unbegründet, weil
+    keiner der im Gesetz (§ 543 Abs. 2 ZPO) vorgesehenen Gründe vorliegt, nach
+    denen der Senat die Revision zulassen darf. Der Rechtsstreit der Parteien hat
+    weder grundsätzliche Bedeutung, noch erfordert er eine Entscheidung des
+
+                                      -4-
+
+
+
+
+Revisionsgerichts zur Fortbildung des Rechts oder zur Sicherung einer
+einheitlichen Rechtsprechung. Der Senat hat die Verfahrensrügen geprüft und
+für nicht durchgreifend erachtet.
+
+
+
+Bergmann                            Strohn                            Caliebe
+
+                 Reichart                               Sunder
+
+
+
+Vorinstanzen:
+LG München I, Entscheidung vom 04.04.2013 - 3 O 21067/12 -
+OLG München, Entscheidung vom 04.12.2013 - 21 U 2272/13 -
