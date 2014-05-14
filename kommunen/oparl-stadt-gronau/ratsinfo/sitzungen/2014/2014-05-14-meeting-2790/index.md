@@ -1,0 +1,54 @@
+# Rat (51. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2014-05-14T18:00:00+02:00
+- Ende: 2014-05-14T22:43:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZR9DfLUG4Hl4VZU8hATx-Ig
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2790
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMtG1BDdorUG4EcYVOTYcrETuYCjiA-eaeBwWp9UA7w/Oeffentliche_Niederschrift_Rat_14.05.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 09.04.2014
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Namensfindung für die bisherige Wilhelmschule; -Antrag der FDP-Fraktion vom 09.02.2014- - Einstimmig, 1 Enthaltungen
+- TOP 3.2: Soziale Unternehmen als Instrument innovativer Wirtschafts- und Beschäftigungspolitik in Gronau; Antrag der FDP-Fraktion vom 29.03.2014 - Einstimmig, 0 Enthaltungen
+- TOP 3.3: Verkehrslärm an der Overdinkelstraße u.a.; Antrag der SPD-Fraktion vom 04.05.2014 - Einstimmig, 0 Enthaltungen
+- TOP 3.4: Bericht über den Sachstand Innenstadtentwicklung; Antrag der SPD-Fraktion vom 04.05.2014 - 12 Jastimmen, 28 Neinstimmen, 0 Enthaltungen
+- TOP 3.4.1: Bericht über den Sachstand Innenstadtentwicklung; Antrag der SPD-Fraktion vom 04.05.2014
+- TOP 4.: Vorschlagslisten für die Neuwahl der ehrenamtlichen Richterinnen und Richter für das Verwaltungsgericht Münster und für das Oberverwaltungsgericht des Landes Nordrhein-Westfalen - Einstimmig, 2 Enthaltungen
+- TOP 5.: Budgetbericht zum I-Quartal 2014
+- TOP 6.: Vorzeitige Auflösung der Schillerschule - 32 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Vorzeitige Auflösung der Hermann-Gmeiner-Hauptschule - 38 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 8.: Öffentlich-rechtliche Vereinbarung zur Klärschlammentsorgung Kläranlage Gronau - Einstimmig, 2 Enthaltungen
+- TOP 9.: Bebauungsplan Nr. 30, 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 9.1: nicht-öffentliche Vorlage
+- TOP 10.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 10.1: Mitteilung aus dem Verwaltungsrat der Sparkasse
+- TOP 11.: Mitteilungen der Verwaltung
+- TOP 11.1: Anfrage der GAL zum Lukaskrankenhaus
+- TOP 12.: Anfragen
+- TOP 12.1: Anfrage von RM Gabbe; Parksituation am Krankenhaus
+- TOP 12.2: Anfrage von RM Gabbe; Verhandlungen mit Grundstückseigentümern
+- TOP 12.3: Anfrage von RM Gabbe; Abgasanlage der Feuerwehr
+- TOP 12.4: Anfrage von RM Laschke; Gespräche mit den Fußballvereinen
+- TOP 12.5: Anfrage von RM Krefter; externe Beratung bezüglich der Ölfunde im Amtsvenn
+- TOP 12.6: Anfrage von RM Krefter; Sachstand Kleinspielfelder
+- TOP 12.7: Anfrage von RM Arends; Sachstand Ölfund im Amtsvenn
+- TOP 12.8: Anfrage von RM Buchholz; Ölkonzentration im Erd-/ Öl- und Wassergemisch im Amtsvenn
+- TOP 12.9: Anfrage von RM Alfers; Solefund in Graben im Amtsvenn
+- TOP 12.10: Anfrage von RM Gabbe; Sicherheit der Trinkwasserversorgung
+- TOP 12.11: Anfrage von RM Lüttikhuis; Schreiben der SGW zu der Höhe ihrer Versicherung - Übermittlung an die Ratsmitglieder
+- TOP 12.12: Anfrage von RM Post; Sondersitzung des Aufsichtsrates der Stadtwerke bezüglich der Ölkatastrophe im Amtsvenn
+- TOP 12.13: Anfrage von RM Bartels; Ranking der kommunalen Homepages in NRW
+- TOP 12.14: Anfrage von RM Gabbe; Verhinderung einer Sondersitzung des Aufsichtsrates der Stadtwerke
+- TOP 12.15: Anfrage von RM Buchholz; Schwierigkeiten der Sondermülldeponie in Ochtrup
+- TOP 12.16: Anfrage von RM Ricking; Sitzung des Wahlprüfungsausschusses und des Rates am 02.07.2014
+- TOP 12.17: Anfrage von RM Buchholz; Erweiterung der Fa. Altex - Sachstand
+- TOP 12.18: Anfrage von RM Buchholz; Auslegung des Amtsblattes an der Infosäule im Foyer des Rathauses
