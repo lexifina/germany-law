@@ -1,0 +1,80 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-05-14T17:05:00+02:00
+- Ende: 2014-05-14T21:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3367
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3367
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=77046
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 30. Sitzung der BVV am 14.05.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 30. Sitzung der BVV am 14.05.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 30. Sitzung der BVV am 14.05.2014 - erledigt
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Kommunale Integrationsarbeit - überwiesen
+- TOP 5.1.1: Leitbild "Interkulturelle Arbeit der Verwaltung für Reinickendorf" erstellen - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Regelmäßiger Bericht Baumaßnahmen (Zwischenbericht) - überwiesen
+- TOP 7.3: Gründung eines Projekts zum Erhalt unserer Spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Fahrgastinformationen S-Bahnhof Hermsdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Umwandlung des Marie-Schlei-Hauses in eine Flüchtlingseinrichtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Mit dem Wasser-Taxi zum Strandbad Tegel (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Schmierereien entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Kunst in Reinickendorf II - Sicherung einer Sammlung von Skulpturen, historischen Bauteilen und Straßenmöbeln - überwiesen
+- TOP 7.9: Leuchte am Behindertenparkplatz des S-Bahnhofs Hermsdorf wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Ladestationen für Elektromobile an Straßenbeleuchtungsmasten prüfen! (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Quartiersmanagement rund um den Auguste-Viktoria-Kiez (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: Sportstättenhinweise im Märkischen Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Ausreichende Müllbehälter an Badestelle Sandhauser Straße ("Tivoli") schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Mülleimer im Bekassinenweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Bezirksaktivitäten zum Jubiläum MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Genehmigungsrechtliche Möglichkeiten beim Grundstück Waidmannsluster Damm 155 ausschöpfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Rauchverbot auf S-Bahnhöfen stärker kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Jahresbericht der Patientenfürsprecherin in der Psychiatrie des Vivantes Netzwerkes für Gesundheit GmbH - Am Nordgraben - für das Jahr 2013 - überwiesen
+- TOP 7.19: Aufstellung des Bebauungsplans 12-26B-1 für die Grundstücke Gotthardstraße 96 - 100, Blankestraße 4, 5 im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Lebensmittelaufsicht in Reinickendorf - Ist die Sicherheit noch gewährleistet? - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Quartiersmanagement für Reinickendorf-West - in der BVV abgelehnt
+- TOP 10.1.1: Projekte zum sozialen Zusammenhalt in Reinickendorf-West - überwiesen
+- TOP 10.2: Reflektoren in der dunklen Jahreszeit tragen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Soziale Erhaltungsverordnungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Carsharing im Bezirk ausweiten - erledigt
+- TOP 10.5: Vor der Kita Maximiliankorso wieder Tempo 30 einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Park & Ride-Parkplätze für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Gelbe Fußstapfen für Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Unterstützung der Schulen mit erhöhter Anzahl von Schülern ohne Deutschkenntnisse - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sanierung der Ellef-Ringes-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Standorte für anzeigenunabhängige Spurensicherung - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Konzept Residenzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen II - überwiesen
+- TOP 12.2: W-LAN-Hotspots in Reinickendorfer Cafés - überwiesen
+- TOP 12.3: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (1) - überwiesen
+- TOP 12.4: Fehlende Straßenbäume online veröffentlichen - überwiesen
+- TOP 12.5: Kiezfonds 2014 - überwiesen
+- TOP 12.6: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (2) - überwiesen
+- TOP 12.7: Verkehrsfluss in Tegel-Süd verbessern - überwiesen
+- TOP 12.8: Fußgängerschutz Falkentaler Steig - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Strukturen bürgerlichen Engagements in Reinickendorf-West stärken - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Tempo 30 vor der Kindertagesstätte St. Marien - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Rechtssicherheit für Elternvertreterinnen und Elternvertretern in den Berliner Kindertagesstätten schaffen - überwiesen
+- TOP 13.3: Tempo 30 für Teilabschnitt Waidmannsluster Damm - überwiesen
+- TOP 13.4: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen I - überwiesen
+- TOP 13.5: Eingeschränktes Halteverbot Oranienburger Str., Fahrtrichtung Süd (Lübarser Str. - Schlitzer Str.) - überwiesen
+- TOP 13.6: Mülleimer im Waldidyll - ohne Änderungen in der BVV beschlossen
