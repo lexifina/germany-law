@@ -1,0 +1,51 @@
+# Gemeinderat (32. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-05-15T18:00:00+02:00
+- Ende: 2014-05-15T20:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZebYD5o1ls9Bo4OjawCcAwo
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1361
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWO8wqiyEXV6ZXJ3tubNsmqSAC1kNS4_Xw5xRXUCk9Nr/Bekanntmachung_Gemeinderat_15.05.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXPZpang7kJ8z9NtLvFfrKH_NMLj9dP1TfjCdQsPlE71/Oeffentliche_Niederschrift_Gemeinderat_15.05.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.04.2014 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung der 7. Änderung des Bebauungsplans 17 A - Strauss & Overlack - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: 1. Änderung des Bebauungsplans 14 F - Althoffstraße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2.1: 1. Änderung des Bebauungsplans 14 F - Althoffstraße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss
+- TOP 3.3: 1. 44. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2. Bebauungsplan 65 A - WK V - a.) zu 1. und 2. Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 44. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven und zur Aufstellung des Bebauungsplans 65 A - WK V - b.) zu 1. und 2. Aufstellungsbeschlüsse gemäß § 2 Abs. 1 BauGB c.) zu 1. und 2. Beschlüsse über die frühzeitige Beteiligung gemäß § 3 Abs. 1 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 1 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1: Prüfung des Gesamtabschlusses für das Jahr 2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Prüfung des Jahresabschlusses für das Jahr 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Entlastung des Bürgermeisters für das Haushaltsjahr 2013 sowie die Entlastung für den Gesamtabschluss des Jahres 2012 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 5.1: Festlegung der Zügigkeit und Förderschwerpunkte der Grundschulen - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Satzung des Schulzweckverbandes Aldenhoven-Linnich für die interkommunale Gesamtschule Aldenhoven-Linnich - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: 6. Änderung der Abfallentsorgungssatzung; "Teilkonzept Altkleider" sowie die Erweiterung um die Definition von Bioabfällen - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Aufteilung von Spendenmitteln - Einstimmig, 0 Enthaltung(en)Ratsherr Wassenhoven bittet darum, mit dem nach der Kommunalwahl neu bestellten Fahrenden Ausschuss die gemeindlichen Kinderspielplätze aufzusuchen, um sich vor Ort ein Bild zu machen, wie die Mittel in Höhe von 34.900 € sinnvo
+- TOP 8.: 2. Änderung des Stellenplans 2014 - 19 Ja-Stimme(n), 7 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ausführung des Haushalts
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.04.2014 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verkauf des Grundstückes Gemarkung Schleiden, Flur 4, Flurstück 453 - Einstimmig, 8 Enthaltung(en)
+- TOP 3.2: Dämmung und Verklinkerung des Wohngebäudes Sandgracht 19 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Verkauf des Wegegrundstücks Gemarkung Freialdenhoven, Flur 8, Flurstück 181 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.4: B-Plan 35 a - Am Schwanenkamp - Verpachtung/Veräußerung von Teilflächen der öffentlichen Grünanlage - Abgesetzt
+- TOP 4.: Sachstandsberichte der Verwaltung
+- TOP 4.1: Interkommunale Zusammenarbeit
+- TOP 5.: Vergabe der Abfallentsorgungsleistungen in der Gemeinde Aldenhoven ab 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Verschiedenes
