@@ -1,0 +1,63 @@
+# 68. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-05-15T16:00:00+02:00
+- Ende: 2014-05-15T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3368
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3368
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_05_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00169155.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Vorgehen der Stadtverwaltung gegen Wahlplakat von BÜNDIS 90/DIE GRÜNEN - erledigt
+- TOP 2.2: Gymnasium Dresden-Plauen - erledigt
+- TOP 2.3: Neubeantragung der Erstattung von Schülerbeförderungskosten - erledigt
+- TOP 2.4: Freitreppe Brühlsche Terasse - Behindertengerechter Aufzug - erledigt
+- TOP 2.5: Ausbau des linkselbischen Radwegs - erledigt
+- TOP 2.6: Strategie der Stadtverwaltung am Neustädter Hafen und stromabwärts - erledigt
+- TOP 2.7: Wahlwerbung - erledigt
+- TOP 2.8: Baumfällungen in der Vegetationsperiode - erledigt
+- TOP 2.9: Verkehrsbelastungen in Striesen/Blasewitz - erledigt
+- TOP 2.10: Unfallschwerpunkte Elberadweg - erledigt
+- TOP 2.11: Vergleich Vertragsstrafen Privatisierungsvertrag Woba Dresden GmbH - erledigt
+- TOP 2.12: Verkauf des Herbergsschiffes (ehemalige Jugendübernachtungsstätte) durch die Stadt Dresden - erledigt
+- TOP 2.13: Verkehrsunfall Stephensonstraße - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Planung und Sanierung Gerokstraße - Vertagung
+- TOP 5: Vorkaufsrecht in Überschwemmungsgebieten wahrnehmen - Ablehnung
+- TOP 6: Runder Tisch "Künstlerinnen, Künstler und Kulturwirtschaft brauchen Raum" - punktweise Zustimmung mit Änderung
+- TOP 7: KREATIVES DRESDEN - Räume für die Kreativwirtschaft - punktweise Abstimmung mit Änderung
+- TOP 8: Via Neolithica Dresdensis (Der Weg der Neolithen in Dresden) - Zustimmung mit Änderung
+- TOP 9: Etablierung einer Kinderschutzambulanz im Rahmen des Netzwerkes Kinderschutz und Frühe Hilfen in Dresden - Zustimmung mit Änderung
+- TOP 10: Medizinische Versorgung für Asylbewerberinnen und Asylbewerber verbessern - Krankenversichertenkarten einführen - Ablehnung
+- TOP 11: Einrichtung einer Ombudsstelle für ALG-II-Beziehende - Vertagung
+- TOP 12: Sicherung der Mobilität im ÖPNV für Einwohnerinnen und Einwohner mit geringem Einkommen durch Abfederung der jährlichen Tarifsteigerungen für den ÖPNV durch stetige Anpassung der Rabattstufen im Sozialtarif - Vertagung
+- TOP 13: Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - Zustimmung mit Änderung
+- TOP 14: Kostensatz für das Übergangswohnheim Florian-Geyer-Straße 48 mit 17 Betten als Ausweichstandort für wohnungslose Personen - Zustimmung
+- TOP 15: Kostensatzveränderung in Folge der Neuausrichtung und baulichen Instandsetzung des Übergangswohnheimes Hamburger Straße 63 zum Übergangswohnheim mit 55 Betten für Wohnungslose - Zustimmung
+- TOP 16: Gleiche Chancen für alle – Einführung anonymisierter Bewerbungsverfahren in der Stadtverwaltung - Vertagung
+- TOP 17: Entfristung der nicht zweckgebundenen Bundesmittel im Rahmen des Bildungs- und Teilhabepaketes - Vertagung
+- TOP 18: Pavillon auf dem Postplatz - Konzept für neue Nutzung der "Käseglocke" - Vertagung
+- TOP 19: Vorplanung Stadtbahn 2020, Straßenbahn-Neubaustrecke Löbtau – Südvorstadt – Strehlen, Teilstrecke 1.2: Nossener Brücke – Nürnberger Straße - Zustimmung mit Änderung
+- TOP 20: Richtlinie der Landeshauptstadt Dresden zur Förderung von Baumaßnahmen an Sakralbauten (Förderrichtlinie Sakralbauten) - Zustimmung
+- TOP 21: Umsetzung des Stadtratsbeschlusses zur Vorlage V2197/13 Gründung des Gymnasiums Dresden Prohlis zum 1. August 2014 - Zustimmung
+- TOP 22: Veränderung des Sondervermögens des Eigenbetriebes Sportstätten- und Bäderbetrieb Dresden für die Wirtschaftsjahre 2011 und 2012 - Grundstückslisten - Zustimmung
+- TOP 23: Förderung des Baus von selbst genutztem Wohnraum durch Bauherrengemeinschaften - Vertagung
+- TOP 24: Annahme und Verwendung von Spenden, Schenkungen oder ähnlichen Zuwendungen - Zustimmung
+- TOP 25: 91. Bachfest 2016 in Dresden - Vertagung
+- TOP 26: "Erinnerung vielfältig gestalten" - Erinnerungskulturelle Grundlagen der Landeshauptstadt Dresden - Vertagung
+- TOP 27: Denkmalgerechte Instandsetzung und Hochwasserschadensbeseitigung an der Augustusbrücke - Zustimmung mit Ergänzung
+- TOP 28: Öffentlichkeit von Sitzungen des Seniorenbeirates der Landeshauptstadt Dresden - Vertagung
+- TOP 29: Evaluierung der privatisierten Dresdner Kultureinrichtungen - Vertagung
+- TOP 30: Erhalt des Denkmals ‚Neue Mensa‘ Bergstraße - Vertagung
+- TOP 31: Nutzergerechte Bushaltestellen an den Dresdner Fernbahnhöfen - Vertagung
+- TOP 32: Standort Bayrische Straße zum Fernbusbahnhof ausbauen - Vertagung
+- TOP 33: Erhöhung des Förderetats zur Förderung der Träger der freien Jugendhilfe im Bereich der fachlich befürworteten Personalstellen zu 100 Prozent - Vertagung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Haushaltsvollzug 2013 - Beschlusspunkt V. zur Haushaltssatzung 2013/2014 (V1898/12, SR/049/2013) - zur Kenntnis genommen
