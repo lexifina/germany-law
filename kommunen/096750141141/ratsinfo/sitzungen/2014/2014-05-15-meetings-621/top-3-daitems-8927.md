@@ -1,0 +1,6 @@
+# TOP 3: Haushaltsüberschreitung
+
+- Sitzung: Sitzung des Finanzausschusses (2014-05-15)
+- Körperschaft: Stadt Kitzingen
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/agendaitems/8927
