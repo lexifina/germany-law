@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-05-16T16:00:00+02:00
+- Ende: 2014-05-16T18:35:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9313
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9313
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216692.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216692.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216692.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Bestellung eines Schriftführers für die Sitzung am 16.05.2014 - zur Kenntnis genommen
+- TOP 3: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Kappeler Straße - Baumfällung im Zuge der Herstellung einer Zufahrt eines bereits ansässigen Einzelh - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Umbau des Kinderspielplatzes Zoppoter Straße - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 10: Ausbau der öffentlichen Grünanlage Ohmweg - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: St.-Elisabeth-Schule, Städtische Katholische Grundschule Buchenstr. 16, 40599 Düsseldorf - zur Kenntnis genommen
+- TOP 15: Trödelmärkte Schützenplatz Spangerstraße 2. Halbjahr 2014 - zur Kenntnis genommen
+- TOP 16: Trödelmarkt auf dem Schützenplatz Benrath (Bayreuther Str. 1) am 19.10.2014 - zur Kenntnis genommen
+- TOP 17: Anfrage: Haltestellen Am Scheitenweg, Buslinie 731 - zur Kenntnis genommen
+- TOP 18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 –Haushalt 2014- zu Liste a) Lis - zur Kenntnis genommen
+- TOP 19: Antrag: Einrichtung der Wiesdorfer Straße als Einbahnstraße - zur Kenntnis genommen
+- TOP 20: Antrag: 3-fach Sporthalle Itterstraße - zur Kenntnis genommen
+- TOP 21: Antrag: Sportbewegungspark Paulsmühlenstraße
+- TOP 22: Antrag: Nutzungskonzept Brachgelände Koblenzer Straße - Theodor-Litt-Straße - zur Kenntnis genommen
+- TOP 23: Antrag: Am Erlenhof - zur Kenntnis genommen
+- TOP 24: Antrag: Fußgängerüberweg Henkelstraße, Ecke Stephanstraße - zur Kenntnis genommen
+- TOP 25: Antrag: Ampelschaltung Kölner Landstraße / Werstener Feld / Ickerswarder Straße - zur Kenntnis genommen
+- TOP 26: Antrag: Sanierung des Straßenbelags „Cronenberger Weg“ - zur Kenntnis genommen
+- TOP 27: Antrag: Aufstellung von Abfallbehältern - zur Kenntnis genommen
+- TOP 28: Antrag: Hochstraße 60, Einmündung Gänsestraße - zur Kenntnis genommen
+- TOP 29: Antrag: Mögliche Haltestelle „Am Bärenkamp/Ickerswarder Str.“? - zur Kenntnis genommen
+- TOP 30: LKW-Fahrverbot Görresstr. ab Börchemstr. - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel Katholisches Familienzentrum St. Cäcilia/Herz Jesu - zur Kenntnis genommen
+- TOP 32: Verfügungsmittel der Bezirksvertretung 9 - zur Kenntnis genommen
+- TOP 33: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel Düsseldorfer Räbbelche 1962 e.V. - zur Kenntnis genommen
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
