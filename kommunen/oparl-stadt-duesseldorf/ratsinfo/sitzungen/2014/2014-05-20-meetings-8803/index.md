@@ -1,0 +1,67 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-05-20T16:00:00+02:00
+- Ende: 2014-05-20T18:45:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8803
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8803
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216724.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216724.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00216724.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Rederecht der Mitglieder des Seniorenbeirates - einstimmig beschlossen
+- TOP 4: Entwicklung SANA-Krankenhaus Gerresheim - zur Kenntnis genommen
+- TOP 5: Kinderklinik SANA-Krankenhaus Gerresheim - zur Kenntnis genommen
+- TOP 6: Vorstellung der Energieberatung
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: "Dog Event Düsseldorf" im Jahre 2014 - mehrheitlich beschlossen
+- TOP 8: Widmung von Straßen - einstimmig beschlossen
+- TOP 9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 10: Fracking II - Zulassung nach Wasserhaushaltsgesetz - zur Kenntnis genommen
+- TOP 11: Fracking I - Kein Fracking im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 12: Planung von Erkundungsbohrungen zur Vorbereitung von Gasförderung nach dem sog. Fracking-Verfahren - einstimmig beschlossen
+- TOP 13: Keine Windräder im Stadtbezirk 7 - mehrheitlich beschlossen
+- TOP 14: Masterpläne für den Stadtbezirk 7 - einstimmig beschlossen
+- TOP 15: Prognose zur Entwicklung Gerresheims - einstimmig beschlossen
+- TOP 16: Machbarkeitsstudie Tunnel Ludenberger Straße - einstimmig beschlossen
+- TOP 17: Bericht über JVA - einstimmig beschlossen
+- TOP 18: Baumaßnahme Sammler Gudastraße - einstimmig beschlossen
+- TOP 19: Glashüttensiedlung "Alte Insel" - einstimmig beschlossen
+- TOP 20: Glasmacherviertel - Park & Ride-Platz - einstimmig beschlossen
+- TOP 21: Postfiliale im Supermarkt Dreherstraße - einstimmig beschlossen
+- TOP 22: Erneuerung des Aufstieges Rutsche Kinderspielplatz "Quadenhofstraße" - einstimmig beschlossen
+- TOP 23: Ansprechpartner zum Umbau Benderstraße - mehrheitlich beschlossen
+- TOP 24: Kreuzung Torfbruchstraße / Dreherstraße - einstimmig beschlossen
+- TOP 25: Haltestelle Knuppertsbrück (stadtauswärts) - einstimmig beschlossen
+- TOP 26: Tiefgarage Am Wallgraben - einstimmig beschlossen
+- TOP 27: Fahrrad-Station mit E-Tankstelle - einstimmig beschlossen
+- TOP 28: Verbindungsweg Torfbruchstraße - Nymphenburgstraße - einstimmig beschlossen
+- TOP 29: Alter Gerresheimer Friedhof / Robidog-Behälter - einstimmig beschlossen
+- TOP 30: Parken Von-Gahlen-Straße - einstimmig beschlossen
+- TOP 31: Wegbeleuchtung Marie-Curie-Straße - mehrheitlich beschlossen
+- TOP 32: Wittelsbachstraße - einstimmig beschlossen
+- TOP 33: Familienschwimmbad im Stadtbezirk - einstimmig beschlossen
+- TOP 34: Bebauungsplan 5978/49, Teil 1 (ehem. LKH-Gelände südlich B7)
+- TOP 35: Umbau der Haltestellen der Buslinie 730 im Stadtbezirk 7
+- TOP 36: Festsetzung der Überschwemmungsgebiete der südlichen Düssel
+- TOP 37: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann
+- TOP 38: Staufenplatz: Ersatzpflanzung von 4 gefällten Bäumen - zur Kenntnis genommen
+- TOP 39: Sachstandsbericht Denkmalschutz Bergische Kaserne - zur Kenntnis genommen
+- TOP 40: Bürgerhaus Gerresheim (ehem. Pfarrhaus) - zur Kenntnis genommen
+- TOP 41: Laternen, Parkanlage Otto-Götzen-Weg; Graf-Recke-Straße, Mörsenbroicher Weg - zur Kenntnis genommen
+- TOP 42: Sachstandsbericht Bushaltestellen - zur Kenntnis genommen
+- TOP 43: Hinweisschild "Poststadion" - zur Kenntnis genommen
+- TOP 44: Sauerweg - zur Kenntnis genommen
+- TOP 45: Bürgersteig Grundreinigung - zur Kenntnis genommen
+- TOP 46: Zentraldeponie Hubbelrath (ZDH) - zur Kenntnis genommen
+- TOP 47: Fuß-/Wegeverbindung zwischen Brücke Rampenstraße - Gödinghover Weg - zur Kenntnis genommen
+- TOP 48: Gutenbergstraße - zur Kenntnis genommen
+- TOP 49: Parkfläche Limburgstraße - zur Kenntnis genommen
