@@ -1,0 +1,92 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-05-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3287910
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3287910
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse AKA e.V. Internationales Stadtteilfest am 06.07.2014 - <div>Zustimmung in Höhe von 2500,00 Euro</div>
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.2.1.: Anträge auf Erweiterung der vorhandenen Freischankflächen in der Wörthstraße: Entscheidungen über Sondernutzungserlaubnisse (Erweiterung bestehender Freischankflächen); Beschlussvorlagen des Kreisverwaltungsreferats vom 15.04.14 SSW ?Café Voila?, Wörthstraße 5 Einzelhandel mit Lebensmitteln ?Holy Burger?, Wörthstraße 7 Einzelhandel mit Lebensmitteln ?Gianluca?, Wörthstraße 7 SSW ?NO MI YA?, Wörthstraße 7 SSW ?Satluj?, Wörthstraße 7 Kleingaststätte ?Lollo Rosso?, Wörthstraße 11
+- TOP 6.3: Weitere Entscheidungen
+- TOP 1: (E) Rampe an der Treppe Quellenstraße / Ecke Fischerweg Empfehlung Nr. 08-14 / E 02170 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 23.01.2014 - <div>nach Antrag</div>
+- TOP 2: (E) Barrierefreiheit (Randsteinabsenkungen) Sedanstraße und Steinstraße (Ziffer 3 des Antrages) Empfehlung Nr. 08-14 / E 02159 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 16.01.2014 - <div>nach Antrag</div>
+- TOP 7: Anhörungen (1)
+- TOP 7.1.: Einsatz des Kinder-Aktions-Koffers zur Beteiligung von Kindern 2014/2015, Ausschreibung; Mitteilung des Sozialreferates vom 09.01.2014 (vertagt vom 19.03.14
+- TOP 7.2.: Anhörungsverfahren für Skateboard- und Scooterkurse des RBS in den Münchner Grünanlagen, u.a. Skateanlage Postwiese ab 02.08.14; Anhörung durch das Kreisverwaltungsreferat vom 29.04.14
+- TOP 7.3.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest am 12.07.14 (Ersatztermin 19.07.14) in der Lothringer Straße; Anhörung durch das Kreisverwaltungsreferat vom 29.04.14
+- TOP 7.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Gemeindefest der Ev. Kirchengemeinde St. Johannes am 13.07.2014 auf dem Preysingplatz vor der Kirche; Anhörung durch das Kreisverwaltungsreferat vom 22.04.14
+- TOP 7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6.: Breisacher Straße 5; Umbau und Nutzungsänderung eines Ladens in eine Kindertagesstätte mit einer Kindergartengruppe; Anhörung durch die Lokalbaukommission vom 15.04.14
+- TOP 7.7.: Rosenheimer Straße 112 - 114; Neubau eines Büro-, Wohn- und Geschäftshauses mit Tiefgarage (Rosenheimer Straße 112-114 / Orleansstraße 10-12) ? Vorbescheid; Anhörung durch die Lokalbaukommission vom 06.05.14
+- TOP 7.8.: Auerfeldstraße 18; Dachgeschoss-Restausbau, Erneuerung des Dachstuhls und Errichtung einer Feuerwehr-Aufstellfläche; Anhörung durch die Lokalbaukommission vom 22.04.14
+- TOP 7.9.: Lilienstraße 34; Dachgeschoss-Ausbau; Anhörung durch die Lokalbaukommission vom 15.04.14
+- TOP 7.10.: Kellerstraße 41; Rückgebäude: Neubau 3.Obergeschoss + Dachgeschoss, Anbau von Balkonen und eines Aufzugs sowie Dämmung der Außenwände; Anhörung durch die Lokalbaukommission vom 16.04.14
+- TOP 7.11.: Tassiloplatz 7; Teilabbruch und Wiederaufbau, Abbruch, Nutzungsänderung, Sanierung und Renovierung, Neubau und Umbau des Anwesens ? Tektur; Anhörung durch die Lokalbaukommission vom 08.05.14
+- TOP 7.12.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014); Anhörung durch die Münchner Verkehrsgesellschaft mbH (MVG) vom 14.04.14; hierzu: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr im Münchner Forum e.V. vom 04.05.14
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Städtebauliche Eckdaten ? Anhörungsrecht für BAs
+- TOP 8.1.2.: Ausstellung zur Geschichte der Rosenheimer Straße
+- TOP 8.1.3.: Baumpflanzung in der Wörthstraße
+- TOP 8.1.4.: Toiletten für Kinderspielplätze
+- TOP 8.1.5.: BAs in die Konzeption des MVG-Leihrad-Modells einbinden
+- TOP 8.1.6.: Fahrradstellplätze am Max-Weber-Platz im Sperrengeschoss
+- TOP 8.1.7.: Verbesserung der Sicherheit im U-Bahnhof Max-Weber-Platz
+- TOP 8.1.8.: Einsteinstraße: Radfahrstreifen freihalten
+- TOP 8.1.9.: Baustelleneinrichtung Einsteinstraße / Grillparzerstraße
+- TOP 8.1.10.: Polizeibericht zu Unfallschwerpunkten
+- TOP 8.1.11.: Aufklärung eines Verkehrsunfalls
+- TOP 8.1.12.: Keine Unterversorgung mit (auch) stationären Pflegeplätzen in der Sozialregion 3 Au-Haidhausen / Bogenhausen
+- TOP 8.1.13.: Generalsanierung des Gasteig-Kulturzentrums
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: MVG-Buslinie X 30 ? Linienweg und Situation am Ostbahnhof; Antwortschreiben der MVG vom 02.05.14 zur Beschlusslage des BA 5 aus der Sitzung vom 19.03.14
+- TOP 8.2.2.: Lieferverkehr für die Tengelmann-Filiale in der Weißenburger Straße 25; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 14.04.14
+- TOP 8.2.3.: Standortvorschläge des BA 5 zur Unterbringung von Flüchtlingen und Wohnungslosen in den Stadtbezirken; Antwortschreiben des Sozialreferats vom 16.04.14
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.3.1.: Neue Bädereintrittspreise ? Information der Bezirksausschüsse; Schreiben der Stadtwerke München GmbH, Bäder, vom 29.04.14
+- TOP 8.3.2.: Parkraummanagement; Parklizenzgebiet ?Kirchenstraße?; Ausweisung von saisonalen Motorradparkplätzen im (Schräg-)Parkbuchtbereich vor dem Anwesen Elsässer Str. 23 / Seite Breisacher Straße; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferats vom 14.04.14
+- TOP 8.3.3.: Unveränderte Fortführungen von Gaststättenbetrieben; Mitteilungen des KVR / BI Ost Schank- und Speisewirtschaft ?Afros?, Braystraße 22 Schank- und Speisewirtschaft ?Diamonds Kitchen (ehem. Café Horn?), Orleansplatz 3 Schank- und Speisewirtschaft ?Full Moon?, Einsteinstraße 119 Schank- und Speisewirtschaft ?The Munich Cosmo?, Lucile-Grahn-Straße 36 a
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 3.1.: UA-Sondersitzung vom 30.04.2014 zum Thema ?Ausbau der Welfenstraße?
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mittwoch, 11.06.2014, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA Soziales: Montag, 16.06.2014, 18.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 17.06.20, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Mittwoch, 18.06.2014, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 16.06.2014, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 25.06.2014, 19.00 Uhr, Gasteig, Rosenheimer Straße 5, 81667 München, Besprechungsraum 4.156
+- TOP 4: Sonstige Termine
