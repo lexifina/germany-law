@@ -1,0 +1,84 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-05-21T17:00:00+02:00
+- Ende: 2014-05-21T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2781
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2781
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Parkchaos Brettnacher Straße - beantwortet
+- TOP 3.2: Liste der Gehwege, die für die maschinelle Winterreinigung nicht geeignet sind - beantwortet
+- TOP 3.3: Unfälle am Breitenbachplatz - beantwortet
+- TOP 3.4: Frühlingszeit in der Schweinfurthstraße - beantwortet
+- TOP 3.5: Verschmutztes Paradies rund um den Schlachtensee - beantwortet
+- TOP 3.6: Kinderärztliche Versorgung im Charité-Standort Campus Benjamin Franklin - beantwortet
+- TOP 3.7: eAkte im JobCenter - beantwortet
+- TOP 3.8: Entwurfsplanung für den Dorfanger Zehlendorf - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines stellvertretenden Bürgerdeputierten im Ausschuss für Bauen und Immobilienverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Bauen und Immobilienverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für den Förderkreis des Museumsdorfes Düppel e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Sondermittel der BVV für den Griechisch-Deutschen Förderverein e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan X - B 15 [südlich der Pücklerstraße] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Bebauungsplan X - B 17 [südlich der Schorlemerallee] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan X - B 17 [südlich der Schorlemerallee] - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Anträge - erledigt
+- TOP 4.6.1: Aufzug am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Beachvolleyball auch mittags - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Zukunft des Charité-Standortes Campus Benjamin Franklin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Sportinitiative für Flüchtlinge in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Barrierefreie Orte im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Schulhofsanierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Verbesserungen für Fußgänger und Radverkehr am Bahnhofsvorplatz Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Unternehmen des Jahres - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Verkehrsgutachten für Lichterfelde-Süd jetzt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Gerechtere Ärzteverteilung im Bezirk - in der BVV abgelehnt
+- TOP 4.7.7: Unverzüglich Bebauungsplan für Technologie- und Gründungszentrum in der Fabeckstraße aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Veloturm statt Kuddel Muddel - überwiesen
+- TOP 5.1.2: Schafe statt Wasservögel - überwiesen
+- TOP 5.1.3: Kunden für Zehlendorf-Mitte - überwiesen
+- TOP 5.1.4: Spielplätze in Lichterfelde-Süd bespielbar machen - überwiesen
+- TOP 5.1.5: Steglitz-Zehlendorfer Rathäuser als Freifunkstandorte ausrüsten - überwiesen
+- TOP 5.1.6: Geschütztes Marktsegment - überwiesen
+- TOP 5.1.7: Tempo 30 auf Durchgangsstraße am Platz des 4. Juli - überwiesen
+- TOP 5.1.8: Wohnungs- und siedlungsnahe Grünflächen im Bereich der Thermometer-Siedlung - überwiesen
+- TOP 5.1.9: Papierlose Quittierung von Entleihen in den Bezirksbibliotheken ermöglichen - überwiesen
+- TOP 5.1.10: Lichtzeichenanlage Altensteinstraße/Englerallee Ecke Königin-Luise-Straße reparieren - überwiesen
+- TOP 5.1.11: Nutzungskonkretisierung Platz des 4. Juli - überwiesen
+- TOP 5.1.12: Bezirkswohnraum Tautenburger Straße erhalten - überwiesen
+- TOP 5.1.13: Fahrradweg am Mutter-Mochow-Haus - überwiesen
+- TOP 5.1.14: Lichtzeichenanlage für Potsdamer Straße / Fürstenstraße - überwiesen
+- TOP 5.1.15: Pflanzung von Hecken zum Lärmschutz im Bereich Bülowstraße - überwiesen
+- TOP 5.1.16: Sommergartenhaus Königsweg 326, Berlin-Wannsee, unter Denkmalschutz stellen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Zukunft für das interreligiöse Gemeindezentrum im Hüttenweg - schläft das Bezirksamt? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Verkehrskonzept - Schloßstraße - in der BVV abgelehnt
+- TOP 8.2: Parks Range I Randbebauung des Geländes „Lichterfelde-Süd“ begrenzen - erledigt
+- TOP 8.3: Parks Range IV Erhaltung der Gewerbeinsel in „Lichterfelde-Süd“ - erledigt
+- TOP 8.4: Parks Range V Festsetzung einer Fläche für Infrastruktur auf dem Gelände „Lichterfelde-Süd“ - erledigt
+- TOP 8.5: Parks Range VI Finanzierung der öffentlichen Daseinsvorsorge - erledigt
+- TOP 8.6: Parks Range VII Nutzung der Wertsteigerung der Grundstücksflächen in „Lichterfelde-Süd“ - erledigt
+- TOP 8.7: Parks Range VIII Gutachten zur verträglichen Sozialraumerweiterung in „Lichterfelde-Süd“ - erledigt
+- TOP 8.8: Parks Range IX Zustimmungsvoraussetzungen für einen B-Plan in „Lichterfelde-Süd“ - erledigt
+- TOP 8.9: Parks Range III Festsetzung für Sozialen Wohnungsbau in „Lichterfelde-Süd“ - in der BVV abgelehnt
+- TOP 8.10: Rederecht für Seniorenvertreterinnen und Seniorenvertreter - in der BVV abgelehnt
+- TOP 9: Schlusswort des Vorstehers - erledigt
