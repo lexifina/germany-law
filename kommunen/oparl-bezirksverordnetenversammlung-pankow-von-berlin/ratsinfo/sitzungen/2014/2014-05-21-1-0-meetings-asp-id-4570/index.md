@@ -1,0 +1,93 @@
+# 23. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2014-05-21T17:30:00+02:00
+- Ende: 2014-05-21T21:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4570
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4570
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=61319
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Rechtsextreme Vorfälle im Bezirk Pankow" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Gymnasiale Oberstufe für die Wilhelm-von-Humboldt Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Genehmigung von 20 Bauvorhaben gemäß § 33 Abs. 1 BauGB im Geltungsbereich des Bebauungsplanentwurfs XIX-48b für das Gelände zwischen Dr.-Markus-Straße, Parkgraben, Ferdinand-Buisson-Straße, Bahnhofstraße und Berliner Straße, Teilflächen des Grundstücks Dr.-Markus-Straße 11 und des Parkgrabens westlich der Straße 160 sowie die Dr.-Markus-Straße zwischen Berliner Straße und Parkgraben im Bezirk Pankow, Ortsteil Französisch Buchholz - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Vorhandene Selbsthilfe im Bezirk stärken und unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Transparenteres Verfahren zur Zusammensetzung des Kulturförderbeirates - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Konzept zur Aufstellung von Parkbänken und anderen Sitzgelegenheiten - in der BVV abgelehnt
+- TOP 1.13: Bürgerorientierter Einsatz der Mitarbeiterinnen und Mitarbeiter der Parkraumüberwachung - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Standort des Griechisch-Zweiges an der Homer-Grundschule (SESB) erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Kampagne der GESOBAU gegen den »Pankower MieterInnenprotest« zurückweisen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Mieter_innen vor übermäßiger Umlage bei energetischer Modernisierung schützen - überwiesen
+- TOP 1.17: Stadtgrün statt Beton. – Bereichsentwicklungsplan für das Gebiet Thälmannpark / Anton-Saefkow-Park - in der BVV abgelehnt
+- TOP 1.18: Generationen-Spielplatz für die Kolonie Buch - überwiesen
+- TOP 1.19: Sanierungskonzept für den Wilhelmsruher See - überwiesen
+- TOP 1.20: Engagement der BVV in der Europaregion POMERANIA - überwiesen
+- TOP 1.21: Kultur muss inklusiv sein - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Ansprechpartner für Modernisierungsvorhaben - überwiesen
+- TOP 1.23: Perspektive für junge, erwachsene Flüchtlinge - überwiesen
+- TOP 1.24: Berichtspunkt im EU-Bericht: Europaregion POMERANIA - überwiesen
+- TOP 1.25: Elektromobilität II - überwiesen
+- TOP 1.26: Information und breite Zustimmung als Voraussetzung für ein erfolgreiches Eco-Mobility-Festival - überwiesen
+- TOP 1.27: Car-Sharing-Stellplätze besser gegen Fremdparken schützen (II) - überwiesen
+- TOP 1.28: Temporäre Maßnahmen zur Verbesserung der Verkehrssicherheit in der Buchholzer Straße - überwiesen
+- TOP 1.29: Sicherung der Wege für Fußgänger bei Bauarbeiten - überwiesen
+- TOP 1.30: Modellprojekt "Fachberatung Migrant_innenselbstorganisation“ auf den Weg bringen - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Grundsätze für die Vergabe von Zuwendungen aus Haushaltsmitteln des Bezirks Pankow von Berlin zur Förderung von Migrant_innenprojekten - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Buchholzer Straße aus dem übergeordneten Verkehrsnetz herausnehmen - überwiesen
+- TOP 1.33: Verbesserung der Befahrbarkeit der Gounod-Straße - überwiesen
+- TOP 1.34: Endlich ein Bibliotheksgesetz - überwiesen
+- TOP 1.35: Lärmschutz an der BAB A114 - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen aus der 22. Tagung am 02.04.2014 - (offen)
+- TOP 2.1.1: Kreuzung Romain-Rolland-Straße/Rothenbachstraße - Mehr Sicherheit für FußgängerInnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Radverkehr Dietzgenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Schleichverkehr in der Sültstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.4: Car-Sharing-Stellplätze besser gegen Fremdparken schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.5: Arbeitsbericht des Frauenbeirates des Bezirksamtes Pankow Zeitraum Februar 2012 – Dezember 2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Direktübertragung der BVV-Tagungen im Internet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Verkehrssicherheit vor der Grundschule im Panketal verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Brandschutz an Pankower Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Stille Straße 10 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Mehr Sicherheit und weniger Lärm in der Hermann-Hesse-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bezirkliche Immobilienentwicklung - Umzugsplanung und Verdichtung der Verwaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Schlaglochsonderprogramm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Modernisierungsvorhaben der GESOBAU sozialverträglich gestalten, Verdrängung verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Umlegbare Poller am Anfang der Grüntaler Straße nahe dem „Nassen Dreieck“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Sozialverträgliche Sanierung bei der GESOBAU für alle Mieterinnen und Mieter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Entwurf des Doppelhaushaltsplans 2014/2015 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Verbesserung der Verkehrssicherheit in der Buchholzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Berliner Mietenbündnis verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Verkehrsberuhigung in der Thaerstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Beschränkung der zulässigen Höchstgeschwindigkeit in der Dietzgenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Ausstellung " Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert " - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Asylrecht für Menschen unterschiedlicher sexueller und geschlechtlicher Identität stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Räume des ehemaligen Ratskellers im Rathaus Pankow wieder für die Pankower BürgerInnen öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Integriertes Stadtteilentwicklungskonzept für den Ortsteil Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Weg zwischen Hansastraße und Buschallee durch das Stadion Buschallee vollständig beleuchten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Pilotvertrag umsetzen, Rahmenvertrag für eine sozialverträgliche Modernisierung in Beständen der Gesobau abschließen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennung eines Platzes nach Prof. Werner Klemke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Abschluss einer Rahmenvereinbarung mit der Gesobau über eine sozialverträgliche Durchführung von umfassenden Sanierungsvorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Informieren über die EU-Wahlen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Keine Schlagstöcke und Pfefferspray für die Parkraumüberwachung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Information zum Jahresabschlussergebnis 2013 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Fortschreibung der Globalsummen 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Benennung der öffentlichen Straße 201 im Ortsteil Niederschönhausen in "Beatrice-Zweig-Straße" - mit Abschlussbericht zur Kenntnis genommen
