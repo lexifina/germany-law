@@ -1,0 +1,8 @@
+# TOP 6.1: Bezirksbürgermeister von Mitte im Kuratorium Berliner Mitte
+
+- Sitzung: 30. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2014-05-22)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=87279
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=87279
