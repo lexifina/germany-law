@@ -1,0 +1,77 @@
+# 28. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-05-22T16:30:00+02:00
+- Ende: 2014-05-22T21:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3930
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3930
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=101554
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-30 und VII-31 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss für Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Wahl eines weiteren Mitgliedes des Bezirksamtes (Vorschlag der CDU-Fraktion) - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Tempo 30 in ganz Rauchfangswerder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Steuerung der Hilfen zur Erziehung und die neue AV Hilfeplanung - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Sondermittel für den Seniorenverein Wuhlheide e. V. (SM 14-17) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Schutzhülle e. V. (SM 14-19) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den VVN-BdA Köpenick e. V. (SM 14-15) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Querungshilfe Strandbad Müggelsee und Jugenddorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Schlesischer Busch – Zusammenarbeit der Grünflächen- und Ordnungsämter aus Treptow-Köpenick und Friedrichshain-Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Netzwerk AsylbewerberInnenunterkünfte - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: PC-Betriebssysteme in den Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Erlass einer Satzung zur Erhaltung der Zusammensetzung der Bevölkerung in Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Tempo 30 in Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Überprüfung der Radwegbenutzungspflicht in der Edisonstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Überprüfung der Radwegbenutzungspflicht, Köpenick / Lange Brücke (Dahme) - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Überprüfung der Radwegbenutzungspflicht in der Oberspreestraße (Südseite) - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kontaktinformationen an Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Modifizierung von Pflegeverträgen in Landschaftsschutzgebieten (LSG) - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Kooperation im Naturschutz - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Erosionsschutz und Wegesicherung im Naturschutzgebiet Wilhelmshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Verkehrsaufkommensgerechte Ampelschaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Waldweg Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Keine entgeltpflichtige Parkraumbewirtschaftung in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Gustav Hertz durch eine Platzbenennung würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Schäden an bezirks- oder landeseigenen Gebäuden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Feststellung des Zustandekommens des Bürgerbegehrens mit dem Wortlaut "Stimmen Sie für das Ersuchen an das Bezirksamt Treptow- Köpenick, im Bezirk keine gebührenpflichtige Parkraumbewirtschaftung auf öffentlichem Straßenland einzuführen?" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bürgerentscheid Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Fortschreibung des Lärmaktionsplans endlich vorlegen - überwiesen
+- TOP 14.3: Aufhebung der nächtlichen Tempo 30-Zone in der Straße am Treptower Park - überwiesen
+- TOP 14.4: Sicherung und Nutzung des ehemaligen Bärenquell-Geländes - überwiesen
+- TOP 14.5: Infotafel zum Stralauer Spreetunnel - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Barrierefreier Schulstandort an den Püttbergen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.8: Sammeln von Pfandflaschen neben Abfallbehältern - überwiesen
+- TOP 14.9: Sichere Querung der Jordanstraße Ecke Bouchéstraße - überwiesen
+- TOP 14.10: Bewirtschaftungsausgaben veröffentlichen - überwiesen
+- TOP 14.11: Perspektive für junge erwachsene Flüchtlinge - überwiesen
+- TOP 14.12: Buslinie 265 - überwiesen
+- TOP 14.13: Tempo 30 in der Schnellerstraße (zwischen Fenn- und Spreestraße) - überwiesen
+- TOP 14.14: Bereitstellung von Fachgutachten zum Bebauungsplanverfahren XV-30b VE - überwiesen
+- TOP 14.15: Internetauftritt des Bürgerhauses Altglienicke grundlegend verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Berlin-Ticket erweitern - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: De-Mail - vertagt
