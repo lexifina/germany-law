@@ -1,0 +1,8 @@
+# TOP 9: Neubau Kinderkrippe an der Kindergartenstraße - Nachtrag Zimmererarbeiten
+
+- Sitzung: Sitzung des Stadtrates (2014-05-22)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/3221
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/consultations/811
