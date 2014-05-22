@@ -1,0 +1,105 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-05-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132457
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132457
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.1.: Wahl der/des Vorsitzenden UA Planung (vertagt vom 08.05.2014) - <div>Beschluss</div>
+- TOP 0.2.: Bildung eines Ferienausschusses gemäß § 22a BA- Satzung - <div>Beschluss</div>
+- TOP 0.3.: Beauftragte des Bezirksausschusses (offene Abstimmung)- vertagt vom 08.05.2014 1. Anzahl der Ressortverteilung der Beauftragten 2. Berufung der/des Beauftragten gegen Rechtsextremismus gemäß § 23a BA- Satzung - <div>Benennung der Beauftragten</div>
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung, Projektname: Bajuwarenstraße von der Himalajastraße bis zur Haus- Nr. 45 - <div>nach Antrag</div>
+- TOP 1.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung, Projektname: Kreillerstraße/Schatzbogen - <div>nach Antrag</div>
+- TOP 1.3.: Entscheidung über eine Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - <div>nach Antrag</div>
+- TOP 4: (E) Einrichtung von Sicherheitsmaßnahmen auf dem Gehsteig für die Tiefgaragenausfahrt in der Ingeborg-Bachmann-Straße 2/18 Empfehlung Nr. 08-14 / E 01969 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 10.10.2013 - <div>nach Antrag</div>
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Absage Seefest am Riemer See vom 30.07.2014 bis 03.08.2014 - <div>Verweis in den UA Schule,Soziales,Kultur</div>
+- TOP 3.2.: Müllcontainer an der Maria-Montessori-Straße/Georg- Kerschensteiner-Straße
+- TOP 3.3.: Entwicklung der GFZ in den Gartenstädten an Hand ausgewählter Gevierte darlegen
+- TOP 3.4.: Mittelschule an der Feldbergstraße München-Trudering Unnützwiese Installation fester Tore mit Kunstrasen - <div>Kenntnisnahme</div>
+- TOP 3.5.: Grünfläche an der Unnützstraße - <div>Kenntnisnahme</div>
+- TOP 3.6.: Belastung des Mitterfeld- ein unhaltbarer Zustand - <div>neuer Antrag CSU-Fraktion</div>
+- TOP 3.7.: Fehlende Abfallkörbe am S-Bahnhof-Riem - <div>Kenntnisnahme</div>
+- TOP 3.9.: Gestaltung der Mauer am Platz der Menschenrechte durch Graffitikünstler - <div>Kenntnisnahme</div>
+- TOP 3.10.: SWM Fernwärme- Rücklauftemperaturbegrenzer
+- TOP 3.12.: Absolutes Haltverbot im Bereich des Bistritzer Weges/Einmündung Leschkircher Straße - <div>Kenntnisnahme</div>
+- TOP 3.13.: Wann kommen die Kleinbusse in der Messestadt? - <div>nochmaliges Nachfassen bei der MVG</div>
+- TOP 3.14.: Hallenzeiten in Trudering-Riem - <div>Verweis in den UA Schule,Soziales,Kultur</div>
+- TOP 3.15.: ÖPNV Angebot verbessern- auch im Münchner Osten - <div>Kenntnisnahme</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Platzsharing für Hortplätze- ein Beitrag zur Versorgungsgerechtigkeit in Trudeirng- Riem - <div>Weiterleitung an das Fachreferat</div>
+- TOP 4.2.: Echten Willen zum Erhalt der Quartiere mit Gartenstadtcharakter beweisen - <div>Weiterleitung an das Fachreferat</div>
+- TOP 4.3.: Neue Anlage zur mittelfristigen Finanzplanung - <div>Weiterleitung an das Fachreferat</div>
+- TOP 4.4.: Schulhofnutzung für Kinder und Jugendliche außerhalb der Schulzeiten - <div>Weiterleitung an das Fachreferat</div>
+- TOP 4.5.: Wann kommt die zugesagte durchgängige Rad-Fuß-Wegeverbindung nördlich des S- Bahnhofs Riem? - <div>Weiterleitung an das Fachreferat</div>
+- TOP 4.6.: Wiedereinführung der dezentralen Gesundheitsuntersuchung zur Einschulung II - <div>Weiterleitung an das Fachreferat</div>
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse
+- TOP 7.7.1: UA Allgemeines:
+- TOP 7.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben BV- Empfehlung Nr. 08-14/ E 02020 der Bürgerversammlung des Stadtbezirkes 03- Maxvorstadt vom 17.10.2013 - <div>Stellungnahme an das Direktorium</div>
+- TOP 7.2.: Doppelveranstaltung (Jugendkartslalom) auf der Sonderfreifläche Riem am 14.09.2014 - <div>Zustimmung auf Probe</div>
+- TOP 7.3.: Nutzung der Sonderfreifläche zur Durchführung eines Automobil- Slalom am 12.10.2014 an der Neuen Messe Riem - <div>Ablehnung wegen Lärmbelästigungen</div>
+- TOP 7.4.: Spendenfahrradtour von der Messe München nach Unterföhring am 21.06.2014 - <div>abgesetzt</div>
+- TOP 7.5.: Tag der offenen Tür der Freiwilligen Feuerwehr am 05.07.2014 - <div>Zustimmung </div>
+- TOP 7.6.: Hochseilvorführung am 10. und 11.10.2014 auf dem Willy- Brandt- Platz - <div>Zustimmung</div>
+- TOP 7.7.: Skatboard- und Scooterkurse des RBS in den Münchner Grünanlagen; Skatpark Riemer Park ab 30.07.2014 - <div>Zustimmung</div>
+- TOP 7.8.: Hitfestival am 13.08.2014 auf dem Willy- Brandt- Platz - <div>Zustimmung</div>
+- TOP 7.9.: Privates Feuerwerk Kategorie II am 12.07.2014 auf dem Gelände Feldbergstraße 63, 81825 München - <div>Zustimmung mit Maßgabe</div>
+- TOP 7.10.: Feuerwerk am 30.05.2014 an der Wasserburger Landstraße/ Ecke Feldbergstraße - <div>Kenntnisnahme</div>
+- TOP 7.11.: Kostenübernahme für Straßennamen- Erläuterungsschilder - <div>Übernahme aus Budget</div>
+- TOP 7.12.: Verwendungsnachweise über Bewilligungsbescheide der Landeshauptstadt München: 1. Gewerbe- und Eigentümerverband "Weihnachtsbeleuchtung" 2. Freunde der freiwilligen Feuerwehr Trudering "Beschaffung von Rettungsrucksäcken" 3. Nachbarschaftswerk Wagnis e.V. "Kindertheater Don Quichote" 4. Nachbarschaftswerk Wagnis e.V. "Lesung" 5. Nachbarschaftswerk e.V. "Kabarett" 6. Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. - <div>Kenntnisnahme</div>
+- TOP 7.7.2: UA Bau und Verkehr:
+- TOP 7.1.: Aufnahme der Messestadt Riem in die Straßenreinigungssatzung - <div>Zustimmung</div>
+- TOP 7.2.: Einrichtung einer Bücherbushaltestelle in der Hugo-Weiss-Straße - <div>vertagt in 06/2014</div>
+- TOP 7.3.: Einrichtung eines Haltverbots in der Kirchtruderinger Straße - <div>Zustimmung</div>
+- TOP 7.4.: Leistungsprogramm 2015 der MVG
+- TOP 7.5.: Verlegung der Haltestelle "Ottilienstraße" der MVG- Buslinie 192 - <div>vertagt in 06/2014 und Ortstermin</div>
+- TOP 7.6.: Änderung der Radverkehrsführung in der Gartenstadtstraße - <div>Zustimmung</div>
+- TOP 7.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Edeltraudstraße 82 - <div>Kenntnisnahme</div>
+- TOP 7.7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.1.: Riemer Park a) Fertigstellung des Riemer Parks; Empfehlung Nr. 08-14/ E 01956 der Bürgerversammlung des Stadtbezirkes 15- Trudering- Riem am 10.10.2013 b) Vollendung des Riemer Parks im Westen des Planungsumgriffs; Antrag Nr. 08-14/ A 04996 der Stadtratsfraktion DIE GRÜNEN/RL vom 16.01.2014 - <div>Zustimmung und weitere Maßgaben</div>
+- TOP 7.7.4: UA Planung:
+- TOP 7.1.: Vogesenstraße 28 - <div>Ablehnung wegen drei Vollgeschossen</div>
+- TOP 7.2.: Ickelsamerstraße 3 - <div>Zustimmung</div>
+- TOP 7.3.: Wiesbachhornstraße 27-29 - <div>Ablehnung wegen Unterbauung und Gebäudehöhe</div>
+- TOP 7.4.: Bauleitplanung der Gemeinde Aschheim 38. Änderung des Flächennutzungsplans, Verfahren nach § 4 Abs. 1 BauGB - <div>Zustimmung</div>
+- TOP 7.5.: Feldbergstraße - <div>Ablehnung wegen Gebäudehöhe</div>
+- TOP 7.7.5: UA Schule, Soziales und Kultur:
+- TOP 7.1.: Sprengelbildung GS Leibengerstraße- GS Astrid- Lindgren- Straße - <div>Zustimmung</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Laubholzbockkäfer- Infomationsveranstaltung durch den BA 15? - <div>Stellungnahme an das Direktorium</div>
+- TOP 7.2.: Pflege der Straßenbäume in der Karpfenstraße - <div>Rücksprache mit Baureferat</div>
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.2.1 Graf- Ottenburgstraße 12 8.2.2 Marmolatastraße 8 8.2.3 Elfriedenstraße 68 8.2.4 Feldbergstraße 41 8.2.5 Kreuzerweg 2 8.2.6 Ottilienstraße 51 8.2.7 Heilwigstraße 18 8.2.8 Monikastraße 2 8.2.9 Kilihofstraße 2 8.2.10 Hochnißlstraße 11 8.2.11 Birkhahnweg 36 8.2.12 Wasserburger Landstraße 268 8.2.13 Kreuzerweg 2A 8.2.14 Lebzelterstraße 3 8.2.15 Möwestraße 19 8.2.16 Iltiststraße 8.2.17 Sonnenspitzstraße 25 8.2.18 Heilwigstraße 86 8.2.19 Friedenspormenade 37 8.2.20 Kirchtruderinger Straße 8 8.2.21 Funtenseestraße 9 8.2.22 Wachtelweg 35 8.2.23 Feldbergstraße 8.2.24 Linnenbrüggerstraße 29 8.2.25 Ickelsamerstraße 3 8.2.26 Mondseestraße 12 8.2.27 Vogesenstraße 28 8.2.28 Wiesbachstraße 27-29 - <div>Zustimmung Votum des UA</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Bebauungsplan Nr. 186 für das Gebiet südlich der Herzogstrandstraße, nördlich der geplanten Spange Haar- Nord und der S- Bahn Trasse, Beteiligung nach § 4 Abs. 1 BauGB - <div>Kenntnisnahme</div>
+- TOP 10.2.: Plangenehmigung nach § 18 AEG i.V.m. § 74 Abs. 6 VwGO und § 18b AEG für das Bauvorhaben "Entwässerungsanlage Neubau, München-Ost-Tudering km 10,479-11,903 und Trudering-München-Ost km 13,757-10,540, Strecke 5510 München- Rosenheim, Antrag auf Erteilung einer planungsrechtlichen Zulassungsentscheidung; Herstellung des Benehmens - <div>Kenntnisnahme</div>
+- TOP 10.3.: Antrag auf unveränderte Fortführung eines Gaststättenbetriebes: 1. Riemer Straße 396 2. Riemer Straße 354 3. Graf- Lehndorff -Straße 36 - <div>Kenntnisnahme</div>
+- TOP 10.4.: Städtebauliche Entwicklungsmaßnahme gemäß §§ 165ff. BauGB für den Bereich Nordosten; Integriertes Strukturkonzept mit externer Steuerungsunterstützung Vergabeverfahren; Sitzungsvorlagen Nr. 08-14/ V 14310; Beschluss der Vollversammlung des Stadtrates vom 09.04.2014 - <div>Kenntnisnahme</div>
+- TOP 10.5.: München lebt Vielfalt, Interkultureller Integrationsbericht 2013; Integrationskonzept erweitern für ZuwanderInnen aus neuen EU- Beitrittsländern?; Antrag Nr. 08-14/ A 03767 der Stadtratsfraktion DIE GRÜNEN/RL vom 30.10.2012; Sitzungsvorlage Nr. 08-14/ V 13861; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 - <div>Kenntnisnahme</div>
+- TOP 10.6.: Aktion Saubere Stadt- Weiterentwicklung - Sauberkeit im öffentlichen Raum- Mehr Hundekottütenspender in Verbindung mit adäquaten Abfalleimern; Antrag Nr. 08-14/ A 04146 von Herrn Stadtrat Josef Schmid und Frau Stadträtin Dr. Evelyne Menges vom 02.04.2013 - Mehr Abfallbehälter auf öffentlichen Flächen; Antrag Nr. 08-14/ A 04624 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Hans Dieter Kaplan, Frau Stadträtin Dr. Inci Sieber, Frau Stadträtin Beatrix Zurek, Herrn Stadtrat Klaus- Peter Rupp und Frau Stadträtin Bettina Messinger vom 12.09.2013 - Bei Anruf Abfall- Leerung; Antrag Nr. 08-14/ A 04639 von Herrn Stadtrat Josef Schmid vom 20.09.2013 - Müllproblematik im öffentlichen Raum; Antrag Nr. 08-14/ A 04755 von Herrn Stadtrat Josef Schmid vom 06.11.2011; Sitzungsvorlage Nr. 08-14/ V 14090; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 - <div>Kenntnisnahme</div>
+- TOP 10.7.: Mieterbeirat- Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 6. Stadtbezirkes; Sitzungsvorlage Nr. 08-14/ V 13863; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 - <div>Kenntnisnahme</div>
+- TOP 10.8.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsrichtlinien- SoNuRL); Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung- SoNuGebS); Beschluss des Kreisverwaltungsausschusses vom 08.04.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.9.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 1. Tangastraße 58 2. Birkhahnweg 47 3. Mondseestraße 20 4. Deikestraße 35 - <div>Kenntnisnahme</div>
+- TOP 10.10.: Information der Münchner Bezirksausschüsse - neue Bädereintrittspreise ab 01.05.2014 - <div>Kenntnisnahme</div>
+- TOP 10.11.: Vollzug der Grünanalagensatzung vom 15.06.2012; betrieb einer Hundeschule in der Grünanlage Riemer Park einmal im Monat jeweils Mittwochs von 17.30 Uhr bis 18.30 Uhr und Samstags 10.30 bis 13.00 Uhr in zwei Kursen bis Dezember 2014 - <div>Kenntnisnahme</div>
+- TOP 10.12.: Zuschussnehmerdatei 2014 Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale; Sitzungsvorlage Nr. 08-14/ V 14007; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 25.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.13.: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14/ V 14036; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 25.03.2015 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.14.: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14/ V 14048; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.15.: Zuschussnehmerdatei 2014, Vollzug des Haushaltsplanes 2014 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14/ V 14082; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 25.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 10.16.: Kleingartenverband München e.V. unterstützen, Antrag Nr. 08-14/ A03484 von Herrn Stadtrat Josef Schmid, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 11.07.2012 Kleingartenverband bei Beseitigung von Behelfsheimen in Kleingartenanlagen unterstützen, Antrag Nr. 08-14/ A 03514 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Frau Stadträtin Christiane Hacker, Frau Stadträtin Dr. Inci Sieber, Frau Stadträtin Barbara Scheuble- Schaefer und Herrn Stadtrat Dr. Reinhard Bauer vom 17.07.2012; Sitzungsvorlage Nr. 08-14/ V 13834; Beschluss des Bauausschusses vom 11.03.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 3.11.: Wiedereinführung der Sperrmüllsammlung - <div>TOP 3.8</div>
