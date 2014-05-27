@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses (2014-05-27)
+- Körperschaft: Aachen
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9370ce1d8f32e9185effad
