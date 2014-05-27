@@ -1,0 +1,6 @@
+# TOP 4: Mitteilungen und Anfragen
+
+- Sitzung: Wahlausschuss (3. Sitzung) (2014-05-27)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9052
