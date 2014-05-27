@@ -1,0 +1,77 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-05-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218114
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218114
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Tagesordnung auch zum Download unter "Dokumente"
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.1.1.: Ampfingstraße/Innsbrucker Ring - Neubau eines Wohn-, Büro- und Geschäftshauses
+- TOP 3.1.1.2.: Errichtung eines Discounters auf dem Gelände des ehem. P+R-Platzes an der U-Bahn-Haltestelle Michaelibad - <div></div>
+- TOP 3.1.3: Umwelt
+- TOP 3.2.1.: Leistungsprogramm 2015 der MVG (Fahrplanwechsel Dezember 2014)
+- TOP 3.2.2.: Verlängerung der Buslinie 185 von der Haltestelle Josephsburgstraße zur U-Bahn-Haltestelle Michaelibad - <div></div>
+- TOP 3.2.3.: Vorrang für Fußgänger und Radfahrer an der Rechtsabbiegespur vom Innsbrucker Ring in die Schlüsselbergstraße - <div></div>
+- TOP 3.2.4.: Öffnung der in Richtung Süden einbahngeregelten Rottalstraße zwischen Isareckstraße und Altöttinger Straße für den gegenläufigen Radverkehr
+- TOP 3.2.5.: Öffnung der in Richtung Norden einbahngeregelten Simbacher Straße zwischen Isareckstraße und Altöttinger Straße für den gegenläufigen Radverkehr
+- TOP 3.2.6.: Verkehrsverträglichkeitsuntersuchung zur Einrichtung von Radverkehrsanlagen in der Rosenheimer Straße zwischen Orleansstraße und Rosenheimer Platz - Antwortschreiben des Referats für Stadtplanung und Bauordnung - Antwortschreiben des Bezirksausschuss 16 Ramersdorf-Perlach
+- TOP 3.2.7.: Festwiese St.-Veit-Str. - Zirkusgastspiel Baldoni vom 11.-21.09.2014
+- TOP 3.3.1.: Skateboard- und Scooterkurse des RBS in der Skateanlage Xaver-Weismor-Straße
+- TOP 3.3.2.: Fußballturnier in der Grünanlage an der Westerhamer/Achentalstraße am 27.06.2014
+- TOP 3.4.1.: Wohnprojekt Baumkirchner Straße - Verlängerung
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Bewegungsbaustelle vom 25. bis 27.06.2014 und Zirkus Pumpernudl vom 26. bis 28.07.2014 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse ASZ Alten- und Service-Zentrum Modenschau am 02.07.2014 - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Initiative "Gestaltung Unterführung" Gestaltung der DB-Unterführung Kathreinweg - <div></div>
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse FC Phönix München e.V. Sommerfest am 12.06.2014 sowie Jugendturnier vom 04. bis 06.07.2014 - <div></div>
+- TOP 3.6.1.: Inzeller Weg 1 - 5
+- TOP 3.6.2.: Inzeller Weg 7 - 9
+- TOP 3.6.3.: Berg-am-Laim-Str. 71 - 73
+- TOP 3.6.4.: Josef-Ritz-Weg 17 - 21
+- TOP 3.6.5.: Heubergstraße 7
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Neubau von Entwässerungsanlagen an der Bahnstrecke München-Ost - Trudering
+- TOP 4.1.3: Umweltangelegenheiten
+- TOP 4.5.1.: Freunde der Freiwilligen Feuerwehr Michaeliburg e.V. - Verwendungsnachweis
+- TOP 4.5.2.: Freundes- und Förderkreis Kirchenmusik Offenbarungskirche - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.4: Unterausschuss Soziales / Integration
+- TOP 5.1.5: Unterausschuss Budget / Organisation
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1: Bereich Planung, Bau, Wohnen, Umwelt (1)
+- TOP 3.1.1: Planungsangelegenheiten / Bauvorhaben (1)
+- TOP 3.1.2: Wohnen (1)
+- TOP 3.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (1)
+- TOP 3.3: Bereich Bildung, Betreuung, Familien und Sport (1)
+- TOP 3.4: Bereich Soziales und Integration (1)
+- TOP 3.5: Bereich Budget / Organisation (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1: Bereich Planung, Bau, Wohnen, Umwelt (2)
+- TOP 4.1.1: Planungsangelegenheiten / Bauvorhaben (2)
+- TOP 4.1.2: Wohnen (2)
+- TOP 4.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (2)
+- TOP 4.3: Bereich Bildung, Betreuung, Familien und Sport (2)
+- TOP 4.4: Bereich Soziales und Integration (2)
+- TOP 4.5: Bereich Budget / Organisation (2)
+- TOP 4.6: Baumschutz (2)
