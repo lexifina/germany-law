@@ -1,0 +1,66 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-05-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052600
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052600
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Jährlicher Termin mit dem Referat für Bildung und Sport am 25.06.2014: Festlegung der Themenwünsche und Teilnehmer
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Pädagogische Aktion / Spielkultur e.V. 4. City Stories Geschichtenfestival vom 12. bis 15.06.2014
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Verein für Internationale Jugendarbeit, Ortsverein München e.V., ClubIN Internationaler Treff Bergfreizeit vom 30.05. bis 01.06.2014
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Modellprojekt 27 e.V., MOP Integrativer Jugendtreff Aktivferien am Ackermannbogen vom 10. bis 13.06.2014
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.2: Kultur
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Ausstellung ?Die Handtasche? vom 01. bis 29.06.2014
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse 84 GHz ? Raum für Gestaltung Programmpunkt ?Neue Musik? im Rahmen von Kunst im Karrée am 12.07.2014
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Tektur Agnesstr. 52: Energetische Sanierung und Dacherneuerung, DG-Ausbau mit Dachgauben, hofseitige Balkonsanierung
+- TOP 2.1.2.: Tektur Schwere-Reiter-Straße: Neubau zweier Gebäude mit Boardinghausnutzung, 53 Wohnungen, 3 Townhouses und Einzelhandelsflächen im EG mit gemeinsam genutzter Tiefgarage -MK 2-
+- TOP 2.1.3.: Bauerstr. 34: Modernisierung eines denkmalgeschützten Gebäudes durch hofseitigen Anbau eines Außenaufzugs einschl. interner baulicher Anpassung im Erschließungsbereich
+- TOP 2.1.4.: Kölner Platz 1 (Klinikum München-Schwabing): Einbau eines Apotheken-Reinraums in Haus 19
+- TOP 2.1.5.: Clemensstr. 103: Nutzungsänderung von Büro- bzw. Praxisräumen und eines Kellerraums in eine Wohnfläche
+- TOP 2.1.6.: Schleißheimer Str. 189: Anbau Wintergarten an bestehende Wohnung
+- TOP 2.1.7.: Tektur Wertherstr. 5: Neubau eines Wohngebäudes (2 WE) mit eingruppiger Kinderkrippe
+- TOP 2.1.8.: Tektur Friedrichstr. 1: Einbau eines Personenlifts, DG-Ausbau (2 WE)
+- TOP 2.1.9.: Tektur Franz-Joseph-Str. 29: Neuerrichtung eines Dachstuhls sowie Neubau einer Aufzugs- und Balkonanlage (Nordfassade), Erweiterung der Balkonanlage an der Südfassade mit Notleiter, Nutzungsänderung einer Wohn- in eine Gewerbeeinheit (EG), Neubau eines Rückgebäudes mit Tiefgarage
+- TOP 2.1.10.: Clemensstr. 84: Anbau von Balkonen im Innenhof
+- TOP 2.1.11.: Therese-Studer-Straße: Neubau von je zwei Working & Living Units a) Unit 1 + 2 b) Unit 3 + 4
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Protest gegen Abbau der Ampeln an den Kreuzungen 1. Winzerer-/Elisabethstraße 2. Loth-/Infanteriestraße
+- TOP 1.2.: Bürger: Fahrspuren vor der Kreuzung Karl-Theodor-/Belgradstraße (Fahrtrichtung Ost)
+- TOP 1.3.: Bürger: Missbrauch des Petuelparks als Hunde-Kack-Park
+- TOP 1.4.: Bürger: Wegekennzeichnung am Elisabethplatz
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Schleißheimer Str. 182-184a: Fällung eines Spitzahorn
+- TOP 2.1.2.: Kraepelinstr. 18: Fällung einer Stieleiche und einer Hainbuche
+- TOP 2.1.3.: Barbarastr. 19: Fällung einer zweistämmigen Scheinzypresse
+- TOP 2.1.4.: Schwere-Reiter-Str. 12: Fällung eines Goldregens
+- TOP 2.1.5.: Klopstockstr. 4: Fällung zweier blauer Holunderbäume
+- TOP 2.1.6.: Düsseldorfer Str. 10: Fällung einer zweistämmigen Eberesche
+- TOP 2.1.7.: Schleißheimer Str. 238-244: Fällung einer Eberesche
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: MVG-Leistungsprogramm 2015
+- TOP 2.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.: Weitere BA-Beauftragte und Beiräte 1. Beschluss über die Berufung weiterer Beauftragter und deren Zuständigkeit 2. Berufung der Beauftragten 3. Berufung der Beiräte
+- TOP 2.2.3.: Bildung des Ferienausschusses (Größe, Besetzung)
