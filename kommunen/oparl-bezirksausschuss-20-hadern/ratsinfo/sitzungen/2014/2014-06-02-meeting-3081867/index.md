@@ -1,0 +1,66 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-06-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Lärmbelästigung durch Fahrschulen in der Zöllerstraße
+- TOP 1.2.: Parksituation Siedlung Immastraße
+- TOP 1.3.: Parkende Autos in der Nothkauf- und Guardinistraße
+- TOP 1.4.: Haseneystraße - Sackgasse bei den Anwesen Nr. 55 und 56
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Grünanlage Sauerbruchstraße, Beseitigung Erdwall und Wiederherstellung Grünfläche (Baureferat, 08.05.14)
+- TOP 5.2.: Budget der Bezirksausschüsse, Kirchenstiftung Erscheinung des Herrn, Veranstaltung "50 Jahre neue Blumenau" im Herbst 2014 (Direktorium, 13.05.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Fürstenrieder Straße 172 - 176, Neubau eines Mehrfamilienhauses mit TG, hier: Freiflächengestaltungsplan (Referat für Stadtplanung und Bauordnung, 29.04.14) (vertagt aus 05/14)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund und in der Grünanlage sowie im Westbad; Triathlon des Elsa-Brändström-Gymnasiums am 07.07.2014 (Kreisverwaltungsreferat, 22.05.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hohenklingenstraße 3 b, 3 Fichten
+- TOP 7.2.: Platanenstraße 37, 1 Tanne
+- TOP 7.3.: Rodensteinstraße 15, gem. Baumbestandsplan Nr. 9208
+- TOP 7.4.: Gräfelfinger Straße 4 - 12, 1 Fichte und 1 Zierkirsche
+- TOP 7.5.: Saalburgstraße 3, 1 Spitzahorn
+- TOP 7.6.: Am Brombeerschlag 33, 5 Fichten und 2 Thujen
+- TOP 7.7.: Großhaderner Straße 5, 1 Walnussbaum
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Drozzaweg 13, 1 Fichte (Referat für Stadtplanung und Bauordnung, 12.05.14)
+- TOP 7.2.: Liste des Baureferates vom 12.05.2014: 10 Bäume auf dem Waldfriedhof
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 29.04.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Austausch der Lichtzeichenanlage Sauerbruch- / Würmtalstraße (Kreisverwaltungsreferat, 07.05.14)
+- TOP 9.2.: Flächennutzungsplan für Hadern (Referat für Stadtplanung und Bauordnung, 08.05.14)
+- TOP 9.3.: Zwischennachricht: Bildungscampus am Westpark (Referat für Bildung und Sport, 09.05.14) BA-Antrag Nr. 08-14 / B 05171
+- TOP 9.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Abfalleimer an der Haltestelle "Großhadern" der Linie N40 (SWM, 08.05.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Terminierung der Unterausschuss-Sitzungen
+- TOP 11.2.: Broschüre "Wohnen in der Radlhauptstadt", Verkehrsvermeidender und erschwinglicher Wohnungsbau (Wohnen ohne Auto, 19.05.14)
+- TOP 11.3.: Einladung zur Informationsveranstaltung zum Thema "Jugendbeteiligung in München" am 25.06.2014 um 18.00 Uhr im Haus der Jugendarbeit (Kreisjungendring München-Stadt, 23.05.14)
+- TOP 11.4.: Protokoll zur BA-Informationsveranstaltung vom 27.02.2014 zum Thema "Unterbringung von Flüchtlingen in München" (Sozialreferat, 20.05.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
