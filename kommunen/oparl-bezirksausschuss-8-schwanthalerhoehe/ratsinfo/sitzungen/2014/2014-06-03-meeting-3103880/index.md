@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3103880
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3103880
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Sprachprojekt an der Ridlerschule
+- TOP 4.2.: Hundeverbot am Gollierplatz
+- TOP 4.3.: Neue Räume für Kinderarztpraxis - Sachstand
+- TOP 4.4.: Mülleimer rund um die Theresienwiese
+- TOP 4.5.: Fußgängerüberweg am Franziska-Bilek-Weg
+- TOP 4.6.: Zusatzeinrichtungen für Blinde und Sehbehinderte an der Ampel Landsberger Straße/Trappentreustraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Westendstr. 94 (vertagt)
+- TOP 6.2.: Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhalt Donnersbergerbrücke
+- TOP 6.3.: Schwanthalerstr. 147
+- TOP 6.1.: Meldeliste
+- TOP 6.2.: Konzept gegen die Zerstörung der Laden-und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens, BV-Empfehlung
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Ansprechpartner für den KulturGeschichtsPfad Schwanthalerhöhe (vertagt)
+- TOP 7.1.: Einladung im Rahmen der RAGS " Das Sozialreferat im Überblick"
+- TOP 7.2.: Einladung des Sozialreferats zur Infoveranstaltung für die Bezirksausschüsse
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Landsberger Straße, Höhe Grasserstraße, Zweirichtungsradweg
+- TOP 8.1.: Ridlerstr./Garmischer Str.: Stauraum und Haltverbot und Erweiterung des Schwerbehindertenparkplatzes
+- TOP 8.2.: World Neighbours Day im MKJZ am 28.06.2014
+- TOP 8.1.: Verkehrsrechtliche Anordnung: Behindertenparkplatz in der Tulbeckstr. 25
+- TOP 8.2.: Baustelleneinrichtung in der Schießstättstraße vom 01.06.-31.10.2014
+- TOP 8.3.: Fahrradstraßen im Stadtbezirk 8 Schwanthalerhöhe
+- TOP 8.4.: Veränderte Parklizenzregelungen zum Oktoberfest 2014
+- TOP 8.5.: Toiletten in Litfaßsäulen
+- TOP 8.6.: Fahrbahnsanierung Landberger Straße im Kreuzungsbereich mit der Trappentreustraße
+- TOP 8.7.: Neufassung der Sondernutzungsrichtlinien
+- TOP 8.8.: Kreuzung Grasserstraße/Landsberger Straße, Schutzblinker für Fußgänger
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse westendstudios Tag der offenen Tür vom 17. bis 19.10.14 - <div>nach Antrag</div>
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Positive-Propaganda e. V. Kunstprojekt Bergmannstraße vom 22. bis 30.06.14 - <div>nach Antrag</div>
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Multikulturelles Jugendzentrum Nachbarschaftsfest am 28.06.2014 - <div>nach Antrag</div>
+- TOP 9.1.: Bericht Open Westend 2014
+- TOP 10: Anträge
+- TOP 10.1.: Rückbau des Verkehrszeichens "Rechts abbiegen" an der Ecke Holzapfelstraße/Landsberger Straße, Antrag der Grünen
+- TOP 10.2.: Anbringen von Hundetütenspendern in den Grünanlagen um das Gebäude des ehemaligen XXXLutz, Antrag der Grünen
+- TOP 11: Verschiedenes
+- TOP 11.1.: Neue Bädereintrittspreise der SWM
+- TOP 11.2.: Einladung von "Die Aktion! Jugendbeteiligung München" zur Informationsveranstaltung zum Thema "Jugendbeteiligung"
+- TOP 11.3.: Ortsbegehung mit dem MKJZ
+- TOP 11.4.: Besprechung im Referat für Arbeit und Wirtschaft zum Thema "Anhörungsrechte Oktoberfest"
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
