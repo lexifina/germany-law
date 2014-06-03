@@ -1,0 +1,93 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-06-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109253
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109253
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Vortrag des Sicherheitsberichts vom Jahr 2013 der Polizeiinspekton 11
+- TOP .2.: Einladung zu einer Führung ins ?Museum? des Polizeipräsidiums München
+- TOP 1: (E) Wiederherstellung des Gehwegs Am Gries Empfehlung Nr. 08-14 / E 02123 der Bürgerversammlung des Stadtbezirkes 1 - Altstadt-Lehel am 05.12.2013
+- TOP .1.: Wiederherstellung des Gehwegs Am Gries, BV-Empfehlung 08-14/E 02123 vom 05.12.2013
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Jungfernturmstr. 2, Neubau eines Bürohauses mit zwei Betriebswohnungen und einer automatischen Garage (30 Stellplätze)
+- TOP 1.2.: Isartorplatz 8, Umbau von Büroeinheiten
+- TOP 1.3.: Hackenstr. 7, Instandsetzung, Umbau und Erweiterung eines Wohn- u. Geschäftshauses
+- TOP 1.4.: Residenzstr. 9, Errichtung einer Freischankfläche
+- TOP 1.5.: Liebigstr. 39, Nutzungsänderung der Zuschnitt- und Lagerräume im EG zu Büros
+- TOP 1.6.: Aufbau eines Schaltverteilers: Blumenstr. 32, Bumenstr. 5, Rindermarkt 5, Hotterstr. 10, Angertorstr. 7, Kreuzstr. 16, Hotterstr. 5, St.-Jakobs-Pl. 12, Unter Anger 11, Marienplatz 21, Rosental 16, Rosental 5, Josephspitalstr. 8 -11, Roßmarkt 3, Oberanger 24, Hackenstr. 5, Herzogspitalstr. 7, Utzschneiderstr. 7, Rindermarkt, Fürstenfelder Str. 5
+- TOP 1.7.: Bräuhausstr. 8, Nutzungsänderung, Büro im 1. Obergeschoss zu Zahnarztpraxis
+- TOP 1.8.: Sendlinger Str. 13, Umbau eines Wohn- und Geschäftshauses mit Nutzungsänderung
+- TOP 1.9.: Sonnenstr. 17, Umbau und Nutzungsänderung im Dachgeschoss
+- TOP 1.10.: Löwengrube 10, Nutzungsänderung und Erweiterung von Café und Bäckerei zu Restaurant
+- TOP 1.2.1: Gaststätten
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: Tal 16, Gaststätte ?Sausalitos?; Erweiterung einer bestehenden Freischankfläche (vertagt aus 2014.05 C 2.2.7)
+- TOP 1.2.: Dianastr. 1, Bistro Da Enzo, Erweiterung einer bestehenden Freischankfläche (vertagt aus 2014.05. C 2.2.8)
+- TOP 1.3.: Heiliggeiststr. 1, Confiserie Ertl; Genehmigung einer Freischankfläche (vertagt aus 2014.05. C 2.2.9)
+- TOP 1.4.: Sendlinger Str. 62, Hela Kosmetik; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (vertagt aus 2014.05. C 2.2.10)
+- TOP 1.5.: Rosental 6, Hela Kosmetik; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (vertagt aus 2014.05. C 2.2.11)
+- TOP 1.6.: Karl-Scharnagl-Ring 6/Ecke Bürkleinstr., Gaststätte ?Lehel?, Verlängerung der Freischankflächenbetriebszeit
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Pfarrfest der franz. Gemeinde am 22.06.2014 in der St.-Anna-Straße
+- TOP 1.2.: Große Fronleichnamsprozession ab Marienplatz am 19.06.2014
+- TOP 1.3.: Mädchenfußball-Event am 23.08.2014 auf dem sog. Odeonsplatz
+- TOP 1.4.: Qi Gong vom 09.07.-24.09.2014, Kostenloses Sportprogramm des Sportamtes auf dem Marienhof
+- TOP 1.5.: UniCredit Festpiel-Nacht 2014 am 21.06.2014, Areal der Fünf Höfe, Salvatorkirche, Salvatorplatz/-straße, Kardinal-Faulhaber-Str.
+- TOP 1.6.: Brunnenhof-Konzerte/Aufführungen vom 28.06.?05.08.2014 im Brunnenhof der Residenz
+- TOP 1.7.: Fränkisches Weinfest im Alten Hof vom 11.07.-27.07.2014
+- TOP 1.8.: Sommerfest der Ev. Kindertageseinrichtung der Inneren Mission München St. Lukas am 27.06.2014, Thierschstraße 28
+- TOP 1.9.: Straßenfest am Forunabrunnen am 27.06.2014 auf dem Isartorplatz/Kanalstr.
+- TOP 1.10.: Stadtgründungsfest am 14./15.06.2014 in der Innenstadt
+- TOP 1.11.: Oper für alle ? Festspielkonzert am 12.07.2014 auf dem Marstallplatz
+- TOP 1.12.: Veranstaltung + Markt: Les Saveurs d. France vom 25.-28.06.2014 auf dem Sendlinger-Tor-Platz
+- TOP 1.13.: Aktionstag ?Da Sein für München? auf dem Marienplatz, Marienhof, Weinstr. und Landschaftsstr. am 05.07.2014
+- TOP 1.14.: Nachtrag zum 36. Münchner Stadtlauf am 29.06.2014 (Zustimmung am 08.04.2014, TOP 2014.04. C 3.1.1)
+- TOP 1.15.: Gemeindefest Gartenlust auf dem Mariannenplatz am 13.07.2014
+- TOP 1.16.: Klassik am Odeonsplatz am 05.-06.07.2014
+- TOP 1.17.: Straßenfest am 12.07.2014 in der Angertorstraße (von Müller- bis Blumenstraße)
+- TOP 1.1.: Überprüfung der Umlaufsperren im Stadtbezirk des BA 1; Kreisverwaltungsreferat
+- TOP 1.2.: Anfrage des Referats für Stadtplanung und Bauordnung zur Nord-Süd-Querung zur Durchführung einer 2. Öffentlichkeitsveranstaltung im Rahmen einer Einwohnerversammlung (vertagt aus 2014.05. D 3.2)
+- TOP 1.3.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße (vertagt aus 2014.05. B 3.2.1)
+- TOP 1.4.: Anliegen des Allgm. Deutschen Fahrrad-Clubs e.V. (ADFC); Konzept für einen fußgänger- und radlfreundlichen Odeonsplatz
+- TOP 1.5.: Green City e.V., Gebäudebegrünung im Stadtbezirk
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Musica Sacra St. Anna e.V. Aufführung der h-moll-Messe am 27.07.2014
+- TOP 1.1.: Beschlussvorschlag zur Bildung des Ferienausschusses 2014
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Baugenehmigung Residenzstr. 21; Überbauung Kellergeschoss im Innenhofbereich mit Errichtung eines Wirtsgartens
+- TOP 0.3.: Protokoll der 6. internen Sitzung des Mieterbeirates der Landeshauptstadt München
+- TOP 0.4.: Stellungnahme und Vorbescheid zum Umbau eines ehem. Hochbunkers und Neubau eines Wohngebäudes mit Tiefgarage in der Hotterstr. 10-12
+- TOP 0.5.: Rückmeldung des Oberbürgermeisters zur BV-Empfehlung 08-14/E 01633 vom 27.11.2012, Denkmalschutz für Anwesen Müllerstr. 2
+- TOP 0.6.: Stellungnahme der Lokalbaukommission zu TOP 2014.05 B 3.1.2 - Tal 4, Erweiterung einer Laden- um angrenzende Gastraumfläche
+- TOP 0.7.: Vorbescheid zum Bauvorhaben im Oberanger 35-45, Roßmarkt 4 und 6
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung des Vorsitzenden zur Münchner Radlnacht am 07.06.2014
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Feuerwehranfahrtszonen und Ladezonen in der Herzogspitalstraße, Altheimer Eck und Eisenmannstraße - Busanfahrtszone Max-Joseph-Platz
+- TOP 0.2.: Baumfällung einer Kastanie, Prälat-Zist-Str. 6 geg., Baureferat
+- TOP 0.3.: Rückmeldung des Kommunalreferats zu BA-Antrag 08-14/B 05379 vom 19.11.2013, Aufstellen eines Hundekot-Tütenspenders im Bereich des temporären Kindergartengrundstücks ?Am Gries?
+- TOP 0.4.: Ausnahmezulassung für nächtliche Mäharbeiten
+- TOP 0.1.: Verwendungsnachweis: Spielhaus/Spielplatz
+- TOP 0.2.: Kurzbericht Neuanschaffungen für den Kindergarten durch das Budget des BA 1, Kindergarten St. Anna Platz e.V.
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Kultur & Spielraum e. V. historisches Spielprogramm am 28. und 29.06.2014
