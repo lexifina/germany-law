@@ -52,6 +52,7 @@ Teil 9 Datenschutz
 § 34 | Auskunft und Akteneinsicht
 § 35 | Beauftragte für den Datenschutz
 § 36 | Datenverarbeitung für Forschungszwecke
+§ 36 a | Datenverarbeitung im Auftrag
 Teil 10 Übergangs- und Schlußvorschriften
 § 37 | Kosten und Entgelte
 § 38 | Ordnungswidrigkeiten
@@ -59,6 +60,5 @@ Teil 10 Übergangs- und Schlußvorschriften
 § 40 | Übergangsvorschrift
 § 41 | Änderung von Rechtsvorschriften
 § 42 | Rückkehr zum einheitlichen Verordnungsrang
-§ 42a | Evaluation
 § 43 | Aufhebung von Rechtsvorschriften
 § 44 | Inkrafttreten
