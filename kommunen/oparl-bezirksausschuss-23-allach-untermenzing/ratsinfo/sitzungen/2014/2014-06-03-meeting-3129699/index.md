@@ -1,0 +1,59 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-06-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129699
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129699
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Sicherheit für Schulkinder; in der Ernst-Häckel-Str. gibt es ein neues Holzgeländer
+- TOP 2.2.2.: Wildwest in Moosach/Untermenzing
+- TOP 3: Anträge
+- TOP 3.1.: Unterausschuss Kultur soll sich kontinuierlich um die Verwirklichung des Kulturzentrums im Stadtteil kümmern
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Kleingartenverein NW 002 e.V. Westwind Allach Veranstaltung zum 10jährigen Vereinsjubiläum am 28. und 29.06.2014 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: (E) Verkehrsberuhigende Maßnahmen im Paul-Ehrlich-Weg und in der Goteboldstraße - <div>nach Antrag</div>
+- TOP 2.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Aufstellung von einer neuen Verkaufseinrichtung auf öffentlichem Grund: Pasinger Heuweg / Ecke Theodor-Fischer-Str. (Bushaltestelle)
+- TOP 5: Anhörungen
+- TOP 5.1.: Neubau einer Tiefgarage und eines Lichthofs als Anbau an ein Hotel Schöllstr. 2, Gemarkung: Allach, Fl.Nr.: 952/6 Vollzug der BaumschutzVO, Schöllstr. 2, Gemarkung: Allach, Fl.Nr.: 952/6
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 09.04.14: München Modell-Miete; Elisabeth-Kohn-Straße am Ackermannbogen III (Sitzungsvorlagen Nr. 14510)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Informationsveranstaltung des Sozialreferates für die Münchner Bezirksausschüsse am 23.06.14, 18:30 Uhr - 20:30 Uhr
+- TOP 7.2.: Arbeitskreis Schöllstraße, Protokoll vom Vorbereitungstreffen
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 21.05.14: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogenen städtischen Wettbewerben
+- TOP 8.2.: Schreiben Baureferat vom 15.05.2014: Herstellung des Grünstreifens entsprechend der Vorgaben des Flächennutzungsplanes zum Schutz der Wohnbebauung in der Schöllstraße
+- TOP 8.3.: Schreiben Baureferat vom 15.05.14: Erstmalige Herstellung der Allacher Straße, zwischen Ernst-von-Beling-Straße und Eduard Schwartz-Straße im 23. Stadtbezirk Allach-Untermenzing (BA-Antrag-Nr. 5879)
+- TOP 8.4.: Schreiben Baureferat vom 15.05.14: Kreuzung Nigglstr./Vesaliusstr./Eversbuschstr.
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (21.04.-27.04.14, 28.04.-04.05.14, 05.05.-11.05.14, 12.05.-18.05.14)
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Josef-Führer-Str. 17, Kupfferstr. 6, Eversbuschstr. 40, Korbinian-Beer-Str. 1, Freybergweg 12, Jennerstr. 22, Grünwedelstr. 3
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Allacher Str. 114, Wiebekingstr. 8
+- TOP 8.8.: Schreiben des Arbeitskreises Attraktiver Nahverkehr (AAN) vom 04.05.14: Stellungnahme des AAN zum Leistungsprogramm 2015 der MVG
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 23.04.14: Busverbindung von S-Bahnhof Allach nach S-Bahnhof Moosach über die Ludwigsfelder Straße, BV-Empf. 1913
+- TOP 8.10.: Schreiben Referat für Arbeit und Wirtschaft vom 30.04.14: Europe Direct Informationen 02/2014
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 29.04.14: Information der Bezirksausschüsse, neue Bädereintrittspreise
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 28.04.14, 06.05.14, 12.05.14, 19.05.14: Baumaßnahmen
+- TOP 8.13.: Schreiben Sozialreferat vom 06.05.14: Antrag auf Zweckentfremdung von Wohnraum, Waldhornstr.
+- TOP 8.14.: Schreiben Sozialreferat vom 20.05.14: Protokoll zur BA-Informationsveranstaltung am 27.02.14 zum Thema "Unterbringung von Flüchtlingen in München"
+- TOP 8.15.: Schreiben Kreisverwaltungsreferat vom 20.05.14: Filmaufnahmen an der Servetstr. 1
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 22.05.14: Zustände in der Bauschingerstraße
+- TOP 8.17.: Schreiben Mieterbeirat der Landeshauptstadt München vom 29.04.14: Protokoll der Sitzung vom 07.04.14
+- TOP 8.18.: Schreiben Kath. Pfarramt Maria Himmelfahrt vom 14.04.14: Verwendungsnachweis
+- TOP 8.19.: Schreiben Wohnen ohne Auto vom 19.05.14: Broschüre "Wohnen in der Radlhauptstadt"; verkehrsvermeidender und erschwinglicher Wohnungsbau
+- TOP 8.20.: Schreiben Faschingsclub Laim e.V. vom 21.05.14: Rathausschlüssel
+- TOP 9: Nachtrag
+- TOP 9.1.: 1. Anhörungen 1.1 Behringstraße: Neubau einer Wohnanlage (8 Häuser) - Vorbescheid (Behringstraße / Franz-Albert-Straße / Paul-Ehrlich-Weg) 2. Verschiedenes 2.1 Schreiben Kreisjugendring München-Stadt vom 23.05.14: Einladung zur 6. Informationsveranstaltung zum Thema "Jugendbeteiligung", Fokus: "Jung sein in München - eine Einführung in das Feld der Jugendarbeit" am 25.06.14 3. Umlauf 3.1 Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, in Zusammenhang mit einem Bauvorhaben; Behringstraße 3.2 Schreiben Stadtwerke München vom 26.05.14: Baumaßnahmen 3.3 Schreiben Gesundheit und Umwelt vom 23.05.14: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV; Durchführung von Mäharbeiten des Straßenbegleitgrüns 3.4 Schreiben Kreisverwaltungsreferat vom 23.05.14: Neufassung der Sondernutzungsrichtlinien; hier: Änderung in den Freischankflächenrichtlinien 3.5 Schreiben Kulturreferat vom 27.05.14: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, Fl.Nr. 81, 82, 82/2, 101/7 in Allach, 2. Bürgerhaus für Allach-Untermenzing (Antrag Nr. 08-14 / B 04680 des BA 23 vom 12.03.13), Bürgerzentrum Allach-Untermenzing (Antrag Nr. 08-14 / B 04777 des BA 23 vom 09.04.13)
