@@ -1,0 +1,57 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2014-06-03T17:30:00+02:00
+- Ende: 2014-06-03T19:46:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZckdd_lOo9Au5Ei0KOI5F8g
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/968
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXHWHZemVoSA5B6cw287cIgOiUAFxgQziDgp4QlKBict/Bekanntmachung_Rat_03.06.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFfgIQnKuF_PCX3bMMbiyMoXfbWRpB7p973kG6ZBJwn/Oeffentliche_Niederschrift_Rat_03.06.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschriften über die Sitzungen vom 06.03.2014 und 01.04.2014
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Ausgleichszahlung / Kaufpreis Arkadencenter
+- TOP 3.2: Interessenkonflikt des Aufsichtsratsmitglieds der Gemeindewerke Wallenhorst GmbH Alfons Börger wegen einer Nebentätigkeit bei der Naturstrom AG
+- TOP 3.3: Verweisungsbeschlüsse
+- TOP 4.: Satzungsrecht
+- TOP 4.1: Satzung über die Erhebung von Beiträgen nach § 6 des Niedersächsischen Kommunalabgabengesetzes für straßenbauliche Maßnahmen (Straßenausbaubeitragssatzung) hier: 1. Änderung der Satzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Festsetzung der Bestimmungen der Musterverträge und der ergänzenden Bedingungen für die Versorgung mit Nahwärme im Baugebiet Fürstenauer Weg / Hansastraße - mehrheitlich mit 17 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.: Seniorenangelegenheiten
+- TOP 6.1: Tätigkeitsbericht des Seniorenbeirates der Gemeinde Wallenhorst
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.2: Beauftragung der Gemeindewerke Wallenhorst GmbH mit der Nahwärmeversorgung des Gebietes im Bebauungsplan 250 (Fürstenauer Weg / Hansastraße) - mehrheitlich mit 17 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 5.3: Vertrag über die Benutzung gemeindlicher Grundstücke zum Zwecke der öffentlichen Versorgung mit Fernwärme - mehrheitlich mit 17 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 7.: Sportangelegenheiten
+- TOP 7.1: Antrag des Sportvereines Blau-Weiss Hollage auf Erstellung einer zusätzlichen Trainingshalle im Sportzentrum Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Bauleitpläne
+- TOP 8.1: Antrag der CDU-Fraktion auf Änderung des Flächennutzungsplanes und Aufstellung eines Bebauungsplanes für die Flächen zwischen der BAB 1, der 'Stüvestraße' und dem 'Pyer Kirchweg' - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Sanierungsmaßnahme „Wallenhorst-Zentrum“ hier: Beschluss über die Entwurfsplanung „Große Straße – Nord“ Erstellung der Ausführungs- und Detailplanung der „Großen Straße – Nord“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Vorbereitung und Durchführung der städtebaulichen Maßnahme "Gewerbeflächen am Schwarzen See" durch die Niedersächsische Landgesellschaft mbH hier: Abschluss des Städtebaulichen Vertrages und Mitbestimmung des Rates - nicht gefasst:
+- TOP 10.: Kämmereiangelegenheiten
+- TOP 10.1: Zustimmung zu einem überplanmäßigen Aufwand/Auszahlung für die Sanierung der Friedhofsmauer in Hollage im Budget 31 "Bürgerservice und Ordnung" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Zustimmung zur außerplanmäßigen Auszahlung zum Abbruch und zur Entsorgung des Wohngebäudes Osnabrücker Straße 110 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2013 - nicht gefasst:
+- TOP 10.4: Genehmigung zur Annahme von Zuwendungen durch den Rat der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Anfragen und Anregungen
+- TOP 11.1: Akteneinsicht in "Partnerschaften"
+- TOP 11.2: Vorbereitung eines Ratsbeschlusses zum Ausstieg aus dem "Töwerland-Projekt"
+- TOP 11.3: Sachstand zum Thema "Arkadencenter"
+- TOP 11.4: Einrichtung eines weiteren Grünabfallsammelplatzes im Ortsteil Hollage
+- TOP 11.5: Kontrolle der Straßenlaternen am "Eschweg"
+- TOP 11.6: Public Viewing während der WM 2014
+- TOP 11.7: Fußweg an der Niedersachsenstraße
+- TOP 11.8: Parksituation vor dem Restaurant "Costa Smeralda"
+- TOP 11.9: Ortstermin des Verkehrsausschusses am "Stavermann-Kreisel"
+- TOP 11.10: Straßenverhältnisse an der Talstraße in Höhe der Bauernschaften
+- TOP 11.11: Bereitstellung von Getränken für die Zuhörer im Ratssaal
+- TOP 11.12: Sichtbehinderung an der 5er-Kreuzung in Rulle
