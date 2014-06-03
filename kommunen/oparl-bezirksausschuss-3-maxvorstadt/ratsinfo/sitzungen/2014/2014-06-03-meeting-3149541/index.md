@@ -1,0 +1,103 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149541
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149541
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 28.04.2014 Baumpflanzungen in der Augustenstraße
+- TOP .2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.05.2014 Ein Brunnen für den Georg-Elser-Platz Versorgung der Pflanzen auf dem Georg-Elser-Platz Überschneidung der Begriffe Schwabing und Maxvorstadt
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 15.05.2014 Einrichten eines Zebrastreifens in der Heßstraße, Höhe Arcisstraße
+- TOP .4.: Schreiben eines Bürgers aus der Maxvorstadt vom 15.05.2014 Verkehrsstau in der Theresienstraße und Maßmannstraße
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Unterrichtung der LBK über Bauvorhaben: 17., 18., 20. KW
+- TOP .2.: Unterrichtung der LBK über Abgeschlossenheitsbescheinigungen:
+- TOP .3.: Baureferat Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahnhalt Donnersbergerbrücke Anhörung zu BV-Empfehlungen der Bürgerversammlung des Stadtbezirkes 9 Neuhausen- Nymphenburg
+- TOP .4.: Adalbertstraße 23, Neubau einer Wohnanlage mit Tiefgarage und Läden im EG (Adalbert- straße 23 und 25/Türkenstraße 96)
+- TOP .5.: Luisenstraße 43, Aufstockung eines Rückgebäudes um zwei Geschosse (2 WE) Vorbescheid
+- TOP .6.: Blutenburgstraße 34-42, Aufstockung eines Wohngebäudes um ein Staffelgeschoss (10 WE) - Vorgescheid
+- TOP .7.: Deroystraße 4-22, Neubau Steuerzentrum München, Bauabschnitt 1
+- TOP .8.: Luisenstraße 1, Neubau eines Büro- und Gechäftsgebäudes, Vorbescheid
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Arcisstraße 12, eine Linde
+- TOP .2.: Arcisstraße 17, ein Spitzahorn
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP .1.: (E) Verlängerung der Grünphase für Fußgänger an der Ampelanlage Dachauer- / Lothstraße bzw. Installation einer Ampel für Linksabbieger von der Lothstraße in die Dachauer Straße stadteinwärts
+- TOP .2.2: Öffentlicher Raum
+- TOP 1: (E) Aufstellen von öffentlichen Behältern für leere und gefüllte Hundekottüten sowie begleitende Aufklärungskampagne Empfehlung Nr. 08-14 / E 2004 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt
+- TOP 1.2.3: Gaststätten
+- TOP 1.1.: Kreisverwaltungsreferat, Gewerbe, Freischankflächen a) Schellingstraße 16, Genehmigung einer Freischankfläche b) Adalbertstraße 25, Erweiterung einer bestehenden c) FreischankflächeTürkenstraße 52, Genehmigung einer Freischankfläche d) Maximiliansplatz 9, Erweiterung einer bestehenden Freischankfläche, Unterlagen liegen bereits vor (s. TOP C 2.3.1/0514)
+- TOP 1.2.4: Veranstaltungen
+- TOP 1.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Straßenfest Steinickeweg am 14.06.2014 (Ersatztermin: 21.06.2014)
+- TOP 1.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Skateboard- und Scooterkurse des Referates für Bildung und Sport in den Münchner Grünanlagen Stadtbezirk 3: Skateanlage Maßmannpark ab 03.08.2014
+- TOP 1.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Konzert Black Sabbath am 13.06.2014 auf dem Königsplatz (Aufbau ab 10.06.2014)
+- TOP 1.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Große Fronleichnamsprozession ab Marienplatz am 19.06.2014 einschließlich Änderung zur Anhörung vom 16.05.2014
+- TOP 1.5.: 36. Münchner Stadtlauf 2014 am 29.06.2014
+- TOP 1.1.: Die neue Siemens Konzernzentrale Kolloquium ?Tradition trifft Zukunft?
+- TOP 1.1.: Referat für Bildung und Sport, Anhörung Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote Schaffung einer Verpflegungsküche mit Verpflegungsraum für die Grund- und Förder- schule an der Dachauer Straße 98 im 3. Stadtbezirk Maxvorstadt Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 04.06.2014
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Kinderkrippe Die Weltentdecker Beschaffung eines Spielhäuschens
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 MFM-Projekt am 28.07.2014
+- TOP 1.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 19.05.2014 ?Anbringung einer ergänzenden Zusatztafel im Umgriff des Obelisken auf dem Karolinen- platz?
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 19.05.2014 ?Erhalt des Ensembles 'Paul-Heyse-Villa' (Paul-Heyse-Villa ? keinerlei Veränderungen der derzeitigen Bebauung)?
+- TOP 1.1.: (E) Budget der Bezirksausschüsse 84 GHz - Raum für Gestaltung Programmpunkt Neue Musik im Rahmen von Kunst im Karrée 2014
+- TOP 1.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Maßnahmen in der Maxvorstadt um die Folgen des Klimawandels zu dämpfen
+- TOP 3.2.: Verkürzung der Öffnungszeiten für Spielhallen um drei Stunden d.h. Verlängerung der Sperrzeiten von bisher 03.00 Uhr bis 06.00 Uhr auf 03.00 Uhr bis 09.00 Uhr
+- TOP 3.3.: Sozialreferat, Amt für Wohnen und Migration Leerstand in der Steinheilstraße, Antwortschreiben des Sozialreferates
+- TOP 3.4.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte und Ma- schinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV Einbindung einer neuen Fernwärmeleitung, Nymphenburger-/Adam-/Lothstraße
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Infostand am Geschwister-Scholl-Platz ab 05.05.2014 Eilentscheidung des Vorsitzenden vom 24.04.2014: Zustimmung durch Fristablauf
+- TOP 3.2.: Baureferat Kunst am Bau und Kunst im öffentlichen Raum (QUIVID), Richtlinienaktualisierung Antrag Nr. 02-08 / A 02368 mehrerer Mitglieder des Stadtrates vom 15.03.2005 Antrag Nr. 02-08 / B 02578 des BA 3 vom 13.11.2007 Beschluss der Vollversammlung des Stadtrates vom 09.04.2014 Sitzungsvorlage Nr. 08-14 / V 13917
+- TOP 3.3.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV/Nachtarbeit Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau, Verlängerung
+- TOP 3.4.: Maßnahmen zur Verbesserung der Aufenthaltsqualität auf dem Prof.-Huber-Platz und dem Geschwister-Scholl-Platz
+- TOP 3.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Absolutes Haltverbot in einem Teil der Enhuberstraße 3 aufgehoben
+- TOP 3.6.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement Verkehrsrechtliche Anordnung gem. § 45 StVO Einrichtung von 62 Fahrradstellplätzen (Fahrradanlehnen) auf Fahrbahnniveau an der Nordwestseite der Arcisstraße durch Umwandlung von Kfz-Stellplätzen
+- TOP 3.7.: Kreisverwaltungsreferat, Direktorium Entscheidung des Oberbürgermeisters vom 16.04.2014 Sperrzeitveränderung für ein Gastgewerbe in der Dachauer Straße 17
+- TOP 3.8.: Antrag auf Auskunft: Wann wird mit der Umgestaltung der Kreuzung Friedrich-/Georgen-/Türkenstraße begonnen und warum dauert die Planung so lange?
+- TOP 3.9.: entfällt
+- TOP 3.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Blade Night 2014 vom 12.05.bis 08.09.2014, Erlaubnisbescheid
+- TOP 3.11.: Kreisverwaltungsreferat, Verkehrsmanagement, Grundsatzangelegenheiten Öffnung der in Richtung Norden einbahngeregelten Schraudolphstraße zwischen der Georgenstraße und der Heßstraße für den gegenläufigen Radverkehr
+- TOP 3.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Radlnacht am 07.06.2014, Start-Ziel auf dem sog. Odeonsplatz Eilentscheidung des Vorsitzenden vom 14.05.2014: Zustimmung
+- TOP 3.13.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold am 31.05. und 01.06.2014, 3. Nachtrag Eilentscheidung des Vorsitzenden vom 14.05.2014: Zustimmung
+- TOP 3.14.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Karlstraße 103
+- TOP 3.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 22.05.bis 01.06.2014, Erlaubnisbescheid
+- TOP 3.16.: Baumaßnahmen der Stadtwerke München Barer Straße 27, Fernwärme Linprunstraße 52, Fernwärme
+- TOP 3.17.: Baureferat, Antwortschreiben BA-Antrag Nr. 08-14 / B 05728 des BA 3 vom 11.03.2014 ?Neupflanzung von drei Bäumen im Bereich des Marsplatzes
+- TOP 3.18.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bildungscamp auf dem Geschwister-Scholl-Platz und dem Prof.-Huber-Platz vom 03.06.2014 bis 07.06.2014 Eilentscheidung des Vorsitzenden vom 20.05.2014: Zustimmung
+- TOP 3.19.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 5. Münchner Radlnacht am 7.06.2014, 1. Nachtrag Eilentscheidung des Vorsitzenden vom 20.05.2014, Zustimmung durch Fristablauf
+- TOP 3.1.: Stadtwerke München, Bäder Information der Bezirksausschüsse über die neuen Bädereintrittspreise
+- TOP 3.2.: Direktorium, Budget Rückforderung von Zuschussmitteln
+- TOP 3.3.: Gleichstellungsstelle für Frauen Schreiben vom 15.05.2014, Einladung zu einem Austausch mit den BAs am 28.05.2014
+- TOP 3.4.: Kultur
+- TOP 3.1.: Direktorium, Budget Film- und Zeitzeugengespräch am 18.03.2014, Antragsteller: Weiße Rose Stiftung e.V. Rücknahme des Bewilligungsbescheides
+- TOP 3.1.: Wahl eines Kinder- bzw. Jugendbeauftragte/r
+- TOP 3.2.: Beschluss über die Berufung weiterer BA-Beauftragter und deren Zuständigkeit
+- TOP 3.3.: Berufung der nach TOP 4.2 beschlossenen weiteren Beauftragten
+- TOP 3.4.: Termine für die weiteren Vorstandsitzungen des BA 3 im Jahr 2014
+- TOP 3.5.: Bürgersprechstunden des BA 3 im Jahr 2014
+- TOP 3.6.: Versammlungsort für die Bürgerversammlung des 3. Stadtbezirkes am 16.10.2014
+- TOP 3.7.: Ferienausschuss 2014
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
+- TOP 1.3.: Aktuelle Sachstandsberichte
