@@ -51,4 +51,4 @@ Teil 7 Ordnungswidrigkeiten
 Teil 8 Übergangs- und Schlussvorschriften
 § 36 | Übergangsvorschriften
 § 37 | Aufhebung von Vorschriften
-§ 38 | Inkrafttreten, Außerkrafttreten
+§ 38 | Inkrafttreten
