@@ -1,0 +1,79 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-06-04T17:00:00+02:00
+- Ende: 2014-06-04T22:40:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2322
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2322
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Respekt vor demokratischen Entscheidungen - in der BVV abgelehnt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Durchführung einer Einwohnerversammlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Veränderungen der Besetzung des Jugendhilfeausschusses - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Denkmalschutz für das Gebäude "Zum alten Krug" in Rudow - beantwortet
+- TOP 9.2: Alt-Buckow 21 - beantwortet
+- TOP 9.3: Schandfleck am Eingang zu Neukölln - beantwortet
+- TOP 9.4: Büro des Bürgermeisters als Coworking Space? - beantwortet
+- TOP 9.5: Ausgewogenes Kita-Essen - beantwortet
+- TOP 9.6: Tagespflegesätze in Neukölln oder abendliche Betreuung in Kitas - beantwortet
+- TOP 9.7: Finanzierung des Vereins "Interkultureller Treffpunkt" - beantwortet
+- TOP 9.8: Verschmutzung und Pflege des Rudower Dorfteiches - beantwortet
+- TOP 9.9: Beschwerden aus der Franz-Körner-Straße - schriftlich beantwortet
+- TOP 9.10: Crystal Meth in Neukölln? - schriftlich beantwortet
+- TOP 9.11: Notendurchschnitt von 3,0 bis 3,5 oder höher bei den prognostizierten Rückläufer*innen im Schuljahr 2013/14 (Nachfrage zur Kleinen Anfrage (KA/133/XIX) vom 01.04.14) - schriftlich beantwortet
+- TOP 9.12: Zweckentfremdung und Mietwucher - schriftlich beantwortet
+- TOP 9.13: Anonymisierte Bewerbungen in Neukölln? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Jugendberufsagentur in Neukölln - beantwortet
+- TOP 10.2: Windows XP Support "plötzlich" ausgelaufen - beantwortet
+- TOP 10.3: Beschulung der Kinder aus der Flüchtlingsunterkunft in der Herman-Nohl-Schule - beantwortet
+- TOP 10.4: OpenAntrag - Neukölln verstaubt - beantwortet
+- TOP 10.5: Willkommen in 2014 - in der BVV abgelehnt
+- TOP 10.6: Initiative des Bezirkes gegen Rechtsextremismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Fortschreibung Schulentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Aktive Städtepartnerschaften im Rathaus stärker würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - erledigt
+- TOP 12.1: Jugendkriminalität in Neukölln kein Problem mehr? - beantwortet
+- TOP 12.2: Auswirkungen des Volksentscheids – Weiterentwicklung des Tempelhofer Feldes - vertagt
+- TOP 12.3: Neuköllner Bildungsverbünde - vertagt
+- TOP 12.4: Lehren aus dem Volksentscheid - vertagt
+- TOP 12.5: Verkauf von kommunalen Wohnungen in Neukölln? - vertagt
+- TOP 12.6: Auswirkungen des Volksentscheids – Wohnungspolitik im Bezirk Neukölln - vertagt
+- TOP 12.7: Respekt und Deeskalation bei der Arbeit für den Bezirk - vertagt
+- TOP 12.8: Leistungskomplex 32 - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Öffentliche Information über Kunst im öffentlichen Raum - überwiesen
+- TOP 14.2: Absolutes Haltverbot Krokusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Informationen zu laufenden Bebauungsplanverfahren - überwiesen
+- TOP 14.4: Weitere Familienzentren für Nordneukölln - überwiesen
+- TOP 14.5: Einsicht in die Pflegedokumentation - überwiesen
+- TOP 14.6: Halteverbot Krokusstraße Nr.57 - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Einbürgerungsfeiern - vertagt
+- TOP 14.8: Verlegung der Buslinie 171 aus Alt-Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Prekäre personelle Ausstattung der Flüchtlingsunterkunft Späthstraße beenden - überwiesen
+- TOP 14.10: Gaststätte „Luftgarten“ - vertagt
+- TOP 14.11: Vordruck Zweckentfremdung anbieten - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Anti-Bias-Training für Schüler*innen - Umgang mit Voreingenommenheit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Anti -Bias -Training für pädagogisches Personal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Altglascontainer Braunschweiger Straße/Schudomastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Verdienten Stadtvater im Straßenbild würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Schritt für Schritt gegen Häusliche Gewalt – Häusliche Gewalt ist keine Privatsache - vertagt
+- TOP 16.4: Stellplatzkonzept - zur Kenntnis genommen (Beratungsfolge beendet)
