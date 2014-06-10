@@ -1,0 +1,113 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-06-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194261
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194261
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Antrag auf Tempo 30 Zone in der Deisenhofener Straße, Bürgeranliegen von Herrn L. vom 20.05.2014
+- TOP 2.2.: Antrag an den BA 17 zum Umbau der südlichen TeLa, Bürgeranliegen vom 28.05.2014
+- TOP 2.3.: Antrag an den BA 17 auf Einrichtung gebührenfreier Kurzzeitparkplätze in der südlichen TeLa, Bürgeranliegen vom 28.05.2014
+- TOP 2.4.: Antrag auf mobile Schulraumeinheiten, Bürgeranliegen von Frau B. vom 28.05.2014
+- TOP 2.5.: Desolater Zustand der Unterführung Tegernseer Landstraße, Bürgeranliegen von Herrn H. vom 02.06.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Verkehrsanbindung / Erschließung des Schulgeländes ESM sowie weiterer Einrichtungen in der Amisiedlung, Antrag der SPD-Fraktion vom 02.05.2014
+- TOP 3.2.: Antrag zum Bebauungsplan Nr. 2037 Europäische Schule, Antrag der CSU-Fraktion vom 06.06.2014
+- TOP 3.3.: Erweiterung der Grünfläche und mehr Aufenthaltsqualität für die Anwohner durch Umgestaltung der Verkehrsführung an der Kreuzung Zugspitzstraße / St.-Martin-Straße, Antrag der CSU-Fraktion vom 10.06.2014
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse ARGE St.-Quirin-Fest München-Giesing St.-Quirin-Fest am 03.07.2014
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 4.5.1: UA Bau/Planung/Wohnen
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 1. Lincolnstr. 31, Neubau eines Dreifamilienhauses mit Garage, Anhörung PlanR vom 23.04.2014 2. Fasangartenstr. 93, Errichtung eines Reihenhauses (4-Spänner) - TEKTUR - jetzt: Mehrfamilienhaus mittig mit zwei Reihenendhäusern und gemeinsamer TG; Anhörung vom 27.03.2014 (vertagt aus der Sitzung vom 08.04.2014) 3. Eintrachtstr. 2, Nutzungsänderung: Gaststätte / Café zur 2 Gaststätten, Anhörung PlanR vom 15.04.2014 4. Cincinnatistr. 57-61, Modernisierung eines Wohngebäudes - Bestandsoptimierung Gebäude 327, Anhörung PlanR vom 08.05.2014 vertagt aus der Sitzung vom 13.05.2014 Alle Unterlagen befinden beim UA-Vorsitzenden und können jederzeit eingesehen werden.
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Genehmigung einer Freischankfläche in der Edelweißstraße 11; Beschlussvorlage des Kreisverwaltungsreferates vom 08.05.2014
+- TOP 0.1.: Bebauungsplan Nr. 2037 Europäische Schule a) Europäische Schule: rechtzeitiger Beginn mit den Planungen zur Verlängerung der Herbert-Quandt-Straße, Empfehlung Nr. 08-14 / E 01900 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten am 04.07.2013 b) Europäische Schule: Sicherstellung der Nahversorgung der Wohnsiedlungen am Perlacher Forst und Fasangarten ohne Versorgungslücke, Empfehlung Nr. 08-14 / E 01905 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten am 04.07.2013, Anhörung des PlanR vom 15.05.2014
+- TOP 0.2.: Aufnahme des Cincinnati-Kinos in die Denkmalliste, Information und Anhörung PlanR vom 19.05.2014
+- TOP 0.3.: Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr. 7.2) 1. Minnewitstr. 29, Neuplanung Mischnutzung, Anhörung PlanR vom 02.06.2014
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Vollzug der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse, 1. Anwesen Fasangartenstr. 93; Mitteilung vom 21.05.2014 2. Anwesen Weinbauernstr. 16 RG, Mitteilung vom 28.04.2014
+- TOP 0.3.: München Modell-Miete, Elisabeth-Kohn-Straße am Ackermannbogen III, Sitzungsvorlage Nr. 08-14 / V 14510, Beschluss der Vollversammlung des Stadtrates vom 09.04.2014
+- TOP 0.4.: Giesinger Bahnhofplatz, Austausch der kunstharzgebundenen Oberflächenbefestigung (TerraWay), Mitteilung des BauR vom 22.05.2014
+- TOP 0.5.2: UA Familie/Soziales/Ausbildung
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Antrag auf Schallschutzfenster und zeitnahe Weiterführung der akustischen Sanierung - Schulgebäude Ichostraße 2, Schreiben der Icho Grundschule an das RBS vom 15.05.2014
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Tegernseer Landstraße Süd, 2-Richtungs-Radweg, Bürgeranliegen von Herrn R. vom 11.04.2014 (vertagt aus der Sitzung vom 13.05.2014)
+- TOP 0.2.: Dicke Luft an der Herbert-Quandt-Straße, Bürgeranliegen von Frau R. vom 04.05.2014 (vertagt aus der Sitzung vom 13.05.2014)
+- TOP 0.3.: Aufhebung der Radwegbenutzungspflicht in der Deisenhofener Straße; Anhörung KVR vom 09.04.2014 (vertagt aus der Sitzung vom 13.05.2014)
+- TOP 0.1.: Künftige Linienführung der Buslinie 145 im Bereich Fasangarten, Anhörung RAW vom 28.05.2014
+- TOP 0.1.: Einführung von Tempo 30 in der Silberhornstraße und Ichostraße zur Verbesserung der Schulwegsicherheit und Aufenthaltsqualität - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013, Antwort KVR vom 07.05.2014
+- TOP 0.2.: Prüfung von Tempo 30 für die Werinherstraße zwischen Herzogstandstraße und Heimgartenstraße - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013, Antwort KVR vom 20.05.2014
+- TOP 0.3.: Aufwertung Tegernseer Landstraße, Information des PlanR zu Bürgerversammlungs-Empfehlungen vom 09.05.2014
+- TOP 0.4.: Begrünung der Tegernseer Landstraße - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013, Antwort PlanR vom 21.05.2014
+- TOP 0.5.4: UA Umwelt und Gesundheit
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Mehr Mülleimer im 17. Stadtbezirk (vertagt aus der Sitzung vom 13.05.2014)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung; 1. Tegernseer Landstraße 283, Bescheid vom 13.05.2014
+- TOP 0.2.: Recycling-Container im 17. Stadtbezirk - häufigere Leerung, Antwort AWM vom 29.04.2014
+- TOP 0.3.: Abfallentsorgungsanlage der Fa. Ammer Entsorgungs GmbH & Co.KG, Antwort des RGU vom 23.05.2014
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.6: lokale Wirtschaft und Arbeit
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 0.1.: Gaststätten (unveränderte Fortführung); Mitteilungen des Kreisverwaltungsreferats
+- TOP 0.2.: Zugang zu den Geschäften während der Bauarbeiten erhalten - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013, Antwort PlanR vom 21.05.2014
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Mieterbeirat
+- TOP 6.8: Baumschutz
+- TOP 6.8.1: Einzelfälle
+- TOP 6.8.1.1.: 1. Schwarzenbacher Str. 20, 3 Fichten 2. Kronacher Str. 16, 1 Blautanne, Antrag vom 30.04.2014 3. Tegernseer Landstraße 207-245, 1 Pappel, 1 Vogelbeere, Antrag vom 29.04.2014 4. St.-Quirin-Str. 13-13b, mehrere Bäume, Antrag vom 20.05.2014
+- TOP 6.8.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogenen städtischen Wettbewerben, Information des Direktorium vom 21.05.2014
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Beleuchtung des Zuwegs zur S-Bahnhaltestelle Fasangartenstraße, Bürgeranliegen aus der Sitzung vom 08.04.2014, Antwort des BauR vom 05.05.2014
+- TOP 7.2.: Postpartnerfilialen im Stadtbezirk - Übersichtsplan der Deutschen Post AG, Beschluss des BA 17 aus der Sitzung vom 08.04.2014, Antwort RAW vom 14.05.2014
+- TOP 7.3.: Mehr Briefkästen im Bereich des S-Bahnhofs St.-Martin-Straße - Ortstermin mit einem Vertreter der Deutschen Post, Antwort des BauR vom 07.05.2014
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.4: UA Umwelt
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Am 05.06.2014 findet um 19.00 Uhr die Bürgerversammlung im 17. Stadtbezirk in Anton-Fingerle-Bildungszentrum statt.
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.6.6: Sonstiges
+- TOP 0.5.6.1: Bericht
+- TOP 0.5.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.6.5: Anträge
+- TOP 8.8.1.3: UA Verkehr
