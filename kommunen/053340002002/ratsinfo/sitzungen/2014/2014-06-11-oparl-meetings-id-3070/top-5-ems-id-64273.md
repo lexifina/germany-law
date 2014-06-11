@@ -1,0 +1,7 @@
+# TOP 5: Einführung und Verpflichtung der Stellvertreter/innen des/der Bezirksbürgermeisters/in und der übrigen Mitglieder der Bezirksvertretung durch den/die Bezirksbürgermeister/in
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Haaren (2014-06-11)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=64273
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=17392&bi=20777
