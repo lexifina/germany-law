@@ -1,0 +1,55 @@
+# Stadtrat (1. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-06-11T17:00:00+02:00
+- Ende: 2014-06-11T18:58:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfQvA_PpiYBkPnB3UGZrq44
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16545
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUP2gs_Oi6qdvbnf4BDwryBZJtI0mqPCseX7CvyZfeDU/Bekanntmachung_Stadtrat_11.06.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZTq6SlCRlXlCGinCc8a8OMEwANNEvedVKc3ZNaTMJT9c/Oeffentliche_Niederschrift_Stadtrat_11.06.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung einer Schriftführerin und eines stv. Schriftführers für die Erstellung der Niederschriften über die Ratsbeschlüsse
+- TOP 2.: Wahl der stellvertretenden Bürgermeister/innen
+- TOP 3.: Einführung und Verpflichtung der stv. Bürgermeister/innen und der übrigen Ratsmitglieder
+- TOP 4.: Wahl der Ortsvorsteher/innen
+- TOP 5.: Ausschüsse des Rates der Stadt Kerpen
+- TOP 5.1: Bildung und Besetzung der Ausschüsse
+- TOP 5.2: Bildung und Besetzung des Jugendhilfeauschusses
+- TOP 6.: Bestellung von Vertretern/innen der Stadt Kerpen in Organe von juristischen Personen oder Personenvereinigungen
+- TOP 6.1: Bestellung der Mitglieder für die Gesellschafterversammlung der Grundstücksentwicklungs- und verwertungsgesellschaft mbH sowie der WFK Wirtschaftsförderung Kerpen GmbH
+- TOP 6.2: Bestellung von Mitgliedern und Stellvertretern in den Umlegungsausschuss I, Umlegung Nr. 7 "Burgackerstraße" in Kerpen-Brüggen
+- TOP 6.3: Bestellung der Vertreter/innen der Stadt Kerpen für die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes (NWStGB)
+- TOP 6.4: Bestellung von Vertretern/innen für die Zweckverbandsversammlung des Zweckverbandes der Volkshochschule Bergheim
+- TOP 6.5: Bestellung eines/r Vertreters/in der Stadt Kerpen für die Wirtschaftsförderung Rhein-Erft GmbH
+- TOP 6.6: Bestellung von Vertretern/innen für die Gesellschafterversammlung und den Aufsichtsrat der ERFTLAND Wohnungsbaugesellschaft mbH
+- TOP 6.7: Bestellung von Vertretern/innen für die Gesellschafterversammlung und den Aufsichtsrat der ERFTLAND Holding GmbH
+- TOP 6.8: Bestellung eines/r Vertreters/in der Stadt Kerpen in die Verbandsversammlung der Kommunalen Datenverarbeitungszentrale Rhein-Erft-Rur
+- TOP 6.9: Bestellung von Vertretern/innen der Stadt Kerpen für den Beirat der Stadtbücherei Kerpen
+- TOP 6.10: Bestellung von Vertretern/innen für die Zweckverbandsversammlung des Zweckverbandes Musikschule "La Musica" Bergheim
+- TOP 6.11: Bestellung eines/r Vertreters/in der Stadt Kerpen für die Gesellschafterversammlung der Betriebsgesellschaft Radio Erft GmbH & Co. KG
+- TOP 6.12: Entsendung eines/r Vertreters/in der Stadt Kerpen in den Aufsichtsrat der Rhein-Erft-Verkehrsgesellschaft mbH
+- TOP 6.13: Bestellung eines Vertreters der Stadt Kerpen in den Beirat des Maria-Hilf-Krankenhauses Bergheim
+- TOP 6.14: Bestellung eines Vertreters der Stadt Kerpen in den Beirat des St.-Katharinen-Hospitals-Frechen
+- TOP 6.15: Bestellung von Vertreter/innen für den Regionalbeirat Erft der Kreissparkasse Köln
+- TOP 6.16: Ersatzberufung von Delegierten der Stadt Kerpen für den Erftverband
+- TOP 7.: Gelände Alte Volksschule Götzenkirchen hier: Erschließung Pavillon
+- TOP 8.: Ausschreibung der Stromlieferung für die städtischen Gebäude hier: Beschaffung von Ökostrom
+- TOP 9.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 10.: Mitteilungen
+- TOP 11.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Mögliche Gefährdungssituationen am Hochhaus Maastrichter Straße im Stadtteil Kerpen
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
