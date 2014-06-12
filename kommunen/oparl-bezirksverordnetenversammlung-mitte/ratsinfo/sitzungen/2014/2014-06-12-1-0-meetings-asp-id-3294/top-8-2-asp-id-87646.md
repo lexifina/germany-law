@@ -1,0 +1,7 @@
+# TOP 8.2: Vorbereitung des neuen Schuljahrs und Stand der Baumaßnahmen BE: Bezirksamt
+
+- Sitzung: 29. öffentliche Sitzung des Ausschusses für Schule (2014-06-12)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=87646
+- Ergebnis: vertagt
