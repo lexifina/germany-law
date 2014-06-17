@@ -1,0 +1,149 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186476
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186476
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.2.1.: Neue Abfallkörbe am Mangfallplatz vor den Häusern 10 und 9; Bürgerantrag vom 14.05.2014 - <div>nach Antrag</div>
+- TOP 2.1.2.2.: 1. Neue Asphaltierung des Radweges an der Säbener Straße 2. Neue Asphaltierung des Straßenbelages am Perlacher Forst 3. Neue Asphaltierung des Straßenbelages Autharistraße; Bürgerschreiben vom 04.05.2014
+- TOP 2.1.2.3.: Gefährdung von Freizeitsportlern bei Querung der Straße am Perlacher Forst - Warnschilder; Bürgerschreiben vom 12.05.2014
+- TOP 2.1.2.4.: Umwandlung von Pkw-Parkplätzen in Fahrradabstellplätze innerhalb des Parklizenzgebietes Untergiesing, speziell Cannabichstraße und Lohstraße; Bürgeranliegen vom 09.05.2014
+- TOP 2.1.2.5.: Straßenbauarbeiten Königswarterstraße / Pechdellerstraße; Bürgeranfrage vom 01.06.2014
+- TOP 2.1.2.6.: Umbau Kreuzung Säbener Straße / Grödner Straße; Bürgerschreiben vom 30.05.2014
+- TOP 2.1.2.7.: Neubau des Kindergartens Wunderhornstraße 7a; Bürgerschreiben vom 29.05.2014 zu 2.1.2.7 Bürgerschreiben vom 30.05.2014
+- TOP 2.1.2.8.: Radwegumbau Schyrenstraße / Claude-Lorrain-Straße; Bürgerschreiben
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht (1)
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.1.2.1.: AntragstellerIn: Kreisjugendring München-Stadt, für die Maßnahme: Graffitigestaltung der Hausfassade des Kinder- und Jugendtreffs am Wettersteinplatz ab 01.07.2014; Antragssumme: 1.950,00 ?; Beschlussvorlage des Direktoriums vom 22.05.2014
+- TOP 3.1.3: Anträge (1)
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.3.1.1.: AntragstellerIn: koop e.V., für die Maßnahme: Veranstaltung ISARSPRUDEL im August 2014; Antragssumme: 6.657,10 ?; Antrag vom 27.05.2014
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.1.7: Sonstiges (1)
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1: Bericht (2)
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 1: (E) Lichtzeichenanlage Humboldtstraße / Oefelestraße - Überprüfung der Anlage und Verlängerung der Grünphasen für Fußgänger
+- TOP 3.2.3: Anträge (2)
+- TOP 3.2.3.1.: Einführung eines Anwohnparkbereichs im Bereich Saleggstraße und Änderung der Stellplatzsatzung bei Neuerrichtung oder Nutzungsänderung von Wohngebäuden; Antrag der CSU-Fraktion
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.2.5.1.: Untersuchungen zum Verkehrsaufkommen / zur Verkehrssituation rund um den Tierpark; BA-Antrag Nr. 08-14 / B 04531 vom 15.01.2013; Nachfrage des BA 18 aus der Sitzung vom 18.03.2014; Zwischennachricht des Referats für Stadtplanung u. Bauordnung vom 15.05.2014
+- TOP 3.2.5.2.: Bau einer Brücke am Giesinger Berg - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013; BA-Antrag Nr. 08-14 / B 05648 vom 18.02.2014; Zwischennachricht des Referats für Stadtplanung u. Bauordnung vom 09.05.2014
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.2.6.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Alois-Wohlmuth-Str. 23; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.2.6.2.: Information zum Fachtag "Doppelstock-S-Bahn"; Sitzungsvorlagen Nr. 14-20 / V 00163; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 3.2.6.3.: Maßnahmen zur Verringerung des Schienenverkehrslärms im Bereich des Dreimühlenviertels; Lärmschutzmaßnahmen an der Braunauer Eisenbahnbrücke ergreifen; BA-Antrag Nr. 08-14 / B 04872 des BA 2 vom 04.06.2013; Prüfung der Einhausung der Bahnstrecke Dreimühlenviertel; BA-Antrag Nr. 08-14 / B 04873 des BA 2 vom 04.06.2013; Lärmschutzmaßnahmen für die Braunauer Eisenbahnbrücke; BA-Antrag Nr. 08-14 / B 04938 des BA 18 vom 18.06.2013; Lärmschutz vor Bahnverkehr - Prüfung der Einhausung der Bahnstrecke; BA-Antrag Nr. 08-14 / B 04939 vom 18.06.2013; Sitzungsvorlage Nr. 14-20 / V 00365; Beschluss des Umweltausschusses vom 03.06.2014 (SB)
+- TOP 3.2.7: Sonstiges (2)
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.3.1: Bericht (3)
+- TOP 3.3.1.1.: Pilotprojekt "Essbare Stadt" - Einbindung des BA 18; Schreiben des Baureferats-Gartenbau vom 16.04.2014 (verwiesen aus der Sitzung vom 13.05.2014) zu 3.3.1.1 E-Mail des Baureferats-Gartenbau vom 15.05.2014
+- TOP 3.3.3: Anträge (3)
+- TOP 3.3.3.1.: Unterstützung des Pilotprojekts zum Konzept "Essbare Stadt" bzw. "Urban Gardening" auf dem Anwesen Sachsenstraße 2; Antrag der SPD-Fraktion vom 02.06.2014
+- TOP 3.3.3.2.: Projekt "Essbare Stadt" - Hochbeete auf Spielplätzen oder in öffentlichen Parks; Antrag der SPD-Fraktion vom 29.05.2014
+- TOP 3.3.3.3.: Mobile Pflanztröge auf dem Hans-Mielich-Platz; Antrag der SPD-Fraktion vom 29.05.2014
+- TOP 3.3.6.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Gabriel-Max-Straße 56; Bescheid vom 20.05.2014 3.3.6.1.2 Tauernstraße 30; Bescheid vom 02.05.2014
+- TOP 3.3.7: Sonstiges (3)
+- TOP 3.4: UA Soziales
+- TOP 3.4.1: Bericht (4)
+- TOP 3.4.3: Anträge (4)
+- TOP 3.4.7: Sonstiges (4)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1: Bericht (5)
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung eines mobilen Fahrradständers vom dem Anwesen Pilgersheimer Str. 62; Beschluss des BA 18 vom 17.06.2014
+- TOP 3.5.3: Anträge (5)
+- TOP 3.5.3.1.: Klinikum Harlaching - Antrag des Seniorenbeirats der LHM zum Gutachten der Boston Consulting Group (vertagt aus der Sitzung vom 13.05.2014) - <div>nach Antrag</div>
+- TOP 3.5.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Gabriel-Max-Str. 25, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID; Anhörung vom 16.05.2014
+- TOP 3.5.4.1.2.: Reginfriedstraße 2, Aufstockung (Reginfriedstraße 2 / Tegernseer Landstraße 142 + 144 / Zasingerstraße 9 - 13); Anhörung vom 21.05.2014
+- TOP 3.5.4.1.3.: Gabriel-Max-Straße 31, Rückbau des Bestandsgebäudes sowie Neubau eines Mehrfamilienhauses mit TG und eines Einfamilienhauses - VORBESCHEID; Anhörung vom 22.05.2014
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.5.1.: Hochkalterstraße 2 - 14, Fl.Nr.: 13033/0, Gemarkung Sektion VII, Aufstockung und Nachverdichtung, Neubau von 32 WE und Erweiterung der Tiefgarage; Baugenehmigung der Lokalbaukommission vom 01.04.2014 (neutrale Erledigung) und BV Hochkalterstraße 2 - 14; Baugenehmigung vom 17.01.2014; Beschluss des Verwaltungsgerichts München vom 17.04.2014 zur Kenntnis (vertagt aus der Sitzung vom 13.05.2014
+- TOP 3.5.5.2.: A) Die LHM wird aufgefordert, das Anwesen Armanspergstraße 3 nicht zu veräußern. B) Die LHM wird aufgefordert, auf dem Grundstück einen Kindergarten/eine Kinderkrippe zu errichten, bzw. das Objekt an einen Träger zu vermieten/verpachten. C) Die LHM wird aufgefordert, eine Vergleichsberechnung über einen Zeitraum von 25 Jahren vorzulegen, mit der die Kosten für die Bezuschussung einer von einem freien Träger errichteten Kinderkrippe auf einem fremden Grundstück und die Kosten einer im Eigentum der LHM stehenden Kinderkrippe im Bestandsgebäude an diesem Standort verglichen werden;BA-Antrag Nr. 08-14 / B 05533 vom 21.01.2014; Zwischennachricht des Sozialreferats vom 03.04.2014 (vertagt aus den Sitzungen vom 15.04.14 und 13.05.14) zu 3.5.5.2 Sachstandsinformation durch das Sozialreferat - Stiftungsverwaltung vom 14.05.2014
+- TOP 3.5.5.3.: Pilgersheimer Straße 8; Vorkaufsrecht nach dem BauGB; Unterrichtung der Bezirksausschüsse; Nachfrage des BA 18 aus der April-Sitzung; Antwortschreiben des Kommunalreferats vom 08.05.2014 (neutrale Erledigung)
+- TOP 3.5.5.4.: Entwicklung der GFZ in Harlaching in den letzten zehn Jahren; BA-Antrag Nr. 08-14 / B 05647 vom 18.02.2014; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 07.05.2014 (negative Erledigung)
+- TOP 3.5.5.5.: Sanierung der Bezirkssportanlage an der Agilolfingerstraße; BA-Antrag Nr. 08-14 / B 05778 vom 18.03.2014; Antwortschreiben des RBS vom 07.05.2014 (neutrale Erledigung)
+- TOP 3.5.5.6.: OSRAM-Gelände: ExpertInnen der Sozialen Stadt einbinden; BA-Antrag Nr. 08-14 / B 05534 vom 21.01.2014; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 05.05.2014 (neutrale Erledigung)
+- TOP 3.5.5.7.: OSRAM-Gelände - Berücksichtigung des Baus von geeigneten Sporthallen; BA-Antrag Nr. 08-14 / B 05535 vom 21.01.2014; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 05.05.2014 (negative Erledigung)
+- TOP 3.5.5.8.: Osram-Gelände - Kauf eines Bereichs durch die LHM und Errichtung eines Schulstandortes für den 18. Stadtbezirk; BA-Antrag Nr. 08-14 / B 05538 vom 21.01.2014; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 05.05.2014 (negative Erledigung)
+- TOP 3.5.5.9.: 3.5.5.7 Verkauf des Osram-Geländes am Mittleren Ring, Hellabrunner Straße; Schreiben des Kath. Stadtpfarramtes St. Franziskus; Abdruck des Antwortschreibens des ehemaligen Oberbürgermeisters Ude vom 02.04.2014 (neutrale Erledigung)
+- TOP 3.5.5.10.: 3.5.5.8 Heimag-Siedlung an der Säbener Straße - Lebenslanges Wohnrecht für Mieter über sechzig Jahren / mit Behinderung; BA-Antrag Nr. 08-14 / B 05785 vom 18.03.2014; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 22.05.2014 (negative Erledigung)
+- TOP 3.5.5.11.: 3.5.5.9 Tischtennisplatten am Hans-Mielich-Platz; entsprechende Umwidmung der Fläche; Zusatzantrag des BA 18 zu BA-Antrag Nr. 08-14 / B 05459 vom 17.12.2013; BA-Antrag Nr. 08-14 / B 05779 vom 18.03.2014; Antwortschreiben des Baureferats-Gartenbau vom 20.05.2014 (negative Erledigung)
+- TOP 3.5.5.12.: 3.5.5.10 Unterstützung des Naturkindergartens am Flaucher bei der Standortsuche; BA-Antrag Nr. 08-14 / B 05370 vom 19.11.2013; Antwortschreiben des RBS vom 20.05.2014 (positive Erledigung)
+- TOP 3.5.6.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.6.2.: Gaststätten (unveränderte Forführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Fiedler & Fuchs", Voßstraße; Mitteilung vom 20.05.2014
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen in der Isenschmidstraße; Mitteilung vom 02.05.2014
+- TOP 3.5.6.4.: TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen; Stadtratsantrag Nr. 08-14 / A 03997 vom 25.01.2013; Sitzungsvorlagen Nr. 14-20 / V 00161; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.06.2014
+- TOP 3.5.6.5.: Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzepts für das Quartierszentrum Trudering (ISEK) a) Flächensparende Gewerbeansiedlungen; Stadtratsantrag Nr. 08-14 / A 04170 vom 12.04.2013 b) Moderierte Gesprächsrunde zum Bebauungsplan Nr. 913 - Bereich Schmuckerweg, Truderinger Straße, Bognerhofweg, Bahnlinie; BA-Antrag Nr. 08-14 / B 05263 des BA 15 com 19.09.2013; Sitzungsvorlagen Nr. 14-20 / V 00078; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.06.2014
+- TOP 3.5.6.6.: Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens; BÜV-Empfehlung Nr. 08-14 / E 01818 der BÜV des Stadtbezirkes 08 - Schwanthalerhöhe am 13.06.2014; Sitzungsvorlagen Nr. 14-20 / V 00096; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.06.2014
+- TOP 3.5.6.7.: Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz; Empfehlung Nr. 08-14 / E 02006 der BÜV des Stadtbezirkes 03 - Maxvorstadt am 17.10.2013; Sitzungsvorlagen Nr. 14-20 / V 00157; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.06.2014
+- TOP 3.5.6.8.: Neufassung der Sondernutzungsrichtlinien; hier: Änderungen in den Freischankflächenrichtlinien; Information des KVR
+- TOP 3.5.7: Sonstiges (5)
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.1: Bericht (6)
+- TOP 3.6.3: Anträge (6)
+- TOP 3.6.4.1.: Veranstaltung im Freien auf Privatgrund / in einer städtischen Grünanlage; hier: Ecke Harthauser Straße / Aufstellen einer Hüpfburg in einer Grünanlage anlässlich des Kinderfestes im Biergarten Menterschwaige; Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.06.2014
+- TOP 3.6.5.1.: Anfrage zum Public Viewing auf dem Candidplatz; ablehnende Stellungnahme des Kommunalreferats vom 27.05.2014
+- TOP 3.6.7: Sonstiges (6)
+- TOP 4: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Ausländer /-innen
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen (1)
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen (2)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen (3)
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 2: (E) Bauvorhaben Grünwalder Straße 190 im 18. Stadtbezirk a) Erhalt der bestehenden Gebäudesubstanz und Erhalt des Gartenstadtcharakters Empfehlung Nr. 08-14 / E 02072 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 14.11.2013 b) Überprüfung des erteilten Vorbescheides durch die Oberste Baubehörde BA-Antrags-Nr. 08-14 / B 05461 des Bezirksausschusses des Stadtbezirkes 18 - Untergiesing-Harlaching vom 17.12.2013 (ED 19.12.2013)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen (3)
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen (4)
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen (4)
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen (5)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
