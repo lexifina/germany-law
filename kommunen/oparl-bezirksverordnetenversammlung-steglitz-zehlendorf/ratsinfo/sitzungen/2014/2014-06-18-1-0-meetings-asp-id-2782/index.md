@@ -1,0 +1,77 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-06-18T17:00:00+02:00
+- Ende: 2014-06-18T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2782
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2782
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Entwurfsplanung für den Dorfanger Zehlendorf - beantwortet
+- TOP 3.2: Sachstand zur aktuellen Planung für den Bierpinsel? - beantwortet
+- TOP 3.3: Realistische Zahlen für das Neubaugebiet in der Curtiusstraße - beantwortet
+- TOP 3.4: Fördermittel aus dem Wohnungsbauförderprogramm des Landes Berlin - beantwortet
+- TOP 3.5: US-Konsulat - beantwortet
+- TOP 3.6: Wasser für Steglitz-Zehlendorf! - beantwortet
+- TOP 3.7: Trockene Springbrunnen im Bezirk? - schriftlich beantwortet
+- TOP 3.8: Wann wird der Schildbürgerstreich in der Bäkestraße beendet? - schriftlich beantwortet
+- TOP 3.9: Renovierung Kassenhäuschen Sportplatz Wannsee - schriftlich beantwortet
+- TOP 3.10: Warum sind am U-Bahnhof Onkel Toms Hütte die zusätzlichen Fahrradständer wieder abgebaut worden? - schriftlich beantwortet
+- TOP 3.11: Spielplatz im Schönower Park mit mehr Müllbehältern ausstatten? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für den Mittelhof e.V. - Nachbarschaftshaus Lilienthal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Sondermittel der BVV für den DLRG Landesverband Berlin e.V. - Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan 6-15 - Curtiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Bus-Anbindung für neue Wohneinheiten am Platz des 4. Juli verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Bau eines S-Bahnhofes am Kamenzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Leitfaden für Einwohneranträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Nachhaltige Ausschusssitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Rechtzeitige Information zu geplanten Heckenrodungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Bordsteinabsenkungen im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Einzelhandel am Hindenburgdamm stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Parken in der Königstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Regenrückhalteteich an der Osdorfer Straße/Fahrenheitstraße "entmüllen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: UNESCO-Weltkulturerbe verfällt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Brücken sanieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Fußgänger schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Gedenkveranstaltung zum 25. Jahrestag der Deutschen Einheit am 3. Oktober 2015 auf der Dorfaue Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Ausreichende Abstellmöglichkeiten für Fahrräder am S-Bahnhof Feuerbachstraße schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Lichtzeichenanlage für Potsdamer Straße / Fürstenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Sommergartenhaus Königsweg 326, Berlin-Wannsee, unter Denkmalschutz stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Tempo 30 auf Durchgangsstraße am Platz des 4. Juli - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Nutzungskonkretisierung Platz des 4. Juli - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Ungehinderte öffentliche Durchwegung der "Grünen Mitte" auf dem "Parks Range"-Gelände in Lichterfelde-Süd - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: BImA zum Erhalt von Wohnraum in öffentlicher Hand verpflichten - überwiesen
+- TOP 5.2.2: Parkraum in Südende nicht ohne Not verkleinern! - überwiesen
+- TOP 5.2.3: Geförderter Wohnungsbau auch für die Parks-Range - überwiesen
+- TOP 5.2.4: Familienförderzentren - überwiesen
+- TOP 5.2.5: Bushaltestelle am Wolfensteindamm effektiver nutzen - überwiesen
+- TOP 5.2.6: Sichere Überquerung des Hindenburgdamms ermöglichen - überwiesen
+- TOP 5.2.7: Beratung über Schul- und Bildungsabschlüsse für Flüchtlingsfamilien - überwiesen
+- TOP 5.2.8: Verkehrssicherheit in der Rothenburgstraße herstellen - überwiesen
+- TOP 5.2.9: Müllbelastung verringern - überwiesen
+- TOP 5.2.10: Verkehrssicherheit in Südende erhöhen - Fahrzeugschäden vermeiden! - überwiesen
+- TOP 5.2.11: Umstellung der DAISY-Anzeigen - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Arbeit ohne Personal? - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Pilotprojekt "Coffeeshops einrichten" - in der BVV abgelehnt
+- TOP 7.2: Ausschuss für Geschäftsordnung um Zuständigkeit Bürgerbeteiligung erweitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Baumdreieck zur Wiedervereinigung würdigen - in der BVV abgelehnt
+- TOP 8: Schlusswort des Vorstehers - erledigt
