@@ -1,0 +1,77 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-06-18T17:00:00+02:00
+- Ende: 2014-06-18T19:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3386
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3386
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=77663
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 31. Sitzung der BVV am 18.06.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 31. Sitzung der BVV am 18.06.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 31. Sitzung der BVV am 18.06.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Einrichtung eines Shuttle-Service für das Strandbad Tegeler See (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Fußgängersicherheit in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: S-Bahnhof Tegel am Tegel-Center ausschildern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Kampagne "Kein Raum für Missbrauch" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Handlauf am Eingang des S-Bahnhofs Hermsdorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Schutzstreifen Hennigsdorfer Straße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: S-Bahnhof Wittenau - Haltepunkt 6-Wagenzüge Richtung Süden verlegen! (Zwischenbericht) - überwiesen
+- TOP 7.8: Smiley-System auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Inklusive Modellschule Standort Lauterbach - Sonderpädagogische Kompetenz in der Schulleitung sichern - überwiesen
+- TOP 7.10: Ständig besetzte U-Bahnhöfe mit Servicekräften auch in Reinickendorf! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Sicherer Schulweg für Heiligenseer Schüler 1 (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: Geschwindigkeitskontrollen 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Geschwindigkeitskontrollen 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan XX-240b-2 für das Grundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee. - überwiesen
+- TOP 7.15: Mülleimer im Waldidyll - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Externe Evaluation für die Gemeinschaftsschule durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - beantwortet
+- TOP 8.1.1: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - überwiesen
+- TOP 8.1.2: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - überwiesen
+- TOP 8.1.3: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitglieds in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Carsharing-Parkplätze im Bezirk ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Zebrastreifen an der Einmündung Waidmannsluster Damm / Dianastraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sportangebote für Flüchtlinge im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Beitritt Berliner Charta für die Verkehrssicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Lieferverkehr am Waidmannsluster Damm - Rückstau vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: "Mobiles Learning Center" auch nach Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Abfahrtszeiten anzeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Keine Rücknahme der Verkehrseinschränkungen in der Straße Alt-Lübars zwischen Quickborner Straße und Zabel-Krüger-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Ferienwohnungen regulieren - überwiesen
+- TOP 12.2: Regelmäßiger Bericht über den Bau von Fußgängerüberwegen und Querungshilfen! - überwiesen
+- TOP 12.3: Schule nach Elisabeth Selbert benennen - überwiesen
+- TOP 12.4: Beleuchtung am Mittelfeldbecken verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Schlaglochsanierung Heiligensee - überwiesen
+- TOP 12.6: Koordinierungstreffen der Bezirke wahrnehmen - überwiesen
+- TOP 12.7: Steganlage sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Zusammenarbeit mit OSZ Bau - überwiesen
+- TOP 12.9: Familienhebammen Projekt "NordStern" - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Mehr Helligkeit für Sicherheit - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Verkehrssicherheit auf der Heiligenseestraße - überwiesen
+- TOP 13.3: Ampelschaltung an der Karolinenstraße/Waidmannsluster Damm überprüfen - überwiesen
+- TOP 13.4: Fahrradständer in der Rollberge-Siedlung - mit Änderungen in der BVV beschlossen
+- TOP 13.5: Transparente und verlässliche Verwaltung des Bildungs- und Teilhabepakets - überwiesen
+- TOP 13.6: TXL-Flugbewegungen über die Gebührenordnung steuern - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Horte an Förderzentren in Reinickendorf einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Tageskostenbeteiligung - ohne Änderungen in der BVV beschlossen
