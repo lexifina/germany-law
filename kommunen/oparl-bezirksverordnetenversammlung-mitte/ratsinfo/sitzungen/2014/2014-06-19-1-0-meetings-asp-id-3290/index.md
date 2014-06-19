@@ -1,0 +1,158 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2014-06-19T17:40:00+02:00
+- Ende: 2014-06-19T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3290
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3290
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=116146
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Rot-schwarze Halb(wert)zeit in Mitte - Halbzeit einer Extremismusklauselabsicht in Mitte II hier: Nachfrage zur Beantwortung der Mündlichen Anfrage DS 1462/IV aus der BVV vom 22.05.2014 - beantwortet
+- TOP 5.2: Exklusivrechte für MEINFERNBUS.de oder offen für alle? - beantwortet
+- TOP 5.3: Notunterkunft Levetzowstraße - beantwortet
+- TOP 5.4: Geförderte Beschäftigung in Mitte - beantwortet
+- TOP 5.5: Bestand von Sozialwohnungen - schriftlich beantwortet
+- TOP 5.6: Perspektive der Sporthalle am Standort des ehemaligen Diesterweg-Gymnasiums - schriftlich beantwortet
+- TOP 5.7: Aktueller Stand Baumaßnahme Schwedter Straße/Kastanienallee? - schriftlich beantwortet
+- TOP 5.8: Fertigstellung von Kreuzungsbereichen in Moabit - schriftlich beantwortet
+- TOP 5.9: Alle Jahre wieder: Interessenkonflikte zwischen Anwohnerschaft und Gastronomiebetrieb vor dem Rathaus Mitte in der Schillingstraße - muss das sein? - schriftlich beantwortet
+- TOP 5.10: Trans* in Arbeit in Mitte - schriftlich beantwortet
+- TOP 5.11: Turmstraßenfest 2014 - Stand der Vorbereitungen - schriftlich beantwortet
+- TOP 5.12: Runder Tisch kommunale Arbeit mit und für ältere Migrantinnen - schriftlich beantwortet
+- TOP 5.13: Ausstattung von Haltestellen - schriftlich beantwortet
+- TOP 5.14: Eco-Mobility-Festivals - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bezirksbürgermeister von Mitte im Kuratorium Berliner Mitte - beantwortet
+- TOP 7.2: Aktueller Verfahrensstand Schultheiss-Areal? - beantwortet
+- TOP 7.3: Verkehrssicherheit für Fußgänger an der Kreuzung Leipziger Straße / Ecke Wilhelmstraße - beantwortet
+- TOP 7.4: Ungebremst und ungesteuert - Personalabbau in Mitte - beantwortet
+- TOP 7.5: Lehren aus dem Volksentscheid - beantwortet
+- TOP 7.6: Seydlitzstraße - Baden noch möglich? - schriftlich beantwortet
+- TOP 7.7: Bündnis für soziale Wohnungspolitik und bezahlbare Mieten - schriftlich beantwortet
+- TOP 7.8: Zweckentfremdung von Wohnraum durch den Bezirk Mitte von Berlin - schriftlich beantwortet
+- TOP 7.9: Grillen im Monbijoupark - wer achtet auf die Regeln? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf 1-47 (Bayer) sowie Entscheidung über den Entwurf der Rechtsver-ordnung zur Festsetzung des Bebauungsplanentwurfes 1-47 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: vorhabenbezogener Bebauungsplanentwurf 1-89VE (Lützowplatz) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-89VE - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Wahl eines Mitglieds im Vorstand der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Schulentwicklungsplan für den Bezirk Mitte von Berlin für die Schuljahre 2014/15 bis 2019/20 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Funktionsfähigkeit des Jugendclubs Badstraße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Ehem. Diesterweg-Gymnasium (Swinemünder Straße 80 und Putbusser Straße 12): Erbbaurecht statt Ausverkauf - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Veränderungssperre Alexanderplatz - zurückgezogen
+- TOP 11.4: Jugend-BVV sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Finanzierung Milieuschutzuntersuchungen gewährleisten und BVV-Beschluss DS 0990/IV umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Rücklagen der Schulen mit den Schulen besprechen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Ausstellung über Karl Heinrich Ulrichs zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Integrationspreis 2014 - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Benennung des Rathausvorplatzes Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Spielplatz Lübecker Straße 20: Spielplatzkonzept "Unterwasserwelt" umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Wochenmarkt am Hausvogteiplatz - Interessenausgleich anstreben! - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: 22 minus plus X Prozent Rabatt für Frauen in Berlin am Equal Pay Day - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Anonymisierte Bewerbungsverfahren im Bezirk Mitte durchführen - Beteiligung am Pilotprojekt der Senatsintegrationsverwaltung - überwiesen
+- TOP 12.3: Schönerer Tunnel - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bäume für die Friedrichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Geschichte des Bezirks Mitte und seiner Bezirksverordnetenversammlung sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erhalt der Ehrengräber für Carl Leid und Fritz Schloß - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Interkulturelle Organisationsentwicklung des Bezirksamtes in die Zielvereinbarung aufnehmen - überwiesen
+- TOP 12.8: Pferdefuhrwerke am Brandenburger Tor - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Planungsrecht für soziale Wohnraumförderung - überwiesen
+- TOP 12.10: Modernes Familienbild für Freibad Plötzensee - überwiesen
+- TOP 12.11: Mehr Bänke in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Gewerbetreibende bei der Umgestaltung des Markthallenumfelds begleiten und unterstützen - überwiesen
+- TOP 12.13: Übergänge der Anna-Lindh-Grundschule in der Guineastraße 17-18 - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Benennung von Räumen in der Bezirksverwaltung - vertagt
+- TOP 12.15: Arbeitsplätze erhalten, Nachfrage bedienen - Sicherheit für den Ökomarkt an der Thusnelda-Allee - vertagt
+- TOP 12.16: Überprüfbare Projektziele bei Projetträgern innerhalb des Programms Soziale Stadt einfordern - überwiesen
+- TOP 12.17: Netzwerk für Asylbewerberinnen und Asylbewerber - vertagt
+- TOP 12.18: Ausreichend Müll-Container in den Weinbergspark - vertagt
+- TOP 12.19: Zweckentfremdung in Mitte bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Mehr Kulturelles Angebot in der Ruine - vertagt
+- TOP 12.21: Schulentwicklungsplanung (SEP) formal sowie inhaltlich weiterentwickeln und Inklusion voranbringen - überwiesen
+- TOP 12.22: Kunst im öffentlichen Raum auch öffentlich machen - vertagt
+- TOP 12.23: Umgang mit unterausgelasteten Schulstandorten: beteiligend und transparent - überwiesen
+- TOP 12.24: Verkehr im Romantikkiez - überwiesen
+- TOP 12.25: Grundstücksverkäufe BIMA Londoner Straße 30 und Themsestraße 1, 3, 4, 6, 8 und 10 - vertagt
+- TOP 12.26: Fehlende Straßenbäume und Möglichkeiten zur Baumpatenschaft online veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Mehr Personal für die Bekämpfung von Wohnraumzweckentfremdung - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: E-Mobility im Bezirk(samt) immer mitdenken! - mit Änderungen in der BVV beschlossen
+- TOP 12.29: Parken von Elektro-Fahrzeugen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Der Alexanderplatz - ein Platz der Begegnung & Vielfalt, ein Platz für alle! - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Sicherheit am Bolzplatz Leopoldplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.32: Antworten auf Anfragen der Bezirksverordnetenversammlung in offenem Dateiformat übergeben - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Friedhof für Haustiere in Berlin-Mitte? - überwiesen
+- TOP 12.34: Sportinitiative für Flüchtlinge in Berlin-Mitte - überwiesen
+- TOP 12.35: Informationstafeln über Sportvereine an Sportstätten - überwiesen
+- TOP 12.36: Öffentliche Würdigung behinderter SportlerInnen im Bezirk Mitte - überwiesen
+- TOP 12.37: 70 Jahre Tag der Befreiung vom Nationalsozialismus angemessen würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.38: Berufsvorbereitungs- und Ausbildungsangebot für Flüchtlinge - überwiesen
+- TOP 12.39: Ausstellung "Gegen die Regeln - Lesben und Schwule im Sport" - ohne Änderungen in der BVV beschlossen
+- TOP 12.40: Willkommens - Zentrum Berlin, Service-Punkt-Integration - vertagt
+- TOP 12.41: Fairtrade-Fotoausstellung und die Fairtrade-Botschafterausstellung nach Mitte holen - vertagt
+- TOP 12.42: Weltweit für Kinderrechte - Weltweit gegen Kinderarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Energieverbrauch an Schulen senken - Können wir so Geld für die Schulen gewinnen? (5) - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Benennung des Vorplatzes des Rathauses Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Fußgängerzone am Checkpoint-Charlie - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Fällung von Straßenbäumen vor Ort ausgleichen - vertagt
+- TOP 15.5: Fernbushaltestelle am Alexanderplatz ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.6: Schluss mit dem Betrieb der Buden am Checkpoint Charlie! - vertagt
+- TOP 15.7: Ausnahmen und Befreiungen von Festlegungen in Bebauungsplänen transparent machen - vertagt
+- TOP 15.8: Sauberkeit auf dem öffentlichen Spielplatz Stralsunder Straße / Strelitzer Straße (neben Gustav-Falke-Schule) durch regelmäßige Kontrollen fördern! - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Fachtagung Jugendberufsagenturen im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Jugendsozialarbeit erweitern! - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Bericht über die Gerichtsverfahren des Bezirksamts Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.12: Weddinger Knallmysterium aufklären - vertagt
+- TOP 15.13: Alternativen zum Mietspiegel prüfen und angespannten Wohnungsmarkt feststellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Preiswert Wohnen im ehemaligen Gymnasium, Schaffung eines soziokulturellen Zentrums in Wedding – Beschluss der BVV mit Vorrang umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Planungssicherheit Märchenhütte - vertagt
+- TOP 16.2: Eine Sporthalle für das Lessing-Gymnasium - vertagt
+- TOP 16.3: Blindenleitsystem in den Gebäuden des Bezirksamtes - vertagt
+- TOP 16.4: Neuplanungen ehem. Schultheiss-Areal Turmstraße: Unterrichtung der Einwohnerschaft gemäß § 41 Bezirksverwaltungsgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: aktuell: Neueinstellungen im 2. Quartal 2014 (Untersetzung der Abbauvorgabe Vollzeitäquivalente (VZÄ) für den Zeitraum 2012 bis 2016) - vertagt
+- TOP 16.6: Mittes Wohngebiete schützen - Planungsrechtliche bezirkliche Einfluss-nahme gegen Verdrängungstendenzen umsetzen - vertagt
+- TOP 16.7: Anschaffung umweltfreundlicher Fahrzeuge mit Elektroantrieb für das BA - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.8: "Nutzung der VZÄ-Steuerungsreserve" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.9: Moabit hilft": Flüchtlinge in der Notunterkunft im ehemaligen Vermessungsamt Alt-Moabit über den Sport integrieren - vertagt
+- TOP 16.10: Sport und Natur im Volkspark Rehberge nachhaltig sichern und entwickeln - vertagt
+- TOP 16.11: Keinerlei Unterschiede beim Gedenken an den Widerstand gegen den Nationalsozialismus und dessen Menschenverachtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Genehmigungen für Veranstaltungen auf dem Nettelbeckplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Bebauungsplanes 1-67 (Lehrter Straße, Mittelbereich): Erarbeitung eines städtebaulichen Vertrages im Rahmen der Bearbeitung des Bebauungsplanentwurfes - vertagt
+- TOP 16.14: Freihaltung der Bebauung auf den Grundstücken Köpenicker Straße 133-138 - vertagt
+- TOP 16.15: Beteiligung der Bezirke an der Reform der Berliner Bäderbetriebe - vertagt
+- TOP 16.16: Transparente Bürgerbeteiligung in dem QM-Gebieten durch öffentliche Quartiersratsprotokolle / -entscheidungen ermöglichen - vertagt
+- TOP 16.17: Benennung des Platzes zwischen Schiller-Bibliothek und ehemaligem Rathaus Wedding - vertagt
+- TOP 16.18: Preiswert Wohnen im ehemaligen Gymnasium, Schaffung eines soziokulturellen Zentrums in Wedding - vertagt
+- TOP 16.19: Energiesparen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Ehrenamtliche SprachmittlerInnen in Kindertagesstätten und Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Intracting im Bezirksamt prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Europabericht 2014 - vertagt
+- TOP 16.23: Historische Markthalle ins rechte Licht rücken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.24: Ausschilderungen für das Schwule Museum* - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.25: Kommunales Vorkaufsrecht zur Schaffung von preiswertem Wohnraum? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Wohnungsbaupotentiale in Moabit-Nord - vertagt
+- TOP 16.27: Geschäftsordnung des Beirates für Migration, Inklusion und Partizipation - Migrationsbeirat - beim Bezirksamt Mitte von Berlin - vertagt
+- TOP 16.28: Beschluss über die Neueinleitung des vorhabenbezogenen Bebauungsplanentwurf II-125-1VE "Kurfürstenzentrum" und über die Fortführung des Verfahrens mit der erneuten Durchführung der Behördenbeteiligung sowie der erneuten öffentlichen Auslegung gem. §4a Abs. 3 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Beschluss über das Ergebnis der erneuten Beteiligung der Behörden gem. § 4 a Abs. 3 i. V. m. § 4 Abs. 2 BauGB und der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 2 BauGB des Bebauungsplansentwurfs 1-65B (östlich Nettelbeckplatz) für eine Teilfläche des Geländes zwischen Reinickendorfer Straße, Pankstraße, der Panke und Gerichtstraße im Bezirk Mitte, Ortsteil Gesundbrunnen, die Änderung des Geltungsbereiches des Bebauungsplanes 1-65B (östlich Nettelbeckplatz) und die erneute Beteiligung (...) - mit Abschlussbericht zur Kenntnis genommen
