@@ -1,0 +1,53 @@
+# 69. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-06-19T16:00:00+02:00
+- Ende: 2014-06-19T22:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3369
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3369
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_06_10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00172641.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: 5. Einwohnerinnen- und Einwohnerfragestunde
+- TOP 2.1: 88. Grundschule Hosterwitz - erledigt
+- TOP 2.2: Bauvorhaben Nr. 3000, Bau eines P&R Parkplatzes in Bühlau - erledigt
+- TOP 2.3: Gymnasium Dresden Cotta - erledigt
+- TOP 2.4: Turnhalle 120. Grundschule - erledigt
+- TOP 2.5: Kleingartenanlage Zschernitzerhöhe - erledigt
+- TOP 2.6: Rechtselbischer Elbradweg zwischen Saloppe und Schloss Pillnitz - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: "Erinnerung vielfältig gestalten" - Erinnerungskulturelle Grundlagen der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 5: Planung und Sanierung Gerokstraße - Ablehnung
+- TOP 6: Einrichtung einer Ombudsstelle für ALG-II-Beziehende - Ablehnung
+- TOP 7: Sicherung der Mobilität im ÖPNV für Einwohnerinnen und Einwohner mit geringem Einkom-men durch Abfederung der jährlichen Tarifsteigerungen für den ÖPNV durch stetige Anpas-sung der Rabattstufen im Sozialtarif - Zustimmung
+- TOP 8: Gleiche Chancen für alle – Einführung anonymisierter Bewerbungsverfahren in der Stadtverwaltung - Vertagung
+- TOP 9: Entfristung der nicht zweckgebundenen Bundesmittel im Rahmen des Bildungs- und Teilhabepaketes - Ablehnung
+- TOP 10: Pavillon auf dem Postplatz - Konzept für neue Nutzung der "Käseglocke" - Ersetzung
+- TOP 11: Förderung des Baus von selbst genutztem Wohnraum durch Bauherrengemeinschaften - Zustimmung mit Änderung
+- TOP 12: Veränderung des Sondervermögens des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 13: 91. Bachfest 2016 in Dresden - Zustimmung
+- TOP 14: Öffentlichkeit von Sitzungen des Seniorenbeirates der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Evaluierung der privatisierten Dresdner Kultureinrichtungen - Zustimmung mit Änderung
+- TOP 16: Erhalt des Denkmals ‚Neue Mensa‘ Bergstraße - zurückgezogen
+- TOP 17: Nutzergerechte Bushaltestellen an den Dresdner Fernbahnhöfen - punktweise Zustimmung mit Änderung
+- TOP 18: Standort Bayrische Straße zum Fernbusbahnhof ausbauen - Zustimmung mit Änderung
+- TOP 19: Erhöhung des Förderetats zur Förderung der Träger der freien Jugendhilfe im Bereich der fachlich befürworteten Personalstellen zu 100 Prozent - Vertagung
+- TOP 20: Annahme und Verwendung von eingegangenen Spenden für die Organisationseinheiten in der Landeshauptstadt Dresden im I. Quartal 2014 - Zustimmung
+- TOP 21: Brandschutzbedarfsplan der Landeshauptstadt Dresden 2014 - Zustimmung
+- TOP 22: Verkehrsbaumaßnahme „Haltestelle Liststraße/Großenhainer Straße mit Gleisdreieck Harkortstraße“ - Zustimmung
+- TOP 23: Vorhabenbezogener Bebauungsplan Nr. 6015, Dresden-Neustadt, Hofquartier Bautzner Straße - Zustimmung
+- TOP 24: Konzept zur Verwendung der Gagfah-Mittel für soziale Projekte - Vertagung
+- TOP 25: Wiederbelebung des Dresdner Fernsehturms - Vertagung
+- TOP 26: Dresdner Fernsehturm als Kulturdenkmal erhalten, als Wahrzeichen beleben und für die Öffentlichkeit wieder erschließen - Vertagung
+- TOP 27: Schaffung von barrierefreiem Wohnraum - Vertagung
+- TOP 28: Stadtratsbeschluss umsetzen, Mietsteigerungen bremsen! - Vertagung
+- TOP 29: Historische Gaslaternengebiete: Sofortprogramm zur Instandhaltung des technischen Kulturdenkmals - Ausleuchtung und Zustand der Fußwege verbessern - Vertagung
+- TOP 30: „Karlsbrücke“ für Dresden - Verkehrsberuhigung Augustusbrücke und Sophienstraße - Vertagung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Evaluation der Schulnetzplanung - zur Kenntnis genommen
