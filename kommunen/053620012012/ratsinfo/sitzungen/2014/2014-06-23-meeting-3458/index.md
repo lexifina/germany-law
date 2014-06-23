@@ -1,0 +1,70 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-06-23T18:00:00+02:00
+- Ende: 2014-06-23T19:45:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaZqK4KnCgz6ApNilMpVWug
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3458
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPnkxOE8R4yF7VzjGkdLkP5Ne57UVSB8m3SyJLHEEjA/Bekanntmachung_Rat_23.06.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdkTjtLevxXarMj-3Vp8vk_2ahqIvSHtcaKQAxHU7ZWD/Oeffentliche_Niederschrift_Rat_23.06.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Verpflichtung und Einführung der Ratsmitglieder - (kein Text vorhanden)
+- TOP 2.: Wahl ehrenamtlicher Stellvertreter/innen des Bürgermeisters 1. Festlegung der Anzahl 2. Wahl - (kein Text vorhanden)
+- TOP 3.: Verpflichtung und Einführung der ehrenamtlichen Stellvertreter/innen des Bürgermeisters
+- TOP 4.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 5.: Niederschrift vom 24.03.2014
+- TOP 6.: Bildung von Ausschüssen - (kein Text vorhanden)
+- TOP 7.: Größe und Zusammensetzung der Ausschüsse - (kein Text vorhanden)
+- TOP 8.: Zuteilung der Ausschussvorsitze
+- TOP 9.: Besetzung der Ausschüsse und Benennung der Ausschussvorsitzenden - (kein Text vorhanden)
+- TOP 10.: Aufgaben und Befugnisse der Ausschüsse hier: Ordnung für die Zuständigkeiten und Entscheidungsbefugnisse der Ausschüsse des Rates der Stadt Brühl - Zuständigkeitsordnung - (kein Text vorhanden)
+- TOP 11.: Bestellung der Ratsmitglieder für den Integrationsrat - (kein Text vorhanden)
+- TOP 12.: Zuwendungen an Fraktionen und Ratsmitglieder - (kein Text vorhanden)
+- TOP 13.: Bestellung von Vertretern der Stadt in besonderen Einrichtungen
+- TOP 13.1: Stadtwerke Brühl GmbH hier: Vertretung der Stadt in der Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 13.2: Stadtwerke Brühl GmbH 1. Änderung Gesellschaftsvertrag 2. Wahl der Arbeitnehmervertreter 3. Neuwahl des Aufsichtsrates - (kein Text vorhanden)
+- TOP 13.3: Gesellschaft für Bauen und Wohnen GmbH (GEBAUSIE) hier: Vertretung der Stadt in der Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 13.4: Gesellschaft für Bauen und Wohnen mbH (GEBAUSIE) 1. Änderung des Gesellschaftsvertrages 2. Neuwahl des Aufsichtsrates - (kein Text vorhanden)
+- TOP 13.5: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier:Wirtschaftsförderung Rhein-Erft-GmbH - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 13.6: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Zweckverband Volkshochschule Rhein/Erft - Verbandsversammlung - (kein Text vorhanden)
+- TOP 13.7: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Stiftung Max Ernst - Stiftungsrat - (kein Text vorhanden)
+- TOP 13.8: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Stadtbahngesellschaft Rhein/Sieg - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 13.9: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Rhein-Erft-Verkehrsgesellschaft mbH - Aufsichtsrat - (kein Text vorhanden)
+- TOP 13.10: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Radio Erft GmbH & Co. KG - Gesellschafterversammlung - (kein Text vorhanden)
+- TOP 13.11: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln - Verwaltungsrat - (kein Text vorhanden)
+- TOP 13.12: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln - Regionalbeirat Ville - (kein Text vorhanden)
+- TOP 13.13: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Zweckverband "Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur" - Verbandsversammlung - (kein Text vorhanden)
+- TOP -: Absatz
+- TOP 14.: Entwurf des Gesamtabschlusses 2011 - (kein Text vorhanden)
+- TOP 15.: Entwurf des Jahresabschlusses 2013 - (kein Text vorhanden)
+- TOP 16.: Einbringung der 1. Nachtragshaushaltssatzung für das Haushaltsjahr 2014 - (kein Text vorhanden)
+- TOP 17.: Stellenplan 2014 - Änderung - (kein Text vorhanden)
+- TOP 18.: Satzung zur Änderung der Satzung über die Regelung von Zuständigkeiten auf dem Gebiet des Denkmalschutzes - (kein Text vorhanden)
+- TOP 19.: Überplanmäßige Ausgaben
+- TOP 19.1: Netzwerktechnik Rathaus hier: Erneuerung Hardware; überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 19.2: Beschaffung Dienstwagen - Überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 20.: Verteilung der Zuschüsse für "plusKITA"-Einrichtungen und zusätzlichen Sprachförderbedarf - (kein Text vorhanden)
+- TOP 21.: Anträge
+- TOP 21.1: Sanierung der WC-Anlage der GGS Badorf Antrag der CDU-Fraktion vom 22.03.2014 - (kein Text vorhanden)
+- TOP 21.2: Anregungen und Beschwerden gemäß § 24 GO hier: Umbenennung eines Stichweges der Heinestraße Bezug: HA vom 12.5.2014 Vorlage 113/2014 - (kein Text vorhanden)
+- TOP 22.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 22.1: Kunstrasenplatz Schwadorf - (kein Text vorhanden)
+- TOP 22.2: Kunstrasenplatz Brühl-Schwadorf hier: überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 22.3: Straßenendausbau Bremer Straße, überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 23.1: Baumaßnahme Kunst- und Musikschule
+- TOP 24.: Förderaktivitäten der Kreissparkasse Köln im Jahre 2013 Bezug: Schreiben der KSK vom 22. Mai 2014
+- TOP 25.: Bericht über die 119. Sitzung des Aufsichtsrates der REVG am 05.12.2013
+- TOP 26.: Anfragen
+- TOP 26.1: Linksabbieger Schwadorf
+- TOP B): Nichtöffentliche Sitzung
+- TOP 27.: Mitteilungen
+- TOP 27.1: Termine
+- TOP 28.: Anfragen
