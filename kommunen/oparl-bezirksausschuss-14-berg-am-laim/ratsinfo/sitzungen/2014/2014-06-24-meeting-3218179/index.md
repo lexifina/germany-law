@@ -1,0 +1,73 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-06-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218179
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218179
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Errichtung eines Bolzplatzes auf der Grünanlage zwischen Bad-Kreuther-Straße und Bad-Schachener-Straße Empfehlung Nr. 08-14 / E 02220 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 10.04.2014 - <div></div>
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.1.1.: Kreuzjochstr. 5 - Nutzungsänderung eines Wohnhauses
+- TOP 3.1.1.2.: Hansjakobstr. 81 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.3.: Mühldorfstr. 20 - Errichtung eines Forschungs- und Entwicklungsgebäudes mit TG
+- TOP 3.1.3: Umwelt
+- TOP 3.2.1.: Veranstaltungen des Bürgerkreises Berg am Laim e.V. im Behrpark // Serenade am 20.06.2014 von 19:00 bis 20:30 Uhr // Theater am 12./13.07., 19./20.07., 26./27.07. von 19:30 - 22:00 Uhr // Offenes Singen im Park am 07.08.2014 von 19:00 - 20:30 Uhr //
+- TOP 3.2.2.: Artmobil der Spiellandschaft Stadt e.V. auf dem Piusplatz am 10./11.06.14 von 15 - 19 Uhr
+- TOP 3.2.3.: Siedlungssommerfest in der Maikäfersiedlung am 12.07.2014
+- TOP 3.2.4.: Heubergstraße - Einrichtung eines eingeschränkten Haltverbotes
+- TOP 3.4.1.: Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse MAG's and More e.V., Nachbarschaftstreff Maikäfersiedlung Kinderprogramm beim Sommerfest am 16.06.2012
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Initiative ?Klasse 1a/A der Grundschule an der Berg-am-Laim-Str. 142? Projekt ?Pädagogische Farm Berg am Laim? vom 01. bis 25.07.2014
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse ESV München-Ost e.V. offenes Sport- und Spielfest am 13.07.2013
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse Innere Mission München, Diakonie in München und Oberbayern e.V./Sozialdienst für Flüchtlinge Spielaktion für Kinder und Jugendliche von Asylbewerbern ab 01.08.2014
+- TOP 3.6.1.: Trainsjochstr. 3
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.2.: Hachinger-Bach-Str. 18a
+- TOP 4.1.1.1.: Unterrichtungen über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bebauungsplan mit Grünordnung Nr. 2061 - Rosenheimer Straße (nördlich), Anzinger Straße (nördlich), Aschheimer Straße (westlich), Ampfingstraße (westlich), Mühldorfstraße (südlich) und Friedenstraße (östlich), (Teiländerung der Bebauungspläne Nrn. 939, 1241; Änderung der Bebauungspläne Nrn. 822, 1259 und 1799) "Rund um den Ostbahnhof": Wohnungsbau nicht reduzieren - Antrag Nr. 08-14 / A 04256 der Stadtratsfraktion der FDP vom 16.05.2013 Vorlagen-Nr. 14-20 / V 00095
+- TOP 4.1.2.1.: TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen Antrag Nr. 08-14 / A 03997 vom 25.01.2013 - Vorlagen-Nr. 14-20 / V 00161
+- TOP 4.1.3: Umweltangelegenheiten
+- TOP 4.2.1.: Rege Bautätigkeit in Berg am Laim erfordert umfassende Verkehrsplanung Antrag Nr. 08-14 / A 04289 - Vorlagen-Nr. 14-20 / V 00164
+- TOP 4.2.2.: Information zum Fachtag "Doppelstock-S-Bahn" - Bekanntgabe - Vorl.-Nr. 14-20 / V 00163
+- TOP 4.2.3.: Radwege entlang der Neumarkter Straße und Hansjakobstraße - BA-Antrag Nr. B 05396
+- TOP 4.2.4.: Neufassung der Sondernutzungsrichtlinien - Änderungen i.d. Freischankflächenrichtlinien
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.4: Unterausschuss Soziales / Integration
+- TOP 5.1.5: Unterausschuss Budget / Organisation
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1: Bereich Planung, Bau, Wohnen, Umwelt (1)
+- TOP 3.1.1: Planungsangelegenheiten / Bauvorhaben (1)
+- TOP 3.1.2: Wohnen (1)
+- TOP 3.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (1)
+- TOP 3.3: Bereich Bildung, Betreuung, Familien und Sport (1)
+- TOP 3.4: Bereich Soziales und Integration (1)
+- TOP 3.5: Bereich Budget / Organisation (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1: Bereich Planung, Bau, Wohnen, Umwelt (2)
+- TOP 4.1.1: Planungsangelegenheiten / Bauvorhaben (2)
+- TOP 4.1.2: Wohnen (2)
+- TOP 4.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (2)
+- TOP 4.3: Bereich Bildung, Betreuung, Familien und Sport (2)
+- TOP 4.4: Bereich Soziales und Integration (2)
+- TOP 4.5: Bereich Budget / Organisation (2)
+- TOP 4.6: Baumschutz (2)
