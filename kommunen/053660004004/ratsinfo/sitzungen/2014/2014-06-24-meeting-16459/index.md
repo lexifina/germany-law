@@ -1,0 +1,51 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-06-24T17:00:00+02:00
+- Ende: 2014-06-24T18:50:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUudlbldeA3qBm26lHczBr4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/16459
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRw_YeG0yGgJyhgWjclaq_t9cttJ-RANndYvzqB9FYXW/Bekanntmachung_Rat_24.06.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIzJygg9KtEqdw26GM4mjoTUIxFBkdxxO0JrdWA8Iim/Oeffentliche_Niederschrift_Rat_24.06.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 13.05.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Einführung und Verpflichtung der Stadtverordneten und Auschussmitglieder - Beschluss
+- TOP 5.: Wahl von zwei stellvertretenden Bürgermeistern - Einstimmiger Beschluss:
+- TOP 6.: Einführung und Verpflichtung der stellvertretenden Bürgermeister - Beschluss
+- TOP 7.: Neuregelung der Bestellung der weiteren allgemeinen Vertreter des Bürgermeisters - Beschluss mit 25 Ja- zu 2-Nein-Stimmen bei 1 Enthaltung:
+- TOP 8.: Bildung und Zusammensetzung der Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 9.: Wahl der Mitglieder und ihrer Stellvertreter für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 10.: Bestimmung der Vorsitzenden und ihrer Stellvertreter für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 11.: 6. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 12.: Vertretung der Stadt Bad Münstereifel in der Verbandsversammlung der Kommunalen Datenverarbeitungszentrale (KDVZ) Frechen - Einstimmiger Beschluss:
+- TOP 13.: Bestimmung von stimmberechtigten Vertretern der Stadt Bad Münstereifel für den Nordrhein-Westfälischen Städte- und Gemeindebund (StGB NRW) - Einstimmiger Beschluss:
+- TOP 14.: Einrichtung eines Energiebeirates mit der Kreis-Energie-Versorgung Schleiden GmbH; hier: Benennung der Gremienmitglieder - Beschluss mit 27 Ja-Stimmen bei 1 Enthaltung:
+- TOP 15.: Bestellung von Vertretern/innen des Schulträgers für die Schulkonferenzen - Einstimmiger Beschluss:
+- TOP 16.: Benennung von stimmberechtigten Delegierten für die Mitgliederversammlung der Deutschen Sektion des Rates der Gemeinden Europas - Einstimmiger Beschluss:
+- TOP 17.: Gesamtabschluss 2010 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 18.: 4. Änderung des Bebauungsplanes Nr. 5a "Gewerbegebiet Bad Münstereifel-Kernstadt" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse zu den Stellungnahmen aus den Verfahren gem. § 3 Abs. 2 BauGB und § 4 Abs. 2 BauGB, Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage A der Originalniederschrift) erfolgen alle einstimmig.Beschluss mit 24 Ja- zu 3 Nein-Stimmen bei 1 Enthaltung:
+- TOP -: 4. Änderung des Bebauungsplanes Nr. 5a "Gewerbegebiet Bad Münstereifel-Kernstadt" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse zu den Stellungnahmen aus den Verfahren gem. § 3 Abs. 2 BauGB und § 4 Abs. 2 BauGB, Satzungsbeschluss - Beschluss
+- TOP 19.: Aufstellung der alten DB-Signalanlage "LO 57" am Bahnhof in Arloff
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: Vertretung der Stadt Bad Münstereifel in der Delegiertenversammlung des Erftverbandes in der Mitgliedergruppe 3 - Städte und Gemeinden - - Beschluss
+- TOP 20.2: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das 2. Halbjahr 2014 - Beschluss
+- TOP 20.3: Partnerschaftstreffen vom 11.-15.09.2014 in Bad Münstereifel - Gastgeber dringend gesucht
+- TOP 20.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Sanierung Technikkeller eifelbad hier: Auftragserweiterung Lastenaufzug - Beschluss mit 26 Ja-Stimmen bei 2 Enthaltungen:
+- TOP 2.: Sanierung Technikkeller eifelbad hier: Auftragsvergabe Mängelbeseitigung Badewassersteuerung - Beschluss mit 24 Ja-Stimmen bei 4 Enthaltungen:
+- TOP 3.: Sanierung Technikkeller eifelbad hier: Auftragsvergabe Sanierungsarbeiten Schwallwasserbecken - Beschluss mit 26 Ja-Stimmen bei 2 Enthaltungen:
+- TOP 4.: Betreiberverein Mehrzweckhalle Arloff-Kirspenich; hier: Antrag auf Erlass städtischer Forderungen vom 02.06.2014 - Beschluss mit 24 Ja- zu 1 Nein-Stimme bei 1 Enthaltung:
+- TOP 5.: Vergabe der Lehr- und Lernmittel für das Schuljahr 2014/2015 nach dem Lernmittelfreiheitsgesetz; hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Zusätzliche Sitzung des Rates am 01.07.2014
+- TOP 6.2: Gruppenfoto für das Stadtarchiv
