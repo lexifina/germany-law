@@ -1,0 +1,85 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-06-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3327711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3327711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 09.07.2014 - <div>nach Antrag</div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse koop e.V. ISARSPRUDEL im August 2014 - <div>nach Antrag</div>
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 1: (E) Bordeauxplatz: Aufstellung von Abfallbehältern mit Deckel (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 02160 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 16.01.2014
+- TOP 2: (E) Zusätzliche Sitzbänke aus Holz an der Ostseite des Tassiloplatzes Empfehlung Nr. 08-14 / E 02174 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 23.01.2014
+- TOP 2.3.: (E) Kein Neubau eines Forschungszentrums auf dem Gelände des Krankenhauses Rechts der Isar im Bereich Troger- / Einsteinstraße: Keine Geruchsbelästigung durch Tierhaltung; Suche nach alternativen Forschungsmethoden zu Tierversuchen Empfehlung Nr. 08-14 / E 02162 der Bürgerversammlung des Stadtbezirkes 05 ? Au-Haidhausen ? Bezirksteil Haidhausen am 16.01.2014 - <div>nach Antrag</div>
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Taubenfütterung am Orleansplatz unterbinden - Bänke instandsetzen
+- TOP 8.1.2.: Beginn eines konkreten Modellversuchs zum Abbau von Barrieren für seelisch behinderte Menschen im KVR der LHSt München noch im Jahr 2014
+- TOP 8.1.3.: Verschmutzte Schilder ? säubern oder austauschen
+- TOP 8.1.4.: Poller für die Ecke Lilienstraße 41 und vor Lilienstraße 6 und 29
+- TOP 8.1.5.: Umgang mit Schrotträdern im öffentlichen Raum
+- TOP 8.1.6.: Größere Müllbehälter am Wiener Platz
+- TOP 8.1.7.: Kindergarten- und -krippenbuchung vernetzen
+- TOP 8.1.8.: Hausleerstand ohne konkreten Sanierungsbeginn in Milchstraße Nr. 11 der GWG?
+- TOP 8.1.9.: Sanierung Kinderspielplatz Gasteig / Kellerstraße
+- TOP 8.1.10.: Umgang mit Zweckentfremdungen von Wohnraum als Ferienwohnungen; Konsequent gegen Wohnungsnot: aktiv gegen Zweckentfremdung! Abteilung Wohnraumerhalt im Amt für Wohnen und Migration personell besser ausstatten; Abteilung Wohnraumerhalt personell besser ausstatten; Verhinderung der zweckfremden Nutzung von Eigentums- und Mietwohnungen im 2. Stadtbezirk; Beschluss des Sozialausschusses des Stadtrats vom 05.06.14 u.a. zu den Anträgen des BA 5 Nrn. 08-14 / B 04712 vom 16.01.13 und 08-14 / B 05374 vom 20.11.13
+- TOP 8.1.11.: Einbruchstelle in der Inneren Wiener Straße; Anfrage der CSU-Fraktion Informationen über 6-Meter-Schacht auf Gehsteig Innere Wiener Straße; Antrag der FDP-Fraktion
+- TOP 8.1.12.: Radlständer auf breiten Gehwegen
+- TOP 8.1.13.: Ohlmüllerstraße 42; Einhaltung der Bauvorschriften zum Staubschutz beim Bauvorhaben Abbruch der Betriebsgebäude der Brauerei (Mälzerei, Weichhaus und Malzsilo)
+- TOP 8.1.14.: Vorbescheid zur Umstrukturierung des Bernbacher-Geländes
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 7.1.: Ausstellung zur Geschichte der Rosenheimer Straße
+- TOP 7.2.: Kunst am Bau und Kunst im öffentlichen Raum (QUIVID); Richtlinienaktualisierung; Beschluss des Bauausschusses vom 01.04. bzw. der Vollversammlung des Stadtrats vom 09.04.2014
+- TOP 7.3.: Tag des offenen Denkmals am 14.09.2014; Kobell-Denkmal
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 3.1.: Keine Unterversorgung mit (auch) stationären Pflegeplätzen in der Sozialregion 3 Au-Haidhausen / Bogenhausen
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 2.1.: Ausbauplanung Welfenstraße; Anhörung durch das Baureferat-Tiefbau vom 20.05.2014
+- TOP 3: Unterrichtungen (5)
+- TOP 3.1.: Markierung in der Gleisunterführung Orleans- /Friedenstraße
+- TOP 3.2.: Wiederherstellung der Radwegmarkierung am Haidenauplatz in südliche Richtung bis zur Fußgängerfurt
+- TOP 3.3.: Radwegbeschilderung am Haidenauplatz ?????
+- TOP 3.4.: Schutz für Radler auf der Orleansstraße
+- TOP 3.5.: Schrägparken in der Elsässer Straße
+- TOP 3.6.: Ampelschaltung in Höhe Rosenheimer Str. 10
+- TOP 3.7.: Information zum Fachtag ?Doppelstock-S-Bahn?; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
