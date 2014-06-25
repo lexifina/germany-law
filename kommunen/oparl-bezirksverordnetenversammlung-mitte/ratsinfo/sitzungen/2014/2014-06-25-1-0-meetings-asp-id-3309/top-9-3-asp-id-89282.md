@@ -1,0 +1,8 @@
+# TOP 9.3: Planungsrecht für soziale Wohnraumförderung
+
+- Sitzung: 30. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanierung, Bauen und Bebauungspläne (2014-06-25)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=89282
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=89282
