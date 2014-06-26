@@ -1,0 +1,75 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132552
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132552
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.2.1.: 22.05.2014
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Christophorus Schulverein e.V. Fußballturnier am 22.07.2014 - <div>nach Antrag</div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Freundeskreis des Sonderpädagogischen Förderzentrums München-Ost Fußballturnier am 03. und 04.07.2014 - <div>nach Antrag</div>
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Bürgerzentrum Trudering e.V. Erstellung einer Chronik zum 10jährigen Jubiläum der Eröffnung des Kulturzentrums im März 2015 - <div>nach Antrag</div>
+- TOP 1.4.: Grüne Welle auf der B 304 in Richtung Autobahn A 99; Empfehlung Nr. 08-14/ E 01964 der Bürgerversammlung des 15. Stadtbezirkes- Trudeing- Riem am 10.1.02013, Sitzungsvorlage Nr. 14-20/ V 00569 - <div>nach Antrag</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Ausweisung des Herderwieswegs als verkehrsberuhigten Bereich - <div>OT und behandlung im UA</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Fertigstellung der Radwegverbindung Am Hüllgraben und Brukenthalstraße - <div>Kenntnisnahme</div>
+- TOP 3.2.: Regelmäßige Reinigung des Grünstreifens an der Willy- Brandt- Allee - <div>Kenntnisnahme u erneutes Schreiben an Bauref</div>
+- TOP 3.3.: Wann kommt die zugesagte durchgängige Rad-Fuß-Wegeverbindung nördlich des S- Bahnhofs Riem? - <div>Kenntnisnahme</div>
+- TOP 3.4.: Laubholzbockkäfer- Schreiben des Direktoriums - <div>Erneutes Schrieben an das Direktorium u 2 Anträge beschlossen</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Eine Grundschule für den 5. Bauabschnitt in der Messestadt- Arrondierung Kirchtrudering? - <div>Zustimmung und Weiterleitung an das RBS</div>
+- TOP 4.2.: Ortstermin an den nördlichen Kammern der Tribüne - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.3.: Gymnasium Trudering für die Messestadt duplizieren - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.4.: Kostenfreie Verpflegung für die pädagogischen Kräfte in Kindergärten und Kinderkrippen - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.5.: Wo ist Platz für Kinder und Jugendliche im Riemer Park? - <div>Verweis in den UA Schule,Soziales,Kultur</div>
+- TOP 4.6.: Graffitiflächen für Jugendliche in Trudering- Riem - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.7.: Gelände für eine mögliche neue Grundschule im 15. Stadtbezirk - <div>Änderung des Antrags und Weiterleitung</div>
+- TOP 4.8.: Übertrittssituation an den Grundschulen im 15. Stadtbezirk: Entwicklung, Erwartung und unterschiedliche Anforderungen? - <div>Änderug und Teilung des Antrags, Weiterleitung</div>
+- TOP 4.9.: Weitere Fahrradabstellmöglichkeiten an den Bushaltestellen an der Markgrafenstraße - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Betriebszeitänderung von bisher 22 Uhr auf die gesetzliche Sperrzeit; Kleingaststätte Obelix, Stahlgruberring - <div>nach Antrag</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Einrichtung von Sicherheitsmaßnahmen auf dem Gehsteig für die Tiefgaragenausfahrt in der Ingeborg- Bachmann- Straße 2/18; Empfehlung Nr. 08-14/ E01969 der Bürgerversammlung des Stadtbezirkes 15 Trudering- Riem am 10.10.2013; Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering- Riem vom 22.05.2014 - <div>Kenntnisnahme</div>
+- TOP 7: Unterausschüsse
+- TOP 7.1: UA Allgemeines:
+- TOP 7.1.1.: Straßenfest am 26.07.2014 in der Hochnißlstraße - <div>Zustimmung</div>
+- TOP 7.1.2.: Holi Festival of Colours auf dem Messefreigelände Riem am 26.07.2014 - <div>Zustimmung</div>
+- TOP 7.2: UA Bau und Verkehr:
+- TOP 7.2.1.: Einrichtung einer Bücherbushaltestelle in der Hugo-Weiss-Straße (TOP 7.2.2 vom 22.05.2014) - <div>Ablehnung</div>
+- TOP 7.2.2.: Absenkung des MVV- Tarifs für Zeitkarten im S-Bahnbereich Gronsdorf und bei den Buslinien 193 und 146; Empfehlung Nr. 08-14/ E 01975 der Bürgerversammlung des Stadtbezirks 15 Trudering- Riem am 10.10.2013 - <div>Ablehnung</div>
+- TOP 7.2.3.: Änderung der Radverkehrsführung in der Gartenstadtstraße - <div>Ablehnung</div>
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Verkauf einer städtischen Immobilie, Michael- Ende- Straße - <div>Zustimmung und Ergänzungen</div>
+- TOP 7.4: UA Planung:
+- TOP 7.4.1.: Mondseestraße 12 - <div>Ablehnung wegen Überschreitung Baulinie</div>
+- TOP 7.4.2.: Wachtelweg 35 - <div>Ablehnung wegen Anzahl Vollgeschosse</div>
+- TOP 7.4.3.: Kreillerstraße 217 - <div>Kenntnisnahme</div>
+- TOP 7.5: UA Schule, Soziales und Kultur:
+- TOP 7.5.1.: Absage Seefest am Riemer See (TOP 3.1 vom 22.05.2014) - <div>Antrag an das KVR bechlossen</div>
+- TOP 7.5.2.: Stellenausbau in den Münchner Nachbarschaftstreffs - <div>Zustimmung</div>
+- TOP 7.5.3.: Hallenzeiten in Trudering-Riem - <div>zwei Anträge an das RBS beschlossen</div>
+- TOP 7.6: UA Umwelt:
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: 8.1.1 Oberhubertsraße 1 8.1.2 Heilwigstraße 86 8.1.3 Kreuzerweg 2 8.1.4 Hanns- Schwind- Straße 8 8.1.5 Birkhahnweg 36 8.1.6 Möwestraße 31 8.1.7 Kilihofstraße 2 8.1.8 Wasserburger Landstraße 268, 268c 8.1.9 Graf- Ottenburgstraße 12 8.1.10 Feldbergstraße 41 8.1.11 Westermeierstraße 27 8.1.12 Iltisstraße 64 - <div>Kenntnisnahme</div>
+- TOP 8.2.: 8.2. Beantragte Baumfällungen auf öffentlichen Grün- und Freiflächen 8.2.1 Bergerwaldstraße 41b 8.2.2 Damaschkestraße 80 8.2.3 Ruppanerstraße 18 8.2.4 Scheibenwiesenweg 12 8.2.5 Sperberstraße 8 8.2.6 Tsingtauerstraße 13 8.2.7 Vogesenstraße 7 8.2.8 Westermeierstraße 27 8.2.9 Edingburghplatz 8.2.10 Elfriedenstraße 28 8.2.11 Büchmannstraße 8 8.2.12 Kamerunerstraße 9 8.2.13 Dukatenweg 4a 8.2.14 Ingeborgstraße 35b 8.2.15 Kreillerstraße 217 - <div>Zustimmung Votum des UA</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung gemäß § 20 Abs. 1 Satz 2 BA- Satzung 1. Anhörungsverfahren für 7. Truderinger Sonnwendfeuer an der Feldbergstraße 36 am 21.06.2014- Zustimmung zur Veranstaltung - <div>Kenntnisnahme</div>
+- TOP 9.2.: Oktoberfest 2014- Reservierung der Ratsboxe für den BA 15 - <div>Festlegung der Termine (23./24./25.09.2014)</div>
+- TOP 9.3.: Aktuelles zum BA-Ausflug - <div>Termin 13.07.2014</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unveränderte Fortführung eines Gaststättenbetriebes 1. Stahlgruberring 14 - <div>Kenntnisnahme</div>
+- TOP 10.2.: Baustelleneinrichtung an der Karpfenstraße auf Flst. 339/42 vom 19.05.2014 bis 30.06.2014 - <div>Kenntnisnahme</div>
+- TOP 10.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 1. Kreuzerweg 4 2. Graf- Lehndorff- Straße 11 3. Schwedensteinstraße 44 4. Heilwigstraße 11 - <div>Kenntnisnahme</div>
+- TOP 10.4.: Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzepts für das Quartierszentrum Trudering (ISEK) a) Flächensparende Gewerbeansiedlungen; Antrag Nr. 08-14/ A 04170 der Stadtratsfraktion DIE GRÜNEN/RL vom 12.04.2013 b) Moderierte Gesprächsrunde zum Bebauungsplan Nr. 913- Bereich Schmuckerweg, Truderinger Straße, Bognerhofweg, Bahnlinie; BA- Antrags Nr. 08-14/ B 05263 des Bezirksausschusses des Stadtbezirkes 15 Trudering- Riem vom 19.09.2013 - <div>Kenntnisnahme</div>
