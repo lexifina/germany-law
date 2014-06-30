@@ -1,0 +1,62 @@
+# Rat der Stadt Rheda-Wiedenbrück (2. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2014-06-30T17:00:00+02:00
+- Ende: 2014-06-30T20:10:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa-IdUFh6YgLEamt78H0UME
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1361
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXWDPkahlSNLAC07wSYS6y7Gn-64M2kZIqCdnd3z9Xs8/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_30.06.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYh5VPe6ba2_njicIe5k8ScO0Qwc1jVSj93J6s0t1hIY/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_30.06.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Verpflichtung der Ortsvorsteher
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bürgeranträge vom 08.05.2014 und vom 31.05.2014 zum An- und Abmeldeverfahren nach dem Meldegesetz NRW - Kenntnisnahme
+- TOP 6: Personelle Zusammensetzung der Fachausschüsse des Rates der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 7: Bestimmung der Vorsitzenden und stellv. Vorsitzenden der Ausschüsse - Einstimmig
+- TOP 8: Personelle Zusammensetzung des Jugendhilfeausschusses der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 9: Wahl der Mitglieder des Integrationsrates - Einstimmig
+- TOP 10: 11. Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse - Einstimmig
+- TOP 11: FGS-Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück - Besetzung der Gesellschafterversammlung - Besetzung des Aufsichtsrates - Einstimmig
+- TOP 12: Besetzung des Aufsichtsrates und der Gesellschafterversammlung für die Netzgesellschaft Rheda-Wiedenbrück GmbH & Co. KG - Einstimmig
+- TOP 13: AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH a) Besetzung der Gesellschafterversammlung b) Besetzung des Aufsichtsrates - Einstimmig
+- TOP 14: Wahl der Vertreter für die Verbandsversammlung des Zweckverbandes VHS "Reckenberg-Ems" - Einstimmig
+- TOP 15: INFOKOM Gütersloh – Zweckverband für kommunale Informations- und Kommunikationstechnik a) Wahl der Vertreter und Stellvertreter für die Verbandsversammlung b) Vorschlag für die Wahl der Mitglieder des Verwaltungsausschusses - Einstimmig
+- TOP 16: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "Kommunale Beteiligung Lokalfunk im Kreis Gütersloh" - Einstimmig
+- TOP 17: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung der Wasserversorgung Beckum GmbH - Einstimmig
+- TOP 18: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "pro Wirtschaft GT GmbH" - Einstimmig
+- TOP 19: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung „Flughafen Gütersloh GmbH“ - Einstimmig
+- TOP 20: Benennung des stimmberechtigten Vertreters der Stadt Rheda-Wiedenbrück in der Hauptversammlung der RWE AG sowie in der Gesellschafterversammlung der Vereinigung ehemaliger kommunalen Aktionäre der VEW GmbH - Einstimmig
+- TOP 21: Wahl der Vertreterinnen und Vertreter in die Verbandsversammlung des Sparkassenzweckverbandes des Kreises Gütersloh und der Stadt Rheda-Wiedenbrück und Bindung der gewählten Mitglieder bei der Besetzung weiterer Gremien - Einstimmig
+- TOP 22: Wahl eines Mitgliedes des Kuratoriums der "Stiftung der Kreissparkasse Wiedenbrück" - Einstimmig
+- TOP 23: Entsendung und personelle Besetzung von Stiftungsrat und Kuratorium der Bürgerstiftung Rheda-Wiedenbrück - Einstimmig
+- TOP 24: Bestellung von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 25: Wahl der Mitglieder des Wapel-Wasser-Verbandes der Städte Rheda-Wiedenbrück, Rietberg und Verl im Kreis Gütersloh - Einstimmig
+- TOP 26: Besetzung der Städtepartnerschaftskommission - Einstimmig
+- TOP 27: Gründung des Stadtwerks Rheda-Wiedenbrück - Einstimmig
+- TOP 28: Besetzung des Aufsichtsrates und der Gesellschafterversammlung für die Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG - Einstimmig
+- TOP 29: Teilnahme der Geschäftsführerin der FDP-Fraktion an den Sitzungen des Rates - 33 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 30: Ergänzung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen vom 16.12.1998 i. d. F. vom 18.12.2013 - 32 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 31: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NW: Überplanmäßige Mittelbereitstellung zur Errichtung eines Erweiterungstraktes für die Gesamtschule am Standort Rheda - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 32: Ersatzbeschaffung eines Mannschaftstransportfahrzeuges für die Freiwillige Feuerwehr Rheda-Wiedenbrück, Löschzug St. Vit - Einstimmig
+- TOP 33: Prüfung des Jahresabschlusses und des Lageberichtes zum 31.12.2013 einschließlich Entlastungen – Bericht der Dr. Heilmaier & Partner GmbH, Krefeld - Einstimmig
+- TOP 34: Bericht zur Beschlusskontrolle
+- TOP 35: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge
+- TOP 36: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 37: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 38: Erklärung von Ausschließungsgründen
+- TOP 39: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 40: Zuschussvereinbarung - Einstimmig
+- TOP 41: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 42: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 43: Dringende Anfragen und Anregungen
