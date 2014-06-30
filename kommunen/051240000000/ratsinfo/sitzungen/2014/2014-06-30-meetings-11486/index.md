@@ -1,0 +1,63 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-06-30T16:05:00+02:00
+- Ende: 2014-06-30T19:45:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11486
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11486
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00168441.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00168879.pdf
+- Wortprotokoll: Nachtragsliste http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00168607.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung einer Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO
+- TOP 3.1: Bürgerantrag gem. § 24 GO NRW zum Thema "Baumschnitt in Wuppertal" - geändert beschlossen
+- TOP 3.2: Bürgerantrag der Initiative Wuppertaler Tagespflegeeltern - erledigt durch Beschluss zu einem anderen TOP
+- TOP 3.2.1: Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Abs.2 - ungeändert beschlossen
+- TOP 3.3: Gleichstellung von Kindertagespflege und Kindertageseinrichtungen beim Besuch des Wuppertaler Zoos; Bügerantrag gem. § 24 GO NRW - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Bürgerbüros offenhalten - abgelehnt
+- TOP 4.1.1: Ersetzungsantrag zu Drs. VO/0360/14 - Bürgerbüros offenhalten (TOP 4.1) - ungeändert beschlossen
+- TOP 4.2: Sauberkeit in Schultoiletten - für erledigt erklärt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Erste Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.2: Änderung der Entgeltordnung für die Bergische Musikschule - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss der Hotel AG für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2013 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2013 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1205 - Märkische Str. / Hatzfelder Str. - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1207 - Westring - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1206 - Carnaper Str. / Hatzfelder Str. - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 622 A / 1 - Friedrich-Engels-Allee - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1208 - Berliner Straße/Rauer Werth - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung eines Ersatzgebäudes für den Leichtbau der Johannes-Rau-Schule, Förderschule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, Kreuzstraße 85 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Digitaler Gremiendienst - Durchführungsbeschluss - ungeändert beschlossen
+- TOP 11.2: Ausbau der offenen Ganztagsschule um 500 Plätze - ungeändert beschlossen
+- TOP 11.3: Antrag auf Genehmigung der Erhöhung der Zügigkeit eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.4: Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen
+- TOP 11.5: Umsetzung des Kinderbildungsgesetz (Kibiz) ab 01.08.2014: Indikatoren zur Förderung von "plusKITA"-Einrichtungen - ungeändert beschlossen
+- TOP 11.6: Umsetzung des Kinderbildungsgesetz zum 01.08.2014: Auswahl "plusKITA"-Einrichtungen - ungeändert beschlossen
+- TOP 11.7: Umsetung des Kinderbildungsgestz (Kibiz) ab 01.08.2014: Indikatoren zur Verteilung der Mittel für zusätzlichen Sprachförderbedarf - ungeändert beschlossen
+- TOP 11.8: Umsetzung des Kinderbildungsgesetz zum 01.08.2014: Verteilung der Mittel für zusätzlichen Sprachförderbedarf - ungeändert beschlossen
+- TOP 11.9: Ausbau der Familienzentren - Anträge 2014/15 - ungeändert beschlossen
+- TOP 12: Ausschussbildung / Ausschussbesetzung
+- TOP 12: Bildung von Ausschüssen - ungeändert beschlossen
+- TOP 12.1: Ausschussstruktur beibehalten - zurückgezogen
+- TOP 12.2: Wahl der Mitglieder der Landschaftsversammlung Rheinland - geändert beschlossen
+- TOP 12.3: Aufstellung der Vorschlagliste zur Berufung der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf - geändert beschlossen
+- TOP 12.4: Einigungsstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz NRW) - Bestimmung der von der Dienststelle zu benennenden Beisitzerinnen und Beisitzer - ungeändert beschlossen
+- TOP 12.5: Wahl der Mitglieder für den Regionalrat des Regierungsbezirks Düsseldorf
