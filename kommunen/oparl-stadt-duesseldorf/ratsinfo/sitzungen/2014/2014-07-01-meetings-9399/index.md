@@ -1,0 +1,54 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-07-01T16:00:00+02:00
+- Ende: 2014-07-01T18:00:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9399
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9399
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217954.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217954.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217954.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung - einstimmig beschlossen
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 4: Kommunalwahl 2014 - zur Kenntnis genommen
+- TOP 5: Abbiegespur in Hellerhof West - zur Kenntnis genommen
+- TOP 6: Garath Südwest - zur Kenntnis genommen
+- TOP 7: Beseitigung von Straßenschäden - zur Kenntnis genommen
+- TOP 8: Anträge - zur Kenntnis genommen
+- TOP 9: Verfügungsmittel 2014 - zur Kenntnis genommen
+- TOP 10: Entfernung von Spontanvegetation - mehrheitlich beschlossen
+- TOP 11: Entwicklung der Nebenzentren - einstimmig beschlossen
+- TOP 12: Weg zur JFE St. Matthäus - vertagt
+- TOP 13: Bürgerwiese - einstimmig beschlossen
+- TOP 14: Rückstau - einstimmig beschlossen
+- TOP 15: Grünpflege - einstimmig beschlossen
+- TOP 16: Öffentl. WC-Anlage in Hellerhof West - einstimmig beschlossen
+- TOP 17: Parkour-Anlage - einstimmig beschlossen
+- TOP 18: Zugang für gehbehinderte Menschen zu den S-Bahnhöfen - einstimmig beschlossen
+- TOP 19: Verfügungsmittel (HSV) 2014 - zur Kenntnis genommen
+- TOP 20: Verfügungsmittel 2014: Geschichtswerkstatt - zur Kenntnis genommen
+- TOP 21: Verfügungsmittel 2014: Cineclub Düsseldorf - zur Kenntnis genommen
+- TOP 22: Verfügungsmittel 2014: Spielmannszug Blau-Weiß - zur Kenntnis genommen
+- TOP 23: Verfügungsmittel 2014: Montessori-Grundschule - zur Kenntnis genommen
+- TOP 24: Verfügungsmittel 2014: GGS Adam-Stegerwald-Str. - zur Kenntnis genommen
+- TOP 25: Einrichtung einer Parkourstrecke in Garath - einstimmig beschlossen
+- TOP 26: Ankündigung die S-Bahngleise nutzende Fernzügen - einstimmig beschlossen
+- TOP 27: Sachstandsbericht zu Schäden durch den Sturm im Stadtbezirk 10 - zurückgezogen
+- TOP 28: Bezuschussung des Cineclubs - zur Kenntnis genommen
+- TOP 29: Bezuschussung der Bürgerstiftung - zur Kenntnis genommen
+- TOP 30: Bezuschussung der Ev. Kirchengemeinde - zur Kenntnis genommen
+- TOP 31: Bezuschussung der Geschichtswerkstatt - zur Kenntnis genommen
+- TOP 32: Bezuschussung derGGS Adam-Stegerwald-Str. - zur Kenntnis genommen
+- TOP 33: Bezuschussung des Hellerhofer Sportvereins - Torwart-Ausrüstung - zur Kenntnis genommen
+- TOP 34: des Hellerhofer Sportvereins - Instandhaltung - zur Kenntnis genommen
+- TOP 35: Bezuschussung der Montessori-Grundschule - zur Kenntnis genommen
+- TOP 36: Bezuschussung des Spielmannszug Blau-Weiß - zur Kenntnis genommen
+- TOP 37: Nebenzentrum Garath SW (Vorl.-Nr. 170/161/2013) - zurückgezogen
