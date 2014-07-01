@@ -1,0 +1,53 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2014-07-01T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3304513
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3304513
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 03.06.2014
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Cowboy Club München 1913 e.V. Tag der offenen Tür am 19. und 20.07.2014 Sitzungsvorlage Nr. 14-20/ V 00418 - ÄNDERUNG-
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Cowboy Club München 1913 e. V. Beschaffung einer Küche
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Grundschule an der Zielstattstraße München e. V. Kalender zum 50jährigen Bestehen
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: (Antrag) Begrünung der Fläche östlich der "Sollner Freiheit"
+- TOP 4.3.: (Antrag) Abfallkörbe am U-Bahnhof Thalkirchen
+- TOP 4.4.: (Antrag) Lärmbelästigungen Flaucher
+- TOP 4.5.: (Antrag) Wertstoffcontainer Greinerberg
+- TOP 4.6.: (A) Blockheizkraftwerk Vinzenz-Murr
+- TOP 4.7.: (Antrag) Auslichtung Flaucher
+- TOP 8: (E) Hundefreie Zone auf der Grünanlage in der Colmarer Straße Empfehlung Nr. 08-14 / E 02191 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.04.2014 - <div></div>
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (Antrag) Gleisquerung
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung Carola-Neher-Str.
+- TOP 5.3.: (Antrag) Verkehrssituation Hermann-Hahn-Platz und Umgebung
+- TOP 5.4.: (Antrag) Linksabbiegeampel Aidenbachstr./Ratzingerplatz
+- TOP 5.5.: (Antrag) MVV Elektronische Fahrplansauskunft
+- TOP 5.6.: (Antrag) MVV Umsteigehaltestellen
+- TOP 5.7.: (A) Errichtung eines Baumarktes in der Hofmannstr. 4
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Umstrukturierung des ehemaligen Siemens-Areals, Grundsatzbeschluss vom 19.11.13
+- TOP 6.3.: (Antrag) Anfrage Umstrukturierung Gewerbegebiet Obersendling
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 8: Unterausschuss Kultur
+- TOP 8.2.: (U) Gaststättenfortführung Boschetsrieder Str. 140
+- TOP 8.3.: (A) Circus Galliano
+- TOP 8.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
