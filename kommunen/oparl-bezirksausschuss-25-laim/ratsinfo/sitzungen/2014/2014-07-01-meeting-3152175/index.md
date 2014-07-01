@@ -1,0 +1,90 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-07-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Abbau der Verkehrsinsel Gotthardstraße / Reutterstraße
+- TOP 1.2.2.: Immer stärker zunehmende Hubschrauberflüge über Laim
+- TOP 1.2.3.: Parksituation Siglstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Bildung eines "Runden Tisches" zur Förderung der Entwicklung einer Stadtviertelgemeinschaft in Laim
+- TOP 2.2.: SPD: Anpassung der Bushaltestellen in der Fürstenrieder Straße an die Erfordernisse der Buszüge
+- TOP 2.3.: Bündnis 90 / Die Grünen: Barrierefreiheit der U-Bahnhöfe
+- TOP 2.4.: Bündnis 90 / Die Grünen: Umbau Schule Camerloherstraße / Inklusionsgerecht
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 875 Euro für Sommerfest am 13.07.14; Antragsteller: Kath. Pfarrei Zu den Heiligen Zwölf Aposteln - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Kleinstfreischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fürstenrieder Str. 14
+- TOP 3: Beschlussvorlage Kommunalrefeat: Bauvorhaben Errichtung eines neuen Personenaufzuges und barrierefreie Umgestaltung des Eingangsbereiches Stiftungsanwesen Burgkmairstr. 9 im 25. Stadtbezirk Laim Projektkosten (Kostenobergrenze) 900.000 Euro 1. Genehmigung des Nutzerbedarfsprogramms (NBP) 2. Projektauftrag Sanierung der Wohnanlage ?Alte Heimat?, Unverzüglicher Einbau eines zweiten Liftes (Empfehlung Nr. 08-14 / E 02109 der Bürgerversammlung des Stadtbezirkes 25 ? Laim am 26.11.2013) Sanierung der Wohnanlage ?Alte Heimat?, Einbeziehung der Mieterschaft (Empfehlung Nr. 08-14 / E 02108 der Bürgerversammlung des Stadtbezirkes 25 ? Laim am 26.11.2013) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 28.05.14: Stellungsnahme der Bezirksausschüsse zum geplanten Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 11.06.14: Antrag auf Parkzeitverlängerung in der Fürstenrieder Straße
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 11.06.14: Camerloherstraße, Haltverbot
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 13.06.14: Sommerfest der Pfarrei Zu den heiligen Zwölf Aposteln am 13.07.14 in der Grünanlage Schrobenhausener Straße
+- TOP 4.5.: Schreiben Baureferat vom 12.06.14: Projekt Aindorferstraße zwischen Fürstenrieder Straße und Guido-Schneble-Straße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Dichtlstr. 6: Anbau eines Wohnhauses mit Carport und Errichtung 2er Gauben am Bestandsgebäude; hier: Eingabepläne
+- TOP 5.2.: Landsberger Str. 338: Umbau und Nutzungsänderung eines Bürohauses in eine / ein Jugendherberge / Hostel / Hotel; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.3.: Valpichlerstr. 95: Neubau eines Mehrfamilienhauses (6 WE); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.4.: Valpichlerstr. 97: Neubau eines Mehrfamilienhauses (3 WE); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.5.: Rilkestr. 17: Neubau eines Zweifamilienhauses mit Doppelgarage; hier: Bau- und Baumbestandspläne
+- TOP 5.6.: Westendstr. 170: Nutzungsänderung von Teilbereichen eines Büro- und Verwaltungsgebäudes in eine Beherbergungsstätte mit 59 Betten zur Boarding-Nutzung mit leichten baulichen Änderungen
+- TOP 5.7.: Landsberger Str. 230: Neubau eines Autohauses mit Werkstatt, Tiefgarage, Parkdeck und Ausstellungsfläche; hier: Baupläne
+- TOP 5.8.: Landsberger Straße: Neubau von Eigentumswohnungen und Ladeneinheiten mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.9.: Landsberger Str. 234. Nutzungsänderung einer leerstehenden Gewerbefläche in ein S1- Labor mit Büro; hier: Baupläne
+- TOP 5.10.: Agnes-Bernauer-Str. 137: Neubau einer Wohnanlage mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.11.: Agricolastraße: Neubau dreier Wohngebäude (90 WE) mit Tiefgarage sowie Verbindungsbauten zur Perhamerstr. 78 d-f (Agricolastraße / Perhamerstr. 78 a-f); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 05.06.14: Oktoberfest 2014, Reservierungen der BAs
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 03.06.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 21.05.14: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogene städtische Wettbewerbe
+- TOP 8.2.: Schreiben Direktorium vom 05.06.14: Zuwendung aus dem Budget der Bezirksausschüsse, Verwendungsnachweis Faschingstreiben 01.03.14; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.3.: Schreiben Direktorium vom 06.06.14: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren
+- TOP 8.4.: Schreiben Direktorium vom 13.06.14: Asiatischer Laubholzbockkäfer im Stadtbezirk 15 ? (Antrag Nr. 08-14 / B 04789 des BA 15 vom 18.04.13), Weiteres Vorgehen zur Bekämpfung des Asiatischen Laubholzbockkäfers transparent machen (Antrag Nr. 08-14 / B 05395 des BA 15 Trudering-Riem vom 21.11.13), Klare Kompetenzen zur Koordinierung der Bekämpfung des Asiatischen Laubholzbockkäfers (Antrag Nr. 08-14 / B 05801 des BA 15 Trudering-Riem vom 20.03.14)
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 16.05.14: Zunehmender Fluglärm über Laim - welche Rolle spielt hierbei der ADAC? (Antrag Nr. 08-14 / B 05767 vom 11.03.14)
+- TOP 8.6.: Schreiben Referat für Gesundheit und Umwelt vom 23.05.14: Vollzug des Bundes-Immissionsschutzgesetz (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV; Durchführung von Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.05.14: Einrichten eines Zweirichtungsradweges auf der westlichen Seite der über die Autobahn A 96 führenden Westendstraße (Antrag Nr. 08-14 / B 4734 vom 09.04.13)
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.05.14: Fällungsantrag Aindorferstr. 10
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.14: Camerloherstr. 67; Errichtung eines Wirtsgartens auf privatem Grund
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.06.14: Fällungsantrag Josef-Schick-Str. 37
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.06.14: Fällungsantrag Berchemstr. 73
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.06.14: Camerloherstr. 78, Umbau eines Wohnhauses sowie Anbau mit TG
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.06.14: Planungen zum neuen Wohngebiet an der Zschokke- / Westendstraße; 1) Erhalt der Hans-Thonauer-Straße und der Barmerstraße für den motorisierten Verkehr 2) Zusätzliche Schaffung von Radwegen in der Hans-Thonauer-Straße und Barmerstraße (Antrag Nr. 08-14 / B 05711 des BA 25 vom 11.03.14)
+- TOP 8.14.: Schreiben Baureferat vom 20.05.14: Aindorferstraße, St. Ulrichstraße, Ofenerstraße und Lanzstraße; Sanierung der Fahrbahn
+- TOP 8.15.: Schreiben Baureferat vom 28.05.14: Provisorische Verkehrsinsel Gotthardstraße / Höhe Reutterstraße
+- TOP 8.16.: Schreiben Baureferat vom 03.06.14: Bushaltestelle Landsberger Straße vor blauem Peugeotgebäude gegenüber der Einmündung Willibaldstraße, Pflanzung von zwei Platanen beidseits des neuen Buswartehauses und Pflanzung von Platanen vor Kompetenzzentrum
+- TOP 8.17.: Schreiben Kreisverwaltungsreferat vom 23.05.14: Neufassung der Sondernutzungsrichtlinien; hier: Änderungen in den Freischankflächenrichtlinien
+- TOP 8.18.: Schreiben Kreisverwaltungsreferat vom 02.12.13: Verlängerung des Haltverbots in der Westendstraße Ecke Barmer Straße
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 02.06.14: Provisorische Verkehrsinsel Gotthardstraße / Höhe Reutterstraße; Prüfung 30 km/h - Geschwindigkeitsbeschränkung
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 13.06.14: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Westendstraße südlich der Brücke über die BAB 96
+- TOP 8.21.: Schreiben Sozialreferat vom 27.05.14: Zweckentfremdung von Wohnraum; Rilkestraße
+- TOP 8.22.: Schreiben Sozialreferat vom 05.06.14: Zweckentfremdung von Wohnraum; Berchemstraße
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 28.05.14: Baumaßnahmen der SWM; Fernwärmeprojekt Landsberger Straße
+- TOP 8.24.: Schreiben Gleichstellungsstelle für Frauen vom 10.06.14: Protokoll des 19. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 28.05.14
+- TOP 8.25.: Bautenliste vom 19.05.-25.05.14 1. Erstantragsverfahren a) Agricolastraße b) Senftenauerstr. 122 c) Camerloherstr. 67 d) Neuburgerstr. 8 e) Stöberlstr. 39
+- TOP 8.26.: Bautenliste vom 26.05.-01.06.14 1. Erstantragsverfahren a) Landsberger Str. 234 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Landsberger Straße
+- TOP 8.27.: Bautenliste vom 02.06.-08.06.14 1. Erstantragsverfahren a) Schäufeleinstraße
+- TOP 8.28.: Bautenliste vom 09.06.-15.06.14 1. Erstantragsverfahren a) Sulzbeckstr. 3 b) Landsberger Str. 230 c) Ofener Str. 10 d) Camerloherstr. 78 e) Flantinstr. 13a 2. Änderungsverfahren a) Eckermannstr. 22
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 16.06.14: Baumaßnahmen der Stadtwerke; Stichtag: 16.06.14
+- TOP 8.30.: Beschluss der Vollversammlung vom 28.05.14: Trappentreutunnel, Instandsetzung und sicherheitstechnische Nachrüstung (Sitzungsvorlage Nr. 14-20 / V 00314)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz (Sitzungsvorlagen Nr. 14-20 / V 00157)
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Flächensparende Gewerbeansiedlungen und Ziele des Intergrierten Stadtteilentwicklungskonzeptes für das Quartierzentrum Trudering (ISEK) (Sitzungsvorlage Nr. 14-20 / V 00078)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens (Sitzungsvorlage Nr. 14-20 / V 00096)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen (Sitzungsvorlage Nr. 14-20 / V 00161)
+- TOP 8.35.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Information zum Fachtag "Doppelstock-S-Bahn" (Sitzungsvorlage Nr. 14-20 / V 00163)
+- TOP 8.36.: Beschluss des Bauausschusses vom 01.07.14: Straßenreinigung; Ausweitung des Vollanschlussgebietes auf den ganzen Stadtbezirk 25 Laim (Empfehlung Nr. 08-14 / E 02119 der Bürgerversammlung vom 26.11.13) (Sitzungsvorlage Nr. 14-20 / V 00103)
+- TOP 8.37.: Gleichstellungsstelle für Frauen und Koordinierungsstelle für gleichgeschlechtliche Lebensweisen: Gemeinsam sind wir stark! Dokumentation des Fachtags am 07.06.13
+- TOP 8.38.: Schreiben Glockenbachwerkstatt e.V. vom 30.05.14: Begegnungen und Bewegung
+- TOP 8.39.: Münchner Statistik; 1. Quartalsheft Jahrgang 2014
+- TOP 1.2: Bürgerpost an den BA
