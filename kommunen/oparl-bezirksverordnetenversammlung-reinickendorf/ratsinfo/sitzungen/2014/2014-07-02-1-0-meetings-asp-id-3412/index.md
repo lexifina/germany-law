@@ -1,0 +1,75 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-07-02T17:00:00+02:00
+- Ende: 2014-07-02T18:55:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3412
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3412
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=78109
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 32. Sitzung der BVV am 02.07.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 32. Sitzung der BVV am 02.07.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 32. Sitzung der BVV am 02.07.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Sicherheit in Reinickendorf (4) - Kriminalitätsbelastungsatlas jährlich für alle Ortsteile - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Kinderschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Finanzierung der Integrationslotsen II (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Finanzierung der Integrationslotsen III - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Schreibstube der Tagesförderstätte "Spastikerhilfe" Kienhorststraße unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Gesundes Kita- und Schulessen - mit Sicherheit! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Müllentsorgung Bahndamm Schönholz (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.8: Sicherheit für Radfahrer in Frohnau erhöhen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Dritter Pflegestützpunkt in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Schulwegsicherung Schulzendorfer Straße Ecke Fichtestraße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Palliativ-Versorgung im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Illegalen Müllabwurf an der Burgfrauenstraße stoppen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Schulwegsicherung Jean-Jaurès-Straße mit Tempo 30 (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Kalender für integrative Feste in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Tempo 30 / Am Dachsbau (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.16: Handläufe an den Eingängen der Friedhofskapelle auf dem Hermsdorfer Friedhof - überwiesen
+- TOP 7.17: Sichere Straßenquerung Calauer Straße / Senftenberger Ring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Bereitstellung von Planbetten im Vivantes Humboldt-Klinikum (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.19: Notarztstandorte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Bürgerbeteiligung mit Hilfe des Internets (Zwischenbericht) - überwiesen
+- TOP 7.21: Strandbad Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Fusion der Hannah-Höch-Schule (Grundschule) und der Greenwich-Schule (Integrierte Sekundarschule - ISS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Gleisbett aus dem Gehweg entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Dorfschule Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Umleitungsstrecken ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Einrichtung von Willkommensklassen unterstützen! - erledigt
+- TOP 10.6: Kiezfonds - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Einrichtungen "dampffrei" halten - überwiesen
+- TOP 12.2: Interkulturelle Angebote in Reinickendorf - überwiesen
+- TOP 12.3: Fahrräder reparieren - nicht verschrotten - überwiesen
+- TOP 12.4: Ausstellung "Der erste Riss im Eisernen Vorhang" nach Reinickendorf holen - überwiesen
+- TOP 12.5: Bezirksinternetangebot "Schwimmbäder" mit www.berlinerbaeder.de verlinken - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: "eGovernment@school" in Reinickendorf - überwiesen
+- TOP 12.7: ÖPNV in der Bernstorffstraße - überwiesen
+- TOP 12.8: Prideweek 2015 - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Halte- und Parkverbote sowie Freihalten von Grundstückszufahrten in der Siedlung Waldidyll am Flughafensee stärker kontrollieren - überwiesen
+- TOP 12.10: Fahrradparkhaus Buddeplatz - überwiesen
+- TOP 12.11: Korruptionsprävention - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Halteverbot vor der Bedarfsampel Humboldtstraße anordnen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Parkplätze Feuerwehrschule - überwiesen
+- TOP 13.3: Stundenermäßigungen für schwangere Lehrerinnen - überwiesen
+- TOP 13.4: Beide Fahrspuren auf der A111 Richtung Hamburg besser ausweisen - ohne Änderungen in der BVV beschlossen
