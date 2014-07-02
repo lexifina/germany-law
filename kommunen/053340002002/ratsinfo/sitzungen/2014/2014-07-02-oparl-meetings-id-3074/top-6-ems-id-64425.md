@@ -1,0 +1,8 @@
+# TOP 6: Bildung von Ausschüssen des Rates der Stadt Aachen: hier Kinder- und Jugendhilfeausschuss
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2014-07-02)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=64425
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=17466&bi=633
