@@ -1,0 +1,64 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-07-02T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052664
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052664
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm im Olympiapark vom 08.08. bis 07.09.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Stadtpiraten e.V. Anschaffung eines Transportwagens
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Kurfürstenplatz 3, Laden ?Zum Feinschmecker?: Genehmigung einer Freischankfläche
+- TOP .2.: Schleißheimer Str. 188, Imbiss ?Lan Anh Asia?: Genehmigung einer Freischankfläche
+- TOP .3.: Belgradstr. 45, Gaststätte ?Dito?: Genehmigung einer Freischankfläche
+- TOP .4.: Hiltenspergerstr. 36 ?Backspielhaus?: Genehmigung einer Freischankfläche
+- TOP .5.: Hohenzollernstr. 29, Textilhandel ?ReSales?: Aufstellung von 2 Kleiderpuppen
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse URBANES WOHNEN e. V. Dokumentation "Ackermannbogen" Teil 2
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative ?Zeitzeugengespräche? Video-Dokumentation ?Schwabinger Gisela erzählt? ab August 2014
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Straßenfest in der Agnesstraße 9 und 10 am 26.07.2014
+- TOP .2.: Spendenlauf und Sportfest des Willi-Graf-Gymnasiums im Luitpoldpark (21. u. 23.07.2014)
+- TOP .3.: Straßenfest in der Apianstraße am 19.07.2014
+- TOP .4.: Ackermannbogen: Nachbarschaftspicknick auf der großen Wiese am 26.07.2014
+- TOP .5.: Fahrradtour der Landtags-SPD durch den Münchner Norden am 02.08.2014
+- TOP .6.: SPD-Bürgerfest auf dem Elisabethplatz am 26.07.2014
+- TOP .7.: Sommerfest zugunsten Pro Animale am 26.07.2014 im Luitpoldpark
+- TOP .2.1.: Planen
+- TOP .1.: Ainmillerstr. 31: DG-Ausbau und Anbringen eines Wärmedämmverbundsystems
+- TOP .2.: Viktor-Scheffel-Str. 12: Ausbau des Dachspitzes zu einer Wohneinheit
+- TOP .3.: Tektur Ainmillerstr. 32: Neubau eines Wohn- und Bürogebäudes mit Tiefgarage (RGB) und Errichtung eines Außenaufzugs (VGB)
+- TOP .4.: Vorbescheid Burgunderstr. 4: Neubau eines Wohngebäudes (ca. 11 WE) mit Tiefgarage und Aufstockung eines Bestandsgebäudes (ca. 2 WE)
+- TOP .5.: Ackermannstr. 83 Neubau Parzival-Schule mit Turnhalle (2. Bauabschnitt
+- TOP .6.: Hohenzollernstr. 59: Neubau eines Wohn- und Geschäftshauses (VGB+RGB) mit 18 Wohnungen, 2 Ladeneinheiten und einer Tiefgarage (20 Stellplätze)
+- TOP .7.: Habsburgerplatz 1-3: Anbau einer Balkonanlage und Anbringung eines WDVS an der Westfassade
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Hundefreier Petuelpark (Ergänzung zu TOP E 1.3 der letzten Sitzung)
+- TOP .2.: Bürger: Grünstreifen vor BASIC, Schleißheimer Str. 158-162
+- TOP .3.: Bürger: Zustand der Grünanlage Mildred-Scheel-Bogen
+- TOP .4.: Urbanes Wohnen e.V.: BezirksNaturNetz in Schwabing-West
+- TOP .5.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. 10 Gartenaktionen ab 01.07.2014
+- TOP .2.1.: Umwelt
+- TOP 1: (E) Aufstellung von Hundekottütenspendern mit integriertem Abfallbehälter Empfehlung Nr. 08-14 / E 01934 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 01.10.2013
+- TOP 1.2.: Kraepelinstr. 63: Fällung einer serbischen Fichte
+- TOP 1.2.2.: Verkehr
+- TOP 1: (E) Kreuzung Hohenzollern- / Schleißheimer Straße: Einheitliche Schaltung der Fußgängerampeln beim Überqueren der Schleißheimer Straße
+- TOP 1.1.: Ferienausschuss am 27.08.2014 1. Benennung der Mitglieder 2. Wahl der/des Ausschussvorsitzenden
+- TOP 1.2.: Sitzungstermine 2015
+- TOP 1.3.: Wiesnbesuch des BA: Wunschtermine für Reservierung der Ratsboxe
+- TOP 1.1.: Verlängerung der Grünphasen zur sicheren Überquerung der Ackermannstraße an der Elisabeth-Kohn-Straße und am Spiridon-Louis-Ring
+- TOP 1.2.: Einrichtung eines Behindertenparkplatzes vor dem Haupteingang des Landesarbeitsgerichts in der Winzererstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
