@@ -1,0 +1,7 @@
+# TOP 16: Neubildung des Zuwanderer- und Integrationsrates für die Wahlperiode 2014 bis 2020
+
+- Sitzung: Rat (2014-07-03)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/18786
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/21654
