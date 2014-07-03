@@ -1,0 +1,82 @@
+# 29. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-07-03T16:30:00+02:00
+- Ende: 2014-07-03T20:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3931
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3931
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=102293
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-32 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Umwelt- und Naturschutz und Grünflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer stellvertretenden Kiezpatin - gewählt
+- TOP 8.3: Neuwahl einer Vorsteherin/ eines Vorstehers - gewählt
+- TOP 8.4: Neuwahl einer Schriftführerin/ eines Schriftführers - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Steuerung der Hilfen zur Erziehung und die neue AV Hilfeplanung - schriftlich beantwortet
+- TOP 10.2: De-Mail - vertagt
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XV-64bb nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XV-64bb im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für die Jugendfeuerwehr Schöneweide (SM 14-20) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für die Grenzkultur gGmbH (SM 14-21) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.5: Sondermittel für die Berliner Parkeisenbahn gGmbH (SM 14-18) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für die Evangelische Kirchengemeinde Berlin-Treptow (SM 14-23) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Kungerkiezinitiative e. V. (SM 14-24) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für das Schlossplatztheater c/o Alte Möbelfabrik e. V. (SM 14-25) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sicherung von Kleingartenanlagen – Aufstellung von Bebauungsplänen - überwiesen
+- TOP 12.2: Instandsetzung Straßen in Müggelheim und Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Neubau der Anschlussstelle Hubertus an der Autobahn A 117 bei km 2,351 - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Tabakwerbeverzicht auf Werbeflächen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Kein Schwerlastverkehr in der Dörpfeldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Rodelbergweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Straßenbelag des Grenzbergewegs sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Sichere Querung der Jordanstraße Ecke Bouchéstraße - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Bewirtschaftungsausgaben veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Buslinie 265 - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Tempo 30 in der Schnellerstraße (zwischen Fenn- und Spreestraße) - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bereitstellung von Fachgutachten zum Bebauungsplanverfahren XV-30b VE - vertagt
+- TOP 12.13: Berlin-Ticket erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Förderung von Spielplatzpatenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Müllverringerung im Umfeld der Alten Försterei - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-81 ("Dämeritzsee") hier: Änderung zum Bezirksamtsbeschluss Nr. 102/96 vom 02.12.1996 Der räumliche Geltungsbereich XVI-81 umfasst die Grundstücke zwischen Lutherstraße und Bezirksgrenze zum Landkreis Oder-Spree, südlich der Fürstenwalder Allee bis zum Dämeritzsee, im Bezirk Köpenick, Ortsteil Rahnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungspläne 9-23a ("Uferweg Freiheit, Freiheit 14") und 9-23b ("Uferweg Freiheit, Freiheit 11, 12 und 12c") hier: Einstellung der Planaufstellungsverfahren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-49 ("Am Goldmannpark - Drachholzstraße") hier: Aufstellung eines Bebauungsplans - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Dorfanger Alt-Schmöckwitz - überwiesen
+- TOP 14.2: Bürgerentscheid zur Parkraumbewirtschaftung außerhalb der Schulferien durchführen - in der BVV zurückgezogen
+- TOP 14.3: Ergebnisse der Einschulungsuntersuchungen - überwiesen
+- TOP 14.4: PayPal als Bezahlmöglichkeit von Bibliotheksgebühren einführen - überwiesen
+- TOP 14.5: Weitergabe von Fundrädern an soziale Einrichtungen - überwiesen
+- TOP 14.6: Herrichtung des Gartens im Kiezclub Vital - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Instandsetzung Wiese im Volkspark Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Vorbereitung auf Immobilien- und Standortgemeinschaften - überwiesen
+- TOP 14.9: Spielplatz Müggelheim - überwiesen
+- TOP 14.10: Präsenz der Bibliotheken auf bezirklichen Festen - überwiesen
+- TOP 14.11: Wassersparen im Bezirksamt - überwiesen
+- TOP 14.12: Gefahr für Fußgänger beim Überqueren der Ottomar-Geschke-Straße beseitigen - überwiesen
+- TOP 14.13: Radverkehr am Stellingdamm - überwiesen
+- TOP 14.14: Überflüssiges Verkehrsschild in der Friedlander Straße entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Verkehrssicherheit an der Marggraffbrücke wiederherstellen - mit Änderungen in der BVV beschlossen
+- TOP 14.16: Hundsfelder Straße als Einbahnstraße ausweisen - überwiesen
+- TOP 14.17: Parkverbot in der Schulzendorfer Straße - überwiesen
+- TOP 14.18: Willensbekundung zur Entwicklung des Gebiets Späthsfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.19: Unterstützung für Gewerbetreibende auf dem Grundstück Schnellerstraße 130 - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Ergänzung zum B-Plan XV-64bb - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
