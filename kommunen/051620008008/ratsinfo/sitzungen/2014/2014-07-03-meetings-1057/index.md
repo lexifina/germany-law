@@ -1,0 +1,119 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-07-03T18:06:00+02:00
+- Ende: 2014-07-03T20:28:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1057
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1057
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Namentliche Besetzung der Fachausschüsse http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00052553.pdf
+- Ergebnisprotokoll: Namentliche Besetzung der Fachausschüsse http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00052553.pdf
+- Wortprotokoll: Namentliche Besetzung der Fachausschüsse http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00052553.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - mehrheitlich bei
+- TOP 2: Bestellung Schriftführer - einstimmig
+- TOP 3: Verpflichtung Ratsmitglider
+- TOP 4: Wahl der stellv. BM
+- TOP 5: Verpflichtung stellv. BM
+- TOP 6: Verabschiedung ehem. Rm
+- TOP 7: Bildung von Ausschüssen - mehrheitlich bei
+- TOP 8: Wahl der Ausschussmitglieder - einstimmig
+- TOP 8.1: Pflichtausschüsse
+- TOP 8.1.1: Pflichtausschüsse, hier: RPA - einstimmig
+- TOP 8.1.2: Pflichtausschüsse, WahlA - einstimmig
+- TOP 8.1.3: Wahlprüfungsausschuss - einstimmig
+- TOP 8.1.4: Pflichtausschüsse, hier HA - einstimmig
+- TOP 8.1.5: Besetzung freiwillige Ausschüsse, BauA - einstimmig
+- TOP 8.1.6: PersonalA - einstimmig
+- TOP 8.2: freiw. Ausschüsse
+- TOP 8.2.1: SportA - einstimmig
+- TOP 8.2.2: Besetzung der freiwilligen Ausschüsse, UmweltA - einstimmig
+- TOP 8.2.3: GrundstücksA - einstimmig
+- TOP 8.2.4: KulturA - einstimmig
+- TOP 8.2.5: PlanungsA - einstimmig
+- TOP 8.2.6: SchulA - einstimmig
+- TOP 8.3: Pflichtausschüsse nach Sondergesetz
+- TOP 8.3.1: JHA - einstimmig
+- TOP 8.3.2: Werksausschuss - einstimmig
+- TOP 8.3.3: Umlegungsausschuss - einstimmig
+- TOP 9: Grundsätzliche Stellvertreterregelung - einstimmig
+- TOP 10: Bestimmung Ausschussvorsitzende - einstimmig
+- TOP 11: sonstige Gremien
+- TOP 11.1: AK Denkmalschutz - einstimmig
+- TOP 12: Gremien Dritter
+- TOP 12.1: SEG - einstimmig
+- TOP 12.2: WGV - einstimmig
+- TOP 12.3: Bauverein - einstimmig
+- TOP 12.4: Erftsiedlungsgenossenschaft Gindorf eG - einstimmig
+- TOP 12.5: Segelflugplatzgesellschaft - einstimmig
+- TOP 12.6: Verbandsversammlung ITK Rheinland - einstimmig
+- TOP 12.7: Kreisverkehrsgesellschaft - einstimmig
+- TOP 12.8: Partnerschaftsverein - einstimmig
+- TOP 12.9: pro Wildenburg eG - einstimmig
+- TOP 12.10: Städte- und Gemeindebund - einstimmig
+- TOP 13: Bestellung von RM in den Integrationsrat - einstimmig
+- TOP 14: Bestellung einer / eines ehrenamtlichen Behindertenbeauftragten - Kenntnisnahme
+- TOP 15: Änderung der Hauptsatzung - einstimmig
+- TOP 16: Fraktionszuwendungen - mehrheitlich bei
+- TOP 16.1: die linke/piraten, antrag nr 70/2014 - Kenntnisnahme
+- TOP 17: Schriftliche Anträge
+- TOP 17.1: CDU
+- TOP 17.2: SPD
+- TOP 17.3: FDP
+- TOP 17.4: UWG
+- TOP 17.4.1: UWG-Antrag Nr. 88/2014 - einstimmig
+- TOP 17.4.2: UWG-Antrag Nr. 91/2014 - einstimmig
+- TOP 17.4.3: UWG-Antrag Nr. 92/2014 - einstimmig
+- TOP 17.4.4: Antrag nr 95/2014 - einstimmig
+- TOP 17.5: B 90/DIE GRÜNEN
+- TOP 17.5.1: b 90/grüne, Antrag nr. 71/2014 - einstimmig
+- TOP 17.6: ABG
+- TOP 17.7: Mein Grevenbroich
+- TOP 17.8: Die Linke/Piraten
+- TOP 17.9: Gemeinschaftsanträge
+- TOP 17.9.1: Resolution Konverterstandort - einstimmig
+- TOP 18: Schriftliche Anfragen
+- TOP 18.1: CDU
+- TOP 18.2: SPD
+- TOP 18.2.1: FDP-Anfrage Nr. 93/2014 - Kenntnisnahme
+- TOP 18.2.2: Beantwortung der Anfrage der FDP Nr. 93/14 - Kenntnisnahme
+- TOP 18.3: FDP
+- TOP 18.3.1: Anfrage Nr. 94 des Ratsherrn Markus Schumacher / FDP-Fraktion: WLAN/E-Mail - Kenntnisnahme
+- TOP 18.4: UWG
+- TOP 18.5: B 90/DIE GRÜNEN
+- TOP 18.6: ABG
+- TOP 18.7: Mein Grevenbroich
+- TOP 18.7.1: Anti-Müll-Konzept (Mein GV) - Kenntnisnahme
+- TOP 18.7.2: Unterkünfte für Asylbewerber (Mein GV) - Kenntnisnahme
+- TOP 18.7.3: Baustelle Bahnstraße (Mein GV) - Kenntnisnahme
+- TOP 18.7.4: Müll Waldwiese (Mein GV) - Kenntnisnahme
+- TOP 18.7.5: Neue Webseite (Mein GV) - Kenntnisnahme
+- TOP 18.8: Die Linke/Piraten
+- TOP 19: Dringlichkeitsentscheidungen
+- TOP 19.1: Dringlichkeitsentscheidung Straßenbenennung Königslindenstraße RAT - einstimmig
+- TOP 20: Beantwortung Anträge
+- TOP 20.1: Antrag 59/2014, UWG-Fraktion - Kenntnisnahme
+- TOP 21: Beantwortung Anfragen
+- TOP 21.1: Beantwortung Anfragen - Kenntnisnahme
+- TOP 22: mündliche Anträge/Anfragen
+- TOP 22.1: Grünfläche Gustorf
+- TOP 22.2: Dr.-Wattler-Straße
+- TOP 22.3: Halteverbot
+- TOP 22.4: Abfallentsorgung
+- TOP 22.5: Abfall
+- TOP 22.6: Parksituation
+- TOP 22.7: Kita Neurath
+- TOP 22.8: Geschwindigkeitsüberschreitungen
+- TOP 22.9: Platanen
+- TOP 22.10: Erftwerkstraße
+- TOP 22.11: Straßenschild
+- TOP 22.12: Unterführung
+- TOP 22.13: Wendehammer
+- TOP 22.14: Hemmerden
+- TOP 22.15: Glascontainer
+- TOP 23: Mitteilungen BM'in
