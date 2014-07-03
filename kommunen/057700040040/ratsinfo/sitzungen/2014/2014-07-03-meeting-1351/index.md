@@ -1,0 +1,68 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2014-07-03T17:00:00+02:00
+- Ende: 2014-07-03T21:05:00+02:00
+- Ort: Gasthaus Ulmenhof, Mindener Straße 111, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSeXI7D4j2b86gOgvseBVec
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1351
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQk5giEUBKM06Bc1GCbIjv3oqEyCGqOPaliBb4XJ7kdu/Bekanntmachung_Rat_03.07.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd2ugVoxcgt8zDJKGjeGFxCxUc8RXSrPhdZ_CpAvL6SC/Oeffentliche_Niederschrift_Rat_03.07.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.: Bestellung des Schriftführers
+- TOP 4.: Verabschiedung der ausgeschiedenen Ratsmitglieder
+- TOP 5.: Verpflichtung und Einführung der Ratsmitglieder durch den Bürgermeister
+- TOP 6.: Gemeinsamer Antrag der Fraktionen von SPD, FWG und Bündnis 90/Die Grünen zur Änderung der Hauptsatzung (hier: Ortsvorsteher)
+- TOP 7.: Wahl der Stellvertreter des Bürgermeisters
+- TOP 8.: Verpflichtung und Einführung der Stellvertreter des Bürgermeisters
+- TOP 9.: Wahl der Ortsvorsteher
+- TOP 10.: Beratung und Beschlussfassung über die zu bildenden Ausschüsse und Festlegung der Mitgliederzahlen
+- TOP 11.: Wahlen zu den Ausschüssen
+- TOP 11.1: Wahlen zu den Ausschüssen
+- TOP 11.2: Verpflichtung der sachkundigen Bürger
+- TOP 12.: Bestimmung der Vorsitzenden und der stellvertretenden Vorsitzenden der Ausschüsse
+- TOP 13.: Wahl des vorsitzenden Mitgliedes des Verwaltungsrates der Stadtsparkasse Rahden
+- TOP 14.: Wahl der Mitglieder und stellvertretenden Mitglieder des Verwaltungsrates der Stadtsparkasse Rahden
+- TOP 15.: Wahl von 2 stellvertretenden Vorsitzenden des Verwaltungsrates der Stadtsparkasse Rahden
+- TOP 16.: Wahl von 2 Mitgliedern für die Verbandsversammlung des Westfälisch-Lippischen Sparkassen- und Giroverbandes und deren Stellvertreter
+- TOP 17.: Wahl von 3 Mitgliedern des Beirates der Stiftung "Standort: hier" der Stadtsparkasse Rahden und deren Vertreter
+- TOP 18.: Wahl von 2 Mitgliedern des Vorstandes und 6 Mitgliedern der Verbandsversammlung des Wasserverbandes "Große Aue" und deren Stellvertreter
+- TOP 19.: Wahl eines Vertreters und Stellvertreters in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 20.: Wahl eines Vertreters und Stellvertreters in den Beirat des Kommunalen Rechenzentrum Minden-Ravensberg/Lippe
+- TOP 21.: Wahl der Mitglieder und Stellvertreter in die Gesellschafterversammlung der Wirtschaftsförderungsgesellschaft Rahden
+- TOP 22.: Wahl von 4 Mitgliedern und Stellvertretern in die Verbandsversammlung des Zweckverbandes Volkshochschule Lübbecker Land
+- TOP 23.: Wahl von 4 Mitgliedern und Stellvertretern in die Verbandsversammlung des Musikschulverbandes Espelkamp/Rahden/Stemwede
+- TOP 24.: Wahl eines Vertreters und Stellvertreters in die Gesellschafterversammlung der Minden-Herforder Verkehrsgesellschaft mbH
+- TOP 25.: Wahl eines Mitgliedes und Stellvertreters in die Gesellschafterversammlung der Betriebsgesellschaft Radio Minden-Lübbecke
+- TOP 26.: Wahl von 4 Mitgliedern und Stellvertretern in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes
+- TOP 27.: Wahl eines Vertreters und Stellvertreters in die Mitgliederversammlung der Interessengemeinschaft Standortförderung Kreis Minden-Lübbecke
+- TOP 28.: Wahl von 2 Mitgliedern und Stellvertretern in den Abwicklungsausschuss für den Förderschulverband Espelkamp
+- TOP 29.: Erlass einer neuen Vergnügungssteuersatzung - Ohne Abstimmung
+- TOP 30.: Genehmigung der Verringerung der allgemeinen Rücklage im Rahmen der Haushaltssatzung für das Haushaltsjahr 2014 durch den Kreis Minden-Lübbecke - Ohne Abstimmung
+- TOP 31.: 11. Änderung des Bebauungsplanes Nr. 30 "Lemförder Straße" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 32.: 3. vereinfachte Änderung des Bebauungsplanes Nr. 67 "Gewerbegebiet B 239 – Rahden-Süd" der Stadt Rahden; Beratung und Beschlussfassung über die während der Beteiligung der betroffenen Öffentlichkeit und der berührten Behörden und sonstigen Trägern öffentlicher Belange vorgebrachten Anregungen gemäß § 13 Abs. 2 i. V. m. § 3 Abs. 2 und § 4 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 33.: Wiederwahl der Schiedspersonen für die Schiedsamtsbezirke Pr. Ströhen und Sielhorst - Einstimmig, 0 Enthaltungen
+- TOP 34.: Sparkassenangelegenheiten; hier: Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2013 - Einstimmig, 0 Enthaltungen
+- TOP 35.: Sparkassenangelegenheiten; hier: Verteilung des Jahresüberschusses 2013 der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 36.: Bekanntgaben
+- TOP 36.1: Umgestaltung Innenstadt Rahden
+- TOP 36.2: Erneuerung Schmutzwasserdruckrohrleitung Lemförder Straße
+- TOP 36.3: Einladung
+- TOP 37.: Verschiedenes
+- TOP 37.1: Schulsozialarbeit
+- TOP 37.2: Unterstützung bedürftiger Haushalte/Kinder
+- TOP 37.3: Ausweisung von Windvorranggebieten
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 38.: Veräußerung eines Gewerbegrundstückes im Gewerbegebiet Rahden-Süd - 30 Stimmen dafür, 0 dagegen, 6 Enthaltungen
+- TOP 39.: Bekanntgaben
+- TOP 40.: Verschiedenes
+- TOP 40.1: Schulleitung der Sekundarschule
+- TOP 40.2: Grundstückskauf "von Behren"
