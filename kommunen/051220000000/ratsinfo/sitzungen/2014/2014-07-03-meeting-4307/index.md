@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-07-03T17:00:00+02:00
+- Ende: 2014-07-03T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUVE1BUYUTRm3fNZjZ58bJY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4307
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVvWebwykxJjwD5M2abNrtSczObUdtUepHAquuRlTOSZ/Oeffentliche_Niederschrift_Rat_03.07.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Bestellung der Schriftführung für den Rat der Stadt Solingen
+- TOP 2: Einführung und Verpflichtung der Ratsmitglieder
+- TOP 3: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4: Protokoll über die 33. Sitzung des Rates am 10.04.2014
+- TOP 5: Protokoll über die 34. Sitzung des Rates am 29.04.2014
+- TOP 6: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen und Stellvertreter des Oberbürgermeisters
+- TOP 7: Wahl der ehrenamtlichen Stellvertreterinnen bzw. Stellvertreter des Oberbürgermeisters
+- TOP 8: Wahl der ehrenamtlichen Stellvertreter/-innen des Oberbürgermeisters
+- TOP 9: Stadtwerke Aue
+- TOP 10: Bildung und Besetzung des Wahlprüfungsausschusses sowie Benennung des/der Vorsitzenden
+- TOP 11: Bildung und Besetzung des Hauptausschusses
+- TOP 12: Bildung der Ausschüsse
+- TOP 13: Ausschuss-Vorsitze
+- TOP 14: Besetzung der Ausschüsse
+- TOP 15: Neubildung des Jugendhilfeausschusses für die Wahlperiode 2014-2020
+- TOP 16: Neubildung des Zuwanderer- und Integrationsrates für die Wahlperiode 2014 bis 2020
+- TOP 17: Bildung/Fortführung von Unterausschüssen
+- TOP 18: Bildung der Ausschüsse
+- TOP 19: Stadt-Sparkasse Solingen
+- TOP 20: Altenzentren der Stadt Solingen gGmbH
+- TOP 21: Städtisches Klinikum Solingen gGmbH
+- TOP 22: Städtisches Klinikum Solingen gGmbH
+- TOP 23: Stadtwerke Solingen GmbH
+- TOP 24: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 25: Zentrum für verfolgte Künste GmbH
+- TOP 26: Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 27: Wasserwerk Baumberg GmbH, Solingen
+- TOP 28: Zweckverband Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 29: Bergische Entwicklungsagentur GmbH
+- TOP 30: Rheinischer Sparkassen- und Giroverband
+- TOP 31: Bildung der 14. Landschaftsversammlung Rheinland
+- TOP 32: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen und Gruppen gemäß § 56 Gemeindeordnung NRW
+- TOP 33: Regionalrat des Regierungsbezirks Düsseldorf
+- TOP 34: Teilnahme am KGSt-Forum und an der KGSt-Mitgliederversammlung
+- TOP 35: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2013 und Lagebericht 2013
+- TOP 36: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2013 und Lagebericht 2013
+- TOP 37: Bürgerbegehren Theatertreppe
+- TOP 38: Bauleitplanung Richterweg
+- TOP 39: Bauleitplanung Düsseldorfer Straße/ Lennestraße
+- TOP 40: Bauleitplanung Wuppertaler Straße/Schlagbaumer Straße
+- TOP 41: Verschiedenes
+- TOP 42: Personalsituation bei der Solinger Berufsfeuerwehr
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Aufgabenwahrnehmung nach § 103 Abs. 1 Nr. 6 GO NRW (DV-Verfahrensprüfung)
+- TOP 45: Gebäudesituation Kindertagesstätte Don Bosco, Elsässer Straße 17
+- TOP 46: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Protokoll über die 33. Sitzung des Rates am 10.04.2014
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Künftige Unterbringung von Flüchtlingen und Zuwanderern in Solingen
+- TOP 4: Städtisches Klinikum Solingen GmbH
+- TOP 5: Verschiedenes
+- TOP 6: Altenzentren der Stadt Solingen gGmbH
