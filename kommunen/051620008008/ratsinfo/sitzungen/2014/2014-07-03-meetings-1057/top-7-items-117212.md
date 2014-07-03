@@ -1,0 +1,8 @@
+# TOP 7: Bildung von Ausschüssen
+
+- Sitzung: Rat der Stadt Grevenbroich (2014-07-03)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/117212
+- Ergebnis: mehrheitlich bei
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/11812
