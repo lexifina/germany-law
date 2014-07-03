@@ -1,0 +1,95 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-07-03T11:00:00+02:00
+- Ende: 2014-07-03T18:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8431
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8431
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217453.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217453.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00217453.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführerin des Rates - einstimmig beschlossen
+- TOP 2: Verpflichtung der Ratsmitglieder - zur Kenntnis genommen
+- TOP 3: Anerkennung TO - mehrheitlich beschlossen
+- TOP 4: Genehmigung NS - einstimmig beschlossen
+- TOP 5: Festlegung der Zahl der Stellvertreter des OB - einstimmig beschlossen
+- TOP 6: Wahl der ehrenamtlichen Stellvertreter/innen des Oberbürgermeisters - zur Kenntnis genommen
+- TOP 7: Bestellung der Mitglieder des Wahlprüfungsausschusses - zur Kenntnis genommen
+- TOP 8: Bildung der Ausschüsse und Festlegung der Zahl ihrer Mitglieder - zur Kenntnis genommen
+- TOP 9: Wahl der Ausschussmitglieder sowie der Stellvertreterinnen und Stellvertreter - zur Kenntnis genommen
+- TOP 10: Integrationsrat - zur Kenntnis genommen
+- TOP 11: Jugendhilfeausschuss - zur Kenntnis genommen
+- TOP 12: Schulausschuss - zur Kenntnis genommen
+- TOP 13: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze sowie Bestimmung der - zur Kenntnis genommen
+- TOP 14: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 15: NKF-Gesamtabschluss - einstimmig beschlossen
+- TOP 16: Entwurf Jahresabschluss 2013 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 17: Jahresabschluss 2013 der Stadtsparkasse Düsseldorf - mehrheitlich beschlossen
+- TOP 18: Erste Schadensbilanz nach Orkan Ela - zur Kenntnis genommen
+- TOP 18.1: Mittelbereitstellung zur Schadenbeseitigung nach Orkantief Ela - einstimmig beschlossen
+- TOP 18.2: Änderungsantrag der CDU-Ratsfraktion: Mittelbereitstellung zur Schadensbeseitigung nach Orkantief El - einstimmig beschlossen
+- TOP 19: Kündigung Vitako - einstimmig beschlossen
+- TOP 20: Neuregelungen in der Kindertagespflege - mehrheitlich beschlossen
+- TOP 21: Genehmigung einer Dienstreise - zur Kenntnis genommen
+- TOP 22: Umlegungsausschuss - zur Kenntnis genommen
+- TOP 23: Bildung der 14. Landschaftsversammlung Rheinland - zur Kenntnis genommen
+- TOP 24: Konstituierung des Regionalrates - zur Kenntnis genommen
+- TOP 25: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - zur Kenntnis genommen
+- TOP 26: Neubildung des Beirates bei der Unteren Landschaftsbehörde - zur Kenntnis genommen
+- TOP 27: Aufsichtsrat AWISTA GmbH - zur Kenntnis genommen
+- TOP 28: Aufsichtsrat Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 29: Beirat Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 30: Aufsichtsrat Deutsche Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - zur Kenntnis genommen
+- TOP 31: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - zur Kenntnis genommen
+- TOP 32: Aufsichtsrat Industrieterrains Düsseldorf-Reisholz AG - vertagt
+- TOP 33: Gesellschafterrat IDR Public Management GmbH - vertagt
+- TOP 34: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH - zur Kenntnis genommen
+- TOP 35: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 36: Beirat der Sana Kliniken Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 37: Aufsichtsrat der Kunsthalle Düsseldorf gGmbH - zur Kenntnis genommen
+- TOP 38: Aufsichtsrat Messe Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 39: Aufsichtsrat der Messe Düsseldorf GmbH; Besetzungsrechte der IDR AG - zur Kenntnis genommen
+- TOP 40: Aufsichtsrat der Düsseldorf Congress Sport & Event GmbH - zur Kenntnis genommen
+- TOP 41: Aufsichtsrat Düsseldorf Marketing & Tourismus GmbH - zur Kenntnis genommen
+- TOP 42: Aufsichtsrat der Neue Schauspiel-Gesellschaft mbH Düsseldorf - zur Kenntnis genommen
+- TOP 43: Aufsichtsrat Regiobahn Fahrbetriebsgesellschaft mbH - zur Kenntnis genommen
+- TOP 44: Aufsichtsrat Regionale Bahngesellschaft Kaarst-Neuss-Düsseldorf-Erkrath - zur Kenntnis genommen
+- TOP 45: Aufsichtsrat Rheinbahn AG - vertagt
+- TOP 46: Aufsichtsrat SWD Städtische Wohnungsgesellschaft AG - zur Kenntnis genommen
+- TOP 47: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - zur Kenntnis genommen
+- TOP 48: Aufsichtsrat der Zukunftswerkstatt Düsseldorf - zur Kenntnis genommen
+- TOP 49: Aufsichtsrat Neuss-Düsseldorfer Häfen GmbH & Co KG - zur Kenntnis genommen
+- TOP 50: Aufsichtsrat der Hafen Krefeld GmbH & Co.KG - zur Kenntnis genommen
+- TOP 51: Aufsichtsrat RheinCargo GmbH & Co. KG - zur Kenntnis genommen
+- TOP 52: Aufsichtsrat der Grundstücksentwicklungs-Gesellschaft Düsseldorf mbH (GED) - zur Kenntnis genommen
+- TOP 53: Aufsichtsrat der Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA GmbH) - zur Kenntnis genommen
+- TOP 54: Kuratorium der Goethe-Museum, Anton und Katharina Kippenberg-Stiftung - zur Kenntnis genommen
+- TOP 55: Aufsichtsrat der Quadriennale GmbH - zur Kenntnis genommen
+- TOP 56: Kuratorium Stiftung Museum Kunstpalast - zur Kenntnis genommen
+- TOP 57: Kuratorium Stiftung Schloss und Park Benrtah - zur Kenntnis genommen
+- TOP 58: Kuratorium ZERO-Foundation - zur Kenntnis genommen
+- TOP 59: Kapitalvertretung bei städtischen Eigengesellschaften und Beteiligungsunternehmen - zur Kenntnis genommen
+- TOP 60: Polizeibeirat - zur Kenntnis genommen
+- TOP 61: Wahl von Schulausschussmitgliedern in das Kuratorium der Volkshochschule - zur Kenntnis genommen
+- TOP 62: Aufsichtsrat Flughafen Düsseldorf GmbH - vertagt
+- TOP 63: Beirat Flughafen Düsseldorf GmbH - vertagt
+- TOP 64: Kommission nach § 32 b Luftverkehrsgesetz - vertagt
+- TOP 65: Aufsichtsrat Flughafengesellschaft Mönchengladbach GmbH - vertagt
+- TOP 66: Aufsichtsrat der Flughafen Düsseldorf Ground Handling GmbH - vertagt
+- TOP 67: Aufsichtsrat Stadtwerke Düsseldorf AG - zur Kenntnis genommen
+- TOP 68: Beirat der Stadtwerke Düsseldorf AG - zur Kenntnis genommen
+- TOP 69: Konsortialausschuss Stadtwerke Düsseldorf AG - zur Kenntnis genommen
+- TOP 70: Verwaltungsrat der Stadtsparkasse Düsseldorf - vertagt
+- TOP 71: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes - vertagt
+- TOP 72: Interkommunaler Ausschuss der Regionalen Arbeitsgemeinschaft - zur Kenntnis genommen
+- TOP 73: Wahl von Delegierten in die Mitgliederversammlung des Vereins zur Förderung der Abfallwirtschaft Reg - zur Kenntnis genommen
+- TOP 74: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - zur Kenntnis genommen
+- TOP 75: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - zur Kenntnis genommen
+- TOP 76: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - zur Kenntnis genommen
