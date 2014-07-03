@@ -1,0 +1,60 @@
+# konstituierenden Sitzung des Kreistages Ludwigslust-Parchim
+
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Beginn: 2014-07-03T17:00:00+02:00
+- Ende: 2014-07-03T21:18:00+02:00
+- Ort: Putlitzer Straße 25, 19370 Parchim
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5a73013ef24bb7ed5127aef9
+- Ratsinformationssystem: https://www.lwl-pch.sitzung-online.de/bi/to010.asp?SILFDNR=1868
+- OParl: https://oparl.politik-bei-uns.de/meeting/5a73028cf24bb7ed51288af6
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://cdn.mirror.oparl.org/5a72cbfbf24bb7ed5121b06e/5a72ce5df24bb7ed512235c8
+- Ergebnisprotokoll: sidons https://cdn.mirror.oparl.org/5a72cbfbf24bb7ed5121b06e/5a72ce5ef24bb7ed512235d0
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung durch das an Lebensjahren älteste Kreistagsmitglied - (offen)
+- TOP 2: Feststellung der Beschlussfähigkeit und der ordnungsgemäßen Ladung - (offen)
+- TOP 3: Bestätigung der Tagesordnung - (offen)
+- TOP 4: Mitteilung und Feststellung der erfolgten Fraktionsbildungen - (offen)
+- TOP 5: Beschlussfassung über die Bildung einer Zählkommission - ungeändert beschlossen
+- TOP 6: Wahl der/ des Kreistagspräsidentin / Kreistagspräsidenten - geändert beschlossen
+- TOP 7: Verpflichtung der/des Kreistagspräsidentin/Kreistagspräsidenten und Übergabe der Sitzungsleitung - (offen)
+- TOP 8: Verpflichtung der übrigen Kreistagsmitglieder durch die/den Kreistagspräsidentin/Kreistagspräsidenten - (offen)
+- TOP 9: Wahl des 1. und. 2. Stellvertreters der/des Kreistagspräsidentin/Kreistagspräsidenten - geändert beschlossen
+- TOP 10: Wahl der 2 weiteren Mitglieder des Präsidiums - geändert beschlossen
+- TOP 11: 2. Satzung zur Änderung der Hauptsatzung des Landkreises Ludwigslust-Parchim - geändert beschlossen
+- TOP 11.1: Antrag der CDU-Fraktion: Ergänzung der Hauptsatzung des Landkreises Ludwigslust-Parchim - (offen)
+- TOP 12: Antrag der CDU-Fraktion: Ergänzung der Geschäftsordnung des Kreistages Ludwigslust-Parchim - ungeändert beschlossen
+- TOP 13: Einwohnerfragestunde - (offen)
+- TOP 14: Mitteilungen des Landrates und Aussprache - (offen)
+- TOP 15: Anfragen und Wortmeldungen der Kreistagsmitglieder aus aktuellem Anlass - (offen)
+- TOP 16: Wahl der Mitglieder und sachkundigen Einwohner in die Ausschüsse des Kreistages - (offen)
+- TOP 16.1: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Kreisausschuss - geändert beschlossen
+- TOP 16.2: Wahl von 7 Mitgliedern und deren persönliche Stellvertreter in den Rechnungsprüfungsausschuss - geändert beschlossen
+- TOP 16.3: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Haushalts- und Finanzausschuss - geändert beschlossen
+- TOP 16.4: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Wirtschaft, Bau, Tourismus und ländlicher Raum - geändert beschlossen
+- TOP 16.5: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Bildung, Kultur und Sport - geändert beschlossen
+- TOP 16.6: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Soziales, Familie und Gesundheit - geändert beschlossen
+- TOP 16.7: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit - geändert beschlossen
+- TOP 16.8: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Verwaltungsmodernisierung und Kreisentwicklung - geändert beschlossen
+- TOP 16.9: Wahl von 9 Mitgliedern und deren persönliche Stellvertreter in den Jugendhilfeausschuss - geändert beschlossen
+- TOP 16.10: Wahl von 6 Mitgliedern und deren persönliche Stellvertreter in den Jugendhilfeausschuss nach Vorschlag anerkannter Träger der freien Jugendhilfe - geändert beschlossen
+- TOP 17: Wahl und Bestellung von Vertretern in Verbandsversammlungen, Mitgliederversammlungen, Aufsichtsräten, Gesellschafterversammlungen und Trägerversammlungen - (offen)
+- TOP 17.1: Wahl von 15 Vertretern und 15 Stellvertretern in die Verbandsversammlung des Regionalen Planungsverbandes Westmecklenburg - geändert beschlossen
+- TOP 17.2: Wahl von 13 Vertretern in die Verbandsversammlung des Zweckverbandes Sparkasse Parchim-Lübz - geändert beschlossen
+- TOP 17.3: Wahl von 5 Vertretern für die Verbandsversammlung des Sparkassenzweckverbandes für die Sparkasse Mecklenburg-Schwerin - geändert beschlossen
+- TOP 17.4: Wahl von 5 Mitgliedern und 5 Stellvertretern in die Verbandsversammlung des Zweckverbandes Mecklenburgisches Landestheater Parchim - geändert beschlossen
+- TOP 17.5: Wahl eines Vertreters und eines Stellvertreters in die Verbandsversammlung des Zweckverbandes kommunales Studieninstitut M-V - geändert beschlossen
+- TOP 17.6: Wahl von 4 Vertretern und 4 Stellvertretern in die Verbandsversammlung des Zweckverbandes "Schaalsee Landschaft" - geändert beschlossen
+- TOP 17.7: Wahl eines Vertreters und eines Stellvertreters in die Verbandsversammlung des Planungsverbandes Transportgewerbegebiet Valluhn-Gallin - geändert beschlossen
+- TOP 17.8: Bestellung von 5 Mitgliedern und 5 Stellvertretern in die Mitgliederversammlung des Landkreistages Mecklenburg-Vorpommern - geändert beschlossen
+- TOP 17.9: Bestellung eines Vertreter und eines Stellvertreters in die Trägerversammlung des Jobcenters Ludwigslust-Parchim - geändert beschlossen
+- TOP 17.10: Bestellung von 3 Vertretern in die Mitgliederversammlung des Vereins Naherholung im Umland Hamburg e.V. - geändert beschlossen
+- TOP 17.11: Bestellung von 11 Mitgliedern in die Gesellschafterversammlung der Verkehrsgesellschaft Ludwigslust-Parchim - geändert beschlossen
+- TOP 17.12: Bestellung von 8 Mitgliedern in den Aufsichtsrat der Verkehrsgesellschaft Ludwigslust-Parchim - geändert beschlossen
+- TOP 17.13: Bestellung von 11 Mitgliedern in die Gesellschafterversammlung der Ludwigslust-Parchimer Rettungsdienst gGmbH - geändert beschlossen
+- TOP 17.14: Bestellung von 11 Mitgliedern in die Gesellschafterversammlung der Wirtschaftsförderungsgesellschaft Südwestmecklenburg mbH - geändert beschlossen
+- TOP 17.15: Bestellung von 4 Vertretern in die Gesellschafterversammlung der Westmecklenburg Klinikum Helene von Bülow GmbH - geändert beschlossen
+- TOP 17.16: Bestellung von 5 Mitgliedern in die Arbeitsgruppe Partnerschaften - geändert beschlossen
