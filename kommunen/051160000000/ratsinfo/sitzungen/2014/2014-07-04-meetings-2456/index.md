@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-07-04T13:00:00+02:00
+- Ende: 2014-07-04T00:00:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2456
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2456
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00097850.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00097850.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00097850.pdf
+
+## Tagesordnung
+
+- TOP 1: Schriftführer und stellvertretender Schriftführer - Einstimmiger Beschluss
+- TOP 2: Amtseinführung und Vereidigung des Oberbürgermeisters - Zur Kenntnis genommen
+- TOP 3: Eröffnung der konstituierenden Ratssitzung - Zur Kenntnis genommen
+- TOP 4: Einführung und Verpflichtung der Ratsmitglieder - Zur Kenntnis genommen
+- TOP 5: Stellvertreter OB - Siehe Niederschrift
+- TOP 6: Einführung und Verpflichtung der Stellvertreterinnen/Stellvertreter des Oberbürgermeisters - Zur Kenntnis genommen
+- TOP 7: Bildung und Besetzung von Ausschüssen - Zur Kenntnis genommen
+- TOP 7.1: Bildung eines Wahlprüfungsausschusses für die Kommunalwahlen und Wahl der Mitglieder des Integration - Einstimmiger Beschluss
+- TOP 8: Ausschussvorsitzende - Siehe Niederschrift
+- TOP 9: Jugendhilfeausschuss - Siehe Niederschrift
+- TOP 10: Wahl von 8 Ratsmitgliedern in den Integrationsrat der Stadt Mönchengladbach - Gewählt nach Hare Niemeyer
+- TOP 11: Benennung von Mitgliedern für die kommunale Beratungskommission in ausländer-rechtlichen Härtefällen - Einstimmiger Beschluss
+- TOP 12: Landschaftsversammlung Rheinland - Gewählt nach Hare Niemeyer
+- TOP 13: Lärmschutzbeirat - Mit Stimmenmehrheit beschlossen
+- TOP 14: Umlegungsausschuss - Mit Stimmenmehrheit beschlossen
+- TOP 15: Bildung und Besetzung des Polizeibeirates - Einstimmiger Beschluss
+- TOP 16: Verbandsversammlung Euregio - Gewählt nach Hare Niemeyer
+- TOP 17: Vertretungen in Organen von Unternehmen - Siehe Niederschrift
+- TOP 18: Neuwahl Verwaltungsrat der SSK MG - Siehe Niederschrift
+- TOP 19: Regionalrat - Einstimmiger Beschluss
+- TOP 20: Verbandsversammlung des Niersverbandes; - Einstimmiger Beschluss
+- TOP 21: Verbandsrat des Niersverbandes; - Siehe Niederschrift
+- TOP 22: Zweckverband Naturpark Schwalm-Nette - Siehe Niederschrift
+- TOP 23: Neukonstituierung des Braunkohlenausschusses; - Siehe Niederschrift
+- TOP 24: Neuwahl des Beirats - Einstimmiger Beschluss
+- TOP 25: Verein zur Förderung der Abfallwirtschaft - Region Rhein-Wupper e.V. - - Gewählt nach Hare Niemeyer
+- TOP 26: Wahl der Jurymitglieder zur Preisvergabe „Umweltgerechtes Bauen“ - Einstimmiger Beschluss
+- TOP 27: Wahl von Vertretern in die Verbandsversammlung der IT Kooperation Rhein/Ruhr - Einstimmiger Beschluss
+- TOP 28: Wahl von städt. Vertretern in den KDN-Dachverband - Einstimmiger Beschluss
+- TOP 29: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 30: Kunststiftung im Museum Abteiberg - Bestellung der Kuratoriumsmitglieder - Einstimmiger Beschluss
+- TOP 31: Wahl je eines Mitgliedes der im Rat vertretenen Fraktionen zum Beirat BIS - Einstimmiger Beschluss
+- TOP 32: Wahl der Mitglieder für die Veranstaltergemeinschaft "Radio Mönchengladbach e. V." - Einstimmiger Beschluss
+- TOP 33: Trägerversammlung Jobcenter - Einstimmiger Beschluss
+- TOP 34: Beirat Jobcenter - Gewählt nach Hare Niemeyer
+- TOP 35: Zuwendung an Ratsmitglieder - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 36: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 37: Stellungnahme der Stadt MG zur Bekanntmachung der "Strukturvision Schiefergas" durch die niederl.Reg - Einstimmiger Beschluss
+- TOP 37.1: Gewinnung von Erdgas aus unkonventionellen Lagerstätten - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 38: Ausschreibung einer Beigeordnetenstelle - An den Rat verwiesen
+- TOP 39: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 40: Wettbewerbsverfahren Sonnenhausplatz - Weiterbeauftragung - Einstimmiger Beschluss
+- TOP 41: Veränderungssperre City-Ost - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Anfragen und Mitteilungen
+- TOP 42.1: Mitteilung von Oberbürgermeister Reiners zum Thema JHQ - Zur Kenntnis genommen
+- TOP 42.2: Mitteilung von Stadtdirektor und -kämmerer Kuckels zum Haushalt
+- TOP 42.3: Anfrage von RH Dr. Schlegelmilch zur konst. Ratssitzung
