@@ -1,0 +1,81 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2014-07-04T16:00:00+02:00
+- Ende: 2014-07-04T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2722
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2722
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Bestellung eines Schriftführers gem. § 52 Abs. 1 GO NRW - einstimmig zugestimmt
+- TOP 4: Einführung und Verpflichtung der Ratsmitglieder - zur Kenntnis genommen
+- TOP 5: Mitunterzeichner Niederschrift - einstimmig zugestimmt
+- TOP 6: Entscheidung über die Anzahl und Wahl der stellvertretenden Bürgermeister - mehrheitlich zugestimmt
+- TOP 7: Einführung und Verpflichtung der stellvertretenden Bürgermeister/innen - zur Kenntnis genommen
+- TOP 8: Änderung der Geschäftsordnung des Rates der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 9: Besetzung des Ältestenrates - einstimmig zugestimmt
+- TOP 10: Festlegung der Ausschüsse und der Anzahl der Ausschusssitze - mehrheitlich zugestimmt
+- TOP 11: Verteilung der Ausschussvorsitze und der stellvertretenden Ausschussvorsitze - einstimmig zugestimmt
+- TOP 12: Bestellung der Ausschussmitglieder und stellvertretenden Ausschussmitglieder - einstimmig zugestimmt
+- TOP 13: Wahl der/des Beauftragten der Stadt Neuss für Menschen mit Behinderung - einstimmig zugestimmt
+- TOP 14: Wahl einer Gleichstellungsbeauftragten des Rates der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 15: Wahl einer/eines Seniorenbeauftragten des Rates der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 16: Zuschüsse zum Geschäftsbedarf der im Rat vertretenden Fraktionen - mehrheitlich zugestimmt
+- TOP 17: Finanzielle Zuwendungen für ein Einzelmitglied des Rates(§ 56 III GO) - einstimmig zugestimmt
+- TOP 18: Gewährung von Zuschüssen an die politischen Jugendorganisationen - einstimmig zugestimmt
+- TOP 19: Entsendung Stadtverordnete IR - einstimmig zugestimmt
+- TOP 20: Besetzung des Wahlprüfungsausschusses - einstimmig zugestimmt
+- TOP 21: Besetzung des Wahlausschusses - einstimmig zugestimmt
+- TOP 22: Bestellung von Stadtverordneten in den Umlegungsausschuss - einstimmig zugestimmt
+- TOP 23: Besetzung des Beirats Demografie - einstimmig zugestimmt
+- TOP 24: Berufung von Vertreterinnen und Vertretern der Schulen zur ständigen Beratung im Schulausschuss - mehrheitlich zugestimmt
+- TOP 25: Berufung je eines Vertreters der Katholischen und der Evangelischen Kirche als beratendes Mitglied i - einstimmig zugestimmt
+- TOP 26: Einrichtung des Unterausschusses Radverkehr - zur Kenntnis genommen
+- TOP 27: Einrichtung der Arbeitsgruppe ÖPNV - zur Kenntnis genommen
+- TOP 28: hier: Aufsichtsrat der Stadtwerke Neuss GmbH - mehrheitlich zugestimmt
+- TOP 29: hier: Aufsichtsrat der Stadtwerke Neuss Energie und Wasser GmbH - mehrheitlich zugestimmt
+- TOP 30: hier: Aufsichtsrat der Neusser Bäder und Eisporthalle GmbH - mehrheitlich zugestimmt
+- TOP 31: hier: Verwaltungsrat der Infrastruktur Neuss AöR - einstimmig zugestimmt
+- TOP 32: hier: Gesellschafterversammlung und Aufsichtsrat der Abfall- und Wertstofflogistik Neuss GmbH - zur Kenntnis genommen
+- TOP 33: hier: Verwaltungsrat der Städtische Kliniken Neuss - Lukaskrankenhaus - GmbH - zur Kenntnis genommen
+- TOP 34: hier: Aufsichtsrat der Neusser Bauverein AG - zur Kenntnis genommen
+- TOP 35: hier: Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG - einstimmig zugestimmt
+- TOP 36: hier: Beirat der Stadthafen Neuss Verwaltungs-GmbH - einstimmig zugestimmt
+- TOP 37: hier: Gesellschafterversammlung und Aufsichtsrat der Gemeinnützige Werkstätten Neuss GmbH - einstimmig zugestimmt
+- TOP 38: hier: Beirat der Neusser Marketing GmbH & Co. KG - einstimmig zugestimmt
+- TOP 39: hier: Verwaltungsrat der Gemeinschaftswerk zur Förderung der gewerblichen Berufsbildung zu Neuss Gmb - einstimmig zugestimmt
+- TOP 40: hier: Aufsichtsrat der Verkehrsgesellschaft Kreis Neuss mbH - einstimmig zugestimmt
+- TOP 41: hier: Gesellschafterversammlung und Aufsichtsrat der Rhein Cargo GmbH & Co. KG - einstimmig zugestimmt
+- TOP 42: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - einstimmig zugestimmt
+- TOP 43: Gesellschafterversammlung Lukita Neuss GmbH - mehrheitlich zugestimmt
+- TOP 44: Vertretung der Stadt Neuss in Drittgremien hier: Berufsschulbeirat - einstimmig zugestimmt
+- TOP 45: Vertretung der Stadt Neuss in Drittgremien hier: Verein "Rheinisches Landestheater-vereinigt mit dem - einstimmig zugestimmt
+- TOP 46: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorium der Stiftung Insel Hombroich - mehrheitlich zugestimmt
+- TOP 47: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung der ITK - Rheinland - einstimmig zugestimmt
+- TOP 48: Vertretung der Stadt Neuss in Drittgremien hier: Flughafenbeirat - einstimmig zugestimmt
+- TOP 49: hier: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) - mehrheitlich zugestimmt
+- TOP 50: hier: Kuratorien der Jubiläumsstiftung, Sparkassenstiftung Neuss, Stiftung Sport - einstimmig zugestimmt
+- TOP 51: hier: Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreis Neuss - einstimmig zugestimmt
+- TOP 52: hier: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr (VRR) und Gesellschaftervers - einstimmig zugestimmt
+- TOP 53: hier: Aufsichtsrat der Kreiswerke Grevenbroich GmbH - einstimmig zugestimmt
+- TOP 54: hier: Umbesetzung im Ausschuss des Wasser- und Bodenverbandes Nordkanal - einstimmig zugestimmt
+- TOP 55: hier: Erbentag (Ausschuss) des Deichverbandes Meerbusch-Lank - einstimmig zugestimmt
+- TOP 56: Besetzung von Drittgremien: NRW Kulturförderung e.V. - einstimmig zugestimmt
+- TOP 57: Vertretung der Stadt Neuss in der Neuen Hanse (Hansekommission) - einstimmig zugestimmt
+- TOP 58: Genehmigung der Dringlichkeitsentscheidung Nr. 1 -Dienstreisegenehmigung für Herrn s.B. Himmes - einstimmig zugestimmt
+- TOP 59: Dienstreisegenehmigung für die/den Seniorenbeauftragte/n des Rates nach Rijeka - einstimmig zugestimmt
+- TOP 60: Antrag der Fraktion DIE LINKE betr.: Hotels boykottieren, die Obdachlose abweisen - verwiesen
+- TOP 60.1: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Einrichtung einer Verbraucherzentrale - mehrheitlich zugestimmt
+- TOP 61: Antrag der Fraktion DIE LINKE betr.: Erstellung einer Benutzungsordnung für das Greyhound - Pier 1 - verwiesen
+- TOP 61.1: Anfrage der Fraktion DIE LINKE betr.: Mehrkosten durch die Vertagung der ersten Ratssitzung - zur Kenntnis genommen
+- TOP 62: Sitzungsübersicht für das 2. Halbjahr 2014 - einstimmig zugestimmt
+- TOP 63: Sitzungstermine 2015 für Rat und Hauptausschuss - einstimmig zugestimmt
+- TOP 63.1: Lebensmittelmarkt Lessingplatz - zur Kenntnis genommen
+- TOP 64: Einwohnerfragestunde - zur Kenntnis genommen
