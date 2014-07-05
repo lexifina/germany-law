@@ -14,4 +14,5 @@
 § 13 Entlassung auf eigenen Antrag
 § 14 Abwicklung des Amtes, Amtsverwalter
 § 15 Veröffentlichungen, Verzeichnis der Öffentlich bestellten Vermessungsingenieure
-§ 16 Inkrafttreten und Außerkrafttreten
+§ 16 Vorgezogener Nachweis der Leistungsfähigkeit
+§ 17 Inkrafttreten und Außerkrafttreten
