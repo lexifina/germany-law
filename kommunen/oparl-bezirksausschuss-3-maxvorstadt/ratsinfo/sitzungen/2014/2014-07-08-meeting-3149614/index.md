@@ -1,0 +1,113 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-07-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149614
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149614
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.1.: (E) Budget der Bezirksausschüsse BelCanto Kammerchor München e.V. Chorkonzert am 05.07.2014 in St. Benno
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Schaukasten" Schaukasten Ausstellung Botanischer Garten, Eröffnung am 26.06.2014
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative internationale Künstlerinnenausstellung "raus hier" im Kunstpavillon München Ausstellung ?raus hier? vom 11.09.bis 19.10.2014
+- TOP 2.5.: (E) Budget der Bezirksausschüsse El Amor / el-Andalus GbR Zwei Präsentationen am 29.08. und 30.08.2014
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Initiative ?Zeitzeugengespräche? Video-Dokumentation ?Schwabinger Gisela erzählt? ab August 2014
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.05.2014 Ein Brunnen für den Georg-Elser-Platz vertagt aus 06/14 zur erneuten Behandlung im UA Verkehr und öffentlicher Raum
+- TOP 5.2.2.: Schreiben eines Mitarbeiters der TU vom 13.06.2014 Sperrung der Luisenstraße 2014: Abwägung mit Allgemeininteresse noch gewahrt?
+- TOP 6: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Urban Gardening-Projekt auf dem Josephsplatz
+- TOP 6.2.: Der BA Maxvorstadt fordert die Landeshauptstadt München auf, dafür Sorge zu tragen, dass Baumscheiben, die den Baumwuchs einschränken, rechtzeitig ausgetauscht werden.
+- TOP 6.3.: Grünanlagen im Kunstareal barrierefrei zugänglich machen
+- TOP 6.4.: Baureferat Tiefbau Baumpflanzungen in der Augustenstraße Angeforderte Stellungnahme zu einem Bürgeranliegen (vgl. TOP B 1.3)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 22.06.2014 ?Nachpflanzungen im Stadtbezirk Maxvorstadt?
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 22.06.2014 ?Nachpflanzungen auf dem Gelände der Alten Pinakothek?
+- TOP 1.3.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 22.06.2014 ?Baumpflanzung in der Augustenstraße zwischen Brienner Straße und Karlstraße? (vgl. dazu Stellungnahme des Baureferats unter TOP A 6.4)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Unterrichtung der LBK über Bauvorhaben: 21., 22., 23., 24 . und 25. KW
+- TOP 2.1.2.: Unterrichtung der LBK über Abgeschlossenheitsbescheinigungen:
+- TOP 2.1.3.: Adalbertstraße 7, Aufstockung dreier Wohngebäude (Adalbertstraße 7/Amalienstraße 93 + 95), Vorbescheid
+- TOP 2.1.4.: Theresienstraße 56 b, Abbruch eines Rückgebäudes im zweiten Hinterhof (EG mit Keller)
+- TOP 2.1.5.: Theresienstraße 71 a, Neubau zweier Wohnhäuser mit Keller (BT 1 + 2), Innenhofbebauung (BT 3 ? 8), Kellergeschoss mit Großgarage (BT 9)
+- TOP 2.1.6.: Hiltenspergerstraße 1, DG-Neubau und Erhöhung des Aufzugsschachts
+- TOP 2.1.7.: Sandstraße 43, DG-Ausbau mit Errichtung eines innenliegenden Aufzugs
+- TOP 2.1.8.: Schellingstraße 27, Nutzungsänderung von vier Läden in eine Kantine / Gaststätte mit Alkoholausschank mit F90-Schall- und Brandschutzdecke, Austausch der Fenster und der Eingangstür
+- TOP 2.1.9.: Arnulfstraße 39, Nutzungsänderung (Umbau) von Büro- zu Praxisräumen
+- TOP 2.1.10.: Amalienstraße 87, Erweiterung des bestehenden Wirtsgartens
+- TOP 2.1.11.: Arnulfstraße 52, Errichtung einer bewirtschafteten Holzhütte für den Winterbetrieb, befristet bis 2019 (Aufbau und Nutzung saisonal jeweils vom 15. November bis 31. März)
+- TOP 2.1.12.: Referat für Stadtplanung und Bauordnung, Stadtplanung, Anhörung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2082a Katharina-von-Bora-Straße (östlich), Karlstraße (nördlich) a) Ergebnis des Realisierungswettbewerbs ?Neubau von Wohnungen Katharina-von-Bora- Straße 8a? b) Einleitungs- und Qualifizierung des Aufstellungsbeschlusses für einen vorhabenbezogenen Bebauungsplan
+- TOP 2.1.13.: Referat für Stadtplanung und Bauordnung, Stadtplanung, Anhörung Bebauungsplan mit Grünordnung Nr. 2089 Pappenheimstraße (westlich), zwischen Marsplatz und Blutenburgstraße (Teiländerung des Bebauungsplanes Nr. 1466) ? Aufstellungsbeschluss -
+- TOP 2.1.14.: Dachauer Straße 7, Nutzungsänderung einer Ladeneinheit zu einem Wettcafé für Sportwetten, Vorbescheid
+- TOP 2.1.15.: Schwindstraße 1 a, Neubau eines Vereinsgebäudes mit Vereinsräumen, Studenten- und Gästezimmern, Wohnungen für Mitglieder und einer Tiefgarage, Vorbescheid
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Kreittmayrstraße 29, eine mehrstämmige Scheinzypresse
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Gestaltung der Oberfläche des Josephsplatzes nach Fertigstellung der Anwohnertiefgarage Anträge aus der Einwohnerversammlung am 25.06.2014
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 5: Unterrichtungen (1)
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Bauvorhaben Türkenstraße 91 (Nutzungsänderung von Wohnen in Büro, DG-Ausbau, bauliche Änderungen Kino, Wohnungszusammenlegung Reaktion auf die Stellungnahme des BA vom 11.04.2014
+- TOP 5.2.: Sozialreferat, Amt für Wohnen und Migration, Bestandssicherung Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen im Anwesen Augustenstraße 121 (Erhaltungssatzungsgebiet ?Georgen-/Zentnerstraße/Josephsplatz?)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der CSU-Fraktion im BA 3 vom 23.06.2014 (Initiative: Valentin Auer) ?Installation von Blinklichtern an den Zebrastreifen Görres- / Zentnerstraße, Görres- / Schwindstraße und Schelling- / Zentnerstraße?
+- TOP 1.2.: Antrag der CSU-Fraktion im BA 3 vom 24.06.2014 ?Sicherheit im Alten Botanischen Garten?
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsanordnungen, Entscheidung Neueinrichtung eines Taxistandplatzes in der Arnulfstraße 16
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsanordnungen, Anhörung Einrichtung zweier allgemeiner Behindertenparkplätze in der Theresienstraße 35 a
+- TOP 3: (E) Ergänzung des Radweges am Oskar-von-Miller-Ring Empfehlung Nr. 02-08 / E 00906 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 24.10.2007
+- TOP 3.4.: Referat für Arbeit und Wirtschaft, Beteiligungsmanagement, Anhörung Leistungsprogramm der MVG für die Fahrplanperiode 2015 Beschlussvorlage für den Stadtrat inkl. Erledigung der Empfehlung Nr. 08-14 / E 02019 der Bürgerversammlung Maxvorstadt am 17.10.2013 (Verbesserung der Straßenbahnlinien 20 und 21)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Gewerbe, Freischankflächen a) Lämmerstraße 5, Genehmigung einer Freischankfläche b) Adalbertstraße 28, Erweiterung einer bestehenden Freischankfläche c) Luisenstraße 41, Erweiterung einer bestehenden Freischankfläche d) Theresienstraße 18: Erweiterung einer bestehenden Freischankfläche e) Türkenstraße 58: Genehmigung einer Freischankfläche f) Schleißheimer Straße 28, Genehmigung einer Freischankfläche g) Schellingstraße 16, Genehmigung einer Freischankfläche h) Türkenstraße 29, Genehmigung einer Freischankfläche i) Schleißheimer Straße 77, Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Straßenfest in der Erzgießereistraße am 14.06.2014
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Rückmeldung/Erfahrungsbericht zur Münchner Radlnacht am 07.06.2014?
+- TOP 2.4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Pfarrfest St. Benno am 12.07.2014 auf dem Ferdinand-Miller-Platz
+- TOP 2.4.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Oben Ohne Open Air des Kreisjugendrings am 12.07.2014 auf dem Königsplatz
+- TOP 2.4.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Kino-Open Air vom 22. bis 30.07.2014 auf dem Königsplatz
+- TOP 2.4.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Bildungscamp des Kreisjugendrings am 16.07.2014 auf dem Königsplatz
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Aufhebung einer Hotelanfahrtszone in der Amalienstraße 12
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Georgenstraße 53
+- TOP 3.3.: Kreisverwaltungsreferat, Gaststättenrechtliche Grundsatzangelegenheiten Neufassung der Sondernutzungsrichtlinien - Änderungen in den Freischankflächenrichtlinien Informationsschreiben an Gastwirte und Betreiber von ?Kleinstfreischankflächen?
+- TOP 3.4.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Bezirksinspektion für den Bürger statt für die Gastro-Lobby Antwort auf ein weitergeleitetes Bürgeranliegen aus der Sitzung vom 06.05.2014
+- TOP 3.5.: Toiletten für die Spielplätze im Maßmannpark und am Alten Nordfriedhof Entscheidung des Oberbürgermeisters vom 14.05.2014 zur Erledigung der Empfehlung Nr. 08-14 / E 01990 aus der Bürgerversammlung am 17.10.2013
+- TOP 3.6.: Baureferat Tiefbau Anliegerinformation zum barrierefreien Ausbau der Bushaltestelle ?Infanteriestraße Süd? auf der Südseite der Görresstraße
+- TOP 3.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Klassik am Odeonsplatz am 05./06.07.2014 Rückmeldung der Verwaltung der staatlichen Schlösser, Gärten und Seen zur BA-Forderung nach Verlegung der VIP-Zelte in den Hofgarten
+- TOP 3.8.: Kreisverwaltungsreferat, Verkehrsanordnungen Verkehrsrechtliche Anordnung in Zusammenhang mit Fernwärmearbeiten im Straßenraum: Winzererstraße zwischen Schelling- und Görresstraße
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Amt für Wohnen und Migration, Quartierbezogene Bewohnerarbeit, Anhörung Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 4: Unterrichtungen (3)
+- TOP 4.1.: Gleichstellungsstelle für Frauen Protokoll des 19. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 28.05.2014
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.4.: Kommunalreferat, GeodatenService Straßenbenennung Anbringung von Erläuterungsschildern an den Straßenschildern zur Erinnerung an NS-Verfolgte und Widerstandskämpfer in der Maxvorstadt Anhörung zu Textvorschlägen sowie Art und Anzahl der Erläuterungsschilder
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4: Unterrichtungen (4)
+- TOP 4.3.: Referat für Stadtplanung und Bauordnung, Stadtplanung, Unterrichtung Ergebnisprotokolle der Ortsbegehungen zum Orientierungssystem Kunstareal a) Bereich Königsplatz b) Bereich Pinakotheken
+- TOP 4.1.: Ferienausschuss am 05.08.2014 a) Benennung der Mitglieder b) Wahl einer/eines Ferienausschussvorsitzenden
+- TOP 4.2.: Sitzungstermine 2015
+- TOP 4.3.: Oktoberfest-Reservierung für den BA: 3 Wunschtermine und Teilnehmerzahl
+- TOP 4.4.: Antrag der CSU-Fraktion im BA 3 vom 23.06.2014 (Initiative: Valentin Auer) ?Neuer Standort für die BA-Informationstafel am Stiglmaierplatz?
+- TOP 4.5.: Kinder- und Bürgerfest
+- TOP 4.6.: 2. Auflage Denkmaltopographie in der Maxvorstadt
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 4.2.: Schreiben des BA-Vorsitzenden an das Direktorium, Budgetangelegenheiten Bitte, die Rücknahme des Bewilligungsbescheids für das Film- und Zeitzeugengespräch der Weiße Rose Stiftung e.V. am 18.03.2014 zu überdenken
+- TOP 3: Aktuelle Sachstandsberichte
