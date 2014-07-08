@@ -1,0 +1,60 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-07-08T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3103916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3103916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Sanierung des Sportplatzes MKJZ und Beleuchtung der Außenanlagen
+- TOP 4.2.: Trappentreustraße Fußgängerweg, Beginn der 30er Zone, Einfahrt zum Westend von der Trappentreustraße in die Tulbeckstraße, Raserei in der Tulbeckstraße
+- TOP 4.3.: Gestrüpp Ecke Landsberger Str./Astallerstr.
+- TOP 4.4.: Kanaldeckel Bergmannstraße
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Schwanthalerstr. 112
+- TOP 6.1.: Meldeliste
+- TOP 6.2.: Zuwegung Kindertagesstätte St. Rupert
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: AnsprechpartnerIn zum Thema Behinderung, Anfrage des Behindertenbeirats
+- TOP 7.1.: Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Taxistandplatz Bergmannstr. 1
+- TOP 2: (E) Begrünung der Bergmannstraße (insbesondere zwischen Westendstraße und Landsberger Straße) Empfehlung Nr. 08-14 / E 01815 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 13.06.2013
+- TOP 2.1.: Schullauf am 28.07.2014 im Bavariapark
+- TOP 2.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2015, hier: Anhörung zur Behandlung der BV-Empfehlung
+- TOP 2.3.: Straßenfest in der Gollierstraße am 09.08.2014
+- TOP 2.1.: Ausnahmezulassung Mäharbeiten
+- TOP 2.2.: Öffentliche Toiletten in Litfaßsäulen, hier: Fotoprotokoll vom Ortstermin
+- TOP 2.3.: Rundbrief Urbanes Naturnetz München
+- TOP 2.4.: Wiesnauf- und Abbau 2014
+- TOP 2.5.: Fußgängerüberweg Franziska-Bilek-Weg
+- TOP 2.6.: Gefahrbaumfällung Nordportal Trappentreutunnel
+- TOP 2.7.: Zusatzeinrichtungen für Blinde und Sehbehinderte an der Kreuzung Landsberger Straße/Trappentreustraße
+- TOP 2.8.: Wertstoffcontainer im Stadtbezirk 8 - neuer Ortstermin?
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse VaMuKi e.V. Mitmachkonzert am 27.06.2014
+- TOP 9.2.: (E) Budget der Bezirksausschüsse SprachBewegung e.V. Projekt ?Schauspiel & Kreatives Schreibforum? im Schuljahr 2014/2015
+- TOP 10: Anträge
+- TOP 10.1.: Kinderbetreuungskosten während BA-Tätigkeit, Antrag der SPD-Fraktion
+- TOP 10.2.: Stolpersteine in München auf öffentlichem Grund zulassen, Antrag der SPD-Fraktion
+- TOP 10.3.: Bildung eines eigenen BA-Unterausschusses "XXXLutz-Gelände", Antrag der SPD-Fraktion
+- TOP 11: Verschiedenes
+- TOP 11.1.: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogenen städtischen Wettbewerben
+- TOP 11.2.: Zugriff auf das städtische Intranet für BA-Mitglieder
+- TOP 11.3.: Durchführung von Bürgerbeteiligungsverfahren
+- TOP 11.4.: Bestellung eines Internetbeauftragten
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
