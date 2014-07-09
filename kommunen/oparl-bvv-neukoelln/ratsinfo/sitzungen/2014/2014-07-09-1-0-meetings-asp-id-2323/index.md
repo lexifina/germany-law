@@ -1,0 +1,99 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-07-09T17:00:00+02:00
+- Ende: 2014-07-09T21:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2323
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2323
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2.1: Verlängerung der Freistellung von der Belegungsbindung - in der BVV zurückgezogen
+- TOP 2.2: Informationen zu laufenden Bebauungsplanverfahren - gegenstandslos
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-9bab („Mohriner Allee / Windröschenweg - Süd“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Sozialausschuss - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.3: Einführung eines neuen Mitgliedes in die BVV Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Ticketautomaten im Bürgeramt Zwickauer Damm - beantwortet
+- TOP 9.2: Ärger ohne Ende? - beantwortet
+- TOP 9.3: Kolonie Odertal, wie weiter nach Aufhebung der Schutzfrist? - beantwortet
+- TOP 9.4: Städtebauliche Gutachten zugänglich machen - beantwortet
+- TOP 9.5: Mobiler Coffeeshop in Neukölln? - beantwortet
+- TOP 9.6: Denkmalgeschützte ehemalige alte Dorfschule Alt-Buckow 17 - beantwortet
+- TOP 9.7: Rückläufer* innen im Schuljahr 2013/14 - beantwortet
+- TOP 9.8: Kreuzung Stubenrauch Ecke Neuköllner - beantwortet
+- TOP 9.9: Dürfen LKWs im Ortolanweg regelmäßig parken? - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Keine weitere Verlängerung der Freistellung von Wohnungen des sozialen Wohnungsbaus - in der BVV abgelehnt
+- TOP 10.2: Auswirkungen des Volksentscheids – Weiterentwicklung des Tempelhofer Feldes - beantwortet
+- TOP 10.3: Neuköllner Bildungsverbünde - beantwortet
+- TOP 10.4: Lehren aus dem Volksentscheid - beantwortet
+- TOP 10.5: Verkauf von kommunalen Wohnungen in Neukölln? - beantwortet
+- TOP 10.6: Auswirkungen des Volksentscheids – Wohnungspolitik im Bezirk Neukölln - vertagt
+- TOP 10.7: Respekt und Deeskalation bei der Arbeit für den Bezirk - schriftlich beantwortet
+- TOP 10.8: Leistungskomplex 32 - vertagt
+- TOP 10.9: Einbürgerungsfeiern - vertagt
+- TOP 10.10: Gaststätte „Luftgarten“ - in der BVV abgelehnt
+- TOP 10.11: Schritt für Schritt gegen Häusliche Gewalt – Häusliche Gewalt ist keine Privatsache - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Kennzeichnung eines Fahrradweges in der Neuköllner Str./Ecke Groß-Ziethener Chausse - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Muslimische Friedhöfe - in der BVV abgelehnt
+- TOP 11.3: Vollküchen für Neubauten von Schulen und Kindergärten - in der BVV abgelehnt
+- TOP 11.4: Mehrsprachiges Informationsblatt zu den neuen Schulabschlüssen BBR und MSA - in der BVV abgelehnt
+- TOP 11.5: Netzwerktreffen „Zukunftsaufgabe erfolgreiche Integrations-/Bildungspolitik in Neukölln “ - in der BVV abgelehnt
+- TOP 11.6: Sprachbildung und Sprachförderung - in der BVV abgelehnt
+- TOP 11.7: Fußgängerquerungshilfe (Fußgängerüberweg/ggfs. Anforderungsampel) in der Stubenrauchstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: VHS Neukölln - in der BVV abgelehnt
+- TOP 11.9: Anwohnerschaft in Treptow-Köpenick über Flüchtlingsunterkunft informieren - in der BVV abgelehnt
+- TOP 11.10: Halteverbot in der Kanalstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Anwohner frühzeitig über Asylbewerbersammelunterkunft informieren - in der BVV abgelehnt
+- TOP 11.12: Ausstellung "Diktatur und Demokratie im Zeitalter der Extreme, Streiflichter auf die Geschichte Europas im 20. Jahrhundert" in unserem Bezirk zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: 25 Jahre nach dem Mauerfall - DDR-Unrecht in Schulen wirkungsvoll vermitteln - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Reparatur von Whiteboards - vertagt
+- TOP 12.2: Schulverpflegung von der Tafel? - vertagt
+- TOP 12.3: Neubaubündnis des Senats mit Bezirken - vertagt
+- TOP 12.4: Soll der Neuköllner Saalbau verkauft werden - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sicherstellung des Standortes der Tee- und Wärmestube - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sehbehinderten Menschen im Rathaus den Weg weisen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Lokale Bildungsverbünde - überwiesen
+- TOP 14.4: Drogenkonsumraum in Neukölln - vertagt
+- TOP 14.5: Berufsvorbereitungs- und Ausbildungsangebote für Flüchtlinge - überwiesen
+- TOP 14.6: Einschulung 2015/16 - überwiesen
+- TOP 14.7: Wildes Parken in der Waßmannsdorfer Chaussee - überwiesen
+- TOP 14.8: Rückbau der Fahrbahnmarkierung in der Stubenrauchstraße/Neuköllner Straße - überwiesen
+- TOP 14.9: Sprachförderung an Schulen - überwiesen
+- TOP 14.10: GO-Antrag zur Erweiterung des § 19 - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Treppengeländer am Buschkrugpark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Spielplatz aufwerten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Elektroantrieb für das Drogenmobil - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Nachhaltige Drogenprävention am Hermannplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Besondere Beziehung mit der Stadt Hof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Regionalisierte Umsetzung der Zweckentfremdungsverbotsverordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.7: Falschparker - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.8: Beschulung der Kinder aus der Flüchtlingsunterkunft in der Herman-Nohl-Schule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.9: Programm "Berlin Arbeit" sinnvoll nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.10: Standortanalyse für Schulerweiterungen und - neubauten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.11: Kennzeichnung eines Fahrradweges in der Neuköllner Straße / Ecke Rudower Spinne - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.12: Rudower Spinne - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Absenkung der Bordsteinkante - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Gutachten zu den Wirkungen des Milieuschutzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Fußgängerüberweg Lettberger Straße / Künnekeweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Senioren Tipps - mit Abschlussbericht zur Kenntnis genommen
