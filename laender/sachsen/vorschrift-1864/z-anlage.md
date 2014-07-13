@@ -13,7 +13,7 @@ b)
 aktueller Flurkartenauszug aus dem amtlichen Liegenschaftskataster mit Eintrag der Lage der Quelle;
 3. Angaben zur wasserrechtlichen Nutzung
 a)
-Nachweis über die wasserrechtliche Erlaubnis nach § 13 SächsWG beziehungsweise Bewilligung nach § 14 SächsWG ,
+Nachweis über die wasserrechtliche Erlaubnis nach § 13 SächsWG beziehungsweise Bewilligung nach § 14 SächsWG,
 b)
 Nutzungsberechtigter von Quelle sowie Grundstück (sofern nicht mit dem Eigentümer der Quelle identisch),
 c)
