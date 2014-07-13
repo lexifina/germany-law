@@ -1,5 +1,5 @@
 # Anlage 1 (zu § 2 Satz 2 Nr. 3 und 7, § 3 Abs. 2 Satz 1 und Abs. 8)
-Titel der Tabelle
+Übersicht
 Nr. | Parameter | Ausgezeichnete Qualität | Gute Qualität | Ausreichende Qualität | Referenzanalysemethoden
  | A | B | C | D | E
  | Parameter | Ausgezeichnete Qualität | Gute Qualität | Ausreichende Qualität | Referenzanalyse- methodena

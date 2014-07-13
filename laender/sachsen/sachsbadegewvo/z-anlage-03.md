@@ -20,7 +20,7 @@ während der kurzzeitigen Verschmutzung ergriffene Bewirtschaftungsmaßnahmen mi
 f)
 die Lage der Überwachungsstelle.
 2. Bei Badegewässern, die als „gut“, „ausreichend“ oder „mangelhaft“ eingestuft sind, ist das Badegewässerprofil regelmäßig zu überprüfen, um festzustellen, ob sich die in Nummer 1 aufgeführten Aspekte verändert haben. Erforderlichenfalls ist das Profil zu aktualisieren. Die Häufigkeit und der Umfang der Überprüfungen ist nach Maßgabe der Art und Schwere der Verschmutzung festzulegen. Die Überprüfungen müssen jedoch zumindest den in der nachstehenden Übersicht genannten Vorgaben entsprechen und mindestens in der dort angegebenen Häufigkeit erfolgen.
-Titel der Tabelle
+Übersicht
 Einstufung des Badegewässers | „Gut“ | „Ausreichend“ | „Mangelhaft“
 Überprüfung mindestens alle | 4 Jahre | 3 Jahre | 2 Jahre
 zu überprüfende Aspekte (Buchstaben der Nummer 1) | a bis f | a bis f | a bis f
