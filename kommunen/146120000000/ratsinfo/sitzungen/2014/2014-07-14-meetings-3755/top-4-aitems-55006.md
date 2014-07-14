@@ -1,0 +1,6 @@
+# TOP 4: Einwendungen zur Niederschrift der 56. Sitzung vom 23.06.2014
+
+- Sitzung: 57. Sitzung des Ortschaftsrates Schönfeld-Weißig (2014-07-14)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/55006
