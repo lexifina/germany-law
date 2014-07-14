@@ -1,0 +1,7 @@
+# TOP 8: Informationen
+
+- Sitzung: 57. Sitzung des Ortschaftsrates Schönfeld-Weißig (2014-07-14)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/55017
+- Ergebnis: Zustimmung
