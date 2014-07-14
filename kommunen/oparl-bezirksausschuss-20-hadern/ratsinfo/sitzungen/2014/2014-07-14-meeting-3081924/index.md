@@ -1,0 +1,89 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081924
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081924
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation Sauerbruchstraße
+- TOP 1.2.: Lärmbelästigung durch Fahrschulen in der Zöllerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Stamm Schwarze Löwen, Deutscher Pfadfinderbund Mosaik im Deutschen Pfadfinderband e.V., Grillvorrichtung für einen Ochsen (Direktorium, 17.06.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Stolzenfelsstraße 17 / Ehrenfelsstraße (Baureferat, 18.06.14)
+- TOP 6.3.: Budget der Bezirksausschüsse - Aktualisierung des Flyers und der Daten im Internet (Direktorium, 13.06.14)
+- TOP 6.4.: Stellungnahme der Bezirksausschüsse zum geplanten Stellenausbau in den Münchner Nachbarschaftstreffs (Sozialreferat, 28.05.14)
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest REGSAM in der Blumenauer Straße am 19.07.2014 (Kreisverwaltungsreferat, 05.06.14) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Anwohnerfest am 26.07.2014 in der Wilhelm-Weitling-Straße (Kreisverwaltungsreferat, 05.06.14) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Bramburgstraße 3, 2 Birken
+- TOP 7.2.: Haderunstraße 7, 1 Robinie
+- TOP 7.3.: Heckenrosenstraße 3, 1 Linde
+- TOP 7.4.: Ludlstraße 18, 1 Robinie
+- TOP 7.5.: Ludlstraße 67, 1 Birke
+- TOP 7.6.: Ossingerstraße 59, 1 Silberahorn
+- TOP 7.7.: Waldgartenstraße 44, 1 Scheinzypresse, 1 Kiefer und 1 Birke
+- TOP 7.8.: Waldgartenstraße 69, 2 Fichten
+- TOP 7.9.: Pelargonienweg 53, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 11858
+- TOP 7.10.: An der Rehwiese 20, gem. Baumbestandsplan Nr. 13255
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren (Direktorium, 06.06.14)
+- TOP 8.2.: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogenen städtischen Wettbewerben (Direktorium, 21.05.14)
+- TOP 8.3.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Durchführung von Mäharbeiten des Straßenbegleitgrüns (Referat für Gesundheit und Umwelt, 23.05.14)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Rebholzstraße zur Gewährleistung der Anfahrt des Bücherbusses an der Bücherbushaltestelle Farnweg (Kreisverwaltungsreferat, 03.06.14)
+- TOP 8.5.: Neufassung der Sondernutzungsrichtlinien, hier: Änderung in den Freischankflächenrichtlinien (Kreisverwaltungsreferat, 23.05.14)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, hier: - Konrad-Dreher-Straße: Strom (SWM, 26.05.14) - Würmtalstraße 100: Strom (SWM, 02.06.14)
+- TOP 8.7.: Zweckentfremdung von Wohnraum, hier: - Fürstenrieder Straße (Sozialreferat, 06.06.14) - Wildanger (Sozialreferat, 02.06.14) - Kurparkstraße (Sozialreferat, 19.05.14) - Würmtalstraße (Sozialreferat, 20.05.14) - Windeckstraße (Sozialreferat, 20.05.14) - Am Brombeerschlag (Sozialreferat, 12.06.14)
+- TOP 8.8.: Aktion gegen Radfahrer auf Münchner Friedhöfen (Referat für Gesundheit und Umwelt, Städt. Friedhöfe München, 26.06.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Ehemaliger Radweg Kornwegerstraße entlang der Grünanlage (Kreisverwaltungsreferat, 24.06.14)
+- TOP 9.2.: Räumliche Situation am Schulstandort Guardinistraße (Referat für Bildung und Sport, 05.06.14)
+- TOP 9.3.: Schließung der Postfiliale in der Blumenau (Referat für Arbeit und Wirtschaft, 18.05.14)
+- TOP 9.4.: Sauberkeit im Stadtbezirk 20 Hadern (Baureferat, 05.06.14)
+- TOP 9.5.: Fertigstellung des Streetwork-Büros in der Blumenau (Sozialreferat, 21.05.14)
+- TOP 9.6.: Anbindung der Häuser Schröfelhofstraße 70 und 74 an den Gehweg der Stadt (Baureferat, 20.05.14)
+- TOP 9.7.: Kindertagesstätte Blumenauer Straße 9 (Referat für Bildung und Sport, 25.06.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Sommer, Sonne, LILALU - Einladung zur Eröffnungsfeier unseres Familienprogramms im Olympiapark Süd am 09.08.2014 (Die Johanniter, 12.06.14)
+- TOP 11.2.: Förderverein Bildungscampus am Westpark
+- TOP 11.3.: Antrag BA 15 Trudering-Riem: Bekämpfung des Asiatischen Laubholzbockkäfers (Direktorium, 13.06.14)
+- TOP 11.4.: Regionalgespräche 2014 mit der Lokalbaukommission (Referat für Stadtplanung und Bauordnung, 11.06.14)
+- TOP 11.5.: Projekt-Aktivitäten für das "Urbane NaturNetz München" (Urbanes Wohnen e.V. München, 11.06.14)
+- TOP 11.6.: Protokoll des 19. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 28.05.2014 (Gleichstellungsstelle für Frauen, 10.06.14)
+- TOP 11.7.: Oktoberfest 2014; Reservierungen der Bezirksausschüsse (Direktorium, 05.06.14)
+- TOP 11.8.: Einladung Vorträge & Diskussionstische "Legionellenbefall - was tun?" am 16.07.2014 Fachforum "Schwellenfreies Bauen" am 17.07.2014 (Referat für Gesundheit und Umwelt, 23.06.14)
+- TOP 11.9.: Einladung zur Informationsveranstaltung MVG Rad am Dienstag, 22.07.2014 (SWM, 03.07.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00157 (nach Antrag): Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz (abgelehnt)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00436: Kindertagesstätten sonstiger Träger; Haus für Kinder an der Sauerbruchstraße 25 im 20. Stadtbezirk Hadern Leistung eines Baukostenzuschusses i.H.v. 23.147,- ?
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00161: TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen (zur Kenntnisnahme)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00096: Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens (abgelehnt)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00078: Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzept für das Quartierzentrum Trudering (ISEK) (abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00163: Information zum Fachtag "Doppelstock S-Bahn" (zur Kenntnisnahme)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
