@@ -1,0 +1,97 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-07-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129736
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129736
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Bebauungsplanverfahren für Eversbuschstraße / Otto-Warburg-Straße in Vorbereitung, sog. "Hirmerei"
+- TOP 2.2.2.: Umbenennung des Alten- und Servicezentrum in Haus der Senioren
+- TOP 2.2.3.: BV-Anträge vom 23.07.13: Tartanbahn, Neubau einer Sporthalle, Neubau einer Schwimmhalle (BV-Empf. 1908 und 1909)
+- TOP 2.2.4.: Klärung der Planung / Finanzierung / aktueller Status des Umbaus der Grundschule an der Pfarrer-Grimm-Straße
+- TOP 3: Anträge
+- TOP 3.1.: Spielplatz Ossannastraße
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Erinnerungsverfahren Eversbuschstr. 17-19, Gehbahn West
+- TOP 5.2.: Erinnerungsverfahren Stummerstr. 19-25, Hussweg und Keilstraße
+- TOP 5.3.: Erinnerungsverfahren Willstätterstr. 1 bis 7
+- TOP 5.4.: Pfarrfest Kath. Pfarramt Maria Himmelfahrt am 20.07.14
+- TOP 5.5.: Oertelplatz 4, Bodenaushubmaßnahmen zur Altlastensanierung (Oertelplatz / Franz-Nißl- / Georg-Reismüller- / Hintermeier- /Lautenschläger- / Vesaliusstraße)
+- TOP 5.6.: Stellenausbau in den Müchner Nachbarschaftstreffs
+- TOP 5.7.: Leistungsprogramm der MVG für die Fahrplanperiode 2015
+- TOP 5.8.: Änderung und Aufhebung der Radwegbenutzungspflicht in der Wilhelm-Zwölfer-Straße
+- TOP 5.9.: Eversbuschstr. 208, Gemarkung: Allach, Fl.Nr.: 1319/0 Neubau eines Omnibus-Betriebshofs - VORBESCHEID
+- TOP 5.10.: Bauschingerstr. , Gemarkung: Allach, Fl.Nr.: 1359/11 Neubau eines Lebensmittelmarktes mit Pkw-Stellplätzen
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: a) Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz (Sitzungsvorlage Nr. 14-20 / V 00157) b) Flächensparende Gewerbeansiedlungen und Ziele des integrierten Stadtteilentwicklungskonzeptes für das Quartierzentrum Trudering (Sitzungsvorlage Nr. 14-20 / V 00078) c) Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens (Sitzungsvorlage Nr. 14-20 / V 00096) d) TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen (Sitzungsvorlage Nr. 14-20 / V 00161) e) Information zum Fachtag "Doppelstock-S-Bahn" (Sitzungsvorlage Nr. 14-20 / V 00163) f) Bebauungsplan mit Grünordnung Nr. 1655a, Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich), Teiländerung Bebauungsplan Nr. 859 (Sitzungsvorlage Nr. 14-20 / V 00122)
+- TOP 6.2.: Beschluss des Bauausschusses vom 01.07.2014: Vollzug des Bayer. Straßen und Wegegesetzes im Stadtbezirk 10 Moosach und im Stadtbezirk 23 Allach-Untermenzing; Widmung einer Teilstrecke der Waldhornstraße (Sitzungsvorlage Nr. 611)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Bebauungsplan Nr. 1617c, Pflegeheim Franz-Nißl-Straße; Vorstellung im Bezirksausschuss
+- TOP 7.2.: Oktoberfest 2014; Reservierungen der BAs
+- TOP 7.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.06.14: Regionalgespräch 2014 mit der Lokalbaukommission
+- TOP 7.4.: Schreiben Urbanes Wohnen e.V. München vom 11.06.14: Rundbrief; Projekt "Urbanes NaturNetz München"
+- TOP 7.5.: Schreiben Behindertenbeirat vom 12.06.14: Behindertenbeauftragte in den Bezirksausschüssen
+- TOP 7.6.: Antrag auf Tempo 30 für die Menzinger Straße im Wohnsammelbereich
+- TOP 7.7.: Einladung zur Vorstellung von REGSAM für die neu gewählten Bezirksausschüsse am 21.07.14, 18:00 - 20:00 Uhr
+- TOP 7.8.: Ferienzeit / Ferienausschuss für August 2014 oder für weitere Jahre und Wahl der Sitzungsleitung des Ferienausschusses und Benennung der Mitglieder
+- TOP 8: Umlauf
+- TOP 1: Schreiben Oberbürgermeister vom 15.05.14: Verhinderung des Lkw-Verkehrs in der Von-Reuter-Straße und Rueßstraße, BV-Empf. 1111 vom 20.10.2011
+- TOP 2: Schreiben Oberbürgermeister vom 01.07.2014: Behebung der Gefahrensituation Allacher Straße / Ecke Zwiedineckstraße (Empf. 1369 der BV vom 19.06.2012)
+- TOP 2.3.: Schreiben Direktorium vom 05.06.14: Zuwendung aus dem Budget der Bezirksausschüsse, Verwendungsnachweis - Projektwoche zum Thema "Zeitreise"; Antragsteller: Förderverein der Pfarrer-Grimm-Grundschule e.V.
+- TOP 2.4.: Schreiben Direktorium vom 10.06.14: Zuwendungsbewilligung aus dem Budget des BA 23; Antragsteller: Kleingartenverein NW 002 e.V. Westwind Allach
+- TOP 2.5.: Schreiben Direktorium vom 13.06.14: Asiatischer Laubholzbockkäfer im Stadtbezirk 15?, BA-Antrag Nr. 4789 des BA 15 Weiteres Vorgehen zur Bekämpfung des Asiatischen Laubholzbockkäfers transparent machen, BA-Antrag Nr. 5395 des BA 15 Klare Kompetenzen zur Koordinierung der Bekämpfung des Asiatischen Laubholzbockkäfers, BA-Antrag Nr. 5801 des BA 15
+- TOP 2.6.: Schreiben Direktorium vom 06.06.14: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren
+- TOP 2.7.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Penzoltstr. 19, Lindemannstr. 5, Schlehbuschstr. 3, Grünwedelstr. 3, Kindergartenweg 4, Willi-Wien-Str. 45, Dachauer Str. 665, Ossannastr. 14, Rudhartstr. 41, Eversbuschstr. 17, Ossannastr. 14, Krautheimstr. 29
+- TOP 2.8.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben; Eversbuschstr. 208, Esmarchstr. 8, Gerberau Fl.Nr. 1398/0
+- TOP 2.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 28.05.14: Dachauer Str. 665, Fällungsantrag vom 28.05.14 und 13.06.14
+- TOP 2.10.: Schreiben Referat für Stadtplanung und Bauordnung Bauanträge (19.05.-25.05., 26.05.-01.06., 02.06.-08.06., 09.06.-15.06.14, 16.06.-22.06.14, 23.06.-29.06.14)
+- TOP 2.11.: Schreiben Baureferat vom 02.06.14: Eversbuschstraße
+- TOP 2.12.: Schreiben Baureferat vom 10.06.14: Veranstaltung zu Pumptracks im Baureferat am 27.05.14
+- TOP 2.13.: Schreiben Baureferat vom 12.06.14: Tempo-20-Schild Allacher Unterführung
+- TOP 2.14.: Schreiben Baureferat vom 05.06.14: Eversbuschstraße auf Höhe der Otto-Warburg-Straße
+- TOP 2.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.16.: Schreiben Kulturreferat vom 01.07.14: Veranstaltungsübersicht Juli 2014
+- TOP 2.17.: Schreiben Referat für Bildung und Sport vom 13.06.14: Schulzentrum an der Pfarrer-Grimm-Straße; Bestandsaufnahme der benötigten Klassenzimmer und Fachräume, BV-Empf. Nr. 1910 vom 23.07.13
+- TOP 2.18.: Schreiben Kommunalreferat vom 12.06.2014: Beendigung der Zwischennutzung auf dem Junkers- und Hochtiefgelände durch das Kommunalreferat, Abteilung Immobilienverwaltung
+- TOP 2.19.: Schreiben Sozialreferat vom 05.06.14: Zweckentfremdung von Wohnraum, Kupfferstraße
+- TOP 2.20.: Schreiben Stadtwerke München GmbH vom 02.06., 10.06.14, 16.06.14, 23.06.14, 30.06.14: Baumaßnahmen
+- TOP 2.21.: Schreiben Stadtwerke München GmbH vom 13.06.14 und 30.06.14: Baumaßnahmen der SWM; Fernwärmeprojekt Hanfgartenstraße 2: 1. BA Goteboldstraße 2. Gesamtinformation über das Bauprojekt
+- TOP 2.22.: Schreiben Kreisverwaltungsreferat vom 11.06.14: Behringstr. 101, Abbrennen eines Feuerwerks am 18.06.14
+- TOP 2.23.: Schreiben Städt. Friedhöfe München vom 26.06.14: Aktion gegen Radfahrer auf den Münchner Friedhöfen
+- TOP 2.24.: Gleichstellungsstelle für Frauen und Koordinierungsstelle für gleichgeschlechtliche Lebensweisen: Gemeinsam sind wir stark - Dokumentation des Fachtags am 07.06.13
+- TOP 2.25.: Schreiben Gleichstellungsstelle für Frauen vom 10.06.14: Protokoll des 19. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 28.05.14
+- TOP 2.26.: Schreiben Münchner Selbsthilfejournal einBlick 02/2014 vom 03.06.14: Aktuelle Ausgabe
+- TOP 2.27.: Schreiben Bayer. Rotes Kreuz vom 19.06.14: Zuwendung im Haushalt 2014
+- TOP 2.28.: Schreiben Münchner Forum vom 01.07.14: Einladung 175 Jahre Flaucher - 175 Jahre STADTGRÜN: Ausstellung am 18.07., Radltour am 20.07., Werkstattgespräch am 24.07.14
+- TOP 9: Nachtrag
+- TOP 9.1.: Antrag: Absperrung Schöllstraße
+- TOP 9.2.: Umlauf: Schreiben Oberbürgermeister vom 03.07.14: Bürgerinitiative "Allach l(i)ebenswert", Entwicklung im Norden Allachs
+- TOP 9.3.: Schreiben Kreisverwaltungsreferat vom 02.07.14: Link für die Auskunft über allgemeine Behindertenparkplätze / Allgemeine Informationen
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.07.14, 04.07.14: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben: Bauschingerstr. , Am Lochholz 16, Auerhahnweg 8, Eversbuschstr. 119
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Bechtolsheimerstr. 18, August-Horch-Str. 28, Allacher Str. 140
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.07.14: Bauanträge
+- TOP 9.7.: Schreiben Sozialreferat vom 30.06.14: Antrag auf Zweckentfremdung von Wohnraum, Angerlohstr.
+- TOP 9.8.: Schreiben Referat für Arbeit und Wirtschaft vom 04.07.14: Europe Direct Informationen 03/2014
+- TOP 9.9.: Schreiben Referat für Gesundheit und Umwelt vom 30.06.14: Schöllstr. 2, Abriss der Hallen - Abbau des verbauten Asbest
+- TOP 9.10.: Schreiben Stadtwerke München GmbH vom 30.06.14: Baumaßnahmen der SWM, Stromprojekt Hanfgartenstr. 2, 2. Bauabschnitt Theodor-Fischer-Straße / Pasinger Heuweg
+- TOP 9.11.: Schreiben Stadtwerke GmbH vom 07.07.14: Baumaßnahmen
+- TOP 9.12.: Schreiben Münchner Forum vom 03.07.14: Juliausgabe 2014
+- TOP 9.13.: Schreiben vom TSV Allach 09 vom 05.07.14: Rechenschaftsbericht
+- TOP 9.14.: Verschiedenes: Einladung Informationsveranstaltung MVG Rad am 22.07.14, 19:00 Uhr
+- TOP 9.15.: Einladung KVR zum Ortstermin Schöllstraße am 22.07.14
+- TOP 9.16.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Bebauungsplan mit Grünordnung Nr. 1655a Oertelplatz, Bahnlinie München-Ingolstadt (westlich), Hintermeierstraße (nördlich), Lautenschlägerstraße (östlich), Vesaliusstraße (südlich) und Georg-Reismüller-Straße (östlich) sowie Franz-Nißl-Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 859) Vorlagen Nr. 122
