@@ -1,0 +1,8 @@
+# TOP 9: Ulmer Bürger Stiftung
+
+- Sitzung: Sitzung des Gemeinderats (2014-07-16)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/11771
+- Ergebnis: Kenntnis genommen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/4324
