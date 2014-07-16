@@ -1,0 +1,71 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-07-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3340617
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3340617
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Tageseltern München und Umgebung e. V. 20-Jahr-Feier am 24.10.2014 - <div>nach Antrag</div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube ?komm? Streetwork am 08.08.2014 - <div>Zustimmung in Höhe von 1000,00 Euro</div>
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Kulturzentrum Wörthhof Radl-Aktion am 27.07.2014 - <div>nach Antrag</div>
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Sozialwerk München Ost e.V. Begegnungsnachmittag für Ältere und Kranke des Pfarrverbandes Haidhausen am 20.09.2014 - <div>nach Antrag</div>
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Initiative ?Unterführungsgestaltung? Gestaltung DB-Unterführung vom 22. bis 25.09.2014 - <div>nach Antrag</div>
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 1.2.: (E) Erhalt der Fassade beim Bauvorhaben der Volkshochschule in der Einsteinstraße 28 Empfehlung Nr. 08-14 / E 02176 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen- Bezirksteil Au am 23.01.2014
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: "inFARMING" auf den Flachdächern der Nachfolgenutzung von Paulaner
+- TOP 8.1.2.: BAs in die Rahmenplanung "Innerstädtischer Isarraum" einbeziehen
+- TOP 8.1.3.: Wegereparatur am Hochufer des Auer Mühlbachs
+- TOP 8.1.4.: Tempo 30 am Johannisplatz
+- TOP 8.1.5.: Tempo 30 von Orleansplatz bis Milchstraße
+- TOP 8.1.6.: Ausübung der Räum- und Streupflicht der Landeshauptstadt innerhalb des Mittleren Rings
+- TOP 8.1.7.: Verhalten der Landeshauptstadt bei Schadensersatzgeltendmachung durch betroffene Bürger
+- TOP 8.1.8.: Verbesserung Platzsituation vor "Üblackerhäusl", Preysingstraße 58
+- TOP 8.1.9.: Verlagerung der PI 21 ?
+- TOP 8.1.10.: Aufwertung der Tegernseer Landstraße: Auswirkungen auf den 5. Stadtbezirk
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
+- TOP 1: (E) Wohnprojekt Kegelhofmühle, Kegelhof 3 a) Weiteres Vorgehen beim Wohnprojekt Kegelhofmühle bzw. Bitte um Information bezüglich der weiteren Planungen und Vorgehensweise der städtischen Wohnbaugesellschaft GWG BA-Antrag Nr. 08-14 / B 05429 des Beirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 20.11.2013 b) Kegelhofmühle; Inhalt des Planungskonzepts BA-Antrag Nr. 08-14 / B 05477 des Bezirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 18.12.2013 c) Wohnprojekt Kegelhofmühle: Offenlegung der Pläne zu Aus- und Umbau, des Planungskonzepts, der Gebäudeaufteilung für Wohnnutzung und des Grundstücksanteils für soziale Nutzungen; Übereinstimmung mit den Anträgen bei Bürgerversammlungen Empfehlung Nr. 08-14 / E 02166 der Bürgerversammlung des Stadtbezirks 05 - Au-Haidhausen - Bezirksteil Au am 23.01.2014 d) Wohnprojekt Kegelhofmühle: keine Schließung der Kinderspielplätze am Kegelhof und auf der Wiese am Wasser während der Bauzeit Empfehlung Nr. 08-14 / E 02167 der Bürgerversammlung des Stadtbezirks 05 - Au-Haidhausen - Bezirksteil Au am 23.01.2014 e) Aktuelle Planungen Kegelhof BA-Antrag Nr. 08-14 / B 05658 des Bezirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 19.02.2014 f) ... > Aufgrund der begrenzten Kapazität ist der restliche Teil des Betreffs nicht darstellbar < - <div>nach Antrag</div>
