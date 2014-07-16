@@ -1,0 +1,103 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-07-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3096738
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3096738
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschriften vom 25.06.14 und 30.06.14
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Präsentation Baustellenorganisation und Bauvorhaben Paulaner-Brauerei, Langwied
+- TOP 1.6: Präsentation Freiham Mitte an die BAB
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Bahnlärm an der Lichtenfelser Straße
+- TOP 2.1.2.: Bebauung Gleisharfe
+- TOP 2.1.3.: Lebensmittelgeschäft in Lochhausen
+- TOP 2.1.4.: Errichtung Haltverbot an der T-Kreuzung Hellenstein-/ Reußensteinstr.
+- TOP 2.1.5.: ehem. Ausbesserungswerk an der Rupert-Bodner-Straße
+- TOP 2.1.6.: Haltverbot und Verkehrssituation Langwieder Hauptstraße
+- TOP 2.1.7.: Straßenausbesserungsarbeiten Hellensteinstr. 1 h - 3
+- TOP 2.1.8.: Fußgängerübergang Altostr. / Giglweg
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Pretzfelder Str. 38 - Ostermoosstr. 18 - Kleiberweg 16 - Wolfsberger Str. 9
+- TOP 3.1.2.: Genehmigung von Baumfällungen im Rahmen von Bauanträgen: - Mainaustr. 22 - 44 - Papinstr. 25 - Vestastr. 14 - Kleiberweg 16
+- TOP 3.2: Berichte der weiteren Beauftragten
+- TOP 4: Anträge
+- TOP 4.1.: Bus 143 - Durchfahrt Bergsonstr. / Unterführung
+- TOP 4.2.: Verbesserung Verkehrssicherheit Ensemblebereich Aubing durch Ausweitung des Tempo 30 Bereichs ab Fabrikstraße in nördlicher Richtung
+- TOP 4.3.: Ausrichtung der Fußgängerampel an der Kreuzung Bodensee- / Limesstraße
+- TOP 4.4.: Verschmutzung auf der Bergsonstraße im Bereich Unterführung und Rampe S-Bhf Langwied
+- TOP 4.5.: Verschönerung in Fuß-/Radwegunterführung 41/114 Radolfzellerstr. / Westkreuz
+- TOP 4.6.: Bolzplatz in Freiham-Nord
+- TOP 4.7.: P & R Gelände S-Bahnhof Langwied
+- TOP 4.8.: Fitness-Parcours in Neuaubing und Westkreuz
+- TOP 4.9.: Zufahrt Überlinger Weg
+- TOP 4.10.: Einrichtung des Hauses für Kinder (Standort 2, Süd) im Zuge des Neubaus in der Aubing-Ost-Straße
+- TOP 4.11.: Errichtung von Kinderbetreuungseinrichtungen im Zuge des Neubaus in der Aubing-Ost-Straße
+- TOP 4.12.: Verschönerung der Fugängerunterführung Limes-/ Bodenseestr.
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Bürgersaal am Westkreuz, Schr. Kulturreferat vom 11.06.14 (vertagt aus 06/14)
+- TOP 6.1.2.2.: Erlaubnisbescheid für Straßenfest am 26.07.14 in der Dietrichsteinstraße, Schr. KVR vom 30.06.14
+- TOP 6.1.2.3.: Zurückziehung des Antrages auf Zuschuss aus dem Budget des BA 22, Antragsteller: Tagesheim Ravensburger Ring, Schr. Direktorium vom 30.06.14
+- TOP 6.1.2.4.: Veranstaltungsübersicht Juli 2014, Schr. Kulturreferat vom 01.07.14
+- TOP 6.1.2.5.: Presse-Hintergrundgespräch im Hotel Pollinger, mail vom 03.07.14
+- TOP 6.1.2.6.: Zuwendung aus dem Budget des BA 22, Verwendungsnachweis - Anfertigen von Gedenktafeln, Schr. Direktorium vom 07.07.14
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.2.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.2.2.1.: Bauprogramm 2013 zur Realisierung von Kinderbetreuungsplätzen, Errichtung eines Hauses für Kinder mit 2 Kinderkrippen- und 2 Kindergartengruppen an der Rossittner Str. ("Spatzenwinkel"), Schr. Baureferat vom 23.06.14
+- TOP 6.2.2.2.: Schülerstand Grundschule Ravensburger Ring 37, Schr. GS Ravensburger Ring vom 01.07.14
+- TOP 6.2.2.3.: Grundschulversorgung im Zusammenhang mit dem Baugebiet Aubing-Ost, Schr. Ref. f. Bildung u. Sport vom 01.07.14
+- TOP 6.2.2.4.: Planungsdaten des Ref. f. Schule und Sport im Schul- und Kindertagesstättenbereich für den 22. Stadtbezirk
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.3.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.3.1.1.: Straßenbenennung im 22. Stadtbezirk; Teilumbenennung der Berglwiesenstr., Teilumbenennung der Mooswiesenstr., Benennung der U-1646 verbunden mit der Teilumbenennung der Mooswiesenstr. und der Verlaufsänderung der Hanfgartenstr., Anhörung Kommunalreferat vom 01.07.14
+- TOP 6.3.1.2.: Ausbau der Eisenbahnunterführung Bodenseestraße (Ziffer 1 des Antrags Nr. 5 sowie Antrag Nr. 6)
+- TOP 6.3.1.3.: Bebauung Gleisdreieck Pasing; verkehrstüchtige Bahnunterführung Bodenseestraße
+- TOP 6.3.1.4.: Verkehrstüchtiger Ausbau der Bahnunterführung Bodenseestraße (Höhe Gleisdreieck)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen (4)
+- TOP 6.4.1.1.: Altostr., Neubau zweier Mehrfamilienhäuser und eines Doppelhauses mit Tiefgarage, Anhörung Planungsreferat vom 26.05.14 (vertagt aus 06/14)
+- TOP 6.4.1.2.: Schwojerstr. 13, Erweiterung eines Wohnhauses durch Anbau eines neuen Zugangsbereichs, Anhörung Planungsreferat vom 25.06.14
+- TOP 6.4.1.3.: Bebauungsplan mit Grünordnung, BAB A 99 - Anschlussstelle Germering-Nord bis 500 m (nach Osten) - Aufstellungsbeschluss - , Anhörung Planungsreferat vom 05.06.14
+- TOP 6.4.1.4.: Osterangerstr., Neubau eines Einfamilienhauses mit Garage, Anhörung Planungsreferat vom 07.07.14
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (4)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk vom 16.06.-22.06.14, 23.06.29.06.14, 30.06.-06.07.14, Schr. Planungsreferat vom 24.06.14, 30.06.14, 08.07.14
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 23.06.14, 30.06.14, 07.07.14
+- TOP 6.4.2.3.: Antrag BA 15 Trudering-Riem: Bekämpfung des Asiatischen Laubholzbockkäfers, Schr. Direktorium vom 13.06.14
+- TOP 6.4.2.4.: Brunhamstraße, Nutzung der Hallen der ehemaligen Schlafwagengesellschaft, Schr. Planungsreferat vom 17.01.14
+- TOP 6.4.2.5.: Aufstellung einer Informationstafel über das Bauvorhaben Freiham Nord, Schr. Planungsreferat vom 30.06.14
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Boulderwelt München West", Bertha-Kipfmüller-Str. 19, Schr. KVR vom 17.06.14
+- TOP 8.2.: Unveränderte Fortführung des Gaststättenbetriebes "Campinggaststätte", Eschenrieder Str. 119, Schr. KVR vom 02.07.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: - Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzept für das Quartierszentrum Trudering (ISEK)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.14: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/31 S-Bahnlinie München - Herrsching (nördlich und südlich), S-Bahnlinie München - Geltendorf (südlich), BAB A 99 West (östlich und westlich), Neuaubing (westlich) - Freiham-Nord
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Dank für Zuschuss aus dem BA-Budget des Bayerischen Roten Kreuzes, Wasserwacht OG München-West, Schr. vom 19.06.14
+- TOP 11.2.: Verlegung Erörterungstermin Abfallentsorgungsanlage der Thyssen Dück GmbH & Co. KG auf den 04.09.14, Schr. Ref. f. Gesundheit u. Umwelt vom 30.06.14
+- TOP 11.3.: Europe Direct Informationen 03/2014, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.07.14
+- TOP 11.4.: Einladung zur 525-Jahrfeier der Kirchweihe von St. Quirin am 10.08.14, 11.00 Uhr
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 20.08.14 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (5)
+- TOP 8: Unterrichtungen / Bekanntgaben (5)
+- TOP 3.1: Baumschutzbeauftragte
