@@ -1,0 +1,8 @@
+# TOP 1: (E) Wohnprojekt Kegelhofmühle, Kegelhof 3 a) Weiteres Vorgehen beim Wohnprojekt Kegelhofmühle bzw. Bitte um Information bezüglich der weiteren Planungen und Vorgehensweise der städtischen Wohnbaugesellschaft GWG BA-Antrag Nr. 08-14 / B 05429 des Beirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 20.11.2013 b) Kegelhofmühle; Inhalt des Planungskonzepts BA-Antrag Nr. 08-14 / B 05477 des Bezirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 18.12.2013 c) Wohnprojekt Kegelhofmühle: Offenlegung der Pläne zu Aus- und Umbau, des Planungskonzepts, der Gebäudeaufteilung für Wohnnutzung und des Grundstücksanteils für soziale Nutzungen; Übereinstimmung mit den Anträgen bei Bürgerversammlungen Empfehlung Nr. 08-14 / E 02166 der Bürgerversammlung des Stadtbezirks 05 - Au-Haidhausen - Bezirksteil Au am 23.01.2014 d) Wohnprojekt Kegelhofmühle: keine Schließung der Kinderspielplätze am Kegelhof und auf der Wiese am Wasser während der Bauzeit Empfehlung Nr. 08-14 / E 02167 der Bürgerversammlung des Stadtbezirks 05 - Au-Haidhausen - Bezirksteil Au am 23.01.2014 e) Aktuelle Planungen Kegelhof BA-Antrag Nr. 08-14 / B 05658 des Bezirksausschusses des Stadtbezirks 05 - Au-Haidhausen vom 19.02.2014 f) ... > Aufgrund der begrenzten Kapazität ist der restliche Teil des Betreffs nicht darstellbar <
+
+- Sitzung: BA 05 - Vollgremium (2014-07-16)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/421648
+- Ergebnis: <div>nach Antrag</div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/421648
