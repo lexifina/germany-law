@@ -1,0 +1,107 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-07-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109326
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109326
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Oktoberfestbesuch 2014 ? Benennung eines Wunschtermins und zweier Ersatztermine
+- TOP .2.: Bestellung eines Ferienausschusses 2014
+- TOP .3.: Sitzungstermine 2015
+- TOP .4.: Neuer Standort des Schaukasten Ecke Viktualienmarkt/Prälat-Zistl-Straße
+- TOP .1.: Information zur Anmeldung der Versammlung PARK(ing) Day am 19.09.2014, Sendlinger Straße; Green City e.V.
+- TOP 1: (E) Gestaltung des Sattlerplatzes Empfehlung Nr. 08-14 / E 02135 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 05.12.20 - <div>nach Antrag</div>
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Jungfernturmstr. 2, Neubau eines Bürohauses mit zwei Betriebswohnungen und einer automatischen Garage (30 Stellplätze) (vertagt aus 2014.06 B 3.1.1)
+- TOP 1.2.: Residenzstr. 9, Errichtung einer Freischankfläche (vertagt aus 2014.06 B 3.1.4)
+- TOP 1.3.: Aufbau eines Schaltverteilers: Blumenstr. 32, Blumenstr. 5, Rindermarkt 5, Hotterstr. 10, Angertorstr. 7, Kreuzstr. 16, Hotterstr. 5, St.-Jakobs-Pl. 12, Unter Anger 11, Marienplatz 21, Rosental 16, Rosental 5, Josephspitalstr. 8 -11, Roßmarkt 3, Oberanger 24, Hackenstr. 5, Herzogspitalstr. 7, Utzschneiderstr. 7, Rindermarkt, Fürstenfelder Str. 5 (vertagt aus 2014.06 B 3.1.6)
+- TOP 1.4.: Löwengrube 10, Nutzungsänderung und Erweiterung von Café und Bäckerei zu Restaurant (vertagt aus 2014.06 B 3.1.10)
+- TOP 1.5.: Maximilianstr. 33, Nutzungsänderung und Umbau eines Ladengeschäftes in ein Café mit Restaurant (vertagt aus 2014.06 B 3.1.12)
+- TOP 1.6.: Kreuzstr. 18, Nutzungsänderung und Erweiterung: Dachgeschoss und Spitzboden zu Hotelzimmer sowie Aufstockung eines Dachgeschosses (vertagt aus 2014.06 B 3.1.13)
+- TOP 1.7.: Dultstr. 1, Umbau mit Aufstockung eines Wohn- und Geschäftshauses sowie Nutzungsänderung einer Gastronomieeinheit in eine Apotheke (vertagt aus 2014.06 B 3.1.15)
+- TOP 1.8.: Neuhauser Str. 8, Nutzungsänderung Verwaltungsbau EG + 1. OG zu Verkauf sowie Errichtung neuer Zugänge
+- TOP 1.9.: Weinstr. 4, Überbauung des Innenhofs im EG
+- TOP 1.10.: Rumfordstr. 11a, Sanierung und Umbau des Gesamtanwesens
+- TOP 1.11.: Weinstr. 6, Neubau eines Geschäfts- und Bürogebäudes
+- TOP 1.12.: Kardinal-Faulhaber-Str. 12, Umbau und Erweiterung ? Private Banking und Kassenhalle
+- TOP 1.1.: Prälat-Zistl-Straße, Bushaltestelle Viktualienmarkt
+- TOP 1.1.: Angst vor Einbruch im Tal
+- TOP 1.2.: Künstlerstände in der Innenstadt
+- TOP 1.2.1: Gaststätten
+- TOP 1.1.: Westenriederstr. 43, Gaststätte ?Brasserie L'Atelier Art & Vin? (vertagt aus 2014.06 C 2.2.8)
+- TOP 1.2.: Maximiliansplatz 12a, Gaststätte ?Pietra Piccina?, Genehmigung einer Freischankfläche
+- TOP 1.3.: Müllerstr. 56, Gaststätte ?Pimpernel?, Genehmigung einer Freischankfläche
+- TOP 1.4.: Tal 6, Mc Donalds, Erweiterung einer bestehenden Freischankfläche
+- TOP 1.5.: Sternstr. 21, Gaststätte ?Barfly & Kitchen?; Erweiterung einer bestehenden Freischankfläche
+- TOP 1.6.: Sternstraße 20, Lebenslust Event GmbH, Genehmigung einer Freischankfläche
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: St.-Anna-Str. 15, Trakya Bäckerei, Genehmigung einer Freischankfläche
+- TOP 1.2.: Liebherrstr. 22/Ecke Zweibrückenstr., Martin Wimmer Leasing und Marketing GmbH; Genehmigung einer Freischankfläche
+- TOP 1.3.: Zeitungsentnahmegeräte an diversen Standorten
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Präsentation am Richard Strauss Brunnen am 11.10.2014, Bayerisches Rotes Kreuz
+- TOP 1.2.: Ander Art Festival am 27.09.2014 auf dem sog. Odeonsplatz
+- TOP 1.3.: Kirchenzug zum Gärtnerjahrtag am 05.08.2014 durch die Innenstadt
+- TOP 1.4.: Veranstaltung des Literaturhauses am 23.07.2014 am Salvatorplatz
+- TOP 1.5.: Münchner Eiszauber vom 21.11.2014-18.01.2015 am Karlsplatz
+- TOP 1.6.: Info-Veranstaltung in der Neuhauserstr. 8 vom 29.10.-31.10.2014
+- TOP 1.7.: Französischer Gourmetmarkt auf dem Rindermarkt vom 06.08.-09.08.2014
+- TOP 1.8.: Bayerisches Genussfestival vom 01.08.-03.08.2014 auf dem sog. Odeonsplatz
+- TOP 1.9.: Oktoberfest Wiesnzüge am 20.09.2014
+- TOP 1.10.: KVR-Öffentlichkeitskampagne an der Veterinärstraße am 03.08.2014
+- TOP 1.11.: Italienisches Fest am 26.07.-27.07.2014 auf dem sog. Odeonsplatz
+- TOP 1.12.: Nachtrag zu TOP 3.1.11, Italienisches Fest am 26.07.-27.07.2014, Neuer Lageplan
+- TOP 1.13.: Nachtrag zu TOP 3.1.9, Oktoberfest Wiesnzüge 2014
+- TOP 1.1.: Erfahrungsbericht zur 5. Münchner Radlnacht; Rückmeldung zur Durchführung
+- TOP 1.1.: Aktuelle Verkehrsregelung in der Ländstraße
+- TOP 1.2.: Unnötiges Parken/Halteverbot in der Oettingenstraße
+- TOP 1.3.: Ruhezeiten für Bewohner am Marienplatz (vertagt aus 2014.06 D 1.1)
+- TOP 1.4.: Unsichere Verkehrsregelung durch zwei neue Ampeln, Ecke Max-Joseph-Brücke/Widenmayerstraße
+- TOP 1.5.: Antrag der FDP-Fraktion: Öffnung des Gehwegs in der Oettingenstraße in südlicher Richtung während der Baumaßnahme für den Radverkehr
+- TOP 1.6.: Antrag der GRÜNEN: Anfrage beim Planungsreferat nach dem Stand der Planung in Sachen Radweg Zweibrückenstraße
+- TOP 1.7.: Lärmbelästigung durch Trommler im Englischen Garten
+- TOP 1.1.: Einrichtung eines Taxistandortplatzes, Maximilianstraße 11
+- TOP 1.2.: Verlegung eines Taxistandplatz von der Sonnenstr. 12 in die Sonnenstr. 25-27
+- TOP 1.1.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße (vertagt aus 2014.05. B 3.2.1, 2014.06 D 3.3)
+- TOP 1.2.: Errichtung eines personenbezogenen Behindertenparkplatzes, Marienstr. 18
+- TOP 1.3.: Öffnung des einbahngeregelten Rosentals und des Färbergrabens zwischen Oberanger und Sattlerstraße für den gegenläufigen Radverkehr
+- TOP 1.4.: Baumfällungsantrag in der Dianastraße 7
+- TOP 1.5.: Baumfällungsantrag in der Salvatorstr. 14
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Theater des hölzernen Gelächters Sommertheaterproduktion im August und September 2014
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Consolato Generale d'Italia - Italienisches Generalkonsulat Italienisches Straßenfest vom 26. bis 27.07.2014
+- TOP 1.1.: Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 1.1.: Wiedereröffnung der freien Fußballstunde am Schulsportgelände Hirschanger (vertagt aus 2014.06 F 1.1)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Antwortschreiben des Kreisverwaltungsreferats: Viktualienmarkt, Sektion III, Unterstützung von Kellerdecken, Sanierung von Marktständen (2014.04 B 3.1.4)
+- TOP 0.2.: Antwortschreiben des Referats für Stadtplanung und Bauordnung zur BV-Anfrage Nr. 08-14/Q 00573 ?Geplante Durchgänge (Passagen) in Fortführung der Hofstatt?? von der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013
+- TOP 0.3.: Schreiben der Telekom zur Information vom Baureferat zum Vorgang ?Aufbau von Schaltverteiler? (2014.06 B 3.1.6)
+- TOP 0.4.: Behandlung des BA-Antrags Nr. 08-14/B 05526 ?Erhaltungssatzung für Lehel? in der Vollversammlung des Stadtrats am 08.07.2014 (2014.01 B 1.1)
+- TOP 0.5.: Stellungnahme der U. Denkmalschutzbehörde zur Anfrage ?Einbau von Fenstern 3. OG links in der Adelgundenstraße 6?
+- TOP 0.1.: Neufassung der Sondernutzungsrichtlinien; Änderungen in den Freischankflächen-richtlinien
+- TOP 0.2.: Kunst im öffentlichen Raum ? Der weiße Ballon, auf dem Marienhof vom 06.07.-09.08.2014
+- TOP 0.3.: Eilentscheidung des Vorsitzenden zur/zum: CSD-Veranstaltung am 19.-20.07.2014, Infoveranstaltung/Hundekampagne des KVR am 17.07.2014, Pressekonferenz Hundehaltung in München am 15.07.2014, Informationsveranstaltung ?Diabetes bewegt uns!? am 12.07.2014, Aktionstag ?Da Sein für München? am 05.07.2014, Bennofest am 17.06.2014, Fußwallfahrt St. Pius X am 25.07.2014
+- TOP 0.4.: Zustimmung der Veranstaltungen durch Fristablauf: Straßenfest in der Mariannenstraße am 19.07.2014, Internationales Fest der Kulturen auf dem sog. Odeonsplatz am 19.07.2014
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: Feuerwehranfahrtszone Isartorplatz 1, Aufhebung eines personenbezogenen Behindertenparkplatzes, Wagmüllerstr. 19 , Verkehrsbehinderungen in der Unsöldstraße (2014.04 D 3.1, 2014.06. D 0.1), Motorradparkplatz in der Prälat-Zistl-Straße, Absolutes Halteverbot, Thierschstraße 19
+- TOP 0.2.: Stellungnahme des Oberbürgermeisters zur BV-Empfehlung Nr. 08-14/E 02140 der Bürgerversammlung des 1. Stadtbezirks Altstadt-Lehel vom 05.12.2013 ?Befahren der Fußgängerzone durch Taxis mit schwerbehinderten Fahrgästen erlauben?
+- TOP 0.3.: Antwortschreiben des Baureferats zum BA-Antrag Nr. 14-20/B 00067 ?Ameiseplage beim Spielplatz Reitmorstr./Am Gries? (2014.06. D 1.2)
+- TOP 0.4.: Zwischennachricht des Kreisverwaltungsreferats zur BV-Empfehlung Nr. 08-14/E 02125 der Bürgerversammlung des 1. Stadtbezirks Altstadt-Lehel am 05.12.2013 ?Leinenzwang für alle Hunde am Sebastians- und Jakobsplatz? (2014.03 D 2.1)
+- TOP 0.1.: Rückmeldung des Baureferats zur Anfrage ?Ausstattung des Spielplatzes vor der Lukaskirche mit weiteren Spielgeräten? (2014.06 E 1.2)
+- TOP 0.2.: Dankesschreiben der Musica Sacra St. Anna zur Bewilligung der Zuwendung zur H-Moll-Messe am 27.07.2014.
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
