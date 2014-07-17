@@ -1,0 +1,82 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132625
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132625
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: Redezeitbegrenzung auf 2 Minuten für die gesamte Wahlperiode 2014-2020
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Orgelkonzert am 15.08.2014 - <div>nach Antrag</div>
+- TOP 1.3.: (E) Budget der Bezirksausschüsse TSV Trudering e.V. Beschaffung von Trainingsausstattung - <div>nach Antrag</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Anbringen einer Bodenmarkierung auf dem Gehweg zum halbseitigen Parken in der Ika- Freudenbergstraße - <div>Verweis in den UA Bau und Verkehr</div>
+- TOP 2.2.: Klettereisberg für den Riemer See - <div>Klärung der Örtlichkeiten beim OT</div>
+- TOP 2.3.: Erhöhung der Verkehrssicherheit in der Bajuwarenstraße - <div>Klärung bei OT</div>
+- TOP 2.4.: Ruhestörungen durch eine Shisha Bar in der Max-Rothschild-Straße 6 - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Verwaltungskräfte für Kinderbetreuungseinrichtungen - <div>Kenntnisnahme u Telefonat des Vors. mit dem RBS</div>
+- TOP 3.2.: Erneuerung der Radwege im Münchner Osten - <div>Kenntnisnahme</div>
+- TOP 3.3.: Barrierefreie Waldwege als Pilotprojekt für eine gelungene Inklusion - <div>Kenntnisnahme u WV in 12/2014</div>
+- TOP 3.4.: Trampelpfad südlich des S-Bahnhofs Riem als reguläre Fuß-Rad-Wegeverbindungzwischen Graf-Lehndorff-Straße und S-Bahn-Zugang herstellen - <div>Kenntnisnahme</div>
+- TOP 3.5.: Geothermieversorgung in der Messestadt Riem - <div>Kenntnisnahme</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Ausstattung der KITA im 5. Bauabschnitt mit einer Küche und Einstellung eines/r KöchIn oder HauswirtschaftsleiterIn - <div>Zustimmung und Weiterleitung an das RBS</div>
+- TOP 4.2.: Fußgängerbereich an der Truderinger Busplatte nachhaltig von abgestellten Fahrrädern freihalten - <div>Verweis in den UA Bau und Verkehr</div>
+- TOP 4.3.: "Dasein für München" auch in der Messestadt - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Budget der Bezirksausschüsse- Aktualisierung des Flyers und der Daten im Internet
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse
+- TOP 7.7.1: UA Allgemeines:
+- TOP 7.1.: Icarus- Straßenfest am 27.07.2014 (Ersatztermin: 03.08.2014) in der Maria- Montessori- Straße - <div>Zustimmung</div>
+- TOP 7.2.: Straßenfest am 26.07.2014 in der Ottilienstraße - <div>Zustimmung</div>
+- TOP 7.3.: Verwendungsnachweis über den Bewiiligungsbescheid der LHM; Kapellenfreunde Michaeliburg e.V. - <div>Kenntnisnahme</div>
+- TOP 7.7.2: UA Bau und Verkehr:
+- TOP 7.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2015 - <div>Abgabe einer Stellungnahme</div>
+- TOP 7.2.: Umwandlung von Kurzgras- in Langgrasflächen (Beschluss des Bauausschusses vom 04.02.214, Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, Sitzungsvorlage Nr. 08-14/ V 13354) Weitere Standorte für Hundekottütenspender (Beschluss des Stadtrates vom 19.03.2014, Aktion saubere Stadt- Weiterentwicklung, Sitzungsvorlage Nr. 08-14/ V 14090)- Vorstellung durch das Baureferat- Gartenbau - <div>Abgabe einer Stellungnahme</div>
+- TOP 7.3.: Verkehrssituation in der Feldbergstraße (Bürger) - <div>Kenntnisnahme</div>
+- TOP 7.4.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 AEG i.V.m. § 74 Abs. 6 VwVfG Vorhaben "Entwässerungsanlage Neubau, München- Ost Trudering km 10,914-11,338 und Trudering München Ost km 10,526-13,769 Strecke 5510 München Rosenheim" bis 16.07.2014. - <div>Zustimmung</div>
+- TOP 7.7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.1.: Neubau einer Jugendspielfläche am Horst- Salzmann- Weg (Vorstellung durch das Baureferat- Gartenbgau) - <div>Zustimmung</div>
+- TOP 7.7.4: UA Planung:
+- TOP 7.1.: Teuchertstraße 4 - <div>Ablehnung und Reduzierung der Höhe</div>
+- TOP 7.2.: Edingburghplatz - <div>Zustimmung</div>
+- TOP 7.3.: Kreillerstraße 183 - <div>Zustimmung</div>
+- TOP 7.4.: Herzogstandstraße (Gronsdorf) 106 - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.5.: Bauvorhaben Vogesenstraße 28 (Bürger) - <div>Kenntnisnahme</div>
+- TOP 7.7.5: UA Schule, Soziales und Kultur:
+- TOP 7.1.: Wo ist Platz für Kinder und Jugendliche im Riemer Park? TOP 4.5 vom 26.06.2014 vertagt
+- TOP 7.2.: Kommunale Gesundheitsvorsorge für Kinder- und Jugendliche in der Messestadt Riem (Vorlage des RGU wird nachgereicht) - <div>vertagt in 09/2014 bzw. FA</div>
+- TOP 7.7.6: UA Umwelt:
+- TOP 8: Baumfällungen
+- TOP 8.1.: Solalindenstraße 65 Niobestraße 17 Matterhornstraße 37 Fauststraße 78a Kibostraße 3 Elfriedenstraße 30 Max-Rothschild-Straße 16 Tangastraße 48 Steffelhofstraße 16 Stockerweg 12 Möwestraße 31 Florastraße 20 Habichtstraße 4 Am Schloßacker 5
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Vorgesehene Sitzungstermine in 2015
+- TOP 9.2.: Geschäftsverteilungsplan für den BA 15
+- TOP 9.3.: Benennung der Mitglieder des Ferienausschusses am 14.08.2014
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Information zum Fachtag "Doppelstock- S- Bahn"; Sitzungsvorlage Nr. 14-20/ V 00163; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 10.2.: Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzepts für das Quartierszentrum Trudering (ISEK) a) Flächensparende Gewerbeansiedlungen; Antrag Nr. 08-14/ A 04170 der Stadtrat?fraktion DIE GRÜNEN/RL vom 12.04.2013 b) Moderierte Gesprächsrunde zum Bebauungsplan Nr. 913- Bereich Schmuckerweg, Truderinger Straße, Bognerhofweg, Bahnlinie; BA- Antrags Nr. 08-14/ B 05263 des Bezirksausschusses des Stadtbezirkes 15 Trudering- Riem vom 19.09.2013; Sitzungsvorlage Nr. 14-20/ V 00078; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 10.3.: Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz; Empfehlung Nr. 08-14/ E 02006 der Bürgerversammlung des Stadtbezirkes 03- Maxvorstadt am 17.10.2013; Sitzungsvorlage Nr. 14-20/ V 00157; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 10.4.: Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens; Empfehlung Nr. 08-14/ E 01818 der Bürgerversammlung des Stadtbezirkes 08- Schwanthalerhöhe am 13.06.2013; Sitzungsvorlage Nr. 14-20/ V 00096; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 10.5.: TUM- Studie zur Wohnungsnachfrage im Stadtrat vorstellen; Antrag Nr. 08-14/ A 03997 von Herrn Stadtrat Walter Zöller, Herrn Stadtrat Dr. Georg Kronawitter vom 25.01.2013; Sitzungsvorlage Nr. 14-20/ V 00161; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014
+- TOP 10.6.: a) Bebaaungsplan mit Grünordnung Nr. 2028 Michael- Seidl- Straße (östlich), Truderinger Straße (südlich), Wasserburger Landstraße (nördlich) (Teiländerung des Beb.Pl.Nr. 1215) b) Aufhebung gemäß § 173 Abs. Baugesetzbuch (BBauG9 übergeleiteter einfacher Bebauungspläne- Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss- Stadtbezirk 15 Trudering- Riem; Sitzungsvorlage Nr. 14-20/ V 00465; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 (SB)
+- TOP 10.7.: Unveränderte Fortführung von Gaststättenbetrieben 1. Schank- und Speisewirtschaft, Zehntfeldstraße 139 2. Schank- und Speisewirtschaft, Stahlgruberring 13
+- TOP 10.8.: Kindertagesstätte sonstiger Träger; Haus für Kinder Truderinger Straße 343a im 15. Stadtbezirk Trudering- Riem, Leistung eines Baukostenzuschusses; Sitzungsvorlage Nr. 14-20/ V 00119; Beschluss des Ausschusses für Bildung des Stadtrates vom 04.06.2014
+- TOP 10.9.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren
+- TOP 10.10.: Open-Air-Festival auf der Sonderfreifläche Riem, Am Messefreigelände am 02./03.082014
+- TOP 10.11.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Stieglitzweg 20 Wiesbachhornstraße 29 Klothildenstraße 28
+- TOP 10.12.: S-Bahn-Takt- insbesondere bei der S-Bahn S2 Ost; Schreiben des Bayerischen Staatsministers des Innern, für Bau und Verkehr an die Gemeinde Aschheim
+- TOP 10.13.: Gewerbegebiet Technologiepark Messestadt Riem; Vergabe einer Gewerbeparzelle
+- TOP 10.14.: Gewerbegebiet Schwablhofstraße; Vergabe von Gewerbegrundstücken
