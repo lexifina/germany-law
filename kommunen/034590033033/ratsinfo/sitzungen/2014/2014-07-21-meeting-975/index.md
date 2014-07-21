@@ -1,0 +1,61 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2014-07-21T17:30:00+02:00
+- Ende: 2014-07-21T22:13:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf9zW2_ujE09kuoQxg8g-gE
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/975
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfbCMrETQlaPoEs7GQFhEGZltQpBgfviBs-2ZUn9aaSi/Oeffentliche_Niederschrift_Rat_21.07.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 03.06.2014
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Dieselunfall auf der Hansastraße
+- TOP 3.2: Ersatz für den ehemaligen Grünabfallsammelplatz an der Penter Straße; Anfrage im Rat vom 03.06.2014
+- TOP 3.3: Anfragen im Nachgang zur Akteneinsicht Städtepartnerschaften in der Sitzung des Rates am 03.06.2014
+- TOP 3.4: Rückblick auf den Partnerschaftsaustausch der Grundschule Priverno mit der Erich-Kästner-Schule
+- TOP 3.5: Neugestaltung des Andachtsplatzes in Rulle
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Umbesetzung des Verwaltungsausschusses hier: Anträge der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Elternvertreter/in für den Sekundarbereich I - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Wahl der Schiedsperson und des Stellvertreters/der Stellvertreterin für den Schiedsamtsbezirk Wallenhorst für den Zeitraum von 2015 bis 2019 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Schulangelegenheiten
+- TOP 6.1: Schulentwicklungsplanung - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 6.2: Sanierung der Pflasterflächen am Schulzentrum Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Verkehrsangelegenheiten
+- TOP 7.1: Barrierefreier Ausbau der Bushaltestelle am Schulzentrum Wallenhorst - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 7.2: Carsharing - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung genommen.
+- TOP 8.: Straßenbau
+- TOP 8.1: Straßenbaumaßnahmen ´Hullerweg´, ´Pollerweg´ und Kreuzung ´Hansastraße/Pollerweg´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Sanierung der Straßen ´Rathausallee´, ´Alte Hofstelle´, ´Alte Webschule´ und ´Leinengasse´ im Bereich „Zentrum Wallenhorst“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Bauleitpläne
+- TOP 9.1: Neuaufstellung des Flächennutzungsplanes (FNP) hier: - Beschluss zur Abwägung der Stellungnahmen der frühzeitigen Beteiligungsverfahren - Beschluss zum Entwurf des FNP - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: 7. Änderung des Bebauungsplanes Nr. W 11 „Industriegebiet“ hier: Beschluss über den Erlass einer Satzung für eine Veränderungssperre gemäß § 14 Bau- gesetzbuch (BauGB) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Bebauungsplan Nr. W 11 (7) "Industriegebiet" hier: Entwurfsbeschluss und Beschluss über die Beteiligung gem. § 13 a Abs. 2 BauGB in Verbindung mit § 13 Abs. 2 BauGB - mehrheitlich mit 17 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 10.: Umwelt- und Energieangelegenheiten
+- TOP 10.1: Beschluss über die Umsetzung des ´Integrierten Klimaschutzkonzeptes´ der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Beantragung von Fördermitteln für die Einstellung einer Klimaschutzmanagerin / eines Klimaschutzmanagers für die Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 11.1: Vorbereitung und Durchführung der städtebaulichen Maßnahme "Gewerbeflächen am Schwarzen See" durch die Niedersächsische Landgesellschaft mbH hier: Abschluss des Städtebaulichen Vertrages und Mitbestimmung des Rates - zurückverwiesen, mit 30 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 11.2: Maßnahme ´17´ des Dorferneuerungsplanes „Gestaltung des Kreuzungsbereiches Nonnenpfad/Zum Gruthügel/Am Haupthügel mit Ortseingang“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Aufstellung einer Außenbereichssatzung „Winkelstraße“ hier: Aufstellungsbeschluss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.4: Projekt „Arkaden-Center“ – Zeitplanung - Erstellung eines Sachverständigen-Gutachtens - - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Liegenschaften
+- TOP 12.1: Weiteres Vorgehen zum Grundstück ehemals "Töwerland" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2013 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Haushaltswirtschaft der Gemeinde Wallenhorst für das Haushaltsjahr 2014; Erlass der 1. Nachtragshaushaltssatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: Übernahme einer Bürgschaft zugunsten der Gemeindewerke Wallenhorst GmbH - mehrheitlich mit 17 Ja-Stimme(n), 12 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 13.4: Genehmigung zur Annahme von Zuwendungen (Beschluss Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Überflutung der Straße "Am Pingelstrang"
+- TOP 14.2: Fahrradfreundlichkeit im Zentrum
+- TOP 14.3: Umfang der Tagesordnung bei Ratssitzungen
