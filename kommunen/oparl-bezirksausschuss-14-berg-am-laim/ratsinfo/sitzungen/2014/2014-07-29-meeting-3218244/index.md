@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-07-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218244
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218244
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Download der Tagesordnung unter "Dokumente" möglich
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Einrichten von Radwegen in der Baumkirchner Straße Empfehlung Nr. 08-14 / E 02224 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 10.04.2014 - <div></div>
+- TOP 1.2.: Aufstellung von Abfallbehältern am neugestalteten Platz an der Baumkirchner Straße sowie am neuen Fußweg - <div></div>
+- TOP 1.3.: Beschluss des Bezirksausschusses über eine Freischankfläche für die Gaststätte "Park Café", Aschheimer Straße 15
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.1.1.: Bebauungsplan mit Grünordnung Nr. 2079 - Grafinger Str. (südlich), Innsbrucker Ring (westlich), Westerhamer Str. (nordöstlich) - Frühzeitige Unterrichtung mit Beteiligung von Behörden und städtischen Fachdienststellen gem. Baugesetzbuch
+- TOP 3.1.1.2.: Friedenstraße 4 - Neubau eines Boardinghauses, alternativ Hotel oder Studentenheim
+- TOP 3.1.1.3.: Friedenstraße 26 - Arrondierung Bildungszentrum der Handwerkskammer für München und Oberbayern, Umbau und Modernisierung Gebäude C (Friedenstr. 26 / Mühldorfstr. 4)
+- TOP 3.1.1.4.: Altöttinger Str. 31 - Neubau einer Wohnanlage (23 WE) mit Tiefgarage (Mittelgarage)
+- TOP 3.1.3: Umwelt
+- TOP 3.2.1.: Sichere Fußgängerüberquerung der Josephsburgstraße schaffen - <div></div>
+- TOP 3.2.2.: Durchfahrmöglichkeit von der Gögginger Straße zur Vinzenz-von-Paul-Straße - Ergänzungsantrag der IG Maikäfersiedlung zum BA-Antrag Nr. 08-14 / B05748 - Antwortschreiben des Baureferats zum BA-Antrag Nr. 08-14 / B05748
+- TOP 3.2.3.: Lieferanfahrt für das Anwesen Baumkirchner Straße 15 - Anhörung des Kreisverwaltungsreferats zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.4.: Sommerfest der Kita Ali Baba e.V. am 26.07.2014 im Behrpark
+- TOP 3.2.5.: Straßenfest des Bürgerkreis Berg am Laim am 14.09.2014 in der Baumkirchner Straße
+- TOP 3.5.1.: BA-Arbeit transparent gestalten: Niederschriften im RIS veröffentlichen - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Theater Kunstdünger c/o C. Ahlhelm Elf Vorstellungen in der Grundschule an der Grafinger Straße im März 2012
+- TOP 3.5.3.: Bürgerkreis Berg am Laim - Zuschussantrag für das Baumkirchner Straßenfest
+- TOP 3.6.1.: Josephsburgstr. 137
+- TOP 3.6.2.: Blombergstr. 36
+- TOP 3.6.3.: Gratlspitzstr. 5
+- TOP 3.6.4.: Freilassinger Str. 24
+- TOP 3.6.5.: Josef-Ritz-Weg 5 - 9
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Ampfingstr. 48 - Unveränderte Fortführung der Gaststätte "Mechitos" (ehem. Red Hill)
+- TOP 4.1.1.3.: Levelingstr. 14 - Unveränderte Fortführung der Gaststätte "Mädchen WG 2"
+- TOP 4.1.1.4.: Levelingstr. 17 - Unveränderte Fortführung der Gaststätte "Babylon"
+- TOP 4.1.1.5.: PERSPEKTIVE MÜNCHEN - Weiterentwicklung des Handlungsraumansatzes; Vergabe von Gutachter- und Beratungsleistungen: inhaltliche Erarbeitung, Koordination und Moderation des Bearbeitungsprozesses für ein Modellprojekt zur Erstellung eines Handlungsraumkonzeptes - Vorlagen-Nr. 14-20 / V 00822
+- TOP 4.1.1.6.: Neubau einer Entwässerungsanlage an der Bahnstrecke München-Ost - Trudering
+- TOP 4.1.3: Umweltangelegenheiten
+- TOP 4.1.3.1.: Klare Kompetenzen zur Koordinierung der Bekämpfung des Asiatischen Laubholzbockkäfers
+- TOP 4.2.1.: Barrierefreier Ausbau und Fahrbahnsanierung in der Ampfingstraße im Bereich der Bushaltestellen "Mühldorfstraße" im Zuge der Beschleunigung der Buslinien 144 / 145
+- TOP 4.2.2.: Gleisbauarbeiten im Bereich des Bahnübergangs Thomas-Hauser-Straße vom 26.-29.07.
+- TOP 4.2.3.: Lichtzeichenanlagen-Bauprogramm 2014 - Antwortschreiben des Kreisverwaltungsreferats
+- TOP 4.2.4.: Heubergstraße - Verkehrsrechtliche Anordnung - Einrichtung eingeschränktes Haltverbot
+- TOP 4.3.1.: Errichtung eines Hauses für Kinder mit zwei Kinderkrippen-, zwei Kindergarten- und einer Hortgruppe an der Baumkirchner Straße - Vorplanungsauftrag & Nutzerbedarfsprogramm
+- TOP 4.4.1.: Protokoll zum Runden Tisch Berg am Laim
+- TOP 4.5.1.: Checkliste zur Durchführung von Bürgerbeteiligungsverfahren - Schreiben des Direktoriums an die Referate
+- TOP 4.5.2.: FC Phoenix e.V. - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.4: Unterausschuss Soziales / Integration
+- TOP 5.1.5: Unterausschuss Budget / Organisation
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1: Bereich Planung, Bau, Wohnen, Umwelt (1)
+- TOP 3.1.1: Planungsangelegenheiten / Bauvorhaben (1)
+- TOP 3.1.2: Wohnen (1)
+- TOP 3.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (1)
+- TOP 3.3: Bereich Bildung, Betreuung, Familien und Sport (1)
+- TOP 3.4: Bereich Soziales und Integration (1)
+- TOP 3.5: Bereich Budget / Organisation (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1: Bereich Planung, Bau, Wohnen, Umwelt (2)
+- TOP 4.1.1: Planungsangelegenheiten / Bauvorhaben (2)
+- TOP 4.1.2: Wohnen (2)
+- TOP 4.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (2)
+- TOP 4.3: Bereich Bildung, Betreuung, Familien und Sport (2)
+- TOP 4.4: Bereich Soziales und Integration (2)
+- TOP 4.5: Bereich Budget / Organisation (2)
+- TOP 4.6: Baumschutz (2)
