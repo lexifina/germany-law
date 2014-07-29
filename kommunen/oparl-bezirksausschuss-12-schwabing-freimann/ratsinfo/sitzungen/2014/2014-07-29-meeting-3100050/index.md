@@ -1,0 +1,119 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-07-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3100050
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3100050
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 7.1.: Sitzungstermine 2015
+- TOP 7.2.: Eilentscheidung: Sommerfest mit sozial benachteiligten Menschen auf dem Adam-Erminger-Platz am 27.07.2014 ? zugestimmt.
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Änderung der BA-Satzung: Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum? (BA-Antrag B 05731 des BA 3 Maxvorstadt)
+- TOP 9.2.: Änderung des § 23 a der BA-Satzung - Beauftragte gegen Rechtsextremismus (BA-Antrag B 05514 des BA 3 Maxvorstadt)
+- TOP 9.3.: Änderung des § 19 Abs. 3 der BA-Satzung ? Niederlegung von Vorstandsämtern
+- TOP 10: sonstiges
+- TOP 10.1.: Ferienausschuss 2014 (Beschluss über die Mitglieder; Wahl des Vorsitzenden)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Genehmigung einer Freischankfläche, Hohenzollernstraße 2a
+- TOP 2.2.: Genehmigung einer Freischankfläche, Leopoldstraße 82
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Ingolstädter Straße 172, Fällung einer Ulme und einer Linde
+- TOP 3.1.2.: Wirtsbreite 15, Fl.Nr.: 309/126, Neubau einer Doppelhaushälfte mit Garage ? Haus Liu, Fällungen gemäß Plan
+- TOP 3.1.3.: Wirtsbreite 15, Fl.Nr.: 309/126, Neubau einer Doppelhaushälfte mit Garage ? Haus Yue, Fällungen gemäß Plan
+- TOP 3.1.4.: Hilsbacherstraße 8, Fällung einer zweistämmigen Kiefer
+- TOP 3.1.5.: Gertrud-Grunow-Straße, Fl.Nr.: 880/166, Neubau dreier Wohngebäude (39WE) im Passivhausstandard mit Gemeinschaftsraum und Tiefgarage ? WA8 Ost, Fällung von Bäumen gemäß Plan
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Bauvorhaben: Leopoldstraße 152, Fl.Nr.: 900/0, Neubau eines Wohn-, Büro- und Gewerbegebäudes ?Schwabinger Tor?
+- TOP 3.2.2.: Bauvorhaben: Leopoldstraße 152-194, Fl.Nr.: 900/0, Neubau eines Hotels mit 275 Zimmern im 1.-11. OG, Restaurant im EG, Bars im EG + 12. OG, Spa im 5./6. OG, Hotel-Nebennutzflächen im 1.UG und unterirdischer Anlieferung im 2. UG ?Schwabinger Tor?
+- TOP 3.2.3.: Occamstraße 5, Fl.Nr.: 329/5, Umbau eines Clubs (UG) und Lokals (EG)
+- TOP 3.2.4.: Bauvorhaben: Am Nordring, Fl.Nr.: 129/32, Neubau eines Hotels mit Tiefgarage
+- TOP 3.2.5.: Bauvorhaben Biedersteiner Straße 29, Fl.Nr.: 289/0, Umbau und Sanierung eines Laborgebäudes und Ertüchtigung der dazugehörigen Feuerwehzufahrt
+- TOP 3.2.6.: Bauvorhaben Gertrud-Grunow-Straße, Fl.Nr.: 880/147, Neubau zweier Wohnhäuser (26 WE) mit Gemeinschaftsraum und Tiefgarage (WA9 Ost)
+- TOP 3.2.7.: Bauvorhaben Gertrud-Grunow-Straße, Fl.Nr.: 880/147, Neubau von 5 Mehrfamilienhäusern mit Tiefgarage
+- TOP 3.2.8.: Namenszusatzschilder Erich-Mühsam-Platz, Ernst-Toller-Platz, Erwin-Planck-Weg (vertagt aus 06/14)
+- TOP 3.2.9.: Leopoldstraße 56a, Fl.Nr.: 3243/0, Nutzungsänderung EG einer Geschäftsstelle der Stadtsparkasse in eine SB-Station und eine Gastronomieeinheit
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Stopp Apassionata in Fröttmaning (siehe auch TOP D.4.1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Leopoldstraße 11-11b, Fällung eines Spitzahorns
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Baumaßnahmen der Stadtwerke München GmbH a) Stromprojekt Occamstraße b) Stromprojekt Wilhelmstraße
+- TOP 5.3.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/48 Heidemannstraße (südlich), Lilienthalallee (westlich), Maria-Probst-Straße (östlich) ? ehem. Ausbesserungswerk Freimann (Billigungsbeschluss) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014 Sitzungsvorlage Nr. 14-20 / V 00726
+- TOP 5.3.3.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2024 Lilienthalallee (westlich), Maria-Probst-Straße (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nrn. 1404a und 1505a ) Baumarkt-Fachzentrum und Oldtimer- und Sportwagen-Zentrum - (Billigungsbeschluss) Sitzungsvorlage Nr. 14-20 / V 00731 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014
+- TOP 5.3.4.: Heinrich-Groh-Straße 17, Umbau der Büroräume im Studentenheim Freimann in eine 2-Zimmer-Wohnung sowie Erweiterung des Wohnheims durch Errichtung von 3 neuen 2-Zimmer-Wohnungen (Antwort des Referats für Stadtplanung und Bauordnung zur Stellungnahme des BA zum Bauvorhaben)
+- TOP 5.3.5.: Tristanstraße 11, Fl.Nr.: 806/24, Neubau eines Mehrfamilienhauses (Stellungnahme des Referates für Stadtplanung und Bauordnung zum BA-Schreiben vom 30.04.2014)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Öffnung der Beichstraße für den gegenläufigen Radverkehr
+- TOP 3.1.2.: Öffnung der Fendstraße für den gegenläufigen Radverkehr
+- TOP 3.1.3.: Öffnung der in Richtung Osten einbahngeregelten Freystraße zwischen Kunigundenstraße und Ungererstraße für den gegenläufigen Radverkehr
+- TOP 3.1.4.: Öffnung der in Richtung Südosten einbahngeregelten Gundelindenstraße zwischen Biedersteiner Straße und Ungererstraße für den gegenläufigen Radverkehr
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Verkehrsberuhigung in der Auensiedlung
+- TOP 4.2.: Keine Fußball-Spiele in der ?Allianz Arena? an den Wiesn-Wochenenden
+- TOP 4.3.: Weiterhin hohe Lärm- und Geruchsbelästigung durch Cavos / Reitschule
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Fußgängertreppe Harkortweg
+- TOP 5.1.2.: Stellungnahme der LHM zur Machbarkeitsstudie ?Ein Englischer Garten?
+- TOP 5.1.3.: kein 6-spuriger Ausbau des Isarrings und Überprüfung des vorgeschlagenen Provisoriums des Planungsbüros Grub + Lejeune
+- TOP 5.1.4.: Weitere Fahrradständer an der U-Bahnstation Freimann
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Errichtung eines Absoluten Haltverbots Berliner Straße (Teilstück)
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Ausnahmezulassung gemäß BimSchV für die Aufstellung von Geräte- und Maschinen im Straßenraum der Leopoldstraße 25 vom 20.06. bis 30.09.21014 (an Werktagen)
+- TOP 5.3.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP 5.3.3.: Schulwegsicherheit im Umgriff der Grundschule an der Haimhauserstraße (Antwort des Kreisverwaltungsreferats auf die BA-Stellungnahme vom 03.07.2014)
+- TOP 5.3.4.: Parkproblem Edisonstraße Freimann (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.5.: Neubau einer Lärmschutzwand entlang der A9 Berlin-München (westlich) und entlang der Domagkstraße (nördlich) ? ehemalige Funkkaserne; Sitzungsvorlage Nr. 14-20 / V 00166 Beschluss des Bauausschusses vom 01.07.2014
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 08.08.2014
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Gruppe "Cornelius 27" Projekt "Breaking Walls" vom 01.10. - 31.10.2014
+- TOP 3: Anhörungen (4)
+- TOP 3.1.: Neuerrichtung eines Nachbarschaftstreffs auf dem Gelände der ehemaligen ?Funkkaserne? zukünftig ?Domagkpark? Beschlussentwurf des Sozialausschusses in der Sitzung vom 09.10.2014
+- TOP 3.2.: Tag der offenen Tür der FFW Freimann an der Heinrich-Groh-Straße 8 am 13.09.2014
+- TOP 3.3.: 18.jetzt ? Fest junger Erwachsener im Rathaus am 11.Oktober 2014
+- TOP 4: Bürgeranliegen (3)
+- TOP 4.1.: Stopp Apassionata in Fröttmaning (siehe auch TOP B.4.1)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Leierkasten Gentlemenen Bar?, Ausschank von alkoholischen und alkoholfreien Getränken in einem Bordell, Ingolstädter Straße 38
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Verwendungsnachweise a) Metropoltheater gGmbH für die Inszenierung von "Unter dem Milchwald" vom 20.01.2014 - März 2014 in Höhe von 5.000,00 ? b) TamS Theater für die Umwandlung des Vorderhauses des Theaters in einen Adventskalender in Höhe von 4.000,00 ?
+- TOP 5.3.2.: Bescheide a) Theater i-piccoli für Theatervorstellungen vom 17. bis 26.10.2014 in Höhe von 400,00 ? b) Sozialservice-Gesellschaft des BRK GmbH für ein Weihnachtskonzert am 09.12.2014 in Höhe von 750,00 ? c) Theater des Hölzernen Gelächters - Sommertheaterproduktion im August/September 2014 in Höhe von 2.500,00 ? d) Initiative ?Zeitzeugengespräche? für die Video-Dokumentation ?Schwabinger Gisela erzählt? ab August 2014 - Ablehnung e) Mohr-Villa Freimann e.V. für das Projekt ?Mohr-Villa goes Camp: Das Bild als Brücke? ab Ende Juli / August in Höhe von 600,00 ?
+- TOP 5.3.3.: Antrag auf einen Zuschuss für einen Fachtag für ehrenamtliche rechtliche Betreuer und Betreuerinnen (Antwort des Sozialreferats)
+- TOP 5.3.4.: Erlaubnisbescheid: Pfarrfest St. Ursula am 12.07.2014 am Kaiserplatz
+- TOP 5.3.5.: Erlaubnisbescheid: 40-Jahrfeier Kinderhaus Schwabing e.V.in der Bismarckstraße am 19.07.2014
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
