@@ -1,0 +1,90 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-07-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3119958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3119958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Mehr Flächen für Sprayer auf dem Viehhof-Gelände freigeben (vertagt aus 2014.06) und Durchführung eines Urban-Art-Festivals auf dem Viehhofgelände ? PLENUMSBESCHLUSS
+- TOP .2.: Errichtung einer Tauschbücherei (Bücherschrank) am Karl-Heinrich-Ulrichs-Platz
+- TOP .3.: BA-eigene Veranstaltung: Kinder- und Jugendeinwohnerversammlung am 25.09.2014 im Tröpferlbad, Finanzierung aus eigenem Budget in Höhe von 300,00 ?
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 08.08.2014
+- TOP .2.: Antrag der Initiative ?Fotoprojekt Zuhause?, Ausstellung vom 01.07.-31.07.2014, gewährter Zuschuss: 800,00 ?, Änderung der Kostenkalkulation, siehe 2014.05 A 2.1 ? PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen: Planungen betreffend einer öffentlichen Toilette am Gärtnerplatz
+- TOP .2.: Bürgeranliegen: Künstlerstände in der Innenstadt
+- TOP .3.: Bürgeranliegen: Unterrichtscontainer in der Grundschule in der Tumblingerstr.
+- TOP .4.: Anfrage auf Bezuschussung eines Buchprojektes ?Münchens buntes Bahnhofsviertel?
+- TOP .5.: Standort Volkstheater, Information an den Kulturausschuss des Stadtrats vom 17.07.2014
+- TOP .6.: Flyer für BA-Budget
+- TOP .1.: Erhalt des Anwesens Thalkirchner Str. 110, vertagt aus 2014.06 B 1.1
+- TOP .2.: Überprüfung des Denkmalschutzes des Anwesens Thalkirchner Str. 110, vertagt aus 2014.06 B 1.2
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schwanthalerstr. 46, Nutzungsänderung: Laden- und Friseurgeschäft zu Bistro-Café und Spielothek ? Vorbescheid (Eilentscheidung)
+- TOP .2.: Isartalstr. 34, Nutzungsänderung im Erdgeschoss ? Rückgebäude: zwei Büroeinheiten zu zwei Wohnungen (Eilentscheidung)
+- TOP .3.: Schwanthalerstr. 95-97, Neubau eines Mehrfamilienhauses mit Gewerbeflächen (Läden) und Tiefgarage ? Tektur (Eilentscheidung)
+- TOP .4.: Westermühlstr. 22, Einbau einer Dachgaube (Eilentscheidung) ? PLENUMSBESCHLUSS
+- TOP .5.: Westermühlstr. 32, Dachausbau und Aufzugseinbau (Eilentscheidung)
+- TOP .6.: Pettenkoferstr. 31, Aufstockung und Neuerrichtung des Dachgeschosses ? Vorbescheid (Eilentscheidung)
+- TOP .7.: Fraunhoferstr. 32, Nutzungsänderung zweier Bürogeschosse (3. + 4. OG) in eine Gastronomie (4. OG) und Hotelnutzung (16 zimmer, 3.+4. OG) ? Tektur, jetzt: Nutzungsänderung im Erdgeschoss: Lagerraum zu Ladenfläche (Eilentscheidung)
+- TOP .8.: Goethestr. 30-34, Um- und Neubau eines Wohn- und Geschäftsgebäudes mit großflächigem Lebensmitteleinzelhandelsbetrieb und Tiefgarage
+- TOP .9.: Kapuzinerstr., Änderungsantrag zur Versetzung der bereits genehmigten City-Light-Säule für wechselnde Produktwerbung Kapuzinerstr. / Thalkirchner Str.
+- TOP .10.: Maistr. 55, Umbau und Vergrößerung der Gaube einer DG-Wohnung zu einer Dachterrasse
+- TOP .11.: Reifenstuelstr. 2, DG-Umbau mit 2 WE, Anbau von Balkonen und Aufzug, Nutzungsänderung EG (Läden zu Wohnungen), Aufteilung der Wohnungen im Seitengebäude, jeweils zu 2 WE (EG, 1.+2. OG) ? Tektur
+- TOP .12.: Tumblingerstr. 34, Abbruch und Neubau Rückgebäude Süd Haus-Nr. 34a, Änderung Keller Haus-Nr. 34, Zwischenbau einschließlich Gaststätte (UG/EG) Haus-Nr. 34a-36 ? Tektur
+- TOP .13.: St.-Paul-Str. 9, Umbau und Aufstockung MGB, Ausbau des Speichers im RGB mit Anbau Außenaufzug und Notleiteranlage, Nutzungsänderung 3. + 4. OG / VGB: Wohnungen zu Büros; Erweiterung Tiefgarage, Erweiterung der Balkone RGB, Umbau und Nutzungsänderung EG / VGB: Lager zu Büro; Umbau EG + 1. OG / MGB und Errichtung offener Stellplätze im Hof ? Tektur (hier: Erweiterung der 3 Balkonanlagen im RGB)
+- TOP .14.: Adlzreiterstr. 29, Errichtung einer Dachterrasse mit Dachausstieg
+- TOP .15.: Fraunhoferstr. 9, Anbau zusätzlicher Balkone im Innenhof, Schaffung einer zusätzlichen Wohnung (7a) im 2. OG sowie Grundrissänderung der Wohnungen 7 + 8
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Grasserstr. 10, Antrag auf Baumfällung (mit Ersatzpflanzung) ? PLENUMSBESCHLUSS
+- TOP .2.: Ickstattstr. 5, Baumfällung im Rahmen eines Bauvorhabens, 1 Blutpflaume ? PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Weitere Fahrradstellplätze in der Lindwurmstr., BA-Antrag Nr. 08-14 / B 05704 vom 27.02.2014, Antwortschreiben des Kreisverwaltungsreferates mit der Bitte um Äußerung zum vorgeschlagenen Verfahren
+- TOP .2.: Straßenstück des Bavariarings zwischen Brausebad und Bavariaring 6-9 ist auf eine Spur zu reduzieren und die frei werdenden Flächen als Anwohnerparkplätze (Schrägparker) auszuweisen, BA-Antrag Nr. 08-14 / B 05702 vom 25.02.2014, Antwortschreiben des KVR m. d. B. um Äußerung zum vorgeschlagenen Verfahren
+- TOP .3.: Zenettistr. 44, Anhörung zur beabsichtigten Änderung der Denkmalliste, Nachtrag der Kath. Pfarrkirche St. Andreas in die Denkmalliste
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .1.: Installation von Fahrradparkern
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Kapuzinerstr. 43, Eisdiele ?Domori?, Genehmigung einer Freischankfläche
+- TOP .2.: Rothmundstr. 5, Gaststätte ?Viva Maria?, Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Kapuzinerstr. 2, Gaststätte ?Potasia?, Genehmigung einer Freischankfläche
+- TOP .4.: Schillerstr. 14, Gaststätte ?Pizza Centrale?, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Waltherstr. 16, ?Edeka Frischmarkt?, Warenauslage für Obst und Gemüse
+- TOP .2.: Fraunhoferstr. 41, Seite Reichenbachstr., Warenauslage für Blumen und Pflanzen
+- TOP .3.: Sonnenstr. 18, ?Tchibo?, Warenauslage ? PLENUMSBESCHLUSS
+- TOP .4.: Herzog-Heinrich-Str. 37, ?Vitamin Bar?, Warenauslagen für Blumen/Pflanzen, Obst/Gemüse - PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Hans-Sachs-Straßenfest in der Hans-Sachs-Str. und Ickstattstr., 16.08.2014
+- TOP .2.: Oktoberfest Wiesnzüge 2014: a) Wiesneinzug der Festwirte und Brauereien am 20.09.2014, ab Josephspitalstr. b) Trachten- und Schützenzug am 21.09.2014, ab Maximilianstr.
+- TOP .3.: Sommerfest der Gaststätte ?Zoozie'z?, 01.08.2014, Baldeplatz
+- TOP .3.2: Verkehr
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Dreimühlenstr. 27, Errichtung eines personenbezogenen Behindertenparkplatzes ? PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen: Einbahnstraßen Schiller- und Landwehrstr. für Radverkehr freigeben
+- TOP .2.: Bürgeranliegen: Falschparker in der Schubertstr.
+- TOP .3.: Bürgeranliegen: Absenkung der Fahrbahn am Radweg in der Lindwurmstr. / Schmellerstr.
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: ?]18.jetzt[ - Fest junger Erwachsener im Rathaus?, 11.10.2014, Teilnahme des BA
+- TOP .2.: Anhörung zu einer beantragten Änderung der BA-Satzung bezügl. der Tätigkeit von Beauftragten gegen Rechtsextremismus, Antrag Nr. 08-14 / B 05514 des BA 3 Maxvorstadt vom 14.01.2014 ? PLENUMSBESCHLUSS
+- TOP .3.: Anhörung zu einer beantragten Änderung der BA-Satzung bezügl. der Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum?, Antrag Nr. 08-14 / B 05731 des BA 3 Maxvorstadt vom 11.03.2014 ? PLENUMSBESCHLUSS
+- TOP .4.: Anhörung zu einer beabsichtigten Änderung der BA-Satzung bezüglich der Niederlegung von Vorstandsämtern (§ 19 Abs. 3 BA-Satzung), Wegfall der Angabe eines wichtigen Grundes ? PLENUMSBESCHLUSS
+- TOP .2: Termine
+- TOP .1.: Wegen der Ferienzeit entfallen die Unterausschüsse und die Vorstandssitzung im August. Die Sitzung des Ferienausschusses findet am Dienstag, den 26.08.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 15.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 16.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 17.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 22.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 30.09.2014 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Sondersitzung Unterausschuss ?Öffentlicher Raum, Mobilität?, Modellquartier Isarvorstadt ?City2share? am Donnerstag, den 18.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP .&nbsp;: Unterrichtungen
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
