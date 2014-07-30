@@ -1,0 +1,56 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-07-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052728
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052728
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP .2.: (E) Budget der Bezirksausschüsse Förderverein der Städtischen Hermann-Frieb-Realschule Jugendprojekt vom 21. bis 25.07.2014
+- TOP .3.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 11.10.2014: Teilnahme BA 4?
+- TOP .1.: Kinder- und Jugendbeauftragter des BA 9: Trambahnhäusl am Olympiapark für Jugendkultur öffnen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Agnesstr. 58, Döner-Imbiss: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion ab 23.08.2014
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Öffentlichkeitskampagne des KVR zur Hundehaltung am 19.09.2014
+- TOP .2.1.: Planen
+- TOP .1.: Emanuelstr. 17: Änderung der Brüstungshöhe vorhandener Dachgauben und Einbau neuer Fenster
+- TOP .2.: Zentnerstr. 26: Dachgeschoss-Ausbau
+- TOP .3.: Tektur Schwere-Reiter-Straße: Neubau eines Hotel Garni
+- TOP .4.: Tektur Adelheidstr. 13 a: Neubau von Studentenwohnungen ? 2. Bauabschnitt
+- TOP .5.: Kurfürstenstr. 30: Erneuerung der Balkone
+- TOP .6.: Emanuelstr. 20 / RGB: Nutzungsänderung zweier Lager zu zwei Wohneinheiten
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Neue Regelung für den Radverkehr in der Keuslinstraße
+- TOP .2.: Bürger: Maßnahmen gegen Verkehrsbelastung der Winzererstraße
+- TOP .3.: Dauerparkende Wohnmobile und -anhänger im Ackermannbogen (aus 06/14 vertagt)
+- TOP .4.: Bürger: Fehlende Parkmöglichkeiten für Anwohner wegen (Dauer-)Baustellen
+- TOP .5.: Bürgerin: Gefährlicher Schulweg zur Grundschule Gertrud-Bäumer-Straße
+- TOP .6.: Bürger: Kontraproduktive Vorfahrtsregelung in der Fahrradstraße Clemensstraße
+- TOP .7.: Baustellenverkehr Adams-Lehmann-Straße
+- TOP .2.1.: Umwelt
+- TOP .1.: Hundekotproblematik im Petuelpark: Terminvorschläge des Baureferats Gartenbau für Ortstermin mit BA 4 und BA 11
+- TOP .2.: Essigbaum an der Ecke Römer-/Hohenzollernstraße: Einwände gegen Fällung?
+- TOP .3.: Fallmerayerstr. 7: Fällung eines Kirschbaums
+- TOP .4.: Hohenzollernstr. 128: Fällung eines Ahornbaums
+- TOP .2.2.: Verkehr
+- TOP .1.: Anhörung zu einem Antrag des BA 3 Maxvorstadt auf Änderung der BA-Satzung: § 23 a (Beauftragte gegen Rechtsextremismus)
+- TOP .2.: Anhörung zu einem Antrag des BA 3 Maxvorstadt: Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum?
+- TOP .3.: Niederlegung von Vorstandsämtern (§ 19 Abs. 3 BA-Satzung) Anhörung zu einer geplanten Änderung / Anpassung an das Wahlgesetz
+- TOP .1.: Sanierung und regelmäßige Pflege der Grünfläche um das Kriegerdenkmal an der Kreuzung Loth-, Winzerer-, Georgenstraße vor dem Jahrestag des Kriegsbeginns am 01. August
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
