@@ -1,5 +1,4 @@
-Bekanntmachung
-der Neufassung des Gesetzes über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
+# Bekanntmachung der Neufassung des Gesetzes über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG)
 Vom 9. Januar 2001
 Aufgrund des Artikels 3 des Gesetzes zum Fünften Staatsvertrag zur Änderung rundfunkrechtlicher Staatsverträge und zur Änderung des Sächsischen Privatrundfunkgesetzes vom 12. Dezember 2000 (SächsGVBl. S. 526, 528) wird nachstehend der Wortlaut des Gesetzes über den privaten Rundfunk und neue Medien in Sachsen (Sächsisches Privatrundfunkgesetz – SächsPRG) in der vom 1. Januar 2001 an geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 1. das Gesetz zur Ausführung des § 305 der Insolvenzordnung und zur Anpassung des Landesrechts an die Insolvenzordnung vom 10. Dezember 1998 (SächsGVBl. S. 662),
