@@ -6,7 +6,7 @@ Abschnitt 1 Allgemeines
 § 4 Anmeldung
 § 5 Aufnahmeprüfung für die Einführungsphase des Kollegs
 § 6 Überspringen von Vorkurs und Einführungsphase
-§ 7 Feststellungsprüfung in der Fremdsprache
+§ 7 Ersetzungsprüfung in der Fremdsprache
 § 8 Schulwechsel an ein anderes Abendgymnasium oder Kolleg
 § 9 Beendigung des Schulverhältnisses
 Abschnitt 2 Unterrichtsorganisation
