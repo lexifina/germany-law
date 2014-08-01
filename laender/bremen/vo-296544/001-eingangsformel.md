@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 1 Absatz 1 Satz 4 und des § 9 Absatz 5 Satz 2 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242), das zuletzt durch Artikel 1 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2467) geändert worden ist, sowie des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 18 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786) geändert worden ist, verordnet der Senat:
