@@ -1,0 +1,89 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-08-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149687
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149687
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Beantwortung der Fragen aus der Sitzung vom 08.07.2014
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben der Klasse 2 a der Staatl. Grundschule Türkenstraße 68 Ergebnisse der Aktion ?Herz und Rampen?, Verbesserungsvorschläge
+- TOP .2.: Schreiben einer Bürgerin aus der Maxvorstadt vom Juni 2014 Pflege von Pflanzen auf Privatgrund in der Maxvorstadt
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.07.2014 Wirtsgartenerweiterung in der Amalienstraße 87
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.05.2014 Ein Brunnen für den Georg-Elser-Platz vertagt aus 06/2014 zur erneuten Behandlung im UA Verkehr und öffentlicher Raum erneut vertagt aus 07/2014 zur Behandlung im UA Verkehr und öffentlicher Raum
+- TOP .5.: Schreiben eines Bürgers aus der Maxvorstadt vom 26.07.2014 Lärmbelästigung durch Gaststätten in der Maxvorstadt
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Wohnungsleerstand in der Steinheilstraße Antwortschreiben des Amtes für Wohnen und Migration vom 02.07.2014
+- TOP .2.: Auf dem Spielplatz Maßmannstraße soll eine hygienische Automatiktoilette installiert werden.
+- TOP .3.: Erhalt des Ensembles "Paul-Heyse-Villa" (Paul-Heyse-Villa - keinerlei Veränderungen der derzeitigen Bebauung)
+- TOP .4.: Baureferat, Tiefbau Verbreiterung des Gehweges und Schaffung eines Radweges in der Dachauer Straße stadteinwärts zwischen Lori- und Sandstraße Empfehlung Nr. 08-14 / E 02013 der BV des 3. Stadtbezirkes Maxvorstadt vom 17.10.2013
+- TOP .5.: Nachpflanzungen auf dem Gelände der Alten Pinakothek
+- TOP .6.: Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der Zufahrt zum Karolinenplatz
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Unterrichtung der LBK über Bauvorhaben: 26., 27., 28., 29. KW
+- TOP .2.: Unterrichtung der LBK über Abgeschlossenheitsbescheinigungen: 27., 28. KW
+- TOP .3.: Schellingstraße 108, DG-Ausbau zu Wohnzwecken, Errichtung eines Außenaufzugs, Ein- bau einer Wohnung im bisherigen Dachspeicher im 5. OG mit Einbau der dazu erforderlich Fenstergauben, Errichtung eines 2. Rettungsweges und Einbau eines Dacheinschnittes
+- TOP .4.: Luisenstraße 25, Aufstockung und Fassadensanierung eines Wohn- und Gewerbegebäudes
+- TOP .5.: Blütenstraße 10, Dachaufstockung und Anbau eines Fassadenaufzuges
+- TOP .6.: Türkenstraße 92, Errichtung einer Terrasse als Stahlkonstruktion im 2. OG
+- TOP .7.: Maximiliansplatz 9, Nutzungsänderung
+- TOP .8.: Görresstraße 38, Sanierung und DG-Ausbau eines Mehrfamilienhauses
+- TOP .9.: Barer Straße 82, Rückbau TG-Abfahrt Süd, Nutzungsänderung (Lager zu Büroflächen) EG, RGB links
+- TOP .10.: Georgenstraße 47, Anbau und Vergrößerung von Balkonen, Einbau zweier Dachterras- sen, Anbau einer Notleitereanlage
+- TOP .11.: Adalbertstraße 57, Anbau von zehn Balkonen an der Westfassade
+- TOP .12.: Hiltenspergerstraße 1, DG-Neubau und Erhöhung des Aufzugschachtes (s. TOP B 2.1.6/07214), Pläne liegen bereits vor
+- TOP .13.: Kaulbachstraße 6, DG-Umbau
+- TOP .14.: Kreittmayrstraße 9 Rgb., Errichtungeiner Dachterrasse
+- TOP .15.: Nymphenburger Straße 55, Errichtung eines Außenaufzugs und DG-Ausbau, Vorbescheid
+- TOP .16.: Barer Straße 27, Errichtung. eines tempor. Eingangsbauwerks mit Kasse und Garderobe
+- TOP .17.: Elisenstraße 3 ? 3 a, Umbau Büro- u. Geschäftshaus im 4. u. 1. UG u. 1. OG (Elisen- straße 3 u. 3 a/Prielmayerstraße 1 - 3)
+- TOP .18.: Schleißheimer Straße 52, Neubau eines Rückgebäudes
+- TOP .19.: Türkenstraße 3 ? 7, Neubau zweier Bürogebäude mit gemeinsamer zweigeschossiger Tiegarage, Tektur zu 1.1-2013-7920-22
+- TOP .20.: Türkenstraße 33, DG-Ausbau und Neubau Zwischengebäude
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Referat für Stadtplanung und Bauordnung Bauvorhaben Kaulbachstraße 6, Baumfällungen
+- TOP .3.2: Baumfällungen
+- TOP .1.: Türkenstraße 11, eine Pappel
+- TOP .2.: Dachauer Straße 105 ? 107, ein Nadelbaum
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Empfehlung Nr. 08-14 7 E 02006 der Bürgerversammlung des Stadtdbezirkes 3 Maxvor- stadt vom 17.10.2013 Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.07.2014
+- TOP .2.: Baureferat, Gartenbau BA-Antrag Nr. 08-14 / B 05643 des BA 3 vom 11.02.2014 Weitergabe der Anfrage vom 11.07.2014 (TOP A 6.2.2/0714) durch das Baureferat an das Referat für Stadtdplanung und Bauordnung, LBK, Untere Naturschutzbehörde zur Beantwortung in eigener Zuständigkeit gegenüber dem BA 3
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsanordnungen Verlängerung des absoluten Haltverbotes (Z 283 StVO) um fünf Meter in Richtung Norden in der Schleißheimer Straße Westseite im Kurvenbereich zur Rottmannstraße
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Erweiterung einer bestehenden Freischankfläche a) Nordendstraße 7 a b) Schleißheimer Straße 64 c) Schleißheimer Straße 69 d) Goethestraße 3 e) Pappenheimstraße 12 g) Schellingstraße 59 h) Türkenstraße 61 i) Barer Straße 36 j) Schellingstraße 16
+- TOP .2.4: Veranstaltungen
+- TOP .2.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsanordnungen Schellingstraße, Geschwindigkeitsbeschränkung auf 30 km/h und Gefahrzeichenbeschil- derung
+- TOP .3.: Baumaßnahmen der Stadtwerke München a) Erzgießereistraße 2, Fernwärme b) Nymphenburger Straße 22, Fernwärme c) Katharina-von-Bora-Straße 5, Strom
+- TOP .5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Cool bleiben ? friedlich feiern ? am Maximiliansplatz 2 Eilentscheidung des Vorsitzenden vom 13.07.2014, Zustimmung mit der Maßgabe, dass der Veranstalter die Müllentsorgung übernimmt, bzw. ausreichend Müllbehälter zur Ver- fügung stellt.
+- TOP .6.: Referat für Gesundheit und Umwelt, Immissionsschutz Volzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); Änderung der Ausnahmezulassung für nächtli- chen Aus- und Einhub von Rolltreppen am Rotkreuzplatz und in der Maillingerstraße
+- TOP .7.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für die Einbindung eine Fernwärmeleitung in zwei Nächten und am Sonntag Vormittag in der Blutenburgstraße von der Ecke Adamstraße bis zur Blutenburgstraße 18
+- TOP .1.: Direktorium, Budget, Entscheidung Antragsteller: InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Maßnahme: Anschaffungneuer Wärmebehlter beantragte Unterstützung: 6.500,00 ?
+- TOP .1.: Direktorium, Budget Maßnahme: fLOWERS - Festival in Zusammenarbeit mit dem Kunstpavillon München e.V. vom 16.07.2014 bis 10.08.2014 beantragter Zschuss: 3.800,00 ?
+- TOP .2.: Kommunalreferat, Anhörung Erläuterungsschilder im Stadtbezirk 3 Maxvorstadt, Anzahl der Schilder und Beschriftung (einseitig/doppelseitig)
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Sitzungstermine 2015 Termine der UA-Sitzungen, Unterlagen liegen bereits vor (s. TOP F 2/082014)
+- TOP .2.: Direktorium, Anhörung Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum? BA-Antrag Nr. 08-14 / B 05731 des BA 3 vom 11.03.2014
+- TOP .3.: Direktorium, Anhörung Antrag zur Änderung von § 23 a der BA-Satzung Antrag Nr. 08-14 / B 05514 des BA 3 vom 14.01.2014
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
+- TOP .4.: entfällt
