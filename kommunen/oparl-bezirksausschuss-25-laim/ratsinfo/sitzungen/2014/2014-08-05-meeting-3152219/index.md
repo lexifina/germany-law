@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-08-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152219
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152219
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Lärmbelästigung durch Veranstaltungen im Alten- und Servicezentrum
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Machbarkeitsstudie Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze
+- TOP 2.2.: SPD: Sanierung der Radwege
+- TOP 2.3.: SPD: Radweg an der Westendstraße / Brücke über die A 96
+- TOP 2.4.: CSU (Anfrage): Ameisen in Laim
+- TOP 2.5.: CSU: Generelles Haltverbot für Wohnmobile während des Oktoberfestes
+- TOP 2.6.: CSU: Erwerb / Anmietung des Pavillons Fürstenrieder Str. 42 a durch die Stadt zur kulturellen Nutzung
+- TOP 2.7.: Bündnis 90 / Die Grünen: Änderung Flächennutzungsplan Rushaimer Straße
+- TOP 2.8.: Bündnis 90 / Die Grünen: Fahrradwege / Reinigung / Glasscherben
+- TOP 2.9.: Bündnis 90 / Die Grünen: Trambahn Westtangente
+- TOP 2.10.: Bündnis 90 / Die Grünen: Gartenstädte; Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 Laim in Höhe von 750 ? für Spielaktion am Hogenbergplatz vom 17.09.-26.09.14; Antragsteller: Familienzentrum Laim, DkSB München e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 Laim in Höhe von 551, 90 ? für die Beschaffung einer Doppelschaukel; Antragsteller: Förderverein Kindergarten Fronleichnam e.V. - <div>nach Antrag</div>
+- TOP 3: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Integriertes Nahverkehrskonzept zur Stärkung des Fußgänger- und Radfahrerverkehrs im Stadtbezirk 25 Laim (Empfehlung Nr. 08-14 / E 02112 der Bürgerversammlung des Stadtbezirks 25 - Laim am 26.11.2013) - <div>Abweichung von Referentenvorl.</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Gotthardstr. 146: Fällung von 1 Fichte und 1 Eiche
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 01.07.14: Herbstflohmarkt am 20.09.14 auf dem Laimer Platz
+- TOP 4.3.: Ludwig-Richter-Str. 34-42: Fällung von 1 Birke
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 14.07.14: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Inderstorferstraße
+- TOP 4.5.: Dichtlstr. 8: Fällung von 1 Kirsche
+- TOP 4.6.: Burgkmairstr. 15: Fällung von 1 Birke
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 15.07.14: Flohmarkt auf dem Weißenfelderplatz am 13.09.14
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 16.07.14: Ökumenischer Gottesdienst mit Totengedenken am 15.11.14, Grünanlage Rushaimerstraße sowie Gehweg zwischen Camerloher- und Gotthardstraße
+- TOP 4.9.: Schreiben Direktorium vom 21.07.14: Antrag zur Änderung der BA-Satzung; a) Änderung von § 23 a der BA-Satzung, b) Änderung von § 23 a Abs. 2 Buchst. f der BA-Satzung, c) Änderung von § 23 a Abs. 2 Buchst. a, c und e der BA-Satzung (Antrag Nr. 08-14 / B 05514 des BA 3 Maxvorstadt vom 14.01.14)
+- TOP 4.10.: Schreiben Direktorium vom 21.07.14: Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" (Antrag Nr. 08-14 / B 05731 des BA 3 Maxvorstadt vom 11.03.14)
+- TOP 4.11.: Schreiben Direktorium vom 21.07.14: Niederlegung von Vorstandsämtern, § 19 Abs. 3 BA-Satzung
+- TOP 4.12.: Schreiben Stadtwerke München GmbH vom 23.07.14: Vermietung Freifläche Zschokkestraße / Westendstraße an Sonntagen
+- TOP 4.13.: Schreiben Baureferat vom 12.06.14: Projekt Aindorferstraße zwischen Fürstenrieder Straße und Guido-Schneble-Straße (Vertagung aus der BA-Sitzung vom 01.07.14)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Neuburgerstr. 8: Neubau eines Zweifamilienhauses, Erweiterung und Umbau eines Einfamilienhauses in ein Mehrfamilienhaus (4 WE), Neubau einer Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.2.: Rushaimerstr. 6: Neubau eines Wohngebäudes (2 WE) sowie Anbau an eine Wohngebäude mit Garagen / Vorbescheid; hier: Bau-und Baumbestandspläne
+- TOP 5.3.: Flotowstr. 68: Neubau eines Doppelhauses mit Garage; hier: Baupläne
+- TOP 5.4.: Gotthardstr. 77: Aufstockung des Bestandsgebäudes mit einem Voll- und einem Staffelgeschoss (7 WE), energetische Sanierung und Erweiterung der Balkone und Anbau von Liften; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.5.: Riegerhofstr. 20: Erweiterung Gymnasium Lukas Schule: BT 1 - Aufstockung im Bereich der Turnhalle, BT 2 - Neubau eines 3-geschossigen Fachklassengebäudes an der Brandwand des Nachbargebäudes (Haus-Nr. 22), Verschieben der Fahrradständer / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Lukas-Schule vom 01.07.14: Durchführung öffentlicher Wahlen an der Lukas-Schule; Stellungnahme
+- TOP 6.2.: Schreiben Direktorium vom 09.07.14: 18. jetzt - Fest junger Erwachsener im Rathaus am 11.10.14
+- TOP 6.3.: Schreiben Ausländerbeirat München vom 11.07.14: Einladung zu einem Austauschtreffen am 18.09.14
+- TOP 6.4.: Schreiben Kreisverwaltungsreferat vom 14.07.14: Vorschlagsliste zur Auswahl für das Ehrenamt als Verwaltungsrichterin bzw. als Verwaltungsrichter für die Gerichtsperiode 2015 - 2020
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 17.06.14
+- TOP 7.2.: Ortstermin und Sitzung des UA Bildung und Sozialplanung vom 23.06.14
+- TOP 7.3.: BA-Sitzung vom 01.07.14
+- TOP 7.4.: Sitzung UA Bildung und Sozialplanung vom 15.07.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 15.05.14: Zuwendung aus dem Budget des BA 25; Verwendungsnachweis musikalische Veranstaltungen und Brunches; Antragsteller: Binario 11
+- TOP 8.2.: Schreiben Direktorium vom 30.06.14: Budget des BA 25; Verwendungsnachweis über Vernissage "Heldinnen der Welt"
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 05.06.14: Einrichtung eines personenbezogenen Behindertenparkplatzes; Behamstraße
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 17.06.14: Camerloherstr. 95; Haltverbotsaufhebung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 24.06.14: Behindertenparkplätze in Laim (Antrag Nr. 14-20 / B 00072 vom 03.06.14)
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 02.07.14: Auskunft über allgemeine Behindertenparkplätze; Allgemeine Informationen
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 10.07.14: S-Bahnhof Laim; Bodenmarkierungen (Schreiben BA vom 30.06.14)
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.14: Fürstenrieder Str. 70; Neubau Wohn- und Geschäftsgebäude (3 Varianten) / Vorbescheid (Fürstenrieder Str. 70 / Gotthardstr. 53)
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.06.14: Vergabe der Flächen auf dem ehemaligen Trambahndepot und dem Busdepot an der Westendstraße / Zschokkestraße / Hans-Thonauer-Straße vorrangig im Erbbaurecht an Wohnungsgenossenschaften und Wohnbaugesellschaften mit gemeinnützigen Zielsetzungen (Antrag Nr. 08-14 / B 05769 vom 11.03.14)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.07.14: Saherrstr. 6; Neubau "Wohnen im Viertel Saherrstr. 6" (14 WE) mit Nachbarschaftstreff, hausärztlichem Betreuungszentrum HBZ und Tiefgarage
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.07.14: Fällungsantrag Inderstorferstr. 19
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.07.14: Fällungsantrag Burgkmairstr. 15-25
+- TOP 8.13.: Schreiben Baureferat vom 02.07.14: Spielgeräte auf dem Spielplatz Weißenfelder Platz (Schreiben BA vom 10.06.14)
+- TOP 8.14.: Schreiben Sozialreferat vom 03.07.14: Zweckentfremdung von Wohnraum; Flotowstraße
+- TOP 8.15.: Schreiben Sozialreferat vom 11.07.14: Entscheidung ist gefallen: BA 16 wird 2014 / 2015 Einsatzort für den Kinder-Aktions-Koffer
+- TOP 8.16.: Schreiben Sozialreferat vom 15.07.14: Protokoll der Infoveranstaltung vom 23.06.14
+- TOP 8.17.: Schreiben Referat für Bildung und Sport vom 16.07.14: Präsentation Veranstaltung Jahresgespräch mit den BA-Vorsitzenden am 14.07.14
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 16.07.14: Baumaßnahmen der SWM; Stromprojekt Gotthardstraße Netztrafostation, 2. Bauabschnitt
+- TOP 8.19.: Bautenliste vom 06.06.-22.06.14 1. Erstantragsverfahren a) Flotowstr. 68
+- TOP 8.20.: Bautenliste vom 23.06.-29.06.14 1. Erstantragsverfahren a) Camerloherstr. 189 b) Josef-Schick-Str. 47 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Rushaimerstr. 6
+- TOP 8.21.: Bautenliste vom 30.06.-06.07.14 1. Erstantragsverfahren a) Senftenauerstr. 134b 2. Änderungsverfahren a) Eckermannstr. 22 b) Landsberger Str. 338 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Riegerhofstr. 20
+- TOP 8.22.: Bautenliste vom 07.07.-13.07.14 1. Erstantragsverfahren a) Brosamerstr. 19 b) Agricolastr. 79 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agricolastraße
+- TOP 8.23.: Bautenliste vom 14.07.-20.07.14 1. Änderungsverfahren a) Inderstorferstr. 55
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 21.07.14: Baumaßnahmen der Stadtwerke; Stichtag: 21.07.14
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.14: Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzept für das Quartierzentrum Trudering (ISEK) (Sitzungsvorlage Nr. 14-20 / V 00078)
+- TOP 8.26.: Beschluss des Bauausschusses vom 01.07.14: Straßenreinigung; Ausweitung des Vollanschlussgebietes auf den ganzen Stadtbezirk 25 Laim (Empfehlung Nr. 08-14 / E 02119 der Bürgerversammlung vom 26.11.13) (Sitzungsvorlage Nr. 14-20 / V 00103)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.14: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung, Stand und Ausblick; a) Historische Entwicklung, b) Geltende Rechtslage, c) Lösungsansätze, d) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 00909)
+- TOP 8.28.: Bürgerschreiben vom 18.06.14: Sachstandsbericht zur Vernissage "Heldinnen der Welt"
+- TOP 8.29.: Antrag BA 20 Hadern vom 14.07.14: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze"
+- TOP 8.30.: Schreiben MVV vom Juli 2014: Verbundbericht 2013 - MVV weiter auf Erfolgskurs
+- TOP 1.2: Bürgerpost an den BA
