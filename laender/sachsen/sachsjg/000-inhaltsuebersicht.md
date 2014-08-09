@@ -30,6 +30,7 @@ Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 24 Normenkontrollverfahren
 § 25 Zuständigkeit des Sächsischen Oberverwaltungsgerichts im ersten Rechtszug
 § 25a Verwaltungsgerichtliche Zuständigkeitskonzentration
+§ 25b Zuständigkeiten im Verfahren über die Bewilligung von Prozesskostenhilfe
 § 26 Widerspruchsbehörde bei Verwaltungsakten einer Polizeidienststelle
 § 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs- , Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
 § 27a Vorverfahren bei der Notarkammer Sachsen und der Rechtsanwaltskammer Sachsen
@@ -41,18 +42,21 @@ Abschnitt 5 Ausführung des Sozialgerichtsgesetzes
 § 31 Vollstreckung zugunsten der öffentlichen Hand
 § 32 Dienstaufsicht
 § 33 Berufung der ehrenamtlichen Richter
+§ 33a Zuständigkeiten im Verfahren über die Bewilligung von Prozesskostenhilfe
 Abschnitt 6 Ausführung der Finanzgerichtsordnung
 § 34 Vertrauensleute
 § 35 Dienstaufsicht
 § 36 Finanzrechtsweg
 § 37 Beiladung der Kirchen und Religionsgemeinschaften
+§ 37a Zuständigkeiten im Verfahren über die Bewilligung von Prozesskostenhilfe
 Abschnitt 7 Ausführung des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen
 § 38 Vorschlagslisten
 § 39 Vorschlag der ehrenamtlichen Richter
 § 40 Persönliche Angaben
 § 41 Ergänzungsliste
-Teil 3 Sicherheits- und ordnungsrechtliche Befugnisse des Justizwachtmeisterdienstes
+Teil 3 Befugnisse des Justizwachtmeisterdienstes und der Gerichtsvollzieher
 § 42 Befugnisse der Justizwachtmeister
+§ 42a Befugnisse der Gerichtsvollzieher
 Teil 4 Ausführung der Grundbuchordnung Abschnitt 1 Allgemeine Vorschriften im Grundbuchverkehr
 § 43 Bedienstete des Grundbuchamtes und ihre Zuständigkeit
 § 44 Berggrundbuch
