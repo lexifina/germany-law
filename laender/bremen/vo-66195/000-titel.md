@@ -1,0 +1,1 @@
+# Verordnung über die für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Energieverbrauchsrelevante-Produkte-Gesetz und dem Energieverbrauchskennzeichnungsgesetz zuständige Behörde vom 29. Juli 2014
