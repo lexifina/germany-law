@@ -1,0 +1,92 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3081980
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3081980
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Schulische Angebote an der Haunerschen Kinderklinik
+- TOP 1.2.: Gehwegparker Ecke Schloß-Prunn-Straße / Kruckenburgstraße
+- TOP 1.3.: Fußgängerzone Haderner Stern
+- TOP 1.4.: Verlegung Bushaltestelle Wastl-Witt-Straße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.3.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Förderverein Kindergarten Fronleichnam e.V., Beschaffung einer Doppelschaukel (Direktorium, 17.07.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr 2015 Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 17.07.14)
+- TOP 6.2.: Antrag BA 3 Maxvorstadt vom 14.01.2014 Antrag zur Änderung der BA-Satzung: a) Änderung von § 23 a der BA-Satzung b) Änderung von § 23 a Abs. 2 Buchst f der BA-Satzung c) Änderung von § 23 a Abs. 2 Buchst a, c und e der BA-Satzung (Direktorium, 21.07.14)
+- TOP 6.3.: Antrag BA 3 Maxvorstadt vom 11.03.2014 Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" (Direktorium, 21.07.14)
+- TOP 6.4.: Niederlegung von Vorstandsämtern, § 19 Abs. 3 BA-Satzung (Direktorium, 21.07.14)
+- TOP 6.5.: Fürstenrieder Straße 166, Neubebauung (EG: SB-Filiale der Stadtsparkasse, Gewerbeeinheit, 4 Wohnungen; 1. - 3. OG: 3 x 5 Wohnungen, 4. OG: 3 Wohnungen) - Vorbescheid (Referat für Stadtplanung und Bauordnung, 10.07.14)
+- TOP 6.6.: Tannenwaldstraße 2, Neubau eines Mehrgenerationenhauses - Vorbescheid (Referat für Stadtplanung und Bauordnung, 14.07.14)
+- TOP 6.7.: Ringstraße 8, Neubau zweier Doppelhaushälften mit Garage (Haus A und Haus B) (Referat für Stadtplanung und Bauordnung, 09.07.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Fürstenrieder Straße 166, gem. Baumbestandsplan Nr. 14694
+- TOP 7.2.: Tannenwaldstraße 2, gem. Baumbestandsplan Nr. 14872
+- TOP 7.3.: Ringstraße 8, gem. Baumbestandsplänen Nr. 13824 und 13826
+- TOP 7.4.: Waldgartenstraße 44, 1 Schwarzkiefer und 1 Birke
+- TOP 7.5.: Heckenrosenstraße 3, 1 Linde
+- TOP 7.6.: Kleinhaderner Straße 32, 1 Fichte
+- TOP 7.7.: Hohenklingenstraße 24, 1 Fichte
+- TOP 7.8.: Pfundmayerstraße 19, 1 Nordmanntanne
+- TOP 7.9.: Klematisstraße 14, 1 Birke
+- TOP 7.10.: Rudi-Seibold-Straße 1, 1 Birke
+- TOP 7.11.: Saalburgstraße 21, 2 Birken
+- TOP 7.12.: Wildanger 16, 1 Birke
+- TOP 7.13.: Krokusstraße 11, 1 Birke
+- TOP 7.14.: Flemischweg 33, 1 Blautanne
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste des Baureferates vom 03.07.14: 19 Bäume auf dem Waldfriedhof
+- TOP 7.2.: Ebernburgstraße 2 b, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 05.08.14)
+- TOP 7.3.: Guardinistraße 53 - 59, Gräfelfinger Straße 4 - 12, hier: bei Gräfelfinger Straße 10, 1 Silberahorn (Referat für Stadtplanung und Bauordnung, 05.08.14)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Link für die Auskunft über allgemeine Behindertenparkplätze / Allgemeine Informationen (Kreisverwaltungsreferat, 02.07.14)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Barbierstraße (Sozialreferat, 07.07.14) - Sonnblickstraße (Sozialreferat, 25.07.14)
+- TOP 8.3.: BA 16 wird 2014 / 2015 Einsatzort für den Kinder-Aktions-Koffer (Sozialreferat, 11.07.14)
+- TOP 8.4.: Baumaßnahmen der SWM, hier: Stromprojekt Würmtalstraße Netztrafostation (SWM, 23.07.14)
+- TOP 8.5.: Faltblatt "Wohnungsmarktdaten München 2013" (Referat für Stadtplanung und Bauordnung, 24.07.14)
+- TOP 8.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImschG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für Anlieferung von Beton, Betonage, Anlieferung von Baumaterial, Fürstenrieder Straße 260 / 262 (Referat für Gesundheit und Umwelt, 31.07.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verkehrsschild "Vorsicht Kinder" an der Waldwiesenstraße (Kreisverwaltungsreferat, 08.07.14)
+- TOP 9.2.: Eröffnung des Streetwork-Büros in der Blumenau (Sozialreferat, 26.06.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Förderung des Projektes "Hadern, der blühende Obstgarten Münchens" im Zeitraum 01.05.2013 - 01.05.2014, Sachbericht (ergon e.V., 05.07.14)
+- TOP 11.2.: Einladung zum Austausch mit dem Ausländerbeirat am Donnerstag, 18.09.2014 (Ausländerbeirat, 14.07.14)
+- TOP 11.3.: 18.jetzt - Fest junger Erwachsener im Rathaus am 11.10.2014 (Direktorium, 09.07.14)
+- TOP 11.4.: Vorschlagsliste zur Auswahl für das Ehrenamt als Verwaltungsrichterin bzw. Verwaltungsrichter für die Gerichtsperiode 2015 - 2020 (Kreisverwaltungsreferat, 14.07.14)
+- TOP 11.5.: Zusammenfassung der BA-Infoveranstaltung des Kreisjugendring München-Stadt vom 25.06.2014 (Kreisjugendring München-Stadt, 28.07.14)
+- TOP 11.6.: Christkindlmarkt Hadern 2014
+- TOP 11.7.: Flyer Infoabende des Bauzentrums München (Referat für Gesundheit und Umwelt, 28.07.14)
+- TOP 11.8.: Empfang "10 Jahre Na klar!" am Freitag, 24.10.2014 (Na klar, 30.07.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00161 (nach Antrag): TUM-Studie zur Wohnungsnachfrage im Stadtrat vorstellen (zur Kenntnisnahme)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00078 (Punkte 1, 3 - 6 nach Antrag): Flächensparende Gewerbeansiedlungen und Ziele des Integrierten Stadtteilentwicklungskonzept für das Quartierzentrum Trudering (ISEK) Dem Stadtrat werden Möglichkeiten dargestellt, Regelungen zur Steuerung und Planung flächensparender Bauweisen herbeizuführen.
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00096 (nach Antrag): Konzept gegen die Zerstörung der Laden- und Gaststättenkultur auf der Schwanthalerhöhe und in den Altbauvierteln Münchens (abgelehnt)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.07.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00157 (nach Antrag): Sozialverträgliche Preisgestaltung und Stellplatzvergabe zur Anwohnertiefgarage am Josephsplatz (abgelehnt)
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 15.07.2014 und Ergänzung vom 08.07.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00567: Mädchen und junge Frauen in München, Zusammenfassung der Praxisforschung zu Lebenslagen, Spannungsfeldern und Bewältigungsszenarien von Mädchen und jungen Frauen in der Blumenau, Indikatoren und Übertragbarkeit der Forschungsergebnisse auf andere Stadtteile in München; Umsetzung eines Modellprojekts zur geschlechtshomogenen, parteilichen Arbeit mit Mädchen und jungen Frauen in der Blumenau, Bearbeitung übertragbarer Studienergebnisse im Sozial- sowie Kinder- und Jugendhilfeausschuss: Das Sozialreferat soll beauftragt werden, zu einem "Runden Tisch" einzuladen und mit verschiedenen Akteuren die Übertragbarkeit der vorliegenden Forschungsergebnisse auf andere Stadtteile sowie konkrete Maßnahmen für die Mädchen und jungen Frauen in der Blumenau zu prüfen (Punkt 1 des Referentenantrages).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 04.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00163: Information zum Fachtag "Doppelstock S-Bahn" (zur Kenntnis genommen) Die Zweckmäßigkeit wird in Frage gestellt. Eine Anschaffung kann frühestens ab 2017 in Auftrag gegeben werden.
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
