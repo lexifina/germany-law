@@ -1,0 +1,84 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-08-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109399
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109399
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Anhörung zu einer beantragten Änderung der BA-Satzung bezügl. der Tätigkeit von Beauftragten gegen Rechtsextremismus, Antrag Nr. 08-14 / B 05514 des BA 3 Maxvorstadt vom 14.01.2014
+- TOP .2.: Anhörung zu einer beantragten Änderung der BA-Satzung bezügl. der Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum?, Antrag Nr. 08-14 / B 05731 des BA 3 Maxvorstadt vom 11.03.2014
+- TOP .3.: Anhörung zu einer beabsichtigten Änderung der BA-Satzung bezüglich der Niederlegung von Vorstandsämtern (§ 19 Abs. 3 BA-Satzung), Wegfall der Angabe eines wichtigen Grundes
+- TOP .1.: Bürgeranliegen: Beschwerde wegen geplanter Neuvermietung im Anwesen Reichenbachstr. 1
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Färbergraben 10, Nutzungsänderung: Laden im EG zu Cafè/Bar, Verkaufsraum im 1. OG und 2 Wohnungen im 4. + 5. OG zu Büroräumen
+- TOP .2.: Dreifaltigkeitsplatz 2, Aufteilung einer 2-Zi.-Wohnung im 1. OG in einen Personalaufenthalt und eine 1.-Zi.-Wohnung, Renovierung der Wohnungen im 2. + 4. OG
+- TOP .3.: Sendlinger Str. 50, DG-Ausbau, Modernisierung und Nutzungsänderung
+- TOP .4.: Frauenstr. 6, diverse Nutzungsänderungen
+- TOP .5.: Aufbau eines Schaltverteilers: Blumenstr. 32, Blumenstr. 5, Rindermarkt 5, Hotterstr. 10, Angertorstr. 7, Kreuzstr. 16, Hotterstr. 5, St.-Jakobs-Pl. 12, Unter Anger 11, Marienplatz 21, Rosental 16, Rosental 5, Josephspitalstr. 8 -11, Roßmarkt 3, Oberanger 24, Hackenstr. 5, Herzogspitalstr. 7, Utzschneiderstr. 7, Rindermarkt, Fürstenfelder Str. 5 (vertagt aus 2014.06 B 3.1.6, 2014.07 B 3.1.3)
+- TOP .6.: Sporerstr. 2, Umbau und Nutzungsänderung von Einzelhandelsfläche in Gastronomie im EG + 1. OG
+- TOP .7.: Wiedenmayerstr. 14, Nutzungsänderung der Wohnung im EG rechts + Mitte in ein Büro
+- TOP .1.: Bürgeranliegen: Parken von Mietfahrrädern auf öffentlichem Grund
+- TOP .2.1: Gaststätten
+- TOP .1.: Brunnstr. 5, Gaststätte ?Brotzeitbar?, Genehmigung einer Freischankfläche
+- TOP .2.: Tal 6/8, Mc Donalds und Tegernseer Tal Bräuhaus, Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Maximilianstr. 33, Genehmigung einer Freischankfläche (Nachtrag zu 2014.07 B 3.1.5)
+- TOP .4.: Liebherrstr. 8, ?Café im Lehel?, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Rumfordstr. 35, Einzelhandel ?Menne?, Aufstellung einer Warenstellage
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Christkindlmarkt Sendlinger-Tor-Platz, 27.11.-23.12.2014
+- TOP .2.: Isarinselfest zwischen Ludwigs- und Maximiliansbrücke, 05.09.-07.09.2014
+- TOP .3.: Straßenfest ?Sigi-Sommer-Fest?, Rindermarkt, 22.08.2014
+- TOP .4.: Kultur- und Shoppingnacht ?Nachtschwärmer?, Innenstadt, 12.09.2014
+- TOP .5.: Karaoke-Veranstaltung anl. 135 Jahre Kaufhof am Marienplatz, Rosenstr., 19.09.2014
+- TOP .6.: Informationsveranstaltung ?Healthy Lungs for life?, sog. Odeonsplatz, 05.09.-07.09.2014
+- TOP .7.: Aktion "Spiel mich", Aufstellung von Klavieren an diversen Orten, 15.09.-05.10.2014
+- TOP .8.: Begleitprogramm zum Oktoberfestumzug, Salvatorplatz, 21.09.2014
+- TOP .9.: Major League Baseball Event, sog. Odeonsplatz, 15.09.2014
+- TOP .10.: Straßenfest 111 Jahre Kiosk am Sendlinger-Tor-Platz, 17.09.2014
+- TOP .1.: Bürgeranliegen: Parkverstöße am Platz der Opfer des Nationalsozialismus
+- TOP .2.: Bürgeranliegen: Verschmutzung am Spielplatz in der Hochbrückenstraße
+- TOP .1.: Einrichtung eines Taxistandortplatzes, Maximilianstraße 11 (vertagt aus 2014.07 D 2.1)
+- TOP .1.: Neues Verkehrskonzept für den Altstadtkern zum Schutz der Anwohner vor Feinstaub und Rußpartikelbelastung, Anhörung zum Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP .2.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße (vertagt aus 2014.05. B 3.2.1, 2014.06 D 3.3, 2014.07 D 3.3)
+- TOP .3.: Oettingenstr. 40, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP .1.: (E) Budget der Bezirksausschüsse Pädagogische Aktion SPIELkultur e.V. Anschaffung von Zelten
+- TOP .1.: Stellenausbau in den Münchner Nachbarschaftstreffs (vertagt aus 2014.07 E 3.1)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Telef. Rückmeldung der Polizeiinspektion 11 zur Entfernung des Schaukastens in der Hochbrückenstraße/Ecke Ledererstraße (Polizei)
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bauvorhaben Fürstenfelder Str. 3, Antwortschreiben der Lokalbaukommission auf ablehnende Stellungnahme des Bezirksausschusses (siehe 2013.08 B 3.1.11 N)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Kunst im öffentlichen Raum, Kirchengrundrisse aus Stühlen, Frauenplatz, 08.-12.10.2014
+- TOP 0.6.: Kunst im öffentlichen Raum, ?Das Rätsel des Überflüssigen?, Rindermarkt, 06.-10.10.2014
+- TOP 0.7.: Freischankfläche St.-Anna-Str. 13, ?La Stanza?, Antwortschreiben der Bezirksinspektion Mitte zum Schreiben des Bezirksausschusses (siehe TOP 2014.06 C 2.2.7)
+- TOP 0.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.9.: Zustimmung der Veranstaltung ?Info-Stand auf dem Marienhof am 08.08.2014? durch Fristablauf
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Rückmeldung des Baureferats zu ?Rückbau von Abbiegespuren in der Oettingen- und Sternstraße? (2014.05 B 3.2.1, 2014.06 D 3.3, 2014.07 D 3.1)
+- TOP 0.3.: Baustelle Karolinenplatz, Information der Münchner Verkehrsgesellschaft mbH (MVG)
+- TOP 0.4.: Einleiten von Mischwasser in die Isar, Kleine Isar, Auer Mühlbach und Mittlere-Isar-Kanal durch die Münchner Stadtentwässerung, wasserrechtlicher Genehmigungsbescheid
+- TOP 0.5.: ÖPNV-Offensive IV, Prälat-Zistl-Str., Haltestelle Viktualienmarkt, Schreiben des Baureferates an das Kreisverwaltungsreferat
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Reinigungsstandards in Münchner Schulen, Beschluss der Vollversammlung vom 19.02.2014, Sitzungsvorlage Nr. 08-14 / V 13887
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
