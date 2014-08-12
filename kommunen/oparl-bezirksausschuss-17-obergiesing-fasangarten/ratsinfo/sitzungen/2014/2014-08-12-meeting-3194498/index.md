@@ -1,0 +1,55 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-08-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194498
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194498
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Parklizenzgebiet Trauchbergstraße / Perlacher Straße, Bürgeranliegen von Herrn C. vom 10.07.2014
+- TOP 2.2.: Umweltskandal mitten in München, Bürgeranliegen von Herrn M. vom 08.07.2014 und Antwort des RGU vom 18.07.2014
+- TOP 2.3.: Parkplatzsituation Weißenseestraße, Bürgeranliegen von Frau L. vom 16.07.2014
+- TOP 2.4.: Motorradstellplätze im Bereich der Deisenhofener Straße 91 und der Schlierseestraße 50, Bürgeranliegen von Herrn K. vom 22.07.2014
+- TOP 2.5.: Maßnahmen zur Sicherung der Schulwege mit Beginn der Bauphase Europäischen Schule/Kerngebiet/Amerikanische Siedlung, Bürgeranliegen von Herrn M. vom 31.07.2014
+- TOP 2.6.: Mehr Transparenz bei der Behandlung der im Bezirksausschuss gestellten Anträge, Bürgeranliegen von Herrn M. Vom 05.08.2014
+- TOP 3: Baumschutz
+- TOP 3.3.1: Einzelfälle
+- TOP 3.7.: Fasangartenstr. 161, 1 Waldkiefer, Antrag vom 30.06.2014
+- TOP 3.8.: Waldmünchenener Str. 3, 1 Scheinakazie, Antrag vom 26.07.2014
+- TOP 3.3.2: Baumbestandspläne
+- TOP 4: Anträge
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die BA's
+- TOP 5.9.: (E) Budget der Bezirksausschüsse Bürgerinitiative Amisiedlung Fest am 14.09.2014, Antragssumme 900,00 ?
+- TOP 5.10.: (E) Budget der Bezirksausschüsse Münchner Volkshochschule GmbH Veranstaltungen zum Tag des Offenen Denkmals am 14.09.2014, Antragssumme 400,00 ?
+- TOP 5.11.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Lutherkirche Beteiligung an der ?artionale 2014? vom 01.10. bis 05.11.2014
+- TOP 5.5.2: Sonstige Entscheidungsfälle
+- TOP 5.11.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufestellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Edelweißstr. 13, Zuleitung KVR vom 29.07.2014
+- TOP 6: Anhörungsfälle / Stellungnahmen
+- TOP 6.12.: Antrag zur Änderung der BA-Satzung, Antrag des Bezirksausschusses 03 - Maxvorstadt, BA-Antrag 08-14 / B 05514, Anhörung des Direktorium vom 21.07.2014
+- TOP 6.13.: Organisation und Durchführung von Projekten von "Kunst im öffentlichem Raum", BA-Antrag Nr. 08-14 / B 05731 des Bezirksausschusses des Stadtbezirks 03 - Maxvorstadt vom 11.03.2014, Anhörung des Direktorium vom 21.07.2014
+- TOP 6.14.: St.-Bonifatius-Str. 3, Anhörung zur Änderung der Denkmalliste, Zuleitung PlanR vom 08.07.2014
+- TOP 6.15.: Planfeststellung nach dem Personenbeförderungsgesetz für das Vorhaben Gleiserneuerung mit Lageanpassung sowie Einbau neuer Abbiegegleise an der Gleiskreuzung Tegernseer Landstraße/St.-Bonifatius-Str. und barrierefreier Ausbau der Haltestelle Ostfriedhof, Anhörung PlanR vom 08.07.2014
+- TOP 6.16.: Infoveranstaltung Machbarkeitsstudie zur Verbesserung der Lärm- und Luftsituation an der Tegernseer Landstraße, Themenmeldung an das PlanR
+- TOP 6.17.: Erinnerungsverfahren; Projektname: Schwanseestraße 65b / Stadelheimer Str., Schreiben des BauR vom 30.06.2014
+- TOP 6.18.: Änderung der BA-Satzung, § 19 Abs. 3, Niederlegung von Vorstandsämtern, Anhörung des Direktorium vom 21.07.2014
+- TOP 6.19.: Anhörungen zu Bauvorhaben im Einzelfall: 1. Tegernseer Landstr. 165, Nutzungsänderung und Umbau von Büro zu Hotel mit Tiefgarage, Zuleitung PlanR vom 28.07.2014 2. Zugspitzstraße 12, Nutzungsänderung im EG: Laden Nr. 3 zu 2-Zimmer-Wohnung, Zuleitung PlanR vom 31.07.2014
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.20.: Baufälle im 17. Stadtbezirk
+- TOP 7.21.: Giesinger Bahnhofplatz, Austausch der kunstharzgebundenen Oberflächenbefestigung (TerraWay), Stellungnahme des BA 17 aus der Sitzung vom 10.06.2014, Antwort des BauR vom 23.06.2014
+- TOP 9: Termine, Ankündigungen, Verschiedenes
+- TOP 10: Nichtöffentlicher Teil
+- TOP 5: Entscheidungsfälle
