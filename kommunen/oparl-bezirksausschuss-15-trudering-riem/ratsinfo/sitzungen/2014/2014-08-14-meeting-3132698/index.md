@@ -1,0 +1,58 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-08-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132698
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132698
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.1.: 26.06.2014 und 14.07.2014
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Waldkindergarten Trudering e.V. Innenausstattung des Bauwagens des Waldkindergarten Trudering - <div>Zustimmung in voller Höhe</div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Sophienkirche Veranstaltung ?artionale? vom 01.10. bis 05.11.2014 - <div>Zustimmung in voller Höhe</div>
+- TOP 1.3.: (E) Budget der Bezirksausschüsse TSV Maccabi München e.V. 7. Kurt Landauer-Freundschaftsturnier am 13.07.2014 - <div>Zustimmung in voller Höhe</div>
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Bund Naturschutz in Bayern e.V., Kreisgruppe München Kinderprogramm im Rahmen des ökologischen Hoffestes am 21.09.2014 - <div>Zustimmung in Höhe von 2500,00 Euro</div>
+- TOP 5: (E) Einrichtung eines Zebrastreifens in Höhe der Einmündung Rothuberweg - Truderinger Straße - <div>Zustimmung</div>
+- TOP 5.6.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 27.09.2014 auf dem Platz der Menschenrechte - <div>Zustimmung</div>
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Graffitiflächen für Jugendliche in Trudering- Riem - <div>Verweisung an den Jugendbeauftragten</div>
+- TOP 3.2.: Münzfernrohr für den Rodelhügel im Riemer Park - <div>Kenntnisnahme</div>
+- TOP 3.3.: Keine Irrwege in der Bauordnung I - <div>Verweis in den UA Planung</div>
+- TOP 3.4.: Potentiale zum Wohnbau an geeigneter Stelle nutzen- Das Mitterfeld weiterentwickeln - <div>Verweis in den UA Planung</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: MVV- Tarifstruktur Absenkung des MVV- Tarifs für Zeitkarten im S-Bahnbereich Gronsdorf und bei den Buslinien 193 und 146; Empfehlung Nr. 08-14/ E 01975 der Bürgerversammlung des Stadtbezirks 15 Trudering- Riem am 10.10.2013; Sitzugnsvorlage Nr. 14-20/ V 00560; Beschluss des Ausschusses für Arbeit und Wirtschaft am 01.07.2014 (SB) - <div>Kenntnisnahme</div>
+- TOP 7: Unterausschüsse
+- TOP 7.7.1: UA Allgemeines:
+- TOP 7.1.: Straßenfest auf dem Platz der Menschenrecht am 28.09.2014 - <div>Zustimmung</div>
+- TOP 7.2.: "What's the deal" vom 11.09.2014 bis 13.09.2014 auf dem Willy- Brandt- Platz - <div>Zustimmung</div>
+- TOP 7.3.: Flohmarkt auf dem Platz der Menschenrechte am 27.09.2014 - <div>Zustimmung</div>
+- TOP 7.7.2: UA Bau und Verkehr:
+- TOP 7.1.: Öffnung der in Richtung Westen einbahngeregelten Linnenbrüggerstraße zwischen Deikestraße und Am Mitterfeld für den gegenläufigen Radverkehr; Anhörung gemäß § 13 der Satzung für Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - <div>Zustimmung</div>
+- TOP 7.7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.1.: Mitteilung über ein Grundstücksgeschäft 7.3.1 Willy- Brandt- Allee, Verkauf einer Teilfläche 7.3.2 Stolzhofstraße; Verkauf einer Teilfläche - <div>Kenntnisnahme</div>
+- TOP 7.7.4: UA Planung:
+- TOP 7.1.: Bauleitplanung der Gemeinde Haar, 34. Änderung des Flächennutzungsplans für das ehemalige Bezirkskrankenhaus Haar IIm westlich der Vockestraße, Verfahren nach § 4 Abs. 1 BauGB - <div>Zustimmung</div>
+- TOP 7.2.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 142 "O/W-Zufahrt von der Feldkirchner Straße (B471) zur Kindertagesstätte an der Uttastraße und Baugebiet westlich der Feldkirchner Straße und nördlich der neuen O/W-Zufahrtsstraße"; Verfahren nach § 4 Abs. 1 BauGB - <div>Zustimmung</div>
+- TOP 7.3.: Graf- Spee- Platz 9 - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.4.: Bauleitplanung der Gemeinde Feldkirchen; Bebauungsplan Nr. 72: Gewerbegebiet "Nordwestlich der Bahnlinie" Verfahren nach §§13a, 4 Abs. 2 BauGB - <div>Zustimmung</div>
+- TOP 7.5.: Kreillerstraße 217 - <div>Zustimmung</div>
+- TOP 7.6.: Windbauerstraße 4 - <div>Zustimmung</div>
+- TOP 7.7.: Drosselweg 20 - <div>Zustimmung</div>
+- TOP 7.7.5: UA Schule, Soziales und Kultur:
+- TOP 7.7.6: UA Umwelt:
+- TOP 8: Baumfällungen
+- TOP 8.1.: Entscheidungen entgegen dem Votum des Bezirksausschusses 8.1.1 Matterhornstraße 37 8.1.2 Florastraße 20 8.1.3 Solalindenstraße 65 8.1.4 Möwestraße 31a Entscheidungen der Unteren Naturschutzbehörde aus anderen Grünen 8.1.5 St.- Augustinusstraße 4 Baumfällungen auf öffentlichen Grün- und Freiflächen 8.2.1 Scheibenwiesenweg 24 8.2.2 Leonhardiweg 39 8.2.3 Helsinkistraße 2-8, 20-26 8.2.4 Maria- Montessori- Straße 9-15 8.2.5 Friedenspromenade 34 8.2.6 Hochalmstraße 2 8.2.7 Teuchertstraße 4 8.2.8 Martin- Empl- Ring 14 8.2.9 Hochkönigstraße 5 8.2.10 Kreuzerweg 8 8.2.11 Drosselweg 20 8.2.12 Gestäckerstraße 112 8.2.13 Graf-Spee-Platz 9 8.2.14 Graf-Ottenburg-Straße 115 8.2.15 Forellenstraße 24 8.2.16 Waldschulstraße 71 8.2.17 Rappenweg 138 8.2.18 Kreillerstraße 217 8.2.19 Drosselweg 20 - <div>Zustimmung gemäß UA Votum</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
