@@ -1,0 +1,127 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-08-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186708
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186708
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: - LZA Naupliastraße / Seybothstraße - Erneuerung der gelben Signaltaster - WC am Kiosk Großhesseloher Brücke - LZA Mangfallplatz (Süd) - längere Grünphase für Fußgänger; Bürgerschreiben vom 05.07.2014
+- TOP 2.2.: Harlachinger Burschenfest - Antrag auf Einwohnerversammlung ausschließlich für AnwohnerInnen im Nahbereich Säbener Platz / Veranstaltungsort Burschenfest; Bürgerantrag vom 24.07.2014
+- TOP 2.3.: Baumschutzverordnung; Bürgerschreiben vom 25.07.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Budget der Münchner Bezirksausschüsse; Neuberechnung aufgrund der gestiegenen Verbrauchskosten und entsprechende Anhebung; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Urban Art Organization GmbH, für die Maßnahme: Projekt ?Brücken schlagen? am Candidplatz; Antragssumme: 980,00 ?; Antrag vom 04.08.2014
+- TOP 3.1.: Maibaumverein Untergiesing e.V., Verwendungsnachweis vom 01.07.2014 für den gewährten Zuschuss für die Aktion "Aufstellung des neuen Maibaums am Hans-Mielich-Platz
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Hebenstreitstraße - Zebrastreifen oder Bedarfsampel an der Ecke zum Giesinger Berg; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus der Sitzung vom 15.07.2014)
+- TOP 3.2.: Ausbau der S-Bahnlinie S20/27; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 15.07.2014) - <div>nach Antrag</div>
+- TOP 3.3.: Kein Autobahnsüdring durch das Naherholungsgebiet im Süden von München; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 15.07.2014) - <div>nach Antrag / mit Ergänzung</div>
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Einführung eines Anwohnerparkbereiches rund um die Gufidauner Straße; BA-Antrag Nr. 08-14 / B 05776 vom 18.03.2014; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 02.07.2014 (neutrale Erledigung)
+- TOP 3.2.: Wegenetz Giesing: Maßnahmen zeitnah umsetzen; BA-Antrag Nr. 08-14 / B 05646 vom 18.02.2014; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 10.07.2014 (positive Erledigung)
+- TOP 3.3.: Verlängerung des Pendelbusses von der Haltestelle Tierpark zum Freibad Maria Einsiedel über die Thalkirchner Brücke zur Endhaltestelle der Buslinie 52 als Ringlinie; Bürgeranliegen aus der Sitzung des BA 18 vom 13.05.2014; Antwortschreiben der MVG vom 03.07.2014 (negative Erledigung)
+- TOP 3.4.: Stadtteilcheck "Auf Herz und Rampen prüfen" - Barrierefreiheit im 18. Stadtbezirk; Schreiben des KJR München-Stadt vom 01.04.2014; Antwortschreiben der SWM GmbH zum U-Bahnhof Mangfallplatz vom 14.07.2014 und Antwortschreiben des KVR vom 22.07.2014 zu den Lichtzeichenanlagen Nauplia- / Akeleistraße
+- TOP 3.5.: Erneuerung der Ampelanlagen entlang der Naupliastraße und Seybothstraße (akkustisches Signal bei Grünlichtphase); Bürgerschreiben vom 03.03.2014; Antwortschreiben des KVR vom 29.07.2014 (negative Erledigung)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Rückführung der Isar-Ufergestaltung an der Marienklausen-Brücke unterhalb des breiten Wasserfalls zu ursprünglicher Form; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 15.07.2014) - <div>nach Antrag / mit Ergänzung</div>
+- TOP 3.1.: Tauernstraße 30 und Gabriel-Max-Str. 56; Nachforderung von Ersatzpflanzungen; Schreiben des BA 18 vom 26.06.2014; Stellungnahme der UNB vom 17.07.2014 (negative Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Steingadener Straße 16, Ablehnungsbescheid vom 17.07.2014 3.3.6.1.2 Schönstraße 36, Ablehnungsbescheid vom 07.07.2014 3.3.6.1.3 Tiroler Platz 4, Genehmigungsbescheid vom 21.07.2014 3.3.6.1.4 Lindenstraße 25, Ablehnungsbescheid vom 08.07.2014 3.3.6.1.5 Lorenzonistraße 29; Mitteilung vom 21.07.2014 über die Fällung eines Gefahrenbaumes 3.3.6.1.6 Benediktenwandstraße 38, Ablehnungsbescheid vom 31.07.2014
+- TOP 3.2.: Vollzug der Wassergesetze; Einleiten von Mischwasser, bestehend aus Niederschlagswasser und Schmutzwasser, in die Isar, Kleine Isar, Auer Mühlbach und Mittlere-Isar-Kanal durch die Münchner Stadtentwässerung; Abdruck des wasserrechtlichen Genehmigungsbescheides zur Kenntnisnahme
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Information der LHM über das Nachmittagsangebot für Eltern mit Kleinkindern im 18. Stadtbezirk; Antrag des Kinderbeauftragten - <div>nach Antrag</div>
+- TOP 3.1.: Reinigungsstandards in Münchner Schulen; Erhöhrung der Unterhaltsreinigung in Schulen von 2,5 auf 3 mal wöchentlich, zusätzliche jährliche Intensivreinigung der Schulhaustoiletten und zusätzliche Reinigung einiger Sporthallen an Samstagen auf Grund intensiver Vereinsnutzung; Jährliche Zusatzkosten für Reinigungsmaßnahmen i.H.v. ca. 4,5 Mio Euro brutto ab dem Schuljahresbeginn 2014/15; Hygiene in Schulhaustoiletten; Stadtratsantrag Nr. 08-14 / A 03654; Verbesserungen bei der Schulhausreinigung; Stadtratsantrag Nr. 08-14 / A 04442; Neues Reinigungssystem an Schulen testen; Stadtratsantrag Nr. 08-14 / A 04614; Sitzungsvorlage Nr. 08-14 / V 13887; Beschluss der Vollversammlung des Stadtrates vom 19.02.2014
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Schmorellplatz 8 - Neubau eines Mehrfamilienhauses mit TG und Rückbau des Bestandsgebäudes; Abdruck des Vorbescheides vom 07.07.2014; Zuleitung der Lbk (verwiesen aus der Sitzung vom 15.07.2014)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Die LHM wird aufgefordert, einen Nutzungsplan für den Candidplatz zu erstellen; Antrag der SPD-Fraktion (vertagt aus den Sitzungen vom 17.06.14 und 15.07.14) - <div>vertagt</div>
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Konradinstraße 23 - 29 - Erhalt des Wohnraums für die Mieter im derzeitigen Zustand und zu derzeitigen Preisen; Antrag des BA 18 - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Traminer Straße 6, Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID; Anhörung vom 01.07.14 (verwiesen aus der Sitzung vom 15.07.14)
+- TOP 3.2.: Karneidstraße 9, Neubau eines Mehrfamilienhauses mit TG - TEKTUR; Anhörung vom 10.07.14 (verwiesen aus der Sitzung vom 15.07.14)
+- TOP 3.3.: Gerhardstraße 4, Nutzungsänderung eines Wintergartens in einen bayerischen Biergarten; Anhörung vom 15.07.14
+- TOP 3.4.: Rabenkopfstraße 49, Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 17.07.2014
+- TOP 3.5.: Ulmenstraße 6, Umbau und Erweiterung eines Wohnhauses; Anhörung vom 21.07.2014
+- TOP 3.6.: Sanatoriumsplatz 2, Umbau eines Strahlentherapiezentrums zur Ertüchtigung des Strahlenschutzes für den Einbau eines neuen Bestrahlungsgeräts; Anhörung vom 21.07.2014
+- TOP 3.7.: Alois-Wohlmuth-Straße 19, Erweiterung einer Garage inkl. neuem Dach; Anhörung vom 21.07.2014
+- TOP 3.8.: Bruckenfischerstraße 27, Errichtung einer Gaube mit Balkon sowie Erhöhung der Kommunwand; Anhörung vom 21.07.2014
+- TOP 3.9.: Untere Weidenstraße 2, Anbau neuer Balkone (als Ersatz für nicht erhaltungswürdige Balkone); Anhörung vom 28.07.14
+- TOP 3.10.: Obere Weidenstraße 9, Sanierung u. Erweiterung eines denkmalgeschützten Wohnhauses - VORBESCHEID; Anhörung vom 29.07.2014
+- TOP 3.11.: Rotbuchenstraße 25, Abbruch und Neuerrichtung des Wintergartens (verkleinert) mit geänderter Dachkonstruktion sowie Entfernen der DG-Loggia zwecks Wohnraumvergrößerung einschl. Einbau eines Giebelfensterelements; Anhörung vom 28.07.2014
+- TOP 3.12.: Tierparkstraße 30, Erweiterung eines Wohnhauses für Beschäftigte des Tierparks; Anhörung vom 28.07.2014
+- TOP 3.13.: Oefelestraße 15, Nutzungsänderung einer Imbiss-Straßenverkaufsfläche zu 2 Gaststätten und Änderung der Fassadenfront im EG; Anhörung vom 28.07.2014
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Die LHM wird um Prüfung gebeten, ob das ehemalige Gelände der Stadtgärtnerei neben der Pfarrei Heilige Familie Harlachinger Vereinen zur Verfügung gestellt werden kann; BA-Antrag Nr. 08-14 / B 05458 vom 17.12.2013; Antwortschreiben des Kommunalreferats vom 18.06.2014 (negative Erledigung)
+- TOP 3.2.: Bebauung des OSRAM-Geländes; Bürgeranliegen aus der Sitzung des BA 18 vom 15.04.2014; Fragen zur Bürgerbeteiligung und zur Abwicklung des Baustellenverkehrs; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 25.06.2014 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Locanda Italiana", Schönstraße 21; Mitteilung vom 17.07.2014 3.5.6.2.2 Vereinswirtschaft "MKV Sportgaststätte", Säbener Straße 49; Mitteilung vom 29.07.2014 3.5.6.2.3 SSW "Pilshahn", Otkerstraße; Mitteilung vom 05.08.2014
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Geiselgasteigstraße; Mitteilung vom 07.07.2014 3.5.6.3.2 Anwesen Rabenkopfstraße; Mitteilung vom 30.07.2014
+- TOP 3.4.: PERSPEKTIVE MÜNCHEN - Weiterentwicklung des Handlungsraumansatzes; Vergabe von Gutachter- und Beratungsleistungen: inhaltliche Erarbeitung, Koordination und Moderation des Bearbeitungsprozesses für ein Modellprojekt zur Erstellung eines Handlungsraumkonzeptes; Sitzungsvorlagen Nr. 14-20 / V 00822; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014 (VB)
+- TOP 3.5.: Gartenstädte; Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick a) Historische Entwicklung b) Geltende Rechtslage c) Lösungsansätze d) Anträge und Empfehlungen Sitzungsvorlage Nr. 14-20 / V 00909; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 16.07.2014 (VB)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Spendenlauf zugunsten der Rexrodt von Fircks Stiftung am 20.09.2017 am Schmorellplatz 7; Zuleitung des KVR vom 23.07.2014 mit der Bitte um Stellungnahme bis 29.08.2014
+- TOP 3.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Jubiläumsfest der Emmauskirche in der Langobardenstraße / am Laurinplatz am 05.10.2014; Zuleitung des KVR mit der Bitte um Stellungnahme bis 12.09.2014
+- TOP 3.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest in der Aggensteinstraße am 06.09.2014; Zuleitung des KVR mit der Bitte um Stellungnahme bis 29.08.2014
+- TOP 3.4.: Anhörung für Sondernutzung auf öffentlichem Verkehrsgrund und in städtischen Grünanlagen; hier: Aktion "Spiel mich" im Zeitraum vom 15.09.2014 bis 05.10.2014; Standorte für öffentliche Klaviere im innerstädtischen Isarraum; Zuleitung des KVR mit der Bitte um Stellungnahme bis 22.08.2014
+- TOP 3.1.: Harlachinger Burschenfest 2014; Schreiben der Seniorenvertretung an das Direktorium; Antwortschreiben des Direktoriums vom 04.07.2014 (neutrale Erledigung)
+- TOP 3.2.: Harlachinger Burschenfest - Durchführung des Festes in den kommenden Jahren in der jetzigen Form; Empfehlung Nr. 08-14 / E 02074 der BÜV vom 14.11.2013; Sitzungsvorlage Nr. 08-14 / V 14206; Entscheidung des Oberbürgermeisters vom 01.07.2014 (negative Erledigung)
+- TOP 3.1.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 11. Oktober 2014; Schreiben des Direktoriums mit der Bitte um Teilnahmebestätigung
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Beauftragte gegen Rechtsextremismus - Antrag zur Änderung der BA-Satzung: a) Änderung von § 23 a der BA-Satzung b) Änderung von § 23 a Abs. 2 Buchst. f der BA-Satzung c) Änderung von § 23 a Abs. 2 Buchst. a, c und e der BA-Satzung; Antrag Nr. 08-14 / B 05514 des BA 3 vom 14.01.2014; Schreiben des Direktoriums mit der Bitte um Stellungnahme
+- TOP 4.2.: Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum"; BA-Antrag Nr. 08-14 / B 05731 des BA 3 vom 11.03.2014; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 4.3.: Niederlegung von Vorstandsämtern; § 19 Abs. 3 BA-Satzung; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur geplanten Satzungsänderung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.2013; Antwortschreiben des Direktoriums (W-LAN für den Standort Wettersteinplatz) vom 09.07.2014 (positive Erledigung)
+- TOP 4.2.: Wiederaufstellung der Bank Ecke Fromundstraße / Otkerstraße; BA-Antrag Nr. 14-20 / B 00096 vom 17.06.2014; Antwortschreiben des Baureferats vom 23.07.2014 (positive Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
