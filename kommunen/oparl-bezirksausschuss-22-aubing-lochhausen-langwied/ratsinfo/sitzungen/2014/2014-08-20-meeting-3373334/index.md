@@ -1,0 +1,109 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-08-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3373334
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3373334
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Miserabler Zustand des Verbindungsweges Reichenaustraße - Wohnanlage Ramses
+- TOP 2.2.: Rücknahme der BA-Entscheidung zur Straßenbahntrasse
+- TOP 2.3.: Entfernung der Rundholzabgrenzung im Kurvenbereich Altostraße / Fichtenhof
+- TOP 2.4.: Errichtung eines Zauns entlang des Metro-Parkplatzes / Gleisdreieck und regelmäßige Abfallbeseitigung
+- TOP 2.5.: Baustellenbeschilderung am Bahnhof Westkreuz
+- TOP 2.6.: Informationen zum "Runden Tisch Inklusion"
+- TOP 2.7.: Entfernung des Parkverbots im Bereich des Wendehammers Hohenrechbergstraße sowie Einleiten von Maßnahmen zur Erhaltung der Verkehrssicherheit
+- TOP 2.8.: Fuß- / Radweg Eichenauer Straße
+- TOP 2.9.: Ampelanlage Limesstraße / Seldeneckstraße
+- TOP 2.10.: Errichtung einer Lärmschutzwand in der Kronwinkler Straße
+- TOP 2.11.: Verkehrssicherheit Kreuzung Radolfzeller-/ Aubinger Straße
+- TOP 2.12.: Verbesserung der Parkmöglichkeit in der Lindacher Straße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Kleiberweg 16 - Ostermoosstr. 18 - Reichenaustr. 20 - Vestastr. 18 - Streitbergstr. 31 - Dilsberger Str. 6 - Kronwinkler Str. 59 - Reichenaustr. 7 + 9 - Soldhofstr. 3 - Lichteneckstr. 11 - Papinstr. 21 - Hoheneckstr. 18 - Müllerstadelstr. 169
+- TOP 3.2.: Fällen von Gefahrenbäumen: Krähenweg 75, Schr. Baureferat vom 17.07.14
+- TOP 3.3.: Baumfällungsgenehmigung: Streitbergstr. 31, Schr. Planungsreferat vom 07.08.14
+- TOP 4: Anträge
+- TOP 4.1.: Ausreichende Beleuchtung in den Fußgängerunterführungen Radolfzeller Straße und Ravensburger Ring
+- TOP 4.2.: Austausch des Bodenbelags am Basketball-Court Ehrenbürgstraße
+- TOP 4.3.: Beschilderung vom S-Bahnhof Neuaubing zum Econtel Hotel München in der Bodenseestr. 227
+- TOP 5: Entscheidungen
+- TOP 5.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied: Widmung der Straße U - 1646 (Erschließung Paulaner Brauerei) und der Gesamtstrecke der Saldenburgstraße
+- TOP 5.2.: Ausbau / Erneuerung der Rothenfelser Straße zwischen Limesstraße und Freienfelsstraße
+- TOP 5.3.: Bessere Reinigung in der Papinstraße und im Umfeld des S-Bahnhofs Neuaubing (Antrag Nr. 2)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Sicherung von drei SOS-Familienzentren - Erhalt der bedarfsnotwendigen Strukturangebote nach § 16 SGB VIII, Anhörung Sozialreferat vom 31.07.14
+- TOP 6.2.: Veranstaltung im Freien auf Privatgrund: 25. Aubinger Herbstfest von 04.09.-07.09.14 - Belandwiesenweg, Anhörung KVR vom 12.08.14
+- TOP 6.3.: Veranstaltung auf öffentlichen Verkehrsgrund: Festzug und Standkonzert am 04.09.14 - Start: Schwemmstraße, Anhörung KVR vom 13.08.14
+- TOP 6.1.: Einsatzort für den Kinder-Aktions-Koffer - BA 16, Schr. Sozialreferat vom 11.07.14
+- TOP 6.2.: Zuwendungen aus dem Budget der Bezirksausschüsse; Verwendungsnachweis - Anfertigung von Gedenktafeln, Schr. Direktorium vom 07.07.14
+- TOP 6.3.: Stadtteilcheck: "Auf Herz und Rampen prüfen", Barrierefreiheit im 22. Stadtbezirk: - Containerstandorte Kunreuthstraße/Riesenburgstraße, Mainaustraße, Georg-Böhmer-Straße, Schr. AWM vom 15.07.14 - Ampelanlagen, Schr. KVR vom 23.07.14
+- TOP 6.4.: Zusammenfassung BA-Infoveranstaltung "Jung sein in München - eine Einführung in die Jugendarbeit", Schr. Kreisjugendring vom 28.07.14
+- TOP 6.5.: Daten des 22. Stadtbezirkes, Schr. Direktorium vom 21.07.14
+- TOP 6.6.: Veranstaltungen / Kooperationen August 2014, Schr. Kulturreferat vom 01.08.14
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Fragenkatalog Schulsituation, Schr. Referat für Bildung und Sport vom 11.07.14
+- TOP 6.2.: Architektenwettbewerb zum Bildungscampus Freiham, Schr. MLLV vom 05.07.14
+- TOP 6.3.: Bebauungskonzept für die Aufstellung von Containern, Schr. Elternbeirat GS Ravensburger Ring vom 28.07.14
+- TOP 6.4.: Anfrage zur Errichtung von Kinderbetreuungseinrichtungen, Aubing-Ost-Straße, Schr. RBS vom 07.08.14
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Straßenbauarbeiten in der Lidelstraße zwischen 20 und 32, Anhörung Baureferat vom 10.07.14
+- TOP 6.2.: Fahrbahnsanierung Ostermoosstr. 4-18 und Flunkgasse 1-3, Anhörung Baureferat vom 22.07.14
+- TOP 6.3.: Straßenbenennung im 21. Stadtbezirk und im 22. Stadtbezirk: Teilumbenennung der Berglwiesenstraße, Mälzerstraße, Am Aubinger Feld, Mooswiesenstraße Teilumbenennung der Mooswiesenstraße, Staudenäckerweg Benennung der U - 1646 verbunden mit der Teilumbenennung der Mooswiesenstraße und der Verlaufänderung der Hanfgartenstraße, Anhörung Kommunalreferat vom 06.08.14
+- TOP 6.4.: Fahrbahnsanierung Goteboldstraße Hausnr. 121-169, Anhörung Baureferat vom 05.08.14
+- TOP 6.1.: Errichtung einer Querungshilfe an der Bodenseestr. auf Höhe Aufseßer Platz, Schr. KVR vom 15.07.14
+- TOP 6.2.: S-Bahnhof Freiham, Schr. Kommunalreferat vom 16.07.14
+- TOP 6.4.: Bahnlärm an der Lichtenfelser Straße, Schr. RGU vom 29.07.14
+- TOP 6.5.: Kindergarten St. Quirin - Fahrbahnmarkierung, Schr. Baureferat vom 28.07.14
+- TOP 6.6.: Herstellung eines Fußweges von der Lidel- zur Altostraße, Schr. Baureferat vom 29.07.14
+- TOP 6.7.: Mangelhafte Radverkehrserschließung in München-Freiham, Schr. ADFC vom 10.07.14
+- TOP 6.8.: Ausrichtung der Fußgängerampel an der Kreuzung Bodensee-/Limesstraße, Schr. Baureferat vom 29.07.14
+- TOP 6.9.: Arbeiten im Straßenraum: Limesstr. 6-16 und Einmündung Aubinger Straße - Straßenumbau, Schr. KVR vom 04.08.14
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Staufener Str. 2b-2d, Neubau von 2 Einfamilienhäusern mit je einer Garage, Anhörung Planungsreferat vom 22.07.14
+- TOP 6.2.: Bauleitplanung der Gemeinde Gräfelfing: 10. Flächennutzunsplanänderung - Verfahren nach § 4 Abs. 2 BauGB, Anhörung Planungsreferat vom 04.08.14
+- TOP 6.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2086: Trimburgstraße (südlich), Am Gleisdreieck (westlich), Voglerstraße (nördlich), Leisaustraße (östlich) - Bekanntgabe der Ergebnisse des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs "ehemalige Dornier-Gelände-Süd", Anhörung Planungsreferat vom 07.08.14
+- TOP 6.4.: Feuerhausstr. 8 - Neubau eines Mehrfamilienhauses mit TG (Vorbescheid), Anhörung Planungsreferat vom 06.08.14
+- TOP 6.5.: Johannes-Tanner-Str. 8 - Dachgeschoss-Ausbau, Anhörung Planungsreferat vom 06.08.14
+- TOP 6.6.: Mobilfunk: Suchkreismeldung im Suchkreis Langwied - Planung eines neuen Mobilfunkstandorts, Anhörung RGU Vom 06.08.14
+- TOP 6.7.: Bebauungsplan mit Grünordnung Nr. 2068 Germeringer Weg (südlich), Freihamer Weg (westlich), Kunreuthstr. (westlich), Wiesentfelser Str. (westlich), Anton-Böck-Str. (beiderseits), S-Bahnlinie München - Herrsching (nördlich), Bodenseestr. (nördlich), verlängerte Freihamer Allee (östlich)
+- TOP 6.1.: Baufälle im 22. Stadtbezirk vom 07.07.-13.07.14, 14.07.-20.07.14, 21.07.-27.07.14, 28.07.-03.08.14, Schr. Planungsreferat vom 14.07.14, 22.07.14, 28.07.14, 04.08.14
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 14.07.14, 21.07.14, 28.07.14, 04.08.14
+- TOP 6.3.: Erlass einer Satzung für das Gebiet zwischen Stierbergerstraße und Wiesentfelser-/Altenburgstraße, östlich und westlich der Limesstraße für die ausschließliche Zulassung von Walm- oder Satteldächer, Schr. Planungsreferat vom 14.07.14
+- TOP 6.5.: Depotplatz an der Schussenrieder Straße/Schubinweg, Schr. Baureferat vom 28.07.14
+- TOP 6.6.: Friedhof Aubing - Aufstellen von Behältnissen für Grünabfall, Schr. Baureferat vom 21.07.14
+- TOP 6.7.: Faltblatt "Wohnungsmarktdaten München 2013", Schr. Planungsreferat vom 24.07.14
+- TOP 6.10.: Wertstoffhof: Einrichtung einer Aktenvernichtungsanlage, Schr. AWM vom 30.07.14
+- TOP 6.11.: Bebauungsplan Aubing-Ost - Anbindung auf der Westseite zum Joseph-Suder-Bogen, Schr. Planungsreferat vom 30.07.14
+- TOP 6.12.: Bauvorhaben Limesstr. 39, Behandlung in der Stadtgestaltungskommission, Schr. Planungsreferat vom 06.08.14
+- TOP 6.13.: Baugenehmigung: Menzinger Str. 125 - Neubau einer Wohnanlage mit Tiefgarage, Schr. Planungsreferat vom 04.08.14
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" (Antrag Nr. 08-14/ B 5731 des BA 3), Anhörung Direktorium vom 21.07.14
+- TOP 7.2.: Niederlegung von Vorstandsämtern gem. § 19 Abs. 3 BA-Satzung, Anhörung Direktorium vom 21.07.14
+- TOP 7.3.: Antrag auf Änderung des § 23 a der BA-Satzung (Beauftragte gegen Rechtsextremismus) (Antrag Nr. 08-14/B 5514 des BA 3), Anhörung Direktorium vom 21.07.14
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung des Gaststättenbetriebs: - "Fifty Four", Bodenseestr. 228, Schr. KVR vom 08.07.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Bauausschusses vom 22.07.14: Freihamer Allee: Rad- und Fußwegunterführung unter der S-Bahn im 22. Stadtbezirk - Projektgenehmigung
+- TOP 10.2.: Beschluss der Vollversammlung des Stadtrats vom 19.02.14: Reinigungsstandards in Münchner Schulen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Vorschlagsliste zur Auswahl für das Ehrenamt als Verwaltungsrichterin bzw. als Verwaltungsrichter für die Gerichtsperiode 2015-2020, Schr. KVR vom 14.07.14
+- TOP 11.2.: Vorstellung der Entwurfsplanung: Errichtung von 4 Grundschulen in modularer Bauweise am Bauhausplatz (ehem. Funkkaserne), an der Ruth-Drexel-Straße (ehem. Prinz-Eugen-Kaserne), am Quartierszentrum (Freiham), an der Aubinger Allee (Freiham) am 23.09.14 um 17 Uhr im Technischen Rathaus, Schr. Referat für Bildung und Sport vom 23.07.14
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
