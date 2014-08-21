@@ -1,0 +1,54 @@
+# Gemeinderat (2. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-08-21T18:00:00+02:00
+- Ende: 2014-08-21T21:50:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYIhrLTb-o5xtq4leajwDnI
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1364
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZohYnpUM-k-CIPW65fsJ2-YqJzXTWcC0KegIQOFUJrx/Bekanntmachung_Gemeinderat_21.08.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRJPEBTryBv_RLkIRWGmBupJMbN2k8XqHWLN2Yo9mdB-/Oeffentliche_Niederschrift_Gemeinderat_21.08.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 12.06.2014 -öffentlicher Teil-
+- TOP 3.: Neubesetzung von Ausschüssen
+- TOP 3.1: Wahl der Mitglieder der Ausschüsse und deren Stellvertreter - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Benennung der Ausschussvorsitzenden
+- TOP 4.: Neubesetzung von Gremien
+- TOP 4.1: Partnerschaftskomitee und Behindertenbeirat - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Berichterstattung aus den Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Bildung der Einigungsstelle - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Satzungen, Ortsrecht
+- TOP 5.1: 6. Änderung der Zuständigkeitsordnung hier: Kompetenzen des Gemeindeentwicklungsausschusses - Vertagt
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Beteiligungsbericht für das Jahr 2012 - Zur Kenntnis genommen
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Ausführung des Haushalts
+- TOP 7.2: Sachstandsbericht Schulen
+- TOP 8.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 12.06.2014 -nichtöffentlicher Teil-.
+- TOP 2.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 2.1: Abschluss eines Mietvertrages mit der profinos gGmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Erwerb eines Rasentraktors für den Baubetriebshof - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Aufnahme eines Darlehens durch die Freizeitzentrum Blaustein-See GmbH - Einstimmig, 2 Enthaltung(en)
+- TOP 3.2: Verkauf des EWV-Anteils an der GREEN Bioenergie Cereshof GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Berichte aus den Gremien
+- TOP 4.: Vertragsangelegenheiten
+- TOP 4.1: Offene Einrichtung der Kinder- und Jugendarbeit hier: Vereinbarung mit dem Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Verkauf des Wegegrundstückes Gemarkung Freialdenhoven, Flur 8, Flurstück 181 - Vertagt
+- TOP 5.2: Verkauf des gemeindeeigenen Grundstückes Gemarkung Niedermerz, Flur 16, Flurstück 17 - Einstimmig, 3 Enthaltung(en)
+- TOP 5.3: Neuverpachtung eines Gartens in Schleiden - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Erfassung von Elektro- und Elektronikaltgeräten - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 7.2: Sachstandsbericht "Bunkereinsturz Schleiden"
+- TOP 8.: Verschiedenes
