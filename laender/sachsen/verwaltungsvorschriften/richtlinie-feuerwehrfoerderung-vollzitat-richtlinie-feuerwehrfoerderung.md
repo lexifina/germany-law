@@ -1,8 +1,8 @@
 # Richtlinie Feuerwehrförderung Vollzitat: Richtlinie Feuerwehrförderung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2012-03-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.1
+- Datum: 2014-08-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12427.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-30.03.2012
+22.08.2014
 bis
-21.08.2014
+03.12.2015
 
 Richtlinie Feuerwehrförderung
 
@@ -42,7 +42,6 @@ Vollzitat: Richtlinie Feuerwehrförderung vom  7. März 2012 (SächsABl. S. 358)
 |  |
 
 I.
-
 Rechtsgrundlagen, Zuwendungszweck
 
 1.
@@ -70,7 +69,6 @@ Zuwendungen zu den notwendigen Beschaffungen und Baumaßnahmen zur Erfüllung de
 Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel.
 
 II.
-
 Gegenstand der Förderung
 
 1.
@@ -79,7 +77,7 @@ Gefördert werden:
 
 a)
 
-Beschaffung von Ausrüstungsgegenständen nach den einschlägigen Einzelnormen,
+Beschaffung von Ausrüstungsgegenständen nach den einschlägigen Einzelnormen sowie von Notsignalgebern für Atemschutzgeräteträger gemäß der Feuerwehrdienstvorschrift 7,
 
 b)
 
@@ -100,7 +98,7 @@ Errichtung und Einrichtung von Feuerwehrhäusern und Feuerwachen mit Nebenanlage
 
 f)
 
-Beschaffung und Einbau von Fernmelde- und Alarmierungseinrichtungen,
+Beschaffung und Einbau von Funk- und Alarmierungseinrichtungen,
 
 g)
 
@@ -155,18 +153,16 @@ f)
 Kosten für Gebäude oder Gebäudeteile, die nicht unmittelbar den Zwecken der Feuerwehr dienen.
 
 III.
-
 Zuwendungsempfänger
 
 Zuwendungsempfänger sind die Gemeinden, Zweckverbände und Landkreise im Freistaat Sachsen.
 
 IV.
-
 Zuwendungsvoraussetzungen
 
 1.
 
-Beschaffungen und Baumaßnahmen müssen wirtschaftlich, sparsam und im Hinblick auf die bestehende Ausstattung der jeweiligen Feuerwehr, auch unter Berücksichtigung der Ausrüstung benachbarter Feuerwehren, notwendig sein.
+Die Zuwendungen erfolgen bedarfsorientiert. Beschaffungen und Baumaßnahmen müssen wirtschaftlich, sparsam und im Hinblick auf die bestehende Ausstattung der jeweiligen Feuerwehr, auch unter Berücksichtigung der Ausrüstung benachbarter Feuerwehren, notwendig sein. Die Auswirkungen auf die Leistungsfähigkeit der Gemeindefeuerwehr im Sinne der Brandschutzbedarfsplanung sind vom Zuwendungsempfänger darzustellen und von der Bewilligungsbehörde zu prüfen.
 
 2.
 
@@ -180,9 +176,7 @@ Bei Beschaffungsmaßnahmen muss der Zuwendungsempfänger Eigentümer werden.
 
 4.
 
-Fahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Abs. 1 des Gesetzes über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr (
-Kraftfahrsachverständigengesetz –
-KfSachvG) vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 60 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515, 2551) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.
+Fahrzeuge, einschließlich der vollständig vorgesehenen feuerwehrtechnischen Beladung, müssen aus Sicherheitsgründen vor der Auslieferung beziehungsweise Indienststellung von einem amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr gemäß § 1 Abs. 1 des Gesetzes über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr (Kraftfahrsachverständigengesetz – KfSachvG) vom 22. Dezember 1971 (BGBl. I S. 2086), das zuletzt durch Artikel 60 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515, 2551) geändert worden ist, insbesondere auf ihre Übereinstimmung mit den technischen Vorschriften und den Unfallverhütungsvorschriften, geprüft und abgenommen werden. Die Abnahme ist schriftlich zu dokumentieren und gegenüber der Bewilligungsbehörde nachzuweisen.
 
 5.
 
@@ -192,8 +186,13 @@ Zuwendungen für den Um- und Anbau von Gebäuden dürfen grundsätzlich nur in d
 
 Fernmeldeeinrichtungen sind zuwendungsfähig, wenn sie den Technischen Richtlinien der Behörden und Organisationen mit Sicherheitsaufgaben (TR-BOS – zu beziehen beim Polizeitechnischen Institut [PTI] bei der Polizei-Führungsakademie, Postfach 480 353, 48080 Münster oder einsehbar im Internetauftritt des PTI) entsprechen oder vom Staatsministerium des Innern anerkannt werden. Für Umrüstungen von Fernmeldeeinrichtungen sowie Einsatzhilfen werden Zuwendungen gewährt, wenn die Umrüstung aus Gründen erfolgt, die die Gemeinden, Zweckverbände oder Landkreise nicht zu vertreten haben, zum Beispiel Änderung von Richtlinien, Kanaländerung. Die Ausgaben der Umrüstung dürfen nicht mehr als 50 Prozent der Ausgaben einer Neubeschaffung betragen, und es muss der jeweils neueste technische Stand erreicht werden.
 
-V.
+7.
 
+Zuwendungen für die Instandsetzung oder den Ersatz von beweglichen oder unbeweglichen Sachen, die im Rahmen der Katastrophenbekämpfung beschädigt oder zerstört wurden, werden nur dann gewährt, wenn der Antragsteller versichert, im Falle der Bewilligung in Bezug auf den Zuwendungsgegenstand keinen Kostenerstattungsanspruch nach § 65 Nr. 3
+SächsBRKG geltend zu machen. Wird bei einer Prüfung festgestellt, dass der Zuwendungsgegenstand sowohl nach dieser Richtline gefördert und gleichzeitig dafür auch Erstattungsbeträge nach § 65 Nr. 3
+SächsBRKG gewährt wurden, kann die Förderung nach dieser Richtlinie bis zur vollen Höhe zurückverlangt werden.
+
+V.
 Art, Umfang und Höhe der Zuwendung
 
 1.
@@ -202,9 +201,8 @@ Die Zuwendung wird als projektgebundene Festbetrags- oder Anteilsfinanzierung ge
 
 2.
 
-Der maximale Fördersatz beträgt 75 Prozent, bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
-RL Elementarschäden  90 Prozent, der zuwendungsfähigen Ausgaben. Betragen die tatsächlichen Aufwendungen des Zuwendungsempfängers einschließlich Spenden Dritter und anderweitiger Finanzierungsmittel nicht mindestens 25 Prozent – im Falle der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
-RL Elementarschäden nicht mindestens 10 Prozent – der zuwendungsfähigen Ausgaben, so ist die Zuwendung entsprechend zu kürzen.
+Der maximale Fördersatz beträgt grundsätzlich 75 Prozent. Wenn ein besonderes öffentliches Interesse vorliegt, kann im Einzelfall mit Zustimmung des Staatsministeriums des Innern ein Fördersatz von bis zu 90 Prozent der zuwendungsfähigen Ausgaben gewährt werden. Bei Zuwendungen, die der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
+RL Elementarschäden dienen, beträgt der maximale Fördersatz 90 Prozent der zuwendungsfähigen Ausgaben. Betragen die tatsächlichen Aufwendungen des Zuwendungsempfängers einschließlich Spenden Dritter und anderweitiger Finanzierungsmittel nicht mindestens 25 Prozent, im Falle der Sätze 2 und 3 nicht mindestens 10 Prozent der zuwendungsfähigen Ausgaben, ist die Zuwendung entsprechend zu kürzen.
 
 3.
 
@@ -215,29 +213,35 @@ Zuwendungen für Baumaßnahmen und Fahrzeuge werden grundsätzlich als Festbetra
 Die Zuwendung wird als Zuschuss gewährt.
 
 VI.
-
 Zuwendungsverfahren
 
 1.
 
-Die Landkreise und Kreisfreien Städte erstellen jährlich Vorhabenlisten. Die Landkreise erarbeiten die Vorhabenlisten im Benehmen mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages. Die Vorhabenlisten sind Grundlage der Antragstellung an die Bewilligungsbehörde nach Nummer 2. Die Sätze 1 bis 3 finden bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
-RL Elementarschäden keine Anwendung.
-
-Ein Antrag kann erst gestellt werden, wenn die zuwendungsfähigen Ausgaben für ein oder mehrere Vorhaben den Betrag von 5 000 EUR, bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
-RL Elementarschäden einen Betrag von 1 000 EUR, übersteigen. Für gemeinsame Beschaffungen mehrerer Gemeinden bedarf es keiner Einzelanträge. Die Zuwendung beantragt dann die Stelle, die die Kaufverhandlungen für alle beteiligten Gemeinden führt. Die Zuwendung wird in diesen Fällen an die antragstellende Gemeinde ausgezahlt. Die Gemeinden haben die Erfüllung des Zuwendungszwecks durch den Abschluss öffentlich-rechtlicher Verträge sicherzustellen.
-
-Zu Anträgen der kreisangehörigen Gemeinden nimmt der Kreisbrandmeister Stellung, ob das Vorhaben nach Ziffer II förderfähig und die Maßnahme unter Berücksichtigung feuerwehrtechnischer Belange notwendig und angemessen ist.
-
-Die Bewilligungsbehörde hat die Möglichkeit, im Einzelfall zweckmäßig erscheinende Abweichungen von technischen Vorschriften zu gestatten, soweit nicht Sicherheitsbelange beeinträchtigt werden.
+Bewilligungsbehörde für kreisangehörige Gemeinden ist der Landkreis. Bewilligungsbehörde für Zuwendungen an Kreisfreie Städte, Landkreise nach Ziffer VII Nummer 3 Satz 1 sowie zur Förderung von Maßnahmen nach Ziffer II Nummer 1 Buchstabe f, i und l ist die Landesdirektion Sachsen.
 
 2.
 
-Bewilligungsbehörde für kreisangehörige Gemeinden ist der Landkreis. Bewilligungsbehörde für Zuwendungen an Kreisfreie Städte, Landkreise nach Ziffer VII Nr. 3 Satz 1 sowie zur Förderung von Maßnahmen nach Ziffer II Nr. 1 Buchst. f, i und l ist die Landesdirektion Sachsen.
+Die Landkreise und Kreisfreien Städte erstellen jährlich Vorhabenlisten. Die Landkreise erarbeiten die Vorhabenlisten im Benehmen mit dem jeweiligen Kreisverband des Sächsischen Städte- und Gemeindetages. Die Vorhabenlisten sind jährlich dem Staatsministerium des Innern auf dem Dienstweg über die Landesdirektion Sachsen vorzulegen. Die Vorhabenlisten sind Grundlage der Antragstellung an die Bewilligungsbehörde nach Nummer 1. Die Sätze 1 bis 4 finden bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
+RL Elementarschäden keine Anwendung.
+
+3.
+
+Ein Antrag kann erst gestellt werden, wenn die zuwendungsfähigen Ausgaben für ein oder mehrere Vorhaben den Betrag von 5 000 EUR, bei der Beseitigung von Schäden als Folge von Katastrophen oder Elementarschadensereignissen im Sinne der
+RL Elementarschäden einen Betrag von 1 000 EUR, übersteigen. Für gemeinsame Beschaffungen mehrerer Gemeinden bedarf es keiner Einzelanträge. Die Zuwendung beantragt in diesem Falle die Stelle, die die Kaufverhandlungen für alle beteiligten Gemeinden führt. Die Zuwendung wird in diesen Fällen an die antragstellende Gemeinde ausgezahlt. Die Gemeinden haben die Erfüllung des Zuwendungszwecks durch den Abschluss öffentlich-rechtlicher Verträge sicherzustellen.
+
+4.
+
+Zu Anträgen der kreisangehörigen Gemeinden nimmt der Kreisbrandmeister Stellung, ob das Vorhaben nach Ziffer II förderfähig und die Maßnahme unter Berücksichtigung feuerwehrtechnischer Belange notwendig und angemessen ist.
+
+5.
+
+Die Bewilligungsbehörde kann im Einzelfall zweckmäßig erscheinende Abweichungen von technischen Vorschriften zulassen, soweit nicht Sicherheitsbelange beeinträchtigt werden.
+
+6.
 
 Die Zweckbindungsfrist beträgt für Baumaßnahmen 25 Jahre, für Fahrzeuge ab 3,5 Tonnen zulässiges Gesamtgewicht 15 Jahre, für persönliche Schutzausrüstung fünf Jahre und für alle anderen Fördergegenstände zehn Jahre. Die Zuwendung mindert sich rückwirkend pro Jahr einer zweckfremden Verwendung innerhalb der Zweckbindungsfrist bei Baumaßnahmen um 4 Prozent, bei Fahrzeugen ab 3,5 Tonnen zulässiges Gesamtgewicht nach Indienststellung um 7 Prozent, bei persönlicher Schutzausrüstung um 20 Prozent sowie bei allen anderen Beschaffungen um 10 Prozent.
 
 VII.
-
 Förderrahmen und Bewirtschaftungsregelungen
 
 1.
@@ -258,14 +262,12 @@ SächsBRKG können den Landkreisen Zuwendungen bis zu 2 Prozent der auf die jewe
 Nimmt ein Landkreis oder eine Kreisfreie Stadt die pauschaliert zugewiesenen Fördermittel nach Nummer 1 Satz 1 und 2 nicht oder nicht vollständig in Anspruch, ist dies über die Landesdirektion Sachsen dem Staatsministerium des Innern spätestens bis zum 30. September des Haushaltsjahres mitzuteilen. Diese Fördermittel kann das Staatsministerium des Innern abweichend von Nummer 1 Satz 1 und 2 anderen Landkreisen und Kreisfreien Städten zuweisen.
 
 VIII.
-
 Übergangsbestimmungen
 
 Vorhaben, für die Zuwendungen vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt worden sind, werden nach der bisher geltenden Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur Förderung des Feuerwehrwesens (Förderrichtlinie Feuerwehrwesen –
 FRFw) vom 18. Dezember 2003 (SächsABl. 2004 S. 141), geändert durch Verwaltungsvorschrift vom 27. Dezember 2004 (SächsABl. 2005 S. 66), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), abgewickelt.
 
 IX.
-
 Inkrafttreten und Außerkrafttreten
 
 Ziffer V Nr. 3 dieser Förderrichtlinie tritt am 1. Januar 2013 in Kraft. Im Übrigen tritt diese Förderrichtlinie am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten außer Kraft:
@@ -281,16 +283,15 @@ die Verwaltungsvorschrift des Sächsischen Staatsministeriums des Innern über d
 Dresden, den 7. März 2012
 
 Der Staatsminister des Innern
-
 Markus Ulbig
 
 Anlage 1
-
 (zu Ziffer II Nr. 1 Buchst. b)
 
-Technische Richtlinie Mannschaftstransportwagen MTW
+Technische Richtlinie
+Mannschaftstransportwagen MTW
 
-Der Mannschaftstransportwagen MTW ist ein Kraftfahrzeug der Fahrzeug-Gruppe Mannschaftstransportfahrzeug gemäß DIN EN 1846-1. Mit diesen Fahrzeugen kann in Verbindung mit einem Tragkraftspritzenfahrzeug oder Staffellöschfahrzeug das Schutzziel der Brandschutzbedarfsplanung, 15 Einsatzkräfte nach 17 Minuten vor Ort zum Einsatz zu bringen, erfüllt werden.
+Der Mannschaftstransportwagen MTW ist ein Kraftfahrzeug der Fahrzeug-Gruppe Mannschaftstransportfahrzeug gemäß DIN EN 1846-1.
 
 Die Mannschaftstransportwagen sind mit folgender Mindestausrüstung zu beschaffen:
 
@@ -435,16 +436,15 @@ n)
 2 Unterlegkeile.
 
 Anlage 2
-
 (zu Ziffer II Nr. 1 Buchst. b)
 
-Technische Richtlinie Tragkraftspritzenfahrzeug TSF-W mit Allradantrieb
+Technische Richtlinie
+Tragkraftspritzenfahrzeug TSF-W mit Allradantrieb
 
 Ist auf Grund der örtlichen Gegebenheiten die Beschaffung eines Tragkraftspritzenfahrzeuges TSF-W nach DIN 14530-17 mit Allradantrieb zwingend notwendig, darf die zulässige Gesamtmasse abweichend von DIN 14530-17 Nummer 4.2 bis zu 7 490 kg betragen.
 
 Anlage 3
-
-(zu Ziffer V Nr. 1)
+(zu Ziffer V Nummer 2 und 3)
 
 Höhe der Zuwendungen bei Festbetragsfinanzierung
 
@@ -454,11 +454,11 @@ Baumaßnahmen
 
 Zur Errichtung und Einrichtung von Feuerwehrhäusern und Feuerwachen beziehungsweise -räumen mit Nebenanlagen, feuerwehrtechnischen Zentren einschließlich dem Erwerb von Gebäuden und deren Umbau für Feuerwehrzwecke werden Festbeträge wie folgt gewährt:
 
-Punkt 1
+Baumaßnahmen
 
-| Nr.
+| lfd. Nr.
 
-| Beschreibung
+| was
 
 | Betrag
 
@@ -511,11 +511,14 @@ Punkt 1
 |
 | pro m² zusätzliche Nutzfläche über 8 Stellplätze
 
+|
+| Mit diesen Festbeträgen sind auch Flächen für Außenanlagen im Sinne von lfd. Nr. 6 der Tabelle 1 der DIN 14 092-1 abgegolten.
+
 | 1.1.2
 | Feuerwachen
 
 |
-| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 2 der DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags ist ein Betrag von 869 EUR pro m² anerkannte Nutzfläche zugrunde zu legen. Sofern Einrichtungen nach Nummer 1.1.3 enthalten sind, sind die dort genannten Beträge für diese Einrichtungen anzuwenden.
+| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 1 zu DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags ist ein Betrag von 869 EUR pro m² anerkannte Nutzfläche zugrunde zu legen. Sofern Einrichtungen nach Nummer 1.1.3 enthalten sind, sind die dort genannten Beträge für diese Einrichtungen anzuwenden.
 
 | 1.1.3
 | Feuerwehrtechnische Zentren
@@ -570,7 +573,7 @@ Punkt 1
 | Rekonstruktions-, Um- und Anbaumaßnahmen
 
 |
-| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 2 der DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags sind folgende Beträge pro m² anerkannte Nutzfläche zugrunde zu legen:
+| Der Festbetrag wird von der Bewilligungsstelle nach Maßgabe des Raumprogrammes für den Bau von Feuerwehrhäusern, Tabelle 1 zu DIN 14 092-1, festgesetzt. Für die Ermittlung des Festbetrags sind folgende Beträge pro m² anerkannte Nutzfläche zugrunde zu legen:
 
 | 1.2.1
 | Feuerwehrhäuser und Feuerwachen
@@ -622,20 +625,19 @@ Feuerwehrfahrzeuge
 
 Zur Beschaffung der nachstehend genannten Feuerwehrfahrzeuge werden Zuwendungen als Festbeträge gewährt. Mit den Festbeträgen sind alle Kosten für Fahrgestell, Aufbau und feuerwehrtechnische Beladung abgegolten.
 
-Punkt 2
+Feuerwehrfahrzeuge
 
 | Fahrzeugart
 
 | Festbetrag
 
-| Betrag gemäß § 7 Abs. 1 Nr. 7
+| für Einsatzfahrzeuge
 
 | Fahrzeugart1)
+
 | Festbetrag
 |  Betrag für Einsatzfahr-
-
 zeuge zum gemeinde-
-
 übergreifenden Einsatz gemäß § 7 Abs. 1 Nr. 7
 SächsBRKG
 
@@ -667,7 +669,7 @@ SächsBRKG
 | 89 000 EUR
 |
 
-| StLF 10 nach DIN 14 530 Teil 25
+| MLF nach DIN 14 530 Teil 25
 | 99 000 EUR
 |
 
@@ -746,15 +748,10 @@ SächsBRKG
 1)
 
 Gebrauchte Feuerwehrfahrzeuge werden gefördert:
-
 mit 88 Prozent, wenn sie älter als 12 Monate,
-
 mit 77 Prozent, wenn sie älter als 24 Monate,
-
 mit 68 Prozent, wenn sie älter als 36 Monate,
-
 mit 60 Prozent, wenn sie älter als 48 Monate
-
 sind.
 
 2)
@@ -771,9 +768,9 @@ Fsn-Nr.: 551-V12.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 30. März 2012
+Fassung gültig ab: 22. August 2014
 
-Fassung gültig bis: 21. August 2014
+Fassung gültig bis:  3. Dezember 2015
 
 Drucken/Speichern
 
@@ -798,7 +795,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/12427.1
+https://www.revosax.sachsen.de/vorschrift/12427.2
 Stand vom
 18.11.2026
 
