@@ -1,0 +1,53 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-08-25T14:05:00+02:00
+- Ende: 2014-08-25T20:05:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11918
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11918
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00169416.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00169979.pdf
+
+## Tagesordnung
+
+- TOP 0: Übergeordnete Angelegenheiten
+- TOP 0: Entscheidung über die Gültigkeit der Wahl des Rates der Stadt sowie der Vertretung der Stadtbezirke am 25. Mai 2014 - ungeändert beschlossen
+- TOP 0: Entscheidung über die Gültigkeit der Wahl des Integrationsrates der Stadt Wuppertal am 25. Mai 2014 - ungeändert beschlossen
+- TOP 1: Wahlen und Gremienbesetzungen
+- TOP 1.1: Wahl der Bürgermeister
+- TOP 1.1: Wahl der Bürgermeisterinnen/Bürgermeister - ungeändert beschlossen
+- TOP 1.2: Wiederwahl von Herrn Stadtdirektor Dr. Slawig - ungeändert beschlossen
+- TOP 1.3: Änderung der Betriebssatzung APH - ungeändert beschlossen
+- TOP 1.4: Änderung der Betriebssatzung KIJU - ungeändert beschlossen
+- TOP 1.5: Ablauf der Wahlen und Bestellungen in der Ratssitzung am 25.08.2014 - ungeändert beschlossen
+- TOP 1.5: Besetzung der Ausschüsse des Rates - geändert beschlossen
+- TOP 1.6: Besetzung der Aufsichtsräte und sonstiger Gremien - geändert beschlossen
+- TOP 1.7: Besetzung des Verwaltungsrates der Stadtsparkasse Wuppertal - geändert beschlossen
+- TOP 1.8: Besetzung weiterer Gremien - ungeändert beschlossen
+- TOP 1.9: Besetzung der Ratsausschüsse mit Sachkundigen Einwohnerinnen und Einwohnern in der Wahlperiode 2014-2020 - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Anfrage – „Mittel aus dem Bundesprogramm zur Förderung der frühkindlichen Bildung“ - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Anfrage - Mittel aus dem Bundesprogramm zur Förderung der frühkindlichen Bildung - abschließend zur Kenntnis genommen
+- TOP 2.2: Auswirkungen der Überarbeitung des Kinderbildungsgesetzes - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Anfrage - Auswirkungen der Überarbeitung des Kinderbildungsgesetzes - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss) - abschließend zur Kenntnis genommen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Sperrung des Empfangsgebäudes am Unterbarmer Bahnhof - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2013 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.2: Abberufung eines Geschäftsführers - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2013 der APH Service GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 12: Benennungen
+- TOP 12.1: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter am Verwaltungsgericht Düsseldorf - ungeändert beschlossen
