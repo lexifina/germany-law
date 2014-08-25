@@ -1,0 +1,59 @@
+# Hauptausschuss (19. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-08-25T18:00:00+02:00
+- Ende: 2014-08-25T19:30:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUbH0p7EpVwd8OraQ2qYSMk
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3487
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc1KSF3UHuRfUTk9utcadAQHHpHwrBFAJrO3QyfmQCFv/Bekanntmachung_Hauptausschuss_25.08.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTCQSRzp-NPgwc_WmaQTcTNuoimNaPPqpr7Bp733jvBs/Oeffentliche_Niederschrift_Hauptausschuss_25.08.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 12.05.2014
+- TOP 2.: Wahl der stellvertretenden Vorsitzenden des Hauptausschusses - (kein Text vorhanden)
+- TOP 3.: Bestellung eines Kämmerers - (kein Text vorhanden)
+- TOP 4.: Änderung der Hauptsatzung und der Zuständigkeitsordnung hier: Dienstrechtliche Entscheidungen; Sitzungsgeld - (kein Text vorhanden)
+- TOP 5.: Zwischenbericht zur Haushaltslage 2014 zum 30.06.14 mit Progno-se 31.12.2014
+- TOP 6.: Einbringung der 1. Nachtragshaushaltssatzung für das Haushaltsjahr 2014
+- TOP 6.1: Nachtragshaushalt 2014 hier: Erste verwaltungsseitige Fortschreibung - (kein Text vorhanden)
+- TOP 7.: Zuwendungen an Fraktionen und Ratsmitglieder
+- TOP 7.1: Zuwendungen an Fraktionen - (kein Text vorhanden)
+- TOP 8.: Job-Ticket-Ausgabe im Jahr 2015 - (kein Text vorhanden)
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Kommunale Entlastung durch Soforthilfe des Bundes über eine Erhöhung des Gemeindeanteils an der Umsatzsteuer
+- TOP 11.: Genehmigung einer Dienstreise für die Mitglieder des Ausschusses für Kultur, Partnerschaften und Tourismus - (kein Text vorhanden)
+- TOP 12.: Anregungen und Bedenken gem. § 24 Gemeindeordnung NW
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: Anträge der Fraktionen
+- TOP 13.1: Einrichtung und Ausschreibung der Stelle eines/einer Mobilitätsmanager(s)/in als Fachbereichsleiter/in Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 12.08.2014 - (kein Text vorhanden)
+- TOP 13.2: Ausschreibung der Stelle des/der dritten Beigeordneten Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 12.08.2014 - (kein Text vorhanden)
+- TOP 14.: Mitteilungen
+- TOP 14.1: Videoüberwachung der Unterführung Brühl-Mitte
+- TOP 14.2: Löschwasserversorgung des als Kleingartenanlage genutzten Geländes unterhalb der Badorfer Schule
+- TOP 15.: Anfragen
+- TOP 15.1: Rückstellungsbildung im Entwurf des Jahresabschlusses 2013 Bezug: Anfrage der CDU-Fraktion vom 11.07.14
+- TOP 15.1.1: Rückstellungsbildung im Entwurf des Jahresabschlusses 2013 hier: Anfrage der CDU-Fraktion vom 11.7.14
+- TOP 15.2: Zirkus Bremer Straße
+- TOP 15.3: Ausbau Uhlstraße: Wegfall Behindertenparkplätze
+- TOP 15.4: Beleuchtung Verbindungsweg Pehle/Bahnseitenweg
+- TOP 15.5: Verschmutzung Bremer Straße
+- TOP 15.6: Restaurierung Hagelkreuz Kierberg
+- TOP 15.7: Parkmöglichkeit Bahnstation Schwadorf
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Bestellung des Leiters der Feuerwehr - (kein Text vorhanden)
+- TOP 17.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 18.: Umsatzsteuer Verpachtung Bahnhofsgebäude - (kein Text vorhanden)
+- TOP 19.: Annahme eines gerichtlichen Vergleichs - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Ältestenrat
+- TOP 21.: Anfragen
+- TOP 21.1: Thüringer Platz
+- TOP 21.2: Gastronomie Bundesbahnhof
+- TOP 21.3: Platzgestaltung Bundesbahnhof
