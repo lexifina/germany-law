@@ -1,0 +1,52 @@
+# Ausschuss für Stadtplanung und Verkehr (1. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-08-26T17:00:00+02:00
+- Ende: 2014-08-26T20:20:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdAsbbJ8joUL_I1EmZK8HiQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/17738
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZf21FYhyPY97pT4byZZSvtT_3Cac2plgNA141ezrJqyk/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_26.08.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Verpflichtung der sachkundigen Bürger
+- TOP 2.: Bestellung einer Schriftführerin und einer stellvertretenden Schriftführerin für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP -: Verkauf eines Gewerbe-Grundstückes im Rahmen des Projektes „Horrem 2010“ , Im Gleisdreieck, am Bahnhof Horrem
+- TOP 3.: Einwohner/innen - Fragestunde
+- TOP 4.: Einrichtung von Arbeitskreisen
+- TOP 4.1: Einrichtung eines Arbeitskreises für Verkehrsplanung und Verkehrssicherheit
+- TOP 4.2: Einrichtung eines Arbeitskreises ÖPNV - (kein Text vorhanden)
+- TOP 4.3: Weiterführung der Kinderunfallkommission Kerpen
+- TOP 5.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 29. Sitzung vom 25. März 2014
+- TOP 6.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 6.1: Einrichtung einer Ringbuslinie im Stadtteil Kerpen
+- TOP 7.: Umsiedlung Manheim
+- TOP 7.1: Umsiedlung Manheim hier: Niederschrift der 12. Sitzung des Bürgerbeirates Manheim
+- TOP 7.2: Bericht der Verwaltung
+- TOP 8.: Bauleitplanung
+- TOP 8.1: Sachstandsbericht zum Gewerbegebiet Josef-Bitschnau-Straße im Stadtteil Horrem
+- TOP 8.2: Bebauungsplan KE 353 "Nördlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 8.3: Bebauungsplan KE 354 "Südlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 8.4: Sachstandsbericht Bebauungsplan KE 337 "Hahnenpassage" im Stadtteil Kerpen
+- TOP 9.: Verkehrsplanung
+- TOP 9.1: Umbenennung der Buchenhöhe 1-3
+- TOP 9.2: Verkehrskonzept für den Stadtteil Sindorf
+- TOP 9.3: Verbesserungen des Kreisverkehrs am Ortseingang Kerpen-Türnich
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.1: Geschwindigkeitsdämpfende Maßnahmen in Tempo-30-Zonen; Ergänzende Blockmarkierungen bei Rechts-vor-Links
+- TOP 11.2: Archäologische Funde beim Neubau der Verbindungsstraße der Stadtteile Bergerhausen - Dorsfeld
+- TOP 11.3: Sachstand Bebauungsplan "Alter Bahnhof" im Stadtteil Sindorf
+- TOP 11.4: Neugestaltung des Areals Jahnwiese/Jahnstadion
+- TOP 11.5: Fortführung des Radwegs an der Stiftsstraße
+- TOP 11.6: Neuregelung der Radverkehrsführung Erftstraße im Stadtteil Sindorf
+- TOP 11.7: Stellungnahme der Stadt Kerpen zum Nahverkehrsplan
+- TOP 11.8: Sachstand Baugebiet Waldweg
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
