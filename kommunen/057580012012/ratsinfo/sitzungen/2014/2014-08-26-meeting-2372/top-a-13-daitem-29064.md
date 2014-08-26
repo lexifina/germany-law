@@ -1,0 +1,8 @@
+# TOP A.13: Zukunft der Herforder Tafel
+
+- Sitzung: Sozialausschuss (2. Sitzung) (2014-08-26)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/29064
+- Ergebnis: (kein Text vorhanden)
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/11918
