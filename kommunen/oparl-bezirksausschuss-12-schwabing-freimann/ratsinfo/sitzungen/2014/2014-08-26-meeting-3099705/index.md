@@ -1,0 +1,79 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-08-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3099705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3099705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .10.: sonstiges
+- TOP .1.: (E) Budget der Bezirksausschüsse Freunde der Freiwilligen Feuerwehr Freimann e.V. Tag der offenen Tür am 13.09.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Innere Mission München Übersetzungen von Dolmetschern
+- TOP .1.: Mobile Spielaktion auf dem Spielplatz Haidpark Freimann am 08.10.2014
+- TOP .2.: Mobile Spielaktion auf dem Spielplatz Situlistraße / Ecke Kulturheimstraße am 24.09.2014
+- TOP .3.: Nachbarschaftsfest Parkstadt Schwabing des Vereins für Sozialarbeit e.V., Wilhelm-Wagenfeld-Straße, am 28.09.2014
+- TOP .4.: Cycling Days Radrennveranstaltung am 26.04.2015
+- TOP .5.: Errichtung einer Stadtteilbibliothek an der Heidemannstraße (südlich), Helene-Wessel-Bogen (nördlich), auf dem Gelände der ehemaligen Bayernkaserne (u.a. BA-Antrag B 03669)
+- TOP .6.: Streetlife Festival / Corso Leopold zwischen Feldherrnhalle und Münchner Freiheit am 13.09. und 14.09.2014
+- TOP .7.: Generalinstandsetzung, Umbau und Erweiterung auf 4-zügige Grundschule mit 8-gruppigem Tagesheim und 4 Räume für ganztägige Betreuung, integrierte Sporthallen und Interimsgebäude, Haimhauser Straße 23 (auch TOP C.3.2.3)
+- TOP .8.: München Marathon am 12.10.2014 und Trachtenlauf am 11.10.2014
+- TOP .1.: Betreuung der Kinder der Parkstadt Schwabing im Schuljahr 2014/15 in der Fröttmaninger Schule
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Tasty Wok?, Kleingaststätte, Frankfurter Ring 228
+- TOP .1.: Bescheide: a) Evang. Hilfswerk München gGmbH für das Sommerfest der Teestube ?komm?-Streetwork am 08.08.2014 in Höhe von 230,00 ? b) Projekt Gruppe ?Cornelius 27? für das Projekt "Breaking Walls" vom 01.10. - 31.10.2014 in Höhe von 750,00 ?
+- TOP .1.: Erweiterung einer bestehenden Freischankfläche, Feilitzschstraße 23
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Bauleitplanung der Gemeinde Ismaning: Aufstellung des Bebauungsplanes Nr. 135 ? Östliche Erweiterung des Bebauungsplas Nr. 75, Am Lenzenfleck, südöstlicher Teilbereich
+- TOP .2.: Bauvorhaben: Leopoldstraße 152, Fl.Nr.: 900/0, Neubau eines Büro- und Wohnhauses mit Dachterasse sowei Gewerbe- und Gastronomieflächen im EG - Stadtbaustein S40/MK B4 für das Quartier ?Schwabinger Tor?
+- TOP .3.: Generalinstandsetzung, Umbau und Erweiterung auf 4-zügige Grundschule mit 8-gruppigem Tagesheim und 4 Räume für ganztägige Betreuung, integrierte Sporthallen und Interimsgebäude, Haimhauser Straße 23 (auch TOP B.3.7.)
+- TOP .4.: Bauvorhaben: Leopoldstraße 202-202a, Fl.Nr.: 894/9, Umbau der südlichen Feuerwehrzu-fahrt und Erneuerung des Rampenbauwerks mit Sanierung der Bestandsbrücke
+- TOP .5.: Bauvorhaben: Leopoldstraße 59-61, Fl.Nr.: 358/0, Neubau eines Wohn- und Geschäftshauses - Vorbescheid
+- TOP .6.: Bauvorhaben: Lindberghstraße, Fl.Nr.: 170/96, Neubau eines Gewerbegebäudes mit Betriebsleiterwohnungen
+- TOP .7.: Bauleitplanung der Gemeinde Ismaning: Aufstellung des Bebauungsplanes Nr. 145 ? für das Gebiet ?Nördlich der Zacherl-, westlich der Mühlenstraße?
+- TOP .8.: Bauvorhaben: Leopoldstraße 152, Fl.Nr.: 900/0, Neubau eines 14-geschossigen Wohn- und Geschäftshauses - Stadtbaustein S10/MK B5 für das Quartier ?Schwabinger Tor?
+- TOP .9.: Bauvorhaben: Leopoldstraße 152, Fl.Nr.: 900/0, Neubau eines 6-geschossigen Wohn- und Geschäftshauses - Stadtbaustein S20/MK A6 für das Quartier ?Schwabinger Tor?
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Ingolstädter Straße 172, Fällung einer Ulme und einer Linde
+- TOP .2.: Leinthalerstraße 10, Fällung einer Kastanie
+- TOP .1.: Baumaßnahmen der Stadtwerke München a) Fernwärmeprojekt Maria-Probst-Straße b) Stromprojekt Heidemannstraße c) Fernwärmeprojekt Kaulbachstraße d) Wasserprojekt Leopoldstraße
+- TOP .1.: Errichtung einer Ladezone in der Siegesstraße
+- TOP .1.: Änderung der Radverkehrsführung in der Heidemannstraße
+- TOP .1.: Vermietung des Fl.St. 874/11 an der Georg-Muche-Straße für die Dauer von 4 Monaten
+- TOP .1.: Wiederherstellung des Erdreichs um die Pappeln entlang der Leopoldstraße zwischen Postamt und Kaiserstraße
+- TOP .3.: Probeweise Freigabe zum Linksabbiegen von der Potsdamer Straße in die Ungererstraße
+- TOP .4.: Englischer Garten: zu viel Müll im Park, Trennung von Rad- und Fußwegen (Antwort auf eine Anfrage aus der Bürgerversammlung)
+- TOP .1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Burmesterstraße 4
+- TOP .2.: Zusätzliche Feuerwehranfahrtszone am Admiralbogen
+- TOP .3.: Neueinrichtung eines Taxistandplatzes auf dem Parkplatz des Großmarktes an der Margot-Kalinke-Straße 4
+- TOP .4.: Taxistandplatz Lilienthalallee 29: Verlegung in die Edmund-Rumpler-Straße
+- TOP .5.: Fahrbansanierung ? Ungererstraße zwischen Frey- und Dietlindenstraße
+- TOP .1.: Filmaufnahmen auf öffentichem Verkehrsgrund (2)
+- TOP .2.: Umwandlung der gesamten Keilberthstraße in eine verkehrsberuhigte Zone (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .3.: Rückbau von Eisenbahninfrastrukturen (Gleise und Weichen) auf der Strecke Milbertshofen-Freimann; Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP .4.: Unsichere Verkehrsregelung durch zwei neue Ampeln ? Kreuzung Tivolibrücke / Wiedenmayerstraße / Ifflandstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .5.: Lichtzeichenanlage Leopold- / Feilitzschstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP .6.: Einleiten von Mischwasser, bestehend aus Niederschlagswasser und Schmutzwasser, in die Isar, Kleine Isar, Auer Mühlbach und Mittlere-Isar-Kanal durch die Münchner Stadtentwässerung (Genehmigungsbescheid)
+- TOP .7.: Schulwegsicherheit im Umgriff der Grundschule an der Haimhauserstraße (Stellungnahme des Baureferats / Tiefbau)
+- TOP .8.: Plangenehmigungsbescheid nach AEG Rückbau Weichen Freimann
+- TOP .9.: Anwohnerbeschwerden über Lärm- und Geruchsbelästigungen der Gaststätte ?Cavos? Betriebsaufgabe (Information des Kreisverwaltungsreferats)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
