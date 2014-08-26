@@ -1,0 +1,81 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-08-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3120481
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3120481
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Kindertheater im Fraunhofer GbR Theaterstück für Kinder vom 09.11.2014 - Mai 2015
+- TOP .2.: (E) Budget der Bezirksausschüsse Caritasverband der Erzdiözese München und Freising e.V. Weltkindertagsfest am 25.09.2014
+- TOP .3.: (E) Budget der Bezirksausschüsse Stiftung My Sport Lady Projekt "Ernährung" vom 17.09.2014 - 30.07.2015
+- TOP .4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellen von öffentlichen Klavieren vom 13.09. - 05.10.2014
+- TOP .1.: Künstlerstände in der Innenstadt, Anhörung des Kreisverwaltungsreferates zum Schreiben diverser Künstler, siehe auch 2014.07 A 5.2
+- TOP .1.: Vorstellung der Planungen für den Neubau einer Portalklinik für das Klinikum der Universität München durch Vertreter der Ludwig-Maximilians-Universität
+- TOP .1.: Fassadenschutz / Reinigung der städtischen Anwesen in der Thalkirchner Str. 100-106
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Fliegenstr. 6, Änderung der Dachgeschoss-Wohnungen und Neuausbau des Dachspeichers (2. DG) zu zwei Maisonette-Einheiten mit zwei Dachterrassen in der 1. DG-Ebene, Ausbau zweier Balkone (EG, hofseitig), Anbau eines Außenaufzugs
+- TOP .2.: Kohlstr. 7, Nutzungsänderung und Wintergartenanbau
+- TOP .3.: Baaderstr. 2, Anbau eines Wintergartens an ein Hotel
+- TOP .4.: Schillerstr. 5, Erweiterung / Aufstockung eines Hotels (5 Doppelzimmer, 2 Suiten)
+- TOP .5.: Isartalstr. 1, Errichtung einer Freispielfläche mit Nebengebäuden für das Haus für Kinder (1 Krippen- und 2 Kindergartengruppen) an der Auenstr. (Isartalstr. / Westermühlbach)
+- TOP .6.: Isartalstr. 1, Errichtung eines öffentlichen Spielplatzes für Kinder ab 2 Jahren (Isartalstr. / Westermühlbach)
+- TOP .7.: Morassistr. 22-22b, Umbau, DG-Ausbau, Nutzungsänderung (Vorder-, Mittel- und Rückgebäude) ? Tektur
+- TOP .8.: Westermühlstr. 22, Einbau einer Dachgaube, Erweiterung Wohnraum, Umwandlung Dachterrasse
+- TOP .9.: Fleischerstr. 14, Sanierung und Erweiterung einer Wohneinheit im Mittelgebäude und Nutzungsänderung eines Lagers im Rückgebäude zu einer Wohneinheit
+- TOP .10.: Jahnstr. 31, Balkonerneuerung und Erweiterung
+- TOP .11.: Ringseisstr. 9, Dachgeschoss-Ausbau ? Vorbescheid
+- TOP .12.: Baaderstr. 1, Erweiterung eines Hotels um 7 Zimmer, Anbau eines Fluchttreppenhauses und Aufstockung des Seitenflügels ? Tektur
+- TOP .15.: Bahnhofpl. 1, Nutzungsänderung: Büro- zu Hotelflächen / Aufstockung ? Vorbescheid
+- TOP .16.: Lindwurmstr. 123/RGB, Aufstockung einer Garage sowie Errichtung dreier Appartements und eines Dreifachparkers
+- TOP .17.: Palmstr. 12, Sanierung eines rückwärtigen Gebäudes, Erweiterung einer Wohnung im 2. Obergeschoss ins Dachgeschoss, Umbau des Dachs und Errichtung von Balkonen
+- TOP .18.: Sonnenstr. 26, Neuerrichtung einer Innenhofbebauung mit Anbindung an ein denkmalgeschütztes Gebäude (Frist: 22.09.2014)
+- TOP .19.: Thalkirchner Str. 9, Befristete Unterbringung von Flüchtlingen und Wohnungslosen (10 Jahre, Option auf Verlängerung um weitere 5 Jahre): Nutzungsintensivierung eines bestehenden Wohnheims von 104 auf 250 Betten, Anbau Außentreppe als 2. baulicher Rettungsweg, Einbau einer Brandmeldeanlage (Frist: 22.09.2014
+- TOP .20.: Zweigstr. 6, Nutzungsänderung und Umbau von Speicher in Hotelzimmer ? Vorbescheid
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Frauenlobstr. 20a, 22, Antrag auf Baumveränderung, 1 Kastanie
+- TOP .2.: Waltherstr. 30, Antrag auf Baumfällung, 1 Sambucus nigra (Schwarzer Holunder)
+- TOP .3.: Geyerstr. 44, Antrag auf Baumfällung, 1 Zierkirsche
+- TOP .4.: Ziemssenstr. 1, Baumfällung im Rahmen eines Bauvorhabens zur Errichtung eines Bettenhauses in Modulbauweise als temporäres Bauwerk
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Weitere Fahrradstellplätze in der Lindwurmstr., BA-Antrag Nr. 08-14 / B 05704 vom 27.02.2014, Vorschlag des Kreisverwaltungsreferates mit der Bitte um Äußerung, siehe 2014.07 B 3.3.1
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Ehrengutstr. 14, ?Bäckerei Zöttl?, Genehmigung einer Freischankfläche
+- TOP .2.: Lindwurmstr. 157a, ?Bäckerei Zöttl?, Genehmigung einer Freischankfläche
+- TOP .3.: Maistr. 2, ?Bäckerei Zöttl?, Genehmigung einer Freischankfläche
+- TOP .4.: Kapuzinerstr. 2, ?Heuboden?, Erweiterung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Lindwurmstr. 155, Fahrradladen ?Wadlkrampf?, Aufstellung eines mobilen Fahrradständers
+- TOP .2.: Reichenbachstr. 33, ?Mothers earth?, Aufstellung einer Warenauslage (2 Kleiderstangen, 2 Kleiderpuppen)
+- TOP .3.: Reichenbachstr. 23, Aufstellung einer Warenauslage (1 Kleiderpuppe)
+- TOP .4.: Reichenbachstr. 24, ?Delikatessen?, Aufstellung einer Warenauslage (3 Postkartenständer)
+- TOP .5.: Häberlstr. 15a, Aufstellung einer Warenauslage ( 1 Kleiderpuppe)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: München Marathon, 12.10.2014
+- TOP .2.: Straßenfest in der Pestalozzistr., 30.08.2014 (Frist: 27.08.2014)
+- TOP .3.2: Verkehr
+- TOP .1.: Fortschreibung des Standortkonzepts ?Kulturstrand 2015 ff.?, Bitte um Stellungnahme (Frist: 05.09.2014)
+- TOP .2.: Anfrage zur Durchführung eines eintägigen Open-Air-Konzertes auf dem Viehhof, Bitte um Stellungnahme
+- TOP .3.: Mögliche Vermietung der Freifläche im Zeitraum von November 2014 bis Januar 2015 auf dem Viehhofgelände, Bitte um Stellungnahme
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 15.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 16.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 17.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 22.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 30.09.2014 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Sondersitzung Unterausschuss ?Öffentlicher Raum, Mobilität?, Modellquartier Isarvorstadt ?City2share? am Donnerstag, den 18.09.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP .&nbsp;: Unterrichtungen
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .14.: Baaderstr. 86-90, Teilnutzungsänderung und Erweiterung eines Wohnheims in ein Hotel und Umbau eines Wohnheims in ein Wohngebäude mit Aufstockung zweier Wohneinheiten ? Tektur
+- TOP .3: Veranstaltungen
