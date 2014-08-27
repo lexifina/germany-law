@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-08-27T16:02:00+02:00
+- Ende: 2014-08-27T19:07:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8489
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8489
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00219967.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00219967.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00219967.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung des Bezirksvorstehers - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 4: Prüfergebnisse aus Beschlussfassung zum Strab- u. Stadtbahnnetz n. Inbetriebnahme WHL - mehrheitlich beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Bauanträge Wangeroogestr./Spiekeroogstraße - mehrheitlich beschlossen
+- TOP 8: BVA Volkardeyer Weg,Sermer Weg usw. - mehrheitlich beschlossen
+- TOP 9: Anfrage CDU: Maßnahmen gegen Flughafenparker - verwiesen
+- TOP 10: Anfrage CDU: Bordell Oberhausener Straße - beantwortet
+- TOP 11: Anfrage Thomas: Baugenehmigung Bordell - beantwortet
+- TOP 12: Anfrage Daxenberger: Bordell Oberhausener Straße - beantwortet
+- TOP 13: Anfrage FDP: Bombenfunde Reitzensteinkaserne - vertagt
+- TOP 14: Anfrage CDU: Kampfmittelaltlasten Reitzenstein - vertagt
+- TOP 15: Anfrage FDP: Ladestationen Fahrzeuge Elektroantrieb - vertagt
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfrage SPD: Kalkumer Straße 111/Breisacher Straße - beantwortet
+- TOP 18: Anfrage Daxenberger: Umweltzone - beantwortet
+- TOP 19: Antrag Daxenberger: Bauunterhaltungsmittel, Planungskosten Brücke Kittelbach - vertagt
+- TOP 20: Antrag CDU und Bü90/Grüne: Stadtteilrundgänge - einstimmig beschlossen
+- TOP 21: Antrag CDU und Bü90/Grüne: KPR - einstimmig beschlossen
+- TOP 22: Antrag CDU und Bü90/Grüne: "Schulen"-Informationsrunde - vertagt
+- TOP 23: Antrag CDU: Parken D-Zug-Siedlung - einstimmig beschlossen
+- TOP 24: Antrag CDU: Hundeauslauf Tunneldecke A44 - einstimmig beschlossen
+- TOP 25: Antrag CDU: Erweiterung Hundeauslaufplatz - einstimmig beschlossen
+- TOP 26: Antrag CDU: Pflege des Kreitenplatzes - einstimmig beschlossen
+- TOP 27: Antrag CDU: Grünanlage St.-Franziskus-Straße - einstimmig beschlossen
+- TOP 28: Antrag CDU: Bordell Oberhausener Straße - zurückgezogen
+- TOP 29: Antrag CDU: Ausfahrt neben Münsterstraße 519 - einstimmig beschlossen
+- TOP 30: Antrag SPD: Krönerweg, Diezelweg, Ammerweg - einstimmig beschlossen
+- TOP 31: Antrag FDP und Andere: Mettlacher Straße - mehrheitlich beschlossen
+- TOP 32: Antrag CDU: Beratung und Unterstützung von Rentern - einstimmig beschlossen
+- TOP 33: Antrag SPD: Umbau Straßenbahnhaltestelle Rath-Mitte - mehrheitlich beschlossen
+- TOP 34: Antrag mehrere: Kunstobjekt Quartiersplatz - einstimmig beschlossen
+- TOP 35: Antrag Mehrere: Sturm Ela - einstimmig beschlossen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Zuschussvergabe und Förderung Dritter 2014 - einstimmig beschlossen
