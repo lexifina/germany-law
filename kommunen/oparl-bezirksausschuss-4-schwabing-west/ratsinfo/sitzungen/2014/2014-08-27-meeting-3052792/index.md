@@ -1,0 +1,51 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-08-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052792
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052792
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Mittagsbetreuung am Ackermannbogen Erstausstattung für die Mittagsbetreuungsgruppe
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Belgradstr. 19, Fahrradgeschäft ?Alpenrausch 2010?: Mobiler Fahrradständer
+- TOP .2.: Belgradstr. 14, ?Rahmen und Galerie?:Verkaufseinrichtung (Posterständer)
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Cycling Days Radrennveranstaltung am 26.04.2014
+- TOP .2.: München Marathon am 12.10.2014 und Trachtenlauf am 11.10.2014
+- TOP .3.: Anwohnerstraßenfest Agnesstraße am 20.09.2014
+- TOP .2.1.: Planen
+- TOP .1.: Schleißheimer Str. 232 (Haus 1/EG) Nutzungsänderung Laden zu SB-Bankfiliale
+- TOP .2.: Düsseldorfer Str. 20: Energetische Sanierung der Dachhaut mit Änderung der Neigung
+- TOP .3.: Rosa-Aschenbrenner-Bogen 9: Errichtung einer Glasüberdachung als Witterungsschutz über dem Laubengangbereich vor dem Treppenhaus Nord im 4. OG
+- TOP .4.: Elisabeth-Kohn-Straße: Neubau einer Wohnanlage (66 WE) mit Tiefgarage
+- TOP .5.: Rümannstr. 11: Nutzungsänderung mit Umbau im EG: Supermarkt und Metzgerei zu Service- und Produktionsfläche mit Laden
+- TOP .6.: Nordendstr. 58: Errichtung zweier Balkonanlagen
+- TOP .7.: Hiltenspergerstr. 21, Dachgeschoss-Ausbau
+- TOP .8.: Hiltenspergerstr. 23, Dachgeschoss-Ausbau
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Radfahren in der Fußgängerzone Hohenzollernplatz
+- TOP .2.: Tierrettung München e.V.: Stellplatz für zwei Einsatzfahrzeuge im Bereich des Büros Herzogstr. 84 / Ecke Apianstraße
+- TOP .3.: Bürger: Überprüfung einer Einbahnstraßenregelung Richtung Westen für die Rümannstraße zwischen Hagedornstraße und Klopstockstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Destouchesstr. 69: Fällung dreier Fichten
+- TOP .2.: Herzogstraße 89, Fällung einer 3-stämmigen Eberesche
+- TOP .3.: Giselherstraße 1, Fällung eines Weißdorns
+- TOP .4.: St.-Blasien-Straße 1a-3a, Fällung einer Robinie
+- TOP .5.: Düsseldorfer Straße 10-18b (hier: 18-18b), Fällung von zwei Robinien
+- TOP .2.2.: Verkehr
+- TOP .1.: Bauherren bei energetischen Sanierungs- und Wärmedämmungsmaßnahmen auf öffentliche Fördermittel hinweisen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
