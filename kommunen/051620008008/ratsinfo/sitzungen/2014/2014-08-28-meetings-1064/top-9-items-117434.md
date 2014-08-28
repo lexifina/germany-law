@@ -1,0 +1,8 @@
+# TOP 9: DA Wertgrenzen
+
+- Sitzung: Rat der Stadt Grevenbroich (2014-08-28)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/117434
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/11987
