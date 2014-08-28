@@ -1,0 +1,6 @@
+# TOP 3: Verpflichtung von sachkundigen Bürgern und Einwohnern
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Planungsausschusses (2014-08-28)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=64808
