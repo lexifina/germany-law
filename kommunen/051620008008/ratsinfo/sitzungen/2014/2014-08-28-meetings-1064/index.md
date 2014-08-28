@@ -1,0 +1,115 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-08-28T18:16:00+02:00
+- Ende: 2014-08-28T21:28:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1064
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1064
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage zu Top 24.1 (Bushaltestelle Bergheimer Straße, Anfrage Nr. 121/2014) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054056.pdf
+- Ergebnisprotokoll: Anlage zu Top 24.1 (Bushaltestelle Bergheimer Straße, Anfrage Nr. 121/2014) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054056.pdf
+- Wortprotokoll: Anlage zu Top 24.1 (Bushaltestelle Bergheimer Straße, Anfrage Nr. 121/2014) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054056.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: SPD
+- TOP 2.1.1: SPD, Antrag Nr. 106/2014 - einstimmig
+- TOP 2.2: UWG
+- TOP 2.2.1: UWG, Antrag Nr. 89 - Kenntnisnahme
+- TOP 2.2.2: UWG-Antrag Nr. 99/2014 - einstimmig
+- TOP 2.2.3: FDP, Antrag Nr. 98/2014 - einstimmig
+- TOP 2.3: FDP
+- TOP 2.3.1: FDP, Antrag Nr. 96/2014 - einstimmig
+- TOP 2.3.2: FDP, Antrag Nr. 102/14 - einstimmig
+- TOP 2.4: B 90/DIE GRÜNEN
+- TOP 2.5: ABG
+- TOP 2.5.1: ABG, Antrag Nr. 97/2014 - einstimmig
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.6.1: Mein GV, Antrag Nr. 114/2014 - einstimmig
+- TOP 2.6.2: Mein GV, Antrag Nr. 115/2014 - einstimmig
+- TOP 2.7: Die Linke/Piraten
+- TOP 2.8: Gemeinschaftsanträge
+- TOP 2.9: CDU
+- TOP 2.9.1: CDU, Antrag Nr. 107/2014 - einstimmig
+- TOP 2.9.2: CDU, Antrag Nr. 108/2014 - einstimmig
+- TOP 2.9.3: CDU, Antrag Nr. 109/2014 - einstimmig
+- TOP 2.9.4: CDU, Antrag Nr. 110/2014 - einstimmig
+- TOP 2.9.5: CDU, Antrag Nr. 111/2014 - einstimmig
+- TOP 2.9.6: CDU, Antrag Nr. 112/2014 - einstimmig
+- TOP 2.9.7: CDU, Antrag Nr. 113/2014 - einstimmig
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.4.1: FDP, Anfrage Nr. 101/2014 - Kenntnisnahme
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: ABG
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Änderung der Geschäftsordnung für den Rat - Kenntnisnahme
+- TOP 6.1: CDU, Antrag Nr. 116/2014 - Kenntnisnahme
+- TOP 6.2: FDP, Antrag Nr. 103/2014 - Kenntnisnahme
+- TOP 6.3: FDP, Antrag Nr. 104/2014 - Kenntnisnahme
+- TOP 6.4: FDP, Antrag Nr. 105/2014 - Kenntnisnahme
+- TOP 7: Dienstanweisung § 82 GO - Kenntnisnahme
+- TOP 8: DA Finanzbuchhaltung - Kenntnisnahme
+- TOP 9: DA Wertgrenzen - Kenntnisnahme
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Anpassung der Gebührenordnung und Beitritt der Stadtbücherei zum Verbund „Onleihe Niederrrhein“ - einstimmig
+- TOP 11: RechnungsprüfungsA
+- TOP 11.1: Beratung und Beschlußfassung über die Prüfung des Jahresabschlusses 2010 - einstimmig
+- TOP 12: WahlprüfungsA 21.08.2014
+- TOP 12.1: Gültigkeits der Ratswahl - einstimmig
+- TOP 12.2: Gültigkeit Integrationsratswahl - einstimmig
+- TOP 13: Entscheidung PlanungsA
+- TOP 13.1: Benennung "Am Bürgerwäldchen" - einstimmig
+- TOP 13.2: ISEK-Modifikation 2014 - einstimmig
+- TOP 13.3: 14. Änd. FNP "Grevenbroicher Straße" - Genehmigung nach § 6 BauGB - einstimmig
+- TOP 13.4: 17.Änderung FNP - SO 8 Einzelhandel Am Hammerwerk Aufst. u. Öffentl. - mehrheitlich bei
+- TOP 13.5: 9. Änderung des Bebauungsplanes Nr. G 158 Aufstellung+ÖffBet - einstimmig
+- TOP 13.6: 1.Änderung G 205 - Verfahren nach §13 - einstimmig
+- TOP 13.7: 1. Änd. G 208 - vereinf. Aufstellung + Auslegung - einstimmig
+- TOP 13.8: Benennung von Mitgliedern für den Arbeitskreis Baulandmanagement und SEM Kapellen - einstimmig
+- TOP 14: Bestellung einer / eines ehrenamtlichen Behindertenbeauftragten - einstimmig
+- TOP 15: JHA - einstimmig
+- TOP 16: WGV - einstimmig
+- TOP 17: Verbandsversammlung ITK Rheinland - einstimmig
+- TOP 18: Segelflugplatzgesellschaft - einstimmig
+- TOP 19: Besetzung der sonstigen Gremien (Arbeitskreis Demografie) - einstimmig
+- TOP 20: Nachbenennung in die Delegiertenversammlung - einstimmig
+- TOP 21: Zusammensetzung des Seniorenbeirates - einstimmig
+- TOP 22: Beantwortung Anträge
+- TOP 23: Beantwortung Anfragen
+- TOP 23.1: Neue Webseite (Mein GV) - Kenntnisnahme
+- TOP 23.2: Beantwortung der Anfrage der Fraktion Mein GrevenbroichNr. 66/14 - Kenntnisnahme
+- TOP 23.3: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 23.4: Beantwortung der Anfrage Nr. 100/14 der UWG - Kenntnisnahme
+- TOP 24: mündliche Anträge/Anfragen
+- TOP 24.1: Bushaltestelle
+- TOP 24.2: Zebrastreifen
+- TOP 24.3: Kanalsituation
+- TOP 24.4: Alte Schule Laach
+- TOP 24.5: Verkehrsinsel
+- TOP 24.6: Segelflugplatz
+- TOP 24.7: Parkplatzsituation
+- TOP 24.8: Straßenbeleuchtung
+- TOP 24.9: Parkplatzsituation
+- TOP 24.10: Fangzaun
+- TOP 24.11: Ausländeramt
+- TOP 24.12: Bordsteinkanten
+- TOP 24.13: Absperrbaken
+- TOP 24.14: Schülertransport
+- TOP 24.15: Tennisplatz
+- TOP 24.16: Stromtrasse
+- TOP 24.17: Geruchsbelästigung
+- TOP 25: Mitteilungen BM'in
+- TOP 25.1: Sturmschäden
+- TOP 25.2: Sondersitzung Rat
