@@ -1,0 +1,54 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-08-29T14:00:00+02:00
+- Ende: 2014-08-29T18:25:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220198.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220198.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220198.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 04/2014 vom 26.03.2014 der gemeinsamen Sitzung des Ausschusses für Planung und Stadtentwicklung und der Bezirksvertretung 1 - mehrheitlich beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Förderschulen/Schulentwicklungsplan - zur Kenntnis genommen
+- TOP 6: Bänke zwischen Ottweiler Straße und Spichernplatz - vertagt
+- TOP 7: Sozialer Wohnungsbau im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 8: Fallwinde am Dreischeibenhaus - zur Kenntnis genommen
+- TOP 9: Inklusion in den Schulen des Stadtbezirks 1 - zur Kenntnis genommen
+- TOP 10: Entwicklungsgebiet Innenstadt Süd Ost (EKISO) - Bericht des Planungsstandes zur Förderantragstellung - einstimmig beschlossen
+- TOP 11: B-Plan Nr. 01/006 - Golzheimer Siedlung - einstimmig beschlossen
+- TOP 12: FNP-Änderung Nr. 165, Münsterstraße / Nordstraße, Aufstellung, Öffentliche Auslegung - einstimmig beschlossen
+- TOP 13: B-Plan Nr. 01/001 Münsterstraße/Nordstraße Beschluss zur öffentlichen Auslegung - einstimmig beschlossen
+- TOP 14: Plan Nr. 01/002 Münsterstraße/Nordstraße - 1. Verlängerung Veränderungssperre - einstimmig beschlossen
+- TOP 15: B-Plan 01/008 -Klosterstr./Oststr. - Beschluss zur Aufstellung und Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Prüfergebnisse aus Beschlussfassung zum Strab- u. Stadtbahnnetz n. Inbetriebnahme WHL - mehrheitlich abgelehnt
+- TOP 18: Fahrradbarometer am Mannesmannufer - zur Kenntnis genommen
+- TOP 19: Umgestaltung des Franklinhofes - zur Kenntnis genommen
+- TOP 20: Immobilienmarkt in den Schadow Arkaden - einstimmig beschlossen
+- TOP 21: Bolzplatz am Schwanenmarkt - einstimmig beschlossen
+- TOP 22: Aufforstungsprogramm Hofgarten und Rheinpark - einstimmig beschlossen
+- TOP 23: Aufstellung des Marstallgiebels neben dem Schloß Jägerhof - einstimmig beschlossen
+- TOP 24: Containerstationen Kolpingplatz/Schwerinstraße/Nordstraße - einstimmig beschlossen
+- TOP 25: Erhalt des Vivariums im Hofgarten - mehrheitlich beschlossen
+- TOP 26: Fahrbahnbelag der Schwerinstraße - mehrheitlich beschlossen
+- TOP 27: Zur Verfügungstellung von bezirksbezogenen Haushaltsmitteln - mehrheitlich abgelehnt
+- TOP 28: Haushaltsausgabereste der bezirksbezogenen Haushaltsmittel - mehrheitlich abgelehnt
+- TOP 29: Situation in öffentlichen Grünanlagen nach Sturm Ela - einstimmig beschlossen
+- TOP 30: Verwendung von Baumstämmen im Stadtbild - mehrheitlich beschlossen
+- TOP 31: Verkehrsberuhigung der Straßburger Straße - zur Kenntnis genommen
+- TOP 32: Abstellflächen Duisburger Straße - einstimmig beschlossen
+- TOP 33: Heinrich-Heine-Platz - zur Kenntnis genommen
+- TOP 34: Kurzzeithalteplätze am Vinzenzplatz - einstimmig beschlossen
+- TOP 35: Optimierung der Aufenthaltsqualität im Bereich zwischen Hofgarten und Libeskind-Bauten (Kö-Bogen) - einstimmig beschlossen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Verschiedenes - zur Kenntnis genommen
