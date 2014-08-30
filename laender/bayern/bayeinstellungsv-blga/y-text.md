@@ -1,0 +1,1 @@
+Auf Grund von Art. 19 Abs. 2 und Art. 28 Abs. 2 des Bayerischen Beamtengesetzes sowie § 23 Abs. 3 der Laufbahnverordnung vom 17. Oktober 1962 (GVBl. S. 251, ber. S. 200) erläßt das Bayerische Staatsministerium für Wirtschaft und Verkehr im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und dem Landespersonalausschuß folgende Verordnung:
