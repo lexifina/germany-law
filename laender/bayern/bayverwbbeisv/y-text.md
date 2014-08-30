@@ -1,0 +1,1 @@
+Auf Grund von § 26 Abs. 2 Satz 1 der Verwaltungsgerichtsordnung (VwGO) und § 77 Abs. 2 Satz 3 des Personalvertretungsgesetzes des Bundes vom 5. August 1955 (BGBl. I S. 477) erläßt die Bayerische Staatsregierung folgende Verordnung:
