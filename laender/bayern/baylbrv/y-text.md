@@ -1,0 +1,1 @@
+Auf Grund des Art. 19 Abs. 4 des Bayerischen Gesetzes zur Gleichstellung, Integration und Teilhabe von Menschen mit Behinderung (Bayerisches Behindertengleichstellungsgesetz – BayBGG) vom 9. Juli 2003 (GVBl S. 419, BayRS 805-9-A) erlässt das Bayerische Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen folgende Verordnung:
