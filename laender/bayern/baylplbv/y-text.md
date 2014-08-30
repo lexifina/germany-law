@@ -1,0 +1,1 @@
+Auf Grund des Art. 10 Abs. 3 des Bayerischen Landesplanungsgesetzes (BayLplG) vom 27. Dezember 2004 (GVBl S. 521, BayRS 230-1-W) erlässt das Bayerische Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie folgende Verordnung:
