@@ -1,0 +1,1 @@
+Auf Grund des Art. 8 Abs. 3 des Waldgesetzes für Bayern (BayWaldG) in der Fassung der Bekanntmachung vom 25. August 1982 (GVBl S. 824, BayRS 7902-1-E), zuletzt geändert durch Gesetz vom 20. Dezember 1983 (GVBl S. 1102), erläßt das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten folgende Verordnung:
