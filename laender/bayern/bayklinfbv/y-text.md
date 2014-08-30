@@ -1,0 +1,1 @@
+Auf Grund des Art. 40 Abs. 2 Satz 5 des Bayerischen Hochschulgesetzes (BayHSchG) in der Fassung der Bekanntmachung vom 2. Oktober 1998 (GVBl S. 740, BayRS 2210-1-1-WFK), geändert durch § 5 des Gesetzes vom 22. Juli 1999 (GVBl S. 300), erlässt das Bayerische Staatsministerium für Wissenschaft, Forschung und Kunst folgende Verordnung:
