@@ -1,0 +1,1 @@
+Auf Grund von § 2 des Hopfengesetzes vom 21. Oktober 1996 (BGBl I S. 1530) sowie Art. 1 des Gesetzes über die Zuständigkeit zur Ausführung von Verordnungen der Europäischen Gemeinschaften (BayRS 103-3-S) erläßt die Bayerische Staatsregierung folgende Verordnung:
