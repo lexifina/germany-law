@@ -1,0 +1,1 @@
+Auf Grund des Art. 14 des Gesetzes über das berufliche Schulwesen erläßt das Bayerische Staatsministerium für Unterricht und Kultus, soweit erforderlich im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen, folgende Verordnung:
