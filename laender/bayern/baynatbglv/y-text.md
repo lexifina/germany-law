@@ -1,0 +1,1 @@
+Auf Grund von Art. 8 Abs. 1 Satz 1, Abs. 4 und Art. 45 Abs. 1 Nr. 1 des Bayerischen Naturschutzgesetzes – BayNatSchG – (BayRS 791-1-U) erläßt die Bayerische Staatsregierung, bezüglich der §§ 4 bis 6 mit Zustimmung des Bayerischen Landtags, folgende Verordnung:
