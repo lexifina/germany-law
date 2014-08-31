@@ -12,7 +12,7 @@
 § 11 Rauchverbot
 § 12 Segelverbot
 § 13 Betrieb von Kleinfahrzeugen
-§ 14 Vermietung von Sportbooten
+§ 14 Vermietung von Sportbooten, Charterbescheinigung
 § 15 Sonderregelungen, Ausnahmen
 § 16 Ordnungswidrigkeiten
 § 17 Inkrafttreten und Außerkrafttreten
