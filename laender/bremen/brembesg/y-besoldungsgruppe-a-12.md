@@ -3,10 +3,12 @@ Besoldungsgruppe A 12
 Amtsanwältin1), Amtsanwalt1)
 Amtsrätin, Amtsrat
 Fachlehrerin2)3)4), Fachlehrer2)3)4)
+Konrektorin, Konrektor
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit bis zu 80 Schülerinnen und Schülern6)7) -
 Kriminalhauptkommissarin4), Kriminalhauptkommissar4)
 Lehrerin, Lehrer
 - an allgemeinbildenden Schulen1)3)5) -
-- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern6)7)-
+- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern6)7) - kw -
 Lehrerin für die Primarstufe und Sekundarstufe I1)8) - kw -, Lehrer für die Primarstufe und Sekundarstufe I1)8) - kw-
 Polizeihauptkommissarin4), Polizeihauptkommissar4)
 Rechnungsrätin, Rechnungsrat
@@ -30,6 +32,8 @@ Fußnoten
 4) Soweit nicht in der Besoldungsgruppe A 11.
 5) Soweit nicht in den Besoldungsgruppen A 12 a, A 13.
 6) Soweit nicht in der Besoldungsgruppe A 12 a.
-7) Erhält eine Amtszulage nach Anlage 6; diese wird nach zehnjährigem Bezug beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulageberechtigenden Verwendung weitergewährt.
+6) Soweit nicht in der Besoldungsgruppe A 12 a.
+7) Erhält eine Amtszulage nach Anlage 6; diese wird für am 31. August 2014 vorhandene Lehrerinnen und Lehrer nach zehnjährigem Bezug unter Anrechnung der bisher in dieser Funktion verbrachten Zeiten beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulageberechtigenden Verwendung weitergewährt.
+7) Erhält eine Amtszulage nach Anlage 6; diese wird für am 31. August 2014 vorhandene Lehrerinnen und Lehrer nach zehnjährigem Bezug unter Anrechnung der bisher in dieser Funktion verbrachten Zeiten beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulageberechtigenden Verwendung weitergewährt.
 8) Soweit nicht in der Besoldungsgruppe A 13.
 8) Soweit nicht in der Besoldungsgruppe A 13.

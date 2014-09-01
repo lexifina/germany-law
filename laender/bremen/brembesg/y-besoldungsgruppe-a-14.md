@@ -20,6 +20,10 @@ Kanzlerin der Hochschule für Künste7), Kanzler der Hochschule für Künste7)
 Konrektorin, Konrektor
 - als die ständige Vertretung der Leiterin oder des Leiters eines Förderzentrums mit bis zu 180 Schülerinnen und Schülern8) -
 - als die ständige Vertretung der Leiterin oder des Leiters eines Förderzentrums mit mehr als 180 Schülerinnen und Schülern2)8) -
+1. - als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+2. - als Leitung eines an einer Grundschule mit mehr als 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
+3. - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+4. - zur Wahrnehmung von Schulleitungsaufgaben an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
 Leiterin einer Werkschule5), Leiter einer Werkschule5)
 Leiterin eines Zentrums für unterstützende Pädagogik5), Leiter eines Zentrums für unterstützende Pädagogik5)
 Leiterin der Stadtbildstelle, Leiter der Stadtbildstelle
@@ -33,8 +37,11 @@ Oberstufenleiterin5), Oberstufenleiter5)
 Ortsamtsleiterin6)9), Ortsamtsleiter6)9)
 Rektorin bei den Justizvollzugsanstalten10), Rektor bei den Justizvollzugsanstalten10)
 Rektorin, Rektor
+1. - als Leiterin oder als Leiter einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern -
+2. - als Leiterin oder als Leiter einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
+3. - als Leiterin oder als Leiter einer Grundschule mit weniger als 180 Schülerinnen und Schülern, sofern dieser Grundschule ein Zentrum für unterstützende Pädagogik angegliedert ist oder ein Ganztagsbetrieb besteht -
 - als Leiterin oder als Leiter eines Förderzentrums mit bis zu 180 Schülerinnen und Schülern2)8) -
-- einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+- einer Grundschule mit mehr als 360 Schülerinnen und Schülern - kw -
 Schulrätin2), Schulrat2)
 Sonderschulkonrektorin - kw -, Sonderschulkonrektor - kw -
 - als die ständige Vertretung der Leiterin oder des Leiters einer Sonderschule mit bis zu 180 Schülerinnen und Schülern -
@@ -46,6 +53,7 @@ Sonderschulrektorin - kw -, Sonderschulrektor - kw -
 - als Leiterin oder als Leiter eines Förderzentrums mit bis zu 180 Schülerinnen und Schülern2)8) -
 Fußnoten
 1) Die am 1. Januar 2000 im Amt befindlichen Stelleninhaberinnen und Stelleninhaber erhalten weiterhin Dienstbezüge aus Besoldungsgruppe A 15.
+2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.

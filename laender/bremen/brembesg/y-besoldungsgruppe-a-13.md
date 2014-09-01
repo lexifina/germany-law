@@ -9,12 +9,18 @@ Erste Polizeihauptkommissarin, Erster Polizeihauptkommissar
 Fachbereichsleiterin3), Fachbereichsleiter3)
 Fachleiterin beim Landesinstitut für Schule2), Fachleiter beim Landesinstitut für Schule2)
 Hauptlehrerin, Hauptlehrer
-- als Leiterin oder als Leiter einer Grundschule, Hauptschule oder Grund- und Hauptschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
+- als Leiterin oder als Leiter einer Grundschule, Hauptschule oder Grund- und Hauptschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern - kw -
 Jahrgangsleiterin an einer Gesamtschule3), Jahrgangsleiter an einer Gesamtschule3)
 Jahrgangsleiterin an einem Gymnasium3), Jahrgangsleiter an einem Gymnasium3)
 Jahrgangsleiterin an einer Oberschule3), Jahrgangsleiter an einer Oberschule3)
 Konrektorin, Konrektor
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 Schülerinnen und Schülern -
+1. - als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
+2. - als Leitung eines an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
+3. - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
+4. - als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
+5. - als Leitung eines an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik12) -
+6. - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 Schülerinnen und Schülern - kw -
 Kustodin2), Kustos2)
 Lehrerin5)6), Lehrer5)6)
 - an allgemeinbildenden Schulen -
@@ -34,11 +40,13 @@ Oberstufenleiterin4), Oberstufenleiter4)
 - an einer Oberschule -
 Rätin2), Rat2)
 Rektorin, Rektor
-- einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
+1. - als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern -
+2. - als Leiterin oder als Leiter einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern12) -
+- einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) - kw -
 Sonderschullehrerin13)14)15), Sonderschullehrer13)14)15)
 Studienrätin2), Studienrat2)
 Zweite Konrektorin, Zweiter Konrektor
-- einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+- einer Grundschule mit mehr als 360 Schülerinnen und Schülern - kw -
 Fußnoten
 1) Für Beamtinnen und Beamte der Fachrichtung Technische Dienste und der Fachrichtung Feuerwehr können für Funktionen, die sich von denen der Besoldungsgruppe A 13 abheben, nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für technische Beamtinnen und Beamte der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage 6 ausgestattet werden, sofern es sich nicht um das Einstiegsamt handelt.
 2) Als Einstiegsamt.
@@ -95,6 +103,10 @@ Fußnoten
 10) Für Funktionen der Rechtspflegerinnen und Rechtspfleger bei Gerichten und Staatsanwaltschaften, die sich von denen der Besoldungsgruppe A 13 abheben, können nach Maßgabe sachgerechter Bewertung bis zu 20 vom Hundert der Stellen für Rechtspflegerinnen und Rechtspfleger der Besoldungsgruppe A 13 mit einer Amtszulage nach Anlage 6 ausgestattet werden.
 11) Erhält nach Maßgabe der Vorbemerkung Nr. 8 zu den Besoldungsordnungen A und B eine Stellenzulage.
 11) Erhält nach Maßgabe der Vorbemerkung Nr. 8 zu den Besoldungsordnungen A und B eine Stellenzulage.
+12) Erhält eine Amtszulage nach Anlage 6.
+12) Erhält eine Amtszulage nach Anlage 6.
+12) Erhält eine Amtszulage nach Anlage 6.
+12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
 13) Auch als Einstiegsamt.
 13) Auch als Einstiegsamt.
