@@ -1,4 +1,0 @@
-# Gemeinsame Verordnung der Sächsischen Staatsregierung und der Sächsischen Staatsministerien der Finanzen, des Innern, der Justiz und für Europa, für Kultus, für Soziales und Verbraucherschutz, für Umwelt und Landwirtschaft, für Wirtschaft, Arbeit und Verkehr sowie für Wissenschaft und Kunst zur Ausführung des Berufsbildungsgesetzes, des Berufsqualifikationsfeststellungsgesetzes und des Sächsischen Berufsqualifikationsfeststellungsgesetzes (Sächsische Ausführungsverordnung zum Berufsbildungsgesetz und zu den Berufsqualifikationsfeststellungsgesetzen – SächsBBiGAVO)
-erlassen als Artikel 1 der Verordnung der Sächsischen Staatsregierung und der Sächsischen Staatsministerien des Innern, der Finanzen, der Justiz, für Kultus, für Wissenschaft und Kunst, für Wirtschaft und Arbeit, für Soziales sowie für Umwelt und Landwirtschaft zur landesrechtlichen Umsetzung des Berufsbildungsreformgesetzes
-Vom 19. Juni 2006
-Rechtsbereinigt mit Stand vom 1. Januar 2014
