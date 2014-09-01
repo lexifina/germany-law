@@ -1,0 +1,8 @@
+# TOP 3.3: Korruptionsprävention
+
+- Sitzung: 29. öffentliche Sitzung des Haushaltsausschusses (2014-09-01)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=26810
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=26810
