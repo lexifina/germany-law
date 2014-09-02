@@ -1,0 +1,87 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-09-02T17:00:00+02:00
+- Ende: 2014-09-02T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYME_vgETlDpMSkm3aWpGCY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4315
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWpsGNuPqIHCF-uaOHXZ05t3fr0MTyWrDdsbVaZpnlhP/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_02.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Bestellung der Schriftführung für den Haupt- und Personalausschuss
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Protokoll
+- TOP 5: Wahl der oder des stellvertretenden Vorsitzenden des Haupt- und Personalausschusses
+- TOP 6: Eingabe gemäß § 24 Gemeindeordnung Nordrhein-Westfalen
+- TOP 7: Anforderungen an die Verwaltungsorganisation sowie sich hieraus ergebende zwingende Notwendigkeiten an die personelle Ausstattung
+- TOP 8: Beigeordneten-Ausschreibung
+- TOP 9: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 10: Stadt-Sparkasse Solingen
+- TOP 11: Stadt-Sparkasse Solingen
+- TOP 12: Altenzentren der Stadt Solingen gGmbH
+- TOP 13: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 14: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 15: Lokalfunk Radio RSG
+- TOP 16: Kuratorium "Die Schärfste Klinge"
+- TOP 17: Kommunale Arbeitsgemeinschaft Bergisch Land e. V. (KAG)
+- TOP 18: Polizeibeirat für den Kreispolizeibezirk Wuppertal
+- TOP 19: Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 20: Solinger Bädergesellschaft mbH
+- TOP 21: Bergisches Volkshochschule Zweckverband der Städte Solingen - Wuppertal für allgemeine und berufliche Weiterbildung sowie Familienbildung
+- TOP 22: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 23: Bürgerstiftung für verfolgte Künste - Else-Lasker-Schüler-Zentrum - Kunstsammlung Gerhard Schneider
+- TOP 24: Städtische Musikschule Solingen GmbH
+- TOP 25: Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 26: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG
+- TOP 27: Zweckverband Erholungsgebiet Ittertal
+- TOP 28: Verband der kommunalen RWE-Aktionäre GmbH (VkA)
+- TOP 29: civitec - Zweckverband Kommunale Informationsverarbeitung
+- TOP 30: Wasserversorgungsverband Rhein-Wupper
+- TOP 31: Forschungsgemeinschaft Werkzeuge und Werkstoffe e. V.
+- TOP 32: Technische Akademie Wuppertal e. V.
+- TOP 33: Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 34: Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V.
+- TOP 35: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG)
+- TOP 36: GVV-Kommunalversicherung VVaG
+- TOP 37: Kommunaler Schadenausgleich westdeutscher Städte (KSA)
+- TOP 38: Schlossbauverein Burg an der Wupper e. V.
+- TOP 39: Kommunale Gesundheitskonferenz
+- TOP 40: Besetzung des örtlichen Beirates für das Kommunale Jobcenter
+- TOP 41: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 42: Besetzung des Beirates Agenda-Team
+- TOP 43: Zweckverband Naturpark Bergisches Land
+- TOP 44: Gewässerschaukommission der Stadt Solingen
+- TOP 45: Geschwister-Niehoff-Stiftung
+- TOP 46: Entsorgung Solingen GmbH
+- TOP 47: Bergisch-Rheinischer Wasserverband
+- TOP 48: Wupperverband
+- TOP 49: Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 50: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Düsseldorf
+- TOP 51: III. Änderung der Zuständigkeiten der Ausschüsse der Stadt Solingen
+- TOP 52: Satzung für das Jugendamt der Stadt Solingen
+- TOP 53: Zustimmung zu Mehraufwendungen gemäß § 83 GO NRW für Versicherungsangelegenheiten
+- TOP 54: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2014
+- TOP 55: Verschiedenes
+- TOP 56: Benennung von Straßen
+- TOP 57: Wahlplakate
+- TOP 58: Vierter Erfahrungsbericht
+- TOP 59: Eingabe unter Bezugnahme auf § 24 GO NRW
+- TOP 60: Gewerbesteuerprognose - Gewerbesteuerentwicklung
+- TOP 61: Organisationsveränderungen
+- TOP 62: Zentrum für verfolgte Künste
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Vergabe von Aufträgen gemäß § 21 (2) der Hauptsatzung der Stadt Solingen
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Beauftragung der Provinzial Rheinland mit Versicherungsleistungen
+- TOP 5: Geschäftsführungen Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Solinger Bädergesellschaft mbH (SBG)
+- TOP 6: Höhergruppierung des Stadtdirektors
+- TOP 7: Verschiedenes
+- TOP 8: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2014
