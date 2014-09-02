@@ -1,0 +1,51 @@
+# öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses
+
+- Körperschaft: Aachen
+- Beginn: 2014-09-02T17:00:00+02:00
+- Ende: 2014-09-02T18:37:00+02:00
+- Ort: Verwaltungsgebäude Marschiert, Lagerhausstraße
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b2e1d8f32e9185d6f81
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3107
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9371051d8f32e9185f0e09
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift der Sitzung 27.05.2014 (öffentlicher Teil) - (offen)
+- TOP 3: Bestellung des Schriftführers und seiner Stellvertreterin - ungeändert beschlossen
+- TOP 4: Einführung und Verpflichtung der sachkundigen Bürgerinnen und Bürger - ungeändert beschlossen
+- TOP 5: Immobilienbericht 2013 - ungeändert beschlossen
+- TOP 6: Satzung über ein besonderes gemeindliches Vorkaufsrecht für den Bereich Antoniusstraße/ Büchel; hier: Voraussetzungen für die Abwendung des Vorkaufsrechts nach § 27 BauGB - ungeändert beschlossen
+- TOP 7: Vermarktungskonzept für das Baugebiet 'Sandhäuschen' - ungeändert beschlossen
+- TOP 8: Bericht über städtische Gewerbegrundstücke - ungeändert beschlossen
+- TOP 9: Ausschreibung eines ca. 480 m² großen Grundstücks zur Wohnbebauung, Falkenberg / Ardennenstraße - ungeändert beschlossen
+- TOP 10: Ausschreibung eines ca. 2.200 m² großen Grundstücks zur Wohnbebauung, Eckener Straße in Aachen - Brand - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.10: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.11: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.12: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4.13: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
