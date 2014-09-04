@@ -1,0 +1,89 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-09-04T17:00:00+02:00
+- Ende: 2014-09-04T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZalXFGZ_7r0mzV5m3L5rpdk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4317
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZesheaw6GAcT7Je4rKTAaU_SOWbEKPzHf-A--cytNu6H/Oeffentliche_Niederschrift_Rat_04.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Anforderungen an die Verwaltungsorganisation sowie sich hieraus ergebende zwingende Notwendigkeiten an die personelle Ausstattung
+- TOP 6: Beigeordneten-Ausschreibung
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 9: Stadt-Sparkasse Solingen
+- TOP 10: Stadt-Sparkasse Solingen
+- TOP 11: Altenzentren der Stadt Solingen gGmbH
+- TOP 12: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 13: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 14: Lokalfunk Radio RSG
+- TOP 15: Kuratorium "Die Schärfste Klinge"
+- TOP 16: Kommunale Arbeitsgemeinschaft Bergisch Land e. V. (KAG)
+- TOP 17: Polizeibeirat für den Kreispolizeibezirk Wuppertal
+- TOP 18: Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 19: Solinger Bädergesellschaft mbH
+- TOP 20: Bergisches Volkshochschule Zweckverband der Städte Solingen - Wuppertal für allgemeine und berufliche Weiterbildung sowie Familienbildung
+- TOP 21: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 22: Bürgerstiftung für verfolgte Künste - Else-Lasker-Schüler-Zentrum - Kunstsammlung Gerhard Schneider
+- TOP 23: Städtische Musikschule Solingen GmbH
+- TOP 24: Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 25: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG
+- TOP 26: Verband der kommunalen RWE-Aktionäre GmbH (VkA)
+- TOP 27: civitec - Zweckverband Kommunale Informationsverarbeitung
+- TOP 28: Wasserversorgungsverband Rhein-Wupper
+- TOP 29: Forschungsgemeinschaft Werkzeuge und Werkstoffe e. V.
+- TOP 30: Technische Akademie Wuppertal e. V.
+- TOP 31: Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 32: Verein zur Förderung des Bergischen Instituts für Produktentwicklung und Innovationsmanagement e. V.
+- TOP 33: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG)
+- TOP 34: GVV-Kommunalversicherung VVaG
+- TOP 35: Kommunaler Schadenausgleich westdeutscher Städte (KSA)
+- TOP 36: Schlossbauverein Burg an der Wupper e. V.
+- TOP 37: Kommunale Gesundheitskonferenz
+- TOP 38: Besetzung des örtlichen Beirates für das Kommunale Jobcenter
+- TOP 39: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 40: Besetzung des Beirates Agenda-Team
+- TOP 41: Zweckverband Erholungsgebiet Ittertal
+- TOP 42: Zweckverband Naturpark Bergisches Land
+- TOP 43: Gewässerschaukommission der Stadt Solingen
+- TOP 44: Geschwister-Niehoff-Stiftung
+- TOP 45: Entsorgung Solingen GmbH
+- TOP 46: Bergisch-Rheinischer Wasserverband
+- TOP 47: Wupperverband
+- TOP 48: Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 49: Fortführung des ÖPNV-Fahrgastbeirates
+- TOP 50: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Düsseldorf
+- TOP 51: III. Änderung der Zuständigkeiten der Ausschüsse der Stadt Solingen
+- TOP 52: Zustimmung zu Mehraufwendungen gemäß § 83 GO NRW für Versicherungsangelegenheiten
+- TOP 53: Brandanschlag auf die Bergische Synagoge in Wuppertal
+- TOP 54: Resolution zum Transatlantischen Freihandelsabkommen
+- TOP 55: Verschiedenes
+- TOP 56: Beratungshilfe
+- TOP 57: Veräußerungszustand von Kraftfahrzeugen
+- TOP 58: Gebäudesituation Kindertagesstätte Don Bosco, Elsässer Straße 17
+- TOP 59: Neufassung von Standorten für die Windenergienutzung in Solingen
+- TOP 60: Sachstand Wupperbrücke Papiermühle/Soterweg
+- TOP 61: Gewerbesteuer
+- TOP 62: Haushaltssperre des Landes NRW
+- TOP 63: Preiserhöhungen bzw. strukturelle Veränderungen beim VRR
+- TOP 64: Tätigkeitsbericht des Seniorenbeirats der Stadt Solingen für 2013/2014
+- TOP 65: Gewerbesteuerprognose - Gewerbesteuerentwicklung
+- TOP 66: Mobiler Bürgerservice in Solingen-Wald
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Verschiedenes
+- TOP 4: Geschäftsführungen Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Solinger Bädergesellschaft mbH (SBG)
+- TOP 5: Höhergruppierung des Stadtdirektors
+- TOP 6: RATHAUS: Kauf statt Anmietung?
