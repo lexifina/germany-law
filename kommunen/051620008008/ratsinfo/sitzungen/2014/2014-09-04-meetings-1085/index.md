@@ -1,0 +1,57 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-09-04T18:04:00+02:00
+- Ende: 2014-09-04T19:22:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1085
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1085
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bestellung Schriftführer - einstimmig
+- TOP 3: Wahl der/des stellv. Ausschussvorsitzenden - einstimmig
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.1.1: CDU, Antrag Nr. 117/2014 - Kenntnisnahme
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.4.1: FDP, Antrag Nr. 96/2014 - Kenntnisnahme
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.7.1: Mein GV, Antrag Nr. 119/2014 - einstimmig
+- TOP 4.8: Die Linke/Piraten
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG
+- TOP 5.4: FDP
+- TOP 5.5: B 90/Grüne
+- TOP 5.6: ABG
+- TOP 5.7: Mein Grevenbroich
+- TOP 5.8: Die Linke/Piraten
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Marktstandsgeld
+- TOP 8: Verordnung über Verkaufsstellen - einstimmig
+- TOP 9: AK-Demografie
+- TOP 10: Beantwortung von Anträgen
+- TOP 10.1: Beantwortung von Anträgen
+- TOP 11: Beantwortung Anfragen
+- TOP 11.1: Verbesserung der Nebenkostenabrechnungen/Haushaltsklarheit
+- TOP 11.2: Beantwortung von Anfragen
+- TOP 12: Mündliche Anträge/Anfragen
+- TOP 12.1: Tagesordnungspunkte
+- TOP 12.2: Fürther Straße
+- TOP 12.3: Tagesordnungspunkte
+- TOP 12.4: Sirenen
+- TOP 12.5: Feuerwache Lilienthalstraße
+- TOP 12.6: AK-Demografie
+- TOP 12.7: Tennisplatz Wevelinghoven
+- TOP 13: Mitteilungen BM'in
+- TOP 13.1: Arbeitslosenzahlen
