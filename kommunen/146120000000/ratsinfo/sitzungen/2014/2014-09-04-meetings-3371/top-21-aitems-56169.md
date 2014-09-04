@@ -1,0 +1,8 @@
+# TOP 21: Besetzung des Kriminalpräventiven Rates
+
+- Sitzung: 1. Sitzung des Stadtrates (2014-09-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/56169
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/16665
