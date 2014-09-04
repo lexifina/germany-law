@@ -1,0 +1,88 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-04T17:00:00+02:00
+- Ende: 2014-09-04T20:07:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8883
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8883
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220617.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220617.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220617.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Prüfergebnisse aus Beschlussfassung zum Strab- u. Stadtbahnnetz n. Inbetriebnahme WHL - einstimmig abgelehnt
+- TOP 9: BSA Wilhelm-Heinrich-Weg Sanierung Kunstrasen - einstimmig beschlossen
+- TOP 10: Plan 6073/025, Am Kleinforst, Änderung Aufstellungsbeschluss - vertagt
+- TOP 11: Beseitigung der Sturmschäden im Stadtbezirk 8 - beantwortet
+- TOP 12: Containerstation Gertrudisplatz - beantwortet
+- TOP 13: Feuerwehrzufahrten im Stadtbezirk 8 - beantwortet
+- TOP 14: Nichtstädtische Spielplätze im Stadtbezirk 8 - beantwortet
+- TOP 15: Renaturierung Südliche Düssel - beantwortet
+- TOP 16: Städtische Wohnungen und Häuser im Stadtbezirk 8 - beantwortet
+- TOP 17: Aufzug S-Bahnhof Eller - beantwortet
+- TOP 18: Nebengebäude Schloss Eller - beantwortet
+- TOP 19: Sturmschäden im Stadtbezirk 8 - beantwortet
+- TOP 20: Wartehäuschen im Stadtbezirk 8 - beantwortet
+- TOP 21: Barrierefreie Bushaltestellen im Stadtbezirk 8 - beantwortet
+- TOP 22: Parkpflegewerk Schlosspark Eller - beantwortet
+- TOP 23: Kulturbahnhof Eller - beantwortet
+- TOP 24: Neugestalteter Platz vor der Stadtsparkasse Lierenfeld - beantwortet
+- TOP 25: Schwerlastverkehr Wilhelm-Heinrich-Weg und Gatherweg - beantwortet
+- TOP 26: Gender Mainstreaming im Stadtbezirk 8 - beantwortet
+- TOP 27: Grundstück Glashüttenstraße 59 - beantwortet
+- TOP 28: Nächtliche Hubschraubereinsätze im Stadtbezirk 8 - beantwortet
+- TOP 29: Sturmschäden im Stadtbezirk 8 - beantwortet
+- TOP 30: Skateranlage Heidelberger Straße - beantwortet
+- TOP 31: Verkehrsführung Seeweg - vertagt
+- TOP 32: Behindertenstellplätze im Stadtbezirk 8 - vertagt
+- TOP 33: Bordsteinabsenkung Chemnitzer Straße - vertagt
+- TOP 34: Sturmschäden im Stadtbezirk 8 - vertagt
+- TOP 35: Umzäunung Bolzplatz Unterbacher See - vertagt
+- TOP 36: Schlossgraben Schloss Eller - vertagt
+- TOP 37: 'Nette Toilette' im Stadtbezirk 8 - vertagt
+- TOP 38: Parkplatz Schloss Eller - vertagt
+- TOP 39: Beschilderung Wäschlacker Weg - vertagt
+- TOP 40: Radweg Schlesische Straße / Breslauer Straße - vertagt
+- TOP 41: Sparkassen - Geldautomaten im Stadtbezirk 8 - vertagt
+- TOP 42: Parkregelung An der Schützenwiese - vertagt
+- TOP 43: Abbruch- und Bauanträge in der Siedlung Freiheit - vertagt
+- TOP 44: Behindertenstellpatz Vennhauser Allee 195 - vertagt
+- TOP 45: Informationsveranstaltung zur Bebauung des ehem. Kirmesplatzes Sturmstraße - vertagt
+- TOP 46: Verkehrsregelung Dillenburger Weg - vertagt
+- TOP 47: Tütenspender am Eller Forst - vertagt
+- TOP 48: Rhein-Ruhr-Express im Stadtbezirk 8 - vertagt
+- TOP 49: Zebrastreifen Gerresheimer Landstraße / Seeweg - vertagt
+- TOP 50: Verkehrsregelung Gerresheimer Landstraße - vertagt
+- TOP 51: Toilettenanlage Wasserspielplatz Eller - zur Kenntnis genommen
+- TOP 52: Spielplatz Nachbarschaftspark Eller-Lierenfeld - zur Kenntnis genommen
+- TOP 53: Spielgeräte und Spielpunkte im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Gebäude Schlossallee 14, Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 55: Verkehrsregelung Gubener Straße - zur Kenntnis genommen
+- TOP 56: Gymnasium im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 57: Sanierung Straßenbelag Unterbacher Straße - zur Kenntnis genommen
+- TOP 58: Sicherung Gleisanlage Eller-Mitte - zur Kenntnis genommen
+- TOP 59: Rückwärtige Fassaden Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 60: Bordsteinabsenkungen Geraer Weg - zur Kenntnis genommen
+- TOP 61: Unterführung Vennhauer Allee - zur Kenntnis genommen
+- TOP 62: Toilettenanlage Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 63: Düsselbrücke zwischen Reichenbacher Weg und Coburger Weg - zur Kenntnis genommen
+- TOP 64: Errichtung einer Kindertagesstätte am Tannenhofweg 88 - zur Kenntnis genommen
+- TOP 65: Barrierefreie Bushaltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Radverkehrsführung Am Dammsteg - zur Kenntnis genommen
+- TOP 67: Städtische Wohnungen und Häuser im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 68: Verkehrssituation Seeweg - zur Kenntnis genommen
+- TOP 69: Grundstück Glashüttenstraße 57-59 - zur Kenntnis genommen
+- TOP 70: Förderung des Radverkehrs im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 71: Sturmschäden im Stadtbezirk 8 - zur Kenntnis genommen
