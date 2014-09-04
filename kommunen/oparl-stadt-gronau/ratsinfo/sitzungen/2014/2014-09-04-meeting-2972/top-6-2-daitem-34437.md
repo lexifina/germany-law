@@ -1,0 +1,6 @@
+# TOP 6.2: Anfrage von RM Bucholz; Veranstaltung "Holi"-Party am Drilandsee
+
+- Sitzung: Haupt- und Finanzausschuss (2. Sitzung) (2014-09-04)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/34437
