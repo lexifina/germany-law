@@ -1,0 +1,66 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-05T16:00:00+02:00
+- Ende: 2014-09-05T19:50:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9521
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9521
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220751.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220751.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00220751.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Zulassung der Mitglieder des Senioren- und Behindertenbeirates - zur Kenntnis genommen
+- TOP 5: Sanierung des Geländes nördlich Paulsmühlenstraße - westlich Telleringstraße - zur Kenntnis genommen
+- TOP 6: Plan-Nr.: 5970/27 Bonner Straße/ Münchener Straße - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Bonner Straße 59 - Neubau eines Hotelgebäudes mit 260 Betten und oberirdischer Stellplatzanlage - zur Kenntnis genommen
+- TOP 13: Nikolausstraße 51,53,55 - Abbruch von drei Wohnhäusern - zur Kenntnis genommen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Prüfergebnisse aus Beschlussfassung zum Strab- u. Stadtbahnnetz n. Inbetriebnahme WHL - zur Kenntnis genommen
+- TOP 16: Zuschuss an den Sportverein Rudergesellschaft Benrath e.V. - zur Kenntnis genommen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung - zur Kenntnis genommen
+- TOP 19: Steinkaul 27-Aufstellung einer eingeschossigen Klassen-Container-Anlage; Temporärer Schulersatzbau - zur Kenntnis genommen
+- TOP 20: Anfrage: Altes Benrather Krankenhaus Hospitalstraße - zur Kenntnis genommen
+- TOP 21: Anfrage: Containeraufstellung an der Dependance der Kath. St. Apollinaris Grundschule in Himmelgeist - zur Kenntnis genommen
+- TOP 22: Anfrage: Neubau TEREX-Kantine - zur Kenntnis genommen
+- TOP 23: Antrag: Benrather Schlosspark - zur Kenntnis genommen
+- TOP 24: Antrag: Neubepflanzung und -gestaltung der Weiher-Insel von Schloss Benrath - zur Kenntnis genommen
+- TOP 25: Antrag: Markierung einer Stufe - zur Kenntnis genommen
+- TOP 26: Antrag: Radweg Hildener Str. von Unkraut freischneiden - zur Kenntnis genommen
+- TOP 27: Antrag: Anbringung eines Spiegels für Fußgänger/Radfahrer/Innen - zur Kenntnis genommen
+- TOP 28: Antrag: Eigene Ampel für einbiegende Autofahrer/Innen - zur Kenntnis genommen
+- TOP 29: Antrag: Integriertes Verkehrskonzept für den Ortskern von Benrath - zur Kenntnis genommen
+- TOP 30: Antrag: Barrierefreier Zugang zum Post-Shop Henkelstraße - zur Kenntnis genommen
+- TOP 31: Antrag: Öffnung von Einbahnstraßen für gegenläufigen Radverkehr - zur Kenntnis genommen
+- TOP 32: Antrag: Aufhebung des Durchfahrtsverbotes für Fahrradfahrer in der Fußgängerzone Benrath - zur Kenntnis genommen
+- TOP 33: Antrag: Aufhebung Gehwegparken Sophienstraße - zur Kenntnis genommen
+- TOP 34: Antrag: Gehwegparken Kappeler Straße - zur Kenntnis genommen
+- TOP 35: Antrag: Erweiterung des Gehwegs Kappeler Straße - zur Kenntnis genommen
+- TOP 36: Antrag: Aufhebung Gehwegparken Hildener Straße - zur Kenntnis genommen
+- TOP 37: Antrag: Bäderkonzept Niederheid und Benrath - zur Kenntnis genommen
+- TOP 38: Antrag: Verfügungsmittel Chorverband Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 39: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V. - zur Kenntnis genommen
+- TOP 40: Antrag: Verfügungsmittel Martinsfreunde Hassels - zur Kenntnis genommen
+- TOP 41: Antrag: Verfügungsmittel VdK, Ortsverband Benrath-Garath - zur Kenntnis genommen
+- TOP 42: Antrag:Verfügungsmittel Bürger- und Heimatverein Reisholz e.V. - zur Kenntnis genommen
+- TOP 43: Antrag: Verfügungsmittel Karnevalsgesellschaft "Reisholzer Quatschköpp e.V." - zur Kenntnis genommen
+- TOP 44: Antrag: Verfügungsmittel St.Sebastianus-Schützenbruderschaft Himmelgeist - zur Kenntnis genommen
+- TOP 45: Antrag: Verfügungsmittel Allgemeiner Bürgerverein Urdenbach e.V. - zur Kenntnis genommen
+- TOP 46: Antrag: Verfügungsmittel Kleingärtner-Verein Benrath e.V. - zur Kenntnis genommen
+- TOP 47: Antrag: Verfügungsmittel Bezirksverband Düsseldorf-Süd e.V. - zur Kenntnis genommen
+- TOP 48: Antrag: Verfügungsmittel Initiative Mehrgenerationen Wohnen im Alten Hospital - zur Kenntnis genommen
+- TOP 49: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
