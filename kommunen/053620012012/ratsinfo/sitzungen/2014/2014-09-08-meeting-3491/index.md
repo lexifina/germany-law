@@ -1,0 +1,71 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-09-08T18:00:00+02:00
+- Ende: 2014-09-08T20:00:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfYW4bEYM8DXOnb_bFb1A08
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3491
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfv3y9y3gAhZOEG1V-cubs6eTo0qz6PcnBUXVWWrMGf-/Bekanntmachung_Rat_08.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjzH7yiQ-9-tZHygdgJX5UiYi6mYoTzUkCIM28CZDP0/Oeffentliche_Niederschrift_Rat_08.09.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 23.06.2014
+- TOP 3.: Bestellung eines Kämmerers - (kein Text vorhanden)
+- TOP 4.: Wahl des Rates der Stadt Brühl am 25.05.2014 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 5.: Wahl und Besetzung des Integrationsrates der Stadt Brühl
+- TOP 5.1: Besetzung des Integrationsrates Bezug: Schreiben Maria Blech, Euskirchener Str. 15, Brühl, vom 25. und vom 31. 8.2014
+- TOP 5.2: Wahl des Integrationsrates am 25.05.2014 Gültigkeit der Wahl - (kein Text vorhanden)
+- TOP 6.: Betreff Ermächtigungsübertragung aus dem Haushaltsplan 2013 nach 2014 Bezug: 1. Übertragungsvorlage im Rat am 24.03.2014
+- TOP 7.: 1. Nachtragshaushaltssatzung für das Haushaltsjahr 2014 1. Nachtragshaushaltssatzung für das Haushaltsjahr 2014 Bezug: Rat 23.06.14, HA 25.08.14 - (kein Text vorhanden)
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Tagesbetreuung in Einrichtungen; hier:Neubau einer Kindertageseinrichtung in Schwadorf - (kein Text vorhanden)
+- TOP 10.: 12. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Krankentransport und die Notfallrettung in der Stadt Brühl -Satzung Rettungsdienst- hier: Notarztgebühr - (kein Text vorhanden)
+- TOP 11.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 11.1: Stadtwerke Brühl GmbH hier: Änderung Gesellschaftsvertrag Bezug: Dringlichkeitsentscheidung Bürgermeister Freytag und Ratsherr Klug vom 25.6.2014 - (kein Text vorhanden)
+- TOP 11.2: Außerplanmäßige Ausgabe Abriss Badorfer Str. 37 - (kein Text vorhanden)
+- TOP 12.: Gesellschafterversammlung Stadtwerke -Jahresabschluss 2013 und Konzernabschluss 2013- - (kein Text vorhanden)
+- TOP 13.: Gesellschafterversammlung Gebausie - Jahresabschluss 2013 - (kein Text vorhanden)
+- TOP 14.: Änderung Gesellschaftsvertrag der Stadtwerke GmbH Bezug: Vorlage 194/2014 (Rat 23.6.14, Pkt. 13.2.1) und Vorlage 208/2014 (Dringlichkeitsentscheidung v. 25.6.14) - (kein Text vorhanden)
+- TOP 15.: Änderung der Hauptsatzung und der Zuständigkeitsordnung hier: Dienstrechtliche Entscheidungen; Sitzungsgeld - (kein Text vorhanden)
+- TOP 15.1: Unterrichtung des Hauptausschusses über Personalbewegungen hier: § 16 Hauptsatzung Bezug: Antrag der CDU-Fraktion vom 27.8.2014
+- TOP 16.: Bebauungsplan 05.01 "Unter dem Dorf / Am Rheindorfer Bach" Teilbereich A -Satzungsbeschluss- - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Festlegung der Geschäftskreise der Beigeordneten Bezug: Antrag CDU/GRÜNE vom 21.8.2014 - (kein Text vorhanden)
+- TOP 17.2: Ausschreibung der Stelle des/der dritten Beigeordneten Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 12.08.2014
+- TOP 17.2.1: Ausschreibung der Stelle einer/eines Beigeordneten - (kein Text vorhanden)
+- TOP 17.3: Einrichtung und Ausschreibung der Stelle eines/einer Mobilitätsmanager(s)/in als Fachbereichsleiter/in Bezug: Gemeinsamer Antrag der Fraktionen CDU und GRÜNE vom 12.08.2014 - (kein Text vorhanden)
+- TOP 17.3.1: Einrichtung einer Stelle Mobilitätsmanagerin/ eines Mobilitätsmanagers, EG 13 im Stellenplan 2014 - (kein Text vorhanden)
+- TOP 18.: Zuwendungen an Fraktionen und Ratsmitglieder
+- TOP 18.1: Zuwendungen an Fraktionen - (kein Text vorhanden)
+- TOP 19.: Job-Ticket-Ausgabe im Jahr 2015 - (kein Text vorhanden)
+- TOP 20.: Kulturstiftung für die Stadt Brühl - (kein Text vorhanden)
+- TOP 21.: Umbesetzung in Ausschüssen
+- TOP 21.1: Umbesetzung in Ausschüssen hier: Ausschuss für Planung und Stadtentwicklung Bezug: Antrag NABU Kreisverband Rhein-Erft vom 06.06.2014 - (kein Text vorhanden)
+- TOP 21.2: Schulausschuss und Sozialausschuss; Bestellung eines stellvertretenden Mitglieds Bezug: Antrag CDU-Fraktion vom 16.7.2014 - (kein Text vorhanden)
+- TOP 21.3: Wahl eines beratenden Mitglieds für den Jugendhilfeausschuss sowie Wahl eines stellvertretenden beratenden Mitglieds für den Jugendhilfeausschuss aus der Mitte des Integrationsrates, Bestätigt durch den Stadtrat - (kein Text vorhanden)
+- TOP 21.4: Sportausschuss; Bestellung eines Mitglieds Bezug: Antrag der FDP-Fraktion vom 27.8.2014 - (kein Text vorhanden)
+- TOP 22.: Mitteilungen
+- TOP 22.1: Bericht gemäß Berichtspflicht nach § 113 GO NW an den Kreistag Rhein-Erft und die Stadträte der Städte im Rhein-Erft-Kreis über die 121. Sitzung des Aufsichtsrates der REVG mbH am 24. Juni 2014 um 14.00Uhr
+- TOP 23.: Anfragen
+- TOP 23.1: Schuldenstand laut Bericht des Statistischen Bundesamtes Bezug: Anfrage der FDP-Fraktion vom 12.08.2014
+- TOP 23.1.1: Schuldenstand laut Bericht des Statistischen Bundesamtes Bezug: Anfrage der FDP-Fraktion vom 12.08.2014 - (kein Text vorhanden)
+- TOP 23.2: Unterführung Carl-Schurz-Straße/Balthasar-Neumann-Platz
+- TOP 23.3: Gutachterliche Prüfung Unterführung oder Überweg Carl-Schurz-Straße/Balthasar-Neumann-Platz
+- TOP 23.4: Thüringer Platz
+- TOP 23.5: Abweichung von Energieeinsparverordnung
+- TOP 23.6: Nahverkerhrsplan Rhein-Erft-Kreis
+- TOP B): Nichtöffentliche Sitzung
+- TOP 24.: Bestellung des Leiters der Feuerwehr - (kein Text vorhanden)
+- TOP 25.: Umsatzsteuer Verpachtung Bahnhofsgebäude - (kein Text vorhanden)
+- TOP 26.: Gesellschaftsversammlung Gebausie - Bestellung Geschäftsführerin- - (kein Text vorhanden)
+- TOP 27.: Gesellschaftsversammlung Stadtwerke Brühl GmbH - Befreiung der Geschäftsführerin von Beschränkungen des § 181 BGB - (kein Text vorhanden)
+- TOP 28.: Annahme eines gerichtlichen Vergleichs - (kein Text vorhanden)
+- TOP 29.: Mitteilungen
+- TOP 30.: Anfragen
