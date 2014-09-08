@@ -1,0 +1,71 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-09-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3082037
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3082037
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Spielwiese zwischen Stiftsbogen und Schröfelhofstraße
+- TOP 1.2.: Fußweg zwischen Wolkerweg und Tiefgarageneinfahrt Wolkerweg am Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: 950-Jahrfeier Hadern (SPD-Fraktion)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, München Rugby Football e.V., 36. Oktoberfest-Turnier am 27.09.2014 (Direktorium, 20.08.14)
+- TOP 5.2.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Großhaderner Straße, TAMTAO-Trommelwochen im Januar 2015 (Direktorium, 12.08.14)
+- TOP 5.3.: Budget der Bezirksausschüsse, Regsam e.V., Bauwagen "Spielkistl" vom 06. - 10.10.2014 (Direktorium, 12.08.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Bauleitplanung der Gemeinde Gräfelfing, 10. Flächennutzungsplanänderung, Verfahren nach § 4 Abs. 2 BauGB (Referat für Stadtplanung und Bauordnung, 04.08.14)
+- TOP 6.2.: Beschlussvorlage für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss: Beschleunigung der Buslinien 56 und 166
+- TOP 6.3.: Erinnerungsverfahren: Pelargonienweg 15 (Baureferat, 19.08.14)
+- TOP 6.4.: Heiglhofstraße 13, Umbau und Erweiterung des Landgasthofs "Erdinger Weißbräu" (Referat für Stadtplanung und Bauordnung, 28.08.14)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hirtentäschelweg 2 a, 3 Fichten
+- TOP 7.2.: Levkojenstraße 14, 4 Douglasien
+- TOP 7.3.: Ludlstraße 67, 1 Birke
+- TOP 7.4.: Hochwaldstraße 17, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 24.07.2014, 28.07.2014, 31.07.2014, 06.08.2014
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baubeginn Jugendspielplatz Am Hedernfeld (Baureferat, 18.08.14)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Pelargonienweg (Sozialreferat, 18.08.14) - Sonnblickstraße (Sozialreferat, 18.08.14)
+- TOP 8.3.: Information zum Projekt "Neubau der Wohnsiedlung Ludlstraße", Mieteranschreiben (GEWOFAG, 26.08.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Kulturelles Zentrum am Haderner Stern (Kulturreferat, 31.07.14)
+- TOP 9.2.: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG); hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet (Kreisverwaltungsreferat, 29.07.14)
+- TOP 9.3.: Bolzplatz Menaristraße / Ludlstraße (Baureferat, 20.08.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Sitzungstermine 2015 des BA 20 Hadern
+- TOP 11.2.: Schreiben BA 21 Pasing-Obermenzing vom 13.08.14: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze"
+- TOP 11.3.: Oktoberfest 2014; Ergebnis der Platzreservierungen: BA 20 Hadern am Montag, 29.09.2014
+- TOP 11.4.: Anträge des BA 15 Trudering-Riem vom 26.06.2014: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park Herausgabe eines Faltblattes der LHM zum Asiatischen Laubholzbockkäfer
+- TOP 11.5.: "München Weiterbauen - München Weiterfahren?", Besprechung der Bezirksausschüsse mit dem Referat für Stadtplanung und Bauordnung am 23.10.2014 (Direktorium, 20.08.14)
+- TOP 11.6.: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 23.06.2014 (Kulturreferat, 13.08.14)
+- TOP 11.7.: Regionalgespräche 2014 zwischen dem Referat für Stadtplanung und Bauordnung und den Bezirksausschüssen am Dienstag, 14.10.2014 um 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 19.08.14)
+- TOP 11.8.: Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 31.07.2014 (Gleichstellungsstelle für Frauen, 08.08.14)
+- TOP 11.9.: Realisierungswettbewerb für den Neubau einer Wohnsiedlung in der Ludlstraße - Anfrage Mitwirkung im Preisgericht (bgsm, Architekten Stadtplaner, 05.09.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 19.02.2014 zur Sitzungsvorlage-Nr. 08-14 / V 13887 (nach Antrag): Reinigungsstandards in Münchner Schulen; Erhöhung der Unterhaltsreinigung in Schulen von 2,5 auf 3 mal wöchentlich, zusätzliche jährliche Intensivreinigung der Schulhaustoiletten und zusätzliche Reinigung einiger Sporthallen an Samstagen auf Grund intensiver Vereinsnutzung; Jährliche Zusatzkosten für Reinigungsmaßnahmen i.H.v. ca. 4,5 Mio Euro brutto ab dem Schuljahresbeginn 2014/15
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
