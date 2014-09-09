@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2014-09-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3304619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3304619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 05.08.2014
+- TOP 2: Aktuelles, Anträge
+- TOP 2.1.: Geschäftsverteilungsplan
+- TOP 2.2.: Arbeitsgruppe Internet
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Innere Mission München Übersetzungen von Dolmetschern
+- TOP 3.2.: (E) Budget des Bezirksausschusses Stiftung My Sport Lady Projekt "Ernährung" vom 18.09.2014 - 30.07.2015
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Stiftung My Sport Lady Projekt "Ernährung" vom 30.09.2014 - 24.10.2014
+- TOP 3.4.: (E) Tag des offenen Denkmals
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Kinderhaus Kühlschruppe e.V. Beschaffung einer Rutsche und eines Sandkastens
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Alten- und Service-Zentrum Thalkirchen Erstellung des Buches ?Thalkirchner Geschichten? ab 15.10.2014
+- TOP 3.7.: (E) Budget der Bezirksausschüsse Heimat und Trachtenverein D'Elbachtaler Solln e.V. Festnachmittag am 14.09.2014
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Bauvorhaben Wolfratshauser Str. 48
+- TOP 4.3.: (Antrag) Verschmutzung Grünflächen Machtlfinger- / Boschetsrieder Str. und Parkplatz Siemens-Sportpark
+- TOP 4.4.: (U) Asiatischer Laubholzbockkäfer
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (A) Baumaßnahme Kistlerhofstr.
+- TOP 2: (E) Einführung von Tempo 30 in der Plattlinger Straße - <div></div>
+- TOP 2.3.: (A) Beschleunigung Buslinien 56 und 166
+- TOP 4: (E) Einrichtung eines Haltverbotes in der Fritz-Baer-Straße - <div></div>
+- TOP 4.5.: (Antrag) Situation Radverkehr Boschetsrieder Str. 41
+- TOP 4.6.: (Antrag) Radverkehr August-Macke-Weg
+- TOP 4.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmung der Gesamtstrecke der Carola-Neher-Straße
+- TOP 8: (E) PKW-Parkstreifen und Radweg in der nördlichen Seite der Rupert-Mayer-Straße zwischen Wolfratshauser- und Tölzer Straße umgestalten - <div></div>
+- TOP 8.9.: (A) Austausch LZA Drygalski-Allee / Kistlerhofstr.
+- TOP 8.10.: (U) Baustellen zur Rohrkanalsanierung
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Grundstücksverkauf Koppstr. FlNr. 525/10, /12, /13,/ 15
+- TOP 6.3.: (U) Antrag auf Zweckentfremdung Waldmüllerstr.
+- TOP 6.4.: (U) Antrag auf Zweckentfremdung Rappenseestr.
+- TOP 6.5.: (U) Antrag auf Zweckentfremdung Wolfratshauser Str.
+- TOP 6.6.: (U) Antrag auf Zweckentfremdung Zeismeringer Str.
+- TOP 6.7.: (U) Antrag auf Zweckentfremdung Forstenrieder Allee
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Regelförderung "treff + tee"
+- TOP 7.2.: (A) Veranstaltung Schuljubiläum GS Zielstattstr.
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (A) Marionettentheater Liesl-Karlstadt-Str.
+- TOP 8.2.: (U) Kasperles Märchenzelt Wolfratshauser Str.
+- TOP 8.3.: (A) Circus Flip Flop Zielstattschule
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
+- TOP 0: Bericht (1)
+- TOP 0: Bericht (2)
+- TOP 0: Bericht (3)
+- TOP 0: Bericht (4)
+- TOP 0: Bericht (5)
+- TOP 0: Bericht (6)
