@@ -1,0 +1,93 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-09-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3345498
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3345498
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .1.: Protokoll der Sitzung vom 08.07.2014 (Unterlagen liegen bereits vor) Protokoll der Sitzung des Ferienausschusses vom 05.08.2014
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.05.2014 Ein Brunnen für den Georg-Elser-Platz vertagt aus der Sitzung vom 03.06.2014, vertagt aus der Sitzung vom 08.07.2014 (TOP A 5.2.1), vertagt aus der Sitzung des Ferienausschusses vom 05.08.2014 Unterlagen liegen bereits vor
+- TOP .2.: Schreiben eines Galeriebesitzers aus der Maxvorstadt wegen einer City Light Säule in der Türkenstraße
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 12.08.2014 Unangemessen lange Bauzeiten bei Bauvorhaben der Stadtwerke
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 16.08.2014 Beeinträchtigung der Nachtruhe durch Gastronomiebetriebe
+- TOP .5.: Schreiben eines Bürgers vom 21.08.2014 Maßmann-/Dachauer Straße, Stau auf der Rechtsabbiegespur und Antwort des Kreisver- waltungsreferates vom 21.08.2014
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Installation von Blinklichtern an den Zebrastreifen Görres-/Zentnerstraße und Görres-/Schwindstraße
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Antwortschreiben Verkehrsstau in der Theresienstraße und der Maßmannstraße Bürgeranfrage vom 15.05.2014 (TOP A 5.2.4/0614)
+- TOP .3.: Kreisverwaltungsreferat und Polizeiinspektion 42 antworten auf die Beschwerde einer Bürgerin aus der Maxvorstadt wegen einer nicht genehmigten Freischankfläche und verkehrswidrigem Radeln in der Erzgießereistraße
+- TOP .4.: Kreiverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Anhörung Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der Zufahrt zum Karolinenplatz BA-Antrag Nr. 08-14 / B 05729 des BA 3 vom 11.03.2014 Zwischennachricht und Anfrage des KVR
+- TOP .5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Antwortschreiben Sperrungen der Luisenstraße 2014 in Verbindung mit Veranstaltungen
+- TOP .6.: Kommunalreferat, Anhörung Schaukasten Stiglmaierplatz, Verlegung an die Oberfläche
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: LBK-Listen der Bauvorhaben: 30., 31., 32., 33. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 29., 30., 31., KW
+- TOP .3.: Augustenstraße 7 Rgb., Neubau zweier Wohngebäude mit Tiefgarage im Hinterhof
+- TOP .4.: Augustenstraße 7, Um- und Ausbau der DG-Wohnung, Erneuerung des Dachstuhls, Ver- kleinerung des Restaurants mit EG, Anbau eines Personenaufzugs
+- TOP .5.: Schellingstraße 108, DG-Ausbau zu Wohnzwecken, Errichtung eines Außenaufzuges, Einbau einer Wohnung im bisherigen Dachspeicher im 5. OG mit Einbau der dazu erfor- derlichen Fenstergauben, Errichtung eines 2. Rettungswegen und Einbau eines Dach- einschnittes Vertagt aus der Sitzung am 05.08.2014
+- TOP .6.: Luisenstraße 25, Aufstockung und Fassadensanierung eines Wohn- und Gewerbegebäu- des Vertagt aus der Sitzung vom 05.08.2014, Unterlagen liegen bereits vor.
+- TOP .7.: Blütenstraße 10, Dachaufstockung und Anbau eines Fassadenaufzuges Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .8.: Türkenstraße 92, Errichtung einer Terrasse als Stahlkonstruktion im 2. OG Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .9.: Maximiliansplatz 9, Nutzungsänderung Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .10.: Görresstraße 38, Sanierung und DG-Ausbau eines Mehrfamilienhauses Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .11.: Barer Straße 82, Rückbau TG-Abfahrt Süd, Nutzungsänderung (Lager zu Büroflächen) EG, RGB links Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .12.: Georgenstraße 47, Anbau und Vergrößerung von Balkonen, Einbau zweier Dachterras- sen, Anbau einer Notleiteranlage Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .13.: Kaulbachstraße 6, DG-Umbau Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .14.: Kreittmayrstraße 9 Rgb., Errichtung einer Dachterrasse Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .15.: Nymphenburger Straße 55, Errichtung eines Außenaufzugs und DG-Ausbau Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .16.: Barer Straße 27, Errichtung eines tempor. Eingangsbauwerkes mit Kasse und Garderobe Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .17.: Schleißheimer Straße 52, Neubau eines Rückgebäudes Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .18.: Türkenstraße 33, DG-Ausbau und Neubau Zwischengebäude Vertagt aus der Sitzung des Ferienausschusses am 05.08.2014, Unterlagen liegen be- reits vor.
+- TOP .19.: Görresstraße 14, Zusammenlegung zweier Wohneinheiten sowie Um- und Einbau von Gauben
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Ludwigstraße 20 ? 22, ein Spitzahorn
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällgenehmigung für eine Linde, Arcisstraße 12
+- TOP .2.: Direktorium Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park BA-Antrag Nr. 14-20 / B 00111 des BA 15 Trudering-Riem vom 26.06.2014 Herausgabe eines Faltblattes der LHM zum Asiatischen Laubholzbockkäfer BA-Antrag Nr. 14-20 / B 00112 des BA 15 Trudering-Riem vom 26.06.2014
+- TOP .2.1: Verkehr
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Freischankflächen, Entscheidung Amalienstraße 77, Erweiterung einer bestehenden Freischankfläche Barer Straße 74, Genehmigung einer Freischankfläche Dachauer Straße 2, Genehmigung einer Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Cycling Days Radveranstaltung am 26.04.2014
+- TOP .2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Bauernmarktmeile am 28.09.2014 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP .3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung München Marathon am 12.10.2014 und Trachtenlauf am 11.10.2014
+- TOP .1.: Baumaßnahmen der Stadtwerke a) Türkenstraße 5, Fernwärme b) Luisenstraße Höhe 67 a, Strom c) Erika-Mann-Straße 29, Fernwärme d) Kaulbachstraße 6, Fernwärme e) Brienner Straße 7, Strom
+- TOP .2.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Maximiliansplatz 9, Beanstandung der Baugenehmigung für eine Freischankfläche ent- gegen den Anforderungen der BI Mitte und des BA 3
+- TOP .3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold am 13. und 14.09.2014 zwischen Feldherrnhalle und Münchner Freiheit Eilentscheidung des Vorsitzenden vom 09.08.2014: Zustimmung
+- TOP .4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold am 13.09. und 14.09.2014, 1. Nachtrag Eilentscheidung des Vorsitzenden vom 15.08.2014: Zustimmung durch Fristablauf
+- TOP .5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichten eines Zebrastreifens über die Arcisstraße nördlich der Heßstraße
+- TOP .6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold am 13.09. und 14.09.2014, 2. Nachtrag Eilentscheidung des Vorsitzenden vom 20.08.2014: Zustimmung
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 Projekt "Oper an der Schule" vom 10. - 13.11.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Green City e.V. Projekt "Mini-Grünpaten" vom 22. - 26.09.2014
+- TOP .3.: (E) Budget der Bezirksausschüsse InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Anschaffung neuer Wärmebehälter
+- TOP .1.: (E) Budget der Bezirksausschüsse fLOWERS - Festival in Zusammenarbeit mit Kunstpavillon München e.V. Festival "fLOWERS" vom 16.07. - 10.08.2014
+- TOP .2.: Kommunalreferat, Anhörung Erläuterungsschilder im Stadtbezirk 3 Maxvorstadt, Anzahl der Schilder und Beschriftung Vertagt aus dem Ferienausschuss vom 05.08.2014 (TOP E 2.2) Unterlagen liegen bereits vor.
+- TOP .3.: (E) Budget der Bezirksausschüsse Initiative "Zeitgenössische Analyse" Zeitgenössische Analyse vom 17. - 19.10.2014
+- TOP .4.: (E) Budget der Bezirksausschüsse Internationale Frauenliga für Frieden und Freiheit Beantragung, Herstellung und Anbringung einer Gedenktafel
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Sitzungstermine 2015 Termine der UA-Sitzungen, Unterlagen liegen bereits vor (s. TOP F 2/0714) Vertagt aus dem Ferienausschuss vom 05.08.2014 (TOP F 1.1) Bürgerversammlung 2015
+- TOP .2.: Direktorium, Anhörung Antrag zur Änderung von § 23 a der BA-Satzung Antrag Nr. 08-14 / B 05514 des BA 3 vom 14.01.2014 Vertagt aus dem Ferienausschuss vom 05.08.2014 (TOP F 1.3)
+- TOP .3.: Berufung einer/eines Beauftragten gegen Rechtsextremismus vertagt aus 06/14
+- TOP .4.: Renovierung des Bürgerbüros
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
