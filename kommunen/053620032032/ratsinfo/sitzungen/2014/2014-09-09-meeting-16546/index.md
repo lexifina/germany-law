@@ -1,0 +1,59 @@
+# Stadtrat (3. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-09-09T17:00:00+02:00
+- Ende: 2014-09-09T20:28:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcvcLgmoy2Vu2uvLlbMAajk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16546
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQ1oQQuH-la9WqWmOXnWRR2CZSWLNUU0KP5pWP2K7Y6X/Bekanntmachung_Stadtrat_09.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQyksZ5oIY9ba-Gf35RPMfcnZNm8eUuHvtQb7p2rYlkh/Oeffentliche_Niederschrift_Stadtrat_09.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Besetzung von Ausschüssen und Gremien
+- TOP 3.1: Besetzung von Ausschüssen mit Vertretern des Seniorenbeirates
+- TOP 3.2: Benennung der Vertretern des Behindertenbeirates in Ausschüssen
+- TOP 3.3: Ausschuss für Sport, Freizeit und Kultur hier: Bestellung beratender Mitglieder von Vertretern des Behindertenbeirats
+- TOP 3.4: Bestellung einer sachkundigen Einwohnern in den Umweltausschuss; hier: Antrag des BUND, Ortsgruppe Kerpen
+- TOP 3.5: Bestätigung der beratenden Vertretung der Ev. Kirche im Jugendhilfeausschuss
+- TOP 3.6: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 SchulG - (kein Text vorhanden)
+- TOP 3.7: Zustimmung zur Bildung von Arbeitskreisen der Ausschüsse - (kein Text vorhanden)
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass
+- TOP 4.2: 17. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: Festlegung der Aufwandsentschädigung für die Ortsvorsteher/innen
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Bebauungsplan KE 353 "Nördlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.2: Bebauungsplan KE 354 "Südlicher Rad/Gehweg K 17", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.: Initiative für mehr Transparenz im Braun- und Steinkohlenbergbau
+- TOP 7.: Flurbereinigung Frechen III – Rekultivierung des ehemaligen Braunkohletagebaus hier: Gemeindegrenzregulierung zwischen der Kolpingstadt Kerpen und der Stadt Frechen gemäß § 58 Abs. 2 Flurbereinigungsgesetz
+- TOP 8.: Prüfung der Machbarkeit der Gründung von Stadtwerken Kerpen
+- TOP 9.: Haushaltswirtschaftliche Sperre gem. § 24 Nordrhein-Westfalen (GemHVO NRW)
+- TOP 10.: Nachlass eines Kerpener Bürgers - (kein Text vorhanden)
+- TOP 11.: Zusätzliche Stellen für den Außendienst des Ordnungsamtes; hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 12.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Bereitstellung von überplanmäßigen Haushaltsmitteln hier: Beauftragung eines Beratungsbüros für die Ausschreibung der Versicherungsleistungen für die Kolpingstadt Kerpen
+- TOP 12.2: Überplanmäßige Mittelbereitstellung zur Gefahrenabwehr Hochhaus "Maastrichter Straße"
+- TOP 12.3: Bereitstellung außerplanmäßiger Haushaltsmittel hier: Waldkindergarten Horrem/Neubottenbroich
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Mitteilungen
+- TOP 15.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Sachstandsbericht Projekt "Soziale Stadt"
+- TOP 16.2: Sachstand zu nicht veräußerten Grundstücken im Baugebiet Wahlenpfad im Stadtteil Horrem
+- TOP 16.3: Barrierefreier Ausbau von Gehwegen
+- TOP 16.4: Fördermittel für das Projekt "Jugend Stärken im Quartier"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Nachtragsbeauftragung "Kanal- und Straßenbauarbeiten Johann-Sebastian-Bach-Straße, Einsteinstraße und Albertus-Magnus-Straße in Kerpen-Mödrath"
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Sachstand Lörsfelder Hof
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
