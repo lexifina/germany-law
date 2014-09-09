@@ -1,0 +1,74 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-09-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194614
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194614
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP .1.3: Protokoll/e
+- TOP .2.1.2: Bürgerschreiben/-anträge
+- TOP .1.: Verkehrsberuhigung der Aignerstraße zwischen Gietlstraße und Ichostraße, Bürgeranliegen von Herrn R. vom 29.07.2014
+- TOP .2.2: Behördenvertreter
+- TOP .2.4: Bericht aus dem Stadtrat
+- TOP .3.: Berichte der Beauftragten
+- TOP .3.1: Integration
+- TOP .3.6: Mieterbeirat
+- TOP .3.7: gegen Rechtsextremismus
+- TOP .1.: Jahresbericht 2013 der Fachstelle gegen Rechtsextremismus der Landeshauptstadt München, Sitzungsvorlage Nr. 14-20 / V 00318, Bekanntgabe in der Vollversammlung des Stadtrates vom 08.07.2014
+- TOP .1.: 1. Schwarzenbacher Str. 1, 1 Fichte 2. Kapellenfeldstraße 9, 1 Walnuss, Antrag vom 07.08.2014 3. Tirschenreuthstraße 16, 1 Lärche, Antrag vom 06.08.2014 4. Seemüllerstraße 20, 2 Laubbäume, Antrag vom 25.08.2014 5. Alpenrosenstraße 4b, 1 Flügelnuss, Antrag vom 25.08.2014
+- TOP .3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Handlungsprogramm Mittlerer Ring - Berücksichtigung der Vorschläge zum qualifizierten Abschluss der Ausbaumaßnahmen am Mittleren Ring - Tegernsseer Landstraße berücksichtigen; Antrag der Fraktion FW im BA 17 (siehe auch TOP 6.3.5.1) - <div>nach Antrag</div>
+- TOP 4.1.: 5.3 Zuschuss für "Giesinger KulturVERSTRICKUNGEN"; Dankschreiben des Linkshänder e.V. vom 15.08.2014
+- TOP 4.2.: Erhaltung der Holztafeln "Bundeseigene Wohnanlage Am Perlacher Forst"
+- TOP 4.3.: Bebauungsplan mit Grünordnung Nr. 2037, Lincolnstraße (südlich), Bahnlinie München Ost-Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Erweiterung der Europäischen Schule in München - Billigungsbeschluss Sitzungsvorlage Nr. 14-20 / V 00796, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014
+- TOP 4.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/24 Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich), - Erweiterung der Europäischen Schule in München Billigungsbeschluss und vorbehaltlich endgültiger Beschluss, Sitzunsvorlage nr. 14-20 / V 00725 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014
+- TOP 4.5.: Bebauungsplan Nr. 2037 Europäische Schule a) Europäische Schule: rechtzeitiger Beginn mit den Planungen zur Verlängerung der Herbert-Quandt-Straße b) Europäische Schule: Sicherstellung der Nahversorgung der Wohnsiedlungen am Perlacher Forst und Fasangarten ohne Versorgungslücke c) Rettung des Kinos in der Siedlung am Perlacher Forst d) Bebauungsplan Nr. 2037, Europäische Schule, Standort des Nahversorgers e) Rettet das Cincinnati-Kino jetzt! f) Bebauungsplanverfahren für den Nahversorger von dem der Europäischen Schule abtrennen - Kino retten, Sitzungsvorlage nr. 14-20 / V 00368, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.2014
+- TOP 4.8.: Längere Kündigungsfrist für die Mieter im Anwesen Tegernseer Landstraße 243; Auskunft über Schadstoffe; Ersatzräume zur Verfügung stellen
+- TOP 4.6.2.1: Bericht
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 1: (E) Giesinger Bahnhof wieder für alle zur Entspannung sicher halten - <div>nach Antrag und Ergänzung</div>
+- TOP 1.1.: Öffnung der Europäischen Schule auch für Kinder der Siedlung Am Perlacher Forst
+- TOP 1.3.: Antrag zur Neugestaltung TeLa/TePlatz und zur Verlängerung der Tram 17 in die "Ami-Siedlung", Bürgeranliegen von Frau R. vom 07.07.2014 (vertagt aus der Sitzung vom 08.07.2014)
+- TOP 1: (E) Deisenhofener Straße: Beseitigung des wilden Motorradstellplatzes durch Neugestaltung des Gehweges Empfehlung Nr. 14-20 / E 00041 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014
+- TOP 1.1.: Information über Straßenbauaurbeiten in der Werner-Schlierf-Straße und Baumplatz, Zuleitung des BauR vom 07.08.2014
+- TOP 1.2.: Demontage der Haltverbotsschilder vor dem Anwesen Aignerstraße 31 - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013
+- TOP 1.3.: Verkehrssituation in der Heimgartenstraße - Verlegung des Bushalts für das Hotel Leonardo München in der Bereich der TG-Einfahrt für das Klinikum, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 28.05.2014
+- TOP 1.4.: Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße", Anfrage zur Rahmenplanung TeLa im Bereich Deisenhofener Straße ab TeLa Platz bis Heimgartenstraße - Baumfällung, Antwort des PlanR vom 07.07.2014
+- TOP 1.1.: Umweltskandal mitten in München, Bürgeranliegen von Herrn M. vom 08.07.2014 (vertagt aus der Sitzung vom 12.08.2014)
+- TOP 1: (E) Beseitigung der Spielplatznot im Bereich der Amerstorfferstraße und Information des KVR vom 04.07.2014 - <div>nach Antrag</div>
+- TOP 2: (E) Mehr Abfalleimer in der Schlierseestraße Empfehlung Nr. 14-20 / E 00047 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014 - <div>nach Antrag</div>
+- TOP 3: (E) Straßenbeleuchtung in der Perlacher Straße verbessern Empfehlung Nr. 14-20 / E 00040 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014 - <div>nach Antrag</div>
+- TOP 4: (E) Aufstellung von mehr Abfallbehältern und Behältern mit Hundekottüten in der Siedlung Am Perlacher Forst Empfehlung Nr. 14-20 / E 00032 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014
+- TOP 5: (E) Vermehrtes Pflanzen von Bäumen entlang stark verkehrsbelasteter Straßen Empfehlung Nr. 14-20 / E 00045 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014 - <div>nach Antrag</div>
+- TOP 5.1.: Informationen zu den Bodenuntersuchungen im Bereich der Grundschule an der Weißenseestraße, Zuleitung des RGU vom 25.06.2014, 24.07.2014 und 29.07.2014
+- TOP 5.3.: McGraw-Gelände - Veröffentlichung der Ergebnisse der Messungen zur Schadstoffbelastung
+- TOP 5.5.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 24.06.2014
+- TOP 5.6.: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park, BA-Antrag-Nr. 14-20 / B 00111 des BA - 15 Trudering-Riem vom 26.06.2014, Herausgabe eines Faltblattes der LHM zum Asiatischen Laubholzbockkäfer BA-Antrag-Nr. 14-20 / B 001112 der BA 15 - Trudering-Riem vom 26.06.2014, Information des Direktorium vom 19.08.2014
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 1: (E) Hinweistafeln an den Straßenschildern in der Cincinnatistraße Empfehlung Nr. 14-20 / E 00029 der Bürgerversammlung des Stadtbezirkes 17 ? Obergiesing-Fasangarten ? am 05.06.2014 - <div>nach Antrag</div>
+- TOP 1.1.: Junge Street-Art an den Mauern der JVA Stadelheim, Empfehlung Nr. 14-20 / E 00028 der Bürgerversammlung des Stadtbezirkes 17 ? Obergiesing-Fasangarten am 05.06.2014 Anhörung vom 02.09.2014 zur Beschlussvorlage des KultR
+- TOP 1.6.6: UA lokale Wirtschaft und Arbeit
+- TOP 1.1.: Antrag auf Beseitigung des Schrottplatzes Schwanseestraße / Lincolnstraße, Bebauung mit einwohnerfreundlichen Einrichtungen, Bürgeranliegen von Frau R. vom 01.07.2014 (vertagt aus der Sitzung vom 08.07.2014)
+- TOP 1.1.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund, Anhörung des Direktorium vom 02.09.2014
+- TOP 1.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 1.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 1.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 1.8.1.1: UA Bau/Planung/Wohnen
+- TOP 1.8.1.3: UA Verkehr
+- TOP 1.8.1.4: UA Umwelt und Gesundheit
+- TOP 1.8.2: Ankündigungen
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.6.5.6: Sonstiges
+- TOP 0.6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.6.6.5: Anträge
+- TOP 1.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 1.6.6.4: Unterrichtungsfälle / Bekanntgaben
