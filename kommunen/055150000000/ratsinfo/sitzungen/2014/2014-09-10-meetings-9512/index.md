@@ -1,0 +1,89 @@
+# 3. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-09-10T17:58:00+02:00
+- Ende: 2014-09-10T23:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9512
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9512
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00360367.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Verbesserung der Wahlbeteiligung
+- TOP 2.2: Koalitionsbildung von Fraktionen
+- TOP 2.3: Besetzung von Ausschüssen
+- TOP 2.4: Sachkenntnisse von entscheidenden sachkundigen Bürgern
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Beitrag zur Unterstützung von Unwettergeschädigten - Sondertarif Stromkosten - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Verfahrensänderung für zukünftige Wahlen zum Integrationsrat - verwiesen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: Feststellung der Gültigkeit der Kommunalwahlen und der Wahl der Mitglieder des Integrationsrates der Stadt Münster am 25.05.2014 - einstimmig beschlossen
+- TOP 11: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 12: Besetzung des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 13: Satzung zur Änderung der Hauptsatzung, der Betriebssatzung Münster Markting und der Betriebssatzung citeq - einstimmig beschlossen
+- TOP 14: Besetzung des Landschaftsbeirates bei der Stadt Münster als untere Landschaftsbehörde - einstimmig geändert beschlossen
+- TOP 15: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 16: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, am Sonntag, dem 30.11.2014 (1. Advent) - mehrheitlich abgelehnt
+- TOP 17: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 17.1: Genehmigung einer Dringlichkeitsentscheidung: - einstimmig abgelehnt
+- TOP 17.1.1: Genehmigung einer Dringlichkeitsentscheidung:
+- TOP 17.2: Genehmigung einer Dringlichkeitsentscheidung "Sofortmaßnahmen im Nachgang des Unwetters vom 28. / 29. Juli 2014 und finanzielle Auswirkungen auf den städtischen Haushalt" - einstimmig geändert beschlossen
+- TOP 17.3: Genehmigung der Dringlichkeitsentscheidung:Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss Kita St. Mariä Himmelfahrt, Gelmer-Dyckburg - mehrheitlich beschlossen
+- TOP 17.4: 1.Genehmigung der Dringlichkeitsentscheidung:Interimsmaßnahmen zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschlüsse für die Kindertageseinrichtung Burgwall und eine Dependance an der Kardinalstraße, Hiltrup - mehrheitlich beschlossen
+- TOP 17.5: Genehmigung der Dringlichkeitsentscheidung: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für die Kita An der Meerwiese, Coerde - mehrheitlich beschlossen
+- TOP 17.6: Genehmigung der Dringlichkeitsentscheidung: Trägerausschreibung für die Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne - einstimmig beschlossen
+- TOP 17.7: Dringlichkeitsentscheidung gem. § 60 GO NW, hier: Zuschuss der Stiftung Siverdes zur Einrichtung eines "Psychosozialen Zentrums für Flüchtlinge" - mehrheitlich beschlossen
+- TOP 18: Gewerbesteuer bei der Stadt Münster - zur Kenntnis genommen
+- TOP 19: Bürgerhaushalt 2014 - Einbringung der 95 bestplatzierten Bürgervorschläge - Vorlage eingebracht
+- TOP 20: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2014 - zur Kenntnis genommen
+- TOP 21: NKF-Gesamtabschluss zum 31.12.2011 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 22: Änderung des mit dem "Theater Münster" abgeschlossenen Managementkontraktes aufgrund der steuerlichen Betriebsprüfung - einstimmig beschlossen
+- TOP 23: Übernahme dreier Ausfallbürgschaften für die Stiftungen Magdalenenhospital und Siverdes - einstimmig beschlossen
+- TOP 24: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Münster Marketing, Anpassung - einstimmig beschlossen
+- TOP 25: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2013 - einstimmig beschlossen
+- TOP 26: Planfeststellung nach dem Bundeswasserstraßengesetz für den Ausbau des Dortmund-Ems-Kanals (DEK) bei km 62,405 und km 62,423 (Ersatz der Prinz-Brücke Nr. 66 bei DEK-km 62,405 im Zuge der Stadtstraße Osttor durch eine Geh- und Radwegbrücke bei DEK-km - mehrheitlich beschlossen
+- TOP 26.1: Planfeststellung nach dem Bundeswasserstraßengesetz für den Ausbau des Dortmund-Ems-Kanals (DEK) bei km 62,405 und km 62,423 (Ersatz der Prinz-Brücke Nr. 66 bei DEK-km 62,405 im Zuge der Stadtstraße Osttor durch eine Geh- und Radwegbrücke bei DEK-km
+- TOP 27: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2013 - mehrheitlich beschlossen
+- TOP 28: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)" - einstimmig beschlossen
+- TOP 29: Neuerrichtung von Bildungsgängen an Berufskollegs in städtischer Trägerschaft zum Schuljahr 2015/2016 - einstimmig beschlossen
+- TOP 29.1: Neuerrichtung von Bildungsgängen an Berufskollegs in städtischer Trägerschaft zum Schuljahr 2015/2016
+- TOP 30: Schülerspezialverkehr - mehrheitlich beschlossen
+- TOP 31: Rahmenkonzept Schulentwicklungsplanung - Fortschreibung - einstimmig geändert beschlossen
+- TOP 32: Geänderter Wirtschaftsplan 2014/2015 Theater Münster - einstimmig beschlossen
+- TOP 33: plusKITA-Einrichtungen und Sprachförderkitas gemäß 2. Kibiz-Änderungsgesetz - zur Kenntnis genommen
+- TOP 34: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung-Errichtungs- und Baubeschluß für eine zweigruppige Dependance an der Wienburgstraße - mehrheitlich beschlossen
+- TOP 35: Feststellung der Jahresabschlüsse 2013 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 36: Unternehmensgruppe Altenzentrum Klarastift / Aufsichtsrat, Anpassung der Gesellschaftsverträge - einstimmig beschlossen
+- TOP 37: Bauleitplanung
+- TOP 37.1: Stadtbezirk Münster-Mitte
+- TOP 37.1.1: Bebauungsplan Nr. 551 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 37.2: Stadtbezirk Münster-West
+- TOP 37.2.1: Bebauungsplan Nr. 409, Vorhabenbezogene 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 37.2.1.1: Bebauungsplan Nr. 409, Vorhabenbezogene 2. Änderung - Beschluss zur Änderung
+- TOP 37.3: Stadtbezirk Münster-Ost
+- TOP 37.3.1: Veränderungssperre Nr. 106 für den Bereich des Bebauungsplans Nr. 567 - einstimmig beschlossen
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 38.1: Damit Münster nicht baden geht und trotzdem bessere Bäder bekommt - verwiesen
+- TOP 38.2: Resolution zum Katholikentag in Münster
+- TOP 38.3: Keine finanzielle städtische Förderung des Katholikentages 2018
+- TOP 39: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 39.1: Die erfolgreiche Schulsozialarbeit in Münster muss weitergeführt werden! - verwiesen
+- TOP 39.2: Erziehungsauftrag in Schule und Jugendhilfe ,aus einer Hand` - Bildungsqualität sichern und entwickeln - verwiesen
+- TOP 39.3: Für einen Katholikentag in Münster im Jahr 2018
+- TOP 39.4: Münsters Zukunft braucht Bauland - Die Suche danach muss jetzt beginnen - verwiesen
+- TOP 39.5: Forum Wohnen in Münster - verwiesen
+- TOP 39.6: Fahrradschnellweg zwischen Telgte und Münster realisieren - Mobilität der Zukunft gestalten - verwiesen
+- TOP 39.7: Nachhaltiges Bäderkonzept statt Bäderschließungen - verwiesen
+- TOP 40: Verschiedenes
