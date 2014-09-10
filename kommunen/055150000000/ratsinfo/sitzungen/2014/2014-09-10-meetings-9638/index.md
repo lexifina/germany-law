@@ -1,0 +1,77 @@
+# 1. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-09-10T17:05:00+02:00
+- Ende: 2014-09-10T23:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9638
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9638
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00360009.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bestellung eines Schriftführers für die Sitzungen des Haupt- und Finanzausschusses - einstimmig beschlossen
+- TOP 3: Wahl von stellvertretenden Vorsitzenden des Haupt- und Finanzausschusses - mehrheitlich geändert beschlossen
+- TOP 4: Weitere Behandlung verwiesener Ratsanträge
+- TOP 4.1: Antrag Nr. A-R/0022/2014 der SPD-Fraktion im Rat der Stadt Münster vom 25.03.2014 - "Münster inklusiv - ein Stadtplan für Menschen mit und ohne Behinderungen" - einstimmig geändert beschlossen
+- TOP 4.2: Antrag A-R/0006/2014 der CDU-Fraktion an den Rat vom 11.02.2014 - mehrheitlich geändert beschlossen
+- TOP 5: Eintritt in den Bundesverband öffentlicher Zinssteuerung e.V. - einstimmig beschlossen
+- TOP 6: Jahresabschlüsse 2013
+- TOP 6.1: Jahresabschluss 2013 der GML Gewerbepark Münster-Loddenheide GmbH (GML GmbH) - einstimmig beschlossen
+- TOP 6.2: Jahresabschluss 2013 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 6.3: Jahresabschluss 2013 der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 6.3.1: Jahresabschluss 2013 der Westfälische Bauindustrie GmbH (WBI)
+- TOP 6.4: Jahresabschluss 2013 und Wirtschaftsplan 2014 der Institut für vergleichende Städtegeschichte - IStG - GmbH (IStG) - mehrheitlich beschlossen
+- TOP 6.5: Jahresabschluss 2013 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 6.6: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2013 incl. der Feststellung nicht verbrauchter Kapitalrücklagen in den Geschäftsjahren 2012 und 2013 und - einstimmig beschlossen
+- TOP 6.7: Jahresabschluss 2013 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - einstimmig beschlossen
+- TOP 6.8: Konzernabschluss 2013 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 7: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen und Radwegebaus (FöRi-kom-Stra) ab 2015 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Satzung zur Änderung der Hauptsatzung, der Betriebssatzung Münster Markting und der Betriebssatzung citeq - einstimmig beschlossen
+- TOP 9: Besetzung des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 10: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, am Sonntag, dem 30.11.2014 (1. Advent) - ohne Beschlussfassung geschoben
+- TOP 12: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Genehmigung einer Dringlichkeitsentscheidung: - ohne Beschlussfassung geschoben
+- TOP 12.1.1: Genehmigung einer Dringlichkeitsentscheidung:
+- TOP 12.2: Genehmigung einer Dringlichkeitsentscheidung "Sofortmaßnahmen im Nachgang des Unwetters vom 28. / 29. Juli 2014 und finanzielle Auswirkungen auf den städtischen Haushalt" - einstimmig beschlossen
+- TOP 12.3: Genehmigung der Dringlichkeitsentscheidung:Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss Kita St. Mariä Himmelfahrt, Gelmer-Dyckburg - ohne Beschlussfassung geschoben
+- TOP 12.4: 1.Genehmigung der Dringlichkeitsentscheidung:Interimsmaßnahmen zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschlüsse für die Kindertageseinrichtung Burgwall und eine Dependance an der Kardinalstraße, Hiltrup - ohne Beschlussfassung geschoben
+- TOP 12.5: Genehmigung der Dringlichkeitsentscheidung: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für die Kita An der Meerwiese, Coerde - ohne Beschlussfassung geschoben
+- TOP 12.6: Genehmigung der Dringlichkeitsentscheidung: Trägerausschreibung für die Kindertageseinrichtung auf dem Areal der ehem. Oxford-Kaserne - ohne Beschlussfassung geschoben
+- TOP 12.7: Dringlichkeitsentscheidung gem. § 60 GO NW, hier: Zuschuss der Stiftung Siverdes zur Einrichtung eines "Psychosozialen Zentrums für Flüchtlinge" - einstimmig beschlossen
+- TOP 13: Gewerbesteuer bei der Stadt Münster - zur Kenntnis genommen
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2014 - zur Kenntnis genommen
+- TOP 15: NKF-Gesamtabschluss zum 31.12.2011 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 16: Änderung des mit dem "Theater Münster" abgeschlossenen Managementkontraktes aufgrund der steuerlichen Betriebsprüfung - einstimmig beschlossen
+- TOP 17: Übernahme dreier Ausfallbürgschaften für die Stiftungen Magdalenenhospital und Siverdes - einstimmig beschlossen
+- TOP 18: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Münster Marketing, Anpassung - einstimmig beschlossen
+- TOP 19: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2013 - einstimmig beschlossen
+- TOP 20: Planfeststellung nach dem Bundeswasserstraßengesetz für den Ausbau des Dortmund-Ems-Kanals (DEK) bei km 62,405 und km 62,423 (Ersatz der Prinz-Brücke Nr. 66 bei DEK-km 62,405 im Zuge der Stadtstraße Osttor durch eine Geh- und Radwegbrücke bei DEK-km - ohne Beschlussfassung geschoben
+- TOP 20.1: Planfeststellung nach dem Bundeswasserstraßengesetz für den Ausbau des Dortmund-Ems-Kanals (DEK) bei km 62,405 und km 62,423 (Ersatz der Prinz-Brücke Nr. 66 bei DEK-km 62,405 im Zuge der Stadtstraße Osttor durch eine Geh- und Radwegbrücke bei DEK-km
+- TOP 21: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2013 - einstimmig beschlossen
+- TOP 22: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)" - einstimmig beschlossen
+- TOP 23: Neuerrichtung von Bildungsgängen an Berufskollegs in städtischer Trägerschaft zum Schuljahr 2015/2016 - ohne Beschlussfassung geschoben
+- TOP 23.1: Neuerrichtung von Bildungsgängen an Berufskollegs in städtischer Trägerschaft zum Schuljahr 2015/2016
+- TOP 24: Schülerspezialverkehr - ohne Beschlussfassung geschoben
+- TOP 25: Rahmenkonzept Schulentwicklungsplanung - Fortschreibung - ohne Beschlussfassung geschoben
+- TOP 26: Geänderter Wirtschaftsplan 2014/2015 Theater Münster - einstimmig beschlossen
+- TOP 27: plusKITA-Einrichtungen und Sprachförderkitas gemäß 2. Kibiz-Änderungsgesetz - ohne Beschlussfassung geschoben
+- TOP 28: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung-Errichtungs- und Baubeschluss für eine zweigruppige Dependance an der Wienburgstraße - ohne Beschlussfassung geschoben
+- TOP 29: Feststellung der Jahresabschlüsse 2013 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 30: Unternehmensgruppe Altenzentrum Klarastift / Aufsichtsrat, Anpassung der Gesellschaftsverträge - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Mitte
+- TOP 31.1.1: Bebauungsplan Nr. 551 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk West
+- TOP 31.2.1: Bebauungsplan Nr. 409, Vorhabenbezogene 2. Änderung - Beschluss zur Änderung - ohne Beschlussfassung geschoben
+- TOP 31.2.1.1: Bebauungsplan Nr. 409, Vorhabenbezogene 2. Änderung - Beschluss zur Änderung
+- TOP 31.3: Stadtbezirk Ost
+- TOP 31.3.1: Veränderungssperre Nr. 106 für den Bereich des Bebauungsplans Nr. 567 - ohne Beschlussfassung geschoben
+- TOP 32: Verschiedenes
