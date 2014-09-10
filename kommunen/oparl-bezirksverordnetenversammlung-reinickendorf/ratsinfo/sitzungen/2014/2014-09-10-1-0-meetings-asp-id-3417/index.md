@@ -1,0 +1,124 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-09-10T17:00:00+02:00
+- Ende: 2014-09-10T21:35:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3417
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3417
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=78794
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 33. Sitzung der BVV am 10.09.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 33. Sitzung der BVV am 10.09.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 33. Sitzung der BVV am 10.09.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Vorklärwerke für Frohnauer Teiche (Zwischenbericht) - überwiesen
+- TOP 7.3: Integrationskonzept für den Bezirk Reinickendorf (Zwischenbericht) - überwiesen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Prioritätenliste Radverkehr - überwiesen
+- TOP 7.6: Aktive Stadtzentren einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Anonymisierte Bewerbungen - überwiesen
+- TOP 7.8: Kiefheider Weg (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Neue Planungen zur Tegeler Hafeninsel öffentlich in Tegel vorstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Hinweis auf Radfahrer an der B96 (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Maßnahmen gegen mit Graffiti beschmierte Hauswände (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: S-Bahnhof Tegel am Tegel-Center ausschildern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Mit dem Wasser-Taxi zum Strandbad Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Toiletten mit Wickelmöglichkeiten in direkter Spielplatznähe (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.15: Geschwindigkeit auf der Heiligenseestr. häufiger kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: S-Bahnhof Wittenau - Haltepunkt 6-Wagenzüge Richtung Süden verlegen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.18: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Finanzierung der Integrationslotsen I (Zwischenbericht) - überwiesen
+- TOP 7.20: Buslinie 124 Richtung Heiligensee (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.21: Freigabe der Karolinenstraße für den Radverkehr in nördlicher Richtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Jugendsozialarbeit ausweiten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Count-Down-Ampel auch in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.24: Sportunterricht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Sprachcamps im Kiez Auguste-Viktoria-Allee sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Ausstellung "Kinder im Versteck. Verfolgt. Untergetaucht. Gerettet? Berlin 1943 - 1945" auch in Reinickendorf zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: BVG-Anzeigetafeln am Tegel-Center instandsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Keine Tabakwerbung in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Reflektoren in der dunklen Jahreszeit tragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Sitzgelegenheiten vor der Humboldt-Bibliothek (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.31: Pilotprojekt verschlüsselte E-Mail-Kommunikation mit der Verwaltung (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.32: Park & Ride-Parkplätze für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Busspur Kurt-Schumacher-Damm zeitlich ausweiten (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.34: Unterstützung der Schulen mit erhöhter Anzahl von Schülern ohne Deutschkenntnisse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Sanierung der Ellef-Ringnes-Grundschule (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.36: Umleitungsstrecken ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: "Mobiles Learning Center" auch nach Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.38: Straßenbeleuchtung Alter Bernauer Heerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.39: Flüchtlingsarbeit unterstützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.40: Erwachsenenlotsen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.41: Steganlage sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.42: Fahrradständer in der Rollberge-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.43: Beleuchtung am Mittelfeldbecken verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.44: Bezirksinternetangebot "Schwimmbäder" mit www.berlinerbaeder.de verlinken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.45: Zukünftige Organisationsform der beiden Lauterbach-Schulen 12G33 und 12SO3 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.46: Zulässigkeitsvoraussetzungen des Einwohnerantrages "Sanierung der denkmal-geschützten Kleinhaussiedlung am Steinberg" der Mieterinitiative Siedlung am Steinberg vom 26.08.2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Sanierung der Siedlung "Am Steinberg" - beantwortet
+- TOP 8.1.1: Sozialverträgliche Modernisierung der Siedlung am Steinberg - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Anwohner der Siedlung am Steinberg schützen - beantwortet
+- TOP 8.3: Planungen Cité Foch - beantwortet
+- TOP 8.4: Lebensmittelsicherheit in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Sanierung der denkmalgeschützten Kleinhaussiedlung am Steinberg" - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Einwechseln von Wildtieren in Siedlungsgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Öffentlicher Bücherschrank auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Register in Reinickendorf einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Leitbild "Interkulturelle Arbeit der Verwaltung für Reinickendorf" erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Interkultureller Garten in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Auf Kampagne "Stadtbäume für Berlin" hinweisen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Verkehrsfluss in Tegel-Süd verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Rechtssicherheit für Elternvertreterinnen und Elternvertretern in den Berliner Kindertagesstätten schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Eingeschränktes Halteverbot Oranienburger Str., Fahrtrichtung Süd (Lübarser Str. - Schlitzer Str.) - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen II - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (1) - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (2) - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen I - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Tempo 30 für Teilabschnitt Waidmannsluster Damm - in der BVV abgelehnt
+- TOP 10.15: Verkehrssicherheit auf der Heiligenseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Ampelschaltung an der Karolinenstraße/Waidmannsluster Damm überprüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Überarbeitung des § 27 (6) GO BVV - überwiesen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.2: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Modellprojekt BBO Jugendhilfe auch in Reinickendorf bekannt machen - überwiesen
+- TOP 12.2: Einsatz von Doppelstock-Fahrradabstellsystemen an Reinickendorfer Bahnhöfen prüfen - überwiesen
+- TOP 12.3: Fahrradständer vor dem Rathaus - überwiesen
+- TOP 12.4: Schulwegsicherung Miraustraße - überwiesen
+- TOP 12.5: Poller am Zeltinger Platz vorsehen! - überwiesen
+- TOP 12.6: Radverkehrsstrategie des Senats unterstützen - überwiesen
+- TOP 12.7: Sicher Radfahren auf dem Hermsdorfer Damm - überwiesen
+- TOP 12.8: Querparken am Rathaus für ÖPNV-Pendler prüfen! - überwiesen
+- TOP 12.9: Bezirklicher Denkmalrat - überwiesen
+- TOP 12.10: Umgehend Umstrukturierungssatzung für die Siedlung "Am Steinberg" aufstellen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Asylprojekt der Bundesagentur für Arbeit - überwiesen
+- TOP 13.2: Unterstützung der Bildungsprojekte von PROTECT und BGZ über Ehrenämter in Hilfsorganisationen für Kinder und Jugendliche - überwiesen
+- TOP 13.3: Aufenthaltsqualität am U+S-Bahnhof Wittenau verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Buslinie 133 neuer Halt auf Areal am Borsigturm - überwiesen
+- TOP 13.5: Verfügbarkeit von Mieterparkplätzen - überwiesen
+- TOP 13.6: Hängeleuchten in Frohnau auf gelbliche LED-Beleuchtung umstellen - überwiesen
+- TOP 13.7: Naturschutzkonzept - überwiesen
