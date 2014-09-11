@@ -1,0 +1,7 @@
+# TOP 4: B-Plan XIX-48c – Buchholz Ost SO Ludwig-Quidde-Straße: Städtebauliches Konzept für Wohnbaupotenzialfläche
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2014-09-11)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=34143
+- Ergebnis: erledigt
