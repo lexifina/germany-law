@@ -1,0 +1,92 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129773
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129773
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Schaffung von Sitzgelegenheiten für ältere Personen und Gehbehinderte
+- TOP 2.2.2.: Lebensmittelmarkt in der Gerberau
+- TOP 2.2.3.: Einschränkung des absoluten Haltverbotes in der Grandauerstraße - Wendeschleife auf Werktags 7:00 - 19:00 Uhr
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Musizierende Kinder in München Tamino e.V. Talentwettbewerb am 15./16.11.2014
+- TOP 2: (E) Straßensanierung der Peter-Müller-Straße (Ziffer 2 des Antrags) Empfehlung Nr. 14-20 / E 00051 der Bürgerversammlung des Stadtbezirkes 23 Allach-Untermenzing am 24.06.2014
+- TOP 5: Anhörungen
+- TOP 5.1.: Bebauungsplan Nr. 1617c, Pflegeheim Franz-Nißl-Straße; Vorstellung im Bezirksausschuss
+- TOP 5.2.: Lärmminderungsplanung / Lärmaktionsplan München; Lärmschutz an verschiedenen städtischen Straße; Aufnahme verschiedener Straßen in den Lärmaktionsplan (u.a. Aktive Lärmschutzmaßnahmen an der Allacher Straße zwischen Bahn-Unterführung und Elly-Staegmeyer-Straße, Empfehlung Nr. 08-14 / E 00724 aus der Bürgerversammlung vom 26.10.10)
+- TOP 5.3.: Erinnerungsverfahren Lauthstraße und Bleisteinstraße
+- TOP 5.4.: Erinnerungsverfahren Theodor-Fischer-Str. 25 bis 49
+- TOP 5.5.: Grandauerstr. 16: Neubau zweier Wohnhäuser mit Tiefgarage
+- TOP 5.6.: Rueßstraße, Flurstück 577/7: Neubau einer Doppelhaushälfte mit Carport, DHH 3 und DHH 4
+- TOP 5.7.: Absolutes Haltvebot auf der Nordseite der Theodor-Fischer-Straße
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 19.02.14: Reinigungsstandards in Münchner Schulen (Vorlagen Nr. 13887)
+- TOP 6.2.: Kinder- und Jugendhilfeausschuss vom 25.03.14: Kindertagesstätte sonstiger Träger; Haus für Kinder Vesaliusstr. 25 (Sitzungsvorlage Nr. 14-20 / V 14294)
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Gardensharing - Städt. Grundstück Eversbuschstr. 123
+- TOP 7.2.: Gebäudebegrünung in Ihrem Stadtbezirk; Begrünungsbüro Green City
+- TOP 7.3.: Vollversammlung von REGSAM Region West am 06.10.14
+- TOP 7.4.: Schreiben Direktorium vom 20.08.14: München Weiterbauen - München Weiterfahren?, Einladung zu einer Besprechung der BAs mit dem Referat für Stadtplanung und Bauordnung am 23.10.14
+- TOP 7.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.08.14: Regionalgespräch 2014 zwischen dem Referat für Stadtplanung und Bauordnung - HA IV und den BAs am 14.10.14
+- TOP 7.6.: Oktoberfest 2014; Reservierung in der Ratsboxe für die Bezirksausschüsse; Termin für den BA 23 am Montag, 29.09.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (21.07.-27.07.14, 28.07.-03.08.14, 04.08.-10.08.14, 11.08.-17.08.14, 18.08.-24.08.14, 25.08.-31.08.14)
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.08.14: Menzinger Str. 125; Neubau einer Wohnanlage mit Tiefgarage
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Frühaufstr. 15, Schweidnitzer Str. 39, Megerlestr. 14, Löherweg 23, Megerlestr. 2, Allacher Str. 146, Bechtolsheimerstr. 17, Pasinger Heuweg 92, Nikolaus-Rüdinger-Str. 10
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben; Dachauer Str. 667;
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 24.06.14: Radverkehr; Änderung der Radverkehrsführung in Allach, Wilhelm-Zwölfer-Straße
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 24.07.14: Arbeiten im Straßenraum vom 25.08.14-15.09.14,Eversbuschstr. 17-19 (Verbreiterung der Gehbahn)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 17.07.14: Beschilderung Hintermeierstraße / Theodor-Kitt-Straße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 31.07.14: Schank- und Speisewirtschaft "Sicilia", Eversbuschstr. 129 a; unveränderte Fortführung
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 11.08.14: Vollzug des Waffengesetzes; Erlaubnis einer befristeten Nutzungsänderung einer Schießanlage vom 12.09.-13.09.14
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 01.09.14: Antrag auf unveränderte Fortführung der Gaststätte "Herrnbräustüberl"
+- TOP 8.11.: Schreiben Referat für Gesundheit und Umwelt vom 28.07.14: Flyer Infoabende September - Dezember 2014
+- TOP 8.12.: Schreiben Referat für Gesundheit und Umwelt vom 30.07.14: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Lakieranlage für Schienenfahrzeuge / Geb. 0201; hier: Umbau der Lackierkabine für Baugruppen in eine Lok-Lackierkabine
+- TOP 8.13.: Schreiben Baureferat vom 29.07.14: Reinigung der Rampe in der Bauseweinallee
+- TOP 8.14.: Schreiben Baureferat vom 31.08.14: Augustenfelder Straße und Am Lochholz
+- TOP 8.15.: Schreiben Stadtwerke München vom 28.07., 04.08., 11.08., 18.08.14, 25.08.14, 01.09.14: Baumaßnahmen
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 18.08.14: Baumaßnahmen der Stadtwerke; Stromprojekt Hanfgartenstraße, 3. Bauabschnitt Theodor-Fischer-Str. 33-77
+- TOP 8.17.: Schreiben Kulturreferat vom 30.07.14: KulturGeschichtsPfad Allach-Untermenzing
+- TOP 8.18.: Schreiben Kulturreferat vom 13.08.14: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 23.06.14
+- TOP 8.19.: Schreiben Kulturreferat vom 01.09.14: Veranstaltungsübersicht September
+- TOP 8.20.: Schreiben Sozialrefeart vom 29.07.14: Antrag auf Zweckentfremdung von Wohnraum: Wiebekingstr.
+- TOP 8.21.: Schreiben Sozialreferat vom 29.07.14: BV-Anfrag vom 24.06.14, Nr. Q 13: Gesamtplan für soziale Einrichtungen"
+- TOP 8.22.: Schreiben Sozialreferat vom 04.08.14: Genehmigung der Zweckentfremdung von Wohnraum; Angerlohstraße
+- TOP 8.23.: Schreiben Sozialreferat vom 12.08.14: Unterstützung und Befürwortung des BI-Antrages zur Bürgerbeteiligung zur Gesamtkonzeptionierung unseres Stadtviertels, Bürgerantrag der BI Allach l(i)ebenswert vom 03.03.14 (Beschluss BA vom 13.05.14)
+- TOP 8.24.: Schreiben Städtische Friedhöfe München vom 05.08.14: Friedhof Allach, Fehlendes Handswaschbecken in der Toilette
+- TOP 8.25.: Schreiben Direktorium vom 19.08.14: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer (Antrag Nr. 14-20 / B 00111 des BA 15), Herausgabe eines Faltblattes zum Asiatischen Laubholzbockkäfer (Antrag Nr. 14-20 / B 00112 des BA 15)
+- TOP 8.26.: Schreiben Münchner Stadtentwässerung vom 20.08.14: Rohrkanalsanierung Untergiesing-Harlaching, Neuhausen und weitere
+- TOP 8.27.: Schreiben Gleichstellungsstelle für Frauen vom 08.08.14: Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 31.07.14
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Verlängerung der Zone 30 in der Manzostraße bis mindestens auf Höhe der Arztpraxis
+- TOP 9.2.: Entscheidung: (E) Budget der Bezirksausschüsse Verein zur Förderung der Jugendarbeit der Pfarrei Maria Himmelfahrt e.V. Kauf eines Kleinbusses
+- TOP 9.3.: Antrag: Rettungsweg Goteboldstraße
+- TOP 9.4.: Anhörungen: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund
+- TOP 9.5.: Neubau DHH mit Garage (Haus 1-4) Killerstr. 9, Flurstück 200/4
+- TOP 9.6.: Neubau 2er Dreispänner mit Tiefgarage Hintermeierstr. 23 ( / Lautenschlägerstr. 1), Flurstück 560/1
+- TOP 9.7.: Errichtung von 93 Trailer-Stellplätzen im Bereich des abzubrechenden Geb. A 35 und bestehender versiegelter Lagerflächen Dachauer Str. 667, Flurstück 1410/0
+- TOP 9.8.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten (Vorlagen Nr. 959)
+- TOP 9.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren (Vorlagen Nr. 1173)
+- TOP 9.10.: Verschiedenes: Sitzungstermine 2015 des BA 23
+- TOP 9.11.: Umlauf: Schreiben des Referates für Stadtplanung und Bauordnung vom 09.09.14: Bauanträge (01.-07.09.14)
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug derBaumschutzVO: Einzelfällungsanträge: Trixlweg 9, Bergetstr. 4
+- TOP 9.13.: Schreiben Stadtwerke München vom 08.09.14: Baumaßnahmen
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 23.07.14: Schöllstraße; Einrichtung eines Verkehrshelferüberganges
+- TOP 9.15.: Schreiben Sozialreferat vom 04.09.14: Antrag auf Zweckentfremdung von Wohnraum, Angerlohstr.
+- TOP 9.16.: Schreiben Münchner Diskussionsforum für Entwicklungsfragen e.V. vom 10.09.14: Einladung zur Stadtexkursion 01.10.14, 17:00 - 18:30 Uhr
