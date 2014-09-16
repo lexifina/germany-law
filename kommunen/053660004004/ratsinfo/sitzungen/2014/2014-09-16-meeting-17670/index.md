@@ -1,0 +1,51 @@
+# Stadtentwicklungsausschuss (1. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-09-16T18:00:00+02:00
+- Ende: 2014-09-16T20:30:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQrnpzHtdxMDtFsnolMRQn8
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/17670
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWkj3gC0TQOtOw4pICtXJnhyoJiwFu61OT8cNnZ3JB_O/Bekanntmachung_Stadtentwicklungsausschuss_16.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaCqyLC9wAxVsWZkxxGlwgRL_GcX5rHk9miCeR9qOt6a/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_16.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 29.04.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Einführung und Verpflichtung der Stadtverordneten und Auschussmitglieder - Beschluss
+- TOP 4.: Bürgerantrag gem. § 24 Gemeindeordnung NRW (GO NRW) hier: Gestaltung des Kreisverkehrs in Nöthen - Einstimmiger Beschluss:
+- TOP 5.: Pflege und Erhaltung der historischen Stadtmauer hier: Antrag der CDU-Fraktion vom 13.08.2014 - Einstimmiger Beschluss:
+- TOP 6.: Antrag auf Jour-fixe - Berichterstattung zum City - Outlet Bad Münstereifel Antrag der CDU-Fraktion vom 22.08.2014 - Einstimmiger Beschluss:
+- TOP 7.: Parken auf dem Gehweg in der Trierer Straße Höhe Haus-Nr. 23; hier: Antrag der SPD-Fraktion vom 21.01.2014 - Beschluss mit 9 Ja-zu 5-Nein-Stimmen:
+- TOP 8.: Konzept zur Minderung von Verkehrslärm, im Speziellen von Motorrädern; hier: Antrag der SPD-Fraktion vom 25.03.2014 - Einstimmiger Beschluss:
+- TOP 9.: Verkehrsführung und Infrastruktur hier: Antrag der UWV-Fraktion vom 28.08.2014
+- TOP 10.: Stadtentwicklungsausschuss hier: Antrag der UWV-Fraktion vom 28.08.2014
+- TOP 11.: Vorfahrtsreglung Houverath/Verkehrsberuhigung Limbach hier: Antrag der UWV-Fraktion vom 28.08.2014
+- TOP 12.: Umsetzung Zusagen hier: Antrag der UWV-Fraktion vom 28.08.2014
+- TOP 13.: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung) - Einstimmig Beschluss: 
+- TOP 13.1: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung); hier: Rechtliche Voraussetzungen für Bewohner- bzw. Anwohnerparkplätze (u. a. Antrag der UWV-Fraktion vom 28.08.2014)
+- TOP 13.2: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung); hier: Schreiben einiger Gewerbetreibenden und Freiberufler im Bereich des Werther Tores
+- TOP 14.: 4. Änderung des Bebauungsplanes Nr. 6 "Industriegebiet Iversheim" hier: Vorstellung des Vorhabens, Durchführung der Vorverfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss:
+- TOP 15.: Kirspenich, Hardtburgstraße hier: Vorstellung eines Bebauungskonzepts, Durchführung der Vorverfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss:
+- TOP -: Kirspenich, Hardtburgstraße hier: Vorstellung eines Bebauungskonzepts, Durchführung der Vorverfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Beschluss
+- TOP 16.: 25. Änderung des Flächennutzungsplanes für die Ortslagen Hummerzheim, Bruchgartenweg und Reckerscheid, An der Haag hier: Abwägungsbeschlüsse, abschließender Beschluss - Einstimmiger Empfehlungsbeschluss:
+- TOP 17.: Satzung der Stadt Bad Münstereifel über die Einbeziehung einzelner Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Reckerscheid im Bereich "An der Haag" (Ergänzungssatzung) hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss:
+- TOP 18.: 27. Änderung des Flächennutzungsplanes für die Ortslage Kalkar-Wohnbaufläche Romulusstraße" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 19.: Aufhebung des Bebauungsplanes Nr. 59 "Kalkar-Friedhof" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 20.: 4. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Die Beratung und Beschlussfassung zu diesem Tagesordnungspunkt wird vertagt.
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Burg Bad Münstereifel hier: verschiedene Bau- und Gestaltungsmaßnahmen - Unter Aufhebung der Tagesordnung beschließt der Ausschuss, diesen Punkt in der nächsten Sitzung des Ausschusses als Tagesordnungspunkt zu beraten.
+- TOP 22.: Anfragen und Mitteilungen
+- TOP 22.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22.2: Satzung über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Soller gemäß § 34 Abs. 4 Satz 1 Nr. 3 BauGB für den Bereich "Zum Weitblick" und "Rainstraße" (Ergänzungssatzung) - Die Ausführungen werden zur Kenntnis genommen.
+- TOP 22.3: Bebauung des Grundstückes Gemarkung Hohn, Flur 31, Flurstück 22/2 - Bad Münstereifel-Witscheiderhof, Wernerstraße 6 - Die Ausführungen werden zur Kenntnis genommen. Ausschussmitglied Anton Schmitz ist gegen dieses Bauvorhaben und nimmt dies auch nicht zur Kenntnis.
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Parkplätze auf dem Grundstück Gemarkung Münstereifel, Flur 5, Nr. 1064, Delle; hier: Aufhebung eines Pachtvertrages - Beschluss
+- TOP 2.: Verwertung des Grundstücks Gemarkung Münstereifel, Flur 1, Nr. 4710 - Beschluss bei 1 Enthaltung:
+- TOP -: Verwertung des Grundstücks Gemarkung Münstereifel, Flur 1, Nr. 4710 - Beschluss
+- TOP 3.: Anfragen und Mitteilungen
