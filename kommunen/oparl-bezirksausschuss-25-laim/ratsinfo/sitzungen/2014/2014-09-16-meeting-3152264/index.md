@@ -1,0 +1,80 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152264
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152264
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Beschlussvorlage für den Stadtrat bzgl. "Gartenstädte; Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick"; Erläuterung durch Vertreter des Planungsreferates
+- TOP 1.2.1.: Grünanlage Agricolastraße / Geßlerstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Lebenswertes Laim
+- TOP 2.2.: Bündnis 90 / Die Grünen: Gartenstädte; Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick (vertagt aus der BA-Sitzung am 05.08.14)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.715 ? für die Beschaffung eines Schranks; Antragsteller: Laimerspielmäuse e.V. (Sitzungsvorlage Nr. 14-20 / V 01101) - <div>vertagt</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 976,05 ? für Ausbildungsfahrt für StreitschlichterInnen vom 06. - 10.10.14; Antragsteller: STÜPS Laim, Schulsozialarbeit (Sitzungsvorlage Nr. 14-20 / V 01120) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 11.08.14: Frühschoppen am 27.09.14 auf dem Laimer Anger
+- TOP 4.2.: Ludwig-Richter-Str. 23: Fällung von 2 Pappeln
+- TOP 4.3.: Wilhelm-Riehl-Str. 16-32: Fällung von 2 Hainbuchen
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 11.06.14: Camerloherstraße; Haltverbot (vertagt aus der BA-Sitzung am 01.07.14)
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 19.08.14: Austausch von Lichtzeichenanlagen; Burgkmair- / Zschokkestraße und Friedenheimer- / Gotthardstraße
+- TOP 4.6.: Schreiben Baureferat vom 12.06.14: Projekt Aindorferstraße zwischen Fürstenrieder Straße und Guido-Schneble-Straße (vertagt aus der BA-Sitzung vom 01.07.14)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 53-53a: DG-Ausbau, Aufstockung Seitengebäude, Anbau Balkone; hier: Bau- und Freiflächengestaltungspläne
+- TOP 5.2.: Brosamerstr. 19: Neubau eines Einfamilienhauses mit Garage; hier: Bau- und Baumbestandspläne
+- TOP 5.3.: Berchemstr. 34: Erweiterung eines Mehrgenerationenhauses; hier: Baupläne
+- TOP 5.4.: Agricolastraße: Neubau 3er Wohngebäude (90 WE) mit Tiefgarage sowie Verbindungsbauten zur Perhamerstr. 78 d + f / Tektur; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 20.08.14: München Weiterbauen - München Weiterfahren?, Einladung zu einer Besprechung der BAs mit dem Referat für Stadtplanung und Bauordnung am 23.10.14
+- TOP 6.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.08.14: Regionalgespräch 2014 zwischen dem Referat für Stadtplanung und Bauordung - HA IV und den Bezirksausschüssen am 23.09.14
+- TOP 6.3.: Schreiben Direktorium vom 22.08.14: Oktoberfest 2014; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse; Termin für den BA 25 Laim am 03.10.14
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 30.07.14
+- TOP 7.2.: BA-Sitzung vom 05.08.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 25.07.14: Zuwendung aus dem Budget des BA 25 Laim; Verwendungsnachweis - Maitanz am 01.05.14; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.2.: Schreiben Direktorium vom 28.07.14: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Die Bärchen e.V.
+- TOP 8.3.: Schreiben Direktorium vom 19.08.14: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer (Antrag Nr. 14-20 / B 00111 des BA 15), Herausgabe eines Faltblattes zum Asiatischen Laubholzbockkäfer (Antrag Nr. 14-20 / B 00112 des BA 15)
+- TOP 8.4.: Schreiben Baureferat vom 22.07.14: S-Bahnhof Laim; Entfernung nicht mehr funktionstüchtiger Fahrräder (Schreiben BA vom 30.06.14)
+- TOP 8.5.: Schreiben Baureferat vom 04.08.14: Projekt Agnes-Bernauer-Straße; Fahrbahnerneuerung zwischen Von-der-Pfordten-Straße und Fischer-von-Erlach-Straße
+- TOP 8.6.: Schreiben Kommunalreferat vom 23.07.14: Jubiläumsstiftung der MÜnchner Bürgerschaft Alte Heimat; Durchführung eines städtebaulichen Entwicklungskonzeptes; Jour fixe bei der GEWOFAG Dienstleistungsgesellschaft mbH
+- TOP 8.7.: Schreiben Referat für Bildung und Sport vom 05.05.14: Errichtung eines Hauses für Kinder mit 3 Kinderkrippen- und 3 Kindergartengruppen an der Hogenberg- / Kirchmairstraße; Genehmigung des Nutzerbedarfprogrammes durch verwaltungsinterne Abstimmung
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.07.14: Faltblatt "Wohnungsmarktdaten München 2013"
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 29.07.14: Agricolastraße; Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.08.14: Fällungsantrag Ludwig-Richter-Str. 34
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.08.14: Agnes-Bernauer-Str. 137; Neubau einer Wohnanlage mit Tiefgarage / Vorbescheid
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.08.14: Landsberger Str. 338; Umbau und Nutzungsänderung eines Bürohauses in eine / ein Jugendherberger / Hostel / Hotel; hier: Forderung nach einem städtebaulichen Gesamtkonzept (Schreiben BA vom 02.07.14)
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.08.14: Landsberger Str. 338; Umbau und Nutzungsänderung eines Bürohauses in eine / ein Jugendherberge / Hostel / Hotel; Tektur
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.08.14: Geh- / Radwegbrücke Pronnerplatz / Nymphenburger Park
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.08.14: Forderungen zur Neuplanung des Grundstücks an der Siglstraße / Brantstraße mit Wohnungen und Kinderbetreuungseinrichtungen; Zwischenmitteilung (Antrag Nr. 08-14 / B 05770 des BA 25 Laim vom 11.03.14)
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.08.14: Camerloherstr. 42; Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid
+- TOP 8.17.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.08.14: Camerloherstr. 67; Errichtung eines Wirtsgartens auf privatem Grund
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 28.07.14: Flyer Infoabende September bis Dezember 2014
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 11.08.14: Arbeiten im Straßenraum; Westendstraße zwischen Nördlinger Straße und Droste-Hülshoff-Straße, Fahrbahnsanierung
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 21.08.14: Generelles Haltverbot für Wohnmobile während des Oktoberfestes (Antrag Nr. 14-20 / B 00282 des BA 25 vom 05.08.14)
+- TOP 8.21.: Schreiben Kulturreferat vom 13.08.14: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 23.06.14
+- TOP 8.22.: Schreiben Gleichstellungsstelle für Frauen vom 08.08.14: Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 31.07.14
+- TOP 8.23.: Bautenliste vom 21.07.-27.07.14 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 53 b) Berchemstr. 34 c) Landsberger Str. 180 d) Altmannstr. 10 2. Änderungsverfahren a) Agnes-Bernauer-Str. 1
+- TOP 8.24.: Bautenliste vom 28.07.-03.08.14 1. Erstantragsverfahren a) Sulzbeckstr. 1 2. Änderungsverfahren a) Landsberger Straße 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 61
+- TOP 8.25.: Bautenliste vom 04.08.-10.08.14 1. Änderungsverfahren a) Agricolastraße
+- TOP 8.26.: Bautenliste vom 11.08.-17.08.14 1. Erstantragsverfahren a) Camerloherstr. 135 b) Isbertstr. 2a c) Landsberger Str. 161 d) Ilmmünsterstr. 63
+- TOP 8.27.: Bautenliste vom 18.08.-24.08.14 1. Erstantragsverfahren a) Geyerspergerstr. 51
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 25.08.14: Baumaßnahmen; Stichtag: 18.08.14
+- TOP 8.29.: Beschluss der Vollversammlung des Stadtrates vom 19.02.14: Reinigungsstandards in Münchner Schulen (Sitzungsvorlage Nr. 08-14 / V 13887)
+- TOP 8.30.: Beschluss der Vollversammlung vom 08.17.14: Quartierbezogene Bewohnerarbeit "Alte Heimat" Nachbarschaftsarbeit im 25. Stadtbezirk Laim (Sitzungsvorlage Nr. 14-20 / V 00003)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 16.07.14: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung, Stand und Ausblick; a) Historische Entwicklung, b) Geltende Rechtslage, c) Lösungsansätze, d) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 00909)
+- TOP 8.32.: Schreiben Kreisjugendring München-Stadt vom 28.07.14: Zusammenfassung BA-Infoveranstaltung am 25.06.14
+- TOP 8.33.: Schreiben Wohnungsgenossenschaft München-West vom 01.08.14: Grundstück ehemaliges Trambahndepot
+- TOP 8.34.: Schreiben GWG vom Juli 2014: Jahresbericht 2013 der GWG München, Corporate Social Responsibility Report 2013
+- TOP 8.35.: Schreiben GEWOFAG vom 04.08.14: Geschäftsbericht 2013 der GEWOFAG
+- TOP 8.36.: Schreiben BA 7 Sendling-Westpark vom 26.08.14: Antrag im BA 25 zum Thema Westpark (Schreiben BA vom 10.06.14)
+- TOP 1.2: Bürgerpost an den BA
