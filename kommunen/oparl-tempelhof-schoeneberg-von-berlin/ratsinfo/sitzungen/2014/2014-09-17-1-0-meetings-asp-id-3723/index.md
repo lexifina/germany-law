@@ -1,0 +1,101 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2014-09-17T17:00:00+02:00
+- Ende: 2014-09-17T21:30:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3723
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3723
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=66040
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohneranfragen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3: Kinder- und Jugendparlament - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Erneuerung des Fußballplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Mädchenumkleidekabinen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Sporthalle Bruno-H.-Bürgel-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Schultoiletten der 1. Gemeinschaftsschule Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Reparatur der Toiletten (der Scharmützelsee-GS) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Renovierung des Eckener-Gymnasiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Protokollgenehmigung - erledigt
+- TOP 5: Unerledigte Drucksachen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Theatersterben im Bezirk - erledigt
+- TOP 5.2: BVV-Beschluss Drucks. Nr. 1453/XVIII – Wer ist für die Täuschung von BVV und Öffentlichkeit verantwortlich? - erledigt
+- TOP 6: Vorlagen der Vorsteherin - (offen)
+- TOP 6.1: Neuzuschnitt von Fachausschüssen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Geisterschüler im Bezirk - erledigt
+- TOP 8.2: Verschleppung der Baumaßnahmen auf dem Breslauer Platz - erledigt
+- TOP 8.3: Planungsdetails Umbau Breslauer Platz - überwiesen
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Antrag für das Städtebauförderprogramm „Aktive Zentren" - überwiesen
+- TOP 9.2: Busverkehr auf dem Werner-Voß-Damm beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Entwidmung der Grünanlage Willmanndamm nur unter den Voraussetzungen nahegelegener Ersatzfläche - städtebaulich-räumlicher Verbesserung der Kreuzung und höherer Aufenthaltsqualität zustimmen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Verfassungsschutz nicht Einladen- Tempelhof-Schöneberg setzt auf vertrauliches Miteinander an unseren Schulen - vertagt
+- TOP 9.5: Sicherung der Schulplatzangebote an den Integrierten Sekundarschulen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Zentrale Landesbibliothek für Tempelhof-Schöneberg sichern! - vertagt
+- TOP 9.7: Wahl einer stellvertretenden Bürgerdeputierten - vertagt
+- TOP 9.8: Inklusion erleichtern – Fachverfahrenssoftware mit entsprechenden Routinen ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Der Rechnungshof und die BVV - vertagt
+- TOP 9.10: Sehbehinderte Menschen in den Rathäusern besser unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.12: "Hier muss geholfen werden" - Obdachlosigkeit am Viktoria-Luise-Platz - vertagt
+- TOP 9.13: Informationsbroschüre zu Bolzplätzen im Bezirk und zur Nutzung von Sportstätten - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Sammeln von Pfandflaschen neben Abfallbehälter - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.16: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.17: Neue Flüchtlingsunterkunft - Willkommenskultur unterstützen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.18: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Strategiekonzept FM - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Klima schützen – Einnahmen verbessern: Prüfen, welche Dachflächen vermietbar sind! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Facility Management konsequent betreiben - Vertragsmanagement der SE FM übertragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Umsetzung des Konjunkturprogramms muss mit angemessener Personalausstattung und ausreichenden Fristen erfolgen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Fläming-Grundschule - Sanierung Sporthalle / Aufstockung berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Unerledigte Drucksachen erledigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: "HAUS am KLEISTPARK" erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Chancen für das Haus am Kleistpark ausloten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Notwendige Sofortmaßnahmen am Haus am Kleistpark umsetzen - Maßnahmen zur Herstellung der Betriebsfähigkeit und Verkehrssicherheit prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Kosten der Maßnahmen der Investitionsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Bauarbeiten an der Grundschule am Barbarossaplatz in den Ferien fortführen und Fenster reparieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Energietag 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Schulsanierungen in bezirklicher Verantwortung belassen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Überarbeitete Auflagenbeschlüsse der BVV Tempelhof-Schöneberg zum Haushaltsplan 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Flächenverbrauch auf dem Tempelhofer Feld für gewerbliche Nutzungen prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Projektantrag an die Engagement Global - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: PsychKG auf den Prüfstand - Evaluation im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Leerstehendes Flughafengebäude temporär für die Kreativwirtschaft öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Gartendenkmal Renée Sintenis Platz bewahren - ohne Änderungen in der BVV beschlossen
+- TOP 11.20: Dem Kieztheater OtonArt unbürokratisch helfen - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: Verlagerung Spielplatz Else-Lasker-Schüler-Straße 8 - ohne Änderungen in der BVV beschlossen
+- TOP 11.22: Der Ortsteil Schöneberg braucht seine Jugendverkehrsschule - ohne Änderungen in der BVV beschlossen
+- TOP 11.23: Abwendungsvereinbarungen in Milieuschutzgebieten prüfen! - überwiesen
+- TOP 11.24: Keine Neu- und Umplanungen für das Grundstück Tempelhofer Weg 63: Hundeauslaufgebiet Schöneberg sichern - vertagt
+- TOP 11.25: Stelle eines/einer Beauftragten für Senioren einrichten - vertagt
+- TOP 12: Vorlagen zur Beschlussfassung - vertagt
+- TOP 13: Mitteilungen zur Kenntnisnahme - vertagt
+- TOP 13.1: Würdige Erinnerung - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Wort halten am Baußnernweg! - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Tempelhof-Schöneberg unterstützt die „Steuer gegen Armut“ - vertagt
+- TOP 13.4: Keine Tabakwerbung auf bezirkseigenen Flächen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Volksentscheide wenn möglich im Zusammenhang mit Wahlen durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Frühzeitige Bürgerbeteiligung zu Vorhaben der Tiefengeothermie im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Beratung für Flüchtlingsfamilien über Schul- und Bildungsabschlüsse - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Appell an den Deutschen Bundestag: Zielvorgaben für Bundesanstalt für Immobilienaufgaben (BIMA) dringend ändern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Feierabendmarkt – der Wochenmarkt für Berufstätige! - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Public Viewing in Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Bedarf der Jugendarbeit in Marienfelde prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Nachbarschaftliches Miteinander und Jugendhilfe im Haus of Fun entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 13.13: Jugendarbeit darf nicht unterfinanziert bleiben - ohne Änderungen in der BVV beschlossen
+- TOP 13.14: Radwege um den Attilaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.15: Verlängerung der Einfädelung am Te-Damm - ohne Änderungen in der BVV beschlossen
+- TOP 13.16: Entwicklungsplanung zur Tagesbetreuung für Kinder in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 13.17: Fortführung des Bebauungsplans 7-66 als vorhabenbezogener Bebauungsplan 7-66VE (Bautzener Brache) für das Grundstück Bautzener Straße 21-24/Yorckstraße 55-56A im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - ohne Änderungen in der BVV beschlossen
+- TOP 14: Termin der nächsten Sitzung - erledigt
