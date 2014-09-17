@@ -1,0 +1,84 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-09-17T17:00:00+02:00
+- Ende: 2014-09-17T22:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2324
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2324
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss Verkehr und Tiefbau - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-59 vom 24.02.2014 ("Krokusstraße / Stubenrauchstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: MASTERPLAN CAMPUS EFEUWEG - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Ausbrüche und Übergriffe von Kunden des Jobcenters Neukölln in den letzten 1 1/2 Jahren - beantwortet
+- TOP 9.2: Verkehrskonzept Bebauung Buckower Felder - beantwortet
+- TOP 9.3: 25 Jahre Städtepartnerschaft mit Usti nad Orlici - beantwortet
+- TOP 9.4: Milieuschutzstudie vorenthalten? - beantwortet
+- TOP 9.5: Impfkampagne an Neuköllner Grundschulen - beantwortet
+- TOP 9.6: Wohngruppenzuschlag für Bewohner von Pflegewohngemeinschaften - beantwortet
+- TOP 9.7: Gehweg wegen Unkraut unpassierbar? - beantwortet
+- TOP 9.8: Unregelmäßigkeiten in Ferienlager? - beantwortet
+- TOP 9.9: Schulsekretariate - beantwortet
+- TOP 9.10: Zustände im Rollbergviertel - schriftlich beantwortet
+- TOP 9.11: Schulanfänger*innen 2014/15 - schriftlich beantwortet
+- TOP 9.12: Sozialarbeit in der Flüchtlingsunterkunft Späthstraße dauerhaft ausreichend? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Interne Weisungen des Jobcenters Neukölln - in der BVV abgelehnt
+- TOP 11.2: Einsicht in die Pflegedokumentation - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Prekäre personelle Ausstattung der Flüchtlingsunterkunft Späthstraße beenden - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Städtischer Friedhof in der Köpenicker Straße in Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Klimaschutzkonzept - in der BVV abgelehnt
+- TOP 11.6: Alle geplanten Psychiatrie-Betten im Krankenhaus Neukölln einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Milieuschutz - mit Änderungen in der BVV beschlossen
+- TOP 11.8: Einschulung 2015/16 - in der BVV abgelehnt
+- TOP 11.9: Lokale Bildungsverbünde - in der BVV abgelehnt
+- TOP 11.10: Sprachförderung an Schulen - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Wohngemeinschaften für pflegebedürftige Senioren/innen - beantwortet
+- TOP 12.2: Umsetzung der Leitlinie zum Abschluss städtebaulicher Verträge in Berlin - beantwortet
+- TOP 12.3: Entwicklung der Zielzahl "Personal" in den Bezirken - beantwortet
+- TOP 12.4: Ex-Frauenklinik: Bürgerparizipation und Sozialwohnungen - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Park and Ride auf dem Marktplatz Britz-Süd - überwiesen
+- TOP 14.2: Tee- und Wärmestuben in Neukölln sichern - zurückgezogen
+- TOP 14.3: Integrationspreis - in der BVV abgelehnt
+- TOP 14.4: Mietpreis- und Belegungsbindung festschreiben - überwiesen
+- TOP 14.5: Personalabbau stoppen, Personalentwicklung starten - überwiesen
+- TOP 14.6: SAPV-Versorgung in Neukölln sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Schlaumäuse für Kitas - überwiesen
+- TOP 14.8: Medienkisten für Willkommensklassen in Neuköllner Grundschulen - überwiesen
+- TOP 14.9: Wachschutz abschaffen - überwiesen
+- TOP 14.10: Ausschreibung für Wachschutz an Schulen aussetzen - überwiesen
+- TOP 14.11: Diskriminierung in der Bezirksverordnetenversammlung keinen Raum geben - überwiesen
+- TOP 14.12: Ex-Frauenklinik - Bürgerpartizipation und Sozialwohnungen erreichen - überwiesen
+- TOP 14.13: Milieuschutzstudie Reuterkiez öffentlich machen - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Zuständigkeit in den Bereichen Soziales und Gesundheit/Sozialpsychiatrischer Dienst - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Mehr Sicherheit für Fußgänger am Wildenbruchplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Neukölln fahrrad- und fußgänger/innenfreundlich (7): Hinweis auf Rechtsabbieger/innen an der Autobahnauffahrt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Kündigungssperrfrist auf sieben Jahre verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Umstellen der Fußgängerampel Johannisthaler Chaussee/Ecke Petunienweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Zugang "Tempelhofer Freiheit" im Südosten erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Separate Abbiegerampel in LZA Buckower Damm/Mohriner Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Mobile Geschwindigkeitsmessanlage im Buckower Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Absolutes Haltverbot Krokusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Halteverbot Krokusstraße Nr.57 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Bebauung Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Sehbehinderten Menschen im Rathaus den Weg weisen - mit Abschlussbericht zur Kenntnis genommen
