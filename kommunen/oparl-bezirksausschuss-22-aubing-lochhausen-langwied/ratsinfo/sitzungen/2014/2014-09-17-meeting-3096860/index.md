@@ -1,0 +1,103 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3096860
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3096860
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Müllhaufen am See an der Goteboldstraße
+- TOP 2.2.: Bauprojekt "Wohnen in der Gleisharfe"
+- TOP 2.3.: Baustelle Limesstraße, Wegfall der Parkplätze vor der Fa. Reicherzer
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 2.2.3: Vorstellung Bebauungsplan Nr. 2068 Freiham durch Vertreter des Planungsreferates
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Am Loferfeld 33 - Krähenweg 49 - Neideckstr. 38 - Langwieder Hauptstr. 10 - Schermannsweg 1 - Schermannsweg 5 - Banzweg 1 - Kastelburgstr. 22 b - Moritz-Bloch-Weg 28 - Sigererstr. 11
+- TOP 3.2.: Genehmigung von Baumfällungen: - Müllerstadelstr. 169 - 171
+- TOP 4: Anträge
+- TOP 4.1.: Beidseitige Nutzung des Fahrradweges auf Teilstücken der Bergsonstraße (Langwieder Unterführung)
+- TOP 4.2.: Verbesserung der Bleuchtungssituation auf dem Fußweg der Georg-Böhmer-Straße zwischen Altostraße und Giglweg
+- TOP 4.3.: Bebauung von Kaltluftentstehungsgebieten in Freiham - Auswirkungen für das Klima im 22. Stadtbezirk und das Klima in der LH München?
+- TOP 4.4.: Reinigung der beiden Bereiche der Fahrradständer am S-Bahnhof Westkreuz
+- TOP 4.5.: Situation für Fahrradfahrer am S-Bahnhof Westkreuz
+- TOP 4.6.: Errichtung von Pollern an den Zufahrten zur Aubinger Lohe
+- TOP 4.7.: Bürgerbeteiligung zu den Wettbewerbsergebnissen Bildungscampus Freiham
+- TOP 4.8.: Durchführung einer Stadtteilwoche oder Kulturtage im 22. Stadtbezirk
+- TOP 4.9.: S-Bahn - Regionalbahn
+- TOP 4.10.: S-Bahnen nach Freiham-Nord, -Süd und Lochhausen (S4, S8 und S4)
+- TOP 4.11.: S-Bahn / U-Bahn - Straßenbahn nach Freiham
+- TOP 4.12.: Querungsanlage Bergsonstraße
+- TOP 4.13.: Verschönerung der Betonwände in der Freihamer Bahnunterführung + Schreiben Baureferat vom 05.09.14
+- TOP 5: Entscheidungen
+- TOP 1: Schaffung öffentlicher Toiletten an Bahnhöfen und öffentlichen Plätzen Empfehlung Nr. 14?20 / E 00067 der Bürgerversammlung des Stadtbezirkes 22 ? Aubing-Lochhausen-Langwied am 03.07.2014
+- TOP 2: Schaffung einer öffentlichen Toilette am S-Bahnhof Lochhausen Empfehlung Nr. 14-20 / E 00068 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 03.07.2014
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Erlaubnisbescheid für Festzug und Standkonzert am 04.09.2014 in der Schwemmstr., Schr. KVR vom 27.08.14
+- TOP 6.2.: Vergrößerung des Angebots an öffentlichen Grünflächen; Ausgleich des Verlust an Grünflächen durch Nachverdichtung im Stadtbezirk, Schr. Planungsreferat vom 07.08.14
+- TOP 6.3.: Stadtteilcheck "Auf Herz und Rampen prüfen" - Ampelanlagen - Montagehöhe der Zusatzeinrichtung für Sehbehinderte (ZEB), Schr. Baureferat vom 04.08.14
+- TOP 6.4.: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 23.06.2014, Schr. Kulturreferat vom 13.08.14
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Halle für sportliche Aktivitäten, Schr. Referat für Bildung und Sport vom 22.08.14
+- TOP 6.2.: Kinderhaus an der Schussenrieder Straße, Schr. Referat für Bildung und Sport vom 06.08.14
+- TOP 6.3.: Errichtung eines Hauses für Kinder an der Aubing-Ost-Str. (Standort 2, Süd); Verpflegung, Schr. Referat für Bildung und Sport vom 11.08.14
+- TOP 6.4.: Satzung über den Besuch der Tagesheime der LH München (Tagesheimsatzung), Schr. Referat für Bildung und Sport vom 14.08.14
+- TOP 6.6.: Fragenkatalog Schulsituation, Schr. Referat für Bildung und Sport vom 11.07.14 (vertagt aus 08/14)
+- TOP 6.7.: Anfrage zur Errichtung von Kinderbetreuungseinrichtungen, Aubing-Ost-Str., Schr. Referat für Bildung und Sport vom 07.08.14 und 05.09.14 (vertagt aus 08/14)
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Erinnerungsverfahren: Fahrbahnsanierung Am Langwieder Bach 91 - 103 von Negrellistr. bis zur Lochhausener Str., Anhörung Baureferat vom 14.08.14
+- TOP 6.2.: Verkehrsrechtliche Anordnung, hier: Hans-Stützle-Str., allgemeiner Behindertenparkplatz, Ladezone, Kurzparkzone, Anhörung KVR vom 27.08.14
+- TOP 6.3.: Erinnerungsverfahren, hier: Fahr- und Gehbahnsanierungsarbeiten Wolfsberger Str. 1-21, Anhörung Baureferat vom 04.09.14
+- TOP 6.1.: Fußgängerüberweg Altostr. / Giglweg, Schr. KVR vom 26.08.14
+- TOP 6.2.: Umbau der Kreuzung und Einbau einer Signalanlage Limesstr. / Aubinger Str., Schr. Baureferat vom 25.08.14
+- TOP 6.3.: Verkehrssituation Langwieder Hauptstr. / Eschenrieder Str. Haltverbot Langwieder Hauptstr. 7 - 11, Schr. KVR vom 11.08.14
+- TOP 6.4.: Straßenausbesserungsarbeiten Hellensteinstr. 1 h - 3, Schr. Baureferat vom 13.08.14
+- TOP 6.5.: Einrichtung eines Haltverbotes an der T-Kreuzung Hellensteinstr. / Reußensteinstr., Schr. PI 45 vom 19.08.14
+- TOP 6.6.: Baustellenbeschilderung am Bahnhof Westkreuz; Verkehrssicherheit Kreuzung Radolfzeller- / Aubinger Str., Schr. PI 45 vom 21.08.14
+- TOP 6.7.: Fahrbahnsanierung Goteboldstraße zwischen Müllerstadelstr. und Parkplatz vom 15.09.-26.09.2014, Schr. Baureferat vom 28.08.14
+- TOP 8: Verfüllung der kleinen Unterführung und Errichtung eines Überganges an der Kreuzung Limes- / Bodenseestraße Empfehlung Nr. 08-14 / E 01402 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 26.06.2012 Kreuzung Brunhamstraße / Bodenseestraße; Einbau einer Rechtsabbiegespur (Antrag 3) Empfehlung Nr. 08-14 / E 01848 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 25.06.2013, Schr. Baureferat vom 07.08.14
+- TOP 8.6.4: UA Planung, Bauen, Umwelt
+- TOP 8.1.: Bauleitplanung der Gemeinde Gröbenzell, Bebauungsplan Nr. 8 Q, Verfahren nach §§ 13a, 4 Abs. 2 BauGB, Anhörung Planungsreferat vom 27.08.14
+- TOP 8.2.: Bergsonstr. 168, Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung Planungsreferat vom 12.08.14
+- TOP 8.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2086, Trimburgstr. (südlich), Am Gleisdreieck (westlich), Voglerstr. (nördlich), Leisaustr. (östlich) A) Bekanntgabe des Ergebnisses des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs "ehemaliges Dornier-Gelände Süd" B) Weiteres Vorgehen, Anhörung Planungsreferat vom 07.08.14 (vertagt aus 08/14)
+- TOP 8.4.: Bebauungsplan mit Grünordnung Nr. 2068, Gemeringer Weg (südlich), Freihamer Weg (westlich), Kunreuthstr. (westlich), Wiesentfelser Str. (westlich), Anton-Böck-Str. (beiderseits), S-Bahnlinie München - Herrsching (nördlich), Bodenseestr. (nördlich), verlängerte Freihamer Allee (östlich), Anhörung Planungsreferat vom 08.08.14 (vertagt aus 08/14)
+- TOP 8.5.: Bergsonstr. 168-170, Neubau 3er Mehrfamilienhäuser mit Tiefgarage, Anhörung Planungsreferat vom 04.09.14
+- TOP 8.1.: Baufälle im 22. Stadtbezirk vom 04.08.-10.08.14, 11.08.-17.08.14, 18.08.-24.08.14, Schr. Planungsreferat vom 11.08.14, 19.08.14, 25.08.14
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 11.08.14, 18.08.14, 25.08.14
+- TOP 8.3.: Abfallentsorgungsanlage der Thyssen Dück GmbH & Co. KG, Rupert-Bodner-Str. 25, München - Verlegung des Erörterungstermins, Schr. Referat für Gesundheit und Umwelt, 22.08.14
+- TOP 8.4.: Bebauungsplan Nr. 1998b Gleisharfe Neuaubing, Schr. Planungsreferat vom 28.07.14
+- TOP 8.5.: Zuschnitt der Sträucher am Fußweg Überlinger Weg / Bodenseestr., Schr. Baureferat vom 14.08.14
+- TOP 8.6.: Freie Gewerbeflächen Kiefernhain Freiham, Schr. Kommunalreferat vom 18.08.14
+- TOP 8.7.: Aufseßer Str. 10, Ensemble "Siedlung am Gößweinsteinplatz", Abbruch und Neubau in der Aufseßer Str. 10, Schr. Planungsreferat vom 22.08.14
+- TOP 8.8.: Baumaßnahmen der SWM, Stromprojekt Limesstraße, Schr. SWM vom 27.08.14
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtshäusern in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund, Anhörung Direktorium vom 02.09.14
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebs: - "LH München", Lochhausener Str. 124, Schr. KVR vom 20.08.14
+- TOP 8.2.: Anträge BA 15 Trudering-Riem: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park; Herausgabe eines Faltblattes der LHM zum Asiatischen Laubholzbockkäfer, Schr. Direktorium vom 19.08.14
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Pretzfelder Str., Schr. Sozialreferat vom 08.08.14 - Limesstr., Schr. Sozialreferat vom 21.08.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Errichtung eines Zauns entlang des Metro-Parkplatzes / Gleisdreieck und regelmäßige Abfallbeseitigung, Schr. Metro vom 05.09.14
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kommunalausschusses vom 25.09.14: Straßenbenennung im 22. Stadtbezirk; Konstanze-Vernon-Straße; Ilse-Fehling-Straße, Rosemarie-Fendel-Bogen, Monica-Bleibtreu-Weg, Gret-Palucca-Weg, Eva-Vaitl-Weg
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Sitzungstermine 2015 des BA 22
+- TOP 11.2.: Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 31.07.2014, Schr. Gleichstellungsstelle für Frauen vom 08.08.14
+- TOP 11.3.: Regionalgespräche 2014 zwischen dem Referat für Stadtplanung und Bauordnung - HA IV - und den Bezirksausschüssen am 14.10.2014, Schr. Planungsreferat vom 19.08.14
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 22.10.14 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
