@@ -1,0 +1,87 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-18T14:00:00+02:00
+- Ende: 2014-09-18T20:05:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8435
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8435
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00221655.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00221655.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00221655.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung von Oberbürgermeister Geisel - zur Kenntnis genommen
+- TOP 2: Verpfl. RM - zur Kenntnis genommen
+- TOP 3: Anerkennung TO - einstimmig beschlossen
+- TOP 4: Genehmigung NS - einstimmig beschlossen
+- TOP 5: Gültigkeit der Wahl der Oberbürgermeisterin/des Oberbürgermeisters, der Kommunalwahlen und der Integ - einstimmig beschlossen
+- TOP 6: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 7.1: Anfrage Rf El Fassi: Situation im Straßenverkehrsamt - beantwortet
+- TOP 7.2: Anfrage CDU: Schaffung eines Archiv- und Depotzentrums an der Mauerstraße - beantwortet
+- TOP 7.3: Anfrage Die Linke: Strom- und Wassersperren in Düsseldorf - beantwortet
+- TOP 7.4: Anfrage des Ratsherrn Maniera: Errichtung der Pädophilen-Ambulanz im Uni-Klinikum - schriftlich beantwortet
+- TOP 7.5: Anfrage des Ratsherrn Maniera: Wohnraumsituation - schriftlich beantwortet
+- TOP 7.6: Anfrage CDU: Wasserskulptur von Prof. Heinz Mack auf dem Platz der Deutschen Einheit - schriftlich beantwortet
+- TOP 7.7: Anfrage des Ratsherrn Dr. Wlecke: Pensionsrückstellungen für Vorstandsmitglieder der Stadtsparkasse - schriftlich beantwortet
+- TOP 7.8: Anfrage des Ratsherrn Dr. Wlecke: Verluste aus "derivativen Finanzierungsinstrumenten" bei der SSK - schriftlich beantwortet
+- TOP 7.9: Anfrage des Ratsherrn Vogel: Jahresabschluss 2013 der Stadtsparkasse Düsseldorf: Pensionsrückstellun - schriftlich beantwortet
+- TOP 7.10: Anfrage des Ratsherrn Vogel:Verschuldung und Netto-Finanzposition der Stadt Düsseldorf zum 31. Juli - schriftlich beantwortet
+- TOP 7.11: Anfrage des Ratsherrn Blanchard: Kunststoffbänke auf dem Schadowplatz - schriftlich beantwortet
+- TOP 7.12: Anfrage desr Ratsfraktion DIE LINKE: Flüchtlinge in Düsseldorf - vertagt
+- TOP 8: Einbringung des Haushaltsplanentwurfs 2015 - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 10: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 11: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - - zur Kenntnis genommen
+- TOP 12: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landesha - zur Kenntnis genommen
+- TOP 13: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 14: ARTIG Zentrale für Culturelle Entwicklung/Bericht - zur Kenntnis genommen
+- TOP 15: PrüfungsO Angestellte - einstimmig beschlossen
+- TOP 16: PrüfungsO AusbildereignungsVO - einstimmig beschlossen
+- TOP 17: 4. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - zur Kenntnis genommen
+- TOP 18: Lokale Agenda in Düsseldorf - mehrheitlich abgelehnt
+- TOP 19: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 20: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 21: Genehmigung eines 60er-Beschlusses: Ausweichparkplätze Messe Caravan Salon - einstimmig beschlossen
+- TOP 22: Neuwahl einer Schiedsfrau - einstimmig beschlossen
+- TOP 23: Wiederwahl des Schiedsmannes Hans Ulrich Schul - einstimmig beschlossen
+- TOP 24: Entsendung von Mitgliedern in den Ausschuss des Deichverbandes - Neue Deichschau Heerdt für die Amts - einstimmig beschlossen
+- TOP 25: Entsendung von Vertreterinnen und Vertretern der Ratsfraktionen in die Düsseldorfer Gesundheitskonfe - einstimmig beschlossen
+- TOP 26: Entsendung von Vertreterinnen und Vertretern der Ratsfraktionen in den Vorstand der Psychosozialen - einstimmig beschlossen
+- TOP 27: Aufsichtsrat Industrieterrains Düsseldorf-Reisholz AG - mehrheitlich beschlossen
+- TOP 28: Gesellschafterrat IDR Public Management GmbH - mehrheitlich beschlossen
+- TOP 29: Aufsichtsrat Rheinbahn AG - einstimmig beschlossen
+- TOP 30: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 31: Kommission nach § 32 b Luftverkehrsgesetz - einstimmig beschlossen
+- TOP 32: Aufsichtsrat Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 33: Beirat Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 34: Aufsichtsrat Flughafengesellschaft Mönchengladbach GmbH - einstimmig beschlossen
+- TOP 35: Aufsichtsrat der Flughafen Düsseldorf Ground Handling GmbH - einstimmig beschlossen
+- TOP 36: Verwaltungsrat der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 37: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes - mehrheitlich beschlossen
+- TOP 38: Aufsichtsrat Regiobahn Fahrbetriebsgesellschaft mbH - einstimmig beschlossen
+- TOP 39: Sportbeirat der Düsseldorf Congress Sport & Event GmbH - einstimmig beschlossen
+- TOP 40: Umbesetzungen von Vertretern der Verwaltung nach § 113 Abs.2 GO NRW - zur Kenntnis genommen
+- TOP 41: Ausschussumbesetzungen - einstimmig beschlossen
+- TOP 42: Benennung eines Platzes - zurückgezogen
+- TOP 43: Plan Nr. 01/002 Münsterstraße/Nordstraße - 1. Verlängerung Veränderungssperre - einstimmig beschlossen
+- TOP 44: B-Plan 02/003 -Fachmarktzentrum Werdener Straße- - einstimmig beschlossen
+- TOP 45: B-Plan Nr. 01/006 - Golzheimer Siedlung - einstimmig beschlossen
+- TOP 46: BPl03/010-Südlich Franziusstr.- § 13, Stell.;Änd.;Satzung - einstimmig beschlossen
+- TOP 47: 132. FNP-Änderung nördlich Suitbertusstr. Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 48: Anträge - zur Kenntnis genommen
+- TOP 48.1: Antrag Die Linke: Zunahme rechter Gewalt in Düsseldorf - zur Kenntnis genommen
+- TOP 48.2: Antrag Die Linke: Bürgermeister für Frieden - Mayors for Peace - mehrheitlich beschlossen
+- TOP 48.3: Antrag Die Linke: TTIP verhindern - vertagt
+- TOP 48.3.1: ÄA Bü90/Grü: TTIP verhindern - vertagt
+- TOP 48.3.2: ÄA von CDU, SPD, BÜ90/GRÜ, FDP, DIE LINKE: Unterbringung und Betreuung von Asylbewerbern - einstimmig beschlossen
+- TOP 48.4: Antrag CDU: Düsseldorfer Handlungskonzept zur Unterbringung und Betreuung von Asylbewerrbern - zurückgezogen
+- TOP 48.5: Antrag CDU: Stationäre Pflege in Düsseldorf sichern - zur Kenntnis genommen
+- TOP 48.6: Antrag CDU: Kriterienkatalog des NRW-Umweltministeriums „Bürgerbäume“ zur Schadenbeseitigung nach Or - mehrheitlich abgelehnt
+- TOP 48.7: Antrag der Ratsfraktion DIE LINKE: Kostenfreies und flächendeckendes WLAN in Düsseldorf - zurückgezogen
+- TOP 48.8: Antrag der Ratsfraktion DIE LINKE: Konzept zur Unterbringung und Betreuung von Flüchtlingen - zurückgezogen
