@@ -1,0 +1,64 @@
+# 103. Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2014-09-18T17:00:00+02:00
+- Ende: 2014-09-18T20:15:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2014-RAT-81
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2014-RAT-81
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2014-RAT-81
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: 5. Änderung der Hauptsatzung der Stadt Castrop- Rauxel hier: §12 Integrationsrat
+- TOP 3: Entwurf der Haushaltssatzung 2015 und des Haushaltsplans 2015 einschließlich der Anlagen
+- TOP 4: Haushaltssanierungsplan 2012 - 2021 Fortschreibung für das Haushaltsjahr 2015
+- TOP 5: Umsetzung des Ratsbeschlusses zur Erstellung eines "Lokalen Aktionsplans Inklusion"; hier: Gründung einer Steuerungsgruppe
+- TOP 6: Erste Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2014
+- TOP 7: Beschluss über den Einspruch vom 27.06.2014 gegen die Gültigkeit der Wahl zur Vertretung der Stadt Castrop-Rauxel am 25.05.2014 sowie über die Gültigkeit der Wahl von Amts wegen gemäß § 40 Abs. 1 lit. d) KWahlG
+- TOP 8: Beschluss über die Gültigkeit der Wahl zum Integrationsrat vom 25.05.2014 von Amts wegen gem. § 40 Abs. 1 lit. d) KWahlG
+- TOP 9: Sachstandsbericht Haushaltssanierungsplan 2014 - Stand 31.07.2014
+- TOP 10: Haushaltswirtschaftliche Sperre gemäß § 24 GemHVO NRW
+- TOP 11: Wahl eines Stellvertreters für Herrn Bürgermeister Beisenherz für die Versammlung des Sparkassenzweckverbandes
+- TOP 12: Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 61.01.525700 - Erstattung an sonstige öffentliche Sonderrechnungen - in Höhe von 300.000 €.
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 Satz 2 GO NRW zur Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 21.43.531991 (Zuschüsse an andere Bereiche aus dem Programm "Geld statt Stelle")
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 Satz 2 GO NRW zur Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 21.21.525300 (Erstattungen an Gemeinden und Gemeindeverbände)
+- TOP 15: Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 21.21.525300 (Erstattungen an Gemeinden und Gemeindeverbände)
+- TOP 16: Vierte Änderung zur Satzung der Stadt Castrop-Rauxel über die Erhebung von Verwaltungsgebühren
+- TOP 17: Bereitstellung zusätzlicher Haushaltsmittel bei der Buchungsstelle 31.04.533805 - lfd. Hilfen Asylbewerber Typ A - hier: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 18: Bereitstellung zusätzlicher Haushaltsmittel für laufende Hilfen Asylbewerber
+- TOP 19: Genehmigung von Dringlichkeitsentscheidungen zur Bereitstellung zusätzlicher Mittel in Höhe von 700.000 € für das Haushaltsjahr 2014 bei der Buchungsstelle 55.01.523200 (Aufwand für Unterhaltung des Infrastrukturvermögens)
+- TOP 20: Einrichtung zusätzlicher Kindergartengruppen in der AWO-Kita Wittenberger Straße und in der evangelischen Kita Emscherbruch im Kindergartenjahr 2014/2015
+- TOP 21: +++ Vorlage wurde nicht behandelt und durch die Vorlage 2014/358 ersetzt, die am 02.12.14 behandelt wurde +++ Neugestaltung des Marktplatzes in der Altstadt Castrop-Rauxel - Beantragung von Zuwendungen Vorlage ist noch nicht veröffentlicht worden.
+- TOP 22: Änderungsantrag der SPD/ Bündnis90 Die Grünen und FDP- Ratsfraktionen zur Marktplatzgestaltung Vorlage ist noch nicht veröffentlicht worden.
+- TOP 23: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: a) Änderung der Satzung für den Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel b) Berufung der beratenden Mitglieder des Beirates für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel
+- TOP 24: Bebauungsplan Nr. 105, 4. Änderung Planbereich "Freiheitstraße" hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 25: Vorhabenbezogener Bebauungsplan Nr. 43 Planbereich: „Windenergieanlage Becklem“ hier: a) Entscheidung über die Stellungnahmen (§ 2 Abs. 3 BauGB) b) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 26: Bebauungsplanes Nr. 226 Planbereich: Castrop-Park Siemensstraße hier: Beschluss über die 1. Verlängerung der Veränderungssperre
+- TOP 27: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2011
+- TOP 28: Benennung von beratenden Mitgliedern gem. § 4 Abs.3 der Satzung für das Jugendamt
+- TOP 29: Einbeziehung weiterer beratender Mitglieder in den Jugendhilfeausschuss Antrag Kirchenkreis Herne Antrag des Kinder- und Jugendparlaments
+- TOP 30: Antrag "Die Linke" hier: Inhaltliche und personelle Veränderung des Ausschusses für Wirtschaftsentwicklung
+- TOP 31: Antrag FWI-Fraktion vom 11.08.2014 Ausschussumbesetzung Kommunalwahlausschuss
+- TOP 32: Antrag der Ratsfraktion DIE LINKE hier: Endsendung von beratenden Mitgliedern in den Jugendhilfeausschuss
+- TOP 33: Antrag der FDP- Fraktion hier: Entsendung einer sachkundigen Bürgerin mit beratender Stimme in den Jugendhilfeausschuss
+- TOP 34: Antrag der Ratsfraktion DIE LINKE hier: Umbesetzung im Aufsichtsrat der Forum Castrop-Rauxel Betriebsgesellschaft mbH
+- TOP 35: Antrag der CDU-Fraktion hier: personelle Umbesetzung im Betriebsausschuss 2
+- TOP 36: Antrag der Ratsfraktion Bündnis90 / Die Grünen hier: Ausschussumbesetzungen Vorlage ist noch nicht veröffentlicht worden.
+- TOP 37: Vertretung der Ausschussmitglieder
+- TOP 38: Umbenennung des Betriebsausschusses 2 (Familie, Jugend und Bildung) hier: Ergänzung um den Begriff "Soziales"
+- TOP 39: Soziale Stadt Habinghorst hier: Mehrkosten beim Umbau Lange Straße
+- TOP 40: Soziale Stadt Habinghorst hier: Fortführung in 2015 - 2016
+- TOP 41: Antrag der Ratsfraktionen SPD/ Die Grünen / FDP hier: Aufhebung der einseitigen Sperrung des Bahnüberganges Obere Münsterstraße
+- TOP 42: Antrag der Ratsfraktionen CDU und FWI hier: Sitzordnung in den Ratssitzungen
+- TOP 43: Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen und FDP Sitzordnung in den Ratssitzungen
+- TOP 44: Anfragen der Ratsmitglieder
+- TOP 45: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
