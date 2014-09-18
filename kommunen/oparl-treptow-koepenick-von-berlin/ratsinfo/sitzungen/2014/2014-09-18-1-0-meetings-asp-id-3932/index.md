@@ -1,0 +1,75 @@
+# 30. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-09-18T16:30:00+02:00
+- Ende: 2014-09-18T20:20:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3932
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3932
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=103282
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-33 und VII-34 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung zweier beratender Mitglieder und eines stellvertretenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Ausschuss für Stadtentwicklung und Tiefbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Neuwahl von Mitgliedern für den Beirat in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Bereitstellung von Fachgutachten zum Bebauungsplanverfahren XV-30b VE - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: De-Mail - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2013 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 11.2: Sondermittel für den Behindertenverein Köpenick e. V. (SM 14-22) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittelantrag des Müggelheimer Heimatverein e. V. (SM 14-26) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittelantrag der Theatergruppe "Die Immergrünen" (SM 14-29) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sicherung von Kleingartenanlagen – Aufstellung von Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Abbau des Verkehrsschilds „Vorfahrt gewähren“ für Fahrradfahrerinnen und Fahrradfahrer an der Kreuzung Oberspreestr. / Friedlander Str. - überwiesen
+- TOP 12.3: Verkehrssicherheit Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sammeln von Pfandflaschen neben Abfallbehältern - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Perspektive für junge erwachsene Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Dorfanger Alt-Schmöckwitz - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Wassersparen im Bezirksamt - vertagt
+- TOP 12.8: Gefahr für Fußgänger beim Überqueren der Ottomar-Geschke-Straße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Hundsfelder Straße als Einbahnstraße ausweisen - in der BVV abgelehnt
+- TOP 12.10: Personalausstattung der Schulbibliotheken - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Präsenz der Bibliotheken auf bezirklichen Festen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Neueinrichtung der Abteilung III/B (Urnengemeinschaftsanlage) auf dem städtischen Friedhof Bohnsdorf - überwiesen
+- TOP 13.2: Neueinrichtung der Abteilung E 1a ("Schmetterlingsgräber") auf dem städtischen Friedhof Adlershof - überwiesen
+- TOP 13.3: Neueinrichtung der Abteilung D I - UGA (Urnengemeinschaftsanlage) auf dem städtischen Friedhof Grünau - überwiesen
+- TOP 13.4: Belegungsplan für die Erdgemeinschaftsanlage in der Abteilung V/3 auf dem städtischen Friedhof Oberschöneweide - überwiesen
+- TOP 13.5: Bebauungsplan XV-20-1 ("Köpenicker Straße 48") hier: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan XV-20-1 zur teilweisen Änderung des Bebauungsplan XV-20 im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Bebauungsplan XV-30a ("Treptowers") hier: Neueinleitung des Planaufstellungsverfahrens Räumlicher Geltungsbereich: XV-30a: für das Gelände zwischen Spree, An den Treptowers, Elsenstraße, Puschkinallee und Spree mit Ausnahme des an der Fanny-Zobel-Straße gelegenen Grundstücks, Grundbuch von Treptow, Blatt 22840 N, Flurstücke 97 und 118, Gemarkung Treptow, Flur 102, des Uferwegs und eines Abschnitts der Fanny-Zobel-Straße im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Vorhabenbezogener Bebauungsplan XV-30b VE ("Hotel und Wohnen an der Spree") hier: Neueinleitung des Planaufstellungsverfahrens Räumlicher Geltungsbereich: XV-30b VE: Grundstück an der Fanny-Zobel-Straße, Grundbuch-Blatt 22840 N, Flurstücke 97 und 118, Gemarkung Treptow, Flur 102, einen Abschnitt der Fanny-Zobel-Straße und den Uferweg im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Bezirksregionenprofil (BZRP) für Oberschöneweide (OSW) als Mustervorlage zur Erstellung der weiteren 19 BZRP im Bezirk Treptow-Köpenick - überwiesen
+- TOP 13.9: Benennung der auf dem Grundstück Waldstraße 27, 12527 Berlin im Bau befindlichen Ringstraße einschl. Fußweg in "Waldkiefernring" und der Stichstraße in "Fähenweg" (in der Anlage 1 schraffiert gekennzeichnet) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Radverkehr am S-Bahnhof Schöneweide - überwiesen
+- TOP 14.2: Teilnahme an Schulhilfekonferenzen sichern - überwiesen
+- TOP 14.3: Aufstellungsbeschluss für ein soziales Erhaltungsgebiet in Alt-Treptow gemäß § 172 (1) Nr. 2 BauGB - überwiesen
+- TOP 14.4: Baulücke Kietzer Straße - überwiesen
+- TOP 14.5: Verkehrssicherheit auf dem Radweg der Schönefelder Chaussee auf Höhe des Kosmosviertels wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Barrierefreiheit an der Straßenbahnwendeschleife am S-Bahnhof Schöneweide - überwiesen
+- TOP 14.7: Mellowpark zügig weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Fahrbahnschwellen zur Verkehrsberuhigung künftig fahrradfreundlicher gestalten - überwiesen
+- TOP 14.9: Die "Berliner Tiertafel" im Bezirk sichern - überwiesen
+- TOP 14.10: Zebrastreifen Elsenstraße/Karl-Kunger-Straße - überwiesen
+- TOP 14.11: Ausbau der Stellplätze für Fahrräder in der Altstadt Köpenick - im Ältestenrat zurückgezogen
+- TOP 14.12: Dritter Fahrstreifen für Linksabbiegerinnen und Linksabbieger auf dem Adlergestell - überwiesen
+- TOP 14.13: Benennung der geplanten Brücke über den Kiezgraben - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wie weiter nach dem Bürgerentscheid zur Parkraumbewirtschaftung? - beantwortet
