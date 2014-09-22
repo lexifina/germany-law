@@ -1,0 +1,53 @@
+# 27. öffentliche Sitzung des Ausschusses für Verkehr und Grünflächen
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2014-09-22T17:00:00+02:00
+- Ende: 2014-09-22T18:30:00+02:00
+- Ort: Casino , Rathaus Schöneberg
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3812
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3812
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=66057
+
+## Tagesordnung
+
+- TOP 1: Festlegen der endgültigen Tagesordnung - erledigt
+- TOP 2: Bestätigung der "offenen" Protokolle - erledigt
+- TOP 3: Beratung von Drucksachen des Kinder- und Jugendparlaments - hierzu wird die Anwesenheit einer Vertreterin/eines Vertreters des KJP erbeten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.1: Beratung der vom Bezirksamt inzwischen bearbeiteten/erledigten Drucksachen (die Unterlagen wurden den Ausschussmitgliedern im August übermittelt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.1.1: - Fußballplatz der Scharmützelsee-GS - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.2: - Klettergerüst auf dem Spielplatz in der Lefévrestraße/ Retzdorfpromenade neu anstreichen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.3: - Reinigung des Wartburgspielplatzes - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.4: - Spielplatzerneuerung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.5: - Spielplatz in der Lefévrestraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.6: - Klettergerüst auf dem Wartburgspielplatz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.7: - Neue Seile für das Klettergerüst auf dem Ekesunder Spielplatz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.8: - Durchgang um den Spielplatz Illigstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.9: - Schaukeln in der Illigstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.10: - Rostige Nägel - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.11: - Fehlendes Fußballtor (auf dem Spielplatz in der Illigstraße) - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.12: - Mülltonnen am Hexenspielplatz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.13: - Mülltonne am Teich - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.14: - Mehr Mülleimer in Tempelhof-Schöneberg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.15: - Unkrautbeseitigung auf dem Spielplatz an der Richterstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.16: - Erneuerung der Parkbank im Parkring Neu-Tempelhof - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.17: - Erneuerung der Basketballkörbe in der Felisstr./Gökstr. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.18: - Tore ohne Netz in der Markgrafenstr. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.19: - Polizeikontrollen am „Kifferspielplatz“ - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 3.1.20: - Zaun zwischen Skaterbahn und Fußballplatz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4: Bericht es Bezirksamtes - erledigt
+- TOP 5: Beratung zurückgestellter Drucksachen: - (offen)
+- TOP 5.1: Auflagenbeschlüsse des Bezirksamtes - Diskussion - auf Antrag BÜ90/Die Grünen / zurückgestellt in der 25. Sitzung - erledigt
+- TOP 5.2: - Standorte für eBox-Elektrokleingeräte-Container in Tempelhof-Schöneberg (hierzu war das Bezirksamt gebeten, eventuell vorhandene Standorte auch aus Nachbarbezirken zu erkunden) - vertagt
+- TOP 6: Beratung überwiesener Drucksachen aus der 36. Sitzung der BVV vom 27.08.2014: - (offen)
+- TOP 6.1: - Leitlinien für einen fahrradfreundlichen Bezirk - vertagt
+- TOP 6.2: - Fahrradfahren auf der geschützten Grünanlage Viktoria-Luise-Platz verhindern - vertagt
+- TOP 6.3: - Rubenstrasse entschleunigen - im Ausschuss abgelehnt
+- TOP 6.4: - Radfahrersicherheit in der Friedenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.5: - Leistungsfähigkeit der Kreuzung Tempelhofer Damm/Alt-Tempelhof wieder herstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7: Überweisung von Drucksachen aus dem Fahrrad - erledigt
+- TOP 7.1: Radverkehrsführung an der Cheruskerstr./Julius-Leber-Brücke - Votum zur Abstimmung - erledigt
+- TOP 8: Verschiedenes - erledigt
+- TOP 9: Festlegen des nächsten Aussschusstermins (27.10.2014) - erledigt
