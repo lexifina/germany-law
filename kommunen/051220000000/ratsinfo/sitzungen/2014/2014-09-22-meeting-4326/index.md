@@ -1,0 +1,51 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-09-22T17:00:00+02:00
+- Ende: 2014-09-22T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW7WZ6EdtSwc7Gyv8S-eaGQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4326
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUVBQzlkul6TVlnD3368i1tP0pudv28qYpHSzHQbgk4t/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_22.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Bestellung des Schriftführers für den Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (ASUKM)
+- TOP 2: Verpflichtung der Ausschussmitglieder
+- TOP 3: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4: Protokoll über die 31. Sitzung des ASUKM am 07.04.2014
+- TOP 5: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 6: Vertrag über die Energieberatung der Verbraucherzentrale
+- TOP 7: Festsetzung eines Wasserschutzgebietes Wasserschutzgebietsverordnung für die Gewässer im Einzugsgebiet der Sengbachtalsperre
+- TOP 8: Hochwasserschutz Eschbach
+- TOP 9: Soziale Stadt - Solinger Nordstadt
+- TOP 10: Online-Beteiligung zu gewerblichen Bauflächen
+- TOP 11: Verkehrsplanung Lüneschloßstraße
+- TOP 12: Flächenpool NRW
+- TOP 13: Tauben am Bahnhof Solingen Mitte
+- TOP 14: Bauleitplanung Lützowstraße/ Untere Holzstrasse
+- TOP 15: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 16: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 17: Verschiedenes
+- TOP 18: Einrichtung von Lkw-Stellplätzen auf der Konrad-Adenauer-Straße
+- TOP 19: Ampelschaltung und Verkehrsituation im Kreuzungsbereich Birkenweiher/Kölner Straße und Grünewalder Straße/Hermann-Meyer-Straße/Glockenstraße sowie an der Einfahrt zu Lidl
+- TOP 20: Tiefbaumaßnahme Dickenbusch
+- TOP 21: Taxistand Burgstraße (Theater)
+- TOP 22: Taxenplätze in der Burgstraße
+- TOP 23: Fahrbahndeckenprogramm 2014 hier: Auswirkungen der Haushaltssperre
+- TOP 24: Wiedererrichtung eines Kaiser’s Verbrauchermarktes mit Backshop an der Focher Straße 31
+- TOP 25: Bauleitplanung der Stadt Haan zur Erweiterung des Standortes „Ostermann / Trends“
+- TOP 26: Novellierung des Regionalplans Erster Entwurf der Bezirksregierung Düsseldorf im Internet
+- TOP 27: Fracking
+- TOP 28: Netzwerk Innenstadt NRW
+- TOP 29: Bebauungsplan O 552 - Projekt O-Quartier
+- TOP 30: Fortführung des ÖPNV-Fahrgastbeirates
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 31. Sitzung des ASUKM am 07.04.2014
+- TOP 3: Bauleitplanung Betriebshof Wuppertaler Straße
+- TOP 4: Verschiedenes
