@@ -1,0 +1,83 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-23T17:00:00+02:00
+- Ende: 2014-09-23T21:17:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8805
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8805
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222039.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222039.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222039.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung von zwei Mitgliedern der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift der öffentlichen Sitzung vom 01.07.2014 - einstimmig beschlossen
+- TOP 4: Prüfergebnisse aus Beschlussfassung zum Strab- u. Stadtbahnnetz n. Inbetriebnahme WHL - einstimmig abgelehnt
+- TOP 5: Stadtviertelbus Hubbelrath - Knittkuhl - Gerresheim - einstimmig beschlossen
+- TOP 6: Gräulinger Straße 41 - 49 c - Neubau von 12 Mehrfamilienwohnhäusern mit gemeinsamer Tiefgarage - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Abbruch Kölner Tor 27 - Gebäude/ Garage/ Keller - mehrheitlich beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Sanierung der Spielanlage auf dem Kinderspielplatz "Alter Gerresheimer Friedhof" - einstimmig beschlossen
+- TOP 13: Netz gegen Armut - zur Kenntnis genommen
+- TOP 14: Tiefgarage "Am Wallgraben" - zur Kenntnis genommen
+- TOP 15: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 16: Schäden durch den Sturm Ela - vertagt
+- TOP 17: Auswirkungen des Sturmes Ela und Ersatzpflanzungen zur Behebung der Schäden - vertagt
+- TOP 18: Totholz im Ostpark, in weiteren Grünanlagen und im Wald im Einzugsgebiet der BV 7 - vertagt
+- TOP 19: Management der Baustelle Benderstraße - einstimmig beschlossen
+- TOP 20: Neugestaltung der Benderstraße: Transparenz + Parken - einstimmig beschlossen
+- TOP 21: Verkehrssituation auf und an der Straße "Nach den Mauresköthen" - zurückgezogen
+- TOP 22: Tempo 40-Abschnitt auf der Ernst-Poensgen-Allee - vertagt
+- TOP 23: Ringofen Ludenberg / Lichtmasterplan - mehrheitlich beschlossen
+- TOP 24: Fuß-/Radweg Erkrather Landstraße, Ostseite - einstimmig beschlossen
+- TOP 25: Durchgehender Radweg Quadenhofstraße - zurückgezogen
+- TOP 26: Wesentliche städtebauliche Gesichtspunkte bei Bauvorhaben - mehrheitlich beschlossen
+- TOP 27: S-Bahnhof Gerresheim - temporäre Ausstattung zur bürgerfreundlicheren Nutzung - Aufstiegshilfen - einstimmig beschlossen
+- TOP 28: Bedarfsampel Benderstraße/Ecke Ikenstraße - einstimmig beschlossen
+- TOP 29: S-Bahnhof Gerresheim - temporäre Ausstattung zur bürgerfreundlicheren Nutzung - Beschriftung - einstimmig beschlossen
+- TOP 30: Kennzeichnung Radweg Dreherstraße (stadteinwärts) - einstimmig beschlossen
+- TOP 31: Radfahren in Gegenrichtung von Einbahnstraßen - mehrheitlich beschlossen
+- TOP 32: Norbert-Schmidt-Straße - einstimmig beschlossen
+- TOP 33: Wasserfontäne im Ostpark - einstimmig beschlossen
+- TOP 34: Radweg Grafenberger Wald - einstimmig beschlossen
+- TOP 35: St.-Hippolyt-Weg - einstimmig beschlossen
+- TOP 36: Schulmensa Gymnasium Gerresheim - einstimmig beschlossen
+- TOP 37: Verfassungswidrigkeit der CO-Pipeline der Bayer AG - einstimmig beschlossen
+- TOP 38: Umbau der Haltestellen der Buslinie 730 im Stadtbezirk 7 - vertagt
+- TOP 39: Rheinbahn-Haltestelle "Neuenhaus", Richtung Mettmann - zur Kenntnis genommen
+- TOP 40: Gestaltung Alte Insel - vertagt
+- TOP 41: Bebauung Grundstück Dreherstr./Magdeburger Str. - zur Kenntnis genommen
+- TOP 42: Postfiliale im Supermarkt Dreherstraße - zur Kenntnis genommen
+- TOP 43: Öffentlich geförderter Wohnungsbau im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 44: WLAN in Gerresheim - zur Kenntnis genommen
+- TOP 45: Stadtbildpflege Häuser Märkische Straße 71 - 79, Schönaustraße 26 - 28 - vertagt
+- TOP 46: Festsetzung der Überschwemmungsgebiete - zur Kenntnis genommen
+- TOP 47: Baustelle Glashüttenstraße - zur Kenntnis genommen
+- TOP 48: BAB 3 - Hinweisschilder auf die Basilika St. Margareta - zur Kenntnis genommen
+- TOP 49: Wanderweg Sauerweg nach Dammbruch - vertagt
+- TOP 50: Parken Von-Gahlen-Straße - zur Kenntnis genommen
+- TOP 51: Fracking I - Kein Fracking im Stadtbezirk - zur Kenntnis genommen
+- TOP 52: Keine Windräder im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 53: Fahrrad-Station mit E-Tankstelle - zur Kenntnis genommen
+- TOP 54: Erneuerung des Aufstieges Rutsche Kinderspielplatz "Quadenhofstraße" - zur Kenntnis genommen
+- TOP 55: Prognose zur Entwicklung Gerresheims - zur Kenntnis genommen
+- TOP 56: Baumaßnahme Sammler Gudastraße - zur Kenntnis genommen
+- TOP 57: Masterpläne für den Stadtbezirk 7; Kinderspielplätze - zur Kenntnis genommen
+- TOP 58: Glasmacherviertel - Park & Ride-Platz - zur Kenntnis genommen
+- TOP 59: Kinderklinik SANA-Krankenhaus Gerresheim - zur Kenntnis genommen
+- TOP 60: Kreuzung Torfbruchstraße / Dreherstraße - zur Kenntnis genommen
+- TOP 61: Hinweisbeschilderung SANA-Klinik Gerresheim - zur Kenntnis genommen
+- TOP 62: Wegebeleuchtung Marie-Curie-Straße - zur Kenntnis genommen
+- TOP 63: Wittelsbachstraße - zur Kenntnis genommen
+- TOP 64: Masterpläne für den Stadtbezirk 7; Straßen - zur Kenntnis genommen
+- TOP 65: Abfallholz durch den Sturm Ela - zur Kenntnis genommen
+- TOP 66: Umlaufsperre für den Weg "Zur Düsselaue" - zur Kenntnis genommen
