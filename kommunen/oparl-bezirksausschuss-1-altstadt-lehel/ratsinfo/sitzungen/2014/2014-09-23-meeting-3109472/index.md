@@ -1,0 +1,118 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-09-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109472
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109472
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.: Anhörung zu einer beabsichtigten Änderung der BA-Satzung bezüglich der Niederlegung von Vorstandsämtern (§ 19 Abs. 3 BA-Satzung), Wegfall der Angabe eines wichtigen Grundes (vertagt aus 2014.08 A 5.3)
+- TOP .4.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund, BA-Antrag Nr. 08-14/B 05467 des Bezirksausschusses 2 ? Ludwigsvorstadt-Isarvorstadt vom 17.12.2013
+- TOP .1.: Antrag der SPD-Fraktion: Denkmalschutz für das Gebäude in der Müllerstraße 4
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Dreifaltigkeitsplatz 2, Aufteilung einer 2-Zi.-Wohnung im 1. OG in einen Personalaufenthalt und eine 1.-Zi.-Wohnung, Renovierung der Wohnungen im 2. + 4. OG (vertagt aus 2014.08 B 3.1.2)
+- TOP .2.: Maffeistr. 4, DG-Ausbau, Aufstockung des Mittelflügels, Neuordnung der Rettungswege, Nutzungsänderung im Mittelflügel: Wohnung zu Büroeinheit
+- TOP .3.: Bruderstr. 6, Änderung der Gauben
+- TOP .4.: Karlsplatz 3, Nutzungsänderung: extensive Dachbegrünung zur Dachterrasse
+- TOP .5.: Ledererstr. 3, Nutzungsänderung mit kleinen Baumaßnahmen: Einzelhandel mit Gaststätte mit bis zu 40 Gastplätzen zu Einzelhandel mit Gaststätte mit bis zu 60 Gastplätzen
+- TOP .6.: Reitmorstr. 17, Umbau Erdgeschoss mit Errichtung eines Rückgebäudes sowie Wohnungszusammenlegung mit 5. Ober- und Dachgeschoss
+- TOP .7.: Knöbelstr. 29, Nutzungsänderung einer Kapelle in eine Wohnung, Errichtung einer Terrasse, Aufstockung um ein Geschoss ? Vorbescheid
+- TOP .8.: Maximiliansgtr. 6-8, Umbau, Sanierung und Erweiterung eines Büro-, Wohn- und Geschäftshauses
+- TOP .9.: Residenzstr. 3, Umbau einer Ladeneinheit sowie Abbruch von Wänden im 1. OG
+- TOP .10.: Neuhauser Str. 37, Fassadenänderung im Erdgeschoss: Versetzen des Eingangs nach hinten sowie Errichtung neuer Schaufenster seitlich des Eingangsbereichs
+- TOP .11.: Thierschstr. 19, DG-Ausbau und Errichtung eines außenliegenden Aufzugs
+- TOP .1.: Bürgeranliegen: Neueröffnung Club in der Müllerstraße
+- TOP .2.: Bürgeranliegen: Obststand auf dem Thierschplatz
+- TOP .3.: Bürgeranliegen: Fußgänger-Problem beim Gasthaus Pschorr am Viktualienmarkt
+- TOP .4.: Bürgeranliegen: Beeinträchtigungen durch Warteschlangen und campierende Interessenten vor dem Appel-Store, Rosenstraße
+- TOP .2.1: Gaststätten
+- TOP .1.: Tal 6, Mc Donalds, Erweiterung einer bestehenden Freischankfläche (vertagt aus C 2.1.2)
+- TOP .2.: Prannerstr. 11, Gaststätte ?Burger & Lobster Bank?, Genehmigung einer Freischankfläche
+- TOP .3.: Westenriederstr. 43, Gaststätte ?Brasserie L'Atelier Art & Vin? (vertagt aus 2014.06 C 2.2.8, 2014.07 C 2.1.1)
+- TOP .4.: Rindermarkt 6, Deli & Joy Food GmbH, Genehmigung einer Freischankfläche
+- TOP .5.: Herzog-Wilhelm-Str. 7, Gaststätte ?Taverne Diogenis?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Liebherrstr. 22/Ecke Zweibrückenstr., Bäckerei Wimmer, Genehmigung einer Freischankfläche (vertagt aus 2014.07 C 2.2.2)
+- TOP .2.: Rosental 1, Einzelhandel ?Grandios?, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (vertagt aus 2014.08 C 2.2.2)
+- TOP .3.: Rindermarkt 1, Vinzenz Zöttl Bäckerei-Konditorei, Genehmigung einer Freischankfläche
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Weihnachtsmarkt ?Alpenwahn? vom 20.11.2014-01.01.2015
+- TOP .2.: München Marathon am 12.10.2014 und Trachtenlauf am 11.10.2014 u. a. auf dem sog. Odeonsplatz und Marienplatz
+- TOP .3.: Cycling Days Radrennveranstaltung am 26.04.2015 (vertagt aus 2014.08 C 3.1.12 N)
+- TOP .4.: Informationsveranstaltung der BRH Rettungshundestaffel am 20.12.2014 auf dem sog. Odeonsplatz
+- TOP .5.: Marktveranstaltung Euromarché vom 01.10.-04.10.2014 auf dem Rindermarkt
+- TOP .6.: Lange Nacht der Münchner Museen am 18.10.2014 auf dem sog. Odeonsplatz
+- TOP .7.: Nachtrag zum München Marathon am 12.10.2014
+- TOP .8.: Aktion ?Spiel mich? am 28.09.2014 auf dem Isartorplatz
+- TOP .9.: Informationsveranstaltung zum Thema Brustkrebs auf dem Marienplatz und Beleuchtung des Rathauses am 15.10.2014
+- TOP .10.: Nachtrag zum Rodeo-Festival, Aufstellen eines sog. Galeriewagens auf dem Marstallplatz vom 06.10.-13.10.2014
+- TOP .11.: Filmpremiere ?Winterkartoffelknödel? am 07.10.2014 auf dem Sendlinger-Tor-Platz
+- TOP .1.: Künstlerstände in der Innenstadt
+- TOP .1.: Antrag der SPD-Fraktion: Verlegung des Fahrradweges zwischen Sparkassenstraße und Burgstraße
+- TOP .1.: Entscheidung über die Neueinrichtung eines Taxistandortplatzes, Maximilianstr. 11 (vertagt aus 2014.07 D 2.1)
+- TOP .1.: Antrag auf Baumfällung, Oettingenstr. 39
+- TOP .2.: Taxistandortplatz Sonnenstr. 12; Verlegung in die Sonnenstr. 25-27
+- TOP .3.: Aufnahme der Hofgartenstr. und der Crusiusstraße in die Straßenreinigungssatzung
+- TOP .4.: Lärmminderungsplanung/Lärmaktionsplan München des Referat für Gesundheit und Umwelt, BV-Empfehlung Nr. 08-14/E 01230 der Bürgerversammlung des Stadtbezirkes 1 ? Altstadt-Lehel vom 29.011.2011
+- TOP .5.: Liebherrstr. 17, Errichtung eines Unterflurcontainers
+- TOP .6.: Landschaftsstr., Errichtung eines Unterflurcontainers
+- TOP .7.: Herrnstr. ggü. 38, Errichtung eines Unterflurcontainers
+- TOP .8.: Westenriederstr. , Errichtung eines Unterflurcontainers
+- TOP .9.: Prälat-Zistl-Str., Errichtung eines Unterflurcontainers
+- TOP .10.: Mariannenplatz, Errichtung eines Unterflurcontainers
+- TOP .11.: Prälat-Zistl-Straße, Barrierefreier Ausbau der Bushaltestelle Viktualienmarkt
+- TOP .1.: (E) Budget der Bezirksausschüsse Pädagogische Aktion SPIELkultur e.V. Anschaffung von Zelten
+- TOP .2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellen von öffentlichen Klavieren vom 13.09. - 05.10.2014
+- TOP .3.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Figurentheaterfestival "Anfänger" vom 05. - 08.03.2015
+- TOP .1.: Stellenausbau in den Münchner Nachbarschaftstreffs (vertagt aus 2014.07 E 3.1, 2014.08 E 3.1)
+- TOP .2.: Zuschusserhöhung für das REGSAM-Projekt des Trägervereins für regionale soziale Arbeit e.V., Beschlussvorlage des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 04.11.2014 (VB)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.-30.06.2014, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20/V 01317
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Rückantwort des Referats für Stadtplanung und Bauordnung zum Schreiben des Bezirksausschusses vom 23.07.2014 ?Bauvorhaben Jungfernturmstr. 2? (2014.07. 3.1.1)
+- TOP 0.3.: Rückantwort des Referats für Stadtplanung und Bauordnung zum Schreiben des Bezirksausschusses vom 23.07.2014 ?Bauvorhaben Dultstraße 1? (2014.07 B 3.1.7)
+- TOP 0.4.: Antwortschreiben des Referat für Stadtplanung zur Anfrage Nr. 08-14/Q 00568 der Bürgerversammlung des 1. Stadtbezirkes Altstadt-Lehel vom 05.12.2013 ?Vereinbarkeit des Projektes TOM mit den strategischen Leitlinien der PERSPEKTIVE MÜNCHEN?
+- TOP 0.5.: Rückmeldung des Referat für Stadtplanung und Bauordnung zur ablehnenden Stellungnahme des Bezirksausschusses vom 25.03.2013 ?Bauvorhaben Altheimer Eck 1?
+- TOP 0.6.: Städtische Grundstücke an der Pestalozzistraße, Beschlussvorlage des Kommunalausschusses vom 24.07.2014, Sitzungsvorlage Nr. 14-20/V 00864
+- TOP 0.7.: Rückantwort des Referats für Stadtplanung und Bauordnung zur Anfrage des Bezirksausschusses vom 13.08.2014 ?Geplante Neuvermietung im Anwesen Reichenbachstr. 1? (2014.08 B 1.1)
+- TOP 0.8.: Rückantwort des Kommunalreferats zum Schreiben des Bezirksausschusses vom 25.07.2014 ?Verlegung des BA-Informationsschaukastens in den Nordbereich der Ecke Prälat-Zistl-Str./Rosental? (2014.07 A 5.4)
+- TOP 0.9.: Verzicht auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20/V 00959
+- TOP 0.10.: Infokampagne zum sozialverträglichen Immobilienverkauf, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungvorlage Nr. 14-20/V 01097; Empfehlung Nr. 08-14/E 00794 der Bürgerversammlung des 1. Stadtbezirkes Altstadt-Lehel vom 30.11.2010
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Bürgeranliegen: Künstlerstände in der Innenstadt, Protokollauszug der Sitzung des BA 2 Ludwigvorstadt-Isarvorstadt
+- TOP 0.6.: Zwischennachricht der Rechtsabteilung des Kreisverwaltungsreferats zur Westenriederstr. 43, Gaststätte ?Brasserie L'Atelier Art & Vin? (2014.07 C 2.1.1)
+- TOP 0.7.: Eilentscheidung des Vorsitzenden zum/zur: - Nachtrag der Veranstaltung Streetlife Festival/Corso Leopold am 13.09.-14.09.2014 - Nachtrag der Sondernutzung auf öffentlichem Grund und in städt. Grünanlagen für die Aktion ?Spiel mich? vom 15.09.-05.10.2014 - Informationsveranstaltung des ASZ Altstadt am 23.09.2014 - Nachtrag der Informationsveranstaltung ?Healthy Lungs for life? vom 05.09.-07.09.2014 - Nachtrag der Veranstaltung ?Isarinselfest? vom 05.09.-07.09.2014 - Informationsveranstaltung ?Parking Day 2014? am 19.09.2014 - 3. Nachtrag Streetlife Festival/Corso Leopold am 13.09.-14.09.2014 - Ander Art Festival am 27.09.2014 - Sondernutzungserlaubnis für die Aktion ?Verrücktes Klavier? vom 15.09.-05.10.2014 (Zustimmung durch Fristablauf) - Veranstaltung ?Spiel mich? am 16.09.2014 am Vater-Rhein-Brunnen (Zustimmung durch Fristablauf)
+- TOP 0.8.: Stellungnahme des Vorsitzenden zur ?Fortschreibung des Kulturstrands 2015 ff.?, Anfrage des Kreisverwaltungsreferats
+- TOP 0.9.: Westenriederstr. 43, Gaststätte ?Brasserie L'Atelier Art & Vin?, abschließende Stellungnahme der Rechtsabteilung des Kreisverwaltungsreferats (2014.07 C 2.1.1)
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Hotterstraße, Einrichtung der Blauen Zone - Maximiliansbrücke (Gleissanierung) - Hackenstraße 4, Verlegung der Polizeianfahrtszone - Mariannenplatz Nordseite, Absolutes Halteverbot - Müllerstraße nordwestlich der Pestalozzistraße, Ausnahme von Taxis - Entfernung des Radwegs zwischen Residenzstraße und Perusastraße - Frauenstraße 4, Hotelzufahrtszone
+- TOP 0.2.: Schreiben des Direktoriums zum ?Aufstellen von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park, Herausgabe eines Faltblattes der LHM zum Asiatischen Laubholzbockkäfer?, BA-Antrag des Bezirksausschusses 15 - Trudering-Riem
+- TOP 0.3.: Rückantwort der MVG zum Schreiben des Bezirksausschusses vom 25.07.2014 zur Verkehrsregelung in der Ländstraße (2014.07 D 1.1)
+- TOP 0.4.: Rückantwort der Bayerischen Verwaltung der staatlichen Schlösser, Gärten und Seen zum Schreiben des Bezirksausschusses vom 25.07.2014 ?Lärmbelästigung durch Trommler im Englischen Garten? (2014.07 D 1.7)
+- TOP 0.5.: Rückantwort des Kreisverwaltungsreferats zu BA-Antrag Nr. 14-20/B 00221 vom 17.07.2014 ?Gehweg in der Oettingenstraße, westlich zwischen Prinzregentenstraße und Liebigstraße während der Baumaßnahmen in südlicher Richtung für Radfahrer öffnen?
+- TOP 0.6.: Rückantwort des Baureferats zu ?Rückbau von Abbiegespuren in der Oettingen- und Sternstraße? ( 2014.08 D 4.2)
+- TOP 0.7.: Verkehr funktioniert nicht nach Prinzip kommunizierender Röhren, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20/V 01173
+- TOP 0.8.: München öffnet sein Herz endlich auch für Motorradfahrer!, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20/V 01275
+- TOP 0.9.: Fußgängerüberwege Sendlinger Straße/Färbergraben, Stellungnahme des Kreisverwaltungsreferats vom 17.09.2014
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Rückantwort des Referats für Bildung und Sport zur ?Bereitstellung von Räumlichkeiten für das Schuljahr 2014/2015 für die Grundschule an der Herrnstraße?, Antrag des Bezirksausschusses 1 Altstadt-Lehel Nr. 14-20/B 00213 vom 17.07.2014 (2014.07 E 1.2)
+- TOP 0.3.: Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 31.07.2014
+- TOP .2.: Anhörung zu einer beantragten Änderung der BA-Satzung bezügl. der Organisation und Durchführung von Projekten von ?Kunst im öffentlichen Raum?, Antrag Nr. 08-14 / B 05731 des BA 3 Maxvorstadt vom 11.03.2014 (vertagt aus 2014.08 A 5.2)
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 0.3.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
