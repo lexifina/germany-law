@@ -1,0 +1,55 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-23T16:00:00+02:00
+- Ende: 2014-09-23T18:48:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8793
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8793
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222400.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222400.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222400.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: Garath Südwest - zur Kenntnis genommen
+- TOP 6: Zuschuss an den Hellerhofer SV - einstimmig beschlossen
+- TOP 7: Aufstellung von Blumenkübel - einstimmig beschlossen
+- TOP 8: Bauunterhalt 2014 - vertagt
+- TOP 9: Verfügungsmittel 2014 - einstimmig beschlossen
+- TOP 10: Verfügungsmittel 2014 - einstimmig beschlossen
+- TOP 11: Anfragen - zur Kenntnis genommen
+- TOP 12: Taubenproblem - zur Kenntnis genommen
+- TOP 13: Sperrmülltourismus - zur Kenntnis genommen
+- TOP 14: Rockerszene in Garath/Hellerhof - zur Kenntnis genommen
+- TOP 15: Nutzung der S-Bahn- und Personenzuggleise durch Güterzüge - zur Kenntnis genommen
+- TOP 16: Sportplatzsanierung Montessorie-Grundschule Emil-Barth-Straße - zur Kenntnis genommen
+- TOP 17: Unterbringung von Asylbewerbern - zur Kenntnis genommen
+- TOP 18: Instandhaltung Geh- und Radwege - zur Kenntnis genommen
+- TOP 19: Instandhaltung der Rad- und Gehwege - zur Kenntnis genommen
+- TOP 20: Hochwasser Hellerhof - zur Kenntnis genommen
+- TOP 21: Atemschutzübungszentrum - zur Kenntnis genommen
+- TOP 22: Anträge - zur Kenntnis genommen
+- TOP 23: Abfallbehälter im Stadtbezirk - vertagt
+- TOP 24: Sanierung oder auswechseln von Bänken bzw. Sitzgelegenheiten im Stadtbezirk 10 - vertagt
+- TOP 25: Fahrradständer vor dem Bezirksbüro - einstimmig beschlossen
+- TOP 26: Mülldeponie Parkplatz/S-Bahnböschung - einstimmig beschlossen
+- TOP 27: Maßnahmen gegen Rattenvorkommen im Haupteinkaufszentrum Garath - einstimmig beschlossen
+- TOP 28: Ampelschaltung Frankfurter Straße - einstimmig beschlossen
+- TOP 29: Ampelschaltung an der Frankfurter Straße/Einmündung Dresdner Straße - mehrheitlich beschlossen
+- TOP 30: Barrierefreie Zugänge - einstimmig beschlossen
+- TOP 31: Taubenmanagement - einstimmig beschlossen
+- TOP 32: Bezirkswache in Garath - mehrheitlich abgelehnt
+- TOP 33: Beseitigung von Glassplittern und Verschmutzungen - einstimmig beschlossen
+- TOP 34: Kreisverkehr Hellerhofweg - mehrheitlich beschlossen
+- TOP 35: Beseitigung von Gehwegschäden Peter-Behrens-Straße - einstimmig beschlossen
+- TOP 36: Informationsvorlagen - zur Kenntnis genommen
+- TOP 37: Verschieden Stellungnahmen - zur Kenntnis genommen
+- TOP 38: Mitteilung der Verwaltung - zurückgezogen
