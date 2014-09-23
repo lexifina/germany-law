@@ -1,0 +1,64 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-09-23T16:02:00+02:00
+- Ende: 2014-09-23T17:06:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11991
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11991
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00170337.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00171616.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2013 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss und Konzernabschluss 2013 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 2.3: Jahresabschluss 2013 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 2.4: Jahresabschluss 2013 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 2.5: Jahresabschluss 2013 der Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 2.6: Jahresabschluss 2013 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 2.7: Jahresabschluss der GWG und des Konzerns GWG für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.8: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.9: Jahresabschluss 2013 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 2.10: Jahresabschluss 2013 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 2.11: Jahresabschluss der Wuppertaler Quartierentwicklungs GmbH (WQG) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.12: Jahresabschluss der Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.13: Jahresabschluss 2013 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebentrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 2.14: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co KG für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.15: Jahresabschluss der Lokalfunk Wuppertal Beteiligungsgesellschaft mbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.16: Jahresabschluss der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 2.17: Jahresabschluss 2013 der Regio-Bahn - Entgegennahme ohne Beschluss
+- TOP 2.18: Jahresabschluss 2013 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2014/2015 - ungeändert beschlossen
+- TOP 4: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 4.1: Erteilung von Prokura bei der Bergischen Entwicklungsagentur GmbH - ungeändert beschlossen
+- TOP 4.2: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2013 - vertagt auf Rat
+- TOP 4.3: Änderung des Gesellschaftsvertrages der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 4.4: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2013/2014 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 4.5: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2014 der Regio-Bahn - Entgegennahme ohne Beschluss
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: 4. Erfahrungsbericht über die Umsetzung des Kooperationsprojektes "Bergisches Veterinär- und Lebensmittelüberwachungsamt Remscheid-Solingen-Wuppertal", Zeitraum Januar bis Dezember 2013 - Entgegennahme ohne Beschluss
+- TOP 6.2: Stand der Schulden und Kassenkredite zum 30.06.2014 - Entgegennahme ohne Beschluss
+- TOP 6.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 6.4: Externe Einstellungen im Zeitraum Januar bis Juni 2014 - Entgegennahme ohne Beschluss
+- TOP 6.5: Bericht über das betriebliche Gesundheitsmanagement - Entgegennahme ohne Beschluss
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 8: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 8.1: Investitionsprogramm für die Sanierung von Straßen - ungeändert beschlossen
+- TOP 8.2: Vorbereitung der Teilnahme an Programmen der Städtebauförderung - ungeändert beschlossen
+- TOP 8.3: Dritte Satzung zur Änderung der Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 8.4: Harmonisierung Trinkwassergebühr und Schmutzwassergebühr beim Steueramt - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 10: Stadtentwässerung - Maßnahmenkatalog 2015/Katalogentwurf 2016 - ungeändert beschlossen
+- TOP 11: Berichte und Mitteilungen
