@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: REGSAM ? ein starkes soziales Netzwerk für München REGSAM-Ressourcen anpassen und verstetigen Anhörung zum Beschlussentwurf für den Kinder- und Jugendhilfe- und den Sozialausschuss an 04.11.2014
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 61, Kleingaststätte ?Mykonos?: Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kreuzkirche München-Schwabing artionale-Projekt "La Mer" vom 01.10. - 05.11.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Projektgruppe Kultur im Ackermannbogen e.V. Reihe ?Live im Casino? vom 16.11.2014 bis 21.06.2015
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Birnauer Straße 12, Nutzungsänderung und Änderung der Raumaufteilung im EG
+- TOP .2.: Kraepelinstraße 2, Neubau Präklinisches Zentrum (PCC), Abbruch Bestand, Neuerrichtung Laborgebäude ? Vorbescheid
+- TOP .3.: Mainzer Straße 6, Energetische Modernisierung einer Wohnanlage (64 WE) mit Anbau von Aufzügen und Balkonen sowie DG-Ausbau (10 WE)
+- TOP .4.: Adams-Lehmann-Str. 38: Nutzungsänderung im 1.OG: Gewerbe- zu Wohnfläche (Erweiterung Maisonettewohnung und Errichtung eines Appartements)
+- TOP .5.: Belgradstr. 128a, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .6.: Belgradstr. 17, DG-Ausbau (Speicher zu Wohnung) inkl. Einbau von Dachgauben und einer Dachterrasse, Instandsetzung der bestehenden DG-Wohnung inkl. Grundrissanpassungen mit Dacheinschnitt und Fenstergestaltung
+- TOP .7.: Sailerstr. 2, Neubau eines Mehrfamilienhauses
+- TOP .8.: Römerstr. 18, Aufstockung eines Wohn- und Gewerbegebäudes um zwei Geschosse inkl. Anbau rückwärtiger Balkone
+- TOP .9.: Lissi-Kaeser-Straße, Neubau eines Seniorenpflegeheims mit Tages- und Nachtpflege sowie betreutem Wohnen
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürgerin: Bewohnerparken für die Adams-Lehmann-Straße
+- TOP .2.: Bürger: Parksituation Mildred-Scheel-Bogen
+- TOP .3.: Bürgerin: Aufstellung von zwei Sitzbänken vor der Grünfläche am Nordbad
+- TOP .2.1.: Umwelt
+- TOP .1.: Zusätzliche Standorte für Wertstoffcontainerinseln: a) Infanteriestr. 1 b) Heßstraße: 2 Alternativen: bei Hausnr. 85 oder 87
+- TOP .2.: Einbau von Unterflurwertstoffcontainern an den Standorten a) Adams-Lehmann-Str. 87 b) Therese-Studer-Straße / Gustav-Landauer-Bogen c) Therese-Studer-Straße gegenüber Hausnr. 15
+- TOP .3.: Aufstellung zusätzlicher Hundekottütenspender: Standortvorschläge des Baureferats Gartenbau
+- TOP .2.2.: Verkehr
+- TOP .1.: Verkehrsbelastung der Winzererstraße (vertagt aus 07/14)
+- TOP .2.: Verkehrssicherheit in der Clemensstraße (vertagt aus 07/14)
+- TOP .3.: Öffnung der in Richtung Osten einbahngeregelten Bechsteinstraße zwischen Brunnerstraße und Schleißheimer Straße für den gegenläufigen Radverkehr
+- TOP .4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hohenzollernstraße 104
+- TOP .5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Petra-Kelly-Str. 26
+- TOP .6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 4 Schwabing-West Widmung der Gesamtstrecke der Lissi-Kaeser-Straße und einer Teilstrecke der Petra-Kelly-Straße
+- TOP .7.: Ortstermin Winzererstraße
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund Anhörung zu einem Antrag des BA 2 auf Änderung der BA-Satzung
+- TOP .1.: Radverkehr in der Keuslinstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
