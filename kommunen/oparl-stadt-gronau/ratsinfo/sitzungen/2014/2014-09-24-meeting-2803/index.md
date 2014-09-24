@@ -1,0 +1,66 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2014-09-24T18:00:00+02:00
+- Ende: 2014-09-24T22:28:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWFEbcUaxWpH5idz-3xlD-8
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2803
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbCZ-EKUDfxmLW3atcnjZlin1UaFg3xW0fRI57SC8eS0/Bekanntmachung_Rat_24.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9K0Y8cZnA6zx0PDhAGymVa5j6M3M-qF9k7g2-spS88/Oeffentliche_Niederschrift_Rat_24.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 27.08.2014
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Bebauungsplanänderung an der Burgstraße; Antrag der SPD-Fraktion vom 27.08.2014 - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Einberufung der Arbeitsgruppe Brandschutzbedarfsplan; Antrag der CDU-Fraktion vom 14.09.2014 - Einstimmig, 0 Enthaltungen
+- TOP 3.3: Änderung der Beteiligungsrichtlinie und Aufhebung eines Ratsbeschlusses; Antrag der UWG-Fraktion vom 12.09.2014 - Einstimmig, 0 Enthaltungen
+- TOP 3.4: Innenstadtentwicklung - Ortsteil Gronau Antrag der CDU-Fraktion vom 17.08.2014 - Einstimmig, 1 Enthaltungen
+- TOP 4.: Innenstadtentwicklung Gronau Themenfelder und Rahmenterminplanung - Ohne Abstimmung
+- TOP 5.: Budgetbericht zum II. Quartal 2014 - Ohne Abstimmung
+- TOP 6.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2013 - Schlussbesprechung und Beschlussfassung - Einstimmig, 1 Enthaltungen
+- TOP 7.: Jahresabschluss 2013 der Sparkasse Gronau Kenntnisnahme des Jahresabschlussergebnisses Beschluss über die Verwendung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss 2013 der Sparkasse Gronau Entlastung der Organe der Sparkasse Gronau - Einstimmig, 0 Enthaltungen
+- TOP 9.: Jahresabschluss 2013 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2013 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 3. Entlastung der Geschäftsführerin - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2013 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 12.: Gutachten über den Erlass von Betrauungsakten zugunsten von Mehrheitsbeteiligungen der Stadt Gronau - Ohne Abstimmung
+- TOP 13.: Erlass eines Betrauungsaktes für die Stadtwerke Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 14.: Erlass eines Betrauungsaktes für die Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erlass eines Betrauungsaktes für die Beschäftigungsgesellschaft Chance mbH - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass eines Betrauungsaktes für die Kulturbüro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 17.: Errichtung einer neuen drei-gruppigen Kindertageseinrichtung im Sozialraum Gronau-Ost - Mehrheitlich dafür
+- TOP 18.: Antrag des DRK - Ortsverein Epe e.V. - auf Gewährung einer Zuwendung - Einstimmig, 0 Enthaltungen
+- TOP 19.: Förderung kommunaler Projekte der Entwicklungszusammenarbeit 2014 - Einstimmig, 0 Enthaltungen
+- TOP 20.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 2/2014; Bürgerantrag auf Änderung des § 3 der Außenbereichsatzung an der Alstätter Straße, Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bebauungsplan Nr. 30 „Starenstraße“. 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1.Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bebauungsplan Nr. 147 "Nördlicher Doetkottenweg", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB)§ 13a BauGB) 1. Aufhebung des Aufstellungsbeschlusses vom 14.07.2010 2. Erneuter Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit gemäß § 3 Abs. 2 BauGB 4. Beteiligung der Behörden gemäß § 4 Abs. 2 BauGB - 37 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 23.: Bebauungsplan Nr. 208 "Buschgarten", 3. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufhebung des Aufstellungsbeschlusses vom 17.07.2013 2. Erneuter Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Beteiligung der Behörden gem. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltungen
+- TOP 24.: Bebauungsplan Nr. 170 „Östlicher Siedlerweg“, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Satzungsbeschluss - 28 Jastimmen, 11 Neinstimmen, 0 Enthaltungen
+- TOP 25.: Bebauungsplan Nr. 248 "Gewerbegebiet - Östlich der Eßseite", Stadtteil Epe 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - 38 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 26.: Bebauungsplan Nr. 158 "Königsberger Straße" (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 2. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 27.: Bebauungsplan Nr. 35 „Fichtestraße“ (Alter Postweg) – 2. Änderung - Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 28.: Bebauungsplan Nr. 48 „Grünstiege“ – 3. Änderung - Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 29.: Gemeindekongress 2014 des Städte- und Gemeindebundes NRW; Entsendung sechs weiterer Vertreter - Einstimmig, 0 Enthaltungen
+- TOP 30.: Besetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 31.: Terminplanung für das 4. Quartal 2014 - Ohne Abstimmung
+- TOP 32.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 33.: Mitteilungen der Verwaltung
+- TOP 33.1: Keine Sonderregelung für die ehemaligen Schüler der Schillerschule
+- TOP 34.: Anfragen
+- TOP 34.1: Platzierung zusätzlicher Marktstände beim Stadtfest (1. Stellv. d. BM Doetkotte)
+- TOP 34.2: Beantragung von Fördermitteln (RM Krause)
+- TOP 34.3: Überstundensituation bei der Stadtverwaltung (RM Wagner)
+- TOP 34.4: Größe der Tiergehege im Gronauer Stadtpark (RM Buchholz)
+- TOP 34.5: Erhebung von Niederschlagswassergebühren für Landstraßen (RM Dust)
+- TOP 34.6: Umzäunung der Unfallstelle im Kavernenfeld bekannt? (RM Schwartze)
+- TOP 34.7: Übernahme von Bustransferkosten für Schüler (RM Schwartze)
+- TOP 34.8: Auswertung der Befragung in der Hindenburgstraße (RM Hönerlage)
+- TOP 34.9: Bürgersteig wuchert zu (RM Buchholz)
+- TOP 34.10: Baustelle städtischerseits stillgelegt? (RM Gabbe)
