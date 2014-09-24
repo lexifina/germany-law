@@ -1,0 +1,51 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-24T15:00:00+02:00
+- Ende: 2014-09-24T17:55:00+02:00
+- Ort: Luegallee 65, 40545 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8728
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8728
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222506.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222506.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222506.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 1.1: Zulassung eines Vertreters des Jugendrates - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Düsseldorfer Straße 76 - Teilabbruch - zur Kenntnis genommen
+- TOP 4.1: Niederkasseler Straße 94- Abbruch eines Einfamilienhauses - zur Kenntnis genommen
+- TOP 5: Umbau Kinderspielplatz Neersener Straße - zur Kenntnis genommen
+- TOP 6: Spielplatz Fritz-Milster-Weg - zur Kenntnis genommen
+- TOP 7: Nahversorgungsgutachten für den Stadtbezirk 4 Kenntnisgabe - zur Kenntnis genommen
+- TOP 8: Bebauungsplan Nr. 04/010 Gewerbe- und Industriegebiete - zur Kenntnis genommen
+- TOP 9: 60-22-1679 Aufhebnung der Aufstellung, Einstellung des Verfahrens - zur Kenntnis genommen
+- TOP 10: Plan Nr. 5078/023 - Östlich Schiessstraße - - zur Kenntnis genommen
+- TOP 11: Plan Nr. 04/012 Östlich Schiessstraße Vereinfachtes Verfahren - zur Kenntnis genommen
+- TOP 12: Plan Nr. 5177/043 - Südlich Greifweg - - zur Kenntnis genommen
+- TOP 13: Bebauungsplan-Entwurf Nr. 04/006 - Südlich Greifweg II - - zur Kenntnis genommen
+- TOP 14: Wohnungsverkauf Rheinbahnhäuser Linksrheinisch - zur Kenntnis genommen
+- TOP 15: Neubepflanzung Ecke Schorlemerstraße / Lewitstraße - zur Kenntnis genommen
+- TOP 16: Planungen zur Gestaltung "Am Mühlenberg" - zur Kenntnis genommen
+- TOP 17: Baumschäden durch den Sturm "Ela" - zur Kenntnis genommen
+- TOP 18: Mehrparteienhaus auf der Niederkasseler Straße 35 - zur Kenntnis genommen
+- TOP 19: Schaffung von W-Lan-Netzen in den linksrheinischen Schulen - zur Kenntnis genommen
+- TOP 20: Nutzung des Vodafone-Parkhauses - zur Kenntnis genommen
+- TOP 21: Leerstand des ehemaligen Heerdter Kino - zur Kenntnis genommen
+- TOP 22: Mückenplage mit Gefährdung für die Bevölkerung? - zur Kenntnis genommen
+- TOP 23: Eröffnung des türkischen Generalkonsulat - zur Kenntnis genommen
+- TOP 24: Planungen zur Rheinbahnschleife am Belsenpark - zur Kenntnis genommen
+- TOP 25: Verlagerung der JFE Malmedyer Strasse auf das Gelände des Freizeitparks Heerdt - zur Kenntnis genommen
+- TOP 26: Neubaumaßnahme und Provisorium JFE Heerdt - zur Kenntnis genommen
+- TOP 27: Bericht zur Parkraumbewirtschaftung - zur Kenntnis genommen
+- TOP 28: Stationäre Messstation Burgunderstraße - zur Kenntnis genommen
+- TOP 29: LKW-Leitsystem zum Hafengebiet - zur Kenntnis genommen
+- TOP 30: Informationsveranstaltung zu Sturm "Ela" - zur Kenntnis genommen
+- TOP 31: Zukünftige Maßnahmen an den linksrh. Deichen - zur Kenntnis genommen
+- TOP 32: Mitteilungen der Verwaltung - zur Kenntnis genommen
