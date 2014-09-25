@@ -1,0 +1,51 @@
+# Rat der Gemeinde Ladbergen (13. Sitzung)
+
+- Körperschaft: Gemeinde Ladbergen
+- Beginn: 2014-09-25T19:00:00+02:00
+- Ende: 2014-09-25T21:25:00+02:00
+- Ort: Rathaus, Jahnstraße 5, 49549 Ladbergen, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ladbergen.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf2jWRCFuJ6J92lSF1svQn0
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/918
+- Quelle: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYGvpI4aGt6zq1oDn385fSw2chLErA-acjoiMNZoDg73/Bekanntmachung_Rat_der_Gemeinde_Ladbergen_25.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Ladbergen) https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfDvlpneiVPHgmRSvWOZ1e_vNwMbQN_vEKNX9glalopl/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Ladbergen_25.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Bericht der Verwaltung über die Durchführung von Beschlüssen
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Beschluss über die Gültigkeit der Gemeinderats- und Bürgermeisterwahl vom 25.05.2014 - Einstimmig
+- TOP 4: Satzungen
+- TOP 4.1: Erlass der Geschäftsordnung für den Rat und die Ausschüsse der Gemeinde Ladbergen - Einstimmig
+- TOP 4.2: Erlass der Zuständigkeitsordnung - Einstimmig
+- TOP 4.3: Erlass der Ehrenordnung - Einstimmig
+- TOP 5: Vorstellung der Planung "Breitbandversorgung in Ladbergen" durch die Stadtwerke Tochtergesellschaft Teutel GmbH
+- TOP 6: Beteiligung der Stadtwerke Lengerich an einer Gesellschaft zur Realisierung von Projekten im Bereich der Onshore Windenergie - Einstimmig
+- TOP 7: Beschluss über die mittelbare Erhöhung der Beteiligung über die Trianel GmbH an der GESY Green Energy Systems GmbH ("GESY") - Einstimmig
+- TOP 8: Veräußerung sämtlicher von der Trianel GmbH an der European Energy Exchange AG gehaltenen 100.000 Aktien - Einstimmig
+- TOP 9: Gründung der Stadtwerke Tecklenburg GmbH - Einstimmig
+- TOP 10: Beteiligung der Stadtwerke Lengerich an der WEHLOS Windenergie Holding Landkreis Osnabrück - Einstimmig
+- TOP 11: Prüfung der Jahresrechnung 2013 der Gemeinde Ladbergen - Einstimmig
+- TOP 12: Haushaltssatzung und Haushaltsplan 2015; Einbringung - Einstimmig
+- TOP 13: Stellenplan 2015 - 19 Ja, 3 Nein, 0 Enthaltung(en)
+- TOP 14: Wiedereinführung einer Baumschutzsatzung
+- TOP 15: Zukunft der Förderschulen im Kreis Steinfurt - Einstimmig
+- TOP 16: Kindergartensituation - Einstimmig
+- TOP 17: "Energiespar-Euro" der Gemeinde Ladbergen für das Baugebiet "Hauskamp" - Einstimmig
+- TOP 18: Benennung der Straße im Neubaugebiet "Hauskamp" - Einstimmig
+- TOP 19: Ablösung der Beitragspflichten für die Grundstücke im Neubaugebiet "Hauskamp" - Einstimmig
+- TOP 20: Flächennutzungsplan
+- TOP 20.1: 39. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: a) Beratung von Anregungen b) Feststellungsbeschluss - Einstimmig
+- TOP 20.2: 33. Änderung des Flächennutzungsplanes der Gemeinde Ladbergen hier: Aufstellungsbeschluss - Einstimmig
+- TOP 21: Bebauungspläne
+- TOP 21.1: 1. Änderung des Bebauungsplanes Nr. 124 "Gewerbepark am Espenhof" hier: Aufstellungsbeschluss - Einstimmig
+- TOP 21.2: 5. Änderung/Erweiterung des Bebauungsplanes Nr. 115 "Industriegebiet Hafen" hier: Aufstellungsbeschluss - Einstimmig
+- TOP 21.3: 18. Änderung des Bebauungsplanes Nr. 4 "Ortslage" hier: Umweltbericht; ökologischer Ausgleich - 15 Ja, 7 Nein, 1 Enthaltung(en)
+- TOP 21.4: Bebauungspan Nr. 30 "Hauskamp" hier: a) Beratung von Anregungen . b) Satzungsbeschluss - Einstimmig
+- TOP 22: Mitteilungen und Anfragen
+- TOP 22.1: Energiespar-Euro
+- TOP 22.2: easy Drink Trinx Frischequelle an der Grundschule
+- TOP 22.3: Elektronisches Ratsinformationssystem (RIM)
