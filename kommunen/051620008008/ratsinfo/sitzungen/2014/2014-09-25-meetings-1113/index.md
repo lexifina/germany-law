@@ -1,0 +1,57 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-09-25T18:10:00+02:00
+- Ende: 2014-09-25T18:40:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1113
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1113
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Finanzzwischenbericht (Top 4) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054294.pdf
+- Ergebnisprotokoll: Finanzzwischenbericht (Top 4) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054294.pdf
+- Wortprotokoll: Finanzzwischenbericht (Top 4) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00054294.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: Anträge der CDU-Fraktion
+- TOP 2.2: Anträge der SPD-Fraktion
+- TOP 2.3: Anträge der UWG-Fraktion
+- TOP 2.3.1: Gestankbelästigung in Barrenstein - einstimmig
+- TOP 2.4: Anträge der FDP-Fraktion
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: Anträge der Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 3.2: Anträge der ABG-Fraktion
+- TOP 3.3: Anträge der Fraktion Mein Grevenbroich
+- TOP 3.4: Anträge der Fraktion Die Linke/Piraten
+- TOP 3.5: Gemeinschaftsanträge
+- TOP 3.6: Anfragen der CDU-Fraktion
+- TOP 3.7: Anfragen der SPD-Fraktion
+- TOP 3.8: Anfragen der UWG-Fraktion
+- TOP 3.9: Anfragen der FDP-Fraktion
+- TOP 3.10: Anfragen der Fraktion Bündnis 90/DIE GRÜNEN
+- TOP 3.11: Anfragen der ABG-Fraktion
+- TOP 3.11.1: Anfrage bezüglich der Unterbringung der Asylbewerber - Kenntnisnahme
+- TOP 3.12: Anfragen der Fraktion Mein Grevenbroich
+- TOP 3.13: Anfragen der Fraktion DIE LINKE/Piraten
+- TOP 3.13.1: Unfallhäufigkeit am Bahnhof Kapellen - Kenntnisnahme
+- TOP 3.13.2: Ungenutzte Bushaltestellen - Kenntnisnahme
+- TOP 3.13.3: Kleidercontainer - Kenntnisnahme
+- TOP 3.13.4: "Neue Bäume für Grevenbroich - Baumpate werden" - Aktion ins Leben rufen - einstimmig
+- TOP 4: Finanzzwischenbericht 2014 - Kenntnisnahme
+- TOP 5: Entwurf des Jahresabschluss 2011 - einstimmig
+- TOP 6: Zusammensetzung des Seniorenbeirates - einstimmig
+- TOP 7: Beantwortung Anträge
+- TOP 8: Beantwortung Anfragen
+- TOP 9: mündliche Anträge/Anfragen
+- TOP 9.1: Baustellen-/Straßenbeschilderung
+- TOP 9.2: Wettbürosteuer
+- TOP 9.3: Schwimmbad Wickrath
+- TOP 9.4: Kirmesplatzbeschickungen
+- TOP 9.5: ISEK
+- TOP 9.6: Breitbandausbau
+- TOP 9.7: Unterführung
+- TOP 10: Mitteilungen BM'in
