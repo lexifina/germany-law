@@ -1,0 +1,74 @@
+# 2. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-09-25T16:00:00+02:00
+- Ende: 2014-09-25T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3372
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3372
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_09_25 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00179456.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Zukunft der Crystal-Bekämpfung in Dresden - erledigt
+- TOP 2.2: Kündigung der Architekten-ARGE bei der Sanierung des neuen Rathauses - erledigt
+- TOP 2.3: Loschwitzer Straße 22 - erledigt
+- TOP 2.4: Tennenplatz des SV Sachsenwerk an der Bodenbacher Straße - erledigt
+- TOP 2.5: Änderung der Hauptsatzung - erledigt
+- TOP 2.6: Bahnhofsvorplatz Niedersedlitz - erledigt
+- TOP 2.7: "Tag der deutschen Zukunft" - erledigt
+- TOP 2.8: Aktuelle Entwicklungen bei der Baumaßnahme Schandauer Straße - erledigt
+- TOP 2.9: Einführung des DE-Mail-Prjektes - erledigt
+- TOP 2.10: Erweiterung des Neuen Jüdischen Friedhofs Dresden - erledigt
+- TOP 2.11: Freiraum Elbtal / Entwicklung Leipziger Vorstadt - erledigt
+- TOP 2.12: Auswahl der Spendenempfänger unter den vom Juni-Hochwasser 2013 betroffenen Unternehmen - erledigt
+- TOP 2.13: Fehlende Fahnenmasten an der Hauptstraße - erledigt
+- TOP 2.14: B172 - erledigt
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Vergabenummer: 2014-674-00002 - Zustimmung
+- TOP 5: Vergabenummer: 2014-65-00137 - Zustimmung
+- TOP 6: Vergabenummer: 2014-654-00080 - Zustimmung
+- TOP 7: Vergabenummer 2014-654-00052 Komplexe Sanierung 6. Grundschule, Fetscherstraße 2, 01307 Dresden - Zustimmung
+- TOP 8: Vergabenummer: 2014-65-00233 113. Grundschule Energetische Sanierung, Georg-Nerlich-Straße 1, 01307 Dresden Fachlos 07 - Wärmedämmverbundsystem - Zustimmung
+- TOP 9: Vergabenummer: 2014-GB221-00035 - Zustimmung
+- TOP 10: Vergabenummer: 2014-GB221-00052 - Zustimmung
+- TOP 11: Vergabenummer: 2014-GB221-00053 - Zustimmung
+- TOP 12: Vergabenummer: 2014-3751-00003 - Zustimmung
+- TOP 13: Vergabenummer: 2014-56-00005 - Zustimmung
+- TOP 14: Vergabenummer:2014-56-00010 - Zustimmung
+- TOP 15: Vergabenummer: 2014-56-00012 Sanierung, Umbau und Brandschutz, Städtisches Klinikum Dresden-Friedrichstadt, Haus N - Zustimmung
+- TOP 16: Vergabenummer: 2014-56-00017 Sanierung, Umbau und Brandschutz, Städtisches Klinikum Dresden-Friedrichstadt, Haus N Los 44 - Starkstrom - Zustimmung
+- TOP 17: Vergabenummer: 2014-56-00027 Sanierung, Umbau, Brandschutz, Städtisches Klinikum Dresden-Friedrichstadt, Haus N - Zustimmung
+- TOP 18: Vergabenummer: 2014-56-00016 Sanierung, Umbau und Brandschutz Städtisches Klinikum Dresden-Friedrichstadt, Haus N Los 45: Fernmelde-, Informationstechnik/Schwachstrom - - Zustimmung
+- TOP 19: Vergabenummer: 2014-6731-00009 - Zustimmung
+- TOP 20: Vergabenummer: 2014-52SPGr-00001 - einstimmig
+- TOP 21: Vergabenummer: 2014-1042-00014 - Zustimmung
+- TOP 22: Vergabenummer: 5061/14 Denkmalgerechte Instandsetzung und Hochwasserschadensbeseitigung Augustusbrücke einschl. Erneuerung Verkehrsanlagen und anschl. Ingenieurbauwerke, Los 1 - Treppenanlage und Arkadenstützwand T0009/S0009 Neustädter Brückenramp - Zustimmung
+- TOP 23: Feststellung der Jahresabschlussergebnisse 2012 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 24: Jahresabschluss 2013 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 25: Jahresabschluss 2013 des Eigenbetrieb IT- und Organisationsdienstleistungen Dresden - Zustimmung
+- TOP 26: Jahresabschluss 2013 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 27: Jahresabschluss 2013 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 28: Jahresabschluss 2013 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 29: Jahresabschluss 2013 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 30: Jahresabschluss 2013 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 31: Besetzung der Verbandsversammlung des Kommunalen Sozialverbandes Sachsen (KSV) - Zustimmung
+- TOP 32: „Karlsbrücke“ für Dresden - Verkehrsberuhigung Augustusbrücke und Sophienstraße - Ersetzung
+- TOP 33: Satzung zur Änderung der Hauptsatzung, der Geschäftsordnung des Stadtrates und zur Änderung weiterer Satzungen der Landeshauptstadt Dresden - punktweise Zustimmung mit Änderung
+- TOP 34: Änderung der Jugendamtssatzung - Verweisung
+- TOP 35: Satzung der Landeshauptstadt Dresden über die Erhebung von Kostenersatz für Leistungen der Feuerwehren (Feuerwehrkostensatzung) - Zustimmung
+- TOP 36: Veränderung im Finanzhaushalt 2014 des Brand- und Katastrophenschutzamtes - Zustimmung
+- TOP 37: Budgetneutrale Veränderungen im Haushalt 2014 der Dresdner Musikfestspiele - Zustimmung
+- TOP 38: Neubenennung von Straßen - Zustimmung
+- TOP 39: Vierte Verordnung zur Änderung der „Verordnung der Landeshauptstadt Dresden über die Beförderungsentgelte und -bedingungen für den Verkehr mit Taxen (Taxitarifverordnung)“ vom 4. März 1999 - Zustimmung
+- TOP 40: Verordnung über den Verkehr mit Taxen in der Landeshauptstadt Dresden (Taxiordnung) - Zustimmung
+- TOP 41: Verwendung von Spendenmitteln für vom Junihochwasser 2013 betroffene Unternehmen - Zustimmung
+- TOP 42.2: Offene Beschlussvorlagen
+- TOP 43: Einigungsverfahren Gremienbesetzung - beschließende Ausschüsse - Ablehnung
+- TOP 45: ausgereichte Informationsvorlagen
+- TOP 45.1: Haushaltsvollzug 2014 - Finanzzwischenbericht gem. § 75 Abs. 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2014 gem. § 8 Abs. 3 SächsEigBVO - zur Kenntnis genommen
