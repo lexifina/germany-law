@@ -1,0 +1,53 @@
+# Rat (81. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2014-09-30T18:01:00+02:00
+- Ende: 2014-09-30T19:53:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSJ9q8mBwaX61y8zu_qDZ40
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/12154
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUgo7485MxBMbRUzlvhBi51vxkS_xKr3_bunZmfOT1NI/Oeffentliche_Niederschrift_Rat_30.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 01.07.2014
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Pauschale Fahrtkostenerstattung an die stellvertretenden Bürgermeister der Stadt Emsdetten - 39 Ja-Stimme(n), 0 Gegenstimme(n), 4 Enthaltung(en)
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Anpassung der Verwaltungsgebührenordnung - Einstimmig
+- TOP 5.2: Änderung der Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Emsdetten vom 08.04.2008 - 41 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.3: Aussetzung von Sondernutzungsgebühren - Antrag Ratsmitglied Huesmann auf Satzungsänderung - (kein Text vorhanden)
+- TOP 6.: Etat / Budget
+- TOP 6.1: Feststellung des Jahresabschlusses 2012, Behandlung des Jahresfehlbetrages und Entlastung des Bürgermeisters - Einstimmig
+- TOP 7.: Finanzangelegenheiten
+- TOP 7.1: Beteiligungsbericht 2012 - Einstimmig
+- TOP 7.2: Jahresabschluss 2013 - Bestätigter Entwurf - Einstimmig
+- TOP 8.: Stadtwerke Emsdetten GmbH
+- TOP 8.1: Jahresabschluss 2013 Stadtwerke Emsdetten GmbH und Kapitalausschüttung - Einstimmig
+- TOP 9.: Bebauungspläne
+- TOP 9.1: Bebauungsplan Nr. 39 "Engelnkamp", 11. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 9.2: Bebauungsplan Nr. 8 F "Pankratiusgasse", 3. Änderung -Satzungsbeschluss - 36 Ja-Stimme(n), 0 Gegenstimme(n), 7 Enthaltung(en)
+- TOP 10.: Allgemeine Stadtentwicklungsplanung
+- TOP 10.1: Antrag auf Einrichtung eines Gestaltungsbeirates - 29 Ja-Stimme(n), 13 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 10.2: Antrag der Fraktion DIE GRÜNEN zur Durchführung einer Haushaltsbefragung im Rahmen des "Aktivierungsprozesses Innenstadt" - (kein Text vorhanden)
+- TOP 11.: Räume für Fraktionen - 27 Ja-Stimme(n), 15 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 12.: Wahl von sachkundigen EinwohnerInnen als beratende Ausschussmitglieder - Einstimmig
+- TOP 13.: Wahrnehmung von Mitgliedschaftsrechten; hier: Delegiertenversammlung des Rates der Gemeinden und Regionen Europas - Einstimmig
+- TOP 14.: Bestätigung des Gesamtabschlusses 2010, Verwendung des Gesamtüberschusses und Entlastung des Bürgermeisters - Einstimmig
+- TOP 15.: Umbau und Erweiterung der Feuerwache Hier: Vorstellung der Entwurfs- und Ausführungsplanung zur Erweiterung der RTW Halle - Einstimmig
+- TOP 16.: Planung von Tiefbauvorhaben
+- TOP 16.1: Bauprogramm für die Lange Straße (Amtmann-Schipper-Straße bis Rheiner Straße) - Einstimmig
+- TOP 16.2: Bauprogramm an Hand des Bestandsplanes für die Pfarrer-Wellingmeyer-Straße und den Friedhofsweg (Teilstück 1, von der K2 in Richtung Friedhof) - Einstimmig
+- TOP 17.: Schulangelegenheiten
+- TOP 17.1: Wahl der Schulleitungen der Emsdettener Schulen nach dem Schulgesetz hier: Entsendung von Mitgliedern des Schulträgers in die erweiterten Schulkonferenzen - Einstimmig
+- TOP 17.2: Zukunft der Förderschulen im Kreis Steinfurt; hier: Auflösung der Annette-von-Droste-Hülshoff-Schule - Einstimmig
+- TOP 18.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 18.1: Kinder- und Jugendförderplan der Stadt Emsdetten 2015 - 2020 - 41 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.2: Förderung der Träger der Kinder- und Jugendhilfe, der offenen Kinder- und Jugendarbeit, der Jugendsozialarbeit und des erzieherischen Kinder- und Jugendschutzes für den Zeitraum von 2015 bis 2020 - Einstimmig
+- TOP 18.3: Verfahren zur Bildung eines Jugendbeirates in der Stadt Emsdetten - Abgesetzt
+- TOP 19.: Verschiedenes
