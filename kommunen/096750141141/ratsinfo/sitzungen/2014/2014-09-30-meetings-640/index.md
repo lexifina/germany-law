@@ -1,0 +1,57 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2014-09-30T18:00:00+02:00
+- Ende: 2014-09-30T00:00:00+02:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/640
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/640
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00016619.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00016943.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der öffentlichen Niederschrift des Stadtrates vom 24.07.2014 - beschlossen
+- TOP 2: Haushaltsüberschreitungen; HSt. 4351 5010 - Obdachlosenunterkünfte; Unterhalt eigener Gebäude HSt. 0600 9458 - Einrichtung für die gesamte Verwaltung - Heizung und Lüftungszentrale Rathaus - Ohne Abstimmung
+- TOP 3: Bebauungsplan Nr. 24 "Flugplatzstraße", 3. Änderung (Erweiterung des Firmengeländes der Fa. LEONI Bordnetz-Systeme GmbH und der Fa. Höhn) - zurückgestellt
+- TOP 4: Flächennutzungsplan der Stadt Kitzingen; hier: Beschluss über die Neubekanntmachung gem. § 6 Abs. 6 BauGB - beschlossen
+- TOP 5: Bebauungsplan Nr. 58 "Hoheim - Fröhstockheimer Straße", 2. Änderung; hier: Aufstellungsbeschluss, Billigung des Entwurfs gem. § 3 II BauGB und Beschluss über die öffentliche Auslegung und Benachrichtigung der betroffenen Behörden und TÖB - beschlossen
+- TOP 6: Umgestaltung des Bahnhofsumfeldes in Kitzingen - beschlossen
+- TOP 7: Sanierung der Evang. Luth. Bergkirche in Hohenfeld Kostenbeteiligung der Stadt Kitzingen - beschlossen
+- TOP 8: Bayerischer Kommunaler Prüfungsverband, Überörtliche Prüfung der Jahresrechnungen 2007 - 2010
+- TOP 8.1: Überörtliche Prüfung der Jahresrechnung 2007-2010; TZ 14: Die Kosten der Schülerbeförderung sind zutreffend abzugrenzen und zuzuordnen. - Ohne Abstimmung
+- TOP 8.2: Bayerischer Kommunaler Prüfungsverband, Überörtliche Prüfung der Jahresrechnungen 2007 - 2010; TZ 17: Bei der Abwicklung von Spenden wurde der auch in den Spendenbescheinigungen bestätigte Verwendungszweck nicht ausreichend beachtet - Ohne Abstimmung
+- TOP 9: Kommunales Unternehmensrecht - Beteiligungsbericht 2012 - Ohne Abstimmung
+- TOP 10: Kaimauer Oberer Mainkai, Information Sachstand und Beschluss weitere Maßnahmen - beschlossen
+- TOP 11: Aufbau eines Ökokontos - beschlossen
+- TOP 12: Budgetübertrag
+- TOP 12.1: Budgetabrechnung 2013; Budget Standesamt - UA 0501 - beschlossen
+- TOP 12.2: Budgetabrechnung für das Haushaltsjahr 2013; Budget Verkehrsüberwachung - UA 1122, UA 6815 - Ohne Abstimmung
+- TOP 12.3: Budgetabrechnung für das Haushaltsjahr 2013; Budget Feuerwehr -UA 1300- - Ohne Abstimmung
+- TOP 12.4: Budgetabrechnung für das Haushaltsjahr 2013; Gesamtbudget "Schulen Betriebskosten"-UA 2111, 2112, 2121, 2122 und 2431- - beschlossen
+- TOP 12.5: Budgetabrechnung für das Haushaltsjahr 2013; Gesamtbudget "Sportanlagen" - UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 12.6: Budgetabrechnung für das Haushaltsjahr 2013; Budget "Schulischer Sachaufwand" für die Friedrich-Bernbeck-Schule - UA 2431 - beschlossen
+- TOP 12.7: Budgetabrechnung für das Haushaltsjahr 2013 Budget Alte Synagoge - UA 3009 - beschlossen
+- TOP 12.8: Budgetabrechnung des Städtischen Archivs - UA 3111 - für das Haushaltsjahr 2013 - Ohne Abstimmung
+- TOP 12.9: Budgetabrechnung des Städtischen Museums für das Haushaltsjahr 2013 - UA 3200 - Ohne Abstimmung
+- TOP 12.10: Budgetabrechnung für das Haushaltsjahr 2013; Musikschule - UA 3331 - beschlossen
+- TOP 12.11: Budgetübertrag von 2013, UA 3400, Heimat- und Kulturpflege - beschlossen
+- TOP 12.12: Budgetabrechnung für das Haushaltsjahr 2013 Budget Volkshochschule - UA 3501 - beschlossen
+- TOP 12.13: Budgetabrechnung 2013 jungStil UA 4605 - beschlossen
+- TOP 12.14: Budgetabrechung für das Haushaltsjahr 2013; Gesamtbudget Straße, Wege, Plätze - UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900 und 7850 - beschlossen
+- TOP 12.15: Budgetabrechnung für das Haushaltsjahr 2013; Budget UA 5821 - Gärtnerei - Ohne Abstimmung
+- TOP 12.16: Budgetabrechung 2013; Budget Abwasserbeseitigung - UA 7000, 7002, 7006, 7146, 7189 - Ohne Abstimmung
+- TOP 12.17: Budgetabrechnung 2013; Gesamtbudget "Städtische Friedhöfe - UA 7510 bis UA 7516 - beschlossen
+- TOP 12.18: Budgetabrechnung für das Haushaltsjahr 2013; - Ohne Abstimmung
+- TOP 12.19: Budgetabrechnung für das Haushaltsjahr 2013; Budget Tourist-Info - UA 7901 - - beschlossen
+- TOP 12.20: Budgetabrechnung 2013; Budget „Städtischer Waldbesitz“ - UA 8551 - Ohne Abstimmung
+- TOP 12.21: Budgetabrechnung 2013; Budget „Wohn- und Geschäftsgrundstücke“ - UA 8801 - Ohne Abstimmung
+- TOP 12.22: Budgetabrechnung 2013; Budget „Sonstiges Allgemeines Grundvermögen“ - UA 8891 - Ohne Abstimmung
+- TOP 13: Sonstiges
+- TOP 13.1: Anfragen von Stadträtin Glos Information zum Marktcafe Zustand Dietz-Gebäude
+- TOP 13.2: Anfrage von Stadtrat Marstaller Ampelschaltung Kreuzung Siegfried-Wilke-Straße
+- TOP 13.3: Anfrage von Stadtrat Pauluhn Anbindung Innere Sulzfelder Straße in die Innenstadt
+- TOP 13.4: Anfrage von Stadträtin Kahnt Schäden am Sieboldgarten im ehem. Gartenschaugelände
