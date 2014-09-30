@@ -1,0 +1,94 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-09-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3120133
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3120133
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse BürgerStiftung München Tag der Stiftungen am 01.10.2014
+- TOP .2.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Andreas Andreaskonzert am 28.11.2014
+- TOP .1.: REGSAM ? ein starkes soziales Netzwerk für München, REGSAM-Ressourcen anpassen und verstetigen, Anhörung des Sozialreferates zu einem Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss vom 04.11.2014
+- TOP .1.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP .1.: Vorstellung der Planungen für den Neubau einer Portalklinik für das Klinikum der Universität München durch Vertreter der Ludwig-Maximilians-Universität, vertagt aus 2014.08 B 0
+- TOP .1.: Standorte für Wertstoffcontainer als Unterflurcontainer im 2. Stadtbezirk, siehe auch B 3.3.1
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Auenstr. 84, Nutzungsänderung sowie Erweiterung zweier DG-Wohnungen
+- TOP .2.: Schillerstr. 5, Erweiterung / Aufstockung eines Hotels (5 Doppelzimmer, 2 Suiten), vertagt aus 2014.08 B 3.1.4 (Eilentscheidung)
+- TOP .3.: Baaderstr. 1, Erweiterung eines Hotels um 7 Zimmer, Anbau eines Fluchttreppenhauses und Aufstockung des Seitenflügels ? Tektur, vertagt aus 2014.08 B 3.1.12 (Eilentscheidung)
+- TOP .4.: Baaderstr. 86-90, Teilnutzungsänderung und Erweiterung eines Wohnheims in ein Hotel und Umbau eines Wohnheims in ein Wohngebäude mit Aufstockung zweier Wohneinheiten ? Tektur, vertagt aus 2014.08 B 3.1.13 (Eilentscheidung)
+- TOP .5.: Baaderstr. 86-90, Teilnutzungsänderung und Erweiterung eines Wohnheims in ein Hotel und Umbau eines Wohnheims in ein Wohngebäude mit Aufstockung zweier Wohneinheiten ? Tektur, vertagt aus 2014.08 B 3.1.14 (Eilentscheidung)
+- TOP .6.: Bahnhofpl. 1, Nutzungsänderung: Büro- zu Hotelflächen / Aufstockung ? Vorbescheid, vertagt aus 2014.08 B 3.1.15 (Eilentscheidung)
+- TOP .7.: Lindwurmstr. 123/RGB, Aufstockung einer Garage sowie Errichtung dreier Appartements und eines Dreifachparkers, vertagt aus 2014.08 B 3.1.16 (Eilentscheidung)
+- TOP .8.: Palmstr. 12, Sanierung eines rückwärtigen Gebäudes, Erweiterung einer Wohnung im 2. Obergeschoss ins Dachgeschoss, Umbau des Dachs und Errichtung von Balkonen, vertagt aus 2014.08 B 3.1.17 (Eilentscheidung)
+- TOP .9.: Sonnenstr. 26, Neuerrichtung einer Innenhofbebauung mit Anbindung an ein denkmalgeschütztes Gebäude (Frist: 22.09.2014), vertagt aus 2014.08 B 3.1.18 N (Eilentscheidung)
+- TOP .10.: Zweigstr. 6, Nutzungsänderung und Umbau von Speicher in Hotelzimmer ? Vorbescheid, vertagt aus 2014.08 B 3.1.20 N (Eilentscheidung)
+- TOP .11.: Klenzestr. 1, Nutzungsänderung von Gemeinschaftsräumen und einer Wohnung im EG zu Gewerbeflächen (Lager-, Internetverkaufs- und Dienstleistungsflächen) sowie von 8 Wohnheimzimmern im DG zu 4 Wohnheimwohnungen (Klenzestr. 1 / Rumfordstr. 32-RGB) ? Tektur
+- TOP .12.: Am Glockenbach 11, Dachgeschoss-Ausbau
+- TOP .13.: Mittererstr. 9, Aufstockung eines gewerblich genutzten Gebäudes ? Vorbescheid
+- TOP .14.: Fraunhoferstr. 36/RGB, Aufstockung einer eingeschossigen Gewerbeeinheit und Errichtung einer Dachterrasse auf der Dachfläche des Seitengebäudes ? Vorbescheid
+- TOP .15.: Goethestr. 74, Nutzungsänderung von Büros zu Büros, einer Wohnung mit Büro, einer Spielhalle und einer Cafébar
+- TOP .16.: Ickstattstr. 32, DG-Ausbau sowie Anbau Personenaufzug + Windfang
+- TOP .17.: Buttermelcherstr. 6, Nutzungsänderung Laden zu Gaststätte und Einbau einer Toilette
+- TOP .18.: Reichenbachstr. 31/RGB: Wohnungszusammenlegung EG + 1 OG mit Teilung der Wohnung im 1. OG, Treppendurchbruch durch die Geschossdecke, Nutzungsänderung EG / westlicher Teil (Büro zu Wohnzimmer), Fenstertausch (Wohnung 1. OG / Ostseite), Einbau neue Balkonfenstertür und Errichtung Fenster an Verbindungstreppe
+- TOP .19.: Senefelder Str. 7-9, Anbau eines Büro- und Lagergebäudes im südl. Innenhof eines Hotels
+- TOP .20.: Adlzreiterstr. 15, Sanierung u. Aufstockung der Wohn- und Geschäftsgebäude, Nutzungsänderung der Gewerbeflächen zu Wohnen / Büro (Loftnutzung) - Tektur
+- TOP .21.: Lindwurmstr. 75, Ausbau Speicher im DG zu Wohnung mit Loggia, Erweiterung der Aufzugsüberfahrt, Erneuerung von fünf Gauben zur Straße und 3er Gauben zum Hof - Tektur
+- TOP .22.: Arndtstr. 2, Neubau eines Mehrfamilienhauses mit Tiefgarage ? Vorbescheid
+- TOP .23.: Schwanthalerstr. 88, Errichtung eines Wohngebäudes mit Tiefgarage
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Ziemssenstr. 1, Baumfällung im Rahmen eines Bauvorhabens zur Errichtung eines Bettenhauses in Modulbauweise als temporäres Bauwerk, vertagt aus 2014.08 B 3.2.4 (Eilentscheidung)
+- TOP .2.: Auenstr. 76, Antrag auf Baumfällung, 1 Buche
+- TOP .3.: Klenzestr. 17, Antrag auf Baumfällung, 1 Birke
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Anhörung des Abfallwirtschaftsbetriebes zur Einrichtung von Standorten für Wertstoffcontainer als Unterflurcontainer mit Einwurfsäulen: a) Bavariaring 20, b) Bavariaring 28, c) Bavariaring 35, d) Bavariaring 37, e) Bavariaring 42, f) Isartalstr. / Dreimühlenstr., g) Isartalstr. 22, h) Zollstr. / Wendehammer
+- TOP .2.: Erhalt des Anwesens Thalkirchner Straße 110 durch Markthallen München bzw. Kommunlareferat, zumindest bis das gesamte Gelände überplant wurde, BA-Antrag Nr. 14-20 / B 00250 vom 29.07.2014, Nachfrage des Kommunalreferates zur weiteren Behandlung des BA-Antrages, siehe auch Antwortschreiben bezüglich Denkmalschutz für das Anwesen Thalkirchner Straße 110 (TOP B 4.5)
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .2.: Bürgeranliegen: Neugestaltung des St.-Pauls-Platzes (Sachstand), Wiederherstellung der Sichtachse zwischen der Pfarrkirche St. Paul und der Bavaria/Ruhmeshalle
+- TOP .3.: Rundbank / Bänke am Karl-Heinrich-Ulrichs-Platz, Terminfindung für Ortstermin
+- TOP .1.: Vorstellung des Vereins ?Allgemeiner Deutscher Fahrradclub (ADFC) Kreisverband München e.V.? durch Vereinsvertreter
+- TOP .1.: Verlegung der Haltelinie für Radfahrer Richtung Innenstadt an der Nordwestecke der Wittelsbacherbrücke um einige Meter nach Osten
+- TOP .2.: Testweise Ausstattung mehrerer Mülleimer am Bahnhofsplatz mit einem Pfandring
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Gärtnerplatz 5, ?Kochhaus?, Genehmigung einer Freischankfläche
+- TOP .2.: Landwehrstr. 31, Gaststätte ?Schirina Nawa?, Genehmigung einer Freischankfläche
+- TOP .3.: Fraunhoferstr. 44, ?Rischart's Backhaus?, Genehmigung einer Freischankfläche
+- TOP .4.: Klenzestr. 51, ?Bäckerei Zöttl?, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Rumfordstr. 18, ?Trödeloase?, Erweiterung einer Warenauslage (3 Bücherstellagen)
+- TOP .2.: Dreimühlenstr. 20, ?Radlklinik?, Aufstellung eines mobilen Fahrradständers
+- TOP .3.: Ehrengutstr. 25, ?Grünzeug?, Aufstellung von Warenauslagen
+- TOP .4.: Lindwurmstr. 56-58, ?Bric à Brac ? Flohmarkt?, Aufstellung von Warenauslagen
+- TOP .5.: Baaderstr. 2, Seite Rumfordstr., Sondernutzung für eine Zeitungsverkaufseinrichtung
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Nutzungsanfragen Theresienwiese 2015, Anhörung des Referats für Arbeit und Wirtschaft, siehe 2014.07 C 3.1.4 N
+- TOP .3.2: Verkehr
+- TOP .1.: Anfrage zur Durchführung eines eintägigen Open-Air-Konzertes auf dem ehemaligen Viehhof-Gelände im Mai 2015, vertagt aus 2014.08 C 3.3.2 N
+- TOP .2.: Mögliche Vermietung der Freifläche auf dem ehemaligen Viehhof-Gelände im Zeitraum von November 2014 bis Januar 2015, vertagt aus 2014.08 C 3.3.3 N
+- TOP .3.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund, BA-Antrag Nr. 08-14 / B 05467 des BA 2 vom 17.12.2013, Anhörung aller Bezirksausschüsse
+- TOP .4.: Aufstellungsorte für weitere Hundekottütenspender, Anhörung des Baureferates
+- TOP .1.: Bürgeranliegen: Engstelle Geyerstr. / Karl-Heinrich-Ulrichs-Platz
+- TOP .2.: Bürgeranliegen: Hackerbrücke, Behinderung durch Litfaßsäulen
+- TOP .3.: Bürgeranliegen: Haltestellenverlegung Poccistraße während des Oktoberfest
+- TOP .4.: Bürgeranliegen: Autofahrten durch Wohngebiete zur Ampelvermeidung
+- TOP .5.: Bürgeranliegen: Entfernung einer Sitzbank, Westermühlstr. / Holzstr.
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .&nbsp;: Unterrichtungen
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
+- TOP .2.: Unterausschuss ?Kultur, Jugend, Soziales? am Dienstag, den 06.10.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 07.10.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 08.10.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 13.10.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 21.10.2014 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
