@@ -1,0 +1,60 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-09-30T18:00:00+02:00
+- Ende: 2014-09-30T20:25:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbP0JihU1vRItFym_pjxUE0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/17675
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2x7EijM3mruR9yCsYSRwep-6g23T7rKViZEjdM5gbo/Bekanntmachung_Rat_30.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbyvfEquXCgNiVr4t5dqHPBNVFuPtYDy7kEamgvk4b7v/Oeffentliche_Niederschrift_Rat_30.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzungen des Rates vom 24.06.2014 und vom 01.07.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Einführung und Verpflichtung der stellvertretenden Bürgermeisterin - Beschluss
+- TOP 5.: Beratung und Beschlussfassung über die Gültigkeit der Wahl der Stadtverordneten im Rat der Stadt Bad Münstereifel gemäß § 40 Kommunalwahlgesetz NRW - Einstimmiger Beschluss:
+- TOP 6.: Bürgerantrag gem. § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW); Entfernung der Altglas-Sammelbehälter in der Ortslage Langscheid - Beschluss mit 21 Ja- zu 3 Nein-Stimmen bei 3 Enthaltungen:
+- TOP -: Bürgerantrag gem. § 24 Gemeindeordnung Nordrhein-Westfalen (GO NRW); Entfernung der Altglas-Sammelbehälter in der Ortslage Langscheid - Beschluss
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Berufung von Mitgliedern in den Betriebsausschuss und die Verbandsversammlung des Wasserverbandes Oleftal - Einstimmiger Beschluss:
+- TOP 9.: Behindertenbeirat; hier: Neubenennung der Mitglieder aus den Fraktionen - Einstimmiger Beschluss:
+- TOP 10.: Ratsinformationssystem; Prüfauftrag mit der Einrichtung einer Beschlussüberwachung hier: Antrag der CDU-Fraktion vom 15.09.2014 - Einstimmiger Beschluss:
+- TOP 11.: Zuschuss Trägeranteil und Sachkosten DRK; hier: Genehmigung einer überplanmäßigen Ausgabe - Beschluss
+- TOP -: Zuschuss Trägeranteil und Sachkosten DRK; hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 12.: Einführung eines Fremdenverkehrsbeitrages - Beschluss
+- TOP -: Einführung eines Fremdenverkehrsbeitrages - Einstimmiger Beschluss:
+- TOP 13.: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung) - Beschluss
+- TOP -: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung); hier: Rechtliche Voraussetzungen für Bewohner- bzw. Anwohnerparkplätze (u. a. Antrag der UWV-Fraktion vom 28.08.2014) - Beschluss
+- TOP -: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung); hier: Schreiben einiger Gewerbetreibenden und Freiberufler im Bereich des Werther Tores - Beschluss
+- TOP -: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung) - Beschluss mit 24 Ja-Stimmen bei 3 Enthaltungen:
+- TOP 14.: 25. Änderung des Flächennutzungsplanes für die Ortslagen Hummerzheim, Bruchgartenweg und Reckerscheid, An der Haag hier: Abwägungsbeschlüsse, abschließender Beschluss - Die Abwägungsbeschlüsse (= Anlage A der Originalniederschrift) erfolgen alle einstimmig.Beschluss mit 24 Ja-Stimmen bei 3 Enthaltungen:
+- TOP 15.: Satzung der Stadt Bad Münstereifel über die Einbeziehung einzelner Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Reckerscheid im Bereich "An der Haag" (Ergänzungssatzung) hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage B der Originalniederschrift) erfolgen alle einstimmig.Beschluss mit 24 Ja-Stimmen bei 3 Enthaltungen:
+- TOP 16.: Nachforderung Stromkosten Straßenbeleuchtung für das Abrechnungsjahr 2013 hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 17.: Beseitigung von Hochwasserschäden an Gewässern hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 18.: Erlass des Wirtschaftsplanes 2015 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 19.: Gebührenbedarfsberechnung 2015 zur Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Bad Münsteriefel (Gebührensatzung zur Straßenreinigungssatzung) vom 10.12.1980 - Einstimmiger Beschluss:
+- TOP 20.: Haushalt 2014 hier: Bericht zum 30.06.2014 im Rahmen des Finanzcontrollings - Beschluss
+- TOP 21.: Gesamtabschluss 2010 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Gesamtabschlusses 2010 und Entlastung gem. § 116 GO NRW i.V.m. § 96 GO NRW - Zu Punkt 1:Beschluss mit 23 Ja- zu 3 Nein-Stimmen bei 2 EnthaltungenZu Punkt 2: Beschluss mit 22 Ja- zu 3 Nein-Stimmen bei 2 Enthaltungen unter Nichtmitwirken des Bürgermeisters
+- TOP 22.: Jahresabschluss 2013 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses und Entlastung gem. § 96 Abs. 1 GO NRW - Zu Punkt 1:Beschluss mit 27 Ja-Stimmen bei 2 EnthaltungenZu Punkt 2:Beschluss mit 22 Ja- zu 2 Nein-Stimmen bei 3 Enthaltungen unter Nichtmitwirken des BürgermeistersZu Punkt 3:Einstimmiger Beschluss
+- TOP 23.: Anbindung an den Frühzug durch zusätzliche TaxiBus-Fahrten; hier: Antrag der SPD-Fraktion vom 26.09.2014 - Beschluss:Mit 15 Ja- zu 12 Nein-Stimmen bei 1 Enthaltung wird dem Vertagungsantrag zugestimmt-
+- TOP 24.: Anfragen und Mitteilungen
+- TOP 24.1: Eröffnung City-Outlet; hier: Anfrage des Stadtverordneten der Partei "Die Linke" vom 19.08.2014 - Beschluss
+- TOP 24.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V. mit § 17 Abs. 2 der Hauptsatzung für das 1. Halbjahr 2014 - Beschluss
+- TOP 24.3: Festschrift zum Jubiläum Ashford-Bad Münstereifel-Fougères
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Konzessionsvertrag mit der Regionalgas Euskirchen GmbH & Co. KG; hier: Ergänzende Vereinbarung zum Konzessionsvertrag vom 28.05.2014 - Einstimmiger Beschluss:
+- TOP 2.: Verwertung des Grundstücks Gemarkung Münstereifel, Flur 1, Nr. 4710 - Einstimmiger Beschluss:
+- TOP -: Verwertung des Grundstücks Gemarkung Münstereifel, Flur 1, Nr. 4710 - Beschluss
+- TOP 3.: Parkplätze auf dem Grundstück Gemarkung Münstereifel, Flur 5, Nr. 1064, Delle; hier: Aufhebung eines Pachtvertrages - Beschluss
+- TOP -: Parkplätze auf dem Grundstück Gemarkung Münstereifel, Flur 5, Nr. 1064, Delle; hier: Aufhebung eines Pachtvertrages - Beschluss mit 22 Ja- zu 5 Nein-Stimmen bei 1 Enthaltung:
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Erwerb städt. iPad's - Beschluss
+- TOP 5.2: Weitergabe vertraulicher Informationen hier: Anfrage des Stadtverordneten Christof Milischewski
