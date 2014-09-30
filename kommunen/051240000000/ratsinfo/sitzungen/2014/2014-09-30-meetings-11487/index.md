@@ -1,0 +1,91 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-09-30T16:05:00+02:00
+- Ende: 2014-09-30T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11487
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11487
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00171120.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00171755.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: 4. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2015 - eingebracht
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Ärztliche Versorgung in Wuppertal sichern - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Große Anfrage - Ärztliche Versorgung in Wuppertal sichern - abschließend zur Kenntnis genommen
+- TOP 2.2: Döppersberg Verhandlung mit Investor - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Döppersberg - Verhandlungen mit Investor - Antwort auf Anfrage - abschließend zur Kenntnis genommen
+- TOP 2.3: Barrierefreies Bauen beim Döppersberg-Umbau - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Barriere freies Bauen beim Döppersberg-Umbau - Einhaltung DIN 18040 - abschließend zur Kenntnis genommen
+- TOP 2.4: Notfallrettung in Wuppertal/ Notfallwege während der B7-Sperrung - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Notfallrettung in Wuppertal / Notfallwege wegen der B7-Sperrung überprüfen; Antwort auf die Anfrage der Ratsfraktion DIE LINKE - abschließend zur Kenntnis genommen
+- TOP 2.5: Abweisung eines Bürgerantrags durch den Oberbürgermeister - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Beantwortung der Anfrage der Ratsgruppe PRO NRW - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Fassung einer Resolution
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Schulsozialarbeit muss bleiben - abgelehnt
+- TOP 4.1.1: Sachanträge zur Schulsozialarbeit der Ratsgruppe PRO NRW sowie DIE REPUBLIKANER vom 20.09.2014 - abgelehnt
+- TOP 4.1.2: Gemeinsamer Antrag Schulsozialarbeit - ungeändert beschlossen
+- TOP 4.2: Verkehrsinformationen für Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.2.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.2 - ungeändert beschlossen
+- TOP 4.3: Ja zur kommunalen Selbstverwaltung und zur kommunalen Daseinsvorsorge - abgelehnt
+- TOP 4.3.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.3 und 4.7 - ungeändert beschlossen
+- TOP 4.4: Festlegung der Geschäftskreise der Beigeordneten gem. § 73 Abs. 1 GO NW - ungeändert beschlossen
+- TOP 4.5: Appell an den Landesgesetzgeber: Der Rat der Stadt Wuppertal muss handlungsfähig bleiben! - ungeändert beschlossen
+- TOP 4.5.1: Sachanträge zur geplanten Änderung der bestehenden Gesetzeslage zur Zuteilung von Mandaten in kommunalen Vertretungen Nordrhein-Westfalens - abgelehnt
+- TOP 4.5.2: Änderungsantrag zu TOP 4.5, Appell an den Landesgesetzgeber - abgelehnt
+- TOP 4.6: Resolution Johnson Controls - abgelehnt
+- TOP 4.7: Stopp TTIP für die kommunale Selbstverwaltung
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Neufassung der Satzung des Jugendamtes der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.1.1: Änderungsantrag zu TOP 6.1 VO 0290/14 Neufassung der Satzung des Jugendamtes der Stadt Wuppertal - erledigt durch Beschluss zu einem anderen TOP
+- TOP 6.2: Dritte Satzung zur Änderung der Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 6.3: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Jahr 2015 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2013 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2013 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss der Jobcenter Wuppertal AöR für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2013 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebentrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.6: Änderung des Gesellschaftsvertrages der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 954 - Döppersberg - - ungeändert beschlossen
+- TOP 9.2: 63. Flächennutzungsplanänderung - Sportplatz Sondern - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1151 - Sportplatz Sondern - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1094 - Christbusch / Haus Waldfrieden - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1195 - Uellendahler Straße / Bornberg - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1182 - Friedrich-Ebert-Straße / Haarhausstraße - - ungeändert beschlossen
+- TOP 9.7: Aufhebung des Aufstellungsbeschlusses für die 74. Flächennutzungsplanänderung "Windenergienutzung Kleine Höhe" und Grundsatzbeschluss für die Errichtung einer Windenergieanlage im Bereich Kleine Höhe - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 1171 - Gesundheitstraße - (mit Flächennutzungsplanberichtigung 70B) - Satzungsbeschluss - Durchführungsplan 48 - Satzungsbeschluss zur Aufhebung - - ungeändert beschlossen
+- TOP 9.9: Bebauungsplan 1182 - Friedrich-Ebert-Straße / Haarhausstraße -
+- TOP 9.10: Bebauungsplan 1174 - Worderberg / Dönberger Straße -
+- TOP 9.11: Bebauungsplan 1204 - Reuterstraße / Lessingstraße -
+- TOP 9.12: Bebauungsplan 1183 - Wendehammer "Am Opphof"
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung des Berufskollegs am Haspel - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2015/Katalogentwurf 2016 - ungeändert beschlossen
+- TOP 11.2: Harmonisierung Trinkwassergebühr und Schmutzwassergebühr beim Steueramt - ungeändert beschlossen
+- TOP 11.3: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2014 bis 30.06.2016 - geändert beschlossen
+- TOP 11.4: Teilnahme am Flächenpool NRW - ungeändert beschlossen
+- TOP 11.5: Vorbereitung der Teilnahme an Programmen der Städtebauförderung - ungeändert beschlossen
+- TOP 11.6: Aufhebung der am 01.01.1999 in Kraft getretenen Anlage zur Geschäftsanweisung "Leitbild des Rechnungsprüfungsamtes der Stadt Wuppertal" und Inkrafttreten eines neuen Leitbildes des Rechnungsprüfungsamtes der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.7: Abgesetzt. Drucksache wurde von der Verwaltung zurückgezogen.
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Wahl der sachkundigen Einwohnerinnen und Einwohner für die Wahlperiode 2014-2020 - geändert beschlossen
+- TOP 12.2: Amtszeit der neu gewählten Mitglieder des Aufsichtsrates der AWG Abfallwirtschaftsgesellschaft mbH - ungeändert beschlossen
+- TOP 12.3: Entsendung eines Vertreters der Stadt Wuppertal in den Betriebsausschuss der eigenbetriebsähnlichen Einrichtung aKDn-sozial des Zweckverbandes "KDN - Dachverband Kommunaler IT-Dienstleister" für die aktuelle Wahlperiode des Rates - ungeändert beschlossen
+- TOP 12.4: Benennung der Vertreter der Stadt Wuppertal in der Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister für die aktuelle Wahlperiode des Rates - ungeändert beschlossen
+- TOP 12.5: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.6: Umbesetzung Verwaltungsrat Stadtsparkasse - ungeändert beschlossen
