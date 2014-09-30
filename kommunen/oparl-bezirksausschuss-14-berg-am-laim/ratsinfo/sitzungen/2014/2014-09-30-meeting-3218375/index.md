@@ -1,0 +1,106 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-09-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218375
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218375
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Mauer und Zaun vor der Loretokapelle, Ecke Baumkirchner / Josephsburgstraße: fachgerechte Sanierung der Ziegelsteinmauer und Entfernung der Werbetafeln am Zaun - <div></div>
+- TOP 2: (E) Signalisierte Überwege an der St.-Veit-Straße / Waldstraße und an der St.-Michael-Straße / Hachinger-Bach-Straße (Ziffer 1) Überprüfung des Punktesystems für die Bedarfsanalyse zur Errichtung neuer Lichtzeichenanlagen (Ziffer 2) - <div></div>
+- TOP 3: (E) Sicherheit für Fußgänger an der Kreuzung Baumkirchner Straße / Neumarkter Straße - <div></div>
+- TOP 3.4.: Hansjakobstraße / Roßsteinstraße - Projektplanung Tiefbaumaßnahme
+- TOP 5: (E) Einbruchsicherheit in der Fehwiesenstraße - Ziffer 1) Erhöhung der Polizeipräsenz in der Siedlung Fehwiesenstraße Ziffer 2) Beratungstermin zur Einbrucherkennung und -sicherung für den Verein Fehwiesenstraße e.V. - <div></div>
+- TOP 5.6.: Altöttinger Str. 34 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.7.: Grafinger Str. 103 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.8.: Schlüsselbergstraße 38 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.9.: Truderinger Str. 164 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.10.: Heinrich-Wieland-Straße 14 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.11.: Zehntfeldstraße 81 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.12.: St.-Michael-Str. 88 - Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 5.13.: Friedenstraße 10 - Antrag auf Sperrzeitaufhebung der "Theaterfabrik"
+- TOP 5.14.: Friedenstraße 10 - Antrag auf Sperrzeitaufhebung des "Bullitt Club"
+- TOP 5.15.: Rosenheimer Str. 145 h - Antrag auf Sperrzeitaufhebung des "Crowns Club"
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1: Planungsangelegenheiten/Bauvorhaben
+- TOP 3.1.1.1.: Rosenheimer Str. 145c - Nutzungsänderung eines Büros in eine Turn- und Sporthalle
+- TOP 3.1.1.2.: Friedenstr. 4 - Neubau gewerbl. Boardinghouse mit Betreiberwohnung und Tiefgarage (Alternativen: Hotel oder Studentenwohnheim bzw. anteilige Wohnnutzung)
+- TOP 3.1.1.3.: Friedenstr. 26 - Arrondierung Bildungszentrum der Handwerkskammer, Umbau und Modernisierung Gebäude C
+- TOP 3.1.1.4.: Baumkirchner Str. - Neubau eines Mehrfamilienhauses mit 144 Wohneinheiten und einer TG mit 146 Stellplätzen sowie einem Bewohnertreff
+- TOP 3.1.1.5.: Altöttinger Str. 31 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.6.: Glasfaseranschlüsse für alle Haushalte in Berg am Laim bzw. ganz München
+- TOP 3.1.3.1.: Lärmminderungsplanung / Lärmaktionsplan München - Einhausung des Innsbrucker Rings zwischen Innsbrucker-Ring-Tunnel und Schlüsselbergstraße
+- TOP 3.1.3.2.: Krautgarten an der St.-Michael-Straße
+- TOP 3.2.1.: Knotenumbau Kreillerstraße / Schatzbogen
+- TOP 3.2.2.: Rege Bautätigkeit in Berg am Laim erfordert umfassende Verkehrsplanung - Antrag Nr. 08-14 / A 04289 - Vorlagen-Nr. 14-20 / V 00164 - Antwort zur Stellungnahme des BA 14
+- TOP 3.2.3.: Mehr Sicherheit und Benutzerfreundlichkeit für Fußgänger und Radfahrer an der Kreuzung Innsbrucker Ring / Schlüsselbergstraße
+- TOP 3.2.4.: Linksabbiegemöglichkeit in die Echardinger Straße schaffen - <div></div>
+- TOP 3.2.5.: Wegebeleuchtung am Gehweg zwischen Innsbrucker Ring und Fehwiesenstraße
+- TOP 3.2.7.: Einrichtung einer zeitl. begrenzten Lieferzone in der Josephsburgstraße - <div></div>
+- TOP 3.2.6.: München-Marathon am 12.10.2014 und Trachtenlauf am 11.10.2014
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Sicherung von drei SOS-Familenzentren - Erhalt der bedarfsnotwendigen Strukturangebote nach § 16 SGB VIII
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Herbst-Ausstellung vom 07. bis 16.11.2014 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Innere Mission München Übersetzungen von Dolmetschern - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Münchner Volkshochschule i.A. der Friedensgemeinschaft Berg am Laim - Gedenkveranstaltung am 12.11.2014
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse - AKA e.V. Kinder-und Jugendtreff Bali - Ferienfahrt für Kinder und Jugendliche
+- TOP 3.5.5.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und gewerbliche Veranstaltungen öffentlichem privaten Grund - Anhörung des Direktoriums zum BA-Antrag Nr. B 05467 vom 17.12.2013
+- TOP 3.5.6.: Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" - Anhörung des Direktoriums zum BA-Antrag Nr. 08-14 / B 05731 vom 11.03.2014
+- TOP 3.5.7.: Antrag zur Änderung der BA-Satzung - a) Änderung von § 23 a der BA-Satzung - b) Änderung von § 23 a Abs. 2 f der BA-Satzung - c) Änderung von § 23 a Abs. 2 a, c & e der BA-Satzung - - Anhörung des Direktoriums zum BA-Antrag Nr. 08-14 / B 05514 vom 14.01.2014
+- TOP 3.5.8.: Niederlegung von Vorstandsämtern - Anhörung des Direktoriums zur Änderung des Gemeinde- und Landkreiswahlgesetzes betr. § 19 Abs. 3 der BA-Satzung
+- TOP 3.5.9.: Ernennung von Behindertenbeauftragten im Bezirksausschuss
+- TOP 3.6.1.: 3.6.1. Michaeliburgstr. 7 // 3.6.2. Winkelmooser Str. 7 // 3.6.3. Sonnwendjochstr. 79 // 3.6.4. Hansjakobstr. 117 // 3.6.5. Arnweg 21 // 3.6.6. Blombergstr. 37 // 3.6.7. Wildenwarter Str. 21 // 3.6.8. Josephsburgstr. 150 //
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1: Planungsangelegenheiten
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Plangenehmigungsverfahren Neubau einer S-Bahn Werkstatthalle mit Gleisanschluss in München-Steinhausen und einer Ersatzmaßnahme in Unterföhring
+- TOP 4.1.1.3.: Freilegung Hachinger Bach zwischen Kampenwandstraße und Hüllgraben 1. Projektgenehmigung 2. Genehmigung der Vorwegmaßnahme 3. Änderung des Mehrjahresinvestitionsprogrammes 2013 - 2017 - Sitzungsvorlage Nr. 14-20 / V 00902
+- TOP 4.1.1.4.: St.-Michael-Straße 81 und 87 - Schaffung neuer Parkplätze für Kita
+- TOP 4.1.2.1.: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten - Vorlagen-Nr. 14-20 / V 00959
+- TOP 4.1.3.1.: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park - Herausgabe eines Faltblattes der LHM - Anträge Nrn. 14-20 / B 00111 und 14-20 / B 00112 vom 26.06.2014
+- TOP 4.2.1.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren - Vorlagen-Nr. 14-20 / V 01173
+- TOP 4.2.2.: Friedenstr. 10 - "Club Alem" (ehemals Katz und Maus) - Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 4.2.3.: Grafinger Str. 6 - "La dolce Vita" (ehemals Mangos Bar) - Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 4.2.4.: Grafinger Str. 35 - "Grafinger Stuben" - Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 4.2.5.: Levelingstr. 14 - "Casa Amore" (ehemals Flamingo) - Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 4.2.6.: Baumkirchner Str. 57 - Vereinsgaststätte ESV München-Ost - Unveränderte Fortführung des Gaststättenbetriebs
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Reinigungsstandards in Münchner Schulen - Sitzungsvorlage Nr. 08-14 / V 13887
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Verwendungsnachweise und Sachberichte: Streitfeld-Künstlerinitiative, FFW Michaeliburg, Maibaumverein, Adler A.F., Spiellandschaft Stadt.
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
