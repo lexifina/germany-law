@@ -1,0 +1,51 @@
+# Ausschuss für Stadtplanung und Verkehr (2. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-09-30T17:00:00+02:00
+- Ende: 2014-09-30T18:50:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWqYdY-o0oTkJUN8lJONF0Q
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/17739
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYVeiXm9kgM21eRlPxXF135zX9ij2S0tiOF8cPEXTrpt/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_30.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 1. Sitzung vom 26. August 2014
+- TOP 3.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 3.1: Absolutes Halteverbot im Bereich des Mittelstreifens der Kerpener Straße im Stadtteil Sindorf
+- TOP 3.2: Aufhebung der Benutzungspflicht der Radwege entlang der nördlichen Hauptstraße im Stadtteil Horrem
+- TOP 4.: Umsiedlung Manheim
+- TOP 4.1: Manheim-neu: Römerring - An der Obstwiese - Schutz der Velorroute - Anpassung des Straßenverlaufs an die genehmigte Bebauung
+- TOP 4.2: Umsiedlung Manheim hier: Niederschrift der 13. Sitzung des Bürgerbeirates Manheim
+- TOP 4.3: Bericht der Verwaltung
+- TOP 5.: Stadtentwicklung
+- TOP 5.1: Wohnbaulandentwicklung im Stadtteil Buir
+- TOP 5.2: Einrichtung von Sitzplätzen im DB-Reisezentrum im Bahnhof Horrem;
+- TOP 5.3: Städtebaulicher Masterplan für die Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 6.: Bauleitplanung
+- TOP 6.1: 71. Änderung des Flächennutzungsplanes "Hubertusbusch", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.2: Bebauungsplan KE 263, 3. Änderung "Zum Hubertusbusch" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 6.3: Veränderungssperre für den Geltungsbereich des Bebauungsplanes 263, 3. Änderung "Zum Hubertusbusch" im Stadtteil Kerpen
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Fortschreibung des Nahverkehrsplans (NVP) des Rhein-Erft-Kreises - Stellungnahme der Stadt Kerpen zum Zwischenbericht
+- TOP 7.2: Pendlerparkplatz an der neuen Anschlussstelle der A4 bei Geilrath
+- TOP 7.3: Niederschrift der 1. Sitzung des AK ÖPV vom 10.09.2014
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Planfeststellungsverfahren Hochspannungsleitung zwischen Bergerhausen und Mönchskaul
+- TOP 9.2: Lärmaktionsplanung und LKW-Durchfahrtsverbot im Stadtgebiet
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Stadtentwicklung
+- TOP 10.1: Vorstellung des Programms "Flächenpool NRW"
+- TOP 10.2: Abschluss einer Konsensvereinbarung zwischen Flächenpool NRW und der Kolpingstadt Kerpen
+- TOP 10.3: Fortführung des Radweges an der Stiftsstraße
+- TOP 11.: Verkehrsplanung
+- TOP 11.1: Niederschrift der 1. Sitzung des AK ÖPNV vom 10.09.2014
+- TOP 11.2: Anpassung des Tarifes im AST (Anrufsammeltaxi)-Verkehr
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
