@@ -1,0 +1,62 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2014-09-30T17:00:00+02:00
+- Ende: 2014-09-30T20:05:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfu1OqgX-fFATeL5P8GEfGA
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1396
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeKJ9xdKajekVyOfhjPnlJNQ_ZxJvsdbu0DoZf0S-5I0/Bekanntmachung_Rat_30.09.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVEAcNOCSPx1iylDFQb9521-QoLYavhfMDsnC2-VV2aI/Oeffentliche_Niederschrift_Rat_30.09.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Spengemannsches Haus an der Weher Straße
+- TOP 3.2: Präsentation von Dateien in Einwohnerfragestunde
+- TOP 3.3: Rederecht im Bau-, Planungs- und Umweltausschuss
+- TOP 4.: Beratung über die Gültigkeit der am 25. Mai 2014 durchgeführten Wahl des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 5.: Wahl der Mitglieder und Stellvertreter in die Mitwirkungsgremien der Kindergärten und Kindertagesstätten - Einstimmig, 0 Enthaltungen
+- TOP 6.: Wahl eines Mitgliedes und stellvertretenden Mitgliedes für den Vorstand der Fischereigenossenschaft Rahden und Umgebung - Einstimmig, 0 Enthaltungen
+- TOP 7.: Wahl der stellvertretenden Mitglieder des Verwaltungsrates der Stadtsparkasse Rahden; hier: Neufeststellung des Wahlergebnisses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Bestellung eines Stadtheimatpflegers und dessen Stellvertreter - Einstimmig, 0 Enthaltungen
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. 84 "Gewerbegebiet Harting" sowie 75. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 84 "Gewerbegebiet Harting" sowie des Änderungsplanes für die 75. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - 31 Stimmen dafür, 0 dagegen, 4 Enthaltungen (Bölk, Sprado, Kröger, Schmidt-Tschech)
+- TOP 10.: Aufstellung des Bebauungsplanes Nr. 85 "Erweiterung Kleinendorfer Feld" sowie 76. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 76. Änderung des Flächennutzungsplanes - 33 Stimmen dafür, 0 dagegen, 2 Enthaltungen (Die Grünen)
+- TOP 11.: Aufstellung des Bebauungsplanes Nr. 86 "Östliche Robert-Koch-Straße" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - 33 Stimmen dafür, 0 dagegen, 2 Enthaltungen (Sprado, Schmidt-Tschech)
+- TOP 12.: Aufstellung des Bebauungsplanes Nr. 87 "Südöstlicher Vordamm" und 77. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - 33 Stimmen dafür, 0 dagegen, 2 Enthaltungen (Die Grünen)
+- TOP 13.: Einrichtung eines Stadtmarketing - 34 Stimmen dafür, 0 dagegen, 1 Enthaltung (Bölk)
+- TOP 14.: Anfrage der SPD-Fraktion zur Ärzteversorgung in Rahden - Ohne Abstimmung
+- TOP 15.: Gewährung eines Zuschusses für die Wiederherstellung des Flügelkreuzes an der Windmühle Tonnenheide - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass einer neuen Vergnügungssteuersatzung - 31 Stimmen dafür, 2 dagegen (G. Meyer, Korte), 2 Enthaltungen (Die Grünen)
+- TOP 17.: Erlass der 11. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der öffentlichen Abfallentsorgung in der Stadt Rahden vom 19.12.1994 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2014 - Ohne Abstimmung
+- TOP 19.: Erhalt der Schulsozialarbeit über das Bildungs- und Teilhabepaket - Einstimmig, 0 Enthaltungen
+- TOP 20.: Genehmigung einer überplanmäßigen Ausgabe für Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) - Einstimmig, 0 Enthaltungen
+- TOP 21.: Beschaffung eines Gerätewagens Logistik (GW-L) für den Löschzug Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bekanntgaben
+- TOP 22.1: 25 Jahre Städtepartnerschaft Glindow
+- TOP 22.2: Neubürgerempfang
+- TOP 22.3: Ausschreibungen der Stadt Rahden über die zentrale Submissionsstelle beim Kreis Minden-Lübbecke
+- TOP 22.4: Gemeindefinanzierungsgesetz
+- TOP 22.5: Dienstanweisung für die Finanzbuchhaltung der Stadt Rahden
+- TOP 23.: Verschiedenes
+- TOP 23.1: Schulwegsicherung im Zuge der Bremer Straße, Verbindung Bauerbrinker Straße/Gänsebrink
+- TOP 23.2: Verlegung von Leerrohren für Glasfaserkabel in Varl
+- TOP 23.3: Arbeitskreis "50 Jahre Museumshof Rahden"
+- TOP 23.4: Krankenhaus Rahden
+- TOP 23.5: Erteilung einer Abweichung von der festgesetzten Dachneigung für das Grundstück Gemarkung Rahden, Flur 7, Flurstück 560 an der Straße "Stellerloh"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 24.: Beschaffung eines Gerätewagens Logistik für den Löschzug Pr. Ströhen; hier: Auftragsvergabe Fahrgestell/Feuertechnischer Aufbau - Einstimmig, 0 Enthaltungen
+- TOP 25.: Grundstücksangelegenheiten
+- TOP 25.1: Bekanntgabe der im II. Quartal 2014 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 25.2: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden-Süd in Größe von ca. 6.689 m² - Einstimmig, 0 Enthaltungen
+- TOP 26.: Bekanntgaben
+- TOP 27.: Verschiedenes
+- TOP 27.1: Feuerwehrgerätehaus Varl Sielhorst
+- TOP 27.2: Grundstückangelegenheit Bruckamp im Gewerbegebiet Rahden Süd
