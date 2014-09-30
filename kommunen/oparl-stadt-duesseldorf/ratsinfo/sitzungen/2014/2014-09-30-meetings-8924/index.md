@@ -1,0 +1,57 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-09-30T17:00:00+02:00
+- Ende: 2014-09-30T19:37:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8924
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8924
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222529.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222529.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00222529.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 175/ - 6/2014 - zur Kenntnis genommen
+- TOP 3: B-Plan Nr. 05/006, frühzeitige Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 4: 169. FNP-Änderung, frühzeitige Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Grünzug Kaiserswerth, 2. Bauabschnitt (nördlicher Bereich) - zur Kenntnis genommen
+- TOP 12: Illumination Bastionsmauer "St. Suitbertus" - zur Kenntnis genommen
+- TOP 13: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2014 - zur Kenntnis genommen
+- TOP 14: Asylbewerber - zur Kenntnis genommen
+- TOP 15: Angermunder Baggersee - Parken der Besucher/innen - zur Kenntnis genommen
+- TOP 16: "Nette Toilette" im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 17: Kreisverkehre Angermund - Pflegemaßnahmen - zur Kenntnis genommen
+- TOP 18: Start- und Landegebühren am Düsseldorfer Flughafen - zur Kenntnis genommen
+- TOP 19: Sporthalle Wittlaer - zur Kenntnis genommen
+- TOP 20: U 79 - Verbesserungen ÖPNV-Angebot - zur Kenntnis genommen
+- TOP 21: Papierlose Gremienarbeit in der Bezirksvertretung 5 - zur Kenntnis genommen
+- TOP 22: Sozialer Wohnungsbau im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 23: Städtische Grundstücke im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 24: Bauunterhalt BV5 - Wiederaufforstung Park Lantz - zur Kenntnis genommen
+- TOP 25: Verlagerung der Polizeibezirksdienststelle Kaiserswerth - zur Kenntnis genommen
+- TOP 26: Nachtflugbewegungen Airport Düsseldorf - zur Kenntnis genommen
+- TOP 27: Am Mühlendamm - Instandsetzung der Straße - zur Kenntnis genommen
+- TOP 28: Parkplatzprobleme Flughafen - zur Kenntnis genommen
+- TOP 29: B-Plan 5083/014 Elbinger Weg - zur Kenntnis genommen
+- TOP 30: Hunde-Tütenspender Angermunder Straße - zur Kenntnis genommen
+- TOP 31: Entwicklung Sport-Standort Grenzweg - zur Kenntnis genommen
+- TOP 32: Sanierung/Erneuerung Kunstrasenplatz Grenzweg - zur Kenntnis genommen
+- TOP 33: Regelmäßige Information PFT - zur Kenntnis genommen
+- TOP 34: Asphaltierung von kleinen Flächen im Bereich von Straßenbegleitgrün - zur Kenntnis genommen
+- TOP 35: Gestaltung Kreisverkehr Kaiserswerth - zur Kenntnis genommen
+- TOP 36: FFW Kaiserswerth - Umsetzung von Maßnahmen - zur Kenntnis genommen
+- TOP 37: Schadensersatz für Anwohner/innen - zur Kenntnis genommen
+- TOP 38: Stellungnahmen 30.09.2014 - zur Kenntnis genommen
+- TOP 39: Verschiedenes - zur Kenntnis genommen
+- TOP 40: Bauanträge Wacholderstraße 4 - 4h - zur Kenntnis genommen
