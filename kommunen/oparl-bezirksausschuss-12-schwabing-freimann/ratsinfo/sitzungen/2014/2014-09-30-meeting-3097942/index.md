@@ -1,0 +1,123 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-09-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3097942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3097942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Bürgerinitiative Freunde der Fröttmaninger Heide - Zwischenbericht
+- TOP .2.: Unterbringung von Asylsuchenden, Lotte-Branz-Straße
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Entsendung von Vertreterinnen und Vertretern aus den Bezirksausschüssen in stadtteilbezogenen städtischen Wettbewerb
+- TOP .1.: Änderung der BA-Satzung: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund (BA-Antrag B 05467 des BA 2 Ludwigsvorstadt-Isarvorstadt)
+- TOP .10.: sonstiges
+- TOP .1.: Regionalgespräche mit der Lokalbaukommission ? Teilnahme von ca. 4 BA-Mitgliedern
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: (E) Bessere Ausführung und Unterhalt der Radwege in Schwabing (Ziffer 3) Empfehlung Nr. 14-20 / E 00117 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 15.07.2014
+- TOP 1.2.: Ladezone Leopoldstraße 64
+- TOP 1.3.: Freisinger Landstraße / Oberjägerstraße ? Auflassung des Fußweges und des Grünstreifens in der Grünanlage und Ausbau in einen Fuß- und Radweg
+- TOP 1.4.: Halbparken auf dem Gehsteig in der Destouchesstraße auf der Nordseite zwischen Moltke- und Viktoriastraße
+- TOP 1.1.: Verkehrskonzept Münchner Norden incl. Hinweis/Ergänzung vom 11.09.2014
+- TOP 1.2.: Austausch der Lichtzeichenanlage: Biedersteiner-/Haimhauser Straße
+- TOP 1.3.: Neuer Wertstoffcontainerstandort Hilsbacher Straße gegenüber 36
+- TOP 1.4.: Errichtung einer Brücke über den Garchinger Mühlbachkanal und einer Brücke über den Garchinger Mühlbach
+- TOP 1.5.: Errichtung von Haltverbots-Zonen für Filmaufnahmen, Karl-Theodor-Straße 26 am 09./10.10.2014 (Zeitraum 07.00 bis 23.00 Uhr)
+- TOP 1.6.: Abschalten der Musik in den U-Bahnhöfen (Beschlussentwurf zur BV-Empfehlung E 01885 vom 11.07.2013)
+- TOP 1.7.: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet (Antrag des BA 20 Hadern mit der Bitte um Unterstützung)
+- TOP 1.1.: Fehlender Lärmschutz Isarring
+- TOP 1.2.: Realisierung der Fußgänger- und Radfahrerquerung über die Ingolstädter Straße am Euro-Industriepark West
+- TOP 1.3.: Errichtung einer Parkzone im Wolf-Ferrari-Weg
+- TOP 1.4.: Einparkveränderungen in der Destouchesstraße
+- TOP 1.5.: Hinweisschild auf Tempo 30 in der südlichen Osterwaldstraße (siehe auch TOP C.4.2.)
+- TOP 1.6.: Verkehrsproblematik im Fichtenweg
+- TOP 1.7.: Flugrouten über Freimann
+- TOP 1.1.: Verlegung der Bahnstromleitung zwischen Unterföhring und Pasing
+- TOP 1.2.: Verlegung der Bahnstromlinie
+- TOP 1.3.: Asphaltbeläge im Stadtbezirk 12
+- TOP 1.4.: Entfernung eines japanischen Staudenknöterich entlang der Tram-Linie 23 (BA-Antrag B 00244)
+- TOP 1.1.: Einrichten von Schutzstreifen in der Potsdamer Straße zwischen Germaniastraße und Ungererstraße
+- TOP 1.2.: Einrichten von Schutzstreifen und Fahrradstreifen auf Teilstrecken der Dietlindenstraße
+- TOP 1.3.: Straßenbauarbeiten zur Errichtung einer Mobilitätsstation in der Leopoldstraße (Ostseite) zwischen Münchner Freiheit und Ungererstraße
+- TOP 1.4.: Zusätzliche Feuerwehranfahrtszonen am Admiralbogen
+- TOP 1.5.: Einfahrtsverbot für Kraftfahrzeuge Zufahrtsweg östl. Freisinger Landstraße
+- TOP 1.1.: Information der MVG über das vorzeitige Baustellenende der Gleiserneuerung der Linie U6 zwischen Kieferngarten und Studentenstadt und über ergänzende Nacharbeiten
+- TOP 1.2.: Rohrkanalsanierungen der Münchner Stadtentwässerung
+- TOP 1.3.: Aufstellung von Infotafeln zum Asiatischen Laubholzbockkäfer an den Eingängen zum Riemer Park / Herausgabe eines Faltblattes der LHM (Antwort auf Anträge des BA 15)
+- TOP 1.4.: Bericht der Hallo München ?Stadt soll Spange zur Linie U1 prüfen? (Schreiben eines Bürgers)
+- TOP 1.5.: Erinnerungsverfahren: Radwegauflösung / Baumgrabenverbreiterung Berliner Straße 2-100
+- TOP 1.6.: Anliegerinformationen des Baureferats Tiefbau a) Ingolstädter Straße: Erschließung des FC Bayern München-Sportgeländes b) Feilitzschstraße (Oberflächensanierung) und Umgestaltung des Wedekindplatzes c) Occamstraße / Haimhauser Straße: Umbau der Kreuzung d) Wiederherstellung der Weimarer Straße zwischen Domagkstraße und Frankfurter Ring
+- TOP 1.7.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren Sitzungsvorlage Nr.: 14-20 / V 01173; Beschluss des Ausschusses für Stadtplanung und Bauordnung des Stadtrates vom 17.09.2014
+- TOP 1.8.: Aufnahme der Schinkelstraße (und anliegende Straßen) in das Parkraummanagement (Antwort des Referats für Stadtplanung und Bauordnung auf ein Bürgeranliegen)
+- TOP 1.9.: Wie ist der Stand der Managementpläne und des Monitoring von FFH-Gebieten in München? Antrag Nr. 02-08 / A 03516 der Stadtratsfraktion Bündnis 90/Die Grünen / RL Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014
+- TOP 1.10.: München öffnet sein Herz endlich auch für Motorradfahrer! Antrag Nr. 08-14 / A 03187 der FW vom 19.03.2014 - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014; Sitzungsvorlage Nr.. 14-20 / V 01275
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Freimanner Klang e.V. Konzertaufführung ?Bremer Stadtmusikanten? am 16.11.2014
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Freimanner Klang e.V. Konzertaufführung "Bremer Stadtmusikanten" am 23.11.2014
+- TOP 1.1.: Martinsumzug in der Grünanlage Alte Heide 3 am 11.11.2014
+- TOP 1.2.: ?Cotton Club Dinnershow? im Ungererbad, Traubestraße 3
+- TOP 1.3.: Münchner Wochenmärkte ? Alternativen zum Standort Paul-Hindemith-Allee?
+- TOP 1.4.: REGSAM ? ein starkes soziales Netzwerk für München REGSAM-Ressourcen anpassen und verstetigen Beschlussentwurf für den Kinder- und Jugendhilfe- und den Sozialausschuss an 04.11.2014
+- TOP 1.5.: Discgolf-Turnier am Fröttmaninger Berg am 09.11.2014
+- TOP 1.1.: Lärmbelästigungen durch den Jugendspielplatz Wilhelm-Wagenfeld-Straße
+- TOP 1.2.: Anbringung eines Briefkastens in der Osterwaldstraße 68 (siehe auch TOP B.4.5.)
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: ?Casablanca?, Schank- und Speisewirtschaft, Clemensstraße 16
+- TOP 1.2.: ?Jukebox?, Kleingaststaätte, Grusonstraße 14
+- TOP 1.1.: Hortplätze für die Haidparksiedlung (Antwort zum BA-Schreiben vom 27.05.2014)
+- TOP 1.2.: Bescheide / Zuwendungsbewilligungen a) Freunde der Freiwilligen Feuerwehr Freimann e.V. für den Tag der offenen Tür am 13.09.2014 in Höhe von 711,00 ? b) Innere Mission München, Diakonie, für Übersetzungen von Dolmetschern in Höhe von 500,00 ?
+- TOP 1.3.: Grundschule Haimhauser Straße 23: Generalinstandsetzung, Umbau und Erweiterung auf eine 4-zügige Grundschule mit 8-gruppigem Tagesheim und weiteren Räumen für ; Genehmigung des Nutzerbedarfsprogramms und Projektauftrag, Genehmigung der Ausführung von vorgezogenen Maßnahmen sowie Errichtung eines Interimsgebäudes Sitzungsvorlage Nr.: 14-20 / V 01157 (siehe auch TOP D.5.3.5.) Beschluss des Bildungsausschusses des Stadtrates vom 17.09.2014
+- TOP 1.4.: Kindertagesstätten sonstiger Träger; Haus für Kinder an der Leopoldstraße 236: Leistung eines Baukostenzuschusses (geänderte Planung, 16 zusätzliche Kindergartenplätze) Sitzungsvorlage Nr.: 14-20 / V 01105 Beschluss des Bildungsausschusses des Stadtrates vom 17.09.2014
+- TOP 1.5.: Errichtung eines Hauses für Kinder mit 3 Kinderkrippen-, 2 Kindergarten- und einer Hortgruppe am Kiefernwald ? Genehmigung des Nutzerbedarfsprogramms durch verwaltungsinterne Abstimmung
+- TOP 1.6.: Unterschriftensammlung aus der Bürgerversammlung Freimann zur Situation an der Bayernkaserne ? Antwortschreiben des Oberbürgermeisters
+- TOP 1.7.: Kurzbericht über das bezuschusste Seidlvilla-Jazzfestival am 16. und 17.05.2014
+- TOP 1.8.: Erleichterte Arbeitsgenehmigungsverfahren für Zuzügler (Antwort des Sozialreferats auf ein Bürgeranliegen)
+- TOP 1.1.: Aufhebung der Sperrzeit, Münchner Freiheit 7
+- TOP 1.2.: Genehmigung einer Freischankfläche, Leopoldstraße 56a
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Wallnerstraße 17, Fällung einer Esche
+- TOP 1.2.: Mohrstraße 1, Fällung einer Lärche und einer Kiefer
+- TOP 1.3.: Kunigundenstraße 14-20, Fällung einer Kastanie
+- TOP 1.4.: Carl-Orff-Bogen 105, Fällung von fünf Akazien
+- TOP 1.5.: Kaiserstraße 7 RGB, Fl.Nr.: 361/8, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage ? Tektur, Fällung eines Baumes gemäß Plan
+- TOP 1.6.: Wallnerstraße 23, Fällung dreier Nadelbäume
+- TOP 1.7.: Ladenburger Straße 4, Fällung einer Tanne
+- TOP 1.8.: Carl-Orff-Bogen 73, Fällung eines Haselnussbaums
+- TOP 1.9.: Schinkelstraße 1, Fällung einer Wildkirsche
+- TOP 1.10.: Berliner Straße 16, Fällung eines Bergahorn
+- TOP 1.1.: Namenszusatzschilder Erich-Mühsam-Platz, Ernst-Toller-Platz, Erwin-Planck-Weg (vertagt aus 06/14 und 07/2014)
+- TOP 1.2.: Bauvorhaben: Ungererstraße 141, Fl.Nr.: 960/0, Neubau einer Wohnanlage mit Ladengeschäften und Tiefgarage ? Vorbescheid
+- TOP 1.3.: Einrichtung einer Arbeitsgruppe zur Entwicklung der Parkstadt Schwabing (BV-Empfehlung E 00112)
+- TOP 1.1.: Denkmalschutz Wagnerstraße 1
+- TOP 1.2.: Generalsanierung der Aussegnungshalle am Nordfriedhof
+- TOP 1.5.2.: Genehmigte Baumfällungen
+- TOP 1.1.: Unertlstraße 5, Fällung einer Kastanie
+- TOP 1.2.: Freisinger Landstraße 100, Fällung einer Hainbuche
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München a) Fernwärmeprojekt Isoldenstraße ? Änderungen im Terminablauf b) Stromprojekt Ingolstädter Straße
+- TOP 1.2.: Occamstraße 5, Umbau eines Clubs (UG) und Lokals (EG) ? Antwort des Referats für Stadtplanung und Bauordnung zum BA-Schreiben vom 30.07.2014)
+- TOP 1.3.: MK1 im Domagkquartier ? Schreiben der Münchner Grundbesitz Verwaltungs GmbH an Herrn Oberbürgermeister Reiter zu einer Anfrage des Bündnis90 Die Grünen Rosa-Liste
+- TOP 1.4.: Vergabe eines Grundstücks an der Muthmannstraße
+- TOP 1.5.: Grundschule Haimhauser Straße 23: Generalinstandsetzung, Umbau und Erweiterung auf eine 4-zügige Grundschule mit 8-gruppigem Tagesheim und weiteren Räumen für ; Genehmigung des Nutzerbedarfsprogramms und Projektauftrag, Genehmigung der Ausführung von vorgezogenen Maßnahmen sowie Errichtung eines Interimsgebäudes Sitzungsvorlage Nr.: 14-20 / V 01157 (siehe auch TOP C.5.3.3.) Beschluss des Bildungsausschusses des Stadtrates vom 17.09.2014
+- TOP 1.6.: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten Sitzungsvorlage Nr.: 14-20 / V 00959; Beschluss des Ausschusses für Stadtplanung und Bauordnung des Stadtrates vom 17.09.2014
+- TOP 1.7.: Infokampagne zum sozialverträglichen Immobilienverkauf ? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur BV-Empfehlung 08-14 / E 00794 des Stadtbezirks 1 Altstadt-Lehel; Sitzungsvorlage Nr. 14-20 / V 01097
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
