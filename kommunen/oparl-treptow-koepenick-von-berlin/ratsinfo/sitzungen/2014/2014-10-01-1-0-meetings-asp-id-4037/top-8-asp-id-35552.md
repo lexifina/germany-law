@@ -1,0 +1,7 @@
+# TOP 8: Verabredung zum Umgang mit der Bürgeranfrage "Grundwassermanagement"
+
+- Sitzung: 34. (öffentliche) Sitzung des Ausschusses für Stadtentwicklung und Tiefbau (2014-10-01)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=35552
+- Ergebnis: erledigt
