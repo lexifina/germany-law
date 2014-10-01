@@ -1,0 +1,6 @@
+# TOP 10.1: Wachtelfarm Rüenberger Venn
+
+- Sitzung: Ausschuss für Planen, Bauen und Denkmalschutz (2. Sitzung) (2014-10-01)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/34624
