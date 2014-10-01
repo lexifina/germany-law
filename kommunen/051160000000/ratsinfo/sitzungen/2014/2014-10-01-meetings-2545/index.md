@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-10-01T15:00:00+02:00
+- Ende: 2014-10-01T20:20:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2545
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2545
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 2. Sitzung des Rates am 08.09.2014 - öffentlicher Teil -
+- TOP 2: Konversion JHQ - Anmietung Liegenschaft - Siehe Niederschrift
+- TOP 2.1: TOP 2: Konversion Jount Headquarter (JHQ), hier:Anmietung der Liegenschaft, Vorlage Nr. 276/IX - Mit Stimmenmehrheit abgelehnt
+- TOP 2.2: Konversion JHQ - Antrag der Ratsfraktion Die LINKE - Siehe Niederschrift
+- TOP 3: Vergabe der Mittel "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement" - Mit Stimmenmehrheit beschlossen
+- TOP 3.1: Vergabe der Mittel "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement" - Vom Antragsteller zurückgezogen
+- TOP 3.2: Vergabe der Mittel "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement" - Einstimmiger Beschluss
+- TOP 3.3: TOP 3: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement Vorlage Nr. 187/IX-1 - Vom Antragsteller zurückgezogen
+- TOP 4: Feststellung des Jahresabschlusses 2011 - Einstimmiger Beschluss
+- TOP 5: Bericht zur Umsetzung des Haushaltssanierungsplanes zum 30.06.2014 - Kenntnisnahme
+- TOP 6: HSP 2013-0201 Abschlussbericht GPA NRW - Kenntnisnahme
+- TOP 7: HSP 2013-0201 Aufhebung der Haushaltssperre 2014 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Haushaltsplanentwurf 2015; Haushaltssatzung einschl. Anlagen u. Fortschr. Haushaltssanierungsplan - Zur Kenntnis genommen
+- TOP 9: Erste Nachtragssatzung zum Haushalt 2014 - Zur Kenntnis genommen
+- TOP 10: Beteiligung der NEW AG an der NEW Viersen GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2014 - Einstimmiger Beschluss
+- TOP 12: Überplanmäßige Bereitstellung von Haushaltsmitteln - Einstimmiger Beschluss
+- TOP 13: Darlehen für die Übernahme von Kleingärten und für den Laubenbau (2014) - Einstimmiger Beschluss
+- TOP 14: Gebührenerhebung für die Benutzung der Abwasseranlagen - Siehe Niederschrift
+- TOP 15: 46. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 16: Gültigkeit der Kommunalwahlen und der Stichwahl - Einstimmiger Beschluss
+- TOP 17: Gültigkeit der Wahl der Mitglieder des Integrationsrates - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 18: Fünfter Nachtrag Gebührensatzung Rettungsdienst - Einstimmiger Beschluss
+- TOP 19: Schulorganisatorische Maßnahme an der KGS Günhoven - Kenntnisnahme
+- TOP 19.1: Schulorganisatorische Maßnahme KGS Günhoven - Ohne Abstimmung
+- TOP 20: Leistungsvereinbarung mit dem SkF über Werbung und Begleitung von Familienpaten - Einstimmiger Beschluss
+- TOP 21: Anpassung der Richtlinie über die Zahlung von Geldleistungen an Tagespflegepersonen - Einstimmiger Beschluss
+- TOP 21.1: Antrag der Ratsfraktion Die LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Kunstprojekt im Rahmen des Städtebaulichen Wettbewerbs für den Sonnenhausplatz - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 23: Einziehung K 19 und Umgehungsstraße Wanlo - Einstimmiger Beschluss
+- TOP 24: Bebauungsplan Nr. 728/N - Stadtbezirk Nord, Rönneter - Mit Stimmenmehrheit beschlossen
+- TOP 25: Fraktionszuwendungen - Mit Stimmenmehrheit beschlossen
+- TOP 26: Regelmäßiger Bericht über die aktuellen Entwicklungen in der Grundsicherung; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 03.09.2014 - Verweisung in zuständige Fachausschüsse
+- TOP 27: Bericht zu Sanierungen der Verwaltungsflächen Karstadt-Immobilie+Tiefgarage - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Umbesetzung von Gremien - Vom Antragsteller zurückgezogen
+- TOP 29: Umbenennung Lettow-Vorbeck-Str. im Stadtbezirk Mönchengladbach Nord in Josef-und-Hilde-Wilberz-Str. - Siehe Niederschrift
+- TOP 30: Beteiligung der Stadt Mönchengladbach an EFRE und ESF - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Planungsprozess für die Nachnutzung des Geländes der Kliniken Maria Hilf GmbH - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Bericht der Verwaltung zum Sachstand der Planungen betreffend "Eisernen Rhein" - Siehe Niederschrift
+- TOP 33: Umbesetzung - Einstimmiger Beschluss
+- TOP 34: Umbesetzung - Einstimmiger Beschluss
+- TOP 35: Umbesetzung - Einstimmiger Beschluss
+- TOP 36: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Anfrage von RF Brombeis zu einer Anfrage aus der Ratssitzung vom 8.09.2014 zum Thema Tagesordnung in der BV Süd
+- TOP 37.2: Anfrage von RF Finger (FDP) zur HSK-Maßnahme 2010-0130
