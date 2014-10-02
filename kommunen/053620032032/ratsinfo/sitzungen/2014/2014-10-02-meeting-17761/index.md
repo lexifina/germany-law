@@ -1,0 +1,52 @@
+# Bau- und Feuerschutzausschuss (1. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-10-02T17:00:00+02:00
+- Ende: 2014-10-02T20:17:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 198
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-606
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWQQLR82weSQ1EiMW__C5dE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/17761
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Feuerschutzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZU9skNQmMCNFfk6iq0pWOWCmIbC_KpmA14Gzlk3eTsag/Oeffentliche_Niederschrift_Bau-_und_Feuerschutzausschuss_02.10.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Verpflichtung der sachkundigen Bürger/innen und Einwohner/innen
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Bericht über die Ausführung der Beschlüsse / Aufträge / Empfehlungen aus der 22. Sitzung des Bau- und Feuerschutzausschusses am 03.04.2014
+- TOP 4.: Sanierung der Erftlagune - (kein Text vorhanden)
+- TOP 5.: Einrichtung und Besetzung des Arbeitskreises Feuerwehr und Rettungsdienst
+- TOP 6.: Entgeltordnung für die Leistungen der Brandschutzdienststelle der Kolpingstadt Kerpen
+- TOP 7.: Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau in der Kolpingstadt Kerpen
+- TOP 8.: Satzung über die Erhebung von Entgelten für die Leistungen bei der Festlegung von Brand- und Rettungssicherheitswachdiensten sowie der Gestellung von Brandsicherheitswachen
+- TOP 9.: Satzung über die Festlegung von Mindest- und Höchstsätzen beim Ersatz von Verdienstausfall für beruflich selbstständige Angehörige der Feuerwehr Kolpingstadt Kerpen nach dem Gesetz über den Feuerschutz und die Hilfeleistung (FSHG NRW)
+- TOP 10.: Graf-Hoensbroech-Straße zwischen Berrenrather Straße und Lichweg in Kerpen-Balkhausen hier: Kanal- und Straßensanierung
+- TOP 11.: Albertus-Magnus-Straße zwischen Sindorfer Straße und St.-Quirinus-Straße, Dr.-Orth-Straße und Gutenbergstraße in Kerpen-Mödrath hier: Kanal- und Straßensanierung
+- TOP 12.: Ausbaumaßnahme Albertus-Magnus-Straße (östl. Teil), Einsteinstraße, Joh.-Seb.-Bach-Straße hier: Beitragsrechtliche Einordnung der in Details geänderten Ausbauplanung
+- TOP 13.: hier: Baumscheiben im Bereich der Parkflächen auf der Kerpener Straße im Stadtteil Sindorf
+- TOP 14.: Neue Brücke "Wissersheimer Fließ" hier: Sachstandsbericht
+- TOP 15.: Wasserschäden durch Starkregenereignisse
+- TOP 16.: Turnhallensituation Mühlenfeldschule
+- TOP 17.: Sachstandsbericht zum Barbarabrunnen auf dem Marktplatz im Stadtteil Türnich
+- TOP 18.: Standardisierung von Pflegearbeiten an öffentlichen Flächen hier: Pflegezustand Spielplatz, Tischtennisplatte und Bolzplatz in Türnich, Platanenallee
+- TOP 19.: Mitteilungen
+- TOP 19.1: Notwendige Zusatzarbeiten im Bereich der Kanal- und Straßensanierung Johann-Sebastian-Bach-Straße, Einsteinstraße und Albertus-Magnus-Straße-östl. Teil
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.1: Sinkkästen Erftstraße
+- TOP 20.2: Fahrbahnschäden Kerpener Straße im Stadtteil Sindorf
+- TOP 20.3: Anstrich der Holzbrücke über der K39n
+- TOP 20.4: Sanierungsstau bei städtischen Hochbauten
+- TOP 20.5: Erfordernis von Nachbesserungen beim Bau der Verbindungsstraße zwischen Bergerhausen und Dorsfeld
+- TOP 20.6: OGS-Plätze für alle Kinder sowie Schimmelbefall an der Clemensschule im Stadtteil Horrem
+- TOP II.: Nichtöffentlicher Teil
+- TOP 21.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 21.1: Auftragsvergabe: Beseitigung von Unfallgefahrenstellen im Stadtgebiet Kerpen
+- TOP 21.2: Auftragsvergabe: Kanal- und Straßenbau Kunibertusstraße in Kerpen-Blatzheim
+- TOP 21.3: Auftragsvergabe: Lieferung eines LKW-Kippers mit Allradantrieb (4x4)
+- TOP 21.4: Auftragsvergabe: Kanalsanierung Boisdorfer Straße und Hemmersbacher Straße in Kerpen-Horrem
+- TOP 22.: Bericht über die Erteilung von Aufträgen im Rahmen der verfügbaren Haushaltsmittel
+- TOP 23.: Mitteilungen
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
