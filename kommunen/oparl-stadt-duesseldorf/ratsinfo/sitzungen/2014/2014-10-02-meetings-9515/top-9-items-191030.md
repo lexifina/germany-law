@@ -1,0 +1,6 @@
+# TOP 9: Schwerpunktthema "Gründungen/Start-ups"
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2014-10-02)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/191030
