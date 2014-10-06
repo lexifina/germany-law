@@ -1,0 +1,81 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2014-10-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3291712
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3291712
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: Fehlende Fahrradampel am Harras
+- TOP 1.2.: Rücksichtslose Radfahrer, Verschmutzung durch Hundekot und Abfälle, Nutzung des Grünstreifens am REWE-Markt Aberlestr. / Alramstraße
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: REGSAM - ein starkes soziales Netzwerk für München REGSAM - Ressourcen anpassen und verstetigen
+- TOP 4.2.: Unterbringung von psychisch kranken wohnungslosen Frauen und Männern im städtischen Sofortunterbringungssystem im Notquartier Implerstraße
+- TOP 4.3.: Flüchtlinge und Wohnungslose in die Stadtgesellschaft integrieren
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Schulbau Meindlstraße 8; Kunst am Bau
+- TOP 5.2.: Jährliches Treffen mit dem Referat für Bildung und Sport am 15.10.2014, 16:00 Uhr
+- TOP 5.3.: Sportanlage Wackersberger Str. 49; Lärmbelästigung durch Vereinsgaststätte
+- TOP 6.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1.: Zeitungsentnahmegeräte an der Plinganserstraße 10 / 33 / 47, sowie Steinerstraße 2
+- TOP 7.2.: Radverkauf / -verleih am Grünstreifen Brudermühlstraße 25
+- TOP 7.3.: Wertstoffcontainerstandort Gotzinger Str. / Oberländerstr. - Errichtung eines Unterflurcontainers
+- TOP 7.4.: Wertstoffcontainerstandort Meindlstraße 16 - Errichtung eines Unterflurcontainers
+- TOP 7.5.: Verkehrssituation im Bereich Karwendelstraße 42
+- TOP 7.6.: Schulwegsicherheit vor der Implerschule
+- TOP 7.7.: Parksituation vor dem Anwesen Lindwurmstr. 124
+- TOP 7.8.: Infostand Die Freiheit am 05.09.14 - Auflagen
+- TOP 7.9.: Versammlung "Erhalt des Tannengartens" am 13.09.14
+- TOP 7.10.: München öffnet sein Herz endlich auch für Motorradfahrer
+- TOP 7.11.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren
+- TOP 7.12.: Modellprojekt Gemeinschaftsstraße / Shared Space in der Meindlstraße - <div>Rückfrage durch BA6</div>
+- TOP 7.13.: Verkehrsberuhigung in der Meindlstraße; Befragung der Bewohner und Gewerbetreibenden zur Errichtung einer Sackgasse am Südende - <div>Rückfrage durch BA6</div>
+- TOP 8.1.: (E) Budget der Bezirksausschüsse Kantorat der Himmelfahrtskirche München-Sendling Aufführung des Weihnachtsoratoriums am 14.12.2014 - <div>Bezuschussung mit ? 500,-</div>
+- TOP 8.2.: (E) Budget der Bezirksausschüsse Kantorat der Himmelfahrtskirche München-Sendling Aufführung des Requiems von Mozart am 22.11.2014 - <div>Bezuschussung mit ? 1500,-</div>
+- TOP 8.3.: Budgetantrag Ars musica e. V. - zurückgezogen
+- TOP 8.4.: Änderung der BA-Satzung; Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Thalkirchner Str. 126
+- TOP 9.3.: Bauvorhaben Gotzinger Str. 8
+- TOP 9.4.: Bauvorhaben Schäftlarnstr. 66
+- TOP 9.5.: Bauvorhaben Schäftlarnstr. 68
+- TOP 9.6.: Bauvorhaben Implerstr. 10
+- TOP 9.7.: Bauvorhaben Brudermühlstr. 10
+- TOP 9.8.: Fassadenanstrich Aberlestr. 8
+- TOP 9.9.: Brudermühlstr. 24 - 30; Leerstand
+- TOP 9.10.: Bebauungsplan Plinganser-, Dudenstraße, Friedhof Sendling
+- TOP 9.11.: Monitoring der städtebaulichen Nachverdichtung - <div>zur Kenntnis genommen</div>
+- TOP 9.12.: FFH-Gebiete in München
+- TOP 9.13.: Sozialverträglicher Immobilienverkauf
+- TOP 9.14.: Beschlussvollzugskontrolle
+- TOP 9.15.: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten
+- TOP 10: Baureferat
+- TOP 10.1.: Aufnahme folgender Straßen in das Vollanschlussgebiet der städtischen Straßenreinigung - Engelhardstr. von Sylvensteinstr. bis Mittlerer Ring - Sylvensteinstr. - Karwendelstr. - Dudenstr. - <div>Zustimmung, einstimmig</div>
+- TOP 10.2.: Schrottradbeseitigung
+- TOP 10.3.: Zukunftssicherung Markthallen München; Wettbewerb
+- TOP 10.4.: Leistungsbilanz des Baureferates - Tiefbau 2014
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Schäftlarnstr. 126, eine Traubenkirsche (vertagt aus der letzten Sitzung)
+- TOP 11.2.: Baumfällung Implerstr. 14 - 16
+- TOP 11.3.: Baumfällung Valleystr. 48
+- TOP 12: Bürgerversammlungsempfehlungen
+- TOP 13: Anträge
+- TOP 13.1.: Kulturgeschichtspfad für Sendling
+- TOP 14: Verschiedenes
+- TOP 14.1.: Taubenfüttern am Harras und am Resi-Huber-Platz
+- TOP 14.2.: Straßennamenerläuterungsschild am Resi-Huber-Platz
+- TOP 14.3.: Behindertentoiletten bekannt machen
+- TOP 14.4.: Eindämmung des Fuchsbandwurmes
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
