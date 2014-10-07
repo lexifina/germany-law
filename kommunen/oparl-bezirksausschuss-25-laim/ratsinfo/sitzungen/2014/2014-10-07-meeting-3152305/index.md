@@ -1,0 +1,68 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-10-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152305
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152305
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Konzept für Hundekotbeutelspender; Vorstellung durch Vertreter des Baureferates / HA Gartenbau
+- TOP 1.1.2.: Vorstellung des Projektes "Stadt-Viertel-Leute"
+- TOP 1.2.1.: Beklebung mit Flyern in Laim und im gesamten Stadtbezirk
+- TOP 1.2.2.: Integriertes Nahverkehrskonzept für Laim
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Umgestaltung Willibaldplatz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.188 Euro für Marionetten Theater am 15.10.2014; Antragsteller: deutsch-sizilianischer Verein ?Le Zagare. Sicilliani e non solo? - dazu: Schreiben des Antragsstellers vom 12.09.14 und 21.09.14 - <div>vertagt</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.975 Euro für die Restaurierung von Gedenktafeln; Antragsteller: Veteranen- und Kriegerverein Laim 1890/2010 e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 28.08.14: Mobilfunk; Suchkreismeldung im Suchkreis M-Landsberger Straße II, Suchkreis- Nr. 9265 MXB 8X0, Planung eines neuen Mobilfunkstandorts
+- TOP 4.2.: Schreiben Direktorium vom 02.09.14: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund (Antrag Nr. 08-14 / B 05467 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 17.012.2013)
+- TOP 4.3.: Schreiben Baureferat vom 04.09.14: Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim (Empfehlung Nr. 08-14 / E 00198 der Bürgerversammlung des 25. Stadtbezirkes Laim am 25.11.08); Fahrradproblematik am Laimer Tunnel: Schaffung von ausreichend und wetterfesten Abstellflächen außerhalb des Tunnels (Empfehlung Nr. 08-14 / E 00440 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.11.09); Ausarbeitung alternativer Parkmöglichkeiten für bis zu 1500 Fahrräder an der Laimer Unterführung (Empfehlung Nr. 08-14 / E 00465 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 24.11.09); Laimer Unterführung: Errichtung von doppelstöckigen Fahrradabstellanlagen (Empfehlung Nr. 08-14 / E 02104 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 21.11.13); Anhörung zur Beschlussvorlage des Bauausschusses vom 09.12.14 (Sitzungsvorlage Nr. 14-20 / V 01379)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 1: Neuerrichtung des Daches zur Schaffung neuen Wohnraums, Neubau einer Tiefgarage und Anbau von Außenaufzügen (Agnes-Bernauer-Str. 1-5 / Lautensackstr. 6-16 / Ludwig-Richter-Str. 20 / Schedelstr. 1-11); Tektur - Erfüllung von Denkmalschutzauflagen; sowie ergänzende Baumbestands- und FFG-Plan zur Zuleitung vom 28.08.14
+- TOP 5.2.: Fürstenrieder Str. 80: Errichtung eines neuen Shopgebäudes mit Nebenräumen, Fahrbahndach freistehend, Abfall-Sammeldepot-Container sowie Aufstellen von Lärmschutzwänden (Shopgebäude mit extensiver Dachbegrünung); hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.3.: Fürstenrieder Str. 61: Dachaufstockung und Neubau Pavillon / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.4.: Camerloherstr. 135: Nutzungsänderung einer Steuerkanzlei in eine Vereinshaus mit Aufenthalts- / Schulungsräumen und Gebetsmöglichkeit; hier: Baupläne
+- TOP 5.5.: Agnes-Bernauer-Str. 32: Aufstockung eines Wohngebäudes mit 2 Läden um 2 Geschosse, Errichtung von 6 Wohneinheiten; hier: Freiflächengestaltungs- und Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 16.09.14
+- TOP 7.2.: Sitzung UA Kultur vom 23.09.14
+- TOP 7.3.: nichtöffentliche BA-Sitzung vom 24.09.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 05.09.14: Zuwendung aus dem Budget des BA 25 Laim; Verwendungsnachweis - Faschingstreiben Laim am 01.03.14; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 30.07.14: Fürstenrieder Str. 7-11; Verlängerung der Kurzparkzonendauer
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 10.0914: Behindertenparkplätze in Laim (Antrag des BA 25 Nr. 14-20 / B 00072 vom 03.06.14)
+- TOP 8.4.: Schreiben Referat für Arbeit und Wirtschaft vom 02.09.14: Anpassung der Bushaltestellen in der Fürstenrieder Straße an die Erfordernisse der Buszüge (Antrag Nr. 14-20 / B 00125 vom 01.07.14)
+- TOP 8.5.: Schreiben Stadtwerke München GmbH vom 03.09.14: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Agricolaplatz, 1. Bauabschnitt
+- TOP 8.6.: Schreiben Baureferat vom 08.09.14: Ameisen in Laim (Schreiben BA vom 21.08.14)
+- TOP 8.7.: Schreiben Baureferat vom 16.09.14: Sanierung der Radwege (Antrag Nr. 14-20 / B 00281 vom 05.08.14)
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 10.09.14: Einladung zu Fachgesprächenim Bauzentrum München: "Radon in Gebäuden" am 30.09.14; "Das Bauteam-Modell" am 14.10.14; "Strom in Bürgerhand" am 06.11.14; Münchner EnergieSparTage am 08.09.11.14
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.09.14: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung in der Rushaimerstraße (Schreiben BA vom 26.08.14)
+- TOP 8.10.: Schreiben Kulturreferat vom 17.09.14: Nutzerbedarfsprogramm Stadtteilkulturzentrum Westendstraße / Ludwigshafener Straße
+- TOP 8.11.: Schreiben Kommunalreferat vom 16.09.14: Entnennung Paul-Lagarde-Straße ; Beschlussvorlage für den Kommunalausschuss am 16.10.14 (Sitzungsvorlage Nr. 14-20 / V 01439)
+- TOP 8.12.: Schreiben Kommunalreferat vom 19.09.14: Alte Heimat, Zschokkestr. 41-49 ungerade
+- TOP 8.13.: Bautenliste vom 25.08.-31.08.14 1. Erstantragsverfahren a) Fürstenrieder Str. 80 b) Hans-Thonauer-Str. 2. Änderungsverfahren a) Eckermannstr. 18 b) Von-der-Pfordten-Str. 38 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 80
+- TOP 8.14.: Bautenliste vom 01.09.-07.09.14 1. Erstantragsverfahren a) Camerloherstr. 85a b) Landsberger Str. 183 c) Camerloherstr. 87
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 08.09.14: Baumaßnahmen; Stichtag: 22.09.14
+- TOP 8.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten (Sitzungsvorlage Nr. 14-20 / V 00959)
+- TOP 8.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren (Sitzungsvorlage Nr. 14-20 / V 01173)
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.14: Infokampagne zum sozialverträglichen Immobilienverkauf (Sitzungsvorlage Nr. 14-20 / V 01097)
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.14: München öffnet sein Herz endlich auch für Motorradfahrer (Sitzungsvorlage Nr. 14-20 / V 01275)
+- TOP 8.20.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.14: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.14-30.06.14 (Sitzungsvorlage Nr. 14-20 / V 01317)
+- TOP 8.21.: Schreiben GEWOFAG vom 26.08.14: Information zum Projekt "Neubau der Wohnsiedlung Ludlstraße", Mieteranschreiben
+- TOP 8.22.: Schreiben Green City e.V. vom 28.08.14: Gebäudebegrünung im Stadtbezirk
+- TOP 8.23.: Schreiben Bayerischer Landtag, Landtagsamt vom 02.09.14: Petition zum Thema "Hubschrauberlandeplatz am Klinikum Großhadern"
+- TOP 8.24.: Schreiben Pfarrjugend der Katholischen Pfarrei Fronleichnam (Posteingang 15.09.14): Sachbericht zur Bezuschussung eines neuen Mannschaftszeltes aus dem BA-Budget
+- TOP 8.25.: Schreiben BA 20 Hadern vom 16.09.14: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG); hier: Eindämmen des Fuchsbandwurms durch Auslegen von Ködern im Stadtgebiet
+- TOP 8.26.: Bürgerschreiben: Außenstelle Waisenhaus München in Laim, Queristr. 1
+- TOP 8.27.: Münchner Statistik; 2. Quartalsheft, Jahrgang 2014
+- TOP 1.2: Bürgerpost an den BA
