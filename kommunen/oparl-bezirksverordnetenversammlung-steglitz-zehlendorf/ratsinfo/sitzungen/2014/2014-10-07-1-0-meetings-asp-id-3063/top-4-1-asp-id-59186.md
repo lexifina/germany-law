@@ -1,0 +1,7 @@
+# TOP 4.1: Umbau der ehemaligen Autobahnraststätte Dreilinden in ein Autohaus mit Restauration
+
+- Sitzung: 34. öffentliche Sitzung des Stadtplanungsausschusses (2014-10-07)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=59186
+- Ergebnis: erledigt
