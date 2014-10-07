@@ -1,0 +1,84 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-10-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149777
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149777
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Neugestaltung des Josephsplatzes ? Vorstellung der geänderten Planungen unter Einbeziehung der Vorschläge aus der Einwohnerversammlung vom 25.06.2014
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Vermieters aus der Maxvorstadt vom 14.09.2014 Reduzierung des Verkehrslärms in der Gabelsbergerstraße zwischen Barer- und Türken- straße
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Dauerhafte Anbringung einer ergänzenden Zusatztafel im Umgriff des Obelisken auf dem Karolinenplatz
+- TOP .2.: Kommunalreferat, Unterrichtung Verlegung des BA-Schaukastens am U-Bahnhof Theresiensstraße (s. TOP F 1.7/0914) Antwortschreibendes Kommunalreferates
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: LBK-Listen der Bauvorhaben: 35., 36., 37. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 34., 35., 36., 37. KW
+- TOP .3.: Errichtung von Unterflur-Wertstoffcontainerinseln an den Standorten a) Karlstraße / Luisenstraße b) Katharina-von-Bora-Straße / Sophienstraße c) Denisstraße d) Blutenburgstraße gegenüber 46
+- TOP .4.: Augustenstraße 73, Aufstockung des Rückgebäudes mit einer Wohnung ? Vorbescheid
+- TOP .5.: Ottostraße 3, Umbau und Nutzungsänderung von Ladeneinheiten (?Kunstblock?)
+- TOP .6.: Blutenburgstraße 36, DG-Ausbau (mit je 1 WE) in zwei Rückgebäuden (Blutenburgstraße 36 + 40)
+- TOP .7.: Lenbachplatz 1, Änderung zweier DG-Wohnungen zu Büroflächen
+- TOP .8.: Referat für Stadtplanung und Bauordnung, Anhörung Bebauungsplan mit Grünordnung Deroystraße (westlich), Arnulfstraße (nördlich), Mars- straße (östlich und südlich), Änderung des Bebauungsplanes Nr. 945 ? Steuerzentrum Entwurf Aufstellungsbeschluss
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .1.: Max-Joseph-Straße 9, Errichtung einer Tiefgarage und Neugestaltung des Innenhofes mit Empfangsgebäude (Barer Straße 14/Karolinenplatz 2/Max-Joseph-Straße 9) - Tektur zu Az: 1.2-2010-29445-22 (hier: Änderung der Freiflächengestaltung)
+- TOP .3.2: Baumfällungen
+- TOP .1.: Rottmannstraße 18, eine Traubenkirsche
+- TOP .2.: Dachauer Straße 34, zwei Eiben
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Referat für Stadtplanung und Bauordnung Infokampagne zum sozialverträglichen Immobilienverkauf (Ziffer 1) Empfehlung Nr. 08-14 / E 00794 der Bürgerversammlung des Stadtbezirkes 1 Altstadt- Lehel am 30.11.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 Sitzungsvorlage Nr. 14-20 / V 01097
+- TOP .2.: Referat für Stadtplanung und Bauordnung Beschlussvollzugskontrolle (BVK) ; Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadt- rates im Zeitraum vom 01.01.2014 bis 30.06.2014 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 Sitzungsvorlage Nr. 14-20 / V 01317
+- TOP .3.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2082 a, Katharina-von-Bora- Straße (östlich), Karlstraße (nördlich) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 einschließ- lich Hinweis/Ergänzung zum Beschluss Sitzungsvorlage Nr. 14-20 / V 01074
+- TOP .4.: Bezirksausschuss 20 Hadern Vollzug des Bundesjagdgesetzes (BjagdG) und des Bayerischen Jagdgesetzes (BayJG), Eindämmung des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet Schreiben des BA 30 Hadern an das KVR vom 16.09.2014
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Verkehrsschilder ?Tempo 30? und ?Parkraumbewirtschaftete Zone? an der Kreuzung Karlstraße / Barer Straße (vor Karlstr. 10) besser positionieren
+- TOP .7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP 1: (E) Erhalt dreier Ampelanlagen: Georgen-/ Tengstraße, Georgen-/ Isabellastraße und Görres-/ Tengstraße Die Ampelanlage Augusten-/ Görresstraße und die dazugehörige Rechtsabbiegespur sollen beibehalten werden Die bereits abgebauten Ampeln Ecke Görres-/ Schwindstraße sowie Görres-/ Zentnerstraße sollen wieder installiert werden Im Interesse der Schulwegsicherheit sollen die Ampelanlagen an der Kreuzung Augusten-/ Görresstraße sowie Teng-/ Görresstraße wieder vollständig errichtet und in Betrieb genommen werden
+- TOP 1.2.2: Öffentlicher Raum
+- TOP 1.1.: Errichtung eines Brunnens am Georg-Elser-Platz in der Sitzung vom 09.09.2014 zur Klärung der Details in den UA verwiesen
+- TOP 1.2.: Baureferat, Gartenbau Zusätzliche Hundekottütenspender sollen in der Maxvorstadt aufgestellt werden
+- TOP 1.2.3: Gaststätten
+- TOP 1.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Freischankflächen, Entscheidung Augustenstraße 5, Genehmigung einer Freischankfläche
+- TOP 1.2.4: Veranstaltungen
+- TOP 1.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz vom 27.11. bis 23.12.2014
+- TOP 1.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Table-Dance-Bar ?boobs?, Dachauer Straße 17 - Antrag auf Aufhebung der Sperrzeit für die Zeit des Oktoberfestes 2014 Bitte um Entscheidung des Oberbürgermeisters nach Ablehnung des Antrags durch den Ferienausschuss des BA 3
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung München öffnet sein Herz endlich auch für Motorradfahrer! Antrag Nr. 08-14 / A 03187 der FW vom 19.03.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 Sitzungsvorlage Nr. 14-20 / V 01275
+- TOP 1.3.: Direktorium Table-Dance-Bar ?boobs?, Dachauer Straße 17 - Antrag auf Aufhebung der Sperrzeit für die Zeit des Oktoberfestes 2014 Positive Entscheidung des Oberbürgermeisters vom 19.09.2014 (vgl. TOP C 3.1)
+- TOP 1.1.: Sozialreferat, Sozialplanung REGSAM ? ein starkes soziales Netzwerk für München REGSAM-Ressourcen anpassen und verstetigen Anhörung zum Beschlussentwurf für den Kinder- und Jugendhilfe- und den Sozialausschuss am 04.11.2014
+- TOP 1.1.: Gleichstellungsstelle für Frauen Protokoll des 20. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 31.07.2014
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Internationale Frauenliga für Frieden und Freiheit Ausstellung ?...unaufhörlich für einen gerechten Frieden? im März/April 2015
+- TOP 1.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.1.: Direktorium, BA-Angelegenheiten, Anhörung Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund Antrag Nr. 08-14 / B 05467 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 17.12.2013
+- TOP 1.2.: Renovierung des Bürgerbüros
+- TOP 1.3.: Bürgerversammlung 2015: Versammlungsort
+- TOP 1.4.: Antrag der FDP-Fraktion im BA 3 vom 12.09.2014 Antrag zum Sitzungsablauf: Blockabstimmung bei einstimmig beschlossenen UA-Empfehlungen Unterrichtungen werden nur auf Antrag aufgerufen
+- TOP 1.1.: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen und Anhörungen
+- TOP 1.3.: Aktuelle Sachstandsberichte
+- TOP 1.4.: Unterrichtungen
