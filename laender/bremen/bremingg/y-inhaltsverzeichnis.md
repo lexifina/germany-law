@@ -4,6 +4,7 @@ Teil 1: | Berufsbezeichnung „Ingenieur“
 § 1 | Berufsbezeichnung „Ingenieur“
 § 2 | Genehmigung
 § 3 | Ausbildungsbezeichnung
+§ 3a | Anwendung des Bremischen Berufsqualifikationsfeststellungsgesetzes
 Teil 2: | Berufsbezeichnung „Beratender Ingenieur“ und Berufsaufgaben
 § 4 | Berufsaufgaben der Beratenden Ingenieure
 § 5 | Berufsbezeichnung „Beratender Ingenieur“
