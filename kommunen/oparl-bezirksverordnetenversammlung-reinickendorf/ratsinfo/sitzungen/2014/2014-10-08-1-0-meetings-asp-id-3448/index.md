@@ -1,0 +1,76 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-10-08T17:00:00+02:00
+- Ende: 2014-10-08T20:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3448
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3448
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=79290
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 34. Sitzung der BVV am 08.10.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 34. Sitzung der BVV am 08.10.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 34. Sitzung der BVV am 08.10.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Lebensmittelsicherheit in Reinickendorf - beantwortet
+- TOP 5.1.1: Zügige Schaffung gesetzlicher Grundlagen für die Einführung des Smiley-Systems - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Richtlinien zur Korruptionsbekämpfung umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Bericht Rechtsextremismus in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Überarbeitung der Internetseiten des Bezirks und der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bezirkshaushalt transparenter gestalten - Haushalt im OpenData-Format bereit stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Neue Fassadentechnologie als Energieeinsparungsmodell für Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Höhenverstellbares Rednerpult - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Siedlung "Am Steinberg" - überwiesen
+- TOP 7.8: Soziale Erhaltungsverordnungen - überwiesen
+- TOP 7.9: Vor der Kita Maximiliankorso wieder Tempo 30 einrichten - überwiesen
+- TOP 7.10: Standorte für anzeigenunabhängige Spurensicherung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Konzept Residenzstraße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: Lieferverkehr am Waidmannsluster Damm - Rückstau vermeiden - überwiesen
+- TOP 7.13: Bürgerbeteiligung mit Hilfe des Internets (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Kiezfonds - überwiesen
+- TOP 7.15: Verkehrssicherheit auf der Heiligenseestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Mehr Helligkeit für Sicherheit (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.17: TXL-Flugbewegungen über die Gebührenordnung steuern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.18: Halteverbot vor der Bedarfsampel Humboldtstraße anordnen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.19: Änderung des Geltungsbereichs sowie des Titels des Bebauungsplans 12-17-1 im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 7.20: Vorlage zur Kenntnisnahme für die Bezirksverordnetenversammlung betreffend der Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes XX-240b-2 für dasGrundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee. - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Denkmalschutzrechtliche Genehmigungen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.2: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2015 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Werbung der Graphothek intensivieren - erledigt
+- TOP 10.2: Innovationspreis "Pflege" - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: W-LAN-Hotspots in Reinickendorfer Cafés - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Strukturen bürgerlichen Engagements in Reinickendorf-West stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Transparente und verlässliche Verwaltung des Bildungs- und Teilhabepakets - erledigt
+- TOP 10.6: Interkulturelle Angebote in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Einrichtungen "dampffrei" halten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Ausstellung "Der erste Riss im Eisernen Vorhang" nach Reinickendorf holen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Überarbeitung des § 27 (6) GO BVV - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Oberschulbroschüre mit sonderpädagogischer Ausrichtung intensivieren - überwiesen
+- TOP 12.2: Gelände- und Übersichtspläne für den Freizeitpark Lübars - überwiesen
+- TOP 12.3: Gedenkort ehemaliger Friedhof der Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 12.4: Ergänzung Radverkehrskonzept - überwiesen
+- TOP 12.5: Wurzelschutzfolie für Reinickendorfer Radwege - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Ampelschaltzeiten Schulzendorfer Straße Ecke Hermsdorfer Damm anpassen - überwiesen
+- TOP 13.2: Programm Stadtumbau West für das Umfeld des Flughafens Tegel - überwiesen
+- TOP 13.3: Broschüre - überwiesen
+- TOP 13.4: Sicherer Fußweg in Heiligensee - überwiesen
+- TOP 13.5: Antrag Sturzprophylaxe - überwiesen
