@@ -1,0 +1,8 @@
+# TOP 8: Wirtschaftsplan Abfallwirtschaftsbetrieb Ludwigslust-Parchim (ALP) für das Jahr 2015
+
+- Sitzung: Sitzung des Ausschusses für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit (2014-10-08)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730297f24bb7ed51288fda
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730297f24bb7ed51288fd4
