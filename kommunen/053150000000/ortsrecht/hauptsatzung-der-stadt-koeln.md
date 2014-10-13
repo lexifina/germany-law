@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2014-07-11 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_11072014.pdf
+- Datum: 2014-10-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_13102014.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 12. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 11. Juli 2014
+in der Fassung der 13. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 13. Oktober 2014
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -234,8 +234,8 @@ Seite 13 von 21
 
 (1) Der Integrationsrat der Stadt Köln besteht aus 33 Mitgliedern. Die Mitglieder werden vom Rat zu einem Drittel nach dem für die Ausschüsse geltenden Verfahren aus seiner Mitte bestellt, zu zwei Dritteln nach den Bestimmungen des § 27 Gemeindeordnung (GO) für die Dauer der Wahlzeit des Rates nach Listen oder als Einzelbewerberinnen/Einzelbewerber gewählt.
 (2) Nähere Einzelheiten über die Durchführung der Wahl regelt die Wahlordnung für die Wahl des Integrationsrates.
-(3) Die/der Vorsitzende und seine drei Stellvertreterinnen/Stellvertreter werden von allen Mitgliedern aus der Mitte des Integrationsrates gewählt.
-(4) Für die Verwaltung nimmt die Oberbürgermeisterin/der Oberbürgermeister oder die/der zuständige Fachbeigeordnete und/oder die Leitung des Interkulturellen Referates an den Sitzungen des Integrationsrates teil.
+(3) Die/der Vorsitzende und seine fünf Stellvertreterinnen/Stellvertreter werden von allen Mitgliedern aus der Mitte des Integrationsrates gewählt.
+(4) Für die Verwaltung nimmt die Oberbürgermeisterin/der Oberbürgermeister oder die/der zuständige Fachbeigeordnete und/oder die Leitung des Kommunalen Integrationszentrums an den Sitzungen des Integrationsrates teil.
 Daneben können im Einzelfall Vertreterinnen/Vertreter der Arbeiterwohlfahrt, des Arbeitgeberverbandes, der Agentur für Arbeit Köln, des Caritasverbandes, des Deutschen Gewerkschaftsbundes, des Deutschen Paritätischen Wohlfahrtsverbandes, des Diakonischen Werkes, des Fördervereins Kölner Flüchtlingsrat e.V. und der Seniorenvertretung der Stadt Köln als Sachverständige zu den Beratungen hinzugezogen werden.
 (5) Die Geschäftsordnung des Rates gilt auch für den Integrationsrat. Es gelten die Befugnisse gemäß § 27 Abs. 8 und 9 der GO. Der Integrationsrat regelt seine inneren Angelegenheiten sowie Abweichungen von der Geschäftsordnung des Rates durch eine eigene Geschäftsordnung. Diese ist vom Rat zu genehmigen.
 (6) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde, insbesondere wenn sie die Interessen der Kölner Migrantinnen und Migranten als solche betreffen, befassen und Vorschläge und Anregungen machen.
@@ -337,7 +337,7 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959 -
 
 Seite 20 von 21
 
