@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3082094
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3082094
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Durchgehender Fahrradstreifen in der Kriegerheimstraße zwischen Pfingstrosen- und Aurikelstraße
+- TOP 1.2.: Radweg von Großhadern nach Neuried
+- TOP 0: Vorstellung des Fördervereins Bildungscampus am Westpark
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Bauvorhaben Kultureller Mittelpunkt am Haderner Stern, Guardinistr. 90, im 20. Stadtbezirk Hadern Projektkosten (Kostenobergrenze) 1.310.000 ? (davon Ersteinrichtungskosten 44.000 ?) 1. Genehmigung des Nutzerbedarfsprogramms (NBP) 2. Projektauftrag (Kommunalreferat, 29.09.14)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Guardinistraße 183 (Kreisverwaltungsreferat, 10.09.14)
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, hier: Genehmigung einer Freischankfläche, Alpenveilchenstraße 49 (Kreisverwaltungsreferat, 26.08.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Antrag BA 2 Ludwigsvorstadt-Isarvorstadt vom 17.12.2013: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund (Direktorium, 02.09.14)
+- TOP 6.2.: Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss: REGSAM - ein starkes soziales Netzwerk für München REGSAM-Ressourcen anpassen und verstetigen (Sozialreferat, 12.09.14)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Circus-La-Strada vom 24.10. - 02.11.2014 (Kreisverwaltungsreferat, 17.09.14)
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz; Flohmarkt städt. Kindergarten Ludwig-Wörl-Weg am 17.10.14 (Kreisverwaltungsreferat, 30.09.14)
+- TOP 6.5.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Hundesportvereins Neuried e.V., Umzäunung des Grundstücks, Verlängerung des Bewilligungszeitraums (Direktorium, 01.10.14)
+- TOP 6.6.: Beschlussvorlage für den Sportausschuss am 05.11.2014: TSV München-Großhadern e.V. Sanierung der vereinseigenen Judohalle an der Heiglhofstraße 25 Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München (Referat für Bildung und Sport, 02.10.14)
+- TOP 7: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Am Waldrand 28, 1 Fichte
+- TOP 7.1.2.: An der Rehwiese 16 a, 1 Hemlocktanne
+- TOP 7.1.3.: Blumenauer Straße 19, 1 Birke
+- TOP 7.1.4.: Kruckenburgstraße 40, 1 Blautanne
+- TOP 7.1.5.: Ringstraße 30, 1 Tanne
+- TOP 7.1.6.: Waldgartenstraße 34, 1 Douglasie
+- TOP 7.1.7.: Waldeslust 10, 1 Tanne
+- TOP 7.1.8.: Kurparkstraße 47, 1 Birke
+- TOP 7.1.9.: Stolzenfelsstraße 13, 1 Fichte, 1 Kiefer
+- TOP 7.1.10.: An der Rehwiese 20, s. Baumbestandsplan
+- TOP 7.1.11.: Am Wiesenhang 26, 1 Tanne
+- TOP 7.1.12.: Rudi-Seibold-Straße 1, 1 Birke
+- TOP 7.1.13.: Saalburgstraße 28, 1 Birke
+- TOP 7.1.14.: Petunienweg 11 c, 1 Schwarzkiefer
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - Lumax Cafe, Marchioninistraße 15 (Kreisverwaltungsreferat, 05.09.14)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Waldklausenweg (Sozialreferat, 28.08.14) - Ringstraße (Sozialreferat, 26.09.14)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München GmbH: - Stromprojekt Konrad-Dreher-Straße Netztrafostation, 1. Bauabschnitt (SWM, 24.09.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bushaltestelle Wastl-Witt-Straße (Baureferat, 01.09.14)
+- TOP 9.2.: Schulische Angebote an der Haunerschen Kinderklinik (Referat für Bildung und Sport, 18.09.14)
+- TOP 9.3.: Stiftsbogen 58; eingeschränktes Haltverbot (Kreisverwaltungsreferat, 18.10.13)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Bushaltestellen in der Fürstenrieder Straße (MVG, 05.09.14)
+- TOP 10.2.: Raumsituation am Schulstandort an der Guardinistraße; hier: Auswirkungen der Einführung des achtjährigen Gymnasiums (Bay. Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst, 15.09.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Budget Christkindlmarkt 2014
+- TOP 11.2.: Einladung "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am Mittwoch, 26.11.2014 um 16.00 Uhr (Referat für Bildung und Sport, 12.09.14)
+- TOP 11.3.: Sachbericht für Zuwendung aus dem BA-Budget für die Pfarrjugend der Katholischen Pfarrei Fronleichnam für die Bezuschussung eines Mannschaftszeltes
+- TOP 11.4.: Leerung der Biotonnen in der Blumenauer Straße
+- TOP 11.5.: Gebäudebegrünung im Stadtbezirk (Green City e.V., 28.08.14)
+- TOP 11.6.: Zuschuss zu 30-jährigen Jubiläum (Deutscher Pfadfinderbund Mosaik, 23.09.14)
+- TOP 11.7.: Resolution des Münchner Bündnisses für Toleranz, Demokratie und Rechtsstaat "München heißt Flüchtlinge willkommen" (OB Dieter Reiter, 23.09.14)
+- TOP 11.8.: Information über das Betriebskonzept zur Durchführung der Arbeiten für die LZB-Erneuerung und Schienenerneuerung U 3 / U 6-Süd (MVG, 26.09.14)
+- TOP 11.9.: Einladung zur Fachveranstaltung "Selbstbestimmt leben in ambulant betreuten Wohngemeinschaften" am 20.11.2014 (Sozialreferat, 30.09.14)
+- TOP 11.10.: Einladung zu: - Fachforum "Nah- und Fernwärmenetze" am 15.10.2014 - Morgenforum "Flexibilität im Bauen" am 21.10.2014 und - Fachforum "Faszination Beton" am 22.10.2014 (Referat für Gesundheit und Umwelt, 30.09.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse (1)
+- TOP 1.2: Referentenanträge (1)
+- TOP 1.2.1.: Beschluss zur Sitzungsvorlage-Nr. 14-20 / V 00959: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten (war am 17.09.14 im Planungsausschuss)
+- TOP 2: Senatsbeschlüsse
+- TOP 2.1: Gefasste Beschlüsse (2)
+- TOP 2.1.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 03.06.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00436: (nach Antrag) Kindertagesstätten sonstiger Träger; Haus für Kinder an der Sauerbruchstraße 25 im 20. Stadtbezirk Hadern Leistung eines Baukostenzuschusses i.H.v. 32.147 ? für 9 Plätze im Untergeschoss (Rückgang des Versorgungsgrades von 89 auf 83 %)
+- TOP 2.2: Referentenanträge (2)
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01173: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren (abgelehnt)
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 1275: München öffnet sein Herz endlich auch für Motorradfahrer!
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01097: Infokampagne zum sozialverträglichen Immobilienverkauf
+- TOP 3: Vorberatende Ausschüsse
+- TOP 3.1: Gefasste Beschlüsse (3)
+- TOP 3.2: Referentenanträge (3)
+- TOP 4: Bekanntgaben
+- TOP 4.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01317: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014 - 30.06.2014
+- TOP 4.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 08.10.14 zur Sitzungsvorlage Nr. 14-20 / V 01332: Raumordnerisches Entwicklungskonzept München Südwest: Bekanntgabe der Projektergebnisse
