@@ -1,0 +1,76 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-10-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Stau Allacher Straße / Von-Kahr-Straße
+- TOP 2.2.2.: Hunde im Vogel- und Naturschutzbereich Kiesstraße
+- TOP 2.3: Entwicklung Junkersgelände; Bau einer neuen Erschließungsstraße
+- TOP 2.4: Aktueller Stand Oertelplatz
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07: Aufstellung einer neuen Verkaufseinrichtung am Oertelplatz 1 und an der Eversbuschstraße - Park & Ride Parkplatz der S-Bahn in Karlsfeld
+- TOP 4.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Widmung der Gesamtstrecke der Neumeyerstraße, einer Teilstrecke der Hintermeierstraße, einer Teilstrecke der Willstätterstraße und einer Teilstrecke der Theodor-Kitt-Straße
+- TOP 5: Anhörungen
+- TOP 5.1.: Beschlussentwurf Verkehrsplanung im Münchner Westen
+- TOP 5.2.: Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage sowie Abbruch eines Zweifamilienhauses mit Garage Angerlohstr. 17, Flst. 543/6
+- TOP 5.3.: Beschlussentwurf: REGSAM - ein starkes soziales Netzwerk für München REGSAM-Ressourcen anpassen und verstetigen
+- TOP 5.4.: Erstmalige Herstellung Krayweg
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.14: a) Wie ist der Stand der Managementpläne und des Monitoring von FFH-Gebieten in München? (Vorlagen Nr. 1061) b) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.14-30.06.14 (Vorlagen Nr. 1317) c) München öffnet sein Herz endlich auch für Motorradfahrer! (Vorlagen Nr. 1275) d) Infokampagne zum sozialverträglichen Immobilienverkauf (Vorlagen Nr. 1097)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 01.10.14: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten (Vorlagen Nr. 959)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Schreiben Oberbürgermeister vom 23.09.14: Münchner Bündnis für Toleranz
+- TOP 7.2.: Hundekottütenspender Aktion Saubere Stadt - Weiterentwicklung
+- TOP 7.3.: Einladung zur jährlichen Gesprächsrunde mit dem Referat für Bildung und Sport am 26.11.14, 16:00 - ca. 18:00 Uhr
+- TOP 7.4.: Sitzungstermine und Bürgerversammlung 2015
+- TOP 7.5.: Unterausschuss Kultur: Kulturbürgerhaus
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 17.09.14 Behebung der Gefahrensituation Allacher Staße / Ecke Zwiedineckstraße, BV-Empf. 1369 (Zwischennachricht)
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung: Liste der Bauanträge (08.09.-14.09.14, 15.09.-21.09.14, 22.09.-28.09.14)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Löfflerstr. 5, Schlehbuschstr. 3, Ramannstr. 25,Dachauer Str. 667, Francéstr. 23, Hormayrstr. 17, Pfarrer-Grimm-Str. 41, Manzostr. 90, Ossannastr. 14, Langerhansstr. 16, Vogelloh 48
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Dachauer Str. 667, Killerstr. 6, Grandauerstr. 9
+- TOP 8.5.: Schreiben Stadtwerke München vom 15.09.14, 22.09.14, 29.09.14: Baumaßnahmen
+- TOP 8.6.: Schreiben Stadtwerke München vom 19.09.14: Baumaßnahmen der SWM, Erdgasprojekt Hanfgartenstraße
+- TOP 8.7.: Schreiben Stadtwerke München vom 23.09.14: Baumaßnahmen der Stadtwerke, Stromprojekt Hanfgartenstraße 2, 4. Bauabschnitt Theodor-Fischer-Straße
+- TOP 8.8.: Schreiben Stadtwerke München vom 23.09.14: Baumaßnahmen der SWM, Stromprojekt Hanfgartenstr., 5. Bauabschnitt Theodor-Fischer-Straße/Eversbuschstr./Esmarchstr./Theodor-Kitt-Straße, Änderung im Terminablauf
+- TOP 8.9.: Schreiben Stadtwerke München vom 23.09.14: Baumaßnahmen der SWM, Stromprojekt Hanfgartenstr. 2, 6. Bauabschnitt Auenbruggerstr., Evrsbuschstr., Pflüglstr., Theodor-Kitt-Str., Änderung im Terminablauf
+- TOP 8.10.: Schreiben Stadtwerke München vom 29.09.14: Informationsflyer "Baumaßnahmen derSWM", 2. Halbjahr 2014
+- TOP 8.11.: Schreiben Bezirksausschuss 20 Hadern vom 16.09.14: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG) hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet
+- TOP 8.12.: Schreiben Sozialreferat vom 24.09.14: Stellenausbau in den Münchner Nachbarschaftstreffs
+- TOP 8.13.: Schreiben Sozialreferat vom 12.09.14 und 23.09.14: Am Lochholz, Parrotstr. Antrag auf Zweckentfremdung von Wohnraum
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 10.09.14: Einladung zu Fachgespräch - "Radon in Gebäuden" am 30.09.14; -"Das Bauteam-Modell" am 14.10.14, - "Strom in Bürgerhand" am 06.11.14, -Münchner EnergieSparTage am 08.,09.11.14
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 22.09.14: Europe Direct Information 04/2014
+- TOP 8.16.: Schreiben Kreisverwaltungsreferat vom 26.09.14: Unterrichtung über ein nicht genehmigungspflichtiges Feuerwerk am 27.09.14 Von-Kahr-Str. 87
+- TOP 8.17.: Schreiben Kreisverwaltungsreferat vom 01.10.14: Antrag auf Haltverbote gegenüber der Zufahrt zur Theodor-Fischer-Str. 37
+- TOP 9: Nachtrag
+- TOP 9.1.: Anhörung: Ausweitung von Wiesenflächen: Böschung an der Servetstraße entlang der Würm
+- TOP 9.2.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 9.3.: Verschiedenes: Einladung zur Vollversammlung des Ausländerbeirates am 21.10.14
+- TOP 9.4.: Einladung Facharbeitskreis Mobilität des Behindertenbeirats am 14.01.15, 17:00 Uhr
+- TOP 9.5.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Verwaltungs- und Personalausschusses vom 24.09.14: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben (Sitzungsvorlage Nr. 1006)
+- TOP 9.6.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Krautheimstr. 24, Spiegelbergstr. 20, Kunstmannstr. 19, Dachauer Str. 667
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.10.14: Bauanträge (29.09.-05.10.14)
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.10.14: Georg-Reismüller-Str. 40, Fl.Nr. 1027/0, Gemarkung: Allach, Umbau und Nutzungsänderung eines Laborgebäudes in ein Arbeiterwohnheim (befristet auf 2 Jahre)
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.10.14: Fällungsgenehmigung Dachauer Str. 665
+- TOP 9.10.: Schreiben Sozialreferat vom 30.09.14: Einladung zur Fachveranstaltung "Selbstbestimmt leben in ambulant betreuten Wohngemeinschaften" am 20.11.14
+- TOP 9.11.: Schreiben Sozialreferat vom 29.09.14: Antrag auf Zweckentfremdung von Wohnraum, Lautenschlägerstr./Hintermeierstr.
+- TOP 9.12.: Schreiben Kulturreferat vom 01.10.14: Veranstaltungsübersicht Oktober
+- TOP 9.13.: Schreiben Direktorium vom 06.10.14: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle
+- TOP 9.14.: Schreiben Stadtwerke München vom 06.10.14: Baumaßnahmen
