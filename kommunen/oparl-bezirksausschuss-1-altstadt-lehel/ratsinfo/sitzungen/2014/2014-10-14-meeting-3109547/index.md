@@ -1,0 +1,87 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-10-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Unterrichtungen (siehe Anlage) (1)
+- TOP 0: Bericht (1)
+- TOP 1: Anträge und Bürgeranliegen (1)
+- TOP 1.1.: Antrag der CSU-Fraktion: Anhörungs- und Unterrichtungsrecht zum Bauvorhaben Karlsplatz 25, ?Neubau Hotel Königshof?
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Dianastr. 1, Aufstockung eines Wohngebäudes ? Vorbescheid
+- TOP 3.1.2.: Maximiliansgtr. 6-8, Umbau, Sanierung und Erweiterung eines Büro-, Wohn- und Geschäftshauses (vertagt aus 2014.09 B 3.1.8)
+- TOP 3.1.3.: Lerchenfeldstr. 2, Generalisierung und Erweiterung der Archäologischen Staatssammlung (vertagt aus 2014.03 B 3.1.4, D 3.2)
+- TOP 3.2: Sonstige (1)
+- TOP 3.2.1.: Städtische Grundstücke an der Pestalozzistraße, Beschlussvorlage des Kommunalausschusses vom 24.07.2014, Sitzungsvorlage Nr. 14-20/V 00864
+- TOP 4: Unterrichtungen (siehe Anlage) (2)
+- TOP 0: Bericht (2)
+- TOP 1: Anträge und Bürgeranliegen (2)
+- TOP 1.1.: Bürgeranliegen: Probleme mit der ?Eden-Bar?, Maderbräustr. 4
+- TOP 1.2.: Bürgeranliegen: Obststand auf dem Thierschplatz (vertagt aus 2014.09 C 1.2)
+- TOP 1.3.: Bürgeranliegen: Fußgänger-Problem beim Gasthaus Pschorr am Viktualienmarkt (vertagt aus 2014.09 C 1.3)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1: Gaststätten
+- TOP 2.1.1.: Eisenmannstr. 4, Gaststätte ?Asia Schnellimbiss?, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Sonnenstr. 5, Gaststätte ?City Lounge?, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.3.: Rindermarkt 6, Deli & Joy Food GmbH, Genehmigung einer Freischankfläche (vertagt aus 2014.09 C 2.1.4)
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.1.1.: Infoveranstaltung ?Das neue Hauner?, Neuhauserstr. 8 am 25.10., am 27.10. und 28.10.2014
+- TOP 3.2: Sonstige (3)
+- TOP 3.2.1.: Feedback zur Jump & Fly Veranstaltung am 27.06.2014 auf dem Marienhof
+- TOP 3.2.2.: Abbrennen eines Feuerwerks auf dem Parkplatz des P 1, Prinzregentenstr. 1 am 06.11.2014
+- TOP 4: Unterrichtungen (siehe Anlage) (3)
+- TOP 0: Bericht (3)
+- TOP 1: Anträge und Bürgeranliegen (3)
+- TOP 1.1.: Bürgeranliegen: Lieferverkehr am Sendlinger Tor, Wildes Parken in der Herzog-Wilhelm-Straße
+- TOP 1.2.: Bürgeranliegen: Wenige Mülleimer im Lehel (vertagt aus 2014.09 A 3.5)
+- TOP 1.3.: Bürgeranliegen: Sperrung der Widenmayerstraße und Steinsdorfstraße beim stattgefundenen Isarinselfest (vertagt aus 2014.09 A 3.6)
+- TOP 1.4.: Bürgeranliegen: Ampelschaltung an der Kreuzung Sternstraße/Maximilianstraße (vertagt aus 2014.09 A 3.7)
+- TOP 1.5.: Antrag der Fraktion Bündnis 90 ? Die Grünen: Radfahren auf dem Gehweg Lerchenfeldstraße entgegen der Einbahnrichtung im Teilbereich zwischen Seeaustraße bis Prinzregentenstraße
+- TOP 1.6.: Antrag der Fraktion Bündnis 90 ? Die Grünen: Zusatzschilder ?Radfahrer frei?, Ecke Müller-/Pestalozzistraße
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 4: Unterrichtungen (siehe Anlage) (4)
+- TOP 0: Bericht (4)
+- TOP 0.1.: Vorstellung Konzeptentwurf Kinder- und Jugendeinrichtung durch St. Anna im Lehel e. V.
+- TOP 1: Anträge und Bürgeranliegen (4)
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 4: Unterrichtungen (siehe Anlage) (5)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Verzicht der Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019, Beschluss der Vollversammlung des Stadtrates vom 01.10.2014, Sitzungsvorlage Nr. 14-20/V 00959
+- TOP 0.3.: Bauvorhaben Widenmayerstr. 14, Abdruck der Baugenehmigung, Stellungnahme des Referats für Stadtplanung und Bauordnung vom 29.09.2014
+- TOP 0.4.: Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums in der Thierschstr. 46, Beschlussvorlage des Bildungsausschusses des Stadtrates vom 08.10.2014, Sitzungsvorlage Nr. 14-20/V 01392
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Zustimmung der Veranstaltungen durch Fristablauf: - ?Spiel mich? am 27.09.2014 an diversen Örtlichkeiten - ?Spiel mich? am 21.09.2014 am Eisbach - ?Spiel mich? am 23.09.2014 auf der Praterinsel - 1.Nachtrag, Cycling Days Radrennveranstaltung am 26.04.2015
+- TOP 0.6.: Gaststätte ?Loreley?, Marienstr. 18, Schreiben des Kreisverwaltungsreferates vom 17.09.2014
+- TOP 0.7.: Salvatorplatz 1, Gaststätte ?Literaturhaus?, Baugenehmigung für die Erweiterung der Freischankfläche
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Einrichtung eines personenbez. Behindertenparkplatzes Marienstr. 18 - Öffnung der in Richtung Süden einbahngeregelten Seitstraße zwischen Karl-Scharnagl-Ring und der Zufahrt zur Tiefgarage des BRK für den gegenläufigen Radverkehr
+- TOP 0.2.: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet; Beschluss des Bezirksausschusses 20 ? Hadern vom 16.09.2014
+- TOP 0.3.: Ergänzung des Radweges am Oskar-von-Miller-Ring, Beschluss des Bezirksausschusses 3 ? Maxvorstadt vom 08.07.2014, Sitzungsvorlage Nr. 14-10/V 00533
+- TOP 0.4.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014, Sitzungsvorlage Nr. 14-20/V 01173
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Kindertagesstätte ?Haus für Kinder? im Stadtbezirk 1 Altstadt-Lehel - Kinderbetreuungs-finanzierung, Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 15.07.2014, Sitzungsvorlage Nr. 14-20/V 00705
+- TOP 0.3.: Sachbericht über das Projekt 2. Historisches Spielfest am Isartor, Kultur & Spielraum e. V. München
