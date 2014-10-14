@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2014-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3104024
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3104024
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Mein Westend - Fortführung und Finanzierung
+- TOP 4.2.: Urbanes Natur-Netz München
+- TOP 5: Bericht aus dem Vorstand
+- TOP 5.1.: Bericht Rechtsextremismusbeauftragte
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Bauvorhaben Kazmairstr. 24
+- TOP 6.2.: Bauvorhaben Schießstättstr. 4, VGB
+- TOP 6.3.: Bauvorhaben Schießstättstr. 4, RGB
+- TOP 6.1.: Meldelisten Bauvorhaben
+- TOP 6.2.: Kindertagesstätte Kazmairstr. 66; Baukostenzuschuss
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: REGSAM - ein starkes soziales Netzwerk für München REGSAM - Ressourcen anpassen und verstetigen
+- TOP 7.1.: Flüchtlinge und Wohnungslose in die Stadtgesellschaft integrieren
+- TOP 7.2.: München heißt Flüchtlinge willkommen!
+- TOP 7.3.: Sanierung des Sportplatzes des Multikulturellen Jugendzentrums, Westendstr. 66a
+- TOP 8: Umwelt und Verkehr
+- TOP 1: (E) Müllproblem Westend - Zustand auf dem Gollierplatz / Ecke Bergmannstraße Empfehlung Nr. 14-20 / E 00061 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 24.06.2014 - <div>Abweichung von Referentenvorl. Beschluss kann vollzogen werden.</div>
+- TOP 1.1.: Baumfällung Landsberger Str. 70
+- TOP 1.1.: Lärmbelästigung durch die Gaststätten in der Guldeinstr. 46 und 48
+- TOP 1.2.: Verkehrssituation im Bereich der Trappentreustr. und Tulbeckstr.
+- TOP 1.3.: Eindämmung des Fuchsbandwurmes
+- TOP 1.4.: Private Grünanlage der MGH an der Ecke Trappentreu-/Westendstraße
+- TOP 1.5.: Rückbau des Verkehrszeichens "Rechts abbiegen" an der Ecke Holzapfelstraße/Landsberger Straße
+- TOP 1.6.: "Palmenförmiger" Zuschnitt der Bäume in der Gollierstr.
+- TOP 1.7.: Ersatzpflanzungen hinsichtlich des Bauvorhabens Gollierstr. 29 RGB
+- TOP 1.8.: Versammlungen unter freiem Himmel
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Sitzungstermine des Bezirksausschusses 8 2015
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
