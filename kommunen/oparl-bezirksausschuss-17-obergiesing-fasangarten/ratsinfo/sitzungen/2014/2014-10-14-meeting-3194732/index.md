@@ -1,0 +1,156 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: Protokoll der BA-Sitzung vom 09.09.2014
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Verkehrssituation (ruhender Verkehr) in der Arzberger Str. 4, Bürgeranliegen von Herrn W. vom 26.08.2014
+- TOP 2.1.2.2.: Antrag auf Errichtung eines Lärmschutzes in der Warthofstraße, Bürgeranliegen von Herrn R. vom 07.10.2014
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges (1)
+- TOP 2.5.1.: 1. Vorstellung der Initiative S7Ostplus 2. Vorstellung des Projektes Giesinger Grünspitz-Garten
+- TOP 3: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Inklusion
+- TOP 3.3: Genderfragen
+- TOP 3.4: Kinder und Jugend
+- TOP 3.5: Seniorinnen und Senioren
+- TOP 3.6: Mieterbeirat
+- TOP 3.7: gegen Rechtsextremismus
+- TOP 3.8: Baumschutz
+- TOP 3.8.1: Einzelfälle
+- TOP 3.8.1.1.: 1. Plecherstr. 2, 3 FächerAhorn, 1 Weide, Antrag vom 31.07.2014, 2. Pennstraße 22, 2 Ahorn, Antrag vom 28.06.2014 3. Pennstraße 62, mehrere Bäume, Antrag vom 22.09.2014 4. Eslarner Str. 13, 1 Fichte, Antrag vom 29.09.2014
+- TOP 3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Anfrage der Fraktion FW zum Gelände der ehemaligen McGraw-Kaserne
+- TOP 4.2.: Terminüberschneidungen von öffentlichen BA-Sitzungen (Vollversammlung und Unterausschüsse) und öffentlichen Informationsveranstaltungen der Stadt München den BA 17 betreffend vermeiden, Antrag der CSU-Fraktion vom 13.10.2014
+- TOP 5: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Jonglieren in München e.V. Jonglierconvention vom 24. bis 27.10.2014
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen (1)
+- TOP 6.1.1: Bericht (1)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Unbebautes städtisches Grundstück an der Schwanseestraße endlich nutzen (vertagt aus der Sitzung vom 09.09.2014) - <div>nach Antrag</div>
+- TOP 0.2.: Anhörungen zu Bauvorhaben: 1. Marquartsteiner Str. 10, Neubau eines Dreispänners mit Doppelparker und Stellplatz, Anhörung vom 29.08.2014 (vertagt aus der Sitzung vom 09.09.2014) 2. Chiemgaustraße 12, Energetische Sanierung, Errichtung einer Gaube und einer Dachterrasse, Anbau eines verglasten Treppenhauses und von Balkonen sowie Umbau zu zwei Wohneinheiten - TEKTUR: jetzt Umbau zu 3 Wohneinheiten, Anhörung vom 01.09.2014 (vertagt aus der Sitzung vom 09.09.2014)
+- TOP 6.1.3.1.: Anhörungen zu Bauvorhaben, 1. Tegernseer Landstraße 108, Neubau zweier Wohngebäude (Nachverdichtung), Aufstockung Bestandsgebäude Wirtstr. 2+4 sowie TG-Erweiterung - VORBESCHEID, Anhörung PlanR vom 22.09.2014 2. Cincinnatistr. 63a, Teilabbruch, Anhörung PlanR vom 07.10.2014 3. Bantingstr. 15, Anbau an ein Einfamilienhaus, Anhörung PlanR vom 02.10.2014 4. Lincolnstr. 31, Neubau eines Dreifamilienhauses mit Carport, Anhörung PlanR vom 09.10.2014
+- TOP 6.1.3.2.: Anträge und Empfehlungen zur künftigen Nutzung der McGraw-Kaserne und weiterer Flächen in deren Umfeld, Anhörung zum Beschlussentwurf des PlanR vom 08.10.2014
+- TOP 6.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 6.1.4.2.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014 - 30.06.2014, Sitzungsvorlage Nr. 14-20 / V 01317, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014
+- TOP 6.1.4.3.: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten, Antrag Nr. 08-14 / A 05020 von DIE LINKE vom 17.01.2014, Sitzungsvorlage Nr. 14-20 / V 00959, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014
+- TOP 6.1.4.4.: Infokampagne zum sozialverträglichen Immobilienverkauf (Ziffer 1) Empfehlung Nr. 08-14 / E 00794 der Bürgerversammlung des Stadtbezirks 01 - Altstadt-Lehel am 30.11.2010, Sitzungsvorlage Nr. 14-20 / V 01097, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße", Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse, hier: St.-Bonifatius-Straße 2a, Zuleitung SozR vom 15.09.2014
+- TOP 6.1.5: Anträge (1)
+- TOP 6.1.6: Sonstiges (2)
+- TOP 6.2: UA Familie/Soziales/Ausbildung (1)
+- TOP 6.2.1: Bericht (2)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Antrag auf Bezuschussung zur Anschaffung von Schulmaterial, Bürgeranliegen der Mittelschule München vom 04.07.2014 (vertagt aus der Sitzung vom 08.07.2014 und vom 09.09.2014)
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 6.2.3.1.: REGSAM - ein starkes soziales Netzwerk für München, REGSAM - Ressourcen anpassen und verstetigen, Anhörung zur Beschlussvorlage des Sozialreferats
+- TOP 6.2.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Waldweihnachtsfeier der Städt. Kita Severinstraße am 18.12.2014; Zuleitung des KVR vom 30.09.14 mit der Bitte um Stellungnahme
+- TOP 6.2.3.3.: Errichtung einer Krippe mit 4 Krippengruppen an der Weißenseestraße (Agfa-Gelände), Genehmigung des Nutzerbedarfprogramms, Anhörung RBS vom 01.10.2014
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 6.2.4.1.: Kindertagesstätten sonstiger Träger; Haus für Kinder St.-Martin-Str. 68 im 17. Stadtbezirk Obergiesing-Fasangarten, Leistung eines Baukostenzuschusses, Sitzungsvorlage Nr. 14-20 / V 01106, Beschluss des Bildungsausschusses vom 17.09.2014
+- TOP 6.2.4.2.: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen, Verwaltungsinterne Ausführungsgenehmigung, Zuleitung des BauR vom 26.06.2014
+- TOP 6.2.4.3.: Antrag auf Schallschutzfenster und zeitnahe Weiterführung der akustischen Sanierung - Schulgebäude Ichostraße, Antwort des RBS vom 26.08.2014
+- TOP 6.2.4.4.: Öffnung der Europäischen Schule auch für Kinder der Siedlung Am Perlacher Forst, Empfehlung Nr. 14-20 / E 00034 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten am 05.06.2014, Sitzungsvorlage Nr. 14-20 / V 01048, Beschluss des Bildungsausschusses des Stadtrates am 08.10.2014
+- TOP 6.2.5: Anträge (2)
+- TOP 6.2.6: Sonstiges (3)
+- TOP 6.3: UA Verkehr (1)
+- TOP 6.3.1: Bericht (3)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Oberaudorfer Straße, Haltverbot; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 27.08.2014 (vertagt aus der Sitzung vom 09.09.2014)
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 1: (E) Buslinie 145; Verlegung der Wendeschleife Kiesmüller/Waldsassener Straße (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 01894 der Bürgerversammlung des Stadtbezirkes 17 ? Obergiesing-Fasangarten am 04.07.2013 - <div>nach Antrag</div>
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 6.3.3.1.: Aufhebung der Radwegbenutzungspflicht in der Eintrachtstraße, Fasangartenstraße, St.-Bonifatius-Str., St.-Martins-Platz, St.-Martins-Str. und Werinherstr. , Anhörung KVR vom 09.09.2014
+- TOP 6.3.3.2.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferats der BA-Satzung, Anhörung des Direktoriums vom 07.10.2014
+- TOP 6.3.3.3.: Dreharbeiten, Halteverbote für Filmaufnahmen in der Rotwandstraße, Anhörung vom 09.10.2014
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 6.3.4.1.: München öffnet sein Herz endlich auch für Motorradfahrer! Antrag Nr. 08-14 / A 03187 der FW vom 19.03.2012, Sitzungsvorlage Nr. 08-14 / 14-20 / V 01275, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014
+- TOP 6.3.4.2.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren, Antrag Nr. 08-14 / A 04973 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.01.2014, Sitzungsvorlage Nr. 14-20 / V 01173, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014
+- TOP 6.3.4.3.: Auskunft über die Planungen zu einem Verkehrskonzept im Bereich Mittlerer Ring, Tegernseer Landstraße / Chiemgaustraße zur Vermeidung von Staus durch die Auswirkungen des Tunnels am Luise-Kieselbach-Platz, Empfehlung Nr. 08-14 / E 02089 der Bürgerversammlung des Stadtbezirks 18 - Untergiesing-Harlaching am 14.11.2013, Sitzungsvorlage Nr. 14-20 / 001171, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014
+- TOP 6.3.4.4.: Linienwegsänderung bei der Buslinie 144 im Bereich Langbürgener Straße: Verlegung von Haltestellen, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 11.09.2014
+- TOP 6.3.4.5.: Vollzug des Personenbeförderungsgesetzes; Antrag auf Planfeststellung für die Gleiserneuerung mit Lageanpassung sowie den Einbau neuer Abbiegegleise an der Gleiskreuzung Tegernseer Landstraße / St.-Bonifatius-Straße und für den barrierefreien Ausbau der Haltestelle Ostfriedhof, Zuleitung des PlanR vom 28.08.2014
+- TOP 6.3.4.6.: Aufhebung der Radwegbenutzungspflicht in der Deisenhofener Straße, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 23.06.2014
+- TOP 6.3.4.7.: Erneuerung der Parkplatzmarkierungen in der Wieskirchstraße, Antwort des BauR vom 24.09.2014
+- TOP 6.3.4.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Chiemgaustr. 81, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 24.07.2014
+- TOP 6.3.4.9.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich St.-Bonifatius-Str. 2a, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 29.09.2014
+- TOP 6.3.5: Anträge (3)
+- TOP 6.3.6: Sonstiges (4)
+- TOP 6.4: UA Umwelt und Gesundheit (1)
+- TOP 6.4.1: Bericht (4)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 6.4.2.2.: Einhaltung der Spielplatzkontrolle, Zulauf von Hunden und Katzen auf Spielplätze unterbinden - <div>nach Antrag</div>
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 6.4.4.1.: Vollzug des Bundesjadgesetztes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG), hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet, Zuleitung des BA 20 Hadern vom 16.09.2014
+- TOP 6.4.4.3.: Kein Weiterbau und Beseitigung der Kompostieranlage Fasangartenstraße, Empfehlung Nr. 14-20 / E 00131 der Bürgerversammlung des Stadtbezirks 16 - Ramersdorf-Perlach am 03.07.2014, Sitzungsvorlage Nr. 14-20 / V 01221, Beschluss des Umweltausschusses vom 07.10.2014
+- TOP 6.4.4.4.: Keine Genehmigung für die Änderung der Abfallentsorgungsanlage in der Herbert-Quandt-Straße 9, Empfehlung Nr. 14-20 / E 00026 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten am 05.06.2014, Sitzungsvorlage Nr. 14-20 / V 01314, Beschluss des Umweltausschusses vom 07.10.2014
+- TOP 6.4.5: Anträge (4)
+- TOP 6.4.6: Sonstiges (5)
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport (1)
+- TOP 6.5.1: Bericht (5)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Junge Street-Art an den Mauern der JVA Stadelheim, Empfehlung Nr. 14-20 / E 00028 der Bürgerversammlung des Stadtbezirkes 17 ? Obergiesing-Fasangarten am 05.06.2014 Anhörung vom 02.09.2014 zur Beschlussvorlage des KultR (vertagt aus der Sitzung vom 09.09.2014)
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 1: (E) Tier-Statuen in der ehemaligen Ami-Siedlung am Perlacher Forst Empfehlung Nr. 14-20 / E 00027 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014 - <div>nach Antrag</div>
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen (4)
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 6.5.5: Anträge (5)
+- TOP 6.5.6: Sonstiges (6)
+- TOP 6.6: UA lokale Wirtschaft und Arbeit (1)
+- TOP 6.6.1: Bericht (6)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund, Anhörung des Direktorium vom 02.09.2014 (vertagt aus der Sitzung vom 09.09.2014)
+- TOP 0.2.: Antrag auf Beseitigung des Schrottplatzes Schwanseestraße / Lincolnstraße, Bebauung mit einwohnerfreundlichen Einrichtungen, Bürgeranliegen von Frau R. vom 01.07.2014 (vertagt aus der Sitzung vom 08.07.2014 und vom 09.09.2014)
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (5)
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen (5)
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben (5)
+- TOP 6.6.5: Anträge (6)
+- TOP 6.6.6: Sonstiges (7)
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Münchner Bündnis für Toleranz, Demokratie und Rechtsstaat, Zuleitung des Oberbürgermeisters vom 23.09.2014
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen (2)
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt und Gesundheit (2)
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport (2)
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit (2)
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 6.4.2.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Einhaltung der Spielplatzkontrolle, Zulauf von Hunden und Katzen auf Spielplätze unterbinden, Empfehlung Nr. 14-20 / E 00033 der Bürgerversammlung des Stadtbezirks 17 - Obergiesing-Fasangarten am 05.06.2014, Sitzungsvorlage Nr. 14-20 / V 01330
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
