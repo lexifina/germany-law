@@ -1,0 +1,78 @@
+# 26. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2014-10-15T17:30:00+02:00
+- Ende: 2014-10-15T20:40:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4718
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4718
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=63583
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Finanzierung der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.9: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2013 - überwiesen
+- TOP 1.10: MitarbeiterInnen mit Fremdsprachen-Kenntnissen am Informationsschalter - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Rücknahme der Kündigung des Kieztreffs Gleimviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Endlich ein Bibliotheksgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Berichtspunkt im EU-Bericht: Europaregion POMERANIA - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Mieter_innen vor übermäßiger Umlage bei energetischer Modernisierung schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Generationen-Spielplatz für die Kolonie Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Grünflächenpflege an der Karower Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Einrichtung eines Mehrgenerationenspielplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Restaurierung und Renovierung der Schwimmhalle Thomas-Mann-Straße/Prenzlauer Berg- und Seniorinnen/Seniorenschwimmen - in der BVV abgelehnt
+- TOP 1.19: Sommer-Öffnungszeiten des Schlossparks Niederschönhausen verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Stadtleben statt Betongold - in der BVV abgelehnt
+- TOP 1.21: Babyklappe für den Versorgungsraum Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Gefällte Bäume nachhaltig nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Zusätzliche Schnelllernerklassen im Rosa Luxemburg Gymnasium für das Schuljahr 2014/15 einrichten - in der BVV abgelehnt
+- TOP 1.24: Nachweis der im Haushaltsjahr 2013 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Behutsame Nachverdichtung in Wohngebieten mit Neubauten aus den 50iger und 60iger Jahren ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Freistellung von Grundstücken von Bahnbetriebszwecken im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Vor Ort im Gespräch - Bürgernähe und Demokratie - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Duldung des Vereins „THEMA e.V.“ bis zum 28. Februar 2015 in den Räumen von „H.o.F. 23“ - überwiesen
+- TOP 1.29: Bolzen im Mühlenkiez - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Ferienwohnungen - beantwortet
+- TOP 1.31: Personalabbau stoppen, Personalentwicklung starten - überwiesen
+- TOP 1.32: Unterkünfte für Asylbewerber in Pankow - beantwortet
+- TOP 1.33: Schulwegsicherung Elisabeth-Shaw-Grundschule - überwiesen
+- TOP 1.34: Bezirkliche Spielplatzplanung fortschreiben - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Umbaupläne des Senates für den Jahn-Sportpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Machbarkeitsstudie zu Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Einstellungen im Schul- und Sportamt beschleunigen - überwiesen
+- TOP 1.38: Urlaubszeiten der Schulhausmeister sinnvoller planen - überwiesen
+- TOP 1.39: Reinigung von öffentlichen Grünflächen durch die BSR - überwiesen
+- TOP 1.40: Mehr Fahrradstraßen für Pankow - überwiesen
+- TOP 1.41: Mobilitätsstudie des Bezirksamtes - überwiesen
+- TOP 1.42: Mittelalter- und Wikingerspektakel in Schönholz ermöglichen - überwiesen
+- TOP 1.43: Müllsammelbehälter am Danewendplatz II - überwiesen
+- TOP 1.44: Volkshochschul- und Musikschulangebote ausweiten - überwiesen
+- TOP 1.45: Erhöhung der Verkehrssicherheit in der Karower Bahnhofstraße - überwiesen
+- TOP 1.46: Erster Betriebskindergarten im Bezirk Pankow - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Freies WLAN für Pankow und Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Zentrale Erstberatung bei Diskriminierung in den Räumen des Bürgeramts Fröbelstraße 17 einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Ehrenamtliche Hilfe für Schutzsuchende fördern und koordinieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Entwicklung des ehemaligen Parkplatzes an der Achillesstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Offensive für eine diskriminierungsfreie Gesellschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Namensschilder für Mitarbeiterinnen und Mitarbeiter des Bezirksamtes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Verkehrssicherheit an der Tram- und Bus-Haltestelle S+U-Bhf Pankow herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Verbesserung der Befahrbarkeit der Gounodstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Regelmäßiges Forum gegen Rechtsradikalismus in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Benennungsabsicht für die öffentliche Grünanlage am Kreuzpfuhl im Ortsteil Weißensee in "Jürgen-Kuczynski-Park“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplan XVIII-1 für das Gelände zwischen Frundsbergstraße, Alt-Karow, Bahnhofstraße, östlicher Grenze der Grundstücke Bahnhofstraße 36 und Lanker Straße 5-11a im Bezirk Weißensee, Ortsteil Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bebauungsplan 3-29 für das Grundstück Kuglerstraße, Lewaldstraße 2, Scherenbergstraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Benennungsabsicht für 9 Privatwege in der Anlage Idehorst im Ortsteil Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
