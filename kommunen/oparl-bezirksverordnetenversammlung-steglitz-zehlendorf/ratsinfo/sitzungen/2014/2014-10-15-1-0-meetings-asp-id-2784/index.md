@@ -1,0 +1,84 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-10-15T17:00:00+02:00
+- Ende: 2014-10-15T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2784
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2784
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Erweiterung der Knesebeckbrücke - schriftlich beantwortet
+- TOP 3.2: Kita- und Spielplatzsanierungsprogramm 2015 - beantwortet
+- TOP 3.3: Mängel in Einrichtungen für Menschen ohne Wohnsitz im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Überprüfung der Unterkünfte für wohnungslose Menschen - beantwortet
+- TOP 3.5: Schaukästen am Rathaus Zehlendorf - beantwortet
+- TOP 3.6: Efeu am Rathaus - beantwortet
+- TOP 3.7: Immer weniger Straßenbäume? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl einer Bürgerdeputierten im Ausschuss für Verkehr und Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Berufung eines beratenden Mitglieds als eine in der Mädchenarbeit erfahrene Frau in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Erlass der Veränderungssperre X- B2c / 43 [Lückhoffstraße 17] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan 6-32 für die Grundstücke Mühlenstraße 52/56, 56 A-D und Paul-Schneider-Straße 44 im Bezirk Steglitz-Zehlendorf, Ortsteil Lankwitz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Barrierefreier Zugang für Evangelische Schülerarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Fußgängerampel Selmaplatz aufrüsten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Sanierung Landgut Eule - überwiesen
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Drängelgitter im Verlauf von Radstrecken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Weniger Wahlplakate in Steglitz-Zehlendorf - überwiesen
+- TOP 4.6.3: Geschütztes Marktsegment - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Schafe statt Wasservögel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Veloturm statt Kuddel Muddel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Papierlose Quittierung von Entleihen in den Bezirksbibliotheken ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Sichere Überquerung des Hindenburgdamms ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Energie sparen LZA Bismarckstraße/Selerweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Notfalldienste für die niedergelassenen Fachärzte einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.10: Behindertengerechte Ampelanlage vor der Augenklinik fertig stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.11: Fahrradampel (Lichtzeichenanlage) an der Kreuzung Teltower Damm / Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.12: Grünphase Fußgängerampel Hindenburgdamm Ecke Manteuffelstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.13: Lichtzeichenanlage Kreuzung Argentinische Allee / Waltraudstraße / Am Waldfriedhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.14: Geänderte Parkregelung im Hochsitzweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.15: Stau in Südende vermeiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Geschütztes Marktsegment ausweiten - überwiesen
+- TOP 5.2.2: Historische Pumpe auf dem Jürgen-Fuchs-Platz in Dahlem - überwiesen
+- TOP 5.2.3: Verkehrssicherheit vor der 33. Grundschule I - überwiesen
+- TOP 5.2.4: Absperrgitter Parkplätze Steglitzer Damm 31-39 - überwiesen
+- TOP 5.2.5: Verkehrssicherheit vor der 33. Grundschule II - überwiesen
+- TOP 5.2.6: Grünpflegepatenschaften mit bezirklichen Schulen - überwiesen
+- TOP 5.2.7: Soziale Nutzung Steglitzer Kreisel - überwiesen
+- TOP 5.2.8: Weiteren baulichen Verfall des Fichteberg-Gymnasiums stoppen! - überwiesen
+- TOP 5.2.9: Verkehrssicherheit vor der 33. Grundschule III - überwiesen
+- TOP 5.2.10: "Wir sind das Volk" - Kranz zum 18. März stellen - überwiesen
+- TOP 5.2.11: Turnhallen vor Olympia - überwiesen
+- TOP 5.2.12: Bahnhofsvorplatz Berlin Lichterfelde-Ost - überwiesen
+- TOP 5.2.13: Sicherer Schulweg für die 33. Grundschule im "Neuen Schweizer Viertel" - überwiesen
+- TOP 5.2.14: Parkplätze am Steglitzer Damm 13-21, 23-29 und 31-39 der Parkraumbewirtschaftung oder einer Parkscheibenregelung zuführen - überwiesen
+- TOP 5.2.15: Unterkünfte für Flüchtlinge suchen - überwiesen
+- TOP 5.2.16: Parkplätze am Steglitzer Damm 23-29 und 31-39 als Einbahnstraßen wieder kenntlich machen - überwiesen
+- TOP 5.2.17: Integrationsetat - überwiesen
+- TOP 5.2.18: Parkbank/Müllbehälter Gärtnerstraße/ Ecke Hartmannstraße - überwiesen
+- TOP 5.2.19: Zugesagte Mittel für das "BUZ" - einhalten! - überwiesen
+- TOP 5.2.20: Umsetzung der EU-Wasserrahmenrichtlinie für Gewässer 2. Ordnung - überwiesen
+- TOP 5.2.21: Flutlichtanlage für den Sochos-Sportplatz - überwiesen
+- TOP 5.2.22: Kurzzeitparkplätze Onkel-Tom-Straßen-Brücke - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Jahresbericht Rechtsamt vorlegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Wohnraum für Menschen mit besonderen Bedürfnissen in Lichterfelde-Süd schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Schlusswort des Vorstehers - erledigt
