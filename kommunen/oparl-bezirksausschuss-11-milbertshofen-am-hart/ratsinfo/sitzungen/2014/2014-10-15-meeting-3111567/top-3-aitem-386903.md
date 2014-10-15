@@ -1,0 +1,8 @@
+# TOP 3: (E) Realisierung der Fußgänger- und Radfahrerquerung über die Ingolstädter Straße am Euro-Industriepark West
+
+- Sitzung: BA 11 - Vollgremium (2014-10-15)
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/386903
+- Ergebnis: <div></div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/386903
