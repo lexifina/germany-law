@@ -1,0 +1,71 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-10-15T17:00:00+02:00
+- Ende: 2014-10-15T22:15:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2325
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2325
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - (offen)
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2014/2015 und 2015/2016 sowie im Jahr 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Genehmigung der im Haushaltsjahr 2013 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Kindesvernachlässigungen in Flüchtlingsunterkünften - beantwortet
+- TOP 9.2: Baukosten Leonardo-da-Vinci-Oberschule - beantwortet
+- TOP 9.3: Was geschieht auf dem Grundstück der ehemaligen Ananias-Kirche? - beantwortet
+- TOP 9.4: Zweite Unterkunft für Flüchtlinge in Neukölln - beantwortet
+- TOP 9.5: Fahrradweg Kölner Damm - beantwortet
+- TOP 9.6: Nicht abstinenzfähige Wohnungslose - beantwortet
+- TOP 9.7: Umbau der Karl-Marx-Straße - schriftlich beantwortet
+- TOP 9.8: Neubau Clay-Schule schuldhaft verschoben? - beantwortet
+- TOP 9.9: Schachtische in der Hasenheide - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Berufsvorbereitungs- und Ausbildungsangebote für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Archäologische Grabungen auf dem Gelände der zukünftigen Clay-Oberschule - beantwortet
+- TOP 12.2: Temporärer Sonderausschus - in der BVV abgelehnt
+- TOP 12.3: Neuköllner Schulneubauten außer Kontorolle? - beantwortet
+- TOP 12.4: TSV Rudow - beantwortet
+- TOP 12.5: Flüchtlingsunterkunft ohne ausreichende Sozialarbeit? - beantwortet
+- TOP 12.6: SOKO - Zuwanderung - beantwortet
+- TOP 12.7: Was tut der Bezirk Neukölln zur Umsetzung des Stadtentwicklungsplans (StEP) Klima? - vertagt
+- TOP 12.8: Vermeidung überlanger Wartezeiten in der Rettungsstelle des Vivantes Krankenhauses Berlin-Neukölln - vertagt
+- TOP 12.9: Projekt "Stadtteilmütter" in vollem Umfang erhalten - vertagt
+- TOP 12.10: Buckower Felder - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Jugendeinrichtung Alt Buckow - überwiesen
+- TOP 14.2: Besserer Empfang im Britzer Tunnel - überwiesen
+- TOP 14.3: Einbürgerungsfeiern - vertagt
+- TOP 14.4: Sportplatz der Fritz-Carsen-Schule schnellstmöglich wieder nutzbar machen - überwiesen
+- TOP 14.5: BSR - überwiesen
+- TOP 14.6: Wasserballspielbetrieb gewährleisten - überwiesen
+- TOP 14.7: Lichtzeichenanlage für Fußgänger*innen in der Lahnstraße - überwiesen
+- TOP 14.8: Neukölln zum Essbaren Bezirk machen! - überwiesen
+- TOP 14.9: Finanzmittel für Bürgerpartizipation - überwiesen
+- TOP 14.10: Verleihung der Neuköllner Ehrennadel - vertagt
+- TOP 14.11: Frühzeitige Öffentlichkeitsbeteiligung für die Frauenklinik wiederholen - überwiesen
+- TOP 14.12: Projekt „Stadtteilmütter“ - überwiesen
+- TOP 14.13: Projekt "Stadtteilmütter" in vollem Umfang erhalten - überwiesen
+- TOP 14.14: „Kooperation Schule und Jugendhilfe“ in Neukölln - überwiesen
+- TOP 14.15: Heimaufsicht für Flüchtlingsunterkunft - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Aufstellung einer mobilen Geschwindigkeitsmessanlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Nachhaltige Energie- und Klimapolitik in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Öffentlich nutzbare WC´s im Einzelhandel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Neuköllner Kleingartenanlagen wieder in den Schutzfristenkatalog bis 2020 aufnehmen - mit Abschlussbericht zur Kenntnis genommen
