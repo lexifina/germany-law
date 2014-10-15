@@ -1,0 +1,59 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-10-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3418092
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3418092
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 1: (E) Parken für Anwohner auf dem Mariahilfplatz; Freigabe des Parkplatzes nach Ablauf des bestehenden Pachtvertrags Empfehlung Nr. 08-14 / E 02175 der Bürgerversammlung des Stadtbezirkes 05 ? Au-Haidhausen ? Bezirksteil Au am 23.01.2014 - <div>nach Antrag mit Ergänzungen</div>
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Bebauungsplan mit Grünordnung Nr. 1995, Welfenstraße, Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München-Rosenheim; Umbau der Straßen im Bebauungsplanumgriff
+- TOP 8.1.2.: Planungsstand in der Welfenstraße
+- TOP 8.1.3.: Radverbindung Haidhausen - Bogenhausen
+- TOP 8.1.4.: Bessere Sicherheit für Schülerinnen und Schüler
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
