@@ -1,0 +1,102 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2014-10-15T17:00:00+02:00
+- Ende: 2014-10-15T22:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3724
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3724
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=66528
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2: Einwohneranfragen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3: Vorlagen der Vorsteherin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 3.1: Neufassung der Geschäftsordnung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - vertagt
+- TOP 3.2: Jahresplanung 2015 - Sitzungstermine und Ferienzeit der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - vertagt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Verfassungsschutz nicht Einladen- Tempelhof-Schöneberg setzt auf vertrauliches Miteinander an unseren Schulen - überwiesen
+- TOP 6.2: Zentrale Landesbibliothek für Tempelhof-Schöneberg sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Der Rechnungshof und die BVV - überwiesen
+- TOP 6.5: "Hier muss geholfen werden" - Obdachlosigkeit am Viktoria-Luise-Platz - erledigt
+- TOP 6.6: 9. November - einen Freudentag für Deutschland würdig feiern - zurückgezogen
+- TOP 6.7: Aufhebung des Baustopps am Breslauer Platz - in der BVV abgelehnt
+- TOP 6.8: Rechtliche Voraussetzungen zur Einrichtung einer Fußgängerzone auf dem Breslauer Platz schaffen - überwiesen
+- TOP 6.9: Stelle eines/einer Beauftragten für Senioren einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.10: Keine Neu- und Umplanungen für das Grundstück Tempelhofer Weg 63: Hundeauslaufgebiet Schöneberg sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.11: Tempelhof-Schöneberg unterstützt die „Steuer gegen Armut“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Wann werden die Öffnungszeiten sowie -modalitäten der Bürgerämter an die Bedürfnisse der Bevölkerung angepasst? - vertagt
+- TOP 8.2: Bürgerfreundliche Verwaltung I – hier: Bürgeramtsbesuch ohne Terminvereinbarung wieder ermöglichen - vertagt
+- TOP 8.3: Bürgerfreundliche Verwaltung II – hier: Ausweitung der Öffnungszeiten in den Abendstunden sowie Einführung einer Samstagssprechstunde - vertagt
+- TOP 8.4: Wie geht es mit den Häusern der Bundesanstalt für Immobilienaufgaben (BImA) weiter? - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Zahlung nach TV-L Berlin in der Jugendarbeit: Tarifliche Lohnerhöhungen auch bei Freien Trägern berücksichtigen - überwiesen
+- TOP 9.2: Mehr Wohnraum am Rande des Straßenbahndepots in der Belziger Straße - überwiesen
+- TOP 9.3: Brückenmarkt am Tempelhofer Damm - vertagt
+- TOP 9.4: Kleidercontainer abräumen - überwiesen
+- TOP 9.5: Vom Autofahrerbahnhof zum Eco-Mobility-Knoten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Informationstafeln zum Gedenken an Julius und Annedore Leber Winterfestmachung der Baracke - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Gedenken am Ort der Leberschen Kohlenhandlung facilitieren - in der BVV abgelehnt
+- TOP 9.8: Tatsächliche Schülerzahl an den Schulen finanzieren - überwiesen
+- TOP 9.9: Anonymisierte Bewerbungen - überwiesen
+- TOP 9.10: Regelmäßige Berichterstattung zu erstellten Vorbescheiden bzw. Baugenehmigungen sowie zu Abgeschlossenheitsbescheinigungen - überwiesen
+- TOP 9.11: Sicherheitsforen reaktivieren - überwiesen
+- TOP 9.12: Wohnbaupotential an der Reißeckstraße - überwiesen
+- TOP 9.13: Für Bezirkszentralbibliothek mehr werben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: Eckgrundstück Hauptstraße 162 / Ecke Willmanndamm rückabwickeln - überwiesen
+- TOP 9.15: Lärmschutzverordnung für die Grünanlagenpflege verschärfen - vertagt
+- TOP 9.16: Planungen zum Fuß- und Radweg im Wannseebahngraben teilweise überarbeiten – „Crelle-Urwald“ erhalten! - überwiesen
+- TOP 9.17: Sicherheit am Zugang des U-Bahnhofs Platz der Luftbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Altkleidercontainer endlich beseitigen - überwiesen
+- TOP 9.19: Berlin Ticket S für 24,- Euro - überwiesen
+- TOP 9.20: Milieuschutz mit Augenmaß - überwiesen
+- TOP 9.21: Weiterführung des Fahrradwegs aus dem Cheruskerpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.22: Senat muss endlich seinen Obdachlosen-Rahmenplan von 1998 aktualisieren - überwiesen
+- TOP 9.23: Straßenbäume im Bezirk - überwiesen
+- TOP 9.24: Zeiten für die Einrichtung des Marktes auf dem Wittenbergplatz optimieren - überwiesen
+- TOP 9.25: Zufahrt zum KaDeWe optimieren - vertagt
+- TOP 9.26: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.27: Moratorium für den Verkauf der BIMA Häuser in der Katzler / Großgörschenstrasse - ohne Änderungen in der BVV beschlossen
+- TOP 9.28: Finanzierung der Schulen auf eine solide Basis stellen - überwiesen
+- TOP 9.29: Falschparken kann Leben gefährden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Änderung der Geschäftsordnung – Dringlichkeit von Beschlussempfehlungen - vertagt
+- TOP 11.2: Änderung der Geschäftsordnung - vertagt
+- TOP 11.3: Neufassung der Geschäftsordnung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin - vertagt
+- TOP 11.4: Projektantrag an die Engagement Global - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Historischer Verantwortung gerecht werden, Verlegung von Stolpersteinen in Tempelhof-Schöneberg für die Zukunft sichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.6: Fortführung des Unterausschusses Bibliotheken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Affen stark und Löwen schlau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Rubenstrasse entschleunigen - vertagt
+- TOP 11.9: Jährlicher Bericht zu den Milieuschutzgebieten - vertagt
+- TOP 11.10: Gedenktafel für das erste Heimspiel der Deutschen Fußball-Nationalmannschaft in Berlin-Mariendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Antrag für das Städtebauförderprogramm „Aktive Zentren" - vertagt
+- TOP 11.12: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Rogate-Kloster St. Michael zu Berlin e.V. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - AHA-Berlin e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Vergabe von Sondermitteln der Bezirksverordentenversammlung - Förderverein zum Gedenken an Naziverbrechen um und auf dem Tempelhofer Flugfeld e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Deutsche Lebens-Rettungs-Gesellschaft e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Verbraucherzentrale Berlin e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Auf Sonderprogramme verzichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Wirtschaftlichkeitsberechnung von Neubauvorhaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.3: Prüfung der Organisation der Presse- und Öffentlichkeitsarbeit des Bezirksamtes - überwiesen
+- TOP 13.4: Barrierefreier Internetauftritt für Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Internetinhalte des Bezirksamtes in Leichter Sprache darstellen - überwiesen
+- TOP 13.6: Krankheit und Leid lindern – Gesundheitsversorgung Obdachloser erleichtern - überwiesen
+- TOP 13.7: Chance nutzen: freien Stellenanteil für die Jugendarbeit einsetzen - überwiesen
+- TOP 13.8: Ausstellung „Diktatur und Demokratie im Zeitalter der Extreme, Streiflichter auf die Geschichte Europas im 20. Jahrhundert“ in unserem Bezirk zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Unfallgefahr auf Radweg Tauernallee / Ecke Albulaweg vermindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Wohnhaus für psychisch Kranke retten! - überwiesen
+- TOP 13.11: Alle Fördermöglichkeiten für die bezirklichen Bibliotheken prüfen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - überwiesen
