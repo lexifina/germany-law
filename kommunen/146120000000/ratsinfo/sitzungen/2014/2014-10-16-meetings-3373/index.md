@@ -1,0 +1,53 @@
+# 3. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-10-16T16:00:00+02:00
+- Ende: 2014-10-16T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3373
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3373
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_10_16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00180981.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Transparenz des Haushaltsentwurfes 2015/16 - erledigt
+- TOP 2.2: Beschluss V1814/12 Einführung einer tourismusbezogenen Abgabe in Dresden - erledigt
+- TOP 2.3: Lösung der Stadionproblematik - erledigt
+- TOP 2.4: Kurtaxsatzung - erledigt
+- TOP 2.5: Sachstand Verhandlungen Stadionverträge - erledigt
+- TOP 2.6: Hallennutzungskonzept und fehlende Sportgeräte in der Turnhalle Luboldtstraße - erledigt
+- TOP 2.7: Betriebsgesellschaft ESCD Dresden mbH - erledigt
+- TOP 2.8: Schillerhäusschen - erledigt
+- TOP 2.9: Haushaltsperre - erledigt
+- TOP 2.10: Einkaufszentrum Straßburger Platz - erledigt
+- TOP 2.11: Haushaltssperre: Einsparmöglichkeiten bei Umsetzung des "Gender Mainstreaming" - Konzeptes - erledigt
+- TOP 2.12: Werbung im öffentlichen Straßenraum - erledigt
+- TOP 2.13: Städtische Vorbereitungen auf den Winter(dienst) - erledigt
+- TOP 2.14: Übergangswohnheim für Asylbwerber und Flüchtlinge auf der Pillnitzer Landstraße 273 - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - bei Bedarf
+- TOP 3.1: Ausschuss für Wirtschaftsförderung - zweiter Stellvertreter Fraktion AfD - Zustimmung
+- TOP 3.2: Ausländerbeirat - Mitglieder auf Vorschlag des Stadtrates - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Besetzung der Ortsbeiräte der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Besetzung des Kulturbeirates - Verweisung
+- TOP 7: Wahl der Verbandsräte und deren Stellvertreter für den Regionalen Planungsverband - gewählt
+- TOP 8: Wahl der Mitglieder des Stiftungsgremiums der "Stadtwaisenhaus-Stiftung mit Eugenienstiftung" - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 9: Wahl der Mitglieder des Stiftungsgremiums der "Sozialstiftung der Stadt Dresden" - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 10: Wahl der Mitglieder des Stiftungsrates der "Stadtstiftung Dresdner Kreuzchor" - Zustimmung
+- TOP 11: Wahl der Mitglieder des Stiftungsgremiums der "Sammelstiftung der Stadt Dresden" - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 12: Besetzung der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - Vertagung
+- TOP 13: Jury zur Verleihung des Dresdner Lyrikpreises 2014 - Zustimmung
+- TOP 14: Mitgliedschaft der Landeshauptstadt Dresden im "Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V." - Zustimmung
+- TOP 15: Änderung der Jugendamtssatzung - Zustimmung mit Änderung
+- TOP 16: Verlagerung der 46. Oberschule, Leubnitzer Straße 14 in 01069 Dresden an den Standort Andreas-Schubert-Straße 41 in 01069 Dresden und Sanierung des neuen Schulstandortes - punktweise Zustimmung mit Änderung
+- TOP 17: Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2014, 2015 und 2016 des Eigenbetriebes Sportstätten Dresden. - Zustimmung
+- TOP 18: Festlegung der Termine für die Oberbürgermeisterwahl sowie einen eventuell notwendig werdenden zweiten Wahlgang - Zustimmung mit Ergänzung
+- TOP 19: Gründung einer eigenständigen, chefarztgeführten „Klinik für Neurochirurgie“ am Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 20: Überplanmäßige Mittelbereitstellung zur Finanzierung von Leistungen und Aufgaben nach dem Sozialgesetzbuch (SGB) VIII - Kinder- und Jugendhilfe im Bereich der erzieherischen Hilfen - Zustimmung
+- TOP 21: Verkehrsbaumaßnahme (VKBM) Südhöhe – Caspar-David-Friedrich-Straße zwischen Münzmeisterstraße und Schurichtstraße - Zustimmung
+- TOP 22: Bestätigung des Gebietsumgriffes und des Grobkonzeptes für das neue Fördergebiet "Nördliche Johannstadt" im Programm der Städtebauförderung Soziale Stadt - Investitionen im Quartier als Grundlage für die Programmaufnahme im Programmjahr 2014 - Zustimmung
