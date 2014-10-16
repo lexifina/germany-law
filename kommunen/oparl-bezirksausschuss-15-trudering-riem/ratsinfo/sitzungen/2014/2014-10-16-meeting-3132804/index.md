@@ -1,0 +1,109 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-10-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Wahl einer/s neuen Jugendbeauftragten
+- TOP 1.4.: Nachbesetzung in den Unterausschüssen
+- TOP 1.5.: Resolution- Münchner Bündnis für Toleranz - <div>nach Antrag</div>
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: UA Allgemeines (1)
+- TOP 2.1.3.: Entscheidung über die Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Bäckerei Traublinger GmbH, Willy- Brandt- Platz 5, 81829 München - <div>nach Antrag</div>
+- TOP 2.1.4.: (E) Budget der Bezirksausschüsse TSV Maccabi München e.V. 7. Kurt- Landauer- Freundschaftsturnier am 13.07.2014 - <div>nach Antrag</div>
+- TOP 2.2: UA Bau und Verkehr (1)
+- TOP 2.3: UA Infrastruktur und Stadtteilentwicklung (1)
+- TOP 2.4: UA Planung (1)
+- TOP 2.5: UA Schule, Soziales und Kultur (1)
+- TOP 1: (E) Prüfung der Möglichkeiten der Entlastung der Grundschule an der Astrid-Lindgren-Straße durch Umsprengelung und weitere Maßnahmen ab dem Schuljahr 2014/15 - <div>nach Antrag</div>
+- TOP 2.6: UA Umwelt (1)
+- TOP 2.7: ohne Vorberatung im UA (1)
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines (2)
+- TOP 3.2: UA Bau und Verkehr (2)
+- TOP 3.2.1.: Barrierefreie Gestaltungim öffentlichen Verkehrsraum - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 3.2.2.: Schwerverkehr in der Halfingerstraße - <div>Zustimmung und Weiterleitung an das RBS</div>
+- TOP 3.2.3.: Behindertengerechter Zugang zum S- Bahnhof Riem - <div>Zustimmug und Weiterleitung</div>
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung (2)
+- TOP 3.4: UA Planung (2)
+- TOP 3.4.1.: 2 Bürgeranliegen zum Bauvorhaben in der Schneebergstraße 24
+- TOP 3.5: UA Schule, Soziales und Kultur:
+- TOP 3.5.1.: Bürgeranliegen zur Kinderbetreuung in der Messestadt Riem - <div>Zustimmug und Weiterleitung</div>
+- TOP 3.6: UA Umwelt (2)
+- TOP 3.7: ohne Vorberatung im UA (2)
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Informationsplattform zur Untervermietung von Wohnräumen an Asylbewerber und Flüchtlingen mit gesichertem Aufenthaltsstatus - <div>Zustimmung mit kleinen Änderungen und Weiterleitung</div>
+- TOP 4.2.: Überprüfung der Ampelschaltung an der Kreuzung Am Mitterfeld/ Riemer Straße - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.3.: Verkehrschaos vermeiden- Parkregelung für die neue Kindertagesstätte in der Waldschulstraße frühzeitig festlegen - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.4.: ÖPNV Attraktivität steigern- Kurze Wege zu den Haltestellen - <div>Zustimmung mit Ergänzung und Weiterleitung an das Fachreferat</div>
+- TOP 4.5.: Endlich Frieden im Streit um die Rücklauftemperaturen der Geothermie Messestadt schaffen - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.6.: Volleyballplätze in Trudering- Riem - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.7.: Jugendspielplatz an der Stolzhofstraße - <div>tel.RS des Vorsitzenden mit Baureferat</div>
+- TOP 4.8.: Wiederöffnung des blauen Sportplatzes an der Lehrer- Wirth- Straße - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Anfrage zur Nachverdichtung in Trudering und Riem - <div>erneute Nachfrage</div>
+- TOP 5.2.: Einrichtung einer Be- und Entladezone für einen Getränkemarkt in der Mutter- Teresa- Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Weitere Fahrradabstellmöglichkeiten an den Bushaltestellen an der Markgrafenstraße - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: Potentiale zum Wohnbau an geeigneter Stelle nutzen- Das Mitterfeld weiterentwickeln - <div>vertagt in 11/2014</div>
+- TOP 5.6.: Keine Irrwege in der Bauordnung I - <div>vertagt in 11/2014</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Durchgängiger Radweg auf dem Mitterfeld (Ziffer 4 des Antrags); Empfehlung Nr. 08-14/ E 01954 der Bürgerversammmlung des Stadtbezirkes 15 Trudering- Riem am 10.10.2013 - <div>zur Kenntnis genommen</div>
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1: UA Allgemeines (3)
+- TOP 7.1.1.: Durchführung einer Open-Air- Veranstaltung mit elektronischer Musik "Isle of Summer" auf der Sonderfreifläche Riem am 16.05.2015 - <div>nach Antrag</div>
+- TOP 7.1.2.: Durchführung einer Open-Air-Party (School's Out) am 29.07.2015 auf der Sonderfreifläche Riem - <div>nach Antrag</div>
+- TOP 7.1.3.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA- Satzung; Antrag des Bezirksausschusses des Stadtbezirks 7- Sendling- Westpark - <div>nach Antrag</div>
+- TOP 7.2: UA Bau und Verkehr (3)
+- TOP 7.2.1.: Parkplatz am De-Caspari- Bogen für Besucherinnen und Besucher des Riemer Parks - <div>nach Antrag</div>
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung (3)
+- TOP 7.3.1.: Beteiligung der Anwohner zum Bauprojekt Piederstorfergelände; Empfehlung Nr. 14-20/ E 00145 der Bürgerversammlung des Stadtbezirkes 16- Ramersdorf- Perlach am 24.07.2014 - <div>nach Antrag</div>
+- TOP 7.3.2.: Feldbergstraße 1, Errichtung einer unbeleuchteten Werbetafel - <div>abgelehnt</div>
+- TOP 7.3.3.: Stolzhofstraße noch ohne Hs.Nr.; Verkauf einer städtischen Immobilie - <div>nach Antrag</div>
+- TOP 7.4: UA Planung (3)
+- TOP 7.4.1.: Hippelstraße 6 - <div>ohne Entscheidung</div>
+- TOP 7.4.2.: Mattseestraße 9 - <div>Zustimmung zum Bauvorhaben</div>
+- TOP 7.4.3.: Wachtelweg 35 - <div>abgelehnt mit Stellungnahme</div>
+- TOP 7.4.4.: Schatzbogen 29 - <div>Zustimmung zum Bauvorhaben</div>
+- TOP 7.5: UA Schule, Soziales und Kultur (2)
+- TOP 7.5.1.: REGSAM- ein starkes soziales Netzwerk für München REGSAM- Ressourcen anpassen und verstetigen Produkt 60.732 Kooperation mit freien Trägern- ENTWURF- Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 04.11.2014 (VB) - <div>Zustimmung inkl. Stellungnahme</div>
+- TOP 7.6: UA Umwelt (3)
+- TOP 7.7: ohne Vorberatung im UA (3)
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Natuschutzbehörde
+- TOP 8.1.1.: Jorthweg 4 von- Erckert- Straße 8 - <div>zur Kenntnis genommen</div>
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 8.2.1.: 8.2.1 Hochkönigstraße 28 8.2.2 Kreillerstraße 220 8.2.3 Fauststraße 44b 8.2.4 Ingeborgstraße 49 8.2.5 Wasserburger Landstraße 119a 8.2.6 Friedenspromenade 29a 8.2.7 Mädelegabelstraße 70 8.2.8 Solalindenstraße 25 8.2.9 Phantasiestraße 6 8.2.10 Solalindenstraße 40-42b 8.2.11 Vogesenstraße 37 8.2.12 Dresselstraße 26 8.2.13 Sanisbarstraße 11 8.2.14 Iltisstraße 40 8.2.15 Hans-Pfann-Straße 7 - <div>Zustimmung zum Votum des UA</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.: Behandlung von an die BA- Mitglieder gerichtete Post durch die BA- Geschäftsstelle - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1: UA Allgemeines (4)
+- TOP 10.1.1.: Unveränderte Fortführung eines Gaststättenbetriebes, Stahlgruberring 23 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.2.: Sachbericht über die Gewährung eines Zuschusses aus dem Budget des BA 15 Kapellenfreunde Michaeliburg e.V. - <div>zur Kenntnis genommen</div>
+- TOP 10.2: UA Bau und Verkehr (4)
+- TOP 10.2.1.: Verlegung der Haltestelle "Ottilienstraße" der MVG- Buslinie 192 - <div>zur Kenntnis genommen</div>
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung (4)
+- TOP 10.3.1.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014- 30.06.2014; Sitzungsvorlage Nr. 14-20/ V 01317; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.3.2.: München öffnet sein Herz endlich auch für Motorradfahrer; Antrag Nr. 08-14/ A 03187 der FW vom 19.03.2012; Sitzungsvorlage Nr. 08-14/ V 01275; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.3.3.: Infokampagne zum sozialverträglichen Immobilienverkauf (Ziffer 1); Empfehlung Nr. 08-14/ E 00794 der Bürgerversammlung des Stadtbezirkes 01- Altstadt- Lehel am 30.11.2010; Sitzungsvorlage Nr. 14-20/ V 01097; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4: UA Planung (4)
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.4.1.1 Kirchtruderinger Straße 9 10.4.1.2 Klothildenstraße 11 10.4.1.3 Graf-Spee-Platz 9 - <div>zur Kenntnis genommen</div>
+- TOP 10.5: UA Schule, Soziales und Kultur (3)
+- TOP 10.5.1.: Kindertagesstätte sonstiger Träger; Haus für Kinder am Schatzbogen 62 im 15. Stadtbezirk Trudering- Riem; Leistung des Baukostenzuschusses; Sitzungsvorlage Nr. 14-20/ V 01107; Beschluss des Bildungsausschusses des Stadtrates vom 08.10.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.5.2.: Brandschutz und Akustikmaßnahmen, WC-Sanierung und sonstige Maßnahmen in der Grund- und Mittelschule Feldbergstraße 85 im 15. Stadtbezirk Trudering- Riem, Projektkosten (Ausführungskosten) 5.600.000 Euro davon Ersteinrichtungskosten 0 Euro, Ausführungsgenehmigung; Sitzungsvorlage Nr. 14-20/ V 00736; Beschluss des Bildungsausschusses des Stadtrates vom 16.07.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.6: UA Umwelt (4)
