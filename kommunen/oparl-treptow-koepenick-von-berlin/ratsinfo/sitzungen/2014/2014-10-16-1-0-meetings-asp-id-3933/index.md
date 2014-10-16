@@ -1,0 +1,76 @@
+# 31. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-10-16T16:30:00+02:00
+- Ende: 2014-10-16T20:30:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3933
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3933
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=103898
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-35 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Wahl eines Bürgerdeputierten für den Schulausschuss - gewählt
+- TOP 8.2: Wahl eines stellvertretenden Bürgerdeputierten für den Schulausschuss - gewählt
+- TOP 8.3: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Bereitstellung von Fachgutachten zum Bebauungsplanverfahren XV-30b VE - zurückgezogen
+- TOP 9.2: Wassersparen im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2013 - überwiesen
+- TOP 11.2: Sitzungsterminplan 2015 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: - Entwurf des vorhabenbezogenen Bebauungsplans 9-57 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-57 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - überwiesen
+- TOP 11.4: Sondermittel für die Herren Jürgen Polinske, Frank Wegner-Büttner und York Freitag (SM 14-27) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Förderverein "Köpenicker Knospen" e. V. (SM 14-30) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den Creative Selbsthilfe Oase e. V. (SM 14-31) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Förderverein KIEZKLUB RAHNSDORF e. V. (SM 14-33) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Ergänzung des Beschlusses 038/06/00 der ehemaligen BVV Köpenick, (Drs. 492/III, Erarbeitung eines Lärmminderungsplanes) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Abbau des Verkehrsschilds „Vorfahrt gewähren“ für Fahrradfahrerinnen und Fahrradfahrer an der Kreuzung Oberspreestr. / Friedlander Str. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Schmetterlingshorst erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Radweg Köpenicker Landstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fortschreibung des Lärmaktionsplans endlich vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Aufhebung der nächtlichen Tempo 30-Zone in der Straße am Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Weitergabe von Fundrädern an soziale Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Radverkehr am Stellingdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Hundsfelder Straße als Einbahnstraße ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Radverkehr am S-Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Aufstellungsbeschluss für ein soziales Erhaltungsgebiet in Alt-Treptow gemäß § 172 (1) Nr. 2 BauGB - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Baulücke Kietzer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Fahrbahnschwellen zur Verkehrsberuhigung künftig fahrradfreundlicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Dritter Fahrstreifen für Linksabbiegerinnen und Linksabbieger auf dem Adlergestell - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Barrierefreiheit an der Straßenbahnwendeschleife am S-Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Spielplatz Müggelheim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Im I. Halbjahr 2014 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung eines öffentlichen Weges im Ortsteil Köpenick in "Claus-Dieter-Sprink-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Feuerlöschboot im Berliner Südosten stationieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Toiletten in Supermärkten - überwiesen
+- TOP 14.3: Absenkung für Radweg auf der Schönefelder Chaussee vor der Warnowstraße herstellen - überwiesen
+- TOP 14.4: Verkehrssicherheit in der Hartriegelstraße - überwiesen
+- TOP 14.5: Radweg Oberspreestraße / Friedlander Straße - überwiesen
+- TOP 14.6: Straßenbenennung nach Henriette Lustig - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Barrierefreie Wahllokale - überwiesen
+- TOP 14.8: Straßenlicht in Erschließungsgebieten - überwiesen
+- TOP 14.9: Freiwillige Feuerwehr Rauchfangswerder - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Parkstreifen Straße An der Wuhlheide - überwiesen
+- TOP 14.11: Querung der Bulgarischen Straße - überwiesen
+- TOP 14.12: Sicherung des Wagendorfes Lohmühle - überwiesen
+- TOP 14.13: Schulwegsicherung Müggelschlößchen-Grundschule - überwiesen
+- TOP 14.14: Tempo 30 in der Karl-Kunger-Straße zwischen Wildenbruchstraße und Krüllsstraße - überwiesen
+- TOP 14.15: Radweg Oberspreestraße an die Fahrbahn einschwenken - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Hortanträge - beantwortet
