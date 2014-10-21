@@ -1,0 +1,68 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-10-21T17:00:00+02:00
+- Ende: 2014-10-21T20:43:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8806
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8806
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224399.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224399.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224399.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift der öffentlichen Sitzung vom 23.09.2014 - einstimmig beschlossen
+- TOP 3: Tempo 40-Abschnitt auf der Ernst-Poensgen-Allee - mehrheitlich beschlossen
+- TOP 4: Grünordnungsplan 2025 - zur Kenntnis genommen
+- TOP 5: Sportanlage Diepenstraße - Neubau Hockeyplatz (Neufassung) - einstimmig beschlossen
+- TOP 6: Ortsumgehung Gerresheim/L404 - mehrheitlich abgelehnt
+- TOP 6.1: Brücke Pillebach, Verbindungsweg - zurückgezogen
+- TOP 6.1.1: Rheinbahn-Haltestelle "Knuppertsbrück", Glashüttenstraße Westseite - einstimmig beschlossen
+- TOP 6.1.2: Staufenhalle am Staufenplatz - einstimmig beschlossen
+- TOP 6.1.3: Fertigstellung Torfbruchstraße - einstimmig beschlossen
+- TOP 6.1.4: Neugestaltung Staufenplatz - einstimmig beschlossen
+- TOP 6.1.5: Einrichtung einer Fußgängerbedarfsampel Ludenberger Straße - einstimmig beschlossen
+- TOP 6.1.6: Planungsmittel Brücke über Gleise - einstimmig beschlossen
+- TOP 6.1.7: 40 Jahre Bezirksvertretung 7 - Mittel für eine Jubiläumsveranstaltung - einstimmig beschlossen
+- TOP 6.1.8: Machbarkeitsstudie und Planung Tunnel Grafenberg - mehrheitlich abgelehnt
+- TOP 6.1.9: Bezirksradwegenetz - mehrheitlich abgelehnt
+- TOP 6.1.10: ÖPNV - einstimmig beschlossen
+- TOP 6.2: Haushaltsplanentwurf 2015 mit Anlagen - einstimmig beschlossen
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 8: Sitzungstermine der Bezirksvertretung 7 im Jahre 2015 - einstimmig beschlossen
+- TOP 9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 10: Bezirk 7 soll Projektbezirk für Obstbaum- und Obststrauchbepflanzungen werden - mehrheitlich beschlossen
+- TOP 11: Polizeischutz für Martinszüge und Umzüge im Rahmen des Sommer- und Winterbrauchtums! - mehrheitlich abgelehnt
+- TOP 12: 1.000 Bänke - einstimmig beschlossen
+- TOP 13: Schwengelpumpe Neusser Tor - einstimmig beschlossen
+- TOP 14: Kamper Weg - einstimmig beschlossen
+- TOP 15: Sicherung der Ausstellungsreihe des FKI "150 Jahre Glashütte Gerresheim" - einstimmig beschlossen
+- TOP 16: Bücherschrank Roter Platz/Heyestraße - einstimmig beschlossen
+- TOP 17: Bericht über die aktuelle Situation der Flüchtlinge im Bezirk 7 - einstimmig beschlossen
+- TOP 18: Linie 703 Verbesserung des Serviceangebotes am Wochenende freitags- und samstags abends - einstimmig beschlossen
+- TOP 19: Linie 703, Verbesserung des Service nach 24 Uhr - einstimmig beschlossen
+- TOP 20: Litfaßsäule und Umlaufschranke "Bergische Landstraße" / Ecke "Am Wildpark" - einstimmig beschlossen
+- TOP 21: Bericht über die Umsetzung des Ganztags an Grund- und weiterführenden Schulen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 22: Tempo 40 auf der Ludenberger Straße - mehrheitlich abgelehnt
+- TOP 23: Umbau der Haltestellen der Buslinie 730 im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 24: Gestaltung Alte Insel - zur Kenntnis genommen
+- TOP 25: Stadtbildpflege Häuser Märkische Straße 71 - 79, Schönaustraße 26 - 28 - zur Kenntnis genommen
+- TOP 26: Wanderweg Sauerweg nach Dammbruch - zur Kenntnis genommen
+- TOP 27: Altes LVA-Gelände Ernst-Poensgen-Allee - zur Kenntnis genommen
+- TOP 28: L404n zweispurig und über die Glashüttenstraße - vertagt
+- TOP 29: Kunstrasenplätze im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 30: Schulentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 31: Feinstaubmessung Ludenberger Straße - zur Kenntnis genommen
+- TOP 31.1: Höherhofstraße 3 - Stadtbildpflege - zur Kenntnis genommen
+- TOP 32: Verbindungsweg Torfbruchstraße - Nymphenburgstraße - zur Kenntnis genommen
+- TOP 33: Herrichtung des Platzes vor dem ehem. Amtsgericht Heyestraße - zur Kenntnis genommen
+- TOP 34: Bürger/innenbeteiligung Düsselpark - zur Kenntnis genommen
+- TOP 35: Machbarkeitsstudie Tunnel Ludenberger Straße - zur Kenntnis genommen
+- TOP 36: Masterpläne für den Stadtbezirk 7; Schulen - zur Kenntnis genommen
+- TOP 37: Masterpläne für den Stadtbezirk 7, Feuerwehr - zur Kenntnis genommen
+- TOP 38: Bedarfsampel Benderstraße/Ecke Ikenstraße - zur Kenntnis genommen
