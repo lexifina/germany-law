@@ -1,0 +1,148 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-10-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3186944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3186944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: 1.4 Benennung einer/eines neuen Schaukastenbeauftragten für den Standort Agilolfingerstraße
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Parkbank Fromundstraße und Wettersteinplatz - Anbringung eines Mülleimers / verstärkte Reinigung; Bürgerschreiben vom 16.08.2014 (vertagt aus der Sitzung vom 16.09.2014) zu 2.1.2.1 Mülleimer an der Ecke Fromundstraße / Otkerstraße; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 2.2.: Fußballtore für den Spielplatz am Schmorellplatz; Bürgerschreiben vom 06.09.2014 (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 2.3.: - Einbau von Bodenwellen und Anordnung von Tempo 20 (verkehrsberuhigende Maßnahmen) im Bereich Reinekestraße, Wunderhornstraße und Vierheiligstraße - Ampel für die Straßenbahnhaltestelle Schilcherweg; Bürgerschreiben vom 27.09.2014 und Bürgerschreiben vom 30.09.2014 und 07.10.2014
+- TOP 2.4.: Kinderferienprogramm Zirkus Simsala in Harlaching; Bürgerschreiben vom 16.09.2014
+- TOP 2.5.: Lorenzonistsraße - Erneuerung des Gehweges; Bürgerantrag
+- TOP 2.7.: Bauvorhaben in der Wunderhornstraße 9 - Nachbarbeteiligung; Abdruck eines Bürgerschreibens an die Lokalbaukommission
+- TOP 2.8.: Graffitis im Stadtbezirk; Bürgerschreiben vom 06.10.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Umbau der Tram-Wendeschleife Großhesseloher Brücke; Vorstellung der Planungen durch die MVG
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Linkshänder e.V., für die Maßnahme: Baumschalaktion ab November 2014; Antragssumme: 624,84 ?; Beschlussvorlage des Direktoriums vom 15.09.2014
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Informationsveranstaltung zur Machbarkeitsstudie Tegernseer Landstraße - Themensammlung (ohne Vorgang - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.1.: Handlungsprogramm Mittlerer Ring - Berücksichtigung der Vorschläge zum qualifizierten Abschluss der Ausbaumaßnahmen am Mittleren Ring (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.2.: Soyerhofstraße - Geschwindigkeitsbegrenzung auf Tempo 30; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.: Hebenstreitstraße - Abhängung vom Zufahrtsverkehr und Verlängerung und Begrünung des von der Mondstraße kommenden Fußweges; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus der Sitzung vom 16.09.2014) - <div>nach Antrag</div>
+- TOP 3.4.: Fortsetzung der Kampagne "Radlhauptstadt München"; Antrag der Fraktion Bündnis 90/Die Grünen - <div>nach Antrag</div>
+- TOP 3.5.: Tempo 30 in der Stadt; Antrag der Fraktion Bündnis 90/Die Grünen - <div>nach Antrag</div>
+- TOP 3.1.: Am Perlacher Forst - Straßensanierung zwischen Bezoldstraße und Theodolindenstraße; Erinnerungsverfahren; Zuleitung des Baureferats mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 16.09.14)
+- TOP 3.2.: Gabriel-Max-Straße - Straßensanierung zwischen Defreggerstraße und Geiselgasteigstraße; Erinnerungsverfahren; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.1.: Rollator-Übergang am Wettersteinplatz; BA-Antrag Nr. 14-20 / B 00191 vom 15.07.2014; Antwortschreiben der SWM GmbH vom 04.09.2014 (negative Erledigung)
+- TOP 3.2.: Ampelschaltung am Wettersteinplatz bei Ankunft der Straßenbahn; BA-Antrag Nr. 14-20 / B 00189 vom 15.07.2014; Antwortschreiben des KVR vom 05.09.2014 (negative Erledigung)
+- TOP 3.3.: Kreuzung Reichenhaller Straße / Kurzstraße - problematische Verkehrssituation durch parkende Fahrzeuge; Bürgeranliegen aus der Sitzung des BA 18 vom 15.07.2014; Antwortschreiben des KVR vom 04.09.2014 (neutrale Erledigung)
+- TOP 3.4.: Umwandlung von Pkw-Parkplätzen in Fahrradabstellplätze innerhalb des Parklizenzgebietes Untergiesing, speziell Cannabichstraße und Lohstraße; Bürgeranliegen vom 09.05.2014; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 11.09.2014 (neutrale Erledigung)
+- TOP 3.5.: Gefährdung von Freizeitsportlern bei Querung der Straße am Perlacher Forst - Warnschilder; Bürgerschreiben vom 12.05.2014; Antwortschreiben des KVR vom 08.09.2014 (negative Erledigung)
+- TOP 3.6.: Öffnung der Tiefgarage am Wettersteinplatz (negative Erledigung); Parkraumkonzept für den 18. Stadtbezirk (neutrale Erledigung); Bürgeranliegen aus der Sitzung des BA 18 vom 15.07.2014; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 10.09.2014
+- TOP 3.7.: Maßnahmen zur Reduzierung des Rückstaus zur Einfahrt am Parkplatz des Tierparks Hellabrunn am Harlachinger Berg; BA-Antrag Nr. 14-20 / B 00188 des BA 18 vom 15.07.2014 (positive Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.8.: Stadtteilcheck "Auf Herz und Rampen prüfen" - Barrierefreiheit im 18. Stadtbezirk; Absenkung an der Einmündung Eschenstraße / Rosengarten (positive Erledigung); Absenkung am Mangfallplatz; Antwortschreiben des Baureferats mit der Bitte um Ortstermin (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.9.: Stadtteilcheck "Auf Herz und Rampen prüfen"; Barrierefreiheit Stadtbezirk; Containerstandorte Friedrich-Ebert-Straße, Oberbiberger Straße und Akelaistraße; Antwortschreiben des AWM vom 19.08.2014 (negative Erledigung - vertagt aus der Sitzung vom 16.09.2014) zu 3.2.5.9 Barrierefreiheit für die Wertstoffsammelstellen Friedrich-Ebert-Straße, Oberbiberger Straße und Akelaistraße; Schreiben des UA Verkehr an die Duales System Deutschland GmbH - ENTWURF (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.10.: 1. Neue Asphaltierung des Radweges an der Säbener Straße 2. Neue Asphaltierung des Straßenbelages am Perlacher Forst 3. Neue Asphaltierung des Straßenbelages Autharistraße; Bürgerschreiben vom 04.05.2014; Antwortschreiben des Baureferats-Tiefbau vom 13.08.2014 (positive Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.11.: Verbesserung der Verkehrssituation an der Einmündung Wunderhornstraße / Geiselgasteigstraße; BA-Antrag Nr. 14-20 / B 00304 vom 19.08.2014; Antwortschreiben des KVR vom 29.08.2014 (negative Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.12.: Parkplatzproblematik rund um den Tierpark, insbesondere Alemannenstraße; Bürgerschreiben vom 20.06.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 25.09.2014 (neutrale Erledigung)
+- TOP 3.1.: Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren; Antrag Nr. 08-14 / V 04973 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.01.2014; Sitzungsvorlagen Nr. 14-20 / V 01173; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014
+- TOP 3.2.: Auskunft über die Planungen zu einem Verkehrskonzept im Bereich Mittlerer Ring, Tegernseer Landstraße / Chiemgaustraße zur Vermeidung von Staus durch die Auswirkungen des Tunnels am Luise-Kieselbach-Platz; Empfehlung Nr. 08-14 / E 02089 der BÜV des Stadtbezirkes 18 am 14.11.2013; Sitzungsvorlagen Nr. 14-20 / V 01171; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.09.2014 (SB)
+- TOP 3.3.: München öffnet sein Herz endlich auch für Motorradfahrer! Antrag Nr. 08-14 / A 03187 der FW vom 19.03.2012; Sitzungsvorlagen Nr. 14-20 / V 01275; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 24.09.2014 (SB)
+- TOP 3.4.: Protokoll zum Ortstermin Wettersteinplatz; Zuleitung des Baureferats-Tiefbau vom 26.08.2014 (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Rückführung der Isar-Ufergestaltung an der Marienklausen-Brücke unterhalb des breiten Wasserfalls zu ursprünglicher Form; BA-Antrag Nr. 14-20 / B 00300 vom 19.08.2014; Antwortschreiben des Baureferats vom 01.09.2014 (neutrale Erledigung)
+- TOP 3.2.: Bienenstandplatz in Untergiesing-Harlaching; Bürgeranliegen aus der Sitzung des BA 18 vom 15.07.2014; Antwortschreiben des Baureferates vom 02.09.2014 (neutrale Erledigung)
+- TOP 3.1.: Wie ist der Stand der Managementpläne und des Monitoring von FFH-Gebieten in München? Antrag Nr. 02-08 / A 03516 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 12.02.2007; Sitzungsvorlagen Nr. 14-20 / V 01061; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 (SB)
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Athener Straße 7; Ablehnungsbescheid vom 26.09.2014 3.3.6.2.2 Tierparkstraße 30; Genehmigungsbescheid vom 29.09.2014 3.3.6.2.3 Claude-Lorrain-Straße 35; Ablehnungsbescheid vom 29.09.2014 3.3.6.2.4 Schönstraße 36 - 48a; Ablehnungsbescheid vom 01.10.2014 3.3.6.2.5 Karneidstraße 15; Ablehnungsbescheid vom 02.10.2014
+- TOP 3.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung / Landschaftsschutzverordnung / -bestandteil; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung des Baureferats-Gartenbau vom 12.09.2014
+- TOP 3.1.: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG); hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet; Abdruck eines Schreibens des BA 20 - Hadern an das KVR mit der Bitte um Unterstützung des Anliegens
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Münchenstift GmbH - Verdoppelung der Ausbildungskapazitäten in Pflegeberufen; Antrag der Fraktion Bündnis 90/Die Grünen - <div>nach Antrag</div>
+- TOP 3.1.: REGSAM - ein starkes soziales Netzwerk für München; REGSAM-Ressourcen anpassen und verstetigen; ENTWURF der Beschlussvorlage für die Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 04.11.2014 (VB)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Münchenstift GmbH - Verdopplung der Ausbildungskapazitäten in Pflegeberufen; BA-Antrag Nr. 14-20 / B 00199 des BA 18 vom 15.07.2014; Antwortschreiben des Sozialreferats vom 29.08.2014 (negative Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Seybothstraße 65, Tiroler Platz (Tram, Grünwalder Str.), St.-Magnus-Straße 34, Authariplatz 11, Naupliastraße 32, Naupliastraße 83, Seybothstraße 17, Seybothstraße 55; Beschluss des BA 18 vom 21.10.2014
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Antike Straßenlaternen beibehalten; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 16.09.2014) - <div>nach Antrag</div>
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: 1. Dauerhafte Errichtung des städt. Kindergartens St. Franziskus mit Hort auf dem Candidplatz 2. Verlegung des Stellplatznachweises für das Stadion an der Grünwalder Straße in die zu öffnende Tiefgarage am Wettersteinplatz; Antrag der CSU-Fraktion (vertagt aus den Sitzungen vom 19.08.14 und 16.09.14)
+- TOP 3.6.: Die LHM wird aufgefordert, einen Nutzungsplan für den Candidplatz zu erstellen; Antrag der SPD-Fraktion (vertagt aus den Sitzungen vom 17.06.14, 15.07.14, 19.08.14 u. 16.09.14) - <div>nach Antrag</div>
+- TOP 3.7.: Candidplatz - Bau eines Bürger- und Kulturzentrums, Schaffung von Wohnraum und Nahversorgungseinrichtungen; Antrag der Fraktion Bündnis 90/Die Grünen (vertagt aus den Sitzungen vom 19.08.14 u. 16.09.14) - <div>nach Antrag</div>
+- TOP 3.8.: Candidplatz - Information über den aktuellen Flächennutzungsplan bzw. Bebauungsplan; Antrag der SPD-Fraktion (vertagt aus den Sitzungen vom 19.08.14 u. 16.09.14) - <div>nach Antrag</div>
+- TOP 3.1.: 3.5.4.3 Bauleitplanung der Gemeinde Grünwald; Aufstellung des Bebauungsplanes Nr. B 51 "Baugenossenschaft" für das Gebiet zwischen Oberhachinger Straße, Josef-Würth-Straße, Josef-Kogler-Straße und Josef-Sammer-Straße; Verfahren nach § 4 Abs. 1 BauGB; Zuleitung des Referates für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme bis 19.09.14 (Fristverlängerung beantragt - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.2.: 3.5.4.4 Städtisches Stadion an der Grünwalder Straße 4: Neubau einer Sicherheitszentrale, Errichtung von Vereinzelungsanlagen und Erneuerung der Zaunanlage im 18. Stadtbezirk Untergiesing-Harlaching; Beschlussentwurf des RBS mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Heinrich-Kröller-Straße 15, Anbau eines Wintergartens an ein Einfamilienhaus; Anhörung vom 02.09.2014 (vertagt aus der Sitzung vom 16.09.14)
+- TOP 3.2.: Reichenhaller Str. 26, Neubau eines Mehrfamilienhauses (3 WE) - VORBESCHEID; Anhörung vom 09.09.2014 (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.: Hans-Mielich-Straße 8, Umbau und Nutzungserweiterung: Drogeriemarkt und Sporthalle zu Kinderkrippe und Kindergarten (EG + KG); Anhörung gem. Art. 65 Abs. 1 BayBO (vertagt aus den Sitzungen vom 19.08.14 u. 16.09.14)
+- TOP 3.4.: Geiselgasteigstraße 203, Erweiterung und Sanierung einer Klinik und Aufstellung von ca. 6 Bürocontainern für die Dauer der Bauzeit; Anhörung vom 26.09.2014
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Festbau für die Kindertageseinrichtung Schönstraße auf dem ehemaligen Osram-Gelände; BA-Antrag Nr. 08-14 / B 05859 vom 15.04.2014; Terminverlängerung; Beschlussvorlage für den Ausschuss für Bildung und Sport am 16.07.2014; Planungsstand für den Neubau des Kindergartens St. Franziskus an der Schönstraße 9 und des Horts St. Franziskus an der Arminiusstraße 17; Schreiben des BA 18 vom 23.06.2014; Aktueller Sachstand; Zwischennachricht des RBS vom 26.08.2014
+- TOP 3.2.: Errichtung eines barrierefreien Zugangs zur Gaststätte "Gartenstadt", Naupliastraße 2; BA-Antrag Nr. 14-20 / B 00094 des BA 18 vom 13.05.2014; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 21.08.2014 (neutrale Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.: Entwicklung der GFZ in Harlaching in den letzten zehn Jahren; BA-Antrag Nr. 08-14 / B 05647 vom 18.02.14; Antwortschreiben zur Stellungnahme des BA 18 aus der Sitzung vom 17.06.2014 (neutrale Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.4.: U-Bahnhof Candidplatz - Bemalung im regenbogenartigem Verlauf des Farbspektrums; BA-Antrag Nr. 14-20 / B 00183 vom 15.07.2014; Antwortschreiben der SWM GmbH vom 06.08.2014 (neutrale Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.5.: Sanierung der Bezirkssportanlage an der Agilolfingerstraße; Errichtung eines zweiten Kunstrasenplatzes; Antwortschreiben des RBS vom 14.08.2014 zur Stellungnahme des BA 18 aus der Juni-Sitzung zum BA-Antrag Nr. 08-14 / B 05778 (negative Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.6.: HEIMAG-Siedlung an der Säbener Straße - langfristiger Erhalt für einen Zeitraum von mindestens 40 Jahren; BA-Antrag Nr. 14-20 / B 00095 des BA 18 vom 17.06.2014; Langfristiger Erhalt der HEIMAG-Siedlung an der Säbener Straße - erneute Befassung im Stadtrat; BA-Antrag Nr. 14-20 / B 00184 des BA 18 vom 15.07.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 25.08.2014 (neutrale Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Wiedereröffnung des Gebrauchtwarenkaufhauses "Halle 2"; BA-Antrag Nr. 14-20 / B 00027 vom 13.05.2014; zweites Antwortschreiben des AWM zur Nachfrage des BA 18 aus der Sitzung vom 15.07.2014 (neutrale Erledigung - vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.9.: Wiederherstellung des Gehweges Steingadener Straße 20 und Peitinger Weg; BA-Antrag Nr. 14-20 / B 00302 vom 19.08.2014; Antwortschreiben des Baureferats-Tiefbau vom 16.09.2014 (positive Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten; Stadtratsantrag Nr. 08-14 / A 05020 von DIE LINKE vom 17.01.2014; Sitzungsvorlagen Nr. 14-20 / V 00959; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.09.2014 (VB)
+- TOP 3.3.: Infokampagne zum sozialverträglichen Immobilienverkauf (Ziffer 1); Empfehlung Nr. 08-14 / E 00794 der BÜV des Stadtbezirkes 01 - Altstadt-Lehel - am 30.11.2010; Sitzungsvorlagen Nr. 14-20 / V 01097; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 24.09.2014 (SB)
+- TOP 3.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014 - 30.06.2014; Sitzungsvorlagen Nr. 14-20 / V 01317; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014
+- TOP 3.5.: Empfehlungen aus der Bürgerversammlung des 18. Stadtbezirkes - Untergiesing-Harlaching - zur zukünftigen Bebauung des Osramgeländes; Sitzungsvorlagen Nr. 14-20/V 00899; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 (SB)
+- TOP 3.6.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick a) Historische Entwicklung b) Geltende Rechtslage c) Lösungsansätze d) Anträge und Empfehlungen; Sitzungsvorlagen Nr. 14-20 / V 00909; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014 (VB)
+- TOP 3.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.7.1 SSW "Pizzeria Sessanta", Zasinger Straße 2; Mitteilung vom 06.08.2014 (vertagt aus der Sitzung vom 16.08.14)
+- TOP 3.8.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.8.1 Anwesen Prößlstraße; Mitteilung vom 20.08.14 (vertagt aus der Sitzung vom 16.09.14) 3.5.6.8.2 Anwesen Heigelstraße; Mitteilung vom 18.09.14 3.5.6.8.3 Anwesen Willroiderstraße; Mitteilung vom 01.10.14
+- TOP 3.1.: Gabriel-Max-Straße 25, Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; negative Stellungnahme des BA 18 zum BV vom 23.06.2014; Abdruck des Vorbescheids vom 06.08.2014 (vertagt aus der Sitzung vom 16.09.2014)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung der BA-Satzung; Anhörungsrecht bei fliegenden Bauten, bei Umwandlung von Wirtsgärten in Veranstaltungsflächen und bei gewerblichen Veranstaltungen auf öffentlichem Privatgrund; BA-Antrag Nr. 08-14 / B 05467 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 17.12.2013; Zuleitung des Direktoriums mit der Bitte um Stellungnahme
+- TOP 4.2.: 4.3.3 Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung; Antrag des BA 7 vom 08.07.2014; Schreiben des Direktoriums vom 07.10.2014 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: W-LAN für Harlaching und Untergiesing; BA-Antrag Nr. 08-14 / B 04916; Nachfrage des BA 18 aus der Sitzung vom 19.08.2014 zur Reichweite; Antwortschreiben des Direktoriums vom 098.09.2014 (neutrale Erledigung)
+- TOP 4.2.: Infostände der Partei "Die Freiheit" im 18. Stadtbezirk; Bürgerbeschwerden aus der Sitzung des BA 18 vom 19.08.2014; Antwortschreiben des KVR vom 15.09.2014 (neutrale Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 2.6.: - vergessene Litfasssäule am Vollmarpark - Zeitanzeige Mangfallplatz (Süd); Bürgerschreiben vom 13.09.2014
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
