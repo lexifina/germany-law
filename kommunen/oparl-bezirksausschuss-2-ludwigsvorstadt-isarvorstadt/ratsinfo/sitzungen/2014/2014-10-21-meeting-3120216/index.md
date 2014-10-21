@@ -1,0 +1,98 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-10-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3120216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3120216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Weiterführung des Pflanzprojektes am Isarbalkon (Corneliusbrücke), vertagt aus 2014.09 A 1.3
+- TOP 1.2.: ?Zaun weg am KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014
+- TOP 1.3.: ?Trennung Basketball- und Fußballfeld neben dem KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014
+- TOP 1.4.: Antrag der Perspektive e.V. an das Stiftungsamt der Landeshauptstadt München
+- TOP 1.5.: Schaffung von mehr Graffiti-Flachen an der Tumblingerstr. - PLENUMSBESCHLUSS
+- TOP 2: Entscheidungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse MaxChor Kirchenkonzert "Überirdisch" am 09.11.2014
+- TOP 2.2.: Stellungnahme ?Stolpersteine?, BA-Antrag Nr. 08-14 / B 05698
+- TOP 2.3.: BA-eigenes Budget für eine Rundbank am Karl-Heinrich-Ulrichs-Platz, 3.400,00 ?
+- TOP 2.4.: ?München heißt Flüchtlinge willkommen!?, Unterstützung der Resolution des Münchner Bündnisses für Toleranz
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Initiative "Münchner Bahnhofskapelle" Konzert am 30.11.2014
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Grundschule an der Klenzestr. 48, Umbaumaßnahme zur Einführung des gebundenen Ganztageszuges, Anhörung zum Entwurf einer Beschlussvorlage für den Bildungsausschuss am 05.11.2014 ? PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 5: Sonstiges (2)
+- TOP 5.1.: a) Temporäre Aufstellung von Dixi-Toilletten/Pissoirs am Gärtnerplatz, BA-Antrag Nr. 14-20 / B 00103, Schreiben des Baureferates, Bitte um Terminvereinbarung b) Abfallbeseitigung und Toilette am Gärtnerplatz, BA-Antrag Nr. 08-14 / B 04620, Schreiben des Baureferates, Fristverlängerung bzw. Bitte um Terminvereinbarung
+- TOP 5.2.: Vermietung des Grundstücks Ruppertstr./Tumblingerstr. an das Wohnprojekt ?Stattpark Olga?, siehe auch 2014.09 A 0, 2014.07 B 4.2
+- TOP 5.3.: Raumsuche für Beratungscafé der Arbeiterwohlfahrt München gGmbH
+- TOP 5.4.: Bücherschrank, Schreiben an das Kulturreferat ? PLENUMSBESCHLUSS
+- TOP 5.5.: Urban-Art-Festival auf dem Viehhofgelände, Bericht vom Stand der Projektplanung
+- TOP 5.6.: Thalkirchner Str. 9, Anwohner-Information am 16.10.2014, 18 Uhr, Berufsfachschule Thalkirchner Str. 22
+- TOP 5.7.: Arbeitskreis Viehhof, Vorbereitung der nächsten Veranstaltung
+- TOP 6: Berichte der Beauftragten (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Rupperstr. 5, Neubau einer Berufsfachschule für Kinderpflege, einer Fachakademie für Sozialpädagogik, eines Hauses für Kinder mit 4 Krippen- und 3 Kindergartengruppen, einer kulturellen Einrichtung, einer Dreifachsportanlage mit Freisportanlagen und einer Anwohnertiefgarage ? Vorbescheid
+- TOP 3.1.2.: Baumstr. 6, Vordergebäude: Errichtung zweier Dachterrassen; Zwischengebäude: Nutzungsänderung Wasch-/Trocken- und Müllraum zu Wohnraumerweiterung Wohnung 16; Rückgebäude: Errichtung eines Glasanbaus bei Wohnung 16 / Erdgeschoss, Verschieben der Balkone, Verbreiterung der Gauben, Errichtungbbid einer Dachterrasse und Teilaufstockung des Walmdachs mit einer Satteldachkonstruktion als Terrassenzugang, Errichtung eines Balkons an der Nordfassade; Innenhof: Errichtung zweier Terrassen und neue Situierung der Mülltonneneinhausung
+- TOP 3.1.3.: Thalkirchner Str. 21/RGB, DG-Ausbau mit zwei Wohnungserweiterungen und Errichtung zweier Dachterrassen
+- TOP 3.1.4.: Buttermelcherstr. 2, Umbau 3er DG-Wohnungen sowie Anbau von Balkonen und eines Außenaufzugs im Innenhof
+- TOP 3.1.5.: Tumblingerstr. 6, Errichtung einer mobilen Schulraumeinheit (4 Klassenräume) sowie Teilabbruch eines Gerätehauses
+- TOP 3.1.6.: Lindwurmstr. 17, DG-Teilausbau Mehrfamilienhaus
+- TOP 3.1.7.: Schäftlarnstr. (Lagerhausstr. 5, Schäftslarnstr. 2-32, Thalkirchner Str.), Zukunftssicherung Markthallen München, Neubau Halle I-III und UGM I, Abbruch Halle GM-5, GM-9, GM-10, GM-17, GM-19-V, GM-19-VI, GM-22, GM-23 und GM-24, Abbruch Gebäude GM-2, GM-3, GM-4, GM-7, GM-9, GM-26 (Teilabbruch), GM-27 und GM-30; Umbau der UGM II (GM-6) sowie Umgestaltung des Verkehrskonzeptes inkl. Entladeplätze und Parkplatzflächen ? Vorbescheid
+- TOP 3.1.8.: Tumblingerstr. 40, VGB: Nutzungsänderung (Gewerbe zu Wohnen), DG-Ausbau, Einbau eines Aufzugs, Anbau zweier Balkonanlagen und einer Notleiter als 2. Rettungsweg; RGB / EG + 1. OG: Nutzungsänderung (Gewerbe zu Wohnen), Anbau dreier Balkonanlagen
+- TOP 3.1.9.: Fraunhoferstr. 3/RGB, Sanierung und Erweiterung des Rückgebäudes inkl. Nutzungsänderung (Lager zu zwei Büroeinheiten) ? PLENUMSBESCHLUSS
+- TOP 3.1.10.: Jahnstr. 21-21a, Neubau eines Dreispännes mit Tiefgarage ? PLENUMSBESCHLUSS
+- TOP 3.1.11.: Bahnhofpl. 1, Nutzungsänderung von Büro- zu Hotelflächen / Erweiterung ? Vorbescheid ? PLENUMSBESCHLUSS
+- TOP 3.1.12.: Herzog-Heinrich-Str. 24, DG-Ausbau, Nutzungsänderung (Gewerbe zu Wohnungen), Balkon- und Liftanbau (Herzog-Heinrich-Str. 24 / Mozartstr. 15) ? PLENUMSBESCHLUSS
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Poccistr. 11, Antrag auf Baumfällung, 1 Robinie ? PLENUMSBESCHLUSS
+- TOP 3.2.2.: Maistr. 57-61, Antrag auf Baumfällung, 1 Robinie ? PLENUMSBESCHLUSS
+- TOP 3.2.3.: Fraunhoferstr. 19, Antrag auf Baumfällung, 2 Rosskastanien ? PLENUMSBESCHLUSS
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 5: Sonstiges (3)
+- TOP 5.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 6: Berichte der Beauftragten (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Umwandlung eines PKW-Stellplatzes vor dem Anwesen Thalkirchner Str. 86 (Kinderhaus St. Anton) in eine Abstellfläche für Fahrräder, Roller und Kinderanhänger
+- TOP 1.2.: Zusatzschild ?Radfahrer frei? an dem Abbiegeverbot in der Müllerstr. Richtung Süden, Ecke Pestalozzistr.
+- TOP 2: Entscheidungen (3)
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Landwehrstr. 17, ?Munich Hair Academy?, Aufstellung eines mobilen Fahrradständers
+- TOP 2.2.2.: Lindwurmstr. 77/ U-Bahn-Abgang, Aufstellung von vier Zeitungsentnahmegeräten ? PLENUMSBESCHLUSS
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 1: (E) Änderung der Ampelschaltungen an den Kreuzungen der Landwehrstraße / Goethestraße und Schwanthaler- straße / Goethestraße (Ziffer 2)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates zur BA-Sitzung, Antrag des BA 7 Sendling-Westpark, Anhörung des Direktoriums zur beantragten Satzungsänderung
+- TOP 3.2.2.: Lade- und Lieferzone vor den Anwesen Müllerstr. 43 und 45, Anhörung zum Entwurf einer verkehrsrechtlichen Anordnung des Kreisverwaltungsreferates ? PLENUMSBESCHLUSS
+- TOP 3.3: Sonstiges (4)
+- TOP 3.3.1.: Oktoberfest 2014, Schluss- und Erfahrungsbericht, Abfrage des Referates für Arbeit und Wirtschaft (siehe Anhang UA-Protokoll)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 5: Sonstiges (5)
+- TOP 5.1.: Bürgeranliegen: Situation rund um die Theresienwiese
+- TOP 5.2.: Bürgeranliegen: Lärmbelästigung durch Gaststätten in der Müllerstr.
+- TOP 5.3.: Standortkonzept Kulturstrand, Fragenkatalog, siehe 2014.09 C 5.8
+- TOP 5.4.: Großparkplatz auf dem ehemaligen Viehhofgelände während des Oktoberfestes
+- TOP 5.5.: Bürgeranliegen: verschiedene Fragen, siehe UA-Protokoll
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 2.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 10.11.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 11.11.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 12.11.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 17.11.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 25.11.2014 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen (2)
+- TOP 3.1.: Treffen der Unterausschüsse ?Kultur? der Bezirksausschüsse 2 und 6 bezüglich der Planung ?Stadtteilkulturzentrum Ruppert/Tumblinger?: - 30.10.2014, 17:30 Uhr, Kulturzentrum Messestadt Riem, Erika-Cremer-Str. 8 - 13.11.2014, 17:30 Uhr, Stadtteilkultur 2411, Blodigstr. 4, 3. OG
+- TOP 4: Unterrichtungen (siehe Beiblatt) (4)
+- TOP 0: Unterrichtungen
