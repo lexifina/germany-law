@@ -1,0 +1,57 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2014-10-22T17:00:00+02:00
+- Ende: 2014-10-22T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3076
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9370e31d8f32e9185f0561
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 02.07.2014 und 03.09.2014 - (offen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen -Haushalt 2014-, Produkt 130104, Wald und Forstwirtschaft - ungeändert beschlossen
+- TOP 4.2: 2. Bericht über die Fallzahlen- und Kostenentwicklung im Bereich der Hilfen zur Erziehung und Maßnahmen nach § 35 a SGB VIII für das Haushaltsjahr 2014 (01.01.-03.07.2014) - ungeändert beschlossen
+- TOP 4.3: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2014 hier: Alt-Haarener-Straße - ungeändert beschlossen
+- TOP 4.4: U 3 Ausbau - Maßnahmen aus Mitteln 2014 Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen -Haushaltsjahr 2014 - 5-0600101-900-00100-990-8 - 78650000 U 3 Ausbaumaßnahmen und 5-060101-900-00100-990-9 - 78650000 Erweiterung Raumprogramm Kitas - ungeändert beschlossen
+- TOP 4.5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2014 hier Neubau Turnhalle GS Marktstraße - ungeändert beschlossen
+- TOP 5: Einbringung des Haushaltsplanentwurfs 2015 mit Anlagen - ungeändert beschlossen
+- TOP 6: Ausschreibung der Stelle der/des Beigeordneten für Planung - ungeändert beschlossen
+- TOP 7: Aufhebung des Bebauungsplans Nr. 4 der ehem. Gemeinde Laurensberg für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Orsbacher Straße/ Herzogsweg, Rathausstraße, Brunnenstraße, Im Weingarten und Am Weyenberg hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 8: Vorhabenbezogener Bebauungsplan Nr. 948 - Neuenhofer Weg / Kinder- und Jugendpsychiatrie - für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen dem Neuenhofer Weg und dem Studentenwohnheim an der Kullenhofstraße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 9: Satzung über die Erhebung von Beiträgen nach § 8 KAG NW für den Ausbau der Johannes-Paul-II.-Straße von Rennbahn bis Eingang Bürgerservice als Fußgängerstraße - ungeändert beschlossen
+- TOP 10: Satzung über die Erhebung von Beiträgen nach § 8 KAG NW für den Neuausbau der Erschließungsanlage "Prinzenhofstraße" von Jesuitenstraße bis einschl. Hausnr. 23 als verkehrsberuhigter Bereich (Mischfläche) - ungeändert beschlossen
+- TOP 11: Satzung über die Erhebung von Beiträgen nach § 8 KAG NW für den Ausbau der Ritter-Chorus Straße von Katschhof bis Johannes-Paul-II.-Straße als Fußgängerstraße - ungeändert beschlossen
+- TOP 12: 1.Änderungsvertrag zum Durchführungsvertrag vom 11.12.2013 zum vorhabenbezogener Bebauungsplan Nr.879 - Beverstraße - hier: sozialer Wohnungsbau - geändert beschlossen
+- TOP 12.1: 1.Änderungsvertrag zum Durchführungsvertrag vom 11.12.2013 zum vorhabenbezogener Bebauungsplan Nr.879 - Beverstraße - hier sozialer Wohnungsbau - geändert beschlossen
+- TOP 13: 2.Änderungsvertrag zum Durchführungsvertrag vom 11.12.2013 zum vorhabenbezogener Bebauungsplan Nr.879 - Beverstraße - in der Fassung des 1. Änderungsvertrages vom 03.09.2014 hier: Wechsel des Vorhabenträgers - geändert beschlossen
+- TOP 13.1: Tischvorlage: 2.Änderungsvertrag zum Durchführungsvertrag vom 11.12.2013 zum vorhabenbezogenen Bebauungsplan Nr.879 - Beverstraße - in der Fassung des 1. Änderungsvertrages vom ...... hier: Ergänzungsvorlage nach Beschluss des Planungsausschusses vom 25.09.2014 - ungeändert beschlossen
+- TOP 14: Gebührenordnung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan Eurogress 2014 - ungeändert beschlossen
+- TOP 16: Verlegung von Stolpersteinen Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 17: EU-Initiative zur Anpassung von Städten an den Klimawandel - Verpflichtungserklärung der Bürgermeister im Rahmen des Konvents der Bürgermeister - ungeändert beschlossen
+- TOP 18: Annahme einer Schenkung für die städtische Gemeinschaftsgrundschule Walheim - ungeändert beschlossen
+- TOP 19: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 20: Freihandels- und Dienstleistungsabkommen gefährden Daseinsvorsorge hier: Tagesordnungsantrag der GRÜNE-Fraktion vom 02.10.2014 zum gleichlautenden Ratsantrag Nr. 22/17 vom 01.10.2014 - (offen)
+- TOP 20.1: Anträge zu TTIP, "Resolution des Rats der Stadt Aachen zu internationalen Handels- und Dienstleistungsabkommen" - ungeändert beschlossen
+- TOP 21: Anfragen - (offen)
+- TOP 22: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 22.1: Genehmigung einer Dringlichkeitsentscheidung - hier: Dringlichkeitsentscheidung für den Rat der Stadt Aachen gemäß § 60 GO NW zur Entsendung von Mitgliedern aus dem ZV AVV in den ZV NVR und die entsprechenden Gremien - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung und Ratsanträge - (offen)
+- TOP 24: Entwurf Jahresabschluss 2012 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
