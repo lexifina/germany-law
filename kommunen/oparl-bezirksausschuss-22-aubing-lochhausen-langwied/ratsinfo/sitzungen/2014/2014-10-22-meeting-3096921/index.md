@@ -1,0 +1,130 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3096921
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3096921
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Verkehrschaos Hohenrechbergstraße
+- TOP 2.1.2.: Keine Wertstoffinsel in der Papinstraße
+- TOP 2.1.3.: Lkw-Verbot für Ranertstraße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Reichenaustr. 20 - Am Loferfeld 34 - Brunhamstr. 54 - Fabrikstr. 52 - Zwernitzer Str. 35 - Hoheneckstr. 85 - Vestastr. 7 - Kräheneckstr. 6 - Parsberger Str. 17 - Aubinger Str. 139 (N) - Spatzenwinkel 22 (N) - Schermannsweg 2 (N) - Streitbergstr. 69 (N) - Erlbachstr. 21
+- TOP 3.1.2.: Baumfällungen zu einem Bauvorhaben: Aubing-Ost-Str. 12, Anhörung Planungsreferat vom 09.10.14
+- TOP 3.1.3.: Ablehnungsbescheid zur Baumfällung, Sigererstr. 11, Schr. Planungsreferat vom 15.10.14
+- TOP 4: Anträge
+- TOP 4.1.: Dauerausstellung im neuen Stadtviertel Freiham
+- TOP 4.2.: Breitbandausbau Sachstandsbericht
+- TOP 4.3.: Errichtung eines zeitlich beschränkten Halteverbots in der Feuerhausstraße zur Erhöhung der Schulwegsicherheit
+- TOP 4.4.: Beschilderung der Kronwinkler Straße im verkehrsberuhigten Bereich
+- TOP 4.5.: Machbarkeitsstudie Böhmer Weiher
+- TOP 4.6.: Anfrage Autohändler Georg-Böhmer-Str. 1
+- TOP 4.7.: BA-eigenes Budget des BA 22; Jugendforum
+- TOP 4.8.: Erläuterungstafeln für Straßenschilder im 22. Stadtbezirk
+- TOP 5: Entscheidungen
+- TOP 1: Abfallentsorgungsanlage Rupert-Bodner-Str. 25; Prüfung, ob beantragte Änderung ohne Bebauungsplan zulässig ist Empfehlung Nr. 14-20 / E 00075 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 03.07.2014
+- TOP 2: Aufstellung eines Wartehäuschens an der Bushaltestelle ?Mariabrunner Straße? Empfehlung Nr. 14-20 / E 00069 der Bürgerversammlung des Stadtbezirkes 22 ? Aubing - Lochhhausen - Langwied am 03.07.2014
+- TOP 3: Lochhausener Straße stadtauswärts; Anbringung einer Haltlinie vor der Einmündung der Schussenrieder Straße
+- TOP 4: Freizeitanlage an der Sipplinger Straße; - Sanierung des Weges von der Mainaustraße zur Anlage (Antrag 1) - Behebung der Missstände (Antrag 2) Empfehlung Nr. 14-20 / E 00071 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 03.07.2014
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Veranstaltung im Freien auf Privatgrund / in einer städt. Grünanlage, hier: Teufelsberglauf - Crosslauf in der Aubinger Lohe am 09.11.14, Anhörung KVR vom 18.09.14
+- TOP 6.1.1.2.: REGSAM - ein starkes soziales Netzwerk für München, REGSAM-Ressourcen anpassen und verstetigen, Beschl. Kinder- und Jugendhilfeausschuss, hier: Anhörung Sozialreferat vom 12.09.14
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Resolution zur Flüchtlingsproblematik, Schr. OB vom 23.09.14
+- TOP 6.1.2.2.: Veranstaltungsübersicht Oktober, Schr. Kulturreferat vom 01.10.14
+- TOP 6.1.2.3.: Durchführung einer Stadtteilwoche oder Kulturtage im 22. Stadtbezirk, Schr. Kulturreferat vom 10.10.14
+- TOP 6.1.2.4.: Stadtteilcheck "Auf Herz und Rampen prüfen", Schr. Ref. f. Arbeit u. Wirtschaft vom 08.10.14
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.2.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.2.2.1.: Fragenkatalog Schulsituation im BA 22, Schr. Ref. f. Bildung u. Sport vom 11.07.14 (vertagt aus 09/14)
+- TOP 6.2.2.2.: Platzmangel an der Grundschule mit Tagesheim am Ravensburger Ring 37, Schr. 3. Bürgermeisterin vom 12.08.14
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.3.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.3.1.1.: Verkehrsplanung im Münchner Westen, Anhörung Planungsreferat vom 15.09.14
+- TOP 6.3.1.2.: Frühzeitige Information des BA's bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, hier: Anhörung des Direktorium vom 07.10.14
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.3.2.1.: Bau der P&R-Anlage am S-Bahnhalt Aubing, Schr. P+R GmbH vom 26.09.14
+- TOP 6.3.2.2.: Verkehrskonzept Aubing-Lochhausen-Langwied, Schr. Planungsreferat vom 22.09.14
+- TOP 6.3.2.3.: Barrierefreie Umgestaltung S-Bahn-Unterführung Aubing (Antrag 1), Schr. Planungsreferat vom 16.09.14
+- TOP 6.3.2.4.: Miserabler Zustand des Verbindungsweges Reichenaustraße - Wohnanlage Ramses, Schr. Baureferat vom 10.09.14
+- TOP 6.3.2.5.: Verschönerung der Fußgängerunterführung Limes-/Bodenseestraße, Schr. Baureferat vom 29.09.14
+- TOP 6.3.2.6.: Verkehrsrechtliche Anordnung, Feuerwehranfahrtszone Hans-Stützle-Str. 20, Schr. KVR vom 21.08.14
+- TOP 6.3.2.7.: Schaffung von Sitzmöglichkeiten an der Bushaltestelle Limesstraße, Schr. SWM vom 02.10.14
+- TOP 6.3.2.8.: Beleuchtung S-Bahnhof Leienfelsstraße Nordseite; Ausleuchtung der Behindertenaufgänge im S-Bahnhof Leienfelsstraße, Schr. RAW vom 29.09.14
+- TOP 6.3.2.9.: Durchfahrt von Lkw und Baustellenverkehr in der Kronwinkler Straße zwischen Aubing-Ost-Straße und Kastelburgstraße, Schr. KVR vom 30.09.14
+- TOP 6.3.2.10.: Verbesserung Verkehrssicherheit Ensemblebereich Aubing durch Ausweitung des Tempo 30 Bereichs ab Fabrikstraße in nördlicher Richtung, Schr. KVR vom 01.10.14
+- TOP 6.3.2.11.: Rundholzabgrenzung im Kurvenbereich Altostraße / Fichtenhof, Schr. Baureferat vom 01.10.14
+- TOP 6.3.2.12.: Unterbrochene Radverkehrsverbindungen von München-Freiham nach Gräfelfing und Lochham und fehlende Radverkehrseinrichtungen, Schr. Planungsreferat vom 06.10.14
+- TOP 6.3.2.13.: Planung und Freihaltung einer U-Bahntrasse von Pasing nach Freiham (Antrag Nr. 2), Schr. Planungsreferat vom 08.10.14
+- TOP 6.3.2.14.: Möglichkeiten zu sicheren Überquerung der Altenburgstraße auf Höhe der Haltestelle "Wertheimer Straße", Schr. KVR vom 07.10.14
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen (4)
+- TOP 6.4.1.1.: Kastelburgstr. 56-60, Neubau eines Wohnheimes für Wohnungslose - Vorbescheid, Anhörung Planungsreferat vom 25.09.14
+- TOP 6.4.1.2.: Rassogasse 7, DG-Ausbau (1 WE) mit Balkonanbau (Westen) und Gaubeneinbau (Nord+Süd), Treppenhauserneuerung, Nutzungsänderung im EG+OG - Tektur, Anhörung Planungsreferat vom 24.09.14
+- TOP 6.4.1.3.: Erlbachstr. 4, Neubau eines Mehrfamilienhauses (3 WE) mit Carport (3 Stpl.), Anhörung Planungsreferat vom 22.09.14
+- TOP 6.4.1.4.: Bebauungsplan mit Grünordnung Nr. 2068, Germeringer Weg (südlich), Freihamer Weg (westlich), Kunreuthstr. (westlich), Wiesentfelser Str. (westlich), Anton-Böck-Str. (beiderseits), S-Bahnlinie München - Herrsching (nördlich), Bodenseestr. (nördlich), verlängerte Freihamer Allee (östlich), Anhörung Planungsreferat vom 08.08.14 (vertagt aus 09/14)
+- TOP 6.4.1.5.: Papinstr. 47d - 47g: Ausbau von 4 Dachgeschossen mit je 2 Wohnungen, Anhörung Planungsreferat vom 06.10.14
+- TOP 6.4.1.6.: Bebauungsplan mit Grünordnung Nr. 2060 Freihamer Weg (östlich), Bahnlinie München - Buchloe (südlich), Colmdorfstr. (westlich), Pretzfelder Str. (nördlich), Anhörung Planungsreferat vom 09.10.14
+- TOP 6.4.1.7.: Kohlmeisenstr. 33, Neubau eines Einfamilien- und eines Mehrfamilienhauses (3 WE) mit Garage, Anhörung Planungsreferat vom 14.10.14
+- TOP 6.4.1.8.: Hellensteinstr. 56, Neubau eines Doppelhauses mit Garagen, Anhörung Planungsreferat vom 14.10.14
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (4)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk v. 25.08.-31.08.14, 01.09.-07.09.14, 08.09.-14.09.14, v. 15.09.-21.09.14, v. 22.09.-28.09.14, v. 06.10.-12.10.14, Schr. Planungsreferat vom 01.09.14, 09.09.14, 16.09.14, 23.09.14, 29.09.14, 13.10.14
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 01.09.14, 08.09.14, 15.09.14, 22.09.14, 29.09.14, 06.10.14, (N) 13.10.14
+- TOP 6.4.2.3.: Baumaßnahmen der SWM: - Wasserprojekt Altostraße, Schr. SWM vom 23.09.14 - Erdgasprojekt Hanfgartenstraße, Schr. SWM vom 19.09.14 - Fernwärmeprojekt Reichenaustr., Schr. SWM vom 29.09.14
+- TOP 6.4.2.4.: Dringlichkeitsantrag: Müllsituation am S-Bahnhof Aubing, Schr. Ref. f. Arbeit u. Wirtschaft vom 16.09.14
+- TOP 6.4.2.5.: Verschmutzung und Vermüllung am nördlichen Eingang des S-Bahnhofes Aubing, Ergebnis Ortstermin vom 11.09.14
+- TOP 6.4.2.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/26 Kastelburgstr. (nördlich), Kronwinkler Str. (beidseits), Industriestr. (östlich), Schr. Planungsreferat vom 01.09.14
+- TOP 6.4.2.7.: Verschmutzung der Aubinger Lohe; Errichtung einer Schranke an der Nord- und Südseite der Schwojerstraße, sowie Beschilderung, die Müllentsorgung untersagt, Schr. Baureferat vom 02.09.14
+- TOP 6.4.2.8.: Informationsflyer "Baumaßnahmen der SWM" 2. Halbjahr 2014 für den BA, Schr. SWM vom 29.09.14
+- TOP 6.4.2.9.: Prüfung der Möglichkeit von Wohnbebauung im Gewerbegebiet an der Rupert-Bodner-Straße, Schr. Planungsreferat vom 24.09.14
+- TOP 6.4.2.10.: Lärmschutz Fa. BTM, Schr. Ref. f. Gesundheit u. Umwelt vom 02.10.14
+- TOP 6.4.2.11.: Mobilfunk; Suchkreismeldung im Suchkreis M-Lochhausen, Suchkreis-Nr.: MY5210 375245, Planung eines neuen Mobilfunkstandortes, Schr. Ref. f. Gesundheit u. Umwelt vom 01.10.14
+- TOP 6.4.2.12.: Vollz. d. Allg. Eisenbahngesetzes, Plangenehmigung nach § 18, 18b AEG für den Rückbau eines 15-kV-Gebäudes in München-Aubing, Varnhagenstr. 43, Bahnstrecke 5520 München-Pasing - Buchloe, km 8,500 - 8,600, Schr. Planungsreferat vom 15.09.14
+- TOP 6.4.2.13.: Erlass einer Satzung für das Gebiet zwischen Stierbergerstraße und Wiesentfelser-/Altenburgstraße, östlich und westlich der Limesstraße für die ausschließliche Zulassung von Walm- oder Satteldächer
+- TOP 6.4.2.14.: Raumordnerisches Entwicklungskonzept München Südwest - Schlussbericht, Schr. Planungsreferat vom 24.09.14
+- TOP 7: Anhörungen / Stellungnahmen (5)
+- TOP 7.1.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, Anhörung Direktorium vom 07.10.14
+- TOP 8: Unterrichtungen / Bekanntgaben (5)
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Bergsonstr., Schr. Sozialreferat vom 23.09.14 - Am Langwieder Bach, Schr. Sozialreferat vom 18.09.14 - Bergsonstr., Schr. Sozialreferat vom 11.09.14 - Ebracher Str., Schr. Sozialreferat vom 04.09.14 (N) - Erlbachstr., Schr. Sozialreferat vom 08.10.14 (N) - Erlbachstr., Schr. Sozialreferat vom 10.10.14
+- TOP 8.2.: Europe Direct Informationen 04/2014, Schr. Ref. f. Arbeit u. Wirtschaft vom 22.09.14
+- TOP 8.3.: Unveränderte Fortführung "Club Bar Happy End", Lochhausener Str. 106, Schr. KVR vom 03.09.14
+- TOP 8.4.: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle, Schr. Direktorium vom 06.10.14
+- TOP 8.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 08.10.14: - Raumordnerisches Entwicklungskonzept München Südwest: Bekanntgabe der Projektergebnisse
+- TOP 10.2.: Beschluss der Vollversammlung vom 01.10.14: - Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.14: - Infokampagne zum sozialverträglichen Immobilienkauf - München öffnet sein Herz endlich auch für Motorradfahrer! - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung im Zeitraum vom 01.01.14-30.06.14
+- TOP 10.4.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 23.09.14: - Stellungnahme des LH München zu den Verhandlungen des transatlantischen Handels- und Investitionsabkommens zwischen der EU und USA
+- TOP 10.5.: Beschluss des Bauausschusses vom 23.09.14: - Naherholungsgebiet "Langwieder Seen", Fuß- und Radwegerschließung , Route 3 (Eschenrieder Str.)
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: - Ausbau der Bahnunterführung Bodenseestraße - Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten - Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren
+- TOP 10.7.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 14.10.14: Stellungnahme der LHM zu den Verhandlungen des transatlantischen Handels- und Investitonsabkommens zwischen der EU und USA
+- TOP 10.8.: Beschluss des Verwaltungs- und Personalausschusses vom 24.09.14: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter auch wenn diese keinen Wohnsitz im Stadtbezirk haben
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Vollz. d. Bundesjagdgesetzes (BJagdG) und des Bay. Jagdgesetzes (BayJG), hier: Eindämmen des Fuchsbandwurms durch Auslegen von Ködern im Stadtgebiet, Schr. BA 20 vom 16.09.14
+- TOP 11.2.: Einladung Das Referat für Bildung und Sport trifft die Bezirksausschüsse am 26.11.14 um 16.00 Uhr (bis ca. 18.00 Uhr), Bayerstr. 28, Raum 5.074, Schr. Ref. f. Bildung u. Sport vom 12.09.14
+- TOP 11.3.: Einladung zum Fachforum "Nah- und Fernwärmenetz" am Mittwoch, 15.10.14, Morgenforum "Flexibiliät im Bauen" am Dienstag, 21.10.14 und Fachforum "Faszination Beton" am Mittwoch, 22.10.14 im Bauzentrum München, Willy-Brandt-Allee 10
+- TOP 11.4.: Einladung Bürgerforum Altenpflege am 28.10.14, 18.00 Uhr im Großen Sitzungssaal im Rathaus am Marienplatz
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 19.11.2014 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12.2.: Unterausschusssitzungen: - Soziales, Familie, Senioren, Kultur: Do., 16.10., 18.00 Uhr, Stadtteilladen, Limesstr. 111 - Bildung, Schule, Sport: Mi., 15.10., 18.00 Uhr, Stadtteilladen, Limesstr. 111 - Verkehrsinfrastruktur: Di., 14.10., 19.00 Uhr, Stadtteilladen, Limesstr. 111 - Planung, Bauen, Umwelt: Mo., 13.10., 19.00 Uhr, Bay. Schnitzel- u. Hendlhaus, Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 3.1: Baumschutzbeauftragte
