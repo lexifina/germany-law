@@ -1,0 +1,73 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-10-22T16:02:00+02:00
+- Ende: 2014-10-22T18:58:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8490
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8490
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224799.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224799.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224799.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitgliedes - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Grünordnungsplan 2025 - einstimmig beschlossen
+- TOP 5: Öffentliche Toilette - zur Kenntnis genommen
+- TOP 6: Anfrage CDU: Maßnahmen gegen Flughafenparker - verwiesen
+- TOP 7: Anfrage FDP: Bombenfunde Reitzensteinkaserne - beantwortet
+- TOP 8: Anfrage CDU: Kampfmittelaltlasten Reitzenstein - beantwortet
+- TOP 9: Anfrage FDP: Ladestationen Fahrzeuge Elektroantrieb - beantwortet
+- TOP 10: Anfrage Grüne: Trollys des Flughafens - beantwortet
+- TOP 11: Anfrage Grüne: Buslinie 730 ab Freiligrathplatz - verwiesen
+- TOP 12: Anfrage CDU: Studentenwohnheim/günstige Studentenwohnungen - verwiesen
+- TOP 13: Anfrage CDU: Zweiter Eingang Friedrich-Rückert-Gymnasium - beantwortet
+- TOP 14: Anfrage Helmke: Living Westfalia - beantwortet
+- TOP 15: Anfrage Helmke: Rath S-Bahnhof - verwiesen
+- TOP 16: Anfrage Körner: BA Mettlacher Straße 13 - beantwortet
+- TOP 17: Anfrage Peters: Gaslaternen - beantwortet
+- TOP 18: Anfrage Körner: Ablagen für Pfandflaschen - beantwortet
+- TOP 19: Anfrage SPD: Spielhalle Matthiaskirchweg - verwiesen
+- TOP 20: Anfrage SPD: zentrum plus Lichtenbroich - beantwortet
+- TOP 21: Antrag CDU und Bü90/Grüne: "Schulen"-Informationsrunde - einstimmig beschlossen
+- TOP 22: Antrag FDP/CDU/Grüne: Flughafenparker - einstimmig beschlossen
+- TOP 23: Antrag CDU: Ampelschaltung Münsterstraße/Wrangelstraße - einstimmig beschlossen
+- TOP 24: Antrag CDU: Parkplatz Mörsenbroicher Ei/Heinrichstraße 155 - einstimmig beschlossen
+- TOP 25: Antrag mehrere: Blumenwiesen - einstimmig beschlossen
+- TOP 26: Antrag SPD: Bürgersaal - mehrheitlich beschlossen
+- TOP 27: Interfraktioneller Antrag: Wartehäuschen - einstimmig beschlossen
+- TOP 28: Antrag Körner + CDU: Kürtenstraße 164 - mehrheitlich beschlossen
+- TOP 29: Antrag CDU: Rather Broich, Einfahrt SElbescker Straße - mehrheitlich beschlossen
+- TOP 30: Antrag mehrere: Bänke Parkanlage - einstimmig beschlossen
+- TOP 31: Antrag CDU + Körner: unerlaubte Durchfahrt - einstimmig beschlossen
+- TOP 32: Antrag CDU: Änderung der Bezirkssatzung - zurückgezogen
+- TOP 33: Beratung Haushalt 2015 - mehrheitlich beschlossen
+- TOP 34: HH-Antrag CDU: Beleuchtung Fußweg Kittelbach - mehrheitlich beschlossen
+- TOP 35: HH-Antrag CDU: Lichtquelle St.-Franziskus-Straße - mehrheitlich beschlossen
+- TOP 36: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 37: HH-Antrag SPD: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 38: HH-Antrag CDU: Überplanung Unterrather-/Kalkumer - mehrheitlich beschlossen
+- TOP 39: HH-Antrag CDU: JFE Lichtenbroich - mehrheitlich beschlossen
+- TOP 40: HH-Antrag SPD: JFE Lichtenbroicher Weg - mehrheitlich beschlossen
+- TOP 41: HH-Antrag gemeinsam: Klinke II. Bauabschnitt - mehrheitlich beschlossen
+- TOP 42: HH-Antrag SPD: II. Bauabschnitt Klinke - mehrheitlich beschlossen
+- TOP 43: HH-Antrag CDU: Mittel für Jubiläumsveranstaltung - mehrheitlich beschlossen
+- TOP 44: HH-Antrag mehrere: 1000 Bänke - mehrheitlich beschlossen
+- TOP 45: HH-Antrag SPD: Radweg Münsterstraße - mehrheitlich beschlossen
+- TOP 46: HH-Antrag SPD: Überplanung Hülsmeyerplatz - mehrheitlich beschlossen
+- TOP 47: HH-Antrag SPD: Erneuerung/Reparatur Fahrradwege Unterrath - einstimmig beschlossen
+- TOP 48: HH-Antrag CDU, Bü90/Grüne, FDP: Pflegeintervalle Straßenbegleitgrün - mehrheitlich beschlossen
+- TOP 49: HH-Antrag Bü90/Grüne, CDU und FDP: Fahrradbox Deutsche Bahn Flughafen Bahnhof - mehrheitlich beschlossen
+- TOP 50: HH-Antrag Linke: Bezirksbezogene Haushaltsansätze - mehrheitlich abgelehnt
+- TOP 51: BSA Ammerweg Umbau Tennenspielfeld Kunstrasen AuF - einstimmig beschlossen
+- TOP 52: Trödelmarkt Rather Broich 2. Halbjahr 2015 - einstimmig beschlossen
+- TOP 53: Widmung von Straßen - zur Kenntnis genommen
+- TOP 54: Zuschussvergabe und Förderung Dritter 2014 - einstimmig beschlossen
+- TOP 55: Terminplanung für die Sitzungen der BV 6 - zur Kenntnis genommen
+- TOP 56: Mitteilungen der Verwaltung - zur Kenntnis genommen
