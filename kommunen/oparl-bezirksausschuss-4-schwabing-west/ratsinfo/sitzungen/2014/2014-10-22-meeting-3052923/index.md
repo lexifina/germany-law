@@ -1,0 +1,58 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052923
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052923
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Bürger: Information der GEZ bei Ab- bzw. Ummeldung von Senioren sicherstellen
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Genehmigung des Nutzerbedarfsprogramms für das Bauvorhaben Mainzer Straße: Errichtung eines Wohngebäudes mit Wohneinheiten für den kommunalgeförderten Mietwohnungsbau (KomPro/B) und einer integrierten Kindertageseinrichtung mit 2 Kinderkrippen- und 2 Kindergartengruppen Anhörung zum Beschlussentwurf für den Bildungsausschuss vom 05.11.2014
+- TOP 2.2.: Finanzierung der beiden Bänke vor dem Nordbad aus dem BA-Budget: Bestellung städtischer Leistungen beim Baureferat
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1.: Sailerstr. 5, Einzelhandel mit Obst und Gemüse: Genehmigung einer Freischankfläche
+- TOP 2.2.: Blumenverkaufsplatz in der Friedrich-/Hohenzollernstraße: Antrag des Landesverbandes der Marktkaufleute auf Weiterbetrieb nach Aufstellung von Bank und Baum
+- TOP 2.1: Wirtschaft
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Kathi-Kobus-Str. 3: Neubau eines Mehrfamilienhauses
+- TOP 2.1.2.: Hohenzollernstr. 61/RGB: DG-Abbruch und Wiederaufbau mit Einbau dreier Wohneinheiten
+- TOP 2.1.3.: Tektur Georg-Birk-Straße: Neubau einer Wohnanlage (49 WE) mit Gaststätte und Tiefgarage
+- TOP 2.1.4.: Ainmillerstr. 38: Umbau DG-Wohnung VGB
+- TOP 2.1.5.: Ansprengerstr. 6: DG-Abbruch (inkl. 6 WE) und Wiedererrichtung (15 WE), energetische Bestandsmodernisierung mit Heizungserneuerung und WDV-System, Anbau von Vorstellbalkonen und Aufzugsanlagen sowie Abbruch der alten Balkone (Ansprengerstr. 6/Cherubinistr. 5+7/Destouchesstr. 43-47)
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Die Grünen: Fortsetzung der Kampagne ?Radlhauptstadt München?
+- TOP 1.2.: Bürger: Stau auf der Schleißheimer Straße zwischen Petuelring und Karl-Theodor-Straße
+- TOP 1.3.: Bürger: Maßnahmen gegen das Missachten der Tempo-30-Regelung in der Kaiserstraße
+- TOP 1.4.: Bürger: Entfernung bzw. Versetzen der Litfaßsäule an der Ecke Winzerer-/Saarstraße
+- TOP 1.5.: Mehrere Anwohner: Keine Errichtung eines Stellplatzes für die Münchner Tierrettung gegenüber Apianstr. 8
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Bauerstr. 5: Rückschnitt einer Buche
+- TOP 2.1.2.: Einbau von Unterflurwertstoffcontainern an den Standorten a) Adams-Lehmann-Str. 87 b) Therese-Studer-Straße / Gustav-Landauer-Bogen c) Therese-Studer-Straße gegenüber Hausnr. 15 Erneute Behandlung mit zusätzlichen Informationen des Abfallwirtschaftsbetriebs
+- TOP 2.1.3.: Winzererstr. 142: Fällung einer Birke und einer Eberesche
+- TOP 2.1.4.: Schleißheimer Str. 115 (Innenhof): Fällung eines Spitzahorn
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Agnesstr. 59
+- TOP 2.2.2.: Parksituation am Mildred-Scheel-Bogen: Parkscheibenzone als Zwischenlösung?
+- TOP 2.2.3.: Verkehrssicherheit für Radfahrer in der Clemensstraße: Rückmeldung des KVR mit der Bitte um Terminvorschläge für Ortstermin
+- TOP 2.2.1.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des KVR zur BA-Satzung ? Anhörung zu einem Antrag des BA 7 Sendling-Westpark
+- TOP 2.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
