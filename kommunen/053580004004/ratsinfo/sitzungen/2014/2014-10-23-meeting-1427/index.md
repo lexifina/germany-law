@@ -1,0 +1,56 @@
+# Gemeinderat (3. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-10-23T18:00:00+02:00
+- Ende: 2014-10-23T22:05:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYuejTLOCjGpj0uyo3ynYCc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1427
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdhclr_pmK5iiyfxT_OOjSZHzIFtK4uk8rsI8oyEquuK/Bekanntmachung_Gemeinderat_23.10.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZco_kMeTC0F7Nby9tomOiO7YqVWhKVB2UjzEt_rhRei3/Oeffentliche_Niederschrift_Gemeinderat_23.10.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Vereidigung und Einführung des Bürgermeisters - Ohne AbstimmungNach seiner Vereidigung übernimmt Bürgermeister Claßen die Leitung der Sitzung. Er schlägt vor, die Tagesordnung um folgende Punkte zu erweitern:A.2.Einführung und Verpflichtung eines neuen Ratsmitgliedes (SV-Nr. 144/2014)A.8.Neubesetzung v
+- TOP 2.: Einführung und Verpflichtung eines neuen Ratsmitgliedes - Ohne Abstimmung
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.08.2014 -öffentlicher Teil-
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Bebauungsplan 38 N - 1. Änderung - An den Pferdsbenden - a.) Abschluss eines städtebaulichen Vertrags gem. § 11 BauGB zur Aufstellung der 1. Änderung des Bebauungsplans 38 N - An den Pferdsbenden - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13 Abs. 2 Ziff. 2 und 3 BauGB i.V.m. § 13a BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Beschluss über die Empfehlungen des Wahlprüfungsausschusses
+- TOP 6.1: Gültigkeit der Gemeinderatswahl am 25.05.2014 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Erlass der Satzung über die Erhebung von Gebühren nach § 7 Absatz 1 KAG NRW für Verbandslasten der Wasser- und Bodenverbände (Gewässerunterhaltungsgebührensatzung) - 17 Ja-Stimme(n), 5 Nein-Stimme(n), 3 Stimmenthaltung(en)Ratsherr Krapp bittet darum, den Rat schon vorab über die endgültigen Gebührensätze zu unterrichten.
+- TOP 7.2: 7. Änderung der Abfallentsorgungssatzung; Einführung der „blauen“ Papiertonne“ - 20 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.: Neubesetzung von Ausschüssen und Gremien - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Anträge von Fraktionen
+- TOP 9.1: Antrag der GL-Fraktion hier: Baumschutzsatzung - 20 Ja-Stimme(n), 2 Nein-Stimme(n), 3 Stimmenthaltung(en)
+- TOP 10.: Finanzen, Haushalt
+- TOP 10.1: Kosten einer überörtlichen Prüfung durch die Gemeindeprüfungsanstalt NRW (GPA NRW) - 19 Ja-Stimme(n), 2 Nein-Stimme(n), 4 Stimmenthaltung(en)
+- TOP 10.2: Asylbewerberleistungsgesetz; überplanmäßige Aufwendungen - Einstimmig, 0 Enthaltung(en)
+- TOP 10.3: Außerplanmäßige Bereitstellung von Haushaltsmitteln für die Erneuerung des Daches der Großsporthalle - Einstimmig, 0 Enthaltung(en)
+- TOP 10.4: Sportheim Aldenhoven; Überplanmäßige Ausgaben - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Ausbau der Radroute Aachen - Jülich - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Antrag der FWG-Fraktion hier: Sachstandsbericht WOGA - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.08.2014 -nichtöffentlicher Teil-.
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Erwerb von zwei Ackerparzellen - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 4.1: Satzungsänderung der Verbandswasserwerk Aldenhoven GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Umstellung der Straßenbeleuchtung auf LED-Technik, 1. Bauabschnitt - Einstimmig, 1 Enthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der GL-Fraktion hier: Übernahme von Holzmengen aus Fällaktionen des Bauhofes - Ohne Abstimmung
+- TOP 6.: Gremienangelegenheiten
+- TOP 6.1: Berichte aus den Gremien
+- TOP 7.: Beauftragung zur Beschaffung eines Tanklöschfahrzeuges TLF 4000 mit Gruppenkabine - Einstimmig, 1 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
