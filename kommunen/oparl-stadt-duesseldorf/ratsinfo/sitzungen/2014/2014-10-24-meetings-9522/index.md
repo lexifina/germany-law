@@ -1,0 +1,62 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-10-24T16:00:00+02:00
+- Ende: 2014-10-24T18:37:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9522
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9522
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224913.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224913.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00224913.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Abbruchantrag Urdenbacher Dorfstraße 59 b - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: CKW-Grundwasserverunreinigung Hilden/Benrath - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 9: Grünordnungsplan 2025
+- TOP 10: Am Mönchgraben / Flenderstraße - zur Kenntnis genommen
+- TOP 11: Festlegung der Sitzungstermine für das Jahr 2015 - zur Kenntnis genommen
+- TOP 12: Anfrage: Sozialer Wohnungsbau und Mietwohnungen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 13: Anfrage: Aufstellung von Ladestationen für Elektrofahrzeuge im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 14: Anfrage: Fahrradboxen für "Bike&Ride" am Bahnhof Benrath - zur Kenntnis genommen
+- TOP 15: Antrag: Einseitiges Parkverbot in der Einbahnstraße Am Zunder - zur Kenntnis genommen
+- TOP 16: Antrag: Grünschnitt an der Bahlenstrasse - zur Kenntnis genommen
+- TOP 17: Antrag: Sanierung Rheinufer Benrath-Urdenbach - zur Kenntnis genommen
+- TOP 18: Antrag: Errichtung eines Bürgersteigs Hügelstraße - zur Kenntnis genommen
+- TOP 19: Antrag: Rhein-Ruhr-Express: Sachstand Infrastrukturausbau in Düsseldorf, Bezirk 9 - zur Kenntnis genommen
+- TOP 20: Antrag: Radhauptnetz - zur Kenntnis genommen
+- TOP 21: Antrag: Planungshinweiskarte - zur Kenntnis genommen
+- TOP 22: Antrag: Relief Hallenbad Benrath - zur Kenntnis genommen
+- TOP 23: Antrag: ThyssenKrupp-Gelände - zur Kenntnis genommen
+- TOP 24: Antrag: Verfügungsmittel St. Sebastianus Schützenbruderschaft, Installation Stromverteilungskastens - zur Kenntnis genommen
+- TOP 25: Antrag: Verfügungsmittel Märchenfieber - zur Kenntnis genommen
+- TOP 26: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist e.V. - zur Kenntnis genommen
+- TOP 27: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist e.V. - zur Kenntnis genommen
+- TOP 28: Antrag: Verfügungsmittel Förderverein der Theodor-Heuss-Schule - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel Weihnachtsbaum für Hassels - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel Pauls-Mühler Jecke e.V.; Veedelszooch 2015 - zur Kenntnis genommen
+- TOP 31: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 32: Haushaltsplanberatungen - zur Kenntnis genommen
+- TOP 33: Antrag: Modernisierung Tennenspielfeld Sportanlage TSV Urdenbach - zur Kenntnis genommen
+- TOP 34: Antrag: Modernisierung Hauptkampfbahn BSA Am Wald 130 - zur Kenntnis genommen
+- TOP 35: Antrag: Brücke über Werstener Str./Südpark - zur Kenntnis genommen
+- TOP 36: Antrag: Nutzungskonzept Brachgelände Koblenzer Straße - zur Kenntnis genommen
+- TOP 37: Städtische Gemeinschaftsgrundschule Garather Straße, Dependance Urdenbacher Allee 91, Dach-, Fassad - zur Kenntnis genommen
+- TOP 38: Anfrage: Bepflanzung der Insel im Weiher des Schlossparks Benrath - zur Kenntnis genommen
+- TOP 39: Antrag: Änderungsantrag zu TOP 23 (ThyssenKrupp-Gelände) - zur Kenntnis genommen
+- TOP 40: Antrag: Zu den Bezirksbezogenen Haushaltsansätzen 2015 - zur Kenntnis genommen
+- TOP 41: Antrag: Eigenständiger Haushaltsentwurf der Bezirksvertretungen - zur Kenntnis genommen
+- TOP 42: Antrag: Lärmschutz A59 - zur Kenntnis genommen
+- TOP 43: Antrag: Abänderungsantrag zu TOP 32 - zur Kenntnis genommen
+- TOP 44: Antrag: Verfügungsmittel für Jubiläumsveranstaltung anlässlich des 40-jährigen Bestehens - zur Kenntnis genommen
+- TOP 45: Antrag: Verfügungsmittel Aktionsgemeinschaft Benrath e.V. - zur Kenntnis genommen
