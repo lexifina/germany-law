@@ -1,0 +1,89 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2014-10-24T16:00:00+02:00
+- Ende: 2014-10-24T20:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2884
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2884
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4.1: Umbesetzungen / Zusätzl. beratende Mitglieder JHA - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Bildung und Besetzung des Komitees für Partnerschaften und internationale Beziehungen (HA031209-0827 - einstimmig zugestimmt
+- TOP 7: Bildung der Arbeitsgruppe Personal - einstimmig zugestimmt
+- TOP 8: Antrag der Krieger Grundstück GmbH auf Änderung der Ordnungsbehördlichen Verordnung zur Öffnung des - mehrheitlich zugestimmt
+- TOP 9: Stadtwappensatzung - einstimmig zugestimmt
+- TOP 10: Neuabschluss des Gaskonzessionsvertrages - mehrheitlich zugestimmt
+- TOP 11: Mitgliedschaft IR Neuss Landesintegrationsrat - einstimmig zugestimmt
+- TOP 12: Wahl Delegierte Mitgliederversammlung - einstimmig zugestimmt
+- TOP 13: Wahl Delegierte Hauptausschuss Landesintegrationsrat - einstimmig zugestimmt
+- TOP 14: Jahresabschluss GMN 2013 - einstimmig zugestimmt
+- TOP 15: Dienstanweisung zur Übertragung von Ermächtigungen im Rahmen des Jahresabschlusses - einstimmig zugestimmt
+- TOP 16: Vorprüfung über die Gültigkeit der Wahl zum Rat der Stadt Neuss sowie der Wahl zum Integrationsrat - einstimmig zugestimmt
+- TOP 17: Feststellung des Jahresabschlusses 2013 der Liegenschaften und Vermessung Neuss (LVN) und Beschluss - einstimmig zugestimmt
+- TOP 18: Freithof - Platzgestaltung westl. Bereich - mehrheitlich zugestimmt
+- TOP 19: BP 118/5 - Weckhoven, Hülchrather Str. - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 20: Gestaltungsbeirat - einstimmig zugestimmt
+- TOP 21: Markierung von Schutzstreifen - Nordkanalallee - einstimmig zugestimmt
+- TOP 22: Ausbau der Straße "An der Obererft" - einstimmig zugestimmt
+- TOP 23: Innenstadtstärkungsprogramm - mehrheitlich zugestimmt
+- TOP 24: Unterausschuss Mobilität - einstimmig zugestimmt
+- TOP 25: Meertal, Fahrbahnaufweitung im Einmündungsbereich Berhäuschensweg - einstimmig zugestimmt
+- TOP 26: Kaiser-Friedrich-Straße: Anbindung eines Geh-/Radweges an die Fahrbahn - einstimmig zugestimmt
+- TOP 27: Querungshilfen Gladbacher Straße - einstimmig zugestimmt
+- TOP 28: Wirtschaftsplan 2014 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP 29: Benennung von sachkundigen Männern und Frauen - einstimmig zugestimmt
+- TOP 30: Bedarfsplan 2014 Kinderbetreuung in Neuss - einstimmig zugestimmt
+- TOP 31: Ausbau der Betreuungsplätze in Kindertageseinrichtungen für die Jahre 2014 ff. - einstimmig zugestimmt
+- TOP 32: Bildung und Besetzung des Unterausschusses Kinder - einstimmig zugestimmt
+- TOP 33: Benennung der Mitglieder für die Kommission für das Kleingartenwesen - einstimmig zugestimmt
+- TOP 34: Benennung der Mitglieder für die Baumkommission - einstimmig zugestimmt
+- TOP 35: Landwirtschaftlicher und naturnaher Ausbau Regenrückhaltebecken Allerheiligen B-Süd - einstimmig zugestimmt
+- TOP 36: Teilnahme der Stadt Neuss als Pilotkommune am Projekt "Stadtgrün - Artenreich und Vielfältig" - einstimmig zugestimmt
+- TOP 37: Tennishalle - einstimmig zugestimmt
+- TOP 38: Gesamtschule Nordstadt: Maßnahmen und Kosten - einstimmig zugestimmt
+- TOP 39: Zusammenführung der Gesamtschule an der Erft am Standort Aurinstraße: Planung und Kostenschätzung - einstimmig zugestimmt
+- TOP 40: Zuschüsse zum Betrieb der Mensa an der Sekundarschule Neuss - einstimmig zugestimmt
+- TOP 41: Beschluss gemäß § 46 Abs. 6 SchulG NRW – Aufnahme an Gymnasien und Gesamtschulen - einstimmig zugestimmt
+- TOP 42: Satzung zur Änderung der Entwässerungssatzung der InfraStruktur Neuss vom 16.12.2010 - einstimmig zugestimmt
+- TOP 43: Benennung der Teilnehmer für die 9. Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - einstimmig zugestimmt
+- TOP 44: 10. Satzung zur Änderung der Hauptsatzung - einstimmig zugestimmt
+- TOP 45: Genehmigung der Dringlichkeitsentscheidung Nr. 19 - mehrheitlich zugestimmt
+- TOP 46: Genehmigung der Dringlichkeitsentscheidung Nr. 20: Grundschlue Allerheiligen - einstimmig zugestimmt
+- TOP 46.1: Genehmigung Dringlichkeitsentscheidung Nr. 18 - einstimmig zugestimmt
+- TOP 47: Einbringung Haushalt 2015 - verwiesen
+- TOP 48: Jahresabschluss 2013 - einstimmig zugestimmt
+- TOP 49: Besetzung der Gesellschafterversammlungen in städtischen Beteiligungsgesellschaften - einstimmig zugestimmt
+- TOP 50: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Sanierung der Schultoiletten - mehrheitlich zugestimmt
+- TOP 51: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Einrichtung einer Taschengeldbörse - mehrheitlich zugestimmt
+- TOP 52: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Sitzordnung im Rat - verwiesen
+- TOP 53: Antrag der FDP-Fraktion betr.: Anpassung der Sitzordnung im Rat - zur Kenntnis genommen
+- TOP 54: Antrag der FDP-Fraktion betr.: Kommunale Zwangsabgabe verhindern - mehrheitlich abgelehnt
+- TOP 55: Antrag der FDP-Fraktion betr.: Planungen Schützenaufmarschgelände - mehrheitlich abgelehnt
+- TOP 56: Antrag der FDP-Fraktion betr.: Kongress "Sozialer Wohnungsbau in Neuss" - mehrheitlich abgelehnt
+- TOP 57: Antrag der Fraktionen SPD und FDP betr.: Transparenz bei der Annahme und Vergabe von Spenden - verwiesen
+- TOP 58: Antrag der Fraktion DIE LINKE betr.: Änderung der Geschäftsordnung des Rates der Stadt Neuss - einstimmig zugestimmt
+- TOP 59: Antrag der Fraktion DIE LINKE betr.: Gedenken Widerstandskämpfer - zur Kenntnis genommen
+- TOP 60: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 61: Anfrage der FDP-Fraktion betr.: Flächennutzungsplan - zur Kenntnis genommen
+- TOP 62: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 62.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 62.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 62.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 62.4: Anfrage der Fraktion DIE LINKE betr.: Schulveranstaltungen mit der Bundeswehr in Neuss - zur Kenntnis genommen
+- TOP 62.5: Anfrage der Fraktion DIE LINKE betr.: Richtlinie zum Umgang mit dem Stadt-Kurier - zur Kenntnis genommen
+- TOP 63: Kenntnisnahme üpl./apl. Aufwendungen/Auszahlungen IV/2013 - II/2014 - zur Kenntnis genommen
+- TOP 64: Erweiterung des Straftatbestandes der Abgeordnetenbestechung und Ehrenordnung des Rates der Stadt Ne - zur Kenntnis genommen
+- TOP 65: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 66: Sitzungskalender des Rates und der Ausschüsse 2015 - zur Kenntnis genommen
+- TOP 67: V 348/1 - Furth Lebensmittelmarkt - zur Kenntnis genommen
+- TOP 68: Einwohnerfragestunde - zur Kenntnis genommen
