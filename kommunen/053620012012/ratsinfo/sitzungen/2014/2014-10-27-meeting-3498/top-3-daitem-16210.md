@@ -1,0 +1,7 @@
+# TOP 3.: Beschaffung von 61 Atemschutzgeräten + Zubehör für Feuerwehreinsätze
+
+- Sitzung: Vergabe- und Liegenschaftsausschuss (44. Sitzung) (2014-10-27)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/16210
+- Ergebnis: (kein Text vorhanden)
