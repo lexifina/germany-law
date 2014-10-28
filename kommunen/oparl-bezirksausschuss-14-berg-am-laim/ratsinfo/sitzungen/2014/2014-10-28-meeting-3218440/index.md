@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-10-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218440
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218440
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Hansjakobstraße / Roßsteinstraße - Projektplanung Tiefbaumaßnahme (vertagt aus der Sitzung vom 30.09.2014)
+- TOP 2.2.: (E) Rosenheimer Str. 145h - Antrag auf Sperrzeitaufhebung "Crowns Club"
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1: Bereich Planung, Bau, Wohnen, Umwelt (1)
+- TOP 3.1.1: Planungsangelegenheiten / Bauvorhaben (1)
+- TOP 3.1.1.1.: Stadtquartiersreparatur am Leuchtenbergring
+- TOP 3.1.1.2.: Altöttinger Str. 31 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.2: Wohnen (1)
+- TOP 3.1.3: Umwelt
+- TOP 3.1.3.1.: Vollzug des Bundesjagdgesetzes und des Bayerischen Jagdgesetzes - hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet - Antrag des BA 20
+- TOP 3.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (1)
+- TOP 3.2.1.: Mehr Geld für Ampelbau in München - Bevölkerungs- und Verkehrsentwicklung Rechnung tragen
+- TOP 3.2.2.: Sicheren Radweg an der Leuchtenberg-Unterführung schaffen
+- TOP 3.2.3.: Einrichtung einer Fahrradstraße in der Michaeliburgstraße - Bürgerantrag
+- TOP 3.2.4.: Parkscheibenzone in der Englmannstraße - Bürgerantrag
+- TOP 3.2.5.: KulturBürgerHaus Berg am Laim: Bericht zum aktuellen Sachstand und ggf. Beschluss über das weitere Vorgehen
+- TOP 3.3: Bereich Bildung, Betreuung, Familien und Sport (1)
+- TOP 3.3.1.: Ausweisung einer Volleyball-Spielfläche in Berg am Laim
+- TOP 3.4: Bereich Soziales und Integration (1)
+- TOP 3.4.1.: REGSAM - Ein starkes soziales Netzwerk für München - Anhörung zur Beschlussvorlage des Sozialreferates
+- TOP 3.4.2.: Errichtung eines Begegnungszentrums für Kinder, Jugendliche, Familien und Senioren im 14. Stadtbezirk - Träger; AKA Aktiv für interkulturellen Austausch e.V.
+- TOP 3.5: Bereich Budget / Organisation (1)
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse - Evangelische Jugend der Kirchengemeinde Rogatekirche / Offenbarungskirche
+- TOP 3.5.2.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 3.5.3.: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle
+- TOP 3.6: Baumschutz (1)
+- TOP 3.6.1.: Rosenheimer Str. 143a
+- TOP 3.6.2.: Wildenwarter Str. 21
+- TOP 3.6.3.: Arnweg 4
+- TOP 3.6.4.: Hachinger-Bach-Str. 35
+- TOP 3.6.5.: Gustav-Schwab-Straße 3 - 11
+- TOP 3.6.6.: Mutschellestr. 9
+- TOP 3.6.7.: Randorfer Str. 3 b
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1: Bereich Planung, Bau, Wohnen, Umwelt (2)
+- TOP 4.1.1: Planungsangelegenheiten / Bauvorhaben (2)
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Sanierungsgebiet "Innsbrucker Ring / Baumkirchner Straße" - Bebauungsplan mit Grünordnung Nr. 2079 (Lärmschutzbebauung Innsbrucker Ring) - Antwort des Planungsreferates auf die Stellungnahme des BA 14 vom 08.07.2014
+- TOP 4.1.1.3.: Beschlussvollzugskontrolle - Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014 - 30.06.2014 - Sitzungsvorlagen-Nr. 14-20 / V 01317
+- TOP 4.1.1.4.: Infokampagne zum sozialverträglichen Immobilienverkauf - Sitzungsvorlagen Nr. 14-20 / V 01097
+- TOP 4.1.1.5.: Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich), Bahnlinie München-Rosenheim (südlich) im 14. Stadtbezirk Berg am Laim - 1. Innere Erschließung - Neubau der Erschließungsstraße U-1695 und der festgesetzten Dienstbarkeitsflächen 2. Umbau des Knotens Baumkirchner Straße / Truderinger Straße - Bedarfs- und Konzeptgenehmigung - Sitzungsvorlagen Nr. 14-20 / V 01083
+- TOP 4.1.2: Wohnen (2)
+- TOP 4.1.3: Umweltangelegenheiten
+- TOP 4.2: Bereich Stadtteilkultur, Verkehr und Gewerbe (2)
+- TOP 4.2.1.: München öffnet sein Herz endlich auch für Motorradfahrer - Sitzungsvorlagen Nr. 14-20 / V 01275
+- TOP 4.2.2.: Radverkehr; Freigabe des Gehwegs (Z 239 StVO) in der St.-Veit-Straße zwischen Kreillerstraße und Truderinger Straße mit dem Zusatz "Radfahrer frei" - Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 4.2.3.: Benennung des neugestalteten Platzes an der Baumkirchner Straße "Grüner Markt"
+- TOP 4.2.4.: Reinigung des neugestalteten Platzes an der Baumkirchner Straße "Grüner Markt"
+- TOP 4.2.5.: Protokoll zum Jour Fixe der Bezirksausschüsse mit dem Kulturreferat
+- TOP 4.3: Bereich Bildung, Betreuung, Familien und Sport (2)
+- TOP 4.4: Bereich Soziales und Integration (2)
+- TOP 4.5: Bereich Budget / Organisation (2)
+- TOP 4.5.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben - Sitzungsvorlagen Nr. 14-20 / V 01006
+- TOP 4.5.2.: Pädagogische Farm Berg am Laim - Bericht über das Klassenprojekt
+- TOP 4.6: Baumschutz (2)
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.4: Unterausschuss Soziales / Integration
+- TOP 5.1.5: Unterausschuss Budget / Organisation
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
