@@ -1,0 +1,7 @@
+# TOP 5: Verkehrsberuhigung des Ortskerns Gräfrath
+
+- Sitzung: Bezirksvertretung Gräfrath (3. Sitzung) (2014-10-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11817
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/21237
