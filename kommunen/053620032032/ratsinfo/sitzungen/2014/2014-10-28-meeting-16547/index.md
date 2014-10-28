@@ -1,0 +1,68 @@
+# Stadtrat (4. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-10-28T17:00:00+01:00
+- Ende: 2014-10-28T20:55:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWT2BjwLtpny-XxGlilm1e0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16547
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfAVvEL8uqR2DA0VpGEp5GzUZwIPgKV7pHU_1jkYI1lY/Bekanntmachung_Stadtrat_28.10.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRfj7uOxJPRpuC0ph9640vyCufyMUMTCNKh7EMP8xxPg/Oeffentliche_Niederschrift_Stadtrat_28.10.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Beschlussfassung über die Gültigkeit der Kommunalwahl 2014 hier: Wahl des Rates der Kolpingstadt Kerpen vom 25.05.2014
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung des Sozialausschusses hier: Antrag der SPD-Fraktion
+- TOP 3.2: Umbesetzung des Ausschusses für Stadtplanung und Verkehr hier: Antrag des Behindertenbeirates
+- TOP 3.3: Besetzung der Räte der städtischen Kindertageseinrichtungen im Stadtgebiet der Kolpingstadt Kerpen
+- TOP 3.4: Umbesetzung des Umweltausschusses hier: Antrag der CDU-Fraktion
+- TOP 3.5: Besetzung des Ausschusses für Sport, Freizeit und Kultur hier: Antrag der Linksfraktion
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau in der Kolpingstadt Kerpen
+- TOP 4.2: Satzung über die Festlegung von Mindest- und Höchstsätzen beim Ersatz von Verdienstausfall für beruflich selbstständige Angehörige der Feuerwehr Kolpingstadt Kerpen nach dem Gesetz über den Feuerschutz und die Hilfeleistung (FSHG NRW)
+- TOP 4.3: Entgeltordnung für die Leistungen der Brandschutzdienststelle der Kolpingstadt Kerpen
+- TOP 4.4: Satzung über die Erhebung von Entgelten für die Leistungen bei der Festlegung von Brand- und Rettungssicherheitswachdiensten sowie der Gestellung von Brandsicherheitswachen
+- TOP 4.5: Änderung der Geschäftsordnung für den Rat der Kolpingstadt Kerpen und seine Ausschüsse; hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 4.6: Satzung zur Festlegung der Zahl der in den Rat der Stadt Kerpen zu wählenden Vertreter/innen hier: Antrag der Fraktion Bündnis 90/Die Grünen - (kein Text vorhanden)
+- TOP 5.: Erhöhung der Zuwendungen an die Fraktionen und Gruppen des Kreistages hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Soziale Infrastruktur Manheim-neu: Weitere Vorgehensweise bei den Planungen für das Bürgerzentrum und den Standort am Marktplatz
+- TOP 6.2: Lärmmessungen im Stadtteil Buir / Verlängerung des bestehenden Lärmschutzwalls an der A4 hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 6.3: 71. Änderung des Flächennutzungsplanes "Hubertusbusch", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 6.4: Bebauungsplan KE 263, 3. Änderung "Zum Hubertusbusch" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 6.5: Veränderungssperre für den Geltungsbereich des Bebauungsplanes 263, 3. Änderung "Zum Hubertusbusch" im Stadtteil Kerpen
+- TOP 6.6: Überarbeitete Richtlinien für die Grundstücksvergabe im Gebiet der Entwicklungsmaßnahme Vogelrutherfeld Nördlich Heppendorfer Str., 5. Bauabschnitt
+- TOP 7.: Sanierung der Erftlagune
+- TOP 8.: Planung der Fortsetzung der Sanierung und der Erneuerung der Einrichtung der Biologieräume in der Europaschule hier: Aufhebung des Sperrvermerks
+- TOP 9.: Bereitstellung von überplanmäßigen Haushaltsmitteln für die bauliche Unterhaltung städtischer Gebäude
+- TOP 10.: Unterbringung von Flüchtlingen in der Kolpingstadt Kerpen
+- TOP 11.: Personal-/Stellenplanangelegenheiten
+- TOP 11.1: Externe Untersuchung der Arbeitsorganisation und der Qualitätsstandards im Bereich der Erzieherischen Hilfen des Jugendamtes (Bericht über Teilergebnis)
+- TOP 11.2: Bereitstellung von Ausbildungsplätzen für das Jahr 2015
+- TOP 11.3: 2. KiBiz-Revision
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Drogenhandel auf dem Mastenweg im Stadtteil Sindorf
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Abschluss einer Konsensvereinbarung zwischen Flächenpool NRW und der Kolpingstadt Kerpen
+- TOP 17.: Veräußerung der alten Grundschule Buir - (kein Text vorhanden)
+- TOP 18.: Anpassung des Tarifes im AST (Anrufsammeltaxi)-Verkehr
+- TOP 19.: Auftragsvergaben
+- TOP 19.1: Auftragvergabe: Vertragsverlängerung Senkenreinigung für die Jahre 2015 und 2016
+- TOP 19.2: Auftragsvergabe: Lieferung eines Mobilbaggers mit Kontergewicht
+- TOP 19.3: Auftragsvergabe: Bauleistungen Kindertageseinrichtung "Spielkiste" im Stadtteil Horrem
+- TOP 20.: Projekt Manheim-Neu hier: Änderungsvertrag
+- TOP 21.: Anmietung von Wohncontainern für die Unterbringung von Flüchtlingen
+- TOP 22.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 23.: Mitteilungen
+- TOP 24.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 26.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
