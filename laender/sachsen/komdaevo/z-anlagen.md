@@ -1,15 +1,15 @@
 # Anlagen
 Anlage 1 (zu § 3 Abs. 1)
 Monatliche Dienstaufwandsentschädigung für Landräte und Beigeordnete
-Landräte
-Einwohnerzahl des Landkreises | Landräte | Beigeordneter, als erster allgemeiner Vertreter | Weitere Beigeordnete
-Einwohnerzahl des Landkreises | Landräte | Beigeordneter, als erster allgemeiner Vertreter | weitere Beigeord- nete
+Dienstaufwandsentschädigung
+Einwohnerzahl des Landkreises | Landräte | Beigeordneter, | weitere Beigeordnete
+Einwohnerzahl des Landkreises | Landräte | Beigeordneter, als erster allgemeiner Vertreter | weitere Beigeordnete
 bis 200 000 | 412 EUR | 206 EUR | 176 EUR
 über 200 000 | 440 EUR | 221 EUR | 191 EUR
 Anlage 2 (zu § 3 Abs. 1)
 Monatliche Dienstaufwandsentschädigung für Bürgermeister und Beigeordnete
 Dienstaufwandsentschädigungen
-Einwohnerzahl der Gemeinde | Bürgermeister | Beigeordneter, als erster allgemeiner Vertreter | Weitere Beigeordnete
+Einwohnerzahl der Gemeinde | Bürgermeister | Beigeordneter | weitere Beigeordnete
 Einwohnerzahl der Gemeinde | Bürgermeister | Beigeordneter, als erster allgemeiner Vertreter | weitere Beigeord- nete
 bis 2 000 | 194 EUR | – | –
 bis 5 000 | 212 EUR | – | –
@@ -25,8 +25,8 @@ bis 500 000 | 506 EUR | 300 EUR | 242 EUR
 über 500 000 | 606 EUR | 317 EUR | 253 EUR
 Anlage 3 (zu § 3 Abs. 1)
 Monatliche Dienstaufwandsentschädigung für Verbandsvorsitzende von Verwaltungsverbänden
-Verbandsvorsitzende
-Summe der Einwohnerzahlen der Mitgliedsgemeinden des Verwaltungsverbandes | Verbandsvorsitzender
+Dienstaufwandsentschädigung
+Summe der Einwohnerzahlen | Verbandsvorsitzender
 Summe der Einwohnerzahlen der Mitgliedsgemeinden des Verwaltungsverbandes | Verbandsvorsitzender
 bis 5 000 | 102 EUR
 bis 7 500 | 114 EUR
