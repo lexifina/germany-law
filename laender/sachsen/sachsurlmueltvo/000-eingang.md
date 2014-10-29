@@ -1,6 +1,7 @@
 # Verordnung der Sächsischen Staatsregierung über den Urlaub, den Mutterschutz und die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Urlaubs-, Mutterschutz- und Elternzeitverordnung – SächsUrlMuEltVO)
 erlassen als Artikel 1 der Verordnung der Sächsischen Staatsregierung zur Regelung des Urlaubs-, Mutterschutz- und Elternzeitrechts und zur Änderung der Beurteilungsverordnung
 Vom 16. Dezember 2013
+Rechtsbereinigt mit Stand vom 29. Oktober 2014
 Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -34,5 +35,5 @@ Abschnitt 4 Elternzeit
 § 26 Entlassung während Elternzeit
 § 27 Erstattung von Kranken- und Pflegeversicherungsbeiträgen
 § 28 Übergangsregelungen
-Abschnitt 5 Fernbleiben vom Dienst
-§ 29 Fernbleiben vom Dienst
+Abschnitt 5 (aufgehoben)
+§ 29 (aufgehoben)
