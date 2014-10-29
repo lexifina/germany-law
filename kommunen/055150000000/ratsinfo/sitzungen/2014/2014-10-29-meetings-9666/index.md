@@ -1,0 +1,59 @@
+# 2. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-10-29T17:05:00+01:00
+- Ende: 2014-10-29T19:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9666
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9666
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00361570.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Ratsfraktion an den Rat Nr. A-R/0008/2014 - einstimmig beschlossen
+- TOP 2.2: Antrag der Ratsfraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0014/2014 vom 21.03.2014 "Koma-Trinken von Kindern und Jugendlichen in Münster" - einstimmig geändert beschlossen
+- TOP 2.3: Vereinbarkeit von Familie und Beruf verbessern - Betriebs-Kita in der Loddenheide schaffen - Antrag der FDP-Fraktion (A-R/0009/2014) - einstimmig beschlossen
+- TOP 3: Beitrag zur Unterstützung von Unwettergeschädigten - Sondertarif Stromkosten (ABV/0004/2014) - einstimmig beschlossen
+- TOP 3.1: Beitrag zur Unterstützung von Unwettergeschädigten - Sondertarif Stromkosten (ABV/0004/2014)
+- TOP 4: Jahresabschluss 2013 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 5: Jahresabschluss 2013 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2013 der AirportPark FMO GmbH - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2010 - 2012 (inkl. 2013) und Frauenförderplan 2014 - 2016 - einstimmig beschlossen
+- TOP 7.1: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2010 - 2012 (inkl. 2013) und Frauenförderplan 2014 - 2016
+- TOP 8: Bericht über die Re-Auditierung der Stadtverwaltung Münster mit dem Label "audit berufundfamilie" - zur Kenntnis genommen
+- TOP 9: Änderung der öffentlich-rechtlichen Vereinbarung zur Einrichtung eines Einheitlichen Ansprechpartners im Rahmen der Umsetzung der Europäischen Dienstleistungsrichtlinie - einstimmig beschlossen
+- TOP 10: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2013 - einstimmig beschlossen
+- TOP 11: Taxientgelte - ohne Beschlussfassung geschoben
+- TOP 12: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2014 - einstimmig beschlossen
+- TOP 13: Bürgerhaushalt 2014 - Einbringung der 95 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 14: Grundausrichtung des Beteiligungsmanagements im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 15: Anpassung der VGM-Fahrpreise im Stadtgebiet Münster zum 01. Januar 2015 - einstimmig beschlossen
+- TOP 16: Entwurf des Jahresabschlusses zum 31.12.2013 der Stadt Münster - einstimmig beschlossen
+- TOP 17: Erstellung einer Kindertageseinrichtung im Bereich der ehemaligen Oxford-Kaserne - mehrheitlich geändert beschlossen
+- TOP 18: Villa Interim - einstimmig beschlossen
+- TOP 19: Neue Raumstandards im Offenen Ganztag an Grundschulen in Münster - mehrheitlich geändert beschlossen
+- TOP 20: Kindertagesbetreuungsbericht 2014/2015 - einstimmig beschlossen
+- TOP 21: 2. Sachstandsbericht zur Umsetzung des Maßnahmenprogramms einer kindbezogenen Armutsprävention in Münster" - einstimmig beschlossen
+- TOP 22: Jugendhilfe an Förderschulen mit dem Schwerpunkt Lernen und emotionale und soziale Entwicklung - mehrheitlich geändert beschlossen
+- TOP 23: Ausbau und Weiterentwicklung der pädagogischen Angebote für Kinder und Jugendliche in Flüchtlingseinrichtungen - ohne Beschlussfassung geschoben
+- TOP 24: Münster-Pass: Zugangsverfahren für Familien mit Anspruch auf Kindergeldzuschlag (Anregung Nr. 2014-00032) - einstimmig beschlossen
+- TOP 25: Genehmigung einer Dringlichkeitsentscheidung: Zeitlich befristete Maßnahme zur Unterbringung von Flüchtlingen im Gebäude Warendorfer Straße 263 - Errichtungsbeschluss für den Umbau - einstimmig beschlossen
+- TOP 26: Durchführung einer Arbeitsmarktkonferenz - einstimmig geändert beschlossen
+- TOP 26.1: Durchführung einer Arbeitsmarktkonferenz
+- TOP 27: Wohnraumschutzsatzung - von der Tagesordnung abgesetzt
+- TOP 28: Beitritt zum Mayors Adapt - Intitiative des Konvent der Bürgermeister zur Anpassung an den Klimawandel - einstimmig beschlossen
+- TOP 29: Bauleitplanung
+- TOP 29.1: Stadtbezirk Mitte
+- TOP 29.1.1: Bebauungsplan Nr. 544 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 29.1.2: Bebauungsplan Nr. 570 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 29.2: Stadtbezirk West
+- TOP 29.2.1: Bebauungsplan Nr. 546 - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 30: Unternehmensgruppe Altenzentrum Klarastift: Besetzung der Aufsichtsräte - ohne Beschlussfassung geschoben
+- TOP 31: Verschiedenes
