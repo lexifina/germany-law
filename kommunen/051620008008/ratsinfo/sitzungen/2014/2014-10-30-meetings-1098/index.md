@@ -1,0 +1,120 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-10-30T18:10:00+01:00
+- Ende: 2014-10-30T20:56:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1098
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1098
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Resolution gegen Gewalt und Fremdenfeindlichkeit http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00055366.pdf
+- Ergebnisprotokoll: Resolution gegen Gewalt und Fremdenfeindlichkeit http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00055366.pdf
+- Wortprotokoll: Resolution gegen Gewalt und Fremdenfeindlichkeit http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00055366.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: UWG
+- TOP 3.1.1: UWG, Antrag Nr. 186/2014 - einstimmig
+- TOP 3.1.2: FDP, Antrag Nr. 178/2014 - einstimmig
+- TOP 3.2: FDP
+- TOP 3.2.1: FDP-Antrag Nr. 150/2014 - einstimmig
+- TOP 3.2.2: FDP, Antrag Nr. 152/2014 - einstimmig
+- TOP 3.2.3: FDP, Antrag Nr. 153/2014 - einstimmig
+- TOP 3.2.4: FDP, Antrag Nr. 154/2014 - einstimmig
+- TOP 3.2.5: FDP, Antrag Nr. 155/2014 - einstimmig
+- TOP 3.3: B 90/DIE GRÜNEN
+- TOP 3.3.1: B 90/Grüne, Antrag Nr. 179/2014 - einstimmig
+- TOP 3.3.2: ABG, Antrag Nr. 168/2014 - einstimmig
+- TOP 3.4: ABG
+- TOP 3.5: Mein Grevenbroich
+- TOP 3.5.1: Mein GV, Antrag Nr. 157/2014 - einstimmig
+- TOP 3.5.2: Mein GV, Antrag Nr. 169/2014 - einstimmig
+- TOP 3.5.3: Mein GV, Antrag Nr. 170/2014 - einstimmig
+- TOP 3.5.4: Mein GV, Antrag Nr. 171/2014 - einstimmig
+- TOP 3.5.5: Die Linke/Piraten Antrag Nr. 175/2014 - einstimmig
+- TOP 3.5.6: Die Linke/Piraten, Antrag Nr. 177/2014 - einstimmig
+- TOP 3.5.7: Die Linke/Piraten, Antrag Nr. 156/2014 - einstimmig
+- TOP 3.6: Die Linke/Piraten
+- TOP 3.7: Gemeinschaftsanträge
+- TOP 3.7.1: Resolution gegen Gewalt und Fremdenfeindlichkeit - einstimmig
+- TOP 3.7.2: CDU, Antrag Nr. 182/2014 - einstimmig
+- TOP 3.7.3: CDU, Antrag Nr. 183/2014 - einstimmig
+- TOP 3.7.4: CDU, Antrag Nr. 184/2014 - einstimmig
+- TOP 3.8: SPD
+- TOP 3.8.1: SPD, Antrag Nr. 180/2014 - einstimmig
+- TOP 3.8.2: SPD-Antrag Nr. 181/2014 - einstimmig
+- TOP 3.9: CDU
+- TOP 3.9.1: CDU, Antrag Nr. 185/2014 - einstimmig
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.3.1: UWG-Anfrage Nr. 166/14 - Kenntnisnahme
+- TOP 4.4: FDP
+- TOP 4.4.1: FDP, Anfrage Nr. 151/2014 - Kenntnisnahme
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.7.1: Mein GV, Anfrage Nr. 173/2014 - Kenntnisnahme
+- TOP 4.7.2: Mein GV, Anfrage Nr. 172/2014 - Kenntnisnahme
+- TOP 4.7.3: Mein GV, Anfrage Nr. 174/2014 - Kenntnisnahme
+- TOP 4.7.4: Die Linke/Piraten, Anfrage Nr. 176/2014 - Kenntnisnahme
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.8.1: Die Linke/Piraten, Anfrage Nr. 167/2014 - Kenntnisnahme
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Bekanntgabe APL/ÜPL - Kenntnisnahme
+- TOP 8: Haushalt 2015
+- TOP 9: Änderung der Geschäftsordnung für den Rat - Kenntnisnahme
+- TOP 10: Beteiligungsbericht 2013 - Kenntnisnahme
+- TOP 11: Gremien Dritter - einstimmig
+- TOP 12: Bestellung einer / eines ehrenamtlichen Behindertenbeauftragten - einstimmig
+- TOP 13: PersonalA
+- TOP 13.1: Tätigkeitsbericht der Gleichstellungsbeauftragten - Kenntnisnahme
+- TOP 14: HFD 04.09.2014
+- TOP 14.1: Verordnung über Verkaufsstellen - einstimmig
+- TOP 15: Beratungspunkte Ausschüsse
+- TOP 15.1: Neufassung der Satzung für das Jugendamt der Stadt Grevenbroich - einstimmig
+- TOP 15.2: Vertraglicher Zuschuss für die Katholische Kirchengemeinde St. Mauri in Höhe von 100 % des Trägerant - einstimmig
+- TOP 15.3: Neufestsetzung der Pflegesätze für die Kindertagespflege - einstimmig
+- TOP 16: Beantwortung Anträge
+- TOP 16.1: Mein GV, Antrag Nr. 114/2014 - Kenntnisnahme
+- TOP 17: Beantwortung Anfragen
+- TOP 17.1: Beantwortung Anfragen - Kenntnisnahme
+- TOP 17.2: Anfrage Nr. 148/2014 ABG - Unterbringung der Asylbewerber - Kenntnisnahme
+- TOP 17.3: Anfrage Nr. 143/2014 - Sachstandsbericht Feuerwache Lilienthalstraße - Kenntnisnahme
+- TOP 17.4: Abgabe Ausländerbehörde - Kostenentwicklung - Kenntnisnahme
+- TOP 17.5: Beantwortung Anfragen - Kenntnisnahme
+- TOP 17.6: Anti-Müll-Konzept (Mein GV) - Kenntnisnahme
+- TOP 17.7: Müll Waldwiese (Mein GV) - Kenntnisnahme
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: ehem. Grundschule Auf dem Wiler
+- TOP 18.2: Harnischstraße
+- TOP 18.3: Beantwortung
+- TOP 18.4: AK-Demografie
+- TOP 18.5: Kunstwerke
+- TOP 18.6: Brunnen
+- TOP 18.7: Radweg
+- TOP 18.8: Standsicherheit Baum
+- TOP 18.9: Internet
+- TOP 18.10: Deutschunterricht
+- TOP 18.11: Nachfrage Anfrage Nr. 86a/14
+- TOP 18.12: Nachfrage Anfrage Nr. 87a/14
+- TOP 18.13: Standartbericht
+- TOP 18.14: Spielplatzoptimierungsprogramm
+- TOP 18.15: Radfahrer
+- TOP 18.16: Baustelle
+- TOP 18.17: Entleerung
+- TOP 18.18: Facebook
+- TOP 18.19: Fahnen
+- TOP 18.20: Grundstück
+- TOP 18.21: Dr.-Hans-Wattler-Straße
+- TOP 18.22: Neue Feuerwache Frimmersdorf
+- TOP 19: Mitteilungen BM'in
+- TOP 19.1: Mitteilungen der Bürgermeisterin - Kenntnisnahme
+- TOP 19.2: Mitteilungen der Bürgermeisterin - Kenntnisnahme
