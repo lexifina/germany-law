@@ -1,0 +1,7 @@
+# TOP 1: Verpflichtung eines Ratsmitglieds
+
+- Sitzung: Rat (2014-10-30)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/191693
+- Ergebnis: zur Kenntnis genommen
