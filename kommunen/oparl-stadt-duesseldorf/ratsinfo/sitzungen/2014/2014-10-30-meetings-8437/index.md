@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-10-30T14:00:00+01:00
+- Ende: 2014-10-30T18:46:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8437
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8437
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00225168.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00225168.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00225168.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines Ratsmitglieds - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - zur Kenntnis genommen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage CDU: Salafisten sorgen für Unruhe im Viertel - beantwortet
+- TOP 5.2: Anfrage der Ratsfrau El Fassi: Beleidigungen und Übergriffe auf Mitarbeiter des OS - beantwortet
+- TOP 5.3: Anfrage SPD: Situation der Hebammen in Düsseldorf - beantwortet
+- TOP 5.4: Anfrage CDU-Stand der Gespräche mit der Deutechen Bahn - beantwortet
+- TOP 5.5: Anfrage der Ratsfrau Krüger: Unfassbares Känguru-Boxen bei der Rheinbahn - schriftlich beantwortet
+- TOP 5.6: Anfrage des Ratsherrn Maniera: Aktivitäten der Salafisten in Düsseldorf - schriftlich beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion Die Linke: Unterbringung von Wohnungslosen - schriftlich beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Maniera: Abgelehnte Asylbewerber - schriftlich beantwortet
+- TOP 5.9: Anfrage Die Linke: Personelle Engpässe im Gesundheitsamt - schriftlich beantwortet
+- TOP 5.10: Anfrage der FDP- Ratsfraktion: Bearbeitungszeiten im Standesamt - schriftlich beantwortet
+- TOP 5.11: Anfrage SPD: Neue Gesamtschule an attraktivem Standort - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Pfundner: Leerstand bei den ehemaligen Rheinbahn-Wohnungen - schriftlich beantwortet
+- TOP 6: Kämmererliste - zur Kenntnis genommen
+- TOP 7: Weitere Maßnahmen in 2014 zum Handlungskonzept Wiederaufbau des öffentlichen Grüns nach Sturm Ela - einstimmig beschlossen
+- TOP 7.1: Mittelbereitstellung zum Wiederaufbau des öffentlichen Grüns nach Sturm Ela - einstimmig beschlossen
+- TOP 8: Sportanlage Diepenstraße - Neubau Hockeyplatz (Neufassung) - einstimmig beschlossen
+- TOP 9: Klärwerk Nord, Automatisierung Schlammbehandlung (I 803060 8001) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 10: Stadtbahn U81, 1. Bauabschnitt Freiligrathplatz – Flughafen Terminal - zur Kenntnis genommen
+- TOP 10.1: Stadtbahn U81 - Entscheidungsgrundsätze Zuwendungsgeber - mehrheitlich beschlossen
+- TOP 10.2: ÄA Die Linke: U81 ersatzlos streichen - zur Kenntnis genommen
+- TOP 10.3: ÄA CDU: Stadtbahn U81 - zur Kenntnis genommen
+- TOP 11: Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der WHL - OVA 24.09.2014 - mehrheitlich beschlossen
+- TOP 11.1: ÄA Die Linke: Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 11.2: ÄA SPD,Bü90-Grü und FDP: Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - mehrheitlich beschlossen
+- TOP 12: 16. Deutscher Kinder- und Jugendhilfetag - einstimmig beschlossen
+- TOP 13: Annahme einer Spende im Zusammenhang mit dem Orkan Ela für die Einsatzverpflegung der Feuerwehr - einstimmig beschlossen
+- TOP 14: Einführung der Ehrenamtskarte NRW in Düsseldorf - einstimmig beschlossen
+- TOP 14.1: ÄA CDU-Ratsfraktion: Einführung einer Ehrenamtskarte in Düsseldorf - mehrheitlich beschlossen
+- TOP 15: Umbenennung von Teilen des Jan-Wellem-Platzes in Joachim-Erwin-Platz - mehrheitlich beschlossen
+- TOP 15.1: ÄA FDP: Umbenennung von Teilen des Jan-Wellem-Platzes in Joachim-Erwin-Platz - mehrheitlich abgelehnt
+- TOP 16: Theatermuseum - Änderung der Benutzungsordnung für das Dumont-Lindemann-Archiv - einstimmig beschlossen
+- TOP 17: Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 18: Benennung einer/ eines in der Jugendhilfe erfahrenen oder tätigen ausländischen Einwohnerin/ Einwohn - einstimmig beschlossen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 21: Anträge
+- TOP 21.1: Antrag Die Linke: TTIP verhindern - vertagt
+- TOP 21.1.1: ÄA Bü90/Grü: TTIP verhindern - vertagt
+- TOP 21.2: Antrag der CDU-Ratsfraktion: Neupositionierung der Brunnen in der Innenstadt - einstimmig beschlossen
+- TOP 21.3: Antrag Die Linke: Stadtwerke Düsseldorf zurückkaufen - mehrheitlich abgelehnt
