@@ -6,4 +6,3 @@ Inhaltsübersicht
 § 4 | Übergang von Absolventinnen und Absolventen der Sekundarschule der Erwachsenenschule (Vollzeitkurse) mit dem Mittleren Schulabschluss in das Kolleg
 § 5 | Berufstätigkeit
 § 6 | Wechsel innerhalb der Organisationsformen der einzelnen Bildungsgänge
-§ 7 | Außerkrafttreten
