@@ -1,0 +1,51 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-11-03T17:00:00+01:00
+- Ende: 2014-11-03T19:55:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTIyUHZzjV3gro8fc2YWBuM
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/3501
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXz_N5vwaHd4pDcEiay_8TA0FrhS92GCTB_fBNBfoJ1q/Bekanntmachung_Rat_03.11.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxXYhPFcv2MKcinjx64hwVeF8a9boMgVCaAqrpUru-f/Oeffentliche_Niederschrift_Rat_03.11.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Bestellung einer Schriftführerin - (kein Text vorhanden)
+- TOP 3.: Niederschrift vom 08.09.2014
+- TOP 4.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2015 - (kein Text vorhanden)
+- TOP 5.: Wirtschaftlichkeitsvergleich Rathaus B; Vorstellung Ergebnis Bezug: gemeinsamer Antrag CDU, SPD, GRÜNE und FDP vom 11.2.2013 Bezug: RAT 2.12.2013 - (kein Text vorhanden)
+- TOP 6.: Umbau Empfangsgebäude Bundesbahnhof hier: Bereitstellung überplanmäßiger Mittel für den Umbau - (kein Text vorhanden)
+- TOP 7.: Instandsetzung und Sanierung des Altgebäudes Clemens-August-Schule hier: Bereitstellung überplanmäßiger Mittel - (kein Text vorhanden)
+- TOP 8.: 1. Satzung zur Änderung der Satzung für die Durchführung von Bürgerentscheiden in der Stadt Brühl - (kein Text vorhanden)
+- TOP 9.: Verleihung des Ehrenringes der Stadt Brühl - (kein Text vorhanden)
+- TOP 10.: 21. Mitgliederversammlung "Gemeindekongress 2014" des Städte- und Gemeindebundes NRW am 20. November 2014 in Düsseldorf - (kein Text vorhanden)
+- TOP 10.1: 21. Mitgliederversammlung „Gemeindekongress 2014“ des Städte- und Gemeindebundes NRW am 20. November 2014 in Düsseldorf - (kein Text vorhanden)
+- TOP 11.: Umbesetzung in Ausschüssen
+- TOP 11.1: Entsendung sachkundiger Einwohnerinnen und Einwohner gem. § 58 Abs. 4 GO NW in den Sozialausschuss - (kein Text vorhanden)
+- TOP 11.2: Umbesetzung im Ausschuss für Planung und Stadtentwicklung Bezug: Antrag der SPD-Fraktion vom 27.10.2014
+- TOP 12.: Gedenken an die Opfer des Bombenangriffs vom 28.12.1944 hier: Antrag Pax Christi, Werner Höbsch, vom 5.9.2014 Bezug: HA 27.10.2014 - (kein Text vorhanden)
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.: Anträge
+- TOP 13.1: Einsparung der dritten Beigeordnetenstelle (Änderungsantrag zu §14 Satz 1 der Hauptsatzung) Bezug: Antrag der FDP-Fraktion vom 09.10.2014
+- TOP 13.2: Wirtschaftsförderung Bezug: Antrag der FDP-Fraktion vom 10.10.2014
+- TOP 13.2.1: Bericht zur Wirtschaftsförderung Bezug: Antrag der FDP-Fraktion vom 10.10.2014 - (kein Text vorhanden)
+- TOP 13.3: Freies WLAN für die Stadt Brühl Bezug: Antrag der Fraktion Linke&Piraten vom 08.10.2014
+- TOP 13.3.1: Freies WLAN für die Stadt Brühl; Antrag Fraktion LINKE & Piraten vom 08.10.2014 - (kein Text vorhanden)
+- TOP 13.4: Schlossstadt Brühl Bezug: Antrag der FDP-Fraktion vom 10.10.2014
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen
+- TOP 15.1: Auswirkungen des Freihandelsabkommen für die Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 12.09.2014
+- TOP 15.2: Anfrage der Fraktion die Linke & Piraten Partei vom 12.09.2014 zur "Transatlantic Trade and Investment Partnership (TTIP)" - (kein Text vorhanden)
+- TOP 15.3: Pflaster Uhlstraße
+- TOP 15.4: Hotel Projekt Belvedere
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Eingruppierung eines Beigeordneten - (kein Text vorhanden)
+- TOP 17.: Bericht über die 120. Sitzung des Aufsichtsrates der Stadtwerke Brühl GmbH am 11.03.2014 - (kein Text vorhanden)
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen
