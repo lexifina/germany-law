@@ -1,0 +1,6 @@
+# TOP 7: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 2. Sitzung des Haupt- und Finanzausschusses der Ortsgemeinde Rohrbach (2014-11-03)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2014-402-59%7Czt_0%7C2
