@@ -1,0 +1,7 @@
+# TOP 8: Haushaltsplan-Entwurf 2015
+
+- Sitzung: Ausschuss für Wohnungswesen und Modernisierung (2014-11-03)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/191798
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/73386
