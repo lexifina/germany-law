@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-11-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152345
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152345
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Willibaldstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Schulweghelfer/in an der Kreuzung Gotthardstraße / Riegerhofstraße
+- TOP 2.2.: Bündnis 90 / Die Grünen: Hinweis für Gedenktafel "Veteranen- und Kriegerverein Laim 1890 / 2010 e.V."
+- TOP 2.3.: Unterstützung der Resolution "München heißt Flüchtlinge willkommen" (> dazu Schreiben OB Reiter vom 23.09.14)
+- TOP 2.4.: Bündnis 90 / Die Grünen: Gartenstädte: Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick (Vertagung aus der BA-Sitzung am 16.09.14)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.715 Euro für die Beschaffung eines Schranks; Antragsteller: Laimerspielmäuse e.V. (Vertagung aus der BA-Sitzung vom 16.09.14) > dazu Schreiben der Antragsteller vom 15.10.14 - <div>vertagt</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Agricolastr. 58: Antrag auf Fällung von 1 Tanne
+- TOP 4.2.: Rattenhuberstr. 15: Antrag auf Fällung von 1 Eberesche
+- TOP 4.3.: Schreiben Direktorium vom 07.10.14: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung (Antrag des BA 7 Sendling-Westpark vom 08.07.14)
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 13.10.14: Lärmminderungsplanung / Lärmaktionsplan München; Lärmschutz an verschiedenen städtischen Straßen, Aufnahme verschiedener Straßen in den Lärmaktionsplan; u.a. Aufnahme der Fürstenrieder Straße in den Lärmaktionsplan MÜnchen als Untersuchungsgebiet (Antrag Nr. 08-14 / B 02383 des BA 25 vom 14.09.10);Anhörung zu einer Beschlussvorlage für den Umweltausschuss am 13.01.15
+- TOP 4.5.: Agricolastr. 53: Antrag auf Fällung von 1 Lärche und 1 Ahorn
+- TOP 4.6.: Schreiben Baureferat vom 04.09.14: Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim (Empfehlung Nr. 08-14 / E 00198 der Bürgerversammlung des 25. Stadtbezirkes Laim am 25.11.08); Fahrradproblematik am Laimer Tunnel: Schaffung von ausreichend und wetterfesten Abstellflächen außerhalb des Tunnels (Empfehlung Nr. 08-14 / E 00440 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.11.09); Ausarbeitung alternativer Parkmöglichkeiten für bis zu 1500 Fahrräder an der Laimer Unterführung (Empfehlung Nr. 08-14 / E 00465 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 24.11.09); Laimer Unterführung: Errichtung von doppelstöckigen Fahrradabstellanlagen (Empfehlung Nr. 08-14 / E 02104 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 21.11.13); Anhörung zur Beschlussvorlage des Bauausschusses vom 09.12.14 (Sitzungsvorlage Nr. 14-20 / V 01379) (Vertagung aus der BA-Sitzung vom 07.10.14)
+- TOP 4.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.10.14: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter - Stand und Ausblick; Anhörung zu Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 85a: Nutzungsänderung Physiotherapiepraxis (Laimer Bad) zu Wohnung; hier: Baupläne
+- TOP 5.2.: Camerloherstr. 87: Nutzungsänderung Physiotherapiepraxis (Laimer Bad) zu Wohnung; hier: Baupläne
+- TOP 5.3.: Landsberger Str. 183: Anbau eines gläsernen Außenaufzugs am westlichen Treppenhaus; hier: Baupläne
+- TOP 5.4.: Hans-Thonauer-Straße: Errichtung einer provisorischen Busabstellfläche (befristet bis 2018); hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 30.09.14: Einladung zur Fachveranstaltung "Selbstbestimmt leben in ambulant betreuten Wohngemeinschaften" am 20.11.14
+- TOP 6.2.: Schreiben Behindertenbeirat der LH München vom 06.10.14: Einladung zum Informations- und Austauschtreffen am 14.01.15
+- TOP 6.3.: Schreiben Kulturreferat vom 24.09.14: Stadtteilwoche 2015; Vorbereitungstreffen am 03.11.14 und 08.01.15 jeweils um 19.00 Uhr im Interim, Am Laimer Anger 2,
+- TOP 6.4.: Schreiben Direktorium vom Oktober 2014: Bürgerforum Altenpflege am 28.10.14
+- TOP 6.5.: Schreiben Kulturreferat vom 14.10.14: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen
+- TOP 6.6.: Terminplanung 2015
+- TOP 7: Protokolle
+- TOP 7.1.: Ortstermin UA Umwelt und Verkehr vom 01.10.14
+- TOP 7.2.: BA-Sitzung vom 07.10.14
+- TOP 7.3.: Sitzung UA Bildung und Sozialplanung vom 17.10.14
+- TOP 7.4.: Sitzung UA Kultur vom 21.10.14
+- TOP 7.5.: Sitzung UA Umwelt und Verkehr am 27.10.14
+- TOP 7.6.: Sitzung UA Bau vom 29.10.14
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben Direktorium vom 06.10.14: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle
+- TOP 8.3.: Schreiben Baureferat vom 22.09.14: Fahrradwege / Reinigung / Glasscherben (Antrag Nr. 14-20 / B 00284 vom 05.08.14)
+- TOP 8.4.: Schreiben Baureferat vom 08.10.14: Kreuzungsumbau Gotthardstraße / Willibaldstraße
+- TOP 8.5.: Schreiben Baureferat vom 06.10.14: Westendstraße (Nördlinger Straße bis Droste-Hülshoff-Straße - Fahrspur in Richtung BAB, Sanierung Fahrbahnabschnitt und Radweg
+- TOP 8.6.: Schreiben Baureferat vom 16.10.14: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen
+- TOP 8.7.: Schreiben Kulturreferat vom 30.09.14: Anmietung des Pavillons Fürstenrieder Str. 42 a für kulturelle Zwecke (Antrag Nr. 14-20 / B 00285 vom 05.08.14)
+- TOP 8.8.: Schreiben Kulturreferat vom 16.10.14: Entwurf Nutzerbedarfsprogramm Stadtteilkulturzentrum
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.10.14: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 15.09.-30.09.14
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.10.14: Vollzug der Baumschutzverordnung; Rattenhuberstr. 14
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.10.14: Berchemstr. 34; Erweiterung eines Mehrgenerationenhauses
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.10.14: Bauvorhaben Agricolastraße; Neubau 3er Wohngebäude (90 WE) mit Tiefgarage sowie Verbindungsbauten zur Perhamerstr. 78 d + f / Tektur
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 07.08.14: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Inderstorferstr. 38
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 22.10.14: Wahllokale in der Lukas-Schule; Protokoll des Gesprächs vom 14.10.14
+- TOP 8.15.: Schreiben Stadtkämmerei vom 10.10.14: Mehrjahresinvestitionsprogramm für die Jahre 2014-2018
+- TOP 8.16.: Schreiben Sozialreferat vom 01.10.14: Außenstelle Navigo des Münchner Waisenhauses, Queristr. 1
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 29.09.14: Informationsflyer "Baumaßnahmen der SWM"; 2. Halbjahr 2014 für den BA
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 29.09.14: Baumaßnahmen der Stadtwerke; Stichtag: 20.10.14
+- TOP 8.19.: Bautenliste vom 29.09.-05.10.14 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Helmpertstr. 19 b) Agnes-Bernauer-Str. 104
+- TOP 8.20.: Bautenliste vom 06.10.-12.10.14 1. Erstantragsverfahren a) Aindorferstr. 77b 2. Änderungsverfahren a) Agnes-Bernauer-Str. 73
+- TOP 8.21.: Bautenliste vom 13.10.-19.10.14 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 82 b) Fürstenrieder Str. 29
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.14: Gartenstädte; Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick; a) Historische Entwicklung, b) Geltende Rechtslage, c) Lösungsansätze, d) Anträge und Empfehlungen (Sitzungvorlage Nr. 14-20 / V 00909)
+- TOP 8.23.: Beschluss des Verwaltungs- und Personalausschusses vom 24.09.14: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben (Sitzungsvorlage Nr. 14-20 / V 01006)
+- TOP 8.24.: Beschluss der Vollversammlung vom 01.10.14: Auf Gewinnausschüttzung bei GWG und GEWOFAG auch nach 2019 verzichten (Sitzungsvorlage Nr. 14-20 / V 00959)
+- TOP 8.25.: Schreiben Pfarrverband Laim vom 22.09.14: Budget des BA 25; Zuschuss für das Pfarrfest der Pfarrei Zu den heiligen Zwölf Aposteln am 13.07.14
+- TOP 1.2: Bürgerpost an den BA
