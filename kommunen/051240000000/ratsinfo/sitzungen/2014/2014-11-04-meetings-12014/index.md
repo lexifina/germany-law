@@ -1,0 +1,54 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-11-04T16:02:00+01:00
+- Ende: 2014-11-04T17:33:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12014
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12014
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand: 24.10.14) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00172346.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00173596.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung sachkundige Einwohner
+- TOP 2: Bevölkerungsprognose - Präsentation der Verwaltung
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Jahresabschlüsse
+- TOP 3.1: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 3.2: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 4: Wirtschaftspläne
+- TOP 4.1: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 4.2: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 4.3: Wirtschaftsplan 2015 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 4.4: Wirtschaftsplan der Bergische Gesellschaft für Ressourceneffizienz mbH für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 5: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 5.1: Weiterentwicklung und Stärkung der Bergischen Kooperation - geändert beschlossen
+- TOP 5.1.1: Änderungsantrag zu VO/0709/14 (Neuf.) - Weiterentwicklung und Stärkung der Bergischen Kooperation - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2: Änderung des Gesellschaftsvertrages der EDW Energie-Dienstleistung Wuppertal GmbH - ungeändert beschlossen
+- TOP 5.3: Auslaufen der Bestandsbetrauungen in der ÖSPV-Finanzierung / Weiterentwicklung des VRR-Finanzierungssystems - ungeändert beschlossen
+- TOP 5.4: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2014 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 5.5: Bestellung eines Abschlussprüfers für die Lokalfunk Wuppertal Beteiligungsgesellschaft mbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Externe Einstellungen im Zeitraum Januar bis September 2014 - Entgegennahme ohne Beschluss
+- TOP 7.2: Umsetzung des Haushaltssanierungsplan 2012 -2021- Stand zum 30.09.2014 - Entgegennahme ohne Beschluss
+- TOP 7.3: Stand der Schulden und Kassenkredite zum 30.09.2014 - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: 4. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2015 - ungeändert beschlossen
+- TOP 8.1.1: 4. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2015 - Ergänzung - ungeändert beschlossen
+- TOP 8.2: Aufhebungssatzung zur Satzung über die Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 8.3: Vierte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 9.1: Antrag der FDP-Fraktion vom 11.02.2014 - Mehr Freiheit wagen - vertagen
+- TOP 9.2: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.09.2014 - Zukunft des Carnaper Platzes - zur Entscheidung verwiesen
+- TOP 9.3: Integriertes städtebaulichen Entwicklungskonzept Soziale Stadt Oberbarmen/Wichlinghausen - Fortschreibung 2015-2021 - ungeändert beschlossen
+- TOP 9.4: Integriertes Handlungskonzept Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Finanzwirtschaftlicher Zwischenbericht des WAW für das 1. Halbjahr 2014 - Entgegennahme ohne Beschluss
+- TOP 12: Berichte und Mitteilungen
