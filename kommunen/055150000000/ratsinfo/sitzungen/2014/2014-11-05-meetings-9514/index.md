@@ -1,0 +1,80 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-11-05T17:07:00+01:00
+- Ende: 2014-11-05T20:44:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9514
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9514
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00361899.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Kernprojekt ZeEUS (Zero Emission Urban Bus System) der EU
+- TOP 2.2: Geschäftsführung der Stadtwerke Münster GmbH
+- TOP 2.3: Kernprojekt ZeEUS der EU - Zuweisung eines Geschäftsführers
+- TOP 2.4: Kernprojekt ZeEUS der EU: Linie 14 - noch nicht verwirklichte Schnellladestationen
+- TOP 2.5: Kernprojekt ZeEUS der EU - Kosten
+- TOP 2.6: Bürgerbeteiligungsmodelle
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Container am Hoppengarten für Flüchtlinge weiter nutzen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 9.1: Zebrastreifen auf der Westhoffstraße - verwiesen
+- TOP 9.2: Bordstein an der Kanalbrücke der Manfred-von-Richthofen-Straße absenken - verwiesen
+- TOP 9.3: Ampelschaltung Warendorfer Straße/Ecke Friedrichstraße (NRW.BANK) - verwiesen
+- TOP 10: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2010 - 2012 (inkl. 2013) und Frauenförderplan 2014 - 2016 - einstimmig beschlossen
+- TOP 10.1: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2010 - 2012 (inkl. 2013) und Frauenförderplan 2014 - 2016
+- TOP 11: Bericht über die Re-Auditierung der Stadtverwaltung Münster mit dem Label "audit berufundfamilie" - zur Kenntnis genommen
+- TOP 12: Änderung der öffentlich-rechtlichen Vereinbarung zur Einrichtung eines Einheitlichen Ansprechpartners im Rahmen der Umsetzung der Europäischen Dienstleistungsrichtlinie - einstimmig beschlossen
+- TOP 13: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2013 - einstimmig beschlossen
+- TOP 14: Taxientgelte - einstimmig geändert beschlossen
+- TOP 14.1: Taxientgelte
+- TOP 15: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2014 - einstimmig beschlossen
+- TOP 16: Bürgerhaushalt 2014 - Einbringung der 95 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 17: Grundausrichtung des Beteiligungsmanagements im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 18: Anpassung der VGM-Fahrpreise im Stadtgebiet Münster zum 01. Januar 2015 - mehrheitlich beschlossen
+- TOP 19: Entwurf des Jahresabschlusses zum 31.12.2013 der Stadt Münster - einstimmig beschlossen
+- TOP 20: Erstellung einer Kindertageseinrichtung im Bereich der ehemaligen Oxford-Kaserne - mehrheitlich geändert beschlossen
+- TOP 21: Entwicklungen der Münsterschen Bäderlandschaft - Vorlage eingebracht
+- TOP 22: Villa Interim - einstimmig beschlossen
+- TOP 23: Neue Raumstandards im Offenen Ganztag an Grundschulen in Münster - vertagt
+- TOP 23.1: Neue Raumstandards im Offenen Ganztag an Grundschulen in Münster
+- TOP 24: Kindertagesbetreuungsbericht 2014/2015 - einstimmig beschlossen
+- TOP 25: 2. Sachstandsbericht zur Umsetzung des Maßnahmenprogramms einer kindbezogenen Armutsprävention in Münster" - mehrheitlich beschlossen
+- TOP 26: Jugendhilfe an Förderschulen mit dem Schwerpunkt Lernen und emotionale und soziale Entwicklung - einstimmig beschlossen
+- TOP 26.1: Jugendhilfe an Förderschulen mit dem Schwerpunkt Lernen und emotionale und soziale Entwicklung
+- TOP 27: Ausbau und Weiterentwicklung der pädagogischen Angebote für Kinder und Jugendliche in Flüchtlingseinrichtungen und Förderung der Integration in den Sportvereinen vor Ort - einstimmig beschlossen
+- TOP 27.1: Ausbau und Weiterentwicklung der pädagogischen Angebote für Kinder und Jugendliche in Flüchtlingseinrichtungen
+- TOP 28: Münster-Pass: Zugangsverfahren für Familien mit Anspruch auf Kindergeldzuschlag (Anregung Nr. 2014-00032) - mehrheitlich beschlossen
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung: Zeitlich befristete Maßnahme zur Unterbringung von Flüchtlingen im Gebäude Warendorfer Straße 263 - Errichtungsbeschluss für den Umbau - mehrheitlich beschlossen
+- TOP 30: Weiterer Betrieb des Gebäudes in Containerbauweise der Flüchtlingseinrichtung Hoppengarten 24/32 - mehrheitlich beschlossen
+- TOP 31: Durchführung einer Arbeitsmarktkonferenz - einstimmig beschlossen
+- TOP 31.1: Durchführung einer Arbeitsmarktkonferenz
+- TOP 31.1.1: Durchführung einer Arbeitsmarktkonferenz
+- TOP 32: Beitritt zum Mayors Adapt - Initiative des Konvent der Bürgermeister zur Anpassung an den Klimawandel - einstimmig beschlossen
+- TOP 33: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34: Unternehmensgruppe Altenzentrum Klarastift: Besetzung der Aufsichtsräte - einstimmig beschlossen
+- TOP 34.1: Unternehmensgruppe Altenzentrum Klarastift: Besetzung der Aufsichtsräte
+- TOP 35: Bauleitplanung
+- TOP 35.1: Stadtbezirk Münster-Mitte
+- TOP 35.1.1: Bebauungsplan Nr. 544 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 35.1.2: Bebauungsplan Nr. 570 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 36: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 37.1: Verbindliche Stichtagsregelung bei der Genehmigung von Verkaufssonntagen
+- TOP 37.2: TTIP, CETA und TiSA ablehnen - Kein Eingriff in die kommunale Selbstverwaltung - verwiesen
+- TOP 37.3: Ausstieg aus dem FMO - Jetzt! - verwiesen
+- TOP 37.4: 2,5-Mio-Topf - Sportvereine noch mehr einbinden - verwiesen
+- TOP 37.5: Die Stadt lädt die GAYCOM nach Münster ein - verwiesen
+- TOP 38: Verschiedenes
