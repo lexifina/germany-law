@@ -1,0 +1,65 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-11-05T16:03:00+01:00
+- Ende: 2014-11-05T16:25:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12090
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12090
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00172354.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00173800.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Vorstandsbezüge Stadtsparkasse Wuppertal
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE: Vorstandsbezüge Stadtsparkasse Wuppertal
+- TOP 2.2: Große Anfrage - Zukünftige Nutzung des Carnaper Platzes
+- TOP 2.2.1: Antwort auf die Große Anfrage der FDP-Fraktion: Zukünftige Nutzung des Carnaper Platzes
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gemäß § 24 der Gemeindeordnung - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Zukunft des Carnaper Platzes - vertagt auf Rat
+- TOP 4.1.1: Änderungsantrag der Fraktion PRO NRW/DIE REPUBLIKANER vom 04.11.2014 zu TOP 4.1: Zukunft des Carnaper Platzes - vertagt auf Rat
+- TOP 4.2: Realisierung einer Bergischen Multifunktions-Sport und Eventhalle - ungeändert beschlossen
+- TOP 4.3: TTIP – Auswirkungen weltweiter Handelsabkommen - ungeändert beschlossen
+- TOP 4.4: Antragsrecht für fraktionslose Ratsmitglieder / Änderung der Geschäftsordnung § 5 Absatz 2, Satz 2 - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Mehr Freiheit wagen
+- TOP 6: Ortsrecht
+- TOP 6.1: Aufhebungssatzung zur Satzung zur Erhebung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 6.2: Vierte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: 4. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2015 - vertagt auf Rat
+- TOP 7.1.1: 4. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2015 - Ergänzung - vertagt auf Rat
+- TOP 7.2: Umsetzung des Haushaltssanierungsplan 2012 -2021- Stand zum 30.09.2014 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung des Gesellschaftsvertrages der EDW Energie-Dienstleistung Wuppertal GmbH - ungeändert beschlossen
+- TOP 8.2: Weiterentwicklung des VRR-Finanzierungssystems - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 1166 - Wilhelmstraße / Rommelspütt - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau der städtischen Tageseinrichtung für Kinder Rödiger Straße 127 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Unterzeichnung der Verpflichtungserklärung der Bürgermeister „Mayors Adapt“ zu Maßnahmen zur Anpassung an den Klimawandel - geändert beschlossen
+- TOP 11.2: Regionales Strukturprogramm für die Förderperiode 2014 - 2020 - ungeändert beschlossen
+- TOP 11.3: Stadtumbau West/ Soziale Stadt Elberfelder Nordstadt/ Arrenberg: Fortschreibung des Integrierten Handlungsprogramms für die Bereiche 'Mirker Quartier' und 'Südstraße' - vertagt auf Rat
+- TOP 11.4: Integriertes städtebaulichen Entwicklungskonzept Soziale Stadt Oberbarmen/Wichlinghausen - Fortschreibung 2015-2021 - ungeändert beschlossen
+- TOP 11.5: Integriertes Handlungskonzept Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.6: Integriertes Handlungskonzept Innenstadt Barmen - ungeändert beschlossen
+- TOP 11.7: Schulentwicklungsplanung für die Berufskollegs der Stadt Wuppertal bis 2019 - ungeändert beschlossen
+- TOP 11.8: Antrag auf Genehmigung zur Errichtung eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.9: Weiterentwicklung und Stärkung der Bergischen Kooperation - vertagt auf Rat
+- TOP 11.9.1: Änderungsantrag zu VO/0709/14 (Neuf.) - Weiterentwicklung und Stärkung der Bergischen Kooperation - vertagt auf Rat
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Wahl der Mitglieder /Vertreter/innen für den Beirat bei der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 12.2: Bestellung von stellvertretenden sachkundigen Einwohnern/Einwohnerinnen für den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP 12.3: Antrag der SPD-Fraktion: Gremienbesetzung Seniorenbeirat - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzung Verbandsversammlung EKOCity Abfallwirtschaftsverband - ungeändert beschlossen
+- TOP 12.5: Umbesetzung Beirat der JVA-Ronsdorf - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennung - ungeändert beschlossen
