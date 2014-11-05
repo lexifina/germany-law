@@ -1,0 +1,75 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-11-05T17:00:00+01:00
+- Ende: 2014-11-05T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2326
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2326
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss Bürgerdienste - gewählt
+- TOP 6.2: Wahl eines Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 6.3: Wahl eines Bürgerdeputierten für den Ausschuss Verwaltung und Gleichstellung - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - gewählt
+- TOP 8: Vorlagen zur Kenntnisnahme - beantwortet
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Verkehrssituation Morusstrasse - beantwortet
+- TOP 9.2: Leonardo-da-Vinci-Schule - beantwortet
+- TOP 9.3: Krisengipfel Bürgerämter - beantwortet
+- TOP 9.4: Abriss preisgünstiger Wohnungen? - beantwortet
+- TOP 9.5: „Starke Netze gegen Gewalt“ - beantwortet
+- TOP 9.6: Notunterkünfte - beantwortet
+- TOP 9.7: Stadtteilmütter - beantwortet
+- TOP 9.8: Haus- und Fahrbahnschäden - beantwortet
+- TOP 9.9: Neukölln ist vorne! (Bundesweit bei Mietsteigerungen) - beantwortet
+- TOP 9.10: Wird Geld aus Brennpunktschulprogramm vollständig ausgegeben? - beantwortet
+- TOP 9.11: Open Antrag: Lessinghöhe´ - beantwortet
+- TOP 9.12: Frauenschmiede vor dem Aus? - beantwortet
+- TOP 9.13: Offene Anträge - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Was tut der Bezirk Neukölln zur Umsetzung des Stadtentwicklungsplans (StEP) Klima? - beantwortet
+- TOP 10.2: Vermeidung überlanger Wartezeiten in der Rettungsstelle des Vivantes Krankenhauses Berlin-Neukölln - beantwortet
+- TOP 10.3: Projekt "Stadtteilmütter" in vollem Umfang erhalten - beantwortet
+- TOP 10.4: Buckower Felder - beantwortet
+- TOP 10.5: Einbürgerungsfeiern - in der BVV abgelehnt
+- TOP 10.6: Verleihung der Neuköllner Ehrennadel - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Mietpreis- und Belegungsbindung festschreiben - in der BVV abgelehnt
+- TOP 11.2: MASTERPLAN CAMPUS EFEUWEG - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Umfragen zur Nutzung der Jugendfreizeiteinrichtungen in Neukölln - schriftlich beantwortet
+- TOP 12.2: Schließung des Frauentreffpunkt Schmiede - schriftlich beantwortet
+- TOP 12.3: 50% Kostensteigerung durch PeWoBe? - vertagt
+- TOP 12.4: Wohnungsleerstand und "geschütztes Marktsegment" - vertagt
+- TOP 12.5: Zwangsverrentung durch das Jobcenter - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Befestigung des Fußgängerweges zwischen Bruno-Taut-Ring und Gielower Straße - überwiesen
+- TOP 14.2: Aktionsfonds für Toleranz und Demokratie - überwiesen
+- TOP 14.3: Vorbereitung der Ablösung von Windows 7 - überwiesen
+- TOP 14.4: Langzeiterwerbslose nicht vorzeitig in Rente schicken - überwiesen
+- TOP 14.5: Öffentliche Toilette in der Parchimer Allee - überwiesen
+- TOP 14.6: Mehrsprachige Lesungen in der Stadtbibliothek - überwiesen
+- TOP 14.7: Plattformneutrale Fachverfahren - überwiesen
+- TOP 14.8: Anwohner frühzeitig über die zweite Flüchtlingsunterkunft informieren - überwiesen
+- TOP 14.9: Freihaltung einer Radverkehrsanlage - überwiesen
+- TOP 14.10: Pfandflaschen gehören nicht in den Mülleimer! - überwiesen
+- TOP 14.11: Wohnungsleerstand beseitigen, geschütztes Marktsegment bedienen - überwiesen
+- TOP 14.12: Informationen über Schule in leichter Sprache - überwiesen
+- TOP 14.13: Beratungsangebot vom DAZ fortsetzen - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Milieuschutzstudie Reuterkiez öffentlich machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Verlegung der Buslinie 171 aus Alt-Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Altglassammelbehälter nicht entfernen - mit Abschlussbericht zur Kenntnis genommen
