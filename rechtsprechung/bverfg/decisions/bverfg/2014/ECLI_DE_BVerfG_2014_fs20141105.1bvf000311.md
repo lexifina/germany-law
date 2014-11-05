@@ -1,0 +1,824 @@
+---
+ecli: "ECLI:DE:BVerfG:2014:fs20141105.1bvf000311"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvF 3/11"
+decided: "2014-11-05"
+typ: "U"
+bverfge: "FALSE"
+zitiervorschlag: "BVerfG, Urteil des Ersten Senats vom 5. November 2014\n- 1 BvF 3/11 -, Rn. 1-73,\n                    https://www.bverfg.de/e/fs20141105_1bvf000311"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2014/11/fs20141105_1bvf000311.html"
+corpus_doc_id: "BVerfG_2014-11-05_S_1_BvF_0003_11_NA_Luftverkehrsteuergesetz_137_350.txt"
+cites_law: ["germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/020a.md", "germany/bund/acts/grundgesetz/artikel/080.md", "germany/bund/acts/grundgesetz/artikel/105.md", "germany/bund/acts/grundgesetz/artikel/106.md", "germany/bund/acts/luftvstg/0001.md", "germany/bund/acts/luftvstg/0002.md", "germany/bund/acts/luftvstg/0004.md", "germany/bund/acts/luftvstg/0005.md", "germany/bund/acts/luftvstg/0006.md", "germany/bund/acts/luftvstg/0010.md", "germany/bund/acts/luftvstg/0011.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvF 3/11 vom 2014-11-05: Luftverkehrsteuergesetz
+
+## Entscheidung
+
+Leitsätze
+
+         zum Urteil des Ersten Senats vom 5. November 2014
+
+                            - 1 BvF 3/11 -
+
+1. Die Luftverkehrsteuer ist eine sonstige auf motorisierte Verkehrsmittel
+   bezogene Verkehrsteuer nach Art. 106 Abs. 1 Nr. 3 GG.
+
+2. Bei der Auswahl des Steuergegenstandes wird der Gleichheitssatz bereits eingehalten, wenn der Gesetzgeber einen Sachgrund für seine
+   Wahl des Steuergegenstandes vorbringen kann, die Berücksichtigung
+   sachwidriger, willkürlicher Erwägungen ausgeschlossen ist und die
+   konkrete Belastungsentscheidung nicht mit anderen Verfassungsnormen in Konflikt gerät.
+
+3. Wegen seines weitgehenden Spielraums bei der Auswahl von Steuergegenständen wird der Gesetzgeber vom Gleichheitssatz nicht gezwungen, nach einer einmal getroffenen Entscheidung für ein bestimmtes Steuerobjekt zugleich auch alle ähnlichen, für den
+   Steuerzweck ebenfalls geeigneten Steuerobjekte in die Belastung einzubeziehen.
+
+
+
+
+                                 1/24
+
+BUNDESVERFASSUNGSGERICHT
+
+- 1 BvF 3/11 -                                              Verkündet
+                                                            am 5. November 2014
+                                                            Kehrwecker
+                                                            Amtsinspektor
+                                                            als Urkundsbeamte
+                                                            der Geschäftsstelle
+
+
+
+
+                            IM NAMEN DES VOLKES
+
+                                In dem Verfahren
+                      zur verfassungsrechtlichen Prüfung,
+
+  ob das Luftverkehrsteuergesetz (LuftVStG) vom 9. Dezember 2010 (Bundesgesetzblatt I Seite 1885) in der Fassung des Gesetzes zur Änderung des Energiesteuer- und des Stromsteuergesetzes sowie zur Änderung des Luftverkehrsteuergesetzes vom 5. Dezember 2012 (Bundesgesetzblatt I Seite 2436) nichtig ist,
+
+
+Antragstellerin: Landesregierung des Landes Rheinland-Pfalz, vertreten durch die
+                 Ministerpräsidentin, Peter-Altmeier-Allee 1, 55116 Mainz
+
+- Bevollmächtigte:   HÜLSEN MICHAEL HAUSCHKE
+                     SEEWALD Rechtsanwälte,
+                     Tauentzienstraße 11, 10789 Berlin -
+
+hat das Bundesverfassungsgericht - Erster Senat -
+
+unter Mitwirkung der Richterinnen und Richter
+
+                                 Vizepräsident Kirchhof,
+
+                                 Gaier,
+
+                                 Eichberger,
+
+                                 Schluckebier,
+
+                                 Masing,
+
+                                 Paulus,
+
+                                 Baer,
+
+
+                                          2/24
+
+                                  Britz
+
+aufgrund der mündlichen Verhandlung vom 20. Mai 2014 durch
+
+                                          Urteil
+
+für Recht erkannt:
+
+        § 1, § 2 Nummern 4 und 5, § 4, § 5 Nummern 2, 4c und 5, §§ 10 und 11
+        sowie die Anlagen 1 und 2 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (Bundesgesetzblatt I Seite 1885) in der Fassung des Gesetzes zur Änderung des Energiesteuer- und des Stromsteuergesetzes
+        sowie zur Änderung des Luftverkehrsteuergesetzes vom 5. Dezember
+        2012 (Bundesgesetzblatt I Seite 2436) sind mit dem Grundgesetz vereinbar.
+
+                                    Gründe:
+
+                                           A.
+ Die abstrakte Normenkontrolle betrifft das Gesetz über die Erhebung einer Luftverkehrsteuer auf in Deutschland startende gewerbliche Passagierflüge.
+
+                                            I.
+ Im Juni 2010 beschloss die Bundesregierung als Teil eines Maßnahmepakets zur           2
+Konsolidierung des Bundeshaushalts die Einführung einer Luftverkehrsteuer mit dem
+Ziel, Einnahmen für den Bund in Höhe von 1 Milliarde Euro jährlich zu erzielen. Daneben beabsichtigte die Bundesregierung auch eine Verstärkung der Anreize für umweltgerechtes Verhalten durch die Einbeziehung des Flugverkehrs in eine Mobilitätsbesteuerung. Der Deutsche Bundestag verabschiedete am 28. Oktober 2010 das
+Luftverkehrsteuergesetz als Artikel 1 des Haushaltsbegleitgesetzes 2011. Es wurde
+am 14. Dezember 2010 verkündet (BGBl I S. 1885) und trat mit Ausnahme des § 5
+Nr. 5 (Steuerbefreiung für bestimmte Flüge zu und von Nordseeinseln) am folgenden
+Tag in Kraft.
+
+                                            II.
+ Das Luftverkehrsteuergesetz (LuftVStG) begründet eine Steuerpflicht für die in         3
+Deutschland ab dem 1. Januar 2011 startenden Abflüge von Fluggästen, die von einem gewerblichen Luftverkehrsunternehmen transportiert werden. Steuergegenstand ist der „Rechtsvorgang, der zum Abflug eines Fluggastes von einem inländischen      Startort  mit    einem    Flugzeug     oder    Drehflügler   durch    ein
+Luftfahrtverkehrsunternehmen zu einem Zielort berechtigt“ (§ 1 Abs. 1 LuftVStG), ersatzweise die „Zuweisung eines Sitzplatzes … an einen Fluggast“ (§ 1 Abs. 2 Luft-VStG). Die Steuer entsteht mit dem Abflug des Fluggastes von einem inländischen
+Startort (§ 4 LuftVStG). Steuerschuldner ist grundsätzlich das Luftverkehrsunternehmen (§ 6 LuftVStG).
+
+
+                                           3/24
+
+  Ausgenommen von der Steuerpflicht werden durch § 2 Nummern 4 und 5 LuftVStG            4
+in Verbindung mit § 1 Abs. 1 LuftVStG Abflüge von einem inländischen Startort im
+Rahmen von Transit- und Transferflügen mit kurzem Zwischenstopp, der je nach Zielort des Flugzeugs bis zu 12 oder 24 Stunden betragen darf (sog. Umsteigerprivileg),
+es sei denn, dem Abflug nach der Zwischenlandung in Deutschland liege ein eigener
+Rechtsvorgang zugrunde, etwa ein bei einem anderen Luftverkehrsunternehmen gesondert gebuchtes Ticket. Steuerbefreit sind darüber hinaus nach § 5 LuftVStG insbesondere Flüge zu medizinischen und zu militärischen oder anderen hoheitlichen
+Zwecken, erneute Abflüge nach Flugabbrüchen, Flüge zu inländischen Inseln für Bewohner dieser Inseln, Flüge zwischen Nordseeinseln ohne tidenunabhängigen Straßen- oder Gleisanschluss oder zwischen diesen Inseln und einem küstennahen Festlandflughafen, Rundflüge in Leichtflugzeugen sowie Flüge von Personen unter zwei
+Jahren ohne eigenen Sitzplatz und solche von Flugbesatzungen.
+
+ Grundlage der Bemessung der Steuer sind nach § 10 LuftVStG die geographische            5
+Lage des gewählten Zielorts, pauschaliert nach Distanzklassen entsprechend dem
+Abstand des Flughafens Frankfurt am Main zum wichtigsten Flughafen des Ziellandes, und die Anzahl der beförderten Fluggäste (BTDrucks 17/3030, S. 39). Das Luftverkehrsteuergesetz sieht in § 11 Abs. 1 LuftVStG in Verbindung mit den Anlagen 1
+und 2 drei nach Distanzklassen gegliederte Steuersätze vor:
+
+         - Kurzstrecken bis maximal 2500 km (Länder der Anlage 1),
+
+         - Mittelstrecken zwischen 2500 und maximal 6000 km (Länder der
+        Anlage 2),
+
+         - Langstrecken über 6000 km (nicht in den Anlagen genannte Länder).
+
+ Die Steuer betrug anfänglich je Fluggast 8 Euro für Kurzstrecken, 25 Euro für Mittelstrecken und 45 Euro für Langstrecken (§ 11 Abs. 1 LuftVStG i.V.m. den Anlagen 1
+und 2). Der Gesetzgeber wollte allerdings bei der steuerlichen Belastung auch die finanzielle Last des Luftverkehrs aus dem Treibhausgasemissionszertifikatehandel
+berücksichtigen und hat deshalb insgesamt das Aufkommen aus beiden Systemen
+auf 1 Milliarde Euro im Jahr begrenzt (§ 11 Abs. 2 Satz 2 LuftVStG). Seit dem 1. Januar 2012 gelten wegen dieser Einbeziehung niedrigere Steuersätze von 7,50 Euro,
+23,43 Euro und 42,18 Euro für die drei Distanzklassen. Die Absenkung der Steuersätze erfolgte zunächst durch die Verordnung zur Absenkung der Steuersätze nach §
+11 Abs. 2 des Luftverkehrsteuergesetzes im Jahr 2012 (Luftverkehrsteuer-Absenkungsverordnung 2012) vom 16. Dezember 2011 (BGBl I S. 2732) für die Zeit
+ab dem 1. Januar 2012. Diese Steuersätze wurden durch Gesetz zur Änderung des
+Energiesteuer- und des Stromsteuergesetzes sowie zur Änderung des Luftverkehrsteuergesetzes vom 5. Dezember 2012 (BGBl I S. 2436) mit Wirkung zum 1. Januar
+2013 in das Luftverkehrsteuergesetz aufgenommen und für die Zeit ab dem 1. Januar 2014 durch die Verordnung zur Festlegung der Steuersätze im Jahr 2014 nach
+§ 11      Abs.     2      des     Luftverkehrsteuergesetzes      (Luftverkehrsteuer-
+
+
+                                         4/24
+
+Festlegungsverordnung 2014 - LuftVStFestV 2014 - vom 19. Dezember 2013, BGBl
+I S. 4383) erneut und unverändert festgesetzt.
+
+ Die heute maßgeblichen Vorschriften lauten:                                    7
+
+                                         §1
+
+                                 Steuergegenstand
+
+        (1) Der Luftverkehrsteuer unterliegt ein Rechtsvorgang, der zum
+       Abflug eines Fluggastes von einem inländischen Startort mit einem
+       Flugzeug oder Drehflügler durch ein Luftverkehrsunternehmen zu
+       einem Zielort berechtigt.
+
+        (2) Als Rechtsvorgang im Sinne des Absatzes 1 gilt auch die Zuweisung eines Sitzplatzes in einem Flugzeug oder Drehflügler an einen Fluggast, wenn kein anderer Rechtsvorgang im Sinne dieses
+       Gesetzes vorausgegangen ist.
+
+                                         §2
+
+                               Begriffsbestimmungen
+
+         Im Sinne dieses Gesetzes ist oder sind:
+
+         (…)
+
+         4. Zielort:
+
+         der inländische oder ausländische Ort, auf dem gemäß dem
+       Rechtsvorgang die Flugreise des Fluggastes planmäßig enden soll.
+       Wird die Flugreise planmäßig auf einem inländischen Flugplatz
+       nach § 6 Absatz 1 des Luftverkehrsgesetzes oder Grundstück, für
+       das eine Erlaubnis nach § 25 Absatz 1 Satz 1 des Luftverkehrsgesetzes notwendig ist, durch eine Zwischenlandung nach Nummer 5
+       unterbrochen, so gilt der inländische Flugplatz nach § 6 Absatz 1
+       des Luftverkehrsgesetzes oder das Grundstück, für das eine Erlaubnis nach § 25 Absatz 1 Satz 1 des Luftverkehrsgesetzes notwendig
+       ist, auf dem die Zwischenlandung erfolgt, als der Zielort, auf dem die
+       Flugreise des Fluggastes endet, und der Weiterflug als neuer Abflug
+       zu einem Zielort im Sinne von § 4;
+
+         5. Zwischenlandung:
+
+         Flugunterbrechungen von:
+
+        a) mehr als zwölf Stunden bei Flügen, die zu einem Zielort in einem
+       Land nach Anlage 1 führen,
+
+        b) mehr als 24 Stunden bei Flügen, die zu einem Zielort in einem
+       nicht in Anlage 1 genannten Land führen;
+
+
+                                        5/24
+
+ (…)
+
+                                 §4
+
+                       Entstehung der Steuer
+
+ Die Steuer nach § 1 entsteht mit dem Abflug des Fluggastes von
+einem inländischen Startort.
+
+                                 §5
+
+                         Steuerbefreiungen
+
+ Von der Besteuerung ausgenommen sind die folgenden Rechtsvorgänge, die zu einem Abflug von einem inländischen Startort berechtigen:
+
+ (…)
+
+ 2. Abflüge von Fluggästen in Flugzeugen oder Drehflüglern, wenn
+der Flug ausschließlich militärischen oder anderen hoheitlichen
+Zwecken dient;
+
+ (…)
+
+ 4. Abflüge von Fluggästen,
+
+ (…)
+
+ c) die hoheitliche Aufgaben auf einer inländischen Insel wahrnehmen
+
+ von und zu dieser inländischen Insel, vorausgesetzt, die Insel ist
+nicht über einen tidenunabhängigen Straßen- oder Gleisanschluss
+mit dem Festland verbunden und der Start- oder Zielort auf dem
+Festland ist nicht weiter als 100 Kilometer Luftlinie von der Küste
+entfernt oder befindet sich auf einer anderen inländischen Insel;
+
+  5. Abflüge von Fluggästen, die nicht bereits gemäß Nummer 4
+steuerbefreit sind, von und zu einer inländischen, dänischen oder
+niederländischen Nordseeinsel, die nicht über einen tidenunabhängigen Straßen- oder Gleisanschluss mit dem Festland verbunden
+ist, wenn der Start- oder Zielort
+
+ a) auf dem Festland nicht weiter als 100 Kilometer Luftlinie von der
+Küste entfernt ist oder
+
+ b) sich auf einer anderen inländischen, dänischen oder niederländischen Nordseeinsel befindet;
+
+ (…)
+
+                                § 10
+
+
+                                 6/24
+
+                               Bemessungsgrundlage
+
+         Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts und der Anzahl der beförderten Fluggäste.
+
+                                        § 11
+
+                                     Steuersatz
+
+         (1) Die Steuer beträgt je Fluggast für Flüge mit einem Zielort
+
+               in einem Land der Anlage 1 zu diesem Ge-1.                                                    7,50 Euro
+              setz
+
+               in einem Land der Anlage 2 zu diesem Ge-2.                                                    23,43 Euro
+              setz
+
+                                                               242,18 Eu-3.    in anderen Ländern
+                                                             ro.
+
+         (2) Das Bundesministerium der Finanzen wird ab 2013 ermächtigt,
+        im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr,
+        Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung
+        des Bundesrates die Steuersätze nach Absatz 1 jeweils mit Wirkung
+        zu Beginn eines Kalenderjahres prozentual abzusenken. Die prozentuale Absenkung errechnet sich aus dem Verhältnis der jeweiligen Einnahmen des Vorjahres aus der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten zu 1
+        Milliarde Euro. Die Einnahmen aus der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten werden
+        auf Basis der Einnahmen des jeweils ersten Halbjahres des Vorjahres geschätzt. Der abgesenkte Steuersatz wird auf volle Cent gerundet.
+
+                                         III.
+  Die Landesregierung des Landes Rheinland-Pfalz beantragt im Verfahren der abstrakten Normenkontrolle die Feststellung der Nichtigkeit des Luftverkehrsteuergesetzes. Sie rügt die fehlende Gesetzgebungskompetenz des Bundes und im Einzelnen
+Verstöße gegen Art. 3 Abs. 1, Art. 12 Abs. 1 und Art. 20 Abs. 3 GG durch § 1 Abs. 1,
+§ 2 Nummern 4 und 5, § 4, § 5 Nummern 2, 4c und 5 sowie § 11 Abs. 1 und Abs. 2
+Satz 1 LuftVStG.
+
+ 1. Soweit die Bundesregierung in der Gesetzesbegründung die Gesetzgebungskompetenz zum Erlass des Luftverkehrsteuergesetzes auf Art. 105 Abs. 2 Alt. 1 in
+Verbindung mit Art. 106 Abs. 1 Nr. 3 GG gestützt habe, bestünden Zweifel an der
+
+
+
+                                         7/24
+
+Einordnung der Luftverkehrsteuer als Verkehrsteuer, weil der Gesetzeswortlaut nicht
+klar erkennen lasse, ob ein rechtlicher - so § 1 Abs. 1 LuftVStG - oder ein tatsächlicher Vorgang - so § 1 Abs. 2 und § 4 LuftVStG - Anknüpfungspunkt der Steuerpflicht
+sei. Aber auch bei Annahme einer Verkehrsteuer sei die Auffassung vertretbar, dass
+die Luftverkehrsteuer keine „sonstige auf motorisierte Verkehrsmittel bezogene Verkehrsteuer“ im Sinne des Art. 106 Abs. 1 Nr. 3 GG sei, weil sich dieser Begriff nur auf
+motorisierte Verkehrsmittel des Straßenverkehrs beziehe. Auf andere Kompetenzvorschriften könne sich der Bund nicht berufen.
+
+ 2. Die Ermächtigung des Bundesministeriums der Finanzen in § 11 Abs. 2 Luft-             10
+VStG, zur Vermeidung einer Doppelbelastung der Luftverkehrsunternehmen durch
+Luftverkehrsteuer und Treibhausgasemissionshandelssystem durch Rechtsverordnung die Steuersätze mit Wirkung zu Beginn eines Kalenderjahres prozentual abzusenken, sei unvereinbar mit dem Vorbehalt des Gesetzes (Art. 20 Abs. 3 GG). Die Ermächtigung überlasse dem Verordnungsgeber die ausschließliche Entscheidung
+darüber, ob eine Senkung der Steuer erfolgen solle.
+
+ 3. Die Regelungen des Luftverkehrsteuergesetzes verletzen nach Auffassung der            11
+Antragstellerin den allgemeinen Gleichheitsgrundsatz des Art. 3 Abs. 1 GG.
+
+ Die Luftverkehrsteuer erfasse alleine den gewerblichen Passagierluftverkehr;             12
+Fracht- und Privatflüge würden nicht belastet.
+
+  Die länderbezogene Pauschalierung der Steuer in § 11 Abs. 1 LuftVStG verletze           13
+Art. 3 Abs. 1 GG. Sie führe zu einer mit dem Gebot der Folgerichtigkeit unvereinbaren Ungleichbehandlung der gewerblichen Luftverkehrsunternehmen untereinander.
+Der Steuersatz sei ausweislich der Gesetzesbegründung nicht abhängig von tatsächlich zurückgelegten Flugkilometern, sondern von der Entfernung zwischen dem Flughafen Frankfurt am Main und dem größten Verkehrsflughafen des Staates, auf dessen Gebiet der Zielflughafen liege. Diese unter dem Gesichtspunkt der
+Verwaltungsvereinfachung möglicherweise sinnvoll erscheinende Anknüpfung sei
+nicht realitätsgerecht. Dadurch würden Flüge mit vergleichbarer Entfernung verschieden oder sogar kürzere Distanzen höher als längere Distanzen besteuert. So unterliege beispielsweise die Steuer für den circa 6000 km weiten Flug von Frankfurt am
+Main nach New York dem höchsten Steuersatz; der circa 8500 km weite Flug nach
+Wladiwostok werde hingegen nur mit dem niedrigsten Steuertarif belastet, weil für die
+Einstufung des in der Russischen Föderation gelegenen Flugziels der Flughafen in
+Moskau maßgeblich sei. Nach dem Lenkungszweck, Anreize für ein umweltgerechteres Verhalten zu setzen, müssten die Steuersätze sich aber wenigstens annähernd
+proportional zur Flugstrecke verhalten. Für die Konzeption des Steuersatzes liefere
+der Gesetzgeber keine konkrete ökologische oder andere Erklärung. Der von ihm angeführte Gesichtspunkt der Verwaltungsvereinfachung überzeuge nicht.
+
+ Die Luftverkehrsteuer belaste die Anbieter und die Passagiere von preisgünstigen         14
+Kurzstreckenflügen deutlich stärker als solche von Langstreckenflügen, weil der
+Preisaufschlag durch die Steuer im Verhältnis zum Ticketpreis wesentlich höher sei
+
+
+                                          8/24
+
+als bei Langstreckenflügen. Dies steigere den Anreiz vor allem für sogenannte Low-Cost-Airlines, ihr Flugangebot in das benachbarte Ausland zu verlagern, in dem keine Luftverkehrsteuer erhoben werde. Auch die steuerliche Privilegierung von touristischen Flügen von und zu Nordseeinseln nach § 5 Nummern 4c und 5 LuftVStG im
+Vergleich zu anderen innerdeutschen Flügen sei nicht gerechtfertigt.
+
+  Das aus § 2 Nummern 4 und 5 LuftVStG in Verbindung mit § 1 Abs. 1 LuftVStG resultierende sogenannte Umsteigerprivileg führe dazu, dass überhaupt keine Luftverkehrsteuer entrichte, wer auf dem Weg von einem ausländischen Flughafen zu einem
+anderen ausländischen Flughafen auf einem deutschen Flughafen für weniger als 12
+oder 24 Stunden zwischenlande. Damit könne die Steuer durch Ausweichen auf einen Start von einem Flughafen im benachbarten Ausland völlig umgangen werden,
+selbst wenn ein Weiterflug von einem deutschen Flughafen erfolge. Hierdurch seien
+die bei Hin- und Rückflug jeweils besteuerten innerdeutschen Flüge doppelt benachteiligt.
+
+  4. Das Luftverkehrsteuergesetz beeinträchtige in unverhältnismäßiger Weise die         16
+von Art. 12 Abs. 1 GG geschützte Berufsfreiheit der Luftverkehrsunternehmen. Es
+ziele darauf, den Personenverkehr vom Luftverkehr weg und hin zu ökologisch günstigeren Verkehrsträgern zu bewegen und habe damit berufsregelnde Tendenz. Diesen Lenkungszweck erreiche das Gesetz trotz erheblicher Belastung einzelner Gruppen von Steuerpflichtigen kaum.
+
+                                         IV.
+ Zu dem Antrag haben sich das Bundesministerium der Finanzen für die Bundesregierung, der Deutsche ReiseVerband e.V. (DRV), der Board of Airline Representatives in Germany e.V. (BARIG), die Arbeitsgemeinschaft Deutscher Verkehrsflughäfen
+(ADV), der Bundesverband der Deutschen Luftverkehrswirtschaft (BDL), der Bundesverband der Deutschen Fluggesellschaften e.V. (BDF) und die Flughafen Frankfurt-Hahn GmbH geäußert.
+
+ 1. Das Bundesministerium der Finanzen hält das Luftverkehrsteuergesetz für formell und materiell verfassungsmäßig.
+
+  a) Die Luftverkehrsteuer sei eine auf motorisierte Verkehrsmittel bezogene Verkehrsteuer, für die nach Art. 106 Abs. 1 Nr. 3 GG eine Gesetzgebungskompetenz des
+Bundes bestehe. Bei der Bestimmung der Steuerart seien die Begründung des Steuerschuldverhältnisses durch den Rechtsvorgang und die Entstehung der Steuerpflicht durch den Abflug zu unterscheiden. Nur bei der Entstehung werde an einen
+tatsächlichen Akt angeknüpft. Der Begriff der motorisierten Verkehrsmittel in Art. 106
+Abs. 1 Nr. 3 GG umfasse nach Wortlaut und Zweck der Grundgesetzänderung im
+Jahr 2009, die Mobilitätsbesteuerung weitreichend neu zu gestalten, auch den Luftverkehr.
+
+ b) Die Verordnungsermächtigung in § 11 Abs. 2 LuftVStG sei hinreichend bestimmt.        20
+Die durch Rechtsverordnung jährlich festzusetzenden Steuersätze stünden nicht im
+
+
+                                         9/24
+
+Ermessen des Bundesministeriums der Finanzen. Die Ermächtigung verpflichte lediglich zur jährlichen Anpassung und gebe dafür alle wesentlichen Elemente vor.
+
+ c) Eine Art. 3 Abs. 1 GG widersprechende Gleichbehandlung wesentlich ungleicher         21
+Sachverhalte durch das Luftverkehrsteuergesetz liege nicht vor.
+
+  Die länderbezogene Zuweisung der drei Steuersätze stelle eine verfassungsrechtlich nicht zu beanstandende Verwaltungsvereinfachung dar. Sie entspreche dem Regelfall der Flugentfernung von Deutschland in das Zielland. Grundentscheidung sei
+die Staffelung der Steuer in Relation zu der im Regelfall zurückgelegten Entfernung.
+Bei der Anknüpfung an die Entfernung des größten Verkehrsflughafens eines Landes
+als Kriterium für die Zuordnung zu einer der drei Kategorien (Entfernung bis 2500 km,
+bis 6000 km oder über 6000 km) habe der Gesetzgeber davon ausgehen dürfen,
+dass diese Entfernung dem Regelfall eines Fluges von Deutschland in dieses Land
+entspreche. Einzelne Ausnahmen, wie von der Antragstellerin aufgeführt, seien nach
+dem tatsächlichen Flugaufkommen unbedeutend und atypisch; sie änderten nichts
+an der grundsätzlich folgerichtigen länderbezogenen Einteilung. Eine zielortbezogene Bemessung wäre nicht handhabbar, weil jedem Zielort ein Abflugort aus den über
+400 deutschen Startorten für Passagierflugzeuge zugeordnet werden müsse und die
+genaue Flugroute vor Abflug nicht feststehe. Eine weitere Differenzierung der Steuersätze nach den Entfernungen schade der Transparenz und Berechenbarkeit der
+Steuer. Die länderbezogene Typisierung sei gerade im Bereich der Kurzstrecken
+wettbewerbsneutral.
+
+  Die Steuerbefreiung für Inselflüge sei sachlich gerechtfertigt durch die Gewährleistung einer Daseinsvorsorge für die Inselbewohner. Die Befreiung betreffe nur Inseln,
+die keinen tidenunabhängigen Straßen- oder Gleisanschluss zum Festland besäßen,
+und nur kurze Flugverbindungen zu Flughäfen mit weniger als 100 km Entfernung
+von der Küste. Die Befreiung sei nicht auf die Inselbewohner begrenzt, weil eine Besteuerung der touristischen Passagiere auf diesen Routen die Flugverbindungen insgesamt wirtschaftlich gefährden würde.
+
+  Das Umsteigerprivileg werde durch den Sachgrund getragen, eine Doppelbesteuerung für in Deutschland startende Zubringerflüge zu Langstreckenflügen zu vermeiden. Der Wegfall der Steuer für im Ausland startende Zubringerflüge sei dadurch begründet, dass die Steuer die Wettbewerbsfähigkeit von deutschen Flughäfen als
+internationale Drehkreuze nicht beeinträchtigen solle.
+
+  d) Das Luftverkehrsteuergesetz verstoße nicht gegen Art. 12 Abs. 1 GG. Die Luftverkehrsteuer wirke nicht berufsregelnd auf Luftverkehrsunternehmen. Das Grundrecht schütze nicht bestimmte Wettbewerbsstrategien. Die Steuer werde letztlich von
+den Passagieren getragen. Die mit ihr verbundenen Registrierungs- und Aufzeichnungspflichten seien auf ein Minimum beschränkt, dienten der Sicherung der Besteuerungsgrundlage, seien nicht unangemessen und damit gerechtfertigt. Die meisten Daten würden von den Luftfahrtgesellschaften ohnehin erhoben.
+
+
+
+                                         10/24
+
+  2. Der Deutsche ReiseVerband e.V. (DRV), der Board of Airline Representatives in      26
+Germany e.V. (BARIG), die Arbeitsgemeinschaft Deutscher Verkehrsflughäfen
+(ADV), der Bundesverband der Deutschen Luftverkehrswirtschaft e.V. (BDL), der
+Bundesverband der Deutschen Fluggesellschaften e.V. (BDF) und die Flughafen
+Frankfurt-Hahn GmbH schließen sich dem Vorbringen der Antragstellerin zur formellen und materiellen Verfassungswidrigkeit des Luftverkehrsteuergesetzes an. Die
+Verbände tragen vor, die unterschiedliche Besteuerung von der Entfernung her vergleichbarer Zielorte führe zu einer Verlagerung von Fluggastströmen oder, falls sich
+die Steuer nicht an den Passagier weitergeben lasse, zu Streckenstreichungen. Bedingt durch den hohen Marktanteil am innerdeutschen Flugverkehr trügen die deutschen Fluggesellschaften 70 % der im nationalen Alleingang eingeführten Luftverkehrsteuer. Dadurch bestünden Wettbewerbsnachteile gegenüber ausländischen
+Fluggesellschaften in Deutschland und im Ausland, weil diese durch die Luftverkehrsteuer weniger belastet seien. Insgesamt habe die Luftverkehrsteuer zu einem geringeren Wachstum oder sogar zum Rückgang von Passagierzahlen an kleinen und
+mittleren Flughäfen im Vergleich zu den großen Flughäfen und zu solchen mit Drehkreuzfunktion geführt, aber auch gegenüber grenznahen ausländischen Flughäfen
+mit hohem Low-Cost-Carrier-Anteil.
+
+                                         B.
+ § 1, § 2 Nummern 4 und 5, § 4, § 5 Nummern 2, 4c und 5 und §§ 10 und 11 Luft-          27
+VStG sowie deren Anlagen 1 und 2 sind mit dem Grundgesetz vereinbar.
+
+                                         I.
+  Diese Vorschriften des Luftverkehrsteuergesetzes, auf die sich der Antrag der Sache nach beschränkt, sind formell verfassungsgemäß. Die Gesetzgebungskompetenz des Bundes für den Erlass der angegriffenen Normen folgt aus Art. 105 Abs. 2
+Alt. 1 GG in Verbindung mit Art. 106 Abs. 1 Nr. 3 GG. Nach Art. 105 Abs. 2 Alt. 1 GG
+hat der Bund die konkurrierende Gesetzgebung über Steuern unter anderem, wenn
+ihm ihr Aufkommen ganz oder zum Teil zusteht. Art. 106 Abs. 1 Nr. 3 GG weist dem
+Bund das Aufkommen der Straßengüterverkehrsteuer, der Kraftfahrzeugsteuer und
+sonstiger auf motorisierte Verkehrsmittel bezogener Verkehrsteuern zu. Der Kompetenztitel für das Steuerrecht erlaubt es auch, mit der Erhebung der Luftverkehrsteuer
+Lenkungsziele zu verfolgen (vgl. allgemein dazu BVerfGE 98, 106 <118>).
+
+  1. Bei der Luftverkehrsteuer handelt es sich um eine Steuer im Sinne der Finanzverfassung, weil sie zur Erzielung von Einnahmen für den Bund den Steuerschuldnern
+eine Geldzahlungspflicht ohne konkrete Gegenleistung hoheitlich auferlegt. Sie ist
+dem Typus der Verkehrsteuer zuzuordnen. Die Verkehrsteuer knüpft an Akte oder
+Vorgänge des Rechtsverkehrs an (vgl. BVerfGE 7, 244 <260>; 16, 64 <73>).
+
+ § 1 Abs. 1 LuftVStG knüpft die Luftverkehrsteuer an den Rechtsakt, der zum Abflug      30
+eines Fluggastes berechtigt, und definiert damit den Steuergegenstand. Der maßgebliche Rechtsvorgang ist in der Regel der Abschluss eines (entgeltlichen) Beförde-
+
+
+                                        11/24
+
+rungsvertrags (so z.B. BTDrucks 17/3030, S. 36 f.). Soweit § 1 Abs. 2 LuftVStG als
+Rechtsvorgang im Sinne des § 1 Abs. 1 LuftVStG die Zuweisung eines Sitzplatzes
+in einem Flugzeug oder Drehflügler an einen Fluggast fingiert, wenn kein anderer
+Rechtsvorgang im Sinne des Gesetzes vorangegangen ist, sollen damit Gesetzeslücken durch Abflugberechtigungen vermieden werden, die möglicherweise zwar nicht
+als Rechtsvorgänge zu beurteilen sind, solchen aber in ihrem wirtschaftlichen Ergebnis im Wesentlichen gleich kommen. Es stößt nicht auf verfassungsrechtliche Bedenken, atypische Fälle zur Vermeidung von Ertragslücken in Auffangtatbeständen zu
+erfassen, die im Einzelfall dem Steuertyp nicht mehr entsprechen. Zur Änderung der
+Gesamteinordnung des Steuertyps und der damit verbundenen Gesetzgebungskompetenz führt das nicht.
+
+  2. Die Luftverkehrsteuer ist eine sonstige auf motorisierte Verkehrsmittel bezogene   31
+Verkehrsteuer im Sinne des Art. 106 Abs. 1 Nr. 3 GG. Der Begriff des Verkehrsmittels
+umfasst neben demjenigen des Straßenverkehrs auch solche des Schiffs-, Bahnund Flugverkehrs. Eine Beschränkung der Gesetzgebungskompetenz auf den straßengebundenen Verkehr lässt sich weder dem Wortlaut noch dem Normzweck entnehmen. Dass die erstgenannten Tatbestandsalternativen des Art. 106 Abs. 1 Nr. 3
+GG, die Straßengüterverkehrsteuer und die Kraftfahrzeugsteuer - anders als die hier
+maßgebliche dritte Tatbestandsalternative - nur den Straßenverkehr betreffen, erlaubt nicht den Rückschluss, dass auch sie sich allein auf den Straßenverkehr beziehe. Im Gegenteil wäre eine Einengung des Kompetenztitels auf straßenverkehrsmittelbezogene Steuern mit dem Zweck seiner Erweiterung im Jahr 2009 „auf sonstige
+auf motorisierte Verkehrsmittel bezogene Verkehrsteuern“ nicht in Einklang zu bringen, wonach dem Bund eine umfassende Kompetenz für die Mobilitätsbesteuerung
+zur Entwicklung eines in sich geschlossenen Konzepts zur Verkehrsbesteuerung gegeben werden sollte (vgl. BTDrucks 16/11741, S. 1, 4).
+
+                                         II.
+  § 11 Abs. 2 LuftVStG ist mit dem Grundgesetz vereinbar, soweit das Bundesministerium der Finanzen ermächtigt wird, im Einvernehmen mit dem Bundesministerium
+für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr,
+Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die Steuersätze
+nach § 11 Abs. 1 LuftVStG jeweils mit Wirkung zu Beginn eines Kalenderjahres prozentual abzusenken (1.). Die Vorschrift genügt den Anforderungen, die das Grundgesetz an eine gesetzliche Ermächtigung der Exekutive zum Erlass von Rechtsverordnungen im Bereich des Steuerrechts stellt. Die Verwaltung kann danach zwar
+unmittelbar die wesentliche Entscheidung über den Steuertarif treffen, ist dabei aber
+vom Gesetz ohne jegliches Ermessen auf Rechenoperationen aufgrund vorgegebener Daten beschränkt und zur jährlichen Neuberechnung verpflichtet (2.).
+
+ 1. a) Der im Rechtsstaatsprinzip (Art. 20 Abs. 3 GG) verankerte Vorbehalt des Gesetzes verlangt, dass der Gesetzgeber in grundlegenden normativen Bereichen alle
+
+
+                                        12/24
+
+wesentlichen Entscheidungen selbst treffen muss und sie nicht anderen Normgebern
+überlassen darf (vgl. BVerfGE 49, 89 <146 f.>; 84, 212 <226>). Im Steuerrecht, dessen Steuerbelastungsentscheidungen weitgehend vom Willen des Gesetzgebers zu
+Belastungsgegenstand und Tarif abhängen, ist von einem strengen Gesetzesvorbehalt auszugehen. Das Steuerrecht lebt insoweit aus dem „Diktum des Gesetzgebers“
+(vgl. BVerfGE 13, 318 <328> m.w.N.).
+
+ b) Diesen Anforderungen genügt das Luftverkehrsteuergesetz. Es regelt die Erhebung der Luftverkehrsteuer in ausreichendem Maße selbst. Der Gesetzgeber hat in
+den §§ 1, 4, 5, 6, 10 und 11 Abs. 1 LuftVStG die steuerliche Belastung im Hinblick auf
+Steuerschuldner, Steuertatbestand, Steuerbemessungsgrundlage und Steuertarif
+ausreichend vorgezeichnet. Die Verordnungsermächtigung in § 11 Abs. 2 LuftVStG
+räumt dem Verordnungsgeber keine hiervon abweichende Entscheidung über das
+„Ob“ oder das „Wie“ der Senkung der Luftverkehrsteuer ein, sondern überlässt ihm
+nur die Neuberechnung der Steuersätze nach genau bestimmten Vorgaben.
+
+  Dem steht nicht entgegen, dass § 11 Abs. 2 LuftVStG den Verordnungsgeber nicht         35
+ausdrücklich zum Erlass der Absenkungsverordnung verpflichtet. Der Gesetzgeber
+ist von einer Verpflichtung zum jährlichen Gebrauch der Ermächtigung ausgegangen.
+In der Begründung des Gesetzentwurfs wird „die durch Rechtsverordnung festzusetzende Absenkung des Steuersatzes“ erwähnt und ausgeführt, „die gültigen Steuersätze werden jährlich nach dem Vorliegen der Einnahmen für das erste Halbjahr aus
+der Einbeziehung des Luftverkehrs in den Handel mit Treibhausgasemissionszertifikaten durch das Bundesministerium der Finanzen festgesetzt“ (jeweils BTDrucks 17/
+3030, S. 40). Auch das Ziel eines Aufkommens von insgesamt 1 Milliarde Euro pro
+Jahr aus dem Zertifikatehandel und der Luftverkehrsteuer gelingt nur bei einer entsprechenden jährlichen Neuberechnung des Steuertarifs.
+
+  Der vom Gesetzgeber in § 11 Abs. 2 LuftVStG ermächtigte Verordnungsgeber erachtet die Vorschrift ebenfalls als zwingend. In seiner schriftlichen Stellungnahme
+und in der mündlichen Verhandlung hat das Bundesministerium der Finanzen ausdrücklich ein Ermessen des Verordnungsgebers sowohl hinsichtlich der Erforderlichkeit einer jährlichen Anpassung des Steuertarifs als auch bei der Berechnung ausgeschlossen. Dementsprechend wurden bislang jährlich - mit Ausnahme des Jahres
+2013, für das der Gesetzgeber selbst durch Gesetz zur Änderung des Energiesteuerund des Stromsteuergesetzes sowie zur Änderung des Luftverkehrsteuergesetzes
+vom 5. Dezember 2012 die Höhe der Steuertarife festgelegt hatte - Verordnungen
+zur Absenkung der Steuersätze nach § 11 Abs. 2 des Luftverkehrsteuergesetzes erlassen, zuletzt die Verordnung zur Festlegung der Steuersätze im Jahr 2014 nach
+§ 11      Abs.       2    des     Luftverkehrsteuergesetzes        (Luftverkehrsteuer-Festlegungsverordnung 2014 - LuftVStFestV 2014) vom 19. Dezember 2013 (BGBl I
+S. 4383).
+
+ 2. Die Verordnungsermächtigung in § 11 Abs. 2 LuftVStG genügt den Anforderungen des Art. 80 Abs. 1 Satz 2 GG.
+
+
+
+                                         13/24
+
+  Hiernach müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz       38
+bestimmt werden. Im Bereich der Steuern ist eine Ermächtigung zum Erlass von
+Rechtsverordnungen grundsätzlich hinreichend bestimmt, wenn der steuerliche Belastungstatbestand - der Steuerschuldner, der Steuergegenstand, die Bemessungsgrundlage und der Steuersatz - im Parlamentsgesetz festgelegt wird.
+
+ Die Verordnungsermächtigung des § 11 LuftVStG enthält alle wesentlichen Vorgaben für die Erhebung der Luftverkehrsteuer. Sie gibt sowohl die Grundlage als auch
+den Modus der Berechnung der Steuerabsenkung vor. Nach § 11 Abs. 2 LuftVStG
+hat der Verordnungsgeber von den in § 11 Abs. 1 LuftVStG festgelegten Steuersätzen auszugehen und die Absenkung im Verhältnis der jeweiligen Einnahmen des
+Vorjahres aus der Einbeziehung des Luftverkehrs in den Treibhausgasemissionshandel zu dem nach der Gesetzesbegründung als Einnahme durch die Luftverkehrsteuer
+angestrebten Betrag von 1 Milliarde Euro zu berechnen. Ergibt sich hieraus eine
+Steuerabsenkung, so ist sie das Ergebnis dieser gesetzlich abschließend vorgegebenen Berechnung mit jährlich zu ermittelnden, vom Willen des Verordnungsgebers unabhängigen Faktoren, nicht aber Folge einer Ermessensausübung des Verordnungsgebers.
+
+                                        III.
+ Die zur verfassungsrechtlichen Überprüfung gestellten Vorschriften sind mit dem      40
+Gleichheitssatz des Art. 3 Abs. 1 GG vereinbar. Die Auswahl des Steuergegenstandes in § 1 Abs. 1 LuftVStG (1), die steuerlichen Privilegierungen durch § 5 Nummern
+2, 4c und 5 LuftVStG und durch § 2 Nummern 4 und 5 LuftVStG (2) sowie die Ausgestaltung des Steuertarifs durch § 10 in Verbindung mit § 11 Abs. 1 LuftVStG und den
+Anlagen 1 und 2 (3) sind nicht zu beanstanden.
+
+ Gleichheitsrechtlicher Ausgangspunkt im Steuerrecht ist der Grundsatz der Lastengleichheit. Die Steuerpflichtigen müssen dem Grundsatz nach durch ein Steuergesetz rechtlich und tatsächlich gleichmäßig belastet werden (vgl. BVerfGE 117, 1
+<30>; 121, 108 <120>; 126, 400 <417>). Der Gleichheitssatz belässt dem Gesetzgeber einen weitreichenden Entscheidungsspielraum sowohl bei der Auswahl des Steuergegenstandes als auch bei der Bestimmung des Steuersatzes (vgl. BVerfGE 123, 1
+<19>; stRspr). Abweichungen von der mit der Wahl des Steuergegenstandes einmal
+getroffenen Belastungsentscheidung müssen sich indessen ihrerseits am Gleichheitssatz messen lassen (Gebot der folgerichtigen Ausgestaltung des steuerrechtlichen Ausgangstatbestands, vgl. BVerfGE 117, 1 <30 f.>; 120, 1 <29>; 121, 108
+<120>; 126, 400 <417>). Demgemäß bedürfen sie eines besonderen sachlichen
+Grundes (vgl. BVerfGE 117, 1 <31>; 120, 1 <29>; 126, 400 <417>; 132, 179 <189,
+Rn. 32>), der die Ungleichbehandlung zu rechtfertigen vermag.
+
+ 1. a) Dass § 1 Abs. 1 LuftVStG den gewerblichen Passagierluftverkehr als Steuergegenstand bestimmt, ist mit Art. 3 Abs. 1 GG vereinbar. Im Bereich des Steuerrechts hat der Gesetzgeber bei der Auswahl des Steuergegenstandes und bei der
+Bestimmung des Steuersatzes einen weitreichenden Entscheidungsspielraum (vgl.
+
+
+                                       14/24
+
+BVerfGE 21, 12 <26 f.>; 117, 1 <30>; 120, 1 <29>; 122, 210 <230>; 123, 1 <19>;
+127, 224 <245>). Die Befugnis des Gesetzgebers zur Definition des Steuerobjekts
+stützt sich auf seine demokratische Legitimation für die Steuerpolitik. Steuerwürdigkeitsentscheidungen beruhen wesentlich auf politischen Wertungen, die nach dem
+Grundgesetz der Legislative zustehen und von ihr im Wege der Gesetzgebung getroffen werden müssen. Deshalb wird bei diesen Entscheidungen der Gleichheitssatz bereits eingehalten, wenn der Gesetzgeber einen Sachgrund für seine Wahl des
+Steuergegenstandes vorbringen kann, die Berücksichtigung sachwidriger, willkürlicher Erwägungen ausgeschlossen ist (vgl. BVerfGE 120, 1 <29>) und die konkrete
+Belastungsentscheidung für ein Steuerobjekt nicht mit anderen Verfassungsnormen
+in Konflikt gerät.
+
+  b) Die Belastung mit Finanzzwecksteuern ist an der wirtschaftlichen Leistungsfähigkeit der Steuerpflichtigen auszurichten (vgl. BVerfGE 61, 319 <343 f.>; 82, 60 <86>;
+89, 346 <352>; 122, 210 <231>; 126, 400 <417>; BVerfG, Beschluss des Ersten Senats vom 15. Januar 2014 - 1 BvR 1656/09 -, juris, Rn. 56 f.). Der Gesetzgeber darf
+eine Steuerkompetenz grundsätzlich auch ausüben und damit Differenzierungen verfolgen, um Lenkungswirkungen zu erzielen (vgl. BVerfGE 93, 121 <147>; 99, 280
+<296>; 105, 73 <112>; 110, 274 <292>; 116, 164 <182>; 117, 1 <31 f.>; stRspr). Er
+darf nicht nur durch Ge- und Verbote, sondern ebenso durch mittelbare Verhaltenssteuerung auf Wirtschaft und Gesellschaft gestaltend Einfluss nehmen. Der Bürger
+wird dann nicht rechtsverbindlich zu einem bestimmten Verhalten verpflichtet, erhält
+aber durch Sonderbelastung eines unerwünschten Verhaltens oder durch steuerliche
+Verschonung eines erwünschten Verhaltens ein finanzwirtschaftliches Motiv, sich für
+ein bestimmtes Tun oder Unterlassen zu entscheiden (vgl. BVerfGE 98, 106 <117>;
+117, 1 <31 f.>). Wenn solche Förderungs- und Lenkungsziele von erkennbaren gesetzgeberischen Entscheidungen getragen werden, sind sie geeignet, rechtfertigende Gründe für steuerliche Belastungen oder Entlastungen zu liefern (vgl. BVerfGE
+105, 73 <112 f.>; 110, 274 <293>; 116, 164 <182>; 117, 1 <32>). Dabei genügt es,
+wenn die gesetzgeberischen Entscheidungen anhand der üblichen Auslegungsmethoden festgestellt werden können. Lenkungszwecke können sich etwa aus den Gesetzesmaterialien ergeben (vgl. BVerfGE 116, 164 <191 ff.>). Möglich ist auch, den
+Zweck aus einer Gesamtschau der jeweils vom Gesetzgeber normierten Steuervorschriften zu erschließen (vgl. BVerfGE 110, 274 <296 f.>).
+
+  c) Daneben kommt es für die Besteuerungsgleichheit auch auf die Eigenart der jeweiligen Steuer an. Bei indirekten Steuern ist nicht nur dem Gedanken einer möglichst gleichmäßigen Belastung des Steuerschuldners durch gleichheitsgerechte
+Ausformung des Belastungsgrundes Rechnung zu tragen (vgl. BVerfGE 21, 12 <27>;
+110, 277 <292>). Vielmehr ist auch der End- oder Letztverbraucher, der die indirekte
+Steuerlast - über eine oder mehrere Handelsstufen vermittelt - tragen soll (Steuerträger), in den Blick zu nehmen (vgl. BVerfGE 110, 274 <292>).
+
+ d) Nach diesen Grundsätzen steht die Auswahl des gewerblichen Passagierluftverkehrs als Steuergegenstand mit Art. 3 Abs. 1 GG in Einklang. Die Luftverkehrsteuer
+
+
+                                         15/24
+
+ist eine Finanzlast, die das Ziel der Staatsfinanzierung mit einem Umweltschutzzweck kombiniert (aa). Dies rechtfertigt die steuerliche Belastung des Luftverkehrs
+(bb). Auch die Begrenzung auf den gewerblichen Passagierluftverkehr ohne Einbeziehung von privatem Luftverkehr und Luftfrachtverkehr ist sachlich gerechtfertigt
+(cc).
+
+ aa) Das Ziel, mit der Luftverkehrsteuer neben der Gewinnung von Staatseinnahmen          46
+zum Schutz der Umwelt, insbesondere des Klimas, Flugkilometer zu begrenzen, ergibt sich hinreichend deutlich aus der Anknüpfung des Steuertarifs in §§ 10, 11 Luft-VStG an die durch den besteuerten Flug zurückgelegte Distanz. Die Entscheidung
+des Gesetzgebers, die nach seiner Auffassung umweltschädigenden Auswirkungen
+des gewerblichen Passagierluftverkehrs zu beeinflussen, geht ebenfalls aus der Begründung des Gesetzentwurfes hervor. Danach bezweckt das Gesetz die Einbeziehung des Flugverkehrs in die - für andere Verkehrsträger bereits durch die Belastung
+mit der verbrauchsorientierten Energiesteuer erfolgende - Mobilitätsbesteuerung, um
+Anreize für umweltgerechteres Verhalten zu setzen; ökologische Belange seien bei
+der Besteuerung zu berücksichtigen (BTDrucks 17/3030, S. 36).
+
+ Bei dem vom Gesetzgeber verfolgten Ziel des Umweltschutzes handelt es sich um            47
+einen Sachgrund, dessen Legitimität sich unter anderem aus dem in Art. 20a GG enthaltenen Auftrag ergibt, in Verantwortung für die künftigen Generationen die natürlichen Lebensgrundlagen zu schützen (vgl. BVerfGE 118, 79 <110>; 128, 1 <37>).
+Dieser Auftrag kann sowohl Gefahrenabwehr gebieten als auch Risikovorsorge legitimieren. Zu den nach Art. 20a GG geschützten Umweltgütern gehört auch ein mit der
+Besteuerung beabsichtigter Klimaschutz.
+
+  bb) Mit der Belastung von gewerblichen Passagierflügen hat der Gesetzgeber den          48
+Steuergegenstand in verfassungsgemäßer Weise gewählt. Die Luftverkehrsteuer ist
+mittlerweile sogar in Art. 106 Abs. 1 Nr. 3 GG verfassungsrechtlich anerkannt. Derartige Flüge belasten die Umwelt, ihre steuerliche Lenkung dient dem Klimaschutz.
+
+  Die Besteuerung des gewerblichen Passagierluftverkehrs führt im Übrigen auch            49
+nicht im Vergleich zu anderen Verkehrsarten zu einer gleichheitswidrigen Doppelbelastung im Hinblick auf die ab 2012 erfolgende Belastung des Luftverkehrs durch den
+Emissionsrechtehandel. Der Gesetzgeber hat mit der Regelung in § 11 Abs. 2 Luft-VStG ohnehin sichergestellt, dass die kumulierte Belastung aus beiden den allein für
+die Luftverkehrsteuer vorgesehenen, in der Praxis auch tatsächlich erzielbaren Betrag von 1 Milliarde Euro jährlich nicht überschreitet. Zudem ist der gewerbliche Luftverkehr in Deutschland derzeit nicht mit einer Energiesteuer („Kerosinsteuer“) belegt,
+was nach Schätzungen zu Steuerersparnissen für die Unternehmen in Höhe von
+jährlich 680 Millionen Euro allein im innerdeutschen Flugverkehr führt.
+
+ cc) Der Gesetzgeber war nicht aus Gleichheitsgründen gehalten, zugleich auch den         50
+privaten Flugverkehr und Frachtflüge mit der Luftverkehrsteuer zu belegen.
+
+ Bei der Auswahl des gewerblichen Passagierluftverkehrs handelt es sich um eine           51
+
+
+
+                                         16/24
+
+Bestimmung des Steuergegenstandes, die lediglich auf einem nachvollziehbaren
+Sachgrund beruhen muss. Bereits aus der engen Fassung des Steuergegenstandes
+in § 1 Abs. 1 LuftVStG als zentraler Norm des Gesetzes ergibt sich, dass der Gesetzgeber den gewerblichen Passagierluftverkehr als abgrenzbaren, im Vergleich zu
+anderen Luftverkehren gesondert steuerbaren Sachverhalt ansieht. Seine Entscheidung, den privaten Luftverkehr und den Frachtverkehr im Gegensatz zum gewerblichen Passagierluftverkehr aus der Belastung mit der Luftverkehrsteuer auszuklammern, ist deshalb nur darauf zu überprüfen, ob es für die getroffene Unterscheidung
+einen sachlichen Grund gibt, der bei einer am Gerechtigkeitsgedanken orientierten
+Betrachtungsweise nicht als willkürlich angesehen werden kann (vgl. BVerfGE 26, 1
+<8>; 46, 224 <233, 239 f.>; 120, 1 <31>). Er wird wegen seines weitgehenden Spielraums zur Auswahl von Steuergegenständen durch den Gleichheitssatz aber nicht
+gezwungen, nach einer einmal getroffenen Entscheidung für ein bestimmtes Steuerobjekt zugleich auch alle anderen, ähnlichen, für den Steuerzweck ebenfalls geeigneten Steuerobjekte in die Belastung einzubeziehen.
+
+  Diesen ihm zustehenden Spielraum bei der Bestimmung des Steuergegenstandes               52
+hat der Gesetzgeber nicht überschritten. Gegenüber dem privaten Luftverkehr führt
+die Begründung des Gesetzentwurfs zur Rechtfertigung aus, dass dieser bereits mit
+Energiesteuer belastet ist, gegenüber der Luftfracht die unterschiedlichen Wettbewerbsbedingungen auf getrennten Märkten für Passagier- und Frachtverkehr (BT-Drucks 17/3030, S. 36). Es handelt sich dabei um mit dem Grundsatz der Belastungsgleichheit vereinbare Unterscheidungen nach der finanziellen Belastbarkeit der
+betroffenen Gruppen. Die Einschätzung, dass der private Luftverkehr weniger belastbar ist, weil er bereits anderweitig besteuert wird, und dass die finanzielle Belastbarkeit des Frachtverkehrs mit seinen ganz anderen Marktbedingungen eingeschränkt
+ist, überschreitet den dem Gesetzgeber eingeräumten Spielraum nicht, welche Steuerquelle er überhaupt erschließen möchte.
+
+ 2. Die in § 5 Nummern 2, 4c und 5 LuftVStG und in § 2 Nummern 4 und 5 LuftVStG            53
+getroffenen Ausnahmeregelungen sind ebenfalls mit Art. 3 Abs. 1 GG vereinbar.
+Nachdem der Steuergegenstand ausgewählt ist, unterliegt der Gesetzgeber nach Art.
+3 Abs. 1 GG engeren Bindungen. Die Abweichung von der mit der Wahl des Steuergegenstandes einmal getroffenen Belastungsentscheidung beruht auf besonderen
+sachlichen Gründen, die die Ungleichbehandlungen zu rechtfertigen vermögen.
+
+ a) Die in § 5 Nr. 5 LuftVStG bestimmte Steuerentlastung von Inselflügen begründet         54
+eine ungleiche Belastung. Die Privilegierung erfolgt unabhängig von der auch nur typisiert angenommenen Flugentfernung. Die mit dem Abschluss des Beförderungsvertrags verbundenen Kosten sind nicht abhängig vom Wohnsitz des Passagiers. Die
+privilegierten Flüge sind auch nicht weniger umweltschädlich als die besteuerten Flüge.
+
+ Die in einer Steuerbefreiung bestimmte Begünstigung genügt jedoch dem Gleichheitsgebot, weil sie von einem Sachgrund getragen wird, der ein Abgehen vom Fi-
+
+
+
+                                          17/24
+
+nanzierungs- und Lenkungszweck der Steuer rechtfertigt. Will der Gesetzgeber ein
+bestimmtes Verhalten der Bürger fördern, das ihm aus wirtschafts-, sozial-, umweltoder gesellschaftspolitischen Gründen erwünscht ist, hat er eine große Gestaltungsfreiheit. In der Entscheidung darüber, welche Personen oder Unternehmen durch finanzielle Zuwendung des Staates gefördert werden sollen, ist der Gesetzgeber weitgehend frei (vgl. BVerfGE 17, 210 <216>; 93, 319 <350>). Zwar bleibt er auch hier
+an den Gleichheitssatz gebunden. Sachbezogene Gesichtspunkte stehen ihm aber
+in weitem Umfang zu Gebote, solange die Regelung sich nicht auf eine der Lebenserfahrung geradezu widersprechende Würdigung der jeweiligen Lebenssachverhalte
+stützt, insbesondere der Kreis der von der Maßnahme Begünstigten sachgerecht abgegrenzt ist (vgl. BVerfGE 17, 210 <216>). Diese Erwägungen gelten auch, wenn der
+Gesetzgeber eine Subvention steuerrechtlich erbringt, statt sie direkt finanziell zuzuwenden (vgl. BVerfGE 110, 274 <293>).
+
+  Die Herabsetzung der Luftverkehrsteuer für Flüge von und zu inländischen, dänischen und niederländischen Nordseeinseln ohne tidenunabhängigen Verkehrsanschluss mit dem Festland auf 20 % des jeweiligen gültigen Steuersatzes nach § 11
+Abs. 1 Nr. 1 LuftVStG (§ 5 Nr. 5 LuftVStG i.V.m. der Genehmigung der Europäischen
+Kommission <Bekanntmachung vom 15. Januar 2013, BGBl I 2013 S. 81>) wird
+durch den Zweck der Sicherstellung einer verkehrsmäßigen Erschließung der betroffenen Inseln getragen (BTDrucks 17/3030, S. 38). Dies rechtfertigt auch die steuerliche Verschonung des touristischen Verkehrs. Die betroffenen Inseln sind wegen der
+Witterungsbedingungen und des Tidenhubs bei fehlender Anbindung an das Festland über Schiene oder Straße zeitweise nicht oder nur schwer zu erreichen. Die Sicherung der Daseinsvorsorge für die Inselbewohner darf der Gesetzgeber als Ziel
+verfolgen. Die Annahme einer Gefährdung der jederzeitigen Erreichbarkeit wegen ihrer Insellage und deren Beseitigung durch eine Steuerprivilegierung des Transportmittels Flugzeug liegen innerhalb des ihm eingeräumten Einschätzungs- und Gestaltungsspielraums. Zudem fällt das Ausmaß der Steuerbefreiung kaum ins Gewicht,
+denn nach den Angaben des Statistischen Bundesamts entfällt auf dieses Privileg
+nur 0,026 % des gesamten Passagieraufkommens in Deutschland (vgl. Statistisches
+Bundesamt, Finanzen und Steuern, Luftverkehrsteuer, Ausgabe 2012, Fachserie 14,
+Reihe 9.6, S. 7).
+
+  b) Die Befreiung von Flügen zu militärischen und anderen hoheitlichen Zwecken           57
+(§ 5 Nummern 2 und 4c LuftVStG) rechtfertigt sich bereits aus dem gewählten Gegenstand der Besteuerung. Flüge zu militärischen und anderen hoheitlichen Zwecken durfte der Gesetzgeber als nicht zu den gewerblichen Passagierflügen gehörend ausgrenzen. Sie ist ferner dadurch gerechtfertigt, dass die Erhebung der Steuer
+wegen der bezweckten Abwälzung auf den Passagier letztlich ihren Einnahmezweck
+verfehlt. Die Besteuerung dienstlicher Flüge würde letztlich vom Staatshaushalt getragen. So würde die Steuerbelastung nur zu einer Verschiebung von Finanzmitteln
+zwischen verschiedenen öffentlichen Haushalten oder innerhalb eines öffentlichen
+Haushalts führen. Einnahmen für den Staat würden gar nicht generiert. Auch das
+
+
+
+                                         18/24
+
+Ausmaß der Ungleichbehandlung ist äußerst gering. Der Anteil der steuerbefreiten
+Flüge zu militärischen oder anderen hoheitlichen Zwecken betrug nach Angaben des
+Statistischen Bundesamtes für 2012 nur 0,28 % des gesamten Passagieraufkommens in Deutschland (vgl. Statistisches Bundesamt, Finanzen und Steuern, Luftverkehrsteuer, Ausgabe 2012, Fachserie 14, Reihe 9.6, S. 7).
+
+ c) Das Umsteigerprivileg (§ 2 Nummern 4 und 5 LuftVStG i.V.m. § 1 Abs. 1 Luft-           58
+VStG) ist mit dem Gleichheitssatz des Art. 3 Abs. 1 GG vereinbar.
+
+  aa) Liegt einer Flugreise, die im Ausland begonnen hat, im Inland zu einer Zwischenlandung führt und mit oder ohne Umstieg zu einem Zielort im In- oder Ausland
+fortgesetzt wird, ein einziger Rechtsvorgang - in der Regel also ein einziger Ticketkauf - zugrunde, wird die Abflugberechtigung für den inländischen Abflug nach der
+Zwischenlandung nicht besteuert; der Start im Ausland bleibt schon nach dem
+Grundtatbestand des § 1 Abs. 1 LuftVStG mangels „inländischen Startorts“ steuerfrei. Im Ergebnis werden derartige Flüge überhaupt nicht belastet. Bei einem Zubringerflug aus dem Inland fällt nur für diesen, nicht aber für den Wiederabflug die Luftverkehrsteuer an, das heißt es wird nur einmal besteuert. Die steuerbefreiten
+Wiederabflüge von deutschen Flughäfen und -plätzen nach Zwischenlandungen im
+Sinne des § 2 Nr. 5 LuftVStG unterscheiden sich hinsichtlich der wirtschaftlichen
+Leistungsfähigkeit der befreiten Passagiere oder der durch sie entstehenden Umweltbelastung aber nicht erkennbar von Flügen, die mit der Luftverkehrsteuer belastet sind. Das Umsteigerprivileg des § 2 Nummern 4 und 5 LuftVStG in Verbindung mit
+§ 1 Abs. 1 LuftVStG führt mithin zu einer Ungleichbehandlung von Flügen.
+
+  bb) Führt ein Steuergesetz zu einer steuerlichen Verschonung, die eine ungleiche        60
+Belastung der jeweiligen Steuergegenstände innerhalb einer Steuerart begründet, so
+kann eine solche Steuerentlastung vor dem Gleichheitssatz gerechtfertigt sein, wenn
+der Gesetzgeber das Verhalten des Steuerpflichtigen aus Gründen des Gemeinwohls fördern oder lenken will (vgl. BVerfGE 93, 121 <147>). Bei Vorliegen ausreichender Gemeinwohlgründe kann die Entlastung dabei in verfassungsrechtlich zulässiger Weise sogar dazu führen, dass bestimmte Steuergegenstände vollständig
+von der Besteuerung ausgenommen werden (vgl. BVerfGE 117, 1 <32>).
+
+  cc) Hieran gemessen hält die Ausnahme von der Besteuerung durch das Umsteigerprivileg der verfassungsrechtlichen Prüfung stand; denn sie wird von legitimen
+wirtschaftspolitischen Zwecken getragen. Es sollen die deutschen Flughäfen als internationale Drehkreuze geschützt werden, indem sie in dieser Funktion durch die
+Luftverkehrsteuer geringer Belastung unterliegen (vgl. BTDrucks 17/3030, S. 4). Insbesondere für die Flughäfen in Frankfurt am Main und in München als typische Startorte für Interkontinentalflüge, für die vielfach Zubringerflüge notwendig werden, droht
+bei Erhebung der Steuer auf den Weiterflug die Gefahr einer Verlagerung des Umsteigeorts in das Ausland wegen erhöhter Kosten für den Umstieg in Deutschland.
+
+ 3. Die angegriffene Ausgestaltung des Steuertarifs in § 10, § 11 Abs. 1 LuftVStG         62
+verletzt den allgemeinen Gleichheitssatz nicht. Der Gesetzgeber hat mit der Anknüp-
+
+
+                                         19/24
+
+fung der Besteuerung an die mit dem Flug zurückgelegte Distanz einen geeigneten
+und hinreichend realitätsgerechten Besteuerungsmaßstab gewählt. Die durch die
+Normierung verursachten Verwerfungen sind aus Vereinfachungsgründen noch tragbar.
+
+  a) Der Gesetzgeber hat in § 10 LuftVStG die Lage des jeweils gewählten Zielorts         63
+zum Maßstab der Besteuerung bestimmt. In der Zusammenschau mit § 11 LuftVStG
+und seinen beiden Anlagen lässt sich als Belastungsentscheidung aus dem Gesetz
+ableiten, dass die Höhe der für jeden Fluggast vom Luftverkehrsunternehmen zu entrichtenden und bei Überwälzung von jedem Fluggast zu tragenden Luftverkehrsteuer
+grundsätzlich mit der Länge der Flugstrecke steigt. Diese Ausgestaltung entspricht
+dem Umweltschutzzweck des Luftverkehrsteuergesetzes.
+
+  b) aa) Die für die Höhe des Steuertarifs maßgebliche Anknüpfung in § 11 Abs. 1          64
+LuftVStG an den größten Verkehrsflughafen des Ziellandes statt an den tatsächlichen Zielflughafen bewirkt allerdings, dass bei Ländern der Anlage 1 zu § 11 Abs. 1
+LuftVStG, die sehr groß sind oder zu denen Überseegebiete gehören, vom Entfernungsmaßstab abweichende steuerliche Begünstigungen auftreten können. Denn
+bei solchen Ländern liegen zwar die den Steuersatz bestimmenden größten Verkehrsflughäfen jeweils in einer Entfernung von weniger als 2500 km zum Flughafen
+in Frankfurt am Main, nicht aber ausnahmslos alle weiteren Flughäfen. Wird einer
+dieser weit vom größten Verkehrsflughafen desselben Landes entfernte Flughafen
+aufgrund eines einheitlichen Rechtsvorgangs (Direktflug oder Kettenflug mit einheitlicher Buchung) angeflogen, fällt lediglich der niedrigste, für Länder der Anlage 1 geltende Steuersatz an, auch wenn seine Entfernung zum deutschen Startort die Obergrenze von 2500 km Entfernung für diese Länder überschreitet.
+
+ bb) Die hierdurch begründeten ungleichen Belastungen führen nicht zur Unvereinbarkeit des vom Gesetzgeber bestimmten Steuermaßstabes mit Art. 3 Abs. 1 GG.
+Der für die Besteuerung maßgebliche Flughafen des Ziellandes mit dem größten Verkehrsaufkommen ist für einen erheblichen Teil der besteuerten Flüge der tatsächliche
+Zielflughafen und gibt dann den Distanzmaßstab korrekt wieder. Soweit der angeflogene Zielort nicht mit dem größten Verkehrsflughafen identisch ist, liegt er in den
+meisten Fällen zumindest innerhalb eines Umkreises von 2500 km zu Frankfurt am
+Main. Zu Verwerfungen kommt es nur bei wenigen sehr großen Ländern oder beim
+Flug in überseeische Territorien einiger weniger Länder.
+
+  Diese Verwerfungen sind aus Vereinfachungsgründen gleichheitsrechtlich noch             66
+tragbar. Der Steuergesetzgeber darf aus Gründen der Verwaltungsvereinfachung
+Steuersätze typisierend bestimmen und dabei die Besonderheiten des einzelnen Falles vernachlässigen, wenn die daraus erwachsenden Vorteile im rechten Verhältnis
+zu der mit der Typisierung notwendig verbundenen Ungleichheit der steuerlichen Belastung stehen (vgl. BVerfGE 110, 274 <292>; 117, 1 <31>; 120, 1 <30>; 123, 1
+<19>), er sich realitätsgerecht am typischen Fall orientiert (vgl. BVerfGE 117, 1 <31>;
+120, 1 <30>; 123, 1 <19>; 132, 39 <49, Rn. 29>) und ein vernünftiger, einleuchtender
+
+
+
+                                         20/24
+
+Grund vorhanden ist (vgl. BVerfGE 123, 1 <19>). Hier orientiert sich das Luftverkehrsteuergesetz realitätsgerecht am Flughafen mit dem höchsten Verkehrsaufkommen im jeweiligen Land, auf dem die meisten Flüge landen. Diese vereinfachte Normierung zugunsten eines grob gerasterten Katalogs von Zielländern vermeidet es,
+bei jedem Flug die tatsächliche Entfernung zwischen jeweils zwei Flughäfen exakt
+zu ermitteln. Auch im Interesse der betroffenen Luftverkehrsunternehmen als Steuerschuldner wird damit die tarifliche Einstufung der Flüge in diesen Massenvorgängen des Steuerrechts erleichtert. Vor allem sind aber die davon hervorgerufenen Ungleichheiten im geregelten Tarif mit drei Distanzzonen nach ihrer Anzahl sehr gering.
+Der Hauptstrom der Flüge landet in Hauptstädten und Industriezentren; der Anflug
+überseeischer Inselbesitzungen oder von größeren Verkehrsflughäfen in einer weiter entfernten als der angesetzten Entfernungskategorie ist in der Steuergruppe der
+Länder nach Anlage 1 nach der unbestrittenen Auskunft des Bundesministeriums der
+Finanzen nur marginal.
+
+  cc) Dass diese Verwerfungen bei einer theoretisch möglichen, exakten Ausgestaltung des Steuertarifs nach tatsächlichen Entfernungskilometern vermeidbar wären,
+ist für die Verfassungsmäßigkeit der Regelung nicht von Belang. Die Feinheit der
+Ausdifferenzierung des Steuertatbestandes unterfällt grundsätzlich dem Gestaltungsspielraum des Steuergesetzgebers. Eine optimale Lösung muss er nicht finden.
+Dies gilt ebenso für die von der Antragstellerin aufgeworfene Frage, ob nicht statt des
+vom Gesetzgeber gewählten Drei-Zonen-Modells für die Bestimmung des Steuertarifs ein von der genauen Kilometerzahl der angesetzten Entfernung abhängiger, stufenloser Steuersatz oder ein Ansatz mit mehr Entfernungszonen, insbesondere mit
+einer größeren Ausdifferenzierung innerhalb der Länder der Anlage 1 (bis 2500 km
+Entfernung), zu einer höheren Steuergerechtigkeit geführt hätte und noch praktikabel
+gewesen wäre.
+
+                                           IV.
+ Die Besteuerung des Passagierluftverkehrs nach § 1 Abs. 1 in Verbindung mit § 11            68
+Abs. 1 LuftVStG verletzt weder die Berufsfreiheit der Luftverkehrsunternehmen als
+Steuerschuldner noch die Berufsfreiheit der - bei tatsächlicher Abwälzung der Steuer
+als Steuerträger betroffenen - Passagiere.
+
+  1. Für den Fluggast stellt die Luftverkehrsteuer keinen Eingriff in seine Berufsfreiheit   69
+dar, weil ihr insoweit ein berufsregelnder Bezug fehlt. Die Erhebung von Steuern und
+sonstigen Abgaben greift in den Schutzbereich von Art. 12 Abs. 1 GG ein, wenn sie in
+engem Zusammenhang mit der Ausübung eines Berufes steht und objektiv deutlich
+eine berufsregelnde Tendenz erkennen lässt (vgl. BVerfGE 37, 1 <17>; 98, 106
+<117>; 110, 274 <288>). Eine solche berufsregelnde Tendenz ist dann nicht gegeben, wenn die Steuer alle Verbraucher ungeachtet ihrer beruflichen Betätigung trifft
+(vgl. BVerfGE 110, 274 <288 f.>). Dies trifft auf die Passagiere regelmäßig zu; Touristen, Berufstätige, Personen in der Ausbildung, Fluggäste zu Familienbesuchen
+und andere sind unterschiedslos betroffen. Auch soweit die berufliche Tätigkeit eines
+
+
+                                          21/24
+
+Fluggastes mit einer hohen Zahl von Flügen verbunden ist, entfaltet die Steuer wegen der geringen Höhe im Vergleich zu den übrigen Flugkosten keine berufsregelnde
+Wirkung.
+
+ 2. Eine objektiv berufsregelnde Tendenz der Luftverkehrsteuer besteht hingegen für      70
+die Luftverkehrsunternehmen wegen ihres Lenkungszwecks. Der damit einhergehende Eingriff in die Freiheit der Berufsausübung (a) ist aber verfassungsrechtlich nicht
+zu beanstanden (b).
+
+ a) Ziel des Gesetzes ist es, Anreize für ein umweltgerechteres Verhalten zu setzen.     71
+Zu diesem Zweck verteuert der Gesetzgeber die von den Luftverkehrsunternehmen
+angebotenen Dienstleistungen in unterschiedlicher Höhe, um so die Gesamtanzahl
+der Flugbewegungen zu reduzieren. Damit steuert er auch das berufliche Verhalten
+der Luftverkehrsunternehmen. Mit welchen Angeboten ein Unternehmen am Markt
+auftritt, unterfällt der von Art. 12 Abs. 1 GG geschützten Berufsausübungsfreiheit.
+Auch aus dem in der Gesetzesbegründung angeführten Aspekt, dem von der verbrauchsorientierten Energiesteuer befreiten gewerblichen Luftverkehr Anreiz zum
+energiesparenden Einsatz von Kraftstoffen zu geben, folgt, dass der Gesetzgeber eine Lenkung des beruflichen Verhaltens der Luftverkehrsunternehmen beabsichtigt,
+beispielsweise dahingehend, ihre Angebote am Markt auf Treibstoffeffizienz hin auszurichten.
+
+  b) Die Beeinträchtigung der Berufsausübungsfreiheit der Luftverkehrsunternehmen        72
+wird durch den vom Gesetzgeber verfolgten Zweck des Umweltschutzes gerechtfertigt.
+
+
+
+
+                                         22/24
+
+  Die Belastung mit der Luftverkehrsteuer ist geeignet, durch den von ihr verursachten Kostendruck Luftverkehrsunternehmen zur besseren Auslastung von Flügen oder
+zu einer Reduzierung ineffizienter Flüge zu bewegen. Im Bereich der steuerlichen
+Lenkung darf der Gesetzgeber in Kauf nehmen, dass das Lenkungsziel nicht verlässlich erreicht wird (vgl. BVerfGE 98, 106 <121>). Im Vergleich zu unmittelbar rechtlich
+wirkenden Verboten ohne Ausweichmöglichkeit ist die Besteuerung das mildere Mittel, weil sie dem Besteuerten die Wahl zwischen dem vom Gesetzgeber gewünschten Verhalten und der Zahlung lässt. Die Beeinträchtigung der Berufsausübungsfreiheit steht nicht außer Verhältnis zu dem angestrebten Zweck der Verhaltenslenkung.
+Hierbei ist zu berücksichtigen, dass die mit der Lenkung durch die Steuer verbundene Beeinträchtigung der beruflichen Tätigkeit der Luftverkehrsunternehmen relativ
+gering ist und dass sie juristische Personen betrifft, bei denen die von Art. 12 Abs. 1
+GG geschützte persönliche Entfaltung geringeres Gewicht hat, während den klimapolitischen Zielen in Art. 20a GG ein hoher Stellenwert eingeräumt werden darf. Eingriffszweck und Eingriffsintensität stehen damit in einem angemessenen Verhältnis
+zueinander.
+
+               Kirchhof                 Gaier                Eichberger
+
+             Schluckebier              Masing                  Paulus
+
+                       Baer                               Britz
+
+
+
+
+                                         23/24
+
+Bundesverfassungsgericht, Urteil des Ersten Senats vom 5. November 2014 -
+1 BvF 3/11
+
+Zitiervorschlag BVerfG, Urteil des Ersten Senats vom 5. November 2014 - 1 BvF 3/11 -
+                Rn. (1 - 73), http://www.bverfg.de/e/fs20141105_1bvf000311.html
+
+ECLI            ECLI:DE:BVerfG:2014:fs20141105.1bvf000311
+
+
+
+
+                                      24/24
