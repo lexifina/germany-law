@@ -1,0 +1,71 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-06T17:00:00+01:00
+- Ende: 2014-11-06T20:02:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8885
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8885
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00226101.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00226101.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00226101.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Grünordnungsplan 2025 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: B-Plan 08/002 Nördlich Gerresheimer Landstraße Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 6: FNP-Ä 168 - Nördlich Gerresheimer Land - Aufst.; ÖB - mehrheitlich beschlossen
+- TOP 7: Weihnachtsmarkt in Unterbach am 06. und 07.12.2014 - einstimmig beschlossen
+- TOP 8: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 1. Halbjahr 2015 - einstimmig beschlossen
+- TOP 9: Aufnahme auswärtiger Kinder in städtischen Schulen - vertagt
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2014
+- TOP 12: Beschluss des AWTL vom 19.11.2001 - beantwortet
+- TOP 13: Rettungswege zu den Gebäuden Zwickauer Straße 29 - 39 - beantwortet
+- TOP 14: Wellness Anlage Elbsee - beantwortet
+- TOP 15: Kleingartenanlagen Höher Weg und Deutzer Straße - beantwortet
+- TOP 16: Grundstück Vennhauser Allee 222 - beantwortet
+- TOP 17: Kreuzung Eller Kamp/Kamper Weg und Ellerkirchstraße - beantwortet
+- TOP 18: Skaterpark Heidelberger Straße - beantwortet
+- TOP 19: Bezirksradwegenetz Stadtbezirk 8 - beantwortet
+- TOP 20: Rhein-Ruhr-Express in Eller und Lierenfeld - beantwortet
+- TOP 21: Barrierefreier Baltestellenumbau U75 und 715 im Stadtbezirk 8 - beantwortet
+- TOP 22: Ordnungs- und Servicedienst auf dem Gertrudisplatz - beantwortet
+- TOP 23: Umbau der Haltestelle Lierenfeld Betriebshof - beantwortet
+- TOP 24: Wachdienst Schloss Eller - beantwortet
+- TOP 25: Umbau der Bushaltestelle Karlsruher Straße - beantwortet
+- TOP 26: Sicherheit im Stadtbezirk 8 - beantwortet
+- TOP 27: Radweg Gubener Straße - beantwortet
+- TOP 28: Garagen Rütgerstraße / Konradstraße - beantwortet
+- TOP 29: Radweg Neusalzer Weg - beantwortet
+- TOP 30: Stärkung der Bürger/innenbeteiligung im Stadtbezirk 8 - vertagt
+- TOP 31: Breidenplatz - Handlauf an der unteren Treppe - vertagt
+- TOP 32: Barrierefreier Umbau S-Bahnhof Eller-Mitte - vertagt
+- TOP 33: Bürgernähe und Wahrnehmbarkeit der Bezirksvertretung 8 - vertagt
+- TOP 34: WLAN - Säulen im Stadtbezirk 8 - vertagt
+- TOP 35: Abfalleimer Ellerbittweg / Ecke Gumbertstraße - vertagt
+- TOP 36: Bushalteplatz an der Dieter-Forte-Gesamtschule - vertagt
+- TOP 37: Hundeauslaufplatz Ellerkirchstraße - vertagt
+- TOP 38: Bordsteinabsenkung Gumbertstraße, Haltestelle Eller-Mitte - vertagt
+- TOP 39: Möblierung und Durchgang S-Bahnhof Eller-Süd - vertagt
+- TOP 40: Skateranlage Heidelberger Straße - vertagt
+- TOP 41: Einberufung Kriminalpräventiver Rat im Stadtbezirk 8 - vertagt
+- TOP 42: Bordsteinabsenkungen in Unterbach - vertagt
+- TOP 43: Grundstück Am Hackenbruch / Eller Kamp - vertagt
+- TOP 44: Kinder- und Jugendförderplan im Stadtbezirk 8 - vertagt
+- TOP 45: Rhein-Ruhr-Express im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Sitzungstermine der Bezirksvertretung 8 im Jahre 2015 - zur Kenntnis genommen
+- TOP 47: Sturmschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 48: Tütenspender im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Städtische Wohnungen und Häuser im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: 'Nette Toilette' im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Rettungswege zu den Gebäuden Zwickauer Straße 29 - 39 - zur Kenntnis genommen
+- TOP 52: Bebauung des ehemaligen Kirmesplatzes Sturmstraße - zur Kenntnis genommen
+- TOP 53: Grundstück Am Langenfeldsbusch 1 - zur Kenntnis genommen
+- TOP 54: Radweg Neusalzer Weg - zur Kenntnis genommen
