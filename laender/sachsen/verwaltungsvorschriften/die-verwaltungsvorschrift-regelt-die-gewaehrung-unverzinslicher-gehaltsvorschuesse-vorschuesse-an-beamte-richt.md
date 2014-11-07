@@ -1,8 +1,8 @@
-# Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Beschäftigte des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte
+# Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Arbeitnehmer des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2013-02-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12742.1
+- Datum: 2014-11-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12742.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -14,18 +14,13 @@ Allgemeines
 
 1.1
 
-Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Beschäftigte des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte und Richter müssen sich in einem Dienstverhältnis auf Lebenszeit befinden. Beschäftigte müssen sich in einem ungekündigten Arbeitsverhältnis auf unbestimmte Zeit befinden, ihre Probezeit beendet haben und ihr Entgelt muss regelmäßig den in § 8 Abs. 1 Nr. 1 des
-Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (
-
-SGB IV) in der Fassung der Bekanntmachung vom 12. November 2009 (BGBl. I S. 3710, 3973, 2011 I S. 363), das zuletzt durch Artikel 1 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2474) geändert worden ist, in der jeweils geltenden Fassung, genannten Betrag (Stand 1. Januar 2013: 450 EUR im Monat) übersteigen.
+Die Verwaltungsvorschrift regelt die Gewährung unverzinslicher Gehaltsvorschüsse (Vorschüsse) an Beamte, Richter und Arbeitnehmer des Freistaates Sachsen (Bedienstete), die einen laufenden Anspruch auf Dienstbezüge oder Entgelt haben (Bezüge). Beamte und Richter müssen sich in einem Dienstverhältnis auf Lebenszeit befinden. Arbeitnehmer müssen sich in einem ungekündigten Arbeitsverhältnis auf unbestimmte Zeit befinden, ihre Probezeit beendet haben und ihr Entgelt muss regelmäßig den in § 8 Abs. 1 Nr. 1 des
+Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (SGB IV) in der Fassung der Bekanntmachung vom 12. November 2009 (BGBl. I S. 3710, 3973, 2011 I S. 363), das zuletzt durch Artikel 1 des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2474) geändert worden ist, in der jeweils geltenden Fassung, genannten Betrag (Stand 1. Januar 2014: 450 EUR im Monat) übersteigen. Sind die Voraussetzungen von Satz 2 und 3 nicht erfüllt, kommt die Gewährung eines Vorschusses nur unter den besonderen Voraussetzungen der Nummer 7 in Betracht.
 
 1.2
 
-Die folgenden Bestimmungen gelten entsprechend für Lebenspartner nach dem Gesetz über die Eingetragene Lebenspartnerschaft (
-Lebenspartnerschaftsgesetz –
-LPartG) vom 16. Februar 2001 (BGBl. I S. 266), das zuletzt durch Artikel 7 des Gesetzes vom 6. Juli 2009 (BGBl. I S. 1696, 1700) geändert worden ist, in der jeweils geltenden Fassung, und mit dem Bediensteten in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden Partner (vergleiche Abschnitt II Nr. 3.2.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen
-Trennungsgeldverordnung [
-VwV-SächsTGV ] in der Fassung der Bekanntmachung vom 10. November 1999 [MBl. SMF S. 234], die zuletzt durch Verwaltungsvorschrift vom 25. Juli 2012 [SächsABl. S. 1138] geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 [SächsABl. SDr. S. S 1702], in der jeweils geltenden Fassung), soweit sie sich auf den Ehegatten beziehen. Sofern sich die nachfolgenden Bestimmungen auf die Schließung, Auflösung sowie Scheidung oder das Bestehen oder frühere Bestehen einer Ehe beziehen, gelten diese entsprechend für die Begründung oder Aufhebung sowie das Bestehen oder frühere Bestehen einer Lebenspartnerschaft im Sinne des
+Die folgenden Bestimmungen gelten entsprechend für Lebenspartner nach dem Gesetz über die Eingetragene Lebenspartnerschaft (Lebenspartnerschaftsgesetz – LPartG) vom 16. Februar 2001 (BGBl. I S. 266), das zuletzt durch Artikel 7 des Gesetzes vom 6. Juli 2009 (BGBl. I S. 1696, 1700) geändert worden ist, in der jeweils geltenden Fassung, und mit dem Bediensteten in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden Partner (vergleiche Abschnitt II Nr. 3.2.2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung [VwV-SächsTGV]
+in der Fassung der Bekanntmachung vom 10. November 1999 [MBl. SMF S. 234], die zuletzt durch Verwaltungsvorschrift vom 25. Juli 2012 [SächsABl. S. 1138] geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 [SächsABl. SDr. S. S 1702], in der jeweils geltenden Fassung), soweit sie sich auf den Ehegatten beziehen. Sofern sich die nachfolgenden Bestimmungen auf die Schließung, Auflösung sowie Scheidung oder das Bestehen oder frühere Bestehen einer Ehe beziehen, gelten diese entsprechend für die Begründung oder Aufhebung sowie das Bestehen oder frühere Bestehen einer Lebenspartnerschaft im Sinne des
 Lebenspartnerschaftsgesetzes.
 
 1.3
@@ -34,14 +29,14 @@ Vorschüsse sind freiwillige Leistungen; ein Rechtsanspruch hierauf besteht nich
 
 1.4
 
-Über die Gewährung entscheidet das Landesamt für Steuern und Finanzen aufgrund eines schriftlichen Antrags, für den der in der Anlage beigefügte Vordruck zu verwenden ist. Die bewilligten Vorschüsse werden im Rahmen der Bezügeabrechnungsverfahren zahltagsunabhängig ausgezahlt. Das Landesamt für Steuern und Finanzen regelt gleichzeitig mit der Vorschussbewilligung das Tilgungsverfahren. Besondere Zuständigkeitsregelungen nach der Verordnung der Sächsischen Staatsregierung und der sächsischen Staatsministerien über Zuständigkeiten für die Festsetzung, Anordnung und Abrechnung der Bezüge von Bediensteten und Versorgungsempfängern (
-BezügeZustVO) in der Fassung der Bekanntmachung vom 22. Februar 1999 (SächsGVBl. S. 127, 2000 S. 4), in der jeweils geltenden Fassung, bleiben unberührt. In besonderen Härtefällen kann das Staatsministerium der Finanzen im Einzelfall Abweichungen von dieser Verwaltungsvorschrift zulassen.
+Über die Gewährung entscheidet das Landesamt für Steuern und Finanzen aufgrund eines schriftlichen Antrags, für den der in der Anlage beigefügte Vordruck zu verwenden ist. Die bewilligten Vorschüsse werden im Rahmen der Bezügeabrechnungsverfahren zahltagsunabhängig ausgezahlt. Das Landesamt für Steuern und Finanzen regelt gleichzeitig mit der Vorschussbewilligung das Tilgungsverfahren. Besondere Zuständigkeitsregelungen nach der Verordnung der Sächsischen Staatsregierung und der Sächsischen Staatsministerien über Zuständigkeiten für die Festsetzung, Regelung, Anordnung und Abrechnung der Bezüge von Bediensteten und Versorgungsempfängern sowie des Alters- und Hinterbliebenengeldes (BezügeZustVO) in der Fassung der Bekanntmachung vom 22. Februar 1999 (SächsGVBl. S. 127, 2000 S. 4), in der jeweils geltenden Fassung, bleiben unberührt. In besonderen Härtefällen kann das Staatsministerium der Finanzen im Einzelfall Abweichungen von dieser Verwaltungsvorschrift zulassen.
 
 1.5
 
 Vorschüsse sind einkommen-/lohnsteuerrechtlich Arbeitgeberdarlehen. Die aus der unverzinslichen Abgabe entstehenden Zinsersparnisse sind Sachbezüge im Sinne des § 8 Abs. 2 des
-Einkommensteuergesetzes (EStG) in der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366, 3862), das zuletzt durch Artikel 3 des Gesetzes vom 8. Mai 2012 (BGBl. I S. 1030) geändert worden ist, in der jeweils geltenden Fassung. Diese sind als Arbeitslohn zu versteuern, wenn die Summe der noch nicht getilgten Darlehen am Ende des Lohnzahlungszeitraumes 2 600 EUR übersteigt. Die Freigrenze des § 8 Abs. 2 Satz 9
-EStG (Stand 1. Januar 2013: 44 EUR kalendermonatlich) ist zu beachten. Das Landesamt für Steuern und Finanzen hat zu prüfen, ob die Zinsersparnisse als Sachbezüge nach einkommen-/lohnsteuerrechtlichen Grundsätzen zu versteuern sind und die Höhe dieser aus dem Unterschiedsbetrag zum marktüblichen Zins zu ermitteln.
+Einkommensteuergesetzes (EStG) in der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366, 3862), das zuletzt durch Artikel 3 des Gesetzes vom 8. Mai 2012 (BGBl. I S. 1030) geändert worden ist, in der jeweils geltenden Fassung. Diese sind als Arbeitslohn zu versteuern, wenn die Summe der noch nicht getilgten Darlehen am Ende des Lohnzahlungszeitraumes 2 600 EUR übersteigt. Die Freigrenze des § 8 Abs. 2 Satz 11
+
+EStG (Stand 1. Januar 2014: 44 EUR kalendermonatlich) ist zu beachten. Das Landesamt für Steuern und Finanzen hat zu prüfen, ob die Zinsersparnisse als Sachbezüge nach einkommen-/lohnsteuerrechtlichen Grundsätzen zu versteuern sind und die Höhe dieser aus dem Unterschiedsbetrag zum marktüblichen Zins zu ermitteln.
 
 2.
 
@@ -102,7 +97,8 @@ SächsRKG) vom 12. Dezember 2008 (SächsGVBl. S. 866), in der jeweils geltenden 
 
 2.2
 
-Nummer 2.1 Buchst. b und c gilt entsprechend, wenn sich die Wohnung oder das Eigenheim außerhalb des Einzugsgebietes des Dienstortes befindet, sofern die tägliche Rückkehr an den Wohnort zumutbar ist. § 2a Abs. 2 der Verordnung des Sächsischen Staatsministeriums der Finanzen über das Trennungsgeld der Beamten und Richter (Sächsische Trennungsgeldverordnung – SächsTGV) vom 11. November 1994 (SächsGVBl. S. 1634), die zuletzt durch Verordnung vom 7. November 2012 (SächsGVBl. S. 625) geändert worden ist, in der jeweils geltenden Fassung, gilt entsprechend.
+Nummer 2.1 Buchst. b und c gilt entsprechend, wenn sich die Wohnung oder das Eigenheim außerhalb des Einzugsgebietes des Dienstortes befindet, sofern die tägliche Rückkehr an den Wohnort zumutbar ist. § 2a Abs. 2 der Verordnung des Sächsischen Staatsministeriums der Finanzen über das Trennungsgeld der Beamten und Richter (Sächsische
+Trennungsgeldverordnung – SächsTGV) vom 11. November 1994 (SächsGVBl. S. 1634), die zuletzt durch Verordnung vom 7. November 2012 (SächsGVBl. S. 625) geändert worden ist, in der jeweils geltenden Fassung, gilt entsprechend.
 
 2.3
 
@@ -158,7 +154,7 @@ Tilgung
 
 5.1
 
-Vorschüsse werden durch Abzug der monatlichen Tilgungsrate von den laufenden Bezügen des Bediensteten spätestens bis zum Ende seines Dienst- oder Beschäftigungsverhältnisses getilgt. Die Tilgung beginnt spätestens mit dem übernächsten Zahltag der laufenden Bezüge, der auf die Auszahlung des Vorschusses folgt. Beantragt ein Bediensteter vor Ablauf der Tilgungsfrist, ihn zu entlassen oder kündigt er oder werden andere Umstände bekannt, die sein Ausscheiden ohne laufende Versorgung vor Ablauf der Tilgungsfrist erwarten lassen, hat das Landesamt für Steuern und Finanzen die festgesetzte monatliche Tilgungsrate zu erhöhen, um den Vorschuss möglichst bis zum Ausscheiden des Bediensteten zu tilgen. Ist dies nicht möglich, ist der Rest des Vorschusses spätestens zum Zeitpunkt der Beendigung des Dienst- oder Beschäftigungsverhältnisses in einer Summe zurückzuzahlen. Die Bediensteten haben vor der Auszahlung des Vorschusses ihr schriftliches Einverständnis zu erteilen, dass Vorschussreste, die im Zeitpunkt des Endes des Dienst- oder Beschäftigungsverhältnisses noch bestehen, durch Einbehaltung von den letzten Bezügen abgedeckt werden.
+Vorschüsse werden durch Abzug der monatlichen Tilgungsrate von den laufenden Bezügen des Bediensteten spätestens bis zum Ende seines Dienst- oder Arbeitsverhältnisses getilgt. Die Tilgung beginnt spätestens mit dem übernächsten Zahltag der laufenden Bezüge, der auf die Auszahlung des Vorschusses folgt. Beantragt ein Bediensteter vor Ablauf der Tilgungsfrist, ihn zu entlassen oder kündigt er oder werden andere Umstände bekannt, die sein Ausscheiden ohne laufende Versorgung vor Ablauf der Tilgungsfrist erwarten lassen, hat das Landesamt für Steuern und Finanzen die festgesetzte monatliche Tilgungsrate zu erhöhen, um den Vorschuss möglichst bis zum Ausscheiden des Bediensteten zu tilgen. Ist dies nicht möglich, ist der Rest des Vorschusses spätestens zum Zeitpunkt der Beendigung des Dienst- oder Arbeitsverhältnisses in einer Summe zurückzuzahlen. Die Bediensteten haben vor der Auszahlung des Vorschusses ihr schriftliches Einverständnis zu erteilen, dass Vorschussreste, die im Zeitpunkt des Endes des Dienst- oder Arbeitsverhältnisses noch bestehen, durch Einbehaltung von den letzten Bezügen abgedeckt werden.
 
 5.2
 
@@ -170,19 +166,21 @@ Die Tilgung ist auf Antrag für die Dauer
 
 a)
 
-einer Elternzeit nach dem Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz –
-BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748), zuletzt geändert durch Artikel 10 des Gesetzes vom 23. Oktober 2012 (BGBl. I S. 2246, 2262), in der jeweils geltenden Fassung, oder der Verordnung der Sächsischen Staatsregierung über die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Elternzeitverordnung –
-SächsEltZVO) in der Fassung der Bekanntmachung vom 13. Dezember 2005 (SächsGVBl. S. 322), zuletzt geändert durch Artikel 5 der Verordnung vom 23. Juni 2009 (SächsGVBl. S. 402, 408), in der jeweils geltenden Fassung,
+einer Elternzeit nach dem Gesetz zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748), zuletzt geändert durch Artikel 10 des Gesetzes vom 23. Oktober 2012 (BGBl. I S. 2246, 2262), in der jeweils geltenden Fassung, oder der Verordnung der Sächsischen Staatsregierung über die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsischen Urlaubs-, Mutterschutz- und Elternzeitverordnung (SächsUrlMuEltVO) in der Fassung der Bekanntmachung vom 13. Dezember 2005 (SächsGVBl. S. 322), zuletzt geändert durch Artikel 5 der Verordnung vom 23. Juni 2009 (SächsGVBl. S. 402, 408), in der jeweils geltenden Fassung,
 
 b)
 
-einer Pflegezeit nach dem Gesetz über die Pflegezeit (Pflegezeitgesetz –
+einer Pflegezeit nach dem Gesetz über die Pflegezeit (Pflegezeitgesetz
+–
 PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896), in der jeweils geltenden Fassung, oder
 
 c)
 
-des Ruhens des Arbeitsverhältnisses beziehungsweise einer Beurlaubung ohne Bezüge zur Ableistung des Grundwehr- oder Zivildienstes nach dem Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst (Arbeitsplatzschutzgesetz –
-ArbPlSchG) in der Fassung der Bekanntmachung vom 16. Juli 2009 (BGBl. I S. 2055), geändert durch Artikel 6 des Gesetzes vom 28. April 2011 (BGBl. I S. 678, 683), in der jeweils geltenden Fassung, beziehungsweise dem Gesetz über den Zivildienst der Kriegsdienstverweigerer (Zivildienstgesetz –
+des Ruhens des Arbeitsverhältnisses oder einer Beurlaubung ohne Bezüge zur Ableistung des Grundwehr- oder Zivildienstes nach dem Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst (Arbeitsplatzschutzgesetz
+–
+ArbPlSchG
+) in der Fassung der Bekanntmachung vom 16. Juli 2009 (BGBl. I S. 2055), geändert durch Artikel 6 des Gesetzes vom 28. April 2011 (BGBl. I S. 678, 683), in der jeweils geltenden Fassung, oder dem Gesetz über den Zivildienst der Kriegsdienstverweigerer (Zivildienstgesetz
+–
 ZDG) in der Fassung der Bekanntmachung vom 17. Mai 2005 (BGBl. I S. 1346), zuletzt geändert durch Artikel 6 Abs. 5 des Gesetzes vom 20. Juni 2011 (BGBl. I S. 1114 ,1122), in der jeweils geltenden Fassung,
 
 auszusetzen; dabei kann der Tilgungszeitraum nach Nummer 5.2 überschritten werden.
@@ -232,13 +230,42 @@ Nummer 5.2 die Tilgungsdauer höchstens 60 Monate betragen.
 
 7.
 
-Inkrafttreten und Außerkrafttreten, Übergangsbestimmungen
+Vorschüsse für Beamte auf Zeit und Arbeitnehmer mit befristetem Arbeitsverhältnis
 
 7.1
 
-Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen (VwV Vorschüsse) vom 5. Dezember 2001 (SächsABl. S. 1287), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), und die Durchführungshinweise zur Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen vom 5. Dezember 2001 (SächsABl. S. 1288), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), außer Kraft.
+Abweichend von Nummer 1.1 Satz 2 können Vorschüsse auch Beamten auf Zeit gewährt werden.
 
 7.2
+
+Abweichend von Nummer 1.1 Satz 3 können Vorschüsse auch Arbeitnehmern des Freistaates Sachsen gewährt werden, die
+
+a)
+
+sich in einem ungekündigten Arbeitsverhältnis auf bestimmte Zeit befinden,
+
+b)
+
+ihre Probezeit beendet haben und
+
+c)
+
+deren Entgelt regelmäßig den in § 8 Absatz 1 Nummer 1
+SGB IV genannten Betrag übersteigt.
+
+7.3
+
+Bei Bediensteten im Sinne der Nummern 7.1 und 7.2 darf die monatliche Tilgungsrate abweichend von Nummer 5.2 20 Prozent der monatlichen Nettobezüge des Bediensteten nicht übersteigen. Bei Bediensteten mit monatlichen Nettobezügen bis zu 1 250 Euro darf die monatliche Tilgungsrate abweichend von Satz 2 250 Euro nicht übersteigen. Die Vorschusshöhe ist gegebenenfalls entsprechend zu begrenzen.“
+
+8.
+
+Inkrafttreten und Außerkrafttreten, Übergangsbestimmungen
+
+8.1
+
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen (VwV Vorschüsse) vom 5. Dezember 2001 (SächsABl. S. 1287), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), und die Durchführungshinweise zur Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zur Gewährung von Vorschüssen in besonderen Fällen vom 5. Dezember 2001 (SächsABl. S. 1288), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), außer Kraft.
+
+8.2
 
 Auf Vorschüsse, die vor Inkrafttreten dieser Verwaltungsvorschrift bewilligt wurden, sind die in Nummer 7.1 Satz 2 genannten
 Vorschriften weiter anzuwenden. Wird neben einem Vorschuss nach Satz 1 ein weiterer Vorschuss nach dieser Verwaltungsvorschrift bewilligt, ist ab diesem Zeitpunkt auf beide Vorschüsse diese Verwaltungsvorschrift anzuwenden.
