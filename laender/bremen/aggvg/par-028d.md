@@ -1,0 +1,2 @@
+# § 28d Widerruf
+Die Übersetzungsermächtigung und das Recht, sich auf die allgemeine Beeidigung zu berufen, können insbesondere widerrufen werden, wenn die Dolmetscherin oder der Dolmetscher oder die Übersetzerin oder der Übersetzer die Voraussetzungen des § 28c nicht mehr erfüllt. Im Falle der Aufhebung der allgemeinen Beeidigung oder der Ermächtigung hat die Dolmetscherin oder der Dolmetscher oder die Übersetzerin oder der Übersetzer den Nachweis nach § 28e Absatz 3 an die Präsidentin des Landgerichts zurückzugeben.
