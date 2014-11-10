@@ -1,0 +1,90 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3082152
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3082152
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Kurzparkzone an der Fürstenrieder Straße 170
+- TOP 1.2.: Prüfung der Voraussetzungen der Tempo-30-Zone in der Ossingerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Umwelt und Region
+- TOP 3.3.: UA Soziales und Kultur
+- TOP 3.4.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Waldwiesenstraße Haltestelle Großhadern (Baureferat, 14.10.14)
+- TOP 5.2.: Budget der Bezirksausschüsse, Geschichtsverein Hadern e.V., Öffentliche Ausstellung zum Thema ?Das Dorf Hadern und München im Ersten Weltkrieg ? Spurensuche zu Ereignissen und Folgen? vom 15. bis 23.11.2014 (Direktorium, 30.10.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen (Baureferat, 16.10.14)
+- TOP 6.2.: Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss: Standortverlegung für das Sozialbürgerhaus an der Plinganserstraße für die Stadtbezirke 19 Thalkirchen-Obersendling/Forstenried-Fürstenried/Solln und den 20 Hadern (Sozialreferat, 30.09.14)
+- TOP 6.3.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Gartenstädte Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick (Referat für Stadtplanung und Bauordnung, 17.10.14)
+- TOP 6.4.: Antrag BA 7 Sendling-Westpark: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung (Direktorium, 07.10.14)
+- TOP 6.5.: Abstimmung neue Standorte Hundekotbeutelspender (Baureferat, 09.10.14)
+- TOP 6.6.: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen (Kulturreferat, 14.10.14)
+- TOP 6.7.: Änderung der Bezirksausschusssatzung, hier: Anpassung der Aufwandsentschädigungen (Direktorium, 28.10.14)
+- TOP 6.8.: Gräfelfinger Straße 66 - 70 c, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums (Referat für Stadtplanung und Bauordnung, 03.11.14)
+- TOP 6.9.: Guardinistraße 109 - 123, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums (Referat für Stadtplanung und Bauordnung, 03.11.14)
+- TOP 6.10.: Kornwegerstraße 46 a, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 03.11.14)
+- TOP 7: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Am Waldspitz 22, 1 Thuja
+- TOP 7.1.2.: Gräfelfinger Straße 121, 1 Tanne, 1 Kiefer und 1 serbische Fichte
+- TOP 7.1.3.: Hallgartenstraße 8, 1 Rotfichte
+- TOP 7.1.4.: Stahleckstraße 3, 1 Fichte
+- TOP 7.1.5.: Veilchenstraße 30, 1 Tanne
+- TOP 7.1.6.: Am Stoppelfeld 5, 7 Fichten und 1 Kiefer
+- TOP 7.1.7.: Baldrianstraße 7, 1 Schwarzkiefer
+- TOP 7.1.8.: Fürstenrieder Straße 270, 1 Salweide, 1 Feldahorn und 1 Rosskastanie
+- TOP 7.1.9.: Sonnblickstraße 5, 1 Kiefer
+- TOP 7.1.10.: Kornwegerstraße 46 a, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 13522
+- TOP 7.1.11.: Windeckstraße 38, 1 Kiefer
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.2.1.: Liste des Baureferates vom 22.09.14: 16 Bäume auf dem Waldfriedhof
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018 (Stadtkämmerei, 10.10.14)
+- TOP 8.2.: Raumordnerisches Entwicklungskonzept München Südwest, Schlussbericht (Referat für Stadtplanung und Bauordnung, 24.09.14)
+- TOP 8.3.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2014 für den BA (SWM, 29.09.14)
+- TOP 8.4.: Baumaßnahmen der Stadtwerke München: Tischlerstraße Fernwärme (SWM, 06.10.14)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Rodensteinstraße (Sozialreferat, 06.10.14) - Kurparkstraße (Sozialreferat, 06.10.14) - Buschrosenweg (Sozialreferat, 06.10.14)
+- TOP 8.6.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Hangover", Guardinistraße 4 (Kreisverwaltungsreferat, 27.10.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Situation Terofalstraße zwischen Blumenauer Straße und Silberdistelstraße für sehbehinderte Mitbürger Abmarkierung eines Fahrradstreifens Tempo 30 in der Terofalstraße oder Abmarkierung eines Radweges (Kreisverwaltungsreferat, 08.10.14)
+- TOP 9.2.: Machbarkeitsstudie "Lärmschutzmaßnahmen an der A96 vom Mittleren Ring bis zur Stadtgrenze" (Referat für Stadtplanung und Bauordnung), 13.10.14
+- TOP 9.3.: Vollzug des Bundesjagdgesetzes (BJagdG) und des Bayerischen Jagdgesetzes (BayJG), hier: Eindämmen des Fuchsbandwurmes durch Auslegen von Ködern im Stadtgebiet (Kreisverwaltungsreferat, 19.09.14) dazu: Schreiben der BAs 12 Schwabing-Freimann, 14 Berg am Laim, 16 Ramersdorf-Perlach, 18 Giesing-Harlaching, 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln und 25 Laim
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle (Direktorium, 06.10.14)
+- TOP 11.2.: Standards gewaltpräventiver Angebote an Schulen (Arbeitsgemeinschaft Friedenspädagogik, 23.10.14)
+- TOP 11.3.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 13.10.2014 (Sozialreferat, 28.10.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse (1)
+- TOP 1.2: Referentenanträge (1)
+- TOP 1.2.1.: Neufassung des Referentenantrages vom 25.09.2014 für die Sitzung am 01.10.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00959: Auf Gewinnausschüttung bei GWG und GEWOFAG auch nach 2019 verzichten (war am 17.09.2014 im Planungsausschuss) Das Planungsreferat wird einen Zwischenbericht über die Verwendung der ersparten Gewinnausschüttungen von 2009 - 2016 bis Ende 2015 erstatten (Punkt 1 des Referentenantrages).
+- TOP 2: Senatsbeschlüsse
+- TOP 2.1: Gefasste Beschlüsse (2)
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01173 (nach Antrag): Verkehr funktioniert nicht nach dem Prinzip kommunizierender Röhren (abgelehnt)
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01275 (nach Antrag): München öffnet sein Herz endlich auch für Motorradfahrer!
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01097 (nach Antrag): Infokampagne zum sozialverträglichen Immobilienverkauf
+- TOP 2.2: Referentenanträge (2)
+- TOP 3: Vorberatende Ausschüsse
+- TOP 3.1: Gefasste Beschlüsse (3)
+- TOP 3.1.1.: Beschluss des Verwaltungs- und Personalausschusses vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01006: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben (abgelehnt)
+- TOP 3.2: Referentenanträge (3)
+- TOP 4: Bekanntgaben
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01317 (nach Antrag): Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2014 - 30.06.2014
+- TOP 13: Nichtöffentliche Sitzung
