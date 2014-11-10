@@ -1,0 +1,57 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-11-10T17:00:00+01:00
+- Ende: 2014-11-10T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbJpJWNwjoeMsV8QmV21cVY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4349
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW5SnCs6yg3-kGrPCnVOmB0JkA3yRNo--byX6HJmafOl/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_10.11.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Klimagutachten Ittertal
+- TOP 5: Gesamtgutachten Ittertal - Sachstandsbericht
+- TOP 6: Festsetzung eines Wasserschutzgebietes Wasserschutzgebietsverordnung für die Gewässer im Einzugsgebiet der Sengbachtalsperre
+- TOP 7: Entwurf einer Strategie der Landesregierung zum Erhalt der Biodiversität
+- TOP 8: KWK-Modellkommune 2012-2017
+- TOP 9: Regionales Strukturprogramm für die neue EU-Förderperiode 2014 - 2020
+- TOP 10: Auslaufen von Bestandsbetrauungen in der ÖSPV-Finanzierung/ Weiterentwicklung des VRR-Finanzierungssystems
+- TOP 11: Soziale Stadt- Solinger Nordstadt
+- TOP 12: City 2013 - Sachstandsbericht und weitere Schritte zur Umsetzung
+- TOP 13: Ergebnis der Fahrgastzählung 2013
+- TOP 14: IKEA-Einrichtungshaus in Wuppertal, Dreigrenzen
+- TOP 15: Denkmalliste der Stadt Solingen
+- TOP 16: Bauleitplanung Werwolf/Gerichtstraße
+- TOP 17: Bauleitplanung Focher Straße/Nümmener Feld
+- TOP 18: Bauleitplanung An der Gemarke/Ober der Mühle
+- TOP 19: Bauleitplanung Martinstraße/ Stephanstraße
+- TOP 20: Bauleitplanung Goldberger Weg/Löhdorfer Straße
+- TOP 21: Bauleitplanung Bergstraße/Friedrichstraße
+- TOP 22: Bauleitplanung westliche Konrad-Adenauer-Straße
+- TOP 23: Arbeitsprogramm/Themenspeicher ASUKM 2014 und 2015
+- TOP 24: Verschiedenes
+- TOP 25: Verkehrsplanung Lüneschloßstraße
+- TOP 26: Flächenpool NRW
+- TOP 27: Weeger Hof, Anfrage der SPD-Fraktion
+- TOP 28: Verkehrssituation im Kreuzungsbereich Birkenweiher/Kölner Straße
+- TOP 29: Tauben am Bahnhof Solingen Mitte
+- TOP 30: Gesamtgutachten Ittertal
+- TOP 31: Gesamtgutachten Ittertal
+- TOP 32: Verspätungen und Ausfälle Linie S1
+- TOP 33: Deckenerneuerung Schützenstraße zwischen Zieten- und Ritterstraße
+- TOP 34: Querungshilfe Focher Straße
+- TOP 35: Umsetzungsprojekt zur Klimaanpassung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Verschiedenes
+- TOP 5: Soziale Stadt Nordstadt – Verfügungsfonds
