@@ -1,0 +1,59 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-11-11T16:00:00+01:00
+- Ende: 2014-11-11T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZf2uiPAC0x72Fk-pS5-xQf4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4351
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcDtS-Ht93nT9won1xVmecNo33obTP3uUbu5UBNhFwje/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_11.11.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Eingabe nach § 24 GO NRW zu Straßenreinigungs- und Winterdienstgebühren für ein Hinterliegergrundstück
+- TOP 2: Benennung der bzw. des stellvertretenden Vorsitzenden des Aufsichtsrates der Zentrums GmbH
+- TOP 3: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 4: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 5: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 6: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 7: Beirat Agenda-Team - Nachbesetzung
+- TOP 8: Geschäftsordnung für den Zuwanderer- und Integrationsrat der Stadt Solingen
+- TOP 9: Aufhebung der Satzungen für die Wochenmärkte
+- TOP 10: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 11: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 12: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 13: Grundsatzbeschluss Schloss Burg
+- TOP 14: Konzernsynergien – Restrukturierung der Wasserversorgung
+- TOP 15: Organisationsveränderungen im Stadtdienst Büro Oberbürgermeister
+- TOP 16: Satzung für das Jugendamt der Stadt Solingen
+- TOP 17: Stellenpool in den städtischen Kindertagesstätten
+- TOP 18: Änderung des Tierschutzgesetzes
+- TOP 19: Spielhallen in Solingen
+- TOP 20: Aufgabenverlagerung (Konnexitätsliste)
+- TOP 21: Behandlung von Eingaben nach § 24 GO NRW, die nicht Angelegenheiten der Stadt Solingen betreffen
+- TOP 22: Organisationsveränderungen im Stadtdienst Büro Oberbürgermeister
+- TOP 23: Organisationsveränderungen im Stadtdienst Büro Oberbürgermeister
+- TOP 24: Feuerwehr-Standortkonzept - 3. Zwischenbericht
+- TOP 25: Zertifizierung der Stadtverwaltung und des TBS nach dem Audit familieundberuf der Hertiestiftung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bestellung der Leitung des Revisionsdienstes
+- TOP 2: Leitung des SD 37 (Feuerwehr) - Personalnachfolge -
+- TOP 3: Bestellung des Leiters des Stadtdienstes "Bergisches Veterinär- und Lebensmittelüberwachungsamt"
+- TOP 4: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Gemeindeordnung NRW
+- TOP 5: Konzernsynergien – Restrukturierung der Wasserversorgung
+- TOP 6: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 7: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 8: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 9: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 10: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano und Oberflächentechnik Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 11: Vorberatung der Gesellschafterversammlung der Institut für Galvano und Oberflächentechnik Solingen GmbH & Co. KG am 03.12.2014
+- TOP 12: Vorberatung von Gesellschafterbeschlüssen der Gründer- und Technologiezentrum Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 13: Vorberatung von Gesellschafterbeschlüssen der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 14: Vorberatung von Gesellschafterbeschlüssen der Bergischen Entwicklungsagentur GmbH (BEA)
+- TOP 15: Vorberatung von Gesellschafterbeschlüssen der Bergischen Entwicklungsagentur GmbH (BEA)
+- TOP 16: Genehmigung von Gesellschafterbeschlüssen der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 17: Vorberatung der Gesellschafterversammlung der Bergische Gesellschaft für Ressourceneffizienz mbH (BGR) am 16.12.2014
