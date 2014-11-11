@@ -1,0 +1,104 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149850
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149850
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 04.10.2014 Lärmbelästigung durch Einwurf in die Glas- und Plastikcontainer gegenüber Schelling- straße 157
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 04.10.2014 Einrichtung eines Bücherschrankes auf dem Georg-Elser-Platz
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.10.2014 Umbau der Kreuzung Görres- / Augustenstraße: Aktueller Planungsstand, Zeitplan, Errichtung eines Wartehäuschen?
+- TOP 6: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: Nachpflanzungen im Stadtbezirk 3 Maxvorstadt
+- TOP 6.2.: Kreisverwaltungsreferat, Bezirksinspektion Nord Wirtsgartenerweiterung der Gaststätte Amalienstraße 87 Beantwortung einer am 05.08.2014 weitergeleiteten Bürgeranfrage
+- TOP 6.3.: Stadtwerke München, Schreiben vom 25.09.2014 Antwortschreiben zu TOP A 5.2.3/0914 Baustelle der Stadtwerke München in der Winzererstraße zwischen Görres- und Schelling- straße
+- TOP 6.4.: Kreisverwaltungsreferat, Verkehrsüberwachung Regelmäßige Geschwindigkeitskontrollen in der Gabelsberger- und Theresienstraße Empfehlung Nr. 08-14 / E 02011 der Bürgerversammlung des Stadtbezirkes 3 Maxvor- stadt vom 17.10.2013; Entscheidung des Oberbürgermeisters
+- TOP 6.5.: Baureferat Schaffung eines Brunnens auf dem Georg-Elser-Platz BA-Antrag Nr. 14-20 / B 00434 des BA 3 Maxvorstadt vom 07.10.2014
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.: Kreisverwaltungsreferat, Cycling Days Radrennveranstaltung am 26.04.2015 Eilentscheidung des Vorsitzenden vom 12.10.2014: Zustimmung b) Eilentscheidung des Vorsitzenden vom 26.10.2014: Zustimmung 4. Nachtrag
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 27.10.2014 Warum steht das Anwesen Adalbertstraße 31 noch immer leer? Kann dieses Anwesen zur Zwischennutzung (Winter) für Flüchtlinge oder Studierende genutzt werden?
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: LBK-Listen der Bauvorhaben: 38., 39., 40., 41., 42., KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 40., 41., 42. KW
+- TOP 2.1.3.: Luisenstraße 25, Tektur zu Az: 1.2-214-13275-22 Aufstockung und Fassadensanierung energetische Ertüchtigung) eines Wohn- und Gewerbegebäudes
+- TOP 2.1.4.: Schellingstraße 75, DG-Umbau und -Erneuerung sowie energetische Sanierung
+- TOP 2.1.5.: Barer Straße 41, Dachgeschossausbau ? Rückbau zweier Wohnungen mit Speicheraus- bau zu drei neuen Wohneinheiten, Anbau eines Aufzuges und Änderung der Ergeschoss- fassade
+- TOP 2.1.6.: Referat für Stadtplanung und Bauordnung, Anhörung Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.09.2014 Sitzungsvorlage Nr. 14-20 / V 00909
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Ottostraße 19, eine Fichte
+- TOP 3.2.2.: Erzgießereistraße 40, eine Robinie
+- TOP 3.2.3.: Kaulbachstraße 49, zwei Ahornbäume
+- TOP 3.2.4.: Veterinärstraße 13, zahlreiche Bäume
+- TOP 3.2.5.: Katharina-von-Bora-Straße 10, eine Birkenpappel und ein Spitzahorn
+- TOP 3.2.6.: Heßstraße 49, eine Fichte
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Baureferat, Gaurtenbau, Ahörung Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Ver- kehrsbegleitgrün und Schaffung von Stellplätzen für Bienen Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion ?DIE GRÜNEN/RL vom 07.06.2013
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 5: Unterrichtungen (1)
+- TOP 5.1.: Sozialreferat, Amt für Wohnen und Migration, Wohraumerhalt Vollzug der Erhaltungssatzung ?Georgen-/Zentnerstraße/Josephsplatz? Vom BA am 12.09.2014 erbetene Stellungnahme zum Bauvorhaben Görresstraße 14, Zusammenlegung zweier Wohnungen sowie Um- und Einbau von Gauben
+- TOP 5.2.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); a)Ausnahmezulassung für nächtliche Arbeiten an einer Fernwärmeleitung, Winzererstraße/Görresstraße/Schellingstraße b) Ausnahmezulassung für Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn, Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, Fällgenehmigung für eine Silberweide, Lothstraße 34
+- TOP 5.4.: Sozialreferat, Vollzug der Erhaltungssatzung St.-Benno-Viertel Sandstraße 43, Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaß- nahmen
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung, Finanzwesen und Controlling Mehrjahresinvestitionsprogramm für die Jahre 2014 ? 2018 Natur- und Denkmalschutz, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung Städtebauförderung, Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 4, 20 und 21 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 Sitzungsvorlagen Nr. 14-20 / V 01361
+- TOP 5.6.: Referat für Stadtplanung und Bauordnung, Stadtsanierung, Wohnungsbauförderung Ehrenpreis für guten Wohnungsbau ? Zustimmung zur Durchführung 2015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 Sitzungsvorlage Nr. 12-20 /V 01223
+- TOP 5.7.: Referat für Stadtplanung und Bauordnung Mehrjahresinvestitionsprogramm 2014 ? 2018 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 ? 2018 Infrastrukturversorgungskonzept 2014 ? 2018 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 Sitzungsvorlage Nr. 14-20 / V 01656
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 17.10.2014 Projekt ?Begrünung und Verkehrsberuhigung in der Schleißheimer Straße im Abschnitt zwischen Georgenstraße und Maßmannstraße?: Warum erfolgte der zugesagte Baube- ginn im Frühjahr 2014 (Planung seit 2009) bisher noch nicht?
+- TOP 1.5.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 27.10.2014 Maßnahmen zur besseren Wahrnehmung und Einhaltung der Tempo-30-Z
+- TOP 1.6.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 27.10.2014 Fortsetzung der Kampagne ?Radlhauptstadt München?
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Jägerstraße 2, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Schleißheimer Straße 14, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung 500 Jahre Reinheitsgebot vom 22.07. bis 24.07.2016 im Bereich des sog. Odeonsplatz- es/Wittelsbacherplatz/Brienner Straße/Ludwigstraße
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Erweiterung des bestehenden Z 283 (absolutes Haltverbot)auf der Westseite der Schleiß- heimer Straße
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum, Nymphenburger Straße 22, Seite Erzgießereistraße
+- TOP 3.5.: Referat für Stadtplanung und Bauordnung Internationale Fachkonferenz ?Walk 21? in München 2013, Abschlussbericht und Zwi- schenstand von Projekten zur Verbesserung der Nahmobilität Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.2014 Sitzungsvorlage Nr. 14-20 / V 01713
+- TOP 3.6.: Baumaßnahmen der Stadtwerke München Ottostraße, Gas
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 4: Unterrichtungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4: Unterrichtungen (4)
+- TOP 4.1.: Kulturreferat, NS-Dokumentationszentrum München Aufstellen einer größeren Gedenktafel vor dem ehemaligen Wittelsbacher Palais Beschluss des Kulturausschusses vom 06.11.2014 zur Erledigung einer Empfehlung der Bürgerversammlung des Stadtbezirks 1 ? Altstadt-Lehel am 05.12.2013
+- TOP 4.1.: Münchner Bündnis für Toleranz - Resolution
+- TOP 4.2.: Informationsschaukasten des BA 3 am U-Bahnhof Stiglmaierplatz, Liftanlage Süd-West Schreiben des Kommunalreferates an die Stadtwerke München
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Direktorium, Anhörung Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang an- dauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreis- verwaltungsreferates der BA-Satzung Antrag des BA 7 Sendling-Westpark vom 08.07.2014
+- TOP 4.5.: Direktorium, Unterrichtung Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese kei- nen Wohnsitz im Stadtbezirk haben BV-Empfehlung Nr. 08-14 / E 02020 der Bürgerversammlung des 3. Stadtbezirkes Max- vorstadt vom 17.10.2013 Beschluss des Verwaltungs- und Personalausschusses vom 24.09.2014 Sitzungsvorlage Nr. 14-20 / V 01006
+- TOP 4.6.: Stadtkämmerei, Unterrichtung Mehrjahresinvestitionsprogramm für die Jahre 2014 ? 2018
+- TOP 4.7.: Direktorium, Anhörung Niederlegung von Vorstandsämtern, § 19 Abs. 3 BA-Satzung
+- TOP 4.8.: Änderung der BA-Satzung Anpassung der Aufwandsentschädigungen Antrag Nr. 14-20 / A 00342 verschiedener Stadtratsmitglieder vom 21.10.2014
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Öffnung des in Richtung Süden einbahngeregelten Steinickeweges zwischen der There- sienstraße und der Heßstraße für den gegenläufigen Radverkehr
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Aktuelle Sachstandsberichte
