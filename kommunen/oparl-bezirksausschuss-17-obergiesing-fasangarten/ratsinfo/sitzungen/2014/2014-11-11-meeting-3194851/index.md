@@ -1,0 +1,131 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-11-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194851
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194851
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges (1)
+- TOP 2.5.1.: Vorstellung des Projektes "Urbane NaturNetz Müchnchen" durch den Verein Urbanes Wohnen e.V. München
+- TOP 2.5.2.: Vorstellung ADFC München
+- TOP 3: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Inklusion
+- TOP 3.3: Genderfragen
+- TOP 3.4: Kinder und Jugend
+- TOP 3.5: Seniorinnen und Senioren
+- TOP 3.6: Mieterbeirat
+- TOP 3.7: gegen Rechtsextremismus
+- TOP 3.8: Baumschutz
+- TOP 3.8.1: Einzelfälle
+- TOP 3.8.1.1.: 3.8.1.1 Weißenseestraße 77-99, 1 Fichte, Antrag vom 09.10.2014 3.8.1.2 Kronacher Straße 8, 1 Goldesche, Antrag vom 01.10.2014 3.8.1.3 Maxlrainstraße 1-7, 5 Linden, Antrag vom 02.10.2014 3.8.1.4 Arzbergerstr. 22, 1 Kiefer, 1 Fichte, Antrag vom 8.10.2014 3.8.1.5 Eslarner Str. 23, 1 Tanne, Antrag vom 25.10.2014
+- TOP 3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen (1)
+- TOP 6.1.1: Bericht (1)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben: 1. Cincinnatistr. 63a, Teilabbruch, Anhörung PlanR vom 07.10.2014 (vertagt aus der Sitzung vom 14.10.2014) 2. Bantingstr. 15, Anbau an ein Einfamilienhaus, Anhörung PlanR vom 02.10.2014 (vertagt aus der Sitzung vom 14.10.2014) 3. Lincolnstr. 31, Neubau eines Dreifamilienhauses mit Carport, Anhörung PlanR vom 09.10.2014 (vertagt aus der Sitzung vom 14.10.2014)
+- TOP 0.2.: Beschlussentwurf zur Behandlung der Empfehlung Nr. 02-08 / E 00183 der Bürgerversammlung des 17. Stadtbezirks Obergiesing-Fasangarten am 28.06.2005 zur Planung und Gestaltung des St.-Quirin-Platzes, Anhörung PlanR vom 08.10.2014 (vertagt aus der Sitzung vom 14.10.2014)
+- TOP 6.1.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2017, hier: Aufstellung von neuen Verkaufseinrichtungen (Zeitungsentnahmekästen) auf öffentlichem Grund, Zuleitung des KVR vom 09.10.2014
+- TOP 6.1.3.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick, Anhörung PlanR vom 17.10.2014
+- TOP 6.1.3.2.: Weißenseestraße - Gehbahnsanierung zwischen Untersbergstraße und Werner-Schlierf-Straße; Erinnerungsverfahren; Zuleitung des Baureferats vom 21.10.2014
+- TOP 6.1.3.3.: Anhörung zu Bauvorhaben, 1. Perlacher Straße 18, Umbau - RGB (Perlacher Str. 18 / Raintaler Str. 32) 2. Perlacher Straße 18, DG-Ausbau eines Mehrfamilienhauses (Perlacher Str. 18 / Raintaler Str. 32) 3. Untere Grasstr. 9 / RGB, Wiederaufbau eines Rückgebäudes mit Keller
+- TOP 6.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 6.1.4.2.: Tegernseer Landstr. 99, Neubau eines Mehrfamilienhauses (13 WE) mit Tiefgarage (14 Stpl.), Baugenehmigung des PlanR vom 09.10.2014
+- TOP 6.1.4.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse, Zuleitung des SozR vom 21.10.2014
+- TOP 6.1.5: Anträge (1)
+- TOP 6.1.6: Sonstiges (2)
+- TOP 6.2: UA Familie/Soziales/Ausbildung (1)
+- TOP 6.2.1: Bericht (2)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Antrag auf Bezuschussung zur Anschaffung von Schulmaterial, Bürgeranliegen der Mittelschule München vom 04.07.2014 (vertagt aus der Sitzung vom 08.07.2014, 09.09.2014 und vom 14.10.2014)
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 6.2.4.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben, BV-Empfehlung Nr. 08-14 / E 02020 der Bürgerversammlung des Stadtbezirks 3 - Maxvorstadt vom 17.10.2013, Sitzungsvorlage Nr. 14-20 / V 01006, Beschluss des Verwaltungs- und Personalausschusses vom 24.09.2014
+- TOP 6.2.4.2.: Antrag auf Schallschutzfenster und zeitnahe Weiterführung der akustischen Sanierung - Schulgebäude Ichostraße 2, Zuleitung der Grundschule vom 02.10.2014
+- TOP 6.2.4.3.: Gewaltprävention an Münchner Schulen, Information der AG Friedenspädagogik vom 24.10.2014
+- TOP 6.2.4.4.: Errichtung einer Krippe mit 4 Krippengruppen an der Weissenseestraße (Agfa-Gelände) 17. Stadtbezirk - Obergiesing-Fasangarten - Produkt Nr. 1.1 Genehmigung des Nutzerbedarfgsprogramms, Sitzungsvorlage Nr. 14-20 / V 01650, Beschluss des Kinder- und Jugendhilfeausschusses vom 04.11.2014
+- TOP 6.2.4.5.: Errichtung einer Krippe mit 4 Krippengruppen an der Weissenseestraße (Agfa-Gelände) 17. Stadtbezirk - Obergiesing-Fasangarten - Produkt Nr. 1.1 Ermächtigung zur Planung, Sitzungsvorlage Nr. 14-20 / V 01655, Beschluss des Kinder- und Jugendhilfeausschusses vom 04.11.2014
+- TOP 6.2.5: Anträge (2)
+- TOP 6.2.6: Sonstiges (3)
+- TOP 6.3: UA Verkehr (1)
+- TOP 6.3.1: Bericht (3)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Initiative S7 - Ost Plus (vertagt aus der Sitzung vom 14.10.2014)
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 6.3.3.1.: Verkehrsberuhigung Aignerstraße/Gietlstraße, Schreiben des KVR vom 16.10.2014
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 6.3.4.1.: Verlängerung der Trambahnlinie 17 in die "Ami-Siedlung", Beschluss des BA 17 vom 09.09.2014, Antwort der MVG vom 30.09.2014
+- TOP 6.3.5: Anträge (3)
+- TOP 6.3.6: Sonstiges (4)
+- TOP 6.4: UA Umwelt und Gesundheit (1)
+- TOP 6.4.1: Bericht (4)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 6.4.4.1.: Abfallentsorgungsanlage der Firma Ammer Entsorgungs GmbH & Co.KG, Lärmbeschwerde, Antwort des RGU vom 08.10.2014
+- TOP 6.4.5: Anträge (4)
+- TOP 6.4.6: Sonstiges (5)
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport (1)
+- TOP 6.5.1: Bericht (5)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen (4)
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 6.5.5: Anträge (5)
+- TOP 6.5.6: Sonstiges (6)
+- TOP 6.6: UA lokale Wirtschaft und Arbeit (1)
+- TOP 6.6.1: Bericht (6)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (5)
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen (5)
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben (5)
+- TOP 6.6.5: Anträge (6)
+- TOP 6.6.6: Sonstiges (7)
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Behandlung von an die BA-Mitglieder gerichtete Post durch die BA-Geschäftsstelle, Information des Direktorium vom 06.10.2014
+- TOP 7.3.2.: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018, Zuleitung der Stadtkämmerei vom 10.10.2014 (die umfangreiche Gesamtübersicht liegt in der BA-Geschäftsstelle zur Einsichtnahme bereit)
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen (2)
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt und Gesundheit (2)
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport (2)
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit (2)
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
