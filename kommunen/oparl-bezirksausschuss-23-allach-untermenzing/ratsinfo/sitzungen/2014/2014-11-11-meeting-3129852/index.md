@@ -1,0 +1,71 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-11-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129852
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129852
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA
+- TOP 2.2.1.: Antrag auf Errichtung eines Basketballplatzes mit einem Korb und gummiertem Untergrund am Jugendspielplatz Megerlestraße
+- TOP 2.2.2.: Aufstellung eines Fahrradständers, Willstätterstraße, Ecke Eversbuschstraße
+- TOP 2.3: Erstmalige Herstellung des Krayweges - Information des Baureferates
+- TOP 2.4: Gebäudebegrünung Green City
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Interessengemeinschaft der Vereine Allach-Untermenzing Fassadenrenovierung
+- TOP 2: (E) Parkverbot für Karl-Gayer-Straße und Frickhingerweg (Anlieger frei)
+- TOP 5: Anhörungen
+- TOP 5.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Az. 824-G/14-08/Dachauer Str. 667; Fa. MAN Truck & Bus AG Fahrerhauslackieranlage/Halle 6 hier: Errichtung einer neuen Halle F10 mit Einbau einer Grundlackstraße für max. 500 Fhs/Tag als Ersatz für die Grundlackstraße in Halle F6 mit 290 Fhs/Tag
+- TOP 5.2.: Angerlohstr. 17, Gemarkung: Untermenzing, Fl.Nr.: 543/6 Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage sowie Abbruch eines Zweifamilienhauses mit Garage
+- TOP 5.3.: Bauliche Entwicklung in Gebieten mit Gartencharakter, Stand und Ausblick
+- TOP 5.4.: Änderung der Bezirksausschusssatzung Anpassung der Aufwandsentschädigung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.10.2014: Wie ist der Stand der Managementpläne und des Monitoring von FFH-Gebieten in München? (Sitzungsvorlage Nr. 1061)
+- TOP 6.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.14: Internationale Fachkonferenz "Walk 21" in München 2013; Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität (Sitzungsvorlage Nr. 1713)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014: a) Ehrenpreis für guten Wohnungsbau; Zustimmung zur Durchführung 2015 (Sitzungsvorlage Nr. 1223) b) Mehrjahresinvestitionsprogramm für die Jahre 2014-2018 (Sitzungsvorlage Nr. 1361) c) Mehrjahresinvestitionsprogramm 2014-2018; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014-2018; Infrastrukturversorgungskonzept 2014-2018 (sitzungsvorlage Nr. 1656)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse am 26.11.14, 16:00 - 18:00 Uhr, Bayerstr. 28
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 16.10.14: Abbrennen eines Feuerwerks Kl. II/IV bei Goteboldstr. 9 am 07.11.14, Lichterfest
+- TOP 8.2.: Schreiben Stadtkämmerei vom 10.10.14: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018
+- TOP 8.3.: Schreiben Baureferat vom 06.10.14: Sanierung Lauthstraße (zwischen Naglerstaße und Servetstraße) und Bleisteinstraße
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.10.14: Planfeststellung für das Bauvorhaben "NBS/ABS Nürnberg-Ingolstadt-München, Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt-München"; Bahn-km 12,900 bis 4,900 Planergänzung zur Auflösung der vorbehaltenen Entscheidung zum Schutz vor Erschütterung und Sekundärluftschall
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung; Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Siberstr. 10
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung; Vollzug der BaumschutzVO, Einzelfällungsanträge: Theodor-Fischer-Str. 49, Auenbruggerstr. 48, Herbigstr. 29, Zwiedineckstr. 16, Mannertstr. 46, Auenbruggerstr. 95, August-Föppl-Str. 25, Allacher Str. 211, Gerlachweg 10, Eversbuschstr. 135, Ernst-Haeckel-Str. 69, Weidmannstr. 30
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (06.10.-12.10.14, 13.10.-19.10.14, 20.10.-26.10.14)
+- TOP 8.8.: Schreiben Stadtwerke München vom 13.10.14, 20.10.14, 27.10.14: Baumaßnahmen
+- TOP 8.9.: Schreiben Referat für Bildung und Sport vom 07.08.14: Internetverbindung des Schulzentrums an der Pfarrer-Grimm-Str. (Louise-Schroeder-Gymnasium), Anfrage aus der Bürgerversammlung vom 24.06.14
+- TOP 8.10.: Schreiben Referat für Bildung und Sport vom 20.10.14: Einschreibezahlen (inklusive Absagen) an Kindergärten und Horten im Sprengel der Grundschule an der Manzostr. 79
+- TOP 8.11.: Schreiben Sozialreferat vom 16.10.14: Antrag auf Zweckentfremdung von Wohnraum, Von-Reuter-Str.
+- TOP 8.12.: Schreiben Kulturreferat vom 14.10.14: Ausschreibung Münchner Bürgerpreis für Demokratie - gegen Vergessen
+- TOP 8.13.: Schreiben Kulturreferat vom 24.10.14: Stadtshearing "Stolpersteine" am 05.12.14, 9:00 Uhr
+- TOP 8.14.: Schreiben Techn. Universität München vom 10.10.14: Einladung zum MVG/TUM-Kolloquium "Der öffentliche Verkehr - Katalysator für die Stadtentwicklung"
+- TOP 8.15.: Schreiben Arbeitsgemeinschaft Friedenspädagogik vom Oktober 2014: Gewaltprävention
+- TOP 8.16.: Schreiben Kleingartenverein NW002 e.V. vom 29.08.14: Verwendungsnachweis
+- TOP 8.17.: Schreiben Mieterbeirat der Landeshauptstadt München: Protokoll der 8. öffentlichen Sitzung
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Vier Gefahrenpunkte bzw. Unannehmlichkeiten im Stadtbezirk
+- TOP 9.2.: Anträge: Spielplatz Stieglstraße
+- TOP 9.3.: Spiel- und Bolzplätze in Allach-Untermenzing
+- TOP 9.4.: Schilder Fitnessparcour Servetstraße
+- TOP 9.5.: Spielplatz auf geplanten Grüngürtel Schöllstraße/Junkersgelände
+- TOP 9.6.: Anhörung: Fällungsantrag Weidmannstr. 30
+- TOP 9.7.: Neubau Luftdruckwaffenstände Servetstr. 1, Gemarkung: Allach, Fl.Nr.:665/0 und Vollzug der BaumschutzVO
+- TOP 9.8.: Umlauf: Schreiben Kreisverwaltungsreferat vom 03.09.14: Änderung des Zeitzusatzes an der Schulbushaltestelle an der Pfarrer-Grimm-Straße für den Schülerverkehr zu den neuen Münchner Regionalhäusern
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 03.09.14: Änderung des Zeitzusatzes an der Schulbushaltestelle an der Manzostr. 79 für den Schülerverkehr zu den neuen Münchner Regionalhäusern
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung: Vollzug der BaumschutzVO, Einzelfällungsanträge: Bechtolsheimstr. 15, Ernst-Haeckel-Str. 110
+- TOP 9.11.: Schreiben Stadtwerke München vom 03.11.14: Baumaßnahmen
+- TOP 9.12.: Schreiben Kulturreferat vom 03.11.14: Veranstaltungen November 2014
