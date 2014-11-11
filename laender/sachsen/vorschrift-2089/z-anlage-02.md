@@ -10,3 +10,4 @@ Sind die nachfolgenden Kriterien ausnahmslos erfüllt, ist eine Prüfung des Sta
 6. Die Bauteile der baulichen Anlage oder die bauliche Anlage selbst können mit einfachen Verfahren der Baustatik berechnet oder konstruktiv festgelegt werden. Räumliche Tragstrukturen müssen rechnerisch nicht nachgewiesen werden. Besondere Stabilitäts-, Verformungs- und Schwingungsuntersuchungen sind nicht erforderlich.
 7. Außergewöhnliche sowie dynamische Einwirkungen sind nicht vorhanden. Beanspruchungen aus Erdbeben müssen rechnerisch nicht verfolgt werden.
 8. Besondere Bauarten wie Spannbetonbau, Verbundbau, Leimholzbau und geschweißte Aluminiumkonstruktionen werden nicht angewendet.
+9. Allgemeine Rechenverfahren zur Bemessung von Bauteilen und Tragwerken unter Brandeinwirkung werden nicht angewendet.
