@@ -1,0 +1,8 @@
+# TOP 6: Abschluss von Leistungsvereinbarungen mit dem Freiwilligenzentrum des Caritasverbandes für die Region Aachen-Stadt und Aachen-Land e.V. und dem Verein zur Förderung des Ehrenamtes e.V.
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Hauptausschusses (2014-11-12)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=66298
+- Ergebnis: verwiesen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=18125&bi=20997
