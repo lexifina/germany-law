@@ -1,0 +1,85 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-11-12T17:00:00+01:00
+- Ende: 2014-11-12T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2785
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2785
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sachstand zur aktuellen Sachlage des Bierpinsels? - beantwortet
+- TOP 3.2: Bonusprogramm an Steglitz-Zehlendorfer Schulen? - beantwortet
+- TOP 3.3: Gebäudebegrünungen - beantwortet
+- TOP 3.4: Immer noch Gitter vor dem US-Konsulat - beantwortet
+- TOP 3.5: Ordnungswidrigkeiten im ruhenden Verkehr - beantwortet
+- TOP 3.6: Gesundheitliche Situation der Flüchtlinge im Bezirk - beantwortet
+- TOP 3.7: Unterkünfte für Asylbewerber - beantwortet
+- TOP 3.8: Wann werden die Südender und ihre Gäste geschützt? - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung einer stellvertretenden Bürgerdeputierten im Ausschuss für Wirtschaft, Personal und Europa - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Abberufung eines Bürgerdeputierten im Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Wirtschaft, Personal und Europa - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Benennung von S-Bahn-Zügen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Meldedaten schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: QR-Codes für historische Orte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Fahrradweg am Mutter-Mochow-Haus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Verkehrssicherheit in der Rothenburgstraße herstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Verkehrssicherheit in Südende erhöhen - Fahrzeugschäden vermeiden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Verkehrs-Poller besser kenntlich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Fortschreibung des Zentrenkonzeptes für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.5.8: Geschäftsstraßen in unserem Bezirk stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Erweiterung des Bebauungsplanes 6-22 auf die Jugendfreizeiteinrichtung G. Marshall - in der BVV abgelehnt
+- TOP 4.5.10: Feiern am Standort des Rosinenbombers - zurück zur Tradition! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Pflege und Gestaltung des Breitenbachplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Verkehrssicherheit vor der 33. Grundschule III - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Sicherer Schulweg für die 33. Grundschule im "Neuen Schweizer Viertel" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Sanierung Landgut Eule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Transparente und zielgerichtete Förderung für die Integration von Flüchtlingen - überwiesen
+- TOP 5.1.2: Personalentwicklungsplan für Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.3: Biotopverbundnetz - überwiesen
+- TOP 5.1.4: Verlegung der Bushaltestelle Laehrstraße - überwiesen
+- TOP 5.1.5: Bürgeramt ohne Terminvereinbarung! - überwiesen
+- TOP 5.1.6: Entwicklungsplan für den Bereich Tiburtiusbrücke - überwiesen
+- TOP 5.1.7: Papierverschwendung weiter eindämmen - überwiesen
+- TOP 5.1.8: Parkscheinautomaten auf "Brötchentaste" umstellen - überwiesen
+- TOP 5.1.9: Vernetzung von Wirtschaft und Wissenschaft auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.10: Möglichkeiten für einen öffentlichen Rudersteg am Wannsee für vereinsungebundenen Sport prüfen - überwiesen
+- TOP 5.1.11: Geschlechterneutrale Toiletten einrichten - überwiesen
+- TOP 5.1.12: Reinigung und Reparatur der Treppen in der Kilstetter Straße, Brettnacher Straße und Mörchinger Straße - überwiesen
+- TOP 5.1.13: Beete am Hermann-Ehlers-Platz begrünen - überwiesen
+- TOP 5.1.14: Raumluft in Steglitz-Zehlendorfer Schulen verbessern II - überwiesen
+- TOP 5.1.15: Zufahrt Hindenburgdamm 83 a, b als Feuerwehrzufahrt deklarieren - überwiesen
+- TOP 5.1.16: Ausfahrt von der Dialysestation Zehlendorf (PrimaVita) sicherer machen - überwiesen
+- TOP 5.1.17: Masterplan Spielen und Bewegen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Ratskeller Zehlendorf - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Fortführung des Zehlendorfer Ratskellers - überwiesen
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Arbeitsfähigkeit des Schulamtes - beantwortet
+- TOP 9.2: SARAZENU - Landesrechnungshof bestätigt schwarz-grünes Versagen! - beantwortet
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Belebung des Breitenbachplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Unterquerung der Brücke Königsberger Straße für Radfahrer und Radfahrerinnen und Fußgänger und Fußgängerinnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Kurzzeitparkplätze Onkel-Tom-Straßen-Brücke - in der BVV abgelehnt
+- TOP 10.4: Weiteren baulichen Verfall des Fichteberg-Gymnasiums stoppen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Schlusswort des Vorstehers - erledigt
