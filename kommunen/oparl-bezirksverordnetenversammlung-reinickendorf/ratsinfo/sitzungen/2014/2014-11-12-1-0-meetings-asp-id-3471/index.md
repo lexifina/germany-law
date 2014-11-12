@@ -1,0 +1,75 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-11-12T17:05:00+01:00
+- Ende: 2014-11-12T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3471
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3471
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=79703
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 35. Sitzung der BVV am 12.11.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 35. Sitzung der BVV am 12.11.2014 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 35. Sitzung der BVV am 12.11.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Lange Nacht der Wissenschaft auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - überwiesen
+- TOP 7.3: Fahrradabstellplätze Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Keine Rücknahme der Verkehrseinschränkungen in der Straße Alt-Lübars zwischen Quickborner Straße und Zabel-Krüger-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Beide Fahrspuren auf der A111 Richtung Hamburg besser ausweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Jahresbericht des Patientenfürsprechers aus dem Krankenhaus des Maßregelvollzugs für den Zeitraum 01.01.2013 bis 31.12.2013 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Umweltbelastungen in Reinickendorf - beantwortet
+- TOP 8.2: Grundschulplätze in Reinickendorf-Ost - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Fahrradampel Hermsdorfer Damm / Waidmannsluster Damm - erledigt
+- TOP 10.2: Grillen in Reinickendorf - in der BVV abgelehnt
+- TOP 10.3: Transparente Bürgerbeteiligung auch in den Reinickendorfer Schulen umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Simmelstraße öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Schule nach Elisabeth Selbert benennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Koordinierungstreffen der Bezirke wahrnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: "eGovernment@school" in Reinickendorf - erledigt
+- TOP 10.8: Korruptionsprävention - erledigt
+- TOP 10.9: Querparken am Rathaus für ÖPNV-Pendler prüfen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Naturschutzkonzept - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Radverkehrsstrategie des Senats unterstützen - überwiesen
+- TOP 10.12: Modellprojekt BBO Jugendhilfe auch in Reinickendorf bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Schulwegsicherung Miraustraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Buslinie 133 neuer Halt auf Areal am Borsigturm - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Sanierung der denkmalgeschützten Kleinhaussiedlung am Steinberg" - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Finanzierung der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Umgehend Umstrukturierungssatzung für die Siedlung "Am Steinberg" aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Zusätzliche Grundschule für Reinickendorf-OST dringend benötigt - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Schaffung einer Mittelstreifenquerung in der Klemkestraße - überwiesen
+- TOP 12.2: Fakultatives 13. Schuljahr - überwiesen
+- TOP 12.3: Modellbaukasten bei Neuplanung/ Baumaßnahmen von wichtigen Straßen und Plätzen für Barrierefreiheit einsetzen - überwiesen
+- TOP 12.4: Zusätzliche Fahrradständer am U-Bahnhof Residenzstraße aufstellen - überwiesen
+- TOP 12.5: Verkehrssituation im Kiefheider Weg verbessern - überwiesen
+- TOP 12.6: Gedenken Opfer Zwangsarbeit in Reinickendorf - überwiesen
+- TOP 12.7: Tag der Menschen mit und ohne Behinderung 2015 - überwiesen
+- TOP 12.8: Erneuerung eines Straßenschildes - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Grundschulneubau in Reinickendorf-Ost vorantreiben - in der BVV abgelehnt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Südtunnel S-Bahnhof Hermsdorf durch die "Stiftung Lebendige Stadt" beleuchten - überwiesen
+- TOP 13.2: Tempo 30 in der Friederikestraße - überwiesen
+- TOP 13.3: Fahrtreppe am U-Bahnhof Alt-Tegel endlich wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Wildunfälle vermeiden - überwiesen
+- TOP 13.5: Schulsekretariatsstunden - überwiesen
+- TOP 13.6: Lärmschutz beim Glasrecycling - überwiesen
+- TOP 13.7: Tempo 30 / Teilabschnitt Hermsdorfer Damm - überwiesen
+- TOP 13.8: Keine Verlagerung von Flugverbindungen von Schönefeld nach Tegel - ohne Änderungen in der BVV beschlossen
