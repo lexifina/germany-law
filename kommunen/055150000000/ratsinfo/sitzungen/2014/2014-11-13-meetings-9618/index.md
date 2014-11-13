@@ -1,0 +1,52 @@
+# 5. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-11-13T17:02:00+01:00
+- Ende: 2014-11-13T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9618
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9618
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00362480.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates - entfällt
+- TOP 4: Berichte
+- TOP 4.1: Bericht zum Unwetter am 28.07.2014 - vertagt
+- TOP 4.2: Vorstellung des Wettbewerbsergebnisses für die Nachnutzung der Oxford Kaserne - zur Kenntnis genommen
+- TOP 4.3: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2015 - zur Kenntnis genommen
+- TOP 4.4: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-West - zur Kenntnis genommen
+- TOP 4.5: Mobilfunksendeanlagen in Münster: - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 5.2: Unterhaltung der Grundstücke und baulichen Anlagen 2015 im Stadtbezirk West, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 5.3: Maßnahmenprogramm 2015 - 2016 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig beschlossen
+- TOP 5.4: Sanierung von Spielplätzen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Öffnungszeiten-Konzept für die Recyclinghöfe der AWM - einstimmig geändert beschlossen
+- TOP 6.2: Maßnahmenprogramm 2015 - 2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig beschlossen
+- TOP 6.3: Krummer Bach - ökologische Verbesserung des Unterlaufes im Bereich nördlich Hülshoffstraße, von der Mündung in die Aa bis zur Mündung der Hunnebecke - einstimmig beschlossen
+- TOP 6.4: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014 - einstimmig beschlossen
+- TOP 6.5: Entwurf des Haushaltsplanes 2015
+- TOP 6.5.1: Aufteilung der frei verfügbaren Mittel der Bezirksvertretung Münster-West für das Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 6.5.2: Beratung der Vorschläge zum Bürgerhaushalt - einstimmig beschlossen
+- TOP 6.5.3: Beratung und Beschlussfassung zum Entwurf des Haushaltsplanes 2015 unter Berücksichtigung der Veränderungsblätter - mehrheitlich geändert beschlossen
+- TOP 6.6: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Roxel, Pienersallee, und Anpassung der Personalsituation in verschiedenen Aufgabenbereichen - einstimmig beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Verkehrsberuhigung im Bereich der Augustin-Wibbelt-Schule Roxel - vertagt
+- TOP 7.2: Sturmschäden im Wald beseitigen und Verkehrssicherheit herstellen - zur Kenntnis genommen
+- TOP 7.3: Entwicklungskonzept Dingbängerweg - eingebracht
+- TOP 7.4: Bürgerinformationsveranstaltung zum 3. Nahverkehrsplan in Gievenbeck - zur Kenntnis genommen
+- TOP 7.5: Schulweg- und Verkehrssicherheit Roxel - eingebracht
+- TOP 7.6: Aufstellung eines mobilen Dialog-Displays - eingebracht
+- TOP 7.7: Kostenermittlung eines behindertengerechten Übergangs am Friedhof in Nineberge - eingebracht
+- TOP 7.8: Verkehrskontrollen in Nienberge-Häger - eingebracht
+- TOP 7.9: Aufstellung einer Teschlade-Skulptur in Nienberge - Zwischenmitteilung zur Kenntnis genommen
+- TOP 7.10: Fahrradstellplätze im Bereich Hülshoffstraße, Von-Schonebeck-Ring und Waltruper Weg - zur Kenntnis genommen
+- TOP 8: Verschiedenes - zur Kenntnis genommen
