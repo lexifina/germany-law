@@ -1,0 +1,7 @@
+# TOP 3.1: des Vertreters der Senatsverwaltung für Bildung, Wissenschaft und Forschung
+
+- Sitzung: 32. öffentliche Sitzung des Ausschusses für Schule (2014-11-13)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=94681
+- Ergebnis: erledigt
