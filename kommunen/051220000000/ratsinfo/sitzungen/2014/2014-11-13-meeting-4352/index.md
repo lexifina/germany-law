@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-11-13T17:00:00+01:00
+- Ende: 2014-11-13T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZe_WiqEUWHsC1kqauv_yfyE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4352
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ7aki6w1IzhghQEy0z_Qjd8rue_3xfvnhoHj-oxkPeu/Oeffentliche_Niederschrift_Rat_13.11.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Protokoll
+- TOP 5: Vorschlag für die En-bloc-Abstimmung
+- TOP 6: Umbesetzung von Ausschüssen und Gremien
+- TOP 7: Benennung der bzw. des stellvertretenden Vorsitzenden des Aufsichtsrates der Zentrums GmbH
+- TOP 8: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 9: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 10: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 11: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 12: Beirat Agenda-Team - Nachbesetzung
+- TOP 13: Einrichtung eines Ältestenrates
+- TOP 14: Geschäftsordnung für den Zuwanderer- und Integrationsrat der Stadt Solingen
+- TOP 15: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 16: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 17: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 18: Grundsatzbeschluss Schloss Burg
+- TOP 19: Konzernsynergien – Restrukturierung der Wasserversorgung
+- TOP 20: Aufhebung der Satzungen für die Wochenmärkte
+- TOP 21: Neufassung der Benutzungsordnung der Stadtbibliothek Solingen
+- TOP 22: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Nutzung der der Notschlafstelle "Die 10 - Volljährigenbereich" aus dem Jahre 2001
+- TOP 23: Satzung für das Jugendamt der Stadt Solingen
+- TOP 24: Jahresabschluss 2013 der Stadt Solingen
+- TOP 25: Jahresabschluss 2013 der Technischen Betriebe Solingen
+- TOP 26: Jahresabschluss 2013 der Technischen Betriebe Solingen
+- TOP 27: Jahresabschluss 2013 der Technischen Betriebe Solingen
+- TOP 28: Überplanmäßige Ausgaben im Kommunalen Jobcenter - SD 59
+- TOP 29: Zustimmung zu investiven Mehrauszahlung gemäß § 83 GO NRW
+- TOP 30: Auslaufen von Bestandsbetrauungen in der ÖSPV-Finanzierung/ Weiterentwicklung des VRR-Finanzierungssystems
+- TOP 31: Soziale Stadt- Solinger Nordstadt
+- TOP 32: Denkmalliste der Stadt Solingen
+- TOP 33: Bauleitplanung Werwolf/Gerichtstraße
+- TOP 34: Bauleitplanung Focher Straße/Nümmener Feld
+- TOP 35: Bauleitplanung An der Gemarke/Ober der Mühle
+- TOP 36: Bauleitplanung Bergstraße/Friedrichstraße
+- TOP 37: Bauleitplanung westliche Konrad-Adenauer-Straße
+- TOP 38: Bauleitplanung Goldberger Weg/Löhdorfer Straße
+- TOP 39: Verschiedenes
+- TOP 40: Pläne zur Förderung der Elektromobilität
+- TOP 41: Nichteinhaltung von Stärkungspaktbedingungen
+- TOP 42: Umsetzung HSP-Maßnahmen
+- TOP 43: Zuständigkeiten der Unterausschüsse
+- TOP 44: Beantwortung einer Anfrage von RM Schlupp vom 25.09.2014
+- TOP 45: Personalsituation bei der Solinger Berufsfeuerwehr sowie Sachstand zu Baumaßnahmen an den Gebäuden der Berufs- und Freiwilligen Feuerwehr
+- TOP 46: Haushaltsentwurf 2015
+- TOP 47: Neustrukturierung der Wochenmärkte
+- TOP 48: Standorte für die Windenergienutzung in Solingen
+- TOP 49: Einbau von Wasserzählern
+- TOP 50: Sachstand Wupperbrücke Papiermühle/Soterweg
+- TOP 51: Über- und außerplanmäßige Aufwendungen und Auszahlungen 3. Quartal im Jahr 2014
+- TOP 52: UN-Dekade "Bildung für nachhaltige Entwicklung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll
+- TOP 4: Bestellung der Leitung des Revisionsdienstes
+- TOP 5: Konzernsynergien – Restrukturierung der Wasserversorgung
+- TOP 6: Verschiedenes
