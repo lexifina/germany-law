@@ -1,0 +1,101 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-11-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109620
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109620
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernde Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferats der BA-Satzung, Antrag des Bezirksausschusses 7 Sendling-Westpark vom 08.07.2014
+- TOP 4.2.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete, Antrag des Bezirksausschusses 24 ? Feldmoching-Hasenbergl vom 03.07.2013
+- TOP 5: Allgemeine Themen
+- TOP 6: Unterrichtungen (siehe Anlage) (1)
+- TOP 6.1.: Wiederherstellung der Treppe an der Praterinsel, Empfehlung Nr. 08-14/E 02143 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013, Rückantwort des Baureferats vom 30.09.2014 zur Stellungnahme des Bezirksausschusses 1 vom 08.04.2014
+- TOP 0: Bericht (1)
+- TOP 1: Anträge und Bürgeranliegen (1)
+- TOP 1.1.: Antrag der Fraktion Bündnis 90 ? Die Grünen: Zwischenbericht über den Erlass einer Erhaltungssatzung im Stadtbezirk 1 Altstadt-Lehel
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Ledererstr. 3: Nutzungsänderung mit kleinen Baumaßnahmen: Einzelhandel mit Gaststätte mit bis zu 40 Gastplätzen zu Einzelhandel mit Gaststätte mit bis zu 60 Gastplätzen (vertagt aus 2014.09 B 3.1.5)
+- TOP 3.1.2.: Bruderstr. 6: Änderung der Gauben (vertagt aus 2014.09 B 3.1.3
+- TOP 3.1.3.: Sendlingerstr. 46: Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Büro- und Geschäftshauses, Kreuzstr. 17: Abbruch und Neubau eines Wohn- und Geschäftshauses
+- TOP 3.1.4.: Lechenfeldstr. 2: Generalsanierung u. Erweiterung d. Archäologischen Staatssammlung
+- TOP 3.1.5.: Löwengrube 10: Nutzungsänderung u. Erweiterung v. Café und Bäckerei zu Restaurant
+- TOP 3.1.6.: Sendlinger Str. 58: Einbau einer Schaufensteranlage im Erdgeschoss, Fenster-Erneuerung Obergeschosse ? Tektur
+- TOP 3.1.7.: Maximilianstr. 43, Zusammenlegung der Wohnung im 3. OG und der Wohnung im 4. OG mit der Galerie im DG zu Maisonettewohnung; Nutzungsänderung: Gewerbeeinheit (4. OG) als Wohnfläche zur Maisonettewohnung; Umbau Galerieebene (Verkleinerung) mit Dachterrasse sowie Treppenhauskopf (DG); Errichtung einer Notleiteranlage für Dachterrasse und Wohnungsteil (3. OG) ? Tektur
+- TOP 3.2: Sonstige (1)
+- TOP 3.2.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick, Anhörung des Referates für Stadtplanung und Bauordnung zur Beschlussvorlage, Sitzungsvorlage Nr. 14-20 / V 00909
+- TOP 4: Unterrichtungen (siehe Anlage) (2)
+- TOP 0: Bericht (2)
+- TOP 1: Anträge und Bürgeranliegen (2)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 2.2.1.: Neuhauser Str. 2, Mobilcom Debitel Shop, Aufstellen von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.3: Sonstige (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.1.1.: 500 Jahre Reinheitsgebot, 22.07.-24.07.2016, Bereich sog. Odeonsplatz, Wittelsbacherplatz, Brienner Str., Ludwigstr. (Vorabprüfung der grundsätzlichen Voraussetzungen)
+- TOP 3.1.2.: Weihnachtsmarkt am Chinesischen Turm vom 28.11.-23.12.2014
+- TOP 3.2: Sonstige (3)
+- TOP 4: Unterrichtungen (siehe Anlage) (3)
+- TOP 0: Bericht (3)
+- TOP 1: Anträge und Bürgeranliegen (3)
+- TOP 1.1.: Bürgeranliegen: Aufstellen eines weiteren Müllbehälters auf der Seite der Hofgartenstraße
+- TOP 1.2.: Bürgeranliegen: Lieferverkehr am Sendlinger Tor (vertagt aus 2014.10 D 1.1)
+- TOP 1.3.: Antrag der FDP-Fraktion: Errichtung des Gefahrenzeichens ?Kinder? (StVO Nr. 136) in der Oettingenstr. vor der Einmündung Seeaustr.
+- TOP 1.4.: Bürgeranliegen: Wenige Mülleimer im Lehel (vertagt aus 2014.09 A 3.5, 2014.10 D 1.2)
+- TOP 1.5.: Bürgeranliegen: Ergänzung des BA-Antrages Nr. 14-20/B 00435, Radfahren auf dem Gehweg Lerchenfeldstr. entgegen der Einbahnrichtung im Teilbereich zwischen Seeaustr. bis Prinzregentenstr.
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1.: Thierschstr. 27, Antrag auf Erteilung einer Ausnahmeregelung nach § 46 Abs. 1 Nr. 11 StVO, Parkerleichterung für Ärzte
+- TOP 4: Unterrichtungen (siehe Anlage) (4)
+- TOP 0: Bericht (4)
+- TOP 1: Anträge und Bürgeranliegen (4)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Michael Projekt "Liebensbriefe" im Oktober/November 2014
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Faden-Kreuz" Ausstellung "Faden-Kreuz" vom 21.11.2014 - 09.01.2015
+- TOP 3: Anhörungen (4)
+- TOP 4: Unterrichtungen (siehe Anlage) (5)
+- TOP 4.1.: Besuch der Herrnschule in der 48. KW ? Eintragung auf Moreganize
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschlussvollzugskontrolle, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 24.09.2014, Sitzungsvorlage Nr. 14-20/V 01317
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Verlegung des Schaukastens, Auftragsschreiben des Kommunalreferats vom 02.10.2014
+- TOP 0.3.: Färbergraben 10, Stellungnahme des Referats für Stadtplanung und Bauordnung zum Schreiben des Bezirksausschusses vom 13.08.2014 (2014.08 B 3.1.1)
+- TOP 0.4.: Entwurf des Mehrjahresinvestitionsprogramms, Beschlussvorlage für die Vollversammlung des Stadtrates am 22.10.2014
+- TOP 0.5.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013, Schreiben des Baureferates
+- TOP 0.6.: Pilotystr. 8 zügig beziehen, Antrag Nr. 14-20 / A 00337 der Stadtratsfraktion Bündnis 90/Die Grünen/Rosa Liste vom 20.10.2014 zur Kenntnis
+- TOP 0.7.: Ehrenpreis für guten Wohnungsbau, Sitzungsvorlage Nr. 14-20 / V 01223 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.8.: Mehrjahresinvestitionsprogramm für die Jahre 2018, Sitzungsvorlage Nr. 14-20 / V 01361 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.9.: Internationale Fachkonferenz ?Walk21? in München 2013, Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität, Sitzungsvorlage Nr. 14-20 / V 01713 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.10.: Mehrjahresinvestitionsprogramm für die Jahre 2018, Reihenfolge großer Siedlungsmaßnahmen, Sitzungsvorlage Nr. 14-20 / V 01656 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.11.: Maximilianstr. 6-8, BA-Antrag Nr. 14-20/B 00445, Rückantwort des Referats für Stadtplanung und Bauordnung
+- TOP 0.12.: Eilentscheidung des Vorsitzenden zur Beschlussvorlage Nr. 08-14/V 13896, Abbruch und Neubau/Sanierung eines Wohn- und Geschäftshauses auf dem stadteigenen Grundstück Müllerstr. 2-6
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Städtische Brunnen im Winter, Beschlussvorlage Nr. 14-20 / V 00838 für den Bauausschuss am 11.11.2014
+- TOP 0.6.: Parken von Mietfahrrädern auf öffentlichem Grund, Antwortschreiben der Bezirksinspektion auf Bürgeranliegen, siehe 2014.08 C 1.1
+- TOP 0.7.: Eilentscheidung des Vorsitzenden zur ?Münchner Wochen- und Bauernmärkte auf dem St.-Anna-Platz?
+- TOP 0.8.: Obststand am Thierschplatz, Ergebnismitteilung des Kreisverwaltungsreferates (2014.10 C 1.2)
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Oettingenstr. 32, Aufhebung des eingeschränkten Halteverbots - Frauenstr. 4, Hotelanfahrtszone, siehe TOP D 4.2 - Taxistandort Sonnenstr. 12: Verlegung in die Sonnenstr. 25-27
+- TOP 0.2.: Hotelanfahrtszone Frauenstr. 4, Eilentscheidung des Vorsitzenden, siehe 2014.09 D 4.1
+- TOP 0.3.: Jahresgenehmigung für Bauarbeiten während der Nachtzeit sowie an Sonn- und Feiertagen, Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn, Bescheid des Referats für Gesundheit und Umwelt, Müllerstr. / Thalkirchner Str.
+- TOP 0.4.: Neues Verkehrskonzept für den Altstadtkern zum Schutz der Anwohner vor Feinstaub und Rußpartikelbelastung, BV-Empfehlung Nr. 08-14 / E 02141 vom 05.12.2013, Sitzungsvorlage Nr. 14-20 / V 01569 des Ausschusses für Stadtplanung und Bauordnung vom 05.11.2014
+- TOP 0.5.: Emil-Riedl-Straße 21, Liebherrstr. 13, Baumbeseitigung und Gehölzpflegemaßnahmen
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben, Beschluss des Verwaltungs- und Personalausschusses vom 24.09.2014 (VB), Sitzungsvorlage Nr. 08-14/V 01006
+- TOP 0.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Lerchenfeldstr. 2, Sanierung und Erweiterung der Archäologischen Staatssammlung, Sachstandsbericht durch den Behördenleiter der Oberste Baubehörde im Bayerischen Staatsministerium des Innern, für Bau und Verkehr
