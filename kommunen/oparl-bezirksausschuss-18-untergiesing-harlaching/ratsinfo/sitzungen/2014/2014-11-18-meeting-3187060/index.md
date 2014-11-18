@@ -1,0 +1,145 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-11-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3187060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3187060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.2.1.: Anwohner Schilcherweg, Antrag auf Maßnahmen zur Begrenzung der Höchstgeschwindigkeit auf 15 km/h, Antrag auf Errichtung einer Bedarffußgängerampel an der Tramhaltestelle Schilcherweg (vertagt aus der Sitzung vom 21.10.2014, FF UA Verkehr und UA Bau/Planung)
+- TOP 2.1.2.2.: Dankeschreiben, Bürgeranliegen von Frau B. vom 02.11.2014
+- TOP 2.1.2.3.: Mehrere Bürgeranliegen zum "Fürstenrieder Frühlingsfest"
+- TOP 2.1.2.4.: Osram-Gelände - Bürgerbeteiligung, Anträge an den Bezirksausschuss für die Sitzung am 18.11.2014, Bürgeranliegen von Frau M. vom 17.11.2014
+- TOP 2.1.2.5.: Antrag Tempolimit und Lärmschutz, Bürgeranliegen von Frau W. vom 17.11.2014
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Informationen der Fachstelle gegen Rechtsextremismus (u. a. zum Bürgerbegehren gegen das ZIE-M)
+- TOP 2.2.1.2.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Vertretung des PlanR
+- TOP 2.2.1.3.: Künftige Nutzung des Candidplatzes, Vertretung des KommR
+- TOP 2.2.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht (1)
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.1.3: Anträge (1)
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.1.7: Sonstiges (1)
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1: Bericht (2)
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.2.3: Anträge (2)
+- TOP 3.2.3.1.: Angleichung des Höhenunterschieds bei der Bushaltestelle Leebschestraße
+- TOP 3.2.3.2.: Fahrradabstellplätze in der Canabichstraße
+- TOP 3.2.3.3.: Wiederherstellung der Tempo30-Markierung in der Harthauser Str., Antrag der CSU-Fraktion vom 11.11.2014
+- TOP 3.2.3.4.: Rechts vor links in der Schyrenstraße/Freibadstraße beibehalten, Antrag der Grünen-Fraktion vom 18.11.2014
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen (1)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.2.6.1.: Öffnung der in Richtung Nortden einbahngeregelten Oefelestraße zwischen Humboldtstraße und Untere Weidenstraße für den gegenläufigen Radverkehr, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 24.10.2014
+- TOP 3.2.6.2.: Öffnung der in Richtung Westen einbahngeregelten Unteren Weidenstraße zwischen Pilgersheimer Straße und Claude-Lorrain-Straße für den gegenläufigen Radverkehr, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung KVR vom 24.10.2014
+- TOP 3.2.6.3.: Öffnung der in Richtung Norden einbahngeregelten Sommerstraße zwischen Untere Weidenstraße und Humboldtstraße für den gegenläufigen Radverkehr, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 24.10.2014
+- TOP 3.2.6.4.: Vorfahrtsregelung für die Kreuzungen Schyrenstraße/Freibadstraße/Sommerstraße sowie Freibadstraße/Oefelestraße; Aufhebung der Radwegbenutzungspflicht auf dem nördlichen Radweg der Freibad- und Schyrenstraße, Verkehrsrechtliche Anordnung nach § 45 StVO, Zuleitung des KVR vom 24.10.2014
+- TOP 3.2.6.5.: Internationale Fachkonferenz "Walk21" in München 2013, Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität, Sitzungsvorlage Nr. 14-20 / V 01713, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.2014
+- TOP 3.2.7: Sonstiges (2)
+- TOP 3.3: UA Umwelt
+- TOP 3.3.1: Bericht (3)
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.3.3: Anträge (3)
+- TOP 3.3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen (2)
+- TOP 3.3.5.1.: Begrünung der Brücke über die Tegernseer Landstraße am St.-Quirin-Platz (negative Erledigung)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.3.7: Sonstiges (3)
+- TOP 3.4: UA Soziales
+- TOP 3.4.1: Bericht (4)
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 3.4.3: Anträge (4)
+- TOP 3.4.3.1.: Verbesserung der Beleuchtung des Sportplatzes am Wettersteinplatz
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen (3)
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.4.6.1.: Information über Gewaltprävention an Münchner Schulen, Zuleitung vom 24.10.2014
+- TOP 3.4.7: Sonstiges (4)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.1: Bericht (5)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 3.5.3: Anträge (5)
+- TOP 3.5.3.1.: Nahversorgung im 18. Stadtbezirk Untergiesing-Harlaching sichern! Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 21.10.2014)
+- TOP 3.5.3.2.: Grundsatzbeschluss zum Erhalt des Charakters der stadtteilbezogenen Gartenstädte
+- TOP 3.5.3.3.: Anträge der CSU-Fraktion zum sog. Gartenstadtcharakter vom 11.11.2014
+- TOP 3.5.3.4.: Sachsenstraße 6 ? Verwertungsmöglichkeit, Antrag der SPD-Fraktion
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen (3)
+- TOP 3.5.4.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick; Schreiben des Referates für Stadtpl. u. Bauordnung vom 17.10.2014 mit der Bitte um erneute Stellungnahme zur Beschlussvorlage Nr. 14-20 / V 00909 bis 20.11.2014
+- TOP 3.5.4.2.: Bebauungsplan Nr. B 50 "Haus der Begegnung" der Gemeinde Grünwald, Verfahren nach § 3 Abs. 1, 4, Abs. 1, 13a BauGB, Anhörung PlanR vom 10.10.2014
+- TOP 3.5.4.3.: Beschlussentwurf zur Behandlung der Empfehlung Nr. 02-08 / E 00183 der BÜV des 17. Stadtbezirks am 28.06.2005 zur Planung und Gestaltung des St.-Quirin-Platzes; "Deckelung" des McGraw-Grabens (Ziffern 1 und 2 des Antrags), Zuleitung des PlanR vom 08.10.2014 (vertagt aus der Sitzung vom 21.10.2014)
+- TOP 3.5.4.4.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete, Anhörung Direktorium vom 10.11.2014
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: 1. Hans-Mielich-Str. 8, Umbau und Nutzungsänderung: Drogeriemarkt und Sporthalle zu Kinderkrippe und Kindergarten (EG + KG), Anhörung PlanR vom 23.10.2014 2. Geiselgasteigstr. 147, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.), Anhörung PlanR vom 13.10.2014 (vertagt aus der Sitzung vom 21.10.2014) 3. Gabriel-Max-Str. 19 - 19a. Neubau zweier Mehrfamilienhäuser mit Tiefgarage - VORBESCHEID, Anhörung vom PlanR vom 10.10.2014 (vertagt aus der Sitzung vom 21.10.2014) 4. Athener Str. 52, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID, Anhörung PlanR vom 10.10.2014 (vertagt aus der Sitzung vom 21.10.2014) 5. Wunderhornstr. 9, Neubau eines Kindergartens, Anhörung PlanR vom 31.10.2014
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.4.2.1.: 1. Sutnerstr. 4, Anhörung PlanR vom 14.10.2014 (vertagt aus der Sitzung vom 21.10.2014) 2. Am Perlacher Forst 162, Anhörung PlanR vom 14.10.2014 (vertagt aus der Sitzung vom 21.10.2014)
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen (4)
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 1. Anwesen Geiselgasteigstr., Mitteilung vom 17.10.2014
+- TOP 3.5.6.3.: Traminer Str. 6, Neubau einer Wohnanlage mit Tiefgarage, Vorbescheid vom 28.10.2014
+- TOP 3.5.6.4.: Heigelstr. 15, Neubau dreier Einfamilienhäuser mit einer Garage und zwei Carports, Baugenehmigung des PlanR vom 28.10.2014
+- TOP 3.5.6.5.: Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015, Sitzungvorlage Nr. 14-20 / V 01223, Beschluss des Ausschusses für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 3.5.6.6.: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018, Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 20 und 21, Sitzungsvorlage Nr. 14-20 / V 01361, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014
+- TOP 3.5.6.7.: Mehrjahresinvestitionsprogramm 2014 - 2018, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 - 2018, Infrastrukturversorgungskonzept 2014 - 2018, Sitzungsvorlage Nr. 14-20 / V 01656, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014
+- TOP 3.5.6.8.: Säbener Str. 9, Errichtung eines Außenaufzugs, Anbau von Balkonen, Baugenehmigung des PlanR vom 17.10.2014
+- TOP 3.5.7: Sonstiges (5)
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.1: Bericht (6)
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.6.3: Anträge (6)
+- TOP 3.6.3.1.: Optimiertes Beleuchtungskonzept unter der Candidbrücke
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen (4)
+- TOP 3.6.4.1.: Christkindlmarkt auf dem Mangfallplatz, Anhörung des KVR vom 30.10.2014
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen (5)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 3.6.7: Sonstiges (6)
+- TOP 4: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1.: Änderung der Bezirksausschuss-Satzung, Anpassung der Aufwandsentschädigungen, Zuleitung des Direktorium vom 28.10.2014
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.3.1.1.: 1. Gabriel-Max-Str. 66, 1 Rotbuche, Antrag vom 13.10.2014 2. Defreggerstr. 2, 1 Robinie, Antrag vom 16.10.2014 3. Schmorellplatz 8, 1 Nordmanntanne, Antrag vom 10.10.2014 4. Kornblumenweg 4, 1 Birke, Antrag vom 18.10.2014 5. Herzog-Geribald-Str. 17, 1 Lärche, Antrag vom 10.10.2014 6. Grünwalder Str. 164a, 1 Fichte, Antrag vom 25.10.2014 7. Naupliastr. 85, 1 Birke, Antrag vom 27.10.2014 8. Pilgersheimerstr. 56, 1 Esche, Antrag vom 27.10.2014
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Rede- und Antragsrecht für Elternbeiräte etc. durch deren Vertreter, auch wenn diese keinen Wohnsitz im Stadtbezirk haben; BV-Empfehlung Nr. 08-14 / E 02020 der BÜV des Stadtbezirkes 03 - Maxvorstadt vom 17.10.2013; Sitzungsvorlage Nr. 14-20 / V 01006; Beschluss des Verwaltungs- und Personalausschusses vom 24.09.2014 (VB)
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018; Zuleitung der Stadtkämmerei vom 10.10.2014 mit der Bitte um Kenntnisnahme (die vollständige Unterlage kann in der BA-Geschäftsstelle Ost eingesehen werden)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Ausländer /-innen
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.5.7.1.: Gleiserneuerung der Wendeschleife Großhesseloher Brücke (vertagt aus der Sitzung vom 21.10.2014)
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
