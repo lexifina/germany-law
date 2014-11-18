@@ -1,0 +1,52 @@
+# 4. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-11-18T17:00:00+01:00
+- Ende: 2014-11-18T19:08:00+01:00
+- Ort: SC Westfalia Kinderhaus, Panoramaraum, Bernd-Feldhaus-Platz 1, 48159 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/91
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9615
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9615
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00363557.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gem. § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte der Verwaltung
+- TOP 3.1: Stand der Jugendarbeit/Jugendsozialarbeit im Wohngebiet Kinderhaus-Brüningheide
+- TOP 3.2: Sachstandsbericht Stadtteilkultur - zur Kenntnis genommen
+- TOP 3.3: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2013 - zur Kenntnis genommen
+- TOP 3.4: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2015 - zur Kenntnis genommen
+- TOP 3.5: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Nord - zur Kenntnis genommen
+- TOP 3.6: Bericht zum Unwetter am 28.07.2014 - zur Kenntnis genommen
+- TOP 3.7: Anhörungsbeschlüsse der vorletzten Sitzung
+- TOP 4: Anhörungen
+- TOP 4.1: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Nord - einstimmig beschlossen
+- TOP 4.2: Öffnungszeiten-Konzept für die Recyclinghöfe der AWM - einstimmig beschlossen
+- TOP 4.3: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014 - einstimmig beschlossen
+- TOP 4.4: Bebauungsplan Nr. 549 und Erhaltungs- und Gestaltungssatzung in der Siedlung "Dachsleite" - einstimmig beschlossen
+- TOP 4.5: Entwicklungen der Münsterschen Bäderlandschaft - einstimmig geändert beschlossen
+- TOP 5: Entscheidungen
+- TOP 5.1: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk Nord - einstimmig beschlossen
+- TOP 5.2: Sanierung von Spielplätzen im Stadtbezirk Münster-Nord - einstimmig beschlossen
+- TOP 5.3: Bestellung einer stellvertretenden Schriftführung für die Sitzungen der Bezirksvertretung Münster-Nord - einstimmig beschlossen
+- TOP 5.4: Unterhaltung der Grundstücke und baulichen Anlagen 2015 im Stadtbezirk Nord, geplante Instandsetzungsmaßnahmen - einstimmig beschlossen
+- TOP 6: Entscheidungen / Anhörungen
+- TOP 6.1: Beratung des Haushaltsplanentwurfs 2015 sowie des Finanzplans und Investitionsplans 2015 - 2018
+- TOP 6.1.1: Gemeinsamer Antrag zu den frei verfügbaren Haushaltsmitteln 2015 - einstimmig beschlossen
+- TOP 6.2: Beratung der Vorschläge zum Bürgerhaushalt
+- TOP 7: Anregungen/Anträge
+- TOP 7.1: Zeitgemäßes und verbessertes Raumkonzept für das Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 7.1.1: Erstellung eines räumlichen Konzeptes für das Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 7.2: Bürgerrunde in Form eines "Runden Tisches" - zurückgezogen
+- TOP 7.3: Gastronomie in Form eines Bürger-Bistros im Bürgerhaus - einstimmig beschlossen
+- TOP 7.4: Videoaufzeichnungen aller öffentlichen Sitzungen - mehrheitlich abgelehnt
+- TOP 7.5: Radfahrverkehr auf der Sprakeler Straße sicherer machen - einstimmig beschlossen
+- TOP 7.6: Prüfung einer zentralen Begegnungsstätte in Coerde - einstimmig beschlossen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen der Bezirksvertretung
+- TOP 9: Stellungnahme der Verwaltung zu Anfragen von Bezirksvertretern
+- TOP 10: Verschiedenes
