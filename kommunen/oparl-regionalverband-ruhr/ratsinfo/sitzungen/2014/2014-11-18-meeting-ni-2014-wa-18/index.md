@@ -1,0 +1,53 @@
+# 1. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2014-11-18T10:00:00+01:00
+- Ende: 2014-11-18T12:20:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2014-WA-18
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2014-WA-18
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-WA-18
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-WA-18
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung der sachkundigen Bürger
+- TOP 2: Bestellung des/der Schriftführers/in und des/der stellvertretenden Schriftführers/in
+- TOP 3: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 4: Genehmigung der Niederschrift der Sitzung vom 11.03.2014
+- TOP 5: Referat Europa Förderschwerpunkte, Verfahren und zeitliche Reihenfolge der Umsetzung der operationellen Programme EFRE, ESF und ELER in der Metropole Ruhr
+- TOP 6: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH
+- TOP 6.1: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2013
+- TOP 6.2: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2013 der ecce-european centre for creative economy GmbH
+- TOP 6.3: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 6.4: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Strategie und Projekte der wmr
+- TOP 6.5: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - welcome.ruhr
+- TOP 6.6: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Stadtverträgliche LKW-Navigation
+- TOP 6.7: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Beteiligung der wmr am EFRE Regio.Call NRW
+- TOP 7: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Veräußerung der Anteile an der WIN Emscher-Lippe GmbH an die Wirtschaftsförderung metropoleruhr GmbH
+- TOP 8: Angelegenheiten der Eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur - Jahresabschluss zum 31.12.2013
+- TOP 9: Angelegenheiten der Freizeitgesellschaften
+- TOP 9.1: Angelegenheiten der Freizeitgesellschaften - Bericht über das Bewertungsgutachten zum 31.12.2013
+- TOP 9.2: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2013
+- TOP 9.3: Angelegenheiten der Freizeitgesellschaften - Besucher- und Einnahmenentwicklung zum 30.09.2014
+- TOP 9.4: Angelegenheiten der Freizeitgesellschaften - Bericht über den Sachstand Konzept Neustrukturierung
+- TOP 10: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 10.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2013
+- TOP 10.2: Angelegenheiten der Ruhr Tourismus GmbH - Aktuelle Projekte der RTG
+- TOP 10.3: Bericht: Evaluation zur touristischen Vermarktung der Ruhr Kunst Museen
+- TOP 11: Angelegenheiten der Kultur Ruhr GmbH
+- TOP 11.1: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2013
+- TOP 11.2: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 12: Angelegenheiten der Maximilianpark Hamm GmbH - Änderung des Gesellschaftsvertrages / Zuschuss- und Finanzierungsvertrag 2015-2017
+- TOP 13: Angelegenheiten der Freizeitschwerpunkt Glörtalsperre GmbH - Änderung des Gesellschaftsvertrages
+- TOP 14: Angelegenheiten der TourismusEisenbahn Ruhrgebiet GmbH - Jahresabschluss zum 31.12.2013
+- TOP 15: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2013
+- TOP 16: Anträge
+- TOP 17: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
