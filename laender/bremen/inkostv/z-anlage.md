@@ -142,8 +142,10 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | bei Anlagen, die an eine Alarmzentrale angeschlossen sind, das Unternehmen, das die Alarmzentrale betreibt, | 
  | bei kombinierten Anlagen das Unternehmen, das die Alarmzentrale betreibt, wenn durch sie zuerst die Polizei benachrichtigt wurde | 
  | in den übrigen Fällen der Anlagenbesitzer | 
-120.60 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in dieser Kostenverordnung oder der Allgemeinen Kostenverordnung nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 Bremisches Gebühren- und Beitragsgesetz nicht vorgeschrieben ist | Gebührenfrei
-120.61 | Schriftliche Verbote und Gebote nach dem Bremischen Polizeigesetz | 63 bis 1 255
+120.60 | Einsatz des Polizeivollzugsdienstes nach § 4 Absatz 4 des Bremischen Gebühren- und Beitragsgesetzes | Abrechnung nach tatsächlichem Aufwand, soweit möglich nach Maßgabe der Nummern 120.10 bis 120.16.
+ |  | Auslagen werden gesondert erhoben
+120.61 | Amtshandlungen des Polizeivollzugsdienstes, soweit für sie eine Gebühr in dieser Kostenverordnung oder der Allgemeinen Kostenverordnung nicht festgesetzt oder eine Erstattung von Aufwendungen im Sinne von § 11 Bremisches Gebühren- und Beitragsgesetz nicht vorgeschrieben ist | Gebührenfrei
+120.62 | Schriftliche Verbote und Gebote nach dem Bremischen Polizeigesetz | 63 bis 1 255
 121 | Melde- und Ausweiswesen | 
 121.00 | Einfache Melderegisterauskunft nach § 32 Abs. 1 Meldegesetz | je Einwohner 6
 121.01 | Erweiterte Melderegisterauskunft nach § 32 Abs. 2 Meldegesetz | je Einwohner 10
