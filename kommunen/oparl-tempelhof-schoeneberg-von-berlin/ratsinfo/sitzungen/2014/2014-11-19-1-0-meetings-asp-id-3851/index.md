@@ -1,0 +1,112 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2014-11-19T17:00:00+01:00
+- Ende: 2014-11-19T21:20:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3851
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3851
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=67283
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 4: Neuwahl der Beiräte für die VIVANTES Kliniken Berlin GmbH - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Kinder- und Jugendparlament - erledigt
+- TOP 5.1: Fußballplatz der Scharmützelsee-GS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Klettergerüst auf dem Spielplatz in der Lefévrestraße/ Retzdorfpromenade neu anstreichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Reinigung des Wartburgspielplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Spielplatzerneuerung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Spielplatz in der Lefévrestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Klettergerüst auf dem Wartburgspielplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Neue Seile für das Klettergerüst auf dem Ekesunder Spielplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Durchgang um den Spielplatz Illigstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Schaukeln in der Illigstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Rostige Nägel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Fehlendes Fußballtor (auf dem Spielplatz in der Illigstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.12: Mülltonnen am Hexenspielplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Mülltonne am Teich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Mehr Mülleimer in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Graffitientfernung am Rumeyplan/Peter-Strasser-Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.16: Fußgängerquerung über die Kaiserstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.17: Unkrautbeseitigung auf dem Spielplatz an der Richterstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.18: Erneuerung der Parkbank im Parkring Neu-Tempelhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.19: Erneuerung der Basketballkörbe in der Felisstr./Gökstr. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.20: Straßenschilderneuerung Hessenring/Mohnickestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.21: Tore ohne Netz in der Markgrafenstr. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.22: Polizeikontrollen am „Kifferspielplatz“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.23: Zaun zwischen Skaterbahn und Fußballplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Protokollgenehmigung - erledigt
+- TOP 7: Unerledigte Drucksachen - erledigt
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Gibt es Fortschritte bei der Planung und Errichtung des Kabinentrakts für den Sportplatz Halker Zeile? - beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Geschützte Räume in Schwimmbädern für trans- und intersexuelle Menschen schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Neubau der Gustav-Heinemann-Schule - überwiesen
+- TOP 10.3: Barrierefreier Zutritt in einem Degewo-Gebäude mit Arztpraxis - überwiesen
+- TOP 10.4: Fahrradbügel auf dem Innsbrucker Platz - überwiesen
+- TOP 10.5: Umwidmung der Vorgärten im Business Improvement District (BID, T-Damm) - in der BVV abgelehnt
+- TOP 10.6: Sportstättenvergabekommission einrichten - überwiesen
+- TOP 10.7: Querung des Töpchiner Wegs optimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Bewertungssystem Nachhaltiges Bauen für die Gustav-Heinemann-Schule - in der BVV abgelehnt
+- TOP 10.9: Krankenversicherungschipkarte für Asylbewerber/innen (Bremer Modell) - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Zurück zur alten Parkscheibenregelung an der Freiherr-vom-Stein-Straße anstatt mit „Kiss & Ride“ zum Standesamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.11: Runder Tisch für obdachlose Menschen in Tempelhof-Schöneberg - überwiesen
+- TOP 10.12: Ergebnisse der Einschulungsuntersuchungen offenlegen und die richtigen Schlussfolgerungen ziehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Abstimmung mit dem FahrRat verbessern - überwiesen
+- TOP 10.14: Ohne Jahresüberschüsse keine Haushaltssanierung Soziales muss im Bezirk handlungsfähig bleiben - überwiesen
+- TOP 10.15: Bericht über Verstöße im Fahrradverkehr - in der BVV abgelehnt
+- TOP 10.16: Baufeld 2/3 am Südkreuz: Belange Bedürftiger berücksichtigen! - zurückgezogen
+- TOP 10.17: WC-Sanierung der Mittelpunktbibliothek und der Bezirkszentralbibliothek prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.18: Perspektivplanung zur Förderung von Wohneigentum - in der BVV abgelehnt
+- TOP 10.19: Fahrradstellplätze in der „Einkaufsmeile“ der Manfred-von-Richthofen-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.20: Förderung von Neubauwohnungen für das Bauvorhaben Bautzener Straße nutzen - überwiesen
+- TOP 10.21: Ausstellung „Der Weg zur deutschen Einheit“ zeigen - überwiesen
+- TOP 10.22: Ehemalige Feuerwache Rathausstraße 70-72 - überwiesen
+- TOP 10.23: Rettungsweg für das Theater Morgenstern - in der BVV abgelehnt
+- TOP 10.24: Spielstätte für das Theater Morgenstern sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Wahl eines stellvertretenden Bürgerdeputierten -Ausschuss für Sport - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.26: Freie Querung für Fahrradfahrer - überwiesen
+- TOP 10.27: Hauptstraße 28-29 - überwiesen
+- TOP 10.28: Öffentlicher Bücherschrank für Tempelhof-Schöneberg - überwiesen
+- TOP 10.29: Wahl von stellvertretenden Bürgerdeputierten - Ausschuss für Wirtschaft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.30: Sondermittel für die Flüchtlingsunterkünfte im Bezirk verwenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 11.1: Mehr Engagement für eine eigene Koordinierungsstelle für Stolpersteine in Tempelhof-Schöneberg - beantwortet
+- TOP 11.2: FAV-Stelle: Bezirkliche Gedenkkultur - in der BVV abgelehnt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Tempelhof-Schöneberg als Fairtradestadt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Sicherung der Schulplatzangebote an den Integrierten Sekundarschulen im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Inklusion erleichtern – Fachverfahrenssoftware mit entsprechenden Routinen ausstatten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Information der BVV über Rechnungshofprüfungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.6: Zahlung nach TV-L Berlin in der Jugendarbeit: Tarifliche Lohnerhöhungen auch bei Freien Trägern berücksichtigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Sicherheitsforen reaktivieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Finanzierung der Schulen auf eine solide Basis stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Standortprüfung für Beratungs- und Unterstützungszentrum vornehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - BSC Kickers 1900 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Evangelisches Jugend- und Fürsorgewerk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Tennisclub Berlin-Lichtenrade Weiß-Gelb e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Unterstützung des Beschlusses des Landesjugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Städtebauliche Entwicklung Innsbrucker Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - erledigt
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Geschlechtersensible Jungenarbeit fördern - überwiesen
+- TOP 14.2: Gender Budgetierung in der Verwaltung optimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Rücknahme der Streichungsvorhaben der Stellen im schulpsychologischen Dienst bis 2020 - überwiesen
+- TOP 14.4: Überprüfung des Gebäudes "Kohlenhandlung Bruno Meyer Nachfahren" durch das Landesdenkmalamt - überwiesen
+- TOP 14.5: Kaufoption durch städtische Wohnungsgesellschaften zu Wohnprojekten von der TARSAP im Schöneberger Norden anregen - überwiesen
+- TOP 14.6: Städtebaulichen Denkmalschutz Grazer Damm / Grazer Platz prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Toiletten-Desaster (an der Grundschule am Barbarossaplatz) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Renovierung der Toiletten auf der Kiepert-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Dem Kieztheater OtonArt unbürokratisch helfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Beschluss des Bezirksregionenprofils für die Bezirksregion Tempelhof, Teil 1 (analytischer Teil) - überwiesen
+- TOP 14.11: Einleitung des Verfahrens für eine Erhaltungsverordnung gemäß § 172 Abs. 1 Nr. 2 BauGB i.V.m. § 30 AGBauGB für die Grundstücke zwischen Monumentenstraße, östliche Grenze des Grundstücks Monumentenstraße 13, Verlängerung der Grundstücksgrenze bis zurKesselsdorfstraße, Kesselsdorfstraße, Kolonnenstraße, Naumannstraße, Torgauer Straße, Cherusker Park und Wannseebahngraben im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 14.12: Bibliotheken in Tempelhof-Schöneberg neu aufstellen und wirtschaftlich gestalten - überwiesen
+- TOP 15: Termin der nächsten Sitzung - erledigt
