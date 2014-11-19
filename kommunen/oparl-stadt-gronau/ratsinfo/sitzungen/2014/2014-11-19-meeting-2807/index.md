@@ -1,0 +1,51 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2014-11-19T18:00:00+01:00
+- Ende: 2014-11-19T20:37:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdsBU8OWeAcV2zOnczQis-c
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2807
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaG6v0x6LRw6rs-8DCqW6KGRxC3uLyTUJN3q6u8y1GdN/Bekanntmachung_Rat_19.11.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRWN3p64picHxHDQwEuz57HA0Zw6hKqsq9ru9IAE4YEG/Oeffentliche_Niederschrift_Rat_19.11.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Vorstellung des Geschäftsführers der WTG mbH
+- TOP 3.: Niederschrift vom 04.11.2014
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Errichtung eines Jugendparlaments in Gronau; Antrag der UWG-Fraktion vom 07.11.2014 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Budgetbericht zum III. Quartal 2014 - Ohne Abstimmung
+- TOP 6.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2013 Entlastung des Betriebsausschusses - Einstimmig, 2 Enthaltungen
+- TOP 7.: Wirtschaftsplan für das Jahr 2015 der Zentralen Bau- und Umweltdienste - 38 Jastimmen, 0 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Gronau (Westf.) durch die Gemeindeprüfungsanstalt Nordrhein-Westfalen (GPA NRW) Bericht der GPA NRW vom 16.09.2014 - Einstimmig, 1 Enthaltungen
+- TOP 9.: Durchführung des Benehmensverfahrens zur Festsetzung der Kreisumlage für das Jahr 2015 gem. § 55 Abs. 1 Kreisordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beurteilung von Finanzierungsoptionen kommunaler Investitionen - Einstimmig, 0 Enthaltungen
+- TOP 11.: Straßennamen Hindenburgring / Hindenburgstraße - Einstimmig, 0 Enthaltungen
+- TOP 12.: Landesgartgenschau Gronau/Losser 2003 GmbH i.L. - Einstimmig, 0 Enthaltungen
+- TOP 13.: Erneuerung der öffentlichen Straßenbeleuchtung Bauprogramm: Ginsterweg Erhebung von Straßenbaubeiträgen - Einstimmig, 3 Enthaltungen
+- TOP 14.: Lärmaktionsplan der II. Stufe für vom LANUV kartierte Straßen in Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Wasser- und Bodenverband „Amtsvenngebiet“ Wahl der Mitglieder des Verbandsausschusses aus der Gruppe der Städte und Gemeinden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 17.1: Bereitstellung des beschlossenen Integrierten Handlungskonzeptes in Papierform
+- TOP 17.2: Asylbewerber/innen: Entwicklung der Fallzahlen in Gronau
+- TOP 18.: Anfragen
+- TOP 18.1: Überstundensituation bei der Stadtverwaltung (RM Wagner)
+- TOP 18.2: Kinderärztliche Versorgung im nördlichen Bereich des Kreises Borken (RM Krause/RM Strestik)
+- TOP 18.3: Unterstützung freier Netze (RM Krause/RM Strestik)
+- TOP 18.4: Urantails nun Atommüll - Auswirkungen Thema im Ausschuss für Verkehr, Umwelt, Energie und Tierschutz? (RM Ricking)
+- TOP 18.5: Bericht über Nitrat- und Nährstoffgehalt im Grundwasser (RM Wittland)
+- TOP 18.6: Wann werden die Straßenlaternen an der Gerdingseite aufgestellt? (RM Lenz)
+- TOP 18.7: Beurteilung des weitestgehenden Antrags zur Vierzügigkeit der Realschule in der Sitzung des Ausschusses für Schule und Kultur am 18.11.2014 (RM Gabbe)
+- TOP 18.8: Simulierter GAU im Atomkraftwerk Lingen (RM Wagner)
+- TOP 18.9: Sitzung des Haupt- und Finanzausschusses am 08.12.2014? (RM Bartels)
+- TOP 18.10: Kann die Situation der Asylbewerber/innen zum Thema in den Gremien gemacht werden? (RM Bartels, RM Buchholz)
+- TOP 18.11: Gibt es Ansiedlungsverträge für die weiteren Ausbaustufen der hiesigen Anlage der Urenco Deutschland GmbH? (RM Buchholz)
+- TOP 18.12: Kamera im Sitzungssaal offensichtlich funktionsuntüchtig machen (RM Strestik)
+- TOP 18.13: Fundfahrräder für Asylbewerber/innen zur Verfügung stellen (RM Rörick)
