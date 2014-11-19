@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 1. Sitzung des Umweltausschusses (2014-11-19)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2014-UA-19%7Czt_5%7C2
