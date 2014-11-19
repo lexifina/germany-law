@@ -1,0 +1,56 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-11-19T17:02:00+01:00
+- Ende: 2014-11-19T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9702
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9702
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00362814.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 2.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 5.1: Erweiterung der DRK Kita Schatzkiste auf dem Gelände der ehem. York-Kaserne, Errichtungs- und Baubeschluss - einstimmig geändert beschlossen
+- TOP 5.2: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014 - einstimmig geändert beschlossen
+- TOP 5.3: Sachstand in der Umsetzung des Abfallwirtschaftskonzeptes - zur Kenntnis genommen
+- TOP 5.4: Handlungsprogramm 2012 bis 2017 - 3. Projektbericht zur Umsetzung (Auszug Ausschuss für Umweltschutz, Klimaschutz und Bauwesen) - zur Kenntnis genommen
+- TOP 5.5: Bericht zum Unwetter am 28.07.2014 - von der Tagesordnung abgesetzt
+- TOP 5.6: Erfolgreiche Zertifizierung der Stadt Münster als flächensparende Kommune, Flächenbericht mit Handlungsprogramm "Flächensparende Entwicklung" und Analyse der Siedlungs- und Verkehrsflächenentwicklung in Münster - einstimmig beschlossen
+- TOP 5.7: Dichtigkeitsprüfungen und Sanierungen von Gebäudeentwässerungsanlagen - von der Tagesordnung abgesetzt
+- TOP 5.8: Neubau eines Feuerwehrgerätehauses für den Löschzug Handorf der Freiwilligen Feuerwehr, Hobbeltstraße - einstimmig beschlossen
+- TOP 5.9: Ergänzungen zu den drei Vorlagen "Optimierung bürgerorientierter Dienstleistungen" - einstimmig geändert beschlossen
+- TOP 5.10: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 5.11: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 5.12: 6. Fortschreibung des Abwasserbeseitigungskonzeptes 2015 der Stadt Münster - einstimmig beschlossen
+- TOP 5.13: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2015 - zur Kenntnis genommen
+- TOP 5.14: Errichtung einer Prozesswasserbehandlungsanlage - einstimmig beschlossen
+- TOP 5.15: Krummer Bach - ökologische Verbesserung des Unterlaufes im Bereich nördlich Hülshoffstraße, von der Mündung in die Aa bis zur Mündung der Hunnebecke - einstimmig beschlossen
+- TOP 5.16: Siebenbürgenweg - einstimmig beschlossen
+- TOP 5.17: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Hiltrup - einstimmig beschlossen
+- TOP 5.18: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Mitte - mehrheitlich geändert beschlossen
+- TOP 5.19: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Nord - einstimmig beschlossen
+- TOP 5.20: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Ost - einstimmig beschlossen
+- TOP 5.21: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-Südost - einstimmig beschlossen
+- TOP 5.22: Maßnahmenprogramm 2015 -2016 des Tiefbauamtes für die überbezirklichen Baumaßnahmen im Bezirk Münster-West - einstimmig beschlossen
+- TOP 5.23: Im Hagenfeld - einstimmig beschlossen
+- TOP 5.24: Erneuerung der Niederspannungshauptverteilungen - einstimmig beschlossen
+- TOP 5.25: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Mitte - zur Kenntnis genommen
+- TOP 5.26: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Ost - zur Kenntnis genommen
+- TOP 5.27: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Nord - zur Kenntnis genommen
+- TOP 5.28: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-West - zur Kenntnis genommen
+- TOP 5.29: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Südost - zur Kenntnis genommen
+- TOP 5.30: Geplante Veranlagungen in 2015 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) im Bereich der Bezirksvertretung Münster-Hiltrup - zur Kenntnis genommen
+- TOP 5.31: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Roxel, Pienersallee, und Anpassung der Personalsituation in verschiedenen Aufgabenbereichen - einstimmig beschlossen
+- TOP 6: Beratung des Bürgerhaushalts 2014 gemäß Vorlage an den Rat, Nr. V/0632/2014 "Bürgerhaushalt 2014 - Dokumentation der 95 Vorschläge aus der Bestenliste des Bürgerhaushalts 2014
+- TOP 7: Beratung des Entwurfes des Haushaltsplanes 2015, des Finanzplanes und des Investitionsprogramms 2014 - 2018
+- TOP 8: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 9: Sonstiges
