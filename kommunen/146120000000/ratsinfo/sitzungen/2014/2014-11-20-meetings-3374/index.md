@@ -1,0 +1,56 @@
+# 4. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-11-20T16:00:00+01:00
+- Ende: 2014-11-20T21:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3374
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3374
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_11_20 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00184759.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Servicebereich der Wasserskianlage Kiesgrube Leuben - erledigt
+- TOP 2.2: EU-Förderstrategie für Dresden - erledigt
+- TOP 2.3: Asyl in Dresden: Bearbeitungsdauer, Anerkennungsquote, Standortänderung, Kostenerstattung, Einwohnerversammlung - erledigt
+- TOP 2.4: Einwohner-/Bürgerversammlungen zur Unterbringung von Asylbewerbern in Dresden - erledigt
+- TOP 2.5: Einsatz der Rettungskräfte während der Hochwasser 2002 und 2013 - erledigt
+- TOP 2.6: Unfallschwerpunkt Kreuzung Strehlener Platz - erledigt
+- TOP 2.7: Windmühlenstraße - erledigt
+- TOP 2.8: Kommunikationskonzept der Stadtverwaltung zu Asylvorlage - erledigt
+- TOP 2.9: Bauliche Entwicklungen auf dem Stadiongelände - erledigt
+- TOP 2.10: Haushaltsplanentwurf 2015/16 + Haushaltsperre: Kostensteigerungen Großprojekte, Einhaltung Verschuldungsverbot, Vermeidung Steuererhöhung - erledigt
+- TOP 2.11: ÖPNV-Anbindung Stauffenbergallee West - erledigt
+- TOP 2.12: Kita „Stadtrandentdecker“ - erledigt
+- TOP 2.13: Auswirkungen des Freihandelsabkommens TTIP auf die Landeshauptstadt Dresden - erledigt
+- TOP 2.14: Maßnahmeplan zur Schaffung zusätzlicher Unterbrinungskapazitäten für besondere Bedarfsgruppen in den kommenden Jahren - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - bei Bedarf
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Besetzung der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - erneute Beratung
+- TOP 6: Wahl der Vertreter für die Neubesetzung der Kommunalgemeinschaft Euroregion Oberes Elbtal / Osterzgebirge e. V. - gewählt
+- TOP 7: Ergebnisse der Dresdner Debatte zum Entwurf des Verkehrsentwicklungsplans 2025plus (VEP 2025plus) der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 8: Verkehrsentwicklungsplan 2025plus (VEP 2025plus) - Zustimmung
+- TOP 9: Bebauungsplan Nr. 342, Dresden-Weißig Nr. 18, Wohnen am Querweg - Zustimmung
+- TOP 10: Annahme und Verwendung von eingegangenen Spenden für die Organisationseinheiten in der Landeshauptstadt Dresden im II. Quartal 2014 - Zustimmung
+- TOP 11: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen Dresden im Wirtschaftsjahr 2014 durch Rückgabe der Liegenschaft Spreewalder Straße 50, 01239 Dresden - Zustimmung
+- TOP 12: Planung und Finanzierung der Herstellung der Freiflächen um den Kulturpalast - Zustimmung
+- TOP 13: Parkraumkonzept Johannstadt-Nord - Zustimmung
+- TOP 14: Verkehrsbaumaßnahme Gostritzer Straße zwischen Boderitzer Straße und Teplitzer Straße - Vertagung
+- TOP 15: Verkehrsbaumaßnahme Marienberger Straße – Salbachstraße zwischen Knappestraße und Wehlener Straße - Vertagung
+- TOP 16: "LichtWerk Dresden-Mitte" - Antrag der Landeshauptstadt Dresden im Bundesprogramm zur Förderung von Investitionen in nationale Projekte des Städtebaus, Projektaufruf 2014 - Vertagung
+- TOP 17: 70. Jahrestag der Zerstörung Dresdens am 13. Februar 2015 - Ablehnung
+- TOP 18: Quartalsweise Haushaltsabrechnung - Vertagung
+- TOP 19: Neue Wohnungspolitik in einer wachsenden Stadt - Vertagung
+- TOP 20: Dresden: Kulturhauptstadt Europas 2025 - Zustimmung
+- TOP 21: Debatte über eine Bewerbung Dresdens als Europäische Kulturhauptstadt 2025 aufnehmen - Einleitung eines Bewerbungsverfahrens prüfen - Zustimmung
+- TOP 22: UrbanArt (StreetArt und Graffiti) in Dresden - Zustimmung
+- TOP 23: Neustädter Markt als lebendigen städtischen Platz zurückgewinnen - Große Meißner Straße umbauen - Vertagung
+- TOP 24: Postplatz neu gestalten und begrünen - Vertagung
+- TOP 25: Neustädter Markt aufwerten und Erscheinungsbild verbessern - städtebauliche Konzepte umsetzen - Vertagung
+- TOP -: ausgereichte Informationsvorlage
+- TOP -: Qualifizierung der Beschlussvorlage zum Rahmenkonzept Wohnen - zur Kenntnis genommen
