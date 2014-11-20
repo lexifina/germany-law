@@ -1,0 +1,21 @@
+# Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2014
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-77/2014 1. Ergänzung
+- Art: Beschlussvorlage Gemeindevertretung
+- Datum: 2014-11-20
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYWY7Fs7niSX4cG_pjcdwcw
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/717
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Gemeindevertretung (Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2014) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVzl9Sy7ye0Rrq19EGCRvuhKyHWLogv0BCwtVSJnsiEQ/Beschlussvorlage_Gemeindevertretung_VL-77-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRuMbiUlhdgZKeFmQN9aEBMCGFXkFFmYFk7aEkx-D304/NPL_2014_Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Satzungsentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaVUcKnUpUi9GpSi02345givBM8OWrurUqLcIB0eH9dJ/NPL_2014_Satzungsentwurf.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Vorbericht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaMYyJzTz07WEcgD16dKS4fYXlnHEe2xP160YtR30Yzg/NPL_2014_Vorbericht.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Gesamtergebnis-Finanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdxtzT01pJlc3Sy9iNw7jolHaWiCp1898GCF-0sTO1DK/NPL_2014_Gesamtergebnis-Finanzhaushalt.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Haushaltsplanentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXO034q9jf9-mpHaE0Bu1KSz7Fu5EipQZqIOq7h_fjVw/NPL_2014_Haushaltsplanentwurf.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Deckungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa533alBBP0qYBOCIPVtOe9faiG9aHrqzzkq3gmZeWof/NPL_2014_Deckungsvermerke.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_VE`s) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV82HqbdOCROaHO6tZI69D0n2n29QrMAndW8CzOLEi4N/NPL_2014_VE-s.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Verbindlichkeitenübersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUczgAuPpP1DrkW6b1j5I4Dd6Ofc_3w67i-MYnqQ97N7/NPL_2014_Verbindlichkeitenuebersicht.pdf
+- Anlage: Beschlussvorlage Gemeindevertretung (NPL_2014_Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZVq9JBStNYodAaPJy34oPTXJxk2gTPV8GN6gO1ORbSw/NPL_2014_Ruecklagen-Rueckstellungen.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/535 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-3
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
