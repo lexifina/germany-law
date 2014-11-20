@@ -1,0 +1,53 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2014-11-20T17:00:00+01:00
+- Ende: 2014-11-20T17:40:00+01:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZamAq-iQSF0xjPKxhOJMobc
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3037
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVplxz1DnWjV0rl4Gva7s3zkrJ90v2VMCWrY9VAgtPiO/Oeffentliche_Niederschrift_Rat_20.11.2014.pdf
+
+## Tagesordnung
+
+- TOP A: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 3. Sitzung vom 18.09.2014 - öffentlicher Teil -
+- TOP 2.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 3.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 4.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 5.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 6.: Änderung der Hauptsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Einrichtung einer Schwerpunktschule - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Richtlinien zur Förderung des Erwerbs von Altbauten (Förderprogramm "Jung kauft Alt - junge Menschen kaufen alte Häuser") - 22 Ja-Stimme(n), 12 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Verordnung über das Offenhalten von Verkaufsstellen im Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Gebührenbedarfsberechnung für die Erhebung von Kosten und Gebühren für Leistungen der Freiwilligen Feuerwehr der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Satzung über die Erhebung von Kosten und Gebühren für Leistungen der Freiwilligen Feuerwehr der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: 6. Änderung der Friedhofssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Gebührenbedarfsberechnung Bestattungswesen 2015 - Stellt fest
+- TOP 14.: 22. Satzung zur Änderung der Friedhofsgebührensatzung der Stadt Vlotho vom 26.05.1988 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Gebührenbedarfsberechnung für die Übergangsheime für das Jahr 2015 - Zur Kenntnis genommen
+- TOP 16.: Gebührenbedarfsberechnung Abfallbeseitigung 2015 - Stellt fest
+- TOP 17.: Gebührenbedarfsberechnung Straßenreinigung 2015 - Stellt fest
+- TOP 18.: Gebührenbedarfsberechnung Abwasser für das Jahr 2015 - Zur Kenntnis genommen
+- TOP 19.: Beitrags- und Gebührensatzungsänderungen; hier: Artikelsatzung
+- TOP 19.1: Änderung der Beitrags- und Gebührensatzungen, der Hauptsatzung, der Friedhofssatzung sowie der Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer der Stadt Vlotho hier: Artikelsatzung - 21 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 20.: Jahresabschluss 2013 der Vlothoer Wirtschaftsbetriebe - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Personal - für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Straßenneubau - für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.1: Restausbau der Valdorfer Straße
+- TOP 23.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Innenstadtprojekte - für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Abwasser- für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Service- für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Zukunftsorientierte Ausrichtung der Abwasserbehandlung der Stadt Vlotho - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Investitionen bei den Vlothoer Witrschaftsbetrieben in der Betriebssparte Abwasser im Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Straßenbauprogramm 2015 - Abgesetzt
+- TOP 29.: Beteiligung der Stadtwerke Vlotho GmbH an der AOV GbR - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Vlotho - 21 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 31.: Überplanmäßige Haushaltsausgabe - lfd. Leistungen nach dem Asylbewerberleistungsgesetz (AsylbLG) - Einstimmig, 0 Enthaltung(en)
+- TOP 32.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 32.1: Instandsetzungsarbeiten Amtshausberg Vlotho - Zur Kenntnis genommen
+- TOP 32.2: Kommunale Daseinsvorsorge nicht durch Freihandelsabkommen gefährden - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Anfragen nach § 17 der Geschäftsordnung und Mitteilungen
