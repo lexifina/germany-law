@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-11-20T15:00:00+01:00
+- Ende: 2014-11-20T18:17:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2546
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2546
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Teilnahme der Stadt Mönchengladbach an der internationalen Kampagne Fairtrade-Towns von TransFair eV - Einstimmiger Beschluss
+- TOP 3: Benennung der sachkundigen Einwohner/Innen und ihrer Stellvertreter/Innen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 4: Benennung eines Mitgliedes für die kommunale Beratungskommission in ausländerrechtlichen Härtefällen - Einstimmiger Beschluss
+- TOP 5: Erste Nachtragssatzung 2014 - Einstimmiger Beschluss
+- TOP 6: Überplanmäßige Bereitstellung von Haushaltsmitteln für Personalaufwendungen - Einstimmiger Beschluss
+- TOP 7: Außerplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 015 040 010 (Beteiligungen) - Mit Stimmenmehrheit beschlossen
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2014 - Kenntnisnahme
+- TOP 9: Auslaufen der Bestandsbetrauungen in der ÖSPV-Finanzierung - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 10: 47. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 11: Sachkundiger Einwohner im Umweltausschuss - Einstimmiger Beschluss
+- TOP 12: Nachwahlen im Beirat bei der Unteren Landschaftsbehörde - Einstimmiger Beschluss
+- TOP 13: Wahl einer/eines Beigeordneten - Zur Kenntnis genommen
+- TOP 14: VO Verkaufsoffener Sonntag in Wickrath-Mitte - Mit Stimmenmehrheit beschlossen
+- TOP 15: 13. Nachtrag zum Taxentarif - Einstimmiger Beschluss
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Konversion Joint Headquarter (JHQ) - Anmietung der Liegenschaft ö. - Siehe Niederschrift
+- TOP 18: Veränderungssperre Am Nordpark - Einstimmiger Beschluss
+- TOP 19: Straßenbenennung Neubaugebiet Krefelder Straße - Einstimmiger Beschluss
+- TOP 20: Sauberkeit in der Rheydter Innenstadt - Mit Stimmenmehrheit abgelehnt
+- TOP 21: Änderung der Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Änderung der Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Umgestaltung Limitenstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Änderung der HSP-Maßnahme 2013-0210 - Mit Stimmenmehrheit beschlossen
+- TOP 24.1: Antrag Grüne zur HSP-Maßnahme 2013-0210 - Mit Stimmenmehrheit abgelehnt
+- TOP 24.2: Antrag der FWG zur HSP-Maßnahme 2013-0210 - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Nahverkehrsplan und Direktvergabe - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 26: "Für lebenswerte Quartiere in unserer Stadt - Schrottimmobilien in Mönchengladbach den Kampf ansagen - Mit Stimmenmehrheit beschlossen
+- TOP 26.1: "Für lebenswerte Quartiere in unserer Stadt - Schrottimmobilien in Mönchengladbach den Kampf ansagen - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Kompetenzzentrum Sauberkeit, Gesellschaft für Entsorgung Mönchengladbach (GEM GmbH) - Einstimmiger Beschluss
+- TOP 27.1: Kompetenzzentrum Sauberkeit, Gesellschaft für Entsorgung Mönchengladbach (GEM GmbH) - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Gestaltungssatzung für Werbeanlagen für Mönchengladbach (Werbegestaltungssatzung) - Mit Stimmenmehrheit beschlossen
+- TOP 28.1: Gestaltungssatzung für Werbeanlagen für Mönchengladbach (Werbegestaltungssatzung) - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Lebensqualität und Sauberkeit in den Quartieren - das Stadtbild pflegen ("Saubere Stadt") - Mit Stimmenmehrheit beschlossen
+- TOP 29.1: Lebensqualität und Sauberkeit in den Quartieren-das Stadtbild pflegen ("Saubere Stadt") - Mit Stimmenmehrheit abgelehnt
+- TOP 29.2: Ergänzunsantrag zu TOP 29 "Lebensqualität und Sauberkeit in den Quartieren- das Stadtbild pflegen - Mit Stimmenmehrheit beschlossen
+- TOP 30: Beitritt zum Modell Stromspar-Check Plus - Mit Stimmenmehrheit abgelehnt
+- TOP 30.1: Beitritt zum Modell "Stromspar-Check Plus" / Vorlage 419/IX - Einstimmiger Beschluss
+- TOP 31: Zukünftige Organisation der Abfallentsorgung, Stadtreinigung - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Resolution:Kommunale Daseinsvorsorge nicht durch Freihandelsabkommen gefährden - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 34: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 35: Anfragen und Mitteilungen
+- TOP 35.1: Anfrage von RH Schultz (Die LINKE) bezüglich der Unterbringung von Flüchtlingen
+- TOP 35.2: Anfrage von RH Schultz (Die LINKE) zu Kleidergeldgutscheinen
+- TOP 35.3: Anfrage von RH Schiffers (SPD) zu Plakaten des City Managements Mönchengladbach
+- TOP 35.4: Anfrage von RF Brombeis Bündnis 90/Die Grünen zu Wirtschaftsplänen der Beteiligungsgesellschaften
