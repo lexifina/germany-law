@@ -1,0 +1,8 @@
+# TOP 3: Benennung der sachkundigen Einwohner/Innen und ihrer Stellvertreter/Innen
+
+- Sitzung: Rat (2014-11-20)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/123761
+- Ergebnis: Einstimmiger Beschluss mit einer Enthaltung
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/18189
