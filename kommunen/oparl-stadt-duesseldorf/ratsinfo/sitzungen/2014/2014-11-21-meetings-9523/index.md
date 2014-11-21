@@ -1,0 +1,60 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-21T16:00:00+01:00
+- Ende: 2014-11-21T19:05:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9523
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9523
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00227823.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00227823.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00227823.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Vorstellung der Planungshinweiskarte - zur Kenntnis genommen
+- TOP 4: Grünordnungsplan 2025 - zur Kenntnis genommen
+- TOP 5: Sachstand zum Sturm "Ela" - mündlicher Bericht - zur Kenntnis genommen
+- TOP 6: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 7: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 8: Aufnahme auswärtiger Kinder in städtischen Schulen
+- TOP 9: Antrag: Bauunterhaltungsmittel 2014 - Liste für Mittel an Dritte -; - Übertragung in das Haushaltsja
+- TOP 10: Anfrage: Geplante Veränderungen im Grünzug Furtherstr. / Altenbrückstr.
+- TOP 11: Anfrage: Anbindung der geplanten Grünverbindung in Wersten an den Deichweg Brückerbach
+- TOP 12: Anfrage: Altes Benrather Krankenhaus, Hospitalstraße - zur Kenntnis genommen
+- TOP 13: Anfrage: Städtebauförderprogramm Soziale Stadt - zur Kenntnis genommen
+- TOP 14: Anfrage: Schulcontainer auf dem Gelände der Adolf-Klarenbach-Schule in Holthausen - zur Kenntnis genommen
+- TOP 15: Anfrage: Fahrradboxen S-Bahn-Stationen, Ladestationen für E-Bikes und Elektromobilität in Düsseldorf - zur Kenntnis genommen
+- TOP 16: Anfrage: Geplanter Nachbarschaftsgarten Burscheider Str. 29
+- TOP 17: Anfrage: Streckenbezogene Geschwindigkeitskontrollen - zur Kenntnis genommen
+- TOP 18: Anfrage: Schulwegsicherung im Stadtbezirk 09 - zur Kenntnis genommen
+- TOP 19: Anfrage: Schulbus Grundschule Himmelgeist
+- TOP 20: Antrag: Spielplatz für den Tiroler Weg in Wersten - zur Kenntnis genommen
+- TOP 21: Antrag: Parksituation Tiroler Weg in Wersten - zur Kenntnis genommen
+- TOP 22: Antrag: Parkplatz für den Tiroler Weg in Wersten - zur Kenntnis genommen
+- TOP 23: Antrag: Baumpatenschaft der Bezirksvertretung 9 - zur Kenntnis genommen
+- TOP 24: Antrag: Marktplatz Benrath
+- TOP 25: Antrag: Gemeinwohlorientierte Wohnungspolitik im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 26: Antrag: Aufstellung des Kö-Pavillions auf dem Kamper Acker in Holthausen - zur Kenntnis genommen
+- TOP 27: Antrag: Wiederaufnahme der Blitzanlage - zur Kenntnis genommen
+- TOP 28: Antrag: Lärmreduzierung Werstener Straße - zur Kenntnis genommen
+- TOP 29: Antrag: Änderung Düsseldorfer Straßenordnung - zur Kenntnis genommen
+- TOP 30: Antrag: Sachstand "Ausbau Kreuzung Ickerswarder-/Münchener Str." "Radschnellweg" - zur Kenntnis genommen
+- TOP 31: Antrag: Gartenparzellen an der Hügelstraße 70-76 - zur Kenntnis genommen
+- TOP 32: Antrag: Verbesserung der Straßenbeleuchtung am Scheideweg - zur Kenntnis genommen
+- TOP 33: Antrag: Verfügungsmittel Kath. Kirchengemeinde St. Hubertus Itter, Seelsorgeeinheit - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel St. Sebastianus Schützenbruderschaft 1641 - zur Kenntnis genommen
+- TOP 35: Antrag: Verfügungsmittel Benrather Kulturkreis - zur Kenntnis genommen
+- TOP 36: Antrag: Verfügungsmittel GS Schloss Benrath + KG St. Cäcilia - zur Kenntnis genommen
+- TOP 37: Antrag: Verfügungsmittel SG Benrath-Hassels 1910/12 e.V. - zur Kenntnis genommen
+- TOP 38: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V., Nikolausfeier - zur Kenntnis genommen
+- TOP 39: Antrag: Verfügungsmittel GGS Garather Straße, "Mein Körper gehört mir" ,"Die Große Nein-Tonne" - zur Kenntnis genommen
+- TOP 40: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 41: Zulassung eines Vertreters des Beirates für Menschen mit Behinderung - zur Kenntnis genommen
+- TOP 42: Änderungsantrag zu TOP 20, 21, 22 - zur Kenntnis genommen
+- TOP 43: Antrag: Ergänzungsantrag zu TOP 26 - zur Kenntnis genommen
