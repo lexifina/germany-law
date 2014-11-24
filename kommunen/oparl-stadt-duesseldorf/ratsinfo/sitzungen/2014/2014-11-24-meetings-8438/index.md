@@ -1,0 +1,56 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-24T15:00:00+01:00
+- Ende: 2014-11-24T17:00:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8438
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8438
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228407.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228407.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228407.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Roter Filz? Aufgabenfeld und Kosten des ehemaligen Regierungspräsidenten Jürgen Büssow im Büro des O - beantwortet
+- TOP 4: Amt 16: Jahresabschluss und Lagebericht 2013 - einstimmig beschlossen
+- TOP 5: Amt 16 - Wirtschaftsplan 2015 - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2013 und Lagebericht 2013 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsse - einstimmig beschlossen
+- TOP 7: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2015 - - einstimmig beschlossen
+- TOP 8: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 20 - einstimmig beschlossen
+- TOP 9: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation Straßenreinigung für 2015 - einstimmig beschlossen
+- TOP 11: 29. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - mehrheitlich beschlossen
+- TOP 12: Gebühren für Friedhof und Krematorium - mehrheitlich beschlossen
+- TOP 13: Neufassung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 14: Gebührenkalkulation Abfall für 2015 - zur Kenntnis genommen
+- TOP 15: 25. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 16: Etatberatung 2015
+- TOP 16.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2015 mit Anlagen - passieren lassen
+- TOP 16.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseld - passieren lassen
+- TOP 16.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2015 - passieren lassen
+- TOP 16.4: Stellenplan 2015 - passieren lassen
+- TOP 17: Kämmererliste - zur Kenntnis genommen
+- TOP 18: Jahresabschluss 2013 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 19: Annahme von Spenden im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen - einstimmig beschlossen
+- TOP 20: Kö-Bogen, Oberflächengestaltung, 2. BA, AUF - einstimmig beschlossen
+- TOP 21: CKW-Grundwasserverunreinigung Hilden/Benrath - Ausführungs- und Finanzierungsbeschluss - passieren lassen
+- TOP 22: Comeniusstraße, Fenster- und Fassadensanierung Creativhaus - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 23: Bedarfsbeschluss "Grünanlage Belsenpark" - einstimmig beschlossen
+- TOP 24: Erweiterungsbau des Deutschen Tischtennis-Zentrums - einstimmig beschlossen
+- TOP 25: Förderprogramm "Klimafreundliches Wohnen in Düsseldorf" - mehrheitlich beschlossen
+- TOP 26: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 27: Berücksichtigung der Ehrenamtskarte NRW in den städtischen Museen - einstimmig beschlossen
+- TOP 28: Aufnahme auswärtiger Kinder in städtischen Schulen - passieren lassen
+- TOP 29: Einführung digitale Gremienarbeit - einstimmig beschlossen
+- TOP 30: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 31: Hauptversammlung des Deutschen Städtetages vom 09.-11. Juni 2015 in Dresden - passieren lassen
+- TOP 32: B-Plan Nr. 02/004 -Tyssen-Trade-Center- - einstimmig beschlossen
+- TOP 33: Verpflichtungserklärung zum Bebauungsplan-Entwurf Nr. 03/005 - zurückgezogen
+- TOP 34: Plan Nr. 06/009 - Münsterstraße / Nördlicher Zubringer - einstimmig beschlossen
+- TOP 35: Entsendung einer weiteren Vertreterin der Landeshauptstadt Düsseldorf in den Verein FFT - einstimmig beschlossen
