@@ -1,20 +1,18 @@
-# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2014
+# Satzung der Stadt Oldenburg (Oldb) über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2015
 
 - Gemeinde: Stadt Oldenburg (Oldb) (ARS 034030000000)
-- Datum: 2013-11-25 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2014.pdf
+- Datum: 2014-11-24 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.02_2015.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-7.02 1
-
 Satzung der Stadt Oldenburg (Oldb)
 
-über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2014 vom 25.11.2013
+über die Höhe der Gebühren für die Benutzung der Straßenreinigung und Abfallentsorgung für das Haushaltsjahr 2015 vom 24.11.2014
 
-Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.10 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 12.12.12 (Nds. GVBl. S. 589), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.07 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 18.07.12 (Nds. GVBl. S. 279), hat der Rat der Stadt Oldenburg (Oldb) am 25.11.2013 folgende Satzung beschlossen:
+Aufgrund der §§ 10 und 111 des Niedersächsischen Kommunalverfassungsgesetzes (NKomVG) vom 17.12.10 (Nds. GVBl. S. 576), zuletzt geändert durch Gesetz vom 16.12.13 (Nds. GVBl. S. 307), sowie der §§ 1, 2 und 5 des Niedersächsischen Kommunalabgabengesetzes vom 23.01.07 (Nds. GVBl. S. 41), zuletzt geändert durch Gesetz vom 18.07.12 (Nds. GVBl. S. 279), hat der Rat der Stadt Oldenburg (Oldb) am 24.11.2014 folgende Satzung beschlossen:
 
 §1
 
@@ -80,7 +78,7 @@ jährlich für einen Abfallbehälter mit einem Füllraum von
 
 11. 1 100 Liter
 
-29,80 €, 52,15 €, 74,50 €, 89,40 €, 119,20 €, 178,80 €, 357,60 €, 564,00 €, 705,00 €, 1.085,70 €, 1.551,00 €.
+33,20 €, 58,10 €, 83,00 €, 99,60 €, 132,80 €, 199,20 €, 398,40 €, 632,00 €, 790,00 €, 1.216,60 €, 1.738,00 €.
 
 Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter verdoppeln sich die betreffenden Gebühren.
 
@@ -88,27 +86,27 @@ Bei wöchentlicher Entleerung der in den Ziffern 8 bis 11 genannten Behälter ve
 
 1. 60 Liter unter Berücksichtigung der Pauschalgebühr 2. 80 Liter unter Berücksichtigung der Pauschalgebühr 3. 120 Liter unter Berücksichtigung der Pauschalgebühr 4. 240 Liter unter Berücksichtigung der Pauschalgebühr
 
-15,00 €, 44,80 €, 104,40 €, 283,20 €.
+15,00 €, 48,20 €, 114,60 €, 313,80 €.
 
 Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 5. 60 Liter ohne Pauschalgebühr 6. 80 Liter ohne Pauschalgebühr 7. 120 Liter ohne Pauschalgebühr 8. 240 Liter ohne Pauschalgebühr
 
-89,40 €, 119,20 €, 178,80 €, 357,60 €.
+99,60 €, 132,80 €, 199,20 €, 398,40 €.
 
 (4) Die Gebühren bei einmaliger zusätzlicher Entleerung von Restabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
 1. 35 Liter 2. 50 Liter 3. 60 Liter 4. 80 Liter 5. 120 Liter 6. 240 Liter
 
-2,35 €, 3,20 €, 3,75 €, 4,90 €, 7,20 €, 14,05 €.
+2,55 €, 3,50 €, 4,15 €, 5,45 €, 8,00 €, 15,65 €.
 
-(5) Die Gebühr bei zusätzlicher Entsorgung von Restabfall mittels eines Abfallnormsackes mit 50 Liter Füllraum beträgt 3,35 €.
+(5) Die Gebühr bei zusätzlicher Entsorgung von Restabfall mittels eines Abfallnormsackes mit 50 Liter Füllraum beträgt 3,65 €.
 
 (6) Die Gebühren bei einmaliger zusätzlicher Entleerung von Bioabfallbehältern betragen für einen Behälter mit einem Füllraum von
 
 1. 60 Liter 2. 80 Liter 3. 120 Liter 4. 240 Liter
 
-3,75 €, 4,90 €, 7,20 €, 14,05 €.
+4,15 €, 5,45 €, 8,00 €, 15,65 €.
 
 3
 
@@ -120,15 +118,15 @@ Für weitere Abfallbehälter beträgt die Jahresgebühr bei einem Füllraum von
 
 20,00 €.
 
-(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 142,25 €/t. Die Mindestgebühr beträgt 28,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
+(9) Bei der Anlieferung von Abfällen zur Abfallbehandlungsanlage, Barkenweg 3, und zum Kompostwerk beträgt die Gebühr gemäß § 2 Abs. 4 Satz 1 Abfallgebührensatzung 162,60 €/t. Die Mindestgebühr beträgt 32,00 €. Unter den Voraussetzungen des § 2 Abs. 4 Satz 2 Abfallgebührensatzung beträgt die Gebühr bei einer Anlieferung von
 
 1. Sperrmüll
 
-27,00 €/m³
+30,90 €/m³,
 
 2. Kompostierbaren Gartenabfällen
 
-27,00 €/m³
+30,90 €/m³.
 
 Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
@@ -150,20 +148,28 @@ Bei Anlieferung von Altreifen beträgt die Gebühr pro Stück:
 
 10,00 € 20,00 €
 
-4. Baurestmassen a) bis 1,0 m³ b) über 1,0 m³ bis 2,0 m³
+4. Bauschutt und mineralischem Straßenaufbruch a) bis 1,0 m³ b) über 1,0 m³ bis 2,0 m³
+5. Baustellenabfällen a) bis 1,0 m³ b) über 1,0 m³ bis 2,0 m³
 
+8,00 € 16,00 €
 30,00 € 60,00 €
 
-5. Erdaushub a) bis 1,0 m³ b) über 1,0 m³ bis 2,0 m³
+6. Erdaushub a) bis 1,0 m³ b) über 1,0 m³ bis 2,0 m³
 
 10,00 € 20,00 €
 
-(11) Die Gebühren für die Abfuhr von Abfällen über Container setzen sich aus der gemäß Abs. 9 berechneten Entsorgungsgebühr und der Logistikgebühr zusammen. Diese beträgt:
+4 (11) Die Gebühren für die Abfuhr von Abfällen über Container setzen sich aus
+der gemäß Abs. 9 berechneten Entsorgungsgebühr und der Logistikgebühr zusammen. Diese beträgt:
 
 1. für die Lieferung, die Aufstellung bis zu 72 Stunden und die Abholung des Containers
+
+73,50 €
+
 2. für eine längere Standzeit des Containers je angefangene weitere 24 Stunden
 
-73,50 € 10,00 €
+10,00 €
 
-4
-§3 Diese Satzung tritt am 01.01.2014 in Kraft. Oldenburg (Oldb), den 25.11.2013
+§3 Diese Satzung tritt am 01.01.2015 in Kraft.
+Oldenburg (Oldb), den 24.11.2014
+
+___________________ Krogmann Oberbürgermeister
