@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-25T17:00:00+01:00
+- Ende: 2014-11-25T20:50:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8926
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8926
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228332.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228332.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228332.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 175/ - 8/2014 - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift 175/ - 9/2014 - zur Kenntnis genommen
+- TOP 4: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 5: Rhein-Ruhr-Express (RRX) - Planfeststellungsabschnitt 3.1, Bereich Angermund - zur Kenntnis genommen
+- TOP 6: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Erneuerung des Geländers an der Rheinpromenade Kaiserswerth - zur Kenntnis genommen
+- TOP 16: Grünordnungsplan 2025 - zur Kenntnis genommen
+- TOP 17: Wiederaufbau des öffentlichen Grüns nach Sturm Ela - zur Kenntnis genommen
+- TOP 18: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 19: Zuschuss an die Tennisgemeinschaft Nord am Lantz'schen Park e.V. - zur Kenntnis genommen
+- TOP 20: Aufnahme auswärtiger Kinder in städtischen Schulen - zur Kenntnis genommen
+- TOP 21: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - zur Kenntnis genommen
+- TOP 22: Straßenbeleuchtung Angeraue und Alte Gasse - zur Kenntnis genommen
+- TOP 23: B-Plan Nr. 5088/006 - Wasserwerksweg - zur Kenntnis genommen
+- TOP 24: Bebauung auf einem städtischen Grundstück in Angermund - zur Kenntnis genommen
+- TOP 25: Planung von weiteren Kanalbaumaßnahmen in Angermund - zur Kenntnis genommen
+- TOP 26: Sankt-Martin-Zug in Lohausen - zur Kenntnis genommen
+- TOP 27: Anschlussnutzung des Kö-Bogen-Pavillons als Ausstellungsraum für das Plattbodenschiff in Kaiserswert - zur Kenntnis genommen
+- TOP 28: WLAN-Ausbau im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 29: Ausstellungsort Plattbodenschiff - zur Kenntnis genommen
+- TOP 30: Instandsetzung Wanderweg Schwarzbach - zur Kenntnis genommen
+- TOP 31: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Gebäude Dritter - zur Kenntnis genommen
+- TOP 32: Stellungnahmen 25.11.2014 - zur Kenntnis genommen
+- TOP 33: Verschiedenes - zur Kenntnis genommen
