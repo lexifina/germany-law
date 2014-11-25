@@ -1,0 +1,150 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-11-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3120309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3120309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 1.1.: ?Zaun weg am KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014, vertagt aus 2014.10 A 1.2
+- TOP 1.2.: ?Trennung Basketball- und Fußballfeld neben dem KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014, vertagt aus 2014.10 A 1.3
+- TOP 1.3.: Unterstützung des Anliegens des Eine-Welt-Hauses auf Beschilderung im U-Bahnhof Theresienwiese
+- TOP 1.4.: Prüfung der Möglichkeiten zur Unterbringung von Flüchtlingen im Servicezentrum auf der Theresienwiese
+- TOP 2: Entscheidungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Haus der kleinen Künste e.V. Bergmannsstück "Zinngeschrei" vom 11. - 19.12.2014
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Geyerstr. 24/RG, Antrag auf Erteilung eines Negativattestes, Anhörung des Sozialreferates
+- TOP 3.2.: Tumblingerstr. 27, 29, Antrag auf Erteilung eines Negativattestes, Anhörung ? PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 5: Sonstiges (2)
+- TOP 5.1.: a) Temporäre Aufstellung von Dixi-Toilletten/Pissoirs am Gärtnerplatz, BA-Antrag Nr. 14-20 / B 00103, Schreiben des Baureferates, Bitte um Terminvereinbarung b) Abfallbeseitigung und Toilette am Gärtnerplatz, BA-Antrag Nr. 08-14 / B 04620, Schreiben des Baureferates, Fristverlängerung bzw. Bitte um Terminvereinbarung, vertagt aus 2014.10 A 5.1
+- TOP 5.2.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP 5.3.: Schaukästen des Bezirksausschusses, Abbau Standort Zenettistr. 42, Betreuung Ruppertstr. / Lindwurmstr.
+- TOP 5.4.: Bücherschrank, fortlaufende Themensammlung
+- TOP 5.5.: Urban Art Festival, fortlaufende Themensammlung
+- TOP 5.6.: Kinder- und Jugendeinwohnerversammlung, 20.11.2014, Jugendtreff ?Tröpferlbad?
+- TOP 5.7.: Bürgerbeteiligung ?Zukunft Viehhof?, fortlaufende Themensammlung
+- TOP 5.8.: Termin für Führung durch das Gärtnerplatztheater
+- TOP 5.9.: Jugendtreff Tröpferlbad, siehe TOP A 4.3
+- TOP 6: Berichte der Beauftragten (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Karlspl. 21, Sanierung der Fassade (1. + 7. OG / Naturstein und Fenster) und des Vordachs (EG) (Eilentscheidung)
+- TOP 3.1.2.: Ziemssenstr. 1, Errichtung einer Portalklinik für das Klinikum der Universität München, siehe auch Baumfällung TOP B 3.2.1 (Eilentscheidung)
+- TOP 3.1.3.: Bahnhofpl. 1, Nutzungsänderung von Büro- zu Hotelflächen / Erweiterung ? Vorbescheid, vertagt aus 2014.10 B 3.1.11 (Eilentscheidung)
+- TOP 3.1.4.: Lindwurmstr. 79, Anbau eines Balkons (Wohnung Nr. 11/4. OG, Hofseite)
+- TOP 3.1.5.: Geyerstr. 22, Umbau einer Wohnung mit Einbau einer Dachterrasse
+- TOP 3.1.6.: Holzstr. 11, Hofseitiger Anbau eines Außenaufzugs, Errichtung von Balkonen sowie von Dacheinschnitten als Loggia
+- TOP 3.1.7.: Klenzestr. 57b, Umnutzung eines Rückgebäudes in ein Fitnessstudio
+- TOP 3.1.8.: Goethestr. 7a, Nutzungsänderung: Vergnügungsstätte mit Videokabinen zu Vergnügungsstätte mit Bar und Table Dance
+- TOP 3.1.9.: Mittererstr. 9, Aufstockung und Umbau eines Bürogebäudes sowie Nutzungsänderung zu einem Beherbergungsbetrieb (92 Zimmer) sowie einer Gaststätte im Erdgeschoss
+- TOP 3.1.10.: Jahnstr. 31, Dachgeschoss-Erneuerung und Anbau eines Aufzugs - Tektur
+- TOP 3.1.11.: Goethestr. 74, Nutzungsänderung: Büros zu Spielhalle, Cafébar und Wohnung
+- TOP 3.1.12.: Sonnenstr. 8, Nutzungsänderung: Laden und Wettannahme zu einem Wettbüro
+- TOP 3.1.13.: Kapuzinerpl. 3, Geänderte Ausführung Erdgeschoss, Dachaufbauten
+- TOP 3.1.14.: Maistr. 31, Aufstockung eines Wohngebäudes um ein Geschoss + Dach sowie Anbau eines Aufzugs ? Vorbescheid
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Ziemssenstr. 1, Baumfällung im Zusammenhang mit Bauvorhaben zur Errichtung einer Portalklinik für das Klinikum der Universität München, siehe auch TOP B 3.1.2 (Eilentscheidung)
+- TOP 3.2.2.: Baldestr. 8, Antrag auf Baumfällungen, 1 Thuja, 1 Vogelbeere
+- TOP 3.2.3.: Häberlstr. 12, Antrag auf Baumfällung, 1 Baum
+- TOP 3.2.4.: Baaderstr. 58, Antrag auf Baumfällung, 1 Buche
+- TOP 3.2.5.: Häberlstr. 14, Antrag auf Baumfällung, 2 Bäume ? PLENUMSBESCHLUSS
+- TOP 3.2.6.: Tumblingerstr. 13, Antrag auf Baumfällung, 1 Kastanie
+- TOP 3.2.7.: Tumblingerstr. 54-56, Antrag auf Baumfällung, 1 Kastanie
+- TOP 3.2.8.: Beethovenstr. 12, Antrag auf Baumfällung, 1 Vogelkirsche ? PLENUMSBESCHLUSS
+- TOP 3.2.9.: Isartalstr. 4, Antrag auf Baumfällung, 1 Birke ? PLENUMSBESCHLUSS
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick, Anhörung des Referates für Stadtplanung und Bauordnung zur Beschlussvorlage, Sitzungsvorlage Nr. 14-20 / V 00909
+- TOP 3.3.2.: Neubau eines öffentlichen Spielplatzes an der Isartalstr. / Dreimühlenstr., Einbau einer Handpumpe als Wasserspielzeug, Schreiben des Baureferates
+- TOP 3.3.3.: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete, Antrag des Bezirksausschusses 24 Feldmoching-Hasenbergl zur Änderung der BA-Satzung, Anhörung des Direktoriums
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 5: Sonstiges (3)
+- TOP 5.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 6: Berichte der Beauftragten (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Auskunft über Lärm- und Feinstaubmessungen im Bereich der Kapuzinerstr. und Herzog-Heinrich-Str.
+- TOP 1.2.: Leerung der Glascontainer im Zuständigkeitsbereich des Bezirksausschusses 2 nach Weihnachten und vor Silvester 2014
+- TOP 1.3.: Erarbeitung eines einheitlichen Rikschakonzepts für die gesamte Landeshauptstadt
+- TOP 2: Entscheidungen (3)
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Landwehrstr. 44, ?BET 24 UG?, Aufstellung von zwei Warenauslagen für Textilien
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.1.1.: Tollwood Winterfestival, 25.11.-31.12.2014, siehe 2014.10 C 3.1.2 (Eilentscheidung)
+- TOP 3.1.2.: REWE Family Fest 2015, Theresienwiese, Anhörung zu Beschlussentwurf Nr. 14-20 / V 01766 für den Ausschuss für Arbeit und Wirtschaft am 09.12.2014
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Engstelle in der Geyerstr. (Bürgeranliegen TOP 2014.09 C 5.1), Vorschlag des Kreisverwaltungsreferats zur Ausdehnung des Halteverbots um eine Fahrzeuglänge
+- TOP 3.2.2.: Lade- und Lieferzone vor den Anwesen Müllerstr. 43 und 45, Anhörung zum Entwurf einer verkehrsrechtlichen Anordnung des Kreisverwaltungsreferates, vertagt aus 2014.10 C 3.2.2
+- TOP 3.2.3.: Verkehrssicherheit im Bereich des Kindergartens in der Ruppertstraße, Einführung von Tempo 30 und Errichtung eines Fußgängerüberwegs, Anhörung zum Entwurf einer verkehrsrechtlichen Anordnung, vertagt aus 2014.10 C 3.2.3
+- TOP 3.3: Sonstiges (4)
+- TOP 3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 5: Sonstiges (5)
+- TOP 5.1.: Weitere Vorgehensweise wegen Missachtung der Anhörungsfristen bei Veranstaltungen, siehe 2014.10 C 3.3.1, C 3.3.2
+- TOP 5.2.: Bürgeranliegen: Abgestellte Fahrräder und Motorräder sowie Behinderungen durch parkende Autos in der Thalkirchner Str.
+- TOP 5.3.: Lärmbereich Müllerstr.
+- TOP 5.4.: Parkplatz im Viehhof-Gelände in der Wiesnzeit, siehe TOP C 4.15
+- TOP 5.5.: Anfrage Bearbeitungsstand BA-Antrag Nr. 14-20 / B 00110 vom 26.06.2014
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Anpassung der Aufwandsentschädigungen, Anhörung des Direktoriums zu einer beantragten Änderung der Bezirksausschusssatzung, Antrag Nr. 14-20 / A 00342 vom 21.10.2014
+- TOP 2: Termine
+- TOP 2.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 08.12.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 09.12.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 10.12.2014 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung im Dezember entfällt. Die BA-Sitzung findet am Dienstag, den 16.12.2014 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 3: Veranstaltungen (2)
+- TOP 4: Unterrichtungen (siehe Beiblatt) (4)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: BA-Budget: Bescheide
+- TOP 0.2.: BA-Budget: Verwendungsnachweise, Sachberichte (Plant-for-the-Planet Akademie, Offene Ateliers 2014, Elternbeirat Grundschule Schwanthalerstr., Sommerfest Teestube ?Komm?, Der Junge mit dem Koffer, 20 Jahre Isarkiesel e.V., Capoeira Gerais, 50-jähriges Jubiläum EFL, VIDK e.V. ?Alexanders Feast?)
+- TOP 0.3.: Jugendtreff Tröpferlbad; Freizeitlige Isarvorstadt e.V., BA-Antrag Nr. 08-14 / B 00030 vom 29.04.2008, Antwortschreiben des Sozialreferates
+- TOP 0.4.: Mieterbeirat, Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. u. 7. Stadtbezirkes, Beschlussvorlage Nr. 14-20 / V 00915 der Vollversammlung am 01.10.2014
+- TOP 0.5.: Kälteschutzprogramm der Landeshauptstadt München, Evaluation der Kälteperiode 2013/2014, Einrichtung und Betrieb eines Kälteschutzraums für die Kälteperiode 2014/2015, Beschlussvorlage Nr. 14-20 / V 01215 der Vollversammlung vom 22.10.2014
+- TOP 0.6.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger?, - der Zentrale, Sitzungsvorlage Nr. 14-20 / V 01336 - des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 01334 - des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 01349 - des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 01362
+- TOP 0.7.: Zuwendung für Kirchenkonzert ?Überirdisch?, MaXChor der Pfarrkirche St. Maximilian, Zurückziehung des Budget-Antrages
+- TOP 0.1.: Baumaßnahmen der Stadtwerke München
+- TOP 0.2.: Kapuzinerstr./Thalkirchner Str., Versetzung einer genehmigten City-Light-Säule für wechselnde Produktwerbung, Entscheidung des Oberbürgermeisters, siehe 2014.06 B 3.1.9
+- TOP 0.3.: Anhörungsrecht zu Bauvorhaben Karlspl. 25, Neubau Hotel Königshof, Antrag des BA 1 Altstadt-Lehel zur Kenntnis
+- TOP 0.4.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen, Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013, Schreiben des Baureferates
+- TOP 0.5.: Standorte für Wertstoffcontainer als Unterflurcontainer im 2. Stadtbezirk, BA-Antrag Nr. 14-20 / B 00399 vom 30.09.2014, Antwortschreiben des Abfallwirtschaftsbetriebes
+- TOP 0.6.: Ehrenpreis für guten Wohnungsbau, Sitzungsvorlage Nr. 14-20 / V 01223 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.7.: Mehrjahresinvestitionsprogramm für die Jahre 2018, Sitzungsvorlage Nr. 14-20 / V 01361 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.8.: Internationale Fachkonferenz ?Walk21? in München 2013, Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität, Sitzungsvorlage Nr. 14-20 / V 01713 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.9.: Mehrjahresinvestitionsprogramm für die Jahre 2018, Reihenfolge großer Siedlungsmaßnahmen, Sitzungsvorlage Nr. 14-20 / V 01656 für den Ausschuss für Stadtplanung und Bauordnung am 12.11.2014
+- TOP 0.10.: Bauvorhaben Mittererstr. 9, Abdruck des Vorbescheids der Lokalbaukommission
+- TOP 0.11.: St.-Pauls-Pl. 11, Information über nicht genehmigungspflichtige Baumfällung
+- TOP 0.12.: Schrotträder rund um den Gärtnerplatz entfernen, BA-Antrag Nr. 14-20 / B 00106 vom 24.06.2014, weiteres Schreiben des Baureferates
+- TOP 0.13.: Corneliusstr. 15, Abdruck der Fällgenehmigung
+- TOP 0.1.: Versammlungen unter freiem Himmel
+- TOP 0.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 0.3.: Unveränderte Gaststättenfortführungen
+- TOP 0.4.: Verkehrsrechtliche Anordnungen: - Taxistandplatz Sonnenstr. 12, Verlegung
+- TOP 0.5.: Erlaubnisbescheide
+- TOP 0.6.: Initiative zur Erhöhung des Flaschenpfandes, BV-Empfehlung Nr. 08-14 / E 02063 vom 07.11.2013, Beschluss des Kommunalausschusses vom 25.09.2014
+- TOP 0.7.: Nächtliche Sperre der Landsberger Str. auf Höhe der Augustiner Brauerei
+- TOP 0.8.: Klenzestr. 50, Bürgerbeschwerde wegen regelmäßiger Lagerung von Rollwägen auf öffentlichem Verkehrsgrund, Antwortschreiben der Bezirksinspektion, siehe 2014.09 II 5
+- TOP 0.9.: Autofahrten durch Wohngebiete zur Ampelvermeidung, Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranliegen, siehe 2014.09 C 5.4
+- TOP 0.10.: Ausbau (Verbreiterung) des Isarradweges, BA-Antrag Nr. 14-20 / B 00105 vom 24.06.2014, Antwortschreiben des Baureferates
+- TOP 0.11.: Installation von Fahrradparkern im Dreimühlen- und Glockenbachviertel, BA-Antrag Nr. 14-20 / B 00252 v. 29.07.2014, Antwortschreiben des Baureferates, siehe 2014.10 C 4.8
+- TOP 0.12.: Fahrradstraße Stielerstr., Einbahnregelung prüfen, Antwort des Kreisverwaltungsreferates und Schriftverkehr zu Bürgeranliegen
+- TOP 0.13.: Falschparker in der Schubertstr., Schreiben der Polizeiinspektion bezügl. Bürgeranliegen
+- TOP 0.14.: Lärmbelästigung durch Gaststätten, Antwortschreiben der Bezirksinspektion auf Schreiben des Bezirksausschusses, siehe TOP 2014.10 C 5.2
+- TOP 0.15.: Großparkplatz auf dem Gelände der ehemaligen Großviehhalle während des Oktoberfestes, Antwortschreiben des Kommunalreferates, Markthallen München auf Anfrage des Bezirksausschusses, siehe TOP 2014.10 C 5.4
+- TOP 0.16.: Teilweise Ausstattung mehrerer Mülleimer am Bahnhofsplatz mit einem Pfandring, BA-Antrag Nr. 14-20 / B 00397 vom 30.09.2014, Antwortschreiben des Baureferates
+- TOP 0.17.: Hackerbrücke, Behinderung durch Litfaßsäulen, Antwortschreiben des Kreisverwaltungsreferates auf Bürgeranliegen, siehe 2014.09 C 5.2
+- TOP 0.18.: Absolutes Haltverbot in der Rechtsabbiegespur der Lindwurmstraße zur Poccistraße, Eilentscheidung des Vorsitzenden, siehe auch 2014.09 C 4.4
+- TOP 0.1.: Entwurf des Mehrjahresinvestitionsprogramm für die Jahre 2014-2018, Beschlussvorlage Nr. 14-20 / V 01423 für die Vollversammlung des Stadtrates am 22.10.2014
