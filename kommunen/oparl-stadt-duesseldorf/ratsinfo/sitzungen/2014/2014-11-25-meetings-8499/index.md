@@ -1,0 +1,57 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-25T16:00:00+01:00
+- Ende: 2014-11-25T18:38:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8499
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8499
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228326.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228326.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228326.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Bebauungsplan-Vorentwurf Nr. 02/007 -Grashofstraße/ Mercedesstraße- - zur Kenntnis genommen
+- TOP 5: B-Plan Nr. 02/004 -Tyssen-Trade-Center- - zur Kenntnis genommen
+- TOP 6: Zulaufstrecke U71 - Barrierefreier Ausbau der Haltestelle Heinrichstraße - zur Kenntnis genommen
+- TOP 7: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - zur Kenntnis genommen
+- TOP 8: Aufnahme auswärtiger Kinder in städtischen Schulen - zur Kenntnis genommen
+- TOP 9: Fehlende Einzelhandelsketten auf der Birkenstraße - zur Kenntnis genommen
+- TOP 10: Grundstück Tiergartenstraße 25 - zur Kenntnis genommen
+- TOP 11: Verkehrssicherheit Dorotheenstraße - zur Kenntnis genommen
+- TOP 12: Zuwendung Frauenberatungsstelle - zur Kenntnis genommen
+- TOP 13: Förderung der Sprach- und Kulturmittlung in der Krisenberatung - zur Kenntnis genommen
+- TOP 14: Mittel für die Frauenberatungsstelle - zur Kenntnis genommen
+- TOP 15: Bezirksbezogene Haushaltsmittel - Stadtteilfrühstück Diakonie - zur Kenntnis genommen
+- TOP 16: Zuwendung Diakonie für Sprachvermittlung - zur Kenntnis genommen
+- TOP 17: Übertragung der bezirksbezogenen Bauunterhaltsmittel - zur Kenntnis genommen
+- TOP 18: Übertragung der bezirksbezogenen Haushaltsmittel - zur Kenntnis genommen
+- TOP 19: Beseitigung der Sturmschäden - Orkan Ela 1 - zur Kenntnis genommen
+- TOP 20: Beseitigung der Sturmschäden - Orkan Ela 2 - zur Kenntnis genommen
+- TOP 21: Übertragung von Haushaltsmitteln - zur Kenntnis genommen
+- TOP 22: Eigenständiger Haushaltsentwurf für die Bezirksvertretungen - zur Kenntnis genommen
+- TOP 23: Dürchgangsverkehr in Flingern-Süd - zur Kenntnis genommen
+- TOP 24: Bericht der Mahn- und Gedenkstätte über das KZ-Außenlager "Berta" - zur Kenntnis genommen
+- TOP 25: Fragestunde für Einwohner/innen des Stadtbezirks 2 zu bezirksbezogenen Themen - zur Kenntnis genommen
+- TOP 26: DHL-Verteilzentrum in Flingern - zur Kenntnis genommen
+- TOP 27: Baumaßnahmen am Mörsenbroicher Ei - zur Kenntnis genommen
+- TOP 28: Sachstand Ortsumgehung Oberbilk - zur Kenntnis genommen
+- TOP 29: Zur Entwicklung des Wohnungsmarktes im Stadtbezirk - zur Kenntnis genommen
+- TOP 30: Hundeauslaufplatz am Schillerplatz - zur Kenntnis genommen
+- TOP 31: Situation der Fußgänger*innen bei Querung der Graf-Recke-Str. - zur Kenntnis genommen
+- TOP 32: Bebauung Max-Planck-Straße - zur Kenntnis genommen
+- TOP 33: Haltestelle Uhlandstraße - zur Kenntnis genommen
+- TOP 34: Zustand von Kanaldeckeln - zur Kenntnis genommen
+- TOP 35: Gehweg zwischen Eisstadion u. Grunerstraße - zur Kenntnis genommen
+- TOP 36: Kreuzung Karl-Müller-Straße / Hans-Sachs-Straße - zur Kenntnis genommen
+- TOP 37: Optimierung der Zu-/Abfahrt zur Toulouser Allee - zur Kenntnis genommen
+- TOP 38: Sachstandsbericht Haltestelle Dorotheenstraße - zur Kenntnis genommen
+- TOP 39: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 40: Vorlage des Luftmessberichts 2013 - zur Kenntnis genommen
