@@ -1,0 +1,7 @@
+# TOP 6: Parcourstrecke im Bezirk 10
+
+- Sitzung: Bezirksvertretung 10 (2014-11-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/192883
+- Ergebnis: zur Kenntnis genommen
