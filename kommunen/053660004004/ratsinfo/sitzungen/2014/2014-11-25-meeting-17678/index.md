@@ -1,0 +1,55 @@
+# Stadtentwicklungsausschuss (2. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-11-25T18:00:00+01:00
+- Ende: 2014-11-25T20:40:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYTV4kZOEvWHRAKFTIEYCDo
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/17678
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbe0a3AOlczxMbShJQYWzm3hd6MN156PsKMq7CowPaom/Bekanntmachung_Stadtentwicklungsausschuss_25.11.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZdKbGF3OfQ20FbakG0GpkbR2UqzyZRB6s170j9QolVK/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_25.11.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 16.09.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Anbindung an den Frühzug durch zusätzliche TaxiBus-Fahrten; hier: Antrag der SPD-Fraktion vom 26.09.2014 - Einstimmiger Beschluss:
+- TOP -: Anbindung an den Frühzug durch zusätzliche TaxiBus-Fahrten; hier: Antrag der SPD-Fraktion vom 26.09.2014 - Beschluss
+- TOP 4.: Antrag zur Verbesserung der Verkehrssicherheit Bahnstrecke 2634 RB 23 Euskirchen - Bad Münstereifel; Schrankenanlage am BÜ (km 10,6) Iversheim hier: Antrag der CDU-Fraktion vom 08.07.2014 - Einstimmiger Beschluss:
+- TOP 5.: Erneuerungsbedarf Hinweisbeschilderung Wanderparkplätze; hier: Antrag der SPD-Fraktion vom 03.11.2014 - Einstimmiger Beschluss:
+- TOP 6.: Vorfahrtsreglung Houverath/Verkehrsberuhigung Limbach hier: Antrag der UWV-Fraktion vom 28.08.2014 - Einstimmiger Beschluss:
+- TOP 7.: Verbesserungsmaßnahmen in der Ortsdurchfahrt Scheuren; hier: Antrag der SPD-Fraktion vom 03.11.2014 - Einstimmiger Beschluss:
+- TOP 8.: Verbesserungsmaßnahmen in der Ortsdurchfahrt Scheuren hier: Antrag der SPD-Fraktion vom 03.11.2014 - Einstimmiger Beschluss:
+- TOP 9.: CDU-Antrag zur Namensgebung für den Kreisverkehrsplatz 'Wasserscheide' - Beschluss
+- TOP -: CDU-Antrag zur Namensgebung für den Kreisverkehrsplatz 'Wasserscheide' - Bei 9-Ja-Stimmen und 6 Enthaltungen wird der nachfolgend Beschluss gefasst:
+- TOP 10.: Antrag der SPD-Fraktion zur Erweiterung der Fachhochschule - Einstimmiger Beschluss:
+- TOP -: Antrag der SPD-Fraktion zur Erweiterung der Fachhochschule - Beschluss
+- TOP 11.: Dienstagswochenmarkt; hier: Antrag der UWV-Fraktion vom 12.121.2014 - Beschluss
+- TOP -: Dienstagswochenmarkt; hier: Antrag der UWV-Fraktion vom 12.121.2014 - Einstimmiger Beschluss:
+- TOP 12.: Fußläufiger Übergang Bonner Straße zur Hardtburgstraße; hier: Antrag der SPD-Fraktion vom 08.09.2014 - Einstimmiger Beschluss:
+- TOP 13.: Anstehender Verkauf der Kurt-Schumacher-Akademie hier: Anträge von SPD, UWV und Bündnis 90/ Die Grünen - Einstimmiger Beschluss:
+- TOP 14.: Kirspenich, Hardtburgstraße hier: Ergänzung des Bebauungskonzepts - Einstimmiger Beschluss:
+- TOP 15.: 27. Änderung des Flächennutzungsplanes für die Ortslage Kalkar - Wohnbaufläche Romulusstraße hier: Abwägungsbeschlüsse, abschließender Beschluss - Einstimmiger Empfehlungsbeschluss:
+- TOP 16.: Aufhebung des Bebauungsplanes Nr. 59 "Kalkar-Friedhof" hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 17.: 4. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Beschluss bei 4 Gegenstimmen und 1 Enthaltung:
+- TOP -: 4. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Beschluss
+- TOP 18.: Berichterstattung zum City Outlet Bad Münstereifel hier: Jour-fixe - Einstimmiger Beschluss:
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.3: Burg Bad Münstereifel hier: verschiedene Bau- und Gestaltungsmaßnahmen - Einstimmiger Beschluss:
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: Anfragen und Mitteilungen: hier: Antrag der UWV-Fraktion vom 28.08.2014 zur Ortsdurchfahrt L 165 Esch - Die Ausführungen werden zur Kenntnis genommen.
+- TOP 20.2: Radweg B 51 zwischen Bad Münstereifel und Iversheim hier: Anfrage der UWV-Fraktion vom 12.11.2014 - Die Ausführungen werden zur Kenntnis genommen.
+- TOP -: Radweg B 51 zwischen Bad Münstereifel und Iversheim hier: Anfrage der UWV-Fraktion vom 12.11.2014 - Beschluss
+- TOP 20.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.6: Anfragen und Mitteilungen: Bürgerantrag gem. § 24 Gemeindeordnung NRW (GO NRW) hier: Brücke über die Erft in Bad Münstereifel im Bereich ALDI/St.-Angela-Gymnasium - Mitteilung des Prüfungsergebnisses der Verkehrsschau - Die Ausführungen werden zur Kenntnis genommen.
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Kauf eines Grundstücks in Bad Münstereifel, Kölner Straße - Einstimmiger Empfehlungsbeschluss
+- TOP 2.: Anfragen und Mitteilungen
