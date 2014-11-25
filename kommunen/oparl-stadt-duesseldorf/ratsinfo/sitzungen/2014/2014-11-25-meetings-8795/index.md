@@ -1,0 +1,55 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-25T16:00:00+01:00
+- Ende: 2014-11-25T19:18:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8795
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8795
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228225.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228225.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228225.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: Grünordnungsplan 2025 - zur Kenntnis genommen
+- TOP 6: Parcourstrecke im Bezirk 10 - zur Kenntnis genommen
+- TOP 7: Aufnahme auswärtiger Kinder in städtischen Schulen - einstimmig beschlossen
+- TOP 8: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 9: Verwendung von Vereinsvermögen nach Vereinsauflösung - einstimmig beschlossen
+- TOP 10: Sitzungsbeginn der BV 10 ab dem Jahr 2015 - mehrheitlich beschlossen
+- TOP 11: Verfügungsmittel 2014 - zur Kenntnis genommen
+- TOP 12: Bauunterhaltungsmittel 2014 – neue Projekte - mehrheitlich beschlossen
+- TOP 13: Übertragung der Bauunterhaltungsmittel 2014 und Vorjahre - einstimmig beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - zurückgezogen
+- TOP 15: Baumaßnahmen Garath Nord/West - zur Kenntnis genommen
+- TOP 16: Anfragen - zur Kenntnis genommen
+- TOP 17: Befestigung des Reitweges in Hellerhof - zur Kenntnis genommen
+- TOP 18: Salafisten - zur Kenntnis genommen
+- TOP 19: Rechte Gewalt im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 20: Flugbewegungen und Fluglärm - zur Kenntnis genommen
+- TOP 21: Einsatz eines Jugendsozialarbeiters - zur Kenntnis genommen
+- TOP 22: Anträge - zur Kenntnis genommen
+- TOP 23: Eigenständiger Haushaltsentwurf der Bezirksvertretungen - mehrheitlich beschlossen
+- TOP 24: Beschlusskontrolle für Bezirksvertretungen - einstimmig beschlossen
+- TOP 25: Stolperfallen Fuß- und Radweg - einstimmig beschlossen
+- TOP 26: Instandsetzung von Straßenlaternen und Beleuchtung - einstimmig beschlossen
+- TOP 27: Zufahrtsweg für Rettung und Feuerwehr im Hauptzentrum - einstimmig beschlossen
+- TOP 28: Faltpläne - einstimmig beschlossen
+- TOP 29: Geschwindigkeitsbegrenzung auf den Ringstraßen im Stadtbezirk - einstimmig beschlossen
+- TOP 30: Brachgelände Koblenzer Str. - einstimmig beschlossen
+- TOP 31: Einrichtung einer Aufladestation für E-Bikes - einstimmig beschlossen
+- TOP 32: Anbindung des Stadtbezirks an die Universität - einstimmig beschlossen
+- TOP 33: Mehr Abfallbehälter im Stadtbezirk 10 - mehrheitlich beschlossen
+- TOP 34: Bänke bzw. Sitzgelegenheiten im Stadtbezirk 10 - zurückgezogen
+- TOP 35: Zuschüsse aus den Verfügungsmitteln der BV 10 - einstimmig beschlossen
+- TOP 36: Fragestunde für Einwohner und Einwohnerinnen des Stadtbezirks 10 - mehrheitlich abgelehnt
+- TOP 37: Informationsvorlagen - zur Kenntnis genommen
+- TOP 38: Verschiedene Stellungnahmen 08/2014 - zur Kenntnis genommen
