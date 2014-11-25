@@ -1,0 +1,74 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-25T17:00:00+01:00
+- Ende: 2014-11-25T21:09:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8807
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8807
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228024.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228024.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228024.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift öffentlich und nichtöffentlich vom 21.10.2014 - einstimmig beschlossen
+- TOP 2.1: Rederecht Vertreter des Beirates für Menschen mit Behinderung - einstimmig beschlossen
+- TOP 3: Ergebnisse des Forschungsprojektes "Soziale Ressourcen für altersgerechte Quartiere" (SORAQ) - zur Kenntnis genommen
+- TOP 4: Taktiler Stadtplan für blinde und sehbehinderte Menschen - Vorstellung des Stadtteilplans Gerresheim - zur Kenntnis genommen
+- TOP 5: Schäden durch den Sturm Ela - zurückgezogen
+- TOP 6: Auswirkungen des Sturmes Ela und Ersatzpflanzungen zur Behebung der Schäden - zurückgezogen
+- TOP 7: Totholz im Ostpark, in weiteren Grünanlagen und im Wald im Einzugsgebiet der BV 7 - zurückgezogen
+- TOP 8: Hundeauslaufplatz Ostpark - zur Kenntnis genommen
+- TOP 9: Sachstandsbericht zum Sturm Ela im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 9.1: Bau- und Finanzierungsbeschluss zum Umbau des Kinderspielplatzes An der Leimkuhle - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 12: Aufnahme auswärtiger Kinder in städtischen Schulen - mehrheitlich beschlossen
+- TOP 13: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - mehrheitlich beschlossen
+- TOP 14: Gerricusplatz, ehem. Pfarrkirche; Austausch und Neuverlegung von Bodenplatten - einstimmig beschlossen
+- TOP 15: Zuschuss an den DJK Sportfreunde Gerresheim 1923 e. V. - einstimmig beschlossen
+- TOP 16: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 17: Hochwasserschutzmaßnahme im Bereich nördliche Düssel, zw. Grafenberger Allee und Brücke Sulzbachstr. - einstimmig beschlossen
+- TOP 18: Verbesserung des Hochwasserschutzes im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 19: Gut Mydlinghoven, Hubbelrath - einstimmig beschlossen
+- TOP 19.1: Ampelschaltung Grafenberger Allee 413 - einstimmig beschlossen
+- TOP 20: Aufwertung Düsselbrücke an der Dreherstraße - einstimmig beschlossen
+- TOP 21: Düsselbrücke an der Dreherstraße - einstimmig beschlossen
+- TOP 22: Bericht Rechts- und Linksextremismus im Bezirk 7 - mehrheitlich beschlossen
+- TOP 23: Erneuerung Matschweg Diepenstraße - mehrheitlich beschlossen
+- TOP 24: Überbelastung Glashüttenstraße - Bau der Ortsumgehung - mehrheitlich abgelehnt
+- TOP 25: Überbelastung Glashüttenstraße - Messung, Zählung - einstimmig beschlossen
+- TOP 26: Bauverkehr auf der Glashüttenstraße - einstimmig beschlossen
+- TOP 27: Querungshilfe/Zebrastreifen an der Torfbruchstraße - einstimmig beschlossen
+- TOP 28: Bebauung Grundstück Dreherstr. / Magdeburger Str. - mehrheitlich abgelehnt
+- TOP 29: Erhalt der Kartonage-Halle im zukünftigen Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 30: Bushaltestelle Neuenhaus - Planungsrecht - einstimmig beschlossen
+- TOP 31: Parken auf dem Gehweg im Bereich der Torfbruchstraße zwischen Sulzbachstraße und Dreherstraße - zurückgezogen
+- TOP 32: L404n zweispurig und über die Glashüttenstraße - vertagt
+- TOP 33: Schulstandort Diepenstraße 24 - zur Kenntnis genommen
+- TOP 34: Sportanlage im Stadtbezirk / Sportzentrum Gerresheim - zur Kenntnis genommen
+- TOP 35: Städtischer Teil Glashüttengelände - zur Kenntnis genommen
+- TOP 36: Baulücken im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 37: Kooperation von Sportvereinen und Schulen/Kitas/Jugendeinrichtungen im Stadtbezirk 7 - vertagt
+- TOP 38: Frischluftschneise Düsselaue /Ortsumgehung L404n - vertagt
+- TOP 39: Senden der Haltestelleninformationen - vertagt
+- TOP 40: Unterschriftenaktion rund um den Apostelplatz - zur Kenntnis genommen
+- TOP 41: Schulmensa Gymnasium Gerresheim - zur Kenntnis genommen
+- TOP 42: Management der Baustelle Benderstraße (Parken auf Schulhöfe), Neugestaltung der Benderstraße: Parken - zur Kenntnis genommen
+- TOP 43: Radweg Grafenberger Wald - zur Kenntnis genommen
+- TOP 44: Fuß-/Radweg Erkrather Landstraße, Ostseite - zur Kenntnis genommen
+- TOP 45: Wesentliche städtebauliche Gesichtspunkte bei Bauvorhaben - zur Kenntnis genommen
+- TOP 46: Radfahren in Gegenrichtung von Einbahnstraßen - zur Kenntnis genommen
+- TOP 47: Verfassungswidrigkeit der CO-Pipeline der Bayer AG - zur Kenntnis genommen
+- TOP 48: Verbindungsweg von der Nymphenburgstraße zur Sichelstraße - zur Kenntnis genommen
+- TOP 49: Bericht über die aktuelle Situation der Flüchtlinge im Bezirk 7 - zur Kenntnis genommen
+- TOP 50: Litfaßsäule und Umlaufschranke "Bergische Landstraße"/Ecke "Am Wildpark" - zur Kenntnis genommen
+- TOP 51: Kennzeichnung Radweg Dreherstraße (stadteinwärts) - zur Kenntnis genommen
+- TOP 52: S-Bahnhof Gerresheim - temporäre Ausstattung zur bürgerfreundlicheren Nutzung - Beschriftung - zur Kenntnis genommen
+- TOP 53: S-Bahnhof Gerresheim - temporäre Ausstattung zur bürgerfreundlicheren Nutzung - Aufstiegshilfen - zur Kenntnis genommen
+- TOP 54: Ergebnisse der Haushaltsberatungen 2015 - zur Kenntnis genommen
