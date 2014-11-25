@@ -1,0 +1,64 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-11-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218508
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218508
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Permoserplatz: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Heinrich-Wieland-Straße 43 - 45 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.2.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick - Anhörung zu Vorlagen Nr. 14-20 / V 00909
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen - Antrag Nr. 08-14 / A 04305
+- TOP 3.1.: Ampelabschaltung St.-Veit-Straße / Hansjakobstraße
+- TOP 3.2.: Temporäre Verlegung der Bushaltestelle der Linie 213 vom Ostbahnhof an die Friedenstraße
+- TOP 3.3.: Ideeller Christkindlmarkt des Bürgerkreis Berg am Laim e.V. am 07.12.2014 am Grünen Markt
+- TOP 3.1.: Änderung der Bezirksausschuss-Satzung - hier: Anpassung der Aufwandsentschädigungen - Anhörung zu Antrag Nr. 14-20 / A 00342
+- TOP 3.1.: Truderinger Straße 215
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Mehrjahresinvestitionsprogramm 2014 ? 2018 - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 - 2018 - Vorlagen-Nr. 14-20 / V 01656
+- TOP 4.3.: Mehrjahresinvestitionsprogramm für die Jahre 2014 ? 2018 - Stellungnahmen zu den Anträgen der Bezirksausschüsse - Vorlagen-Nr. 14-20 / V 01361
+- TOP 4.4.: Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich), Bahnlinie München-Rosenheim (südlich) im 14. Stadtbezirk Berg am Laim 1. Innere Erschließung - Neubau der Erschließungsstraße U-1695 und der festgesetzten Dienstbarkeitsflächen 2. Umbau des Knotens Baumkirchner Straße / Truderinger Straße - Bedarfs- und Konzeptgenehmigung Vorlagen-Nr. 14-20 / V 01083
+- TOP 4.1.: Ehrenpreis für guten Wohnungsbau - Zustimmung zur Durchführung 2015 - Vorlagen-Nr. 14-20 / V 01223
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Krautgarten an der St.-Michael-Straße
+- TOP 4.1.: Tram-Neubaustrecke Steinhausen und Verbesserung des anliegenden Straßenraums Trassierungsbeschluss Finanzierung für die öffentlichen Verkehrsflächen 1. Genehmigung des Projektkostenanteiles des Baureferates 2. Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2014 - 2018 Vorlagen-Nr. 14-20 / V 01510
+- TOP 4.2.: Internationale Fachkonferenz "Walk21" in München 2013 Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität Vorlagen-Nr. 14-20 / V 01713
+- TOP 4.3.: Friedenstr. 10 - Unveränderte Fortführung des Gaststättenbetriebs "Storchenburg"
+- TOP 4.1.: Kurzberichte / Verwendungsnachweise: Spielen in der Stadt, ESV München Ost, Alzheimer-Gesellschaft München.
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Bau, Wohnen, Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.4: Unterausschuss Soziales / Integration
+- TOP 5.1.4.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.4.5.2.: Ankündigungen
+- TOP 5.1.4.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
