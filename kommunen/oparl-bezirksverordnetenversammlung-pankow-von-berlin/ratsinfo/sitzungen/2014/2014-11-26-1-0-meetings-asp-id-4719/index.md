@@ -1,0 +1,89 @@
+# 27. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2014-11-26T17:30:00+01:00
+- Ende: 2014-11-26T21:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4719
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4719
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=64183
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Neufassung § 1, Abs. 3 der Geschäftsordnung der BVV - überwiesen
+- TOP 1.9: Nachberufung eines beratenden Mitgliedes für den Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Ansprechpartner für Modernisierungsvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Planverfahren für den Thälmannpark unter Denkmalschutzbedingungen und den Rückkauf der ehemaligen Bahnflächen - in der BVV abgelehnt
+- TOP 1.12: Tempo 30 auf der gesamten Dietzgenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bürgerfreundliche Verwaltung – Besuch des Bürgeramtes ohne Terminvereinbarung wieder ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Fußgängerquerung an der Straßenbahnhaltestelle Pankower Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ampelphasen für Fußgänger auf der Prenzlauer Allee verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Mehr Respekt und Wertschätzung für ParkraumüberwacherInnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Schulwegsicherung Elisabeth-Shaw-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Personalabbau stoppen, Personalentwicklung starten - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Mobilitätsstudie des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Erhöhung der Verkehrssicherheit in der Karower Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Erhaltung der Felder der Elisabethaue - keine Bebauung - zurückgezogen
+- TOP 1.21.1: Die Elisabethaue - Kein Ad-hoc-Verfahren! Prüfung einer nachhaltigen Entwicklungsperspektive - überwiesen
+- TOP 1.21.2: Ein neuer Stadtteil für Alle durch bezahlbare Mieten, gute soziale Infrastruktur, leistungsstarke ÖPNV-Anbindung, hohen Grünanteil und eine bunte Nutzungsmischung - überwiesen
+- TOP 1.21.3: Erhaltung der Felder der Elisabethaue – keine Bebauung - überwiesen
+- TOP 1.22: TTIP, CETA und TiSA ablehnen - überwiesen
+- TOP 1.23: Kostenübernahme für internationales ALBA Basketballturnier - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Neubau der Verbindungsstraße zur B2 verträglich gestalten - überwiesen
+- TOP 1.24.1: Planungen zum Neubau der Verbindungsstraße zur B2 abbrechen - überwiesen
+- TOP 1.25: Praktizierte Diskriminierung abschaffen - überwiesen
+- TOP 1.26: Prävention gegen häusliche Gewalt – Angebote für Kinder und Jugendliche - beantwortet
+- TOP 1.27: Ausbildung Erziehungsfachkräfte - überwiesen
+- TOP 1.28: Anpassung der Personalausstattung im Bereich "Integrationsbeauftragte/r für den Bezirk" an gewachsenes Aufgabenspektrum - überwiesen
+- TOP 1.29: Zukunft der Jugendverkehrsschulen - überwiesen
+- TOP 1.30: Unerwünschte Fehlsteuerung bei Begutachtungen in der beruflichen Rehabilitation verhindern - überwiesen
+- TOP 1.31: Fahrradstellplätze vor der Sozialberatungsstelle Dänenstraße 19 - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Neues Berliner Gesetz für Standortgemeinschaften in die Praxis umsetzen - überwiesen
+- TOP 1.33: Informationspolitik zur Unterbringung von geflüchteten Menschen in Berlin Buch ausbauen - überwiesen
+- TOP 1.34: Modellbaukasten Taktiles und visuelles Blindenleitsystem im öffentlichen Verkehrsraum - überwiesen
+- TOP 1.35: Kindeswohlgefährdungen erkennen, beurteilen und einschätzen können - überwiesen
+- TOP 1.36: Pankow bewegt - Bedarfe Pankower Sportvereine beachten - überwiesen
+- TOP 1.37: Unterstützung für Lichterkette und Schweigeminute am 70. Jahrestag der Befreiung von Auschwitz - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Lebensqualität in einstiger Bürostadt - überwiesen
+- TOP 1.39: Statement »REFUGEES WELCOME« auf Startseite des BA-Internetauftritts präsentieren - überwiesen
+- TOP 1.40: Grüne Stadt: Nachhaltige Sicherung der sozialverträglichen Sanierungsergebnisse - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Bedeutung der "Filmstadt Weißensee" endlich angemessen würdigen! - vertagt
+- TOP 2.4: Berliner Bär auch an der Pankower Einfahrt nach Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Fußgänger am Knoten Berliner Allee-Rennbahnstraße-Bernkasteler Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Japanische Kirschbäume als Naturdenkmale ausweisen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Öffnungszeiten der Bürgerämter Pankows bürgerfreundlicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Pankow soll Fairtrade Town werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Kommentierung des Thälmann-Denkmals - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Ausstellung " Diktatur und Demokratie im Zeitalter der Extreme. Streiflichter auf die Geschichte Europas im 20. Jahrhundert " - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: An das Zwangsarbeiterlager Lunapark erinnern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Thomas-Mann-Schwimmhalle weitersanieren! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Stauraumkanal im Mauerpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Clearingstelle im JobCenter Pankow als ersten Schritt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Perspektive für junge, erwachsene Flüchtlinge - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Car-Sharing-Stellplätze besser gegen Fremdparken schützen (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Temporäre Maßnahmen zur Verbesserung der Verkehrssicherheit in der Buchholzer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Buchholzer Straße aus dem übergeordneten Verkehrsnetz herausnehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Nutzung des Bereichs Hobrechtsfelder Chaussee / Pölnitzweg als Umgehungsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bürgersteig von der Straße "Am Sandhaus" bis zur "Schlossparkpassage" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Gymnasiale Oberstufe für die Wilhelm-von-Humboldt Gemeinschaftsschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Ombudsstelle beim Jobcenter Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Kulturelles Angebot in Wilhelmsruh sichern und ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Sichtbeziehungen am Fußgängerüberweg in der Pankgrafenstraße und der Bahnhofstraße verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Förderprogramm Städtebaulicher Denkmalschutz Humannplatz und Ostseestraße – Vorschlagsliste für die Programmplanung 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Förderprogramm Stadtumbau Ost - Ortsteil Buch und Prenzlauer Berg - Vorschlagsliste für die Programmplanung 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Ergebnisse des „Integrierten Entwicklungskonzepts für das Gebiet Thälmannpark“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennung von 9 Privatwegen in der Anlage Idehorst im Ortsteil Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
