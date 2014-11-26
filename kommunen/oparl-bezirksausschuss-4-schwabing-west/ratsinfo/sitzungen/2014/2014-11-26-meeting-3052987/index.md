@@ -1,0 +1,79 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-11-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3052987
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3052987
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Bürger: Toiletten in öffentlichen Gebäuden und Einrichtungen für Senioren zugänglich machen
+- TOP 1.2.: Grüne: Verlässliche Finanzierung der Nachbarschaftshilfe Ackermannbogen
+- TOP 1.3.: Antrag: Klinikum Schwabing (im BA-Vorstand besprochen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Hohenzollernstr. 43 ?Profil?: Aufstellung von drei zusätzlichen Warenstellagen
+- TOP 2.1.2.: Hohenzollernstr. 88 ?Vitalia?: Aufstellung von zwei neuen Verkaufseinrichtungen
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 1.1.: Bürgerin: Lärmbelästigung durch eine Baustelle an der Adams-Lehmann-Straße
+- TOP 1.2.: Vorstand: Gesprächstermin mit Amt für Wohnen und Migration
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter, Stand und Ausblick Anhörung aller Bezirksausschüsse, die eine Betroffenheit sehen vgl. Eilentscheidung vom 18.11.2014 im Bericht
+- TOP 2.1.2.: Tengstr. 22: Erneuerung einer Mittelpfette
+- TOP 2.1.3.: Agnesstr. 11 EG links: Umbau/Nutzungsänderung Restaurant zu Aufenthaltsraum und Bürofläche
+- TOP 2.1.4.: Tektur Hohenzollernstr. 59: Neubau eines Wohn- und Geschäftshauses (VGB + RGB) mit 18 Wohnungen, zwei Ladeneinheiten und einer Tiefgarage
+- TOP 2.1.5.: Tektur Schwere-Reiter-Straße: jetzt Einzelhandel und Gastronomie (EG), Büroflächen (1. + 2. OG), gewerblich und nicht gewerblich genutzte Apartments sowie Wohnungen und eine Tiefgarage
+- TOP 2.1.6.: Franz-Joseph-Str. 29: Neuerrichtung des Dachstuhls sowie einer Aufzugs- und Balkonanlage (Nordfassade), Erweiterung der Balkonanlage (Südfassade) und Neubau eines Rückgebäudes mit Tiefgarage
+- TOP 2.1.7.: Therese-Studer-Straße: Neubau von je 2 Working & Living Units (2 Bauanträge)
+- TOP 2.1.8.: Vorbescheid Hohenzollernstr. 29 RGB: Aufstockung eines Mehrfamilienhauses mit DG-Ausbau und Anbau eines Aufzugs
+- TOP 2.1.9.: Tektur Elisabethstr. 91: Nutzungsänderung/Umbau eines Bürogebäudes zu Wohnungen, Anbau einer Doppelfassade (Wintergärten) zur Lärm- und Wärmeschutzertüchtigung, Anbau von Balkonen, Anbau einer Liftanlage im NW, An-/Einbau einer Lift-Treppenanlage im NO, Anbau von Abstellräumen im Keller, Erweiterung des Terrassengeschosses
+- TOP 2.1.10.: Tengstr. 43: Änderung zweier Balkonanlagen
+- TOP 2.1.11.: Schleißheimer Str. 91: DG-Ausbau mit zwei weiteren Wohnungen, Anbau von Balkonen sowie Schließen der Loggien im 1. bis 5. OG
+- TOP 2.1.12.: Tektur Schleißheimer Str. 141: Sanierung, Umbau und Erweiterung eines Büro- und Geschäftgebäudes hier temporäre Verbindung der beiden Tiefgaragen Realteil 1 und Realteil 2 im UG während der Bauzeit des zweiten (südlichen) Bauabschnitts
+- TOP 2.1.13.: MIP 2014-2018
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Parksituation in der Rümannstraße
+- TOP 1.2.: Bürgerin: Fußgängerdurchgang von der Petra-Kelly- zur Adams-Lehmann-Straße
+- TOP 1.3.: Bürgerin: Zustand der Pflanztröge vor Karstadt am Nordbad
+- TOP 1.4.: Bürger: Fahrradparkplätze in der Hohenzollernstraße
+- TOP 1.5.: Bürgerin: Verlängerung des Rad- und Fußwegs vom Rigoletto bis zur Brücke über die Ackermannstraße
+- TOP 1.6.: Bürgerin: Zugeparkte Kreuzung Herzog-/Erich-Kästner-Straße
+- TOP 1.7.: Bürger: Abfalleimer mit Deckel für die Grünfläche Apian-/Clemensstraße
+- TOP 1.8.: Bürger: Bessere Beleuchtung im Petuelpark
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Einbau von Unterflurwertstoffcontainern an den Standorten a) Adams-Lehmann-Str. 87 b) Therese-Studer-Straße / Gustav-Landauer-Bogen c) Therese-Studer-Straße gegenüber Hausnr. 15 (Abschließende Behandlung nach Ortstermin vom 24.10.2014)
+- TOP 2.1.2.: Elisabethstr. 17: Fällung einer Robinie
+- TOP 2.1.3.: Bonner Str. 5: Fällung zweier Hainbuchen sowie Rückschnitt zweier Ahornbäume
+- TOP 2.1.4.: Umwandlung bisher intensiv gepflegter Rasenflächen in städtischen Grünflächen oder Straßenbegleitgrün ohne großen Nutzungsdruck in Blumenwiesen: Benennung geeigneter Flächen im Stadtbezirk?
+- TOP 2.1.5.: Bauerstr. 10-12: Fällung einer Birke
+- TOP 2.1.6.: Kraepelinstr. 10: Fällung eines Spitzahorn
+- TOP 2.1.7.: Fallmerayerstr. 17: Fällung einer Robinie und eines Silberahorn
+- TOP 2.1.8.: Erich-Kästner-Str. 32: Fällung einer Robinie
+- TOP 2.1.9.: Max-von-Gruber-Str. 3: Fällung einer Traubenkirsche
+- TOP 2.1.10.: Destouchesstr. 57: Fällung zweier Robinien und einer Birke
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Lieferprobleme bei NORMA in der Mitterwieserstraße: Verlängerung der Halteverbote durch Zick-Zack-Markierungen
+- TOP 2.2.1.: Anhörungsrecht im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete Anhörung zum Antrag des BA 24 Feldmoching-Hasenbergl auf Änderung der BA-Satzung
+- TOP 2.2.2.: Anpassung der Aufwandsentschädigungen Anhörung zum Stadtratsantrag auf Änderung der BA-Satzung
+- TOP 2.2.3.: Antrag: Der BA 4 möge sich dem Bündnis für Toleranz anschließen
+- TOP 2.2.1.: Aufstockung der Regelförderung für das quartiersbezogene Hausaufgabenprojekt am Ackermannbogen
+- TOP 2.2.2.: Verbesserung der Sichtverhältnisse an der Einmündung der Bregenzer Straße in die Birnauer Straße
+- TOP 2.2.3.: Maßnahmen gegen dauerparkende Wohnmobile und -anhänger in der Elisabeth-Kohn- und Therese-Studer-Straße
