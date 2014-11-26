@@ -1,0 +1,56 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-26T16:00:00+01:00
+- Ende: 2014-11-26T18:37:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8495
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8495
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228561.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228561.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228561.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: B-Plan Nr. 5580/16 - Münsterstraße/Nördlicher Zubringer - - einstimmig beschlossen
+- TOP 6: Plan Nr. 06/009 - Münsterstraße / Nördlicher Zubringer - einstimmig beschlossen
+- TOP 7: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 8: Sachstandsbericht Forschungsprojekt KIQ - zur Kenntnis genommen
+- TOP 9: Anfrage CDU: Maßnahmen gegen Flughafenparker - vertagt
+- TOP 10: Anfrage Grüne: Buslinie 730 ab Freiligrathplatz - beantwortet
+- TOP 11: Anfrage CDU: Studentenwohnheim/günstige Studentenwohnungen - beantwortet
+- TOP 12: Anfrage Helmke: Rath S-Bahnhof - beantwortet
+- TOP 13: Anfrage SPD: Spielhalle Matthiaskirchweg - beantwortet
+- TOP 14: Anfrage Sültenfuß Schranke Kalkumer Straße - vertagt
+- TOP 15: Anfrage SPD: Thewissenweg - vertagt
+- TOP 16: Anfrage SPD: Fernwärme im Stadtbezirk 6 - beantwortet
+- TOP 17: Anfrage: Parksituation ISS-Dome - vertagt
+- TOP 18: Anfrage: Fahrradboxen - vertagt
+- TOP 19: Anfrage Schentek: Sporthalle Hauptschule - beantwortet
+- TOP 20: Anfrage Peters: Anwendung Gemeindeordnung - beantwortet
+- TOP 21: Anfrage Helmke: Lärmschutz gegen Bahnlärm - vertagt
+- TOP 22: Anfrage Daxenberger: Instandsetzung Fahrradabstellplatz - vertagt
+- TOP 23: Anfrage Daxenberger: Neubaugebiet Lichtenbroich - beantwortet
+- TOP 24: Antrag Linke: eigenständiger Haushaltsentwurf - vertagt
+- TOP 25: Antrag SPD: FGÜ Meisenweg - einstimmig beschlossen
+- TOP 26: Antrag SPD: Beflaggung "Nein zu Gewalt an Frauen" - einstimmig beschlossen
+- TOP 27: Antrag CDU: Beleuchtung Boskampweg - einstimmig beschlossen
+- TOP 28: Antrag FDP + CDU: Beleuchtung Kürtenstr./Hamborner - einstimmig beschlossen
+- TOP 29: Antrag FDP,CDU, Grüne: Abbiegeprobleme Linie 730 - einstimmig beschlossen
+- TOP 30: Antrag CDU: Spielplatz Semer Weg - zurückgezogen
+- TOP 31: Antrag Grüne, CDU+FDP: Helmutstraße - einstimmig beschlossen
+- TOP 32: Antrag Daxenberger: leerstehende Wohnungen - zurückgezogen
+- TOP 33: Aufnahme auswärtiger Kinder in städtischen Schulen - mehrheitlich abgelehnt
+- TOP 34: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - mehrheitlich beschlossen
+- TOP 35: Bauunterhaltungsmittel 2014 - einstimmig beschlossen
+- TOP 36: Bauunterhaltungsmittel 2014 - laufende Maßnahmen - mehrheitlich beschlossen
+- TOP 37: Bauunterhaltungsmittel 2014 - Restmittel - einstimmig beschlossen
+- TOP 38: Zuschussvergabe und Förderung Dritter - einstimmig beschlossen
+- TOP 39: Mitteilungen der Verwaltung - zur Kenntnis genommen
