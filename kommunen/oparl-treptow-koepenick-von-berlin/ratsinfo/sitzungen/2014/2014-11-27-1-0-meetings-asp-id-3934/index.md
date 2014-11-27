@@ -1,0 +1,69 @@
+# 32. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-11-27T16:30:00+01:00
+- Ende: 2014-11-27T19:40:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3934
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3934
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=104687
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-36 und VII-37 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8.2: Wahl einer stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtentwicklung und Tiefbau - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bibliotheksentwicklungs- und -strukturplan 2014-2017 Fortschreibung des Strukturplans der Stadtbibliothek Treptow-Köpenick 2008 ff - überwiesen
+- TOP 11.2: Sondermittel für den Kungerkiezinitiative e. V. (SM 14-35) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für offensiv´91 e. V. (SM 14-36) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Tempo 30 in der Semmelweisstraße - überwiesen
+- TOP 12.2: Bezirkshaushaltsrechnung 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Absenkung für Radweg auf der Schönefelder Chaussee vor der Warnowstraße herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verkehrssicherheit in der Hartriegelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Sicherung des Wagendorfes Lohmühle - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Schulwegsicherung Müggelschlößchen-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Tempo 30 in der Karl-Kunger-Straße zwischen Wildenbruchstraße und Krüllsstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: - Entwurf des vorhabenbezogenen Bebauungsplans 9-57 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-57 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Genehmigung der im Haushaltsjahr 2013 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Trinkwasserspender für die Bürgerämter - überwiesen
+- TOP 14.2: Barrierefreiheit in Anlagen und Einrichtungen des Bezirksamtes - überwiesen
+- TOP 14.3: Änderung Landschaftsplan zum Erhalt der "weißen Villa" - überwiesen
+- TOP 14.4: Kundenbedienung in den Berliner Bürgerämtern verbessern - überwiesen
+- TOP 14.5: Brückenschlag Wuhlemündung - überwiesen
+- TOP 14.6: Mobilitätshilfedienst der Volkssolidarität in Treptow-Köpenick sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Gartenkulturpfad Treptow-Köpenick - überwiesen
+- TOP 14.8: Senioreneinrichtungen bei der Baulandentwicklung berücksichtigen - überwiesen
+- TOP 14.9: Verstärkte Kontrollen der Rad- und Gehwege im Bezirk - überwiesen
+- TOP 14.10: Bürgerinformation zur extensiven Grünpflege im Volkspark Wuhlheide - überwiesen
+- TOP 14.11: Kenntlichmachung des Spreetunnels der Knüppelbahn nach Stralau - überwiesen
+- TOP 14.12: Empfehlungen zur ökologischen Bauleit- und Freiraumplanung für private Vorhabenträger - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Fahrradstellplätze im Bezirk Treptow-Köpenick - überwiesen
+- TOP 14.14: Gartenhaus Johannisthal zum Künstlerhaus Johannisthal entwickeln - überwiesen
+- TOP 14.15: Ampelanlage Puderstraße nachts abschalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Gleiche Chancen für Treptow-Köpenicker bei Anträgen für Eheschließungen im Bezirk gewährleisten - überwiesen
+- TOP 14.17: Vorbereiten für die Funktionsweise des Gesetzes zur Einführung von Immobilien- und Standortgemeinschaften (BIG Gesetz) - überwiesen
+- TOP 14.18: Browserbasierte und plattformunabhängige Fachverfahren - überwiesen
+- TOP 14.19: Kooperation(en) in der Umweltbildung an Schulen und Kindertagesstätten fördern - überwiesen
+- TOP 14.20: Vorbereitung der Ablösung von Windows 7 - überwiesen
+- TOP 14.21: Überprüfung der Radwegbenutzungspflicht in der Puschkinallee zwischen Bouchéstraße und Elsenstraße - überwiesen
+- TOP 14.22: Betrieb einer Fähre zur barrierefreien Querung der Spree im Bereich des Spreetunnels in Friedrichshagen - überwiesen
+- TOP 14.23: Welcome refugees - Treptow-Köpenick heißt Flüchtlinge willkommen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.24: Vorausschauende Planung, transparenter Umgang und stärkere Integrationsanstrengungen bei der Behandlung von Flüchtlingen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
