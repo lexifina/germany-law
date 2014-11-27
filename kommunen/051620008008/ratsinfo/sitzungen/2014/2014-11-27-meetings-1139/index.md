@@ -1,0 +1,69 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-11-27T14:10:00+01:00
+- Ende: 2014-11-27T21:20:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1139
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1139
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bürgerantrag gem. § 24 GO - mehrheitlich bei
+- TOP 2.1: Bürgerantrag - Kenntnisnahme
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Produkt 01021 - mehrheitlich bei
+- TOP 3.2: Produkt 01061 - Kenntnisnahme
+- TOP 3.3: Produkt 01081 - Kenntnisnahme
+- TOP 3.4: Produkt 01093 - Kenntnisnahme
+- TOP 3.5: Produkt 01101 - Kenntnisnahme
+- TOP 3.6: Produkt 01121 - Kenntnisnahme
+- TOP 3.7: Produkt 01122 - Kenntnisnahme
+- TOP 3.8: Produkt 03017 - einstimmig
+- TOP 3.9: Produkt 04021 - Kenntnisnahme
+- TOP 3.10: Produkt 04051 - Kenntnisnahme
+- TOP 3.11: Produkt 05031 - einstimmig
+- TOP 3.12: Produkt 05091 - einstimmig
+- TOP 3.13: Produkt 06011 - Kenntnisnahme
+- TOP 3.14: Produkt 06022 - einstimmig
+- TOP 3.15: Produkt 06031 - einstimmig
+- TOP 3.16: Produkt 06032 - einstimmig
+- TOP 3.17: Produkt 08011 - einstimmig
+- TOP 3.18: Produkt 08021 - einstimmig
+- TOP 3.19: Produkt 09011 - einstimmig
+- TOP 3.20: Produkt 09012 - Kenntnisnahme
+- TOP 3.21: Produkt 12012 - einstimmig
+- TOP 3.22: Produkt 13011 - einstimmig
+- TOP 3.23: Produkt 13021 - einstimmig
+- TOP 3.24: Produkt 13031 - einstimmig
+- TOP 3.25: Produkt 15011 - einstimmig
+- TOP 3.26: alle Produktbereiche - Kenntnisnahme
+- TOP 4: Haushalt 2015 - Kenntnisnahme
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: 2. Änderung der Vergnügungssteuersatzung - mehrheitlich bei
+- TOP 7: Bericht
+- TOP 7.1: Finanzen
+- TOP 7.2: Feuerschutz
+- TOP 7.2.1: Berichterstattung - Kenntnisnahme
+- TOP 7.3: Soziales
+- TOP 7.4: AK-Demografie
+- TOP 8: Beantwortung von Anträgen
+- TOP 8.1: FDP, Antrag Nr. 96/2014 - mehrheitlich bei
+- TOP 8.2: Beantwortung von Anträgen - Kenntnisnahme
+- TOP 9: Beantwortung Anfragen
+- TOP 9.1: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 10: Mündliche Anträge/Anfragen
+- TOP 10.1: Wohncontainer
+- TOP 10.2: Flüchtlinge
+- TOP 10.3: Zampolli
+- TOP 10.4: Wochenmarkt
+- TOP 10.5: Plakakte
+- TOP 10.6: Jahresabschlüsse
+- TOP 10.7: Schilder
+- TOP 10.8: Redezeit
+- TOP 10.9: Beginn der Sitzung
+- TOP 11: Mitteilungen BM'in
