@@ -19,4 +19,4 @@ Teil 3 Beauftragte oder Beauftragter des Landes für die Belange behinderter Men
 § 14 | Amt der oder des Landesbehindertenbeauftragten
 § 15 | Aufgaben und Befugnisse
 Teil 4 Schlussvorschriften
-§ 16 | Außerkrafttreten
+§ 16 | (weggefallen)
