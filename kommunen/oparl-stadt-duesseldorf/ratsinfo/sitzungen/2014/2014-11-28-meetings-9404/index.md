@@ -1,0 +1,55 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-11-28T14:00:00+01:00
+- Ende: 2014-11-28T18:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9404
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9404
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228615.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228615.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00228615.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Vertretern betroffener Bevölkerungsgruppen - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - passieren lassen
+- TOP 5: Mühlengasse - beantwortet
+- TOP 6: Bastionstraße 18 - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Handlungskonzept Wiederaufbau des öffentlichen Grüns nach Sturm Ela - zur Kenntnis genommen
+- TOP 10: Grünordnungsplan 2025 - einstimmig beschlossen
+- TOP 11: Grünordnungsplan 2025 - einstimmig beschlossen
+- TOP 12: Aufnahme auswärtiger Kinder in städtischen Schulen - verwiesen
+- TOP 13: Umbau von Büroräumen zu einer Kindertagesstätte im MFKJKS, Haroldstr. / Carlstor 7 - zur Kenntnis genommen
+- TOP 14: Veranstaltungen Burgplatz - Jahresprogramm 2015 - einstimmig beschlossen
+- TOP 15: "Spezialmärkte in den Schadow Arkaden im Jahre 2015" - einstimmig beschlossen
+- TOP 16: Trödelmärkte auf dem Gelände des Großmarktes - einstimmig beschlossen
+- TOP 17: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - mehrheitlich beschlossen
+- TOP 18: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 19: Neue Bäume für den Rheinpark - einstimmig beschlossen
+- TOP 20: Klever Straße/Roßstraße/Collenbachstraße - einstimmig beschlossen
+- TOP 21: Eigenständiger Haushaltsentwurf der Bezirksvertretungen - mehrheitlich beschlossen
+- TOP 22: Stadtteile stärken: Rochusmarkt aufwerten - einstimmig beschlossen
+- TOP 23: Parkstraße/Marschallstraße/Blücherstraße - einstimmig beschlossen
+- TOP 24: Verkehrssituation auf der Kaiserstraße - zurückgezogen
+- TOP 25: Hofgarten Absperrungen - zurückgezogen
+- TOP 26: Kinderspielplatz Schwanenmarkt - einstimmig beschlossen
+- TOP 27: Verfugung des Pflasters der Bolkerstraße - einstimmig beschlossen
+- TOP 28: Geländer am Spee'schen Graben / Carlstor - einstimmig beschlossen
+- TOP 29: Erläuterung von Straßenschildern - einstimmig beschlossen
+- TOP 30: Baumscheibe vor Kaiserswerther Straße 20 - einstimmig beschlossen
+- TOP 31: Fahrradweg Rather Straße - einstimmig beschlossen
+- TOP 32: Goltsteinparterre - einstimmig beschlossen
+- TOP 33: Papier- und Glascontainer Stephanienstraße /Ecke Klosterstraße - einstimmig beschlossen
+- TOP 34: Schwerinstraße - einstimmig beschlossen
+- TOP 35: Fahrradfreundlichkeit - einstimmig beschlossen
+- TOP 36: Mehr Transparenz bei der Mittelvergabe - mehrheitlich beschlossen
+- TOP 37: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 38: Verschiedenes - zur Kenntnis genommen
