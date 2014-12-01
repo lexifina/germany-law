@@ -1,0 +1,62 @@
+# 1. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2014-12-01T10:00:00+01:00
+- Ende: 2014-12-01T10:50:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2014-VA-24
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2014-VA-24
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-VA-24
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2014-VA-24
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Sachstandsbericht zur Umsetzung des Krankenhausplans NRW 2015
+- TOP 1.2: Regionaler Vorschlag zum Jahresbauprogramm 2015 für die Maßnahmen des Landesstraßenausbauplans
+- TOP 1.3: Städtebauförderung hier: Veröffentlichung des Städtebauförderprogramms 2014
+- TOP 1.4: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten je Maßnahme: Priorisierung der Maßnahmen für das Jahr 2015
+- TOP 1.5: Programm Radwegebau an bestehenden Landesstraßen: Priorisierung der Maßnahmen für das Jahr 2015
+- TOP 1.6: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kulturpolitik hier: Beratung und Beschlussfassung 2015, Rückblick auf die Förderung 2014
+- TOP 1.7: Entsendung von Mitgliedern der Verbandsversammlung des RVR in die Beratungsgremien der Regionalen Kulturpolitik
+- TOP 1.8: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2015 Beratung und Beschlussfassung
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.9: 79. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Kamp-Lintfort, Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen und Allgemeiner Freiraum- und Agrarbereich in GIB – Aufstellungsbeschluss –
+- TOP 1.10: 85. Änderung des Flächennutzungsplans der Stadt Werl, Bebauungsplan Nr. 117 „Am Hellweg“ der Stadt Werl (FOC Werl); Beteiligung im Rahmen des landesplanerischen Anpassungsverfahrens gem. § 34 LPlG NRW der Bezirksregierung Arnsberg
+- TOP 1.11: Stellungnahme gem. § 4 Abs. 1 BauGB zum Bebauungsplan 1202 – Einrichtungshaus Dreigrenzen – und zur 90. Änderung des Flächennutzungsplans der Stadt Wuppertal (IKEA)
+- TOP 1.12: 83. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Städte Kamp-Lintfort, Rheinberg und Moers: Aufhebung der bergbaulich zweckgebundenen Nutzung Halde Kohlenhuck und Festlegung als Windenergiebereich hier. Erarbeitungsbeschluss
+- TOP 1.13: Trianel Kohlekraftwerk Lünen, Genehmigungsverfahren – Klage gegen den Vorbescheid, die 1. Teilgenehmigung und die 7. Teilgenehmigung –
+- TOP 1.14: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.1: Strukturvision Schiefergas (NL) Hier: Stellungnahme des Regionalverbandes Ruhr und Erwiderung des Ministerie van Economische Zaken
+- TOP 2.2: Anträge auf Verlängerung der Erlaubnis zur Aufsuchung von Kohlenwasserstoffen im Zeitraum April bis Oktober 2014 - Fracking
+- TOP 2.3: Anträge zur Verlängerung der Erlaubnis zur Aufsuchung von Kohlenwasserstoffen im Zeitraum April bis Oktober 2014 – Grubengas
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.4: Bau einer Brücke über den Berthold-Beitz-Boulevard im Bereich der Rheinischen Bahn in Essen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.5: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2013
+- TOP 2.6: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.7: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Veräußerung der Anteile an der WIN Emscher-Lippe GmbH an die Wirtschaftsförderung metropoleruhr GmbH
+- TOP 2.8: Angelegenheiten der Eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur - Jahresabschluss zum 31.12.2013
+- TOP 2.9: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2013
+- TOP 2.10: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2013
+- TOP 2.11: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2013
+- TOP 2.12: Angelegenheiten der Kultur Ruhr GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.13: Angelegenheiten der Maximilianpark Hamm GmbH - Änderung des Gesellschaftsvertrages / Zuschuss- und Finanzierungsvertrag 2015-2017
+- TOP 2.14: Angelegenheiten der Freizeitschwerpunkt Glörtalsperre GmbH - Änderung des Gesellschaftsvertrages
+- TOP 2.15: Angelegenheiten der TourismusEisenbahn Ruhrgebiet GmbH - Jahresabschluss zum 31.12.2013
+- TOP 2.16: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2013
+- TOP 2.17: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Regio.Ruhr im Aufruf Regio.NRW
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.18: Feststellung Jahresabschluss zum 31.12.2013 und Lagebericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.19: Bericht über die Prüfung des Gesamtabschlusses 2011, Bestätigung des Gesamtabschlusses 2011 und Entlastung des Regionaldirektors Heinz-Dieter Klink für die Zeit vom 01.01. - 31.07.2011 und Entlastung der Regionaldirektorin Karola Geiß-Netthöfel für die Zeit vom 01.08. - 31.12.2011
+- TOP 2.20: Anfragen und Mitteilungen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
