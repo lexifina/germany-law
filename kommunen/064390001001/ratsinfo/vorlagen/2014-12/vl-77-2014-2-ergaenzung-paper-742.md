@@ -1,0 +1,21 @@
+# Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2014
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-77/2014 2. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2014-12-01
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZdu_pKxP8jN1qHA05BY0MEE
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/742
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Entwurf der 01. Nachtragshaushaltssatzung für das Rechnungsjahr 2014) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZxDZE8GhFEafqWlwLqLRIItw4f8K4rz0oo7ntirQQES/Beschlussvorlage_Ausschuss_HFA_VL-77-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Inhaltsverzeichnis) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTE4XxdHhw0AbHvOdwsMRFWqfbavIDHWYSmYL00HCuBi/NPL_2014_Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Satzungsentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSOPR-WxlvNsWjFKhBLKOlmrU9E8YiFSF1keArnVDXaz/NPL_2014_Satzungsentwurf.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Vorbericht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaoaITjymFs5WO1xRGXGRFKJjcyWDCOSbw07y0G0lX-b/NPL_2014_Vorbericht.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Gesamtergebnis-Finanzhaushalt) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeiubTHA8F7r09Md99GBsybhgaSDvCkbTgagUSkzBzsH/NPL_2014_Gesamtergebnis-Finanzhaushalt.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Haushaltsplanentwurf) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRSXgqCrikl8vjmUcjFozGv4EPLy3fCGGjJzdByEhOAi/NPL_2014_Haushaltsplanentwurf.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Deckungsvermerke) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUyHqYqhJXHAro6oV-UqJh640KF2vV2fHONoIvN4EfJY/NPL_2014_Deckungsvermerke.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_VE`s) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVk0w2pQ6-TDZnbWy2wwnAlx764vOAXiJim__j8T4ED_/NPL_2014_VE-s.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Verbindlichkeitenübersicht) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZadOhgey-2e_7tV1lXdiQkN-icGhCEjEPhy0Way8wjTe/NPL_2014_Verbindlichkeitenuebersicht.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (NPL_2014_Rücklagen-Rückstellungen) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSfMBAVxxe5gmyp3fYzj1aQBkcoAaDGUrorHr3hq4wcn/NPL_2014_Ruecklagen-Rueckstellungen.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/660 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-4
