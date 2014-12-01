@@ -1,0 +1,69 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2014-12-01T18:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3291794
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3291794
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: Parksituation Maronstraße
+- TOP 1.2.: Bewegungs- und Spielparcours für die ältere Generation
+- TOP 1.3.: Spielplatz für das Montessorikinderhaus, Karwendelstraße 34
+- TOP 1.4.: Sachstand zur zweiten Schattenrundbank am Harras
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Unterbringung von psychisch kranken wohnunslosen Frauen und Männern im städt. Sofortunterbringungssystem im Notquartier Implerstr.
+- TOP 3.2.: Förderung des Radverkehrs - Steigerung der Lebensqualität in München
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Einbürgerungsfeier am 26.11.2014
+- TOP 4.2.: Neue Mitglieder im Mieterbeirat
+- TOP 4.3.: 18.Jetzt - Fest für junge Münchnerinnen und Münchner
+- TOP 4.4.: Barrierefreier Standort für das ASZ Sendling auf dem Grundstück Meindlstr. Fl-Nr. 9423 Sektion V - <div>zur Kenntnis genommen</div>
+- TOP 5: Referat für Bildung und Sport
+- TOP 1: (E) Schaffung von ausreichenden, pädagogisch geeigneten Räumlichkeiten ... Raumsituation der Grundschule an der Implerstraße; ... - <div>Abweichender BA-Beschluss</div>
+- TOP 1.2.: Belegungspläne für die Bezirkssportanlage an der Demleitnerstr.; Realisierung eines dritten Kunstrasenplatzes
+- TOP 6.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1.: Verlegung des Radwegs in der Implerstraße 7 - 35
+- TOP 7.2.: Warenstellage Brudermühlstr. 18
+- TOP 7.3.: Änderung Christkindlmarkt am Harras
+- TOP 7.4.: Fehlende Fahrradampeln am Harras
+- TOP 7.5.: Schulbushaltestelle Alramstraße
+- TOP 7.6.: Taxistandplatz am Harras
+- TOP 7.7.: Versammlung des Greenpeace e.V. vom 15.11.14 am Harras
+- TOP 8.1.: Anhörungsrecht im Rahmen von Aufstellungsbeschlüssen
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Alramstr. 24
+- TOP 9.3.: Bauvorhaben Lindwurmstr. 122d
+- TOP 9.4.: Kunst am Bau und Kunst im öffentlichen Raum; Beteiligung der Bezirksausschüsse
+- TOP 9.5.: Pfeuferstr. 32; Prüfung der Denkmalwürdigkeit
+- TOP 9.6.: Baugenehmigung Pfeuferstraße 32 - Tannengarten
+- TOP 9.7.: Bauvorhaben Brudermühlstr. 24 - 30 / Thalkichner Str. 133 - Sachstandsbericht
+- TOP 9.8.: VEP mit Grünordnung Nr. Plinganser-,Duden-,Karwendelstraße (Teiländerung des Bebauungsplans Nr. 238 ) a) Aufstellungsbeschluss b) Realisierungswettbewerb - <div>zur Kenntnis genommen</div>
+- TOP 9.9.: Veranstaltung zum Neubau der Großmarkthalle
+- TOP 9.10.: Regionalgespräch mit der Lokalbaukommission
+- TOP 9.11.: Ehrenpreis für guten Wohnungsbau
+- TOP 10: Baureferat
+- TOP 10.1.: Schrottfahrräder auf öffentlichen Verkehrsflächen - <div>Wiedervorlage nach Projektabschluss</div>
+- TOP 10.2.: Schaffung eines ständigen Stromanschlusses in der Grünanlage Neuhofener Anlagen; Stadtteilkulturwoche 2015 Sendling / Obersendling
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Greinerberg 9-13
+- TOP 11.2.: Baumfällung Schäftlarnstraße 15
+- TOP 12: Anträge
+- TOP 14: Verschiedenes
+- TOP 14.1.: Mehrjahresinvestitionsprogramm 2014 - 2018
+- TOP 14.2.: Münchner Volkstheater GmbH; Standortentscheidung
+- TOP 14.3.: Kulturhaus Tumblingerstraße
+- TOP 14.4.: Mobilfunk
+- TOP 14.5.: Oktoberfest 2014 - Schluss- und Erfahrungsbericht
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
