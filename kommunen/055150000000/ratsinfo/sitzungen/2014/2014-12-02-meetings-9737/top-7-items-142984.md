@@ -1,0 +1,8 @@
+# TOP 7: Sachstand in der Umsetzung des Abfallwirtschaftskonzeptes
+
+- Sitzung: 3. Sitzung (2014-12-02)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/142984
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/56290
