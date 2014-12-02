@@ -1,0 +1,83 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2014-12-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3152385
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3152385
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Geplante Unterkunft für Flüchtlinge auf dem Areal Zschokke- / Westendstraße; Teilnahme von Vertretern des Sozialreferates
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Lebensmittelgeschäft Joergstr. 88
+- TOP 1.2.2.: Fernsehempfang Thomas-Wimmer-Haus
+- TOP 1.2.3.: Raumnot im Schuljahr 2014 / 2015 an Grundschule und Mittelschule Fürstenrieder Str. 30
+- TOP 1.2.4.: Haltverbot Josef-Schick-Straße
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: BA-Sitzungsunterlagen in digitaler Form
+- TOP 2.2.: Bündnis 90 / Die Grünen: Glasfaserausbau auf Laim ausweiten?
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aufstellung von neuen Zeitungsverkaufseinrichtungen, Lautensackstr. 4, Fürstenrieder Str. 10, Agricolastr. 16
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.831,25 Euro für Faschingstreiben am 14.02.15; Antragsteller: Faschingsclub Laim e.V. - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.715 Euro für die Beschaffung eines Schranks; Antragsteller: Laimerspielmäuse e.V. (Vertagung aus der BA-Sitzung vom 04.11.14) > dazu Schreiben der Antragsteller vom 15.10.14 - <div>nach Antrag</div>
+- TOP 3.4.: Beschlussvorlage Direktorium (Änderungsvorlage): Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.041,20 Euro für Marionetten Theater am 15.10.2014; Antragsteller: deutsch-sizilianischer Verein ?Le Zagare. Sicilliani e non solo? (Vertagung aus der BA-Sitzung am 07.10.14) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Gaishoferstr. 1: Antrag auf Fällung von 1 Fichte
+- TOP 4.2.: Neuburgerstr. 5: Antrag auf Fällung von 1 Lärche
+- TOP 4.3.: Schreiben Direktorium vom 28.10.14: Änderung der Bezirksausschusssatzung; hier: Anpassung der Aufwandsentschädigung
+- TOP 4.4.: Endelhauserstr. 22-32: Antrag auf Fällung von 1 Pappel
+- TOP 4.5.: Gotthardstr. 52-56: Antrag auf Fällung von 1 Wildkirsche
+- TOP 4.6.: Riegerhofstr. 17: Antrag auf Fällung von 1 Birke und 1 Weide
+- TOP 4.7.: Schreiben Direktorium vom 10.11.14: Antrag zur Änderung der BA-Satzung; Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen und Ausgleichsgebieten (Antrag des BA 24 Milbertshofen-Am Hart vom 03.07.13)
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Terminplanung 2015 (Vertagung aus der BA-Sitzung vom 04.11.14)
+- TOP 6.2.: Schreiben Kulturreferat vom 16.10.14: Entwurf Nutzerbedarfsprogramm Stadtteilkulturzentrum (Vertagung aus der BA-Sitzung vom 04.11.14)
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 04.11.14
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 03.09.14: Änderung des Zeitzusatzes an der Schulbushaltestelle Schrobenhausener Straße für den Schülerverkehr zu den neuen Münchner Regionalhäusern
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 03.09.14: Änderung des Zeitzusatzes an der Schulbushaltestelle Camerloherstraße für den Schülerverkehr zu den neuen Münchner Regionalhäusern
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 19.09.14: Aufhebung des allgemeinen Behindertenparkplatzes im Bereich Camerloherstr. 85a
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 21.10.14: Gaststätte "Casa Ischia", Zschokkestr. 55; unveränderte Fortführung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 28.10.14: Gaststätte "Metzgerei Franz", Fürstenrieder Str. 55; Antrag auf Neuerrichtung
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 29.10.14: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Behamstr. 21
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 07.10.14: Gotthard- / Willibaldstraße; Änderung der Vorfahrtsregelung
+- TOP 8.8.: Schreiben Baureferat vom 03.11.14: Beklebung mit Flyern in Laim und im ganzen Stadtgebiet (Schreiben BA vom 15.10.14)
+- TOP 8.9.: Schreiben Baureferat vom 07.11.14: Lebenswertes Laim (Antrag Nr. 14-20 / B 00381 vom 16.09.14)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.10.14: Machbarkeitsstudie Lärmschutzmaßnahmen an der A 96 vom Mittleren Ring bis zur Stadtgrenze (Antrag Nr. 14-20 / B 00280 vom 05.08.14)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.10.14: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung in der Rushaimerstraße (Schreiben BA vom 26.08.14)
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.11.14: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.10.-01.11.14
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.11.14: Vortrag bei den Regionalgesprächen
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.11.14: Agnes-Bernauer-Str. 53; DG-Ausbau, Aufstockung, Seitengebäude, Anbau Balkone
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.11.14: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 01.11.-15.11.14
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.1.14: Agricolastr. 58; Fällungsantrag vom 24.09.14
+- TOP 8.17.: Schreiben Kommunalreferat vom 03.11.14: Zusammenarbeit mit den Bezirksausschüssen; Jahresbericht 2013
+- TOP 8.18.: Schreiben Sozialreferat vom 10.11.14: Unterbringung von Flüchtlingen in München
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 17.10.14: Baumaßnahmen der SWM, Stromprojekt Landsberger Straße
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 17.11.14: Baumaßnahmen der Stadtwerke; Stichtag: 17.11.14
+- TOP 8.21.: Bautenliste vom 03.11.-09.11.14 1. Erstantragsverfahren a) Willibaldstr. 37
+- TOP 8.22.: Bautenliste vom 10.11.-16.11.14 1. Änderungsverfahren a) Rilkestr. 17
+- TOP 8.23.: Beschluss der Vollversammlung vom 01.10.14: Mieterbeirat; Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirkes (Sitzungsvorlage Nr. 14-20 / V 00915)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.11.14: Verkehrsplanung Pasing-Nord; 1. Sachstandsbericht, 2. Weiteres Vorgehen (Sitzungsvorlage Nr. 14-20 / V 01694)
+- TOP 8.25.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.14: Internationale Fachkonferenz "Walk21" in München 2013; Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität (Sitzungsvorlage Nr. 14-20 / V 01713)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: Mehrjahresinvestitionsprogramm 2014-2018; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014-2018, Infrastrukturversorgungskonzept 2014-2018 (Sitzungsvorlage Nr. 14-20 / V 01656)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: Mehrjahresinvestitionsprogramm für die Jahre 2014-2018; diverse Gliederungsziffern (Sitzungsvorlage Nr. 14-20 / V 01361)
+- TOP 8.28.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: Verkehrsplanung Pasing-Nord; 1. Sachstandsbericht, 2. Weiteres Vorgehen (Sitzungsvorlage Nr. 14-20 / V 01694)
+- TOP 8.29.: Beschluss der Vollversammlung vom 20.11.14: Ehrenpreis für guten Wohnungsbau; Zustimmung zur Durchführung 2015 (Sitzungsvorlage Nr. 14-20 / V 01223)
+- TOP 8.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14: Haushaltsplan 215; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 01362)
+- TOP 8.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14: Haushaltsplan 215; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 01349)
+- TOP 8.32.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14: Haushaltsplan 215; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (Sitzungsvorlage Nr. 14-20 / V 01336)
+- TOP 8.33.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.14: Haushaltsplan 215; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 01334)
+- TOP 8.34.: Schreiben Pfarrjugend Fronleichnam vom 08.09.14: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.35.: Schreiben Mieterbeirat vom 25.10.14: Protokoll der öffentlichen Sitzung am 13.10.14
+- TOP 8.36.: Schreiben Regierung von Oberbayern vom 30.10.14: Luftverkehrsrecht; Lärmbelästigung durch Hubschrauberflüge für den Stadtbezirk Laim (Schreiben BA vom 27.08.14)
+- TOP 8.37.: Schreiben Spielen in der Stadt vom 30.10.14: Kurzbericht über die bezuschussten Spielmobilieinsätze 2014 des BA 25
+- TOP 8.38.: Schreiben Arbeitsgemeinschaft Friedenspädagogik vom Oktober 2014: Standards gewaltpräventiver Angebote an Schulen
+- TOP 8.39.: Schreiben Kinder- und Jugendbeauftragte des BA 2 Ludwigsvorstadt-Isarvorstadt vom 07.11.14: 18.jetzt - Das Fest für junge Münchnerinnen und Münchner am 11.10.14 im Rathaus
+- TOP 1.2: Bürgerpost an den BA
