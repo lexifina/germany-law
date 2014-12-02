@@ -1,0 +1,65 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2014-12-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3304778
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3304778
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 04.11.2014
+- TOP 2: Aktuelles, Anträge
+- TOP 2.1.: Infoveranstaltung: Ankunft- und Transferzentrum für Flüchtlinge Baierbrunner Str.
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kinderstube München Süd-West Anschaffung von Markisen
+- TOP 3.2.: (E) Budget der Bezirksausschüsse BiDiBi e.V. Marionettenoper am 18.10.2014
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Familienzentrum Miteinander e.V. Nikolausfeier am 06.12.2014
+- TOP 3.4.: (E) Budget der Bezirksausschüsse ergon e.V., Projekt ?Sonnengarten Solln? Wasseranschluss
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Wertstoffcontainerstandort St.-Wendel-Str.
+- TOP 4.3.: (A) Wertstoffcontainerstandort Beuerberger Str. / Wolfratshauser Str.
+- TOP 4.4.: (Antrag) Flutlicht für Bikepolo an der Floßlände
+- TOP 4.5.: (U) Baubeginnsanzeigen Mobilfunkanlagen
+- TOP 4.6.: (A) Feuerwerk Kistlerhofstraße 140
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (A) Gaststättenfortführung Boschetsrieder Str. 63a
+- TOP 5.2.: (A) Genehmigung einer Freischankfläche Aidenbachstr. 30
+- TOP 3: (E) Geschwindigkeitsbeschränkung auf Tempo 30 in der Höglwörther Straße zwischen Boschetsrieder- und Zielstattstraße - <div></div>
+- TOP 3.4.: (E) Beuerberger Straße - nördliche Gehbahn im Teilausbau
+- TOP 5: (E) Zugang zum Sollner S-Bahnhof Empfehlung Nr. 08-14 / E 02178 der Bürgerversammlung des Stadtbezirkes 19 ? Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.04.2014 - <div></div>
+- TOP 5.6.: (A) Errichtung eines personenbezogenen Behindertenparkplatzes Bichler Str. 22
+- TOP 5.7.: (Antrag) Beseitigung von Schrottfahrrädern
+- TOP 0: Bericht (3)
+- TOP 0.8.: Wertstoffcontainer in Neubaugebieten
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Satzungsänderung Aufstellungsbeschlüsse
+- TOP 6.3.: (U) Zweckentfremdung Karl-Marr-Straße
+- TOP 6.4.: (U) Zweckentfremdung Hatzelweg
+- TOP 6.5.: (U) Zweckentfremdung Georgensteinstraße
+- TOP 6.6.: (Antrag) "Wohnungsbau im Münchner Süden"
+- TOP 0: Bericht (4)
+- TOP 0.7.: Umstrukturierung Gewerbegebiet Obersendling - <div></div>
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Erstaufnahmeeinrichtung Baierbrunner Straße
+- TOP 0: Bericht (5)
+- TOP 0.2.: Sachmittelzuschuss MITA Herterichschule e.V.
+- TOP 0.3.: ASZ-Fürstenried als einer der Modellstandorte für "ASZplus"
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (A) Sollner Christkindlmarkt
+- TOP 8.2.: (Antrag) Fürstenrieder Frühlingsfest
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
