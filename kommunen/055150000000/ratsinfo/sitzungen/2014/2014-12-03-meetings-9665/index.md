@@ -1,0 +1,86 @@
+# 3. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-12-03T17:06:00+01:00
+- Ende: 2014-12-03T21:39:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9665
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9665
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00363791.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag Nr. A-R/0023/2014 der SPD-Fraktion im Rat der Stadt Münster vom 07.03.2014 - "Marketing-Aktivitäten außerhalb der Innenstadt verstärken" - einstimmig beschlossen
+- TOP 3: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2015 - zur Kenntnis genommen
+- TOP 4: Sachstandsbericht zur Projektentwicklung 2. städtische Gesamtschule - zur Beratung an den Rat weitergegeben
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Haushaltsplan 2015
+- TOP 5.1: Haushaltsplan der Stadt Münster für das Haushaltsjahr 2015 - mehrheitlich geändert beschlossen
+- TOP 6: Zuwendungen an die Fraktionen - einstimmig beschlossen
+- TOP 7: Ergänzungen zu den drei Vorlagen "Optimierung bürgerorientierter Dienstleistungen" - einstimmig geändert beschlossen
+- TOP 8: Prüfung der ortsveränderlichen elektrischen Betriebsmittel - einstimmig beschlossen
+- TOP 9: Dichtigkeitsprüfungen und Sanierungen von Gebäudeentwässerungsanlagen - mehrheitlich geändert beschlossen
+- TOP 10: Entwicklungen der Münsterschen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 11: Vorabgewinnausschüttung 2014 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 12: Lehranstalt für pharmazeutisch-technische Asssistenten/innen (PTA-Lehranstalt) - mehrheitlich beschlossen
+- TOP 13: Neuausrichtung Schulsozialarbeit - einstimmig geändert beschlossen
+- TOP 13.1: Neuausrichtung Schulsozialarbeit
+- TOP 14: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen - einstimmig geändert beschlossen
+- TOP 14.1: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen
+- TOP 15: Rahmenkonzept für Inklusion an Schulen - mehrheitlich geändert beschlossen
+- TOP 15.1: Rahmenkonzept für Inklusion an Schulen
+- TOP 16: Schulzentrum Roxel: Einrichtung eines Teilstandortes des Ludwig-Erhard-Berufskollegs
+- TOP 17: Nutzung des Bürgerbades Handorf für das Schul- und Vereinsschwimmen - einstimmig beschlossen
+- TOP 18: Erweiterung der DRK Kita Schatzkiste auf dem Gelände der ehem. York-Kaserne, Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 18.1: Erweiterung der DRK Kita Schatzkiste auf dem Gelände der ehem. York-Kaserne, Errichtungs- und Baubeschluss
+- TOP 19: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 19.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2015 - einstimmig beschlossen
+- TOP 19.2: Abfallgebühren 2015 - einstimmig beschlossen
+- TOP 19.3: Straßenreinigungsgebühren 2015 - einstimmig beschlossen
+- TOP 19.4: Änderung der Abwassergebührensatzung (AGS), - einstimmig beschlossen
+- TOP 19.5: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 20: Die Stadt lädt die GAYCOM nach Münster ein - einstimmig beschlossen
+- TOP 21: Modellprojekt Schülerhaushalt in Münster - einstimmig geändert beschlossen
+- TOP 22: Wirtschaftsplan 2015 der citeq - einstimmig beschlossen
+- TOP 23: Handlungsprogramm 2012 bis 2017 - 3. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 24: TTIP, CETA und TiSA ablehnen - Kein Eingriff in die kommunale Selbstverwaltung - ohne Beschlussfassung geschoben
+- TOP 25: Abfallwirtschaftbetriebe Münster - einstimmig beschlossen
+- TOP 26: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 27: Sachstand in der Umsetzung des Abfallwirtschaftskonzeptes - zur Kenntnis genommen
+- TOP 28: Wirtschaftsplan 2015 von Münster Marketing - einstimmig beschlossen
+- TOP 29: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterlands, Sachlicher Teilabschnitt Energie - mehrheitlich geändert beschlossen
+- TOP 30: Erfolgreiche Zertifizierung der Stadt Münster als flächensparende Kommune, Flächenbericht mit Handlungsprogramm "Flächensparende Entwicklung" und Analyse der Siedlungs- und Verkehrsflächenentwicklung in Münster - einstimmig beschlossen
+- TOP 31: Aktualisierung der Kleinräumigen Bevölkerungsprognose (KBP) 2009 - 2020 für den Zeitraum 2013 - 2020: Zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 32: 6. Fortschreibung des Abwasserbeseitigungskonzeptes 2015 der Stadt Münster - einstimmig beschlossen
+- TOP 33: Auslaufende Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Straße 60, 48145 Münster, ab dem Schuljahr 2015/2016 - einstimmig geändert beschlossen
+- TOP 33.1: Auslaufende Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Straße 60, 48145 Münster, ab dem Schuljahr 2015/2016
+- TOP 34: Errichtungsbeschluss : Neubau einer zweigruppigen Kindertageseinrichtung am Bohlweg, Innenstadtring - einstimmig beschlossen
+- TOP 34.1: Errichtungsbeschluss : Neubau einer zweigruppigen Kindertageseinrichtung am Bohlweg, Innenstadtring
+- TOP 35: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - mehrheitlich beschlossen
+- TOP 35.1: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V.
+- TOP 36: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2013 - zur Kenntnis genommen
+- TOP 37: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2015 - einstimmig beschlossen
+- TOP 38: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014 - einstimmig beschlossen
+- TOP 38.1: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014
+- TOP 39: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Roxel, Pienersallee, und Anpassung der Personalsituation in verschiedenen Aufgabenbereichen - einstimmig beschlossen
+- TOP 40: Kommunale Stärkung gemeinschaftsorientierter Bau- und Wohnformen - einstimmig geändert beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Mitte
+- TOP 41.1.1: Veränderungssperre Nr. 105, Erste Verlängerung - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk West
+- TOP 41.2.1: Bebauungsplan Nr. 546 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 41.2.1.1: Bebauungsplan Nr. 546 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 41.3: Stadtbezirk Hiltrup
+- TOP 41.3.1: Neuordnung Sportpark Berg Fidel - 55. Änd. FNP - Aufheb.Bpl. 183 - Aufst. Bpl. 568 - Strukt.konz. - einstimmig geändert beschlossen
+- TOP 41.4: Stadtbezirk Nord
+- TOP 41.4.1: Bebauungsplan Nr. 549 und Erhaltungs- und Gestaltungssatzung in der Siedlung "Dachsleite" - einstimmig beschlossen
+- TOP 41.5: Stadtbezirk Südost
+- TOP 41.5.1: Bebauungsplan Nr. 556 - Beschluss über die Stellungnahmen und Satzungsbeschluss - einstimmig beschlossen
+- TOP 41.5.2: Bebauungsplan Nr. 555 und Erhaltungs- und Gestaltungssatzung in der Siedlung "Zum Erlenbusch" - einstimmig beschlossen
+- TOP 42: Verschiedenes
