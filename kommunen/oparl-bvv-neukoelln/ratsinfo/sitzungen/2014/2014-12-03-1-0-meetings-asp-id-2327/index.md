@@ -1,0 +1,102 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2014-12-03T17:00:00+01:00
+- Ende: 2014-12-03T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2327
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2327
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=105&id=52141
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Neukölln sagt Nein zu TTIP - überwiesen
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl zweier Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Weitere Flüchtlingunterkunft - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Werbung der Freiwilligen Feuerwehr in Rudow - beantwortet
+- TOP 9.3: Zukunft des Britzer Weingut e.V. - beantwortet
+- TOP 9.4: Sondergruppe im Jugendamt - beantwortet
+- TOP 9.5: Neue Abteilung im Jugendamt für Intensivtäter aus Großfamilien? - beantwortet
+- TOP 9.6: Landesprogramm Jugend Demokratiefond und Jugendnetz-berlin - beantwortet
+- TOP 9.7: Erfassung von Schulversäumnissen - schriftlich beantwortet
+- TOP 9.8: Ehemalige Seniorenfreizeitstätte Alt Britz - schriftlich beantwortet
+- TOP 9.9: Pilotprojekte Grundwasser - schriftlich beantwortet
+- TOP 9.10: Zusammenarbeit des Bezirks mit dem Verband der Reservisten der Deutschen Bundeswehr e. V. - schriftlich beantwortet
+- TOP 9.11: Probejahr 2014/15 - schriftlich beantwortet
+- TOP 9.12: 300.000 Euro für das BUZ nicht genutzt? - schriftlich beantwortet
+- TOP 9.13: Bildungsträger LIFE e.V. - schriftlich beantwortet
+- TOP 9.14: Aktueller Stand Milieuschutzgebiete - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: 50% Kostensteigerung durch PeWoBe? - beantwortet
+- TOP 10.2: Wohnungsleerstand und "geschütztes Marktsegment" - beantwortet
+- TOP 10.3: Zwangsverrentung durch das Jobcenter - beantwortet
+- TOP 10.4: Schließung des Frauentreffpunkt Schmiede -- (Schriftliche Beantwortung) -- - schriftlich beantwortet
+- TOP 10.5: Umfragen zur Nutzung der Jugendfreizeiteinrichtungen in Neukölln - schriftlich beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Kinderärztliche Versorgung auch an Feiertagen gewährleisten - in der BVV abgelehnt
+- TOP 11.2: Sommerschule Neukölln - in der BVV abgelehnt
+- TOP 11.3: Medienkisten für Willkommensklassen in Neuköllner Grundschulen - in der BVV abgelehnt
+- TOP 11.4: Lichtzeichenanlage für Fußgänger*innen in der Lahnstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Projekt „Stadtteilmütter“ - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: BSR - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Ausschreibung für Wachschutz an Schulen aussetzen - in der BVV abgelehnt
+- TOP 11.8: Personalabbau stoppen, Personalentwicklung starten - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Genehmigung der im Haushaltsjahr 2013 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Gefährlichen Chemikalienbestand entsorgen - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Zukunft der Flüchtlingsunterkunft Haarlemer Str. - beantwortet
+- TOP 12.2: Buckower Felder - beantwortet
+- TOP 12.3: Rückkauf des Grundstücks und Betrieb der Flüchtlingsunterkunft Späthstraße - beantwortet
+- TOP 12.4: Erkenntnisse aus der Landesgesundheitskonferenz - vertagt
+- TOP 12.5: Zukunft der "Frauenschmiede" - vertagt
+- TOP 12.6: Bürgerbegehren Buckower Felder vom Bezirk ausgehebelt? - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Präventionskette im Lebensverlauf - überwiesen
+- TOP 14.2: Führungsschienen für Fahrräder auf dem Elsensteg - überwiesen
+- TOP 14.3: Keine Kooperation mit Straftätern - vertagt
+- TOP 14.4: Rückkauf des Grundstücks der Flüchtlingsunterkunft Späthstraße - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Neue Schule an der Oderstraße - überwiesen
+- TOP 14.6: Beeinflussung der Lichtsignalanlage Karl-Marx-Straße/Emser Straße-Seidelstraße überarbeiten - überwiesen
+- TOP 14.7: Krankenversicherungschipkarte für Asylbewerber/innen (Bremer Modell) - überwiesen
+- TOP 14.8: Kein Abriss preiswerter Wohnungen in Neukölln - überwiesen
+- TOP 14.9: Kinderbücher in verschiedenen Sprachen für Flüchtlingskinder - überwiesen
+- TOP 14.10: Neukölln gegen TTIP, CETA, TiSA - überwiesen
+- TOP 14.11: Radverkehr in der Oderstraße sicherer machen - überwiesen
+- TOP 14.12: Geschützte Räume in Schwimmbädern für trans und intersexuelle Menschen schaffen - überwiesen
+- TOP 14.13: Einrichtung von Workshops für neu angemeldete Schüler*innen an Integrierten Sekundarschulen ohne gymnasiale Oberstufe - überwiesen
+- TOP 14.14: Beeinflussung der Lichtsignalanlagen in der Karl-Marx-Straße von Saalestraße bis Lahnstraße - überwiesen
+- TOP 14.15: Baumscheiben erhalten - überwiesen
+- TOP 14.16: Evaluation der Einbürgerungsfeiern - vertagt
+- TOP 14.17: Britzer Weinkultur erhalten - vertagt
+- TOP 14.18: Bedarfsermittlung von versetzungsgefährdeten Schüler*innen - überwiesen
+- TOP 14.19: Erhaltung des Standortes "Frauenschmiede" - überwiesen
+- TOP 14.20: Ankauf des Grundstücks an der Haarlemer Straße - gegenstandslos
+- TOP 14.21: Bebauung Buckower Felder - mit Änderungen in der BVV beschlossen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Geräuschbelästigung der Anwohner in der Neuköllner Straße durch die neue Bus-Wendekehre der BVG - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Ersatzverbindung für gesperrte U-Bahnlinie 8 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Wildes Parken in der Waßmannsdorfer Chaussee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Wachschutz abschaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Park and Ride auf dem Marktplatz Britz-Süd - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Denkmalschutz für Eternit-Hallen aufheben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Keine Wiedereinführung der Wohnberechtigungsscheine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Betriebszeitverlängerung der Buslinie 272 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Haltepunkt Lieselotte-Berger-Straße für den Bus X7 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Begrenzung der Mieterhöhungen in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Änderung der Verkehrszeichen Köpenicker Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Fußgängerquerungshilfe (Fußgängerüberweg) in der Fritz-Reuter-Allee - mit Abschlussbericht zur Kenntnis genommen
