@@ -1,0 +1,59 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-12-04T17:00:00+01:00
+- Ende: 2014-12-04T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSoZl-r5tCV8mSZL82J6emQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4371
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPAHFOmt5hFrZCrAoYTJABHKa7LwQdR5korPf45uHYn/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_04.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Eingabe gemäß § 24 Gemeindeordnung Nordrhein-Westfalen
+- TOP 4: Eingabe gemäß § 24 Gemeindeordnung Nordrhein-Westfalen
+- TOP 5: Ältestenrat der Stadt Solingen
+- TOP 6: Unterausschuss Gender, Inklusion und demografische Entwicklung
+- TOP 7: 38. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 8: Zusammensetzung der Kommunalen Gesundheitskonferenz
+- TOP 9: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 10: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 11: Stadtwerke Aue
+- TOP 12: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 13: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 14: Regionales Strukturprogramm für die neue EU-Förderperiode 2014 - 2020
+- TOP 15: Regionales Strukturprogramm für die neue EU-Förderperiode 2014 - 2020
+- TOP 16: Regionales Strukturprogramm für die neue EU-Förderperiode 2014 - 2020
+- TOP 17: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 18: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 19: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 20: Verkaufsoffene Sonntage im Jahr 2015
+- TOP 21: Verkaufsoffene Sonntage im Jahr 2015
+- TOP 22: Organisationsveränderungen im Stadtdienst Büro Oberbürgermeister
+- TOP 23: Gleichstellungsplan 2014 zur Gleichstellung von Frauen und Männern innerhalb des Konzerns der Stadt Solingen
+- TOP 24: Stellenpool in den städtischen Kindertagesstätten
+- TOP 25: Stellenplannachtrag 2015
+- TOP 26: Übertragung von Ratssitzungen ins Internet
+- TOP 27: Etatberatungen für das Haushaltsjahr 2015 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2018 und des Haushaltssanierungsplanes 2015 ff.
+- TOP 28: Verschiedenes
+- TOP 29: Spielhallen in Solingen
+- TOP 30: Organisationsveränderungen im Stadtdienst Büro Oberbürgermeister
+- TOP 31: Stiftung Bergische Symphoniker
+- TOP 32: Stiftung Bergische Symphoniker
+- TOP 33: Stiftung Bergische Symphoniker
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Beförderung eines Beamten
+- TOP 4: Geschäftsführungen Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Solinger Bädergesellschaft mbH (SBG)
+- TOP 5: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 6: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 7: Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH (BIP)
+- TOP 8: Verschiedenes
+- TOP 9: Übertragung von Ratssitzungen ins Internet
