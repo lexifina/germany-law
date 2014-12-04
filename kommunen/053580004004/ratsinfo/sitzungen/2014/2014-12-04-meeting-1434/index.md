@@ -1,0 +1,54 @@
+# Gemeinderat (5. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2014-12-04T18:00:00+01:00
+- Ende: 2014-12-04T21:45:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZU5lsnvYvplPWeKE-cZ8_lc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1434
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMqpK5ocug6WDLGCt0SMY4d-L8VpIquI3BQQwg41wp_/Bekanntmachung_Gemeinderat_04.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV1sz2hjbKqCs4SSSPk0rXox7Ipc0t_QaywncEvlSJMb/Oeffentliche_Niederschrift_Gemeinderat_04.12.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.11.2014 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Bebauungsplan 15 A - 25. Änderung - Karl-Arnold-Ring - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 3.2: 1. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - a.) Abschluss eines städtebaulichen Vertrags gem. § 11 BauGB zur Aufstellung der 1. Änderung der 23. Änderung des Bebauungsplans 15 A - Autohaus Chorus - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13 Abs. 2 Ziff. 2 und 3 BauGB i.V.m. § 13a BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Freizeitheim Engelsdorf; Sanierung Wasserschaden - Einstimmig, 2 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Schul- und Sozialausschusses
+- TOP 4.1: Förderschullandschaft im Kreis Düren unter Berücksichtigung des 9. Schulrechtsänderungsgesetzes und der Mindestgrößenverordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Satzung des Schulzweckverbandes Aldenhoven-Linnich für die interkommunale Gesamtschule Aldenhoven-Linnich - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Satzungen, Ortsrecht
+- TOP 5.1: Gebührenkalkulation 2015 für die Gewässerunterhaltungsgebühr
+- TOP 5.1.1: Gebührenkalkulation 2015 für die Gewässerunterhaltungsgebühr - 18 Ja-Stimme(n), 5 Nein-Stimme(n), 2 Stimmenthaltung(en)
+- TOP 6.: Sachstandsberichte der Verwaltung
+- TOP 6.1: Vorstellung des "Campus Aldenhoven"
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Feststellung des Gesamtabschlusses für das Haushaltsjahr 2013 - Einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Ermächtigungsübertragungen nach § 22 GemHVO - Zur Kenntnis genommen
+- TOP 7.3: Besuche zu Ehe- und Altersjubiläen - Abgesetzt
+- TOP 7.4: Verabschiedung des Haushalts- und Sanierungsplans 2015 - 19 Ja-Stimme(n), 5 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 7.5: Stellenplan für das Jahr 2015 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Satzungen, Ortsrecht
+- TOP 8.1: Gebührenkalkulation Abfallbeseitigung - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Anträge von Fraktionen
+- TOP 9.1: Antrag der FWG-Fraktion hier: Gewinnung von Erdgas mit der Methode des "Fracking" - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sanierung des Ascheplatzes in Freialdenhoven - Einstimmig, 0 Enthaltung(en)Ratsherr Poullig empfiehlt dringend, bei allen Ascheplätzen eine regelmäßige Pflege durchzuführen.Bürgermeister Claßen teilt auf Anfrage von Ratsherrn Jansen mit, dass die Gemeindeprüfungsanstalt zurzeit prüft, wann sie mit der
+- TOP 11.: indeland; Aufstellung von Willkommens- und Informationsschildern in allen Ortsteilen - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Vorstellung des Verwaltungsberichtes 2013
+- TOP 12.2: Ausführung des Haushalts
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.11.2014 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Sachstandsberichte der Verwaltung
+- TOP 3.1: Interkommunale Zusammenarbeit
+- TOP 4.: Verschiedenes
