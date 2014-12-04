@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 1. Sitzung des Ausschusses für Energie der Ortsgemeinde Insheim (2014-12-04)
+- Körperschaft: Ortsgemeinde Insheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2014-308-16%7Czt_0%7C2
