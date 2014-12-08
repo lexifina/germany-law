@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2014-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3082209
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3082209
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Einseitiges Parkverbot in der Straße Am Wiesenhang von der Einmündung Heiglhofstraße bis Waldklausenweg
+- TOP 1.2.: Bauliche Mängel bei den Übergängen an den Radwegen in der Ossingerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung: Errichtung eines Spielplatzes in der Gräfelfinger Straße (Baureferat, 27.11.14)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Gräfelfinger Straße 66 - 70 c, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums (Referat für Stadtplanung und Bauordnung, 03.11.14) (vertagt aus 11/14)
+- TOP 6.2.: Guardinistraße 109 - 123, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums (Referat für Stadtplanung und Bauordnung, 03.11.14) (vertagt aus 11/14)
+- TOP 6.3.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete (Direktorium, 10.11.14)
+- TOP 6.4.: Guardinistraße 129 - 143, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums (Guardinistraße 129 - 143 / Karl-Witthalm-Straße 3 - 13) (Referat für Stadtplanung und Bauordnung, 18.11.14)
+- TOP 6.5.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24:00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen (Kreisverwaltungsreferat, 13.11.14)
+- TOP 6.6.: Beschlussentwurf für den Kinder- und Jugendhilfeausschuss: Teileigentumserwerb / Anmietung von Räumen für das Familien- und Beratungszentrum Friedenheim, Ludlstraße (Stadtbezirk 20, Kleinhadern) - Soziale Infrastruktur für das Neubaugebiet (Sozialreferat, 13.11.14)
+- TOP 6.7.: Planung der Einsätze der Münchner SommerSpielAktion 2015 (Pädagogische Aktion / Spielen in der Stadt e.V., 26.11.14)
+- TOP 6.8.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen; Pkw-Parkzone (Kreisverwaltungsreferat, 28.11.14)
+- TOP 6.9.: Änderung der Bezirksausschusssatzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros (Direktorium, 01.12.14)
+- TOP 6.10.: Änderung der Bezirksausschusssatzung; Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung (Direktorium, 01.12.14)
+- TOP 6.11.: Schlüsselblumenweg 7, Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSChG), hier: Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag in die Denkmalliste (Referat für Stadtplanung und Bauordnung, 27.11.14)
+- TOP 6.12.: Erinnerungsverfahren: Wastl-Witt-Straße - Halt Wastl-Witt-Straße - Bus 168, Bushaltestelle (Baureferat, 02.12.14)
+- TOP 7: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Eichenstraße 28 d, 1 Schwarzkiefer
+- TOP 7.1.2.: Georginenstraße 15 b, 1 Kastanie
+- TOP 7.1.3.: Heiglhofstraße 71 - 107, 1 Vogelkirsche
+- TOP 7.1.4.: Langbehnstraße 22, 1 Esche
+- TOP 7.1.5.: Waldgartenstraße 57, 8 Fichten
+- TOP 7.1.6.: Wilhelm-Weitling-Straße 23, 1 Birke
+- TOP 7.1.7.: Guardinistraße 129 - 143 / Karl-Witthalm-Straße 3 - 13, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 23316
+- TOP 7.1.8.: Terofalstraße 27, 4 Robinien und 1 Ahorn
+- TOP 7.1.9.: Veilchenstraße 30, 1 Hainbuche
+- TOP 7.1.10.: Pelargonienweg 23 a, 2 Birken
+- TOP 7.1.11.: Vingerstraße 14 a, 2 Birken und 1 Eberesche
+- TOP 7.1.12.: Am Waldrand 11, gem. Baumbestandsplänen Nrn. 26275 und 26276
+- TOP 7.1.13.: Windeckstraße 3, 2 Fichten und 2 Thujen
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.2.1.: Liste des Baureferates vom 03.11.14
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Vingerstraße (Sozialreferat, 30.10.14) - An der Rehwiese (Sozialreferat, 10.11.14)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Immastraße; Haltverbot (Kreisverwaltungsreferat, 13.11.14)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Einführung einer "Rechts-vor-links"-Regelung in der Ossingerstraße (Kreisverwaltungsreferat, 17.11.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verunreinigung im Umfeld der Schulanlage Blumenauer Straße 11 (Referat für Bildung und Sport, 11.11.14)
+- TOP 9.4.: Prüfung der Voraussetzungen der Tempo 30 Zone in der Ossingerstraße (Kreisverwaltungsreferat, 21.11.14)
+- TOP 9.5.: Projekt Waldwiesenstraße Haltestelle "Großhadern" (Baureferat, 21.11.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Fahrkartenautomat an der Bushaltestelle Lorettoplatz (MVG, 13.10.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Austausch mit dem Kommunalreferat (Kommunalreferat, 03.11.14)
+- TOP 11.2.: 18.jetzt - Das Fest für junge Münchnerinnen und Münchner am 11.10.2014 im Rathaus (BA 2 Ludwigsvorstadt-Isarvorstadt, 07.11.14)
+- TOP 11.3.: Zerstörung der Grünanlage und Müllablagerung an der östlichen Grundstücksgrenze der LMU hin zur Haseneystraße (Sackgasse) durch Passanten
+- TOP 11.4.: Sachbericht zum Tanz- und Theaterfestival "Rampenlichter" vom 09. - 19.07.2014 (Spielen in der Stadt e.V., 20.11.14)
+- TOP 11.5.: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk (Direktorium, 25.11.14)
+- TOP 11.6.: Bürgerforum Altenpflege vom 28.10.2014 (Direktorium, Beschwerdestelle für Probleme in der Altenpflege, 26.11.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse (1)
+- TOP 1.1.1.: Beschluss vom 01.10.2014 zur Sitzungsvorlage-Nr. 14-20 / V 00915 (nach Antrag): Mieterbeirat Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirkes (Charlotte Böhmler / BA 1, Matthias Jörg / BA 7)
+- TOP 1.2: Referentenanträge (1)
+- TOP 1.2.1.: Neufassung vom 13.11.2014 des Beschlusses des Planungsausschusses vom 20.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01223: Ehrenpreis für guten Wohnungsbau Zustimmung zur Durchführung 2015 Das Planungsreferat wird beauftragt, den Ehrenpreis nach Auslobung in 2015 durchzuführen. Der Stadtrat stimmt der Namensänderung, der Neueinteilung in Kategorien, der Reduktion der Ehrenpreise von 18 auf 12 sowie der Neuzusammensetzung der ehrenamtlichen Gutachterkommission zu. Über die Verleihung der Preise entscheidet der Planungsausschuss.
+- TOP 2: Senatsbeschlüsse
+- TOP 2.1: Gefasste Beschlüsse (2)
+- TOP 2.2: Referentenanträge (2)
+- TOP 2.2.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01334: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere für - das ASZ Kleinhadern-Blumenau (Ansatz für 2015 = 226.881,- ? nach 215.954,- ? in 2014, Anlage, S. 4, Abschnitt 5.4.1, lfd. Nr. 10) und - die Altenwohnanlage an der Konrad-Dreher-Straße 19 - 23 (Ansatz für 2015 = 55.256,- ? nach 54.173,- ? in 2014, Anlage, S. 10, Abschnitt 5.4.2, lfd. Nr. 43, bisher 28)
+- TOP 2.2.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01349: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere für - das "Kinderhaus am Wolkerweg" (208.808,- ? nach 204.714,- ? in 2014, Anlage, S. 7, Abschnitt 3.1.1., lfd. Nr. 56), - den "pfiffTEEN Treffpunkt für Jugendliche" (337.907,- ? nach 331.281,- ? in 2014, Anlage, S. 7, Abschnitt 3.1.1, lfd. Nr. 57), - den "Treff 21, Schule-Beruf e.V." (375.407,- ? nach 368.046,- ? in 2014, Anlage, S. 10, Abschnitt 3.1.1, lfd. Nr. 66), - das "Studio im Netz, SiN e.V." (89.226,- ? nach 87.476,- ? in 2014, Anlage, S. 10, Abschnitt 3.1.1, lfd. Nr. 108), - die "Schulsozialarbeit an der Grundschule an der Blumenauer Str." durch den Verein "Schule-Beruf e.V." (57.307,- ? nach 56.183,- ? in 2014, Anlage, S. 13, Abschnitt 3.1.2, lfd. Nr. 4), - die "Schule für Kranke" (Erhöhung des Einzelansatzes um 35.000,- ? im Rahmen des "Bildungs- und Teilhabepakets" im Bereich der "Schul- und Sozialarbeit", Anlage, S. 14, Abschnitt 3.1.2),
+- TOP 2.2.3.: - das "Familienzentrum Hadern-Blumenau" des Caritasverbandes der Erzdiözese München und Freising (69.395,- ? nach 68.034,- ? in 2014 zur "Sicherung der Qualität der Verwaltungskräfte durch Festanstellung", Anlage, S. 19, Abschnitt 3.2.1, lfd. Nr. 13) und - die "Nachbarschaft Neuhadern, Bewohnertreff" des DPWV (108.009,- ? nach 105.891,- ? in 2014, Anlage, S. 23, Abschnitt 3.2.2, lfd. Nr. 2)
+- TOP 2.2.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01336: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, insbesondere für "REGSAM" (578.063,- ? nach 566.728,- ? in 2014, Anlage, S. 3, Abschnitt 7.3.2, lfd. Nr. 1)
+- TOP 2.2.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01362: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere für - den "Nachbarschaftstreff Blumenau" des Vereins für Sozialarbeit e.V. (57.342,- ? nach 56.217,- ? in 2014, Anlage, S. 10, Abschnitt 4.1.7, lfd. Nr. 8) und - die "Nachbarschaft Kleinhadern, Na klar!" ("vorläufig" 15.759,- ? nach 15.450,- ? in 2014. Beantragt sind vom Träger 49.897,- ?. Der Referentenantrag ist noch nicht aktualisiert und abgestimmt. Eine 1. Prüfung ergibt einen "unverzichtbaren Mehrbedarf", Anlage, S. 12, Abschnitt 4.1.7, lfd. Nr. 31.)
+- TOP 3: Vorberatende Ausschüsse
+- TOP 3.1: Gefasste Beschlüsse (3)
+- TOP 3.1.1.: Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschusses vom 14.10.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01005 (nach Antrag): Beschleunigung der Buslinien 56 und 166 Projektkosten (Obergrenze) 3.185.000,- ? 1. Projektgenehmigung (vorbehaltlich einer Zuwendung nach dem Bayer. Gemeindeverkehrsfinanzierungsgesetz (BayGVFG) und dem Bayer. Finanzausgleichsgesetz (BayFAG)) 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Änderung des Entwurfs des Mehrjahresinvestitionsprogrammes 2014 - 2018, insbesondere zur "Buslinie 56". Diese ist eine "MetroBusLinie" und verkehrt in der morgendlichen Hauptverkehrszeit im 6-7-Minuten-Takt, ansonsten tagsüber im 10-Minuten-Takt. Derzeit werden Gelenkbusse eingesetzt, ab 2016 Bus-Züge (S. 2). Die Beschleunigung erfolgt insbesondere auf dem Abschnitt zwischen dem "Pasinger Marienplatz" und "Fürstenried-West". Die Gesamtstrecke beträgt 11,6 km mit 29 Haltestellen.
+- TOP 3.1.2.: Als "wichtige Umsteigepunkte" werden die U-Bahnhaltestelle "Großhadern", "Marchioninistraße" und "Max-Lebsche-Platz" genannt (S. 3). Insgesamt müssen zur Sicherung der "ÖPNV-Vorrangschaltung" 20 Lichtzeichenanlagen (LZA) umgebaut oder ausgetauscht werden. In Hadern werden 4 Anlagen (lfd. Nrn. 10 - 13) ausgetauscht und eine umgebaut, nämlich an der Kreuzung "Marchionini- / Sauerbruchstraße" (S. 3, lfd. Nr. 14). Die Haltestelle "Am Ährenfeld" wird in beiden Fahrtrichtungen zu "barrierefreien Buskaps mit Wartehallen" ausgebaut (S. 4). 6 Bäume müssen gefällt werden. Der Reisezeitgewinn beträgt 7 Minuten = 10% der bisherigen Fahrzeit. 1 Bus kann eingespart werden (S. 4). An 2 Kreuzungen sollen die Grünzeiten optimiert werden ("Ammersee- / Silberdistelstraße" und "Sauerbruch- / Würmtalstraße", S. 6). Die Fertigstellung wird bis zum Fahrplanwechsel am Sonntag, 13.12.2015, angestrebt. Die Gesamtkosten der Beschleunigung betragen einmalig 3.185.000,- ?, denen eine jährliche Minderung der Betriebskosten um 200.000,- ? gegenübersteht. Ein Teilbetrag von 1,7 Mio. ? wird in die "InvListe 1" des MIP eingestellt (S. 9). Die 3 betroffenen Bezirksausschüsse, insbesondere auch Hadern, haben der Maßnahme zugestimmt (S. 10).
+- TOP 3.2: Referentenanträge (3)
+- TOP 3.2.1.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01401: Entwurf des Mehrjahresinvestitionsprogramms 2014 - 2018 Einzelplan 4 / Jugendamtsbereich, insbesondere zur bereits vorgesehenen Generalsanierung des "Treff 21", Terofalstraße 60 (S. 9). Auf die Stellungnahme des BA Hadern vom 15.04.2014 und die zu Grunde liegenden Anträge der SPD-, Grünen- und CSU-Fraktion, denen allen zugestimmt wurde, wird Bezug genommen (Anlage 6).
+- TOP 3.2.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01386: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2014 - 2018 Einzelplan 4 / Sozialbereich, insbesondere zum Sozialbürgerhaus an der Plinganserstraße. Auf den Antrag des BA Hadern vom 15.04.2014, Punkte 17 und n, sowie die Stellungnahme des Sozialreferates (S. 19 - 20, Abschnitt 3.5) wird Bezug genommen.
+- TOP 3.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01361: Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Zu Punkt 1 des Antrages des BA Hadern auf "Lärm- und Abgasschmutzmaßnahmen für die gesamte Länge und beide Seiten der A 96" vom 15.04.2014 nimmt das Planungsreferat, wie folgt, Stellung: Der Planungsausschuss hat mit Beschluss vom 11.12.2013 die Finanzierung einer "Vorstudie für eine Machbarkeitsuntersuchung zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation an der A 96" beschlossen. Diese soll als "Voruntersuchung sowie die Entwicklung des Leistungsbildes für eine Machbarkeitsstudie" beinhalten und wird demnächst ausgeschrieben (Anlage 9).
+- TOP 3.2.4.: Hinweis / Ergänzung vom 05.11.2014 und Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01656: Mehrjahresinvestitionsprogramm 2014 - 2018 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 - 2018 Infrastrukturversorgungskonzept 2014 - 2018 Die Ergänzung betrifft "Freiham". Das letzte Projekt in Hadern an der Sauerbruchstraße ist in 2012 abgeschlossen worden.
+- TOP 4: Bekanntgaben
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01713: Internationale Fachkonferenz "Walk21" in München 2013 Abschlussbericht und Zwischenstand von Projekten zur Verbesserung der Nahmobilität (Nettokosten für die Stadt = 283.110,88 ?, S. 4)
+- TOP 13: Nichtöffentliche Sitzung
