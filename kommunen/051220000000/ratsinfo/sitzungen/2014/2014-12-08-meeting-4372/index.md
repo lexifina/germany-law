@@ -1,0 +1,61 @@
+# Finanzausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-12-08T09:30:00+01:00
+- Ende: 2014-12-08T10:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUOtNkIwNT0AngccgLUhnB0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4372
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd-1NBVYexZhcaDzlPY6ohe-OwE_ypDSRw-dH8ccuhfP/Oeffentliche_Niederschrift_Finanzausschuss_08.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 2.Sitzung am 06.11.2014
+- TOP 3: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Stadtbibliothek Solingen (Entgeltordnung)
+- TOP 4: Walter-Bremer-Institut
+- TOP 5: Investitions- und Sanierungsmaßnahmen an Schulen einschließlich Inklusionsanteile
+- TOP 6: Zustimmung zu einer überplanmäßigen investiven Auszahlung
+- TOP 7: Erhöhung der Hundesteuer
+- TOP 8: Überplanmäßige Ausgabe wegen der Verzinsung von Steuererstattungen
+- TOP 9: Überplanmäßige Ausgaben für Hilfen zur Erziehung
+- TOP 10: Gebührenbedarfsberechung 2015
+- TOP 11: Abfallwirtschaftssatzung der Stadt Solingen
+- TOP 12: I. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 13: Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 14: I. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 15: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 16: 1. Änderungssatzung zur Friedhofssatzung und Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 17: Wirtschaftsplan 2015 der Technischen Betriebe Solingen
+- TOP 18: Ergebnisse Klimaschutzteilkonzept „eigene Liegenschaften“
+- TOP 19: Übertragung von Ratssitzungen ins Internet
+- TOP 20: 3. Quartalsbericht zum Ergebnisplan des Haushalts 2014 und HSP-Controlling
+- TOP 21: Aufgabenverlagerung ohne vollständigen finanziellen Ausgleich
+- TOP 22: Themenplan Finanzausschuss 2015
+- TOP 23: Etatberatungen für das Haushaltsjahr 2015 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2018 und des Haushaltssanierungsplanes 2015 ff.
+- TOP 24: Verschiedenes
+- TOP 25: Ausgaben im Kulturmanagement
+- TOP 26: Zuschüsse für den Botanischen Garten
+- TOP 27: Anfragen zum Thema Gewerbesteuer
+- TOP 28: HSP-Maßnahme M251 (Klimaschutzkonzept)
+- TOP 29: Neukonzeption Kinderheim Kannenhof/Kinderhaus Kuckesberg
+- TOP 30: Haushaltsplan 2015 – ILV Gebäude Schulen
+- TOP 31: Bildungspauschale
+- TOP 32: Stiftung Bergische Symphoniker
+- TOP 33: Stiftung Bergische Symphoniker
+- TOP 34: Schulsozialarbeit
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 2. Sitzung am 06.11.2014
+- TOP 3: Grundstücksübertragung zwischen den Technischen Betrieben Solingen und der Kernverwaltung
+- TOP 4: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Eigenkapitalausstattung
+- TOP 5: Verkauf einer städtischen Liegenschaft
+- TOP 6: Verkauf einer städtischen Liegenschaft
+- TOP 7: Vermarktung Stadion am Hermann-Löns-Weg
+- TOP 8: Vergaben und Vertragsabschlüsse über 50.000 Euro, Berichtszeitraum 01.08.2014 bis 31.10.2014 sowie An- und Verkauf von Grundstücken über 50.000 Euro bis 250.000 Euro, Berichtszeitraum 01.08.2014 bis 31.10.2014
+- TOP 9: Übertragung von Ratssitzungen ins Internet
+- TOP 10: Verschiedenes
