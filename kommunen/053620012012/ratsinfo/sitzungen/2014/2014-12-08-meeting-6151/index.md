@@ -1,0 +1,56 @@
+# Rat (17. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2014-12-08T18:00:00+01:00
+- Ende: 2014-12-08T19:38:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVo8raYxPI1BuPRtL0KuIHU
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6151
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVV0KXYutY5GUs3JPh8As9zab1qYfjTaqy2m24XlBLV6/Bekanntmachung_Rat_08.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR5iqg88y9AeVJxinaYOHlDOwwsCUQJogbKpRQpAbF-P/Oeffentliche_Niederschrift_Rat_08.12.2014.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 03.11.2014
+- TOP 3.: Wahl einer/eines Beigeordneten - (kein Text vorhanden)
+- TOP 4.: Über-/Außerplanmäßige Mittelbereitstellung
+- TOP 4.1: Überplanmässige Mittelbereitstellung BV Umgestaltung Uhlstraße und Kreisverkehr Pingsdorfer/ Liblarer Straße - (kein Text vorhanden)
+- TOP 4.2: Überplanmäßige Mittelbereitstellung Ertüchtigung des MW-Rückhaltebeckens in Brühl-Vochem und des Schieberbauwerks Palmersdorfer Bach (Elektrische Ausrüstung) - (kein Text vorhanden)
+- TOP 4.3: Außerplanmäßige Mittelbereitstellung Lieferung eines Kastenwagens mit 3,0 t Anhängerlast für die Kläranlage der Stadt Brühl - (kein Text vorhanden)
+- TOP 4.4: Rahmenplanung Innenstadt - (kein Text vorhanden)
+- TOP 4.5: Leistungen nach Asylbewerberleistungsgesetz (AsylbLG) hier: überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 5.: Auslobung eines Kunstwettbewerbs zur Gestaltung des Kreisverkehrs "Liblarer Straße/Uhlstraße/Pingsdorfer Straße" - (kein Text vorhanden)
+- TOP 6.: Satzungsänderungen
+- TOP 6.1: 7. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 6.2: 13. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Krankentransport und die Notfallrettung in der Stadt Brühl -Satzung Rettungsdienst- hier: Gebühr für den Rettungswagen und das Notarzteinsatzfahrzeug - (kein Text vorhanden)
+- TOP 7.: Flächendeckende Einführung der Biotonne - (kein Text vorhanden)
+- TOP 7.1: Flächendeckende Einführung der Biotonne - (kein Text vorhanden)
+- TOP 8.: Parkplatzbenutzungsgebühren Janshof - (kein Text vorhanden)
+- TOP 9.: Frauenförderplan - (kein Text vorhanden)
+- TOP 10.: Wahl des Integrationsrates am 25.05.2014 Gültigkeit der Wahl nach Neu-Feststellung des Wahlergebnisses - (kein Text vorhanden)
+- TOP 11.: Änderung der Rechnungsprüfungsordnung - (kein Text vorhanden)
+- TOP 12.: Prüfung Gesamtabschluss 2011 - (kein Text vorhanden)
+- TOP 13.: Prüfung Jahresabschluss 2013 - (kein Text vorhanden)
+- TOP 14.: Beteiligungsbericht 2013 - (kein Text vorhanden)
+- TOP 15.: Anträge
+- TOP 15.1: Verwaiste Brühler Immobilien Bezug: Antrag der Fraktion Linke&Piraten vom 24.11.2014
+- TOP 15.2: Gründung einer Anstalt öffentlichen Rechts (AöR) Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 25.11.2014
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Jugendhilfeausschuss hier: Bestellung eines stellvertretenden Mitglieds Bezug: RAT 23.6.2014 - (kein Text vorhanden)
+- TOP 16.2: Umbesetzungen in verschiedenen Ausschüssen Bezug: Antrag der SPD-Fraktion vom 28.11.2014
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Erfüllung gesetzliche Beschäftigungsquote für Schwerbehinderte Bezug: Anfrage der Fraktion Linke&Piraten vom 19.11.2014
+- TOP 18.1.1: Erfüllung der gesetzlichen Beschäftigungsquote für Menschen mit einer Schwerbehinderung - (kein Text vorhanden)
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Verkauf eines Grundstücks in der Gemarkung Brühl, Bergerstraße - (kein Text vorhanden)
+- TOP 20.: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 21.: Ankauf von Ökopunkten - (kein Text vorhanden)
+- TOP 22.: Bericht über die 122. Sitzung des Aufsichtsrates der REVG mbH am 03.09.2014 - (kein Text vorhanden)
+- TOP 23.: Mitteilungen
+- TOP 24.: Anfragen
