@@ -1,0 +1,62 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2014-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3194970
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3194970
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.4.: Gefährliche Unterführung an der Werinherstraße Bürgeranliegen von Herrn J. vom 21.11.2014
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8.1: Einzelfälle
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: Budgetantrag: Antragsteller: Elternbeirat Lincoln Grundschule, Veranstaltung: Gewaltprävention, Antragssumme: 1.300,00 ?
+- TOP 5.1.: Anhörung zur Änderung der BA-Satzung, Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete, Anhörung Direktorium vom 10.11.2014 (vertagt aus der Sitzung vom 11.11.2014)
+- TOP 5.1.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße, Aufwertung und Umgestaltung der Grünanlagen Scharfreiterplatz und Hohenschwangauplatz im 17. Stadtbezirk, Sitzungsvorlage Nr. 14-20 / V 01588, Anhörung BauR vom 21.11.2014
+- TOP 5.2.: Anhörungen zu Bauvorhaben im Einzelfall: 1. Cincinnatistr. 63a, Abgrabung / Baufeldfreimachung für den Neubau einer Grundschule mit Sporthalle und Kindergarten / "Europäische Schule München", Anhörung PlanR vom 24.11.2014
+- TOP 5.1.: Baufälle im 17. Stadtbezirk
+- TOP 5.4.: Mehrjahresinvestitionsprogramm 2014 - 2018, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 - 2018, Infrastrukturkonzept 2014 - 2018, Sitzungsvorlage Nr. 14-20 / V 01656, Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014
+- TOP 5.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse, Zuleitung des SozR vom 10.11.2014
+- TOP 5.6.: Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015, Sitzungsvorlage Nr. 14-20 / V01223, Beschluss der Vollversammlung des Stadtrates vom 20.11.2014
+- TOP 5.6.2: UA Familie/Soziales/Ausbildung
+- TOP 5.1.: Antrag auf Bezuschussung zur Anschaffung von Schulmaterial, Bürgeranliegen der Mittelschule München vom 04.07.2014 (vertagt aus der Sitzung vom 08.07.2014, 09.09.2014 und vom 14.10.2014)
+- TOP 5.1.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, Sitzungsvorlage Nr. 14-20 / V 01336, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014
+- TOP 5.2.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 01334, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014
+- TOP 5.3.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Sitzungsvorlage Nr. 14-20 / V 01349, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014
+- TOP 5.5.: Information über die Veranstaltung 18. Jetzt - Das Fest für junge Müncherinnen und Münchner am 11.10.2014 im Rathaus
+- TOP 5.2.: Werner-Schlierf-Straße, Anhörung zu einer verkehrsrechtlichen Anordnung, Zuleitung des KVR vom 05.11.2014 (vertagt aus der Sitzung vom 11.11.2014)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.2.: Vollzug des Personenbeförderungsgesetzes; Antrag auf Planfeststellung für die Tram Tegernseer Landstraße, Stellungnahme des BA 17, Antwort PlanR vom 03.11.2014
+- TOP 0.3.: Erweiterung der Grünfläche und mehr Aufenthaltsqualität für die Anwohner durch Umgestaltung der Verkehrsführung an der Kreuzung Zugspitzstraße / St.-Martin-Straße, Zwischenmitteilung des PlanR vom 03.11.2014
+- TOP 0.4.: Buslinie 145; Sanierung der beschädigten Waldsassener Straße und der Kiesmüllerstraße ohne Kostenbeteiligung der Anlieger (Ziffer 2 des Antrages), Empfehlung Nr. 08-14 / 01895 der Bürgerversammlung des Stadtbezirks 17 Obergiesing-Fasangarten am 04.07.2013, Sitzungsvorlage Nr. 08-14 / V 12840, Antwort des BauR vom 10.11.2014
+- TOP 0.6.3.5: Anträge
+- TOP 0.6.4: UA Umwelt und Gesundheit
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 1. Schwarzenbacher Str. 1, Bescheid vom 30.10.2014 2. Seemüllerstr. 20, Bescheid vom 17.11.2014 3. Kapellenfeldstr. 9, Bescheid vom 20.11.2014
+- TOP 0.6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 0.6.6: UA lokale Wirtschaft und Arbeit
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 7: Sonstige Fälle
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 0.6.5.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.6: Sonstiges
+- TOP 7.8.1.3: UA Verkehr
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
