@@ -1,0 +1,94 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2014-12-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3129891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3129891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Verkehr vom 04.11.14
+- TOP 1.4.2.: Protokoll UA Familie, Bildung und Soziales vom 04.11.14
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Haltverbot Esmarchstraße
+- TOP 2.2.: Aktiver Lärmschutz im Bereich zwischen Elly-Staegmeyer-Straße und kleine Bahnunterführung in der Allacher Straße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Einführung eines Parkverbots in der Auenbruggerstraße sowie zusätzliche Beschilderung für Kreuzung (Ziffer 1 und 2 des Antrags 3a)
+- TOP 4.2.: (E) Budget der Bezirksausschüsse SV München Untermenzing 1925 e.V. Beschaffung von Fußballtoren
+- TOP 4.3.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Professor-Eichmann-Straße / Von-Kahr-Staße (LZA-Austausch)
+- TOP 5: Anhörungen
+- TOP 5.1.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsverfahrens im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete
+- TOP 5.2.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24:00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen
+- TOP 5.3.: Planfeststellung nach §§ 17, 17a FStrG i.V.m. Art. 72 ff. BayVwVfG für das Vorhaben A 92 München - Deggendorf; 6-streifigr ausbau AD MÜnche-Feldmoching bis AK Neufahrn A92_100_0,975 bis A92_140_3,280
+- TOP 5.4.: Erstmalige Herstellung des Krayweges
+- TOP 5.5.: Kurzparkzone Franz-Nißl-Str. 41
+- TOP 5.6.: Manzostr. 37a, Gemarkung Untermenzing, Fl.Nr. 604/24 Ladenerweiterung und Aufstockung zweier Wohnungen + Vollzug der BaumschutzVO
+- TOP 5.7.: Planung der Einsätze der Münchner SommerSpielAktion 2015
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14: Haushaltsplan 2015; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" a) des Amtes für Wohnen und Migration (Sitzungsvorl.Nr. 1362) b) des Stadtjugendamtes (Sitzungsvorl.Nr. 1349) c) der Zentrale (Sitzungsvorl.Nr. 1336) d) des Amtes für Soziale Sicherung (Sitzungsvorl.Nr. 1334)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 01.10.2014: Mieterbeirat; Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirkes (Sitzungsvorl.Nr. 915)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.14: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorl.Nr. 1715)
+- TOP 6.4.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: Mehrjahresinvestitionsprogramm 2014-2018; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014-2018; Infrastrukturversorgungskonzept 2014-2018 (Sitzungsvorl.Nr. 1656)
+- TOP 6.5.: Beschluss der Vollversammlung des Stadtrates vom 20.11.14: Ehrenpreis für guten Wohnungsbau; Zustimmung zur Durchführung 2015 (Sitzungsvorl.Nr. 1223)
+- TOP 6.6.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.14: Mehrjahresinvestitionsprogramm (MIP) 2014-2018; 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; 2. Stellungnahmen der Bezirksausschüsse (Sitzungsvorl. Nr. 1848)
+- TOP 6.7.: Beschluss des Bauausschusses vom 09.12.14: a) Bebauungsplan mit Grünordnung Nr. 2044 Gerberau (südlich), Bauschingerstraße (westlich), Otto-Warburg-Straße (Staatsstraße 2063) und Zum Schwabenbächl (nördlich), Mannertstraße (östlich) (Teiländerung der Bebauungspläne Nrn. 592 und 1341); Neubau der Straße U-1697 einschließlich eines neuen Quartiersplatzes und Umbau des Knotenpunktes Otto-Warburg-Straße / Bauschingerstraße; Neubau des West- und Ostteils der Straße Gerberau und Umbau des mit Dienstbarkeitsflächen festgesetzten Mittelstücks der Straße Gerberau im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvorl.Nr. 1736) b) Fertigstellung der Radwegverbindung zur Langwieder Seenplatte (Sitzungsvorl. Nr. 1414)
+- TOP 7: Verschiedenes
+- TOP 7.1.: 1200 Jahrfeier Menzing
+- TOP 7.2.: Beschilderung am Autobahnende A8/A99
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 17.11.2014: Zuwendung aus dem Budget der Bezirksausschüsse; Verwendungsnachweis - Bau eines behindertengerechten Bades
+- TOP 8.2.: Schreiben Direktorium vom 24.11.2014: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk
+- TOP 8.3.: Schreiben Stadtwerke München vom 13.11.14: Baumaßnahmen der SWM; Stromprojekt Hanfgartenstr. 2, 4. Bauabschnitt Theodor-Fischer-Str. 1-33, Änderung im Terminablauf
+- TOP 8.4.: Schreiben der Stadtwerke München vom 21.11.14: Information MVG Rad
+- TOP 8.5.: Schreiben Stadtwerke München vom 10.11., 17.11., 24.11.14: Baumaßnahmen
+- TOP 8.6.: Schreiben Sozialrefrat vom 10.11.14: Antrag auf Zweckentfremdung von Wohnraum, Rueßstr.
+- TOP 8.7.: Schreiben Baureferat vom 13.11.14: Geh- und Radweg in der Lautenschlägerstraße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 21.11.14: 1.Geh- und Radweg in der Lautenschlägerstraße 2. Haltverbote in der Hintermeierstraße
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 18.11.14: Eiliges Haltverbot in der Eisolzrieder Straße
+- TOP 8.10.: Schreiben Referat für Bildung und Sport vom 21.11.14: Präsentation - Informationsgespräch des Referates für Bildung und Sport am 18.11.14
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Achwaldstr. 7, Grandauerstr. 16
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.11.14: Eversbuschstr. 208, Fl.Nr. 1319/0, Gemarkung Allach Neubau eines Omnibus-Betriebshofs - VORBESCHEID
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: LSG Würmniederung, Bergsträßerstr. 4, Finsterwalderstr. 19, Am Lochholz 33, Josef-Führer-Str. 7, Waldhornstr. 79, Krautheimstr. 4, Riezlerweg 70, Eversbuschstr. 153, Josef-Führer-Str. 17
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (03.11.-09.11.14, 10.11.-16.11.14, 17.11.-23.11.14)
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 12.11.14: Europe Direct Informationen 05/2014
+- TOP 8.16.: Schreiben Bürgerstiftung München vom 24.11.14: Einladung Vortragsabend "Mehr Wohlstand durch weniger Naturverbrauch" am 12.12.14, 18:30 Uhr
+- TOP 8.17.: Schreiben Beschwerdestelle für Probleme in der Altenpflege vom 26.11.14: Bürgerforum vom 28.10.14
+- TOP 8.18.: Schreiben der Kinder-und Jugendbeauftragten im Bezirksausschuss 2: 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 11.10.14 im Rathaus
+- TOP 9: Nachtrag
+- TOP 9.1.: Genehmigung des Protokolls der Sondersitzung vom 20.11.14
+- TOP 9.2.: Antrag: Aufstellung eines Schildes "Vorfahrt achten" an der Servetstraße/Ecke Lauthstraße
+- TOP 9.3.: Bürgerpost an den BA: Erstmalige Herstellung des Krayweges
+- TOP 9.4.: Theodor-Fischer-Straße
+- TOP 9.5.: Planung des Altenheims an der Franz-Nißl-Straße
+- TOP 9.6.: Anhörung: Vollzug der Wassergesetze; Planfeststellungsverfahren zur Realisierung des 2. Bauabschnitts: Bau eines Seitenarms der Würm und Endausbau der Grünanlage nach dem Rückbau des Allacher Sommerbades im 23. Stadtbezirk Allach-Untermenzing
+- TOP 9.7.: Änderung der Bezirksausschusssatzung; hier: Anpassung des Geltungsbereichs auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung
+- TOP 9.8.: Änderung der Bezirksausschusssatzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros
+- TOP 9.9.: Verschiedenes: Behinderten Beirat der LHM , Einladung zum Treffen am Mittwoch den 14.01.15, 17:00-19:00 Uhr
+- TOP 9.10.: Stadtrats- und Ausschussbeschlüsse: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.14: Bericht zur Wohnungssituation in München 2012-2013
+- TOP 9.11.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 11.11.14: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 9.12.: Beschluss der Vollversammlung vom 20.11.14: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 9.13.: Umlauf: Vollzug des BImSchG; Dachauer Str. 667, MAN Truck & Bus, Fahrerhauslackieranlage, hier: neue Grundlackstraße - Öffentlichkeitsbeteiligung
+- TOP 9.14.: Schreiben Stadtwerke München GmbH vom 25.11.14: Baumaßnahmen der SWM; Stromprojekt Hanfgartenstraße 2, 8. Bauabschnitt Auenbruggerstraße/Behringstraße
+- TOP 9.15.: Schreiben Stadtwerke München GmbH vom 01.12.14: Baumaßnahmen
+- TOP 9.16.: Schreiben Sozialreferat vom 27.11.14: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 9.17.: Schreiben Münchner Forum vom 02.12.14: Standpunkte Dezember, Themenschwerpunkte: Friedhöfe
+- TOP 9.18.: Schreiben Sozialreferat vom 01.12.14: Antrag auf Zweckentfremdung, Karl-Gayer-Straße
+- TOP 9.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.12.14: Vollzug der BaumschutzVO in Zusammenhang mit einem Bauvorhaben: Allacher Str. 114
+- TOP 9.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.12.14: Bauanträge (24.11.-30.11.14)
+- TOP 9.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.12.14; Flächennutzungsplanänderung an der Ludwigsfelder Straße 68; Erledigung der Anträge aus 2011 und 2012; BA-Antrag-Nr. 292, 3470, 3755
+- TOP 9.22.: Schreiben Kulturreferat vom 01.12.14: Veranstaltungen/Kooperationen Dezember 2014
+- TOP 9.23.: Schreiben Selbsthilfezentrum München vom 01.12.14: Münchner Selbsthilfejournal einBlick 4/2014
+- TOP 9.24.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Schöllstraße 8, Ernst-Kuhn-Str. 6
