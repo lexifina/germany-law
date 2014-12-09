@@ -1,0 +1,59 @@
+# Haupt- und Finanzausschuss (3. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-12-09T17:00:00+01:00
+- Ende: 2014-12-09T18:37:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWXLc8S9ilk_MB6gseHc5DY
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16542
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVxnL99RyGI6A4_Xc0oIW6dsJs60GCGQUX-teGPRc_gS/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_09.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen - (kein Text vorhanden)
+- TOP 3.: Wiederwahl eines Schiedsmannes für den Schiedsamtsbezirk Blatzheim, Buir, Manheim - (kein Text vorhanden)
+- TOP 4.: "Streaming" und RatsTV hier: Antrag der BBK/Piraten-Fraktion - (kein Text vorhanden)
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 1. Änderungssatzung zur Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Einsatz des Notarztes - (kein Text vorhanden)
+- TOP 5.2: Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Krankentransport und den Rettungsdienst - (kein Text vorhanden)
+- TOP 5.3: 8. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 5.4: 15. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 5.5: Gebührenbedarfsberechnung Abwasserentsorgung 2015 - (kein Text vorhanden)
+- TOP 5.6: Gebührenbedarfsberechnung Bestattungswesen - (kein Text vorhanden)
+- TOP 6.: La Musica hier: Weiterführung der Mitgliedschaft im Zweckverband der Musikschule „La Musica“ - (kein Text vorhanden)
+- TOP 7.: Mitgliedschaft in der Arbeitsgemeinschaft Deutscher Sportämter (ADS) - (kein Text vorhanden)
+- TOP 8.: Aktivitäten im Bereich Städtepartnerschaften mit St. Vith/Belgien und Oswiecim/Polen hier: Rückblick 2014 und Ausblick 2015
+- TOP 9.: Umsiedlung Manheim
+- TOP 9.1: Umsiedlung Manheim hier: Niederschrift der 14. Sitzung des Bürgerbeirates Manheim - (kein Text vorhanden)
+- TOP 9.2: Aktualisierung des Projekt- und Finanzrahmens der Sozialen Infrastruktur Manheim-neu i.V.m. der Neufassung der vertraglichen Regelungen zur Projektsteuerung - (kein Text vorhanden)
+- TOP 9.3: Umsiedlung Manheim hier: Niederschrift der 16. Sitzung des Bürgerbeirates Manheim
+- TOP 10.: Forstwirtschaftsplan 2015 - (kein Text vorhanden)
+- TOP 11.: Haushaltsangelegenheiten
+- TOP 11.1: Bürgerhaushalt - (kein Text vorhanden)
+- TOP 11.2: Mittelbereitstellung Planungskosten für zusätzliche Klassenräume für die Clemensschule in Horrem - (kein Text vorhanden)
+- TOP 12.: Trägerwechsel privater Kindergarten miniMUMM in Kerpen- Blatzheim - (kein Text vorhanden)
+- TOP 13.: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan vom 01.07.2015 bis 30.06.2016
+- TOP 14.: Kinder- und Jugendförderplan, Teil III und IV hier: Gültigkeitsverlängerung bis zum 30.06.16 - (kein Text vorhanden)
+- TOP 15.: Sicherstellung der Fortführung des Sozialraumprojektes im Stadtteil Sindorf; hier: Antrag der CDU-Fraktion - (kein Text vorhanden)
+- TOP 16.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 16.1: Ersatzbeschaffung für ein Müllpress-/ Winterdienstfahrzeug - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Sachstand / Planungen Horremer Gleisdreieck
+- TOP 18.2: Belastung durch Fluglärm in Türnich, Balkhausen, Brüggen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen - (kein Text vorhanden)
+- TOP 20.: Niederschlagung einer Gewerbesteuerforderung - (kein Text vorhanden)
+- TOP 21.: Ankauf und Tausch von Ackerflächen in der Gemarkung Türnich - (kein Text vorhanden)
+- TOP 22.: Vermarktung der Alten Grundschule Buir - (kein Text vorhanden)
+- TOP 23.: Anmietung von Räumlichkeiten - (kein Text vorhanden)
+- TOP 24.: Sanierung Erftlagune hier: Ergebnis der Verhandlungen mit einem Fitnessstudiobetreiber
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.1: Ernennung eines Stadtoberamtsrates zum Stadtverwaltungsrat - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
