@@ -1,0 +1,80 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-12-09T16:25:00+01:00
+- Ende: 2014-12-09T17:27:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12015
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12015
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand: 28.11.2014) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00174359.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00175551.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2013 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2013 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2013 der Kinder- und Jugendwohngruppen - Entgegennahme ohne Beschluss
+- TOP 1.3.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2013 - zur Entscheidung verwiesen
+- TOP 1.4: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Delphin Vermögensverwaltung GmbH & Co. KG für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der Delphin Verwaltungs GmbH für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2013 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö) - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2013 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH i. L. (WiBeFö i.L.) - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss der CVUA-RRW AöR für das Geschäftsjahr 2013 - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2015 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplanung KIJU für 2015 - Entgegennahme ohne Beschluss
+- TOP 2.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2015 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 2.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2015 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.5: Wirtschaftsplan 2015 der Wirtschaftsförderungsgesellschaft Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Änderung des Gesellschaftsvertrages der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 3.2: Änderung des Gesellschaftsvertrages der WSW mobil GmbH - ungeändert beschlossen
+- TOP 3.3: Liquidationsschlussbilanz der TAG Tropolys Altgesellschafter GmbH i.L. - ungeändert beschlossen
+- TOP 3.4: Umsetzung einer EU-konformen Direktvergabe im ÖPNV - ungeändert beschlossen
+- TOP 3.5: Bestellung der stellvertretenden Betriebsleitung KIJU - Entgegennahme ohne Beschluss
+- TOP 3.6: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2015 bis 31.12.2015 - Entgegennahme ohne Beschluss
+- TOP 3.7: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen für die Zeit vom 01.01.2015 bis 31.12.2015 - Entgegennahme ohne Beschluss
+- TOP 3.8: Verbandsversammlung 2014 des Wupperverbandes - ungeändert beschlossen
+- TOP 3.9: Schloss Burg - ungeändert beschlossen
+- TOP 3.10: Beteiligungsbericht 2013 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.11: Weiterentwicklung und Stärkung der Bergischen Kooperation - ungeändert beschlossen
+- TOP 3.12: Weiteres Verfahren der Personalfindung Opernintendanz der Wuppertaler Bühnen und des Sinfonieorchesters GmbH und Generalmusikdirektor des Wuppertaler Sinfonieorchesters - geändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Bürgerbeteiligung - bisherige Aktivitäten und zukünftige Initiativen - Entgegennahme ohne Beschluss
+- TOP 5.2: Über-und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 5.3: Dienstanweisung des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Gebührensatzung zur Abfallwirtschaft 2015 - ungeändert beschlossen
+- TOP 6.2: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2015 - ungeändert beschlossen
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Antrag der FDP-Fraktion vom 11.02.2014 - Mehr Freiheit wagen - abgesetzt
+- TOP 7.1.1: Stellungnahme zum Antrag der FDP-Fraktion "Mehr Freiheit wagen" - VO /0184/14 - abgesetzt
+- TOP 7.2: Fortführung der Finanzierung der Schulsozialarbeit an Wuppertaler Schulen - ungeändert beschlossen
+- TOP 7.3: Verkauf des Carnaper-Platzes an die WSW Wuppertaler Stadtwerke GmbH - vertagt auf Rat
+- TOP 7.3.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Zukunft des Carnaper Platzes vom 25.09.2014 - vertagt auf Rat
+- TOP 7.3.2: Änderungsantrag der Fraktion PRO NRW/DIE REPUBLIKANER vom 04.11.2014 zur Zukunft des Carnaper Platzes - vertagt auf Rat
+- TOP 7.3.3: Ergänzungsantrag der Fraktion DIE LINKE. zur Zukunft des Carnaper Platzes vom 07.11.2014 - vertagt auf Rat
+- TOP 7.3.4: Gemeinsamer Antrag der Fraktionen von CDU und SPD vom 26.11.2014 zum Verkauf des Grundstücks „Carnaper Platz“ an die Wuppertaler Stadtwerke GmbH - vertagt auf Rat
+- TOP 7.4: Umnutzung des aufgegebenen Sportplatzes / der Turnhalle am Stadion Zoo als multifunktionale Sport- und Eventfläche - vertagt auf Rat
+- TOP 7.5: Genehmigung zusätzlicher Investitionsmittel für die Beschaffung technischer Infrastruktur - ungeändert beschlossen
+- TOP 7.6: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2013 - ungeändert beschlossen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Rumpfgeschäftsjahr 2013 - ungeändert beschlossen
+- TOP 9.1.1: Entlastung der Betriebsleitung des WAW für das Jahr 2013 - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan 2015 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 11: 4. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2015) - ungeändert beschlossen
+- TOP 12: 7. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13: 2. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das III. Quartal 2014 - Entgegennahme ohne Beschluss
+- TOP 15: Berichte und Mitteilungen
