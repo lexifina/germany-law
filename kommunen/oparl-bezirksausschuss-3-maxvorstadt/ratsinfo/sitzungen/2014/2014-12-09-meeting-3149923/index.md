@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2014-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3149923
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3149923
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Anfrage vom 10.10.2014, Maßnahmen zur Verkehrslärmreduzierung an der Pinakothek der Moderne
+- TOP 4.2.: Beantwortung der Fragen aus der Sitzung vom 11.1.2014
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin vom 29.10.2014 Gefährdung von Fußgängern an der Kreuzung Ludwigstraße/Von-der-Tann-Straße
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 11.11.2014 Verwendung alter p-Straßenbahnwagons auf den Linien 27/28
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.10.2014 Umbau der Kreuzung Görres-/Augustenstraße vertagt aus der Sitzung vom 11.11.2014 Unterlagen liegen bereits vor
+- TOP 5.2.4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 28.10.2014 Verbesserung der Verkehrssituation in der Görresstraße vertagt aus der Sitzung vom 11.11.2014 Unterlagen liegen bereits vor
+- TOP 5.2.5.: Schreiben der Geschäftsleitung eines Hotels in der Maxvorstadt vom 14.11.2014 Genehmigung einer Hotelanfahrtszone
+- TOP 5.2.6.: Schreiben einer Bürgerin aus der Maxvorstadt vom 25.11.2014 Verschmutzte Straßen- und Hinweisschilder und Radwege, Baumbepflanzung in der Dachauer Straße und Verbreiterung des dortigen Radweges zwischen Loth- und Sand- straße
+- TOP 6: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 6.1.: BA-Antrag Nr. 14-20 / B 00450 des BA 3 vom 07.10.2014 Fahrradfahren entgegen der Einbahnrichtung in der Erzgießereistraße Antwortschreiben des Kreisverwaltungsreferates vom 05.11.2014
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: LBK-Listen der Bauvorhaben: 45., 46.,47. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 45., 46. KW
+- TOP 2.1.3.: Adalbertstraße 15, Nutzungsänderung eines Büros in zwei Wohnungen
+- TOP 2.1.4.: Kaulbachstraße 48, DG-Aufstockung und -Ausbau zu zwei Wohneinheiten, Änderung der Lage des Außenaufzugs und Vergrößerung der Balkone, Nutzungsänderung im EG von Gaststätte zu Wohnen; Tektur zu 1.22-2007-68633-22 (hier: Vergrößerung der Dach- terrasse in der 1. DG-Ebene und Balkone im 1. bis 3. OG sowie Neubau eines französi- schen Balkons an der Nordfassade)
+- TOP 2.1.5.: Augustenstraße 83, Umbau eines Wohnheims in eine moderne Wohnanlage incl. Dach- aufstockung, Anbau eines Aufzugs und Errichtung neuer Balkone sowie teilweise Gast- stättenverlagrung ins Untereschoss; Tektur zu 1.2-2011-24776-22
+- TOP 2.1.6.: Adelheidstraße 10, Anbau von Balkonen an ein Mehrfamilienhaus
+- TOP 2.1.7.: Elisenstraße 3 ? 3 a, Umbau einer Gastronomiefläche mit Nutzungsänderung im EG und 1. OG (Elisenstraße 3 u. 3 a/Prielmayerstraße 1.3)
+- TOP 2.1.8.: Augustenstraße 87, Aufstockung zweier Wohngebäude (Augustenstraße 87- 89) bzw. Er- weiterung eines Wohngebäudes mit Tiefgarage (Augustenstraße 87-89) und Aufstockung eines Wohngebäudes (Heßstraße 43) - Vorbescheid
+- TOP 2.1.9.: Rambergstraße 2, Abbruch der Dachstühle und Errichtung von neuen Dachgeschossen mit Aufbringen eines WDVS ? Vorbescheid (2 Var.), Rambergstraße 2/Türkenstraße 97
+- TOP 2.1.10.: Sandstraße 35, Abbruch des Werkstattgebäudes und Neubau eines Wohngebäudes (RGB) mit Tiefgarage ? Vorbescheid (2 Var.)
+- TOP 2.1.11.: Türkenstraße 9, Neubau einer Wohnanlage mit Tiefgarage (Türkenstraße 9/Prinz-Lud- wig-Straße)
+- TOP 2.1.12.: Oberflächengestaltung Josephsplatz
+- TOP 3: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.2.1.: Veterinärstraße 13, ein Spitzahorn
+- TOP 3.2.2.: Nymphenburger Straße 2, eine Kastanie
+- TOP 3.2.3.: Schellingstraße 147, eine Weide
+- TOP 3.2.4.: Isabellastraße 6, eine Kiefer
+- TOP 3.2.5.: Schönfeldstraße 3, ein Ahorn
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 3.3.1.: Baureferat, Gartenbau, Anhörung Darstellung und Überarbeitungder Mähkonzepte auf städtischen Grünflächen und Ver- kehrsbegleitgrün undSchaffung von Stellplätzen für Bienen Antrag Nr. 08-14 / A 04305 der Stadtratsfraktion Die Grünen/RL vom 07.06.2013 vertagt aus der Sitzung vom 11.11.2014 Unterlagen liegen bereits vor
+- TOP 4: Aktuelle Sachstandsberichte (1)
+- TOP 5: Unterrichtungen (1)
+- TOP 5.1.: Baureferat, Tiefbau Begrünung der Karlstraße, Anliegerinformation
+- TOP 5.2.: Referat für Stadtplanung und Bauordnung, LBK, Untere Naturschutzbehörde Ottostraße 19, eine Fichte, Fällgenehmigung
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung Mehrjahresinvestitionsprogramm 2014 ? 2018 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 ? 2018 Infrastrukturversorgungskonzept 2014 - 2018
+- TOP 5.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015 Beschluss der Vollversammlung des Stadtrates vom 20.11.2014 Sitzungsvorlage Nr. 14 ? 20 / V 01223
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2093 Deroystraße (westlich), Arnulfstraße (nörd- lich), Marsstraße (östlich und südlich), Änderung des Bebauungsplanes Nr. 945 ? Steuerzentrum ? Aufstellbeschluss Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01821
+- TOP 5.6.: Referat für Stadtplanung und Bauordnung Koordinationsstelle Kunstareal München, Kunst, Kultur, Wissen a) Sachstandsbericht b) Weiteres Vorgehen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01761
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 1: (E) Wiedereinsetzen der Steinpoller Blutenburg- Ecke Maillingerstraße Wiedereinbau der Metallpoller an der Grundstücksgrenze Blutenburgstraße 42 und 44 Verbreiterung der Radwege in der Nymphenburger Straße stadtein- und -auswärts Empfehlung Nr. 14-20 / E 00167 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 16.10.2014
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Baureferat, Anhörung Konzept für eine hohe Aufenthalts- und Lebensqualität im Bahnhofsviertel Antrag der SPD-Stadtratsfraktion vom 06.10.2014
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis, Freischankflächen a) Schellingstraße 16, Verlängerung einer Freischankfläche b) Nordendstraße 17, Genehmigung einer Freischankfläche c) Adalbertstraße 28, Verlängerung einer Freischankfläche d) Marsstraße 14, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Kreisverwaltungsreferat, Anhörung Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni bis August bis 24.00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung eines Taxistandplatzes Arnulfstraße 16
+- TOP 3.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Antrag auf Sperrzeitaufhebung für die Veranstaltung ?BASSart 2014? am 07.11. und 08.11.2014 in den ?Postgaragen? und in der ?Säulenhalle? Deroystraße 3 - 5
+- TOP 3.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung einer Krankenanfahrtszone vor dem Anwesen Augustenstraße 115
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum, Erika-Mann-Straße 29, Fernwärme, 11.11.2014 bis 20.12.2014
+- TOP 3.5.: Baumaßnahmen Stadtwerke a) Brienner Straße 12, Strom b) Görresstraße 9, 11, Fernwärme c) Schellingstraße zw. Arcis- und Winzererstraße, Fernwärme
+- TOP 3.6.: Referat für Gesundheit und Umwelt Vollzug des BImSchG) und der 32. BImSchV; Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau
+- TOP 3.7.: Kreisverwaltungsreferat Lichtsignalanlage Nymphenburger-/Adamstraße Anfrage aus der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt vom 16.10.2014 BA-Anfrage 14-20 / Q 0050
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungsbericht mit der Umsetzung des Beschlusses vom 23.11.2005 Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01715
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 4: Unterrichtungen (3)
+- TOP 4.1.: Sozialreferat Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Teilbereiche a) Zentrale b) Amt für Soziale Sicherung c) Stadtjugendamt d) Amt für Wohnen und Migration
+- TOP 4.2.: Sachstand Arbeit im Viertel/an den Schulen ? Vortrag UA-Vorsitzender, Kinder- und Ju- gendbeauftragter
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse THETA e.V. Treffen der Münchner privaten Schauspielschulen vom 17. - 20.12.2014
+- TOP 2.2.: Direktorium, Budget Antrag der Friedhelm Schnitzler Musikstiftung vom 11.03.20
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Sachbuch Münchner Bahnhofsviertel" Produktion und Vermarktung des Buches
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 4: Unterrichtungen (4)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Direktorium Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete Antrag des BA 24, Milbertshofen-Am Hart vom 03.07.2013
+- TOP 1.2.: 18.Jetzt ? Das Fest für junge Münchnerinnen und Münchner am 11.10.2014 im Rathaus Unterlagen der Teilnehmer aus der Maxvorstadt
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Homepage/Newsletter des BA
+- TOP 1.5.: Ergebnis Kinder- und Bürgerfest
+- TOP 3: Aktuelle Sachstandsberichte
