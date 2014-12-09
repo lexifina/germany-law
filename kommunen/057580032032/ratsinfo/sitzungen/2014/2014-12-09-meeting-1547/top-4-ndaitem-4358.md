@@ -1,0 +1,7 @@
+# TOP 4: Kommunales Integrationszentrum im Kreis Herford
+
+- Sitzung: Sozial- und Gleichstellungsausschuss (1. Sitzung) (2014-12-09)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/4358
+- Beratung: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1472
