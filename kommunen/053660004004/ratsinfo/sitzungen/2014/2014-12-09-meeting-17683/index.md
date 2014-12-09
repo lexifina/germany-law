@@ -1,0 +1,71 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2014-12-09T17:00:00+01:00
+- Ende: 2014-12-09T19:20:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTv8f2OdY22cKrBAOHZow6c
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/17683
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-OC9J_NKyiditcm0dUOqWrBdbNbvITQsbdxiir8NNZ/Bekanntmachung_Rat_09.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWcoLdok6WHr4YgmOKlzpPBpfNq3UYCxanGcCgImUhDy/Oeffentliche_Niederschrift_Rat_09.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 30.09.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Anstehender Verkauf der Kurt-Schumacher-Akademie hier: Anträge von SPD, UWV und Bündnis 90/ Die Grünen - Beschluss
+- TOP 5.: 2. Satzung zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung-Badeordnung) hier: Antrag der SPD-Fraktion vom 26.08.2014 - Beschluss
+- TOP -: 2. Satzung zur Änderung der Satzung vom 29.05.2013 über die Benutzung des eifelbades der Stadt Bad Münstereifel (Benutzungs- und Gebührensatzung-Badeordnung) hier: Antrag der SPD-Fraktion vom 26.08.2014 und zusätzliche Änderungsvorschläge der Verwaltung - Einstimmiger Beschluss:
+- TOP 6.: Bestellung eines weiteren stellvertretenden Wahlleiters für die Bürgermeister- und Landratswahlen 2015 - Einstimmiger Beschluss:
+- TOP 7.: Übungsfahrzeug für die Jugendfeuerwehr; hier: Antrag der CDU-Fraktion vom 23.11.2014 - Einstimmiger Beschluss:
+- TOP 8.: Genehmigung einer außerplanmäßigen Ausgabe bei der Kostenstelle 02126100, Sachkonto 542918 - Fortschreibung Brandschutzbedarfsplan - Beschluss mit 24 Ja-Stimmen bei 7 Nein-Stimmen:
+- TOP 9.: 3. Satzung zur Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkunft für Aussiedler, Asylbewerber und Obdachlose (Übergangsheim) der Stadt Bad Münstereifel vom 19.12.2006 - Einstimmiger Beschluss:
+- TOP 10.: Maßnahmen zur Verbesserung des Hochwasserschutzes hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 11.: Wassergebühren 2015; hier: 21. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung der Stadt Bad Münstereifel vom 28.01.1982 - Einstimmiger Beschluss:
+- TOP 12.: Gebühren zur Entsorgung von Grundstücksentwässerungsanlagen 2015 hier: 10. Satzung zur Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) - Beschluss
+- TOP -: Gebühren zur Entsorgung von Grundstücksentwässerungsanlagen 2015 hier: 10. Satzung zur Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) - Einstimmiger Beschluss:
+- TOP 13.: Abwassergebühren (Kanalbenutzungsgebühren) 2015 - Einstimmiger Beschluss:
+- TOP 14.: Erlass der Wirtschaftspläne 2015 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Einbringung der Entwürfe und Feststellung - Beschluss
+- TOP -: Erlass der Wirtschaftspläne 2015 des Eigenbetriebs Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Einbringung der Entwürfe und Feststellung - Einstimmiger Beschluss:
+- TOP 15.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2013 des Eigenbetriebes Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 16.: Feststellung Jahresabschluss und Lagebericht zum 31.12.2013 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser - - Einstimmiger Beschluss:
+- TOP 17.: Abwasserbeseitigungskonzept 2014-2019 Prüfmitteilung durch die Bezirksregierung Köln - Einstimmiger Beschluss:
+- TOP 18.: 27. Änderung des Flächennutzungsplanes für die Ortslage Kalkar - Wohnbaufläche Romulusstraße hier: Abwägungsbeschlüsse, abschließender Beschluss - Beschluss
+- TOP 19.: Aufhebung des Bebauungsplanes Nr. 59 "Kalkar-Friedhof" hier: Abwägungsbeschlüsse sowie Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 20.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-) Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 21.: Einführung eines Fremdenverkehrsbeitrages - Beschluss
+- TOP -: Einführung eines Fremdenverkehrsbeitrages - Beschluss
+- TOP -: Einführung eines Fremdenverkehrsbeitrages - Beschluss mit 28 Ja- zu 2 Nein-Stimmen bei 1 Enthaltung:
+- TOP 22.: Breitbandoffensive der Kreise Euskirchen und Düren hier: Antrag der SPD-Fraktion vom 24.11.2014 - Beschluss
+- TOP -: Breitbandoffensive der Kreise Euskirchen und Düren hier: Antrag der SPD-Fraktion vom 24.11.2014 - Einstimmiger Beschluss:
+- TOP 23.: Haushalt 2014 hier: Bericht zum 30.09.2014 im Rahmen des Finanzcontrollings - Einstimmiger Beschluss:
+- TOP 24.: 17. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel; Satzungsentwurf - Einstimmiger Beschluss:
+- TOP 25.: Gesamtabschluss 2011 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 26.: Anfragen und Mitteilungen
+- TOP 26.1: Einleitung der vereinfachten Flurbereinigung "Liersbachtal & Auf der Heide"
+- TOP 26.2: E-Mail-Aboservice des Städte- und Gemeindebundes NRW für Ratsmitglieder
+- TOP 26.3: Dienstanweisung über Stundung, Niederschlagung und Erlass von Ansprüchen und Forderungen sowie Aussetzung der Vollziehung
+- TOP 26.4: Kurzzeitparkplätze in der Kölner Straße hier: Anfrage des Stadtverordneten Thomas Bell
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: An- und Verkauf von Splitterparzellen - Einstimmiger Beschluss:
+- TOP 2.: Kauf eines Grundstücks in Bad Münstereifel, Kölner Straße - Beschluss
+- TOP -: Kauf eines Grundstücks in Bad Münstereifel, Kölner Straße - Einstimmiger Beschluss:
+- TOP 3.: 17. Satzung zur Änderung der Gebührensatzung vom 18.07.1995 zur Satzung über die Abfallentsorgung in der Stadt Bad Münstereifel; Gebührenbedarfsberechnung - Einstimmiger Beschluss:
+- TOP 4.: Bahnhofsumfeld hier: Sachstandsbericht und Auftragsvergabe - Beschluss
+- TOP -: Bahnhofsumfeld hier: Sachstandsbericht und Auftragsvergabe - Beschluss
+- TOP 5.: Baumaßnahme "Errichtung ZOB Bad Münstereifel, Kölner Straße" hier: Auftragserweiterungen - Beschluss mit 27 Ja-Stimmen bei Nichtmitwirkung der UWV-Fraktion:
+- TOP -: Erschütterungsmessungen im Zuge der Baumaßnahme "Errichtung ZOB Bad Münstereifel, Kölner Straße, 1. BA" hier: Auftragserweiterung - Beschluss
+- TOP 6.: Kanalisation Michelsberg 1. Bauabschnitt: Hasenhecke hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 7.: Zuwendung an ein Ratsmitglied - Einstimmiger Beschluss:
+- TOP 8.: Anfragen und Mitteilungen
+- TOP 8.1: Folgenutzung der Sauna im eifelbad; hier: Anfrage der UWV-Fraktion vom 28.11.2014
+- TOP 8.2: Zinsswaps der Stadt; hier: Gerichtsverhandlung vom 03.12.2014
+- TOP 8.3: Entwicklung nördliche Vorstadt; hier: Sachstand zu dem bei der Vergabekammer der Bezirksregierung Köln anhängigen Vergabenachprüfungsverfahren der Firma REWE gegen die beabsichtigten Vertragsabschlüsse zwischen der Stadt und der Firma Edeka und Fondamenta bezüglich der Bauhofverlagerung
+- TOP 8.4: Fliesenschäden im eifelbad
+- TOP 8.5: Mitteilung des Bürgermeisters zur Weitergabe vertraulicher Informationen
+- TOP 8.6: Verleihung des Ehrenamtspreises des Bürgermeisters
