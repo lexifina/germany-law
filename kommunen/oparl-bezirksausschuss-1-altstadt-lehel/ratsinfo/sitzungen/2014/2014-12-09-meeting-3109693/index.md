@@ -1,0 +1,98 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2014-12-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3109693
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3109693
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 4.1.: Änderung der BA-Satzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros
+- TOP 4.2.: Änderung der BA-Satzung; Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung
+- TOP 5: Allgemeine Themen
+- TOP 5.1.: Beitritt des Bezirksausschusses zur Initiative ?München heißt Flüchtlinge Willkommen? (vertagt aus 2014.11 F 2)
+- TOP 5.2.: Sitzungsort für die Bürgerversammlung am 03.12.2015
+- TOP 6: Unterrichtungen (siehe Anlage) (1)
+- TOP 0: Bericht (1)
+- TOP 0.1.: Maximilianstr. 39: Generalsanierung, Vorstellung des Bauvorhabens durch die Regierung von Oberbayern (Vorstellung im Unterausschuss!)
+- TOP 0.2.: Lerchenfeldstr. 2: Sanierung und Erweiterung der Archäologischen Staatssammlung, Sachstandsbericht durch den Behördenleiter der Orbersten Baubehörde im Bayerischen Staatsministerium des Innern, für Bau und Verkehr (Vorstellung im Unterausschuss!)
+- TOP 1: Anträge und Bürgeranliegen (1)
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Tal 31: Nutzungsänderung ?Maggi Kochstudio? zu Bar-Restaurant ?Little London?
+- TOP 3.1.2.: Oettingenstr. 50-54: Neuerrichtung Dach mit Ausbau und Anbau von Aufzügen ? Vorbescheid
+- TOP 3.1.3.: Lerchenfeldstr. 2: Generalsanierung u. Erweiterung der Archäologischen Staatssammlung (vertagt aus 2014.11 B 3.1.4)
+- TOP 3.1.4.: Widenmayerstr. 18/RGB: Änderung Dachform und DG-Ausbau
+- TOP 3.1.5.: Frauenstr. 9, Errichtung einer Freischankfläche
+- TOP 3.1.6.: Dienerstr. 20: Umbau und Aufstockung eines Büro- und Geschäftshauses ? Vorbescheid
+- TOP 3.1.7.: Sendlingerstr. 46: Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Büro- und Geschäftshauses, Kreuzstr. 17: Abbruch und Neubau eines Wohn- und Geschäftshauses
+- TOP 3.1.8.: Mannhardtstr. 7: Anbau Aufzug und Balkone, DG-Ausbau, Umbau Laden
+- TOP 3.2: Sonstige (1)
+- TOP 4: Unterrichtungen (siehe Anlage) (2)
+- TOP 0: Bericht (2)
+- TOP 1: Anträge und Bürgeranliegen (2)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 2.3: Sonstige (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 3.2: Sonstige (3)
+- TOP 3.2.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni ? August bis 24:00 Uhr
+- TOP 4: Unterrichtungen (siehe Anlage) (3)
+- TOP 0: Bericht (3)
+- TOP 1: Anträge und Bürgeranliegen (3)
+- TOP 1.1.: Bürgeranliegen: Neu errichtete Parkplätze an der Tram-Haltestelle Mariannenplatz (vertagt aus 2014.11 A 3.1)
+- TOP 1.2.: Verkehrssituation für Menschen mit Handicaps in der Zweibrückenstraße (vertagt aus 2014.11 D 0.2)
+- TOP 1.3.: Bürgeranliegen: Ergänzung des BA-Antrages Nr. 14-20/B 00435, Radfahren auf dem Gehweg Lerchenfeldstr. entgegen der Einbahnrichtung im Teilbereich zwischen Seeaustr. bis Prinzregentenstr. (vertagt aus 2014.11 D 1.5)
+- TOP 1.4.: Bürgeranliegen: Parksituation in der Widenmayerstr./Reitmorstr.
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1.: Verkehrsrechtliche Anordnung: Busstraße durch den Englischen Garten; Beschränkung der zulässigen Höchstgeschwindigkeit auf 30 km/h
+- TOP 3.2.: Baumfällungsantrag, Reitmorst. 51
+- TOP 3.3.: Baumfällungsantrag in der Marstallstr.
+- TOP 3.4.: Baumfällungsantrag, Oettingenstr. 34
+- TOP 3.5.: Baumfällungsantrag, Liebigstr. 20
+- TOP 4: Unterrichtungen (siehe Anlage) (4)
+- TOP 0: Bericht (4)
+- TOP 1: Anträge und Bürgeranliegen (4)
+- TOP 1.1.: Antrag der Fraktion Bündnis 90' ? Die Grünen: Offene Fußballstunde am Hirschanger
+- TOP 1.2.: Antrag der CSU-Fraktion: Veränderung des Schulsprengels der Grundschule an der Herrnstraße?
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Münchner Bahnhofskapelle" Konzert am 27.12.2014
+- TOP 3: Anhörungen (4)
+- TOP 4: Unterrichtungen (siehe Anlage) (5)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Mieterbeirat, Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirkes, Sitzungsvorlage Nr. 14-20/V 00915, Beschluss der Vollversammlung des Stadtrates vom 01.10.2014
+- TOP 0.3.: Ehrenpreis für guten Wohnungsbau, Sitzungsvorlage Nr. 14-20/V 01223, Beschluss der Vollversammlung des Stadtrates vom 20.11.2014
+- TOP 0.4.: Verlegung des BA-Schaukastens am Viktualienmarkt, Stellungnahme des Baureferats ? Gartenbau
+- TOP 0.5.: Beherbergungsbetrieb Sattlerstr. 1, Beschluss des Bezirksausschuss 1 Altstadt-Lehel vom 18.02.2014
+- TOP 0.6.: Bericht zur Wohnungssituation in München 2012-2013, Sitzungsvorlage Nr. 14-20/V 01995, Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014,
+- TOP 0.7.: Bauvorhaben Maximilianstr. 6-8, Genehmigung des Referats für Stadtplanung und Bauordnung
+- TOP 0.8.: Anhörungs- und Unterrichtungsrecht zum Bauvorhaben Karlsplatz 25, BA-Antrag Nr. 14-20/B 00439 des Bezirksausschusses 1 Altstadt-Lehel vom 14.10.2014, Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Aufstellen einer größeren Gedenktafel vor dem ehem. Wittelsbacher Palais, Empfehlung Nr. 08-14/E 02144 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel vom 05.12.2013, Beschluss des Kulturausschusses vom 06.11.2014 (SB)
+- TOP 0.6.: Prinzregentenstr. 22, Anzeite pyrotechnischer Effekte am 25.11.2014
+- TOP 0.7.: Städtische Brunnen im Winter, Sitzungsvorlage Nr. 14-20/V 00838, Beschluss des Bauausschusses vom 11.11.2014 (SB),
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Oettingenstr. 40, Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 0.2.: Prälat-Zistl-Straße, Routenverlegung der Sightseeingbusse, Stellungnahme des Referats für Arbeit und Wirtschaft vom 06.11.2014 (2014.09 D 3.2.1)
+- TOP 0.3.: Internationale Fachkonferenz ?Walk 21? in München 2013, Abschlussbericht und Zwischenstand, Sitzungvorlage Nr. 14-20/V 01713, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 05.11.2014
+- TOP 0.4.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20/V 01715, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014
+- TOP 0.5.: Antwortschreiben zum Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk; BA-Antrag Nr. 14-20/B 00423 des Bezirksausschusses 16 ? Ramerdorf-Perlach vom 07.10.2014
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale, Sitzungsvorlage Nr. 14-20/V 01336, Beschluss des Kinder- und Jugendhilfeausschusses/Sozialausschusses vom 02.12.2014 (SB)
+- TOP 0.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Vorstellung der Tätigkeiten des REGSAM-Projekts (nur im Unterausschuss!)
