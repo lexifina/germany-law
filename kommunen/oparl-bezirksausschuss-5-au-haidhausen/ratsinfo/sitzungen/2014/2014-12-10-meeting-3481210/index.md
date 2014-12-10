@@ -1,0 +1,88 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2014-12-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3481210
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3481210
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Fahrten der Linie X30 durch die Flur- / Elsässer Straße entgegen der gegenüber dem Bezirksausschuss 5 gemachten Zusage - <div>zur Kenntnis genommen</div>
+- TOP .2.: Baumaßnahmen in der oberen Preysingstraße (Spielstraßenbereich) - <div>nach Antrag</div>
+- TOP .3.: Städtische Hinterhöfe in Haidhausen - <div>nach Antrag</div>
+- TOP .4.: Verbauter Weg zum südlichen Eingang der Mariahilfkirche - <div>nach Antrag</div>
+- TOP .5.: Anfrage: Studenten Projekt Nockherberg
+- TOP .6.: Erstausstattung für den eigenen Haushalt von Jugendlichen - <div>nach Antrag</div>
+- TOP .7.: Suche nach einem geeigneten BA-Tagungsort - <div>zur Kenntnis genommen</div>
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Kath. Männerfürsorgeverein München e.V. Weihnachtsfeier am 24.12.2014 - <div>nach Antrag</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Anträge auf Erweiterung der vorhandenen Freischankflächen in der Wörthstraße: Entscheidungen über Sondernutzungserlaubnisse (Erweiterung bestehender Freischank-flächen); Beschlussvorlagen des Kreisverwaltungsreferats vom 15.04.14 SSW ?Café Voila?, Wörthstraße 5 Einzelhandel mit Lebensmitteln ?Holy Burger?, Wörthstraße 7 Einzelhandel mit Lebensmitteln ?Gianluca?, Wörthstraße 7 SSW ?NO MI YA?, Wörthstraße 7 SSW ?Satluj?, Wörthstraße 7 Kleingaststätte ?Lollo Rosso?, Wörthstraße 11 (vertagt vom 21.05., 25.06., 16.07., 17.09., 15.10. und 19.11.14)
+- TOP .2.: Erweiterung einer bestehenden Freischankfläche in der Wörthstr. 1 (?Chocolatte?): Entscheidungen über Sondernutzungserlaubnisse; Beschlussvorlage des Kreisverwaltungsreferats vom 06.08.14 (vertagt vom 17.09., 15.10. und 15.11.14)
+- TOP .3.: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund), ?Das Engelhaus?, Pilgersheimer Straße 2; Beschlussvorlage des Kreisverwaltungsreferats vom 12.11.14
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete; Antrag des BA 24 ? Feldmoching-Hasenbergl ? vom 03.07.2013; Anhörung durch das Direktorium vom 10.11.2014
+- TOP .2.: Änderung der BA-Satzung; Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a BA-Satzung; Anhörung durch das Direktorium vom 28.11.2014
+- TOP .3.: Änderung der BA-Satzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros; Anhörung durch das Direktorium vom 27.11.2014
+- TOP .4.: Planung der Einsätze der Münchner SommerSpielAktion 2015; Schreiben der Pädagogischen Aktion/Spielen in der Stadt e.V. vom 26.11.14 mit der Bitte um Standortvorschläge
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: "Schrottrad-Entfernungsaktion" in der Wörthstraße
+- TOP .2.: Rückbau der Bauarbeiten am Simon-Knoll-Platz beseitigen
+- TOP .3.: Konflikt Preysinggarten
+- TOP .4.: Aufstockung des Personalschlüssels für SozialarbeiterInnen / SozialpädagogInnen in Unterkunftsanlagen für Flüchtlinge
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Mitteilung des Kommunalreferats vom 17.11.2014 über ein Grundstücksgeschäft: Tassiloplatz 5; Teilfläche ca. 79 m² zur Errichtung eines Wendehammers
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Balanstraße 12 (2 Weiden, 1 Pappel)
+- TOP .1.: Nutzung Lackiererei Kirchenstraße 89 a; Bürgerschreiben vom 29.09.14 (vertagt, TOP A 4.2.3 bzw. A 4.1.1 vom 15.10.2014), weiteres Bürgerschreiben vom 17.10.20
+- TOP .2.: Auszeichnung für ehrenamtliches Engagement im Stadtteil; Antrag der Fraktion Bündnis `90/Die Grünen aus der Sitzung vom 16.07.2014
+- TOP .3.: Kultur braucht Raum (Graffiti); Antrag der Fraktion Bündnis`90/Die Grünen vom 25.06.14
+- TOP .4.: Willkommenskultur etablieren; Antrag der Fraktion Bündnis`90/Die Grünen vom 15.10.14
+- TOP .5.: Bericht über die Workshops im Rahmen des UAMO-Festivals 2014 vom 16.-19.10.2014 mit Dokumentation zur vom BA 5 bezuschussten Maßnahme
+- TOP .1.: Beschlüsse des Sozialausschusses bzw. des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14 Haushaltsplan 2014 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? - der Zentrale - des Amtes für Soziale Sicherung - des Stadtjugendamtes - des Amtes für Wohnen und Migration
+- TOP .2.: Neuer Vorstand im Kreisjugendring München-Stadt; Schreiben des Kreisjugendrings München-Stadt vom 12.11.2014
+- TOP .1.: siehe TOP A 6.1 und 6.2
+- TOP .1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni ? August bis 24.00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen; Schreiben des Kreisverwaltungsreferats vom 13.11.2014 mit der Bitte um Stellungnahme
+- TOP .2.: Weißenburger Straße 8, Nutzungsänderung der Ladeneinheiten, Erweiterung der Kleingaststätte um 18,06 qm Gastfläche (durch Angliederung des ehemaligen Bäckerladens); Anhörung durch die Lokalbaukommission vom 04.11.14
+- TOP .1.: Bewertungsbogen Kulturstrand; E-Mail des Kreisverwaltungsreferats vom 13.11.2014 mit Bewertungsbogen
+- TOP .2.: Drehgenehmigungen durch das Kreisverwaltungsreferat Produktion/Genre ?Luis Trenker ? Der schmale Grat der Wahrheit?, vom 14.01.2015, 20.00 Uhr bis 15.01.2015, 05.00 Uhr, Orleansstraße 41
+- TOP .1.: Bazeillesstraße 5 ? 7, DG-Ausbau eines denkmalgeschützten Gebäudes; Anhörung durch die Lokalbaukommission vom 10.11.2014
+- TOP .2.: Gravelottestraße 6 ? 8, Abbruch und Neubau des Dachgeschosses (VGB) sowie Errichtung von 7 Bedienstetenwohnungen; Anhörung durch die Lokalbaukommission vom 10.11.2014
+- TOP .1.: Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015; Beschluss der Vollversammlung des Stadtrats vom 20.11.2014
+- TOP .2.: Vorbescheid Bauvorhaben Bazeillesstraße 9; Vorbescheid des Referates für Stadtplanung und Bauordnung vom 18.11.2014
+- TOP .1.: Behinderung von Linksabbiegern durch die neue Bushaltestelle Kolumbusplatz / Humboldtstraße; Bürgeranliegen aus der BA-Sitzung vom 19.11.2014
+- TOP .2.: Zebrastreifen in der Eggernstraße; Bürgeranliegen (E-Mail) vom 13.11.2014 (TOP A 4.2.4 verwiesen aus der BA-Sitzung vom 19.11.2014)
+- TOP .3.: Radverkehr; Schutzstreifen auf der Südseite der Ohlmüllerstraße ab östlich der Einmündung Am Feuerbächl bis zur Radwegauffahrt an der Lichtsignalanlage westlich der Einmündung Falkenstraße; Anhörung durch das Kreisverwaltungsreferat vom 23.10.14 zur beabsichtigten verkehrsrechtlichen Anordnung (TOP B VI. 2.3 vertagt / neu verwiesen aus der BA-Sitzung vom 19.11.2014)
+- TOP .4.: Verkehrssituation Franz-Prüller-Straße im Zusammenhang mit der beantragten Umwidmung zum Fuß- und Radweg (TOP A 4.2.6, verwiesen aus der BA-Sitzung vom 19.11.2014) und Radverkehr in der Lilienstraße
+- TOP .1.: Fällung eines Gefahrenbaums auf dem Grundstück Hochstraße 8; Genehmigung durch das Referat für Stadtplanung und Bauordnung vom 20.11.2014
+- TOP .2.: Information MVG-Rad; E-Mail der Stadtwerke München GmbH / MVG vom 21.11.2014 mit Liste der Stationsstandorte
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 21.01.2015, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA Soziales: Montag, 19.01.2015, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Arb.+Wirtsch.: Dienstag, 20.01.2015, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 22.01.2015, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 19.01.2015, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 28.01.2015, 19.00 Uhr, Salesianum, St.-Wolfgangs-Platz 11, 81669 München
+- TOP .4.: Sonstige Termine
+- TOP .1.: Terminplanung für 2015
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
