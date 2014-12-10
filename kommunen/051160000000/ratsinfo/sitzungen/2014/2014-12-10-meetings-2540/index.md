@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-12-10T17:00:00+01:00
+- Ende: 2014-12-10T20:20:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2540
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2540
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dienstreise von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 2: Bericht zur Umsetzung des HSP zum 30.09.2014 - Kenntnisnahme
+- TOP 3: Änderung der Beteiligung an der RWE AG - Kenntnisnahme
+- TOP 4: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 5: Stellenplan 2015 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Haushaltes 2015; Haushaltssatzung einschl. Anlagen und Fortschreibung des HSP - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Entwurf des Haushaltes 2015 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 6.2: Antragsbuch Bündnis90/Die Grünen zum Haushaltsentwurf 2015 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 6.3: Haushaltsentwurf 2015 - Vom Antragsteller zurückgezogen
+- TOP 6.4: Sanierung Haus Erholung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 6.5: Entwurf des Haushaltes 2015; Haushaltssatzung einschließlich Anlagen und der Fortschreibung des HSP - An den Fachausschuss verwiesen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2014 - Kenntnisnahme
+- TOP 8: Gebührenerhebung für die Benutzung der Abwasseranlagen - Mit Stimmenmehrheit beschlossen
+- TOP 9: 20. Nachtrag Kanalbenutzungsgebührensatzung u.a. - Einstimmiger Beschluss
+- TOP 10: Neukonzeption der städtischen Abfallannahmestellen - Siehe Niederschrift
+- TOP 11: 20. Nachtrag Benutzungsordnung Abfallentsorgungsanlagen und 15. Nachtrag Abfallsatzung - Einstimmiger Beschluss
+- TOP 12: 17. Nachtrag zur Abfallgebührensatzung - Einstimmiger Beschluss
+- TOP 13: 38. Nachtrag zur Straßenreinigungs- und Gebührensatzung - Einstimmiger Beschluss
+- TOP 14: Integriertes Klimaschutzkonzept Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 14.1: Verlängerung der Stelle des Klimaschutzmanagers der Stadt Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Planungsverband der Tagebaurandgemeinden - Mit Stimmenmehrheit beschlossen
+- TOP 16: Schulorganisatorische Maßnahmen im Bereich der Förderschulen Konzeptbeschluss - Einstimmiger Beschluss
+- TOP 17: Nachträge Museen - Einstimmiger Beschluss
+- TOP 18: VHS Tarif - Mit Stimmenmehrheit beschlossen
+- TOP 19: Leistungsvereinbarungen Tagestreff - Einstimmiger Beschluss
+- TOP 20: Verlängerung der Sockelbetragsfinanzierung - Mit Stimmenmehrheit beschlossen
+- TOP 21: Vertrag über die Wahrnehmung von Betreuungen mit dem SKM - Einstimmiger Beschluss
+- TOP 22: Leistungsvereinbarung mit dem Caritasverband im Aufgabenbereich der Familienpflege - Mit Stimmenmehrheit beschlossen
+- TOP 23: LV Café Pflaster MG und RY - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung mit der Jüd. Gemeinde - Einstimmiger Beschluss
+- TOP 25: Förderung von Pflegeeinrichtungen - Einstimmiger Beschluss
+- TOP 26: Kriterienkatalog Wohnumfeldmaßnahmen - Siehe Niederschrift
+- TOP 27: Lkw-Routenkonzept - Maßnahme des Luftreinhalteplanes - Mit Stimmenmehrheit beschlossen
+- TOP 28: Soziale Stadt - Innenstadtkonzept Rheydt - Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss
+- TOP 29: Veränderungssperre nördlich der Steinsstraße - Einstimmiger Beschluss
+- TOP 30: 2. Verl. e. Veränderungssperre (Gebiet zw. Humboldtstr, Steinmetzstr, Breitenbachstr u. Bahnkörper - Einstimmiger Beschluss
+- TOP 31: Jugendförderplan hier: Antrag der Fraktion DIE LINKE vom 25.09.2014 - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 32.1: Anfrage von RH Schultz (Die LINKE) zu City-Ost - Zur Kenntnis genommen
