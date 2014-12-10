@@ -1,0 +1,381 @@
+---
+ecli: "ECLI:DE:BGH:2014:101214VIIIZR9.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-08"
+aktenzeichen: "VIII ZR 9/14"
+decided: "2014-12-10"
+typ: "U"
+bemerkung: "Leitsatzentscheidung\nsiehe auch: Pressemitteilung Nr. 181/14  vom 4.12.2014,\n     Pressemitteilung Nr. 184/14  vom 10.12.2014"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2014&Sort=1&Seite=98&nr=69893&anz=3080&pos=2950&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-08_LE_2014-12-10_VIII_ZR_9_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0241.md", "germany/bund/acts/bgb/0242.md", "germany/bund/acts/bgb/0315.md", "germany/bund/acts/heizkostenv/0007.md", "germany/bund/acts/heizkostenv/0008.md", "germany/bund/acts/heizkostenv/0009.md", "germany/bund/acts/heizkostenv/0009a.md", "germany/bund/acts/heizkostenv/0012.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VIII ZR 9/14 vom 2014-12-10
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                     IM NAMEN DES VOLKES
+
+                                    URTEIL
+VIII ZR 9/14                                                        Verkündet am:
+                                                                    10. Dezember 2014
+                                                                    Ermel,
+                                                                    Justizangestellte
+                                                                    als Urkundsbeamtin
+                                                                    der Geschäftsstelle
+                                in dem Rechtsstreit
+Nachschlagewerk:         ja
+
+BGHZ:                  nein
+
+BGHR:                    ja
+
+
+
+BGB § 241 Abs. 2, § 242 Cd; HeizkostenVO § 9 Abs. 4, § 8 Abs. 1
+
+
+a) Auch bei hohen Wohnungsleerständen (hier: im Hinblick auf einen im Rahmen der
+   Stadtplanung vorgesehenen Abriss eines 28-Familienhauses) hat es grundsätzlich
+   bei der in § 9 Abs. 4, § 8 Abs. 1 HeizkostenVO vorgeschriebenen anteiligen Umlage
+   von Warmwasserkosten nach Verbrauch zu bleiben.
+
+b) Im Einzelfall kann der Vermieter nach § 241 Abs. 2 BGB verpflichtet sein, dem Verlangen des Mieters auf eine Vertragsänderung dahin gehend zuzustimmen, den
+   nach Verbrauch zu berechnenden Teil der Warmwasserkosten auf das gesetzliche
+   Mindestmaß von 50 % der Gesamtkosten abzusenken, um die Fixkosten bei hohen
+   Leerständen angemessen zu verteilen.
+
+c) Leerstandsbedingten Kostenverschiebungen zu Lasten des Mieters kann darüber
+   hinaus im Einzelfall mit einer aus dem Prinzip von Treu und Glauben (§ 242 BGB)
+   abzuleitenden Anspruchsbegrenzung Rechnung getragen werden. Dabei ist zu berücksichtigen, dass auch der Vermieter durch den Leerstand beträchtliche Nachteile
+   erleidet, weil er - ohne entsprechende Mieteinnahmen zu erhalten - bereits über den
+   von ihm zu tragenden Wohnflächenanteil ebenfalls nicht unbeträchtliche Kosten zu
+   tragen hat.
+
+BGH, Urteil vom 10. Dezember 2014 - VIII ZR 9/14 - LG Frankfurt (Oder)
+                                                   AG Frankfurt (Oder)
+
+                                          -2-
+
+
+
+    Der VIII. Zivilsenat des Bundesgerichtshofs hat aufgrund der mündlichen Verhandlung vom 10. Dezember 2014 durch die Vorsitzende Richterin Dr. Milger,
+    die Richter Dr. Achilles und Dr. Schneider, die Richterin Dr. Fetzer sowie den
+    Richter Dr. Bünger
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Klägerin wird das Urteil der 6. Zivilkammer
+          des Landgerichts Frankfurt (Oder) vom 17. Dezember 2013 aufgehoben.
+
+          Die Berufung der Beklagten gegen das Urteil des Amtsgerichts
+          Frankfurt (Oder) vom 7. Juni 2013 wird mit der Maßgabe zurückgewiesen, dass die Beklagte verurteilt wird, an die Klägerin
+          86,06 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem
+          Basiszinssatz aus 506,67 € ab dem 27. September 2012 zu zahlen. Im Übrigen ist der Rechtsstreit in der Hauptsache erledigt.
+
+          Die Beklagte hat die Kosten der Rechtsmittelverfahren zu tragen.
+
+                                  Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Die Beklagte war Mieterin einer 47,46 qm großen Wohnung der Klägerin
+    in einem 28-Familien-Haus in F.               . Da das Haus im Rahmen der
+    Stadtplanung abgerissen werden sollte, waren Ende 2011 von den im Haus
+    befindlichen Wohnungen nur noch wenige Wohnungen belegt.
+
+                                          -3-
+
+
+
+2         Unter dem Datum 15. September 2012 erteilte die Klägerin der Beklagten die Betriebskostenabrechnung für das Kalenderjahr 2011, die einen Saldo
+    zugunsten der Klägerin in Höhe von 1.230,91 € ausweist. Die Parteien streiten
+    um die in der Abrechnung umgelegten Warmwasserkosten.
+
+3         Für die Erwärmung des Wassers im Zuge der Entnahme von Warmwasser fielen im Jahr 2011 für das gesamte Haus, das über eine verbundene Anlage mit Wärme und Warmwasser versorgt wird, bei einem Energieverbrauch von
+    61.130 kWh Kosten in Höhe von 7.848,61 € an. 50 % dieser Kosten legte die
+    Klägerin nach Wohnflächenanteilen um. Die restlichen 50 % der Kosten
+    (3.924,31 €) berechnete sie nach Verbrauch, der im Jahr 2011 für das gesamte
+    Haus 78,22 m³ betrug. Hiervon entfielen nach den Messungen der Einzelverbrauchszähler in der Wohnung der Beklagten 23,82 m³ auf diese. Daraus
+    errechnete   die   Klägerin   einen   Verbrauchskostenanteil    von   1.195,06 €
+    (3.924,31 € : 78,22 m³ x 23,82 m³). Von diesem Betrag stellte die Klägerin der
+    Beklagten "aus Kulanz" lediglich 50 % (597,53 €) in Rechnung.
+
+4         Von dem Saldo aus der Betriebskostenabrechnung für das Jahr 2011 in
+    Höhe von 1.230,91 € verlangt die Klägerin von der Beklagten nach Abzug des
+    Kulanzbetrags sowie eines weiteren Abzugs für Wasserverluste letztlich noch
+    565,94 €.
+
+5         Die Beklagte weigert sich, Nachzahlungen zu erbringen, da die Klägerin
+    die Warmwasserkosten aufgrund des hohen Leerstandes im Haus nicht nach
+    Verbrauch, sondern ausschließlich nach der Wohnfläche habe umlegen dürfen.
+
+6         Das Amtsgericht hat der Klage, mit der die Klägerin die Beklagte auf
+    Zahlung des vorgenannten Betrags von 565,94 € nebst Zinsen in Anspruch
+    nimmt, in Höhe von 506,67 € stattgegeben und die Klage im Übrigen abgewiesen. Hiergegen hat die Beklagte Berufung eingelegt.
+
+                                           -4-
+
+
+
+7          Während des Berufungsrechtszugs hat die Klägerin den Rechtsstreit
+     teilweise in Höhe von 446,45 € (hinsichtlich der Hauptforderung in Höhe von
+     420,61 € sowie hinsichtlich des Zinsanspruchs in Höhe von 25,84 €) im Hinblick
+     auf eine von ihr nach Erlass des amtsgerichtlichen Urteils erklärte Aufrechnung
+     mit einem Guthaben der Beklagten aus der Betriebskostenabrechnung 2012
+     schriftsätzlich für erledigt erklärt. In der mündlichen Verhandlung vor dem Berufungsgericht hat die Klägerin jedoch ihren ursprünglich angekündigten Antrag
+     auf Berufungszurückweisung gestellt. Die Beklagte ist den zur Gegenforderung
+     erklärten Tatsachen nicht entgegengetreten; sie hat aber der Teilerledigungserklärung der Klägerin widersprochen.
+
+8          Das Landgericht hat auf die Berufung der Beklagten das amtsgerichtliche
+     Urteil abgeändert und die Klage abgewiesen. Hiergegen richtet sich die vom
+     Berufungsgericht zugelassene Revision der Klägerin, mit der sie in erster Linie
+     ihren Zahlungsanspruch weiterverfolgt und im Übrigen die Feststellung der Erledigung der Hauptsache begehrt.
+
+
+
+
+                                  Entscheidungsgründe:
+
+9          Die Revision hat Erfolg.
+
+                                            I.
+
+10         Das Berufungsgericht hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:
+
+11         Der Klägerin stehe kein Nachzahlungsanspruch aus der Betriebskostenabrechnung für das Jahr 2011 zu, da die von der Klägerin rechnerisch zutreffend vorgenommene Verteilung der Warmwasserkosten nach § 8 HeizkostenV
+
+                                           -5-
+
+
+
+     unter den besonderen Umständen des Streitfalls nicht sachgerecht sei, sondern
+     zu unbilligen Ergebnissen führe, die der Korrektur bedürften.
+
+12         Der nach § 8 Abs. 1 HeizkostenV vorgesehene Berechnungsmodus führe in den Fällen, in denen eine für große Leistung und viele Wohnungen ausgelegte Heizungs- und Warmwasseranlage nur noch der Wärmebereitstellung für
+     wenige Wohnungen diene, für die wenigen verbleibenden Mieter zu unzumutbaren Ergebnissen. Denn in diesen Fällen erhöhe sich zwangsläufig der prozentuale Anteil der unabhängig vom individuellen Verbrauch entstehenden Fixkosten für die Wärmebereitstellung gegenüber den Gesamtkosten. Dies könne bei
+     hohen Leerständen dazu führen, dass der tatsächliche Fixkostenanteil den
+     nach § 8 Abs. 1 HeizkostenV mit maximal 50 % ansetzbaren Anteil an diesen
+     Kosten deutlich übersteige. Im Extremfall trage der letzte in einem großen Haus
+     verbleibende Mieter 50 % der Gesamtkosten der Heizungsanlage über seinen
+     Verbrauchsanteil.
+
+13         Im Streitfall könne aufgrund der hierzu erfolgten substantiierten Darlegung der Beklagten, der die Klägerin nicht entgegengetreten sei, mit Sicherheit
+     davon ausgegangen werden, dass aufgrund der dargelegten Verschiebung der
+     Kostenanteile die auf die Beklagte umgelegten verbrauchsabhängigen Warmwasserkosten nicht deren tatsächlichem Kostenanteil entsprächen.
+
+14         Derart unbilligen Ergebnissen wie im Streitfall könne mit der entsprechenden Anwendung des § 9a Abs. 1 HeizkostenV begegnet werden, zu dem
+     die Klägerin trotz erfolgten Hinweises durch die Kammer keine Berechnung
+     vorgelegt habe, so dass ihr auch kein Anspruch zuerkannt werden könne.
+
+15         Die entsprechende Anwendung des § 9a Abs. 1 HeizkostenV sei möglich, weil der Gesetzgeber der Heizkostenverordnung die genannten Extremfälle
+     des "Leerwohnens" eines Gebäudes nicht bedacht habe. Der Anwendungsbe-
+
+                                          -6-
+
+
+
+     reich des § 8 HeizkostenV sei teleologisch zu reduzieren, da sein Zweck, eine
+     angemessene Warmwasserkostenverteilung zu gewährleisten, in den genannten Fällen nicht mehr erreicht werden könne. Zwar seien die Vorschriften der
+     HeizkostenV gemäß § 2 dieser Verordnung durch Rechtsgeschäft nicht abdingbar; dies führe jedoch nicht dazu, dass Gerichte nicht über den Anwendungsbereich dieser Vorschriften befinden könnten. Der in § 8 HeizkostenV enthaltene
+     Grundsatz der verbrauchsabhängigen Abrechnung finde dort seine Grenze, wo
+     die verbrauchsabhängige Umlage zu einer unzumutbaren Mehrbelastung der
+     Mieter mit Fixkosten führe, die auf leerstehende Wohnungen nicht nach Verbrauch umgelegt werden könnten, weil dort kein Verbrauch stattfinde.
+
+16         Die damit vorliegende planwidrige Gesetzeslücke sei durch die entsprechende Anwendung des § 9a Abs. 1 HeizkostenV zu schließen. Diese Vorschrift erlaube eine angemessene Berechnung der Warmwasserkosten auf der
+     Grundlage der Vorjahreswerte, bei der zugleich der konkrete Warmwasserverbrauch im streitgegenständlichen Zeitraum einfließen könne und pauschale Abschläge zu Lasten des Vermieters, wie etwa in § 12 HeizkostenV, vermieden
+     würden.
+
+                                           II.
+
+17         Diese Beurteilung hält rechtlicher Nachprüfung nicht stand. Entgegen der
+     Auffassung des Berufungsgerichts ist die von der Klägerin vorgenommene Berechnung des Warmwasserverbrauchs der Beklagten auf der Grundlage von
+     § 9 Abs. 4 HeizkostenV in Verbindung mit § 8 Abs. 1 HeizkostenV aus Rechtsgründen nicht zu beanstanden, da die Klägerin von der Beklagten "aus Kulanz"
+     lediglich 50 % (= 597,53 €) des auf die Beklagte entfallenden Kostenanteils von
+     1.195,06 € verlangt; mit dieser freiwilligen Anspruchskürzung hat die Klägerin
+
+                                           -7-
+
+
+
+     dem berechtigten Interesse der Beklagten an einer angemessenen Kostenverteilung in hinreichender Weise Rechnung getragen.
+
+18          1. Nach §§ 6 ff. HeizkostenV ist eine bestimmte (anteilige) Verbrauchserfassung der Kosten für Heizung und Warmwasser nach dem gemessenen Verbrauch gesetzlich vorgeschrieben. Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen Warmwasserversorgungsanlage verbunden,
+     so sind die einheitlich entstandenen Kosten nach § 9 Abs. 1 Satz 1 HeizkostenV aufzuteilen. Der Anteil an den Kosten der Wärmeversorgung ist sodann
+     nach § 7 Abs. 1 HeizkostenV, der Anteil an den Kosten der Versorgung mit
+     Warmwasser nach § 8 Abs. 1 HeizkostenV zu verteilen, soweit die Heizkostenverordnung nichts anderes bestimmt oder zulässt (§ 9 Abs. 4 HeizkostenV).
+     Gemäß § 8 Abs. 1 HeizkostenV sind mindestens 50 %, höchstens 70 % nach
+     dem   erfassten   Warmwasserverbrauch,      die   übrigen   Kosten    nach   der
+     Wohn- oder Nutzfläche zu verteilen. Wie der Verteilungsschlüssel innerhalb
+     dieses Rahmens im konkreten Einzelfall zu bemessen ist, obliegt nach § 315
+     BGB dem billigen Ermessen des Vermieters. Zweck dieses vom Verordnungsgeber vorgeschriebenen Verteilungsschlüssels wie auch der gesamten Heizkostenverordnung ist es, das Verbrauchsverhalten der Nutzer nachhaltig zu
+     beeinflussen und damit Energieeinspareffekte zu erzielen (BR-Drucks. 570/08,
+     S. 7; vgl. auch Senatsurteil vom 19. Juli 2006 - VIII ZR 212/05, NZM 2006, 652
+     Rn. 14).
+
+19         2. Allerdings ist das Berufungsgericht - ähnlich einer in der Instanzrechtsprechung und in der Literatur vertretenen Meinung (Wall in Eisenschmid/Wall,
+     Betriebskostenkommentar, 3. Aufl., Rn. 3030 unter Hinweis auf LG Gera, WuM
+     2007, 511) - der Auffassung, dass der Zweck der Heizkostenverordnung dann
+     nicht mehr zum Tragen kommen könne, wenn die von der Heizkostenverordnung vorgeschriebene Kostenverteilung zu unzumutbaren Belastungen der ver-
+
+                                            -8-
+
+
+
+     bleibenden Mieter/Nutzer führe. Das Berufungsgericht führt aus, dass der in
+     § 8 Abs. 1 HeizkostenV enthaltene Grundsatz der verbrauchsabhängigen Abrechnung dort seine Grenze finden müsse, wo die verbrauchsabhängige Umlage zu einer unzumutbaren Mehrbelastung der Mieter mit Fixkosten führe, die
+     auf leerstehende Wohnungen nicht nach Verbrauch umgelegt werden könnten,
+     weil dort kein Verbrauch stattfinde.
+
+20         3. Diese Auffassung teilt der Senat nicht.
+
+21         a) Auch wenn - wie der Streitfall zeigt - die allein auf den Vorschriften der
+     Heizkostenverordnung beruhende verbrauchsbezogene Abrechnung im Einzelfall zu als unangemessen empfundenen Ergebnissen führen kann, wird dadurch
+     der über die Einzelfallgerechtigkeit hinausreichende Zweck der Heizkostenverordnung, dem jeweiligen Nutzer den Zusammenhang zwischen dem individuellen Verbrauch und den daraus resultierenden Kosten bewusst zu machen und
+     dadurch Energiespareffekte zu erzielen, nicht in Frage gestellt. Denn die Frage
+     der Sinnhaftigkeit der Vorschriften der Heizkostenverordnung einerseits und die
+     Frage, ob die von der Heizkostenverordnung vorgeschriebene verbrauchsbezogene Abrechnung im Einzelfall zu als billig und gerecht empfundenen Ergebnissen führt andererseits, liegen auf verschiedenen Beurteilungsebenen.
+
+22         Es muss daher auch bei hohen Leerständen grundsätzlich bei der von
+     der Heizkostenverordnung vorgegebenen verbrauchsabhängigen Abrechnung
+     verbleiben. Insbesondere eine vom Berufungsgericht befürwortete (ähnlich
+     auch Wall in Eisenschmid/Wall, aaO, Rn. 3030; ders., WuM 2007, 415, 418 [differenzierend und eine Lösung de lege ferenda fordernd]; Langenberg, Betriebskosten- und Heizkostenrecht, 7. Aufl., K Rn. 189) analoge Anwendung des
+     § 9a HeizkostenV kommt nicht in Betracht. Die analoge Anwendung einer Einzelnorm verlangt, dass der von dieser Vorschrift nicht geregelte Sachverhalt,
+
+                                           -9-
+
+
+
+     der in den Anwendungsbereich der Norm gezogen werden soll, mit den von ihr
+     erfassten Sachverhalten vergleichbar ist (BGH, Urteil vom 13. Juli 1988
+     - IVa ZR 55/87, BGHZ 105, 140, 143). Daran fehlt es hier. Die unter § 9a Abs. 1
+     HeizkostenV zu subsumierenden Sachverhalte haben ersichtlich Fallgestaltungen zum Gegenstand, in denen aus zwingenden Gründen (namentlich eines
+     Geräteausfalls) eine ordnungsgemäße Erfassung des Verbrauchs nicht möglich
+     ist. Derartige Sachverhalte sind nicht mit den hier in Rede stehenden Fällen
+     vergleichbar, die dadurch gekennzeichnet sind, dass eine Verbrauchserfassung
+     sehr wohl möglich ist und auch erfolgt.
+
+23          b) Unzuträglichkeiten in der Abrechnung aufgrund eines hohen Leerstands kann im Einzelfall in anderer Weise Rechnung getragen werden.
+
+24          aa) Ist etwa im Mietvertrag ein Abrechnungsmaßstab vereinbart, der eine
+     höhere Verbrauchsquote als 50 % bestimmt, kann der Vermieter im Einzelfall
+     aus dem in § 241 Abs. 2 BGB verankerten Gebot der Rücksichtnahme auf die
+     Interessen des anderen Vertragsteils verpflichtet sein, dem Verlangen des Mieters auf eine Vertragsänderung dahin gehend zuzustimmen, den nach Verbrauch zu berechnenden Teil der Kosten zukünftig auf das gesetzliche Mindestmaß von 50 % abzusenken, um die Fixkosten bei hohen Leerständen angemessen zu verteilen. Eine darüber hinausgehende Absenkung des verbrauchsabhängigen Kostenanteils oder eine Berechnung der Warmwasserkosten ausschließlich auf der Grundlage des Wohnflächenanteils sieht die Heizkostenverordnung dagegen nicht vor mit der Folge, dass eine völlige Abwälzung
+     des Leerstandsrisikos auf den Vermieter nach der Heizkostenverordnung nicht
+     möglich ist.
+
+25          bb) Das Berufungsgericht hat allerdings zutreffend herausgearbeitet,
+     dass die strikte Anwendung der Vorgaben der Heizkostenverordnung bei hohen
+
+                                          - 10 -
+
+
+
+     Leerständen in Einzelfällen auch unter - wie hier - Zugrundelegung des nach
+     § 8 Abs. 1 HeizkostenV für den Mieter günstigsten Verteilungsmaßstabs (50 %
+     nach Verbrauch, 50 % nach Wohnfläche) zu Ergebnissen führen kann, die nicht
+     mehr als billig und gerecht empfunden werden.
+
+26          Das Berufungsgericht hat ausgeführt, dass die im Haus für die Warmwasseraufbereitung (laut Wärmezähler) aufgewendete Energiemenge von
+     61.130 kWh ein Vielfaches der Energiemenge beträgt, die nach der Berechnungsformel des § 9 Abs. 2 Satz 2 HeizkostenV für die Erwärmung des im gesamten Haus verbrauchten Wassers (78,22 m³) zu erwarten gewesen wäre
+     (8.800 kWh). Der tatsächliche Energieverbrauch beträgt im Streitfall etwa das
+     Siebenfache des an sich für die Erwärmung von 78,22 m³ zu erwartenden
+     Energieverbrauchs.
+
+27          cc) Derartigen leerstandsbedingten Kostenverschiebungen zu Lasten
+     des Nutzers kann mit einer aus dem Prinzip von Treu und Glauben (§ 242 BGB)
+     abzuleitenden Anspruchsbegrenzung Rechnung getragen werden.
+
+28          Das Prinzip von Treu und Glauben bildet eine allen Rechten immanente
+     Inhaltsbegrenzung und setzt der (auch gesetzlich zulässigen) Rechtsausübung
+     dort Schranken, wo sie zu untragbaren, mit Recht und Gerechtigkeit offensichtlich unvereinbaren Ergebnissen führt (vgl. BGH, Urteil vom 16. Februar 2005
+     - IV ZR 18/04, NJW-RR 2005, 619 unter II 2 a). Insbesondere muss § 242 BGB
+     dann in Betracht gezogen werden, wenn die Anwendung der gesetzlichen Vorschriften einen im Einzelfall bestehenden Interessenkonflikt nicht hinreichend zu
+     erfassen vermag und für einen der Beteiligten ein unzumutbar unbilliges Ergebnis zur Folge hätte (BGH, Urteil vom 27. April 1977 - IV ZR 143/76, BGHZ 68,
+     299, 304). So liegt es hier.
+
+                                          - 11 -
+
+
+
+29         Eine allgemeine Aussage dazu, in welcher Fallkonstellation sich eine
+     nach den Vorschriften der Heizkostenverordnung zutreffend berechnete Forderung nach den Grundsätzen von Treu und Glauben für den betroffenen Mieter
+     als unzumutbare Belastung darstellt, so dass eine Begrenzung des Anspruchs
+     des Vermieters der Höhe nach angezeigt ist, verbietet sich. Ob eine Anspruchskürzung geboten ist und gegebenenfalls in welchem Umfang, obliegt
+     der Beurteilung des Tatrichters, der hierbei alle Umstände des jeweiligen Einzelfalls bei seiner Entscheidung zu berücksichtigen hat. Dabei hat der Tatrichter
+     auch in seine Betrachtung einzubeziehen, dass eine absolute Verteilungsgerechtigkeit bei der Umlage von Betriebskosten vom Gesetz nicht gefordert wird
+     (Senatsurteil vom 6. Oktober 2010 - VIII ZR 183/09, NJW 2010, 3645 Rn. 17).
+     Es geht vielmehr darum, die beiderseitigen Interessen in der Gesamtschau zu
+     einem angemessenen Ausgleich zu bringen.
+
+30         Bereits das Amtsgericht hat zutreffend ausgeführt, dass in Gebäuden mit
+     sehr hohen Leerständen sowohl der Vermieter als auch die verbleibenden Mieter erhebliche Nachteile erleiden. Die verbleibenden Mieter können von hohen
+     Verbrauchskostenumlagen betroffen sein, während der Vermieter, ohne
+     Mieteinnahmen zu haben, über den von ihm zu tragenden Wohnflächenanteil
+     von 50 % ebenfalls nicht unbeträchtliche Kosten zu tragen hat. Dies trifft zu.
+     Deshalb erscheint es auch nicht unbillig, wenn die verbleibenden Mieter einen
+     angemessenen Teil der leerstandsbedingten Mehrkosten zu tragen haben.
+
+                                            III.
+
+31         Nach alledem kann das Berufungsurteil keinen Bestand haben; es ist
+     aufzuheben (§ 562 Abs. 1 ZPO). Da keine weiteren Feststellungen zu treffen
+     sind, hat der Senat in der Sache selbst zu entscheiden (§ 563 Abs. 3 ZPO).
+
+                                          - 12 -
+
+
+
+32         1. Die Klägerin hat nach den Feststellungen des Berufungsgerichts den
+     auf die Beklagte entfallenden Anteil an den Warmwasserkosten in Anwendung
+     der Vorgaben aus § 8 Abs. 1 HeizkostenV nach dem für die Beklagte günstigsten Verteilungsmaßstab (50 % nach Wohnfläche, 50 % nach Verbrauch) rechnerisch zutreffend mit 1.195,06 € ermittelt. Von diesem Betrag stellte die Klägerin der Beklagten zudem "aus Kulanz" lediglich 50 % in Rechnung. Mit dieser
+     freiwilligen Anspruchskürzung ist sie - nimmt man insbesondere sämtliche auf
+     die Beklagte umgelegten Kosten für Wärme und Warmwasser in den Blick - im
+     Ergebnis den berechtigten Interessen der Beklagten an einer den hohen Leerstand angemessen berücksichtigenden Kostenverteilung unter Beachtung des
+     Grundsatzes von Treu und Glauben in jedenfalls hinreichender Weise entgegengekommen. Nach der Abrechnung vom 15. September 2012 hat die Beklagte von den Kosten für Wärme (reine Heizkosten) 738,32 € (140,27 € nach
+     Wohnflächenanteil, 598,05 € nach Verbrauch) zu tragen. Von den Warmwasserkosten hat die Beklagte insgesamt 728,55 € (131,02 € nach Wohnflächenanteil, 597,53 € unter Berücksichtigung des Kulanzabzugs nach Verbrauch) zu
+     tragen. Die auf die Beklagte entfallenden Gesamtkosten für Heizung und
+     Warmwasser in Höhe von 1.466,87 € pro Jahr, mithin von rund 120 € pro Monat, sind für eine knapp 50 m² große Wohnung zwar hoch, erscheinen aber unter Berücksichtigung der beiderseitigen Interessen nicht untragbar. Der Klägerin
+     steht mithin die geltend gemachte Forderung in dem vom Amtsgericht zugesprochenen Umfang zu.
+
+33         2. Bei der vom Senat zu treffenden Entscheidung ist zu berücksichtigen,
+     dass die Klägerin die bereits im Berufungsrechtszug schriftsätzlich erklärte, jedoch in der Antragstellung vor dem Berufungsgericht prozessual nicht umgesetzte teilweise Erledigungserklärung nunmehr in der Revisionsinstanz wiederholt und beantragt, die Beklagte zur Zahlung von 86,05 € nebst Zinsen zu verur-
+
+                                          - 13 -
+
+
+
+     teilen und im Übrigen die Erledigung des Rechtsstreits in der Hauptsache festzustellen.
+
+34         Die von der Klägerin erklärte einseitige Erledigungserklärung ist auch im
+     Revisionsverfahren zulässig, wenn das erledigende Ereignis als solches außer
+     Streit steht (vgl. BGH, Urteil vom 5. März 2014 - IV ZR 102/13, juris Rn. 12
+     mwN). So liegt es hier, denn die Beklagte hat weder die von der Klägerin erklärte Aufrechnung mit dem Guthaben aus der Betriebskostenabrechnung für das
+     Jahr 2012 als solche noch die von der Klägerin vorgetragenen Tatsachen zum
+     Bestand oder der Höhe der Gegenforderung bestritten.
+
+35         Da die ursprüngliche Klage im Zeitpunkt des erledigenden Ereignisses
+     zulässig und in dem vom Amtsgericht festgestellten Umfang (506,67 €) begründet war sowie durch die Aufrechnung in Höhe von 446,45 € unbegründet geworden ist, wobei die Klägerin 420,61 € auf die Hauptforderung und 25,84 € auf
+
+                                    - 14 -
+
+
+
+die Zinsforderung verrechnet hat, ist zu entscheiden wie aus dem Tenor ersichtlich.
+
+Dr. Milger                        Dr. Achilles                  Dr. Schneider
+
+                Dr. Fetzer                       Dr. Bünger
+
+
+
+
+Vorinstanzen:
+AG Frankfurt (Oder), Entscheidung vom 07.06.2013 - 2.2 C 215/13 -
+LG Frankfurt (Oder), Entscheidung vom 17.12.2013 - 16 S 138/13 -
