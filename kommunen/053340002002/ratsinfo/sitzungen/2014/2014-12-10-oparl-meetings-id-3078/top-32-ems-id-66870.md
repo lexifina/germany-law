@@ -1,0 +1,8 @@
+# TOP 32: Schenkung eines Ölgemäldes Kaiserkrönung Karls des Großen in Rom aus Privatbesitz
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2014-12-10)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=66870
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=18245&bi=23699
