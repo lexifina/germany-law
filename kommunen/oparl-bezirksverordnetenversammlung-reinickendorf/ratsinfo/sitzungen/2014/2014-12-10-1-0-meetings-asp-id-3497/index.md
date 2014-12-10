@@ -1,0 +1,95 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2014-12-10T17:00:00+01:00
+- Ende: 2014-12-10T19:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3497
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3497
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=80530
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 36. Sitzung der BVV am 10.12.2014 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 36. Sitzung der BVV am 10.12.2014 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 36. Sitzung der BVV am 10.12.2014 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Ideen für schöne Plätze in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Unfallschwerpunkt BAB-Abfahrt Waidmannsluster Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Hinweis auf Radfahrer an der B96 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Schulwegsicherung Bertha-von-Suttner-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Transparenz - Bürgernähe (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Toiletten mit Wickelmöglichkeiten in direkter Spielplatznähe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Sicherer Schulweg für Heiligenseer Schüler 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Sporthallenkapazitäten wiederherstellen, Mensaplanung konsolidieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Zebrastreifen an der Einmündung Waidmannsluster Damm / Dianastraße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Beitritt Berliner Charta für die Verkehrssicherheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Kindertagesstättenverzeichnis auch für Reinickendorfer Bürger nutzbar machen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Tageskostenbeteiligung (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Halteverbot vor der Bedarfsampel Humboldtstraße anordnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Aufenthaltsqualität am U+S-Bahnhof Wittenau verbessern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.16: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung des Bezirks Reinickendorf für den Zeitraum vom 01.04.2013 bis 31.03.2014 - überwiesen
+- TOP 7.17: Aufstellung des Bebauungsplans 12-54 für eine Teilfläche des Golgatha-Gnaden-Friedhofs, Holländerstraße 36, 36 A sowie einen Abschnitt der Holländerstraße im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 7.18: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-31 für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.19: Aufstellung des Bebauungsplans 12-53 für die Grundstücke Emmentaler Straße 90/100A, Friedrich-Wilhelm-Straße 78-87 und Residenzstraße 130-137 sowie Teilflächen der Emmentaler Straße und Residenzstraße und einen Abschnitt der Friedrich-Wilhelm-Straßeim Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 7.20: Aufstellung des Bebauungsplans 12-52 für die Grundstücke Blankestraße 9 - 11 und eine südliche Teilfläche des Dankeskirchhofs (evangelischer Friedhof) an der Gotthardstraße im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 7.21: Schulname der 1. Gemeinschaftsschule Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Stand der Inklusion in Reinickendorf - beantwortet
+- TOP 8.1.1: Inklusion - überwiesen
+- TOP 8.2: Schulentwicklungsplanung in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2013 - überwiesen
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Kiezfond 2.0 - erledigt
+- TOP 10.2: Regelmäßiger Bericht über den Bau von Fußgängerüberwegen und Querungshilfen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Schlaglochsanierung Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: ÖPNV in der Bernstorffstraße - in der BVV abgelehnt
+- TOP 10.5: Parkplätze Feuerwehrschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Fahrräder reparieren - nicht verschrotten - erledigt
+- TOP 10.7: Zügige Schaffung gesetzlicher Grundlagen für die Einführung des Smiley-Systems - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Einsatz von Doppelstock-Fahrradabstellsystemen an Reinickendorfer Bahnhöfen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Poller am Zeltinger Platz vorsehen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Hängeleuchten in Frohnau auf gelbliche LED-Beleuchtung umstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Fahrradständer vor dem Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Unterstützung der Bildungsprojekte von PROTECT und BGZ über Ehrenämter in Hilfsorganisationen für Kinder und Jugendliche - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Asylprojekt der Bundesagentur für Arbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Verfügbarkeit von Mieterparkplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Sicherer Fußweg in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Antrag Sturzprophylaxe - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Oberschulbroschüre mit sonderpädagogischer Ausrichtung intensivieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Änderung der Geschäftsordnung - § 36 (8) und § 49 (3) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 11.2: Begrenzte Verlängerung der Tätigkeit des temporären Ausschusses für transparente und moderne Öffentlichkeitsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kostenlose Smartphone-App "Japp" - überwiesen
+- TOP 12.2: Aus Verkehrssicherheitsbericht 2014 lernen - überwiesen
+- TOP 12.3: Bezahlbares Wohnen in der Cité Foch - überwiesen
+- TOP 12.4: Schulentwicklungsplanung - überwiesen
+- TOP 12.5: Standort ehemalige Klinik Wiesengrund sichern - überwiesen
+- TOP 12.6: Messung elektromagnetischer Strahlungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schweigeminute zum 70. Jahrestag der Befreiung des Vernichtungslagers Auschwitz am 27. Januar 1945 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Reinigung der Entwässerungsgräben kontrollieren - überwiesen
+- TOP 13.2: Kontrastreiche Markierungen am S-Bhf. Hermsdorf wieder erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Begegnungsverkehr auf dem Zabel-Krüger-Damm - überwiesen
+- TOP 13.4: Kinderstadtpläne für alle Ortsteile erstellen - überwiesen
+- TOP 13.5: ÖPNV attraktiver machen - überwiesen
+- TOP 13.6: Müllabholungstermine auf der Internetseite www.bsr.de übersichtlich darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Verkehrssituation an der Feuerwache Wittenau verbessern - überwiesen
+- TOP 13.8: Gesundheitskarte nach dem Bremer Modell - überwiesen
+- TOP 13.9: Erhalt des SoproRo-Sozialwarenhauses in Reinickendorf-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Erhalt und Sanierung des ehemaligen Pferdestallesder Feuerwache Hermsdorf - ohne Änderungen in der BVV beschlossen
