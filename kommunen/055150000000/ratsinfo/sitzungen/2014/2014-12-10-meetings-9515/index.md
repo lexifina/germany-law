@@ -1,0 +1,135 @@
+# 5. Sitzung (Verabschiedung Haushalt 2015)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2014-12-10T17:07:00+01:00
+- Ende: 2014-12-10T22:59:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9515
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9515
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00364094.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Stadtwerke Kosten Öffentlichkeitsarbeit
+- TOP 1.2: Allwetterzoo" rechtliche Konstruktion"
+- TOP 1.3: Allwetterzoo - Ratsvorlage V/0519/2014
+- TOP 1.4: "Allwetterzoo" Verlustübernahmen
+- TOP 1.5: "Allwetterzoo" Aufsichtsrat
+- TOP 1.6: "Allwetterzoo" - kaufmännischer Geschäftsführer
+- TOP 1.7: "Allwetterzoo" Ausschreibung
+- TOP 1.8: "Allwetterzoo" Definition Zuordnung als Daseinsvorsorge im Betrauungsakt
+- TOP 1.9: "Allwetterzoo" Ermächtigung der Verwaltung zur Änderung des Betrauungsaktes (V/0479/2012)
+- TOP 1.10: Finanzierung der Primusschule
+- TOP 1.11: Behindertengerechte Schulen
+- TOP 1.12: Konzept der Stadt Münster zum Standort Geistschule
+- TOP 1.13: Gemeinsames Lernen am Annette-von-Droste Hülshoff Gymnasium
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Unterbringung von Flüchtlingen am Nordkirchenweg (modulare Bauweise an der Südseite)
+- TOP 6.2: Weiterer Betrieb des Gebäudes in Pavillonbauweise der Flüchtlingseinrichtung Nordkirchenweg 48/50 - mehrheitlich beschlossen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Entsendung sachkundiger Einwohner/innen auf Vorschlag des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP -: Beratungen zum Haushalt 2015
+- TOP 10: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2015 - mehrheitlich beschlossen
+- TOP 11: Zuwendungen an die Fraktionen - mehrheitlich beschlossen
+- TOP 12: Bürgerhaushalt 2014 - Beratung der 95 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 13: Ergänzungen zu den drei Vorlagen "Optimierung bürgerorientierter Dienstleistungen" - mehrheitlich geändert beschlossen
+- TOP 14: Prüfung der ortsveränderlichen elektrischen Betriebsmittel - einstimmig beschlossen
+- TOP 15: Dichtigkeitsprüfungen und Sanierungen von Gebäudeentwässerungsanlagen - mehrheitlich geändert beschlossen
+- TOP 16: Entwicklungen der Münsterschen Bäderlandschaft - mehrheitlich geändert beschlossen
+- TOP 17: Vorabgewinnausschüttung 2014 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 18: Lehranstalt für pharmazeutisch-technische Asssistenten/innen (PTA-Lehranstalt) - mehrheitlich beschlossen
+- TOP 19: Neuausrichtung Schulsozialarbeit - einstimmig geändert beschlossen
+- TOP 19.1: Neuausrichtung Schulsozialarbeit
+- TOP 19.1.1: Neuausrichtung Schulsozialarbeit
+- TOP 20: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen - einstimmig geändert beschlossen
+- TOP 20.1: Neukonzeption der Beschulung von neu zugewanderten Kindern und Jugendlichen in Regelschulen
+- TOP 21: Rahmenkonzept für Inklusion an Schulen - mehrheitlich beschlossen
+- TOP 21.1: Rahmenkonzept für Inklusion an Schulen
+- TOP 21.1.1: Rahmenkonzept für Inklusion an Schulen
+- TOP 22: Schulzentrum Roxel: Einrichtung eines Teilstandortes des Ludwig-Erhard-Berufskollegs - mehrheitlich beschlossen
+- TOP 23: Neue Raumstandards im Offenen Ganztag an Grundschulen in Münster - mehrheitlich beschlossen
+- TOP 24: Nutzung des Bürgerbades Handorf für das Schul- und Vereinsschwimmen - einstimmig beschlossen
+- TOP 25: Erweiterung der DRK Kita Schatzkiste auf dem Gelände der ehem. York-Kaserne, Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 25.1: Erweiterung der DRK Kita Schatzkiste auf dem Gelände der ehem. York-Kaserne, Errichtungs- und Baubeschluss
+- TOP 26: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 26.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2015 - mehrheitlich beschlossen
+- TOP 26.2: Abfallgebühren 2015 - mehrheitlich beschlossen
+- TOP 26.3: Straßenreinigungsgebühren 2015 - mehrheitlich beschlossen
+- TOP 26.4: Änderung der Abwassergebührensatzung (AGS), - mehrheitlich beschlossen
+- TOP 26.5: Änderung der Gewässergebührensatzung (GGS), - mehrheitlich beschlossen
+- TOP 27: Die Stadt lädt die GAYCOM nach Münster ein - einstimmig beschlossen
+- TOP 28: Modellprojekt Schülerhaushalt in Münster - einstimmig beschlossen
+- TOP 28.1: Modellprojekt Schülerhaushalt in Münster
+- TOP 29: Wirtschaftsplan 2015 der citeq - einstimmig beschlossen
+- TOP 30: Handlungsprogramm 2012 bis 2017 - 3. Projektbericht zur Umsetzung - zur Kenntnis genommen
+- TOP 31: TTIP, CETA und TiSA ablehnen - Kein Eingriff in die kommunale Selbstverwaltung - mehrheitlich geändert beschlossen
+- TOP 32: Abfallwirtschaftbetriebe Münster - einstimmig beschlossen
+- TOP 33: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 34: Sachstand in der Umsetzung des Abfallwirtschaftskonzeptes - zur Kenntnis genommen
+- TOP 35: Wirtschaftsplan 2015 von Münster Marketing - einstimmig beschlossen
+- TOP 36: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterlands, Sachlicher Teilabschnitt Energie - mehrheitlich geändert beschlossen
+- TOP 37: Erfolgreiche Zertifizierung der Stadt Münster als flächensparende Kommune, Flächenbericht mit Handlungsprogramm "Flächensparende Entwicklung" und Analyse der Siedlungs- und Verkehrsflächenentwicklung in Münster - einstimmig beschlossen
+- TOP 38: Aktualisierung der Kleinräumigen Bevölkerungsprognose (KBP) 2009 - 2020 für den Zeitraum 2013 - 2020: Zentrale Ergebnisse - zur Kenntnis genommen
+- TOP 39: 6. Fortschreibung des Abwasserbeseitigungskonzeptes 2015 der Stadt Münster - einstimmig beschlossen
+- TOP 40: Auslaufende Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Straße 60, 48145 Münster, ab dem Schuljahr 2015/2016 - einstimmig beschlossen
+- TOP 40.1: Auslaufende Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Straße 60, 48145 Münster, ab dem Schuljahr 2015/2016
+- TOP 40.1.1: Auslaufende Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Straße 60, 48145 Münster, ab dem Schuljahr 2015/2016
+- TOP 41: Errichtungsbeschluss : Neubau einer zweigruppigen Kindertageseinrichtung am Bohlweg, Innenstadtring - einstimmig beschlossen
+- TOP 41.1: Errichtungsbeschluss : Neubau einer zweigruppigen Kindertageseinrichtung am Bohlweg, Innenstadtring
+- TOP 42: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 42.1: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V.
+- TOP 43: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2013 - zur Kenntnis genommen
+- TOP 44: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2015 - einstimmig beschlossen
+- TOP 45: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014 - mehrheitlich beschlossen
+- TOP 45.1: Neue Standorte für Flüchtlingseinrichtungen - Ergebnis des Mediationsprozesses 2014
+- TOP 46: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Roxel, Pienersallee, und Anpassung der Personalsituation in verschiedenen Aufgabenbereichen - mehrheitlich beschlossen
+- TOP 47: Kommunale Stärkung gemeinschaftsorientierter Bau- und Wohnformen - einstimmig beschlossen
+- TOP 47.1: Kommunale Stärkung gemeinschaftsorientierter Bau- und Wohnformen
+- TOP 48: Bauleitplanung
+- TOP 48.1: Stadtbezirk Münster-Mitte
+- TOP 48.1.1: Veränderungssperre Nr. 105, Erste Verlängerung - einstimmig beschlossen
+- TOP 48.2: Stadtbezirk Münster-West
+- TOP 48.2.1: Bebauungsplan Nr. 546 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 48.2.1.1: Bebauungsplan Nr. 546 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 48.3: Stadtbezirk Münster-Hiltrup
+- TOP 48.3.1: Neuordnung Sportpark Berg Fidel - 55. Änd. FNP - Aufheb.Bpl. 183 - Aufst. Bpl. 568 - Strukt.konz. - einstimmig geändert beschlossen
+- TOP 48.4: Stadtbezirk Münster-Nord
+- TOP 48.4.1: Bebauungsplan Nr. 549 und Erhaltungs- und Gestaltungssatzung in der Siedlung "Dachsleite" - einstimmig beschlossen
+- TOP 48.5: Stadtbezirk Münster-Südost
+- TOP 48.5.1: Bebauungsplan Nr. 556 - Beschluss über die Stellungnahmen und Satzungsbeschluss - einstimmig beschlossen
+- TOP 48.5.2: Bebauungsplan Nr. 555 und Erhaltungs- und Gestaltungssatzung in der Siedlung "Zum Erlenbusch" - einstimmig beschlossen
+- TOP 49: Finanzierungskonzept FMO
+- TOP 50: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 50.1: Veggie-Day sofort einstellen - mehrheitlich abgelehnt
+- TOP 50.2: Arztkosten für Flüchtlinge - mehrheitlich geändert beschlossen
+- TOP 50.3: Resolution an die Landesregierung NRW gegen den Verkauf der Chillida-Skulptur "Toleranz durch Dialog" - verwiesen
+- TOP 50.4: Gesundheitsprogramm für eine umfassende Gesundheitsversorgung für Flüchtlinge und Asylsuchende auf den Weg bringen - Zugang zur medizinischen Regelversorgung schaffen und ¿Bremer Modell¿ auch in Münster umsetzen - mehrheitlich beschlossen
+- TOP 51: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 51.1: Eine Entwicklungsperspektive für Nienberge-Häger - verwiesen
+- TOP 51.2: Ja zu Busspuren und optimierten Ampelschaltungen! Für eine Verbesserung der Zuverlässigkeit im Busverkehr - verwiesen
+- TOP 51.3: Münster weiter internationalisieren - verwiesen
+- TOP 51.4: Arbeit für die Gleichstellung: Gleichstellungsbüro beim Namen nennen - verwiesen
+- TOP 51.5: Stärkung der lokalen Demokratie - Münster auf dem Weg zur Mitmachstadt - verwiesen
+- TOP 51.6: Mehr Grünpflege in den Stadtbezirken - verwiesen
+- TOP 51.7: Schnell, unkompliziert, dezentral! - ein neues Konzept für eine bürgernahe KFZ-Zulassungsstelle - verwiesen
+- TOP 51.8: Abbau geringfügiger Beschäftigungsverhältnisse bei der Stadt Münster - verwiesen
+- TOP 51.9: Von der Regionalbahn zur Stadtbahn - verwiesen
+- TOP 51.10: Ein Stück Berliner Mauer: Erinnerung und Mahnmal - verwiesen
+- TOP 51.11: Die Grundschulen und die weiterführenden Schulen als inklusive Lebens- und Lernorte weiterentwickeln! - verwiesen
+- TOP 52: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 53: Entsendung von sachkundigen Einwohnerinnen und Einwohnern in die Ausschüsse des Rates - von der Tagesordnung abgesetzt
+- TOP 54: Bestellung von Vertreter/innnen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes II St. Mauritz - Altenberge - einstimmig geändert beschlossen
+- TOP 55: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Wasser- und Bodenverbandes Obere Stever sowie des Unterhaltungsverbandes VII Hiltrup-Amelsbüren - einstimmig beschlossen
+- TOP 56: Sachstandsbericht zur Projektentwicklung 2. städtische Gesamtschule - zur Kenntnis genommen
+- TOP 57: Verschiedenes
