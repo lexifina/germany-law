@@ -1,0 +1,73 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2014-12-10T17:00:00+01:00
+- Ende: 2014-12-10T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3078
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9370ef1d8f32e9185f0861
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzungen des Rates der Stadt vom 22.10.2014 und 19.11.2014; die Niederschriften werden nachgereicht. - (offen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2014 - Überplanmäßige Bereitstellung von Mitteln im Produkt 050202 - Leistungen nach dem AsylbLG - und im Produkt 100803 - Verwaltung und Betrieb von Unterkünften und Einrichtungen (Wohnungsl., Asylb./Flüchtlinge, Spätaus.) - ungeändert beschlossen
+- TOP 4.2: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2014 hier: Alt-Haarener-Straße - ungeändert beschlossen
+- TOP 4.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2014 hier: Überplanmäßige Bereitstellung von Mitteln im Produkt 021401 Wahlen - ungeändert beschlossen
+- TOP 5: Verfügung der Bezirksregierung zum Haushaltsplanentwurf 2015 - ungeändert beschlossen
+- TOP 6: Bebauungsplan Nr. 954 N - Laurentiusstraße / Laurentiushang, Nord - für den Planbereich im Stadtbezirk Aachen-Richterich im Bereich zwischen Laurentiusstraße, Karl-Friedrich-Straße und Haus Linde hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 7: III. Änderung Bebauungsplan Nr. 900 - Krefelder Straße / Emmastraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Krefelder Straße, Merowingerstraße, Alter Tivoli und Stichstraße / Fußweg zwischen Alter Tivoli und Krefelder Straße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Bebauungsplan Nr. 961 - Adalbertsteinweg / Bismarckstraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Adalbertsteinweg, Goerdelerstraße und dem Bhf Rothe Erde hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Änderung Nr. 123 des Flächennutzungsplanes 1980 der Stadt Aachen - Kornelimünster West/ Oberforstbacher Straße - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/Walheim im Bereich zwischen Oberforstbacher Straße und Schleckheimer Straße hier: Beschluss der Änderung - ungeändert beschlossen
+- TOP 10: 15. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 11: Kanalgebühren 2015 sowie Gebührenbedarfsberechnung 2015 - zurückgezogen
+- TOP 12: Kanalgebühren 2015 sowie Gebührenbedarfsberechnung 2015 17. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen Neufassung der Vorlage Kanalgebühren 2015 sowie Gebührenbedarfsberechnung 2015 - ungeändert beschlossen
+- TOP 13: 27. Nachtrag zur Straßenreinigungs- und Gebührensatzung - ungeändert beschlossen
+- TOP 14: Friedhofsgebührenordnung der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Abfallgebührensatzung der Stadt Aachen - ungeändert beschlossen
+- TOP 16: Betriebssatzung für das Krematorium der Stadt Aachen vom 01.01.2011 1. Nachtrag - ungeändert beschlossen
+- TOP 17: Friedhofssatzung der Stadt Aachen vom 01.01.2011; 1. Nachtrag - geändert beschlossen
+- TOP 18: Wirtschaftsplan 2015 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 19: Wirtschaftsplan 2015 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 20: Bericht des Gebäudemanagements zum Ergebnis der überörtlichen Prüfung der Gemeindeprüfungsanstalt zum Thema Portfoliomanagement und Lebenszykluskosten - ungeändert beschlossen
+- TOP 21: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2013 dazu Vortrag des Wirtschaftsprüfers Fundus Revision - ungeändert beschlossen
+- TOP 22: Jahresabschluss 2013 - ungeändert beschlossen
+- TOP 23: Wirtschaftsplan 2015 <span style="color: #888a85" title="Zusatzinfo">(Der Tagesordnungspunkt wird von der Verwaltung zurückgezogen.)</span> - zurückgezogen
+- TOP 24: Vorläufiger Wirtschaftsplan Eurogress Aachen 2015 - ungeändert beschlossen
+- TOP 25: Jahresabschluss für den Kulturbetrieb für das Jahr 2013 - geändert beschlossen
+- TOP 26: Vorläufiger Wirtschaftsplan für den Kulturbetrieb (E 49) für das Wirtschaftsjahr 2015 - geändert beschlossen
+- TOP 27: Dienstanweisung zur Übertragung von Ermächtigungen im Rahmen des Jahresabschlusses - geändert beschlossen
+- TOP 28: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 29: 2. Nachtrag zur Zweitwohnungssteuersatzung - ungeändert beschlossen
+- TOP 30: Energie- und Klimaschutz-Strategiekonzept 2030, sowie Handlungskonzept 2020 - zurückgestellt
+- TOP 31: Änderung der Richtlinien der Stadt Aachen zur Förderung des Sports - Anschaffung von Sportgeräten - ungeändert beschlossen
+- TOP 32: Schenkung eines Ölgemäldes Kaiserkrönung Karls des Großen in Rom aus Privatbesitz - ungeändert beschlossen
+- TOP 33: Benennung von 2 stimmberechtigten Delegierten für die 38. ordentliche Hauptversammlung des Deutschen Städtetages vom 09. Juni bis 11. Juni 2015 in Dresden - ungeändert beschlossen
+- TOP 34: Stärkung des öffentlich geförderten Wohnungsbaus - geändert beschlossen
+- TOP 35: Zustimmung des Rates der Stadt zur Übernahme der Bauverpflichtung zur Schaffung von Ersatzwohnraum aus den vorhabenbezogenen Bebauungsplänen Nr. 774 und 891 <span style="color: #888a85" title="Zusatzinfo">(Der Tagesordnungspunkt wird von der Verwaltung zurückgezogen.)</span> - zurückgezogen
+- TOP 36: Anfragen - (offen)
+- TOP 37: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 38: Mitteilungen der Verwaltung und Ratsanträge - (offen)
+- TOP 39: Ratsantrag der Grünen Bildung eines Aufsichtsrates in der Aachener Stadion Beteiligungs GmbH - geändert beschlossen
+- TOP 40: Investorenmodell KiTA Eintrachtstraße - Abschluss eines Mietvertrages - ungeändert beschlossen
+- TOP 41: Fortführung des Fanprojekts Aachen in 2015 bis 2017 - ungeändert beschlossen
+- TOP 42: Pflege der deutschen Sprache in Aachener Verwaltung hier: Ratsantrag Nr. 15/17 der AfD-Gruppe vom 13.09.2014 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
