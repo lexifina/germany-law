@@ -1,0 +1,111 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2014-12-10T17:00:00+01:00
+- Ende: 2014-12-10T21:42:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2786
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2786
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Max-von-Laue-Schule - beantwortet
+- TOP 3.2: Vandalismus am Teltower Damm - beantwortet
+- TOP 3.3: Mittelabfluss bei Schul- und Sportanlagensanierungsprogramm - beantwortet
+- TOP 3.4: Gesundheitliche Situation der Flüchtlinge im Bezirk II - beantwortet
+- TOP 3.5: Sanierung Arndt-Gymnasium? - beantwortet
+- TOP 3.6: Ratskeller Zehlendorf II - beantwortet
+- TOP 3.7: Zustand der Brümmerstraße - schriftlich beantwortet
+- TOP 3.8: Noch nicht abgeschlossene Bauarbeiten an der Kita Zwölf Knirpse e. V. - erledigt
+- TOP 3.9: Trödelmarkt vor dem Rathaus unter der Kastanie - schriftlich beantwortet
+- TOP 3.10: Wann werden die Südender und ihre Gäste geschützt? - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl eines Bürgerdeputierten im Ausschuss für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Verlängerung der Veränderungssperre 6 – 28 B / 41 [Möbelhof Ostpreußendamm] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-15 - Curtiusstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3.2: Bebauungsplan XII-27 B 101 zwischen Kaiser-Wilhelm- und Mühlenstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Einholung der Zustimmung der BVV vor Abschluss eines städtebaulichen Durchführungsvertrages zur Entwicklung eines "Vorhaben- und Erschließungsplans" (B-Plan) mit der GROTH-Gruppe für "Parks Range" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlung von Ausschüssen - erledigt
+- TOP 4.5.1: Raumluft in Steglitz-Zehlendorfer Schulen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Weniger Wahlplakate in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Steglitz-Zehlendorfer Rathäuser als Freifunkstandorte ausrüsten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Müllbelastung verringern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Bürger bei neuen bezirklichen Verkehrsregelungen informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Aufstellung einer Hinweistafel zur Bismarck-Büste in der Grünanlage am Bahnhof Wannsee - in der BVV abgelehnt
+- TOP 4.5.7: Verlängerung der Geschwindigkeitsbegrenzung in der Onkel-Tom-Straße - in der BVV abgelehnt
+- TOP 4.5.8: Umsetzung Beschluss Nr. 123 vom 23.05.2012 - in der BVV abgelehnt
+- TOP 4.5.9: Neue Vorfahrtregelung Martin-Buber-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Mehr Sicherheit auf dem Schulweg, für Fußgänger, Fahrradfahrer und besseren Verkehrsfluss im Kreuzungsbereich Ostpreußendamm / Ecke Osdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Frühzeitige Bürgerbeteiligung von Bürgerinnen und Bürgern bei umfangreichen Änderungen der Parkordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Grüne Oberflächen gegen urbanen Klimawandel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Weiterführung und Ausbau des Fuß-/Radweges am Teltowkanal von der Bröndbystraße bis zum Stichkanal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Soziale Nutzung Steglitzer Kreisel - in der BVV abgelehnt
+- TOP 4.5.15: Verkehrssicherheit vor der 33. Grundschule I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.16: Verkehrssicherheit vor der 33. Grundschule II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.17: Integrationsetat - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.18: Umsetzung der EU-Wasserrahmenrichtlinie für Gewässer 2. Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.19: Grünpflegepatenschaften mit bezirklichen Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.20: Historische Pumpe auf dem Jürgen-Fuchs-Platz in Dahlem - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.21: Parkplätze am Steglitzer Damm 13-21, 23-29 und 31-39 der Parkraumbewirtschaftung oder einer Parkscheibenregelung zuführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.22: Zugesagte Mittel für das "BUZ" - einhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.23: Vernetzung von Wirtschaft und Wissenschaft auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.24: Ausfahrt von der Dialysestation Zehlendorf (PrimaVita) sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.25: Zufahrt Hindenburgdamm 83 a, b als Feuerwehrzufahrt deklarieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.26: Entwicklungsplan für den Bereich Tiburtiusbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Sanierung Doppelstubenhaus in Albrechts Teerofen 8 - überwiesen
+- TOP 5.2.2: Schutz der Totenruhe - überwiesen
+- TOP 5.2.3: Vorbereitung zur Ablösung von Windows 7 - überwiesen
+- TOP 5.2.4: Spendenboxen für Straßenbäume - überwiesen
+- TOP 5.2.5: Anwohnerparkausweise für Menschen ohne eigenes Auto - überwiesen
+- TOP 5.2.6: Kommunikation mit Ämtern sicher gestalten - überwiesen
+- TOP 5.2.7: Ampelschaltung synchronisieren - überwiesen
+- TOP 5.2.8: Einheitlicher B-Plan für das gesamte Gelände "Parks Range" - überwiesen
+- TOP 5.2.9: Kulturentwicklungsplan für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.10: Günstigen Wohnraum bereitstellen - überwiesen
+- TOP 5.2.11: Mehr Personal an der Schule - überwiesen
+- TOP 5.2.12: Studentisches Wohnen im Bezirk sichern - überwiesen
+- TOP 5.2.13: Unterkünfte für wohnungslose Menschen überprüfen - überwiesen
+- TOP 5.2.14: Inklusion auch als Schwerpunktthema in der Lehrerausbildung und Fortbildung - überwiesen
+- TOP 5.2.15: Private Zimmer für Studierende - überwiesen
+- TOP 5.2.16: Fuß- und Radfahrerbrücke über den Teltowkanal an der Teltowwerft - überwiesen
+- TOP 5.2.17: Kunst am Bau - überwiesen
+- TOP 5.2.18: Patenschaften für Flüchtlingskinder im Bezirk - überwiesen
+- TOP 5.2.19: Mikrofone für den Bürgersaal - überwiesen
+- TOP 5.2.20: Inklusion ermöglichen - überwiesen
+- TOP 5.2.21: Tempo 30 nachts am Krankenhaus Waldfriede - überwiesen
+- TOP 5.2.22: Tempo 30 Schorlemer Allee - überwiesen
+- TOP 5.2.23: Bilingualität (deutsch/englisch) auch am Dreilinden-Gymnasium - überwiesen
+- TOP 5.2.24: Spielstraße am Lauenburger Platz einrichten - überwiesen
+- TOP 5.2.25: Straße nach Günter Pfitzmann benennen - überwiesen
+- TOP 5.2.26: Investition in Bildung - ein neuer Bücherbus für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.27: Verkehrsgutachten Lichterfelde-Süd - überwiesen
+- TOP 5.2.28: Sanierung des Spielplatzes Goerzallee / Ecke Altdorfer Straße - überwiesen
+- TOP 5.2.29: Eine weitere Staatliche Europaschule (SESB) für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.30: Bouleplatz für den Lilienthal-Park - überwiesen
+- TOP 5.2.31: Wartehäuschen für die Bushaltestelle Charité - Campus B. Franklin - überwiesen
+- TOP 5.2.32: Hundefreilauf in Steglitz realisieren - überwiesen
+- TOP 5.2.33: UNESCO-Weltkulturerbe in Glienicke vor weiterem Verfall bewahren - überwiesen
+- TOP 5.2.34: Hundehalter vor Betreten der Berliner Forsten über Abfall- und Kotentsorgung informieren - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Rathausfassade I - beantwortet
+- TOP 7.2: Aus für die Seniorenwohnungen in der Mudrastraße? - beantwortet
+- TOP 7.3: Flüchtlingsunterkünfte im Bezirk - beantwortet
+- TOP 7.4: Unnötige Kosten und übertriebener Aufwand im JobCenter - vertagt
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Drugchecking - vertagt
+- TOP 9: Schlusswort des Vorstehers - erledigt
