@@ -1,0 +1,6 @@
+# TOP 3: Bekanntgabe in nichtöffentlicher Sitzung gefasster Beschlüsse
+
+- Sitzung: 6. Sitzung des Ortschaftsrates Oberwartha (2014-12-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/60202
