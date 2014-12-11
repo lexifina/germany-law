@@ -1,0 +1,8 @@
+# TOP 1: (E) Erneuerung des Straßenbelags in der Bürgermeister-Keller-Straße zwischen Grundschule und der Salzmesserstraße Empfehlung Nr. 14-20 / E 00183 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 09.10.2014
+
+- Sitzung: BA 15 - Vollgremium (2014-12-11)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/390619
+- Ergebnis: <div>nach Antrag</div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/390619
