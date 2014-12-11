@@ -1,0 +1,86 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2014-12-11T17:00:00+01:00
+- Ende: 2014-12-11T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZU5F0Eu6SZoBUHc6PCJ4LhE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4380
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfzQMm_7CnMXtkKBenDIB0_JM-flIVmUBgL3Nvp0kAyT/Oeffentliche_Niederschrift_Rat_11.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Vorschlag für die En-bloc-Abstimmung
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Ältestenrat der Stadt Solingen
+- TOP 6: Ältestenrat der Stadt Solingen
+- TOP 7: Unterausschuss Gender, Inklusion und demografische Entwicklung
+- TOP 8: Unterausschuss Gender, Inklusion und demografische Entwicklung
+- TOP 9: Zusammensetzung des ÖPNV-Fahrgastbeirates
+- TOP 10: 38. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 11: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 12: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 13: Zusammensetzung der Kommunalen Gesundheitskonferenz
+- TOP 14: Stadtwerke Aue
+- TOP 15: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 16: Kunstmuseum Solingen Betriebsgesellschaft mbH (Änderung Gesellschaftsvertrag, Beiratsmitglieder und Änderung der Zuständigkeitsordnung)
+- TOP 17: Regionales Strukturprogramm für die neue EU-Förderperiode 2014 - 2020
+- TOP 18: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 19: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 20: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 21: Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 22: Etatberatungen für das Haushaltsjahr 2015 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2018 und des Haushaltssanierungsplanes 2015 ff.
+- TOP 23: Eingliederungshilfe / Erlass zur Einplanung der angekündigten Bundesentlastung
+- TOP 24: Stellenplannachtrag 2015
+- TOP 25: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Stadtbibliothek Solingen (Entgeltordnung)
+- TOP 26: Erhöhung der Hundesteuer
+- TOP 27: Antrag auf Ergänzung der Hundesteuersatzung -Steuerbefreiung-
+- TOP 28: Zustimmung zu einer überplanmäßigen investiven Auszahlung
+- TOP 29: Überplanmäßige Ausgabe wegen der Verzinsung von Steuererstattungen
+- TOP 30: Überplanmäßige Ausgaben für Hilfen zur Erziehung
+- TOP 31: Mehr Transparenz und Bürgerfreundlichkeit im Ratsinformations-System
+- TOP 32: Verkaufsoffene Sonntage im Jahr 2015
+- TOP 33: Verkaufsoffene Sonntage im Jahr 2015
+- TOP 34: Gebührenbedarfsberechung 2015
+- TOP 35: Abfallwirtschaftssatzung der Stadt Solingen
+- TOP 36: I. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 37: Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 38: I. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 39: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 40: 1. Änderungssatzung zur Friedhofssatzung und Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 41: Wirtschaftsplan 2015 der Technischen Betriebe Solingen
+- TOP 42: Jahresabschluss 2013 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 43: Jahresabschluss 2013 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 44: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2014
+- TOP 45: Denkmalliste der Stadt Solingen
+- TOP 46: Bauleitplanung Nümmener Feld/Focher Straße
+- TOP 47: Bauleitplanung Scheidter Feld
+- TOP 48: Bauleitplanung Grabenstraße/ Richrather Straße
+- TOP 49: Verschiedenes
+- TOP 50: Ausgaben im Kulturmanagement
+- TOP 51: Mitgliedschaft der Stadt Solingen im Aktionsbündnis "Raus aus den Schulden - für die Würde unserer Städte"
+- TOP 52: Anfragen zum Thema Gewerbesteuer
+- TOP 53: Solinger Berufsfeuerwehr
+- TOP 54: Anfrage bezüglich Turnhallen
+- TOP 55: Regionale Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 56: Gesamtgutachten Ittertal
+- TOP 57: Situation Asylwesen im Stadtgebiet
+- TOP 58: Gesamtgutachten Ittertal
+- TOP 59: Zuschüsse für den Botanischen Garten
+- TOP 60: Technische Akademie Wuppertal e.V.
+- TOP 61: Sachstand Wupperbrücke Papiermühle/Soterweg
+- TOP 62: Standorte für die Windenergienutzung in Solingen
+- TOP 63: Eingabe nach § 24 GO NRW
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Geschäftsführungen Beteiligungsgesellschaft Stadt Solingen mbH (BSG) und Solinger Bädergesellschaft mbH (SBG)
+- TOP 4: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Eigenkapitalausstattung
+- TOP 5: Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH (BIP)
+- TOP 6: Verschiedenes
