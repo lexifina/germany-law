@@ -1,0 +1,53 @@
+# 105. Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2014-12-11T17:00:00+01:00
+- Ende: 2014-12-11T19:40:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2014-RAT-83
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2014-RAT-83
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2014-RAT-83
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Änderung der Geschäftsordnung des Rates
+- TOP 3: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 4: Antrag der FWI-Fraktion vom 11.12.2014 hier: Rückzahlung von Fraktionszuwendungen für die papierlose Ratsarbeit
+- TOP 5: Vorzeitige endgültige Auflösung der Hauptschule Schillerschule mit Ablauf des Schuljahres 2014/2015 und räumliche Unterbringung der Janusz-Korczak-Gesamtschule ab dem Schuljahr 2017/2018 im Schulgebäude Uferstraße 36
+- TOP 6: Neugestaltung des Marktplatzes in der Altstadt Castrop-Rauxel Hier: Gestaltungsplanung und Beantragung von Zuwendungen
+- TOP 7: Bebauungsplan Nr. 11, Aufhebung Planbereich „Bahnhofstraße, In der Fettweide bis Jahnstraße“ hier: a) Entscheidung über die Stellungnahmen nach § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss nach § 10 Abs. 1 BauGB
+- TOP 8: 5. Änderung des Bebauungsplans Nr. H5 Teil 1 Planbereich „Ortsteil Becklem“ hier: a) Entscheidung über die Stellungnahmen (§ 2 Abs. 3 BauGB) b) Entscheidung über die redaktionellen Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 8.1: Tischvorlage zur Vorlage 2014/346: 5. Änderung des Bebauungsplans Nr. H5 Teil 1
+- TOP 9: 2. Änderung des Bebauungsplans Nr. H5 Teil 2 Planbereich „Ortsteil Becklem“ hier: a) Entscheidung über die Stellungnahmen (§ 2 Abs. 3 BauGB) b) Entscheidung über die redaktionellen Ergänzungen c) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 9.1: Tischvorlage zur Vorlage 2014/345: 2. Änderung des Bebauungsplans Nr. H5 Teil 2
+- TOP 10: Antrag der Ratsfraktionen SPD, B90/Die Grünen und FDP vom 06.11.2014 Urbane Anpassung an den Klimawandel
+- TOP 11: Änderung der Friedhofssatzung für die städtischen Friedhöfe in Castrop-Rauxel
+- TOP 12: Gebührenbedarfsberechnung 2015 'Friedhofswesen'
+- TOP 13: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2012
+- TOP 14: Entwurf Jahresabschluss 2013
+- TOP 15: Einbeziehung weiterer beratender Mitglieder in den Jugendhilfeausschuss Antrag Stadtjugendring
+- TOP 16: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 17: Gebührenbedarfsberechnung 2015 Abfallentsorgung und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 18: Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 19: Gebührenbedarfsberechnung 2015 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 20: Gebührenbedarfsberechnung 2015 Klärschlammentsorgung und Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel
+- TOP 21: Gebührenbedarfsberechnung 2015 Straßenreinigung und Erlass einer Straßenreinigungs- und Gebührensatzung
+- TOP 22: Gebührenbedarfsberechnung 2015 Wochenmärkte
+- TOP 23: Antrag der Ratsfraktion DIE LINKE vom 22.09.2014; Schulsozialarbeit muss bleiben
+- TOP 24: Antrag von den Fraktionen SPD, CDU, FDP, GRÜNE, DIE LINKE und FWI vom 20.11.2014 hier: Veranstaltung zum Thema „Generationenfreundliche Kommune“
+- TOP 25: Gemeinsamer Antrag der Ratsfraktionen CDU und FWI vom 24.11.2014; hier: Resolution zum 'Transatlantischen Freihandelsabkommen TTIP, CETA und TISA'
+- TOP 25.1: Antrag der Ratsfraktion DIE LINKE. vom 30.11.2014; 'Ablehnung der Verträge TTIP, CETA und TiSA'
+- TOP 26: Gemeinsamer Antrag der Ratsfraktionen CDU und FWI vom 26.11.2014; hier: Resolution zur Grunderwerbsteuererhöhungen
+- TOP 27: Bereitstellung zusätzlicher Haushaltsmittel für laufende Hilfen Asylbewerber
+- TOP 28: Antrag Evangelischer Kirchenkreis Herne vom 08.12.2014; Entsendung eines beratenden Mitgliedes und Stellvertreters in den Betriebsausschuss 2
+- TOP 29: Antrag der Ratsfraktion DIE LINKE. vom 01.12.2014; hier: Ausschussumbesetzungen
+- TOP 30: Antrag SPD-Ratsfraktion vom 02.12.2014; Ausschussumbesetzungen
+- TOP 31: Antrag CDU-Ratsfraktion vom 09.12.2014; Ausschussumbesetzung im Umweltausschuss
+- TOP 32: Anfragen der Ratsmitglieder
+- TOP 33: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
