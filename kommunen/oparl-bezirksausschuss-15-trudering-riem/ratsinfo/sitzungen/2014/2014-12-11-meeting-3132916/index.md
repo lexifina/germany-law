@@ -1,0 +1,105 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2014-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3132916
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3132916
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Wahl einer/s neuen Vorsitzenden UA Umwelt - <div>vertagt</div>
+- TOP 1.4.: Nachbesetzung in den Unterausschüssen - <div>vertagt</div>
+- TOP 1.5.: Bestimmung einer/s neuen Beauftragten für Baumschutz - <div>vertagt</div>
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.: vom 20.11.2014 - <div>vertagt</div>
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: zu 7.4.3 Stahlgruberring 17 zu 7.4.4 Informationsveranstaltung zum Thema: "Flexibilisierung des Stallplatzschlüssels" zu 8.2.35 Friesplatz 14 zu 8.2.36 Großfriedrichsburger Straße 4 zu 8.2.37 Iltisstraße 10 zu 8.2.38 Zehntfeldstraße 189 (Haus 1) zu 8.2.39 Zehntfeldstraße 189 (Haus 2) - <div>Zustimmung zur Ergänzung der Tagesordnung</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1.: (E) Budget der Bezirksausschüsse SC Arcadia Messestadt München e.V. Beschaffung von Judomatten - <div>Zustimmung in Höhe von 2500,00 Euro</div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk wagnis e.V. Autorenlesung ?May be you? Entscheide sich, wer kann.? am 13.02.2015 - <div>Zustimmung in Höhe von 60,00 Euro für die Raummiete
+
+</div>
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk wagnis e.V. Autorenlesung ?Fette Fee? am 23.01.2015 - <div>Zustimmung in Höhe von 60,00Euro für die Raummiete</div>
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk wagnis e.V. Kindertheater ?Die Zündholzkinder? am 01.03.2015 - <div>vertagt in 01/2015</div>
+- TOP 2.1.: Erneuerung des Straßenbelags in der Bürgermeister- Keller- Straße zwischen Grundschule und Salzmesserstraße; Empfehlung Nr. 14-20/ E 00183 der Bürgerversammlung des Stadtbezirkes 15 Trudering- Riem am 09.10.2014
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kindergarten Spatzennest e.V. Einbau einer Garderobe - <div>nach Antrag, Zustimmung in voller Höhe 2332,00Euro</div>
+- TOP 1: (E) Erneuerung des Straßenbelags in der Bürgermeister-Keller-Straße zwischen Grundschule und der Salzmesserstraße Empfehlung Nr. 14-20 / E 00183 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 09.10.2014 - <div>nach Antrag</div>
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Bauvorhaben Schneebergstraße 24/26- verkehrliche Probleme - <div>abgelehnt</div>
+- TOP 3.2.: Verbot des Fahrradfahrens in der Fußgängerzone Messestadt West- Riem Arcaden
+- TOP 3.3.: Sicherheit der Fußgänger vor dem Förderzentrum in der Astrd- Lindgren- Straße - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 3.3.5: UA Schule, Soziales und Kultur:
+- TOP 3.1.: Wiedererrichtung des Sportplatzes an der Grundschule in der Forellenstraße - <div>Sachstandsabfrage beim RBS und Ortstermin</div>
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Betreuungsschlüssel für Flüchtlingsunterkünfte nicht schlechter als 1:100 - <div>Antrag wurde unter Hinweis auf TOP 6.1 und 6.2 zurück gezogen</div>
+- TOP 4.2.: Radwegausbau entlang der Friedrich- Kreutzer- Straße - <div>nach Antrag mit Ergänzungen</div>
+- TOP 4.3.: Richtlinien für (Arbeiter-) Wohnheime - <div>nach Antrag</div>
+- TOP 4.4.: Richtlinienkompetenz zum Schutz der Gartenstädte einsetzen! - <div>nach Antrag mit Ergänzungen</div>
+- TOP 4.5.: "Sonntags nie?"- Wochenend- Servicewüste für S- Bahn- Aufzüge - <div>nach Antrag</div>
+- TOP 4.6.: Schaffung von tauglichen Tiefgaragen für Wohnmobile und Kleinlaster (unter 7,5t) im Planungsgebiet des Bebauungsplans 2065 Messestadt Ost - <div>Zustimmung mit Ergänzungen</div>
+- TOP 4.7.: Genderbudgeting- auch im BA - <div>vertagt in 01/2015</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Hortplatzangebot an der Feldbergschule ausbauen - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Aufstellung von weiteren Wertstoffsammelbehältern im 15. Stadtbezirk - <div>weiterer Klärungsbedarf</div>
+- TOP 5.3.: Räume städtischer Kitas für Sportvereine nutzbar machen - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Bei Krippenplätzen und Kindergartenplätzen Diskrepanz zwischen genehmigten und belegten Plätzen abgleichen und bereinigen - <div>weitere Rückfrage hinischtlich der Standorte im 15.Stadtbezirk</div>
+- TOP 5.5.: Mitnutzung von Sporträumen in Kindertagesstätten für Mutter-Kind-Turnen - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Änderung der Ein- und Ausfahrt am Einkaufszentrum in der Bajuwarenstraße - <div>zur Kenntnis genommen</div>
+- TOP 5.7.: Kostenfreie Verpflegung für die pädagogischen Kräfte in Kindergärten und Kinderkrippen - <div>Gegenüberstellung der Kosten</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.3.: Bau einer Umgehungsstraße für die Bahnstraße und Sperrung der Bahnstraße für den Durchgangsverkehr über 3,5t; Empfehlung Nr. 08-14/ E 01970 der Bürgerversammlung des Stadtbezirks 15- Trudering- Riem; Sitzungsvorlage Nr. 14-20/ V 01783; Beschluss des Ausschusses für Stadtplanung und Bauordnung (SB) - <div>zur Kenntnis genommen</div>
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni- August bis 24: 00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen - <div>nach Antrag</div>
+- TOP 7.2.: Änderung der Bezirksausschusssatzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros - <div>nach Antrag</div>
+- TOP 7.3.: Antrag auf Änderung der BA- Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete;Antrag des Bezirksausschusses des Stadtbezirks 24- Milbertshofen- Am Hart vom 03.07.2013 - <div>nach Antrag</div>
+- TOP 7.4.: Änderung der Bezirksausschusssatzung, hier: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23a Bezirksausschusssetzung - <div>nach Antrag</div>
+- TOP 7.1.: Belebung des Willy- Brandt- Platzes durch Möbilierung - <div>nach Antrag</div>
+- TOP 7.1.: Verkauf einer städtischen Immobilie, Stolzhofstraße noch ohne Haus-Nr. - <div>Zustimmung</div>
+- TOP 7.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. XXXX Feldbergstraße (westlich), Wasserburger Landstraße (nördlich)- Einleitung und Aufstellungsbeschluss - <div>Zustimmung mit Ergänzungen</div>
+- TOP 7.1.: Sperberstraße 21a - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.2.: Karlsburger Straße - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.1.: Spielen in der Stadt 2015 - <div>Zustimmung</div>
+- TOP 8: Baumfällungen
+- TOP 8.8.1: Bereits genehmigte Fällungen durch die Untere Natuschutzbehörde
+- TOP 8.1.: 8.1.1 Geitnerweg 17 8.1.2 Graf- Spee- Platz 8 8.1.3 Iltisstraße 40 8.1.4 Wasserburger Landstraße 167a - <div>zur Kenntnis genommen</div>
+- TOP 8.8.2: Beantragte Baumfällungen
+- TOP 8.1.: 8.2.1 Büchmannstraße 11 8.2.2 Sperberstraße 21a 8.2.3 Karlsburger Straße 8.2.4 Agathenstr. 30 8.2.5 Am Eulenhorst 41 8.2.6 Bajuwarenstraße 98 8.2.7 Biotop Trudeirng 8.2.8 Dachsteinstraße 33 8.2.9 Dresselstraße 34 8.2.10 Feldbergstraße 74 8.2.11 Graf- Ottenburg- Straße 2 8.2.12 Groschenweg 39 8.2.13 Großfriedrichsburger Straße 22 8.2.14 Habichtsstraße 3 8.2.15 Hermann- Schaller- Straße 29 8.2.16 Hinterrißstraße 2 8.2.17 In der Heuluss 17 8.2.18 In der Heuluss 21b 8.2.19 In der Heuluss 41 8.2.20 Irmelastraße 9 8.2.21 Kreuzerweg 19 8.2.22 Leibengerstraße 5 8.2.23 Lohnrößlerweg 33 8.2.24 Mönchbergstraße 32 8.2.25 Niobestraße 14 8.2.26 Ottilienstraße 37 8.2.27 Rotfuchsweg 10 8.2.28 Rotkehlchenweg 5 8.2.29 Sulzer- Belchen- Weg 5 8.2.30 Tangastraße 82 8.2.31 Toni- Schmid- Straße 2 8.2.32 Truderinger Straße 269 8.2.33 Tsingtauer Straße 47 8.2.34 Waldschulstraße 77 8.2.35 Großfriedrichsburger Straße 4 8.2.36 Friesplatz 14 - <div>Zustimmung zum Votum des UA</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Bericht vom Gespräch im Planungsreferat, ua. verbesserte Fuß- und Radwegverbindung zwischen Kirchtrudering und dem Bahnhof Trudering
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Sachberichte und Verwendungsnachweise über Zuwendungen aus dem Budget des BA 15: 10.1.1 Katholische Pfarrgemeinde Christi Himmelfahrt 10.1.2 Tierheim München 10.1.3 Verein der Freunde und Förderer der Musik Pfarrei St. Augustinus e.V. - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Verschiebung der Veranstaltung "Eislaufbahn auf dem Willy- Brandt- Platz"; Absage durch den Veranstalter G.R.A.L GmbH - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Einrichtung einer Schulbushaltestelle in der Forellenstraße für den Schülerverkehr zu den neuen Müchner Regionalhäusern - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Änderung der Zeitzusätze an der Schulbushaltestelle an der Feldbergstraße 85 für den Schülerverkehr zu den neuen Münchner Regionalhäusern - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Messestadt Riem, Gewerbegebiet "Am Rappenweg" - Wohnpotenziale am Randes des Riemer Parks objektiv bewerten; Antrag Nr. 08-14/ A 04136 von Herrn Stadtrat Dr. Georg Kronawitter vom 25.03.2013 - Wohnpotenziale am Rande des Riemer Parks- neue pfiffige Lärmschutzwohnbaukonzepte für Gronsdorf berücksichtigen; Antrag Nr. 08-14/ A 04211 von Herrn Stadtrat Dr. Georg Kronawitter vom 30.04.2013 - Ost- Arrondierung Gronsdorf nicht weiter auf die lange Bank schieben; Antrag Nr. 08-14/ A 04212 von Herrn Stadtrat Dr. Georg Kronawitter vom 30.04.2013 Sitzungsvorlagen Nr. 14-20/ V 00021; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Strukturelles Umsetzungskonzept für die Verwirklichungverkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Erfahrungen mit der Umsetzung des Beschlusses vom 23.11.2005 a) Entwicklung der Stellplatzablösemittelrücklage und Mittelverwendung 01.01.2010-30.06.2014 b) Fortführung der Lenkungsgruppe/ Personalbedarf im Referat für Stadtplanung und Bauordnung c) Notwendigkeit der Fortschreibung der Vorgaben und Rahmenbedingungen für die Verwendung der Stellplatzablösemittel zur weiteren Verwirklichung verkehrlicher Maßnahmen unter Einbezug der Förderung des ÖPNV Sitzungsvorlagen Nr. 14-20/ V 01715; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015; Sitzungsvorlage Nr. 14-20/ V01223; Beschluss der Vollversammlung des Stadtrates vom 20.11.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Mitteilung über ein Grundstücksgeschäft, Stolzhofstraße - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Einziehung eines Straßennamens im 15. Stadtbezirk Trudeirng- Riem - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Bericht zur Wohnungssituation in München 2012-2013; Sitzungsvorlagen Nr. 14-20/ V 01995; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.7.: Beteiligung der Anwohner beim Bauprojekt zum Piederstorfer Gelände; Empfehlung Nr. 14-20/ E 00145 der Bürgerversammlung des Stadtbezirkes 16- Ramersdorf- Perlach am 24.07.2014; Sitzungsvorlage Nr. 14-20/ V 01487; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw.-errichtung der Grundschulen - Astrid- Lindgren- Straße 11 - Ilse- von- Twardowski- Platz 1 Sitzungsvorlage Nr. 14-20/ V 01854; Beschluss des Bildungsausschusses des Stadtrates vom 03.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2014- 2018, Einzelplan 4/ Sozialbereich; Sitzungsvorlage Nr. 14-20/ V 01386; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und Sozialausschusses vom 02.12.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Entwurf des Mehrjahresinvestitionsprogramm für die Jahre 2014-2018 Einzelplan 4/ Sozialbereich; Sitzungsvorlage Nr. 14-20/ V 01386; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Mieterbeirat, Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirks; Sitzungsvorlage Nr. 14-20/ V 00915; Beschluss der Vollversammlung des Stadtrates vom 01.10.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Sitzungsvorlage Nr. 14-20/ V 01336; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicheurng; Sitzungsvorlage Nr. 14-20/ V 01334; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses vom 02.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.7.: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20/ V 01349; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.8.: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 14-20/ V 01362; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.9.: Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs; Produkt 4.1.7 Quartierbezogene Bewohnerarbeit Stadtratsziel: Stadtratsziel 2015-S4 A1.4; Sitzungsvorlage Nr. 14-20/ V 01993; Beschluss des Sozialausschusses vom 04.12.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 10.10.6: UA Umwelt
+- TOP 7.7.7: ohne Vorberatung im UA
