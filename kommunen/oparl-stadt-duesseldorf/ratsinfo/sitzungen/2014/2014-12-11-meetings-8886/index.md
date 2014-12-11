@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2014-12-11T17:00:00+01:00
+- Ende: 2014-12-11T19:55:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8886
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/8886
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00229366.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00229366.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00229366.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Sturmschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 6: 2. Änderung des Landschaftsplans der Landeshauptstadt Düsseldorf "Elbsee" - einstimmig beschlossen
+- TOP 7: Aufnahme auswärtiger Kinder in städtischen Schulen - einstimmig beschlossen
+- TOP 8: Freigabe verkaufsoffener Sonntagnachmittag im Jahre 2015 - mehrheitlich beschlossen
+- TOP 9: Fällung eines städtischen Straßenbaumes auf der Königsberger Straße - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2014 - zur Kenntnis genommen
+- TOP 12: Verkehrliche Anbindung des Stadtbezirks 8 nach Fertigstellung des Glasmacherviertels - beantwortet
+- TOP 13: Schutz von bedeutenden Gebäuden im Stadtbezirk - beantwortet
+- TOP 14: ÖPNV auf der Gumbertstraße - beantwortet
+- TOP 15: S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 16: Kulturbahnhof Eller - beantwortet
+- TOP 17: Lärmschutz A46 im Stadtbezirk 8 - beantwortet
+- TOP 18: Auswirkungen des Baus des RRX auf den Haustertshofweg - beantwortet
+- TOP 19: Ortsumgehung Flingern - beantwortet
+- TOP 20: Ortsumgehung Gerresheim - beantwortet
+- TOP 21: Wohngrundstück Mündrathweg 45a - beantwortet
+- TOP 22: Unterbringung von Flüchtlingen im Stadtbezirk 8 - beantwortet
+- TOP 23: Gewerbeunternehmen Karlsruher Straße und Flottenstraße - beantwortet
+- TOP 24: Unterbringung von Flüchtlingen im Stadtbezirk 8 - beantwortet
+- TOP 25: Stärkung der Bürger/innenbeteiligung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Breidenplatz - Handlauf an der unteren Treppe - einstimmig beschlossen
+- TOP 27: Barrierefreier Umbau S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 28: Bürgernähe und Wahrnehmbarkeit der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 29: WLAN - Säulen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 30: Abfalleimer Ellerbittweg / Ecke Gumbertstraße - einstimmig beschlossen
+- TOP 31: Bushalteplatz an der Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 32: Hundeauslaufplatz Ellerkirchstraße - einstimmig beschlossen
+- TOP 33: Bordsteinabsenkung Gumbertstraße, Haltestelle Eller-Mitte - einstimmig beschlossen
+- TOP 34: Möblierung und Durchgang S-Bahnhof Eller-Süd - einstimmig beschlossen
+- TOP 35: Skateranlage Heidelberger Straße - einstimmig beschlossen
+- TOP 36: Einberufung Kriminalpräventiver Rat im Stadtbezirk 8 - zurückgezogen
+- TOP 37: Bordsteinabsenkungen in Unterbach - einstimmig beschlossen
+- TOP 38: Grundstück Am Hackenbruch / Eller Kamp - einstimmig beschlossen
+- TOP 39: Kinder- und Jugendförderplan im Stadtbezirk 8 - zurückgezogen
+- TOP 40: Geschwindigkeitsregelung Kamper Weg - mehrheitlich beschlossen
+- TOP 41: Halteverbotregelung Kamper Weg - mehrheitlich abgelehnt
+- TOP 42: Fuß- und Radweg Eller Kamp - einstimmig beschlossen
+- TOP 43: Auswirkungen des Bauverkehrs für das Glasmacherviertel auf den Stadtbezirk 8 - einstimmig beschlossen
+- TOP 44: Restmittel Unterhaltung von städtischen Grundstücken und Anlagen im Stadtbezirk 8 - zurückgezogen
+- TOP 45: Verkehrsspiegel Kamper Weg - einstimmig beschlossen
+- TOP 46: Halteverbotszone Am Krahnap - einstimmig beschlossen
+- TOP 47: ÖPNV-Mobilität im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 48: ÖPNV-Netzqualität im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 49: Sachstand "1.000 Bänke-Programm" - zur Kenntnis genommen
+- TOP 50: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 51: ÖPNV-Wartehäuschen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Behindertenparkplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Radweg Schlesische Straße / Breslauer Straße - zur Kenntnis genommen
+- TOP 54: Beschilderung Wäschlacker Weg - zur Kenntnis genommen
+- TOP 55: Parkregelung An der Schützenwiese - zur Kenntnis genommen
+- TOP 56: Gumbertstraße, Verkehrsspiegel gegenüber der Parkplatzeinfahrt - zur Kenntnis genommen
+- TOP 57: Sparkassen - Geldautomaten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 58: Verkehrsregelung Dillenburger Weg - zur Kenntnis genommen
+- TOP 59: Umzäunung Bolzplatz Unterbacher See - zur Kenntnis genommen
+- TOP 60: Wellness Anlage Elbsee - zur Kenntnis genommen
+- TOP 61: Schlossgraben Schloss Eller - zur Kenntnis genommen
+- TOP 62: Zebrastreifen Gerresheimer Landstraße / Seeweg - zur Kenntnis genommen
+- TOP 63: Schutz von bedeutenden Gebäuden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Zuschüsse des Jugendhilfeausschusses für Einrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 65: Skaterpark Heidelberger Straße - zur Kenntnis genommen
+- TOP 66: Unterbringung von Flüchtlingen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 67: Verkehrsregelung Gerresheimer Landstraße - zur Kenntnis genommen
