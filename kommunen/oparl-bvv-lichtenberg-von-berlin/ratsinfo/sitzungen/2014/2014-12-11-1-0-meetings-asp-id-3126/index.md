@@ -1,0 +1,108 @@
+# 39. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2014-12-11T17:00:00+01:00
+- Ende: 2014-12-11T21:35:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3126
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3126
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=116479
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 4.1: Überarbeitung des Verfahrens zur Vergabe der Stadtteilzentren - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Trinkwasserschutzgebiet Verlängerte Waldowallee - beantwortet
+- TOP 8.2: Bearbeitungsstand der Drucksache 726/VII - beantwortet
+- TOP 8.3: Containerdorf am Hausvaterweg - beantwortet
+- TOP 8.4: Verzögerungen bei der Planung für die Sporthalle des Coppi-Gymnasiums - beantwortet
+- TOP 8.5: Abriss des Forums Kalinka - beantwortet
+- TOP 8.6: Ausverkauf des Tierparks? - beantwortet
+- TOP 8.7: Abstimmung der Bezirksämter Lichtenberg und Friedrichshain/Kreuzberg zum Rummelsburger See, Bebauung und Gewässerqualität - beantwortet
+- TOP 8.8: Internet und Laufstrecke an der Grundschule Karlshorst - beantwortet
+- TOP 9: Einwohnerfragestunde - erledigt
+- TOP 9.1: Keine Verlängerung des Mietvertrages mit Schulträgerverein Kappe e. V. - beantwortet
+- TOP 9.2: Sicherung des Schulstandortes Rüdigerstraße 76 - überwiesen
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Bebauungsplan 11-64 Arbeitstitel: Siedlung Margaretenhöhe Verfahrensstand: erneute öffentliche Auslegung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Aufweitung der Fahrradaufstellfläche in der Schlichtallee vor der Kreuzung Lück-/Ecke Nöldnerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Ausbau von Carsharing auf den gesamten Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: International Year of Soils 2015 ins öffentliche Bewusstsein rücken - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Verleihung eines Lichtenberger Satirepreises - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Benennung einer bereits öffentlich gewidmeten Straße im Mecklenburgischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Krankenversicherungschipkarte für AsylbewerberInnen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bewerbung um Olympische und Paralympische Spiele in Berlin aktiv unterstützen - überwiesen
+- TOP 10.9: Alte Handys aufbereiten - Rohstoffe sparen - überwiesen
+- TOP 10.10: Flexibler Fahrdienst für mobilitätseingeschränkte Schüler_innen - überwiesen
+- TOP 10.11: Inklusionsgerechte Anordnung von Fahrradständern bei Einzelhandelseinrichtungen - überwiesen
+- TOP 10.12: Rutschgefahr am Bahnhof Lichtenberg beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Mies van der Rohe Haus - überwiesen
+- TOP 10.14: Mehr Fahrradständer am Tierparkeingang Bärenschaufenster - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Würdigung der evangelischen Erlöserkirche als zeitgeschichtlich bedeutsamen Ort mit einer Erinnerungstafel - überwiesen
+- TOP 10.16: Finanzierung durch Drittmittel stärker implementieren - überwiesen
+- TOP 10.17: Wettbewerbspreis für die Würdigung engagierter Lehrer und Erzieher schaffen - überwiesen
+- TOP 10.18: Willkommensinitiative und Willkommensportal für Ärzte einrichten - überwiesen
+- TOP 10.19: Sondermittel für die Verkehrserziehung an der Jugendverkehrsschule - überwiesen
+- TOP 10.20: Sportfest für Toleranz und gegen Gewalt - überwiesen
+- TOP 10.21: Zentraler Busbahnhof und Fernbusstationen nach Lichtenberg - überwiesen
+- TOP 10.22: Fahrbahnmarkierung Kreuzung Landsberger Allee/Judith-Auer-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Parkraumbewirtschaftung in Lichtenberg prüfen - überwiesen
+- TOP 10.24: Schulentwicklungsplan für den Bezirk Berlin-Lichtenberg für die Jahre 2014/15 bis 2017/18 (2. Entwurf) - überwiesen
+- TOP 10.25: Evaluation und Fortschreibung des Integrierten Personal- und Organisationsentwicklungskonzeptes der Bezirksverwaltung Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.26: Selbst kochende Kitas als Lichtenberger Prinzip - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Bessere Beschilderung der Sportgeräte auf dem Spielplatz am Obersee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.28: Stefan-Heym-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: Benennung einer Stichstraße gegenüber der Einmündung der Rummelsburger Straße in die Sewanstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Dialogdisplay in Wartenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.31: Fortsetzung des Lichtenberger Ausbildungsprojektes LiGA im Jahr 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.32: 25 Jahre Mauerfall angemessen würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.33: Spaß- und Freizeitbad - zukunftsfähige Bäderlösung für den Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.34: Berliner Bäderkonzept 2020 - keine Einschränkungen des öffentlichen Badebetriebs - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.35: Finanzierung und Aufgabenteilung der Stadtteilzentren in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.36: Baumaßnahme Kernhofer Straße 17 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Ausstellung "Die Mauer. Eine Grenze durch Deutschland" durch Zeitzeugen begleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.38: Förderung durch Mittel der Europäischen Union deutlicher sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.39: Schnelles Internet in Lichtenberg voranbringen - Infrastruktur am Standort stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.40: Verleihung der Bürgermedaille 2014 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.41: Stellungnahme Entwurf Verordnung Landschaftsschutzgebiet (LSG) Herzberge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.42: Integriertes Stadtentwicklungskonzept für das Stadtumbau- und Sanierungsgebiet Frankfurter Allee Nord und 1. Fortschreibung des Sanierungsrahmenplans für die drei Sanierungsbereiche im Stadtumbau- und Sanierungsgebiet Frankfurter Allee Nord - überwiesen
+- TOP 10.43: Bebauungsplan 11-101 - Aufstellungsbeschluss Arbeitstitel: Westlich der Friedenhorster Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.44: Bebauungsplan 11-103 - Aufstellungsbeschluss Arbeitstitel: Kleingartenanlage "Falkenhöhe 1932 e. V." - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.45: Bebauungsplan 11-104 - Aufstellungsbeschluss Arbeitstitel: Freienwalder Straße/Genslerstraße/Werneuchener Straße/Goeckestraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.46: Bebauungsplan 11-105 - Aufstellungsbeschluss Arbeitstitel: Genslerstraße/Lichtenauer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.47: Bebauungsplan 11-62 - frühzeitige Behördenbeteiligung Arbeitstitel: Fläche Am Tierpark Ecke Alfred-Kowalke-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.48: Vorhabenbezogener Bebauungsplan 11-72 VE - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Alt-Friedrichsfelde 69-71 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.49: Bebauungsplan 11-79 - frühzeitige Öffentlichkeitsbeteiligung und frühzeitige Behördenbeteiligung Arbeitstitel: KGA "Falkenhöhe Nord e. V." - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.50: Bebauungsplan 11-97 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Südlich der Münsterlandstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.51: Bebauungsplan 11-98 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Münsterlandstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.52: Bebauungsplan 11-99 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Nordöstlich der Lichtenberger Brücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.53: Bebauungsplan 11-100 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Alt-Friedrichsfelde 1 bis 3 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Votierungsergebnisse 2014 - Bürgerhaushalt Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Ergänzender Haushalt 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Koptisch orthodoxe Gemeinde unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für das Finale der Frauen-Pokalmeisterschaften 2015 im Tischtennis - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für das Projekt "Die Weihnachtsgeschichte von Ravensbrück" - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Benennung einer 7. neuen Straße im Bauvorhaben Gehrensee-/Anna-Ebermann-/Wartenberger Straße (Olympiaviertel), Bezug: DS/1035/VII - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Resolution der Gesundheitskonferenz zur Situation von Kindern und Jugendlichen mit psychiatrischen Erkrankungen in Lichtenberg unterstützen - überwiesen
+- TOP 11.8: Wir bitten um Klärung: Umfassende Öffentlichkeitsbeteiligung bei der Standortentscheidung für die Filteranlagen am Rummelsburger See - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Unkonventionell gegen wildes Müllabladen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Schweigeminute für die Opfer des Nationalsozialismus - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Perspektive für junge erwachsene Flüchtlinge - in der BVV abgelehnt
+- TOP 12.3: Induktionshöranlagen und Gebärdensprach-Dolmetscher_in bei bezirklichen Veranstaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Flüchtlingspatenschaften - überwiesen
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Gründung einer Grundschule am Standort Dolgenseestraße 60, 10318 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Persönliche Erklärungen gemäß § 33 Abs. 1 GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Schließung der Sitzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
