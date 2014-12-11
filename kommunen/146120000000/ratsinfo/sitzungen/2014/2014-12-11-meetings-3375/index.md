@@ -1,0 +1,114 @@
+# 5. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-12-11T10:00:00+01:00
+- Ende: 2014-12-12T23:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/3375
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/3375
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2014_12_11/12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00187620.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: 1. Einwohnerinnen- und Einwohnerfragestunde in der Wahlperiode 2014 bis 2019
+- TOP 3.1: Natur- und Umweltschule - erledigt
+- TOP 3.2: Bauen im Überschwemmungsgebiet - erledigt
+- TOP 3.3: Umsetzung des Zukunftskonzeptes für die städtischen Krankenhäuser - erledigt
+- TOP 3.4: Integriertes Energie- und Klimaschutzkonzept (Aspekt Mobilität) - erledigt
+- TOP 3.5: Winterdienst auf Fahrradwegen - erledigt
+- TOP 3.6: DVB AG Einfluss auf die Gestaltung von Fahrplänen und Streckenverläufe - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Einwendungen gegen den Entwurf der Haushaltssatzung 2015/2016 gemäß § 76 SächsGemO - Zustimmung mit Änderung
+- TOP 6: Haushaltssatzung 2015/2016 - Zustimmung mit Änderung
+- TOP 7: Maßnahmeplan zur Schaffung zusätzlicher Unterbringungskapazitäten für besondere Bedarfsgruppen in den Jahren 2015/2016 - Zustimmung mit Änderung
+- TOP 8: erforderliche Wahlen zu den Tagesordnungspunkten 10.1 bis 10.6, 11.1 bis 11.3 sowie 12.1
+- TOP 9: Neufassung Beschlüsse Stadtrat 10. Juli 2014 - Herstellung der Rechtssicherheit - öffentlicher Teil
+- TOP 9.1: Stadtratsbeschluss umsetzen, Mietsteigerungen bremsen! - Zustimmung mit Änderung
+- TOP 9.2: Schaffung von barrierefreiem Wohnraum - Zustimmung
+- TOP 9.3: Erhöhung des Förderetats zur Förderung der Träger der freien Jugendhilfe im Bereich der fachlich befürworteten Personalstellen zu 100 Prozent - Vertagung
+- TOP 9.4: Konzept zur Verwendung der Gagfah-Mittel für soziale Projekte - Zustimmung mit Änderung
+- TOP 9.5: Wiederbelebung des Dresdner Fernsehturms - Ablehnung
+- TOP 9.6: Dresdner Fernsehturm als Kulturdenkmal erhalten, als Wahrzeichen beleben und für die Öffentlichkeit wieder erschließen - Zustimmung mit Änderung
+- TOP 9.7: Historische Gaslaternengebiete: Sofortprogramm zur Instandhaltung des technischen Kulturdenkmals - Ausleuchtung und Zustand der Fußwege verbessern - Zustimmung mit Änderung
+- TOP 9.8: Zeitlich befristete Zusammenlegung der gemeinsamen Schulbezirke Ortsamt Pieschen 1 und Ortsamt Pieschen 2 der Landeshaupotstadt Dresden - Zustimmung
+- TOP 9.9: Festlegung Abrisszeitpunkt der alten Sporthalle der 117. Grundschule "Ludwig Reichenbach", Reichenbachstraße 12 in 01069 Dresden - Ablehnung
+- TOP 9.10: Prüfung der Ausübung des Optionsrechts zur Mietvertragsverlängerung um weitere fün Jahre bis März 2021 im WTC im Vergleich zur alternativen Unterbringung der Beschäftigten im Mietobjekt Lingnerallee 3 durch Abschluss eines Mietvertrages über ze Jahre - Zustimmung
+- TOP 9.11: Eintrittspreise der Dresdner Musikfestspiele 2015 - Zustimmung
+- TOP 9.12: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2014/2015 - Zustimmung mit Änderung
+- TOP 9.13: Konzept zur Förderung des bürgerschaftlichen Engagements in der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 9.14: Errichtung eines Wohnheimes für besondere Bedarfsgruppen als öffentliche Einrichtung im Objekt "Leipziger Straße 169" in 01139 Dresden - Zustimmung
+- TOP 9.15: Gewährung eines mobilen Begleitservice im Rahmen des Dresden-Passes - Zustimmung
+- TOP 9.16: Ereignisanalyse zu den Hochwasserereignissen im Mai und Juni 2013 und zusätzliche Maßnahmen zur Verbesserung der Hochwasservorsorge - Vertagung
+- TOP 9.17: Satzung zur Änderung der Jahr- und Spezialmarktsatzung der Landeshauptstadt Dresden vom 10. Dezember 1992, zuletzt geändert am 11. Juli 2013 - Zustimmung
+- TOP 9.18: Fortschreibung des Integrierten Handlungskonzeptes für das Gebiet Dresden-Prohlis/Wohngebiet Am Koitschgraben „Soziale Stadt – Investitionen im Quartier“ für den Zeitraum 2014 bis 2020 - Zustimmung
+- TOP 9.19: Bauvorhaben "Hochwasserschadensbeseitigung Prießnitzbrücke/Bautzner Straße" - Zustimmung
+- TOP 9.20: Bebauungsplan Nr. 357 B, Dresden-Neustadt Nr. 39, Leipziger Straße/Neustädter Hafen - Vertagung
+- TOP 9.21: Vorhaben- und Erschließungsplan Nr. 524, Dresden-Laubegast, Wohnkomplex Salzburger-/Donathstraße - Zustimmung
+- TOP 10: Besetzung Ausschüsse und Beiräte
+- TOP 10.1: Besetzung des Wohnbeirates gemäß § 25 Abs. 9 Hauptsatzung der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 10.2: Besetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 10.3: Besetzung des Kleingartenbeirates gemäß § 25 Abs. 7 Hauptsatzung der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 10.4: Besetzung des Beirates „Gesunde Städte“ gemäß § 25 Abs. 6 Hauptsatzung der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 10.5: Besetzung des Behindertenbeirates gemäß § 25 Abs. 8 Hauptsatzung der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 10.6: Umbesetzung im Ortsbeirat Klotzsche: Nachbesetzung eines Stellvertretenden Mitglieds für die AfD - Zustimmung
+- TOP 11: Besetzung von Aufsichtsräten u. ä.
+- TOP 11.1: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 11.2: Wahl eines Stellvertreters/einer Stellvertreterin für die Oberbürgermeisterin in die Anteilseignerversammlung der Sachsen-Finanzgruppe - gewählt
+- TOP 11.3: Wahl der Vertreter/innen der Landeshauptstadt Dresden und ihrer Stellvertreter/innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Vertagung
+- TOP 11.4: Besetzung des Aufsichtsrates der Dresden-IT GmbH - punktweise Abstimmung
+- TOP 11.5: Besetzung des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - punktweise Abstimmung
+- TOP 11.6: Besetzung des Aufsichtsrates der Flughafen Dresden GmbH - Vertagung
+- TOP 11.7: Besetzung des Aufsichtsrates der Mitteldeutschen Flughafen AG - Vertagung
+- TOP 11.8: Besetzung des Aufsichtsrates der Stadtreinigung Dresden GmbH - punktweise Abstimmung
+- TOP 11.9: Besetzung des Aufsichtsrates der Verkehrsverbund Oberelbe GmbH - punktweise Abstimmung
+- TOP 11.10: Besetzung des Aufsichtsrates der Kommunale Immobilien Dresden GmbH & Co. KG - punktweise Abstimmung
+- TOP 11.11: Besetzung des Aufsichtsrates der Dresden Marketing GmbH - punktweise Abstimmung
+- TOP 11.12: Besetzung des Aufsichtsrates der Messe Dresden GmbH - punktweise Abstimmung
+- TOP 11.13: Besetzung des Aufsichtsrates der STESAD GmbH - punktweise Abstimmung
+- TOP 11.14: Besetzung des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - punktweise Abstimmung
+- TOP 11.15: Besetzung des Aufsichtsrates der ENSO Energie Sachsen Ost AG - punktweise Abstimmung
+- TOP 11.16: Besetzung des Aufsichtsrates der EnergieVerbund Dresden GmbH - punktweise Abstimmung
+- TOP 11.17: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - punktweise Abstimmung
+- TOP 11.18: Besetzung des Aufsichtsrates der Technische Werke Dresden GmbH - punktweise Abstimmung
+- TOP 11.19: Besetzung des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - punktweise Abstimmung
+- TOP 11.20: Besetzung des Aufsichtsrates der Dresdner Bäder GmbH - punktweise Abstimmung
+- TOP 11.21: Besetzung des Aufsichtsrates der Verkehrsmuseum Dresden gGmbH - punktweise Abstimmung
+- TOP 11.22: Besetzung des Aufsichtsrates der Zoo Dresden GmbH - punktweise Abstimmung
+- TOP 11.23: Besetzung des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - punktweise Abstimmung
+- TOP 12: Vertagungen Stadtratssitzung 20. November 2014
+- TOP 12.1: Besetzung der Verbandsversammlung des Zweckverbandes Verkehrsverbund Oberelbe (Z-VOE) - gewählt
+- TOP 12.2: Verkehrsbaumaßnahme Gostritzer Straße zwischen Boderitzer Straße und Teplitzer Straße - Zustimmung mit Ergänzung
+- TOP 12.3: Verkehrsbaumaßnahme Marienberger Straße – Salbachstraße zwischen Knappestraße und Wehlener Straße - Vertagung
+- TOP 12.4: Neue Wohnungspolitik in einer wachsenden Stadt - Vertagung
+- TOP 12.5: Neustädter Markt als lebendigen städtischen Platz zurückgewinnen - Große Meißner Straße umbauen - Vertagung
+- TOP 12.6: Postplatz neu gestalten und begrünen - Vertagung
+- TOP 12.7: Neustädter Markt aufwerten und Erscheinungsbild verbessern - städtebauliche Konzepte umsetzen - Vertagung
+- TOP 12.8: Quartalsweise Haushaltsabrechnung - Vertagung
+- TOP 13: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 14: Jahresabschlüsse 2013 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Annahme und Verwendung von eingegangenen Spenden für die Organisationseinheiten in der Landeshauptstadt Dresden im III. Quartal 2014 - Zustimmung
+- TOP 16: Annahme und Verwendung einer Spende in Höhe von 30.000 EUR für die Dresdner Musikfestspiele - Zustimmung
+- TOP 17: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2015 - Zustimmung mit Änderung
+- TOP 18: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2015 - Ersetzung
+- TOP 19: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden ab 1. Januar 2015 - Zustimmung
+- TOP 20: Rahmenvereinbarung zur Betriebsführung, Betriebskostenfinanzierung, Qualitätssicherung und Qualitätsentwicklung in Kindertageseinrichtungen in freier Trägerschaft - Zustimmung mit Ergänzung
+- TOP 21: Errichtung eines Hortgebäudes mit Speisesaal für die 68. Grundschule - Zustimmung
+- TOP 22: Betreibung der Kindertageseinrichtung Uhlandstraße 34 in 01069 Dresden durch den freien Träger Ausländerrat Dresden e. V. - Zustimmung mit Änderung
+- TOP 23: Betreibung der Außenstelle des Hortes des Vereins der Freien Waldorfschule e. V. am Standort Marienallee 12 in 01099 Dresden durch den Gründungsverein neue Waldorfschule Dresden e. V. - Zustimmung
+- TOP 24: Kostensatzveränderung des Übergangswohnheimes für Wohnungslose auf der Pillnitzer Landstraße 273 in Folge der Einrichtung eines nächtlichen Wachschutzes - Zustimmung
+- TOP 25: Dresdner Leitlinien für Pferdefuhrwerksbetriebe - Verweisung
+- TOP 26: Außenbereichssatzung Nr. 442, Dresden-Bühlau Nr. 2, Quohrener Straße/Am Stallteich - Zustimmung
+- TOP 27: Vorhabenbezogener Bebauungsplan Nr. 6019, Dresden-Altstadt II, Geschäftsquartier Straßburger Platz - Zustimmung
+- TOP 28: Satzung der Landeshauptstadt Dresden über die Friedhofsgebühren für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofsgebührensatzung) - Zustimmung
+- TOP 29: Satzung zur Änderung der "Satzung der Landeshauptstadt Dresden über die Abfallwirtschaft vom 27. Januar 2011, geändert am 3. Mai 2012" - Zustimmung
+- TOP 30: Fußgängerquerung Neustädter Markt - Vertagung
+- TOP 31: Stadtteilverträgliche Sanierung Königsbrücker Straße - Zustimmung
+- TOP 32: Einwohnerversammlung in Laubegast zum Hochwasserschutz und zur Fortsetzung der Bürgerbeteiligung - Zustimmung mit Änderung
+- TOP 36: Vergabenummer: 2014-1042-00049 Verwaltung dezentraler Unterbringungsobjekte für Leistungsberechtigte nach dem Asylbewerberleistungsgesetz - Zustimmung mit Änderung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Information über die Auswirkungen der E-Government-Gesetze des Bundes (EGovG) und des Landes Sachsen (SächsEGovG) auf die Landeshauptstadt Dresden sowie deren Umset-zungsstand und Handlungsbedarf - zur Kenntnis genommen
