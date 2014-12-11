@@ -1,0 +1,7 @@
+# TOP 23: Eingliederungshilfe / Erlass zur Einplanung der angekündigten Bundesentlastung
+
+- Sitzung: Rat (2014-12-11)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/18070
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/21266
