@@ -1,0 +1,55 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2014-12-12T16:00:00+01:00
+- Ende: 2014-12-12T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2912
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/2912
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 4.1: Bennennung der Mitglieder für den Beirat Innenstadtstärkungsprogramm - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - einstimmig zugestimmt
+- TOP 6: Radverkehrsanlagen Deutsche Straße / Schorlemerstraße - einstimmig zugestimmt
+- TOP 7: Freiheitstraße: Erschließung Neubau Kindertagesstätte - einstimmig zugestimmt
+- TOP 8: Einsteinstraße: Schaffung zusätzlicher Parkplätze - einstimmig zugestimmt
+- TOP 9: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2015 - einstimmig zugestimmt
+- TOP 9.1: Bplan Kreitzer Straße - einstimmig zugestimmt
+- TOP 10: Grünrahmenplan zum Bebauungsplan Nr. 452, Vogelsang Niederdonker Weg - einstimmig zugestimmt
+- TOP 11: Entgelte 2015 für die Neusser Märkte und Kirmesse - mehrheitlich zugestimmt
+- TOP 12: Benennung Sekundarschule Weberstraße - einstimmig zugestimmt
+- TOP 13: Planung und Kostenschätzung für die Errichtung der Grundschule Allerheiligen - einstimmig zugestimmt
+- TOP 14: Auflösung der Förderschule am Wildpark - mehrheitlich zugestimmt
+- TOP 15: Leichtathletikzentrum Wolkeranlage - einstimmig zugestimmt
+- TOP 16: Antrag Neusser RV und Holzheimer SG - verwiesen
+- TOP 17: Prüfung des Gesamtabschlusses 2010 der Stadt Neuss - einstimmig zugestimmt
+- TOP 18: Prüfung des Jahresabschlusses 2013 und der zwei Sonderhaushalte (Hesemann- und Reindl-Stiftung) - mehrheitlich zugestimmt
+- TOP 19: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses g - einstimmig zugestimmt
+- TOP 20: Erhöhung der Sitzungsgelder des Umlegungsausschusses - einstimmig zugestimmt
+- TOP 21: 11. Satzung zur Änderung der Hauptsatzung - einstimmig zugestimmt
+- TOP 22: Abfallentsorgungsgebühren 2015 - einstimmig zugestimmt
+- TOP 23: Hebesatzsatzung 2015 - einstimmig zugestimmt
+- TOP 24: Benennung von Stadtverordneten zur 38. ordentlichen Hauptversammlung des Deutschen Städtetages - einstimmig zugestimmt
+- TOP 25: Außerplanmäßiger Aufwand für die Allgemeine VRR-Verbandsumlage 2014 - einstimmig zugestimmt
+- TOP 26: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: - einstimmig zugestimmt
+- TOP 27: Antrag der SPD-Fraktion betr.:Vertrauensanwalt - zur Kenntnis genommen
+- TOP 28: Antrag der SPD-Fraktion betr.:Barrierefreiheit im Zuschauerbe-reich des Ratssaals - zur Kenntnis genommen
+- TOP 29: Antrag der Fraktion DIE LINKE betr.: Bezahlbarer Wohnraum in Neuss - zur Kenntnis genommen
+- TOP 30: Antrag der Fraktion DIE LINKE betr.: Recht auf Nutzung von „Lehrerparkplätzen“ durch die Allgemeinhe - verwiesen
+- TOP 31: Antrag der Fraktion DIE LINKE betr.: Stellungnahme zu TTIP, CETA und TiSA im Rahmen einer Resolution - vertagt
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Entwicklung der Schmutz- und Regenwassergebühren für 2015 - zur Kenntnis genommen
+- TOP 34: Sachstandsbericht Konverter-Standortsuche der Fa. Amprion - zur Kenntnis genommen
+- TOP 35: Antrag der SPD-Fraktion betr.: Bericht zur Situation der Unternehmens Whitesell - einstimmig zugestimmt
+- TOP 35.1: Möbelhaus Höffner – Umgang mit Nachtragsantrag - zur Kenntnis genommen
+- TOP 35.2: Schiedsgutachterverfahren Rheinisches Landestheater - zur Kenntnis genommen
+- TOP 36: Einwohnerfragestunde - zur Kenntnis genommen
