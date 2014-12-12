@@ -1,18 +1,18 @@
-# Satzung gemäß § 172 BauGB zur Erhaltung der städtebaulichen Eigenart, zum Schutz des Straßenbildes und zur Erhaltung baulicher Anlagen (Erhaltungssatzung) und gemäß § 86 BauO NRW (Gestaltungssatzung) in der Siedlung „Zum Erlenbusch“
+# Satzung gemäß § 172 BauGB zur Erhaltung der städtebaulichen Eigenart, zum Schutz des Straßenbildes und zur Erhaltung baulicher Anlagen (Erhaltungssatzung) und gemäß § 86 BauO NRW (Gestaltungssatzung) in der Siedlung „Dachsleite/Igelpatt/Bisamgang/Müm
 
 - Gemeinde: Stadt Münster (ARS 055150000000)
 - Datum: 2014-12-12 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/63.06
+- Quelle: https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/63.07
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung gemäß § 172 BauGB zur Erhaltung der städtebaulichen Eigenart, zum Schutz des Straßenbildes und zur Erhaltung baulicher Anlagen (Erhaltungssatzung) und gemäß § 86 BauO NRW (Gestaltungssatzung) in der Siedlung „Zum Erlenbusch“
+Satzung gemäß § 172 BauGB zur Erhaltung der städtebaulichen Eigenart, zum Schutz des Straßenbildes und zur Erhaltung baulicher Anlagen (Erhaltungssatzung) und gemäß § 86 BauO NRW (Gestaltungssatzung) in der Siedlung „Dachsleite/Igelpatt/Bisamgang/Mümmelmannpfad/Biberweg"
 
-63.06
+63.07
 
-vom 12.12.2014 (Amtsblatt der Stadt Münster 2014 S. 284)
+vom 12.12.2014 (Amtsblatt der Stadt Münster 2014 S. 274)
 
 Der Rat der Stadt Münster hat am 10. 12. 2014 gemäß § 172 Baugesetzbuch (BauGB) in Verbindung mit § 86 Landesbauordnung (BauO NRW) und §§ 7 und 41 Gemeindeordnung NRW (GO NRW) die nachstehende Satzung (linke Spalte) einschließlich Begründung (rechte Spalte) beschlossen:
 
@@ -22,25 +22,34 @@ Der Rat der Stadt Münster hat am 10. 12. 2014 gemäß § 172 Baugesetzbuch (Bau
 Begründung:
 
 |
-(1) Diese Satzung gilt für alle baulichen Anlagen und die sie umgebenden Grünflächen. Die Satzung bezieht sich auf die ehemalige Siedlung der Angehörigen der britischen Streitkräfte im Bereich der Straßen Zum Erlenbusch, Heidestraße und Buschstraße (genannt: Siedlung Zum Erlenbusch). Die formulierten besonderen Gestaltungsanforderungen gelten für alle Gebäude und Grün- und Freiflächen, unabhängig von einer bestehenden Genehmigungspflicht.
+(1) Die Satzung bezieht sich auf die ehemalige Siedlung der „Engländer“ (britische Streitkräfte) im Bereich der Straßen Dachsleite/Igelpatt/Bisamgang/Mümmelmannpfad/Biberweg (genannt: Siedlung Dachsleite). Die Satzung mit ihren besonderen Gestaltungsanforderungen gilt für die Grundstücke mit allen baulichen Anlagen, Grün- und Freiflächen. Die Anforderungen gelten unabhängig von einer bestehenden Genehmigungspflicht.
 |
-Die in den Jahren 1935 bis 1937 errichtete Luftnachrichtenkaserne am Albersloher Weg in Gremmendorf wird seit 1947/48 als York Barracks vom Verwaltungsstab des britischen Militärs in Münster genutzt. Das Wiederaufbauministerium schuf im Rahmen des Sonderwohnungsprogramms in der Nähe verschiedene kleine Siedlungen oder Häusergruppen als Wohnraum für Offiziere bzw. Unteroffiziere der britischen Stationierungsstreitkräfte. Zwischen 1951 und 1956 entstanden die „Besatzerhäuser“, wie sie in den damaligen Antragsunterlagen genannt wurden, im Bereich der Straße Zum Erlenbusch für die Unteroffiziere der britischen Streitkräfte.
+Die Coerheide, eine Heide- und Waldfläche nördlich von Münster, wurde 1941 von der Stadt Münster aufgekauft und 1956 eingemeindet. Erste Einfamilienwohnhäuser entstanden in der unmittelbaren Nachkriegszeit zwischen Nerz- und Marderweg.
 
-Während das städtebauliche Konzept von Seiten des Stadtplanungsamtes vorgegeben wurde, sind die Gebäudetypen in Zusammenarbeit mit dem britischen Verteidigungsministeriums entstanden. Da die Ansprüche der „Besatzungsmacht“ im Zuge der Verstärkung der militärischen Kräfte ein größeres Ausmaß annahmen, wurden neue Haustypen verwirklicht. So existieren in der Siedlung Zum Erlenbusch drei verschiedene Bautypen, Build III, Build IV, Build V. Die ersten Gebäude wurden 1951 im Norden gebaut, insgesamt 34 Wohnungen für Unteroffiziere, die letzten Baublöcke wurden 1956 mit dem Bautyp V im Süden fertig gestellt.
+Die wachsende Bevölkerung und Wohnungsnot in Münster führte ab 1957 zur Entwicklung neuer Stadtteile, für die Gesamtplanungen erstellt wurden. Den städtebaulichen Wettbewerb für den neuen Stadtteil Coerde gewann 1958 das Architektenteam Baumeister/Baumewerd/ /Esser. Nach dem Prinzip der organischen, aufgelockerten Stadt sollte ein neues Wohnge- biet entstehen. Über eine äußere Ringstraße sollte sich ein Gebiet mit einer strengen Trennung von Auto- und Fußgängerverkehr und einer mittigen, von Nord nach Süd gerichteten Grünachse erschließen. Mit dem Ziel, Grünräume zu schaffen, wurden unterschiedliche Haustypen in lockerer und abwechslungsreicher Stellung zum Straßenraum angeordnet. Auf der Grundlage des Wettbewerbsergebnisses erstellte das Planungsamt den Bebauungsplan, aber mit einer höheren Wohndichte. Der Grundstein zum neuen Stadtteil Coerde wurde am 6. 11. 1963 gelegt.
 
-Die Siedlung Zum Erlenbusch wird durch ihr homogenes und weitläufiges Erscheinungsbild geprägt. Erzeugt wird dieses durch eine einheitliche, schlichte Bauweise, die durch das Bauvolumen, die Materialwahl und den Gemeinsamkeiten in der Detailausbildung entsteht. Prägend sind großzügige, durchgrünte Grundstücke mit breiten Vorgartenzonen. Dieses charakteristische Bild ist bis heute erhalten.
+Im Rahmen des Sonderwohnungsprogramms für die Stationierungskräfte sollten ab 1959 für die britischen Streitkräfte neue Siedlungshäuser errichtet werden. Die jeweils zeitnah zu bebauenden Flächen mussten verkehrsgünstig liegen, kurzfristig an die Versorgung angeschlossen werden können und für den Bauherrn kostengünstig sein.
 
-In der näheren Umgebung sind die großen Grundstücke teilweise mit einer Bebauung in zweiter Reihe ausgenutzt worden. Auf Grundlage des zurzeit gültigen Baurechtes würde sich der Nachverdichtungsdruck auch auf die Siedlung Zum Erlenbusch übertragen und die überlieferte und charakteristische Atmosphäre nachhaltig beeinträchtigen und zerstören. Weiter tragen Teile die nicht vom Baurecht erfasst sind, wie die Gestaltung der Grün- und Freiflächen, besonders zu der unverwechselbaren Eigenart der Siedlung bei und werden im Rahmen dieser Satzung erfasst und geschützt.
+Letztendlich wurde dem Vorschlag der Stadt gefolgt, eins der neuen Wohngebiete für die Garnison der Britischen Rheinarmee in der Coerheide am nordwestlichen Rand des neuen Stadtteils am Übergang zum Wald und den Wohnhäusern am Nerzweg entstehen zu lassen.
 
-Um Missverständnisse in diesem Bereich zu vermeiden, wird auf die generelle Pflicht zur Beachtung dieser Anforderung hingewiesen.
+Unter Verwendung von Haustypen aus dem Wohnungsbauprogramm des britischen Verteidigungsministeriums entwickelten die Architekten Werner Meienbrock und Hans Hauer ein weitläufiges städtebauliches Konzept. Dieses wurde auf Wunsch der Stadtplanung Münster verdichtet, indem die Gebäude zu Baugruppen zusammengefasst und gestaffelt wurden. Ziel war die Einbeziehung dieser ersten Siedlungszelle in die neue „Planstadt Coerde“, die nach den städtebaulichen Prinzipien der Zeit, der gegliederten und aufgelockerten Stadt, geplant wurde. Baubeginn war im September 1961.
+
+Die Siedlung „Dachsleite“ setzt sich durch ihr homogenes Erscheinungsbild als eigenständige Einheit von der Bebauung Coerde ab. Diese Einheitlichkeit der Architektur wird durch die Gleichheit bei den Maßen, Proportionen, Gliederungen, verwendeten Materialien und Farbgebung erreicht. Im Gesamtbild wird durch die Wiederholung ein unverwechselbares Siedlungsbild geschaffen, gekennzeichnet durch eine klare, aber auch modellierte Gestaltung. Die Plastizität wird durch den Wechsel zwischen Klinkerflächen und zurückliegenden Putzflächen oder durch vorspringende Giebel- und Wandscheiben als Trennung zwischen den Reihenhäusern geschaffen. Die englischen Typenhäuser sind durch den für das Münsterland typischen Klinker verkleidet. Nicht nur das städtebauliche Konzept, auch die Architektursprache ist typisch für die 1960er Jahre.
+
+Durch die Staffelung der Gebäude (Wohngebäude und Garagen) ergeben sich unterschiedlich breite Vorgartenzonen. Bedingt durch die einseitige Straßenrandbebauung wird die Siedlung als stark durchgrünt wahrgenommen. Dieses charakteristische Bild ist bis heute erhalten.
+
+Weiter tragen Teile, die nicht vom Baurecht erfasst sind, wie die Gestaltung der Grün- und Freiflächen, besonders zu der unverwechselbaren Eigenart der Siedlung bei und werden im Rahmen dieser Satzung erfasst und geschützt.
 
 |
-(2) Der räumliche Geltungsbereich dieser Satzung ist in dem beigefügten Übersichtsplan (Anlage 1) zu entnehmen. Der Übersichtsplan ist Bestandteil dieser Satzung.
+(2) Der räumliche Geltungsbereich dieser Satzung ist dem beigefügten Übersichtsplan (Anlage 1) zu entnehmen. Der Übersichtsplan ist Bestandteil dieser Satzung.
 
-Die Bereiche der Siedlung gliedern sich in - den nördlichen Bereich (Mehrfamilienhäuser: Zweispänner/Zweifamilienreihen-häuser) und
-- den südlichen Bereich (Reihenhäuser).
 |
-Die Fläche, die durch Auflagen dieser Satzung betroffen ist, umfasst ausschließlich die zwischen 1951 und 1956 errichteten „Besatzerhäuser“ an den Straßen Zum Erlenbusch, Heidestraße und Buschstraße einschließlich der dazugehörigen Grundstücke mit den Grün- und Freiflächen.
+Die Fläche, die durch Auflagen dieser Satzung betroffen ist, umfasst ausschließlich die 1961/62 errichteten Wohnhäuser für die Stationie-rungsstreitkräfte in Coerde an den Straßen Dachsleite/Igelpatt/Bisamgang/Mümmelmannpfad/Biberweg einschließlich der dazugehörigen Grundstücke mit den Garten-, Grün- und Freiflächen.
+
+|
+(3) Die Vorschriften dieser Satzung gelten im Zusammenhang mit den Festsetzungen des Bebauungsplans Nr. 549.
+|
+Die Festsetzungen des Bebauungsplans Nr. 549 sind auf diese Satzung abgestimmt. Beide Vorschriften ergänzen sich und sind im Zusammenhang zu verstehen.
 
 |
 § 2 Erhaltung baulicher Anlagen und der städtebaulichen Eigenart
@@ -48,34 +57,37 @@ Die Fläche, die durch Auflagen dieser Satzung betroffen ist, umfasst ausschlie�
 Begründung:
 
 |
-(1) Im Geltungsbereich dieser Satzung bedürfen der Rückbau, der Abbruch und die Änderung baulicher Anlagen einer Genehmigung nach § 172 BauGB. Dies gilt auch für bauliche Anlagen, die gemäß §§ 65 und 67 BauO NRW keiner Baugenehmigung bedürfen. Die Genehmigung darf versagt werden, wenn die bauliche Anlage allein oder im Zusammenhang mit anderen baulichen Anlagen das Siedlungs-, Orts- oder Straßenbild prägt oder sonst von städtebaulicher oder geschichtlicher Bedeutung ist.
-|
-Nach dem 2. Weltkrieg wurden in Münster- Gievenbeck, -Coerde, -Gremmendorf und -Angelmodde Kasernen für das britische Militär angesiedelt. Das Wiederaufbauministerium war zeitgleich darum bemüht, in unmittelbarer Nähe Wohngebäude für die Offiziere zu errichten. Die Stadt musste Siedlungsflächen zur Verfügung stellen, das Stadtplanungsamt lieferte die städtebauliche Grundkonzeption. Die verwen-deten Haustypen stammen aus dem englischen Wohnungsbauprogramm und wurden an die Verhältnisse in Deutschland angepasst.
-
-Aus dem Zusammenspiel zwischen den städtebaulichen Vorgaben und den Haustypen mit „englischen“ Merkmalen ergibt sich die besondere Qualität der Siedlungen.
-
-Die Siedlung Zum Erlenbusch erstreckt sich auf einer lang gestreckten Fläche zwischen der Heidestraße und Buschstraße.
-
-Die Siedlung Zum Erlenbusch wurde in mehreren zeitnahen Bauabschnitten mit unterschiedlichen Bautypen gebaut. Die ersten vier, 1951 errichteten Baublöcke, stehen traufständig zur Hauptstraße und sind vom Typ Zweifamilienreihenhaus. 1953 wurden die anschließenden Baublöcke als Zweispänner oder Reihenhäuser errichtet. Bis 1954 waren dann auch die weiteren südlich anschließenden Reihenhäuser fertig gestellt, die über Stichstraßen erschlossen werden.
-
-Die Siedlungen der englischen „Besatzerhäuser“ sind bedeutend für die Nachkriegsgeschichte von Münster. Ziel dieser Satzung ist die beispielhafte Bestandsicherung einer umfangreichen und gut erhaltenen Siedlung dieses Typs, die mit unterschiedlichen Bautypen in mehreren Phasen errichtet wurde.
-
-Soll der räumliche und städtebauliche Zusammenhang mit den Haustypen in der Siedlung Zum Erlenbusch gewahrt bleiben, so müssen die ihn prägenden Elemente umfassend geschützt und erhalten werden.
+(1) Im Geltungsbereich dieser Satzung bedürfen der Rückbau, der Abbruch und die Änderung baulicher Anlagen einer Genehmigung nach § 172 BauGB. Dies gilt auch für bauliche Anlagen, die gemäß §§ 65 und 67 BauO NRW keiner Baugenehmigung bedürfen. Die Genehmigung darf versagt werden, wenn die bauliche Anlage allein oder im Zusam-menhang mit anderen baulichen Anlagen das Siedlungs-, Orts- oder Straßenbild prägt oder sonst von städtebaulicher oder geschichtlicher Bedeutung ist.
 
 |
-(2) Im Geltungsbereich dieser Satzung bedarf auch die Errichtung baulicher Anlagen einer Genehmigung nach § 172 BauGB. Dies gilt auch für bauliche Anlagen, die gem. §§ 65 und 67 BauO NRW keiner Baugenehmigung bedürfen, wenn sie sich auf das Gestaltbild der Siedlung auswirken. Die Genehmigung darf versagt werden, wenn die städtebauliche Gestalt des Gebietes durch die beabsichtigte bauliche Anlage beeinträchtigt wird. Hierzu gehört insbesondere
+Der Bedarf an Wohnraum für die britischen Stationierungskräfte in Münster wurde in den 1950er Jahren durch umfangreichen Siedlungsbau in unmittelbarer Kasernennähe gedeckt. Bis 1955 waren die Engländer „Besatzer“, danach regelte das Truppenstatut der NATO den Aufenthalt der Briten in Deutschland. In Münster war mit rund 5000 Soldaten die größte britische Garnison stationiert. Sie siedelten in eher abgeschlossenen Wohngebieten, die sich mit den verwendeten Bautypen aus England von der umgebenden Bebauung abhoben.
 
-a) die straßenseitigen Baufluchten der Gebäude an den Straßen Zum Erlenbusch, Heidestraße, Buschstraße einschließlich aller Stichstraßen
+Ab 1955 sorgten Sonderwohnungsbauprogramme für weitere Wohnsiedlungen. Das letzte wurde in Coerde an der „Dachsleite“ mit insgesamt 49 Wohnungseinheiten umgesetzt.
 
-b) die Straßen-, Freiraum- und Vorgarten/- Gartengestaltung.
+Die Siedlung „Dachsleite“ grenzt im Norden unmittelbar an das Waldgebiet der Coerheide und ist zugleich nordwestlicher Abschluss des neuen Stadtteils Coerde. Die Ringstraße Coerdes, die Coerheide und Dachsleite begrenzen bzw. durchschneiden die Siedlung. Sie bedeckt eine annähernd quadratische Grundfläche. Die leicht gekrümmten Straßen sind jeweils einseitig bebaut, sodass alle Gärten nach Süden, Osten oder Westen ausgerichtet sind.
+
+Zwei Typen von Reihenhäusern stehen einzeln gestaffelt am Bisamgang mit einer Ausrichtung des Gartens nach Osten (Typ CH-28) und als Vierergruppe gestaffelt am Mümmelmannpfad, Biberweg und Dachsleite (Typ CH-27). Hier sind die Gärten nach Süden ausgerichtet. Am Igelpatt wird die Siedlung durch fünf Einfamilienhäuser (Typ VH-34) und einem aus diesem Typ abgeleiteten Doppel-haus abgeschlossen. Ein weiteres Doppelhaus (Typ VH-23) ergänzt das Siedlungsbild auf dem Eckgrundstück Igelpatt/Coerheide. Den Einfamilienhäusern ist jeweils eine Garage mit Satteldach zugeordnet, die sich zurückliegend dem seitlichen Giebel unterordnet. Der Igelpatt ist zugleich die nördliche Siedlungsgrenze.
+
+Durch die Staffelung der traufständigen Gebäude entstehen spannungsreiche Frei- und Gartenräume. Die Siedlung überwindet in ihrer städtebaulichen Konzeption das Dogma Zeilenbau der frühen 1950er Jahre und leitet über zu neueren städtebaulichen Zielvorstellungen einer verdichteten Stadt. Durch die Staffelung und die gegliederten Bauten wird eine stadtraumbildende Architektur geschaffen. Die Zeilen werden differenzierter, sodass die gereihten und gestaffelten Häuser fast kleinstädtische Grundzüge aufweisen.
+
+Die Siedlung „Dachsleite“ steht beispielhaft für die gegliederte Architektur, die sich nicht nur im städtebaulichen Grundriss, sondern auch in der modellierten Architektursprache der einzelnen Gebäude mit ihren Vor- und Rücksprüngen und dem Materialwechsel Klinker/Putz zeigt. Sie ist zugleich ein spätes Beispiel für die Siedlungshäuser der Engländer mit für die Bauzeit typischen, aber auch modernen Wohnhäusern.
+
+Soll der räumliche und städtebauliche Zusammenhang und die Haustypen bei der Siedlung „Dachsleite“ nicht verloren gehen, so müssen die ihn prägenden Elemente umfassend geschützt und erhalten werden.
+
+|
+(2) Im Geltungsbereich dieser Satzung bedarf auch die Errichtung baulicher Anlagen einer Genehmigung nach § 172 BauGB. Dies gilt auch für bauliche Anlagen, die gemäß §§ 65 und 67 BauO NRW keiner Baugenehmigung bedürfen, wenn sie sich auf das Gestaltbild der Siedlung auswirken. Die Genehmigung darf versagt werden, wenn die städtebauliche Gestalt des Gebietes durch die beabsichtigte bauliche Anlage beeinträchtigt wird. Hierzu gehören insbesondere
+
+a) die Baufluchten der Straßenzüge Dachsleite/Igelpatt/Bisamgang/Mümmelmannpfad/Biberweg
+
+b) die Straßen-, Freiraum- und Gartengestaltung
 
 c) die Baugestalt und die Baumaterialien
 
-d) die Freiräume zwischen den Baublöcken
+d) die Freiräume als Vorgarten und Garten
 |
-Die Siedlung Zum Erlenbusch wird durch das Leitbild der 1950er Jahre der aufgelockerten und durchgrünten Stadt geprägt. Die zweigeschossigen, lang gestreckten Mehrfamilienhäuser (nördlicher Bereich) des ersten Bauabschnitts bilden durch ihre parallele Stellung im Gegensatz zu dem leicht geschwungenen Straßenraum großzügige Vorgartenbereiche und Privatzonen hinter den Baukörpern. Die später errichteten Reihenhäuser (südlicher Bereich) stehen parallel zur Straße Zum Erlenbusch oder den Stichwegen. Die Staffelung der Baukörper führt zu einer Aufweitung der Vorgartenzone. Der räumliche Zusammenhang der Hausgruppe wird durch die Stellung der Gebäude und das Einbinden in großzügige Grün- und Freiflächen geschaffen. Die Freiflächengestaltung mit Rasen und Einzelbäumen charakterisiert das Siedlungsbild. Grüne Einfriedungen nur bei den Privatgärten der Reihenhäuser unterstützen dieses Bild.
+Die besondere städtebauliche Qualität der Siedlung „Dachsleite“ zeigt sich in der Staffelung der zweigeschossigen Gebäude an leicht geschwungenen Straßen. Hierdurch eröffnen sich immer wieder neue Blickwinkel auf Hausgiebel, die durch ihre Abstufung städtebauliche Räume und individuelle Vorgartenflächen ausbilden, die als Rasenflächen angelegt sind. Die Garagen sind in das Siedlungsbild integriert, indem sie seitlich zurückversetzt neben den Giebeln stehen oder zwischen zwei Häuserblöcken angeordnet sind.
 
-Ziel der Satzung ist der Schutz dieser städtebaulichen Charakteristika. Neu- und Anbauten, Einfriedungen und die Freiraumgestaltung insbesondere zur Straße sind sorgfältig auf ihrer räumlichen Verträglichkeit zu prüfen und abzustimmen.
+Ziel der Satzung ist der Schutz dieser städtebaulichen Charakteristika. An- und Neubauten, Einfriedigungen, Nebenanlagen wie Abfallbehälter und die Freiraumgestaltung, insbesondere zum öffentlichen Raum, sind sorgfältig auf ihre räumliche Verträglichkeit zu prüfen und abzustimmen.
 
 Genehmigungsfrei sind weiterhin alle Änderungen in den Gebäuden, die nicht tragende und aussteifende Bauteile betreffen, Änderungen in den Privatgärten (nicht Vorgarten) sind auch genehmigungsfrei, wenn es Anlagen zur Gartengestaltung wie Bänke oder Sitzgruppen oder Spielgeräte für Kinder sind oder flächig ausgeführte Umgestaltungen wie nicht überdachte Fahrradabstellplätze.
 
@@ -85,114 +97,118 @@ Genehmigungsfrei sind weiterhin alle Änderungen in den Gebäuden, die nicht tra
 Begründung:
 
 |
-(1) Bauliche Anlagen (Anbauten, Erweiterungen, Neubauten) müssen im Geltungsbereich dieser Satzung so gestaltet sein, dass sie sich in das charakteristische Erscheinungsbild der Siedlung mit ihrer Zeilenbebauung einfügen. First- und Traufrichtung, Höhen und die Kubatur müssen sich an den bestehenden Gebäuden orientieren. Die Baufelder sind im Bebauungsplan Nr. 555 Angelmodde–Heidestraße/Zum Erlen-busch/Buschstraße geregelt.
-|
-Ein Merkmal dieser Siedlung der 1950er Jahre ist die Zeilenbauweise mit einheitlichen First- und Traufhöhen. Durch die Stellung der schlichten, zweigeschossigen Baukörper mit Satteldach werden großzügige Freiflächen gebildet. Erweiterungs- und ggf. Neubauten müssen sich in ihrem Volumen, der Architektur und Gestaltung unter Respektierung der Freiflächen in das überlieferte, erhaltenswerte Siedlungsbild einfügen.
+(1) Bauliche Anlagen müssen im Geltungsbereich dieser Satzung so gestaltet sein, dass das charakteristische Erscheinungsbild der Siedlung mit ihrer gestaffelten Zeilenbebauung erhalten bleibt. First- und Traufrichtung, Höhen und Kubatur sowie Materialien und Farben müssen sich an den bestehenden Gebäuden orientieren.
 
 |
-(2) Vorspringende Gebäudeteile wie Erker oder Balkone sind an den zu den Haupt- oder Stichstraßenausgerichteten Eingangs/-Trauffassaden und an den Giebelfassaden nicht zulässig.
-|
-Die bisher vorhandenen Vor- oder Rücksprünge zur Verbesserung der Eingangssituation oder an den Rückfassaden als Loggia wiederholen sich und sind zurückhaltend gestaltet. Ziel dieser Satzung ist die Bewahrung der Homogenität der Häuser im Siedlungszusammenhang. Diese ist durch eine einheitliche und zurückhaltende äußere Gestaltung gegeben. Ein individueller, singulärer Vorbau oder eine Ergänzung fügen sich nicht in das Siedlungsbild ein. Dies gilt ausnahmslos für Maßnahmen an den straßenseitigen Trauf- und Giebelfassaden.
+Ein Merkmal dieser Siedlung der frühen 1960er Jahres sind leicht gekrümmte Straßenräume, an denen die Wohnhäuser mit einheitlichen First- und Traufhöhen sich einzeln oder in Gruppen einseitig staffeln. Die Grünräume als Vorgarten, vor allem aber als Garten sind großzügig bemessen und prägen durch die einseitige Straßenbebauung das Siedlungsbild. Durch die spannungsvolle Gruppierung und Staffelung der Wohnhäuser und Garagen überwindet diese Siedlung den schematischen Zeilenbau. Erweiterungs- und ggf. Nebenanlagen müssen sich in ihrem Volumen, der Architektur und Gestaltung unter Respektierung der Freiflächen in das überlieferte, erhaltenswerte Siedlungsbild einfügen.
 
 |
-(3) Die rückwärtigen, gartenseitigen Baugrenzen der Mehrfamilienhäuser (nördlicher Bereich) können zur Errichtung von max. zweigeschossigen Anbauten/Erkern/Balkonen als Ergän-zung der bestehenden Loggia überschritten werden, wenn
-
-die Tiefe eines Anbaus maximal 3,00 m beträgt,
-
-die Länge eines Anbaus maximal 10,00 m beträgt,
-
-die Länge aller Anbauten bei einem Gebäude50 % der Gebäudelänge nicht über-schreitet,
-
-die Erweiterung mindestens 1,50 m von der Gebäudeecke zurückgesetzt ist und
-
-die Erweiterung unterhalb der Traufe des Bestandsgebäudes endet.
-
-Die Anbauten müssen übereinander angeordnet werden und in den Maßen und der Gestaltung aufeinander abgestimmt sein.
-|
-An den rückwärtigen Fassaden der Mehrfamilienhäuser werden Erweiterungen zugelassen, die auf den Maßstab des Bestandes abgestimmt werden müssen. Die Eingriffe dürfen das charakteristische Gesamtbild des Einzelgebäudes im Siedlungszusammenhang nicht beeinträchtigen, so dass die Anbau-möglichkeiten auf 50 % der Gesamtlänge beschränkt werden. Durch den Bezug auf die (Loggia-) Achsen wird der Charakter des Bestandsgebäudes gewahrt Durch die Regulierung der max. Anbaulänge und den Bezug zu der Loggia ist gewährleistet, dass auch bei einer vertikalen Teilung der Mehrfamilienhäuser jede Wohneinheit eine Erweiterungsmöglichkeit hat. Eine auf das jeweilige Einzelgebäude abgestimmte Gesamtgestaltung der Anbauten fügt sich in das durch Homogenität geprägte Siedlungsbild ein.
+(2) Die Haupteingangsseiten der Wohngebäude und Garagen mit ihren Vor- und Rücksprüngen und dem Materialwechsel zwischen Klinker und Putzflächen müssen unverändert erhalten werden. Dies betrifft auch die vorhandenen Balkongitter im Obergeschoss.
 
 |
-(4) An den Rückfassaden der Reihenhäuser (südlicher Bereich) sind eingeschossige Anbauten/Erweiterungen zulässig, wenn
+Die Fassaden der Wohnhäuser mit Garagen sind plastisch gestaltet. Kennzeichnend sind vorspringende Mauerscheiben als Trennung zwischen den Reihenhäusern/Doppelhäusern/ Giebeln und die weit zurückliegenden Eingangstüren mit einem großzügigen Vorbereich. Der bewusste Materialwechsel zwischen Klinker und Putz, der zur Betonung gestalterischer Details eingesetzt wurde, bestimmt das Erscheinungsbild der Siedlung.
+
+Die Satzung hat zum Ziel, die Homogenität der Häuser im Siedlungszusammenhang zu bewahren. Die Besonderheit dieses Siedlungsbildes ist die Staffelung der Gebäude. Dieser Eindruck wird verstärkt durch die einheitliche Wiederholung der Vor- und Rücksprünge und den Materialwechsel. Ein individueller, singulärer Vorbau oder Rücksprung würde dieses einheitliche Bild erheblich verunklaren. Dies gilt ausnahmslos für Maßnahmen an den Trauf- und Giebelfassaden der Haupteingangsseiten.
+
+|
+(3) Vordächer sind im Satzungsgebiet unzulässig.
+|
+Alle Gebäude haben eine zurückgesetzte Eingangstür mit wettergeschützten Zwischenraum oder vorkragender Balkonplatte. Daher sind Vordächer nicht erforderlich und werden nicht zugelassen.
+
+|
+(4) An den rückwärtigen Gartenfassaden der Reihenhäuser/Doppelhäuser sind eingeschossige Anbauten/Erweiterungen zulässig, wenn
 
 sie mit Flachdach ausgebildet werden,
 
-die Oberkante Fertigdecke Anbau nicht höherliegt als die Oberkante Fertigdecke Erdge-schoss des vorhandenen Wohnhauses.
-
-Die Dachflächen der eingeschossigen Anbauten können als Dachterrasse genutzt werden, wenn die erforderlichen Brüstungen und Umwehrungen maximal 0,90 m hoch sind. Sie müssen offen und transparent gestaltet werden.
+die Oberkante Dachdeckung Anbau nichthöher liegt als Oberkante Fertigdecke Erdgeschoss des vorhandenen Wohnhauses.
 |
-Die Reihenhäuser (südlicher Bereich) sind überwiegend an Stichstraßen angeordnet, so dass Vorder- und Rückfassade annährend gleichwertig im Siedlungsbild wahrgenommen werden. Ein mehr als eingeschossiger Anbau würde bei dem schmalen Zuschnitt der Reihenhausparzellen den Hauptbauköroper mit Satteldach überformen. Daher werden an den Rückfassaden der Reihenhäuser nur eingeschossige Erweiterungen mit Flachdach zugelassen. Aus dem gleichen Grund sind nur offen gestaltete Brüstungen einer möglichen Dachterrasse erlaubnisfähig, damit sich der Anbau gegenüber dem Wohnhaus zurücknimmt.
-
-| § 4 Dächer 			 |
+An den Gartenseiten der Reihenhäuser und Doppelhäuser werden nur eingeschossige Erweiterungen mit Flachdach zugelassen, damit die Dominanz des Hauptbaukörpers mit Satteldach bewahrt bleibt. Die Anbauten sind abgestimmt auf den Bautyp.
 
 |
-(1) Für die Dacheindeckung ist nur ein hellroter/ziegelroter/naturroter Dachziegel oder Betondachsteine in Form klassischer, gewellter Formgebung in Anlehnung an RAL 2002/3000 zulässig. Glasiertes Material, Metall, Kunststoffe oder Schiefer sind als Eindeckungsmaterial unzulässig.
+Die Dachflächen der eingeschossigen Anbauten können als Dachterrasse genutzt werden, wenn die erforderlichen Brüstungen und Umwehrungen max. 0,90 m hoch sind. Sie müssen offen und transparentgestaltet werden.
 |
-Ein wichtiges Gestaltungsmerkmal dieser Siedlungshäuser ist die rote Dacheindeckung. Daher wird die Verwendung von roten Dachziegeln entsprechend der Festsetzung bei einer Neueindeckung vorgeschrieben. Betondachziegel in Anlehnung an die originale, gewellte Formgebung fügen sich ebenso in das Siedungsbild ein.
+Bei den Reihenhäusern kann max. die Gebäudebreite genutzt werden. Offen gestaltete Brüstungen bei möglichen Dachterrassen sollen bewirken, dass der Anbau nicht gegenüber dem Wohnhaus dominiert.
 
 |
-(2) Änderungen an der Dachgestaltung müssen sich in das Gesamtbild der Siedlung einfügen. Abgestimmt auf den Bautyp und die Lage in der Siedlung können daher unterschiedliche Möglichkeiten zur Belichtung der Dachgeschossebene verwendet werden:
+An der Gartenseite der Einfamilienhäuser sind zweigeschossige Anbauten zulässig, wenn
+
+sie mit Flachdach ausgebildet werden und
+
+die Oberkante Dachdeckung Anbau unterhalb der Traufe des vorhandenen Wohnhauses endet.
 |
+Bei den Einfamilienhäusern ist die Breite des Anbaus abgestimmt auf die Breite des Wohnraumes, der entsprechend verlängert werden kann. Abgestimmt auf das Gestaltbild der Staffelung zwischen Wohnhaus und Garage sind hier zweigeschossige Erweiterungsbauten möglich.
 
 |
-(2 a) Bei den Reihenhäusern (südlicher Bereich) und den Rückfassaden der Mehrfamilienhäuser (nördlicher Bereich) werden Dachflächenfenster zugelassen, wenn sie in Anordnung und Größe Bezug zu den darunter liegenden Öffnungsachsen haben. Sie dürfen nicht mehr als 10 cm aus der Hauptdachfläche herausragen. Die maximale Größe eines Dachflächenfensters darf 1,3 m² betragen.
+Eine geringfügige Überschreitung der Traufe des vorhandenen Wohnhauses von maximal 20 cm durch die Oberkante Dachdecke Anbau kann zugelassen werden, wenn unterhalb der vorhandenen Traufe eine Baufuge zwischen Altbau und Erweiterung ausgebildet wird.
 |
-Um eine Nutzung des Dachraums zu ermöglichen werden Dachflächenfenster auf bestimmten Dachflächen genehmigt. Die Anordnung und Größe der Dachflächenfenster muss Bezug zu der Gestaltung der Fassaden haben, damit sie sich in das harmonische und wohlproportionierte Gesamtbild der Siedlung einfügen und unterordnen.
+Um die ursprüngliche Gestaltung ablesbar zu lassen, muss das Traufdetail der bestehenden Häuser unverändert freigehalten werden.
 
 |
-(2 b) Bei den Zweifamilienreihenhäusern und Zweispännern (nördlicher Bereich) sind Dachflächenfenster bei den der öffentlichen Straße zugewandten Dachflächen unzulässig. Ausnahmsweise können als zweiter Fluchtweg je bestehende Hauseinheit/Reihenhaus ein Dachflächenfenster in der erforderlichen Größe zugelassen werden.
+An der Gartenseite der Einfamilienhäuser sind eingeschossige, verglaste Winter-gärten als Anbau zulässig. Der Wintergarten darf die Breite des vorgegebenen Baufensters nicht überschreiten und muss direkt an das Bestandsgebäude anschließen.
 |
-Durch die parallele Stellung im leicht geschwungenen Straßenraum sind die Mehrfamilienhäuser (nördlicher Bereich) besonders prägend für das städtebauliche Konzept dieser Siedlung. Die Kubatur dieser Gebäude mit den ungestörten, roten Dachflächen ist für das Siedlungsbild maßgebend, so dass hier Dachflächenfenster nicht zugelassen werden. In Ausnahmefällen wird je Hauseinheit ein Dachflächenfenster als zweiter Fluchtweg zugelassen, um eine Nutzung des Dachgeschosses zu ermöglichen.
+Verglaste, eingeschossige Wintergärten können sich der siedlungsprägenden Gebäudekubatur von Wohnhaus und Garage unterordnen.
 
 |
-(2 c) Dacheinschnitte und Gauben sind unzulässig.
-|
-Die vorhandene Dachform ist das 36° Satteldach. Bei dieser Dachneigung würde jede Gaube oder Dacheinschnitt in der Dachfläche dominieren und das Gesamtbild der Siedlung erheblich beeinträchtigen. Daher werden diese Möglichkeiten zur Belichtung des Dachgeschosses an den Straßenfassaden und den rückwärtigen Fassaden der Reihenhäuser (südlicher Bereich) nicht zugelassen.
-
-|
-(2 d) An der Rückfassade der Zweifamilienreihenhäuser und Zwei-spänner (nördlicher Bereich) können Dacheinschnitte zugelassen werden, wenn
-
-• die maximale Breite von 3,00 m nicht überschritten wird und
-
-• die Länge aller Dacheinschnitte bei einem Gebäude weniger als 50 % der Gebäudelänge beträgt.
-|
-Um eine Nutzung der Dachgeschossebene der Mehrfamilienhäuser (nördlicher Bereich) zu ermöglichen, werden hier an der Rückfassade neben Dachflächenfenstern auch Dachein-schnitte ermöglicht. Somit sind unterschiedliche Möglichkeiten zur Belichtung gegeben, die auf die Gestalt der lang gestreckten Wohnblöcke Rücksicht nehmen.
-
-|
-3) Solartechnik wird in Ausnahmefällen in Form von Solarkollektoren zur Warmwasserbereitung oder zur Unterstützung des Heizsystems an den dem öffentlichen Raum abgewandten Dachflächen zugelassen. Die Anordnung muss Bezug zu den darunter liegenden Öffnungsachsen haben und sie müssen sich in der Form und Höhenlage an den Dachflächenfenstern orientieren.
-|
-Solartechnik kann in einem begrenzten Umfang zugelassen werden. Die Größe und Anordnung der Flächen wird aber begrenzt, so dass in der Gesamtwirkung die rot eingedeckte Dachfläche mit Dachziegeln dominant bleibt.
-
-|
-(4) Photovoltaikanlagen sind nicht zulässig.
-|
-Photovoltaikanlagen dienen nicht vorrangig dem Eigenbedarf, sondern müssen aufgrund der Wirtschaftlichkeit derzeit großflächig ausgeführt werden. Sie stellen insbesondere mit ihrer beanspruchten Fläche, der glatten Oberfläche und der Farbgebung eine empfindliche Störung des historischen Siedlungsbildes dar. Daher sind sie mit dem charakteristischen Gestaltbild der roten Farbigkeit traditioneller Ziegel nicht vereinbar.
-
-|
-(5) Zur Dämmung des Daches kann eine Dacherhöhung von maximal 5 cm zugelassen werden. Die Erhöhung muss so ausgeführt werden, so dass kein Versprung in der Dacheindeckung wahrnehmbar ist.
-|
-Ergänzend zur Zwischensparrendämmung wird eine geringe Erhöhung des Daches zur Dämmung zugelassen, um einen zeitgemäßen Wärmeschutz zu ermöglichen. Dieses ist aber nur dann genehmigungsfähig, wenn im Übergang zum Dach des Nachbargebäudes kein Versprung wahrnehmbar ist. Es ist nicht erforderlich, dass auch die Nachbarn diese geringe Dacherhöhung ausführen.
-
-|
-(6) Dachüberstände dürfen an der Traufe und am Ortgang nicht mehr als 0,20 m betragen.
-|
-Ein wichtiges gestalterisches Detail sind die Dachüberstände. Sie sind wie für Siedlungen der 1950er Jahre typisch, sehr schlicht ausgebildet. Durch die Festlegung eines max. Überstandes soll gewährleistet werden, dass dieses Gestaltbild nicht verunklart wird.
-
-|
-§ 5 Fassaden
+§ 4 Dächer
 |
 Begründung:
 
 |
-(1) Die Wandflächen der Wohngebäude und Garagen sind in einem glatten, hellen, weißgrundigen Putz ohne modische Putzstrukturen (wie z. B. Nester-, Nockel-, Würmer-, Wellen-, Waben- oder Fächerputz) auszuführen. Der Farbton des Anstrichs muss ebenso hell und weißgrundig sein und ist auf die benachbarten Häuser abzustimmen. Die glatte Oberflächenstruktur und die Farbgebung müssen in einer Hauszeile einheitlich ausgebildet werden. Glänzende Materialien sind ausgeschlossen.
+(1) Für die Dacheindeckung ist Schiefereindeckung oder Flachdachziegel (Dachziegel mit flacher Ausformung) zulässig. Die Farbgebung muss schwarz/
+schwarzgrau/anthrazit sein. Das Dacheindeckungsmaterial muss einheitlich für ein Doppelhaus/eine Hausgruppe sein. Glasiertes Ziegelmaterial, Metall oder Kunststoffe sind als Eindeckungsmaterial unzulässig.
 |
-Ein wesentliches Gestaltungselement dieser Siedlung sind die in einem bestimmten, hellen Farbspektrum ausgeführten, glatten Putzfassaden. Durch die Vorgabe der Oberflächenstruktur und der einheitlichen Farbgebung soll der Erhalt eines einheitlichen Siedlungsbildes gewährleistet werden.
+Ein wichtiges Gestaltungsmerkmal dieser Siedlungshäuser ist die Schiefereindeckung. Daher sollten bei einer Neueindeckung Schiefer oder Flachdachziegel in einem vorgeschriebenen Farbspektrum verwendet werden. Die flache Ausformung ist mit dem Gestaltbild von Schiefer vergleichbar.
 
 |
-(2) Eine zusätzliche Schicht zur Dämmung kann bei den Außenwänden mit einer Dicke von maximal insgesamt 14 cm zugelassen werden. Die Laibungstiefe der Fenster darf maximal 12 cm betragen. Die zusätzliche Schichtdicke auf den Außenwänden muss einheitlich für einen Baublock ausgeführt werden.
+Die Kaminköpfe sind mit Schiefer in der Farbgebung schwarz/schwarzgrau/anthrazit oder mit vorbewittertem Zinkblech zu bekleiden. Das Material muss je Doppelhaus/Hausgruppe einheitlich sein.
 |
-Das Aufbringen von Schichten auf die Fassade ändert die Proportion eines Gebäudes. Bei einer zusätzlichen Schichtdicke von 14 cm können zeitgemäße Wärmedämmmaßnahmen durchgeführt werden. Daher wird die Dicke der Außendämmschicht einschließlich Verputz auf das bauphysikalisch effiziente Maß beschränkt.
+Die Kaminköpfe rhythmisieren die gestaffelten Dachflächen und prägen durch ihre Materialität das Erscheinungsbild der einzelnen Haustypen.
 
-Die Fenster sind im Bestand teilweise flächenbündig, teilweise mit einer geringen Laibungstiefe eingesetzt. Die Proportions-verhältnisse zwischen Wandfläche und Fensterebene sind ein wichtiges gestalterisches Detail, das auch zukünftig gewahrt werden soll. Dieses soll durch die Festlegung der Laibungstiefe der Fenster gewährleistet werden.
+|
+(2) Dacheinschnitte und Gauben sind unzulässig.
+|
+Durch die Staffelung der Gebäude im leicht geschwungenen Straßenraum sind die ungestörten Dachflächen gestaltprägend für das Siedlungsbild. Dachaufbauten, Dacheinschnitte und Dachflächenfenster stören die geschlossene Wirkung der Dächer.
+
+Die vorhandenen Satteldächer haben 30° (Einfamilienhäuser/Doppelhäuser) bzw. 35° (Reihenhäuser) Dachneigung. Bei dieser Dachneigung würde jede Gaube oder Dacheinschnitt in der Dachfläche dominieren und das Gesamtbild der Siedlung erheblich beeinträchtigen. Daher werden diese Möglichkeiten zur Belichtung des Dachgeschosses nicht zugelassen.
+
+|
+An der Haupteingangsseite aller Haustypen sind auch Dachflächenfenster unzulässig. Nur wenn es unabdingbar als zweiter Rettungsweg erforderlich ist, kann ausnahmsweise je bestehender Haus-einheit ein Dachflächenfenster in der brandschutztechnisch notwendigen Größe zugelassen werden.
+
+Auf den gartenseitigen Dachflächen können Dachflächenfenster zugelassen werden, wenn sie in Anordnung und Größe Bezug zu den darunter liegenden Öffnungsachsen haben. Pro Dachfläche dürfen max. 2 Dachflächenfenster bei den Reihenhäusern und 4 Dachflächenfenster bei den Einfamilienhäusern/Doppelhäusern eingesetzt werden. Die Größe eines Dachflächenfensters darf 1,3 m² nicht überschreiten. Die Dachflächenfenster sollen möglichst bündig in die Dachfläche eingesetzt werden und dürfen nicht mehr als 10 cm aus der Hauptdachfläche herausragen.
+|
+Um dennoch eine Nutzung des Dachraums nicht auszuschließen, können Dachflächenfenster zugelassen werden, jedoch nur unter den genannten Voraussetzungen. Gartenseitig sind mit dem Siedlungsbild dabei größere Spielräume vereinbar als eingangsseitig.
+
+|
+3) Solartechnik kann in Ausnahmefällen in Form von Solarkollektoren zur Warmwas-serbereitung oder zur Unterstützung des Heizsystems auf den gartenseitigen Dachflächen zugelassen werden, wenn die Anordnung einen Bezug zu den darunter liegenden Öffnungsachsen hat und sie sich in der Form und Höhenlage an den Dachflächenfenstern orientiert.
+|
+Solartechnik soll nicht ausgeschlossen werden. Die Größe und Anordnung der Flächen wird aber begrenzt, so dass in der Gesamtwirkung die gedeckte Dachfläche mit Schiefer- bzw. Ziegel dominant bleibt.
+
+|
+Photovoltaikanlagen sind unzulässig.
+|
+Photovoltaikanlagen stellen u.a. durch ihre beanspruchte Fläche, ihre glatte Oberfläche und die Farbgebung eine empfindliche Störung des historischen Siedlungsbildes dar. Sie sind mit dem charakteristischen Gestaltbild nicht vereinbar.
+
+|
+(4) Zur Dämmung des Daches kann eine Dacherhöhung von max. 5 cm zugelassen werden, wenn diese einheitlich für das gesamte Doppelhaus/die gesamte Hausgruppe ausgeführt wird, sodass kein Versprung in der Dacheindeckung wahrnehmbar ist.
+|
+Um einen zeitgemäßen Wärmeschutz zu ermöglichen, wird ergänzend zur Zwischensparrendämmung eine geringe Erhöhung des Daches zur Dämmung zugelassen. Um das Siedlungsbild nicht zu stören, soll aber die baugleiche Anschlusshöhe zum Nachbargebäude gewährleistet sein, wobei eine gleichzeitige Erhöhung hier aus technischen Gründen nicht erforderlich ist.
+
+|
+(5) Die bestehenden Dachüberstände an den Traufseiten dürfen nicht vergrößert werden. Am Ortgangmuss die Putzkante als Abschlussprofil erhalten werden.
+|
+Die traufseitigen Dachüberstände sind auf die vorspringenden, giebelseitigen Mauerscheiben abgestimmt. Im Zusammenhang mit der Staffelung der Gebäude sind sie ein wichtiges Gestaltungsmerkmal und sollen deshalb erhalten werden.
+
+|
+§ 5 Außenwandflächen
+|
+Begründung:
+
+|
+(1) Die Außenwandflächen von Anbauten und Garagen sind rot zu verklinkern. Der Farbton ist auf den Hauptbaukörper abzustimmen.
+
+Verputzte, weiße Außenwandflächen sind nur an den historisch belegten Flächen zulässig.
+|
+Der für das Münsterland charakteristische rote Klinker dominiert das Siedlungsbild. Die zurückhaltend verwendeten Putzflächen setzen zeittypische Akzente der 1960er Jahre. Damit der Siedlungscharakter insgesamt erhalten wird, soll der Wechsel zwischen Putz- und Klinkerflächen erhalten und bauliche Ergänzungen in Klinker ausgeführt werden. So wird der rote Klinker auch zukünftig das Erscheinungsbild der Siedlung prägen.
 
 |
 § 6 Fenster
@@ -200,82 +216,69 @@ Die Fenster sind im Bestand teilweise flächenbündig, teilweise mit einer gerin
 Begründung:
 
 |
-(1) Die Abmessungen der Fenster- und Türöffnungen an allen Eingangsfassaden und den Giebeln müssen original und unverändert erhalten werden. Fensterteilungen dürfen nur vertikal erfolgen. Eine kleinteiligere Aufteilung, z. B. durch Sprossen, ist unzulässig.
+(1) Fenster und Haustüren müssen weiß bleiben.
 |
-Die Formate der Öffnungen, ihre Größe und Einheitlichkeit, sind ein wichtiges Gestaltungsdetail, aus der sich Bautypen und Baualter der einzelnen Gebäude der Siedlung ableiten lassen. Veränderungen der Öffnungsmaße an der Eingangs- oder Giebelseite würden dieses charakteristische Siedlungsbild und die Bauhistorie als Siedlung der 1950er Jahre erheblich verunklären. Die Abmessungen der Fensteröffnungen bei einigen Bautypen sind breit gelagert. Sie waren/sind durch Fensterteilungen vertikal gegliedert. Die Vorschrift dient dazu,, dass der überlieferte Maßstab und die für die 1950er Jahre charakteristische Dominanz der Vertikalen gewahrt bleiben.
+Der Dreiklang der Farben aus roten Klinkern, weißem Putz und weißen Fenstern/Türen prägt das Siedlungsbild und ist typisch für die frühen 1960er Jahre.
 
 |
-(2) An den rückwärtigen Gartenseiten können Fenster zu Türen vergrößert werden, die ein Hochformat haben und auf den Maßstab der Siedung der 1950er Jahre abgestimmt sind.
+(2) An allen Haupteingangsseiten und Giebeln müssen die Abmessungen von Fenster- und Türöffnungen original er-halten bleiben. Eine kleinteiligere Aufteilung, z.B. durch Sprossen, ist unzulässig. Horizontale Fensterformate müssen senkrecht geteilt werden. Das Glasformat muss quadratisch oder vertikal sein.
 |
-Um Möglichkeiten zur Anpassung an veränderte Wohnbedürfnisse zu geben, werden an den Gartenseiten Veränderungen der Fensterformate unter Berücksichtigung des vorhandenen Maßstabs zugelassen.
+Fensterformate sind ein wichtiges Gestaltungsdetail, aus dem sich das Baualter erkennen lässt. Veränderungen der Fensterformate an der Haupteingangs- oder Giebelseite würden das charakteristische Siedlungsbild und die Bauhistorie als Siedlung der frühen 1960er Jahre erheblich verunklaren.
 
 |
-(3) Gewölbte und gefärbte Gläser sind unzulässig.
+An den rückwärtigen Gartenseiten können Fenster zu bodentiefen Fenstern/Türen vergrößert werden.
 |
-Spiegelungen und Verzerrungen in den Glasflächen, die von den genannten Gläsern erzeugt werden, sind untypisch für das Siedlungsbild der 1950er Jahre und stören das Siedlungsbild.
+Um Möglichkeiten zur Anpassung an veränderte Wohnbedürfnisse zu geben, sind an den Gartenseiten Fenstervergrößerungen möglich, sofern die vorhandenen Öffnungsbreiten erhalten werden.
 
 |
-§ 7 Vordächer
+(3) Gewölbte oder gefärbte Gläser sind unzulässig.
+|
+Von den genannten Gläsern werden Spiegelungen und Verzerrungen erzeugt, die für das Siedlungsbild der 1960er Jahre untypisch und störend sind.
+
+|
+§ 7 Vorgärten, Einfriedungen und Nebenanlagen
 |
 Begründung:
 
 |
-(1) Bei allen Reihenhäusern (südlicher Bereich), die im Bestand eine zurückversetzte Eingangstür haben, sind Vordächer unzulässig.
+(1) Das Befestigen der vor der Flucht der Haupteingangsfassaden gelegenen nicht überbauten Grundstücksflächen (Vorgärten) über den notwendigen Zuweg zur Haustür und die Zufahrt zur Garage/Stellplatz hinaus ist unzulässig.
 |
-Eine geradlinige Architektur ohne Vor- und Rücksprünge prägt überwiegend die Gestaltung der Häuser. Ausnahme bilden teilweise die Reihenhäuser (südlicher Bereich) mit zurückversetzten Eingangstüren und überdachtem, wettergeschützten Freiraum- Bereich. Unter Berücksichtigung des Rücksprunges sind Vordächer hier nicht erforderlich und würden sich nicht in das Erscheinungsbild einfügen. Sie werden daher hier nicht zugelassen.
+Die durchgängigen Rasenflächen der Vorgärten prägen maßgeblich das Siedlungsbild. Sie sind ein wichtiges Charakteristikum dieser Siedlung. Der weitestgehende Schutz und Erhalt der Rasenflächen im Vorgarten ist als ein wichtiger Eckpunkt dieser Satzung zu sehen. Nur für die Zufahrten zu Stellplätzen/Garagen sind Sonderregelungen erforderlich. Ansonsten sind die Vorgärten von jeglicher Versiegelung freizuhalten.
 
 |
-(2) Im Bereich der Mehrfamilienhäuser (nördlicher Bereich) und den nach § 7 (1) nicht erfassten Reihenhäusern (südlicher Bereich) sind Vordächer als annähernd horizontale Kragplatten aus Beton oder Glas zulässig. Die Konstruktion ist zurückhaltend zu gestalten. Sie müssen für ein Gebäude insgesamt einheitlich gestaltet sein.
+Die Fläche der Vorgärten ist zu mind. 75% als Rasenfläche zu gestalten. Hochwachsende Bepflanzung ist nur in Form von Einzelbäumen zulässig. Die im Bebauungsplan zum Erhalt festgesetzten Einzelbäume sind zu pflegen und bei Ausfall zu ersetzen.
 |
-Für alle anderen Gebäude wurden zur Bauzeit in den 1950er Jahren keine Vordächer vorgesehen. Im Laufe der Nutzung durch die britischen Armeeangehörigen wurden hier teilweise Vordächer nachgerüstet, die sich mit ihrer filigranen Gestaltung in das Siedlungsbild einfügen. Eine übermäßig betonte Gestaltung dieser Vordächer entspräche nicht dem zurückhaltenden und schlichten Eindruck dieser Siedlung.
+Charakteristisch für das Siedlungsbild ist eine offene Freiraumgestaltung mit prägenden Einzelbäumen, die im Bebauungsplan festgesetzt oder gekennzeichnet sind. Diese festgesetzten Einzelbäume sind zu erhalten, die gekennzeichneten sollten erhalten werden. Bäume gliedern und differenzieren die Grünflächen. Eine kleinteilige Bepflanzung ist untypisch und würde störend auf das gärtnerische Gesamtbild wirken.
 
 |
-§ 8 Vorgärten und Einfriedungen
+(2) Im Bereich der Vorgärten sind Einfriedungen unzulässig.
 |
-Begründung:
+Die offenen, rasenbegrünten Vorgärten sind ein prägendes Element der Freiraumgestaltung. Sie sind bestimmend für den Charakter, den die Siedlung Dachsleite bis heute bewahrt hat. Der grüne Erlebnisraum der Siedlung charakterisiert das Siedlungsbild und ist besonders geschützt. Zäune oder Einfriedungen (Mauern und Hecken) würden die großzügigen Grünflächen unnötig zergliedern und teilen, deshalb werden sie im Bereich der Vorgärten nicht zugelassen.
 
 |
-(1) Das Befestigen der Vorgartenflächen über den notwendigen Zuweg zur Haustür hinaus ist unzulässig. Bei den Häusern Zum Erlenbusch 66c-66h, einer Reihenhauszeile im südlichen Teil, besteht nach Bebauungsplan die Möglichkeit, im Vorgarten je Reihenhaus einen Stellplatz anzulegen. Dieser muss aus Rasengittersteinen bzw. Kleinpflaster mit offenen Zwangsfugen und Rasen angelegt werden.
+Die rückwärtigen Gärten können bis zur Flucht der Haupteingangsfassaden eingefriedet werden. Die Höhe der Einfriedung ist für die jeweils zu einem Doppelhaus bzw. zu einer Hausgruppe gehörigen Gärten einheitlich auszuführen. Hecken können bis zu einer Höhe von 1,80 m zugelassen werden. Bis zu einer Höhe von 1,20 m kann ein Zaun in die Hecke integriert werden.
 |
-Die durchgängigen und weitläufigen Rasenflächen als Vorgärten prägen maßgeblich das weiträumige Siedlungsbild. Sie sind ein wichtiges Charakteristikum dieser Siedlung. Der weitestgehende Schutz und Erhalt der Rasenflächen im Vorgarten ist als ein wichtiger Eckpunkt dieser Satzung zu sehen. Vor den Reihenhäusern an nur einer Stichstraße können nach Bebauungsplan Stellplätze im Vorgarten angelegt werden. Hier ist eine Sonderregelung erforderlich, da ansonsten möglicherweise die Vorgartenfläche aufgrund der Breite der Grundstücke weitestgehend befestigt werden könnte. Ansonsten sind die Vorgärten von jeglicher Bebauung freizuhalten.
+Um eine ungestörte Nutzung der Reihenhausgärten zu ermöglichen, sind hier Einfriedungen auch zu den öffentlichen Verkehrsflächen möglich.
 
 |
-(2) Die Fläche des Vorgartens ist zu mindestens 75% als Rasenfläche zu gestalten. Hochwachsende Bepflanzung ist in Form von Einzelbäumen zulässig. Die im Bebauungsplan zum Erhalt festgesetzten Einzelbäume, sind zu pflegen und bei Ausfall zu ersetzen.
+(3) Nebenanlagen gem. § 14 BauNVO sind nur in den rückwärtigen Gärten zulässig. Sie müssen sich in Größe, Material und Farbgebung dem Siedlungsbild unterordnen.
+|
+Nebenanlagen sind gem. § 2 (2) dieser Satzung genehmigungspflichtig. Der Genehmigungsvorbehalt dient der Abstimmung ihrer Größe und Gestaltung auf das Siedlungsbild.
 
 |
-Charakteristisch für das Siedlungsbild ist eine offene Freiraumgestaltung mit prägenden Einzelbäumen, die im Bebauungsplan festgesetzt oder gekennzeichnet sind. Die fest-gesetzten Einzelbäume sind zwingend zu erhalten, die gekennzeichneten sollten erhalten werden. Die Bäume gliedern und differenzieren die Grünflächen. Eine kleinteilige Bepflanzung ist untypisch und würde störend auf das gärtnerische Gesamtbild wirken.
-
-|
-(3) Jegliche Einfriedung im Bereich der Vorgärten und der dem öffentlichen Raum/Straße zugewandten Freiflächen ist unzulässig.
-|
-Insbesondere im nördlichen Siedlungsbereich bestimmen großzügigen Frei- und Grünräume und offene, rasenbegrünte Vorgärten die Freiraumgestaltung. Sie sind bestimmend für den ausgeprägten Gartenstadtcharakter, den die Siedlung Zum Erlenbusch bis heute bewahrt hat. Der grüne Erlebnisraum der Siedlung charakterisiert das Siedlungsbild und ist besonders geschützt. Zäune oder Einfriedungen (Mauern und Hecken) würden die großzügigen Grünflächen gliedern und teilen, so dass sie zumindest zum Straßenraum nicht zugelassen werden.
-
-|
-(4) Ausnahmsweise können die zu den öffentlichen Verkehrsflächen ausgerichteten, rückwärtigen Reihenhausgärten (südlicher Bereich) mit Hecken eingefriedet werden.
-|
-Um eine ungestörte Nutzung der Reihen-hausgärten zu ermöglichen, sind hier Hecken zur Einfriedung auch zu den öffentlichen Verkehrsflächen möglich.
-
-|
-(5) Nebenanlagen gemäß § 14 BauNVO sind nur in den rückwärtigen Gärten zulässig. Sie müssen sich in Größe, Material und Farbgebung dem Siedlungsbild unterordnen.
-
-|
-Nebenanlagen werden in den rückwärtigen Gärten zugelassen. Sie sind aber gemäß § 2 (2) dieser Satzung genehmigungspflichtig. Im Bereich der Vorgärten sind nur „begrünte“ Anlagen für Abfallbehälter zulässig.
-
-|
-(6) Ausnahmsweise können im Vorgartenbereich Anlagen für Abfallbehälter zugelassen werden, wenn sie mit Sträuchern oder Hecken umpflanzt oder mit Rankpflanzen eingegrünt werden.
+Ausnahmsweise können im Vorgartenbereich Anlagen für Abfallbehälter nur zugelassen werden, wenn sie mit Sträuchern oder Hecken umpflanzt oder mit Rankpflanzen eingegrünt werden.
 |
 
 |
-§ 9 Ordnungswidrigkeiten
-|
-Begründung:
-
-|
-Wer vorsätzlich oder fahrlässig gegen die Bestimmungen dieser Satzung verstößt, handelt ordnungswidrig. Dies kann gemäß § 213 des Baugesetzbuch (BauGB) und § 84 der Bauordnung des Landes Nordrhein- Westfalen (BauO NRW) mit einem Bußgeld geahndet werden.
+§ 8 Ordnungswidrigkeiten
 |
 
 |
-§ 10 Inkrafttreten
+Wer vorsätzlich oder fahrlässig gegen die Bestimmungen dieser Satzung verstößt, handelt ordnungswidrig. Dies kann gem. § 213 des Baugesetzbuch (BauGB) und § 84 der Bauordnung des Landes Nordrhein-Westfalen (BauO NRW) mit einem Bußgeld geahndet werden.
+|
+
+|
+§ 9 Inkrafttreten
 |
 
 |
@@ -285,6 +288,6 @@ Diese Satzung tritt am Tage der öffentlichen Bekanntmachung in Kraft.
 Anlage
 :
 
-Anlage 1 zur Erhaltungs- und Gestaltungssatzung in der Siedlung "Zum Erlenbusch"
+Anlage 1
 
 Zurück
