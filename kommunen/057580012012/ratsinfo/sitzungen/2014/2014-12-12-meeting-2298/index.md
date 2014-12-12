@@ -1,0 +1,51 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2014-12-12T16:00:00+01:00
+- Ende: 2014-12-12T20:35:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZXGlZzBQwvYKfQh5lkTREK8
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2298
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4e8EbWkFZAv43AUesyCWlF19XL74Op5mWENEiO8Or8/Einladung_Rat_12.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZatTjBUAzlBANjLPXrWYSNDN0vKNnoX7UuWR9dlgNW6l/Oeffentliche_Niederschrift_Rat_12.12.2014.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 26.09.2014
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2013, Ergebnisausgleich und Entlastung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2013, Ergebnisausgleich und Entlastung des Bürgermeisters - (kein Text vorhanden)
+- TOP A.7: 3. Situationsbericht zur Haushaltswirtschaft 2014 - (kein Text vorhanden)
+- TOP A.8: Drittorganisationen der Hansestadt Herford
+- TOP B.2e: MARTa gGmbH: Bericht im Rahmen des Beteiligungscontrollings - (kein Text vorhanden)
+- TOP B.2a: HVV GmbH: Umwandlung WKH Wasserkraftanlagen Herford GmbH in KFH Konversionsflächengesellschaft Hansestadt Herford mbH - (kein Text vorhanden)
+- TOP B.2a: HVV GmbH: Umwandlung WKH Wasserkraftanlagen Herford GmbH in KFH Konversionsflächengesellschaft Hansestadt Herford mbH - (kein Text vorhanden)
+- TOP A.8a: IAB: Änderung des Wirtschaftsplanes 2014 und Wirtschaftsplan 2015 - (kein Text vorhanden)
+- TOP A.8b: HVV-Konzern: a. Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen von HVV GmbH und WWS GmbH b. Geänderte Wirtschaftspläne 2014 und Wirtschaftspläne 2015 wesentlicher Tochterunternehmen - (kein Text vorhanden)
+- TOP A.8c: INTERKOMM GmbH: Wirtschaftsplan 2015 - (kein Text vorhanden)
+- TOP A.8d: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2013 und Wirtschaftsplan 2015 - (kein Text vorhanden)
+- TOP A.9: Termine der Ratssitzungen für das Jahr 2015 - (kein Text vorhanden)
+- TOP A.10: Papierlose Gremienarbeit - (kein Text vorhanden)
+- TOP A.11: Durchführung verkaufsoffener Sonntage im Jahre 2015 - (kein Text vorhanden)
+- TOP A.21: Antrag Fraktion DIE LINKE auf Umbesetzung im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP A.22: Antrag Fraktion DIE LINKE auf Umbesetzung im Beirat für Stadtbildpflege - (kein Text vorhanden)
+- TOP A.23: Antrag der Fraktion Bündnis90/ Die Grünen: Internationale Handelsabkommen TTIP, CETA, TiSA/hier: Auswirkungen auf die Kommunen - (kein Text vorhanden)
+- TOP A.24: Antrag Fraktion DIE LINKE an den Rat der Hansestadt Herford zu TTIP CETA TiSA - (kein Text vorhanden)
+- TOP A.25: Antrag der SPD-Fraktion zur Überarbeitung des Stadtentwicklungsplans 2015 - 2030 - (kein Text vorhanden)
+- TOP A.26: Antrag der CDU: Einsatz-/Aufwandsentschädigungen sowie Verdienstausfall bei der Feuerwehr - (kein Text vorhanden)
+- TOP A.12: Frühe Hilfen nach dem Bundeskinderschutzgesetz, Beschluss zum bedarfsgerechten Ausbau der frühen Hilfen in Herford - (kein Text vorhanden)
+- TOP A.13: Wahl des Vertreters des Jugendamtselternbeirates als beratendes Mitglied für den Jugendhilfeausschuss ( § 3 Abs. 3 l der Satzung für das Jugendamt) - (kein Text vorhanden)
+- TOP A.14: Entsendung von Mitgliedern des Behinderten- und des Seniorenbeirates in städtische Fachausschüsse - (kein Text vorhanden)
+- TOP A.15: Fachliche Umsetzung der gesetzlichen Aufträge gemäß § 55 SGB VIII im Arbeitsbereich Amtsvormundschaften Erhöhung der Personalressource - (kein Text vorhanden)
+- TOP A.16: Gebührenhaushalt Abfallentsorgung a) 1. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Stadt Herford b) 1. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung in der Stadt Herford - (kein Text vorhanden)
+- TOP A.17: Gebührenhaushalt Straßenreinigung hier: 3. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - (kein Text vorhanden)
+- TOP A.18: Gebührenhaushalt Friedhöfe a) Änderung der Satzung für die Friedhöfe der Stadt Herford (Friedhofssatzung) b) Änderung der Gebührensatzung für die Friedhöfe der Stadt Herford c) Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Stadt Herford - (kein Text vorhanden)
+- TOP A.19: Gebührensatzung für die Feuerwehr zum 01.01.2015 hier: 2. Änderung der Satzung über die Erhebung von Kostenersatz für die Einsätze der Feuerwehr und über die Erhebung von Gebühren für die Durchführung der Brandschau in der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.20: Bebauungsplan Nr. 6.76 "B 239 / Schobeke" hier: Anordnung der Veränderungssperre Nr. 39 - (kein Text vorhanden)
