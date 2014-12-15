@@ -1,0 +1,103 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2014-12-15T16:05:00+01:00
+- Ende: 2014-12-15T21:32:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11489
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/11489
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00175084.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00175784.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung - Stand: 15.12.2014 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00175450.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: "Asyl-Kompromiss" und die Situation ausreisepflichtiger Nicht-EU-Staatsbürger im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Große Anfrage der Fraktion PRO NRW/REP - Entgegennahme ohne Beschluss
+- TOP 2.2: Winterdienst - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Beantwortung der großen Anfrage der Ratsfraktion „Die Linke“, Drucks. Nr. VO/0936/14 - Entgegennahme ohne Beschluss
+- TOP 2.3: Versorgung am Hauptbahnhof - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Versorgung am Hauptbahnhof/Antwort auf die Anfrage der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN vom 02.12.2014 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Anliegen eines Bürgers gemäß § 24 GO NRW: Investorenvorhaben am Döppersberg
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Appell an den Landesgesetzgeber und Mitwirkung an der Initiative „Rauchverbotspolitiker aussperren!“ - abgelehnt
+- TOP 4.2: Sicherung der Bahntrasse zwischen Wichlinghausen und Langerfeld - ungeändert beschlossen
+- TOP 4.3: Fortführung der Finanzierung der Schulsozialarbeit an Wuppertaler Schulen - ungeändert beschlossen
+- TOP 4.4: Den Salafismus in der Stadt mit allen Mitteln des Rechtsstaats bekämpfen! - abgelehnt
+- TOP 4.5: WSW-Aufsichtsräte nehmen Gleichstellung in den Blick - für erledigt erklärt
+- TOP 4.6: Der Bund bleibt weiter in der Pflicht - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.6.1: Änderungsantrag der Fraktionen von SPD und CDU zur VO/0942/14 - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Mehr Freiheit wagen - abgesetzt
+- TOP 5.1.1: Stellungnahme zum Antrag der FDP-Fraktion "Mehr Freiheit wagen" - VO /0184/14 - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Gebührensatzung zur Abfallwirtschaft 2015 - ungeändert beschlossen
+- TOP 6.2: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren ab 01.01.2015 - ungeändert beschlossen
+- TOP 6.3: 7. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2013 - ungeändert beschlossen
+- TOP 7.2: Genehmigung zusätzlicher Investitionsmittel für die Beschaffung technischer Infrastruktur - ungeändert beschlossen
+- TOP 7.3: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2013 - ungeändert beschlossen
+- TOP 7.4: Über-und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Bestellung der stellvertretenden Betriebsleitung KIJU - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2013 der Kinder- und Jugendwohngruppen - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplanung KIJU für 2015 - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2015 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2015 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.7: Jahresabschluss 2013 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.8: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2013 - ungeändert beschlossen
+- TOP 8.9: Wirtschaftsplan 2015 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.10: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.11: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.12: Jahresabschluss des Eigenbetriebes Wasser und Abwasser ( WAW) für das Rumpfgeschäftsjahr 2013 - ungeändert beschlossen
+- TOP 8.13: Entlastung des Betriebsausschusses für den Eigenbetrieb WAW - ungeändert beschlossen
+- TOP 8.14: Wirtschaftsplan 2015 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.15: Wirtschaftsplan 2015 der Wirtschaftsförderungsgesellschaft Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 8.16: Änderung des Gesellschaftsvertrages der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 8.17: Änderung des Gesellschaftsvertrages der WSW mobil GmbH - ungeändert beschlossen
+- TOP 8.18: Änderungen des Ergebnisabführungsvertrages im GWG-Konzern - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: (nur Hauptausschuss)
+- TOP 9.2: (nur Hauptausschuss)
+- TOP 9.3: (nur Hauptausschuss)
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Verkauf des Carnaper-Platzes an die WSW Wuppertaler Stadtwerke GmbH - geändert beschlossen
+- TOP 11.1.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zur Zukunft des Carnaper Platzes vom 25.09.2014 - zurückgezogen
+- TOP 11.1.2: Änderungsantrag der Fraktion PRO NRW/DIE REPUBLIKANER zur Zukunft des Carnaper Platzes vom 04.11.2014 - abgelehnt
+- TOP 11.1.3: Ergänzungsantrag der Fraktion DIE LINKE. zur Zukunft des Carnaper Platzes vom 07.11.2014 - zurückgezogen
+- TOP 11.1.4: Verkauf des Grundstücks „Carnaper Platz“ an die Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 11.1.5: Antrag Bürgerbegehren Carnaper Platz - abgelehnt
+- TOP 11.1.6: Erhalt des Carnaper Platzes - Entgegennahme ohne Beschluss
+- TOP 11.2: Umnutzung des aufgegebenen Sportplatzes / der Turnhalle am Stadion Zoo als multifunktionale Sport- und Eventfläche - ungeändert beschlossen
+- TOP 11.3: Weiterentwicklung und Stärkung der Bergischen Kooperation - geändert beschlossen
+- TOP 11.4: Verlagerung von Mitteln der offenen Kinder- und Jugendarbeit vom Stadtbezirk Vohwinkel nach Wichlinghausen - ungeändert beschlossen
+- TOP 11.4.1: Jugendeinrichtung Höhe bleibt erhalten - abgelehnt
+- TOP 11.5: 4. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK 2015) - ungeändert beschlossen
+- TOP 11.6: Umsetzung einer EU-konformen Direktvergabe im ÖPNV - ungeändert beschlossen
+- TOP 11.7: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2015 bis 31.12.2015 - ungeändert beschlossen
+- TOP 11.8: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen für die Zeit vom 01.01.2015 bis 31.12.2015 - geändert beschlossen
+- TOP 11.9: Bürgerbeteiligung – bisherige Aktivitäten und zukünftige Initiativen - Entgegennahme ohne Beschluss
+- TOP 11.10: Regionales Gewerbeflächenkonzept (Ergänzung) - ungeändert beschlossen
+- TOP 11.11: Zwischenbericht "Handlungskonzept Inklusion - Ein Wuppertal für Alle" - Entgegennahme ohne Beschluss
+- TOP 11.12: Regionales Strukturprogramm 2014 - 2020 (Nachtrag) - ungeändert beschlossen
+- TOP 11.13: Schloss Burg - ungeändert beschlossen
+- TOP 11.14: Weiteres Verfahren der Personalfindung Opernintendanz der Wuppertaler Bühnen und des Sinfonieorchesters GmbH und Gerneralmusikdirektor des Wuppertaler Sinfonieorchesters - ungeändert beschlossen
+- TOP 11.14.1: Die Wählergemeinschaft für Wuppertal (WfW) beantragt eine Änderung zu Punkt 1 der VO/0919/14 - abgelehnt
+- TOP 11.15: Tätigkeitsbericht der Behindertenbeauftragten 2012-2013 - Entgegennahme ohne Beschluss
+- TOP 11.16: Benennung der Nordbahntrasse - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines stellvertretenden Mitglieds für die Zweckverbandsversammlung des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 12.2: 38. ordentliche Hauptversammlung des Deutschen Städtetages vom 09. bis 11. Juni 2015 in Dresden - ungeändert beschlossen
+- TOP 12.3: Einigungsstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz NRW) - Bestimmung der von der Dienststelle zu benennenden Beisitzerinnen und Beisitzer - - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung Aufsichtsrat Hotel AG - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.6: Gemienumbesetzung Ausschuss für Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
