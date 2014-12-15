@@ -1,0 +1,54 @@
+# Rat der Stadt Rheda-Wiedenbrück (5. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2014-12-15T17:00:00+01:00
+- Ende: 2014-12-15T19:35:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT8wt-IXv5ZXO9uLd30MCtU
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1383
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYlI0uj-nFnD4eR_C3XbKoRvr0WWo3OG7DYgcYFcCY4/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_15.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWrNVv5g6BFosFTELzcpYBv07Uc6PNq8J2mbrGK6YLw/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_15.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag der CDU-Fraktion zur Verlängerung der Ladungsfristen - Einstimmig
+- TOP 5: Antrag der CDU-Fraktion auf Mitgliedschaft im Verein "Mobile Retter e. V." - Einstimmig
+- TOP 6: Zusätzliche Maßnahmen zur Förderung der Integration - gemeinsamer Antrag der Fraktionen CDU, SPD und Bündnis 90/Die Grünen - Einstimmig
+- TOP 7: Besetzung des Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss - Benennung eines sachverständigen Bürgers - Einstimmig
+- TOP 8: Mitwirkung des Schulträgers bei der Besetzung von Schulleitungsstellen - Bestellung eines stimmberechtigten und von bis zu drei beratenden Mitgliedern der erweiterten Schulkonferenz - Einstimmig
+- TOP 9: Neugestaltung der Elternbeiträge Kindertageseinrichtungen und Kindertagespflege zum 01.08.2015 Änderung der entsprechenden Elternbeitragssatzungen - 33 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 10: Anpassung der Satzung des Jugendamtes der Stadt Rheda-Wiedenbrück an die gesetzliche Änderung - Einstimmig
+- TOP 11: Änderung der Friedhofssatzung (§12) bezüglich der Unterscheidung der verschiedenen Grabstätten - Einstimmig
+- TOP 12: Straßenreinigung - Zweite Änderung der Straßenreinigungs- und Gebührensatzung und Neukalkulation der Gebühr - Einstimmig
+- TOP 13: Wirtschaftsplan für den Eigenbetrieb Abwasser für das Wirtschaftsjahr 2015; Vorlage des Entwurfs - 32 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 14: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2013, Entlastung der Betriebsleitung sowie des Betriebsausschusses hier: Bericht der BRV AG - 32 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 15: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - 32 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 16: Wirtschaftsplan des Betriebes Bauhof für das Wirtschaftsjahr 2015 - 32 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 17: Außerplanmäßige Verpflichtungsermächtigungen für Leistungen von Auszahlungen für Investitionen in 2015 gemäß § 85 GO NRW - Einstimmig
+- TOP 18: Neuausrichtung Verwaltungsvorstand; Stellenausschreibungen - Einstimmig
+- TOP 19: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2015 - Einstimmig
+- TOP 20: Bericht der Gemeindeprüfungsanstalt über die überörtliche Prüfung der Haushalts- wirtschaft bei der Stadt Rheda-Wiedenbrück) - Einstimmig
+- TOP 21: Digitale Breitbandversorgung im Stadtgebiet: Masterplan - Einstimmig
+- TOP 22: Aufhebung des Bebauungsplans Nr. 361 "Windkraft St. Vit"; a) Ergebnisse der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 u. 2 BauGB und der Beteiligung der Behörden gem. § 4 Abs. 1 u. 2 BauGB b) Satzungsbeschluss nach § 10 Abs. 1 BauGB - Einstimmig
+- TOP 23: Bebauungsplan Nr. 296 „Emsniederung“ (2. Änderung) a) Ergebnisse der öffentlichen Auslegung b) Satzungsbeschluss - Einstimmig
+- TOP 24: Bebauungsplan Nr. 388 "Bielefelder Straße/Ostring"; a) Ergebnisse der öffentlichen Auslegung nach § 3 Abs. 2 BauGB und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB b) Satzungsbeschluss - Einstimmig
+- TOP 25: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 26: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 27: Erklärung von Ausschließungsgründen
+- TOP 28: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 29: Erbschaftsangelegenheit - Einstimmig
+- TOP 30: Zuschussangelegenheit - Einstimmig
+- TOP 31: Stundung und Niederschlagung städtischer Forderungen - Einstimmig
+- TOP 32: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW Zustimmung zur Löschung einer Rückauflassungsvormerkung - 35 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 33: Abfallentsorgung - Verlängerung des Abfuhrvertrages um ein Jahr - Einstimmig
+- TOP 34: Jahresabschluss 2013 der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH - 31 Ja-Stimme(n), 5 Nein-Stimme(n)
+- TOP 35: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 36: Dringende Anfragen und Anregungen
