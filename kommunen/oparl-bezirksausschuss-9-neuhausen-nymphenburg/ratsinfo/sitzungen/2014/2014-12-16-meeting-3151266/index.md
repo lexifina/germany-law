@@ -1,0 +1,31 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2014-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3151266
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3151266
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Jugendtreff Neuhausen Anschaffung eines neuen Schlagzeuges
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse BC Hellenen München e.V. Beschaffung eines Basketball-Anzeigegerätes
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Freundeskreis der Städt. Rudolf-Diesel-Realschule e.V. MFM-Projekt und Projekt "Berufsorientierung" im Februar/März 2015
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.1: Unterausschuss für Verkehr
+- TOP 3.2: Unterausschuss für Bau und Planung
+- TOP 3.3: Unterausschuss für Umweltfragen
+- TOP 3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.5: Unterausschuss für Kultur
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 5: Verschiedenes
+- TOP 2.4.1.: (E) Bürgeranliegen: Verbindungsweg Hilble- / Leonrodstraße, Freigabe für Radfahrer Ihr Zeichen: 3.2.3
