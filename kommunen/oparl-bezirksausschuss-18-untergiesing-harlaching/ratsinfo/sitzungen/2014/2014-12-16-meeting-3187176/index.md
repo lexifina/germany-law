@@ -1,0 +1,108 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2014-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3187176
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3187176
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: BRK KV München - Wasserwacht München Mitte - Isarrettung, für die Maßnahme: Beschaffung von Elektrofahrrädern; Antragssumme: 1.848,50 ?; Beschlussvorlage des Direktoriums vom 28.11.2014
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Budget der Münchner Bezirksausschüsse; Neuberechnung aufgrund der gestiegenen Verbrauchskosten und entsprechende Anhebung; BA-Antrag Nr. 14-20 / B 00301 vom 19.08.2014; Zwischennachricht des Direktoriums mit der Bitte um Fristverlängerung bis 31.01.2015
+- TOP 3.1.: Spiellandschaft Stadt e.V. - Verwendungsnachweis über den gewährten Zuschuss i. H. v. 3.000,00 ? für die Aktion 25 Jahre UN Kinderrechte
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkraumbewirtschaftung TLG Turnhallen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 - <div>nach Antrag / mit Ergänzungen</div>
+- TOP 3.2.: Überplanung Humboldstraße, Freibadstraße, Schyrenstraße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 3.1.: Handlungsprogramm Mittlerer Ring - Berücksichtigung der Vorschläge zum qualifizierten Abschluss der Ausbaumaßnahmen am Mittleren Ring; BA-Antrag Nr. 14-20 / B 00470 vom 21.10.2014; Zwischennachricht des Referates für Stadtplanung u. Bauordnung vom 20.11.2014
+- TOP 3.1.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln; Erfahrungen mit der Umsetzung des Beschlusses vom 23.11.2005 a) Entwicklung der Stellplatzablösemittelrücklage und Mittelverwendung 01.01.2010 - 30.06.2014 b) Fortführung der Lenkungsgruppe / Personalbedarf im Referat für Stadtplanung und Bauordnung c) Notwendigkeit der Fortschreibung der Vorgaben und Rahmenbedingungen für die Verwendung der Stellplatzablösemittel zur weiteren Verwirklichung verkehrlicher Maßnahmen unter Einbezug der Förderung des ÖPNV; Sitzungsvorlagen Nr. 14-20 / V 01715; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 03.12.2014 (VB)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Hans-Mielich-Platz - Ersatz des defekten Trampolins und Bepflanzung entlang der Kleingärten; Schreiben des Baureferats-Gartenbau vom 01.12.2014 mit der Bitte um Stellungnahme (und ggf. Ortstermin) zur geplanten Umwandlung der Pflanzfläche in eine Rasenfläche (mit Sträuchern)
+- TOP 3.1.: Aktionsplan zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk; BA-Antrag Nr. 14-20 / B 00423 des BA 16 vom 07.10.2014; Antwortschreiben des Direktoriums vom 24.11.2014 (neutrale Erledigung)
+- TOP 3.1.: Süd-Isar in München, Umbau des Großhesseloher Wehrs durch die SWM; Info der Isar-Allianz
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2015; Schreiben des Vereins PA/Spielen in der Stadt e.V. vom 26.11.2014 mit der Bitte um Platzvorschläge
+- TOP 3.1.: Münchenstift GmbH - Verdoppelung der Ausbildungskapazitäten in Pflegeberufen; BA-Antrag Nr. 14-20 / B 00490 des BA 18 vom 21.10.2014; Antwortschreiben des Sozialreferates vom 17.11.2014 (negative Erledigung)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Haushaltsplan 2015 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" 3.4.6.1.1 der Zentrale (Sitzungsvorlage Nr. 14-20 / V 01336) 3.4.6.1.2 des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 01334) 3.4.6.1.3 des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 01362) 3.4.6.1.4 des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 01349) Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2014 (SB)
+- TOP 3.2.: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention; Schreiben des Sozialreferates vom 27.11.2014
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des BA 18 in der Sitzung am 16.12.2014 3.5.2.1.1 Humboldstraße 14; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund 3.5.2.1.2 Humboldstraße 26; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3.1.: Denkmalschutz für die Wohnanlage GEWOFAG Gartenstadt; Antrag der SPD-Fraktion
+- TOP 3.2.: Ausbau des Sanatoriumsplatzes als Markt für Harlaching; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.1.: 3.5.4.3 Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24.00 Uhr an Feiertagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen; Schreiben des KVR mit der Bitte um Stellungnahme bis 30.01.2015
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hauberrißstraße 3, Neubau eines Mehrfamilienhauses mit TG und Gartenhaus; Anhörung vom 13.11.2014 (vertagt aus der Sitzung vom 18.11.2014)
+- TOP 3.2.: Laufzorner Straße, Neubau eines Fünf- bzw. Sechsspänners mit TG - VORBESCHEID; Anhörung vom 04.11.2014 (vertagt aus der Sitzung vom 18.11.2014)
+- TOP 3.3.: Rabenkopfstraße 49, Neubau eines Mehrfamilienhauses mit TG - TEKTUR; Anhörung vom 27.11.2014
+- TOP 3.4.: Gabriel-Max-Straße 25, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 24.11.2014
+- TOP 3.5.: Grünwalder Straße 147 - 149, Errichtung 2er Notausstiege / Rettungsbalkons als 2. Rettungsweg; Anhörung vom 01.12.2014
+- TOP 3.6.: Meichelbeckstraße 1, Neubau dreier Mehrfamilienhäuser mit Tiefgarage; Anhörung vom 01.12.2014
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Reichenhaller Straße; Anhörung vom 11.11.2014 (vertagt aus der Sitzung vom 18.11.2014)
+- TOP 3.2.: Willroiderstraße 5; Anhörung vom 07.11.2014 (vertagt aus der Sitzung vom 18.11.2014)
+- TOP 3.1.: Antike Straßenlaternen beibehalten; BA-Antrag Nr. 14-20 / B 00471 vom 21.10.2014; Antwortschreiben des Baureferats-Tiefbau vom 18.11.2014 (positive Erledigung)
+- TOP 3.2.: Tischtennisplatten am Hans-Mielich-Platz; entsprechende Umwidmung der Fläche; Zusatzantrag Nr. 08-14 / B 05459 des BA 18 zu BA-Antrag Nr. 08-14 / B 05459 vom 17.12.2013; Antwortschreiben des Baureferats-Gartenbau vom 19.11.2014 (negative Erledigung)
+- TOP 3.3.: Barrierefreiheit an Wertstoff-Sammelstellen / Barrierefreiheit an Wertstoff-Containern; Schreiben des BA 18 vom 05.11.2014; Antwortschreiben Der Grüne Punkt - Duales System Deutschland GmbH vom 27.11.2014 (negative Erledigung)
+- TOP 3.4.: Staatseigenes Anwesen Harthauser Straße 48 im 18. Stadtbezirk - Probebühne des Staatstheaters am Gärtnerplatz; Schreiben des BA-Vorsitzenden vom 05.09.2014; Antwortschreiben des Bayerischen Staatsministeriums für Bildung u. Kultus, Wissenschaft u. Kunst vom 07.11.2014 (neutrale Erledigung)
+- TOP 3.5.: Städtisches Klinikum Harlaching - Information der LHM zum Stiftungsrecht / Stiftungsvertrag; BA-Antrag Nr. 14-20 / B 00186 vom 15.07.2014; Antwortschreiben der Stadtkämmerei vom 13.11.2014 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Bericht zur Wohnungssituation in München 2012 - 2013; Sitzungsvorlagen Nr. 14-20 / V 01995; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung vom 03.12.2014
+- TOP 3.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.4.1 Anwesen Meichelbeckstraße; Zuleitung vom 19.11.2014
+- TOP 3.4.: Ehrenpreis für guten Wohnungsbau; Zustimmung zur Durchführung 2015; Sitzungsvorlagen Nr. 14-20 / V 01223; Beschluss der Vollversammlung des Stadtrates vom 20.11.2014
+- TOP 3.5.: Städtisches Klinikum München GmbH; Sanierung des städtischen Klinikums Harlaching - den südlichen Münchner Landkreis mit in die Verantwortung nehmen; BA-Antrag Nr. 14-20 / B 00185 vom 15.07.2014; Sanierungskonzept für das städtische Klinikum Harlaching - Beantwortung des Fragenkatalogs; BA-Antrag Nr. 14-20 / B 00201 vom 15.07.14; Sitzungsvorlage Nr. 14-20 / V 01752; Beschlussentwurf für den Finanzausschuss vom 16.12.2014 vorab zur Kenntnisnahme
+- TOP 3.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.7.1 SSW "Bodega Enlatado", Sommerstraße 41; Mitteilung vom 02.12.2014
+- TOP 3.1.: Karneidstraße 9, Neubau eines Mehrfamilienhauses mit TG; negative Stellungnahme des BA 18 zum BV vom 21.08.2014; Genehmigungsbescheid der Lbk vom 28.11.2014
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: 18.Jetzt - Das Fest für junge Münchnerinnen und Münchner am 11.10.2014 im Rathaus; ausgefüllte Fragebögen zum 18. Stadtbezirk
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Änderung der Bezirksausschusssatzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros; Initiative des BA 21; Schreiben des Direktoriums mit der Bitte um Stellungnahme bis 18.12.2014
+- TOP 4.2.: 4.3.3 Änderung der Bezirksausschusssatzung, hier: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung; Schreiben des Direktoriums vom 28.11.2014 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: Claude-Lorrain-Straße - Antrag auf Tempolimit und Lärmschutz vom 17.11.2014 (verwiesen aus der Sitzung vom 18.11.2014)
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
