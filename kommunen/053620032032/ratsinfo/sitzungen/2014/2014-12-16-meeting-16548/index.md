@@ -1,0 +1,66 @@
+# Stadtrat (5. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2014-12-16T17:00:00+01:00
+- Ende: 2014-12-16T20:32:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY-aVDLiwwcDZRI62V9dlnw
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/16548
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYR--mcAJhDBjAu3CilmVWD4sirveQR_3NEUfuZbVaM9/Bekanntmachung_Stadtrat_16.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbF6f0d90Gqdyc8gx4dcouOG_N_h_bguKHr4DGz0Bcjc/Oeffentliche_Niederschrift_Stadtrat_16.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Wiederwahl eines Schiedsmannes für den Schiedsamtsbezirk Blatzheim, Buir, Manheim - (kein Text vorhanden)
+- TOP 3.: Prüfung der Machbarkeit von Stadtwerken - (kein Text vorhanden)
+- TOP 4.: Besetzung von Ausschüssen und Gremien
+- TOP 4.1: Bestellung der Mitglieder für die Gesellschafterversammlungen der Netzgesellschaften
+- TOP 4.2: Besetzung der Räte der städtischen Kindertageseinrichtungen „Wibbelstätz“ und „Spielkiste“ - (kein Text vorhanden)
+- TOP 4.3: Antrag der SPD-Fraktion
+- TOP 4.4: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.5: Umbesetzung der Zweckverbandsversammlung der VHS Bergheim hier: Antrag der CDU-Fraktion
+- TOP 5.: La Musica hier: Weiterführung der Mitgliedschaft im Zweckverband der Musikschule „La Musica“ - (kein Text vorhanden)
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Krankentransport und den Rettungsdienst
+- TOP 6.2: 1. Änderungssatzung zur Satzung der Kolpingstadt Kerpen über die Erhebung von Gebühren für den Einsatz des Notarztes
+- TOP 6.3: 15. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Kolpingstadt Kerpen
+- TOP 6.4: 8. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Kolpingstadt Kerpen
+- TOP 6.5: Gebührenbedarfsberechnung Abwasserentsorgung 2015
+- TOP 6.6: Gebührenbedarfsberechnung Bestattungswesen
+- TOP 7.: Entwürfe der Jahresabschlüsse zum 31.12.2008, 31.12.2009, 31.12.2010 und 31.12.2011
+- TOP 8.: Mittelbereitstellung Planungskosten für zusätzliche Klassenräume für die Clemensschule in Horrem
+- TOP 9.: Bereitstellung von überplanmäßigen Haushaltsmitteln hier: Beauftragung von Ingenieurbüros für a) Einzelhandelskonzept b) Verkehrsuntersuchung Heerstraße/Hubertusplatz c) Verkehrsuntersuchung Hahnenstraße - (kein Text vorhanden)
+- TOP 10.: Bereitstellung von überplanmäßigen Haushaltsmitteln hier: Vergütung von Reinigungsfirmen
+- TOP 11.: Stadtentwicklung und Bauleitplanung
+- TOP 11.1: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes TÜ 356 "Eifelstraße/Heerstraße", Stadtteil Brüggen
+- TOP 11.2: Verlängerung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes Ho 350 "Gewerbegebiet Josef-Bitschnau-Str." Stadtteil Horrem
+- TOP 11.3: Pläne der Bezirksregierung zur Verlegung der Kartbahn hier: Anträge der Fraktionen CDU, SPD und Bündnis 90/Die Grünen
+- TOP 12.: Trägerwechsel privater Kindergarten miniMUMM in Kerpen- Blatzheim
+- TOP 13.: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan vom 01.07.2015 bis 30.06.2016 - (kein Text vorhanden)
+- TOP 14.: Kinder- und Jugendförderplan, Teil III und IV hier: Gültigkeitsverlängerung bis zum 30.06.16
+- TOP 15.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Ersatzbeschaffung für ein Müllpress-/ Winterdienstfahrzeug
+- TOP 16.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 17.: Mitteilungen
+- TOP 18.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 19.1: Unterbringung von Flüchtlingen hier: Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 20.: Aktualisierung des Projekt- und Finanzrahmens der Sozialen Infrastruktur Manheim-neu i.V.m. der Neufassung der vertraglichen Regelungen zur Projektsteuerung - (kein Text vorhanden)
+- TOP 21.: Sanierung Erftlagune hier: Ergebnis der Verhandlungen mit einem Fitnessstudiobetreiber
+- TOP 22.: Auftragsvergabe: Gebäude- und Inventarversicherung für alle städtischen Gebäude ab dem 01.01.2015
+- TOP 23.: Auftragsvergabe: Zeitvertragsarbeiten (Hausmeistervertrag) Heizung/Sanitär für alle öffentlichen Einrichtungen im Stadtgebiet Kerpen für das Jahr 2015
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.1: Bestellung der Leitung der örtlichen Rechnungsprüfung
+- TOP 24.2: Ernennung eines Stadtoberamtsrates zum Stadtverwaltungsrat
+- TOP 24.3: Bestellung eines Prokuristen für die Netzgesellschaften
+- TOP 25.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 26.: Mitteilungen
+- TOP 27.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 28.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 29.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
