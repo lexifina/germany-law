@@ -1,0 +1,6 @@
+# TOP 8.: Sachstandsbericht "Regionale 2016"
+
+- Sitzung: Ausschuss für Planen, Bauen und Denkmalschutz (Sondersitzung) (3. Sitzung) (2014-12-16)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/35241
