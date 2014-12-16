@@ -1,0 +1,70 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2014-12-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3120394
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3120394
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: ?Zaun weg am KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014, vertagt aus 2014.10 A 1.2, 2014.11 A 1.1
+- TOP .2.: ?Trennung Basketball- und Fußballfeld neben dem KuBu?, Antrag aus der Kindersprechstunde am 25.09.2014, vertagt aus 2014.10 A 1.3, 2014.11 A 1.2
+- TOP .3.: Anträge aus der Kinder- und Jugendeinwohnerversammlung am 20.11.2014: a) Keine Graffiti an Hauswänden b) Zebrastreifen Thalkirchner Str., Höhe Spielplatz/Friedhofsdurchgang c) Verhalten im Straßenverkehr d) Ampel an der Auenstr. / Kapuzinerstr. e) Spielgeräte auf dem Pausenhof an der Tumblingerschule aufstellen f) Sportplatz an der Tumblingerschule erhalten g) Altersgerechte Spielgeräte auf dem Spielplatz an der Lagerhausstraße h) Keine Container auf dem Sportplatz an der Tumblingerschule
+- TOP .1.: Tumblingerstr. 27, 29, Antrag auf Erteilung eines Negativattestes, Anhörung, vertagt aus 2014.11 A 3.2
+- TOP .2.: Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros, Initiative des Bezirksausschusses 21, Anhörung des Direktoriums zur beabsichtigten Änderung der Bezirksausschusssatzung
+- TOP .3.: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23a Bezirksausschusssatzung (Beauftragte gegen Rechtsextremismus), Anhörung des Direktoriums zur beabsichtigten Änderung der Bezirksausschusssatzung
+- TOP .1.: Toilette am Gärtnerplatz, fortlaufende Themensammlung
+- TOP .2.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP .3.: Bücherschrank, fortlaufende Themensammlung
+- TOP .4.: Urban Art Festival, fortlaufende Themensammlung
+- TOP .5.: Bürgerbeteiligung ?Zukunft Viehhof?, fortlaufende Themensammlung
+- TOP .6.: Planung der Einsätze der Münchner ?SommerSpielAktion 2015?, Anfrage des Spielen in der Stadt e.V.
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sonnenstr. 12, Brandschutztechnische Sanierung, Nutzungsänderungen, bauliche Änderungen im EG und in Teilbereichen 1. OG + KG
+- TOP .2.: Goethestr. 30-34, Teilabbruch, Um- und Neubau eines Wohn- und Geschäftsgebäudes mit großflächigem Lebensmitteleinzelhandelsbetrieb und Tiefgarage ? Tektur
+- TOP .3.: Schwanthalerstr. 70-72, Neubau eines Mehrfamilienhauses mit Gewerbeeinheit und Tiefgarage
+- TOP .4.: St.-Pauls-Pl. 9, Anbau zweier Balkone an ein denkmalgeschütztes Gebäude, Umbau einer Fluchtleiter
+- TOP .5.: Augsburgerstr. 21, VGB: DG-Ausbau mit 3 neuen Wohneinheiten und teilweisem Galerieeinbau im Spitzboden, Anbau von Balkonen mit Notleiteranlagen und Abbruch von Dachgauben mit Einbau von Dachflächenfenstern; RGB: Abbruch Bestandsgebäude und Neubau Bürogebäude
+- TOP .6.: Landwehrstr. 49, Neubau eines Jugendhotels mit Frühstücksraum ? Tektur
+- TOP .7.: Auenstr. 24, Abbruch bestehendes Satteldach und Errichtung eines Mansarddaches mit Dachgauben und Dacheinschnitt
+- TOP .8.: Auenstr. 26-30, Dach-Neuaufbau mit neuer Grundrissgestaltung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Bahnhofsviertel mit hoher Aufenthalts- und Lebensqualität, Stadtratsantrag der SPD-Stadtratsfraktion vom 06.10.2014, Anhörung des Baureferates
+- TOP .2.: Neubau eines öffentlichen Spielplatzes an der Isartalstr. / Dreimühlenstr., Einbau einer Handpumpe als Wasserspielzeug, Schreiben des Baureferates (Teilnahme von Vertretern des Baureferates an der Sitzung des Unterausschusses)
+- TOP .3.: Modernisierung und Sanierung des U-Bahnhofs Sendlinger Tor, Antrag auf Änderung der Planfeststellung
+- TOP .1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP .1.: Wechselseitiger Betrieb der Rolltreppe am U-Bahnhof Goetheplatz, Ausgang Kapuzinerstr. / Herzog-Heinrich-Str.
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Bavariaring / Rückertstr., Anhörung zum altersbedingten Austausch der Lichtzeichenanlage
+- TOP .1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni ? August bis 24:00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen, Anhörung des Kreisverwaltungsreferates
+- TOP .1.: Bürgeranliegen: LKW-Verkehr im Dreimühlenviertel, siehe 2014.11 II 4
+- TOP .2.: Anliegen der Seniorenvertretung: a) Barrierefreiheit an der Bushaltestelle Baldeplatz b) Seitenscheiben und Sitzbänke an der Haltestelle Sendlinger Tor
+- TOP .3.: Theresienwiese, Schreiben des Arbeitskreises Öffentliches Grün im Münchner Forum
+- TOP .4.: Bürgeranliegen: Ruhestörung durch ein Lokal in der Tumblingerstr. 16
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 12.01.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 13.01.2015 um 19 Uhr, Sitzungsort steht noch nicht fest, ggfs. telefonisch erfragen unter 089/22802673 Unterausschuss ?Planen, Bauen? am Mittwoch, den 14.01.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 19.01.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 27.01.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: 4.1 BA-Budget: Bescheide 4.2 BA-Budget: Verwendungsnachweise, Sachberichte (Fußballturnier Caritasverband, Alexanders Feast VIDK e.V.) 4.3 Weiterführung des Pflanzprojektes am Isarbalkon auf der Corneliusbrücke, BA-Antrag Nr. 14-20 / B 00474 vom 21.10.2014, Antwortschreiben des Baureferates 4.4 Grundschule an der Klenzestr. 43, Umbaumaßnahme zur Einführung des gebundenen Ganztageszugs im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt, Sitzungsvorlage Nr. 14-20 / V 01648 für den Bildungsausschuss am 03.12.2014 4.5 Statistische Übersichten zur Schulentwicklungsplanung des Referates für Bildung und Sport
+- TOP .1.: 4.1 Baumaßnahmen der Stadtwerke München 4.2 Lärmbelästigung durch ein Hotel mit Dachterrasse in der Fraunhoferstr., Schriftverkehr einer Anwohnerin mit Bürgerberatung des Oberbürgermeisters und Referat für Stadtplanung und Bauordnung zur Kenntnis 4.3 Bauvorhaben Ruppertstr. 5, Abdruck Vorbescheid, Information der Lokalbaukommission 4.4 Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20 / V 01715 für den Ausschuss für Stadtplanung und Bauordnung am 03.12.2014 4.5 Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk, BA-Antrag Nr. 14-20 / B 00423 des BA 16 Ramersdorf-Perlach, Antwortschreiben Direktorium 4.6 Spielhalle auf dem Schulweg des Theresiengymnasiums in der Goethestraße 74?, Schriftliche Anfrage gem. § 68 GeschO von Stadtratsmitgliedern, Abdruck der Anfrage zur Kenntnis, siehe auch 2014.11 B 3.1.11, II 1
+- TOP .2.: 4.7 Bauvorhaben Bahnhofpl. 1, Abdruck Vorbescheid, siehe 2014.11 B 3.1.3 4.8 Bürgeranliegen: Lichtverschmutzung, Weiterleitung an Referat f. Gesundheit und Umwelt 4.9 Bauvorhaben Goethestr. 7a, Zurückziehung, siehe 2014.11 B 3.1.8 4.10 Bericht zur Wohnungssituation in München 2012-2013, Sitzungsvorlage Nr. 14-20 / V 01995, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014 4.11 Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs/Straßenbau, 08.12.-12.12.2014, Rumfordstr. / Am Einlass, Rumfordstr. / Zwingerstr. 4.12 Straßenausbaubeitragssatzung abschaffen, Sitzungsvorlage Nr. 14-20 / V 02040 für den Bauausschuss am 09.12.2014 4.13 Fassadenschutz/-reinigung Thalkirchner Str. 100-106, BA-Antrag Nr. 14-20 / B 00311 vom 28.08.2014, Antwortschreiben der Markthallen München
+- TOP .1.: 4.1 Versammlungen unter freiem Himmel 4.2 Filmaufnahmen auf öffentlichem Grund 4.3 Unveränderte Gaststättenfortführungen 4.4 Verkehrsrechtliche Anordnungen 4.5 Erlaubnisbescheide 4.6 Anwohnerbeschwerde über das Gärtnerplatzfest und Open Air auf dem Gärtnerplatz und in der Reichenbachstraße am 05.07.2014 und 06.07.2014, Schriftverkehr mit dem KVR 4.7 Bewertungsbogen für Standortkonzept ?Kulturstrand?, Schreiben des BA-Vorsitzenden an das Veranstaltungs- und Versammlungsbüro 4.8 Gefährliche Verkehrssituation für behinderte Menschen am S-Bahnhof Isartor/Breiterhof/Zweibrückenstr., Protokoll des Ortstermins vom 27.11.2014 4.9 Umsetzungsbeschluss zum Fahrradvermietsystem ?MVG-Rad?, Sitzungsvorlage Nr. 14-20 / V 01566 für die Vollversammlung am 20.11.2014 4.10 Lärmbelästigung durch Apartmenthaus in der Landwehrstr., Schriftverkehr, siehe auch 2014.08 C 4.18, 2014.09 C 4.9 4.11 Zusatzschild ?Radfahrer frei? an dem Abbiegeverbot in der Müllerstr. Richtung Süden, Ecke Pestalozzistr., BA-Antrag Nr. 14-20 / B 00478 vom 21.10.2014, Antwortschreiben des KVR
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
