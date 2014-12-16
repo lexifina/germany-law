@@ -1,0 +1,76 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2014-12-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3218578
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3218578
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 1.7: Neubesetzung der Unterausschüsse
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Umstufung einer Teilstrecke der Baumkirchner Straße - <div></div>
+- TOP 2.3.: (E) Bezuschussung der Theatergruppen in der Echardinger Einkehr durch das Kulturreferat - <div></div>
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: St.-Veit-Straße 15 / 17 ? Neubau eines Wohn und Geschäftshauses
+- TOP 3.2.: Baumkirchner Str. 59 - Neubau Verkaufsgebäude mit Verkaufsräumen im UG + EG mit Parkdecks im 1. + 2. OG
+- TOP 3.3.: Berg-am-Laim-Str. 128 - 142 - Erweiterung der Grundschule um 4 Züge, Doppelsporthalle, Mensa und Räumlichkeiten für die ganztägige Betreuung - Fragenkatalog zum Antrag auf Vorbescheid, Baumbestandsplan, Baumbestandserklärung
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: "Fahrrad frei" im Inzeller Weg - <div></div>
+- TOP 3.2.: Einheitliches Radwegekonzept in der St.-Veit-Straße - <div></div>
+- TOP 3.3.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen - Anhörung des Kreisverwaltungsreferats
+- TOP 3.1.: Schul- und Sportstandort Fehwiesenstraße - <div></div>
+- TOP 3.2.: Hygienesituation in den Sanitärräumen der Ludwig-Thoma-Realschule - <div></div>
+- TOP 3.3.: Raumluftmessungen in "mobilen Schulraumeinheiten" - <div></div>
+- TOP 3.4.: Planung der Einsätze der Münchner Sommerspielaktion 2015
+- TOP 3.1.: Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete - Anhörung des Direktoriums
+- TOP 3.2.: Änderung der Bezirksausschüsssatzung: Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros - Anhörung des Direktoriums
+- TOP 3.3.: Änderung der Bezirksausschusssatzung: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung - Anhörung des Direktoriums
+- TOP 3.1.: St.-Veit-Straße 17
+- TOP 3.2.: Josephsburgstr. 175
+- TOP 3.3.: Baumkirchner Str. 25 a
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Bebauungsplan mit Grünordnung Nr. 2079 - Grafinger Straße (südlich), Innsbrucker Ring (westlich), Westerhamer Straße (nordöstlich) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Vorlagen-Nr. 14-20 / V 01851
+- TOP 4.1.: Bericht zur Wohnungssituation in München 2012-2013 - Vorlagen-Nr. 14-20 / V 01995
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk
+- TOP 4.1.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln - Erfahrungen mit der Umsetzung des Beschlusses vom 23.11.2005 a) Entwicklung der Stellplatzablösemittelrücklage und Mittelverwendung 01.01.2010 ? 30.06.2014 b) Fortführung der Lenkungsgruppe / Personalbedarf im Referat für Stadtplanung und Bauordnung c) Notwendigkeit der Fortschreibung der Vorgaben und Rahmenbedingungen für die Verwendung der Stellplatzablösemittel zur weiteren Verwirklichung verkehrlicher Maßnahmen unter Einbezug der Förderung des ÖPNV Beschlussvorlage Nr. 14-20 / V 01715
+- TOP 4.2.: Sichere Fußgängerüberquerung der Josephsburgstraße schaffen
+- TOP 4.3.: MVG Rad - Standortkonzept Fahrradvermietsystem
+- TOP 4.1.: Mehrjahresinvestitionsprogramm (MIP) 2014 - 2018 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Beschlussvorlage Nr. 14-20 / V 01848
+- TOP 4.1.: Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs - Produkt 4.1.7 Quartierbezogene Bewohnerarbeit Stadtratsziel: 2014 - S4 A1.4 Beschlussvorlage Nr. 14-20 / V 01993
+- TOP 4.2.: Errichtung eines Begegnungszentrums für Kinder, Jugendliche, Familien und Senioren im 14. Stadtbezirk Berg am Laim - Träger: AKA - Aktiv für interkulturellen Austausch e.V. - Produkt 3.1.1 Kinder- und Jugendarbeit 1. Grundsatzbeschluss, Genehmigung des Bedarfs 2. Ermächtigung zum Betrieb der Einrichtung Beschlussvorlage Nr. 14-20 / V 01502
+- TOP 4.1.: Theater Kunstdünger - Sachbericht
+- TOP 4.2.: ASZ Berg am Laim - Verwendungsnachweis
+- TOP 4.3.: Spielen in der Stadt e.V. - Verwendungsnachweis
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Bau, Wohnen, Umwelt
+- TOP 5.1.2: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
