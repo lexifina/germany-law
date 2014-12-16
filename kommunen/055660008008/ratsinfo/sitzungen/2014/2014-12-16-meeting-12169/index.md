@@ -1,0 +1,63 @@
+# Rat (83. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2014-12-16T18:03:00+01:00
+- Ende: 2014-12-16T19:53:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbIKi6AFXvyMUgL80YkpSsI
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/12169
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfxbaMT4E89wR4UPOa9mTt8qIQ6jnRkiWS3rGAhEHRk7/Bekanntmachung_Rat_16.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU20rYkQtXYLudJ29cGcx0iS13jNgvYMTK4fOy19zY8w/Oeffentliche_Niederschrift_Rat_16.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 30.10.2014
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: Altersteilzeit für Beamte der Stadt Emsdetten - 44 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.: Kommunale Gemeinschaftsarbeit
+- TOP 6.1: Beitritt der Stadt Emsdetten zum KDN-Zweckverband Kommunaler IT-Dienstleister NRW - Einstimmig
+- TOP 6.2: Marienhospital Münsterland GmbH
+- TOP 7.: Richtlinien
+- TOP 7.1: Neufassung der Richtlinien der Stadt Emsdetten zur Förderung von Städtepartnerschaftsaktivitäten - 38 Ja-Stimme(n), 7 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 8.: Satzungsrecht
+- TOP 8.1: Änderung der Hundesteuersatzung der Stadt Emsdetten - (kein Text vorhanden)
+- TOP 8.1.1: Änderung der Hundesteuersatzung der Stadt Emsdetten - 32 Ja-Stimme(n), 13 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 8.2: VIII. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und Winterwartung ab 2015 - 43 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.: Abwasserwerk der Stadt Emsdetten: Geschäftsbericht 2013 mit Jahresabschluss zum 31.12.2013 - Einstimmig
+- TOP 10.: Ermächtigungsübertragungen 2013 gem. § 22 GemHVO für das Abwasserwerk der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 11.: Vorzeitige Ausschüttung vom Jahresüberschuss 2014 des Abwasserwerkes - 44 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 12.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2015 - Einstimmig
+- TOP 13.: II. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 19. Dezember 2012 auf Grundlage der Gebührenkalkulation für das Jahr 2015 - Einstimmig
+- TOP 14.: XII. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 15.: Anordnung zur Durchführung des Umlegungsverfahrens für den Geltungsbereich des geplanten Bebauungsplanes Nr. 99 "Jan-van-Detten-Str./Rheiner Str." - Einstimmig
+- TOP 16.: III. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 04.07.2012 - Einstimmig
+- TOP 17.: Unterhaltungsverbände Emsdettener Mühlenbach und Nordwalder Aa, Hummertsbach, Greven und Saerbeck: Wahl der Ausschussmitglieder der Gruppe C für die Wahlperiode 2015 - 2020 - Einstimmig
+- TOP 18.: Allgemeine Stadtentwicklungsplanung
+- TOP 18.1: Innenstadtentwicklung
+- TOP 18.2: Einzelhandelsentwicklungs- und Zentrenkonzept - Beschluss als städtebauliches Entwicklungskonzept - Abgesetzt
+- TOP 19.: Bebauungspläne
+- TOP 19.1: Bebauungsplan Nr. 37 "Josefskirche", 3. Änderung und 1. Erweiterung - erneute öffentliche Auslegung - - Einstimmig
+- TOP 19.2: Bebauungsplan Nr. 8 H "Schulstraße", 4.Änderung - Satzung über eine Veränderungssperre - - Einstimmig
+- TOP 20.: Verkehrsfragen
+- TOP 20.1: Radverkehrskonzept Emsdetten - Einstimmig
+- TOP 21.: Unterstützung der Neubewerbung als "LEADER-Region Steinfurter Land" für die Förderphase 2014-2020 - Einstimmig
+- TOP 22.: Regionalplanung
+- TOP 22.1: Fortschreibung des Regionalplanes Münsterland, Sachlicher Teilplan Energie - Stellungnahme der Stadt Emsdetten im Rahmen des Erarbeitungsverfahrens - Einstimmig
+- TOP 23.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 23.1: Schulsozialarbeit an der Geschwister-Scholl-Realschule - Einstimmig
+- TOP 24.: Widmung von Straßen (einschl. Einziehungsverfahren)
+- TOP 24.1: Widmung von öffentlichen Verkehrsflächen - Einstimmig
+- TOP 25.: Planung von Tiefbauvorhaben
+- TOP 25.1: Bauprogramm an Hand des Bestandsplanes für die Lindenstraße - Teilstück Elbersstraße/Blücherstraße und Teilstück Blücherstraße/Diekstraße - Einstimmig
+- TOP 26.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 26.1: Abweichungssatzung zur Satzung der Stadt Emsdetten über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten vom 13.05.1988 für die Erschlie-ßungseinheit Friedhofsweg zwischen der östlichen und westlichen Grenze des Bebauungsplans Nr. 82 / Pfarrer-Wellingmeyer-Straße - Einstimmig
+- TOP 26.2: Abweichungssatzung zur Satzung der Stadt Emsdetten über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten vom 13.05.1988 für die Erschlie-ßungsanlage Stichweg Padkamp - Einstimmig
+- TOP 26.3: Abweichungssatzung zur Satzung der Stadt Emsdetten über die Erhebung von Erschließungsbeiträgen in der Stadt Emsdetten vom 13.05.1988 für die Erschlie-ßungsanlage Peter-Funcke-Weg im Bebauungsplans Nr. 31 A Herzbach/Dreihuesweg - Einstimmig
+- TOP 26.4: Erhebung von Erschließungsbeiträgen nach BauGB - Einstimmig
+- TOP 27.: Verschiedenes
