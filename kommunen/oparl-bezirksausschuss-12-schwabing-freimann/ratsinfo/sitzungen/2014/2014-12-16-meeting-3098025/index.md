@@ -1,0 +1,117 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2014-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3098025
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3098025
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Vorstellung der kulturellen Zwischennutzung in der Freisinger Landstraße 21 - ?BieBie? in der ehemaligen Druckerei Biering
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 6.1.: Anhörungsrecht der BA?s bei Veranstaltungen auf SWM-Grundstücken
+- TOP 7: Unterrichtungen (1)
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Änderung der BA-Satzung: Anhörung und Unterrichtung bei Erschließung und Schließung von Bürgerbüros
+- TOP 9.2.: Änderung der BA-Satzung: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a Bezirksausschusssatzung
+- TOP 10: sonstiges
+- TOP 1: Anträge (2)
+- TOP 1.1.: Errichtung eines Zebrastreifens auf der Busstraße durch den Englischen Garten
+- TOP 1.2.: Errichtung von Parkplätzen für Besucher der Fröttmaninger Heide an der Ingolstädter Straße
+- TOP 1.3.: Errichtung einer Linksabbiegespur Domagkstraße in die Walter-Gropius-Straße
+- TOP 2: Entscheidungen (2)
+- TOP 1: (E) Errichtung eines Fahrradweges in der Hohenzollernstraße zwischen Friedrich- und Leopoldstraße Empfehlung Nr. 14-20 / E 00116 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 15.07.2014
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Zeitliche Erweiterung des Haltverbots in der Sulzbacherstraße
+- TOP 3.1.2.: Verkehrshelferübergang Lyonel-Feininger-Straße; schlechte Erkennbarkeit durch parkende Busse
+- TOP 3.1.3.: Kindergartenanfahrtszonen in der Brabanter Straße und Kunigundenstraße
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Maßnahmen gegen dauerhaft abgestellte PKW-Anhänger in der Gondershauser Straße
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Entleerung der Mülltonnen in der Löwithstraße
+- TOP 5.1.2.: Privates Carsharing in Parklizenzgebieten ermöglichen
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Maritusstraße zwischen Leopold- und Kaulbachstraße - Arbeiten im Straßenraum vom 13.04.2015 bis 25.04.2015
+- TOP 5.2.2.: Änderung des Zeitzusatzes an den Schulbushaltestellen in der Kulturheimstraße sowie an den Haltverbotszonen in der Kulturheimstraße und im Josef-Wirth-Weg
+- TOP 5.2.3.: Feuerwehranfahrt in der Gohrenstraße für die Grundschule Haimhauserstraße 23
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Anmeldung einer MotorradfahrerInnen-Demonstration für den 09.05.2015
+- TOP 5.3.2.: Aufstellung von Tempo-30-Schildern in der Osterwaldstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.3.: Arbeiten im Straßenraum ? Sanierung der Gleisüberfahrt Leopoldstraße 100-104
+- TOP 5.3.4.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln; Sitzungsvorlage Nr.: 14-20 / V 01715 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014
+- TOP 5.3.5.: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk (BA-Antrag Nr. 14-20 / B 00423 des BA 16 Ramersdorf-Perlach ? Antwort der Verwaltung)
+- TOP 5.3.6.: Ausnahmegenehmigung für Baustelleneinrichtung an der Berliner Straße vom 02.06.2014 bis 31.01.2017 ? Änderung
+- TOP 5.3.7.: Umsetzungsbeschluss zum Fahrradmietsystem der ?MVG Rad?, Beschluss der Vollversammlung des Stadtrates am 20.11.2014; Sitzungsvorlage Nr.: 14-20 / V 01566
+- TOP 5.3.8.: Straßenausbaubeitragssatzung abschaffen; Sitzungsvorlage Nr. 14-20 / V 02040 Beschluss des Bauausschusses vom 09.12.2014 (siehe auch TOP D.5.3.4.)
+- TOP 5.3.9.: Baustelleneinrichtung am Kaiserplatz 1 vom 01.01.2015 bis 30.06.2015
+- TOP 5.3.10.: Straßenbeschilderung Gundelinden-/Klementinenstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Flüchtlingsunterkunft Bayernkaserne" Anschaffung von Regalen, Kleiderständern und eines Staubsaugers
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Theater I-piccoli Realisierung einer Publikation
+- TOP 3: Anhörungen (3)
+- TOP 3.1.: Errichtung einer Grundschule in modularer Bauweise am Bauhausplatz
+- TOP 3.2.: Münchner SommerSpielAktion 2015 (Platzvorschläge)
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Errichtung einer Fußgängerampel in der Walter-Gropius-Straße
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Hot Shot?, Schank- und Speisewirtschaft mit regelmäßigen Musikdarbietungen, Hohenzollernstraße 29
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Genehmigungsbescheid: Schwabinger Weihnachtsmarkt vom 28.11.-24.12.2014 auf dem Forum Münchner Freiheit
+- TOP 5.3.2.: Verwendungsnachweise a) Corso Leopold e.V. für fünf Programmplätze auf dem Corso Leopold vom 31.05. bis 01.06.2014 und vom 13.09. bis 14.09.2014 b) Theater i-piccoli für Theatervorstellungen vom 17. bis 26.10.2014 c) Rationaltheater München e.V. für die Instandhaltung und Erneuerung der Licht- und Tontechnik im Rationaltheater d) Gaudiblatt / 84 GHz ? Raum für Gestaltung für das Nachbarschaftsfest am 21.06.2014 e) Initiative ?Pique Dame Schwabing? für das Projekt ?Pique Dame Schwabing? am 24.04.2014
+- TOP 5.3.3.: Mehrjahresinvestitionsprogramm 2014-2018 (incl. Stellungnahmen der Bezirksausschüsse) Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.2014; Sitzungsvorlage Nr.: 14-20 / V 01848
+- TOP 5.3.4.: Städtisches Klinikum München GmbH (Beschlussentwurf für den Finanzausschuss vom 16.12.2014)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bebauungsplan Freisinger Landstraße
+- TOP 1.2.: Wagnerstraße 3: Sofortiges Vermieten der leerstehenden Wohnungen sowie einfaches Herrichten des leerstehenden Ateliers und umgehende Vermietung an einen Künstler/eine Künstlerin
+- TOP 1.3.: Keferstraße 24: Sofortiges einfaches Herrichten der leerstehenden Wohnungen und umgehende Vermietung
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: Genehmigung einer Freischankfläche ?LaPiaMia?, Leopoldstraße 53
+- TOP 2.2.: Genehmigung einer Freischankfläche, Nikolaiplatz 3
+- TOP 2.3.: Genehmigung einer Freischankfläche ?Oliva?, Leopoldstraße 53
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Bernsteinweg 23, Fl.Nr.: 309/260, Neubau eines Einfamilienhauses mit Garage, Fällung einer Fichte
+- TOP 3.1.2.: Hohenzollernstraße 9, Fällung einer Robinie
+- TOP 3.1.3.: Sondermeierstraße 105, Fl.Nr.: 548/4, Fällung einer dreistämmigen Esche
+- TOP 3.1.4.: Ungererstraße 42, Fällung einer Esche und eines Ahornbaumes
+- TOP 3.1.5.: Wohlfahrtstraße 28, Fällung einer Fichte
+- TOP 3.1.6.: Fritz-Hommel-Weg 2-4, Fällung von vier Kastanien
+- TOP 3.1.7.: Mattighofer Straße 15, Fällung einer Fichte
+- TOP 3.1.8.: Heimstättenstraße 30, Fällung von zwei Tannen
+- TOP 3.1.9.: Leutkircher Straße 1, Fällung eines Ahornbaumes
+- TOP 3.1.10.: Margarete-Schütte-Lihotzky-Straße, Fl.Nr.: 880/155. Neubau von 19 realgeteilten Reihen-Einfamilienhäusern und 5 Mehrfamilienhäusern (39 WE) im KFW40-Standard einschließlich Tiefgarage, Fällungen gemäß Plan
+- TOP 3.1.11.: Helmtrudenstraße 7, Fällung von zwei Fichten
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni bis August von 24.00 Uhr an Feiertagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Dietersheimer Straße 16-22, Fällung einer Zierkirsche
+- TOP 5.2.2.: Baumbeseitigungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen ? Gefahrenbaumbeseitigungen im Stadtbezirk 12 (Baureferat-Gartenbau)
+- TOP 5.2.3.: Lillweg 40, Fällung einer Tanne und zwei Schwarzkiefern
+- TOP 5.2.4.: Heinrich-Geißler-Straße 18, Fällung einer Birke
+- TOP 5.2.5.: Klementinenstraße 7, Fällung einer Esche und einer Robinie
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Ehrenpreis für guten Wohnungsbau; Sitzungsvorlage Nr.: 14-20 / V 01223 Beschluss der Vollversammlung des Stadtrates vom 20.11.2014 (Neufassung 13.11.2014)
+- TOP 5.3.2.: Bebauungsplan mit Grünordnung Nr. 2031a Freisinger Landstraße (östlich), Garchinger Mühlbach Altgerinne (westlich) und Verlängerung Josef-Wirth-Weg (südlich) Beschluss des Bauausschusses vom 09.12.2014; Sitzungsvorlage Nr. 14-20 / V 01733
+- TOP 5.3.3.: Bericht zur Wohnungssituation in München 2012-2013, Sitzungsvorlage Nr. 14-20 / V 01995 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014
+- TOP 5.3.4.: Straßenausbaubeitragssatzung abschaffen; Sitzungsvorlage Nr. 14-20 / V 02040 Beschluss des Bauausschusses vom 09.12.2014 (siehe auch TOP B.5.3.8.)
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
