@@ -1,0 +1,63 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2014-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3053051
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3053051
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Münchner SommerSpielAktion 2015: Einsatzorte für die Spielbusse?
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Lebensmittel für die Spielbarpause für das Jahr 2015
+- TOP 2.4.: Kinderschutz e.V.: Dritte Lernfördergruppe im Rahmen des quartiersbezogenen Hausaufgabenprojekts am Ackermannbogen
+- TOP 2.5.: Raumbedarf der Staatlichen Schule für Kranke im Klinikum München Schwabing
+- TOP 2.6.: Bänke vor dem Nordbad ? Bestellung städtischer Leistungen aus dem BA-Budget
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni bis August bis 24 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Tektur Kurfürstenstr. 20: Umbau 4. OG: 3 WE zu 2 WE und DG-Ausbau
+- TOP 2.1.2.: Agnesstr. 18: Umbau und Erweiterung Wohnung 4. OG mit Ausbau 5. OG und DG
+- TOP 2.1.3.: Emanuelstr. 18: Energetische Sanierung eines Studentenwohnheims mit Umbaumaßnahmen und Erweiterung im 4. OG + TG, Abbruch des Dachstuhls und Aufstockung eines 5. + 6. OG, Errichtung einer Notleiteranlage
+- TOP 2.1.4.: Georgenstr. 132: DG-Ausbau, Ergänzung von Balkonen und Aufzugsanlagen
+- TOP 2.1.5.: Vorbescheid Hiltenspergerstr. 38, DG-Ausbau sowie Anbau von Außenaufzügen und Balkonen (VGB), Neubau eines Mehrfamilienhauses mit Garagengeschoss (RGB)
+- TOP 2.1.6.: Vorbescheid Bonner Str. 29-35: Neubau eines Wohngebäudes (28 WE) sowie Aufstockung eines Wohngebäudes (neu 29 WE) mit Tiefgarage (40 Stellpl.)
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürgerin: Vermüllung des Stadtwalds im Ackermannbogen durch Baustellenabfälle
+- TOP 1.2.: Bürger: Einbau von Sitzgelegenheiten im Buswartehäuschen Scheidplatz (Linie 142)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Mottlstr. 14: Fällung einer Trauerweide
+- TOP 2.1.2.: Kraepelinstr. 2: Fällung einer Rosskastanie und eines Spitzahorn
+- TOP 2.1.3.: Winzererstr. 170: Fällung von vier Feldahornbäumen, drei Fichten und einer Blaufichte
+- TOP 2.1.4.: Lerchenauer Str. 19, Fällung von sechs Bäumen
+- TOP 2.1.5.: Birnauer Straße: Fällung von drei Eschen am Nymphenburg-Biedersteiner Kanal
+- TOP 2.2: Verkehr
+- TOP 1: (E) Befestigter Weg anstelle der Trampelpfade durch die kleine Grünfläche an der Einmündung der Elisabeth- in die Schwere-Reiter-Straße Empfehlung Nr. 14-20 / E 00151 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 09.10.2014 - <div></div>
+- TOP 1.2.: Fahrspuren an der Kreuzung Schleißheimer Straße/Hohenzollernstraße ? Maßnahmen gegen das irrtümliche Befahren des Gleisbetts
+- TOP 1.3.: Veränderung der Verkehrssituation in der Tengstraße Anhörung zu den Vorschlägen aus dem Ortstermin am 14.10.2014 mit dem BA 3
+- TOP 1.4.: Austausch der Lichtzeichenanlage Ackermann-/Winzererstraße
+- TOP 1.1.: Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros Anhörung zu einem Vorschlag des BA 21 Pasing-Obermenzing auf Änderung der BA-Satzung
+- TOP 1.2.: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a der BA-Satzung
+- TOP 1.3.: Sitzungstermine im Februar 2015 (Vorstand und Unterausschüsse)
+- TOP 1.1.: Einführung des Parkraummanagements im Ackermannbogen
+- TOP 1.2.: Maßnahmen gegen das Missachten der Tempo-30-Regelung in der Kaiserstraße
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Eltern-Kind-Zentrum Schwabing/Maxvorstadt Anschaffung von Akustik Vorsatzschalen
