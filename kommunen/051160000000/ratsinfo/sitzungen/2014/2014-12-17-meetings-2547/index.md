@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2014-12-17T15:00:00+01:00
+- Ende: 2014-12-17T19:08:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2547
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2547
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bericht zur Umsetzung des HSP zum 30.09.2014 - Kenntnisnahme
+- TOP 2: 38. ordentliche Hauptversammlung des Deutschen Städtetages - Einstimmiger Beschluss
+- TOP 3: Änderung der Beteiligung an der RWE AG - Mit Stimmenmehrheit beschlossen
+- TOP 4: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - Einstimmiger Beschluss
+- TOP 5: Stellenplan 2015 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Haushaltes 2015; Haushaltssatzung einschl. Anlagen und Fortschreibung des HSP - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: Entwurf des Haushaltes 2015 - Zur Kenntnis genommen
+- TOP 6.2: Antragsbuch Bündnis90/Die Grünen zum Haushaltsentwurf 2015 - Zur Kenntnis genommen
+- TOP 6.3: Sanierung Haus Erholung - Zur Kenntnis genommen
+- TOP 6.4: Haushaltsentwurf 2015 - Zur Kenntnis genommen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2014 - Kenntnisnahme
+- TOP 8: Gebührenerhebung für die Benutzung der Abwasseranlagen - Siehe Niederschrift
+- TOP 9: 20. Nachtrag Kanalbenutzungsgebührensatzung u.a. - Mit Stimmenmehrheit beschlossen
+- TOP 10: Neukonzeption der städtischen Abfallannahmestellen - Siehe Niederschrift
+- TOP 11: 20. Nachtrag Benutzungsordnung Abfallentsorgungsanlagen und 15. Nachtrag Abfallsatzung - Einstimmiger Beschluss
+- TOP 12: 17. Nachtrag zur Abfallgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 13: 38. Nachtrag zur Straßenreinigungs- und Gebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Integriertes Klimaschutzkonzept Mönchengladbach - Einstimmiger Beschluss
+- TOP 14.1: Verlängerung der Stelle des Klmaschutzmanagers der Stadt Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 15: Planungsverband der Tagebaurandgemeinden - Mit Stimmenmehrheit beschlossen
+- TOP 16: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 17: Schulorganisatorische Maßnahmen im Bereich der Förderschulen Konzeptbeschluss - Einstimmiger Beschluss
+- TOP 18: Nachträge Museen - Mit Stimmenmehrheit beschlossen
+- TOP 19: VHS Tarif - Mit Stimmenmehrheit beschlossen
+- TOP 20: Leistungsvereinbarungen Tagestreff - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Sockelbetragsfinanzierung - Mit Stimmenmehrheit beschlossen
+- TOP 22: Vertrag über die Wahrnehmung von Betreuungen mit dem SKM - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung mit dem Caritasverband im Aufgabenbereich der Familienpflege - Mit Stimmenmehrheit beschlossen
+- TOP 24: LV Café Pflaster MG und RY - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung mit der Jüd. Gemeinde - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 26: Förderung von Pflegeeinrichtungen - Einstimmiger Beschluss
+- TOP 27: Kriterienkatalog Wohnumfeldmaßnahmen - Siehe Niederschrift
+- TOP 28: Lkw-Routenkonzept - Maßnahme des Luftreinhalteplanes - Mit Stimmenmehrheit beschlossen
+- TOP 29: Soziale Stadt - Innenstadtkonzept Rheydt - Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss
+- TOP 30: Veränderungssperre nördlich der Steinsstraße - Einstimmiger Beschluss
+- TOP 31: 2. Verl. e. Veränderungssperre (Gebiet zw. Humboldtstr, Steinmetzstr, Breitenbachstr u. Bahnkörper - Einstimmiger Beschluss
+- TOP 32: Jugendförderplan hier: Antrag der Fraktion DIE LINKE vom 25.09.2014 - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Jugendbüro - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Kindertagesstätten - Verweisung in zuständige Fachausschüsse
+- TOP 35: Jugendhilfeplanung - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Krankenkassenkarte für Flüchtlinge - Verweisung in zuständige Fachausschüsse
+- TOP 37: Untersuchung der Beteiligungsgesellschaften MGMG und WFMG auf generierbare Konsolidierungspotentiale - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Besetzung des Ausschusses für Soziales, Gesundheit und Senioren - Einstimmiger Beschluss
+- TOP 39: Stadtratsinitiative zur Unterbindung der Verjährung von Leistungen nach dem Sozialgesetzbuch XII - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Städtebauliche Rahmenplanung Abteiberg / Museumsquartier - Mit Stimmenmehrheit beschlossen
+- TOP 41: Einspruch Atommülllager Borssele - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Kleidergeld AsylbewerberInnen
+- TOP 43: Anfragen und Mitteilungen
+- TOP 43.1: Mitteilung von Stadtdirektor und -kämmerer Kuckels zum Nachtragshaushalt
+- TOP 43.2: Anfrage von RH Küpper (FDP) zum Thema "Kleinkind- und Säuglingsverpflegung"
