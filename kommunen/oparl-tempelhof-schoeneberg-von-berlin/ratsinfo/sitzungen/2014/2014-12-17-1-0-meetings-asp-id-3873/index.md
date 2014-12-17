@@ -1,0 +1,91 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2014-12-17T17:00:00+01:00
+- Ende: 2014-12-17T19:40:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3873
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3873
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=67956
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 3.1: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz - Grünzug "Wanseebahngraben / B 7-69" - überwiesen
+- TOP 3.2: Antrag auf Einwohnerversammlung gem. § 42 BezVG "Zur Umsetzplanung des Wannseebahngrabens" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Verbesserung Spielplatz Handjerystraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Tormarkierungen (auf dem Rosenheimer Spielplatz in der Münchner Straße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Netz für den Basketballkorb (auf dem Rosenheimer Spielplatz) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Markierungen Bolzplatz Rosenheimer Spielplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Ein zweiter Basketballkorb - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Fehlende Basketballkörbe und Torlinien auf dem Bolzplatz im Alice-Salomon-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Röhren müssen bemalt werden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Umgang mit Eingaben und Beschwerden von Bürgerinnen und Bürgern - beantwortet
+- TOP 8.2: Begegnungszone Maaßenstraße: Vor Risiken und Nebenwirkungen wird gewarnt! - erledigt
+- TOP 8.3: Sporthallensituation in Friedenau - beantwortet
+- TOP 8.4: Sporthallendesaster in Friedenau - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Dem Bürgerwunsch entsprechen und in der Begegnungszone Maaßenstraße mehr Fahrradbügel schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Eingesparte Landesmittel aus Bahnstreik für vordringliche Sanierung des S-Bahnhofs Yorckstraße verwenden! - vertagt
+- TOP 9.3: Angebote der Jugendarbeit und der Jugendsozialarbeit nach dem KJHG - vertagt
+- TOP 9.4: Das Freihandelsabkommen TTIP stoppen – Kommunale Daseinsvorsorge schützen - vertagt
+- TOP 9.5: Ausnahme für E - KFZ - vertagt
+- TOP 9.6: Eigenbetrieb Bürgerstiftung - vertagt
+- TOP 9.7: Interessen der Lichtenrader Bürger vertreten - vertagt
+- TOP 9.8: Sicherung von öffentlichen Bronzeskulpturen durch Einsatz künstlicher DNA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Anliegen der „Senioren-BVV“ ernst nehmen - überwiesen
+- TOP 9.10: Ausweitung des Angebots an Fahrrad- und PKW-Abstellplätzen am Bahnhof Buckower Chaussee statt Wegfall des P+R-Parkplatzes - überwiesen
+- TOP 9.11: Wahl eines stellvertretenden Bürgerdeputierten - vertagt
+- TOP 9.12: Geeignete Immobilien für Obdachlose benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.13: Zusätzliche akustische Ampelsignale für Sehbehinderte einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: Kältehilfe rettet Leben – Der Warmlufthalle „Halle-Luja“ der Berliner Stadtmission in Tempelhof-Schöneberg eine Perspektive geben! - vertagt
+- TOP 9.15: Böden entsiegeln – Niederschlagswasser versickern - überwiesen
+- TOP 9.16: Suchtprobleme der Älteren ernst nehmen – Aufklärungskampagne starten! - überwiesen
+- TOP 9.17: Pressefreiheit auf den Sportanlagen des Bezirks gewährleisten - überwiesen
+- TOP 9.18: Durchgang Carl-Steffeck-Straße durch Beleuchtungsanlage sicher machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Alle Jahre wieder grüßt die Tischvorlage - vertagt
+- TOP 10.2: Gleditschstraße 49/69: Milieuschutz, Instandsetzung und Modernisierung und die Einflußmöglichkeiten des Bezirksamts - vertagt
+- TOP 10.3: Soziales Erhaltungsgebiet Gleditschstrasse - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Wahlbeteiligung zur Seniorenvertretung steigern – Seniorenarbeit sichtbarer machen - vertagt
+- TOP 11.2: Neuer Ortsteil am Tempelhofer Feld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Meldung von Straßen-, Radweg- und Gehwegschäden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Tatsächliche Schülerzahl an den Schulen finanzieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Neubau der Gustav-Heinemann-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Ausstellung „Der Weg zur deutschen Einheit“ zeigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Öffentlicher Bücherschrank für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - SV Blau Weiss Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Das Gedenken an den jüdischen Schriftsteller Georg Hermann an seinem Friedenauer Wohnort sichtbar zu machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Finanzierung der Jugendarbeit und Jugendsozialarbeit sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Handjerystraße soll Fahrradstraße werden - vertagt
+- TOP 11.12: Verfassungsschutz nicht Einladen- Tempelhof-Schöneberg setzt auf vertrauliches Miteinander an unseren Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Bürgerfreundliche Verwaltung II – hier: Ausweitung der Öffnungszeiten in den Abendstunden sowie Einführung einer Samstagssprechstunde - vertagt
+- TOP 11.14: Sportstättenvergabekommission einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Finanzielle Absicherung der Schulstationen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Festsetzung des Entwurfs des Bebauungsplans 7-38 für die Grundstücke Hohenfriedbergstraße 25-26, Monumentenstraße 13 A-B, die Flurstücke 78 und 82 und eine Teilfläche des Grundstücks Monumentenstraße13 D sowie die Geßlerstraße und die Kesselsdorfstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Parkplätze für Menschen mit Behinderungen - überwiesen
+- TOP 13.2: Erstellen einer Positivliste schadstoffreduzierter Anschaffungen in Kindertagesbetreu-ungseinrichtungen, Schulen und Jugendfreizeiteinrichtungen - überwiesen
+- TOP 13.3: Wohnbauflächen Hohenstaufenstraße 9-30 - überwiesen
+- TOP 13.4: Jobpoint für Tempelhof-Schöneberg - überwiesen
+- TOP 13.5: Städtebauliches Leitbild Nollendorfplatz - überwiesen
+- TOP 13.6: Gartendenkmal Renée Sintenis Platz bewahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.7: Der Ortsteil Schöneberg braucht seine Jugendverkehrsschule - überwiesen
+- TOP 13.8: Abwendungsvereinbarungen in Milieuschutzgebieten prüfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Wege-Beleuchtung Nordspitzenpark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz (BezVG) - Grünzug Wannseebahngraben / B 7-69 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: a) Aufstellung des Bebauungsplanes 7-68 für eine Teilfläche des Grundstücks Hauptstraße 64, Handjerystraße 98 und das Grundstück Handjerystraße 99 im Bezirk Tempelhof-Schöneberg, Ortsteil Friedenau b) Abwägungsergebnis der durchgeführten frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 Baugesetzbuch (BauGB) - überwiesen
+- TOP 13.12: WC-Sanierung der Mittelpunktbibliothek und der Bezirkszentralbibliothek prüfen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - (offen)
