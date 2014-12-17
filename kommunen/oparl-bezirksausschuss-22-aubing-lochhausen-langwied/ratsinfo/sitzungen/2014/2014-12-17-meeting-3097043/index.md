@@ -1,0 +1,122 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2014-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3097043
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3097043
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung des aktuellen Stands und der weiteren Planungen zum Geothermieprojekt in Freiham durch die Stadtwerke München
+- TOP 2: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.1.: Entfernung der Parkverbotsschilder in der Veldensteinstraße
+- TOP 2.1.2.: Anträge aus dem Kinder- und Jugendforum im 22. Stadtbezirk: - Zweiter Basketballkorb und Einrichtung von Kunstrasen auf dem Sportplatz an der Wiesentfelser Str. (UA Bildung, Schule, Sport) - Zaun um das Gelände / Fußballplatz (UA Bildung, Schule, Sport) - Spielplatz im Park an der Wiesentfelser Straße (UA Soziales, Familie, Senioren, Kultur) - Finanzierung von Reitstunden (UA Soziales, Familie, Senioren, Kultur) - Großer Spielplatz mit Bolzplatz in Lochhausen (Neubausiedlung) (UA Soziales, Familie, Senioren, Kultur) - Basektballkorb für die Tenne (UA Bildung, Schule, Sport) - Verschönerung Unterführung Bodenseestr. mit Graffiti (UA Soziales, Familie, Senioren, Kultur) - Erneuerung und Ausbesserung Graffiti S-Bahn-Unterführung Lochhausen (UA Soziales, Familie, Senioren, Kultur) - Verschönerung Unterführung Westkreuz durch Graffiti (UA Soziales, Familie, Senioren, Kultur) - Erneuerung Bolzplatz am Krautgartenweg (UA Bildung, Schule, Sport)
+- TOP 2.1.3.: Parkdruck in der Streitbergstraße
+- TOP 2.1.4.: Erdtransport rund um Gut Freiham - Baumschutz Freihamer Allee
+- TOP 2.1.5.: Tempolimit 30 für Centa-Hafenbrädl-Straße
+- TOP 2.1.6.: Radweg Altenburgstraße
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumbeseitungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, Schr. Baureferat vom 06.11.14, 20.11.14
+- TOP 3.1.2.: Baumfällungen auf Anforderung: - Roggensteiner Weg 5 - Grafrather Str. 17 - Eschenrieder Str. 119 - Hittoweg 23 - Am Loferfeld 33 - Bienenheimstr. 11 - Carl-Caspar-Weg 3 - Burkheimer Str. 6 - Weißensteinstr. 1 - Eschenrieder Str. - Goteboldstr. 215 - Teufelsbergstr. 17 - Lochhausener Str. 254 - Rothenbühler Str. 1 (N) - Erlbachstr. 45 (N) - Erlbachstr. 21 (N) - Keltenafferstr. 1 (N) - Noderstr. 4
+- TOP 4: Anträge
+- TOP 4.1.: Unterstützung eines "Runden Tisches Inklusion"
+- TOP 4.2.: Ausbau S4 - Westast
+- TOP 4.3.: Verstärkung Streetwork-Arbeit im Münchner Westen
+- TOP 4.4.: Tempo-30-Zone im Germeringer Weg zwischen der Einmündung Gotzmannstraße und dem Bahnübergang
+- TOP 4.5.: Optimierung der Ampelanlage Aubinger Str. / Limesstr. durch Ergänzung eines Grünlichts (nach rechts) in einer Lichtzeichenanlage auf der Aubinger Straße
+- TOP 4.6.: Einmündung und Beleuchtung Lochhausener Straße / Ecke Langwieder Bach
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse Little Lab Forschernachmittag am 05.12.2014
+- TOP 5.2.: Budget der Bezirksausschüsse Deutschinstitut Integra Integrationskurs für Frauen mit Kinderbetreuung vom 14.01. - 17.03.15
+- TOP 5.3.: Eschenrieder Straße gemeinsamer Geh- und Radweg zwischen Scharinenbachstraße und nördlich Am Lochhauser Hügel
+- TOP 5.4.: Fortführung und Entwicklung des Kulturbetriebs in den seit 2010 vom Kommunalreferat zur kulturellen Zwischennutzung überlassenen Räumen im städtischen Anwesen Ubostr. 7-9, genannt UBO 9
+- TOP 5.5.: Budget der Bezirksausschüsse: AWO KV München-Stadt e.V. - Kinderball am 15.02.2015
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Planung der Einsätze der Münchner Sommerspielaktion 2015, Anhörung Spielen in der Stadt vom 26.11.14
+- TOP 6.1.1.2.: Circus Frank: Stadtteilwoche Laim - Anfrage für das Grundstück Bodensee-/Ecke Anton-Böck-Straße, Anhörung Kulturreferat vom 03.12.14
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Protokoll Kinder- und Jugendforum 2014 des BA 22
+- TOP 6.1.2.2.: Präsentation der Veranstaltung "Bürgerforum Altenpflege" am 28.10.14
+- TOP 6.1.2.3.: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention, Schr. Sozialreferat vom 27.11.14
+- TOP 6.1.2.4.: Veranstaltungen / Kooperationen im Dezember 2014, Schr. Kulturreferat vom 01.12.14
+- TOP 6.1.2.5.: Rampenlichter - Sachbericht über gefördertes Projekt mit der Grundschule Schubinweg und Aufführung, Schr. Spielen in der Stadt vom 20.11.14
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.2.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.2.1.1.: Errichtung von vier Grundschulen in modularer Bauweise an den nachstehenden Standorten (u.a. Freiham II (Mitte) am Quartierszentrum und Freiham III (Nord) an der "Aubinger Allee"), Anhörung Referat für Bildung und Sport vom 26.11.14
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.2.2.1.: Präsentation - Informationsgespräch zum Aktionsprogramm Schul- und Kitabau 2020 und Schulentwicklungsplanung für Grundschulen, Mittelschulen und Sonderpädagogische Förderzentren, Schr. Ref. f. Bildung u. Sport vom 21.11.14
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.3.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.3.1.1.: Erinnerungsverfahren, Gehbahn Neideckstr. 7-11 bis Weißensteinstr. HsNr. 11, Anhörung Baureferat vom 17.11.14
+- TOP 6.3.1.2.: Fahrbahnsanierung in der Kohlmeisenstraße und Schwojerstraße, Anhörung Baureferat vom 09.12.14
+- TOP 6.3.1.3.: Fahrbahnsanierung in der Federseestraße 8- 54, Anhörung Baureferat vom 09.12.14
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.3.2.1.: Information MVG Rad, Schr. SWM vom 21.11.14
+- TOP 6.3.2.2.: Autobahnkreuz München-West, Bundesautobahn A8/West / A 99, Schr. Autobahndirektion Südbayern vom 06.11.14
+- TOP 6.3.2.3.: Zufahrt Überlinger Weg, Schr. KVR vom 11.11.14
+- TOP 6.3.2.4.: S-Bahn - Regionalbahn, Schr. Planungsreferat vom 28.11.14
+- TOP 6.3.2.5.: Aubing-Ost-Straße im Umgriff des Bebbaungsplans Nr. 1977, Neuherstellung der Straßen, Schr. Baureferat vom 04.12.14
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 6.4.1: Anhörungen / Stellungnahmen (4)
+- TOP 6.4.1.1.: Planfeststellungsverfahren nach § 18 AEG, Neubau einer Fahrzeug Instandhaltungs- und Behandlungsanlage (FIBA) Pasing in der LH MÜnchen, Gemarkung Aubing der Strecke 5528 München-Pasing, Bahn-km 3,7 bis km 4,8 des Betriebshofes Pasing (Strasser-Gelände), Anhörung Planungsreferat vom 30.10.14 - Vorabstellungnahme durch Vorstand -
+- TOP 6.4.1.2.: Wiesentfelser Str. 53, Gemarkung: Aubing, Fl.Nr. 1250/0, Errichtung einer Schulpavillionanlage für 4 Klassenräume, Anhörung Planungsreferat vom 26.11.14
+- TOP 6.4.1.3.: Erlbachstr. 4, Gemarkung: Langwied, Fl.Nr. 705/5, Tektur zu Neubau eines Mehrfamilienhauses (3 WE) mit Carport (3 Stpl.), Anhörung Planungsreferat vom 28.11.14
+- TOP 6.4.1.4.: Bodenseestr. 129 - Neubau eines Wohn- und Gewerbebaus mit Tiefgarage, Anhörung Planungsreferat vom 02.12.14
+- TOP 6.4.1.5.: Freihamer Weg - Neubau einer 5-zügigen Grundschule (Freiham III) mit Räumen für ganztägige Betreuung sowie einer Zweifachsporthalle inkl. Freisportanlagen im Siedlungsgebiet Freiham Nord (Freihamer Weg / Hörweg), Anhörung Planungsreferat vom 02.12.14
+- TOP 6.4.1.6.: Wildenfelser Str. 7, Gemarkung: Aubing, Fl.Nr. 1505/6, Erweiterung Einfamilien- zu Zweifamilienhaus - Vorbescheid
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (4)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk v. 10.11.-16.11.14, v. 17.11.-23.11.14, v. 24.11.-30.11.14, v.01.12.-07.12.14, Schr. Planungsreferat vom 17.11.14, 25.11.14, 02.12.14, 08.12.14
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 17.11.14, 24.11.14, 01.12.14, 08.12.14
+- TOP 6.4.2.3.: Aktionsprogramm zum Umgang mit dem Laubbockholzkäfer im 16. Stadtbezirk, Schr. Direktorium vom 24.11.14
+- TOP 6.4.2.4.: Reinigung der beiden Bereiche der Fahrradständer am S-Bahnhof Westkreuz, Schr. Baureferat vom 17.11.14
+- TOP 6.4.2.5.: Verschönerung der Betonwände in der Freihamer Bahnunterführung, Schr. Baureferat vom 13.11.14
+- TOP 6.4.2.6.: Hochwasser am Krähenweg - Brückenerstellung -, Schr. Baureferat vom 12.11.14
+- TOP 6.4.2.7.: Verbesserung der Beleuchtungssituation auf dem Fußweg der Georg-Böhmer-Straße zwischen Altostraße und Giglweg, Schr. Baureferat vom 10.11.14
+- TOP 6.4.2.8.: Bescheid zur Ausnahmezulassung gem. § 7 Abs. 2 der BimSchV, Limesstr. 62, Schr. Ref. f. Gesundheit u. Umwelt vom 07.11.14
+- TOP 6.4.2.9.: Aufstellung eines Ortsteilschilds "Freiham", Schr. KVR vom 10.11.14
+- TOP 6.4.2.10.: Machbarkeitsstudie Böhmer Weiher, Schr. Baureferat vom 02.12.14
+- TOP 7: Anhörungen / Stellungnahmen (5)
+- TOP 7.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24:00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen, Anhörung KVR vom 13.11.14
+- TOP 7.2.: Änderung der Bezirksausschusssatzung; Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros, Anhörung Direktorium vom 01.12.14
+- TOP 7.3.: Änderung der Bezirksausschusssitzung; hier: Anpassung des Geltungsbereiches auf Anspruch auf Sitzungsgeld für externe Beauftragte nach § 23 a BA-Satzung, Anhörung Direktorium vom 01.12.14
+- TOP 7.4.: Geschäftsordnung der Projektgruppe Neuaubing-Westkreuz durch die MGS
+- TOP 8: Unterrichtungen / Bekanntgaben (5)
+- TOP 8.1.: Unveränderte Fortführung Landgasthof Langwied, Waidachanger 9, Schr. KVR vom 13.11.14
+- TOP 8.2.: Europe Direct Informationen 05/2014, Schr. Ref. f. Arbeit u. Wirtschaft vom 12.11.14
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Giggenbacherstr., Schr. Sozialreferat vom 26.11.14 (N) - Altostr., Schr. Sozialreferat vom 08.12.14
+- TOP 8.4.: Mitteilung über ein Grundstücksgeschaft, Fl.stück 864, Aubing, Germeringer Weg, Kauf, Schr. Kommunalreferat vom 02.12.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.14 - Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/26, Kastelburgstr. (nördlich), Kronwinkler Str. (beidseits), Industriestr. (östlich)
+- TOP 10.2.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.14 Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, der Zentrale, des Stadtjugendamtes, des Amtes für Wohnung und Migration
+- TOP 10.3.: Beschluss der Vollversammlung vom 20.11.14: - Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015 (N) - Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 10.4.: Beschluss der Vollversammlung vom 01.10.14: - Mieterbeirat, Berufung von stimmberechtigten Mitgliedern für die Bezirksausschüsse des 1. und 7. Stadtbezirks
+- TOP 10.5.: Bekanntgabe in der Sitzung des Bauausschusses vom 09.12.14: - Fertigstellung der Radwegverbindung zur Langwieder Seenplatte
+- TOP 10.6.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: - Mehrjahresinvestitionsprogramm 2014-2018, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014-2018, Infrastrukturversorgungskonzept 2014-2018 - Mehrjahresinvestitionsprogramm für die Jahre 2014-2018, Gliederungsziffern (N) - Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015
+- TOP 10.7.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.14: - Bericht zur Wohnungssituation in München 2012-2013
+- TOP 10.8.: Beschluss des Bauausschusses vom 11.11.14: - Landschaftspark Freiham, Zweistufiger Wettbewerb mit prozessbegleitender Bürgerbeteiligung
+- TOP 10.9.: Beschluss des Bauausschusses vom 09.12.14: - Straßenausbaubeitragssatzung abschaffen
+- TOP 10.10.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 11.11.14: - Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad"
+- TOP 10.11.: Beschluss der Vollversammlung des Stadtrates vom 17.12.14: - Haushaltsplan 2015; - Ansätze der zentralen Bereiche, - Schlussabgleich
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Errichtung einer Badeinsel im Lußsee, Schr. BA 21 vom 08.12.14
+- TOP 11.2.: Informationsveranstaltung Baureferat, Einladung für die Bezirksausschüsse am 22.01.15 um 17.00 Uhr im Baureferat, Raum 0.409 (Halle, Erdgeschoss)
+- TOP 11.3.: Ausstellung der Wettbewerbsergebnisse Bildungs- und Sportcampus Freiham am 19.12.-21.12.14 im Kulturzentrum UBO9
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 21.01.15 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschusssitzungen: - UA Bauen, Planung, Umwelt: Mo., 08.12.14, 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Di., 09.12.14, 19.00 Uhr im Stadtteilladen, Limesstr. 111 - UA Bildung, Schule, Sport: Mi., 10.12.14, 18.30 Uhr im Bildungslokal, Limesstr. 85 - UA Soziales, Familie, Senioren, Kultur: Do., 11.12.14, 19.30 Uhr im Rathaus Pasing, Raum 40
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 3.1: Baumschutzbeauftragte
