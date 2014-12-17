@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Aachen-Laurensberg (2014-12-17)
+- Körperschaft: Aachen
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9370c61d8f32e9185efdbc
