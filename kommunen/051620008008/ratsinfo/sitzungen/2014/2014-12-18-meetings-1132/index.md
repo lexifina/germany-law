@@ -1,0 +1,160 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2014-12-18T18:06:00+01:00
+- Ende: 2014-12-18T22:57:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1132
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1132
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsrede CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00058923.pdf
+- Ergebnisprotokoll: Haushaltsrede CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00058923.pdf
+- Wortprotokoll: Haushaltsrede CDU-Fraktion http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00058923.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Verpflichtung Ratsmitglied
+- TOP 3: Bestellung stellv. Leiter Feuerwehr - einstimmig
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.1.1: CDU, Antrag Nr. 319/14 - einstimmig
+- TOP 4.1.2: CDU, Antrag Nr. 320/14 - einstimmig
+- TOP 4.1.3: CDU, Antrag Nr. 321/14 - einstimmig
+- TOP 4.1.4: SPD, Antrag Nr. 316/14 - einstimmig
+- TOP 4.1.5: SPD, Antrag Nr. 317/14 - einstimmig
+- TOP 4.1.6: SPD, Antrag Nr. 318/14 - einstimmig
+- TOP 4.2: SPD
+- TOP 4.3: FDP
+- TOP 4.3.1: FDP, Antrag Nr. 216/14 - einstimmig
+- TOP 4.3.2: FDP, Antrag Nr. 274/14 - einstimmig
+- TOP 4.3.3: FDP, Antrag Nr. 307/14 - einstimmig
+- TOP 4.3.4: Bündnis 90/Die Grünen, Antrag Nr. 313/14 - einstimmig
+- TOP 4.3.5: Bündnis 90/Die Grünen, Antrag Nr. 314/14 - mehrheitlich bei
+- TOP 4.4: B 90/DIE GRÜNEN
+- TOP 4.5: ABG
+- TOP 4.5.1: ABG, Antrag Nr. 315/2014 - einstimmig
+- TOP 4.5.2: Antrag Absetzung des TOP "Änderung der Geschwisterkindregelung bei den Elternbeiträgen" - Kenntnisnahme
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.6.1: Mein GV, Antrag Nr. 290/14 - einstimmig
+- TOP 4.6.2: Mein GV, Antrag Nr. 302/14 - einstimmig
+- TOP 4.6.3: Mein GV, Antrag Nr. 303/14 - einstimmig
+- TOP 4.6.4: Mein GV, Antrag Nr. 304/14 - einstimmig
+- TOP 4.6.5: Mein GV, Antrag Nr. 305/14 - Kenntnisnahme
+- TOP 4.6.6: Mein GV, Antrag Nr. 306/14 - einstimmig
+- TOP 4.6.7: Die Linke/Piraten, Antrag Nr. 275/14 - Kenntnisnahme
+- TOP 4.6.8: Die Linke/Piraten, Antrag Nr. 276/14 - Kenntnisnahme
+- TOP 4.6.9: Die Linke/Piraten, Antrag Nr. 280/14 - einstimmig
+- TOP 4.6.10: Die Linke/Piraten, Antrag Nr. 281/14 - einstimmig
+- TOP 4.6.11: Die Linke/Piraten, Antrag Nr. 285/14 - einstimmig
+- TOP 4.6.12: Die Linke/Piraten, Antrag Nr. 286/14 - einstimmig
+- TOP 4.6.13: Die Linke/Piraten, Antrag Nr. 287/14 - einstimmig
+- TOP 4.6.14: Die Linke/Piraten, Antrag Nr. 288/14 - einstimmig
+- TOP 4.7: Die Linke/Piraten
+- TOP 4.7.1: Unterführung Am Graben - einstimmig
+- TOP 4.7.2: Gebäude Realschule Bergheimer Straße - Kenntnisnahme
+- TOP 4.8: Gemeinschaftsanträge
+- TOP 4.9: UWG
+- TOP 4.9.1: Antrag der UWG Nr. 283/14 - Kenntnisnahme
+- TOP 4.9.2: UWG, Antrag Nr. 215/14 - einstimmig
+- TOP 4.9.3: UWG, Antrag Nr. 283/14 - einstimmig
+- TOP 4.9.4: UWG, Antrag Nr. 284/14 - Kenntnisnahme
+- TOP 4.9.4.1: UWG, Antrag Nr. 284/14 - Kenntnisnahme
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG
+- TOP 5.4: FDP
+- TOP 5.4.1: Arbeit der zentralen Beschaffungsstelle (Anfrage Nr. 271/14) - Kenntnisnahme
+- TOP 5.4.2: Möglichkeiten zur Stärkung der Eigeninitiative der Bürger (Anfrage Nr. 272/14) - Kenntnisnahme
+- TOP 5.4.3: Neuer Audi Q5 für die Feuerwehr - Wie steht es um die Einsatzfahrzeuge der Feuerwehren in GV? - Kenntnisnahme
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.6: ABG
+- TOP 5.7: Mein Grevenbroich
+- TOP 5.7.1: Mein GV, Anfrage Nr. 289/14 - Kenntnisnahme
+- TOP 5.7.2: Fahrdienst für die Bürgermeisterin (Anfrage Nr. 301/14) - Kenntnisnahme
+- TOP 5.7.3: Nutzung des Alten Schlosses (Anfrage Nr. 277/14) - Kenntnisnahme
+- TOP 5.7.4: Nutzung des Haus Hartmann (Anfrage Nr. 278/14) - Kenntnisnahme
+- TOP 5.7.5: Besucherzahlen im Museum (Anfrage Nr. 279/14) - Kenntnisnahme
+- TOP 5.7.6: Überstunden in der Verwaltung (Anfrage Nr. 282/14) - Kenntnisnahme
+- TOP 5.7.7: Die Linke/Piraten, Anfrage Nr. 312/2014 - Kenntnisnahme
+- TOP 5.8: Die Linke/Piraten
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Bekanntgabe APL/ÜPL - Kenntnisnahme
+- TOP 9: 2. Änd. G 134 Aufstellungsbeschluss § 13a - einstimmig
+- TOP 10: Veränderungssperre 2. Änd. G 134 - einstimmig
+- TOP 11: Entscheidung PlanungsA
+- TOP 11.1: Aufstellung der 1. Änd. u. Erg. G 204 - Satzungsbeschluss - einstimmig
+- TOP 11.2: Aufstellung der 1.Änd. G 205 - Satzungsbeschluss - einstimmig
+- TOP 11.3: Aufstellung der 1. Änd. G 208 - Satzungsbeschluss - einstimmig
+- TOP 11.4: Antrag 109/2014 CDU: Straßenbenennungen in Kapellen - einstimmig
+- TOP 11.5: 3. Änd G 173 - Aufstellungsbeschluss - einstimmig
+- TOP 12: UmweltA 12.11.2014
+- TOP 12.1: Friedhofsgebühren 2015 - mehrheitlich bei
+- TOP 12.2: Gebührenbedarfsberechnung Abfall 2015 - einstimmig
+- TOP 13: Zulässigkeit Einwohnerantrag – Kindergartenbeitragserhöhung Grevenbroich – - einstimmig
+- TOP 14: JHA 12.11.2014
+- TOP 14.1: Änderung der bestehenden Satzung über die Erhebung von Elternbeiträgen in - Kenntnisnahme
+- TOP 14.2: Änderung der bestehenden Satzung über die Erhebung von Kostenbeiträgen für die - Kenntnisnahme
+- TOP 15: BauA 13.11.2014
+- TOP 15.1: Gebührenbedarfsberechnung 2015 Straßenreinigung und Winterdienst - mehrheitlich bei
+- TOP 16: SchulA/JHA 26.11.2014
+- TOP 16.1: Abgabe/Privatisierung OGS - mehrheitlich bei
+- TOP 17: BetriebsA 02.12.2014
+- TOP 17.1: Abwassergebührenkalkulation 2015 - einstimmig
+- TOP 17.2: Wirtschaftsplan des Eigenbetriebs Abwasseranlagen für das Jahr 2015 - einstimmig
+- TOP 18: HFD-A 27.11.2014
+- TOP 18.1: 2. Änderung der Vergnügungssteuersatzung - mehrheitlich bei
+- TOP 19: SportA 03.12.2014
+- TOP 19.1: BgA - einstimmig
+- TOP 20: RP-A 09.12.2014
+- TOP 20.1: Feststellung des Jahresabschlusses 2011 und abschließende Beschlussfassung - einstimmig
+- TOP 21: Reden FV zum Haushalt 2015
+- TOP 22: Haushalt 2015 - mehrheitlich bei
+- TOP 23: Beantwortung Anträge
+- TOP 23.1: Beantwortung des Antrages "Verstopfte Kanalabflüsse (Gulli)" (Antrag Nr. 157/2014) - Kenntnisnahme
+- TOP 23.2: ABG, Antrag Nr. 168/2014 - Kenntnisnahme
+- TOP 23.3: Beantwortung des Antrages "Nutzung des öffentlichen Verkehrsraums für Aussengastronomie - Kenntnisnahme
+- TOP 23.4: Mein GV, Antrag Nr. 170/2014 - Kenntnisnahme
+- TOP 23.5: CDU, Antrag Nr. 184/2014 - Kenntnisnahme
+- TOP 23.6: Anträge Nr. 241/14 und 255/14 - Feuerwache Lilienthalstraße - Kenntnisnahme
+- TOP 23.7: Antrag Nr. 241/14 der CDU-Fraktion - Neubau des Feuerwehrhauses Frimmersdorf/Neurath - Kenntnisnahme
+- TOP 23.8: Die Linke/Piraten, Antrag Nr. 177/2014 - Kenntnisnahme
+- TOP 24: Beantwortung Anfragen
+- TOP 24.1: Beantwortung von mündlichen Anfragen aus den letzten Sitzungen - Kenntnisnahme
+- TOP 24.2: Expo Real 2014 in München (Anfrage Nr. 172/14) - Kenntnisnahme
+- TOP 24.3: Ungenutzte Bushaltestellen - Kenntnisnahme
+- TOP 24.4: Beantwortung der Anfrage "Kleidercontainer" - Kenntnisnahme
+- TOP 24.5: Beantwortung einer Anfrage "Was passiert mit der Mühle auf der Brückenstr. in Wevelinghoven? - Kenntnisnahme
+- TOP 24.6: Breitbandausbau in Hemmerden (Anfrage Nr. 163/2014) - Kenntnisnahme
+- TOP 24.7: Beantwortung der Anfrage Halteverbot während der Arbeiten der Kehrmaschine in der Innenstadt - Kenntnisnahme
+- TOP 24.8: Beantwortung der Anfrage "Parkplatznachweis bei gewerblicher Nutzung einer Wohnung - Kenntnisnahme
+- TOP 24.9: Beantwortung einer Anfrage - Kenntnisnahme
+- TOP 24.10: Beantwortung einer Anfrage - Kenntnisnahme
+- TOP 24.11: Beantwortung einer Anfrage zu der Bekanntgabe der von der Bürgermeisterin erteilten Aufträge - Kenntnisnahme
+- TOP 24.12: Beantwortung eines Antrages in Bezug auf dieBeantwortung einer Nachfrage zum Antrag in Bezug auf die - Kenntnisnahme
+- TOP 25: mündliche Anträge/Anfragen
+- TOP 25.1: Anfrage Nr. 131/14
+- TOP 25.2: Anfrage 193/14
+- TOP 25.3: Anfrage 101/14
+- TOP 25.4: Kraftwerksrückstände
+- TOP 25.5: Feuerwehr
+- TOP 25.6: Kanalbauarbeiten
+- TOP 25.7: Einbahnstraße
+- TOP 25.8: Kanalabflüsse
+- TOP 25.9: Seniorenzentrum
+- TOP 25.10: Beschilderung
+- TOP 25.11: Ecke Gürather Straße
+- TOP 25.12: Flüchtlinge
+- TOP 25.13: Bäume
+- TOP 25.14: Ratsinformationssystem
+- TOP 25.15: Kanalbaumaßnahme
+- TOP 25.16: Benachrichtigungen
+- TOP 25.17: Asylbewerberunterkunft
+- TOP 26: Mitteilungen BM'in
+- TOP 26.1: Konverterstandort
+- TOP 26.2: Beantwortung einer Anfrage
+- TOP 26.3: Weihnachtskarten
