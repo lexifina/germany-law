@@ -1,0 +1,58 @@
+# 33. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2014-12-18T16:30:00+01:00
+- Ende: 2014-12-18T20:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3935
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3935
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=105193
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-38 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Kiezpaten - gewählt
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Ausschuss für Umwelt- und Naturschutz und Grünflächen - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radweg Oberspreestraße / Friedlander Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Barrierefreie Wahllokale - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Radweg Oberspreestraße an die Fahrbahn einschwenken - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgerinformation zur extensiven Grünpflege im Volkspark Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Überprüfung der Radwegbenutzungspflicht in der Puschkinallee zwischen Bouchéstraße und Elsenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verstärkte Kontrollen der Rad- und Gehwege im Bezirk - überwiesen
+- TOP 12.7: Straßenlicht in Erschließungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Brückenschlag Wuhlemündung - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Fahrradstellplätze im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kenntlichmachung des Spreetunnels der Knüppelbahn nach Stralau - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Betrieb einer Fähre zur barrierefreien Querung der Spree im Bereich des Spreetunnels in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bibliotheksentwicklungs- und -strukturplan 2014-2017 Fortschreibung des Strukturplans der Stadtbibliothek Treptow-Köpenick 2008 ff - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Leitlinien des "Entwicklungskonzepts Wohnen - Wohnungsbaupotentialanalyse 2013/2014 für den Bezirk Treptow-Köpenick von Berlin" als Steuerungs- und Handlungsinstrument für die Wohnungsbauentwicklung im Bezirk - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sicherheit auf der Langen Brücke erhöhen - überwiesen
+- TOP 14.2: Schweigeminute zum Gedenktag an die Opfer des Nationalsozialismus am 27. Januar 2015 - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Rettungstaucher im Südosten stationieren - in der BVV zurückgezogen
+- TOP 14.4: Vorrangschaltungen - überwiesen
+- TOP 14.5: Rettungstaucher im Berliner Südosten stationieren - in der BVV zurückgezogen
+- TOP 14.6: Standort ehemaliges Zwangsarbeiterlager kenntlich machen - überwiesen
+- TOP 14.7: Schutzvorrichtungen an Treptow-Köpenicker Brücken - überwiesen
+- TOP 14.8: Bergung des "Lenin-Kopfes" nicht vor Oktober 2015 - überwiesen
+- TOP 14.9: Angebote für obdachlose Minderjährige ausbauen - überwiesen
+- TOP 14.10: Lichtzeichenanlage am S-Bahnhof Friedrichshagen - überwiesen
+- TOP 14.11: Pförtnerampeln - überwiesen
+- TOP 14.12: Rettungstaucher im Berliner Südosten stationieren - überwiesen
+- TOP 15: Große Anfragen - (offen)
