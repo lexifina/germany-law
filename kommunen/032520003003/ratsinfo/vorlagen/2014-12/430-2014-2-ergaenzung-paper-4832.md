@@ -1,0 +1,28 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2015 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 430/2014 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2014-12-18
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfkRDXLc1X_TI23HIwG498k
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/4832
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2015 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQZNsUivRHedMUOnm2IEujWK4JUmfTWj4YTXqvbmah38/Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe9Y-cvRXYbO-U4Zsc_bPsiMBM4540in_rNJt4go0LjQ/Anlage_zur_Beschlussvorlage_430-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSx4ZJ4gAFK1YvZHSmcPRR6PmGO9X-r5dZilQwH5mgwN/Anlage_zur_Beschlussvorlage_430-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUtkNvY8ZrZAhKwovAvJThVd06rSgeV4mu5C8UOA0tyB/Anlage_zur_Beschlussvorlage_430-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZUZXZtobke9mC2-p2U-pJFsyMqFdnLtRv-qqEuDNVzD/Anlage_zur_Beschlussvorlage_430-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZboUPSgs_2U8HoGH69lqg5dXFjYjr25xZoJQlNy56MbH/Anlage_zur_Beschlussvorlage_430-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQn9_xBucFmrJOMRBgzzxDjXQ6vbzkeWMGx2hM2EpuV1/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe4qp8wPHfFe8-P85U_H1xa2-IFhfUDB03mPuLetrw0s/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRMEWMqftlwmwaBjtL7SqtIMtvfRQ_-taLM9SnOd4xof/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWgps6qPpWB4QgtkxGIP55I53QJCFvP7GFxr6focsO-2/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXq_nR0_IUdcPDJoZZ7xbiuVXIH9b61hUtsFwpCc90L5/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZagQe6C4BpwG5RnmWG9OVnV98rY6_vaTxtxnyMx_q5AW/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEtccQJZQmIVJuOFQNA0KnrSrptRy6GhO7CZdm_nRKw/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfqQyD1CY_JkmF9Xy3YftCPaLm7uyRPMUjEM7zU4J3oJ/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSJc1UlTzvV74A_ImOF9_drgyM6pVq9BqwvYMtYRFNDx/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 430/2014 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTUxbc2s3qzKfL267exEwPvfau5sPFEdav-FWa-URMOE/Anlage_zur_Beschlussvorlage_430-2014_2._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15527 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15504 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
