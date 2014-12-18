@@ -1,0 +1,55 @@
+# Rat (3. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2014-12-18T18:41:00+01:00
+- Ende: 2014-12-18T20:13:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVuYYAYvj2lfvxV_HSBwVcw
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2584
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRCNp3LUCugTYUsoRsdkf-vbcPRCFv7eD_9Xomug-A9c/Bekanntmachung_Rat_18.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTu0cMFydUTeKDaP4xpjuE7p5v7V4ooH49hdnUfQfDC1/Oeffentliche_Niederschrift_Rat_18.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter aus den Verbänden und sonstigen Gremien
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der SPD-Fraktion vom 04.12.2014 hier: Ausschussumbesetzungen
+- TOP 5.2: Antrag der Fraktion B 90/Die Grünen vom 16.12.2014 hier: Ausschussumbesetzungen
+- TOP 6.: Einbringung des Entwurfs der Haushaltssatzung nebst Haushaltsplan und Anlagen für das Haushaltsjahr 2015
+- TOP 7.: Einbringung der Wirtschaftspläne für das Wirtschaftsjahr 2015
+- TOP 7.1: des Kommunalen Gebäudemanagements Leopoldshöhe
+- TOP 7.2: der Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP 7.3: des Abwasserwerkes Leopoldshöhe
+- TOP 7.4: des Wasserwerkes Leopoldshöhe
+- TOP 8.: Erlass einer Hebesatzsatzung für das Haushaltsjahr 2015 - - 31 Ja-Stimme(n), 1 Nein-Stimme(n), 3 Enthaltung(en) -
+- TOP 9.: Abfallentsorgung
+- TOP 9.1: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2015 - - einstimmig -
+- TOP 9.2: Änderung der Gebührensatzung zur Abfallentsorgungssatzung - - einstimmig -
+- TOP 10.: Friedhofsangelegenheiten hier: Änderung der Gebührensatzung zur Satzung über das Friedhofs- und Bestattungswesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 11.: KAG-Beitragssatzung
+- TOP 12.: Ortsrecht
+- TOP 12.1: Änderung der Geschäftsordnung für den Rat und die Ausschüsse der Gemeinde Leopoldshöhe hier: Teilnahmerechte von Ausschussmitgliedern
+- TOP 12.2: Änderung der Ordnung über die Zuständigkeiten in der Gemeinde Leopoldshöhe (Zuständigkeitsordnung) hier: Antrag der Fraktionen CDU, FDP und Bündnis 90/Die Grünen zur Biotopvernetzung in Leopoldshöhe
+- TOP 13.: Änderung der Betriebssatzung der Gemeinde Leopoldshöhe für das Abwasserwerk Leopoldshöhe vom 16.12.2009 - - einstimmig -
+- TOP 14.: Zukünftige Nutzung gemeindeeigener Räumlichkeiten
+- TOP 14.1: Zukünftige Nutzung gemeindeeigener Räumlichkeiten hier: Grundschule Asemissen - Abgesetzt
+- TOP 14.2: Festhalle und Turnhalle - - einstimmig -
+- TOP 15.: LEADER-Projekt
+- TOP 15.1: Bereitstellung der notwendigen Finanzmittel für die gesamte Förderperiode - - 33 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 15.2: Benennung der Leopoldshöher Vertreterinnen und Vertreter für die Lokale Aktionsgruppe - LAG - - 30 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 16.: Denkmalpflege - - einstimmig -
+- TOP 17.: Beratung und Beschlussfassung über eine Gewinnvorabausschüttung des Abwasser-werkes - - einstimmig -
+- TOP 18.: Jahresabschlüsse für das Wirtschaftsjahr 2013
+- TOP 18.1: Beratung und Beschlussfassung über den Jahresabschluss 2013 der LIL - - einstimmig -
+- TOP 18.2: Beratung und Beschlussfassung über den Jahresabschluss 2013 des KGL - - einstimmig -
+- TOP 18.3: Beratung und Beschlussfassung über den Jahresabschluss des Abwasserwerkes
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss des Abwasserwerkes - - einstimmig -
+- TOP 18.4: Beratung und Beschlussfassung über den Jahresabschluss des Wasserwerkes Leopoldshöhe
+- TOP -: Beratung und Beschlussfassung über den Jahresabschluss des Wasserwerkes Leopoldshöhe - - einstimmig -
