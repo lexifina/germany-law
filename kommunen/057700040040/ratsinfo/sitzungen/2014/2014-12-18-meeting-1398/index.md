@@ -1,0 +1,53 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2014-12-18T17:00:00+01:00
+- Ende: 2014-12-18T19:30:00+01:00
+- Ort: Spargeldiele Winkelmann, Nuttelner Straße 50, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRsrJm0pwTaEqdiYgpQrXZc
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1398
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR9YfgSUOnMkNZwfIrtcoo6HdvTK0ocKXkAH1o2tHaBI/Bekanntmachung_Rat_18.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYMIiM8QdEpwgW4mBdP4d1An8boVzn_35qhysFPGhEvW/Oeffentliche_Niederschrift_Rat_18.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Entwurf der Haushaltssatzung 2015 mit Haushaltsplan - Ohne Abstimmung
+- TOP 5.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Rahden (Hebesatzsatzung) - Ohne Abstimmung
+- TOP 6.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2013 - 35 Stimmen dafür, 0 dagegen, 2 Enthaltungen (Schmidt-Tschech, Sprado)
+- TOP 7.: Ersatzbeschaffung von Mannschaftstransportfahrzeugen (MTW) für die Löschzüge Rahden und Pr. Ströhen - 35 Stimmen dafür, 2 dagegen (Kröger, Zimmermann), 0 Enthaltungen
+- TOP 8.: Unterstützung für bedürftige Kinder und kinderreiche Familien - Ohne Abstimmung
+- TOP 9.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2013; hier: Feststellung des Jahresabschlusses - Einstimmig, 2 Enthaltungen (Schmidt-Tschech, Sprado)
+- TOP 13.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2013; hier: Feststellung des Jahresabschlusses - Einstimmig, 2 Enthaltungen (Schmidt-Tschech, Sprado)
+- TOP 14.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2013; hier: Feststellung des Jahresabschlusses - Einstimmig, 2 Enthaltungen (Schmidt-Tschech, Sprado)
+- TOP 15.: Verwendung des auf neue Rechnung für 2014 vorgetragenen Ergebnisses 2013 - Einstimmig, 0 Enthaltungen
+- TOP 16.: Aufstellung des Bebauungsplanes Nr. 84 "Gewerbegebiet Harting" sowie 75. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 75. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 17.: Neuausweisung des Naturschutzgebietes "Schnakenpohl" - 36 Stimmen dafür, 0 dagegen, 1 Enthaltung (Spreen)
+- TOP 18.: Abwasserbeseitigungskonzept der Stadt Rahden , Fortschreibung des Abwasserbeseitigungskonzeptes für die Jahre 2015 – 2020 - Einstimmig, 0 Enthaltungen
+- TOP 19.: Erlass einer neuen Entwässerungssatzung 2015 für die Stadt Rahden - 36 Stimmen dafür, 0 dagegen, 1 Enthaltung (Korte)
+- TOP 20.: Änderung der Satzung der Stadt Rahden über die Entsorgung von Grundstücksentwässerungsanlagen 2012 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Neufassung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bildung von Eingangsklassen im Schuljahr 2015/16 und Verteilung auf die Grundschulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 23.: Bekanntgaben
+- TOP 23.1: Haushalt
+- TOP 23.2: Feuerwehrgerätehaus Varl/Sielhorst
+- TOP 23.3: Sitzungskalender
+- TOP 24.: Verschiedenes
+- TOP 24.1: Europäischer Fonds für regionale Entwicklung (EFRE)
+- TOP 24.2: Fachmarktzentrum Weher Straße
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 25.: Grundstücksangelegenheiten
+- TOP 25.1: Grundstückverkauf von Behren
+- TOP 25.2: Alte Amtssparkasse
+- TOP 26.: Bekanntgaben
+- TOP 27.: Verschiedenes
+- TOP 27.1: Grundstückserwerb Fa. Harting
