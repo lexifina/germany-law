@@ -1,0 +1,60 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2014-12-18T17:00:00+01:00
+- Ende: 2014-12-18T19:44:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW-EDnB0CorNXvhi70qrbZ0
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/994
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZatmwi4PjRtUuqT3oc47eYDnVzORTmTyXLykAkvb1vRh/Bekanntmachung_Rat_18.12.2014.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQeHaNftLXuwzNauAhzVgIVoO9PDfP-CJqSqn9RXQAlW/Oeffentliche_Niederschrift_Rat_18.12.2014.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 11. Nov. 2014
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Erhalt des Zuwendungsbescheids über die Förderung einer Stelle für Klimaschutzmanagement
+- TOP 3.2: Verweisungsbeschluss
+- TOP 3.3: Kommunal- und Bürgermeisterwahlen in der Partnergemeinde Stawiguda (Polen)
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Verabschiedung der Schiedspersonen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Schülervertreter/in der Realschule Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Kindertagesstätten
+- TOP 5.1: Renovierung des Bewegungsraumes im Franziskus Kindergarten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Schulangelegenheiten
+- TOP 6.1: Umbaumaßnahme an der Erich-Kästner-Schule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kulturangelegenheiten
+- TOP 7.1: Antrag der "Freunde und Förderer der Alten Kirche zu Wallenhorst e.V." auf Bezuschussung für die Ersatzbeschaffung der Orgel - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 7.2: Jugendkulturangebot im Ruller Haus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Sportangelegenheiten
+- TOP 8.1: Antrag des Reit- und Fahrvereins Hollage e. V. auf Bezuschussung einer Investitionsmaßnahme - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Straßenbau
+- TOP 9.1: Sanierung der Straßen ´Rathausallee´, ´Alte Hofstelle´, ´Alte Webschule´ und ´Leinengasse´ im Bereich „Zentrum Wallenhorst“ - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 9.2: Straßen- und Kanalsanierung in der „Bergstraße“ zwischen ´Hollager Straße´ und ´Uhlandstraße´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Einrichtung Carsharing am Rathaus - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 10.2: Umbau Kreuzungsbereich „Am Pingelstrang/Stüvestraße/Pyer Kirchweg“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Sanierungsmaßnahme "Wallenhorst-Zentrum" hier: Alternative Zeitplanung für die Umbaumaßnahme "Große Straße – Nord" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Kämmereiangelegenheiten
+- TOP 11.1: Haushaltswirtschaft für das Jahr 2015 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2010 - Nachholung für den Bereich "Gewährung von Leistungsentgelten an Beamtinnen und Beamte" - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 11.3: Jahresabschluss für das Haushaltsjahr 2013 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2013 - Beratung und Entscheidung über die Entlastung des Bürgermeisters - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.4: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2013 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2013 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.5: Genehmigung zur Annahme einer Zuwendung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Satzungsrecht
+- TOP 12.1: Änderung der Friedhofssatzung der Gemeinde Wallenhorst - zurückverwiesen, mit 34 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 12.2: Änderung des Gebührentarifs der Friedhofsgebührensatzung der Gemeinde Wallenhorst vom 07.10.2010 - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung genommen.
+- TOP 12.3: Neufassung der "Satzung für die Freiwillige Feuerwehr in der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.4: Änderung der "Satzung über die Gewährung von Aufwandsentschädigung und Auslagenersatz der Ehrenbeamten und sonstigen ehrenamtlichen Funktionsträgerinnen und Funktionsträger in der Freiwilligen Feuerwehr der Gemeinde Wallenhorst" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Sonstige Kommunalangelegenheiten
+- TOP 13.1: Übertragung der Aufgaben des Fahrlehrergesetzes und der Aufgaben nach dem Berufskraftfahrerqualifikationsgesetz - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Beschluss über die Befreiung des Geschäftsführers von den Regelungen des § 181 BGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Wochenmarkt in Hollage
+- TOP 14.2: Sitzungsplanung 2015
