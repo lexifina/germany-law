@@ -28,7 +28,8 @@ Kapitel 5 Schutz bestimmter Teile von Natur und Landschaft
 § 21 | Verfahren, einstweilige Sicherstellung
 § 22 | Biotopschutz, ordnungsgemäße Gewässerunterhaltung
 § 23 | Naturschutzbuch, Kennzeichnungen
-§ 24 | Schutz des Netzes Natura 2000, Verträglichkeitsstudie
+§ 24 | Aufbau und Schutz des Netzes „Natura 2000“
+§ 24a | Verträglichkeitsstudie
 § 25 | Anzeigepflicht
 Kapitel 6 Artenschutz
 § 26 | Zuständige Naturschutzbehörde, Ermächtigung zum Erlass von Rechtsverordnungen
