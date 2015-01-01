@@ -1,0 +1,1 @@
+Auf Grund des Art. 2 Abs. 2 und des Art. 7 Satz 2 Nr. 1 des Bayerischen Ausbildungsförderungsgesetzes vom 20. Mai 1970 (GVBl. S. 183), geändert durch Gesetz vom 10. Juli 1972 (GVBl. S. 255), erläßt das Bayerische Staatsministerium für Unterricht und Kultus im Einvernehmen mit dem Bayerischen Staatsministerium des Innern folgende Verordnung:
