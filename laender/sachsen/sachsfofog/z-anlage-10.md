@@ -1,3 +1,7 @@
-# Anlage 10 (zu § 2 Abs. 1 Nr. 10)
-Zweck und Mittelverwendung des Sondervermögens „Darlehensfonds für KMU Sachsen“
-Der Fonds dient der Förderung von Maßnahmen kleiner und mittlerer Unternehmen (KMU) zur Markteinführung und Marktdurchdringung innovativer Produkte. Aus dem Fonds sollen Darlehen gewährt werden; die Darlehen können zur Finanzierung des Betriebsmittelbedarfs (und eventuell auch des Investitionsbedarfs) anlässlich der Marktvorbereitung, des Produktionsaufbaus und des Marketings der neuen Produkte eingesetzt werden.
+# Anlage 10 (zu § 2 Absatz 1 Nummer 10)
+Zweck und Mittelverwendung des Sondervermögens „Braunkohlesanierungsfonds Sachsen“
+Der Fonds dient der Finanzierung von Maßnahmen zur Sanierung von stillgelegten Braunkohletagebauen auf der Grundlage des Verwaltungsabkommens über die Regelung der Finanzierung der ökologischen Altlasten (VA Altlastenfinanzierung) vom 1. Dezember 1992 (BAnz. 1993 S. 2842), zuletzt geändert durch Verwaltungsabkommen vom 10. Januar 1995 (BAnz. 1995 S. 7905) und nachfolgender, ergänzender Verwaltungsabkommen über die Finanzierung der Braunkohlesanierung (VA Braunkohlesanierung) im Zeitraum 2013 bis 2017.
+Der Mitteleinsatz ist auf folgende Maßnahmen beschränkt:
+1. Maßnahmen der Sanierung der Altlasten in der Braunkohle im Rahmen der Rechtsverpflichtungen der Lausitzer und Mitteldeutschen Bergbau-Verwaltungsgesellschaft mbH (LMBV) als bergrechtlich verantwortliches Unternehmen, deren Finanzierung sich Bund und Land im Verhältnis 75 Prozent zu 25 Prozent teilen;
+2. weitere Sanierungsmaßnahmen zur Abwehr von Gefährdungen im Zusammenhang mit dem Wiederanstieg des Grundwassers sowie sonstige Maßnahmen im Zusammenhang mit der Braunkohlesanierung, deren Finanzierung sich Bund und Land im Verhältnis 50 Prozent zu 50 Prozent teilen.
+Der Mitteleinsatz dient dabei der Erfüllung der Kofinanzierungsverpflichtungen des Freistaates Sachsen, die sich aus dem jeweils geltenden VA Braunkohlesanierung ergeben.
