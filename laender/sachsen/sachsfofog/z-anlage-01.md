@@ -1,4 +1,6 @@
-# Anlage 1 (zu § 2 Abs. 1 Nr. 1)
+## § 10 (aufgehoben)
+## § 11 (aufgehoben)
+# Anlage 1 (zu § 2 Absatz 1 Nummer 1)
 Zweck und Mittelverwendung des Sondervermögens „Altlastenfonds Sachsen“
 Der Fonds dient der Finanzierung, Ausgestaltung und Durchführung von Maßnahmen im Bereich der Altlastensanierung.
 Der Mitteleinsatz ist auf folgende Zwecke beschränkt:
