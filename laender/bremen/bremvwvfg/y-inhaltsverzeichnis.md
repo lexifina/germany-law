@@ -39,6 +39,7 @@ Abschnitt 1 Verfahrensgrundsätze
 § 25 | Beratung, Auskunft
 § 26 | Beweismittel
 § 27 | Versicherung an Eides statt
+§ 27a | Öffentliche Bekanntmachung im Internet
 § 28 | Anhörung Beteiligter
 § 29 | Akteneinsicht durch Beteiligte
 § 30 | Geheimhaltung
