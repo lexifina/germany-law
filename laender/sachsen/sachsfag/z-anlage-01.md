@@ -2,7 +2,7 @@
 # Anlage 1 (zu § 7 Abs. 3)
 Übersicht über die Prozentsätze (Gewichtungsfaktoren) nach Einwohnern der kreisangehörigen Gemeinden gemäß § 7 Abs. 3
 Übersicht über die Prozentsätze
-Einwohner | Prozentsatz
+Einwohner | Prozentsatz (Gewichtungsfaktor)
 Einwohner | Prozentsatz (Gewichtungsfaktor)
 bis 1 500 | 100
 4 000 | 116
