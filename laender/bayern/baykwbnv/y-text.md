@@ -1,0 +1,1 @@
+Auf Grund des Art. 30 Abs. 2 des Gesetzes über kommunale Wahlbeamte und Wahlbeamtinnen (KWBG) vom 24. Juli 2012 (GVBl S. 366, BayRS 2022-1-I) erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
