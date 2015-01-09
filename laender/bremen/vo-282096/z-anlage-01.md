@@ -12,7 +12,7 @@ Anlage 1
  | Gesellschaft und Politik |  |  | 
  | Geografie, Geschichte, Politik | 17 |  | 
  | Wirtschaft, Arbeit, Technik (WAT) | 7 |  | 
- | Biblische Geschichte, Islamkunde, Philosophie | 6 |  | 
+ | Religion, Philosophie | 6 |  | 
  | Mathematik |  |  | 
  | Mathematik | 22 |  | 
  | Naturwissenschaften |  |  | 
