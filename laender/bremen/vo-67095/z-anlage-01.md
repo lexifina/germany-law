@@ -16,7 +16,7 @@ Anlage 1
  | Geschichte |  |  | 
  | Politik |  |  | 
  | Wirtschaft, Arbeit, Technik (WAT) | 4 |  | 
- | Biblische Geschichte, Islamkunde, Philosophie | 5 |  | 
+ | Religion, Philosophie | 5 |  | 
  | Mathematik |  |  | 
  | Mathematik | 19 |  | 
  | Naturwissenschaften |  |  | 
