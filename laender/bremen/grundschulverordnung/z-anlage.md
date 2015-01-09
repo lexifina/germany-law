@@ -6,7 +6,7 @@ Deutsch | 23 |  |  |
 Englisch | 4 |  |  | 
 Mathematik | 22 |  |  | 
 Sachunterricht einschl. Textilarbeit Technisches Werken | 18 |  |  | 
-Biblische Geschichte | 5 |  |  | 
+Religion | 5 |  |  | 
 Ästhetische Erziehung |  |  |  | 
 - Sport |  |  |  | 
 - Musik | 24 |  |  | 
