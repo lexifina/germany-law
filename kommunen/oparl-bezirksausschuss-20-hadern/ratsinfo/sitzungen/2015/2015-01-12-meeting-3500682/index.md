@@ -1,0 +1,95 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3500682
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3500682
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Bau und Wohnen
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, TSV München-Großhadern von 1926 e.V., Umstellung auf LED-Beleuchtung (Direktorium, 27.11.14) - <div>Abweichung von Referentenvorl.</div>
+- TOP 5.2.: Budget der Bezirksausschüsse, Forum Blumenau Soziale Kultur- und Werkgemeinschaft gGmbH, Klassikkonzerte für Kinder am 15.03. und 17.05.2015 (Direktorium, 18.12.14) - <div>nach Antrag</div>
+- TOP 3: Errichtung einer Freizeitanlage für Senioren am Stiftsbogen (Sommerstockbahn) (Baureferat, 18.12.14) - <div>nach Antrag</div>
+- TOP 4: (E) Errichtung eines gemeinsamen Geh- und Radweges entlang der Straßenbahnlinie 18 zwischen Senftenauerstraße und Gondrellplatz (Baureferat, 22.12.14) Empfehlung Nr. 14-20 / E 00149 der Bürgerversammlung des Stadtbezirkes 20 Hadern am 08.10.2014 - <div>nach Antrag</div>
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussvorlage für den Bauausschuss am 10.02.2015: Verlängerung der U5 nach Pasing (Ziffer 2 des Antrages) (Baureferat, 15.12.14)
+- TOP 6.2.: Evaluierung der Sondernutzungsrichtlinien (Kreisverwaltungsreferat, 02.12.14)
+- TOP 6.3.: Schlüsselblumenweg 7, Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), hier: Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag in die Denkmalliste (Referat für Stadtplanung und Bauordnung, 27.11.14) (vertagt aus 12/14)
+- TOP 6.4.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Unterarbeitskreises Blumenau von Regsam e.V. vom 26.11.2013, Sommerkonzert am 14.07.2012, Verlängerung des Bewilligungszeitraums (Direktorium, 15.12.14)
+- TOP 6.5.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 20. Stadtbezirk Hadern (Kommunalreferat, 16.12.14)
+- TOP 6.6.: Fürstenrieder Str. 170; Kurzparkzone (Kreisverwaltungsreferat, 19.12.14)
+- TOP 6.7.: Am Wiesenbach 6, Neubau 2er Mehrfamilienhäuser mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 22.12.14)
+- TOP 6.8.: Magnolienweg 17, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 22.12.14)
+- TOP 6.9.: München lebt interkulturelle Vielfalt - ein Angebot für Bezirksausschüsse
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Fürstenrieder Straße 270, 1 Salweide
+- TOP 7.2.: Kruckenburgstraße 36, 1 Birke
+- TOP 7.4.: Waldesruhe 5, 1 Eschen-Ahorn
+- TOP 7.5.: Windeckstraße 41, 1 Lärche und 1 Rotbuche
+- TOP 7.7.: Wildtaubenweg 4-12, 2 Winterlinden
+- TOP 7.9.: Am Hedernfeld 10, 1 Winterlinde
+- TOP 7.10.: Am Hedernfeld 12, 1 Winterlinde
+- TOP 7.11.: Am Hedernfeld 24, 1 Winterlinde
+- TOP 7.12.: Kleinhaderner Str. 37, 1 Linde
+- TOP 7.13.: Neufriedenheimer Str. 57, 2 Thujen
+- TOP 7.14.: Ossingerstr. 4, 1 Esche
+- TOP 7.15.: Am Wiesenbach 6, 1 Tanne
+- TOP 7.1.: Listen des Baureferates vom 27.11.14, 04.12.14, 08.12.14
+- TOP 7.16.: Magnolienweg 17, 3 Fichten, 1 Zwetsche, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Referat für Gesundheit und Umwelt, 10.12.14)
+- TOP 9: Antworten der Stadt
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Magnolienweg (Sozialreferat, 18.12.14) - Kornwegerstraße (Sozialreferat, 19.12.14)
+- TOP 9.2.: Radwege Kornweger- und Würmtalstraße (Baureferat, 26.11.14)
+- TOP 9.3.: Bauliche Mängel bei den Übergängen an den Radwegen in der Ossingerstraße (Baureferat, 19.12.14)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 9.4.: Waldwiesenstr. 31; Pkw-Parkzone (Kreisverwaltungsreferat, 19.12.14)
+- TOP 10.2.: Barrierefreier Umbau der Bushaltestelle Großhadern (MVG, 27.11.14)
+- TOP 10.1.: Durchquerung der Grünanlage am Ostrand der Fakultät für Chemie und Pharmazie (Ludwig-Maximilians-Universität, 05.12.14)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Dank für Zuschuss aus dem BA-Budget, Förderverein Kindergarten Fronleichnam e.V., Bau einer Doppelschaukel (Kindergarten Fronleichnam, 17.11.14)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01566 (nach Antrag idF vom 20.11.2014): Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" Dem Vermietungssystem wird dem Grunde nach zugestimmt. Das konkrete Konzept wird im 1. Quartal 2015 vorgestellt und diskutiert. Dabei wird geprüft, ob das System der SWM/MVG Bestandteil des Allgemeinen Personennahverkehrs ist und damit nicht den Sondernutzungsbestimmungen unterliegt (Punkt 1 idF des SPD-Antrages vom 11.11.2014, vom Referenten übernommen am 20.11.2014). Die SWM GmbH und die MVG werden beauftragt, Fahrradtypen, die die Mobilität behinderter Menschen befördern, oder sonstige Mobilitätshilfen im Verteilsystem zu testen (Punkt 2 neu idF des CSU-Antrages vom 11.11.2014, vom Referenten übernommen am 20.11.2014).
+- TOP 12.1.: Beschluss vom 17.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01715: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, insbesondere Schaffung einer Vollzeitstelle in der Abteilung ?Verkehrsplanung? des Planungsreferates (Seite 15-16, Abschnitt 6.1)
+- TOP 12.2.: Beschluss vom 17.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01817: Haushaltsplan 2015 - Ansätze der zentralen Bereiche - Schlussabgleich, insbesondere zur KiTa an der Marchioninistr. 1, Neubau einer Kinderkrippe (Ansatz 222.600,-- ?, Anlage 2, Seite 30, Nr. 361.2095.5) und zur Busbeschleunigung der Linie 56 (Ansatz 0,-- ?, ursprünglich 1.056.000,-- ?, Anlage 2, Seite 42, Nr. 960.8925.9)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 05.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01542 (nach Antrag): TSV München-Großhadern e.V. Sanierung der vereinseigenen Judohalle an der Heiglhofstraße 25 Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshauptstadt München iHv 20.100,-- ?. Das Erbbaurecht des Vereins läuft am 31.12.2039 aus. Der Verein hat 3.018 Mitglieder, davon 45% Jugendliche und 50% Frauen (Seite 1).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01223 (nach Antrag mit der Änderung, dass die Worte ?im Alter? durch ?mit Handicap? ersetzt werden): Ehrenpreis für guten Wohnungsbau Zustimmung zur Durchführung 2015 Das Planungsreferat wird beauftragt, den Ehrenpreis nach Auslobung in 2015 durchzuführen. Der Stadtrat stimmt der Namensänderung, der Neueinteilung in Kategorien, der Reduktion der Ehrenpreise von 18 auf 12 sowie der Neuzusammensetzung der ehrenamtlichen Gutachterkommission zu. Über die Verleihung der Preise entscheidet der Planungsausschuss.
+- TOP 12.2.: Beschluss des Kulturausschusses vom 04.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01804 (nach Antrag): Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2014 - 2018 und Stellungnahme zu den Anregungen der Bezirksausschüsse, insbesondere des BA Hadern (Seite 15-16) zum ?Kulturraum Haderner Stern, Guardinistraße? (Seite 12-13), zum ?Kulturbürgerhaus Max-Lebsche-Platz? (Seite 13, 15) und zur ?Errichtung eines Stadtteil-Museums/Archivs im ehemaligen Rathaus der Gemeinde Großhadern an der Würmtalstraße nach Verlegung des 1-gruppigen Kindergartens?, die vom Referat für Bildung und Sport abgelehnt wird (Seite 16). Auf den BA-Beschluss vom 14.4.2014, die Anträge der 3 Fraktionen, die alle angenommen worden sind (Anlage 3), und die Stellungnahme des Kulturreferats (Seite 15-16) wird Bezug genommen.
+- TOP 12.3.: Hinweis / Ergänzung vom 05.11.2014 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01656 (nach Antrag): Mehrjahresinvestitionsprogramm 2014 - 2018 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2014 - 2018 Infrastrukturversorgungskonzept 2014 - 2018 Das Projekt an der Sauerbruchstraße mit einer Geschossfläche von 15.970 m² ist seit 2012 realisiert. Weitere Siedlungsmaßnahmen sind in Hadern nicht vorgesehen (Anlage 1).
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Baourdnung vom 12.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01361 (nach Antrag): Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge, insbesondere zu den Lärm- und Abgas-Schutzmaßnahmen für die A96 (Anlage 9). Das Planungsreferat bereitet derzeit die Ausschreibung einer ?Vorstudie für eine Machbarkeitsuntersuchung zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation an der A96? vor (Beschluss vom 11.12.2013, Anlage 9).
+- TOP 12.5.: Beschluss des Bauausschusses vom 11.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01615 (nach Antrag): Mehrjahresinvestitionsprogramm für die Jahre 2014 - 2018 mit verbindlicher Planung für 2019; Entwurf für das Baureferat (Zusammenfassung siehe Tagesordnungsdokument)
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 13.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01667: Mehrjahresinvestitionsprogramm 2014 - 2018; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf, insbesondere zur vom BA Hadern geforderten ?Verlagerung des Sozialbürgerhauses für die Stadtbezirke 19 und 20 an den Ratzingerplatz? (Punkt 17 des BA-Antrages, Seite 6-7 der Beschlussvorlage ?BV-), zur vom BA Hadern geforderten ?Wiedereröffnung der Toilettenanlage am Lorettoplatz? (Punkt b des BA-Antrages, Seite 6-7 der BV) und zur vom BA Hadern geforderten ?Verwirklichung eines ASZ auf dem Gelände des Bebauungsplans 1817 (Stiftsbogen)? (Punkt n des BA-Antrags, Seite 6-8 der BV).
+- TOP 12.2.: Beschluss des Sozialausschusses vom 04.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01993: Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs, insbesondere zur Finanzierung der Härtefälle in den Nachbarschaftstreffs Kleinhadern (Na klar!) und Blumenau. Hierfür werden in 2015 bereits jetzt 226.160,-- ? für 8 Objekte bereitgestellt. Hiervon entfallen auf ?Kleinhadern? 29.000 + 7.100 = 36.100,-- ? für 2 Verwaltungskräfte (Seite 6, Abschnitt 3) und auf die ?Blumenau? 8.450,-- ? für eine ?Unterstützungskraft auf Honorarbasis oder im Rahmen der geringfügigen Beschäftigung?. Zusätzlich wird eine Honorarkraft für das Gartenprojekt mit 5.900,-- ? gefördert. Insgesamt werden also für 2 Honorarkräfte 14.350,-- ? bewilligt (Seite 4, Abschnitt 2.2.3; Seite 6, Abschnitt 3). Die zusätzlichen Mittel iHv 211.150,-- ? (8 Posten) werden vom Sozialreferat auf dem Büroweg bei der Stadtkämmerei beantragt (Punkt 1 des Referentenantrages, Seite 8).
+- TOP 12.4.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses vom 03.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01848: Mehrjahresinvestitionsprogramm (MIP) 2014 - 2018 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse (Zusammenfassung siehe Tagesordnungsdokument)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01995: Bericht zur Wohnungssituation in München 2012 - 2013, insbesondere in Hadern, wo es 2.534 Wohnungen im Einflussbereich der Stadt gibt (Seite 98).
+- TOP 1.1.: Wegeunterhalt westlich Max-Lebsche-Platz bis Stadtgrenze bzw. Am Klopferspitz
+- TOP 7: Baumschutz
+- TOP 7.3.: Sonnenblumenstraße 47, 1 Nussbaum
+- TOP 7.6.: Willibaldstraße 130 - 154, 1 Hainbuche, 2 Linden und 3 Ahornbäume
+- TOP 7.8.: Wildtaubenweg 16-24, 1 Spitzahorn, 1 Bergahorn, 1 Winterlinde
+- TOP 7.1.: Veilchenstraße 30, Fällung 1 Blaufichte und 1 Hainbuche, Baumveränderung an 1 Zypresse (Referat für Stadtplanung und Bauordnung, 15.12.14)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.2.: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (Sozialreferat, 27.11.14)
+- TOP 9.1.: Bauvorhaben Kultureller Mittelpunkt am Haderner Stern, Guardinistraße 90 (Kommunalreferat, 19.11.14)
+- TOP 11.2.: Terminankündigung - Regionale Wohnungsbaukonferenz am 18.03.2015 (Referat für Stadtplanung und Bauordnung, 17.12.14)
+- TOP 12.3.: Beschluss des Bauausschusses vom 09.12.2014 zur Sitzungsvorlage-Nr. 14-20 / V 02040: Straßenausbaubeitragssatzung abschaffen Der Beschluss steht für die Altfälle unter dem Vorbehalt der angeforderten Stellungnahme der Regierung von Oberbayern (Seite 5).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
