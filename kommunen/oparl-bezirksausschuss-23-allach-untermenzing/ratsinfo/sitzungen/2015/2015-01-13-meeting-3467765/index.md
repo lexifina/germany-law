@@ -1,0 +1,69 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-01-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467765
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467765
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.1.: Straßenbeleuchtung Spielplatz Ossannastraße (eigentlich Stieglstraße)
+- TOP 3: Anträge
+- TOP 4.1.: (E) Budget der Bezirksausschüsse SV München Untermenzing 1925 e.V. Beschaffung von Fußballtoren
+- TOP 5.1.: Bauleitplanung der Gemeinde Karlsfeld, B-Plan Nr. 98 "Jägerstraße" - Beteiligung BA 23
+- TOP 5.2.: Evaluierung der Sondernutzungsrichtlinien
+- TOP 5.3.: Neubau eines Mehrfamilienhauses - VORBESCHEID Achwaldstr. 7, Gemarkung: Allach, Fl.Nr.: 724/28
+- TOP 5.4.: Neubau 3er Mehrfamilienhäuser mit Tiefgarage - TEKTUR zu 1.2-2014.16018-42 Rueßstr. 45, Gemarkung: Untermenzing, Fl.Nr.: 597/0
+- TOP 5.5.: Vollzug der Wassergesetze; Planfeststellungsverfahren zur Realisierung des 2. Bauabschnitts: Bau eines Seitenarms der Würm und Endausbau der Grünanlage nach dem Rückbau des Allacher Sommerbades im 23. Stadtbezirk Allach-Untermenzing
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.11.14: Ehrenpreis für guten Wohnungsbau; Zustimmung zur Durchführung 2015 (Sitzungsvorlagen Nr. 01223)
+- TOP 6.3.: Beschluss des Bauausschusses vom 09.12.2014: a) Straßenausbaubeitragssatzung abschaffen (Sitzungsvorlage Nr. 02040) b) Bebauungsplan mit Grünordnung Nr. 2044 Gerberau (Südlcih), Bauschingerstraße (westlich), Otto-Warburg-Straße (Staatsstraße 2063) und zum Schwabenbächl (nördlich), Mannertstraße (östlich); Neubau der Straße U-1697 einschließlich eines neuen Quartiersplatzes und Umbau des Knotenpunktes Otto-Warburg-Straße / Bauschingerstraße; Neubau des West- und Ostteils der Straße Gerberau und Umbau des mit Dienstbarkeitsflächen festgesetzten Mittelstücks der Straße Gerberau (Sitzungsvorlage Nr. 1736) c) Fertigstellung der Radwegverbindung zur Langwieder Seenplatte (Sitzungsvorlage Nr. 1414)
+- TOP 7: Verschiedenes
+- TOP 8.3.: Schreiben Sozialreferat vom 15.12.14: Alten- und Service-Zentrum Allach-Untermenzing
+- TOP 8.4.: Schreiben Sozialreferat vom 15.12.14: Antrag auf Zweckentfremdung von Wohnraum, Allacher Str.
+- TOP 8.5.: Schreiben Baureferat vom 08.12.14: Zusätzliche Fahrradstellplätze auf der Ostseite der Unterführung am S-Bahn Haltepunkt Allach (+ S-Bahn-Haltepunkt Untermenzing)
+- TOP 8.6.: Schreiben Baureferat vom 05.12.14: Fitnessparcour an der Servetstraße
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 19.12.14: Europe Direct Informationen 06/2014
+- TOP 8.13.: Schreiben Abfallwirtschaftsbetrieb vom 02.12.14: Für den Containerstandplatz an der Feigstraße / Franz-Nißl-Straße wird als Einzelprojekt eine in den Boden versenkbare Müllstation gefordert
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (01.12.-07.12.14, 08.12.-14.12.14, 15.12.-21.12.14)
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Nätherstr. 8, Manzostr. 105, Manzostr. 106, Theodor-Fischer-Str. 11, Eversbuschstr. 46, Bergetstr. 24, Von-Kahr-Str. 23, Manzostr. 5, Finsterwalderstr. 7, Pfarrer-Grimm-Str. 47, Krautheimstr. 4, Finsterwalderstr. 6
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Verkehr in Zone 30 (Untermenzing)
+- TOP 9.2.: Antrag: Vorübergehender Park & Ride Parkplatz auf dem Grundstück Bauseweinallee Ecke Weinschenkstraße
+- TOP 9.3.: Umlauf: Schreiben Baureferat vom 22.12.14: Aufstellung eines Fahrradständers auf öffentlichem Grund, Willstätterstraße Anliegen von Bürgerinnen und Bürgern vom 24.11.14
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Dachauer Str. 667
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 18.12.14: Planfeststellung nach §§ 17, 17a FStrG i.V.m. Art. 72 ff. BayVwVfG für das Vorhaben A 92 München - Deggendorf; 6-streifiger Ausbau AD München-Feldmoching bis AK Neufahrn A92_100_0,975 bis A 92_140_3,280
+- TOP 9.6.: Verschiedenes: München lebt interkulturelle Vielfalt Ein Angebot für Bezirksausschüsse
+- TOP 9.7.: Containerstandort Hitlstr. 11 und Von-Reuter-Straße
+- TOP 9.8.: Stadtrats- und Ausschussbeschlüsse: Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 14.01.15: a) Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014/2015 (Sitzungsvorlage Nr. 02103) b) Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städt. Schulen besonderer Art und der Städt. Franz-Auweck-Abendschule; Schuljahr 2014/2015 (Sitzungsvorlage Nr. 02151) c) Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2014/2015 (Sitzungsvorlage Nr. 02129) d) Schüler/innen- und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2014/2015 Stand: 20.10.2014 (Sitzungsvorlage Nr. 02057)
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Bürgeranliegen
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.2.: Grundsicherung in der Arnoldstraße
+- TOP 2.3.: Schulweggerechter Ausbau der Theodor-Kitt-Straße
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.6.: Faschingsumzug Pfarrei Maria Himmelfahrt am 17.02.15
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14: Haushaltsplan 2015; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger": a) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 1362) b) des Stadtjugendamtes (Sitzungsvorlage Nr. 1349) c) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 1334) d) der Zentrale (Sitzungsvorlage Nr. 1336)
+- TOP 6.4.: Beschluss der Vollversammlung des Stadtrates vom 17.12.14: a) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlage Nr. 01715) b) Haushaltsplan 2015; -Ansätze der zentralen Bereiche -Schlussabgleich (Sitzungsvorlagen Nr. 01817)
+- TOP 7.1.: Infoabende Bauzentrum Januar bis April 2015
+- TOP 7.2.: Regionale Wohnungsbaukonferenz am 18.03.2015
+- TOP 7.3.: Einladung zur Festveranstaltung "10 Jahre Fachstellen häusliche Versorgung" am 22.01.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister vom 08.12.14: Behebung der Gefahrensituation Allacher Straße / Ecke Zwiedineckstraße (BV-Empf. 1369 der Bürgerversammlung vom 19.06.2012)
+- TOP 8.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.: Schreiben Baureferat vom 18.12.14: Wegen fehlender Beleuchtung Sturzgefahr am Bahnhofsausgang West
+- TOP 8.8.: Schreiben Referat für Arbeit und Wirtschaft vom 26.11.14: Schaffung von Sitzgelegenheiten an den S-Bahn-Haltepunkten Allach, Untermenzing und Karlsfeld für ältere Personen und Gehbehinderten
+- TOP 8.10.: Schreiben Stadtwerke München vom 08.12.14, 15.12.14: Baumaßnahmen
+- TOP 8.11.: Schreiben Kulturreferat vom 10.12.2014: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, flurnummer 81, 82, 82/2, 101/7 in Allach 2. Bürgerhaus für Allach-Untermenzing BA-Antrag 4680 Bürgerzentrum Allach-Untermenzing, BA-Antrag 4777 hier: Fristverlängerung
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 08.12.14 und 10.12.14: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
