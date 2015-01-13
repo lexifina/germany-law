@@ -1,0 +1,88 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484366
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484366
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer klinischen Einrichtung in der Maxvorstadt vom 26.11.2014 Der Zugang zum Anwesen Görresstraße 9 und 11 ist durch Fahrräder versperrt
+- TOP .2.: Schreiben eines Bürgers aus der Nymphenburger Straße vom 01.12.2014 Verpflichtender Aufenthalt von Fernbussen im ZOB zur Vermeidung von Abgas- und Feinstaubbelastung im Stadtgebiet
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 05.12.2014 Verlegung des Altkleidercontainer gegenüber Schellingstraße 157 in die Infanteriestraße 1
+- TOP .4.: Schreiben eines Bürgers aus der Maxvorstadt vom 08.12.2014 Parksituation in der Kardinal-Döpfner-Straße
+- TOP .5.: Schreiben eines Bürgers aus der Maxvorstadt vom 04.11.2014 ?Auto-Rennstrecke? Türkenstraße
+- TOP .6.: Schreiben einer Bürgerin aus der Maxvorstadt, eingegangen 10.12.2014 Brunnen für den Georg-Elser-Platz
+- TOP .7.: Schreiben eines Bürgers aus der Maxvorstadt vom 14.12.2014 Überwachung der Fahrradstraßen in der Maxvorstadt
+- TOP .8.: Schreiben einer Bürgerin aus der Maxvorstadt, eingegangen am 12.12.2014 Zebrastreifen über die Arcisstaße vor dem Altenheim der Diakonie in der Heßstraße 22; Betrieb von Heizpilzen vor verschiedenen Lokalen
+- TOP .9.: Schreiben eines Bürgers aus der Maxvorstadt vom 08.12.2014 Nachtinspektoren für das Universitätsviertel
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Versetzung der City-Light-Werbesäule vor dem Gebäude Türkenstraße 16
+- TOP .2.: Warum steht das Anwesen Adalbertstraße 31 noch immer leer? Kann dieses Anwesen zur Zwischennutzung (Winter) für Flüchtlinge oder Studierende genutzt werden?
+- TOP .3.: Neue Bäume für die Augustenstraße zwischen Briennerstraße und Karlstraße
+- TOP .4.: Angleichung der Geschwindigkeitsbegrenzungen in der Schellingstraße zwischen Schleißheimer Straße und Augustenstraße
+- TOP .5.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement, strategische Konzepte Auskunft über die Einrichtung einer Fahrradstraße in der Adalbertstraße ? warum dauert die Umsetzung so lange? BA-Antrag Nr. 08-14 / B 05512 vom 14.01.2014, Antwortschreiben des KVR
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag der SPD-Fraktion im BA 3 vom 20.12.2014 Überplanung des Geviertes zwischen Denisstraße 5, Karlstraße 77 ? 79 mit dem Ziel, dort Wohnraum entstehen zu lassen.
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Abgeschlossenheitsbescheinigungen: KW
+- TOP .2.: Sandstraße 41, Aufstockung eines Rückgebäudes
+- TOP .3.: Schleißheimer Straße 66 a, Speicherausbau zu einer Wohneinheit
+- TOP .4.: Dachauer Straße 36-38, Tektur zu 1.2-2014-21047-22, Aufstockung mit DG-Ausbau (Vorder- und Seitengebäude) sowie Errichtung eines neuen Treppenhauses vertagt aus der Sitzung vom 09.12.2014 (TOP B 2.1.14)
+- TOP .5.: Referat für Stadtplanung und Bauordnung Koordinationsstelle Kunstareal München, Kunst, Kultur, Wissen a) Sachstandsbericht b) weiteres Vorgehen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01761 vertagt aus der Sitzung vom 09.12.2014 (TOP B 5.6)
+- TOP .6.: Elisenstraße 3 ? 3a, Nutzungsänderung im 5. OG: 2 Hausmeisterwohnungen zu Büroflächen (Elisenstraße 3 + 3a / Prielmayerstraße 1 ? 3)
+- TOP .7.: Denisstraße 5, Neubau eines Gebäudekomplexes für Büro/Verwaltung und Hotel oder zusätzlich mit Verkaufsstätten und Showrooms für Gewerbe und Handwerk ? Vorbescheid a) Antrag 1 (Varianten 1 A und 1 B) b) Antrag 2 (Varianten 2 A und 2 B)
+- TOP .8.: Augustenstraße 57, Neubau einer Wohnanlage mit Kleingarage, Vorlage Freiflächenge- staltungsplan
+- TOP .9.: LBK-Listen der Bauvorhaben: 48., 49., 50., 51. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Direktorium Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk BA-Antrag Nr. 14-20 / B 00423 des BA 16 Ramersdorf-Perlach vom 07.10.2014 Antwort des Direktoriums vom 24.11.2014
+- TOP .2.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Antrag auf Fällung einer Fichte in der Heßstraße 49 Abdruck des Ablehnungsbescheids vom 28.11.2014
+- TOP .3.: Referat für Stadtplanung und Bauordnung Bericht zur Wohnungssituation in München 2012 ? 2013 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01995
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Antrag auf Fällung einer Kiefer in der Isabellastraße 8 Abdruck des Ablehnungsbescheids vom 16.12.2014
+- TOP .5.: Referat für Gesundheit und Umwelt, Umweltschutz, Immissionsschutz Vollzug des Budes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Reinigungs- arbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag der SPD-Fraktion im BA 3 vom 22.12.2014 In der Tillystraße soll der Radverkehr in beide Richtungen zugelassen werden, im An- schluss daran ebenfalls in der Georg-Schätzl-Straße
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Anhörung Ladezone Schleißheimer Straße 80
+- TOP .2.: Baureferat, Anhörung Veränderung der Verkehrssituation in der Tengstraße
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Austausch der Lichtzeichenanlage Nymphenburger-/Adamstraße
+- TOP .4.: Veränderung der Verkehrssituation in der Tengstraße, Anhörung Ergebnis des Ortstermins am 14.10.2014
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Kreisverwaltungsreferat, Anhörung Evaluierung der Sondernutzungsrichtlinien
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis, Freischankflächen a) Schleißheimer Straße 28, Weitergenehmigung einer Freischankfläche b) Schleißheimer Straße 69, Weitergenehmigung einer Freischankfläche c) Luisenstraße 22, Genehmigung einer Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Baureferat, Beschlussvorlage Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahn-Halt Donnersbergerbrücke im 3. Stadtbezirk Maxvorstadt, im 8. Stadtbezirk Schwanthaler- höhe und im 9. Stadtbezirk Neuhausen-Nymphenburg Beschluss des Bauausschusses vom 09.12.2014 Sitzungsvorlage Nr. 14-20 / V 00977
+- TOP .2.: Münchner Verkehrsgesellschaft mbH (MVG) Verbesserung der Verkehrssituation in der Görresstraße Schreiben der MVG vom 26.11.2014 (s. dazu TOP A 5.2.3/1114)
+- TOP .3.: Baureferat, Beschlussvorlage Straßenausbaubeitragssatzung abschaffen Antrag Nr. 14-20 / V 00097 der Herren Stadträte Hans Podiuk und Alexander Reissl Beschluss des Bauausschusses vom 09.12.2014 Sitzungsvorlage Nr. 14-20 / V 02040
+- TOP .4.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Aufhebung der Vorfahrtsregelung im Kreuzungsbereich Erzgießerei-/ Kreittmayrstraße
+- TOP .1.: Münchner SommerSpielAktion 2015, Spielen in der Stadt, Anhörung Planung der Einsätze der Münchner SommerSpielAktion 2015
+- TOP .1.: Sozialreferat Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs Produkt 4.1.7 Quartierbezogene Bewohnerarbeit Beschluss des Sozialausschusses vom 04.12.2014 Sitzungsvorlage Nr. 14-20 / V 01993
+- TOP .2.: Sozialreferat, Amt für Wohnen und Migration Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs Beschluss des Sozialausschusses vom 04.12.2014 Sitzungsvorlage Nr. 14-20 / V 01993
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Musiktheaterabende" Musiktheaterabende im Februar/März 2015
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Stadtkämmerei Haushaltsplan 2015, Ansätze der zentralen Bereiche, Schlussabgleich Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 Sitzungsvorlage Nr. 14-20 / V 01817
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Homepage/Newsletter des BA vertagt aus der Sitzung vom 09.12.2014 (TOP F.4)
+- TOP .4.: Kompetenzklärung im UA Planung und Umwelt vertagt aus der Sitzung vom 09.12.2014 (TOP F.10)
+- TOP .5.: Direktorium, Rückfrage Ausstattung des Bürgerbüros Schellingstraße 28 a mit zeitgemäßen Büromöbeln
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
