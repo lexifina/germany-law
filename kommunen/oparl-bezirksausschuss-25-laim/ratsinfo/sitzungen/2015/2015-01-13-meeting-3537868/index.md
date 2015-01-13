@@ -1,0 +1,101 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3537868
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3537868
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Rauchbelästigung durch Fabrik in der Straubinger Straße
+- TOP 1.2.2.: Wertstoffinsel Friedenheimer Straße
+- TOP 1.2.3.: Verkehrssituation Laimer Platz / Ecke Fürstenrieder Straße und Gotthardstraße sowie Verkehrsinsel Gotthardstraße / Reutterstraße
+- TOP 1.2.4.: Kleingartenanlage Wilhelm-Riehl-Straße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 13.11.14: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24.00 Uhr an Freitagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen
+- TOP 4.2.: Schreiben Spiellandschaft Stadt e.V. vom 26.11.14: Planung der Einsätze der Münchner SommerSpielAktion 2015
+- TOP 4.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.11.14: Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing; 1. Bekanntgabe des Untersuchungsergebnisses für Laim und Satzungsbeschluss Erhaltungssatzung "Laim", 2. Bekanntgabe des Untersuchungsergebnisses für das Zentrum Pasing; Anhörung zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung bzw. die Vollversammlung
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 08.12.14: Faschingstreiben am Laimer Anger am 14.02.15
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 03.12.14: Flohmarkt am 07.03.15 auf dem Hogenbergplatz
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 15.12.14: Flohmarkt am 14.03.15 auf dem Hogenbergplatz
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 11.12.14: Flohmarkt am 21.03.15 in der Grünanlage Von-der-Pfordten-Straße / Valpichlerstraße
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 03.12.14: Flohmarkt am 18.04.15 und 26.09.15 auf dem Hogenbergplatz
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 03.12.14: Flohmarkt am 09.05.15 und 19.09.15 auf dem Hogenbergplatz
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 02.12.14: Evaluierung der Sondernutzungsrichtlinien
+- TOP 4.11.: Schreiben Baureferat vom 15.12.14: Verlängerung der U-Bahn-Linie 5 West von Laim nach Pasing (u.a. Empfehlung Nr. 08-14 / E 01145 der Bürgerversammlung des Stadtbezirkes 25 Laim vom 15.11.11); Anhörung zu einer Beschlussvorlage für den Bauausschuss am 10.02.15
+- TOP 4.12.: Schreiben Baureferat vom 16.12.14: Projekt Stöberlstraße zwischen Perhamerstraße und Agnes-Bernauer-Straße; Fahrbahn- und Gehbahnsanierung
+- TOP 4.13.: Schreiben Baureferat vom 17.12.14: Neugesaltung des Bereichs Gotthardstraße / Fürstenrieder Straße (Empfehlung Nr. 08-14 / E 02117 der Bürgerversammlung vom 26.11.13); Beschlussfassung des Bezirksausschusses in den Sitzungen vom 03.06.14 sowie 04.11.14
+- TOP 4.14.: Reindlstr. 30; Antrag auf Fällung von 1 Pappel
+- TOP 4.15.: Schreiben Sozialreferat vom 22.12.14: München lebt interkulturelle Vielfalt; Ein Angebot für Bezirksausschüsse
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Behindertenbeirat der LH München vom 02.12.14: Einladung zum Treffen am 14.01.15
+- TOP 6.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.12.14: Terminankündigung - Regionale Wohnungsbaukonferenz am 18.03.15
+- TOP 6.3.: Gelände Zschokke - / Westendstraße; Bericht des Vorstandes
+- TOP 7: Protokolle
+- TOP 7.1.: Einwohnerversammlung für Kinder und Jugendliche am 14.11.14
+- TOP 7.2.: Sitzung UA Kultur vom 18.11.14
+- TOP 7.3.: BA-Sitzung vom 02.12.14
+- TOP 7.4.: Ortstermin des UA Umwelt und Verkehr vom 19.12.14 (Willibaldstraße)
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 24.11.14: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk (Antrag Nr. 14-20 / B 00423 des BA 16 Ramersdorf-Perlach vom 07.10.14)
+- TOP 8.2.: Schreiben Direktorium vom 04.12.14: Zuwendung aus dem Budget des BA 25; Verwendungsnachweis - Ausbildungsfahrt Streitschlichter, Antragsteller: STÜPS Laim, Schulsozialarbeit schule-beruf e.V.
+- TOP 8.3.: Schreiben Referat für Bildung und Sport vom 21.1.14: Präsentation - Informationsgespräch des Referates für Bildung und Sport am 18.11.14
+- TOP 8.4.: Schreiben Referat für Bildung und Sport vom 21.11.14: Bedarfsplanung für die Grundschulen - Steckbriefe
+- TOP 8.5.: Schreiben Referat für Bildung und Sport vom 26.11.14: Nutzung des städtischen Grundstücks Hogenberg- / Kirchmairstraße und des Gebäudes "ehem. Freibank" (Antrag Nr. 08-14 / B 05768 vom 11.03.14)
+- TOP 8.6.: Schreiben Referat für Bildung und Sport vom 15.12.14: Aufstellung von Containerbauten auf dem Gelände der Mittelschule an der Schrobenhausener Straße als Interimslösung bis zur Umsetzung eines Gesamtkonzeptes (Antrag Nr. 08-14 / B 05053 vom 31.07.13)
+- TOP 8.7.: Schreiben Stadtkämmerei vom 05.12.14: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2015
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 17.11.14: Schulweghelfer/in an der Kreuzung Gotthardstraße / Riegerhofstraße (Antrag Nr. 14-20 / B 00541 vom 04.11.14)
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 05.12.14: Vollzug der Grünanlagensatzung vom 15.06.12; Fotoaufnahmen auf dem Hogenberg- oder Fröbelplatz am 10.12.14
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 08.12.14: Betrieb von 9 Schank- und Speisewirtschaften; Landsberger Str. 214
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 15.12.14: Gaststätte "Rhodos"; Agnes-Bernauer-STr. 21; unveränderte Fortführung
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 15.12.14: Vollzug des Ladenschlussgesetztes (LadSchlG); verkaufsoffener Sonntag anlässlich 115-jähriger Eingemeindung
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 18.12.14: Schulweghelfer/in an der Kreuzung Gotthardstraße / Riegerhofstraße (Antrag Nr. 08-14 / B 00541 vom 04.11.14)
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 24.11.14: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 8.15.: Schreiben Referat für Gesundheit und Umwelt vom 28.11.14: Ausnahmezulassung 32. BImSchV; Filmdrehaufnahmen Endelhauserstr. 21 am 30.11.14
+- TOP 8.16.: Schreiben Referat für Gesundheit und Umwelt vom 04.12.14: Mobilfunk; Erweiterungsvorhaben am (an) bestehenden Mobilfunkstandort(en) mit LTE; hier: Willibaldstr. 27 a
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 10.12.14: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 09.12.14: Infoabende Januar bis April 2015
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 17.12.14: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 23.12.14: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.21.: Schreiben Städtische Beschwerdestelle Altenpflege vom 26.11.14: Bürgerforum vom 28.10.14; Infomaterial
+- TOP 8.22.: Schreiben Sozialreferat vom 27.11.14: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention
+- TOP 8.23.: Schreiben Sozialreferat vom 22.12.14: Zweckentfremdung von Wohnraum; Fürstenrieder Straße
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.11.14: Fürstenrieder Str. 70; Neubau Wohn- und Geschäftsgebäude (3 Varianten) - Vorbescheid (Fürstenrieder Str. 70 / Gotthardstr. 53)
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.12.14: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.11.-30.11.14
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.12.14: Fällungsantrag Riegerhofstr. 17
+- TOP 8.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.12.14: Fällungsantrag Endelhauserstr. 22
+- TOP 8.28.: Schreiben Baureferat vom 09.12.14: Baumbeseitigungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen und auf anderen städtischen Grundstücken; Freizeitsportanlage Riegerhofstr. 20
+- TOP 8.29.: Schreiben Baureferat vom 09.12.14: Baumbeseitigungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen und auf anderen städtischen Grundstücken; Grundschule Droste-Hülshoff-Str. 9
+- TOP 8.30.: Schreiben Baureferat vom 08.12.14: Baumbeseitigungen und Gehölzpflegemaßnahmen an Straße und in öffentlichen Grünflächen im Stadtbezirk
+- TOP 8.31.: Schreiben Baureferat vom 18.12.14: Umgestaltung Willibaldplatz; Vorlage konkreter Planungsunterlagen mit Zeitplan zur Realisierung (Antrag Nr. 14-20 / B 00408 vom 07.10.14)
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 18.11.14: Baumaßnahmen der SWM; Stromprojekt Agricolaplatz / Perhamerstraße NTS
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 21.11.14: Information MVG Rad
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 15.12.14: Baumaßnahmen der SWM; Stichtag: 15.12.14
+- TOP 8.35.: Bautenliste vom 17.11.-23.11.14 1. Erstantragsverfahren a) Schrottstr. 27
+- TOP 8.36.: Bautenliste vom 24.11.-30.11.14 1. Erstantragsverfahren a) Stroblstr. 19 b) Gotthardstr. 52
+- TOP 8.37.: Bautenliste vom 15.12.-21.12.14 1. Erstantragsverfahren a) Geßlerstr. 23 b) Agnes-Bernauer-Str. 85
+- TOP 8.38.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 11.11.14: Barrierefreiheit der U-Bahnhöfe (Antrag Nr. 14-20 / B 00127 des BA 25 vom 01.07.14) (Sitzungsvorlage Nr. 14-20 / V 01040)
+- TOP 8.39.: Beschluss der Vollversammlung vom 20.11.14: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" (Sitzungsvorlage Nr. 14-20 / V 01566)
+- TOP 8.40.: Beschluss der Vollversammlung vom 20.11.14: Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015 (Sitzungsvorlage Nr. 14-20 / V 01223)
+- TOP 8.41.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.14: Bericht zur Wohnungssituation in München 2012-2013 (Sitzungsvorlage Nr. 14-20 / V 01995)
+- TOP 8.42.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.14: Mehrjahresinvestitionsprogramm (MIP) 2014-2018, 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; 2. Stellungnahmen der Bezirksausschüsse (Sitzungsvorlage Nr. 14-20 / V 01848)
+- TOP 8.43.: Beschluss des Bauausschusses vom 09.12.14: Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim (Empfehlung Nr. 08-14 / E 00198 der Bürgerversammlung des 25. Stadtbezirkes Laim am 25.11.08); Fahrradproblematik am Laimer Tunnel: Schaffung von ausreichend und wetterfesten Abstellflächen außerhalb des Tunnels (Empfehlung Nr. 08-14 / E 00440 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.11.09); Ausarbeitung alternativer Parkmöglichkeiten für bis zu 1500 Fahrräder an der Laimer Unterführung (Empfehlung Nr. 08-14 / E 00465 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 24.11.09); Laimer Unterführung: Errichtung von doppelstöckigen Fahrradabstellanlagen (Empfehlung Nr. 08-14 / E 02104 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 21.11.13) (Sitzungsvorlage Nr. 14-20 / V 01379)
+- TOP 8.44.: Beschluss des Bauausschusses vom 09.12.14: Straßenausbeibeitragssatzung abschaffen (Sitzungsvorlage Nr. 14-20 / V 02040)
+- TOP 8.45.: Beschluss der Vollversammlung vom 17.12.14: Strukturelles Umsetzungskonzept für Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlage Nr. 14-20 / V 01715)
+- TOP 8.46.: Schreiben Kath. Pfarrei zu den Heiligen Zwölf Aposteln vom 01.09.14: Zuwendung aus dem Budget des BA 25; Verwendungsnachweis - Sommerfest 2014
+- TOP 8.47.: Schreiben PA / Spielen in der Stadt e.V. vom 28.10.14: Zuwendung aus dem Budget des BA 25; Verwendungsnachweis - Spielbusse "Bauklötze" am 05.06. - 06.06.14 und "Artmobil" aqm 02.07.-04.07.14
+- TOP 8.48.: Schreiben Deutscher KinderschutzBund Ortsverband München e.V. vom 14.11.14: Zuwendung aus dem Budget des BA 25; Kurzbericht über Offene Spielaktion "Wie wohnen wir hier und anderswo?" vom 17.09.-26.09.14
+- TOP 8.49.: Schreiben STÜPS vom 26.11.14: Zuschuss aus dem Budget des BA 25; Kurzbericht über Ausbildungsfahrt der Streitschlichter
+- TOP 8.50.: Schreiben Förderverein Kindergarten Fronleichnam e.V. vom 17.11.14: Budget des BA: Zuschuss zur Doppelschaukel
+- TOP 8.51.: Münchner Statistik, 3. Quartalsheft Jahrgang 2014
+- TOP 8.52.: Schreiben GWG vom Dezember 2014: Energiebericht 2013 und Inforamtionsbroschüre "Wohnlabor 2014"
+- TOP 1.2: Bürgerpost an den BA
