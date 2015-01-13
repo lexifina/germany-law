@@ -1,0 +1,7 @@
+# TOP .3.: Referat für Stadtplanung und Bauordnung Bericht zur Wohnungssituation in München 2012 ? 2013 Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.2014 Sitzungsvorlage Nr. 14-20 / V 01995
+
+- Sitzung: BA 03 - Vollgremium (2015-01-13)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/392163
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/392163
