@@ -1,0 +1,116 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533298
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533298
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Spixstraße / Wirtstraße - Tempo 30 oder Fußgänger-Ampel an der Ecke Spixstraße / Wirtstraße; Bürgerantrag
+- TOP 2.2.: Parkplätze in München, hier: Weißenseestraße; Bürgeranliegen vom 16.12.2014
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Wirtstraße 2, 1 Winter-Linde, 1 Zierkirsche; Antrag vom 29.11.2014
+- TOP 2.2.: Tegernseer Landstraße 114, 1 Winter-Linde, 1 Zierkirsche; Antrag vom 29.11.2014
+- TOP 2.3.: Kiesmüllerstraße 17, 1 Schwarzkiefer; Antrag vom 08.12.2014
+- TOP 2.4.: Schwarzenbacherstraße 24, 1 Spitzahorn; Antrag vom 16.12.2014
+- TOP 2.5.: Kulmbacher Platz 4, 1 Akazie; Antrag vom 01.12.2014
+- TOP 2.6.: St.-Martin-Str. 54, 2 Robinien; Antrag vom 05.12.2014
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Eltern-Kind-Initiative Mäcki Löffel e.V., für die Maßnahme: Theaterpädagogisches Projekt ab Februar 2015; Antragssumme: 712,50 ?; Beschlussvorlage des Direktoriums vom 18.12.2014 (FF: UA FSA)
+- TOP 5.2.: AntragtstellerIn: Urbanes Wohnen e.V., für die Maßnahme: Entstehung eines ?urbanen Naturnetzes? bis Herbst 2015; Antragssumme: 400,00 ?; Beschlussvorlage des Direktoriums vom 15.12.2014 (FF: UA Umwelt u. Gesundheit)
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Elternbeirat der Grundschule an der Ichostraße, für die Maßnahme: Umgestaltung des Pausenhofs; Antragssumme: 3.238,96 ?; Antrag vom 18.12.2014 (FF: UA FSA)
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Bebauungsplan Nr. 2037 Europäische Schule - Verlegung des Eingangs des ESM-Kindergartens ans Nordende der Anlage; BV-Empfehlung Nr. 14-20 / E 00035 - Platzgestaltung S-Bahnhof Fasangarten; Aufenthaltsmöglichkeiten auch für Jugendliche; BV-Empfehlung Nr. 14-20 / E 00037 - Erhaltung eines homogenen, reinen Wohngebiets, Einpassung des geplanten Bauvorhabens in die vorhandene Wohnbebauung; BV-Empfehlung Nr. 14-20 / E 00038 - Öffnung u. Verlängerung der Herbert-Quandt-Straße; BV-Empfehlung Nr. 14-20 / E 00039; Beschlussentwurf des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 16.01.2015
+- TOP 0.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076, Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77, 892 und 1995); Zuleitung des Referates für Stadtpl. u. Bauordnung vom 12.12.2014 mit der Bitte um Stellungnahme zu den übermittelten Planunterlagen bis 28.01.2015
+- TOP 0.3.: 6.1.3.2 Anhörungen zu Bauvorhaben im Einzelfall 6.1.3.2.1 Bad-Berneck-Straße 7, Neubau eines Vierspänners mit 4 Carports; Anhörung vom 04.12.2014 (vertagt aus der Sitzung vom 09.12.2014) 6.1.3.2.2 Tegernseer Landstraße 36, Umbau u. Modernisierung eines Gebäudes, Teilausbau des 2. DGs, Einbau von Dachgauben und eines Aufzugs sowie Erneuerung der Balkone - TEKTUR; Anhörung vom 16.12.2014 6.1.3.2.3 Deisenhofener Str. 4, Umbau von Wohneinheiten im EG, z. T. mit Erweiterung um Flächen im KG; Erweiterung einer DG-Wohnung um Flächen im Dachspitz u. Neubau einer Dachterrasse, Einbau von DFF; Neubau einer DG-Wohnung mit Galerie im Dachspitz, Neubau Gaube u. Einbau von DFF, Einbau eines Innenlifts, Abbruch von Bestandsbalkonen, Balkonneubau und -vergrößerung, Wintergartenanbau; Anhörung vom 16.12.2014 6.1.3.2.4 Weinbauernstraße 16, Neubau eines geförderten Wohnhauses , einer Tiefgarage und von Künstlerateliers im Hof - VORBESCHEID; Anhörung vom 17.12.2014
+- TOP 0.1.: Bericht zur Wohungssituation in München 2012 - 2013; Sitzungsvorlagen Nr. 14-20 / V 01995; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung vom 03.12.2014
+- TOP 0.2.: Baufälle im 17. Stadtbezirk
+- TOP 0.3.: Straßenausbaubeitragssatzung abschaffen; Stadtratsantrag Nr. 147-20 / A 00097 vom 11.07.2014; Sitzungsvorlage Nr. 14-20 / V 02040; Beschluss des Bauausschusses vom 09.12.2014 (VB)
+- TOP 0.4.: Städtisches Klinikum München GmbH; Sitzungsvorlage Nr. 14-20 / V 01752; Entwurf der Beschlussvorlage für die Sitzung des Finanzausschusses am 16.12.2014
+- TOP 0.5.: Errichtung eines Lärmschutzes in der Warthofstraße; Bürgeranliegen aus der Oktober-Sitzung des BA 17; Antwortschreiben des Staatlichen Bauamtes vom 17.12.2014
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Erster Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention; Schreiben des Sozialreferates vom 27.11.2014
+- TOP 0.2.: Planungen zur Erweiterung der Grundschule an der Weißenseestraße; Informationen des RBS vom 05.12.2014
+- TOP 0.3.: Errichtung des Pfarrverbandes "Maria Königin der Engel"; Information des Erzbischöflichen Ordinariates München
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 1: (E) Einhaltung des Tempo-30-Limits in der Siedlung am Perlacher Forst Empfehlung Nr. 14-20 / E 00031 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014
+- TOP 2: (E) Tempo 30, Kreuzung Zugspitzstraße / St.-Martin-Straße/Herzogstandstraße Empfehlung Nr. 14-20 / E 00023 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014 BA-Antrags Nr. 14-20 / B 00083 des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 10.06.2014 - <div>nach Antrag</div>
+- TOP 2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Weinbauernstraße 4; Zuleitung des KVR vom 08.12.2014 mit der Bitte um Stellungnahme bis 22.01.2015
+- TOP 2.2.: Erinnerungsverfahren Tegernseer Landstraße (McGraw-Graben) zwischen HausNr. 176 und 328; Fahrbahnsanierung Decke und Binder; Zuleitung des Baureferats-Tiefbau mit der Bitte um Zustimmung
+- TOP 2.1.: Verkehrssituation (ruhender Verkehr) in der Arzberger Straße 4; Anbringung von Kunststoffpollern am Gehwegrand; Schreiben des BA 17 vom 17.10.2014; Antwortschreiben des Baureferats-Tiefbau vom 26.11.2014
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Oberaudorfer Straße - Haltverbot; verkehrsrechtliche Anordnung nach 3 45 StVO; Mitteilung des KVR
+- TOP 2.4.: Machbarkeitsstudie Mittlerer Ring, Abschnitt Tegernseer Landstraße; Kurzfassung des Referates für Stadtpl. u. Bauordnung; Zuleitung vom Dezember
+- TOP 2.1.: Informationsveranstaltung für die Bewohner und Geschäftsleute in der Tegernseer Landstraße zum Umbau der Trambahngleise in der nördlichen und südlichen Tegernseer Landstraße; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 1: (E) Bessere Kontrollen durch die UNB für geforderte Baumersatzpflanzungen Empfehlung Nr. 14-20 / E 00048 der Bürgerversammlung des Stadtbezirkes 17 ? Obergiesing-Fasangarten ? am 05.06.2014
+- TOP 1.1.: Werstoffcontainerstandort Brecherspitzstraße 8, Verlegung der Werstoffinsel auf die gegenüberliegende Straßenseite; Zuleitung des AWM mit der Bitte um Stellungnahme bis zum Ende der 4. KW 2014
+- TOP 1.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Fa. Ammer Entsorgungs GmbH & Co. KG, Herbert-Quandt-Str. 9; Information des RGU vom 03.12.2014
+- TOP 1.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 6.4.4.1.1 Eslarner Straße 23; Genehmigungsbescheid vom 02.12.2014 6.4.4.1.2 Arzberger Straße 22; Bescheid vom 03.12.2014 6.4.4.1.3 Pennstraße 62; Bescheid vom 03.12.2014 6.4.4.1.4 Raintaler Str. 21; Bescheid vom 16.12.2014
+- TOP 1.3.: Aktionsprogramm zum Umgang mit dem Laubholzbockkäfer im 16. Stadtbezirk; BA-Antrag Nr. 14-20 / B 00423 des BA 16 vom 07.10.2014; Schreiben des Direktoriums vom 24.11.2014
+- TOP 1.4.: Lärmbelästigungen durch lose Kanaldeckel auf der Tegernseer Landstraße; Antwortschreiben der Münchner Stadtentwässerung vom 09.12.2014 zu einer Bürgerbeschwerde
+- TOP 1.5.: Aufstellung von mehr Abfallbehältern und Behältern mit Hundekottüten in der Siedlung am Perlacher Forst; Empfehlung Nr. 14-20 / E 00032 der BÜV des 17. Stadtbezirkes vom 05.06.2014; Beschluss des BA 17 aus der Sitzung vom 09.09.2014; Entscheidung des Oberbürgermeisters vom 25.11.2014
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Kurzbericht zum St.-Quirin-Fest am Donnerstag, den 03. Juli 2014; Zuleitung der Arbeitsgemeinschaft St.-Quirin-Fest Giesing
+- TOP 0.2.: Neuauflage des KulturGeschichtsPfads 17 Obergiesing-Fasangarten; BA-Antrag Nr. 14-20 / B 00559 vom 11.11.2014; Antwortschreiben des Kulturreferats vom 11.12.2014
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen in den Monaten Juni - August bis 24.00 Uhr an Feiertagen und Samstagen sowie an Tagen vor gesetzlichen Feiertagen; Schreiben des KVR mit der Bitte um Stellungnahme bis 30.01.2015 (vertagt aus der Sitzung vom 09.12.2015) zu 6.6.3.1 Antwort des KVR zur Nachfrage bzgl. Lärmbeschwerden während der Pilotphase
+- TOP 0.2.: Evaluierung der Sondernutzungsrichtlinien; Schreiben des KVR vom 02.12.2014 mit der Bitte um Stellungnahme bis 26.01.2015
+- TOP 0.1.: Haushaltsplan 2015 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 14-20 / V 01817; Beschluss des Finanzausschusses vom 16.12.2014 (SB)
+- TOP 0.2.: Interimslösung Nahversorger in der Siedlung Am Perlacher Forst; Zwischennachricht des Referates für Arbeit und Wirtschaft vom 18.12.2014 zum Schreiben des BA 17 vom 15.09.2014
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Zuteilung einer städtischen Mailadresse an Bezirksausschussvorsitzende; Schreiben des Direktoriums vom 09.12.2014 mit der Bitte um Stellungnahme bis 31.01.2015
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 0.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Antrag auf Einrichtung eines Sozialfonds für die - Grundschule Ichostraße - Grundschule Lincolnstraße - Grundschule St.-Martin-Straße - Grundschule Weißenseestraße - Mittelschule Cincinnatistraße - Mittelschule Ichostraße - Mittelschule Perlacher Straße Schreiben der Grundschule Ichostraße vom 01.12.2014 unter Bezugnahme auf die Giesinger Schulleitungsrunde am Montag, den 17.11.2014
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
