@@ -1,0 +1,86 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-01-14T17:00:00+01:00
+- Ende: 2015-01-14T20:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3545
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3545
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=81024
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 1.1: Resolution der BVV Reinickendorf aus Anlass der Attentate in Frankreich - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 37. Sitzung der BVV am 14.01.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 37. Sitzung der BVV am 14.01.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 37. Sitzung der BVV am 14.01.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Schulentwicklungsplanung in Reinickendorf - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Kiefheider Weg (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Ladestationen für Elektromobile an Straßenbeleuchtungsmasten prüfen! (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Schutzstreifen Hennigsdorfer Straße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) - (Zwischenbericht) - überwiesen
+- TOP 7.5: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (2) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Ampelschaltung an der Karolinenstraße/Waidmannsluster Damm überprüfen - überwiesen
+- TOP 7.7: Horte an Förderzentren in Reinickendorf einrichten - überwiesen
+- TOP 7.8: Buslinie 133 neuer Halt auf Areal am Borsigturm (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-39B vom 10. Oktober 2012 für die Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66,68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 7.10: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-55 für die Grundstücke Glienicker Straße 6, Schloßstraße 28A, für eine Teilfläche des Bahnhofplatzes, für eine Teilfläche des S-Bahnhofs Hermsdorf mit dem nördlichen Empfangsgebäude und für Teilflächen der anliegenden Glieni-cker Straße und der Schloßstraße im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Haushaltsbeschlüsse umsetzen! - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Übertragung des Betriebes und der Unterhaltung der mobilen Kinderfreizeiteinrichtung "Spielmobil Bollerwagen" im Bezirk Reinickendorf durch einen anerkannten freien Träger der Jugendhilfe voraussichtlich ab 01.03.2015 gemäß § 12 Abs. 2 Nr. 10 Bezirksverwaltungsgesetz - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Verkehrssicherheit im Tegeler Kiez (3) - Verkehrssicherheit Bernstorffstraße Ecke Buddestraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Öffnung von Einbahnstraßen für den Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Zusammenarbeit mit OSZ Bau - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Fahrradparkhaus in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Radverkehrsstrategie des Senats unterstützen - erledigt
+- TOP 10.8.1: Radverkehrsstrategie des Senats unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Sicher Radfahren auf dem Hermsdorfer Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Gelände- und Übersichtspläne für den Freizeitpark Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Programm Stadtumbau West für das Umfeld des Flughafens Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Broschüre - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Ampelschaltzeiten Schulzendorfer Straße Ecke Hermsdorfer Damm anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Wildunfälle vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Lärmschutz beim Glasrecycling - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Tag der Menschen mit und ohne Behinderung 2015 - erledigt
+- TOP 10.17: Schaffung einer Mittelstreifenquerung in der Klemkestraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Zusätzliche Fahrradständer am U-Bahnhof Residenzstraße aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kiezfonds I - überwiesen
+- TOP 12.2: Kiezfonds II - überwiesen
+- TOP 12.3: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 1 - überwiesen
+- TOP 12.4: Bezirksplanung zur kurz- und mittelfristigen Unterbringung von Flüchtlingen in Reinickendorf - überwiesen
+- TOP 12.5: "Im Brachfeldwinkel" asphaltieren - überwiesen
+- TOP 12.6: Sexistische Werbung in Wirtschaft und Sport - überwiesen
+- TOP 12.7: Wanderweg am Tegeler Fließ begehbar halten - überwiesen
+- TOP 12.8: Sicherstellung von Schuleingangsuntersuchungen für Flüchtlingskinder - überwiesen
+- TOP 12.9: Kinder-BVV fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kiezfonds III - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Palliativversorgung in Reinickendorf - überwiesen
+- TOP 13.2: Geeignete Angebote für Schüler mit Verhaltensauffälligkeiten entwickeln - überwiesen
+- TOP 13.3: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 2 - überwiesen
+- TOP 13.4: Auswirkungen von geplanten Handelsabkommen auf Bezirkshandeln deutlich machen - überwiesen
+- TOP 13.5: Videoüberwachung auf Reinickendorfer S-Bahnhöfen verstärken - überwiesen
+- TOP 13.6: 10- Minuten Takt bei der Buslinie 122 - überwiesen
+- TOP 13.7: Erwerb der BImA-Grundstücke durch das Land Berlin - überwiesen
+- TOP 13.8: Dem "Lehrer-burn-out" vorbeugen - überwiesen
+- TOP 13.9: Berliner Krankenhausplan - überwiesen
+- TOP 13.10: Rechte und Pflichten der Patientenfürsprecher detaillierter regeln - überwiesen
+- TOP 13.11: U6 und U8 während Tunnelsperrung ertüchtigen - ohne Änderungen in der BVV beschlossen
