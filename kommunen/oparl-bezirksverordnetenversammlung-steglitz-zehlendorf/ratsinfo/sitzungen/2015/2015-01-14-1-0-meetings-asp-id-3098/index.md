@@ -1,0 +1,65 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-01-14T17:00:00+01:00
+- Ende: 2015-01-14T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3098
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3098
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Angeblicher Personalmangel im Bauamt - beantwortet
+- TOP 3.2: Sanierung Fichtenberg-Oberschule - beantwortet
+- TOP 3.3: Wann werden die Südender und ihre Gäste geschützt? - beantwortet
+- TOP 3.4: Einschränkung Öffnungszeiten von Schwimmbädern - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung einer Bürgerdeputierten im Sozialausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.1: Wahl eines Bürgerdeputierten im Sozialausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6 - 34 B (Südl. Finkenpark / Dahlem) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4.1: U 3 verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Keine nächtliche Randale in Zehlendorf-Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Steuermittel z. B. für Schulen verwenden und nicht für die Errichtung von Gefahrenstellen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Benennung des Platzes vor dem Rathaus in Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: "Wir sind das Volk" - Kranz zum 18. März stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Bürgeramt ohne Terminvereinbarung! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Beete am Hermann-Ehlers-Platz begrünen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Günstigen Wohnraum bereitstellen - in der BVV abgelehnt
+- TOP 4.5.7: Sanierung Doppelstubenhaus in Albrechts Teerofen 8 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Fuß- und Radfahrerbrücke über den Teltowkanal an der Teltowwerft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Anmeldungen für die Investitionsplanung 2015 bis 2019 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Häufig gestellte Fragen (FAQ) zur Unterbringung von Flüchtlingen in Steglitz-Zehlendorf auf der Internetseite des Bezirks - überwiesen
+- TOP 5.2.2: Zentral- und Landesbibliothek nach Dahlem - überwiesen
+- TOP 5.2.3: Baugenehmigungen unter Berücksichtigung DIN-Norm 18920 (Baumschutz auf Baustellen) - überwiesen
+- TOP 5.2.4: Skulpturenpark an Schwartzscher Villa - überwiesen
+- TOP 5.2.5: Investitionsplanung 2015 - 2019: 20 % zusätzlich für den Schulbereich verwenden! - überwiesen
+- TOP 5.2.6: "Mitternachtssportmöglichkeiten" im Bezirk einführen - überwiesen
+- TOP 5.2.7: Öffentliches Eigentum gemeinnützig reparieren - überwiesen
+- TOP 5.2.8: Schulentwicklung "Campus Dreilinden" - überwiesen
+- TOP 5.2.9: Standort für das Beratungs- und Unterstützungs-Zentrum (BUZ) in der Plantagenstraße - überwiesen
+- TOP 5.2.10: Maßnahmen nach dem Sonderprogramm 2014 für Schulen ausführen - überwiesen
+- TOP 5.2.11: Instandsetzung der Toiletten auf dem Waldfriedhof Zehlendorf - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Große Anfragen - erledigt
+- TOP 6.1.1: Unnötige Kosten und übertriebener Aufwand im JobCenter - beantwortet
+- TOP 6.2: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.1: Drugchecking - in der BVV abgelehnt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Aktuelle Situation von Asylbewerbern im Bezirk - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Geschütztes Marktsegment ausweiten - in der BVV abgelehnt
+- TOP 9: Schlusswort des Vorstehers - erledigt
