@@ -1,0 +1,84 @@
+# 28. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-01-14T17:30:00+01:00
+- Ende: 2015-01-14T18:45:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4720
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4720
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=64826
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: "Nous sommes Charlie - Solidarität mit den Opfern von Anschlag und Geiselnahme in Frankreich" - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 1.9: Nachwahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Kultur und Weiterbildung - gewählt
+- TOP 1.10: Nachwahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Wirtschaft, Gleichstellung und Städtepartnerschaften - gewählt
+- TOP 1.11: Anmeldung des Bezirks Pankow zur Investitionsplanung 2015 bis 2019 - überwiesen
+- TOP 1.12: Engagement der BVV in der Europaregion POMERANIA - in der BVV abgelehnt
+- TOP 1.13: Käthe Kollwitz Plastik ›Mutter mit zwei Kindern‹ schützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Elterninformation bei Hortgutscheinen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Duldung des Vereins „THEMA e.V.“ bis zum 28. Februar 2015 in den Räumen von „H.o.F. 23“ - in der BVV abgelehnt
+- TOP 1.16: Reinigung von öffentlichen Grünflächen durch die BSR - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Erster Betriebskindergarten im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Mittelalter- und Wikingerspektakel in Schönholz ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Müllsammelbehälter am Danewendplatz II - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Neubau der Verbindungsstraße zur B2 verträglich gestalten - in der BVV abgelehnt
+- TOP 1.21: Planungen zum Neubau der Verbindungsstraße zur B2 abbrechen - in der BVV abgelehnt
+- TOP 1.22: Kleinere Unterkünfte für Geflüchtete einrichten - überwiesen
+- TOP 1.23: Keine Entmündigung beim Wohnungsbau - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Taktverdichtung auf dem nördlichen Ast der M1 - überwiesen
+- TOP 1.25: Umgestaltung der Pappelallee/Stahlheimer Straße unter Aufrechterhaltung des Straßenbahnverkehrs und mit hoher Verkehrssicherheit für den Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Stadtquartier "Wilhelmsruher Tor" - überwiesen
+- TOP 1.27: Unterbringungspotentiale für Menschen in Wohnungsnot - überwiesen
+- TOP 1.28: Würdiger Ort für einen Gedenkstein - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Querungshilfe in der Straße Alt-Karow - überwiesen
+- TOP 1.30: Querparken in der Sredzkistraße - überwiesen
+- TOP 1.31: Hinweisschilder an der Bucher Chaussee - überwiesen
+- TOP 1.32: Gesundheitsversorgung für Asylberwerber_innen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: vertagte Drucksache aus der 27. BVV - (offen)
+- TOP 2.1.1: Bedeutung der "Filmstadt Weißensee" endlich angemessen würdigen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Ausweitung der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Freies WLAN für Pankow und Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Pilotprojekt flexible Betreuungszeiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5.1: Neue Angebote zur Flexiblen Kinderbetreuung in Pankow entwickeln und erproben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Weiteres Vorgehen zur Entwicklung des Rangier- und Güterbahnhofs Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Stille Straße 10 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Die Beteiligung von Bürgerinnen und Bürgern an den Planungen zum ehemaligen Rangierbahnhof Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Bezirkliche Immobilienentwicklung - Umzugsplanung und Verdichtung der Verwaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Finanzierung neuer sozialer Angebote in den Bezirksregionen II (Blankenfelde/ Niederschönhausen) und X (Weißensee Ost) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Brückensanierungen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: MitarbeiterInnen mit Fremdsprachen-Kenntnissen am Informationsschalter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Lärmschutz an der Stettiner Bahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Sportbetontes Schulangebot im Bezirk Pankow ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Sanierungskonzept für den Wilhelmsruher See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Endlich ein Bibliotheksgesetz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Regelmäßiges Forum gegen Rechtsradikalismus in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Nutzungskonzept für Schul- und Sportflächen der GS am Falkplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Internationales Basketballturnier in Pankow sichern - Weihnachten 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Vor Ort im Gespräch - Bürgernähe und Demokratie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Machbarkeitsstudie zu Parkraumbewirtschaftung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Bezirkliche Spielplatzplanung fortschreiben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Personalabbau stoppen, Personalentwicklung starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Finanzierung der Jugendarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Umbenennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Benennung der öffentlichen Grünanlage am Kreuzpfuhl im Ortsteil Weißensee in „Jürgen-Kuczynski-Park“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Berufung eines neuen Mitgliedes für den Frauenbeirat beim BA Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Benennungsabsicht für 7 Privatwege in der Anlage Buchholz im Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Partizipation von Migrantinnen und Migranten im Berliner Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Wirtschaftsplan des Eigenbetriebes „Kindergärten NordOst“ für das Jahr 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Bericht zum weiteren Planungsprozess zur Entwicklung des Rangier- und Güterbahnhofes Pankow nach Abschluss des Werkstattverfahrens - mit Abschlussbericht zur Kenntnis genommen
