@@ -1,0 +1,350 @@
+---
+ecli: "ECLI:DE:BVerfG:2015:rk20150115.2bvr087814"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 878/14"
+decided: "2015-01-15"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 15. Januar 2015\n- 2 BvR 878/14 -, Rn. 1-33,\n                    https://www.bverfg.de/e/rk20150115_2bvr087814"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/01/rk20150115_2bvr087814.html"
+corpus_doc_id: "BVerfG_2015-01-15_K_2_BvR_0878_14_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0032.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/001.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/rvg/0014.md", "germany/bund/acts/stpo/0243.md", "germany/bund/acts/stpo/0257b.md", "germany/bund/acts/stpo/0257c.md", "germany/bund/acts/stpo/0337.md", "germany/bund/acts/stpo/0338.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 878/14 vom 2015-01-15
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 878/14 -
+
+
+
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn L…,
+
+- Bevollmächtigter: Rechtsanwalt Dr. Ali B. Norouzi,
+                    Kurfürstendamm 216, 10719 Berlin -
+
+  gegen    a)   den Beschluss des Bundesgerichtshofs
+
+                vom 27. Februar 2014 - 1 StR 200/13 -,
+
+           b)   den Beschluss des Bundesgerichtshofs
+
+                vom 29. November 2013 - 1 StR 200/13 -,
+
+           c)   das Urteil des Landgerichts Karlsruhe
+
+                vom 15. November 2012 - 4 KLs 92 Js 13085/10 -
+
+
+und     Antrag auf Festsetzung des Gegenstandswerts
+
+hat die 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                 den Richter Landau
+
+                                 und die Richterinnen Kessal-Wulf,
+
+                                 König
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+
+am 15. Januar 2015 einstimmig beschlossen:
+
+        Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+        Für das Verfahren über den Antrag auf Erlass einer einstweiligen Anordnung wird der Wert des Gegenstands der anwaltlichen Tätigkeit auf
+        5.000 € (in Worten: fünftausend Euro) festgesetzt.
+
+
+                                         1/10
+
+                                   Gründe:
+
+                                         I.
+  1. Mit Urteil vom 15. November 2012 verurteilte das Landgericht Karlsruhe den Beschwerdeführer wegen gemeinschaftlichen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge zu einer Gesamtfreiheitsstrafe von fünf Jahren.
+Der Verurteilung gingen außerhalb der Hauptverhandlung geführte Gespräche über
+die Möglichkeit einer Verständigung voraus. Die näheren Umstände stellen sich wie
+folgt dar:
+
+ Kurz nach ihrem Beginn wurde die Hauptverhandlung für die Dauer von etwa 90 Minuten unterbrochen. Während dieser Unterbrechung wurden im Dienstzimmer des
+Vorsitzenden unter Beteiligung der beiden Berufsrichter, des Sitzungsvertreters der
+Staatsanwaltschaft und der beiden Verteidiger des Beschwerdeführers Gespräche
+über die Möglichkeit einer Verständigung geführt. Nach Erinnerung eines der beiden
+Verteidiger wurden dabei als Untergrenze vier Jahre, möglicherweise auch vier Jahre
+und sechs Monate, und als Obergrenze sechs Jahre Freiheitsstrafe in Aussicht gestellt. Beide Verteidiger erörterten den Gegenstand des Gesprächs mit dem Beschwerdeführer, der weiterhin auf seiner Unschuld beharrte und daher die Verständigung ablehnte.
+
+ Nach Wiedereintritt in die öffentliche Hauptverhandlung gab der Vorsitzende bekannt, dass während der Unterbrechung zwischen den Verteidigern, dem Sitzungsvertreter der Staatsanwaltschaft und den beiden Berufsrichtern Gespräche über eine
+Verständigung stattgefunden hätten und eine Verständigung nicht zustande gekommen sei. Den näheren Inhalt der Gespräche teilte er nicht mit.
+
+  In einem späteren Termin gab der Vorsitzende gemäß § 257b StPO bekannt, dass         4
+das Gericht entgegen der Anklage nicht von einer Verurteilung wegen unerlaubter
+Einfuhr von Betäubungsmitteln ausgehe. Daraufhin bat die Verteidigung erneut um
+eine Unterbrechung für ein Gespräch mit der Kammer. Die Hauptverhandlung wurde
+für etwas mehr als eine Stunde unterbrochen. Das Gespräch fand wiederum im Beisein der beiden Berufsrichter, des Sitzungsvertreters der Staatsanwaltschaft und der
+Verteidiger im Dienstzimmer des Vorsitzenden statt. Nach Erinnerung beider Verteidiger stellten die Berufsrichter unter Bezugnahme auf die bisherige Beweisaufnahme
+bei geständiger Einlassung nunmehr eine Freiheitsstrafe von vier Jahren sowie die
+Außervollzugsetzung des Haftbefehls bei Hinterlegung einer angemessenen Kaution
+in Aussicht. Der Beschwerdeführer lehnte eine Verständigung jedoch weiterhin ab.
+
+ Nach der Unterbrechung gab der Vorsitzende in der öffentlichen Hauptverhandlung       5
+wiederum lediglich bekannt, dass die Möglichkeit einer Verständigung zwischen den
+Berufsrichtern, der Staatsanwaltschaft und den Verteidigern erörtert worden sei. Nähere Angaben zum Inhalt des Gesprächs machte er dagegen nicht.
+
+ Eine Verständigung kam im weiteren Verlauf des Verfahrens nicht zu Stande. Eine       6
+weitere Mitteilung des Inhalts der außerhalb der Hauptverhandlung geführten Ge-
+
+
+                                        2/10
+
+spräche erfolgte ebenfalls nicht.
+
+ 2. Gegen das Urteil des Landgerichts legte der Beschwerdeführer Revision ein und       7
+rügte unter anderem einen Verstoß gegen § 243 Abs. 4 Satz 2 StPO, weil der Vorsitzende es unterlassen habe, in der öffentlichen Sitzung den wesentlichen Inhalt der
+außerhalb der Hauptverhandlung geführten Gespräche über eine verfahrensbeendende Verständigung mitzuteilen.
+
+ 3. Durch Beschluss vom 29. November 2013 verwarf der Bundesgerichtshof die Revision des Beschwerdeführers mit der Begründung, es liege zwar ein Verstoß gegen
+§ 243 Abs. 4 Satz 2 StPO vor; dies stelle jedoch keinen absoluten Revisionsgrund
+dar, und das Urteil beruhe auch nicht auf dem Verstoß.
+
+  Der Strafsenat teile zwar die Auffassung, dass auch bei dem letztendlichen Scheitern von Verständigungsgesprächen über das bloße Ergebnis hinaus deren Inhalt
+ähnlich wie der Inhalt nicht gescheiterter Gespräche bekannt zu geben und zu protokollieren sei. Dies folge letztlich aus dem Grundsatz der Transparenz, der das Recht
+der Verfahrensverständigung insgesamt beherrsche. Die Annahme, es liege ein von
+§ 338 Nr. 6 StPO erfasster Verstoß gegen den Öffentlichkeitsgrundsatz vor, wenn
+zwar die Durchführung von Gesprächen und deren Ergebnislosigkeit, nicht aber der
+detaillierte Ablauf der Gespräche in der Hauptverhandlung mitgeteilt werde, sei aber
+weder aus verfassungsrechtlichen noch aus sonstigen Gründen geboten.
+
+  Die Revision habe auch keinen Erfolg, soweit sie geltend mache, ein Beruhen des      10
+Urteils auf dem aufgezeigten Dokumentationsmangel sei nicht auszuschließen. Die
+Auswirkungen unzulänglicher Protokollierung von Verständigungsgesprächen beträfen im Kern das Aussageverhalten des Angeklagten, das von einer Verständigung regelhaft tangiert sei. Der Angeklagte solle autonom und daher nur auf der Grundlage
+umfassender (und angesichts ihrer Bedeutung auch umfassend protokollierter) Unterrichtung durch das Gericht über die regelmäßig in seiner Abwesenheit durchgeführten Gespräche darüber entscheiden, ob er den Schutz der Selbstbelastungsfreiheit aufgebe und sich mit einem Geständnis des Schweigerechts begebe. All dies sei
+hier nicht einschlägig, weil der Angeklagte bis zuletzt von seinem Schweigerecht Gebrauch gemacht habe.
+
+  Auszuschließen sei ferner, dass das Urteil auf eine gesetzwidrige informelle Absprache oder diesbezügliche Gesprächsbemühungen zurückgehe. Die Gespräche
+als solche seien nicht geheim gehalten worden. Dass sie nicht auf eine wie auch immer geartete inhaltlich unzulässige Absprache gerichtet gewesen seien, ergebe sich
+aus den Erklärungen der Instanzverteidiger, die zum Gegenstand des Revisionsvortrages gemacht worden seien. Dementsprechend heiße es in der Revisionsbegründung auch zusammenfassend, dass es ausweislich der anwaltlichen Erklärungen Angebote zu gesetzeswidrigen Verständigungen nicht gegeben habe. Wenn aber die
+Revision ausdrücklich vortrage, dass eine bestimmte Konstellation aus tatsächlichen
+Gründen nicht vorgelegen habe, so könne das Revisionsgericht seiner Entscheidung
+nicht diese ausdrücklich ausgeschlossene Möglichkeit zu Grunde legen.
+
+
+                                        3/10
+
+  Der Strafsenat habe schließlich auch erwogen, ob der Beschwerdeführer durch die        12
+unzulänglich protokollierte Unterrichtung durch das Gericht zu seinem Nachteil davon
+abgehalten worden sein könnte, sich (auch jenseits einer Verständigung) zur Sache
+einzulassen. Auch dieser Gesichtspunkt greife jedoch nicht durch. Ausweislich der in
+der Revisionsbegründung mitgeteilten anwaltlichen Erklärungen sei der Beschwerdeführer „ohnehin“ zu geständigen Angaben nicht bereit gewesen, weil er auf seiner
+„Unschuld beharrt“ habe. Sei der Beschwerdeführer also keinesfalls zu solchen Angaben bereit gewesen, könne seine Entscheidung nicht darauf beruhen, dass er nicht
+vom Gericht umfassend über den Ablauf der Gespräche unterrichtet worden sei.
+
+ 4. Eine Anhörungsrüge des Beschwerdeführers wies der Bundesgerichtshof mit Beschluss vom 27. Februar 2014 zurück.
+
+                                          II.
+ Mit seiner Verfassungsbeschwerde wendet sich der Beschwerdeführer gegen die             14
+genannten Entscheidungen und rügt unter anderem eine Verletzung des Rechts auf
+ein faires, rechtsstaatliches Verfahren. Die unterbliebene Information der Öffentlichkeit und des Beschwerdeführers durch das Gericht über den Inhalt dessen, was sich
+außerhalb der Hauptverhandlung zugetragen habe, stelle nicht nur einen einfachgesetzlichen Verstoß gegen § 243 Abs. 4 Satz 2 StPO dar. Sie sei obendrein mit dem
+durch das Verständigungsgesetz zu bewahrenden und verfassungsrechtlich als Ausdruck eines fairen, rechtsstaatlichen Verfahrens zu sehenden Öffentlichkeitsgrundsatz nicht vereinbar. Dem hätte das Revisionsgericht im Sinne des effektiven Revisionsrechtsschutzes, wie ihn das Verständigungsgesetz vorgebe und das
+Bundesverfassungsgericht fordere, Rechnung tragen müssen. Der Bundesgerichtshof sei stattdessen davon ausgegangen, die Mitteilungspflicht diene in erster Linie
+der Information des Angeklagten und weniger der Transparenz für die Öffentlichkeit.
+Nur so könne seine Beschlussbegründung verstanden werden, wonach der Rüge der
+unzureichenden Mitteilung keine Folgen zuzumessen seien, da der Beschwerdeführer ausweislich der anwaltlichen Erklärungen zu einem Geständnis nicht bereit gewesen sei. Damit werde die Schutzrichtung der Mitteilungspflicht nach § 243 Abs. 4
+StPO in eine gänzlich andere Richtung interpretiert, als es dem Willen des Gesetzgebers entspreche.
+
+                                         III.
+  Zu der Verfassungsbeschwerde haben der Generalbundesanwalt und der Vorsitzende des 3. Strafsenats des Bundesgerichtshofs Stellung genommen. Der Beschwerdeführer hat auf die Stellungnahmen erwidert. Die Akten des Ausgangsverfahrens haben der Kammer vorgelegen.
+
+                                         IV.
+ Auf Antrag des Beschwerdeführers hat die Kammer mit Beschluss vom 4. Juni 2014          16
+die Vollstreckung der Freiheitsstrafe aus dem Urteil des Landgerichts Karlsruhe vom
+
+
+
+                                         4/10
+
+15. November 2012 bis zur Entscheidung über die Verfassungs-beschwerde - längstens für die Dauer von sechs Monaten (§ 32 Abs. 6 Satz 1 BVerfGG) - ausgesetzt.
+Die einstweilige Anordnung wurde mit Beschluss vom 26. November 2014 für die
+Dauer von sechs Monaten, längstens jedoch bis zur Entscheidung über die Verfassungsbeschwerde wiederholt.
+
+                                          V.
+  Die Verfassungsbeschwerde ist nicht zur Entscheidung anzunehmen, da die Voraussetzungen des § 93a Abs. 2 BVerfGG nicht vorliegen. Die maßgeblichen verfassungsrechtlichen Fragen sind bereits geklärt (§ 93a Abs. 2 Buchstabe a BVerfGG).
+Die Annahme ist auch nicht zur Durchsetzung der in § 90 Abs. 1 BVerfGG genannten
+Rechte des Beschwerdeführers angezeigt (§ 93a Abs. 2 Buchstabe b BVerfGG), da
+die Verfassungsbeschwerde keine Aussicht auf Erfolg hat (vgl. BVerfGE 90, 22 <24
+ff.>). Zwar kommt in der Begründung der Revisionsentscheidung eine Verkennung
+von Bedeutung und Tragweite des Rechts auf ein faires Verfahren für die Auslegung
+und Anwendung des § 243 Abs. 4 StPO zum Ausdruck; denn die Ausführungen des
+Bundesgerichtshofs zum Beruhen des erstinstanzlichen Urteils auf dem Verfahrensverstoß blenden die den Angeklagten schützende Funktion der vom Gesetzgeber für
+wesentlich erachteten Kontrolle von Verständigungsgesprächen durch die Öffentlichkeit aus (1.). Allerdings wird die Verwerfung der Revision auch auf einen hiervon unabhängigen Aspekt gestützt, der unter den vorliegenden Umständen keinen verfassungsrechtlichen Bedenken begegnet (2.).
+
+ 1. Wenn der Bundesgerichtshof das Beruhen des landgerichtlichen Urteils auf dem          18
+Verstoß gegen § 243 Abs. 4 Satz 2 StPO allein unter dem Gesichtspunkt einer Einwirkung auf das Aussageverhalten des Angeklagten prüft und die von dem Verstoß in
+erster Linie betroffene, auch dem Schutz des Angeklagten dienende Kontrollmöglichkeit der Öffentlichkeit außer Acht lässt, so verkennt er Bedeutung und Tragweite des
+Rechts auf ein faires Verfahren (Art. 2 Abs. 1 i.V.m. Art. 20 Abs. 3 GG) für die Auslegung und Anwendung der Vorschriften über die Verständigung im Strafprozess (vgl.
+BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 15. Januar 2015 - 2 BvR
+2055/14 -).
+
+ a) Das Recht auf ein faires Verfahren hat seine Wurzeln im Rechtsstaatsprinzip in        19
+Verbindung mit den Freiheitsrechten und Art. 1 Abs. 1 GG (vgl. BVerfGE 57, 250
+<274 f.>; 86, 288 <317>; 118, 212 <231>; 122, 248 <271>) und gehört zu den wesentlichen Grundsätzen eines rechtsstaatlichen Verfahrens (vgl. BVerfGE 38, 105
+<111>; 46, 202 <210>). Am Recht auf ein faires Verfahren ist die Ausgestaltung des
+Strafprozesses zu messen, wenn und soweit keine spezielle verfassungsrechtliche
+Gewährleistung existiert (vgl. BVerfGE 57, 250 <274 f.>; 109, 13 <34>; 122, 248
+<271>; 130, 1 <25>).
+
+ Das Recht auf ein faires Verfahren enthält keine in allen Einzelheiten bestimmten        20
+Ge- oder Verbote; vielmehr bedarf es der Konkretisierung je nach den sachlichen Gegebenheiten (vgl. BVerfGE 57, 250 <275 f.>; 70, 297 <308>; 130, 1 <25>). Diese
+
+
+                                          5/10
+
+Konkretisierung ist zunächst Aufgabe des Gesetzgebers und sodann, in den vom Gesetz gezogenen Grenzen, Pflicht der zuständigen Gerichte bei der ihnen obliegenden
+Rechtsauslegung und -anwendung (vgl. BVerfGE 63, 45 <61>; 64, 135 <145>; 122,
+248 <272>; 133, 168 <200>). Die Gerichte haben den Schutzgehalt der in Frage stehenden Verfahrensnormen und anschließend die Rechtsfolgen ihrer Verletzung zu
+bestimmen. Dabei sind Bedeutung und Tragweite des Rechts auf ein faires Verfahren angemessen zu berücksichtigen, damit dessen wertsetzende Bedeutung auch
+auf der Rechtsanwendungsebene gewahrt bleibt (vgl. zur Bedeutung der Grundrechte als objektive Wertordnung BVerfGE 7, 198 <205 ff.>; stRspr). Die Verkennung
+des Schutzgehalts einer verletzten Verfahrensnorm kann somit in das Recht des Beschuldigten auf ein faires Verfahren eingreifen (vgl. BVerfGK 9, 174 <188, 189>; 17,
+319 <326 ff.>).
+
+  b) Ein zentrales Anliegen der vom Gesetzgeber mit dem Verständigungsgesetz verfolgten Regelungskonzeption ist die Kontrolle des Verständigungsgeschehens durch
+die Öffentlichkeit. Dem Gesetzgeber kam es maßgeblich darauf an, die Transparenz
+der strafgerichtlichen Hauptverhandlung und die Unterrichtung der Öffentlichkeit in
+der Hauptverhandlung gerade im Falle einer Verständigung zu bewahren; die Verständigung muss sich nach dem Willen des Gesetzgebers „im Lichte der öffentlichen
+Hauptverhandlung offenbaren“ (vgl. BVerfGE 133, 168 <214 f., Rn. 81 f.> unter Hinweis auf die Begründung des Gesetzentwurfs der Bundesregierung, BTDrucks 16/
+12310, S. 8, 12).
+
+  aa) Der Grundsatz der Öffentlichkeit mündlicher Verhandlungen stützt sich auf eine      22
+lange Tradition, die ihre Wurzeln in der Zeit der Aufklärung hat. Der Grundsatz wurde
+in Deutschland insbesondere durch Anselm von Feuerbach geprägt (vgl. von Feuerbach, Betrachtungen über die Öffentlichkeit und Mündlichkeit der Gerechtigkeitspflege, 1821, Neudruck 1969, Bd. 1). Die Gerichtsöffentlichkeit sollte zum einen in Gestalt einer Verfahrensgarantie dem Schutz der an der Verhandlung Beteiligten,
+insbesondere der Angeklagten im Strafverfahren, gegen eine der öffentlichen Kontrolle entzogene Geheimjustiz dienen. Zum anderen wurde davon ausgegangen,
+dass „das Volk um seines eigenen Rechtes willen bei Gericht zu erscheinen berufen
+wird“ (vgl. von Feuerbach, a.a.O., S. 180). Es wurde also als Rechtsposition des Volkes empfunden, von den Geschehnissen im Verlauf einer Gerichtsverhandlung
+Kenntnis zu nehmen und die durch die Gerichte handelnde Staatsgewalt einer Kontrolle in Gestalt des Einblicks der Öffentlichkeit zu unterziehen. Beide Gesichtspunkte
+werden unter dem Grundgesetz vom Rechtsstaatsprinzip erfasst und sind auch wesentlich für die Demokratie. Art. 6 Abs. 1 der Europäischen Menschenrechtskonvention normiert den Grundsatz ergänzend dahingehend, dass vor einem Gericht öffentlich verhandelt und das Urteil öffentlich verkündet wird (vgl. BVerfGE 103, 44 <63
+f.>).
+
+ bb) Die mit der Möglichkeit einer Beobachtung der Hauptverhandlung durch die Allgemeinheit verbundene öffentliche Kontrolle der Justiz erhält durch die gesetzliche
+Zulassung der in eine vertrauliche Atmosphäre drängenden Verständigungen zusätz-
+
+
+                                          6/10
+
+liches Gewicht. Dem hat der Gesetzgeber durch die Mitteilungspflicht in § 243 Abs. 4
+StPO Rechnung getragen. Die Öffentlichkeit kann ihre Kontrollfunktion nur ausüben,
+wenn sie die Informationen erhält, die zur Beurteilung der Angemessenheit einer etwaigen Verständigung erforderlich sind. Nur so bleibt der gerichtliche Entscheidungsprozess transparent und die Rechtsprechung auch in Verständigungsfällen für die
+Allgemeinheit durchschaubar. Dies ist notwendig, damit das Vertrauen der Öffentlichkeit in die Fähigkeit des Staates, mittels einer wirksamen Strafverfolgung öffentliche
+Sicherheit und Ordnung zu gewährleisten und Gerechtigkeit im Einzelfall sowie eine gleichmäßige Behandlung aller zu garantieren, uneingeschränkt aufrechterhalten
+werden kann (vgl. BVerfGE 133, 168 <217, Rn. 88 f.>).
+
+  Zugleich dienen die Transparenzvorschriften des Verständigungsgesetzes dem             24
+Schutz des Angeklagten vor einem im Geheimen sich vollziehenden „Schulterschluss“ zwischen Gericht, Staatsanwaltschaft und Verteidigung (vgl. BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 1. Juli 2014 - 2 BvR 989/14 -, juris,
+Rn. 11). Die Kontrolle durch die Öffentlichkeit soll verhindern, dass „sachfremde, das
+Licht der Öffentlichkeit scheuende Umstände auf das Gericht und damit auf das Urteil
+Einfluss gewinnen“ (vgl. BGHSt 9, 280 <282>). Intransparente, unkontrollierbare
+„Deals“ sind im Strafprozess wegen der mit ihnen verbundenen Gefährdung des
+Schuldprinzips, der darin verankerten Wahrheitserforschungspflicht und des dem
+Rechtsstaatsprinzip innewohnenden Prinzips des fairen Verfahrens bereits von Verfassungs wegen untersagt (BVerfGE 133, 168 <232, Rn. 115>).
+
+  c) Diese Zusammenhänge verkennt der Bundesgerichtshof, wenn er angesichts der          25
+unzureichenden Mitteilung des Inhalts außerhalb der Hauptverhandlung geführter
+Verständigungsgespräche die Möglichkeit eines Beruhens des landgerichtlichen Urteils (§ 337 Abs. 1 StPO) auf dem Verstoß gegen § 243 Abs. 4 StPO allein unter dem
+Gesichtspunkt einer Einwirkung auf das Aussageverhalten des Angeklagten prüft, indem er darauf abstellt, dass der Beschwerdeführer sich nicht seines Schweigerechts
+begeben habe und zu geständigen Angaben „ohnehin“ nicht bereit gewesen sei.
+Hierdurch wird die Bedeutung der Transparenzvorschriften des Verständigungsgesetzes für die auch dem Schutz des Angeklagten vor sachfremder Beeinflussung des
+Gerichts und damit der Verfahrensfairness dienende Kontrolle des gesamten Verständigungsgeschehens durch die Öffentlichkeit ausgeblendet; gerade sie erfährt jedoch durch den Verstoß gegen die Mitteilungspflicht eine Beeinträchtigung. Dieser
+Schutzgehalt des § 243 Abs. 4 StPO, der unabhängig vom Aussageverhalten des
+Angeklagten Geltung beansprucht, hätte bei der Beruhensprüfung Berücksichtigung
+finden müssen.
+
+ Dagegen kann nicht eingewandt werden, die Verletzung der Vorschriften über die          26
+Öffentlichkeit des Verfahrens (§§ 169 ff. GVG) sei vom Gesetzgeber in § 338 Nr. 6
+StPO gerade deshalb als absoluter Revisionsgrund ausgestaltet worden, weil ein Beruhen des Urteils auf einem solchen Verstoß im Sinne eines echten Kausalzusammenhangs sich kaum jemals feststellen lassen wird. Es wäre unverständlich und würde zu einer Entwertung des in § 243 Abs. 4 StPO enthaltenen Öffentlichkeitsaspekts
+
+
+                                         7/10
+
+führen, wenn einerseits ein Verstoß gegen die Mitteilungspflicht nicht als absoluter
+Revisionsgrund im Sinne des § 338 Nr. 6 StPO angesehen, andererseits aber gerade
+unter Hinweis auf die Kausalitätsproblematik die Möglichkeit eines Beruhens des Urteils im Sinne des § 337 StPO auf der durch den Verstoß beeinträchtigten Kontrolle
+durch die Öffentlichkeit generell verneint würde. Hierdurch würde § 243 Abs. 4 StPO
+insoweit entgegen der Vorgabe in BVerfGE 133, 168 <222, Rn. 96> zu einer bloßen
+Ordnungsvorschrift degradiert. Stattdessen ist die Beruhensprüfung gegebenenfalls
+um normative Aspekte anzureichern, die über eine reine Kausalitätsprüfung hinausgehen. Solche Aspekte hat etwa der Generalbundesanwalt in seiner Stellungnahme
+zur vorliegenden Verfassungsbeschwerde aufgezeigt.
+
+  2. Die Verkennung von Bedeutung und Tragweite des Grundrechts auf ein faires          27
+Verfahren war für die Revisionsentscheidung aber letztlich nicht tragend, denn der
+Bundesgerichtshof hat ein Beruhen des landgerichtlichen Urteils auf dem Transparenzverstoß auch deshalb verneint, weil die Gespräche als solche nicht geheim gehalten worden seien und im konkreten Fall trotz der unzureichenden Mitteilung ihres
+Inhalts ausnahmsweise davon auszugehen sei, dass sie nicht auf eine wie auch immer geartete inhaltlich unzulässige Absprache gerichtet gewesen seien, weil die Revision selbst dies ausdrücklich vorgetragen habe. Diese Erwägung ist verfassungsrechtlich nicht zu beanstanden.
+
+  a) Haben Erörterungen, deren Inhalt die Möglichkeit einer Verständigung gewesen       28
+ist, außerhalb der Hauptverhandlung stattgefunden, muss der Vorsitzende hierüber
+nach § 243 Abs. 4 StPO auch bei einem ergebnislosen Verlauf in der Hauptverhandlung umfassend unter Darlegung der Standpunkte aller beim Gespräch anwesenden
+Verfahrensbeteiligten informieren (vgl. BGH, Beschluss vom 5. Oktober 2010 - 3 StR
+287/10 -, wistra 2011, S. 72 f. = StV 2011, S. 72 f.). Fehlt es an der entsprechenden
+Mitteilung, wird ein Beruhen des Urteils auf einem Verstoß gegen § 257c StPO nach
+Sinn und Zweck des gesetzlichen Schutzkonzepts grundsätzlich nicht auszuschließen sein, da sich bei einem Verstoß gegen Transparenz- und Dokumentationspflichten in den meisten Fällen nicht sicher ausschließen lassen wird, dass das Urteil auf
+eine gesetzwidrige „informelle“ Absprache oder diesbezügliche Gesprächsbemühungen zurückgeht (vgl. BVerfGE 133, 168 <223 f., Rn. 98>).
+
+ Allerdings hat der Gesetzgeber Verstöße gegen die verfahrensrechtlichen Sicherungen der Verständigung, zu denen auch die Transparenz- und Dokumentationspflichten gehören, nicht als absolute Revisionsgründe eingestuft (vgl. BVerfGE 133,
+168 <223, Rn. 97>). Der Generalbundesanwalt weist in seiner Stellungnahme zur
+vorliegenden Verfassungsbeschwerde zutreffend darauf hin, dass die Bandbreite
+möglicher Verstöße gegen § 243 Abs. 4 StPO von lediglich geringfügigen Unvollständigkeiten oder Unrichtigkeiten einer Mitteilung bis hin zu deren vollständigem Fehlen
+oder groben Falschdarstellungen reicht. Die Revisionsgerichte sind daher nicht gehindert, bei der Prüfung, ob sich ein Beruhen des Urteils auf einem Transparenzverstoß ausnahmsweise ausschließen lässt, Art und Schwere des Verstoßes zu berücksichtigen. Da die Transparenz- und Dokumentationspflichten auch der Verhinderung
+
+
+                                         8/10
+
+gesetzwidriger Verständigungsbemühungen dienen, kann ferner von Bedeutung
+sein, welcher Art die Gesprächsinhalte waren, die in der Hauptverhandlung nicht mitgeteilt und damit der Öffentlichkeit vorenthalten wurden, sofern sie sich trotz des
+Transparenzverstoßes zweifelsfrei feststellen lassen. Das Stattfinden von Gesprächen, die auf die Herbeiführung einer gesetzwidrigen Absprache gerichtet waren,
+wird allerdings umso weniger auszuschließen sein, je schwerer der Verstoß gegen
+die Mitteilungspflicht wiegt.
+
+  b) Im vorliegenden Fall sind nach Wiedereintritt in die Hauptverhandlung jeweils Mitteilungen nach § 243 Abs. 4 Satz 2 StPO erfolgt. Zwar hat sich der Vorsitzende nicht
+zum genauen Ablauf und Inhalt der in der Verhandlungspause geführten Verständigungsgespräche geäußert, was eine Verletzung der Mitteilungspflicht darstellt. Er hat
+jedoch offengelegt, dass entsprechende Gespräche stattgefunden haben und dass
+diese ergebnislos verlaufen sind. Ferner enthielt die Revisionsbegründung detaillierte
+Stellungnahmen der erstinstanzlichen Verteidiger, aus denen sich Ablauf und Inhalt
+der Gespräche ergaben. Diese wurden zum Bestandteil des Revisionsvorbringens
+gemacht. Das Revisionsgericht konnte hieraus zweifelsfrei entnehmen, dass die Gespräche nicht auf die Herbeiführung einer gesetzwidrigen Absprache gerichtet waren.
+Auch die Revisionsbegründung selbst gelangt zu dieser Schlussfolgerung. Unter diesen Umständen konnte der Bundesgerichtshof ausnahmsweise ohne Verstoß gegen
+das gesetzliche Schutzkonzept und die dahinterstehenden verfassungsrechtlichen
+Wertungen ein Beruhen des landgerichtlichen Urteils auf der Verletzung der Mitteilungspflicht verneinen.
+
+ Von einer weiteren Begründung der Entscheidung über die Verfassungsbeschwerde wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+                                          VI.
+  Die Festsetzung des Gegenstandswerts für das Verfahren über den Antrag auf Erlass einer einstweiligen Anordnung beruht auf § 37 Abs. 2 Satz 2 und § 14 Abs. 1
+RVG.
+
+ Diese Entscheidung ist unanfechtbar.                                                     33
+
+                Landau               Kessal-Wulf               König
+
+
+
+
+                                          9/10
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Zweiten Senats vom
+15. Januar 2015 - 2 BvR 878/14
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 15. Januar 2015 - 2 BvR 878/14 - Rn. (1 - 33), http://www.bverfg.de/e/
+                rk20150115_2bvr087814.html
+
+ECLI            ECLI:DE:BVerfG:2015:rk20150115.2bvr087814
+
+
+
+
+                                    10/10
