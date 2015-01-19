@@ -1,0 +1,7 @@
+# TOP 4: Freigabe von Einbahnstraßen im Stadtteil Ohligs für den Radverkehr in Gegenrichtung
+
+- Sitzung: Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (5. Sitzung) (2015-01-19)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/3885
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/24989
