@@ -1,0 +1,99 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-01-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3505693
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3505693
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Beitritt des Bezirksausschusses zur Initiative ?München heißt Flüchtlinge Willkommen? (vertagt aus 2014.11 F 2, 2014.12 A 5.1)
+- TOP .1.: Haus der Kunst - Berücksichtigung bei der Konzertsaal-Debatte
+- TOP .2.: Antrag der SPD-Fraktion: Wohnungsmarkt/Boardinghäuser
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sattlerstr. 1: Teilnutzungsänderung und Umbau ?Wohnungen und Büro? in ?Boardingshaus? sowie ?Büro und Geldautomatenraum? in ? Esspresso-Bar? im Erdgeschoss - Tektur
+- TOP .2.: Stollbergstr. 20: Umbau und Wohnhaus mit Anbau Personenaufzug und Neubau Rückgebäude mit Umbau Gartenhaus - Tektur
+- TOP .3.: Kapellenstr. 1: Abbruch des Daches und Neuerrichtung mit größeren Gauben sowie hofseitiger Dachterrasse
+- TOP .4.: Lerchenfeldstr. 17: Nachträgliche Genehmigung zweier Wohneinheiten im DG und Errichtung zweier Dachgauben, Nutzungsänderung des Ladens im EG/li. zu Praxis und Verkauf sowie Änderung der Anzahl der Stellplätze in der Tiefgarage
+- TOP .5.: Altheimer Eck 4: Umbau Dachstuhl und DG-Ausbau
+- TOP .6.: Weinstr. 1: Teilabbruch und Neubau eines Bürohauses mit Gastronomie ? Tektur
+- TOP .7.: Sendlingerstr. 46: Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Büro- und Geschäftshauses, Kreuzstr. 17: Abbruch und Neubau eines Wohn- und Geschäftshauses
+- TOP .8.: Ledererstr. 10: Errichtung von drei Gauben und Erweiterung einer Gaube
+- TOP .9.: Theatinerstr. 33: Umbau der Fassade eines Ladenlokals
+- TOP .10.: Steinsdorfstr. 3: Renovierung und Sanierung des Rückgebäudes, Fassaden- und Nutzungsänderung (Büro zu Wohnen), Anbau mit Terrasse sowie Anbau eines Außenaufzugs und Balkonen auf der Rückseite - Tektur
+- TOP .1.: Modernisierung und Sanierung des U-Bahnhofs Sendlinger Tor, Änderung der Planfeststellung
+- TOP .1.: Vorschläge zur Handhabung von Einschränkungen für Freischankflächen
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Altheimer Eck 1, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .2.: Sendlinger-Tor-Platz 12, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Kiosk)
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Informationsveranstaltung zur Bayerischen Woche der Geodäsie am 14.07.2014 auf dem sog. Odeonsplatz
+- TOP .2.: Faschingszug der Damischen Ritter am 08.02.2015 durch die Innenstadt
+- TOP .3.: Tanz der Marktfrauen und Faschingstreiben auf dem Viktualienmarkt am 17.02.2014
+- TOP .4.: Geldbeutelwaschen, Marienplatz, 18.02.2015
+- TOP .5.: Qi Gong Praxistag, Marienhof, 01.04.2015
+- TOP .6.: Informationsveranstaltung mit Sammlung der Johanniter Unfallhilfe am 05.12.2015 auf dem sog. Odeonsplatz
+- TOP .1.: Evaluierung der Sondernutzungsrichtlinien
+- TOP .2.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer
+- TOP .1.: Vorstellung des Konzepts Urbanes Natur Netzwerk München; Urbanes Wohnen e.V. (Vorstellung nur im UA!)
+- TOP .1.: Bürgeranliegen: Marienhof und Hunde
+- TOP .2.: Beschränkung der zulässigen Höchstgeschwindigkeit auf 30 km/h in der Altstadt/im Lehel (2014.12 D 3.1)
+- TOP .1.: Baumfällungen im Januar/Februar 2015 ? diverse Standorte
+- TOP .2.: Umwandlung des Mischparkens der St.-Anna-Straße (teils) und Bürkleinstraße in reines Anwohnerparken
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Haushaltsplan 2015, Sitzungsvorlage Nr. 14-20/V 01817, Beschluss des Finanzausschusses vom 16.12.2014 (VB) und der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Straßenausbaubreitagssatzung abschaffen, Sitzungsvorlage Nr. 14-20/V 02040, Beschluss des Bauausschusses vom 09.12.2014 (VB)
+- TOP 0.3.: Hackenstr. 7, Baugenehmigung des Referats für Stadtplanung und Bauordnung
+- TOP 0.4.: Denkmalschutz für das Gebäude in der Müllerstr. 4, BA-Antrag Nr. 14-20/B 00382 des Bezirksausschusses 1 Altstadt-Lehel vom 23.09.2014
+- TOP 0.5.: Übernahme des Bunkers an der Blumenstr./Ecke Corneliusstr. von der Stadt München, BA-Antrag Nr. 14-20/B 00593 des Bezirksausschusses 1 Altstadt-Lehel vom 18.11.2014, Beschluss der Vollversammlung des Stadtrates vom 18.12.2013
+- TOP 0.6.: Städtische Grundstücke an der Pestalozzistraße, Sitzungsvorlage Nr. 14-20/V 01669, Beschluss des Kommunalausschusses vom 13.11.2014
+- TOP 0.7.: Straßenausbaubeitragssatzung abschaffen, Beschlussvorlage Nr. 14-20/V 02040 der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 0.8.: Bauvorhaben Sporerstr. 2, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, Abdruck der Baugenehmigung
+- TOP 0.9.: Bauvorhaben Oettingenstr. 50-54, Antwortschreiben der Lokalbaukommission zur Stellungnahme des Bezirksausschusses, Abdruck des Vorbescheids
+- TOP 0.10.: Einfaches Bebauungsplanverfahren für die Pestalozzistr.-Müllerstr.-Blumenstr. gem. § 13 BauGB, BA-Antrag Nr. 14-20/B 00591 des Bezirksausschusses 1 Altstadt-Lehel vom 18.11.2014, Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 0.11.: Fortschreibung des jährlichen Spielflächenversorgungsplanes, Sitzungvorlage Nr. 14-20/V 01945, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 (SB)
+- TOP 0.12.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanalgen (EVA), Sitzungsvorlage Nr. 14-20/V 01341, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 (SB)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung des Vorsitzenden zur/zum: - Silvesterfeuerwerk auf dem Parkplatz des P1 am 31.12.2014 - Inthronisation des Narrhalla-Faschingsprinzenpaares am 10.01.2015 auf dem Marienplatz
+- TOP 0.6.: Kunst im öffentlichen Raum ? Verlängerung des Kraterfelds am Marienhof bis Oktober 2018
+- TOP 0.7.: 500 Jahre Reinheitsgebot im Jahr 2016, Stellungnahme des Kreisverwaltungsreferates zum Schreiben des Bezirksausschusses vom 19.11.2014
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Umsetzungsbeschluss zum Fahrradvermietsystem ?MVG Rad?, Sitzungsvorlage Nr. 14-20/V 01566, Beschluss der Vollversammlung des Stadtrates zum 20.11.2014
+- TOP 0.3.: Umsetzungsbeschluss zum Fahrradvermietsystem ?MVG Rad?, Sitzungsvorlage Nr. 14-20/V 01566, Beschluss des Ausschusses für Arbeit und Wirtschaft am 11.11.2014 (VB)
+- TOP 0.4.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV; Jahresgenehmigung
+- TOP 0.5.: Zusatzschild ?Radfahrer frei? Ecke Müller-Pestalozzistraße, BA-Antrag Nr. 14-20/B 00436 des Bezirksausschusses 1 Altstadt-Lehel vom 14.10.2014, Rückantwort des Kreisverwaltungsreferats
+- TOP 0.6.: Belagwechesel Sendlingerstraße/Färbergraben, Schreiben des Kreisverwaltungsreferats vom 01.12.2014 an das Baureferat (2014.11 D 1.6)
+- TOP 0.7.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München, Ausnahmezulassung gem. des Bundes-Immissionsschutzgesetzes
+- TOP 0.8.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20/V 01715, Beschluss der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 0.9.: Sachstandsbericht zur Lärmproblematik in der Müllerstraße, Email der Bezirksinspektion Mitte
+- TOP 0.10.: Oettingenstr. 34, Bescheid zum Vollzug der Baumschutzverordnung des Referats für Stadtplanung und Bauordnung
+- TOP 0.11.: Reitmorstr. 51, Bescheid zum Vollzug der Baumschutzverordnung des Referats für Stadtplanung und Bauordnung
+- TOP 0.12.: Stand der Planungen Radweg Zweibrückenstraße, BA-Antrag Nr. 14-20/B 00223 des Bezirksausschusses 1 Altstadt-Lehel vom 17.07.2014
+- TOP 0.13.: Marstallstraße, Bescheid zum Vollzug der Baumschutzverordnung des Referats für Stadtplanung und Bauordnung
+- TOP 0.14.: Neu errichtete Parkplätze an der Tram-Haltestelle Mariannenplatz, Schreiben des Kreisverwaltungsreferates, siehe 2014.12 D 1.1
+- TOP 0.15.: Bürgeranliegen: Parksituation Widenmayerstraße/Reitmorstraße, Antwortschreiben des Kreisverwaltungsreferates, siehe 2014.12 D 1.4
+- TOP 0.16.: Aufnahme von Straßen und Plätzen in der Messestadt Riem in das Vollanschlussgebiet der städtischen Straßenreinigung, Änderung der Straßenreinigungssatzung, Beschlussvorlage Nr. 14-20/V 02025 des Bauausschusses vom 20.01.2015
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Bekanntgabe im Bildungsausschuss des Stadtrates am 14.01.2015, Schüler/innen- und Klassenstand im Schuljahr 2014/2015 an den - öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten, Sitzungsvorlage Nr. 14-20/V 02129 - städtischen Realschulen, staatlichen Realschulen, städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule, Sitzungsvorlage Nr. 14-20/V 02151 - städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges, Sitzungsvorlage Nr. 14-20/V 02103 - Beruflichen Schulen der LHM, Sitzungsvorlage Nr. 14-20/V 02057
+- TOP 0.3.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Leistungsbilanz von 2009-2014, Sitzungsvorlage Nr. 14-20/V 01695, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
