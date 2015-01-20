@@ -1,0 +1,109 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-01-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3545688
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3545688
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neue Asphaltierung der Klausener Straße (von der Säbener Straße bis zum Hallenbad) und neue Asphaltierung des Radweges parallel zur Geiselgasteigstraße (zwischen Harlachinger Krankenhaus u. Menterschwaige); Bürgeranliegen vom 14.12.14
+- TOP 2.2.: Anwesen Sachsenstraße 6; Bürgerschreiben an das Büro des Oberbürgermeisters, das Kommunalreferat und die Gewofag
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: 3.1.3.2 Beschlussfassung über die Finanzierung des BA-Jahresempfangs 2015 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von bis zu 6.000,- ?; Antrag des BA-Vorsitzenden (ohne Vorgang - vertagt aus der Sitzung vom 16.12.2014)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Claude-Lorrain-Straße - Antrag auf Tempolimit und Lärmschutz vom 17.11.2014 (verwiesen aus der Sitzung vom 18.11.2014 und 16.12.2014) zu 3.2.1.1 weiteres Bürgerschreiben hinsichtlich des Lärmschutzes vom 01.01.2015
+- TOP 3.1.: Entfernung des Fahrradstreifens zwischen Thalkirchner Brücke und Flamingo-Eingang, Tierpark; Antrag der CSU-Fraktion vom 09.12.2014 (vertagt aus der Sitzung vom 16.12.2014)
+- TOP 3.1.: Hans-Mielich-Straße - Tempo 30 Zone; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 18.12.2014 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Erinnerungsverfahren; Zuleitungen des Baureferates mit der Bitte um Stellungnahme 3.2.4.2.1 Tegernseer Landstraße (McGraw-Graben) zwischen HausNr. 176 - 328; Fahrbahnsanierung, Decke und Binder 3.2.4.2.2 Peißenbergstraße zwischen Säbener Straße u. Otkerstraße zwischen HausNr. 1 - 9; Fahrbahnsanierung und Gehweg 3.2.4.2.3 Rabenkopfstraße zwischen Meichelbecksraße und Holzkirchnerstraße zwischen HausNr. 20 - 52; Fahrbahnsanierung und Gehweg
+- TOP 3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rotbuchenstraße 42; Zuleitung des KVR vom 19.12.2014 mit der Bitte um Stellungnahme bis 03.02.2015
+- TOP 3.1.: Kein Autobahnsüdring durch das Naherholungsgebiet im Süden von München; BA-Antrag Nr. 14-20 / B 00307 vom 19.08.2014; Antwortschreiben des Referates für Stadtpl. und Bauordnung vom 25.11.2014 (positive Erledigung)
+- TOP 3.2.: Überdachte Fahrradständer in der Gewofag-Siedlung Gartenstadt Harlaching und Fahrradständer an allen stadteigenen Wohnimmobilien in Harlaching; BA-Antrag Nr. 14-20 / B 00501 des BA 18 vom 21.10.2014; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 18.12.2014 (neutrale Erledigung)
+- TOP 3.3.: Fahrradabstellplätze in der Canabichstraße; BA-Antrag Nr. 14-20 / B 00587 des BA 18 vom 18.11.2014; Zwischennachricht des Referates für Stadtplanung u. Bauordnung vom 16.12.2014 (Vorschlag: Ortstermin)
+- TOP 3.4.: Lärmbelästigungen durch lose Kanaldeckel auf der Tegernseer Landstraße; Bürgeranliegen; Antwortschreiben der Münchner Stadtentwässerung vom 09.12.2014 (positive Erledigung)
+- TOP 3.5.: Ausbau der S-Bahnlinie S20/27; BA-Antrag Nr. 14-20 / B 00305 vom 19.08.2014; Ausbau der S-Bahnlinie S 20/27 - Einrichtung einer S-Bahn-Haltestelle Menterschwaige und Errichtung einer Park+Ride-Garage nahe der Großhesseloher Brücke; BA-Antrag Nr. 14-20 / B 00306 vom 19.08.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 12.12.2014 (neutrale Erledigung)
+- TOP 3.1.: Haltverbot zur Gewährleistung des Schulbusverkehrs in der Reinekestraße und Wunderhornstraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.2.: Machbarkeitsstudie Mittlerer Ring, Abschnitt Tegernseer Landstraß; Kurzfassung; Zuleitung des Referates für Stadtplanung u. Bauordnung
+- TOP 3.3.: Gleiserneuerung der Wendeschleife Großhesseloher Brücke, hier: Planungsänderung - Entfall P+R-Anlage; Schreiben der SWM GmbH vom 17.12.14
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Begrünung der Brücke über die Tegernseer Landstraße am St.-Quirin-Platz; BA-Antrag Nr. 14-20 / B 00198; Schreiben des BA 18 vom 20.11.2014; Antwortschreiben des Baureferats vom 09.12.2014 (negative Erledigung)
+- TOP 3.2.: Renaturierungsmaßnahmen am Auer-Mühlbach-Düker; BA-Antrag Nr. 14-20 / B 00487 vom 21.10.2014; Antwortschreiben des Baureferats vom 22.12.2014 (positive Erledigung)
+- TOP 3.3.: Isar- Sanierung der Bretter unterhalb der Dükerkante; BA-Antrag Nr. 14-20 / B 00486 vom 21.10.2014; Antwortschreiben des Baureferats vom 22.12.2014 (positive Erledigung)
+- TOP 3.1.: Unterrichtungen der Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Harthauser Str. 65; Genehmigungsbescheid vom 19.12.2014 3.3.6.1.2 Sabine-Schmitt-Str. 12; Genehmigungsbescheid vom 17.12.2014 3.3.6.1.3 Isenschmidstraße 5; Ablehnungsbescheid vom 17.12.2014
+- TOP 3.2.: Baumbeseitigungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Unterrichtung des Baureferats-Gartenbau vom 12.12.2014 über die bevorstehende Beseitigungen von Gefahrenbäumen
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Bestellung eines Beauftragten für Inklusion; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18
+- TOP 3.1.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20/ V 02103; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 14.01.2015
+- TOP 3.2.: Schüler- u. Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20 / V 02129; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015
+- TOP 3.3.: Schüler- u. Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art u. der Städt. Franz-Auweck-Abendschule; Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20 / V 02151; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015
+- TOP 3.1.: München lebt interkulturelle Vielfalt; ein Angebot für Bezirksausschüsse; Schreiben des Sozialreferats 22.12.2014 (Anmeldeschluss: 27.03.2015)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: 3.5.4.3 Evaluierung der Sondernutzungsrichtlinien; Schreiben des KVR vom 02.12.2014 mit der Bitte um Stellungnahme bis 26.01.2015
+- TOP 3.2.: 3.5.4.4 Bebauungsplan Nr. B 47 für die Flurnummern 72 573 und 573/2, am Isarhang westlich der Zeillerstraße der Gemeinde Grünwald; Verfahren nach § 3 Abs. 2, § 4 Abs. 2 BauGB; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 09.01.2015 (Fristverlängerung gewährt bis 21.01.2015)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Söltlstraße 6, Neubau eines Wohnhauses; Anhörung vom 05.12.2014 (vertagt aus der Sitzung vom 16.12.2014)
+- TOP 3.2.: Sanatoriumsplatz 2, Sanierung eines Hochhauses mit Neuorganisation der Wohnheimeinheiten, Brandschutzsanierung mit Einbau eines zweiten notwendigen Treppenraumes, energetische Sanierung, Erneuerung der techn. Gebäudeausrüstung und Neuordnung der technischen Erschließung (WE 0234 - Modernisierung S1); Anhörung vom 05.12.2014 (vertagt aus der Sitzung vom 16.12.2014)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Errichtung eines barrierefreien Zugangs für die Gaststätte "Gartenstadt"; BA-Antrag Nr. 14-20 / B 00532 vom 21.10.2014; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 19.12.2014 (positive Erledigung)
+- TOP 3.2.: Kleinwohnungen unter 40 m² - Anpassung der Erhaltungssatzung; Antrag der SPD-Fraktion; BA-Antrag Nr. 08-14 / B 04998 vom 16.07.2013; Antwortschreiben des Kommunalreferates (positive Erledigung)
+- TOP 3.3.: Gestaltungsvorschlag für den Platz vor dem St.-Anna-Kirchlein noch in diesem Jahr; BA-Antrag Nr. 14-20 / B 00479 vom 14.10.2014; Zwischennachricht des Baureferates-Gartenbau vom 12.12.2014
+- TOP 3.4.: Münchens ältestes Standl an der Wittelsbacherbrücke retten; BA-Antrag Nr. 14-20 / B 00353 des BA 18 vom 16.09.2014; Erhalt des ältesten Standls in Untergiesing; BA-Antrag Nr. 14-20 / B 00354 des BA 18 vom 16.09.2014; Antwortschreiben des Baureferats vom 10.12.2014 (positive Erledigung)
+- TOP 3.11.: Denkmalschutz der Gewofag-Siedlung und der Allianzsiedlung; BA-Antrag Nr. 14-20 / B 00531; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 05.12.2014
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "Poseidon", Säbener Str. 9; Mitteilung vom 19.12.2014
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse durch das Sozialreferat 3.5.6.2.1 Anwesen Portiastraße; Mitteilung vom 10.12.2014 3.5.6.2.2 Anwesen Maukestraße; Mitteilung vom 15.12.2014
+- TOP 3.4.: Straßenausbaubeitragssatzung abschaffen; Stadtratsantrag Nr. 14-20 / A 00097 vom 11.07.2014; Sitzungsvorlage Nr. 14-20 / V 02040; Beschluss des Bauausschusses vom 09.12.2014 (VB)
+- TOP 3.5.: Mitteilung des Kommunalreferats über ein Grundstücksgeschäft im 18. Stadtbezirk, Wunderhornstraße 9, Erbbaurecht
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 1: (E) Kein Ausbau der Grünanlage Oberbiberger Straße zu einer ständigen Veranstaltungsfläche für Vereine Empfehlung Nr. 14-20 / E 00296 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 13.11.2014
+- TOP 1.1.: Bücherschränke in Untergiesing-Harlaching; BA-Antrag Nr. 14-20 / B 00484 vom 21.10.2014; Antwortschreiben des Kulturreferates, Münchner Stadtbibliothek vom 01.12.2014 (negative Erledigung)
+- TOP 1.2.: Candidplatz - weitere Säulen der Unterführung freigeben für die Graffitigestaltung; BA-Antrag Nr. 14-20 / B 00485 vom 21.10.2014; Antwortschreiben des Baureferats vom 15.12.2014(positive Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Zuteilung einer städtischen Mailadresse an Bezirksausschussvorsitzende; Schreiben des Direktoriums vom 09.12.2014 mit der Bitte um Rückmeldung bis 31.01.2015
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Haushaltsplan 2015 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 14-20 / V 01817; Beschluss des Finanzausschusses vom 16.12.2014 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
