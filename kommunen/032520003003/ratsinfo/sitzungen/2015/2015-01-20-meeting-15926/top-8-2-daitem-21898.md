@@ -1,0 +1,6 @@
+# TOP 8.2: Geh- und Radweg Hamborner Weg
+
+- Sitzung: Bau- und Umweltausschuss (49. Sitzung) (2015-01-20)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/21898
