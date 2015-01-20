@@ -1,0 +1,7 @@
+# TOP .1.: Baumfällungen im Januar/Februar 2015 ? diverse Standorte
+
+- Sitzung: BA 01 - Vollgremium (2015-01-20)
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/255479
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/255479
