@@ -1,0 +1,105 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-01-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3488677
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3488677
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 2.1.: Buslinie 267: Haltestelle Brunham-/Veldensteinstraße (vertagt in den UA Verkehr aus 12/14)
+- TOP 2.2.: Garagensatzung für den 22. Stadtbezirk (vertagt in den UA P/B/U in 12/14)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.4.: Baumbeseitungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, Schr. Baureferat vom 17.12.14
+- TOP 4.2.: Verschiebung der Haltelinie an der Lochhauser Straße
+- TOP 4.3.: Eigentümerveränderung bei der Heimag - was passiert mit den Mietern in der Gilchinger Straße?
+- TOP 4.4.: Schließung des Wertstoffhofes an der Mühlangerstraße wegen herabstürzenden Schnee- und Eismassen?
+- TOP 4.6.: Information zu den Ausbauplänen des Böhmer Weihers
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: München lebt interkulturelle Vielfalt - Pilotprojekt für Bezirksausschüsse, Anhörung Sozialreferat vom 22.12.14
+- TOP 6.3.: Schimmelbefall im städtischen Kindergarten an der Freienfelsstr. 3; Gefahr für Kinder und Erzieherinnen, Schr. RGU vom 22.12.14
+- TOP 6.4.: Protokoll zu Rundem Tisch zur Sicherung des Geländes des ehemaligen Zwangsarbeiterlagers am Standort Ehrenbürgstr. 9, Schr. Kulturreferat vom 02.01.14
+- TOP 6.5.: Verstärkung Streetwork-Arbeit im Münchner Westen, BA-Antrag Nr. 14-20/B 00707 vom 17.12.14, Schr. Sozialreferat vom 07.01.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Errichtung von vier Grundschulen in modularer Bauweise an den nachstehenden Standorten (u.a. Freiham II (Mitte) am Quartierszentrum und Freiham III (Nord) an der "Aubinger Allee), Anhörung Referat für Bildung und Sport vom 26.11.14 - vertagt in den BA-Vorstand -
+- TOP 6.1.: S-Bahnen nach Freiham-Nord, -Süd und Lochhausen (S4, S8 und S3), Schr. Planungsreferat vom 22.12.14
+- TOP 6.2.: Anbindung von Langwied an den öffentlichen Nahverkehr durch Schaffung einer Busverbindung zum S-Bahnhof Lochhausen, Schr. Referat für Arbeit und Wirtschaft vom 11.12.14
+- TOP 6.4.: Änderung von Hinweisschildern auf der A 99 und der A 8; Protokoll der Sondersitzung vom 18.11.14, Schr. BA 21 vom 22.12.14
+- TOP 6.1.: Freihamer Weg - Neubau einer 5-zügigen Grundschule (Feiham III) mit Räumen für ganztägige Betreuung sowie einer Zwiefachsporthalle inkl. Freisportanlagen im Siedlungsgebiet Freiham Nord (Freihamer Weg (Hörweg), Anhörung Planungsreferat vom 02.12.14 (vertagt in den BA-Vorstand)
+- TOP 6.3.: Aufstellung einer Informationstafel über das Bauvorhaben Freiham Nord, Schr. Planungsreferat vom 23.12.14
+- TOP 6.4.: Planfeststellungsbeschluss nach § 18 AEG; Neubau einer Fahrzeug Instandhaltungs- und Behandlungsanlage (FIBA) Pasing in der Landeshauptstadt München, Gemarkung Aubing der Strecke 5528 München-Pasing, Bahn-km 3,7 bis 4,8 im Bereich des Betriebshofs Pasing (Strassergelände) - Stellungnahme des Planungsreferats, Schr. Planungsreferat vom 16.12.14
+- TOP 6.5.: Autohändler in der Georg-Böhmer-Str. 1, Schr. Planungsreferat vom 10.12.14
+- TOP 6.7.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Abfallentsorgungsanlage der Thyssen-Dück Rohstoffhandel GmbH & Co.KG, Rupert-Bodner-Str. 25 - Antrag auf Durchführung eines immissionsschutzrechtlichen Änderungsgenehmigungsverfahrens nach § 16 BImSchG, Protokoll des Erörterungstermins, Schr. RGU vom 11.12.14
+- TOP 6.8.: Ausnahmezulassung gem § 7 Abs. 2 der 32. BImSchV: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München für - Gebäudereinigung Berndt, Schr. RGU vom 10.12.14 - Firma Herrmann & Schmidt, Schr. RGU vom 17.12.14
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Dinkelsbühler Str., Schr. Sozialreferat vom 19.12.14
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.14: Bericht zur Wohnungssituation in München 2012-2013 (vertagt)
+- TOP 10.3.: Beschluss des Bildungsausschusses vom 14.01.15: - Errichtung von vier Grundschulen in modularer Bauweise an den nachstehenden Standorten: Bauhausplatz, Ruth-Drexel-Straße, Freiham II (Mitte) am Quartierszentrum, Freiham III (Nord) an der "Aubinger Allee"
+- TOP 10.6.: Beschluss des Bauausschusses vom 09.12.14: Straßenausbaubeitragssatzung abschaffen
+- TOP 10.7.: Beschluss des Sportausschusses vom 03.12.14: Infrastrukturprogramm Sport in München, Rückblick 2014 und Ausblick 2015
+- TOP 10.8.: Beschluss des Bauausschusses vom 20.01.15: Gleisdreieck Pasing, Paosostraße, Bau eines Fuß- und Radweges und einer Skateranlage im Stadtbezirk 22
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 11.02.15 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschusssitzungen: - UA Bauen, Planung, Umwelt: Mo., 12.01.15, 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Di., 13.01.15, 19.00 Uhr im Stadtteilladen, Limesstr. 111 - UA Bildung, Schule, Sport: Mi., 14.01.15, 18.30 Uhr im Bildungslokal, Limesstr. 81 -UA Soziales,Familie, Senioren, Kultur: Do., 15.01.15, 19.30 Uhr im Rathaus Pasing, Raum 40
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.3.: Schneeräumung in der Friedrichshafener Straße
+- TOP 2.4.: Fahrbahnschäden Bergsonstraße und Am Langwieder Bach
+- TOP 2.5.: Waldkindergarten in der Aubinger Lohe
+- TOP 2.6.: Wertstoffhof Mühlangerstraße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Genehmigungsbescheid für Baumfällungen: - Burkheimer Str. 6, Schr. Planungsreferat vom 10.12.14 - Erlbachstr. 21 a, Schr. Planungsreferat vom 12.12.14 - Langwieder Hauptstr. 10c, Schr. Planungsreferat vom 30.12.14
+- TOP 3.3.: Ablehnungsbescheid für Baumfällungen: - Giggenbacherstr. 1, Schr. Planungsreferat vom 10.12.14 - Ulrich-Corti-Str. 10, Schr. Planungsreferat vom 10.12.14 - Roggensteiner Weg 5, Schr. Planungsreferat vom 10.12.14
+- TOP 4: Anträge
+- TOP 4.1.: Prüfung von Lärmschutzmaßnahmen A 8 und A 99
+- TOP 4.5.: Eine schöne Bescherung - Verbesserung der Zustände an den Wertstoffinseln im 22. Stadtbezirk an Feiertagen und verlängerten Wochenenden
+- TOP 4.7.: Anfrage: Bürgerbeteiligung zu den Wettbewerbsergebnissen Bildungscampus Freiham
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1.: Dauerausstellung im neuen Stadtviertel Freiham, Schr. Kulturreferat vom 10.12.14
+- TOP 6.2.: Entwicklung eines Konzepts für den neuen Stadtteil Freiham, Schr. Kulturreferat vom 22.12.14
+- TOP 6.6.: Protokoll des 21. Treffen der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse vom 27.11.14, Schr. Gleichstellungsstelle für Frauen vom 08.01.15
+- TOP 6.1.: Schulcontainer für Grundschule Wiesentfelser Straße, Schr. Referat für Bildung und Sport vom 18.12.14
+- TOP 6.2.: Schulraumsituation in der Grundschule an der Wiesentfelser Straße, Schr. Referat für Bildung und Sport vom 18.12.14
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing, Anhörung Baureferat vom 15.12.14
+- TOP 6.2.: Evaluierung der Sondernutzungsrichtlinien, Anhörung KVR vom 02.12.14
+- TOP 6.3.: Verkehrssituation in der Mettnauer Straße, Schr. KVR vom 09.12.14
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.6.: Colmdorfstraße - Bodendenkmäler im 22. Stadtbezirk, Schr. Planungsreferat vom 08.12.14
+- TOP 6.9.: Anfrage des BA 22; Öklogisches Konzept Moosschwaige, Böhmerweiher, Aubinger Lohe
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München mit Stichtag: 15.12.14
+- TOP 6.1.: Baufälle im 22. Stadtbezirk v. 08.-14.12.14, v. 15.-21.12.14, 22.12.-28.12.14,29.12.14-04.01.15, Schr. Planungsreferat vom 16.12.14, 22.12.14, 09.01.15
+- TOP 8.1.: Technologiepark Freiham: Vergabe eines Gewerbegrundstücks, Schr. Referat für Arbeit und Wirtschaft vom 12.12.14
+- TOP 8.2.: Europe Direct Information 06/2014, Schr. Referat für Arbeit und Wirtschaft vom 19.12.14
+- TOP 8.4.: Unverändert Fortführung Campinggaststätte, Eschenrieder Str. 119, Schr. KVR vom 29.12.14
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10.2.: Beschluss der Vollversammlung des Stadtrates vom 17.12.14: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 10.4.: Bekanntgabe im Ausschuss für Bildung und Sport vom 14.01.15: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014 / 2015
+- TOP 10.5.: Bekanntgabe im Bildungsausschuss vom 14.01.15: - Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und heilpädagogischen Tagesstätten für das Schuljahr 2014 / 2015 - Schüler/innen- und Klassenstand, Berufliche Schulen der LH München im Schuljahr 2014 / 2015, Stand: 20.10.14 - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule, Schuljahr 2014 / 2015
+- TOP 10.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: - Bebauungsplan mit Grünordnung Nr. 1998b; Bahnlinie München-Herrsching, Kravogelstr., Papinstr., Gewerbegebiet ehemaliges Ausbesserungswerk - Arbeitsgruppe Ausbauoffensive, Kindertageseinrichtungen - Fortschreibung des jährlichen Spielflächenversorgungsplanes - Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA); Städt. Wohnungsbaugesellschaften prüfen Poteniale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2086: Trimburgstr., Am Gleisdreieck, Voglerstr., Leisaustr.
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 3.2.: Baumfällungen auf Anforderung: - Graßlfinger Str. 9 - Ravensburger Ring 65 - Am Loferfeld 14 - Rimparstr. 4 - Thuisbrunner Str. 18 - Kurt-Floericke-Str. 39 - Ravensburger Ring 65 - Mainaustr. 22 (N)- Walter-Brecht-Str. 16 (N) - Kallenbergstr. 16 (N) - Bodenseestr. 114
+- TOP 6.7.: Erlaubnisbescheid für Drehgenehmigung in der Hans-Steinkohl-Str., Clarita-Bernhard-Str. am 14.01.15, Schr. KVR vom 09.01.15 und 13.01.15
+- TOP 10.10.: Beschluss des Sozialausschusses vom 15.01.15: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 6.3.: Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied: Umbenennung der Bacherbreite und der Mälzereistraße, Anhörung Kommunalreferat vom 15.01.15
+- TOP 11.1.: Einladung zur Sitzung der Kommission Freiham am 21.01.15 von 17-19 Uhr im Kleinen Rathaussaal, Schr. Planungsreferat vom 12.01.15
+- TOP 1: Lärmschutzmaßnahmen für die Hellensteinstraße bis zur Kastelburgstraße Empfehlung Nr. 08-14 / E 01410 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 26.06.2012
+- TOP 2.7.: Lkw- und Arbeitsmaschinenverkaufsplatz am Ende des P+R Platzes Lochhausener Straße/Nord
+- TOP 2.8.: Planung der Bebauung entlang der Lochhausener Straße im Abschnitt Abfahrt A 99 bis zum Ortsende / Beginn Gröbenzell
+- TOP 6.2.: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 1 Kunstrasenplatzbau - Produkt 6.1 - u.a. Bezirkssportanlage Kronwinkler Str. 25, Anhörung Referat für Bildung und Sport
+- TOP 2.9.: Aufstellung von Schildern "Hunde an die Leine" in der Langwieder Haide
