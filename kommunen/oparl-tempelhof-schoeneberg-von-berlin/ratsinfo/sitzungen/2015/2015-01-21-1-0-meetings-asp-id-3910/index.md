@@ -1,0 +1,95 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-01-21T17:00:00+01:00
+- Ende: 2015-01-21T21:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3910
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3910
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=68573
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Wahlbeteiligung zur Seniorenvertretung steigern – Seniorenarbeit sichtbarer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Handjerystraße soll Fahrradstraße werden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Bürgerfreundliche Verwaltung II – hier: Ausweitung der Öffnungszeiten in den Abendstunden sowie Einführung einer Samstagssprechstunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Eingesparte Landesmittel aus Bahnstreik für vordringliche Sanierung des S-Bahnhofs Yorckstraße verwenden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Angebote der Jugendarbeit und der Jugendsozialarbeit nach dem KJHG - überwiesen
+- TOP 6.6: Das Freihandelsabkommen TTIP und CETA stoppen – Kommunale Daseinsvorsorge schützen - in der BVV abgelehnt
+- TOP 6.7: Ausnahme für E - KFZ - in der BVV abgelehnt
+- TOP 6.8: Eigenbetrieb Bürgerstiftung - in der BVV abgelehnt
+- TOP 6.9: Interessen der Lichtenrader Bürger vertreten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.10: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.11: Kältehilfe rettet Leben – Der Warmlufthalle „Halle-Luja“ der Berliner Stadtmission in Tempelhof-Schöneberg eine Perspektive geben! - überwiesen
+- TOP 6.12: Gleditschstraße 49/69: Milieuschutz, Instandsetzung und Modernisierung und die Einflußmöglichkeiten des Bezirksamts - beantwortet
+- TOP 6.13: Soziales Erhaltungsgebiet Gleditschstrasse - beantwortet
+- TOP 6.14: Alle Jahre wieder grüßt die Tischvorlage - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Zuständigkeits- und Verfahrensregelung für Altkleidercontainer ohne Sondernutzungserlaubnis - vertagt
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Tempo 10 in der Dorfaue Marienfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bekenntnis zu Diversity in Vergabeverfahr - überwiesen
+- TOP 9.3: Prioritäre, aber nicht finanzierte Baumaßnahmen bei allen Bezirken abfragen - überwiesen
+- TOP 9.4: Keine Entmündigung der Bezirke bei der Bauleitplanung - überwiesen
+- TOP 9.5: Parkbänke für den Kleistpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Kranzniederlegung zur 70-jährigen Befreiung von Auschwitz - vertagt
+- TOP 9.7: Verkehrssituation verbessern - hier: Absolutes Halteverbot Motzener Straße verlängern - überwiesen
+- TOP 9.8: Sommerbad Mariendorf: Chancen für einen Neubau ergreifen - überwiesen
+- TOP 9.9: Außenwerbung der Bezirkszentralbibliothek dringend verbessern - überwiesen
+- TOP 9.10: Weniger Leerstand bei Sozialwohnungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Tuberkulose-Untersuchungsstelle im Bezirk - überwiesen
+- TOP 9.12: Umgang mit Eingaben und Beschwerden - vertagt
+- TOP 9.13: Medienkisten für Willkommensklassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: Bürgerbeteiligung als eigenes Produkt dauerhaft im Bezirkshaushalt verankern - überwiesen
+- TOP 9.15: Benennung des „PallasParks“ in Translateur-Park - überwiesen
+- TOP 9.16: Kynastteich vor dem „Umkippen“ retten - überwiesen
+- TOP 9.17: 25 Jahre Deutsche Einheit - Wir wollen feiern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.18: Wegweiser für Gedenkkreuz an Horst Kullack - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.19: Tag der Menschen mit und ohne Behinderungen 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Aktionswoche: „Alkohol? Weniger ist besser!“ - überwiesen
+- TOP 9.21: Dresdner Bahn nur im Tunnel! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Sexualbegleitung für Menschen mit Behinderungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Anonymisierte Bewerbungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Berlin wächst - Höheren Anforderungen dynamisch begegnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Kleingartenkolonie "Feldblume 1915" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Gustav-Heinemann-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - BSC Kickers 1900 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Schachfreunde Berlin 1903 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Ferienwohnungen im Bezirk, wie geht es weiter? - vertagt
+- TOP 11.9: Entwidmung der Grünanlage Willmanndamm nur unter den Voraussetzungen nahegelegener Ersatzfläche - städtebaulich-räumlicher Verbesserung der Kreuzung und höherer Aufenthaltsqualität zustimmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Regelmäßige Berichterstattung zu erstellten Vorbescheiden bzw. Baugenehmigungen sowie zu Abgeschlossenheitsbescheinigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Wohnbaupotential an der Reißeckstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Hauptstraße 162 / Ecke Willmanndamm: Verfahrensfehler heilen! - vertagt
+- TOP 11.13: Milieuschutz mit Augenmaß - vertagt
+- TOP 11.14: Bürgerfreundliche Verwaltung I – hier: Bürgeramtsbesuch ohne Terminvereinbarung wieder ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Senat muss endlich seinen Obdachlosen-Rahmenplan von 1998 aktualisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Förderung von Neubauwohnungen für das Bauvorhaben Bautzener Straße nutzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Festsetzung des Entwurfs des Bebauungsplans 7-38 für die Grundstücke Hohenfriedbergstraße 25-26, Monumentenstraße 13 A-B, die Flurstücke 78 und 82 und eine Teilfläche des Grundstücks Monumentenstraße13 D sowie die Geßlerstraße und die Kesselsdorfstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - erledigt
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Fußgängersicherheit an Lichtsignalanlagen erhöhen - überwiesen
+- TOP 13.2: Inklusionspreis für Tempelhof-Schöneberg Integration von Menschen mit Behinderung in die Arbeitswelt fördern - überwiesen
+- TOP 13.3: Tempo 30 in der Rubensstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Tempo 30 zwischen Alt-Tempelhof und Ullsteinstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Tempo 30 in der Weskammstraße während des Schulbetriebes - überwiesen
+- TOP 13.6: Lichtsignalanlage in der Hauptstraße vor der Post - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Tempolimit Attilastraße - überwiesen
+- TOP 13.8: Zu kurze Ampelphase an der Kreuzung Eisenacher Straße/ Mariendorfer Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Kurze Ampelphase an der Kreuzung Rathausstraße/Ullsteinstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Sportvereine beim Einsatz gegen Spielsucht stärken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Barrierefreie Spielplätze - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Leerstehendes Flughafengebäude temporär für die Kreativwirtschaft öffnen - überwiesen
+- TOP 13.13: Wärme schenken - Frostschutzengel unterstützen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Termin der nächsten Sitzung - erledigt
