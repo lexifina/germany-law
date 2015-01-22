@@ -1,0 +1,121 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2015-01-22T17:40:00+01:00
+- Ende: 2015-01-22T23:07:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3450
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3450
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=120700
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=121710
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Welche Schulen wurden für das neue Toilettensanierungsprogramm vom Bezirksamt vorgeschlagen? - beantwortet
+- TOP 5.2: Bessere Personalausstattung in Berliner Bezirken - beantwortet
+- TOP 5.3: Jugendberufsagentur in Mitte - schriftlich beantwortet
+- TOP 5.4: Schultheißgelände - Wie geht es nun weiter? - schriftlich beantwortet
+- TOP 5.5: Ausreichende Hygienekontrollen an Berlins größter Grundschule, der Weddin-ger Anna-Lindh-Grundschule ? - schriftlich beantwortet
+- TOP 5.6: Schultoilettensanierungsprogramm - schriftlich beantwortet
+- TOP 5.7: Neuer Stichtag für die Einschulung - Konsequenzen für Kita und Schule - schriftlich beantwortet
+- TOP 5.8: Arbeitsmarktintegration von Flüchtlingen - schriftlich beantwortet
+- TOP 5.9: (Fast) Keine kontinuierliche Information der BVV aus AZ- bzw. Sanierungsge-bieten II - zurückgezogen
+- TOP 5.10: Kita-Umzug in die Allegro-Schule - schriftlich beantwortet
+- TOP 5.11: Schulentwicklungsplan Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - beantwortet
+- TOP 6.1: Toilettensanierungsprogramm - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Finanzierung der Kiezmütter-Projekte - nicht mehr als Lippenbekenntnisse? - beantwortet
+- TOP 7.2: Scheitern des Bebauungsplan 1-43 VE : Wie weiter auf dem Schultheiss Areal in Moabit? - beantwortet
+- TOP 7.3: Personalentwicklung im Bezirksamt Mitte - Programm KompetenzPLUS - beantwortet
+- TOP 7.4: Informationen über die Volkshochschul-Angebote besser zugänglich machen - beantwortet
+- TOP 7.5: BzStRin für Jugend, Schule, Sport und Facility Management lud im Dezember 2014 zum Arbeitsgespräch über die Jugendverkehrsschule Moabit (Bremer Straße 10) - beantwortet
+- TOP 7.6: Sicherheit auf den Fußwegen in Berlins Mitte - beantwortet
+- TOP 7.7: Parkprobleme im Umfeld Turmstraße - Bezirksamt hilflos? - schriftlich beantwortet
+- TOP 7.8: B-Plan 1-45VE: Kein festgesetzter B-Plan, aber Hamberger baut! - schriftlich beantwortet
+- TOP 7.9: Umgang mit "SED-Raubkunst" - schriftlich beantwortet
+- TOP 7.10: Schultheiss: Wir können alles, außer Bebauungspläne - schriftlich beantwortet
+- TOP 7.11: Bushaltestelle im Bereich U Bahnhof Turmstraße - schriftlich beantwortet
+- TOP 7.12: Jugendverkehrsschule Bremer Straße 10: Was bisher geschah - zurückgezogen
+- TOP 7.13: Neues Schultoilettensanierungsprogramm des Senats durch freiwerdende BA-föG-Mittel: Welchen Plan hat das Bezirksamt für sanierungsbedürftige Toiletten an Schulen und Sportstätten in Mitte? - schriftlich beantwortet
+- TOP 7.14: Verwendung von Mitteln aus dem Bonusprogramm - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Keine Unterbringung von Flüchtlingen in Turnhallen - überwiesen
+- TOP 11.2: Frauen-Wohnprojekt "Die Zwiebel" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Bericht über die Vorbereitung auf das Online-Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Besser leben in Mitte: Kiezmütter dauerhaft finanzieren! - zurückgezogen
+- TOP 12.3: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - überwiesen
+- TOP 12.4: Besser leben in Mitte: Kiezmütter dauerhaft finanzieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Pfandschlupf bekämpfen - überwiesen
+- TOP 12.6: Potentiale der Nördlichen Luisenstadt sichern: Keine vorzeitige Entlassung von Grundstücken aus dem Sanierungsgebiet - überwiesen
+- TOP 12.7: Kriterien für die regelmäßige Information des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne über planungsrechtliche Befreiungen bei Bebauungsplänen - überwiesen
+- TOP 12.8: Besetzung des Jugendhilfeausschusses - zurückgezogen
+- TOP 12.9: Kiezmütterarbeit verstetigen - zurückgezogen
+- TOP 12.10: Sitzkiesel evaluieren - überwiesen
+- TOP 12.11: Überfällige Befragung der Beschäftigten durchführen - überwiesen
+- TOP 12.12: Begegnungsraum im Kiez ertüchtigen: Umgestaltung des Mittelbereichs in der Waldstraße beginnen - überwiesen
+- TOP 12.13: Barrierefreier Zugang zu den Müllentsorgungsanlagen in der Rathausstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Fair im Verkehr - überwiesen
+- TOP 12.15: Umstellung der Microfiche-Archivierung im Wohnungsamt - in der BVV abgelehnt
+- TOP 12.16: Bei Bebauungsvorhaben Köpenicker Straße 104-114 Wege- und Grünachse zwischen Spree und Michaelkirchplatz gewährleisten - überwiesen
+- TOP 12.17: BVV-Dokumente unter den bisherigen Web-Adressen wieder verfügbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Einrichtung eines Runden Tisches zum Tourismus - überwiesen
+- TOP 12.19: OpenData aus Berlin-Mitte? - in der BVV abgelehnt
+- TOP 12.20: Open Data endlich im Bezirk Mitte nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Für Elise und Otto Hampel in Verbindung mit Rathausvorplatz Wedding - überwiesen
+- TOP 12.22: Fußgängerüberweg Ungarnstraße 75 - überwiesen
+- TOP 12.23: Tunnelbauwerke unter der Straße des 17. Juni unter Denkmalschutz stellen - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: FahrRat im Bezirk einrichten - mit Änderungen in der BVV beschlossen
+- TOP 15.2: Ausreichend Müll-Container in den Weinbergspark - mit Änderungen in der BVV beschlossen
+- TOP 15.3: Bearbeitungskosten bei Kleinen Anfragen - in der BVV abgelehnt
+- TOP 15.4: Kommerzielle Schulnutzer an den Kosten beteiligen - vertagt
+- TOP 15.5: Mehr Schutz für Kinder und Jugendliche in Tiergarten-Süd - vertagt
+- TOP 15.6: Gärtnern in Mitte - für und mit den Bürgerinnen und Bürgern - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Ein Zebrastreifen für das JobCenter Müllerstraße - vertagt
+- TOP 15.8: Zaun auf dem Magdeburger Platz - vertagt
+- TOP 15.9: Das Rathaus-Forum liegt nachts weitgehend im Dunkeln. Zum Munkeln? - mit Änderungen in der BVV beschlossen
+- TOP 15.10: Reinigung von öffentlichen Grünflächen durch die BSR - mit Änderungen in der BVV beschlossen
+- TOP 15.11: Antragsportal für Einwohnerinnen und Einwohner einrichten - in der BVV abgelehnt
+- TOP 15.12: Grillen im Monbijoupark - vertagt
+- TOP 15.13: Berlin wachsende Stadt – Personalkörper aufstocken - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Geschwindigkeitsbeschränkung in der Wollankstraße während der Nachtstunden - vertagt
+- TOP 15.15: Neuer Endpunkt für Buslinie 265 - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Straßensozialarbeit in der Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bessere Ausschilderung und Erklärung Moabiter Zentrum - vertagt
+- TOP 16.3: Benennung des Vorplatzes des Rathauses Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Barrierefreie Zugänglichkeit für die Arminius-Markthalle - vertagt
+- TOP 16.5: Fällung von Straßenbäumen vor Ort ausgleichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Unternehmerinnen und Unternehmer mit nichtdeutscher Herkunft unterstützen. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.7: Inschrift im Goethe-Denkmal im Goethepark wieder herstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Wiedereinstieg ins Berufsleben für Frauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.9: Wasserlose Urinale bei Neu- und Umbauten berücksichtigen - vertagt
+- TOP 16.10: Mehr Bänke in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Gewerbetreibende bei der Umgestaltung des Markthallenumfelds begleiten und unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Benennung des Rathausvorplatzes Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Grundstücksverkäufe Bundesanstalt für Immobilienaufgaben (BIMA) in Wedding und Moabit - hier: Kluckstraße 14 und weitere.... - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Neues Wohnen in der Kruppstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.15: Wohnprojekt Kruppstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Namensgebung für die 46. Grundschule im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Beantragung im Rahmen "Zukunftsinitiative Stadtteil II", Teilprogramm Soziale Stadt - Netzwerkfonds, Programmjahr 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Beschluss über das Ergebnis der frühzeitigen Behörden- und Öffentlichkeitsbeteiligung des vorhabenbezogenen Bebauungsplanentwurfs I-9-1VE "Axel-Springer-Campus" und die Durchführung der Behördenbeteiligung gemäß § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Konkretisierung der Sanierungsziele für den Holzuferblock (Block 104 611) im Sanierungsgebiet Nördliche Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
