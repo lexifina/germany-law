@@ -1,0 +1,96 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3509983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3509983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Wahl einer/s neuen Vorsitzenden UA Umwelt - <div>einstimmig Herr Welzel</div>
+- TOP 1.4.: Nachbesetzung in den Unterausschüssen
+- TOP 1.5.: Bestimmung einer/s neuen Beauftragten für Baumschutz - <div>einstimmig Herr Welzel</div>
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk wagnis e.V. Kindertheater ?Die Zündholzkinder? am 01.03.2015 (TOP 2.1.4- vertagt vom 11.12.2014) - <div>Abweichung von Referentenvorl.</div>
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Erweiterung des Parkverbots in der Marianne- Plehn- Straße - <div>Zustimmung mit Ergänzungen und Weiterleitung</div>
+- TOP 3.2.: Sicherheit der Fußgänger vor dem Förderzentrum in der Astrd- Lindgren- Straße - <div>Klärung bei OT</div>
+- TOP 3.4.: Haltverbotsschilder im Talerweg zwischen Kreillerstraße und Böcklerweg - <div>nach Antrag</div>
+- TOP 3.5.: Verkehrsbelastung in der Feldbergstraße zwischen Himalaja- und Zehntfeldstraße
+- TOP 3.6.: Parksituation in der Maria- Montessori- Straße
+- TOP 3.7.: Überwachung des Park- und Haltverbots in der Oslostraße
+- TOP 3.3.5: UA Schule, Soziales und Kultur:
+- TOP 3.1.: Reinigung des Parkstreifens an der Valentin-Linhof-Straße - <div>Zustimmung und Weiterleitung an Bauref-Tiefbau</div>
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Genderbudgeting- auch im BA - <div>abgelehnt</div>
+- TOP 4.2.: Barrierefreiheit im Gymnasium Trudering - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 4.3.: Nachbesserung bei der Tiefgarage des Gymnasiums Trudering - <div>zurückgezogen</div>
+- TOP 4.4.: Geothermie Riem: ein Vorzeigeprojekt versteckt sich nicht! - <div>Zustimmung und Weiterleitung an das Fachreferat</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Rinnsal oder Brunnen am Willy- Brandt- Platz - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Schulhofnutzung für Kinder und Jugendliche außerhalb der Schulzeiten - <div>Verweis in den UA Schule, Soziales und Kultur</div>
+- TOP 5.3.: Wiedereröffnung der blauen Sportplätze in der Messestadt Riem - <div>Verweis in den UA Schule, Soziales und Kultur</div>
+- TOP 5.4.: Fehlende Spielplätze In Kirchtrudering - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Bestattungsbezirk des Stadtteilfriedhofs Riem erweitern - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Lagepläne so erstellen, dass eine Orientierung über den Ort des Geschehens möglich ist; BA- Antrag Nr. 14-20/ B 00626 vom 20.11.2014
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Evaluierung der Sondernutzungsrichtlinien - <div>Zustimmung ohne Ergänzungen</div>
+- TOP 7.2.: Erläuterungsschilder zur Erinnerung an NS- Verfolgte und Widerstandskämpfer im 15. Stadtbezirk Trudeirng- Riem
+- TOP 7.1.: Haltverbot Halleiner Straße - <div>Zustimmung</div>
+- TOP 7.2.: Nachtlinien bis Messestadt und Trudering/Haar- Vorstellung durch die MVG im UA Bau und Verkehr
+- TOP 7.1.: Verkauf einer städtischen Immobilie, Gemarkung Trudering, Stolzhofstraße noch ohne Hs.Nr. - <div>Zustimmung</div>
+- TOP 7.1.: München lebt interkulturelle Vielfalt- Ein Angebot für Bezirksausschüsse
+- TOP 8: Baumfällungen
+- TOP 8.8.1: Bereits genehmigte Fällungen durch die Untere Natuschutzbehörde
+- TOP 8.1.: 8.1.1 Deikestraße 33 8.1.2 Eigerstraße 41 8.1.3 Groschenweg 39a 8.1.4 Truderinger Straße 269 8.1.5 Graf- Ottenburg- Straße 2 - <div>zur Kenntnis genommen</div>
+- TOP 8.8.2: Beantragte Baumfällungen
+- TOP 8.1.: 8.2.1 Kießlingerstraße 43 8.2.2 Schatzbogen 6 8.2.3 Am Neufeld 5 8.2.4 Wasserburger Landstraße 40 8.2.5 Heilwigstraße 86 8.2.6 Gerstäckerstraße 110 8.2.7 Bergerwaldstraße 39 8.2.8 Schwanenweg 16 8.2.9 Sperberstraße 21a 8.2.10 Sulzer- Belchen- Weg 21 - <div>Zustimmung zum Votum des UA Umwelt</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Bericht des Vorsitzenden über getroffene Eilentscheidungen gemäß § 20 Abs. 1 Satz2 BA- Satzung - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Christbaumverkauf Heinrich- Wieland- Straße 79- Antwortschreiben des KVR vom 02.12.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: 10.2 Unveränderte Fortführung eines Gaststättenbetriebes 10.2.1 Schank- und Speisewirtschaft Willy- Brandt- Platz 5, 81829 München 10.2.2 Kleingaststätte Max- Rothschild- Straße 5, 81825 München - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: 10.1.1 Kurzberichte und Verwendungsnachweise über Zuwendungen aus dem Budget des Bezirksausschusses 10.1.1.1 Aktion "Voila Opera", GS Forellenstraße 10.1.1.2 Streitschlichter- Ausbildung, Mittelschule an der Feldbergstraße 10.1.1.3 TSV Waldtrudering e.V 10.1.1.4 Christopherus Schulverein e.V. 10.1.1.5 Kreisjugendring München Stadt - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad", Finanzierung Änderung des Entwurfs des MIP 2014-2018 Leihradsysteme für München und seine Region- Status, Perspektiven und Erfolgsfaktoren; Antrag Nr. 08-14/ A 02093 von Herrn Stadtrat Dr. Georg Kronawitter vom 21.12.2010; Sitzungsvorlage Nr. 14-20/ V 01566; Beschluss der Vollversammlung des Stadtrates am 20.11.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Änderung der Radverkehrsführung in der Gartenstadtstraße - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Straßenausbaubeitragssatzung abschaffen; Antrag Nr. 14-20/ A 00097 von Herrn Stadtrat Hans Podiuk und Herrn Stadtrat Alexander Reissl vom 11.07.2014; Sitzungsvorlage Nr. 14-20/ v 02040; Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Parkplatz am De-Gaspari-Bogen für Besucherinnen und Besucher des Riemer Parks - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Mehrjahresinvestitionsprogramm für die Jahre 2014-2018 mit verbindlicher Planung für 2019; Entwurf für das Baureferat; Sitzungsvorlage Nr. 14-20/ V 01615; Beschluss des Bauausschusses vom 11.11.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Aufnahme von Straßen und Plätzen in der Messestadt Riem in das Vollanschlussgebiet der städtischen Straßenreinigung, Änderung der Straßenreinigungssatzung, Anschlussverzeichnis; Sitzngsvorlage Nr. 14-20/ V 02025; Beschluss des Bauausschusses vom 20.01.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Mitteilung über ein Grundstücksgeschäft 10.3.1.1 Stolzhofstraße 10.3.1.2 Leibengerstraße 16/ Erdinger Straße 13 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Gewerbegebiet Messestadt Ost; Vergabe eines Gerwerbegrundstücks
+- TOP 10.3.: Mietkosten senken und Klima schonen durch PV- Eigenverbrauchsanlagen (EVA)- Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV- Eigenverbrauch ihrer Mieter; Antrag Nr. 08-14/ A 04263 der Stadtratsfraktion DIE GRÜNEN/ROSA LISTE vom 17.05.2013; Sitzungsvorlagen Nr. 14-20/ V01341; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen , 5 Jahre AG Ausbauoffensive Kindertageseinrichtungen 2009-2014- eine Leistungsbilanz; Sitzungsvorlagen Nr. 14-20/ V 01695; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Fortschreibung des jährlichen Spielflächenversorgungsplanes; Antrag Nr. 14-20/ A 00210 von Stadträtin Beatrix Burkhardt vom 27.08.2014; Sitzungsvorlagen nr. 14-20/ V 01945; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.4.1.1 Salzmesserstraße 38 10.4.1.2 Iltisstraße 15 10.4.1.3 Dualastraße 2 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2014-2018 und Stellungnahme zu den Anregungen der Bezirksausschüsse; Sitzungsvorlage Nr. 14-20/ V 01804; Beschluss des Kulturausschusses vom 04.12.2014 - <div>positiv zur Kenntnis genommen</div>
+- TOP 10.2.: Anhörungsverfahren zur Änderung der Grundschulorganisation in der Landeshauptstadt München; Sprengeländeurng bzw. -errichtung der Grundschulen Astrid- Lindgren- Straße 11, Ilse- von- Twardowski- Platz 1; Sitzungsvorlage Nr. 14-20/ V 01854; Beschluss des Bildungsausschusses des Stadtrates vom 03.12.2014 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.: Schüler/innen- und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2014/2015 Stand: 20.10.2014; Sitzungsvorlage Nr. 14-20/ V 02057; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Schüler- und Klassenzahlen an den städtischen und stattlichen Gymnasien sowie an den Schulen des zweiten Bildungsweges im Schuljahr 2014/2015 Stand: 20.10.2014; Sitzungsvorlage Nr. 14-20/ V 02103; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20/ V 02129; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.7.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der städtischen Franz-Auweck-Abendschule; Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20/ V 02151; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Altholzbehandlungs- und Abfallumschlaganlage der IRV Interroh Rohstoffverwertungs GmbH, FlNr. 1408/337, 1408/336 und 1408/268 (Gemarkung Trudering), Otto- Perutz- Straße 9, 81829 München - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Unterrichtung des Baureferates über bevorstehende Beseitigungen von Gefahrenbäumen im 15. Stadtbezirk durch das Baureferat - <div>zur Kenntnis genommen</div>
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. Beschaffung eines Laptops - <div>nach Antrag</div>
+- TOP 1: (E) Ergänzung von Spielgeräten auf den Spielplätzen ?Am Moosfeld? und ?Ruppanerstraße Ecke Steffelhofstraße? Empfehlung Nr. 14-20 / E 00182 der Bürgerversammlung des Stadtbezirks 15 Trudering-Riem am 09.10.2014 - <div>nach Antrag</div>
+- TOP 3.3.: Tempo 30 im Schramminger Weg
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 10.10.6: UA Umwelt
+- TOP 7.7.7: ohne Vorberatung im UA
