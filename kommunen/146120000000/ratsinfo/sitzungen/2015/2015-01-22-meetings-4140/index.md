@@ -1,0 +1,58 @@
+# 6. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-01-22T16:00:00+01:00
+- Ende: 2015-01-22T22:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4140
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4140
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_01_22 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00191870.pdf
+- Wortprotokoll: Nachtrag_SR_2015_01_22 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00192419.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzungen im Ortsbeirat Leuben - Zustimmung
+- TOP 6: Nachbesetzung des Umlegungsausschusses - Zustimmung
+- TOP 7: Besetzung Beirat des Jobcenters Dresden - Vertagung
+- TOP 8: Wahl des Gemeindewahlausschusses für die Oberbürgermeisterwahl am 7. Juni 2015 und eines eventuell notwendig werdenden zweiten Wahlganges am 5. Juli 2015 sowie für die ggf. zeitgleich mit der Oberbürgermeisterwahl stattfindenden Ortschaftsratswahlen - Zustimmung
+- TOP 9: Vertagungen Stadtratssitzung 11./12. Dezember 2014
+- TOP 9.1: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 9.2: Wahl der Vertreter/innen der Landeshauptstadt Dresden und ihrer Stellvertreter/innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Vertagung
+- TOP 9.3: Besetzung des Aufsichtsrates der Flughafen Dresden GmbH - Zustimmung mit Änderung
+- TOP 9.4: Neue Wohnungspolitik in einer wachsenden Stadt - Vertagung
+- TOP 9.5: Neustädter Markt als lebendigen städtischen Platz zurückgewinnen - Große Meißner Straße umbauen - punktweise Zustimmung
+- TOP 9.6: Neustädter Markt aufwerten und Erscheinungsbild verbessern - städtebauliche Konzepte umsetzen - Zustimmung mit Änderung
+- TOP 9.7: Fußgängerquerung Neustädter Markt - Zustimmung
+- TOP 9.8: Postplatz neu gestalten und begrünen - Vertagung
+- TOP 10: Vertagungen Stadtratssitzung 11./12. Dezember 2014 - Neufassung Beschlüsse Stadtrat 10. Juli 2014 - Herstellung der Rechtssicherheit
+- TOP 10.1: Erhöhung des Förderetats zur Förderung der Träger der freien Jugendhilfe im Bereich der fachlich befürworteten Personalstellen zu 100 Prozent - Verweisung
+- TOP 10.2: Ereignisanalyse zu den Hochwasserereignissen im Mai und Juni 2013 und zusätzliche Maßnahmen zur Verbesserung der Hochwasservorsorge - Zustimmung mit Änderung
+- TOP 10.3: Bebauungsplan Nr. 357 B, Dresden-Neustadt Nr. 39, Leipziger Straße/Neustädter Hafen - Vertagung
+- TOP 11: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden vom 4. September 2014 - Zustimmung mit Ergänzung
+- TOP 12: Aufnahme der Kindertageseinrichtung Hausdorfer Straße 4 in 01277 Dresden in den Bedarfsplan - Zustimmung mit Änderung
+- TOP 13: Vorhaben- und Erschließungsplan Nr. 541, Dresden-Laubegast, Wohnungsbau Laibacher Straße/Gustav-Hartmann-Straße - Vertagung
+- TOP 14: Vorhaben- und Erschließungsplan Nr. 570, Dresden-Mickten Nr. 1, Wohnsiedlung Tichatschekstraße - Vertagung
+- TOP 15: Neubenennung eines Platzes - Vertagung
+- TOP 16: Bebauungsplan Nr. 357C, Dresden-Neustadt Nr. 41, Leipziger Straße/Alexander-Puschkin Platz („Puschkin-Park“) - Zustimmung mit Änderung
+- TOP 18: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Kommunalwahlkreis I - Mandat Sozialdemokratische Partei Deutschlands (SPD) - Zustimmung
+- TOP 19: Verpflichtung eines Stadtrates gemäß § 35 Absatz 1 SächsGemO durch die Oberbürgermeisterin
+- TOP 20: Aktuelle Stunde: Zeitzeugen 13. Februar 1945 - Die Landeshauptstadt Dresden und der 70. Jahrestag ihrer Zerstörung - erledigt
+- TOP 21: Einigungsverfahren Gremienbesetzung
+- TOP 21.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 21.2: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen) - Zustimmung
+- TOP 21.3: Ausschuss für Kultur - Zustimmung
+- TOP 21.4: Ausschuss für Soziales und Wohnen - Zustimmung
+- TOP 21.5: Ausschuss für Stadtentwicklung und Bau - Zustimmung
+- TOP 21.6: Ausschuss für Petitionen und Bürgeranliegen - Zustimmung
+- TOP 21.7: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Zustimmung
+- TOP 21.8: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Zustimmung
+- TOP 21.9: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 22: Besetzung des Wohnbeirates gemäß § 25 Abs. 9 Hauptsatzung der Landeshauptstadt Dresden - Nachbesetzung - Zustimmung
+- TOP 23: Umbesetzung im Jugendhilfeausschuss - Zustimmung
