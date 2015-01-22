@@ -1,0 +1,70 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-01-22T18:10:00+01:00
+- Ende: 2015-01-22T21:42:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1227
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1227
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sanierung und Erweiterung der Feuerwache Grevenbroich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00059948.pdf
+- Ergebnisprotokoll: Sanierung und Erweiterung der Feuerwache Grevenbroich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00059948.pdf
+- Wortprotokoll: Sanierung und Erweiterung der Feuerwache Grevenbroich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00059948.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Bürgerantrag ver.di - Kenntnisnahme
+- TOP 3: Vortrag
+- TOP 4: Schriftliche Anträge
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.2.1: SPD, Antrag Nr. 9/15 - einstimmig
+- TOP 4.2.2: SPD, Antrag Nr. 11/2015 - einstimmig
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: ABG
+- TOP 4.6.1: ABG, Antrag Nr. 1/2015 - mehrheitlich bei
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.8: Die Linke/Piraten
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.2.1: SPD, Anfrage Nr. 10/2015
+- TOP 5.3: UWG
+- TOP 5.4: FDP
+- TOP 5.5: B 90/Grüne
+- TOP 5.6: ABG
+- TOP 5.7: Die Linke/Piraten
+- TOP 5.8: Mein Grevenbroich
+- TOP 5.8.1: Mein GV, Anfrage Nr. 3/2015 - Kenntnisnahme
+- TOP 5.8.2: Mein GV, Anfrage Nr. 4/2015 - Kenntnisnahme
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Bericht
+- TOP 7.1: Finanzen
+- TOP 7.2: Feuerschutz
+- TOP 7.3: Soziales
+- TOP 7.4: AK-Demografie
+- TOP 8: Beantwortung von Anträgen
+- TOP 8.1: FDP, Antrag Nr. 178/2014 - Kenntnisnahme
+- TOP 8.2: FDP, Antrag Nr. 155/2014 - Kenntnisnahme
+- TOP 8.3: Die Linke/Piraten Antrag Nr. 175/2014 - Kenntnisnahme
+- TOP 8.4: Produkt 01061, Antrag der FDP-Fraktion 212/14 - Kenntnisnahme
+- TOP 8.5: Antrag Nr. 263/14 der SPD-Fraktion, Produkt 05031 - einstimmig
+- TOP 8.6: Bündnis 90/Die Grünen, Antrag Nr. 313/14 - Kenntnisnahme
+- TOP 8.7: SPD, Antrag Nr. 317/14 - Kenntnisnahme
+- TOP 9: Beantwortung Anfragen
+- TOP 9.1: Neuer Audi Q5 für die Feuerwehr - Wie steht es um die Einsatzfahrzeuge der Feuerwehren in GV? - Kenntnisnahme
+- TOP 9.2: Beantwortung Anfragen - Kenntnisnahme
+- TOP 10: Mündliche Anträge/Anfragen
+- TOP 10.1: Hemmerden
+- TOP 10.2: fremdenfeindliche Aufkleber/Flugblätter
+- TOP 10.3: Brandschutzbedarfsplan
+- TOP 10.4: Karnevalsfeier
+- TOP 10.5: Stadtmarketing
+- TOP 10.6: Expo Real
+- TOP 11: Mitteilungen BM'in
+- TOP 11.1: Mitteilung BM'in
