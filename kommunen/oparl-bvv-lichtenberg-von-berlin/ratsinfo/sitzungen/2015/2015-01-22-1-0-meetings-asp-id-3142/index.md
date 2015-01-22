@@ -1,0 +1,89 @@
+# 40. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-01-22T17:00:00+01:00
+- Ende: 2015-01-22T21:45:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3142
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3142
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=117090
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - erledigt
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Lichtenberger Inklusionsmedaille - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Barrierefreie visuelle Kommunikation durch das Bezirksamt Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Lichtenberg verzichtet auf BPA- und bisphenolhaltiges Thermopapier - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Wegeverbindung im Wartenberger Park wieder nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Betriebliches Eingliederungsmanagement (BEM) als behördliche Maßnahme des Bezirksamtes stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Angebote für Sozialberatung für die Beschäftigten des Bezirksamtes Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Überarbeitung des Verfahrens zur Vergabe der Stadtteilzentren - überwiesen
+- TOP 9.8: Parken am Wochenende vor den Kitas in der Schulze-Boysen-Straße erlauben - überwiesen
+- TOP 9.9: Sichere Ein- und Ausfahrtregelung beim Einkaufszentrum Alfred-Kowalke-Straße - überwiesen
+- TOP 9.10: arrivo Berlin unterstützen - Geflüchtete in den Arbeitsmarkt integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Berufsausbildung für unbegleitete jugendliche Flüchtlinge auch nach dem 18. Lebensjahr sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Ausweitung von Telearbeitsplätzen - Voraussetzungen für Dienstvereinbarung schaffen! - überwiesen
+- TOP 9.13: Falkenberger Infrastruktur an neue Bedarfe anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Sicheres Passieren der Simon-Bolivar-Straße - überwiesen
+- TOP 9.15: Halteverbot in der Leuenberger Straße aufheben - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Integriertes kommunales Klimaschutzkonzept - eine Zwischenbilanz - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Sicherheit von Schulwegen in der Dolgenseestraße steigern - überwiesen
+- TOP 9.18: Anmeldung zur Investitionsplanung 2015 - 2019 - überwiesen
+- TOP 9.19: Fortschreibung Landschaftsrahmenplan Lichtenberg - überwiesen
+- TOP 9.20: Sicherer Fahrradweg Schlichtallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.21: Verbesserung der Bedingungen für Radfahrer im nordwestlichen Karlshorst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.22: Energieeffiziente Straßenbeleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Partielle Entsiegelung von Gehweg-Unterstreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Fundierte Prüfung der Straßenbahnführung unter der Brücke Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.25: Jugendhilfe vor Ort - überwiesen
+- TOP 9.26: Hundeauslaufgebiete für Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Votierungsergebnisse 2014 - Bürgerhaushalt Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.28: Verkehrsführung in der Rudolf-Seiffert-Straße ungehindert sicherstellen - überwiesen
+- TOP 9.29: Änderung von Schulnamen: - "Johann-Gottfried-Herder-Schule (Gymnasium)" in "Johann-Gottfried-Herder-Gymnasium", Franz-Jacob-Str. 8, 10369 Berlin - "Barnim-Schule (Gymnasium)" in "Barnim-Gymnasium", Ahrensfelder Chaussee 41, 13057 Berlin - "Immanuel-Kant-Schule (Gymnasium)" in "Immanuel-Kant-Gymnasium", Lückstraße 63, 10317 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.30: Vorhabenbezogener Bebauungsplan 11-95 VE - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Wartenberger Straße/Gehrenseestraße/Wollenberger Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.31: Aufgabenübertragung der Funktion "Leitung des Steuerungsdienstes" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.32: Einsatz von Fördermitteln der Senatsverwaltung für Stadtentwicklung und Umwelt für "Freiwilliges Engagement in Nachbarschaften" (FEIN-Mittel) in Friedrichsfelde Nord - überwiesen
+- TOP 9.33: Bebauungsplan 11-47a - Festsetzung Arbeitstitel: "GuD Klingenberg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.34: Bebauungsplan 11-81 - frühzeitige Beteiligungen Arbeitstitel: Kleingartenanlage "Wiesenhöhe" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.35: Bebauungsplan XVII-9-1 Arbeitstitel: Berlin-Campus - überwiesen
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 10.1: Sicherung des Schulstandortes Rüdigerstraße 76 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Wahl der Bezirksbürgermeisterin/des Bezirksbürgermeisters - gewählt
+- TOP 11.2: Berufung eines Stellvertreters für beratende Mitglieder im Jugendhilfeausschuss für die VII. Wahlperiode - gewählt
+- TOP 11.3: Wahl der BVV-Vertretung im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: (Wander)Karte für den Lichtenberger Teil des Regionalparks - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Infotafeln für den Lichtenberger Teil des Regionalparks - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Einwohnerantrag: "Schulreinigung" - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Nachweisung der im Haushaltsjahr 2014 bis zum 30.06.2014 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Keine Privatisierung von bezirklichen Aufgaben zu Lasten des Bürgers - überwiesen
+- TOP 12.6: Finanzierung durch Drittmittel stärker implementieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sondermittel für die Verkehrserziehung an der Jugendverkehrsschule - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Japanisches Tor im Kirschgarten - in der BVV abgelehnt
+- TOP 13.2: Verbindliche Qualitätsstandards für alle Flüchtlingsheime und Erstaufnahmestellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Umfassende Information zur Bodenbelastung im Tierpark - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Entmündigung der Bezirke stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Vorlagen zur Beschlussfassung - (offen)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Keine Beseitigung des Giebelwandbilds "Nicaraguanisches Dorf - Monimbò 1978" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Verkehrsdaten der Dialog-Displays veröffentlichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.3: Erhöhung der Beschäftigtensollzahl des Bezirksamtes Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Mensch und Hund - für ein sauberes Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Nachbarschaftshaus und Stadtteilzentrum in Friedrichsfelde erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.6: Gedenktafel für Ernst Torgler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Berlin-Ticket erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Parken am Weißenseer Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16: Schließung der Sitzung - erledigt
