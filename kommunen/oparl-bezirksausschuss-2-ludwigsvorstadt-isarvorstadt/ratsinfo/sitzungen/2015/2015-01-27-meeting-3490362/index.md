@@ -1,0 +1,112 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-01-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490362
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490362
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Städtebauliche Planung für das Viehhofgelände im Zusammenhang mit Münchner Volkstheater
+- TOP .2.: Einbeziehung des BA 2 in die Planungen zum Münchner Volkstheater auf dem Viehhofgelände
+- TOP .2.: BA-eigenes Budget: Kinderprogramm BA-Fest/Gärtnerplatzfest, 500,00 ?
+- TOP .1.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren, Anhörung zum Entwurf einer Beschlussvorlage für die Sitzung des Bildungsausschusses des Stadtrates am 04.02.2015, Sitzungsvorlage Nr. 14-20 / V 01135, u.a. Behandlung von folgenden Empfehlungen aus Bürgerversammlungen des 2. Stadtbezirkes: Zusätzliche Räume für Grundschule an der Tumblingerstraße (Ziffer 1), BV-Empfehlung Nr. 08-14 / E 00958 vom 24.05.2011 Adäquate Ersatzräume für Berufsschule Tumblingerstraße (Ziffer 2), BV-Empfehlung Nr. 08-14 / E 00959 vom 24.05.2011 Die Berufsfachschule in der Tumblingerstr. erhält bis zum Umzug in die Poccistr. angemessene Ersatzräume; Ausbau der Grundschule vierzügig, gemeinsame Mensa mit zu schaffendem Tagesheim, BV-Empfehlung Nr. 08-14 / E 01570 vom 20.11.2012 Nutzungsänderungen in der Grundschule in der Tumblingerstr. zur Verpflegung der Kinder der Mittagsbetreuung und der Ganztagesklassen, BV-Empfehlung Nr. 08-14 / E 02067 vom 07.11.2013 Raumbedarf der Grundschule in der Tumblingerstr., Bereitstellung zusammenhängender Räume für die Berufsfachschule, BV-Empfehlung Nr. 08-14 / E 02066 vom 07.11.2013 Raumnot in der Grundschule an der Tumblingerstr., BV-Empfehlung Nr. 14-20 / E 00220 vom 06.11.2014
+- TOP .1.: Toilette am Gärtnerplatz, fortlaufende Themensammlung
+- TOP .2.: Bücherschrank, fortlaufende Themensammlung
+- TOP .3.: Urban Art Festival, fortlaufende Themensammlung
+- TOP .4.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung; Prüfung der Möglichkeiten zur Unterbringung von Flüchtlingen im Deutschen Museum
+- TOP .5.: Kulturzentrum ?Südbahnhof 2/6?, fortlaufende Themensammlung
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Landwehrstr. 26, Nutzungsänderung: Supermarkt zu Imbiss, Straßenverkauf (Kiosk) und Shisha-Bar mit Einzelhandelsgeschäft
+- TOP 1.2.: Sonnenstr. 8, Nutzungsänderung: Laden und Wettannahme zu Wettbüro - Tektur
+- TOP 1.3.: Goethepl. 2, Erweiterung der Gaststätte um zwei teilweise offene Gasträume - Tektur
+- TOP 1.4.: Auenstr. 22, Abbruch bestehendes Satteldaches, Aufstockung, Dachaufbau, Balkonanbauten und Errichtung eines Aufzuges (Auenstr.22/Ickstattstr. 34)
+- TOP 1.5.: Reifenstuelstr. 3, DG-Ausbau mit Errichtung von Balkonen
+- TOP 1.6.: Goethestr. 74, Nutzungsänderung: Büros zu Sportwetten-Bereich, Cafébar, Wohnung
+- TOP 1.7.: Lindwurmstr. 65, Aufstockung und Ausbau zu Wohnungen
+- TOP 1.8.: Schwanthalerstr. 88, Errichtung zweier Wohngebäude mit Laden und TG ? Tektur
+- TOP 1.9.: Baaderstr. 53, Umbau und Sanierung im Dachbereich eines denkmalgeschützten Gebäudes einschließlich Anbau eines Aufzugs
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Dreimühlenstr. 10, Antrag auf Baumveränderung/Baumpflegemaßnahmen, 1 Kastanie
+- TOP 1.2.: Kapuzinerstr. 43, Antrag auf Baumfällung, 1 Salweide
+- TOP 1.3.: Anhörung zu Baumfällungen des Baureferates, diverse Standorte (Eilentscheidung)
+- TOP 1.4.: Fraunhoferstr. 22, Antrag auf Baumfällung, 1 Esche
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Bahnhofsviertel mit hoher Aufenthalts- und Lebensqualität, Stadtratsantrag der SPD-Stadtratsfraktion vom 06.10.2014, Anhörung des Baureferates, vertagt aus 2014.12 B 3.3.1
+- TOP 1.2.: Müllerstr. 7, Gehwegsanierung nach Hochbaumaßnahme
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: Lindwurmstr. 77, Vinzenz Zöttl Bäckerei-Konditorei, Genehmigung einer Freischankfläche
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Eiche-Fasching, Reichenbachstr., 17.02.2015, Änderung des Lageplans wegen Berücksichtigung einer Baustelleneinrichtung, siehe 2014.12 C 3.1.1 (Eilentscheidung)
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Fraunhoferstr. 20, Einrichtung eines personenbezogenen Behindertenparkplatzes, Anhörung
+- TOP 1.1.: Evaluierung der Sondernutzungsrichtlinien, Anfrage des Kreisverwaltungsreferates
+- TOP 1.2.: Nutzung der Theresienwiese als Ausweichfläche für abgeschleppte Fahrzeuge im Rahmen des G7-Gipfels im Juni 2015, Anhörung des Referats für Arbeit u. Wirtschaft
+- TOP 1.1.: Bürgeranliegen: LKW-Verkehr im Dreimühlenviertel, siehe 2014.11 II 4, 2014.12 C 5.1, Einladung einer Vertreterin bzw. eines Vertreters des Kreisverwaltungsreferates in die Sitzung des Unterausschusses
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: 1.1 Konstituierung Unterausschuss ?Zukunft Viehhof? 1.1.1 Beschlussfassung über die Anzahl der Mitglieder 1.1.2 Berufung der Mitglieder und Regelung der Stellvertretung 1.1.3 Wahl der bzw. des Vorsitzenden und ggf. Regelung der Stellvertretung
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 09.02.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 10.02.2015 um 20 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 11.02.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung im Februar entfällt. Die BA-Sitzung findet am Dienstag, den 24.02.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.1.: 3.1 Ausstellung ?Innenstadt weiterdenken ? Pläne und Positionen für München?, 13.01.-06.03.2015, Rathausgalerie 3.2 Podiumsdiskussion ?Perspektiven für das südliche Bahnhofsviertel?, 03.02.2015 3.3 Informationsaustausch mit dem Kommunalreferat, 05.03.2015, 18 Uhr
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.2.: BA-Budget: Bescheide
+- TOP 1.3.: Vermietung des Grundstücks Ruppertstr./Tumblingerstr. an das Wohnprojekt ?Stattpark Olga?, Antwortschreiben des Kommunalreferates bezüglich Strom- und Wasseranschluss
+- TOP 1.4.: Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale, Sitzungsvorlage Nr. 14-20 / V 01336, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der Sitzung vom 02.12.2014 (SB)
+- TOP 1.5.: Bekanntgabe im Bildungsausschuss des Stadtrates am 14.01.2015, Schüler/innen- und Klassenstand im Schuljahr 2014/2015 an den - öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten, Sitzungsvorlage Nr. 14-20 / V 02129 - städtischen Realschulen, staatlichen Realschulen, städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule, Sitzungsvorlage Nr. 14-20 / V 02151 - städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges, Sitzungsvorlage Nr. 14-20 / V 02103 - Beruflichen Schulen der LHM, Sitzungsvorlage Nr. 14-20 / V 02057
+- TOP 1.6.: Bücherschrank am Karl-Heinrich-Ulrichs-Platz, Information der Bezirksinspektion zum aktuellen Sachstand
+- TOP 1.7.: ?Gärtnerplatz: Jährlicher Runder Tisch?, Antwortschreiben des Sozialreferates zum BA-Antrag Nr. 14-20 / B 00394 vom 30.09.2014, siehe auch C 4.6
+- TOP 1.8.: Tumblingerstr. 27-29, Antrag auf Ausstellung Negativattest, Antwortschreiben der Lokalbaukommission auf Schreiben des Bezirksausschusses
+- TOP 1.9.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen, 5 Jahre AG Ausbauoffensive Kindertageseinrichtungen 2009-2014 ? eine Leistungsbilanz, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 21.01.2015, Sitzungsvorlage Nr. 14-20 / V 01695
+- TOP 1.10.: Fortschreibung des jährlichen Spielflächenversorgungsplanes, Beschlussvorlage Nr. 14-20 / V 01945 des Ausschusses für Stadtplanung und Bauordnung am 21.01.2015
+- TOP 1.11.: Errichtung eines Kompetenzzentrums Erziehungsberufe an der Ruppertstr., Beschluss der Vollversammlung des Stadtrates vom 01.10.2014, Sitzungsvorlage Nr. 14-20/V01195
+- TOP 1.12.: BA-Veranstaltung zum Thema ?Flüchtlinge/Wohnungslose? am 14.10.2014, Informationen des Sozialreferates
+- TOP 1.13.: Arbeitskreis ?Zukunft Viehhof?, Protokoll des Treffens vom 15.01.2015
+- TOP 1.1.: Rothmundstr. 5, Stellungnahme und Baugenehmigung des Referats für Stadtplanung und Bauordnung zum BA-Schreiben vom 01.12.2014
+- TOP 1.2.: ?Anhörung zu Bauanträgen bezüglich baugenehmigungspflichtiger Freischankflächen?, Stellungnahme des Kreisverwaltungsreferats zu BA-Schreiben vom 01.12.2014
+- TOP 1.3.: Baumaßnahmen der Stadtwerke München
+- TOP 1.4.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München, Ausnahmezulassung gem. des Bundes-Immissionsschutzgesetzes
+- TOP 1.5.: Hackerbrücke - Behinderung durch Litfaßsäulen, Antwortschreiben des Baureferates zu BA-Schreiben vom 09.10.2014
+- TOP 1.6.: Mehrjahresinvestitionsprogramm für die Jahre 2014-2018 mit verbindlicher Planung für 2019; Entwurf für das Baureferat, Beschluss des Bauausschusses vom 11.11.2014, Sitzungsvorlage Nr. 14-20 / V 01615
+- TOP 1.7.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20 / V 01715, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2014
+- TOP 1.8.: Ehrenpreis für guten Wohnungsbau, Sitzungsvorlage Nr. 14-20 / V 01223, Beschluss der Vollversammlung des Stadtrates vom 20.11.2014
+- TOP 1.9.: Planungen und Anwohnerbeteiligung bei der Entwicklung des Schlacht- und Viehhofgeländes, BA-Anfrage 08-14 / Q 00553 vom 07.11.2013 und BV-Empfehlung 08-14 / W 02049 des BA 2, Zwischennachricht des Kommunalreferates
+- TOP 1.10.: Straßenausbaubeitragssatzung abschaffen, Beschlussvorlage Nr. 14-20 / V 02040 der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 1.11.: Liste aller Hotels und Boardinghäuser im Bahnhofsviertel, BA-Antrag Nr. 14-20 / B 00008 vom 29.04.2014, Antwortschreiben der Lokalbaukommission
+- TOP 1.12.: Bauvorhaben Maistr. 31, Antwortschreiben der Lokalbaukommission auf Stellungnahme des Bezirksausschusses, Abdruck des Vorbescheids
+- TOP 1.13.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Beschlussvorlage Nr. 14-20 / V 01341 des Ausschusses für Stadtplanung und Bauordnung am 21.01.2015
+- TOP 1.14.: Bauvorhaben Goethestr. 30-34, Antwortschreiben der Lokalbaukommission auf Stellungnahme des Bezirksausschusses, Abdruck der Baugenehmigung, siehe 2014.07 B 3.1.8
+- TOP 1.1.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.2.: Versammlungen unter freiem Himmel
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen (Absolutes Haltverbot Lindwurmstr. 82-86)
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: ?Gärtnerplatz: Jährlicher Runder Tisch?, Antwortschreiben des Sozialreferates zum BA-Antrag Nr. 14-20 / B 00394 vom 30.09.2014, siehe auch A 4.7
+- TOP 1.7.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, Sitzungsvorlage Nr. 14-20 / V 01715, Beschluss der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 1.8.: EineWeltHaus, Beschilderung im U-Bahnhof Theresienwiese, Antwortschreiben der MVG zu BA-Schreiben vom 01.12.2014
+- TOP 1.9.: Teilnahme des Stadtbezirks 2 am Modellprojekt -city2share- der BMW AG, BA-Antrag Nr. 14-20 / B 00401 vom 30.09.2014, Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 1.10.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München, Ausnahmezulassung des Referates für Gesundheit und Umwelt
+- TOP 1.11.: Leerung der Glascontainer im Zuständigkeitsbereich des Bezirksausschusses 2 nach Weihnachten und vor Silvester 2014, BA-Antrag Nr. 14-20 / B 00616 vom 25.11.2014, Antwortschreiben des Abfallwirtschaftsbetriebes
+- TOP 1.12.: Verlegung der Haltelinie für Radfahrer Richtung Innenstadt an der Nordwestecke der Wittelsbacherbrücke um einige Meter nach Osten, BA-Antrag Nr. 14-20 / B 00400, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 1.13.: Veranstaltung auf der Theresienwiese ? REWE Family Fest 2015, Sitzungsvorlage Nr. 14-20 / V 01766, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 09.12.2014 (SB)
+- TOP 1.14.: Stand der Planungen für den Radweg in der Zweibrückenstraße, BA-Antrag Nr. 14-20 / B 00223 des BA 1 vom 17.07.2014
+- TOP 1.15.: Unerwünschte Werbung durch Gebrauchtwagenhändler an Autoscheiben, Antwortschreiben der Bezirksinspektion auf Schreiben des Bezirksausschusses, siehe 2014.12
+- TOP .1.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Entstehung eines Urbanen NaturNetzes
+- TOP 1: (E) Bodenmarkierung auf dem Radweg am Goetheplatz erneuern (Ziffer 1) Empfehlung Nr. 14-20 / E 00216 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 1: (E) Umsetzung der Leitlinien der Weltgesundheitsorganisation bezüglich Nachtlärm (Ziffer 4) Empfehlung Nr. 14-20 / E 00214 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
