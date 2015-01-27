@@ -1,0 +1,126 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-01-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399021
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399021
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Eilentscheidung: Baumfällungsanträge der Baureferat-Garten - zugestimmt
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Pilotprojekt: München lebt interkulturelle Vielfalt ? Ein Angebot für Bezirksausschüsse
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Errichtung eines Blumenverkaufsstandes, Friedrichstraße 30 / Ecke Hohenzollernstraße
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.2.: Fröttmaninger Straße 21, Fl.Nr.: 941/0, Generalinstandsetzung einer Grundschule mit Anbau einer Wohnung für die technische Hausverwaltung; div. Fällungen gemäß Baumbestandsplan
+- TOP 3.1.5.: Osterwaldstraße 14, Fällung einer Esche und zwei Buchen
+- TOP 3.1.6.: Heidemannstraße 50, Fällung div. Bäume gemäß Plan
+- TOP 3.1.7.: Mandlstraße 1, Fällung einer Robinie
+- TOP 3.1.8.: Gertrud-Grunow-Straße 51, Fl.Nr.: 880/127, Neubau einer 5-zügigen Grundschule mit Räumen für ganztägige Betreuung+ Hausmeisterwohnung einschl. Dreifachsporthalle, Parkdeck, Freisportanlagen sowie einem Haus für Kinder mit 3 Krippen- und 3 Kindergartengruppen; Fällung eines Bergahorn und Verpflanzen diverser Bäume gemäß Baumbestandsplan
+- TOP 3.1.9.: Hörwarthstraße 19, Fällung einer Robinie
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Nachtrag eines Gedenksteins für ein Fährunglück im Bereich der Oberen Isarauen in die Denkmalliste
+- TOP 3.2.3.: Kunigundenstraße 31-33, FlNr.: 922/30, DG-Ausbau und Anbringen eines Wärmedämmver-bundsystems
+- TOP 3.2.5.: Freisinger Landstraße 21, Flurstück 87/4, vorübergehende kulturelle Zwischennutzung des ehem. Druckereigebäudes Biering im EG und UG bis voraussichtlich Ende Dezember 2015
+- TOP 3.2.6.: Hohenzollernstraße 5, Fl.Nr.: 4455/0, Neubau eines Hotels mit Ladennutzung und Umbau der Untergeschosse einschl. Tiefgarage
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Neubau Weimarer Straße - Baumpflanzungen
+- TOP 5.1.1.: Workshop zur Neugestaltung der Münchner Freiheit ? Zwischennachricht zum BA-Antrag Nr. 01671 vom 27.11.2009
+- TOP 5.2.1.: Herzogstraße 38, Fällung einer zweistämmigen Konifere
+- TOP 5.2.3.: Karl-Köglsperger-Straße 3-9, Fällung von einem Baumhasel
+- TOP 5.2.6.: Heidemannstraße 41b, Fällung von drei Birken
+- TOP 5.3.3.: Straßenausbaubeitragssatzung abschaffen; Sitzungsvorlage Nr.: 14-20 / V 02040, Beschluss der Vollversammlung des Stadtrates vom 17.12.2014
+- TOP 5.3.4.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne Margarete-Schütte-Lihotzky-Straße; Sitzungsvorlage Nr.: 14-20 / V 01881, Beschluss der Kommunalausschusses vom 11.12.2014 (siehe auch TOP D.5.3.4)
+- TOP 5.3.5.: Errichtung einer Grundschule in modularer Bauweise am Bauhausplatz Sitzungsvorlage Nr.: 14-20 / V 02143, Beschluss des Bildungsausschusses des Stadtrates vom 14.01.2015 (siehe auch TOP D.5.3.5)
+- TOP 5.3.6.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Sitzungsvorlage Nr.14-20/V 01341 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015
+- TOP 1: (E) Einrichtung eines Zebrastreifens und einer 30er Zone in der Ungererstraße zwischen Leopold- und Dietlindenstraße
+- TOP 1.2.: Standortgenehmigung für Parkscheinautomaten - Feilitzschstraße Lizenzgebiet Altschwabing
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.2.: Austausch der Lichtzeichenanlage Fröttmaninger-/Ungererstraße
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.2.: Hinweisschild zum Englischen Garten
+- TOP 4.3.: Verkehr in der Sondermeierstraße
+- TOP 1: (E) Errichtung eines Fahrradweges in der Hohenzollernstraße zwischen Friedrich- und Leopoldstraße Empfehlung Nr. 14-20 / E 00116 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 15.07.2014
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Errichtung einer Schulbushaltestelle in der Ungererstraße am U-Bahnhof Dietlindenstraße
+- TOP 5.3.1.: Restmüllprobleme Sulzbacherstraße 8-10 (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.3.: Anwohnerparken in der Thiemestraße und in der Kaulbachstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.4.: Beleuchtung der Sport- und Freizeitflächen (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 1.1.: Verlegung der Räumlichkeiten des Mieterbeirates in der Burgstraße 4
+- TOP 1.2.: Schülerzahlen siehe auch TOP D.5.3.3.
+- TOP 1.3.: Infrastrukturprogramm Sport siehe auch TOP D.5.3.6.
+- TOP 3.1.: City Bike Marathon am 12.04.2015
+- TOP 3.2.: Kunst im öffentlichen Raum - Skulptur in der Burmesterstr. 27 vom 15.05. bis 31.12.2015
+- TOP 5.1.1.: Kunst im öffentlichen Raum
+- TOP 5.1.2.: Städtisches Klinikum München GmbH (u.a. BV-Empfehlung E 00094) Sitzungsvorlage Nr.: 14-20 / V 01752, Beschluss der Vollversammlung vom 17.12.2014
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Chopan?, Schank- und Speisewirtschaft, Occamstraße 3
+- TOP 5.2.2.: Schankwirtschaft, Siegesstraße 17
+- TOP 5.3.1.: Mehrjahresinvestitionsprogramm 2014-2018 (Sitzungsvorlage Nr.: 14-20 / V 01667, Beschluss des Kommunalausschusses vom 13.11.2014) auch unter TOP B.5.3.1.
+- TOP 5.3.2.: Zuwendungsbewilligungen / Bescheide: a) Initiative ?Flüchtlingsunterkunft Bayernkaserne?für die Anschaffung von Regalen, Kleiderständern und eines Staubsaugers in Höhe von 909,00 ? b) Bewohnerinitiative Kunigundenstraße 29 für die Herstellung und Anbringung einer Gedenktafel in Höhe von 1.200,00 ? c) Theater ?I-piccoli? für die Realisierung einer Publikation in Höhe von 1.500,00 ?
+- TOP 5.3.5.: Errichtung einer Grundschule in modularer Bauweise am Bauhausplatz Sitzungsvorlage Nr.: 14-20 / V 02143, Beschluss des Bildungsausschusses des Stadtrates vom 14.01.2015 (siehe auch TOP B.5.3.5)
+- TOP 5.3.7.: 5 Jahre Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Leistungsbilanz Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015; Sitzungsvorlage Nr.14-20 / V 01695
+- TOP 5.3.8.: Fortschreibung des jährlichen Spielflächenversorgungsplanes Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015; Sitzungsvorlage Nr.14-20 / V 01945
+- TOP 5.3.9.: Verwendungsnachweis für Freunde der Freiwilligen Feuerwehr Freimann e.V. für den Tag der offenen Tür am 13.09.2014 in Höhe von 711,00 ?
+- TOP 5.3.10.: Infrastrukturprogramm Sport in München ? Rückblick 2014 und Ausblick 2015 Sitzungsvorlage Nr.: 14-20 / V 01789, Beschluss der Vollversammlung vom 17.12.2014
+- TOP 7: Unterrichtungen (1)
+- TOP 7.2.: Information des Sozialreferats zur BA-Veranstaltung zum Thema Flüchtlinge/Wohnungslose am 14.10.2014
+- TOP 10: sonstiges
+- TOP 3.1.1.: Freisinger Landstraße (im Bereich Nr. 74), Fällung div. Bäumen
+- TOP 3.1.3.: Osterwaldstraße 149, Fällung eines Nussbaumes und einer Weidenart
+- TOP 3.1.4.: Montsalvatstraße 2, Fällung von fünf Bäumen
+- TOP 3.1.10.: Weimarer Straße, Fl.Nr.: 266/13, Fällung div. Bäume gemäß Plan und Antrag auf Befreiung von den Festsetzungen des Bebauungsplans Nr. 1967a (siehe auch B.4.1.)
+- TOP 3.2.2.: Evaluierung der Sondernutzungsrichtlinien (siehe auch TOP C.3.2.1.)
+- TOP 3.2.4.: Tristanstraße 5, Fl.Nr.: 799/19, Umbau und Sanierung EFH incl. Aufstockung 1.OG - Vorbescheid
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.2.: Ifflandstraße 10, Zufahrt zur Flußmeisterei, Nachträgliche Unterrichtung des Baureferats Tiebau über die Beseitigung eines Gefahrenbaumes, Fällung eines Spitzahorn
+- TOP 5.2.4.: Unterrichtung des Baureferats Gartenbau über die bevorstehende Beseitigung von Gefahrenbäumen an diversen Orten
+- TOP 5.2.5.: Mattighofer Straße 15, Fällung einer Fichte
+- TOP 5.2.7.: Heidemannstraße 11, Fällung einer Schwarzkiefer und eines Silberahorn
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Mehrjahresinvestitionsprogramm 2014-2018 (Sitzungsvorlage Nr.: 14-20 / V 01667, Beschluss des Kommunalausschusses vom 13.11.2014) auch unter TOP D.5.3.1.
+- TOP 5.3.2.: Namensgebung Baugebiet Funkkaserne (BA-Antrag Nr. 3681)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.2.1.: Evaluierung der Sondernutzungsrichtlinien (siehe auch TOP B.3.2.2.)
+- TOP 4.1.: Überprüfung der Stellplätze in der Kaulbachstraße 75
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 2: (E) Verlegung der Buszufahrt zum Hotel Ibis, Lyonel-Feininger-Straße 20, auf die Hotelrückseite (Ziffer 2)
+- TOP 2.3.: Leistungsfähigkeit der Straßen in Freimann
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.2.: Radständer in der Hohenzollernstraße (Antwort des Baureferats auf ein Bürgeranliegen)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.3.: Schüler und Klassenzahlen im Schuljahr 2014 / 2015 - an den städtischen und staatlichen Realschulen; Sitzungsvorlage Nr. 14-20 / V 02151 - an den städtischen und staatlichen Gymnasien; Sitzungsvorlage Nr. 14-20 / V 02103 - an den beruflichen Schulen; Sitzungsvorlage Nr. 14-20 / V 02057 - an den Grund- , Mittel- und Förderschulen, städt. Tagesheimen und Heilpädagogischen Tagesstätten; Sitzungsvorlage Nr. 14-20 / V 02129 Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015
+- TOP 5.3.4.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne Margarete-Schütte-Lihotzky-Straße; Sitzungsvorlage Nr.: 14-20 / V 01881, Beschluss der Kommunalausschusses vom 11.12.2014 (siehe auch TOP B.5.3.4)
+- TOP 5.3.6.: Verwendungsnachweis für Freunde des OvMG e.V. für die Ausstellung zum 150jährigen Jubiläum von Januar 2014 ? Oktober 2014 in Höhe von 1.875,00 ?
+- TOP 5.3.11.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen; Sitzungsvorlage Nr.14-20 / V 02255 Beschluss des Sozialausschusses vom 15.01.2015
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
