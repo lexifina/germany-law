@@ -1,0 +1,73 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-01-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556414
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556414
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Berg-am-Laim-Str. 128 - 142 - Erweiterung einer Grundschule um 4 Züge, Doppelsporthalle, Mensa und Räumlichkeiten für eine ganztägige Betreuung
+- TOP 3.2.: Grafinger Str. 96 - Neubau Pilotprojekt Azubi-Wohnen und geförderter Wohnungsbau mit integrierter Kinderkrippe, Gewerbe und Tiefgarage
+- TOP 3.3.: Erschließung Baumkirchen Mitte: Herstellung der Hermann-Weinhauser-Straße als Erschließungsstraße sowie Umbau des Knotens Baumkirchner Straße / Truderinger Straße
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Wiedereinführung der Busverbindung Berg am Laim - Michaelibad Neuvernetzung der Buslinien in Berg am Laim für Angebotsverbesserung nutzen
+- TOP 3.2.: Austausch von Lichtzeichenanlagen am Permoserplatz
+- TOP 3.3.: Errichtung von Freischankflächen entlang des Hachinger Bachs
+- TOP 3.4.: Evaluierung der Sondernutzungsrichtlinien - Anhörung des KVR
+- TOP 3.5.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer - Anne-Frank-Anger
+- TOP 3.6.: Piusplatz - Wöchentlich wechselnde Sport-, Spiel- und Kreativangebote im Rahmen der Offenen Kinder- und Jugendsozialarbeit des AKA e.V. an Donnerstagen von April bis einschließlich Oktober 2015
+- TOP 3.7.: Echardinger Anger - Spielewochen des AKA e.V. im Juni 2015
+- TOP 3.1.: Ausbau des Internets am Michaeligymnasium
+- TOP 3.2.: Austausch des Hallenbodens in den alten Turnhallen im Michaeligymnasium
+- TOP 3.3.: Schulentwicklungsplanung Grundschulen 2030 - Datengrundlage überprüfen
+- TOP 3.1.: München lebt interkulturelle Vielfalt - Ein Angebot für Bezirksausschüsse
+- TOP 3.1.: Zuschussantrag Elternbeirat des Michaeligymnasiums - Einführung eines Informationsportals
+- TOP 3.1.: Hansjakobstr. 124
+- TOP 3.2.: Grafinger Str. 6
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter - Vorlagen- Nr. 14-20 / V 01341
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Linksabbiegemöglichkeit in die Echardinger Straße schaffen - Antwortschreiben
+- TOP 4.2.: Straßenausbaubeitragssatzung abschaffen - Vorlagen-Nr. 14-20 / V 02040
+- TOP 4.3.: Straßenbenennung im 14. Stadtbezirk - Hermann-Weinhauser-Straße
+- TOP 4.4.: Pächterwechsel im 14. Stadtbezirk - Rosenheimer Str. 145h - "MWM" (Umfirmierung) - Grafinger Str. 6 - "Q-Club"
+- TOP 4.1.: Ausweisung einer Volleyball-Spielfläche in Berg am Laim
+- TOP 4.2.: Fortschreibung des jährlichen Spielflächenversorgungsplanes - Sitzungsvorlagen Nr. 14-20 / V 01945
+- TOP 4.3.: Infrastrukturprogramm Sport in München - Rückblick 2014 und Ausblick 2015 Vorlagen-Nr. 14-20 / V 01789
+- TOP 4.4.: Arbeitsgruppe Ausbauoffensive - Kindertageseinrichtungen - 5 Jahre AG Ausbauoffensive - Kindertageseinrichtungen 2009 - 2014 - eine Leistungsbilanz Vorlagen-Nr. 14-20 / V 01695
+- TOP 4.1.: Sachberichte: - Alzheimer-Gesellschaft München - AKA e.V.
+- TOP 4.2.: Verwendungsnachweise: - AKA e.V. - Elternbeirat Grafingerschule - Theater Kunstdünger - Offenbarungskirche
+- TOP 4.1.: Unterrichtung über Beseitigungen von Gefahrenbäumen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.1.1: UA Planung, Bau, Wohnen, Umwelt
+- TOP 5.1.2: UA Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: UA Bildung, Betreuung, Familien und Sport
+- TOP 5.1.4: UA Soziales und Integration
+- TOP 5.1.5: UA Budget / Organisation
+- TOP 5.1.5.5.2.: Ankündigungen
+- TOP 5.1.5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
