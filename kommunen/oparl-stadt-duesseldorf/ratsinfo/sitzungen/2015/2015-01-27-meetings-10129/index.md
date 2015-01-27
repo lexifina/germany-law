@@ -1,0 +1,68 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-01-27T17:00:00+01:00
+- Ende: 2015-01-27T20:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10129
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10129
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231440.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231440.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231440.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 25.11.2014 - einstimmig beschlossen
+- TOP 3: Polizeipräsident Norbert Wesseler - zur Kenntnis genommen
+- TOP 4: Sanierung von Kunstrasenplätzen im Jahr 2015 für den Stadtbezirk 7 - einstimmig beschlossen
+- TOP 5: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 6: Amtsinsignien des Bürgermeisters von Gerresheim - mehrheitlich beschlossen
+- TOP 7: Flüchtlingsunterkunft Gerresheim - einstimmig beschlossen
+- TOP 8: Untertunnelung S-Bhf. Gerresheim - einstimmig beschlossen
+- TOP 9: Modernisierungsoffensive S-Bhf. Gerresheim - einstimmig beschlossen
+- TOP 10: Barrierefreiheit S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 11: LM-Supermarkt Dreherstraße - einstimmig beschlossen
+- TOP 11.1: Standorte zur Aufstellung von Wohnmodulen für die Unterbringung von Asyl suchenden Personen - zur Kenntnis genommen
+- TOP 12: Bergische Kaserne Hubbelrath I - mehrheitlich abgelehnt
+- TOP 13: Standorte für Flüchtlingsunterkünfte im Stadtbezirk 7 - mehrheitlich abgelehnt
+- TOP 14: Unterbringung von Flüchtlingen in der Bergischen Kaserne - mehrheitlich beschlossen
+- TOP 15: Öffentliche Informationsveranstaltung Bergische Kaserne - mehrheitlich abgelehnt
+- TOP 16: Gehweg-Verbindung Benderstraße/Marie-Curie-Straße - einstimmig beschlossen
+- TOP 16.1: Verkehrssicherheit Glashüttenstraße - einstimmig beschlossen
+- TOP 17: Sachstandsbericht Alte Insel - einstimmig beschlossen
+- TOP 18: Trinkbrunnen für den Stadtbezirk 7 - einstimmig beschlossen
+- TOP 19: Trinkbrunnen im Stadtbezirk 7 - zurückgezogen
+- TOP 20: Verkehrsführung Baustelle Dreherstraße - einstimmig beschlossen
+- TOP 21: Querungshilfe Glashüttenstraße - einstimmig beschlossen
+- TOP 22: Freigeben der Fußgängerzone für Fahrradfahrer - mehrheitlich abgelehnt
+- TOP 23: Blühwiesen im Stadtbezirk 7 - mehrheitlich beschlossen
+- TOP 24: Bürgerbeteiligung Dreherpark - einstimmig beschlossen
+- TOP 25: Erstellung einer Liste von Dächern öffentlicher Gebäude im Bezirk 7 - einstimmig beschlossen
+- TOP 26: Abbruch Torfbruchstraße 171/173 - zurückgezogen
+- TOP 27: Abpflanzung der Zaunanlage der Sportanlage Diepenstr. entlang der Düssel - einstimmig beschlossen
+- TOP 27.1: Tempolimit nachts 30 km/h - Ludenberger Str. und Glashüttenstr. - mehrheitlich beschlossen
+- TOP 28: Ampel Wiebachweg - zurückgezogen
+- TOP 29: Einmündung Wiebachweg/Dreherstraße - einstimmig beschlossen
+- TOP 30: Mögl. Wegfall der OU Flingern und Auswirkungen auf Gerresheim - vertagt
+- TOP 31: L404n zweispurig und über die Glashüttenstraße - zur Kenntnis genommen
+- TOP 32: Kooperation von Sportvereinen und Schulen/Kitas/Jugendeinrichtungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 33: Frischluftschneise Düsselaue /Ortsumgehung L404n - zur Kenntnis genommen
+- TOP 34: Senden der Haltestelleninformationen - vertagt
+- TOP 35: Zukünftige Nutzung des Grundstücks Torfbruchstr. 171/173 - zur Kenntnis genommen
+- TOP 36: Verkehrsknotenpunkt S-Bhf. Gerresheim/Verlängerung U75 - zur Kenntnis genommen
+- TOP 37: Endhaltestelle Stadtbahnlinie S-Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 38: Gut Mydlinghoven, Hubbelrath - zur Kenntnis genommen
+- TOP 39: Wasserfontäne im Ostpark - zur Kenntnis genommen
+- TOP 40: St. Hippolyt-Weg - zur Kenntnis genommen
+- TOP 41: Ringofen Ludenberg / Lichtmasterplan - zur Kenntnis genommen
+- TOP 42: 1.000 Bänke - zur Kenntnis genommen
+- TOP 43: Management der Baustelle Benderstraße - zur Kenntnis genommen
+- TOP 44: Sicherung der Ausstellungsreihe des FKI - zur Kenntnis genommen
+- TOP 45: Schwengelpumpe Neusser Tor - zur Kenntnis genommen
+- TOP 46: Bericht über die Umsetzung des Ganztags an Grund- und weiterführenden Schulen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 47: Linie 703, Verbesserung des Service nach 24 Uhr - zur Kenntnis genommen
+- TOP 48: Linie 703, Verbesserung des Serviceangebotes am Wochenende freitags- und samstags abends - zur Kenntnis genommen
