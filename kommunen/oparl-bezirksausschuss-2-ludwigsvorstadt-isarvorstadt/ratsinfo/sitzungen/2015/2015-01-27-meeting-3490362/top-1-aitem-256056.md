@@ -1,0 +1,7 @@
+# TOP .1.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren, Anhörung zum Entwurf einer Beschlussvorlage für die Sitzung des Bildungsausschusses des Stadtrates am 04.02.2015, Sitzungsvorlage Nr. 14-20 / V 01135, u.a. Behandlung von folgenden Empfehlungen aus Bürgerversammlungen des 2. Stadtbezirkes: Zusätzliche Räume für Grundschule an der Tumblingerstraße (Ziffer 1), BV-Empfehlung Nr. 08-14 / E 00958 vom 24.05.2011 Adäquate Ersatzräume für Berufsschule Tumblingerstraße (Ziffer 2), BV-Empfehlung Nr. 08-14 / E 00959 vom 24.05.2011 Die Berufsfachschule in der Tumblingerstr. erhält bis zum Umzug in die Poccistr. angemessene Ersatzräume; Ausbau der Grundschule vierzügig, gemeinsame Mensa mit zu schaffendem Tagesheim, BV-Empfehlung Nr. 08-14 / E 01570 vom 20.11.2012 Nutzungsänderungen in der Grundschule in der Tumblingerstr. zur Verpflegung der Kinder der Mittagsbetreuung und der Ganztagesklassen, BV-Empfehlung Nr. 08-14 / E 02067 vom 07.11.2013 Raumbedarf der Grundschule in der Tumblingerstr., Bereitstellung zusammenhängender Räume für die Berufsfachschule, BV-Empfehlung Nr. 08-14 / E 02066 vom 07.11.2013 Raumnot in der Grundschule an der Tumblingerstr., BV-Empfehlung Nr. 14-20 / E 00220 vom 06.11.2014
+
+- Sitzung: BA 02 - Vollgremium (2015-01-27)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/256056
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/256056
