@@ -1,0 +1,80 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-01-28T17:00:00+01:00
+- Ende: 2015-01-28T22:10:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2488
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2488
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Gewalt darf kein politisches Mittel sein - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellv. Bürgerdeputierten für den Ausschuss Verwaltung und Gleichstellung - gewählt
+- TOP 6.2: Wahl Schiedsfrau Schiedsamtsbezirk 1 Neukölln - gewählt
+- TOP 6.3: Wahl einer stellv. Bürgerdeputierten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-16a ("Clay-Oberschule") - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan 8-9bab ("Mohriner Allee / Windröschenweg - Süd") - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2015 - 2019 - überwiesen
+- TOP 7.4: Fusion Martin-Lichtenstein-Schule und Hermann-von-Helmholtz-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Finanzierung von Geburten nicht krankenversicherter Frauen - beantwortet
+- TOP 9.2: Trinkerszene am U-Bahnhof Britz-Süd - beantwortet
+- TOP 9.3: Verfahren Buckower Felder - beantwortet
+- TOP 9.4: Kinder in der "Hostel"-Flüchtlingsunterbringung - beantwortet
+- TOP 9.5: Ausschreibung bei archäologischen Untersuchungen an der Clay-Schule - beantwortet
+- TOP 9.6: Mietschulden durch Umstellung auf IBAN und BIC - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Erkenntnisse aus der Landesgesundheitskonferenz - schriftlich beantwortet
+- TOP 10.2: Zukunft der "Frauenschmiede" - beantwortet
+- TOP 10.3: Keine Kooperation mit Straftätern - in der BVV abgelehnt
+- TOP 10.4: Evaluation der Einbürgerungsfeiern - in der BVV abgelehnt
+- TOP 10.5: Britzer Weinkultur erhalten - zurückgezogen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Heimaufsicht für Flüchtlingsunterkunft - überwiesen
+- TOP 11.2: Anwohner frühzeitig über die zweite Flüchtlingsunterkunft informieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Freihaltung einer Radverkehrsanlage - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Führungsschienen für Fahrräder auf dem Elsensteg - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Radverkehr in der Oderstraße sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Schlaumäuse für Kitas - überwiesen
+- TOP 11.7: Neukölln zum Essbaren Bezirk machen! - in der BVV abgelehnt
+- TOP 11.8: Sportplatz der Fritz-Karsen-Schule schnellstmöglich wieder nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Bedarfsermittlung von versetzungsgefährdeten Schüler*innen - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Öffentlichkeitsarbeit bei dem Asylbewerberheim in der Hermann-Sander-Schule - beantwortet
+- TOP 12.2: Menschenwürdige Unterbringung von Flüchtlingen in Neukölln? - beantwortet
+- TOP 12.3: Flüchtlingsunterkünfte in Neukölln - beantwortet
+- TOP 12.4: Ex-Frauenklinik in neuem Besitz - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Flüchtlingsunterbringung - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Keine Asylbewerberheime in Turn- / Sporthallen - überwiesen
+- TOP 14.3: Fortschreibung des Neuköllner Integrationspapiers von 2009 - überwiesen
+- TOP 14.4: Vorbereitungskurse für Pflegeberufe ausbauen - überwiesen
+- TOP 14.5: Gutachten/Studien der Öffentlichkeit zugänglich machen - überwiesen
+- TOP 14.6: Berufliche Perspektive für Stadteilmütter - überwiesen
+- TOP 14.7: Tempo 30 in der Pannierstraße - überwiesen
+- TOP 14.8: Milieuschutz für Nord-Neukölln - überwiesen
+- TOP 14.9: Herrfurthstraße für Radgegenverkehr freigeben - überwiesen
+- TOP 14.10: Ablehnung 4. Änderung des AG BauGB - in der BVV abgelehnt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Rückbau der Fahrbahnmarkierung in der Stubenrauchstraße/Neuköllner Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Wasserballspielbetrieb gewährleisten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Sanierungskosten Werner-Seelenbinder-Sportpark - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Alle geplanten Psychiatrie-Betten im Krankenhaus Neukölln einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Aktive Städtepartnerschaften im Rathaus stärker würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Ausreichende Gemeinschaftsräume für die entstehende Unterkunft für Flüchtlinge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Neuköllner Register einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Prekäre personelle Ausstattung der Flüchtlingsunterkunft Späthstraße beenden - mit Abschlussbericht zur Kenntnis genommen
