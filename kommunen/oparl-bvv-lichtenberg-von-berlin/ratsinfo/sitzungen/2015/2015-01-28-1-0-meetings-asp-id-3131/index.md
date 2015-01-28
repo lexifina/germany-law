@@ -1,0 +1,26 @@
+# 33. Sitzung in der VII. Wahlperiode des Ausschusses Integration
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-01-28T19:00:00+01:00
+- Ende: 2015-01-28T20:30:00+01:00
+- Ort: Münsterlandstraße 33, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=47
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3131
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3131
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=117254
+
+## Tagesordnung
+
+- TOP 1: Bestätigung der Tagesordnung - erledigt
+- TOP 2: Bestätigung des Protokolls - erledigt
+- TOP 3: Aktuelle Viertelstunde/BürgerInnenanliegen - erledigt
+- TOP 4: Bericht des Bezirksamtes - erledigt
+- TOP 5: Berichte aus den Gremien - erledigt
+- TOP 6: Interkulturelle Familienarbeit - erledigt
+- TOP 7: Überwiesene Drucksachen - (offen)
+- TOP 7.1: Vorschläge zum Bürgerhaushalt aus dem I. - III. Quartal 2014 und vertagte Vorschläge aus 2013 - vertagt
+- TOP 7.2: Flüchtlingspatenschaften - vertagt
+- TOP 8: Verleihung Integrationspreis - erledigt
+- TOP 9: Sonstiges - erledigt
