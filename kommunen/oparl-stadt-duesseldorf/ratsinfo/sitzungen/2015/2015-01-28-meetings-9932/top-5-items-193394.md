@@ -1,0 +1,8 @@
+# TOP 5: Anfrage CDU: Maßnahmen gegen Flughafenparker
+
+- Sitzung: Bezirksvertretung 6 (2015-01-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/193394
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/71316
