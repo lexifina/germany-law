@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-01-28T17:00:00+01:00
+- Ende: 2015-01-28T18:24:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9932
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9932
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231942.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231942.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00231942.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Anfrage CDU: Maßnahmen gegen Flughafenparker - vertagt
+- TOP 6: Anfrage Sültenfuß + Körner Schranke Kalkumer Straße - vertagt
+- TOP 7: Anfrage SPD: Thewissenweg - beantwortet
+- TOP 8: Anfrage: Parksituation ISS-Dome - beantwortet
+- TOP 9: Anfrage: Fahrradboxen - beantwortet
+- TOP 10: Anfrage Helmke: Lärmschutz gegen Bahnlärm - beantwortet
+- TOP 11: Anfrage Daxenberger: Instandsetzung Fahrradabstellplatz - vertagt
+- TOP 12: Anfrage Daxenberger: Baulücken Stadtgebiet 06 - vertagt
+- TOP 13: Anfrage Daxenberger: Bericht Stand Neubaugebiet Bau- und Spargenossenschaft - vertagt
+- TOP 14: Anfrage Bü90/Grüne: Rheinbahn Straßenbahnlinie 707 - vertagt
+- TOP 15: Anfrage Bü90/Grüne: Falschparker im Stadtbezirk 06 - vertagt
+- TOP 16: Anfrage Bü90/Grüne: Belastung durch Funk, Radar und Störsignale - beantwortet
+- TOP 17: Anfrage FDP, CDU, Bü90/Grüne: Gaststätte "Zur Klinke" - vertagt
+- TOP 18: Anfrage SPD: Sportplatz Herdecker Straße - vertagt
+- TOP 19: Anfrage CDU: Umgestaltung Sportplatz Herdecker Straße - vertagt
+- TOP 20: Anfrage CDU: Umbau Saal Rather Kirchplatz - vertagt
+- TOP 21: Anfrage Schentek (CDU), Sültenfuß (CDU), Körner (FDP): Sicherheit an Rheinbahnübergängen - beantwortet
+- TOP 22: Anfrage Bü90/Grüne und Wieroszewsky (CDU): Nachpflanzung Bäume Haltestelle Rath Mitte - vertagt
+- TOP 23: Antrag Linke: eigenständiger Haushaltsentwurf - vertagt
+- TOP 24: Antrag Daxenberger: Monatliche Mitteilung Bauvorhaben - vertagt
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Antrag FDP, CDU und Bü90/Grüne: Vorgehensweise bei Bombenfunden Reitzensteinkaserne - zurückgezogen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Antrag SPD: Trampelpfad am Tiefenbroicher Weg - einstimmig beschlossen
+- TOP 30: Antrag Daxenberger (Die Linke): Flüchtlingshilfe Stadtgebiet 06 - vertagt
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Interfraktioneller Antrag: Containerstandort Kittelbach - einstimmig beschlossen
+- TOP 33: Wiederwahl des Schiedsmannes Wolfgang Mingers - einstimmig beschlossen
+- TOP 34: Nutzungsbeschränkungen Stellflächen Flughafen - einstimmig beschlossen
+- TOP 35: BSA Franz-Rennefeld-Weg, Erneuerung Granulat - einstimmig beschlossen
+- TOP 36: Zuschussvergabe und Förderung Dritter - einstimmig beschlossen
+- TOP 37: Mitteilungen der Verwaltung - zur Kenntnis genommen
