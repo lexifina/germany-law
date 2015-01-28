@@ -1,0 +1,72 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-01-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379884
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379884
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: JungbürgerInnen für Kultur und Politik - VPJ e.V.: Kulturzonen in den Zwischengeschossen der U-Bahn ? Start am Bonner Platz
+- TOP 1.2.: Bürger: Nachbarschaftsverträgliche Nutzung des Bamberger Hauses
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Ainmillerstr. 28 ?Sunday in bed?: Aufstellung einer Verkaufseinrichtung
+- TOP 2.1.2.: Evaluierung der Sondernutzungsrichtlinien
+- TOP 2.1.3.: Belgradstr. 3 ?Designer First & Secondhand?: Aufstellen einer Verkaufseinrichtung
+- TOP 2.1.4.: Aufstellung von Zeitungsentnahmekästen an den Standorten a) Habsburgerplatz Ecke Franz-Joseph-Straße b) Kaiserstr. 53 Ecke Römerstraße c) Clemensstr. 50 Ecke Ansprengerstraße
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: City Bike Marathon München und nördliche Umgebung am 12.04.2015
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Kölner Platz 1: Erweiterung Städt. Klinikum München-Schwabing - Abbruch vorgelagerte Erschließung / Eingangselement Häuser 23 + 24, Neubau Mutter-Kind-Zentrum mit Einbindung und Umbau der Häuser 24 + 2
+- TOP 2.1.2.: Vorbescheid Bauerstr. 26/RGB: Aufstockung des Rückgebäudes um eine zusätzliche Etage (Erweiterung der bestehenden Wohneinheit)
+- TOP 2.1.3.: Schleißheimer Str. 158-162: Umbau und Nutzungsänderung: Neuerrichtung von Büroräumen in bestehenden Lagerräumen, Vergrößerung der Verkaufsfläche und Einbau einer Treppe im EG sowie Verkleinerung des Maschinenraums im KG
+- TOP 2.1.4.: Hohenzollernstr. 61/RGB: Erneuerung des Dachgeschosses mit Einbau dreier Wohneinheiten
+- TOP 2.1.5.: Tektur Ansprengerstr. 6: DG-Abbruch (inkl. 5 WE) und Wiedererrichtung (15 WE), energetische Bestandsmodernisierung mit Heizungserneuerung und WDV-System, Anbau von Vorstellbalkonen und Aufzugsanlagen sowie Abbruch der alten Balkone (Ansprengerstr. 6/Cherubinistr. 5+7/Destouchesstr. 43-47) ? jetzt mit Errichtung einer Tiefgarage
+- TOP 2.1.6.: Vorbescheid Infanteriestr. 11a: Neubau Pavillon V für Hochschulnutzung (in zwei Varianten)
+- TOP 2.1.7.: Angererstr. 8-10: Umbau und Nutzungsänderung des ehemaligen Bezirksdepots der Straßenreinigung in eine Beratungsstelle (Büro) im EG
+- TOP 2.1.8.: Vorbescheid Destouchesstr. 83: Sanierung eines Wohn- und Geschäftshauses, Aufstockung Dachgeschoss, Errichtung von Balkon- und Erkerbauten
+- TOP 2.1.9.: Vorbescheid Belgradstr. 109: Neubau eines Mehrfamilienhauses
+- TOP 2.1.10.: Tektur Schleißheimer Str. 144: Modernisierung eines Mehrfamilienhauses mit Erneuerung des Dachstuhls und DG-Ausbau
+- TOP 2.1.11.: Hiltenspergerstr. 82 a: Nutzungsänderung der ehemaligen Fachakademie für Sozialpädagogik zur Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Lärmbelästigung durch laubsaugenden Traktor im Nordbad
+- TOP 1.2.: Bürger: Problematischer Standort der Wertstoffcontainer in der Infanteriestraße 1
+- TOP 1.3.: Bürger: Verdeutlichung des Haltverbots an der Ecke Birnauer/Bregenzer Straße sowie intensivere Kontrollen
+- TOP 1.4.: Arbeitsgericht: Aufstellung eines Hundekottütenspenders und eines Abfallbehälters vor dem Gerichtsgebäude
+- TOP 1.5.: Bürger: Aufstellen einer Sitzbank an der Ecke Clemens-/Winzererstraße
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.3.: Bonner Str. 17: Fällung einer Weide
+- TOP 2.4.: Herzogstr. 122: Fällung zweier Birken und eines Holunder
+- TOP 2.5.: Bauerstr. 24: Fällung von vier Bäumen
+- TOP 2.6.: Egmontstr. 6: Fällung einer Fichte
+- TOP 2.7.: Deidesheimer Str. 8: Fällung einer Fichte
+- TOP 2.8.: Schwere-Reiter-Str. 22: Fällung einer Fichte
+- TOP 2.9.: Herzogstr. 124: Fällung einer Hängebirke
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Provisorische Wegeverbindungen im Bereich der Urbanen Mitte am Ackermannbogen Entscheidung über die Projektplanung
+- TOP 2.2.2.: Aufhebung der Radwegbenutzungspflicht in der Birnauer Straße
+- TOP 2.2.1.: München lebt kulturelle Vielfalt ? ein Angebot für Bezirksausschüsse Pilotprojekt der Stelle für interkulturelle Arbeit im Sozialreferat
+- TOP 2.2.1.: Denkmalschutz für die Wohnhäuser von Sepp Ruf in der Ainmiller- und Franz-Joseph-Straße sowie am Habsburgerplatz
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein für Heilende Erziehung e.V. Benefiz-Konzert am 17.04.2015
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Stiftung Pfennigparade Konzert am 19.06.2015
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Entstehung eines Urbanen NaturNetzes
+- TOP 2: (E) Entmunitionierung am Ackermannbogen Empfehlung Nr. 14-20 / E 00152 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 09.10.2014
