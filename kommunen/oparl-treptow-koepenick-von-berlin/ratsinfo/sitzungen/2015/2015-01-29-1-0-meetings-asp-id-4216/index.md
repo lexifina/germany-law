@@ -1,0 +1,71 @@
+# 34. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-01-29T16:30:00+01:00
+- Ende: 2015-01-29T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4216
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4216
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=105900
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-39 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines Bezirksstadtrates - gewählt
+- TOP 8.2: Wahl eines stellvertretenden Bezirksbürgermeisters - gewählt
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten für den Sportausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Anmeldung zur Investitionsplanung 2015 bis 2019 - überwiesen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Ergebnisse der Einschulungsuntersuchungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Unterstützung für Gewerbetreibende auf dem Grundstück Schnellerstraße 130 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Teilnahme an Schulhilfekonferenzen sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Fahrbahnschwellen zur Verkehrsberuhigung künftig fahrradfreundlicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Parkstreifen Straße An der Wuhlheide - vertagt
+- TOP 12.6: Trinkwasserspender für die Bürgerämter - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Senioreneinrichtungen bei der Baulandentwicklung berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verstärkte Kontrollen der Rad- und Gehwege im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Vorbereiten für die Funktionsweise des Gesetzes zur Einführung von Immobilien- und Standortgemeinschaften (BIG Gesetz) - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sicherheit auf der Langen Brücke erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Vorrangschaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Standort ehemaliges Zwangsarbeiterlager kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Schutzvorrichtungen an Treptow-Köpenicker Brücken - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Artenschutz bei der Bergung des "Lenin-Kopfes" beachten (neu) - mit Änderungen in der BVV beschlossen
+- TOP 12.15: Lichtzeichenanlage am S-Bahnhof Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Rettungstaucher im Berliner Südosten stationieren - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-44 VE ("Wuhlepassage") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan 9-48 VE ("Mellowpark") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Resolution zum Brandanschlag auf das Auto des Vorsitzenden des Integrationsausschusses der Bezirksverordnetenversammlung Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Flüchtlingsunterkunft in der Beermannstraße schaffen - in der BVV abgelehnt
+- TOP 14.3: Einseitiges Parken in der Dörpfeldstraße zwischen Arndt- und Wassermannstraße zwischen 19.00 und 06.00 Uhr - überwiesen
+- TOP 14.4: Lichtzeichenanlage am S-Bahnhof Köpenick - überwiesen
+- TOP 14.5: Prüfung bei baustellenbezogener Radwegebenutzungspflicht - überwiesen
+- TOP 14.6: Arbeitsfähigkeit der Kultureinrichtungen in Treptow-Köpenick erhalten - überwiesen
+- TOP 14.7: Gedenkstätte Köpenicker Blutwoche durch gut sichtbare und lesbare Wegweiser kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: B-Plan-Hoheit bei den Bezirken belassen - mit Änderungen in der BVV beschlossen
+- TOP 14.9: Einstieg zu den Buslinien M11, X11 und 160 an der Haltestelle am Busbahnhof Schöneweide ermöglichen - überwiesen
+- TOP 14.10: Einführung der Klassensprecherwahlen in Willkommensklassen - überwiesen
+- TOP 14.11: Erweiterung der Querungshilfen an der Schönefelder Chaussee - überwiesen
+- TOP 14.12: Brunnen im Freizeit- und Erholungszentrum (FEZ) sanieren - mit Änderungen in der BVV beschlossen
+- TOP 14.13: Schulwegsicherheit in Alt-Treptow - überwiesen
+- TOP 14.14: Verteilung der Mittel im Kiezkassenverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Feuerwehrzufahrt Volkshochschule Baumschulenweg - überwiesen
+- TOP 14.16: Papiereinsparung in der BVV - überwiesen
+- TOP 14.17: Verkehrsfluss an der Kreuzung Wendenschloßstraße/Müggelheimer Straße verbessern - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wohnungsbau in Treptow-Köpenick - sozialverträglich und barrierefrei - vertagt
