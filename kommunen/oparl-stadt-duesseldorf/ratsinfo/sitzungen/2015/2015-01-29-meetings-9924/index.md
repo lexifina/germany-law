@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-01-29T17:00:00+01:00
+- Ende: 2015-01-29T18:20:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9924
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9924
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232001.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232001.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232001.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Trödelmärkte auf dem Schützenplatz Gubener Straße im Jahre 2015 - einstimmig beschlossen
+- TOP 4: Sanierung von Kunstrasenplätzen in 2015 im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 5: Abbruchantrag Alt-Eller 13 - einstimmig beschlossen
+- TOP 6: Abbruchantrag Freiheitstraße 12 - einstimmig beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Gaslaternen im Stadtbezirk 8 - beantwortet
+- TOP 9: Jugendfreizeitstätten im Stadtbezirk 8 - beantwortet
+- TOP 10: Skateranlage Heidelberger Straße - beantwortet
+- TOP 11: Förderschulen im Stadtbezirk 8 - beantwortet
+- TOP 12: Supermarkt Schlesische Straße - beantwortet
+- TOP 13: Stellplatzablöse im Stadtbezirk 8 und Parkplatzerweiterung Eller-Mitte - beantwortet
+- TOP 14: Kulturbahnhof Eller - beantwortet
+- TOP 15: Weiterführende Schulen im Stadtbezirk 8 - beantwortet
+- TOP 16: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 17: Unterführung Gumbertstraße - beantwortet
+- TOP 18: Baulücken im Stadtbezirk 8 - beantwortet
+- TOP 19: Kita - Bewegungscamp im Stadtbezirk 8 - beantwortet
+- TOP 20: Förderung von Sportvereinen im Stadtbezirk 8 - beantwortet
+- TOP 21: Verbindungsweg Sandträgerweg / Rybnicker Straße - beantwortet
+- TOP 22: Unterbringung von Flüchtlingen im Stadtbezirk 8 - beantwortet
+- TOP 23: Verkauf städtischer Einfamilienhäuser in Vennhausen - beantwortet
+- TOP 24: Schulunterricht von Flüchtlingen an der GHS Bernburger Straße - beantwortet
+- TOP 25: Zuschussvergabe der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 26: Bushaltestelle Erkrather Straße 349 - einstimmig beschlossen
+- TOP 27: Radweg Am Turnisch - mehrheitlich beschlossen
+- TOP 28: Hochbahnsteig Schlesische Straße - vertagt
+- TOP 29: Flüchtlinge im Stadtbezirk 8 - vertagt
+- TOP 30: Wegeunterhaltung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 31: Beleuchtung an der GGS Arnstadter Weg, Volker-Rosin-Schule - einstimmig beschlossen
+- TOP 32: Verkehrszählung Kreuzung Karlsruher Straße / Heidelberger Straße - einstimmig beschlossen
+- TOP 33: Behindertenparkplatz Am Pfaffenbusch - mehrheitlich beschlossen
+- TOP 34: Gewerbeunternehmen Karlsruher Straße und Flottenstraße - zur Kenntnis genommen
+- TOP 35: Parkplatz Schloss Eller - zur Kenntnis genommen
+- TOP 36: Ortsumgehung Flingern - zur Kenntnis genommen
+- TOP 37: Ortsumgehung Gerresheim - zur Kenntnis genommen
+- TOP 38: S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Auswirkungen des Bauverkehrs für das Glasmacherviertel auf den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Geschwindigkeitsmessungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: ÖPNV auf der Gumbertstraße - zur Kenntnis genommen
+- TOP 43: WLAN - Säulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: PFT-Grundwasserverunreinigung Gerresheim - zur Kenntnis genommen
+- TOP 45: ÖPNV - Netzqualität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 47: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 48: Wachdienst Schloss Eller - zur Kenntnis genommen
+- TOP 49: Breidenplatz - Handlauf an der unteren Treppe - zur Kenntnis genommen
+- TOP 50: Bushalteplatz an der Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 51: Geschwindigkeitsregelung Kamper Weg - zur Kenntnis genommen
+- TOP 52: Verkehrsspiegel Kamper Weg - zur Kenntnis genommen
+- TOP 53: Halteverbotszone Am Krahnap - zur Kenntnis genommen
+- TOP 54: Stellplatzablöse im Stadtbezirk 8 und Parkplatzerweiterung Eller-Mitte - zur Kenntnis genommen
+- TOP 55: Kita-Bewegungscamp im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Bordsteinabsenungen - zur Kenntnis genommen
+- TOP 57: Abfalleimer Ellerbittweg / Ecke Gumbertstraße - zur Kenntnis genommen
