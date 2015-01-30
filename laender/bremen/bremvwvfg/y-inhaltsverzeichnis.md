@@ -36,7 +36,7 @@ Abschnitt 1 Verfahrensgrundsätze
 § 22 | Beginn des Verfahrens
 § 23 | Amtssprache
 § 24 | Untersuchungsgrundsatz
-§ 25 | Beratung, Auskunft
+§ 25 | Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung
 § 26 | Beweismittel
 § 27 | Versicherung an Eides statt
 § 27a | Öffentliche Bekanntmachung im Internet
@@ -53,7 +53,7 @@ Teil III Verwaltungsakt
 Abschnitt 1 Zustandekommen des Verwaltungsaktes
 § 35 | Begriff des Verwaltungsaktes
 § 36 | Nebenbestimmungen zum Verwaltungsakt
-§ 37 | Bestimmtheit und Form des Verwaltungsaktes
+§ 37 | Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung
 § 38 | Zusicherung
 § 39 | Begründung des Verwaltungsaktes
 § 40 | Ermessen
