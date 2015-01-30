@@ -1,0 +1,2 @@
+# Artikel 131c
+Zur Erfüllung der Verpflichtung gemäß Artikel 131a Absatz 1 und Artikel 131b wirken Bürgerschaft und Senat auf eine aufgabengerechte Finanzausstattung des Landes hin. Der Senat ist verpflichtet, bei seiner Mitwirkung an der Bundesgesetzgebung und in Angelegenheiten der Europäischen Union sein Handeln am Ziel der Einnahmensicherung und der aufgabengerechten Finanzausstattung des Landes und seiner Gemeinden auszurichten.
