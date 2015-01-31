@@ -26,8 +26,6 @@ Abschnitt 3 Ergänzende Bestimmungen
 § 22 Hinweise zu Normen
 § 23 Übergangsvorschriften
 § 24 Inkrafttreten Außerkrafttreten
-Anlagenverzeichnis
-Anlage | Bezeichnung
-Anlage 1: | Indikationskatalog für den Notarzteinsatz
-Anlage 2: | Sachgebiete für Leistungserbringer, die Notfallrettung oder Krankentransport betreiben
-Anlage 3: | Rahmenlastenheft über Integrierte Regionalleitstellen im Freistaat Sachsen (Rahmenlastenheft)“
+Anlage 1: Indikationskatalog für den Notarzteinsatz
+Anlage 2: Sachgebiete für Leistungserbringer, die Notfallrettung oder Krankentransport betreiben
+Anlage 3: Rahmenlastenheft über Integrierte Regionalleitstellen im Freistaat Sachsen (Rahmenlastenheft)“

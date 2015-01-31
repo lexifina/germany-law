@@ -2,7 +2,7 @@
 Rahmenlastenheft über Integrierte Regionalleitstellen im Freistaat Sachsen (Rahmenlastenheft)
 Inhaltsverzeichnis
 Inhaltsverzeichnis
-Nr. | Bezeichnung
+Lfd. Nr. | Titel
 1. | Leitstellenstruktur
 1.1 | Begriffe
 1.2 | Aufgaben der Technikzentralen
@@ -376,7 +376,7 @@ Alle IRLS haben für Daten- und Sprachkommunikation Übertragungsnetze mit einhe
 4.3.1 Raumfunktionskonzept
 Die IRLS ist als nicht öffentlicher Bereich mit Zugangsbeschränkung auszuführen. Der Leitstellenraum ist zu klimatisieren und mit einer Geräuschdämmung auszustatten. Natürlicher Lichteinfall ist vorzusehen. Für die Reduzierung des Wärme- und Lichteinfalls sowie zum Blendschutz sind Möglichkeiten zu schaffen. Es sind die in der Tabelle 1 aufgeführten Räume mit höchstens der dort genannten Flächen einzurichten.
 Tabelle 1: Raumprogramm der IRLS
-Tabelle 1
+Raumprogramm der IRLS
 Nr. | Raumbezeichnung/Platzbedarf | Fläche pro Einheit [m²]
 Nr. | Raumbezeichnung/Platzbedarf | Fläche pro Einheit [m²]
 1 | Disponenten-Arbeitsplatz | 20
@@ -410,12 +410,12 @@ Nr. | Raumbezeichnung/Platzbedarf | Fläche pro Einheit [m²]
 29 | Verkehrsfläche | 15 Prozent
 * Die gekennzeichneten Bereiche können auch in Nebenräumen untergebracht werden.
 ** zuzüglich der für die Verkehrswege notwendige Flächen
-*** § 6 der Verordnung über Arbeitsstätten ( Arbeitsstättenverordnung – ArbStättV) vom 12. August 2004 (BGBl. I S. 2179), die zuletzt durch Artikel 4 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 965) geändert worden ist, in der jeweils geltenden Fassung
+*** § 6 der Verordnung über Arbeitsstätten (Arbeitsstättenverordnung – ArbStättV) vom 12. August 2004 (BGBl. I S. 2179), die zuletzt durch Artikel 4 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 965) geändert worden ist, in der jeweils geltenden Fassung
 4.3.2 Technikräume
 Die Vorgaben der Bausteine „Infrastruktur“ der Grundschutzkataloge des Bundesamtes für Sicherheit in der Informationstechnik (BSI) sind umzusetzen. Die nachfolgenden Räume sind den Bezeichnungen nach BSI-Grundschutz gleichzusetzen.
 Tabelle 2: Gleichsetzung der Raumbezeichnungen
-Tabelle 2
-Nr. | Raum | Bezeichnung
+Gleichsetzung der Raumbezeichnungen
+Nr. | Technikräume IRLS | Bezeichnungen nach BSI-Grundschutz
 1 | Technikräume IRLS | Bezeichnungen nach BSI-Grundschutz
 2 | Technikraum IuK | Rechenzentrum/Serverraum
 3 | Technikraum Klima, HLK, USV, NEA, Hausanschlussraum | Raum für technische Infrastruktur
@@ -448,7 +448,7 @@ Unabhängig vom Tageslichteinfall ist der Leitstellenraum, entsprechend den allg
 4. die Berufsgenossenschaftlichen Informationen (BGI) 856 „Hilfen für die Planung von Beleuchtungsanlagen von Räumen mit Bildschirm- und Büroarbeitsplätzen“, Ausgabe: März 2005, herausgegeben von der Verwaltungs-Berufsgenossenschaft und zu beziehen über C. L. Rautenberg-Druck.
 4.3.3.3 Lärmschutz
 Lärmschutzmaßnahmen sind einzurichten und durch entsprechende Messungen vor der Inbetriebnahme und während des Regelbetriebes nachzuweisen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
-1. die Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen ( Lärm- und Vibrations-Arbeitsschutzverordnung – LärmVibrationsArbSchV) vom 6. März 2007 (BGBl. I S. 261), die zuletzt durch Artikel 3 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 964) geändert worden ist, in der jeweils geltenden Fassung;
+1. die Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen (Lärm- und Vibrations-Arbeitsschutzverordnung – LärmVibrationsArbSchV) vom 6. März 2007 (BGBl. I S. 261), die zuletzt durch Artikel 3 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 964) geändert worden ist, in der jeweils geltenden Fassung;
 2. die VDI-Richtlinie 2569 „Schallschutz und akustische Gestaltung im Büro“, Ausgabe: Januar 1990, in den jeweils geltenden Fassungen, zu beziehen über die Beuth Verlag GmbH, Berlin, und beim Deutschen Patentamt archivmäßig gesichert niedergelegt.
 4.3.3.4 Klimatechnik
 Die Klimatisierung des Leitstellenraums ist für eine Temperatur von 19 bis 24 °C und eine relative Luftfeuchtigkeit zwischen 40 und 70 Prozent auszulegen. Die Raumbelüftung muss mit einer Luftgeschwindigkeit von 0,1 m/s erfolgen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
@@ -461,7 +461,7 @@ In der IRLS sind zwei Drucker zu installieren, die über Netzwerkanbindung alle 
 4.3.4 Antennenanlagen
 Antennenanlagen müssen für einen Nutzungszeitraum von mindestens 15 Jahren ausgelegt sein und mindestens 120 Prozent der zu erwartenden maximalen Windlast aufnehmen können. Der Antennenträger ist richtfunktauglich zu gestalten. Durch die Anordnung der Antennen mit einem Entkopplungsabstand (Koppeldämpfung) von 60 bis 80 dB ist die Interkanalmodulation zwischen den Sendern und die Desensibilisierung der Empfänger (Zustopfeffekt) zu verhindern. Bei den nachfolgend aufgeführten Frequenzbereichen sind bei einer Entkopplung von 40 dB folgende Mindestabstände erforderlich.
 Tabelle 3: Mindestabstände der Antennen
-Tabelle 3
+Mindestabstände der Antennen
 Funkbereich | vertikale Anordnung | horizontale Anordnung
 Funkbereich | vertikale Anordnung | horizontale Anordnung
 4 m | 6 m | 52 m
@@ -484,7 +484,7 @@ Einbruchs- und Zugangssicherung: Für die IRLS ist ein baulicher und technischer
 5.1 Anforderungen an die Verfügbarkeit
 Für den Schutz vor möglichen Bedrohungen sind über den IT-Grundschutz hinaus nachfolgende Verfügbarkeiten je Kalendermonat (30 Tage/24 Stunden) zu gewährleisten. Die Verfügbarkeit endet mit der Mängelanzeige und beginnt mit der Inbetriebnahme nach Mängelbeseitigung und schriftlichem Nachweis. Die Sicherstellung der Verfügbarkeit der Notrufannahme kann auch durch organisatorische Maßnahmen (zum Beispiel die Inbetriebnahme von Rückfallebenen) erfolgen.
 Tabelle 4: erforderliche Verfügbarkeiten von Anlagen der IRLS
-Tabelle 4
+erforderliche Verfügbarkeiten von Anlagen der IRLS
 Nr. | Anlage | monatliche Verfügbarkeit | monatliche Ausfallzeit
 Nr. | Anlage | monatliche Verfügbarkeit | monatliche Ausfallzeit
 1 | Kommunikationstechnik (Funk-Notrufabfrage, Funkanlagen und Alarmierungssysteme) | 99,9 Prozent | 
@@ -514,7 +514,7 @@ Der Ausfall ist unter anderem dadurch gekennzeichnet, dass Notrufe nicht angenom
 5.3.2 Konzeptionelle Anforderungen (Redundanzkonzept)
 Mit dem Redundanzkonzept ist sicherzustellen, dass die Arbeitsfähigkeit einer IRLS unverzüglich wieder hergestellt wird oder eine sofort wirkende Alternative zur Verfügung steht. Der Ausfall technischer Einrichtungen muss bei vorübergehender Einschränkungen der Funktionalität unter Aufrechterhaltung der Grundfunktionen unverzüglich kompensiert werden. Dabei sind für abschätzbare Ausfallzeiten die nachfolgenden Maßnahmen einzuleiten:
 Tabelle 5: Maßnahmen bei abschätzbaren Ausfallzeiten
-Tabelle 5
+Maßnahmen bei abschätzbaren Ausfallzeiten
 Ausfallzeit | Maßnahme
 Ausfallzeit | Maßnahme
 bis zu 3 Stunden | „sofortige“ Übernahme der zeitkritischen Aufgaben durch Personal der übernehmenden IRLS
@@ -529,7 +529,7 @@ Mindestinhalte des Redundanzkonzeptes sind:
 5.3.3 Technische Anforderungen
 Für die Sicherstellung der Übermittlung von Informationen bei Einsätzen, die den eigenen Bereich überschreiten, ist bereits für den Regelbetrieb die Datenübertragung von einer IRLS zu einer anderen IRLS vorzusehen. Über technische Voraussetzungen sind für den Redundanzfall zusätzlich die weiteren Kommunikationsformen, insbesondere Alarmierungs- und Funknetze zu bedienen. Hierfür sind die Anlagen zu verwenden, die die IRLS zur Erreichung der hohen Verfügbarkeit selbst vorhalten muss, um beispielsweise einem Ausfall von Verbindungswegen zu kompensieren. Folgende Möglichkeiten sind über das Leitstellennetzwerk für die Redundanzleitstelle einzurichten.
 Tabelle 6: Vorgehensweisen im Redundanzfall bezogen auf die Kommunikationsformen
-Tabelle 6
+Vorgehensweisen im Redundanzfall bezogen auf die Kommunikationsformen
 Nr. | Kommunikationsform | Vorgehensweise
 Nr. | Kommunikationsform | Vorgehensweise
 1 | Notruf 112 19222 19296 19292 | Das Routing/die Umleitung des Netzbetreibers zu einer anderen Stelle, die durch die übernehmende IRLS gezielt abgefragt werden kann (zum Beispiel zu vordefinierten Anschlüssen bei den Technikzentralen), ist zu gewährleisten.
@@ -552,7 +552,7 @@ Von allen IRLS ist zur Realisierung der Redundanzanforderungen eine normierte Al
 7. Krankentransport,
 8. MANV. Zusätzlich sind bei Bedarf die Alarmstichwörter KV-Vermittlung und Service/Sonstiges zu verwenden. Den Alarmstichwörtern Brand, Hilfeleistung und ABC-Einsatz werden folgende Alarmkategorien zugeordnet, die das jeweilige Alarmstichwort hinsichtlich der Intensität beziehungsweise des Gefährdungsgrades differenzieren. Die Alarmkategorien sind in Tabelle 7, Tabelle 8 und Tabelle 9 dargestellt.
 Tabelle 7: Alarmkategorien zum Alarmstichwort Brand
-Tabelle 7
+Alarmkategorien zum Alarmstichwort Brand
 Alarmstichwort | Alarmkategorie | Merkmale
 Alarmstichwort | Alarmkategorie | Merkmale
 Brand | klein | Kleinbrände ohne Tendenz zur Ausbreitung
@@ -560,14 +560,14 @@ mittel | Brände mit Tendenz zur Ausbreitung, Gefahr für Personen, Tiere, Umwel
 groß | Brände mit starker Tendenz zur Ausbreitung, Gefahr für größere Anzahl von Personen und Tieren sowie Umwelt und erhebliche Sachwerte, hoher Löschmittelbedarf
 BMA | Feuermeldung durch Brandmeldeanlage
 Tabelle 8: Alarmkategorien zum Alarmstichwort Hilfeleistung
-Tabelle 8
+Alarmkategorien zum Alarmstichwort Hilfeleistung
 Alarmstichwort | Alarmkategorie | Merkmale
 Alarmstichwort | Alarmkategorie | Merkmale
 Hilfeleistung | klein | einfache technische Hilfeleistung mit geringem Umfang
 mittel | technische Hilfeleistung, Gefahr für Personen, Tiere, Umwelt und Sachwerte
 groß | technische Hilfeleistung mit größerem Umfang, Gefahr für größere Anzahl von Personen und Tiere sowie Umwelt und erhebliche Sachwerte
 Tabelle 9: Alarmkategorien zum Alarmstichwort ABC-Einsatz
-Tabelle 9
+Alarmkategorien zum Alarmstichwort ABC-Einsatz
 Alarmstichwort | Alarmkategorie | Merkmale
 Alarmstichwort | Alarmkategorie | Merkmale
 ABC-Einsatz | klein | Freiwerden einer geringen Menge eines identifizierten, umweltgefährdenden Stoffes, geringe Toxizität und Mobilität/Ausbreitung
@@ -575,7 +575,7 @@ mittel | Freiwerden von geringer Menge nicht identifizierten Stoffes oder einer 
 groß | alle übrigen Fälle
 Zur Ergänzung der Alarmstichwörter und -kategorien sind Informationen bezüglich der Personengefahr, der Objektart und der Objektnutzung anzufügen (Tabelle 10).
 Tabelle 10: Ergänzung der Alarmstichwörter und Alarmkategorien
-Tabelle 10
+Ergänzung der Alarmstichwörter und Alarmkategorien
 Ergänzungsstichwort | Ergänzungskategorien
 Ergänzungsstichwort | Ergänzungskategorien
 Personengefahr | keine
@@ -590,7 +590,7 @@ Betrieb nach Störfall-Verordnung
 et cetera
 Beim Alarmstichwort Notfallrettung werden die Alarmkategorien entsprechend Tabelle 11 zugeordnet.
 Tabelle 11: Alarmkategorie und Merkmale des Alarmstichworts Notfallrettung
-Tabelle 11
+Alarmkategorie und Merkmale des Alarmstichworts Notfallrettung
 Alarmstichwort | Alarmkategorie | Merkmale
 Alarmstichwort | Alarmkategorie | Merkmale
 Notfallrettung | ohne Notarzt | RTW
@@ -602,7 +602,7 @@ Entlassung beatmet
 mit Notarzt | Einsatzmerkmale laut Notarztindikationskatalog
 Beim Alarmstichwort Krankentransport werden die Alarmkategorien entsprechend Tabelle 12 zugeordnet.
 Tabelle 12: Alarmkategorie und Merkmale des Alarmstichworts Krankentransport
-Tabelle 12
+Alarmkategorie und Merkmale des Alarmstichworts Krankentransport
 Alarmstichwort | Alarmkategorie | Merkmale
 Alarmstichwort | Alarmkategorie | Merkmale
 Krankentransport | mit Stuhl | KTW normal
@@ -708,7 +708,7 @@ Während des Betriebes sind Fortbildungen, zum Beispiel aufgrund technischer Neu
 Die Aus- und Fortbildungen haben schwerpunktmäßig auf die fehlerfreie Bedienung der Systeme sowohl in Standard- als auch in Ausnahmesituationen (zum Beispiel besondere Einsatzlage, Großschadenslage, Katastrophenszenarien, Beherrschung von unvorhersehbaren Zwischenfällen) abzuzielen. Sie bestehen aus einem theoretischen und einem praktischen Teil.
 8. Abkürzungsverzeichnis
 Abkürzungsverzeichnis
-Abkürzung | Bedeutung
+Abkürzung | Erläuterung
 ABC | Atomare, biologische oder chemische Stoffe
 ADA | Audiodokumentationsanlage
 BMA | Brandmeldeanlage(n)
