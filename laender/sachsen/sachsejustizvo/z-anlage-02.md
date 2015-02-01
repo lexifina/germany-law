@@ -4,3 +4,4 @@ Einreichungsorte
 Nummer | Gericht | Verfahrensbereich | Datum
 Nummer | Gericht | Verfahrensbereich | Datum
 1. | Amtsgericht Dresden | Grundbuchsachen | 1. April 2014
+2. | Amtsgericht Leipzig | Grundbuchsachen | 1. Februar 2015

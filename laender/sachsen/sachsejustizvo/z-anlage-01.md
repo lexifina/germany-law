@@ -13,6 +13,7 @@ alle Verfahren mit Ausnahme von Grundbuchsachen | 1. August 2012
 3. | Amtsgericht Leipzig | Handels-, Genossenschafts- und Partnerschaftsregister | 1. Januar 2007
 Vereinsregister | 1. August 2010
 alle Verfahren mit Ausnahme von Grundbuchsachen | 1. Februar 2012
+Grundbuchsachen | 1. Februar 2015
 4. | Sozialgericht Dresden | alle Verfahren | 1. April 2011
 5. | Sächsisches Landessozialgericht | alle Verfahren | 1. April 2011
 6. | Oberlandesgericht Dresden | alle Verfahren | 1. September 2011

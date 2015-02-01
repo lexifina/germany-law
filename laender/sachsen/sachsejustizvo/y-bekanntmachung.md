@@ -11,7 +11,7 @@ Die Rechtsvorschriften wurden erlassen aufgrund von
 zu 1. a)
 § 14 Abs. 4 Satz 1 und 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel 2 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2512, 2517) geändert worden ist, in Verbindung mit § 1 Nr. 54 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), zuletzt geändert durch Artikel 2 der Verordnung vom 14. März 2010 (SächsGVBl. S. 94, 95),
 b)
-§ 8a Abs. 2 Satz 1 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 6a des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2512, 2519) geändert worden ist, in Verbindung mit § 1 Nr. 25 ZustÜVOJu ,
+§ 8a Abs. 2 Satz 1 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 6a des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2512, 2519) geändert worden ist, in Verbindung mit § 1 Nr. 25 ZustÜVOJu,
 c)
 § 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG ) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 d)
@@ -20,15 +20,15 @@ zu 2. § 65a Abs. 1 Satz 1 des Sozialgerichtsgesetzes (SGG) in der Fassung der B
 zu 3. a)
 § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 8 des Gesetzes vom 1. März 2011 (BGBl. I S. 288, 307) geändert worden ist, in Verbindung mit § 1 Nr. 25 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz und für Europa (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), die zuletzt durch Artikel 1 der Verordnung vom 7. Januar 2011 (SächsGVBl. S. 12) geändert worden ist,
 b)
-§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG ) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu ,
+§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG ) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 c)
-§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG ) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 22 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2043) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu ,
+§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG ) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 22 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2043) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 d)
-§ 65a Abs. 1 Satz 1 des Sozialgerichtsgesetzes (SGG) in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), das zuletzt durch Artikel 4 des Gesetzes vom 24. März 2011 (BGBl. I S. 453, 489) geändert worden ist, in Verbindung mit § 1 Nr. 38 ZustÜVOJu ,
+§ 65a Abs. 1 Satz 1 des Sozialgerichtsgesetzes (SGG) in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), das zuletzt durch Artikel 4 des Gesetzes vom 24. März 2011 (BGBl. I S. 453, 489) geändert worden ist, in Verbindung mit § 1 Nr. 38 ZustÜVOJu,
 e)
-§ 130a Abs. 2 Satz 1 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202, 2006 I S. 431, 2007 I S. 1781), die zuletzt durch Artikel 4 des Gesetzes vom 23. Mai 2011 (BGBl. I S. 898, 915) geändert worden ist, in Verbindung mit § 1 Nr. 49 ZustÜVOJu ,
+§ 130a Abs. 2 Satz 1 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202, 2006 I S. 431, 2007 I S. 1781), die zuletzt durch Artikel 4 des Gesetzes vom 23. Mai 2011 (BGBl. I S. 898, 915) geändert worden ist, in Verbindung mit § 1 Nr. 49 ZustÜVOJu,
 f)
-§ 14 Abs. 4 Satz 1 und 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel 3 des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2255, 2257) geändert worden ist, in Verbindung mit § 1 Nr. 16 ZustÜVOJu ,
+§ 14 Abs. 4 Satz 1 und 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) vom 17. Dezember 2008 (BGBl. I S. 2586, 2587), das zuletzt durch Artikel 3 des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2255, 2257) geändert worden ist, in Verbindung mit § 1 Nr. 16 ZustÜVOJu,
 g)
 § 9 Abs. 4 Satz 1 des Gesetzes über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (Kapitalanleger-Musterverfahrensgesetz – KapMuG) vom 16. August 2005 (BGBl. I S. 2437), das durch Artikel 12 des Gesetzes vom 5. Januar 2007 (BGBl. I S. 10, 31) geändert worden ist, in Verbindung mit § 1 Nr. 30 ZustÜVOJu,
 h)
@@ -96,6 +96,6 @@ n)
 o)
 § 134 Satz 2 und § 141 Satz 2 der Grundbuchordnung in Verbindung mit § 93 Satz 1, § 96 Abs. 3 Satz 3 und § 101 Satz 1 der Verordnung zur Durchführung der Grundbuchordnung (Grundbuchverfügung – GBV) in der Fassung der Bekanntmachung vom 24. Januar 1995 (BGBl. I S. 114), die zuletzt durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3719, 3721) geändert worden ist, in Verbindung mit § 1 Nr. 24 ZustÜVOJu,
 p)
-§ 5 Abs. 4 Satz 2 und 3 der Insolvenzordnung (InsO) vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533, 3537) geändert worden ist, in Verbindung mit § 1 Nr. 26 ZustÜVOJu.
+§ 5 Abs. 4 Satz 2 und 3 der Insolvenzordnung (InsO) vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533, 3537) geändert worden ist, in Verbindung mit § 1 Nr. 26 ZustÜVOJu .
 Dresden, den 23. April 2014
 Der Staatsminister der Justiz und für Europa Dr. Jürgen Martens
