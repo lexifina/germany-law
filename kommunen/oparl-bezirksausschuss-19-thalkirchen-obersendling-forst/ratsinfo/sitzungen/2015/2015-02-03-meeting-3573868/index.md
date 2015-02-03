@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-02-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3573868
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3573868
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung der Protokolle vom 08.01.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Lärm- und Geruchsbelästigung Bauhof Gmunder Str.
+- TOP 4.3.: (Antrag) Vermüllung Machtlfinger-/Boschetsrieder Str.
+- TOP 4.4.: (E) Isartalradweg - Abschnitt Maria-Einsiedel-Str.
+- TOP 4.5.: (U) Baubeginnsanzeigen Mobilfunkanlagen
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (Antrag) Fußweg östlich des S-Bahnhofs Siemenswerke
+- TOP 5.2.: (Antrag) Thalkirchner Platz
+- TOP 5.3.: (Antrag) Parksituation Wolfratshauser Str. 1
+- TOP 5.4.: (Antrag) Wendemöglichkeit Boschetsrieder Str./Geisenhauser Str.
+- TOP 5.5.: (A) Umbau Kreuzung Drygalski-Allee/Stäblistr.
+- TOP 5.6.: Anbindung Waldfriedhof Solln Bus 135
+- TOP 5.7.: (E) Isartalradweg - Abschnitt Heilmannstr./Knotestr.
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: Information Bebauungsplan 2072a (EON-Gelände)
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Pilotprojekt Interkulturelle Vielfalt
+- TOP 7.2.: (Antrag) Standort Sozialbürgerhaus
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
