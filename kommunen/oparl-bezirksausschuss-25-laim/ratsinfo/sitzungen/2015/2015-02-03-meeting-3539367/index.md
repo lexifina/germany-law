@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-02-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539367
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539367
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: MVG-Rad; Vorstellung der Stationsstandorte
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Gehweg-Parker Problem Landsberger Str. 207
+- TOP 1.2.2.: Parksituation Landsberger Str. 234
+- TOP 1.2.3.: Alpen-Markt auf dem Laimer Anger
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4.5.: Antrag UA Kultur: Übernahme von Kosten in Höhe von 7.000 ? für den Umzug während der Stadtteilwoche aus dem BA-Budget / Anteil für Eigenveranstaltungen
+- TOP 4.6.: Antrag UA Kultur: Zuschuss aus dem BA-Budget in Höhe von 5.000 ? für die Stadtteilwoche
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 07.01.15: Spielfest mit Flohmarkt am 26.06.15 auf dem Hogenbergplatz
+- TOP 4.2.: Camerloherstr. 119: Fällung von 1 Kiefer
+- TOP 4.3.: Agnes-Bernauer-Str. 131: Fällung von 1 Ahorn
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 13.01.15: Ausweisung Hotelanfahrtszone für eine Bus an der Landsberger Str. 338
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 15.01.15: Festival der Marionetten am 15.09.-21.09.15 auf dem Laimer Anger
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 14.01.15 und 19.01.15: Marktveranstaltung "Laimer Fischmarkt" vom 29.05.-07.06.15 auf dem Laimer Anger
+- TOP 4.7.: Schreiben Direktorium vom 21.01.15: Jubiläum 175 Jahre Bahnstrecke München-Augsburg angemessen begehen; Beiträge der Bezirksausschüsse
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Gotthardstr. 52-56: Ausbau zweier Dachgeschosse zu 4 WE, Errichtung von 4 Balkonanlagen (Riegerhofstr. 31 + 33), Ausbau dreier Dachgeschosse zu 5 WE, Errichtung von 6 Balkonanlagen (Gotthardstr. 52-56)
+- TOP 5.2.: Stroblstr. 19: Neubau eines Sechsfamilienhauses mit Tiefgarage
+- TOP 5.3.: Rilkestr. 17: Neubau eines Zweifamilienhauses mit Doppelgarage / Tektur
+- TOP 5.4.: Landsberger Str. 155: Nutzungsänderung / Umbau in bestehendem Verwaltungsgebäude; Errichtung einer weiteren Kindergartengruppe mit Mehrzweckraum
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kommunalreferat vom 12.01.15: Einladung zum jährlich im Kommunalreferat stattfindenden Inforamtionsaustausch mit den Bezirksausschüssen am 05.03.15
+- TOP 7: Protokolle
+- TOP 7.1.: Ortstermin UA Umwelt und Verkehr am 19.12.14 (vertagt aus der BA-Sitzung am 13.01.15)
+- TOP 7.2.: Sitzung UA Kultur vom 08.01.15
+- TOP 7.3.: BA-Sitzung vom 13.01.15
+- TOP 7.4.: BA-Sondersitzung vom 21.01.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Büro Oberbürgermeister / Gleichstellungsstelle für Frauen vom 08.01.15: Protokoll des 21. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse am 27.11.14
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.12.14: Forderungen zur Neuplanung des Grundstücks an der Siglstraße / Brantstraße mit Wohnungen und Kinderbetreuungseinrichtungen (Antrag Nr. 08-14 / B 05770 vom 11.03.14)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.01.15: Fürstenrieder Str. 61; Dachaufstockung und Neubau Pavillon - Vorbescheid
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.01.15: Liste der eingereichten Anträge auf Abgeschlossenheitsbescheinigungen vom 01.01.-15.01.15
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.01.15: Folien zur Präsentation vom 16.01.15
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 16.01.15: Fahrbahnsanierung Agnes-Bernauer-Straße ab März 2015
+- TOP 8.8.: Schreiben Baureferat vom 13.01.15: Baumbeseitigung und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken; Grünfläche Joergstraße
+- TOP 8.9.: Schreiben Sozialreferat vom 14.01.15: Information zur BA-Veranstaltung zum Thema Flüchtlinge / Wohnungslose am 14.10.14
+- TOP 8.10.: Schreiben Sozialreferat vom 20.01.15: Unterbringung von Flüchtlingen in München; Planungen für das Areal Zschokke- / Westendstraße
+- TOP 8.11.: Schreiben Kommunalreferat vom 15.01.15: Jubiläumsstiftung der Münchner Bürgerschaft Alte Heimat, Bauvorhaben Errichtung eines neuen Personenaufzuges und barriereifreie Umgestaltung des Eingangsbereichs Stiftungsanwesen Burgkmairstr. 9 im 25. Stadtbezirk Laim, Projektkosten (Kostenobergrenze) 900.000 ?, 1. Bekanntgabe zum Projektstand, 2. Ausführungsgenehmigung (Sitzungsvorlage Nr. 14-20 / V 02288)
+- TOP 8.12.: Bautenliste vom 05.01.-11.01.15: Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Elsenheimerstr. 48
+- TOP 8.13.: Bautenliste vom 12.01.-18.01.15 1. Erstantragsverfahren a) Elsenheimerstr. 61
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 19.01.15: Baumaßnahmen der Stadtwerke; Stichtag: 19.01.15
+- TOP 8.15.: Beschluss des Bauausschusses vom 09.12.14: Straßenausbaubeitragssatzung abschaffen (Sitzungsvorlage Nr. 14-20 / V 02040)
+- TOP 8.16.: Beschluss der Vollversammlung vom 17.12.14: Infrastrukturprogramm Sport in München, Rückblick 2014 und Ausblick 2015 (Sitzungsvorlage Nr. 14-20 / V 01789)
+- TOP 8.17.: Bekanntgabe im Bildungsausschuss vom 14.01.15: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und der Heilpädagogischen Tagesstätten für das Schuljahr 2014 / 2015 (Sitzungsvorlage Nr. 14-20 / V 02129)
+- TOP 8.18.: Bekanntgabe im Bildungsausschuss vom 14.01.15: Schüler/inne- und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2014 / 2015; Stand: 20.10.14 (Sitzungsvorlage Nr. 14-20 / V 02057)
+- TOP 8.19.: Bekanntgabe im Bildungsausschuss vom 14.01.15: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2014 7 2015 (Sitzungsvorlage Nr. 14-20 / V 02151)
+- TOP 8.20.: Bekanntgabe im Ausschuss für Bildung und Sport vom 14.01.15: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014 / 2015 (Sitzungsvorlage Nr. 14-20 / V 02103)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - städtische Wohnungsbaugesellschaften prüfen Potential und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 14-20 / V 01341)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: Fortschreibung des jährlichen Spielflächenversorgungsplanes (Sitzungsvorlage Nr. 14-20 / V 01945)
+- TOP 8.23.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; 5 Jahre AG Ausbauoffensive Kindertageseinrichtungen 2009-2014 - eine Leistungsbilanz (Sitzungsvorlage Nr. 14-20 / V 01695)
+- TOP 8.24.: Beschluss des Kreisverwaltungsausschusses vom 27.01.15: CarSharing in München, Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016 (Sitzungsvorlage Nr. 14-20 / V 02237)
+- TOP 8.25.: Beschluss des Umweltausschusses am 03.02.15: Lärmminderungsplanung / Lärmaktionsplan München; - Lärmschutz an verschiedenen städtischen Straßen, - Aufnahme verschiedener Straßen in den Lärmaktionsplan; u.a. Antrag Nr. 08-14 / B 02383 des BA 25 vom 14.09.10 "Lärmminderungsplanung; Aufnahme der Fürstenrieder Straße in den Lärmaktionsplan München als Untersuchungsgebiet" (Sitzungsvorlage Nr. 14-20 / V 02276)
+- TOP 8.26.: Schreiben Förderverein Kindergarten Fronleichnam e.V. vom 17.11.14: Verwendungsnachweis über Budgetzuschuss; Doppelschaukel
+- TOP 8.27.: Schreiben Förderverein Familienzentrum Laim vom 19.11.14: Verwendungsnachweis über Budgetzuschuss; Spielaktion Hogenbergplatz
+- TOP 8.28.: Schreiben GWG vom Dezember 2014: GWG-Broschüre "Freiflächen"
+- TOP 8.29.: Münchner Statistik, 4. Quartalsheft, Jahrgang 2014
+- TOP 1: Beschlussvorlage Baureferat: Verbesserung des Zustandes des nördlichen Gehsteigs der Landsberger Straße nach der Unterführung auf Höhe Barthstraße stadtauswärts (Empfehlung Nr. 14-20 / E 00310 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2014); Sitzungsvorlage Nr. 14-20 / V 02258 - <div>nach Antrag</div>
+- TOP 1.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.100 ? für Bürgerfest am 01.05.14; Antragsteller: Laimer Maibaumfreunde e.V. Sitzungsvorlage Nr. 14-20 / V 02307 - <div>nach Antrag</div>
+- TOP 3: Beschlussvorlage Baureferat: Aufstellen von zwei neuen Mülleimern in der Kirchmairstraße (Empfehlung Nr. 14-20 / E 00303 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2014); Sitzungsvorlage Nr. 14-20 / V02260 - <div>nach Antrag</div>
+- TOP 4: Beschlussvorlage Baureferat: Abfallbehälter in der Fürstenrieder Straße auf Höhe der Unterführung; Aufstellen größerer Behälter sowie getrennter Behälter für Flaschen und öftere Leerung (Empfehlung Nr. 14-20 / E 00305 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2014); Sitzungsvorlage Nr. 14-20 / V 02156 - <div>nach Antrag </div>
+- TOP 1.2: Bürgerpost an den BA
