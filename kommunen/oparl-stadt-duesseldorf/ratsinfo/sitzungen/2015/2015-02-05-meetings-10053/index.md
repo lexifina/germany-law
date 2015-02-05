@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-05T14:00:00+01:00
+- Ende: 2015-02-05T19:28:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10053
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10053
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232342.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232342.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00232342.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell Bü90-Grü: Keine Antwort in der BV 3 am 27.01.2015 zur Toilettenanlage Kirchplatz - zurückgezogen
+- TOP 3.2: Anfrage aktuell Die Linke: Vorfall in der Bezirksvertretung 5 - beantwortet
+- TOP 3.3: Anfrage aktuell - CDU: Unterbringung Flüchtlinge - beantwortet
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 4.1: Anfrage FDP: Erhaltung der Gasleuchten im denkmalgeschützten Hofgarten - beantwortet
+- TOP 4.2: Anfrage CDU: Albrecht-Dürer-Berufskolleg - Rolle rückwärts? - beantwortet
+- TOP 4.3: Anfrage des Ratsherrn Maniera: Düsseldorf die Hochburg der Taschendiebstähle - schriftlich beantwortet
+- TOP 4.4: Anfrage des Ratsherrn Maniera: "Problemhäuser“ in Düsseldorf - einstimmig abgelehnt
+- TOP 4.5: Anfrage der Rf Dr Strack Zimmermann: Angebot des LVR Unterbringung und Betreuung von Flüchtlingen - schriftlich beantwortet
+- TOP 4.6: Anfrage FDP: Bürgerinnen- und Bürgerbeteiligung der künftigen Nutzung des Geländes Bergische Kasern - schriftlich beantwortet
+- TOP 4.7: Anfrage Die Linke: Steuervermeidung zu Lasten Düsseldorfs - schriftlich beantwortet
+- TOP 4.8: Anfrage Die Linke: Mieterhöhung bei SWD-Wohnungen in Flughafennähe - schriftlich beantwortet
+- TOP 4.9: Anfrage Bü90-Grü: Ersatzpflanzungen für zu fällende Deichbäume - schriftlich beantwortet
+- TOP 5: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2014 - zur Kenntnis genommen
+- TOP 6: Heidelberger Straße 75, Dieter Forte Gesamtschule – Erneuerung der Energieversorgung, Lüftungs- und - einstimmig beschlossen
+- TOP 7: Zweckverband Verkehrsverbund Rhein Ruhr;Weiterentwicklung des VRR-Finanzierungssystems - mehrheitlich beschlossen
+- TOP 8: Zweckverband Verkehrsverbund Rhein Ruhr;Abwicklung der ÖPNV-Pauschale nach § 11 Absatz 2 - zurückgezogen
+- TOP 9: Änderung der Taxentarifordnung - mehrheitlich beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2015 - mehrheitlich beschlossen
+- TOP 11: Besetzung des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife - mehrheitlich beschlossen
+- TOP 12: Aufsichtsrat der Düsseldorf Marketing & Tourismus GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 13: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 14: Anträge - zur Kenntnis genommen
+- TOP 14.1: Antrag Die Linke: TTIP verhindern - mehrheitlich abgelehnt
+- TOP 14.1.1: Antrag BÜ90/GRÜ: TTIP, CETA und TiSA & Co. – Internationale Freihandelsabkommen - mehrheitlich beschlossen
+- TOP 14.1.2: Erg. Antrag SPD: TTIP verhindern - zur Kenntnis genommen
+- TOP 14.2: Antrag von Bü90-Grü, SPD und FDP: Elternschaft Düsseldorfer Schulen und Bezirksschüler/innenvertretu - zur Kenntnis genommen
+- TOP 14.3: Antrag CDU: Einführung eines Kultur-Siegels für Düsseldorfer Schulen - verwiesen
+- TOP 14.4: Antrag Die Linke: Gesundheitskarte für Flüchtlinge - zur Kenntnis genommen
+- TOP 14.5: Antrag von CDU, SPD, BÜ90/GRÜ, FDP und DIE LINKE: Resolution gegen Fremdenfeindlichkeit - einstimmig beschlossen
+- TOP 14.5.1: ÄA Rh Maniera:Resolution gegen Fremdenfeindlichkeit - mehrheitlich abgelehnt
