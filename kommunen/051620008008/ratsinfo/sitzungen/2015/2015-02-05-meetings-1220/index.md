@@ -1,0 +1,100 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-02-05T18:10:00+01:00
+- Ende: 2015-02-05T20:11:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1220
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1220
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Verpflichtung Ratsmitglied
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Schriftliche Anträge
+- TOP 4.1.1: SPD, Antrag Nr. 18/2015 - einstimmig
+- TOP 4.1.2: SPD, Antrag Nr. 19/2015 - einstimmig
+- TOP 4.1.3: SPD, Antrag Nr. 20/2015 - einstimmig
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.3.1: UWG, Antrag Nr. 13/2015 - einstimmig
+- TOP 4.3.2: UWG , Antrag Nr. 14/2015 - einstimmig
+- TOP 4.3.3: FDP, Antrag Nr. 16/2015 - einstimmig
+- TOP 4.4: FDP
+- TOP 4.4.1: FDP, Antrag Nr. 6/2015 - einstimmig
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.5.1: b 90/Grüne, Antrag Nr. 22/2015 - Kenntnisnahme
+- TOP 4.5.2: ABG, Antrag Nr. 23/2015 - einstimmig
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.7.1: mein GV, Antrag Nr. 25/2015 - einstimmig
+- TOP 4.7.2: Mein GV, Antrag Nr. 26/2015 - Kenntnisnahme
+- TOP 4.7.3: Mein GV, Antrag Nr. 27/2015 - einstimmig
+- TOP 4.7.4: Mein GV, Antrag Nr. 28/2015 - mehrheitlich bei
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.9: Gemeinschaftsanträge
+- TOP 4.10: CDU
+- TOP 4.10.1: CDU, Antrag Nr. 34/2015 - einstimmig
+- TOP 4.10.2: CDU, Antrag Nr. 35/2015 - einstimmig
+- TOP 4.10.3: CDU, Antrag Nr. 36/2015 - einstimmig
+- TOP 4.10.4: CDU, Antrag Nr. 37/2015 - einstimmig
+- TOP 4.10.5: CDU, Antrag Nr. 38/15 - einstimmig
+- TOP 4.10.6: CDU, Antrag Nr. 39/2015 - einstimmig
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.2.1: SPD, Anfrage Nr. 21/2015 - Kenntnisnahme
+- TOP 5.3: UWG
+- TOP 5.3.1: UWG, Anfrage Nr. 7/2015 - Kenntnisnahme
+- TOP 5.3.2: FDP, Anfrage Nr. 5/2015 - Kenntnisnahme
+- TOP 5.4: FDP
+- TOP 5.4.1: Anfrage Nr. 17/2015 - Kenntnisnahme
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.6: ABG
+- TOP 5.7: Mein Grevenbroich
+- TOP 5.7.1: Mein GV, Anfrage Nr. 30/2015 - Kenntnisnahme
+- TOP 5.8: Die Linke/Piraten
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Mittelbereitstellungen
+- TOP 8: JA 2012 - Kenntnisnahme
+- TOP 9: Bekanntgabe APL/ÜPL - Kenntnisnahme
+- TOP 9.1: Mein GV, Anfrage Nr. 29/2015 - Kenntnisnahme
+- TOP 10: Entscheidung PlanungsA
+- TOP 10.1: 19.Änd. FNP- Aufst.beschl. - einstimmig
+- TOP 10.2: 4.Änd. K25 - Satzungsbeschluss - einstimmig
+- TOP 10.3: CDU Antrag 185/14: Benennung Grünanlage - einstimmig
+- TOP 10.4: Antrag 273/14: Gartenbauverein Neurath- Platzbenennung - einstimmig
+- TOP 11: Beantwortung Anträge
+- TOP 11.1: FDP, Antrag Nr. 307/14 - einstimmig
+- TOP 11.2: Die Linke/Piraten, Antrag Nr. 287/14 - mehrheitlich bei
+- TOP 11.3: Mein GV, Antrag Nr. 303/14 - Kenntnisnahme
+- TOP 12: Beantwortung Anfragen
+- TOP 12.1: Besucherzahlen im Museum (Anfrage Nr. 279/14) - Kenntnisnahme
+- TOP 12.2: FDP, Anfrage Nr. 101/2014 - Kenntnisnahme
+- TOP 12.3: Beantwortung von 2 mündl. anfragen - Kenntnisnahme
+- TOP 13: mündliche Anträge/Anfragen
+- TOP 13.1: Rh Dresen, Anfrage Nr. 40/15
+- TOP 13.2: Rh Dorok, Anfrage Nr. 41/15
+- TOP 13.3: Rh Dorok, Anfrage Nr. 334/14
+- TOP 13.4: Rh Dorok, Anfrage Nr. 42/15
+- TOP 13.5: Rh Windler, Anfrage Nr. 43/15
+- TOP 13.6: Rh Günther, Anfrage Nr. 44/15
+- TOP 13.7: Rh Schumacher (Anfragen und Antrag Nr. 45/15)
+- TOP 13.8: Rh Rogel-Obermanns, Rh Büttgenbach (Anfrage Nr. 46/15)
+- TOP 13.9: Rh Gawlinski, Anfrage Nr. 47/15
+- TOP 13.10: Rh Gawlinski (Anfrage Nr. 48/15)
+- TOP 13.11: Rh Thalmann, Anfrage Nr. 49/15
+- TOP 13.12: Rh Gössing, Anfrage Nr. 50/15
+- TOP 13.13: Rh Gössing, Anfrage Nr. 51/15
+- TOP 13.14: Rh Gössing, Anfrage Nr. 52/15
+- TOP 13.15: Rh Büttgenbach, Anfrage Nr. 53/15
+- TOP 13.16: Rh Müller, Anfrage Nr. 54/15
+- TOP 13.17: Rh Rütten, Anfrage Nr. 55/15
+- TOP 13.18: Rf Simsek, Anfrage Nr. 131/14
+- TOP 13.19: Rh W. Kaiser
+- TOP 13.20: Rf Florack, Anfrage Nr. 56/15
+- TOP 14: Mitteilungen BM'in
