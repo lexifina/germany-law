@@ -1,0 +1,94 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-02-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3500738
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3500738
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Umwelt und Region
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: Behindertenbeauftragter
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Änderung § 11 / III der allgemeinen Beförderungsbedingungen im MVV (CSU-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: MVG Rad, Standorte BA 20 (MVG, 14.01.2015)
+- TOP 6.2.: Beschlussvorlage für den Sportausschuss am 11.03.2015: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 1 Kunstrasenplatzbau, u.a. Bezirkssportanlage Wolkerweg 17 (Referat für Bildung und Sport, 15.01.2015)
+- TOP 6.3.: Veranstaltung im Freien in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Zirkusvorstellung für Kinder am 10.03. - 22.03.2015 des Circus Galliano (Kreisverwaltungsreferat, 21.01.15)
+- TOP 6.4.: Fahrbahnsanierung Blumenauer Straße zwischen Terofalstraße und Flemischweg (Baureferat, 08.01.15)
+- TOP 6.5.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern (Sozialreferat, 19.01.15)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Eichenstr. 46, gem. Baumbestandsplan Nr. 27849
+- TOP 7.2.: Fürstenrieder Str. 166, gem. Baumbestandsplan Nr. 28173
+- TOP 7.3.: Ebernburgstr. 10, gem. Baumbestandsplan Nr. 29197
+- TOP 7.4.: Wilhelm-Weitling-Str. 21, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste Baureferat vom 15.12.14
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Am Waldrand (Sozialreferat, 22.12.14)
+- TOP 8.2.: Zeitänderung am Haltverbot in der Rebholzstraße zur Gewährleistung der Anfahrt des Bücherbusses an der Bücherbushaltestelle im Farnweg (Kreisverwaltungsreferat, 06.11.14)
+- TOP 8.3.: Mitteilung über ein Grundstücksgeschäft, Großhaderner Str. 60 (Kommunalreferat, 23.12.14)
+- TOP 8.4.: Protokoll des 21. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse am 27.11.14 (Büro Oberbürgermeister, 08.01.15)
+- TOP 8.5.: Information zur BA-Veranstaltung zum Thema Flüchtlinge / Wohnungslose am 14.10.14 (Sozialreferat, 14.01.15)
+- TOP 8.6.: Folien zur Präsentation Vorstudie zur A96 vom 16.01.2015 (Referat für Stadtplanung und Bauordnung, 19.01.2015)
+- TOP 8.7.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: "Cafe-Bistro Blumenau", Terofalstr. 10c (Kreisverwaltungsreferat, 13.01.2015)
+- TOP 8.8.: Hubschrauberflugplatz München-Klinikum Großhadern; Niederschrift über die Sitzung des Runden Tisches am 26.11.2014 (Bayerisches Staatsministerium des Inneren, für Bau und Verkehr, 21.01.15)
+- TOP 8.9.: Standortverlagerung für das Sozialbürgerhaus an der Plinganserstraße für die Stadtbezirke 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln und 20 Hadern (Sozialreferat, 15.01.2015)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Vorübergehende Nutzung des öffentlichen Bolzplatzes an der Großhaderner Straße als Pausenhoffläche für die Grundschule Großhaderner Str. 50 (Referat für Bildung und Sport, 16.12.14)
+- TOP 9.2.: Reinigen im Umfeld der Schulanlage Blumenauer Str. 11 (Baureferat, 05.01.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung zum jährlich im Kommunalreferat stattfindenden Informationsaustausch mit den Bezirksausschüssen am 05.03.2015 (Kommunalreferat, 12.01.2015)
+- TOP 11.2.: Zweiter Oberflächenaufzug für den Marienplatz (Behindertenbeirat der Landeshauptstadt München, 22.01.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 17.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01789 (nach Antrag): Infrastrukturprogramm Sport in München, Rückblick 2014 und Ausblick 2015, Sonderförderprogramm für Kunstrasenplätze, insbesondere zur Bezirkssportanlage (BSA) am Wolkerweg (Kosten 850.000,--?. Die Voruntersuchung läuft, Seite 3, Anlage 1, lfd. Nr.5b) und zur BSA an der Ludwig-Hunger-Str. 11 (Kosten 1,7 Mio.?, Anlage 1, lfd. Nr. 6a)
+- TOP 12.2.: Beschluss vom 17.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01993 (nach Antrag): Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs, insbesondere zur Finanzierung der Härtefälle in den Nachbarschaftstreffs Kleinhadern (Na klar!) und Blumenau. Hierfür werden in 2015 bereits jetzt 226.160,-- ? für 8 Objekte bereitgestellt. Hiervon entfallen auf ?Kleinhadern? 29.000 + 7.100 = 36.100,-- ? für 2 Verwaltungskräfte (Seite 6, Abschnitt 3) und auf die ?Blumenau? 8.450,-- ? für eine ?Unterstützungskraft auf Honorarbasis oder im Rahmen der geringfügigen Beschäftigung?. Zusätzlich wird eine Honorarkraft für das Gartenprojekt mit 5.900,-- ? gefördert. Insgesamt werden also für 2 Honorarkräfte 14.350,-- ? bewilligt (Seite 4, Abschnitt 2.2.3; Seite 6, Abschnitt 3). Die zusätzlichen Mittel iHv 211.150,-- ? (8 Posten) werden vom Sozialreferat auf dem Büroweg bei der Stadtkämmerei beantragt (Punkt 1 des Referentenantrages, Seite 8).
+- TOP 12.3.: Beschluss vom 17.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01715 (nach Antrag): Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, insbesondere zum Personalbedarf im Planungsreferat, Abteilung ?Verkehrsplanung?. Es wird eine E13-Planstelle mit 30 Stunden Arbeitszeit / Woche geschaffen (Seite 15-16, Abschnitt 6.1).
+- TOP 12.4.: Beschluss vom 20.11.14 zur Sitzungsvorlage-Nr. 14-20 / V 01223 (nach Antrag idF vom 13.11.2014. Insbesondere werden die Worte "im Alter" durch "mit Handicap" ersetzt.): Ehrenpreis für guten Wohnungsbau, Zustimmung zur Durchführung 2015 Das Planungsreferat wird beauftragt, den Ehrenpreis nach Auslobung in 2015 durchzuführen. Der Stadtrat stimmt der Namensänderung, der Neueinteilung in Kategorien, der Reduktion der Ehrenpreise von 18 auf 12 sowie der Neuzusammensetzung der ehrenamtlichen Gutachterkommission zu. Über die Verleihung der Preise entscheidet der Planungsausschuss.
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01362 (nach Antrag): Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere zum ?Nachbarschaftstreff Blumenau? des Vereins für Sozialarbeit e.V. (Ansatz 57.342,-- ?, Anlage, Abschnitt 4.1.7, Seite 10 lfd. Nr. 8) und zur ?Nachbarschaft Kleinhadern, na klar!? (Ansatz 15.759,--?, Anlage, Abschnitt 4.1.7, Seite 12, lfd. Nr. 31)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01349 (nach Antrag): Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere zum ?Kinderhaus am Wolkerweg? (Ansatz 208.808,-- ?, Anlage, Abschnitt 3.1.1, Seite 7, lfd. Nr. 56), zum ?Treffpunkt für Jugendliche pfiffTEEN? (Ansatz 337.908,-- ?, Anlage, Abschnitt 3.1.1, Seite 7, , lfd. Nr. 57), zum ?Treff 21? des Vereins ?Schule-Beruf e.V.? im ?Deutschen Paritätischen Wohlfahrtsverband? (DPWV) (Ansatz 375.407,-- ?, Anlage, Abschnitt 3.1.1, Seite 8, lfd. Nr. 66), zum ?Studio im Netz (SiN) e.V.? (Ansatz 89.226,-- ?, Anlage, Abschnitt 3.1.1, Seite 10, lfd. Nr. 108), zur ?Schulsozialarbeit an der Blumenauer Straße? des Vereins ?Schule-Beruf e.V.? (Ansatz 57.307,-- ?, Anlage, Abschnitt 3.1.2, Seite 13, lfd. Nr. 4), zum ?Familienzentrum Hadern-Blumenau? des Caritas-Verbandes (Ansatz 69.395,-- ? für die Festanstellung der Verwaltungskräfte, Anlage, Abschnitt 3.2.1, Seite 19, lfd. Nr. 13) und zum ?Bewohnertreff Nachbarschaft Neuhadern? des DPWV (Ansatz 108.009,-- ?, Anlage, Abschnitt 3.2.2, Seite 23, lfd. Nr. 2)
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01336 (nach Antrag): Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale, insbesondere zu ?REGSAM? (Ansatz 578.063,--?, Anlage, Abschnitt 7.3.2.1, Seite 3, lfd. Nr. 1)
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01334 (nach Antrag): Haushaltsplan 2015, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ?Alten- & Servicezentrum (ASZ) Kleinhadern-Blumenau? des Caritas-Verbandes (Ansatz 226.881,-- ?, Anlage, Abschnitt 5.4.1, Seite 9, lfd. Nr 10) und zur ?Altenwohnanlage an der Konrad-Dreher-Straße 19-23? des Caritas-Verbandes (Ansatz 55.256,-- ?, Anlage, Abschnitt 5.4.2, Seite 10, lfd. Nr 28, umgebucht auf Seite 14, lfd. Nr. 43)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 01945: Fortschreibung des jährlichen Spielflächenversorgungsplanes
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 01341: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - städtische Wohnungsbaugesellschaften prüfen Potential und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, insbesondere der GWG und der GeWoFAG
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 00567: Mädchen und junge Frauen in München, insbesondere zum ?Treff 21?, Erweiterung der Leistungsbeschreibung (Modellprojekt Blumenau, Anmietung von 100 m² Nutzfläche, Förderbedarf 180.000,--?, Personalkosten 49.750,--? für eine ¾ -Planstelle), Einladung zum ?Runden Tisch?
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder und Jugendhilfeausschusses vom 02.12.2014 zur Sitzungsvorlage-Nr. 14 - 20 / V 01848 (nach Antrag): Mehrjahresinvestitionsprogramm (MIP) 2014 - 2018 1. Investitionsmaßnahmen für Schulen Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse (Zusammenfassung siehe Tagesordnungsdokument)
+- TOP 12.2.: Beschluss des Bauausschusses vom 09.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 02040 (nach Antrag): Straßenausbaubeitragssatzung abschaffen Der Beschluss steht für die Altfälle unter dem Vorbehalt der angeforderten Stellungnahme der Regierung von Oberbayern (Seite 5).
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01715 (nach Antrag): Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln, insbesondere Schaffung einer Vollzeitstelle in der Abteilung ?Verkehrsplanung? des Planungsreferates (Seite 15-16, Abschnitt 6.1)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01401 (nach Antrag): Entwurf des Mehrjahresinvestitionsprogramms 214-2018; Einzelplan 4 / Jugendamtsbereich, insbesondere zur Generalsanierung des ?Treff 21? (Beschlüsse vom 20.11.2004 und 28.7.2010, Seite 9) und zu den Anträgen des BA Hadern vom 15.4.2014 (Anlage 6 und Unteranlagen mit den Anträgen der CSU-Fraktion vom 8.4.2014, lit. C und D sowie Projekte 1-7, sowie der Fraktion ?Bündnis 90 Die Grünen? vom 9.4.2014 Nrn. 1-10)
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01386 (nach Antrag): Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2014-2018; Einzelplan 4 / Sozialbereich, insbesondere zum BA-Antrag vom 15.4.2013 Nr. 17 und lit. n, Anlage 8: Im Bebauungsplan Nr. 1769a wird derzeit die Errichtung eines neuen Sozialbürgerhauses geplant. Zuständig ist das Kommunalreferat (Seite 18).
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 27.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 02237: CarSharing in München, Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 01695: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; 5 Jahre AG Ausbauoffensive Kindertageseinrichtungen 2009-2014 - eine Leistungsbilanz In Hadern wurden seit 2009 349 neue Krippenplätze geschaffen, Versorgungsgrad damit über 45% (Anlage, Seite 11). Der Krippenbedarf wird für 2020 auf über 45% geschätzt. Zwei weitere Standorte sind in Planung (Anlage, Seite 17). In Großhadern wurden seit 2009 76 neue Kindergartenplätze geschaffen, Versorgungsgrad damit über 100%. In Neuhadern wurden 25, in Kleinhadern 40, insgesamt also 65 neue Kindergartenplätze geschaffen, Versorgungsgrad damit über 90% (Anlage, Seite 12).
+- TOP 12.2.: Bekanntgabe im Bildungsausschuss vom 14.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 02129: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2014 / 2015 (Zusammenfassung siehe Tagesordnungsdokument)
+- TOP 12.3.: Bekanntgabe im Bildungsausschuss vom 14.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 02057: Schüler/innen- und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2014 / 2015, Stand: 20.10.14 (In Hadern befinden sich keine Beruflichen Schulen)
+- TOP 12.4.: Bekanntgabe im Bildungsausschuss vom 14.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 02151: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der städtischen Franz-Auweck-Abendschule; Schuljahr 2014 / 2015 (In Hadern befinden sich keine derartigen Schulen)
+- TOP 12.5.: Bekanntgabe im Ausschuss für Bildung und Sport vom 14.01.15 zur Sitzungsvorlage-Nr. 14-20 / V 02103: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014 / 2015 (In Hadern befinden sich keine Gymnasien)
+- TOP 12.6.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.12.14 zur Sitzungsvorlage-Nr. 14-20 / V 01995 (Vertagt): Bericht zur Wohnungssituation in München 2012 - 2013, insbesondere in Hadern, wo es 2.534 Wohnungen im Einflussbereich der Stadt gibt (Seite 98).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.6.: Einrichtung eines absoluten Haltverbotes Am Hedernfeld 42-44 und gegenüber (Kreisverwaltungsreferat, 28.01.15)
+- TOP 6.7.: Stadtteilkultureinrichtung ?Guardini 90? (Arbeitstitel), Vorläufiges Betriebskonzept (Kulturreferat, 28.01.15)
+- TOP 6.8.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung (Direktorium, 28.01.15)
+- TOP 7.5.: Kruckenburgstr. 36, 1 Hemlocktanne
+- TOP 7.6.: Kleinhaderner Str. 55, 1 Wacholder
+- TOP 7.7.: Würmtalstr. 122, 1 Tanne
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule am Canisiusplatz e.V. Trommelworkshop vom 20. bis 24.04.2015 - <div>nach Antrag</div>
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
