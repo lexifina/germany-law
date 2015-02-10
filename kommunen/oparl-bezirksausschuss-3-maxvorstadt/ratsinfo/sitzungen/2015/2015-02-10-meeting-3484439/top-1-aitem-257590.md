@@ -1,0 +1,7 @@
+# TOP .1.: LBK-Listen der Bauvorhaben: 52., 1., 2., 3., 4. KW
+
+- Sitzung: BA 03 - Vollgremium (2015-02-10)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/257590
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/257590
