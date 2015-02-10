@@ -1,0 +1,103 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533424
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533424
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Protokoll der Dezember-Sitzung Protokoll der Januar-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Mülleimer und Hundetoilette für die Ecke Balanstraße / Grenzstraße in Obergiesing; Bürgeranliegen vom 12.01.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Stettnerstraße 3, 2 Fichten, 1 Lärche
+- TOP 2.2.: Seemüllerstraße 11, 1 Birke, 1 Linde, 1 Wildkirsche
+- TOP 2.3.: Bayerischzeller Straße 19, 4 Eiben
+- TOP 2.4.: Marklandstraße 19, 1 Winterlinde
+- TOP 2.5.: Holtzendorffstraße 13, 1 Thuja
+- TOP 2.6.: Marquartsteiner Str. 8, 5 Rotfichten, 1 Blaufichte
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Unbebautes städtisches Grundstück an der Schwanseestraße endlich nutzen; Empfehlung Nr. 14-20 / E 00030 der BÜV des Stadtbezirkes 17 Obergiesing-Fasangarten am 05.06.2014; Sitzungsvorlage Nr. 14-20 / V 01200; Beschluss des BA 17 am 10.02.2015
+- TOP 0.1.: 6.1.3.1 Anhörungen zu Bauvorhaben im Einzelfall 6.1.3.1.1 Franz-Eigl-Weg 6, Errichtung eines Kinderspielplatzes u. einer Dirtbikeanlage (Franz-Eigl-Weg 6-22 / Untersbergstr. 91) (Aufwertung, Umgestaltung u. Erweiterung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel" im Programm "Die soziale Stadt"); Anhörung vom 18.12.2014 (vertagt aus der Sitzung vom 13.01.2015) 6.1.3.1.2 Werinherstraße 46, DG-Ausbau (1 WE) über 2 Dachgeschosse; Anhörung vom 18.12.2014 (vertagt aus der Sitzung vom 13.01.2015) 6.1.3.1.3 Tegernseer Landstraße 137, Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID; Anhörung vom 19.12.2014 (vertagt aus der Sitzung vom 13.01.2015) 6.1.3.1.4 Holtzendorffstraße 35, Neubau eines Dreifamilienhauses mit Garage und Stellplätzen; Anhörung vom 20.01.2015 6.1.3.1.5 Fasangartenstraße 136, Neubau eines Mehrfamilienhauses mit Garagen (Var. 1) bzw. eines Doppelhauses mit Garagen (Var. 2) - VORBESCHEID; Anhörung vom 22.01.2015 6.1.3.1.6 Lincolnstraße 64, Neubau eines Pflegeheims (131 Plätze) mit Betreutem Wohnen (15 WE), Dienstwohnungen (9 WE) und Tiefgarage (23 Stpl.); Anhörung vom 27.01.2015
+- TOP 0.1.: Mitteilung über ein Grundstücksgeschäft; Flst. 16050/4 (Miteigentumsanteile / Kita), Weißenseestraße 94, Kauf; Zuleitung des Kommunalreferats
+- TOP 0.2.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen Scharfreiterplatz und Hohenschwangauplatz im 17. Stadtbezirk Obergiesing-Fasangarten; Sitzungsvorlage Nr. 14-20 / V 01588; Beschluss des Bauausschusses vom 20.01.2015 (SB)
+- TOP 0.3.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Stadtratsantrag Nr. 08-14 / A 04263 vom 17.05.13; Sitzungsvorlage Nr. 14-20 / V 01341; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 21.01.2015 (SB)
+- TOP 0.4.: Baufälle im 17. Stadtbezirk
+- TOP 0.5.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Baupgrogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013 - Fortschreibung im Bauprogramm 2014 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2014 - 2018; Sitzungsvorlage Nr. 14-20 / V 01374; Beschluss der Vollversammlung des Stadtrates vom 20.11.2014 (VB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Fortschreibung des jährlichen Spielflächenversorgungsplanes; Stadtratsantrag Nr. 14-20 / A 00210 vom 27.08.2014; Sitzungsvorlagen Nr. 14-20 / V 01945; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 21.01.2015 (SB)
+- TOP 0.2.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; 5 Jahre AG Ausbauoffensive Kindertageseinrichtungen 2009 - 2014 - eine Leistungsbilanz; Sitzungsvorlagen Nr. 14-20 / V 01695; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. und Bauordnung vom 21.01.2015
+- TOP 0.3.: Schüler/innen und Klassenstand; Berufliche Schulen der LHM im Schuljahr 2014/2015; Stand: 20.10.2014; Sitzungsvorlage Nr. 14-20 / V 02057; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015
+- TOP 0.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges im Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20 / V 02103; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 14.01.2015
+- TOP 0.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schulljahr 2014/2015; Sitzungsvorlage Nr. 14-20 / V 02129; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14. Januar 2015
+- TOP 0.6.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen, den städtischen Schulen besonderer Art und der Städtischen Franz-Auweck-Abendschule; Schuljahr 2014/2015; Sitzungsvorlage Nr. 14-20/V 02151; Bekanntgabe im Bildungsausschuss des Stadtrates vom 14.01.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Erinnerungsverfahren - Anhörungen des Baureferats-Tiefbau 6.3.3.1.1 Untersbergstraße 62 - 72; Zuleitung vom 21.01.15 6.3.3.1.2 St.-Martin-Straße zwischen Balanstraße und Eintrachtstraße; Zuleitung vom 20.01.15 6.3.3.1.3 Brecherspitzstraße 7 / Werinherstraße; Zuleitung vom 20.01.15 6.3.3.1.4 Giesinger Bahnhofplatz 2, Front Schwanseestraße; Zuleitung vom 20.01.15
+- TOP 0.1.: CarSharing in München; Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016; Sitzungsvorlage Nr. 14-20 / V 02237; Beschluss des Kreisverwaltungsausschusses vom 27.01.2015
+- TOP 0.2.: Anfragen für die Weißenseestraße, hier: Verkehrssicherungspflicht mittels Straßenbeleuchtung; Bürgeranliegen vom 21.10.2014; Antwortschreiben des Baureferats-Tiefbau vom 22.01.2015 und Antwortschreiben der PI 23 vom 21.01.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Mitteilungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 6.4.4.1.1 Plecherstraße 2; Genehmigungsbescheid vom 30.12.2014
+- TOP 0.2.: Städt. Klinikum München GmbH; Sitzungsvorlage Nr. 14-20 / V 01752; Entwurf der Beschlussvorlage für die Sitzung des Finanzausschusses am 16.12.2014 (vertagt aus der Sitzung vom 13.01.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Projekt "Münchner KulturVERSTRICKUNGEN"; Schreiben des Vereins Linkshänder e.V. vom 19.01.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Zugspitzstraße 14; Beschluss des BA 17 vom 10.02.2015
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern; Schreiben des Sozialreferates vom 19.01.2015 mit der Bitte um Rückmeldung bis 30.03.2015
+- TOP 7.2.: Änderung der BA-Satzung; Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG; Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung; BA-Antrag Nr. 14-20 / B 00178 des BA 7 vom 15.07.14; Schreiben des Direktoriums vom 28.01.2015 mit der Bitte um Stellungnahme
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.1.: AntragstellerIn: Elternbeirat der Lincoln Grundschule, für die Maßnahme: Projekt zur Gewaltprävention im Frühjahr 2015; Antragssumme: 1.300,00 ?; Beschlussvorlage des Direktoriums vom 02.01.2015 (vertagt aus der Sitzung vom 13.01.2015)
+- TOP 5.2.: AntragstellerIn: Initiative zur Lernförderung ?Du schaffst das?, für die Maßnahme: Lernförderung ab 02.03.2015; Antragssumme: 1.500,00 ?; Beschlussvorlage des Direktoriums vom 15.01.2015
+- TOP 5.3.: AntragstellerIn: Elternbeirat der Grundschule an der Ichostraße, für die Maßnahme: Umgestaltung des Pausenhofs von Februar bis Juli 2015; Antragssumme: 2.688,96 ?; Beschlussvorlage des Direktoriums (über 600,00 ?) vom 19.01.2015
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
