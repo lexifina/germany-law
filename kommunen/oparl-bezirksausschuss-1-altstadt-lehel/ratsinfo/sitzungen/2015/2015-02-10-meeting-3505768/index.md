@@ -1,0 +1,97 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-02-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3505768
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3505768
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .5: Allgemeine Themen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Erstellung des Kassenberichts
+- TOP .3.: Um- und Nachbesetzung der Unterausschüsse
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag der Fraktion Bündnis 90-Die Grünen: Anwohnerversammlung zur Oberflächengestaltung Thomas-Wimmer-Ring und Isartorplatz
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstr. 30-30a: Nutzungsänderung von Stehimbiss mit Ladenverkauf in Gaststätte (RGB)
+- TOP .2.: Briennerstr. 7: Aufstockung des Rück- und Seitengebäudes für Büronutzung ? Vorbescheid
+- TOP .3.: Steinsdorfstr. 4: Einbau einer Wohnung im nicht ausgebauten Dachgeschoss
+- TOP .6.: Neuhauser Str. 3: Umbau 7. OG und DG-Ausbau
+- TOP .7.: Salvatorstr. 2: Nutzungsänderung, Laden in Gastronomie mit Alkoholausschank
+- TOP .1.: Fürstenfelder Straße, Fahrbahnsanierung
+- TOP .2.: Josephspitalstraße, Fahrbahnsanierung
+- TOP .3.: Residenzstraße, Teilflächensanierung der Fahrbahn
+- TOP .4.: Verbreiterung der Gehbahn in der Triftstraße
+- TOP .2.: Zukünftige Integration der Marktstände des Landesverbands der Marktfachleute zwischen dem Marienplatz und Stachus in den Christkindlmarkt (vertagt aus 2014.11 C 2.2.2 N)
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Frauenstr. 30, PAP Müller e.K., Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .2.: Informationsveranstaltung eTourEurope am 08./09.05.2015 auf dem sog. Odeonsplatz
+- TOP .1.: MVG Rad (vertagt aus 2015.01 D 0.2)
+- TOP .2.: Konzeptvorstellung des ADFC (nur im Unterausschuss!)
+- TOP .2.: CSU-Antrag: Anfrage zur Parkraumbewirtschaftung
+- TOP .3.: Antrag Fraktion Bündnis 90-Die Grünen: Neue Verkehrszählung in der Zweibrückenstraße
+- TOP .2.: Baumfällungen 2015 ? 41 Standorte (vertagt aus 2015.01 D 3.1)
+- TOP .1.: Vorstellung Kunstprojekt mit internationalen Künstlern, Positive Propaganda e.V. (nur im Unterausschuss!)
+- TOP .2.: Vorstellung des Projekts ?Jugendzentrum im Lehel?, St. Anna im Lehel e.V. (nur im Unterausschuss!)
+- TOP .3.: Vorstellung des REGSAM-Konzepts, REGSAM München
+- TOP .1.: Antrag des Beauftragten der Herrnschule: Veränderung des Schulsprengels der Grundschule an der Herrnstraße (vertagt aus 2014.12 E 1.2)
+- TOP .1.: Einladung eines Vertreters der Stelle für Interkulturelle Arbeit zur nächsten Sitzung
+- TOP 0: Unterrichtungen
+- TOP 0.2.: Sendlinger Str. 50, Baugenehmigung des Referats für Stadtplanung und Bauordnung
+- TOP 0.4.: Bürgergutachten Innenstadt, Antrag Nr. 14-20/A 00616 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 22.01.2015
+- TOP 0.5.: Ensembleschutz und Einhaltungssatzung für den Block Müllerstr., Corneliusstr., Blumenstr., Antrag Nr. 14-20/B 00427 des Bezirksausschusses 1 Altstadt-Lehel vom 23.09.2014, Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Veranstaltung auf der Praterinsel 4, ?Prater Strand? vom 16.05.-13.09.2015
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: CarSharing in München, Verlängerung des laufenden Pilotversuchs bis zum 31.03.2016, Sitzungsvorlage Nr. 14-20/V 002237, Beschluss des Kreisverwaltungsreferats vom 27.01.2015 (VB)
+- TOP 0.3.: Bürgeranliegen ?Fußgängerüberweg Sendlinger Straße/Färbergraben?, Stellungnahme des Baureferats vom 13.01.2015 (2014.11 D 1.6)
+- TOP 0.4.: Bürgeranliegen ?Aufstellen eines Müllbehälters auf der Seite der Hofgartenstraße?, Stellungnahme des Baureferats vom 13.01.2015 (2014.11 D 1.1)
+- TOP 0.5.: Lärmminderungsplan/Lärmaktionsplan München, BV-Empfehlung Nr. 08-14/E 01230 der Bürgerversammlung des 1. Stadtbezirkes Altstadt-Lehel, Sitzungsvorlage Nr. 14-20/V 02276, Beschlussvorlage des Umweltausschusses vom 03.02.2015 (SB)
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Informationen zur Bezirksausschuss-Veranstaltung zum Thema Flüchtlinge/Wohnungslose des Sozialreferats am 14.10.2014
+- TOP 0.3.: Veranstaltungsbericht ?Die Hörner des Don Friolera? des Theater des hölzernen Gelächters
+- TOP 0.4.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen, Sitzungsvorlage Nr. 14-20/V 0225, Beschluss des Sozialausschusses vom 15.01.2015 (VB)
+- TOP .5.: Steinsdorfstr., zwischen Zweibrückenstr. und Ländlstr., Fahrbahnsanierung
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tal 8, Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Umzug des Narrhalla Prinzenwagens, Innenstadt, 17.02.2015
+- TOP .4.: Parade zum St. Patricksday (Start: Feilitzschstraße) und Veranstaltung auf dem sog. Odeonsplatz, 15.03.2015
+- TOP .4.: Bürgeranliegen: Digitale Anzeigen zur Fahrgastinformation an den Bushaltestellen Reitmorstr./Sammlung Schack
+- TOP .3.: Verbreiterung der Gehbahn in der Triftstraße, verschoben von B 3.2.4 zu D 3.3
+- TOP 0.6.: Fasching München Narrisch, 15.02.-17.02.2015, Eilentscheidung des Vorsitzenden
+- TOP 0.5.: Grundschule an der Herrnstraße, Antwortschreiben des Stadtschulrates bezügl. befürchteter Veränderung des Schulsprengels, siehe auch E 1.1!
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .4.: Weinstr. 1: Teilabbruch und Neubau eines Bürohauses mit Gastronomie ? Tektur (vertagt aus 2015.01 B 3.1.6)
+- TOP .5.: Riedlstr. 3: Abbruch und Neubau eines Wohnhauses mit dreigeschossigem Parksystem ? Vorbescheid
+- TOP .1.: Bürgeranliegen: Situation an der städtischen Grünanlage am Isartorplatz
+- TOP .2.1: Gaststätten
+- TOP .1.: Bräuhausstr. 8, Gesellschaftsraum GmbH, Genehmigung einer Freischankfläche
+- TOP .1.: Kunsthandwerkermarkt am Sendlinger-Tor-Platz vom 12.03.-15.03.2015
+- TOP .5.: Italienischer Markt auf dem Rindermarkt, 18.03.-21.03.2015
+- TOP .1.: Evaluierung der Sondernutzungsrichtlinien (vertagt aus 2015.01 C 3.2.1)
+- TOP .2.: Oper für Alle ? Opern Live Übertragung am 31.07.2015 auf dem Max-Joseph-Platz; Vorabanfrage Zustimmung des Zeitplans
+- TOP .3.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LstVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, BA-Antrag Nr. 14-20 / B 00178 des Bezirksausschusses 7 Sendling-Westpark vom 15.07.2014, Anhörung des Direktoriums bezüglich der beantragten Satzungsänderung
+- TOP .1.: Verkehrssituation am Rindermarkt und Viktualienmarkt (vertagt aus 2014.11 D 0.1)
+- TOP .1.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.6.: Maximiliansplatz, Fällung einer Robinie zur Vermeidung drohender Gefahr
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
