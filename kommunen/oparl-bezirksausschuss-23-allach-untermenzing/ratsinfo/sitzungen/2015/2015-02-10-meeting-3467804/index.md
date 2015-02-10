@@ -1,0 +1,90 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-02-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 20.01.15
+- TOP 1.4.2.: Protokoll UA Familie, Bildung und Soziales vom 20.01.15
+- TOP 1.4.3.: Protokoll UA Planung und Bau vom 06.11.14
+- TOP 1.4.4.: Protokoll UA Planung und Bau vom 17.11.14
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Parkzone Gerberau
+- TOP 2.2.: Wunschliste für die Allacher Spielplätze
+- TOP 2.3.: Grundsicherung in der Arnoldstraße
+- TOP 2.4.: Grünstreifen an der Hitlstraße
+- TOP 2.5.: Standort Park & Ride Parkplatz
+- TOP 3: Anträge
+- TOP 3.1.: Stadtteilkulturwoche / Kulturtage
+- TOP 3.2.: Gemeinsame Bezirkssportanlage für Moosach und Allach-Untermenzing
+- TOP 3.3.: Unverzügliche Aufnahme der Planung einer 4. Grundschule und Hort am Standort Theodor-Fischer-Straße / Pasinger Heuweg
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 20.11.2014: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen (Sitzungsvorlage Nr. 01374)
+- TOP 6.2.: Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.14: Mehrjahresinvestitionsprogramm (MIP) 2014-2018 (Sitzungsvorlage Nr. 01848)
+- TOP 6.3.: Beschluss des Sportausschusses des Stadtrates vom 03.12.14: Infrastrukturprogramm Sport in München Rückblick 2014 und Ausblick 2015; Sonderförderungsprogramm für Kunstrasenplätze (Antrag StR Josef Schmid, StR Schmidbauer) (Sitzungsvorlage Nr. 01789)
+- TOP 6.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen (Sitzungsvorlage Nr. 1695)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: a) Fortschreibung des jährlichen Spielflächenversorgungsplanes (Sitzungsvorlage Nr. 01945) b) Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 01341)
+- TOP 6.6.: Beschluss des Kreisverwaltungsausschusses vom 27.01.2015: CarSharing in München; Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016 (Sitzungsvorlage Nr. 02237)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Einladung Informationsaustausch mit dem Kommunalreferat am 05.03.15, 18:00 Uhr
+- TOP 7.2.: Schaffung von Sitzgelegenheiten an den S-Bahn-Haltepunkten Allach, Untermenzing und Karlsfeld
+- TOP 7.3.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern
+- TOP 7.4.: Einladung "Baumschutz in der Stadt - München und Frankfurt im Vergleich" , 11.03.15, 13:00-17:00 Uhr
+- TOP 7.5.: Information des Baureferates bzgl. der Schneeräumung
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 19.01.2015: Theodor-Fischer-Straße
+- TOP 8.2.: Schreiben Baureferat vom 19.01.15: Vollzug der Wassergesetze; Bachräumungstermine 2015 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.3.: Schreiben Baureferat vom 15.12.2014: Hunde im Vogel- und Naturschutzbereich zwischen Goteboldstraße, Paul-Ehrlich-Weg und Klessel- bzw. Rudorffstraße
+- TOP 8.4.: Schreiben Baureferat vom 17.12.2014: Errichtung eines Basketballplatzes mit einem Korb und gummiertem Untergrund am Jugendspielplatz Megerlestraße
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.01.2015: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutV, Otto-Warburg-Straße
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Penzoltstr. 5, Otto-Warburg-Str., Zum Schwabenbächl 53, Allacher Str. 242, Eversbuschstr. 135, Walter-Otto-Str. 16, Gruithuisenstr. 23, Augustenfelder Str. 7, Lechelstr. 49, Lechelstr. 57, Kleselstr. 26, Kleselstr. 28
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (22.12.-28.12.14, 05.01.-11.01.15, 12.01.-18.01.15, 19.01.-25.01.15)
+- TOP 8.8.: Schreiben Stadtwerke München vom 12.01.15, 19.01.15, 26.01.15: Baumaßnahmen
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 13.01.15: Antrag auf unveränderte Fortführung der Gaststättenbetriebe: - "Vereinswirtschaft des TSV Allach 09", Enterstr. 55 - "Michi`s Stüberl", Zum Schwabenbächl 48
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 28.01.15: Bereinigung der Sperrbeschilderung Willstätter Straße
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 21.01.2015: Haltverbote in der Wilhelm-Zwölfer-Straße
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 20.11.14: Verlängerung Haltverbot Eisolzrieder Straße
+- TOP 8.13.: Schreiben Sozialreferat vom 14.01.15: Informationen zur BA-Veranstaltung zum Thema Flüchtlinge/Wohnungslose am 14.10.2014
+- TOP 8.14.: Schreiben Sozialreferat vom 27.01.15: Beschlussvorlage "2. Programmbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen 2015"
+- TOP 8.15.: Schreiben BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 15.01.15 Evaluierung der Sondernutzungsrichtlinien
+- TOP 8.16.: Schreiben Behindertenbeirat vom 22.01.15: Zweiter Oberflächenaufzug für den Marienplatz
+- TOP 8.17.: Schreiben Kulturgemeinschaft Ludwigsfeld e.V. vom 21.01.15: Ausstellungseröffnung "Das vergessenen KZ - Das KZ-Außenlager Dachau-Allach und OT-Lager Allach-Karlsfeld" am 04.03.15, 18:00 Uhr
+- TOP 8.18.: Schreiben Verein Förderung der HS Franz-Nißl-Str. e.V. vom 22.01.15: Zuwendung aus dem Budget der Bezirksausschüsse - Projekt Bandklasse
+- TOP 8.19.: Schreiben Kultur&Spielraum e.V. vom 28.01.15: Ankündigung Runder Tisch Partizipation "Demokratiescouts" am 12.02.15, 9:30-13:00 Uhr
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Containerstandort Von-Reuter-Straße
+- TOP 9.2.: Bürgerhaus / Bürgerzentrum in Allach-Untermenzing
+- TOP 9.3.: Antrag: Beantragung der Durchführung einer Stadtteilkulturwoche bzw. von Stadtteilkulturtagen
+- TOP 9.4.: Anhörung: Anfahrtszone Kindergarten Lauthstr. 18
+- TOP 9.5.: Umlauf: Schreiben Sozialreferat vom 04.02.15: Planung des Altenheims an der Franz-Nißl-Straße
+- TOP 9.6.: Schreiben Stadtwerke München vom 02.02.15: Baumaßnahmen
+- TOP 9.7.: Schreiben Stadtwerke München vom 02.02.15: Baumaßnahmen der SWM, Stromprojekt Hanfgartenstraße, 9. Bauabschnitt Auenbruggerstraße, 10. Bauabschnitt Lochhausener Straße
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 03.02.15: Bauanträge
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsantrag: Kleselstr. 11
+- TOP 9.10.: Schreiben Baureferat vom 29.01.15: Fehlende Beleuchtung in der Naglerstraße und Rudorffstraße
+- TOP 9.11.: Schreiben Kulturreferat vom 03.02.15: Veranstaltungsübersicht Februar
+- TOP 9.12.: Schreiben Münchner Forum vom 04.02.15: Standpunkte Februar 2015 - Themenschwerpunkt: Öffentlicher Verkehr, Schienenverkehr und Verknüpfungen
+- TOP 9.13.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.2015: Mädchen und junge Frauen in München (Sitzungsvorlage Nr. 00567)
+- TOP 9.14.: Beschluss des Sozialausschusses vom 15.01.15 Unterbringung von Flüchtlingen und Wohnungslosen, Änderungsantrag der Stadtratsfraktion DIE GRÜNEN/RL (Sitzungsvorlage Nr. 02204)
+- TOP 9.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: a) Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA)-Städt. Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 01341) d) Fortschreibung des jährlichen Spielflächenversorgungsplanes (Sitzungsvorlage Nr. 01945) b) Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen (Sitzungsvorlage Nr. 01695) c) Bericht zur Wohnungssituation in München 2012 - 2013 (Sitzungsvorlage Nr. 01995)
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Initiative ?Ausstellung Kesselhaus? Ausstellung zum 100jährigen Bestehen des Diamalt Kesselhauses ab April 2015
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Pfarrei Maria Himmelfahrt Faschingsumzug am 17.02.2015
+- TOP 4.3.: (E) Einführung einer Gewichtsbeschränkung für Lkws auf der Behringstraße
