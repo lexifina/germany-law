@@ -1,0 +1,6 @@
+# TOP 9.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ortsgemeinderates der Gemeinde Bellingen (2015-02-10)
+- Körperschaft: Ortsgemeinde Bellingen
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-5357%7Czt_9%7C2
