@@ -1,0 +1,58 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2015-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3532063
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3532063
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Straßenreinigung - Kehrplan Stadtbezirk 8
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Multikulturelles Jugendzentrum Westend - MKJZ
+- TOP 6.2.: Vorbescheid Theresienhöhe 5
+- TOP 6.1.: Meldelisten
+- TOP 6.2.: Trappentreutunnel und Betriebsgebäude am Gollierplatz
+- TOP 6.3.: Gebäude Schwanthalerstr. 119 und Holzapfelstr. 10
+- TOP 6.4.: Gaststättenfortführung Trappentreustr. 35
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Sidewalk Cultures Festival
+- TOP 7.2.: Festival der Marionetten
+- TOP 7.3.: Flohmärkte der Hausgemeinschaft Sandtnerhof
+- TOP 7.1.: Zusage Kulturtage Schwanthalerhöhe
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Randsteinabsenkungen markieren
+- TOP 8.2.: Taxistandplatz Bayerstr. 83; Verlegung in die Landsberger Str. 83
+- TOP 8.3.: Verbesserungen der Fahrradinfrastruktur
+- TOP 8.1.: Verkehrsführung Landsberger Str. / Grasserstr.
+- TOP 8.2.: Zuwegung Kinderhaus St. Vinzensius
+- TOP 8.3.: Schulweghelfer Kreuzungsbereich Bergmann-/Ecke Westendstr.
+- TOP 8.4.: Gefahrenbaum Sinti-Roma-Platz
+- TOP 8.5.: Gefahrenbäume Bergmannstr. und Ridlerstr.
+- TOP 9: Budget und Finanzen
+- TOP 9.3.: (E) Budget der Bezirksausschüsse IG-InitiativGruppe ? interkulturelle Begegnung und Bildung e.V. Projekt ?ekkiko ? Ferienlerncamps für Grundschulkinder? vom 29.12.2014 bis 03.01.2015
+- TOP 10: Anträge
+- TOP 10.1.: Bürgerbeteiligung bei der Planung des XXXLutz-Geländes
+- TOP 10.2.: Bewohnerparken in der Schießstättstraße
+- TOP 10.3.: Reduzierung der Parkhausgebühren
+- TOP 11: Verschiedenes
+- TOP 11.1.: Mieterbeiratswahl 2015 - Entsendung von Mitgliedern
+- TOP 11.2.: Satzungsänderung; Aufnahme als Anhörungrecht: Erlaubnis von Vergnügungsveranstaltungen nach §19 LStVG
+- TOP 11.3.: Informationsveranstaltung des Kommunalreferats am 05.03.15
+- TOP 12: Protokoll und Umlauf
+- TOP 6.1.: (E) Vollständiger barrierefreier Ausbau des S-Bahnhofs Donnersbergerbrücke Empfehlung Nr. 14-20 / E 00059 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 24.06.2014
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Väterinitiative für engagierte Elternschaft e.V. Beschaffung von iPads
+- TOP 9.2.: (E) Budget der Bezirkssausschüsse Initiative open westend ?open westend? vom 20. bis 22.03.2015
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
