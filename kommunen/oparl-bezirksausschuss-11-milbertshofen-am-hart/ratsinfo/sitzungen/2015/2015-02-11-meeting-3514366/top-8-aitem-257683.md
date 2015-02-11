@@ -1,0 +1,7 @@
+# TOP 8: Anhörungen
+
+- Sitzung: BA 11 - Vollgremium (2015-02-11)
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/257683
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/257683
