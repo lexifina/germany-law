@@ -1,0 +1,78 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-02-11T17:53:00+01:00
+- Ende: 2015-02-11T22:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9743
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9743
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00366534.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Bilanzwert Clemenskirche per 01.01.2008
+- TOP 2.2: Bilanzwert Clemenskirche - Auswirkung auf das Eigenkapital
+- TOP 2.3: Clemenskirche - Haushaltsrechtlich jährlich fortgeschriebene Abschreibungen
+- TOP 2.4: Clemenskirche - Anpassung der Miete spätestens zum 01.01.2008
+- TOP 2.5: Clemenskirche - Ratsbeschluss zum Verkauf?
+- TOP 2.6: Clemenskirche - Skandalierung des Verkaufs
+- TOP 2.7: Clemenskirche - Einsatz des Presse- und Informationsamtes
+- TOP 2.8: Anzahl der abgelehnten Asylbewerber
+- TOP 2.9: "Bürgerhaushalt" kein herausvoten mehr
+- TOP 2.10: "Schülerhaushalt" Fokus auch auf die Einnahmenseite richten
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrats gem. § 24 GO
+- TOP 11: Ausschreibung einer Beigeordnetenstelle - mehrheitlich geändert beschlossen
+- TOP 12: Wiederwahl des Beigeordneten Thomas Paal - mehrheitlich geändert beschlossen
+- TOP 13: Antrag der SPD an den Rat Nr. A-R/0037/2014 - mehrheitlich beschlossen
+- TOP 14: Bericht zum Unwetter am 28.07.2014 - zur Kenntnis genommen
+- TOP 15: Zuschusswesen der Stadt Münster - Anregung Nr. 2014-00099 und 2014-00199 - einstimmig beschlossen
+- TOP 16: Abfallwirtschaftskonzept 2015 - mehrheitlich beschlossen
+- TOP 17: Bürgerumfrage 2014: Bürgerschaftliches Engagement in Münster - zentrale Ergebnisse und weiteres Vorgehen - zur Kenntnis genommen
+- TOP 18: Dauerhafte Erweiterung um drei Gruppen der DRK Kita Meerwiese, An der Meerwiese 11, Münster-Coerde - mehrheitlich beschlossen
+- TOP 19: Genehmigung einer Dringlichkeitsentscheidung zur verbindlichen Bedarfsplanung für teil- und vollstationäre Pflegeeinrichtungen in Münster nach § 11 Abs. 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - einstimmig beschlossen
+- TOP 20: Einführung einer Bildungskarte zur Erleichterung des Antrags- und Abrechnungsverfahrens von Bildungs- und Teilhabeleistungen - einstimmig beschlossen
+- TOP 21: Wohnraumschutzsatzung - mehrheitlich beschlossen
+- TOP 21.1: Wohnraumschutzsatzung
+- TOP 22: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 23: Beirat für Klimaschutz - Berufung neuer Mitglieder - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Mitte
+- TOP 24.1.1: Bebauungsplan Nr. 571 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.1.2: Bebauungsplan Nr. 539: Beschluss über Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk Münster-West
+- TOP 24.2.1: Vorhabenbezogene 5. Änderung des Bebauungsplans Nr. 396 - Beschluss zur Aufstellung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.2.2: vorhabenbezogene 6. Änderung des Bebauungsplans Nr. 396: Beschluss zur Änderung - Kenntnissnahme des Entwurfs - einstimmig beschlossen
+- TOP 24.2.3: 4. Änderung des Bebauungsplans Nr. 396 - Beschluss zur Aufstellung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Münster-Hiltrup
+- TOP 24.3.1: Bebauungsplan Nr. 566 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 25: Geschäftsordnung - mehrheitlich beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Entsendung von sachkundigen Einwohnerinnen und Einwohnern in die Ausschüsse des Rates - einstimmig geändert beschlossen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: Neutrales Verkehrsgutachten für das Hansa-Hafen-Viertel - zurückgezogen
+- TOP 28.2: Spendenaktion "Münster hilft!" unterstützen - einstimmig beschlossen
+- TOP 28.3: Konsequenzen für das Schuldenmanagement: Risiken begrenzen - einstimmig geändert beschlossen
+- TOP 28.4: Resolution an die Landesregierung NRW für schnelle Brückensanierung auf dem Autobahnzubringer zur A43 - einstimmig geändert beschlossen
+- TOP 28.5: Hearing: "Kinderrechte für unbegleitete und begleitete minderjährige und junge Flüchtlinge umsetzen" - einstimmig beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 29.1: Partizipation von Jugendlichen stärken - mehr Jugendfreundlichkeit durch eine neue Beteiligungskultur - verwiesen
+- TOP 29.2: MünsterApp - moderner Service für Bürgerinnen und Bürger - verwiesen
+- TOP 29.3: Wohnen am Hiltruper Bogen ermöglichen - verwiesen
+- TOP 29.4: Nutzungsperspektiven für den Stubengassenplatz - verwiesen
+- TOP 29.5: DIE WEICHEN FÜR EINEN STRUKTURELL AUSGEGLICHENEN HAUSHALT 2020 JETZT RICHTIG STELLEN - verwiesen
+- TOP 29.6: EIN NEUER ANLAUF FÜR GLASFASER - verwiesen
+- TOP 29.7: SCHULSANIERUNGEN JETZT VORANBRINGEN - TRANSPARENT UND MIT POLITISCHER PRIORITÄT - verwiesen
+- TOP 30: Verschiedenes
