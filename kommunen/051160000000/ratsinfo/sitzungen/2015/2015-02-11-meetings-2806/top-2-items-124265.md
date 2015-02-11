@@ -1,0 +1,8 @@
+# TOP 2: Genehmigung einer Dringlichkeitsentscheidung - Wohncontainer
+
+- Sitzung: Ausschuss für Finanzen und Beteiligungen (2015-02-11)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/124265
+- Ergebnis: Einstimmiger Beschluss mit Enthaltung/en
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/19236
