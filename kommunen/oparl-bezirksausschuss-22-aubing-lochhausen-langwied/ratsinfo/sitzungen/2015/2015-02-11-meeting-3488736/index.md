@@ -1,0 +1,97 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-02-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3488736
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3488736
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung Unterkunft Kastelburgstr. 56-60 durch das Sozialreferat
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Zufahrt zum Grundstück und verstellte Sicht durch Wertstoffcontainer in der Hohenrechbergstraße
+- TOP 2.2.: Sitzmöglichkeit an der Haltestelle Langwied
+- TOP 2.3.: Aufstellung von Schildern "Hunde an die Leine" in der Langwieder Haide (vertagt aus 01/15 in UA Planung/Bauen/Umwelt)
+- TOP 2.4.: Waldkindergarten in der Aubinger Lohe (vertagt aus 01/15 in UA Bildung/Schule/Sport)
+- TOP 2.5.: Problematische Situation der Schützenvereine in Lochhausen
+- TOP 2.6.: Buslinie 267
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen zu Bauvorhaben: - Lochhausener Str. 253 (Haus Ost) - Lochhausener Str. 253 (Haus West)
+- TOP 4: Anträge
+- TOP 4.1.: Prüfungsantrag zur den Kreuzungen: - Centa-Hafenbrädl-Straße / Anton-Böck-Straße - Anton-Böck-Straße / Bodenseestraße
+- TOP 4.2.: Bau der P & R-Anlage Georg-Böhmer-Straße
+- TOP 4.3.: Verbesserung der Beleuchtungssituation, Schussenrieder Straße Höhe kath. Kirche St. Michael Lochhausen
+- TOP 4.4.: Errichtung einer P+M (parken + mitfahren) Anlage Am Langwieder Bach / Lochhausener Straße
+- TOP 4.5.: Optimierung der Kreuzung Brunham- / Bodenseestraße
+- TOP 4.6.: Auffüllung des Straßenbahn-Seitenbelags "Am Langwieder Bach"
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Betriebskonzept für UBO 9 und Weiterführung der Kultureinrichtung, Anhörung Kulturreferat vom 19.01.15
+- TOP 6.1.: Zweiter Oberflächenaufzug für den Marienplatz, Schr. Behindertenbeirat vom 22.01.15
+- TOP 6.2.: Information zur BA-Veranstaltung zum Thema Flüchtlinge/Wohnungslose am 14.10.14, Schr. Sozialreferat vom 14.01.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Generalinstandsetzung und Umbau der ehemaligen Grundschule Schussenrieder Str. 5 in ein Haus für Kinder im 22. Stadtbezirk, Beschluss des Bildungsausschusses vom 11.03.15, hier: Anhörung Referat für Bildung und Sport vom 16.01.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Brauerei Langwied / Verlagerung von Spaten-/Löwenbräu, Verkehrsaufkommen, Schr. Planungsreferat vom 05.01.15 und Schr. Bürger vom 19.01.15
+- TOP 6.2.: Fuß/Radweg Eichenauer Straße, Schr. Baureferat vom 16.01.14
+- TOP 6.3.: Verkehrsrechtliche Anordnung, Kurzparkzone Limesstr. 5, Schr. KVR vom 09.12.14
+- TOP 6.4.: Radweg Altenburgstraße, Schr. Baureferat vom 21.01.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Joseph-Suder-Bogen, Altlastenuntersuchungen, Anhörung Planungsreferat vom 16.01.15
+- TOP 6.2.: Bodenseestr. / Mainaustr. 10, Neubau Wohnbebauung mit Kindertagesstätte und Schulsportanlage / Vorbescheid, Anhörung Planungsreferat vom 15.01.15
+- TOP 6.3.: Kastelburgstr., Gemarkung: Aubing, Fl.Nr. 1611/129, Neubau eines rum.-orthodoxen Kirchenzentrums, Gemeindezentrum, Priesterwohnung, Gästezimmer, Bischofssitz und Kloster, Anhörung des Planungsreferates vom 21.01.15
+- TOP 6.3.: Vollz. der Wassergesetze; Bachräumungstermine 2015 für die Stadt- bzw. Stadtrandbäche, Schr. Baureferat vom 19.01.15
+- TOP 6.4.: Aufstellung von neuen Mülleimern, BA-Antrag Nr. 131 vom 25.06.14 und Aufstellung eines Abfallbehälters auf dem öffentlichen Weg auf der Autobahneinhausung neben der Bahnlinie und der Straße am Langwieder Bach sowie Leerung, Schr. Baureferat vom 12.01.15
+- TOP 6.5.: Böhmerweiher, Information für die Bürgerschaft, Schr. Baureferat vom 09.01.15
+- TOP 6.6.: Zuschnitt der Sträucher in der Altostr. 82, Schr. Baureferat vom 12.01.15
+- TOP 6.7.: Aufstellung eines Ortsschildes "Freiham", BA-Antrag Nr. 08-14 / 5850 vom 09.04.14, Schr. KVR vom 21.01.15
+- TOP 6.8.: Abfallentsorgungsanlage Rupert-Bodner-Str. 25; Übernahme der vom BA 22 geforderten Auflagen in die Änderungsgenehmigung, Schr. Ref. f. Gesundheit u. Umwelt vom 22.01.15
+- TOP 6.9.: Pläne für den Böhmerweiher offenlegen, Schr. Baureferat vom 26.01.15
+- TOP 6.10.: Erdtransport rund um Gut Freiham - Baumschutz Freihamer Allee, Schr. Kommunalreferat vom 11.12.14
+- TOP 6.11.: Bebauung von Kaltluftentstehungsgebieten in Freiham - Auswirkungen für das Klima im 22. Stadtbezirk und das Klima in der LH München?, Schr. Planungsreferat vom 27.01.15
+- TOP 6.12.: Vollz. d. Grünanlagensatzung; Baustelleneinrichtung an der Mettnauer Str., Schr. KVR vom 27.01.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern, Anhörung Sozialreferat vom 19.01.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Lochhausener Str., Schr. Sozialreferat vom 22.01.15
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kreisverwaltungsausschusses vom 27.01.15: - CarSharing in München, Verlängerung des laufenden Pilotversuchs im 1 Jahr bis zum 31.03.16
+- TOP 10.2.: Beschluss der Vollversammlung vom 20.11.15: - Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zum jährlich im Kommunalreferat stattfindenden Informationsaustausch mit den Bezirksausschüssen am 05.03.15 um 18.00 Uhr im Kommunalreferat, Roßmarkt 3, II. Stock, Zi. 232
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 18.03.2015 um 19.30 Uhr im Bürgersaal am Westkreuz, Friedrichshafener Str. 17 Unterausschusssitzungen: - UA Bauen, Planung, Umwelt: Mo., 02.02.15, 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Di., 03.02.15 - UA Bildung, Schule, Sport: Mi., 04.02.145 - UA Soziales, Familie, Senioren, Kultur: Do., 05.02.15
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 2.7.: Realisierung Bebauungsplan der Außenbereichssatzung Krähenweg
+- TOP 3.2.: Baumbeseitigungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken, Schr. Baureferat vom 19.01.15
+- TOP 6.4.: Freihamer Weg, Gemarkung: Aubing, Fl.Nr. 1203/0, Grundschulzentrum Süd, Neubau einer 5-zügigen Grundschule II (Süd) mit Räumen für ganztägige Betreuung, einer Zweifachturnhalle mit Freisportanlagen sowie eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen, Anhörung Planungsreferat vom 28.01.15
+- TOP 6.13.: Breitbandausbau Sachstandsbericht, Schr. Ref. f. Arbeit u. Wirtschaft vom 28.01.15
+- TOP 6.1.: Baufälle im 22. Stadtbezirk v. 05.01.-11.01.15, 12.01.-18.01.15, 19.01.-25.01.15, Schr. Planungsreferat vom 12.01.15, 19.10.15, 26.01.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 12.01.15, 19.01.15, 26.01.15
+- TOP 7.2.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, Anhörung Direktorium vom 28.01.15
+- TOP 8.2.: Unveränderte Fortführung "Mädchen WG 5", Bodenseestr. 131, Schr. KVR vom 28.01.15
+- TOP 8.3.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Platzhirsch Freiham", Hans-Stützle-Str. 3, Schr. KVR vom 28.01.15
+- TOP 2.8.: Fußweg hinter dem Anwesen Bodenseestr. 198 - Überlinger Weg
+- TOP 3.3.: Baumfällungen auf Anforderung: - Karl-Caspar-Weg 3 - Colmdorfstr. 3 - Lindacher Str. 5 - Stolzeneckstr. 11 - Germeringer Weg 2 - Pirolstr. 6 (N) - Sipplinger Str. 8 (N) - Nonnenhornstr. 5 (N) - Mariabrunner Str. 54 (N) - Teckstr. 11 (N) - Langwieder Hauptstr. 10 (N) - Streitbergstr. 1 (N) - Lindacher Str. 23
+- TOP 6.1.: Aufhebung der Tonnagebeschränkung in der Schussenrieder Straße, Anhörung KVR vom 02.02.15
+- TOP 6.5.: Kindergarten St. Quirin in der Ubostraße - Fahrbahnmarkierung, Schr. Baureferat vom 03.02.15
+- TOP 10.3.: Ausschuss für Stadtplanung und Bauordnung vom 21.01.15: - Vergrößerung des Angebots an öffentlichen Grünflächen; Ausgleich des Verlusts an Grünflächen durch Nachverdichtung im Stadtbezirk - Bericht zur Wohnungssituation in MÜnchen 2012-2013 - Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Mietkosten senken und Klima schonen durch PV-Eigenverrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter - Fortschreibung des jährlichen Spielflächenversorgungsplanes
+- TOP 10.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.15: - Mädchen und junge Frauen in München
+- TOP 10.5.: Beschluss des Sozialausschusses vom 15.01.15: - Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 5.1.: Budget der Bezirksausschüsse Münchner Gesellschaft für Stadterneuerung mbH Kunstaktion ?Leuchtballons? und Fest ?Ramses leuchtet? am 29.11.2014
+- TOP 5.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied Widmung der Gesamtstrecke der Ria-Burkei-Straße und von Teilstrecken der Bertha-Kipfmüller-Straße
