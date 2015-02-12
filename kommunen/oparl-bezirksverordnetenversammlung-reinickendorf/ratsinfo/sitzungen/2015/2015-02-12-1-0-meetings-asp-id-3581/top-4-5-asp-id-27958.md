@@ -1,0 +1,8 @@
+# TOP 4.5: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-55 für die Grundstücke Glienicker Straße 6, Schloßstraße 28A, für eine Teilfläche des Bahnhofplatzes, für eine Teilfläche des S-Bahnhofs Hermsdorf mit dem nördlichen Empfangsgebäude und für Teilflächen der anliegenden Glieni-cker Straße und der Schloßstraße im Bezirk Reinickendorf, Ortsteil Hermsdorf
+
+- Sitzung: 28. öffentliche Sitzung des Ausschusses für Bauwesen und Stadtplanung (2015-02-12)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=27958
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=27958
