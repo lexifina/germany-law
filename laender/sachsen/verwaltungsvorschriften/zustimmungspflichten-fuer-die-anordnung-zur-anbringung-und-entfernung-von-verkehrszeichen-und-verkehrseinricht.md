@@ -1,8 +1,8 @@
 # Zustimmungspflichten für die Anordnung zur Anbringung und Entfernung von Verkehrszeichen und Verkehrseinrichtungen gemäß Ziffer III bis V der VwV-StVO zu § 45 Abs. 1 bis 1e StVO 1. Die Zustimmung des Landesamtes für Straßenbau und Verkehr ist für Ano
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2012-03-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12304.1
+- Datum: 2015-02-13 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12304.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,8 +10,7 @@
 
 I.
 
-Zustimmungspflichten für die Anordnung zur Anbringung und Entfernung von Verkehrszeichen und Verkehrseinrichtungen gemäß Ziffer III bis V der VwV-StVO zu § 45 Abs. 1 bis 1e
-StVO
+Zustimmungspflichten für die Anordnung zur Anbringung und Entfernung von Verkehrszeichen und Verkehrseinrichtungen gemäß Ziffer III bis V der VwV-StVO zu § 45 Abs. 1 bis 1e StVO
 
 1.
 
@@ -56,9 +55,7 @@ Zusatzzeichen „abknickende Vorfahrt“ zu Zeichen 306
 2.
 
 Für die Anbringung und Entfernung der im Übrigen unter Ziffer III bis V der Allgemeinen Verwaltungsvorschrift zur
-Straßenverkehrs-Ordnung
-(VwV-
-StVO) zu § 45 Abs. 1 bis 1e
+Straßenverkehrs-Ordnung (VwV-StVO) zu § 45 Abs. 1 bis 1e
 
 StVO genannten Verkehrszeichen werden die Straßenverkehrsbehörden gemäß Ziffer VI der VwV zu § 45 Abs. 1 bis 1e vom Erfordernis der Zustimmung befreit.
 
@@ -72,54 +69,64 @@ Die folgenden, nicht im Katalog der Verkehrszeichen enthaltenen Zusatzzeichen we
 
 Zusatzzeichen
 
-| Nr.
+| Ldf. Nr.
 
-| Titel
+| Zusatzzeichen
 
 | Nr.
 | Titel
 
 |   1
-| Großraum- und Schwertransporte frei (zu VZ 286
+|
+Großraum- und Schwertransporte frei (zu VZ 286
 StVO)
 
 |   2
-| Nebenstrecke (zu VZ 415, 418, 419
+|
+Nebenstrecke (zu VZ 415, 418, 419
 StVO)
 
 |   3
-| Richtung ... (Ort) (zu VZ 457.1
+|
+Richtung ... (Ort) (zu VZ 457.1
 StVO)
 
 |   4
-| Vermessung (zu VZ 101/123
+|
+Vermessung (zu VZ 101/123
 StVO)
 
 |   5
-| Markierungsarbeiten (zu VZ 101/123
+|
+Markierungsarbeiten (zu VZ 101/123
 StVO)
 
 |   6
-| Mäharbeiten (zu VZ 101/123
+|
+Mäharbeiten (zu VZ 101/123
 StVO)
 
 |   7
 | Baumpflege
 
 |   8
-| Unfall (zu VZ 101
+|
+Unfall (zu VZ 101
 StVO)
 
 |   9
-| Linksabbieger (zu VZ 101
+|
+Linksabbieger (zu VZ 101
 StVO)
 
 | 10
-| Ausfahrt (zu VZ 101
+|
+Ausfahrt (zu VZ 101
 StVO)
 
 | 11
-| Feuerwehrausfahrt (zu VZ 101
+|
+Feuerwehrausfahrt (zu VZ 101
 StVO und zu LZA)
 
 | 12
@@ -135,11 +142,13 @@ StVO und zu LZA)
 | Keine Markierung
 
 | 16
-| Schulweg (zu VZ 101
+|
+Schulweg (zu VZ 101
 StVO beziehungsweise VZ 274 in Verbindung mit zeitlicher Begrenzung)
 
 | 17
-| Schulbus zum Beispiel Mo-Fr 7–9 h, 11–13 h (zu VZ 224
+|
+Schulbus zum Beispiel Mo-Fr 7–9 h, 11–13 h (zu VZ 224
 StVO) Zeiten variabel
 
 | 18
@@ -163,6 +172,20 @@ StVO) Zeiten variabel
 | 24
 | Gülletransporte frei
 
+| 25
+|
+Treibjagd (zu VZ 101
+StVO)
+
+| 26
+| Wendestelle Winterdienst
+
+| 27
+| Kurze Ausfahrt
+
+| 28
+| Veranstaltung
+
 2.
 
 Im Einzelfall können weitere Zusatzzeichen zugelassen werden. Einzelfallentscheidungen trifft das Landesamt für Straßenbau und Verkehr. Über getroffene Einzelfallentscheidungen ist das Staatsministerium für Wirtschaft, Arbeit und Verkehr zu unterrichten.
@@ -177,7 +200,7 @@ Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. März 2012 in Kraft.
 
 2.
 
-Gleichzeitig treten die Verwaltungsvorschrift über die Zuständigkeit und Zustimmungspflicht für die Anordnung zur Anbringung und Entfernung von Verkehrszeichen und Verkehrseinrichtungen vom 29. November 1999 (nicht ver-öffentlicht), zuletzt enthalten in der Verwaltungsvorschrift vom 24. November 2011 (SächsABl. SDr. S. S 1767), sowie die Übersicht über nicht im Katalog der Verkehrszeichen (VZKat92) enthaltene und durch das Sächsische Staatministerium für Wirtschaft und Arbeit zugelassene Zusatzzeichen (ZZ) vom 8. April 2005 außer Kraft.
+Gleichzeitig treten die Verwaltungsvorschrift über die Zuständigkeit und Zustimmungspflicht für die Anordnung zur Anbringung und Entfernung von Verkehrszeichen und Verkehrseinrichtungen vom 29. November 1999 (nicht veröffentlicht), zuletzt enthalten in der Verwaltungsvorschrift vom 24. November 2011 (SächsABl. SDr. S. S 1767), sowie die Übersicht über nicht im Katalog der Verkehrszeichen (VZKat92) enthaltene und durch das Sächsische Staatministerium für Wirtschaft und Arbeit zugelassene Zusatzzeichen (ZZ) vom 8. April 2005 außer Kraft.
 
 Dresden, den 2. März 2012
 
