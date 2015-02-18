@@ -1,0 +1,90 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-02-18T17:00:00+01:00
+- Ende: 2015-02-18T21:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3099
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3099
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Informationsversagen im Bezirksamt? - beantwortet
+- TOP 3.2: Trödelmarkt auf dem Platz des 4. Juli - beantwortet
+- TOP 3.3: Kinder- und Jugendbeteiligung Parks Range - beantwortet
+- TOP 3.4: Effektivere Verwendung der Mittel zur Sanierung von Schul- und Sportstätten in 2015? - beantwortet
+- TOP 3.5: Finanzielle Rücklagen des Bezirkes - beantwortet
+- TOP 3.6: Kein Interesse an einem Verkehrskonzept mit den Umlandgemeinden? - beantwortet
+- TOP 3.7: Hochsitzweg - beantwortet
+- TOP 3.8: Personalsituation im Hochbauamt - schriftlich beantwortet
+- TOP 3.9: Innovationslabor Elektroverkehr - schriftlich beantwortet
+- TOP 3.10: Zustand der Gehwege Am Fischtal etc. - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringliche Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für den Kirchbauverein St. Annen - St. Annenchor - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Sondermittel der BVV für den Freundeskreis der Musikschule Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Berufung eines beratenden Mitgliedes als Vertretung des Bezirkselternausschusses der Kindertagesstätten in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Berufung eines beratenden Mitgliedes als Vertretung der Evangelischen Kirche in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 4.3.1: Bushaltestelle am Teltower Damm entschärfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Absperrgitter Parkplätze Steglitzer Damm 31-39 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Personalentwicklungsplan für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.3.4: Transparente und zielgerichtete Förderung für die Integration von Flüchtlingen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Raumluft in Steglitz-Zehlendorfer Schulen verbessern II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Vorbereitung zur Ablösung von Windows 7 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Patenschaften für Flüchtlingskinder im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Hundehalter vor Betreten der Berliner Forsten über Abfall- und Kotentsorgung informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Spendenboxen für Straßenbäume - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.10: Ampelschaltung synchronisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.11: Mehr Personal an der Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.12: Inklusion auch als Schwerpunktthema in der Lehrerausbildung und Fortbildung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.13: Anwohnerparkausweise für Menschen ohne eigenes Auto - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.14: Unterkünfte für wohnungslose Menschen überprüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.15: Mikrofone für den Bürgersaal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.16: Tempo 30 Schorlemer Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.17: Häufig gestellte Fragen (FAQ) zur Unterbringung von Flüchtlingen in Steglitz-Zehlendorf auf der Internetseite des Bezirks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - (offen)
+- TOP 5.1.1: Schrottfahrräder recyceln - überwiesen
+- TOP 5.1.2: Fortgesetzter Verfassungsbruch der Senatsverwaltung für Finanzen? - überwiesen
+- TOP 5.1.3: Einsatz für Wohnplätze im "geschützten Marktsegment" bei Wohnungsbaugenossenschaften - überwiesen
+- TOP 5.1.4: Recht auf Teilhabe für psychisch Kranke und Suchtkranke sichern - überwiesen
+- TOP 5.1.5: Einbahnstraße an der Erich-Kästner-Schule - überwiesen
+- TOP 5.1.6: Weniger Verkehr in der Crailsheimer Straße - überwiesen
+- TOP 5.1.7: Weiteren Bettenabbau am UKBF der Charité verhindern - überwiesen
+- TOP 5.1.8: Zuwegung für Menschen mit Behinderung an den Badeseen - überwiesen
+- TOP 5.1.9: Mehr Sicherheit an der Breisgauer Straße - überwiesen
+- TOP 5.1.10: Schulweg zur Mühlenau-Grundschule sichern - überwiesen
+- TOP 5.1.11: Busfahrzeiten Grundschule am Buschgraben - überwiesen
+- TOP 5.1.12: Einstiegshilfen für Menschen mit Behinderung an den Badeseen - überwiesen
+- TOP 5.1.13: Fachinformation Barrierefreiheit im Bauservice sicherstellen - überwiesen
+- TOP 5.1.14: Durchwegung des Spielplatzes an der Curtiusstraße - überwiesen
+- TOP 5.1.15: Finanzierung der Integrationslotsen (Stadtteilmütter) sichern - überwiesen
+- TOP 5.1.16: VHS-Sprachkursangebot für Flüchtlinge aufstocken - überwiesen
+- TOP 5.1.17: Sicherer Fussgängerübergang auch für sehbehinderte Menschen - überwiesen
+- TOP 5.1.18: Vorhandene Naturverjüngung zu neuen Bäumen entwickeln - überwiesen
+- TOP 5.1.19: Elisabeth Schiemann in die Benennungsliste für Straßen und Plätze aufnehmen - überwiesen
+- TOP 6: Dringlichkeitsanträge - erledigt
+- TOP 6.1: Sondermittel von Haushaltssperre ausnehmen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Missachtung der BVV durch Anordnung der Einschränkung der Nutzungen am Schlachtensee als Hundeauslaufgebiet! - beantwortet
+- TOP 7.2: Anträge - erledigt
+- TOP 7.2.1: Ergebnisoffener Bürgerdialog zum Hundeverbot an Schlachtensee und Krumme Lanke - überwiesen
+- TOP 7.2.2: Transparenz der Vorlage zum Beschluss Nr. 907 "Badestellen Schlachtensee" - überwiesen
+- TOP 7.3: Große Anfragen - (offen)
+- TOP 7.3.1: Sanierung und barrierefreier Umbau des Deutschen Blindenmuseums in der Rothenburgstraße - schriftlich beantwortet
+- TOP 7.4: Anträge - (offen)
+- TOP 7.4.1: Parkleitsystem Schloßstraße - überwiesen
+- TOP 8: Einwohneranträge gemäß § 18 (1) GO - erledigt
+- TOP 8.1: Sanierung der Fichtenberg-Oberschule (Gymnasium) - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Studentisches Wohnen im Bezirk sichern - in der BVV abgelehnt
+- TOP 9.2: UNESCO-Weltkulturerbe in Glienicke vor weiterem Verfall bewahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Schlusswort des Vorstehers - erledigt
