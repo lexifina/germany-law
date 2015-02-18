@@ -1,0 +1,82 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-02-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3527018
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3527018
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .1.: München lebt kulturelle Vielfalt ? ein Angebot für Bezirksausschüsse; Schreiben des Sozialreferates vom 22.12.2014 (TOP A 4.0 vom 28.01.2014); Benennung der zur Mitarbeit bereiten Mitglieder aus den Fraktionen
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Randsteinabsenkungen in der Gaisberg-, Haidhauser und Lucile-Grahn-Straße; Bürgeranliegen (E-Mail) vom 08.02.2015)
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: Beschlussfassung über die Finanzierung des Seifenkistenrennens am 26.04.2015 aus dem Budgetanteil für BA-eigene Veranstaltungen; Antragssumme: 5.850,- ? auf Grund lage der vorläufigen Kalkulation
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Flüchtlingsunterkunft an der Orleansstraße
+- TOP .2.: Nutzung leerstehender Gebäude als Flüchtlingsunterkunft
+- TOP .3.: Aufwertung der Tegernseer Landstraße: Auswirkungen auf den 5. Stadtbezirk
+- TOP .4.: Tierversuche in Au-Haidhausen
+- TOP .5.: Unterlagen zur Bezirksausschuss-Sitzung digital zur Verfügung stellen
+- TOP .6.: Fortsetzung der Kampagne "Radlhauptstadt München"
+- TOP .7.: Fahrradstellplätze vor der Wörthstraße 9
+- TOP .8.: Fahrradabstellmöglichkeiten in der Wörthstraße
+- TOP .9.: Baumgräben in der Wörthstraße
+- TOP .10.: Baumschutz in der Wörthstraße; Ergebnisse des Ortstermins vom 02.12.2014
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Auszeichnung für ehrenamtliches Engagement im Stadtteil; Antrag der Fraktion Bündnis `90/Die Grünen aus der Sitzung vom 16.07.2014 (vertagt)
+- TOP .2.: Kultur braucht Raum (Graffiti); Antrag der Fraktion Bündnis`90/Die Grünen vom 25.06.14 (vertagt)
+- TOP .3.: Willkommenskultur etablieren; Antrag der Fraktion Bündnis`90/Die Grünen vom 15.10.14 (vertagt)
+- TOP .1.: Erweiterung des Fachschulangebots in Zusammenarbeit mit den städtischen Berufsschulen; Anhörung durch das Referat für Bildung und Sport zur Beschlussvorlage für den Bildungsausschuss des Stadtrates am 11.03.2015 (vertagt, TOP N ? A 7.3 vom 28.01.2015)
+- TOP .1.: Mehrjahresinvestitionsprogramm (MIP) 2014 ? 2018: 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.14 bzw. des gemein- samen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.2014
+- TOP .2.: Mädchen und junge Frauen in München; Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.2015
+- TOP .3.: Unterbringung von Flüchtlingen und Wohnungslosen; Beschluss des Sozialausschusses vom 15.01.2015
+- TOP .1.: Evaluierung der Sondernutzungsrichtlinien; Schreiben des Kreisverwaltungsreferats vom 02.12.14 mit der Bitte um Stellungnahme (vertagt, TOP N ? A 7.1 vom 28.01.15)
+- TOP .2.: Erlaubnis von Vergnügungsveranstaltungen nach Art. 19 LStVG, Aufnahme eines Anhörungsrechts in den Katalog des Kreisverwaltungsreferats der BA-Satzung; Anhörung durch das Direktorium vom 28.01.15 zum Antrag Nr. 14-20 / B 00178 des BA 7 ? Sendling-Westpark ? vom 15.07.14
+- TOP .3.: Schank- und Speisewirtschaft ?gast?, Rosenheimer Straße 5, Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens (auf 01.00 Uhr); Anhörung durch das Kreisverwaltungsreferat vom 05.12.14
+- TOP .4.: Veranstaltung im Freien in einer städtischen Grünanlage: Spiel-, Sport- und Kreativ- woche des AKA e.V. vom 22.-26.06.15 am Johannisplatz; Anhörung durch das Kreisverwaltungsreferat vom 19.01.15
+- TOP .5.: Veranstaltung im Freien in einer städtischen Grünanlage: Quadrospielkistl und Spiel- woche des AKA e.V. vom 06.-10.07.15 im Hypopark; Anhörung durch das Kreisverwaltungsreferat vom 19.01.15
+- TOP .6.: Veranstaltung im Freien in einer städtischen Grünanlage: Schulabschlussfest des AKA e.V. am 27.07.15 auf der Postwiese; Anhörung durch das Kreisverwaltungsreferat vom 16.01.15
+- TOP .7.: Alten- und Servicezentrum Haidhausen, Antrag für eine Freischankfläche; Schreiben der Innere Mission München, Hilfe im Alter gGmbH vom 16.12.2014
+- TOP .8.: Café und Bar am Müllerschen Volksbad; Projektvorstellung vom 28.01.15 von Nutzungsinteressenten
+- TOP .1.: Unveränderte Fortführungen von Gaststättenbetrieben; Mitteilungen des KVR / BI Ost 3.1.1 Kleingaststätte ?Cookie King?, Rosenheimer Straße 67 3.1.2 Schank- und Speisewirtschaft ?El Espanol?, Pariser Straße 46 3.1.3 Schank- und Speisewirtschaft ?Voilà?, Wörthstraße 5 3.1.4 Schank- und Speisewirtschaft ?SUSHI OJI?, Prinzregentenstraße 122 3.1.5 Schank- und Speisewirtschaft ?Keko?, Mariahilfstraße 24
+- TOP .1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 und Bebauungsplan mit Grünordnung Nr. 2076 Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 77, 892 und 1995) ? ?Paulaner?; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 12.12.2014 (vertagt vom 28.01.2015)
+- TOP .2.: Elsässer Straße 27, DG-Ausbau mit Errichtung von Dachterrassen und Gauben; Anhörung durch die Lokalbaukommission vom 29.01.15
+- TOP .3.: Elsässer Straße 29, DG-Ausbau mit Errichtung von Dachterrassen und Gauben; Anhörung durch die Lokalbaukommission vom 29.01.15
+- TOP .4.: Falkenstraße 7 a ? 7 b, Neubau eines Wohngebäudes (5WE) mit Tiefgarage ? Vorbescheid; Baumbestandsplan; Anhörung durch die Lokalbaukommission vom 29.01.15
+- TOP .1.: Vorstellung des ADFC
+- TOP .2.: Lärmbelästigung durch Busse der MVG in der Orleansstraße; Zuleitung einer Bürger- beschwerde durch den Bayerischen Landtag vom 16.12.2014 (vertagt, TOP D 0.1 vom 28.01.2015)
+- TOP .1.: Salvatorausschank 2015, Verkehrsregelung in den umliegenden Straße am Nockherberg; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferats vom 19.01.15
+- TOP .2.: Lärmminderungsplanung / Lärmaktionsplan München - Lärmschutz an verschiedenen städtischen Straßen - Aufnahme verschiedener Straßen in den Lärmaktionsplan Beschluss des Umweltausschusses vom 03.02.15 u.a. zur Bürgerversammlungsempfehlung Nr. 08-14 / E 01255 des Bezirksteils Haidhausen vom 08.03.2012 (Verkehrsberuhigung Rosenheimer Straße: Lärmschutz für Anwohner)
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 11.03.2015, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA Soziales: Montag, 09.03.2015, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Arb.+Wirtsch.: Dienstag, 10.03.2015, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 12.03.2015, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 09.03.2015, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: am Mittwoch, 18.03.2015, 19.00 Uhr, Salesianum, St.-Wolfgangs-Platz 11, 81669 München
+- TOP .4.: Sonstige Termine
+- TOP .1.: Bürgerversammlungen im Jahr 2015 Bezirksteil Haidhausen: Donnerstag, 05.03.15, 19.00 Uhr, Hofbräukeller, Innere Wiener Straße 19 Bezirksteil Au: Donnerstag, den 26.02.15, 19.00 Uhr, Turnhalle des Pestalozzi- Gymnasiums, Eduard-Schmid-Straße 1
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
