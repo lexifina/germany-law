@@ -1,0 +1,7 @@
+# TOP 4: Sonstige Fälle
+
+- Sitzung: BA 18 - Vollgremium (2015-02-19)
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/258600
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/258600
