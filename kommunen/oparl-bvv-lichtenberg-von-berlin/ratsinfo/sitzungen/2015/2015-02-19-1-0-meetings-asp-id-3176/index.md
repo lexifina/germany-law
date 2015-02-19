@@ -1,0 +1,97 @@
+# 41. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-02-19T17:00:00+01:00
+- Ende: 2015-02-19T21:35:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3176
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3176
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=117793
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - erledigt
+- TOP 8.1: Bündnis für Wohnen - beantwortet
+- TOP 8.2: Nutzbarkeit von Turn- und Sporthallen in Lichtenberg - beantwortet
+- TOP 8.3: Sportplatz in Karlshorst - beantwortet
+- TOP 8.4: Anmeldung der Nahverkehrstangente für den Bundesverkehrswegeplan 2015 - beantwortet
+- TOP 8.5: Sondervermögen "Infrastruktur der Wachsenden Stadt" - beantwortet
+- TOP 8.6: "Kleinstmaßnahmen in Lichtenberg" - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Sportplatz Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Spielgeräte für die Grundschule am Wilhelmsberg ersetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Gremien online – Erstellung einer Lichtenberger Dokumentations- und Arbeitsplattform - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Das Parken auf der Marktfläche des Quartiersparks Alt-Hohenschönhausen künftig unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Freigabe von zwei Einbahnstraßen für Radfahrende in der Gegenrichtung in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Lichtenberg benötigt neue Schulgebäude - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Fahrradparken auf dem Dach des S- und Regionalbahnhofes in Berlin-Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Alte Handys aufbereiten - Rohstoffe sparen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Inklusionsgerechte Anordnung von Fahrradständern bei Einzelhandelseinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Würdigung der evangelischen Erlöserkirche als zeitgeschichtlich bedeutsamen Ort mit einer Erinnerungstafel - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Information an die BVV bei Aufgabenverlagerung - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Wiederaktivierung der Essensversorgung in der KultSchule - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Bessere Kommunikation in Flüchtlingsfragen - überwiesen
+- TOP 9.14: VHS-Sprachkursangebot für geflüchtete Menschen aufstocken! - überwiesen
+- TOP 9.15: Alternden oder mobilitätseingeschränkten Menschen den Verbleib im bewährten Wohnumfeld nachhaltig ermöglichen - überwiesen
+- TOP 9.16: Sicherer Kita-Weg in der Konrad-Wolf-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Fußgängerüberweg Egon-Erwin-Kisch-Straße/Grevesmühlener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Willkommenskultur in Lichtenberg - Sprach- und Integrationskurse für Flüchtlinge - überwiesen
+- TOP 9.19: Weitere Orte in die Gedenkveranstaltungen am 27. Januar einbeziehen - überwiesen
+- TOP 9.20: Anbindung der Tram 21 an den Bahnhof Ostkreuz - überwiesen
+- TOP 9.21: 105 Jahre Frauentag 2016: Eine Ausstellung über Lichtenbergerinnen und ihre Berufe - überwiesen
+- TOP 9.22: Verkehrssicherheit in der Seehausener Straße verbessern - überwiesen
+- TOP 9.23: Vorhabenbezogener Bebauungsplan 11-65 VE - Festsetzung Arbeitstitel: Buchberger Straße 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.24: Bebauungsplan 11-63 - öffentliche Auslegung Arbeitstitel: Marie-Elisabeth-von-Humboldt-Straße (Altsiedlung) - überwiesen
+- TOP 9.25: Gefahrlose Radfahrmöglichkeit auf der Karlshorster Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: Hinweisschild Neu-Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Kauf einer mobilen Rampe - überwiesen
+- TOP 9.28: Ampelschaltung an der Kreuzung Sewanstraße/Rummelsburger Straße für Fußgänger verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Umbenennung des westlich der Schreiberhauer Straße gelegenen Teilstücks der Kaskelstraße; Schaffung von eigenständigen Adressen bzw. Hausnummern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.30: Ausbau von Carsharing auf den gesamten Bezirk Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Beschulung von Flüchtlingskindern in Regelschulen im Bezirk sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Vorhabenbezogener Bebauungsplan 11-65 VE - öffentliche Auslegung Arbeitstitel: Buchberger Straße 5 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.33: Bebauungsplan 11-106 - Aufstellungsbeschluss Arbeitstitel: KGA "Ilsegärten" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Wahl der Schriftführerin/des Schriftführers des Vorstandes - gewählt
+- TOP 11.2: Wahl eines Mitglieds in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - gewählt
+- TOP 11.3: Berufung eines beratenden und eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses für die VII. Wahlperiode - gewählt
+- TOP 11.4: Berufung von beratenden Mitgliedern für den Jugendhilfeausschuss der VII. Wahlperiode - gewählt
+- TOP 11.5: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.6: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 12.1: Abstimmung zur Drucksache 1291/VII - Einwohnerantrag: "Schulreinigung", siehe Nachtrag zum Protokoll der 40. Sitzung der BVV am 22.01.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Innovationsfonds - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Aktiv gegen Lärmbelästigung durch die "Strandbar Rummelsburg" - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Modularer Ergänzungsbau (MEB) für die Lew-Tolstoi-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: "Tempo 60 in der Hohenschönhauser Straße" - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mies van der Rohe Haus - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Fahrbahnüberquerung Gehrenseestraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Einrichtung einer Lichtzeichenanlage im Bereich Gehrenseestraße/Anna-Ebermann-Straße - in der BVV zurückgezogen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Inklusion bei Schüler_innentransporten - überwiesen
+- TOP 14.2: Schutz der bezirklichen Skulpturen - in der BVV abgelehnt
+- TOP 14.3: Sicherheit gewährleisten im Welsekiez - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Campus für Demokratie in Lichtenberg möglich machen - überwiesen
+- TOP 14.5: Verkehrssicherheit der Kreuzung Landsberger Allee - Weißenseer Weg erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Weil der Bezirk betroffen ist - Verhandlungen zu CETA, TTIP und TISA aussetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Zentren- und Einzelhandelskonzept novellieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Fehleinleitungen in den Ruschegraben und Ertüchtigung der Regenrückhaltebecken - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Willkommenskultur unterstützen - Erstausstattung mit persönlichem Schulbedarf vom ersten Schultag an - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Beschlussfassung - (offen)
+- TOP 15.1: Zielvereinbarung für das Audit Familiengerechte Kommune - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Diabetesfrüherkennung fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Das Bezirksamt spricht in einfacher Sprache - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17: Schließung der Sitzung - erledigt
