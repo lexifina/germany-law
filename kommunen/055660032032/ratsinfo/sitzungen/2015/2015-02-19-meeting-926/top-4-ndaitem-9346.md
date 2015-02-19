@@ -1,0 +1,7 @@
+# TOP 4: Umweltbericht der Gemeinde Ladbergen
+
+- Sitzung: Umweltausschuss (2. Sitzung) (2015-02-19)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9346
+- Beratung: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5549
