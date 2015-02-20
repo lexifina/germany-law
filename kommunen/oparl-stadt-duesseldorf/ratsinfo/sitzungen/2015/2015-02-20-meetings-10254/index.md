@@ -1,0 +1,53 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-20T14:00:00+01:00
+- Ende: 2015-02-20T19:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10254
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10254
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233609.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233609.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233609.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Bestellung der Schriftführerin der Bezirksvertretung 1 - einstimmig beschlossen
+- TOP 3: Verpflichtung eines neuen Mitgliedes der Bezirksvertretung 1
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Zulassung Sachverständige
+- TOP 6: Geplanter Umbau des Münstercenters - zur Kenntnis genommen
+- TOP 7: Weihnachtsmarkt "Schwabenmarkt 2014" - zur Kenntnis genommen
+- TOP 8: Anfrage zur Skateranlage Gustaf-Gründgens-Platz - zur Kenntnis genommen
+- TOP 9: LKW Trassen im Hofgarten - zur Kenntnis genommen
+- TOP 10: BPl Nr 5576/78-Innenstadt- Änderungen gem. § 13 BauGB - einstimmig beschlossen
+- TOP 11: Plan Nr. 01/009 - An der Piwipp - Aufstellung - einstimmig beschlossen
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Radwege Oberkasseler Brücke - einstimmig beschlossen
+- TOP 14: Schadowstraße - Workshop zur Gestaltung der Schadowstraße"
+- TOP 15: Ertüchtigung Geländer Rheinkniebrücke - Bedarfsbeschluss - zur Kenntnis genommen
+- TOP 16: Ortsumgehung Flingern 3. Bauabschnitt und Süderweiterung Toulouser Allee - einstimmig beschlossen
+- TOP 17: Bezirksbezogene Bauunterhaltungsmaßnahmen 2015 - einstimmig beschlossen
+- TOP 18: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - einstimmig beschlossen
+- TOP 19: WIU-Fest im Ehrenhof - einstimmig beschlossen
+- TOP 20: Konzert des AURORE e.V. im Ehrenhof - einstimmig abgelehnt
+- TOP 21: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 22: "Design Classic Düsseldorf 2015" - einstimmig beschlossen
+- TOP 23: Umbaumaßnahmen im Bereich Münstercenter - einstimmig beschlossen
+- TOP 24: Bericht zum Hofgarten und der Oberflächengestaltung - einstimmig beschlossen
+- TOP 25: Versetzung der Balustrade am Tritonenbrunnen - mehrheitlich beschlossen
+- TOP 26: Outdoor-Fitness im Rheinpark - einstimmig beschlossen
+- TOP 27: Hinweise auf Sehenswürdigkeiten ab Hauptbahnhof - einstimmig beschlossen
+- TOP 28: Lichtkonzept für den Schadowplatz - mehrheitlich abgelehnt
+- TOP 29: Bepflanzung Eingangsbereich Spee`scher Graben - mehrheitlich beschlossen
+- TOP 30: Gaslaternen im Hofgarten - mehrheitlich abgelehnt
+- TOP 31: Polizeiwache in der Altstadt - einstimmig beschlossen
+- TOP 32: Bolzplatz Schwanenmarkt - einstimmig beschlossen
+- TOP 33: Spielplatzbeschilderung Halbinsel Spee'scher Graben - einstimmig beschlossen
+- TOP 34: U-Bahnhaltestelle Nordstraße - einstimmig beschlossen
+- TOP 35: Regelungen für die Gewährung von Zuschüssen durch die Bezirksvertretung - mehrheitlich abgelehnt
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
