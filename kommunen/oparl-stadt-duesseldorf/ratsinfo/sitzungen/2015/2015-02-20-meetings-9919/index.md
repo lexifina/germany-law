@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-20T16:00:00+01:00
+- Ende: 2015-02-20T18:55:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9919
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9919
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233704.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233704.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233704.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Hochstraße 8a - Abbruch einer eingeschossigen Kindertagesstätte - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: B-Plan -Verfahren 09/004 Westlich Kappeler Straße (ehemals Praktiker) gem § 13 BauGB - zur Kenntnis genommen
+- TOP 7: B-Plan-Nr.: 09/006 - Am Scheitenwege-Süd - Änderung des Aufstellungsbeschlusses, Öffentlichkeitsbet - zur Kenntnis genommen
+- TOP 8: Bezirksbezogene Bauunterhaltungsmaßnahmen 2015
+- TOP 9: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - zur Kenntnis genommen
+- TOP 10: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 11: Neuausrichtung des Betriebes der Freizeitanlagen Niederheid, Heerdt und Ulenbergstraße - zur Kenntnis genommen
+- TOP 12: Anfrage: Aktueller Stand Kita-Plätze Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 13: Anfrage: Baulücken im Stadtbezirk 09 - zur Kenntnis genommen
+- TOP 14: Anfrage: Schulsport- und Multifunktionshalle für die Katholische Hauptschule - zur Kenntnis genommen
+- TOP 15: Anfrage: Wall-Toiletten - zur Kenntnis genommen
+- TOP 16: Anfrage: Prioritätenliste „Fahrbahninstandsetzungsmaßnahmen 2015" - zur Kenntnis genommen
+- TOP 17: Anfrage: Bunker "Am Schönenkamp" - zur Kenntnis genommen
+- TOP 18: Antrag: Umbau der Schulbushaltestelle Rheindorfer Weg - zur Kenntnis genommen
+- TOP 19: Antrag: Parkplätze im Bereich "Werstener Tor", Kölner Landstraße 115 - zur Kenntnis genommen
+- TOP 20: Industriebrache nördl. Paulsmühlenstr. - zur Kenntnis genommen
+- TOP 21: Antrag: Sanierung Spielplatz Marbacher Str. (hinter dem Rathaus) - zur Kenntnis genommen
+- TOP 22: Antrag: Kultur- und Bürgerzentrum Urdenbach - zur Kenntnis genommen
+- TOP 23: Antrag: Fahrradboxen "Werstener Deckel"/Kölner Landstraße - zur Kenntnis genommen
+- TOP 24: Antrag: Grünordnungsplan - zur Kenntnis genommen
+- TOP 25: Antrag: Verlängerung der Haltestelle Benrather Krankenhaus - zur Kenntnis genommen
+- TOP 26: Antrag: Verkehrsberuhigung Demagstraße - zur Kenntnis genommen
+- TOP 27: Antrag: Ausweitung des Wochenmarktes in Holthausen - zur Kenntnis genommen
+- TOP 28: Antrag: Spielplätze im nördlichen Teil von Hassels - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel Himmelgeist 1100 e.V. - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel Don Bosco - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel "Wir in Wersten"; Stadtteilrallye für Kinder - zur Kenntnis genommen
+- TOP 32: Antrag: Verfügungsmittel "Wir in Wersten"; Osterfeuer - zur Kenntnis genommen
+- TOP 33: Antrag: Verfügungsmittel Hegering Benrath - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel Kath. Kirchengemeinde St. Antonius und Elisabeth - zur Kenntnis genommen
+- TOP 35: Antrag: Verfügungsmittel Diakonie, Zentrum plus Benrath - zur Kenntnis genommen
+- TOP 36: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
