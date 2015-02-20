@@ -1,8 +1,8 @@
 # SächsKRG) in der Fassung der Bekanntmachung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2011-09-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12083.1
+- Datum: 2015-02-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12083.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,7 +26,7 @@ SächsKRG an die urbanen Kulturräume zugewiesenen Mittel dienen der Finanzierun
 
 Bei den Kreisfreien Städten ist für die Beurteilung der Gesetzmäßigkeit der Haushaltssatzung gemäß § 119 Abs. 1 der Gemeindeordnung für den Freistaat Sachsen (
 SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die zuletzt durch Artikel 2 des Gesetzes vom 26. Juni 2009 (SächsGVBl. S. 323, 325) geändert worden ist, in der jeweils geltenden Fassung, oder für die Genehmigung der Haushaltssatzung gemäß § 119 Abs. 2 in Verbindung mit § 76 Abs. 3 Satz  4
-SächsGemO die jeweilige Landesdirektion zuständig.
+SächsGemO die Landesdirektion Sachsen zuständig.
 
 4.
 
@@ -35,8 +35,8 @@ SächsKRG sind, darf nicht widersprüchlich ausgeübt werden.
 
 5.
 
-Regelungen in Bezug auf die Wahrnehmung der Rechtsaufsicht ergehen daher einvernehmlich zwischen der jeweils zuständigen Landesdirektion und dem Staatsministerium für Wissenschaft und Kunst gemäß § 8 Satz 2
-SächsKRG .
+Regelungen in Bezug auf die Wahrnehmung der Rechtsaufsicht ergehen daher einvernehmlich zwischen der Landesdirektion Sachsen und dem Staatsministerium für Wissenschaft und Kunst gemäß § 8 Satz 2
+SächsKRG.
 
 II.
 
@@ -74,7 +74,8 @@ SächsGemO eine frühere Umstellung seiner Haushaltswirtschaft, ist diese Verwal
 
 3.
 
-Ansonsten ist für die Haushaltswirtschaft bis zum Ablauf des Haushaltsjahres 2012 die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung anzuwenden.
+Ansonsten ist für die Haushaltswirtschaft bis zum Ablauf des Haushaltsjahres 2012 die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (
+VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung anzuwenden.
 
 IV.
 
@@ -86,7 +87,8 @@ Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft.
 
 2.
 
-Die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung, tritt am 31. Dezember 2012 außer Kraft.
+Die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (
+VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung, tritt am 31. Dezember 2012 außer Kraft.
 
 Dresden, den 15. August 2011
 
