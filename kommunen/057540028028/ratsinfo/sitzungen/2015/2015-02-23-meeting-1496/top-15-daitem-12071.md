@@ -1,0 +1,7 @@
+# TOP 15: Stundung und Niederschlagung städtischer Forderungen
+
+- Sitzung: Haupt- und Finanzausschuss (2. Sitzung) (2015-02-23)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/12071
+- Ergebnis: Einstimmig
