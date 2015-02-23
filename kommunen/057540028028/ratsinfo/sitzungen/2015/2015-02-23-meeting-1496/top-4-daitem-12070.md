@@ -1,0 +1,7 @@
+# TOP 4: Interimsweise Beauftragung eines Kämmeres
+
+- Sitzung: Haupt- und Finanzausschuss (2. Sitzung) (2015-02-23)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/12070
+- Ergebnis: Einstimmig
