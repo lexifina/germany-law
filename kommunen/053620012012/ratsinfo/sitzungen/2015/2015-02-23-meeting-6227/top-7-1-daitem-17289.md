@@ -1,0 +1,7 @@
+# TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Hauptausschuss (26. Sitzung) (2015-02-23)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/17289
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
