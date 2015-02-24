@@ -1,0 +1,68 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-24T17:00:00+01:00
+- Ende: 2015-02-24T19:26:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10130
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10130
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234081.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234081.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234081.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 27.01.2015 - einstimmig beschlossen
+- TOP 3: Glasmacherviertel - zur Kenntnis genommen
+- TOP 3: Standorte zur Aufstellung von Wohnmodulen für die Unterbringung von Asyl suchenden Personen - zur Kenntnis genommen
+- TOP 4: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - mehrheitlich beschlossen
+- TOP 5: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2015) - einstimmig beschlossen
+- TOP 6: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 8: Resolution gegen Fremdenfeindlichkeit - einstimmig beschlossen
+- TOP 9: Willkommenskultur stärken! - einstimmig beschlossen
+- TOP 10: Innenhofgestaltung Heyestraße 51-53 - einstimmig beschlossen
+- TOP 11: Kulturbahnhof Gerresheim - zur Kenntnis genommen
+- TOP 12: Gerresheimer Bahnhof - zurückgezogen
+- TOP 13: Alter Bahnhof Gerresheim (Kulturbahnhof) - zurückgezogen
+- TOP 14: Alter Gerresheimer Bahnhof - einstimmig beschlossen
+- TOP 15: Mögl. Wegfall der OU Flingern und Auswirkungen auf Gerresheim - einstimmig beschlossen
+- TOP 16: Mögl. Wegfall der OU Flingern - einstimmig beschlossen
+- TOP 17: Verkehrskonzept für das Glasmacherviertel - einstimmig beschlossen
+- TOP 18: Kreuzung Torfbruchstraße/Dreherstraße - einstimmig beschlossen
+- TOP 19: Zebrastreifen vor Kinderhospiz Regenbogenland - einstimmig beschlossen
+- TOP 20: Masterplan "Energieeffiziente Straßenbeleuchtung 2010 – 2015" - einstimmig beschlossen
+- TOP 21: Wiederaufforstung der Hardt - zurückgezogen
+- TOP 21.1: unentgeltliche ÖPNV-Tickets für Flüchtlinge - mehrheitlich abgelehnt
+- TOP 22: Haushaltsmittel für die Unterstützung von Flüchtlingen - mehrheitlich beschlossen
+- TOP 22.1: Bebauungsplan Nr. 07/001 Innenhof nördlich Hardtstraße - einstimmig beschlossen
+- TOP 23: Stärkung der Beteiligung der Bürger und Bürgerinnen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 24: Vorstellung des Konzeptes des geplanten Radhauptnetzes - einstimmig beschlossen
+- TOP 25: Verfahrensabläufe der Aufnahme von Flüchtlingen und Asylbewerbern - zurückgezogen
+- TOP 26: Givebox Heyestraße - zurückgezogen
+- TOP 27: Grütersaaper Weg - einstimmig beschlossen
+- TOP 28: Holzgeländer Ernst-Poensgen-Allee bis zur "Schönen Aussicht" - einstimmig beschlossen
+- TOP 29: Spazierweg an der Ikenstraße - einstimmig beschlossen
+- TOP 29.1: Gerresheimer Synagoge - einstimmig beschlossen
+- TOP 29.2: Planung der Baumaßnahmen im nördlichen Gerresheim - einstimmig beschlossen
+- TOP 29.3: Regionalplan - mehrheitlich beschlossen
+- TOP 29.3.1: RPD - Ortsumgehung Gerresheim Süd, Düsselaue - zurückgezogen
+- TOP 30: Senden der Haltestelleninformationen - zur Kenntnis genommen
+- TOP 31: Verkehrsunfallzahlen Glashüttenstraße - zur Kenntnis genommen
+- TOP 32: Rolander Weg 25, Pflanzkübel auf dem Gehweg - zur Kenntnis genommen
+- TOP 33: Stand der Umsetzung der Inklusion im Stadtbezirk 7 - vertagt
+- TOP 34: Quartiersmanagement - vertagt
+- TOP 35: Bezirk 7 soll Projektbezirk für Obstbaum- und Obststrauchbepflanzungen werden - zur Kenntnis genommen
+- TOP 36: ÖPNV - zur Kenntnis genommen
+- TOP 37: Querungshilfe/Zebrastreifen an der Torfbruchstraße - zur Kenntnis genommen
+- TOP 38: Tempo 40-Abschnitt auf der Ernst-Poensgen-Allee - zur Kenntnis genommen
+- TOP 39: Erneuerung Matschweg Diepenstraße - zur Kenntnis genommen
+- TOP 40: Aufwertung Düsselbrücke an der Dreherstraße/Düsselbrücke an der Dreherstraße - zur Kenntnis genommen
+- TOP 41: Abpflanzung der Zaunanlage der Sportanlage Diepenstraße entlang der Düssel - zur Kenntnis genommen
+- TOP 42: Masterplan Kinderspielplätze im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 43: Ampelschaltung Grafenberger Allee 413 - zur Kenntnis genommen
+- TOP 44: Schaffung zusätzlicher Kapazitäten zur Unterbringung von Asylsuchenden Personen, Manthenstraße 25 - zur Kenntnis genommen
