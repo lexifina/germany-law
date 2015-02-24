@@ -1,0 +1,8 @@
+# TOP 9: ÖPNV-Anbindung vom Stadtbezirk 10 zum Friedhof Itter
+
+- Sitzung: Bezirksvertretung 10 (2015-02-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/194150
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/75086
