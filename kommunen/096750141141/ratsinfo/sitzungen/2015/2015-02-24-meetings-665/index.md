@@ -1,0 +1,55 @@
+# Sitzung des Stadtrates - Haushaltsberatungen (Vermögenshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2015-02-24T17:00:00+01:00
+- Ende: 2015-02-24T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/665
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/665
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00017782.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00021637.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Beratung des Vermögenshaushaltes 2015 mit Investitionsprogramm 2014 - 2018
+- TOP 2.1: 0000.9350 - Beschaffung von Tablets für die Stadtratsmitglieder Anfrage von Stadträtin Kahnt
+- TOP 2.2: 0600.9452 - Farbleitsystem Bauamt Anfrage von Stadträtin Glos
+- TOP 2.3: 0600.9454 - Baukosten Bürgerbüro bzw. Kaiserstraße 17 0600.9494 - Planung Bürgerbüro und Kaiserstraße 17
+- TOP 2.4: 2112.9450 - Grund- und Mittelschule Siedlung, Umbau und Erweiterung 2112.9490 Grund- und Mittelschule Siedlung Planungskosten - abgelehnt
+- TOP 2.5: UA 2140 - Neubau Zweifeldsporthalle Deusterpark mit Planungskosten und Außenanlagen - beschlossen
+- TOP 2.6: 3009.9450/9490 - Alte Synagoge Brandschutzmaßnahmen samt Planungskosten Anfrage von Stadträtin Wallrapp
+- TOP 2.7: UA 3111 - Archiv UA - 3200 Museum, Anfrage von 2. Bürgermeister Heisel Reduzierung der Pauschalen für Erwerb
+- TOP 2.8: 3400.9357 - Restaurierung Käfer Stadtpolizei Ansatz 7.500,00 € in 2015 Anfrage von Stadträtin Glos
+- TOP 2.9: 3700.9881 - Investitionszuschuss Turm Evang. Stadtkirche Hinweis von Stadtkämmerin Erdel
+- TOP 2.10: Anfrage Stadtrat Pauluhn 3501.9611/3521.9611 - Restaurierung Balustraden, Brunnen, Vorplatz Luitpoldbau (Stadtbücherei, vhs)
+- TOP 2.11: Anfrage von Stadträtin Schmidt - 4351.9453 Obdachlosenunterkünfte - beschlossen
+- TOP 2.12: 5652.9450 - Dreifachturnhalle Sportzentrum Sickergrund, Generalsanierung 5652.9490 - Machbarkeitsstudie für Generalsanierung
+- TOP 2.13: 5810.9580 - Kostenanteil Stadtbetriebe an Renaturierung Bimbach 5810.9590 - Planungskosten Renaturierung Bimbach Anfrage von Stadtrat Pauluhn
+- TOP 2.14: 6101.9590 - Stadtentwicklung, Bauleitplan - Allg. Gutachten und Planungskosten Anfrage von 2. Bürgermeister Heisel
+- TOP 2.15: 5900.3600/3610 - Kleine Gartenschau, Investitionskostenzuschuss Anfrage von Stadträtin Wallrapp
+- TOP 2.16: 6151.9882 - Städtebauliche Sanierungsmaßnahmen, Privatmaßnahmen in Sanierungsgebieten Anfrage von Stadtrat Pauluhn
+- TOP 2.17: 6152.9400 - Soziale Stadt, Stadtteilzentrum Siedlung Bau- und Grunderwerbskosten Anfrage von Stadträtin Wallrapp
+- TOP 2.18: 6152.9581 - Soziale Stadt, Fortschreibung Integriertes Handlungskonzept Kitzingen Siedlung Anfrage von Stadträtin Wallrapp
+- TOP 2.19: 6101.9650 - Ausbau Breitband-/DSL-Versorgung
+- TOP 2.20: 6300.9560 - Gemeindestraßen allgemein, Beseitigung von Spurrillen Südtangente und Westtangente - beschlossen
+- TOP 2.21: Bahnhofsumfeld, P + R - Anlagen Süd und Nord mit ZOB, Bahnhofsvorplatz mit Straßen- und Kanalbau - beschlossen
+- TOP 2.22: 6815.9598 - Parkplatz Hallenbad Anfrage von Stadtrat Pauluhn
+- TOP 2.23: 6333.9501 - Ausbau Breslauer Straße Anfrage von 2. Bürgermeister Heisel
+- TOP 2.24: 6328.9501 - Baugebiet Eselsberg Süd, Straßenerschließung Anfrage von Stadträtin Wallrapp
+- TOP 2.25: 6486.9510 - Neubau Brücke Jahnstraße über Eherieder Bach Anfrage von Stadträtin Wallrapp
+- TOP 2.26: 6401.9510/9590 - Gehweg Innenstadt samt Baunebenkosten Anfrage von Stadtrat Moser
+- TOP 2.27: 6901.9590 - Sanierung Kaimauer Oberer Mainkai, Planungs- und Baunebenkosten Anfrage von Bürgermeister Güntner
+- TOP 2.28: 7181.9680 - Umsetzung Handlungskonzept Kläranlage Anfrage von Stadtrat Moser
+- TOP 2.29: 7512.9450 - Neuer Friedhof, Sanierung Friedhofsgebäude - beschlossen
+- TOP 2.30: 7512.9350 - Neuer Friedhof, Ersatz von Leibrollern Anfrage von Stadtrat Dr. Küntzer
+- TOP 2.31: 8260.9870 - Zuschuss an LSC für das Infrastrukturporjekt Sonderlandeplatz Anfrage von Stadträtin Wallrapp
+- TOP 2.32: 8800.9320 - Grundstücksverkehr, Erwerb von unbebauten Grundstücken Anfrage von Stadtrat Moser
+- TOP 2.33: 8802.9410 - Markstraße 27 - 31 Sicherung/Rückbau einsturzgefährdeter Bauteile Anfrage von Stadträtin Wallrapp
+- TOP 2.34: 9101.9100 - Zuführung zur allgemeinen Rücklage Anfrage von Stadträtin Glos
+- TOP 2.35: 8810.9500/9590 - Errichtung Zwischenlagerfläche u. überdachter Lagerraum auf Lagerplatz Goldberg Anfrage von Stadträtin Wallrapp
+- TOP 2.36: 3601.9581 - Eisgrube Antrag der ÖDP-Stadtratsfraktion - beschlossen
+- TOP 2.37: Antrag der ÖDP-Stadtratsfraktion, Mobilfunk
