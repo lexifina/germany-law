@@ -1,0 +1,70 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-02-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556475
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556475
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.2.: Berg-am-Laim-Str. 45 - 47 - Neubau Hotel, Boardinghouse, Büros, Wohnungen, Einzelhandelsflächen und Kindertagesstätte mit zweigeschossiger Tiefgarage - Antrag auf Vorbescheid
+- TOP 3.3.: Neumarkter Str. 85 - Neubau eines Hotels mit Tiefgarage - Antrag auf Vorbescheid
+- TOP 3.1.: Mieterbeiratswahl 2015 - Entsendung von Mitgliedern
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Austausch von Lichtzeichenanlagen: - Heinrich-Wieland-Str. / St.-Veit-Str. - Kreillerstr. / Schatzbogen
+- TOP 3.2.: Radverbindung Kreillerstraße / Halfingerstraße, sowie Sonnwendjochstraße / Halfingerstraße schaffen - <div></div>
+- TOP 3.2.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG - Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 3.1.: Fehwiesenstraße 80 - 82
+- TOP 3.2.: Hohenbrunner Str. 26
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Bebauungsplan mit Grünordnung Nr. 2079 Grafinger Straße (südlich), Innsbrucker Ring (westlich), Westerhamer Straße (nordöstlich) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Vorlagen-Nr. 14-20 / V 01851
+- TOP 4.3.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln - Erfahrungen mit der Umsetzung des Beschlusses vom 23.11.2005 - Vorlagen-Nr. 14-20 / V 01715
+- TOP 4.1.: Bericht zur Wohnungssituation in München 2012-2013 - Vorlagen-Nr. 14-20 / V 01995
+- TOP 4.2.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter - Vorlagen-Nr. 14-20 / V 01341
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Bachauskehrtermine für die Stadtbäche
+- TOP 4.2.: Lärmminderungsplanung / Lärmaktionsplan München - Vorlagen-Nr. 14-20 / V 02276
+- TOP 4.1.: Bezuschussung der Theatergruppen in der Echardinger Einkehr durch das Kulturreferat
+- TOP 4.2.: Unveränderte Fortführung von Gaststättenbetrieben: - "Alte Raffinerie" (ehemals "Storchenburg") - Friedenstr. 10 - "Mädchen WG 2" - Levelingstr. 2
+- TOP 4.3.: Baumaßnahmen 2015 in Berg am Laim und Steinhausen - Mitteilung des Baureferates, Abteilung Baustellenkoordination
+- TOP 4.4.: Kreillerstraße / Schatzbogen - Austausch der Lichtsignalanlage mit Kreuzungsumbau - 1. Bedarfs- und Konzeptgenehmigung 2. Projektgenehmigung Vorlagen-Nr. 14-20 / V 02102
+- TOP 4.5.: Westerhamer Str. 2 und Pertisaustraße 9 - Neubau von Querungshilfen
+- TOP 4.1.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren - Vorlagen-Nr. 14-20 / V 01135
+- TOP 4.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013 - Fortschreibung im Bauprogramm 2014 - Änderung des Entwurfs des MIP 2014 - 2018 Vorlagen-Nr. 14-20 / V 01374
+- TOP 4.3.: Generalsanierung und Erweiterung der Ludwig-Thoma-Realschule - Antwort des Stadtschulrates zum SPD-Stadtratsantrag vom 23.10.2014
+- TOP 4.1.: Unterbringung von Flüchtlingen und Wohnungslosen in München - Änderungsantrag - Vorlagen-Nr. 14-20 / V 02204
+- TOP 4.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate (Ziffer 1 des Antrages)
+- TOP 4.2.: Sachberichte / Verwendungsnachweise zu Zuwendungen aus dem BA-Budget: - Pädagogische Ziegelei - Berg am Laimer Lichtergang
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: Mittel- und langfristiges Nutzungskonzept des Areals an der Heinrich-Wieland-Straße / St.-Michael-Straße - <div></div>
+- TOP 3.3.: Josephsburgstraße: Auflassung eines Grünstreifens und Schaffung einer Anlieferzone - <div></div>
+- TOP 4.6.: CarSharing in München - Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016 - Vorlagen-Nr. 14-20 / V 02237
+- TOP 4.1.: Baumbeseitigungen und Gehölzpflegemaßnahmen auf öffentlichem Grund
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 2.1.: (E) Straßenbenennung im 14. Stadtbezirk Berg am Laim Grüner Markt - <div></div>
+- TOP 3.1.: (E) Budget der Bezirkssausschüsse Elternbeirat des MGM-Michaeli-Gymnasiums Beschaffung einer Software - <div></div>
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
