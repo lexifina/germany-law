@@ -1,0 +1,59 @@
+# Haupt- und Finanzausschuss (4. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-02-24T17:00:00+01:00
+- Ende: 2015-02-24T20:19:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUy-zy8UJVazuPgmWmuAZQ8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18515
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZemvGtmNxUSrFKRP1eJR-YlQB4gnMThM56f6u_bGzDmR/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_24.02.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 3.1: hier: Flächenmanagement / Ausweisung neuer Baugebiete
+- TOP 3.2: Anregung und Beschwerde gem. § 24 Gemeindeordnung NRW; hier: Radweg zwischen Sindorf und Kerpen
+- TOP 3.3: Anregung und Beschwerde gem. § 24 Gemeindeordnung NRW; hier: Erhöhung der Grundsteuer B
+- TOP 3.4: hier: Sanierungskosten Graf-Hoensbroech-Straße im Stadtteil Balkhausen
+- TOP 3.5: hier: geplante Ersterschließung Graf-Hoensbroech-Straße im Stadtteil Balkhausen
+- TOP 4.: Personal-/Stellenplanangelegenheiten
+- TOP 4.1: Stellenplan 2015 hier: Personalbedarf in der Abteilung 22.1 Senioren, Menschen mit Behinderung und soziale Hilfen
+- TOP 4.2: Stellenplan 2015 hier: zusätzlicher Bedarf in der Abteilung 23.4 Kindertagesbetreuung
+- TOP 4.3: Therapeutische Betreuung in Kindertageseinrichtungen Hier: Verlängerung der Maßnahme und Förderung bis 31.07.2016
+- TOP 4.4: Stellenplan 2015
+- TOP 4.5: "Externe Untersuchung der Arbeitsorganisation und der Qualitätsstandards im Bereich der Erzieherischen Hilfen des Jugendamtes" hier: Sachstandsbericht über die Ausführung der Beschlüsse zu TOP 11.1 der Sitzung des Stadtrates am 28.10.2014
+- TOP 5.: Organisatorische Änderungen innerhalb der Stadtverwaltung Kerpen
+- TOP 6.: Ausschank von fair gehandeltem Kaffee und Tee
+- TOP 7.: Projekt "Manheim-Neu" - Finanzierung von Leistungen der Projektsteuerung
+- TOP 8.: Nachlass eines Kerpener Bürgers
+- TOP 9.: Fortschreibung des Kontrakts über Bodenmanagement und sozialgerechte Bodennutzung in der Stadt Kerpen
+- TOP 10.: Flüchtlingsunterkünfte, Fortschreibung des Unterbringungs- und Betreuungskonzeptes
+- TOP 11.: Kosten der Waldräumung
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Vermarktung des Geländes der ehemaligen Kindertageseinrichtung "Platanenallee" in Kerpen-Türnich hier: Sachstandsbericht
+- TOP 13.2: Allgemeine Prozessrisiken hier: Anfrage der Faktion Bündnis 90/Die Grünen
+- TOP 13.3: Baumhäuser im Hambacher Forst hier: Anfrage der Fraktion Bündnis 90/Die Grünen
+- TOP 13.4: Kolpinghaus Kerpen hier: Anfrage der Fraktion Bündnis'90/Die Grünen
+- TOP 13.5: Fragekatalog/Bürgerantrag zur Räumung der Waldbesetzung im Hambacher Forst am 27.03.2014 hier: Anfrage der Linksfraktion
+- TOP 13.6: Förderangebot zur altengerechten Quartiersentwicklung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 16.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 16.1: Verkauf einer Teilfläche aus dem ehemaligen Minigolfgelände in Kerpen-Brüggen
+- TOP 17.: Verkauf eines Baugrundstückes in der Gemarkung Türnich
+- TOP 18.: Verkauf einer Parzelle in der Gemarkung Blatzheim, Dürener Straße
+- TOP 19.: Niederschlagung einer Gewerbesteuerforderung
+- TOP 20.: Entsorgungsverträge für die kommunale Sammlung aus privaten Haushalten und angeschlossenen Gewerbebetrieben
+- TOP 21.: Haus der Familie hier: Stellplätze und Zuwegung
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.1: Prozesskostenrückstellungen hier: Anfrage der Fraktion Bündnis 90/Die Grünen vom 13.01.2015
