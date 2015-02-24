@@ -1,0 +1,6 @@
+# TOP 2.: Niederschrift vom 11.11.2014
+
+- Sitzung: Ausschuss für Verkehr, Umwelt, Energie und Tierschutz (3. Sitzung) (2015-02-24)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/35367
