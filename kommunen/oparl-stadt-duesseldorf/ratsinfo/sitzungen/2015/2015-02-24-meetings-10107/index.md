@@ -1,0 +1,52 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-24T17:00:00+01:00
+- Ende: 2015-02-24T18:37:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10107
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10107
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234264.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234264.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234264.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 27.01.2015 - zur Kenntnis genommen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Umbau der Zeppenheimer Straße im Bereich - zur Kenntnis genommen
+- TOP 7: Bauunterhaltung Stadtbezirk 5 im Jahre 2015 - zur Kenntnis genommen
+- TOP 8: Trödelmärkte auf dem Messeparkplatz P1 im Jahre 2015 - zur Kenntnis genommen
+- TOP 9: Anliegerbeiträge bei beabsichtigten Objektverkäufen - zur Kenntnis genommen
+- TOP 10: Lebensmittelmarkt am Standort Wittlaer - Bockumer Straße - zur Kenntnis genommen
+- TOP 11: Sporthalle Wittlaer - Standort Grenzweg - zur Kenntnis genommen
+- TOP 12: Deichsanierung Wittlaer/Bockum - Baustellenverkehr - zur Kenntnis genommen
+- TOP 13: Wittgatt - weiterer Straßenausbau - zur Kenntnis genommen
+- TOP 14: Kunstwerke im Lantz'schen Park - zur Kenntnis genommen
+- TOP 15: Auswirkungen der Etatkürzungen auf die Straßensanierungen - zur Kenntnis genommen
+- TOP 16: Bau von 49 Wohneinheiten an der Wacholderstraße - zur Kenntnis genommen
+- TOP 17: Ebenerdige Zuwegung Vollsortimenter "Dreiecksparkplatz" - zur Kenntnis genommen
+- TOP 18: Wiedereröffnung des Aquazoos - zur Kenntnis genommen
+- TOP 19: P & R Parkplatz Am Froschenteich - zur Kenntnis genommen
+- TOP 20: Sauberkeit auf der Danziger Straße bzw. B8n - zur Kenntnis genommen
+- TOP 21: Streckenführung Buslinie 760 - zur Kenntnis genommen
+- TOP 22: P&R Parkplatz Haltestelle Froschenteich - zur Kenntnis genommen
+- TOP 23: Fußgängerübergang Duisburger Landstraße/Franz-Vaahsen-Weg - zur Kenntnis genommen
+- TOP 24: Sandweg - Parkscheibenregelung - zur Kenntnis genommen
+- TOP 25: Am Fischerbreuel - Aufhebung der Einbahnstraßenregelung - zur Kenntnis genommen
+- TOP 26: Gedenktafeln zur Erinnerung an Befreiung KZ Auschwitz - zur Kenntnis genommen
+- TOP 27: Unentgeltliche ÖPNV-Tickets für Flüchtlinge - zur Kenntnis genommen
+- TOP 28: Haushaltsmittel für die Unterstützung von Flüchtlingen - zur Kenntnis genommen
+- TOP 29: Ausbesserungen Edith-Stein-Weg und Gehweg Gottfried-Keller-Straße - zur Kenntnis genommen
+- TOP 30: Beurteilung der Wohnsituation in der Engländersiedlung - zur Kenntnis genommen
+- TOP 31: Stellungnahmen 24.02.2015 - zur Kenntnis genommen
+- TOP 32: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 33: Planfeststellungsbeschluss Sanierung, Ausbau u. Betrieb Hochwasserrückhalteb. Kalkum - Information - - zur Kenntnis genommen
+- TOP 34: Verschiedenes - zur Kenntnis genommen
+- TOP 35: B-Plan "Westlich Leuchtenberger Kirchweg", Nr. 05-003
