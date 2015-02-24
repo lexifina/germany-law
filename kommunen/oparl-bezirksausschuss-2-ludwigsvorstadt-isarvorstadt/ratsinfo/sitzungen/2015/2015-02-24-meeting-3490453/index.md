@@ -1,0 +1,106 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-02-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490453
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490453
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Maßnahmen Raumnot Tumblingerschule
+- TOP 1.1.: Jubiläum 175 Jahre Bahnstrecke München-Augsburg angemessen begehen, Antrag Nr. 14-20 / A 00522 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 09.12.2014, Einbeziehung der Bezirksausschüsse bei der Erarbeitung der Vorschläge zur Jubiläumsfeier, vertagt aus 2015.01 A 3.2
+- TOP 1.2.: Viehhof-Gelände, Thalkirchner Str. 110, Schreiben des Kommunalreferates bezüglich zukünftiger Nutzungskonzepte
+- TOP 1.1.: Toilette am Gärtnerplatz, fortlaufende Themensammlung
+- TOP 1.2.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP 1.3.: Bücherschrank, fortlaufende Themensammlung
+- TOP 1.4.: Urban Art Festival, fortlaufende Themensammlung
+- TOP 1.5.: Kulturzentrum ?Südbahnhof 2/6?, fortlaufende Themensammlung
+- TOP 1.6.: München lebt interkulturelle Vielfalt, Schreiben der Stelle für interkulturelle Arbeit des Sozialreferates bezüglich der Möglichkeit zur Teilnahme an einem Pilotprojekt
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.3.: Herzog-Heinrich-Str. 24, DG-Ausbau, Nutzungsänderung (Gewerbe zu Wohnen), Balkon- und Liftanbau (Herzog-Heinrich-Str. 24 / Mozartstr. 15) - Tektur
+- TOP 1.8.: Schwanthalerstr. 47, Nutzungsänderung eines Boardinghauses (?) in Beherbergungsbetrieb m. 31 Apartm. einschl. Laden, Spielhalle und Bistro, Tektur ? PLENUMSBESCHLUSS
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 1.1.: Anbieten alternativer Festplätze für vom Bezirksausschuss 2 dauerhaft und/oder mehrfach abgelehnte Veranstaltungen
+- TOP 1.1.: Holzstr. 22, Lehmann Patisserie, Errichtung einer Freischankfläche
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Blumenstand gegenüber Anwesen Goetheplatz 1 entlang der U-Bahn-Mauer, Antrag auf Erweiterung der Stellfläche
+- TOP 1.2.: Kapuzinerpl. 4, Lindwurmstr. 70a, Thalkirchner Str. 110, Aufstellung von Zeitungsentnahmekästen
+- TOP 1.1.: Radfahrstreifen am Bavariaring zwischen Theresienhöhe und Rückertstr., Beschlussvorlage des Baureferates
+- TOP 1.1.: Umzug des Narrhalla Prinzenwagens, Innenstadt, 17.02.2015 (Eilentscheidung)
+- TOP 1.3.2: Verkehr
+- TOP 1.2.: Hotelanfahrtszone Schwanthalerstr. 58/60, Anhörung zu verkehrsrechtlicher Anordnung
+- TOP 1.1.: Oktoberfest 2015, Busparkplatz auf dem ehemaligen Viehhof-Gelände, Anfrage, vertagt aus 2015.01 C 3.3.3
+- TOP 1.1.: LKW-Verkehr im Dreimühlenviertel, fortlaufende Themensammlung
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Kassenbericht 2014
+- TOP 1.2.: Mieterbeiratswahl 2015, Entsendung eines Vertreters des BA 2
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 09.03.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 10.03.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 11.03.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 16.03.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 24.03.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide (- Urbanes Wohnen e.V.)
+- TOP 1.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.3.: Kapuzinerstr. 35, Vollzug der Erhaltungssatzung ?Dreimühlenstr./Baldeplatz?, Unterrichtung über nicht baugenehmigungspflichtige Modernisierungsmaßnahme: Einbau eines Aufzugs, Grundrissänderungen
+- TOP 1.6.: Grundschule an der Klenzestr. 48, Umbaumaßnahme zur Einführung des gebundenen Ganztageszuges, Beschlussvorlage Nr. 14-20 / V 01648 des Bildungsausschusses des Stadtrates vom 03.12.2014
+- TOP 1.7.: Adlzreiterstr. 21, Schreiben des Kommunalreferates bezüglich Reprivatisierung und Möglichkeit zur Nutzung durch Elterninitiative Isarkindl
+- TOP 1.8.: Sportplatz an der Tumblingerschule erhalten, Keine Container auf dem Sportplatz an der Tumblingerschule, Spielgeräte auf dem Pausenhof an der Tumblingerschule aufstellen, Antwortschreiben des Referats für Bildung und Sport auf Schreiben des Bezirksausschusses vom 18.12.2014, siehe 2014.12 A 1.3
+- TOP 1.2.: Zustand der Bahnunterführung Tumblingerstraße, Antwortschreiben des Baureferates auf Schreiben des Bezirksausschusses bezügl. Bürgeranliegen, siehe 2014.12 II 3
+- TOP 1.3.: Modernisierung und Sanierung des U-Bahnhofs Sendlinger Tor, Änderung der Planfeststellung, Stellungnahme des BA 1 Altstadt-Lehel zur Kenntnis
+- TOP 1.4.: Bauvorhaben Thalkirchner Str. 9, Antwortschreiben der Lokalbaukommission, Abdruck der Baugenehmigung
+- TOP 1.6.: Bauvorhaben Sonnenstr. 4, Antwortschreiben Lokalbaukommission, Abdruck Baugenehmig.
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen (Tonnagebeschränkung Schützenstr.)
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Geschwindigkeitskontrollen in der Zenettistr., Antwortschreiben des Kreisverwaltungsreferates auf Schreiben des Bezirksausschusses, siehe 2014.12 II 3
+- TOP 1.7.: CarSharing in München, Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016, Beschlussvorlage Nr. 14-20 / V 02237 des Kreisverwaltungsausschusses vom 27.01.2015
+- TOP 1.9.: Reisingerstr. 1 / Maistr. 2, Ausnahmezulassung gem. BImSchV zum Betrieb von Geräten und Maschinen in der Zeit vom 19.01.-10.02.2015
+- TOP 1.11.: Situation im Bereich Thalkirchner Str. 66-70 wegen auf dem Gehweg abgestellter Motorräder, Antwortschreiben des Kreisverwaltungsreferates zu Bürgeranliegen
+- TOP 1.12.: Wechselseitiger Betrieb der Rolltreppe am U-Bahnhof Goetheplatz, Ausgang Kapuzinerstr. / Herzog-Heinrich-Str., BA-Antrag Nr. 14-20 / B 00706, Antwortschreiben der MVG
+- TOP 1.13.: Änderung der Verkehrsregelung Hans-Sachs-Str. / Müllerstr., BA-Antrag Nr. 14-20 / B 001110 vom 24.06.2014, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 1.17.: Auskunft über Lärm- und Feinstaubmessungen im Bereich der Kapuzinerstr. und Herzog-Heinrich-Str., BA-Antrag Nr. 14-20 / B 00615 vom 25.11.2015, Antwortschreiben des RGU
+- TOP 1: (E) Verstärkt Maßnahmen gegen Zweckentfremdung von Wohnraum ergreifen (Ziffer 2) Empfehlung Nr. 14-20 / E 00212 ..............................
+- TOP 1.1.: Beethovenstr. 12, Nutzungsänderung einer Wohnung in ein Büro, Anbau einer Fluchtleiteranlage
+- TOP 1.2.: Zenettistr. 12, Nutzungsänderung 1. OG: Büro zu Galerie (mit Wanddurchbrüchen zwischen den Räumen)
+- TOP 1.5.: Zenettistr. 48, Nutzungsänderung (2. + 4. OG): Büro zu Boardinghouse (18 Zimmer), DG-Ausbau (Technikgeschoss) in eine Wohnung (1 WE)
+- TOP 1.7.: Paul-Heyse-Str. 8, Abbruch eines Daches und Aufstockung eines Hotels mit Errichtung eines Außenaufzuges, Tektur ? PLENUMSBESCHLUSS
+- TOP 1.1.: Ringseisstr. 10-10a, Antrag auf Baumfällung, 1 Traubenkirsche ? PLENUMSBESCHLUSS
+- TOP 1.2.: Klenzestr. 27, Antrag auf Baumfällung, 5 Bäume
+- TOP 1.3.: Pettenkoferstr. 26-28, Antrag auf Baumfällung, 1 Fichte ? PLENUMSBESCHLUSS
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.2.: Verlängerung der Vorwarnzeit temporärer Halteverbotszonen für Baustellen, Straßenfeste, etc.
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Beabsichtigte Änderung der Radverkehrsführung in der Tumblingerstr.
+- TOP 1.2.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LstVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, BA-Antrag Nr. 14-20 / B 00178 des Bezirksausschusses 7 Sendling-Westpark vom 15.07.2014, Anhörung des Direktoriums bezüglich der beantragten Satzungsänderung
+- TOP 1.3.: Nutzung der Theresienwiese für das Umladen von Schwertransporten, 21.04.-24.04.2015
+- TOP 1.4.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen, Sitzungsvorlage Nr. 14-20 / V 02255 für die Vollversammlung des Stadtrates am 15.01.2015
+- TOP 1.5.: Antrag auf Erteilung eines Negativattestes für die Gebäude Tumblingerstr. 27 und 29, Antwortschreiben des Kommunalreferates bezüglich weiterer Wohnnutzung
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München
+- TOP 1.5.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Beschlussvorlage Nr. 14-20 / V 01341 des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015
+- TOP 1.8.: Künftige Nutzung der Freifläche auf dem Areal der ehemaligen Großviehhalle auf dem Viehhof, Schreiben des Kommunalreferates zur Praxis bei Vermietungsanfragen
+- TOP 1.10.: Bürgeranliegen ?Lichtverschmutzung?, Antwortschreiben des Baureferates zur Kenntnis
+- TOP 1.14.: Freischankfläche Lindwurmstr. 77, Bäckerei Zöttl, Schreiben der Bezirksinspektion
+- TOP 1.16.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate (Ziffer 1), BA-Antrag Nr. 14-20 / B 00835 des BA 21 Pasing-Obermenzing zur Kenntnis
+- TOP 1.4.: Kaiser-Ludwig-Pl. 10, Neubau eines Wohnhauses mit TG ? Vorbescheid
+- TOP 1.6.: Herzog-Heinrich-Str. 18, Dachüberfahrt für den Einbau eines innenliegenden Personenaufzuges, Umbau und Wohnungsteilung im Mansardengeschoss (3. OG), Teilung einer Großwohnung in 2 WE, Verlegung Wohnungseingang DG-Wohnung (4. OG), Behebung von Mängeln aus dem Brandschutz, Veränderung Wohnungsgröße und Brandschutzabschnitt
+- TOP 1.1.: Landwehrstr., Fahrbahnsanierung zwischen Mathildenstr. und Schillerstr.
+- TOP 1.2.: Auenstr. 2-20, Fahrbahnsanierung mit Anschluss an Tramgleisbereich
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: 22.04.2015, 18 Uhr, Informationsveranstaltung des KVR für Bezirksausschüsse 19.03.2015, 18 Uhr, Informationsveranstaltung des RBS für Bezirksausschüsse 02.03.2015, 18 Uhr, Diskussion ?Bürgerhaushalt auf Stadtbezirksebene?
+- TOP 1.15.: Frühlingsfest auf der Theresienwiese, 17.04.-03.05.2015, Antragsunterlagen zur Kenntnis
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
