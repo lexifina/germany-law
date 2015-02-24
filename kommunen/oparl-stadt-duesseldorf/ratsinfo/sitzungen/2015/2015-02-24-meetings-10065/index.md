@@ -1,0 +1,53 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-24T17:00:00+01:00
+- Ende: 2015-02-24T21:50:00+01:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10065
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10065
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234340.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234340.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234340.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 1/2015 vom 27.01.2015 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Anfragen von Bürgerinnen und Bürgern an die Bezirksvertretung 3 - zur Kenntnis genommen
+- TOP 5: Flüchtlinge imStadtbezirk 3; mündlicher Bericht - zur Kenntnis genommen
+- TOP 6: BPl Nr 5576/78-Innenstadt- Änderungen gem. § 13 BauGB - einstimmig beschlossen
+- TOP 6.1: Plan Nr. 03/008 (alt: 5174/017) beiderseits Hinter der Böck - einstimmig beschlossen
+- TOP 6.2: Plan-Nr.:03/007 Dialogverfahren beiderseits Hinter der Böck - einstimmig beschlossen
+- TOP 7: Ortsumgehung Flingern 3. Bauabschnitt und Süderweiterung Toulouser Allee - einstimmig beschlossen
+- TOP 8: Neuausrichtung des Betriebes der Freizeitanlagen Niederheid, Heerdt und Ulenbergstraße - zur Kenntnis genommen
+- TOP 9: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 10: Ertüchtigung Geländer Rheinkniebrücke - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 11: Bezirksbezogene Bauunterhaltungsmaßnahmen 2015 - einstimmig beschlossen
+- TOP 11.1: Blumenkübel und andere Grünaktionen im Stadtbezirk 3 - einstimmig beschlossen
+- TOP 12: Mintropplatz; Runder Tisch - einstimmig beschlossen
+- TOP 13: unentgeltliche ÖPNV-Tickets für Flüchtlinge - einstimmig beschlossen
+- TOP 14: Vorstellung Hauptradroutennetz und aktueller Sachstand - einstimmig beschlossen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Kö-Pavillon am Schwanenspiegel - zur Kenntnis genommen
+- TOP 17: Verkehrssituation auf der Christophstraße - zur Kenntnis genommen
+- TOP 18: Toilettenanlage Kirchplatz - zur Kenntnis genommen
+- TOP 19: Geschwindigkeitsregelung auf einem Teilabschnitt der Rheinkniebrücke - zur Kenntnis genommen
+- TOP 20: Barrierefreiheit von Schulen im Stadtbezirk - zur Kenntnis genommen
+- TOP 21: Gemeinschaftsgrundschule (GGS) Sonnenstraße - zur Kenntnis genommen
+- TOP 22: Errichtung von Containerdörfern im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 23: Ersatzpflanzungen - vertagt
+- TOP 24: Innenhofnutzung - vertagt
+- TOP 25: Blühstreifen - vertagt
+- TOP 26: Kirchplatz - vertagt
+- TOP 27: Flüchtlinge im Stadtgebiet 03 - vertagt
+- TOP 28: Wohnungs-Leerstand Gladbacher Str. 40 - zur Kenntnis genommen
+- TOP 29: Bürgersteigabsenkung im Zuge Bauvorhabens im Kreuzungsbereich Bracht-/Färberstr. - zur Kenntnis genommen
+- TOP 30: Färberstraße: Nutzung des denkmalgeschützten Gebäudes - zur Kenntnis genommen
+- TOP 30.1: Auswirkungen der Haushaltskürzungen auf die für das Jahr 2015 geplanten Straßensanierungen und Brück - zur Kenntnis genommen
+- TOP 31: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - zur Kenntnis genommen
+- TOP 32: Mitteilungen des Bezirksvorstehers - zur Kenntnis genommen
