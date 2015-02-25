@@ -1,0 +1,59 @@
+# Sitzung des Stadtrates - Haushaltsberatungen
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2015-02-25T17:00:00+01:00
+- Ende: 2015-02-25T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/666
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/666
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00017787.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00022672.pdf
+
+## Tagesordnung
+
+- TOP 1: Beratung des Vermögenshaushaltes 2015 mit Investitionsprogramm 2014 - 2018
+- TOP 1.1: Information von Stadtkämmerin Erdel zum ersten Beratungstag am 24.02.2015
+- TOP 1.2: Anfragen von Stadträtin Wallrapp Spielgeräte Freizeitgelände Bleichwasen Prioritätenliste Kanalbau Mittel Kaltensondheimer Straße
+- TOP 1.3: Information von Bauamtsleiter Graumann 6901.9590 - Sanierung Kaimauer Oberer Mainkai, Planungs- und Baunebenkosten
+- TOP 2: Budgetfestlegungen
+- TOP 2.1: Budgetfestlegung für das Haushaltsjahr 2015: - beschlossen
+- TOP 2.2: Budgetfestlegung 2015 für SG 12- EDV - beschlossen
+- TOP 2.3: Budgetfestlegung für das Haushaltsjahr 2015; Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.4: Budgetfestlegung für das Haushaltsjahr 2015; Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.5: Budgetfestlegung für das Haushaltsjahr 2015; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 2.6: Budgetfestlegung für das Haushaltsjahr 2015; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2121, 2122 und 2431 - beschlossen
+- TOP 2.7: Budgetfestlegung für das Haushaltsjahr 2015; Gesamtbudget "Sportanlagen" - UA 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 2.8: Budgetfestlegung HHJ.2015 Alte Synagoge Unterabschnitt 3009 - beschlossen
+- TOP 2.9: Budgetfestlegung für das Haushaltsjahr 2015 - beschlossen
+- TOP 2.10: Budgetfestlegung für das Haushaltsjahr 2015 - beschlossen
+- TOP 2.11: Budgetfestlegung für das Haushaltsjahr 2015;UA 3331 Musikschule - beschlossen
+- TOP 2.12: Budgetfestlegung für das Haushaltsjahr 2015; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.13: Budgetfestlegung HHJ.2015 vhs/SG131 Unterabschnitt 3501 - beschlossen
+- TOP 2.14: Budgetfestlegung HHJ. 2015 Stadtbücherei/SG Unterabschnitt 3521 - beschlossen
+- TOP 2.15: Budgetfestlegung 2015 jungStil - beschlossen
+- TOP 2.16: Budgetfestlegung für das Haushaltsjahr 2015; - beschlossen
+- TOP 2.17: Gesamtbudget Straßen, Wege, Plätze - beschlossen
+- TOP 2.18: Budgetfestlegungen für das Haushaltsjahr 2015; - beschlossen
+- TOP 2.19: Budgetfestlegung für das Haushaltsjahr 2015; - beschlossen
+- TOP 2.20: Budgetfestlegung für das Haushaltsjahr 2015, Budget: Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 2.21: Budgetfestlegung für das Haushaltsjahr 2015; Budget UA 7711 - Bauhof - beschlossen
+- TOP 2.22: Budgetfestlegung für das Haushaltsjahr 2015; Budget Tourist-Info - UA 7901 - beschlossen
+- TOP 2.23: Budgetfestlegung für das Haushaltsjahr 2015; Städtischer Waldbesitz" - UA 8551 - - beschlossen
+- TOP 2.24: Budgetfestlegung für das Haushaltsjahr 2015; Budget „Wohngrundstücke, Sonstige bebaute Grundstücke“ - UA 8801, UA 8802 - - beschlossen
+- TOP 2.25: Budgetfestlegung für das Haushaltsjahr 2015; "Sonstiges Allgemeines Grundvermögen" – UA 8891 - - beschlossen
+- TOP 3: Beratung des Verwaltungshaushaltes 2015
+- TOP 3.1: Anfragen von Stadträtin Wallrapp -Energiekosten -Postgebühren -Ergänzungslieferungen
+- TOP 3.2: Antrag von Stadträtin Glos Prozesskosten -Rechtsstreit Marshall Heights -Ansatz Markenbildungsprozess
+- TOP 3.3: Anfragen von Stadträtin Wallrapp UA 1101 Rechts- und Ordnungsamt Personalkosten Ansätze KIKA Defizitvereinbarung Ansätze Stadtteilzentrum Personalkosten JungStil
+- TOP 3.4: Anfragen von Stadtrat Pauluhn Taubenmangement Mobilfunk
+- TOP 3.5: Anfrage von Stadträtin Wallrapp Höhe der anerkannten Plätze im Hort Marienthal
+- TOP 3.6: Antrag von Stadträtin Schmidt 4351.5010 Unterhalt Obdachlosenunterkünfte - beschlossen
+- TOP 3.7: Anfrage von Stadtrat Dr. Pfeiffle Telefongebühren
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2015 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2014 - 2018
+- TOP 5: Anträge von Fraktionen und Gruppen
+- TOP 5.1: Aktionsplan Asyl; hier: Empfehlungen und Anträge des Integrationsbeirates vom 15.01. sowie 26.01.2015 - beschlossen
+- TOP 6: Sonstiges
+- TOP 6.1: Anfrage von Stadtrat Moser Künftige Haushaltsberatungen
