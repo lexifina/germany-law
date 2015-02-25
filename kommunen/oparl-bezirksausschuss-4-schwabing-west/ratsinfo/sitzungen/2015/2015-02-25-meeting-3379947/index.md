@@ -1,0 +1,75 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-02-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379947
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379947
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: SPD: Krankenhaus Schwabing: Wohnnutzung bereits leerstehender Gebäude und Erweiterung des Angebots von Bereitschaftspraxen
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Belgradstr. 4 ?Emma Luis?: Aufstellen einer Verkaufseinrichtung
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Schwere-Reiter-Str. 35: Erweiterung Studentenwohnheim
+- TOP 2.1.2.: Ainmillerstr. 44-46: DG-Ausbau (4 WE)
+- TOP 2.1.3.: Gartenstr. 15: Neubau eines Doppelhauses mit Carport-Stellplätzen (inkl. Baumfällung)
+- TOP 2.1.4.: Mieterbeiratswahl 2015: Entsendung eines Mitglieds
+- TOP 2.1.5.: Klopstockstr. 4: Erweiterung einer Kindertagesstätte um einen Schlaf- und Mehrzweckraum
+- TOP 2.1.6.: Bauerstr. 28: Anbau verglaster Balkone an der östlichen Hoffassade
+- TOP 2.1.7.: Ainmillerstr. 29: Um- und Ausbau der DG-Wohnungen: Reduzierung von 3 auf 2 Wohnungen, Errichtung zweier Dachterrassen, Erhöhung der Dachneigung von 40 auf 45 Grad für den Ausbau des Dachraums
+- TOP 2.1.8.: Tektur Gentzstr. 3: Anbau eines Aufzugs
+- TOP 2.1.9.: Hohenzollernplatz 7: Nutzungsänderung Duplexparker zu Wäscheraum
+- TOP 2.1.10.: Hohenzollernstr. 116: Ausbau des 2. DG mit 2 Maisonettewohnungen, Einbau einer Dachterrasse im 1. DG, Anbau eines Außenaufzugs
+- TOP 2.1.11.: Therese-Studer-Straße: Neubau einer Wohn-/Arbeitseinheit (2 Anträge zweier Bauherrn)
+- TOP 2.1.12.: Tektur Schwere-Reiter-Str. 39: Umbau und Nutzungsänderung eines denkmalgeschützten Gebäudes inkl. Anbau einer Tiefgarage
+- TOP 2.1.13.: Tektur Schwere-Reiter-Straße: Neubau zweier Gebäude mit Einzelhandel und Gastronomie im EG, gewerblich und nicht gewerblich genutzter Apartments sowie Wohnungen und einer TG
+- TOP 2.1.14.: Tektur Petra-Kelly-Str. 25: Neubau eines Mehrfamilienhauses mit TG
+- TOP 2.1.15.: Tektur Arcisstr. 68-74: Neubau eines Umspannwerkes
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Maßnahmen des BA gegen zunehmende Vermüllung des Stadtbezirks
+- TOP 1.2.: Bürger: Mangelnde Verkehrssicherheit für Radfahrer in der Clemensstraße
+- TOP 1.3.: Bürger: Nutzung des städtischen Grundstücks Düsseldorfer Straße / Ecke Prinz-Eugen-Straße als Kleingartenanlage oder für public gardening
+- TOP 1.4.: Bürger: Hohenzollernplatz: Probleme und Verbesserungsvorschläge
+- TOP 1.5.: Die Grünen: Aufstellung von Trinkwasserspendern in Schwabing-West
+- TOP 1.6.: SPD: Rückverlegung der Mittellinie in der östlichen Herzogstraße
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Schleißheimer Str. 278: Fällung einer Esche
+- TOP 2.1.2.: Bonner Str. 5: Fällung eines Spitzahorn
+- TOP 2.1.3.: Hornstr. 8: Fällung dreier Spitzahornbäume
+- TOP 2.1.4.: Informationsveranstaltung für Baumschutzbeauftragte am 04.05.2015
+- TOP 2.1.5.: Schleißheimer Str. 181-183: Fällung einer Weide
+- TOP 2.1.6.: Karl-Theodor-Str. 93-97: Fällung eines Spitzahorn
+- TOP 2.1.7.: Kölner Platz 1: Fällung eines Spitzahorn, Pflegemaßnahmen an weiteren Bäumen
+- TOP 2.1.8.: Giselherstr. 16: Fällung einer Säulenpappel
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Abbau der Lichtzeichenanlage Georgen-/Isabellastraße
+- TOP 2.2.2.: Erinnerungsverfahren des Baureferats Tiefbau: a)Fahrbahnsanierung Hagedornstraße b) Fahrbahnsanierung Belgradstr. 104-162 c) Asphaltierung der Schleißheimer Straße zwischen Hohenzollern- und Herzogstraße d) Pflasterarbeiten in der Leonhard-Frank-Straße
+- TOP 2.2.3.: Anfahrtszone für die Kinderbetreuungseinrichtung ?Infanterix? Klopstockstr. 4
+- TOP 2.2.1.: Anhörungsrecht bei der Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG Anhörung zu einem Antrag des BA 7 Sendling-Westpark auf Änderung der BA-Satzung
+- TOP 2.2.1.: Finanzierung des Nachbarschaftstreffs Georg-Birk-Straße unabhängig vom Grundsatzbeschluss zur Weiterentwicklung der Münchner Nachbarschaftstreffs sichern
+- TOP 2.2.2.: Fortsetzung der Kampagne "Radlhauptstadt München" und Umsetzung der vom BA 4 beantragten Projekte für mehr Verkehrssicherheit für Radfahrerinnen und Radfahrer
+- TOP 1: (E) Erhöhung der Betreuungsplätze für Grundschüler im Ackermannbogen
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Förderverein Farinelli-Schule e.V. Zirkusprojekt vom 28.02. - 07.03.2015
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Klassikreihe "Ackermann Klassik's" im März, Mai und September 2015
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Kreuzkirche München Schwabing Projekt "Kreuzwegstationen" am 03.04.2015
