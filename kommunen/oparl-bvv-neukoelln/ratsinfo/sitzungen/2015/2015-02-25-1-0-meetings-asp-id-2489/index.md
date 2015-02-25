@@ -1,0 +1,78 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-02-25T17:00:00+01:00
+- Ende: 2015-02-25T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2489
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2489
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Verein Islamische Gemeinschaft e.V. wegen islamistischer Hetze verbieten - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Wahl eines stellv. Bürgerdeputierten für den Ausschuss für Grünflächen, Natur- und Umweltschutz - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Schulentwicklungsplan 2015-2019 für den Bezirk Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Beschulung Flüchtlingskinder am Mariendorfer Weg - beantwortet
+- TOP 9.2: Masernepidemie auch in Neukölln? - beantwortet
+- TOP 9.3: Masern in Neukölln - beantwortet
+- TOP 9.4: Duldung der Zustände im Hostel Rixpack - beantwortet
+- TOP 9.5: Fahrradklima in Neukölln - beantwortet
+- TOP 9.6: Asbestgefahr in der Weißen Siedlung - beantwortet
+- TOP 9.7: Bearbeitungszeiten von Wohngeldanträgen - beantwortet
+- TOP 9.8: Arbeitsmarktintegration von Flüchtlingen - schriftlich beantwortet
+- TOP 9.9: Seniorentagesstätte Alt-Rudow - schriftlich beantwortet
+- TOP 9.10: Ferienschule für Flüchtlingskinder - schriftlich beantwortet
+- TOP 9.11: Neue Rechtsgrundlagen (AV Wohn / WAV ) für KdU - schriftlich beantwortet
+- TOP 9.12: Bauruine BLUB - schriftlich beantwortet
+- TOP 9.13: Investitionsmaßnahme im Akazienwäldchen - schriftlich beantwortet
+- TOP 9.14: Erweiterung der Unterkunft in der Haarlemer Straße? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Vandalismus verhindern - Kunst fördern - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Gutachten/Studien der Öffentlichkeit zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Informationen über Schule in leichter Sprache - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Kinderbücher in verschiedenen Sprachen für Flüchtlingskinder - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Finanzmittel für Bürgerpartizipation - in der BVV abgelehnt
+- TOP 11.6: -ERGÄNZUNG- Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2015 - 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2015 - 2019 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Beeinflussung der Lichtsignalanlagen in der Karl-Marx-Straße von Saalestraße bis Lahnstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Ersatz für Seniorentagesstätte Alt-Rudow - beantwortet
+- TOP 12.2: KSSP - beantwortet
+- TOP 12.3: XP, ade? - schriftlich beantwortet
+- TOP 12.4: Helene-Nathan-Bibliothek - beantwortet
+- TOP 12.5: Gefährliche Keime im Krankenhaus - vertagt
+- TOP 12.6: Bürgerbeteiligung – eingeschränkt oder gefördert? - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bürgerämter entlasten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Ersatz für Seniorentagesstätte Alt-Rudow - überwiesen
+- TOP 14.3: Gelber Punkt gegen Schrotträder - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Leitfaden für Neuköllner Einbürgerungsfeiern - vertagt
+- TOP 14.5: Online Bürgeramt für Neukölln - überwiesen
+- TOP 14.6: Jugendfreizeiteinrichtung zur Entlastung der Helene-Nathan-Bibliothek - in der BVV abgelehnt
+- TOP 14.7: Bessere Kommunikation in Flüchtlingsfragen - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Warmbadetage im Stadtbad Neukölln - überwiesen
+- TOP 14.9: Gefährliche Keime im Krankenhaus - überwiesen
+- TOP 14.10: Toilettensanierung an der Albrecht-Dürer-Oberschule - überwiesen
+- TOP 14.11: Antrag auf Änderung der Geschäftsordnung - überwiesen
+- TOP 14.12: Bezirksamtsprotokolle - überwiesen
+- TOP 14.13: Abriss von Wohnungen unter Genehmigungsvorbehalt stellen - überwiesen
+- TOP 14.14: Erweiterung zur Entlastung der Helene-Nathan-Bibliothek - in der BVV abgelehnt
+- TOP 15: Mitteilungen - in der BVV abgelehnt
+- TOP 15.1: Standesamt entlasten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Radfahrerbedarfsstreifen in der Reuterstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bedürfnisanstalt in der Hufeisensiedlung - mit Abschlussbericht zur Kenntnis genommen
