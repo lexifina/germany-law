@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-02-26T16:10:00+01:00
+- Ende: 2015-02-26T19:15:00+01:00
+- Ort: Rathaus Wuppertal-Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/111
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12129
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12129
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00177235.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00178137.pdf
+
+## Tagesordnung
+
+- TOP 1.1: Planfeststellungsverfahren für den sechsstreifigen Ausbau der A 46 zwischen der Brücke Westring und dem Sonnborner Kreuz - ungeändert beschlossen
+- TOP 1.2: Ergänzung der Stellungnahme zum sechsstreifigen Ausbau der A 46 zwischen der Brücke Westring und dem Sonnborner Kreuz - ungeändert beschlossen
+- TOP 2: Stellungnahme der Stadt Wuppertal zum Regionalplan-Entwurf Düsseldorf - ungeändert beschlossen
+- TOP 3: Breitbandausbau in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4: Geplantes Factory-Outlet-Center am Döppersberg
+- TOP 4.1: Mündlicher Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 4.2: Große Anfrage der Fraktion B 90/DIE GRÜNEN vom 05.02.15 - Entgegennahme ohne Beschluss
+- TOP 4.3: Geplantes FOC am Döppersberg - Antwort der Verwaltung - - Entgegennahme ohne Beschluss
+- TOP 5: Verlängerung der Sambatrasse, Ausbau der Trasse Loh - Hatzfeld- Antrag der Fraktion B90/DIE GRÜNEN v. 23.01.15 - vertagen
+- TOP 6: Nachfolgenutzung des Gaskessels Heckinghausen - vorbehaltlich beschlossen
+- TOP 7: Einzelhandels- und Zentrenkonzept -Beteiligungsverfahren- - ungeändert beschlossen
+- TOP 8: Flächennutzungsplanänderung 89 - An den Friedhöfen - - ungeändert beschlossen
+- TOP 9: Bebauungsplan 622 B - Friedrich-Engels-Allee - - ungeändert beschlossen
+- TOP 10: Bebauungsplan 1213 -- Hohenstaufenstraße - Aufstellungs- und Offenlegungsbeschluss - ungeändert beschlossen
+- TOP 11: Bebauungsplan 1081 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 12: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße - - ungeändert beschlossen
+- TOP 13: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Str. - - ungeändert beschlossen
+- TOP 14: Durchführungsplan 145 - Bereich Schubertstraße, Lortzingstraße, Forestastraße - ungeändert beschlossen
+- TOP 15: Bebauungsplan 1181 - Sportplatz Lortzingstraße - - ungeändert beschlossen
+- TOP 16: Vorhabenbezogener Bebauungsplan 1194 V - südlich Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 17: Bebauungsplan 1184 - Albrechtstraße / Gathe - Offenlegungsbeschluss- Bebauungsplan 90 - ungeändert beschlossen
+- TOP 18: Bebauungsplan 1199 - Gathe / Paradestraße - - ungeändert beschlossen
+- TOP 19: Bebauungsplan 790 -Charlottenstraße / Brunnenstraße- 1. Änderung des Bebauungsplanes mit Flächennutzungsplanberichtigung 84B -Satzungsbeschluss- - ungeändert beschlossen
+- TOP 20: Bebauungsplan 1182 - Friedrich-Ebert-Straße / Haarhausstraße - - ungeändert beschlossen
+- TOP 21: Bebauungsplan 1183 -Wendehammer "Am Opphof"- -Satzungsbeschluss- - ungeändert beschlossen
+- TOP 22: Bebauungsplan 486 - Sonnenblume - - ungeändert beschlossen
+- TOP 23: Bebauungsplan 1211 - Kohlstraße - - ungeändert beschlossen
+- TOP 24: Bebauungsplan 1122 - Ostpreußenweg - Ost - - ungeändert beschlossen
+- TOP 25: Bebauungsplan 1204 - Reuterstraße / Lessingstraße - ungeändert beschlossen
+- TOP 26: Bebauungsplan 1191V - Kaiserstraße - - ungeändert beschlossen
+- TOP 27: Bebauungsplanverfahren 869 - Radenberg - - ungeändert beschlossen
+- TOP 28: Aufhebung überholter Planverfahren im Stadtbezirk Cronenberg - ungeändert beschlossen
+- TOP 29: Bebauungsplan 1198 - Waldeckstraße / Auf der Bleiche - - ungeändert beschlossen
+- TOP 30: Bebauungsplan 1200 - Vogelsangstraße / Vogelsangbach - - ungeändert beschlossen
+- TOP 31: Bebauungsplan 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 32: Bebauungsplan 1175 - Gathe / Ludwigstraße - Markomannenstraße - - ungeändert beschlossen
+- TOP 33.1: Verfahrensleitende Beschlüsse im Bebauungsplanverfahren - Große Anfrage der Fraktion B 90/DIE GRÜNEN vom 09.02.15 - Entgegennahme ohne Beschluss
+- TOP 33.2: Verfahrensleitende Beschlüsse im Bebauungsplanverfahren - Entgegennahme ohne Beschluss
+- TOP 34: Bauvorhaben am Waldfrieden in Wuppertal-Ronsdorf - Große Anfrage der CDU-Fraktion vom 12.02.15 - - Entgegennahme ohne Beschluss
