@@ -1,0 +1,65 @@
+# 35. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-02-26T16:30:00+01:00
+- Ende: 2015-02-26T19:51:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4217
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4217
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=106545
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-40 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines stellvertretenden Kiezpaten - gewählt
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl einer stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 8.5: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 1 - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Parkstreifen Straße An der Wuhlheide - vertagt
+- TOP 9.2: Wohnungsbau in Treptow-Köpenick - sozialverträglich und barrierefrei - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des vorhabenbezogenen Bebauungsplans 9-61 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhaben-bezogenen Bebauungsplan 9-61 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Johannisthal - überwiesen
+- TOP 11.2: Sondermittel für den VSG Rahnsdorf 1949 e. V. (SM 15-04) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Ortsverein Grünau e. V. (SM 15-05) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den VVN-BdA Köpenick e. V. (SM 15-08) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Zebrastreifen Elsenstraße / Karl-Kunger-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Pförtnerampeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schulwegsicherheit in Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Anmeldung zur Investitionsplanung 2015 bis 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Einstieg zu den Buslinien M11, X11 und 160 an der Haltestelle am Busbahnhof Schöneweide ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Erweiterung der Querungshilfen an der Schönefelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Arbeitsfähigkeit der Kultureinrichtungen in Treptow-Köpenick erhalten - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Vorhabenbezogener Bebauungsplan 9-61 VE ("Makarenko-Quartier") hier: Planreife für das Vorhaben gemäß Antrag vom 6. Oktober 2014 mit Nachtrag vom 18. Dezember 2014 für die Grundstücke Südostallee 132 und 134 im Bezirk Treptow-Köpenick, Ortsteil Johannisthal - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung von zwei Privatstraßen im Ortsteil Köpenick, Ortslage Wendenschloß in Sommerwiesenweg und Am Stadtforst - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Treptow-Köpenick bei "visitBerlin" bewerben - überwiesen
+- TOP 14.2: Öffentliches Schwimmen in Treptow-Köpenick sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Straßenbenennung Alois Kloecker - überwiesen
+- TOP 14.4: Gedenken an ehemalige jüdische Eigentümer der "Hasselwerder-Villa" - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Busspuren auf der Elsenbrücke - überwiesen
+- TOP 14.6: Koordinierungsstelle zur Vermeidung und Behebung von Wohnungsverlust - überwiesen
+- TOP 14.7: Fichte-Stele instand setzen - überwiesen
+- TOP 14.8: Radverkehr Oberspreestraße - überwiesen
+- TOP 14.9: Aufruf zum Weltspieltag 2015 - überwiesen
+- TOP 14.10: Bushaltestelle Bellevuepark - überwiesen
+- TOP 14.11: Reinigung Heidekampgraben - überwiesen
+- TOP 14.12: Biotopkartierung für den "Spreepark" - überwiesen
+- TOP 14.13: Veröffentlichung nichtberücksichtigbarer Einwendungen - überwiesen
+- TOP 14.14: Variantenprüfung Schulstandorte Adlershof - überwiesen
+- TOP 14.15: Bebauungspläne in Aufstellung online stellen - überwiesen
+- TOP 15: Große Anfragen - (offen)
