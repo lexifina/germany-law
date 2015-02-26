@@ -1,0 +1,56 @@
+# 7. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-02-26T16:00:00+01:00
+- Ende: 2015-02-26T20:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4141
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4141
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_02_26 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00195307.pdf
+- Wortprotokoll: Nachtrag_SR_2015_02_26 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00196103.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden; Wahlkreis 10 - Mandat Sozialdemokratische Partei Deutschlandes (SPD) - punktweise Zustimmung
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Verpflichtung zweier Stadträte gemäß § 35 Absatz 1 SächsGemO durch die Oberbürgermeisterin
+- TOP 6: Aktuelle Stunde: Satzung über die Bereitstellung, Benutzung und Betreibung von Unterbringungseinrichtungen für Asylbewerber sowie Flüchtlinge nach § 3 SächsFlüAG - erledigt
+- TOP 7: Einigungsverfahren Gremienbesetzung
+- TOP 7.1: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 7.2: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 7.3: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen) - Einigung
+- TOP 7.4: Ausschuss für Kultur - Einigung
+- TOP 7.5: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 7.6: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtung) - Einigung
+- TOP 7.7: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 7.8: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 7.9: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 7.10: Ausländerbeirat - Einigung
+- TOP 8: Umbesetzung eines 1. Stellvertreters für die AfD-Fraktion im Jugendhilfeausschuss - Zustimmung
+- TOP 9: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 10: Besetzung der zweiten Vertreterinnen oder Vertreter der stimmberechtigten Mitglieder des Jugendhilfeausschusses - Zustimmung
+- TOP 11: Tagesordnungspunkte ohne Debatte
+- TOP 12: Abberufung eines Mitgliedes des Ausländerbeirates und Wahl eines neuen Mitgliedes im Ausländerbeirat - Zustimmung
+- TOP 13: Vertagungen Stadtratssitzung 22.01.2015
+- TOP 13.1: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 13.2: Wahl der Vertreter/innen der Landeshauptstadt Dresden und ihrer Stellvertreter/innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Vertagung
+- TOP 13.3: Vorhaben- und Erschließungsplan Nr. 541, Dresden-Laubegast, Wohnungsbau Laibacher Straße/Gustav-Hartmann-Straße - Zustimmung
+- TOP 13.4: Vorhaben- und Erschließungsplan Nr. 570, Dresden-Mickten Nr. 1, Wohnsiedlung Tichatschekstraße - Zustimmung
+- TOP 13.5: Neue Wohnungspolitik in einer wachsenden Stadt - Zustimmung
+- TOP 13.6: Postplatz neu gestalten und begrünen - zurückgezogen
+- TOP 14: Vertagungen Stadtratssitzung 22. Januar 2015 - Neufassung Beschlüsse Stadtrat 10. Juli 2014 - Herstellung der Rechtssicherheit
+- TOP 14.1: Bebauungsplan Nr. 357 B, Dresden-Neustadt Nr. 39, Leipziger Straße/Neustädter Hafen - Vertagung
+- TOP 15: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2014 und 2015 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Neuerrichtung der Werkstätten für die Staatsoperette Dresden und das tjg.theater junge generation - Veränderung Standort - punktweise Abstimmung mit Ergänzung
+- TOP 17: Mustervereinbarung zwischen der Landeshauptstadt Dresden und den Kindertagespflegepersonen - Zustimmung mit Ergänzung
+- TOP 18: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen Dresden für das Wirtschaftsjahr 2013 - Zustimmung
+- TOP 19: Verkehrsbaumaßnahme Marienberger Straße – Salbachstraße zwischen Knappestraße und Wehlener Straße - Zustimmung
+- TOP 20: Bebauungsplan Nr. 35.3, Dresden-Nickern Nr. 2, ehemaliges Kasernengelände - Zustimmung
+- TOP 21: Bebauungsplan Nr. 54.3, Dresden-Altstadt I Nr. 6, Postplatz/Wallstraße - Zustimmung
+- TOP 22: Vorplanung Hochwasserschadensbeseitigung, Verkehrsbauvorhaben Wehlener Straße - Alttolkewitz - Österreicher Straße - Zustimmung mit Änderung
+- TOP 23: Aufhebung des Beschlusses zur Vorlage V0142/14, Beschluss zur Vergabenummer 2014-1042-00049 „Verwaltung dezentraler Unterbringungsobjekte für Leistungsberechtigte nach dem Asylbewerberleistungsgesetz" - Zustimmung
