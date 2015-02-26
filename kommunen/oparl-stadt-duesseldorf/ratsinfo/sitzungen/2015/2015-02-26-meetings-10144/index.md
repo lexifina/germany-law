@@ -1,0 +1,54 @@
+# Jugendrat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-02-26T18:00:00+01:00
+- Ende: 2015-02-26T21:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/4
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10144
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10144
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233810.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233810.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00233810.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Besetzung der Ausschüsse und BV´s durch den Jugendrat - einstimmig beschlossen
+- TOP 4: Berichte - zur Kenntnis genommen
+- TOP 4.1: Bericht des Sprecherteams - zur Kenntnis genommen
+- TOP 4.2: Berichte über das Planungswochenende - zur Kenntnis genommen
+- TOP 5: Vorstellung der Ergebnisse der Jugendbefragung - zur Kenntnis genommen
+- TOP 6: Vorstellung der Angebote der Rheinbahn AG - zur Kenntnis genommen
+- TOP 7: Antworten auf die Anfragen und Anträge - zur Kenntnis genommen
+- TOP 7.1: Antworten der Verwaltung zu 56/ 25/2014 - zur Kenntnis genommen
+- TOP 7.2: Antworten der Verwaltung zu 56/ 32/2014 - zur Kenntnis genommen
+- TOP 7.3: Antworten der Verwaltung zu 56/ 33/2014 - zur Kenntnis genommen
+- TOP 7.4: Antworten der Verwaltung zu 56/ 42/2014 - zur Kenntnis genommen
+- TOP 7.5: Antworten der Verwaltung zu 56/ 43/2014 - zur Kenntnis genommen
+- TOP 7.6: Antworten der Verwaltung zu 56/ 48/2014 - zur Kenntnis genommen
+- TOP 7.7: Antworten der Verwaltung zu 56/ 50/2014 - zur Kenntnis genommen
+- TOP 7.8: Antworten der Verwaltung zu 56/ 54/2014 - zur Kenntnis genommen
+- TOP 7.9: Antworten der Verwaltung zu 56/ 57/2014 - zur Kenntnis genommen
+- TOP 7.10: Antworten der Verwaltung zu 56/ 58/2014 - zur Kenntnis genommen
+- TOP 8: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 8.1: Anfrage: Homosexualitätsgruppen in Düsseldorfer Heimen - einstimmig beschlossen
+- TOP 8.2: Anfrage: Prävention gegen Dschihadismus bei Jugendlichen - einstimmig beschlossen
+- TOP 8.3: Anfrage: Weisse Flotte Düsseldorf - mehrheitlich beschlossen
+- TOP 8.4: Anfrage: Inventar der Heinrich-Heine-Universität Düsseldorf - einstimmig beschlossen
+- TOP 8.5: Anfrage: Ausnahmeregelung zum neuen Taxipreis - einstimmig beschlossen
+- TOP 8.6: Anfrage: Flüchtlingsunterkünfte - einstimmig beschlossen
+- TOP 8.7: Anfrage: Kinder- u. Jugendstationen in D. Krankenhäusern - einstimmig beschlossen
+- TOP 8.8: Anfrage: VRR-Ticket für Studenten - mehrheitlich beschlossen
+- TOP 8.9: Antrag: Werbung im CSD Programmheft 2015 - mehrheitlich abgelehnt
+- TOP 8.10: Antrag: Aufstellung von Sitzbänken - mehrheitlich beschlossen
+- TOP 8.11: Antrag: Pfandringe - einstimmig beschlossen
+- TOP 8.12: Antrag: Respekt-Schilder an öffentl. Orten in D. - einstimmig beschlossen
+- TOP 9: Berichte aus den Bezirksvertretungen, den Ausschüssen und den Arbeitsgruppen - zur Kenntnis genommen
+- TOP 9.1: Berichte aus den Bezirksvertretungen - zur Kenntnis genommen
+- TOP 9.2: Berichte aus den Ausschüssen - zur Kenntnis genommen
+- TOP 9.3: Berichte aus den Arbeitsgruppen - zur Kenntnis genommen
+- TOP 10: Sonstiges - zur Kenntnis genommen
