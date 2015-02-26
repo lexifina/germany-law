@@ -1,0 +1,107 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-02-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern - <div>vertagt in 03/2015</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 3.4.: (E) Sicherer Schulweg durch Errichtung eines Zebrastreifens in der Astrid- Lindgren- Straße (Ziffer 1) Empfehlung Nr. 14-20/ E 00179 der Bürgerversammlung des 15. Stadtbezirkes Trudering- Riem am 09.10.2014 - <div>nach Antrag</div>
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Fehlende Post in der Messestadt Riem - <div>nach Antrag</div>
+- TOP 3.2.: Fehlender Supermarkt in der Messestadt Riem - <div>nach Antrag</div>
+- TOP 3.3.5: UA Schule, Soziales und Kultur:
+- TOP 3.1.: Kunstaktion im Stadtbezirk Trudering- Riem
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: WLAN-Hotspot am Willy- Brandt- Platz - <div>nach Antrag</div>
+- TOP 4.2.: Verbesserung der Verkehrssituation in der Bajuwarenstraße - <div>nach Antrag</div>
+- TOP 4.3.: Überfüllte Busse am Freitagnachmittag an der Florastraße - <div>nach Antrag</div>
+- TOP 4.4.: Naturlerlebnis Kirchtrudering - <div>Zustimmung inkl. Ergänzung</div>
+- TOP 4.5.: Verbesserung der Wegebeziehung zwischen Windbauerstraße und Schwablhofstraße für Radfahrer - <div>Zustimmung und Ergänzungen</div>
+- TOP 4.6.: Realisierung eines Mehrgenerationensportplatzes auf einer neuen Bezirkssportanlage an der Riemer Straße/ Am Mitterfeld - <div>nach Antrag</div>
+- TOP 4.7.: Ortstermin an der ehemaligen Flughafentribüne und dem Kopfbau - <div>nach Antrag</div>
+- TOP 4.8.: Geothermie: Fragen zum 4. Bauabschnitt der Messestadt - <div>nach Antrag</div>
+- TOP 4.9.: Geothermie Riem: Für eine faire Kostenaufteilung - <div>nach Antrag</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Fertigstellung der Radwegverbindung Am Hüllgraben und Brukenthalstraße; BA- Antrag Nr. 08-14/ B 05252 des Bezirksausschusses des Stadtbezirks 15 Trudering- Riem vom 19.09.2013
+- TOP 5.2.: Überprüfung der Ampelschaltung an der Kreuzung Am Mitterfeld/ Riemer Straße
+- TOP 5.3.: Informationsplattform zur Untervermietung von Wohnräumen an Asylberechtigte und Flüchtlinge mit gesichertem Aufenthaltsstatus
+- TOP 5.4.: Ortstermin an den nördlichen Kammern der Tribüne
+- TOP 5.5.: Installation von Fahrradständern an der Bushaltestelle "Sperberstraße"
+- TOP 5.6.: Wasser- und Energieverbrauch der städtischen Einrichtungen im 15. Stadtbezirk
+- TOP 5.7.: Sechs Jahre Fiasko- wie ging das Haffstraßen- Drama für die Stadt aus?
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Volkslauf im Riemer Park am 14.06.2015
+- TOP 7.2.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA- Satzung; BA- Antrag Nr. 14-20/ B 00178 des Bezirksausschusses des Stadtbezirkes 7- Sendling- Westpark vom 15.07.2014
+- TOP 7.3.: Betriebszeitverlängerung von bisher 22.00 Uhr auf gesetzliche Sperrzeit; Kleingasstätte- Bistro Servus 2, Hugo- Weiss- Straße, 81825 München
+- TOP 7.1.: MVG Rad Standorte im 15. Stadtbezirk
+- TOP 7.2.: Austausch von Lichtzeichenanlagen, Damaschkestraße/ Kreillerstraße und Kreillerstraße/Schatzbogen
+- TOP 7.3.: Berichte von statt gefundenen Ortsterminen 1. Querungshilfe für die Trudeirnger Straße AB- Initiative Nr. 14-20/ I 00217 am 13.02.2015 2. Sicherheit der Fußgänger vor dem Förderzentrum in der Astrid- Lindgren- Straße BA-Initiative Nr. 14-20 / I 00313; Montag, den 23.02.2015 um 07:30 Uhr
+- TOP 7.4.: Parksituation in der Messestadt Ost
+- TOP 7.1.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 077/02 "Grünordnungsplan Nr. 4- Privater Freizeit- und Erholungspark südlich der Straße Am Sportpark- 2. Teiländerung", Verfahren nach § 4 Abs. 1 BauGB
+- TOP 7.2.: Städtebauliche Entwicklungsmaßnahme Münchner Nordosten A) Stadtplanungsziel für die Städtebauliche Entwicklungsmaßnahme Münchner Nordosten (ESM) mit der Prämisse- "Mehr GRÜN als GRAU" statt "kompakt-urban-grün" Empfehlung Nr. 14-20/ E 00229 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen vom 23.102014 B) Bauplanungen Münchner Nordosten (SEM)- Berücksichtigung des hohen Grundwasserspiegels im Hinblick auf die bereits bestehenden Siedlungen (Zahnbrechersiedlung und Gartenstadt) Empfehlung Nr. 14-20/ E 00231 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 23.10.2014 Stadtbezirk 13 Bogenhausen, Stadtbezirk 15 Trudering- Riem; Sitzungsvorlagen Nr. 14-20/ V 02412; Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP 7.1.: Wasserburger Landstraße 8-10
+- TOP 7.2.: Kießlingerstraße 43
+- TOP 7.3.: Kästlenstraße
+- TOP 7.4.: Kronenweg 7
+- TOP 7.5.: Samoastraße 8
+- TOP 7.6.: Am Neufeld 5
+- TOP 7.7.: Büchmannstraße 11
+- TOP 7.8.: Gerstäckerstraße 52
+- TOP 8: Baumfällungen
+- TOP 8.8.1: Bereits genehmigte Fällungen durch die Untere Natuschutzbehörde
+- TOP 8.1.: 8.1.1 Agathenstraße 8 - <div>zur Kenntnis genommen</div>
+- TOP 8.8.2: Beantragte Baumfällungen
+- TOP 8.1.: 8.2.1 Toni- Schmid- Straße 1 8.2.2 Salzmesserstraße 26 8.2.3 Helgastraße 8.2.4 Markgrafenstraße 8.2.5 Jaghornstraße 21 8.2.6 Iltisstraße 40 8.2.7 Brändströmstraße 2 8.2.8 Stieglitzweg 7 8.2.9 Groschenweg 34 8.2.10 Solalindenstraé 38 8.2.11 Renkenweg 5 8.2.12 Leonhardisweg 36 8.2.13 Agathenstraße 8 8.2.14 Grundelstraße 23 8.2.15 Von-Erckert- Straße 57 8.2.16 Postweg 62 8.2.17 Togostraße 18 8.2.18 Birkhahnweg 21 8.2.19 Heilwigstraße 6 8.2.20 Mondseestraße 27 8.2.21 Mondseestraße 25 8.2.22 Dachsteinstraße 11 8.2.23 Sexauerstraße 8 8.2.24 Bajuwarenstraße 99 8.2.25 Graf- Ottenburg- Straße 15 8.2.26 Waldtruderinger Straße 49 8.2.27 Leonhardiweg 59 8.2.28 Wasserturmstraße 11 8.2.29 Tsingtauer Straße 7 8.2.30 Zeisigweg 9 8.2.31 Feldbergstraße 70 8.2.32 An der Seidlbreite 18 8.2.33 Monikastraße 3 8.2.34 Bahnstraße 5 8.2.35 Gerstäckerstraße 52 8.2.36 In der Heuluss 6 8.2.37 Linnenbrückerstraße 14 8.2.38 Kranichweg 9 8.2.39 Ickelsamerstraße 3 8.2.40 Ickelsamerstraße 5 8.2.41 Graf- Ottenburg- Straße 11 - <div>Zustimmung wie vom UA vorgeschlagen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung gemäß § 20 Abs. Satz 2 BA- Satzung: Zustimmung zur SPD- Veranstaltung am 19.02.2015 im Festzelt Wasserburger Landstraße/Ecke Feldbergstraße - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Anträge auf unveränderte Fortführung von Gaststättenbetrieben 10.1.1.1 Schank- und Speisewirtschaft Graf- Lehndorff- Straße 47 10.1.1.2 Kiosk in einem konzessionierten Buchmacherbetrieb Graf- Lehndorff- Straße 36 10.1.1.3 Speiseeiswirtschaft Willy- Brandt- Platz 5 10.1.1.4 Ausschank in einem Bordell Stahlgruberring 9 10.1.1.5 Ausschank in einem Bordell Stahlgruberring 13 10.1.1.6 Kleingasstätte Stahlgruberring 14 10.1.1.7 Schank- und Speisewirtschaft Graf- Lehndorff- Straße 36 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Verwendungsnachweise und Kurzberichte 10.1.2.1 SV Gartenstadt Trudering e.V. 10.1.2.2 Nachbarschaftswerk Wagnis e.V. 10.1.2.3 pädagogischer service gemeinnützige gmbh 10.1.2.4 TSV Waldtrudering e.V. 10.1.2.5 FC Stern München 10.1.2.6 Waldkindergarten Trudering e.V. - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Kreillerstraße/Schatzbogen, Austausch der Lichtsignalanlage mit Kreuzungsumbau im 14. Stadtbezirk Berg am Laim und im 15. Stadtbezirk Trudering- Riem, Projektkosten (Kostenobergrenze): 640.000?, 1. Bedarfs- und Konzeptgenehmigung, 2. Projektgenehmigung; Sitzungsvorlage Nr. 14-20/ V 02102; Beschluss des Bauausschusses vom 10.02.2015 (SB)
+- TOP 10.2.: Belebung des Willy- Brandt- Platzes durch Möbilierung, Antrag Nr. 08-14/ A 04793 von Herrn Stadtrat Josef Schmid und Herrn Stadtrat Hans Podiuk vom 15.11.2013; Sitzungsvorlage Nr. 14-20/ V 02181; Bekanntgabe in der Sitzung des Bauausschusses vom 10.02.2015
+- TOP 10.3.: CarSharing in München, Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016; Beschluss des Kreisverwaltungsreferates vom 27.01.2015 (VB)
+- TOP 10.4.: Öffentliche Jigendspielfläche an der Schwablhofstraße/ Stolzhofstraße im 15. Stadtbezirk Trudering- Riem, Projektkosten (Ausführungskosten): 730.000? Ausführungsgenehmigung; Sitzungsvorlage Nr. 14-20/ V 02218; Beschluss des Bauausschusses vom 20.01.2015 (SB)
+- TOP 10.1.: Messestadt Riem, Vergabe einer Gewerbeparzelle im Technologiepark Messestadt West (1. BA) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Mietkosten senken und Klima schonen durch PV- Eigenverbrauchsanlagen (EVA)- Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV- Eigenverbrauch ihrer Mieter; Antrag Nr. 08-14/ A 04263 der Stadtratsfraktion DIE GRÜNEN/ROSA LISTE vom 17.05.2013; Sitzungsvorlagen Nr. 14-20/ V 01341; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Stadteigenes Anwesen Truderinger Straße 288; Antwortschreiben des Kommunalreferates vom 27.01.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.4.1.1 Kießlingerstraße 43 10.4.1.2 Eisgruberstraße 14 10.4.1.3 Eisgruberstraße 14a - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen, Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013, Fortschreibung im Bauprogramm 2014, Änderung des Mehrjahresinvestitionsprogrammes 2014-2018; Sitzungsvorlage Nr. 14-20/ V 01374; Beschluss der Vollversammlung des Stadtrates vom 20.11.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Errichtung eines Hauses für Kinder mit Kinderkrippen- und 3 Kindergartengruppen an der Astrid- Lindgren- Straße im 15. Stadtbezirk Trudering-Riem Projektkostem (ohne Risikoreserve) 3.483.000? davon Baukosten 3.270.000? davon Ersteinrichtungskosten 213.000? 1. Genehmigung des Nutzerbedarfsprogrammes 2. Erteilung des Projektauftrages; Sitzungsvorlage Nr. 14-20/ V 01104; Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 16.09.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Sicherstellung der derzeitigen Arbeitsfähigkeit der Nachbarschaftstreffs, Produkt 4.1.7 Quartierbezogenen Bewohnerarbeit, Stadtratszeil: Stadtratsziel 2014- S4 A1.4; Sitzungsvorlage Nr. 14-20/ V 01993; Beschluss des Vollversammlung des Stadtrates vom 17.12.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Mehrjahresinvestitionsprogramm (MIP) 2014-2018 1. Investitionsmaßnahmen für Schulen, Kindertageseinsrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr.: 14-20/ V 01849; Beschluss des gemeinsamen Bildungsausschusses und Sportausschusses des Stadtrates vom 03.12.2014 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Schulhofnutzung für Kinder und Jugendliche außerhalb der Schulzeiten
+- TOP 10.6.: Wiedereröffnung der blauen Sportplätze in der Messestadt Riem
+- TOP 10.7.: Kindertagesstätten sonstiger Träger; Haus für Kinder am Schatzbogen 62 im 15. Stadtbezirk Trudeirng- Riem, Leistung eines Baukostenzuschusses; Sitzungsvorlage Nr. 14-20/ V 01107; Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 07.10.2014 - <div>zur Kenntnis genommen</div>
+- TOP 10.8.: Mädchen und junge Frauen in München, Zusammenfassung der Praxisforschung zu Lebenslagen, Spannungsfeldern und Bewältigungszenarien von Mädchen und jungen Frauen in der Blumenau, Indikatoren und Übertragbarkeit der Forschungsergebnisse auf andere Stadtteile in München Mädchen und junge Frauen in München; Antrag Nr. 08-14/ A 04204 von Frau Stadträtin Irene Schmitt, Frau Stadträtin Verena Dietl, Frau Stadträtin Ulrike Boesser vom 26.04.2013 Umsetzung eines Modellprojektes zur geschlechtshomogenen, parteilichen Arbeit mit Mädchen und Jungen in der Blumenau Bearbeitung übertagbarer Studeinergebnisse im Sozial- sowie Kinder- und Jugendhilfeausschusses; Empfehlung der 255. Stadtratskommission zur Gleichstellung von Frauen vom 18.04.2013; Sitzungsvorlage Nr. 14-20/ V 00567; Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.9.: Unterbringung von Flüchtlingen und Wohnungslosen; Änderungsantrag der Stadratsfraktion DIE GRÜNEN/RL, eingebracht in die gemeinsame Sitzung des Kommunal- und Sozialausschusses am 09.10.2014; Sitzungsvorlage N. 14-20/ V 022004; Beschluss des Sozialausschusses vom 15.01.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.10.: Neueröffnung Tagesheim am Ilse-von-Twardowski-Platz 1 - <div>zur Kenntnis genommen</div>
+- TOP 10.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.: Vollzug der Wassergesetze, Bachräumungstermine 2015 für die Stadt- bzw. Stadtrandbäche - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Unterrichtung des Baureferates über Baumbeseitigungen und Gehözpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken, hier: Kleingartenanlage NO 76, Riemerstraße 395 - <div>zur Kenntnis genommen</div>
+- TOP 2.1.: (E) Budget der Bezirksausschüsse TSV Trudering e.V. Beschaffung von Turngeräten - <div></div><div>vertagt und Nachfrage RBS u TSV</div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Freunde der FFW Trudering von 1874 e.V. Anschaffung eines Defibrillators - <div></div><div>vertagt</div>
+- TOP 1: (E) Umwandlung des Rasenplatzes am ehemaligen "Haus der Gegenwart" in einen kombinierten Basketball- / Fußballplatz mit geeignetem Belag Empfehlung Nr. 14-20 / E 00188 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 09.10.2014 - <div>nach Antrag</div>
+- TOP 2: (E) Errichtung eines umlegbaren Absperrpfostens oder einer Schranke für den Waldweg zwischen Fauststraße und Schrammiger Weg Empfehlung Nr. 14-20 / E 00175 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 09.10.2014????? - <div>abgelehnt</div>
+- TOP 3: (E) Einrichtung eines Haltverbots an der Ecke Friedrich-Creuzer-Straße / Ecke Günderodestraße - <div></div><div>nach Antrag</div>
+- TOP 4.10.: AED und Notfallrucksack für die Freiwillige Feuerwehren in Trudering und Waldtrudering - <div>nach Antrag</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 10.10.6: UA Umwelt
+- TOP 7.7.7: ohne Vorberatung im UA
