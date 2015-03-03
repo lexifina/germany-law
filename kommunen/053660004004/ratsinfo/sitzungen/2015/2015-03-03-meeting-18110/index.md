@@ -1,0 +1,51 @@
+# Stadtentwicklungsausschuss (3. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2015-03-03T16:45:00+01:00
+- Ende: 2015-03-03T20:35:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe-LVANDJqZSQiLAQbvgRKQ
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/18110
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRP-vxGRaCjY5hTI8qeRrUBscVN5k4QRaDqO8_g5MQFq/Bekanntmachung_Stadtentwicklungsausschuss_03.03.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb_Cae5pF8WAovz-zrwC-fJWASSWYK_S9rGNqxTmwGtT/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_03.03.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 25.11.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: TaxiBus-Verbindung nach Mechernich hier: Antrag der UWVFraktion vom 16.05.2014 Besprechung des Nahverkehrsplanes im Rahmen der Regionalkonferenz Nord am 19.01.15 beim Kreis Euskirchen mit Vertretern der Ratsfraktionen und der Verwal tung SPD-Antrag vom 01.02.2015 - Einstimmiger Empfehlungsbeschluss:
+- TOP 4.: Einrichtung einer Tempo-30-Zone in Esch für die Straße Escher Heide; hier: Antrag der CDU-Fraktion vom 01.12.2014 - Einstimmiger Beschluss:
+- TOP 5.: Satzung über die Erhebung von Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel (Sondernutzungssatzung) - Umsetzung HSK-Maßnahme Nr. M 022 - Beschluss bei 4 Gegenstimmen und 2 Enthaltungen:
+- TOP -: Satzung über die Erhebung von Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel (Sondernutzungssatzung) - Umsetzung HSK-Maßnahme Nr. M 022 - Bei 10 Gegenstimmen und 1 Enthaltung wird der Beschlussvorschlag: 
+- TOP 6.: Kirspenich, Hardtburgstraße hier: Ergänzung des Bebauungskonzepts - Beschluss
+- TOP -: Kirspenich, Hardtburgstraße hier: Anpassung des Bebauungskonzepts - Beschluss bei 1 Gegenstimme: 
+- TOP 7.: Änderung der Bad Münstereifeler Sortimentsliste der nahversorgungsrelevanten, zentrenrelevanten und nicht-zentrenrelevanten Sortimente - Einstimmiger Empfehlungsbeschluss: 
+- TOP 8.: 5. Änderung des Bebauungsplanes Nr. 5a "Gewerbegebiet Bad Münstereifel-Kernstadt" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Aufstellungsbeschluss, Durchführung der Verfahren - Einstimmiger Beschluss:
+- TOP 9.: Entwicklung der Bebauungsplanbereiche 5a/5d "Gewerbegebiet, Sondergebiet Bad Münstereifel" hier: Einleitung eines Moderationsverfahrens - Einstimmiger Beschluss:
+- TOP 10.: 6. Änderung des Bebauungsplanes Nr. 10 "Bad Münstereifel, Kurhausgebiet" im beschleunigten Verfahren gem. § 13a BauGB ohne Durchführung einer Umweltprüfung hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss: 
+- TOP 11.: 4. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" im beschleunigten Verfahren gem. § 13a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse, Satzungsbeschluss - Empfehlungsbeschluss bei 4 Gegenstimmen: 
+- TOP 12.: Berichterstattung zum City Outlet Bad Münstereifel hier: Jour-fixe - Beschluss
+- TOP 13.: Eintragung eines Baudenkmals in die Denkmalliste gem. § 3 DSchG NW hier: Wegekapelle in Eichen - Gemarkung Houverath, Flur 17, Flurstück 23, Kapellenweg - Einstimmiger Beschluss:
+- TOP 14.: Erweiterung der Kita "Magische 12" um eine Kindergartengruppe
+- TOP 15.: Anfragen und Mitteilungen
+- TOP 15.1: Kurt-Schumacher-Akademie
+- TOP 15.2: Anfragen und Mitteilungen: Verbesserungsmaßnahmen in der Ortsdurchfahrt Scheuren; hier: Antrag der SPD-Fraktion vom 03.11.2014 - hier: Ergebnis aus den Beratungen der Verkehrskommission
+- TOP 15.3: Anfragen und Mitteilungen: Fußläufiger Übergang Bonner Straße zur Hardtburgstraße; hier: Antrag der SPD-Fraktion vom 08.09.2014 - Antrag auf eine stationäre Geschwindigkeitsüberwachung; Verfügung des Kreises Euskirchen vom 23.12.2014
+- TOP 15.4: Anfragen und Mitteilungen: Fußläufiger Übergang Bonner Straße zur Hardtburgstraße; hier: Antrag der SPD-Fraktion vom 08.09.2014 - hier: Ergebnis der Beratung der Verkehrskommission
+- TOP 15.5: Anfragen und Mitteilungen: Erneuerungsbedarf Hinweisbeschilderung Wanderparkplätze; hier: Antrag der SPD-Fraktion vom 03.11.2014 - Ergebnis der Verkehrsschau
+- TOP 15.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.7: Pflege und Unterhaltung der Stadtmauer hier: Antrag der CDU-Fraktion vom 13.08.2014
+- TOP 15.8: Mitteilung: SmartMove im Kreis Euskirchen/Bad Münstereifel
+- TOP 15.9: Anfragen und Mitteilungen: Verordnung zur Erhebung von Gebühren für das Parken auf öffentlichen Straßen, Wegen und Plätzen im Gebiet der Stadt Bad Münstereifel (Parkgebührenordnung); hier: Höchstparkdauer für Inhaber eines Sonderparkberechtigungsscheines
+- TOP 15.10: Sportplatz Bad Münstereifel; hier: Antrag des SV Nöthen
+- TOP 15.11: CDU-Antrag zur Namensgebung für den Kreisverkehrsplatz 'Wasserscheide'
+- TOP 15.12: Breitbandversorgung in Nöthen hier: Anfrage des Ratsherrn Ingo Pfennings
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Rechtliche Beratung zur 4. Änderung des Bebauungsplans Nr. 6 "Industriegebiet Iversheim" hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 2.: Vermarktung eines städtischen Grundstücks; hier: Antrag der CDU-Fraktion vom 23.11.2014 - Beschluss bei 1 Enthaltung: 
+- TOP 3.: Erweiterung der Kita "Magische 12" um eine Kindergartengruppe - Beschluss
+- TOP 4.: Anfragen und Mitteilungen
