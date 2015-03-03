@@ -1,0 +1,69 @@
+# Stadtrat (6. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-03-03T17:00:00+01:00
+- Ende: 2015-03-03T21:43:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbeeWVA95k4xRyjUnxSryiM
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18509
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZTZ9JChIs_saPQfs3aUTHienCuGGZowUL6iYIOb-1zXh/Bekanntmachung_Stadtrat_03.03.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUs05yd6jqJGtIGCAVuBB6BjTwhB2PMnUAglMTuoF3a3/Oeffentliche_Niederschrift_Stadtrat_03.03.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Besetzung des Schulausschusses hier: Benennung von beratenden Mitgliedern - (kein Text vorhanden)
+- TOP 2.2: Umbesetzung des Umweltausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 2.3: Bestellung der Mitglieder für die Gesellschafterversammlung der Netzgesellschaften hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 2.4: Umbesetzung des Umweltausschusses hier: Antrag der SPD-Fraktion
+- TOP 3.: Bedarfsplan Kindertagesbetreuung u3 und ü3 bis zum Eintritt der Schulpflicht
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: 72. Änderung des Flächennutzungsplanes "Erfttalstraße (L 122)/Erftstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.2: 70. Änderung des Flächennutzungsplanes "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Stadtteil Sindorf hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 4.3: Bebauungsplan SI 357 "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Stadtteil Sindorf hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 4.4: Radweg entlang der Stiftsstraße am neuen Baugebiet im Stadtteil Kerpen
+- TOP 5.: Neubaumaßnahme Asylunterkünfte Erftstraße im Stadtteil Sindorf
+- TOP 6.: Erweiterung des Lärmschutzes bei Buir nach Inbetriebnahme der BAB 4 - (kein Text vorhanden)
+- TOP 7.: Projekt "Manheim-Neu" - Finanzierung von Leistungen der Projektsteuerung
+- TOP 8.: Fortschreibung des Kontrakts über Bodenmanagement und sozialgerechte Bodennutzung in der Stadt Kerpen
+- TOP 9.: Flüchtlingsunterkünfte, Fortschreibung des Unterbringungs- und Betreuungskonzeptes
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Stellenplan 2015 hier: Personalbedarf in der Abteilung 22.1 Senioren, Menschen mit Behinderung und soziale Hilfen
+- TOP 10.2: Stellenplan 2015 hier: zusätzlicher Bedarf in der Abteilung 23.4 Kindertagesbetreuung
+- TOP 10.3: Therapeutische Betreuung in Kindertageseinrichtungen Hier: Verlängerung der Maßnahme und Förderung bis 31.07.2016
+- TOP 10.4: Stellenplan 2015
+- TOP 11.: Ausschank von fair gehandeltem Kaffee und Tee
+- TOP 12.: Einbringung der Haushaltssatzung für das Jahr 2015
+- TOP 13.: Weiteres Vorgehen zur Stadtwerkegründung - (kein Text vorhanden)
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14.1: Bereitstellung von überplanmäßigen Mitteln für Beratungskosten im Zusammenhang mit der Entscheidung über die Gründung von Stadtwerken - (kein Text vorhanden)
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Neubau der Kindertagesstätte im Vogelrutherfeld im Stadtteil Sindorf hier: Anfrage der CDU-Fraktion
+- TOP 18.2: Weitere Nutzung des Geländes der Kaserne in Kerpen hier: Anfrage der CDU-Fraktion
+- TOP 18.3: Kosten der externen Rechtsberatung
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: Anlagen zum Stellenplan
+- TOP 19.: Lärmsituation Buir hier: Lärmtechnische Untersuchungen
+- TOP 20.: Jahresabschlüsse 2008 - 2011
+- TOP 20.1: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht zum 31.12.2008
+- TOP 20.2: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht zum 31.12.2009
+- TOP 20.3: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht zum 31.12.2010
+- TOP 20.4: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht zum 31.12.2011
+- TOP 21.: Entwürfe der Jahresabschlüsse zum 31.12.2012 und 31.12.2013
+- TOP 22.: Auftragsvergabe: Markterkundungsverfahren Stadtwerke - (kein Text vorhanden)
+- TOP 23.: Zwischenbilanz Photovoltaikanlage Energiepartner Kerpen GmbH
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.1: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 25.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 26.: Mitteilungen
+- TOP 27.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 28.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 29.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
