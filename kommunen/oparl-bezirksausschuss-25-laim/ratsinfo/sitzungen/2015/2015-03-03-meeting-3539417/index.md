@@ -1,0 +1,85 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-03-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539417
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539417
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Beleuchtung Fußweg zur Kirche St. Ulrich
+- TOP 2.2.: CSU und FDP: Ferienprogramm 2014 für Münchner Kinder - Unterstützung des BA Laim
+- TOP 2.3.: CSU: Anfrage - Unterrichtung des BA über die Planung zur "Alten Heimat"
+- TOP 2.4.: CSU: Anfrage - Unterrichtung des BA über die Planungen zum Weiterbau der U 5
+- TOP 2.5.: CSU: 1. Lärmschutzbelag für die Zu - und Abfahrten der A 96, 2. Einfahrt in die A 96 ab der Senftenauerstraße für eine zukünftige Bebauung sicherstellen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über die Sondernutzung gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aufstellen von neuen Verkaufseinrichtungen auf öffentlichem Grund, Inderstorferstr. 15
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kulturreferat vom 23.01.15: Kulturelles Bürgerzentrum für Laim und Sendling-Westpark; hier: Antrag von Herrn Stadtrat Straßer und Herrn Stadtrat Seidl vom 20.01.15
+- TOP 4.2.: Schreiben Sozialreferat vom 19.01.15: Mieterbeiratswahl 2015, Entsendung von Mitgliedern
+- TOP 4.3.: Schreiben Direktorium vom 28.01.15: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LstVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 30.01.15: Stadtteilwoche Laim vom 26.06.-02.07.15 auf dem Laimer Anger
+- TOP 4.5.: Maria-Birnbaum-Str. 10: Fällung von 1 Goldzypresse
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 03.02.15: Haltverbot Justinus-Kerner-Str. 19
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 10.02.15: Maifest am 01.05.15 auf dem Laimer Anger
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 12.02.15: Frühlingsfest am 28.03.-29.03.15 und Muttertagsfest am 25.04.-26.04.15 auf dem Laimer Anger
+- TOP 4.9.: Schreiben Stadtwerke München GmbH vom 16.02.15: MVG Rad, Standorte
+- TOP 4.10.: Agnes-Bernauer-Str. 55a: Fällung von 2 Eschen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Elsenheimerstr. 48-50: Umnutzung des Bürogebäudes zu einem Boarding- und Wohnhaus; Aufstockung um zwei Geschosse, auf insgesamt 7 oberirdische Geschosse / Vorbescheid
+- TOP 5.2.: Elsenheimerstr. 61-63: Nutzungsänderung UG - Teilfläche Lager / Kellerräume zu Büroflächen, EG - Teilfläche Büros zu Aufenthaltsbereich MBS sowie Umbau Eingangshalle nach Teilabbruch, 1.OG - Teilfläche Labor zu Bürofläche, 6. OG - Teilfläche Änderung Mieterzuschnitt und Bürogrundrisse
+- TOP 5.3.: Aindorferstr. 77b: Neubau einer Doppelhaushälfte, Haus 2
+- TOP 5.4.: Aindorferstr. 77b: Neubau einer Doppelhaushälfte mit Garage, Haus 1
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.02.15: Inhouse-Seminar "Praxisbezogene Baumkontrolle", Fortbildung für die neu gewählten Baumschutzbeauftragten der Bezirksausschüsse am 04.05.15
+- TOP 6.2.: Schreiben Stadtwerke München GmbH vom 09.02.15: Informationsveranstaltung der SWM am 23.03.15
+- TOP 6.3.: Schreiben Kreisverwaltungsreferat vom 16.02.15: Einladung zur KVR-Infoveranstaltung für die Bezirksausschüsse am 22.04.15
+- TOP 6.4.: Schreiben Referat für Bildung und Sport vom 18.02.15: Einladung zum Informationsgespräch am 19.03.15
+- TOP 6.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 12.02.15: Informationsveranstaltung Denkmalschutz am 23.03.15
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 03.02.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 22.01.15: Lebensmittelmarkt "Domovino", Joergstr. 88 (Schreiben BA vom 22.12.14)
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 28.01.15: Gaststätte "Fiori", Fürstenrieder Str. 8; unveränderte Fortführung
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 05.02.15: Verkehrskonzept Radverkehr (Schreiben BA vom 24.11.15)
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 10.02.15: Flohmarktgelände Zschokke- / Westendstraße (Schreiben BA vom 26.01.15)
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 16.02.15: Jahresdrehgenehmigung für Produktion "Verbrechen aus Leidenschaft" und "Hilf mir! Jung, pleite, verzweifelt!"
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 18.02.15: Schulweghelfer/in an der Kreuzung Gotthardstraße / Riegerhofstraße (Antrag Nr. 14-20 / B 00541 vom 04.11.14 sowie Schreiben BA vom 26.01.15)
+- TOP 8.7.: Schreiben Behindertenbeirat der Landeshauptstadt München vom 22.01.15: Zweiter Oberflächenaufzug für den Marienplatz
+- TOP 8.8.: Schreiben Behindertenbeirat vom 02.02.15: Protokoll BA-Treffen Behindertenbeirat Januar 2015
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.01.15: Valpichlerstr. 95; Neubau eines Mehrfamilienhauses (6 WE)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.01.15: Valpichlerstr. 97; Neubau eines Mehrfamilienhauses (3 WE)
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.01.15: Fällungsantrag Reindlstr. 30
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.02.15: Agnes-Bernauer-Str. 1; Neuerrichtung des Daches zur Schaffung neuen Wohnraums, Neubau einer Tiefgarage und Anbau von Außenaufzügen (Agnes-Bernauer-Str. 1-5 / Lautensackstr. 6-16 / Ludwig-Richter-Str. 20 / Schedelstr. 1-11); Tektur - hier: Erfüllung von Denkmalschutzauflagen
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.02.15: Fällungsantrag Agnes-Bernauer-Str. 131
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.02.15: Fällungsantrag Camerloherstr. 119
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.02.15: Camerloherstr. 78; Umbau eines Wohnhauses sowie Anbau mit TG
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.02.15: Protokoll Besprechung zur Vorstudie A 96 am 16.01.15
+- TOP 8.17.: Schreiben Baureferat vom 29.01.15: Bauprogramm 2013 zur Realisierung von Kinderbetreuungsplätzen; Errichtung eines Hauses für Kinder mit 3 Kinderkrippen- und 3 Kindergartengruppen an der Hogenbergstr. 33; verwaltungsinterne Erteilung des Projektauftrags und der Projektgenehmigung
+- TOP 8.18.: Schreiben Direktorium vom 30.01.15: Zuwendung aus dem Budget des BA 25 - Verwendungsnachweis Konzert am 19.10.14; Antragsteller: Paul-Gerhardt-Chor München Laim
+- TOP 8.19.: Schreiben Abfallwirtschaftsbetrieb München vom 30.01.15: Wertstoffcontainer im Stadtbezirk 25 Laim, u.a. Standort Friedenheimer Str. 33 (Schreiben BA vom 26.01.15)
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 06.02.15: Flohmarktbetrieb Zschokkestraße / Westendstraße (Schreiben BA vom 26.01.15)
+- TOP 8.21.: Bautenliste vom 19.01.-25.01.15 1. Erstantragsverfahren a) Aindorferstr. 77 b b) Aindorferstr. 77b c) Agricolastraße
+- TOP 8.22.: Bautenliste vom 26.01.-01.02.15 Erstantragsverfahren a) Rechpacherstr. 30 b) Fürstenrieder Str. 41 c) Hogenbergstr. 33 d) Ilmmünsterstr. 63
+- TOP 8.23.: Bautenliste vom 02.02.-08.02.15 Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Agnes-Bernauer-Str. 104 b) Helmpertstr. 19
+- TOP 8.24.: Bautenliste vom 09.02.-15.02.15 1. Änderungsverfahren a) Saherrstr. 6 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 41 b) Fürstenrieder Str. 41
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 10.02.15: Baumaßnahmen der Stadtwerke; Stichtag: 10.02.15
+- TOP 8.26.: Schreiben Mieterbeirat vom 03.02.15: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 12.01.15
+- TOP 8.27.: Beschluss der Vollversammlung vom 20.11.14: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen; Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012 / 2013, Fortschreibung im Bauprogramm 2014, Änderung des Entwurfes des Mehrjahresinverstitionsprogrammes 2014-2018 (Sitzungsvorlage Nr. 14-20 / V 01374)
+- TOP 8.28.: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.15: Mädchen und junge Frauen in München (Sitzungsvorlage Nr. 14-20 / V 00567)
+- TOP 8.29.: Beschluss des Sozialausschusses vom 15.01.15: Unterbringung von Flüchtlingen und Wohnungslosen (Sitzungsvorlage Nr. 10-20 / V 02204)
+- TOP 8.30.: Beschluss der Vollversammlung des Stadtrates vom 28.01.15: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen (Sitzungsvorlage Nr. 14-20 / V 02255)
+- TOP 8.31.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.15: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 14-20 / V 01341)
+- TOP 8.32.: Beschluss des Bauausschusses vom 10.02.15: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing (Sitzungsvorlage Nr. 14-20 / V 02127)
+- TOP 8.33.: Antrag BA 21 Pasing-Obermenzing vom 03.02.15: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate (Antrag Nr. 14-20 / B 00835)
+- TOP 8.34.: Referat für Stadtplanung und Bauordnung: Broschüre "Bericht zur Wohnungssituation in München 2012-2013"
+- TOP 2: (E) Friedenheimer Brücke / Landsberger Straße Erhöhung der Verkehrssicherheit an der Einmündung des Radweges in die Anliegerfahrbahn der Landsberger Straße (Antrag Nr. 1) - <div>nach Antrag</div>
+- TOP 3: Beschlussvorlage Baureferat: Verschönerung des Fußgänger- und Radfahrertunnels der Laimer Röhre (Empfehlung Nr. 14-20 / E 00304 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2014) - <div>Abweichung von Referentenvorl.</div>
+- TOP 1.2: Bürgerpost an den BA
