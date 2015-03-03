@@ -1,0 +1,121 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-03-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399445
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399445
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Protokoll und Votum der BA-Sondersitzung zum Thema ?Wettbewerb Bayernkaserne?
+- TOP 3.2.: Vorinformation zum geplanten BMW-Vorhaben in Freimann
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 10: sonstiges
+- TOP 1: Anträge (2)
+- TOP 1.2.: Schülerzahlen, vertagt aus 01/2015
+- TOP 3: Anhörungen (2)
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Unterstützung des Engagements des Kreisjugendrings München-Stadt in der Bayernkaserne
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.2.: ?Café Reitschule?, Schank- und Speisewirtschaft, Königinstraße 34
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen; Beschluss der Vollversammlung des Stadtrates vom 20.11.2014; Sitzungsvorlage Nr.: 14-20 / V 01374
+- TOP 5.3.3.: Zentrale Inobhutnahmestelle der Diakonie Hasenbergl in der Heidemannstraße 41b
+- TOP 5.3.6.: Veranstaltungsbericht des Theaters des Hölzernen Gelächters ?Die Hörner des Don Friolera?
+- TOP 1: Anträge (3)
+- TOP 1.1.: Entfernung der Streusandbehälter in der warmen Jahreszeit
+- TOP 1.2.: Brunnen erst im Winter abdrehen
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.3.: Hölzweg 16, Fällung einer Fichte
+- TOP 3.1.5.: Dunantstraße 8, Fällung einer Esche und eines Feldahorn
+- TOP 3.1.8.: Genter Straße 20-22, Fl.Nr.: 1028/13, Neubau von zwei Reihenhäusern, Erweiterung und Aufstockung des bestehenden Einfamilienhauses, Errichtung von Garagen, Fällung div. Bäume gemäß Plan
+- TOP 3.2.2.: Am Blütenring 64, Fl.Nr.: 580/150, Neubau eines Dreifamilienhauses mit 3 unterirdischen PKW-Stellplätzen
+- TOP 4: Bürgeranliegen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.2.1.: Unterrichtung des Baureferats über nicht melde- und genehmigungspflichtige Pflege- und Sicherungsmaßnahmen; Josef-Wirth-Weg 17 und Domagkstraße 31 (Westseite)
+- TOP 5.2.3.: Ungererstraße 42, Fällung einer Esche und eines Ahornbaumes
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.2.: Leo 152 ? Schwabinger Tor: Umsetzung des Bebauungsplanes mit Grünordnung Nr. 2029 Beschluss des Bauausschusses vom 10.02.2015, Sitzungsvorlage Nr. 14-20 / V 02223
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Freisinger Landstraße - Geschwindigkeitsbegrenzung und Errichtung von Fahrradwegen
+- TOP 2.1.: 22 Anträge für Zeitungsentnahmegeräte
+- TOP 3.2.1.: MVG Rad Standorte im BA 12
+- TOP 5.2.1.: Markierung eines Radstreifens auf der Ostseite der Leopoldstraße entlang der Mobilitätsstation Münchner Freiheit
+- TOP 5.2.2.: Anfahrtszone Kindergarten Brabanter Straße
+- TOP 5.2.3.: Anfahrtszone Kindergarten Kunigundenstraße
+- TOP 5.2.5.: Lyonel-Feininger-Straße 20 und 22 ? Tausch der Busanfahrtszone und des Taxistandplatzes
+- TOP 5.3.1.: Neubau einer Lärmschutzwand entlang der BAB A 9 Berlin-München (westlich) und entlang der Domagkstraße (nördlich) ? ehemalige Funkkaserne - Ausführungsgenehmigung Beschluss des Bauausschusses vom 20.01.2015; Sitzungsvorlage Nr.: 14-20 / V 02176
+- TOP 5.3.4.: Laubbeseitigung (Antwort des Baureferats auf ein Bürgeranliegen)
+- TOP 5.3.5.: Feuerwerk am 09.05.2015 in der Gyßlingstraße 15
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Theaterprojekt am 25.03.2015
+- TOP 4: (E) Sicherung und Ausbau der Kinderbetreuung in der Grundschule Haimhauser Straße
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Konsortium Domagkpark Neubürgerveranstaltung am 17.03.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Corso Leopold e.V. Veranstaltung "Corso Leopold 2015" am 16./17.05.2015 und 12./13.09.2015
+- TOP 4.5.: (E) Budget der Bezirksausschüsse Initiative "Chillichicks" Ausstellung in der Seidlvilla vom 13.03. - 12.04.2015
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung einer Teilstrecke der Georg-Muche-Straße und der Gesamtstrecke der Straße ?Am Nordring?
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.3.: Jugendspielplatz am Schwabinger Tor
+- TOP 7.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate (Antrag Nr.: 14-20 / B 00835 des BA 21 Pasing-Obermenzing)
+- TOP 8: Entscheidungen (1)
+- TOP 9.1.: Entsendung eines BA-Mitgliedes in den Mieterbeirat
+- TOP 9.2.: Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG ? Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferats der BA-Satzung (BA-Antrag Nr. B 00178 des BA 7 Sendling-Westpark)
+- TOP 9.3.: Resolution der Freien Wähler zum Thema ?Neuer Konzertsaal in München?
+- TOP 1.1.: Ausreichende Kinderbetreuungsplätze für die Grundschulkinder der Fröttmaninger Schule am Standort Funkkaserne
+- TOP 2: Entscheidungen (2)
+- TOP 3.1.: Parade zum St. Patricksday (Start Feilitzschstraße) am 15.03.2015
+- TOP 3.2.: MTTC Iphistos München ? Sanierung der bestehenden 3-fach Tennishalle, Umbau von zwei Tennissandplätzen in Allwettersandplätze, Errichtung einer Traglufthalle in der Wintersaison Bau einer Flutlichtanlage für zwei Tennisplätze, Förderung der Baumaßnahmen nach den Sportförderrichtlinien der Landeshauptstadt München, Sitzungsvorlage Nr. 14-20 / V 02339 Beschluss des Sportausschusses des Stadtrates vom 11.03.2015
+- TOP 5.2.1.: Kleingartenanlage Vereinsgaststätte des KGV NO 26 e.V., Schank- und Speisewirtschaft, Leopoldstraße 244 a
+- TOP 5.3.2.: Unterbringung von Flüchtlingen und Wohnungslosen ? Änderungsantrag der Stadtratsfraktion DIE GRÜNEN/RL, eingebracht in die gemeinsame Sitzung des Kommunal- und des Sozial-ausschusses am 09.10.2014; Sitzungsvorlage Nr.: 14-20 / V 02204 Beschluss des Sozialausschusses vom 15.01.2015
+- TOP 5.3.4.: Fortführung und Ausbau der Nachbarschaftsarbeit HeideTreff (Antwort des Sozialreferats auf eine Stellungnahme des BA)
+- TOP 5.3.5.: Unterbringung Flüchtlinge Bayernkaserne (Antwort des Sozialreferats auf ein Bürgeranliegen)
+- TOP 2: Entscheidungen (3)
+- TOP 3.1.1.: Stengelstraße, entlang des Isar-Schleißheimer-Kanal, Fällung von div. Eschen
+- TOP 3.1.2.: Freisinger Landstraße, entlang des Nymphenburger-Biedersteiner-Kanal, Fällung div. Bäume
+- TOP 3.1.4.: Sondermeierstraße 70, Fällung von zwei Silberahornbäumen
+- TOP 3.1.6.: Lindberghstraße, Fl.Nr.: 170/79, Neubau einer Gewerbehalle mit zwei Betriebsleiter-wohnungen und Tiefgarage; Fällung div. Bäume gemäß Plan
+- TOP 3.1.7.: Libellenstraße 31, Fällung einer Kastanie und einer Fichte
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Feilitzschstraße 17, Fl.Nr.: 207/22, Dachausbau, Erstellung einer Maisonette-Wohnung - Vorbescheid
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1.1.: Wagnerstraße 3: Sofortiges Vermieten der leerstehenden Wohnungen sowie einfaches Herrichten des leerstehenden Ateliers und umgehende Vermietung an einen Künstler/eine Künstlerin
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.2.: Karl-Theodor-Straße 9, Fällung eines Spitz- und eines Kugelahorn
+- TOP 5.2.4.: Unterrichtung des Baureferats über bevorstehende Beseitigungen von Gefahrenbäumen: Zwei Silberweiden in der Grünanlage Mattighofer Straße
+- TOP 5.3.1.: Hohenzollernstraße 12, Neubau eines Mehrfamilienhauses ? Antwort des Referats für Stadtplanung und Bauordnung zur Stellungnahme des BA 12 vom 22.10.2014
+- TOP 5.3.3.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Hinweise / Ergänzungen zur Sitzungsvorlage Nr.14-20/V 01341 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015
+- TOP 1: Anträge (4)
+- TOP 1.3.: Kißkaltplatz
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.2.: Erinnerungsverfahren a) Brüsseler Straße / Hollandstraße / Brabanter Straße b) Berliner Straße 95 c) Oskar-Schlemmer-Straße 13-23 d) Freisinger Landstraße / Oberjägerstraße ? Fuß-Radweg durch Grünanlage e) Werner-Heisenberg-Allee 21: Verkehrsinsel Rückbau
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Münchner Freiheit - Fahrtreppe mit wechselnder Laufrichtung
+- TOP 5.1.2.: Anleinpflicht für Hunde im Englischen Garten
+- TOP 5.1.3.: Fußweg ins Domagkgelände
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.4.: Zeitliche Erweiterung des bestehenden Haltverbots in der Sulzbacher Straße
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.2.: CarSharing in München ? Verlängerung des laufenden Pilotversuchs um 1 Jahr bis zum 31.03.2016; Sitzungsvorlage Nr.: 14-20 / V 02237 Beschluss des Kreisverwaltungsausschusses vom 27.01.2015;
+- TOP 5.3.3.: Freisinger Landstraße / Oberjägerstraße ? Auflassung des Fußweges und des Grünstreifens in der Grünanlage und Ausbau in einen Fuß- und Radweg (Information des Baureferats)
+- TOP 5.3.6.: Antrag für eine Fußgängerampel in der Walter-Gropius-Straße (Stellungnahme des Kreisverwaltungsreferats zu einem Bürgeranliegen)
+- TOP 5.3.7.: Erweiterung der Allianzarena nur mit einem neuen Verkehrskonzept Antwort des Referats für Stadtplanung und Bauordnung auf den Antrag (08-14 / A 05241) der Stadtratsfraktion Bürgerliche Mitte - FW/ÖDP/BP
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.3.: Schnellere medizinische Erstuntersuchung von Asylbewerbern in der Bayernkaserne BV-Empfehlungen 08-14 / E 00097 und E 00089 Beschlussentwurf für den Sozialausschuss am 16.04.2015
