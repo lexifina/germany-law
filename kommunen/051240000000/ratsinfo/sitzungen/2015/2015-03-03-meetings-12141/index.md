@@ -1,0 +1,58 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-03-03T16:04:00+01:00
+- Ende: 2015-03-03T17:55:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12141
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12141
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand: 20.02.2015) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00177392.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00178777.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: WSW-Fernwärmestrategie (Mündliche Berichterstattung)
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2013/2014 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan GMW 2015 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 4: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 4.1: Schaffung eines Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 4.2: Neubauvorhaben Klingelholl - ungeändert beschlossen
+- TOP 4.3: Änderung des medizinischen Leistungsangebotes der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 4.4: Benennung des Wirtschaftprüfers für den Jahresabschluss 2014 der APH Service GmbH - ungeändert beschlossen
+- TOP 4.5: Bericht über die Weiterentwicklung und Stärkung der Bergischen Kooperation - Entgegennahme ohne Beschluss
+- TOP 4.6: Verkauf eines bebauten Grundstücks Neviandtstraße (vorher 15.1 nichtöffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Stand der Schulden und Kassenkredite zum 31.12.2014 - Entgegennahme ohne Beschluss
+- TOP 6.2: Externe Einstellungen im Zeitraum Januar - Dezember 2014 - Entgegennahme ohne Beschluss
+- TOP 6.3: Finco-Bericht zum 31.12.2014 / vorläufiger Jahresabschluss 2014 - Entgegennahme ohne Beschluss
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Übersicht über die finanziellen Mehrbelastungen bzw. Einnahmenrückgänge der Kommunen durch Einwirkung von Bundes- oder Landesgesetzen - Entgegennahme ohne Beschluss
+- TOP 8: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 8.1: Änderung der Zuständigkeitsordnung (§ 5) - ungeändert beschlossen
+- TOP 8.1.1: Bericht über die Änderung der Zuständigkeitsordnung (§ 5) - Entgegennahme ohne Beschluss
+- TOP 8.2: Dienstanweisung für den Abschluss und die Abwicklung von Finanzgeschäften - Entgegennahme ohne Beschluss
+- TOP 8.3: Nachfolgenutzung des Gaskessels Heckinghausen - zur Entscheidung verwiesen
+- TOP 8.4: Neubau der Brücke Remlingrade - ungeändert beschlossen
+- TOP 8.5: Annahme einer Sachspende in Form einer Gebäudebeschilderung des "Grünen Zoo Wuppertal" - Neues Zoologo und Werbeanlage - - ungeändert beschlossen
+- TOP 8.6: Grundsatzbeschluss zur Vornahme von erforderlichen Maßnahmen in Bezug auf das EU-Beihilferecht - ungeändert beschlossen
+- TOP 8.7: Bestellung eines Vertreters in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 8.8: Große Anfrage dfer Ratsfraktion DIE LINKE vom 03.02.2015 - Fremdwährungskredite Beteiligungsgesellschaften der Stadt - Entgegennahme ohne Beschluss
+- TOP 8.8.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE zu Fremdwährungskrediten - Entgegennahme ohne Beschluss
+- TOP 8.9: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 10.02.2015 - Nachtragshaushalt - abgelehnt
+- TOP 8.10: Große Anfrage der WfW-Fraktion vom 11.02.2015 - Die Wählergemeinschaft für Wuppertal (WfW) hat Fragen zur EDW Energie-Dienstleistung Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 8.10.1: Antwort auf die Große Anfrage der WfW-Fraktion zur EDW vom 11.02.2015 - Entgegennahme ohne Beschluss
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 10: Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2014 des WAW - ungeändert beschlossen
+- TOP 11: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das IV. Quartal 2014 - Entgegennahme ohne Beschluss
+- TOP 12: Berichte und Mitteilungen
