@@ -1,0 +1,6 @@
+# TOP 4.: Finanzangelegenheiten
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (68. Sitzung) (2015-03-03)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/44439
