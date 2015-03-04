@@ -1,0 +1,54 @@
+# 2. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-03-04T10:00:00+01:00
+- Ende: 2015-03-04T13:40:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-PA-26
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-PA-26
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2015-PA-26
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2015-PA-26
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Verpflichtung sachkundiger Bürger
+- TOP 1.3: Genehmigung der Niederschrift der 01. Sitzung des Planungsausschusses vom 21.11.2014
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Haushalt 2015 - Haushalt 2015 für den Bereich Planung
+- TOP 3: Angelegenheiten nach Landesplanungsgesetz
+- TOP 3.1: Information über die Ausrichtung der neuen Förderphase: Operationelles Programm NRW 2014-2020 für den Europäischen Fonds für regionale Entwicklung (OP EFRE NRW) hier: Berichterstattung
+- TOP 3.2: Jahresbericht 2014 zur ländlichen Entwicklung und Bodenordnung im Gebiet des Regionalverbandes Ruhr
+- TOP 3.3: Bericht über die Fördermöglichkeiten des NRW-Programms Ländlicher Raum für die Förderperiode 2014 – 2020 (Bereiche LEADER, Dorfentwicklung, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze, Breitband)
+- TOP 3.4: Städtebauförderung hier: Abwicklung des Städtebauförderprogramms 2014
+- TOP 3.5: Förderprogramm 'Kommunaler Straßenbau'; Rückblick auf 2014 hier: Unterrichtung
+- TOP 3.6: Förderprogramm 'Kommunaler Straßenbau' hier: Unterrichtung und Beschlussfassung
+- TOP 3.7: Förderprogramm 'Nahmobilität'; Rückblick auf 2014 hier: Unterrichtung
+- TOP 3.8: Förderprogramm 'Nahmobilität 2015' hier: Unterrichtung und Beschlussfassung
+- TOP 3.9: Änderungsverfahren 20 OB (Vestische Straße) zum Regionalen Flächennutzungsplan – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 3.10: Anträge
+- TOP 3.11: Anfragen und Mitteilungen
+- TOP 3.11.1: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 3.11.2: Anfrage zu Fahrzeugen für den Bevölkerungsschutz Drucksache 13/0004 hier: Antwort auf die Anfrage der CDU-Fraktion
+- TOP 4: Regionaler Diskurs/ Regionalplan Ruhr
+- TOP 4.1: Regionalplanung und Regionalentwicklung in der Metropole Ruhr: Aktueller Sachstand
+- TOP 4.2: Ideenwettbewerb zur Zukunft der Metropole Ruhr / Regionaler Diskurs Hier: Zukünftige Besetzung und Aufgaben des Beirats
+- TOP 5: Angelegenheiten nach RVR-Gesetz
+- TOP 5.1: Planfeststellungsverfahren nach §§ 18 ff Allgemeines Eisenbahngesetz (AEG) für den dreigleisigen Ausbau der Strecke 'ABS 46/2 D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.1 Oberhausen' 2. Anhörungsverfahren (2014) Hier: Stellungnahme des RVR
+- TOP 5.2: Stellungnahme des RVR als Träger öffentlicher Belange zum Ausbau der RRX-Kernstrecke Köln – Düsseldorf – Duisburg – Essen – Bochum – Dortmund (– Hamm), Planfeststellungsabschnitt 5a (Essen) Hier: Stellungnahme des RVR
+- TOP 5.3: Stellungnahme des RVR als Träger öffentlicher Belange zum Ausbau der RRX-Kernstrecke Köln – Düsseldorf – Duisburg – Essen – Bochum – Dortmund (– Hamm), Planfeststellungsabschnitt 5b (Bochum) Hier: Stellungnahme des RVR
+- TOP 5.4: Regionale Informationsveranstaltung Baustellenplanung – Region Ruhr von Straßen.NRW
+- TOP 5.5: Fahrradverleihsystem Metropolradruhr Hier: Sachstandsbericht
+- TOP 5.6: Radschnellweg Ruhr RS1 Hier: Kernaussagen der Machbarkeitsstudie und Perspektiven
+- TOP 5.7: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Sachstandsbericht
+- TOP 5.8: Planfeststellung für den Bau der A 52 vom AK Essen-Nord (B 224) bis AD Essen/ Gladbeck (m), im Abschnitt Teil 02 (Stadtgebiet Gladbeck) Hier: Stellungnahme des RVR
+- TOP 5.9: Geonetzwerk metropoleRuhr
+- TOP 5.10: (un)konventionelle Gewinnung von Erdgas, Erdwärme und Grubengas
+- TOP 5.11: Anträge
+- TOP 5.12: Anfragen und Mitteilungen
+- TOP 5.12.1: Stadtverträgliche LKW-Navigation
+- TOP 5.12.2: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
