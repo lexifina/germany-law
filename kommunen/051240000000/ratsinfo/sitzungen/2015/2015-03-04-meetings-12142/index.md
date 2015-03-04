@@ -1,0 +1,96 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-03-04T17:03:00+01:00
+- Ende: 2015-03-04T17:20:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12142
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12142
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (2) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00177796.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00178483.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Wahl eines Beigeordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Die Wählergemeinschaft für Wuppertal (WfW) hat Fragen zur Beteiligung der WSW GmbH am Hochtemperatur-Reaktor in Hamm-Uentrop
+- TOP 2.2: Umsetzung des Ratsbeschlusses zu Verkehrsinformationen vom 30.9.2014
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Aufenthaltsbeendende Maßnahmen gegen Antragsteller aus sicheren Drittstaaten - abgelehnt
+- TOP 4.2: Resolution : Solidarität mit „Charlie Hebdo“ und Konsequenzen aus den Ereignissen für die Region - abgelehnt
+- TOP 4.3: Leitbild Schwebebahnstadt - abgelehnt
+- TOP 4.4: Der Wuppertaler Haushalt wird geschlechtergerecht - vertagt auf Rat
+- TOP 4.5: Verlängerung der Sambatrasse, Ausbau der Trasse Loh - Hatzfeld
+- TOP 4.6: Nachtragshaushalt - abgelehnt
+- TOP 4.7: Umsetzung des „Asyl-Kompromisses“ statt mehr Kapazitäten für Asylbewerber – keine weiteren Asylheime in Wuppertal - abgelehnt
+- TOP 4.8: „Ein Bündnis für Fairness“ – Primark soll beitreten - vertagt auf Rat
+- TOP 4.8.1: Resolution für die Unterzeichnung des Bündnisses für Fairness in der Textilbranche - vertagt auf Rat
+- TOP 4.9: Schulbusse für den Katernberg einsetzen - zurückgestellt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 6.1.1: Bericht über die Änderung der Zuständigkeitsordnung - Entgegennahme ohne Beschluss
+- TOP 6.1.2: Dienstanweisung für den Abschluss und die Abwicklung von Finanzgeschäften - Entgegennahme ohne Beschluss
+- TOP 6.2: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie Obdachlose der Stadt Wuppertal (4. Änderungssatzung) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan der Jobcenter Wuppertal AöR für das Geschäftsjahr 2015 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan GMW 2015 - ungeändert beschlossen
+- TOP 8.3: Änderung des medizinischen Leistungsangebotes der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplanverfahren 869 - Radenberg - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1122 - Ostpreußenweg - Ost - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 790 -Charlottenstraße / Brunnenstraße- 1. Änderung des Bebauungsplanes mit Flächennutzungsplanberichtigung 84B -Satzungsbeschluss- - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1182 - Friedrich-Ebert-Straße / Haarhausstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1199 - Gathe / Paradestraße - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 654 - Otto-Hausmann-Ring - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1175 - Gathe / Ludwigstraße - Markomannenstraße - - geändert beschlossen
+- TOP 9.8: Bebauungsplan 1198 - Waldeckstraße / Auf der Bleiche - - ungeändert beschlossen
+- TOP 9.9: Planfeststellungsverfahren für den sechsstreifigen Ausbau der A 46 zwischen der Brücke Westring und dem Sonnborner Kreuz - ungeändert beschlossen
+- TOP 9.9.1: Ergänzung der Stellungnahme zum sechsstreifigen Ausbau der A 46 zwischen der Brücke Westring und dem Sonnborner Kreuz - ungeändert beschlossen
+- TOP 9.10: Bebauungsplan 1204 - Reuterstraße / Lessingstraße - ungeändert beschlossen
+- TOP 9.11: Bebauungsplan 1211 - Kohlstraße - - ungeändert beschlossen
+- TOP 9.12: Bebauungsplan 1183 -Wendehammer Am Opphof- -Satzungsbeschluss- - ungeändert beschlossen
+- TOP 9.13: Bebauungsplan 1200 - Vogelsangstraße / Vogelsangbach - - ungeändert beschlossen
+- TOP 9.14: Bebauungsplan 486 - Sonnenblume - - ungeändert beschlossen
+- TOP 9.15: Aufhebung überholter Planverfahren im Stadtbezirk Cronenberg - ungeändert beschlossen
+- TOP 9.16: Stellungnahme der Stadt Wuppertal zum Regionalplan-Entwurf Düsseldorf - ungeändert beschlossen
+- TOP 9.17: Bebauungsplan 1191V - Kaiserstraße - - ungeändert beschlossen
+- TOP 9.18: Bebauungsplan 1202 - Einrichtungshaus Dreigrenzen - - ungeändert beschlossen
+- TOP 9.19: 90. Änderung des Flächennutzungsplanes (Einrichtungshaus Dreigrenzen) - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung des Gymnasiums am Kothen, Schluchtstr. 34, 42285 Wuppertal - ungeändert beschlossen
+- TOP 10.2: Neubau einer städtischen Tageseinrichtung für Kinder Rudolfstraße - ungeändert beschlossen
+- TOP 10.3: Umbau der Förderschule Rosegger Str. 8 und Inbetriebnahme der Tageseinrichtung für Kinder - ungeändert beschlossen
+- TOP 10.4: Neubau der Städtischen Tageseinrichtung für Kinder Wilkhausstraße 131/133 - ungeändert beschlossen
+- TOP 10.5: Neubau der Brücke Remlingrade - ungeändert beschlossen
+- TOP 10.6: Neubauvorhaben Klingelholl - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Grundsatzbeschluss zur Vornahme von erforderlichen Maßnahmen in Bezug auf das EU-Beihilferecht - ungeändert beschlossen
+- TOP 11.2: Annahme einer Schenkung - ungeändert beschlossen
+- TOP 11.3: Antrag auf Genehmigung der Erhöhung der Zügigkeit eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.4: Erhöhung der Zuwendungsmittel für die offene Ganztagsschule ab dem 01.02.2015 - ungeändert beschlossen
+- TOP 11.5: Erweiterter Ausbau der offenen Ganztagsschule zum Schuljahr 2015/16 um 175 Plätze - ungeändert beschlossen
+- TOP 11.6: Bericht über die Weiterentwicklung und Stärkung der Bergischen Kooperation - Entgegennahme ohne Beschluss
+- TOP 11.7: Nachfolgenutzung des Gaskessels Heckinghausen - vertagt auf Rat
+- TOP 11.8: Schaffung eines Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 11.9: Annahme einer Sachspende in Form einer Gebäudebeschilderung des "Grünen Zoo Wuppertal" - Neues Zoologo und Werbeanlage - - ungeändert beschlossen
+- TOP 11.10: Schulentwicklungsplanung für die Berufskollegs der Stadt Wuppertal bis 2019 - Ergänzung der Drucksache VO/0692/14 - ungeändert beschlossen
+- TOP 11.11: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - Entgegennahme ohne Beschluss
+- TOP 11.12: Verkauf eines bebauten Grundstücks Neviandtstraße - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Berufung von beratenden Mitgliedern in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Antrag auf Aufnahme als beratendes Mitglied in den Seniorenbeirat Wuppertal - ungeändert beschlossen
+- TOP 12.3: Bestellung eines Vertreters in der Verbandsversammlung des VRR - ungeändert beschlossen
+- TOP 12.4: Ehrenrat - Benennung der bürgerschaftlichen Mitglieder
+- TOP 12.5: Benennungen für die Kommission für eine Kultur des Erinnerns - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.7: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Oberbürgermeisterwahl am 13. September 2015 - vertagt auf Rat
+- TOP 12.8: Umbesetzung Hauptausschuss - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.10: Umbesetzung im Ausschuss für Verkehr - ungeändert beschlossen
