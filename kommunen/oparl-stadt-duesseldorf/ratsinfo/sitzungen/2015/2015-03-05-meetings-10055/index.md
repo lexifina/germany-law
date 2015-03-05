@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-03-05T14:00:00+01:00
+- Ende: 2015-03-05T20:25:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10055
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10055
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234568.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234568.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00234568.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 2.1: Anfrage aktuell CDU: Notfallversorgung in Düsseldorf sicherstellen - beantwortet
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage Die Linke: Aufzeichnung der Ratssitzungen - beantwortet
+- TOP 3.2: Anfrage Rf Kraft-Dlangamandl: 70. Jahrestag der Befreiung vom Faschismus - beantwortet
+- TOP 3.3: Anfrage des Ratsherrn Blanchard: Rheinbahn-Tickets für Flüchtlinge - beantwortet
+- TOP 3.4: Anfrage der Ratsfraktion DIE LINKE: Abschiebungen 2014 - beantwortet
+- TOP 3.5: Anfrage des Ratsherrn Maniera: Asylbewerber aus Kosovo - beantwortet
+- TOP 3.6: Anfrage des Ratsherrn Maniera: Problemhäuser in Düsseldorf - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Jägerhofstr. 1, Theatermuseum – Dachsanierung - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 7: Realisierung von städtischen Schul- und sonstigen Hochbaumaßnahmen über eine 100%ige städtische Toch - mehrheitlich beschlossen
+- TOP 8: Zweckverband Verkehrsverbund Rhein Ruhr - einstimmig beschlossen
+- TOP 9: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - mehrheitlich beschlossen
+- TOP 10: 2. Änderung des Landschaftsplans der Landeshauptstadt Düsseldorf "Elbsee" - einstimmig beschlossen
+- TOP 11: Annahme von Spenden im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen in der Landesh - einstimmig beschlossen
+- TOP 12: Vergabe Käutner-Preis - einstimmig beschlossen
+- TOP 13: Annahme einer Schenkung für das Filmmuseum - einstimmig beschlossen
+- TOP 14: Annahme einer Schenkung für das Hetjens-Museum - einstimmig beschlossen
+- TOP 15: Stiftung Gerhart-Hauptmann-Haus, Besetzung des Kuratoriums - einstimmig beschlossen
+- TOP 16: Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 17: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 18: BPl03/004-Nördl.Suitbertus-Stell;Änd;Satzung - mehrheitlich beschlossen
+- TOP 19: BPl Nr 5576/78-Innenstadt- Änderungen gem. § 13 BauGB - einstimmig beschlossen
+- TOP 20: Fortschreibung des Regionalplans Düsseldorf (RPD) - mehrheitlich beschlossen
+- TOP 20.1: ÄA Bü90-Grü und FDP: Fortschreibung des Regionalplans Düsseldorf (RPD) - mehrheitlich beschlossen
+- TOP 20.2: Änderungsantrag SPD,Bü90-Grü und FDP: Fortschreibung des Regionalplans Düsseldorf (RPD) - mehrheitlich beschlossen
+- TOP 20.3: Änderungsantrag der CDU-Ratsfraktion: Fortschreibung des Regionalplans Düdsseldorf (RPD) - zurückgezogen
+- TOP 21: Änderung der Satzung des Seniorenbeirates - einstimmig beschlossen
+- TOP 22: Antrag des Seniorenbeirats - zur Kenntnis genommen
+- TOP 23: Anträge
+- TOP 23.1: Antrag der CDU-Ratsfraktion: Seniorenbeirat stärken - zurückgezogen
+- TOP 23.2: Antrag CDU: Flüchtlinge in Düsseldorf - mehrheitlich abgelehnt
+- TOP 23.3: Antrag Die Linke: Bäderkonzept 2020 - zurückgezogen
+- TOP 23.4: Antrag Die Linke: Steuervermeidung zu Lasten Düsseldorfs
+- TOP 23.5: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Städtische Liegenschaften
+- TOP 23.6: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Albrecht-Dürer-Berufskolleg:
+- TOP 23.6.1: Antrag der CDU-Ratsfraktion: Planungssicherheit für Albrecht-Dürer-Berufskolleg
+- TOP 23.7: Antrag der CDU-Ratsfraktion: Ausgewogene Verteilung der Flüchtlingsunterkünfte - zur Kenntnis genommen
+- TOP 24: Einkünfte aus Nebentätigkeiten im Jahr 2014 für Herrn OB a.D. Elbers und OB Geisel - zur Kenntnis genommen
