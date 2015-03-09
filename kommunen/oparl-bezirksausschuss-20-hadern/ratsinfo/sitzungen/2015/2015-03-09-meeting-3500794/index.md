@@ -1,0 +1,93 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-03-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3500794
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3500794
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.2.: Parkmöglichkeiten für Anwohner rund um die U-Bahn Haltestelle Großhadern bei Belegung der Parkplätze durch U-Bahn Pendler
+- TOP 1.3.: Taubenfütterung und Vermüllung im Bereich zwischen Max-Lebsche-Platz und Immastraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4.1.: Buslinien 266 und 268 (Fraktion Bündnis 90 / Die Grünen)
+- TOP 4.2.: Tempo 60 für A 96 (Fraktion Bündnis 90 / Die Grünen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, Sommerfest am 04. - 07.06.2015 (Kreisverwaltungsreferat, 12.02.15)
+- TOP 6.3.: Stadtteilkultureinrichtung "Guardini 90" (Arbeitstitel), Vorläufiges Betriebskonzept (Kulturreferat, 28.01.15) (Vertagung aus der BA-Sitzung am 09.02.15)
+- TOP 6.4.: Mittelfristige Finanzplanung 2014-2018, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2015 bis 2019 (Stadtkämmerei, 23.02.15)
+- TOP 6.5.: Neufriedenheimer Platz; 80 Jahrfeier der Siedlervereinigung der Kurparksiedlung am 12.07.15 (Kreisverwaltungsreferat, 24.02.15)
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.2.: Rolandseckstr. 10, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2017
+- TOP 7.3.: Hohenklingenstr. 6, 4 Birken
+- TOP 7.4.: Wildtaubenweg 16-24, 1 Bergahorn
+- TOP 7.5.: Willibaldstr. 130, 1 Robninie
+- TOP 7.6.: Würmtalstr. 178, 1 Schwarzkiefer
+- TOP 7.1.: Liste des Baureferates vom 10.02.15
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Stiftsbogen 89 (Kreisverwaltungsreferat, 18.11.14)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München: Sauerbruchstraße Fernwärme (SWM, 02.02.15)
+- TOP 8.3.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 12.01.2015 (Sozialreferat, 03.02.2015)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Kruckenburgstraße (Sozialreferat, 27.01.15) - Am Wiesenbach (Sozialreferat, 05.02.15)
+- TOP 8.6.: Vollzug der Straßenverkehrsordnung, hier: §§ 29 und 32 StVO Filmaufnahmen auf öffentlichem Verkehrsgrund: Jahresgenehmigung für "Verbrechen aus Leidenschaft" und "Hilf mir! Jung, Pleite, verzweifelt" (Kreisverwaltungsreferat, 12.02.15)
+- TOP 8.7.: Besprechungsprotokoll Termin 16.01.15 Vorstudie Einhausung A96 (Referat für Stadtplanung und Bauordnung, 11.02.15)
+- TOP 8.8.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen; Pkw-Parkzone (Kreisverwaltungsreferat, 19.12.14)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Reinigung der Schulsporthallen im Stadtbezirk 20 Hadern (Referat für Bildung und Sport, 27.01.15)
+- TOP 9.2.: Wartehäuschen an der Bushaltestelle U-Bahnhof Großhadern (Referat für Arbeit und Wirtschaft, 28.01.15)
+- TOP 9.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Referat für Gesundheit und Umwelt, 03.02.15)
+- TOP 9.5.: Am Wiesenbach 6, Neubau 2er Mehrfamilienhäuser mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 06.02.15)
+- TOP 9.6.: Grünanlage Am Wiesenhang / Platanenstraße Aufstellen einer naturnahen Bank mit Mülleimer; Fläche unterhalb des Basketballkorbes (Baureferat, 10.02.15)
+- TOP 9.7.: Wegeunterhalt westlich Max-Lebsche-Platz bis Stadtgrenze bzw. Am Klopferspitz (Baureferat, 10.02.15)
+- TOP 11: Verschiedenes
+- TOP 11.3.: Einladung zur KVR-Infoveranstaltung für die Bezirksausschüsse am 22. April 2015 (Kreisverwaltungsreferat, 16.02.15)
+- TOP 11.6.: Einladung zum Informationsgespräch im Referat für Bildung und Sport (Referat für Bildung und Sport, 18.02.15)
+- TOP 11.5.: Informationsveranstaltung Denkmalschutz (Referat für Stadtplanung und Bauordnung, 12.02.2015)
+- TOP 12.2.: Beschluss vom 28.01.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02255: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 12.1.: Beschluss des Sozialausschusses vom 15.01.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02204 (nach Antrag): Unterbringung von Flüchtlingen und Wohnungslosen (Kenntnisnahme)
+- TOP 12.2.: Beschluss des Bauausschusses vom 10.02.2015 zur Sitzungsvorlage Nr. 14-20 / V 02127 (nach Antrag): Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing, insbesondere zum Anschluss der Blumenau gemäß Empfehlung der Bürgerversammlung vom 28.9.2011 Nr. 08-14/E 01051 auf Anschluss der ?Blumenau? an das U-Bahn-Netz. Dieser wird bereits durch den Beschluss des Bauausschusses vom 16.7.2013 und die vergebenen Planungsarbeiten teilweise entsprochen (Seite 4). Ein Abzweig in Richtung ?Blumenau? könne offengehalten werden (Beschluss des Bauausschusses vom 16.7.2013 zur BV 08-14/V 12297). Dagegen lehnt das Baureferat, HA Ingenieurbau, unter Berufung auf den Be-schluss der Vollversammlung vom 23.11.2000 einen Bahnhof ?Blumenau? an der Verlängerungsstrecke vom ?Laimer Platz? nach ?Pasing? weiterhin ab. Bereits bei früheren Untersuchungen habe sich ergeben, dass bei einer Führung der Verlängerungsstrecke über die ?Blumenau? nach ?Pasing? ein U-Bahnhof ?Am Knie? wegen der Einhaltung der trassierungstechnisch erforderlichen Mindest- Radien nicht mehr möglich sei. Dieser U-Bahnhof sei aber erforderlich (Beschluss des Planungsausschusses vom 12.11.2014 zur BV Nr. 14-20/V 01428). Auf die Stellungnahme des BA Hadern vom 16.1.2015 (Anlage 9) wird Bezug genommen.
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.2015 zur Sitzungsvorlage-Nr. 14-20 / V 01945 (nach Antrag): Fortschreibung des jährlichen Spielflächenversorgungsplanes, insbesondere der kartographischen Darstellung mit Bereitstellung der Daten in digitaler Form (GeoInfoWeb).
+- TOP 12.1.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015 zur Sitzungsvorlage-Nr. 14-20 / V 01341 (am 21.01.2015 vertagt): Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, insbesondere der GWG und GeWoFAG, die beide zwischenzeitlich zur Wirtschaftlichkeit Stellung genommen haben.
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 21.01.2015 zur Sitzungsvorlage-Nr. 14-20 / V 01995 (wurde zur Kenntnis genommen): Bericht zur Wohnungssituation in München 2012 - 2013, insbesondere in Hadern, wo es 2.534 Wohnungen im Einflussbereich der Stadt gibt (Seite 98).
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Heimat- und Volkstrachtenverein Waldfrieden München-Großhadern e.V. Beschaffung eines Bodenbelages (Direktorium, 05.02.15) - <div>nach Antrag</div>
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 6.6.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßigee BA-Sitzungen (Direktorium, 24.02.15)
+- TOP 5.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Aufführungen im Rahmen des Tanz- und Theaterfestivals Rampenlichter vom 24.06. bis 04.07.2015 - <div>nach Antrag</div>
+- TOP 5.4.: (E) Budget der Bezirksausschüsse Elternbeirat Grundschule München an der Blumenauer Straße Projektwoche ?Tanz, Trommeln und Theater? vom 15. bis 19.06.2015 - <div>nach Antrag</div>
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bauliche Mängel bei den Übergängen an den Radwegen in der Ossingerstraße
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.3.: Fahnenmasten für die Blumenau (SPD-Fraktion)
+- TOP 5.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 über Sondernutzungserlaubnis: Aufstellen eines Zeitungsentnahmekastens in der Guardinistr. 1, Würmtalstr. 130 und Würmtalstr. 159 (Kreisverwaltungsreferat, 12.02.15)
+- TOP 6.2.: Verkehrsrechtliche Anordnung, hier: Halteverbot Farnweg (Kreisverwaltungsreferat, 10.02.15)
+- TOP 7: Baumschutz
+- TOP 7.1.: Hallgartenstr. 5, gem. Baumbestandsplan Nr. 28115
+- TOP 7.7.: Waldklausenweg 33, 2 Douglasien
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.2.: Würmtalstr. 178 (Referat für Stadtplanung und Bauordnung, 02.03.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 8.4.: Protokoll BA-Treffen Behindertenbeirat Januar 2015 (Sozialreferat, 02.02.15)
+- TOP 9.3.: Münchner Wochen- und Bauernmärkte - mobile Gestellung Toilettencontainer (Kommunalrefrat, 27.01.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate (Antrag des BA 21 Pasing-Obermenzing Nr. 14-20 / B 00835 Ziffer 1, 03.02.15)
+- TOP 11.2.: Inhouse-Seminar "Praxisbezogene Baumkontrolle" Fortbildung für die neu gewählten Baumschutzbeauftragten der Bezirksausschüsse (Referat für Stadtplanung und Bauordnung, 06.02.15)
+- TOP 11.4.: Informationsveranstaltung der SWM am 23.03.2015 um 18.00 Uhr (swm, 09.02.15)
+- TOP 11.7.: Inforamtionsveranstaltung zum Thema "Budget der Bezirksausschüsse" am 06.05.15 (Direktorium, 02.03.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.11.2014 zur Sitzungsvorlage-Nr. 14-20 / V 01374: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 und zur Fortschreibung im Bauprogramm 2012/2013 - Fortschreibung im Bauprogramm 2014 - Änderung des Entwurfes des Mehrjahresinvestitionsprogrammes 2014-2018
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.2015 zur Sitzungsvorlage-Nr. 14-20 / V 00567 (nach Antrag, der jedoch in Punkt 3, wie folgt, ergänzt wird: ?Das Sozialreferat/Stadtjugendamt wird beauftragt, das Projekt bis zum Sommer 2016 zu evaluieren und nach vorliegenden Ergebnissen dem Stadtrat einen Be-schluss zur Entscheidung über eine mögliche Weiterförderung des Projektes vor-zulegen.?):: Mädchen und junge Frauen in München, Umsetzung eines Modellprojektes zur geschlechtshomogenen, parteilichen Arbeit mit Mädchen und jungen Frauen in der Blumenau, Bearbeitung übertragbarer Studienergebnisse im Sozial- sowie Kinder- und Jugendhilfeausschuss, insbesondere zum ?Treff 21?, Erweiterung der Leistungsbeschreibung (Modellprojekt Blumenau, Anmietung von 100 m² Nutzfläche, Förderbedarf 180.000,--?, Personalkosten 49.750,--? für eine ¾ -Planstelle), Einladung zum ?Runden Tisch?
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
