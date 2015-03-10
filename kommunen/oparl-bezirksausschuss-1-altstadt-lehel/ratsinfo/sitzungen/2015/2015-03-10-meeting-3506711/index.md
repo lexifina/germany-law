@@ -1,0 +1,95 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Mieterbeiratswahl 2015 ? Entsendung eines Mitgliedes
+- TOP .1.: Stilllegung von langfristigen Baustelleneinrichtungen in der Sendlinger Straße vermeiden, BV-Empfehlung Nr. 14-20/E 00346 (Ziffer 2) vom 04.12.2014, Beschlussvorlage Nr. 14-20/V V 02419 des Kreisverwaltungsreferats
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Dienerstr. 20: Umbau und Aufstockung eines Büro- und Geschäftshauses ? Vorbescheid (vertagt aus 2014.05 B 3.1.5)
+- TOP .2.: Riedlstr. 3: Abbruch und Neubau eines Wohnhauses mit dreigeschossigem Parksystem ? Vorbescheid (vertagt aus 2015.02 B 3.1.5, Bauherr zu UA-Sitzung eingeladen!)
+- TOP .3.: Müllerstr. 26: Errichtung eines Wohn- und Geschäftshauses mit Tiefgarage - Vorbescheid
+- TOP .4.: Maximilianstr. 30-30a: Nutzungsänderung von Stehimbiss mit Ladenverkauf in Gaststätte (RGB)
+- TOP .5.: Mariannenstr. 5: Umbau einer Wohneinheit, Aufstockung und Neuerrichtung eines Dachgeschosses
+- TOP .6.: Residenzstr. 7: Umbau eines Ladengeschäfts im EG und Nutzungsänderung von Bürofläche zu Laden im 1. OG - Tektur
+- TOP .7.: Theatinerstr. 8: Nutzungsänderung Einzelhandelsfläche/1. OG mit Umbaumaßnahmen ? Vorbescheid
+- TOP .8.: Sattlerstr. 1: Teilnutzungsänderung und Umbau ?Wohnungen und Büro? in ?Boardinghaus? sowie ?Büro und Geldautomatenraum? in ?Espresso-Bar? im Erdgeschoss - Tektur
+- TOP .9.: Josephspitalstr. 6: Vordergebäude: Nutzungsänderung zweier Wohnungen in eine physiotherapeutische Praxis
+- TOP .10.: Dultstr. 1: Umbau mit Aufstockung eines Wohn- und Geschäftshauses sowie Nutzungsänderung einer Gastronomieeinheit in eine Apotheke - Tektur
+- TOP .11.: Frauenplatz 2: Erweiterung der Freischankfläche, Einbau von Schirmsockeln
+- TOP .1.: Steinsdorfstr., zwischen Zweibrückenstr. und Ländlstr., Fahrbahnsanierung (vertagt aus 2015.02 B 3.2.5 N)
+- TOP .2.: Widenmayerstr. 36-46, zwischen Rosenbuschstr. und Ifflandstr., Fahrbahnsanierung
+- TOP .3.: Von-der-Tann-Straße (Südseite), zwischen Hausnr. 5 und Franz-Josef-Strauß-Ring, Fahrbahnsanierung
+- TOP .4.: Isartorplatz, zwischen Frauenstr. und Thomas-Wimmer-Ring, Fahrbahnsanierung
+- TOP .2.1: Gaststätten
+- TOP .1.: Kardinal-Faulhaber-Str. 10, Gaststätte ?Pageou?, Errichtung einer Freischankfläche
+- TOP .2.: Tal 8, Erweiterung einer bestehenden Freischankfläche (vertagt aus 2015.02 C 2.1.2 N)
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Spielabende des Sportamtes, Marienhof, jeden Sonntag von Mai bis Oktober 2015
+- TOP .2.: Japanfest, Englischer Garten am Japanischen Teehaus, 19.07.2015
+- TOP .3.: Nachtrag zum Kunsthandwerkermarkt vom 12.03.-15.03.2015 auf dem Sendlinger-Tor-Platz
+- TOP .4.: Italienischer Markt vom 12.04.-22.04.2015 auf dem Sendlinger-Tor-Platz
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.: Adelgundenstr. 17, Antrag auf Baumfällung
+- TOP 5.2.: Verbreiterung der Gehbahn vor Triftstraße 10 (vertagt aus 2015.02 D 3.3)
+- TOP 5.3.: Salvatorstr. 2, Antrag auf Baumfällung einer Robinie
+- TOP 5.1.: Einladung eines Vertreters der Stelle für Interkulturelle Arbeit zur nächsten Sitzung (siehe 2015.02 G 1)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beitritt zur Initiative ?München heißt Flüchtlinge Willkommen? bzw. zum Münchner Bündnis für Toleranz, Demokratie und Rechtsstaat, Information der Fachstelle gegen Rechtsextremismus
+- TOP 0.2.: Umstellung der Software für die Bezirksausschuss-Homepage, BA-Antrag Nr. 14-20/B 00347 des Bezirksausschusses 8 ? Schwanthalerhöhe vom 16.09.2014
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Beschlussvorlage Nr. 14-20 / V 01341 des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015
+- TOP 0.3.: Wohnungsmarkt / Boardinghäuser im Bezirk 1 Altstadt-Lehel, BA-Antrag Nr. 14-20 / B 00793 vom 20.01.2015, Antwortschreiben der Lokalbaukommission
+- TOP 0.4.: Bauvorhaben Dienerstr. 20, Abdruck des Vorbescheids
+- TOP 0.5.: Erbbaurecht, 1. Stadtbezirk Altstadt-Lehel, Müllerstr. 2, Nutzung von Leerstand, Sitzungsvorlage Nr. 14-20 / V 01671 der Vollversammlung vom 28.01.2015
+- TOP 0.6.: Bebauungsplan Kardinal-Faulhaber-Str., Prannerstr., Salvatorstr., Rochusstr., BA-Antrag Nr. 14-20/B 00444 vom 14.10.2014, Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 0.7.: Planfeststellungsverfahren für den Umbau des U-Bahnhofs Sendlinger Tor, Stellungnahme des Referats für Stadtplanung und Bauordnung an die Regierung von Oberbayern
+- TOP 0.8.: Bauvorhaben Riedlstr. 3, Stellungnahme des Referats für Stadtplanung und Bauordnung
+- TOP 0.9.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Sitzungsvorlage Nr. 14-20/V 01341, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015 (SB)
+- TOP 0.10.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis, BV-Empfehlung Nr. 14-20/8E 00276 der Bürgerversammlung des Stadtbezirkes 18 ? Untergiesing-Harlaching am 13.11.2014, Sitzungsvorlage Nr. 14-20/V 02362, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate, Antrag des BA 21 Pasing-Obermenzing Nr. 14-20/B 00835 vom 03.02.15
+- TOP 0.6.: Kunst im öffentlichem Raum -Weißer Lotus, Marienhof vom 12.05.-31.07.2015
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Radwegverbindung vom Tal zum Marienplatz, Antrag Nr. 08-14 / A 04198 der Stadtratsfraktion DIE GRÜNEN/RL vom 23.04.2013, Abdruck einer Zwischeninformation des Baureferates
+- TOP 0.3.: Aufnahme von Straßen und Plätzen in der Messestadt Riem in das Vollanschlussgebiet der städtischen Straßenreinigung, Änderung der Straßenreinigungssatzung, Sitzungsvorlage Nr. 14-20 / V 02025 für den Bauausschuss am 20.01.2015
+- TOP 0.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinenlärmschutzverordnung, Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV, Karolinenstr. zwischen Lerchenfeldstr. und Widenmayerstr.
+- TOP 0.5.: Durchfahrt Altes Rathaus ? das Verkehrschaos entschärfen! Antrag Nr. 08-14/A 05297 der Stadtratsfraktion Bürgerliche Mitte ? FW/ÖDP/BP vom 02.04.2014, Antwortschreiben des Baureferates (mit Bezug zu BA-Antrag Nr. 14-20/B 00383 vom 23.09.2014, Verlegung des Radwegs zwischen Sparkassenstr. und Burgstr.)
+- TOP 0.6.: Einrichtung des Gefahrenzeichens ?Kinder!? (StVO Nr. 136) in der Oettingenstraße vor der Einmündung Seeaustraße, BA-Antrag Nr. 14-20/B 00592 vom 18.11.2014, Antwortschreiben des Kreisverwaltungsreferats
+- TOP 0.7.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen; BV-Empfehlung Nr. 14-20/E 00062 der Bürgerversammlung des Stadtbezirkes 08 ? Schwanthalerhöhe am 24.06.2014, Sitzungsvorlage Nr. 14-20/V 01965, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober, KITA-Jahresstatistik 2013 und 2014, Sitzungsvorlage Nr. 14-20/V 02462, Bekanntgabe im Bildungsausschuss des Stadtrates vom 11.03.20145 (SB)
+- TOP 0.3.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren, Sitzungsvorlage Nr. 14-20/V 02233, Beschlussvorlage des Bildungsausschusses des Stadtrates vom 11.03.2015 (VB)
+- TOP 0.4.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum, BV-Empfehlung Nr. 08-14/E 0147 der Bürgerversammlung des Stadtbezirkes 20 ? Hadern am 26.09.2012, Sitzungsvorlage Nr. 14-20/ V 002269, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP .5.: Veranstaltung ?60 Jahre SOS-Kinderdorf? am 13.05.2015 auf dem Odeonsplatz
+- TOP 1: (E) Maßnahmen zur Lärmminderung und zum Schutz Jugendlicher am Eisbach Empfehlung Nr. 14-20 / E 00350 der Bürgerversammlung des Stadtbezirkes 1 ? Altstadt Lehel am 04.12.2014
+- TOP 2: (E) Trommelverbot im Südteil des Englischen Gartens und Verlegung in den Bereich zur Omnibusstraße Empfehlung Nr. 14-20 / E 00328 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 04.12.2014
+- TOP 3: (E) Aufstellen von Abfalleimern im Isarnahen Bereich Empfehlung Nr. 14-20 / E 00341 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 04.12.2014
+- TOP 4: (E) Bepflanzung in der Sendlinger Straße Empfehlung Nr. 14-20 / E 00344 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 04.12.2014 Begrünung in der Sendlinger Straße (Ziffer 3) Empfehlung Nr. 14-20 / E 00349 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 04.12.2014
+- TOP 5: (E) Blockierung von Parkplätzen durch Mülltonnen in der Altstadt vermeiden Empfehlung Nr. 14-20 / E 00345 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 04.12.2014
+- TOP 5.4: Unterrichtungen (siehe Anlage)
+- TOP 5.0: Bericht
+- TOP 5.1: Anträge und Bürgeranliegen
+- TOP 5.2: Entscheidungen
+- TOP 5.3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 5.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2015 bis 2019
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
