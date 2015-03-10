@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492236
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492236
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 03.02.2015 und 11.02.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 9: Entscheidungsfälle
+- TOP 2.1.: Mieterbeiratswahl 2015
+- TOP 3.4.: (E) Elternbeirat Mittelschule Walliser Straße
+- TOP 3.5.: (E) Stadtteilwoche Sendling-Obersendling
+- TOP 3.6.: (E) Stadtteilfest Regsam
+- TOP 3.7.: (E) Bandfestival
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Vermüllung Machtlfinger-/Boschetsrieder Str.
+- TOP 4.3.: (Antrag) Hundetoiletten entlang des Isartalradweges
+- TOP 5.1.: (A) Satzungsänderungen Vergnügungsveranstaltungen
+- TOP 5.2.: (Antrag) S-Bahn Haltepunkt Menterschwaige
+- TOP 5.3.: (E) Verkaufseinrichtungen Thalkirchner Platz/Emil-Geis-Str.
+- TOP 5.4.: (E) Warenauslage Kistlerhofstr. 88
+- TOP 5.5.: (U) Gaststättenfortführung Graubündener Str. 100
+- TOP 6.7.: (A) MVG-Rad
+- TOP 6.8.: (U) Haltverbot Gmunder Str.
+- TOP 6.9.: (Antrag) Sisha-Bar Drygalski-Allee 118
+- TOP 6.10.: (Antrag) Fuß- und Radweg Industriegleis Aidenbachstr./Machtlfinger Str.
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (U) Zweckentfremdung Kistlerhofstr.
+- TOP 6.3.: (U) Zweckentfremdung Rungestr.
+- TOP 6.4.: (U) Zweckentfremdung Gmunder Str.
+- TOP 6.5.: (U) Zweckentfremdung Mühlthaler Str.
+- TOP 6.6.: (U) Zweckentfremdung Lochhamer Str.
+- TOP 7.1.: (Antrag) Mittagsbetreuung GS Forstenrieder Allee
+- TOP 7.2.: (U) Schulentwicklungsplanung
+- TOP 8.1.: (Antrag) Veranstaltung 50 Jahre Parkstadt Solln
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Heimat und Trachtenverein D'Elbachtaler Solln e.V. Ausstattung mit Vereinsdirndln
+- TOP 3.2.: (E) Budget der Bezirksausschüsse MITA Herterichschule e.V. Beschaffung von Einrichtungsgegenständen
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Cowboy Club München 1913 e.V. Sanierung Herrentoilette
+- TOP 6: (E) Sperrung der Liesl-Karlstadt-Straße für Lkw über 7,5 t - <div></div>
+- TOP 6.11.: (Antrag) Haltverbot Stäblistr./Zufahrt GS Forstenrieder Allee
+- TOP 0.12.: Hofausfahrt am Ratzinger Platz 3 - <div></div>
+- TOP 0.3.: Informationsveranstaltung für Bürgerinnen und Bürger zur Flüchtlingssituation im 19. Stadtbezirk - <div></div>
+- TOP 0.13.: Auskunft verkehrspolitisches Gesamtkonzept
+- TOP 1.6.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> (Antrag) Haltverbot Stäblistr./Zufahrt GS Forstenrieder Allee
+- TOP 1.7.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div>
+- TOP 1: Allgemeiner Teil
