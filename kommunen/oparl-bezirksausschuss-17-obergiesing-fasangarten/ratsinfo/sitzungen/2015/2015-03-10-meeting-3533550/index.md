@@ -1,0 +1,107 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533550
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533550
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Fasangarten - Neubau eines Kindergartens mit Tagesstätte und Abriss des HIT-Marktes am Fasangarten; Bürgerschreiben vom 12.02.2015
+- TOP 2.2.: Raumsuche im 17. Stadtbezirk; Bürgerschreiben vom 07.02.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Bantingstraße 9; 1 Ahorn
+- TOP 2.2.: Fasangartenstraße 92; 1 Esche
+- TOP 2.3.: Hohenwaldeckstraße 28-30; 1 Haselnuss
+- TOP 2.4.: Tegernseer Landstraße 123 / St.-Martin-Straße; 2 Bergahorne, 2 Roßkastanien
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate; Antrag des BA 21 vom 03.02.2015 mit der Bitte um Kenntnisnahme
+- TOP 4.2.: Unterkunft McGraw-Kaserne - Ort für Begegnungen schaffen; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: PA/Spielen in der Stadt e.V., für die Maßnahme: Tanz- und Theaterfestival Rampenlichter - künstlerisch-kulturpädagogische Betreuung; Antragssumme: 1.500,00 ?; Antrag vom 31.01.2015
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben im Einzelfall 6.1.3.1.1 St.-Martin-Str. 24, DG-Ausbau (VGB + RGB), Anbau von Außenaufzügen u. Balkonen, Errichtung einer Dachterrasse, Abbruch Garagen und Neuerrichtung von Garagen mit Duplexparkern - TEKTUR; Anhörung vom 30.01.2015 (vertagt aus der Sitzung vom 10.02.2015)
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Stadtratsantrag Nr. 08-14 / A 04263 vom 17.05.2013; Sitzungsvorlagen Nr. 14-20 / V 01341; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 04.02.2015 (SB)
+- TOP 0.3.: Cincinnatistr. 63a - Abgrabung/Baufeldfreimachung für den Neubau einer Grundschule mit Sporthalle und Kindergarten / "Europäische Schule München"; Erklärung zum Bauvorhaben der Baudienststelle; Schreiben des Referates für Stadtpl. u. Bauordnung vom 29.01.2015
+- TOP 0.1.: Asam-Gymnasium, Schlierseestraße 20, geplante Erweiterung - Vorstellung der Varianten; Vormerkung des RBS zum Termin vom 09.07.2014
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen; Sitzungsvorlage Nr. 14-20 / V 02255; Beschluss der Vollversammlung des Stadtrates vom 28.01.2015
+- TOP 0.2.: Unterbringung von Flüchtlingen und Wohnungslosen; Änderungsantrag der Stadtratsfraktion Die Grünen/RL; Sitzungsvorlage Nr. 14-20 / V 02204; Beschluss des Sozialausschusses vom 15.01.2015
+- TOP 0.1.: Türen für den Spielplatz am Spitzingplatz; Bürgeranliegen (mündl. vorgetragen durch den Kinder- und Jugendbeauftragten - verwiesen aus der Sitzung vom 10.02.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 1.1.: Erinnerungsverfahren; Peitinger Weg zwischen Steingadener Straße und Oberbiberger Straße; Sanierung Gehbahn u. Entwässerungsrinne; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 1.1.: Änderung der Ampelschaltung für Fußgänger im Bereich der Tram-Haltestelle Giesinger Bahnhof und am Tegernseer Platz; Schreiben des BA 17 vom 20.10.2014; Antwortschreiben des KVR vom 27.01.2015
+- TOP 1.2.: Anwohnergarage Deisenhofener Straße - Informationen zur Vermietung von Stellplätzen; Schreiben der P+R Park & Ride GmbH vom 09.02.2015
+- TOP 1.3.: Errichtung von Radverkehrsanlagen zur Erschließung der Schule an der Ichostraße (Ziffer 2 des Antrages); Empfehlung Nr. 08-14 / E 00641 der BÜV vom 01.07.2010; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 28.01.2015
+- TOP 1.4.: Verkehrliche Neuordnung der Tegernseer Landstraße Anträge aus der EWOV zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013 Umsetzung der Variante 1 (Planfall D); BA-Antrag Nr. 08-14 / B 05585 vom 28.01.14 Anzahl der Kurzzeit-Parkplätze erhalten; BA-Antrag Nr. 08-14 / B 05590 vom 28.01.14 Belieferung der Geschäfte ohne Blockierung des Verkehrs; BA-Antrag Nr. 08-14 / B 05591 vom 28.01.14 Mehr Fahrradabstellmöglichkeiten; BA-Antrag Nr. 08-14 / B 05592 vom 28.01.14 Bessere Querungsmöglichkeiten der Tegernseer Landstraße; BA-Antrag Nr. 08-14 / B 05594 vom 28.01.14; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 22.01.2015
+- TOP 1.5.: Parkplätze in München, hier: Weißenseestraße; Bürgeranliegen aus der Sitzung des BA 17 vom 13.01.2015; Antwortschreiben des KVR vom 19.02.2015
+- TOP 1.6.: Zweigleisige Erweiterung der S7 - S-Bahnstrecke und Taktverdichtung der S 7; BA-Antrag Nr. 14-20 / B 00567 vom 11.11.14; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 09.02.2015
+- TOP 1.1.: Schulwegsicherheit in der Wohnanlage Am Perlacher Forst - Ortstermin mit dem KVR; Schreiben des KVR vom 03.02.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Hermelinweg 12; Bescheid vom 06.02.2015 6.4.4.1.2 Stettnerstraße 3; Bescheid vom 13.02.2015 6.4.4.1.3 Marklandstraße 19; Bescheid vom 12.02.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; Kasperles Märchenzelt im Weißenseepark vom 09.04.2015 bis 12.04.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 15.03.2015
+- TOP 0.1.: Korrekturen und Änderungen im Neudruck des KulturGeschichtsPfades 17; Zuleitung des Kulturreferates
+- TOP 0.1.: Tag des offenen Denkmals am 13. September 2015 unter dem Motto "Handwerk, Technik, Industrie"; Anmelde- und Informationsunterlagen
+- TOP 0.2.: Tanz-, Mal- und Gesangsworkshop des What Thai e.V. (buddhistisches Kloster in München); Anfrage bzgl. Durchführung im 17. Stadtbezirk und Einladung zur Besichtigung / zum Kennenlernen des Klosters What Thai
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Lithos in der Brecherspitze", St.-Martin-Straße 38; Mitteilung vom 09.02.15 6.6.4.1.2 Kleingaststätte "Da Enzo", Scharfreiterplatz 8; Mitteilung vom 09.02.15 6.6.4.1.3 SSW "Terreno Bistro Bar Café", St.-Martins-Platz 5; Mitteilung vom 12.02.15 6.6.4.1.4 SSW "Saffers Fattoria", Deisenhofener Str. 80; Mitteilung vom 20.02.15 6.6.4.1.5 SSW ?Brauneck-Stüberl?, Tegernseer Landstraße 34; Mitteilung vom 24.02.15
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Mieterbeiratswahl 2015, Entsendung von Mitgliedern; Schreiben des Sozialreferates vom 19.01.2015 mit der Bitte um Rückmeldung bis 30.03.2015 (vertagt aus der Sitzung vom 10.02.2015)
+- TOP 7.2.: Mittelfristige Finanzplanung 2014 - 2018; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2015 - 2019; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 20. April 2015
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Elektronischer Versand von BA-Sitzungsunterlagen; BA-Antrag Nr. 14-20 / B 00309 vom 10.06.2014; Zwischennachricht des Direktoriums vom 30.01.2015 mit der Bitte um Fristverlängerung bis Ende März 2015
+- TOP 7.2.: Terminüberschneidungen von öffentlichen BA-Sitzungen (Vollversammlung und Unterausschüsse) und öffentlichen Informationsveranstaltungen den BA 17 betreffend vermeiden; BA-Antrag Nr. 14-20 / B 00455 vom 14.10.2014; Antwortschreiben des Sozialreferats vom 03.02.2015
+- TOP 7.3.: Umstellung der Software für die Bezirksausschuss-Homepage; BA-Antrag Nr. 14-20 / B 00347 des BA 8 vom 16.09.2014; Info-Schreiben des Oberbürgermeisters vom 23.02.2015
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1: Verkehrssicherheit durch Zebrastreifen in der Marklandstraße, der Cincinattistraße und der Lincolnstraße; Empfehlung Nr. 14-20 / E 00024 der BÜV des 17. Stadtbezirkes vom 05.06.2014; Sitzungsvorlage Nr. 14-20 / V 02390; Beschluss des BA 17 am 10.03.2015 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
