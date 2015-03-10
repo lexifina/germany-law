@@ -1,0 +1,93 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-03-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484512
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484512
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben des Elternbeirates der Schule und des Hortes an der Schwindstraße Verbesserung der Verkehrssituation an der Kreuzung Görres-/Augustenstraße
+- TOP .2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 10.02.2015 Luxussanierung in der Schönfeldstraße
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 16.02.2015 Brunnen auf dem Georg-Elser-Platz, Sachstand
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Projekt "Begrünung und Verkehrsberuhigung in der Schleißheimer Straße im Abschnitt zwischen Georgenstraße und Maßmannstraße": Warum erfolgte der für das Frühjahr 2014 zugesagte Baubeginn (Planung seit 2009) bisher noch nicht?
+- TOP .4.: Sozialreferat, Amt für Wohnen und Migration, Wohnraumerhalt Leerstand im Anwesen Adalbertstraße 31, Antwortschreiben
+- TOP .5.: Kommunalreferat, Sozialgerechte Bodennutzung, Vorkaufsrechte Antrag des BA 3 vom 11.11.2014, Nr. 14-20 / B 00563, Anwesen Georgenstraße 105
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag der SPD-Fraktion im BA 3 vom 20.12.2014 Überplanung des Gebietes Denisstraße 5 und Karlstraße 77-79 mit dem Ziel, dort Wohn- raum entstehen zu lassen. vertagt aus der Sitzung vom 10.02.2015 vertagt aus der Sitzung vom 13.01.2015 Die Unterlagen liegen bereits vor.
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Abgeschlossenheitsbescheinigungen: 5./6. KW
+- TOP .2.: Neureutherstraße 3, DG-Umbau und energetische Sanierung, Abbruch und Neuerrich- tung der Balkonanlagen, Errichtung einer Feuerleiter
+- TOP .3.: Augustenstraße 4, Erweiterung des Anbaus im 1. OG sowie Ausbau und Sanierung der DG-Wohnung rechts
+- TOP .4.: Arcisstraße 46, Nutzungsänderung: Werkstatt zu Steuerberatungskanzlei
+- TOP .5.: Brienner Straße 12-12 a, Sanierung und Umbau von Dach, Treppenhaus und Decken sowie Nutzungsänderung, Abbruch und Neubau der Bauteile Hof-West, Hof-Ost, Finken- straße 1. UG (TG), 2. UG und Außenanlagen - Tektur
+- TOP .6.: Brienner Straße 34, Neubau NS-Dokumentationszentrum mit Veranstaltungssaal für max. 200 Personen - Tektur
+- TOP .7.: LBK-Listen der Bauvorhaben: 5., 6., 7., 8. KW
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .3.1: Vollzug der Baumschutzverordnung
+- TOP .3.2: Baumfällungen
+- TOP .1.: Erzgießereistraße 44, eine Zypresse
+- TOP .2.: Kaulbachstraße 11, eine Eberesche
+- TOP .3.: Veterinärstraße 13, eine Fichte
+- TOP .4.: Tengstraße 2, eine Kastanie
+- TOP .5.: Baureferat Unterrichtung über die bevorstehende Beseitigung eines Gefahrenbaumes Alter Botanischer Garten Parkcafe, eine Linde
+- TOP .3.3: Grün- und Freiflächenplanung
+- TOP .1.: Baureferat, Gartenbau Unterrichtung über die bevorstehende Beseitigung von Gefahrbäumen
+- TOP .2.: Referat für Stadtplanung und Bauordnung Elisenstraße 3, Nutzungsänderung im 5. OG: Zwei Hausmeisterwohnungen zu Büroflä- chen; Schreiben der LBK zur Stellungnahme des BA 3 vom 16.01.2015
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglich- keiten für PV-Eigenverbrauch ihrer Mieter Antrag Nr. 08-14 / A 04263 der Stadtratsfraktion Die Grünen/Rosa Liste vom 17.05.2013 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015 Sitzungsvorlage Nr. 14 ? 20 / V 01341
+- TOP .4.: Sozialreferat Kreittmayrstraße 18, baugenehmigungspflichtige Modernisierungsmaßnahme
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte, Anhörung Öffnung der in Richtung Südwesten einbahngeregelten Ottostraße zwischen der Brienner- und der Max-Joseph-Straße für gegenläufigen Radverkehr
+- TOP .2.: Baureferat, Tiefbau Ludwigstraße zwischen Oskar-von-Miller-Ring und Siegestor, Fahrbahnwiederherstellung
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsmanagement LZA-Abbau Georgen-/Friedrichstraße (BA 3 und BA 4)
+- TOP .4.: Baureferat, Straßenunterhalt und Betrieb, Anhörung a) Schönfeldstraße, Fahr- und Gehbahnsanierung (Teilflächen) b) Neureutherstraße zwischen Arcis- und Tengstraße, Asphaltarbeiten c) Arcisstraße zwischen Theresien- und Gabelsbergerstraße
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse a) Schleißheimer Straße 34, Genehmigung einer Freischankfläche vertagt aus der Sitzung vom 10.02.2015; Unterlagen liegen bereits vor b) Schellingstraße 27, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kulturjurte des Ideen hoch drei e.V. vom 24.08. bis 31.10.2015
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Hotelanfahrtszone in der Fürstenstraße
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum, Verlegung einer Fernwärmeleitung Linprun-/Loristraße, verkehrsrechtliche Anordnung
+- TOP .3.: Bauvorhaben der Stadtwerde a) Lenbachplatz 1, Fernkälte b) Schönfeldstraße 26, Fernwärme c) Dachauer Straße, Fernwärme d) Schraudolphstraße, Fernwärme
+- TOP .1.: Sozialreferat, Mietberatung Mieterbeiratswahl 2015 vertagt aus der Sitzung vom 10.02.2015 Die Unterlagen liegen bereits vor.
+- TOP .1.: Referat für Bildung und Sport, Immobilienmanagement Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Dachauer Straße 98
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Anhörung Kunstareal München ? Kunst, Kultur, Wissen a) Sachstandsbericht b) Ergebnis des Bürgergutachtens c) Weiteres Vorgehen d) Beibehaltung der Bezeichnung ?Museumsviertel? (anstatt ?Kunstareal?) Empfehlung Nr. 08-14 / E 01529 der Bürgerversammlung Maxvorstadt am 18.10.2012 e) Festlegung der Stadtteilbezeichnung ?Museumsviertel? Antrag Nr. 08-14 / B 04380 des BA 3 vom 13.11.2012 Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP .2.: Baureferat, Kunst im öffentlichen Raum, Anhörung Ausstellung ?Neue Werte? Karolinenplatz vom 29.08. bis 04.10.2015
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Kommunalreferat, Immobilienservice, Zwischennachricht BA-Schaukasten am Stieglmaierplatz, Gestattung durch SWM GmbH
+- TOP .2.: Kommunalreferat, Immobilienservice, Zwischennachricht BA-Schaukasten für den Arnulfpark
+- TOP .3.: Kommunalreferat, Immobilienservice, Zwischennachricht Schaukasten U-Bahnhof Theresienstraße, Verlegung
+- TOP .5.: Kinder- und Bürgerfest des BA 3
+- TOP .6.: entfällt
+- TOP .7.: Antrag der SPD-Fraktion vom 24.02.2015, Verlegung des Schaukastens an der Maillingerstsraße vom U-Bahn-Sperrengeschoss an die Oberfläche und zwar in die Maillingerstraße Ecke Nymphenburger Straße, links der Ruine des Stromverteilers oder statt dessen.
+- TOP .9.: Stadtkämmerei, Anhörung Mittelfristige Finanzplanung 2014 bis 2018, Mehrjahresinvestitionsprogramm, Fortschrei- bung für die Jahre 2015 bis 2019
+- TOP .2.: In der Ottostraße (Bereich Max-Joseph-Straße bis Brienner Straße) soll Fahrradfahren entgegen der Einbahnstraßenregelung erlaubt werden.
+- TOP .3.: Baureferat, Beschlussvorlage Umgestaltung und bedarfsgerechte Wiederherstellung des Josephsplatzes nach dem Bau der Anwohnertiefgarage im 3. Stadtbezirk Maxvorstadt Antrag Nr. 08-14 / B 05434 des BA 3 vom 10.12.2013 Antrag Nr. 14-20 / B 00176 des BA 3 vom 08.07.2014 Sitzungsvorlage Nr. 14-20 / V 01753 Der UA schlägt vor, dass die Hecke unter Wahrung der ursprünglichen Konzeption wei- ter reduziert werden soll (Beschluss vom 20.01.2015). In der vorliegenden Beschlussvor- lage ist die weitere Reduzierung der Hecke gemäß Antrag des BA 3 vom 10.12.2014 (s. dem Antrag beigegebene Skizze) nicht berücksichtigt. Der BA 3 besteht jedoch weiterhin auf größtmögliche Heckenreduzierung unter Beibehaltung der geschwungenen Linienfüh- rung.
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .4.: Unterrichtungen
+- TOP .8.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate Antrag des Bezirksausschusses 21 Pasing-Obermenzing Nr. 14-20 / B 00835 vom 03.02.2015, Unterrichtung
