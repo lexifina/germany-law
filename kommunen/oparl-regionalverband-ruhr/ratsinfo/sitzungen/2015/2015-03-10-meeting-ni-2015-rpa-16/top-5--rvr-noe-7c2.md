@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 2. Sitzung des Rechnungsprüfungsausschusses (2015-03-10)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2015-RPA-16%7CAM-rvr-noe%7C2
