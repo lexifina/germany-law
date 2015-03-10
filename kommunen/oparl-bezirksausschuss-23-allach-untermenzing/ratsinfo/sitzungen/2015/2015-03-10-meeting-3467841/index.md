@@ -1,0 +1,85 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-03-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467841
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467841
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Wunschliste für Allacher Spielplätze
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen
+- TOP 5.2.: Mittelfristige Finanzplanung 2014 - 2018; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2015- 2019
+- TOP 5.3.: Peter-Müller-Str. 11, Gemarkung: Allach, Fl.Nr.: 957/0 Neubau einer Reihenhausanlage (7 RH) mit Duplexgaragen - VORBESCHEID
+- TOP 5.4.: Rudhartstr. 37, Gemarkung: Allach, Fl.Nr.: 251/8 Neubau eines 6-Familienhauses mitTiefgarage - VORBESCHEID
+- TOP 5.5.: Eversbuschstr. 151, Gemarkung: Allach, Fl.Nr.: 86/0 Neubau eines Mehrfamilienhauses und eines Vierspänners mit Tiefgarage - VORBESCHEID Vollzug der BaumschutzVO
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 20.01.15: Notrufsäulen mit Automatisierte Defibrillationsgeräte (AED) auf Bahnsteigen der Münchner S-Bahn (Antr. 4732) (Sitzungsvorlagen Nr. 1514)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 28.01.15: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen (Sitzungsvorlage Nr. 2255)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.15: Hinweis/Ergänzung vom 03.02.15: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städt. Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eingenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 4263)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Einladung zum Informationsgespräch im Referat für Bildung und Sport am 19.03.15, 18:00 - 20:00 Uhr
+- TOP 7.2.: Informationsveranstaltung der SWM am 23.03.15 um 18:00 Uhr
+- TOP 7.3.: Informationsveranstaltung Denkmalschutz am 23.03.15, 17:00 - ca. 19:00 Uhr
+- TOP 7.4.: Einladung KVR-Informationsveranstaltung am 22.04.15, 18:00 - ca. 20:00 Uhr
+- TOP 7.5.: Inhouse-Seminar "Praxisbezogene Baumkontrolle", Fortbildung für die neu gewählten Baumschutzbeauftragten der Bezirksausschüsse am 04.05.15
+- TOP 7.6.: Erinnerung: Baumschutz München und Frankfurt im Vergleich, 11.03.15, 13:00-17:00 Uhr
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 06.02.15: Bau einer Sporthalle in Allach
+- TOP 8.2.: Schreiben Direktorium vom 23.02.2015: Umstellung der Software für die Bezirksausschuss-Homepage
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (02.02-08.02.15, 09.02.-15.02.15, 16.02.-22.02.15)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Eversbuschstr. 156, Lechelstr. 63, Augustenfelder Str. 18, Walter-Otto-Str. 3
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.02.2015: Bauvorhaben Allacher Str. (Fl.Nr. 305/0 / Ganzenmüllerstraße)
+- TOP 8.6.: Schreiben Stadtwerke München vom 10.02.15, 16.02.15, 23.02.15: Baumaßnahmen
+- TOP 8.7.: Schreiben Baureferat vom 04.02.15: Hundekottütenspender, Aktion Saubere Stadt - Weiterentwicklung
+- TOP 8.8.: Schreiben Baureferat vom 11.02.15: Eingewachsene Verkehrsschilder
+- TOP 8.9.: Schreiben Baureferat vom 16.02.15: Geplanter Grüngürtel an der Schöllstraße
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 27.01.15: Absolutes Haltverbot Wilhelm-Zwölfer-Straße
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 06.02.15: Erlaubnisbescheid Faschingsumzug der Pfarrei Maria Himmelfahrt Allach am 17.02.15
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 16.02.15: Jahresgenehmigung für Constantin Entertainment GmbH
+- TOP 8.13.: Schreiben Kreisverwaltungsreferat vom 19.02.2015: Aufstellung eines Hinweisschildes "Rechts vor Links" an der Servetstraße / Ecke Lauthstraße
+- TOP 8.14.: Schreiben Kreisverwaltungsreferat vom 18.02.15: Lichtzeichenanlage für Knotenpunkt Bauschinger-/ Otto-Warburg-Straße
+- TOP 8.15.: Schreiben Sozialreferat vom 12.02.15: Antrag auf Zweckentfremdung von Wohnraum, Grandauerstr.
+- TOP 8.16.: Schreiben Referat für Bildung und Sport vom 19.02.2015: Aktualisierte Datenblätter für die Grund- und Mittelschulen bzw. Förderzentren
+- TOP 8.17.: Schreiben BA 21 Pasing-Obermenzing vom 09.02.15: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städt. Referate (Ziffer 1 des Antrags Nr. 00835)
+- TOP 8.18.: Schreiben Mieterbeirat der Landeshauptstadt München vom 03.02.15: Protokoll öffentliche Sitzung des Mieterbeirates vom 12.01.15
+- TOP 8.19.: Schreiben Behindertenbeirat der Stadt München vom 02.02.15: Protokoll BA-Treffen Januar 2015
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Aufhebung Tempo 30 in Franz-Nißl-Straße
+- TOP 9.2.: Antrag: Straßenverbindung Pasteurstraße - Birkenstraße
+- TOP 9.3.: Anhörung: Maifest mit Maibaumaufstellung in der Eversbuschstraße am 01.05.15
+- TOP 9.4.: Frühzeitige Inforamtion des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 9.5.: Verschiedenes: Informationsveranstaltung zum Thema Budget der Bezirksausschüsse 06.05.15, 18:00 Uhr
+- TOP 9.6.: München wird inklusiv! (Aktionsplan zur Umsetzung der UN-Behindertenrechtskonventionen & Studie zur Arbeits- und Lebenssituation von Menschen mit Behinderungen in der LHM
+- TOP 9.7.: Umlauf: Schreiben Baureferat vom 25.02.15: Verkehrssicherheit an der Rampe am S-Bahn-Haltepunkt Untermenzing
+- TOP 9.8.: Schreiben Baureferat vom 03.03.15: Spiel- und Bolzplätze in Allach-Untermenzing
+- TOP 9.9.: Schreiben Kulturreferat vom 27.02.15: Stadtteilwoche bzw. Kulturtage / Allach-Untermenzing
+- TOP 9.10.: Schreiben Kreisverwaltungsreferat vom 26.02.15: Eingeschränktes Haltverbot auf der Goteboldstraße
+- TOP 9.11.: Schreiben Stadtwerke München vom 02.03.15: Baumaßnahmen
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.02.15: Achwaldstr. 7, Fl.Nr. 724/28, Gemarkung: Allach
+- TOP 9.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.03.15: Bauanträge (23.02.-01.03.15)
+- TOP 9.14.: Schreiben Stadtkämmerei vom 03.03.15: Präsentation Bürgerhaushalt vom 02.03.15
+- TOP 9.15.: Schreiben Kulturreferat vom 02.03.15: Veranstaltungsübersicht März
+- TOP 9.16.: Schreiben Referat für Arbeit und Wirtschaft vom 26.02.15: Newsletter Wirtschaft 02/2015
+- TOP 9.17.: Schreiben Referat für Gesundheit und Umwelt vom 26.02.15: Newsletter Bauzentrum München Nr. 2/2015
+- TOP 9.18.: Schreiben Referat für Arbeit und Wirtschaft vom 27.02.15: Europe Direct Informationen 01/2015
+- TOP 9.19.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.15: Mietkosten senken und Klima schonen durch PV-Eigenverbrauschanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlagen Nr. 01341)
+- TOP 9.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: a) Bekanntgabe: Bevölkerungsprognosen der LH München; Planungsprognose 2013 bis 2030 (Sitzungsvorlage Nr. 2150) b) Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum (Sitzungsvorlage-Nr. 02269) c) Rechtzeitige Veröffentlichung von geplanten Baumfällungen (Sitzungsvorlage-Nr. 01965) d) Verkehrsplanung im Münchner Westen; Prüfung einer Anbindung Mühlangerstraße / Von-Kahr-Straße an die Autobahn A 8 (sitzungsvorlage-Nr. 02453) f) Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis (Sitzungsvorlage Nr. 02362)
+- TOP 9.21.: Bekanntgabe im Bildungsausschuss des Stadtrates vom 11.03.15: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober; KITA-Jahresstatistik 2013 und 2014 (Sitzungsvorlage Nr. 02462)
+- TOP 9.22.: Beschluss des Bildungsausschusses des Stadtrates vom 11.03.15: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren (Sitzungsvorlage Nr. 02233)
