@@ -1,0 +1,8 @@
+# TOP 10: Bericht IV.Quartal 2014 Hilfen zur Erziehung und Kita
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2015-03-11)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730270f24bb7ed51287cbf
+- Ergebnis: (offen)
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730270f24bb7ed51287cbb
