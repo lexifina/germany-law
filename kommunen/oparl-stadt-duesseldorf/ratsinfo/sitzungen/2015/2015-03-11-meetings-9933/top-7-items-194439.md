@@ -1,0 +1,7 @@
+# TOP 7: Anfrage Daxenberger: Instandsetzung Fahrradabstellplatz
+
+- Sitzung: Bezirksvertretung 6 (2015-03-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/194439
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/73904
