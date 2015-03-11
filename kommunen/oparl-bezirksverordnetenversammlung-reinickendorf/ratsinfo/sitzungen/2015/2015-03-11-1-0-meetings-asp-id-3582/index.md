@@ -1,0 +1,79 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-03-11T17:00:00+01:00
+- Ende: 2015-03-11T21:35:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3582
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3582
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=82187
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 39. Sitzung der BVV am 11.03.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 39. Sitzung der BVV am 11.03.2015 - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 39. Sitzung der BVV am 11.03.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Schulentwicklungsplanung in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 5.1.1: Sekundarschulangebot ausbauen - überwiesen
+- TOP 5.2: Langfristige Entwicklung des Oberschulangebots in Reinickendorf (Große Anfrage) - beantwortet
+- TOP 5.3: Schulentwicklungsplan 2015 bis 2019 (Vorlage zur Kenntnisnahme) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Tempo 30 in der Friederikestraße (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.5: Tempo 30 / Teilabschnitt Hermsdorfer Damm (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.6: Reinickendorf nicht ohne Strandbad Tegel (Empfehlung) - erledigt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Verkehrssicherheit an den Hallen am Borsigturm - Fußgängerüberweg auf der Straße "Am Borsigturm" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Sicherung von Kunstwerken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Kunst in Reinickendorf II - Sicherung einer Sammlung von Skulpturen, historischen Bauteilen und Straßenmöbeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2014 und 2015 (Doppelhaushalt) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Finanzierung der Integrationslotsen I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Sanierungskonzept Landesleistungszentrum Kanu - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Leitbild "Interkulturelle Arbeit der Verwaltung für Reinickendorf" erstellen - überwiesen
+- TOP 7.8: Sportangebote für Flüchtlinge im Bezirk Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: Strukturen bürgerlichen Engagements in Reinickendorf-West stärken (Zwischenbericht) - überwiesen
+- TOP 7.10: Regelmäßiger Bericht über den Bau von Fußgängerüberwegen und Querungshilfen! (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Einrichtungen "dampffrei" halten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Fahrradparkhaus in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Hängeleuchten in Frohnau auf gelbliche LED-Beleuchtung umstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Radverkehrsstrategie des Senats unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Verfügbarkeit von Mieterparkplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Schweigeminute zum 70. Jahrestag der Befreiung des Vernichtungslagers Auschwitz am 27. Januar 1945 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: U6 und U8 während Tunnelsperrung ertüchtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Impfen schützt - Impfschutz im Bezirk verbessern - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Anmeldung für die Investitionsplanung 2015 bis 2019 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Modellbaukasten bei Neuplanung/ Baumaßnahmen von wichtigen Straßen und Plätzen für Barrierefreiheit einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Schulsekretariatsstunden - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Kinderstadtpläne für alle Ortsteile erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bezahlbares Wohnen in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Standort ehemalige Klinik Wiesengrund sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Kostenlose Smartphone-App "Japp" - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Rechte und Pflichten der Patientenfürsprecher detaillierter regeln - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Palliativversorgung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Erwerb der BImA-Grundstücke durch das Land Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Strandbad Tegeler See erhalten - Bäderbetriebe in die Pflicht nehmen - erledigt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Eine Uhr für das Fontanehaus - überwiesen
+- TOP 12.2: Wettbewerb "Blühender Schulhof" - überwiesen
+- TOP 12.3: Parkverbot Wilhelm-Blume-Allee - überwiesen
+- TOP 12.4: Notinselprojekt bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Wartezeiten im Bürgeramt abbauen - überwiesen
+- TOP 12.6: Unterstützender Deutschkurs für Flüchtlinge mit Ausbildungsbetrieben in Reinickendorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Auch in Reinickendorf das Projekt Babylotsen einführen - überwiesen
+- TOP 13.2: Mehr Mittel für Deutschkurse - überwiesen
+- TOP 13.3: Keine Unterbringung von Flüchtlingen in Turnhallen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Beschulung und Ausbildung junger Flüchtlinge - überwiesen
+- TOP 13.5: Fußgängerüberweg AVA-Kiez - überwiesen
+- TOP 13.6: Reinickendorf nicht ohne Strandbad Tegel - ohne Änderungen in der BVV beschlossen
