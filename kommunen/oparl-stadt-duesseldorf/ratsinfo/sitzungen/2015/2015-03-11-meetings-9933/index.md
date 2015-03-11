@@ -1,0 +1,64 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-03-11T17:00:00+01:00
+- Ende: 2015-03-11T19:12:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9933
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9933
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235104.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235104.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235104.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Vorstellung der empirischen Befragung - zur Kenntnis genommen
+- TOP 5: Anfrage CDU: Maßnahmen gegen Flughafenparker - beantwortet
+- TOP 6: Anfrage Sültenfuß + Körner Schranke Kalkumer Straße - beantwortet
+- TOP 7: Anfrage Daxenberger: Instandsetzung Fahrradabstellplatz
+- TOP 8: Anfrage Daxenberger: Baulücken Stadtgebiet 06 - beantwortet
+- TOP 9: Anfrage Daxenberger: Bericht Stand Neubaugebiet Bau- und Spargenossenschaft - beantwortet
+- TOP 10: Anfrage FDP, CDU, Bü90/Grüne: Gaststätte "Zur Klinke" - zur Kenntnis genommen
+- TOP 11: Anfrage SPD: Sportplatz Herdecker Straße - beantwortet
+- TOP 12: Anfrage CDU: Umgestaltung Sportplatz Herdecker Straße - beantwortet
+- TOP 13: Anfrage CDU: Umbau Saal Rather Kirchplatz - beantwortet
+- TOP 14: Anfrage Bü90/Grüne und Wieroszewsky (CDU): Nachpflanzung Bäume Haltestelle Rath Mitte
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anfrage SPD: Verkehrssituation Bereich An der Piwipp - beantwortet
+- TOP 18: Anfrage Grüne: Sperrmülldiebstahl
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: AnfrageKörner, Schentek: Umgang soziale Netzwerke
+- TOP 22: Anfrage Körner u.A.: Kindertagesbetreuung - beantwortet
+- TOP 23: Anfrage Peters: Flughafenparker - zur Kenntnis genommen
+- TOP 24: Anfrage CDU u.A.: Linie 701 - Baubeginn
+- TOP 25: Anfrage CDU.Verwendung Stellplatzablösebeträge - beantwortet
+- TOP 26: Anfrage SPD: Flüchtlinge Borbecker Straße - beantwortet
+- TOP 27: Antrag Linke: eigenständiger Haushaltsentwurf - mehrheitlich abgelehnt
+- TOP 28: Antrag Daxenberger: Monatliche Mitteilung Bauvorhaben - zurückgezogen
+- TOP 29: Antrag Daxenberger (Die Linke): Flüchtlingshilfe Stadtgebiet 06 - zurückgezogen
+- TOP 30: Antrag Daxenberger: Vermietung leerstehender Wohnungen - mehrheitlich abgelehnt
+- TOP 31: Antrag CDU: unterirdische Container - einstimmig beschlossen
+- TOP 32: Antrag SPD: Temporeduzierung "Am Röttchen" - einstimmig beschlossen
+- TOP 33: Antrag SPD: Beleuchtung Schulweg Sahle-Siedlung - einstimmig beschlossen
+- TOP 34: Antrag SPD: Neugestaltung Weg Bolzplatz - einstimmig beschlossen
+- TOP 35: Antrag Körner: Sanierung Fahrbahn Kieshecker Weg - mehrheitlich beschlossen
+- TOP 36: Antrag Körner u.A.: Änderung Beschilderung - einstimmig beschlossen
+- TOP 37: Antrag Grüne usw.: Funk, Radar, Störsignale - mehrheitlich beschlossen
+- TOP 38: Antrag Bü90/Grüne u.A.: Dachbegrünung - einstimmig beschlossen
+- TOP 39: Antrag CDU u.A.: Bochumer Straße/Am Gatherhof - einstimmig beschlossen
+- TOP 40: Antrag Grüne: Janusz-Korczak-Schule - einstimmig beschlossen
+- TOP 41: Interfrakt. Antrag: ÖVNV-Behinderungen Kreuzung - einstimmig beschlossen
+- TOP 42: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 43: Bezirksbezogener Bauunterhalt 2015 - einstimmig beschlossen
+- TOP 44: Aufstellung von Blumenkübeln und Blumenschiffchen - einstimmig beschlossen
+- TOP 45: Mittel für Jahresempfang - einstimmig beschlossen
+- TOP 46: Zuschussvergabe und Förderung Dritter 2015 - einstimmig beschlossen
+- TOP 47: Mitteilungen der Verwaltung - zur Kenntnis genommen
