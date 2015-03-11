@@ -1,0 +1,56 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2015-03-11T17:00:00+01:00
+- Ende: 2015-03-11T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3210
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936f5d1d8f32e9185e9cfc
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 19.11.2014, 10.12.2014, 28.01.2015 und 11.02.2015; die Niederschriften werden nachgereicht. - (offen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2015 - Anpassung der Betriebskostenzuschüsse 2015 - ungeändert beschlossen
+- TOP 4.2: Genehmigung einer Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW Überplanmäßige Bereitstellung von Mitteln im Produkt 050202 - Leistungen nach dem AsylbLG- und im Produkt 100803 - Verwaltung und Betrieb von Unterkünften und Einrichtungen (Wohnungsl., Asylb./Flüchtlinge, Spätaus.) - Haushaltsjahr 2014 - ungeändert beschlossen
+- TOP 5: Satzung über eine Veränderungssperre für das Flurstück 875, Flur 74, Gemarkung Aachen (Piusstraße 8-14) im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 6: Aufhebung des Durchführungsplans Nr. 451 für den Planbereich im Stadtbezirk Aachen- Mitte im Bereich zwischen Kruppstraße, Turmstraße, Intzestraße und Bunsenstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 7: Aufhebung des Durchführungsplans Nr. 472 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich des Geländes der RWTH-Aachen nordöstlich der Hainbuchenstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Aufhebung des Durchführungsplans Nr. 480 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Komphausbadstraße, Bädersteig, Mefferdatisstraße und Großkölnstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Aufhebung des Durchführungsplans Nr. 485 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich an der Jakobstraße/Ecke Trichtergasse hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: 1. Nachtrag zur Satzung über die förmliche Festlegung des Sanierungsgebietes Innenstadt vom 08.10.2002 <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 11: 2. Nachtrag zur Satzung über die förmliche Festlegung des Sanierungsgebietes Hauptbahnhof Aachen vom 08.10.2001 <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 12: Satzungsänderung der Stiftungen Ausbildungsfonds, Armenfonds und Elisabethspitalfonds - ungeändert beschlossen
+- TOP 13: Ratsantrag der Fraktion Die Grünen im Rat der Stadt Aachen zur Änderung der Spielplatzsatzung der Stadt Aachen vom 17.11.2014 - ungeändert beschlossen
+- TOP 14: Bericht der PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2013 und Lagebericht für das Wirtschaftsjahr 2013 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2015 - ungeändert beschlossen
+- TOP 16: Kindertagesstättenentwicklungsplanung 2015/16 und Ausbauplanung der Plätze für Unter-Dreijährige - geändert beschlossen
+- TOP 17: Inklusion an Grundschulen, Ratsantrag Nr. 328/16 der Grüne-Fraktion vom 17.09.2013 - ungeändert beschlossen
+- TOP 18: Vorzeitige Schließung der GHS Eilendorf zum Schuljahresende 2014/2015 - ungeändert beschlossen
+- TOP 19: Neubau KiTa Kalverbenden - Antrag der Arbeiterwohlfahrt auf Übernahme des Trägeranteils - zurückgezogen
+- TOP 20: Annahme von Schenkungen: - (offen)
+- TOP 20.1: Annahme einer Schenkung für die städtische Gemeinschaftsgrundschule Brander Feld - ungeändert beschlossen
+- TOP 20.2: Annahme einer Schenkung für die Montessori-Grundschule Mataréstraße - ungeändert beschlossen
+- TOP 20.3: Annahme einer Schenkung für das Inda Gymnasium - ungeändert beschlossen
+- TOP 21: Beteiligung an der Kampagne des Landesintegrationsrates 'HIER, wo ich lebe, will ich wählen' - ungeändert beschlossen
+- TOP 22: Anfragen - (offen)
+- TOP 23: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 24: Mitteilungen der Verwaltung und Ratsanträge - (offen)
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
