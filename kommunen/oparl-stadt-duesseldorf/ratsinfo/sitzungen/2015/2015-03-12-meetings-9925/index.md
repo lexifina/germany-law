@@ -1,0 +1,82 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-03-12T17:00:00+01:00
+- Ende: 2015-03-12T19:27:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9925
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9925
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235211.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235211.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00235211.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Öffentliche Beleuchtung Bingener Weg - Gasbeleuchtungsanlage - Umstellung auf Strombetrieb - mehrheitlich beschlossen
+- TOP 5: Zuschuss an den Freundeskreis Kulturbahnhof Eller e.V. - einstimmig beschlossen
+- TOP 6: Zuschuss an den Arbeitskreis Kultur im Stadtbezirk 08 e.V. - einstimmig beschlossen
+- TOP 7: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2015 - einstimmig beschlossen
+- TOP 8: Einwohnerfragestunde - einstimmig beschlossen
+- TOP 9: Schulorganisatorische Maßnahmen an verschiedenen städt. Förderschulen - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Kulturelles Angebot an Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 12: Masterplan Kinderspielplätze im Stadtbezirk 8 - beantwortet
+- TOP 13: Regionalplan im Stadtbezirk 8 - beantwortet
+- TOP 14: Grundstück Sturmstraße / Sodener Weg - beantwortet
+- TOP 15: Grundstück Am Turnisch - beantwortet
+- TOP 16: Grundstück Erkrather Straße 401 - beantwortet
+- TOP 17: Turnhalle GHS Bernburger Straße - beantwortet
+- TOP 18: Masterplan Kinderspielplätze im Stadtbezirk 8 - beantwortet
+- TOP 19: Anmeldezahlen an Kitas im Stadtbezirk 8 - beantwortet
+- TOP 20: Regenrückhaltebecken Vennhauser Allee - beantwortet
+- TOP 21: Legale Graffitiflächen im Stadtbezirk 8 - beantwortet
+- TOP 22: Straßenreinigung im Bereich KGA Am Schwarzen Weg und Jägerstraße - beantwortet
+- TOP 23: Bebauungsplan-Entwurf An der Eselsfurt - beantwortet
+- TOP 24: Kreuzungsbereich Eller Kamp / Kamper Weg - beantwortet
+- TOP 25: Gestaltung Zufahrt Parkplatz Eller-Mitte - beantwortet
+- TOP 26: Sanierungen in Satzungsbereichen im Stadtbezirk 8 - beantwortet
+- TOP 27: Beleuchtung Kissinger Straße und Haustertshofweg - beantwortet
+- TOP 28: Schulsanierungen im Stadtbezirk 8 - beantwortet
+- TOP 29: Grundstück Sodener Weg - beantwortet
+- TOP 30: Logistikunternehmen Dillenburger Weg - beantwortet
+- TOP 31: Hochbahnsteig Schlesische Straße - zurückgezogen
+- TOP 32: Flüchtlinge im Stadtbezirk 8 - zurückgezogen
+- TOP 33: RRX - Lärmschutz im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 34: RRX im Stadtbezirk 8 - Lärmschutz und Gestaltung - einstimmig beschlossen
+- TOP 35: Blühstreifen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 36: Fahrradständer Vennhauser Allee - einstimmig beschlossen
+- TOP 37: Grünweg Zwickauer Straße/Chemnitzer Straße - einstimmig beschlossen
+- TOP 38: Bebauungsplan Am Kleinforst - zurückgezogen
+- TOP 39: Informationen über Baumaßnahmen im öffentlichen Straßenraum im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 40: Haltverbot Sandträgerweg 92 - zurückgezogen
+- TOP 41: Vorstellung der Sozialberichte „Lebenssituation von Kindern und Jugendlichen - einstimmig beschlossen
+- TOP 42: Düsselweg Eller Kamp / Kamper Weg - einstimmig beschlossen
+- TOP 43: Verkehrsregelung Kreuzung Reisholzer Straße / Schlesische Straße / Kuthsweg - einstimmig beschlossen
+- TOP 44: Anlage von Blühstreifen im Stadtgebiet - zur Kenntnis genommen
+- TOP 45: PFT-Boden- und Grundwasserverunreinigung Gerresheim - Information - - zur Kenntnis genommen
+- TOP 46: Verkauf städtischer Einfamilienhäuser in Vennhausen - zur Kenntnis genommen
+- TOP 47: Fuß- und Radweg Eller Kamp - zur Kenntnis genommen
+- TOP 48: Wellness-Anlage Elbsee - zur Kenntnis genommen
+- TOP 49: Grundstück Am Hackenbruch / Eller Kamp - zur Kenntnis genommen
+- TOP 50: Städtische Wohnungen und Häuser im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Unterhaltungsmaßnahmen im Baumbestand der Südlichen Düssel - zur Kenntnis genommen
+- TOP 52: Baulücken im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 54: Möblierung und Durchgang S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 55: Toilettenanlagen Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 56: Mauer Karlsruher Straße 66 - 70c - zur Kenntnis genommen
+- TOP 57: Bushaltestelle Erkrather Straße 349 - zur Kenntnis genommen
+- TOP 58: Sanierungen in Satzungsbereichen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 59: ÖPNV - Mobilität im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 60: Beleuchtung an der GGS Arnstadter Weg, Volker-Rosin-Schule - zur Kenntnis genommen
+- TOP 61: Auswirkungen des Baus des RRX - zur Kenntnis genommen
+- TOP 62: Kulturelles Angebot an Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 63: Kindertagesstätten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Regionalplan im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 65: Masterplan Kinderspielplätze im Stadtbezirk 8 - zur Kenntnis genommen
