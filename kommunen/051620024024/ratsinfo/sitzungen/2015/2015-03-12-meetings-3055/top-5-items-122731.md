@@ -1,0 +1,8 @@
+# TOP 5: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses
+
+- Sitzung: Jugendhilfeausschuss (2015-03-12)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/122731
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/17451
