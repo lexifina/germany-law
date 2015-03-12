@@ -1,0 +1,6 @@
+# TOP 4: Absprache zu Grundstücksangelegenheit Flurstück Dorotheenstraße/Ecke Friedensallee
+
+- Sitzung: 9. Sitzung des Ortschaftsrates Oberwartha (2015-03-12)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/63156
