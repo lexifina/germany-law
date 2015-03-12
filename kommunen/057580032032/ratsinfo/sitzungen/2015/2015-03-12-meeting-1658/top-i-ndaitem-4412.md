@@ -1,0 +1,6 @@
+# TOP I.: Öffentliche Sitzung
+
+- Sitzung: Schul-, Jugend- und Sportausschuss (2. Sitzung) (2015-03-12)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/4412
