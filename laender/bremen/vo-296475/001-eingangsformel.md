@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 14 und des § 24 Absatz 4 des Bremischen Gesetzes über Naturschutz und Landschaftspflege vom 27. April 2010 (Brem.GBl. S. 315 - 790-a-1), das durch Artikel 3 des Gesetzes vom 19. Dezember 2014 (Brem.GBl. S. 780) geändert worden ist, in Verbindung mit § 32 Absatz 2, § 20 Absatz 2 und § 22 Absatz 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 4 Absatz 100 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, verordnet der Senat:
