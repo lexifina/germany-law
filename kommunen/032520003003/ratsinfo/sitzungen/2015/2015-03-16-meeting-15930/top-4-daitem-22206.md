@@ -1,0 +1,6 @@
+# TOP 4.: Tiefbauarbeiten
+
+- Sitzung: Bau- und Umweltausschuss (52. Sitzung) (2015-03-16)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/22206
