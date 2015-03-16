@@ -1,0 +1,73 @@
+# 2. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-03-16T10:05:00+01:00
+- Ende: 2015-03-16T12:25:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-VA-25
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-VA-25
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VA-25
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VA-25
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Jahresbericht 2014 zur ländlichen Entwicklung und Bodenordnung im Gebiet des Regionalverbandes Ruhr
+- TOP 1.2: Bericht über die Fördermöglichkeiten des NRW-Programms Ländlicher Raum für die Förderperiode 2014 – 2020 (Bereiche LEADER, Dorfentwicklung, Bodenordnung, ländliche und forstwirtschaftliche Wegenetze, Breitband)
+- TOP 1.3: Förderprogramm 'Kommunaler Straßenbau' hier: Unterrichtung und Beschlussfassung
+- TOP 1.4: Förderprogramm 'Nahmobilität 2015' hier: Unterrichtung und Beschlussfassung
+- TOP 1.5: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik - Kulturregion Ruhrgebiet hier: Beratung und Beschlussfassung 2015, Rückblick auf die Förderung 2014
+- TOP 1.6: Gefährdungsabschätzung und Sanierung von Altlasten; Rückblick auf 2014 Kenntnisnahme
+- TOP 1.7: Bericht über den Stand der Umsetzung der Hochwasserrisikomanagement-Richtlinie und die Ausweisung von Überschwemmungsgebieten im Planungsbe-reich hier: Kenntnisnahme
+- TOP 1.8: Entsendung in die Beratungsgremien der Regionalen Kulturpolitik Vorschläge der Fraktionen
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.9: Änderungsverfahren 20 OB (Vestische Straße) zum Regionalen Flächennutzungsplan – Benehmensherstellung nach § 39 Abs. 3 Nr. 1 LPlG
+- TOP 1.10: Regionalplanung und Regionalentwicklung in der Metropole Ruhr: Aktueller Sachstand
+- TOP 1.11: Anfrage zu Fahrzeugen für den Bevölkerungsschutz Drucksache 13/0004 hier: Antwort auf die Anfrage der CDU-Fraktion
+- TOP 1.12: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Haushaltsangelegenheiten
+- TOP 2.1.1: Verabschiedung des Haushaltes 2015
+- TOP 2.1.1.1: Haushaltspunkt Anlage 4 „Zuwendungen an Fraktionen“ Antrag der Fraktionen Piraten und FWG vom 05.03.2015 Drucksache Nr. 13/0154
+- TOP 2.1.1.2: Haushaltspunkt Anlage 4 „Zuwendungen an Fraktionen“ Antrag der AfD-Fraktion vom 06.03.2015 Drucksache Nr. 13/0155
+- TOP 2.1.1.3: Ziele im Haushaltsplan ergänzen Antrag der Fraktionen CDU, SPD, Bündnis 90/Die Grünen vom 11.03.2015
+- TOP 2.1.1.4: Pflege- und Unterhaltungsaufwendungen für Radwege Antrag der Fraktionen CDU, SPD, Bündnis 90/Die Grünen vom 11.03.2015
+- TOP 2.1.1.5: Kulturloge Ruhr Antrag der Fraktionen CDU, SPD, Bündnis 90/Die Grünen vom 11.03.2015
+- TOP 2.1.1.6: Verabschiedung des Haushaltes 2015 Ergänzung der Ziele im Haushaltsplanentwurf
+- TOP 2.1.2: Übertragung von Ermächtigungen aus dem Haushaltsjahr 2014 in das Haushaltsjahr 2015
+- TOP 2.2: Umbesetzung in den Gremien
+- TOP 2.2.1: Wechsel im Verwaltungsrat der Umweltzentrum Westfalen GmbH
+- TOP 2.2.2: Wechsel im Verwaltungsrat der Freizeitzentrum Xanten GmbH
+- TOP 2.3: Aufnahme von Austrittsverhandlungen mit dem Kreis Wesel Verhandlungsermächtigung für die Regionaldirektorin
+- TOP 2.4: Einrichtung eines neuen Referats 18 „Zentrale Dienste“
+- TOP 2.5: Sachstandsbericht Klimametropole RUHR 2022
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Planfeststellungsverfahren nach §§ 18 ff Allgemeines Eisenbahngesetz (AEG) für den dreigleisigen Ausbau der Strecke 'ABS 46/2 D/NL-Emmerich-Oberhausen, Planfeststellungsabschnitt (PFA) 1.1 Oberhausen' 2. Anhörungsverfahren (2014) Hier: Stellungnahme des RVR
+- TOP 2.7: Stellungnahme des RVR als Träger öffentlicher Belange zum Ausbau der RRX-Kernstrecke Köln – Düsseldorf – Duisburg – Essen – Bochum – Dortmund (– Hamm), Planfeststellungsabschnitt 5a (Essen) Hier: Stellungnahme des RVR
+- TOP 2.8: Stellungnahme des RVR als Träger öffentlicher Belange zum Ausbau der RRX-Kernstrecke Köln – Düsseldorf – Duisburg – Essen – Bochum – Dortmund (– Hamm), Planfeststellungsabschnitt 5b (Bochum) Hier: Stellungnahme des RVR
+- TOP 2.9: Ideenwettbewerb zur Zukunft der Metropole Ruhr / Regionaler Diskurs Hier: Zukünftige Besetzung und Aufgaben des Beirats
+- TOP 2.10: Fahrradverleihsystem Metropolradruhr Hier: Sachstandsbericht
+- TOP 2.11: Radschnellweg Ruhr RS1 Hier: Kernaussagen der Machbarkeitsstudie und Perspektiven
+- TOP 2.12: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Sachstandsbericht
+- TOP 2.13: Planfeststellung für den Bau der A 52 vom AK Essen-Nord (B 224) bis AD Essen/ Gladbeck (m), im Abschnitt Teil 02 (Stadtgebiet Gladbeck) Hier: Stellungnahme des RVR
+- TOP 2.13.1: Planfeststellung für den Bau der A 52 vom AK Essen-Nord (B 224) bis AD Essen/ Gladbeck (m), im Abschnitt Teil 02: südlich AD Essen/ Gladbeck (Stadtgrenze Bottrop/ Gladbeck) – AD Essen/ Gladbeck (inklusiv) von Bau-km 0+000,000 bis Bau-km 1+405,547 auf dem Gebiet der Städte Gladbeck, Bottrop und Dorsten Hier: Änderung der Stellungnahme des RVR Änderungsantrag der Fraktion DIE LINKE Änderungsantrag der Fraktion DIE LINKE
+- TOP 2.14: Geonetzwerk metropoleRuhr
+- TOP 2.15: (un)konventionelle Gewinnung von Erdgas, Erdwärme und Grubengas
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.16: Eigenbetriebsähnliche Einrichtung RVR-Route der Industriekultur - Reintegration
+- TOP 2.17: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2013 nach der Gemeindeordnung NRW (GO NRW)
+- TOP -: Vorlagen aus dem Betriebsausschuss RuhrGrün
+- TOP 2.18: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2015
+- TOP 2.19: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2014
+- TOP 2.20: Unterstützung von freiem Internet- und Informationszugang mittels Einbringung von RVR-Liegenschaften in Bürger-WLAN s Drucksache Nr. 13/0156
+- TOP 2.21: Anfragen und Mitteilungen
+- TOP 2.21.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.21.2: Sicherheit auf den Radwegen im RVR Anfrage der CDU-Fraktion
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
