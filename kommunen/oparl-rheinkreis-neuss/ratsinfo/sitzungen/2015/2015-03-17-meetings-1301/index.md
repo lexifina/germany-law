@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreisausschusses
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2015-03-17T15:05:00+01:00
+- Ende: 2015-03-17T17:05:00+01:00
+- Ort: NE, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/2
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1301
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1301
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreisausschuss 17.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031287.pdf
+- Ergebnisprotokoll: Einladung Kreisausschuss 17.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031287.pdf
+- Wortprotokoll: Einladung Kreisausschuss 17.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031287.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Vereidigung von Kreisausschussmitgliedern
+- TOP 3: Bestätigung von Beschlüssen der Ausschüsse
+- TOP 3.1: Rettungsausschuss 27.01.2015 - einstimmig beschlossen
+- TOP 3.2: Kulturausschuss vom 09.02.2015 - einstimmig beschlossen
+- TOP 3.3: Sozial- und Gesundheitsausschuss vom 19.02.2015 - einstimmig beschlossen
+- TOP 3.4: Nahverkehrs- und Straßenbauausschuss vom 24.02.2015 - einstimmig beschlossen
+- TOP 3.5: Sportausschuss vom 26.02.2015 - einstimmig beschlossen
+- TOP 3.6: Planungs- und Umweltausschuss vom 03.03.2015 - einstimmig beschlossen
+- TOP 3.7: Jugendhilfeausschuss vom 05.03.2015 - einstimmig beschlossen
+- TOP 3.8: Finanzausschuss vom 10.03.2015 - einstimmig beschlossen
+- TOP 4: Kenntnisnahme von Niederschriften
+- TOP 4.1: Schulausschuss vom 23.02.2015 - zur Kenntnis genommen
+- TOP 5: Bericht zur Braunkohlenplanung und Energiewirtschaft - zur Kenntnis genommen
+- TOP 6: Bericht zur Regionalarbeit - zur Kenntnis genommen
+- TOP 6.1: Stellungnahme des Rhein-Kreises Neuss im Erarbeitungsverfahren für den Regionalplan Düsseldorf - einstimmig beschlossen
+- TOP 7: Wirtschafts- und Beschäftigungsförderung/Europa (Stand: März 2015) - zur Kenntnis genommen
+- TOP 7.1: Wirtschaftsförderungskonzept: Berufliche Bildung und Hochschule im Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 8: Leistungsbilanz Europa-Arbeit Europabüro Rhein-Kreis Neuss und Europe Direct Informationszentrum Mittlerer Niederrhein
+- TOP 9: SGB II - Entwicklung der Kosten der Unterkunft und der Bedarfsgemeinschaften
+- TOP 10: Präventive Maßnahmen gegen gewaltorientierten Islamismus im Rahmen des Bundesprogramms "Demokratie leben" - einstimmig beschlossen
+- TOP 11: Versorgung mit niedergelassenen Ärzten im Rhein-Kreis Neuss
+- TOP 11.1: Anfrage der CDU- und FDP-Kreistagsfraktionen zum Thema "Hausärztliche Versorgung im Rhein-Kreis Neuss" vom 03.02.2015
+- TOP 11.2: Antrag der SPD-Kreistagsfraktion zum Thema "Zukunft der Notdienstpraxis in Dormagen" vom 23.02.2015 - einstimmig beschlossen
+- TOP 12: Anträge
+- TOP 12.1: Antrag der CDU- und FDP-Kreistagsfraktionen zum Thema "Ausbau des Breitbandnetzes im Rhein-Kreis Neuss vom 17.03.2015
+- TOP 12.1.1: Antrag auf Vertagung - einstimmig abgelehnt
+- TOP 12.1.2: Antrag der CDU- und FDP-Kreistagsfraktionen zum Thema "Ausbau des Breitbandnetzes im Rhein-Kreis Neuss vom 17.03.2015 - mehrheitlich beschlossen
+- TOP 13: Vorbesprechung der Tagesordnung der Sitzung des Kreistages am 25.03.2015 - öffentlicher Teil - - einstimmig beschlossen
+- TOP 14: Mitteilungen
+- TOP 15: Anfragen
+- TOP 15.1: Anfrage der SPD-Kreistagsfraktion zur Abwicklung / Bearbeitung von Leistungsanträgen aus dem Bildungs- und Teilhabepaket im Jobcenter des Rhein-Kreises Neuss
+- TOP 15.1.1: Tischvorlage: Anfrage der SPD-Kreistagsfraktion zur Abwicklung / Bearbeitung von Leistungsanträgen aus dem Bildungs- und Teilhabepaket im Jobcenter des Rhein-Kreises Neuss
+- TOP 15.2: Anfrage der Kreistagsfraktion Bündnis 90/ Die Grünen zum Thema "Überbelegungen in Kindertageseinrichtungen im Jugendamtsbezirk des Rhein-Kreises Neuss" und Antwort der Verwaltung
