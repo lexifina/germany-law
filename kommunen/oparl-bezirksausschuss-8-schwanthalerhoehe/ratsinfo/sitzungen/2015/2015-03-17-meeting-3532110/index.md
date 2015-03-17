@@ -1,0 +1,76 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2015-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3532110
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3532110
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: kiks-Kinderkultursommer-Festival Schwanthalerhöhe
+- TOP 3.2.: Theresienwiese / Theresienwüste 2015
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: MIP 2015 - 2019
+- TOP 6.1.: Meldelisten
+- TOP 6.2.: "Verwalterhäuschen" - Theresienhöhe 16
+- TOP 6.3.: GBW Nachfolge - Sozialcharta
+- TOP 6.4.: Gebäude Schwanthalerstr. 119
+- TOP 6.5.: Gebäude Holzapfelstr. 10
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 1: (E) Ausweitung des Angebots der Städt. Sing- und Musikschule München
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Verbesserungen der Fahrradinfrastruktur
+- TOP 8.1.: Marionettentheater - Planänderung
+- TOP 8.2.: Versammlung "Lebensschutz ungeborener Kinder"
+- TOP 8.3.: Versammlung Heimeranstr. 31
+- TOP 8.4.: Festumzug Frühlingsfest
+- TOP 8.5.: Flohmarkt Gollierplatz
+- TOP 8.6.: Neue Wege für das Rad im Stadtbezirk 8 - Schwanthalerhöhe
+- TOP 8.7.: Veranstaltung Kinderkreuzweg
+- TOP 8.8.: Behindertenparkplatz Westendstr. 93
+- TOP 8.9.: Veranstaltung Vorführung historischer Fahrzeuge
+- TOP 8.10.: Baumschutz Ligsalzstr. 23
+- TOP 8.1.: Verkehrsregelung Kreuzung Gollierstr. / Schießstättstr.
+- TOP 8.2.: Seminar "Praxisbezogene Baumkontrolle"
+- TOP 8.3.: Gefahrenbaum Westendstr. 97
+- TOP 8.4.: Gefahrenbaum Trappentreu- / Westendstr.
+- TOP 8.5.: Baumfällungen veröffentlichen; BV-Empf. v. 24.06.14
+- TOP 8.6.: Bewohnerparken Schießstättstraße
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Väterinitiative für engagierte Elternschaft e.V. Beschaffung von iPads Vorlage Nr. 14-20 / V 02364
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Mundart Gastronomie GmbH Gollierstraßenfest am 08.08.2015
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Mundart Gastronomie GmbH Monday Music Club
+- TOP 9.4.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule an der Bergmannstraße 36 Projekte ?Komm wir finden eine Lösung? von April bis Juli 2015 und ?Die 9. Sinfonie der Tiere? im Juni 2015
+- TOP 9.5.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Multikulturelles Jugendzentrum Westend ?mobile Spiele? vom 01.04. bis 31.10.2015
+- TOP 9.6.: (E) Budget der Bezirksausschüsse Donna Mobile AKA e.V. Nähkurs ab 20.03. bis Dezember 2015
+- TOP 9.1.: Bürgerhaushalt im Stadtbezirk
+- TOP 9.2.: Sachbericht "Generationengerechtes Wohnen"
+- TOP 9.3.: Verwendungsnachweis Green-City
+- TOP 9.4.: Verwendungsnachweis Isarlust e.V.
+- TOP 10: Anträge
+- TOP 10.1.: Eigenmittel zur Eröffnungsveranstaltung "Kunst- und Kulturtage 2015"
+- TOP 10.2.: Verkehrsregulierende Maßnahmen in der Tulbeckstraße
+- TOP 10.3.: Parksituation vor der Kirche St. Benedikt, Schrenkstraße
+- TOP 10.4.: Offenstehende Anträge aus Bürgerversammlungen
+- TOP 10.5.: Errichtung einer Bedarfsfußgängerampel Bergmannstr. / Landsberger Str.
+- TOP 10.6.: Ausbau Fahrradweg Ecke Westendstr. / Trappentreustr.
+- TOP 11: Verschiedenes
+- TOP 11.1.: Bürgerversammlung am 21.04.2015
+- TOP 11.2.: Tagungstechnik und Mieten für BA-Sitzungen
+- TOP 11.3.: Software-Umstellung für die BA-Homepage
+- TOP 11.4.: KVR Info-Veranstaltung am 22.04.15
+- TOP 11.5.: Satzungsänderung zu Information und Entscheidungsrecht bei Veranstaltungen
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
