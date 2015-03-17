@@ -1,0 +1,139 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3545918
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3545918
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der Januar-Sitzung 1.3.2 Protokoll der Februar-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Gestaltung der Brückenpfeiler am Candidplatz / Candid-Tunnel; Bürgerschreiben vom 26.02.2015
+- TOP 2.2.: Stadtpark Am Hollerbusch - Hundekottütenspender und Hundekotabfalleimer mit Deckel sowie erkennbare Hundeverbotsschilder für die Spielwiese; Antrag der GS an der Rotbuchenstraße vom 29.01.2015 - <div>nach Antrag</div>
+- TOP 2.3.: Krötenwanderung Perlacher Forst - Münchner-Kindl-Weg - temporäres Verkehrskonzept zur Rettung der Tiere; Bürgerantrag vom 27.02.2015
+- TOP 2.4.: Abhilfe des Stellplatzmangels während der Bauarbeiten in der Hochkalterstraße; Bürgerantrag vom 28.02.2015 zu 2.1.2.3 weiteres Bürgerschreiben vom 03.03.2015
+- TOP 2.5.: Hunde auf den Spielplätzen und im Perlacher Forst; Bürgerschreiben
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Kein Jahresempfang des BA 18 im Jahr 2015; Beschluss des Gremiums am 17.03.2015 (ohne Vorgang)
+- TOP 2.2.: stadtbezirksbezogener Bürgerhaushalt; Info-VA der Stadtkämmerei; Beschluss des Gremiums am 17.03.2015
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Umgestaltung des Grünstreifenabschnitts Theodolindenplatz / Ecke Geiselgasteigstraße - Nord; Befestigung durch Anlegen eines Bürgersteigs; Bürgerantrag (verwiesen aus der Sitzung vom 19.02.15) - <div>nach Antrag / mit Ergänzung</div>
+- TOP 3.3.: MVG Rad - Standorte im 18. Stadtbezirk - Bericht aus der UA-Sitzung vom Februar (Vorstellung durch die MVG - verwiesen aus der Sitzung vom 19.02.2015)
+- TOP 3.4.: Überlegungen zum Fahrradverkehr zwischen Thalkirchner Brücke und Flamingo-Eingang des Tierparks Hellabrunn (ohne Vorgang - verwiesen aus der Sitzung vom 19.02.2015)
+- TOP 3.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Sachsenstraße / Bahnüberführung (Reduzierung der Fahrbahnbreite zu Gunsten eines breiteren Gehweges); Beschluss des BA 18 vom 17.03.2015
+- TOP 4.1.: ANFRAGE - Auswirkungen der Tunnelplanungen Tegernseer Landstraße; Initiative der Fraktion Bündnis 90/Die Grünen im BA 18
+- TOP 4.2.: Entfernung des Fahrradstreifens zwischen Thalkirchner Brücke und Flamingo-Eingang/Tierpark sowie Höchstgeschwindigkeit 30 km/h; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18
+- TOP 4.1.: Erinnerungsverfahren; Anhörungen des Baureferats-Tiefbau 3.2.4.1.1 Claude-Lorrain-Straße 11 - 13; Sanierung der Gehbahn und Wiederherstellung Fahrbahn nach Spartengrabung und Verdrückungen 3.2.4.1.2 Peitinger Weg zwischen Steingadener Straße und Oberbiberger Straße; Sanierung Gehbahn und Entwässerungsrinne 3.2.4.1.3 Geiselgasteigstraße zwischen Gabriel-Max-Straße u. Menterschwaigstraße; Geh- und Radweg
+- TOP 4.1.: Rahmenplanung Tegernseer Landstraße 1. Überprüfung der Veränderung des Verkehrsflusses in Untergiesing-Harlaching nach Umsetzung der Machbarkeitsstudie 2. Vertretung der Interessen der Bürger Untergiesings und Harlachings, Bedenken in Bezug auf die zu erwartenden zusätzlichen Verkehrsströme; BA-Antrag Nr. 08-14 / B 05651 vom 18.02.2014; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 22.01.2015 (vertagt aus der Sitzung vom 19.02.2015)
+- TOP 4.2.: Fortsetzung der Kampagne "Radlhauptstadt München"; BA-Antrag Nr. 14-20 / B 00468 vom 21.10.2014; Antwortschreiben des KVR vom 02.02.2015 (positive Erledigung)
+- TOP 4.3.: Errichtung einer Bedarfsampel für Fußgänger an der Tram-Haltestelle Schilcherweg; BA-Antrag Nr. 14-20 / B 00589 vom 18.11.2014; Antwortschreiben des KVR vom 03.02.2015 (negative Erledigung)
+- TOP 4.4.: Schaffung von Parkmöglichkeiten für Pkw und Fahrräder an der Großhesseloher Brücke; BA-Antrag Nr. 14-20 / B 00449 vom 21.10.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 29.01.2015 (neutrale Erledigung)
+- TOP 4.5.: Hebenstreitstraße - Abhängung vom Zufahrtsverkehr und Verlängerung und Begrünung des von der Mondstraße kommenden Fußweges; BA-Antrag Nr. 14-20 / B 00467 vom 21.10.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 29.01.2015 (negative Erledigung)
+- TOP 4.6.: Ausnahmegenehmigung für die Ladezone Grünwalder Straße (Süd) / Volkmerstaße 1 vor dem Eingang des Stadions an der Grünwalder Straße während der Spiele und Veranstaltungen in der VIP-Lounge; BA-Antrag Nr. 14-20 / B 00784 vom 20.01.2015; Antwortschreiben des KVR vom 12.02.2015 (negative Erledigung)
+- TOP 4.7.: Handlungsprogramm Mittlerer Ring - Berücksichtigung der Vorschläge zum qualifizierten Abschluss der Ausbaumaßnahmen am Mittleren Ring; BA-Antrag Nr. 14-20 / B 00470 vom 21.10.14; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 25.02.15 (negative Erledigung)
+- TOP 4.8.: Claude-Lorrain-Straße - Antrag auf Tempolimit und Lärmschutz; Bürgeranliegen aus der Sitzung vom 20.01.2015; Antwortschreiben des Referates für Stadtpl. u. Bauordnung (zum Lärmschutz) vom 17.02.2015 (negative Erledigung)
+- TOP 4.3.3: UA Umwelt und Gesundheit
+- TOP 4.1.: Hubschrauberlandeplatz an der Marienklause? Sanierung der Grünwalder Straße / Sanierung sanitärer Anlagen in Schulen; Bürgerschreiben vom 26.01.2015 (verwiesen aus der Sitzung vom 19.02.15)
+- TOP 4.1.: Ökologische Aufwertung am Auer Mühlbach Düker; Zuleitung des RGU mit der Bitte um Stellungnahme bis 27.03.2015
+- TOP 4.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Karneidstraße 1; Ablehnungsbescheid vom 10.02.2015 3.3.6.1.2 Wolkensteinstraße 6; Ablehnungsbescheid vom 10.02.2015 3.3.6.1.3 Seybothstraße 23b; Genehmigungsbescheid vom 23.02.2015
+- TOP 4.2.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Stadtratsantrag Nr. 08-14 / A 04263 vom 17.05.2013; Sitzungsvorlagen Nr. 14-20 / V 01341; Hinweis/Ergänzung vom 03.02.2015 zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 04.02.2015 (SB)
+- TOP 4.3.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen; Empfehlung Nr. 14-20 / E 00062 der BÜV des Stadtbezirkes 08 - Schwanthalerhöhe am 24.06.2014; Sitzungsvorlagen Nr. 14-20 / V 01965; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 4.3.4: UA Soziales
+- TOP 4.1.: Unterkunft McGraw-Kaserne - Ort für Begegnungen in Giesing schaffen! Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 19.02.2015) - <div>nach Antrag</div>
+- TOP 4.1.: Einstellen der zentralen Unterbringung von Flüchtlingen, Umorganisation auf eine dezentrale Unterbringung von Flüchtlingen; Empfehlung Nr. 14-20 / E 00268 der BÜV des BA 18 vom 13.11.2014; Beschlussentwurf für den Sozialausschuss am 16.04.2015 mit der Bitte um Stellungnahme bis 24.03.2015
+- TOP 4.1.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen; Sitzungsvorlage Nr. 14-20 / V 02255; Beschluss der Vollversammlung des Stadtrates vom 28.01.2015
+- TOP 4.2.: Platz und Belegungszahlen der Kindertageseinrichtungen in der LHM zum Stichtag 1. Oktober ("Oktoberstatistik"); KITA-Jahresstatistik 2013 und 2014; Sitzungsvorlage Nr. 14-20 / V 02462; Bekanntgabe im Bildungsausschuss des Stadtrates vom 11.03.2015
+- TOP 4.3.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren; Sitzungsvorlage Nr. 14-20 / V 02233; Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015 (VB)
+- TOP 4.4.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum; Empfehlung Nr. 08-14 / E 01472 der BÜV des Stadtbezirkes 20 - Hadern vom 26.09.2012; Sitzungsvorlagen Nr. 14-20 / V 02269; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11,03.2015 (SB)
+- TOP 4.3.5: UA Bau und Planung
+- TOP 2.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 2.1.: Grünwalder Straße 40, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID; Anhörung vom 10.02.15 (vertagt aus der Sitzung vom 19.02.15)
+- TOP 2.2.: Seybothstraße 23, Antrag auf Änderung vom Einbau einer mechanischen Lüftung zu einer natürlichen Tiefgaragenlüftung; Anhörung vom 24.02.2015
+- TOP 2.3.: Wettersteinstraße 2, Anbau eines Wintergartens und Errichtung 2er Gauben; Anhörung vom 25.0.2015
+- TOP 2.4.: Athener Straße 17, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage; Anhörung vom 25.02.2015
+- TOP 2.5.: Alois-Wohlmuth-Straße 13, Neubau eines Mehrfamilienhauses (8 WE) mit TG - VORBESCHEID; Anhörung vom 25.02.2015
+- TOP 2.6.: Schilcherweg 5, Neubau von 2 Mehrfamilienhäusern mit Tiefgarage; Anhörung vom 26.02.2015
+- TOP 2.3.5.4.2: Baumbestandspläne
+- TOP 2.1.: Zeitanzeige Mangfallplatz (Süd); Bürgerschreiben vom 13.09.2014; Antwortschreiben des Baureferats-Hochbau bzw. der MVG vom 12.02.2015 (negative Erledigung)
+- TOP 2.2.: Grundsatzbeschluss zum Erhalt des Charakters stadtteilbezogener Gartenstädte; BA-Antrag Nr. 14-20 / B 00578 vom 18.11.2014; Bauliche Entwicklung in Gebieten mit Gartenstadtcharakter; BA-Antrag Nr. 14-20 / B 00586 vom 18.11.2014; Zwischennachricht des Referates für Stadtpl. u. Bauordnung vom 12.02.2015
+- TOP 2.3.: Der Bezirksausschuss 18 bittet die LHM, auf der Fläche des Baureferats-Gartenbau am Hollerbusch 1 1. bis zum Mai 2015 die Lagerung eines Maibaums für den Maibaumverein Harlaching zuzulassen, 2. nach Abriss des Bestandsgebäudes einen Kindergarten/eine Kinderkrippe zu errichten, 3. an der Grundstücksgrenze Gartenhäuschen aufzustellen, welche von außen zugänglich sind und 4. auf dem Vorplatz neben dem Schachspiel einen Spielplatz zu gestalten; BA-Antrag Nr. 14-20 / B 00786 vom 20.01.2015; Zwischennachricht des Baurefats-Gartenbau (zu Punkt 1) vom 25.02.2015
+- TOP 2.1.: Baufälle im 18. Stadtbezirk
+- TOP 2.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Anwesen Gabriel-Max-Straße; Mitteilung vom 02.02.2015
+- TOP 2.3.: Anträge und Empfehlung zur künftigen Nutzung der McGraw-Kaserne und weiterer Flächen in deren Umfeld; Sitzungsvorlagen Nr. 14-20 / V 01142; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 2.4.: Städtebauförderung in München A) Das bisherige kommunale Förderprogramm "Wohngrün.de" - Zwischenbericht B) Das neue kommunale Förderprogramm "aktiv.gestalten" - Aufstellung; Sitzungsvorlagen Nr. 14-20 / V 02230; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 2.5.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100% zu einem für das Gemeinwohl vorteilhaften Preis; Empfehlung Nr. 14-20 / E 00276 der BÜV vom 13.11.2014; Sitzungsvorlagen Nr. 14-20 / V 02362; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 2.6.: Bevölkerungsprognose der LHM - Planungsprognose 2013 bis 2030; Sitzungsvorlage Nr. 14-20 / V 02150; Bekanntgabe im Ausschuss für Stadtpl. u. Bauordnung vom 11.03.2015
+- TOP 2.7.: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Agilolfingerplatz 1; Schreiben des RBS vom 09.02.2015
+- TOP 2.8.: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Fromundstraße 5; Schreiben des RBS vom 09.02.2015
+- TOP 2.1.: Flüchtlingsunterkunft an der Nailastraße in Perlach; Ausführungen des Bayerischen Verwaltungsgerichts München zur Kenntnisnahme; Zuleitung des Referates für Stadtpl. u. Bauordnung vom 25.02.2015
+- TOP 2.3.6: UA Kultur und Veranstaltungen
+- TOP 2.1.: Veranstaltung im Freien auf Privatgrund / in einer städtischen Grünanlage; hier: Sommerfest der Kinderwelt Harlaching in der Oberbiberger Straße am 11.07.2015 (Ausweichtermin 12.07.2015); Zuleitung des KVR mit der Bitte um Stellungnahme bis 24.04.2015
+- TOP 2.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Alpen-Markt am Wettersteinplatz vom 18.07.2015 bis 02.08.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.03.2015
+- TOP 2.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Maifest am Hans-Mielich-Platz am 01.05.2015; Zuleitung des KVR vom 23.02.15 und 26.02.15 mit der Bitte um Stellungnahme bis 27.03.2015
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate; BA-Antrag Nr. 14-20 / B 00835 des BA 21 aus der Sitzung vom 03.02.2015 mit der Bitte um Kenntnisnahme
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Mieterbeiratswahl 2015; Entsendung von Mitgliedern; Schreiben des Sozialreferats vom 19.01.2015 mit der Bitte um Rückmeldung bis 30.03.2015
+- TOP 4.2.: 4.3.3 Änderung der BA-Satzung; Erlaubnis von Vergnügungsveranstaltungen nach § 19 LStVG; Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung; BA-Antrag Nr. 14-20 / B 00178 des BA 7 vom 15.07.14; Schreiben des Direktoriums vom 28.01.15 mit der Bitte um Stellungnahme
+- TOP 4.3.: 4.3.4 Mittelfristige Finanzplanung 2014 - 2018; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2015 bis 2019; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 20.04.2015
+- TOP 4.4.: 4.3.5 Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen; BA-Antrag Nr. 14-20 / B 00447 des BA 13 vom 14.10.2014; Schreiben des Direktoriums vom 24.02.2015 mit der Bitte um Stellungnahme bis 10.04.2015
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Umstellung der Software für die Bezirksauschuss-Homepage; BA-Antrag-Nr. 14-20 / B 00347 des BA 8 vom 16.09.2014; Informationsschreiben von Herrn Oberbürgermeister Reiter vom 23.02.2015
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.12.1.: München wird inklusiv! Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention & Studie zur Arbeits- und Lebenssituation von Menschen mit Behinderungen in der LHM; Schreiben des Sozialreferats vom 27.01.2015
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: AntragstellerIn: Bürgervereinigung Maibaum-Untergiesing, für die Maßnahme: Fest am 01.05.2015; Antragssumme: 2.400,00 ?; Beschlussvorlage des Direktoriums vom 05.02.2015
+- TOP 3.2.: AntragstellerIn: Urban Art Organization GmbH, für die Maßnahme: Projekt ?Brücken schlagen? im April und Mai 2015; Antragssumme: 1.785,00 ?; Beschlussvorlage des Direktoriums vom 27.02.2015 zu 3.1.2.2 Stellungnahme des Kulturreferats
+- TOP 2: Großbaustelle Rabenkopfstraße 34/36 - Verlängerung des Haltverbots; Empfehlung Nr. 14 - 20 / E 00277 der BÜV vom 13.11.2014; Sitzungsvorlage Nr. 14-20 / V 02430; Beschluss des BA 18 am 17.03.2015 - <div></div>
+- TOP 3: Einrichtung von Tempo 30 Zonen für alle Seitenstraßen zwischen Pilgersheimer Straße und Isar; Empfehlung Nr. 14-20 / E 00278 der BÜV vom 13.11.2014; Sitzungsvorlage Nr. 14-20 / V 02392; Beschluss des BA 18 am 17.03.2015 - <div></div>
+- TOP 4: Bessere Beschilderung der Parkplatzmöglichkeiten für Säbener Turnhalle sowie FC Bayern; Empfehlung Nr. 14-20 / E 00287 der BÜV vom 13.11.2014; Sitzungsvorlage Nr. 14-20 / V 02429; Beschluss des BA 18 am 17.03.2015
+- TOP 1: U-Bahnhof Candidplatz; Instandsetzungsarbeiten an den Wänden des Bahnhofs; Empfehlung Nr. 14-20 / E 00271 der BÜV vom 13.11.2014; Sitzungsvorlage Nr. 14-20 / V 02356; Beschluss des BA 18 am 17.03.2015
+- TOP 2: Erhalt der HEIMAG-Siedlung an der Säbener Straße, Information der Mieterinnen und Mieter über die vorgesehene Begehung der Wohnanlage und über das weitere Verfahren; Empfehlung Nr. 14-20 / E 00302 der BÜV vom 13.11.2014; Sitzungsvorlagen Nr. 14-20 / V 02371; Beschluss des BA 18 am 17.03.2015
+- TOP 3.2.: Weitere Ampel in der Schönstraße; Bürgeranliegen vom 28.01.2015 (verwiesen aus der Sitzung vom 19.02.15)
+- TOP 2.3.6.1: Bericht
+- TOP 2.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 2.3.6.3: Anträge
+- TOP 2.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 2.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 2.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 2.3.6.7: Sonstiges
