@@ -1,0 +1,8 @@
+# TOP 2: Umbau und Erweiterung des Verwaltungsgebäudes Rösnerstraße 10
+
+- Sitzung: Sitzung (2015-03-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/147306
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/57267
