@@ -1,0 +1,8 @@
+# TOP 11: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2015Kaiserplatz Umbau der südlichen Stiftsumfahrt zur Optimierung des Busverkehrs
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Mitte (2015-03-18)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=68140
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=18698&bi=23111
