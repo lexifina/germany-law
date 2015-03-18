@@ -1,0 +1,78 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-03-18T17:00:00+01:00
+- Ende: 2015-03-18T21:35:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3912
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=3912
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=69745
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Kleidercontainer abräumen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Fahrradbügel auf dem Innsbrucker Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Abstimmung mit dem FahrRat verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Versprechen zur Säntisstraße nur Schall und Rauch? - beantwortet
+- TOP 6.5: Aus nach 30 Jahren: Wie weiter mit dem Kulturlustgarten? - beantwortet
+- TOP 6.6: Bezirks - Senioren - Plan aufstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.7: Illegale Ferienwohnungen für Flüchtlinge nutzbar machen - in der BVV abgelehnt
+- TOP 6.8: Würdige Veranstaltung zum 70. Jahrestag der Befreiung vom Faschismus - ohne Änderungen in der BVV beschlossen
+- TOP 6.9: Chancen nutzen: Jugendverkehrsschulkonzept partizipativ überarbeiten, Grünflächen erhalten - in der BVV abgelehnt
+- TOP 6.10: An 65. Jahrestag der feierlichen Einweihung der Freiheitsglocke erinnern - in der BVV abgelehnt
+- TOP 6.11: Wohnbauförderung zum sozialen Erhalt durch Integration von Flüchtlingen - in der BVV abgelehnt
+- TOP 6.12: Denkmalpflegeplan für Friedenauer Schlesiensaal - in der BVV abgelehnt
+- TOP 6.13: Kein Tempo 30 auf dem Tempelhofer Damm - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Sanierungsstau an öffentlichen Gebäuden reduzieren - vertagt
+- TOP 9: Anträge - vertagt
+- TOP 9.1: Zeit für Kompromisse nutzen, Alternativplanungen für die Schöneberger Schleife zwischen Langenscheidtbrücke und Yorckstraße prüfen - vertagt
+- TOP 9.2: Situation für den Fahrradverkehr in der Potsdamer Straße sicherer gestalten - vertagt
+- TOP 9.3: Planerfordernis in der Gleditschstraße - überwiesen
+- TOP 9.4: Ampeln mit nutzerfreundlichen Hinweisenklebern zur Störungsmeldung versehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Aktives Gedenken am Internationalen Tag der Hilfe für politische Gefangene - erledigt
+- TOP 9.6: Hundeauslauf im Kiez ermöglichen - überwiesen
+- TOP 9.7: Unterlagen zur Senioren-BVV endlich zur Verfügung stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Kiez um die Dominicusstraße/Hauptstraße in den Blick nehmen! - vertagt
+- TOP 9.9: Würdigung für diejenigen, die helfen und Wärme schenken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Konzept gegen Homophobie in Tempelhof-Schöneberg - überwiesen
+- TOP 9.11: Ersatz für entfallene WC-Anlage in der John-Locke-Siedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.12: Die Bahnhofstraße sauberer und sicherer machen - vertagt
+- TOP 9.13: Vorkaufsrecht für ehemalige BIMA-Häuser energisch verfolgen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Mitarbeiterzuwachs ohne Räume? - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Berlin Ticket S für 24,- Euro - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Barrierefreier Zutritt in einem Degewo-Gebäude mit Arztpraxis - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Runder Tisch für obdachlose Menschen in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Ohne Jahresüberschüsse keine Haushaltssanierung Soziales muss im Bezirk handlungsfähig bleiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Ehemalige Feuerwache Rathausstraße 70-72 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Ausweitung des Angebots an Fahrrad- und PKW-Abstellplätzen am Bahnhof Buckower Chaussee statt Wegfall des P+R-Parkplatzes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Kältehilfe rettet Leben – Der Warmlufthalle „Halle-Luja“ der Berliner Stadtmission in Tempelhof-Schöneberg eine Perspektive geben! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Böden entsiegeln – Niederschlagswasser versickern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Außenwerbung der Bezirkszentralbibliothek dringend verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Tuberkulose-Untersuchungsstelle im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Kynastteich vor dem „Umkippen“ retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Aktionswoche: „Alkohol? Weniger ist besser!“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Tempo 30 in der Weskammstraße während des Schulbetriebes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Bezirkshaushaltsplan 2014/2015 – Teilplan 2015 – - Eckwerte zur Umsetzung der Neuberechnung des Bezirksbudgets 2015 neu – - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Verkehrssituation verbessern - hier: Absolutes Halteverbot Motzener Straße verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: über die Festsetzung des Entwurfs des Bebauungs-plans 7-26 für ehemaliges Bahngelände westlich der S-Bahntrasse S2 bestehend aus dem Grundstück Bautzener Straße 20 sowie aus Teilflächen der Grundstücke Dudenstraße 80/Monumentenstraße 15, General-Pape-Straße 25 und Monumentenstraße 14 sowie aus je einem Abschnitt der Kolonnen- und Monumentenbrücke im Bezirk Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Benennung von zwei Stellvertretungen für beratende Mitglieder im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Statusbericht über die Situation von Flüchtlingskindern - überwiesen
+- TOP 13.2: Quo vadis Bahnhofstraße? Geweckte Erwartungen nicht enttäuschen, Planungsprozesse transparent gestalten! - überwiesen
+- TOP 13.3: Neubau der Gustav-Heinemann-Schule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.4: Zurück zur alten Parkscheibenregelung an der Freiherr-vom-Stein-Straße anstatt mit „Kiss & Ride“ zum Standesamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14: Termin der nächsten Sitzung - erledigt
