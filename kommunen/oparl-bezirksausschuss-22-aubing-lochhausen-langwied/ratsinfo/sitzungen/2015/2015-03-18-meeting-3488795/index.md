@@ -1,0 +1,136 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3488795
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3488795
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Bau einer DB-Instandhaltungshalle auf dem ehemaligen Strasser Gelände
+- TOP 2.2.: Fußweg hinter dem Anwesen Bodenseestr. 198 - Überlinger Weg
+- TOP 2.3.: Kurzzeitparken Wiesentfelser Straße
+- TOP 2.4.: Gefährdung am S8-Gleis, Kaputter DB-Zaun in der Papinstraße
+- TOP 2.5.: Sommerstockbahn auf dem Gelände des SV Aubing
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumbeseitigung und Gehölzpflegemaßnahmen: Dreilingsweg 14, Schr. Kommunalreferat vom 18.02.15
+- TOP 3.2.: Erforderliche Beseitigung von Gefahrenbäumen in der Nähe des Hofgutes Freiham, Schr. Baureferat vom 26.02.15
+- TOP 3.3.: Baumfällungen auf Anforderung: - Aubing-Ost-Straße - Kurt-Floericke-Str. 47 - Rohrsängerplatz 18 - Bergsonstr. 156 - Eschenrieder Str. 115 - Thierlsteiner Str. 5 - Brunhamstr. 44 - Kravogelstr. 25 - Ubostr. 29 (N)
+- TOP 3.4.: Unterrichtung über bevorstehende Beseitigung von Gefahrenbäumen, Schr. Baureferat vom 19.02.15
+- TOP 4: Anträge
+- TOP 4.1.: Droht im 22. Stadtbezirk eine Verkehrslawine?
+- TOP 4.2.: Tempo-30-Zone auf der Limesstraße
+- TOP 4.3.: Prüf-Antrag zur Aufstellung eines Mülleimers
+- TOP 4.4.: Errichtung eines Haltverbots in der Aubinger Straße
+- TOP 4.5.: Handwagen für Erleichterungen bei der Grabpflege
+- TOP 4.6.: Sperrmüllcontainerplatz
+- TOP 4.7.: Erhebung von Verkehrsdaten mit Hilfe von Seitenradargeräten
+- TOP 5: Entscheidungen
+- TOP 5.2.: Bestellung eines Mieterbeirats - Mieterbeiratswahl 2015, Schr. Sozialreferat vom 19.01.15
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Betriebskonzept für UBO 9 und Weiterführung der Kultureinrichtung, Anhörung Kulturreferat vom 19.01.15 (vertagt aus 02/15)
+- TOP 6.2.: München lebt interkulturelle Vielfalt - ein Angebot für Bezirksausschüsse, Anhörung Sozialreferat vom 22.12.14 (vertagt aus 01/15)
+- TOP 6.3.: Veranstaltung im Freien auf Privatgrund / in einer städt. Grünanlage, hier: Maifest im Grünanlage Waidachanger 7a, Kapelle am 01.05.15, Anhörung KVR vom 05.03.15
+- TOP 6.1.: Runder Tisch Inklusion, Schr. Sozialreferat vom 04.02.15
+- TOP 6.2.: Neubau eines Wohnheims in Erweiterung des bestehenden städtischen Notquartiers Kastelburgstr. 56-60 in Aubing, Schr. Sozialreferat vom 03.02.15
+- TOP 6.3.: Drehgenehmigung in der Colmdorfstr. 3 am 20.02.15, Schr. KVR vom 11.02.15
+- TOP 6.4.: Jahresgenehmigung für Constantin Entertainment GmbH "Verbrechen aus Leidenschaft" und Janus TV GmbH "Hilf mir! Jung, pleite, verzweifelt", Schr. KVR vom 12.02.15
+- TOP 6.5.: München wird inklusiv!, Schr. Sozialreferat vom 27.01.15
+- TOP 6.6.: Veranstaltungsübersicht März, Schr. Kulturreferat vom 02.03.15
+- TOP 6.7.: Kontingentflüchtlinge im Hotel Pollinger in der Aubinger Str. 162 - sozialverträgliche Auszug, Schr. Sozialreferat vom 09.03.15
+- TOP 6.8.: Verstärkung Streetwork-Arbeit im Münchner Westen, BA-Antrag Nr. 14-20 / B00707, Schr. Sozialreferat vom 10.03.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Aktualisierte Datenblätter für die Grund- und Mittelschulen bzw. Förderzentren, Schr. Referat für Bildung und Sport vom 19.02.15
+- TOP 6.2.: Errichtung eines Schulpavillons in Freiham IV Süd, Schr. Ref. f. Bildung u. Sport vom 20.02.15
+- TOP 6.3.: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage an der Gotzmannstr. 19, Schr. Ref. f. Bildung u. Sport vom 25.02.15
+- TOP 6.4.: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage am Schubinweg 3, Schr. Ref. f. Bildung u. Sport vom 25.02.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Pkw-Parkzone in der Wiesentfelser Straße, Anhörung KVR vom 12.02.15
+- TOP 6.2.: Erweiterung der Bushaltestelle Altenburg-/Limesstraße, Anhörung KVR vom 05.02.15
+- TOP 6.3.: Kreuzungsumbau in der Radolfzeller Str. / Aubinger Str. / Hellensteinstr., Anhörung Baureferat vom 03.02.15
+- TOP 6.4.: Straßenunterhaltsmaßnahme der Gehbahn in der Kallenbergstraße, Anhörung Baureferat vom 13.02.15
+- TOP 6.5.: Sanierung der Gehbahn in der Dietrichsteinstraße vor der Grünanlage zwischen Heckenhofer- und Ehrenbürgstraße, Anhörung Baureferat vom 16.02.15
+- TOP 6.6.: Fahrbahnsanierung in der Ziegeleistraße südlich der Federseestraße, Anhörung Baureferat vom 17.02.15
+- TOP 6.7.: Endausbau der Bodenseestraße, Anhörung Baureferat vom 02.03.15
+- TOP 6.1.: Fahrbahnschäden Bergsonstraße und Am Langwieder Bach, Schr. Baureferat vom 16.02.15
+- TOP 6.2.: Schneeräumung in der Friedrichshafener Straße, Schr. Baureferat vom 16.02.15
+- TOP 6.3.: Sitzmöglichkeiten Bushaltestelle Bergsonstraße, Schr. MVG vom 05.02.15
+- TOP 6.4.: Bessere Vernetzung zwischen Neuaubing und Freiham, Schr. Planungsreferat vom 18.02.15
+- TOP 6.5.: Errichtung von Pollern an den Zufahrten zur Aubinger Lohe, Schr. Baureferat vom 18.02.15
+- TOP 6.6.: Einmündung und Beleuchtung Lochhausener Str. / Ecke Langwieder Bach (Zwischennachricht), Schr. KVR vom 13.02.15
+- TOP 6.7.: Fußweg hinter dem Anwesen Bodenseestr. 198 - Überlinger Weg, Schr. KVR vom 26.02.15
+- TOP 6.8.: Verschiebung der Haltelinie auf der Lochhausener Straße, Schr. KVR vom 25.02.15
+- TOP 6.9.: Tempolimit 30 km/h für die Centa-Hafenbrädl-Straße, Schr. KVR vom 27.02.15
+- TOP 6.10.: Fußgängerquerung Bodenseestr. / Aufseßer Platz, Schr. KVR vom 03.03.15
+- TOP 6.11.: Buslinie 267: Haltestelle Brunham-/ Veldensteinstr.; Buslinie 267, ganztägige Verlängerung, Schr. MVG vom 27.02.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Kunreuthstr. 80 - Neubau einer offenen Parkgarage, Anhörung vom 04.02.15
+- TOP 6.2.: Wiesentfelser Str. 68 - 70, Neubau Quartierszentrum Wiesentfelser Str. 68 mit Ladennutzung, Kita, Praxen und Wohnen - Variante B, Anhörung Planungsreferat vom 05.02.15
+- TOP 6.3.: Wiesentfelser Str. 68 - 70, Neubau Quartierszentrum Wiesentfelser Str. 68 mit Ladennutzung, Kita und Gewerbe - Variante A, Anhörung Planungsreferat vom 05.02.15
+- TOP 6.4.: Altostr. 66c - Neubau einer Wohnanlage mit Tiefgarage, Anhörung Planungsreferat vom 05.02.15
+- TOP 6.5.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Abfallentsorgunganlage der Thyssen Dück Rohstoffhandel GmbH & Co. KG, Rupert-Bodner-Str. 25 - Antrag auf Durchführung eines immissionsschutzrechtlichen Änderungsgenehmigungsverfahren, Anhörung RGU vom 02.02.15
+- TOP 6.6.: Vollzug des Allgem. Eisenbahngesetzes; Plangenehmigungsverfahren für den Neubau einer Planumschutzschicht und Tiefenentwässerung im Zuge der Erneuerung des Gleises 2 und der Weichen 217-219 im Bahnhof München-Freiham, Bahnstrecke 5541 München-Pasing - Herrsching, km 5,0 bis 5,8, Herstellung des Benehmens mit den Trägern öffentlicher Belange, Anhörung Planungsreferat vom 06.03.15
+- TOP 6.1.: Baufälle im 22. Stadtbezirk v. 26.01.-01.02.15, 02.02.-08.02.15, 09.02.-15.02.15, 23.02.-01.03.15 (N) 02.03.-08.03.15, Schr. vom 03.02.15, 10.02.15, 18.02.15, 23.02.15, 02.03.15, (N) 09.03.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München - Stichtag: 02.02.15, 10.02.15, 16.02.15, 23.02.15, 02.03.15, (N) 09.03.15
+- TOP 6.3.: Grünanlage südlich der Wiesentfelser Straße - Information über die geplante Beteiligung zur Sanierung und Aufwertung der Jugendspielfläche, Schr. Baureferat vom 10.02.15
+- TOP 6.4.: Schließung des Wertstoffhofes an der Mühlangerstraße wegen herabstürzenden Schnee- und Eismassen?, Schr. AWM vom 12.02.15
+- TOP 6.5.: Eine schöne Bescherung - Verbesserung der Zustände an den Wertstoffinseln im 22. Stadtbezirk an Feiertagen und verlängerten Wochenenden, Schr. AWM vom 30.01.15
+- TOP 6.6.: Bauträgerauswahl für städt. Baugrundstücke, Kommunales Wohnungbauprogramm - Teilprogramm B, Beschlussentwurf für Sozialausschuss vom 16.04.15, Schr. Sozialreferat vom 18.02.15 (wird in nichtöffentlicher Sitzung behandelt)
+- TOP 6.7.: Autohändler in der Georg-Böhmer-Str. 1, Schr. Planungsreferat vom 19.02.15
+- TOP 6.9.: Information zu den Ausbauplänen des Böhmer Weihers, Schr. Baureferat vom 18.02.15
+- TOP 6.8.: Baumaßnahmen der SWM: Fernwärmeprojekt Reichenaustraße, Schr. SWM vom 23.02.15
+- TOP 6.10.: Abfallentsorgungsanlage der Thyssen Dück Rohstoffhandel GmbH & Co. KG, Rupert-Bodner-Str. 25 - Antrag auf Durchführung eines immissionsschutzrechtlichen Änderungsgenehmigungsverfahrens nach § 16 BImSchG, Schr. RGU vom 27.02.15
+- TOP 6.11.: Baumaßnahmen der SWM, Stromprojekt Gedingweg, Schr. SWM vom 04.03.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mittelfristige Finanzplanung 2014 - 2018: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2015-2019, Anhörung Stadtkämmerei vom 23.02.15
+- TOP 7.2.: Verkauf einer städtischen Immobilie: Anton-Böck-Straße, Anhörung Kommunalreferat vom 29.01.15
+- TOP 7.3.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen, Anhörung Direktorium vom 24.02.15
+- TOP 7.4.: Frühzeitige Information des BA's über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des KVR der BA-Satzung und Entscheidungsrecht für die BA`s bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen, BA-Antrag Nr. 5869 des BA 6 - Sendling; Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz, BA-Antrag Nr. 361 des BA 9 - Neuhausen-Nymphenburg; Anhörung Direktorium vom 05.03.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mitteilung über ein Grundstücksgeschäft: - Ludwig-Schmid-Straße, Schr. Kommunalreferat vom 04.02.15
+- TOP 8.2.: Umstellung der Software für die Bezirksausschuss-Homepage, Schr. OB vom 23.02.15
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Denkenhofstraße, Schr. Sozialreferat vom 10.02.15 (N) - Kohlmeisenstr., Schr. Sozialreferat vom 03.03.15
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 21.01.15: - Vergrößerung des Angebots an öffentlichen Grünflächen; Ausgleich des Verlusts an Grünflächen durch Nachverdichtung im Stadtbezirk (BVE Nr. 14-20/ E 00073 vom 03.07.14)
+- TOP 10.2.: Beschluss des Kommunalausschusses vom 22.01.15: - Straßenbenennung im 22. Stadtbezirk: Umbenennung der Bacherbreite und der Mälzereistraße
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.15: - Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städt. Wohnungbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter
+- TOP 10.4.: Beschluss des Bauausschusses vom 10.02.15: - Verlängerung der U-Bahn-Linie 5 - West von Laim nach Pasing
+- TOP 10.5.: Beschluss der Vollversammlung vom 28.01.15: - 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 10.6.: Bekanntgabe im Bildungsausschuss vom 11.03.15: - Platz- und Belegungszahlen der Kindertageseinrichtungen in der LH München zum Stichtag 1. Oktober
+- TOP 10.7.: Beschluss des Bildungsausschusses vom 11.03.15: - Generalinstandsetzung und Umbau der ehemaligen Grundschule Schussenrieder Str. 5 in ein Haus für Kinder im 22. Stadtbezirk - Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren
+- TOP 10.8.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.03.15: - Bevölkerungsprognosen der LH München - Planungsprognose 2013 bis 2030
+- TOP 10.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: - Bebauungsplan mit Grünordnung Nr. 2060, Freihamer Weg (östlich), Bahnlinie München-Buchloe (südlich), Colmdorfstr. (westlich), Pretzfelder Str. (nördlich) - Verkehrsplanung im Münchner Westen, Prüfung einer Anbindung Mühlangerstr. / Von-Kahr-Str. an die Autobahn A 8 - Bebauungsplan mit Grünordnung Nr. 2068, Germeringer Weg (südlich), Freihamer Weg (westlich), Kunreuthstr. (westlich), Wiesentfelser Str. (westlich), Anton-Böck-Str. (beiderseits), S-Bahnlinie München-Herrsching (nördlich), Bodenseestr. (nördlich), verlängerte Freihamer Allee (östlich) - Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis - Rechtzeitige Veröffentlichung von geplanten Baumfällungen - Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum - Städtebauförderung in München (N)- Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen - Städt. Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, 2. Hinweis/Ergänzung
+- TOP 10.10.: Beschluss des Bauausschusses vom 20.10.15: - Gleisdreieck Pasing, Paosostraße, Bau eines Fuß- und Radweges und einer Skateanlage im Stadtbezirk 22
+- TOP 10.11.: Beschluss des Stadtentwässerungsausschusses vom 17.03.15: - Siedlungsschwerpunkt Freiham Nord, Kanalbau im Umgriff des Bebauungsplanes mit Grünordnung Nr. 2068
+- TOP 10.12.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.15: - Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger"
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zur KVR-Infoveranstaltung für die Bezirksausschüsse am 22.04.15 um 18 Uhr, Ruppertstr. 11 (Saal im EG), Schr. KVR vom 16.02.15
+- TOP 11.2.: Einladung zur Informationsveranstaltung der SWM am 23.03.15 um 18 Uhr in der SWM-Zentrale, Emmy-Noether-Str. 2, Raum A 01 und A 02, Schr. SWM vom 09.02.15
+- TOP 11.3.: Einladung zum Informationsgespräch im Referat für Bildung und Sport am 19.03.15 von 18 - 20 Uhr, Raum E 038/039 in der Bayerstr. 28, Schr. Referat für Bildung und Sport vom 18.02.15
+- TOP 11.4.: Einladung zur Informationsveranstaltung Denkmalschutz am 23.03.15 von 17-19 Uhr in der LBK, Blumenstr. 19 im Großen Sitzungssaal, Raum 614, Schr. Planungsreferat vom 12.02.15
+- TOP 11.5.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate, Antrag des BA 21 vom 03.02.15
+- TOP 11.6.: Öffentliche Erörterung am Donnerstag, den 23.04.15 um 18.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 zur Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2086 Trimburgstr. (südlich), Am Gleisdreieck (westlich), Voglerstr. (nördlich), Leisaustr. (östlich) (Teiländerung des Bebauungsplanes Nr. 1094) - Dornier-Gelände -
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 22.04.15 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschusssitzungen: - UA Bauen, Planung, Umwelt: Mo., 09.03.15, 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Di., 10.03.15, 19.00 Uhr, Limesstr. 111 - UA Bildung, Schule, Sport: Mi., 11.03.15, 18.30 Uhr im Bildungslokal, Limesstr. 81 - UA Soziales, Familie, Senioren, Kultur: Di., 10.03.15, 18.30 Uhr im Pasinger Rathaus, Raum 40, Landsberger Str. 486
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 8.4.: Durchführung eigener Veranstaltungen, Schr. Direktorium vom 02.03.15
+- TOP 8.5.: Präsentation Bürgerhaushalt vom 02.03.15, Schreiben Direktorium vom 03.03.15
+- TOP 5.1.: Budget der Bezirksausschüsse Freiwillige Feuerwehr Langwied-Lochhausen von 1878 e.V. Beschaffung eines Fahnenschrankes
+- TOP 2.6.: Aufstellung eines Pollers am Durchgang Noderstraße/Bergsonstraße
+- TOP 2.7.: Machbarkeitsstudie zu Verkehrsführung Georg-Böhmer-Straße / Altostraße
