@@ -1,0 +1,8 @@
+# TOP 9: 2. Stufe Lärmaktionsplan (LAP) Mönchengladbach - Vorentwurf und Öffentlichkeitsbeteiligung
+
+- Sitzung: Bezirksvertretung Nord (2015-03-18)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/124496
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/19367
