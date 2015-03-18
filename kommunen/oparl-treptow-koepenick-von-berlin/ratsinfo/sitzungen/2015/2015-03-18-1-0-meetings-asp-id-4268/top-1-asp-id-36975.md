@@ -1,0 +1,7 @@
+# TOP 1: Vorstellung der Einrichtung und Nachfragen (anschließenmd: Wechsel zum Sitzungsort)
+
+- Sitzung: 57. (öffentliche) Sitzung des Jugendhilfeausschusses (2015-03-18)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=36975
+- Ergebnis: (offen)
