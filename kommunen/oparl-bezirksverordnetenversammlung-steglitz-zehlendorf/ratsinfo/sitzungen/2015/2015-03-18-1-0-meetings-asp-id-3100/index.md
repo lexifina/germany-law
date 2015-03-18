@@ -1,0 +1,96 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-03-18T17:00:00+01:00
+- Ende: 2015-03-18T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3100
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3100
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Zusätzliche Baumittel auch verfallen lassen? - beantwortet
+- TOP 3.2: Kita- und Spielplatzsanierungsprogramm für 2015 - beantwortet
+- TOP 3.3: Aktivitätsversagen im Bezirksamt? Legionellen II. - beantwortet
+- TOP 3.4: Schon wieder Hecken weg? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellungen - erledigt
+- TOP 4.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufungen - erledigt
+- TOP 4.2.1: Abberufung eines stellvertretenden Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Abberufung einer stellvertretenden Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Wannsee nicht abhängen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bürgerfreundliches Bürgeramt Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Kanten zwischen Fuß- und Radwegen entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Geschlechterneutrale Toiletten einrichten - in der BVV abgelehnt
+- TOP 4.4.4: Fortführung des Zehlendorfer Ratskellers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Reinigung und Reparatur der Treppen in der Kilstetter Straße, Brettnacher Straße und Mörchinger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Biotopverbundnetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Private Zimmer für Studierende - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Spielstraße am Lauenburger Platz einrichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Bouleplatz für den Lilienthal-Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Inklusion ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Bilingualität (deutsch/englisch) auch am Dreilinden-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Verkehrsgutachten Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Wartehäuschen für die Bushaltestelle Charité - Campus B. Franklin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Öffentliches Eigentum gemeinnützig reparieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Baugenehmigungen unter Berücksichtigung DIN-Norm 18920 (Baumschutz auf Baustellen) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Maßnahmen nach dem Sonderprogramm 2014 für Schulen ausführen - in der BVV abgelehnt
+- TOP 4.4.17: Instandsetzung der Toiletten auf dem Waldfriedhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.18: Sanierung der Fichtenberg-Oberschule (Gymnasium) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.19: Sicherer Fußgängerübergang auch für sehbehinderte Menschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.20: Weiteren Bettenabbau am UKBF der Charité verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.21: Busfahrzeiten Grundschule am Buschgraben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.22: Fachinformation Barrierefreiheit im Bauservice sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.23: Weniger Verkehr in der Crailsheimer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.24: Einsatz für Wohnplätze im "geschützten Marktsegment" bei Wohnungsbaugenossenschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.25: Mehr Sicherheit an der Breisgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Vorlagen zur Kenntnisnahme: Schriftliche Beantwortung Großer Anfragen - erledigt
+- TOP 4.5.1: Sanierung und barrierefreier Umbau des Deutschen Blindenmuseums in der Rothenburgstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Aktivierung der Toilettenanlage des Wasserwerkes Riemeisterfenn zur Nutzung für die Besucher der Badestelle Krumme Lanke - überwiesen
+- TOP 5.1.2: Voruntersuchung Milieuschutzgebiete initiieren - überwiesen
+- TOP 5.1.3: Bezirkliche Sammelbehälter für Pfandflaschen - überwiesen
+- TOP 5.1.4: Jugendverkehrsschule Steglitz - überwiesen
+- TOP 5.1.5: Bauprojekt Johannesstraße - überwiesen
+- TOP 5.1.6: Orientierung für Bus-Fahrgäste am S-Bahnhof Zehlendorf - überwiesen
+- TOP 5.1.7: Pilotprojekt "Nette Toilette" - überwiesen
+- TOP 5.1.8: Langfristiger Pachtvertrag für Yacht-Club Müggelsee e. V. auf Lindwerder und die Wassersportnutzung rechtlich absichern jetzt - überwiesen
+- TOP 5.1.9: Umgehende Umsetzung des geplanten Aufbaus einer zentralen Impfstelle für Flüchtlinge - überwiesen
+- TOP 5.1.10: Übergang erleichtern - überwiesen
+- TOP 5.1.11: Fahrradführung Kamenzer Damm/Ecke Malteserstraße - überwiesen
+- TOP 5.1.12: Ausbau des Baseballplatzes - Sportplatz Sachtlebenstraße - überwiesen
+- TOP 5.1.13: Dialog-Display für die Altdorfer Straße - überwiesen
+- TOP 5.1.14: Tätigkeit des Bezirksamts im Portfolio-Ausschuss des Liegenschaftsfonds / BIM - überwiesen
+- TOP 5.1.15: Musikschule von Haushaltssperre ausnehmen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: SIWA-Mittel für die Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Dringliche Vorlagen zur Beschlussfassung und Beschlussempfehlung von Ausschüssen - erledigt
+- TOP 7.1.1: Anmeldungen für die Investitionsplanung 2015 bis 2019 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Investitionsplanung 2015 - 2019: 20 % zusätzlich für den Schulbereich verwenden! - in der BVV abgelehnt
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Vergabeverfahren Schule am Karpfenteich - beantwortet
+- TOP 9.2: Rechtswidrige Stellenbesetzung im Umweltamt durch Bezirksstadträtin Markl-Vieto? Was wusste Bezirksbürgermeister Kopp? - beantwortet
+- TOP 9.3: Impfschutz im Bezirk - beantwortet
+- TOP 9.4: Sondervermögen Infrastruktur der wachsenden Stadt "SIWA" - Chancen für Steglitz-Zehlendorf - zurückgezogen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Endlich freie Wohnungen in der Mudrastraße vermieten - in der BVV abgelehnt
+- TOP 10.2: Renovierung der Mudrastraße peu à peu - in der BVV abgelehnt
+- TOP 10.3: Attraktive Veranstaltung mit verkaufsoffenem Sonntag in der Schloßstraße - vertagt
+- TOP 10.4: Bezirkswohnraum Tautenburger Straße erhalten - vertagt
+- TOP 10.5: Unterkünfte für Flüchtlinge suchen - vertagt
+- TOP 10.6: Eine weitere Staatliche Europaschule (SESB) für Steglitz-Zehlendorf - vertagt
+- TOP 10.7: Finanzierung der Integrationslotsen (Stadtteilmütter) sichern - vertagt
+- TOP 11: Schlusswort des Vorstehers - erledigt
