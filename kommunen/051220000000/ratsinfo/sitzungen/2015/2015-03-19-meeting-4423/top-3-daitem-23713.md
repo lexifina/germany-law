@@ -1,0 +1,6 @@
+# TOP 3: Vorstellung des Projekts einer Fußballgruppe für Kinder und Jugendliche mit Handicap
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (6. Sitzung) (2015-03-19)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/23713
