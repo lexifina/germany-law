@@ -1,0 +1,59 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-03-19T18:00:00+01:00
+- Ende: 2015-03-19T20:18:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1228
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1228
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Breitbandausbau http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062537.pdf
+- Ergebnisprotokoll: Breitbandausbau http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062537.pdf
+- Wortprotokoll: Breitbandausbau http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062537.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: CDU, Antrag Nr. 75/15 - einstimmig
+- TOP 2.1.2: CDU, Antrag Nr. 76/15 - einstimmig
+- TOP 2.1.3: SPD, Antrag Nr. 78/15 - einstimmig
+- TOP 2.2: SPD
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.5: B 90/Grüne
+- TOP 2.6: ABG
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.8: Die Linke/Piraten
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: SPD, Anfrage Nr. 82/15 - Kenntnisnahme
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/Grüne
+- TOP 3.6: ABG
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.8: Mein Grevenbroich
+- TOP 3.8.1: Mein GV, Anfrage Nr. 4/15 - Kenntnisnahme
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Bericht
+- TOP 5.1: Finanzen
+- TOP 5.2: Feuerschutz
+- TOP 5.2.1: Antrag der CDU-Fraktion Nr. 34/15 "Anschaffungen Feuerwehr" - mehrheitlich bei
+- TOP 5.3: Soziales
+- TOP 5.4: Bericht aus dem Arbeitskreis Demografie - Kenntnisnahme
+- TOP 6: Beantwortung von Anträgen
+- TOP 6.1: Antrag der SPD-Fraktion "Bürgerdienste in den Stadtteilen" (Antrag Nr. 318/14) - Kenntnisnahme
+- TOP 7: Beantwortung Anfragen
+- TOP 7.1: Mein GV, Anfrage Nr. 3/2015 - Kenntnisnahme
+- TOP 7.2: Mein GV, Anfrage Nr. 4/2015 - Kenntnisnahme
+- TOP 7.3: Mein GV, Anfrage Nr. 12/15 - Kenntnisnahme
+- TOP 8: Beantwortung von mündlichen Anfragen aus den letzen Sitzungen
+- TOP 8.1: Beantwortung Anfragen - Kenntnisnahme
+- TOP 8.2: Informationsveranstaltung Stadtmarketing (Antrag + Anfragen Nr. 45/15) - einstimmig
+- TOP 9: Mündliche Anträge/Anfragen
+- TOP 10: Mitteilungen BM'in
