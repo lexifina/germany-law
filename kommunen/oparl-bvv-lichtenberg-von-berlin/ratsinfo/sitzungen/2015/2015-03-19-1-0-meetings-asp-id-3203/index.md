@@ -1,0 +1,88 @@
+# 42. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-03-19T17:00:00+01:00
+- Ende: 2015-03-19T22:35:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3203
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3203
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=118502
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Angebote für Sozialberatung für die Beschäftigten des Bezirksamtes Lichtenberg - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - beantwortet
+- TOP 8.1: Umsetzung von Bürgerhaushaltsvorschlägen - beantwortet
+- TOP 8.2: Milieuschutzgebiete - beantwortet
+- TOP 8.3: Sanierungsbedarf bei Sportanlagen - beantwortet
+- TOP 8.4: Umsetzungsstand der Drucksache 0451/VII - Tempo 30 in der Dönhoffstraße - beantwortet
+- TOP 8.5: Zukunft des Interkulturellen Garten - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Bezirkshaushaltsrechnung 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Weitere Wochenmärkte für Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Museum Lichtenberg deutlicher erkennbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Parken am Wochenende vor den Kitas in der Schulze-Boysen-Straße erlauben - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Sicheres Passieren der Simon-Bolivar-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Sondermittel für den Sportverein Bau-Union Berlin e. V. - überwiesen
+- TOP 9.7: Sondermittel für die Manfred-von-Ardenne-Schule - überwiesen
+- TOP 9.8: Sondermittel für die AWO Südost e. V. - überwiesen
+- TOP 9.9: Rederecht in den Ausschüssen für den Beirat für Menschen mit Behinderung - überwiesen
+- TOP 9.10: Inklusive Abenteuerspielplätze für Lichtenberg - überwiesen
+- TOP 9.11: Stellplätze auf Einzelhandelsflächen für Anwohnende verfügbar machen - überwiesen
+- TOP 9.12: Informationen über Sportangebote für Menschen mit Behinderungen - überwiesen
+- TOP 9.13: Fußweg am S-Bahnhof Hohenschönhausen beleuchten - überwiesen
+- TOP 9.14: Verkehrsberuhigung für Falkenberg - verkehrsberuhigte Zone anordnen - überwiesen
+- TOP 9.15: Größere Müllbehälter für Ober- und Orankesee - Sauberkeit forcieren - überwiesen
+- TOP 9.16: Quick Response Cobble - überwiesen
+- TOP 9.17: BVV-Sondermittel für den Berliner Volleyballverein Vorwärts e. V. - überwiesen
+- TOP 9.18: BVV-Sondermittel für den SV Bau-Union e. V. Berlin, Abt. Bogensport - überwiesen
+- TOP 9.19: Sondermittel für die Deutsche Meisterschaft im Bogenlauf - überwiesen
+- TOP 9.20: Sondermittel für das 19. Abrafaxe Kinderschachturnier - überwiesen
+- TOP 9.21: Jahreskulturprogramm wieder veröffentlichen - überwiesen
+- TOP 9.22: Abschluss einer Städtepartnerschaftsvereinbarung mit 5. Wiener Gemeindebezirk Margareten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.23: Informationsrechte im Umgang mit personenbezogenen Daten stärken (Transparenz) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Runder Tisch Fahrrad für Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Sondermittel für das Projekt "Die Weihnachtsgeschichte von Ravensbrück" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: BVV-Sondermittel für den Kulturring in Berlin e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: arrivo Berlin unterstützen - Geflüchtete in den Arbeitsmarkt integrieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.29: Bebauungsplan 11-107 - Aufstellungsbeschluss Arbeitstitel: Nördlich Schleizer Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.30: Bebauungsplan 11-24 VE - Behördenbeteiligung Arbeitstitel: östlich Arendsweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Wahl eines Bürgerdeputierten zur Nachbesetzung in den Ausschuss Wirtschaft und Arbeit - gewählt
+- TOP 11.2: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 11.3: Wahl einer Bürgerdeputierten - gewählt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 12.1: Sichere Querung des Übergangs Ribnitzer Straße/Ecke Zingster Straße - überwiesen
+- TOP 12.2: Trinkwasserangebot für wartende Kundinnen und Kunden in den Lichtenberger Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4: Vorschläge zum Bürgerhaushalt aus dem I. - III. Quartal 2014 und vertagte Vorschläge aus 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Flüchtlingspatenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Willkommensinitiative und Willkommensportal für Ärzte einrichten - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Zentraler Busbahnhof und Fernbusstationen nach Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Resolution der Gesundheitskonferenz zur Situation von Kindern und Jugendlichen mit psychiatrischen Erkrankungen in Lichtenberg unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Anmeldung zur Investitionsplanung 2015 - 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Gelbe Punkte für Fahrradwracks - in der BVV abgelehnt
+- TOP 13.2: Geschichte darf nicht Geschichte werden - in der Schule - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Aus Anlass des 70. Jahrestages der Befreiung die Straße Alt-Friedrichsfelde in Straße der Befreiung rückbenennen - überwiesen
+- TOP 13.4: Pflege der Sowjetischen Ehrenmale - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Beteiligung am Wettbewerb Zukunftsstadt - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Straßenmarkierung soll Sicherheit erhöhen - vertagt
+- TOP 13.7: Willkommenskultur in Lichtenberg - Lichtenberg macht Schule - vertagt
+- TOP 13.8: Weitere Standorte für anzeigenunabhängige vertrauliche Spurensicherung nach Vergewaltigung einrichten! - vertagt
+- TOP 13.9: Naturschutzfachliche Maßnahmen für das Nordwestufer des Rummelsburger Sees - vertagt
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Keine Bundeswehrwerbung an den Schulen - vertagt
+- TOP 15: Schließung der Sitzung - erledigt
