@@ -1,0 +1,57 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2015-03-20T16:00:00+01:00
+- Ende: 2015-03-20T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3016
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3016
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Erhöhung Teilnehmerentgelte Kulturforum Alte Post/ Änderung Entgeltordnung zum - einstimmig zugestimmt
+- TOP 7: Bezahlbarer Wohnraum in Neuss 2030 - mehrheitlich zugestimmt
+- TOP 8: Rahmenplan Industrie Neuss – Handlungsempfehlungen - einstimmig zugestimmt
+- TOP 9: Ersatzneubau Brücke Auf den Stöcken - einstimmig zugestimmt
+- TOP 10: Sanierung Stützmauer Batteriestraße, abgestützter Bereich - einstimmig zugestimmt
+- TOP 11: Erschließung Baugebiet BPL 458 - Vogelsang, Gewerbegebiet Bataverstr. (1. BA, KV Lebensmittelmarkt) - einstimmig zugestimmt
+- TOP 12: Barrierefreier Umbau Bushaltestellen "Krurstraße" und "Deutsche Straße" - einstimmig zugestimmt
+- TOP 13: Barrierefreier Umbau Bushaltestelle "Macherscheider Straße" auf der Rheinfährstraße (stadteinwärts) - einstimmig zugestimmt
+- TOP 14: Barrierefreier Umbau Bushaltestellen "Lessingplatz" auf der Südstraße - einstimmig zugestimmt
+- TOP 14.1: Zustand der Bahnhöfe Allerheiligen und Norf - einstimmig zugestimmt
+- TOP 15: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses - einstimmig zugestimmt
+- TOP 16: Änderung der Satzung zur Regelung von Fristen und Verfahrensabläufen für die Antragstellung der ... - einstimmig zugestimmt
+- TOP 17: Ausbau- und Bedarfsplanung Kindertagesbetreuung 2015 ff. - einstimmig zugestimmt
+- TOP 18: Städtische Richtlinien zur Vergabe von Investitionsmitteln zur Schaffung von Plätzen für Kinder - einstimmig zugestimmt
+- TOP 19: Kinderspielplatzprogramm inklusive Ausbauplanung 2015 - einstimmig zugestimmt
+- TOP 20: Barrierefreier Ausbau Haltestelle Kotthauserweg /Gladbacher Str. - einstimmig zugestimmt
+- TOP 21: Barrierefreier Ausbau der Haltestellen Hauptbahnhof Busteig 3 und Bussteig 4 - einstimmig zugestimmt
+- TOP 22: Vorhabenbezogener Bebauungsplan Nr. V 109/6 - Vogelsang, Römerstraße / Furtherhofstraße - Einleitung - mehrheitlich zugestimmt
+- TOP 23: VBP Nr. V 113/2 - Gnadental, Sophienstraße, Kölner Straße- Einleitung - einstimmig zugestimmt
+- TOP 24: Städtebauliche Entwicklung "An der Münze" - einstimmig zugestimmt
+- TOP 25: Bebauungsplan Nr. V 151/2 - Furth-Süd, Wolberostraße / Alemannenstraße - - einstimmig zugestimmt
+- TOP 26: Umbau und Erweiterung der Rettungswache Mitte - einstimmig zugestimmt
+- TOP 27: Neufassung der „Straßenordnung der Stadt Neuss“ nach Ablauf der Geltungsdauer - einstimmig zugestimmt
+- TOP 28: Entsendung Mitglieder in Fachausschüsse - einstimmig zugestimmt
+- TOP 29: Offene Ganztagsschule – Erhöhung der Budgets nach Änderung der Förderrichtlinie - einstimmig zugestimmt
+- TOP 30: Herbert-Karrenberg-Schule; hier: Planung und Kostenschätzung - einstimmig zugestimmt
+- TOP 31: Zuschuss Mensen; hier: Betrieb der Mensa an der Janusz-Korczak-Gesamtschule - einstimmig zugestimmt
+- TOP 32: Bessere Anbindung von zwei Schulen an ÖPNV - verwiesen
+- TOP 33: Zweckgebundener Zuschuss für die Neusser-Eine-Welt-Initiative e. V. (NEWI) für die Eine-Welt-Arbeit - einstimmig zugestimmt
+- TOP 34: Zweckgebundener Zuschuss für die neuss-agenda21 e. V. für die Agendaarbeit in Neuss für das Jahr 201 - einstimmig zugestimmt
+- TOP 35: Maßnahmenplan zur Verbesserung der Situation am Jröne Meerke - einstimmig zugestimmt
+- TOP 36: ZUE- Stresemannalllee - einstimmig zugestimmt
+- TOP 37: Antrag der SPD-Fraktion vom 9.März 2015 betr:Digitale Bürgerdienste - verwiesen
+- TOP 38: Antrag der SPD-Fraktion vom 9. März 2015 betr.: Ehrenordnung des Rates aktualisieren - einstimmig zugestimmt
+- TOP 39: FDP-Antrag Keine Windräder Hoisten - mehrheitlich abgelehnt
+- TOP 40: Anfrage des Stadtverordneten Cziesla, Die Linke, Jagd auf dem Neusser Stadtgebiet - zur Kenntnis genommen
+- TOP 41: Offenlegung von Zuwendungen an Organisationen, Vereine usw. durch „städtische Betriebe“ - zur Kenntnis genommen
+- TOP 42: Einwohnerfragestunde - zur Kenntnis genommen
