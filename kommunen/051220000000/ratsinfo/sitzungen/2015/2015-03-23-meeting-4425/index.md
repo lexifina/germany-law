@@ -1,0 +1,56 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-03-23T17:00:00+01:00
+- Ende: 2015-03-23T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTznuR4wfXnJM7Ps8aTSNsI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4425
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYtbc0wRHqcwYqPGA9ni4kIgaMT8Hrp_dvl_al65EzYW/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_23.03.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Soziale Stadt Nordstadt
+- TOP 5: Soziale Stadt Nordstadt
+- TOP 6: Abrechnungssatzung für die Fußgängerzone Alter Markt/Ohliger Tor/Kirchstraße/Linkgasse
+- TOP 7: Abrechnungssatzung Wiener Straße
+- TOP 8: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, Stellungnahme der Stadt Solingen
+- TOP 9: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, Stellungnahme der Stadt Solingen
+- TOP 10: Online-Beteiligung zu gewerblichen Bauflächen
+- TOP 11: Neufassung von Standorten für die Windenergienutzung in Solingen
+- TOP 12: Ausbau der Elektromobilität: E-Bus 2020
+- TOP 13: Parkraumneuordnung und -bewirtschaftung Innenstadt (Weyersberg, Theater)
+- TOP 14: Parkraumneuordnung und -bewirtschaftung Innenstadt
+- TOP 15: Bauleitplanung Monhofer Straße/Weyerstraße
+- TOP 16: Bauleitplanung Wuppertaler Straße/gegenüber Schulte vom Brühl
+- TOP 17: Standardabsenkung bei Hoch- und Tiefbaumaßnahmen
+- TOP 18: Verbesserung des Busliniennetzes
+- TOP 19: Zwischenbericht über die Umsetzung des Programms City 2013
+- TOP 20: Kostenloses W-LAN
+- TOP 21: Förderung umweltfreundlicher Mobilität
+- TOP 22: Verschiedenes
+- TOP 23: Waldzustandsbericht NRW und der Zustand Solinger Wälder
+- TOP 24: Straßenbeleuchtung und Energieeinsparung
+- TOP 25: Gesamtgutachten Ittertal
+- TOP 26: Gewerbeflächenprognoseberechnung
+- TOP 27: Kosten der Plakataktion zur Online Öffentlichkeitsbeteiligung zum Thema Gewerbegebiete.
+- TOP 28: Parkraumbewirtschaftung Klingenhalle
+- TOP 29: ÖKOPROFIT 2013/14
+- TOP 30: Bericht über den ökologischen Zustand einzelner Bachläufe
+- TOP 31: Leben braucht Vielfalt 2015
+- TOP 32: Notwendige Fällung eines Naturdenkmals
+- TOP 33: Teilnahme der Stadt Solingen an der Klimaschutzaktion Earth Hour 2015
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Errichtung einer Kindertagesstätte mit sechs Gruppen auf dem Grundstück Beethovenstr. 261
+- TOP 5: Verschiedenes
+- TOP 6: Folgenutzung für den aufzugebenden Betriebshof der TBS an der Wuppertaler Straße
