@@ -1,0 +1,7 @@
+# TOP .2.: Fraunhoferstr. 23, Antrag auf Baumfällung, 1 Zierapfel
+
+- Sitzung: BA 02 - Vollgremium (2015-03-24)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/395739
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/395739
