@@ -1,0 +1,124 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-03-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3400313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3400313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3.1.: Neues für die Münchner Freiheit vom Stadtplaner und Architekten Fritz Hubert
+- TOP 3.2.: Nutzung der Lotte-Branz-Straße 2 und 3 (Sozialreferat)
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.1.: Standortvorschlag für den neuen Konzertsaal in München
+- TOP 7.1.: Durchführung eigener Veranstaltungen (BA-Informationsschreiben Nr. 01/15)
+- TOP 8: Entscheidungen (1)
+- TOP 9.3.: Ernennung eines Flüchtlingsbeauftragten im BA 12
+- TOP 10: sonstiges
+- TOP 10.1.: Umstellung der Software für die Bezirksausschuss-Homepage BA-Antrag Nr.: B 00347 des BA 8 Schwanthalerhöhe
+- TOP 1.1.: Eingang Nordfriedhof
+- TOP 2: Entscheidungen (2)
+- TOP 1: (E) Ablehnung der beantragten Erhöhung der Zuschauerkapazität in der Allianz-Arena auf 75.000 Empfehlung Nr. 14-20 / E 00090 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 08.07.2014
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Erinnerungsverfahren a) Frankfurter Ring 2 bis 230, Radwegsanierung einschließlich Zufahrten
+- TOP 3.2.2.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top C.3.1 und D.3.2.1)
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.2.: Entfernung der Infosäule an der Münchner Freiheit
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2.1.: Umwandlung der Lizenzparkregelung ?Mischparken? in ein ?reines Bewohnerparken? in der Kaulbachstraße zwischen Kißkaltplatz und Trautenwolfstraße
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 2: Entscheidungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Erlöserkirche München-Schwabing 1. Schwabinger Orgelsonntag am 10.05.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Fröttmaninger Kunst- und Kulturkreis "Kukuk" e.V.; Jubiläumsfest am 18./19.04.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Linkshänder e.V. Straßenkunst-Projekt "Ein Platz für alle" am 16./17.05.2015
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Straßenkunst-Projekt "Ein Platz für alle" am 16./17.05.2015
+- TOP 3.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top B.3.2.2. und D.3.2.1)
+- TOP 3.2.: Kinderspielaktion im Haidpark am 29.04.2015
+- TOP 3.3.: Naturpädagogisches Projekt ?Auf zu neuen Schafen? vom 25.06 bis 28.07.2015 am Fröttmaninger Berg
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Unerträgliche Situation in den Hauseingängen der Leopoldstraße 157-159
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.2.2.: ?Siamo?, Schank- und Speisewirtschaft, Leopoldstraße 60
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.2.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren; Sitzungsvorlage Nr. 14-20/ V 02233 Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015
+- TOP 5.3.5.: Verwendungsnachweise a) Theater des Hölzernen Gelächters - Sommertheaterproduktion im August/September 2014 b) Innere Mission München, Diakonie, für Übersetzungen von Dolmetschern c) Initiative ?Flüchtlingsunterkunft Bayernkaserne?für die Anschaffung von Regalen, Kleiderständern und eines Staubsaugers d) Projekt Gruppe ?Cornelius 27? für das Projekt "Breaking Walls" vom 01.10. - 31.10.2014
+- TOP 2: Entscheidungen (4)
+- TOP 2.3.: Genehmigung einer Freischankfläche, Wilhelmstraße 43
+- TOP 2.4.: Aufstellung von Zeitungsentnahmegeräten, 10 Anträge
+- TOP 3.1.2.: Hermann-Vogel-Straße 18, Fällung einer Trauerbuche
+- TOP 3.1.3.: Carl-Orff-Bogen 164, Fällung einer Linde
+- TOP 3.1.4.: Destouchesstraße 9, Fällung einer Buche
+- TOP 3.1.5.: Heidemannstraße, Fl.Nr.: 170/102, Errichtung eines Verwaltungsgebäudes mit Tiefgarage ? Vorbescheid, Fällung div. Bäume gemäß Plan
+- TOP 3.1.6.: Schlößlanger 19, Fl.Nr.: 309/64, Neubau eines Doppelhauses (2+1 WE) mit Garagen und Carport, div. Baumfällungen gemäß Plan
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.2.: Werner-Heisenberg-Allee 25, Fl.Nr.: 312/7, ?Allianz Arena? in München ? Errichtung Büros Außenfoyer Nord
+- TOP 4.1.: Erhalt der Altbauten Wagnerstraße 1 und 3 ? Eilantrag (siehe TOP D.3.2.5.)
+- TOP 4.2.: Begrünung der Marktstraße (siehe auch TOP (N)B.4.4.)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Namensgebung Baugebiet ehemalige Funkkaserne (BA-Antrag Nr. B 03681)
+- TOP 5.2.1.: Landschaftsschutzgebiet Hirschau und Obere Isarau, Fällung von zwei Spitzahorn-Bäumen und einer Esche
+- TOP 5.2.3.: Osterwaldstraße 149, Fällung eines Walnussbaumes und einer Weide
+- TOP 5.2.4.: Helmtrudenstraße 7, Fällung von zwei Fichten
+- TOP 5.3.1.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum; Empfehlung Nr.: 08-14 / E 01472 des Stadtbezirkes 20 Hadern vom 26.09.2012; Sitzungsvorlage Nr.: 14 ? 20 / V 02269; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 5.3.3.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen; Empfehlung Nr.: 14-20/E 00062 des Stadtbezirkes 8 Schwanthalerhöhe am 24.06.2014, Sitzungsvorlage Nr.: 14-20/V 01965; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 5.3.8.: Baumaßnahmen der Stadtwerke München (SWM) a) Stromprojekt Werner-Heisenberg-Allee
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen; BA-Antrag Nr.: B 00447 des BA 13 Bogenhausen
+- TOP 9.2.: Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen, Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und Grünanlagen sowie auf zentralen Plätzen im Stadtviertel (BA-Antrag 08-14 / B 05869 des BA 6 Sendling und BA-Antrag 14-20 / B 00361 des BA 9 Neuhausen-Nymphenburg auf Änderung der BA-Satzung)
+- TOP 1: Anträge (2)
+- TOP 1.2.: Gestaltung des Zauns zwischen A9 und Walter-Gropius-Straße
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 4.1.: Tram 23 mit großer Umkehrschleife
+- TOP 4.3.: St.-Nikolaus-Platz (Parksituation ? Aufstellen von Abfalleimern ? Bepflanzung des Platzes)
+- TOP 4.4.: Begrünung der Marktstraße (siehe auch TOP (N)D.4.2.)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.2.: Haltverbot zur Gewährleistung des Schulbusverkehrs in der Kulturheimstraße Ecke Haberkernstraße; Änderung des Zeitzusatzes an der Schulbushaltestelle in der Haberkernstraße
+- TOP 5.3.1.: Isarring (B2R) ? Ergänzung einer Verpflechtungsspur zwischen Ifflandstraße und Dietlinden-straße; Sachstand und Genehmigungsverfahren, Sitzungsvorlage Nr.: 14-20 / V 02370 Bekanntgabe in der Sitzung des Bauausschusses vom 17.03.2015
+- TOP 5.3.2.: Widmung einer Teilstrecke der Georg-Muche-Straße und der Gesamtstrecke der Straße ?Am Nordring?, Sitzungsvorlage Nr. 14-20 / V 02171
+- TOP 1: Anträge (3)
+- TOP 1.1.: Kino im B-Plan Bayernkaserne
+- TOP 3: Anhörungen (3)
+- TOP 3.4.: Kinderflohmärkte an der Münchner Freiheit am, 25.04. / 23.05. / 04.07. / 19.09. / 26.09. /10.10.2015
+- TOP 3.5.: BMW Open 2015 ? 100. Internationale Tennismeisterschaften von Bayern, Aumeisterweg vom 25.04. bis 03.05.2015
+- TOP 5: Unterrichtungen (3)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Engelscafe?, Cafe, Ungererstraße 128
+- TOP 5.3.1.: Ausbau der sozialen Infrastruktur mit Angeboten für Familien und Nachbarschaft in der Karl-Köglsperger-Straße / Freimanner Straße; Beschluss des Kinder- und Jugendhilfe-ausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.03.2015
+- TOP 5.3.3.: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober (?Oktoberstatistik?) - KITA-Jahresstatistik 2013 und 2014 Sitzungsvorlage Nr.: 14 ? 20 / V 02462 Bekanntgabe im Bildungsausschusses des Stadtrates vom 11.03.2015
+- TOP 5.3.4.: ?PERSPEKTIVE MÜNCHEN ? Leitlinie Soziales? - Beschlussentwurf des Sozialreferats
+- TOP 1: Anträge (4)
+- TOP 2.1.: Erweiterung einer bestehenden Freischankfläche, Karl-Theodor-Straße 18a
+- TOP 2.2.: Erweiterung einer bestehenden Freischankfläche, Friedrichstraße 1
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Domagkstraße, Fl.Nr.: 238/1, Neubau eines Geschäfts- und Bürogebäudes mit Tiefgarage, Fällung div. Bäume gemäß Plan
+- TOP 3.2.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2014 bis 2018 (siehe auch Top B.3.2.2. und C.3.1)
+- TOP 3.2.3.: Hohenzollernstraße 40, Fl.Nr.: 404/20, Sanierung eines denkmalgeschützten Mehrfamilienhauses (Fassade, Fenster und Treppenhaus), Anbau eines Außenaufzugs im Innenhof, Erweiterung der Wohnung 10 zum Speicher im rückwertigen Gebäudeteil
+- TOP 3.2.4.: Muthmannstraße 10, Fl.Nr.: 302/13, Neubau Halle und Bürogebäude mit Tiefgarage und Betriebsleiterwohnung
+- TOP 3.2.5.: Wagnerstraße 1, Fl.Nr.: 75/0, Neubau eines Mehrfamilienhauses mit Parkvollautomat - Vorbescheid
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.2.: Marchgrabenplatz 4, Fällung einer Weide und (keine Fällung) der Linde
+- TOP 5.2.5.: Fritz-Hommel-Weg 2, Fällung von zwei Kastanien
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.2.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100% zu einem für das Gemeinwohl vorteilhaften Preis Empfehlung Nr.: 14 - 20 / E 00276 des Stadtbezirkes 18 Untergiesing-Harlaching vom 13.11.2014, Sitzungsvorlage Nr.: 14 ? 20 / V 02362; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 5.3.4.: Aufstellung von Warenstellagen, Münchner Freiheit 7(Schreiben des Kreisverwaltungs-referats an einen Standbetreiber)
+- TOP 5.3.5.: Aufnahme des Forums an der Münchner Freiheit in die Denkmalliste (Schreiben des Bayerischen Landesamtes für Denkmalpflege an einen Bürger)
+- TOP 5.3.6.: Bevölkerungsprognose der LH München ? Planungsprognose 2013 bis 2030 Sitzungsvorlage Nr.: 14-20 / V 02150; Bekanntgabe im Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 5.3.7.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigen-verbrauch ihrer Mieter; 2. Hinweise / Ergänzungen zur Sitzungsvorlage Nr.14-20/V 01341 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
