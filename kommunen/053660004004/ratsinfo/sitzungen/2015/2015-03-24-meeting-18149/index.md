@@ -1,0 +1,56 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2015-03-24T18:00:00+01:00
+- Ende: 2015-03-24T19:35:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZV7RwaDDtrG6c5OJVNtUFa0
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/18149
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY9Aky-X3x5PhVVKEa5Cvgi_vTp_C7Qtukq4heRSafeK/Bekanntmachung_Rat_24.03.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcZC1Wp7EDBJWYUg1n4JHYuv0zI1dySDkQNAk5HcRsz3/Oeffentliche_Niederschrift_Rat_24.03.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 09.12.2014 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Umbesetzung des Bau- und Feuerwehrausschusses hier: Ausscheiden des sachkundigen Bürgers Raphael Dederichs Antrag des SPD-Fraktion vom 27.01.2015 - Einstimmiger Beschluss:
+- TOP 5.: Verbesserung der Beförderungsbedingungen im Bahnverkehr auf Voreifel- und Eifelstrecke hier: Gemeinsame Resolution des Rates der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 6.: Kostenloses W-LAN hier: Antrag der CDU-Fraktion vom 25.11.2014 - Einstimmiger Beschluss:
+- TOP 7.: Stadtentwicklungsplanung hier: Antrag der FDP-Fraktion vom 07.12.2014 - Einstimmiger Beschluss:
+- TOP 8.: Kastrationspflicht für Katzen; hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.02.2015 - Beschluss
+- TOP -: Kastrationspflicht für Katzen; hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 09.02.2015 - Einstimmiger Beschluss:
+- TOP 9.: TaxiBus-Verbindung nach Mechernich hier: Antrag der UWVFraktion vom 16.05.2014 Besprechung des Nahverkehrsplanes im Rahmen der Regionalkonferenz Nord am 19.01.15 beim Kreis Euskirchen mit Vertretern der Ratsfraktionen und der Verwal tung SPD-Antrag vom 01.02.2015 - Einstimmiger Beschluss:
+- TOP 10.: Satzung zur Änderung der Satzung über die Erhebung eines Fremdnenverkehrsbeitrag in der Stadt Bad Münstereifel - Beschluss mit 31 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 11.: Satzung zur Aufhebung der Gebührenordnung für die Stadt-Volkshochschule Bad Münstereifel vom 16.05.1991 - Einstimmiger Beschluss:
+- TOP 12.: 4. Änderung des Bebauungsplanes Nr. 53 "Gewerbegebiet Wald" im beschleunigten Verfahren gem. § 13a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss mit 24 Ja-Stimmen zu 8 Nein-Stimmen:
+- TOP 13.: Änderung der Bad Münstereifeler Sortimentsliste der nahversorgungsrelevanten, zentrenrelevanten und nicht-zentrenrelevanten Sortimente - Einstimmiger Beschluss:
+- TOP 14.: Erlass einer neuen ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel - Beschluss mit 31 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP 15.: 4. Satzung zur Änderung der „Satzung über die Errichtung, Unterhaltung und Benutzung der Unterkunft für Aussiedler, Asylbewerber und Obdachlose (Übergangsheim)" - Einstimmiger Beschluss:
+- TOP 16.: Fortschreibung des Haushaltssicherungskonzeptes 2014 - 2025; hier: Einstellung einer freiwilligen Aufgabe - Beschluss
+- TOP -: Fortschreibung des Haushaltssicherungskonzeptes 2014 - 2025; hier: Einstellung einer freiwilligen Aufgabe - Beschluss mit 29 Ja-Stimmen bei 3 Enthaltungen:
+- TOP 17.: Feststellung Jahresabschluss Forstbetrieb zum 31.12.2013 - Einstimmiger Beschluss:
+- TOP 18.: Jahresabschluss 2014 hier: Zuleitung des Entwurfs gem. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 19.: Gesamtabschluss 2012 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 20.: Energiewirtschaftliche Betätigung der Stadt; hier: Beteiligung an der Energie Nordeifel GmbH & Co. KG - Beschluss mit 24 Ja- zu 7 Nein-Stimmen:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Haushaltsrechtliche Bindungen im Kontext zur Haushaltssicherung; hier: Folienvortrag
+- TOP 21.2: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und des Bürgermeisters
+- TOP 21.3: Zwischenbericht der Projektgruppe zur Einführung einer Kosten- und Leistungsrechnung
+- TOP 21.4: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V. mit § 17 Abs. 2 der Hauptsatzung für das 2. Halbjahr 2014
+- TOP 21.5: Buntprospekt 2015
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Erweiterung der Kita "Magische 12" um eine Kindergartengruppe - Beschluss
+- TOP -: Erweiterung der Kita "Magische 12" um eine Kindergartengruppe - Beschluss
+- TOP -: Erweiterung der Kita "Magische 12" um eine Kindergartengruppe - Beschluss mit 28 Ja- zu 2 Nein-Stimmen bei 2 Enthaltungen:
+- TOP 2.: Kanalisation Michelsberg; Pumpstation hier: Auftragsvergabe - Einstimmiger Beschluss:
+- TOP 3.: Befristete Niederschlagung einer Gewerbesteuerforderung - Beschluss mit 21 Ja- zu 8 Nein-Stimmen bei 3 Enthaltungen:
+- TOP 4.: Arbeitnehmerüberlassung durch gewerbliche Personaldienstleister zur Abdeckung von Arbeitsspitzen auf dem städtischen Bauhof - Beschluss mit 20 Ja- zu 12 Nein-Stimmen:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Erwerb und Veräußerung von Grundstücken zur Umsetzung des Bebauungsplanes 80 a in der nördlichen Vorstadt
+- TOP 5.2: Verpflichtungserklärungen der Mandatsträger in Sachen Datenschutz und Korruptionsprävention
+- TOP 5.3: Vollkaskoschaden an der Drehleiter
