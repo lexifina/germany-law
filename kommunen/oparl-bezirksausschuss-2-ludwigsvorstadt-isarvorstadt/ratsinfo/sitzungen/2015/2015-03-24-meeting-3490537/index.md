@@ -1,0 +1,132 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-03-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490537
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490537
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Stadtteilwoche Kultur 2016, Durchführung der Veranstaltung vom 10.06.-16.06.2016 auf der Theresienwiese durch den Bezirksausschuss 2
+- TOP .4.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen, BA-Antrag Nr. 14-20 / B 00447 des Bezirksausschusses 13 ? Bogenhausen
+- TOP .1.: Mittelfristige Finanzplanung 2014-2018, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2015 bis 2019, Anhörung der Stadtkämmerei, siehe auch B 3.3.1 und C 3.3.1
+- TOP .1.: Toilette am Gärtnerplatz, fortlaufende Themensammlung
+- TOP .2.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP .3.: Bücherschrank, fortlaufende Themensammlung
+- TOP .4.: Urban Art Festival, fortlaufende Themensammlung
+- TOP .5.: Kulturzentrum ?Südbahnhof 2/6?, fortlaufende Themensammlung
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Corneliusstr. 28, Abbruch des bestehenden Dachstuhls, Aufstockung, Dachgeschoss-Ausbau und Sanierung des Vordergebäudes (Eilentscheidung)
+- TOP .2.: Lindwurmstr. 70a, Nutzungsänderung im EG: Personal- und Speiseräume zu Appartements sowie Ladeneinheit zu Rezeption für das Boardinghaus (Beherbergungsbetrieb); Errichtung von 4 Stellplätzen und Umnutzung e. Waschküche im 8. OG in e. Personalaufenthaltsraum ? Tektur (Eilentscheidung)
+- TOP .3.: Bavariaring 8-9, Neubau eines Wohngebäudes (89 Wohneinheiten) mit Tiefgarage (89 Stellplätze) (Eilentscheidung)
+- TOP .4.: Paul-Heyse-Str. 8, Abbruch eines Daches und Aufstockung eines Hotels mit Errichtung eines Außenaufzuges, Tektur, vertagt aus 2015.02 B 3.1.7 (Eilentscheidung)
+- TOP .5.: Schwanthalerstr. 47, Nutzungsänderung eines Boardinghauses (?) in Beherbergungsbetrieb m. 31 Apartm. einschl. Laden, Spielhalle und Bistro, Tektur, vertagt aus 2015.02 B 3.1.8 (Eilentscheidung)
+- TOP .6.: Schwanthalerstr. 70-72, Neubau eines Mehrfamilienhauses mit einer Ladeneinheit und Tiefgarage - Tektur
+- TOP .7.: Klenzestr. 48, Maßnahmen zur Einführung der gebundenen Ganztagsbetreuung - Tektur
+- TOP .8.: Lindwurmstr. 32, Einbau eines Bieraufzugs mit Außentüre, Änderung des Müllraums, Einbau eines Büros
+- TOP .9.: Thalkirchner Str. 33, Nutzungsänderung einer Ladenfläche in ein Wettbüro
+- TOP .10.: Goethestr. 74, Nutzungsänderung: Büro zu Sportwetten-Bereich (EG) und Wohnung (OG) - Tektur
+- TOP .11.: Senefelderstr. 3, Aufstockung Vordergebäude ? Vorbescheid
+- TOP .12.: Dreimühlenstr. 4, Nutzungsänderung eines Büros zu einer Kindertagesstätte
+- TOP .13.: Corneliusstr. 5, Balkonanbau an ein Mehrfamilienhaus
+- TOP .14.: Klenzestr. 38/RGB, Errichtung eines flachgeneigten Satteldachs auf einem Bürogebäude
+- TOP .15.: Klenzestr. 53, DG-Umbau und Anbau von Balkonen
+- TOP .16.: Herzogstr. 32, Nutzungsänderung einer Gaststätte in einen Grundschulhort - PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Auenstr. 100, Antrag auf Baumfällung, 1 Vogelkirsche
+- TOP .2.: Fraunhoferstr. 23, Antrag auf Baumfällung, 1 Zierapfel
+- TOP .3.: Am Glockenbach, Antrag auf Baumfällung, 1 Eibe, 2 Buchen (Eilentscheidung)
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Mittelfristige Finanzplanung 2014-2018, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2015 bis 2019, Anhörung der Stadtkämmerei, siehe auch A 3.1 und C 3.3.1
+- TOP .2.: Geyerstr., zwischen Baldestr. und Kapuzinerstr., Fahrbahnsanierung
+- TOP .3.: Neubau einer Treppe mit Geländer im Isarhochwasserbett südlich der Reichenbachbrücke, Antrag auf wasserrechtliche Anlagengenehmigung nach Art. 20 BayWG
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Müllerstr. 33, Café Kuss, Errichtung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP 1.2.: Radfahrstreifen am Bavariaring zwischen Theresienhöhe und Rückertstr., Beschlussvorlage des Baureferates, vertagt aus 2014.02 C 2.3.1
+- TOP 1.1.: Festumzug, Eröffnung 51. Frühlingsfest auf der Theresienwiese am 17.04.2015
+- TOP 1.2.: Maifeier am 01.05.2015 auf dem Karl-Heinrich-Ulrichs-Platz
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Baaderstr. 59, Errichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 1.1.: Mittelfristige Finanzplanung 2014-2018, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2015 bis 2019, Anhörung der Stadtkämmerei, siehe auch A 3.1 und und B 3.3.1
+- TOP 1.2.: Hotelanfahrtszone Bayerstr. 89, Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 1.1.: LKW-Verkehr im Dreimühlenviertel, fortlaufende Themensammlung
+- TOP 1.2.: Bürgeranliegen: Ablehnung weiterer Gaststättenbetriebe in der Baaderstr.
+- TOP 1.3.: Lärmsituation in der Müllerstraße
+- TOP 1.4.: Bürgeranliegen: Errichtung eines Fußgängerüberwegs an der Kreuzung Lindwurmstraße / Ruppertstraße
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen, Änderung der Bezirksausschuss-Geschäftsordnung
+- TOP 1.2.: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken, BA-Antrag Nr. 14-20 / B 00682 des Bezirksausschusses 12 ? Schwabing-Freimann vom 16.12.2014
+- TOP 1.3.: Bürgerhaushalt für München, Sitzungsvorlage Nr. 14-20 / V 02563, Beschlussvorlage des Stadtrates vom 25.03.2015
+- TOP 1.4.: Konstituierung Arbeitskreis ?Zukunft Viehhof?, vertagt aus 2015.01 D 1
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 13.04.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 14.04.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 15.04.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Arbeitskreis "Zukunft Viehhof" am Montag, den 20.04.2015 um 20.30 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 20.04.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 28.04.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.3.: Prüfung der Möglichkeiten zur Unterbringung von Flüchtlingen im Servicezentrum auf der Theresienwiese, BA-Antrag Nr. 14-20 7 B 00614 vom 25.11.2014, Antwortschreiben des Sozialreferats
+- TOP 1.4.: Schulweghelfer an der Waltherstraße, Stellungnahme des Kreisverwaltungsreferats zu BA-Schreiben vom 18.12.2014 (2014.12 A 1.3)
+- TOP 1.5.: Tumblingerstr. 27 u. 29, Antwortschreiben des Sozialreferates auf Stellungnahme des Bezirksausschusses wg. Erteilung eines Negativattestes, siehe auch 2014.12 A 3.1
+- TOP 1.6.: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober, KITA-Jahresstatistik 2013 und 2014, Sitzungsvorlage Nr. 14-20 / V 02462, Bekanntgabe im Bildungsausschuss des Stadtrates vom 11.03.20145 (SB)
+- TOP 1.7.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum, BV-Empfehlung Nr. 08-14 / E 0147 der Bürgerversammlung des Stadtbezirkes 20 ? Hadern am 26.09.2012, Sitzungsvorlage Nr. 14-20 / V 002269, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 1.8.: Raumsuche für Elterninitiative Isarkindl, Stellungnahme des Referats für Bildung und Sport zu BA-Schreiben vom 16.12.2014, siehe TOP 2014.12 A 1.4
+- TOP 1.9.: Bevölkerungsprognose der LH München, Planungsprognose 2013 bis 2030, Sitzungsvorlage Nr. 14-20 / V 02150, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 1.10.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale, Sitzungsvorlage Nr. 14-20 / V 02270, Beschlussvorlage des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015
+- TOP 1.11.: Beseitigung der Rutschgefahr im Pausenhof der Schule an der Schwanthalerstraße, BA-Antrag Nr. 02-08 / B 02846 vom 18.12.2007, Aufbau von Tischen und Bänken für den Verzehr von Pausenbroten im Schulhof an der Schwanthalerstraße, BA-Antrag Nr. 08-08 / B 02839 vom 18.02.2007, Antwortschreiben des Referats für Bildung und Sport
+- TOP 1.12.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren, Sitzungsvorlage Nr. 14-20/V 02233, Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015 (VB)
+- TOP 1.1.: Sonnenstr. 26, Stellungnahme und Baugenehmigung des Referats für Stadtplanung und Bauordnung zum BA-Schreiben vom 23.09.2014
+- TOP 1.2.: Bauvorhaben Sonnenstr. 26, Stellungnahme und Baugenehmigung des Referats für Stadtplanung und Bauordnung zum BA-Schreiben vom 23.09.2014
+- TOP 1.3.: Planfeststellungsverfahren für den Umbau des U-Bahnhofs Sendlinger Tor, Abdruck eines Anhörungsschreibens des Referats für Stadtplanung und Bauordnung an die Regierung von Oberbayern
+- TOP 1.4.: Rodungen auf der Museumsinsel, Abdruck einer schriftlichen Anfrage von Mitgliedern der Stadtratsfraktion Bündnis 90' Die Grünen / Rosa Liste an den Oberbürgermeister
+- TOP 1.5.: Bauvorhaben Sonnenstr. 12, Antwortcschreiben der Lokalbaukommission auf Stellungnahme des Bezirksausschusses vom 18.12.2014, Abdruck der Baugenehmigung
+- TOP 1.6.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen; BV-Empfehlung Nr. 14-20 / E 00062 der Bürgerversammlung des Stadtbezirkes 08 ? Schwanthalerhöhe am 24.06.2014, Sitzungsvorlage Nr. 14-20 / V 01965, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 1.7.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis, BV-Empfehlung Nr. 14-20/8E 00276 der Bürgerversammlung des Stadtbezirkes 18 ? Untergiesing-Harlaching am 13.11.2014, Sitzungsvorlage Nr. 14-20/V 02362, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 1.8.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Antrag Nr. 08-14 / A 04263 der Stadtratsfraktion DIE GRÜNEN/ROSA LISTE vom 17.05.2013, Sitzungsvorlage Nr. 14-20 / V 01341, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.02.2015 (SB)
+- TOP 1.9.: Freispielfläche für das Haus für Kinder an der Auenstraße, Ausführungsgenehmigung des Baureferats
+- TOP 1.10.: Bodenmarkierung auf dem Radweg am Goetheplatz erneuern (Ziffer 1), BV-Empfehlung Nr. 14-20 / E 00216 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt, Stellungnahme des Baureferats zum Beschluss des Bezirksausschusses 2 vom 27.01.2015
+- TOP 1.11.: Zenettistr. 12, Stellungnahme des Referats für Stadtplanung und Bauordnung zu BA-Schreiben vom 27.02.2015
+- TOP 1.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.13.: Baumfällung im Bereich der Bushaltestelle Thalkirchner Straße / Zenettistraße, ggü. Hausnr. 52, Stellungnahme des Baureferates zu BA-Schreiben vom 24.02.2015
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Kreuzung Baldeplatz, Schreiben eines Anwohners bezügl. Verkehrsproblemen an das Kreisverwaltungsreferat
+- TOP 1.7.: Erarbeitung eines einheitlichen Rikschakonzepts für die gesamte Landeshauptstadt, BA-Antrag Nr. 14-20 / B 00617 vom 25.11.2014, Antwortschreiben des Kreisverwaltungsreferats
+- TOP 1.8.: Veranstaltungen auf öffentlichem Grund, Anfrage an das Kreisverwaltungsreferat vom 18.12.2014, Antwortschreiben des Kreisverwaltungsreferats
+- TOP 1.9.: Erteilung einer Freischankflächenerlaubnis für das Gastronomieobjekt in der Bayerstraße 35-37, Stellungnahme des Referats für Arbeit und Wirtschaft vom 25.02.2015 an das Kreisverwaltungsreferat, Bezirksinspektion Mitte
+- TOP 1.10.: Veranstaltungen auf öffentlichem Verkehrsgrund, Sitzungsvorlage Nr. 14-20 / V 02587, Beschlussvorlage des Kreisverwaltungsausschusses vom 24.03.2015
+- TOP 1.11.: Circus Krone Sommertournee ?Evolution? vom 02.04.-12.04.2015 auf der Theresienwiese
+- TOP .1.: (E) Budget der Bezirksausschüsse Capoeira Gerais - Sport und Kultur vereint e.V. Veranstaltung "Batizado 2015 Capoeira Gerais" vom 14. - 17.05.2015
+- TOP .2.: (E) Budget der Bezirksausschüsse GbR Groß/Erby Theaterstück "Zahlensalat" ab 03.05.2015
+- TOP 1: (E) Fußgängerübergang durch Ampel in der Schwanthalerstraße, zwischen Schiller- und Sonnenstraße (Ziffer 2)
+- TOP 1.5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
