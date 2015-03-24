@@ -1,0 +1,79 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-03-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556536
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556536
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Umstellung der Software für die Bezirksausschuss-Homepage
+- TOP 2.2.: Truderinger Str. 47 - Neuaufstellung von Verkaufseinrichtungen auf öff. Grund
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Mittelfristige Finanzplanung 2014 - 2018 - Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2015 bis 2019
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Mehr Geld für Ampelbau in München - Bevölkerungs- und Verkehrsentwicklung Rechnung tragen
+- TOP 3.2.: Ampelabschaltung St.-Veit-Straße / Hansjakobstraße
+- TOP 3.3.: "Fahrrad frei" im Inzeller Weg
+- TOP 3.4.: Sitzmöglichkeiten an der Bushaltestelle Baumkirchner Straße
+- TOP 3.5.: Fehlende Beleuchtung im Bereich des Fußwegs zwischen Gustav-Schwab-Straße und Kreillerstraße - Bürgeranliegen
+- TOP 3.1.: Beteiligung des BA 14 an Kinderfesten
+- TOP 3.2.: Frühzeitige Information der Bezirksausschüsse über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen
+- TOP 3.3.: Finanzielle Unterstützung/ Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen
+- TOP 3.1.: Innsbrucker Ring 75
+- TOP 3.2.: Grafinger Str. 6
+- TOP 3.3.: Hansjakobstr. 55 - 79
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Mauer und Zaun vor der Loretokapelle, Ecke Baumkirchner / Josephsburgstraße: fachgerechte Sanierung der Ziegelsteinmauer und Entfernung der Werbetafeln am Zaun
+- TOP 4.3.: Bevölkerungsprognose der LH München - Planungsprognosen 2013-2030 - Vorlagen-Nr. 14-20 / V 02150
+- TOP 4.4.: Städtebauförderung in München A) Das bisherige kommunale Förderprogramm ?Wohngrün.de? - Zwischenbericht B) Das neue kommunale Förderprogramm ?aktiv.gestalten? - Aufstellung Stadtbezirke 14 Berg am Laim 15 Trudering 16 Ramersdorf ? Perlach 17 Obergiesing 18 Untergiesing ? Harlaching 21 Pasing 22 Aubing ? Lochhausen ? Langwied Vorlagen-Nr. 14-20 / V 02230
+- TOP 4.5.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum - Empfehlung der Bürgerversammlung Hadern
+- TOP 4.1.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100% zu einem für das Gemeinwohl vorteilhaftem Preis
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Einheitliches Radwegekonzept in der St.-Veit-Straße
+- TOP 4.2.: Einrichtung von Radwegen in der Baumkirchner Straße - Antwortschreiben
+- TOP 4.1.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren - Beschlussvorlage Nr. 14-20 / V 02233
+- TOP 4.2.: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober ("Oktoberstatistik") - KITA-Jahresstatistik 2013 und 2014 - Vorlagen Nr. 14-20 / V 02462
+- TOP 4.1.: Gemeinschaftsunterkunft Neumarkter Str. 43 - Information der Regierung von Oberbayern
+- TOP 4.2.: PERSPEKTIVE MÜNCHEN - Leitlinie Soziales - Vorlagen-Nr. 14-20 / V02652
+- TOP 4.3.: 2. Standortbeschluss für Einrichtungen zur Unterbringung von Flüchtlingen und Wohnungslosen - Beschluss des Stadtrates - Vorlagen-Nr. 14-20 / V 02255
+- TOP 4.1.: Beteiligung des Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate
+- TOP 4.2.: Das gläserne Rathaus: Das Rats-Informations-System (RIS) soll mit "München Transparent" kooperieren - Stadtrats-Antrag Nr. 14-20 / A 00690
+- TOP 4.3.: Verwendungsnachweise BA-Budget - - Bürgerkreis Berg am Laim e.V. - Innere Mission München e.V.
+- TOP 4.1.: Rechtzeitig Veröffentlichung von geplanten Baumfällungen
+- TOP 4.2.: Unterrichtung über bevorstehende Beseitigungen von Gefahrenbäumen auf öffentlichem Grund
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.1.2: Unterausschuss Bildung, Betreuung, Familien und Sport
+- TOP 5.1.1: Unterausschuss Planung, Bau, Wohnen, Umwelt
+- TOP 5.1.1.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.1.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.1.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.1.5.2.: Ankündigungen
+- TOP 5.1.1.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Maibaumverein Berg am Laim e.V. Maifeier am 01.05.2015
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Freundes- und Förderkreis Kirchenmusik ok Chorkonzert am 03.05.2015
+- TOP 3.2.: Erhalt des sog. Mahlerhauses an der Baumkirchner Str. 1 - Denkmalschutz respektieren, Ortsgeschichte bewahren, bürgerschaftliche Nutzung ermöglichen
+- TOP 3.6.: Namensgebung für den Weg zwischen Kreillerstraße und Gustav-Schwab-Straße - Bürgeranliegen
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
