@@ -1,0 +1,73 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-03-24T17:00:00+01:00
+- Ende: 2015-03-24T20:17:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10131
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10131
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236218.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236218.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236218.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift (öffentlich und nichtöffentlich) vom 24.02.2015 - einstimmig beschlossen
+- TOP 3: Flüchtlinge im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 4: Standort Am Bongard - zur Kenntnis genommen
+- TOP 5: Flüchtlingsunterbringung in Hubbelrath/Ludenberg I - zur Kenntnis genommen
+- TOP 6: Flüchtlingsunterbringung in Hubbelrath/Ludenberg II - zur Kenntnis genommen
+- TOP 7: Gebäude ehemaliger Kindergarten Quadenhofstraße - zur Kenntnis genommen
+- TOP 8: Voraussichtliche Bezugsfähigkeit des neuen Altenheims der Sana-Klinik - einstimmig beschlossen
+- TOP 9: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - vertagt
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Zulassung einer Vertreterin des Jugendrates - einstimmig beschlossen
+- TOP 12: "Home & Garden" auf der Galopprennbahn im Jahre 2015 - einstimmig beschlossen
+- TOP 13: Bauern- und Handwerkermarkt auf dem Gerricusplatz in Gerresheim im Jahre 2015 - einstimmig beschlossen
+- TOP 14: PFT-Boden- und Grundwasserverunreinigung Gerresheim - Information - - zur Kenntnis genommen
+- TOP 15: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 16: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 17: Blindengerechte Ausstattung der Fußgängerampel Dreherstraße/Benderstraße - einstimmig beschlossen
+- TOP 18: Sicherung des Schulwegs an der Baustelle Marie-Curie-Straße - einstimmig beschlossen
+- TOP 19: Benderstraßenbaustelle aus der Sicht von mobilitätseingeschränkten Menschen - mehrheitlich beschlossen
+- TOP 20: Baustelle Benderstraße - mehrheitlich beschlossen
+- TOP 21: Umsetzung von bezirksbezogenen Baumaßnahmen II - zur Kenntnis genommen
+- TOP 22: Umsetzung von Baumaßnahmen I - mehrheitlich abgelehnt
+- TOP 23: Geförderter Wohnungsbau an der Torfbruchstraße - mehrheitlich abgelehnt
+- TOP 24: Begrünung Mauer Dreherpark - einstimmig beschlossen
+- TOP 25: Querungshilfe Morper Straße - einstimmig beschlossen
+- TOP 26: Ampelanlage B7 / Rotthäuser Weg - mehrheitlich beschlossen
+- TOP 27: Blühwiesen für den Bezirk 7 - mehrheitlich beschlossen
+- TOP 28: Obstbäume und -sträucher für den Stadtbezirk 7 - mehrheitlich beschlossen
+- TOP 29: Fahrbahndecken-Erneuerung an der Sichelstraße - einstimmig beschlossen
+- TOP 30: Wohnbebauung auf dem Gebiet der Bergischen Kaserne - mehrheitlich abgelehnt
+- TOP 31: Pavillon am Staufenplatz - einstimmig beschlossen
+- TOP 32: Mobile Ampelanlage Morper Straße/Im Brühl - einstimmig beschlossen
+- TOP 33: "Runder Tisch" Schulleiter/ -innen des Stadtbezirks - zurückgezogen
+- TOP 34: Brücke über die Düssel – Verbindung Diepenstraße - einstimmig beschlossen
+- TOP 34.1: Parken für Wohnmobile auf dem Schützenplatz - mehrheitlich abgelehnt
+- TOP 35: Stadtteilprojekte im Stadtbezirk 7 - mehrheitlich abgelehnt
+- TOP 36: Verwendung der Einnahmen aus Stellplatz-Ablösungen - einstimmig beschlossen
+- TOP 37: Familienschwimmbad im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 38: Kinder- und Jugendförderplan - einstimmig beschlossen
+- TOP 39: Stand der Umsetzung der Inklusion im Stadtbezirk 7 - vertagt
+- TOP 40: Quartiersmanagement - zur Kenntnis genommen
+- TOP 41: Stand der Versorgung mit KiTa-Plätzen im Stadtbezirks 7 ab Sommer 2015 - zur Kenntnis genommen
+- TOP 42: Ferienbetreuung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 43: Verspätung S8 - vertagt
+- TOP 44: Mauer "Nach den Mauresköthen" - zur Kenntnis genommen
+- TOP 45: Langfristige Nutzung Staufenplatz - vertagt
+- TOP 46: Gerresheimer Gymnasien – Schuljahr 2015/ 2016 - zur Kenntnis genommen
+- TOP 47: Überbelastung Glashüttenstraße - Messung, Zählung - zur Kenntnis genommen
+- TOP 48: Hochwasserschutzmaßnahmen im Bereich nördliche Düssel zw. Brücke Sulzbachstr. und Brücke Dreherstr. - zur Kenntnis genommen
+- TOP 49: Erstellung einer Liste von Dächern öffentlicher Gebäude im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 50: Verkehrsführung Baustelle Dreherstraße - zur Kenntnis genommen
+- TOP 51: Bürgerbeteiligung Dreherpark - zur Kenntnis genommen
+- TOP 52: Bauverkehr auf der Glashüttenstraße - zur Kenntnis genommen
+- TOP 53: Trinkbrunnen für den Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 54: Blühwiesen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 55: Amtsinsignien des Bürgermeisters von Gerresheim - zur Kenntnis genommen
