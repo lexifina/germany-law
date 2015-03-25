@@ -1,0 +1,82 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-03-25T17:00:00+01:00
+- Ende: 2015-03-25T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2490
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2490
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlage zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Berufung eines Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Einwohnerantrag - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8.1: Frauenförderplan des Bezirksamtes Neukölln von Berlin 2012: Aktualisierung und Bericht für den Erhebungszeitraum 01.07.2012 bis 30.06.2014 mit Stichtag 30.06.2014 in Verbindung mit dem Beitrag des Bezirksamts Neukölln von Berlin zum zwölften Berichtüber die Umsetzung des Landesgleichstellungsgesetzes (LGG-Bericht) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Projekt Netzwerk Berufspraxis an der Karsen-Schule - beantwortet
+- TOP 9.2: Altenhilfeplanung - beantwortet
+- TOP 9.3: Flächen für Flüchtlingsunterkünfte - schriftlich beantwortet
+- TOP 9.4: Wie weiter mit den Neuköllner Flüchtlingsunterkünften? - beantwortet
+- TOP 9.5: Masern in Neukölln - beantwortet
+- TOP 9.6: Weiteres Hostel in Wohnungen auf der Karl-Marx-Straße - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Gefährliche Keime im Krankenhaus - schriftlich beantwortet
+- TOP 10.2: Bürgerbeteiligung – eingeschränkt oder gefördert? - beantwortet
+- TOP 10.3: Leitfaden für Neuköllner Einbürgerungsfeiern - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Neukölln fahrrad- und fußgänger/innenfreundlich (1): 400 neue Abstellplätze für den Bezirk - in der BVV abgelehnt
+- TOP 11.2: Neukölln fahrrad- und fußgänger/innenfreundlich (2): Radverkehr in Karl-Marx-Straße - in der BVV abgelehnt
+- TOP 11.3: Neukölln fahrrad- und fußgänger/innenfreundlich (4): Vorgestreckte Fahrradfurten für linksabbiegende Radfahrer/innen - in der BVV abgelehnt
+- TOP 11.4: Neukölln fahrrad- und fußgänger/innenfreundlich (6): Bezirkliche Radrouten ausschildern - in der BVV abgelehnt
+- TOP 11.5: Mehr Sicherheit für Fußgänger in der High-Deck-Siedlung - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Gefahrenstelle auf der Hermannbrücke beseitigen - in der BVV abgelehnt
+- TOP 11.7: Besserer Empfang im Britzer Tunnel - in der BVV abgelehnt
+- TOP 11.8: Erhaltung des Standortes "Frauenschmiede" - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Krankenversicherungschipkarte für Asylbewerber/innen (Bremer Modell) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Geschützte Räume in Schwimmbädern für trans und intersexuelle Menschen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Tempo 30 in der Pannierstraße - in der BVV abgelehnt
+- TOP 11.12: Baumscheiben erhalten - in der BVV abgelehnt
+- TOP 12: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Stärkung des Kulturstandortes Alt-Rudow 60 - beantwortet
+- TOP 12.2: Ehrengrabstätten in Neukölln von Bedeutung – oder auch nicht - beantwortet
+- TOP 12.3: Beteiligung Neuköllns an der Erstellung des Berliner Energie- und Klimaschutzprogramms - beantwortet
+- TOP 12.4: Unterstützung für Umwandlungsverordnung - beantwortet
+- TOP 12.5: Neukölln ist vorne bei der Armut - vertagt
+- TOP 12.6: Ärztemangel in Neukölln - vertagt
+- TOP 13: Große Anfragen - schriftlich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.1: Fachtagung zur Jugendberufsagentur - überwiesen
+- TOP 14.2: Die Geschichte der "Gastarbeiter*innen"-Generation in einer Ausstellung dokumentieren - überwiesen
+- TOP 14.3: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln I - überwiesen
+- TOP 14.4: Bezirklichen Armutsbericht erstellen - überwiesen
+- TOP 14.5: Stärkung des Kulturstandortes Alt-Rudow 60 - überwiesen
+- TOP 14.6: Seniorenfreizeitstätte - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Gefährliche Keime im Krankenhaus - überwiesen
+- TOP 14.8: Grundausstattung - Schulbedarf für die Schüler*innen der Notunterkunft - überwiesen
+- TOP 14.9: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln II - überwiesen
+- TOP 14.10: Umbenennung der Bushaltestelle "Werbellinstraße" in "Alfred-Scholz-Platz" - überwiesen
+- TOP 14.11: Neukölln braucht die Landesberatungs und Koordinierungsstelle. - überwiesen
+- TOP 14.12: Einrichtung von Wartehäuschen - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Gefährliche Keime im Krankenhaus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Herrfurthstraße für Radgegenverkehr freigeben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Befestigung des Fußgängerweges zwischen Bruno-Taut-Ring und Gielower Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Freifläche und Wohnungen auf den Buckower Feldern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bebauung Buckower Felder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Bebauungsplan XIV-69-1 („Kormoranweg“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Bebauungsplan 8-59 vom 24.02.2014 ("Krokusstraße / Stubenrauchstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Kennzeichnung eines Fahrradweges in der Neuköllner Str./Ecke Groß-Ziethener Chausse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Sommerkonzert-Reihe "Blauer Mittwoch" auch im Sommer 2013 fortsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Gutes Klima für Klimapreisträger - mit Abschlussbericht zur Kenntnis genommen
