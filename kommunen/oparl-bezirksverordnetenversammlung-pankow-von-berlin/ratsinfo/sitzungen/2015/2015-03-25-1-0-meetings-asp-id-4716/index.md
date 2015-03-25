@@ -1,0 +1,86 @@
+# 30. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-03-25T17:30:00+01:00
+- Ende: 2015-03-25T21:05:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4716
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4716
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 11 - der Schiedsamtsbezirk umfasst die Ortsteile Heinersdorf, Blankenburg und Karow - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 1 - der Schiedsamtsbezirk umfasst den Ortsteil Buch - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Ombudsleute für das JobCenter Pankow - zurückgezogen
+- TOP 1.12: Integration durch Sport - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Vorhaben- und Projektliste des Bezirks Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Pankow bewegt - Bedarfe Pankower Sportvereine beachten - in der BVV abgelehnt
+- TOP 1.15: Stadtquartier "Wilhelmsruher Tor" - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Taktverdichtung auf dem nördlichen Ast der M1 - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Hinweisschilder an der Bucher Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Sportplatz-Benennung nach Helmut Faeder - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Gemeinsam für wirksamen Lärmschutz an der Bahn - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Einwohnerantrag an die BVV Pankow zum Erhalt und zur Nichtbebauung der Parkplätze Lilli-Henoch-Straße – gemäß § 44 des Berliner Bezirksverwaltungsgesetzes - überwiesen
+- TOP 1.21: Grundschule im Hasengrund aus zusätzlichen SIWA Sondermitteln sofort 2015 sanieren - mit Änderungen in der BVV beschlossen
+- TOP 1.22: Schnelles Internet und W-LAN für die Kurt-Tucholsky-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Kirche von Unten - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Abschiebestopp für geflüchtete Menschen während ihrer Ausbildung - überwiesen
+- TOP 1.25: Keine Unterschrift unter Absichtserklärung zur Bebauung der Elisabethaue - überwiesen
+- TOP 1.26: Wettbewerb "Blühender Schulhof" - überwiesen
+- TOP 1.27: Mitglieder des Widerspruchsbeirates für Sozialhilfeangelegenheiten auf der Internetseite des Bezirksamtes veröffentlichen - überwiesen
+- TOP 1.28: Erhöhung der Verkehrssicherheit in der Friedrich-Engels-Straße im Ortsteil Niederschönhausen - überwiesen
+- TOP 1.29: Verbesserung der sozialen Betreuung für Geflüchtete - überwiesen
+- TOP 1.30: E-Learning an der Volkshochschule Pankow - überwiesen
+- TOP 1.31: Energieeffiziente Leuchtmittel verwenden - Klima schützen - überwiesen
+- TOP 1.32: Senioren- bzw. Sozialgenossenschaft als Chance für kommunale Gestaltung - beantwortet
+- TOP 1.33: Sicherstellung der Verkehrssicherheit für Fußgänger*innen in der Siegfriedstr. im Abschnitt Blankenburger Str. bis Herthaplatz - überwiesen
+- TOP 1.34: Fahrplan der Tram M10 einhalten - überwiesen
+- TOP 1.35: Faire Angebote an Senioren zur Verringerung der Wohnfläche ihrer kommunalen Mietwohnung - überwiesen
+- TOP 1.36: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - überwiesen
+- TOP 1.37: Personelle Ausstattung mit Schulhausmeistern und Platzwarten an tatsächlichen Bedarf anpassen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Frei- und Spielflächen statt Parkplätze auf dem Schulgelände der Grundschule am Teutoburger Platz - überwiesen
+- TOP 1.39: Selbstbedienung? Eigentum und Baurecht auf ehemaligen Bahngrundstücken am Thälmannpark - beantwortet
+- TOP 1.40: Bezirke an der Entscheidung zur Aufgabe von Ehrengräbern beteiligen - überwiesen
+- TOP 1.41: Direkte Beteiligung der BVV an der Steuerungsrunde Elisabeth-Aue - überwiesen
+- TOP 1.42: Bedarfe des vereinsungebundenen Freizeitsports beim Umbau des Jahn-Sportparks zur Geltung bringen - überwiesen
+- TOP 1.43: Ukrainische Partnerstadt für Pankow - den Wandel begleiten! - überwiesen
+- TOP 1.44: Jugendmigrationsdienst (JMD) auch für Pankow - jetzt! - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Wärmeisolierung bezirkseigener Gebäude - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Geordnete städtebauliche Entwicklung in Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Bezirkliche Immobilienentwicklung - Umzugsplanung und Verdichtung der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Finanzierung neuer sozialer Angebote in den Bezirksregionen II (Blankenfelde/ Niederschönhausen) und X (Weißensee Ost) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Verkehrssicherheit für RadfahrerInnen erhöhen durch Radfahrstreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Buslinie 154 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Neue Gebiete für die Städtebauförderung im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Temporäre Maßnahmen zur Verbesserung der Verkehrssicherheit in der Buchholzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Optimierung der Buslinie 251 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Babyklappe für den Versorgungsraum Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Sichtbeziehungen am Fußgängerüberweg in der Pankgrafenstraße und der Bahnhofstraße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Freistellung von Grundstücken von Bahnbetriebszwecken im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Tempo 30 auf der gesamten Dietzgenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Elterninformation bei Hortgutscheinen verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Ampelphasen für Fußgänger auf der Prenzlauer Allee verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Erhöhung der Verkehrssicherheit in der Karower Bahnhofstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Grüne Stadt: Nachhaltige Sicherung der sozialverträglichen Sanierungsergebnisse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Gesundheitsversorgung für Asylberwerber_innen sicherstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Querungshilfe in der Straße Alt-Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Vorhabenbezogener Bebauungsplan 1-64a VE (Wohngebiet am Mauerpark) für die hinter den Grundstücken Ramlerstraße 20 – 24, Graunstraße 17 – 23/Gleimstraße 62 – 64 liegenden Flurstücke 350, 173 und 346 (tlw.) im Bezirk Mitte, Ortsteil Gesundbrunnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennung von 7 Privatwegen in der Anlage Buchholz im Ortsteil Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bebauungsplan IV-23 für die Grundstücke Ahlbecker Straße 16 - 17 und Stargarder Straße 51 - 52 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
