@@ -1,0 +1,75 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-03-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3380010
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3380010
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Johanniter-Unfall-Hilfe e.V.: Suche nach neuen Räumen für das Projekt ?Lacrima?
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.2.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2015-2019 (vgl. TOP D 2.3 und E 2.1.1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Bonner Platz: Austausch und Versetzung einer City-Light-Säule für wechselnde Produktwerbung
+- TOP 2.1.2.: Belgradstraße 1: ?Brasserie Schwabing?, Erweiterung der bestehenden Freischankfläche
+- TOP 2.1.3.: Elisabethstr. 12: ?Isses?: Erweiterung der bestehenden Freischankfläche
+- TOP 2.1.4.: Zeitungskiosk Kurfürstenplatz 6 a: Aufstellung von neuen Verkaufseinrichtungen
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: MobilSpielfest am 19.04.2015 im Luitpoldpark
+- TOP 2.3.2.: Benefizflohmärkte auf dem Elisabethplatz am 25.04., 16.05., 12.07. und 05.09.2015
+- TOP 2.3.3.: Veranstaltungen des Sportamtes im Luitpoldpark ab Mai 2015: a) tägliches Gymnastikprogramm auf der Wiese nördlich des Bamberger Hauses b) Spielnachmittage sonntags ab 14.30 Uhr
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Tektur Herzogstr. 49: Neubau eines Wohnhauses mit Tiefgarage
+- TOP 2.1.2.: Hörwarthstr. 43: Umbau einer DG-Wohnung
+- TOP 2.1.3.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2015-2019 (vgl. TOP B 2.2 und E 2.1.1)
+- TOP 2.1.4.: Hohenzollernstr. 29: Teilung der Werkstatt (Druckerei) in eine eigenständige Werkstatt (Restauratorin) im RGB und einen Ausstellungsraum für Möbel (SGB), Sanierung und Umbau der Werkstatt im RGB, Abriss und Wiedererrichtung mit Unterkellerung des Seitengebäudes inkl. energetischer Sanierung
+- TOP 2.1.5.: Ansprengerstr. 1: Ausbau zweier Dachgeschosse zu je einer Wohnungserweiterung im 4. OG als Maisonette und jeweils einer separaten DG-Wohnung sowie Anbau eines Aufzugs mit Laubengängen und von 24 Balkonen an 3 Häusern (Ansprengerstr. 1 / Clemensstr. 50 / Rossinistr. 2)
+- TOP 2.1.6.: Kreativquartier an der Dachauer Straße / Schwere-Reiter-Straße a) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung b) Bebauungsplan mit Grünordnung (Teilquartiere Kreativlabor / Kreativplattform / Kreativpark) -Aufstellungsbeschlüsse- c) Ergebnisse der Rahmenplanung (Gesamtquartier) d) Weiteres Vorgehen und Finanzierung Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP 2.1.7.: Herzogstraße 54 / RGB: Dachgeschossausbau
+- TOP 2.1.8.: Herzogstr. 95: Nutzungsänderung einer Wohneinheit im EG in eine therapeutische Praxis
+- TOP 2.1.9.: Agnesstr. 57: Erneuerung von vier Balkonen
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürgerin: Probleme mit Fahrrädern
+- TOP 1.2.: Bürger: Maßnahmen zunehmende Vermüllung des Stadtbezirks Benennung problematischer Bereiche auf Nachfrage des BA vom Februar
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2015-2019 (vgl. TOP B 2.2 und D 2.3)
+- TOP 2.1.2.: Winzererstr. 170-176: Fällung einer Fichte
+- TOP 2.1.3.: Brunnerstr. 2: Fällung einer Rosskastanie
+- TOP 2.1.4.: Hiltenspergerstr. 78: Fällung einer Wildkirsche
+- TOP 2.1.5.: Georgenstr. 122: Fällung einer Birke
+- TOP 2.1.6.: Herzogstr. 130-134: Fällung einer dreistämmigen Scheinzypresse
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Abbau der Lichtzeichenanlage Georgen-/Friedrichstraße Erneute Anhörung zur Umsetzbarkeit der Änderungsvorschläge von BA 3 und BA 4
+- TOP 2.2.2.: Abbau der Lichtzeichenanlage Georgen-/Isabellastraße: Terminvorschläge des BA für den vom KVR angebotenen Ortstermin
+- TOP 3.4.: Erinnerungsverfahren des Baureferats Tiefbau: a) Radwegsanierung Leonrodstraße / Schwere-Reiter-Straße
+- TOP 3.1.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen
+- TOP 3.2.: Umstellung der Software für die Bezirksausschuss.-Homepage
+- TOP 3.3.: Erweiterte Entscheidungsrechte der Bezirksausschüsse bei Veranstaltungen Anhörung zu Anträgen mehrerer Bezirksausschüsse auf Änderung der BA-Satzung
+- TOP 3.4.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Anhörung zu einem Antrag des BA 2 auf Änderung der BA-Satzung
+- TOP 3.5.: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken Anhörung zu einem Antrag des BA 12 auf Änderung des Katalogs zur BA-Satzung
+- TOP 3.6.: Rederecht von Einwohnerinnen und Einwohnern in BA-Sitzungen Anhörung zu einer geplanten Änderung der BA-Geschäftsordnung
+- TOP 3.1.: Bushaltestelle Linie 142 Richtung Münchner Freiheit am Scheidplatz: Einbau von Sitzgelegenheiten im nördlichen Wartehäuschen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. MobilSpielfest am 19.04.2015 - <div></div>
+- TOP 2.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Herbstfest vom 02. - 04.10.2015
+- TOP 2.2.1.: (E) Budget des Bezirksausschusses Initiative "Figurentheater" Projekt "Theater im Olymp" am 29.03. und 26.04.2015 - <div></div>
+- TOP 3: (E) Tastbares Blindensignal an der Ampel Belgrad-/ Hohenzollernstraße nördlich des Kurfürstenplatzes - <div></div>
+- TOP 3.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Verlässliche Finanzierung der Nachbarschaftshilfe Ackermannbogen
