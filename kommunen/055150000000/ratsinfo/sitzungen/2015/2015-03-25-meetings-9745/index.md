@@ -1,0 +1,80 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-03-25T17:41:00+01:00
+- Ende: 2015-03-25T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9745
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9745
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00368723.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster - mehrheitlich geändert beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2015 - mehrheitlich beschlossen
+- TOP 11.1: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2015
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2014 - zur Kenntnis genommen
+- TOP 13: Bericht über die Beteiligungen der Stadt Münster im Jahr 2013 (Beteiligungsbericht 2013) - zur Kenntnis genommen
+- TOP 14: Städtisches Stadion Hammer Straße - 2. Sachstandsbericht zu den Sanierungsmaßnahmen - zur Kenntnis genommen
+- TOP 15: Grundzüge Errichtungsbeschluss 2. Städtische Gesamtschule - einstimmig geändert beschlossen
+- TOP 15.1: Grundzüge Errichtungsbeschluss 2. Städtische Gesamtschule
+- TOP 16: Schülerprognose für die städtischen Grundschulen und sich daraus ergebende Handlungsbedarfe - einstimmig geändert beschlossen
+- TOP 16.1: Schülerprognose für die städtischen Grundschulen und sich daraus ergebende Handlungsbedarfe
+- TOP 17: Gemeinsames Lernen zum Schuljahr 2015/2016 an städtischen Schulen - einstimmig beschlossen
+- TOP 17.1: Gemeinsames Lernen zum Schuljahr 2015/2016 an städtischen Schulen
+- TOP 18: Ausschreibung der Stelle des Generalmusikdirektors/der Generalmusikdirektorin der Stadt Münster - einstimmig beschlossen
+- TOP 19: Wirtschaftsplan 2015/2016 des Theaters Münster - einstimmig beschlossen
+- TOP 19.1: Wirtschaftsplan 2015/2016 des Theaters Münster
+- TOP 20: Außerplanmäßige Mittelbereitstellung zum Kauf einer Pavillonanlage für die zweigruppige Dependance an der Wienburgstraße - einstimmig beschlossen
+- TOP 21: Interimsmaßnahmen zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluß für eine zweigruppige Dependance an der Ludgerusschule in Hiltrup - einstimmig beschlossen
+- TOP 21.1: Interimsmaßnahmen zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluß für eine zweigruppige Dependance an der Ludgerusschule in Hiltrup
+- TOP 22: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Malteserstraße in Hiltrup - einstimmig beschlossen
+- TOP 23: Nachfolgenutzung der Räume in der Pötterhoekschule (ehemalige Räume des Montessori-Kindergartens) in Mauritz-Mitte - einstimmig beschlossen
+- TOP 24: Errichtungsbeschluss:Neubau einer Kindertageseinrichtung an der Josef-Beckmann-Straße in Kinderhaus - einstimmig beschlossen
+- TOP 24.1: Errichtungsbeschluss:Neubau einer Kindertageseinrichtung an der Josef-Beckmann-Straße in Kinderhaus
+- TOP 25: Genehmigung einer Dringlichkeitsentscheidung: Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, hier: Herrichten von Räumen für Betreuungs-, Beratungs- und Clearingverfahren - mehrheitlich beschlossen
+- TOP 26: Verbindliche Bedarfsplanung für teil- und vollstationäre Pflegeeinrichtungen in Münster für 2015 - 2018 nach § 7 Abs. 6 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - einstimmig beschlossen
+- TOP 26.1: Verbindliche Bedarfsplanung für teil- und vollstationäre Pflegeeinrichtungen in Münster für 2015 - 2018 nach § 7 Abs. 6 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW)
+- TOP 27: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Pavillonbauweise an verschiedenen Standorten und Erweiterung der zeitlich befristeten Maßnahme im Gebäude Warendorfer Straße 263 - mehrheitlich geändert beschlossen
+- TOP 27.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Übergangslösungen in Pavillonbauweise an verschiedenen Standorten und Erweiterung der zeitlich befristeten Maßnahme im Gebäude Warendorfer Straße 263
+- TOP 28: Jahresbericht 2014 der Arbeit der Ombudsstelle für das Jobcenter Münster - zur Kenntnis genommen
+- TOP 29: Weiterentwicklung der Aufgabenwahrnehmung der Ombudsstelle - mehrheitlich beschlossen
+- TOP 29.1: Weiterentwicklung der Aufgabenwahrnehmung der Ombudsstelle
+- TOP 30: Perspektivzentrum Jobcenter Münster - zur Kenntnis genommen
+- TOP 31: Bauleitplanung
+- TOP 31.1: 65. Änderung des Flächennutzungsplans der Stadt Münster zur Darstellung von Konzentrationszonen für Windenergieanlagen - Beschluss zur Aufstellung - - mehrheitlich geändert beschlossen
+- TOP 31.1.1: 65. Änderung des Flächennutzungsplans der Stadt Münster zur Darstellung von Konzentrationszonen für Windenergieanlagen - Beschluss zur Aufstellung -
+- TOP 31.2: Stadtbezirk Münster-Hiltrup
+- TOP 31.2.1: Bebauungsplan Nr. 483, 3. Änderung - Beschluss zur Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 31.3: Stadtbezirk Münster-Südost
+- TOP 31.3.1: 51. Änderung FNP - Vorhabenbezogener Bebauungsplan Nr. 564 - Verkehrstechnischer Entwurf Gremmendorfer Weg - mehrheitlich beschlossen
+- TOP 31.3.2: Vorhabenbezogener Bebauungsplan Nr. 517, vorhabenbezogene 1. Änderung - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Eine Kita für die zweite städtische Gesamtschule - verwiesen
+- TOP 33.2: (Wohn-) Mobil in der Stadt - mehr Stellplätze für Wohnwagen und Wohnmobile schaffen - verwiesen
+- TOP 33.3: Auf dem Weg zur familienfreundlichen Stadt Deutschlands, für einen Abenteuerspielplatz in Münster - verwiesen
+- TOP 33.4: Evaluation der Beratung zur beruflichen Entwicklung (BBE) der VHS Münster - verwiesen
+- TOP 33.5: Einkaufsstadt 4.0 - verwiesen
+- TOP 33.6: Wolfgang-Borchert Theater nicht noch einmal im Regen stehen lassen! - verwiesen
+- TOP 33.7: Ein Update für den Kita-Navigator - verwiesen
+- TOP 33.8: Transparente Regeln für die Raumvergabe - verwiesen
+- TOP 34: Entsendung von sachkundigen Einwohnern/innen in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 34.1: Entsendung von sachkundigen Einwohnern/innen in die Ausschüsse des Rates
+- TOP 35: Nachfolge im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 35.1: Nachfolge im Beirat für Stadtgestaltung
+- TOP 36: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 37: Verschiedenes
