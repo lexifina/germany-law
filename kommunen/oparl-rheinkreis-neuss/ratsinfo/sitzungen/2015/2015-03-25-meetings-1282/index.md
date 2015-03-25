@@ -1,0 +1,64 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2015-03-25T15:00:00+01:00
+- Ende: 2015-03-25T18:20:00+01:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1282
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/1282
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Kreistag 25.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031414.pdf
+- Ergebnisprotokoll: Einladung Kreistag 25.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031414.pdf
+- Wortprotokoll: Einladung Kreistag 25.03.2015 -öffentlich- http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/downloadfiles/a/00031414.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 1.1: Anträge zur Tagesordnung
+- TOP 1.1.1: Antrag Tagesordnungspunkt 17 von der Tagesordnung abzusetzen - mehrheitlich abgelehnt
+- TOP 1.1.2: Antrag die Resolution zum "Eckpunktepapier Strommarkt" als eigenständigen Tagesordnungspunkt aufzunehmen - mehrheitlich abgelehnt
+- TOP 1.2: Änderungen der Tagesordnung
+- TOP 2: Verpflichtung und Einführung eines neuen Kreistagsabgeordneten
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Anträge auf Umbesetzung - einstimmig beschlossen
+- TOP 3.2: Nachwahl eines stellvertretenden Mitgliedes des Beirates bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 3.3: Mitgliedschaft des Kreisdirektors in externen Gremien - Ergänzung - - einstimmig beschlossen
+- TOP 4: Feststellung des Entwurfs des Gesamtabschlusses zum 31.12.2013 - einstimmig beschlossen
+- TOP 5: Ermächtigungsübertragungen von 2014 nach 2015 im Rahmen des Jahresabschlusses 2014 - einstimmig beschlossen
+- TOP 6: Bereitstellung überplanmäßiger Mittel, Ersatzbeschaffung der „Mobilen Pressestelle“ - einstimmig beschlossen
+- TOP 7: Fortschreibung der mittelfristigen Ergebnis- und Finanzplanung 2016 – 2018 gemäß § 9 Gemeindehaushaltsverordnung NRW (GemHVO NRW) - einstimmig beschlossen
+- TOP 8: 5. Änderung des Landschaftsplanes II - Dormagen – (FFH – Gebiet Zonser Grind) - einstimmig beschlossen
+- TOP 9: 7. Änderung des Landschaftsplanes II - Dormagen – (FFH – Gebiet Knechtstedener Wald) - einstimmig beschlossen
+- TOP 10: 5. Änderung des Landschaftsplanes III - Meerbusch/Kaarst/Korschenbroich – (FFH – Gebiet Ilvericher Altrheinschlinge) - einstimmig beschlossen
+- TOP 11: Stellungnahme des Rhein-Kreises Neuss im Erarbeitungsverfahren für den Regionalplan
+- TOP 11.1: Änderungsantrag der Kreistagsfraktion Bündnis 90/Die Grünen zur Stellungnahme des Rhein-Kreises Neuss im Erarbeitungsverfahren für den Regionalplan
+- TOP 11.1.1: Änderungsantrag zum ersten Punkt der Instrumente zur Dynamisierung des Flächenrankings - mehrheitlich abgelehnt
+- TOP 11.1.2: Änderungsantrag zum zweiten Punkt der Instrumente zur Dynamisierung des Flächenrankings - mehrheitlich abgelehnt
+- TOP 11.1.3: Änderungsantrag zum dritten Punkt der Instrumente zur Dynamisierung des Flächenrankings - mehrheitlich abgelehnt
+- TOP 11.1.4: Änderungsantrag zum neu hinzugefügten Satz - mehrheitlich abgelehnt
+- TOP 11.2: Änderungsanträge der SPD-Kreistagsfraktion zur Stellungnahme des Rhein-Kreises Neuss im Erarbeitungsverfahren für den Regionalplan
+- TOP 11.2.1: Anträge auf Ergänzung - mehrheitlich beschlossen
+- TOP 11.2.2: Antrag Punkt 4.2 "Schutz von Natur und Landschaft" zu streichen - mehrheitlich abgelehnt
+- TOP 11.2.3: Antrag zum Punkt "Siedlungsraum, Bereich für gewerbliche und industrielle Nutzung" - einstimmig beschlossen
+- TOP 11.3: Stellungnahme des Rhein-Kreises Neuss im Erarbeitungsverfahren für den Regionalplan - einstimmig beschlossen
+- TOP 12: Erlass einer Naturdenkmalverordnung für die Linde an der Schützenhalle Anstel - einstimmig beschlossen
+- TOP 13: Neufassung der Satzung des Rhein-Kreises Neuss über die Erhebung von Elternbeiträgen in Kindertageseinrichtungen und in geförderter Kindertagespflege
+- TOP 13.1: Änderungsantrag zu Top 13 der Kreistagsfraktion Bündnis 90/ Die Grünen zum Thema "Neufassung der Satzung des Rhein-Kreises Neuss über die Erhebung von Elternbeiträgen in Kindertageseinrichtungen und in geförderter Kindertagespflege“ - mehrheitlich abgelehnt
+- TOP 13.2: Neufassung der Satzung des Rhein-Kreises Neuss über die Erhebung von Elternbeiträgen in Kindertageseinrichtungen und in geförderter Kindertagespflege - mehrheitlich beschlossen
+- TOP 14: Satzung des Rhein-Kreises Neuss über die Förderung von Kindern in Kindertagespflege - einstimmig beschlossen
+- TOP 15: Rettungsdienstlicher Bedarfsplan 2014 - einstimmig beschlossen
+- TOP 16: Verlängerung der Regiobahn von Kaarst in westliche Richtung nach Viersen. - einstimmig beschlossen
+- TOP 17: Resolution zur Wirtschaft im Rhein-Kreis Neuss - einstimmig beschlossen
+- TOP 17.1: Antrag der Kreistagsfraktionen SPD, Bündnis 90/ Die Grünen und Die Linke/ Piraten "Handlungsrahmen für einen zukunftsfähigen Wirtschaftsstandort" vom 13.03.2015
+- TOP 17.2: Pläne des Bundeswirtschaftsministeriums - aktuelle Pressemeldungen
+- TOP 18: Anträge
+- TOP 18.1: Antrag der SPD-Kreistagsfraktion zum Thema "Machbarkeitsstudie für den Ausbau der RB 38" vom 02.03.2015 - einstimmig beschlossen
+- TOP 18.2: Antrag der Kreistagsfraktion Bündnis 90/ Die Grünen auf Verabschiedung einer Resolution zu den Missständen und Mängeln an den Bahnhöfen und Bahnhofsstationen vom 13.03.2015 - einstimmig beschlossen
+- TOP 18.3: Antrag der Kreistagsfraktion UWG/Die Aktive auf Verabschiedung einer Resolution zum Erhalt der Kreispolizeibehörde - einstimmig beschlossen
+- TOP 19: Mitteilungen
+- TOP 19.1: Ambulanter ärztlicher Notdienst
+- TOP 20: Anfragen
+- TOP 20.1: Anfrage der Kreistagsfraktion Bündnis 90 / Die Grünen vom 19.03.2015 : Erstattung aus rechtswidrig einbehaltenen Bundesmitteln für Bildung und Teilhabe
+- TOP 21: Einwohnerfragestunde
