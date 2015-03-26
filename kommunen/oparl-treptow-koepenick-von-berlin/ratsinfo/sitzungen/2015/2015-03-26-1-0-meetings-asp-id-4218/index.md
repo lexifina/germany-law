@@ -1,0 +1,71 @@
+# 36. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-03-26T16:30:00+01:00
+- Ende: 2015-03-26T20:40:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4218
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4218
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=107209
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-41 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Parkstreifen Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Computertreff Netti 3.0 im Verein Computerbildung e. V. (SM 15-02) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für den Seniorenchor "Fröhliche Herbstlerchen" (SM 15-03) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den Förderverein der Fritz-Kühn-Schule e. V. (SM 15-06) - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Verein zur Förderung der Ev. St. Laurentius-Stadtkirchengemeinde Berlin-Köpenick e. V. (SM 15-11) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Allgemeinen Blinden- und Sehbehindertenverein Berlin e. V. (SM 15-12) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für die "Lichtblick" SHG Krebs (SM 15-13) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkliche Sozialstruktur auch im "JobCenter" beachten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Anlaufstelle für Gewaltopfer - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Änderung Landschaftsplan zum Erhalt der "weißen Villa" - vertagt
+- TOP 12.4: Gartenkulturpfad Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Angebote für obdachlose Minderjährige ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Lichtzeichenanlage am S-Bahnhof Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Feuerwehrzufahrt Volkshochschule Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verkehrsfluss an der Kreuzung Wendenschloßstraße / Müggelheimer Straße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Einführung der Klassensprecherwahlen in Willkommensklassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: - Entwurf des vorhabenbezogenen Bebauungsplans 9-61 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-61 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Johannisthal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Treptow-Köpenick bei "visitBerlin" bewerben - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Busspuren auf der Elsenbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Aufruf zum Weltspieltag 2015 - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Bushaltestelle Bellevuepark - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Reinigung Heidekampgraben - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Biotopkartierung für den "Spreepark" - vertagt
+- TOP 12.17: Variantenprüfung Schulstandorte Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schließung der Kultureinrichtungen in freier Trägerschaft abwenden - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Schulentwicklungsplanung zügig vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Installation eines Blitzers in der Waltersdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Empfehlungen zur ökologischen Bauleitplanung in den Leitlinien zur Entwicklung von Wohnbaupotentialflächen im Bezirk - überwiesen
+- TOP 14.5: Sammlung über die Plastiken, Denkmäler und Brunnen veröffentlichen - überwiesen
+- TOP 14.6: Stadtteilzentrenvertrag im Zuge der wachsenden Stadt ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Einrichtung von zusätzlichen Postadressen für obdachlose und wohnungslose Menschen - überwiesen
+- TOP 14.8: Einrichtungen öffentlichkeitswirksamer darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Errichtung und Erhalt von Jugendfreizeiteinrichtungen in Treptow-Köpenick - überwiesen
+- TOP 14.10: Erneuerbare Energien in Bebauungsplänen - überwiesen
+- TOP 14.11: Keine meterhohen Fontänen am Fahrbahnrand Am Treptower Park - überwiesen
+- TOP 14.12: Querungshilfe Baumschulenstraße - überwiesen
+- TOP 14.13: Schließung der Kultureinrichtungen in freier Trägerschaft abwenden - in der BVV abgelehnt
+- TOP 14.14: Waldweg Wuhlheide II - überwiesen
+- TOP 14.15: Verkehrsstrukturierung der Hämmerlingstraße - überwiesen
+- TOP 14.16: Sicherung der bezirklichen Kulturarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
