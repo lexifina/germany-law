@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-03-26T17:00:00+01:00
+- Ende: 2015-03-26T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZaNTaF52Y-WKoVpNZuZBkks
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4428
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbk1Oua2QGDRdkNWb_9SozvwKPxNhbcCTpYhWhShRi4-/Oeffentliche_Niederschrift_Rat_26.03.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Vorschlag für die En-bloc-Abstimmung
+- TOP 2: Umbesetzung von Ausschüssen und Gremien
+- TOP 3: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 4: Besetzung des Vorstandes der Eheleute Carl-Ruß-Stiftung
+- TOP 5: Benennung von Mitgliedern der Veranstaltergemeinschaft Lokalfunk Remscheid-Solingen (Radio RSG)
+- TOP 6: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, Stellungnahme der Stadt Solingen
+- TOP 7: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, Stellungnahme der Stadt Solingen
+- TOP 8: Neuaufstellung des Regionalplans der Bezirksregierung Düsseldorf, Stellungnahme der Stadt Solingen
+- TOP 9: Gleichstellungsplan 2014 zur Gleichstellung von Frauen und Männern innerhalb des Konzerns der Stadt Solingen
+- TOP 10: Gleichstellungsplan 2014 zur Gleichstellung von Frauen und Männern innerhalb des Konzerns der Stadt Solingen
+- TOP 11: Gleichstellungsplan 2014 zur Gleichstellung von Frauen und Männern innerhalb des Konzerns der Stadt Solingen
+- TOP 12: Übertragung der Ratssitzungen ins Internet
+- TOP 13: Aufhebung der Betriebssatzung für die Altenzentren der Stadt Solingen
+- TOP 14: Aufhebung der Benutzungs- und Entgeltordnung und der 1. Änderungsordnung zur Benutzungs- und Entgeltordnung für das Medienzentrum Solingen
+- TOP 15: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Theaters und Konzerthauses Solingen
+- TOP 16: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung)
+- TOP 17: Rettet den Cow-Club - freie Kulturszene erhalten! Solingen Rock City Nr. 1!
+- TOP 18: Gesundheitsprogramm für eine umfassende Gesundheitsversorgung für Flüchtlinge und Asylsuchende
+- TOP 19: Gesundheitsprogramm für eine umfassende Gesundheitsversorgung für Flüchtlinge und Asylsuchende
+- TOP 20: Aufwertung und Umwandlung der potenziellen Windenergiebereiche Sengbachtalsperre in Flächen für den Naturschutz
+- TOP 21: Anpassung des Höchstbetrags der Kredite zur Liquiditätssicherung
+- TOP 22: Wirtschaftsplan 2015 des Dienstleistungsbetriebs Gebäude der Stadt Solingen
+- TOP 23: Abrechnungssatzung für die Fußgängerzone Alter Markt/Ohliger Tor/Kirchstraße/Linkgasse
+- TOP 24: Abrechnungssatzung Wiener Straße
+- TOP 25: Bauleitplanung Wuppertaler Straße/gegenüber Schulte vom Brühl
+- TOP 26: Bauleitplanung Monhofer Straße/Weyerstraße
+- TOP 27: Freiwillige Leistungen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Lebensmittelüberwachung
+- TOP 30: Audit berufundfamilie
+- TOP 31: Überplanmäßige Ausgaben der Gemeinsamen Leitstelle Solingen/Wuppertal im 4. Quartal 2014
+- TOP 32: Mitwirkungsrechte von Ratsmitgliedern
+- TOP 33: Sachstand IT/digitale Lernmittel
+- TOP 34: Bericht über die Weiterentwicklung und Stärkung der Bergischen Kooperation
+- TOP 35: Information zur vorläufigen Haushaltsführung gem. § 82 GO und Bewirtschaftungsschreiben für das Jahr 2015
+- TOP 36: Kommunales Wahlrecht für auf Dauer in NRW lebende Migrantinnen und Migranten
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Vorberatung von Gesellschafterbeschlüssen der Stadtwerke Solingen GmbH (SWS)
+- TOP 2: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 3: Übertragung der Ratssitzungen ins Internet
+- TOP 4: Gehälter von Geschäftsführern städtischer Unternehmen, Eigenbetrieben und Sparkassen-Vorständen auf den Prüfstand stellen
+- TOP 5: Beratungsaufträge an die "Big Four"
+- TOP 6: Beteiligung der Stadtwerke Solingen an der STEAG Windpark Ullersdorf GmbH & Co. KG
