@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-03-27T16:00:00+01:00
+- Ende: 2015-03-27T19:40:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9920
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9920
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236694.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236694.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00236694.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Zulassung eines Vertreters des Jugendrates - zur Kenntnis genommen
+- TOP 5: Vorstellung des Bäderkonzepts 2020 - zur Kenntnis genommen
+- TOP 6: Anfrage: Erhalt der Kinderbecken im Freibad Düsseldorf-Benrath - zur Kenntnis genommen
+- TOP 7: Anfrage: Hallen-/Freibad Benrath
+- TOP 8: Antrag: Bäderkonzept - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Umbau öffentliche Grünanlage Burscheider Straße - zur Kenntnis genommen
+- TOP 11: Vorstellung des Maßnahmenkonzepts Urdenbacher Kämpe - zur Kenntnis genommen
+- TOP 12: Vorstellung des Radhauptnetzes der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 13: Sachstandsbericht des Vereins "Gemeinsam Leben am Schloss Benrath" - zur Kenntnis genommen
+- TOP 14: Oerschbachstraße - Baumfällung im Zuge der Erneuerung der Bahnübergangssicherungsanlage - zur Kenntnis genommen
+- TOP 15: Infovorlage: Kammerrathsfeldstraße - Barrierefreier Ausbau der Haltestelle "Flößerstraße", Fahrtrich - zur Kenntnis genommen
+- TOP 16: Benrather Jahrmärkte im Jahre 2015 - zur Kenntnis genommen
+- TOP 17: Bezirkssportanlage Karl-Hohmann-Straße 70, Sanierung des Kunstrasenspielfelds - zur Kenntnis genommen
+- TOP 18: Infovorlage: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 19: Anfrage: Umsetzung von der BV 9 beschlossener Bauunterhaltungsmaßnahmen für den Bereich Schulen - zur Kenntnis genommen
+- TOP 20: Anfrage: Ersatzpflanzungen im Stadtbezirk 9
+- TOP 21: Anfrage: Barrierefreies Wohnen - zur Kenntnis genommen
+- TOP 22: Anfrage: Eissporthalle in der Paulsmühle
+- TOP 23: Anfrage: Mühlenprojekt - Bebauung BEA-Gelände - zur Kenntnis genommen
+- TOP 24: Anfrage: Neubau eines Mehrfamilienhauses Hasselsstraße 122
+- TOP 25: Antrag: Anzahl Unfälle Kreuzung Ickerswarder Str. / Münchener Str. - zur Kenntnis genommen
+- TOP 26: Antrag: Bürgerhaus Wersten-2. Rettungsweg - zur Kenntnis genommen
+- TOP 27: Antrag: Standortvorschläge für Wall-Toiletten - zur Kenntnis genommen
+- TOP 28: Antrag: Projektstart für die Sporthallen Itterstraße und Koblenzer Straße - zur Kenntnis genommen
+- TOP 29: Antrag: Vorstellung des Kinder- und Jugendförderplans - zur Kenntnis genommen
+- TOP 30: Antrag: Nutzungskonzept TSV Urdenbach - zur Kenntnis genommen
+- TOP 31: Antrag: Benennung eines Platzes oder einer Straße nach Josef Kürten
+- TOP 32: Antrag: Neubau Hauptschule Benrath - zur Kenntnis genommen
+- TOP 33: Antrag:Verkehrswidriges Parken und Halten an der Einmündung Urdenbacher Dorfstraße, Ecke Gänsestraße - zur Kenntnis genommen
+- TOP 34: Antrag: Umpositionierung von Straßenschildern Hochstr./Gänsestr. - zur Kenntnis genommen
+- TOP 35: Antrag: Flüchtlingsfragen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 36: Antrag: Verfügungsmittel Neue Düsseldorfer Hofmusik
+- TOP 37: Antrag: Verfügungsmittel St. Apollinaris Schule - zur Kenntnis genommen
+- TOP 38: Antrag: Verfügungsmittel Düsseldorfer Räbbelche 1962 e. V. - zur Kenntnis genommen
+- TOP 39: Antrag: Verfügungsmittel für die Aufstellung von Blumenkübeln im öffentlichen Straßenraum - zur Kenntnis genommen
+- TOP 40: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
