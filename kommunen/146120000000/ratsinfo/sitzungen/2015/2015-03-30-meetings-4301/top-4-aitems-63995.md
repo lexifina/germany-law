@@ -1,0 +1,8 @@
+# TOP 4: Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden aus dem Jahr 2003
+
+- Sitzung: 7. Sitzung des Ausschusses für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) (2015-03-30)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/63995
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/18134
