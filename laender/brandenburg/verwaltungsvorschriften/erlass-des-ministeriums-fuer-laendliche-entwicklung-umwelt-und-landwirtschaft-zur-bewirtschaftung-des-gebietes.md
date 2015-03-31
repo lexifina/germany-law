@@ -1,171 +1,188 @@
-# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Graning"
+# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Lieberoser Endmoräne und Staakower Läuche, Teilfläche Staakower Heide"
 
 - Herausgeber: Land Brandenburg
-- Datum: 2015-02-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/graning2015
+- Datum: 2015-03-31 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/lieberoser2015
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Graning"
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Lieberoser Endmoräne und Staakower Läuche, Teilfläche Staakower Heide"
 
-vom 19. Februar 2015
+vom 31. März 2015
 
-(ABl./15, [Nr. 09], S.211)
+(ABl./15, [Nr. 16], S.377)
 
-Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
+Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21.Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368), - FaunaFlora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
 
 1 Bewirtschaftungsgegenstand
 
-Die in Anlage 1 (Kartenskizze) näher bezeichnete Fläche in den Landkreisen Märkisch-Oderland und Oder-Spree umfasst das Gebiet von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Graning“ und der Gebietsnummer DE 3551-304.
+Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses in den Landkreisen Spree-Neiße und Dahme-Spreewald umfasst Teile des Gebietes von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Lieberoser Endmoräne und Staakower Läuche“ und der Gebietsnummer DE 4051-301.
 
-Der Geltungsbereich des Erlasses hat eine Größe von rund
-
-476 Hektar und umfasst Flächen in folgenden Fluren:
+Der Geltungsbereich des Erlasses hat eine Größe von rund 1 594 Hektar und umfasst Flächen in folgenden Fluren:
 
 | Gemeinde: | Gemarkung: | Flur:
 
-| Steinhöfel
+| Lieberose
 
-| Arensdorf
+| Lieberose
 
-| 1, 2;
+| 17;
 
 
-| Madlitz-Wilmersdorf
+| Schenkendöbern
 
-| Wilmersdorf
+| Staakow
+
+| 1, 2, 3, 4, 5;
+
+
+| Schenkendöbern
+
+| Pinnow
+
+| 5;
+
+
+| Tauer
+
+| Tauer
+
+| 8;
+
+
+| Tauer
+
+| Schönhöhe
 
 | 1;
 
 
-| Falkenhagen (Mark)
+| Turnow/Preilack
 
-| Falkenhagen
+| Preilack
 
-| 1, 4.
+| 5, 6.
 
 
-Die Grenze des Geltungsbereichs dieses Erlasses ist in der Kartenskizze (Anlage 1), in der Biotoptypenkarte im Maßstab 1 : 10 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10 000 und der Zielkarte im Maßstab 1 : 10 000 sowie in Liegenschaftskarten (Blatt 1 bis 6) eingezeichnet. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstücksliste beim Landesamt für Umwelt, Gesundheit und Verbraucherschutz in Potsdam, beim Landkreis Märkisch-Oderland als untere Naturschutzbehörde in Seelow, beim Landkreis Oder-Spree als untere Naturschutzbehörde in Beeskow, bei der Amtsverwaltung Seelow-Land, bei der Amtsverwaltung Steinhöfel und beim Landesbetrieb Forst, Oberförsterei Waldsieversdorf und Oberförsterei Briesen von jedermann während der Dienstzeiten einsehbar.
+Die Grenze des Geltungsbereiches dieses Erlasses ist in der Kartenskizze (Anlage 1) und in der Biotoptypenkarte im Maßstab 1 : 10 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10 000 und der Zielkarte im Maßstab 1 : 10 000 sowie in den Liegenschaftskarten eingezeichnet. Als Grenze gilt der innere Rand der Linie. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstückliste beim Landesamt für Umwelt, Gesundheit und Verbraucherschutz in Potsdam, beim Landkreis Spree-Neiße als untere Naturschutzbehörde in Forst, beim Landkreis Dahme-Spreewald als untere Naturschutzbehörde in Lübben, beim Landesbetrieb Forst Brandenburg, Oberförsterei Lieberose und Oberförsterei Cottbus und in den Amtsverwaltungen Peitz, Schenkendöbern und Lieberose von jedermann während der Dienstzeiten einsehbar.
 
-2 Beschreibung des FFH-Gebietes
+2 Beschreibung des Gebietes
 
-Das FFH-Gebiet „Graning“ liegt zwischen Arensdorf und Falkenhagen (Mark) auf der Lebusplatte, einem Grundmoränenplateau der Weichseleiszeit, im Südosten der Brandenburgischen Platte. Der Graning ist Bestandteil der naturräumlichen Einheit „Ostbrandenburgische Platte“.
+Die Staakower Heide liegt östlich der ehemaligen Bahnlinie Peitz - Jamlitz und befindet sich in der naturräumlichen Einheit „Lieberoser Heide und Schlaubegebiet“, die zu der Haupteinheit „Ostbrandenburgisches Heide- und Seengebiet“ zählt. Das Gebiet umfasst eine eiszeitlich geprägte Moränenlandschaft, die mit Kiefernwäldern und ausgedehnten Sandheiden bewachsen ist und nährstoffarme Heidemoore und Stillgewässer aufweist. Die vorherrschende Bodenart sind nährstoffarme Sande.
 
-Eine landwirtschaftliche Nutzung auf sandigen bis lehmigen Böden prägt das Gebiet. Charakteristisch ist das Vorkommen zahlreicher Toteissenken mit Stillgewässern unterschiedlicher Größe, in der Mehrzahl Sölle, sowie das Vorkommen zahlreicher störungsarmer Gehölzstrukturen wie Baumreihen und Feldgehölze. Die Sölle bilden Lebens- und Reproduktionsräume für verschiedene Amphibienarten, darunter Rotbauchunke (Bombina bombina) und Kammmolch (Triturus cristatus), die hier repräsentative Vorkommen innerhalb Brandenburgs bilden. Die Bundesstraße 5 teilt das Gebiet.
+Das natürlicherweise waldreiche Gebiet der Staakower Heide wurde nach einem Großbrand im Jahr 1942 nicht wieder aufgeforstet und in den Folgejahren bis 1990 militärisch als Großmanöverraum und Übungsraum genutzt. Die Aufgabe des Truppenübungsplatzes erfolgte 1994. Infolge der militärischen Nutzung ist das Gebiet Kampfmittel- und Altlastenverdachtsfläche. Einige Wege und Einzelflächen sind durch die Forstverwaltung bereits beräumt. Aktuell wird das Gebiet durch großflächige Kiefernforste mit eingestreuten Offenflächen und Sukzessionswaldflächen sowie kleinflächigen Moorbildungen geprägt.
 
 3 Erhaltungsziele
 
-Die folgenden Erhaltungsziele sind aus dem Standarddatenbogen zum FFH-Gebiet „Graning“ abgeleitet:
+Die folgenden Erhaltungsziele sind aus dem Standarddatenbogen zum FFH-Gebiet „Lieberoser Endmoräne und Staakower Läuche“ für das Teilgebiet „Staakower Heide“ abgeleitet:
 
-Ziel ist die Erhaltung, Entwicklung und Wiederherstellung der natürlichen Lebensraumtypen von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes und der Arten von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 2 Nummer 10 des Bundesnaturschutzgesetzes.
+Ziel ist die Erhaltung, Entwicklung und Wiederherstellung der natürlichen Lebensraumtypen von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes, der prioritären natürlichen Lebensraumtypen im Sinne von § 7 Absatz 1 Nummer 5 des Bundesnaturschutzgesetzes und der Arten von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 2 Nummer 10 des Bundesnaturschutzgesetzes.
 
-Der Erlass dient somit der Erhaltung, Entwicklung und Wiederherstellung der Stillgewässer des Gebiets als LRT 3150 „Natürliche eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions“ sowie der Erhaltung und Entwicklung der Populationen der Rotbauchunke (Bombina bombina), des Kammmolches (Triturus cristatus) und des Fischotters (Lutra
-
-lutra) jeweils mit ihren Lebensräumen.
+Der Erlass dient somit der Erhaltung des ehemaligen militärischen Übungsgeländes als Standort der Dünen mit offenen Grasflächen mit Corynephorus und Agrostis, der Trockenen europäischen Heiden, der Übergangs- und Schwingrasenmoore, des Waldkiefern-Moorwaldes, der Mitteleuropäischen Flechten-Kiefernwälder, der Entwicklung der Alten bodensauren Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche) sowie der Entwicklung der Habitate des Wolfes sowie der Erhaltung und Entwicklung der Population des Kammmolches einschließlich ihrer für Fortpflanzung, Ernährung, Wanderung und Überwinterung wichtigen Lebensräume.
 
 4 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
 
-Natürliche eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions (LRT-Nummer 3150, Größe rund 17,24 Hektar), Erhaltungszustand B (Größe rund 10,5 Hektar), Erhaltungszustand C (Größe rund 6,6 Hektar)
+Dünen mit offenen Grasflächen mit Corynephorus und Agrostis (Dünen im Binnenland) (LRT-Nummer 2330, Größe: rund 1,35 Hektar), Erhaltungszustand B
 
-Ein großer Teil der dauerhaft wasserführenden Kleingewässer entspricht dem LRT 3150. Die Gewässer mit ihren zum Teil ausgedehnten Verlandungs- und Uferzonen sind nach § 30 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes (BNatSchG) geschützt.
+Die zwei Dünen im Gebiet sind überwiegend mit Kiefern bestanden. Mit seinen Vorkommen unter anderem von Silbergras, Kleinem Habichtskraut und Kleinem Sauerampfer weist das Gebiet die für den LRT typische Flora auf und bietet damit Lebensraum für Schlingnatter und Zauneidechse. Die Erhaltung als LRT ist durch periodisches Offenhalten mittels Beweidung und Gehölzentnahmen zu sichern.
 
-Ein Teil der dauerhaft wasserführenden Gewässer des FFH-Gebietes und die unmittelbar von ihnen beeinflussten Verlandungs- und Uferzonen sind dem LRT zuzuordnen. Aufgrund der überwiegend kleinen Einzugsgebiete ist natürlicherweise ein im Jahresverlauf stark schwankender Wasserspiegel charakteristisch.
+Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
 
-Die Vegetation der Gewässer variiert. Sie ist überwiegend artenarm und besteht in kleineren Gewässern hauptsächlich aus Wasserschwebergesellschaften mit Hornkräutern und Dreifurchiger Wasserlinse sowie Schwimmdecken mit Froschbiss, Teich- und Kleiner Wasserlinse. In größeren Gewässern setzt sie sich aus Wasserschwebergesellschaften und Schwimmblattfluren mit Laichkräutern, Wasserknöterich, See- und Teichrose zusammen. Die Röhrichtsäume sowie gewässerbegleitenden Gehölzstrukturen sind in der Regel typisch ausgebildet und werden meist von Schilf dominiert. Daneben finden sich auch Bereiche mit Binsen, Igelkolben und Seggen. Häufig tritt am Gewässerrand auch Rohr-Glanzgras dominierend auf. Viele Gewässer weisen lückige bis geschlossene Gehölzgürtel aus Baumweiden, Schwarzerlen und anderen Gehölzarten auf. Als Begleitbiotope kommen außerdem in unterschiedlicher Flächenausdehnung feuchte Pionierfluren und Kleinröhrichte in zeitweilig trocken fallenden Bereichen sowie feuchte Staudenfluren und Grauweidengebüsche vor.
+Trockene Europäische Heiden (LRT-Nummer 4030, Größe: rund 280 Hektar), Erhaltungszustand A (Größe: rund 128,1 Hektar), Erhaltungszustand B (Größe: rund 107 Hektar), Erhaltungszustand C (Größe: rund 44,5 Hektar), Erhaltungszustand E (Größe: rund 2,1 Hektar)
 
-Die LRT-Gewässer besitzen teils einen guten, teils einen durchschnittlichen oder beschränkten Erhaltungszustand. Beeinträchtigungen bestehen insbesondere im Bereich des Wasser-, zum Teil im Bereich des Stoffhaushaltes. Dürreperioden führen schnell zu einer Schrumpfung beziehungsweise vollständigen Austrocknung der Kleingewässer. Es besteht die Gefahr einer Verschlechterung der Gewässergüte durch Stoffeinträge aus den angrenzenden Ackerflächen. Hohe Stickstoff- und Phosphatkonzentrationen führen vor allem ab Mai/Juni zu Sauerstoffarmut in den Gewässerkörpern. Örtlich führen Lesesteinablagerungen oder jährliches Pflügen bis in die Ränder hinein zu einer allmählichen Verkleinerung der Gewässer und Aufsteilung ihrer Böschungen. Bei mehreren Gewässern resultieren Beeinträchtigungen aus einer intensiven Angelnutzung mit Besatzmaßnahmen, die eine Reproduktion von Amphibien ausschließen. Die Angelnutzung soll auf kein weiteres Gewässer ausgedehnt werden.
+Die großflächigen Sandheiden mit Calluna auf den ehemaligen Schieß- und Truppenübungsplätzen sind von voranschreitender Sukzession betroffen. Die Besonderheit der Vorkommen dieses LRT ist zum einen die Großflächigkeit der Bestände und zum anderen ihre Strukturvielfalt, die vor allem aus der engen Verzahnung mit anderen LRT beziehungsweise Biotoptypen resultiert. Aufgrund der fehlenden Nutzung ist die Heide stellenweise vergreist und es besteht keine optimale Ausprägung der verschiedenen Altersphasen (Pionier-, Aufbau-, Reife- und Degenerationsphase). Eine herausragende Bedeutung kommt den Heideflächen auf dem nördlichen, stark munitionsbelasteten Schießplatz zu, die durch ausgedehnte Bestände der Echten Bärentraube (Arctostaphylos uva-ursi) geprägt sind. Diese in Deutschland sehr seltene Art tritt in Brandenburg nur noch an diesem Standort auf und ist vor allem hinsichtlich der typischen Ausprägung und der Größe des Bestandes für das deutsche Tiefland einzigartig. Bei den Vorkommen handelt es sich um eine besondere, im Tiefland extrem seltene Ausbildung des LRT mit einer besonderen Schutzbedürftigkeit.
 
-Zur Erhaltung, Entwicklung und Wiederherstellung des Lebensraumtyps sind vor allem Maßnahmen zur Stützung eines naturraumtypischen Wasserhaushalts sowie zur Minderung von Stoffeinträgen in die Gewässer erforderlich, zum Beispiel durch Schaffung beziehungsweise Beibehaltung von extensiv oder nicht genutzten Pufferzonen. Wirtschaftsmaßnahmen, die das morphologische Erscheinungsbild von Gewässern und deren Uferböschungen wesentlich verändern, sind zu unterlassen.
+Die regelmäßige Pflege der Heide erfolgt bereits durch Beweidung mit Schafen und Ziegen. Der Turnus wird in Abhängigkeit vom Vegetationsfortschritt und dem Biotopzustand angepasst. Auf den Heideflächen der ehemaligen Rollbahn sind im Rahmen von Ausgleichs- und Ersatzmaßnamen Gehölzentnahmen durchgeführt worden. Flächen mit einem Gehölzdeckungsgrad unter 10 Prozent werden in einem Abstand zwischen 5 bis 10 Jahren durch Teilentnahme der Gehölze gepflegt. Auf den Flächen mit einer Gehölzdeckung über 35 Prozent soll der Deckungsgrad durch Gehölzentnahmen gesenkt werden, wobei stellenweise auch dichtere Deckungsgrade bestehen bleiben sollten, um das Mosaik aus offenem Boden, Heide und Gehölzen zu erhalten. Ziel der Pflege ist, dass die Gehölzdeckung 35 Prozent nicht übersteigt. Auf geeigneten Flächen ist alternativ Mahd möglich.
 
-Rotbauchunke (Bombina bombina), Erhaltungszustand B
+Die Waldeigenschaft im Sinne des § 2 des Waldgesetzes des Landes Brandenburg (LWaldG) bleibt von Pflege- und Erhaltungsmaßnahmen unberührt.
 
-Das FFH-Gebiet „Graning“ liegt in einem Hauptverbreitungsschwerpunkt der Rotbauchunke in Brandenburg und besitzt, insbesondere durch seine Vernetzung mit weiteren Feuchtgebieten im Plattkower Mühlenfließtal und den Vorkommen im FFH-Gebiet „Lietzen-Döbberin“, eine hohe Bedeutung für die Verbreitung der Art.
+Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
 
-Die Rotbauchunke benötigt sonnenexponierte, vegetationsreiche, fischarme Flachgewässer. Im Anschluss an die Reproduktion werden die Gewässer von den adulten Tieren auch als Sommerlebensräume genutzt. Die Landhabitate bestehen aus feuchten Wiesen und Weiden im Umfeld der Gewässer, aus Säumen und aus Nassstellen in den Ackerschlägen. Die Überwinterung erfolgt in Hohlräumen, unter Wurzeln sowie im Lückensystem von Steinhaufen, in Brachen oder im Bahndamm von der ehemaligen Oderbruchbahn, der durch das Gebiet führt.
+Übergangs- und Schwingrasenmoore (LRT-Nummer7140, Größe: rund 5 Hektar), Erhaltungszustand B (Größe: rund 0,4 Hektar), Erhaltungszustand C (Größe: rund 4,6 Hektar)
 
-Die Rotbauchunke besiedelt zahlreiche Kleingewässer des FFH-Gebietes. Insgesamt weist das Vorkommen der Rotbauchunke im Gebiet gegenwärtig einen guten Erhaltungszustand auf. Die Laichgewässer sind überwiegend strukturreich und die Vernetzung der Teilbestände hoch. Es sind zudem ausreichend günstig strukturierte, störungsarme Landhabitate vorhanden. Vereinzelt ergeben sich Defizite durch den Mangel an Flachwasserzonen, eine unzureichend ausgeprägte aquatische Vegetation oder eine zu kurzfristige Wasserführung temporärer Kleingewässer. Für eine erfolgreiche Reproduktion müssen die Gewässer eine Mindestwasserführung bis Mitte Juli aufweisen. Einzelne Gewässer sind reich an Fischen, die sich unter anderem vom Laich der Unke ernähren. Der Fischbesatz oder eine mangelnde Wassergüte führen bei mindestens zehn Gewässern im Gebiet dazu, dass sie von Rotbauchunken nicht dauerhaft besiedelt werden. Beeinträchtigungen ergeben sich durch fehlende oder unzureichende Gewässerrandstreifen sowie durch die damit verbundene Gefahr von Stoffeinträgen in die Gewässer, die vor allem Laich und Kaulquappen schädigen. Gefährdungen bestehen durch ungünstige Bewirtschaftungszeitpunkte sowie die Ausbringung von Pflanzenschutzmitteln und Dünger. Vor allem während der Wanderungszeit vieler Amphibien im August und September sowie im Februar und März soll die wendende Bodenbearbeitung vermieden werden. Es besteht die Gefahr, dass bei intensivem Wanderungsgeschehen ganze Populationen untergepflügt werden.
+Die zwölf Flächen der Übergangs- und Schwingrasenmoore wurden überwiegend in den Erhaltungszustand C (mittel bis schlecht) eingestuft. Die Hauptursache für den ungünstigen Erhaltungszustand ist der Wassermangel. Im Rahmen der Kartierung konnten keine Entwässerungsgräben im Bereich der Moore festgestellt werden. Für die Stabilisierung des Landschaftswasserhaushaltes der Moore ist in den Moorbereichen der Bestockungsgrad auf ca. 30 Prozent zu reduzieren. In den Wassereinzugsbereichen der Moore sind reine Kiefernbestände aufzulichten und mit standortangepassten Laubgehölzen in Mischwälder umzubauen.
 
-Die Termine der Grunddüngung sollten möglichst vor den Beginn der Hauptperiode der Amphibienwanderung im Frühjahr vorverlagert werden. Auf die Anwendung von Totalherbiziden auf Glyphosatbasis sollte weitestgehend verzichtet werden, da sich die Rückstände im Gewässer nur sehr langsam abbauen und den Laich der Amphibien schädigen. Kalk und Gülle sollen möglichst innerhalb desselben Tages der Ausbringung in den Boden eingearbeitet werden. Erosionsanfällige Kulturen sollten auf den Böden verringert oder vermieden werden, die sich zu Gewässern hin neigen. Anzustreben ist eine möglichst andauernde Bedeckung mit sehr kurzen Zeiträumen ohne ausreichende Bedeckung.
+Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
 
-Bei der Ausübung der Landwirtschaft sollen zum Schutz der wandernden Tiere die Grundsätze des integrierten Pflanzenschutzes berücksichtigt werden.
+Alle Maßnahmen zum Erhalt oder zur Entwicklung der LRT 2330, 4030 und 7140 (zum Beispiel Pflegemaßnahmen mit Beseitigung des Aufwuchses von Forstpflanzen/Beweidung ausgewählter Bereiche) werden mit dem Bewirtschafter (Landeswaldoberförsterei Peitz) unter Einhaltung der forstrechtlichen Bestimmungen einvernehmlich abgestimmt.
 
-Die vorgesehenen Erhaltungs- und Entwicklungsmaßnahmen wie Anlage von Gewässerrandstreifen sowie vollständige Entschlammung von Kleingewässern dienen insbesondere der Verbesserung der Fortpflanzungs- und Sommerlebensräume der Rotbauchunke. Weitere Maßnahmen bestehen in der Verbesserung der Habitate durch Gehölzentfernung im Uferbereich zur Verringerung von Gewässerbeschattung auf maximal 25 Prozent der Wasserfläche oder Mahd der Röhrichtbestände. Darüber hinaus wurden die Landnutzer über freiwillige Maßnahmen für eine amphibienschonende Ackernutzung aufgeklärt.
+Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (LRT-Nummer 9190, Größe: rund 7,1 Hektar), Erhaltungszustand B
 
-Die Rotbauchunke ist mit ihren Fortpflanzungs- und Ruhestätten gemäß § 44 BNatSchG geschützt.
+Bei dem alten bodensauren Eichenwald handelt es sich um ein kleinflächiges Vorkommen, das von den östlich angrenzenden „Tauerschen Eichen“ in das Untersuchungsgebiet hineinragt. Der mittelalte Bestand ist überwiegend mit Traubeneichen, Kiefern und Birken bestockt. Der derzeit vorhandene Totholzanteil ist gezielt zu erhöhen: Angestrebt werden 21 bis 40 m3/ha, was aufgrund des relativ jungen Bestandes aber nur langfristig zu erreichen ist.
 
-Kammmolch (Triturus vulgaris), Erhaltungszustand B
+Wenn eine künstliche Verjüngung erfolgt, dann nur mit Baumarten der potenziell vorkommenden Arten (Stiel- und Traubeneiche) und nach den Grundsätzen der ordnungsgemäßen Forstwirtschaft (§ 4 LWaldG). Auf der Fläche soll die Nutzung einzelstammweise erfolgen, Stark- und Totholz im Bestand verbleiben und keine Kalkung durchgeführt werden.
 
-Das FFH-Gebiet „Graning“ liegt in einem Hauptverbreitungsschwerpunkt des Kammmolchs in Brandenburg und besitzt insbesondere durch seine Vernetzung mit weiteren Feuchtgebieten, vor allem mit den Gewässern im Plattkower Mühlenfließtal und den Vorkommen im FFH-Gebiet „Lietzen-Döbberin“, eine hohe Bedeutung für die Verbreitung der Art.
+Waldkiefern-Moorwald1 (LRT-Nummer 91D2, Größe: rund 1,2 Hektar), Erhaltungszustand C
 
-Der Kammmolch benötigt zur Reproduktion sonnenexponierte, vegetationsreiche, über 0,5 m tiefe und bis mindestens in den August hinein Wasser führende, fischarme Flachgewässer jeglicher Form mit reich strukturierten Uferzonen. Als Sommerlebensraum nach der Laichzeit werden Gehölze, Gebüsche, Brachflächen, Gärten und Extensivgrünland im Umfeld der Laichgewässer genutzt. Die Überwinterung des Kammmolchs kann aquatisch oder terrestrisch erfolgen. Zu den terrestrischen Winterquartieren zählen unter anderem Nagerbauten in Ackerstilllegungen, Keller, Bunker, Stein- und Holzhaufen, altes Mauerwerk oder Stollen. Der Kammmolch kommt im Gebiet in mehreren Kleingewässern beidseitig der alten Bahntrasse sowie an den Kleingewässern südwestlich des Anwesens Grüner Baum vor.
+Der Lebensraumtyp kommt auf zwei degradierten Moorflächen vor (Nummern der Teilfläche gemäß Zielkarte: 52, 58) und weist eine sehr homogene Alters- und Habitatstruktur auf. Das typische Arteninventar ist aufgrund der Entwässerung nur noch reliktartig vorhanden und der Moorkörper ist stark vermulmt. Zur Stabilisierung der Grundwasserverhältnisse sind die angrenzenden Kiefernwälder in Mischwälder umzubauen. Die „Moorkiefer“, eine besondere Wuchsform von Pinus sylvestris ist gegenüber dem Vorkommen der Waldkiefer (Pinus sylvestris) zu fördern.
 
-Insgesamt weist das Vorkommen des Kammmolchs im Gebiet gegenwärtig trotzeiniger Einschränkungen einen guten Erhaltungszustand auf. Hervorzuheben sind die Nähe der Lebensräume zu möglichen Winterquartieren sowie die gute Vernetzung der Teilpopulationen. Defizite in der Habitatausstattung ergeben sich durch den Mangel an Flachwasserzonen und die unzureichend ausgeprägte aquatische Vegetation sowie den teilweisen Mangel an Landhabitaten im Umfeld der Gewässer. Vereinzelt weisen die Gewässer zudem geringe Fischvorkommen auf. Beeinträchtigungen ergeben sich durch fehlende oder unzureichende Gewässerrandstreifen sowie durch die damit verbundene Gefahr von Stoffeinträgen in die Gewässer. Gefährdungen bestehen auch durch ungünstige Zeitpunkte der landwirtschaftlichen Bewirtschaftung während der Wanderbewegungen zwischen Winter- und Sommerlebensraum.
+Der Lebensraumtyp ist nach § 30 BNatSchG in Verbindung mit § 18 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) geschützt.
 
-Die für die Rotbauchunke formulierten Erhaltungs- und Entwicklungsmaßnahmen sind auch für den Kammmolch maßgeblich.
+Mitteleuropäische Flechten-Kiefernwälder (LRT-Nummer 91T0, Größe: rund 10 Hektar), Erhaltungszustand B (Größe rund 8,7 Hektar), Erhaltungszustand C (Größe rund 1,6 Hektar), Erhaltungszustand E (Größe rund 18,2 Hektar)
 
-Der Kammmolch ist mit seinen Fortpflanzungs- und Ruhestätten gemäß § 44 BNatSchG geschützt.
+Die Flächen des Lebensraumtyps und die Entwicklungsflächen konzentrieren sich überwiegend im Südwesten des Gebietes auf sehr armen Standorten in Richtung der sogenannten Wüste. Eine Ausnahme bilden zwei eng aneinander liegende Entwicklungsflächen östlich der Schießplätze. Die Rückegassen sind so anzulegen, dass die Bestände mit Bodenflechten nicht beeinträchtigt werden. Es ist zu sichern, dass nur die ausgewiesenen Gassen bei der Holzernte befahren werden.
 
-Fischotter (Lutra lutra), Erhaltungszustand C
+Wolf2 (Canis lupus), Erhaltungszustand unbekannt
 
-Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume von großer Ausdehnung. Nachweise der scheuen Art ergaben sich aus Totfunden an der B 5. Die Feuchtgebiete und Gewässer des FFH-Gebiets gehören zum Lebensraumverbund der lokalen Population des östlich gelegenen Plattkower Mühlenfließes und seiner Zuflüsse sowie der Population des Kehrsdorfer Mühlengrabens und des Spreetals im Süden. Aufgrund der für die Art suboptimalen Lebensraumstrukturen innerhalb des Gebiets ist der Erhaltungszustand hier nur als beschränkt einzuschätzen. Auf die Anlage weiterer, zerschneidend wirkender Verkehrswege im Gebiet ist zu verzichten. Strukturreiche, naturnahe und störungsarme Uferbereiche sind zu erhalten und zu fördern. Im Zuge eventuell anfallender Straßenarbeiten an der Bundesstraße B 5 sollte ein Durchlass zur Querung geschaffen werden.
+Seit Ende 2009 ist eine feste Ansiedlung eines einzelnen Wolfes in der Lieberoser Heide bekannt. Anfang 2010 konnte ein zweiter Wolf im Bereich der Lieberoser Heide dokumentiert werden. Anfang Juli 2010 wurde die erfolgreiche Reproduktion nachgewiesen (drei Welpen). Damit ist die Gründung eines weiteren Rudels neben den acht bereits bestehenden Rudeln der Lausitz vollzogen. Die Staakower Heide bildet im Osten einen wichtigen Bestandteil des Wolfsreviers (insgesamt 240 bis 270 km2).
 
-Der Fischotter ist mit seinen Fortpflanzungs- und Ruhestätten gemäß § 44 BNatSchG geschützt.
+Der Wolf galt in Deutschland bereits als ausgestorben und die Wiederansiedlung wird durch Managementkonzepte unterstützt (Ministerium für Umwelt, Gesundheit und Verbraucherschutz [MUGV] 2010). Als streng geschützte Art des § 7 BNatSchG und als prioritäre Art des Anhangs II der FFH-Richtlinie handelt es sich beim Wolf um eine naturschutzfachlich bedeutsame Art.
 
-Erläuterung
+Das Planungsgebiet der Staakower Heide bildet ein wichtiges Verbindungselement für das Entwicklungspotenzial in Richtung Osten (Tauersche Eichen) sowie nach Norden (Reicherskreuzer Heide). Das Territorium dieses Rudels wird nur durch eine Bundesstraße und den eingezäunten Solarpark Turnow/Preilack zerschnitten. Ziel für die weitere Entwicklung des Wolfes ist der Erhalt der großen, unzerschnittenen naturnahen Landschaften des ehemaligen Truppenübungsplatzes und die Vermeidung von Störungen.
 
-A - hervorragender Erhaltungszustand
+Kammmolch (Triturus cristatus), Erhaltungszustand C
 
-B - guter Erhaltungszustand
+2011 wurde eine kleine Population des Kammmolchs in einem Tümpel (Nummer der Teilfläche gemäß Zielkarte: 260) festgestellt. Die Reproduktion ist abhängig vom Wasserstand in den im Gebiet vorhandenen, zum Teil temporären Kleingewässern und fällt in trockenen Jahren aus. Insgesamt sind die Staakower Läuche, wie auch der Kessel, bereits stark degeneriert. Langfristig sind die Moorgewässer als Habitate des Kammmolches nur durch eine Anhebung der Wasserstände zu erhalten.
 
-C - durchschnittlicher oder beschränkter Erhaltungszustand
+Erläuterung zum Erhaltungszustand
 
-E - Entwicklungsfläche
+A hervorragender Erhaltungszustand
 
-5 Bestandund Bewertung weiterer Arten und Biotope
+B guter Erhaltungszustand
+
+C durchschnittlicher oder beschränkter Erhaltungszustand
+
+E Entwicklungsfläche
+
+5 Bestand und Bewertung weiterer Arten und Biotope
 
 5.1 Nach § 30 BNatSchG in Verbindung mit § 18 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) geschützte Biotope,
 
 5.2 Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben,
 
-5.3 Lebensräume nach Anhang IV der FFH-Richtlinie:
+5.3 Lebensräume der Arten nach Anhang I der Vogelschutz-Richtlinie und Anhang IV der FFH-Richtlinie.
 
-Kleingewässer und temporäre Kleingewässer einschließlich ihrer Ufer und der dazugehörigen uferbegleitenden natürlichen oder naturnahen Vegetation sowie ihrer natürlichen oder naturnahen Verlandungsbereiche und regelmäßig überschwemmten Bereiche (Nummern 5.1, 5.2, 5.3)
+Sandtrockenrasen (Nummer 5.1)
 
-Das FFH-Gebiet weist zahlreiche Senken mit Gewässern und Feuchtgebieten in unterschiedlicher Größe und Ausprägung auf. Einem Teil der Gewässer fehlen aufgrund von übermäßiger Nährstoffbelastung oder temporärer Wasserführung gegenwärtig die für den LRT Nummer 3150 charakteristischen Wasserpflanzenfluren. Neben Kleingewässern, die nur während sommerlicher Dürreperioden zeitweilig austrocknen, gibt es auch Hohlformen die nur in niederschlagsreichen Jahren oder nach Starkregenereignissen mit Wasser gefüllt sind. Die vorhandenen permanenten und periodischen Kleingewässer sind nach § 30 BNatSchG geschützt.
+Im Untersuchungsgebiet sind ausgedehnte Bestände dieses Biotoptyps auf den ehemaligen Schießplätzen sowie im Bereich der ehemaligen Rollbahn am Südrand des Gebietes zu finden. Es gibt sowohl Ausbildungen, die weitgehend gehölzfrei sind (Biotoptyp-Nummer: 05121101), als auch Bestände, die stärker mit Gehölzen durchsetzt sind (Biotoptyp-Nummer: 05121102) und bereits Übergänge zu den Vorwäldern darstellen. Im Gebiet wurden auf rund 46,5 Hektar weitgehend gehölzfreie Bestände des Biotoptyps (Biotoptyp-Nummer: 05121101) erfasst und auf rund 19 Hektar des Biotoptyps (Biotoptyp-Nummer: 05121102). Oft kommt der Biotoptyp aber auch kleinflächig vor und ist eng mit Heidebereichen verzahnt. Die zahlreichen Sandwege sind, vor allem im Randbereich, mit Silbergrasreichen Trockenrasen bewachsen.
 
-Insbesondere der Bereich der Graning-Seenkette weist einen Komplex aus offenen Wasserflächen, Röhrichten, Weidengebüschen und Bruchwaldbereichen auf und bietet aufgrund seiner teilweisen Unzugänglichkeit günstige Lebensbedingungen für zahlreiche Tier- und Vogelarten.
+Durch eine Kombination aus Gehölzentnahme und Beweidung soll der Zustand der Biotope wieder hergestellt und verbessert werden.
 
-Die Kleingewässer sind insbesondere für die Rotbauchunke und den Kammmolch, aber auch für andere im Gebiet vorkommende Amphibienarten des Anhangs IV der FFH-Richtlinie wie Moorfrosch (Rana arvalis), Knoblauchkröte (Pelobates fuscus) und Wechselkröte (Bufo viridis) als Laichgewässer, aber auch als Sommerlebensraum von Bedeutung. Die unter Nummer 4 des Bewirtschaftungserlasses formulierten Maßnahmen für den Erhalt der Populationen von Rotbauchunke und Kammmolch gelten auch für die Kleingewässer.
+Birken- und Kiefernvorwald trockener Standorte (Nummer 5.2)
 
-Grünlandbrachen feuchter Standorte sowie Staudenfluren frischer, nährstoffreicher Standorte im Kontakt mit Kleingewässern (Nummern 5.1 teilweise, 5.2, 5.3)
+Im Untersuchungsgebiet wurden zahlreiche Birken- und Kiefernvorwald-Bestände erfasst, die von Sand-Birke und Waldkiefern dominiert werden. Die Krautschicht ist teilweise lückig ausgeprägt und besteht vorwiegend aus Trockenrasen- und Heide-Arten. Die Vorwälder des Gebietes sind eng mit Heide- und Trockenrasenbiotopen verzahnt. Sofern sie einen dichten Unterwuchs aus Calluna-Heide aufweisen, sind sie dem bereits unter Nummer 4 beschriebenen LRT 4030 „Trockene Europäische Sandheiden“ zuzuordnen und zu erhalten. Die anderen Flächen sollen sich durch weiteres Voranschreiten der natürlichen Sukzession zu Beerkraut-Kiefernwald oder Heidekraut-Kiefernwald entwickeln.
 
-Grünlandbrachen unterschiedlicher Feuchtestufen kommen bereits an mehreren Gewässern im FFH-Gebiet vor. Sie schützen die Gewässer vor Stoffeinträgen und bilden ungestörte Teillebensräume der Amphibien. Grünlandbrachen und Staudenfluren, die im Kontakt zu Kleingewässern stehen, sollen einmal im Jahr möglichst mit einem Messerbalken-Mähwerk gemäht oder gemulcht werden. Die Schnitthöhe soll dabei zur Verringerung von Tierverlusten eine Höhe von 10 cm nicht unterschreiten. Eine niedrige Vegetation verbessert die Bewegungsfreiheit und das Nahrungsangebot für Amphibien. Drei Pflegevarianten sind grundsätzlich möglich. Um eine wirtschaftliche Nutzung des Mähguts zu gewährleisten, könnte eine Mahd der Gewässerrandstreifen in der zweiten Hälfte Mai bis zur ersten Hälfte Juni eines Jahres erfolgen. Optimal wäre jedoch eine Mahd kurz nach dem Hochsommer Mitte August oder in besonders trockenen Phasen im Sommer, da sich zu diesem Zeitpunkt die Amphibien bevorzugt im verbleibenden Wasserlebensraum aufhalten und dann während der Mahd nur geringe Verluste auftreten. Möglich ist auch ein Pflegeschnitt im Winter im Turnus von drei Jahren, um den Jungwuchs von Gehölzen und den abgestorbenen krautigen Aufwuchs zu entfernen.
+Naturnahe Zwergstrauch-Kiefernwälder (Beerkraut-Kiefernwald, Heidekraut-Kiefernwald) (Nummer 5.1)
 
-Bruchwälder (Nummern 5.1, 5.2)
+Auf den frischen bis mäßig trockenen, bodensauren und relativ nährstoffarmen Sandstandorten des Geltungsbereiches kommen großflächig von Waldkiefern beherrschte Forsten vor, deren Unterwuchs durch Zwergsträucher gekennzeichnet wird (Zwergstrauch-Kiefernwälder). Es handelt sich zum einen um Bestände der Waldkiefer mit Heidelbeeren beziehungsweise Preiselbeeren, die zum großen Teil dem LRT 91T0 zuzuordnen sind. Zum anderen tritt im Geltungsbereich Heidekraut-Kiefernwald auf, der zumeist zum LRT 4030 „Trockene europäische Heiden“ zugehörig ist. Beide Ausprägungen haben eine hohe naturschutzfachliche Bedeutung.
 
-Der Großseggen-Schwarzerlenwald und der Rasenschmielen-Schwarzerlenwald kommt im FFH-Gebiet „Graning“ jeweils nur kleinflächig nördlich des Anwesens Grüner Baum vor. In ihm kommen temporäre Kleingewässer vor, die von Rotbauchunken besiedelt werden. Bei der Bewirtschaftung soll die für den Waldtyp typische Baumart Schwarzerle gefördert werden. Mit der Einrichtung von Pufferstreifen können Stoffeinträge in den Bruchwald und den darin liegenden Gewässern verhindert werden.
+Auch auf den nicht zu den LRT 4030 und 91T0 zugehörigen Flächen dürfen Umbruch, Graseinsaaten, Aufforstungen und andere Bepflanzungen sowie die Anlage von Kirrungen und Schöpfstellen nicht erfolgen. Unzulässig sind Düngung und Einsatz von Pflanzenschutzmitteln.
 
-Der Bruchwald unterliegt dem Schutz des § 30 BNatSchG.
+Der vollständige Verlust der Gehölze nach Katastrophen (Brand, Sturm, Schnee, Insektenkalamitäten) kann in dem Umfang durch Verjüngung ersetzt werden, wie diese die Erhaltung der Offenlandbiotope nicht beeinträchtigt. Generell dürfen nur heimische Baumarten der potenziellen natürlichen Vegetation verwendet werden. Flächiges Befahren und flächige in den Mineralboden eingreifende Bodenverwundungen sind zu vermeiden. Zur Umsetzung von Pflegemaßnahmen auf den Heide-LRT-Flächen und geschützten Biotopen im Verzahnungsbereich zu Waldflächen werden die erforderlichen Einzelmaßnahmen mit dem Flächennutzer abgestimmt.
 
-Feldgehölze, Laubgebüsche, Kiefernforst, Alleen (geschützt nach § 17 BbgNatSchAG), Baumreihen (Nummern 5.1 teilweise, 5.2, 5.3)
+Fledermäuse und Brutvogelarten (Nummer 5.3)
 
-Die zahlreich im Gebiet vorkommenden Gehölzstrukturen wie Baumreihen, Alleen, gewässerbegleitende Gehölze, Waldränder sowie Feldgehölze und Weidengebüsche bieten mögliche Winterlebensräume für Amphibien.
+Im Rahmen mehrjähriger Erfassungen wurden in den Geltungsbereich umgebenden Lebensräumen verschiedene Fledermausarten regelmäßig nachgewiesen, unter anderem Großes Mausohr, Bechsteinfledermaus und Mopsfledermaus. Es ist davon auszugehen, dass auch das Untersuchungsgebiet von diesen Arten regelmäßig aufgesucht wird.
 
-Die standorttypischen Gehölzsäume im Uferbereich schützen die Gewässer gegen erhebliche Beeinträchtigungen. Sie bilden einen Übergang vom Wasser zum Landlebensraum und sind oft Puffer zwischen Agrarflächen und Gewässer. Als Bäume, Sträucher und Hecken in der Landschaft sind sie wichtige Strukturbildner und prägen das Landschaftsbild. Sie stellen einen vielfältigen Lebensraum für Säugetiere und Vögel sowie für Amphibien, Reptilien und zahlreiche Insektenarten dar. Diese Funktion erfüllen auch andere auf feuchten Standorten stockende Gehölzstrukturen im Gebiet wie Erlenwälder, Baumgruppen sowie Gebüsche feuchter und nasser Standorte wie Strauchweidengebüsche. Die Gehölzbestände in der offenen Landschaft sollen erhalten bleiben, notwendige Pflegeschnitte und gezielte Verjüngungsmaßnahmen sind zulässig. Eine dem Schutzzweck angepasste forstliche Bewirtschaftung der Waldflächen ist möglich. Eine standortgerechte naturnahe Zusammensetzung erhöht ihre Eignung als Teillebensraum für Amphibien mit der Entwicklung naturnaher Strukturen.
-
-Lesesteinhaufen (Nummern 5.1, 5.2)
-
-Die Grundmoränenböden des FFH-Gebiets sind abschnittsweise geschiebereich. Steine stellen Bewirtschaftungshindernisse bei der Ackernutzung dar und werden daher örtlich in Acker- und Gehölzsäumen, aber auch an Gewässerrändern abgelagert. Lesesteinhaufen und -wälle stellen wertvolle (Teil-)Lebensräume für Kleintiere dar und können den zu schützenden Amphibienarten als Winterquartier, dem nachtaktiven Kammmolch im Sommer auch als Tagesquartier dienen.
-
-Lesesteinstrukturen sind daher zu erhalten. Sie können auch weiterhin neu abgelagert werden. Allerdings ist dabei ein allmähliches Verfüllen von Gewässer- und Feuchtgebietssenken zu vermeiden. Sie sind gemäß § 18 Absatz 1 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) in Verbindung mit § 30 BNatSchG gesetzlich geschützt.
+Die unter Nummer 4 und Nummer 5.1 genannten Lebensräume umfassen auch die Habitate der im Rahmen der Brutvogelkartierung festgestellten Arten Brachpieper, Fischadler, Heidelerche, Schwarzspecht, Hohltaube, Raufußkauz und Ziegenmelker nach Anhang I der Vogelschutz-Richtlinie.
 
 6 Erhaltungsmaßnahmen
 
-Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 aufgeführten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
+Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 benannten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
 
-Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungszustände besteht in der Einrichtung von Gewässerrandstreifen an Kleingewässern mit unmittelbar angrenzender landwirtschaftlicher Nutzung sowie in der vollständigen Entschlammung bestimmter Gewässer für die Verbesserung einer lang anhaltenden Wasserführung und unbedenklichen Wassergüte bei Gewässern mit bestehenden Randstreifen.
+Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungszustände der trockenen europäischen Heiden besteht in der Fortführung der begonnenen Pflegemaßnahmen (Beweidung und abschnittsweise Gehölzentnahme).
 
 Änderungen der Erhaltungs- und Entwicklungsmaßnahmen bedürfen der Zustimmung des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft.
 
@@ -177,18 +194,24 @@ Die Förderfähigkeit der Projekte wird auf Antrag im Einzelfall geprüft.
 
 8 Umsetzung
 
-Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zuständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
+Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweils zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zuständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
+
+Es wird darauf hingewiesen, dass die vom Bewirtschaftungserlass betroffene Fläche des FFH-Gebietes zum größten Teil aus Landeswald besteht.
 
 9 Inkrafttreten
 
 Dieser Erlass tritt am Tag nach seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
 
+1 prioritärer natürlicher Lebensraumtyp nach Anhang Ider FFH-Richtlinie
+
+2 prioritäre Art nach Anhang II der FFH-Richtlinie
+
 Anlagen
 
 1
 
-Anlage 1 Kartenskizze 270.2 KB
+Anlage 1 Kartenskizze 298.3 KB
 
 2
 
-Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Graning“  50.8 KB
+Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Lieberoser Endmoräne und Staakower Läuche“ Teilfläche „Staakower Heide“ 46.0 KB
