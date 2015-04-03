@@ -1,8 +1,8 @@
 # SächsKRG) in der Fassung der Bekanntmachung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2015-02-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/12083.2
+- Datum: 2015-04-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12898.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -10,92 +10,212 @@
 
 I.
 
-Zuständigkeit und Zweckbindung der Mittel
+Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-Das Staatsministerium für Wissenschaft und Kunst ist zuständige Rechtsaufsichtsbehörde für die urbanen Kulturräume gemäß § 8 Satz 1 des Gesetzes über die Kulturräume in Sachsen (Sächsisches Kulturraumgesetz –
-SächsKRG) in der Fassung der Bekanntmachung vom 18. August 2008 (SächsGVBl. S. 539), das durch Artikel 15 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 398) geändert worden ist, in der jeweils geltenden Fassung, und insoweit für die Rechtsaufsicht über die Einhaltung der Regelungen des Sächsischen Kulturraumgesetzes in den Produktbereichen 25–28 (ohne Produktgruppe 271) sowie der Produktgruppe 523 der Kommunalhaushalte zuständig.
+Der Freistaat Sachsen gewährt kulturellen Einrichtungen nach § 3 Abs. 1 des Gesetzes über die Kulturräume in Sachsen (Sächsisches Kulturraumgesetz –
+SächsKRG) in der Fassung der Bekanntmachung vom 18. August 2008 (SächsGVBl. S. 539), das durch Artikel 15 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 398) geändert worden ist, in der jeweils geltenden Fassung, Zuwendungen für Investitionen und Strukturmaßnahmen nach dieser Verwaltungsvorschrift und nach den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere nach den §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
+SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 13. Dezember 2012 (SächsGVBl. S. 725) geändert worden ist, in der jeweils geltenden Fassung, und den dazu ergangenen Verwaltungsvorschriften, insbesondere den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung (
+VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), zuletzt geändert durch Verwaltungsvorschrift vom 2. Mai 2013 (SächsABl. S. 520), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), in der jeweils geltenden Fassung. Die Zuwendung erfolgt nach Maßgabe und unter Einhaltung der Voraussetzungen der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung – AGVO) (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), in der jeweils geltenden Fassung.
 
 2.
 
-Die vom Staatsministerium für Wissenschaft und Kunst nach § 6 Abs. 2 Buchst. a
-SächsKRG an die urbanen Kulturräume zugewiesenen Mittel dienen der Finanzierung der den urbanen Kulturräumen nach dem Sächsischen Kulturraumgesetz obliegenden Aufgaben. Die Mittel sind insoweit zweckgebundene Erträge und dienen der Finanzierung der Aufwendungen in den Produktbereichen 25–28 (ohne Produktgruppe 271) sowie der Produktgruppe 523. Es erfolgt keine Zuordnung beziehungsweise Beschränkung auf bestimmte Einrichtungen und Maßnahmen innerhalb der Produktbereiche und Produktgruppen.
-
-3.
-
-Bei den Kreisfreien Städten ist für die Beurteilung der Gesetzmäßigkeit der Haushaltssatzung gemäß § 119 Abs. 1 der Gemeindeordnung für den Freistaat Sachsen (
-SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die zuletzt durch Artikel 2 des Gesetzes vom 26. Juni 2009 (SächsGVBl. S. 323, 325) geändert worden ist, in der jeweils geltenden Fassung, oder für die Genehmigung der Haushaltssatzung gemäß § 119 Abs. 2 in Verbindung mit § 76 Abs. 3 Satz  4
-SächsGemO die Landesdirektion Sachsen zuständig.
-
-4.
-
-Die Rechtsaufsicht des Freistaates Sachsen über die Kreisfreien Städte, die gleichzeitig urbane Kulturräume nach § 1 Abs. 4
-SächsKRG sind, darf nicht widersprüchlich ausgeübt werden.
-
-5.
-
-Regelungen in Bezug auf die Wahrnehmung der Rechtsaufsicht ergehen daher einvernehmlich zwischen der Landesdirektion Sachsen und dem Staatsministerium für Wissenschaft und Kunst gemäß § 8 Satz 2
-SächsKRG.
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die Bewilligungsbehörde entscheidet nach pflichtgemäßem Ermessen im Rahmen der verfügbaren Haushaltsmittel.
 
 II.
 
-Vorlage der Haushaltssatzung
+Gegenstand der Förderung
 
 1.
 
-Um die einheitliche und sachgerechte Wahrnehmung der Rechtsaufsicht des Freistaates gegenüber den urbanen Kulturräumen zu gewährleisten, wird folgende Vollzugsregelung getroffen:
+Gefördert werden Investitionen in den Einrichtungen nach
+§ 3 Abs. 1 SächsKRG . Investitionen im Sinne dieser Verwaltungsvorschrift sind Ausgaben für
 
 a)
 
-Zum Zeitpunkt der Vorlage der Haushaltssatzungen der Kreisfreien Städte bei der Rechtsaufsichtsbehörde muss die jeweilige Kreisfreie Stadt bereits das Einvernehmen des Staatsministeriums für Wissenschaft und Kunst zu den Produktbereichen 25–28 (ohne Produktgruppe 271) sowie der Produktgruppe 523 des Haushaltsplanes eingeholt haben. Dies ist Bestandteil der einzureichenden Unterlagen.
+Baumaßnahmen;
 
 b)
 
-Die Prüfung der Rechtmäßigkeit der Haushaltssatzung erfolgt nach den Regelungen der Gemeindeordnung für den Freistaat Sachsen. Fehlt das Einvernehmen des Staatsministeriums für Wissenschaft und Kunst, ist die Rechtsaufsichtsbehörde in ihrer Entscheidung nicht gebunden. Liegt das Einvernehmen des Staatsministeriums für Wissenschaft und Kunst zum Zeitpunkt der Prüfung der Haushaltssatzung nicht vor, ergeht der Genehmigungsbescheid oder das Bestätigungsschreiben mit einem entsprechenden Hinweis, dass das Einvernehmen nicht vorliegt. In diesem Fall ist eine Auflage vorzusehen, nach der die in ihrer Finanzierung von der Auszahlung von Landesmitteln abhängigen Ausgabeansätze mit einer haushaltswirtschaftlichen Sperre nach den Vorschriften der Verordnung des Sächsischen Staatsministeriums des Innern über die kommunale Haushaltswirtschaft nach den Regeln der Doppik (Sächsische Kommunalhaushaltsverordnung-Doppik –
-SächsKomHVO-Doppik) vom 8. Februar 2008 (SächsGVBl. S. 202), geändert durch Verordnung vom 12. November 2008 (SächsGVBl. S. 638), in der jeweils geltenden Fassung, belegt werden, bis das Einvernehmen des Staatsministeriums für Wissenschaft und Kunst erteilt ist. Wird das Einvernehmen nicht erteilt, bleibt es bei der haushaltswirtschaftlichen Sperre.
+den Erwerb von beweglichen Sachen, soweit sie nicht als sächliche Verwaltungsausgaben veranschlagt werden;
+
+c)
+
+den Erwerb von unbeweglichen Sachen.
+
+Für die zweckentsprechende Verausgabung als Investition im Sinne dieser Verwaltungsvorschrift gelten die haushaltsrechtlichen Vorschriften des Freistaates Sachsen. Insoweit können auch Erhaltungsaufwendungen für Sanierungsmaßnahmen als Investition gelten. Der bilanzielle Nachweis der geförderten Maßnahme – insbesondere unter den Maßgaben des neuen kommunalen Hauhalts- und Rechnungswesens – ist dabei kein Indiz für die zweckgerechte oder nicht zweckgerechte Verwendung.
 
 2.
 
-Für die Nachtragssatzung gelten diese Ausführungen entsprechend.
+Gefördert werden Strukturmaßnahmen einschließlich damit verbundener Personalmaßnahmen, zum Beispiel Abfindungszahlungen, in den Einrichtungen nach
+§ 3 Abs. 1 SächsKRG .
 
 III.
 
-Übergangsvorschriften
+Zuwendungsempfänger
 
 1.
 
-Diese Verwaltungsvorschrift ist spätestens für die Haushaltswirtschaft ab dem Haushaltsjahr 2013 anzuwenden.
+Träger von Einrichtungen nach § 3 Absatz 1 des Sächsischen Kulturraumgesetzes können Zuwendungen erhalten. Neben dem Träger der Einrichtung kommt auch der zur Finanzierung der Maßnahme nach Ziffer II wirtschaftlich Verpflichtete (zum Beispiel Eigentümer) in Betracht, sofern sich die beantragte Maßnahme unmittelbar zugunsten der Einrichtung nach § 3 Absatz 1 des Sächsischen Kulturraumgesetzes auswirkt.
+
+Zuwendungsempfänger können dabei sein:
+
+a.
+
+Landkreise, Gemeinden oder Gemeindeverbände, die der Rechtsaufsicht des Freistaates Sachsen unterstehen;
+
+b.
+
+juristische Personen des öffentlichen Rechts;
+
+c.
+
+juristische Personen des Privatrechts.
 
 2.
 
-Beschließt der urbane Kulturraum nach § 131 Abs. 2
-SächsGemO eine frühere Umstellung seiner Haushaltswirtschaft, ist diese Verwaltungsvorschrift ab dem vom urbanen Kulturraum bestimmten Haushaltsjahr anzuwenden.
-
-3.
-
-Ansonsten ist für die Haushaltswirtschaft bis zum Ablauf des Haushaltsjahres 2012 die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (
-VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung anzuwenden.
+Einem Unternehmen, das einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen ist, dürfen keine Einzelbeihilfen gewährt werden, ausgenommen Beihilferegelungen zur Bewältigung der Folgen bestimmter Naturkatastrophen.
 
 IV.
 
-Inkrafttreten und Außerkrafttreten
+Zuwendungsvoraussetzungen
 
 1.
 
-Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft.
+Die thematisch, zeitlich und finanziell abgegrenzten Projekte müssen zusätzliche Vorhaben des Antragstellers darstellen. Zuwendungen nach Maßgabe dieser Verwaltungsvorschrift dürfen nicht an die Stelle anderer öffentlicher Mittel gleicher Art des Zuwendungsempfängers treten. Die Vorhaben dürfen noch nicht begonnen worden sein. Ausnahmen vom Verbot des förderschädlichen vorzeitigen Maßnahmebeginns nach Satz 3 können auf Antrag von der Bewilligungsbehörde zugelassen werden. Die Zustimmung zum vorzeitigen Maßnahmebeginn ist schriftlich zu erteilen. Für sämtliche Folgekosten nach Ende des Bewilligungszeitraumes, insbesondere die aus Investitionen resultierenden Folgekosten, muss der Antragsteller selbst aufkommen. Die Finanzierung der Folgekosten ist auf Verlangen der Bewilligungsbehörde durch geeignete Unterlagen nachzuweisen.
 
 2.
 
-Die Gemeinsame Verwaltungsvorschrift des Sächsischen Staatsministeriums für Wissenschaft und Kunst und des Sächsischen Staatsministeriums des Innern zur Wahrnehmung der Rechtsaufsicht über die urbanen Kulturräume/kreisfreien Städte im Rahmen des kommunalen Haushaltsrechts (
-VwV Rechtsaufsicht Kulturräume) vom 9. Januar 2009 (SächsABl. S. 387), geändert durch Verwaltungsvorschrift vom 7. Juni 2011 (SächsABl. S. 963), enthalten in der Verwaltungsvorschrift vom 10. Dezember 2009 (SächsABl. SDr. S. S 2547), in der jeweils geltenden Fassung, tritt am 31. Dezember 2012 außer Kraft.
+Die Höhe der beantragten Fördermittel muss zum Erreichen des Vorhabenzieles notwendig sein und den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
-Dresden, den 15. August 2011
+3.
+
+Der Antragsteller hat vor Beantragung des Projektes Einvernehmen mit dem zuständigen Kulturraum über Art und Umfang des geplanten Projektes herzustellen. Der Kulturraum hat sein Einvernehmen zu dem Projekt schriftlich zu erklären und zu bestätigen, dass es sich bei dem Antragsteller um den Träger/wirtschaftlich Verpflichteten einer Kultureinrichtung nach
+§ 3 Abs. 1 SächsKRG handelt. Satz 1 und 2 gilt nicht, wenn der Antragsteller selbst Kulturraum im Sinne von
+§ 1 Abs. 4 SächsKRG ist.
+
+4.
+
+Die Förderung ist von einem Eigenmittelanteil von regelmäßig mindestens 10 Prozent der zuwendungsfähigen Ausgaben abhängig zu machen. Ausnahmen können auf Antrag von der Bewilligungsbehörde zugelassen werden, wenn die geringere Eigenbeteiligung sachlich begründet ist. Vom Antragsteller erbrachte Eigenleistungen im Rahmen des Projektes können eigenmittelanteilsmindernd berücksichtigt werden.
+
+5.
+
+Nach
+§ 3 Abs. 2 SächsKRG hat sich die Sitzgemeinde an der beantragten Maßnahme grundsätzlich angemessen finanziell zu beteiligen. Die Förderung soll von einem Sitzgemeindeanteil in Höhe von regelmäßig 5 Prozent der zuwendungsfähigen Ausgaben abhängig gemacht werden. Ausnahmen können auf Antrag von der Bewilligungsbehörde zugelassen werden, wenn die geringere Sitzgemeindebeteiligung sachlich begründet ist. Sofern sich die Sitzgemeinde an den anfallenden Personal- und Sachausgaben der Einrichtung finanziell beteiligt (zum Beispiel durch eine gewährte institutionelle Förderung), kann der Sitzgemeindeanteil nach Satz 2 um diese Beteiligung ermäßigt werden. Satz 2 gilt nicht, wenn der Antragsteller und die Sitzgemeinde identisch sind.
+
+6.
+
+Die Förderung soll von einer angemessenen finanziellen Beteiligung des Kulturraumes in Höhe von regelmäßig 5 Prozent der zuwendungsfähigen Ausgaben abhängig gemacht werden. Ausnahmen können auf Antrag von der Bewilligungsbehörde zugelassen werden, wenn die geringere Kulturraumbeteiligung sachlich begründet ist. Sofern sich der Kulturraum an den anfallenden Personal- und Sachausgaben der Einrichtung finanziell beteiligt (zum Beispiel durch eine gewährte institutionelle Förderung), kann der Kulturraumanteil nach Satz 1 um diese Beteiligung ermäßigt werden. Satz 1 gilt nicht, wenn der Antragsteller selbst Kulturraum im Sinne von
+§ 1 Abs. 4 SächsKRG ist.
+
+7.
+
+Sofern Antragsteller und Sitzgemeinde rechtsidentisch sind, sind mindestens 10 Prozent der zuwendungsfähigen Ausgaben über Eigenmittel zu finanzieren, vergleiche Nummer 4 Satz 1. Es sind nicht kumulativ Eigenanteil und Sitzgemeindeanteil nachzuweisen. Sofern Antragsteller, Sitzgemeinde und Kulturraum rechtsidentisch sind, sind mindestens 10 Prozent der zuwendungsfähigen Ausgaben über Eigenmittel zu finanzieren. Es sind nicht kumulativ Eigenanteil, Sitzgemeinde- und Kulturraumanteil nachzuweisen.
+
+8.
+
+Die Förderung eines Projektes erfolgt in der Regel nur, wenn die zuwendungsfähigen Ausgaben mindestens 50 000 EUR oder die Höhe der beantragten Zuwendung mindestens 25 000 EUR betragen.
+
+V.
+
+Art und Umfang, Höhe der Zuwendungen
+
+1.
+
+Die Zuwendungen werden im Wege der Projektförderung gewährt. Die finanziellen Mittel werden als Festbetrags-, Anteil- oder Fehlbedarfsfinanzierung in Form eines nicht rückzahlbaren Zuschusses gewährt. Die Zuwendung darf in der Regel 50 Prozent der zuwendungsfähigen Ausgaben nicht übersteigen. Über Ausnahmen im Einzelfall kann die Bewilligungsbehörde auf Antrag und Darlegung sachlicher Gründe nach pflichtgemäßem Ermessen entscheiden.
+
+2.
+
+Die Förderung erfolgt auf der Basis der nach dem Grundsatz der Wirtschaftlichkeit und Sparsamkeit als zuwendungsfähig anerkannten Ausgaben unter Anwendung der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (
+ANBest-P , Anlage 2 zur VwV zu § 44 SäHO oder
+ANBest-K , Anlage 3a zur VwV zu § 44 SäHO). Bei öffentlicher Grundfinanzierung des Antragstellers werden nur die zusätzlich auf das Vorhaben bezogenen anfallenden zuwendungsfähigen Ausgaben finanziert.
+
+3.
+
+Zuwendungsfähige Ausgaben für Investitionsmaßnahmen sind
+
+a.
+
+Ausgaben für die Anschaffung von Grundstücken und Gebäuden einschließlich notwendiger Beschaffungsnebenkosten, zum Beispiel Notarkosten;
+
+b.
+
+Ausgaben für Baumaßnahmen gemäß DIN 276;
+
+c.
+
+Ausgaben für Geräte, Ausstattungs- und Ausrüstungsgegenstände.
+
+4.
+
+Zuwendungsfähige Ausgaben für Strukturmaßnahmen sind
+
+a.
+
+Personalausgaben, die zur Durchführung der Strukturmaßnahme notwendig sind, dabei insbesondere Abfindungszahlungen, sofern sie angemessen und tarif- oder einzelvertraglich geschuldet sind;
+
+b.
+
+Ausgaben für notwendige Rechtsberatungen;
+
+c.
+
+Ausgaben für notwendige sonstige Beratungsleistungen einschließlich Gutachten im Zusammenhang mit der Umsetzung der Strukturmaßnahme;
+
+d.
+
+notwendige sonstige Sachausgaben zur Umsetzung der Strukturmaßnahme, zum Beispiel Gerichts- und Notarkosten.
+
+5.
+
+Eine Förderung nach dieser Verwaltungsvorschrift entfällt, wenn dem Antragsteller für die Finanzierung der förderfähigen Ausgaben desselben Vorhabens Zuwendungen des Freistaates Sachsen aus anderen Förderprogrammen gewährt werden. Über Ausnahmen im Einzelfall kann die Bewilligungsbehörde auf Antrag und nach Darlegung sachlicher Gründe nach pflichtgemäßem Ermessen entscheiden.
+
+6.
+
+Die Bewilligungsbehörde lässt auf Antrag des Zuwendungsempfängers die Verwendung anderer, zur Erreichung des Zuwendungszwecks gleichwertiger Standards zu, soweit diese wirtschaftlich sind. Die für die Beurteilung des Antrages erforderlichen Angaben sind diesem beizufügen.
+
+VI.
+
+Verfahren
+
+1.
+
+Für die Antragstellung, Mittelabforderung und Abrechnung sind amtliche Formblätter zu verwenden. Sie können bei der Bewilligungsbehörde angefordert werden. Bewilligungsbehörde ist das
+
+Sächsische Staatsministerium
+
+für Wissenschaft und Kunst
+
+Abteilung Kunst
+
+Postfach 10 09 20
+
+01079 Dresden.
+
+2.
+
+Der Antrag auf Förderung ist schriftlich bis einschließlich 31. Oktober eines jeden Jahres für das folgende Jahr an den zuständigen Kulturraum zu senden. Der Kulturraum prüft den Antrag hinsichtlich der regionalen Bedeutung und erklärt sein Einvernehmen zur Fördermaßnahme schriftlich nach Ziffer IV Nr. 3 auf dem entsprechenden amtlichen Formblatt. Sofern mehr als ein Antrag beim Kulturraum eingeht, legt der Kulturraum nach regionaler Bedeutung abgestufte Förderprioritäten für die beantragten Maßnahmen sowie seine eigenen Förderanträge, sofern er als urbaner Kulturraum nach
+§ 1 Abs. 4 SächsKRG Antragsteller ist, fest.
+
+3.
+
+Der Kulturraum leitet die ihm zugegangenen Förderanträge sowie seine eigenen Förderanträge, sofern er als urbaner Kulturraum nach
+§ 1 Abs. 4 SächsKRG Antragsteller ist, bis 1. Dezember zusammen mit der Festlegung der Förderprioritäten an die Bewilligungsbehörde weiter. Die Bewilligungsbehörde hat bei der Ausübung ihres Bewilligungsermessens die vom Kulturraum vorgenommene Festlegung der Förderprioritäten einzubeziehen. Abweichungen von der Festlegung der Förderprioritäten sind nur im begründeten Einzelfall möglich.
+
+4.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die
+Verwaltungsvorschrift zu § 44 SäHO , soweit in dieser Verwaltungsvorschrift nichts Abweichendes geregelt ist.
+
+VII.
+
+Inkrafttreten
+
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft.
+
+Dresden, den 8. August 2013
 
 Die Staatsministerin für Wissenschaft und Kunst
 
 Prof. Dr. Dr. Sabine Freifrau von Schorlemer
-
-Der Staatsminister des Innern
-
-Markus Ulbig
