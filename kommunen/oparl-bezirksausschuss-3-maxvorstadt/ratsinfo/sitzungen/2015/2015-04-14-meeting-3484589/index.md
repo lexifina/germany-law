@@ -1,0 +1,130 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484589
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484589
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben der Leitung einer Kindertagesstätte aus der Maxvorstadt vom 23.02.2015 Erhalt der Lichtzeichenanlage Görres-/Augustenstraße
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 27.02.2014 Luxussanierung in der Tengstraße
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 12.03.2015 Radwege in der Gabelsbergerstraße zwischen Türkenstraße und Augustenstraße ein- richten und die Baumbepflanzung von der Luisenstraße zur Arcisstraße fortsetzen
+- TOP .4.: entfällt
+- TOP .5.: Schreiben der Seniorenvertreterin für den Stadtbezirk 3 vom 11.03.2015 Seniorenstadtplan für die Maxvorstadt
+- TOP .6.: Schreiben eines Bürgers aus der Maxvorstadt vom 15.03.2015 Norkauer Platz: Gentrifizierung, Ampeln, Parksituation
+- TOP .7.: KinderTagesZentrum, Suche nach Räumlichkeiten im Stadtbezirk 3 Maxvorstadt Schreiben eines Bürgers vom 13.03.2015
+- TOP .8.: Schreiben eines Bürgers aus der Maxvorstadt vom 20.03.2015 bzw. 19.10.2014 Belästigung durch Radfahrer auf den Gehwegen in der Theresien- und Gabelsbergerstraße
+- TOP .9.: Schreiben eines Bürgers aus der Maxvorstadt vom 24.03.2015 Öffentliche Auskunft zur Bauzeitverlängerung der Anwohnertiefgarage Josephsplatz
+- TOP .10.: Schreiben eines Bürgers aus der Maxvorstadt vom 25.03.2015 Fragen zum Planungsstand der Anwohnertiefgarage Josephsplatz
+- TOP .11.: Schreiben eines Schulleiters aus der Maxvorstadt vom 26.03.2015 Neugestaltung der Fassade des BSZ Thomas Wimmer
+- TOP .12.: Schreiben einer Bürgerin aus der Maxvorstadt vom 30.03.2015 Der Zebrastreifen Heßstraße/Arcisstraße ist immer noch nicht angebracht.
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Erhöhung der Schulwegsicherheit am Zebrastreifen Görres-/Ecke Zentnerstraße
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsmanagement, Antwortschreiben auf Bürgeranfrage Einrichtung eines Fußgängerüberweges in der Türkenstraße zwischen Akademiestraße und Georgenstraße Bürgeranfrage TOP A 5.2.6/012015
+- TOP .4.: Der Bezirksausschuss 3 Maxvorstadt fordert die Landeshauptstadt München auf, zu prüfen, inwiefern man für mehr Sauberkeit am Königsplatz durch größere und verschließbare Müllbehälter sorgen kann.
+- TOP .5.: Aufräumarbeiten nach der Silvesternacht besser organisieren - Königsplatz schneller säubern
+- TOP .6.: Genehmigung Rückgebäude und Hinterhof Augustenstraße 57
+- TOP .8.: Baureferat Tiefbau Umgestaltung und bedarfsgerechte Wiederherstellung des Josephsplatzes nach dem Bau der Anwohnertiefgarage, Antwort auf BA-Stellungnahme vom 13.03.2015
+- TOP .9.: Prüfung der Verfügbarkeit von Räumlichkeiten für die Mittagsbetreuung e.V. der Grundschule an der Schwindstraße
+- TOP .10.: Der BA 3 Maxvorstadt bittet um Sachstandsbericht zum Antrag des BA 3 Nr. 14 - 20 / B 00175
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: LBK-Listen der Bauvorhaben: 9., 10., 11., 12., 13. KW
+- TOP 7.2.: Listen der Abgeschlossenheitsbescheinigungen: 8./9., 12./13. KW
+- TOP 7.3.: Schraudolphstraße 26 VGB: Nutzungsänderung Wohnung zu Büro (EG), Umbau Aufstockung und Personenaufzug; RGB: Umbau und DG-Ausbau, Keller: Erweiterung
+- TOP 7.4.: Sandstraße 7-9 Nutzungsänderung Büro-/Verwaltungsgebäude zu Wohn-/Büro- und Geschäftsgebäude Vorbescheid
+- TOP 7.5.: Maßmannstraße 6, Zusammenlegung zweier Wohnungen (DG) zu einer Wohneinheit mit Einbeziehung der bestehenden Erschließungstreppe ab dem 4. OG
+- TOP 7.6.: Heßstraße 96, Nutzungsänderung (gewerbliche Nutzung in Wohnnutzung) Einheit 28
+- TOP 7.7.: Maximiliansplatz 9, Aufstockung eines Wohngebäudes mit Gastronomie und Tiefgarage, Vorbescheid
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.3.2: Baumfällungen
+- TOP 7.1.: Hiltenspergerstraße 11 u. 13, eine Robinie
+- TOP 7.2.: Görresstraße 2, eine Maulbeere
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Referat für Stadtplanung und Bauordnung Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Stä- dtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter Antrag Nr. 08-14 / A 04263 der Stadtratsfraktion Die Grünen/Rosa Liste vom 17.05.2013 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 01341
+- TOP 7.2.: Baureferat, Gartenbau Unterrichtung über bevorstehende Beseitigungen von Gefahrenbäumen Dachauer Straße 98
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2056 Deroystraße (östlich) zwischen Tillystraße und Arnulfstraße (Neufassung vom 24.02.2015) -Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss- Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02099
+- TOP 7.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage gartenstädte, Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 00909
+- TOP 7.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Studie ?Älter werden in München?, Abschlussbericht Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02540
+- TOP 7.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Kunstareal München, Kunst, Kultur, Wissen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02488
+- TOP 7.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Urbane Gemeinschaftsgärten in München Beschluss des Ausschusses für Stadtdplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02503
+- TOP 7.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Novellierung der Baumschutzverordnung- Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrages aus der Vollversammlung vom 19.12.2012 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 01862
+- TOP 7.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Kunstareal ? modifizierte Alternative 5 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02480
+- TOP 7.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erd- geschosszonen Antrag Nr. 08-14 / A 05260 der Stadtratsfraktion Die Grünen/RL vom 14.03.2014 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02621
+- TOP 7.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage, Unterrichtungen Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 07.07.2014 bis 31.12.2014 Sitzungsvorlage Nr. 14-20 / V 02786
+- TOP 7.12.: Baureferat, Gartenbau, Antwortschreiben Überarbeitung der Mähkonzepte auf städtischen Grünflächen und im Verkehrsbegleitgrün
+- TOP 7.13.: Referat für Stadtplanung und Bauordnung Rechtzeitige Veröffentlichung von geplanten Baumfällungen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 01965
+- TOP 7.14.: Referat für Stadtplanung und Bauordnung Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 Prozent zu einem für das Gemeinwohl vorteilhaften Preis Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02362
+- TOP 7.1.: Antrag der SPD Fraktion vom 28.03.2015 An der Kreuzung Maßmannstraße/Dachauer Straße sollen die provisorisch angebrachten gelben Fahrbahnmarkierungen durch dauerhafte, endgültige, weiße Markierungen ersetzt werden.
+- TOP 7.2.: Antrag der SPD Frkation vom 28.03.2015 Die vom Kreisverwaltungsreferat, Hauptabteilung Straßenverkehr mit schreiben vom 01.09.2010 zugesagten, abmarkierten Radfahrstreifen in der Brienner Straße, beidseitig zwischen Königsplatz und Karolinenplatz sollen nun zügig eingerichtet werden.
+- TOP 7.3.: Antrag der SPD Fraktion vom 28.03.2015 Aufstellung einer wegweisenden Infotafel mit Lageplan der umliegenden Museen, Samm- lungen etc. am derzeitigen Aufstellort der beleuchteten, rotierenden Werbesäule an der Ecke Türkenstraße/Gabelsbergerstraße (vor dem Anwesen Türkenstraße 16).
+- TOP 7.4.: Antrag der SPD Fraktion vom 30.03.2015 Die im Jahr 2014 neu bzw. wieder aufgebauten Wartehäuschen an den Bushaltestellen der Linien 153 und 154 in der Schellingstraße sowie am Josephsplatz sollen, wie vorgese- hen, (wieder) beleuchtet werden.
+- TOP 7.5.: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.03.2015 In der Brienner Straße soll zwischen Königsplatz und Stiglmaierplatz beidseitig ein Rad- fahrstreifen auf der Fahrbahn abmarkiert werden. Zum Zwecke des sicheren Abbiegens sollen an den Kreuzungen zudem vorgelagerte Haltelinien für Radfahrer geschaffen wer- den.
+- TOP 7.6.: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.03.2015 Der BA 3 bittet die Landeshauptstadt München mit Hilfe der Kommunalen Verkehrsüber- wachung verstärkt den Autoverkehr in unserem Bezirk zu kontrollieren.
+- TOP 7.7.: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.03.2015 Der vom Kreisverwaltungsreferat geplante Verkehrsversuch ?Radweg plus Schutzstreifen? soll in der Nymphenburger Straße durchgeführt werden.
+- TOP 7.8.: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.03.2015 Abmarkierter Radweg auf der östlichen Fahrspur des Oskar-von-Miller-Rings zwischen Brienner Straße und Gabelsbergerstraße
+- TOP 7.9.: Antrag der Fraktion Bündnis 90/Die Grünen vom 30.03.2015 Schrottfahrräder im Arnulfpark beseitigen
+- TOP 7.10.: Antrag der CSU Fraktion vom 31.03.2015 Defibrillatoren im öffentlichen Raum in der Maxvorstadt installieren
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Kreisverwaltungsreferat, Verkehrsanordnungen, Anhörung Einrichtung eines allgemeinen Behindertenparkplatzes in der Prielmayerstraße 5 (Seite Elisenstraße)
+- TOP 7.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Anhörung Statusmeldung LSA-Abbau Adalbert-/Amalienstraße und Adalbert-/Türkenstraße
+- TOP 3: (E) Verkehrssicherheit im Umgriff der Schule an der Schwindstraße einschließlich der Punkte a) bis d) aus der schriftlichen Begründung - <div>nach Antrag</div>
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen gem. § 45 StVO Zusätzliche Haltestelle für Stadtrundfahrten in der Luisenstraße am Elisenhof
+- TOP 3.2.2: Öffentlicher Raum
+- TOP 3.1.: MVG Radstandorte im Stadtbezirk 3 Maxvorstadt a) Standort Lenbachhaus b) Standort Königsplatz
+- TOP 3.2.3: Gaststätten
+- TOP 3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse, Freischankflächen a) Türkenstraße 51, Erweiterung einer bestehenden Freischankfläche b) Schellingstraße 143, Genehmigung einer Freischankfläche c) Theresienstraße 14, Genehmigung einer Freischankfläche
+- TOP 2: (E) Genauere Prüfung der Genehmigung weiterer Freischankflächen Verhinderung weiterer Beeinträchtigungen der Anwohner - <div>Die Beschlussvorlage wird abgelehnt</div>
+- TOP 2.2.4: Veranstaltungen
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Basketballturnier am 06.06.2015 auf dem Basketballplatz Barer-/Ecke Theresienstraße
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Tunix Open Air vom 08.06. bis 12.06.2015 auf dem Königsplatz, Wiese hinter der Glyptothek
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Hoffest des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten in der Ludwigstraße 2 und Umgebung am 09.05.2015
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02269
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Austausch der Lichtzeichenanlage Dachauer-/Gabelsbergerstraße
+- TOP 2.3.: Direktorium Oberirdische Fußgängerquerung für den Thomas-Wimmer-Ring Antrag Nr. 14-20 / A 00830 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 24.03.2015
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 Theaterprojekt ab 17.04.2015 - <div>nach Antrag</div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kath. Kindertagesstätte St. Bonifaz Anschaffung eines Krabbeltunnels
+- TOP 2.1.: Referat für Bildung und Sport Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München zum Stichtag 1. Oktober (?Oktoberstatistik?) KITA-Jahresstatistik 2013 und 2014 Bekanntgabe im Bildungsausschuss vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02462
+- TOP 2.2.: Referat für Bildung und Sport Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren Beschluss des Bildungsausschusses vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02233
+- TOP 2.3.: Sozialreferat München wird inklusiv! Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention Studie zur Arbeits- und Lebenssituation von Menschen mit Behinderung in der LHM
+- TOP 2.4.: Referat für Stadtplanung und Bauordnung Bevölkerungsprognose der LH München -Planungsprognose 2013 bis 2030-
+- TOP 2.5.: Sozialreferat Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferates a) Zentrale, Sitzungsvorlage Nr. 14-20 / V 02270 b) Amt für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 02224 c) Stadtjugendamt, Sitzungsvorlage Nr. 14-20 / V 02272 d) Amt für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 02301
+- TOP 2.6.: Referat für Bildung und Sport, Beschlussvorlage Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02233
+- TOP 2.7.: Sozialreferat Perspektive München, Leitlinie Soziales Entwurf einer Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung am 05.05.2015
+- TOP 2.8.: Sozialreferat, Bürgerschaftliches Engagement, Konfliktmanagement Allparteiliches Konfliktmanagemnt in München - AKIM
+- TOP 2.1.: Antrag der FDP-Fraktion im BA 3 vom 26.03.2015 Neuer Konzertsaal in der Maxvorstadt hinter dem Landwirtschaftsministerium
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde St. Markus Veranstaltung "Kreis der Religionen" am 16./17.05.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Veranstaltung "Kunst im Karrée" vom 10. - 12.07.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Telecafé089" Rauminstallation mit interaktivem Theaterstück vom 06. - 19.04.2015
+- TOP 2.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 2.1.: Direktorium, Anhörung Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA- Satzung Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen BA-Antrag Nr. 08-14 / B 05869 des BA 6 Sendling vom 10.04.2014 Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel wie dem Rot- kreuzplatz (Entscheidungsrecht für die BAs) BA-Antrag Nr. 14-20 / B 00361 des BA 9 Neuhausen-Nymphenburg vom 16.09.2014
+- TOP 2.2.: Direktorium, Unterrichtung Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate Schreiben des Oberbürgermeisters vom 02.03.2015 an die städtischen Referate
+- TOP 2.3.: Stadtkämmerei, Anhörungen Mittelfristige Finanzplanung 2014 bis 2018, Mehrjahresinvestitionsprogramm, Fortschrei- bung für die Jahres 2015 bis 2019 vertagt aus der Sitzung vom 10.03.2015 Die Unterlagen liegen bereits vor.
+- TOP 2.4.: Direktorium, Anhörung Rederecht von Einwohnerinnen und Einwohnern in Bezirksauschusses-Sitzungen Änderung der Bezirksauschusses-Geschäftsordnung
+- TOP 2.5.: Direktorium, Anhörung Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken Antrag Nr. 14-20 / B 00682 des BA 12 Schwabing-Freimann vom 16.12.2014
+- TOP 2.6.: Direktorium, Anhörung Mitwirkung der Bezirksauschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnung in Eigentumswohnung in Erhaltungssatzungsgebieten Antrag Nr. 14-20 / B 00392 des BA 12 Ludwigsvorstadt-Isarvorstadt vom 30.09.2014
+- TOP 2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8.: Direktorium, Anhörung Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse Antrag Nr. 14-20 / A 00550 der Stadtratsfraktionen der SPD und der CSU
+- TOP 2.9.: Direktorium, Anhörung Kinderbetreuungskossten während der BA-Tätigkeit Antrag Nr. 14-20 / B 00345 des Bezirksausschusses 8 Schwanthalerhöhe vom 16.09.2014
+- TOP 2.10.: Direktorium, Unterrichtungen WLAN-Hotspots in den Büros der Vorsitzenden der Bezirksausschüsse und in den Sitzungs-/Besprechungsräumen der BA-Geschäftsstellen
+- TOP 2.11.: Direktorium, Anhörung Satzungsänderung zum Anhörungsrecht gem. § 13 Abs. 2 BA-Satzung Antrag Nr. 14-20 / B 00344 des BA 13 Bogenhausen vom 16.09.2014
+- TOP 2.12.: Direktorium, Unterrichtungen 1. Tätigkeitsbericht des Datenschutzbeauftragten der Landeshauptstadt München 2. Fall der persönlichen Beteiligung gem. Art. 49 GO
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen und Anhörungen
+- TOP 2.3.: Aktuelle Sachstandsberichte
+- TOP 2.4.: Unterrichtungen
+- TOP .7.: An der Kreuzung Dachauer-/Sandstraße sollen folgende Hinweisschilder angebracht werden: "Signal gilt auch für Radfahrer", "Achtung Schulkinder". Außerdem soll eine Fahrradfahrerampel auf Höhe der Ampel der Autofahrer installiert, sowie die Markierung auf dem Radweg erneuert werden. Nach Möglichkeit soll auch die Grünpahase für Fußgänger zum Überqueren der Dachauer Straße verlängert werden.
