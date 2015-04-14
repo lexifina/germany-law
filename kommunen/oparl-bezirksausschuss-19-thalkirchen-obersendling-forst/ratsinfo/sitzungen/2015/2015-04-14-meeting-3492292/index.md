@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-04-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492292
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492292
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 10.03.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 2.1.: (A) Mehrjahresinvestitionsprogramm 2015-2019
+- TOP 2.2.: (A) Satzungsänderung: Umwandlung von Miet- in Eigentumswohnungen
+- TOP 2.3.: (A) Satzungsänderung: Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen
+- TOP 2.4.: (A) Satzungsänderung: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschusssitzungen
+- TOP 2.5.: (A) Satzungsänderung: Veranstaltungen auf SWM-Grundstücken
+- TOP 2.6.: (A) Satzungsänderung: Anzahl zu entschädigender Sitzungen
+- TOP 2.7.: (A) Satzungsänderung: Kinderbetreuungskosten während BA-Tätigkeit
+- TOP 2.8.: (A) Satzungsänderung: Anhörungsfristen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse MITA Herterichschule e.V. Beschaffung von Einrichtungsgegenständen
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Mittelschule Walliser Straße Bau einer Stele
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Cowboy Club München 1913 e.V. Tag der offenen Tür am 18. und 19.07.2015
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Maximilian-Kolbe-Werk e.V. "Begegnungsaufenthalt" vom 29.04. bis 11.05.2015
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Vermüllung Machtlfinger-/Boschetsrieder Str.
+- TOP 4.3.: (Antrag) Hundetoiletten entlang des Isartalradwegs
+- TOP 4.4.: (Antrag) Sitzbänke Geh-/Radweg zwischen Aidenbachstr. und Hofmannstr.
+- TOP 4.5.: (U) Baubeginngsanzeigen Mobilfunkanlagen
+- TOP 4.6.: (Antrag) Lärmbelästigung Isarflößer
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (Antrag) Fuß- und Radweg Industriegleis Aidenbachstr./Machtlfinger Str.
+- TOP 5.2.: (Antrag) Shisha-Bar Drygalski-Allee 118
+- TOP 5.3.: (A) Thalkirchner Platz
+- TOP 5.4.: (U) Unveränderte Gaststättenfortführung Zentralländstr. 49
+- TOP 5.5.: (U) Freischankflächenerlaubnis Schäftlarnstr. 179
+- TOP 5.6.: (A) Verkehrssituation und verkehrliche Maßnahmen für den Münchner Südwesten
+- TOP 5.7.: (A) Veranstaltung auf öffentlichem Verkehrsgrund: 24. Münchner Kanu-Triathlon am 10.05.2015
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (Antrag) Forstenrieder Anger
+- TOP 6.3.: (Antrag) "Wohnungsbau im Münchner Süden"
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Sportplatz Katholisches Jugendsozialwerk
+- TOP 7.2.: (A) Bauträgerauswahl für Kommunales Wohnungsbauprogramm
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.8.: Auskunft verkehrspolitisches Gesamtkonzept - <div></div>
+- TOP 0.9.: Parksituation Wolfratshauser Straße 1 - <div></div>
+- TOP 0.10.: Schrägparken in der Basler- und Berner Straße - <div></div>
+- TOP 0.11.: Mitbenutzung des August-Macke-Wegs zwischen Hofbrunn- und Kandinskystr. für Radfahrer - <div></div>
+- TOP 1: Allgemeiner Teil
