@@ -1,0 +1,113 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-04-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467878
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467878
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 03.03.2015
+- TOP 1.4.2.: Protokoll UA Verkehr + Planung und Bau vom 12.03.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Baumfällung
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Freiwillige Feuerwehr Allach von 1874 e.V. Beschaffung von Übungspuppen
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Verein für Jugend-, Alten-, und Familienpflege in Allach-Untermenzing e.V. Schwimmkurs vom 27.04. bis 29.06.2015
+- TOP 4.3.: (E) Budget der Bezirksausschüsse Initiative ?Buchprojekt? Buchprojekt ?Die Diamalt AG München 1902-1994?
+- TOP 4.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 23 Allach-Untermenzing Umstufung des Weges Nr. 1138/1-Bl. 67, des Weges Nr. 1139/1-Bl. 67, des Weges Nr. 1139/2-Bl. 67, des Weges Nr. 1067/1-Bl. 67 und des Weges Nr. 1078/1-Bl. 74
+- TOP 5: Anhörungen
+- TOP 5.1.: Rudhartstr. 37, Gemarkung: Allach, Fl.Nr.: 251/8 Neubau eines 6-Familienhauses mit Tiefgarage - Vorbescheid
+- TOP 5.2.: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken
+- TOP 5.3.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 5.4.: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen Änderung der Bezirksausschuss-Geschäftsordnung
+- TOP 5.5.: Erstmalige Herstellung des Krayweges
+- TOP 5.6.: Beschlussvorlage "Perspektive München - Leitlinie Soziales"
+- TOP 5.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Drachenfelsstr. 8
+- TOP 5.9.: Neubau zweier Doppelhäuser mit Garagen - Haus 1-4 Arnoldstr. 12, Gemarkung: Allach, Fl.Nr.: 740/7 Vollzug der BaumschutzVO
+- TOP 5.10.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung
+- TOP 5.11.: Spielaktionen der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet ab April 2015
+- TOP 5.13.: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 04.03.15: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Sitzungsvorlage Nr. 02091)
+- TOP 6.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: a) Hinweis/Ergänzung: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 04263) b) Hinweis/Ergänzung: Bevölkerungsprognose der LH MÜnchen - Planungsprognose 2013 bis 2030 (Sitzungsvorlage Nr. 02150)
+- TOP 6.3.: Beschluss des Bildungsausschusses des Stadtrates vom 11.03.15: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren (Sitzungsvorlage Nr. 02233)
+- TOP 6.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder-und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15: Zuschussnehmerdatei 2015; Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" a) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 02301) b) des Stadtjugendamtes (Sitzungsvorlage Nr. 02272) c) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 02224) d) des Sozialreferates/Zentrale (Sitzungsvorlage Nr. 02270)
+- TOP 6.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: a)Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen (Sitzungsvorlage Nr. 2621) b) Bekanntgabe: Beschlussvollzugskontrolle (BVK) (Sitzungsvorlage Nr. 2786) c) Urbane Gemeinschaftsgärten in München (Sitzungsvorlage Nr. 2503) d) Gartenstädte; Erhaltung des Charakters und bauliche Entwicklung - Stand und Ausblick (Sitzungsvorlage Nr. 00909) e) Studie "Älter werden in München" Abschlussbericht (Sitzungsvorlage Nr. 2540) f) Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.12 (Sitzungsvorlage Nr. 1862)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Vollzug der Wassergesetze; Planfeststellungsverfahren zur Realisierung des 2. Bauabschnitts: Bau eines Seitenarms der Würm und Endausbau der Grünanlage nach dem Rückbau des Allacher Sommerbades im 23. Stadtbezirk Allach-Untermenzing
+- TOP 7.2.: AKIM - Allparteiliches Konfliktmanagement in München
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Oberbürgermeister vom 02.03.15: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate
+- TOP 8.2.: Schreiben Oberbürgermeister vom 27.03.15: Regionale Wohnungsbaukonferenz vom 18.03.15 im Alten Rathaussaal München
+- TOP 8.3.: Schreiben Direktorium vom 02.03.15: BA-Informationsschreiben Nr. 01/15; Durchführung eigener Veranstaltungen
+- TOP 8.4.: Schreiben Direktorium vom 17.03.15: Jubiläum 175 Jahre Strecke München-Augsburg
+- TOP 8.5.: Schreiben Direktorium vom 23.03.15: WLAN-Hotspots in den Büros der Vorsitzenden der Bezirksausschüsse und in den Sitzungs-/Besprechungsräumen der BA-Geschäftsstellen
+- TOP 8.6.: Schreiben Direktorium vom 23.03.15: Informationsschreiben Nr. 02/2015: 1. Tätigkeitsübersicht des Datenschutzbeauftragten der Landeshauptstadt München für die Jahre 2012 und 2013; 2. Fall der persönlichen Beteiligung nach Art. 49 GO
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.03.15: Stadtratsvorlage zum durchgeführten Workshop zur Verkehrsplanung im 23. StB im März 2013
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.03.15: Planungsstand Würmbrücke auf Höhe der Allacher Straße
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (02.03.-08.03.15, 09.03.-15.03.15, 16.03.-22.03.15)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.03.15: Erschließung des Beer-Geländes über den Pasinger Heuweg
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.03.15 Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben, Ippenbergerstr. 8, Peter-Müller-Str. 11, Ramannstr. 18
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Gustav-Otto-Bogen 19, Simonsfeldstr. 1, Oertelplatz 1, Josef-Führer-Str. 41, Willi-Wien-Str. 47, Kunstmannstr. 17
+- TOP 8.13.: Schreiben Stadtwerke München vom 09.03.15, 16.03.15, 23.03.15: Baumaßnahmen
+- TOP 8.14.: Schreiben Stadtwerke München vom 18.03.15: Baumaßnahmen der SWM, 9. Bauabschnitt Auenbruggerstraße, Änderung im Terminablauf
+- TOP 8.15.: Schreiben Sozialreferat vom 02.03.15: Antrag auf Zweckentfremdung, Ippenbergerstr.
+- TOP 8.16.: Schreiben Sozialreferat vom 19.03.15: Information zu neuen Standorten des Übergangswohnens im Rahmen der Kinder- und der Jugendhilfe für unbegleitete minderjährige Flüchtlinge
+- TOP 8.17.: Schreiben Kommunalrefert vom 17.03.15: Themen aus dem BA-Jour Fixe im Kommunalreferat am 05.03.15
+- TOP 8.18.: Schreiben Baureferat vom 04.03.15: Straßenbeleuchtung Spielplatz Ossannastraße / Stieglstraße
+- TOP 8.19.: Schreiben Baureferat vom 25.03.15: Erstmalige Herstellung der Allacher Straße zwischen Ernst-von-Behling-Straße und Eduard-Schwartz-Straße im 23. Stadtbezirk
+- TOP 8.20.: Schreiben Kreisverwaltungsreferat vom 09.03.15: Haltverbote gegenüber der Zufahrt zur Theodor-Fischer-Str. 37
+- TOP 8.21.: Schreiben Kreisverwaltungsreferat vom 14.01.15: Absolutes Haltverbot Auenbruggerstraße, östlich Behringstraße und westlich Eversbuschstraße
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 30.12.14: Kurzparkzone Franz-Nißl-Straße 41
+- TOP 8.23.: Schreiben Kreisverwaltungsreferat vom 04.03.15: Absolutes Haltverbot Esmarchstr. 23
+- TOP 8.24.: Schreiben Kreisverwaltungsreferat vom 20.03.15: Änderung zur Anhörung "Maifest mit Maibaumaufstellung in der Eversbuschstraße am 01.05.15"
+- TOP 8.25.: Schreiben Kreisverwaltungsreferat vom 22.03.15: Antrag auf unveränderte Fortführung der Schank- und Speisewirtschaft M 22
+- TOP 8.26.: Schreiben Kreisverwaltungsreferat vom 10.03.15: Sperrbeschilderung Willstätter Straße
+- TOP 8.27.: Schreiben Kreisverwaltungsreferat vom 18.03.15 Eingeschränktes, durchgängiges Haltverbot auf der Südseite der Ernst-Haeckel-Straße zwischen Krayweg und Gleichweg
+- TOP 8.28.: Schreiben Kreisverwaltungsreferat vom 26.03.15: Fristverlängerung BV-Empfehlung 1368, Anordnung von Tempo 30 in der Eversbuschstraße sowie durchgängige Ampelschaltung Eversbuschstraße / Ecke Allacher Straße
+- TOP 8.29.: Schreiben Kreisverwaltungsreferat vom 27.03.15: Lärmsituation Schwerlastverkehr "Paul-Ehrlich-Weg" Ausnahmen für gewerbliche Nachtfahrten Verkehrszählung / verkehrsbeschränkte Maßnahmen
+- TOP 8.30.: Schreiben Kreisverwaltungsreferat vom 26.03.15: Dreharbeiten Goteboldstraße
+- TOP 8.31.: Schreiben Kreisverwaltungsreferat vom 25.03.15: Antrag auf unveränderte Fortführung des Trattoria da Angelo
+- TOP 8.32.: Schreiben BA 21 Pasing-Obermenzing vom 17.03.15: Vorübergehender Park&Ride Parkplatz auf dem Grundstück Bauseweinallee / Ecke Weinschenkstraße
+- TOP 8.33.: Schreiben Gleichstellungsstelle für Frauen der LHM München vom 24.03.15: Bürger_innen-Befragung ist online - bitte weitergeben
+- TOP 8.34.: Schreiben Bauzentrum München vom 26.03.15: Newsletter Nr. 3/2015
+- TOP 8.35.: Schreiben Selbsthilfezentrum München vom 11.03.15: Fachtag "30 Jahre Selbsthilfe in München" am 23.10.15
+- TOP 8.36.: Schreiben Vereinigung Münchener Wohnungsunternehmen e.V. vom 05.03.15: Vorstellung des neuen Faltplakats der Vereinigung Münchener Wohnungsunternehmer e.V.
+- TOP 8.37.: Schreiben Bayer. Rotes Kreuz vom März 2015: Freiwillige Arbeit
+- TOP 8.38.: Schreiben "Gegen Vergessen - Für Demokratie e.V. Regionalgruppe München" vom 24.03.15: Gedenkzug zum Todesmarsch 2015
+- TOP 9: Nachtrag
+- TOP 9.1.: Bürgerpost an den BA: Friedhofsmauer Kirche St. Peter und Paul
+- TOP 9.2.: Parkregelung Wilhelm-Zwölfer-Straße
+- TOP 9.3.: Containerstandplatz Von-Reuter-Straße
+- TOP 9.4.: Anhörung: Leistungsprogramm 2016 der MVG
+- TOP 9.5.: Umlauf: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Ganzenmüllerstr. 6
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauorndung vom 26.03.15: Parkzone Mannertstraße / Gerberau
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.04.15, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Ludwig-Radlkofer-Straße, Eversbuschstr. 133
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (23.03.15-29.03.15)
+- TOP 9.9.: Schreiben Baureferat vom 27.03.15: Sanierung des Rettungsweges in Verlängerung der Goteboldstraße, BA-Antrag 360
+- TOP 9.10.: Schreiben Baureferat vom 02.04.15: Straßenreinigung und Entfernung des Streugutes
+- TOP 9.11.: Schreiben Stadtwerke München vom 31.03.15: Baumaßnahmen der SWM, Stromprojekt Hanfgartenstraße 2, 11. Bauabschnitt Auenbruggerstraße
+- TOP 9.12.: Schreiben Stadtwerke München vom 30.03.15, 07.04.15: Baumaßnahmen
+- TOP 9.13.: Schreiben Kreisverwaltungsreferat vom 31.03.15: Antrag auf unveränderte Fortführung des Ausschankes in der Allguth Tankstelle Von-Kahr-Str. 1
+- TOP 9.14.: Schreiben Kreisverwaltungsreferat vom 19.03.15: Absolutes Haltverbot Zwiedineckstraße Ostseite auf Länge von ca. 5m
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 07.04.15: Aufhebung Zusatzzeichen 1052-37 StVO (Haltverbot auf Seitenstreifen) gegenüber Willstätterstr. 46
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 07.04.15: Haltverbote in der Hintermeierstraße
+- TOP 9.17.: Schreiben Kulturreferat vom 07.04.15: Veranstaltungsübersicht April
+- TOP 9.18.: Schreiben Kulturreferat vom 01.04.15: Koordinierungstreffen 175 Jahre Bahnstrecke Müchen-Augsburg
+- TOP 9.19.: Schreiben Münchner Forum vom 01.04.15: Standpunkte April 2015, Themenschwerpunkte: Die Zukunft der Gartenstädte und der öffentliche Nahverkehr
+- TOP 9.20.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Bauausschusses vom 21.04.2015: a) Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch im 10. Stadtbezirk Moosach und im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvorlage Nr. 02246) b) Straßenausbaubeitragssatzung; Beitragserlass für bereits abgeschlossene Maßnahmen (Sitzungsvorlage Nr. 02686) c) Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün (Sitzungsvorlage Nr. 02645)
+- TOP 5.12.: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung
