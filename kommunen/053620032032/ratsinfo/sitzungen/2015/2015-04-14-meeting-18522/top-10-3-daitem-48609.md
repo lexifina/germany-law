@@ -1,0 +1,8 @@
+# TOP 10.3: Haushalt 2015 für die Produkte Baubetriebshof, Friedhofs- und Bestattungswesen
+
+- Sitzung: Bau- und Feuerschutzausschuss (4. Sitzung) (2015-04-14)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/48609
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/59154
+- Beschluss (Datei): Beschlusstext (Haushalt 2015 für die Produkte Baubetriebshof, Friedhofs- und Bestattungswesen) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRYTKhFmfzQNrJYR5QcakKZWOegjWM7MQTBGXJV80t_8/Beschlusstext_119.15_-oeffentlich-_Bau-_und_Feuerschutzausschuss_14.04.2015.pdf
