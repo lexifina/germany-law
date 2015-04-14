@@ -1,0 +1,134 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533673
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533673
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Sperre am Giesinger Bahnhofsweg vor der Chiemgaustraße; Bürgerantrag vom 26.02.2015 - <div>nach Antrag</div>
+- TOP 2.2.: Verkehrliche Neuordnung der Tegernseer Landstraße; Bürgerschreiben vom 19.03.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Geplante Unterbringung von Flüchtlingen im Anwesen Tegernseer Landstraße 137; Vorab-Information zum Projektstand durch das Amt für Wohnen und Migration
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Bürgerhaushalt im Stadtbezirk - Positionspapier des BA 17 (erarbeitet in der Besprechung vom 17.03.15)
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.1.: Berufung einer neuen Vertretung des Seniorenbeirats für den 17. Stadtbezirk
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Fasangartenstraße, 2 Fichten
+- TOP 2.2.: Cincinnatistraße, 1 Rotfichte, 2 Fichten, 1 Vogelbeere, 1 Zitterpappel
+- TOP 2.3.: Holtzendorffstraße 8, 1 Tanne
+- TOP 2.4.: Seemüllerstraße 17, 1 Weide
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Sofortmaßnahmen zur Reduzierung der Abgas- und Lärmbelastungen für die Bevölkerung am Mittleren Ring im Stadtbezirk 17; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 - <div>nach Antrag / mit Änderung bei Begründung zu 1.</div>
+- TOP 4.2.: Handlungsprogramm Mittlerer Ring - gemeinsamer Antrag der BA 14, 16, 17 und 18 hinsichtlich der zeitnahen, weiteren Planungen für einen kreuzungsfreien Ausbau des Mittleren Rings vom Candidtunnel bis zum Innsbrucker Ring - ENTWURF
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Linkshänder e.V., für die Maßnahme: Strick- und Häkelaktionen von Mai bis Oktober 2015; Antragssumme: 758,00 ?; Beschlussvorlage des Direktoriums vom 12.03.2015
+- TOP 5.2.: AntragstellerIn: PA/Spielen in der Stadt e.V., für die Maßnahme: Aufführungen im Rahmen des Kinder-Kultur-Sommer-Festivals vom 22. bis 31.07.2015; Antragssumme: 1.500 ?; Beschlussvorlage des Direktoriums vom 03.03.2015 zu 5.1.1 Aufstellung des Direktoriums zu bezuschussten Projekten des Vereins in den Jahren 2012 bis 2015
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Münchner Aktionswerkstatt G'sundheit, Einrichtung von MAG's & MORE e.V., für die Maßnahme: "Sommer im Park 2015!" im Weißenseepark; Fehlbedarfsfinanzierung für Einbindung der Bewohner der McGraw-Kaserne - Essensgutscheine etc.; Antragssumme: 950,00 ?; Antrag vom 25.03.2015
+- TOP 5.2.: AntragstellerIn: Münchner Aktionswerkstatt G'sundheit, Einrichtung von MAG's & MORE e.V., für die Maßnahme: "Sommer im Park 2015!" - Bürgerfest im Weißenseepark; Antragssumme: 9.535,00 ?; Antrag vom 25.03.2015
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Bauleitplanung der Gemeinde Neubiberg, 20. Änderung des Flächennutzungsplans und Aufstellung des Bebauungsplans Nr. 60b für das Gebiet zwischen der Freiherr-von-Stengel-Straße und S-Bahnlinie Verfahren nach § 4 Abs. 1 BauGB; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme
+- TOP 0.2.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten; BA-Antrag Nr. 14-20 / B 00392 des BA 2 vom 30.09.2014; Schreiben des Direktoriums vom 12.03.2015 mit der Bitte um Stellungnahme
+- TOP 0.3.: Anhörungen zu Bauvorhaben im Einzelfall 6.1.3.3.1 Kapellenfeldstraße 8, Neubau von 3 Reihenhäusern mit Garage und Stellplatz; Anhörung vom 03.03.2015 (vertagt aus der Sitzung vom 10.03.2015) 6.1.3.3.2 Chiemgaustraße, Nachverdichtung mit barrierefreien Wohnungen und Tiefgarage - VORBESCHEID; Anhörung vom 12.03.2015 6.1.3.3.3 Martin-Luther-Straße 11, Neubau einer Wohnanlage ("Kommunales Wohnungsbauprogramm / Teilprogramm B") - VORBESCHEID; Anhörung vom 20.03.2015
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Anträge und Empfehlung zur künftigen Nutzung der McGraw-Kaserne und weiterer Flächen in deren Umfeld; Sitzungsvorlagen Nr. 14-20 / V 01142; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.3.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100% zu einem für das Gemeinwohl vorteilhaften Preis; Empfehlung Nr. 14-20 / E 00276 der BÜV des 18. Stadtbezirkes vom 13.11.14; Sitzungsvorlagen Nr. 14-20 / V 02362; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.4.: Städtebauförderung in München A) Das bisherige kommunale Förderprogramm "Wohngrün.de" - Zwischenbericht B) Das neue kommunale Förderprogramm "aktiv.gestalten" - Aufstellung; Sitzungsvorlagen Nr. 14-20 / V 02230; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.6.1 Anwesen Holtzendorffstraße; Mitteilung vom 04.03.2015
+- TOP 0.6.: Bebauungsplan Nr. 2037 - Europäische Schule a) Verlegung des Eingangs des ESM-Kindergartens ans Nordende der Anlage; Empfehlung Nr. 14-20 / E 00035 b) Platzgestaltung S-Bahnhof Fasangarten; Aufenthaltsmöglichkeiten auch für Jugendliche; Empfehlung Nr. 14-20 / E 00037 c) Erhalt eines homogenen, reinen Wohngebiets; Einpassung des geplanten Bauvorhabens in die vorhandene Wohnbebauung; Empfehlung Nr. 14-20 / E 00038 d) Öffung u. Verlängerung der Herbert-Quandt-Straße; Empfehlung Nr. 14-20 / E 00039 e) Verkehrsanbindung / Erschließung des Schulgeländes ESM sowie weiterer Einrichtungen in der Amisiedlung; BA-Antrag Nr. 14-20 / B 00078 f) Verkehrsanbindung der ESM / lückenlose Nahversorgung gewährleisten; BA-Antrag Nr. 14-20 / B 00080 g) Verkehrsanbindung ESM Obergiesing; Stadtratsantrag Nr. 14-20 / A 00059; Sitzungsvorlage Nr. 14-20 / V 01700; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.7.: Mietkosten senken u. Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale u. Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter; Stadtratsantrag Nr. 08-14 / A 04263 vom 17.05.2013; Sitzungsvorlage Nr. 14-20 / V 01341; 2. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.8.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel", 2. Bauabschnitt im 17. Stadtbezirk Obergiesing-Fasangarten; Schreiben des Baureferats-Gartenbau vom 09.03.2015 zur Umsetzung der Maßnahmen
+- TOP 0.9.: Bevölkerungsprognosen der LHM - Planungsprognose 2013 - 2030; Sitzungsvorlagen Nr. 14-20 / V 02150; Bekanntgabe im Ausschuss für Stadtpl. u. Bauordnung vom 11.03.2015 zu 6.1.4.3 Hinweis/Ergänzung vom 10.03.2015
+- TOP 0.10.: Zwischennutzung - ein allgemeiner Rückblick; JourFixe des Kommunalreferates mit den Bezirksausschüssen vom 05.03.2015
+- TOP 0.1.: Flüchtlingsunterkunft Nailastraße im 16. Stadtbezirk - Verwaltungsstreitstraße gegen die LHM wegen Baugenehmigung; Informationen des Referates für Stadtpl. u. Bauordnung vom 25.02.2015 an alle Bezirksausschüsse der LHM
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Zuschussnehmerdatei 2015 - Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" 6.2.4.1.1 des Sozialreferates/Zentrale; Sitzungsvorlage Nr. 14-20 / V 02270 6.2.4.1.2 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 14-20 / V 02224 6.2.4.1.3 des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20 / V 02272 6.2.4.1.4 des Amtes für Wohnen u. Migration; Sitzungsvorlage Nr. 14-20 / V 02301; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015 (SB)
+- TOP 0.2.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum; Empfehlung Nr. 08-14 / E 01472 der BÜV des Stadtbezirkes 20 - Hadern vom 26.09.2012; Sitzungsvorlagen Nr. 14-20 / V 02269; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.3.: Armutshaus in Obergiesing; BA-Antrag Nr. 14-20 / B 00557 vom 11.11.2014; Antwortschreiben des Sozialreferats vom 09.03.2015
+- TOP 0.4.: Platz- und Belegungszahlen der Kindertageseinrichtungen in der LHM zum Stichtag 1. Oktober ("Oktoberstatistik"); KITA-Jahresstatistik 2013 und 2014; Sitzungsvorlage Nr. 14-20 / V 02462; Bekanntgabe im Bildungsausschuss des Stadtrates vom 11.03.2015 (SB)
+- TOP 0.5.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren; Sitzungsvorlage Nr. 14-20 / V 02233; Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015 (VB) zu 6.2.4.5 Ergänzung vom 09.03.2015
+- TOP 0.6.: Verbesserungen für die Erstaufnahmeeinrichtung für Flüchtlinge in der McGraw-Kaserne; BA-Antrag Nr. 14-20 / B 00757 vom 13.01.2015; Antwortschreiben des Sozialreferats vom 16.03.2015
+- TOP 0.1.: Integrationsprojekt der Stiftung Sternenstaub; Anfrage der MS an der Perlacher Straße
+- TOP 0.2.: AKIM - Allparteiliches Konfliktmanagement in München - Anfrage bzgl. Vorstellung im BA / Übermittlung eines ausführlichen Konzeptes; Schreiben des Sozialreferates
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Einhaltung des Tempo-30-Limits in der Siedlung am Perlacher Forst; Empfehlung Nr. 14-20 / E 00031 vom 05.06.14; Beschluss des BA 17 aus der Sitzung vom 13.01.2015; Schreiben des Baureferats-Tiefbau vom 17.03.15 mit der Bitte um Stellungnahme
+- TOP 0.2.: Erinnerungsverfahren - St.-Martin-Straße und Rosenheimer Straße - Radwegsanierung Nahmobilitätspauschale; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 0.1.: Aufhebung der Radwegbenutzungspflicht in der Fasangartenstraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Handlungsprogramm Mittlerer Ring - Berücksichtigung der Vorschläge zum qualifizierten Abschluss der Ausbaumaßnahmen am Mittleren Ring - Tegernsseer Landstraße; BA-Antrag Nr. 14-20 / B 00338 vom 09.09.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 25.02.15
+- TOP 0.3.: Deisenhofener Straße: Beseitigung des wilden Motorradabstellplatzes durch Neugestaltung des Gehweges; Empfehlung Nr. 14-20 / E 00041 der BÜV vom 05.06.2014; abweichender Beschluss des BA 17 vom 09.09.2014; Entscheidung des Oberbürgermeisters vom 04.03.2015
+- TOP 0.4.: Verkehrsspiegel für die Balanstraße / Ecke Grenzstraße; BA-Antrag Nr. 14-20 / B 00845 vom 10.02.2015; Antwortschreiben des Baureferats-Tiefbau vom 18.03.2015
+- TOP 0.5.: Nachtbusse in die Siedlung Am Perlacher Forst; BA-Antrag Nr. 14-20 / B 00844 vom 10.02.2015; Zwischennachricht des RAW vom 18.03.2015
+- TOP 0.6.: Informationsveranstaltung für die Bewohner und Geschäftsleute in der Tegernseer Landstraße zum Umbau der Trambahngleise in der nördlichen und südlichen Tegernseer Landstraße; BA-Antrag Nr. 14-20 / B 00754 vom 13.01.2015; Antwortschreiben der MVG vom 19.03.2015
+- TOP 0.7.: Informationen über die Erneuerung / Modernisierung zu folgenden Eisenbahnbrücken im Bereich des 17. Stadtbezirkes: - St.-Martin-Straße - Werinherstraße - Chiemgaustraße; BA-Antrag Nr. 14-20 / B 00727 vom 09.12.2014; Antwortschreiben des Baureferats-Tiefbau vom 23.03.2015
+- TOP 0.1.: Verkehrsregulierung jetzt! Verkehrsleitsystem Autobahnkreuz München-Süd und Ampel A 995 Höhe (vor) Ausfahrt Unteraching Nord; Antrag der SPD-Fraktion im BA 17 (vertagt aus der Sitzung vom 10.03.2015) - <div>nach Antrag</div>
+- TOP 0.1.: Austausch der Lichtzeichenanlage Schwanseeplatz; Schreiben des KVR vom 06.03.2015 mit der Bitte, eventuelle Anregungen bis 24. April mitzuteilen
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen; Empfehlung Nr. 14-20 / E 00062 der BÜV des Stadtbezirkes 08 - Schwanthalerhöhe vom 24.06.2014; Sitzungsvorlagen Nr. 14-20 / V 01965; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 11.03.2015 (SB)
+- TOP 0.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordung 6.4.4.2.1 Traunsteiner Str. 1, Sintpertstraße; Bescheid vom 11.03.2015
+- TOP 0.3.: Aufstellen von mehr Abfallbehältern und Behältern mit Hundekottüten in der Siedlung Am Perlacher Forst; Empfehlung Nr. 08-14 / E 00032 der BÜV vom 05.06.2014; Beschluss des BA 17 aus der Sitzung vom 13.01.2015; Zwischennachricht des Baureferats-Gartenbau vom 23.02.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; Giesinger Kirchplatzfst 2015 in der Ichostraße / Am Bergsteig vom 10.07.2015 bis 12.07.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 21.04.2015
+- TOP 0.2.: Spielaktionen des Vereins Spiellandschaft Stadt e.V. im Jahr 2015 im 17. Stadtbezirk; hier Weißenseepark vom 23.06. bis 25.06.15 ("Der Park spielt!") und Spielplatz Spitzingplatz vom 13.07.15 bis 14.07.15 (Artmobil); E-Mail des Vereins mit der Bitte um Zustimmung
+- TOP 0.3.: Walchenseeplatz - 3 Veranstaltungen im Freien in einer städtischen Grünanlage; Zuleitung des KVR mit der Bitte um Stellungnahme bis 15.04.2015 1. Spielmobil/Sommertreff von Ende April bis September, jeweils von Montag bis Freitag 2. Flohmarkt am 14.05.2015 3. Flohmarkt und Sommerfest (30 Jahre Mütterladen) am 26.07.2015
+- TOP 0.1.: General-Kalb-Weg - Instandsetzung des Fußballplatzes ; BA-Antrag Nr. 14-20 / B 00753 vom 13.01.2015; Antwortschreiben des RBS vom 13.03.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten - unveränderte Fortführungen; Mitteilungen des KVR 6.6.4.1.1 SSW "Taverna Syros", Tegernseer Landstraße 131; Mitteilung vom 12.03.2015 6.6.4.1.2 SSW "Pinar", Stadelheimer Str. 19; Mitteilung vom 24.03.2015
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Änderung der BA-Satzung - Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung - Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen; BA-Antrag Nr. 08-14 / B 05869 des BA 6 vom 10.04.14 - Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz (Entscheidungsrecht für die BAs); BA-Antrag Nr. 14-20 / B 00361 des BA 9 vom 16.09.14; Schreiben des Direktoriums vom 05.03.2015 mit der Bitte um Stellungnahme
+- TOP 7.2.: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen; Änderung der BA-Geschäftsordnung; Schreiben des Direktoriums vom 12.03.2015 mit der Bitte um Stellungnahme
+- TOP 7.3.: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken; BA-Antrag Nr. 14-20 / B 00682 des BA 12 vom 16.12.2014; Schreiben des Direktoriums vom 12.03.2015 mit der Bitte um Stellungnahme
+- TOP 7.4.: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse; Stadtratsantrag Nr. 14-20 / A 00550 vom 12.12.2014; Schreiben des Direktoriums vom 23.03.2015 mit der Bitte um Stellungnahme
+- TOP 7.5.: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung; Antrag Nr. 14-20 / B 00345 des BA 8 vom 16.09.2014; Schreiben des Direktoriums vom 26.03.2015 mit der Bitte um Stellungnahme zur beantragten Satzungsänderung
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate; Schreiben des Oberbürgermeisters vom 02.03.2015
+- TOP 7.2.: Änderung der Satzung für die Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 15.01.2015 2. Umsetzung der Empfehlungen in eine Änderungssatzung Sitzungsvorlage Nr. 14-20 / V 02091; Beschluss der Vollversammlung des Stadtrates vom 04.03.2015
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: 30 Jahre Selbsthilfe in München am 23. Oktober 2015; Ankündigung des Selbsthilfezentrums München
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
