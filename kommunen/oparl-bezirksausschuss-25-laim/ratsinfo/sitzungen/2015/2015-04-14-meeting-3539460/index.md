@@ -1,0 +1,120 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539460
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539460
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Vorstellung des Projektes "Stadt-Viertel-Leute"
+- TOP 1.1.2.: Realisierungswettbewerb Ludlstraße; Vorstellung des Ergebnisses durch die GEWOFAG
+- TOP 1.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.2.: Antrag auf Ladezone Joergstr. 1 / Ecke Gotthardstraße
+- TOP 1.2.3.: Umzugspläne Kindergarten Siglstr. 19 / 21
+- TOP 1.2.4.: Spielplatz am Weißenfelderplatz
+- TOP 1.2.5.: Parksituation München Laim / Umgebung Lutzstraße
+- TOP 1.2.6.: Geh- / Radwegbrücke Pronnerplatz / Nymphenburger Park, Schriftwechsel mit OB Reiter
+- TOP 2: Anträge
+- TOP 2.1.: FDP: Wertstoffcontainer - überfüllt, vermüllt, verdreckt
+- TOP 2.2.: Fraktionsübergreifender Antrag: Belegung des Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 693,75 ? für Freizeitfahrt vom 13. bis 16.05.15; Antragsteller: Initiativgruppe Interkulturelle Begegnung und Bildung e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Stadtkämmerei vom 23.02.15: Mittelfristige Finanzplanung 2014-2018, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2015-2019
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 02.03.15: Flohmarkt am 26.04.15 auf dem Weißenfelderplatz
+- TOP 4.3.: Schreiben Baureferat vom 02.03.15: Senftenauerstraße; Radwegsanierung Hönigschmidplatz bis Ammerseestraße
+- TOP 4.4.: Schreiben Baureferat vom 02.03.15: Gotthardstraße; Radwegsanierung Von-der-Pfordten-Straße bis Riegerhofstraße
+- TOP 4.5.: Schreiben Direktorium vom 05.03.15: Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung; Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen (Antrag Nr. 108-14 / B 05869 des BA 6 vom 10.04.14); Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz (Entscheidungsrecht für die BAs (Antrag Nr. 14-20 / B 00361 des BA 9 vom 16.09.14)
+- TOP 4.6.: Schreiben Sozialreferat vom 09.03.15: Beschlussvorlage "Perspektive München - Leitlinie Soziales"
+- TOP 4.7.: Schreiben Direktorium vom 12.03.15: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 4.8.: Schreiben Direktorium vom 12.03.15: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen; Änderung der Bezirksausschuss-Geschäftsordnung
+- TOP 4.9.: Schreiben Direktorium vom 12.03.15: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken
+- TOP 4.10.: Schreiben Kreisverwaltungsreferat vom 30.03.15: Spielaktionen in öffentlichen Grünanlagen; 06.07.-08.07.15 Joergplatz, 13.08.-15.08.15 Spielplatz Pronnerplatz, 23.08.-25.08.15 Hogenbergplatz und 06.10.-08.10.15 Spielplatz Burgkmairstraße
+- TOP 4.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.03.15: Leistungsbild Machbarkeitsstudie Einhausung A 96
+- TOP 4.12.: Schreiben Direktorium vom 26.03.15: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung
+- TOP 4.13.: Schreiben Direktorium vom 23.03.15: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse
+- TOP 4.14.: Schreiben Direktorium vom 30.03.15: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fachnerstr. 55: Sanierung und Änderung der Fassade, Nutzungsänderung von Pension und von Laden zu Wohnen, Anbau Balkone, DG-Neubau, Errichtung eines Mehrfamilienhauses mit TG (Fachnerstr. 55 / Friedenheimer Str. 137) / Tektur ; hier: Baumbestandplan
+- TOP 5.2.: Berchemstr. 34: Erweiterung eines Einfamilienhauses
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 02.03.15: Informationsveranstaltung zum Thema "Budget der Bezirksausschüsse" am 06.05.15
+- TOP 6.2.: Bürgerhaushalt auf Stadtbezirksebene (Vertagung aus der BA-Sondersitzung vom 18.03.15)
+- TOP 6.3.: Schreiben Kulturreferat vom 25.03.15: Jour Fixe mit den Bezirksausschüssen am 13.07.15
+- TOP 6.4.: Stellungnahme des Bezirksausschuss zum Entwicklungskonzept Alte Heimat
+- TOP 7: Protokolle
+- TOP 7.1.: UA Kultur vom 24.02.15
+- TOP 7.2.: BA-Sitzung vom 03.03.15
+- TOP 7.3.: BA-Sondersitzung vom 18.03.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Reiter vom 02.03.15: Beteiligung der Bezirksausschüsse bei Informationsveranstaltungen städtischer Referate
+- TOP 8.2.: Schreiben OB Reiter vom 06.03.15: Integriertes Nahverkehrskonzept zur Stärkung des Fußgänger- und Radfahrerverkehrs im Stadtbezirk 25 Laim (Empfehlung Nr. 14-20 / E 02112 der Bürgerversammlung vom 26.11.13); Beschluss des BA vom 05.08.14
+- TOP 8.3.: Schreiben OB Reiter vom 17.03.15: Neugestaltung des Bereichs Gotthardstraße / Fürstenrieder Straße (Empfehlung Nr. 08-14 / E 02117 der Bürgerversammlung vom 26.11.13 bzw. Beschluss des BA 25 Laim vom 03.06.14)
+- TOP 8.4.: Schreiben OB Reiter vom 27.03.15: Regionale Wohnungsbaukonferenz vom 18.03.15
+- TOP 8.5.: Schreiben OB Reiter vom 30.03.15: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP 8.6.: Schreiben Direktorium vom 02.03.15: BA-Informationsschreiben Nr. 01/15; Durchführung eigener Veranstaltungen
+- TOP 8.7.: Schreiben Direktorium vom 18.03.15: Zuwendung aus dem Budget; Verwendungsnachweis "Calcutta Escapade / Wer oder was ist ein Kalkuttaner?"; Antragsteller: Bohemia After Dark e.V.
+- TOP 8.8.: Schreiben Direktorium vom 18.03.15: Ferienfreizeiten 2014; Verwendungsnachweis
+- TOP 8.9.: Schreiben Direktorium vom 23.03.15: WLAN-Hotspots in den Büros der Vorsitzenden der Bezirksausschüsse und in den Sitzungs- / Besprechungsräumen der BA-Geschäftsstellen
+- TOP 8.10.: Schreiben Direktorium vom 23.03.15: BA-Informationsschreiben Nr. 02/2015; 1. Tätigkeitsbericht des Datenschutzbeauftragten der Landeshauptstadt München für die Jahre 2012 und 2013; 2. Fall der persönlichen Beteiligung nach Art. 49 GO
+- TOP 8.11.: Schreiben Referat für Bildung und Sport vom 09.02.15: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Camerloherstr. 110
+- TOP 8.12.: Schreiben Referat für Bildung und Sport vom 11.02.15: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Fürstenrieder Str. 30
+- TOP 8.13.: Schreiben Referat für Bildung und Sport vom 11.02.15: Errichtung eines Schulpavillons auf dem Gelände der Schulanlage Schrobenhausener Str. 15
+- TOP 8.14.: Schreiben Referat für Bildung und Sport vom 19.02.15: Aktualisierte Datenblätter für die Grund- und Mittelschulen bzw. Förderzentren
+- TOP 8.15.: Schreiben Referat für Bildung und Sport vom 30.03.15: Aufstellung von Containerbauten auf dem Gelände der Mittelschule an der Schrobenhausener Straße als Interimslösung bis zur Umsetzung eines Gesamtkonzeptes (Antrag Nr. 08-14 B 05053 vom 31.07.13 bzw. Schreiben BA vom 26.01.15)
+- TOP 8.16.: Schreiben Sozialreferat vom 27.01.15: München wird inklusiv! Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention & Studie zur Arbeits- und Lebenssituation von Menschen mit Behinderung in der LHM
+- TOP 8.17.: Schreiben Sozialreferat vom 09.03.15: Verwendungsnachweis über Zuschuss zu Ferienfreizeiten
+- TOP 8.18.: Schreiben Sozialreferat vom 19.03.15: Information zu neuen Standorten des Übergangswohnens im Rahmen der Kinder- und der Jugendhilfe für unbegleitete minderjährige Flüchtlinge
+- TOP 8.19.: Schreiben Baureferat vom 24.02.15: Abfallbehälter in der Fürstenrieder Straße auf Höhe der Unterführung; Aufstellen größerer Behälter sowie getrennter Behälter für Flaschen und öftere Leerung (Empfehlung Nr. 14-20 / E 00305 der Bürgerversammlung vom 25.11.14); Beschluss des BA 25 Laim vom 03.02.15 (Sitzungsvorlage Nr. 14-20 / V 02156)
+- TOP 8.20.: Schreiben Baureferat vom 18.03.15: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing; Einladung in die BA-Sitzung am 05.05.15
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.02.15: Saherrstr. 6: Neubau "Wohnen im Viertel Saherrstr. 6" (14 WE) mit Nachbarschaftstreff, hausärztlichem Betreuungszentrum HBZ und Tiefgarage / Tektur
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.02.15: Neuburgerstr. 8: Neubau eines Zweifamilienhauses, Erweiterung und Umbau eines Einfamilienhauses in ein Mehrfamilienhaus (4 WE), Neubau einer Tiefgarage; Tektur
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung vom 04.03.15: Fällungsantrag Maria-Birnbaum-Str. 10
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.03.15: Agricolastr. 79; Neubau eines Einfamilienhauses mit Garage
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung vom 19.03.15: Fällungsantrag Egetterstr. 3
+- TOP 8.26.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.03.15: Fällungsantrag Agnes-Bernauer-Str. 55 a
+- TOP 8.27.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.03.15: Forderungen zur Neuplanung des Grundstücks an der Siglstraße / Brantstraße mit Wohnungen und Kinderbetreuungseinrichtungen (Antrag Nr. 08-14 / B 05770 vom 11.02.14 bzw. Schreiben vom 26.02.15)
+- TOP 8.28.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.03.15: Ilmmünsterstr. 63-63b, Umbau und Erweiterung von Mehrfamilienhäusern (26 WE / 10 Garagen), Fassadensanierung (WDVS), Dachsanierung / -aufstockung, Anbau von Aufzügen
+- TOP 8.29.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.03.15: Fürstenrieder Str. 8; 1 Leuchttransparent
+- TOP 8.30.: Schreiben Kreisverwaltungsreferat vom 03.02.15: Willibaldstraße; Haltverbote
+- TOP 8.31.: Schreiben Kreisverwaltungsreferat vom 09.03.15: Gaststätte "Sushi Sen", Elsenheimerstr. 2; unveränderte Fortführung
+- TOP 8.32.: Schreiben Kreisverwaltungsreferat vom 23.03.15: Gaststätte "Camerloher Treff", Camerloherstr. 91; unveränderte Fortführung
+- TOP 8.33.: Schreiben Kreisverwaltungsreferat vom 23.03.15: Lebensmittelmarkt "Domovino", Joergstr. 88
+- TOP 8.34.: Schreiben Kommunalreferat vom 17.03.15: Themen aus dem BA-Jour Fixe im Kommunalreferat am 05.03.15
+- TOP 8.35.: Schreiben Referat für Arbeit und Wirtschaft vom 20.03.15: Lebenswertes Laim (Antrag Nr. 14-20 / B 00381 des BA 25 Laim vom 16.09.149
+- TOP 8.36.: Schreiben Referat für Gesundheit und Umwelt vom 24.03.15: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV, Fürstenrieder Str. 14 / 48 / 257 und Camerloherstr. 67 / Fürstenrieder Straße
+- TOP 8.37.: Bautenliste vom 16.02.-22.02.15 1. Erstantragsverfahren a) Landsberger Str. 183 b) Willibaldstr. 43 2. Änderungsverfahren a) Neuburgerstr. 8
+- TOP 8.38.: Bautenliste vom 02.03.-08.03.15 1. Erstantragsverfahren a) Schrottstr. 27 2. Änderungsverfahren a) Stöberlstr. 39
+- TOP 8.39.: Bautenliste vom 09.03.-15.03.15 1. Erstantragsverfahren a) Geßlerstr. 46 b) Geyerspergerstr. 23 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Riegerhofstr. 20 b) Schäufeleinstr. 2
+- TOP 8.40.: Bautenliste vom 16.03.-22.03.15: Erstantragsverfahren a) Rushaimerstr. 77
+- TOP 8.41.: Schreiben Stadtwerke München GmbH vom 23.03.15: Baumaßnahmen der Stadtwerke; Stichtag: 23.03.15
+- TOP 8.42.: Beschluss des Umweltausschusses vom 03.03.15: Lärmminderungsplanung / Lärmaktionsplan München; Lärmschutz an verschiedenen Straße; Aufnahme verschiedener Straßen in den Lärmaktionsplan (Sitzungsvorlage Nr. 14-20 / V 02276)
+- TOP 8.43.: Beschluss der Vollversammlugn vom 04.03.15: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; 1. Vorberatungen in der BA-Satzungskommission vom 15.01.15: a) Änderung der Bezirksausschusssatzung, Anhörung und Unterrichtung bei Einrichtung und Schließung von Bürgerbüros, b) Frühzeitige Information des Bezirksausschusses bei Straßensperrungen wegen lang andauernder Baumaßnahmen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, c) Antrag zur Änderung der BA-Satzung: Aufnahme eines Anhörungsrechts im Rahmen von Aufstellungsbeschlüssen über Ausgleichsgebiete, d) Änderung von § 23 a der BA-Satzung, Änderung von § 23 a Bas. 2f der BA-Satzung, Änderung von § 23 a Abs. 2a der BA-Satzung, e) Änderung der Bezirksausschusssatzung, hier: Anpassung der Aufwandsentschädigung für externe Beauftragte gegen Rechtsextremismus nach § 23 a Bezirksausschusssatzung, f) Änderung der Bezirksausschusssatzung; hier: Anpassung der Aufwandsentschädigung, g) Niederlegung von Vorstandsämtern, 2. Umsetzung der Empfehlungen in einer Änderungssatzung (Sitzungsvorlage-Nr. 14-20 / V 02091)
+- TOP 8.44.: Beschluss des Bildungsausschusses des Stadtrates vom 11.03.15: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren (Sitzungsvorlage Nr. 14-20 / V 02233)
+- TOP 8.45.: Bekanntgabe in der Sitzung des Bildungsausschuss vom 11.03.15: Platz- und Belegungszahlen der Kindertageseinrichtungen in der Landeshauptstadt München um Stichtag 1. Oktober ("Oktoberstatistik"), KITA-Jahresstatistik 2013 und 2014 (Sitzungsvorlage Nr. 14-20 / V 02462)
+- TOP 8.46.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum (Sitzungsvorlage Nr. 14-20 / V 02269)
+- TOP 8.47.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Rechtzeitige Veröffentlichung von geplanten Baumfällungen (Sitzungsvorlage Nr. 14-20 / V 01965)
+- TOP 8.48.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis (Sitzungsvorlage Nr. 14-20 / V 02362)
+- TOP 8.49.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing; 1. Bekanntgabe des Untersuchungseergebnisses für Laim und Satzungsbeschluss Erhaltungssatzung "Laim", 2. Bekanntgabe des Untersuchungsergebnisses für das Zentrum Pasings (Sitzungsvorlage Nr. 14-20 / V 01741)
+- TOP 8.50.: 2. Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter (Sitzungsvorlage Nr. 14-20 / V 01341)
+- TOP 8.51.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.03.15: Bevölkerungsprognose der LH München, Planungsprognose 2013 bis 2030 (Sitzungsvorlage-Nr. 14-20 / V 02150)
+- TOP 8.52.: Beschluss der Vollversammlung vom 25.03.15: Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 25 Laim und 21 Pasing-Obermenzing; 1. Bekanntgabe des Untersuchungsergebnisses für Laim und Satzungsbeschluss Erhaltungssatzung "Laim", 2. Bekanntgabe des Untersuchungsergebnisses für das Zentrum Pasing (Sitzungsvorlage Nr 14-20 / V 01741)
+- TOP 8.53.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 02272)
+- TOP 8.54.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 14-20 / V 02301)
+- TOP 8.55.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 02270)
+- TOP 8.56.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 02224)
+- TOP 8.57.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.12 (Sitzungsvorlage Nr. 14-20 / V 01862)
+- TOP 8.58.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Studie "Älter werden in München", Abschlussbericht (Sitzungsvorlage Nr. 14-20 / V 02540)
+- TOP 8.59.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Urbane Gemeinschaftsgärten in München (Sitzungsvorlage Nr. 14-20 / V 02503)
+- TOP 8.60.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07..14-31.12.14 (Sitzungsvorlage Nr. 14-20 / V 02786)
+- TOP 8.61.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick (Sitzungsvorlage Nr. 14-20 / V 00909)
+- TOP 8.62.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen (SitzungsvorlageNr. 14-20 / V 02621)
+- TOP 8.63.: Schreiben "Le Zagare Siciliani e non solo" vom 12.01.15: Verwendungsnachweis über Budget-Zuschuss
+- TOP 1.2: Bürgerpost an den BA
