@@ -1,0 +1,118 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-04-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3505913
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3505913
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .2.: Rederecht der Einwohnerinnen und Einwohner in Bezirksausschuss-Sitzungen, Änderung der Bezirksausschuss-Geschäftsordnung
+- TOP .6.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung, Antrag Nr. 14-20/B 00344 des Bezirksausschusses 13 ? Bogenhausen vom 16.09.2014
+- TOP .5: Allgemeine Themen
+- TOP .2.: Herzogspitalstr. 24: Generalsanierung und bautechnische Ertüchtigung eines Büro- und Geschäftshauses
+- TOP .4.: Riedlstr. 3: Abbruch und Neubau eines Wohnhauses mit dreigeschossigem Parksystem ? Vorbescheid (vertagt aus 2015.03 B 3.1.2
+- TOP .6.: Mariannenstr. 5: Umbau einer Wohneinheit, Aufstockung und Neuerrichtung eines Dachgeschosses (vertagt aus 2015.03 B 3.1.5)
+- TOP .15.: Sonnenstraße 9: Nutzungsänderung: Laden zu Backshop mit Café/Bistrobereich (Plenumsbeschluss)
+- TOP .1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2018 Hildegard-, Hochbrücken- und Neuturmstraße (Änderung des Bebauungsplanes Nr. 387 und Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße, Teiländerung der Bebauungspläne Nr. 31bc und 1376)
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP 1: (E) Keine Veranstaltungen am Vater-Rhein-Brunnen und in der Steinsdorfstraße
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.4.: Straßenfest Glockenbachwerkstatt und Bellevue die Monaco am 03.05.2015 in der Cornelius-, Müller- und Blumenstraße
+- TOP 1.8.: Fußwallfahrt St. Pius X am 24.07.2015
+- TOP 1.9.: DGB-Veranstaltung am 01.05.2015 auf dem Marienplatz, Rosenstraße und Kaufingerstraße, Prunkhof
+- TOP 1.10.: Lesung zum Gedenken an die Bücherverbrennung am 10.05.2015 auf dem sog. Odeonsplatz
+- TOP 1.12.: Oper für alle am 18.07.2015 auf dem Marstallplatz und am 31.07.2015 auf dem Max-Joseph-Platz
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: (E) Innenhof des Isartores als öffentliche Verkehrsfläche widmen BA-Antrag Nr. 14-20 / B 00852 des Bezirksausschusses des Stadtbezirkes 1 Altstadt-Lehel vom 10.02.15
+- TOP 2.1.: Umwandlung eines KFZ-Stellplatzes in Fahrradabstellplätze in der Westenriederstraße, BA-Antrag Nr. 08-14/B 03122 des Bezirksausschusses 1 Altstadt-Lehel vom 22.03.2011
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Alten- und Pfegeheimes Vincentinum e.V. Konzert am 19.04.2015
+- TOP 0.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, 1. Vorberatung in der BA-Satzungskommission vom 15.01.2015, 2. Umsetzung der Empfehlung in eine Änderungssatzung, Sitzungsvorlage Nr. 14-20/V 02091, Beschluss der Vollversammlung des Stadtrates vom 04.03.2015
+- TOP 0.2.: Bevölkerungsprognose der LH München, Planungsprognose 2013 bis 2030, Sitzungsvorlage Nr. 14-20/V 02150, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 0.7.: Beschlussvollzugskontrolle (BVK); Bericht über die BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2014-31.12.2014, Sitzungsvorlage Nr. 14-20/V 02786, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 0.8.: Veräußerung von Grundstücken für die gemeinwohlorientierte Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis, Sitzungsvorlage Nr. 14-20/V 02362, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 0.9.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauch (EAV), Sitzungsvorlage Nr. 14-20/ V 01341, Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.7.: Integration der Werbeverkaufsstände in den Christkindlmarkt (2015.02 C 1.1), Antwortschreiben des Referates für Arbeit und Wirtschaft zum BA-Schreiben vom 11.02.2015
+- TOP 0.2.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße, Stellungnahme des Baureferats zu BA-Schreiben vom 11.02.2015 (TOP 2015.02 D 3.1)
+- TOP 0.5.: Lärmminderungsplanung/Lärmaktionsplan München, Lärmschutz an verschiedenen städtischen Straßen, Aufnahme verschiedener Straßen in den Lärmaktionsplan, Sitzungsvorlagen Nr. 14-20/V 02276, Beschluss des Umweltausschusses vom 03.03.2015
+- TOP 0.6.: Bürgeranliegen: Ampelschaltung an der Kreuzung Sternstraße/Maximlianstraße (2014.10 D 1.4), Zwischennachricht des Kreisverwaltungsreferates
+- TOP 0.9.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012, Sitzungsvorlage Nr. 14-20/V 01862, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 0.10.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen, Sitzungsvorlage Nr. 14-20/V 01965, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 0.12.: Rückbau von Abbiegespuren in der Oettingen- und Sternstraße, Antwortschreiben des Baureferates zu BA-Schreiben vom 11.02.2015
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferats/Zentrale, Sitzungsvorlage Nr. 14-20/V 02270, Beschlussvorlage des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015 (SB)
+- TOP 0.4.: Freie Sportstunde am Hirschanger, BA-Antrag Nr. 14-20/B 00664 des Bezirksausschusses vom 09.12.2014, Antwortschreiben des Referates für Bildung und Sport
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .1.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, BA-Antrag Nr. 14-20/B 00392 des Bezirksausschusses 2 ? Ludwigsvorstadt-Isarvorstadt vom 30.09.2014
+- TOP .3.: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken, BA-Antrag Nr. 14-20/B 00682 des Bezirksausschusses 12 ? Schwabing-Freimann vom 16.12.2014
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung, Antrag Nr. 14-20/B 00345 des Bezirksausschusses 8 ? Schwanthalerhöhe vom 16.09.2014
+- TOP .1.: Bürgeranliegen: Bau eines Konzertsaals im Finanzgarten ? Rückbau der Galeriestraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Dultstraße 1: Umbau mit Aufstockung eines Wohn- und Geschäftshauses sowie Nutzungsänderung einer Gastronomieeinheit in eine Apotheke ? Tektur (vertagt aus 2015.03 B 3.1.10)
+- TOP .3.: Kanalstr. 6: Sanierung Dachstuhl und Errichtung von Loggien
+- TOP .5.: Müllerstraße 26: Errichtung eines Wohn- und Geschäftshauses mit Tiefgarage ? Vorbescheid (vertagt aus 2015.03 B 3.1.3)
+- TOP .8.: Oettingenstr. 42A: Nutzungsänderung Laden in ein Café, Fassadenumgestaltung, Errichtung einer Freischankfläche, Anbringen einer Markise und einer Außenwerbung (vertagt aus 2015.03 B 3.1.12 N)
+- TOP .9.: Pilotystr. 4: Energetische Sanierung der Fassaden, Anbau von Balkonen und von Gauben sowie Verglasung eines Treppenaufgangs (vertagt aus 2015.03 B 3.1.13 N)
+- TOP .10.: Tal 12: Errichtung einer Freischankfläche (vertagt aus 2015.03 BA 3.1.14 N)
+- TOP .11.: Sendlinger Str. 13: Umbau eines Wohn- und Geschäftshauses mit Nutzungsänderung einer Arztpraxis in einen Laden sowie Teilabbruch und Wiederherstellung eines erdgeschossigen Anbaus - Tektur
+- TOP .12.: Knöbelstr. 29: Nutzungsänderung einer Kapelle ein eine Wohnung, Errichtung einer Terrasse, Aufstockung um ein Geschoss
+- TOP .13.: Falckenbergstr. 9: Erweiterung eines Ladenlokals vom EG bis ins 2. OG durch Nutzungsänderung der Wohnung im 2. OG (Plenumsbeschluss)
+- TOP .14.: Altheimer Eck 15: Erweiterung, Innenhofüberdachung und DG-Ausbau (Var. 1), Erweiterung, Innenhofüberdachung, Aufstockung und DG-Ausbau (Var. 2), Erweiterung der Hofstruktur nach Süden (Var. 3) ? Vorbescheid (Plenumsbeschluss)
+- TOP .1.: Bräuhausstr. 8, Gesellschaftsraum GmbH, Genehmigung einer Freischankfläche
+- TOP .1.: Neuhauser Str. 10, Steindl Trachten GmbH, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 1.1.: Informationsveranstaltung eTourEurope am 08.05.-09.05.2015 auf dem sog. Odeonsplatz ? Nachtrag
+- TOP 1.2.: Europatag am 08.05.2015 auf dem Marienplatz
+- TOP 1.3.: Griechisch-Bayerischer Kulturtag am 21.06.2015 auf dem sog. Odeonsplatz
+- TOP 1.5.: Infoveranstaltung des TUfast e.V. am 13.05.2015 am Stachus
+- TOP 1.6.: Nachtrag zur Veranstaltung 60 Jahre SOS Kinderdorf e.V. am 13.05.2015 auf dem sog. Odeonsplatz
+- TOP 1.7.: Infoveranstaltung ?Charta der Vielfalt? am 19.05.2015 auf dem Karlsplatz
+- TOP 1.11.: Ganzjährige Spielaktion der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet ab April 2015 (Plenumsbeschluss)
+- TOP 1.13.: Große Fronleichnahmsprozession mit Gottesdienst ab dem Marienplatz am 04.06.2015 (Plenumsbeschluss)
+- TOP 1.14.: Stadtlesen von 02.07.-05.07.2015 auf dem sog. Odeonsplatz (Plenumsbeschluss)
+- TOP 1.15.: Nachtrag zur Informationsveranstaltung eTourEurope am 08.-09.05.2015 auf dem sog. Odeonsplatz (geänderter Lageplan, Plenumsbeschluss)
+- TOP 2.2.: Verbreiterung der Gehbahn vor dem Anwesen Triftstraße 10 (vertagt aus 2015.03 D 3.2)
+- TOP 2.3.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen (Plenumsbeschluss)
+- TOP 2.1.: KVR-Infoveranstaltung für die Bezirksausschüsse am Mittwoch, den 22.04.2015, 18:00 Uhr, Kreisverwaltungsreferat, Ruppertstraße 11
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.3.: Zwischenbericht über den Erlass einer Erhaltungssatzung im Stadtbezirk 1 - Altstadt-Lehel, BA-Antrag Nr. 14-20/B 00590 des Bezirksausschusses 1 vom 18.11.2014
+- TOP 0.4.: Bauvorhaben Sattlerstr. 1, Stellungnahme des Referates für Stadtplanung und Bauordnung zum BA-Schreiben vom 12.03.2015 (2015.03 B 3.1.8)
+- TOP 0.5.: Studie ?Älter werden in München? - Abschlussbericht, Sitzungsvorlage Nr. 14-20/V 02540, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 0.6.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen, Antrag Nr. 08-14/A 05260 der Stadtratsfraktion DIE GRÜNEN/RL vom 14.03.2014, Sitzungsvorlage Nr. 14-20/V 02621, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.20015
+- TOP 0.10.: Umgestaltung und Aufwertung des Isartorplatzes, BV-Empfehlung Nr. 14-20/E 00352 des Bezirksausschusses vom 04.12.2014, Zwischennachricht des Referates für Stadtplanung und Bauordnung
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.5.: Veranstaltungen auf öffentlichem Verkehrsgrund, Keine Sperrung der Steinsdorf- und Widenmayerstraße am Wochenende, BV-Empfehlung Nr. 08-14/E 02146 der Bürgerversammlung des 1. Stadtbezirkes ? Altstadt-Lehel vom 05.12.2013, Sitzungsvorlage Nr. 14-20 / V 02587, Beschlussvorlage des Kreisverwaltungsausschusses vom 24.03.2015
+- TOP 0.6.: Bürgeranliegen ?Situation an der städtischen Grünanlage am Isartorplatz?, Antwortschreiben der REGSAM und des Sozialreferates vom 11.02.2015 zu BA-Schreiben (TOP 2015.02 C 1.2)
+- TOP 0.8.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum, Sitzungsvorlage Nr. 14-20/V 02269, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Herzog-Rudolf-Straße, Feuerwehranfahrtszone
+- TOP 0.3.: Bürgeranliegen "Marienhof und Hunde", Stellungnahme des Baureferates (TOP 2015.01 D 1.1)
+- TOP 0.4.: Verlegung des Fahrradweges zwischen der Sparkassenstraße und Burgstraße, BA-Antrag Nr. 14-20/B 00383 vom 23.09.2014, Antwortschreiben des Baureferates
+- TOP 0.7.: Urbane Gemeinschaftsgärten in München, Sitzungsvorlage Nr. 14-20/V 02503, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 0.8.: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick, Sitzungsvorlage Nr. 14-20/V 00909, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 0.11.: Stellungnahme der MVG zur Nord-Süd-Querung der Altstadt für den Radverkehr
+- TOP 0.13.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 0.3.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren, Sitzungsvorlage Nr. 14-20/V 02233, Beschluss des Bildungsausschusses des Stadtrates vom 11.03.2015
+- TOP 0.5.: PERSPEKTIVE MÜNCHEN ? Leitlinie Soziales, Sitzungsvorlage Nr. 14-20/V 02652, Beschlussvorlage des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.05.2015
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .7.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Sattlerstr. 1: Teilnutzungsänderung und Umbau ?Wohnungen und Büro? in ?Boardinghaus? sowie ?Büro und Geldautomatenraum? in ?Espresso-Bar? im Erdgeschoss ? Tektur (vertagt aus 2015.03 B 3.1.8)
+- TOP 1.3.2: Sonstige
+- TOP 1: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT </div> (E) Verkehrssituation in der Oettingenstraße
+- TOP 2.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> (E) Budget der Bezirksausschüsse Kultur & Spielraum e.V. Historisches Spielprogramm am 20./21.06.2015
