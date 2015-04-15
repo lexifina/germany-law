@@ -1,0 +1,52 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-04-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3527190
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3527190
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse IGH e.V. Sommerfest am 09.05.2015 - <div>Zustimmung in Höhe von 2500,00 Euro</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Linkshänder e.V. Strick- und Häkelaktionen vom 13.06. bis 17.10.2015 - <div>nach Antrag</div>
+- TOP .3.: (E) Budget der Bezirksausschüsse OBACHT! kultur-im-quartier e.V. Veranstaltung ?Obacht!? vom 11. bis 14.06.2015 - <div>Zustimmung in Höhe von 2500,00 Euro</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Inklusive Ausstattung des zusätzlichen Tunnels unter den Gleisen am Ostbahnhof
+- TOP .2.: Bebauungsplan Nr. 2076 - S-Bahn-Halt Kolumbusplatz ?????
+- TOP .3.: Genehmigung von stummen Zeitungsverkäufern
+- TOP .4.: Christbaumsammelstelle in der Au
+- TOP .5.: Pariser Straße 24: Einrichtung eines Gemeinschaftsraumes
+- TOP .6.: Baumfällung Zeppelinstraße 51
+- TOP .7.: Gastronomie an der Isar und rund um die Isar
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .3.: Nächste BA-Sitzung
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
