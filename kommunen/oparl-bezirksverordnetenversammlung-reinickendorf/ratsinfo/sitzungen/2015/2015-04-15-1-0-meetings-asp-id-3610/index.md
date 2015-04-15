@@ -1,0 +1,93 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-04-15T17:05:00+02:00
+- Ende: 2015-04-15T19:30:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3610
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3610
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=82682
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 40. Sitzung der BVV am 15.04.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 40. Sitzung der BVV am 15.04.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 40. Sitzung der BVV am 15.04.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Regelmäßiger Bericht Investitionsmaßnahmen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Regelmäßiger Bericht Baumaßnahmen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.4: Wartehäuschen an der Einstiegshaltesstelle Alt-Lübars! (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Seniorenspielplätze in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Innovationspreis "Pflege" (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Schule nach Elisabeth Selbert benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Koordinierungstreffen der Bezirke wahrnehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Zusammenarbeit mit OSZ Bau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Zügige Schaffung gesetzlicher Grundlagen für die Einführung des Smiley-Systems (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Fahrradständer vor dem Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Asylprojekt der Bundesagentur für Arbeit - überwiesen
+- TOP 7.13: Oberschulbroschüre mit sonderpädagogischer Ausrichtung intensivieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Lärmschutz beim Glasrecycling - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Müllabholungstermine auf der Internetseite www.bsr.de übersichtlich darstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Messung elektromagnetischer Strahlungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Kinder-BVV fortführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Jahresbericht des Patientenfürsprechers aus dem Vivantes Humboldt-Klinikum für den Zeitraum 01.01.2014 bis 31.12.2014 - überwiesen
+- TOP 7.19: Bürgerbegehren - Umstrukturierungsverordnung Am Steinbergpark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Tätigkeitsbericht der Gleichstellungsbeauftragten für den Zeitraum vom 01.01.2014 bis 31.12.2014 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Bearbeitungszeiten im Jugendbereich - beantwortet
+- TOP 8.1.1: Bearbeitungszeiten im Jugendbereich - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschluss über den Bebauungsplanentwurf 12-40B vom 10. Oktober 2012 mit Deckblatt vom 08. September 2014 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-40B für die Grundstücke Falkenplatz 1/9A, 2, 6/10, Stößerstraße 2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 2/10A, 5/9, Habichtstraße 1/5, 2, Rabenstraße 1-4A, Eichelhäherstraße 18/26, 19, Falkenhorststraße 3, 5-7, 40, Turmfalkenstraße 21-21A, 25/29B, 33/35 im Bezirk Reinickendorf - überwiesen
+- TOP 9.2: Beschluss über den Bebauungsplanentwurf XX-240b-2 vom 25. August 2014 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-240b-2 für das Grundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Ergänzung Radverkehrskonzept - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Aus Verkehrssicherheitsbericht 2014 lernen - überwiesen
+- TOP 10.4: Inklusion - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Reinigung der Entwässerungsgräben kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 1 - überwiesen
+- TOP 10.7: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 2 - überwiesen
+- TOP 10.8: "Im Brachfeldwinkel" asphaltieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Wanderweg am Tegeler Fließ begehbar halten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sexistische Werbung in Wirtschaft und Sport - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Videoüberwachung auf Reinickendorfer S-Bahnhöfen verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Dem "Lehrer-burn-out" vorbeugen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: "Berlin barrierefrei" auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Reinickendorfer Kreditinstitute sollen weiterhin Sparschweine entgegennehmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Hausbesuche bei Tagesmüttern - überwiesen
+- TOP 10.16: Mehr Begrünung und Pflege der Insel im Mittelfeldbecken - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Reinickendorf für Olympia fit machen - überwiesen
+- TOP 10.18: Tätigkeit des Bezirksamts im Portfolio-Ausschuss des Liegenschaftsfonds / BIM - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Praktika für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Standort Fahrradparkhaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: SIWA-Möglichkeiten für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Fahrradabstellplätze im Bereich Tegel-City - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Resolution der Bezirksverordnetenversammlung Reinickendorf zur Auswirkung der geplanten Handelsabkommen auf das Bezirkshandeln - überwiesen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Einführung von Dokumentenprüfgeräten in den Bürgerämtern - überwiesen
+- TOP 12.2: Verkehr in der Heinsestraße verbessern - überwiesen
+- TOP 12.3: Parkbänke ersetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Zwischennutzungsagenturen - überwiesen
+- TOP 12.5: Zusätzliche Gewaltprävention an Oberschulen - überwiesen
+- TOP 12.6: Nutzungszeiten für öffentliche Sportstätten - überwiesen
+- TOP 12.7: Abschlussbericht des Temporären Ausschusses für transparente und moderne Öffentlichkeitsarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Städtebauliche Untersuchung - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Infotafel vor dem Luftschutzbunker in Wittenau - überwiesen
+- TOP 13.2: Hinweis zu veränderten Vorfahrtsregeln - überwiesen
+- TOP 13.3: Berufsbezogene Deutschkurse für Migranten für Kunden des Jobcenters - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Gestaltung von Verteilerhäuschen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Lärmschutz in Heiligensee verbessern - überwiesen
+- TOP 13.6: Schulessen für Flüchtlingskinder sicherstellen - überwiesen
