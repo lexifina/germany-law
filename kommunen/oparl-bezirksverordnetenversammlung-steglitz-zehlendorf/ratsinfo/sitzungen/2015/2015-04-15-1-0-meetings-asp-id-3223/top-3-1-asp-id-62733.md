@@ -1,0 +1,8 @@
+# TOP 3.1: Zentral- und Landesbibliothek nach Dahlem
+
+- Sitzung: 31. öffentliche Sitzung des Ausschusses für Bildung, Kultur und Bürgerdienste (2015-04-15)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=62733
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=62733
