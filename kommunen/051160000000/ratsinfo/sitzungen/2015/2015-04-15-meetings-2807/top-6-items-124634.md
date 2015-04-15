@@ -1,0 +1,8 @@
+# TOP 6: Parkraumbewirtschaftung
+
+- Sitzung: Ausschuss für Finanzen und Beteiligungen (2015-04-15)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/124634
+- Ergebnis: Getrennte Abstimmung (s. Niederschrift)
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/19378
