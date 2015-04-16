@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-16T17:00:00+02:00
+- Ende: 2015-04-16T19:50:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9926
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9926
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00237891.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00237891.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00237891.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Lande - einstimmig beschlossen
+- TOP 5: Amselstraße 9 - Abbruch von Nebengebäuden und einer Überdachung - mehrheitlich beschlossen
+- TOP 6: Amselstraße 13 - Abbruch der Anbauten - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Eller Kamp / Kamper Weg - Umgestaltung des Knotenpunktes und Markierung von Schutzstreifen - Planung - vertagt
+- TOP 9: Straßenumbau Sebastiansweg - vertagt
+- TOP 10: Radhauptnetz Düsseldorf / Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 11: Spezialmarkt „Düsseldorfer Herbstfestival“ im Schloss Eller und auf dem Gelände des Schlosses Eller - mehrheitlich beschlossen
+- TOP 12: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2015 - einstimmig beschlossen
+- TOP 13: Behindertenparkplätze in Unterbach - vertagt
+- TOP 14: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 15: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - beantwortet
+- TOP 16: Klappläden an Häusern in der Siedlung Freiheit - beantwortet
+- TOP 17: B-Plan Am Kleinforst - beantwortet
+- TOP 18: Güterbahnstracke Rath-Eller und Bahnübergang Am Hackenbruch - beantwortet
+- TOP 19: Unterführung Dillenburger Weg / Darmstädter Straße - beantwortet
+- TOP 20: Graffiti-Projekt Unterführung Vennhauser Allee - beantwortet
+- TOP 21: Bezirksradwegenetz im Stadtbezirk 8 - beantwortet
+- TOP 22: Bäderkonzept - zurückgezogen
+- TOP 23: Verkehrsregelung Wetzlarer Weg - einstimmig beschlossen
+- TOP 24: Graffiti - Schutzmaßnahmen an S-Bahnhöfen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 25: Bordsteinabsenkungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 26: Fußweg zwischen Kulturbahnhof Eller und KGV Kikweg - einstimmig beschlossen
+- TOP 27: Graffiti-Projekt Unterführung Vennhauser Allee - einstimmig beschlossen
+- TOP 28: Haltelinie vor der Kreuzung Karlsruher Straße / Marburger Straße - einstimmig beschlossen
+- TOP 29: Abfalleimer an der Hundefreilauffläche Vennhauser Allee - einstimmig beschlossen
+- TOP 30: Bushaltestelle In den Maisbanden - einstimmig beschlossen
+- TOP 31: Kriminalitätsstatistik 2014 im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 32: Lärmschutzauflagen Logistik-Zentrum Dillenburger Weg - einstimmig beschlossen
+- TOP 33: Verkehrsregelung Braunfelsweg und Weilburger Weg - einstimmig beschlossen
+- TOP 34: Verkehrssituation Kreuzungsbereich Karlsruher Straße / Heidelberger Straße - zur Kenntnis genommen
+- TOP 35: Zufahrt Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 36: Verkehrsregelung Tichauer Weg - zur Kenntnis genommen
+- TOP 37: Düsselweg Eller Kamp / Kamper Weg - zur Kenntnis genommen
+- TOP 38: Zuschussvergabe der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 39: Logistik-Zentrum Dillenburger Weg - zur Kenntnis genommen
+- TOP 40: Informationen über Baumaßnahmen im öffentlichen Straßenraum im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Wegeinstandsetzung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Heizungsanlage Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 43: Blühstreifen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Kinder- und Jugendförderplan 2015 - 2020 - zur Kenntnis genommen
+- TOP 45: Radweg Am Turnisch - zur Kenntnis genommen
+- TOP 46: Fahrradständer Vennhauser Allee / Gumbertstraße - zur Kenntnis genommen
+- TOP 47: Güterbahnstrecke Rath-Eller und Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 48: Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 49: Unterführung Dillenburger Weg / Darmstädter Straße - zur Kenntnis genommen
