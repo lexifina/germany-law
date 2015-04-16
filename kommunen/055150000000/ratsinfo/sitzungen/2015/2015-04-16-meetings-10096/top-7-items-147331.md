@@ -1,0 +1,6 @@
+# TOP 7: Fairtrade - Stadt Münster
+
+- Sitzung: 4. Sitzung (2015-04-16)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/147331
