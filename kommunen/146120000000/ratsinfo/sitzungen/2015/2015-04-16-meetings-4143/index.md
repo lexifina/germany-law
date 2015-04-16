@@ -1,0 +1,62 @@
+# 9. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-04-16T16:00:00+02:00
+- Ende: 2015-04-16T22:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4143
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4143
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_03_31 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00201982.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden Wahlkreis 6 - Mandat Bündnis 90/Die Grünen (GRÜNE) - punktweise Zustimmung
+- TOP 4: Verpflichtung eines Stadtrates gemäß § 35 Absatz 1 SächsGemO durch die Oberbürgermeisterin
+- TOP 5: Aktuelle Stunde: Familienfreundliches Dresden – Einrichtung eines Beirates für Familie und Kinder - erledigt
+- TOP 6: Einigungsverfahren Gremienbesetzung
+- TOP 6.1: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 6.2: Ausschuss für Kultur - Einigung
+- TOP 6.3: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 6.4: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 6.5: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 6.6: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 6.7: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen) - Einigung
+- TOP 6.8: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 6.9: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Besetzung Beirat des Jobcenters Dresden - Zustimmung
+- TOP 8.1: Einigungsverfahren Besetzung "Beirat des Jobcenters Dresden" - Einigung
+- TOP 9: Umbesetzungen in den Ortsbeiräten
+- TOP 9.1: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 9.2: Umbesetzung im Ortsbeirat Leuben - Zustimmung
+- TOP 9.3: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 9.4: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 9.5: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 9.6: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 9.7: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 10: Besetzung der zweiten Vertreterinnen oder Vertreter der stimmberechtigten Mitglieder des Jugendhilfeausschusses - Zustimmung
+- TOP 11: Vertagungen Stadtratssitzung 19. März 2015
+- TOP 11.1: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 11.2: Wahl der Vertreter/innen der Landeshauptstadt Dresden und ihrer Stellvertreter/innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - Vertagung
+- TOP 12: Vertagung Stadtratssitzung 19. März 2015 - Neufassung Beschluss Stadtrat 10. Juli 2014 - Herstellung der Rechgtssicherheit
+- TOP 12.1: Bebauungsplan Nr. 357 B, Dresden-Neustadt Nr. 39, Leipziger Straße/Neustädter Hafen - Ersetzung
+- TOP 13: Bebauungsplan Nr. 357 C, Dresden-Neustadt Nr. 41, Leipziger Straße/Alexander-Puschkin-Platz - Zustimmung mit Ergänzung
+- TOP 14: Entscheidung über die Zulässigkeit des Bürgerbegehrens „Bürgerbegehren für vier stadtweite, verkaufsoffene Sonntage im Jahr“;Entscheidung über den Abstimmungstag und Wahl des Gemeindewahlausschusses für einen eventuellen Bürgerentscheid - Zustimmung mit Änderung
+- TOP 15: Entscheidung über die Zulässigkeit des Bürgerbegehrens zu stadtweiten verkaufsoffenen Sonntagen - erledigt
+- TOP 16: Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Dresden vom 4. September 2014; hier: VII. Beigeordnete § 29 Rechtsstellung und Aufgaben / Ausschreibung von Beigeordneten-Stellen - Vertagung
+- TOP 17: Wegfall des Aufsichtsrates und Änderung des Gesellschaftsvertrages der DGI Gesellschaft für Immobilienwirtschaft mbH Dresden - Zustimmung
+- TOP 18: Satzung über die Erhebung einer Beherbergungssteuer in der Landeshauptstadt Dresden - Vertagung
+- TOP 19: Satzung über die Erhebung einer Übernachtungssteuer in der Landeshauptstadt Dresden - Vertagung
+- TOP 20: Benutzungsordnung der Städtischen Bibliotheken Dresden - Zustimmung mit Änderung
+- TOP 21: Dresdner Leitlinien für Pferdefuhrwerksbetriebe - Vertagung
+- TOP 22: Zweite Fortschreibung Spielplatzentwicklungskonzeption - Vertagung
+- TOP 23: Aufhebung des Stadtratsbeschlusses V1607/12 - Zustimmung
+- TOP 24: Bauvorhaben "Berthold-Haupt-Straße vom Am Alten Elbarm bis August-Röcke-Straße einschließlich Brücke über den Lockwitzbach - Hochwasserschadensbeseitigung 2013" - Vertagung
+- TOP 25: Moderner Stadtrat im 21. Jahrhundert: Einführung einer umweltgerechten und effizienten Verwaltungsarbeit ohne Papier - Vertagung
+- TOP 26: Städtische Musikschule: Verantwortung für kulturelle Bildung wahrnehmen - Zustimmung mit Änderung
+- TOP 27: Lustgarten 2015 auf dem ehemaligen "Russensportplatz" - Zustimmung mit Änderung
