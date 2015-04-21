@@ -1,0 +1,1302 @@
+---
+ecli: "ECLI:DE:BVerfG:2015:rs20150421.2bvr132212"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 1322/12"
+decided: "2015-04-21"
+typ: "B"
+bverfge: "FALSE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 21. April 2015\n- 2 BvR 1322/12 -, Rn. 1-94,\n                    https://www.bverfg.de/e/rs20150421_2bvr132212"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/04/rs20150421_2bvr132212.html"
+corpus_doc_id: "BVerfG_2015-04-21_S_2_BvR_1322_12_NA_Einstellung-Altersgrenze-Öffentlicher-Dienst_139_19.txt"
+cites_law: ["germany/bund/acts/agg/0010.md", "germany/bund/acts/bbg_2009/0009.md", "germany/bund/acts/bbg_2009/0015.md", "germany/bund/acts/bbg_2009/0041.md", "germany/bund/acts/bbg_2009/0051.md", "germany/bund/acts/beamtstg/0007.md", "germany/bund/acts/beamtstg/0010.md", "germany/bund/acts/beamtstg/0025.md", "germany/bund/acts/bho/0048.md", "germany/bund/acts/blv_2026/0011.md", "germany/bund/acts/bverfgg/0018.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0079.md", "germany/bund/acts/bverfgg/0093.md", "germany/bund/acts/bverfgg/0095.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/012a.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/033.md", "germany/bund/acts/grundgesetz/artikel/080.md", "germany/bund/acts/grundgesetz/artikel/082.md", "germany/bund/acts/grundgesetz/artikel/101.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/lbg/0005.md", "germany/bund/acts/lbg/0031.md", "germany/bund/acts/vwgo/0130a.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 1322/12 vom 2015-04-21: Einstellung-Altersgrenze-Öffentlicher-Dienst
+
+## Entscheidung
+
+Leitsatz
+
+     zum Beschluss des Zweiten Senats vom 21. April 2015
+
+                      - 2 BvR 1322/12 -
+
+                      - 2 BvR 1989/12 -
+
+Zu den verfassungsrechtlichen Anforderungen an die Einführung von
+Einstellungshöchstaltersgrenzen im Öffentlichen Dienst.
+
+
+
+
+                             1/36
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 1322/12 -
+
+- 2 BvR 1989/12 -
+
+
+
+
+                            IM NAMEN DES VOLKES
+
+                                In den Verfahren
+                                      über
+                          die Verfassungsbeschwerden
+I. des Herrn B…
+
+- Bevollmächtigte:    EGH Eifert Geerts Harting
+                      Rechtsanwälte Partnerschaft,
+                      Adolfstraße 10, 65185 Wiesbaden -
+
+ 1. unmittelbar gegen
+
+ a) das Urteil des Bundesverwaltungsgerichts
+
+     vom 23. Februar 2012 - 2 C 79.10 -,
+
+ b) das Urteil des Verwaltungsgerichts Gelsenkirchen
+
+     vom 10. November 2010 - 1 K 5181/09 -,
+
+ c) den Bescheid der Bezirksregierung Düsseldorf
+
+     vom 2. Oktober 2009 - 47.02.05.10-47.7.02.4008 -,
+
+ 2. mittelbar gegen
+
+     § 6, § 52 Abs. 1 und § 84 Abs. 2 der Verordnung über die Laufbahnen
+
+     der Beamten im Lande Nordrhein-Westfalen (Laufbahnverordnung - LVO) in
+     der Fassung der Bekanntmachung vom 23. November 1995, zuletzt
+
+     geändert durch Art. 1 der Verordnung vom 30. Juni 2009 (GVBl S. 381)
+
+     und Antrag auf Wiedereinsetzung in den vorigen Stand
+
+
+
+
+                                        2/36
+
+- 2 BvR 1 322 /12 - ,
+
+II. der Frau B…
+
+- Bevollmächtigte:      CBH Rechtsanwälte, Cornelius,
+                        Bartenbach, Haesemann & Partner,
+                        Bismarckstraße 11-13, 50672 Köln -
+
+ 1. unmittelbar gegen
+
+ a) den Beschluss des Bundesverwaltungsgerichts
+
+     vom 19. Juli 2012 - 2 B 35.12 (2 B 26.11) -,
+
+ b) den Beschluss des Bundesverwaltungsgerichts
+
+     vom 26. März 2012 - 2 B 26.11 -,
+
+ c) den Beschluss des Oberverwaltungsgerichts
+
+     für das Land Nordrhein-Westfalen
+
+     vom 2. Dezember 2010 - 6 A 1695/10 -,
+
+ d) das Urteil des Verwaltungsgerichts Köln
+
+     vom 7. Juli 2010 - 3 K 5879/09 -,
+
+ e) den Bescheid der Bezirksregierung Köln
+
+     vom 14. August 2009 - 47.5-Pe -,
+
+ 2. mittelbar gegen
+
+     § 6 Abs. 1 Satz 1, § 52 Abs. 1 und § 84 Abs. 2 der Verordnung über die Laufbahnen der Beamten im Lande Nordrhein-Westfalen (Laufbahnverordnung -
+     LVO) in der seit dem 18. Juli 2009 geltenden Fassung
+
+- 2 BvR 1989/12 -
+
+hat das Bundesverfassungsgericht - Zweiter Senat -
+
+unter Mitwirkung der Richterinnen und Richter
+
+                                   Präsident Voßkuhle,
+
+                                   Landau,
+
+                                   Huber,
+
+
+
+                                            3/36
+
+                                 Hermanns,
+
+                                 Müller,
+
+                                 Kessal-Wulf,
+
+                                 König
+
+am 21. April 2015 beschlossen:
+
+    1. Die Verfahren werden zur gemeinsamen Entscheidung verbunden.
+
+    2. § 6 Absatz 1 Satz 1, § 52 Absatz 1 und § 84 Absatz 2 der Verordnung
+       über die Laufbahnen der Beamten im Lande Nordrhein-Westfalen vom
+       23. November 1995 (Gesetz- und Verordnungsblatt 1996 Seite 1) in der
+       Fassung der Verordnung zur Änderung der Laufbahnverordnung und
+       anderer dienstrechtlicher Vorschriften vom 30. Juni 2009 des Landes
+       Nordrhein-Westfalen (Gesetz- und Verordnungsblatt Seite 381) sind
+       mit Artikel 33 Absatz 2 des Grundgesetzes unvereinbar.
+
+    3. a) Das Urteil des Bundesverwaltungsgerichts vom 23. Februar 2012 - 2
+       C 79.10 -, das Urteil des Verwaltungsgerichts Gelsenkirchen vom 10.
+       November 2010 - 1 K 5181/09 - und der Bescheid der Bezirksregierung
+       Düsseldorf vom 2. Oktober 2009 - 47.02.05.10-47.7.02. 4008 - verletzen
+       den Beschwerdeführer zu I. in seinem Recht aus Artikel 33 Absatz 2
+       des Grundgesetzes. Das Urteil des Bundesverwaltungsgerichts wird
+       aufgehoben. Die Sache wird zur erneuten Entscheidung an das Bundesverwaltungsgericht zurückverwiesen.
+
+       Im Übrigen wird die Verfassungsbeschwerde zurückgewiesen.
+
+       b) Der Beschluss des Bundesverwaltungsgerichts vom 26. März 2012 -
+       2 B 26.11 -, der Beschluss des Oberverwaltungsgerichts für das Land
+       Nordrhein-Westfalen vom 2. Dezember 2010 - 6 A 1695/10 -, das Urteil
+       des Verwaltungsgerichts Köln vom 7. Juli 2010 - 3 K 5879/09 - und der
+       Bescheid der Bezirksregierung Köln vom 14. August 2009 - 47.5-Pe -
+       verletzen die Beschwerdeführerin zu II. in ihrem Recht aus Artikel 33
+       Absatz 2 des Grundgesetzes. Der Beschluss des Bundesverwaltungsgerichts wird aufgehoben. Die Sache wird zur erneuten Entscheidung
+       an das Bundesverwaltungsgericht zurückverwiesen. Damit wird der
+       Beschluss des Bundesverwaltungsgerichts vom 19. Juli 2012 - 2 B
+       35.12 (2 B 26.11) - gegenstandslos.
+
+    4. a) Dem Beschwerdeführer zu I. haben das Land Nordrhein-Westfalen
+       zwei Drittel und die Bundesrepublik Deutschland ein Drittel seiner notwendigen Auslagen für das Verfassungsbeschwerdeverfahren zu erstatten.
+
+
+
+
+                                           4/36
+
+        b) Der Beschwerdeführerin zu II. haben das Land Nord- rhein-Westfalen drei Viertel und die Bundesrepublik Deutschland ein Viertel
+        ihrer notwendigen Auslagen für das Verfassungsbeschwerdeverfahren
+        zu erstatten.
+
+                                    Gründe:
+
+                                         A.
+ Die Beschwerdeführer wenden sich mit ihren - zur gemeinsamen Entscheidung verbundenen - Verfassungsbeschwerden gegen die Ablehnung der Verbeamtung aufgrund von Höchstaltersgrenzen. Sie sind angestellte Lehrkräfte im öffentlichen Schuldienst des Landes Nordrhein-Westfalen. Sie begehren die Übernahme in das
+Beamtenverhältnis auf Probe, obwohl sie das 40. Lebensjahr bereits vollendet und
+damit die laufbahnrechtliche Altersgrenze für die Einstellung überschritten haben.
+
+                                         I.
+ 1. a) Lehrerinnen und Lehrer an öffentlichen Schulen werden in Nordrhein-              2
+Westfalen, sofern die laufbahn- und sonstigen beamtenrechtlichen Voraussetzungen
+vorliegen, in der Regel verbeamtet (§ 57 Abs. 5 Satz 2 des Schulgesetzes für das
+Land Nordrhein-Westfalen vom 15. Februar 2005 <Schulgesetz NRW - SchulG>).
+Sie können auch als Tarifbeschäftigte nach dem Tarifvertrag für den öffentlichen
+Dienst der Länder (TV-L) angestellt werden (Runderlass des Ministeriums für Schule
+und Weiterbildung vom 23. April 2007 - BASS 21-01 Nr. 11). Die Übernahme in das
+Beamtenverhältnis auf Probe richtet sich unter anderem nach den Vorschriften der
+Verordnung über die Laufbahnen der Beamten im Lande Nordrhein-Westfalen (Laufbahnverordnung - LVO). Nach § 52 Abs. 1 der Laufbahnverordnung vom 23. November 1995 (GVBl 1996 S. 1) in der Fassung des Gesetzes vom 3. Mai 2005 (GVBl
+S. 498, im Folgenden a. F.) durfte in die Lehrerlaufbahnen als Laufbahnbewerber in
+ein Beamtenverhältnis auf Probe nur eingestellt oder übernommen werden, wer das
+35. Lebensjahr noch nicht vollendet hatte. Nach § 84 Abs. 1 Satz 1 Nr. 1 in Verbindung mit Abs. 3 Satz 2 Nr. 1 LVO a. F. konnten auf Antrag der obersten Dienstbehörde durch Entscheidung des Innenministeriums und des Finanzministeriums Ausnahmen von dem Höchstalter zugelassen werden.
+
+  b) Diese Vorschriften der Laufbahnverordnung erklärte das Bundesverwaltungsgericht mit Urteil vom 19. Februar 2009 - 2 C 18.07 - (BVerwGE 133, 143) für unwirksam. Zwar seien Einstellungshöchstaltersgrenzen grundsätzlich zulässig, da sie dem
+Lebenszeitprinzip als einem hergebrachten Grundsatz des Berufsbeamtentums (Art.
+33 Abs. 5 GG) Rechnung trügen. Auch sei die Ungleichbehandlung wegen des Alters
+im Sinne von § 10 Satz 1 des Allgemeinen Gleichbehandlungsgesetzes (AGG) vom
+14. August 2006 gerechtfertigt, denn Altersgrenzen setzten Dienstzeit und Versorgungsanspruch in ein angemessenes Verhältnis und trügen zur Absicherung des Lebenszeitprinzips bei. Der Gesetzgeber müsse ihre Regelung einschließlich der Ausnahmetatbestände jedoch selbst treffen. Da Einstellungshöchstaltersgrenzen im
+
+
+                                         5/36
+
+Beamtenrecht den Leistungsgrundsatz aus Art. 33 Abs. 2 GG einschränkten, dürften
+sie nicht voraussetzungslos im Ermessen der Verwaltung stehen. Die an keinerlei
+Vorgaben gebundene Ausnahmemöglichkeit des § 84 Abs. 1 LVO a. F. erfülle zudem
+nicht das Gebot der Normenklarheit. Die zahlreichen Verwaltungserlasse zur Einhaltung der Altersgrenzen überlagerten die verordnungsrechtliche Regelung.
+
+  2. a) Mit dem Gesetz zur Änderung dienstrechtlicher Vorschriften vom 21. April       4
+2009 (GVBl S. 224) wurde ein neues Beamtengesetz für das Land Nordrhein-Westfalen (Landesbeamtengesetz - LBG) beschlossen, das am 1. April 2009 in Kraft
+trat. Die darin enthaltene Ermächtigungsgrundlage für Vorschriften über die Laufbahnen lautet:
+
+                         § 5 Vorschrift über die Laufbahnen
+
+         (1) Die Landesregierung erlässt unter Berücksichtigung der Erfordernisse der einzelnen Verwaltungen durch Rechtsverordnung Vorschriften über die Laufbahnen der Beamten (Laufbahnverordnung).
+        Dabei sind, auch nach Maßgabe der §§ 7 bis 23, insbesondere zu
+        regeln
+
+         1. die Voraussetzungen für die Ordnung von Laufbahnen,
+
+         2. … (12)
+
+         Die Landesregierung beschloss am 30. Juni 2009 in Artikel 1 der               5
+        Verordnung zur Änderung der Laufbahnverordnung und anderer
+        dienstrechtlicher Vorschriften (GVBl S. 381) auf Grund von § 5 Abs.
+        1 LBG eine Änderung der Laufbahnverordnung (im Folgenden LVO
+        2009). Sie hob die Altersgrenze zur Einstellung oder Übernahme in
+        das Beamtenverhältnis auf Probe an; in das Beamtenverhältnis
+        konnte danach berufen werden, wer das 40. Lebensjahr noch nicht
+        vollendet hatte. Zugleich regelte sie die Möglichkeiten des Überschreitens der Höchstaltersgrenze neu. Die entsprechenden Vorschriften der Laufbahnverordnung haben folgenden Wortlaut:
+
+                         Abschnitt I Einleitende Vorschriften
+
+         …
+
+                                         §6
+
+          Einstellung oder Übernahme in das Beamtenverhältnis auf Probe
+
+         (1) Als Laufbahnbewerber nach § 5 Absatz 1 Buchstaben a und b
+        und g darf in das Beamtenverhältnis auf Probe eingestellt oder übernommen werden, wer das in den §§ 18 Absatz 1, 22 Absatz 1, 25
+        Absatz 1, 29 Absatz 1, 35 Absatz 1, 39 Absatz 1, 44 Absatz 1 und
+        52 Absatz 1 festgesetzte Lebensjahr noch nicht vollendet hat.
+
+         (2) Hat sich die Einstellung oder Übernahme
+
+
+                                         6/36
+
+         a) wegen der Ableistung einer Dienstpflicht nach Artikel 12a GG,
+
+         b) wegen der Teilnahme an einem freiwilligen sozialen Jahr oder
+
+         c) wegen der Geburt eines Kindes oder wegen der tatsächlichen
+        Betreuung eines Kindes unter 18 Jahren,
+
+  d) wegen der tatsächlichen Pflege eines nach einem Gutachten pflegebedürftigen
+sonstigen nahen Angehörigen, insbesondere aus dem Kreis der Eltern, Schwiegereltern, Eltern der eingetragenen Lebenspartnerin oder des eingetragenen Lebenspartners, Ehegatten, eingetragenen Lebenspartnerinnen oder Lebenspartner, Geschwister sowie volljähriger Kinder verzögert, so darf die jeweilige Altersgrenze im Umfang
+der Verzögerung überschritten werden.
+
+          Die jeweilige Altersgrenze darf bei Verzögerungen nach Satz 1
+        Buchstabe c um bis zu drei Jahre, bei mehreren Kindern höchstens
+        um bis zu sechs Jahre überschritten werden. Entsprechendes gilt
+        für Satz 1 Buchstabe d. Die jeweilige Altersgrenze nach Satz 1
+        Buchstabe c und d darf insgesamt höchstens um sechs Jahre überschritten werden.
+
+         Das Höchstalter erhöht sich, wenn der Bewerber an dem Tage, an
+        dem er den Antrag gestellt hat, die Höchstaltersgrenze nicht überschritten hatte und die Einstellung oder Übernahme innerhalb eines
+        Jahres nach der Antragstellung erfolgt.
+
+         (3) Schwerbehinderte Menschen und ihnen gemäß § 2 Absatz 3
+        Sozialgesetzbuch IX gleichgestellte behinderte Menschen dürfen
+        bis zum vollendetem 43. Lebensjahr eingestellt oder übernommen
+        werden.
+
+          (4) § 13 Absatz 3 des Bundespolizeibeamtengesetzes in der bis
+        zum 30. Juni 1976 geltenden Fassung und § 7 Absatz 6 des Soldatenversorgungsgesetzes bleiben unberührt.
+
+          (5) Planstelleninhaber an Ersatzschulen dürfen in das Beamtenverhältnis auf Probe eingestellt werden, wenn sie das 55. Lebensjahr noch nicht vollendet haben. Bei Auflösung einer Ersatzschule
+        nach § 111 Schulgesetz in den einstweiligen Ruhestand versetzte
+        Planstelleninhaber dürfen in das Beamtenverhältnis auf Probe eingestellt werden, wenn sie das 60. Lebensjahr noch nicht vollendet
+        haben.
+
+         …
+
+                                     Abschnitt V
+
+         Besondere Vorschriften für Lehrer an Schulen sowie für wissenschaftliche Mitarbeiter und Lehrkräfte für besondere Aufgaben an
+
+
+                                         7/36
+
+   Hochschulen
+
+    …
+
+                                   § 52
+
+Einstellung oder Übernahme in das Beamtenverhältnis auf Probe, Probezeit
+
+     (1) Als Laufbahnbewerber darf in die in diesem Abschnitt genannten Laufbahnen in das Beamtenverhältnis auf Probe eingestellt oder
+   übernommen werden, wer das 40. Lebensjahr noch nicht vollendet
+   hat.
+
+    (2) - (4) …
+
+                              Abschnitt VIII
+
+                   Übergangs- und Schlußvorschriften
+
+    …
+
+                                   § 84
+
+                               Ausnahmen
+
+    (1) …
+
+    (2) Ausnahmen von dem Höchstalter für die Einstellung oder Übernahme in das Beamtenverhältnis nach § 6 Absatz 3 und 5, § 18 Absatz 1, § 22 Absatz 1, § 25 Absatz 1, § 29 Absatz 1, § 35 Absatz 1,
+   § 39 Absatz 1, § 44 Absatz 1 und § 52 Absatz 1 können zugelassen
+   werden, und zwar
+
+    1. für einzelne Fälle oder Gruppen von Fällen, wenn der Dienstherr
+   ein erhebliches dienstliches Interesse daran hat, Bewerber als
+   Fachkräfte zu gewinnen oder zu behalten oder
+
+    2. für einzelne Fälle, wenn sich nachweislich der berufliche Werdegang aus von dem Bewerber nicht zu vertretenden Gründen in einem Maß verzögert hat, das die Anwendung der Höchstaltersgrenze unbillig erscheinen ließe.
+
+     Ein erhebliches dienstliches Interesse im Sinne von Nummer 1
+   liegt insbesondere vor, wenn die Ausnahmeerteilung zur Sicherstellung der Erledigung der öffentlichen Aufgabe erforderlich ist.
+
+    (3) Über Ausnahmen von § 15 Absatz 2 Landesbeamtengesetz,
+   § 10 Absatz 1 Satz 1 und Absatz 2 Buchstaben a, b und c, § 10 Absatz 4 und § 46 Absatz 2 sowie über Ausnahmen von der Dauer der
+   Probezeit anderer Bewerber entscheidet der Landespersonalausschuss, für die in § 37 Absatz 1 des Landesbeamtengesetzes bezeichneten Beamten die Landesregierung. Über Ausnahmen von
+
+
+                                   8/36
+
+        den übrigen in Absatz 1 und 2 genannten Vorschriften entscheiden
+        für die Beamten
+
+         1. des Landes die oberste Dienstbehörde als Aufsichtsbehörde im
+        Einvernehmen mit dem Innenministerium und dem Finanzministerium,
+
+         2. der Landschaftsverbände, des Landesverbandes Lippe und des
+        Kommunalverbandes Ruhrgebiet das Innenministerium als Aufsichtsbehörde,
+
+         3. der Gemeinden und der sonstigen Gemeindeverbände die Aufsichtsbehörde, in den Fällen des § 40 Satz 1 Nummer 2 und Nummer 4, § 41 sowie über die auf Gruppen bezogenen Ausnahmen
+        nach § 84 Absatz 2 Nummer 1 in Verbindung mit § 6 die Bezirksregierung als Aufsichtsbehörde,
+
+         4. der der Aufsicht des Landes unterstehenden Körperschaften,
+        Anstalten und Stiftungen des öffentlichen Rechts, mit Ausnahme der
+        Gemeinden und Gemeindeverbände, die Aufsichtsbehörde, bei
+        Lehrern im Einvernehmen mit der Schulaufsichtsbehörde.
+
+  Diese Neuregelung der Laufbahnverordnung trat am 18. Juli 2009 in Kraft. Nicht geändert wurde § 48 Abs. 1 der Landeshaushaltsordnung Nordrhein-Westfalen (LHO)
+in der Fassung der Bekanntmachung vom 26. April 1999 (GVBl S. 158). Demnach
+bedürfen Einstellung und Versetzung von Beamtinnen und Beamten in den Landesdienst der Einwilligung des Finanzministeriums, wenn die Bewerber ein von der Landesregierung allgemein festzusetzendes Lebensalter überschritten haben, welches
+sich nach den Verwaltungsvorschriften zur Landeshaushaltsordnung (VV zur LHO,
+Runderlass des Finanzministeriums vom 30. September 2003, I 1 - 0125 - 3 - I 3 -
+0079 - 0.2) richtet.
+
+ b) Während des laufenden verfassungsgerichtlichen Verfahrens wurde mit Wirkung        7
+vom 8. Februar 2014 die Laufbahnverordnung vom 23. November 1995 (GVBl 1996
+S. 1) durch die Verordnung über die Laufbahnen der Beamtinnen und Beamten im
+Land Nordrhein-Westfalen (Laufbahnverordnung - LVO) vom 28. Januar 2014 (GVBl
+S. 21, im Folgenden: LVO 2014) ersetzt. § 7 LVO 2014 benennt unter „Befähigung“
+verschiedene Voraussetzungen für den Erwerb der Laufbahnbefähigung, § 8 LVO
+2014 enthält nunmehr einheitliche Regelungen über die Höchstaltersgrenze für Laufbahnbewerberinnen und -bewerber:
+
+                                         §8
+
+          Einstellung oder Übernahme in das Beamtenverhältnis auf Probe
+
+         (1) Als Laufbahnbewerberin oder -bewerber nach § 7 Absatz 1
+        Nummer 1 bis 2 und 5 bis 7 darf in das Beamtenverhältnis auf Probe
+        eingestellt oder übernommen werden, wer das 40. Lebensjahr noch
+
+
+                                        9/36
+
+nicht vollendet hat.
+
+ (2) Hat sich die Einstellung oder Übernahme wegen
+
+ 1. der Ableistung einer Dienstpflicht nach Artikel 12a des Grundgesetzes,
+
+ 2. der Teilnahme an Maßnahmen im Sinne des § 34 Absatz 2 der
+Freistellungs- und Urlaubsverordnung NRW vom 10. Oktober 2012
+(GV. NRW. S. 2, ber. S. 92) oder
+
+ 3. der Geburt eines Kindes oder wegen der tatsächlichen Betreuung eines minderjährigen Kindes, oder
+
+  4. der tatsächlichen Pflege eines nach einem Gutachten pflegebedürftigen sonstigen nahen Angehörigen, insbesondere aus dem
+Kreis der Eltern, Schwiegereltern, Eltern der eingetragenen Lebenspartnerin oder des eingetragenen Lebenspartners, Ehegatten, der
+eingetragenen Lebenspartnerin oder des eingetragenen Lebenspartners, Geschwister sowie volljähriger Kinder verzögert, so darf
+die Altersgrenze im Umfang der Verzögerung überschritten werden.
+Die Altersgrenze nach Absatz 1 darf bei Verzögerungen nach Satz 1
+Nummer 3 um bis zu drei Jahre, bei mehreren Kindern höchstens
+um bis zu sechs Jahre überschritten werden. Entsprechendes gilt
+für Satz 1 Nummer 4. Die Altersgrenze nach Absatz 1 darf bei Verzögerungen nach Satz 1 Nummer 3 und 4 insgesamt höchstens um
+sechs Jahre überschritten werden. Absatz 3 findet keine Anwendung.
+
+ (3) Schwerbehinderte Menschen und ihnen gemäß § 2 Absatz 3
+des Neunten Buches Sozialgesetzbuch - Rehabilitation und Teilhabe behinderter Menschen - vom 19. Juni 2001 (BGBl. I S. 1046)
+gleichgestellte behinderte Menschen dürfen abweichend von Absatz 1 auch eingestellt oder übernommen werden, wenn sie zwar
+das 40. aber noch nicht das 43. Lebensjahr vollendet haben.
+
+  (4) § 7 Absatz 6 des Soldatenversorgungsgesetzes vom 16. September 2009 (BGBl. I S. 3054) in der jeweils geltenden Fassung
+bleibt unberührt.
+
+  (5) Planstelleninhaberinnen und -inhaber an Ersatzschulen dürfen
+in das Beamtenverhältnis auf Probe eingestellt werden, wenn sie
+das 55. Lebensjahr noch nicht vollendet haben. Bei Auflösung einer
+Ersatzschule nach § 111 des Schulgesetzes NRW vom 15. Februar
+2005 (GV. NRW. S. 102) in der jeweils geltenden Fassung in den
+einstweiligen Ruhestand versetzte Planstelleninhaberinnen und -
+inhaber dürfen in das Beamtenverhältnis auf Probe eingestellt wer-
+
+
+
+                                10/36
+
+        den, wenn sie das 60. Lebensjahr noch nicht vollendet haben.
+
+         (6) Das jeweilige Höchstalter erhöht sich, wenn die Bewerberin
+        oder der Bewerber an dem Tage, an dem sie oder er den Antrag auf
+        Einstellung oder Übernahme gestellt hat, das jeweilige Höchstalter
+        nicht vollendet hatte und die Einstellung oder Übernahme innerhalb
+        eines Jahres nach der Antragstellung erfolgt.
+
+  c) Der Unterschied zur vorherigen Regelung liegt hinsichtlich der Einstellungsaltersgrenzen im Wesentlichen darin, dass der zuvor in § 6 Abs. 1 LVO 2009 vorgenommene Verweis auf verschiedene Normen entfällt und nunmehr für die in § 8 Abs. 1 LVO
+2014 genannten Laufbahnbewerber zusammengefasst ein Einstellungshöchstalter
+festgelegt worden ist. Gegenstand der Neuregelung sind wiederum verschiedene
+Ausnahmetatbestände. Mit der Neufassung wurde die bisherige Regelung in § 52
+LVO 2009 hinsichtlich der konkreten Altersgrenze für Lehrkräfte entbehrlich, da diese
+von § 8 Abs. 1 LVO 2014 miterfasst ist.
+
+ 3. Altersgrenzen für die Einstellung in das Beamtenverhältnis sind im Bund und in         9
+den einzelnen Ländern, auch hinsichtlich ihrer Regelung durch Gesetz oder Verordnung, unterschiedlich ausgestaltet:
+
+ a) Im Bundesbeamtengesetz (BBG) vom 14. Juli 1953 (BGBl I S. 551) war neben              10
+der Pensionsgrenze (§ 41 Abs. 1 BBG) in § 9 Satz 1 Nr. 2 ein Mindestalter für die
+Verbeamtung auf Lebenszeit von 27 Jahren vorgesehen, nicht aber Höchstaltersgrenzen für die Einstellung. Diese finden sich erstmals in der Verordnung über die
+Laufbahnen der Bundesbeamten (Bundeslaufbahnverordnung - BLV) vom 31. Juli
+1956 (BGBl I S. 712) in den §§ 14, 17, 22 und 28 als Höchstalter für die Einstellung in
+den Vorbereitungsdienst zwischen 30 und 35 Jahren, differenziert nach Laufbahnen.
+Die Altersgrenze für den Vorbereitungsdienst war schließlich auf Bundesebene laufbahnübergreifend bis Anfang des Jahres 2009 gemäß § 14 Abs. 2 der Verordnung
+über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten (Bundeslaufbahnverordnung - BLV) in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl I S.
+2459) grundsätzlich auf 32 Jahre festgelegt. Ermächtigungsgrundlage hierfür war
+§ 15 Abs. 1 Nr. 1 BBG in der Fassung der Bekanntmachung vom 31. März 1999
+(BGBl I S. 675).
+
+ b) In der Neufassung der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl I           11
+S. 284) wurden keine Einstellungshöchstaltersgrenzen mehr geregelt. In der Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Inneren zur Bundeslaufbahnverordnung vom 14. Juli 2009 (D 2 - 216 102/48; GMBl S. 1311) heißt es insoweit (zu § 11 BLV), die Altersgrenzen hätten ein angemessenes Verhältnis zwischen
+Ausbildung, Dienstzeit und Versorgung sicherstellen sollen. Die Anknüpfung an das
+Alter sei bei den Vorbereitungsdiensten jedoch dienstrechtlich nicht mehr sinnvoll, da
+neue Faktoren (besondere Qualifikationen, Fachkräftebedarf, Berufserfahrungen in
+anderen Bereichen, wechselnde gesetzliche Altersgrenzen für den Ruhestand) bei
+der Kosten-Nutzen-Analyse nicht ausreichend berücksichtigt würden. Unberührt da-
+
+
+                                         11/36
+
+von bleibe § 48 der Bundeshaushaltsordnung (BHO) in Verbindung mit dem Rundschreiben des Bundesministeriums der Finanzen vom 23. März 1995 (II A 2 - H 1224
+- 5/95; GMBl 1996 S. 79): Nach § 48 BHO bedürfen Einstellung und Versetzung von
+Beamten in den Bundesdienst der Einwilligung des Bundesministeriums der Finanzen, wenn der Bewerber ein von dem Ministerium „allgemein festzusetzendes Lebensalter“ überschritten habe. Dieses wird in dem genannten Rundschreiben grundsätzlich auf das vollendete 40. Lebensjahr festgesetzt.
+
+ c) Zum 1. April 2009 wurde auch die Mindestaltersgrenze von 27 Jahren für die Ernennung zum Beamten auf Lebenszeit in § 6 des Rahmengesetzes zur Vereinheitlichung des Beamtenrechts (Beamtenrechtsrahmengesetz - BRRG) in der Fassung
+der Bekanntmachung vom 31. März 1999 (BGBl I S. 654) und in § 9 Abs. 1 Nr. 2 BBG
+aufgehoben und nicht in das neu erlassene Gesetz zur Regelung des Statusrechts
+der Beamtinnen und Beamten in den Ländern in der Fassung vom 17. Juni 2008 (Beamtenstatusgesetz - BeamtStG, BGBl I S. 1010) übernommen (vgl. §§ 7, 10 BeamtStG). Die Altersgrenzen für den Eintritt in den Ruhestand sind nach wie vor in
+§ 51 BBG (in der Regel: Vollendung des 67. Lebensjahres) geregelt. Das Beamtenstatusgesetz enthält dazu keine Regelung (vgl. § 25 BeamtStG).
+
+ d) In den Ländern sind Höchstaltersgrenzen für den Zugang zum Beamtenstatus          13
+unterschiedlich geregelt, wobei teilweise erhebliche Abweichungen zwischen der
+Einstellung in den Vorbereitungsdienst und in das Beamtenverhältnis auf Probe bestehen. Regelmäßig sind Ausnahmemöglichkeiten bei Überschreiten der jeweiligen
+Altersgrenzen vorgesehen, die an verschiedene Voraussetzungen geknüpft und teilweise in das Ermessen des Dienstherrn gestellt sind.
+
+ aa) Baden-Württemberg bestimmt in § 48 Abs. 1 Satz 1 der Landeshaushaltsordnung (LHO) vom 19. Oktober 1971 (GBl S. 428), geändert durch Artikel 2 des Gesetzes vom 1. März 2010 (GBl S. 265), eine grundsätzliche Einstellungshöchstaltersgrenze von 42 Jahren für Beamte und Richter. Die Laufbahnvorschriften, die zum Teil
+deutlich niedrigere Einstellungshöchstaltersgrenzen bestimmten, wurden aufgehoben (Art. 63 Abs. 1 Satz 2 Nr. 5 des Gesetzes zur Reform des öffentlichen Dienstrechts vom 9. November 2010 <GBl S. 793>).
+
+ bb) In Bayern sind die Einstellungshöchstaltersgrenzen unmittelbar im Landesbeamtengesetz geregelt und werden dort auf 45 Jahre festgelegt (Art. 23 Abs. 1 Satz 1
+des Bayerischen Beamtengesetzes vom 29. Juli 2008 <GVBl S. 500>).
+
+  cc) Nach § 29 Abs. 1 Satz 2 des Gesetzes über die Laufbahnen der Beamtinnen         16
+und Beamten des Landes Berlin vom 21. Juni 2011 (GVBl S. 266) können Rechtsverordnungen über die Laufbahnen auch Höchstaltersgrenzen für die Einstellung in den
+Vorbereitungsdienst bestimmen. Nach § 48 der Landeshaushaltsordnung (LHO) Berlin in der Fassung vom 30. Januar 2009 (GVBl S. 31, 486) bedürfen Einstellung und
+Versetzung von Beamten in den Dienst Berlins der Einwilligung der für Inneres zuständigen Senatsverwaltung, wenn der Bewerber ein vom Senat allgemein festzusetzendes Lebensalter überschritten hat, welches in den Ausführungsvorschriften zur
+
+
+                                       12/36
+
+Landeshaushaltsordnung mit 50 Jahren angegeben ist (Nr. 1 zu § 48 LHO).
+
+ dd) In Brandenburg ist die Höchstaltersgrenze für die Einstellung von Beamten in      17
+den Vorbereitungsdienst auf 32 Jahre gemäß § 19 Abs. 1 Satz 1 der Verordnung
+über die Laufbahnen der Beamten des Landes Brandenburg vom 16. September
+2009 (GVBl II S. 622) festgelegt, die auf der Grundlage von § 25 des Beamtengesetzes für das Land Brandenburg vom 3. April 2009 (GVBl I S. 26) als „Vorschriften über
+die Laufbahnen“ erlassen wurde. § 3 Abs. 2 Satz 1 des Beamtengesetzes in der Fassung des Gesetzes über ergänzende Regelungen zur Neuordnung des Beamtenrechts im Land Brandenburg vom 5. Dezember 2013 (GVBl I S. 1) sieht als Voraussetzung für die Berufung in das Beamtenverhältnis allgemein ein Höchstalter von 47
+Jahren vor.
+
+ ee) Bremen setzt im Laufbahnrecht für den Vorbereitungsdienst ein Einstellungshöchstalter von 40 Jahren fest (§ 17 Abs. 2 Satz 1 der Verordnung über die Laufbahnen der bremischen Beamtinnen und Beamten vom 9. März 2010 <GBl S. 249>).
+§ 25 des Bremischen Beamtengesetzes vom 22. Dezember 2009 (GBl 2010, S. 17)
+ermächtigt zum Erlass von Vorschriften für die Gestaltung der Laufbahnen.
+
+ ff) In Hamburg gelten Einstellungshöchstaltersgrenzen von 45 Jahren für das Beamtenverhältnis auf Probe beziehungsweise von 40 Jahren für den Vorbereitungsdienst (§ 5 Abs. 1, § 11 Abs. 1 Satz 1 der Verordnung über die Laufbahnen der
+hamburgischen Beamtinnen und Beamten vom 22. Dezember 2009 <GVBl
+S. 511>). Gemäß der entsprechenden Ermächtigungsgrundlage (§ 25 Satz 1 des
+Hamburgischen Beamtengesetzes vom 15. Dezember 2009 <GVBl S. 405>) erlässt
+der Senat durch Rechtsverordnung Vorschriften über die Laufbahnen, wobei unter
+anderem Altersgrenzen für die Einstellung in einen Vorbereitungsdienst und in ein
+Beamtenverhältnis auf Probe geregelt werden sollen (§ 25 Satz 2 Nr. 4).
+
+  gg) In Hessen legte die Laufbahnverordnung bis zum Februar 2014 für Beamte ein       20
+Einstellungshöchstalter von 35 Jahren für den Vorbereitungsdienst des mittleren, gehobenen und höheren Dienstes fest (§ 13 Abs. 1 Satz 1, § 15 Abs. 1 Satz 1 und § 17
+Abs. 1 Satz 1 der Hessischen Laufbahnverordnung vom 18. Dezember 1979 <GVBl
+S. 266>). In der Neuregelung der Hessischen Laufbahnverordnung vom 17. Februar
+2014 (GVBl S. 57) ist eine allgemeine Altersgrenze für die Einstellung in das Beamtenverhältnis von 50 Jahren vorgesehen (§ 11 Abs. 1 Satz 1). § 23 Abs. 2 Nr. 4 und 5
+des Hessischen Beamtengesetzes in der Fassung vom 27. Mai 2013 (GVBl S. 218)
+ermöglicht die Festsetzung von Höchstaltersgrenzen für die Einstellung und Versetzung von Beamten sowie die Einstellung in den Vorbereitungsdienst.
+
+ hh) Mecklenburg-Vorpommern sieht ein Einstellungshöchstalter von 40 Jahren allgemein für die Einstellung als Beamter auf Probe vor (§ 26 Abs. 1 Satz 1 der Landesverordnung über die Laufbahnen der Beamtinnen und Beamten in Mecklenburg-Vorpommern vom 29. September 2010 <GVBl S. 565> in der Fassung der
+Änderungsverordnung vom 16. Juni 2014 <GVBl S. 297>). Mit Wirkung zum 1. November 2014 wurden die Höchstaltersgrenzen für den Vorbereitungsdienst in § 8a
+
+
+                                        13/36
+
+der Verordnung auf 35 Jahre festgelegt (GVBl S. 297). § 25 des Beamtengesetzes
+für das Land Mecklenburg-Vorpommern vom 17. Dezember 2009 (GVBl S. 687) ermächtigt allgemein zum Erlass von Vorschriften für die Gestaltung der Laufbahnen.
+Gesondert geregelt wird für die Verbeamtung von Lehrkräften eine Altersgrenze von
+40 Jahren in § 7 Abs. 1 Satz 1 der Verordnung über die Laufbahnen der Fachrichtung Bildungsdienst im Land Mecklenburg-Vorpommern vom 21. Januar 2014 (GVBl
+S. 39).
+
+ ii) Niedersachsen sieht Einstellungshöchstaltersgrenzen von 40 Jahren für den Vorbereitungsdienst und von 45 Jahren für das Beamtenverhältnis auf Probe vor (§ 16
+Abs. 1 Satz 1, Abs. 2 Satz 1 der Niedersächsischen Laufbahnverordnung vom 30.
+März 2009 <GVBl S. 118>). Nach der Ermächtigungsgrundlage (§ 25 Nr. 8 des Niedersächsischen Beamtengesetzes vom 25. März 2009 <GVBl S. 72>) regelt die Landesregierung durch Verordnung Höchstaltersgrenzen für die Einstellung in einen Vorbereitungsdienst und in ein Beamtenverhältnis auf Probe.
+
+  jj) In Rheinland-Pfalz werden die Einstellungshöchstaltersgrenzen unmittelbar im      23
+Landesbeamtengesetz geregelt und für das Beamtenverhältnis auf Probe oder auf
+Lebenszeit gemäß § 19 Abs. 1 Satz 1 des Landesbeamtengesetzes von Rheinland-Pfalz vom 20. Oktober 2010 (GVBl S. 319) auf 45 Jahre festgelegt. Für den Vorbereitungsdienst (Beamtenverhältnis auf Widerruf) gilt eine Altersgrenze von 40 Jahren
+(§ 19 Abs. 1 Satz 2).
+
+ kk) Im Saarland bestimmt § 12 Abs. 1 Nr. 1 der Verordnung über die Laufbahnen          24
+der Beamtinnen und Beamten im Saarland vom 27. September 2011 (Amtsbl. I S.
+312) eine Einstellungshöchstaltersgrenze von 40 Jahren für das Beamtenverhältnis
+auf Probe. Die Ermächtigungsgrundlage (§ 9 Abs. 1 des Saarländischen Beamtengesetzes vom 11. März 2009 <Amtsbl. S. 514>) sieht den Erlass von Vorschriften über
+die Laufbahnen vor.
+
+  ll) Sachsen normierte bis Oktober 2014 eine Einstellungshöchstaltersgrenze von 32     25
+Jahren für den Vorbereitungsdienst des mittleren, gehobenen und höheren Dienstes
+in § 17 Abs. 1, § 21 Abs. 1, § 26 Abs. 1 der Verordnung der Sächsischen Staatsregierung über die Laufbahnen der Beamten und Richter im Freistaat Sachsen vom 28.
+Juli 2009 (GVBl S. 458). Die Neufassung der Laufbahnverordnung vom 16. September 2014 (GVBl S. 530, 532) sieht Einstellungshöchstaltersgrenzen von 35 Jahren für
+den Vorbereitungsdienst und die Berufung in das Beamtenverhältnis auf Probe für
+die Fachrichtung Polizei vor (§ 31 Abs. 3 und 4). Aufgrund Artikel 1 des Gesetzes zur
+Neuordnung des Dienst-, Besoldungs- und Versorgungsrechts im Freistaat Sachsen
+vom 18. Dezember 2013 (GVBl S. 970) ist in § 7 Abs. 1 Satz 1 des Sächsischen Beamtengesetzes für die Berufung in das Beamtenverhältnis eine allgemeine Altersgrenze von 47 Jahren vorgesehen.
+
+ mm) In Sachsen-Anhalt gilt ein Einstellungshöchstalter von 45 Jahren für das Beamtenverhältnis auf Probe oder auf Lebenszeit (§ 5 Abs. 1 Satz 1 der Verordnung
+über die Laufbahnen der Beamtinnen und Beamten im Land Sachsen-Anhalt vom
+
+
+                                        14/36
+
+27. Januar 2010 <GVBl S. 12>). Nach § 27 Satz 1 des Beamtengesetzes des Landes
+Sachsen-Anhalt vom 15. Dezember 2009 (GVBl S. 648) regelt die Landesregierung
+„durch Verordnung die Laufbahnen“. Nach § 27 Satz 3 kann für die Einstellung in das
+Beamtenverhältnis auf Probe und das Beamtenverhältnis auf Lebenszeit eine Altersgrenze festgelegt werden.
+
+  nn) Schleswig-Holstein sieht im Haushaltsrecht einen Einwilligungsvorbehalt des Finanzministeriums bei Überschreiten eines Alters von 45 Jahren bei Einstellung von
+Beamtinnen und Beamten in den Landesdienst vor (§ 48 Abs. 1 der Landeshaushaltsordnung in der Fassung der Bekanntmachung vom 29. Juni 1992 <GVBl
+S. 381>). Die Landesverordnung über die Laufbahnen der Beamtinnen und Beamten
+in Schleswig-Holstein vom 19. Mai 2009 (GVBl S. 236) beinhaltet keine Höchstaltersgrenzen, dafür ist in § 14 Abs. 1 Satz 2 Nr. 2 der Landesverordnung über die Laufbahnen der Lehrerinnen und Lehrer vom 30. Januar 1998 (GVBl S. 125) gesondert
+eine Altersgrenze von 45 Jahren für das Beamtenverhältnis auf Probe vorgesehen.
+
+  oo) In Thüringen galt im höheren Dienst bis Ende 2014 eine Höchstaltersgrenze für     28
+den Vorbereitungsdienst von 32 Jahren (§ 35 Nr. 1 der Thüringer Verordnung über
+die Laufbahnen der Beamten vom 7. Dezember 1995 <GVBl S. 382>) auf der Grundlage von § 13 Abs. 1 des Thüringer Beamtengesetzes vom 20. März 2009 (GVBl
+S. 238). Nach § 7 Abs. 1 Satz 1 des Thüringer Gesetzes über die Laufbahnen der Beamten vom 12. August 2014 (GVBl S. 472, 498) mit Wirkung zum 1. Januar 2015 dürfen Bewerber bei der Einstellung in ein Beamtenverhältnis auf Probe „das Lebensjahr, das 20 Jahre vor dem in der jeweiligen Laufbahn gesetzlich festgelegten
+Zeitpunkt des Eintritts in den Ruhestand wegen Erreichens der Altersgrenze liegt,
+noch nicht vollendet haben“.
+
+ e) Auf der Ebene der Europäischen Union wurde die ursprünglich vorgesehene             29
+Höchstaltersgrenze von 45 Jahren bei von der Kommission durchgeführten Auswahlverfahren ab dem 10. April 2002 abgeschafft: Die Charta der Grundrechte der Europäischen Union (Grundrechtecharta - EuGRCh) verbiete Altersgrenzen, weil damit eine Diskriminierung wegen des Alters verbunden sei. Die Kommission tritt für die
+Abschaffung von Altersgrenzen in allen europäischen Organen ein (vgl. die Personalreform der Europäischen Kommission, „Eine Verwaltung im Dienst einer halben Milliarde europäischer Bürger“, abgerufen am 25. Februar 2015 unter
+(http://ec.europa.eu/reform/2002/documents/staff_reform_2002_de.pdf, S. 7).
+
+                                         II.
+ 1. a) Der Beschwerdeführer zu I. ist 1963 geboren. Er übte zunächst den Beruf des      30
+Gestalters aus und studierte von 1991 bis 1997 Malerei und Grafik. Im Anschluss an
+die Diplomprüfung war er als Theaterdekorierer, Handweber und Textilgestalter tätig.
+Nach Anerkennung seines Diploms als Erste Staatsprüfung für das Lehramt an Berufskollegs (Fächer: Gestaltungstechnik und Kunst) wurde er im Jahr 2004 im öffentlichen Schuldienst des Landes Nordrhein-Westfalen angestellt. Von 2005 bis 2007 absolvierte er den berufsbegleitenden Vorbereitungsdienst für das Lehramt an
+
+
+                                        15/36
+
+Berufskollegs und schloss diesen mit der Zweiten Staatsprüfung ab. Im Anschluss
+wurde er als angestellter Lehrer beschäftigt.
+
+  b) Nach dem Urteil des Bundesverwaltungsgerichts vom 19. Februar 2009 (BVerw-           31
+GE 133, 143) beantragte der Beschwerdeführer zu I. im Mai 2009 - in seinem 47. Lebensjahr - die Übernahme in das Beamtenverhältnis auf Probe. Die Bezirksregierung
+lehnte den Antrag im Oktober 2009 mit Bezug auf die Neuregelung der Laufbahnverordnung ab. Die hiergegen erhobene Klage wies das Verwaltungsgericht Gelsenkirchen durch Urteil vom 10. November 2010 - 1 K 5181/09 - unter Hinweis auf das
+Überschreiten der laufbahnrechtlichen Höchstaltersgrenze ab.
+
+  c) Die dagegen gerichtete Sprungrevision des Beschwerdeführers zu I. wies das           32
+Bundesverwaltungsgericht mit Urteil vom 23. Februar 2012 - 2 C 79.10 - (juris) als unbegründet zurück. Der Antrag auf Verbeamtung sei zwar früher gestellt worden, aber
+dennoch nach der am 18. Juli 2009 in Kraft getretenen Neuregelung der Höchstaltersgrenzen zu beurteilen. Maßgeblich sei das im Zeitpunkt der gerichtlichen Entscheidung anwendbare Recht. § 6, § 52 Abs. 1, § 84 Abs. 2 LVO 2009 stünden in
+Einklang mit Verfassungs- und Unionsrecht. Der vom Lebensalter abhängige Zugang
+zur Lehrerlaufbahn knüpfe zwar an ein nicht von Art. 33 Abs. 2 GG gedecktes Kriterium an. Das aus dem Lebenszeit- und Alimentationsprinzip des Art. 33 Abs. 5 GG folgende Interesse des Dienstherrn an einem ausgewogenen zeitlichen Verhältnis zwischen Dienst- und Ruhestandszeit rechtfertige jedoch die Einschränkung des
+Leistungsgrundsatzes. Die durch Art. 33 Abs. 5 GG geschützte Ausstattung der Altersversorgung und ihr Zusammenhang mit der auf das gesamte Berufsleben ausgerichteten Dienstleistungspflicht des Beamten verliehen dem Interesse an angemessen langen Dienstzeiten einen verfassungsrechtlichen Stellenwert. Die Festlegung
+der angemessenen Lebensdienstzeit bis zur Altersversorgung sei Sache des Gesetzbeziehungsweise Verordnungsgebers, dem ein weiter Einschätzungsspielraum zustehe: Die Altersgrenzen für die Einstellung in das Beamtenverhältnis und für den
+Eintritt in den Ruhestand verfolgten dabei dieselbe Zielsetzung, so dass sich die für
+ihre Rechtfertigung bedeutsamen Erwägungen deckten. Die Dienstzeit von ungefähr
+20 Jahren, die derzeit für die Erdienung des nach fünf Dienstjahren gewährten Mindestruhegehalts erforderlich sei, stelle eine Orientierungshilfe für die Bestimmung der
+Einstellungshöchstaltersgrenze dar. Deren Festlegung könne der Gesetzgeber auf
+den Verordnungsgeber übertragen: Die gesetzliche Ermächtigung des § 5 Abs. 1
+LBG genüge dem Vorbehalt des Parlamentsgesetzes, da Regelungen über Höchstaltersgrenzen herkömmlicherweise zum Laufbahnwesen der Beamten zählten. Die in
+der Laufbahnverordnung festgelegte Höchstaltersgrenze eröffne mit einem zeitlichen
+Korridor von mehr als zehn Jahren in ausreichendem Maße auch Bewerbern mit außergewöhnlichem Lebensweg die Möglichkeit der Verbeamtung. Die Ausnahmeregelungen seien inhaltlich hinreichend konkretisiert und genügten dem Gebot der Normenklarheit.
+
+ 2. a) Die 1959 geborene Beschwerdeführerin zu II. legte 1984 die Erste und 1987          33
+die Zweite Staatsprüfung für das Lehramt (Sekundarstufe I und II) ab. Nach Kinderer-
+
+
+                                         16/36
+
+ziehungszeiten war sie ab 1992 zunächst befristet, ab 1995 unbefristet als Lehrkraft
+im katholischen Ersatzschuldienst tätig. Seit 2001 ist die Beschwerdeführerin im
+Schuldienst des Landes angestellt. Ein Antrag auf Übernahme in das Beamtenverhältnis auf Probe im Jahr 2004 blieb erfolglos. Derzeit ist die Beschwerdeführerin an
+einem Gymnasium tätig.
+
+ b) Nach dem Urteil des Bundesverwaltungsgerichts vom 19. Februar 2009 (BVerw-          34
+GE 133, 143) beantragte sie im Mai 2009 - in ihrem 50. Lebensjahr - erneut die Übernahme in das Beamtenverhältnis auf Probe. Die Bezirksregierung lehnte den Antrag
+mit Bezug auf die neu gefasste Laufbahnverordnung im August 2009 ab. Die hiergegen erhobene Klage wies das Verwaltungsgericht Köln mit Urteil vom 7. Juli 2010 - 3
+K 5879/09 - unter Verweis auf die laufbahnrechtliche Höchstaltersgrenze ab. Die von
+dem Verwaltungsgericht zugelassene Berufung der Beschwerdeführerin wies das
+Oberverwaltungsgericht des Landes Nordrhein-Westfalen mit Beschluss vom 2. Dezember 2010 - 6 A 1695/10 - auf der Grundlage von § 130a VwGO als unbegründet
+zurück. Maßgeblich sei die Sach- und Rechtslage im Zeitpunkt der gerichtlichen Entscheidung. Die Beschwerdeführerin habe nach dem Urteil des Bundesverwaltungsgerichts vom 19. Februar 2009 nicht darauf vertrauen dürfen, das Land werde keine
+neue Höchstaltersgrenze regeln. Die Neuregelung sei mit höherrangigem Recht vereinbar und wirksam.
+
+  c) Die Beschwerde gegen die Nichtzulassung der Revision hatte keinen Erfolg (Beschluss des Bundesverwaltungsgerichts vom 26. März 2012 - 2 B 26.11 -, juris). § 5
+Abs. 1 Satz 1 LBG genüge dem Vorbehalt des Parlamentsgesetzes und umfasse die
+Regelung von Höchstaltersgrenzen, die herkömmlicherweise zum Laufbahnwesen
+der Beamten zählten. Die Neuregelung der Laufbahnverordnung ermögliche eine
+Überschreitung der Altersgrenze in typischen Fällen, ohne sie in das Ermessen der
+Verwaltung zu stellen (§ 6 LVO 2009). Auch die zusätzlichen Ausnahmeregelungen
+in Einzelfällen (§ 84 Abs. 2 LVO 2009) genügten dem Gebot der Normenklarheit, ohne dass im Revisionsverfahren alle einzelfallbezogenen Aspekte der Rechtsanwendung geklärt werden könnten. Eine Verpflichtung des Verordnungsgebers, die Ausnahmeregelungen auf die berufliche Tätigkeit an einer Ersatzschule zu erweitern, sei
+nicht ersichtlich. Höchstaltersgrenzen stellten eine Ungleichbehandlung wegen des
+Alters dar, die durch das Interesse des Dienstherrn an einem ausgewogenen Verhältnis zwischen Lebensdienst- und Ruhestandszeit gerechtfertigt und auch unionsrechtlich im Hinblick auf Art. 6 Abs. 1 Satz 2 Buchstabe c der Richtlinie 2000/78/EG des
+Rates vom 27. November 2000 zur Festlegung eines allgemeinen Rahmens für die
+Verwirklichung der Gleichbehandlung in Beschäftigung und Beruf (ABl. L 303 vom 2.
+Dezember 2000, S. 16 ff.; im Folgenden: RL 2000/78/EG oder Richtlinie 2000/78/EG)
+zulässig sei.
+
+                                         III.
+ 1. Die Verfassungsbeschwerde des Beschwerdeführers zu I. richtet sich unmittelbar      36
+gegen die verwaltungsgerichtlichen Entscheidungen sowie den Bescheid der Be-
+
+
+                                        17/36
+
+zirksregierung, mittelbar gegen § 6, § 52 Abs. 1 und § 84 Abs. 2 LVO 2009. Der Beschwerdeführer rügt die Verletzung von Art. 3 Abs. 1 GG sowie Art. 33 Abs. 2 und
+Abs. 4 GG.
+
+  Er ist der Auffassung, die Neuregelung sei verfassungs- und unionsrechtswidrig.      37
+Die Höchstaltersgrenze beeinträchtige den Leistungsgrundsatz aus Art. 33 Abs. 2
+GG, da sie älteren Bewerbern den Zugang zum Amt verwehre. Sie sei zudem unvereinbar mit Unionsrecht, weil sie nicht im Sinne von Art. 6 Abs. 1 Satz 2 Buchstabe c
+RL 2000/78/EG „notwendig“ sei. Eine Höchstaltersgrenze schließe den Bewerber
+endgültig von dem angestrebten Beruf aus, ohne dass er dies beeinflussen könne.
+Dies sei weder mit Pensionsgrenzen noch mit Höchstaltersgrenzen wegen besonderer körperlicher Anforderungen, zum Beispiel für Polizeibeamte oder Feuerwehrleute,
+vergleichbar. Unentbehrlich sei die Festlegung eines Einstellungshöchstalters gerade nicht. Dies zeige die Abschaffung der Altershöchstgrenzen im Bundesbeamtendienst. Auch eine Anpassung des Versorgungsrechts sei möglich. Die rein fiskalischen Interessen des Dienstherrn an einer Begrenzung der Versorgungslast
+rechtfertigten den Verstoß gegen Art. 33 Abs. 2 GG nicht. Auch sei die Anrechnungsfähigkeit der Renten gemäß § 55 Abs. 2 des Landesbeamtenversorgungsgesetzes
+(LBeamtVG) zu berücksichtigen. Die Schaffung und Erhaltung ausgewogener Altersstrukturen könne die Höchstaltersgrenzen schon deswegen nicht rechtfertigen, weil
+das Land eine große Anzahl von Lehrern im Angestelltenverhältnis beschäftige. Der
+Verordnungsgeber habe bei der Neuregelung der Laufbahnverordnung die widerstreitenden Verfassungsgüter nicht ausreichend gewichtet. Insbesondere werde die
+Festlegung der konkreten Altersgrenze nicht hinreichend begründet.
+
+ 2. Die Beschwerdeführerin zu II. wendet sich mit ihrer Verfassungsbeschwerde gegen die verwaltungsgerichtlichen Entscheidungen und den Bescheid der Bezirksregierung sowie mittelbar gegen § 6 Abs. 1 Satz 1, § 52 Abs. 1 und § 84 Abs. 2 LVO in
+der seit dem 18. Juli 2009 geltenden Fassung. Sie rügt mit ihrer Verfassungsbeschwerde die Verletzung von Art. 33 Abs. 2 GG, Art. 3 Abs. 1 GG, Art. 2 Abs. 1 GG in
+Verbindung mit Art. 80 und Art. 20 Abs. 1 und 3 GG, Art. 19 Abs. 4 GG sowie Art. 103
+Abs. 1 GG und Art. 101 Abs. 1 Satz 2 GG.
+
+  Die Laufbahnverordnung sei verfassungswidrig. Zur Regelung von Höchstaltersgrenzen wäre aufgrund der damit verbundenen Grundrechtseingriffe und des Verbots
+der Altersdiskriminierung ein Parlamentsgesetz erforderlich gewesen. § 5 Abs. 1
+LBG stelle auch keine wirksame Ermächtigungsgrundlage dar, da die Vorschrift sich
+nicht mit dem Verbot der Altersdiskriminierung befasse und zu unbestimmt sei. Die
+Altersgrenze stelle im Rahmen von Art. 33 Abs. 2 GG eine eignungswidrige Ungleichbehandlung dar, die nicht durch kollidierendes Verfassungsrecht, insbesondere hergebrachte Grundsätze des Berufsbeamtentums, gerechtfertigt werde. Eine möglichst
+lange aktive Dienstzeit sei angesichts der Lebens- und Berufserfahrung langjährig
+angestellter Lehrer nicht geboten. Das angemessene Verhältnis zwischen Arbeitsleistung und Versorgungsansprüchen sei aufgrund der Anrechnung der Rentenansprüche langjährig angestellter Lehrer gemäß § 14 Abs. 5 LBeamtVG gewährleistet.
+
+
+                                        18/36
+
+Das Lebenszeitprinzip diene allein der Sicherung der Unabhängigkeit des Beamten,
+gewährleiste aber nicht eine bestimmte Dauer oder einen möglichst frühen Beginn
+des Beamtendaseins. Der Zweck der sparsamen Haushaltsführung dürfe nicht zu einer Diskriminierung beitragen. Eine plausible und nachvollziehbare Planung bezüglich ausgewogener Altersstrukturen im öffentlichen Dienst von Nordrhein-Westfalen
+existiere nicht. Nach alledem erfordere das Problem der Altersdiskriminierung eine
+Bewältigung durch den Gesetzgeber, insbesondere im Hinblick auf Art. 33 Abs. 2
+GG.
+
+                                        IV.
+  Zu den Verfassungsbeschwerden haben die Landesregierung Nordrhein-                  40
+Westfalen, der Deutsche Beamtenbund (dbb - beamtenbund und tarifunion), der
+Christliche Gewerkschaftsbund Deutschlands (CGB) gemeinsam mit dem Verein katholischer deutscher Lehrerinnen (VkdL) sowie die Vereinigung der KorrekturfachlehrerInnen e.V. Stellung genommen.
+
+  1. a) Die Landesregierung Nordrhein-Westfalen hält die Verfassungsbeschwerden       41
+für unbegründet. § 5 Abs. 1 LBG sei als hinreichende Ermächtigungsgrundlage für
+die Festlegung von Höchstaltersgrenzen in der Laufbahnverordnung anzusehen. Es
+begegne keinen verfassungsrechtlichen Bedenken, die Höchstaltersgrenzen nicht
+durch ein formelles Gesetz, sondern durch Rechtsverordnung festzulegen. Die Norm
+ermächtige die Landesregierung nicht nur zum Erlass von Vorschriften über die Laufbahnen der Beamten im Sinne einer Handlungserlaubnis; vielmehr handele es sich
+nach dem eindeutigen Wortlaut um einen Auftrag des Gesetzgebers an die Landesregierung, eine Laufbahnverordnung zu erlassen.
+
+ b) In Nordrhein-Westfalen habe zu keinem Zeitpunkt eine durch Parlamentsgesetz       42
+unmittelbar verankerte Höchstaltersgrenze für die Übernahme in das Beamtenverhältnis auf Probe bestanden; vielmehr sei die Festlegung der Altersgrenzen jeweils
+durch Rechtsverordnung erfolgt, die sich auf wechselnde gesetzliche Ermächtigungen in den einschlägigen Beamtengesetzen gestützt hätten. Altersgrenzen für die
+Übernahme in das Beamtenverhältnis auf Probe in Nordrhein-Westfalen gehörten
+zum tradierten Kernbestand des durch Laufbahnverordnung konkretisierten Laufbahnrechts. Dieser Befund korrespondiere mit der Rechtslage in anderen Bundesländern. In der Mehrzahl der Länder existierten Höchstaltersgrenzen, die entweder in
+den Beamtengesetzen selbst oder auf der Grundlage landesgesetzlicher Ermächtigungen in den Laufbahnverordnungen festgelegt worden seien.
+
+  c) Der Verordnungsgeber sei bei der Neuregelung veranlasst gewesen, eine sorgfältige Abwägung der widerstreitenden Gesichtspunkte vorzunehmen. In Nordrhein-Westfalen seien Lehrerinnen und Lehrer an öffentlichen Schulen aufgrund der Regelung des § 57 Abs. 5 Satz 2 SchulG überwiegend, jedoch nicht ausschließlich im
+Beamtenverhältnis beschäftigt. Im Schuljahr 2012/13 seien von insgesamt 200.244
+Lehrkräften 77,2 % (154.667) Beamte gewesen, die übrigen seien im Angestelltenverhältnis oder mit Gestellungsverträgen tätig gewesen. Hinsichtlich der Gründe,
+
+
+                                       19/36
+
+weshalb im Einzelfall keine Verbeamtung erfolgt sei, zeige sich ein differenziertes
+Bild. Neben der Beschäftigung von Lehrkräften, die die Altersgrenze für eine Übernahme in das Beamtenverhältnis auf Probe überschritten hätten und bei denen
+weder anerkannte Verzögerungsgründe noch ein sonstiger Ausnahmetatbestand
+vorlägen, könnten das Fehlen einer vollständigen Lehramtsbefähigung, befristete Beschäftigung oder andere Gründe zum Tragen kommen. Genauere Erhebungen hierzu existierten nicht.
+
+ d) Prägende Strukturmerkmale des Berufsbeamtentums seien nach der gefestigten           44
+Rechtsprechung des Bundesverfassungsgerichts neben der Verankerung des besonderen Dienst- und Treueverhältnisses vor allem die hauptberufliche Beschäftigung auf Lebenszeit und das hiermit korrespondierende Alimentationsprinzip. Die
+hauptberufliche Beschäftigung auf Lebenszeit setze regelmäßig voraus, dass der Beamtenstatus nicht irgendwann und nur kurzzeitig, sondern mit einer auf die überwiegende Zeitspanne der ausgeübten Berufstätigkeit ausgerichteten Perspektive verliehen werde. Das Alimentationsprinzip beinhalte die Elemente Dienstbezüge,
+Ruhegehalt und Hinterbliebenenversorgung. Bei ihnen handele es sich um die vom
+Staat festzulegende Gegenleistung des Dienstherrn dafür, dass sich der Beamte ihm
+zur Verfügung stelle und seine Dienstpflichten nach Kräften erfülle. Zwischen der
+Dauer der Dienstleistung und dem Anspruch auf amtsangemessene Alimentation bestehe ein notwendiger und unauflöslicher Zusammenhang, so dass dem Anspruch
+auf Versorgung ein Mindestmaß an nachhaltiger Dienstleistung entsprechen müsse.
+Die konkrete Altersgrenze müsse dabei den widerstreitenden Verfassungsprinzipien
+des Art. 33 Abs. 2 und Abs. 5 GG gerecht werden. Insbesondere seien hierbei die
+zeitliche Relation zwischen aktiver Dienstzeit und Ruhestandszeit sowie Haushaltsmehraufwendungen zu bedenken.
+
+  2. a) Der Deutsche Beamtenbund (dbb - beamtenbund und tarifunion) hält die             45
+Höchstaltersgrenzen für verfassungs- und unionsrechtlich zulässig, sofern bestimmte
+Maßgaben beachtet würden. Altersmäßige Begrenzungen für die Ernennung zum
+Beamten stünden grundsätzlich im Konflikt zum Leistungsgrundsatz des Art. 33
+Abs. 2 GG. Eine Korrektur dieses Prinzips sei nur durch eine gleichrangige, das heißt
+ebenfalls verfassungsmäßige Regelung möglich. Diese liege in Art. 33 Abs. 5 GG
+und in den dort verankerten hergebrachten Grundsätzen des Berufsbeamtentums,
+hier konkret dem Lebenszeitprinzip. Im Wege der praktischen Konkordanz müssten
+beide Prinzipien zum Ausgleich gebracht werden. Das bedeute, dass im aktiven
+Dienstverhältnis mindestens der Zeitraum verbracht werden müsse, innerhalb dessen die sogenannte Mindestversorgung erdient werde. Dies werde über das Einstellungshöchstalter realisiert. Bei der Festlegung von Altersgrenzen seien allerdings besondere, vom Regelfall abweichende berufliche Verläufe oder familiäre Aspekte,
+insbesondere Kindererziehung, zu berücksichtigen. Das Lebenszeitprinzip als hergebrachter Grundsatz des Berufsbeamtentums im Sinne des Art. 33 Abs. 5 GG gewährleiste unter anderem die rechtliche und wirtschaftliche Unabhängigkeit des Beamten.
+Zu diesem Zweck sei das Beamtenverhältnis ein auf Lebenszeit angelegtes Dienst-
+
+
+
+                                         20/36
+
+und Treueverhältnis, das den Schutz der auf Lebenszeit berufenen Beamten vor
+Entlassung sowie im Zusammenwirken mit dem Alimentationsprinzip die amtsangemessene Besoldung und lebenslange Versorgung sichere, was sich unter anderem aus der Entscheidung des Zweiten Senats vom 28. Mai 2008 - 2 BvL 11/07 -
+(BVerfGE 121, 205) ergebe. Lebenslange Versorgung und die auf das Berufsleben
+ausgerichtete Dienstleistungspflicht der Beamtinnen und Beamten verliehen dem Interesse an angemessen langer „echter Dienstzeit“ vor dem Eintritt in den Ruhestand
+einen verfassungsrechtlichen Stellenwert. Problematisch sei allerdings, wo diese Altersgrenze zu liegen habe. Zunehmend bestehe ein Bedürfnis nach einem flexibleren
+Rahmen für die Einstellung auch für untypische Biografien. Die Gymnasien würden
+zukünftig darauf angewiesen sein, auch attraktiv für Nachwuchskräfte aus den Universitäten und aus der Wirtschaft zu sein, die häufig eine Höchstgrenze von 40 oder
+nur 35 Jahren für eine Verbeamtung überschritten hätten.
+
+  b) Die Altersgrenze müsse aber auch ein angemessenes Verhältnis zwischen der           46
+Dienstzeit des Beamten und dem Anspruch auf Versorgung während des Ruhestands gewährleisten, um dem Lebenszeit- beziehungsweise Alimentationsprinzip
+gemäß Art. 33 Abs. 5 GG gerecht zu werden. Maßgeblich sollte der Zeitraum sein,
+der erforderlich sei, um das Mindestruhegehalt nach § 14 Abs. 4 Satz 1 LBeamtVG
+zu erdienen. Die Mindestversorgung beruhe auf dem Alimentationsprinzip und solle
+auf der Basis des prinzipiell auf Lebenszeit angelegten Dienstverhältnisses die Existenz des Beamten und seiner Angehörigen sichern. In Anwendung des Gleichbehandlungsgrundsatzes erscheine es notwendig, über das Einstellungshöchstalter sicherzustellen, dass die Mindestversorgung durch Dienstzeiten gedeckt sei. Demnach
+sei die Höchstaltersgrenze an der Regelaltersgrenze von 67 Jahren zu messen.
+
+  3. Der Verein katholischer deutscher Lehrerinnen (VkdL) hat gemeinsam mit dem          47
+Christlichen Gewerkschaftsbund Deutschlands (CGB) Stellung genommen. Die in
+der Laufbahnverordnung Nordrhein-Westfalen festgelegte Höchstaltersgrenze bezüglich der Verbeamtung von Lehrkräften verstoße gegen Verfassungsrecht. Gleiches gelte für die verwaltungsgerichtlichen und sonstigen Entscheidungen, die in Anwendung dieser Normen getroffen worden seien. Insbesondere seien diese Normen
+als Verstoß gegen die Wesentlichkeitsrechtsprechung des Bundesverfassungsgerichts sowie gegen Art. 33 Abs. 2, Art. 20 Abs. 3, Art. 3 und Art. 80 GG anzusehen.
+Die Übertragung der Regelungsbefugnis auf die Exekutive sei hinsichtlich der beamtenrechtlichen Höchstaltersgrenzen sachlich unangemessen und nicht verfassungskonform. Der Grundrechtsbezug der infrage stehenden Normen sei im Hinblick auf eine mögliche Diskriminierung aufgrund des Alters und aufgrund des Geschlechts (Art.
+3 Abs. 1, Art. 33 Abs. 2 GG) offensichtlich und erfordere allein aus diesem Grunde eine Regelung durch ein Parlamentsgesetz. Die Festlegung eines Höchstalters als Zugangsvoraussetzung zu einem öffentlichen Amt stelle einen Verstoß gegen Art. 33
+Abs. 2 GG dar. Das Alter sei als taugliches Eignungskriterium abzulehnen, da es den
+Anforderungen des Amtes einer Lehrkraft grundsätzlich nicht entgegenstehe. In der
+Regel verfügten ältere Lehrkräfte aufgrund ihrer langjährigen Lebens- und Berufser-
+
+
+
+                                         21/36
+
+fahrung sogar über ein besonderes Maß an Reife, das im Lehrerberuf von Vorteil sei.
+Da die nichtbeamteten Lehrkräfte mehrheitlich bereits jahrelang als Tarifbeschäftigte
+im Schuldienst tätig gewesen seien, sei auch die Anrechnung der in diesem Rahmen
+erworbenen Rentenansprüche zu beachten.
+
+ 4. Die Vereinigung der KorrekturfachlehrerInnen e.V. schließt sich den Ausführungen in der Verfassungsbeschwerdeschrift inhaltlich an. Die derzeitige Altersgrenze
+von 40 Jahren für die Verbeamtung in Nordrhein-Westfalen sei verfassungsrechtlich
+nicht haltbar.
+
+                                         V.
+ Richter Maidowski ist in beiden Verfahren aufgrund der Mitwirkung an den jeweils       49
+angegriffenen Entscheidungen des Bundesverwaltungsgerichts von der Ausübung
+des Richteramtes gemäß § 18 Abs. 1 Nr. 2 BVerfGG ausgeschlossen.
+
+                                         B.
+  Die Verfassungsbeschwerden sind zulässig. Sie wurden insbesondere trotz geringfügiger Übertragungsfehler bei der Faxsendung innerhalb der Frist des § 93 Abs. 1
+Satz 1 BVerfGG erhoben. Der insoweit vorsorglich gestellte Wiedereinsetzungsantrag des Beschwerdeführers zu I. nach § 93 Abs. 2 BVerfGG bedarf daher keiner Entscheidung.
+
+                                         C.
+  Die Verfassungsbeschwerden sind begründet. Die durch die Verordnung über die          51
+Laufbahnen der Beamten im Lande Nordrhein-Westfalen vom 23. November 1995
+(GVBl 1996 S. 1) in der Fassung der Verordnung zur Änderung der Laufbahnverordnung und anderer dienstrechtlicher Vorschriften vom 30. Juni 2009 des Landes
+Nordrhein-Westfalen (GVBl S. 381) auf der Grundlage des § 5 Abs. 1 Satz 1 Landesbeamtengesetz Nordrhein-Westfalen in der Fassung vom 21. April 2009 (GVBl S.
+224) festgelegten Höchstaltersgrenzen für die Einstellung in das Beamtenverhältnis
+auf Probe sind mit dem Grundgesetz nicht vereinbar, weil es an einer hinreichend bestimmten Ermächtigungsgrundlage fehlt. Die Regelungen der § 6 Abs. 1 Satz 1, § 52
+Abs. 1 und § 84 Abs. 2 LVO 2009, nach denen die Einstellung aufgrund des erreichten Lebensalters verweigert werden kann, verstoßen insoweit gegen Art. 33 Abs. 2
+GG. Die auf diesen Vorschriften beruhenden gerichtlichen und behördlichen Entscheidungen verletzen daher die Beschwerdeführer in ihrem grundrechtsgleichen
+Recht aus Art. 33 Abs. 2 GG.
+
+                                         I.
+  1. a) Rechtsstaatsprinzip und Demokratiegebot verpflichten den Gesetzgeber, die       52
+für die Grundrechtsverwirklichung maßgeblichen Regelungen im Wesentlichen selbst
+zu treffen und diese nicht dem Handeln und der Entscheidungsmacht der Exekutive
+zu überlassen (vgl. BVerfGE 49, 89 <126>; 61, 260 <275>; 83, 130 <142>; 108, 282
+
+
+                                        22/36
+
+<311>; stRspr). Wann es aufgrund der Wesentlichkeit einer Entscheidung einer
+Regelung durch den parlamentarischen Gesetzgeber bedarf, hängt vom jeweiligen
+Sachbereich und der Eigenart des betroffenen Regelungsgegenstandes ab. Die
+verfassungsrechtlichen Wertungskriterien sind dabei den tragenden Prinzipien des
+Grundgesetzes, insbesondere den darin verbürgten Grundrechten zu entnehmen
+(vgl. BVerfGE 49, 89 <127>; 98, 218 <251>; 108, 282 <311>; BVerfG, Beschluss
+des Zweiten Senats vom 1. April 2014 - 2 BvF 1/12, 2 BvF 3/12 -, juris, Rn. 101
+f.). Danach bedeutet wesentlich im grundrechtsrelevanten Bereich in der Regel „wesentlich für die Verwirklichung der Grundrechte“ (vgl. BVerfGE 47, 46 <79>; 98, 218
+<251>, jeweils m.w.N.). Als wesentlich sind also Regelungen zu verstehen, die für
+die Verwirklichung von Grundrechten erhebliche Bedeutung haben (BVerfGE 95, 267
+<308>) und sie besonders intensiv betreffen (vgl. BVerfGE 58, 257 <274>). Die Tatsache, dass eine Frage politisch umstritten ist, führt dagegen für sich genommen
+nicht dazu, dass diese als wesentlich verstanden werden müsste (vgl. BVerfGE 49,
+89 <126>; 98, 218 <251>; 108, 282 <312>).
+
+  b) Eine Pflicht zum Tätigwerden des Gesetzgebers besteht insbesondere in mehrdimensionalen, komplexen Grundrechtskonstellationen, in denen miteinander konkurrierende Freiheitsrechte aufeinander treffen und deren jeweilige Grenzen fließend
+und nur schwer auszumachen sind (vgl. BVerfGE 108, 282 <311>). Eine solche
+Pflicht ist regelmäßig auch dann anzunehmen, wenn die betroffenen Grundrechte
+nach dem Wortlaut der Verfassung ohne Gesetzesvorbehalt gewährleistet sind und
+eine Regelung, welche diesen Lebensbereich ordnen will, damit notwendigerweise
+ihre verfassungsimmanenten Schranken bestimmen und konkretisieren muss. Hier
+ist der Gesetzgeber verpflichtet, die Schranken der widerstreitenden Freiheitsgarantien jedenfalls so weit selbst zu bestimmen, wie eine solche Festlegung für die Ausübung dieser Freiheitsrechte wesentlich ist (BVerfGE 83, 130 <142>; 108, 282
+<311>). Denn nach der Verfassung sind die Einschränkung von grundrechtlichen
+Freiheiten und der Ausgleich zwischen kollidierenden Grundrechten dem Parlament
+vorbehalten, um zu gewährleisten, dass Entscheidungen von solcher Tragweite aus
+einem Verfahren hervorgehen, das der Öffentlichkeit Gelegenheit bietet, ihre Auffassungen auszubilden und zu vertreten, und die Volksvertretung dazu anhält, Notwendigkeit und Ausmaß von Grundrechtseingriffen in öffentlicher Debatte zu klären (vgl.
+BVerfGE 85, 386 <403 f.>; 108, 282 <312>). Es geht darum sicherzustellen, dass die
+wesentlichen Regelungen aus einem Verfahren hervorgehen, das sich durch Transparenz auszeichnet und die Beteiligung der parlamentarischen Opposition gewährleistet (vgl. BVerfGE 95, 267 <307>). Zugleich sollen staatliche Entscheidungen möglichst richtig, das heißt von den Organen getroffen werden, die dafür nach ihrer
+Organisation, Zusammensetzung, Funktion und Verfahrensweise über die besten
+Voraussetzungen verfügen. Dieses Ziel darf nicht durch einen Gewaltenmonismus in
+Form eines umfassenden Parlamentsvorbehalts unterlaufen werden (vgl. BVerfGE
+49, 89 <125>; 68, 1 <86 f.>; 98, 218 <251 f.>).
+
+ 2. a) Grundsätzlich können zwar auch Gesetze, die zu Rechtsverordnungen und             54
+
+
+
+                                         23/36
+
+Satzungen ermächtigen, den Voraussetzungen des Gesetzesvorbehalts genügen,
+die wesentlichen Entscheidungen müssen aber durch den parlamentarischen Gesetzgeber selbst erfolgen. Die Wesentlichkeitsdoktrin beantwortet daher nicht nur die
+Frage, ob überhaupt ein bestimmter Gegenstand gesetzlich zu regeln ist. Sie ist vielmehr auch dafür maßgeblich, wie genau diese Regelungen im Einzelnen sein müssen (vgl. BVerfGE 58, 257 <277 f.>; 83, 130 <142, 152>; 102, 254 <337>). Das Erfordernis der hinreichenden Bestimmtheit der Ermächtigungsgrundlage bei Delegation
+einer Entscheidung auf den Verordnungsgeber stellt insoweit eine notwendige Ergänzung und Konkretisierung des Gesetzesvorbehalts und des Grundsatzes der Gesetzmäßigkeit der Verwaltung dar (vgl. BVerfGE 7, 282 <302 f.>; 41, 251 <265 f.>;
+48, 210 <221 ff.>; 56, 1 <13>; 58, 257 <278>).
+
+  b) Die parlamentarische Leitentscheidung ist an den rechtsstaatlichen Anforderungen des Art. 80 Abs. 1 Satz 2 GG zu messen, wonach Inhalt, Zweck und Ausmaß der
+Ermächtigung im Gesetz bestimmt werden müssen. Art. 80 Abs. 1 Satz 2 GG führt
+als eine Ausprägung des „allgemeinen Gesetzesvorbehalts“ (vgl. BVerfGE 49, 89
+<127>) den staatlichen Eingriff durch die Exekutive nachvollziehbar auf eine parlamentarische Willensäußerung zurück. Die Bestimmtheit der Ermächtigungsnorm
+muss der Grundrechtsrelevanz der Regelung entsprechen, zu der ermächtigt wird: Je
+erheblicher diese in die Rechtsstellung des Betroffenen eingreift, desto höhere Anforderungen müssen an den Bestimmtheitsgrad der Ermächtigung gestellt werden (vgl.
+BVerfGE 56, 1 <13>; 58, 257 <278>; 62, 203 <210>). Eine Ermächtigung darf daher
+nicht so unbestimmt sein, dass nicht mehr vorausgesehen werden kann, in welchen
+Fällen und mit welcher Tendenz von ihr Gebrauch gemacht werden wird und welchen
+Inhalt die auf Grund der Ermächtigung erlassenen Verordnungen haben können
+(BVerfGE 7, 282 <302 f.>; 19, 354 <361>; 55, 207 <225 f.>). Schon aus der Ermächtigung muss daher erkennbar und vorhersehbar sein, was dem Bürger gegenüber zulässig sein soll (BVerfGE 113, 167 <269>).
+
+ c) Für landesgesetzliche Verordnungsermächtigungen ist Art. 80 Abs. 1 GG nicht          56
+unmittelbar anwendbar. Die in Art. 80 Abs. 1 Satz 2 GG festgelegten, aus dem
+rechtsstaatlichen und demokratischen Verfassungssystem des Grundgesetzes folgenden Grundsätze sind aber auch für die Landesgesetzgebung verbindlich (vgl.
+BVerfGE 55, 207 <226>; 58, 257 <277>; 102, 197 <222>; 107, 1 <15>).
+
+ 3. a) Die dargelegten Grundsätze gelten auch im Beamtenverhältnis. Dass die             57
+Grundrechte dort in gleicher Weise Geltung beanspruchen, ist in der Rechtsprechung
+des Bundesverfassungsgerichts anerkannt (vgl. BVerfGE 39, 334 <366 f.>; 108, 282
+<296>); zugleich sind die grundrechtsgleichen Berechtigungen aus Art. 33 GG zu beachten. Die Regelungsform des Gesetzes ist für das Beamtenverhältnis typisch und
+sachangemessen; die wesentlichen Inhalte des Beamtenrechts sind daher durch Gesetz zu regeln (vgl. BVerfGE 8, 1 <18>; 8, 28 <35>; 8, 332 <352 f.>; 52, 303 <331>;
+81, 363 <386>; Masing, in: Dreier, GG, Bd. 2, 2. Aufl. 2006, Art. 33 Rn. 82). Ob bestimmte Regelungen in der Vergangenheit durch Rechtsverordnung erfolgt sind, ist
+dabei nicht entscheidend. Die Frage der Wesentlichkeit und damit der Ermächti-
+
+
+                                         24/36
+
+gungsgrundlage kann sich unter einem aktualisierten verfassungsrechtlichen Blickwinkel anders darstellen als noch vor einigen Jahren oder gar Jahrzehnten (vgl.
+BVerwGE 98, 324 <327>).
+
+  b) Art. 12 Abs. 1 GG schützt unter anderem die freie Wahl des Arbeitsplatzes. Das         58
+Grundrecht gilt auch im Bereich des öffentlichen Dienstes; Art. 33 Abs. 2 GG ermöglicht insoweit allerdings ergänzende Sonderregelungen (vgl. BVerfGE 39, 334 <369>;
+92, 140 <151>; 96, 152 <163>; 96, 171 <180 f.>; 96, 205 <210 f.>; 110, 304 <321>;
+BVerfG, Beschluss der 3. Kammer des Zweiten Senats vom 25. Juli 1997 - 2 BvR
+1088/97 -, juris, Rn. 15). Art. 12 Abs. 1 GG entfaltet seinen Schutz gegen alle staatlichen Maßnahmen, die diese Wahlfreiheit beschränken (vgl. BVerfGE 84, 133 <146>;
+96, 152 <163>). Die Berufsfreiheit steht - anders als Art. 33 Abs. 2 GG - unter dem
+spezifischen Gesetzesvorbehalt des Art. 12 Abs. 1 Satz 2 GG. Ein wesentlicher Eingriff in dieses Grundrecht ist anzunehmen, wenn die Eingriffsregelung die Freiheit der
+Berufswahl betrifft oder statusbildenden Charakter hat (vgl. BVerfGE 33, 125 <160>;
+38, 373 <381>; 57, 121 <132>; 76, 171 <184 f.>). So bedarf etwa die Bestimmung eines Höchstalters für die Bestellung zum Anwaltsnotar im Hinblick auf Art. 12 Abs. 1
+Satz 2 GG der Entscheidung durch den Normgeber und kann nicht durch Allgemeine
+Verfügung der Justizverwaltung festgesetzt werden (vgl. BVerfGE 80, 257 <266 f.>).
+Allenfalls Einzelfragen fachlich-technischen Charakters können in dem vom Gesetzgeber gezogenen Rahmen durch Satzungsrecht eines Berufsverbandes geregelt
+werden (vgl. BVerfGE 33, 125 <160>). Auch bei Regelungen, die nur die Freiheit der
+Berufsausübung betreffen, muss das zulässige Maß des Eingriffs umso deutlicher in
+der gesetzlichen Ermächtigung bestimmt werden, je empfindlicher die berufliche Betätigung beeinträchtigt wird: Einschneidende, das Gesamtbild der beruflichen Betätigung wesentlich prägende Vorschriften über die Ausübung des Berufs sind dem Gesetzgeber zumindest in den Grundzügen vorzubehalten (BVerfGE 33, 125 <160>).
+
+  c) Soweit es um Arbeitsverhältnisse des öffentlichen Dienstes geht, trifft Art. 33 Abs.   59
+2 GG eine Art. 12 Abs. 1 Satz 1 GG ergänzende Regelung (vgl. BVerfGE 96, 152
+<163>). Hiernach wird jedem Deutschen das Recht auf gleichen Zugang zu jedem öffentlichen Amt nach Eignung, Befähigung und fachlicher Leistung gewährleistet. Dabei zielt die Befähigung auf allgemein der Tätigkeit zugutekommende Fähigkeiten wie
+Begabung, Allgemeinwissen, Lebenserfahrung und allgemeine Ausbildung. Fachliche Leistung bedeutet Fachwissen, Fachkönnen und Bewährung im Fach. Eignung
+im engeren Sinne erfasst insbesondere Persönlichkeit und charakterliche Eigenschaften, die für ein bestimmtes Amt von Bedeutung sind (vgl. BVerfGE 108, 282
+<296>; 110, 304 <322>). Die Geltung dieser Grundsätze wird von Art. 33 Abs. 2 GG
+unbeschränkt und vorbehaltlos gewährleistet (vgl. BVerfGK 12, 265 <268>; 12, 284
+<286>; BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 26. November
+2010 - 2 BvR 2435/10 -, NVwZ 2011, S. 746 <747>). Vorbehaltlos gewährte Grundrechte werden grundsätzlich nur durch kollidierendes Verfassungsrecht - Grundrechte und grundrechtsgleiche Rechte Dritter sowie Gemeinschaftswerte von Verfassungsrang - eingeschränkt (vgl. BVerfGE 30, 173 <191 ff.>; 93, 1 <21>; 108, 282
+
+
+
+                                          25/36
+
+<297>; für Art. 33 Abs. 2 GG Jachmann, in: v. Mangoldt/Klein/Starck, GG, Bd. 2, 6.
+Aufl. 2010, Art. 33 Rn. 21).
+
+ Eine Regelung, die den Lebensbereich vorbehaltloser Grundrechte oder grundrechtsgleicher Rechte ordnen will, bestimmt und konkretisiert notwendigerweise ihre
+verfassungsimmanenten Schranken (vgl. BVerfGE 83, 130 <142>). Es ist vorrangig
+Aufgabe des Parlamentsgesetzgebers, die Abwägung und den Ausgleich zwischen
+dem Leistungsgrundsatz des Art. 33 Abs. 2 GG und anderen in der Verfassung geschützten Belangen vorzunehmen. Ausnahmen vom Leistungsgrundsatz beim Zugang zum Beamtenverhältnis bedürfen demnach grundsätzlich einer (parlaments-
+)gesetzlichen Grundlage (vgl. BVerfGE 108, 282 <306 f.>; BVerfG, Beschluss der 3.
+Kammer des Zweiten Senats vom 2. April 1996 - 2 BvR 169/93 -, NVwZ 1997, S. 54;
+BVerwGE 122, 237 <239>).
+
+  4. a) Schließlich sind für das Erfordernis einer Regelung des parlamentarischen Gesetzgebers auch die europarechtlichen Ausformungen des Verbots der Altersdiskriminierung durch die Richtlinie 2000/78/EG in den Blick zu nehmen, die konkrete Vorgaben für die Rechtfertigung einer Ungleichbehandlung wegen des Alters macht.
+Diese unionsrechtlichen Anforderungen verstärken das verfassungsrechtliche Erfordernis, dass der parlamentarische Gesetzgeber zur Beantwortung der Frage der Einführung und Ausgestaltung von beamtenrechtlichen Höchstaltersgrenzen berufen ist,
+weil die Rechtfertigung von Art und Maß einer Ungleichbehandlung auch danach eine Abwägung mit anderen legitimen Zielen erfordert.
+
+ b) Der Geltungsbereich der Richtlinie 2000/78/EG erstreckt sich auch auf Beamtenverhältnisse und verbietet Diskriminierungen wegen des Alters. Die Ablehnung eines
+Bewerbers wegen Überschreitens einer Höchstaltersgrenze stellt eine Ungleichbehandlung wegen des Alters dar. Nach Art. 6 Abs. 1 Satz 1 der Richtlinie 2000/78/EG
+können Mitgliedstaaten jedoch vorsehen, dass derartige Ungleichbehandlungen „keine Diskriminierung darstellen, sofern sie objektiv und angemessen sind und im Rahmen des nationalen Rechts durch ein legitimes Ziel (…) gerechtfertigt sind und die
+Mittel zur Erreichung dieses Ziels angemessen und erforderlich sind“. Satz 2 der Vorschrift enthält eine Reihe von Beispielen für zulässige Ungleichbehandlungen wegen
+des Alters, unter anderem die Festsetzung eines Höchstalters für die Einstellung aufgrund der spezifischen Ausbildungsanforderungen eines bestimmten Arbeitsplatzes
+oder aufgrund der Notwendigkeit einer angemessenen Beschäftigungszeit vor dem
+Eintritt in den Ruhestand (Art. 6 Abs. 1 Satz 2 Buchstabe c RL 2000/78/EG).
+
+ c) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union stellt das          63
+Verbot der Diskriminierung wegen des Alters einen allgemeinen Grundsatz des Unionsrechts dar (EuGH, Urteil vom 22. November 2005 - Rs. C-144/04 -, Mangold, Slg.
+2005, I - 09981, Rn. 75). Die Richtlinie 2000/78/EG konkretisiere diesen Grundsatz
+(EuGH, Urteil vom 19. Januar 2010 - Rs. C-555/07 -, Kücükdeveci, Slg. 2010, I -
+00365, Rn. 21). Auch Art. 21 Abs. 1 EuGRCh verbiete Diskriminierungen wegen des
+Alters (EuGH, Urteil vom 13. September 2011 - Rs. C-447/09 -, Prigge u.a., Slg.
+
+
+
+                                        26/36
+
+2011, I - 08003, Rn. 38).
+
+  Der Gerichtshof der Europäischen Union hat klargestellt, dass legitime Ziele im Sinne von Art. 6 Abs. 1 RL 2000/78/EG (nur) solche sozialpolitischer Art, wie aus den
+Bereichen Beschäftigungspolitik, Arbeitsmarkt oder berufliche Bildung, sein können
+(EuGH, Urteil vom 13. September 2011 - Rs. C-447/09 -, Prigge u.a., Slg. 2011, I -
+08003, Rn. 81; vgl. hierzu auch BVerfG, Beschluss der 2. Kammer des Ersten Senats
+vom 24. Oktober 2011 - 1 BvR 1103/11 -, EuGRZ 2011, S. 713). Dabei verfügen die
+Mitgliedstaaten nicht nur bei der Entscheidung, welches konkrete Ziel von mehreren
+im Bereich der Arbeits- und Sozialpolitik sie verfolgen wollen, sondern auch bei der
+Festlegung der Maßnahmen zu seiner Erreichung über einen weiten Ermessensspielraum (EuGH, Urteil vom 16. Oktober 2007 - Rs. C-411/05 -, Palacios de la Villa,
+Slg. 2007, I - 08531, Rn. 68; Urteil vom 18. November 2010 - Rs. C-250/09 und
+C-268/09 -, Georgiev, Slg. 2010, I - 11869, Rn. 50). Sie können neben politischen,
+sozialen oder demografischen Erwägungen auch Haushaltserwägungen berücksichtigen, obgleich letztere für sich genommen kein legitimes Ziel im Sinne von Art. 6
+Abs. 1 RL 2000/78/EG darstellen (EuGH, Urteil vom 21. Juli 2011 - Rs. C-159/10 und
+C-160/10 -, Fuchs und Köhler, Slg. 2011, I - 06919, Rn. 73 f., 81).
+
+  d) Der Spielraum wird nach der Rechtsprechung des Gerichtshofs der Europäischen Union allerdings begrenzt durch das Erfordernis der Verhältnismäßigkeit. Die
+Ungleichbehandlung muss geeignet sein, das angestrebte Ziel zu erreichen, und darf
+nicht über das hinausgehen, was hierzu erforderlich und angemessen ist (EuGH, Urteil vom 13. November 2014 - Rs. C-416/13 -, Vital Pérez, Celex-Nr. 62013CJ0416,
+Rn. 45, 66). So hat der Gerichtshof der Europäischen Union entschieden, dass Art. 6
+Abs. 1 Satz 2 Buchstabe c der RL 2000/78/EG dahin auszulegen ist, dass er einer
+nationalen Regelung entgegensteht, die das Höchstalter für die Einstellung örtlicher
+Polizeibeamter auf 30 Jahre festlegt, weil weder die Einsatzbereitschaft und das ordnungsgemäße Funktionieren der Polizei noch die Notwendigkeit einer angemessenen Beschäftigungszeit vor dem Eintritt in den Ruhestand Ziele seien, zu deren Erreichung die Altersgrenze angemessen und erforderlich wäre (vgl. EuGH, Urteil vom 13.
+November 2014, a.a.O., Rn. 44 ff.).
+
+ Davon ausgehend hat der zuständige nationale Normgeber zu beurteilen und abzuwägen, ob die beamtenrechtlichen Höchstaltersgrenzen notwendig sind, um entweder ein Missverhältnis zwischen der aktiven Dienstzeit eines Beamten und der den
+Dienstherrn treffenden Versorgungslast zu vermeiden oder um andere legitime Ziele
+im Sinne der Generalklausel des Art. 6 Abs. 1 Satz 1 RL 2000/78/EG zu verwirklichen.
+
+                                          II.
+ § 5 Abs. 1 LBG kann vor diesem Hintergrund nicht als hinreichend bestimmte Verordnungsermächtigung zur Festsetzung von Einstellungshöchstaltersgrenzen angesehen werden.
+
+
+
+                                         27/36
+
+  1. a) Unabhängig von ihrer denkbaren verfassungsrechtlichen Rechtfertigung (dazu      68
+III.) stellen Einstellungshöchstaltersgrenzen einen schwerwiegenden Eingriff in Art.
+12 Abs. 1 GG und grundsätzlich auch in Art. 33 Abs. 2 GG dar. Sie schließen ältere
+Bewerber regelmäßig ohne Rücksicht auf Eignung, Befähigung und fachliche Leistung vom Beamtenverhältnis aus und führen auf diese Weise zu einer eignungswidrigen Ungleichbehandlung von einiger Intensität. Etwas Anderes gilt lediglich bei solchen Dienstverhältnissen, bei denen das Alter - etwa aufgrund bestimmter
+körperlicher Anforderungen - ein Eignungsmerkmal darstellt (zur Altersgrenze für
+Verkehrspiloten vgl. BVerfGK 10, 227 <232 f.>). Das trifft unter Umständen für den
+Militär- und Polizeivollzugsdienst sowie die Feuerwehr zu, - entgegen der Auffassung
+des Landes Nordrhein-Westfalen - nicht jedoch für die Lehrerlaufbahn (so auch
+BVerwGE 133, 143 <145>).
+
+ b) Da Einstellungshöchstaltersgrenzen Zugangsbedingungen zum Beamtenverhältnis festlegen, kommt ihnen - ebenso wie Ruhestandsgrenzen, die Entlassungsbedingungen normieren - statusbildende Funktion zu.
+
+  2. a) Die pauschale Ermächtigung zur Regelung des Laufbahnwesens der Beamten          70
+in § 5 Abs. 1 Satz 1 LBG genügt daher nicht den verfassungsrechtlichen Anforderungen an eine hinreichend bestimmte Ermächtigungsgrundlage. Weder die Norm selbst
+noch ihr systematischer Zusammenhang mit anderen Vorschriften lassen erkennen,
+dass der Gesetzgeber sich Gedanken über die Einführung von Einstellungshöchstaltersgrenzen und ihre grundrechtliche Eingriffsrelevanz gemacht hat, obwohl § 5 Abs.
+1 Satz 2 LBG zahlreiche Vorgaben zum Inhalt der Laufbahnverordnung enthält. Anders als zum Beispiel bei der von der grundrechtlichen Eingriffstiefe vergleichbaren,
+sehr detaillierten Regelung über den Ruhestand in § 31 LBG fehlt es bereits im Ansatz an einer parlamentarischen Leitentscheidung.
+
+  b) Auch den gesetzlichen Begründungsmaterialien ist nicht zu entnehmen, dass der      71
+nordrhein-westfälische Gesetzgeber beim Erlass von § 5 Abs. 1 Satz 1 LBG die Zulässigkeit von und die Anforderungen an Einstellungshöchstaltersgrenzen erwogen
+hat und regeln wollte: Zwar hat er im Gesetzgebungsverfahren über die Änderung
+dienstrechtlicher Vorschriften die Anhebung der Ruhestandsgrenze von 65 auf 67
+Jahre thematisiert, nicht aber die Regelung von Einstellungshöchstaltersgrenzen. In
+der Einführung zum Gesetzentwurf vom 17. Dezember 2008 (LTDrucks 14/8176, S.
+2) findet sich lediglich der Hinweis auf Einsparungen von Kosten „in einem nicht näher zu beziffernden Umfang“ durch die Verlängerung der Regelarbeitszeit. Die Gesetzesbegründung selbst verweist nur auf das Entfallen der Mindestaltersgrenze von
+27 Jahren durch das Beamtenstatusgesetz (LTDrucks 14/8176, S. 126).
+
+ Die Erörterung des Entwurfs im weiteren Verlauf des Gesetzgebungsverfahrens            72
+zeigt nicht nur, dass das Landesbeamtengesetz keine eigenständige Regelung der
+Einstellungshöchstaltersgrenze enthalten sollte, sondern dass dem Gesetz auch keine Maßstäbe für eine solche Grenze entnommen werden können. In einer gemeinsamen Sitzung des Haushalts- und Finanzausschusses sowie des Innenausschusses
+
+
+
+                                        28/36
+
+vom 26. März 2009 merkte ein Abgeordneter der SPD-Fraktion an, er vermisse „in
+dem Gesetzentwurf, dass laut Ankündigung des CDU-Fraktionsvorsitzenden Stahl
+das Höchstalter für die Verbeamtung, insbesondere für die Lehrer an Berufskollegs,
+auf 40 Jahre heraufgesetzt werden solle“. Ein Fraktionskollege von Herrn Stahl erwiderte, dieser habe sich „darüber Gedanken gemacht, im Rahmen einer großen
+Dienstrechtsreform in der kommenden Legislaturperiode das Höchstalter für die Verbeamtung gerade im Hinblick auf die Berufsschullehrer zur Disposition zu stellen.
+Mit den jetzt vorzunehmenden technischen Veränderungen habe das nichts zu tun“
+(Ausschussprotokoll 14/859, S. 4 f.).
+
+  Lediglich aus der Antwort auf die Kleine Anfrage 3704 im nordrhein-westfälischen       73
+Landtag vom 25. Januar 2010 (LTDrucks 14/10580) lassen sich (nachträgliche)
+Rückschlüsse auf die Erwägungen des Gesetzgebers in Bezug auf beamtenrechtliche Einstellungshöchstaltersgrenzen ziehen: Demnach bestehe ein personalwirtschaftliches und mit Blick auf die Versorgungslasten ein fiskalisches Interesse daran,
+lebensjüngere Bewerberinnen und Bewerber für eine möglichst lange aktive Dienstzeit im öffentlichen Dienst zu gewinnen. Die angehobene Altersgrenze trage maßgeblich dazu bei, auch lebensälteren Bewerberinnen und Bewerbern mit besonderen
+(Berufs-)Biographien eine Einstellungschance zu eröffnen. Als parlamentarische Leitentscheidung zu Einstellungshöchstaltersgrenzen kann die Vorschrift auf der Grundlage dieser nachträglich vorgetragenen Begründung nicht angesehen werden.
+
+                                         III.
+ Da es bereits an einer hinreichend bestimmten Ermächtigungsgrundlage für die Regelung von Einstellungshöchstaltersgrenzen für Beamte auf Probe durch den Verordnungsgeber fehlt, kann die Frage ihrer materiellen Verfassungsmäßigkeit im Übrigen
+dahinstehen. Angesichts der bereits länger bestehenden rechtlichen Unsicherheiten
+hinsichtlich der verfassungsrechtlichen Zulässigkeit von Einstellungshöchstaltersgrenzen sei aber auf Folgendes hingewiesen:
+
+  1. Der durch Einstellungshöchstaltersgrenzen bewirkte Eingriff in Art. 12 Abs. 1 GG    75
+und Art. 33 Abs. 2 GG kann gerechtfertigt sein. Das grundrechtsgleiche Recht des
+Art. 33 Abs. 2 GG gewährleistet das Maß an Freiheit der Berufswahl (Art. 12 Abs. 1
+GG), das angesichts der von der jeweils zuständigen öffentlich-rechtlichen Körperschaft zulässigerweise begrenzten Zahl von Arbeitsplätzen im öffentlichen Dienst
+möglich ist (vgl. BVerfGE 7, 377 <397 f.>; 39, 334 <369>). Art. 33 Abs. 2 GG vermittelt keinen Anspruch auf Übernahme in ein öffentliches Amt (vgl. BVerfGE 39, 334
+<354>; BVerwGE 68, 109 <110>). Der Zugang zu einer Tätigkeit in einem öffentlichen Amt - die Zulassung zum Beruf, die gleichzeitig die freie Berufswahl betrifft -
+darf durch subjektive Zulassungsvoraussetzungen beschränkt werden (vgl. BVerfGE
+39, 334 <370>).
+
+ 2. a) Allerdings sind Einstellungshöchstaltersgrenzen nur unter bestimmten Voraussetzungen verfassungsrechtlich zulässig (vgl. nur BVerfGE 103, 172 <182 ff.>; siehe
+auch Beschluss der 2. Kammer des Zweiten Senats vom 26. August 2013 - 2 BvR
+
+
+                                         29/36
+
+441/13 -, juris, Rn. 33 ff.). Die Zulassung zum öffentlichen Dienst darf durch Regelungen über die für die Berufung in ein Beamtenverhältnis erforderlichen persönlichen
+Voraussetzungen beschränkt werden (vgl. BVerfGE 108, 282 <295>). Die von Art. 33
+Abs. 2 GG erfassten Auswahlentscheidungen können dabei jedoch grundsätzlich nur
+auf Gesichtspunkte gestützt werden, die unmittelbar Eignung, Befähigung und fachliche Leistung der Bewerber betreffen. Ein solches eignungsimmanentes Kriterium ist
+das Lebensalter, wenn ein Beamter mit Überschreiten einer bestimmten Altersgrenze typischerweise den Anforderungen eines Amtes nicht mehr genügt. Das Alter betrifft in diesen Fällen die physischen Fähigkeiten des Beamten und dient als Indikator
+für dessen Tauglichkeit zu amtsangemessenen, funktionsgerechten Leistungen (vgl.
+Höfling, in: Bonner Kommentar zum Grundgesetz, Art. 33 Abs. 1 bis 3, Rn. 159 <August 2007> m.w.N.). Dies kann etwa - wie bereits erwähnt - bei den Einsatzkräften
+in Militär, Polizeivollzugsdienst und Feuerwehr der Fall sein. Bei der vorliegend zu
+beurteilenden, allgemeinen Einstellungshöchstaltersgrenze von 40 Jahren für Lehrer
+spielt die körperliche Leistungsfähigkeit dagegen keine Rolle.
+
+  b) Einstellungshöchstaltersgrenzen für den Zugang zum Beamtenverhältnis stellen -       77
+außerhalb der bereits genannten Einsatzberufe - weder ein Eignungsmerkmal noch
+ein eignungsergänzendes Hilfskriterium dar. Sie dienen vielmehr eignungsfremden
+Zwecken und sollen externe, außerhalb des Leistungsgrundsatzes liegende Ziele
+verwirklichen. Altersgrenzen greifen - anders als eignungsimmanente (Hilfs-)Kriterien
+- in den Leistungsgrundsatz ein (vgl. BVerwGE 142, 59 <62>). Eignungsfremde Belange, die nicht im Leistungsgrundsatz verankert sind, können bei der Besetzung öffentlicher Ämter nur Berücksichtigung finden, wenn ihnen ebenfalls Verfassungsrang
+eingeräumt ist (vgl. BVerfGK 12, 184 <186>; 12, 265 <268>; 12, 284 <287>; BVerfG,
+Beschluss der 1. Kammer des Zweiten Senats vom 26. November 2010 - 2 BvR
+2435/10 -, NVwZ 2011, S. 746 <747>; BVerwGE 122, 147 <149 f.>; 124, 99 <102>).
+Schranken können sich im Beamtenrecht etwa aus Art. 33 Abs. 5 GG ergeben, soweit sie durch Sinn und Zweck des konkreten Dienst- und Treueverhältnisses des
+Beamten gefordert werden (vgl. BVerfGE 19, 303 <322>; 39, 334 <351 f.>; 108, 282
+<296>), oder der Gewährleistung der mit Verfassungsrang ausgestatteten hergebrachten Grundsätze des Berufsbeamtentums (vgl. hierzu: BVerfGE 107, 218 <237>;
+114, 258 <281 f.>; 117, 330 <344 f.>; 117, 372 <379>; 121, 205 <219>) dienen. Das
+gilt insbesondere für das Lebenszeitprinzip und das Alimentationsprinzip.
+
+  aa) Als hergebrachter Grundsatz des Berufsbeamtentums ist das Lebenszeitprinzip         78
+anerkannt (vgl. BVerfGE 71, 255 <268>; 121, 205 <220 ff.>). Der Beamte ist grundsätzlich hauptberuflich und auf Lebenszeit zu beschäftigen. Er hat seine gesamte Arbeitskraft dem Beruf zu widmen, in den Dienst des Staates zu stellen und den Anforderungen seines Berufes mit vollem Einsatz zu begegnen (vgl. BVerfGE 55, 207
+<240 f.>; 71, 39 <60 f.>). Dies dient sowohl dem Allgemeininteresse an einer fachlich
+leistungsfähigen, rechtsstaatlichen und unparteiischen öffentlichen Verwaltung als
+auch der Sicherung der rechtlichen und wirtschaftlichen Unabhängigkeit der Beamtenschaft (vgl. Badura, in: Maunz/Dürig, GG, Art. 33 Rn. 67 <April 2010>). Eine
+
+
+
+                                         30/36
+
+Schranke findet das Lebenszeitprinzip in der Dienstfähigkeit des Beamten; bei Erreichen einer bestimmten Altersgrenze wird der Eintritt der Dienstunfähigkeit (unwiderleglich) vermutet (BVerfGE 71, 255 <268>).
+
+  bb) Das Alimentationsprinzip als ein vom Gesetzgeber zu beachtender hergebrachter Grundsatz des Berufsbeamtentums verpflichtet den Dienstherrn zur Gewährung
+eines an Dienstrang, Bedeutung und Verantwortung des Amtes orientierten und damit Dienstverpflichtung und Dienstleistung berücksichtigenden angemessenen Lebensunterhalts (vgl. BVerfGE 21, 329 <345>; 44, 249 <265>; 114, 258 <287 f.>; 117,
+330 <351>; 117, 372 <380 f.>). Die Besoldung des Beamten ist kein Entgelt für bestimmte Dienstleistungen, sondern eine Gegenleistung des Dienstherrn dafür, dass
+sich der Beamte mit seiner ganzen Persönlichkeit zur Verfügung stellt (vgl. BVerfGE
+55, 207 <241>; 107, 218 <237>; 114, 258 <288>; 117, 372 <380>). Die Sicherung eines angemessenen Lebensunterhalts - zu der auch die Versorgung des Beamten
+nach seinem Ausscheiden aus dem aktiven Dienst zählt (vgl. BVerfGE 11, 203
+<210>; 39, 196 <200 f.>; 44, 249 <265>) - ist deshalb ein besonders wesentlicher
+Grundsatz, zu dessen Beachtung der Gesetzgeber verpflichtet ist (vgl. BVerfGE 8, 1
+<16>; 11, 203 <210>; 61, 43 <57 f.>; 117, 372 <380 f.>; stRspr). Erst rechtliche und
+wirtschaftliche Sicherheit bietet die Gewähr dafür, dass sich ein Beamter dem öffentlichen Dienst als Lebensberuf widmen und zur Erfüllung der ihm vom Grundgesetz zugewiesenen Aufgabe, im politischen Kräftespiel eine stabile, gesetzestreue Verwaltung zu sichern, beitragen kann (vgl. BVerfGE 117, 372 <380>; 119, 247 <260 f.>;
+121, 205 <221>; stRspr).
+
+  cc) Das Lebenszeitprinzip und das Alimentationsprinzip sind geeignet, Eingriffe in      80
+Art. 33 Abs. 2 GG durch Einstellungshöchstaltersgrenzen zu rechtfertigen. Als Zweck
+der Einstellungshöchstaltersgrenzen für Beamte wird im Wesentlichen genannt, dass
+ein ausgewogenes zeitliches Verhältnis zwischen Lebensdienstzeit und Ruhestandszeit und damit zwischen aktiver Beschäftigungszeit und Versorgungsansprüchen gewährleistet werden solle (vgl. BVerwGE 142, 59 <62>; Hense, in: Epping/Hillgruber,
+GG, 2. Aufl. 2013, Art. 33 Rn. 15; Begerau, LKRZ 2011, S. 321; Trebeck, Die verfassungsrechtliche Zulässigkeit von Altersgrenzen, 2008, S. 284; Baßlsperger, ZBR
+2008, S. 339 <343>). Darin kommt zum Ausdruck, dass sich die Alimentation des Beamten im Ruhestand nur rechtfertigt, wenn dessen Arbeitskraft dem Dienstherrn zuvor über einen längeren Zeitraum uneingeschränkt zur Verfügung gestanden hat. Beamte erdienen ihre Altersversorgung während der Dienstzeit. Ihre Bezüge sind im
+Hinblick auf die künftigen Versorgungsansprüche niedriger festgesetzt; der Dienstherr behält einen fiktiven Anteil ein, um die Versorgung zu finanzieren (vgl. BVerfGE
+105, 73 <115>; 114, 258 <298>; BVerwG, Urteil vom 23. Februar 2012 - 2 C 76/10 -,
+juris, Rn. 18). Zwar ist die Versorgung des Ruhestandsbeamten aus dem letzten Amt
+zu gewähren (vgl. BVerfGE 61, 43; BVerfGK 8, 232 <235>). Der Dienstherr darf diese
+Versorgung jedoch an eine Mindestverweildauer in diesem Amt knüpfen (vgl.
+BVerfGE 117, 372 <383 ff.>). In gleicher Weise hat der Dienstherr zudem ein grundsätzlich von Art. 33 Abs. 5 GG geschütztes Interesse an einer insgesamt möglichst
+
+
+
+                                         31/36
+
+langen aktiven Dienstzeit des Beamten.
+
+  dd) Dabei kann allerdings im Hinblick auf die Besonderheiten des Beamtenversorgungsrechts nicht im Wortsinn von einer „betriebswirtschaftlich“ sinnvollen Mindestdauer der produktiven Arbeitsleistung des Beamten (vgl. BTDrucks 16/1780, S. 36 zu
+§ 10 AGG; Baßlsperger, ZBR 2008, S. 339 <343>) oder - wie bei sonstigen Beschäftigungsverhältnissen (vgl. hierzu Brors, in: Däubler/Bertzbach, AGG, 3. Aufl. 2013,
+§ 10 Rn. 86) - von einem „Amortisationsinteresse“ des Arbeitgebers ausgegangen
+werden. Einstellungshöchstaltersgrenzen können jedoch im Zusammenspiel mit den
+Ruhestandsgrenzen - insbesondere im Hinblick auf die steigende Lebenserwartung
+und die wachsenden Versorgungslasten der öffentlichen Haushalte - eine wesentliche Grundlage für die Finanzierbarkeit und Funktionsfähigkeit des beamtenrechtlichen Versorgungssystems darstellen und damit der Sicherung des Alimentationsund des Lebenszeitprinzips dienen. Für die hier widerstreitenden Grundsätze von Art.
+33 Abs. 2 und Abs. 5 GG ist daher im Hinblick auf die Höchstaltersgrenzen praktische
+Konkordanz (vgl. BVerfGE 93, 1 <21>; 119, 247 <267>) herzustellen.
+
+ 3. Beachtet der Gesetzgeber diese Voraussetzungen, so kann der Eingriff in Art. 33     82
+Abs. 2 GG durch Einstellungshöchstaltersgrenzen grundsätzlich gerechtfertigt sein.
+
+ a) Einstellungshöchstalters- und Ruhestandsgrenzen stehen in enger Beziehung           83
+zueinander, denn sie legen die Dienstzeit des Beamten fest und setzen sie in ein entsprechendes Verhältnis zu seinem Alimentationsanspruch im Ruhestand.
+
+  aa) Beamtete Lehrer in Nordrhein-Westfalen treten in der Regel mit Ende des           84
+Schulhalbjahres in den Ruhestand, in dem sie das 67. Lebensjahr vollenden (§ 31
+Abs. 1 Satz 3 LBG). Die Berechnung ihres Ruhegehalts richtet sich nach dem Beamtenversorgungsgesetz für das Land Nordrhein-Westfalen (Landesbeamtenversorgungsgesetz - LBeamtVG) vom 16. Mai 2013 (GVBl S. 234). Danach erhalten sie mit
+Beginn des Ruhestandes ein Ruhegehalt, welches sich aus den ruhegehaltfähigen
+Dienstbezügen (§ 5 LBeamtVG) und der ruhegehaltfähigen Dienstzeit (§ 6 LBeamt-VG) errechnet und eine Mindestdienstzeit von fünf Jahren (§ 4 Abs. 1 Satz 1 Nr. 1
+LBeamtVG) voraussetzt. Das Ruhegehalt beträgt mindestens 35 % und höchstens
+71,75 % der ruhegehaltfähigen Dienstbezüge (§ 14 Abs. 1 Satz 1, Abs. 4 Satz 1 LBeamtVG). „Erdient“ wird pro Dienstjahr eine Versorgung von 1,79375 % der ruhegehaltfähigen Dienstbezüge (§ 14 Abs. 1 Satz 1 LBeamtVG). Dies entspricht der Regelung im Bund (vgl. § 14 des Gesetzes über die Versorgung der Beamten und Richter
+des Bundes <Beamtenversorgungsgesetz - BeamtVG> in der Fassung der Bekanntmachung vom 24. Februar 2010 <BGBl I S. 150>). Zusätzliche Zahlungsverpflichtungen des Dienstherrn ergeben sich aus Beihilfeleistungen und der Hinterbliebenenversorgung (§§ 16 ff. LBeamtVG).
+
+ bb) Ein Beamter hat also nach 40 Dienstjahren den Höchstversorgungssatz                85
+(71,75:1,79375) und nach ungefähr 19,5 Jahren ein Ruhegehalt in Höhe der (amtsabhängigen) Mindestversorgung (35:1,79375) erdient. Bis dahin liegt der Ruhegehaltssatz niedriger. Hiernach ist für einen Beamten, der 40 Dienstjahre abgeleistet
+
+
+                                         32/36
+
+hat, vom Dienstherren genauso viel Ruhegehalt einzustellen wie für zwei Beamte, die
+bis zum Ruhestand jeweils nur rund 20 Jahre tätig gewesen sind. Die aus § 6, § 52
+Abs. 1 LVO 2009 folgende Einstellungshöchstaltersgrenze von 40 Jahren bedeutet -
+bei regulärem Eintritt in den Ruhestand mit 67 Jahren - eine Überschreitung der genannten Zeitspanne von 19,5 Jahren um mindestens siebeneinhalb Jahre.
+
+  cc) Neben dem Mindestruhegehalt ist die Anrechnung von anderen Versorgungsanwartschaften zu berücksichtigen. Gemäß § 14 Abs. 5, § 55 LBeamtVG werden Rentenansprüche der Ruhestandsbeamten, die diese gegebenenfalls aus einer früheren
+Tätigkeit erworben haben, in gewissem Umfang auf die Versorgungsbezüge angerechnet. Unter diesen Umständen kann, abhängig von der Höhe der Versorgungsbezüge und der anrechenbaren Rente, ein Unterschied zwischen der Mindestversorgung und dem erdienten Ruhegehalt ausgeglichen werden. Der Dienstherr wird
+insoweit von seiner Alimentationspflicht gegenüber dem Versorgungsberechtigten
+entlastet und dieser auf Einkünfte aus einer anderen öffentlichen Kasse verwiesen
+(vgl. BVerfGE 76, 256 <298>).
+
+  b) Nach den Regelungen des Versorgungsrechts, die - wie dargelegt - eine lineare      87
+Steigerung des Ruhegehalts nach der Dauer der Dienstzeit vorsehen, ist das Beamtenverhältnis auf eine möglichst lange Dienstzeit ausgerichtet. Daher wird das Verhältnis der Alimentationspflicht des Dienstherrn zur Dienstleistungsverpflichtung des
+Beamten gestört, wenn ein Beamter vor Erreichen der allgemeinen Altersgrenze aus
+dem Dienst ausscheidet (vgl. BVerfGK 8, 232 <235 f.>; 13, 35 <45>). Eine Pensionierung vor Erreichen der allgemeinen Altersgrenze verschiebt das Pflichtengefüge im
+Beamtenverhältnis zu Lasten des Dienstherrn insgesamt: Ihm geht infolge der vorzeitigen Zurruhesetzung die Arbeitskraft des Beamten verloren, während er gleichzeitig
+über einen längeren Zeitraum zur Erbringung von Versorgungsleistungen verpflichtet
+ist (vgl. BVerfGK 13, 35 <45>). Diese Verschiebung im Pflichtengefüge des Beamtenverhältnisses darf der Gesetzgeber - zum Beispiel durch eine Anrechnung von anderweitig erzieltem Erwerbseinkommen oder durch eine Verminderung des Ruhegehalts
+- ausgleichen (vgl. BVerfGK 8, 232 <236>; 13, 35 <45 f.>). Auch Einstellungshöchstaltersgrenzen können dazu beitragen, von vornherein derartige Verschiebungen im
+Pflichtengefüge zu vermeiden, indem sie ein ausgewogenes Verhältnis zwischen
+Dienstzeit und Versorgungsansprüchen sicherstellen und so die Finanzierbarkeit und
+Funktionsfähigkeit der Beamtenversorgung gewährleisten (vgl. BVerwGE 133, 143
+<146>; für die Literatur etwa: Begerau, LKRZ 2011, S. 321 <324>; Baßlsperger, ZBR
+2008, S. 339 <343>; Kämmerer, ZBR 2008, S. 325 <331 ff.>; Herrmann, Die Berufung von Professorinnen und Professoren - Die Berufungsvoraussetzungen und das
+Berufungsverfahren, 2007, S. 77 ff.).
+
+ c) In diesem Rahmen lässt sich der wirtschaftliche Wert der Altersversorgung nicht     88
+exakt zahlenmäßig bestimmen: Neben der Dauer der Aufbauphase während der aktiven Dienstzeit ist er auch abhängig von der Dauer der Auszahlungsphase (vgl.
+BVerfGE 105, 73 <115>), der Besoldungsgruppe des Beamten sowie etwaiger anrechenbarer Dienstzeiten und Rentenansprüche aus einem vorangegangenen Be-
+
+
+                                        33/36
+
+schäftigungsverhältnis. Besonderheiten und Verschiebungen können sich auch ergeben, falls der Versorgungsberechtigte Erwerbseinkommen bezieht (§ 53 LBeamtVG,
+vgl. BVerfGK 13, 35), dienstunfähig wird oder aus anderen Gründen vorzeitig in den
+Ruhestand versetzt wird (§ 14 Abs. 3 LBeamtVG, vgl. BVerfGK 8, 232). Treffen Renten- und Versorgungsansprüche zusammen und tritt ein Beamter vorzeitig in den Ruhestand, ergeben sich schließlich mögliche Ausgleichspflichten des Dienstherrn aus
+§ 14a LBeamtVG (vgl. BVerfGE 131, 20).
+
+ d) Über die Versorgungsleistungen hinaus können noch Beihilfeleistungen bei der          89
+Bewertung heranzuziehen sein, die der Dienstherr dem Beamten oder Versorgungsempfänger insbesondere für Belastungen im Krankheitsfall zuzahlt. Da die Zeitspanne vom regulären Eintritt in den Ruhestand bis zum Tod statistisch für alle Beamten
+gleich ist, wird das Verhältnis von Versorgungslast und Dienstzeit in diesem Bereich
+allein durch die Dauer der Dienstzeit bestimmt. Ein frühes Einstellungsalter wirkt sich
+daher günstig auf die Gesamtkosten der Beihilfen aus (vgl. Kühling/Bertelsmann,
+NVwZ 2010, S. 87 <90>).
+
+ e) Damit der Gesetzgeber den Unwägbarkeiten bei der Festlegung des Werts von             90
+Versorgungsansprüchen Rechnung tragen kann, ist ihm auch bei der Einführung und
+Ausgestaltung von Einstellungshöchstaltersgrenzen für Beamte ein Gestaltungsspielraum einzuräumen (vgl. BVerwGE 142, 59 <63 ff.>). Sein Umfang ergibt sich
+aus den dargelegten Erfordernissen des Systems der Beamtenversorgung und den
+Grenzen von Art. 33 Abs. 2 GG sowie dem Grundsatz der Verhältnismäßigkeit. Auch
+hat er die Vorgaben der Richtlinie 2000/78/EG zu beachten. Dies entspricht dem Sinn
+des Alimentationsprinzips, nach dem die Versorgung nicht im synallagmatischen Verhältnis zu einer in Jahren bemessenen Dienstzeit steht, sondern ebenso wie die
+Dienstbezüge Gegenleistung dafür ist, dass der Beamte sein ganzes Arbeitsleben bis
+zum Erreichen der gesetzlichen Altersgrenze in den Dienst des Staates stellt (vgl.
+BVerfGE 76, 256 <323 f.>; BVerfGK 8, 232 <235>).
+
+ f) Das Erfordernis einer ausgewogenen Altersstruktur ist hingegen als Argument zur       91
+Rechtfertigung von Einstellungshöchstaltersgrenzen vorliegend weitgehend ungeeignet. Die Altersstruktur hängt von der Zahl der im Haushalt vorgesehenen Stellen und
+der Zahl der Neueinstellungen in einem bestimmten Zeitraum ab. Eine ausgewogene
+Altersstruktur kann folglich eher durch ein variables Einstellungsalter gesichert werden (vgl. Kühling/Bertelsmann, NVwZ 2010, S. 87 <92>). Das Interesse des Dienstherrn an einer ausgewogenen Altersstruktur vermag mithin allenfalls dann die Festlegung eines Einstellungshöchstalters zu begründen, wenn es auf einer plausiblen und
+nachvollziehbaren Planung beruht (vgl. BVerwGE 133, 143 <150>). Eine solche Planung ist vorliegend jedoch nicht zu erkennen und wurde von dem Land Nordrhein-Westfalen im Verfahren auch nicht dargelegt.
+
+                                          D.
+ Der Verstoß einer Norm gegen das Grundgesetz kann entweder zur Nichtigerklärung (§ 95 Abs. 3 BVerfGG) oder dazu führen, dass das Bundesverfassungsgericht
+
+
+                                         34/36
+
+die mit der Verfassungswidrigkeit gegebene Unvereinbarkeit der Norm mit dem
+Grundgesetz feststellt (vgl. § 31 Abs. 2, § 79 Abs. 1 BVerfGG). Eine Erklärung nur
+der Unvereinbarkeit ist insbesondere geboten, wenn der Gesetzgeber verschiedene Möglichkeiten hat, den Verfassungsverstoß zu beseitigen. Das ist regelmäßig bei
+der Verletzung des Gleichheitssatzes der Fall (vgl. BVerfGE 99, 280 <298>; 105, 73
+<133>; 126, 268 <284 f.>; stRspr). Dasselbe gilt für einen Eingriff in Art. 33 Abs. 2
+GG, der eine besondere Ausprägung des Gleichheitsgrundrechts darstellt, soweit er
+die maßgeblichen Gesichtspunkte für die Bewerberauswahl zur Besetzung von öffentlichen Ämtern vorgibt (vgl. Badura, in: Maunz/Dürig, GG, Art. 33 Rn. 20 <Mai
+2009>).
+
+  Gemessen hieran ist eine Unvereinbarkeitserklärung auch sachgerecht, wenn es an       93
+einer hinreichenden Ermächtigungsgrundlage für die Normierung von Höchstaltersgrenzen fehlt. Der Gesetzgeber hat unterschiedliche Möglichkeiten, den Verfassungsverstoß zu beseitigen. Die Unvereinbarkeit ist bei erfolgreichen Verfassungsbeschwerden grundsätzlich nur in dem Umfang festzustellen, in dem das Gesetz
+einen Beschwerdeführer betrifft und dieser mit seinen verfassungsrechtlichen Angriffen Erfolg hat (vgl. BVerfGE 11, 30 <48>; 65, 1 <71>). Da sich das Verwerfungsmonopol des Bundesverfassungsgerichts nur auf nachkonstitutionelle Gesetze im formellen Sinn, nicht aber auf Rechtsverordnungen bezieht (vgl. BVerfGE 68, 319
+<326>) und insoweit auch eine eigene Prüfungs- und Verwerfungskompetenz der
+Verwaltungsgerichte besteht, bedurfte es einer Erstreckung der Unvereinbarkeitserklärung auf nachfolgende Fassungen der Laufbahnverordnung nicht.
+
+  Gemäß § 95 Abs. 2 BVerfGG sind die angegriffenen Entscheidungen des Bundesverwaltungsgerichts aufzuheben und die Verfahren an dieses zurückzuverweisen.
+Die Entscheidung über die Erstattung der notwendigen Auslagen beruht auf § 34a
+Abs. 2 BVerfGG. Die Kostenquote zwischen dem Bund und dem Land Nordrhein-Westfalen differiert bei den Beschwerdeführern im Hinblick auf die Anzahl der betroffenen Entscheidungen.
+
+              Voßkuhle                Landau                  Huber
+
+              Hermanns                 Müller              Kessal-Wulf
+
+                                       König
+
+
+
+
+                                        35/36
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 21. April 2015 -
+2 BvR 1322/12, 2 BvR 1989/12
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 21. April 2015 -
+                2 BvR 1322/12, 2 BvR 1989/12 - Rn. (1 - 94), http://www.bverfg.de/e/
+                rs20150421_2bvr132212.html
+
+ECLI             ECLI:DE:BVerfG:2015:rs20150421.2bvr132212
+
+
+
+
+                                       36/36
