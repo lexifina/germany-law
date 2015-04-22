@@ -1,0 +1,110 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-04-22T17:00:00+02:00
+- Ende: 2015-04-22T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3101
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3101
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Gutachten zur Sanierung der Fichtenberg-Oberschule - beantwortet
+- TOP 3.2: Umsetzung des Beschlusses Nr. 630 zur Drucksache Nr. 0875/IV - Regenrückhalteteich an der Osdorfer Straße / Fahrenheitstraße "entmüllen" - beantwortet
+- TOP 3.3: Schließung Mobiler Unterrichtsräume (MUR) - beantwortet
+- TOP 3.4: Hundeverbot an Schlachtensee und Krumme Lanke durchsetzbar? - beantwortet
+- TOP 3.5: Pflege der neu gepflanzten Fliederbüsche Schorlemer Allee - schriftlich beantwortet
+- TOP 3.6: Datensicherheit - beantwortet
+- TOP 3.7: Kleingartenanlage Parkkolonie Nord - beantwortet
+- TOP 3.8: Mangelnde Information zur Sperrung der Hubertusbrücke - schriftlich beantwortet
+- TOP 3.9: Cannabisdebatte - vertagt
+- TOP 3.10: Öffnungszeiten des Sommerbades am Insulaner - schriftlich beantwortet
+- TOP 3.11: Keine Bürgerbeteiligung bei Änderung von Parkregelungen? - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Aus der letzten BVV vertagte Drucksachen Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Eine weitere Staatliche Europaschule (SESB) für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufungen - erledigt
+- TOP 4.2.1: Abberufung eines Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.3.1: Wahl eines Mitgliedes im Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Wahl eines Bürgerdeputierten im Haushaltsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Wahl eines Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Wahl einer Bürgerdeputierten im Ausschuss für Gesundheit und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Wahl eines stellvertretenden Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.4.1: Sondermittel der BVV für den Koreanischen Kulturverein Deutschland e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Sondermittel der BVV für den Potsdamer Ruder Club Germania e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Sondermittel der BVV für den Förderkreis des Museumsdorfes Düppel e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Vorhabenbezogener Bebauungsplan 6-25 VE (Dahlemer Weg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.6: Anträge - erledigt
+- TOP 4.6.1: Die beiden Pflegestützpunkte im Bezirk noch bekannter machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Resolution: Steglitz-Zehlendorf steht zu seiner Partnerstadt Charkiw - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Masterplan Spielen und Bewegen - in der BVV abgelehnt
+- TOP 4.7.2: Einheitlicher B-Plan für das gesamte Gelände "Parks Range" und die Flächen bis zu den angrenzenden Straßen - in der BVV abgelehnt
+- TOP 4.7.3: Tempo 30 nachts am Krankenhaus Waldfriede - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Investition in Bildung - ein neuer Bücherbus für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Sanierung des Spielplatzes Goerzallee / Ecke Altdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Kunst am Bau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Straße nach Günter Pfitzmann benennen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Ruhe für die Trauernden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Kulturentwicklungsplan für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Schulentwicklung "Campus Dreilinden" - in der BVV abgelehnt
+- TOP 4.7.11: Standort für das Beratungs- und Unterstützungs-Zentrum (BUZ) in der Plantagenstraße - in der BVV abgelehnt
+- TOP 4.7.12: "Mitternachtssportmöglichkeiten" im Bezirk einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.13: Zuwegung für Menschen mit Behinderung an den Badeseen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.14: Durchwegung des Spielplatzes an der Curtiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.15: VHS-Sprachkursangebot für Flüchtlinge aufstocken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.16: Vorhandene Naturverjüngung zu neuen Bäumen entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.17: Einbahnstraße an der Erich-Kästner-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.18: Tätigkeit des Bezirksamts im Portfolio-Ausschuss des Liegenschaftsfonds / BIM - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.19: Orientierung für Bus-Fahrgäste am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.20: Fahrradführung Kamenzer Damm/Ecke Malteserstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.21: Dialog-Display für die Altdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Verbleib der Einrichtung für unbegleitete minderjährige Flüchtlinge in Steglitz-Zehlendorf sichern - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Ombudsstelle beim JobCenter Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.2: Bei Bauanträgen die Einhaltung der Energieeinsparungsverordnung (EnEV) prüfen und aktiv beraten - überwiesen
+- TOP 5.2.3: Neue Parkregelung am Steglitzer Damm anwohnerfreundlicher gestalten - überwiesen
+- TOP 5.2.4: Taxi-Halteplatz am S-Bahnhof Lankwitz - überwiesen
+- TOP 5.2.5: Eingliederungsmittel für Langzeitarbeitslose in 2015 vollständig ausschöpfen - überwiesen
+- TOP 5.2.6: Busanbindung in Nikolassee sichert Mobilität - überwiesen
+- TOP 5.2.7: Schul-IT updaten - überwiesen
+- TOP 5.2.8: Einsicht in den aktuellen Stand über den Gesamtsanierungsbedarf des Fichtenberg-Gymnasiums - überwiesen
+- TOP 5.2.9: Dämmputz anbringen - überwiesen
+- TOP 5.2.10: Schulen mehr Autonomie einräumen - überwiesen
+- TOP 5.2.11: Ruhebänke in der Argentinischen Allee (beidseitig zwischen Waltraudstraße und U-Bhf. Onkel-Toms-Hütte) - überwiesen
+- TOP 5.2.12: Familienfreundlicher Bezirk I: Elternbefragung zu Kinderbetreuung - überwiesen
+- TOP 5.2.13: Überörtlicher Radweg von der Albrechtstraße bis Kleinmachnow/ Teltow - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Attraktive Veranstaltung mit verkaufsoffenem Sonntag in der Schloßstraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Unterkünfte für Flüchtlinge suchen - in der BVV abgelehnt
+- TOP 6.1.3: Finanzierung der Integrationslotsen (Stadtteilmütter) sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Ende für Seniorenwohnen in der Mudrastraße? - beantwortet
+- TOP 8: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 8.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1.1: Bezirkswohnraum Tautenburger Straße erhalten - in der BVV abgelehnt
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9.1: Abgabe des Wohnhauses Tautenburger Str. 34 sowie der Grundstücke Tautenburger Str. 32 und 37/39 (darauf befindlich per Generalmietvertrag angemietete Wohnhäuser der Wohnungsbaugesellschaft Berlin-Mitte mbH) an die BIM Berliner Immobilienmanagement GmbH mit dem Ziel der Veräußerung des Wohnhauses und der Grundstücke durch die BIM per Direktvergabe an die städtische Wohnungsbaugesellschaft Berlin-Mitte mbH, mit dem Ziel, Seniorenwohnen weiterhin zu gewährleisten - überwiesen
+- TOP 9.2: Abgabe der Wohnhäuser Dreilindenstr. 81, 83 und 85 sowie der Seniorenwohnhäuser Mudrastraße 1, 5, 9 und 11 an die BIM Berliner Immobilienmanagement GmbH mit dem Ziel der Veräußerung der Wohnhäuser durch die BIM per Direktvergabe an eine städtische Wohnungsbaugesellschaft - überwiesen
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Pflegestützpunkte im Bezirk bekannter machen - im Ältestenrat zurückgezogen
+- TOP 10.2: Die beiden Pflegestützpunkte im Bezirk bekannter machen - im Ältestenrat zurückgezogen
+- TOP 10.3: Einrichtung einer Ombudsstelle - im Ältestenrat zurückgezogen
+- TOP 10.4: Ruhebänke in der Argentinischen Allee (beidseitig zwischen Waltraudstraße und U-Bahnhof Onkel-Toms-Hütte) - im Ältestenrat zurückgezogen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Transparenz der Vorlage zum Beschluss Nr. 907 "Badestellen Schlachtensee" - in der BVV abgelehnt
+- TOP 11.2: Schulweg zur Mühlenau-Grundschule sichern - vertagt
+- TOP 11.3: Voruntersuchung Milieuschutzgebiete initiieren - vertagt
+- TOP 12: Schlusswort des Vorstehers - erledigt
