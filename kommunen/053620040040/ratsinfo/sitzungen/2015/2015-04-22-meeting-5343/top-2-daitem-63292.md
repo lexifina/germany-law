@@ -1,0 +1,6 @@
+# TOP 2.: Presseveröffentlichungen
+
+- Sitzung: Bau- und Vergabeausschuss (4. Sitzung) (2015-04-22)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/63292
