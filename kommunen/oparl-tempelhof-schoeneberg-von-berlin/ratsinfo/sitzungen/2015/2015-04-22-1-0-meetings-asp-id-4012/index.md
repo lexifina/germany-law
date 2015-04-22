@@ -1,0 +1,92 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-04-22T17:00:00+02:00
+- Ende: 2015-04-22T22:30:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4012
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4012
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XVIII. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Unerledigte Drucksachen der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XIX. Wahlperiode - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Kinder- und Jugendparlament - erledigt
+- TOP 7: Protokollgenehmigung - erledigt
+- TOP 8: Unerledigte Drucksachen - erledigt
+- TOP 8.1: Sanierungsstau an öffentlichen Gebäuden reduzieren - schriftlich beantwortet
+- TOP 8.2: Zeit für Kompromisse nutzen, Alternativplanungen für die Schöneberger Schleife zwischen Langenscheidtbrücke und Yorckstraße prüfen - in der BVV abgelehnt
+- TOP 8.3: Situation für den Fahrradverkehr in der Potsdamer Straße sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Kiez um die Dominicusstraße/Hauptstraße in den Blick nehmen! - in der BVV abgelehnt
+- TOP 8.5: Die Bahnhofstraße sauberer und sicherer machen - in der BVV abgelehnt
+- TOP 8.6: (nichtöffentlich)
+- TOP 9: Mündliche Anfragen - beantwortet
+- TOP 10: Große Anfragen - beantwortet
+- TOP 10.1: Haushaltssperre im Bezirk – Ursachen, Folgen und Maßnahmen - beantwortet
+- TOP 10.2: Bezirksfinanzen vor dem Kollaps? - beantwortet
+- TOP 11: Anträge - erledigt
+- TOP 11.1: Auswirkungen der Haushaltssperre - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Konsolidierungsziele bestimmen, Zeitplan festlegen, Maßnahmen umsetzen - überwiesen
+- TOP 11.3: Haushaltssperre aufheben! - in der BVV abgelehnt
+- TOP 11.4: Bericht über die Sportstättenvergabe - überwiesen
+- TOP 11.5: Ausstellung zum KZ Columbia-Haus im ehemaligen Flughafengebäude am Tempelhofer Feld ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Entschließung zum Neubau der Gustav-Heinemann-Schule - vertagt
+- TOP 11.7: Der Kriminalität durch Licht vorbeugen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Falschparken durch gestalterische Mittel auf dem Breslauer Platz entgegen treten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Voraussetzungen für barrierefreien Zugang zum U-Bahnhof Friedrich-Wilhelm-Platz schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Für barrierefreien Zugang zum U-Bahnhof Friedrich-Wilhelm-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Einwohnerversammlung zur „Wiedernutzbarmachung“ des ehemaligen Gesundheitsamts - vertagt
+- TOP 11.12: Lärmminderung durch Straßenumgestaltung - vertagt
+- TOP 11.13: Schulentwicklungsplan vorantreiben - überwiesen
+- TOP 11.14: Ein Schwarzblitzer für den Boelcketunnel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Personalstellen „wachsende Stadt“ - vertagt
+- TOP 11.16: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Umgestaltung Varziner Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Wohnbaupotential Hohenstaufenstraße 9-30 schrittweise erschließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Kein „Schandfleck“: Auf den Internetseiten des Bezirks über den geplanten Lern- und Gedenkort Annedore und Julius Leber informieren. - vertagt
+- TOP 11.20: Kleine Unterkünfte für Flüchtlinge einrichten - überwiesen
+- TOP 11.21: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: Sturmschäden am Gebäude in der Torgauer Straße 24-25 beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: übrige Große Anfragen - erledigt
+- TOP 12.1: Freies W-LAN für's Rathaus - vertagt
+- TOP 13: Beschlussempfehlungen - erledigt
+- TOP 13.1: Angebote der Jugendarbeit und der Jugendsozialarbeit nach dem KJHG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Suchtprobleme der Älteren ernst nehmen – Aufklärungskampagne starten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Jahresberichte 2014 der Patientenfürsprecher/-innen gem. § 30 des Landeskrankenhausgesetzes und § 40 des Gesetzes für psychisch Kranke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Spurführung für den Fahrradverkehr an der Urania verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.5: Beschilderung Tempelhofer Feld, statt „Tempelhofer Freiheit“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.6: Planerfordernis in der Gleditschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.7: Wirtschaftlichkeit der kommunalen Jugendfreizeiteinrichtungen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.8: Multifunktionsbad Mariendorf: Chancen für einen Neubau ergreifen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Beschlussfassung - erledigt
+- TOP 15: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 15.1: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 15.2: Bürgersolaranlage auf dem ehemaligen Flughafengebäude - überwiesen
+- TOP 15.3: Wegweisende Beschilderung ergänzen - überwiesen
+- TOP 15.4: Auch in Tempelhof-Schöneberg das Aktionsprogramm Agenda 21 zu Umwelt und zukunftsfähiger Nachhaltigkeitsentwicklung starten - überwiesen
+- TOP 15.5: Neue Bauvorhaben transparent machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Bauflächen Boelckestraße 1-7 (ungerade) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.7: Müllbehälter auf der Julius-Leber-Brücke aufstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.8: Neugestaltung Platz der Lüftbrücke - überwiesen
+- TOP 15.9: Sicherung der Schulplatzangebote an den Integrierten Sekundarschulen im Bezirk - überwiesen
+- TOP 15.10: Streichung zurücknehmen - umgehend Beförderung von Schüler/innen der Marianne-Cohn-Schule (Förderzentrum für geistige Entwicklung) zum Schwimmunterricht wieder durchführen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.11: Tatsächliche Schülerzahl an den Schulen finanzieren - überwiesen
+- TOP 15.12: Senat muss endlich seinen Obdachlosen-Rahmenplan von 1998 aktualisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.13: Finanzierung der Schulen auf eine solide Basis stellen - überwiesen
+- TOP 15.14: Geschützte Räume in Schwimmbädern für trans- und intersexuelle Menschen schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.15: Öffentlicher Bücherschrank für Tempelhof-Schöneberg - überwiesen
+- TOP 15.16: Sicherung von öffentlichen Bronzeskulpturen durch Einsatz künstlicher DNA - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.17: Interessen der Lichtenrader Bürger vertreten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.18: Parkbänke für den Kleistpark - überwiesen
+- TOP 15.19: Tag der Menschen mit und ohne Behinderungen 2015 - überwiesen
+- TOP 15.20: Aufstellung des vorhabenbezogenen Bebauungsplanes 7-72VE für das Grundstück Haupt-straße 162 / Willmanndamm 22 im Bezirk Tempelhof - Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 15.21: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des vorhaben-bezogen Bebauungsplans 7-77VE für die Grundstücke 2-16 im Bezirksamt Tempelhof-Schöneberg, Ortsteil Mariendorf sowie über die Aufstellung des vorhabenbezogenen Be-bauungsplans 7-78VE für die Grundstücke Britzer Straße 18-20 im Bezirk Tempelhof-Schöneberg, Ortsteil Mariendorf - überwiesen
+- TOP 15.22: Beschluss des integrierten städtebaulichen Entwicklungskonzepts (ISEK) Lichtenrade Bahnhofstraße - überwiesen
+- TOP 15.23: Ergebnis der frühzeitigen Information der Öffentlichkeit gem. § 13a Abs. 3 Nr. 2 BauGB zum vorhabenbezogenen Bebauungsplanentwurf 7-73VE für die Grundstücke Tempelhofer Weg 13-24, Sachsendamm 67-71 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 16: Termin der nächsten Sitzung - erledigt
