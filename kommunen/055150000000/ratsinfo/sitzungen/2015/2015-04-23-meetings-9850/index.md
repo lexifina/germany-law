@@ -1,0 +1,57 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-04-23T17:05:00+02:00
+- Ende: 2015-04-23T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9850
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9850
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00370078.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Planungsstand hinsichtlich der Hydraulik der Hunnebecke - Zwischenmitteilung zur Kenntnis genommen
+- TOP 4.2: Beginn der Baumaßnahme des Kindergartens Häger - Zwischenmitteilung zur Kenntnis genommen
+- TOP 4.3: Prüfauftrag zum Einsatz von "Black Spot Mirror" - eingebracht
+- TOP 5: Antworten zu Anfragen
+- TOP 6: Entscheidungen
+- TOP 6.1: Ausweisung der Straße "Gievenbecker Reihe" als Tempo-30-Zone, Anregung gem. § 24 GO NRW Nr. 2014-00118 - vertagt
+- TOP 7: Anhörungen
+- TOP 7.1: Osthofstraße - fehlende Radverkehrsanlagen zwischen der B 235 und Münster Albachten - vertagt
+- TOP 7.2: Corrensstraße - barrierefreier Ausbau der Haltestellen "Corrensstraße" - einstimmig beschlossen
+- TOP 7.3: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig beschlossen
+- TOP 8: Anregungen / Anträge
+- TOP 8.1: Planung und Errichtung der Druckleitung in Nienberge-Häger schnellstmöglich beginnen - eingebracht
+- TOP 8.2: Sichere Gestaltung der Einmündung des Verbindungsweges zwischen Josef-Pieper-Straße und Theresiengrund - zur Kenntnis genommen
+- TOP 8.3: Verkehrliche Erschließung des in Planung befindlichen Baugebietes südlich der Weseler Straße östlich bzw. südöstlich der Sportanlage - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.4: Radweg südlich der L551 Weseler Straße von Kreuzung Oberort bis BAB 1 - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.5: Neue Aufteilung der Dülmener Straße L551 zwischen Albachten Kreisverkehr und Senden-Bösensell - Beseitigung der Gefährdungen - zur Kenntnis genommen
+- TOP 8.6: Handlungsbedarf für die Mosaik-Schule in Gievenbeck - eingebracht
+- TOP 8.7: Vögedingplatz in Nienberge zur Bebauung mit altengerechten barrierefreien Wohnungen und einer Kindertagesstätte freigeben - eingebracht
+- TOP 8.8: Verbesserung der Verkehrssicherheit für Fußgänger und Radfahrer auf der Heroldstraße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.9: Einheitliche Regelung 30 km/h auf der Mecklenbecker Straße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.10: Wegeverbindung zwischen Hafkhorst und Ripenhorst - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.11: Unterhaltung Reitwege im Bereich der Bezirksverwaltung West - eingebracht
+- TOP 8.12: Barrierefreiheit und Aufenthaltsqualität des Forums bei Marktkauf - eingebracht
+- TOP 8.13: Sanierung Weg entlang des Meckelbaches zwischen Christoph-Bernhard-Graben und Mecklenbecker Straße - eingebracht
+- TOP 8.14: "Geschwindigkeitsreduzierende Maßnahmen von Anfang an vorsehen" (in Ergänzung zur Vorlage V/0924/2014) - eingebracht
+- TOP 8.15: Verkehrsberuhigung auf der Osthofstraße - Aufstellung eines stationären Geschwindigkeits-Displays - eingebracht
+- TOP 8.16: Bahnhof Roxel: Zuwegung vom Nottulner Landweg - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Wege im Offerbachpark in Münster-Albachten sanieren - zur Kenntnis genommen
+- TOP 9.2: Studieren mit Kind in der Boeselburg - zur Kenntnis genommen
+- TOP 9.3: Verkehrssicherungsmaßnahmen Straße "Mergelberg" - zur Kenntnis genommen
+- TOP 9.4: Verkehrssituation Stodtbrockweg, Roxel - zur Kenntnis genommen
+- TOP 9.5: "Wetterfeste" Wege im Landschaftspark Mecklenbeck - zur Kenntnis genommen
+- TOP 9.6: Standortkonzept für den anstehenden Kita-Bedarf in Mecklenbeck - zur Kenntnis genommen
+- TOP 9.7: Verkehrsberuhigung auf der Straße "Am Langenkamp" - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.8: Verkehrsberuhigung auf der Straße "Sendener Stiege" - Zwischenmitteilung zur Kenntnis genommen
+- TOP 10: Verschiedenes
