@@ -1,0 +1,126 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-04-23T18:00:00+02:00
+- Ende: 2015-04-23T20:48:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1221
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1221
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Resolution (Anlage der Niederschrift) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00060951.pdf
+- Ergebnisprotokoll: Resolution (Anlage der Niederschrift) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00060951.pdf
+- Wortprotokoll: Resolution (Anlage der Niederschrift) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00060951.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Konverterstandort
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: CDU, Antrag Nr. 97/15 - einstimmig
+- TOP 3.1.2: CDU, Antrag Nr. 98/15 - einstimmig
+- TOP 3.1.3: CDU, Antrag Nr. 99/15 - einstimmig
+- TOP 3.1.4: CDU, Antrag Nr. 100/15 - einstimmig
+- TOP 3.1.5: CDU, Antrag Nr. 101/15 - einstimmig
+- TOP 3.2: UWG
+- TOP 3.2.1: UWG, Antrag Nr. 96/15 - einstimmig
+- TOP 3.2.2: UWG, Antrag Nr. 58/15 - einstimmig
+- TOP 3.2.3: UWG, Antrag Nr. 61/15 - einstimmig
+- TOP 3.2.4: UWG, Antrag Nr. 65/15
+- TOP 3.2.5: UWG, Antrag Nr. 87/15 - einstimmig
+- TOP 3.2.6: UWG, Antrag Nr. 92/15 - einstimmig
+- TOP 3.2.7: UWG, Antrag Nr. 83/15
+- TOP 3.2.8: FDP, Antrag Nr. 88/15 - einstimmig
+- TOP 3.2.9: FDP, Antrag Nr. 94/15 - einstimmig
+- TOP 3.3: FDP
+- TOP 3.3.1: FDP, Antrag Nr. 85/15 - einstimmig
+- TOP 3.3.2: FDP, Antrag Nr. 86/15 - einstimmig
+- TOP 3.4: B 90/DIE GRÜNEN
+- TOP 3.5: ABG
+- TOP 3.5.1: ABG, Antrag Nr. 62/15 - einstimmig
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Mein GV, Antrag Nr. 109/15 - einstimmig
+- TOP 3.6.2: Mein GV, Antrag Nr. 110/15 - einstimmig
+- TOP 3.6.3: Mein GV, Antrag Nr. 111/15 - einstimmig
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.7.1: Die Linke/Piraten, Antrag Nr. 64/15 - Kenntnisnahme
+- TOP 3.8: Gemeinschaftsanträge
+- TOP 3.9: SPD
+- TOP 3.9.1: SPD, Antrag Nr. 79/15 - einstimmig
+- TOP 3.9.2: SPD, Antrag Nr. 81/15 - einstimmig
+- TOP 3.9.3: SPD, Antrag Nr. 102/15 - einstimmig
+- TOP 3.9.4: SPD, Antrag Nr. 103/15 - einstimmig
+- TOP 3.9.5: SPD, Antrag Nr. 104/15 - einstimmig
+- TOP 3.9.6: SPD, Antrag Nr. 105/15 - Kenntnisnahme
+- TOP 3.9.7: SPD, Antrag Nr. 106/15 - einstimmig
+- TOP 3.9.8: SPD, Antrag Nr. 107/15 - einstimmig
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.2.1: SPD, Anfrage Nr. 108/15
+- TOP 4.3: UWG
+- TOP 4.3.1: UWG, Anfrage Nr. 84/15
+- TOP 4.3.2: UWG, Anfrage Nr. 63/15
+- TOP 4.3.3: UWG, Anfrage Nr. 59/15
+- TOP 4.4: FDP
+- TOP 4.4.1: FDP, Anfrage Nr. 95/14
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: ABG
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.7.1: Mein GV, Anfrage Nr. 112/15 - Kenntnisnahme
+- TOP 4.7.2: Mein GV, Anfrage Nr. 113/15 - Kenntnisnahme
+- TOP 4.7.3: Mein GV, Anfrage Nr. 114/15 - Kenntnisnahme
+- TOP 4.7.4: Mein GV, Anfrage Nr. 115/15 - Kenntnisnahme
+- TOP 4.7.5: Mein GV, Anfrage Nr. 116/15 - Kenntnisnahme
+- TOP 4.7.6: Mein GV, Anfrage Nr. 117/15 - Kenntnisnahme
+- TOP 4.7.7: Mein GV, Anfrage Nr. 119/15 - Kenntnisnahme
+- TOP 4.8: Die Linke/Piraten
+- TOP 4.9: Gemeinschaftsanfragen
+- TOP 4.9.1: gemeinsame Anfrage Nr. 118/15 - Kenntnisnahme
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Resolution - einstimmig
+- TOP 6.1: FDP, Antrag Nr. 89/15 - Kenntnisnahme
+- TOP 7: Einwohnerantrag gemäß § 25 GO NRW zum Verzicht auf eine Einführung von Elternbeiträgen für Geschwist - einstimmig
+- TOP 8: Mittelbereitstellungen
+- TOP 9: Spenden/Sponsoring 2014 - Kenntnisnahme
+- TOP 10: Beratungspunkte Ausschüsse
+- TOP 10.1: Änderung der OGS - Beitragssatzung - einstimmig
+- TOP 10.2: Antrag auf Namensgebung der Gesamtschule II - einstimmig
+- TOP 10.3: Auflösung Realschule Bergheimer Straße - einstimmig
+- TOP 11: Entscheidung PlanungsA
+- TOP 11.1: Einrichtung Lenkungsgruppe ISEK - einstimmig
+- TOP 11.2: 15. Änd. FNP "Lindenstraße/Am Hagelkreuz" - Genehmigung nach § 6 BauGB - mehrheitlich bei
+- TOP 12: Beantwortung Anträge
+- TOP 12.1: Beantwortung Antrag 32/14 - Kenntnisnahme
+- TOP 12.2: Mein GV, Antrag Nr. 171/2014 - Kenntnisnahme
+- TOP 12.3: Prüfauftrag zur Umsetzung stärkerer Kontrollen im öffentlichen Raum - Kenntnisnahme
+- TOP 12.4: Mein GV, Antrag Nr. 27/2015 - Kenntnisnahme
+- TOP 13: Beantwortung Anfragen
+- TOP 13.1: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 13.2: Bekanntgabe APL/ÜPL - Kenntnisnahme
+- TOP 13.3: Bekanntgabe APL/ÜPL - Kenntnisnahme
+- TOP 13.4: Arbeit der zentralen Beschaffungsstelle (Anfrage Nr. 271/14) - Kenntnisnahme
+- TOP 13.5: Möglichkeiten zur Stärkung der Eigeninitiative der Bürger (Anfrage Nr. 272/14) - Kenntnisnahme
+- TOP 13.6: Nutzung des Alten Schlosses (Anfrage Nr. 277/14) - Kenntnisnahme
+- TOP 13.7: Nutzung des Haus Hartmann (Anfrage Nr. 278/14) - Kenntnisnahme
+- TOP 13.8: Überstunden in der Verwaltung (Anfrage Nr. 282/14) - Kenntnisnahme
+- TOP 13.9: Die Linke/Piraten, Anfrage Nr. 312/2014 - Kenntnisnahme
+- TOP 13.10: UWG, Anfrage Nr. 7/2015 - Kenntnisnahme
+- TOP 13.11: Anfrage Nr. 17/2015 - Kenntnisnahme
+- TOP 13.12: Mein GV, Anfrage Nr. 29/2015 - Kenntnisnahme
+- TOP 13.13: Mein GV, Anfrage Nr. 30/2015 - Kenntnisnahme
+- TOP 14: mündliche Anträge/Anfragen
+- TOP 14.1: Anfrage 121/15, Lange-Walker
+- TOP 14.2: Anfrage 122/15, ehem. HS in Gustorf
+- TOP 14.3: Anfrage 123/15, Schlaglöcher
+- TOP 14.4: Anfrage 124/15, Aldi in Gustorf
+- TOP 14.5: Anfrage 125/15 Grundwasser
+- TOP 14.6: Anfrage 126/15, Ferienfreizeit Flüchtlingskinder
+- TOP 14.7: Anfrage 127/15, Apfelwiese
+- TOP 14.8: Anfrage 128/15, Fußgängerampel
+- TOP 14.9: Anfrage 129/15, Spielplatz
+- TOP 14.10: Anfrage 130/15, Auf dem Mergendahl
+- TOP 15: Mitteilungen BM'in
+- TOP 15.1: Schreiben des RKN - Kenntnisnahme
