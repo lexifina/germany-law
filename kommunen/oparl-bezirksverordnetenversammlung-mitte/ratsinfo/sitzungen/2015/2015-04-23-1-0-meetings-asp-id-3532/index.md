@@ -1,0 +1,112 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2015-04-23T17:30:00+02:00
+- Ende: 2015-04-23T22:18:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3532
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3532
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=122904
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Es werde Licht! Lampen im Bezirk - beantwortet
+- TOP 5.2: Baustelle Jülicher Straße - beantwortet
+- TOP 5.3: Integrationslotsen statt Kiezmütter? - beantwortet
+- TOP 5.4: Steglitz-Zehlendorfer Schulen in Mitte? - beantwortet
+- TOP 5.5: Wie geht es weiter mit der Sporthalle am Standort des ehemaligen Diesterweg-Gymnasiums? - beantwortet
+- TOP 5.6: Liebesgrüße nach Moskau - beantwortet
+- TOP 5.7: Alles auf Anfang bei der "Wiesenburg"? - schriftlich beantwortet
+- TOP 5.8: Neue Stellen für Mitte: Was plant das Bezirksamt? - schriftlich beantwortet
+- TOP 5.9: Abgabe des JVS-Standorts Bremer Str. 10 längst entschieden? - schriftlich beantwortet
+- TOP 5.10: Zweckentfremdung in Mitte - schriftlich beantwortet
+- TOP 5.11: Platzbenennungen - schriftlich beantwortet
+- TOP 5.12: Bebauung Invalidenfriedhof: Bezirksamt hat planungsrechtliche Sicherung als Grünanlage verpennt! - schriftlich beantwortet
+- TOP 5.13: Russische Rocker in Berlin? - schriftlich beantwortet
+- TOP 5.14: Jobcenter und Langzeitsarbeitslosigkeit: Warum geben wir Eingliederungsmittel nicht aus? - schriftlich beantwortet
+- TOP 5.15: Serverausfall in Nürnberg - Jobcenter Mitte am 20.04.2015 lahmgelegt? - schriftlich beantwortet
+- TOP 5.16: Dubioser Gutachter schiebt Flüchtlinge gegen Honorar ggf. persönlich ab? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: UEFA-Fest am Brandenburger Tor zum Champions League Finale - beantwortet
+- TOP 6.2: Absage des 23. Nisan Kinderfestes - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: (Schultoiletten-) Sanierungsmaßnahmen an Schulen in Mitte - beantwortet
+- TOP 7.2: Warum bekommt das Bezirksamt den B-Plan 1-60a nicht fertig? - beantwortet
+- TOP 7.3: Bezirksamt baut Hürden für Nisan - schriftlich beantwortet
+- TOP 7.4: Aufrechterhaltung der Notunterkunft im Poststadion - schriftlich beantwortet
+- TOP 7.5: Sozialverträgliche Mieten im Brunnenviertel - schriftlich beantwortet
+- TOP 7.6: Wie geht es weiter auf dem Bethlehemkirchplatz? - schriftlich beantwortet
+- TOP 7.7: Überleitung befristet beschäftigter Dienstkräfte - schriftlich beantwortet
+- TOP 7.8: Jugendberufsagentur in Mitte - zwischen Anspruch und Realität - schriftlich beantwortet
+- TOP 7.9: Werden Mieter und Flüchtlinge ausgespielt? - schriftlich beantwortet
+- TOP 7.10: Kleingärten in Mitte - schriftlich beantwortet
+- TOP 7.11: Bashing der Stadtbärin Schnute - schriftlich beantwortet
+- TOP 7.12: Jobcenter Mitte - Geld übrig? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Änderung der Geschäftsordnung der Bezirksverordnetenversammlung Mitte von Berlin - mit Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Außerkraftsetzung der Veränderungssperre 1-60/21 für die Flurstücke 399 und 400 (Gemarkung Mitte, Flur 818) sowie eine Teilfläche der Schillingstraße im Bezirk Mitte, Ortsteil Mitte sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - in der BVV abgelehnt
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Berlin-Mitte zum 100. Jahrestag des Genozids gegenüber dem armenischen Volk am 24. April - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Verschiebung der September-BVV auf 24.09.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Die Zeitmaschine auf dem Alex - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Informationen zur Barrierefreiheit im Internet veröffentlichen - überwiesen
+- TOP 12.2: Good Bye Windows XP - III - erledigt
+- TOP 12.3: Umgehende Umsetzung des geplanten Aufbaus einer zentralen Impfstelle für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Personalabbau nicht übertreiben! - überwiesen
+- TOP 12.5: Würdigung des Ursprungs des Gesundbrunnen - überwiesen
+- TOP 12.6: Aufstellungsbeschluss für eine Erhaltungssatzung im Gebiet Wilhelmstraße - überwiesen
+- TOP 12.7: Lampenpatenschaften für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Aufwendungen für Schuldnerberatungen landesweit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Mietpreisbremse auch für bestehende Mietverhältnisse durch Anwendung des Wirtschaftsstrafgesetzes (Mietwucher) - überwiesen
+- TOP 12.10: Ausweitung der Beobachtungsgebiete zur Ausweisung einer sozialen Erhaltungssatzung - überwiesen
+- TOP 12.11: AG nach § 78 SGB VIII mit dem Schwerpunkt "minderjährige Flüchtlinge" einrichten! - überwiesen
+- TOP 12.12: Mitte als Arbeitgeber attraktiver machen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sucht im Alter - Aufklärungskampagne starten! - überwiesen
+- TOP 12.14: Keine Ausnahme vom Nachtflugverbot für Champion-League-Endspiel - in der BVV abgelehnt
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Social Media-Buttons für BVV-Seiten - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Pfandschlupf bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Begegnungsraum im Kiez ertüchtigen: Umgestaltung des Mittelbereichs in der Waldstraße beginnen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Einrichtung eines Runden Tisches zum Tourismus - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Mehr VHS-Deutschkurse für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Die BVV und die Ruine - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Sicherheit darf keine Frage der Zuständigkeit sein! - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Sicherheit im Goethepark erhöhen (2) - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Aufstellungsbeschluss zu den vertieften Untersuchungsgebieten für eine soziale Erhaltungssatzung im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Sachstandsbericht zur Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Benennung des Uferbereiches zwischen Anna-Louisa-Karch-Straße und Karl-Liebknecht-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Erstellen einer Positivliste schadstoffreduzierter Anschaffungen in Kitas, Schulen und Jugendfreizeiteinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Neueinstellungen mit Migrationshintergrund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Informationen über die Barrierefreiheit im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Konzept zum Erhalt und zur Verbesserung der Ladenstruktur in der Badstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Qualitätskontrollen für Flüchtlingsunterkünfte und Nutzung des Bildungs- und Teilhabepaketes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Gewerbetreibende und KünstlerInnen auf dem Schultheiss-Areal unterstützen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.8: Geschichte des Bezirks Mitte und seiner Bezirksverordnetenversammlung sichtbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Über die Funktionsweise von Business Improvement Districts (BIDs) informieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.10: Stärkung des Mittelstands und der Geschäftsquartiere - BIG in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.11: Bebauungspläne auf Mittes Internetauftritt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Frauenschwimmzeiten einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Genderquote bei Benennungen und Umbenennungen von Straßen und Plätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: BVV-Dokumente unter den bisherigen Web-Adressen wieder verfügbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Bericht über die bezirklichen Gesundheitsziele zur Kindergesundheit (Berichtszeitraum 2010 - 2014) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Beschluss zur Konkretisierung städtebaulicher Sanierungsziele für das Gebiet Turmstraße im Bereich des ehemaligen Krankhauses Moabit, Block 63 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
