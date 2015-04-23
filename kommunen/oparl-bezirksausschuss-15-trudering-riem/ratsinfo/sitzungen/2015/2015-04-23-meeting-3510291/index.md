@@ -1,0 +1,106 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-04-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510291
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510291
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: Zukunft des SBH Trudering- Riem (TOP 4.4) - <div>nach Antrag und Weiterleitung</div>
+- TOP 1.2.: Anlegung des Fuß- und radwegs von der Haffstraße über den Horst- Salzmann- Weg zur Feldbergstraße - <div>nach Antrag und Weiterleitung</div>
+- TOP 1.3.: Bajuwarenstraße 41 (TOP 7.4.3) - <div>Ablehnung des Bauvorhabens</div>
+- TOP 1.4.: Edeltraudstraße 16 (TOP 7.4.4) - <div>Zustimmung</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 1.2.: (E) Abhalten eines Flohmarktes am 02.05.2015 auf dem Platz der Menschenrechte; Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 - <div>nach Antrag</div>
+- TOP 1.3.: (E) Antrag auf Erteilung einer Sondernutzungserlaubnis für den ambulanten Straßenhandel; Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - <div>nach Antrag</div>
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Parksituation in München- Waldtrudering verbessern - <div>Weiterleitung an die PI</div>
+- TOP 3.2.: Einrichtung eines Kreisverkehrs in der Joseph-Wild-Straße an der Einmündung Am Mitterfeld - <div>Zustimmung mit Ergänzungen und Weiterleitung</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Schulsozialarbeit an der Grundschule an der Forellenstraße - <div>Zustimmung und Weiterleitung</div>
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 3.5.1.: IG Fernwärme in der Messestadt - <div>Zustimmung und Weiterleitung inkl. Anfrage der CSU-Fraktion</div>
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Entschärfung von Gefahrenstellen durch optische Markierungen an der Friedenspromenade - <div>nach Antrag inkl. Ergänzngen und Weiterleitung</div>
+- TOP 4.2.: Verbesserung der Verkehrssituation in der Bajuwarenstraße (TOP 4.2 vom 26.03.2015) - <div>vertagt bis zum Ende der Baumaßnahme</div>
+- TOP 4.3.: Allen BA- Mitgliedern die Ausübung ihres ehrenamtlichen Mandats zeitgemäß ermöglichen - <div>nach Antrag</div>
+- TOP 4.4.: Was geschieht mit dem SBH Trudering- Riem? - <div>nach Antrag</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Modellversuch- Sportgeräte für Erwachsene an Kinderspielplätzen - <div>vertagt in 05/2015</div>
+- TOP 5.2.: Feste Lautsprecherinstallation nach außen am Neuen Friedhof Riem - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Aufwertung der Schwablhofstraße - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Barrierefreiheit im Gymnasium Trudering - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Errichtung eines Mehrgenerationensportplatzes auf einer neuen Bezirkssportanlage an der Riemer Straße/ Am Mitterfeld - <div>zur Kenntnis genommen</div>
+- TOP 5.10.: Wasser- und Energieverbrauch der städtischen Einrichtungen im 15. Stadtbezirk (die Energiepässe sowie die Verbaucherbenchmarks des Energie- und Wasserverbrauchs für die Gebäude des Stadtbezirks 15 können in der BA G Ost eingesehen werden) - <div>siehe TOP 5.6</div>
+- TOP 5.7.: Anfrage zur Nachverdichtung in Trudering und Riem - <div>zur Kenntnis genommen</div>
+- TOP 5.8.: Mut zur nachhaltigen Gestaltung - externe kleinteilige B-Pläne zulassen - <div>zur Kenntnis genommen</div>
+- TOP 5.9.: Richtlinienkompetenz zum Schutz der Gartenstädte einsetzen! - <div>zur Kenntnis genommen</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Errichtung eines umlegbaren Absperrpfostens oder einer Schranke für den Waldweg zwischen Fauststraße und Schrammiger Weg; Empfehlung Nr. 14-20/ E 00175 der Bürgerversammlung des Stadtbezirkes 15- Trudeirng- Riem am 09.10.2014; Schreiben des Kommunalreferates vom 18.03.2015 - <div>erneute Stellungnahme</div>
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Holi Gaudy festival am 23.05.2015 auf dem Messefreigelände München (TOP 7.1.9 vom 26.03.2015) - <div>nach Antrag</div>
+- TOP 7.2.: Ganzjährige Spielaktionen der Spiellandschaft Stadt e.V. im gesamten Stadtgebiet ab April 2015, hier: Grünfläche an der Xaver- Weismor- Straße vom 14.- 15.09.2015 - <div>nach Antrag</div>
+- TOP 7.3.: Zirkus- Attraktionen im Riemer Park ab 01.08.2015, Wiese hinter dem Quax, Helsinkistraße 100 - <div>nach Antrag</div>
+- TOP 7.4.: Kinderbetreuungskosten während der BA- Tätigkeit; Änderung der BA- Satzung; Antrag Nr. 14-20/ B 00345 des Bezirksausschusses des Stadtbezirkes 08- Schwanthalerhöhe vom 16.09.2014 - <div>nach Antrag</div>
+- TOP 7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA- Satzung; Antrag Nr. 14-20/ B 003344 des Bezirksausschusses des Stadtbezirkes 13- Bogenhausen vom 16.09.2014 - <div>nach Antrag</div>
+- TOP 7.7.: Spielaktion"Echo e.V." im Riemer Park vom 29.05.2015 bis 06.06.2015 - <div>nach Antrag</div>
+- TOP 7.8.: Truderinger Festwoche vom 08.05.2015 bis 17.05.2015 - <div>nach Antrag</div>
+- TOP 7.9.: RBS-Skatboard-Ferienkurse im Riemer Park- Skateranlage ab 01.08.2015 - <div>nach Antrag</div>
+- TOP 7.10.: Drachenfest im Riemer Park vom 24.09- 27.09.2015 - <div>nach Antrag</div>
+- TOP 7.11.: 15. dg9-Cup auf dem Graf- Spee- Platz am 24.05.2015 - <div>nach Antrag</div>
+- TOP 7.12.: TruRieRad im Riemer Park am 21.06.2015 - <div>nach Antrag</div>
+- TOP 7.13.: BRK Übung im 15. Stadtbezirk am 18.07.2015 - <div>nach Antrag</div>
+- TOP 7.1.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015) - <div>Zustimmung mit Ergänzungen</div>
+- TOP 7.1.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 023/01 "Westlich der Agilofingerstraße- 1. Teiländerung bezüglich des Anbaus von Wintergärten auf bestehende Dachterrassen", Verfahren nach §§ 13 Abs.1, 4 Abs. 2 BauGB - <div>nach Antrag</div>
+- TOP 7.2.: Bauleitplanung der Gemeinde Aschheim, Aufstellung des Bebauungsplanes Nr. 054/01 Dornach Nord- West "Westlich der Friedhofstraße/ am Johann- Wieser-Ring- 1. Teiländerung für das Grundstück Fl.Nr. 140/17", Verfahren nach § 4 Abs. 1 BauGB - <div>nach Antrag</div>
+- TOP 7.1.: Wasserburger Landstraße - <div>Zustimmung zum Bauvorhaben</div>
+- TOP 7.2.: Markgrafenstraße 42 - <div>Zustimmung zum Bauvorhaben</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: 8.1.1 Gerstäckerstraße 43 8.1.2 Heilwigstraße 6 8.1.3 Schönauer Weg 6 8.1.4 Solalindenstraße 72 8.1.5 Tsingtauer Straße 7 8.1.6 Waldtruderinger Straße 59 8.1.7 Windhuker Straße 11 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: 8.2.1 Bajuwarenstraße 41 8.2.2 Birkhahnweg 23 8.2.3 Feldbergstraße 98 8.2.4 Gräfstraße 15 8.2.5 Groschenweg 28 8.2.6 Großfriedrichsburger Straße 28 8.2.7 Groß-Nabas-Straße 9 8.2.8 Iltisstraße 23 8.2.9 Lachenmeyerstraße 11 8.2.10 Leonhardiweg 17 8.2.11 Oberhuberstraße 20 8.2.12 Ottilienstraße 68 8.2.13 St.- Augustinus- Straße 62 8.2.14 Schmuckerweg 3 8.2.15 Sonnenspitzstraße 13 8.2.16 Steffelhofstraße 11 8.2.17 Toni-Schmid-Straße 39 8.2.18 Tsingtauer Straße 47A 8.2.19 Zehntfeldstraße 243 - <div>Zustimmung zum Votum des UA</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Bericht des Behindertenbeauftragten "Regionale Infoveranstaltung Aktionsplan in Trudering- Riem" - <div>zur Kenntnis genommen</div>
+- TOP 9.2.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA- Satzung; Einhaltung der Anhörungsfrist, Schreiben des Oberbürgermeisters an die Referate - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: 10.1.1 Unveränderte Fortführung von Gaststättenbetrieben 10.1.1.1 Trink- und Imbisskiosk mit Bewirtugnsfläche im Freien, Truderinger Straße 295 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: 10.1.2 Verwendungsnachweise und Sachberichte über die Verwendung des Budgets 10.1.2.1 Evangelisch- Lutherische Sophienkirche 10.1.2.2 Chorgemeinschaft St. Peter und Paul 10.1.2.3 SC Arcadia Messestadt München e.V. 10.1.2.4 Truderinger Musikverein e.V. 10.1.2.5 Nachbarschaftswerk wagnis e.V. 10.1.2.6 Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA- Satzungskommission vom 15.01.2015 2. Umsetzung und Empfehlungen in eine Änderungssatzung; Sitzungsvorlage Nr. 14-20/V 02091; Beschluss der Vollversammlung des Stadtrates vom 04.03.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Straßenausbaubeitragssatzung, Beitragserlass für bereits abgeschlossene Maßnahmen; Sitzungsvorlage Nr. 14-20/ V 02686; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Elisabeth- Baerlein- Straße, Erstmalige Herstellung und Erdinger Straße, Geh- und Fahrbahnsanierung von Anfang Mai bis Ende Juli - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Bajuwarenstraße zwischen Himalajastraße und St.- Augustinus- Straße, Barrierefreier Ausbau der Bushaltestellen Sanierung der angrenzenden Fuß- und Radwege 07. April bis Mai 2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Verkehrschaos vermeiden- Parkregelung für die neue Kindertagesstätte in der Waldschulstraße frühzeitig festlegen (TOP 5.1 vom 26.03.2015) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Privatisierung Rennverein Riem stoppen: Dinglich gesichertes Vorkaufsrecht für die LHM sowie ein dinglich gesichertes Belastungsverbot der Vereinsfläche; BA- Antrag Nr. 14-20/ B 00847 des Bezirksausschusses 13- Bogenhausen vom 10.02.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Urbane Gemeinschaftsgärte in München a) Urbane Gemeinschaftsgärten b) Behandlung der Anträge 1. Urbanes Gärtnern I: Flächen für Gemeinschaftsgärten in Nuebaugebieten einplanen; Antrag Nr. 14-20/ A 00199 der Stadtratsfraktion der Bündnis 90/DIE GRÜNEN/RL vom 21.08.2014 2. Urbanes Gärtnern II: Mobile Gärten auf allen noch nicht bebauten Kaernen- und Entwicklungsflächen ermöglichen!; Antrag Nr. 14-20/ A 00200 der Stadtratsfraktion Bündni 90/DIE GRÜNEN/RL vom 21.08.2014 3. Urbanes Gärtnern III: Urban Gardening in allen Stadtvierteln; Antrag Nr. 14-0/ A 00202 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 21.08.2014 Sitzungsvorlagen Nr. 14-20/ V 02503; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen; Antrag Nr. 08-14/ A 05260 der Stadtratsfraktion DIE GRÜNEN/RL vom 14.03.2014; Sitzungsvorlagen Nr. 14-20/ V 02621; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Studie "Älter werden in München" Abschlussbericht; Sitzungsvorlagen Nr. 14-20/ V 02540; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: 10.4.1 Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum 10.4.1.1 Kronenweg 7 10.4.1.2 Bartholomäer Straße 6 10.4.1.3 Heilwigstraße 18 10.4.1.4 Widmannstraße 25 10.4.1.5 Waterbergstraße 8 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Grundschule Forellenstraße 5; Wiedererrichtung des Sportplatzes (TOP 5.2 vom 26.03.2015) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale; Sitzungsvorlage Nr. 14-20/ V 02270; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 14-20/ V 02224; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Zuschussnehmerdatei 201, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20/ V 02272; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Zuschussnehmerdatei 2015 Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 14-20/ V 02301; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Anmietung von Räumen für eine offene Einrichtung für Jugendliche und Heranwachsende "Jugendcafe Messetsdat- Riem"; Schreiben des Stadtjugendamtes vom 13.04.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün; Sitzungsvorlage Nr. 14-20/ V 02645; Bekanntgabe in der Sitzung des Bauauasschusses vomm 21.04.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Eichhörnchen Schutz e.V. Beschaffung von Aufzuchtmilch, Voliere und Kfz-Anhänger - <div>abgelehnt und Weiterleitung an das zuständige Referat</div>
+- TOP 1: (E) Sicherer Schulweg durch Errichtung eines Zebrastreifens in der Astrid-Lindgren-Straße Ecke Ingeborg-Bachmann-Straße (Ziffer 1) - <div>nach Antrag</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
