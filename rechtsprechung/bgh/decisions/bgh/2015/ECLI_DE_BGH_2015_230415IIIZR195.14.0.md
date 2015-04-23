@@ -1,0 +1,400 @@
+---
+ecli: "ECLI:DE:BGH:2015:230415IIIZR195.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-03"
+aktenzeichen: "III ZR 195/14"
+decided: "2015-04-23"
+typ: "U"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2015&Sort=1&Seite=30&nr=71072&anz=3079&pos=920&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-03_LE_2015-04-23_III_ZR_195_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bbaug/0046.md", "germany/bund/acts/bbaug/0221.md", "germany/bund/acts/gbo/0012.md", "germany/bund/acts/grundgesetz/artikel/001.md", "germany/bund/acts/zpo/0415.md", "germany/bund/acts/zpo/0418.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, III ZR 195/14 vom 2015-04-23
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+
+                                 URTEIL
+III ZR 195/14
+                                                             Verkündet am:
+                                                             23. April 2015
+                                                             Kiefer
+                                                             Justizangestellter
+                                                             als Urkundsbeamter
+                                                             der Geschäftsstelle
+                             in der Baulandsache
+
+Nachschlagewerk:   ja
+BGHZ:            nein
+BGHR:              ja
+
+
+BauGB § 46 Abs. 1, § 221 Abs. 2; BadWürttGemO § 35 Abs. 1, § 38 Abs. 1
+
+a) Im Rahmen der Anfechtung des Umlegungsbeschlusses ist die Rechtmäßigkeit der Anordnung der Umlegung zu überprüfen (Fortführung der Senatsurteile vom 12. März 1987 - III ZR 29/86, BGHZ 100, 148, 149 und 155 sowie
+   vom 2. April 1981 - III ZR 131/79, NJW 1981, 2124, 2125).
+
+b) Zum Öffentlichkeitserfordernis nach § 35 Abs. 1 GemO BW bei einem Beschluss des Gemeinderats über die Anordnung einer Umlegung nach § 46
+   BauGB.
+
+c) Zur Amtsermittlung über den Inhalt eines (nichtöffentlichen) Teils einer Gemeinderatssitzung.
+
+d) Die gemäß § 38 Abs. 1 GemO BW zu fertigende Niederschrift über die Gemeinderatssitzung ist eine öffentliche Urkunde, bezüglich deren Inhalt der
+   Beweis der Unrichtigkeit zulässig ist (§§ 415, 418 Abs. 1 und 2 ZPO; Anschluss an VGH Baden-Württemberg NVwZ-RR 1989, 153). Eine negative
+   Beweiskraft dergestalt, dass in der Niederschrift nicht aufgenommene Vorgänge als nicht stattgefunden zu behandeln sind, ist ihr nicht beizumessen.
+
+BGH, Urteil vom 23. April 2015 - III ZR 195/14 - OLG Stuttgart
+                                                  LG Stuttgart
+
+                                          - 2 -
+
+
+
+    Der III. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 23. April 2015 durch den Vizepräsidenten Schlick und die Richter Wöstmann, Tombrink, Dr. Remmert und Reiter
+
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Beteiligten zu 5 und 6 wird das Urteil des
+          102. Senats für Baulandsachen des Oberlandesgerichts Stuttgart
+          vom 3. Juni 2014 aufgehoben und die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsrechtszugs, an das Berufungsgericht zurückverwiesen.
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                       Tatbestand
+
+
+1         Die Beteiligten zu 1 bis 4 sind Eigentümer von teilweise bebauten Grundstücken im Bereich des Umlegungsgebiets "M.                  Ö.       " in G.
+          . Diese Grundstücke liegen im Bereich des - mehrfach geänderten - Bebauungsplans "M.          ", der im Mai 1983 in Kraft getreten ist.
+
+
+2         In der öffentlichen Sitzung am 13. März 2012 beriet der Gemeinderat der
+    Beteiligten zu 5 über den Beschluss zur Anordnung der Umlegung für ein Teilgebiet des Bebauungsplans "M.               Ö.      ". Im Protokoll ist vermerkt,
+    dass der Bürgermeister der Beteiligten zu 5 um 20.45 Uhr für fünf Minuten die
+    Nichtöffentlichkeit herstellte. Danach wurde die Öffentlichkeit wiederhergestellt,
+
+                                          - 3 -
+
+
+
+    weiter beraten und der Beschluss über die Anordnung der Umlegung gefasst.
+    Aufgrund dieses Anordnungsbeschlusses erließ der Beteiligte zu 6 am 30. April
+    2012 den Umlegungsbeschluss.
+
+
+3         Hiergegen wenden sich die Antragsteller mit ihrem Antrag auf gerichtliche Entscheidung.
+
+
+4         Dieser Antrag ist vom Landgericht, das die von den Beteiligten zu 1 bis 4
+    erhobenen Einwände gegen die Erforderlichkeit einer Umlegung für nicht
+    durchgreifend erachtet hatte, zurückgewiesen worden.
+
+
+5         Die Beteiligten zu 1 bis 4 haben gegen das Urteil des Landgerichts Berufung eingelegt. Nachdem die Beteiligte zu 5 auf entsprechenden richterlichen
+    Hinweis das Protokoll über die Sitzung des Gemeinderats vom 13. Februar
+    2012 vorgelegt hatte, haben die Beteiligten zu 1 bis 4 weiter die Unwirksamkeit
+    der Anordnung der Umlegung wegen Verletzung des Grundsatzes der Öffentlichkeit der Sitzungen des Gemeinderats geltend gemacht. Das Berufungsgericht hat das landgerichtliche Urteil abgeändert und den Umlegungsbeschluss
+    der Beteiligten zu 6 vom 30. April 2012 aufgehoben.
+
+
+6         Hiergegen wenden sich die Beteiligten zu 5 und 6 mit der vom Berufungsgericht zugelassenen Revision.
+
+
+
+
+                                Entscheidungsgründe
+
+
+7         Die Revision hat Erfolg.
+
+                                        - 4 -
+
+
+
+                                          I.
+
+
+8         Das Berufungsgericht hat ausgeführt: Der Umlegungsbeschluss sei
+    rechtswidrig, da der Beschluss über die Anordnung der Umlegung, der inzident
+    zu überprüfen sei, seinerseits rechtswidrig sei. Dieser habe nach § 35 GemO
+    BW in öffentlicher Sitzung des Gemeinderats beraten und beschlossen werden
+    müssen. Ausweislich des Sitzungsprotokolls habe der Bürgermeister von
+    20 Uhr 45 bis 20 Uhr 50 die Nichtöffentlichkeit der Sitzung hergestellt, ohne
+    dass der Anlass für diese Verfahrensweise in der Niederschrift festgehalten
+    worden sei. Der Ausschluss der Öffentlichkeit sei nur zulässig, wenn persönliche oder wirtschaftliche Verhältnisse zur Sprache kämen, an deren Kenntnisnahme schlechthin kein berechtigtes Interesse der Allgemeinheit bestehen könne und deren Bekanntgabe dem Einzelnen nachteilig sein könne. Dies müsse
+    im Einzelfall geprüft werden. Die Beteiligte zu 5 habe den Ausschluss der Öffentlichkeit in der Gemeinderatssitzung damit begründet, dass die Namen der
+    einzelnen Eigentümer der Bestandsgrundstücke im geplanten Umlegungsgebiet
+    hätten genannt werden sollen. Die bloße Nennung der Namen der Eigentümer
+    verletze jedoch nicht deren rechtlich geschützten oder sonstigen schutzwürdigen Interessen. Es sei auch nicht ersichtlich, inwieweit die Bekanntgabe dieser
+    Namen dem Einzelnen nachteilig sein könne. Gleiches gelte, wenn über die
+    Folgen der Umlegung für die einzelnen Bestandsgebäude und Grundstücke
+    habe diskutiert werden sollen. Dabei kämen noch keine persönlichen oder wirtschaftlichen Verhältnisse zur Sprache, bezüglich deren Kenntnisnahme kein
+    berechtigtes Interesse der Allgemeinheit bestehen könne. Die Auswirkungen
+    einer Umlegung seien grundstücksbezogen und nicht personenbezogen.
+
+
+9         Zuletzt habe der Bürgermeister der Beteiligten zu 5 erklärt, Anlass für
+    das Herstellen der Nichtöffentlichkeit seien die Fragen zweier Gemeinderats-
+
+                                     - 5 -
+
+
+
+mitglieder gewesen, ob die Umlegung den einen oder anderen Eigentümer von
+Bestandsgrundstücken "kaputt mache". Wenn über die persönlichen und wirtschaftlichen Verhältnisse einzelner Personen gesprochen werden solle, rechtfertige dies allerdings den Ausschluss der Öffentlichkeit der Verhandlung nach
+§ 35 GemO BW, weil an den persönlichen wirtschaftlichen Verhältnissen einzelner Eigentümer kein berechtigtes Informationsinteresse der Allgemeinheit
+bestehe. Auf das substantiierte Bestreiten eines solchen Anlasses für das Herstellen der Nichtöffentlichkeit könne jedoch nicht mit einer hinreichenden Sicherheit festgestellt werden, dass der Gemeinderat über die persönlichen und
+wirtschaftlichen Verhältnisse einzelner Eigentümer des künftigen Umlegungsgebiets habe sprechen wollen. Zwar komme der Sitzungsniederschrift nach
+§ 38 Abs. 1 GemO BW, die einen solchen Vorgang nicht ausweise, keine negative Beweiskraft in dem Sinne zu, dass dort nicht aufgenommene Geschehnisse
+nicht stattgefunden hätten. Vielmehr könne der Anlass für das Herstellen der
+Nichtöffentlichkeit auch durch außerhalb der Sitzungsniederschrift liegende
+Umstände und Beweismittel festgestellt werden. Die Feststellung, dass ein ausreichender Anlass für das Herstellen der Nichtöffentlichkeit der Verhandlung
+des Gemeinderats zur Anordnung der Umlegung vorgelegen habe, lasse sich
+jedoch vorliegend nicht treffen: Die Beteiligten zu 1 bis 4, die teilweise an der
+öffentlichen Sitzung des Gemeinderats teilgenommen hätten, hätten erklärt, vor
+der Herstellung der Nichtöffentlichkeit sei keine Frage zu den wirtschaftlichen
+Verhältnissen einzelner Beteiligter gestellt worden. Es sei auch kaum nachvollziehbar, dass in den fünf Minuten, in denen die Nichtöffentlichkeit der Sitzung
+hergestellt gewesen sei, über die wirtschaftlichen Verhältnisse einzelner Eigentümer von Bestandsgrundstücken gesprochen worden wäre. Auf ein entsprechendes Gesprächsthema ließen die protokollierten Erklärungen nach der Wiederherstellung der Öffentlichkeit der Verhandlung des Gemeinderats nicht ausreichend rückschließen. Die Beteiligte zu 5 habe bis zum Schluss der mündli-
+
+                                            - 6 -
+
+
+
+     chen Verhandlung die Namen derjenigen Gemeinderatsmitglieder nicht nennen
+     können, die Fragen zu den wirtschaftlichen Verhältnissen einzelner Grundstückseigentümer gestellt haben sollen.
+
+
+10         Eine Veranlassung, nach § 221 Abs. 2 BauGB von Amts wegen eine
+     Beweisaufnahme durchzuführen, bestehe nicht. Wichtige öffentliche Interessen
+     veranlassten hier eine Untersuchung von Amts wegen nicht. Die Beteiligte zu 5
+     könne bei einem entsprechenden politischen Willen des Gemeinderats ohne
+     gravierende Nachteile durch einen damit einhergehenden Zeitablauf einen verfahrensfehlerfreien Anordnungsbeschluss noch herbeiführen. Der Verstoß gegen das Gebot der Öffentlichkeit der Gemeinderatssitzung begründe regelmäßig auch dann, wenn die Öffentlichkeit - wie hier - nur zeitweilig ausgeschlossen
+     worden sei, eine schwerwiegende Verfahrensrechtsverletzung. Die Rechtswidrigkeit des Gemeinderatsbeschlusses führe auch zur Rechtswidrigkeit des angegriffenen Umlegungsbeschlusses. Die Voraussetzungen des § 46 LVwVfG
+     BW, der auf die Umlegungsanordnung, die kein Verwaltungsakt sei, nur entsprechende Anwendung finde, seien hier nicht erfüllt; denn die Entscheidung
+     des Gemeinderats darüber, ob eine Umlegung angeordnet werden solle, stelle
+     eine Entscheidung mit Beurteilungsspielraum dar und hätte auch im verneinenden Sinne ergehen können. Es sei daher nicht offensichtlich, dass die Verletzung des Prinzips der Öffentlichkeit der Gemeinderatssitzung die Entscheidung
+     in der Sache nicht beeinflusst habe.
+
+
+
+                                             II.
+
+
+11         Dies hält der rechtlichen Nachprüfung nicht stand. Mit der vom Berufungsgericht angeführten Begründung kann derzeit die Unwirksamkeit des Anordnungsbeschlusses für die Umlegung nach § 46 Abs. 1 BauGB durch den
+
+                                           - 7 -
+
+
+
+     Gemeinderat der Beteiligten zu 5 und des daran anschließenden Umlegungsbeschlusses der Beteiligten zu 6 nicht festgestellt werden.
+
+
+12   1.    Zutreffend geht das Berufungsgericht davon aus, dass der angegriffene
+     Umlegungsbeschluss nur dann rechtmäßig ist, wenn die Voraussetzungen für
+     eine Umlegung vorliegen. Hierzu gehört auch die Beschlussfassung über die
+     Anordnung der Umlegung nach § 46 Abs. 1 BauGB. Ein solcher Beschluss ist
+     kein Verwaltungsakt und nach der Rechtsprechung des Senats nur zusammen
+     mit dem Umlegungsbeschluss anfechtbar und kann nur so zur gerichtlichen
+     Nachprüfung gestellt werden. Im Rahmen der Anfechtung des Umlegungsbeschlusses ist dann die Rechtmäßigkeit der Anordnung der Umlegung zu überprüfen (vgl. Senatsurteile vom 12. März 1987 - III ZR 29/86, BGHZ 100, 148,
+     149 und 155 sowie vom 2. April 1981 - III ZR 131/79, NJW 1981, 2124, 2125).
+
+
+13   2.    Im Gegensatz zur Auffassung des Berufungsgerichts kann derzeit nicht
+     festgestellt werden, dass der Beschluss des Gemeinderats der Beteiligten zu 5
+     vom 13. März 2012 über die Anordnung der Umlegung wegen Verstoßes gegen
+     das Prinzip der Öffentlichkeit unwirksam ist.
+
+
+14         Allerdings ist dem Berufungsgericht im Ausgangspunkt darin zuzustimmen, dass Anordnungs- und Umlegungsbeschluss gleichermaßen rechtswidrig
+     sind, wenn bei der Beschlussfassung des Gemeinderats die Vorschriften der
+     Gemeindeordnung über die Öffentlichkeit der Gemeinderatssitzungen verletzt
+     worden sind. Nicht zu folgen ist der Argumentation der Revision, der Anordnungsbeschluss beinhalte nur einen "internen Auftrag" des Gemeinderats an
+     die Umlegungsstelle zur Durchführung der Umlegung, so dass es für die Rechtmäßigkeit des Umlegungsbeschlusses nur auf die materiellen Voraussetzungen
+     für eine Umlegung nach § 46 Abs. 1 BauGB ankomme: Mangels Außenwirkung
+
+                                          - 8 -
+
+
+
+     blieben Verfahrensmängel bei der Beschlussfassung des Gemeinderats "intern"
+     und seien daher nicht geeignet, den später gefassten Umlegungsbeschluss
+     gleichsam zu "infizieren". Der Anordnungsbeschluss des Gemeinderats kann,
+     auch wenn es sich um einen internen Vorgang ohne Verwaltungsaktqualität
+     handelt, grundsätzlich nur dann Grundlage eines rechtmäßigen Umlegungsbeschlusses sein, wenn die allgemein für Gemeinderatsbeschlüsse geltenden
+     (Verfahrens-)Regelungen der jeweils anwendbaren Gemeindeordnung eingehalten sind (vgl. Kirchberg in Redeker/Uechtritz, AHB-Verwaltungsverfahren,
+     2. Aufl., Teil 2 C Rn. 29; s. auch Senatsurteil vom 11. Mai 1967 - III ZR 141/66,
+     NJW 1967, 1662 zu der, soweit ersichtlich allein strittigen, Frage der Befangenheit von Ratsmitgliedern, denen im Umlegungsgebiet gelegene Grundstücke
+     gehören, s. dazu Kirchberg aaO mwN).
+
+
+15         a) Gemäß § 35 Abs. 1 Satz 1 GemO BW sind die Sitzungen des Gemeinderats öffentlich. Nichtöffentlich darf nur verhandelt werden, wenn es das
+     öffentliche Wohl oder berechtigte Interessen Einzelner erfordern; über Gegenstände, bei denen diese Voraussetzungen vorliegen, muss nichtöffentlich verhandelt werden. Der Grundsatz der Öffentlichkeit der Gemeinderatssitzung gehört zu den wesentlichen Verfahrensbestimmungen des Gemeinderechts. Er
+     hat die Funktion, dem Gemeindebürger Einblick in die Tätigkeit der Vertretungskörperschaften und ihrer einzelnen Mitglieder zu ermöglichen und dadurch
+     eine auf eigener Kenntnis und Beurteilung beruhende Grundlage für eine sachgerechte Kritik sowie eine Willensbildung zu schaffen, den Gemeinderat der
+     allgemeinen Kontrolle der Öffentlichkeit zu unterziehen und dazu beizutragen,
+     der unzulässigen Einwirkung persönlicher Beziehungen, Einflüsse und Interessen auf die Beschlussfassung des Gemeinderats vorzubeugen. Der Verstoß
+     gegen das Gebot der Öffentlichkeit der Gemeinderatssitzung begründet regelmäßig eine schwerwiegende Verfahrensrechtsverletzung und führt daher zur
+
+                                         - 9 -
+
+
+
+     Rechtswidrigkeit eines Gemeinderatsbeschlusses (vgl. VGH Baden-Württemberg, VBlBW 2013, 269, 270 mwN). Diese Grundsätze gelten auch, wenn der
+     zu überprüfende Beschluss zwar in öffentlicher Sitzung gefasst wurde, jedoch
+     ohne Beratung erfolgt ist und die Sachdiskussion in einer nichtöffentlichen vorangegangenen Sitzung durchgeführt wurde. Eine solche Verfahrensweise widerspricht dem Sinn und Zweck des Gebots der Öffentlichkeit von Gemeinderatssitzungen (vgl. VGH Baden-Württemberg, NVwZ-RR 2001, 462, 463). Keinen Verstoß gegen das Prinzip der Öffentlichkeit der Gemeinderatssitzung stellt
+     es jedoch dar, wenn nur eine Einzelfrage in nichtöffentlicher Sitzung behandelt
+     wird, die der Information der Gemeinderäte dient und nicht die Rede davon sein
+     kann, dass die nichtöffentliche Vorberatung die in öffentlicher Sitzung zu führende Sach- und Abwägungsdiskussion ersetzt, vorweggenommen oder in
+     sonstiger Weise der öffentlichen Wahrnehmung entzogen hat (vgl. VGH Baden-Württemberg VBlBW 2011, 393, 394).
+
+
+16         Nichtöffentlich muss verhandelt werden, wenn es das öffentliche Wohl
+     oder berechtigte Interessen Einzelner erfordern. Berechtigte Interessen Einzelner im Sinne des § 35 Abs. 1 Satz 2 GemO BW können rechtlich geschützte
+     oder sonstige schutzwürdige Interessen sein. Sie erfordern den Ausschluss der
+     Öffentlichkeit in der Gemeinderatssitzung, wenn im Verlauf einer öffentlichen
+     Sitzung persönliche oder wirtschaftliche Verhältnisse zur Sprache kommen
+     können, an deren Kenntnis schlechthin kein berechtigtes Interesse der Allgemeinheit bestehen kann und deren Bekanntgabe dem Einzelnen nachteilig sein
+     könnte (VGH Baden-Württemberg, NVwZ 1992, 196, 197 f mwN; vgl. auch
+     BVerwG, NVwZ 1995, 897). Zutreffend geht auch das Berufungsgericht davon
+     aus, dass im Falle einer fehlenden generellen Regelung - wie hier - die Voraussetzungen im Einzelfall festgestellt werden müssen.
+
+                                          - 10 -
+
+
+
+17            b) Diesen Anforderungen genügt die Begründung des Berufungsgerichts
+     nicht.
+
+
+18            aa) Die gemäß § 38 Abs. 1 GemO BW zu fertigende Niederschrift über
+     die Gemeinderatssitzung ist eine öffentliche Urkunde, bezüglich deren Inhalt
+     der Beweis der Unrichtigkeit zulässig ist (§§ 415, 418 Abs. 1 und 2 ZPO; VGH
+     Baden-Württemberg NVwZ-RR 1989, 153). Eine negative Beweiskraft dergestalt, dass in der Niederschrift nicht aufgenommene Vorgänge als nicht stattgefunden zu behandeln sind, hat das Berufungsgericht der Niederschrift zu Recht
+     nicht beigemessen.
+
+
+19            bb) Nicht tragfähig ist jedoch die Annahme des Berufungsgerichts, die
+     Nennung der Namen der Eigentümer von Grundstücken innerhalb eines beabsichtigten Umlegungsgebiets in öffentlicher Gemeinderatssitzung verletze keine
+     rechtlich geschützten oder sonstigen Interessen dieser Personen.
+
+
+20            Wie das Berufungsgericht zu Recht annimmt, sind die Auswirkungen einer Umlegung grundstücksbezogen und nicht personenbezogen. Die Namen
+     der Eigentümer sind für die Voraussetzungen und die Zweckmäßigkeit einer
+     Umlegung zunächst ohne Belang. Dementsprechend ist auch für die Öffentlichkeit regelmäßig kein anerkennenswertes Interesse ersichtlich, die Namen der
+     Eigentümer der in einem Umlegungsgebiet liegenden Grundstücke zu erfahren.
+     Gründe dafür, dass dies im konkreten Einzelfall anders zu bewerten ist, sind
+     vom Berufungsgericht weder festgestellt noch von den Beteiligten vorgetragen
+     worden.
+
+
+21            Auf der anderen Seite haben die Eigentümer ein durch Art. 2 Abs. 1
+     i.V.m. Art. 1 Abs. 1 GG und dem daraus abgeleiteten Recht auf informationelle
+
+                                           - 11 -
+
+
+
+     Selbstbestimmung geschütztes Recht, darüber zu entscheiden, wer die Information über ihre Eigentümerstellung erhält. Deshalb macht das Gesetz die Einsichtnahme in das Grundbuch, mit der der Rechtsverkehr typischerweise diesen
+     Umstand in Erfahrung bringt, davon abhängig, dass ein berechtigtes Interesse
+     dafür besteht (§ 12 Abs. 1 Satz 1 GBO; siehe dazu BGH, Beschluss vom
+     17. August 2011 - V ZB 47/11, NJW-RR 2011, 1651 Rn. 7; KG, RNotZ 2004,
+     464). Die Bekanntgabe dieser Tatsache in öffentlicher Sitzung des Gemeinderats stellt mithin einen Eingriff in die Rechte der Eigentümer dar.
+
+
+22         cc) Der rechtlichen Nachprüfung nicht stand hält auch die tatrichterliche
+     Würdigung des Berufungsgerichts, es könne nicht festgestellt werden, dass der
+     Gemeinderat in dem nichtöffentlichen Teil der Sitzung über die persönlichen
+     wirtschaftlichen Verhältnisse einzelner Eigentümer des künftigen Umlegungsgebiets gesprochen habe. Insoweit geht das Berufungsgericht zutreffend davon
+     aus, dass der Sitzungsniederschrift - die sich hierzu nicht verhält - keine negative Beweiskraft zukommt, vielmehr die tatsächlichen Umstände auch aufgrund
+     anderer Beweismittel festgestellt werden können. Auch die Einbeziehung der
+     Einlassung der Antragsteller, die an der öffentlichen Sitzung teilgenommen haben, ist geboten. Hierbei ist jedoch zu berücksichtigen, dass diese nur Auskunft
+     geben können über die in öffentlicher Sitzung gefallenen Äußerungen, die insoweit allenfalls ein Indiz dafür darstellen, was tatsächlich in der nichtöffentlichen Sitzung beraten worden ist.
+
+
+23         Soweit das Berufungsgericht entscheidend darauf abgestellt hat, dass
+     die Beteiligte zu 5 bis zum Schluss der mündlichen Verhandlung den Namen
+     derjenigen Gemeinderatsmitglieder nicht habe nennen können, die Fragen zu
+     den wirtschaftlichen Verhältnissen einzelner Grundstückseigentümer gestellt
+     haben sollen, hält dies einer rechtlichen Nachprüfung nicht stand. Für die Über-
+
+                                     - 12 -
+
+
+
+prüfung der Frage, was tatsächlich Gegenstand der Beratung in der nichtöffentlichen Sitzung war, kommt es nicht entscheidend darauf an, dass die konkreten
+Namen der Ratsmitglieder genannt werden, die bestimmte Fragen (in öffentlicher Sitzung) gestellt haben. Die Teilnehmer der (nichtöffentlichen) Sitzung, die
+über diesen Gesichtspunkt (nach Entbindung von ihrer Schweigepflicht durch
+den Bürgermeister, vgl. § 35 Abs. 2 Satz 1 GemO) Auskunft geben können,
+sind in der Niederschrift der Sitzung vermerkt. Insoweit hat sich das Berufungsgericht zu Unrecht allein auf die Würdigung der Einlassung des Bürgermeisters
+der Beteiligten zu 5 beschränkt. Nach § 221 Abs. 2 BauGB war das Berufungsgericht gehalten, von Amts wegen die Aufnahme von Beweisen anzuordnen
+und gegebenenfalls auch solche Tatsachen zu berücksichtigen, die von den
+Beteiligten nicht vorgebracht worden sind. Nach der Rechtsprechung des Senats vermag diese Vorschrift eine gerichtliche "Befugnis" im Sinne einer Verpflichtung des Gerichts zur Anwendung des Untersuchungsgrundsatzes zu begründen. Die (begrenzte) Geltung des Untersuchungsgrundsatzes im baulandgerichtlichen Verfahren ist im Zusammenhang zu sehen mit den - auch im verwaltungsgerichtlichen Verfahren, das vom Untersuchungsgrundsatz beherrscht
+wird - zunehmend anerkannten Mitwirkungspflichten der Verfahrensbeteiligten.
+Dementsprechend findet die Pflicht der Tatsachengerichte zur Aufklärung des
+Sachverhalts ihre Grenze dort, wo das Klagevorbringen keinen tatsächlichen
+Anlass zur weiteren Sachaufklärung bietet (vgl. Senatsurteil vom 16. März 2006
+- III ZR 129/05, NJW 2006, 1729, 1731). Die Verpflichtung des Gerichts zur
+Anwendung des Untersuchungsgrundsatzes besteht dann, wenn sonst eine
+Verletzung der Wahrheitspflicht zu befürchten wäre und wenn wichtige öffentliche Interessen im Spiel sind. Die Vorschrift macht es dem Gericht zur Pflicht,
+die von einem der Beteiligten in das gerichtliche Verfahren eingeführte Behauptung, soweit sie rechtserheblich ist, von Amts wegen zu klären (vgl. Senatsurteile vom 4. November 2004 - III ZR 372/03, BGHZ 161, 38, 45; und vom 7. Fe-
+
+                                         - 13 -
+
+
+
+     bruar 1974 - III ZR 13/73, NJW 1974, 947). Hiervon ausgehend hätte das Berufungsgericht Gemeinderatsmitglieder dazu befragen müssen, was Gegenstand
+     der Beratung des nichtöffentlichen Teiles der hier in Rede stehenden Gemeinderatssitzung gewesen ist. Die Begründung des Berufungsgerichts, es bedürfe
+     deshalb keiner Beweisaufnahme von Amts wegen, weil das gesamte - wie die
+     Ausführungen des Landgerichts gezeigt haben, außerordentlich umstrittene und
+     von einigen der beteiligten Grundstückseigentümern vehement angegriffene -
+     Umlegungsverfahren erneut in Gang gesetzt werden könne, ist nicht tragfähig.
+
+
+24         dd) Unzureichend ist die tatrichterliche Würdigung des Berufungsgerichts
+     auch insoweit, als es keine Feststellungen dazu getroffen hat, ob selbst bei einem angenommenen nicht hinreichenden Grund für die Herstellung der Nichtöffentlichkeit gleichwohl ein zur Nichtigkeit des Beschlusses führender Verfahrensfehler ausscheidet. Da die Beratung der Beschlussvorlage über die Anordnung der Umlegung und die Abstimmung in öffentlicher Sitzung durchgeführt
+     wurden, und es hier nur eine kurze Unterbrechung dieser öffentlichen Beratung
+     gegeben hat durch einen nichtöffentlichen Teil der Sitzung, hätte ausgehend
+     vom Inhalt der nichtöffentlichen Beratung geprüft werden müssen, ob diese die
+     Sach- und Abwägungsdiskussion ersetzen, vorwegnehmen oder in sonstiger
+     Weise der öffentlichen Wahrnehmung entziehen sollte. Nur in einem solchen
+     Fall bestünde bei der gegebenen Sachlage Anlass, einen zur Rechtswidrigkeit
+     führenden wesentlichen Verfahrensfehler bei der Fassung des Beschlusses
+     anzunehmen (vgl. VGH Baden-Württemberg VBlBW 2011, 393, 394).
+
+
+25   3.    Aufgrund der Feststellungen des Berufungsgerichts kann derzeit nicht
+     angenommen werden, dass der Beschluss über die Anordnung der Umlegung
+     durch den Gemeinderat der Beteiligten zu 5 wegen Verstoßes gegen § 35
+     Abs. 1 Satz 1 GemO BW bei der Beratung der Beschlussfassung in der Ge-
+
+                                   - 14 -
+
+
+
+meinderatssitzung vom 13. März 2012 unwirksam ist. Das Berufungsurteil ist
+daher aufzuheben und die Sache zur neuen Verhandlung und Entscheidung an
+das Berufungsgericht zurückzuverweisen, da die Sache selbst nicht entscheidungsreif ist (§ 221 Abs. 1 BauGB i.V.m. § 562 Abs. 1, § 563 Abs. 1 Satz 1
+ZPO).
+
+
+Schlick                           Wöstmann                        Tombrink
+
+
+                Remmert                                Reiter
+
+
+
+
+Vorinstanzen:
+LG Stuttgart, Entscheidung vom 19.07.2013 - 50 O 10/12 Baul. -
+OLG Stuttgart, Entscheidung vom 03.06.2014 - 102 U 2/13 -
