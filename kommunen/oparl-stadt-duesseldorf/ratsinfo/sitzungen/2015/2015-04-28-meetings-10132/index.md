@@ -1,0 +1,67 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-28T17:00:00+02:00
+- Ende: 2015-04-28T20:20:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10132
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10132
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238432.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238432.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238432.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 24.03.2015 - vertagt
+- TOP 3: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - vertagt
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Radhauptnetz Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 5: Kabarett Flin - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: "Dog Event Düsseldorf" im Jahre 2015 - einstimmig beschlossen
+- TOP 7.1: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung; Hier: Grundschule - einstimmig beschlossen
+- TOP 8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 9: Geschwindigkeitsüberprüfung Ludenberger Straße - einstimmig beschlossen
+- TOP 10: Durchgangsverkehr am Gerricusplatz eindämmen - mehrheitlich beschlossen
+- TOP 11: Sporthallensituation im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 12: Pferdetränke Grafenberg - einstimmig beschlossen
+- TOP 13: Verkehrsstausituation im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 14: Optimierung Verkehrsbeziehung Düsseldorf-Ost / Landeshauptstadt - einstimmig beschlossen
+- TOP 14.1: Optimierung Verkehrsbeziehung Düsseldorf-Ost / Landeshauptstadt - einstimmig beschlossen
+- TOP 15: Handläufe an Treppen im öffentlichen Raum - einstimmig beschlossen
+- TOP 16: Umlaufschranke Fußgänger- /Radfahrerübergang Bergische Landstraße/ Einmündung „Am Wildpark“ - mehrheitlich beschlossen
+- TOP 17: Fußgängerquerung vor der Hardt - zurückgezogen
+- TOP 17.1: Fußgängerüberquerung "Vor der Hardt"/Bedarfsampel - zur Kenntnis genommen
+- TOP 18: Fußgängerüberweg Ludenberger Straße 1a - einstimmig beschlossen
+- TOP 19: Taxiplätze Baustelle Benderstraße - einstimmig beschlossen
+- TOP 20: Spielplätze Häuser Torfbruchstraße 85, 87 und Josef-Neuberger-Straße - einstimmig beschlossen
+- TOP 21: Verbesserung der Anbindung durch den ÖPNV an die Freizeiteinrichtungen des Unterbacher Sees - einstimmig beschlossen
+- TOP 22: Graffiti-Jugendprojekt an der Mauer "Nach den Mauresköthen" - mehrheitlich beschlossen
+- TOP 23: Parksituation und desolater Zustand der Grünflächen am Waldrand der Quadenhofstraße - einstimmig beschlossen
+- TOP 24: Aufbringung einer wassergebundenen Wege-Decke auf einem Teilstück Grünzug Heinrich-Könn-Straße - einstimmig beschlossen
+- TOP 25: Altes Pfarrhaus (Bürgerhaus) am Aloys-Odenthal-Platz - mehrheitlich abgelehnt
+- TOP 26: Bushaltestelle Neuenhaus - Planungsrecht - zur Kenntnis genommen
+- TOP 27: Bushaltestelle Neuenhaus - zurückgezogen
+- TOP 28: Piktogramme Stratenweg - einstimmig beschlossen
+- TOP 29: Wohnmobile Gräulinger Straße - mehrheitlich abgelehnt
+- TOP 30: Stand der Umsetzung der Inklusion im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 31: Verspätung S8 - vertagt
+- TOP 32: Langfristige Nutzung Staufenplatz - zur Kenntnis genommen
+- TOP 33: Breitbandausbau im Stadtbezirk 7 - vertagt
+- TOP 34: Umbau Benderstraße: Technik, Kosten, Zeitplan - zur Kenntnis genommen
+- TOP 35: Ausgewogenes Wohnungsangebot „Am Quellenbusch“ - vertagt
+- TOP 36: Lager 61/ B-Plan „Nach den Mauresköthen“, Nr. 5976/24 - vertagt
+- TOP 37: Wasserspender (Trinkbrunnen) und Informationstafel Auf der Hardt - zur Kenntnis genommen
+- TOP 38: Verwendung der Einnahmen aus Stellplatz-Ablösungen - zur Kenntnis genommen
+- TOP 39: Kreuzung Torfbruchstraße/Dreherstraße; Zebrastreifen vor Kinderhospiz Regenbogenland - zur Kenntnis genommen
+- TOP 40: S-Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 41: Einmündung Wiebachweg/Dreherstraße - zur Kenntnis genommen
+- TOP 42: Lichtzeichenanlage Dreherstraße zwischen Nördliche Düssel und Bahnüberführung - zur Kenntnis genommen
+- TOP 43: Masterplan "Energieeffiziente Straßenbeleuchtung 2010-2015" - zur Kenntnis genommen
+- TOP 44: Holzgeländer Ernst-Poensgen-Allee bis zur "Schönen Aussicht" - zur Kenntnis genommen
+- TOP 45: Spazierweg an der Ikenstraße - zur Kenntnis genommen
+- TOP 46: Bebauungsplan Nr. 07/001 Innenhof nördlich Hardtstraße - zur Kenntnis genommen
