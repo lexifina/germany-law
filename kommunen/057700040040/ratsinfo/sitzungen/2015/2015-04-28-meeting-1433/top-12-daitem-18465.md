@@ -1,0 +1,7 @@
+# TOP 12.: Vergabe eines Auftrages zur Lieferung von Schulbüchern für die Schulen der Stadt Rahden
+
+- Sitzung: Ausschuss für Jugend, Schule und Sport (2. Sitzung) (2015-04-28)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/18465
+- Ergebnis: Ohne Abstimmung
