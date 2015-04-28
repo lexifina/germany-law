@@ -1,0 +1,103 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-04-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556601
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556601
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Berg-am-Laim-Str. 82 - Antrag auf Einrichtung einer Freischankfläche
+- TOP 2.2.: Gronsdorfer Str. 1 - Aufstellung einer Zeitungsverkaufseinrichtung auf öff. Grund
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Bebauungsplan mit Grünordnung: Haldenseestraße (beidseits), Bad-Schachener-Str. (südlich), Hechtseestraße (westlich und nördlich), Echardinger Straße und Krumbadstraße (östlich)
+- TOP 3.2.: Baumkirchner Straße - Neubau eines Bahngebäudes an der Bahnstrecke München-Rosenheim
+- TOP 3.3.: Kreillerstr. 131 - Neubau eines Boardinghauses mit Wohnungen und Tiefgarage
+- TOP 3.4.: Kraiburger Str. 11 - Neubau eines Dreispänners mit 2 Garagen
+- TOP 3.5.: Grafinger Str. 6 - Nutzungsänderung der ehemaligen Kartoffelhalle in eine Anlage für sportliche Zwecke als Zwischennutzung, befristet auf 10 Jahre ab Nutzungsbeginn
+- TOP 3.6.: Weihenstephaner Str. 32 - Erweiterung eines Lebensmitteldiscounters
+- TOP 3.7.: Gemeinsamer Antrag der BA 14, 16, 17, 18 hinsichtlich der zeitnahen, weiteren Planungen für einen kreuzungsfreien Ausbau des Mittleren Rings vom Candidtunnel bis zum Innsbrucker Ring
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Leistungsprogramm 2016 der MVG
+- TOP 3.2.: Inbetriebnahme der Straßenbahn-Neubaustrecke nach Steinhausen
+- TOP 3.3.: Querung der Heinrich-Wieland-Straße auf Höhe Michaeliburgstraße
+- TOP 3.4.: Unerlaubtes Befahren des Fuß- und Radwegs an der St.-Michael-Straße
+- TOP 3.5.: Einrichtung einer zusätzlichen Bushaltestelle an der Truderinger Straße
+- TOP 3.6.: Infotafeln an Straßenschildern
+- TOP 3.7.: Spielaktionen der Spiellandschaft Stadt e.V.
+- TOP 3.8.: GWG-Mieterfest am 13.05.2015 in der Bad-Kreuther-Straße
+- TOP 3.1.: Reinigungshäufigkeit der Sanitäranlagen an reinen Ganztagsschulen sowie Schulen mit Ganztagszügen in München
+- TOP 3.1.: Ablauf von Bürgerversammlungen optimieren
+- TOP 3.2.: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen - Änderung der BA-Geschäftsordnung
+- TOP 3.3.: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse - Änderung der BA-Geschäftsordnung
+- TOP 3.4.: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung
+- TOP 3.5.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung
+- TOP 3.6.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 3.7.: Anhörungsrecht der BA?s bei Veranstaltungen auf SWM-Grundstücken
+- TOP 3.10.: Kinderfest des BA 14 - Finanzierungsbeschluss
+- TOP 3.1.: Weihenstephaner Str. 32
+- TOP 3.2.: Blombergstr. 15
+- TOP 3.3.: Blombergstr. 36
+- TOP 3.4.: Ellingerweg 52
+- TOP 3.5.: Ellingerweg 62
+- TOP 3.6.: Praschlerstr. 1
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Unveränderte Fortführung von Gaststättenbetrieben - New Golden Room, Friedenstr. 10 - Crowns Club, Rosenheimer Str. 145 h - Bistro Cafe M13, Schweppermannstr. 10 - Satyam, Berg-am-Laim-Str. 53
+- TOP 4.3.: Beschlussvollzugskontrolle; Bericht über Beschlüsse des Ausschusses für Stadtplanung und Bauordnung vom 01.07. - 31.12.2014 - Vorlagen-Nr. 14-20 / V 02786
+- TOP 4.4.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen - Vorlagen-Nr. 14-20 / V 02621
+- TOP 4.5.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick Sitzungsvorlagen-Nr. 14 - 20 / V 00909
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Urbane Gemeinschaftsgärten in München - Vorlagen-Nr. 14-20 / V 02503
+- TOP 4.2.: Überarbeitung der Mähkonzepte auf städtischen Grünflächen und im Verkehrsbegleitgrün - Flächen im 14. Stadtbezirk - Vorlagen-Nr. 14 - 20 / V 02645
+- TOP 4.1.: Einheitliches Radwegekonzept in der St.-Veit-Straße
+- TOP 4.2.: Ziffer 1) Signalisierte Überwege an der St.-Veit-Straße / Waldstraße und an der St.-Michael-Straße / Hachinger-Bach-Straße Ziffer 2) Überprüfung des Punktesystems für die Bedarfsanalyse zur Errichtung neuer Lichtzeichenanlagen
+- TOP 4.3.: Josephsburgstraße: Auflassung eines Grünstreifens und Schaffung einer Anlieferzone - Antwortschreiben
+- TOP 4.4.: Josephsburgstr. 69 - Anlieferzone - Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 4.5.: Haltverbot im Bereich der Bushaltestelle Altöttinger Straße in der Schlüsselbergstraße - Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 4.6.: Einrichtung eines Haltverbots in der Grafinger Straße Ecke Haager Straße - Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 4.7.: Einrichtung einer Kurzparkzone in der Englmannstraße - Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 4.8.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Vinzenz-von-Paul-Str. / Bad-Kissingen-Str.
+- TOP 4.9.: Westerhamer Straße 2 und Pertisaustraße 9 - Neubau von Querungshilfen
+- TOP 4.10.: Austausch der Lichtsignalanlage Heinrich-Wieland-Str. / Feichtstraße - Beschluss des Bezirksausschuss 16 Ramersdorf-Perlach
+- TOP 4.11.: MVG-Anpassungen bei den Buslinien 146 und 185 zwecks Baustelle Baumkirchen Mitte
+- TOP 4.12.: Straßenausbaubeitragssatzung - Beitragserlass für bereits abgeschlossene Maßnahmen - Vorlagen-Nr. 14-20 / V 02686
+- TOP 4.13.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten - Sitzungsvorlage Nr. 14-20 / V 02910
+- TOP 4.14.: Maifeier am 01.05.2015 am Grünen Markt
+- TOP 4.1.: Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentruen - Vorlagen-Nr. 14-20 / V 02233
+- TOP 4.2.: Ausbau des Internets am Michaeligymnasium - Antwortschreiben
+- TOP 4.1.: Studie "Älter werden in München" - Abschlussbericht - Vorlagen-Nr. 14-20 / V 02540
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorbereitungen in der BA-Satzungskommission vom 15.01.2015 2. Umsetzung der Empfehlungen in eine Änderungssatzung Vorlagen-Nr. 14-20 / V 02091
+- TOP 4.2.: Bürgerkreis Berg am Laim e.V. - Verwendungsnachweis
+- TOP 4.1.: Novellierung der Baumschutzverordnung - Herausnahme der Gattng Fichte - Ergebnisse des Prüfauftrags - Vorlagen-Nr. 14-20 / V 01862
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 3.9.: (E) Budget der Bezirksausschüsse Initiative ?Theaterstück? Theaterstück ?Face me? vom 15. bis 20.05.2015
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
