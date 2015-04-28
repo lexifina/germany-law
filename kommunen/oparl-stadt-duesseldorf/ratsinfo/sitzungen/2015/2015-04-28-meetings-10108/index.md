@@ -1,0 +1,62 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-28T17:00:00+02:00
+- Ende: 2015-04-28T20:55:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10108
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10108
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238493.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238493.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238493.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift 24.02.2015 - zur Kenntnis genommen
+- TOP 4: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 5: Zulassung eines Stellvertreters der Vertreterin des Jugendrats - zur Kenntnis genommen
+- TOP 6: Kriminalitäts- und Unfallentwicklung im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 7: Umsetzung des Radhauptnetzes im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 8: B-Plan "Westlich Leuchtenberger Kirchweg", Nr. 05-003 - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Öffentliche Beleuchtung Pallenbergstraße, Gasbeleuchtungsanlage - Umstellung auf Strombetrieb
+- TOP 14: Weiße Flotte - zur Kenntnis genommen
+- TOP 15: Barrierefreie Sicherung von Baustellen im Gehwegbereich - zur Kenntnis genommen
+- TOP 16: Ablöse von der Pflicht zur Errichtung von Stellplätzen - zur Kenntnis genommen
+- TOP 17: Wettbewerb Kaiserswerther Markt - zur Kenntnis genommen
+- TOP 18: Am Schwarzbach - Verkehrssicherheit für Fußgänger/innen und Radfahrer/innen - zur Kenntnis genommen
+- TOP 19: Bolzwiese/-platz Lohausen - zur Kenntnis genommen
+- TOP 20: Regionalplan - Auswirkungen auf Lohausen - zur Kenntnis genommen
+- TOP 21: Baulücken im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 22: Überschwemmungsflächen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 23: Weinblütenfest 2015 - zur Kenntnis genommen
+- TOP 24: Antrag: Pfandringe - zur Kenntnis genommen
+- TOP 25: Ausbau der Kinderbetreuung - Erfolgsgeschichte in Düsseldorf fortschreiben! - zur Kenntnis genommen
+- TOP 26: Gedenktafel im Stadtbezirk 5 - ehemaliger Bahnhof Kalkum - zur Kenntnis genommen
+- TOP 27: Grünschnitt und Höhenbegrenzung des P&R Parkplatzes Haltestelle Wittlaer - zur Kenntnis genommen
+- TOP 28: Unterstützung von Flüchtlingen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 29: Deckschicht Fuß- und Radweg zwischen Schnellenburg und Wasserwerk Am Staad - zur Kenntnis genommen
+- TOP 30: Wacholderstraße - Verkehrsgutachten - zur Kenntnis genommen
+- TOP 31: Gehweg Niederrheinstraße 172 - 200 - Verbesserung der Verkehrssicherheit - zur Kenntnis genommen
+- TOP 32: Neusser Weg (Stichstraße) - Verbesserung der Beleuchtung - zur Kenntnis genommen
+- TOP 33: Kreisverkehr Lohausen (Niederrheinstr./Lohauser Dorfstr./Alte Flughafenstr.) - Radweg - zur Kenntnis genommen
+- TOP 34: Zebrastreifen in Höhe Niederrheinstraße 166 - verbessernde Maßnahmen - zur Kenntnis genommen
+- TOP 35: Rathaus Kaiserswerth - Verbesserung der Informationstechnologie im Sitzungssaal - zur Kenntnis genommen
+- TOP 36: Erhöhung der Aufenthaltsqualität vor der Ladenzeile Kaiserswerther Straße 411 - zur Kenntnis genommen
+- TOP 37: Schallschutzmaßnahmen im Tag- und Nachtschutz- sowie Entschädigungsgebiet des Düsseldorfer Flughafen - zur Kenntnis genommen
+- TOP 38: Überplanung Kreuzungsbereiche Nordstern und Niederrheinstraße/Stockumer Höfe - zur Kenntnis genommen
+- TOP 39: Kinderspielplatz Hoppengarten - Erweiterung des Spielangebotes - zur Kenntnis genommen
+- TOP 40: Verkehrssituation Niederrheinstraße - Bring- und Abholverkehr International School of Düsseldorf - zur Kenntnis genommen
+- TOP 41: Carsharing im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 42: Stellungnahmen 28.04.2015 - zur Kenntnis genommen
+- TOP 43: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 44: Verschiedenes - zur Kenntnis genommen
+- TOP 45: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung; Hier: Grundschule - zur Kenntnis genommen
