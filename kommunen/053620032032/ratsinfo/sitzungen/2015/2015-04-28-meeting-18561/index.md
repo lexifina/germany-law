@@ -1,0 +1,54 @@
+# Ausschuss für Stadtplanung und Verkehr (5. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-04-28T17:00:00+02:00
+- Ende: 2015-04-28T20:58:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcLEEjm0i8ZwvzlPvR9Kooo
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18561
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZat_Yq1tdohLDjyHGhLrkhg5TTqMdCPAMOLGbbPTYn6A/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_28.04.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 3.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 3.1: Anregung und Beschwerde gem. § 24 Gemeindeordnung NRW; hier: Radweg zwischen Sindorf und Kerpen
+- TOP 4.: Umsiedlung Manheim
+- TOP 4.1: Umsiedlung Manheim hier: Niederschrift der 17. Sitzung des Bürgerbeirates Manheim
+- TOP 4.2: Bericht der Verwaltung
+- TOP 5.: Stadtentwicklung
+- TOP 5.1: Neuausschreibung Seniorendorf Vogelrutherfeld; hier: Anfrage der Linksfraktion
+- TOP 5.2: Innovationsregion Rheinisches Revier (IRR); hier: Anfrage der CDU-Fraktion
+- TOP 5.3: Hundespielwiesen/-freilaufflächen im Stadtgebiet Kerpen - (kein Text vorhanden)
+- TOP 6.: Bauleitplanung
+- TOP 6.1: Vorhabenbezogener Bebauungsplan HO 351 "Waldweg", Stadtteil Horrem - Vorstellung des derzeitigen Planungsstandes durch den Vorhabenträger
+- TOP 6.2: Bebauungsplan KE 352 "Westliche Stiftsstraße", Stadtteil Kerpen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 6.3: Bebauungsplan KE 352 "Westliche Stiftsstraße", hier: Abschluss eines Erschließungsvertrages
+- TOP 6.4: Bebauungsplan KE Nr. 338 "Hahnenpassage" im Stadtteil Kerpen hier: Beschluss zur erneuten öffentlichen Auslegung gemäß § 3 (2) BauGB
+- TOP 6.5: Bebauungsplan SI 358 "Kerpener Straße/Mastenweg", Stadtteil Sindorf 1. Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB 2. Teilaufhebung der Bebauungspläne Nr. 7 und Nr. 7/ 2. Änderung „Südlich der Bundesbahn“, Stadtteil Sindorf
+- TOP 6.6: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes SI 358 "Kerpener Straße/Mastenweg", Stadtteil Sindorf
+- TOP 6.7: Wohnbaulandentwicklung Buir - Sachstandsbericht
+- TOP 7.: Verkehrsplanung
+- TOP 7.1: Erstellung einer Fahrradabstellplatzsatzung
+- TOP 7.2: Änderung der Radwegweisungen entlang der L277
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Neue Radwege an der K17
+- TOP 9.2: Entwicklung der Bodenrichtwerte
+- TOP 9.3: Autohof an der BAB 4 bei Anschlusstelle Elsdorf hier: aktueller Sachstand
+- TOP 9.4: Restriktionen für neue Windräder
+- TOP 9.5: Erweiterung des Lärmschutzes bei Buir nach Inbetriebnahme der BAB 4 - (kein Text vorhanden)
+- TOP 9.6: Verkehrssituation T-Kreuzung "Michael-Ende-Straße"und "Zum Vogelrutherfeld" im Stadtteil Sindorf
+- TOP 9.7: Sachstand Hochhaus Maastrichter Straße
+- TOP 9.8: Photovoltaik auf Pachtbasis für städtische Gebäude
+- TOP 9.9: Sportanlage Manheim / Blatzheim
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 11.: Einzelhandelsentwicklung Hubertusplatz Brüggen, Bebauungsplan BRÜ 356 "Eifelstraße/Heerstraße" - Grundsatzbeschluss zur Betreiberauswahl und zum weiteren Verfahren
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
