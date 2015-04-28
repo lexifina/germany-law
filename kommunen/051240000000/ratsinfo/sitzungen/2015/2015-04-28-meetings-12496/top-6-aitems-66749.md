@@ -1,0 +1,8 @@
+# TOP 6: Fahrbahnerneuerung Schützenstraße und Klingelholl
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Barmen (2015-04-28)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/66749
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/31473
