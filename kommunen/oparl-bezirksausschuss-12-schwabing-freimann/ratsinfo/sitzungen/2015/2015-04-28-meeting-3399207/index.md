@@ -1,0 +1,134 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-04-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399207
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399207
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Vorstellung der Fachstelle ?AKIM? - Allparteiliches Konfliktmanagment in München durch einen Vertreter des Sozialreferats
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 6.1.: Bayernkaserne: Vorstellung der Wettbewerbsarbeiten Rang 1 und Rang 2 in der Vollversammlung des Stadtrates (überparteilicher Antrag des BA 12)
+- TOP 6.2.: Standortprüfung Konzertsaal an der nördlichen Münchner Freiheit
+- TOP 7: Unterrichtungen (1)
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Änderung der BA-Geschäftsordnung: Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen
+- TOP 9.2.: Änderung der BA-Satzung: Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Grundstücken (BA-Antrag Nr.: B 00682)
+- TOP 9.3.: Änderung der BA-Satzung: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsge-bieten (BA-Antrag Nr.: B 00392 des BA 2 Ludwigsvorstadt-Isarvorstadt))
+- TOP 9.4.: Änderung der BA-Satzung: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse (Antrag Nr.: 14-20 / A 00550 der SPD- und CSU-Stadtratsfraktion)
+- TOP 9.5.: Finanzielle Unterstützung / Vorschläge zur Anschaffung von Tagungstechnik und Mieten für regelmäßige BA-Sitzungen (BA-Antrag Nr.: B 00447 des BA 13 Bogenhausen) vertagt aus 03/15
+- TOP 9.6.: Änderung der BA-Satzung: Kinderbetreuungskosten während der BA-Tätigkeit (BA-Antrag Nr. B 00345 des BA 8 Schwanthalerhöhe)
+- TOP 9.7.: Änderung der BA-Satzung: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung (BA-Antrag Nr. B 00344 des BA 13 Bogenhausen
+- TOP 10: sonstiges
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Erweiterung einer bestehenden Freischankfläche, Hörwarthstraße 4
+- TOP 2.2.: Errichtung eines Obstverkaufsstandes, Münchner Freiheit / Einmündung Haimhauserstraße
+- TOP 2.3.: Aufstellen von Verkaufseinrichtungen, Hohenzollernstraße 26
+- TOP 2.4.: Aufstellen von Verkaufseinrichtungen, Leopoldstraße 64
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Domagkstraße, Fl.Nr.: 266/14, Neubau eines Bürogebäudes mit Tiefgarage, Fällung div. Bäume
+- TOP 3.1.2.: Edmund-Rumpler-Straße 9, Fällung einer Kastanie
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Floriansmühlstraße 16, Fl.Nr.: 87/4, Neubau von Verkehrsflächen und Wohnungen mit Tiefgarage - Vorbescheid
+- TOP 3.2.2.: Haimhauserstraße 14, Fl.Nr.: 207/30, Umbau des Rückgebäudes mit Wohnnutzung im 1 + 2. OG, westseitiger Anbau aus Stahlkonstruktione, Garagen- und Lagernutzung im EG
+- TOP 3.2.3.: Frankfurter Ring, Fl.Nr.: 880/131, Neubau eines Hotels sowie von Wohnhäusern mit Einzelhandel und 2-geschossiger Tiefgarage
+- TOP 3.2.4.: Heidemannstraße 182, Fl.Nr.: 170/49, Neubau eines Werkstattgebäudes mit Büro
+- TOP 3.2.5.: Herzogstraße 32, Fl.Nr.: 396/0, Nutzungsänderung einer Gaststätte in einen Grundschulhort
+- TOP 3.2.6.: Städtebauliche Entwicklungsmaßnahme Bayernkaserne und Bereich östlich der Bayern-kaserne ? Ergebnisse des des VOF-Verfahrens einschließlich Wettbewerb und weiteres Vorgehen sowie Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (Beschlussentwurf für die Vollversammlung / Ausschuss für Stadtplanung und Bauordnung)
+- TOP 3.2.7.: Maria-Josepha-Straße 6, Fl.Nr.: 3796/0, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - Vorbescheid
+- TOP 3.2.8.: Occamstraße 8, Fl.Nr.: 207/28, Nutzungsänderung in eine Schank- und Speisewirtschaft mit regelmäßigen Musik- bzw. Kleinkunst-/Theater und Varietédarbietungen bis 22.00 Uhr
+- TOP 3.2.9.: Am Wiesrain 14, Fl.Nr.: 309/451, Neubau eines Doppelhauses mit Garagen und Carport
+- TOP 3.2.10.: Schlößlanger 2, Fl.Nr.: 309/694, Umbau, Anbau und Aufstockung eines Einfamilienhauses mit Garage
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Keferstraße 24: Sofortiges einfaches Herrichten der leerstehenden Wohnungen und umgehende Vermietung
+- TOP 5.1.2.: Fertigstellung des zentralen Parks innerhalb des Domagk-Neubauquartiers
+- TOP 5.1.3.: Bayernkaserne "Vielfalt statt Einfalt"
+- TOP 5.1.4.: Wettbewerb Bayernkaserne
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Destouchesstraße 9, Fällung einer Hängebuche
+- TOP 5.2.2.: Sondermeierstraße 70, Fällung zweier Silberahornbäume
+- TOP 5.2.3.: Hermann-Vogel-Straße 18: Fällung einer Trauerbuche
+- TOP 5.2.4.: Hohenzollernstraße 9, Fällung einer Robinie
+- TOP 5.2.5.: Hilsbacher Straße 9, Fällung einer Fichte
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Gartenstädte: Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick Sitzungsvorlage Nr. 14-20 / V 00909; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 5.3.2.: Urbane Gemeinschaftsgärten in München; Sitzungsvorlage Nr. 14-20 / V 02503; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 5.3.3.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte: Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Sitzungsvorlage Nr. 14-20 / V 01862; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 5.3.4.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen; Sitzungsvorlage Nr. 14-20 / V 02126; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 5.3.5.: Straßenausbaubeitragssatzung ? Beitragserlass für bereits abgeschlossene Maßnahmen; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015; Sitzungsvorlage Nr.: 14-20 / V 02686
+- TOP 5.3.6.: Am Blütenring 64, Fl.Nr.: 580/150, Neubau eines Dreifamilienhauses mit drei unterirdischen PKW-Stellplätzen
+- TOP 5.3.7.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtsgärten; Sitzungsvorlage Nr. 14-20 / V 02910 Beschluss des Kreisverwaltungsausschusses vom 28.04.2015
+- TOP 1: Anträge (3)
+- TOP 1.1.: Aufstellung einer Schwabinger Laterne auf dem Wedekindplatz
+- TOP 1.2.: Ampelschaltung an der Kreuzung Leopoldstraße / Herzogstraße / Feilitzschstraße
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Erinnerungsverfahren: a) Wohlfahrtstraße 4 ? 36, Gehbahn Sanierung b) Grohplatz, Ligusterstraße, Schlehenstraße: Gehbahn Sanierung c) Sondermeierstraße 64 ? 68: Gehbahn
+- TOP 3.2.2.: Straßenplanung - Leopoldstraße, Johann-Fichte-Straße, Berliner Straße
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Anbringung eines grünen Pfeils an der Ampel am östlichen Ende der Max-Bill-Straße zum Rechtsabbiegen in den Frankfurter Ring
+- TOP 4.2.: Park in der Biedersteiner Straße nicht verwahrlosen lassen
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Provisorischer Zugang zur nördlichen Endhaltestelle der Tram 23
+- TOP 5.1.2.: Kißkaltplatz - Provisorische Verkehrsführung in einen endgültigen Zustand versetzen
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Aufhebung der Radwegbenutzungspflicht in der Soxhletstraße
+- TOP 5.2.2.: Beschilderung des Weges südlich der Anwesen Georg-Muche-Straße 3-5 (zwischen Georg-Muche-Straße und Oskar-Schlemmer-Straße) als Gehweg
+- TOP 5.2.3.: Vorfahrtsregelung Weimarer Straße / Domagkstraße
+- TOP 5.2.4.: Vorübergehende Verlegung des Taxistandplatzes Berliner Straße 93 (Hotel Mariott) wegen einer Veranstaltung
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Erneuerung der Lärmschutzwand an der Freisinger Landstraße (Schreiben des Baureferats Tiefbau zu einem Bürgeranliegen vom 11.11.2014)
+- TOP 5.3.2.: Verkehr in der Sondermeierstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.3.: Heidemannstraße zwischen Freisinger Landstraße und Autobahn sanieren (Antrag der CSU-Fraktion im Stadtrat)
+- TOP 5.3.4.: Überarbeitung der Mähkonzepte auf städtischen Grünflächen und im Verkehrsbegleitgrün (Stellungnahme des Baureferats zu den Vorschlägen des BA)
+- TOP 5.3.5.: Information der MVG über das Betriebskonzept während der Schienenschleifarbeiten vom 31.05. bis 11.06.2015
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Veranstaltung "Kunst im Karrée" vom 10. - 12.07.2015
+- TOP 2: (E) Aufstellen von ausreichenden öffentlichen Toiletten bei Großveranstaltungen auf der Leopoldstraße
+- TOP 2.3.: Kinderflohmärkte an der Münchner Freiheit am 23.05. / 04.07. / 19.09. / 26.09. / 10.10.2015 (incl. Eilentscheidung für den Termin 25.04.2015 - zugestimmt)
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative "Domagkpark" Info-Veranstaltung am 6.05.2015
+- TOP 2.5.: (E) Budget der Bezirksausschüsse BieBie Künstlerquartier Straßenkunst-Projekt "Ein Platz für alle" am 16./17.05.2015
+- TOP 3: Anhörungen (4)
+- TOP 3.1.: School's over Jam am 31.07.2015 auf der Münchner Freiheit
+- TOP 3.2.: Flohmarkt der Parkstadt Schwabing in der Grünanlage an der Lilly-Reich-Straße am 10.05.2015 (Ausweichtermin 17.05.2015)
+- TOP 3.3.: Quartiersflohmarkt auf dem Nikolaiplatz am 13.06.2015 (Ausweichtermin 20.06.2015)
+- TOP 3.4.: Streetlife Festival / Corso Leopold am 16./117.05.2015 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 3.5.: Münchner Blade-Night 2015 ab 04.05.2015
+- TOP 3.6.: ?Polizei statt Bürgerwehr? - Antrag der Stadtratsfraktion Die Grünen-rosa liste
+- TOP 4: Bürgeranliegen (3)
+- TOP 4.1.: Johanniter-Unfall-Hilfe ? Unterstützung bei der Suche nach Räumlichkeiten
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Infrastrukturprogramm Sport in München
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Brunnwart?, Schank- und Speisewirtschaft, Biedersteiner Straße
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Zuwendungsbewilligungen / Bescheide a) Konsortium Domagkpark für eine Neubürgerveranstaltung am 17.03.2015 in Höhe von 1.800,00 ? b) Corso Leopold e.V. für den ?Corso Leopold 2015? am 16./17.05.2015 und 12./13.09 2015 in Höhe von 4.500,00 ? c) Mohr-Villa Freimann e.V. für ein Theaterprojekt am 25.03.2015 in Höhe von 1.00,00 ? d) Initiative ?Chillichicks? für eine Ausstellung in der Seidlvilla vom 13.03. bis 12.04.2015 in Höhe von 1.200,00 ? e) Erlöserkirche München-Schwabing für den 1. Münchner Orgelsonntag am 10.05.2015 in Höhe von 1.300,00 ? f) Fröttmaninger Kunst- und Kulturkreis ?Kukuk? e.V. für das Jubiläumsfest am 18./19.04.2015 in Höhe von 1.500,00? g) Mohr-Villa Freimann e.V. für das Straßenkunstprojekt ?Ein Platz für alle? am 16./17.05.2015 in Höhe von 3.350,00 ? h) Linkshänder e.V. für das Straßenkunstprojekt ?Ein Platz für alle? am 16./17.05.2015 in Höhe von 40 0,00 ?
+- TOP 5.3.2.: Erweiterung der Notunterkunft Burmesterstraße 20 (Antwort des Sozialreferats auf eine Bürgeranfrage)
+- TOP 5.3.3.: Zwischennutzung für Apassionata im 12. Stadtbezirk Schwabing-Freimann; Sitzungsvorlage Nr. 14-20 / V 02797; Beschlussvorlage für den Kommunalausschuss vom 23.04.2015
+- TOP 5.3.4.: Erlaubnisbescheid: City-Bike-Marathon München und nördliche Umgebung am 12.04.2015
+- TOP 5.3.5.: Zuschussnehmerdatei 2015 ? Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferats: Beschlussvorlagen für die gemeinsame Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 14.04.2015 Zentrale (Sitzungsvorlage Nr. 14-20 / V 02270), Stadtjugendamt (Sitzungsvorlage Nr. 14-20 / V 02272) Amt für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 02224) Amt für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 02301)
+- TOP 5.3.6.: Studie ?Älter werden in München? - Abschlussbericht Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015, Sitzungsvorlage Nr.: 14-20 / V 02540
+- TOP 5.3.7.: Gestaltung der Nachbarschaften in der Parkstadt Schwabing - Antrag der SPD-Stadtratsfraktion -
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.2.3.: Austausch der Lichtzeichensignalanlage Ungerstraße / Fröttmaninger Straße ? Verbesserung der Verkehrssicherheit und Optimierungsarbeiten
