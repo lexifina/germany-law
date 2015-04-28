@@ -1,0 +1,54 @@
+# 4. Sitzung des Gemeinderates (Beschluss DHH)
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2015-04-28T14:05:00+02:00
+- Ende: 2015-04-28T20:06:00+02:00
+- Ort: Neuer Ratssaal des Rathauses, Rathausplatz 2 - 4, 79098 Freiburg im Breisgau
+- Status: terminiert
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2015-GR-129
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2015-GR-129
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Grundsatzreden der Fraktionen, Fraktionsgemeinschaften und Gruppierung zum Doppelhaushalt 2015/2016
+- TOP 2: Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2015 und 2016 und Finanzplanung für die Jahre 2014 bis 2018
+- TOP 2.1: 1. Freiburger Nachhaltigkeitsbericht h i e r : Beispielhafter Ausschnitt zur Darstellung des Nachhaltigkeitsprozesses
+- TOP 2.2: Schulsozialarbeit h i e r: Ausbau im Doppelhaushalt 2015/2016
+- TOP 2.3: Umsetzung des neuen Schulkindbetreuungskonzepts h i e r : Anpassung der Rahmenbedingungen
+- TOP 2.4: Regelungen der Geschwisterbeiträge in Schulen, Horten und Kindertagesstätten
+- TOP 2.5: Zuschuss Mittagstisch an öffentlichen Schulen
+- TOP 2.6: Durchgängige Sprachbildung in Freiburg
+- TOP 2.7: Schulbauvorhaben h i e r : Fortschreibung der Schwerpunkte für die nächsten Jahre
+- TOP 2.8: Erweiterung der Pestalozzi-Schulen h i e r : Grundsatzbeschluss
+- TOP 2.9: Staudinger Gesamtschule h i e r : Grundsatzbeschluss
+- TOP 2.9.1: Staudinger Gesamtschule h i e r : a) Grundsatzbeschluss b) Erhalt des Werkspielhauses und Werkspielplatzes
+- TOP 2.10: Einrichtung eines Ganztagesbetriebs in offener Form an der Adolf-Reichwein-Schule sowie Neubau eines Schulkindergartens mit zweigruppiger Kindertageseinrichtung und Verlagerung des Schulkindergartens Haus Weingarten h i e r : Neubau 1. Bauabschnitt Ganztageseinrichtung (Baubeschluss)
+- TOP 2.10.1: Einrichtung eines Ganztagesbetriebs in offener Form an der Adolf-Reichwein-Schule sowie Neubau eines Schulkindergartens mit zweigruppiger Kindertageseinrichtung und Verlagerung des Schulkindergartens Haus Weingarten h i e r : Neubau einer Ganztageseinrichtung mit Schulkindergarten und Kindertageseinrichtung (Bauabschnitte 1+2) an der Adolf-Reichwein-Schule - Baubeschluss
+- TOP 2.11: Förderung von Kindertageseinrichtungen und Kindertagespflege in Freiburg im Breisgau h i e r : - Neufassung der Förderrichtlinien zur Förderung von Kindern in Kindertageseinrichtungen - Neufassung der Förderrichtlinien zur Förderung von Kindern in Kindertagespflege
+- TOP 2.12: Projekte der Jugendsozialarbeit
+- TOP 2.13: Maßnahmen des Kommunalen Beschäftigungsprogramms 2015/2016
+- TOP 2.14: Psychosoziale Betreuung von jungen Menschen unter 25 Jahren in Freiburg
+- TOP 2.15: 'Gemeinsame Anlaufstelle' für junge Menschen unter 25 Jahren in Freiburg am Übergang zwischen Schule und Beruf
+- TOP 2.16: Literaturhaus Freiburg h i e r : Ergebnis der Standortprüfung 'Alte Universität' und Umsetzungsbeschluss
+- TOP 2.16.1: Literaturhaus Freiburg h i e r : Ergebnis der Standortprüfung 'Alte Universität' und Umsetzungsbeschluss
+- TOP 2.17: Eigenbetrieb Theater Freiburg h i e r : Wirtschaftsplan für die Geschäftsjahre 2015/2016 und 2016/2017
+- TOP 2.17.1: Eigenbetrieb Theater Freiburg h i e r : Wirtschaftsplan für die Geschäftsjahre 2015/2016 und 2016/2017
+- TOP 2.18: Lärm in der Innenstadt h i e r : Organisationskonzept zur Umsetzung des Gaststättenkonzepts für Sperrzeitentscheidungen im Einzelfall
+- TOP 2.19: Sanierung Stubeareal in St. Georgen, Blumenstraße 9 h i e r : Grundsatzgenehmigung
+- TOP 2.20: Investitionen im Sportbereich h i e r : Investitionszuschüsse an Sportvereine
+- TOP 2.21: Fortschreibung des Sanierungs- und Investitionsprogramms des Gebäudemanagements Freiburg (GMF)
+- TOP 2.22: Sanierung, Umbau und Erweiterung der Hauptfeuerwache, Eschholzstraße 118 h i e r : Grundsatz- und Baubeschluss für Bauteil F und modifizierter Baubeschluss für Bauteil B
+- TOP 2.23: Sanierung und Neukonzeption des Augustinermuseums h i e r : a) 2. Bauabschnitt 'Haus der Graphischen Sammlung' - Kostenfortschreibung b) 3. Bauabschnitt 'Konventgebäude' - Genehmigung des Bauvorhabens (Baubeschluss)
+- TOP 2.24: Sanierungs- und Investitionsprogramm des Garten- und Tiefbauamts für den Doppelhaushalt 2015/2016
+- TOP 2.25: Pflanzung zusätzlicher Bäume im Zusammenhang mit der Klimaadaption
+- TOP 2.26: Doppelhaushalt 2015/2016 h i e r : Änderungslisten der Verwaltung
+- TOP 2.27: Unstrittige Anträge - mehrheitlich befürwortete Anträge - durch Rücknahme Ablehnung oder anderweitig erledigte Anträge - Antragslisten -
+- TOP 2.28: Strittige Anträge - Antragsliste -
+- TOP 2.29: Aufstellung des Doppelhaushaltes 2015/2016 h i e r : Zuschüsse an die Träger der freien Jugendhilfe
+- TOP 2.29.1: Aufstellung des Doppelhaushaltes 2015/2016 h i e r : Zuschüsse an die Träger der freien Jugendhilfe
+- TOP 2.30: Aufstellung des Doppelhaushalts 2015/2016 h i e r : Zuschüsse an die Träger der freien Jugendhilfe in den Bereichen Migration und Jugendberufshilfe
+- TOP 2.31: Entwicklung der Planstellen, der Personalaufwendungen und Stellenplan zum Doppelhaushalt 2015/2016
+- TOP 2.32: Haushaltssatzung
+- TOP 2.33: Finanzplanung 2014 - 2018
