@@ -1,0 +1,162 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-04-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Toilette am Gärtnerplatz, fortlaufende Themensammlung
+- TOP .2.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP .3.: Bücherschrank, fortlaufende Themensammlung
+- TOP .4.: Urban Art Festival, fortlaufende Themensammlung
+- TOP .5.: Kulturzentrum ?Südbahnhof 2/6?, fortlaufende Themensammlung
+- TOP .6.: Bürgeranliegen: Die Johanniter - Unterstützung bei der Suche von neuen Räumlichkeiten
+- TOP .7.: Neuer Standort Tafel Caritas
+- TOP .8.: Räume für die Elterninitiative Isarvorstadt
+- TOP 3.3.1: Bauvorhaben
+- TOP 3.1.: Fraunhoferstr. 36, Dachgeschossausbau und Änderung der Dachgeschosswohnung eines Mehrfamilienhauses, Anbau einer Aufzugsanlage mit Balkonen und Notleiteranlage (Eilentscheidung)
+- TOP 3.2.: Mittererstr. 9, Aufstockung, Umbau und Nutzungsänderung eines Bürogebäudes zu einem Beherbergungsbetrieb (103 Zimmer) und einer Gaststätte im EG (Eilentscheidung)
+- TOP 3.3.: Baaderstr. 60, RGB: Umbau, Nutzungsänderung von Werkstatt und Büro in Wohnen, Neubau des Dachstuhls, Einbau eines Kombilifts mit 5 Stellplätzen ? Tektur (Eilentscheidung)
+- TOP 3.4.: Pettenkoferstr. 17, Nutzungsänderung mit Einbau eines Fluchtpodestes im Treppenhaus (2. DG-Ebene) (Eilentscheidung)
+- TOP 3.5.: Zenettistr. 40, Errichtung eines Lagerraums im EG / Lichthof, Nutzungsänderung KG / Partykeller zu Lager, Einbau einer Treppe und Hubbühne im Lager / KG zur TG (Eilentscheidung)
+- TOP 3.6.: Landwehrstr. 32B, Neubau eines Rückgebäudes mit einem Seitenflügel ? Vorbescheid (Eilentscheidung)
+- TOP 3.7.: Auenstr. 32, DG-Ausbau, Erneuerung des Dachstuhls, Anbau einer Aufzugsanlage, Anbau von Balkonen, Nutzungsänderung EG: Wohn- zu Gewerbeeinheit, Einbau von versenkbaren Parkstapelsystemen im Hinterhof, Nachrüsten eines Wärmedämmverbundsystems ? Tektur (Eilentscheidung)
+- TOP 3.8.: Fraunhoferstr. 43, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - Tektur
+- TOP 3.9.: Zenettistr. 43, Aufstockung VGB mit Nutzungsänderung EG (Gastronomie zu Läden) sowie Generalsanierung RGB mit Einschnitt Dachterrasse und Nutzungsänderung EG (Gewerbe zu Wohnungen) - Vorbescheid
+- TOP 3.10.: Museumsinsel 1, Deutsches Museum München, Sanierung des Sammlungsbaus, Provisorischer Verbindungsgang Sammlungsbau zu Hallenbau
+- TOP 3.11.: Karlsplatz 25, Verkaufsflächenerweiterung Läden Königshof 1 UG durch Nutzungsänderung Passage und Nebenfläche Drogeriemarkt
+- TOP 3.12.: Reichenbachstr. 15, DG-Ausbau
+- TOP 3.13.: Adlzreiterstr. 23-25, Dachaufstockung zweier Mehrfamilienhäuser mit Anbau von Balkonen - Vorbescheid
+- TOP 3.14.: Lindwurmstr. 77, Abbruch und Neuerrichtung eines Daches, Ausbau zweier Wohnungen mit Loggia und Gauben
+- TOP 3.15.: Tumblingerstr. 16, Erweiterung des Gastraums um eine Teillagerfläche und Umbau der Thekenanlage
+- TOP 3.16.: Klenzestr. 79, Teilausbau des Dachgeschosses und Zusammenlegung mit einer Wohnung im 3. OG (Maisonettewohnung), Einbau von Dachgauben und einer Dachterrasse mit Veränderung des rückwärtigen Daches, Anbau eines Personenaufzuges
+- TOP 3.17.: Kapuzinerplatz 2, Nutzungsänderung: Laden zu Wettbüro
+- TOP 3.18.: Adolf-Kolping-Str. 1, Errichtung eines Wirtsgartens (61,7 m²) ? Nachträgliche Genehmigung
+- TOP 3.19.: Paul-Heyse-Str. 17, Anbau eines Außenaufzugs und neuer Balkone - Vorbescheid
+- TOP 3.20.: Bavariaring 21, Anbau eines Aufzugs an ein Wohn- und Bürohaus
+- TOP 3.21.: Bahnhofpl. 1, Aufstockung und Umnutzung von Büro- bzw. Gewerbeflächen in ein Hotel
+- TOP 3.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.1.: Ruppertstraße 10, Antrag auf Baumfällung, 1 Spitzahorn
+- TOP 3.2.: Pettenkoferstr. 12, Antrag auf Baumfällung, 2 Eschen
+- TOP 3.3.: Museumsinsel 1, Antrag auf Baumfällungen, verschiedene Bäume und Sträucher
+- TOP 3.4.: Tumblingerstr. 54, Antrag auf Baumfällung, 4 Kastanien
+- TOP 3.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.1.: Paul-Heyse-Straße zwischen Bayer- und Schwanthalerstraße, Radwegmarkierung
+- TOP 3.2.: Radweg in der Thalkirchner Straße, zwischen Walther- und Ehrengutstraße, Fahrbahnsanierung
+- TOP 3.1.: Bürgeranliegen: Baumpflanzung in der Baaderstraße
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.1: Gaststättenangelegenheiten
+- TOP 3.1.: Schwanthalerstr. 26, Al Qaswaa Gastronomie-Betriebs GmbH, Genehmigung einer Freischankfläche
+- TOP 3.2.: Hans-Sachs-Straße 1, Boulangerie Dompierre GmbH, Genehmigung einer Freischankfläche (Plenumsbeschluss)
+- TOP 3.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 3.1.: Goetheplatz 1, Antrag auf Erteilung einer Sondernutzungserlaubnis für den ambulanten Straßenhandel mit Blumen, Stellungnahme des Kreisverwaltungsreferates zum Beschluss des Bezirksausschusses vom 24.02.2015 (vertagt aus 2015.03 C 2.2.1 N)
+- TOP 3.2.: Landwehrstr. 22, Hanin Shop, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3.2.3: Sonstige Entscheidungen
+- TOP 2.1.: Wahl zur Maikönigin in der Hans-Sachs-Straße am 30.04.2015
+- TOP 2.3.: Ganzjährige Spielaktion der Spiellandschaft Stadt e. V. Im gesamten Stadtgebiet ab April 2015
+- TOP 2.4.: Dreimühlenspektakel in der Ehrengutstraße/Dreimühlenstraße am 25.07.2015 Veranstaltung wurde abgesagt!
+- TOP 2.5.: Nachtrag zum interkulturellen Straßenfest des Bürgerhauses Glockenbachwerkstatt e. V. am 03.05.2015 in der Corneliusstraße (Eilentscheidung)
+- TOP 2.6.: Münchner Blade-Night 2015 ab dem 04.05.2015 (Eilentscheidung)
+- TOP 2.7.: Presseveranstaltung Vorstellung des Skaterpark-Mobils am 07.05.2015 im Skatepark auf der Theresienwiese (Plenumsbeschluss)
+- TOP 2.3.2: Verkehr
+- TOP 2.1.: Bürgeranliegen: Gefahrenzone am Esperantoplatz (2015.03 II 1)
+- TOP 2.2.: Bürgeranliegen: Müllverschmutzung entlang der Isar (2015.03 II 3, Plenumsbeschluss)
+- TOP 2.3.: Veranstaltung ?Blühende Theresienwiese?
+- TOP 2.4.: Zelte zwischen Reichenbach- und Wittelsbacherbrücke
+- TOP 2.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung, Antrag Nr. 14-20/B 00345 des Bezirksausschusses 8 ? Schwanthalerhöhe vom 16.09.2014
+- TOP 2.3.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung, Antrag Nr. 14-20/B 00344 des Bezirksausschusses 13 ? Bogenhausen vom 16.09.2014
+- TOP 2.2: Termine
+- TOP 2.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 04.05.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP 2.2.: Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 05.05.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP 2.3.: Unterausschuss ?Planen, Bauen? am Mittwoch, den 06.05.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP 2.4.: Die Vorstandssitzung findet am Montag, den 11.05.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt.
+- TOP 2.5.: Die BA-Sitzung findet am Dienstag, den 19.05.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 2.6.: Urban Art-Festival: Deadline,15.05.-17.05.2015 auf dem Viehhofgelände
+- TOP 2.7.: Traditioneller Münchner Maiausflug 2015 Theresienwiese ? Theresienwüste?: ?Die Theresienwiese soll wieder blühen!? , Veranstaltung des Arbeitskreise Öffentliches Grün des Münchner Forums e. V., 01.05.2015, 15.00 ? 17.00 Uhr, Treffpunkt Matthias-Pschorr-Straße / Esperantoplatz (U-Bahn Goetheplatz)
+- TOP 2.8.: Tagungsreihe ?Urbane Dichte gestalten? des Arbeitskreises Stadt: Gestalt und Lebensraum des Münchner Forums e. V. in der Evangelischen Stadtakademie, Herzog-Wilhelm-Straße 24 : 07.05.2015, 19.00 Uhr, Das Quartier bewohnen 22.05.2015, 19.00 Uhr, Prima Klima ? Wachsende Stadt und Klimawandel
+- TOP 2.9.: Nachbarschaftstreffen des Evangelischen Hilfswerks, 05.05.2015, 18.30 Uhr, Thalkirchner Straße 9, Gruppenraum 7. Stock
+- TOP 2.&nbsp;: Unterrichtungen
+- TOP 2.1.: BA-Budget: Bescheide
+- TOP 2.2.: BA-Budget: Verwendungsnachweise, Sachberichte (- ?Zinngeschrei?, - ?Spiel mich?)
+- TOP 2.3.: PERSPEKTIVE MÜNCHEN ? Leitlinie Soziales, Sitzungsvorlage Nr. 14-20/V 02652, Beschlussvorlage des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 05.05.2015
+- TOP 2.4.: Verschiedene BA-Anträge zum Themenfeld Auenstraße 19 / Mittelschule Wittelsbacherstraße, BA Antrag Nr. 02-08 / B 00185 vom 14.04.2005, Nr. 02-08 / B 002830 vom 05.02.2008, Nr. 08-14 / B 00555 vom 04.11.2008, Nr. 08-14 / B 03220 vom 02.08.2011, Antwortschreiben des Referates für Bildung und Sport
+- TOP 2.5.: Raumsuche für die Elterninitiative Isarkindl, Antwortschreiben des Kommunalreferates (2014.12 A 1.4)
+- TOP 2.6.: Studie ?Älter werden in München? - Abschlussbericht, Sitzungsvorlage Nr. 14-20 / V 02540, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 2.7.: Zur Lage im südlichen Bahnhofsviertel, Sitzungsvorlage Nr. 14-20 / A 04984, Beschlussvorlage des Sozialausschusses vom 16.04.2015 (SB)
+- TOP 2.8.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 02224, Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.2015 (SB)
+- TOP 2.9.: Prüfung der Möglichkeiten zur Unterbringung von Flüchtlingen im Deutschen Museum, BA-Antrag Nr. 14-20 / B 00814 vom 27.01.2015, Antwortschreiben des Sozialreferates
+- TOP 2.1.: Baumaßnahmen der Stadtwerke München
+- TOP 2.2.: Bauvorhaben Sonnenstr. 8, Antwortschreiben der Lokalbaukommission auf Stellungnahme des Bezirksausschusses vom 27.11.2014, Abdruck der Baugenehmigung
+- TOP 2.3.: Baumfällung Tumblingerstraße/Zenettistraße, Antwortschreiben des Baureferates zu BA-Schreiben vom 24.02.015
+- TOP 2.4.: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick, Sitzungsvorlage Nr. 14-20 / V 00909, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 2.5.: Urbane Gemeinschaftsgärten in München, Sitzungsvorlage Nr. 14-20 / V 02503, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 2.6.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012, Sitzungsvorlage Nr. 14-20 / V 01862, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB)
+- TOP 2.7.: Rechtzeitige Veröffentlichung von geplanten Baumfällungen, Sitzungsvorlage Nr. 14-20 / V 01965, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 2.8.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen, Antrag Nr. 08-14 / A 05260 der Stadtratsfraktion DIE GRÜNEN / RL vom 14.03.2014, Sitzungsvorlage Nr. 14-20 / V 02621, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.20015
+- TOP 2.9.: Beschlussvollzugskontrolle (BVK); Bericht über die BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2014-31.12.2014, Sitzungsvorlage Nr. 14-20 / V 02786, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 2.10.: Überarbeitung der Mähkonzepte auf städtischen Grünflächen und im Verkehrsbegleitgrün, BA-Antrag Nr. 14-20 / A 04305 der Stadtratsfraktion DIE GRÜNEN / RL vom 07.06.2013, Antwortschreiben des Baureferates zu BA-Schreiben
+- TOP 2.11.: Baumfällungen Thalkirchner Straße 71 (1 Erle) sowie im Bereich der Erhardstraße / Ludwigsbrücke (2 Weiden), Antwortschreiben des Baureferates zu BA-Schreiben vom 27.02.2015
+- TOP 2.12.: MVG-Rad, geplanter Standort am Hauptbahnhof, Antwortschreiben des Baureferates zu BA-Schreiben vom 27.02.2015
+- TOP 2.13.: Goethestraße 74, Stellungnahme des Referates für Stadtplanung und Bauordnung, Abdruck der Baugenehmigung
+- TOP 2.14.: Begrünung in der Fraunhoferstraße, Antwortschreiben des Baureferates zu BA-Schreiben vom 25.03.2014
+- TOP 2.15.: Stellungnahme der MVG zur Nord-Süd-Querung der Altstadt für den Radverkehr
+- TOP 2.16.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün, Sitzungsvorlage Nr. 14-20 / V 02645, Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 2.17.: Straßenausbaubeitragssatzung, Beitragserlass für bereits abgeschlossene Maßnahmen, Sitzungsvorlage Nr. 14-20 / V 02686, Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 2.18.: Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100 % zu einem für das Gemeinwohl vorteilhaften Preis, BV-Empfehlung Nr. 14-20/8E 00276 der Bürgerversammlung des Stadtbezirkes 18 ? Untergiesing-Harlaching am 13.11.2014, Sitzungsvorlage Nr. 14-20/V 02362, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 2.19.: Neubau Hauptbahnhof München, Sachstand und weiteres Vorgehen, Sitzungsvorlage Nr. 14-20 / V 02553, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (SB)
+- TOP 2.20.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) ? Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, Änderungsantrag der Stadtratsfraktion DIE GRÜNEN / ROSA LISTE vom 04.02.2015, Sitzungsvorlage Nr. 14-20 / V 01341, Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 (SB)
+- TOP 2.21.: Reichenbachstr. 55, Ausnahmezulassung für nächtliche Arbeiten an der Wasserversorgungsleitung vom Referat für Gesundheit und Umwelt
+- TOP 2.1.: Versammlungen unter freiem Himmel
+- TOP 2.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 2.3.: Unveränderte Gaststättenfortführungen
+- TOP 2.4.: Verkehrsrechtliche Anordnungen
+- TOP 2.5.: Erlaubnisbescheide
+- TOP 2.6.: Oktoberfestschlussbericht 2014
+- TOP 2.7.: Bayerstr. 35-37, Aufstellung von städtischen Fahrradabstellanlagen und einer Litfaßsäule, Stellungnahme des Kreisverwaltungsreferates zum gemeinsamen Ortstermin am 17.03.2015
+- TOP 2.8.: Gefährdung für Kinder und Jugendliche durch Werbeplakate im öffentlichen Raum, Sitzungsvorlage Nr. 14-20 / V 02269, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015
+- TOP 2.9.: Nutzung der Theresienwiese für das Umladen von Schwertransporten - Absage, Antwort des Referat für Arbeit und Wirtschaft
+- TOP 2.10.: Genehmigungspflichtiges Feuerwerk anlässlich des Frühlingsfestes am 24.04.2015 um 22:00 Uhr auf der Theresienwiese
+- TOP 2.11.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 2.12.: Bürgeranliegen: Abgestellte Fahrräder und Motorräder sowie Behinderungen durch parkende Autos in der Thalkirchner Straße, Antwortschreiben des Baureferates zu BA-Schreiben vom 25.11.2014
+- TOP 2.13.: Oktoberfest vom 20. September ? 5. Oktober; Schlussbericht, Sitzungsvorlage Nr. 14-20 / V 02038, Bekanntgabe in der Sitzung des Ausschusses für Arbeit und Wirtschaft am 17.03.2015
+- TOP 2.14.: Isarsprudelfest 2015 vom 21.08.-22.08.2015, Vermietung städtischer Grundstücke
+- TOP 2.15.: Attraktivere öffentliche Räume und Verbesserungen für den Fuß- und Radverkehr im Südlichen Bahnhofsviertel, Antrag 14-20 / A 00828 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 24.03.2015
+- TOP 2.16.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten, Sitzungsvorlage Nr. 14-20 / V 02910, Beschlussvorlage des Kreisverwaltungsausschusses vom 28.04.2015 (VB)
+- TOP 2.17.: Anzeige Feuerwerk zum Frühlingsfest auf der Theresienwiese am 30.04.2015
+- TOP 2.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, 1. Vorberatung in der BA-Satzungskommission vom 15.01.2015, 2. Umsetzung der Empfehlung in eine Änderungssatzung, Sitzungsvorlage Nr. 14-20 / V 02091, Beschluss der Vollversammlung des Stadtrates vom 04.03.2015
+- TOP 2.2.: Alt und Jung ? Grenzenlos am 22.04.2015, Veranstaltung des Bezirksausschusses 2, Bestätigung des städtischen Interesses vom Direktorium
+- TOP 2.3.: ?Urban Art? - Graffiti im Viehhof vom 15.05.-17.05.2015, Veranstaltung des Bezirksausschusses 2, Bestätigung des städtischen Interesses vom Direktorium
+- TOP 2.4.: Informationsschreiben,Tätigkeitsübersicht des Datenschutzbeauftragten der LHM für die Jahre 2012 und 2013, Fall der persönlichen Beteiligung nach Art. 49 GO
+- TOP .1.: (E) Budget der Bezirksausschüsse Isarlust e.V. ?Spiel mich? vom 08. bis 25.10.2015
+- TOP .3.: (E) Budget der Bezirksausschüsse Stattpark OLGA e.V. Installation eines Netzstromanschlusses
+- TOP 1: (E) Überprüfung der Genehmigung für ein Boardinghouse in der Paul-Heyse-Straße 30-34 (Ziffer 1) Empfehlung Nr. 14-20 / E 00211 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 2: (E) Uhr am Baldeplatz Empfehlung Nr. 14-20 / E 00213 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 3: (E) Generalsanierung und Umbau des Turnhallengebäudes an der Auenstraße 19 Empfehlung Nr. 02-08 / E 00940 vom 15.11.2007 der Bürgerversammlung Ludwigsvorstadt-Isarvorstadt Einplanung einer Ganztagesschule an der Auenstraße 19 Empfehlung Nr. 02-08 / E 00941 vom 15.11.2007 der Bürgerversammlung Ludwigsvorstadt-Isarvorstadt
+- TOP 1: (E) Maßnahmen gegen Lärmbelästigung durch Lokal in der Tumblingerstr. 16 ergreifen
+- TOP 2: (E) Doppelnutzung von Rad- und Fußweg in der Paul-Heyse-Straße - zwischen Schwanthalerstraße und Bayerstraße - aufheben (Ziffer 2)
+- TOP 2.5: Sonstiges
+- TOP 3.1: Anträge
+- TOP 3.2: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4: Unterrichtungen (siehe Beiblatt)
+- TOP 3.6: Berichte der Beauftragten
+- TOP 2.3: Veranstaltungen
+- TOP 2.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Dreimühlen-Maifeier in der Ehrengutstraße 15 am 09.05.2015 (Eilentscheidung)
+- TOP 2.2.: Gewerbliche Veranstaltungen
+- TOP .2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> (E) Budget der Bezirksausschüsse Fassbindertage e.V. Fassbindertage München vom 30.05. - 03.06.2015
