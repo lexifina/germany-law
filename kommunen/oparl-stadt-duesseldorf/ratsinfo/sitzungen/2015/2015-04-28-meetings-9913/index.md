@@ -1,0 +1,59 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-28T16:00:00+02:00
+- Ende: 2015-04-28T21:00:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9913
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9913
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238575.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238575.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238575.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 4: Vorstellung Gesamtschule - zur Kenntnis genommen
+- TOP 5: Vorstellung Bäderkonzept 2020 - zur Kenntnis genommen
+- TOP 6: Wiederaufbau der Parkanlage Zoopark - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Radwegsicherung - zur Kenntnis genommen
+- TOP 9: Zentrale Fachstelle für Wohnungsnotfälle - zur Kenntnis genommen
+- TOP 10: Querung der Graf-Recke-Str. vor der Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 11: Babyschaukel Spielplatz Langer Straße - zur Kenntnis genommen
+- TOP 12: Babyschaukel Langerstraße - zur Kenntnis genommen
+- TOP 13: Spielplatz Langerstraße - zur Kenntnis genommen
+- TOP 14: Wildblumenwiese Altenberger Straße - zur Kenntnis genommen
+- TOP 15: Aufstellung von Fahrradständern im Stadtbezirk - zur Kenntnis genommen
+- TOP 16: Bezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 17: Broschüre über KZ-Außenlager in Düsseldorf - zur Kenntnis genommen
+- TOP 18: Einladung zum Jahresempfang für Asylbewerbende - zur Kenntnis genommen
+- TOP 19: Online-Radwege-Meldung - zur Kenntnis genommen
+- TOP 20: Radweg-Kennzeichnung an der Grafenberger Allee - zur Kenntnis genommen
+- TOP 21: Zoo-Park-Toilettenanlage - zur Kenntnis genommen
+- TOP 22: Schule der Zukunft - zur Kenntnis genommen
+- TOP 23: Verkehrsführung Herderstraße - zur Kenntnis genommen
+- TOP 24: Haltestellenbereiche Grafenberger Allee Uhlandstraße - zur Kenntnis genommen
+- TOP 25: VRR-Graffiti-Richtlinie - zur Kenntnis genommen
+- TOP 26: Zustand Hundeauslauf Hanielpark - zur Kenntnis genommen
+- TOP 27: Haushaltsansätze für das Bezirksradwegenetz im Bezirk 2 - zur Kenntnis genommen
+- TOP 28: Lokomotive Staufenplatz - zur Kenntnis genommen
+- TOP 29: Sauberkeit Birkenstraße - zur Kenntnis genommen
+- TOP 30: Linksabbiegestreifen Lindemannstraße - Grafenberger Allee und Dorotheenstraße – Grafenberger Allee - zur Kenntnis genommen
+- TOP 31: Kath. Grundschule Graf-Recke-Str. - zur Kenntnis genommen
+- TOP 32: Kleinkinderspielplatz Faunastraße - zur Kenntnis genommen
+- TOP 33: Gebäude Birkenstraße 73 - zur Kenntnis genommen
+- TOP 34: Ausbau der Schulen im Stadtbezirk 2
+- TOP 35: Kreuzung Hermann-/Ackerstraße - zur Kenntnis genommen
+- TOP 36: WC-Anlage Schillerplatz - zur Kenntnis genommen
+- TOP 37: Sachstandsbericht Hochwasserschutz - zur Kenntnis genommen
+- TOP 38: Wertstoffcontainer Dorotheenplatz - zur Kenntnis genommen
+- TOP 39: Fußgängerquerung über die Cranachstraße - zur Kenntnis genommen
+- TOP 40: Installation von Fahrradständern - zur Kenntnis genommen
+- TOP 41: Güterbahntrasse Bruchstraße - zur Kenntnis genommen
+- TOP 42: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung; Hier: Grundschule - zur Kenntnis genommen
