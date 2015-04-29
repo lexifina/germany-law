@@ -1,0 +1,63 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-29T17:00:00+02:00
+- Ende: 2015-04-29T19:55:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9934
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9934
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238844.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238844.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238844.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Situation der Flüchtlinge in Düsseldorf - zur Kenntnis genommen
+- TOP 5: Bäume Heinrichstraße - zur Kenntnis genommen
+- TOP 6: Hauptradwegenetz/Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 7: Plan Nr. 06/014 - Vogelsanger Weg / Münsterstraße Aufstellung - zur Kenntnis genommen
+- TOP 8: Genehmigung Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 9: B-P5580/16 -Münster/nördlZubr-Ä 13 Stell;Satzung - einstimmig beschlossen
+- TOP 10: Anfrage Daxenberger: Instandsetzung Fahrradabstellplatz - vertagt
+- TOP 11: Anfrage Bü90/Grüne und Wieroszewsky (CDU): Nachpflanzung Bäume Haltestelle Rath Mitte - vertagt
+- TOP 12: Anfrage Grüne: Sperrmülldiebstahl - vertagt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: AnfrageKörner, Schentek: Umgang soziale Netzwerke - vertagt
+- TOP 16: Anfrage CDU u.A.: Linie 701 - Baubeginn - beantwortet
+- TOP 17: Anfrage CDU: Flüchtlingsunterkunft Borbecker Straße - beantwortet
+- TOP 18: Anfrage CDU: Hallenwartregelung - beantwortet
+- TOP 19: Anfrage: Rather Korso-Fertigstellung - beantwortet
+- TOP 20: Anfrage: Opernfundus Dülmener Weg - beantwortet
+- TOP 21: Anfrage: Zuständigkeit Gehwege/Bürgersteige - beantwortet
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Anfrage: Verkehrsübungsplatz Rather Broich - zurückgezogen
+- TOP 24: Anfrage: Ausnahmegenehmigungen Nachtflugverbot - zurückgezogen
+- TOP 25: Anfrage: aktueller Stand Bäderkonzept - beantwortet
+- TOP 26: Antrag: Vorstellung Bäder-Konzept - mehrheitlich beschlossen
+- TOP 27: Antrag: Grünfläche Unterrather Schwimmbad - vertagt
+- TOP 28: Antrag: bezirksbezogene Bauunterhaltungsmittel - einstimmig beschlossen
+- TOP 29: Antrag CDU: 2. Eingang Rückert-Gymnasium - einstimmig beschlossen
+- TOP 30: Antrag CDU: Bürgersteigabsenkungen - einstimmig beschlossen
+- TOP 31: Antrag: Standgenehmigung für Marktwagen - einstimmig beschlossen
+- TOP 32: Antrag: An der Piwipp/Kalkumer-/Ulmenstraße - einstimmig beschlossen
+- TOP 33: Antrag: Ampelschaltung HH-Stelle Elsässer Straße - einstimmig beschlossen
+- TOP 34: Antrag: Fahrradabstellplatz Kalkumer Straße/An der Piwipp - einstimmig beschlossen
+- TOP 35: Antrag: Informationen "Zur Klinke" - einstimmig beschlossen
+- TOP 36: Antrag: Markierung Gleisfläche Linie 701 - einstimmig beschlossen
+- TOP 37: Antrag SPD: Umbau Haltestelle Rath-Mitte, Buslinie - einstimmig beschlossen
+- TOP 38: Antrag: Wesentliche Gesichtspunkte Bauvorhaben - vertagt
+- TOP 39: Antrag: Sofort-Hilfe für Flüchtlinge - mehrheitlich abgelehnt
+- TOP 40: Stadtbezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 41: Bezirkssportanlage Franz-Rennefeld-Weg - einstimmig beschlossen
+- TOP 42: Öffentliche Beleuchtung in der "Rehstraße" - einstimmig beschlossen
+- TOP 43: Zuschussvergabe und Förderung Dritter 2015 - einstimmig beschlossen
+- TOP 44: Bauunterhaltungsmittel 2015 - einstimmig beschlossen
+- TOP 45: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 46: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung; Hier: Grundschule - einstimmig beschlossen
