@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-04-29T15:00:00+02:00
+- Ende: 2015-04-29T18:15:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2819
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2819
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 3: Zuwendungen 2014 - Kenntnisnahme
+- TOP 4: Bericht zur Umsetzung des HSP zum 15.04.2015 - Kenntnisnahme
+- TOP 5: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2014 - Einstimmiger Beschluss
+- TOP 6: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Einstimmiger Beschluss
+- TOP 7: Jahresabschluss 2014 - Einstimmiger Beschluss
+- TOP 8: 48. Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 9: Vertretung der Stadt in Organen - Einstimmiger Beschluss
+- TOP 9.1: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 10: Vertretung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 11: Erfahrungsbericht über die Sperrzeitverordnung für Schank- und Speisewirtschaften - Einstimmiger Beschluss
+- TOP 12: Öffentlich-rechtliche Vereinbarung - Einstimmiger Beschluss
+- TOP 13: Parkraumbewirtschaftung - Mit Stimmenmehrheit beschlossen
+- TOP 13.1: Parkraumbewirtschaftung - Ohne Abstimmung
+- TOP 13.2: Parkraumbewirtschaftung in den Innenstadtbereichen und den Bereichen außerhalb der Innenstädte - Ohne Abstimmung
+- TOP 13.3: Parkraumbewirtschaftung in den Innenstadtbereichen und den Bereichen außerhalb der Innenstädte - Mit Stimmenmehrheit abgelehnt
+- TOP 14: Inangriffnahme der Qualifizierung der Sportanlage Schlachthofstraße - Mit Stimmenmehrheit beschlossen
+- TOP 15: Inangriffnahme der Erneuerung der Sportanlage Radrennbahn - Mit Stimmenmehrheit beschlossen
+- TOP 16: HOME+ - Einstimmiger Beschluss
+- TOP 17: Verlängerung der Leistungsvereinbarungen - Einstimmiger Beschluss
+- TOP 18: Schiedsamtswahl West/2 - Einstimmiger Beschluss
+- TOP 19: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 20: Berufung eines weiteren sachkundigen Einwohners im Ausschuss für Soziales, Gesundheit und Senioren - Von Verwaltung zurückgezogen
+- TOP 21: BP 705/N Verbindung Krichelstraße/Abteistraße - Mit Stimmenmehrheit beschlossen
+- TOP 22: Festlegung der Innenstadt Rheydt als Soziale Stadt Gebiet gemäß § 171 e (3) BauGB - Einstimmiger Beschluss
+- TOP 23: Bebauungsplan Nr. 765/N - Stadtbezirk Nord - Alexander-Scharff-Straße, Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 24: Bebauungsplan Nr. 743/N - Stadtbezirk Nord - Gladbach - Einstimmiger Beschluss
+- TOP 25: Städtisches Schallschutzfensterprogramm - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 26: Veröffentlichung der Baumfällliste auf der Homepage der Stadt Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Ausgleich Entlohnungsunterschied Jobcenter - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Namensgebung Gebäude Blücherstraße 6 - Einstimmiger Beschluss
+- TOP 29: Umbesetzungen - Einstimmiger Beschluss
+- TOP 30: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 30.1: Bestellung in den ASGS - Einstimmiger Beschluss
+- TOP 31: Mitgliedschaft bei der NRW-Stiftung Naturschutz, Heimat- und Kulturpflege - Einstimmiger Beschluss
+- TOP 32: Anfragen und Mitteilungen
+- TOP 32.1: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen) zu einem Bericht über das Ratsinformationssystem
+- TOP 32.2: Anfrage von RH Gutowski (Die Praten-PARTEI) zur Verteilung einer Bewerberliste
+- TOP 32.3: Anfrage von RF Finger (FDP) zur Sanierung des Hauses Erholung
+- TOP 32.4: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Besteuerung
+- TOP 32.5: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zu einer Großkonzertveranstaltung in ehemaligen JHQ
+- TOP 32.6: Anfrage von RH Schultz (Die LINKE) zum Blickpunkt Stadt
+- TOP 32.7: Mitteilung von Oberbürgermeister Reiners zur Durchsuchung der Geschäftsräume bei der GWSG
+- TOP 32.8: Mitteilung von Oberbürgermeister Reiners zu Demonstrationen am 1. Mai 2015
