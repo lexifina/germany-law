@@ -1,0 +1,69 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-04-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3380073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3380073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.2.: Inklusion im Kindertageseinrichtungs- und Schulbereich: Umsetzung der UN-Behindertenrechtskonvention ? Sachstandsbericht und Konzeption Anhörung zu einem Beschlussentwurf für den Bildungsausschuss
+- TOP 1: Anträge (2)
+- TOP 1.1.: Markthändler: Öffentliche Toilette im Bereich des Elisabethmarktes
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Hohenzollernstr. 33, ?Skrupel?: Aufstellung einer Warenauslage, eines Kleider- und eines Kartenständers
+- TOP 2.1.2.: Hiltenspergerstr. 43, Imbiss ?Ital's Pizzeria?: Genehmigung einer Freischankfläche
+- TOP 2.1.3.: Hohenzollernstr. 50, ?Mohrmann?: Genehmigung einer Freischankfläche
+- TOP 2.1.4.: Hohenzollernstr. 50, ?Mohrmann?: Aufstellung eines Fahrradständers
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Anwohnerfest an der Schleißheimer Str. 105 am 06. und 07.06.2015
+- TOP 2.3.2.: Aktionen der Spiellandschaft Stadt: a) MobilSpiel-Eröffnungsfest am 19.04.2015 im Luitpoldpark b) Herbstfest vom 02. bis 04.10.2015 im Luitpoldpark c) ?Kicklusion? am 03.05.2015 auf der großen Wiese im Ackermannbogen
+- TOP 2.3.3.: Münchner Blade-Night 2015 ab 04.05.2015
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Tektur Ainmillerstr. 29: Um- und Ausbau der DG-Wohnungen: Reduzierung von 3 auf 2 Wohnungen, Errichtung zweier Dachterrassen, Erhöhung der Dachneigung von 40 auf 45 Grad für den Ausbau des Dachraums
+- TOP 2.1.2.: Herzogstr. 39: Nutzungsänderung Büro- zu Wohnfläche (1. bis 3. OG)
+- TOP 2.1.3.: Bauerstr. 28: Anbau von Balkonen an der östlichen Hoffassade
+- TOP 2.1.4.: Friedrichstr. 1: DG-Ausbau (2 WE), Einbau eines Personenlifts sowie Fassadengestaltung
+- TOP 2.1.5.: Fallmerayerstr. 26: DG-Umbau einer Wohnung mit Balkonanbau und Einbau einer Dachterrasse
+- TOP 2.1.6.: Centa-Herker-Bogen 38-54: Errichtung eines Sichtschutzzauns entlang der südlichen Grundstücksgrenze (für 9 Reihenhäuser)
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Irreführende Straßenmarkierung an der Kreuzung Ackermann-/Winzererstraße
+- TOP 1.2.: Bürger: Schulwegsicherheit an der Baustelle in der Elisabeth-Kohn-Straße
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Lerchenauer Str. 5 a: Fällung einer Tränenkiefer
+- TOP 2.1.2.: Rankestr. 3: Kronenschnitt an einer Eberesche
+- TOP 2.1.3.: Clemensstr. 60: Fällung einer Buche
+- TOP 2.1.4.: Bauerstr. 24: Kronenschnitt an zwei Eiben und einer Linde, Fällung einer Hainbuche
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Haltverbot an der Einmündung der Bregenzer in die Birnauer Straße: Ortstermin zur Notwendigkeit von baulichen Veränderungen?
+- TOP 2.2.2.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 3.1.: Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse Anhörung zu einem Antrag der Stadtratsfraktionen der SPD und der CSU
+- TOP 3.2.: Kinderbetreuungskosten während der BA-Tätigkeit ? Anderung der BA-Satzung Anhörung zu einem Antrag des BA 8 Schwanthalerhöhe
+- TOP 3.3.: Satzungsänderung zum Anhörungsrecht §13 Abs. 2 der BA-Satzung Anhörung zu einem Antrag des BA 13 Bogenhausen
+- TOP 3.1.: Großveranstaltungen im Olympiapark: Teilnahme des BA 4 an Vorbereitungstreffen und Begehungen
+- TOP 3.2.: Maßnahmen an der Kreuzung Schleißheimer Straße / Hohenzollernstraße
+- TOP 3.3.: Wiederanbringen des Verkehrszeichen 239 StVO am Helmut-Fischer-Platz
+- TOP 3.4.: Verlässliche Finanzierung der Nachbarschaftshilfe Ackermannbogen
+- TOP 3.5.: Einzelbeschluss zur Finanzierung des Nachbarschaftstreffs Georg-Birk-Straße
+- TOP 3.6.: Aufstellen eines Hundekottütenspenders mit Abfallbehälter vor dem Arbeitsgeicht (gegenüber Clemensstr. 128) und einer Sitzbank an der Ecke Clemens-/Winzererstraße
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Seniorenvertretung Schwabing-West Erstellung eines Senioren-Stadtteilplanes
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Veranstaltung "Kunst im Karrée" vom 10. - 12.07.2015
+- TOP 3: (E) Maßnahmen der MVG gegen massive Lärmbeeinträchtigung in Wohnungen durch die U-Bahn an der Haltestelle Petuelring Empfehlung Nr. 14-20 / E 00161 der Bürgerversammlung des Stadtbezirkes 04 ? Schwabing West am 09.10.2014
