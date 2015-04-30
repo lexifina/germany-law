@@ -1,0 +1,7 @@
+# TOP 20: Beteiligungen der Kommunen an der Grunderwerbsteuererhöhung
+
+- Sitzung: Finanzausschuss (2015-04-30)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/9519
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/22280
