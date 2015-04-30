@@ -1,0 +1,85 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-04-30T14:00:00+02:00
+- Ende: 2015-04-30T20:15:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10212
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10212
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238908.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238908.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00238908.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell FDP: Großbaustelle Heyestraße - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfrau Krüger: Tierversuche an der Heinrich-Heine-Universität Düsseldorf - beantwortet
+- TOP 4.2: Anfrage CDU: Konkrete Umsetzung der Sanierung der Wasserskulptur von Prof. Heinz Mack - beantwortet
+- TOP 4.3: Anfrage der CDU-Ratsfraktion: Förderschulauflösungen- Reaktionen und Auswirkungen - beantwortet
+- TOP 4.4: Anfrage des Ratsherrn Hartnigk: U 79 - Düsseldorf benachteiligt? - beantwortet
+- TOP 4.5: Anfrage DIE LINKE: Lärmschutzmaßnahmen im Tag- und Nachtschutzgebiet am Flughafen Düsseldorf - schriftlich beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Maniera: VRE-Keime im Florence-Nightigale-Krankenhaus - schriftlich beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Maniera: Situation der Wohnungslosen in Düsseldorf - schriftlich beantwortet
+- TOP 4.8: Anfrage Rh Grenda: Domain-Management innerhalb der Stadtverwaltung Düsseldorf - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Grenda: Städtisches Gebäudemanagement - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 7: Informationen zum vorläufigen Jahresabschluss 2014 - einstimmig beschlossen
+- TOP 8: Hildener Straße/ Am Buchholzer Busch (I 203070 9004) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 9: Klärwerk Süd, Sanierung und Optimierung der Schlammbehandlung (I 803060 7011) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: EA SPD, BÜ90/GRÜ und FDP: Waldschänke -Kommission Erhaltungssatzungen - mehrheitlich beschlossen
+- TOP 11: Gesamtstädtische Koordinierung von schulischen Hochbaumaßnahmen - zur Kenntnis genommen
+- TOP 12: Umsetzung Maßnahmen der 3. Integrierten Jugendhilfe- und Schulentwicklungsplanung; Hier: Grundschule - mehrheitlich beschlossen
+- TOP 12.1: ÄA Rh Grenda: - mehrheitlich beschlossen
+- TOP 13: Realisierung von städtischen Schul- und sonstigen Hochbaumaßnahmen durch die IPM - einstimmig beschlossen
+- TOP 13.1: ÄA CDU:Realisierung von städtischen Schul- und sonstigen Hochbaumaßnahmen durch die IPM - mehrheitlich abgelehnt
+- TOP 14: Aufsichtsrat der IPM immoblien Projekt Management Düsseldorf GmbH - Neuwahl - mehrheitlich beschlossen
+- TOP 15: Bäderkonzept 2020 - mehrheitlich beschlossen
+- TOP 15.1: ÄA Die Linke: Bäderkonzept 2020 - zurückgezogen
+- TOP 15.2: EA CDU: Bäderkonzept 2020 - mehrheitlich abgelehnt
+- TOP 16: Kinder- und Jugendförderplan - Planungszeitraum 2015 bis 2020 - zur Kenntnis genommen
+- TOP 16.1: Kinder- und Jugendförderplan - Planungszeitraum 2015 bis 2020 - einstimmig beschlossen
+- TOP 17: Denkmalbericht für die Jahre 2013 und 2014 - zur Kenntnis genommen
+- TOP 18: Sachstandbericht zu Maßnahmen und Kooperationen gegen Rechtsextremismus und rechte Gewalt - zur Kenntnis genommen
+- TOP 19: Freigabe eines verkaufsoffenen Sonntagnachmittages am Sonntag, dem 27.09.2015 - mehrheitlich beschlossen
+- TOP 20: Änderung der Geschäftsordnung - mehrheitlich beschlossen
+- TOP 21: 57. Satzung zur Änderung der Hauptsatzung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 22: Wiederwahl des Schiedsmannes Wolfgang Mingers - einstimmig beschlossen
+- TOP 23: Wiederwahl des Schiedsmannes Norbert Wolff - einstimmig beschlossen
+- TOP 24: Aufsichtsrat der Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbh - Ersatzwahl - einstimmig beschlossen
+- TOP 25: Nachwahl zum Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 26: Mitgliederversammlung des Vereins der Gemeinnützigen Stiftung Seniorenbetreuung Angermund - einstimmig beschlossen
+- TOP 27: Vorschlag von Vertreter/innen für den örtlichen Beirat der gemeinsamen Einrichtung (Jobcenter) - vertagt
+- TOP 28: Besetzung der Gremien durch den Jugendrat (Neu) - einstimmig beschlossen
+- TOP 29: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in Ratsausschüsse - zurückgezogen
+- TOP 30: Veranstaltergemeinschaft Lokaler Rundfunk e.V. - Wahl zweier Mitglieder - - einstimmig beschlossen
+- TOP 31: Aufsichtrat Stadtwerke Düsseldorf AG - Ersatzwahl - einstimmig beschlossen
+- TOP 32: Kuratorium der ZERO-Foundation - Ersatzwahl - einstimmig beschlossen
+- TOP 33: Umbesetzung vo Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 34: Genehmigung 60er: Anmietung von 4 Wohnmodulanlagen durch die IDR zur Unterbringung asylsuchender Per - einstimmig beschlossen
+- TOP 35: FNP-Ä 162 -Hansaallee/ Böhlerstr.-, Stellungnahmen, Planbeschluss - einstimmig beschlossen
+- TOP 36: Plan Nr. 5174/017 - beiderseits Hinter der Böck - einstimmig beschlossen
+- TOP 37: FNP-Änderung Nr. 165 - Münsterstraße / Nordstraße - einstimmig beschlossen
+- TOP 38: B-Plan 01/001 Münsterstraße / Nordstraße Satzungsbeschluss - einstimmig beschlossen
+- TOP 39: EA EA Ampel zu Linke Wohnungslose Konzept Lenkungsgruppe obdachlos Hilfe Unterbringung Unterkunft - einstimmig beschlossen
+- TOP 40: Anträge
+- TOP 40.1: Antrag Die Linke: Steuervermeidung zu Lasten Düsseldorfs - mehrheitlich abgelehnt
+- TOP 40.2: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Städtische Liegenschaften - mehrheitlich beschlossen
+- TOP 40.3: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Albrecht-Dürer-Berufskolleg: - einstimmig beschlossen
+- TOP 40.3.1: Antrag der CDU-Ratsfraktion: Planungssicherheit für Albrecht-Dürer-Berufskolleg - mehrheitlich abgelehnt
+- TOP 40.4: Antrag der CDU-Ratsfraktion: Ausgewogene Verteilung der Flüchtlingsunterkünfte - vertagt
+- TOP 40.5: Antrag der Ratsfraktion Die Linke: Langfristige Speicherung der Aufzeichnung von Ratssitzungen
+- TOP 40.6: Antrag der CDU-Ratsfraktion: U 79 - Anpassung der Förderquote
+- TOP 40.7: Antrag der CDU- Ratsfraktion: Die Altstadtwache muss erhalten bleiben
+- TOP 40.8: Antrag von FDP, SPD und BÜ90/GRÜ: Einführung einer sogenannten Melde-App
+- TOP 40.9: Antrag FDP, SPD und BÜ90/GRÜ: Herzlich willkommen in Düsseldorf - A warm welcome to Düsseldorf
+- TOP 40.10: Antrag SPD, BÜ90/GRÜ und FDP: Novellierung der Richtzahlen für den Stellplatz- und Fahrradabst.
+- TOP 40.11: Antrag von SPD, BÜ90/GRÜ und FDP: Europäische Charta für die Gleichstellung von Frauen und Männern
