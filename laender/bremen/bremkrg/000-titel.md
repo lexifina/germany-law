@@ -1,1 +1,1 @@
-# Gesetz über das Krebsregister der Freien Hansestadt Bremen (BremKRG) vom 23. September 1997
+# Gesetz über das Krebsregister der Freien Hansestadt Bremen (Krebsregistergesetz - BremKRG) vom 24. Februar 2015
