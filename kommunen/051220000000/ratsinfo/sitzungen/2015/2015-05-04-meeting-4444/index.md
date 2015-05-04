@@ -1,0 +1,58 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-05-04T17:00:00+02:00
+- Ende: 2015-05-04T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWHYW8wjecnXfh7eGHzfp5M
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4444
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWyOEyCP3ILIz2STy-Ex2teAIGhXGB9xlP90h7iwJFSU/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_04.05.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Standardabsenkung bei Hoch- und Tiefbaumaßnahmen
+- TOP 4: Verbesserung des Busliniennetzes
+- TOP 5: Zwischenbericht über die Umsetzung des Programms City 2013
+- TOP 6: Kostenloses W-LAN
+- TOP 7: Förderung umweltfreundlicher Mobilität
+- TOP 8: Handlungskonzept Elektromobilität in Solingen
+- TOP 9: Sachstandsbericht: Umsetzung integriertes Klimaschutzkonzept
+- TOP 10: Soziale Stadt Nordstadt
+- TOP 11: Soziale Stadt Nordstadt
+- TOP 12: Umsetzung des ESF-Programms „Bildung, Wirtschaft, Arbeit im Quartier" (BIWAQ)
+- TOP 13: Stellungnahme zum kommunalen Einzelhandels- und Zentrenkonzept der Stadt Wuppertal
+- TOP 14: Abrechnungssatzung für die Fußgängerzone Alter Markt/Ohliger Tor/Kirchgasse/Küstergasse/Linkgasse in dem Bereich bis zur Abzweigung Eiland
+- TOP 15: Service Center der Deutschen Bahn AG im Solinger Hauptbahnhof
+- TOP 16: Fahrbahndeckenprogramm 2015
+- TOP 17: Verkehrskonzept Hackhauser Straße
+- TOP 18: Verkehrskonzept Hackhauser Straße
+- TOP 19: Aufgabe der Parkraumbewirtschaftung Weyersberg/Kotter Straße inklusive Bewohnerparken
+- TOP 20: Parkraumneuordnung und Bewirtschaftung Weyersberg / Kotter Straße
+- TOP 21: Online-Beteiligung zu gewerblichen Bauflächen
+- TOP 22: Bauleitplanung Goudastraße
+- TOP 23: Bauleitplanung Beethovenstraße/ Dingshauser Straße
+- TOP 24: Bauleitplanung Frankenstraße
+- TOP 25: Bauleitplanung Carl-Ruß-Straße
+- TOP 26: Verkehrsführung Dickenbusch
+- TOP 27: Teilnahme am Anti-Graffiti-Programm des VRR
+- TOP 28: Verschiedenes
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Brückensanierung Brühler Straße / Sanierung Odentaler Weg / Fahrbahnsanierung Weyersberger Straße
+- TOP 31: Parkhaus Hofgarten
+- TOP 32: Gewerbeflächenprognoseberechnung
+- TOP 33: ÖPNV-Fahrgastbeirat
+- TOP 34: Mögliche Maßnahmen zur Senkung von Ausbaustandards im Hochbau
+- TOP 35: Online-Beteiligung zu gewerblichen Bauflächen
+- TOP 36: Modernisierungsoffensive (MOF) 2 NRW
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Verkauf einer städtischen Liegenschaft
+- TOP 4: Bauleitplanung Carl-Ruß-Straße
+- TOP 5: Verschiedenes
