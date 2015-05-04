@@ -1,0 +1,91 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2015-05-04T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3460319
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3460319
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: Räumlichkeiten zur Errichtung eines KinderTagesZentrums (KiTZ)
+- TOP 1.2.: Einrichtung eines Bewohner- oder Seniorentreffs im Anwesen Brudermühlstr. 34
+- TOP 1.3.: Jugendgang am Edeka-Markt Kidlerplatz
+- TOP 1.4.: Umzäunung der Grünfläche an der Plinganserstraße / Fallstraße zur Nutzung als Kinderspielfläche
+- TOP 1.5.: Umsetzung der Altglascontainer im Bereich der Bahn-Unterführung Margaretenstraße
+- TOP 1.6.: Lagerung von Wochenzeitungen auf Gehwegen
+- TOP 1.7.: Nachpflanzung von Bäumen auf öffentl. Grund in der Implerstraße 35
+- TOP 1.8.: Projektaufruf - Initialkapital für chancengerechte Stadtteilentwicklung
+- TOP 1.9.: Bebauung MK6-Gelände
+- TOP 1.10.: Zuschussantrag für den Sendlinger Dokumentarfilm
+- TOP 1.11.: Verkehrsführung Luise-Kiesselbach-Tunnel
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Sofortprogramm für Flüchtlinge; Meindlstraße Flurstück 9423/0
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Unterbringung von psychisch kranken wohnungslosen Frauen und Männern im städtischen Sofortunterbringungssystem im Notquartier Implerstraße
+- TOP 4.2.: Clearinghaus Plinganserstraße 27 - 31; Durchwegung
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich; Umsetzung der UN-Behindertenrechtskonvention
+- TOP 5.2.: Schulaufsichtlicher Genehmigungsbescheid für die Montessorischule an der Reutbergerstr. 10
+- TOP 6.1.: Dauerhafte Verlängerung der Betriebszeit von Freischankflächen und straßenseitigen Wirtschaftsgärten
+- TOP 7.1.: Fahrradabstellfläche Brudermühlstr. 18
+- TOP 7.2.: Vergabeverfahren bei konkurrierenden Marktveranstaltungen; Christkindlmarkt Am Harras 2015
+- TOP 7.3.: Leistungsprogramm der MVG 2016
+- TOP 7.4.: Stellungnahme der MVG zur Nord-Süd-Querung der Altstadt für den Radverkehr
+- TOP 7.5.: Verkehrssituation und verkehrliche Maßnahmen für den Münchner Südwesten
+- TOP 7.6.: Lichtsignalanlage Isartal- / Lagerhausstr.
+- TOP 7.7.: Luise-Kiesselbach-Platz; Beschilderung von der Garmischer Autobahn ins Zentrum
+- TOP 7.8.: Versammlung Brudermühlstr. / Candidstr. am 20.04.2015
+- TOP 7.9.: Blade-Night 2015
+- TOP 7.10.: Marionettentheater Sendlinger Kirchplatz am 13.06.2015
+- TOP 7.11.: Kulturstrand 2015; Isarwerk 3 und Freiflächen (neben Braunauer Eisenbahnbrücke)
+- TOP 7.12.: Stromprojekt Heißstraße
+- TOP 8.1.: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen
+- TOP 8.2.: Kinderbetreuungskosten während der BA-Tätigkeit
+- TOP 8.3.: Satzungsänderung zum Anhörungsrecht
+- TOP 8.4.: Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 8.5.: Einrichtung eines WLAN-Hotspots in den Büros der BA-Vorsitzenden und in den Sitzungsräumen der BA-Geschäftsstelle
+- TOP 8.6.: Budgetantrag "Sendlinger Bunkerwelten"; ? 1800,-
+- TOP 8.7.: Tätigkeitsbericht des Datenschutzbeauftragten / Fall der persönlichen Beteiligung
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Plinganserstr. 28
+- TOP 9.3.: Bauvorhaben Implerstr. 21
+- TOP 9.4.: Bauvorhaben Albert-Roßhaupter-Str. 4
+- TOP 9.5.: Bauvorhaben Lenggrieser Str. 5
+- TOP 9.6.: Werkstattlärm im Umfeld der Brudermühlstr. 9
+- TOP 9.7.: Bauvorhaben Plinganserstr. 18b, Wettannahmestelle
+- TOP 9.8.: Regionale Wohnungsbaukonferenz am 18.03.2015
+- TOP 9.9.: Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen
+- TOP 9.10.: Beschlussvollzugskontrolle
+- TOP 9.11.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen
+- TOP 9.12.: Urbane Gemeinschaftsgärten in München
+- TOP 9.13.: Gartenstädte
+- TOP 9.14.: Studie "Älter werden in München" - Abschlussbericht
+- TOP 9.15.: Neuer Bebauungsplan für das Gründstück MK6 in Sendling am Herzog-Ernst-Platz - <div>Kenntnisahme</div>
+- TOP 10: Baureferat
+- TOP 10.1.: Skateranlage am Neuhofener Berg - 2. Nutzerbeteiligungsveranstaltung am 07.05.2015
+- TOP 10.2.: Straßenausbaubeitragssatzung - Beitragserlass für bereits abgeschlossene Maßnahmen
+- TOP 10.3.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Karwendelstr. 38 - 40
+- TOP 11.2.: Fällung eines Gefahrenbaums in den Isarauen
+- TOP 11.3.: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte
+- TOP 12: Anträge
+- TOP 12.1.: Neue Verkehrsführung am Sendlinger Berg und in der Plinganser- / Pfeuferstraße
+- TOP 14: Verschiedenes
+- TOP 14.1.: Schlussbericht Oktoberfest 2014
+- TOP 14.2.: Antrag "Kein Verkauf des Hochbunkers bzw. Realisierung bezahlbaren Wohnraums" - Fristverlängerung
+- TOP 1: (E) Errichtung eines Taubenhauses am Implerplatz Empfehlung Nr. 14-20 / E 00265 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 18.11.2014
+- TOP 2: (E) Abschaffung des Zwanges zum gebundenen Ganztagsunterricht an der Städt. Maria-Probst-Realschule
+- TOP 3: (E) Mobile Einstiegstreppe im Südbad Empfehlung Nr. 14-20 / E 00266 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 18.11.2014 - <div>abweichender BA-Beschluss - Entscheidung Oberbürgermeister</div>
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
