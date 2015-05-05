@@ -1,0 +1,7 @@
+# TOP 4.5: Anmeldungen Grundschulen, Oberschulen, Umsteiger/innen
+
+- Sitzung: 33. öffentliche Sitzung des Ausschusses für Schule (2015-05-05)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=37811
+- Ergebnis: erledigt
