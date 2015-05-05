@@ -1,0 +1,71 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539500
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539500
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Wiederherstellung der Radwegmarkierung Ludwig-Richter-Straße / Elsenheimerstraße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben MVG vom 27.03.15: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2016)
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 07.04.15: Mobilfunk; Suchkreismeldung im Suchkreis M-Friedenheim-Ost mit der Suchkreis-Nr.: MY 5239485430, Planung eines neuen Mobilfunkstandorts
+- TOP 4.3.: Schreiben Baureferat vom 09.04.15: Erinnerungsverfahren Fürstenrieder Straße zwischen Landsberger Straße und Ammerseestraße; Radwegsanierung
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 16.04.15: Installation eines Lärmmessgerätes an der A 96 zwischen Garmischer Straße und Fürstenrieder Straße nach Eröffnung des Tunnels SW ein Messgerät zur permanenten Messung der Schadstoffe am Tunnelaus- / eingang; Anhörung zu einer Beschlussvorlage für den Umweltausschuss
+- TOP 4.5.: Schreiben Referat für Bildung und Sport vom 17.04.15: Inklusion im Kindertageseinrichtungs- und Schulbereich, Umsetzung der UN-Behindertenrechtskonvention, Sachstandsbericht und Konzeption; Anhörung zu einer Beschlussvorlage für den Bildungsausschuss
+- TOP 4.6.: Schreiben MVG vom 20.04.15: MVG Rad, Standorte BA 25 - hier: Prüfstandorte S-Bahnhof Laim und Laimer Platz (Buswendeschleife)
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 21.04.15: Festumzug Laimer Platz zum Laimer Anger am 28.06.15
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 22.04.15: Schrobenhausener Str. 1, Sommerfest am 12.07.15
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Schedelstr. 2: Ausbau des zweiten Dachgeschosses zu zwei Wohneinheiten; hier: Baumbestandsplan
+- TOP 5.2.: Lanzstr. 18b-20a: Neubau eines Mehrfamilienhauses (12 WE) mit Tiefgarage; hier: Baumbestands- und Freiflächengestaltungsplan
+- TOP 5.3.: Elsenheimerstr. 61-63: Änderung des Freiflächengestaltungsplans, Neustrukturierung der oberirdischen Stellplätze, Errichtung von 92 Fahrradabstellplätzen, Neugestaltung der Zugangs- und Platzsituation
+- TOP 5.4.: Agnes-Bernauer-Str. 16-24: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 5.5.: Agricolastraße: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 23.02.15: Umstellung der Software für die Bezirksausschuss-Homepage
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Bildung und Sozialplanung vom 16.03.15
+- TOP 7.2.: Bericht UA Bildung und Sozialplanung vom 19.03.15
+- TOP 7.3.: Sitzung UA Kultur vom 24.03.15
+- TOP 7.4.: BA-Sitzung vom 14.04.15
+- TOP 7.5.: Sitzung UA Kultur vom 20.04.15
+- TOP 7.6.: BA-Sondersitzung vom 21.04.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kommunalreferat vom 17.03.15: Flohmarktbetrieb Zschokke- / Westendstraße, Anfrage aus der Sitzung des Bezirksausschusses 25 Laim vom 13.01.15 (Schreiben BA vom 26.01.15)
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.03.15: Liste der Anträge auf Abgeschlossenheitsbescheinigungen vom 16.03.-31.03.15
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.04.15: Gotthardstr. 52; Ausbau zweier Dachgeschosse zu 4 WE, Errichtung von 4 Balkonanlagen (Riegerhofstr. 31 + 33), Ausbau dreier Dachgeschosse zu 5 WE, Errichtung von 6 Balkonanlagen (Gotthardstr. 52 - 56)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.04.15: Inderstorferstr. 27 - 33b; Fällungsantrag vom 07.04.15
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.04.15: Bericht zur Voruntersuchung A 96
+- TOP 8.6.: Schreiben Gleichstellungsstelle für Frauen vom 09.04.15: Einladung zur Sitzung am 23.04.15; Protokoll der Sitzung vom 05.02.15
+- TOP 8.7.: Schreiben Stadtwerke München GmbH vom 13.04.15: Baumaßnahmen der SWM, Fernwärmeprojekt Landsberger Straße
+- TOP 8.8.: Schreiben Stadtwerke München GmbH vom 14.04.15: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2015 für den BA
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 14.04.15: Gaststätten "Hollywood" und "Las Vegas", Landsberger Str. 214; Antrag auf Neuerrichtung
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 14.04.15: Schulweghelferin an der Kreuzung Gotthardstraße / Riegerhofstraße (Antrag Nr. 14-20 / B 00541 vom 04.11.14 bzw. Schreiben vom 10.03.15)
+- TOP 8.11.: Schreiben Kreisverwaltungsreferat vom 16.04.15: Lebensmittelmarkt "Domovino", Joergstr. 88; Videoüberwachung (Schreiben BA vom 10.03.15)
+- TOP 8.12.: Schreiben Kreisverwaltungsreferat vom 20.04.15: Kleingaststätte "Burgkmair-Stüberl", Burgkmairstr. 60; unveränderte Fortführung
+- TOP 8.13.: Schreiben Referat für Bildung und Sport vom 10.04.15: Situation an der Grund- und Mittelschule an der Schrobenhausener Straße umgehend verbessern (Stadtratsantrag Nr. 08-14 / A 03055 vom 24.01.12)
+- TOP 8.14.: Schreiben Baureferat vom 21.04.15: Spielplatz Burgerplatz; Umbau ab 27.04.15
+- TOP 8.15.: Bautenliste vom 23.03.-29.03.15 1. Erstantragsverfahren a) Landsberger Str. 217 b) Mathunistr. 29 c) Agnes-Bernauer-Str. 16 d) Von-der-Pfordten-Str. 23 e) Ludwig-Richter-Str. 34
+- TOP 8.16.: Bautenliste vom 30.03.-05.04.15 1. Erstantragsverfahren a) Rechpacherstr. 21 b) Seehoferstr. 10 c) Elsenheimerstr. 61 d) Junkerstr. 28
+- TOP 8.17.: Bautenliste vom 06.04.-12.04.15 1. Erstantragsverfahren a) Senftenauerstr. 122 b) Lautensackstr. 2a 2. Änderungsverfahren a) Flantinstr. 10 b) Geßlerstr. 19
+- TOP 8.18.: Bautenliste vom 13.04.-19.04.15 1. Erstantragsverfahren a) Landsberger Str. 185 b) Ilmmünsterstr. 29 2. Änderungsverfahren a) Landsberger Str. 380 b) Flantinstr. 10 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Camerloherstr. 76 b) Gotthardstr. 53
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 20.04.15: Baumaßnahmen der Stadtwerke; Stichtag: 20.04.15
+- TOP 8.20.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.15: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün (Sitzungsvorlage Nr. 14-20 / V 02645)
+- TOP 8.21.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.15: Straßenausbaubeitragssatzung; Beitragserlass für bereits abgeschlossene Maßnahmen (Sitzungsvorlage Nr. 14-20 / V 02686)
+- TOP 8.22.: Beschluss des Kreisverwaltungsausschusses vom 28.04.15: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten (Sitzungsvorlage Nr. 14-20 / V 02910)
+- TOP 8.23.: Schreiben GEWOFAG vom 02.04.15: Forderungen zur Neuplanung des Grundstücks an der Siglstraße / Brantstraße mit Wohnungen und Kinderbetreuungseinrichtungen (Antrag Nr. 08-14 / B 05770 vom 11.02.14 bzw. Schreiben vom 26.02.15)
+- TOP 8.24.: Schreiben Bürger-Initiative BAB 96 München vom 14.04.15: Entwurf Lastenheft Machbarkeitsstudie A 96
+- TOP 8.25.: Schreiben Münchner Forum / Arbeitskreis Attraktiver Nahverkehr (AAN) vom 16.04.15: Stellungnahme des AAN zum Leistungsprogramm 2016 der MVG
+- TOP 1: (E) Filiale der Stadtsparkasse in der Friedenheimer Straße; Behindertengerechter Umbau des Bankautomaten Empfehlung Nr. 14-20 / E 00312 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 25.11.2014 - <div>Abweichung von Referentenvorl.</div>
+- TOP 1.2: Bürgerpost an den BA
