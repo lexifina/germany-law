@@ -14,4 +14,3 @@ Inhaltsübersicht
 § 11 | Überprüfung der institutionellen Leistungen
 § 12 | Ermächtigung zum Erlass von Rechtsverordnungen
 § 13 | Übergangsregelungen
-§ 14 | Außer-Kraft-Treten
