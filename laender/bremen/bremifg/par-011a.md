@@ -1,0 +1,2 @@
+# § 11a Nutzung
+Die Nutzung der allgemein zugänglichen Informationen ist frei, sofern höher-rangiges Recht oder spezialgesetzliche Regelungen nichts anderes bestimmen. Das gilt auch für im behördlichen Auftrag erstellte Gutachten, Studien und andere Dokumente, die in die Entscheidungen der Behörden einfließen oder ihrer Vorbereitung dienen. Nutzungsrechte sind bei der Beschaffung von Informationen abzubedingen, soweit sie einer freien Nutzung entgegenstehen können.
