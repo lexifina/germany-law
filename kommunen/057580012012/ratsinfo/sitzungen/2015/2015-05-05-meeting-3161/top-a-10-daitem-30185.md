@@ -1,0 +1,6 @@
+# TOP A.10: Bericht der entsendungsberechtigten Mitglieder aus den Ausschüssen und den Arbeitsgruppen des Seniorenbeirates
+
+- Sitzung: Seniorenbeirat (4. Sitzung) (2015-05-05)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/30185
