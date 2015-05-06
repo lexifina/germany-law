@@ -1,0 +1,68 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-05-06T18:27:00+02:00
+- Ende: 2015-05-06T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9747
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9747
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00370903.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Verkehrsberuhigungskonzept im Bereich zwischen der Warendorfer Straße - Hohenzollernring - Wolbecker Straße und Friedrichstraße - verwiesen
+- TOP 6.2: Beratung der Vorlage V/0088/2015 "Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020" in der Bezirksvertretung Münster-Südost
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster - mehrheitlich geändert beschlossen
+- TOP 11: Feststellung des Jahresabschlusses 2013 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Grenzüberschreitenden Zweckverband EUREGIO -Beschlussfassung zur Satzung - einstimmig geändert beschlossen
+- TOP 13: Regelungen des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2015 - einstimmig beschlossen
+- TOP 14: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen in verschiedenen Stadtbezirken in Münster für das Kalenderjahr 2015 - mehrheitlich beschlossen
+- TOP 15: Straßen-, Anlagen- und Aaseeordnung - mehrheitlich geändert beschlossen
+- TOP 16: Perspektiven für den Haushaltsplan 2016 - Finanzeckwerte - zur Kenntnis genommen
+- TOP 17: Anpassung der VGM-Fahrpreise im Stadtgebiet Münster zum 01.08.2015 - mehrheitlich beschlossen
+- TOP 18: Modifizierung der "Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Vermögensbildung" - einstimmig beschlossen
+- TOP 19: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - von der Tagesordnung abgesetzt
+- TOP 20: Statusbericht zum Landesprogramm KAoA - Kein Abschluss ohne Anschluss - zur Kenntnis genommen
+- TOP 21: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2013/2014 - einstimmig beschlossen
+- TOP 22: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - einstimmig beschlossen
+- TOP 22.1: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017
+- TOP 23: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und förderschulen und offenen G - einstimmig beschlossen
+- TOP 24: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung als Dependance mit betrieblichen Plätzen des evangelischen Kindergartens Hiltrup - mehrheitlich beschlossen
+- TOP 25: Anregung gem. § 24 GO NRW, Nr.: 2014-00062 "Verantwortungsvolle Regulierung von Cannabis auf kommunaler Ebene" - von der Tagesordnung abgesetzt
+- TOP 26: Maßnahmen aufgrund steigender Flüchtlingszahlen, Übergangslösung in Pavillonbauweise, Erweiterung der Einrichtung Warendorfer Straße, Anpassen der Personalsituation und Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung - mehrheitlich beschlossen
+- TOP 26.1: Maßnahmen aufgrund steigender Flüchtlingszahlen, Übergangslösung in Pavillonbauweise, Erweiterung der Einrichtung Warendorfer Straße, Anpassen der Personalsituation und Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung
+- TOP 27: European Energy Award 2015 - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-West
+- TOP 28.1.1: Bebauungsplan Nr. 575 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 28.2: Stadtbezirk Münster-Hiltrup
+- TOP 28.2.1: Vorhabenbezogener Bebauungsplan Nr. 543: Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 28.2.2: Bebauungsplan Nr. 510: 1. Beschluss zur Aufstellung - 2. Kenntnisnahme des Entwurfs zur Offenlegung - mehrheitlich beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29.1: Das Münsterland darf nicht abgehängt werden:Bahnstrecke Münster - Lünen muss zweigleisig ausgebaut werden
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 30.1: Solide wirtschaften - sicher finanzieren - verwiesen
+- TOP 30.2: Kein Geld für Atomstrom - Klage gegen britische Subventionen für Hinkley Point C unterstützen! - verwiesen
+- TOP 30.3: Kein Fracking auf Kosten der Kommunen, des Naturschut¬zes und der Energiewende Teilnahme an der Aktion "Frackingfreie Kommune" - verwiesen
+- TOP 30.4: Bahnhaltepunkte wieder öffnen und neue schaffen: ÖPNV stärken - ökologische Mobilität ausbauen! - verwiesen
+- TOP 30.5: Ein Onlineportal für Kinder und Jugendliche - verwiesen
+- TOP 30.6: Ist doch Ehrensache-Besondere Leistungen anerkennen, Ehrenamtspass einführen - verwiesen
+- TOP 30.7: Kerngeschäft der Wohn- und Stadtbau GmbH stärken - verwiesen
+- TOP 30.8: Mehr Zeit für die Bürger, den Gremienwald des Rathauses lichten - verwiesen
+- TOP 30.9: Speicher für den Sonnenstrom - verwiesen
+- TOP 31: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Entsendung von sachkundigen Einwohnern/innen in die Ausschüsse des Rates - einstimmig beschlossen
+- TOP 33: Verschiedenes
