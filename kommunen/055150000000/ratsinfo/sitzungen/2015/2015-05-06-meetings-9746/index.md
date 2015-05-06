@@ -1,0 +1,55 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-05-06T17:19:00+02:00
+- Ende: 2015-05-06T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9746
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9746
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00370902.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0020/2015 "Transparente Regeln für die Raumvergabe" - einstimmig beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion an den Rat Nr. A-R/0014/2015" (Wohn-) Mobil in der Stadt - mehr Stellplätze für Wohnwagen und Wohnmobile schaffen" - einstimmig geändert beschlossen
+- TOP 2.3: Antrag A-R/0001/2015 der Fraktion ÖDP/Piraten vom 19.01.2015 "Partizipation von Jugendlichen stärken" - das Stadtteilhaus "Wuddi" in der Selbstverwaltung von Jugendlichen - von der Tagesordnung abgesetzt
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2015) - einstimmig beschlossen
+- TOP 4: Jahresabschluss 2014 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 5: Schulden- und Liquiditätsbericht 2014 - zur Kenntnis genommen
+- TOP 6: Zuschuss zum Bundeskongress des Verbandes deutscher Musikschulen - zur Kenntnis genommen
+- TOP 7: Verfahren "Integrierte Jugendhilfe- und Schulentwicklungsplanung" - einstimmig geändert beschlossen
+- TOP 8: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2015 - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster - ohne Beschlussfassung geschoben
+- TOP 10: Feststellung des Jahresabschlusses 2013 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Grenzüberschreitenden Zweckverband EUREGIO -Beschlussfassung zur Satzung - einstimmig geändert beschlossen
+- TOP 12: Regelungen des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2015 - einstimmig beschlossen
+- TOP 13: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen in verschiedenen Stadtbezirken in Münster für das Kalenderjahr 2015 - ohne Beschlussfassung geschoben
+- TOP 14: Straßen-, Anlagen- und Aaseeordnung - ohne Beschlussfassung geschoben
+- TOP 15: Perspektiven für den Haushaltsplan 2016 - Finanzeckwerte - ohne Beschlussfassung geschoben
+- TOP 16: Modifizierung der "Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Vermögensbildung" - einstimmig beschlossen
+- TOP 17: Anpassung der VGM-Fahrpreise im Stadtgebiet Münster zum 01.08.2015 - einstimmig beschlossen
+- TOP 18: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - von der Tagesordnung abgesetzt
+- TOP 19: Statusbericht zum Landesprogramm KAoA - Kein Abschluss ohne Anschluss - zur Kenntnis genommen
+- TOP 20: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2013/2014 - einstimmig beschlossen
+- TOP 21: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - einstimmig beschlossen
+- TOP 21.1: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017
+- TOP 22: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und förderschulen und offenen G - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung als Dependance mit betrieblichen Plätzen des evangelischen Kindergartens Hiltrup - einstimmig beschlossen
+- TOP 24: Anregung gem. § 24 GO NRW, Nr.: 2014-00062 "Verantwortungsvolle Regulierung von Cannabis auf kommunaler Ebene" - von der Tagesordnung abgesetzt
+- TOP 25: Maßnahmen aufgrund steigender Flüchtlingszahlen, Übergangslösung in Pavillonbauweise, Erweiterung der Einrichtung Warendorfer Straße, Anpassen der Personalsituation und Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung - ohne Beschlussfassung geschoben
+- TOP 25.1: Maßnahmen aufgrund steigender Flüchtlingszahlen, Übergangslösung in Pavillonbauweise, Erweiterung der Einrichtung Warendorfer Straße, Anpassen der Personalsituation und Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung
+- TOP 26: European Energy Award 2015 - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk West
+- TOP 27.1.1: Bebauungsplan Nr. 575 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 27.2: Stadtbezirk Hiltrup
+- TOP 27.2.1: Vorhabenbezogener Bebauungsplan Nr. 543: Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 27.2.2: Bebauungsplan Nr. 510: 1. Beschluss zur Aufstellung - 2. Kenntnisnahme des Entwurfs zur Offenlegung - mehrheitlich beschlossen
+- TOP 28: Verschiedenes
