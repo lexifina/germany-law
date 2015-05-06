@@ -1,0 +1,82 @@
+# Feierstunde anlässlich des 25. Jahrestages der ersten freien Kommunalwahlen in der DDR am 6. Mai 1990 31. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-05-06T17:30:00+02:00
+- Ende: 2015-05-06T21:05:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4582
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4582
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=116&id=67377
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 9 - die Grenze des Schiedsamtsbezirks verläuft entlang der S - Bahn -Trasse, der Straßenzüge Greifswalder Straße, Danziger Straße, Landsberger Allee und der Bezirksgrenzen zu den Bezirken Friedrichshain-Kreuzberg und Lichtenberg - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 5 - die Grenze verläuft entlang der Bezirksgrenze zu Mitte, der Straßenzüge Schönhauser Allee, Danziger Straße, Prenzlauer Allee, Wisbyer Straße, Berliner Allee und Esplanade - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 10 - der Schiedsamtsbezirk umfasst den Ortsteil Weißensee - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Weiteres Verfahren zur sog. "B2-Anbindung" in Karow anhalten - in der BVV abgelehnt
+- TOP 1.12: Leitlinien für die Bürger_innenbeteiligung, Information und Konsultation - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Unterbringungspotentiale für Menschen in Wohnungsnot - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Personalnotstand in der Stadtbibliothek Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Maßnahmen für den "Paracelsusplatz" in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: E-Learning an der Volkshochschule Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Keine Unterschrift unter Absichtserklärung zur Bebauung der Elisabethaue - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Erhöhung der Verkehrssicherheit in der Friedrich-Engels-Straße im Ortsteil Niederschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fahrplan der Tram M10 einhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Vertraulicher Umgang mit Gesundheitsdaten - überwiesen
+- TOP 1.21: Sichere Straßenquerung der Darßer Straße auch für behinderte Menschen - überwiesen
+- TOP 1.22: Betreuung ehrenamtliches Engagement für Geflüchtete - überwiesen
+- TOP 1.23: Hinweis auf Pankower Register in den öffentlichen Gebäuden in Pankow! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Keine weitere Entmündigung der Bezirke bei der Aufstellung von B-Plänen - zurückgezogen
+- TOP 1.25: Beurteilung der Steuerungsfähigkeit von bestimmten Produkten in den Hilfen zur Erziehung - zurückgezogen
+- TOP 1.26: Durchführung einer Planungswerkstatt Michelangelostraße - überwiesen
+- TOP 1.27: Ausstellung Kunst "Made in Pankow" - überwiesen
+- TOP 1.28: Spielplatz nicht für Flüchtlinge? - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Groß- und Dauerbaustellen langfristig bekannt machen - überwiesen
+- TOP 1.30: Erstellung eines Integrierten Stadtentwicklungskonzeptes für den Mühlenkiez - überwiesen
+- TOP 1.31: "Willkommensklassen" in die Schulentwicklungsplanung aufnehmen - überwiesen
+- TOP 1.32: Gegen diskriminierende und sexistische Außenwerbung - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Einführung von Dokumentenprüfgeräten in den Bürgerämtern - überwiesen
+- TOP 1.34: Bezirkliche Archive dauerhaft im Landesarchivgesetz verankern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Litfaßsäulen in der Prenzlauer Allee Ecke Kanzowstraße und Zelterstraße (stadteinwärts) - überwiesen
+- TOP 1.36: Ausweitung der Gebiete des sozialen Erhaltungsrechts ("Milieuschutzgebiete") im Bezirk Pankow - überwiesen
+- TOP 1.37: Bedarfsanalyse zur Gleichstellungsarbeit in Pankow - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Personalentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Teilhabekonzept Menschen mit Beeinträchtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Verkauf und Leerstand von gefördertem Wohnraum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Sicherung der Planungs- und Gestaltungshoheit des Bezirkes und seiner BürgerInnen für das Areal Thälmannpark / Fröbelstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Ein neuer Sportentwicklungsplan! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Grundwasserregulierung im Regenwasserkonzept berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Umwandlungsverordnung jetzt erlassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Telefonlisten des Jobcenters veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Zentrenkonzept erstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Zentrale Erstberatung bei Diskriminierung in den Räumen des Bürgeramts Fröbelstraße 17 einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Ehrenamtliche Hilfe für Schutzsuchende fördern und koordinieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Sanierungskonzept für den Wilhelmsruher See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Machbarkeitsstudie zu Parkraumbewirtschaftung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Statement »REFUGEES WELCOME« auf Startseite des BA-Internetauftritts präsentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Neues Berliner Gesetz für Standortgemeinschaften in die Praxis umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Umgestaltung der Pappelallee/Stahlheimer Straße unter Aufrechterhaltung des Straßenbahnverkehrs und mit hoher Verkehrssicherheit für den Radverkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Gesundheitsversorgung für Asylberwerber_innen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Querparken in der Sredzkistraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Einrichtung einer temporären Spielstraße in der Gudvanger Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Schule und Ausbildung für junge Geflüchtete - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Gedenkort für das ehemalige Krankensammellager Blankenfelde Nord - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Förderprogramm "Stadtumbau Ost" bzw. Einsatz von Ausgleichsbeträgen - Maßnahmeliste Stadtumbaugebiet Prenzlauer Berg, Schwerpunktgebiet Thälmannpark und Grüne Stadt 2016 bis 2020 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Fortschreibung der Kosten- und Finanzierungsübersichten 2013/2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
