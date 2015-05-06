@@ -1,0 +1,8 @@
+# TOP 9: 101. Deutscher Katholikentag vom 09. bis 13. Mai 2018 in Münster
+
+- Sitzung: 6. Sitzung (2015-05-06)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/148949
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/57730
