@@ -1,0 +1,69 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-05-06T17:00:00+02:00
+- Ende: 2015-05-06T22:35:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2525
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2525
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 5: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 6: Entschließungen - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 7.2: Wahl Schiedsmänner für die Schiedsamtsbezirke 2, 4 und 6 - gewählt
+- TOP 7.3: Wahl einer stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Neukölln ist vorne bei der Armut - beantwortet
+- TOP 11.2: Ärztemangel in Neukölln - beantwortet
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Einrichtung von Workshops für neu angemeldete Schüler*innen an Integrierten Sekundarschulen ohne gymnasiale Oberstufe - in der BVV abgelehnt
+- TOP 12.2: Keine Asylbewerberheime in Turn- / Sporthallen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Ex-Frauenklinik - Bürgerpartizipation und Sozialwohnungen erreichen - in der BVV abgelehnt
+- TOP 12.4: Frühzeitige Öffentlichkeitsbeteiligung für die Frauenklinik wiederholen - in der BVV abgelehnt
+- TOP 12.5: Kein Abriss preiswerter Wohnungen in Neukölln - in der BVV abgelehnt
+- TOP 12.6: Neue Schule an der Oderstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Jugendberufsagentur - beantwortet
+- TOP 13.2: Abschaltung der Grundwasserregulierungsgsanlage im Glockenblumenweg: Säuft das Blumenviertel noch schlimmer ab? - beantwortet
+- TOP 13.3: Ehemaliges QM-Gebiet Reuterplatz - beantwortet
+- TOP 13.4: Parkbestand ehem. Thomas-Kirchhof gesichert? - vertagt
+- TOP 13.5: Notfallversorgung BER - vertagt
+- TOP 13.6: Islamismusprävention in der Jugendarbeit - vertagt
+- TOP 14: Große Anfragen - schriftlich - (offen)
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Flüchtlingsunterkunft Karl-Marx-Strasse 278 - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Standort Alt - Rudow / Neuköllner Straße 333 stärken - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Kulturelle Angebote für Flüchtlinge ermöglichen - überwiesen
+- TOP 15.4: Online-Formularservice auf berlin.de verbessern - überwiesen
+- TOP 15.5: Ankauf des Grundstücks an der Haarlemer Straße/II - vertagt
+- TOP 15.6: Multilinguale Internetpräsenz. - überwiesen
+- TOP 15.7: Spendenmelder - überwiesen
+- TOP 15.8: Anlaufstelle LSBTI im Bezirksamt - überwiesen
+- TOP 15.9: Möglichkeiten einer Neukölln-App prüfen - überwiesen
+- TOP 15.10: Vivantes Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 15.11: Prognostizierte Umsteiger*innen des Schuljahres 2014/15 - überwiesen
+- TOP 15.12: Kreativ- und Innovationsbeauftragter für Neukölln - überwiesen
+- TOP 15.13: Umbenennung Straße 574 - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Offene Daten Berlin - überwiesen
+- TOP 16: Mitteilungen - (offen)
+- TOP 16.1: Mehrsprachige Lesungen in der Stadtbibliothek - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: BSR - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.2: Zwei Wege im Landschaftspark-Süd mit Namen benennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Koordinationsstelle für das Flüchtlingsheim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Mehr Sicherheit für Fußgänger in der High-Deck-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.5: Bebauungsplanverfahren 8-66 - Buckower Felder - mit Abschlussbericht zur Kenntnis genommen
