@@ -1,0 +1,52 @@
+# 7. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2015-05-07T19:00:00+02:00
+- Ende: 2015-05-07T21:45:00+02:00
+- Ort: Rathaus Herxheim, Ratssaal (Nr. 1.10) im 1. OG, Obere Hauptstraße 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2015-200-91
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2015-200-91
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2015-200-91
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-200-91
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-200-91
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Bebauungsplan 'An der Augustastraße'
+- TOP 3: Bebauungsplan 'Östlich der Peter-Betz-Straße'
+- TOP 4: Konzept eines bedarfs- und zeitgemäßen Spielplatzangebotes in Herxheim und Hayna
+- TOP 5: Sammelplätze für wieder verwertbare Wertstoffe Containereinhausung
+- TOP 6.1: Auftragsvergaben
+- TOP 6.2: Auftragsvergaben Heizungssanierung Friedhofshalle
+- TOP 7: Erstellung eines Grünflächenkatasters und Einführung eines ökologischen Grünflächenmanagements (Antrag der Fraktion Bündnis 90/Die Grünen)
+- TOP 8.1: Mitteilungen und Anfragen Haushaltssatzung
+- TOP 8.2: Mitteilungen und Anfragen Verbleib des Steinzeithauses (Antrag CDU-Fraktion)
+- TOP 8.3: Mitteilungen und Anfragen Waldbegehung
+- TOP 8.4: Mitteilungen und Anfragen Parkplatz Waldfreibad
+- TOP 8.5: Mitteilungen und Anfragen Durchsetzung von Grünanlagen/Grünflächen
+- TOP 8.6: Mitteilungen und Anfragen Verkehrliche Maßnahmen im Bereich Anne-Frank-Straße / Edith-Stein-Straße
+- TOP 8.7: Mitteilungen und Anfragen Versendung von Sitzungseinladungen zum Bauausschuss
+- TOP 8.8: Mitteilungen und Anfragen Parksituation Querholstraße
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
