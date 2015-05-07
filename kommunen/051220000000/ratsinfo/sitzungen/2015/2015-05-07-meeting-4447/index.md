@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-05-07T17:00:00+02:00
+- Ende: 2015-05-07T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVNnkkeuJKqST1_dwL65CQk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4447
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWL071it5v0wKTxe56KbA63U0PNl94_tP94zac1sl1bl/Oeffentliche_Niederschrift_Rat_07.05.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Vorschlag für die En-bloc-Abstimmung
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Besetzung des Investitions- und Bauausschusses sowie des Finanzausschusses Wupperverband
+- TOP 5: II. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 6: Entwurf des Jahresabschlusses 2014 der Stadt Solingen
+- TOP 7: Nachtragssatzung der Stadt Solingen für das Haushaltsjahr 2015
+- TOP 8: Fortschreibung des Haushaltssanierungsplans (HSP) für das Jahr 2015 incl. Modellrechnung 2015 ff.
+- TOP 9: Fortschreibung des Haushaltssanierungsplans (HSP) für das Jahr 2015 incl. Modellrechnung 2015 ff.
+- TOP 10: 1. Nachtrag zum Stellenplan 2015
+- TOP 11: Aufgabe der Parkraumbewirtschaftung Weyersberg/Kotter Straße inklusive Bewohnerparken
+- TOP 12: Service Center der Deutschen Bahn AG im Solinger Hauptbahnhof
+- TOP 13: Service Center der Deutschen Bahn AG im Solinger Hauptbahnhof
+- TOP 14: Umbenennung der Städtischen Förderschule Pestalozzischule
+- TOP 15: Umbenennung der Gesamtschule Solingen
+- TOP 16: Umbenennung der Gesamtschule Solingen
+- TOP 17: WLan-Ausbau als Standortfaktor
+- TOP 18: Entwicklung von Richtlinien und Standards in kommunalen Gemeinschaftseinrichtungen für Flüchtlinge in Solingen
+- TOP 19: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Theaters und Konzerthauses Solingen
+- TOP 20: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung des Theaters und Konzerthauses Solingen
+- TOP 21: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für das städtische Theater und die städtischen Konzerte (Entgeltordnung)
+- TOP 22: Umsetzung des ESF-Programms „Bildung, Wirtschaft, Arbeit im Quartier" (BIWAQ)
+- TOP 23: Beteiligung am Projektaufruf „ Förderung von Investitionen in nationale Projekte des Städtebaus" mit Schloss Burg
+- TOP 24: Abrechnungssatzung für die Fußgängerzone Alter Markt/Ohliger Tor/Kirchgasse/Küstergasse/Linkgasse in dem Bereich bis zur Abzweigung Eiland
+- TOP 25: Bauleitplanung Beethovenstraße/ Dingshauser Straße
+- TOP 26: Bauleitplanung Frankenstraße
+- TOP 27: Bauleitplanung Carl-Ruß-Straße
+- TOP 28: Parkscheinautomaten der Stadt Solingen
+- TOP 29: Atomtransporte
+- TOP 30: Sachstand Melderegisterauskünfte
+- TOP 31: Sozialarbeit im Flüchtlingsbereich
+- TOP 32: Umgang mit Meldungen von Schimmel-/Schadstoffbelastungen
+- TOP 33: Erstellung eines schlüssigen Konzeptes zur Festlegung der Angemessenheit der Kosten der Unterkunft
+- TOP 34: Erstellung eines schlüssigen Konzeptes zur Festlegung der Angemessenheit der Kosten der Unterkunft
+- TOP 35: Polizeieinsatz in der Asylbewerberunterkunft Focher Straße
+- TOP 36: Kredite und kreditähnliche Rechtsgeschäfte
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Ergänzungsvereinbarung zu Grundabnahmen bei den Bergischen Symphonikern
+- TOP 2: Weitergabe von Krediten an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 3: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 4: Bauleitplanung Carl-Ruß-Straße
+- TOP 5: Gehälter von Geschäftsführern städtischer Unternehmen, Eigenbetrieben und Sparkassen-Vorständen auf den Prüfstand stellen
+- TOP 6: Erweiterung der Anfrage Beratungsaufträge an die "Big Four"
