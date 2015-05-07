@@ -1,0 +1,99 @@
+# 37. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-05-07T16:30:00+02:00
+- Ende: 2015-05-07T20:17:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4219
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4219
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=108317
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-42 - erledigt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Arbeit, Soziales und Gesundheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im Ausschuss für Bürgerdienste und Ordnungsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Berufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.6: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.7: Wahl einer Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 8.8: Wahl eines stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 8.9: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Bürgerdienste und Ordnungsangelegenheiten - gewählt
+- TOP 8.10: Wahl eines Bürgerdeputierten für den Ausschuss für Arbeit, Soziales und Gesundheit - zurückgezogen
+- TOP 8.11: Abberufung eines Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.12: Wahl einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8.13: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 4 - gewählt
+- TOP 8.14: Wahl eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Änderung Landschaftsplan zum Erhalt der "weißen Villa" - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Biotopkartierung für den "Spreepark" - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans 9-34 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplan 9-34 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Grünau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für die Blasmusikfreunde Köpenick e. V. (SM 15-09) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Sondermittel für den Förderverein der Grundschule An den Püttbergen e. V. (SM 15-14) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für die SAMBA KIDS e. V. (SM 15-15) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für die DLRG Treptow-Köpenick (SM 15-20) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Förderverein Landschaftspark Johannisthal / Adlershof e. V. (SM 15-21) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für den Behindertenverein Köpenick e. V. (SM 15-24) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für den Industriesalon Schöneweide (SM 15-25) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für das Schlossplatztheater / c/o Alte Möbelfabrik e. V. (SM 15-26) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für die Köpenicker Hockey-Union e. V. (SM 15-27) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radverkehr Oberspreestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Empfehlungen zur ökologischen Bauleitplanung in den Leitlinien zur Entwicklung von Wohnbaupotentialflächen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Erneuerbare Energien in Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Keine meterhohen Fontänen am Fahrbahnrand Am Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Einrichtung von zusätzlichen Postadressen für obdachlose und wohnungslose Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Waldweg Wuhlheide II - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Querungshilfe Baumschulenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Gartenhaus Johannisthal zum Künstlerhaus Johannisthal entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Papiereinsparung in der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.2: Vorschläge zur Abberufung und zur Bestellung einer Vertreterin / eines Vertreters sowie eines Stellvertreters für die Trägerversammlung des Jobcenters Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Vorschlag zur Bestellung eines Stellvertreters für die Trägerversammlung des Jobcenters Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Umbenennung eines Abschnitts der öffentlichen Straße nach Fichtenau in "Ingeborg-Hunzinger-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Versicherungskarte für Asylsuchende und Flüchtlinge - überwiesen
+- TOP 14.2: Hunzinger-Skulptur "Die sich Erhebende" am alten Standort aufstellen - überwiesen
+- TOP 14.3: Voraussetzungen für die Umsetzung des Beschlusses "Erbbaupachtvertrag Hasselwerder Villa" schaffen - überwiesen
+- TOP 14.4: Vorwegweiser Baustelle Schnellerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Erlebbarkeit des Heidekampgrabens zwischen der Görlitzer Bahn und dem Treptower Park - überwiesen
+- TOP 14.6: Ertüchtigung der Bushaltestelle am S-Bahnhof Baumschulenweg - überwiesen
+- TOP 14.7: Erdwärme in Wasserschutzgebieten Zone 3b - überwiesen
+- TOP 14.8: Keine Kongresse von Unterstützern von Terrororganisationen im Bezirk zulassen - überwiesen
+- TOP 14.9: Gedenken an Märzgefallene - überwiesen
+- TOP 14.10: Umbenennung der Haltestelle "Jugendzentrum" - überwiesen
+- TOP 14.11: Längerer Betrieb der Fähre zwischen Grünau und Wendenschloss - überwiesen
+- TOP 14.12: "Zug der Liebe" aus dem Treptower Park heraus halten - überwiesen
+- TOP 14.13: Kreuzung Kiefholz- Ecke Wildenbruchstraße schadenfrei kreuzen und queren - überwiesen
+- TOP 14.14: Kulturelle Genüsse im Rathaus Treptow - überwiesen
+- TOP 14.15: Kurzzeitparken für Bibliotheksnutzerinnen und Bibliotheksnutzer - überwiesen
+- TOP 14.16: Spazierweg Heidekampgraben - überwiesen
+- TOP 14.17: Nutzung von Pedelecs und elektrobetriebenen Lastenfahrrädern - überwiesen
+- TOP 14.18: Markenevaluation für "dein Treptow-Köpenick" - überwiesen
+- TOP 14.19: Attraktivität Uferpromenade Luisenhain steigern, Müllproblem verhindern - überwiesen
+- TOP 14.20: Beseitigung der Pfützenbildung bei Starkregen in der Ewaldstraße - überwiesen
+- TOP 14.21: "Zebrastreifen" zur sicheren Querung der Schnellerstraße Höhe Rudower Straße - überwiesen
+- TOP 14.22: Sichere Straßenquerung am Alten Wasserwerk Friedrichshagen - überwiesen
+- TOP 14.23: Parken an der Marggraffbrücke unterbinden - überwiesen
+- TOP 14.24: Finanzierung Kulturarbeit - überwiesen
+- TOP 14.25: Sichere Wege trotz Durchgangsverkehr in der Köllnischen Straße - überwiesen
+- TOP 14.26: Zentrum für Demokratie - überwiesen
+- TOP 14.27: Zentrum für Demokratie - überwiesen
+- TOP 14.28: Urban Gardening - überwiesen
+- TOP 14.29: Änderung der Geschäftsordnung vom 20.06.2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
