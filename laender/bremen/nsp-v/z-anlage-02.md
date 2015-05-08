@@ -1,6 +1,6 @@
 # Anlage 2 - Tabelle zur Berechnung der Durchschnittsnote für den schulischen Teil der Fachhochschulreife
 Anlage 2
-(zu § 24 Abs. 4)
+(zu § 24 Absatz 5)
 Tabelle zur Berechnung der Durchschnittsnote für den schulischen Teil der Fachhochschulreife
 Gesamt- punktzahl | Durch- schnittsnote | Gesamt- punktzahl | Durch- schnittsnote | Gesamt- punktzahl | Durch- schnittsnote
 105-97 | 1,0 |  |  |  | 
