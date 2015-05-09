@@ -15,7 +15,7 @@ Abschnitt 2 Planung und Betrieb
 § 12 Personal
 Abschnitt 3 Finanzierung
 § 13 Baukosten
-§ 14 Betriebskosten
+§ 14 Personal- und Sachkosten
 § 15 Elternbeiträge
 § 16 Eigenanteil des Trägers
 § 17 Gemeindeanteil
@@ -26,6 +26,6 @@ Abschnitt 4 Qualitätssicherung und -entwicklung
 § 21 Qualitätsentwicklung, Fort- und Weiterbildung, Fachberatung und Qualifikation
 § 22 Evaluation und Weiterentwicklung
 Abschnitt 5 In-Kraft-Treten und Außer-Kraft-Treten
-§ 23 (aufgehoben)
+§ 23 Übergangsvorschriften
 § 24 (aufgehoben)
 § 25 In-Kraft-Treten
