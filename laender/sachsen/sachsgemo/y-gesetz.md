@@ -1,5 +1,5 @@
-# Gemeindeordnung für den Freistaat Sachsen (SächsGemO)
-Rechtsbereinigt mit Stand vom 1. Mai 2014
+# Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
+Rechtsbereinigt mit Stand vom 9. Mai 2015
 Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
