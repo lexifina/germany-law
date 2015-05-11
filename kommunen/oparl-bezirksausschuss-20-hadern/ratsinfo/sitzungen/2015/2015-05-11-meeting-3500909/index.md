@@ -1,0 +1,101 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3500909
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3500909
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: Ausschussberichte
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse; Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt am 25.06.2015 (Direktorium, 21.04.15) Sitzungsvorlage Nr. 14-20 / V 03049
+- TOP 6.1.: Anhörung Beschlussvorlage für den Umweltschutzausschuss Installation eines Lärmmessgerätes an der A96 zwischen Garmischer Str. und Fürstenriederstr. und nach Eröffnung des Tunnels SW ein Messgerät zur permanenten Messung der Schadstoffe am Tunnelaus- / -eingang (Referat für Gesundheit und Umwelt, 16.04.15)
+- TOP 6.2.: Inklusion im Kindertageseinrichtungs- und Schulbereich Umsetzung der UN-Behindertenrechtskonvention Sachstandsbericht und Konzeption und diverse Anträge (Referat für Bildung und Sport, 17.04.15)
+- TOP 7: Baumschutz
+- TOP 7.3.: Berlstr. 5-7, 1 Fichte
+- TOP 7.6.: Gräfelfinger Str. 85, 1 Fichte
+- TOP 7.7.: Kornwegerstr. 42b, 1 Fichte
+- TOP 7.8.: Hertlstr. 26, 1 Fichte / Tanne
+- TOP 7.9.: Pfingstrosenstr. 3, 1 Eiche
+- TOP 7.12.: Kriegerheimstr. 28, 1 Birke
+- TOP 7.13.: Haderunstr. 19, 1 Lärche, 1 Fichte
+- TOP 7.14.: Waldgartenstr. 59, 2 Fichten, 1 Tanne
+- TOP 7.16.: Eisenhutstr. 9, 1 Thuja
+- TOP 7.18.: Am Heidebruch 19, 1 Ahorn
+- TOP 7.21.: Steinbrechweg 11, 1 Tanne
+- TOP 7.22.: Am Kornacker 20, 2 Fichten
+- TOP 7.1.: Drozzaweg 5, 1 Fichte (Referat für Stadtplanung und Bauordnung, 13.04.15)
+- TOP 7.2.: Am Kornacker 20, 2 Fichten (Referat für Stadtplanung und Bauordnung, 24.04.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist (Oberbürgermeister, 30.03.15)
+- TOP 8.3.: Bericht zur Voruntersuchung A96 (Referat für Stadtplanung und Bauordnung, 15.04.15)
+- TOP 9.2.: Buslinien 266 und 268, Verlagerung der Buslinie 266 aus der Würmtalstraße (Kreisverwaltungsreferat, 14.04.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.1.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) im Münchner Forum zum Leistungsprogramm 2016 der MVG (AAN, 16.04.15)
+- TOP 11.3.: Kommentierung zum Bericht zur Voruntersuchung ?Vorbereitende Untersuchungen für eine Machbarkeitsstudie zur Verbesserung des Lärmschutzes sowie der lufthygienischen und städtebaulichen Situation im Bereich A 96? (Bürgerinitiative BAB96 München, 23.04.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: 2. Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 zur Sitzungsvorlage Nr. 14-20 / V 01341 (nach Antrag idF com 3.2./2.3.2015, Seite5): Mietkosten senken und Klima schonen durch PV-Eigenverbrauchsanlagen (EVA) - Städtische Wohnungsbaugesellschaften prüfen Potentiale und Realisierungsmöglichkeiten für PV-Eigenverbrauch ihrer Mieter, insbesondere der der Tochterfirmen ?GWG? und ?GeWoFAG Holding GmbH?, die beide zwischenzeitlich zur ?Wirtschaftlichkeit des Änderungsantrages vom 4.2.2015? Stellung genommen haben. Die Behandlung wurde am 21.1./4.2.2015 zunächst vertagt. Der Änderungsantrag vom 4.2.2015 wurde in der Sitzung vom 11.3.2015 abgelehnt. Der ursprüngliche Referentenantrag wurde unter Berufung auf die erwähnten Stellungnahmen zunächst unverändert aufrechterhalten.
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 28.04.2015 zur Sitzungsvorlage Nr. 14-20 / V 02910 Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten gem. § 23 Abs. 4 Satz 1 der Sondernutzungsrichtlinien (SoNuRL). Diese Bestimmung erhält folgende Fassung: ?Der Betrieb einer Freischankfläche ist idR von 6 h 00 bis 23 h 00 zulässig. In den Monaten Juni bis August endet die Betriebszeit jeweils an Freitagen und Samstagen sowie an Tagen, denen ein Feiertag folgt, grundsätzlich um 24 h 00.? Diese Regelung wird auf straßenseitige Außengastronomie auf Privatgrund ausgedehnt, sofern baurechtliche Belange nicht entgegenstehen. Der BA Hadern hat dieser Regelung zugestimmt (Seite 3).
+- TOP 12.2.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 zur Sitzungsvorlage Nr. 14-20 / V 02645: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün,nsbesondere an der Kriegerheimstraße (ehemalige Trambahntrasse = 6.500 m2) und an der Würmtalstraße im Abschnitt zwischen der Kriegerheimstraße und der Fürstenrieder Straße (2.500 m2 gem. Anlage 1). Nach Anhörung der BA?e sollen ?bislang intensiv gepflegte Grünflächen ohne großen Nutzungsdruck, insbesondere aus der Kategorie ?bisher ca. 4x gemulchte Wiesen? in ?ein- bis zweimahdige (Blumen-)Wiesen? umgewidmet werden können. Für Hadern ist keine derartige Umwandlung vorgesehen (vgl. Anlage).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrsberuhigung des Canisiusplatzes und dauerhafte Sperrung für den Durchgangsverkehr
+- TOP 1.2.: Parksituation in Großhadern- Waldhüterstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Aufstellen eines Bus-Wartehäuschen (SPD-Fraktion)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Sauerbruchstr. 48, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Kreisverwaltungsreferat, 27.02.15)
+- TOP 6: Anhörungsfälle
+- TOP 6.3.: Feuerwerk am 16.05.15 auf dem Max-Lebsche-Platz, Haderner Dorffest (Kreisverwaltungsreferat, 05.05.15)
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Am Heidebruch 1a, 1 Kiefer
+- TOP 7.2.: Hochwaldstr. 18, 1 Fichte
+- TOP 7.4.: Würmtalstr. 146, 2 Tannen
+- TOP 7.5.: Pfingstrosenstr. 13, 3 Fichten sowie genehmigungspflichtige Baumveränderungen an 3 Fichten
+- TOP 7.10.: Windeckstr. 82, 1 Fichte
+- TOP 7.11.: Kleinhaderner Str. 25 c, 1 Konifere
+- TOP 7.15.: Plazerstr. 4, 3 Fichten
+- TOP 7.17.: Wildtaubenweg 26-28, 2 Linden, 1 Mehlbeere
+- TOP 7.19.: An der Rehwiese 11, 4 Fichte, 1 Kiefer
+- TOP 7.20.: Würmtalstr. 72b, 1 Kiefer
+- TOP 7.23.: Brunellenweg 45, 1 Tanne
+- TOP 7.24.: Haderunstr. 45, 2 Weißbuchen
+- TOP 7.25.: Senftenauerstr. 154, 2 Fichten, 1 Birke
+- TOP 7.26.: Waldesruhe 49, 1 Birke
+- TOP 7.27.: Narzissenstr. 10, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.3.: Brunellenweg 45, 1 Tanne (Referat für Stadtplanung und Bauordnung, 24.04.15)
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Waldwiesenstr. 31; Pkw-Parkzone (Kreisverwaltungsreferat, 19.12.14)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Neufriedenheimer Str. (Sozialreferat. 02.04.15)
+- TOP 8.5.: Baumaßnahmen der Stadtwerke München: - Marchioninistraße 1 Ausgrabung und Reparatur der Versorgungsleitung (SWM, 20.04.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Taubenfütterung am Max-Lebsche-Platz, Einladung zur Sitzung des BA 20 Hadern (Referat für Gesundheit und Umwelt, 02.04.15)
+- TOP 9.3.: Reinigung im Umfeld des Max-Lebsche-Platzes (Baureferat, 20.04.15)
+- TOP 10.1.: Zweiter Oberflächenaufzug für den Marienplatz (MVG, 25.03.15)
+- TOP 11: Verschiedenes
+- TOP 11.2.: Info-Broschüre zur Verpackungsverordnung (Abfallwirtschaftsbetrieb München, 27.04.15)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 29.04.2015 zur Sitzungsvorlage Nr. 14 - 20 / V 00909: Gartenstädte Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick a) Historische Entwicklung b) Geltende Rechtslage c) Lösungsansätze d) Anträge und Empfehlungen e) Anträge und Empfehlungen des 2. Hinweis-/Ergänzungsblattes Der BA Hadern hat am 10.11.2014 dieser Beschlussvorlage (BV) mehrheitlich zugestimmt (Seite 17, Anlage 39)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sportausschusses vom 11.03.2015 zur Sitzungsvorlage Nr. 14-20 / V 02369 (nach Antrag): Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen, Maßnahmenpaket 1 Kunstrasenplatzbau - Produkt 6.1 - Bezirkssportanlage Wolkerweg 17 (20. Stadtbezirk Hadern) Projektkosten (Kostenobergrenze): 1.900.000 Euro netto Unabhängig davon ist eine Kostenfortschreibung auf Grund von Index- bzw. Marktpreis-Veränderungen zulässig (Seite 7). Das Bauvorhaben ist im Mehrjahresinvestitionsprogramm (MJIP) für 2014-2018 in der Investitionsliste (IL) 1 (bisher 3) unter der Maßnahmennummer 5640.8080 und der Rangfolgenummer 904 mit Projektkosten iHv 2.000,-- ? für 2014, 850.000,-- ? für 2015, 768.000,-- ? für 2016 und 280.000,-- ? für 2017 vorgemerkt (Seite 8). Gemäß BA-Satzung war für diesen Beschluß eine Anhörung des BA Hadern erforderlich. Die eingegangene Stellungnahme wurde in der Sitzung bekannt gegeben (Seite 8). Wegen des ?Bedarfsprogramms? und der Projektdaten wird auf die Anlage Bezug genommen (3+10 Seiten). 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Zustimmung zur verwaltungsinternen Ausführungsgenehmigung (Erläuterungen siehe Einladungsdokument)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 zur Sitzungsvorlage Nr. 14-20 / V 02362 (nach Antrag): Veräußerung von Grundstücken für die gemeinwohlorientierten Wohnungsbauunternehmen zu 100% zu einem für das Gemeinwohl vorteilhaften Preis (Abgelehnt unter Berufung auf die Praxis der "Münchner Mischung")
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 zur Sitzungsvorlage Nr. 14-20 / V 02686: Straßenbaubeitragssatzung (Aufgehoben ab 1.1.2015) Beitragserlass für bereits abgeschlossene Maßnahmen (Abgelehnt unter Berufung auf das Schreiben der Regierung von Oberbayern vom 27.1.2015, Seite 2-3)
+- TOP 12.3.: Hinweis/Ergänzung zur Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.03.2015 zur Sitzungsvorlage Nr. 14-20 / V 02150: Bevölkerungsprognose der LH München - Planungsprognose 2013 bis 2030 Anteilige Zahlen für Hadern sind nicht ersichtlich.
+- TOP 1.3.: Wertstoffcontainer am Stiftsbogen 102
+- TOP 4.2.: Sanierung des Straßenbelags Konrad-Dreher-Straße (zw. Menaristraße und Alpenveilchenstraße), Rudi-Seibold-Straße (zw. Menaristraße und Alpenveilchen-straße), Alpenveilchenstraße, Krokusstraße (zw. Willibaldstraße und Violen-straße), Saalburgstraße, Hans-Grässel-Weg, Am Hedernfeld, Am Ährenfeld, Waldwiesenstraße (Ostseite) (SDP-Fraktion)
+- TOP 6.4.: Kurparkstraße, Neubau eines Doppelhauses mit 2 Garagen (Referat für Stadt- planung und Bauordnung, 28.04.15)
+- TOP 7.28.: Windeckstr. 1, 1 Buche, 1 Hollunder
+- TOP 1.4.: Parksituation Immastraße
+- TOP 4.3.: Verkehrsberuhigung Heiglhofstraße (SPD-Fraktion)
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
