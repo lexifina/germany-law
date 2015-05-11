@@ -1,0 +1,77 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-05-11T16:02:00+02:00
+- Ende: 2015-05-11T18:01:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12161
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12161
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00180381.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00181059.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Umsetzung des Ratsbeschlusses zu Verkehrsinformationen vom 30.9.2014 - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Umsetzung des Ratsbeschlusses vom 30.09.14 zu Verkehrsinformationen - Antwort der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.2: Anfrage: Sozial- und Erziehungsberufe - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 21.04.2015 - Sozial- und Erziehungsberufe - abschließend zur Kenntnis genommen
+- TOP 2.3: Kosten Oberbürgermeisterwahl - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 21.04.2015 - Kosten Oberbürgermeisterwahl - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag der Initiative Wuppertaler Kindertagespflegepersonen zur Ausgestaltung der Kindertagespflege
+- TOP 3.2: Bürgerantrag der Initiative Wuppertaler Kindertagespflegepersonen zur Elternbeitragssatzung
+- TOP 3.3: Bürgerantrag zum Betrieb des Asphaltmischwerkes Uhlenbruch
+- TOP 3.4: Bürgerantrag Radverkehrsführung Baustelle Brücke Brändströmstraße
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Öffentliches WLAN in Wuppertal fördern - Freifunk-Standorte auf städtischen Gebäuden einrichten - zur Vorberatung verwiesen
+- TOP 4.2: Teilnahme der Stadt Wuppertal an der Kampagne STADTRADELN - abgelehnt
+- TOP 4.3: Nie wieder Extremisten als Kooperationspartner der Verwaltung - abgelehnt
+- TOP 4.4: Resolution: Mehr Sachlichkeit seitens der Lokalmedien im Umgang mit oppositionellen Parteien - abgelehnt
+- TOP 4.5: Keine rechtsfreien Räume in der Stadt – „Autonomes Zentrum“ schließen! - abgelehnt
+- TOP 4.6: Antrag – Fahrradboxen fürs Tal - zur Vorberatung verwiesen
+- TOP 4.7: Beschaffung von Dienst- und Berufskleidung für den öffentlichen Dienst aus fairer Produktion - abgelehnt
+- TOP 4.8: Resolution zur Reform des ärztlichen Bereitschaftsdienstes - abgesetzt
+- TOP 4.9: Antrag – Alternativstandort für Forensik zur Prüfung vorschlagen - zurückgezogen
+- TOP 4.9.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.9, Alternativstandort für Forensik zur Prüfung vorschlagen, VO/1401/05 Antrag der Fraktionen von SPD, CDU und FDP vom 06.05.2015 - ungeändert beschlossen
+- TOP 4.10: Service des Einwohnermeldeamtes dezentralisieren - abgelehnt
+- TOP 4.11: Beteiligung des Beirates der Menschen mit Behinderung an den Beratungen der Ausschüsse und Bezirksvertretungen - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.2: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2014 - ungeändert beschlossen
+- TOP 7.3: Finanzierung der Planungen für das Pina Bausch Zentrum - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 9: Planverfahren
+- TOP 9.1: Flächennutzungsplanänderung 85 - Ahrstraße - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 983 - Ahrstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 435 - Forestastraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 896 - Berliner Straße / Wupperfelder Markt - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Fahrbahnerneuerung Schützenstraße und Klingelholl - ungeändert beschlossen
+- TOP 10.2: Sanierung des Berufskollegs am Haspel, Haspeler Str. 25, 42285 Wuppertal - ungeändert beschlossen
+- TOP 10.3: Neubau einer Sporthalle für die Städt. Gesamtschule Uellendahl-Katernberg, Kruppstr. 145, 42113 Wuppertal - ungeändert beschlossen
+- TOP 10.4: Brückensanierungen Nordbahntrasse - ungeändert beschlossen
+- TOP 10.5: Sanierung und bauliche Erweiterung des Schulstandortes Ferdinand-Lassalle-Straße - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Verbindliche Bedarfsplanung gem. §§ 11 (7) und 7 (6) APG NRW - ungeändert beschlossen
+- TOP 11.2: Fortführung der Schulsozialarbeit nach dem Bildungs- und Teilhabepaket bis zum 31.12.2017 - ungeändert beschlossen
+- TOP 11.3: Gewährung von Zuschüssen für den Besuch von Spielgruppen und anderen Gruppen - ungeändert beschlossen
+- TOP 11.4: Veränderungen in der städtischen Kinder- und Jugendarbeit in Barmen - ungeändert beschlossen
+- TOP 11.5: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.6: Antrag auf Genehmigung der Erhöhung der Zügigkeit eines Bildungsgangs gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.7: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.8: Änderung der Geschäftskreise der Beigeordneten gem. § 73 Abs. 1 GO NRW - ungeändert beschlossen
+- TOP 11.9: Sonntagverkauf in Oberbarmen am 13.09.15 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Verwaltungsrat der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 12.2: Bestellung der allgemeinen Vertretung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 12.3: Benennungen zum Investitions- und Bauausschuss des Wupperverbandes - abgesetzt
+- TOP 12.4: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung: Stellvertretung Kommission zur Kultur des Erinnerns - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung / Benennung - ungeändert beschlossen
