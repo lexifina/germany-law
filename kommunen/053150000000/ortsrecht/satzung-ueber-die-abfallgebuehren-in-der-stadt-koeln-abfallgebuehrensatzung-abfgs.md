@@ -1,16 +1,16 @@
 # Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2014-12-17 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgebuehrensatzung_17_12_2014.pdf
+- Datum: 2015-05-12 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallgebührensatzung_12_05_2015_rückwirkend.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Abfallgebühren in der Stadt Köln (Abfallgebührensatzung - AbfGS -) vom 21. Dezember 2011
-in der Fassung der 3. Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
-(Abfallgebührensatzung – AbfGS -) vom 17. Dezember 2014
+in der Fassung der rückwirkenden Satzung zur Änderung der Satzung über die Abfallgebühren in der Stadt Köln
+(Abfallgebührensatzung – AbfGS -) vom 12. Mai 2015
 Der Rat der Stadt Köln hat in seiner Sitzung vom 20.12.2011 aufgrund der §§ 4, 5, 6 und 20 Abs. 2 des Kommunalabgabengesetzes des Landes Nordrhein-Westfalen vom 21. Oktober 1969 (SGV. NRW. 610) in Verbindung mit den §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (SGV. NRW. 2023) und der §§ 1, 2 und 9 des Abfallgesetzes für das Land NordrheinWestfalen vom 21. Juni 1988 (GV. NRW. S. 250) - Landesabfallgesetz - jeweils in der bei Erlass der Satzung geltenden Fassung - diese Satzung beschlossen.
 I.
 §1 Gebührenpflicht
@@ -21,21 +21,22 @@ c) für Leistungen nach § 9 Abs. 4, § 11 Abs. 2 und Abs. 3 sowie § 16 AbfS vo
 d) im Fall des § 6 Abs. 1 Sätze 2, 3 AbfS von den dort genannten Erzeugern/innen und Besitzern/innen von Abfällen
 Gebühren erhoben.
 Übt ein anderer als der/die Eigentümer/in die tatsächliche Herrschaft über das Grundstück in der Weise aus, dass er/sie den/die Eigentümer/in im Regelfall für die gewöhnliche Nutzungsdauer von der Einwirkung auf das Grundstück wirtschaftlich ausschließen kann, ist er/sie Gebührenschuldner/in. In den Fällen des § 39 Abs. 2 Nr. 1 S. 2 AO ist der/die Eigentümer/in Gebührenschuldner/in.
-Die Gebühren werden nach einem modifizierten Volumenmaßstab erhoben, der auf die Größe des in Anspruch genommenen Restmüllgefäßes abstellt. Dabei werden in der Gebührenberechnung die Erfahrungswerte für das Verhältnis von Gewicht und Volumen jeder Behältergröße zu Grunde gelegt.
-Grundlagen für die Gebührenberechnung sind Anzahl, Art und Größe der aufgestellten Abfallbehälter, die Art der Abfälle, die Weise des Einsammelns und die Häufigkeit der regelmäßigen Abfuhren sowie die beantragten Sonderabfuhren. Für die Bemessung der Gebühren ist unerheblich, ob und in welchem Umfang die
+Die Gebühren werden nach einem modifizierten Volumenmaßstab erhoben, der grundsätzlich auf das Volumen des in Anspruch genommenen Restmüllgefäßes abstellt, bei dem jedoch bei der Zurechnung der voraussichtlichen Kosten – von den Logistik- und Verwaltungskosten abgesehen – die typische Verdichtung berücksichtigt wird, die in einem Restmüllgefäß eines bestimmten Volumens vorzufinden ist; bei den 500 l-, 660 l-, 770 l- und 1.100 l-Behältern wird zusätzlich danach differenziert, ob eine Nachsortierung stattfindet oder Müllschleusen zum Einsatz kommen. Die Berücksichtigung der Verdichtung erfolgt, indem die genannten
 Seite 1 von 8
 
-aufgestellten Abfallbehälter bei ihrer Leerung im Einzelfall gefüllt und wie viele Abfallbehälter im Einzelfall zu entleeren waren. Unberücksichtigt bleibt auch, ob und in welchem Umfang sperrige, Schadstoffe enthaltende sowie wiederverwertbare Abfälle zur Abfuhr gegeben wurden.
+Kosten nach Äquivalenzziffern verteilt werden und hierbei die voraussichtlich anfallenden Volumina auf der Grundlage der typischen, empirisch ermittelten Raumdichte (Verhältnis von Gewicht des Restmülls und Volumen des Restmüllgefäßes) gewichtet werden. Bei den Logistikkosten werden demgegenüber den Restmüllgefäßen die tatsächlich entstehenden Fremdleistungsentgelte zugerechnet, und die Verwaltungskosten werden auf alle Tonnen zu gleichen Teilen umgelegt.
+Grundlagen für die Gebührenberechnung sind Anzahl, Art und Größe der aufgestellten Abfallbehälter, die Art der Abfälle, die Weise des Einsammelns und die Häufigkeit der regelmäßigen Abfuhren sowie die beantragten Sonderabfuhren. Für die Bemessung der Gebühren ist unerheblich, ob und in welchem Umfang die aufgestellten Abfallbehälter bei ihrer Leerung im Einzelfall gefüllt und wie viele Abfallbehälter im Einzelfall zu entleeren waren. Unberücksichtigt bleibt auch, ob und in welchem Umfang sperrige, Schadstoffe enthaltende sowie wiederverwertbare Abfälle zur Abfuhr gegeben wurden.
 (2) Die Gebührenpflicht entsteht bei unbefristet aufgestellten Abfallbehältern mit dem Ersten des dem Aufstellen des Behälters folgenden Monats. Sie endet mit Ablauf des Monats, in dem die Behälter eingezogen werden; das gleiche gilt, wenn sie bei der AWB Abfallwirtschaftsbetriebe Köln GmbH & Co. KG (im folgenden „AWB“ genannt) abgemeldet worden sind und die Abmeldung den Erfordernissen des § 8 AbfS nicht widerspricht.
 (3) Im Falle des § 9 Abs. 4 sowie des § 11 Abs. 4 Satz 2 AbfS entsteht die Gebührenpflicht mit dem Beginn der Leistung, im Falle des § 17 Abs. 1 AbfS mit der Annahme der Abfälle an der Abfallentsorgungsanlage und im Falle des § 11 Abs. 3 sowie des § 16 AbfS mit der Ausgabe des Abfallsackes oder Behälters; die Ausgabe gilt als Beginn der Leistung. Im Falle des § 11 Abs. 2 Satz 4 AbfS entsteht die Gebührenpflicht mit dem Bereitstellen im Hafenbereich oder an anderen Liegeplätzen im Stadtgebiet Köln.
 (4) Beim Wechsel des/der Grundstückseigentümers/in oder der in § 23 AbfS genannten Personen ist vom Beginn des folgenden Monats an der/die Rechtsnachfolger/in gebührenpflichtig. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
 (5) Für die Entsorgung von Bioabfällen über die Biotonne, Papier/Pappe über die Blaue Tonne, Wertstoffen über die Wertstofftonne gem. § 9 Abs. 1 AbfS, sperrigen Abfällen gem. § 13 AbfS sowie Schadstoffe enthaltenden Abfällen gem. § 15 AbfS werden separate Gebühren nicht erhoben; die Kosten hierfür sind, mit den nach § 2 Absätze 1, 2, 2a, 2b, 5, 7 und 12 erhobenen Gebühren abgegolten.
 (6) Die Gebührenpflichtigen nach § 1 Abs. 1 Buchstaben a) und b) erhalten für die unbefristete Inanspruchnahme der Abfallbehälter einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann. Bei Wohnungseigentümern können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden.
-(7) Sind Abfallbehälter für mehrere zusammenhängende oder benachbarte Grundstücke desselben/derselben Gebührenpflichtigen auf einem gemeinschaftlichen Standplatz aufgestellt, oder sind Abfallbehälter auf gemeinsamen schriftlichen Antrag der Anschlusspflichtigen für mehrere benachbarte Grundstücke zur gemeinsamen Benutzung zur Verfügung gestellt, können die Gebühren hierfür anteilig und zusammen veranlagt werden.
-(8) Die Gebührenpflichtigen nach § 1 Abs. 1 Buchstabe c) erhalten für die erbrachten Leistungen einen Gebührenbescheid. Sie erhalten im Falle des § 11 Abs. 3 AbfS über den Erwerb gegen Barzahlung einen Beleg.
-Im Falle des § 11 Abs. 2 Satz 4 AbfS übermittelt die HGK Häfen und Güterverkehr Köln AG den Gebührenbescheid als äußerlich erkennbaren Teil ihrer Hafenrechnung.
+(7) Sind Abfallbehälter für mehrere zusammenhängende oder benachbarte Grundstücke desselben/derselben Gebührenpflichtigen auf einem gemeinschaftlichen Standplatz aufgestellt, oder sind Abfallbehälter auf gemeinsamen
 Seite 2 von 8
 
+schriftlichen Antrag der Anschlusspflichtigen für mehrere benachbarte Grundstücke zur gemeinsamen Benutzung zur Verfügung gestellt, können die Gebühren hierfür anteilig und zusammen veranlagt werden.
+(8) Die Gebührenpflichtigen nach § 1 Abs. 1 Buchstabe c) erhalten für die erbrachten Leistungen einen Gebührenbescheid. Sie erhalten im Falle des § 11 Abs. 3 AbfS über den Erwerb gegen Barzahlung einen Beleg.
+Im Falle des § 11 Abs. 2 Satz 4 AbfS übermittelt die HGK Häfen und Güterverkehr Köln AG den Gebührenbescheid als äußerlich erkennbaren Teil ihrer Hafenrechnung.
 (9) Grundstücksbezogene Benutzungsgebühren ruhen als öffentliche Last auf dem Grundstück.
 
 §2 Höhe der Gebühren
@@ -122,6 +123,8 @@ Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung ein
 
 2.472,08 €
 
+Seite 3 von 8
+
 15. 1.100 l-Behälter mit Müllschleuse
 
 3.367,03 €
@@ -145,8 +148,6 @@ Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung ein
 20. 5.000 l-Unterflurbehälter
 
 14.020,16 €
-
-Seite 3 von 8
 
 Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung eines 60 l-Behälters auf Antrag reduziert und beträgt 175,43 €.
 
@@ -236,6 +237,8 @@ Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird die Gebühr für die Nutzung ein
 
 2.404,89 €
 
+Seite 4 von 8
+
 Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag reduziert und beträgt 23,12 €.
 
 (4) Der Gebührensatz für die Entsorgung von 3.000 l und 5.000 l Behältern für Restmüll beträgt für ein Kalenderjahr bei wöchentlich einmaliger Abfuhr für
@@ -247,8 +250,6 @@ Im Falle von § 8 Abs. 4 Satz 2 und 3 AbfS wird der Eigenkompostiererabschlag re
 2. 5.000 l-Behälter
 
 11.364,98 €
-
-Seite 4 von 8
 
 (5) Im Falle des § 9 Abs. 1 Ziffer 2 AbfS (verschließbare Abfallbehälter) erhöhen sich die Gebühren nach § 2 Absätze 1 bis 3 um 19,59 € je Behälter und Jahr.
 
@@ -300,6 +301,8 @@ Hotelschiffen
 
 473,92 €
 
+Seite 5 von 8
+
 (12) Im Falle des § 11 Abs. 3 i.V.m. § 12 Abs. 6 AbfS beträgt die Gebühr für den Abfallsack 4,70 €.
 
 (13) Für Abfallbehälter gemäß § 9 Abs. 1 Nr. 1 und 2 AbfS, deren Transportweg auf dem Grundstück von der Grundstücksgrenze des/der Anschlusspflichtigen länger als 15 m ist, werden Zuschläge auf die Gebührensätze wie folgt erhoben:
@@ -309,8 +312,6 @@ Auf die Gebührensätze nach § 2 Abs. 2 Ziffern 1, 3, 5 – 7:
 1. Transportweg über 15 m bis 25 m:
 
 15,37 €
-
-Seite 5 von 8
 
 2. Transportweg über 25 m bis 40 m:
 
@@ -382,13 +383,13 @@ In allen übrigen Fällen des § 9 Abs. 3 AbfS erfolgt die Gebührenfestsetzung 
 
 15,29 €
 
+Seite 6 von 8
+
 3. 3.000l und 5.000 l-Behälter
 
 24,23 €
 
 (17) Bei unterbliebener Abfuhr besteht kein Anspruch auf Gebührenermäßigung. Ist das Einsammeln aus Gründen unterblieben, die dem/der Gebührenpflichtigen zuzurechnen sind und wird das Einsammeln vor dem nächsten Sammeltag nachgeholt, werden zusätzliche Gebühren entsprechend Abs. 11 Satz 1 erhoben.
-
-Seite 6 von 8
 
 §3 Fälligkeit und Vorauszahlung der Gebühren
 (1) Die Gebühren nach § 2 Absätze 1 bis 5, 7 bis 10 und 14 bis 15 für ein Kalenderjahr werden am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen fällig. Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenpflichtige zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlungen zu leisten.
@@ -398,15 +399,17 @@ Seite 6 von 8
 (5) Ist die nach Abs. 1 gezahlte Vorauszahlung geringer als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Gebührenbescheides zu zahlen. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu zahlen, bleibt unberührt.
 (6) Ist die nach Abs. 1 gezahlte Vorauszahlung höher als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, so wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Rückzahlung ausgeglichen.
 (7) Die Absätze 4 und 5 gelten entsprechend, wenn der Gebührenbescheid nach Zahlung aufgehoben oder geändert wird.
+
 §4 Verwaltungshilfe
 Die Stadt Köln beauftragt die AWB Abfallwirtschaftsbetriebe Köln GmbH (im Folgenden „AWB“ genannt) als Verwaltungshelferin mit der Abrechnung der Entgelte sowie zum Inkasso in folgenden Fällen:
+
+Seite 7 von 8
+
 1. Arzttonne, Krankenhausabfälle u.ä. (§§ 16, 9 Abs. 1 Ziffer 2 AbfS, § 2 Abs. 6 AbfGS),
 2. Abfallsäcke (§ 11 Abs. 3 AbfS, § 2 Abs. 13 AbfGS),
 3. 3.000 l und 5.000 l (§ 9 Abs. 1 Ziff. 1 und 2 AbfS, § 2 Abs. 5 AbfGS),
 4. Pressmüllcontainer (§ 9 Abs. 3 AbfS, § 2 Abs. 16 AbfGS),
 5. offene Abfuhr (§ 11 Abs. 2 AbfS, § 2 Abs. 11 AbfGS),
-Seite 7 von 8
-
 6. Abrechnung mit der HGK Häfen und Güterverkehr Köln AG, insbesondere in den Fällen des Gebühreneinzuges durch die HGK bei gewerblichen Zwecken dienenden Schiffen im Rheinstrom oder an anderen Liegeplätzen im Stadtgebiet (§ 11 Abs. 2 Satz 4 AbfS, § 1 Abs. 3 Satz 2 und § 2 Abs. 12 AbfGS),
 7. Blockabfuhr; Abrechnung bei kurzzeitig aufgestellten Abfallbehältern für vorübergehenden Bedarf (§ 9 Abs. 4 AbfS, § 1 Abs. 3 Satz 1 und § 2 Abs. 11 AbfGS),
 8. Abrechnung im Einzelfall bei dauerhaft aufgestellten Abfallbehältern bei Erzeugern/Erzeugerinnen und Besitzer/Besitzerinnen von Abfällen zur Beseitigung aus anderen Herkunftsbereichen (§ 6 Abs. 1 S. 2 AbfS),
@@ -419,12 +422,12 @@ Seite 7 von 8
 Die nach § 1 Abs. 1 Buchstaben a) bis d) Gebührenpflichtigen sind verpflichtet, der AWB über alle für die richtige Veranlagung maßgebenden Tatsachen unverzüglich die erforderlichen Angaben zu machen. Wer gegen diese Pflicht vorsätzlich oder fahrlässig verstößt, handelt ordnungswidrig.
 
 II. In-Kraft-Treten
-Die Satzung tritt am 01. Januar 2015 in Kraft. Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+Die Satzung tritt rückwirkend zum 01.01.2013 in Kraft. Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
 Köln, den 21.12.2011
 
 Der Oberbürgermeister gez. Roters
 
-- ABl. Stadt Köln 2011, S. 1139, 2012, S. 1052, 2013, S. 801, 2014, S. 1078 -
+- ABl. Stadt Köln 2011, S. 1139, 2012, S. 1052, 2013, S. 801, 2014, S. 1078, 2015, S. 239 -
 
 Seite 8 von 8
