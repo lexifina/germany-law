@@ -1,0 +1,119 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-05-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3505987
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3505987
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Bürgeranliegen: Bau eines Konzertsaals im Finanzgarten ? Rückbau der Galeriestraße (vertagt aus 2015.04 B 1.1)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Falckenbergstr. 9: Erweiterung eines Ladenlokals vom EG bis ins 2. OG durch Nutzungsänderung der Wohnung im 2. OG (vertagt aus 2015.04 B 3.1.13)
+- TOP .2.: Altheimer Eck 15: Erweiterung, Innenhofüberdachung und DG-Ausbau (Var. 1), Erweiterung, Innenhofüberdachung, Aufstockung und DG-Ausbau (Var. 2), Erweiterung der Hofstruktur nach Süden (Var. 3) ? Vorbescheid (vertagt aus 2015.04 B 3.1.14)
+- TOP .3.: Sonnenstraße 9: Nutzungsänderung: Laden zu Backshop mit Café/Bistrobereich (vertagt aus 2015.04 B 3.1.15)
+- TOP .4.: Marienplatz 22: Umbau und Fassaden-Neugestaltung eines Geschäftshauses (vertagt aus 2015.04 B 3.1.16N)
+- TOP .5.: Müllerstr. 42: Umbau einer Schank- und Speisewirtschaft mit regelmäßiger Kleinkunst-, Theater- und Varieténutzung im EG + 1. OG, Nutzungsänderung eines Lagers zu einem Gastraum im UG (vertagt aus 2015.04 B 3.1.17N)
+- TOP .6.: Kanalstr. 6: Sanierung Dachstuhl und Errichtung von Loggien ? Tektur (vertagt aus 2015.04 B 3.1.18N)
+- TOP .7.: Altheimer Eck 1: Nutzungsänderung - Verkaufsraum zu Imbiss-Gaststätte mit Alkoholausschank (vertagt aus 2015.04 B 3.1.19N)
+- TOP .8.: Sonnenstr. 25: Neubau eines Boardinghauses mit großflächigem Einzelhandel und Tiefgarage - Vorbescheid
+- TOP .9.: Sonnenstr. 25: Neubau eines Büro- und Geschäftshauses mit großflächigem Einzelhandel und Tiefgarage - Vorbescheid
+- TOP .10.: Prinzregentenstr. 11A: Umbau und Erweiterung eines Wohn- und Bürogebäudes - Vorbescheid
+- TOP .11.: Pilotystr. 4: Anbau von Balkonen und Gauben
+- TOP .1.: Bebauungsplan Nr. XXXX, Corneliusstraße zwischen Blumenstraße und Müllerstraße, Beschlussvorschlag des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP .1.: Aktueller Sachstand zur Lärmproblematik in der Müllerstraße (vertagt aus 2014.12 A 6.2)
+- TOP .2.: Bürgeranliegen: Grünfläche Isartorplatz
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststätten
+- TOP .1.: Sendlinger Str. 41, Firma Tschibo GmbH, Genehmigung einer Freischankfläche
+- TOP .2.: Mariannenstr. 1, 3-Sam Gastro GmbH, Erweiterung einer Freischankfläche
+- TOP .3.: Oettingenstr. 42 a, Cafe Bayerische Eismanufaktur, Genehmigung einer Freischankfläche
+- TOP .4.: Robert-Koch-Straße7, Post-Cafe e.K., Genehmigung einer Freischankfläche
+- TOP .5.: Odeonsplatz 18, Grand Caviar GmbH, Genehmigung einer Freischankfläche
+- TOP .6.: Maximilianstr. 40, Santini Gastronomie GmbH, Änderungsantrag für die Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Eisenmannstr. 4, Ladengeschäft ?SantoLoco?, Genehmigung einer Kleinst-Freischankfläche
+- TOP .2.: Neuhauser Str. 10, Steindl Trachten GmbH, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (vertagt aus 2015.04 C 2.2.1)
+- TOP .3.: Antrag auf Genehmigung eines Flohmarktes entlang der Isarpromenade (von Höhe Maximiliansbrücke bis Höhe Liebigstraße), Siaf e.V. für Frauen in München
+- TOP .4.: Neuhauser Str. 10, Münster Accessoires Handels GmbH, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .5.: Oberanger 43, Druck-Kopie-Media, Genehmigung einer Freischankfläche
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Öffentliche Kultur-/Benefiz-/Charity-Infoveranstaltung ?MJWorldCryDay? am 27.06.2015 und ?MJMemoryDay? am 29.08.2015 am Promenadeplatz
+- TOP .2.: Pfarrfest der französischsprachigen kath. Gemeinde am 28.06.2015 in der St. -Anna-Straße
+- TOP .3.: Münchner Stadtlauf 2015 am 28.06.2015
+- TOP .4.: Straßenfest am Fortunabrunnen (Kanalstraße/Isartorplatz) vom 19.06.-21.06.2015
+- TOP .5.: Bürgerfest der IKG am St.-Jakobs-Platz am 21.06.2015
+- TOP .6.: Französischer Markt am Sendlinger-Tor-Platz vom 27.05.-30.05.2015
+- TOP .7.: Projekt der Münchner Kammerspiele vom 01.06.-05.06.2015 und vom 26.06.-28.06.2015 auf dem Marienhof
+- TOP .8.: Gemeindefest ?Gartenlust? auf dem Mariannenplatz am 12.07.2015
+- TOP .9.: Bücherflohmarkt am 27.06.2015 in der Widenmayerstraße/Isarpromenade
+- TOP .10.: Stadtgründungsfest am 13./14.06.2015 in der Innenstadt
+- TOP .11.: Münchner Selbsthilfetag am 27.06.2015 auf dem Marienplatz
+- TOP .12.: Volksbund Deutsche Kriegsgräberfürsorge e.V., Standkonzert mit Sammlung am 29.10.2015 auf dem sog. Odeonsplatz
+- TOP .1.: St.-Jakobs-Platz 12, Antrag auf Aufstellung einer Sitzgelegenheit
+- TOP .1.: Bürgeranliegen: Aufstellen von Abfalleimern im Isar-nahen-Bereich
+- TOP .2.: Bürgeranliegen: Verkehrsspiegel an der Einmündung Rosenbuschstraße in die Wiedenmayerstraße
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: (E) Verkehrssituation in der Oettingenstraße
+- TOP 3.1.: Darstellung und Überarbeitung der Mähkonzepte auf städtischen Grünflächen und Verkehrsbegleitgrün und Schaffung von Stellplätzen für Bienen (Vertagt aus 2015.04 D 3.3)
+- TOP 3.2.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 3.3.: Beschlussentwurf Radweg von der Kanalstraße bis zum Isartorplatz in beiden Fahrtrichtungen freigeben
+- TOP 3.4.: Prälat-Miller-Weg 3, Fällungsantrag, 1 Kiefer
+- TOP 3.5.: Verkehrsregelungen im Färbergraben und Rosental, Verkehrsrechtliche Anordnung
+- TOP 3.1.: Die Johanniter - Suche nach neuen Räumlichkeiten im Stadtbezirk 1
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Bürgeranliegen: Unterstützung auf ein alleiniges Nutzungsrecht der Michael Jackson-Gedenkstätte am Sockel des Orlando die Lasso-Denkmals auf dem Promenadeplatz
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Kultur & Spielraum e.V. Historisches Spielprogramm am 20./21.06.2015
+- TOP 3.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich, Umsetzung der UN-Behindertenrechtskonvention, Sachstandsbericht und Konzeption und diverse Anträge, Sitzungsvorlage Nr. 14-20 / V 02934, Beschlussvorlage des Bildungsausschusses des Stadtrates vom 08.07.2015 (VB)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Offene Fußballstunde am Hirschanger, Veranstaltung des Bezirksausschusses von April bis Oktober 2015 jeden Mittwoch von 17.00 ? 18.30 Uhr, Bestätigung des städtischen Interesses vom Direktiorium
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bauvorhaben Tal 12, Errichtung einer Freischankfläche, Stellungnahme des Referates für Stadtplanung und Bauordnung
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.4.: Straßenausbaubeitragssatzung, Beitragserlass für bereits abgeschlossenen Maßnahmen, Sitzungsvorlage Nr. 14-20/V 02686, Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 0.5.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2018, Hildegard-, Hochbrücken- und Neuturmstraße (Änderung des Bebauungsplanes Nr. 387) und Thomas-Wimmer-Ring zwischen Knöbel- und Kanalstraße (Teiländerung der Bebauungspläne Nr. 31c und 1376), Sitzungsvorlage Nr. 14-20/V 02977, Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015 (SB)
+- TOP 0.6.: Beseitigung höhengleicher Bahnübergänge, Sitzungsvorlage Nr. 14-20/V 02324, Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Kunst im öffentlichen Raum, Weißer Lotus auf dem Marienhof vom 21.06.-15.09.2015
+- TOP 0.6.: Eilentscheidung des Vorsitzenden zu den Veranstaltungen: - Nachtrag Aktionstag des BRK am 09.05.2015 auf dem Marienplatz - Nachtrag zum Europatag am 08.05.2015 ? geänderter Lageplan
+- TOP 0.7.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten, Sitzungsvorlage Nr. 14-20 / V 02910, Beschlussvorlage des Kreisverwaltungausschusses vom 28.04.2015 (VB)
+- TOP 0.8.: Bürgerbeschwerde: Abgrenzung der öffentlichen Verkehrsfläche für die Fahrzeuge der Regierung von Oberbayern
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Parkraumkonzept für die Altstadt und das südliche Bahnhofsviertel entwickeln, Antrag Nr. 14-20/A 00832 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 24.03.2015
+- TOP 0.3.: Isartorplatz ? Neugestaltung Thomas-Wimmer-Ring für Platzgestaltung nutzen, Antrag Nr. 14-20/A 00829 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 24.03.2015
+- TOP 0.4.: Max-Joseph-Platz soll wieder eine Gesicht bekommen, Antrag Nr. 14-20/A 00831 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 24.03.2015
+- TOP 0.5.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün, Sitzungsvorlage Nr. 14-20/V 02645, Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 0.6.: Adelgundenstr. 17, Fällungsantrag vom 20.01.2015, Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 0.7.: Bepflanzung in der Sendlinger Straße ? Anforderung Begrünungsplan, Unterlagen des Baureferates zu BA-Schreiben vom 13.03.2015 (2015.03 D2.4)
+- TOP 0.8.: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick, Sitzungsvorlage Nr. 14-20/V 00909, Beschlussvorlage der Vollversammlung des Stadtrates vom 29.04.2015
+- TOP 0.9.: Urbane Gemeinschaftsgärten in München, Sitzungsvorlage Nr. 14-20/V 02503, Beschlussvorlage der Vollversammlung des Stadtrates vom 29.04.2015
+- TOP 0.10.: Neue Bädereintrittspreise 2015, Information der Stadtwerke München GmbH
+- TOP 0.11.: Neue Verkehrszählung in der Zweibrückenstraße, BA-Antrag Nr. 14-20/B 00854 vom 10.02.2015, Antwortschreiben des Referates für Stadtplanung und Bauordnung
+- TOP 0.12.: Änderung der Straßenreinigungssatzung, Sitzungsvorlage Nr. 14-20/V 02716, Beschluss des Bauausschusses vom 12.05.2015 (VB)
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Kurzbericht zur Veranstaltung ?Kultur und Spiel aktiv? auf dem Marienhof
+- TOP 0.3.: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale, Sitzungsvorlage Nr. 14-20/V 02270, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015 (SB)
+- TOP 2: (E) Situation am U-Bahnhof Sendlinger Tor (Ziff. 2) Empfehlung Nr. 14-20 / E 00343 der Bürgerversammlung des Stadtbezirks 1 Altstadt - Lehel am 04.12.2014
+- TOP 3: (E) Maßnahmen zur Lärm und Schmutzminderung in der Müllerstraße
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. ?Spiel mich? vom 08. bis 25.10.2015
+- TOP 3.2.: (E) Budget der Bezirksausschüsse WAT THAI Deutsch-Thailändisch Buddh. Vereinig. In Deutschland e.V. Thailändischer Folklore Abend am 09.05.2015
+- TOP 3.4: Unterrichtungen (siehe Anlage)
+- TOP 3.0: Bericht
+- TOP 3.1: Anträge und Bürgeranliegen
+- TOP 3.2: Entscheidungen
+- TOP 3.3: Anhörungen
+- TOP .3.2: Sonstige
