@@ -1,0 +1,67 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-05-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492346
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492346
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 14.04.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Sommerfest Wiesenwerkstatt e.V.
+- TOP 4.3.: (A) Flohmarkt Wiesenwerkstatt e.V.
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (Antrag) Radweg Boschetsrieder Straße
+- TOP 5.2.: (A) Leistungprogramm 2016 der MVG
+- TOP 5.3.: Verkehrskonzept 19. Stadtbezirk
+- TOP 5.4.: Verkehrgutachten Campus Süd
+- TOP 5.5.: (Antrag) Forst-Kasten-Allee: Gehweg
+- TOP 5.6.: (U) Baierbrunner Str.: Einrichtung eines Füßgängerüberwegs
+- TOP 5.7.: (Antrag) Sperrung Thalkirchner Brücke
+- TOP 5.8.: (U) Zielstattstr.: Schulbushaltestelle
+- TOP 5.9.: (U) Gaststättenfortführung: Hofmannstr.19
+- TOP 5.10.: (A) Maibaumverein Thalkirchen
+- TOP 5.11.: (U) Geitauer Str.: Haltverbot
+- TOP 5.12.: (U) Aidenbach-/Zielstattstr.: Austausch Lichtzeichenanlagen
+- TOP 5.13.: Thalkirchner Platz
+- TOP 5.14.: (Antrag) Tempoanzeigen in der Herterichstraße
+- TOP 5.15.: (Antrag) Parkregelung Drygalski-Allee
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Sportplatz Katholisches Jugendsozialwerk
+- TOP 7.2.: (A) Bauträgerauswahl für Kommunales Wohnungsbauprogramm
+- TOP 7.3.: (A) Inklusion im Kindertageseinrichtungs- und Schulbereich
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (A) Standortvorschläge Kulturstrand
+- TOP 8.2.: (Antrag) Streetart am Ratzinger Platz
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kath. Öffentliche Bücherei St. Johann Baptist/München-Solln Beschaffung von Kinder- und Jugendbücher
+- TOP 0.16.: Ziffern 1, 3 und 4: Sisha-Bar Drygalski-Allee 118 - <div></div>
+- TOP 0.17.: Ziffer 2: Shisha-Bar Drygalski-Allee 118 - <div></div>
+- TOP 0.18.: Halteverbot Stäblistr. / Zufahrt Grundschule Forstenrieder Allee - <div></div>
+- TOP 0.19.: Vorübergehende Wendemöglichkeit Boschetsrieder Str. Höhe Geisenhausener Str. - <div></div>
+- TOP 0.4.: Zukünftige Nutzung Baierbrunner Straße 14 - <div></div>
+- TOP 0.5.: Renovierung Schultoiletten Herterichschule - <div></div>
+- TOP 0.6.: Zustand der Turnhallen der Grund- und Mittelschule Zielstattstraße - <div></div>
+- TOP 0.3.: Instandsetzung Bürgersaal Fürstenried - <div></div>
+- TOP 1: Allgemeiner Teil
