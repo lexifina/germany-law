@@ -1,0 +1,96 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-05-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 24.03.15
+- TOP 1.4.2.: Protokoll UA Umwelt vom 24.04.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Verlegung der Flaschen-Container von der Hitlstraße
+- TOP 2.2.: Fällungsantrag Kirchhoffweg 12
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Krieger- und Veteranenverein Allach e.V. Jubiläumsfest am 28.06.2015
+- TOP 4.2.: Sperrung der Angerlohstraße und der Von-Reuter-Straße für Lkw über 7,5 t (Empfehlung Nr. 14-20 / E 00055 der Bürgerversammlung vom 24.06.14); Sitzungsvorlage Nr. 14-20 / V 03003
+- TOP 5: Anhörungen
+- TOP 5.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich Umsetzung der UN-Behindertenrechtskonvention Sachstandsbericht und Konzeption
+- TOP 5.2.: Mittelfristige Finanzplanung 2014 - 2018 Mehrjahresinvestitionsprogramm - anhörungsverfahren Fortschreibung für die Jahre 2015 bis 2019
+- TOP 5.3.: Kulturstrand 2015 ff. - Standorte
+- TOP 5.4.: Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 5.5.: Pyroantrag Kategorie II für 20.06.15, Achwaldstr. 15 a
+- TOP 5.6.: Waldhornstr., Gemarkung Untermenzing, Fl.Nr. 421/0 TEKTUR zu 1.2-2014-24450-42, Befristete Genehmigung eines dritten Bauwagens mit temporärem Vordach sowie der beiden vorhandenen Bauwägen als Wetterschutz und Materiallager
+- TOP 5.7.: Bauschingerstr., Gemarkung: Allach, FlNr.: 1359/11 Neubau eines Lebensmittelmarktes mit Pkw-Stellplätzen - TEKTUR zu 1.1-2014-11994-42
+- TOP 5.8.: Schreiben Kreisverwaltungsreferat vom 24.04.15: Servetstr. 1, Pyroantrag Kategorie II für 06.06.2015
+- TOP 5.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.04.15: Beschlussentwurf Workshop zur verkehrlichen Situation in Allach-Untermenzing
+- TOP 5.10.: Erstmalige Herstellung des Krayweges
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Bekanntgaben in der Sitzung des Bauausschusses vom 21.04.15: - Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün (Sitzungsvorlage Nr. 02645) - Straßenausbaubeitragssatzung; Beitragserlass für bereits beschlossene Maßnahmen (Sitzungsvorlage Nr. 02686)
+- TOP 6.2.: Beschluss des Kreisverwaltungsausschusses vom 28.04.2015: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten (Sitzungsvorlage Nr. 02910)
+- TOP 6.3.: Beschluss der Vollversammlung vom 29.04.15: - Urbane Gemeinschaftsgärten in München (Sitzungsvorlage Nr. 02503) - Gartenstädte, Erhalt des Charakters udn bauliche Entwicklung, Stand und Ausblick (Sitzungsvorlage Nr. 00909)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Zusammenarbeit BA 23 mit der MVHS-West beim Fotoprojekt zum Thema Flucht und Vertreibung, Arbeitstitel: " Wo bin ich?"
+- TOP 7.2.: Konzertreihe der Initiative "Bühne 23"
+- TOP 7.3.: Antrag der SPD-Fraktion im BA 21 Pasing-Obermenzing "Ablauf von zwei Umlaufsperren Hanfgarten-/Goteboldstraße" (Stadtbezirk 23)
+- TOP 7.4.: Schreiben Mieterbeirat vom 28.04.15: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 13.04.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 14.04.15: Gesamtverkehrskonzept Münchner Westen (Stadtratsantrag Nr. 00880)
+- TOP 8.2.: Schreiben Direktorium vom 15.04.15: Ertüchtigung A99 (Stadtratsantrag Nr. 00882)
+- TOP 8.3.: Schreiben Direktorium vom 28.04.15: Zuwendungsbewilligung aus dem Budget des BA 23 Allach-Untermenzing; Antragsteller: Verein für Jugend-, Alten- und Familienpflege in Allach-Untermenzing e.V.
+- TOP 8.4.: Schreiben Direktorium vom 28.04.15: Zuwendungsbewilligung aus dem Budget des BA 23 Allach-Untermenzing; Antragsteller: Initiative "Buchprojekt"
+- TOP 8.5.: Schreiben Direktorium vom 28.04.15: Zuwendungsbewilligung aus dem Budget des BA 23 Allach-Untermenzing; Antragsteller: Freiwillige Feuerwehr Allach von 1874 e.V.
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 16.04.15: Änderung der Radverkehrsführung in Allach an der Wilhelm-Zwölfer-Straße
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 17.04.2015: Erlaubnisbescheid Maibaumaufstellung mit Maifeier in der Eversbuschstraße am 01.05.15
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 20.04.15: Verkehrssicherheit Ecke Eversbuschstr. 166
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 23.04.15: BA-Infoveranstaltung am 22.04.15 - Unterlagen
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 27.04.15: Eingeschränktes Haltverbot auf der Nordseite der Kleselstraße zwischen Eversbuschstraße und Siberstraße
+- TOP 8.11.: Schreiben Abfallwirtschaftsbetrieb München vom 26.03.15: Containerstandplatz an der Feigstraße / Franz-Nißl-Straße , Von-Reuter-Straße, Pasinger Heuweg
+- TOP 8.12.: Schreiben Sozialreferat vom 09.04.15: Planung des Pflegeheims an der Franz-Nißl-Straße Alten- und Service-Zentrum Allach-Untermenzing
+- TOP 8.13.: Schreiben Sozialreferat vom 23.04.15: Antrag auf Zweckentfremdung von Wohnraum; Ramannstraße
+- TOP 8.14.: Schreiben Sozialreferat vom 27.04.15: Beschlussvorlage "Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen", 4. Standortbeschluss
+- TOP 8.15.: Schreiben Sozialreferat vom 28.04.15: Antrag auf Zweckentfremdung von Wohnraum; Zedernweg
+- TOP 8.16.: Schreiben Stadtwerke München vom 13.04.15, 20.04.15: Baumaßnahmen
+- TOP 8.17.: Schreiben Stadtwerke München vom 14.04.15: Informationsflyer "Baumaßnahmen der SWM"; 1. Halbjahr 2015 für den BA
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 23.04.15: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 8.19.: Schreiben Stadtwerke München vom 15.05.15: Baumaßnahme, Stromprojekt St.-Johann-Straße
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.04.15: Straßenverbindung Pasteurstraße - Birkenstraße
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (30.03.15-05.04.15, 06.04.15-12.04.15, 13.04.-19.04.15)
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung, Einzelfällungsanträge: Rehsteig 1, Grünspechstr. 7, Theodor-Kitt-Str. 3, Krautheimstr. 24, Karl-Hänel-Str. 41, Mangstr. 12, Lechelstr. 70, Rehsteig 3, Gleichweg 50, Franz-Albert-Str. 11, Baldusweg 10, Ernst-Beling-Str. 27
+- TOP 8.23.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Ernst-von-Beling-Str. 4, Lechelstr. 58, Vogelloh 12-48
+- TOP 8.24.: Schreiben Referat für Stadtplanung und Bauordnung: Genehmigungen von Fällungsanträgen: Gleichweg 50, Baldusweg 10, Franz-Albert-Str. 11
+- TOP 8.25.: Schreiben Abfallwirtschaftsbetrieb München vom 27.04.15: Info-Broschüre zur Verpackungsverordnung
+- TOP 8.26.: Schreiben Baureferat vom 09.04.15: Straßensanierung im Viertel an der Peter-Müller-Straße
+- TOP 8.27.: Schreiben Arbeitskreis Attraktiver Nahverkehr vom 16.04.15: Stellungnahme zum Leistungsprogramm 2016 der MVG
+- TOP 9: Nachtrag
+- TOP 9.1.: Unterausschuss Protokolle Protokoll UA Planung und Bau vom 21.04.15
+- TOP 9.2.: Protokoll UA Kultur vom 05.05.2015
+- TOP 9.3.: Bürgerpost an den BA Parkplatz und Fußgängerbrücke westlich der Würm mit Zugang zum Allacher Friedhof
+- TOP 9.4.: Verschiedenes Ecke Ludwigsfelder Str. / Eversbuschstr.
+- TOP 9.5.: Pilotprojekt München lebt interkulturelle Vielfalt Ein Angebot für Bezirksausschüsse - weiteres Vorgehen
+- TOP 9.6.: Informationsveranstaltung des Sozialreferates am 29.06.15, 18:30-20:30 Uhr
+- TOP 9.7.: Umlauf Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Am Lochholz 39, Franz-Nißl-Str. 40, Allacher Str. 204, Grünspechtstr. 7, Allacher Str. 163, Simonsfeldstr. 32, Naumannstr. 3, Rudhartstr. 58, Hitlstr. 61, Eversbuschstr. 33, Pringsheimstr. 4
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 27.04.15: Bauanträge 20.04.-26.04.15, 27.04-03.05.15)
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.04.15: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Nikolaus-Rüdinger-Str. 7
+- TOP 9.10.: Schreiben Stadtwerke München vom 27.04.15, 04.05.15: Baumaßnahmen
+- TOP 9.11.: Schreiben Kreisverwaltungsreferat vom 24.03.15: Anfahrtszone Kindergarten Lauthstraße 18
+- TOP 9.12.: Schreiben Kreisverwaltungsreferat vom 29.04.15: Vollzug der Straßenverkehrsordnung, öffentl. Aufnahmen auf öffentl. Grund, Lechelstr. 45
+- TOP 9.13.: Schreiben Kulturreferat vom 30.04.15: Veranstaltungsübersicht Mai
+- TOP 9.14.: Schreiben Referat für Arbeit und Wirtschaft vom 30.04.15: Europe Direct Informationen 02/2015
+- TOP 9.15.: Schreiben Kreisjugendring München-Stadt vom 23.04.15: Positionspapier des KJR München -Stadt; Wer flieht braucht Hilfe - Refugees Welcome!
+- TOP 9.16.: Stadtrats- und Ausschussbeschlüsse Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.15: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrages aus der Vollversammlung vom 19.12.12 (Sitzungsvorlage Nr. 01862)
+- TOP 9.17.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15: Beseitigung höhengleicher Bahnübergänge (Sitzungsvorlage Nr. 02324)
