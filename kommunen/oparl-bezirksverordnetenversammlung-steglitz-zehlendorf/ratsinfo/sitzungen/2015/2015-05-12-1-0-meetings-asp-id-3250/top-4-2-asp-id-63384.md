@@ -1,0 +1,8 @@
+# TOP 4.2: Ruhebänke in der Argentinischen Allee (beidseitig zwischen Waltraudstraße und U-Bhf. Onkel-Toms-Hütte)
+
+- Sitzung: 41. öffentliche Sitzung des Stadtplanungsausschusses (2015-05-12)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=63384
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=63384
