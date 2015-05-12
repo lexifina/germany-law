@@ -1,0 +1,115 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533798
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533798
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der März-Sitzung 1.3.2 Protokoll der April-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Perlacher Straße 28 - 30; 1 Ahorn, 1 weiterer Baum
+- TOP 2.2.: Pennstraße 55; 1 Eiche
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Münchner Aktionswerkstatt G'sundheit, für die Maßnahme: Bürgerfest am 26.06.2015; Antragssumme: 9.535,00 ?; Beschlussvorlage des Direktoriums vom 30.03.2015
+- TOP 5.2.: AntragstellerIn: Münchner Aktionswerkstatt G'sundheit, für die Maßnahme: Einbindung der Flüchtlinge am Bürgerfest am 26.06.2015; Antragssumme: 950,00 ?; Beschlussvorlage des Direktoriums vom 30.03.2015
+- TOP 5.3.: AntragstellerIn: Die ersten Münchner Böllermadln e.V., für die Maßnahme: 5jähriges Jubiläum am 07.05.2016; Antragssumme: 6.217,95 ?; Beschlussvorlage des Direktoriums vom 13.04.2015
+- TOP 5.4.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Spielmobilprojekt ?Der Park spielt? vom 23. bis 26.06.2015; Antragsumme: 990,00 ?; Beschlussvorlage des Direktoriums vom 13.04.2015
+- TOP 5.5.: AntragstellerIn: Bürgerinitiative Amisiedung , für die Maßnahme: Internationales Familienfest am 04.07.2015; Antragssumme: 4.000,00 ?; Beschlussvorlage des Direktoriums vom 21.04.2015
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Chiemgaustraße, Nachverdichtung mit barrierefreien Wohnungen und Tiefgarage - VORBESCHEID; Anhörung vom 12.03.2015 (vertagt aus der Sitzung vom 14.04.2015)
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" um "Am Katzenbuckel" - 2. Bauabschnitt; Sitzungsvorlage Nr. 14-20 / V 02646; Beschluss des Bauausschusses vom 17.03.2015 (SB)
+- TOP 0.3.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen; Stadtratsantrag Nr. 08-14 / A 05260 vom 14.03.2015; Sitzungsvorlagen Nr. 14-20 / V 02621; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 15.04.2015 (SB)
+- TOP 0.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtpl. u. Bauordnung u. der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2014 - 31.12.2014; Sitzungsvorlagen Nr. 14-20 / V 02786; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 15.04.2015
+- TOP 0.5.: Straßenausbaubeitragssatzung - Beitragserlass für bereits abgeschlossene Maßnahmen; Sitzungsvorlage Nr. 14-20 / V 02686; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 0.6.: Ausführungsgenehmigung - Sanierung der Kaskadenanlage (ehemalige Brunnenanlage) am Ostfriedhof, St.-Martins-Platz 1 im Stadtbezirk 17 Obergiesing-Fasangarten; Sitzungsvorlage Nr. 14-20 / V 02907; Sitzungsvorlage Nr. 14-20 / V 02907; Beschluss des Gesundheitsausschusses vom 13.05.2015 (SB)
+- TOP 0.7.: Wegfall eines Nahversorgers für die Siedlung am Perlacher Forst, Gewährleistung einer möglichst lückenlosen Versorgung; BA-Antrag Nr. 14-20 / B 00554 vom 11.11.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 14.04.2015
+- TOP 0.8.: Asam-Gymnasium, Schlierseestraße 20, geplante Erweiterung; Vorstellung der fortgeschrittenen Planung; Vormerkung des Referates für Bildung und Sport vom 02.04.2015
+- TOP 0.9.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick; 2. Hinweis/Ergänzung vom 18.03.2015; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 15.04.2015 (VB) zu 6.1.4.6 Neufassung vom 24.04.2015
+- TOP 0.1.: BV Martin-Luther-Straße 11, Neubau einer Wohnanlage ("Kommunales Wohnungsbaupgrogramm / Teilprogramm B") - VORBESCHEID (Martin-Luther-Straße 11 / Tegernseer Landstraße 104); Anhörung vom 20.03.2015 (in den UA FSA verwiesen aus der Sitzung vom 14.04.2015)
+- TOP 0.2.: AWO-Freizeitstätte am Perlacher Forst - schlechter Zustand des Sportplatzes / ungeklärte Zuständigkeit der Referate (verwiesen aus der Sitzung vom 14.04.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich; Umsetzung der UN-Behindertenrechtskonvention, Sachstandsbericht und Konzeption und div. Anträge; Sitzungsvorlage Nr. 14-20 / V 02934; Beschlussentwurf für die Sitzung des Bildungsausschusses des Stadtrates vom 08.07.2015 (VB); Zuleitung des RBS vom 17.04.2015 mit der Bitte um Stellungnahme bis 22.05.2015
+- TOP 0.1.: Studie "Älter werden in München" - Abschlussbericht; Sitzungsvorlagen Nr. 14-20 / V 02540; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 15.04.2015
+- TOP 0.2.: Unterkunft McGraw-Kaserne - Ort für Begegnungen schaffen; BA-Antrag Nr. 14-20 / B 00960 vom 11.03.2015; Antwortschreiben des Sozialreferats vom 10.04.2015
+- TOP 0.3.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen - 4. Standortbeschluss; Sitzungsvorlage Nr. 14-20 / V 03051; Beschluss der Vollversammlung vom 29.04.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Leistungsprogramm 2016 der MVG - Fahrplanwechsel Dezember 2015; Zuleitung der MVG mit der Bitte um Stellungnahme bis 15. Mai 2015
+- TOP 0.2.: Einhaltung des Tempo-30-Limits in der Siedlung am Perlacher Forst; Empfehlung Nr. 14-20 / E 00031 vom 05.06.2014; Beschluss des BA 17 aus der Sitzung vom 13.01.2015; Schreiben des Baureferat-Tiefbau vom 17.03.2015 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 14.04.2015)
+- TOP 0.1.: Tram - Tegernseer Landstraße; Verbesserung des anliegenden Straßenraums im 17. Stadtbezirk Obergiesing-Fasangarten; Finanzierung für die öffentlichen Verkehrsflächen; Sitzungsvorlage Nr. 14-20 / V 02387; Beschluss des Bauausschusses vom 21.04.2015 (SB)
+- TOP 0.2.: Erschließung bzw. Öffnung der Herbert-Quandt-Straße bereits vor dem anstehenden Bauprozess der Europäischen Schule München; BA-Antrag Nr. 14-20 / B 00674 vom 09.12.2014; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 08.04.2015
+- TOP 0.3.: Untersbergstraße zwischen Tegernseer Landstraße und Setzbergstraße - erstmalige Herstellung und Umbau - im 17. Stadtbezirk Obergiesing-Fasangarten; Projektkosten; Ausführungsgenehmigung; Sitzungsvorlage Nr. 14-20 / V 02894; Beschluss des Bauausschusses vom 21.04.2015 (SB)
+- TOP 0.4.: Spixstraße / Wirtstraße - Tempo 30 oder Fußgänger-Ampel an der Ecke Spixstraße / Wirtstraße; Bürgerantrag; Antwortschreiben KVR vom 27.03.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Novellierung der Baumschutzverordung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Sitzungsvorlagen Nr. 14-20 / V 01862; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 15.04.2015 (VB)
+- TOP 0.2.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün; Sitzungsvorlage Nr. 14-20 / V 02645; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 zu 6.4.4.3 Schreiben des Baureferats-Gartenbau vom 24.03.2015
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung - Nachfrage zu den erteilten Auflagen hinsichtlich Ersatzpflanzung; Beschluss des BA 17 aus der Sitzung vom 09.12.2014; Antwortschreiben der Unteren Naturschutzbehörde vom 30.03.2015
+- TOP 0.4.: Mülleimer und Hundetoilette für die Ecke Balanstraße / Grenzstraße in Obergiesing; Bürgeranliegen; Antwortschreiben des Baureferats-Gartenbau vom 01.04.2015
+- TOP 0.5.: Urbane Gemeinschaftsgärten in München a) Urbane Gemeinschaftsgärten b) Behandlung der Anträge 1. Urbanes Gärtnern I: Flächen für Gemeinschaftsgärten in Neubaugebieten einplanen; Stadtratsantrag Nr. 14-20 / A 00199 vom 21.08.2014 2. Urbanes Gärtner II: Mobile Gärten auf allen noch nicht bebauten Kasernen- und Entwicklungsflächen ermöglichen! Stadtratsantrag Nr. 14-20 / A 00200 vom 21.08.2014 3. Urbanes Gärtnern III: Urban Gardening in allen Stadtvierteln; Stadtratsantrag Nr. 14-20 / A 00202 vom 21.08.2014; Sitzungsvorlagen Nr. 14-20 / V 02503; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 (VB) zu 6.4.4.2 Neufassung vom 23.04.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: "Sommer im Park 2015" im Weißenseepark / Festwiese am 26.06.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 28.05.2015
+- TOP 0.1.: Offener Brief der Freunde des Sechz'ger Stadion zu diversen Diskussionen rund um Fußballspiele in Giesings Traditionsspielstätte "Grünwalder Stadion"
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Café Bar Restaurant bei Savvas", Schlierseestraße 30; Mitteilung vom 30.03.2015
+- TOP 0.2.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten; Sitzungsvorlage Nr. 14-20 / V 02910; Beschluss des Kreisverwaltungsausschusses vom 28.04.2015 (VB)
+- TOP 0.3.: Neue Bädereintrittspreise 2015; Information der SWM GmbH vom 23.04.2015
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Satzungsänderung zum Anhörungsrecht § 13 Abs. 2 BA-Satzung; Antrag Nr. 14-20 / B 00344 des BA 13 vom 16.09.2014; Schreiben des Direktoriums vom 30.03.2015 mit der Bitte um Stellungnahme
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: WLAN-Hotspots in den Büros der Vorsitzenden der Bezirksausschüsse und in den Sitzungs-/Besprechungsräumen der BA-Geschäftsstellen; Sachstandsinformation des Direktoriums vom 23.03.2015
+- TOP 7.2.: Informationsschreiben Nr. 02/2015 1. Tätigkeitsübersicht der Datenschutzbeauftragten der LHM für die Jahre 2012 und 2013 2. Fall der persönlichen Beteiligung nach Art. 49 GO; Schreiben des Direktoriums vom 23.03.2015
+- TOP 7.3.: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist; Schreiben des Oberbürgermeisters vom 30.03.2015 an die Referate der LHM
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.2.: AntragstellerIn: Münchner Aktionswerkstatt G'sundheit, für die Maßnahme: Einbindung der Flüchtlinge am Bürgerfest am 26.06.2015; Antragssumme: 950,00 ?; Beschlussvorlage des Direktoriums vom 30.03.2015
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
