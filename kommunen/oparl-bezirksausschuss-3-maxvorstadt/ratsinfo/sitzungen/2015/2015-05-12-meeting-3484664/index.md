@@ -1,0 +1,104 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484664
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484664
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .1.: Das Begrünungsbüro von Green City e.V. stellt sich vor
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 04.04.2015 Planungsrechtliche Überprüfung ausgewählter Straßenzüge der Maxvorstadt hinsichtlich Einhaltung der Vorschriften der Baunutzungsverordnung
+- TOP .2.: Schreiben einer Ladenbesitzerin aus der Maxvorstadt vom 26.04.2015 Abfälle auf dem Josephsplatz nach den Gottesdiensten der polnischen Gemeinde
+- TOP .3.: Schreiben eines Hotelbetreibers aus der Maxvorstadt vom 23.04.2015 Antrag auf Genehmigung einer Hotelanfahrtszone: Aktueller Sachstand?
+- TOP .4.: Schreiben einer Bürgerin aus der Maxvorstadt vom 28.04.2015 Raser auf der Ludwigstraße; Neuregelung des Verkehrs auf der Türkenstraße; Ampel an der Adalbert-/Ecke Amalienstraße
+- TOP .5.: Schreiben eines Bürgers aus der Maxvorstadt vom 13.04.2015 Lärmbelästigung durch Abendveranstaltungen in einem Laden in der Kaulbachstraße
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Umwandlung eines weiteren Pkw-Parkplatzes vor dem VdK-Büro in der Türkenstraße 27 in einem Fahrradabstellplatz
+- TOP .2.: Stadtwerke MVG Verbesserung der Verkehrssituation an der Kreuzung Görres-/Augustenstraße Antwort auf BA-Schreiben vom 13.03.2015
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsanordnungen Verbesserung der Verkehrssituation an der Kreuzung Görres-/Augustenstraße Antwort auf BA-Schreiben vom 13.03.2015 (Punkt 1 und 3)
+- TOP .4.: Antrag auf Auskunft Leerstand Anwesen Türkenstraße 47
+- TOP .5.: Neue Zebrastreifen barrierefrei gestalten
+- TOP .6.: Baugenehmigung Linprunstraße 5, die Kriterien der Erhaltungssatzung eihalten, Luxuswohnungen verhindern
+- TOP .7.: Baumbepflanzung am "Norkauer Platz", Karlstraße 47
+- TOP .8.: Im Umgriff des ZOB (zwischen Wrede-/Pappen-, Karl-, Seidl- und Arnulfstraße Parken nur mehr für Personenkraftwagen (Zusatzzeichen 1048-10). Als Sonderregelung soll nur das eingeschränkte Haltverbot für LKW mit Anhänger in der Spatenstraße bestehen bleiben. Verstärkte Überwachung des ruhenden Verkehrs - auch in Bezug auf die Vorschriften der Umweltzone - im Umgriff des ZOB insbesondere in der Wrede- und Karlstraße (zwischen Seidl- und Pappenheimstraße, Spaten- Denis- und Marsstraße
+- TOP .9.: Anbringen von Fahrradständern in der Görresstraße 9 und 11 an der Bushaltestelle
+- TOP .10.: entfällt
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.1.: Antrag der CSU-Fraktion vom 27.04.2015 Mauern um den alten nördlichen Friedhof müssen gereinigt werden
+- TOP 7.2.: Antrag Bündnis 90/Die Grünen vom 27.04.2015 Baumbepflanzung in der Gabelsbergerstraße zwischen Luisen- und Arcisstraße
+- TOP 7.3.: Antrag Bündnis 90/Die Grünen vom 27.04.2015 Baumscheibenabdeckung bei den Robinien in der Schellingstraße 25, 27 und 30 entfernen
+- TOP 7.4.: Antrag Bündnis 90/Die Grünen vom 27.04.2015 Auskunft bezüglich Leerstand in der Erzgießereistraße 14
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: LBK-Listen der Bauvorhaben: 14., 15., 16., 17. KW
+- TOP 7.2.: Listen der Abgeschlossenheitsbescheinigungen: 14., 15. KW
+- TOP 7.3.: Schellingstraße 109 a, Neubau eines Wohn- und Geschäftshauses
+- TOP 7.4.: Nordendstraße 7, Dachsanierung und Ausbau bestehender Dachloggien
+- TOP 7.5.: Adalbertstraße 23, Neubau einer Wohnanlage mit Tiefgarage und Läden im EG (Adalbertstraße 23+25 / Türkenstraße 96)
+- TOP 7.6.: Türkenstraße 9, Neubau einer Wohnanlage mit Tiefgarage (Türkenstraße 9 / Prinz-Ludwig-Straße)
+- TOP 7.7.: Blutenburgstraße 1, Brandschutztechnische Sanierung, Umbau im Bauteil E (EG-4.OG), davon Nutzungsänderung im 3. OG (Technikflächen in Präsentationsraum und Büroflächen); BT E/Q 4. OG: Ausbildung der Brandwand; BT L: Änderung Büroflächen (5. OG); BT B: geänderte Aufteilung EG, Errichtung Brandmeldeanlage (Blutenburgstraße 1 / Marsplatz 4)
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.3.2: Baumfällungen
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Ortstermin Siemens
+- TOP 7.1.: Münchner Forum, Stellungnahme zur Stadtratsvorlage ?Kunstareal ? Modifizierte Alterna- tive 5?
+- TOP 7.2.: Baureferat, Tiefbau, Beschlussvorlage Straßenausbaubeitragssatzung, Beitragserlass für bereits abgeschlossene Maßnahmen Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 Sitzungsvorlage Nr. 14-20 / V 02686
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neubau Hauptbahnhof München, Sachstand und weiteres Vorgehen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015 Sitzungsvorlage Nr. 14-20 / V 02553
+- TOP 7.4.: Baureferat, Beschlussvorlage Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 Sitzungsvorlage Nr. 14-20 / V 02645
+- TOP 7.5.: Stadtwerke Versorgungsnetze Wärmeverteilung Temporäre Auspflanzung von fünf Bäumen auf dem Grünstreifen Seidlstraße/Ecke Karlstraße wegen Sanierung der Fernwärmeleitungen
+- TOP 7.6.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Antrag auf Fällung einer Hainbuche und einer Blutpflaume in der Marsstraße 78 Abdruck des Genehmigungsbescheides vom 28.04.2015
+- TOP 7.1.: Gemeinsamer Antrag der CSU- und der SPD-Fraktion vom 17.04.2015 Einrichtung einer abknickenden Vorfahrt an der Kreuzung Görres-/Augustenstraße
+- TOP 7.2.: Antrag der CSU-Fraktion vom 12.04.2015 Installation eines ?Straßenspiegels? zur besseren Einsicht in den hinteren Straßenbereich der Hessstraße
+- TOP 7.3.: Antrag der CSU-Fraktion vom 13.04.2015 Fußgängerfreundliches Kunstareal: Barer Straße zwischen Gabelsbergerstraße und Theresienstraße im August probeweise sperren
+- TOP 7.4.: Antrag Bündnis 90/Die Grünen vom 27.04.2015 Einschränkung der Befahrung des Georg-Elser-Platzes während der Schulzeit von 7.00 bis 18.00 Uhr
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Münchner Verkehrsgesellschaft mbH (MVG), Anhörung Leistungsprogramm 2016 der MVG (Fahrplanwechsel Dezember 2015)
+- TOP 7.2.2: Öffentlicher Raum
+- TOP 7.1.: Gestaltung des Straßenraums vor dem künftigen Nanoinstitut Königinstraße 10 Vorstellung der Planung im UA durch Vertreter des Staatlichen Bauamtes München 2
+- TOP 7.2.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse Theresienstraße 25, Aufstellung einer Sitzgelegenheit vor einem Gewerbebetrieb
+- TOP 7.3.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse Georgenstraße 39, Genehmigung einer Fahrradabstellfläche vor einem Gewerbebetrieb
+- TOP 7.2.3: Gaststätten
+- TOP 7.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse, Freischankflächen a) Augustenstraße 77, Genehmigung einer Freischankfläche
+- TOP 7.2.4: Veranstaltungen
+- TOP 7.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest in der Türkenstraße am 04.07.2015
+- TOP 7.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Vergabeverfahren bei konkurrierenden Marktveranstaltungen: Weihnachtsmarkt am Wittelsbacherplatz
+- TOP 7.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bildungscamp auf dem Geschwister-Scholl-Platz/Professor-Huber-Platz vom 16. bis 22.06.2015
+- TOP 7.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Kulturstrand 2015 ff. Bitte um Stellungnahme zu den Standortvorschlägen aus dem Stadtrat
+- TOP 7.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Konzertwochenende mit Sunrise Avenue am 19. und 21.06.2015 auf dem Königsplatz
+- TOP 7.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Konzertwochenende mit Hubert von Goisern und Anna Netrebko am 26./27.06.2015 auf dem Königsplatz
+- TOP 7.1.: Baumaßnahmen der Stadtwerke a) Josephsplatz 6, Strom b) Nymphenburger Straße 25, Umbau der Trafostation c) Schellingstraße Philologicum, Strom
+- TOP 7.2.: Baureferat, Beschlussvorlage Ausbesserung Schlaglöcher Blutenburgstraße und Ausbesserung des Fahrradweges entlang der Landshuter Allee Empfehlung Nr. 14-20 / E 00315 der BV des 9. Stadtbezirkes Neuhausen-Nymphenburg vom 27.11.2014 Sitzungsvorlage Nr. 14-20 / V 02226
+- TOP 7.3.: Referat für Gesundheit und Umwelt, Städtische Friedhöfe München, Schreiben vom 13.04.2015 Alter Nördlicher Friedhof, Einbau neuer Schlösser an den Eingangstoren und zum Spiel- platz
+- TOP 7.4.: Kreisverwaltungsreferat Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten Beschluss des Kreisverwaltungsausschusses vom 28.04.2015 Sitzungsvorlage Nr. 14-20 / V 02910
+- TOP 7.5.: Baureferat Tiefbau Schleißheimer Straße zwischen Elisabethstraße und Maßmannstraße Ausführungsgenehmigung Beschluss des Bauausschusses vom 21.04.2015 Sitzungsvorlage Nr. 14-20 / V 02856
+- TOP 7.6.: Stadtwerke MVG Information über Betriebskonzept der U1 während der Schienenschleifarbeiten vom 14. bis 18.06.2015
+- TOP 7.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro a) Münchner Blade Night 2015 ab 04.05.2015 b) Kunstarealfest auf der Gabelsbergerstraße am 10.05.2015 Eilentscheidungen des Vorsitzenden vom 20.04.2014: Zustimmung
+- TOP 7.8.: Referat für Gesundheit und Umwelt, Immissionsschutz Förderung der Elektromobilität in München Beschluss in der gemeinsamen Sitzung des Umweltausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Ausschusses für Arbeit und Wirtschaft und des Kreisverwaltungsausschusses vom 06.05.2015 Sitzungsvorlage Nr. 14-20 / V 02722
+- TOP 7.1.: Antrag der SPD-Fraktion vom 20.04.2015 Aufnahme des ?Kinder von gestern? e.V. (Jugendzentrum für Senioren) in der Schleißheimer Straße 53 in die Regelförderung des Sozialreferates
+- TOP 7.2.: Referat für Bildung und Sport, Anhörung Inklusion im Kindertageseinrichtungs- und Schulbereich Umsetzung der UN-Behindertenrechtskonvention Sachstandsbericht und Konzeption Beschlussentwurf für den Bildungsausschuss des Stadtrats vom 08.07.2015
+- TOP 7.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 7.1.: Maxvorstädter Vorlesungen
+- TOP 7.1.: Internetauftritt des BA 3
+- TOP 7.2.: Kinder- und Bürgerfest
+- TOP 7.3.: Kassenbericht
+- TOP 7.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Zirkus Pumpernudl vom 22. bis 24.05.2015
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Bildungsfreiräume e.V. Bildungscamp vom 15. - 22.06.2015
+- TOP 7.1.: (E) Budget der Bezirksausschüsse caminando Verlag für besondere Bücher Lesereihe von September - November 2015
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Stiftung Pinakothek der Moderne Kunstareal-Fest am 09./10.05.2015
+- TOP 7.1.: Anträge
+- TOP 7.2.: Entscheidungen und Anhörungen
+- TOP 7.3.: Aktuelle Sachstandsberichte
+- TOP 7.4.: Unterrichtungen
