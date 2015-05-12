@@ -1,0 +1,62 @@
+# Stadtrat (7. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-05-12T17:00:00+02:00
+- Ende: 2015-05-12T21:43:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSDN_tWV1RegAiHVWCRrMB0
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18510
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZRhTdvnhDc9LWVF5CE7fW6L8hXvpTER0-fMvQ11dAhUK/Bekanntmachung_Stadtrat_12.05.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVknNOA1NLpflTPqdhWLm62BN8mYBsxNNnMkHf8AM5vt/Oeffentliche_Niederschrift_Stadtrat_12.05.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Besetzung des Jugendhilfeausschusses hier: Antrag der Linksfraktion
+- TOP 2.2: Besetzung des Haupt- und Finanzausschusses hier: Antrag der Stadtverordneten Askim Müller-Bozkurt vom 04.05.2015
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 18. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen
+- TOP 3.2: Erlass einer Hebesatzsatzung für das Jahr 2015
+- TOP -: Geplante Grundsteuer B-Erhöhung; hier: Antrag der Linksfraktion
+- TOP 3.3: 1. Änderung der Satzung über die Benutzung der Sportstätten der Stadt Kerpen vom 29.03.1999
+- TOP 3.4: 1. Änderung der "Nutzungs- und Entgeltordnung für die sonstigen städtischen Gebäude der Stadt Kerpen"
+- TOP 3.5: Änderung der Entgeltordnung für die Bäder der Kolpingstadt Kerpen
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bebauungsplan KE 352 "Westliche Stiftsstraße", Stadtteil Kerpen hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 4.2: Bebauungsplan KE 352 "Westliche Stiftsstraße", hier: Abschluss eines Erschließungsvertrages
+- TOP 4.3: Bebauungsplan SI 358 "Kerpener Straße/Mastenweg", Stadtteil Sindorf 1. Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB 2. Teilaufhebung der Bebauungspläne Nr. 7 und Nr. 7/ 2. Änderung „Südlich der Bundesbahn“, Stadtteil Sindorf
+- TOP 4.4: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes SI 358 "Kerpener Straße/Mastenweg", Stadtteil Sindorf
+- TOP 4.5: Bebauungsplan KE Nr. 338 "Hahnenpassage" im Stadtteil Kerpen hier: Beschluss zur erneuten öffentlichen Auslegung gemäß § 3 (2) BauGB
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1: Stellenplan 2015 hier: Stellenbedarf in der Abteilung 23.1 Erzieherische Hilfen, Bereich: Psychosozialer Dienst (PSD)
+- TOP 5.2: Frauenförderplan für die Stadtverwaltung Kerpen für die Jahre 2015 - 2017
+- TOP 5.3: Erfahrungsbericht über den Maßnahmenplan zur Gleichstellung von Frauen und Männern bei der Stadtverwaltung Kerpen für den Zeitraum 2012 - 2014
+- TOP 6.: Haushaltsangelegenheiten
+- TOP 6.1: Umsetzung der geplanten Maßnahmen aus dem Haushaltssicherungskonzept hier: Reduzierung des Defizits der Rathauscafeteria
+- TOP 6.2: Umsetzung der geplanten Maßnahmen aus dem Haushaltssicherungskonzept hier: Ziff. 22 - Personalwirtschaftliche Maßnahmen - (kein Text vorhanden)
+- TOP 6.3: Haushaltssatzung für das Haushaltsjahr 2015 einschließlich eines Haushaltssicherungskonzeptes und des Stellenplanes sowie die Bereitstellung von Ausbildungsplätzen für das Einstellungsjahr 2016
+- TOP 7.: Nachlass eines Kerpener Bürgers/ Projekt "Haus der Familie"; hier: Antrag der Linksfraktion und des Stadtverordneten Scharping - (kein Text vorhanden)
+- TOP 8.: Auswirkungen der Freihandelsabkommen TTIP, CETA, TISA auf Kerpen; hier. Antrag der Linksfraktion
+- TOP 9.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 9.1: Bereitstellung von Finanzmitteln für die Ertüchtigung der Gebäude der künftigen zentralen Flüchtlingsunterkunft in der Josef-Bitschnau-Straße
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 11.: Mitteilungen
+- TOP 12.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.1: Brücke über das Wissersheimer Fließ in Kerpen-Langenich hier: Anfrage der FDP-Fraktion
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Sachstand Jahresabschlüsse 2012/2013
+- TOP 15.: Auftragsvergaben
+- TOP 15.1: Auftragsvergabe: Straßenunterhaltungsarbeiten 2015
+- TOP 15.2: Auftragserteilung: Straßenendausbau Im Gleisdreieck, Teil 1
+- TOP 15.3: Auftragserteilung: Senkenreinigung 2015 und 2016
+- TOP 16.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 17.: Mitteilungen
+- TOP 18.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
