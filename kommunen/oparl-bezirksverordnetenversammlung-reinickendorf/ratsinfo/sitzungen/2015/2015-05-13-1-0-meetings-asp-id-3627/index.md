@@ -1,0 +1,88 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-05-13T17:00:00+02:00
+- Ende: 2015-05-13T20:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3627
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3627
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=83281
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 41. Sitzung der BVV am 13.05.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 41. Sitzung der BVV am 13.05.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 41. Sitzung der BVV am 13.05.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Einrichtung eines Shuttle-Service für das Strandbad Tegeler See - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Verkehrssicherheit im Tegeler Kiez (3) - Verkehrssicherheit Bernstorffstraße Ecke Buddestraße erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Maßnahmen gegen mit Graffiti beschmierte Hauswände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Müllentsorgung Bahndamm Schönholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Count-Down-Ampel auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Grünphase für Fußgänger verlängern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Abfahrtszeiten anzeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Fußgängerschutz Falkentaler Steig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Wohnraumversorgung zur Verselbstständigung von Jugendlichen und jungen Erwachsenen sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: TXL-Flugbewegungen über die Gebührenordnung steuern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Sicher Radfahren auf dem Hermsdorfer Damm (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Programm Stadtumbau West für das Umfeld des Flughafens Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Schulentwicklungsplanung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Standort ehemalige Klinik Wiesengrund sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Kiezfonds I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Jahresbericht des Patientenfürsprechers aus dem Krankenhaus des Maßregelvollzugs für den Zeitraum 01.01.2014 bis 31.12.2014 - überwiesen
+- TOP 7.19: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Bebauungsplanverfahren 12-26B-1 für die Grundstücke Gotthardstraße 96 und 100 sowie Blankestraße 4 und 5 im Bezirk Reinickendorf - überwiesen
+- TOP 7.20: Weiterführung der Prüfgruppe "Korruptionsbekämpfung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Standort der Ellef-Ringnes-Grundschule - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschluss über den Bebauungsplanentwurf 12-31 vom 14. Oktober 2014 und über den Entwurf der Rechtsverordnung für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 9.2: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Halte- und Parkverbote sowie Freihalten von Grundstückszufahrten in der Siedlung Waldidyll am Flughafensee stärker kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Gedenkort ehemaliger Friedhof der Karl-Bonhoeffer-Nervenklinik - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Gesundheitskarte nach dem Bremer Modell - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 1 - erledigt
+- TOP 10.5: Tempo 30 vor Reinickendorfer Kindertagesstätten anordnen 2 - in der BVV abgelehnt
+- TOP 10.6: 10- Minuten Takt bei der Buslinie 122 - erledigt
+- TOP 10.7: Berliner Krankenhausplan - erledigt
+- TOP 10.8: QR-Code für Informations- und Gedenktafeln verwenden - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Reinickendorf für Olympia fit machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Jugendverkehrsschulen dezentral erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Mehr Mittel für Deutschkurse - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Fußgängerüberweg AVA-Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Hinweis zu veränderten Vorfahrtsregeln - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Bezirklicher Denkmalrat - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Beschluss über den Bebauungsplanentwurf 12-40B vom 10. Oktober 2012 mit Deckblatt vom 08. September 2014 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-40B für die Grundstücke Falkenplatz 1/9A, 2, 6/10, Stößerstraße 2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 2/10A, 5/9, Habichtstraße 1/5, 2, Rabenstraße 1-4A, Eichelhäherstraße 18/26, 19, Falkenhorststraße 3, 5-7, 40, Turmfalkenstraße 21-21A, 25/29B, 33/35 im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Beschluss über den Bebauungsplanentwurf XX-240b-2 vom 25. August 2014 und Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-240b-2 für das Grundstück Freester Weg 5 im Bezirk Reinickendorf, Ortsteil Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Städtebauliche Untersuchung - in der BVV abgelehnt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Fahrradabstellanlagen am S-Bahhof Heiligensee - überwiesen
+- TOP 12.2: Vorläufige Geburtsurkunden ausstellen - überwiesen
+- TOP 12.3: Grobscreening für potentielle Milieuschutzgebiete - überwiesen
+- TOP 12.4: Ausstellung "Asyl ist Menschenrecht" - überwiesen
+- TOP 12.5: Verbesserung der Situation Waidmannsluster Damm / A111 - überwiesen
+- TOP 12.6: Information über IGA 2017 am Außenstandort Frohnau einrichten und für Spenden werben - überwiesen
+- TOP 12.7: Markstraße sicherer machen - überwiesen
+- TOP 12.8: Die Ausstellung "Was glaubst du denn" nach Reinickendorf holen - überwiesen
+- TOP 12.9: Schulwegsicherung in Heiligensee - überwiesen
+- TOP 12.10: Rauch- und Alkoholverbot auf Spielplätzen - überwiesen
+- TOP 12.11: Regenschutz für Fahrradabstellanlagen - überwiesen
+- TOP 12.12: Gleisreste im Bezirk - überwiesen
+- TOP 12.13: Zusätzliche Stellen "Wachsende Stadt" - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Klassenfrequenz für Kinder mit emotional sozialen Symptomen - überwiesen
+- TOP 13.2: Wirtschaftszeitung für Schüler kostenlos - überwiesen
+- TOP 13.3: Umleitungsstrecken für U6-Dammsanierung rechtzeitig abstimmen und frei halten - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Sitzgelegenheiten am U-Bhf Rathaus Reinickendorf - überwiesen
