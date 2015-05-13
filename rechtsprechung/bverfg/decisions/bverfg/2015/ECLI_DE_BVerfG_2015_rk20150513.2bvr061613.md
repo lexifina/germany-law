@@ -1,0 +1,538 @@
+---
+ecli: "ECLI:DE:BVerfG:2015:rk20150513.2bvr061613"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 616/13"
+decided: "2015-05-13"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 13. Mai 2015\n- 2 BvR 616/13 -, Rn. 1-57,\n                    https://www.bverfg.de/e/rk20150513_2bvr061613"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/05/rk20150513_2bvr061613.html"
+corpus_doc_id: "BVerfG_2015-05-13_K_2_BvR_0616_13_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0092.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/001.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/006.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/stpo/0052.md", "germany/bund/acts/stpo/0081a.md", "germany/bund/acts/stpo/0081c.md", "germany/bund/acts/stpo/0081f.md", "germany/bund/acts/stpo/0081g.md", "germany/bund/acts/stpo/0081h.md", "germany/bund/acts/stpo/0108.md", "germany/bund/acts/stpo/0252.md", "germany/bund/acts/stpo/0261.md", "germany/bund/acts/stpo/0344.md", "germany/bund/acts/stpo/0477.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 616/13 vom 2015-05-13
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvR 616/13 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+1. des Herrn A…,
+
+2. des Herrn A…,
+
+3. des Herrn A…
+
+- Bevollmächtigter:   Rechtsanwalt Dr. Ali B. Norouzi,
+
+                      in Sozietät Widmaier Norouzi Rechtsanwälte,
+
+                      Kurfürstendamm 216, 10719 Berlin -
+
+     1. unmittelbar gegen
+
+    a) das Urteil des Bundesgerichtshofs
+
+         vom 20. Dezember 2012 - 3 StR 117/12 -,
+
+    b) das Urteil des Landgerichts Osnabrück
+
+         vom 2. November 2011 - 3 KLs 10/11 -,
+
+     2. mittelbar gegen
+
+         § 81h StPO
+
+hat die 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                 den Richter Landau
+
+                                 und die Richterinnen Kessal-Wulf,
+
+                                 König
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+
+am 13. Mai 2015 einstimmig beschlossen:
+
+        Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+
+
+
+                                         1/16
+
+                                     Gründe:
+
+                                          I.
+  Die Verfassungsbeschwerde betrifft die strafprozessuale Verwertbarkeit sogenannter „Beinahetreffer“ bei einem Reihengentest nach § 81h StPO.
+
+ 1. Mit Urteil vom 2. November 2011 wurde der zur Tatzeit 16 Jahre und 11 Monate          2
+alte Beschwerdeführer zu 1) wegen besonders schwerer Vergewaltigung schuldig
+gesprochen und zu einer Jugendstrafe von fünf Jahren verurteilt.
+
+  a) Nach den Feststellungen des Landgerichts sprang der Beschwerdeführer zu 1),          3
+der sich entschlossen hatte, die Nebenklägerin unter Einsatz massiver Gewalt zum
+Geschlechtsverkehr zu nötigen, diese nachts auf dem Nachhauseweg von einer
+Gaststätte von hinten an, so dass sie auf den Bauch zu Boden fiel. Auf ihr sitzend
+oder liegend gelang es ihm trotz heftiger Gegenwehr der Nebenklägerin unter Einsatz massiver Schläge gegen ihren Kopf, den er auch auf den Boden schlug, ihr den
+Rock hochzuschieben, den Slip auszuziehen und ihre Beine zu spreizen. Anschließend drang er mit seinem erigierten Glied mehrfach in ihre Scheide und einmal kurzzeitig in ihren Anus ein, bevor er sie nach einem kurzen, missglückten Befreiungsversuch erneut zu Boden warf und mit ihr den Vaginalverkehr bis zum Samenerguss
+vollzog. Als die Nebenklägerin, die den Beschwerdeführer zu 1) nicht erkennen konnte, weil ihre Augen wegen der heftigen Schläge gegen den Kopf zugeschwollen waren, sich bewusstlos stellte, ließ er von ihr ab, auch weil er auf dem Weg herannahende Personen hörte.
+
+  Die Nebenklägerin, die infolge der massiven Schläge im Kopfbereich zwischenzeitlich mehrfach dem Bewusstseinsverlust nahe war, trug neben Verletzungen im
+Scheiden- und Analbereich - unter anderem einen drei bis vier Zentimeter langen
+Riss am äußeren Genitalbereich - erhebliche Kratz- und Prellungsspuren am gesamten Körper davon. Zudem erlitt sie schwere Prellungen, Schwellungen und Hämatome im Kopfbereich. Die Nebenklägerin blutete aus Nase und Ohr. Noch Tage nach
+der Tat bestanden flächige Einblutungen in beiden Augen. Während der Tat hatte sie
+das Gefühl, der Beschwerdeführer zu 1) zertrümmere ihren Kopf. Zum Zeitpunkt der
+Hauptverhandlung war die Nebenklägerin stark psychisch belastet. Mehr als zwanzig
+Psychologen lehnten aufgrund der Schwierigkeit des Falles eine Behandlung ab. Die
+Nebenklägerin kann sich nur eingeschränkt frei bewegen und ist auf Helfer angewiesen. Zudem ist sie durch Schlafstörungen und durch öffentliche Fragen der dörflichen
+Gemeinschaft belastet.
+
+  b) Seine Feststellungen und die Überzeugung von der Täterschaft des Beschwerdeführers zu 1) stützte das Landgericht neben der Einlassung des Beschwerdeführers zu 1), er sei in der Tatnacht in einer Gaststätte in unmittelbarer Nähe des Tatortes gewesen, sowie den Angaben der Nebenklägerin und weiterer Zeugen im
+Wesentlichen auf einen DNA-Abgleich der Spuren, die auf der Bluse und im Slip der
+Nebenklägerin sowie in den von ihr genommenen insgesamt sieben Abstrichen fest-
+
+
+
+                                          2/16
+
+gestellt werden konnten, mit einer beim Beschwerdeführer zu 1) erhobenen DNA-Probe.
+
+  Zum Ablauf des Ermittlungsverfahrens führte das Landgericht aus, dass die Untersuchung des bei der Nebenklägerin sichergestellten DNA-Materials zwar einen bestimmten Spurenverursacher, aber keine Hinweise auf einen polizeilich bekannten
+Täter ergab. Nachdem weitere Ermittlungen eine örtliche Verwurzelung des Täters
+nahegelegt hatten, ordnete der Ermittlungsrichter beim Amtsgericht Osnabrück auf
+Antrag der Staatsanwaltschaft mit Beschluss vom 13. September 2010 hinsichtlich
+sämtlicher zwischen dem 1. Januar 1970 und dem 31. Dezember 1992 geborener
+männlicher Personen in der Samtgemeinde D. die freiwillige Abgabe von Körperzellen zur Feststellung des DNA-Identifizierungsmusters an. An dem Reihengentest, bei
+dem von 2.406 Männern nach der gesetzlich vorgeschriebenen Belehrung über die
+Freiwilligkeit und den Umfang der Nutzung der DNA Speichelproben genommen wurden, nahmen auch der Vater des Beschwerdeführers zu 1) (Beschwerdeführer zu 2))
+sowie zwei seiner Onkel teil (davon ist einer der Beschwerdeführer zu 3)); der Beschwerdeführer zu 1) selbst war davon aufgrund seines jugendlichen Alters - er wurde 1993 geboren - nicht betroffen. Bei der Untersuchung und dem Vergleich der
+DNA-Proben aus dem Reihengentest mit dem DNA-Muster der Tatspuren stellte die
+beauftragte Sachverständige bei zwei anonymisierten Proben aufgrund des Vorkommens eines sehr seltenen Allels eine hohe Übereinstimmung zwischen diesen und
+der des mutmaßlichen Täters fest. Sie teilte diesen Befund dem ermittelnden Polizeibeamten mit und wies darauf hin, dass diese beiden Probengeber zwar nicht als Täter in Betracht kämen, aber Verwandte des Spurenlegers sein könnten. Die beiden
+Proben wurden daraufhin bei der Polizeidienststelle entanonymisiert, und es wurde
+festgestellt, dass sie von untereinander Verwandten - dem Vater des Beschwerdeführers zu 1) (Beschwerdeführer zu 2)) und seinem Onkel (Beschwerdeführer zu 3)) -
+stammten. Ein von der Polizei durchgeführter Melderegisterabgleich erbrachte das
+Ergebnis, dass einer der Probengeber einen Sohn - den Beschwerdeführer zu 1) -
+hatte, der aufgrund seines jugendlichen Alters nicht in das Raster für den Reihengentest gefallen war, der aber gleichwohl die Tat begangen haben könnte. Daraufhin erließ das Amtsgericht Osnabrück auf Antrag der Staatsanwaltschaft einen Beschluss
+auf Entnahme von Körperzellen beim Beschwerdeführer zu 1) und deren Untersuchung zur Bestimmung des DNA-Identifizierungsmusters. Diese Untersuchung ergab
+eine Übereinstimmung mit der Tatspur.
+
+ c) In rechtlicher Hinsicht befasste sich das Landgericht in seinem Urteil umfassend     7
+mit der Frage, ob ein Beweiserhebungs- oder -verwertungsverbot vorliege.
+
+ Der Fall weise die „einmalige Konstellation“ auf, dass der Täter eines Deliktes nicht   8
+unmittelbar im Zusammenhang mit einem Massengentest ermittelt werden konnte,
+sondern lediglich anlässlich der Untersuchung zufällig eine Teilübereinstimmung mit
+der Täterspur festgestellt werden konnte (sog. „Beinahetreffer“). Die Verwertung eines solchen Beinahetreffers führe nicht zu einer rechtlich durchgreifenden Verletzung
+von § 81h StPO oder von verfassungsrechtlichen Grundsätzen.
+
+
+                                         3/16
+
+ Die vom Gesetzgeber in § 81h Abs. 1 StPO vorgenommene tatbestandliche Beschränkung der Zielsetzung der Ermittlungsmaßnahme gehe nach dem Sinn und
+Zweck von einem von den Ermittlungsbehörden angestrebten positiven oder negativen Feststellungserfolg aus. Dies treffe auf einen Beinahetreffer nicht zu, bei dem es
+sich im Hinblick auf die Durchführung der auf § 81h StPO gestützten eigentlichen Ermittlungsmaßnahme um eine zufällig gewonnene Erkenntnis handle.
+
+  Es sei den die DNA Untersuchenden faktisch nicht möglich, das Ergebnis der Identitätsprüfung zur Kenntnis zu nehmen, ohne die auf eine mögliche Verwandtschaft
+deutende Übereinstimmung der DNA-Muster ebenfalls zu registrieren, da das Auswertungsergebnis jeweils erst am Ende des Abgleichungsprozesses vorliege. Die
+sich daraus ergebenden Ansätze für weitere Ermittlungen seien ein zufälliges zusätzliches Resultat der gesetzlich vorgesehenen Untersuchungsmethoden und -zwecke.
+Bei den Beinahetreffern handele es sich um ein „technisch bedingtes Nebenprodukt“.
+
+  Die in § 81h Abs. 4 StPO vorgeschriebene Belehrung und Einwilligung der Betroffenen hindere eine Verwertung der Beinahetreffer nicht. Denn die von den Betroffenen
+erklärte Einwilligung treffe keine Aussage zu der Frage, wie mit einer eventuellen Zufallserkenntnis umzugehen sei, da eine entsprechende Belehrung vom Gesetz nicht
+vorgesehen sei. Über eine solche Möglichkeit der Erklärung seiner Einwilligung würde sich der Betroffene auch keine Gedanken machen. Anders wäre dies theoretisch
+nur dann, wenn der Betroffene um die mögliche Tatbeteiligung eines Verwandten
+wüsste. So liege der Fall hier aber nicht. Das dem Gesetzgeber bei körperlichen Untersuchungen bekannte Zeugnisverweigerungsrecht des § 81c Abs. 3 StPO sei in die
+Regelung des § 81h StPO deshalb gerade nicht eingeflossen.
+
+ Ein Verstoß gegen das Recht des Angeklagten auf ein faires Verfahren liege - auch       12
+unter Berücksichtigung der Erfordernisse einer funktionstüchtigen Strafrechtspflege -
+nicht vor. Auch der Angehörigenschutz gebiete keine andere Beurteilung. Dabei sei
+zu berücksichtigen, dass der strafprozessuale Angehörigenschutz vor staatlichen Ermittlungsmaßnahmen nicht absolut schütze. So beziehe sich beispielsweise die Vorschrift des § 252 StPO nicht auf die Einvernahme des (Ermittlungs)Richters. Zu beachten sei vielmehr, dass das Zugeständnis von Zeugnisverweigerungsrechten der
+konkreten Konfliktsituation Rechnung trage, in der sich ein Angehöriger befinde. An
+einer solchen Konfliktsituation fehle es aber bei der Verwertung eines Beinahetreffers
+im Rahmen des § 81h StPO, da die Teilnahme an einer DNA-Reihenuntersuchung
+grundsätzlich freiwillig sei und nicht mit staatlichem Zwang durchgesetzt werden könne.
+
+  Nach Auffassung der Strafkammer lag auch kein Verstoß gegen das Recht auf informationelle Selbstbestimmung vor, da die Verwertung der Kenntnisse eines gemäß
+§ 81a StPO gewonnenen Beinahetreffers nicht dem absolut geschützten Bereich privater Lebensgestaltung unterfalle. Durch die freiwillige Teilnahme an der DNA-Reihenuntersuchung und die Abgabe der DNA-Probe hätten die Betroffenen bereits
+selbst einen Bezug zur Öffentlichkeit hergestellt.
+
+
+
+                                         4/16
+
+ Selbst wenn man zu dem Ergebnis käme, im vorliegenden Fall liege ein Beweiserhebungsverbot vor, gegen das verstoßen worden sei, müsste in einem zweiten
+Schritt über das Vorliegen eines Beweisverwertungsverbots entschieden werden. Einem solchen komme nach der Rechtsprechung des Bundesverfassungsgerichts lediglich Ausnahmecharakter zu. Eine Fernwirkung bezüglich der weiteren Ermittlungsergebnisse, die auf Grundlage der ausgewerteten Beinahetreffer folgen, sei nicht
+anzunehmen. Ein vorsätzlicher oder gar willkürlicher Verstoß sei nicht ersichtlich.
+Dies könne nur dann angenommen werden, wenn vor der Durchführung der Reihenuntersuchung konkrete Anhaltspunkte für einen bestimmten Tatverdächtigen - hier
+den Beschwerdeführer zu 1) - vorgelegen hätten und dieser Tatverdacht etwa durch
+eine Untersuchung von DNA der Familienangehörigen bestätigt werden sollte. Eine
+solche Fallkonstellation liege aber ersichtlich nicht vor. Schließlich dürfe bei alldem
+nicht außer Acht bleiben, welche Rechtsgüter auf der anderen Seite durch die strafrechtliche Aufarbeitung geschützt werden sollten. Vorliegend sei die Nebenklägerin
+durch die Tat in erheblicher Weise in ihrer psychischen und physischen Unversehrtheit beeinträchtigt worden. Sie leide noch bis heute an der Tat und habe ihr Leben
+umstellen müssen. Vergleiche man dies mit dem geltend gemachten Eingriff in die
+allgemeine Handlungsfreiheit derjenigen, die sich freiwillig zu dem DNA-Reihentest
+begeben hätten, vermutlich auch, um an der Überführung des Täters mitzuwirken, so
+überwiege eindeutig das Interesse am Rechtsgüterschutz des Opfers.
+
+  2. Gegen das Urteil des Landgerichts legte der Beschwerdeführer zu 1) Revision          15
+ein. Die Verwertung der Ergebnisse der DNA-Untersuchung betreffend den Angeklagten und seine Verwandten stelle einen Verstoß gegen § 261 StPO in Verbindung
+mit § 81h Abs. 3, Abs. 4 Nr. 1 StPO und den Grundsatz vom Vorbehalt des Gesetzes
+dar, weil diese Erkenntnisse auf rechtswidrige Art und Weise erlangt worden und
+deshalb unverwertbar seien. Fehlerhaft sei, dass die Proben des Vaters und des Onkels des Beschwerdeführers zu 1), welche die teilweise Übereinstimmung zur Tatspur aufgewiesen hätten, sowie die Aufzeichnungen über deren festgestellte DNA-Identifizierungsmuster nicht unverzüglich vernichtet worden seien, nachdem
+festgestellt worden sei, dass die beiden Probanden nicht als Spurenleger in Betracht
+kämen. Die Sachverständige habe zudem einen Quervergleich der Proben untereinander durchgeführt, was eine von § 81h StPO nicht erlaubte Untersuchungsmethode
+darstelle. Weitere Gesetzesverletzungen seien in der Entanonymisierung der Proben
+und in dem später durchgeführten Abgleich mit der Probe des weiteren Onkels des
+Angeklagten zu sehen. Der Vater und die beiden Onkel des Beschwerdeführers zu 1)
+hätten zudem nicht wirksam in die Entnahme und Untersuchung ihres Zellmaterials
+eingewilligt, weil sie bei der durchgeführten Belehrung über das Schicksal ihrer DNA-Probe getäuscht worden seien. Schließlich seien durch die Vorgehensweise der Ermittlungsbehörden die analog anwendbaren Vorschriften des § 52 Abs. 1 Nr. 3 StPO
+und des § 81c Abs. 3 Satz 1 StPO verletzt worden. Die Vielzahl der Verstöße, die auf
+ein willkürliches Handeln der Ermittlungsorgane hindeute, sowie ihr Gewicht begründeten nicht nur ein Beweiserhebungs-, sondern auch ein Beweisverwertungsverbot.
+
+
+
+                                          5/16
+
+ 3. In seiner Stellungnahme im Revisionsverfahren verneinte der Generalbundesanwalt ein Beweiserhebungs- und erst recht ein Beweisverwertungsverbot.
+
+  4. Mit dem angefochtenen Urteil vom 20. Dezember 2012 verwarf der Bundesgerichtshof die Revision des Beschwerdeführers zu 1).
+
+  a) In tatsächlicher Hinsicht stellte der Bundesgerichtshof zunächst den Grund der    18
+Mitteilung der Beinahetreffer von der Sachverständigen an die Ermittlungsbehörden
+heraus: Die Sachverständige erbat deshalb die Überprüfung, ob weitere Verwandte
+der zwei auffälligen Probengeber an dem Reihengentest teilgenommen hätten, um -
+zu diesem Zeitpunkt stand noch die Untersuchung von etwa 800 Speichelproben aus
+- deren Untersuchung gegebenenfalls vorzuziehen.
+
+ b) Die von der Revision erhobenen Beanstandungen wegen Rechtsverletzungen             19
+bei der Gewinnung der DNA-Identifizierungsmuster der Beschwerdeführer zu 2) und
+3) im Rahmen des Reihengentests drängen nicht durch. Die Durchführung des Reihengentests gebe keinen Anlass zu rechtlichen Beanstandungen.
+
+  Vorliegend sei ein Verstoß gegen die Löschungsverpflichtung nicht gegeben. Im        20
+Zeitpunkt der Untersuchung der DNA-Proben der beiden Onkel des Beschwerdeführers zu 1) sei der Reihengentest noch nicht abgeschlossen gewesen; es stand noch
+die Untersuchung von etwa 800 Speichelproben aus. Eine Verpflichtung zur sofortigen Löschung jedes einzelnen - nicht übereinstimmenden - Identifizierungsmusters
+unmittelbar nach seinem Abgleich mit dem der Tatspur lasse sich dem Gesetzeswortlaut nicht entnehmen. Im Übrigen würde auf der unterlassenen Löschung der beiden
+DNA-Identifizierungsmuster das Urteil nicht beruhen.
+
+  Soweit beanstandet werde, dass die Sachverständige einen gezielten Quervergleich der Proben des Vaters des Beschwerdeführers zu 1) und seiner Onkel untereinander durchgeführt habe, sei die Rüge bereits unzulässig, da die Verfahrensrüge
+insoweit nicht in der Form des § 344 Abs. 2 Satz 2 StPO erhoben worden sei. Außerdem ergebe sich aus dem Verfahrensgeschehen ohnehin, dass ein „gezielter Quervergleich“ der Proben des Vaters des Beschwerdeführers zu 1) und seiner Onkel untereinander durch die Sachverständige nicht vorgenommen worden sei. Vielmehr sei
+eine hohe Übereinstimmung „mit der Tatspur“ festgestellt worden. Damit habe diese
+Rüge auch in der Sache keinen Erfolg.
+
+  Schließlich lägen keine Gesetzesverletzungen mit Blick auf die Entanonymisierung     22
+des DNA-Identifizierungsmusters vor. Die Körperzellen würden durch die Ermittlungsbehörden nicht in anonymisierter Form erhoben. Diesen lägen vielmehr bezüglich jedes Probanden die vollständigen Daten vor. Die über § 81h Abs. 3 Satz 1 StPO
+anwendbare Vorschrift des § 81f Abs. 2 Satz 3 StPO regele nur, dass die Proben an
+den einzuschaltenden Sachverständigen in teilanonymisierter Form zu versenden
+seien. Dies sei geschehen. Dass der ermittelnde Polizeibeamte auf die Mitteilung der
+hohen Übereinstimmung der DNA-Identifizierungsmuster mit der Tatspur in der Personenliste der DNA-Reihenuntersuchung die Identität der Probengeber überprüft und
+
+
+
+                                        6/16
+
+so die Beschwerdeführer zu 2) und 3) ermittelt habe, verletze die Vorschrift des § 81f
+Abs. 2 Satz 3 StPO ersichtlich nicht.
+
+  Auch der Angriff gegen die Belehrung greife nicht durch, da diese - wie die Revision   23
+selbst vortrage - der gemäß § 81h Abs. 4 StPO gesetzlich vorgesehenen Form entsprochen habe. Sie könne nicht durch spätere Vorgänge, die im Zeitpunkt der Erteilung der Belehrung nicht absehbar waren, nachträglich verfahrensfehlerhaft werden.
+Insgesamt könne von der vorgetragenen „selbstherrlichen Missachtung“ einer richterlichen Anordnung oder einer Täuschungsabsicht der ermittelnden Behörden keine
+Rede sein.
+
+  c) Allerdings sei das Vorgehen der Sachverständigen und der Ermittlungsbehörden        24
+von § 81h Abs. 1 StPO und der Einwilligung der Beschwerdeführer zu 2) und 3) insoweit nicht gedeckt, als von der Sachverständigen auch mitgeteilt worden sei, dass die
+teilweise Übereinstimmung der DNA-Identifizierungsmuster von zwei Probanden es
+als möglich erscheinen lasse, es handele sich bei diesen um Verwandte des mutmaßlichen Täters. Gemäß § 81h Abs. 1 StPO dürfe die Ermittlung von Identifizierungsmustern und ihr Abgleich mit dem des Spurenmaterials nur vorgenommen werden, soweit dies zur Feststellung erforderlich sei, ob das Spurenmaterial von den
+Teilnehmern des Reihengentests stamme. Die nach § 81h Abs. 3 Satz 1 StPO entsprechend geltende Vorschrift des § 81g Abs. 2 Satz 2 StPO verbiete es, darüber
+hinausgehende Untersuchungen vorzunehmen und weitergehende Feststellungen
+zu treffen. Die vorliegend festgestellte mögliche Verwandtschaft zwischen zwei Probanden und dem mutmaßlichen Täter stelle eine für die Frage, ob die DNA-Identifizierungsmuster der Teilnehmer des Reihengentests mit dem der Tatspur übereinstimmen, nicht erforderliche Erkenntnis dar. Diese sei allerdings nicht durch eine
+darauf gerichtete und damit unzulässige Untersuchung erlangt worden, denn nach
+den rechtsfehlerfrei getroffenen Feststellungen des Landgerichts liege das Auswertungsergebnis der automatisierten Abgleichung der DNA-Identifizierungsmuster erst
+am Ende des Abgleichungsprozesses in verschiedenen DNA-Systemen vor, so dass
+es der Sachverständigen faktisch nicht möglich gewesen sei, das Ergebnis der Identitätsprüfung zur Kenntnis zu nehmen, ohne die auf eine mögliche Verwandtschaft
+deutende Übereinstimmung der DNA-Muster ebenfalls zu registrieren. Ein Verstoß
+gegen ein Untersuchungsverbot liege nicht vor. Bedenken bestünden zudem, ein
+Feststellungsverbot im Sinne eines Kenntnisnahmeverbots anzunehmen, weil dadurch von den zur Untersuchung und Auswertung einzuschaltenden Sachverständigen etwas verlangt würde, was ihnen nach den tatsächlichen Gegebenheiten unmöglich sei.
+
+ Dennoch verbleibe es bei der nach dem Wortlaut des § 81h Abs. 1 StPO eindeutigen Zweckbindung von Untersuchung und Abgleich der DNA-Proben und dem Verbot überschießender Feststellungen. Dieses führe dazu, dass sich die Weitergabe
+der zusätzlich gewonnenen Erkenntnisse im Sinne einer möglichen verwandtschaftlichen Beziehung und ihre anschließende Verwendung im Verfahren gegen den Angeklagten als verfahrensfehlerhaft erwiesen. Denn die darin liegende Verwertung als
+
+
+                                         7/16
+
+Verdachtsmoment stelle eine Verwendung personenbezogener Daten zu einem
+Zweck dar, zu dem sie nicht erhoben worden seien. Für den darin liegenden Eingriff
+in die Grundrechte der Beschwerdeführer zu 2) und 3) fehle es an der erforderlichen
+gesetzlichen Grundlage. Sei die Verwendung der Daten der Angehörigen des Beschwerdeführers zu 1) in Form der verdachtsbegründenden Verwertung gegen ihn
+verfahrensfehlerhaft, so sei davon auch der gegen ihn erlassene Beschluss nach
+§ 81a StPO betroffen. Die Gewinnung der daraus folgenden Beweismittel - die Übereinstimmung seines DNA-Identifizie-rungsmusters mit dem der Tatspuren - erweise
+sich damit ebenfalls als rechtswidrig.
+
+  d) Gleichwohl kommt der Bundesgerichtshof unter Anwendung der Abwägungslehre zu dem Ergebnis, dass die Strafkammer diese Beweismittel in die Hauptverhandlung einführen und im Urteil gegen den Angeklagten verwerten durfte. Der Verstoß
+gegen § 81h Abs. 1, Abs. 3 Satz 1, § 81g Abs. 2 Satz 2 StPO und die daraus resultierende Rechtswidrigkeit des gegen den Beschwerdeführer zu 1) erwirkten Beschlusses nach § 81a StPO führten hier ausnahmsweise noch nicht dazu, dass das Ergebnis der DNA-Analyse nicht gegen ihn hätte verwendet werden dürfen.
+
+ Die hinreichend bestimmte Vorschrift des § 261 StPO diene als Legitimation für die     27
+Verwertung der in die Hauptverhandlung eingeführten Daten zur Urteilsfindung und
+beschränke hierbei die Verwertung nicht auf rechtmäßig erhobene Beweise; auch in
+verfahrensfehlerhafter Weise gewonnene Beweismittel könnten zur Urteilsfindung
+herangezogen werden, wenn nicht im Einzelfall ein Beweisverwertungsverbot entgegenstehe. Danach sei die Verwertung der erlangten Beweisergebnisse - namentlich
+des mit dem der Tatspur übereinstimmenden DNA-Identifizierungsmusters des Beschwerdeführers zu 1) - hier (noch) zulässig.
+
+ Zwar liege in der Verwendung der durch den angeordneten Reihengentest zufällig         28
+gewonnenen Erkenntnisse ein Rechtsverstoß von erheblichem Gewicht, denn eine
+Zweckbindung, wie sie von § 81h Abs. 1, Abs. 3 Satz 1, § 81g Abs. 2 Satz 2 StPO
+vorgesehen sei, solle gerade jede sonstige Datenverwendung verhindern.
+
+  Dem stünde jedoch gegenüber, dass der Reihengentest, der zu der Erkenntnis geführt habe, in rechtmäßiger Art und Weise richterlich angeordnet und die Probanden
+entsprechend den gesetzlichen Bestimmungen ordnungsgemäß belehrt worden seien. Auch bei der Durchführung der Maßnahme sei es nicht zu Rechtsverstößen gekommen; die Beweisgewinnung sei insoweit rechtmäßig gewesen. Zudem habe die
+Sachverständige mit ihrer Mitteilung an die Ermittlungsbehörden lediglich den schnelleren Abschluss des Reihengentests zum Ziel gehabt; die Weitergabe der Information an die Ermittlungsbehörden sei daher von einem nachvollziehbaren, die Zweckbindung der Datenverwendung nicht missachtenden Motiv getragen gewesen.
+
+ Entscheidend sei, dass der Gesetzgeber Regelungen für den Umgang mit sogenannten Beinahetreffern nicht getroffen habe. Die Rechtslage sei für die Ermittlungsbehörden im Zeitpunkt der weiteren Verwendung ungeklärt gewesen. Dabei habe die
+Ausgangslage der zufälligen Gewinnung einer überschießenden Erkenntnis im Rah-
+
+
+                                         8/16
+
+men des Reihengentests eine strukturelle Nähe zum Gegenstand anderer strafprozessualer Regelungen über den Umgang mit Zufallserkenntnissen aufgewiesen. Diese Regelungen verböten die Verwertung von Zufallserkenntnissen jedoch nicht generell, wie § 108 Abs. 1 StPO oder § 477 Abs. 2 Satz 2 StPO zeigten. Angesichts all
+dessen sei die Annahme der Ermittlungsbeamten nicht völlig unvertretbar, dass die
+Erkenntnis der möglichen Verwandtschaft zwischen dem mutmaßlichen Täter und
+den Beschwerdeführern zu 2) und 3) als Ermittlungsansatz verwertet werden konnte. Jedenfalls stelle sich diese Annahme nicht als eine bewusste oder gar willkürliche
+Umgehung des Gesetzes oder grundrechtlich geschützter Positionen des zu diesem
+Zeitpunkt noch gar nicht bekannten Beschwerdeführers zu 1) oder seiner Verwandten dar.
+
+ Nach alledem wiege der Verfahrensverstoß auch mit Blick auf die Überschreitung          31
+der Zweckbindung und den berührten Schutzbereich des Art. 6 Abs. 1 GG nicht so
+schwer, dass er hier die Unverwertbarkeit der infolge der unbefugten Datenverwendung erlangten Erkenntnisse zur Folge hätte. Auch der weitere Verfahrensgang würde einer Verwertung der erlangten Beweisergebnisse nicht entgegenstehen.
+
+                                          II.
+ Mit ihrer Verfassungsbeschwerde wenden sich die drei Beschwerdeführer gegen             32
+die Verwendung der durch den angeordneten Reihengentest zufällig gewonnenen
+Erkenntnis, dass zwischen dem mutmaßlichen Täter und den Beschwerdeführern zu
+2) und 3) möglicherweise eine verwandtschaftliche Beziehung bestehen könnte, sowie mittelbar gegen § 81h StPO.
+
+  Das Urteil des Bundesgerichtshofs verletze den Beschwerdeführer zu 1) in seinem        33
+Recht aus Art. 2 Abs. 2 Satz 2 GG in Verbindung mit Art. 20 Abs. 3 GG auf ein faires
+Strafverfahren, an dem die Verwertbarkeit rechtswidrig erhobener oder erlangter Information zu messen sei. Wenngleich das vorliegende Urteil die vom Bundesverfassungsgericht gebilligten Obersätze der ständigen Rechtsprechung zur Abwägungslehre verbal übernehme, verfehle es materiell deren Gehalt. Es liege ein
+Abwägungsausfall vor.
+
+ Der Bundesgerichtshof verfehle den verfassungsrechtlichen Willkürbegriff, der keinen subjektiven Schuldvorwurf enthalte, sondern im objektiven Sinne zu verstehen
+sei. Der Bundesgerichtshof scheine den Begriff der Willkür als Steigerung gegenüber
+einer bewussten Umgehung zu sehen.
+
+ Entgegen der Ansicht des Bundesgerichtshofs sei die Rechtslage nicht unklar, sondern eindeutig. Aus dem Umstand, dass der Gesetzgeber keine Regelung für sogenannte Beinahetreffer getroffen habe, folge nicht eine objektive Rechtsunklarheit,
+sondern eine eindeutige Vermutung für die Rechtswidrigkeit der Maßnahme. Die Einwilligung (§ 81h Abs. 4 StPO) gebe vorliegend die Reichweite der strengen Zweckbindung (§ 81h Abs. 3 Satz 1 StPO i.V.m. § 81g Abs. 2 StPO) vor. Der Vergleich zu
+§ 477 Abs. 2 StPO, der letztlich Ausdruck des Gedankens des hypothetischen Er-
+
+
+                                         9/16
+
+satzeingriffs sei, greife nicht durch, da der Bundesgerichtshof selbst feststelle, dass
+die in den Reihengentests gewonnenen DNA-Identifizierungsmuster gegen den Beschwerdeführer zu 1) verdachtsbegründend und als Grundlage für die Anordnung
+nach § 81a StPO nur verwendet werden dürften, wenn die Beschwerdeführer zu 2)
+und 3) bei nachgeholter Belehrung in die Datennutzung eingewilligt hätten. Dies sei
+indes nicht der Fall. Auch der Vergleich mit § 108 StPO als geschriebener Ausnahmevorschrift gehe an der Sache vorbei, da diese im Datenschutzrecht nicht analogiefähig sei. Im Übrigen habe der Gesetzgeber den abschließenden Charakter der
+Regelung in § 81h StPO klar zum Ausdruck gebracht.
+
+ Zwar habe der Bundesgerichtshof festgestellt, die vorliegende Gesetzesverletzung         36
+sei von erheblichem Gewicht, jedoch stehe zu befürchten, dass der Bundesgerichtshof lediglich berücksichtigt habe, dass es für das Verhalten der Ermittlungspersonen
+an einer tauglichen Rechtsgrundlage gefehlt habe. Darüber hinaus sei nämlich zu beachten, dass bei der Beurteilung der Schwere des Verstoßes auch zu berücksichtigen sei, dass die tatsächliche Verwendung der DNA-Proben nicht durch die Einwilligung der Beschwerdeführer zu 2) und 3) gedeckt gewesen sei.
+
+ Selbst bei so gravierenden Verbrechen wie einer besonders schweren Vergewaltigung komme auch nach der Abwägungslehre nicht stets der unbedingten Wahrheitssuche der Vorrang zu. Der Bundesgerichtshof habe sich vom Gewicht der vorliegenden Straftat „aber anscheinend unterschwellig leiten lassen“. Dabei sprächen alle
+sonstigen Kriterien der Abwägungslehre für ein Beweisverwertungsverbot.
+
+  Die Beschwerdeführer zu 2) und 3) würden durch das angegriffene Urteil in ihren         38
+Grundrechten aus Art. 2 Abs. 1 GG in Verbindung mit Art. 1 GG (Recht auf informationelle Selbstbestimmung) sowie Art. 6 Abs. 1 GG verletzt. Auch hinsichtlich der Beschwerdeführer zu 2) und 3) biete § 261 StPO vorliegend keine hinreichende Rechtfertigung für die Eingriffe, da Landgericht und Bundesgerichtshof in
+verfassungswidriger Weise ein Beweisverwertungsverbot verneint hätten.
+
+                                          III.
+ Die Verfassungsbeschwerde ist nicht zur Entscheidung anzunehmen, da die Voraussetzungen des § 93a Abs. 2 BVerfGG nicht vorliegen. Die maßgeb- lichen verfassungsrechtlichen Fragen sind bereits geklärt (§ 93a Abs. 2 Buchst. a BVerfGG). Die
+Annahme ist auch nicht zur Durchsetzung der in § 90 Abs. 1 BVerfGG genannten
+Rechte der Beschwerdeführer angezeigt (§ 93a Abs. 2 Buchst. b BVerfGG), da die
+Verfassungsbeschwerde keine Aussicht auf Erfolg hat (vgl. BVerfGE 90, 22 <24 ff.>).
+Sie ist unter anderem wegen einer nicht den gesetzlichen Anforderungen genügenden Begründung unzulässig (1., 2.). In der Sache wäre sie zudem, ohne dass die
+Kammer darüber abschließend befinden müsste, unbegründet (3.).
+
+ 1. Eine § 23 Abs. 1 Satz 2, § 92 BVerfGG genügende Begründung der Verfassungsbeschwerde setzt voraus, dass der die Rechtsverletzung enthaltende Vorgang
+substantiiert und schlüssig vorgetragen wird (vgl. BVerfGE 81, 208 <214>; 89, 155
+
+
+                                         10/16
+
+<171>; 99, 84 <87>; 108, 370 <386 f.>; 113, 29 <44>). Bei einer gegen eine gerichtliche Entscheidung gerichteten Verfassungsbeschwerde hat der Beschwerdeführer
+sich mit dieser inhaltlich auseinanderzusetzen (vgl. BVerfGE 82, 43 <49>; 86, 122
+<127>; 88, 40 <45>; 105, 252 <264>). Es muss deutlich werden, inwieweit durch die
+angegriffene Maßnahme das bezeichnete Grundrecht verletzt sein soll (vgl. BVerfGE
+78, 320 <329>; 99, 84 <87>; 115, 166 <179 f.>). Liegt zu den mit der Verfassungsbeschwerde aufgeworfenen Fragen bereits Rechtsprechung des Bundesverfassungsgerichts vor, aus der sich der behauptete Grundrechtsverstoß nicht ohne weiteres
+ergibt, so ist dieser in Auseinandersetzung mit den vom Bundesverfassungsgericht
+entwickelten Maßstäben zu begründen (vgl. BVerfGE 77, 170 <214 ff.>; 99, 84 <87>;
+101, 331 <345 f.>; 123, 186 <234>).
+
+  a) Ein Beweisverwertungsverbot stellt nach der Rechtsprechung des Bundesverfassungsgerichts von Verfassungs wegen eine begründungsbedürftige Ausnahme dar,
+weil es die Beweismöglichkeiten der Strafverfolgungsbehörden zur Erhärtung oder
+Widerlegung des Verdachts strafbarer Handlungen einschränkt und so die Findung
+einer materiell richtigen und gerechten Entscheidung beeinträchtigt. Grundrechtsverletzungen, zu denen es außerhalb der Hauptverhandlung gekommen ist, führen daher nicht zwingend dazu, dass auch das auf dem Inbegriff der Hauptverhandlung beruhende Strafurteil gegen Verfassungsrecht verstößt. Aus verfassungsrechtlicher
+Sicht ist ein Beweisverwertungsverbot geboten, wenn die Auswirkungen des Rechtsverstoßes dazu führen, dass dem Angeklagten keine hinreichenden Möglichkeiten
+zur Einflussnahme auf Gang und Ergebnis des Verfahrens verbleiben, die Mindestanforderungen an eine zuverlässige Wahrheitserforschung nicht mehr gewahrt sind
+oder die Informationsverwertung zu einem unverhältnismäßigen Eingriff in das allgemeine Persönlichkeitsrecht führen würde. Zudem darf eine Verwertbarkeit von Informationen, die unter Verstoß gegen Rechtsvorschriften gewonnen würden, nicht bejaht werden, wo dies zu einer Begünstigung rechtswidriger Beweiserhebungen
+führen würde. Ein Beweisverwertungsverbot kann daher insbesondere nach schwerwiegenden, bewussten oder objektiv willkürlichen Rechtsverstößen, bei denen
+grundrechtliche Sicherungen planmäßig oder systematisch außer Acht gelassen worden sind, geboten sein (BVerfGE 130, 1 <28>; vgl. auch BVerfGE 113, 29 <61>; 125,
+260 <339 f.>).
+
+  Das Bundesverfassungsgericht erkannte in seiner Rechtsprechung ausdrücklich          42
+an, dass die Abwägungslösung des Bundesgerichtshofs und die von ihm herangezogenen Kriterien den verfassungsrechtlichen Anforderungen entsprechen, die sich
+aus dem Recht auf ein faires Verfahren ergeben (BVerfGE 130, 1 <31>). Nach dieser
+unbeanstandet gebliebenen ständigen Rechtsprechung des Bundesgerichtshofs
+führt ein Rechtsverstoß bei der Beweiserhebung nicht ohne weiteres zur Unverwertbarkeit der dadurch erlangten Erkenntnisse. Es bedarf in jedem Einzelfall einer Abwägung der für und gegen die Verwertung sprechenden Gesichtspunkte. Für die Verwertbarkeit spricht stets das staatliche Aufklärungsinteresse, dessen Gewicht im
+konkreten Fall vor allem unter Berücksichtigung der Verfügbarkeit weiterer Beweis-
+
+
+
+                                        11/16
+
+mittel, der Intensität des Tatverdachts und der Schwere der Straftat bestimmt wird.
+Auf der anderen Seite muss berücksichtigt werden, welches Gewicht der Rechtsverstoß hat. Dieses wird im konkreten Fall vor allem dadurch bestimmt, ob der Rechtsverstoß gutgläubig, fahrlässig oder vorsätzlich begangen wurde, welchen Schutzzweck die verletzte Vorschrift hat, ob der Beweiswert beeinträchtigt wird, ob die
+Beweiserhebung hätte rechtmäßig durchgeführt werden können und wie schutzbedürftig der Betroffene ist. Verwertungsverbote hat der Bundesgerichtshof insbesondere bei grober Verkennung oder bewusster Missachtung der Rechtslage angenommen (BVerfGE 130, 1 <29 f.> m.w.N. zur Rechtsprechung des Bundesgerichtshofs).
+
+  Das Bundesverfassungsgericht prüft die von den Fachgerichten vorgenommene             43
+Abwägung nicht im Einzelnen nach. Die Beurteilung der Frage, welche Folgen ein
+möglicher Rechtsverstoß hat und ob er zu einem Beweisverwertungsverbot führt, obliegt in erster Linie den zuständigen Fachgerichten. Das Bundesverfassungsgericht
+beschränkt sich auf die Kontrolle, ob die Fachgerichte in verfassungsrechtlich erheblicher Weise den Schutzbereich einer verletzten Norm und eines betroffenen Grundrechts verkannt, die weiteren Anforderungen für die Annahme eines Verwertungsverbots nach einem Rechtsverstoß bei der Informationserhebung oder -verwendung
+überspannt und rechtsstaatliche Mindeststandards gewahrt haben (BVerfGE 130, 1
+<31 f.>).
+
+ b) Gemessen an diesem Maßstab zeigt die Verfassungsbeschwerde keinen Verstoß gegen den Grundsatz des fairen Verfahrens auf.
+
+ aa) Soweit die Beschwerdeführer einzelne Aspekte aus der Abwägungsentscheidung herauslösen und verfassungsrechtlich beanstanden, gelingt es der Verfassungsbeschwerde nicht, einen Verfassungsverstoß darzutun. Auch soweit sie dem
+Bundesgerichtshof einen Abwägungsausfall vorwerfen, greift ihre Argumentation
+nicht durch.
+
+ Zunächst kann die Verfassungsbeschwerde mit der Kritik, der Bundesgerichtshof          46
+habe den Willkürbegriff verkannt, nicht durchdringen. Die Verfassungsbeschwerde
+übersieht dabei, dass der Bundesgerichtshof in seinen Formulierungen sehr wohl zu
+erkennen gegeben hat, dass die Feststellung von Willkür keinen subjektiven Schuldvorwurf enthält, sondern Willkür im objektiven Sinne zu verstehen ist als eine Maßnahme, welche im Verhältnis zu der Situation, der sie Herr werden will, tatsächlich
+und eindeutig unangemessen ist (vgl. BVerfGE 80, 48 <51>; 86, 59 <62>). Entscheidend ist, dass die Rechtsanwendung nicht mehr verständlich ist und sich daher der
+Schluss aufdrängt, dass sie auf sachfremden Erwägungen beruht (vgl. BVerfGE 80,
+48 <51>; 86, 59 <63>). Auch wenn die Formulierung „bewusst oder gar willkürliche
+Umgehung des Gesetzes“ in der angefochtenen Entscheidung des Bundesgerichtshofs missverständlich sein mag - wenngleich sie dem allgemeinen Sprachgebrauch
+entspricht - ergibt sich jedoch aus dem - von den Beschwerdeführern nicht berücksichtigten - Kontext dieses Satzes, dass der Bundesgerichtshof die objektive Vertretbarkeit als Kontrollmaßstab genommen hat. Denn einen Satz zuvor statuiert er: „An-
+
+
+
+                                        12/16
+
+gesichts dieser Umstände war die Annahme der Ermittlungsbeamten nicht völlig unvertretbar, […]“. Dies zeigt, dass der Bundesgerichtshof keine subjektiven Elemente
+in den Willkürbegriff implementiert hat.
+
+  Die Beschwerdeführer verkennen, dass zum Zeitpunkt der angegriffenen Entscheidungen die Rechtslage nicht eindeutig, sondern auslegungsfähig und -bedürftig war.
+Soweit die Verfassungsbeschwerde hinsichtlich der Rechtsanwendung bei sogenannten Beinahetreffern zum Zeitpunkt der tatgerichtlichen Entscheidungen eine eindeutige Rechtslage attestiert, spiegelt sich dies in § 81h StPO und im damaligen
+Schrifttum nicht wider. Das Landgericht und der Bundesgerichtshof haben in ihren
+Urteilen jeweils darauf hingewiesen, dass die Frage in Rechtsprechung und Literatur
+zum Zeitpunkt der Entscheidung nicht hinreichend geklärt gewesen sei (im Ergebnis
+ebenso Hüttenrauch, NJ 2013, S. 218; Kanz, ZJS 2013, S. 518 <520>). Lediglich auf
+einen Aufsatz aus dem Jahr 2011 wurde in den angefochtenen Urteilen verwiesen. In
+diesem wurde mit Blick auf die vorliegende Fallkonstellation kein Verstoß gegen
+§ 81h StPO, insbesondere auch kein Beweisverwertungsverbot angenommen (Brocke, StraFo 2011, S. 298). Erst durch die vorliegend angegriffene Rechtsprechung
+und deren Besprechung in der Literatur wurde die Problematik sogenannter Beinahetreffer weitergehend thematisiert (dem Bundesgerichtshof im Wesentlichen zustimmend Busch, NJW 2013, S. 1771 <1774>; Löffelmann, JR 2013, S. 277; Paul, NStZ
+2013, S. 489; Rogall, JZ 2013, S. 874; im Wesentlichen dagegen: Hunsmann, StRR
+4/2013, S. 142; Jahn, JuS 2013, S. 470 <472>; Kanz, ZJS 2013, S. 518; Swoboda,
+StV 2013, S. 461 <469>).
+
+ Zwar ist zuzugeben, dass § 81h Abs. 1 StPO klar formuliert ist, soweit er die Verwendung der DNA-Proben auf die Feststellung beschränkt, ob das Spurenmaterial
+von den Probengebern stammt. Dies erkennt auch der Bundesgerichtshof an. Gleichwohl ist die Regelung in § 81h Abs. 1 StPO insofern nicht eindeutig (gewesen), als
+der Umgang mit sogenannten Beinahetreffern keine Regelung gefunden hat. Darüber hat sich der Gesetzgeber auch offensichtlich keine Gedanken gemacht (Kanz,
+ZJS 2013, S. 518 <520>). Soweit die Verfassungsbeschwerde behauptet, der Gesetzgeber habe den abschließenden Charakter der Regelung in § 81h StPO klar zum
+Ausdruck gebracht, kann dies aus dem in der Verfassungsbeschwerde zitierten bloßen Hinweis in der Gesetzesbegründung, die aufgetretenen Rechtsunsicherheiten
+würden mit der Regelung beseitigt (vgl. BTDrucks 15/5674, S. 7), insbesondere für
+die Behandlung von Beinahetreffern, nicht hergeleitet werden. Der abschließende
+Charakter ist vielmehr lediglich dahingehend zu verstehen, dass Reihenuntersuchungen ausschließlich nach der Vorschrift des § 81h StPO zu behandeln sind (vgl. Krause, in: Löwe-Rosenberg, StPO, 26. Aufl. 2008, § 81h Rn. 5). Dies sagt jedoch nichts
+zu der vorliegenden Problematik der Behandlung sogenannter Beinahetreffer.
+
+  Zum Zeitpunkt der fachgerichtlichen Entscheidungen war die Rechtslage damit unklar. Nach der Veröffentlichung der vorliegend angegriffenen Entscheidungen und für
+zukünftige Fälle von Beinahetreffern kann das Argument der ungeklärten Rechtslage
+jedoch nicht mehr herangezogen werden (vgl. Jahn, JuS 2013, S. 470 <472>). Inso-
+
+
+                                       13/16
+
+weit ist die Rechtslage für zukünftige Fallgestaltungen geklärt. Dies sehen im Ergebnis auch beide angefochtenen Urteile, die konkret auf den Einzelfall bezogen („hier“;
+vgl. Bundesgerichtshof, Urteil vom 20. Dezember 2012 - 3 StR 117/12 -, juris, Rn.
+30, 34) „ausnahmsweise“ (vgl. Bundesgerichtshof, Urteil vom 20. Dezember 2012 - 3
+StR 117/12 -, juris, Rn. 30) noch von der Verwertbarkeit ausgehen.
+
+ Soweit die Verfassungsbeschwerde vorträgt, aus der unklaren Rechtslage folge eine Vermutung für die Rechtswidrigkeit der Maßnahmen, lässt sich dies der von den
+Beschwerdeführern genannten Rechtsprechung nicht entnehmen. Zudem setzen
+sich die Beschwerdeführer in diesem Zusammenhang nicht näher damit auseinander, welche Bedeutung dem letztlich für die Abwägungsentscheidung hinsichtlich der
+Beweisverwertung zukommen soll. Überdies entstünde, folgte man der Argumentation der Verfassungsbeschwerde, die vermeintlich klare Rechtslage erst durch die Anwendung der von den Beschwerdeführern genannten Vermutungsregel, läge also gerade nicht klar zu Tage. Wenn sich die Beschwerdeführer gegen die Heranziehung
+des in den vom Bundesgerichtshof zitierten, Zufallsfunde betreffenden Vorschriften
+zugrundeliegenden Rechtsgedankens wenden (insbesondere in § 108 StPO), verkürzen sie ihre Argumentation auf die vermeintlich abschließende Regelung des
+§ 81h StPO, die - wie aufgezeigt - allerdings Beinahetreffer überhaupt nicht erfasst.
+
+  Soweit die Verfassungsbeschwerde anführt, der Bundesgerichtshof habe zwar festgestellt, die vorliegende Gesetzesverletzung sei von erheblichem Gewicht, jedoch
+stehe zu befürchten, dass der Bundesgerichtshof lediglich berücksichtigt habe, dass
+es für das Verhalten der Ermittlungspersonen an einer tauglichen Rechtsgrundlage
+gefehlt habe, genügt dies ebenfalls nicht den Begründungsanforderungen. Zum einen handelt es sich bei den Ausführungen um schlichte Vermutungen („steht jedoch
+zu befürchten“), ohne dass diese von den Beschwerdeführern aufgestellte Behauptung anhand des Urteils des Bundesgerichtshofs belegt wird oder sich anderweitig
+verifizieren lässt. Zum anderen ist der Ansatz in der Verfassungsbeschwerde zirkelschlüssig.
+
+ bb) Überdies geht die Argumentation der Beschwerdeführer, der Bundesgerichtshof        52
+habe sich vom Gewicht der vorliegenden Tat als gravierendes Verbrechen „anscheinend unterschwellig leiten lassen“, über eine bloße Behauptung nicht hinaus.
+
+  Zu kurz greift des Weiteren die Argumentation, „alle sonstigen Kriterien der Abwägungslehre [sprächen] für ein Beweisverwertungsverbot“. Auch dies erschöpft sich in
+einer pauschalen Behauptung, ohne die sonstigen Kriterien zu benennen oder den
+Sachverhalt hierunter zu subsumieren. Zudem versäumt es die Verfassungsbeschwerde damit den Abwägungsvorgang mit all seinen Kriterien umfassend zu würdigen und auf der Grundlage der nur eingeschränkten verfassungsgerichtlichen Prüfungskompetenz hinsichtlich der von den Fachgerichten vorgenommenen Abwägung
+einen Verstoß gegen Verfassungsrecht darzutun.
+
+ 2. Soweit die Verfassungsbeschwerde darüber hinaus mittelbar auch die Vorschrift       54
+des § 81h StPO angreift, zeigt sie nicht auf, weshalb durch diese Norm Verfassungs-
+
+
+                                        14/16
+
+recht verletzt sein soll. Soweit die Verfassungsbeschwerde mit Blick auf den vorliegenden Fall darauf abstellt, dass das gesetzgeberische Ziel, die in der Praxis auftretenden Rechtsunsicherheiten zu beseitigen und die rechtsstaatliche Ausgestaltung
+zu verbessern, leerlaufe, wenn bei klaren Verstößen keine wirksame Sanktionierung
+durch Beweisverwertungsverbote erfolge, kann die Verfassungsbeschwerde weder
+im vorliegenden Fall noch darüber hinaus darlegen, dass dies unter Anwendung
+der gegenwärtig praktizierten und in der Rechtsprechung des Bundesverfassungsgerichts gebilligten Abwägungslösung des Bundesgerichtshofs nicht erreicht werden
+könnte. Dies gilt umso mehr, weil der Bundesgerichtshof deutlich hat erkennen lassen, dass er im vorliegenden Einzelfall angesichts der zum Entscheidungszeitpunkt
+offenen Rechtslage nur ausnahmsweise noch von der Verwertbarkeit der Beinahetreffer ausgegangen ist und einer Verwertung derartiger Beinahetreffer, nachdem die
+Rechtslage nunmehr durch die Entscheidung der Fachgerichte geklärt ist, künftig widersprechen wird (vgl. dazu Busch, NJW 2013, S. 1771 <1774>).
+
+  3. Nach dem Ausgeführten dürfte die Verfassungsbeschwerde schließlich auch unbegründet sein. Bei Berücksichtigung des eingeschränkten verfassungsgerichtlichen
+Prüfungsmaßstabes (vgl. dazu BVerfGE 130, 1 <31 f.>) ist nicht erkennbar, dass der
+Bundesgerichtshof den Schutzbereich von § 81h StPO oder der betroffenen Grundrechte verkannt hätte oder die Anforderungen für die Annahme eines Verwertungsverbots überspannt oder rechtsstaatliche Mindeststandards nicht gewahrt hätte. Vielmehr hat sich der Bundesgerichtshof mit allen abwägungsrelevanten
+Gesichtspunkten umfassend auseinandergesetzt. Dass er dabei zwar einen gewichtigen Verstoß angenommen hat, im Rahmen der Abwägung im konkreten Fall - unter
+besonderer Berücksichtigung der unklaren Rechtslage - aber zu dem Ergebnis gelangte, ein Beweisverwertungsverbot sei im vorliegenden Fall noch nicht anzunehmen, ist daher von Verfassungs wegen nicht zu beanstanden.
+
+ Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                    57
+
+               Landau               Kessal-Wulf               König
+
+
+
+
+                                         15/16
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Zweiten Senats vom
+13. Mai 2015 - 2 BvR 616/13
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom
+                13. Mai 2015 - 2 BvR 616/13 - Rn. (1 - 57), http://www.bverfg.de/e/
+                rk20150513_2bvr061613.html
+
+ECLI             ECLI:DE:BVerfG:2015:rk20150513.2bvr061613
+
+
+
+
+                                       16/16
