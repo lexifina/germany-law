@@ -1,0 +1,95 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399527
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399527
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 10: sonstiges
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1.: Standort Kulturstrand 2015 (und folgende Jahre)
+- TOP 3.2.: StuStaCulum vom 03.06. bis 06.06.2015 in der Studentenstadt Freimann
+- TOP 3.3.: Inklusion im Kindertageseinrichtungs- und Schulbereich ? Umsetzung der UN-Behindertenrechtskonvention (Sachstandsbericht und Konzeption) Beschlussentwurf für den Bildungsausschuss am 08.07.2015
+- TOP 3.4.: MEA Sommerevent , Occamstraße, am 13.06.2015
+- TOP 3.5.: Wiese am Haidpark ? Mobile Spielaktion am 24.06.2015
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Chancengleichheit Gymnasien
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Wienerwald?, Schank- und Speisewirtschaft, Karl-Theodor-Straße 45
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Neue Bädereintrittspreise (Information der SWM)
+- TOP 5.3.2.: Zuwendungsbewilligungen / Bescheide a) Initiative ?84 Ghz ? Raum für Gestaltung? für die Veranstaltung ?Kunst im Karreé? vom 10.-12.07.2015 in Höhe von 1.500,00 ? b) Initiative ?Domagkpark? für die Info-Veranstaltung am 06.05.2015 in Höhe von 250,00 ? c) BieBie Künstlerquartier für das Straßenkunst-Projekt ?Ein Platz für alle? am 16./17.05.2015 in Höhe von 1.200,00 ?
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Ungererstraße 163, Fl.Nr.: 963/0, Abbruch eines erdgeschossigen Ladens sowie Neubau eines Mehrfamilienhauses (20 WE) mit Tiefgarage (22 Stpl.), Fällungen gemäß Plan
+- TOP 3.1.2.: Osterwaldstraße 25, Fällung von 10 Bäumen
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Finauerstraße 11, Fl.Nr.: 106/11, Erweiterung (Anbau) eines Dreifamilienhauses (auf allen Geschossen) mit Ausbildung 2er Dachterrassen
+- TOP 3.2.2.: Münchner Freiheit 7, Fl.Nr.: 340/5, Fassadenerneuerung und Erweiterungsbau Blumenladen im ?Forum Münchner Freiheit - Flowers4Germany?
+- TOP 3.2.3.: Leopoldstraße, Fl.Nr.: 915/8, Austausch einer City-Light-Säule
+- TOP 3.2.4.: Heidemannstraße 41 b, Fl.Nr.: 228/5, Unterbringung von Flüchtlingen und Wohnungslosen ? Nutzungsänderung eines Einfamilienhauses in eine zentrale Inobhutnahmestelle für unbegleitete minderjährige Flüchtlinge
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Unterstützung zum Erhalt des Heinrich-Mann-Hauses, Leopoldstraße 59
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Entfernung der Streusandbehälter in der warmen Jahreszeit
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Am Tucherpark 12, Fl.Nr.: 1202/1, Fällung von zwei Robinien
+- TOP 5.2.2.: Wilhelm-Wagenfeld-Straße 11, Fällung von drei Serbischen Fichten (Baureferat-Gartenbau)
+- TOP 5.2.3.: Hölzweg 16, Fällung einer Fichte
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Städtebauliche Entwicklungsmaßnahme Funkkaserne ? Bebauungsplan mit Grünordnung Nr. 1943 b Bauquartier WA 8 (West) ? Modell-Projekt Werksmietwohnungsbau Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015, Sitzungsvorlage Nr.: 14-20 / V 02675
+- TOP 5.3.2.: Gartenstädte: Erhalt des Charakters und bauliche Entwicklung ? Stand und Ausblick Sitzungsvorlage Nr. 14-20 / V 00909; Beschluss der Vollversammlung des Stadtrates vom 29.04.2015 ? Neufassung
+- TOP 5.3.3.: Urbane Gemeinschaftsgärten in München; Sitzungsvorlage Nr. 14-20 / V 02503; Beschluss der Vollversammlung des Stadtrates vom 29.04.2015 ? Neufassung
+- TOP 5.3.4.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2024 ? Lilienthalallee (westlich), Maria-Probst-Straße (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nrn. 1404a und 1505a ? Baumarkt-Fachzentrum und Oldtimer- und Sportwagen-Zentrum) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015 Sitzungsvorlage Nr.: 14-20 / V 02846
+- TOP 5.3.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/48 ? Heidemannstraße (südlich), Lilienthalallee (westlich), Maria-Probst-Straße (östlich) ? ehemaliges Ausbesserungswerk Freimann (Endgültiger Besachluss), Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015, Sitzungsvorlage Nr.: 14-20 / V 02871
+- TOP 5.3.6.: Bebauungsplan mit Grünordnung Nr. 1913, Rümannstraße (südlich), Isoldenstraße (west-lich), Sitzungsvorlage Nr.: 14-29 / V 02631, Beschluss des Bauausschusses vom 12.05.2015
+- TOP 1: Anträge (4)
+- TOP 1.1.: Raserei auf der Leopoldstraße
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Umbau der Feilitzschstrraße a) Aufhebung der Einbahnregelung in einem Abschnitt der Siegesstraße b) Errichtung eines absoluten Haltverbotes in der Siegesstraße c) Verlegung eines Behindertenparkplatzes in der Occamstraße
+- TOP 5.2.2.: Errichtung eines absoluten Haltverbots in der Hans-Döllgast-Straße
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Entwurfsplanung Heidemannstraße ? zwischen Lützelsteiner Straße und Freisinger Landstraße (Planung unverändert)
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Osterwald e.V. Projekt "Werkstadt 2015" im Mai/Juni 2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Freizeittreff Freimann Mädchenwochenende am Walchensee vom 26. bis 28.06.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Freizeittreff Freimann ?Spiel Spaß Spannung? im Carl-Orff-Bogen Park am 05.08.2015
+- TOP 3.6.: Schulbauoffensive 2013/20130 ? Aktionsprogramm Schul- und Kita-Bau Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen - Beschlussentwurf -
+- TOP 2.1.: Aufstellen von Verkaufseinrichtungen, Münchner Freiheit 7
+- TOP 3.1.3.: Leopoldstraße 204, Fl.Nr. 894/5, Neubau 2er Wohngebäude und eines Hotels sowie Teil-Umplanung der TG-Rampenzufahrt, Fällung eines Baumes
+- TOP 3.2.5.: Viktoriastraße 26, Fl.Nr.: 379/17, Nutzungsänderung: Laden zu Kinderbetreuung
+- TOP 3.2.6.: Herzogstraße 24, Fl.Nr.: Zusammenlegung zweier Wohnungen, Anbau eines Personenaufzuges
+- TOP 3.2.7.: Lindberghstraße 19, Fl.Nr.: 170/130, Aufstockung Ateliergebäude
+- TOP 1.2.: Aufstellung von Mülleimern an den Zugängen zur Fröttmaninger Heide
+- TOP 1.3.: Beseitigung der Kampfmittel in der Fröttmaninger Heide
+- TOP 3.1.1.: Haltverbot am Wartburgplatz
