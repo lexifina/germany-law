@@ -1,0 +1,76 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-05-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556662
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556662
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Schlüsselbergstraße 38 - Aufstellung von Zeitungsverkaufseinrichtungen auf öff. Grund
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2097 - Anzinger Str. 23/29 - Einleitungs- und Aufstellungsbeschluss -
+- TOP 3.2.: Kraiburger Str. 11 - Neubau eines Dreispänners mit 2 Garagen
+- TOP 3.3.: Kreillerstr. 131 - Neubau eines Boardinghauses mit Wohnungen und Tiefgarage
+- TOP 3.4.: Sinnvolle Verbindungen am Ostbahnhof schaffen: Ausbau der Fußgängertunnel; Antrag der CSU-Fraktion
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Verkehrssicherheit im Bereich Friedenstraße / Ausgang Ostbahnhof
+- TOP 3.2.: Nachhaltige Verkehrsprognose aller Verkehrsteilnehmer auf Basis digitaler Daten; Antrag der CSU-Fraktion
+- TOP 3.3.: Optimierung der Lichtsignalanlagentaktung an der Kreuzung Anzinger Straße/ Rosenheimer Straße; Antrag der SPD-Fraktion
+- TOP 3.4.: Piusplatz - Anhörungsverfahren für das Nachbarschafts-Sommerfest am 21.06.2015
+- TOP 3.5.: Westerhamer- / Achentalstraße - Anhörungsverfahren für das Fußballturnier um den Pertisaupokal am 26.06.2015
+- TOP 3.6.: Festplatz Grünanlage St.-Veit-Straße - Anhörungsverfahren für das Kinderfest des BA 14 am 20.06.2015
+- TOP 3.7.: Nahversorgung in Berg am Laim fördern; Antrag der SPD-Fraktion
+- TOP 3.1.: Raumsituation der Mittelschule am Inzeller Weg; Antrag aus dem UA
+- TOP 3.2.: Errichtung des ?Campus Ost? an der bisherigen Bezirkssportanlage an der Fehwiesenstraße; Antrag aus dem UA
+- TOP 3.3.: Inklusion im Kindertageseinrichtungs- und Schulbereich - Umsetzung der UN-Behindertenrechtskonvention - Sachstandsbericht und Konzeption - Vorlagen-Nr. 14-20 / V 02934 Anhörung durch das Referat für Bildung und Sport
+- TOP 3.3.: Budget der Bezirksausschüsse "Initiative Sommerfest" Unterstützung des Sommerfestes auf dem Piusplatz am 21.06.2015 Antragssumme: 645,50 ? Antrag vom 29.04.15
+- TOP 3.4.: Budget der Bezirksausschüsse "Initiative Weltspieltag" Unterstützung der Veranstaltung Weltspieltag am 28.05.2015 Antragssumme: 645,50 ? Antrag vom 29.04.15
+- TOP 3.5.: Budget der Bezirksausschüsse "Initiative Weltkindertag" Unterstützung der Veranstaltung Weltkindertag am 20.09.2015 Antragssumme: 645,50 ? Antrag vom 29.04.15
+- TOP 3.1.: Halfinger Straße 31
+- TOP 3.2.: Neumarkter Str. 93
+- TOP 3.3.: Truderinger Str. 49
+- TOP 3.4.: Sturmiusweg 28 / 30
+- TOP 3.5.: Fehwiesenstraße 58
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Strukturkonzept Gewerbegebiet Neumarkter Straße
+- TOP 4.3.: Mittel- und langfristiges Nutzungskonzept des Areals an der Heinrich-Wieland-Straße / St.-Michael-Straße
+- TOP 4.4.: Namensgebung für den Weg zwischen Kreillerstraße und Gustav-Schwab-Straße
+- TOP 4.5.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick - Vorlagen-Nr. 14 - 20 / V 00909
+- TOP 4.6.: Beseitigung höhengleicher Bahnübergänge - Vorlagen-Nr. 14-20 / V 02324
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Urbane Gemeinschaftsgärten in München - Ergänzung zu Vorlagen-Nr. 14-20 / V 02503
+- TOP 4.1.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012 Vorlagen-Nr. V 14-20 / V 01862
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.1.3: Unterausschuss Bildung, Betreuung, Familien, Sport
+- TOP 5.1.3.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.1.3.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.1.3.5.2.: Ankündigungen
+- TOP 5.1.3.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse streitfeld offen Künstlerinitiative Atelierwochenende ?streitfeld offen? vom 19. bis 21.06.2015 Antragssumme: 2.677,- ? Beschlussvorlage vom 30.04.15
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Mag's and More e.V., Nachbarschaftstreff Maikäfersiedlung Kinderprogramm beim Sommerfest am 04.07.2015 Antragssumme: 1.000,- ? Beschlussvorlage vom 30.04.15
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
