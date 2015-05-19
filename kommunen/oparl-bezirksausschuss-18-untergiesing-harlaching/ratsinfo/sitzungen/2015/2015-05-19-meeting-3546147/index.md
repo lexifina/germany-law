@@ -1,0 +1,126 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3546147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3546147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: A) Zone 30 an der Ecke Perlacher Forst / Theodolindenstraße B) Asphaltierung (Neu) Perlacher Forst (zwischen Jollystraße und Theodolindenstraße; Bürgerschreiben vom 18.04.2015
+- TOP 2.2.: Nachverdichtung Hochkalterstraße; Bürgerschreiben vom 01.05.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V., für die Maßnahme: Waldfest 2015; Antragssumme: ?; Antrag vom 19.04.2015
+- TOP 3.1.: Budget der Münchner Bezirksausschüsse; Neuberechnung aufgrund der gestiegenen Verbrauchskosten und entsprechende Anhebung; BA-Antrag Nr. 14-20 / B 00301; Zwischennachricht des Direktoriums vom 04.05.2015 mit der Bitte um Fristverlängerung
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Rabenkopfstraße - Ortstermin mit dem Baureferat-Tiefbau und dem KVR (Sanierung / verkehrsberuhigende Maßnahmen / Diskussion Gesamtkonzept) - verwiesen aus der Sitzung vom 21.04.2015
+- TOP 3.2.: Säbener Straße - Sanierung zwischen Naupliastraße und Oberbiberger Straße - Ortstermin mit dem Baureferat-Gartenbau und Baureferat-Tiefbau - verwiesen aus der Sitzung vom 21.04.2015
+- TOP 1.1.: Radwege in beide Richtungen zu befahren im 18. Stadtbezirk; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 21.04.2015) - <div>nach Antrag</div>
+- TOP 1.2.: Sanierung der Bahn-Unterführung Perlacher Forst, Höhe "Nußbaumranch"; Antrag der SPD-Fraktion vom 30.04.2015 - <div>nach Antrag</div>
+- TOP 1.3.: Warn- / Sicherheitshinweisschilder am Eingang zum Perlacher / Grünwalder Forst, Höhe "Giesinger Waldhaus"; Antrag der SPD-Fraktion vom 30.04.2015 - <div>nach Antrag</div>
+- TOP 1.1.: Fahrradabstellplätze in der Canabichstraße; BA-Antrag Nr. 14-20 / B 00587 vom 18.11.2014; Vormerkung des Referates für Stadtpl. u. Bauordnung vom 28.04.2015 zum Ortstermin vom 13.04.2015 - Umwandlung eines Kfz-Stellplatzes in der Voßstraße und Errichtung von Fahrradbügeln - Bitte um Stellungnahme
+- TOP 1.1.: Umgestaltung des Grünstreifenabschnitts Theodolindenplatz / Ecke Geiselgasteigstraße - Nord; Befestigung durch Anlegen eines Bürgersteigs; BA-Antrag Nr. 14-20 / B 01006; Antwortschreiben des Baureferats-Tiefbau vom 21.04.2015 (negative Erledigung)
+- TOP 1.2.: Bushaltestelle Kolumbusplatz - Abhängung der Hebenstreitstraße erst westlich des Giesinger Bergs; BA-Antrag Nr. 14-20 / B 00681; Antwortschreiben des KVR vom 17.04.2015 (negative Erledigung)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Umgestaltung der stillgelegten Bushaltestelle am Kolumbusplatz; BA-Antrag Nr. 14-20 / B00680 vom 16.12.2014; Antwortschreiben des Baureferats-Tiefbau vom 20.04.2015 (positive Erledigung)
+- TOP 1.5.: Verkehrssituation in der Schönstraße - Fußgängerüberweg oder Lichtzeichenanlage; Bürgeranliegen vom 28.01.2015; Antwortschreiben des KVR vom 29.04.2015 (neutrale Erledigung)
+- TOP 1.1.: Beseitigung höhengleicher Bahnübergänge; Sitzungsvorlage Nr. 14-20 / V 02324; Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015
+- TOP 1.2.: Tram - Tegernseer Landstraße - Verbesserung des anliegenden Straßenraums im 17. Stadtbezirk Obergiesing-Fasangarten; Finanzierung für die öffentlichen Verkehrsflächen; Sitzungsvorlage Nr. 14-20 / V 02387; Beschluss des Bauausschusses vom 21.04.2015 (SB)
+- TOP 1.3.: Straßenausbaubeitragssatzung - Beitragserlass für bereits abgeschlossene Maßnahmen; Sitzungsvorlage Nr. 14-20 / V 02686; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 1.1.: Lärmsanierungsmaßnahmen an Eisenbahnüberführungen in München - Untergiesing; Information der DB Projekt Bau GmbH vom 20.04.2015 (vertagt aus der Sitzung vom 21.04.2015)
+- TOP 1.3.3: UA Umwelt und Gesundheit
+- TOP 1.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Karneidstraße 20; Genehmigungsbescheid vom 28.04.2015
+- TOP 1.2.: Info-Broschüre zur Verpackungsverordnung; Zuleitung des AWM vom 27.04.2015
+- TOP 1.3.: Verbot von Laubbläsern durch die Stadt München; Laubbläserverbot nach Grazer Vorbild - alternativ Umrüstung auf Elektrogeräte; Stadtratsantrag Nr. 14-20 / A 00344; Verbot von Laubbläsern; Empfehlung Nr. 14-20 / E 00291 der BÜV des Stadtbezirkes 18 vom 13.11.2014; Laubsauger (Ziffer 1 des Antrags); Empfehlung Nr. 14-20 / E 00321 der BÜV des Stadtbezirkes 9 vom 27.11.2014; Sitzungsvorlage Nr. 14-20 / V 02862; Beschluss des Umweltausschusses vom 05.05.2015 (VB)
+- TOP 1.4.: Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün; Sitzungsvorlage Nr. 14-20 / V 02645; Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015
+- TOP 1.5.: Urbane Gemeinschaftsgärten in München a) Urbane Gemeinschaftsgärten b) Behandlung der Anträge 1. Urbanes Gärtnern I: Flächen für Gemeinschaftsgärten in Neubaugebieten einplanen; Stadtratsantrag Nr. 14-20 / A 00199 2. Urbanes Gärtnern II: Mobile Gärten auf allen noch nicht bebauten Kasernen- u. Entwicklungsflächen ermöglichen! Stadtratsantrag Nr. 14-20 / A 00200 3. Urbanes Gärtnern III: Urban Gardening in allen Stadtvierteln; Stadtratsantrag Nr. 14-20 / A 00202; Sitzungsvorlagen Nr. 14-20 / V 02503; Beschluss der Vollversammlung des Stadtrates vom 29.04.2015; NEUFASSUNG vom 23.04.2015
+- TOP 1.6.: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Sitzungsvorlage Nr. 14-20 / V 01862; Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich; Umsetzung der UN-Behindertenrechtskonvention; Sachstandsbericht und Konzeption; Zuleitung des RBS mit der Bitte um Stellungnahme zum Beschlussentwurf bis zum 22.05.2015
+- TOP 1.1.: Unterkunft McGraw-Kaserne - Ort für Begegnungen in Giesing schaffen! BA-Antrag Nr. 14-20 / B 01001; Antwortschreiben des Sozialreferats vom 10.04.2015 (negative Erledigung)
+- TOP 1.2.: Information der LHM über das Nachmittagsangebot für Eltern mit Kleinkindern im 18. Stadtbezirk; BA-Antrag Nr. 14-20 / B 00303 vom 19.08.2014; Antwortschreiben des Sozialreferats vom 27.04.2015 (positive Erledigung)
+- TOP 1.1.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen - 4. Standortbeschluss; Sitzungsvorlage Nr. 14-20 / V 03051; Beschluss der Vollversammlung vom 29.04.2015
+- TOP 1.2.: Pilotprojekt München lebt interkulturelle Vielfalt - ein Angebot für die Bezirksausschüsse; weiteres Vorgehen; Unterrichtung des Sozialreferats vom 28.04.2015
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Bebauungsplan Säbener Straße 152 - 158; Bürgerschreiben vom 13.04.2015 (verwiesen aus der Sitzung vom 21.04.2015)
+- TOP 1.1.: Karolingerallee 35 - Verlängerung des Pachtvertrags für den Kopierladen; Auskunft zur weiteren Nutzung des Grundstücks; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Arnpeckstraße 10, Umbau und Sanierung einer Wohneinheit in einem Zweifamilienhaus mit Garage; Anhörung vom 16.04.2015 (vertagt aus der Sitzung vom 21.04.2015)
+- TOP 1.2.: Pilgersheimer Straße 44, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage; Anhörung vom 21.04.2015
+- TOP 1.3.: Karolingerallee 20, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (8 Stpl.); Anhörung vom 28.04.2015
+- TOP 1.4.: St.-Magnus-Straße 35, Neubau eines Wohnhauses mit Tiefgarage - VORBESCHEID; Anhörung vom 30.04.2015
+- TOP 1.5.: Meichelbeckstraße 1, TEKTUR - Neubau dreier Mehrfamilienhäuser mit Tiefgarage; Anhörung vom 30.04.2015
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 SSW "Muro Bistro Café", Pilgersheimer Straße 50; Mitteilung vom 27.04.2015
+- TOP 1.2.: Baufälle im 18. Stadtbezirk
+- TOP 1.3.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtsgärten; Beschluss des Kreisverwaltungsausschusses vom 28.04.2015 (VB); Sitzungsvorlage Nr. 14-20 / V 02910
+- TOP 1.4.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick; Sitzungsvorlage Nr. 14-20 / v 00909; Beschluss der Vollversammlung des Stadtrates vom 29.04.2015; NEUFASSUNG vom 24.04.2015
+- TOP 1.5.: Planungsstand für den Neubau des Kindergartens St. Franziskus an der Schönstraße 9 und des Horts St. Franziskus an der Arminiusstraße 17; Neubau Kindergarten St. Franziskus gemeinsam mit neuer Wohnbebauung rasch umsetzen; Stadtratsantrag Nr. 14-20 / A 00172 vom 11.08.2014; Sitzungsvorlage Nr. 14-20 / V 02586; Beschluss des Bildungsausschusses des Stadtrates vom 15.04.2015 (SB) - ERGÄNZUNG vom 15.04.2015
+- TOP 1.6.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.4.1 Anwesen Bruckenfischerstraße; Unterrichtung vom 07.04.2015 3.5.6.4.2 Anwesen Athener Straße; Unterrichtung vom 08.04.2015 3.5.6.4.3 Anwesen Bonteweg; Unterrichtung vom 07.04.2015 3.5.6.4.4 Anwesen Alois-Wohlmuth-Straße; Unterrichtung vom 05.05.2015
+- TOP 1.1.: Hauberrißerstraße 3, Neubau eines Mehrfamilienhauses mit TG und Gartenhaus - TEKTUR; negative Stellungnahme des BA 18 vom 17.12.2014; Abdruck der Baugenehmigung vom 21.04.2015
+- TOP 1.2.: Geiselgasteigstraße 147; Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.); negative Stellungnahme des BA 18 vom 19.11.2014; Abdruck der Baugenehmigung vom 30.04.2015
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Alpen-Markt auf dem Wettersteinplatz vom 18.07.2015 bis 02.08.2015; Zuleitung des KVR vom 24.02.2015 mit der Bitte um Stellungnahme (vertagt aus der März- und April-Sitzung - Fristverlängerung beantragt)
+- TOP 1.2.: Veranstaltung im Freien in einer städtischen Grünanlage; Infoveranstaltung am 27.06.2015 "Untergiesings Himmel - Bezahlbarer Wohnraum für alle"; hier: Grünanlage Nähe Hellabrunner Straße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 22.05.2015
+- TOP 1.3.: Kulturstrand 2015 - Standortliste; Zuleitung des KVR vom 20.04.2015 mit der Bitte um Rückmeldung
+- TOP 1.4.: Veranstaltung der BI ?Mehr Platz zum Leben? auf dem Hans-Mielich-Platz am 24.07.2015 ? Stadtviertelfest mit Enthüllung der Poesie-Installation; Vorab-Information mit der Bitte Zustimmung
+- TOP 1.1.: OSRAM - Konzepte zur temporären kulturellen Zwischennutzung 3.6.7.1.1 Konzept von Herrn S. und Herrn N. (verwiesen aus der Sitzung vom 21.04.2015)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Einrichtung eines Sparkassen SB-Geldautomat im Sperrengeschoss U-Bahnhaltestelle Wettersteinplatz; Antrag der SPD-Fraktion vom 30.04.2015 - <div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Neue Bädereintrittspreise 2015; Information der Stadtwerke München GmbH vom 23.04.2015
+- TOP 4.2.: Offener Brief der Freunde des Sechzger Stadions e.V. vom 13.04.2015 zur Sicherheit im Grünwalder Stadion; Vorschlag: Runder Tisch mit den Bezirksausschüssen 17 und 18
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.: AntragstellerIn: Green City e.V., für die Maßnahme: Projekt ?Essbare Stadt? ab 26.05. bis November 2015; Antragssumme: 1.760,00 ?; Beschlussvorlage des Direktoriums vom 22.04.2015
+- TOP 3.2.: AntragstellerIn: Aktionsgruppe Untergiesing e.V., für die Maßnahme: Stadtteilfest am 27.06.2015; Antragssumme: 1.635,00 ?; Beschlussvorlage des Direktoriums vom 22.04.2015
+- TOP 1: (E) Entfernen der nicht ordnungsgemäß abgestellten Fahrräder an den Eingangsbereichen der U-Bahnhöfe Empfehlung Nr. 14-20 / E 00292 der Bürgerversammlung des Stadtbezirks 18 Untergiesing - Harlaching am 13.11.2014
+- TOP 1: (E) Unterstützung zur Laubbeseitigung Empfehlung Nr. 14-20 / E 00286 der Bürgerversammlung des Stadtbezirkes 18 ? Untergiesing-Harlaching ? am 18.11.2014
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
