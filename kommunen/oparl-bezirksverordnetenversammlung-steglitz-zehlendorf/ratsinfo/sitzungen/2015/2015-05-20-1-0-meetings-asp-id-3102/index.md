@@ -1,0 +1,82 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-05-20T17:00:00+02:00
+- Ende: 2015-05-20T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3102
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3102
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Cannabisdebatte - beantwortet
+- TOP 3.2: Keine Bürgerbeteiligung bei Änderung von Parkregelungen? - beantwortet
+- TOP 3.3: "Vatertag" am Schlachtensee - beantwortet
+- TOP 3.4: Umsetzung des Beschlusses Nr. 405 zur Drucksache Nr. 0593/IV - Einrichtung von "Familienbüro" prüfen - beantwortet
+- TOP 3.5: Leonorenstraße - beantwortet
+- TOP 3.6: Sanierung Autobahnauffahrt Wolfensteindamm - beantwortet
+- TOP 3.7: Neues vom Mädchen- und Frauenzentrum? - beantwortet
+- TOP 3.8: Sanierung Tunnel Schlangenbader Straße - beantwortet
+- TOP 3.9: Gefährdung von Wildtieren durch Gitterzaun im Wald? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines Bürgerdeputierten im Sportausschuss - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines stellvertretenden Bürgerdeputierten im Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.3.1: Nachbenennung von Organisationen für den Beirat für Integration und Migration. Beschluss des Integrationsausschusses vom 29.04.2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.4.1: Sondermittel der BVV für den Wind-Surfing-Verein Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Sondermittel der BVV für den Verein Seglerhaus am Wannsee e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Schädlinge am Hermann-Ehlers-Platz bekämpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Aufwendungen für Schuldnerberatungen landesweit erhöhen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Fußgänger schützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: BVG-Fahrscheine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Hundefreilauf in Steglitz realisieren - in der BVV abgelehnt
+- TOP 4.6.2: Schrottfahrräder recyceln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Ergebnisoffener Bürgerdialog zum Hundeverbot an Schlachtensee und Krumme Lanke - in der BVV abgelehnt
+- TOP 4.6.4: Umgehende Umsetzung des geplanten Aufbaus einer zentralen Impfstelle für Flüchtlinge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Übergang erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Bei Bauanträgen die Einhaltung der Energieeinsparungsverordnung (EnEV) prüfen und aktiv beraten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Überörtlicher Radweg von der Albrechtstraße bis Kleinmachnow/ Teltow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Ruhebänke in der Argentinischen Allee (beidseitig zwischen Waltraudstraße und U-Bhf. Onkel-Toms-Hütte) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Verbleib der Einrichtung für unbegleitete minderjährige Flüchtlinge in Steglitz-Zehlendorf sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: "Arrivo Berlin" auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.2: Konsumräume für Drogenabhängige im Bezirk - überwiesen
+- TOP 5.1.3: Auch für Steuergelder keinen Pfusch! - überwiesen
+- TOP 5.1.4: Milieuschutz in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.5: Stärkere kulturelle Nutzung der Bühne im Stadtpark Steglitz prüfen - überwiesen
+- TOP 5.1.6: Mit Arbeit und Ausbildung Flüchtlinge integrieren - überwiesen
+- TOP 5.1.7: Familienfreundlicher Bezirk II: Der Bezirk als familienfreundlicher Arbeitgeber - überwiesen
+- TOP 5.1.8: MSIT ist MIST - überwiesen
+- TOP 5.1.9: Informationstafel für die Eiche zur Deutschen Einheit auf dem Dorfanger Zehlendorf - überwiesen
+- TOP 5.1.10: Genossenschaftliches Wohnen im Bezirk fördern - überwiesen
+- TOP 5.1.11: Iodblockade - aber richtig II - überwiesen
+- TOP 5.1.12: Kostenschätzung Umbau Kranoldplatz - überwiesen
+- TOP 5.1.13: Kranoldplatz stärken - überwiesen
+- TOP 5.1.14: An das Sanatorium Schlachtensee erinnern - überwiesen
+- TOP 5.1.15: Hochrechnungen überprüfen - überwiesen
+- TOP 5.1.16: Verträge über Baumaßnahmen - überwiesen
+- TOP 5.1.17: Zehlendorf im Dritten Reich - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Schulweg zur Mühlenau-Grundschule sichern - in der BVV abgelehnt
+- TOP 6.1.2: Voruntersuchung Milieuschutzgebiete initiieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Zweckentfremdung von Wohnraum - zurückgezogen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Zentral- und Landesbibliothek nach Dahlem - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Einstiegshilfen für Menschen mit Behinderung an den Badeseen - in der BVV abgelehnt
+- TOP 9.3: Parkleitsystem Schloßstraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Schlusswort des Vorstehers - erledigt
