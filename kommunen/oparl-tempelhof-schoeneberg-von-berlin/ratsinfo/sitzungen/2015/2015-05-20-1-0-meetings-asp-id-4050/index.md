@@ -1,0 +1,100 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-05-20T17:00:00+02:00
+- Ende: 2015-05-20T21:40:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4050
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4050
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=71028
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Neue Bänke in der Ikarus-Grundschule - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Intensivere und häufigere Reinigung der Toiletten an der 1. Gemeinschaftsschule Schöneberg - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Radwegverbindung zwischen Alt-Tempelhof und Alt-Mariendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Straßensanierung in der Manteuffelstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Lampenanbau am Volkspark Mariendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Sanierung des Spielplatzes an der Germaniastraße (Alt-Tempelhof) - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Ampel auf der Mittelinsel Alt-Tempelhof / Germaniastraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Renovierung der Toiletten an der Kiepert-Grundschule - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Zebrastreifen an der Hilbertstraße / Ecke Wolziger Zeile - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Ampel statt dem missachteten Zebrastreifen an der Wünsdorferstr. / Ecke Prinzessinenstr. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Fahrradweg an der Bahnhofstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Lehrermangel an der Bruno-H.-Bürgel Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 4.13: Fußballrasen an der Bruno- H.-Bürgel Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 4.14: Erneuerung der Decken und Wände in der Kiepert-Schule - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Verlängerung der Ampelphase am Attilaplatz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Mittelinsel auf der breiten Barnetstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Eine verkehrsberuhigte Zone auf der Weskammstraße / Ecke Tennstetterstr. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Einrichtung eines Zebrastreifens auf der Weskammstr. / Ecke Tennstdetterstr. - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Platzierung eines Zebrastreifens an einer Insel der Ringstraße 16, Nähe der Johanna-Eck-Schule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Verschönerung des Friedrich-Wilhelm-Platzes - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Sozialarbeiter für das Ulrich-von-Hutten Gymnasium - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Ampel an der Werbelinsee Grundschule - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Bänke auf dem Spielplatz im Park zwischen der Goten- und Leberstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Skaterpark in Schöneberg / Friedenau - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 6.1: Entschließung zum Neubau der Gustav-Heinemann-Schule - im Ausschuss abgelehnt
+- TOP 6.2: Einwohnerversammlung zur „Wiedernutzbarmachung“ des ehemaligen Gesundheitsamts - im Ausschuss abgelehnt
+- TOP 6.3: Lärmminderung durch Straßenumgestaltung - überwiesen
+- TOP 6.4: Personalstellen „wachsende Stadt“ - überwiesen
+- TOP 6.5: Kein „Schandfleck“: Auf den Internetseiten des Bezirks über den geplanten Lern- und Gedenkort Annedore und Julius Leber informieren. - ohne Änderungen im Ausschuss beschlossen
+- TOP 6.6: Freies W-LAN für's Rathaus - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Breslauer Platz: Wann werden die Wünsche der Bürgerschaft endlich umgesetzt? - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Radfahrstreifen Monumentenbrücke - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.2: Klares Bekenntnis zur Tunnellösung für die Dresdner Bahn - 16.000 Bürgerinnen und Bürger müssen ernst genommen werden! - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Ausbildungs-Bürgeramt in Tempelhof-Schöneberg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.4: "Radspuren frei!" Aktionstag in Tempelhof-Schöneberg - überwiesen
+- TOP 9.5: www.mietenvolksentscheidberlin .de - im Ausschuss abgelehnt
+- TOP 9.6: Dokumentenprüfgeräte in die Bürgerämter - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.7: Benennung des Grünzugs Torgauer Straße nach Annedore Leber - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Teilnahme der Grundschulen in Tempelhof-Schöneberg an den Aktionswochen "Zu Fuß zur Schule" - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Grünflächen optimieren: Prüfauftrag Baumscheibenbegrünung - überwiesen
+- TOP 9.10: ÖPNV für Radfahrer optimieren - überwiesen
+- TOP 9.11: Halteverbot in der Hauptstraße zur Geltungszeit der Busspur durchsetzen - überwiesen
+- TOP 9.12: Zebrastreifen auf der Offenbacher Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.13: Global denken - lokal handeln: Bezirkliche Reflektionsflächen ausbauen - überwiesen
+- TOP 9.14: Neue Mitte Tempelhof II - überwiesen
+- TOP 9.15: Keine Abschiebung von Flüchtlingen in Ausbildung - überwiesen
+- TOP 9.16: Prioritäten im "Plätzeprogramm" - überwiesen
+- TOP 9.17: Optimierung der Umsteigemöglichkeit von der S-Bahn zum Bus der Linie 175 - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.18: Falls Dringlichkeit festgestellt: Vom Syrischen Bürgerkrieg Betroffene in der Partnerschaft zwischen Tempelhof-Schöneberg und Mezitli - im Ausschuss abgelehnt
+- TOP 10: übrige Große Anfragen - gegenstandslos
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Spurführung vor dem Rathaus Schöneberg sicher gestalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.2: Konsolidierungsziele bestimmen, Zeitplan festlegen, Maßnahmen umsetzen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Für eine Kinder- und Jugendbibliothek in Friedenau - Standort Handjerystraße 44 umfassend pfüfen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Temporäres Parkverbot in der Akazienstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Bericht über die Sportstättenvergabe - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.6: EUREF-Campus - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Mehr Sicherheit auf der Ringbahnstraße 1 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Mehr Sicherheit auf der Ringbahnstraße 2 - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - erledigt
+- TOP 12.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet "Schöneberger Insel", für die Grundstücke zwischen Monumentenstraße, östliche Grenze des Grundstücks Monumentenstraße 13, Verlängerung der Grundstücksgrenze bis zur Kesselsdorfstraße, Kesselsdorfstraße, Kolonnenstraße, Naumannstraße, Torgauer Straße, Cherusker Park und Wannseebahngraben im Bezirk Tempelhof-Schöneberg, OT Schöneberg - überwiesen
+- TOP 13: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 13.1: Wahlbeteiligung zur Seniorenvertretung steigern – Seniorenarbeit sichtbarer machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: GREEN BUDDY AWARD zukünftig mit stärkerer Beteiligung der Bezirksverordnetenversammlung - überwiesen
+- TOP 13.3: Standorte für eBox-Elektrokleingeräte-Container in Tempelhof-Schöneberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Das Gedenken an den jüdischen Schriftsteller Georg Hermann an seinem Friedenauer Wohnort sichtbar zu machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Tempo 10 in der Dorfaue Marienfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.6: Medienkisten für Willkommensklassen - überwiesen
+- TOP 13.7: 70. Jahrestag der Berliner Kapitulation: Erinnerung an die Befreiung vom Nationalsozialismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: VHS-Sprachkurse für Flüchtlinge aufstocken - überwiesen
+- TOP 13.9: Zusätzlichen Zugang zum Basketballplatz der Friedrich-Bergius-Schule schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Ersatz für entfallene WC-Anlage in der John-Locke-Siedlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Konzeptverfahren Schöneberger Linse - überwiesen
+- TOP 13.12: Abwägungsergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Bebauungsplanentwurf 7-75 für das Gebiet zwischen Tempelhofer Weg, Hedwig-Dohm-Straße, Sachsendamm und Gotenstraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 13.13: Sturmschäden am Gebäude in der Torgauer Straße 24-25 beseitigen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
