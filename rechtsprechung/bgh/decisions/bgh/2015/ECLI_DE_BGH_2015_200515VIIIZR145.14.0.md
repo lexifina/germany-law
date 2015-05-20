@@ -1,0 +1,555 @@
+---
+ecli: "ECLI:DE:BGH:2015:200515VIIIZR145.14.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-08"
+aktenzeichen: "VIII ZR 145/14"
+decided: "2015-05-20"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2015&Sort=1&Seite=38&nr=71492&anz=3079&pos=1151&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-08_NA_2015-05-20_VIII_ZR_145_14_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/avbwasserv/0002.md", "germany/bund/acts/avbwasserv/0035.md", "germany/bund/acts/bgb/0241.md", "germany/bund/acts/bgb/0242.md", "germany/bund/acts/bgb/0315.md", "germany/bund/acts/bgb/0433.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/zpo/0003.md", "germany/bund/acts/zpo/0138.md", "germany/bund/acts/zpo/0562.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, VIII ZR 145/14 vom 2015-05-20
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 IM NAMEN DES VOLKES
+
+                        URTEIL
+VIII ZR 145/14                             Verkündet am:
+                                           20. Mai 2015
+                                           Ermel
+                                           Justizangestellte
+                                           als Urkundsbeamtin
+                                           der Geschäftsstelle
+                     in dem Rechtsstreit
+
+                                          -2-
+
+
+
+    Der VIII. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 20. Mai 2015 durch die Vorsitzende Richterin Dr. Milger, die Richterin
+    Dr. Hessel sowie die Richter Dr. Achilles, Dr. Schneider und Kosziol
+
+
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Beklagten wird das Urteil der 6. Zivilkammer
+          des Landgerichts Chemnitz vom 4. April 2014 (Az. 6 S 286/13)
+          aufgehoben.
+
+          Die Sache wird zur erneuten Verhandlung und Entscheidung,
+          auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.
+
+          Von Rechts wegen
+
+
+
+                                      Tatbestand:
+
+1         Der Kläger ist ein öffentlich-rechtlicher Verband, dem die Pflicht zur öffentlichen Wasserversorgung in seinem Verbandsgebiet übertragen ist. Innerhalb dieses Gebietes besteht ein Anschluss- und Benutzungszwang, wobei die
+    Versorgung der Anschlussnehmer auf privatrechtlicher Grundlage nach Maßgabe der AVBWasserV erfolgt. Die Beklagte ist Eigentümerin des Grundstücks
+    S.                    in H.     , das mit einem aus 12 Wohneinheiten bestehenden Mehrfamilienhaus bebaut ist und im Verbandsgebiet liegt.
+
+2         Der Kläger stellt für dieses Grundstück Trinkwasser über eine am Hausanschluss gelegene zentrale Entnahmestelle bereit; von dort aus wird es innerhalb des Hauses an die einzelnen Wohnungen verteilt. Für die Bereitstellung
+
+                                         -3-
+
+
+
+    und Lieferung von Trinkwasser verlangt der Kläger nach den von ihm festgesetzten Tarifen einen Grund- und einen Verbrauchspreis. Für das im Zeitraum
+    vom 7. Mai 2010 bis 31. Dezember 2010 entnommene Trinkwasser stellte er
+    der Beklagten neben einem Verbrauchspreis von 329,94 € netto einen Grundpreis von 1.188,06 € netto in Rechnung, der sich nach einem in seinem Tarif
+    vorgesehenen Jahresbetrag von 151,20 € netto je Wohneinheit bemisst. Die
+    Beklagte zahlte diesen für alle 12 Wohneinheiten angesetzten Grundpreis nur
+    teilweise, weil sie den ihm zugrunde liegenden Preisbemessungsmaßstab insbesondere wegen eines nach ihrer Auffassung zu Unrecht nicht berücksichtigten zeitweisen Leerstandes einiger Wohnungen für unbillig und auch sonst für
+    fehlerhaft erachtet.
+
+3          Die auf Zahlung eines restlichen Grundpreises von 436,26 € nebst Zinsen gerichtete Klage hat in den Vorinstanzen Erfolg gehabt. Mit ihrer vom Berufungsgericht zugelassenen Revision verfolgt die Beklagte ihr Klageabweisungsbegehren weiter.
+
+
+
+
+                                 Entscheidungsgründe:
+
+4          Die Revision hat Erfolg.
+
+                                          I.
+
+5          Das Berufungsgericht hat zur Begründung seiner Entscheidung - soweit
+    im Revisionsverfahren von Interesse - im Wesentlichen ausgeführt:
+
+6          Der Kläger, der den Versorgungsvertrag ungeachtet der nachfolgenden
+    grundstücksinternen Verteilung des gelieferten Wassers an die einzelnen Wohnungen mit der Beklagten als der Inhaberin des Grundstücksanschlusses ge-
+
+                                        -4-
+
+
+
+    schlossen habe und deshalb von dieser das dafür angefallene Entgelt beanspruchen könne, habe seine Gebühren in zulässiger Weise festgesetzt. Insbesondere sei auch die Erhebung von kombinierten Grund- und Verbrauchspreisen nicht zu beanstanden. Nach § 14 SächsKAG könnten Gebühren nach dem
+    Ausmaß der Benutzung oder nach den durch die Benutzung durchschnittlich
+    verursachten Kosten bemessen werden. Hierbei könnten beide Kriterien miteinander verbunden und für die fixen Vorhaltekosten unabhängig vom Umfang
+    der tatsächlichen Inanspruchnahme angemessene Grundgebühren erhoben
+    werden. In diesem Rahmen sei auch eine Erhebung von Grundgebühren nach
+    der Anzahl der Wohneinheiten zulässig. Bei einer leitungsgebundenen öffentlichen Einrichtung werde nämlich auch die Vorhalteleistung in Anspruch genommen, solange ein Anschluss an das Leitungsnetz unterhalten werde. Die
+    Grundgebühr diene nach dem Gesetzeszweck der (teilweisen) Deckung der
+    Vorhaltekosten, und zwar auch dann, wenn die Vorhalteleistung, nicht aber die
+    Einrichtung selbst durch Wasserbezug in Anspruch genommen werde. Dementsprechend sei es nicht zu beanstanden, wenn im Preisblatt des Klägers neben einem Mengenpreis ein Grundpreis je Anschluss und Grundeinheit von
+    12,60 € je Monat für Abnahmestellen mit ausschließlich wohnlicher Nutzung
+    bestimmt sei.
+
+7         Soweit die Beklagte geltend mache, dass der Kläger seine Fixkosten fehlerhaft kalkuliert habe, zeige sie nicht auf, weshalb die hierauf aufbauende
+    Preisbestimmung nicht der Billigkeit entspreche. Zwar unterlägen die im Rahmen eines privatrechtlich ausgestalteten Benutzungsverhältnisses geltenden
+    Tarife für Leistungen der Daseinsvorsorge der Billigkeitskontrolle nach § 315
+    Abs. 3 BGB. Allerdings stehe dem Versorgungsunternehmen ein gerichtlich nur
+    begrenzt überprüfbarer Ermessensspielraum für die ihm zustehende unternehmerische Entscheidung zu, die Gebühr für seine Leistungen nach einem an der
+    vorzuhaltenden Höchstleistungskapazität ausgerichteten Wahrscheinlichkeits-
+
+                                         -5-
+
+
+
+    maßstab zu bestimmen. Dabei müsse das Versorgungsunternehmen insbesondere nicht den zweckmäßigsten oder gerechtesten Maßstab wählen. Gewisse
+    Ungenauigkeiten seien vielmehr hinzunehmen. Deshalb sei es auch nicht unbillig, wenn der Kläger bei Wohnungsgrundstücken die Höhe der Grundgebühr
+    nach der Anzahl der Wohneinheiten bemesse. Denn es liege auf der Hand,
+    dass der mögliche Frischwasserbezug und die vorzuhaltende Höchstleistungskapazität davon bestimmt werde, wie viele Personen sich auf einem Grundstück
+    aufhielten. Die Grundgebühr sei hierbei aber nicht nach Art und Maß der Benutzung, sondern nach Art und Maß der möglichen Inanspruchnahme der Vorhalteleistung zu bemessen, welche der Kläger unabhängig von der tatsächlichen
+    Belegungsdichte einer Wohneinheit erbringe.
+
+8         Insoweit habe der Kläger unwidersprochen vorgetragen, dass 80 % seiner Kosten Fixkosten seien, allerdings nur 55 % der Erträge durch Grundgebühren erwirtschaftet würden, und die diesen Werten zugrunde liegende Kalkulation mit Angaben etwa zur durchschnittlichen Belegung der Wohneinheiten und
+    zum durchschnittlichen Wasserverbrauch pro Person erläutert. Vor diesem Hintergrund sei das Vorliegen einer Fehlkalkulation nicht ersichtlich, so dass die
+    dahingehende Behauptung der Beklagten keine weitere Substantiierung der
+    Klage und insbesondere auch keine Vorlage der Kalkulation des Klägers erfordert habe. Zwar treffe diesen grundsätzlich die Darlegungs- und Beweislast für
+    die Billigkeit der Ermessensausübung hinsichtlich des Leistungsentgelts, wenn
+    ein Abnehmer sich auf die Unangemessenheit und damit die Unverbindlichkeit
+    der Preisbestimmung berufe. Dies habe die Beklagte aber nicht der prozessualen Verpflichtung enthoben, ihren dahin gehenden Vortrag mit Substanz zu versehen. Das sei hier nicht geschehen. Sie habe sich vielmehr unzulässig darauf
+    beschränkt, nur die Unangemessenheit der Preisbestimmung zu behaupten,
+    ohne sich substantiiert mit dem entgegenstehenden Vortrag des Klägers auseinanderzusetzen. Daher sei das Vorbringen des Klägers, das keinen Verstoß
+
+                                          -6-
+
+
+
+     gegen die Billigkeit oder den Gesetzeszweck des § 14 SächsKAG erkennen
+     lasse, zugestanden. Denn wenn der Kläger seine Fixkosten nur teilweise über
+     die Grundgebühr decke und diese Kosten somit teilweise auch über die Verbrauchskosten auf die Gesamtheit der Abnehmer umgelegt würden, sei eine
+     Benachteiligung der Beklagten hinsichtlich des Grundpreises nicht erkennbar.
+
+9          Mit ihrem Einwand, zumindest die Erhebung einer Grundgebühr für leer
+     stehende Wohnungen, die allein schon aus der Bemessung nach Wohneinheiten folge, sei unbillig oder entspreche nicht der gebotenen Rücksichtnahme auf
+     den Vertragspartner, könne die Beklagte ebenfalls nicht durchdringen. Selbst
+     wenn der Versorgungsvertrag dies nicht ausdrücklich regeln sollte, ergäbe eine
+     ergänzende Vertragsauslegung die Verpflichtung der Beklagten zur Tragung
+     der verbrauchsunabhängigen Kosten für leerstehende Wohnungen. Denn einer
+     Verteilung der Grundkosten auf die jeweiligen Wohneinheiten liege die Erwägung zugrunde, dass die Vorhaltekosten nicht nur anhand des Verbrauchs,
+     sondern auch anhand der Bereitstellung der Anlagen umgelegt werden könnten. Einerseits profitiere die Beklagte als Vermieterin von der Bereitstellung
+     auch bei Leerstand, da sie die Wohnungen mit gesicherter Versorgung anbieten
+     könne. Andererseits liege es auf der Hand, dass der Kläger seine Vorhalteleistung nach der Zahl der potentiellen Abnehmer bestimmen müsse, also auch
+     nach der Anzahl der vorhandenen Wohnungen.
+
+10         Eine Unbilligkeit der Grundgebührenbemessung ergebe sich auch nicht
+     aus einer fehlenden Unterscheidung nach Wohnungsgrößen. Insbesondere liege darin kein Verstoß gegen das Äquivalenzprinzip, wonach kein Missverhältnis
+     zwischen Leistung und Gegenleistung bestehen dürfe. Der mögliche Trinkwasserbezug werde bei Wohngrundstücken maßgeblich davon bestimmt, wie viele
+     Personen sich auf dem angeschlossenen Grundstück aufhielten. Diese Zahl
+     wiederum lasse sich typisiert nach der Anzahl der Wohneinheiten bemessen,
+
+                                           -7-
+
+
+
+     wobei üblicherweise die Zahl der Personen mit der Zahl der selbstständigen
+     Haushalte steige. Eine weitere Differenzierung nach der Größe der Wohneinheiten oder der Anzahl der Räume sei nicht geboten, weil es keinen allgemeinen Erfahrungssatz gebe, nach dem die Anzahl der Bewohner mit der Größe
+     der Wohnung steige. Die Bemessung der Grundgebühr nach Wohneinheiten
+     trage auch dem unterschiedlichen tatsächlichen Nutzungsmaßstab bei Einfamilienhäusern einerseits und großflächigen mehrgeschossigen Mietwohnungsobjekten andererseits Rechnung, zumal die Vorhalteleistung unabhängig von der
+     Belegungsdichte einer Wohneinheit erbracht werde. Eine weitere, zudem auch
+     kaum praktikable Differenzierung nach der Personenzahl der Bewohner oder
+     der Größe der Wohnung sei dem Kläger dagegen nicht zuzumuten. Denn abgesehen davon, dass die Personenzahl nicht nur häufig wechseln könne, könne
+     der Versorger weder hierzu noch zur jeweiligen Größe der Wohneinheiten auf
+     eigene Wahrnehmungen zurückgreifen und wäre daher auf für ihn nicht nachprüfbare Angaben der jeweiligen Abnehmer angewiesen.
+
+
+
+
+                                            II.
+
+11            Diese Beurteilung hält rechtlicher Nachprüfung nicht in allen Punkten
+     stand.
+
+12            Das Berufungsgericht ist zwar ohne Rechtsfehler davon ausgegangen,
+     dass der Kläger für das Bereitstellen und das ständige Vorhalten der Trinkwasserversorgung für jede Wohneinheit ungeachtet eines zeitweiligen Leerstandes
+     einen einheitlich bemessenen Grundpreis verlangen darf. Ebenso ist es nicht
+     als unbillig zu beanstanden, dass der Kläger für die Bemessung des Grundpreises lediglich auf das Vorhandensein von an die Versorgung angeschlossenen
+     Wohneinheiten ohne weitere Differenzierung nach deren Größe abgestellt hat.
+
+                                            -8-
+
+
+
+     Rechtsfehlerhaft hat das Berufungsgericht aber angenommen, dass die Beklagte die Richtigkeit und Angemessenheit der Kalkulation des Grundpreises in
+     rechtlich unbeachtlicher Weise ohne Substanz bestritten habe und deshalb mit
+     den Ansätzen des Klägers von einer Billigkeit der Grundpreisfestsetzung auszugehen sei.
+
+13         1. Das Berufungsgericht hat allerdings zutreffend und von der Revision
+     unbeanstandet angenommen, dass die Beklagte Vertragspartnerin des mit dem
+     Kläger konkludent geschlossenen Vertrages über die Versorgung mit Trinkwasser und damit Schuldnerin des für die erbrachten Lieferungen und Leistungen
+     angefallenen Kaufpreisanspruchs (§ 433 Abs. 2 BGB) geworden ist. Zustande
+     gekommen ist der Vertrag dabei gemäß § 2 Abs. 2 Satz 2 AVBWasserV zu den
+     für gleichartige Versorgungsverhältnisse geltenden Preisen des Klägers, wie sie
+     in den dafür festgesetzten Tarifen ihren Niederschlag gefunden haben, soweit
+     der Kläger diese Preise im Rahmen des ihm dabei zugewiesenen Leistungsbestimmungsrechts nach billigem Ermessen festgesetzt hat und diese Festsetzungen entsprechend § 315 BGB einer Billigkeitskontrolle standhalten (vgl. Senatsurteil vom 17. Oktober 2012 - VIII ZR 292/11, BGHZ 195, 144 Rn. 19, 21;
+     ferner etwa BGH, Urteil vom 8. Oktober 2014 - XII ZR 164/12, WM 2015, 643
+     Rn. 19; jeweils mwN).
+
+14         2. Im Ausgangspunkt zutreffend und von der Revision ebenfalls unbeanstandet ist das Berufungsgericht ferner zu dem Ergebnis gelangt, dass - wie
+     auch § 14 Abs. 1 Satz 3 des Sächsischen Kommunalabgabengesetzes
+     (SächsKAG) in der Fassung der Bekanntmachung vom 26. August 2004
+     (SächsGVBl. S. 418) für die parallele Fallgestaltung einer öffentlich-rechtlichen
+     Versorgung mit Wasser (vgl. § 35 Abs. 1 AVBWasserV) zeigt - ein Versorger
+     bei seiner Tarifgestaltung jedenfalls grundsätzlich berechtigt ist, für das Bereitstellen und ständige Vorhalten der Trinkwasserversorgung in angemessener
+
+                                              -9-
+
+
+
+     Höhe einen verbrauchsunabhängigen Grundpreis vorzusehen. Denn die Frage,
+     in welcher Weise der Versorger diese verbrauchsunabhängigen Kosten in seine
+     Kalkulation einfließen lässt und ob sie über den Arbeitspreis, über den Grundpreis oder im Wege einer Mischkalkulation erwirtschaftet werden, obliegt grundsätzlich seiner freien unternehmerischen Entscheidung, soweit er die dafür bestehenden    rechtlichen     Bindungen    einhält   (vgl.   BGH,      Beschluss    vom
+     6. November 1984 - KVR 13/83, WM 1985, 490 unter II 2 c cc; ferner auch
+     BVerwG, MDR 1982, 431 f.). Dem Versorger steht deshalb auch insoweit ein
+     einseitiges, allerdings in bestimmter Weise rechtlich gebundenes Leistungsbestimmungsrecht nach § 315 BGB zu (vgl. Senatsurteil vom 21. April 2010
+     - VIII ZR 97/09, NZM 2010, 558 Rn. 11, 14).
+
+15         a) Hinsichtlich der dabei bestehenden Bindungen geht der Bundesgerichtshof in ständiger Rechtsprechung davon aus, dass Tarife von Unternehmen, welche mittels eines privatrechtlich ausgestalteten Benutzungsverhältnisses Leistungen der Daseinsvorsorge anbieten, auf deren Inanspruchnahme der
+     andere Vertragsteil im Bedarfsfalle angewiesen ist, nach billigem Ermessen
+     festgesetzt werden müssen und entsprechend § 315 BGB einer Billigkeitskontrolle unterworfen sind. Dies ist zum Teil aus der Monopolstellung des Versorgungsunternehmens hergeleitet worden, gilt aber auch für den hier gegebenen
+     Fall des Anschluss- und Benutzungszwangs. Denn in diesen Fällen muss der
+     Kunde, wenn er die Leistung in Anspruch nehmen will, mit dem Unternehmer
+     kontrahieren, auch wenn er mit dem vorgeschriebenen Preis oder Tarif nicht
+     einverstanden   ist   (zum    Ganzen     Senatsurteil     vom   17.     Oktober    2012
+     - VIII ZR 292/11, aaO Rn. 21 mwN). Den sich daraus ergebenden Anforderungen, die insbesondere auch auf dem in Rede stehenden Gebiet der Wasserversorgung     Geltung   beanspruchen        (Senatsurteil     vom       13.   Juli   2011
+     - VIII ZR 342/09, NJW 2011, 2800 Rn. 36), wird die Tarifgestaltung des Klägers,
+
+                                          - 10 -
+
+
+
+     anders als die Revision meint, jedenfalls hinsichtlich der für die Bemessung der
+     Grundgebühr gewählten Umlegungsmaßstäbe gerecht.
+
+16         b) Die tatrichterlichen Ausführungen zur Anwendung von § 315 BGB im
+     konkreten Fall können vom Revisionsgericht nur darauf überprüft werden, ob
+     das Berufungsgericht den Begriff der Billigkeit verkannt, die gesetzlichen Grenzen seines Ermessens überschritten oder von dem Ermessen in einer dem
+     Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht hat
+     oder ob es von einem rechtlich unzutreffenden Ansatz ausgegangen ist, der ihm
+     den Zugang zu einer fehlerfreien Ermessensentscheidung versperrt hat
+     (st. Rspr.; Senatsurteile vom 12. Dezember 2012 - VIII ZR 341/11, RdE 2013,
+     123 Rn. 18; vom 21. April 2010 - VIII ZR 97/09, aaO Rn. 11; vom 8. Juli 2009
+     - VIII ZR 314/07, WM 2009, 1957 Rn. 18; jeweils mwN). Derartige Rechtsfehler
+     sind dem Berufungsgericht aber nicht unterlaufen, soweit es für die als Verteilungsmaßstab herangezogenen Wohneinheiten weder eine Differenzierung
+     nach ihrer Größe noch nach Art und Ausmaß ihrer tatsächlichen Benutzung für
+     geboten erachtet hat.
+
+17         aa) Ob die Preisbestimmung in einem Massengeschäft wie der Energieund Wasserversorgung der Billigkeit entspricht, ist durch eine Abwägung der
+     typischen Interessen der Vertragspartner wie auch der übrigen Anschlussnehmer sowie einer umfassenden Würdigung des Vertragszwecks zu bestimmen
+     (BGH, Urteile vom 13. Juni 2007 - VIII ZR 36/06, BGHZ 172, 315 Rn. 17; vom
+     24. November 1977 - III ZR 27/76, WM 1978, 1097 unter A II 2; jeweils mwN).
+     Geprägt wird diese Billigkeitskontrolle dabei maßgeblich durch den Umstand,
+     dass der Kläger auch im Rahmen des privatrechtlich ausgestalteten Nutzungsverhältnisses an die grundlegenden Prinzipien des öffentlichen Finanzgebarens
+     gebunden ist (vgl. BGH, Urteile vom 21. September 2005 - VIII ZR 7/05,
+
+                                          - 11 -
+
+
+
+     NJW-RR 2006, 133 unter II 2 a; vom 10. Oktober 1991 - III ZR 100/90, BGHZ
+     115, 311, 318; jeweils mwN).
+
+18         Zu diesen grundlegenden Prinzipien, denen ein beachtlicher Gerechtigkeits- und Billigkeitsgehalt innewohnt und die aus Gründen der Bindung der
+     vollziehenden Gewalt an Gesetz und Recht (Art. 20 Abs. 3 GG) zu berücksichtigen sind, gehören insbesondere die Grundsätze der Gleichbehandlung, der
+     Äquivalenz und der Kostendeckung (BGH, Urteile vom 10. Oktober 1991
+     - III ZR 100/90, aaO; vom 13. März 2003 - X ZR 106/00, NVwZ 2003, 1015 unter 2 b (2)). Denn sie sind darauf angelegt zu gewährleisten, dass das Gebührenaufkommen die (Gesamt-)Kosten der jeweiligen Einrichtung der Daseinsvorsorge deckt (vgl. § 10 Abs. 1 SächsKAG), zwischen Leistung und Gegenleistung ein angemessenes Verhältnis besteht, die Gebühr insbesondere nicht in
+     einem groben Missverhältnis zu der vom Träger öffentlicher Verwaltung erbrachten Leistung steht (vgl. § 14 Abs. 1 Satz 1, Abs. 2 Satz 2 SächsKAG) und
+     schließlich bei gleichartig beschaffenen Leistungen die Maßstäbe der Heranziehung in den Grenzen der Praktikabilität und Wirtschaftlichkeit so gewählt
+     sind, dass sie unterschiedlichen Ausmaßen in den Nutzungen Rechnung tragen, damit die verhältnismäßige Gleichheit unter den Nutzern gewahrt bleibt
+     (BGH, Urteil vom 13. März 2003 - X ZR 106/00, aaO mwN).
+
+19         bb) Hieran gemessen hat das Berufungsgericht ohne Rechtsfehler weder
+     die Erhebung des Grundpreises auch für leerstehende Wohneinheiten für unbillig angesehen noch es für ein Gebot der Billigkeit erachtet, als Maßstab für die
+     Bemessung des Grundpreises andere oder weitere Faktoren als die Anzahl der
+     Wohneinheiten heranzuziehen.
+
+20         (1) Nach der Rechtsprechung des Bundesverwaltungsgerichts wird als
+     Grundgebühr im Allgemeinen eine Benutzungsgebühr bezeichnet, die für die
+
+                                         - 12 -
+
+
+
+     Inanspruchnahme der Lieferungs- beziehungsweise Betriebsbereitschaft einer
+     Einrichtung erhoben wird. Mit ihr werden - wie auch § 14 Abs. 1 Satz 3 Sächs-KAG zum Ausdruck bringt - die durch das Bereitstellen und ständige Vorhalten
+     der Einrichtung entstehenden verbrauchsunabhängigen Betriebskosten (sog.
+     Fixkosten wie z.B. Abschreibungsbeträge und Zinsen, vgl. §§ 12 f. SächsKAG)
+     ganz oder teilweise abgegolten. Sie wird deshalb nicht - verbrauchsabhängig
+     - nach dem Maß der Benutzung (Inanspruchnahme), sondern - verbrauchsunabhängig - nach einem Wahrscheinlichkeitsmaßstab bemessen, der sich an Art
+     und Umfang der aus der Lieferbereitschaft folgenden abrufbaren Arbeitsleistung
+     (z.B. Nenngröße des Wasserzählers, Zahl der Räume oder Zapfstellen, Brennstellen) als Anhalt für die vorzuhaltende Höchstlastkapazität zu orientieren
+     pflegt (BVerwG, MDR 1982, 431; NVwZ 1987, 231; NVwZ-RR 2003, 300).
+
+21         (2) Hiervon ausgehend ist eine Grundgebühr als Gebühr für die Bereitstellung und das Bereithalten einer jederzeit möglichen Wasserversorgung
+     (Vorhalteleistung) darauf angelegt, eine Leistung abzugelten, welche auch für
+     Wohneinheiten erbracht wird, die leer stehen und in denen kein Wasser verbraucht wird, so dass eine Verbrauchsgebühr nicht zur Entstehung gelangt (vgl.
+     OVG Magdeburg, Urteil vom 14. April 2008 - 4 L 181/07, juris Rn. 24 f.; ferner
+     OVG Münster, NVwZ-RR 2001, 122, 123 mwN). Die Eigentümer von leerstehenden Wohnungen partizipieren nicht nur in gleichem Maße wie diejenigen
+     bewohnter Räume an der Vorhalteleistung des Klägers. Der Leerstand hat insbesondere auf die durch den Anschluss der Wohnungen verursachten Vorhaltekosten keine Auswirkungen. Denn die aus der Lieferbereitschaft auch für diese Wohnungen folgende abrufbare Arbeitsleistung verringert sich - wie das Berufungsgericht zutreffend hervorgehoben hat - bei einem Leerstand jedenfalls
+     so lange nicht, wie die Möglichkeit besteht, dass die Wohnnutzung jederzeit
+     wieder aufgenommen wird und der Anschlussnehmer damit zugleich die sofor-
+
+                                         - 13 -
+
+
+
+     tige Belieferung mit der benötigten Trinkwassermenge beanspruchen kann
+     (OVG Magdeburg, Urteil vom 14. April 2008 - 4 L 181/07, aaO Rn. 25).
+
+22         (a) Ohne Erfolg beruft sich die Revision demgegenüber darauf, dass der
+     Kläger dem nach den Behauptungen der Beklagten massiven Leerstand in einem Teil der Wohneinheiten jedenfalls vor dem Hintergrund auch im Rahmen
+     von Versorgungsverhältnissen bestehender Schutz- und Rücksichtnahmepflichten aus §§ 242, 241 Abs. 2 BGB (vgl. dazu Senatsurteil vom 21. April 2010
+     - VIII ZR 97/09, aaO Rn. 15) bei seiner Preisbemessung hätte Rechnung tragen
+     müssen. Denn solche Rücksichtnahmepflichten ergeben sich nicht schon daraus, dass die Beklagte im Verhältnis zu ihren Mietern bei der Umlegung von
+     Betriebskosten das Leerstandsrisiko zu tragen hat und bei erheblichem Wohnungsleerstand gehindert sein kann, die auf die leerstehenden Wohnungen entfallenden Fixkosten der Wasserversorgung auf ihre Mieter umzulegen (vgl. Senatsurteil vom 6. Oktober 2010 - VIII ZR 183/09, NJW 2010, 3645 Rn. 22 f.). An
+     diesem Risiko hat der Kläger schon deshalb nicht teil, weil er gleichwohl seine
+     über die Grundgebühr abzugeltenden Belieferungskapazitäten jedenfalls so
+     lange vorhalten muss, wie die leerstehenden Wohnungen nicht auf unbestimmte Zeit entwidmet werden. Erst dann hätte er Anlass, die von ihm vorzuhaltende
+     Belieferungskapazität, die über den Grundpreis (teilweise) abgegolten wird,
+     dem verminderten Bedarf anzupassen.
+
+23         (b) Zwar wird bisweilen erwogen, dass Leerstände, wenn sie im gesamten Versorgungsgebiet ein solches Ausmaß annehmen, dass sie zur Wahrung
+     einer Typengerechtigkeit der Gebührentatbestände als eigenständiger Versorgungstyp schlechthin nicht mehr unberücksichtigt bleiben können, gegebenenfalls über einen eigenständigen Gebührentatbestand erfasst werden müssten
+     (vgl. dazu OVG Magdeburg, Urteil vom 14. April 2008 - 4 L 181/07, aaO
+     Rn. 31 ff.). Ob dem zu folgen wäre, kann allerdings dahin stehen. Denn dass
+
+                                         - 14 -
+
+
+
+     die Leerstände auf das gesamte Versorgungsgebiet bezogen ein derartiges
+     Ausmaß angenommen haben, lässt sich den getroffenen Feststellungen nicht
+     entnehmen. Übergangenen Sachvortrag zeigt die Revision insoweit nicht auf.
+
+24         Zudem wäre bei Ansatz eines Grundpreises auch zu berücksichtigen,
+     dass § 7 Abs. 2 der Satzung des Klägers über den Anschluss an die öffentliche
+     Wasserversorgungsanlage und ihre Benutzung im Verbandsgebiet dem Grundstückseigentümer im Rahmen des dem Verband wirtschaftlich Zumutbaren auf
+     Antrag die Möglichkeit einräumt, den Bezug und damit zugleich die Belieferungspflicht des Klägers einschließlich der damit verbundenen Vorhalteleistungen etwa auf einen Teilbedarf zu beschränken.
+
+25         (3) Die von dem Kläger allein nach der Zahl der Wohneinheiten vorgenommene Bemessung des Grundpreises für die Versorgung mit Trinkwasser
+     kann entgegen der Auffassung der Revision ebenfalls nicht als unbillig beanstandet werden. Insbesondere gebietet weder der Gleichheitssatz weitere Differenzierungen - etwa nach der Wohnungsgröße - noch verstößt der gewählte
+     Bemessungsansatz gegen das Äquivalenzprinzip.
+
+26         (a) Der Gleichheitssatz, den die Revision als verletzt rügt, verbietet es
+     einem Satzungsgeber für die Gebührenbemessung und damit auch für die Bildung entsprechender Maßstäbe, wesentlich ungleiche Sachverhalte innerhalb
+     einer Veranlagungskategorie gleich zu behandeln. Allerdings ist der Satzungsgeber - entsprechendes gilt im Rahmen des § 315 BGB für die privatrechtlich
+     ausgestalteten Tarife des Klägers - bei der Bestimmung der Merkmale, nach
+     denen Sachverhalte im Wesentlichen gleich anzusehen sind, innerhalb der
+     Grenzen der Sachgerechtigkeit frei. Dabei kann er je nach den Umständen des
+     Einzelfalls eine Auswahl unter verschiedenen Gebührenmaßstäben treffen, ohne dass sich aus dem Gleichheitssatz eine Präferenz für einen bestimmten
+
+                                         - 15 -
+
+
+
+     Maßstab ergibt. Die Gestaltungsfreiheit des Satzungsgebers endet erst dort, wo
+     ein einleuchtender Grund für die unterlassene Differenzierung nicht mehr erkennbar ist (BVerwG, NVwZ-RR 1995, 348 f.; Beschluss vom 19. Dezember
+     2007 - 7 BN 6/07, juris Rn. 7; jeweils mwN). Ihm ist daher auch bei der Bestimmung von - hier einschlägigen - Wahrscheinlichkeitsmaßstäben ein weites Ermessen eingeräumt, so dass bei Vorliegen eines sachlich einleuchtenden
+     Grundes für eine gewählte Typisierung oder Differenzierung aufgrund des
+     Gleichheitssatzes keine noch darüber hinausgehende Verpflichtung besteht, für
+     eine Grundgebühr den (vermeintlich) zweckmäßigsten, vernünftigsten, gerechtesten oder wahrscheinlichsten Maßstab anzuwenden (vgl. BVerwG, MDR
+     1982, 431, 432; NVwZ-RR 1995, 348 f.; ferner BVerwGE 112, 297, 299 f.).
+
+27         Vor diesem Hintergrund ist im Abgabenrecht zugleich anerkannt, dass
+     Typisierungen und Pauschalierungen - insbesondere bei der Regelung von
+     Massenerscheinungen - durch Erwägungen der Verwaltungsvereinfachung und
+     Verwaltungspraktikabilität gerechtfertigt sein können (BVerwG, NVwZ 2005,
+     332, 333) und der Satzungsgeber sein Entscheidungsermessen hiervon leiten
+     lassen darf (BVerwG, Beschluss vom 19. Dezember 2007 - 7 BN 6/07, aaO).
+     Die Grenze des Gestaltungsermessens ist erst dann überschritten, wenn ein
+     sachlich einleuchtender Grund für eine mit der Typisierung getroffene oder unterlassene Differenzierung auch mit Blick auf die Verwaltungsvereinfachung
+     fehlt (vgl. BVerwG, NVwZ-RR 1995, 594, 595; Beschluss vom 19. Dezember
+     2007 - 7 BN 6/07, aaO; jeweils mwN). Das schließt es ein, dass ein Satzungsgeber im Rahmen des ihm zustehenden Ermessens nicht gehalten ist, den jeweils gewählten Maßstab derart weit auszudifferenzieren, dass möglichst jedem
+     Einzelfall - im Sinne einer Einzelfallgerechtigkeit - entsprochen wird (BVerwG,
+     Beschluss vom 19. Dezember 2007 - 7 BN 6/07, aaO). Ausreichend ist vielmehr, dass die Höhe der Grundgebühr zu dem möglichen Umfang der Benut-
+
+                                           - 16 -
+
+
+
+     zung in eine, wenn auch nur annähernde, Beziehung gesetzt ist (BVerwG, MDR
+     1982, 431, 432).
+
+28         Gemessen an diesen Voraussetzungen überschreitet die Erhebung des
+     Grundpreises für jede Wohneinheit ohne weitere Differenzierung nach deren
+     Größe die Ermessensgrenzen eines Trinkwasserversorgers grundsätzlich nicht.
+     Der vom Kläger gewählte Maßstab erfasst vielmehr in sachlich einleuchtender
+     Weise das Maß des den Anschlussnehmern gewährten Vorteils sowie der
+     durch die Vorhalteleistung verursachten Kosten.
+
+29         (aa) Anders als die Revision meint, ist ein Versorger nicht verpflichtet, einen Maßstab zu wählen, der zusätzlich nach der Größe der jeweiligen
+     Wohneinheiten differenziert und diese in Größenklassen unterteilt. Denn der
+     den Anschlussnehmern durch das Bereitstellen und ständige Vorhalten einer
+     betriebsbereiten Wasserversorgungsanlage gewährte Vorteil, jederzeit ausreichend mit Trinkwasser versorgt zu werden, ist für jede Wohneinheit und ihre
+     dadurch üblicherweise erst hergestellte ausreichende Benutzbarkeit unabhängig vom jeweiligen Verbrauch und von den durch die Vorhalteleistung verursachten Kosten im Großen und Ganzen gleich zu bewerten. Insbesondere erfordert das Maß der durch die Vorhalteleistung verursachten Kosten mangels
+     individueller Ausscheidbarkeit einzelner Leistungsteile unter Zuordnung zu speziellen Vorteilen keine weitere Differenzierung.
+
+30         (bb) Das gilt auch unter Berücksichtigung des von der Revision angeführten Umstandes, dass sich die für die Vorhalteleistung erhobene Grundgebühr
+     zur sachgerechten Leistungserfassung maßgeblich an dem auf einem Grundstück in Abhängigkeit von der Anzahl der potentiellen Nutzer maximal möglichen Trinkwasserverbrauch für die vorzuhaltende (Höchstlast-)Kapazität zu orientieren hat (vgl. OVG Magdeburg, Urteil vom 8. September 2011 - 4 L 247/10,
+
+                                         - 17 -
+
+
+
+     juris Rn. 35 mwN). Denn aus der Anzahl der Personen, die dort Trinkwasser
+     zum Verbrauch abrufen könnten, lässt sich eine für die nötige Typisierung verlässliche Größe nicht ohne Weiteres, und zwar auch nicht über eine von der
+     Revision zu diesem Zweck geforderte Differenzierung nach Wohnungsgrößen,
+     gewinnen.
+
+31         Dass die tatsächliche Anzahl der jeweiligen Bewohner eines Grundstücks bei Massengeschäften der in Rede stehenden Art keinen tauglichen Anknüpfungspunkt für die Bemessung des Grundpreises bilden kann, liegt - wie
+     das Berufungsgericht mit Recht annimmt - allein schon mit Blick auf den dafür
+     erforderlichen Ermittlungs- und Verarbeitungsaufwand auf der Hand.
+
+32         Ebenso wenig besitzt die Größe der jeweiligen Wohneinheiten eine hinreichende Aussagekraft über die Anzahl ihrer Bewohner und einer daraus ableitbaren (Höchstlast-)Kapazität für die vorzuhaltende Trinkwassermenge. Denn
+     es besteht kein verlässlich feststellbares Verhältnis zwischen der Größe einer
+     Wohneinheit und der aus unterschiedlichsten Gründen variierenden Anzahl ihrer Bewohner. Insbesondere gibt es - wie das Berufungsgericht rechtsfehlerfrei
+     festgestellt hat - keinen belastbaren allgemeinen Erfahrungssatz, dass und in
+     welchem Maße sich die Bewohnerzahl mit der Größe einer Wohneinheit verändert (so auch OVG Magdeburg, Urteil vom 1. April 2004 - 1 K 93/03, juris
+     Rn. 16; OLG Naumburg, ZMR 2005, 364, 365; aA wohl OVG Lüneburg, KStZ
+     2004, 70, 71).
+
+33         Ob nämlich eine Wohnung von bestimmter Größe unter gewöhnlichen
+     Umständen von einer Person, einer Familie oder einem Familienverband bewohnt wird, hängt von den individuellen Umständen, namentlich den Einkommens- und Vermögensverhältnissen, den Wohngewohnheiten, dem Wohnumfeld und einer Vielzahl von weiteren sozialen, wirtschaftlichen und soziokul-
+
+                                          - 18 -
+
+
+
+     turellen Bestimmungsfaktoren ab, die zu ermitteln und zu berücksichtigen ein
+     Versorger bereits kaum in der Lage sein dürfte, auf die er bei Ausübung seines
+     Gebührengestaltungsermessens und einer dabei unerlässlichen Typisierung
+     aber jedenfalls billigerweise auch keine Rücksicht nehmen muss (OVG Magdeburg, Urteil vom 1. April 2004 - 1 K 93/03, aaO). Soweit die Revision dem eine
+     abweichende Einschätzung entgegenzuhalten versucht, setzt sie lediglich ihre
+     eigene Würdigung an die Stelle derjenigen des Berufungsgerichts, ohne an objektiven Kriterien messbare Umstände aufzuzeigen, die den von ihr angenommenen gegenteiligen Erfahrungssatz tragen könnten.
+
+34          (cc) Hiervon ausgehend ist das Berufungsgericht rechtsfehlerfrei zu dem
+     Ergebnis gelangt, dass es dem Kläger auch unter Billigkeitsgesichtspunkten
+     unbenommen war, bei Wohnraum den Grundpreis für die von ihm bereitgestellte Vorhalteleistung allein nach der Anzahl der Wohneinheiten zu bemessen,
+     selbst wenn dies einen vergleichsweise groben, aber mit zumutbarem Aufwand
+     nicht präziser zu erfassenden Wahrscheinlichkeitsmaßstab darstellt. Für die
+     Billigkeit des gewählten Maßstabs spricht zudem auch seine vom Berufungsgericht zutreffend hervorgehobenen Praktikabilität, die zugleich den Interessen der
+     Gesamtheit aller Anschlussnehmer an der Verwendung eines möglichst einfachen, leicht handhabbaren und ohne nennenswerten Aufwand verlässlich überprüfbaren Maßstabs maßgeblich entgegenkommt.
+
+35          (b) Entgegen der Ansicht der Revision verstößt eine Bemessung der
+     Grundgebühr nach Wohneinheiten für sich genommen auch nicht gegen das
+     kommunalabgabenrechtliche Äquivalenzprinzip. Das Äquivalenzprinzip besagt
+     als Ausprägung des verfassungsrechtlichen Verhältnismäßigkeitsgebots, dass
+     eine Gebühr und entsprechend auch der hier in Rede stehende Grundpreis
+     nicht in einem groben Missverhältnis zu der damit abgegoltenen Leistung stehen dürfen. Dabei besteht zwar ein weiter Entscheidungs- und Gestaltungs-
+
+                                             - 19 -
+
+
+
+     spielraum hinsichtlich der Gebührenbemessung, mithin einer sachgerechten
+     Verknüpfung zwischen dem Wert der Leistung und der Gebührenhöhe. Allerdings wird dieser Spielraum einerseits begrenzt durch das Erfordernis einer Beachtung des Kostendeckungsgrundsatzes, der eine Gebührenbemessung verbietet, die sich nicht darauf beschränkt, die Kosten der abzugeltenden Leistung
+     ganz oder teilweise zu decken, sondern sich in ihrer Höhe völlig von diesen
+     Kosten entfernt (BVerwG, NVwZ 2003, 1385, 1386 mwN; dazu nachstehend
+     unter II 3). Andererseits erfordert das Äquivalenzprinzip bei einem - wie hier -
+     auf Kostendeckung abzielenden Entgelt, dass auch der gewählte Verteilungsmaßstab dem Gleichheitssatz Rechnung trägt (BVerwG, NVwZ-RR 2002, 217,
+     218).
+
+36           Letzteres ist - wie vorstehend unter II 2 b bb (3) ausgeführt - der Fall. Die
+     Wahl des bei Wohngebäuden auf die bloße Zahl der Wohneinheiten abstellenden Verteilungsmaßstabes kollidiert mithin als solche jedenfalls nicht mit dem
+     Äquivalenzprinzip und kann deshalb auch nicht unter diesem Gesichtspunkt im
+     Rahmen der hier nach § 315 BGB vorzunehmenden Prüfung als unbillig eingestuft werden.
+
+37           3. Von Rechtsfehlern beeinflusst ist jedoch - wie die Revision mit Recht
+     rügt - die Auffassung des Berufungsgerichts, die Beklagte habe das für eine
+     Billigkeit des mit 12,60 € je Monat und Wohneinheit angesetzten Grundpreises
+     sprechende Vorbringen des Klägers, wonach 80 % seiner Kosten Fixkosten
+     seien, allerdings nur 55 % der Erträge durch Grundgebühren erwirtschaftet
+     würden, was zugleich mit Angaben zur durchschnittlichen Belegung der
+     Wohneinheiten und zum durchschnittlichen Wasserverbrauch pro Person erläutert worden sei, nicht hinreichend substantiiert bestritten, so dass dieses Vorbringen gemäß § 138 Abs. 2, 3 ZPO als zugestanden zu gelten habe.
+
+                                               - 20 -
+
+
+
+38         a) Im Ansatz zutreffend ist das Berufungsgericht allerdings davon ausgegangen, dass den Kläger die Beweislast für die Billigkeit der von ihm getroffenen   Preisbestimmung    trifft   (vgl.    Senatsurteile   vom   2.   Oktober   1991
+     - VIII ZR 240/90, WM 1991, 2065 unter III 3 a; vom 13. Juli 2011
+     - VIII ZR 342/09, NJW 2011, 2800 Rn. 37). Hierbei konnte der Kläger sich jedoch nicht auf die nicht näher belegte Behauptung beschränken, dass er über
+     das Aufkommen aus den Grundpreisen seine Fixkosten, welche über 80 % des
+     Gesamtaufkommens ausmachten, nur zu etwa 55 % decke, und dass seine
+     Preiskalkulation darauf beruhe, dass nach dem ihm zur Verfügung stehenden
+     Datenmaterial jede Wohneinheit in seinem Verbandsgebiet im Durchschnitt mit
+     2,5 Personen bewohnt werde, woraus sich ein durchschnittlicher jährlicher
+     Wasserverbrauch von 100 cbm je Wohneinheit ergebe. Er hätte - wie die Revision zutreffend geltend macht - vielmehr seine Kalkulation jedenfalls in ihren
+     beurteilungsrelevanten Größen (vgl. §§ 11 ff. SächsKAG) vortragen und gegebenenfalls unter Beweis stellen müssen, um die Feststellung zu ermöglichen,
+     welche Kostenpositionen er als fixe Kosten dem Grundpreis und welche Positionen er dabei dem Mengenpreis zugeordnet hat (vgl. auch BGH, Urteile vom
+     2. Oktober 1991 - VIII ZR 240/90, aaO unter II 3 a, c; vom 20. Juli 2010
+     - EnZR 23/09, NJW 2011, 212 Rn. 33; vom 15. Mai 2012 - EnZR 105/10,
+     WM 2013, 1620 Rn. 35). Zugleich würde dies die Feststellung ermöglichen, ob
+     sich die dabei ergebende Zuordnung selbst bei einer Abweichung von den kalkulierten Kostendeckungsquoten in einem Rahmen hält, der etwa auch im Falle
+     einer Überschreitung der vom Kläger behaupteten Deckungsquote von lediglich
+     55 % noch als billig hinzunehmen wäre (vgl. auch BVerwG, MDR 1982, 431 f.).
+     Erst diese Feststellungen würden die auch im Rahmen des § 315 BGB erforderliche Prüfung auf Einhaltung des bei der Preiskalkulation zu berücksichtigenden
+     Kostenüberschreitungsverbots (vgl. dazu etwa VGH Kassel, Beschluss vom
+
+                                           - 21 -
+
+
+
+     10. Mai 2012 - 5 C 3180/09.N, juris Rn. 50 ff.) und dessen sachgerechte Übertragung auf den in Rede stehenden Grundpreis gewährleisten.
+
+39         Insbesondere wäre es erst danach möglich gewesen festzustellen, ob
+     der Kläger sich dabei auf die nach §§ 11 ff. SächsKAG berücksichtigungsfähigen Kosten, zu denen namentlich die angemessene Verzinsung des Anlagekapitals sowie angemessene Abschreibungen zählen, beschränkt sowie sie in zureichender Weise nach betriebswirtschaftlichen Grundsätzen ermittelt hat und
+     daran anknüpfend von einem tauglichen Bemessungsmaßstab (vgl. § 14
+     SächsKAG) ausgegangen ist. Ebenso würden erst diese Feststellungen die im
+     Rahmen der Billigkeitsprüfung gleichfalls vorzunehmende Beantwortung der
+     Frage ermöglichen, ob der Kläger selbst bei ordnungsgemäßer Ermittlung und
+     Zuordnung der bei ihm entstehenden Kosten nicht etwa auch solche angesetzt
+     hat, die bei Ausschöpfung etwaiger Rationalisierungsreserven vermeidbar gewesen wären, wenn er ohne die ihm zukommende Monopolstellung einem gewissen Rationalisierungsdruck ausgesetzt gewesen wäre (vgl. BGH, Beschluss
+     vom 22. Juli 1999 - KVR 12/98, BGHZ 142, 239, 247).
+
+40         b) Hieran gemessen hat das Berufungsgericht den lediglich rudimentären
+     Vortrag des Klägers zu dessen Gebührenkalkulation zu Unrecht gemäß § 138
+     Abs. 3 ZPO als zugestanden angesehen. Ohne die erforderliche Substantiierung war das einfache Bestreiten der Beklagten zulässig (vgl. Senatsurteile vom
+     8. Juli 2009 - VIII ZR 314/07, WM 2009, 1957 Rn. 23; vom 14. Juli 2010
+     - VIII ZR 6/08, juris Rn. 19 f.; und VIII ZR 327/07, RdE 2010, 384 Rn. 19 f.).
+
+                                         - 22 -
+
+
+
+                                           III.
+
+41         Nach alledem kann das Berufungsurteil keinen Bestand haben; es ist
+     aufzuheben (§ 562 Abs. 1 ZPO). Die Sache ist nicht zur Endentscheidung reif.
+     Sie ist daher zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen, damit die erforderlichen Feststellungen zur Billigkeit
+     des vom Kläger kalkulierten Grundpreises getroffen werden können (§ 563
+     Abs. 1 Satz 1 ZPO).
+
+
+
+
+     Dr. Milger                      Dr. Hessel                       Dr. Achilles
+
+                  Dr. Schneider                          Kosziol
+
+
+
+
+     Vorinstanzen:
+     AG Hainichen, Entscheidung vom 09.08.2013 - H 2 C 543/12 -
+     LG Chemnitz, Entscheidung vom 04.04.2014 - 6 S 286/13 -
