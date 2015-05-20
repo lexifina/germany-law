@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-05-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3380136
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3380136
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: BA 3: ?Kinder von gestern e.V.? in die Regelförderung aufnehmen
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Kaiserstr. 51 ?Wäschewunder?: Aufstellen einer Warenauslage
+- TOP 2.2: Kultur
+- TOP 2.2.2.: Straßennamenzusatzschild für Dr. Karl-Friedrich Scheid Anhörung zum Textvorschlag
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 1.1.: Bürger: Starke Beeinträchtigung durch geplante Erweiterung des Studentenwohnheims Schwere-Reiter-Str. 35
+- TOP 1.2.: Bürger: Zweckentfremdung von Wohnraum in der Schleißheimer Straße
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Infanteriestr. 11: Umbau eines Bürogebäudes mit Tiefgarage mit einer erdgeschossigen Erweiterung des rückwärtigen Anbaus und Nutzungsänderung von Büro zu Hochschule im EG
+- TOP 2.1.2.: Belgradstr. 1 ?Brasserie Schwabing?: Erweiterung der Freischankfläche (vgl. TOP C 2.1.2 der BA-Sitzung vom 25.03.2015)
+- TOP 2.1.3.: Tektur Ansprengerstr. 1: Neubau zweier Dachgeschosse zu je einer Wohnungserweiterung im 4. OG als Maisonette und jeweils einer separaten DG-Wohnung sowie Anbau dreier Aufzüge und von 28 Balkonen an 3 Häusern (Ansprengerstr. 1/Clemensstr. 50/Rossinistr. 2)
+- TOP 2.1.4.: Tektur Hohenzollernstr. 61/Rgb.: Erneuerung des Dachgeschosses mit Einbau von vier Wohneinheiten
+- TOP 2.1.5.: Lothstr. 29: Befristete Aufstellung einer Containeranlage während der Sanierung des Bestandsgebäudes Lothstr. 29 bis Dezember 2018
+- TOP 2.1.6.: Georgenstr. 66: Umbau EG mit Fassadenänderung
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: SPD: Fußgängerüberweg vor der künftigen Flüchtlingsunterkunft in der Belgradstraße (vertagt aus 04/15)
+- TOP 1.2.: SPD: Barrierefreier Zugang zum Postamt Angererstraße 9
+- TOP 1.3.: Bürger: Parkraummanagement im Bereich nördlich und westlich des Klinikums Schwabing
+- TOP 1.4.: Bürger: Mehr Fahrradabstellplätze am Gisela-Gymnasium
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Tengstr. 40
+- TOP 2.2.2.: Haltverbote für die Müllabfuhr in der Krumbacherstraße
+- TOP 2.2.3.: Einrichtung einer Ladezone in der Hohenzollernstr. 78
+- TOP 2.2.1.: Mittellinie in der östlichen Herzogstraße vor der Belgradstraße zurückverlegen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V./Nachbarschaftsbörse Willkommensangebot von Juni bis Dezember 2015
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Corso Leopold e.V. Veranstaltung "Corso Leopold" am 16./17.05. und 12./13.09.2015
+- TOP 2.2.3.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Kreuzkirche Veranstaltung "Die Nacht aus Kunst" am 27.06.2015
+- TOP 2.2.4.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> (E) Budget der Bezirksausschüsse Münchner Filmwerkstatt e.V. Projekt "KALIBER35" vom 18. - 24.06.2015
