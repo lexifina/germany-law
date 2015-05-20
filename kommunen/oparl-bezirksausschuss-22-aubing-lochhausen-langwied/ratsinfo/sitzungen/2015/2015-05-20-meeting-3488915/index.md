@@ -1,0 +1,123 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-05-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3488915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3488915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung der Einrichtungen für unbegleitete und heranwachsende Flüchtlinge in Lochhausen durch das Amt für Wohnen und Migration
+- TOP 2: Bürgeranliegen
+- TOP 2.2.: Kaputter DB-Zaun in der Papinstraße
+- TOP 2.4.: Stellungnahme zu Verkehrskonzept München West, Freiham
+- TOP 2.5.: Installierung des Verkehrsschilds "Bei Rot hier halten" in der Lochhausener Straße
+- TOP 2.6.: Fragen und Probleme im Bereich Lochhausen, östlich der Lochhausener Straße
+- TOP 2.8.: Erweiterung städt. Notquartier Kastelburgstr. 56-60
+- TOP 2.9.: Öffnung des Weges zur Schule an der Wiesentfelser Straße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Fällungsgenehmigung: - Rohrsängerplatz 18, Schr. Planungsreferat vom 29.04.15 - Bergsonstr. 156, Schr. Planungsreferat vom 04.05.15
+- TOP 4.1.: Dauerhafte Beleuchtung am Wertstoffhof Mühlangerstraße notwendig?
+- TOP 4.2.: Nachtaktive Ampelanlagen im 22. Stadtbezirk
+- TOP 4.3.: Finanzierung Hausaufgabenbetreuung für unbegleitete minderjährige Flüchtlinge im 22. Stadtbezirk
+- TOP 4.4.: Abstimmung der Busanschlüsse in Neuaubing
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters: Genehmigung von Freischankflächen der Schank- und Speisegaststätte "Platzhirsch Freiham", Hans-Stützle-Str. 3
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters: Aufstellung von neuen Zeitungsverkaufseinrichtungen auf öffentlichen Grund - Mainaustr. 73
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters: Aufstellung von neuen Zeitungsverkaufseinrichtungen auf öffentlichen Grund: Krögelsteiner Str. 2 / Ravensburger Ring
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund: Tag der offenen Tür der Freiwilligen Feuerwehr Langwied-Lochhausen am 27.06.15 auf dem Gelände des Feuerwehrhauses in der Berglwiesenstr. 135, Anhörung KVR vom 20.04.15
+- TOP 6.4.: Veranstaltung im Freien in der städt. Grünanlage: Internationales Sommerfest Neuaubing in der Wiesentfelserstr. 57 (Schlittenberg) am 19.07.15, Anhörung KVR vom 23.04.15
+- TOP 6.5.: Zirkus Baldoni - Veranstaltung an der Bodensee-/Mainaustraße vom 21.05.-31.05.15, Anhörung Kommunalreferat vom 16.04.15 - Vorabzustimmung durch den BA-Vorsitzenden -
+- TOP 6.2.: Beschlussvorlage für die Vollversammlung zum Sofortprogramm für Gemeinschaftsunterkünfte am 29.04.15, Schr. Sozialreferat vom 27.04.15
+- TOP 6.4.: Pilotprojekt München lebt interkulturelle Vielfalt - Weiteres Vorgehen, Schr. Sozialreferat vom 28.04.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Inklusion im Kindertageseinrichtungs- und Schulbereich, Umsetzung der UN-Behindertenrechtskonvention, Sachstandsbericht und Konzeption - Beschlussentwurf, Anhörung Referat für Bildung und Sport vom 17.04.15
+- TOP 6.1.: Neue Bädereintrittspreise, Schr. SWM vom 23.04.15
+- TOP 6.1.: Verkehrsrechtliche Anordnung: Anbringung eines absolten Haltverbots in der Langenburgstraße Nordseite, Anhörung KVR vom 20.04.15
+- TOP 6.1.: Aufhebung eines Sonderparkplatzes am Ravensburger Ring 21, Schr. KVR vom 23.04.15
+- TOP 6.2.: Machbarkeitsstudie zur Verkehrsführung Georg-Böhmer-Straße / Altostraße, Schr. Planungsreferat vom 22.04.15
+- TOP 6.3.: Auffüllung des Straßenbahn Seitenbelages "Am Langwieder Bach", Schr. Baureferat vom 08.04.15
+- TOP 6.5.: Verkehrsrechtliche Anordnung: Errichtung einer Pkw-Parkzone an der Ostseite der Wiesentfelser Straße, Schr. KVR vom 27.03.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Bebauungsplan mit Grünordnung Nr., Bahnlinie München-Herrsching (südlich), Anton-Böck-Straße (beiderseits), Centa-Hafenbrädl-Str. (beiderseits) und Hans-Steinkohl-Str. (östlich) - Aufstellungsbeschluss, Anhörung Planungsreferat vom 20.03.15 (vertagt aus 04/15)
+- TOP 6.3.: Garagensatzung für den 22. Stadtbezirk, Schr. Planungsreferat vom 21.04.15
+- TOP 6.4.: Information zu Baumaßnahmen der SWM - 1 Halbjahr 2015, Schr. SWM vom 14.04.15
+- TOP 6.5.: Vollzug des Bundes-Immissionsschutzgesetzes und Geräte- und Maschinenlärmschutzverordnung: Ausnahmezulassung gem § 7 Abs. 2 der 32. BImSchV - Pretzfelder Str. 1 / Ecke Limesstraße, Schr. RGU vom 16.04.15
+- TOP 6.6.: Staubbelastung in der Aubing-Ost-Straße durch Baufahrzeuge und Baustelle der Fa. Demos; Straßenreinigung, Schr. Baureferat vom 16.04.15
+- TOP 6.7.: Info-Broschüre zur Verpackungsverordnung, Schr. Abfallwirtschaftsbetrieb vom 27.04.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 8.2.: Protokoll der öffentlichen Sitzung des Mieterbeirats vom 13.04.15, Schr. Mieterbeirat vom 28.04.15
+- TOP 8.4.: Europe Direct Information 02/2015, Schr. Referat für Arbeit und Wirtschaft vom 30.04.15
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 25.03.15: - Generalinstandsetzung und Umbau der ehemaligen Grundschule Schussenrieder Str. 5 in ein Haus für Kinder im 22. Stadtbezirk
+- TOP 10.2.: Beschluss des Bauausschusses vom 21.04.15: - Gewerbegebiet Freiham Süd - Öffentliche Grün- und Platzflächen, Bebauungsplan mit Grünordnung Nr. 1916 a - Öffentliche Grünflächen (Bauteil 3) - Straßenausbaubeitragssatzung, Beitragserlass für bereits abgeschlossene Maßnahmen - Überarbeitung des Mähkonzeptes auf städt. Grünflächen und Verkehrsbegleitgrün
+- TOP 10.3.: Beschluss des Kreisverwaltungsausschusses vom 28.04.15: - Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseitigen Wirtschaftsgärten
+- TOP 10.5.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15: Beseitigung höhengleicher Bahnübergänge
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 17.06.2015 um 19.30 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - gemeinsame Sitzung des UA Planung/Bauen/Umwelt und UA Soziales/Familie/Senioren/Kultur: Montag, 11.05.15 um 19 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 19.05.15 um 19 Uhr in der Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 13.05.15 um 18.30 Uhr im Bildungslokal Limesstr. 81
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 2.10.: Stadtfüchse in Aubing-Ost
+- TOP 2.11.: Verkehrssituation Altenburgstraße - Bushaltestelle Wertheimerstraße
+- TOP 2.12.: Barrierefreier Zugang am S-Bahnhof Aubing
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Kravogelstr. 32, Anhörung Planungsreferat vom 07.05.15
+- TOP 3.3.: Baumfällungen auf Anforderung: - Lindacher Str. 23 - Krögelsteiner Str. 8 - Ravensburger Ring 70 - Limesstr. 41 - Elisabeth-Jost-Str. - Aubinger Str. 122 - Hohenesterstr. 7 - Pettostr. 8 - Dinkelsbühler Str. 25 - Bodenseestr. 260 - Heckenhofer Str. 1 - Sponeckstr. 1 - Federseestr. 40 - Rieneckerstr. 4 - Kleberweg 17 - Am Langwieder Bach 15 - Wertheimer Str. 71 - Lindacher Str. 21 N - Zwingenberger Str. 3 N - Zwingenberger Str. 5 N - Eichelhäherstr. 44 N - Bergsonstr. 163 N - Kurt-Floericke-Str. 13 N - Giechstr. 17
+- TOP 6.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Veranstaltung auf öffentlichen Verkehrsgrund: IVG Volksradeln 2015 (Startpunkt Gröbenzell), Anhörung KVR vom 11.05.15
+- TOP 6.2.: Erweiterungsplanung an der GS Ravensburger Ring 37, Schr. Referat für Bildung und Sport vom 05.05.15
+- TOP 6.7.: Sitzbank an der Haltestelle Langwied Bahnhof - Linie 143 Richtung Möbel Höffner, Schr. MVG vom 08.05.15
+- TOP 6.1.: Baufälle im 22. Stadbezirk vom 06.04.-12.04.15, 13.04.-19.04.15, 20.04.-26.04.15, 27.04.-03.05.15, Schr. Planungsreferat vom 14.04.15, 20.04.15, 27.04.15, 05.05.15
+- TOP 6.8.: Baumaßnahmen der SWM: Stromprojekt Wichnantstraße, Schr. SWM vom 07.05.15
+- TOP 6.9.: Neubau einer Fahrzeug Instandhaltungs- und Behandlungsanlage (FIBA) Pasing, Schr. Planungsreferat vom 30.04.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München - Stichtag: 20.04.15, 27.04.15, 04.05.15, 11.05.15 (N)
+- TOP 8.3.: Mitteilung über ein Grundstücksgeschäft: - Jakob-Baumann-Straße, Schr. Kommunalreferat vom 24.04.15 und 30.04.15 N - Germeringer Feld, Schr. Kommunalreferat vom 07.05.15
+- TOP 8.5.: Zweckentfremdung von Wohnraum: - Kravogelstr., Schr. Sozialreferat vom 07.05.15 - Aubing-Ost-Straße, Schr. Sozialreferat vom 06.05.15
+- TOP 10.4.: Beschluss der Vollversammlung des Stadtrates vom 29.04.15: - Urbane Gemeinschaftsgärten in München - EU-Projekt "Smarter Together", Förderantrag zum geplanten Smart Cities and Communities Leuchtturm Projekt im EU-Rahmenprogramm für Forschung und Innovation Horizont 2020 - Gartenstädte, Erhalt des Charakters und bauliche Entwicklung - Bebauungsplan mit Grünordnung Nr. 2068: Germeringer Weg, Freihamer Weg, Kunreuthstr., Wiesentfelser Str., Anton-Böck-Str., S-Bahnlinie München-Herrsching, Bodenseestr., verlängerte Freihamer Allee - Billigungsbeschluss N - Soforprogramm für Einrichtungen zur Unterbringung von Flüchtlingen N - Zuschussnehmerdatei 2015: Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Stadtjugendamtes und des Amtes für Wohnen und Migration
+- TOP 10.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: - Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.14 - Beschlussvollzugskontrolle; Bericht überdie der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.-31.12.14 N - Urbane Gemeinschäftsgärten in München N - Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen
+- TOP 10.10.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15: - Zuschussnehmerdatei 2015: Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung und des Sozialreferates/Zentrale
+- TOP 6.7.: BA-Erstinformation zum Sofortprogramm: Gemeinschaftsunterkunft in der Langwieder Hauptstraße, Schr. Sozialreferat vom 12.05.15
+- TOP 5.4.: Budget der Bezirksausschüsse: Interessengemeinschaft Westkreuz e.V. Wiederaufstellung des Maibaumes am 23.04.2015
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.5.1.: Flüchtlinge in Freiham
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Parken vor dem Anwesen Kronwinkler Str. 32 (vertagt aus 04/15 in den UA Verkehrsinfrastruktur)
+- TOP 2.3.: Veränderungen am Spielplatz Waidachanger
+- TOP 2.7.: Schaffung von 3-4 Kurzzeitparkplätzen Lochhausener Str. gegenüber dem S-Bahnhof Lochhausen
+- TOP 2.13.: Buslinie zur Paulaner-Brauerei - Haltepunkt Langwied
+- TOP 2.14.: Zukünftige Nutzung des Hotel Pollinger
+- TOP 4: Anträge
+- TOP 4.5.: Sportcampus Freiham
+- TOP 5: Entscheidungen
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Betriebskonzept für UBO 9 und Weiterführung der Kultureinrichtung, Anhörung Kulturreferat vom 19.01.15 und Schreiben Kulturreferat vom 27.04.15 (vertagt aus 02/15, 03/15, 04/15)
+- TOP 6.3.: Standortvorschläge für Kulturstrand 2015, Anhörung KVR vom 20.04.15
+- TOP 6.1.: Erweiterung des Städtischen Notquartiers Kastelburgstr. 56-60 - Anwortschreiben an Anwohner, Schr. Sozialreferat vom 17.04.15
+- TOP 6.3.: Veranstaltungsübersicht Mai, Schr. Kulturreferat vom 30.04.15
+- TOP 6.6.: Stadtteilcheck "Auf Herz und Rampe prüfen" - Busfahrpläne, Schr. MVG vom 08.05.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.4.: Stellungnahme des AAN zum Leistungprogramm 2016 der MVG, Schr. AAN vom 16.04.15
+- TOP 6.6.: Geplante Stadtbuslinie Lochhausen Bahnhof - Langwied - Pasing Bahnhof: Haltestelle Eschenrieder Straße, Schr. SWM vom 30.04.15
+- TOP 6.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2084: Kleiberweg (südlich), Henschelstr. (südwestlich) und Federseestr. (nordwestlich) - Bekanntgabe des Ergebnisses des städt. und landschaftsplanerischen Ideenwettbewerbs "Henschelstraße", Anhörung Planungsreferat vom 30.04.15
+- TOP 6.10.: Vollzug des Allg. Eisenbahngesetzes: Plangenehmigungsverfahren nach §§ 18 AEG i.V.m. § 74 Abs. 6 VwVfG für das Vorhaben "Neubau einer Planumschutzschicht und Tiefenentwässerung im Zuge der Erneuerung des Gleises 2 und der Weichen 217-219 im Bahnhof München-Freiham, Bahnstrecke 5541 München-Pasing - Herrsching, Schr. Planungsreferat vom 06.05.15
+- TOP 7.1.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest in der Dietrichsteinstraße am 25.07.15, Anhörung KVR vom 13.05.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 7.2.: Paulaner Langwied: Planänderung - Neubau einer behindertengerechten Bushaltestelle, Anhörung Wanger Ingenieure vom 13.05.15
+- TOP 8.1.: Präsentation zur BA-Infoveranstaltung am 22.04.15, Schr. KVR vom 23.04.15
+- TOP 7.3.: Schulbauoffensive 2013/2030: Aktionsprogramm Schul- und Kita-Bau, Forführung des Pavillonsbauprogrammes für in 2016 aufzustellende Pavillonanlagen, Anhörung Referat für Bildung und Sport vom 15.05.15 - Hinweis: Eine Fristverlängerung war auf Rückfrage mit dem Referat nicht möglich -
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10.6.: Beschluss des Bildungsausschusses vom 06.05.15: Realisierungswettbewerb - Bildungscampus und Sportpark Freiham; Errichtung einer 5-zügigen Grundschule und eines 19-klassigen Förder- und Kompetenzzentrums mit einer Doppelsporthalle, eines 6-zügigen Gymnasiums und einer 5-zügigen Realschule sowie eines Sportparks
+- TOP 10.7.: Beschluss des Sportausschusses vom 06.05.15: Realisierungswettbewerb - Bildungscampus und Sportpark Freiham; Errichtung einer 5 zügigen Grundschule und eines 19-klassigen Förder- und Kompetenzzentrums mit einer Doppelsporthalle, eines 6-zügigen Gymnasiums und einer 5-zügigen Realschule sowie eines Sportparks
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.15: - Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfantrags aus der Vollversammlung vom 19.12.2012
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zur Informationsveranstaltung des Sozialreferats am 29.06.15 von 18.30 - 20.30 Uhr, Orleansplatz 11, Schr. Sozialreferat vom 05.05.15
+- TOP 11.2.: Informationsaustausch mit den Bezirksausschüssen und Kommunalreferat am 05.03.15: Einsatz und Zugriff auf GeoInfoWeb für die Bezirksausschüsse, Schr. Kommunalreferat vom 05.05.15
