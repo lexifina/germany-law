@@ -1,0 +1,62 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2015-05-20T17:00:00+02:00
+- Ende: 2015-05-20T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3242
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936f561d8f32e9185e9b19
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 22.04.2015 - (offen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2015 Lichtenbusch Innenerschließung Erschließung Ausführungsbeschluss - ungeändert beschlossen
+- TOP 4.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2015 Kaiserplatz Umbau der südlichen Stiftsumfahrt zur Optimierung des Busverkehrs - ungeändert beschlossen
+- TOP 4.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen im Haushaltsjahr 2015 - überplanmäßige Mittelbereitstellung im Produkt 011001 IT-Management Verlagerung Telekommunikationsservice von E 26 (Eigenbetrieb Gebäudemanagement) nach FB 11/400 (Abteilung Informations- und Kommunikationsmanagement) - ungeändert beschlossen
+- TOP 5: Aufhebung des Durchführungsplans Nr. 395 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich der Kreuzung Reumontstraße, Südstraße und Mozartstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 6: Aufhebung des Durchführungsplans Nr. 407 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Hirschgraben, Pontdriesch und Bergdriesch hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 7: Aufhebung des Durchführungsplans Nr. 408 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Seilgraben, Bergdriesch, Rochusstraße und Martinstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 8: Aufhebung des Durchführungsplans Nr. 409 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich der linken Seite des Seilgrabens zwischen Minoritenstraße, und Neupforte hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 9: I. Änderung des Bebauungsplanes Nr. 896 - Weststraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Weststraße, Halifaxstraße und Bahnanlagen hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 10: Teilaufhebung des Bebauungsplanes Nr. 531 - Heerlener Straße / Valkenburger Straße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Valkenburger Straße und Heerlener Straße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 11: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz - KiBiz) hier: 5. Änderungssatzung - ungeändert beschlossen
+- TOP 12: Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Förder- und Betreuungsangeboten in der Primarstufe der Schulen der Stadt Aachen (Offene Ganztagsschulen) hier: 6. Änderungssatzung - ungeändert beschlossen
+- TOP 13: Satzung über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz - KiBiz) hier: 3. Änderungssatzung - ungeändert beschlossen
+- TOP 14: Satzung über die Erhebung von Beiträgen nach § 8 KAG NW für den Neuausbau der Teileinrichtung "Oberflächenentwässerung" der Erschließungsanlage Scheibenstraße von Oberstraße bis Hein-Janssen-Straße (verkehrsberuhigter Bereich) - ungeändert beschlossen
+- TOP 15: Änderung der Satzung für die städtischen Wochenmärkte Marktsatzung (Wochenmarktsatzung) - ungeändert beschlossen
+- TOP 16: Wirtschaftsplan 2015/2016 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 17: Vorläufiger Wirtschaftsplan 2016/2017 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 18: Umbau und Erneuerung des Feuerwehrgerätehauses Aachen - Sief - ungeändert beschlossen
+- TOP 19: a) Erweiterung der Bewohnerparkzone 'Z' (Zollernstraße) und Einrichtung der Bewohnerparkzone 'V' (Viktoriaallee / Oppenhoffallee) b) 3. Nachtrag zur Parkgebührenordnung - geändert beschlossen
+- TOP 19.1: a) Erweiterung der Bewohnerparkzone 'Z' (Zollernstraße) und Einrichtung der Bewohnerparkzone 'V' (Viktoriaallee / Oppenhoffallee) b) 3. Nachtrag zur Parkgebührenordnung - ungeändert beschlossen
+- TOP 20: Investorenmodell Eisenbahnweg "Guter Freund" - Einrichtung einer 5-gruppigen Kindertagesstätte - ungeändert beschlossen
+- TOP 21: Fortentwicklung der Städteregion - Ergänzende Vereinbarung zur Finanzierungssystematik mit Anlage - ungeändert beschlossen
+- TOP 22: Anfragen - (offen)
+- TOP 23: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 23.1: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 24: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 25: Resolution des Rates der Stadt Aachen: Unverzügliche und dauerhafte Abschaltung des belgischen Kernkraftwerks Tihange; Gemeinsamer Antrag zur Tagesordnung der Fraktionen von CDU, SPD, GRÜNE, DIE LINKE, FDP und PIRATEN vom 06.05.2015 - ungeändert beschlossen
+- TOP 26: Annahme einer Schenkung; Ersatz des Kronleuchters im Vorzimmer des Oberbürgermeisters/Büro des Fachbereichs Verwaltungsleitung durch einen Linsenleuchter entsprechend Foyer, Ratssaal und Oberbürgermeister-Büro sowie Anschaffung von Garderobenschränken und -Theke für die Oberbürgermeister-Rathausgarderobe durch den Rathausverein Aachen e.V. - ungeändert beschlossen
+- TOP 27: Entwurf der Jahresrechnung 2013 - zurückgestellt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
