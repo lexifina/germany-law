@@ -1,0 +1,94 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-05-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510214
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510214
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.: Neubesetzung der Unterausschüsse
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Erhöhung der Verkehrssicherheit an der Bahnstraße/Adlerstraße durch einen Verkehrsspiegel - <div>Nachfrage beim Baureferat hinsichtlich der Haltung zu den Verkehrsspiegeln</div>
+- TOP 3.2.: Parksituation am Herderwiesweg - <div>Verweisung an Fachreferat</div>
+- TOP 3.1.: Glasfasererschließung Trudering - <div>Zustimmung und Weiterleitung</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Bundesligatauglicher Hallenboden für DJK SB München Ost in der Dreifachsporthalle des Truderinger Gymnasiums - <div>nach Antrag inkl. Ergänzngen und Weiterleitung</div>
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Errichtung von Absperrpfosten am neu erstellten Schulradweg Trudering- Messestadt - <div>Zustimmung und Weiterleitung </div>
+- TOP 4.3.: Ergänzung eines Zweirichtungsrad-Fußweges entlang "Am Hüllgraben" - <div>Zustimmung und Weiterleitung</div>
+- TOP 4.4.: Zeitnahe Entscheidung für die Trägerschaft des geplanten Jugendcafes in der Messestadt Ost - <div>vertagt</div>
+- TOP 4.5.: Besseres Notfallmanagement für die Tiefgarage in den Riem-Arcaden - <div>Zustimmung und Weiterleitung</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Entlastung der überfüllten Busse der Linie 146 am Freitagnachmittag - <div>zur Kenntnis genommen, nochmaliges nachfassen bei der MVG</div>
+- TOP 5.2.: Schaffung von tauglichen Tiefgaragen für Wohnmobile und Kleinlaster bis 3,5 t im Planungsgebiet des Bebauungsplans 2065 Messestadt Ost
+- TOP 5.3.: Turnerstraße 46; Nachtrag eines Schulgebäudes in die Denkmalliste - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Modellversuch- Sportgeräte für Erwachsene an Kinderspielplätzen (TOP 5.1 vom 23.04.2015) - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: "Sonntags nie?"- Wochenend- Servicewüste für S- Bahnaufzüge - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Kein U- Turn an der Wasserburger Landstraße/ Friedenspromenade - <div>zur Kenntnis genommen</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Städtische Riemanlage Riemer Park Nachtmarathon am 24.-25.10.2015 - <div>nach Antrag</div>
+- TOP 7.2.: Willy- Brandt- Platz öG Starlight Express Riem Arcaden am 18.07.2015 - <div>nach Antrag</div>
+- TOP 7.3.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Kindergartens Spatzennetz e.V. Einbau einer Garderobe, hier Verlängerung des Bewilligungszeitraums bis 31.08.2015 - <div>nach Antrag</div>
+- TOP 7.4.: Polizei statt Bürgerwehr- Kein Einsatz der "Sicherheitswacht" in München; Stadtratsanfrage Die Grünen- Rosa Liste vom 06.03.2015 - <div>nach Antrag</div>
+- TOP 7.5.: Kulturstrand 2015ff- Standorte 2016 - <div>Willy- Brandt- Platz als Standort vorgeschlagen</div>
+- TOP 7.1.: Quartiersmanagement für die Messestadt- Riem
+- TOP 7.2.: Verkehrsentlastung der Friedenspromenade, Feldbergstraße und Bajuwarenstraße (Ziffer 1); Empfehlung Nr. 14-20/ E 00172 der Bürgerversammlung des Stadtbezirks 15- Trudeirng- Riem am 09.10.2014; Sitzungsvorlage Nr. 14-20/ V 02852; Beschluss des Ausschusses für Stadtplanung und Bauordnung - <div>nach Antrag</div>
+- TOP 7.1.: Feldbergstraße 83 - <div>zur Kenntnis genommen</div>
+- TOP 7.2.: Vogesenstraße 28 - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.3.: Birkhahnweg 23 - <div>Zustimmung zum Bauvorhaben</div>
+- TOP 7.4.: Schmuckerweg 3 - <div>Zustimmung und Erhalt der Wegebeziehung zum Gewerbegebiet</div>
+- TOP 7.5.: Str.-Augustinus-Straße 62 - <div>Zustimmung inkl. Ergänzungen</div>
+- TOP 7.1.: Pilotprojekt München lebt interkulturelle Vilefalt Ein Angebot für Bezirksausschüsse, weiteres Vorgehen
+- TOP 7.2.: Inklusion im Kindertageseinrichtungs- und Schulbereich Umsetzung der UN- Behindertenrechtskonvention Sachstandsbericht und Konzeption - <div>Zustimmung</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: 8.1.1 Adelmannstraße 20 8.1.2 Böcklerweg 25 8.1.3 Eisgruberstraße 18 8.1.4 Heilwigstraße 4 8.1.5 Rofanstraße 11c 8.1.6 Säntisstraße 50 8.1.7 Von-Gravenreuth- Straße 7 8.1.8 Wasserturmstraße 23 8.1.9 Zehntfeldstraße 243 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: 8.2.1 Am Eulenhorst 43 8.2.2 Birkhahnweg 34 8.2.3 Böcklerweg 30 8.2.4 Bürgermeister-Keller-Straße 13 8.2.5 Dar-es-Salaam-Straße 14 8.2.6 Dorotheenstraße 6 8.2.7 Friedenspromenade 39 8.2.8 Friedrich-Creuzer-Straße 4 8.2.9 Gartenstadtstraße 56 8.2.10 Geitnerweg 18 8.2.11 Gerstäckerstraße 8 8.2.12 Großfriedrichsburger Straße 30 8.2.13 Haffstraße 11 8.2.14 Halleiner Straße 3 8.2.15 Hochkönigstraße 52 8.2.16 Iltisstraße 7 8.2.17 Iltisstraße 9 8.2.18 Iltisstraße 22 8.2.19 Iltisstraße 62 8.2.20 Ingeborgstraße 47 8.2.21 Kästlenstraße 30 8.2.22 Karlsburger Straße 61 8.2.23 Karpartenstraße 4 8.2.24 Kirtaweg 29 8.2.25 Kranichweg 42 8.2.26 Lachenmeyrstraße 30 8.2.27 Leonhardiweg 41 8.2.28 Lohnrößlerweg 10 8.2.29 Möwestraße 9 8.2.30 Niobestraße 3 8.2.31 Salzmesserstraße 46 8.2.32 Salzmesserstraße 54 8.2.33 Sansibarstraße 3 8.2.34 Sansibarstraße 34 8.2.35 Schleienweg 5 8.2.36 Schmuckerweg 4 8.2.37 Schwedensteinstraße 16 8.2.38 Schwedensteinstraße 45 8.2.39 Solalindenstraße 48 8.2.40 Stahlgruberring 5 8.2.41 Taku-Fort-Straße 10 8.2.42 Teuchertstraße 46 8.2.43 Theodor-Kober-Straße 6 8.2.44 Togostraße 3 8.2.45 Turnerstraße 15 8.2.46 Von-Gravenreuth-Straße 42 8.2.47 Wasserburger Landstraße 17 8.2.48 Waterbergstraße 9 8.2.49 Westermeierstraße 33 8.2.50 Wiesbachhornstraße 5 8.2.51 Wimbachtalstraße 16 8.2.52 Windhuker Straße 2 8.2.53 Xaver-Weismor-Straße 77 8.2.54 Zeisigweg 15 - <div>Zustimmung zum Votum des UA, auf das UA Protokoll wird verwiesen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung des BA- Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA- Satzung - Zustimmung zum Straßenfest Weltspieltag Echeo e.V. am 28.05.2015, Helsinkistraße 100 - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Dauerhafte Verlängerung der Betriebszeiten von Freischankflächen und straßenseiitgen Wirtschaftsgärten; Beschluss des Kreisverwaltungsausschusses vom 28.04.2015 (VB); Sitzungsvorlage Nr. 14-20/ V 02910 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: 10.1.1 Unveränderte Fortführung von Gaststättenbetrieben 10.1.1.1 Stahlgruberring 14 10.1.1.2 Friedenspromenade 114 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Beseitigung höhengleicher Bahnübergänge 1. Gegenwärtiger Stand 2. Feldmochinger Straße Beseitigung des höhengleichen Bahnübergangs "Jährlicher Sachstandbericht" Sitzungsvorlage Nr. 14-20/ V 02324; Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Feldbergstraße/Zehntfeldstraße/Hugo-Lang-Bogen Kreuzungsumbau; LZA-Austausch im Stadtbezirk 15 Trudering- Riem Projektkosten (Ausführungskosten): 1.1500.00 Euro Ausführungsgenehmigung; Sitzungsvorlage Nr. 14-20/ V 02839; Beschluss des Bauausschusses vom 12.05.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Vorübergehender Taxistandplatz auf dem Grundstück westlich Paul- Wassermann- Straße und nördlich Joseph- Wild- Straße (Alfons Schuhbeck Teatro) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Information über das Betriebskonzept während der Schienenschleifarbeiten vom 21.06.2015 bis 02.07.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Neubau einer Lichtsignalanlage für den Knotenpunkt Bajuwaren-/ Bernhard- Mayer- Straße - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Vollzug des Bayer. Straßen- und Wegegesetzes; Erteilung einer öffentlich- rechtlichen Sondernutzungserlaubnis am 09.05.2015 in der Truderinger Straße (verschiedene Standorte) - <div>zur Kenntnis genommen</div>
+- TOP 10.7.: Bauvorhaben: Steffelhofstraße und Westermeierstraße Fahrbahnsanierung zwischen Ruppanerstraße und Am Moosfeld - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Mitteilung über ein Grundstücksgeschäft, Paul- Henri- Spaak- Straße - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Mitteilung über ein Grundstücksgeschäft, Messestadt Riem 4. Bauabschnitt - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Mitteilung über ein Grundstücksgeschäft, Stolzhofstraße - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Städtebauliche Entwicklungsmaßnahme Münchner Nordosten A) Stadtplanungsziel für die Städtebauliche Entwicklungsmaßnahme Münchner Nordosten (SEM) mit der Prämisse- "Mehr GRÜN als GRAU" statt "kompakt-urban-grün" Empfehlung Nr. 14-20/ E 00229 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 23.10.2014 B) Bauplanungen Münchner Nordosten (SEM)- Berücksichtigung des hohen Grundwasserspiegels im Hinblick auf die bereits bestehenden Siedlungen (Zahnbrechersiedlung und Gartenstadt) Empfehlung Nr. 14-20/ E 00231 der Bürgerversammlung des Stadtbezirkes 13- Bogenhausen am 23.10.2014 Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering- Riem Sitzungsvorlagen Nr. 14-20/ V 02412; Beschluss des Ausschusses für Stadtplanung und Bauordnugn vom 06.05.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches (BauGB) Planungsgebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/25 und Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2095 Feldbergstraße (westlich), Wasserburger Landstraße (nördlich) Planungsdarlegung vom 21.April 2015 bis 21.Mai 2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Gewerbegebiet Stolzhofstraße; Vergabe einer Gewerbeparzelle - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Am Mossfeld 15a; Betriebsbeschreibung für ein Boardinghaus - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: 10.4.1 Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung 10.4.1.1 Lonrößlerweg 12 10.4.1.2 Birkhahnweg 23 10.4.1.3 Bajuwarenstraße 41 10.4.1.4 Eisgruberstraße 20 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen 4. Standortbeschluss; Sitzungsvorlage Nr. 14-20/ V 03051; Beschluss der Vollversammlung vom 29.04.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Integriertes Handlungsprogramm zur Förderung der Elektromobilität in München (IHFEM) Produkt 5350100 Umweltvorsorge (RGU) Produkt 5127000Vergabe, Beschaffung, Dienstleisutng (DIR) Produkt 5816000 Räumliche Entwicklungs- und Verkehrsplanung (PLAN) Produkt 5537000 Verkehrsmanagement (KVR) Ändeurng des MIP 2014-2018, Finazieurngsbeschluss ; Sitzungsvorlage Nr. 14-20/ V 02722; Beschluss des Umweltausschusses in der gemeinsamen Sitzung des Umweltausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Ausschusses für Arbeit und Wirtschaft und des Kreisverwaltungsausschusses vom 06.05.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Freunde der Freiwilligen Feuerwehr Riem v. 1874 e.V. Tag der offenen Tür am 04.07.2015
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Freundeskreis des Sonderpädagogischen Förderzentrums München-Ost Druckkosten für die Schülerzeitung ?Eastrider?
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
+- TOP 4.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Gesprächsteilnahme verschiedener Vertretungen zum Thema ALB
+- TOP 10.3.: Ottilienstraße 68 - <div>zur Kenntnis genommen</div>
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
