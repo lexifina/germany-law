@@ -1,0 +1,158 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2015-05-21T17:30:00+02:00
+- Ende: 2015-05-21T23:01:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3561
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3561
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=123800
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=124984
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Eheschließung - Deutsche bevorzugt? - beantwortet
+- TOP 5.2: Inklusive Schwerpunktschulen in Mitte? - beantwortet
+- TOP 5.3: Explosiver Zeppelinplatz und seine Umgebung - beantwortet
+- TOP 5.4: Novellierung des Landesarchivgesetzes - beantwortet
+- TOP 5.5: „Auslandsmaßnahme“ für Jugendliche? - schriftlich beantwortet
+- TOP 5.6: Ombudsmann / Ombudsfrau auch im Jobcenter Mitte? - schriftlich beantwortet
+- TOP 5.7: Mitte wartet auf den FahrRat - schriftlich beantwortet
+- TOP 5.8: Wohlergehen der Tiere auf der Weddinger Kinderfarm - schriftlich beantwortet
+- TOP 5.9: Aktueller Stand zur Zukunft der Jugendverkehrsschule Bremer Str. 10 - schriftlich beantwortet
+- TOP 5.10: Stellenzuwachs im Sozialamt Mitte - schriftlich beantwortet
+- TOP 5.11: Gemeinsame Maßnahmeplanung von Jobcenter und Bezirk für einen gelingenden Start der Jugendberufsagentur in Mitte zeitnah und bedarfsgerecht ! - schriftlich beantwortet
+- TOP 5.12: Stellenauswirkung durch Zielvereinbarung "Eingliederungshilfe / Hilfe zur Pflege" - schriftlich beantwortet
+- TOP 5.13: Weitere Stellenzuweisungen an den Bezirk - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Sanierungsmittel ins Blaue beantragt: Wie weiter mit der Ernst-Reuter-Schule? - gegenstandslos
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Wer hilft Hilfebedürftigen im Amt für Soziales? - beantwortet
+- TOP 7.2: Vereinsinvestitionsprogramm 2013/14 des Landes Berlin für die Sanierung von Sportanlagen in Berlin Mitte - beantwortet
+- TOP 7.3: Personalpolitik-Personalabbau an den Realitäten vorbei? - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: vorhabenbezogener Bebauungsplanentwurf 1-45 VE (Hamberger) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-45 VE - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Entwurf der Anmeldungen für die Investitionsplanung 2015 - 2019 - mit Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Keine Unterstützung der Entmietung in der Wilhelmstraße durch das Bezirksamt - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Administrative Umsetzung der Senatsprogramme für Flüchtlinge - überwiesen
+- TOP 11.3: Betreuung und Koordination der Kurse für Flüchtlinge - überwiesen
+- TOP 11.4: Gegen die generelle Schließung des Stattbad Wedding! - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Die Zeitmaschine auf dem Alex - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Generelle Finanzierung der Mobilitätskosten für Flüchtlinge - überwiesen
+- TOP 12.3: Bitte nicht mehr schwarz sehen - mindestens eine Pinselsanierung für die Brandwand an der Carl-Bolle-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Würdigung der Keimzelle Berlins - überwiesen
+- TOP 12.5: Personalabbau aussetzen - solide und nachhaltige Personalentwicklungsplanung vorlegen! - überwiesen
+- TOP 12.6: NSA-Angriffe auf Mittes Unternehmen? - in der BVV abgelehnt
+- TOP 12.7: Beschleunigte Stellenbesetzungsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Entscheidungen im Rat der Bürgermeister erst nach BVV Konsultation - in der BVV abgelehnt
+- TOP 12.9: Verkehrswildwest vor der City-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Gartenstadt Berlin - überwiesen
+- TOP 12.11: Längere Ampelphase für Fußgänger an der Torstraße/Ackerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Patenschaften für Flüchtlingskinder im Bezirk - überwiesen
+- TOP 12.13: Konzeptverfahren bei Vermarktung ehemals bezirklicher Grundstücke sicherstellen - überwiesen
+- TOP 12.14: Stärkung der bezirklichen Demokratie - in der BVV abgelehnt
+- TOP 12.15: Berufspraktika für geflüchtete Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Berliner Modell zur kooperativen Baulandentwicklung in Mitte anwenden - überwiesen
+- TOP 12.17: Bezuschussung von Mittagsessen in Schulen - überwiesen
+- TOP 12.18: Projekt "Soziales Platzmanagement am Leopoldplatz" fortsetzen (II) - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Änderung der Geschäftsordnung: Umgang mit übernommenen Änderungsanträgen - überwiesen
+- TOP 12.20: Unterausgelastete Pflegeeinrichtungen für Flüchtlingsunterbringung nutzen - überwiesen
+- TOP 12.21: Änderung der Geschäftsordnung: Umgang mit Dringlichkeitsanfragen, die von der Versammlung nicht für dringlich angesehen werden - überwiesen
+- TOP 12.22: Für einen Nelson-Mandela-Platz in Mitte - überwiesen
+- TOP 12.23: Trinkprotokolle in Seniorenpflegeeinrichtungen - überwiesen
+- TOP 12.24: Erneuter Einsatz für die Überführung des Französischen Gymnasiums in zentrale Trägerschaft - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Abwahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Gedenkveranstaltungen - generationenübergreifend, zum Mitmachen und Weitersagen - überwiesen
+- TOP 12.27: Kältehilfe für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: Pflegebetrug bekämpfen und die Qualität der Pflege sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Gesunde Beschäftigte: Bericht zur Wirksamkeit des Gesundheitsmanagements - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Vereinbarkeit Familie-Beruf unterstützen- Kita-Öffnungszeiten erweitern! - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Konzept für die Turmstraße 75 im Schulausschuss vorstellen - vertagt
+- TOP 12.32: Ersatzbeschaffung IT-Technik - überwiesen
+- TOP 12.33: Erstausstattung Olof-Palme-Jugendzentrum - überwiesen
+- TOP 12.34: Finanzierung von durch Verträgen bereits gebundenen Mitteln - überwiesen
+- TOP 12.35: Finanzierung von fallunspezifischer Arbeit (FuA), Leistungen nach § 16 SGB VIII sowie Kostensatzsteigerungen bei der externen Erziehungs- und Familienberatung (EFB) - überwiesen
+- TOP 12.36: Ko-Finanzierung der ESF-Mittel/Bundesmittel - überwiesen
+- TOP 12.37: Mehrbedarf zur Qualitätssicherung im Bereich Personal - überwiesen
+- TOP 12.38: Finanzierung einer Praktikantenstelle im Rahmen der praktischen Ausbildung im RSD - überwiesen
+- TOP 12.39: Qualitätssicherung im Bereich Personal - überwiesen
+- TOP 12.40: Steigerungen der Betriebskosten - überwiesen
+- TOP 12.41: Tarifsteigerungen - überwiesen
+- TOP 12.42: Mittel der politischen Bildung - überwiesen
+- TOP 12.43: Maßnahmen zur Sicherung der Aufgabenerfüllung der Berliner Jugendämter - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: BVV-Berlin-Mitte für gesicherten Fortbestand des "Knorke" am Leopoldplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Konsolidierungskonzept anpassen - vertagt
+- TOP 14.3: Verantwortung tragen, Schulsanierung anpacken! - vertagt
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Wohnungsbau in der Wilhelmstraße erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Unternehmensnetzwerk Moabit West unterstützen: Regionalmanagement Moabit West fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Unternehmensnetzwerk Moabit West unterstützen: Finanzierung des Moabiter Energietags sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Aktenverzeichnisse veröffentlichen - vertagt
+- TOP 15.5: Zugang zum Spielplatz Kurfürstenstr. 51 für den Kindergarten "Goldener Schlüssel". - vertagt
+- TOP 15.6: Allgemeingesellschaftliche Normen auch für den sicheren Fahrradverkehr durchsetzen, 1. Versuch - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Städtebauliche Besonderheiten in der Turmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Online-Bürgeramt für Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Frauenbeirat und andere Beiräte in Mitte sichtbar und transparent machen - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Bei Bauvorhaben Kurfürstencentrum Anteil sozialverträglicher Mieten sichern - vertagt
+- TOP 15.11: Politische Schwerpunkte Haushaltsplanaufstellung 2016/2017 - vertagt
+- TOP 15.12: Informationen zur Barrierefreiheit im Internet veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 15.13: Personalabbau nicht übertreiben! - vertagt
+- TOP 15.14: Aufstellungsbeschluss für eine Erhaltungssatzung im Gebiet Wilhelmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15.15: Ausweitung der Beobachtungsgebiete zur Ausweisung einer sozialen Erhaltungssatzung - in der BVV abgelehnt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: beabsichtigte Neueinstellungen im 2. Quartal 2015 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Einbeziehen der BVV ins Bezirkliche Beschäftigungsbündnis für Wirtschaft und Arbeit (BBWA) von Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Beteiligung der Bezirke an der Reform der Berliner Bäderbetriebe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Historische Markthalle ins rechte Licht rücken! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Frauen in Führungspositionen von Verbänden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Ausreichend Müll-Container in den Weinbergspark - vertagt
+- TOP 16.7: Parken von Elektro-Fahrzeugen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Sportinitiative für Flüchtlinge in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Informationstafeln über Sportvereine an Sportstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Öffentliche Würdigung behinderter SportlerInnen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Mittes Jugendverkehrsschulen auf Mittes Internetauftritt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Mitte essbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Einbeziehung älterer Menschen mit Migrationshintergrund bei der Seniorenvertretung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Bewegungsförderung im Alltag älterer Menschen in Berlin Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Klima schützen, nachbarschaftlichen Zusammenhalt stärken: Hofbegrünungsprogramm in den Aktiven Stadtzentren Müller- und Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Lärmschutz vor Bau- und Verkehrslärm im Entwicklungsgebiet Europacity - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Gemeinsame Erarbeitung von Lösungen der Kapazitätsfrage im Schulbereich - Reduzierung der Überkapazität - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.18: Die Abrisspläne wurden verworfen: Nun den Reformationscampus gemeinsam mit der Community entwickeln! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Dienstwohnungen der Hausmeister für die gute Arbeit der Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Polizeiliches Führungszeugnis im Umgang mit Kindern und Jugendlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Zaun auf dem Magdeburger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Laub blasen ja, aber bitte leise(r)! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Ausschilderungen an der Fischerinsel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Machbarkeitsstudie zur Vergrößerung der Bruno-Lösche-Bibliothek - vertagt
+- TOP 16.25: Sanierungsgebiet Nördliche Luisenstadt hier: Verfügungstellung von Protokollen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Wirtschaftsförderung 2.0: Geschäftsstraßen in Zeiten des digitalen Wandels stärken - Online-Plattform zum Austausch von Best-Practice-Maßnahmen für Standortgemeinschaften bei der IHK Berlin einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Gesundheitsversorgung jetzt! Versicherungschipkarte für Asylsuchende und Flüchtlinge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Bericht über die Vorbereitung auf das Online-Ordnungsamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.29: Besser leben in Mitte: Kiezmütter dauerhaft finanzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.30: Barrierefreier Zugang zu den Müllentsorgungsanlagen in der Rathausstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.31: Umstellung der Microfiche-Archivierung im Wohnungsamt - vertagt
+- TOP 16.32: Bei Bebauungsvorhaben Köpenicker Straße 104-114 Wege- und Grünachse zwischen Spree und Michaelkirchplatz gewährleisten - vertagt
+- TOP 16.33: 1-64aVE - Auslage Unterlagen Öffentliche Auslegung des Bebauungsplanentwurfes Mauerpark auch im Quartiersmanagement Brunnenviertel - vertagt
+- TOP 16.34: Finanzierung Kiezmütter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.35: Bauvorhaben Bachstraße 1-2: Wohnungsbauvorhaben gemäß Ergebnis des städtebaulichen Wettbewerbs endlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.36: Wahl der Stadtteilvertretung im Aktiven Zentrum und Sanierungsgebiet Turm-straße 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.37: Berufung eines Mitgliedes für den Stiftungsrat der "Conrad - Stiftung Bürger* für Mitte" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.38: Die Präzisierung und Aktualisierung der Schutzziele und Prüfkriterien der "Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für die "Dorotheenstadt, Friedrichstadt" im Bezirk Mitte von Berlin" (GVBl. S. 258 vom 10. April 1997) gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB - vertagt
