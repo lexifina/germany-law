@@ -1,0 +1,7 @@
+# TOP 6: Bebauungsplan XIV-108-1 "Käthe-Dorsch-Ring/Agnes-Straub-Weg" -Reduzierung des Geltungsbereiches des Bebauungsplanes
+
+- Sitzung: 38. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2015-05-26)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=20694
+- Ergebnis: erledigt
