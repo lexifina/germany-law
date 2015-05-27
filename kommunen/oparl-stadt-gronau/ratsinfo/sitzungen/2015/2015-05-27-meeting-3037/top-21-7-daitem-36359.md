@@ -1,0 +1,6 @@
+# TOP 21.7: Herkunft des Beschlussvorschlages im Jugendhilfeausschuss (RM Post)
+
+- Sitzung: Rat (14. Sitzung) (2015-05-27)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/36359
