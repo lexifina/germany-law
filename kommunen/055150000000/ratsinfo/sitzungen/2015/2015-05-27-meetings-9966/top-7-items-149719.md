@@ -1,0 +1,8 @@
+# TOP 7: Ratsantrag A-R 0027/2013: Teilhabe an Arbeit für Menschen mit Behinderung in Münster erhöhen - einen inklusiven Arbeitsmarkt schaffen
+
+- Sitzung: Sitzung (2015-05-27)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/149719
+- Ergebnis: einstimmig geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/57597
