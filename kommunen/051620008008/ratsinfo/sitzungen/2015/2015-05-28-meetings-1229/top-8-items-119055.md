@@ -1,0 +1,6 @@
+# TOP 8: AK-Demografie
+
+- Sitzung: Haupt-, Finanz- und Demografieausschuss (2015-05-28)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/119055
