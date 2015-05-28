@@ -1,0 +1,7 @@
+# TOP 3: Bauleitplanung Klauberger Straße
+
+- Sitzung: Bezirksvertretung Mitte (7. Sitzung) (2015-05-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/3945
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/23623
