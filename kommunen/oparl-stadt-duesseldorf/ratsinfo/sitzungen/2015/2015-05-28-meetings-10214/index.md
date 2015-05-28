@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-05-28T14:00:00+02:00
+- Ende: 2015-05-28T20:20:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10214
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10214
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00241011.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00241011.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00241011.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Aktuelle Anfragen - beantwortet
+- TOP 2.1: Anfrage aktueller Anlass der FDP: Angebot des LVR zur Unterstützung der Kommunen im Rheinland bei de - beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage BÜ90/GRÜ: LVR-Rückzug aus den Aufgaben des Denkmalschutzgesetzes? - beantwortet
+- TOP 3.2: Anfrage der CDU-Ratsfraktion: Schulbau-Controlling 2015 - beantwortet
+- TOP 3.3: Anfrage CDU: Sicherheit am Unteren Rheinwerft- was wird aus der Weißen Flotte? - beantwortet
+- TOP 3.4: Anfrage Rh Maniera: Asylbewerberzuteilungen und Kostenentwicklung - beantwortet
+- TOP 3.5: Anfrage der Ratsfraktion DIE LINKE: Düsseldorfer Kulturamt noch arbeitsfähig? - schriftlich beantwortet
+- TOP 3.6: Anfrage des Ratsherrn Grenda: Zukunft des FH (HS) Düsseldorf Gelände/Gebäude - schriftlich beantwortet
+- TOP 3.7: Anfrage des Ratsherrn Grenda: Lebensbedingungen in Flüchtlingsunterkünften - schriftlich beantwortet
+- TOP 3.8: Anfrage Bü90-GRÜ:: Kö-Kiosk - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: Übertragene Ermächtigungen von 2014 nach 2015 - zur Kenntnis genommen
+- TOP 6: Heerdter Landstraße 186, Bau einer Kinder- und Jugendfreizeiteinrichtung - Ausführungs- und Finanzie - einstimmig beschlossen
+- TOP 7: Marktplatz 1 - 3, Verwaltungsgebäude – Erneuerung der Lüftungs- und Klimatechnik - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 8: Förderprogramm „Klimafreundliches Wohnen und Arbeiten in Düsseldorf“ - Beschluss - - einstimmig beschlossen
+- TOP 8.1: ÄA Die Linke: Klimafreundliches Wohnen und Arbeiten in Düsseldorf - mehrheitlich abgelehnt
+- TOP 9: Erstattung von gezahlten Elternbeiträgen aus Anlass von Streikmaßnahmen der Beschäftigten im Sozial- - einstimmig beschlossen
+- TOP 10: Ehrenamtskarte - Sportanlagen - einstimmig beschlossen
+- TOP 11: Annahme von Spenden im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen in der Landesh - einstimmig beschlossen
+- TOP 12: Gutachtergremium für Entschädigungen beim U-Bahn-Bau - einstimmig beschlossen
+- TOP 13: Vorschlag von Vertreter/innen für den örtlichen Beirat der gemeinsamen Einrichtung (Jobcenter) - einstimmig beschlossen
+- TOP 14: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 15: B-P5580/16 -Münster/nördlZubr-Ä 13 Stell;Satzung - einstimmig beschlossen
+- TOP 16: FNP Nr. 150 - Schwannstraße - Stellungnahmen, Planbeschluss - mehrheitlich beschlossen
+- TOP 17: FNP Änderung Nr. Südlich Paulsmühlenstraße - einstimmig beschlossen
+- TOP 18: Anträge
+- TOP 18.1: Antrag der CDU- Ratsfraktion: Die Altstadtwache muss erhalten bleiben - zurückgezogen
+- TOP 18.1.1: ÄA SPD: Die Altstadtwache muss erhalten bleiben - zurückgezogen
+- TOP 18.1.2: EA CDU: Einführung einer sogenannten Melde-App - mehrheitlich abgelehnt
+- TOP 18.2: Antrag von FDP, SPD und BÜ90/GRÜ: Einführung einer sogenannten Melde-App - mehrheitlich beschlossen
+- TOP 18.3: Antrag FDP, SPD und BÜ90/GRÜ: Herzlich willkommen in Düsseldorf - A warm welcome to Düsseldorf - mehrheitlich beschlossen
+- TOP 18.3.1: ÄA CDU: Herzlich willkommen in Düsseldorf – A warm welcome to Düsseldorf - mehrheitlich abgelehnt
+- TOP 18.3.2: ÄA CDU: Novellierung der Richtzahlen für den Stellplatz- und Fahrradab-stellplatzbedarf - mehrheitlich abgelehnt
+- TOP 18.4: Antrag SPD, BÜ90/GRÜ und FDP: Novellierung der Richtzahlen für den Stellplatz- und Fahrradabst. - mehrheitlich beschlossen
+- TOP 18.5: Antrag von SPD, BÜ90/GRÜ und FDP: Europäische Charta für die Gleichstellung von Frauen und Männern - mehrheitlich beschlossen
+- TOP 18.6: Antrag der CDU-Ratsfraktion: Keine Planungssicherheit für die Freie Szene ohne Juni-Sitzung des Beir - zurückgezogen
+- TOP 18.7: Antrag der CDU-Ratsfraktion: Koordinierungsstelle für Lärmschutz einrichten - mehrheitlich abgelehnt
+- TOP 18.7.1: ÄA von SPD, BÜ90-GRÜ und FDP: Koordinierungsstelle für Lärmschutz einrichten - zur Kenntnis genommen
+- TOP 18.8: Antrag der Ratsfraktion DIE LINKE: Kauf der Liegenschaft des Landes Ulmer Höh - mehrheitlich abgelehnt
+- TOP 18.9: Antrag der Ratsfraktion DIE LINKE: Verschrottung des Info-Pavillons - mehrheitlich beschlossen
+- TOP 18.9.1: ÄA SPD,BÜ90-GRÜ: Verschrottung des Info-Pavillons - zur Kenntnis genommen
+- TOP 18.9.2: ÄA CDU: Verschrottung des Info-Pavillons - zur Kenntnis genommen
+- TOP 18.10: Antrag der Ratsfraktion DIE LINKE: Lizensierte Abgabe von Cannabisprodukten - verwiesen
+- TOP 18.11: Antrag der Ratsfraktion DIE LINKE: Für die Aufwertung der Sozial- und Erziehungsdienste - mehrheitlich abgelehnt
+- TOP 18.12: Antrag der CDU-Ratsfraktion: Einführung eines Risikomanagements - mehrheitlich abgelehnt
+- TOP 18.13: Antrag SPD,BÜ90/GRÜ;FDP und CDU: Entgeltfreie Alphabetisierungskurse - einstimmig beschlossen
+- TOP 18.14: Antrag von SPD, CDU, BÜ90/GRÜ und FDP:Teilnahme an der Städte-Koalition gegen Rassismus - einstimmig beschlossen
+- TOP 18.15: Antrag des Ratsherrn Grenda und der Ratsfraktion DIE LINKE: Flüchtlingsheime ans Netz - zur Kenntnis genommen
