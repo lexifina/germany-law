@@ -1,0 +1,56 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-05-28T17:00:00+02:00
+- Ende: 2015-05-28T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9851
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9851
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00372241.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Prüfauftrag zum Einsatz von "Black Spot Mirror" - zur Kenntnis genommen
+- TOP 4.2: Regelungen für Brauns Märkte - zur Kenntnis genommen
+- TOP 4.3: Sachstand Rückbau Spielplatz "Am Breilbusch" - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: Informationen zur Notunterkunft für Asylsuchende des Landes NRW
+- TOP 5.2: Investitionen der Mitgliedsvereine des Stadtsportbund Münster e. V. - zur Kenntnis genommen
+- TOP 5.3: Mobilfunksendeanlagen in Münster, - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Ausweisung der Straße "Gievenbecker Reihe" als Tempo-30-Zone, Anregung gem. § 24 GO NRW Nr. 2014-00118 - mehrheitlich beschlossen
+- TOP 6.2: Johann-Krane-Weg - barrierefreier Ausbau der Haltestelle "Austermannstraße", Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 6.3: Maßnahmenprogramm 2015/2016 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bereich West - einstimmig beschlossen
+- TOP 6.4: Wiederwahl der stellvertretenden Schiedsperson für den Bezirk7 Münster-Nienberge - einstimmig beschlossen
+- TOP 6.5: Sanierung von Spielplätzen im Stadtbezirk Münster-West im Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Osthofstraße - fehlende Radverkehrsanlagen zwischen der B 235 und Münster Albachten - einstimmig geändert beschlossen
+- TOP 7.2: 64. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 572 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.3: Nutzung des Festsaales der Waldorfschule durch den Verein "KULTUR erLEBEN e. V."/ Beiratsbesetzung - einstimmig beschlossen
+- TOP 7.4: Investitionen auf Vereinssportanlagen - einstimmig beschlossen
+- TOP 7.5: Gewährung eines städtischen Zuschusses für die Anschaffung von Sportstättenpflegegeräten - einstimmig beschlossen
+- TOP 7.6: Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, Aktivierung eines weiteren Gebäudes und Konzeption der zentralen Einrichtung für Flüchtlinge sowie der Übergänge in die dezentralen Flüchtlingseinrichtungen - einstimmig beschlossen
+- TOP 8: neue Anregungen/Anträge
+- TOP 8.1: Änderungsantrag zum Entwurf des 3. Nahverkehrsplan der Stadt Münster - eingebracht
+- TOP 8.2: Verkehrssicherheit und Parkplatzsituation "Auf dem Dorn" - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.3: Sauberkeit und Austausch Ortseingangsschilder - eingebracht
+- TOP 8.4: Verkehrssicherheit Dingbängerweg Roxel / Mecklenbeck - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.5: Raumerweiterung Mosaikschule - eingebracht
+- TOP 8.6: Querungshilfe Gievenbecker Weg / Sportpark deutlich kennzeichnen - eingebracht
+- TOP 8.7: Bahnhof Roxel: Aufstellung von Wegweisern zur verbesserten Auffindbarkeit - eingebracht
+- TOP 8.8: Stratmannweg in Mecklenbeck: Sicherheit für die Kinder - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Bedarfsgerechte Aufstockung der Ü3-Kindergartenplätze in Roxel - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.2: Radweg südlich der L551 Weseler Straße von Kreuzung Oberort bis BAB 1 - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Unterhaltung Reitwege im Bereich der Bezirksverwaltung West - mehrheitlich beschlossen
+- TOP 9.4: Sanierung Weg entlang des Meckelbaches zwischen Christoph-Bernhard-Graben und Mecklenbecker Straße - zur Kenntnis genommen
+- TOP 9.5: Verkehrsberuhigung auf der Osthofstraße - Aufstellung eines stationären Geschwindigkeits-Displays - vertagt
+- TOP 10: Verschiedenes
