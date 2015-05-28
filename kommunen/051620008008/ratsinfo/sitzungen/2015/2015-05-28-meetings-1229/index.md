@@ -1,0 +1,72 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-05-28T18:00:00+02:00
+- Ende: 2015-05-28T22:30:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1229
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1229
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Gewerbesteuernachzahlung Großbetrieb 2004-2013 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062566.pdf
+- Ergebnisprotokoll: Gewerbesteuernachzahlung Großbetrieb 2004-2013 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062566.pdf
+- Wortprotokoll: Gewerbesteuernachzahlung Großbetrieb 2004-2013 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062566.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.4.1: Mobile Payment in Grevenbroich einführen (Antrag Nr. 136/15) - einstimmig
+- TOP 2.5: B 90/Grüne
+- TOP 2.6: ABG
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.8: Die Linke/Piraten
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Anfrage "Finanzielle Situation der Stadt Grevenbroich" (Anfrage Nr. 140/15) - Kenntnisnahme
+- TOP 3.3: FDP
+- TOP 3.4: B 90/Grüne
+- TOP 3.5: ABG
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.6.1: Anfrage Citymanagement (Anfrage Nr. 139/15) - Kenntnisnahme
+- TOP 3.7: Die Linke/Piraten
+- TOP 3.8: UWG
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Finanzen
+- TOP 5.1: ÜPL/APL - Kenntnisnahme
+- TOP 5.2: Berichterstattung
+- TOP 5.3: Einführung einer Wettbürosteuer - mehrheitlich bei
+- TOP 6: Feuerschutz
+- TOP 6.1: Fortschreibung Brandschutzbedarfsplan - mehrheitlich bei
+- TOP 6.2: CDU, Antrag Nr. 99/15 - Kenntnisnahme
+- TOP 6.2.1: Berichterstattung/Genehmigung Beschaffungen Feuerwehr ab einem Wert von 10.000 EUR - einstimmig
+- TOP 6.3: Berichterstattung
+- TOP 6.3.1: Bericht über die Vereinbarung mit dem RKN über den Standort ELW 2
+- TOP 6.3.2: Anhörung der Feuerwehr am 19.05.2015
+- TOP 7: Soziales
+- TOP 7.1: Die Linke/Piraten, Antrag Nr. 281/14 - Kenntnisnahme
+- TOP 7.2: UWG, Antrag Nr. 61/15 - Kenntnisnahme
+- TOP 7.3: Berichterstattung
+- TOP 8: AK-Demografie
+- TOP 8.1: mündlicher Vortrag
+- TOP 8.2: Bericht aus dem AK Demografie - Kenntnisnahme
+- TOP 9: Beantwortung von Anträgen
+- TOP 9.1: Produkt 01061, Antrag der FDP-Fraktion 212/14 - Kenntnisnahme
+- TOP 9.2: Antrag der SPD-Fraktion "Bürgerdienste in den Stadtteilen" (Antrag Nr. 318/14) - einstimmig
+- TOP 10: Beantwortung Anfragen
+- TOP 10.1: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 11: Mündliche Anträge/Anfragen
+- TOP 11.1: Antrag 158/15, Umformulierung
+- TOP 11.2: Antrag 159/15, Gutachterwechsel - einstimmig
+- TOP 11.3: Antrag 160/15, Wasserschließer
+- TOP 11.4: Anfrage 161/15, Feueralarm
+- TOP 11.5: Anfrage 162/15, Fußballplatz
+- TOP 11.6: Anfrage 163/15, Kosten- und Leistungsrechnung
+- TOP 11.7: Anfrage 164/15, Sexclub
+- TOP 12: Mitteilungen BM'in
