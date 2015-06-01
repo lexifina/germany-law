@@ -1,0 +1,60 @@
+# Hauptausschuss (29. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-06-01T18:00:00+02:00
+- Ende: 2015-06-01T20:00:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe4qDtYXP71l7FuRox_4fek
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6248
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeUCSkg-ii_ceps-8ht0CyvfMI3U7Bjq2FCTHB3w_36x/Bekanntmachung_Hauptausschuss_01.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdzpc3N8xzB5CK5ih01eAZgxgIO6E8iXNy2KbZht00uu/Oeffentliche_Niederschrift_Hauptausschuss_01.06.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Konsolidierung des Haushalts
+- TOP 1.1: Haushalt 2015 -Konsolidierung-
+- TOP 1.2: Einsparungen für den Haushaltsentwurf 2016 und die folgenden Jahre hier: Antrag der SPD-Fraktion vom 11.3.2015 Bezug: HA 23.2.15, Vorlagen-Nr.: 48/2015
+- TOP 1.3: Einsparungen für den Haushaltsentwurf 2016 und die folgenden Jahre hier: Antrag der Fraktion Linke&Piraten vom 09.04.2015 Bezug: HA 23.02.2015, Vorlagen-Nr.: 48/2015
+- TOP 1.4: Konsolidierung Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 16.04.2015 hier: Antrag der FDP vom 23.04.2015 - (kein Text vorhanden)
+- TOP 1.5: Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Bezug: HA 19.01., 23.03.2015 - (kein Text vorhanden)
+- TOP 2.: 5. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS – „Jedem Kind Instrument, Tanzen, Singen (JeKits)“; Bezug: Rat 27.04.2015; SchA 12.05.2015 - (kein Text vorhanden)
+- TOP 3.: Anregungen und Beschwerden gem. § 24 Gemeindeordnung
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Dringlichkeitsentscheidungen
+- TOP 4.1: Überplanmäßige Mittelbereitstellung hier: Sanierung VHS - (kein Text vorhanden)
+- TOP 4.2: Dachsanierung Max-Ernst-Gymnasium hier: überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 5.: Aufhebung des Sperrvermerks "Kulturgarage" - (kein Text vorhanden)
+- TOP 6.: Anträge
+- TOP 6.1: Städtische Immobilien hier: Antrag der Fraktionen CDU und GRÜNE vom 15.5.2015
+- TOP 6.1.1: Städtische Immobilien Bezug: Antrag Fraktionen CDU/GRÜNE vom 15.5.2015
+- TOP 6.2: Wechsel von der Hausschriftart auf eine effizientere und barrierefreie Schriftart hier: Antrag der Fraktion Linke&Piraten vom 8.4.2015, eingegangen am 12.05.2015
+- TOP 6.2.1: Anfrage zu Druckkosten und Schriftart Anfrage der Fraktions DIE LINKE & Piraten
+- TOP 7.: Mitteilungen
+- TOP 7.1: Besoldungserhöhung Beamte, Auswirkungen auf den Haushalt
+- TOP 7.2: Prüfung der Verwaltung durch die Gemeindeprüfungsanstalt (GPA)
+- TOP 8.: Anfragen
+- TOP 8.1: Brandschaden in der Grundschule Brühl-Badorf hier: Anfrage der Fraktionen CDU und GRÜNE vom 19.05.2015
+- TOP 8.1.1: Brand in der GGS Badorf hier: Beantwortung Anfrage
+- TOP 8.2: Aktueller Stand Haushalt
+- TOP 8.3: Unterführung Balthasar-Neumann-Platz
+- TOP 8.4: Römerstraße, neue Ampelanlage
+- TOP 8.5: Neubau Feuerwache
+- TOP 8.6: Flüchtlingskostenpauschale
+- TOP 8.7: Kita-Streik, Rückerstattung von Elternbeiträgen
+- TOP 8.8: Brücke Sommersberg
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Bestellung des Leiters des Fachbereiches Soziales und Demographie und Widerruf der Bestellung als Leiter der Abteilung Sozialhilfe und Wohngeld
+- TOP 10.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 11.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 12.: Mitteilungen
+- TOP 12.1: Gewerbesteuernachzahlung RWE
+- TOP 12.2: Besetzung Verwaltungsrat KSK, Klageverfahren
+- TOP 13.: Anfragen
+- TOP 13.1: Besetzung Integrationsrat
+- TOP 13.2: Vertretung Bürgermeister
+- TOP 13.3: Interessenten Max-Ernst-Kabinett
+- TOP 13.4: Ankauf Hotel Rheinischer Hof
