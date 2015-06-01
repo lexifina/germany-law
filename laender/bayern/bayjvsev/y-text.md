@@ -1,0 +1,1 @@
+Auf Grund des § 1 Abs. 1 der Verordnung über die Einrichtung der staatlichen Behörden erläßt das Bayerische Staatsministerium der Justiz im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
