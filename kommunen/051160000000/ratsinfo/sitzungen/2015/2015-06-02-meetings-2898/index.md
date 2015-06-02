@@ -1,0 +1,52 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-06-02T15:00:00+02:00
+- Ende: 2015-06-02T20:55:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2898
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2898
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 5. Sitzung des Planungs- und Bauausschusses am 14.04.15 - öTeil- - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 6. Sitzung des Planungs- und Bauausschusses am 12.05.2015 - öTeil - - Zur Kenntnis genommen
+- TOP 3: Jahresabschtuss 2014 der Gebäudereinigung der Stadt Mönchengladbach (GSM) - Einstimmiger Beschluss
+- TOP 4: Zwischenbericht der GSM für das 1. Quartal 2015 - Kenntnisnahme
+- TOP 5: Jahresbericht zur Abwasserbeseitigung 2014 der NEW AG - Kenntnisnahme
+- TOP 6: Exkursion zu den Auswirkungen des Tagebaus Garzweiler II - Einstimmiger Beschluss
+- TOP 7: Aktion Stadtradeln - Einstimmiger Beschluss
+- TOP 8: Gesamtschule Stadtmitte - Kenntnisnahme
+- TOP 9: Sachstandsbericht Kompetenzzentrum Sauberkeit - Kenntnisnahme
+- TOP 10: Bericht zum Sachstand der Arbeitsgruppe Maßnahmen im Projekt Saubere Stadt - Kenntnisnahme
+- TOP 11: Rahmenplan Abteiberg - Kenntnisnahme
+- TOP 11.1: Rahmenplan Abteiberg / Zwischenbericht Vorlage: 803/XI - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 11.2: Rahmenplan Abteiberg - Vom Antragsteller zurückgezogen
+- TOP 12: Bebauungsplan Nr. 754/N - Stadtbezirk Nord, Gladbach und Eicken - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 13: VBP 764/N, Stadtbezirk Nord - Gladbach, Fliethstraße, An der Flieschermühle - Mit Stimmenmehrheit beschlossen
+- TOP 14: Gelände Krankenhaus Maria Hilf, Sandradstraße - Kenntnisnahme
+- TOP 15: 201. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 16: Bebauungsplan Nr. 766/N, Stadtbezirk Nord - Rönneter - Einstimmiger Beschluss
+- TOP 17: Veränderungssperre Eicken - Einstimmiger Beschluss
+- TOP 18: Aufhebung des VBP 526/I - Stadtbezirk West - Holt - Einstimmiger Beschluss
+- TOP 19: 221. Änderung des Flächennutzungsplanes der Stadt Mönchengladbach - Vorentwurf - Einstimmiger Beschluss
+- TOP 20: Bebauungsplan Nr. 772/S - Stadtbezirk Süd - Heyden - Steinsstraße, Duvenstraße Vorentwurf - Einstimmiger Beschluss
+- TOP 21: Bebauungsplan Nr. 697/S - Hockstein, Klusenstr., Krummer Weg, Aufstellungs- und Auslegungsbeschlus - Mit Stimmenmehrheit beschlossen
+- TOP 22: Bebauungsplan Nr. 716/S - Stadtbezirk Süd, Gebiet südlich Wilhelm-Schiffer-Straße Aufstell. u. Ausl. - Einstimmiger Beschluss
+- TOP 23: Satzung über Gestaltung von Werbeanlagen Innenstadtkern Rheydt - Vorstellung Entwurf; Öffentlichkeit - Einstimmiger Beschluss
+- TOP 24: Gestaltungsrichtlinie Sondernutzungserlaubnisse Bereich Gebietsfestlegung Innenstadtkonzept Rheydt - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 25: Satzung zum Schutz der historischen Innenstadt Rheydt - Einstimmiger Beschluss
+- TOP 26: Aufstellung Bebauungsplan Stadtgebiet Süd - Mollsbaumweg - Mit Stimmenmehrheit beschlossen
+- TOP 27: Städtebaulicher Rahmenplan Lürrip - Sachstandsbericht, Strukturskizzen - Einstimmiger Beschluss
+- TOP 28: Verlängerung der Regiobahn von Kaarst nach Viersen (S 28) - Hier: Beitritt der Stadt MG - Von Verwaltung zurückgezogen
+- TOP 28.1: Verlängerung der Regiobahn von Kaarst nach Viersen / Vorlage 806/IX - Mit Stimmenmehrheit beschlossen
+- TOP 29: Städtebaulicher Rahmenplan City Ost - Mit Stimmenmehrheit beschlossen
+- TOP 30: Durchgangsverkehr Abteistraße - Einstimmiger Beschluss
+- TOP 31: Planungs- und genehmigungsrechtliche Situation von Windkraftanlagen in Mönchengladbach - Einstimmiger Beschluss
+- TOP 32: Potenzialflächenanalyse Windenergie für das Gebiet der Stadt Mönchengla - Mit Stimmenmehrheit beschlossen
+- TOP 33: Städtebauliche Integration und Aufwertung des Hochschulquartiers Mönchengladbach - Einstimmiger Beschluss
+- TOP 34: Berichte über die Durchführung von Beschlüssen
+- TOP 35: Anfragen und Mitteilungen
