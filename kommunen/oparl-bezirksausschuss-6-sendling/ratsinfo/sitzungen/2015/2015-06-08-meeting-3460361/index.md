@@ -1,0 +1,87 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2015-06-08T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3460361
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3460361
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: Umsetzung der Altglascontainer im Bereich der Bahn-Unterführung Magaretenstraße
+- TOP 1.2.: Raumsituation an der Grundschule Pfeuferstraße 1
+- TOP 1.3.: Schulwegsicherheit Implerstraße
+- TOP 1.4.: Tempo-30 am Greinerberg
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 3.1.: Allparteiliches Konfliktmanagement in München (AKIM); Belastung der Anwohner durch Lärm und Rauch der Griller an Isar und Flaucher
+- TOP 3.2.: Vorstellung Sendlinger Bunker e.V.
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork
+- TOP 4.2.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen
+- TOP 4.3.: Informationsveranstatung des Sozialreferates am 29.06.2015
+- TOP 4.4.: Pilotprojekt München lebt interkulturelle Vielfalt
+- TOP 5: Referat für Bildung und Sport
+- TOP 6.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1.: Straßenfest in der Daiserstraße am 25.07.2015
+- TOP 7.2.: Stadtteilwoche Sendling - Obersendling im Neuhofener Park von 12.06. - 18.06.2015
+- TOP 7.3.: Ökumenische Tauffeier Am Harras mit Prozession zur Kidlerstraße 27.06.2015
+- TOP 7.4.: Harras-Fest von 03.07. - 05.07.2015
+- TOP 7.5.: Schullauf des Pestalozzigymnasiums in den Isarauen am 22.07.15
+- TOP 7.6.: Versammlung am 04.06.2015; Fahrraddemo G7
+- TOP 7.7.: Standorte MVG-Mietradsystem
+- TOP 7.8.: Öffnung des "Brunthaler-Parkplatzes" für Anwohner mit Bewohnerparkausweis
+- TOP 7.9.: Flugblatt ohne Impressum zu den Verkehrsplanungen in der Implerstraße
+- TOP 7.10.: Nächtliche Straßenbauarbeiten in der Brudermühlstraße
+- TOP 7.11.: Meldeliste Bauvorhaben SWM
+- TOP 7.12.: Stromprojekt Meindlstraße
+- TOP 8.1.: Budgetvoranmeldung Initiative Kunst in Sendling; ? 3563,95
+- TOP 8.2.: (E) Budget der Bezirksausschüsse Initiative "Sendlinger Bunker" Ausstellung "Sendlinger Bunkerwelten" am 13.06.2015
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Anschwung Initiative "Sendling" Herausgabe eines Familienatlas - <div>Vertagung</div>
+- TOP 8.4.: (E) Budget der Bezirksausschüsse Kath. Jugendfürsorge, Flexible Hilfen München Anschaffung von 2 Fußball-Kickern - <div>Vertagung</div>
+- TOP 8.5.: (E) Budget der Bezirksausschüsse AWO Ortsverein Sendling Kreativgruppe ab 09.06.2015
+- TOP 8.6.: Budgetbedarf für das Harras-Fest 2015; ? 3000,-
+- TOP 8.7.: Budgetantrag Figurentheater zur Sendlinger Bauernschlacht; ? 2500,-
+- TOP 8.8.: Erhöhung des BA-Budgets ab 2014; Fristverlängerung
+- TOP 8.9.: Treffen mit dem Oberbürgermeister vom 15.04.2015; Rückmeldung zu den offenen Themen
+- TOP 8.10.: Vergügung der Stadtrats- und BA-Mitglieder für Jury- und Preisrichtertätigkeiten
+- TOP 8.11.: Veranstaltung des "Gegen Vergessen - Für Demokratie e.V." am 06.10.2015 - Schirmherrschaft des BA6
+- TOP 8.12.: (E) Budget der Bezriksausschüsse Kunst in Sendling e.V. Stadtteilwoche vom 12. bis 18.06.2015 und ?Offene Ateliers? im Oktober 2015
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldeliste Bauvorhaben
+- TOP 9.2.: Bauvorhaben Brudermühlstr. 24 - 30; Sachstand
+- TOP 9.3.: Baugenehmigung Wohn- und Bürohaus mit Kindertagesstätte und Tiefgarage Flößergasse / Heißstr.
+- TOP 9.4.: Städtisches Grundstück (MK6) am Herzog-Ernst-Platz als Gewerbestandort stärken
+- TOP 9.5.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen
+- TOP 9.6.: Urbane Gemeinschaftsgärten in München
+- TOP 9.7.: Barriefreier Aufgang Zechstr. / Flößergasse
+- TOP 10: Baureferat
+- TOP 10.1.: Stemmerwiese; Umwandlung des nicht genutzten Randstreifens am Zaun in einen ökologisch wertvolleren Blühstreifen
+- TOP 10.2.: Sanierung des Asphaltweges am Flaucher
+- TOP 10.3.: Umzäunung der Grünfläche mit Sandkasten zwischen Fallstr. und Plinganserstr.
+- TOP 10.4.: Änderung der Straßenreinigungssatzung
+- TOP 10.5.: Beseitigung höhengleicher Bahnübergänge
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Lindenschmitstr. 5 - 7
+- TOP 11.2.: Fällgenehmigung Baumfällung Implerstraße 14
+- TOP 11.3.: Bäume auf öffentlchem Straßengrund im Bereich der Implerstraße 35 und im Schulhof der Implerschule
+- TOP 11.4.: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte
+- TOP 12: Anträge
+- TOP 14: Verschiedenes
+- TOP 14.1.: unplugged auf dem Isarfloß durch's Landschaftsschutzgebiet
+- TOP 14.2.: Grillen am Flaucher
+- TOP 14.3.: Erläuterungsschild für den Resi-Huber-Platz
+- TOP 14.4.: Einsatz und Zugriff auf GeoInfoWeb für Bezirksausschüsse
+- TOP 14.5.: Stellungnahme der Bezirksausschüsse zum Oktoberfestschlussbericht 2014
+- TOP 14.6.: Mai-Ausflug auf die Theresienwiese - Aktion blühende Theresienwiese
+- TOP 14.7.: Mehrjahresinvestitionsprogramm 2015 - 2019
+- TOP 14.8.: Mobilfunk
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
