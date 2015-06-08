@@ -1,0 +1,104 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-06-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3500970
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3500970
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Taubenfütterung am Max-Lebsche-Platz; Teilnahme eines Vertreters des Referates für Gesundheit und Umwelt
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder, Jugend, Schule, Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Haltestelle "Blumenau", Anschlusssicherung der Buslinien 56 und 168 (SPD-Fraktion)
+- TOP 4.2.: Bau des neuen Feuerwehrhauses (CSU-Fraktion und SPD-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Wastl-Witt-Str. 52-60: Neubau eines Geschosswohnungsgebäude mit Tiefgarage im Zuge der Nachverdichtung / Vorbescheid
+- TOP 6.2.: Tannenwaldstr. 2: Neubau eines Mehrgenerationenhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 13.05.15)
+- TOP 6.3.: Beschlussentwurf "Schulbauoffensive 2013 / 203, Aktionsprogramm Schul- und Kita-Bau, Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen" (Referat für Bildung und Sport, 15.05.15)
+- TOP 6.4.: Immastraße, Haltverbot, verkehrsrechtliche Anordnung (Kreisverwaltungsreferat, 22.05.15)
+- TOP 6.5.: Beschlussentwurf "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" (Sozialreferat, 20.05.15)
+- TOP 7.7.: Waldwiesenstr. 8b, 1 Fichte
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.2.: Am Wiesenhang 27, 1 Birke, 1 Fichte, 1 Lärche
+- TOP 7.3.: Canisiusstr. 1, Baumbestandsplan
+- TOP 7.4.: Tannenwaldstr. 2, s. Baumbestandsplan
+- TOP 7.1.: Heckenrosenstr. 5, 1 Birke, 1 Fichte, 1 Lärche
+- TOP 7.5.: Wastl-Witt-Str. 52-60, Baumbestandsplan
+- TOP 7.6.: Gladiolenstr. 3, 2 Fichten
+- TOP 7.8.: Am Kornacker 14, 2 Thujen
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Wastl-Witt-Str. 11-15 (Referat für Stadtplanung und Bauordnung, 21.05.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Einrichtung einer Schulbushaltestelle im Farnweg für die Grundschule am Canisiusplatz (Kreisverwaltungsreferat, 24.03.15)
+- TOP 8.2.: Pilotprojekt München lebt interkulturelle Vielfalt, ein Angebot für die Bezirksausschüsse; weiteres Vorgehen (Sozialreferat, 28.04.15)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Hohenklingenstraße (Sozialreferat, 28.04.15)
+- TOP 8.4.: Regionalmanagement München Südwest, Protokoll Abstimmungstermin am 21.04.15 (Referat für Stadtplanung und Bauordnung, 29.04.15)
+- TOP 8.5.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (Stadtwerke München GmbH, 23.04.15)
+- TOP 8.6.: Beschlussvorlage für die Vollversammlung am 29.04.15 "Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen, 4. Standortbeschluss" (Sozialreferat, 27.04.15)
+- TOP 8.7.: Einrichtung einer Bücherbushaltestelle in der Großhaderner Straße (Kreisverwaltungsreferat, 08.04.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Grünanlage Am Wiesenhang / Platanenstraße; Aufstellen einer naturnahen Bank mit Mülleimer, Fäche unterhalb des Basketballkorbes (Baureferat, 28.04.15)
+- TOP 9.2.: Mehrjahresinvestitionsprogram 2015-2019, Anhörung der Bezirksausschüsse (Stadtkämmerei, 07.05.15)
+- TOP 9.3.: Neuformulierung von § 11 Abs. 3 der Allgemeinen Beförderungsbedingungen des MVV (Referat für Arbeit und Wirtschaft, 15.05.15)
+- TOP 9.4.: Umlaufsperre am Bolzplatz Stiftsbogen (Baureferat, 19.05.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Buslinien 266 und 268; Verlagerung der Buslinie 266 aus der Würmtalstraße (MVG, 20.05.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung zur Informationsveranstaltung für die Bezirksausschüsse am 29.06.15 (Sozialreferat, 05.05.15)
+- TOP 11.2.: Gemeinsamer Austausch am 15.04.15; Rückmeldung zu den offenen Themen (OB Reiter, 30.04.15)
+- TOP 11.3.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 13.04.15 (Mieterbeirat, 28.04.15)
+- TOP 11.4.: BA-Infoveranstaltung am 22.04.15 - Unterlagen (Kreisverwaltungsreferat, 23.04.15)
+- TOP 11.5.: Informationsaustausch mit den Bezirksausschüssen vom 05.03.15; Einsatz und Zugriff auf GeoInfoWeb für die Bezirksausschüsse (Kommunalreferat, 05.05.15)
+- TOP 11.6.: Widmungserweiterung Maenher- / Schröfelhofstraße (Baureferat, 07.05.15)
+- TOP 11.7.: Verkehrssituation Immastraße (Polizeiinspektion 41, 12.05.15)
+- TOP 11.8.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) im Münchner Forum zum Leistungsprogramm 2016 der MVG (AAN, 16.04.15) (Vertagung aus der BA-Sitzung am 11.05.15)
+- TOP 11.9.: Containerstandplatz Willibaldstraße / Langbehnstraße
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 25.03.15 zur Sitzungsvorlage Nr. 14-20 / V 01946 (nach Antrag): Teileigentumserwerb / Anmietung von Räumen für das Familien- und Beratungszentrum Friedenheim, Ludlstraße, Stadtbezirk 20 - Hadern; Soziale Infrastruktur für das Neubaugebiet Die Maßnahme an der Ludlstraße wird von der GeWoFAG als Bauträger durchgeführt. Die Entscheidung des Preisgerichts steht bereits fest. Die entsprechenden Verhandlungen mit dem Sieger (1. Preis) sind jedoch noch nicht abgeschlossen. Erst dann steht endgültig fest, welcher Entwurf realisiert werden soll, und können Angaben gemacht werden, wie hoch die zu erwartenden Kosten für einen Teileigentumserwerb bzw. eine mögliche Miete sein werden. Eine Einschätzung, ob Teileigentumserwerb oder Anmietung die wirtschaftlichere Variante darstellt, kann erst erfolgen, wenn die entsprechenden Zahlen vorliegen. Dem Stadtrat wird zu gegebener Zeit ein Beschlußentwurf des Kommunalreferats über den Teileigentumserwerb bzw. über die Anmietung vorgelegt. In diesem Entwurf werden Angaben über die Kosten für den Erwerb bzw. die Miethöhe enthalten sein.
+- TOP 12.2.: Beschluss vom 29.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02503 (nach Antrag idF des Ausschussbeschlusses vom 15.04.15): Urbane Gemeinschaftsgärten in München Das Planungsreferat ist Ansprechpartner für Initiativen, Mietergemeinschaften oder interessierte Bürger, die Flächen für ?Urbanes Gärtnern? in München suchen. Die Kontaktdaten werden, möglichst gemeinsam mit den Ansprechpartnern in weiteren betroffenen Referaten, in geeigneter Form veröffentlicht. Gegebenen Falls vermittelt das Planungsreferat an die Ansprechpartner in den weiteren betroffenen Referaten (Punkt 2 des Beschlusses vom 15.4.2015).
+- TOP 12.3.: Beschluss vom 29.04.15 zur Sitzungsvorlage Nr. 14-20 / V 03051 (nach Antrag idF des Ergänzungsantrages zu Punkt 2 vom 29.04.15): Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen, 4. Standortbeschluss Das vorgestellte Standortkonzept soll darstellen, wie in den Unterkünften am Abend, in der Nacht sowie am Wochenende z.B. über pädagogische Hilfskräfte eine Präsenz sichergestellt wird. Dazu sollen dem Stadtrat Modelle analog dem im ?Münchner Modell? vorgesehenen ?Pförtner mit Sonderaufgaben? zur Entscheidung vorgelegt werden (Punkt 2, Satz 2 des Antrages vom 29.4.2015). Für Hadern-Nord ist ein ?Bestandsobjekt für Wohnungslose? vermerkt. Für Hadern-Süd ist an der Grenze zum Stadtbezirk 19 D-West ein ?Bestandsobjekt für Flüchtlinge? vermerkt (Anlage ?Einrichtungen für Flüchtlinge und Wohnungslose ab 50 Plätzen, Bestand und Planung 2015?).
+- TOP 12.4.: Beschluss vom 29.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02272 (nach Antrag): Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Erläuterungen siehe Tagesordnungsdokument)
+- TOP 12.5.: Beschluss vom 29.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02301 (nach Antrag): Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere zur Einrichtung des ?Internationalen Bundes e.V.? (IB) in der Großhaderner Straße (Kosten 442.044,-- ? in 2015, Anlage 1a, Abschnitt 4.1.4, Seite 2, lfd. Nr. 2), zum ?Nachbarschaftstreff Blumenau? des ?Vereins für Sozialarbeit e.V.? im DPWV (Kosten 71.692,-- ? in 2015, erhöht gem. Beschluß der Vollversammlung vom 17.12.2014 Nr V 011993, Anlage 1a, Abschnitt 4.1.7, Seite 10, lfd. Nr. 8) und zur ?Nachbarschaft Kleinhadern, na klar!? (Kosten 51.859,-- ? in 2015, erhöht wegen ?unverzichtbarem Mehrbedarf?, Anlage 1a, Abschnitt 4.1.7, Seite 13, lfd. Nr. 35)
+- TOP 12.1.: Beschluss vom 20.05.15 zur Sitzungsvorlage Nr. 14-20 / V 01862: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.12 (Abgelehnt unter Berufung auf die vom ?Asiatischen Laubholzbockkäfer? ausgehende Gefahr und die Notwendigkeit der Anhörung der Naturschutzverbände)
+- TOP 12.2.: Beschluss vom 29.04.2015 zur Sitzungsvorlage Nr. 14 - 20 / V 00909: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung - Stand und Ausblick Der BA Hadern hat am 10.11.2014 dieser BV mit dem ursprünglichen Referenten-antrag mehrheitlich zugestimmt (Seite 17, Anlage 39). Dieser ist jedoch in den Punkten 11-13 neu gefaßt worden (Seite 12). Es geht hierbei im Wesentlichen um die Schaffung von 5 neuen Planstellen im ?Technischen Dienst? in den Besoldungsgruppen A14 (1x) und E13 (4x) für 2016-2018. Es entstehen in 2016-2018 jährlich folgende Kosten: Personalkosten für 5 Bedienstete = 419.340,-- ?, Rückstellung für 1 Beamten (A14) = 33.830,-- ?, Arbeitsplatzkosten für 5 Bedienstete = 4.000,-- ? und Einrichtungskosten für 5 Bedienstete (nur in 2016) = 11.850,-- ? (Seite 9).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02621 (nach Antrag): Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen (Abgelehnt unter Berufung auf die bestehenden Planungsgrundsätze und ergriffenen Maßnahmen sowie die rechtliche Unmöglichkeit der Festsetzung von entsprechenden Vorgaben in den Bebauungsplänen)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02270 (nach dem im Sozialausschuss gefassten Referentenantrag): Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Keine Projekte in Hadern)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02224 (nach Antrag, Punkt 1 idF 14.04.15): Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ?ASZ Kleinhadern-Blumenau? des Caritas-Verbandes (Kosten 219.937,-- ? in 2015, Anlage 1a, Abschnitt 5.4.1, Seite 4, lfd. Nr. 10) und zur ?Altenwohnanlage Konrad-Dreher-Str. 19-23? des Caritas-Verbandes (Kosten 55.256,-- ? in 2015, Anlage 1a, Abschnitt 5.4.2, bisher Seite 10, lfd. Nr. 23, jetzt Seite 14, lfd. Nr. 43) Das Sozialreferat wird im Übrigen beauftragt, in 2015 Zuwendungen nur bis zu der in der ?Anlage 1a, Spalte 11? ausgewiesenen Höhe zu genehmigen und weitergehende Anträge ohne Haushaltsansatz abzulehnen (Punkt 1 neu des Referentenantrages, Seite 1).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02540 (ohne Änderung): Studie "Älter werden in München", Abschlussbericht Insbesondere, wird der Quartiertyp ?Gründerzeit? in ?Laim/Kleinhadern? angesprochen (Seite 3 und 7). Zur Wohnmobilität in ?Laim/Kleinhadern? werden folgende Anteile festgestellt: 21% der Befragten wollen und werden umziehen. 64% wollen und werden nicht umziehen (Analyse, Seite 14, 1. Graphik). 4% glauben, daß sich in Zukunft nur noch Wohlhabende das Leben in ?Laim/Kleinhadern? leisten können. 35% glauben dies nicht. Bei 61% ist dies unsicher (Analyse, Seite 14, 2. Graphik). 32% sind mit ihrer Versorgung in ?Laim/Kleinhadern? zufrieden. 7% sind unzufrieden. 61% sind unentschieden (Analyse, Seite 16, Graphik). Wegen weiterer Statistiken wird auf die Analyse, Seite 17, 23 und 25-27, Bezug genommen. Wegen der Gebiete aus den 20er bis 50er Jahren wird auf die Analyse, Abschnitt 3.2, Seite 36 und 37, Bezug genommen.
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02786 (ohne Änderung): Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2014 - 31.12.2014
+- TOP 12.4.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 zur Sitzungsvorlage Nr. 14-20 / V 02645 (ohne Änderung): Überarbeitung des Mähkonzeptes auf städtischen Grünflächen und Verkehrsbegleitgrün, insbesondere an der Kriegerheimstraße (ehemalige Trambahntrasse = 6.500 m2) und an der Würmtalstraße im Abschnitt zwischen der Kriegerheimstraße und der Fürstenrieder Straße (2.500 m2 gem. Anlage 1). Nach Anhörung der BA?e sollen ?bislang intensiv gepflegte Grünflächen ohne großen Nutzungsdruck, insbesondere aus der Kategorie ?bisher ca. 4x gemulchte Wiesen? in ?ein- bis zweimahdige (Blumen-)Wiesen? umgewidmet werden können. Für Hadern ist keine derartige Umwandlung vorgesehen (vgl. Anlage).
+- TOP 12.5.: Bekanntgabe in der Sitzung des Bauausschusses vom 21.04.2015 zur Sitzungsvorlage Nr. 14-20 / V 02686 (ohne Änderung): Straßenbaubeitragssatzung (Aufgehoben ab 01.01.15), Beitragserlass für bereits abgeschlossene Maßnahmen Abgelehnt unter Berufung auf das Schreiben der Regierung von Oberbayern vom 27.1.2015, Seite 2-3)
+- TOP 12.3.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15 zur Sitzungsvorlage Nr. 14-20 / V 02324 (ohne Änderung): Beseitigung höhengleicher Bahnübergänge
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.3.: Beleuchtung Verbindungsweg zur Prälat-Wellenhofer-Straße
+- TOP 1.1.: Wohnanlage Stiftsbogen 83-93 - Mängelliste
+- TOP 1.2.: Parksituation Kriegerheimstraße
+- TOP 3.2.: UA Soziales und Kultur
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Caritasverband München/Freising e.V. / Familien-Service-Zentrum Elternkurs ?Familienteam ? Das Miteinander stärken? Sommer/Herbst 2015 - <div>nach Antrag</div>
+- TOP 5.2.: (E) Budget der Bezirksausschüsse REGSAM Blumenauer Sommerfest am 25.07.2015 - <div>nach Antrag</div>
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Pfarrjugend der katholischen Pfarrei Fronleichnam Beschaffung eines Zeltes - <div>nach Antrag</div>
+- TOP 6.6.: Straßenfest im Buschrosenweg 2-8 am 04.07.15 (Ersatztermin 11.07.15) (Kreis- verwaltungsreferat, 26.05.15)
+- TOP 7.9.: Heckenrosenstr. 5A, 2 Fichten
+- TOP 7.10.: Guardinistr. 110-122, 1 Linde
+- TOP 7.11.: Haseneystr. 26, 2 Tannen
+- TOP 7.12.: Kleinhaderner Str. 39, 1 Schwarzkiefer
+- TOP 7.13.: Gräfelfinger Str. 67, 1 Birke
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
