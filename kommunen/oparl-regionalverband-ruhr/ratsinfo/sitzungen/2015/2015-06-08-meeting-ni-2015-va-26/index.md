@@ -1,0 +1,67 @@
+# 3. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-06-08T10:00:00+02:00
+- Ende: 2015-06-08T11:40:00+02:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-VA-26
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-VA-26
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VA-26
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VA-26
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Städtebauförderung hier: Aufstellung des Städtebauförderprogramms 2015
+- TOP 1.2: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik - Kulturregion Ruhrgebiet hier: Beratung und Beschlussfassung weiterer Projekte für das Haushaltsjahr 2015
+- TOP 1.3: Information über den Stand des Verfahrens zur Aufstellung des Abfallwirtschaftsplans NRW, Teilplan Siedlungsabfälle; hier: Kenntnisnahme
+- TOP 1.4: Beanstandung der Wahl in die Beratungsgremien der Regionalen Kulturpolitik, hier: Schreiben an die Bezirksregierungen vom 07.04.2015, 13.05.2015 und Antwort der Bezirksregierung Arnsberg vom 26.05.2015
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.5: Entwurf des Regionalplans Düsseldorf Hier: Stellungnahme der Regionalplanungsbehörde beim RVR
+- TOP 1.6: Steinkohlekraftwerk Datteln 4, Genehmigungsverfahren Hier: Stellungnahme zur Antragstellung
+- TOP 1.7: Verhältnis RFNP zum Regionalplan Ruhr/ § 39 LPlG Hier: Erneute gemeinsame Stellungnahme RVR und RFNP-Städte
+- TOP 1.8: Stellungnahme gem. § 4 Abs. 2 BauGB zum Bebauungsplan 1202 – Einrichtungshaus Dreigrenzen – und zur 90. Änderung des Flächennutzungsplans der Stadt Wuppertal (IKEA)
+- TOP 1.9: 11. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Oberbereiche Bochum und Hagen zur Umwandlung eines Bereichs für gewerbliche und industrielle Nutzungen (GIB) in einen Allgemeinen Siedlungsbereich (ASB) auf dem „Brandt“-Gelände in der Stadt Hagen und in der Stadt Gevelsberg
+- TOP 1.10: 79. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Stadt Kamp-Lintfort, Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) für zweckgebundene Nutzungen und Allgemeiner Freiraum- und Agrarbereich in GIB – Bekanntmachung und Niederlegung –
+- TOP 1.11: Raumordnungsverfahren für die geplante Erdgasanschlussleitung der Thyssengas GmbH von Datteln (Hachhausen) zum Kraftwerksstandort Herne Hier: Raumordnerische Beurteilung
+- TOP 1.12: Raumordnungsverfahren für die geplante Ferngasleitung Loop DN 1200 von Gronau - Epe nach Werne der Open Grid Europe GmbH Hier: Raumordnerische Beurteilung
+- TOP 1.13: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Verwaltungsvorlagen
+- TOP 2.1: Gesetz zur Stärkung des Regionalverbandes Ruhr vom 12.05.2015
+- TOP 2.2: Strategie und Ziele der RVR-Familie
+- TOP 2.2.1: Strategie und Ziele der RVR- Familie Änderungsantrag der Fraktion DIE LINKE vom 02.06.2015
+- TOP 2.3: Wechsel in den Organen der Gesellschaften
+- TOP 2.3.1: Angelegenheiten der Stiftung Kulturhauptstadt RUHR.2010 - Bestellung von Organen in den Verwaltungsrat
+- TOP 2.3.2: Wechsel in den Organen der Gesellschaften hier: Dringlichkeitsentscheidung Wechsel in der Verbandsversammlung EKOCity
+- TOP 2.4: Angelegenheiten der Freizeitgesellschaften - Revierpark Mattlerbusch GmbH - Geschäftsführung
+- TOP 2.5: Bestellung des Wirtschaftsprüfers für das Jahr 2014 – Route der Industriekultur
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: ruhrFIS - Flächeninformationssystem Ruhr. Erhebung der Siedlungsflächenreserven und nanspruchnahmen 2014 - Ergebnisband
+- TOP 2.7: Regionale ZukunftsLAND 2016 - WALDband Hier: Sachstand
+- TOP 2.8: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP 2.9: Fahrradverleihsystem Metropolradruhr Hier: Sachstandsbericht
+- TOP 2.10: Verlängerungen von Erlaubniserteilungen zur Aufsuchung von Kohlenwasserstoffen im Zeitraum Februar 2015 bis April 2015
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften - Revierpark Mattlerbusch GmbH - Wirtschaftliche Situation 2015/2016 / Sonderzuschuss der Gesellschafter
+- TOP 2.12: Angelegenheiten der Freizeitgesellschaften - Freizeitzentrum Kemnade GmbH - Unabweisbare Maßnahmen
+- TOP 2.13: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.14: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Wechsel in der Betriebsleitung
+- TOP 2.15: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2014
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.16: Theaternetzwerk 'RuhrBühnen'
+- TOP 2.17: Förderung der freien Kulturszene
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.18: Sachstand Nachfolgeprogramm ÖPEL und Trägerschaftsvertrag Emscher Landschaftspark
+- TOP 2.19: Sachstandsbericht klimametropole RUHR 2022
+- TOP 2.19.1: Sachstandsbericht klimametropole RUHR 2022 hier: Antrag der Fraktion Die Linke. vom 26.05.2015
+- TOP 2.20: Angelegenheiten der Ruhrwind Herten GmbH - Repowering der Windkraftanlage auf der Halde Hoppenbruch
+- TOP 2.21: Anfragen und Mitteilungen
+- TOP -: Schreiben der Landschaftsverbände Rheinland und Westfalen-Lippe zum Bundesteilhabegesetz vom 22.04.2015
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
