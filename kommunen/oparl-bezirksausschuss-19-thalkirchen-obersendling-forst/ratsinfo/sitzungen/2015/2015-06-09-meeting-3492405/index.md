@@ -1,0 +1,61 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-06-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492405
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492405
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 12.05.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kath. Öffentliche Bücherei St. Johann Baptist/München-Solln Beschaffung von Kinder- und Jugendbücher
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Apostel- und Petruskirchengemeinde München-Solln ökumenisches Sommerfest am 04.07.2015
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Blaskapelle Forstenried e.V. Kirchenkonzert am 17.10.2015
+- TOP 3.4.: (E) Budget der Bezirksausschüsse REGSAM Stadtteilfest am 18.07.2015
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Initiative ?Klaasenzimmer? Einrichtung eines Klassenzimmers
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (U) Baubeginnsanzeigen Mobilfunkanlagen
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: (A) Radwegsanierung Zielstattstr.
+- TOP 5.2.: (A) LSA-Abbau Allgäuer-/Königswieser Straße
+- TOP 5.3.: (A) Dorffest Forstenried
+- TOP 5.4.: (Antrag) Umwidmung der Geitauer Str. zu einer Anwohnerstraße
+- TOP 5.5.: (A) Haltverbot Rupert-Mayer-Str.
+- TOP 5.6.: (Antrag) Kurzparkzone Aidenbachstr. /Aufkirchner Str.
+- TOP 5.7.: (Antrag) Autoverkehr Greinerberg
+- TOP 5.8.: (Antrag) Herterichstr./Sörgelstr.
+- TOP 5.9.: (Antrag) Parksituation Pognerstr.
+- TOP 5.10.: (Antrag) Schleichverkehr Steinkirchner Str.
+- TOP 5.11.: (U) Verkehrsinsel Siemensallee ? Einmündung Carola-Neher-Str.
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (U) Zweckentfremdung Strähuberstr.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Sportplatz Katholisches Jugendsozialwerk
+- TOP 7.2.: (A) Bauträgerauswahl für Kommunales Wohnungsbauprogramm
+- TOP 7.3.: (A) Schulbauoffensive 2013/2030
+- TOP 7.4.: (A) Ausbau der regionalen, stadtteilorientierten Streetwork
+- TOP 7.5.: (Antrag) Erhöhung des Förderbetrags für das Familienzentrum Friedenskapelle
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Fürstenrieder Frühlingsfest 2015 - <div></div>
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 4.3.: Vermüllung Machtlfinger-/ Boschetsrieder Straße - <div></div>
+- TOP 1: Allgemeiner Teil
