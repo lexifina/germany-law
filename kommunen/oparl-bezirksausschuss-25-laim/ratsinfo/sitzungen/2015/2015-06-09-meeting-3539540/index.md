@@ -1,0 +1,89 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-06-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539540
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539540
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Vorstellungen
+- TOP 0.1.: Neugestaltung des Willibaldplatzes
+- TOP 0.2.: Aktuelle Planung Bauvorhaben Brant- / Siglstraße
+- TOP 0.3.: Verein "Dein Nachbar e.V."
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Planungen der Katholischen Kirche für Abriss und Neubau des Pfarrheims St. Ulrich westlich des Pfarramtes und Neubau eines Wohnhauses auf dem Flurstück der denkmalgeschützten Kirche St. Ulrich in Verlängerung des grauen Hauses Lutzstr. 36 in gleicher Bauhöhe
+- TOP 1.2.2.: Sperrung der Balkone Kiem-Pauli-Weg und Zschokkestraße
+- TOP 1.2.3.: Parksituation Perhamerstraße
+- TOP 1.2.4.: Parkprobleme Rushaimerstraße
+- TOP 1.2.5.: Reparatur der Bank Ecke Lautensackstraße / Agnes-Bernauer-Straße
+- TOP 1.2.6.: Veranstaltungslärm am Laimer Anger
+- TOP 1.2.7.: Laimer Alpenmarkt
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Verlegung der Recyclingcontainer in der Nördlinger Straße / Pfaffenhofener Platz
+- TOP 2.2.: Grüne / Bündnis 90: Ampelschaltung Friedenheimer Straße / Gotthardstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 für einen Obstverkaufstand (Neuantrag) in der Agnes-Bernauer-Straße
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Aindorferstr. 16: Fällung von 1 Kiefer, 1 Edeltanne
+- TOP 4.2.: Friedenheimer Str. 100: Fällung von 1 Birke
+- TOP 4.3.: Schreiben Referat für Bildung und Sport vom 15.05.15: Beschluss Schulbauoffensive 2013/2030; Aktionsprogramm Schul- und KitaBau, Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen
+- TOP 4.4.: Schreiben Baureferat vom 13.05.15: Verschönerung des Fußgänger- und Radfahrertunnels der Laimer Röhre (Empfehlung Nr. 14-20 / E 00304 der Bürgerversammlung vom 25.11.14); Beschluss BA 25 vom 03.03.15
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Mitterhoferstr. 7: Neubau eines Wohngebäudes mit Gewerbeeinheiten und Tiefgarage / Vorbescheid
+- TOP 5.2.: Landsberger Str. 380: Neubau Lebensmittelverbrauchermarkt mit oberirdischen Stellplätzen
+- TOP 5.3.: Stroblstr. 19: Neubau eines Sechsfamilienhauses mit Tiefgarage; hier: Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 05.05.15: Einladung zur Informationsveranstaltung für die Bezirksausschüsse am 29.06.15
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Senioren und Soziales vom 16.04.15
+- TOP 7.2.: BA-Sitzung vom 05.05.15
+- TOP 7.3.: Ortstermin UA Bildung und Sozialplanung vom 06.05.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Reiter vom 30.04.15: Gemeinsamer Austausch am 15.04.15; Rückmeldung zu den offenen Themen
+- TOP 8.2.: Schreiben Direktorium vom 06.05.15: Intergriertes Nahverkehrskonzept zur Stärkung des Fußgänger- und Radfahrerverkehrs im Stadtbezirk 25 Laim (Schreiben BA vom 28.04.15)
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 24.03.15: Ausweisung einer Hotelanfahrtszone für einen Bus an der Landsberger Str. 338
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 16.04.15: Neuerrichtung einer Lichtzeichenanlage; Gotthard- / Riegerhofstraße
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 23.04.15: BA-Infoveranstaltung am 22.04.15; Unterlagen
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 05.05.15: Drehgenehmigung Weiß-Ferdl-Straße, Hönlestraße und Camerloherstraße am 18.05.-26.05.15
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 11.05.15: Gaststätte "Kati`s Bistro", Zschokkestr. 59; unveränderte Fortführung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 12.05.15: Oktoberfest 2015
+- TOP 8.9.: Schreiben Baureferat vom 20.04.15: Beleuchtung Fußweg zur Kirche St. Ulrich (Antrag Nr. 14-20 / B 00956 vom 03.03.15)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.04.15: Fachnerstr. 55; Fällungsantrag
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.04.15: Aindorferstr. 16; Fällungsantrag
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.05.15: Fällungsantrag Rilkestr. 2
+- TOP 8.13.: Schreiben Refererat für Gesundheit und Umwelt vom 22.04.15: Mobilfunk; Baubeginnsanzeige / Inbetriebnahme deer Mobilfunksendeanlage(n)
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 19.05.15: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs; hier: nächtliche Arbeiten im Bereich Agnes-Bernauer-Straße / Siglstraße
+- TOP 8.15.: Schreiben Sozialreferat vom 27.04.15: Beschlussvorlage "Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen, 4. Standortbeschluss" (Sitzungsvorlage Nr. 14-20 / V 03051)
+- TOP 8.16.: Schreiben Sozialreferat vom 28.04.15: Pilotprojekt München lebt interkulturelle Vielfalt, ein Angebot für Bezirksausschüsse; weiteres Vorgehen
+- TOP 8.17.: Schreiben Abfallwirtschaftsbetrieb München vom 27.04.15: Info-Broschüre zur Verpackungsverordnung
+- TOP 8.18.: Schreiben Referat für Bildung und Sport vom 30.04.15: Neubau einer Turnhalle für die Grund- / Mittelschule an der Schrobenhausener Str. 15 (Empfehlung Nr. 08-14 / E 01150 der Bürgerversammlung vom 15.11.11)
+- TOP 8.19.: Schreiben Kommunalreferat vom 05.05.15: Informationsaustausch mit den Bezirksausschüssen vom 05.03.15; Einsatz und Zugriff auf GeoInfoWeb für die Bezirksausschüsse
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 23.04.15: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 06.05.15: Baubeginn provisorische Bus-Abstellfläche
+- TOP 8.22.: Bautenliste vom 20.04.-26.04.15: 1. Erstantragsverfahren a) Stadtlohnerstr. 2 b) Fürstenrieder Str. 50
+- TOP 8.23.: Bautenliste vom 27.04.-03.05.15: 1. Erstantragsverfahren a) Camerloherstr. 152 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Mitterhoferstr. 7
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 18.05.15: Baumaßnahmen der Stadtwerke; Stichtag: 18.05.15
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen (Sitzungsvorlage Nr. 14-20 / V 02621)
+- TOP 8.26.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 14-20 / V 02270)
+- TOP 8.27.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 14.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 14-20 / V 02224)
+- TOP 8.28.: Beschluss der Vollversammlung vom 29.04.15: Gartenstädte, Erhalt des Charakters und bauliche Entwicklung, Stand und Ausblick (Sitzungsvorlage Nr. 14-20 / V 00909)
+- TOP 8.29.: Beschluss der Vollversammlung 29.04.15: Urbane Gemeinschaftsgärten in München (Sitzungsvorlage Nr. 14-20 / V 02503)
+- TOP 8.30.: Beschluss der Vollversammlung vom 29.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 14-20 / V 02301)
+- TOP 8.31.: Beschluss der Vollversammlung vom 29.04.15: Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 14-20 / V 02272)
+- TOP 8.32.: Beschluss der Vollversammlung vom 29.04.15: Sofortprogramm für Einrichtungen zur Unterbrinung von Flüchtlingen, 4. Standortbeschluss (Sitzungsvorlage Nr. 14-20 / V 03051)
+- TOP 8.33.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15: Beseitigung höhengleicher Bahnübergänge (Sitzungsvorlage Nr. 14-20 / V 02324)
+- TOP 8.34.: Beschluss der Vollversammlung vom 20.05.15: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.12 (Sitzungsvorlage Nr. 14-20 / V 01862)
+- TOP 8.35.: Schreiben Mieterbeirat vom 28.04.15: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 13.04.15
+- TOP 8.36.: Schreiben Faschingsclub Laim e.V. vom 05.05.15: Bericht über das 12. Laimer Faschingstreiben am 14.02.15
+- TOP 8.37.: Münchner Statistik, 1. Quartalsheft, Jahrgang 2015
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 Laim in Höhe von 106 ? für Elternkurs ?Starke Eltern ? starke Kinder? ab 23.03.2015; Antragsteller: Familienzentrum Laim, DKSB München e.V. - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.004 ? für Artmobil vom 13. bis 15.08.15; Antragsteller: Spielen in der Stadt e.V. - <div>nach Antrag</div>
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.500 ? für Projekt ?Sing out loud für your rights? vom 26.06. bis 02.07.15; Antragsteller: freispiel Kulturagentur - <div>nach Antrag</div>
+- TOP 3.5.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 626,67 ? für Beschaffung eines Zeltes; Antragsteller: Pfarrjugend der katholischen Pfarrei Fronleichnam - <div>nach Antrag</div>
+- TOP 1.2: Bürgerpost an den BA
