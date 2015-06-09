@@ -1,0 +1,74 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-06-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467952
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467952
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Kultur vom 19.05.2015
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Containeranlage Hitlstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Spielen in der Stadt e.V. Bewegungsbaustelle vom 27. bis 29.08.2015
+- TOP 4.2.: (E) Budget der Bezirksausschüsse wohlBEDACHT e.V. Beschaffung Telefonanlage
+- TOP 5: Anhörungen
+- TOP 5.1.: Gruithuisenstr. 6a, Gemarkung: Untermenzing, Fl.Nr.: 643/8 TEKTUR zu 1.2-2015-3127-42 - Neubau eines Mehrfamilienhauses mit Garagen + Vollzug der BaumschutzVO
+- TOP 5.2.: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.06.2015
+- TOP 5.3.: Schulbauoffensive 2013/2030 Aktionsprogramm Schul- und Kita-Bau; Fortführung des Pavillionbauprogrammes für in 2016 aufzustellende Pavillonanlagen (Beschluss-Entwurf)
+- TOP 5.4.: Paulaner Langwied - Äußere Erschließungsstraßen, Planänderung zum Erinnerungsverfahren v. 04.07.2013, Neubau einer behindertengerechten Bushaltestelle
+- TOP 5.5.: Erinnerungsverfahren Vesaliusstraße 18-34 und Kreuzungsbereich Eversbuschstraße
+- TOP 5.6.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie München-Treuchtlingen (westlich) B) Bebauungsplan mit Grünordnung Nr. ..., Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich) (aufhebung oder Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) C) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes; weiteres Vorgehen Aufstellungs- und Eckdatenbeschluss
+- TOP 5.7.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Az. 824-G/15-05/Dachauer str. 665, Fa. MTU Aero Engines AG, Flamm- und Plasmaspritzanlagen/Geb. 36 hier: Erweiterung um die neu zu errichtenden Kabinen 11 und 12
+- TOP 5.8.: B-Plan 2044 - Gerberau - Neubau der Straße U 1697 und Umbau des Knotenpunktes Otto-Warburg-Straße / Bauschingerstraße Projekt-Nr.: 5555
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung vom 29.04.15: a) Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen; 4. Standortbeschluss (Sitzungsvorlage Nr. 03051) - Zuschussnehmerdatei 2015, Vollzug des Haushaltsplanes 2015 für den Bereich b) des Amtes für Wohnen und Migration (Sitzungsvorlage Nr. 02301) c) des Jugendamtes (Sitzungsvorlage Nr. 02272) d) des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 02224)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Schreiben EGEA vom 06.05.15: Unterstützung EGEA Scientific Conference 2015
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Baureferat vom 19.05.15: Gehwegverbreiterung Ecke Eversbuschstr. 166
+- TOP 9.2.: Schreiben Baureferat vom 18.05.15: Kleinsteinpflaster Allacher Unterführung + Sanierung Prantlstraße
+- TOP 9.3.: Schreiben Baureferat vom 19.05.15: Versetzung Poller Allacher Unterführung
+- TOP 9.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.05.15: Sanierung des Rettungsweges in Verlängerung der Goteboldstraße
+- TOP 9.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.05.15: 1.Vorübergehender Park & Ride Parkplatz auf dem Grundstück Bauseweinallee / Ecke Weinschenkstraße 2. Park & Ride Parkplatz in Allach-Untermenzing, im Bezirksteil Allach
+- TOP 9.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.05.15: Fällungsgenehmigung Gerlachweg 19
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Wiebekingstr. 2, Kunstmannstr. 7, Auenbruggerstr. 102, Gerlachweg 19, Eversbuschstr. 71, Ramannstr. 8
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 26.05.15: Bauanträge
+- TOP 9.9.: Schreiben Referat für Bildung und Sport vom 13.05.15: Erweiterung des Schulzentrums an der Pfarrer-Grimm-Straße
+- TOP 9.10.: Schreiben Referat für Bildung und Sport: Schulzentrum an der Pfarrer-Grimm-Straße; Bestandsaufnahme der benötigten Klassenzimmer und Fachräume BV-Empf. Nr. 01910 vom 23.07.2013
+- TOP 9.11.: Schreiben Kommunalreferat vom 05.05.15: Informationsaustausch mit den Bezirksausschüssen vom 05.03.15; Einsatz und Zugriff auf GeoInfoWeb für die Bezirksausschüsse
+- TOP 9.12.: Schreiben Sozialreferat vom 12.05.15: Zukünftige Standorte der ASZs in Allach-Untermenzing
+- TOP 9.13.: Schreiben Sozialreferat vom 11.05.15: Antrag auf Zweckentfremdung von Wohnraum, Arnoldstr.
+- TOP 9.14.: Schreiben Referat für Gesundheit und Umwelt vom 27.05.15: Absage Erörterungstermin am 11.06.15; Planfeststellungsverfahren Umbau ehem. Allacher Sommerbad
+- TOP 9.15.: Schreiben Kreisverwaltungsreferat vom 13.05.15: Genehmigung Servetstr. 1 Pyrotechnik Kategorie II
+- TOP 9.16.: Schreiben Kreisverwaltungsreferat vom 12.05.15: Drehgenhemigung am 21.05.15, Lechelstr. 45
+- TOP 9.17.: Schreiben Kreisverwaltungsreferat vom 18.05.15: Aufhebung Zusatzzeichen 1052-37 StVO (Haltverbot auch auf dem Seitenstreifen) gegenüber der Willstätterstraße 46
+- TOP 9.18.: Schreiben Kreisverwaltungsreferat vom 24.04.15: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Drachenfelsstr. 8
+- TOP 9.19.: Schreiben Kreisverwaltungsreferat vom 27.05.15: Antrag auf Betrieb des Trink- und Imbisskiosk TSV München-Allach 09 Turnen und Handball e.V.
+- TOP 9.20.: Schreiben Kreisverwaltungsreferat vom 28.05.15: Genehmigung Achwaldstr. 15 a, Pyrotechnik Kategorie II am 20.06.15
+- TOP 9.21.: Schreiben Stadtwerke München vom 15.05.15: Grundstücksverkäufe SWM GmbH, Flurstück 747/3, Gemarkung Allach)
+- TOP 9.22.: Schreiben Stadtwerke München vom 12.05.15: Baumaßnahmen der Stadtwerke München, Wasserprojekt Angerlohstraße
+- TOP 9.23.: Schreiben Stadtwerke München vom 13.05.15: Baumaßnahmen der SWM, Wasserprojekt Krayweg
+- TOP 9.24.: Schreiben Stadtwerke München vom 11.05.15, 18.05.15, 26.05.15: Baumaßnahmen der Stadtwerke München
+- TOP 9.25.: Schreiben Bauzentrum vom 13.05.15: Newsletter Bauzentrum München Nr. 5/2015
+- TOP 9.26.: Schreiben Freiwillige Feuerwehr vom 04.05.15: Kurzbericht bzgl. Übungspuppen
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Heckenschnitt Ernst-Haeckel-Straße
+- TOP 10.2.: Verkehrssituation Pasteurstraße
+- TOP 10.3.: Anhörungen: Kirschstr. 19, Neubau von 4 Doppelhaushälften mit 4 Garagen / Vorbescheid
+- TOP 10.4.: Verschiedenes: Schreiben Referat für Bildung und Sport vom 28.05.15: Betreuungssituation an der Grundschule an der Manzostraße
