@@ -1,0 +1,103 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-06-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3533923
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3533923
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der April-Sitzung 1.3.2 Protokoll der Mai-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Hohenschwangauerstraße 4, 1 Kastanie
+- TOP 2.2.: Münchnberger Straße 26, 1 Kiefer
+- TOP 2.3.: Forggenseestraße 5, 1 Robinie
+- TOP 2.4.: Stettnerstraße 21, 1 Fichte, 1 Kiefer
+- TOP 2.5.: Bad- Berneck- Straße 6, 1 Fichte
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 2.1.: Schwanseestraße 8, 1 Weide
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Ausbau und fahrradgerechte Asphaltierung des General- Kalb- Weges zwischen der Feuerzufahrt zum Gelände der Hauptschule an der Cincinnatistraße und der Lincolnstraße - <div>nach Antrag / mit Änderung</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Balanstraße 360, Neubau eines Mehrfamilienhauses mit Tiefgarage; Anhörung vom 29.04.2015 (vertagt aus der Sitzung vom 12.05.2015)
+- TOP 0.2.: St.- Martin- Straße 41, Ersatzneubau Krematorium Ostfriedhof in Verbindung mit dem Umbau der denkmalgeschützten Aussegnungshalle und Neubau eines Cafes mit Seelsorgepräsenz; Zuleitung vom 21.05.2015
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Sanierungs- und Aufwertungsmaßnahmen an der Unterführung Otkerstraße; BA-Antrag Nr. 14-20 / B 00855; Antwortschreiben des Baureferats-Ingenieurbau vom 22.04.2015
+- TOP 0.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraun; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 6.1.4.3.1 Anwesen Bad-Berneck-Straße; Mitteilung vom 15.05.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Zuwendung aus dem Budget der Bezirksausschüsse; Antrag des Elternbeirats der Lincoln Grundschule vom 21.11.2014 - KOMM!Projekt zur Gewaltprävention; Verlängerung des Bewilligungszeitraumes; Schreiben des Direktoriums vom 05.05.2015 mit der Bitte um Stellungnahme
+- TOP 0.2.: Schulbauoffensive 2013/2030 - Aktionsprogramm Schul- und Kita-Bau - Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen; Beschlussentwurf des RBS mit der Bitte um Stellungnahme bis 09.06.2015 (Fristverlängerung bis 10.06.2015)
+- TOP 0.3.: "Jugend im öffentlichen Raum- Ausbau der regionalen, stadtteilorientierten Streetwork", Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.09.2015; Zuleitung des Sozialreferates vom 20.05.2015
+- TOP 0.1.: Pilotprojekt München lebt interkulturelle Vielfalt - Ein Angebot für Bezirksausschüsse; weiteres Vorgehen; Schreiben des Sozialreferats vom 28.04.2015
+- TOP 0.1.: Einhaltung des Tempo-30-Limits in der Siedlung am Perlacher Forst; Empfehlung Nr. 14-20 / E 00031 vom 05.06.2014; Beschluss des BA 17 aus der Sitzung vom 13.01.2015; Schreiben des Baureferats-Tiefbau vom 17.03.2015 mit der Bitte um Stellungnahme (verwiesen aus den Sitzungen vom 14.04.15 und 12.05.15)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Projektname: ÖPNV Offensive IV - Chiemgaustraße, Haltestelle Traunsteiner Straße; Beschluss des BA 17 vom 09.06.2015 (vertagt aus der Sitzung vom 12.05.2015)
+- TOP 0.1.: Einrichtung eines Fußgängerüberweges in der Cincinnatistraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen AO nach § 45 StVO; Zuleitung des KVR mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 0.2.: Errichtung einer S- Bahn- Haltestelle Regerstraße, neben Bahnbrücke/Ostfriedhof, Empfehlung Nr. 14-20/ E 00396 der Bürgerversammlung 05- Au- Haidhausen, Bezirksteil Au vom 26.02.2015; Zuleitung des Referates für Stadtplanung und Bauordnung vom 19.05.2015
+- TOP 0.1.: Informationen über die Erneuerung / Modernisierung zu folgenden Eisenbahnbrücken im Bereich des 17. Stadtbezirkes: - St.-Martin-Straße - Werinherstraße - Chiemgaustraße BA-Antrag Nr. 14-20 / B 00727 vom 09.12.2014; Antwortschreiben des Baureferats-Tiefbau vom 28.04.2015
+- TOP 0.2.: Beseitigung höhengleicher Bahnübergänge; Sitzungsvorlage Nr. 14-20 / V 02324; Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015
+- TOP 0.3.: Tegernseer Landstraße Kreuzung St.- Bonifatius- Straße, Arbeiten im Straßenraum vom 26.05.2015 bis 27.11.2015, Zuleitung des Kreisverwaltungsreferates vom 21.05.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Sitzungsvorlage Nr. 14-20 / V 01862; Hinweis/Ergänzung vom 27.04.2015 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015 (VB)
+- TOP 0.2.: Hundekottütenspender in der Grenzstraße; BA-Antrag Nr. 14-20 / B 00846; Antwortschreiben des Baureferats-Gartenbau vom 30.04.2015
+- TOP 0.3.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.3.1 Balanstraße 381 / Fasangartenstraße 106; Bescheid vom 20.05.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Konzept zur Vergabe des Budgets - Auftrag des BA-Vorstands an den UA Kultur/Vereine/Initiativen/Sport (ohne Vorgang - verwiesen aus der Sitzung vom 12.05.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 Perlacher Straße, SSW "Giesinger Sportsbar"; Mitteilung vom 11.05.2015 6.6.4.1.2 Kesselbergstraße, SSW "New Orleans Bar"; Mitteilung vom 11.05.2015
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Informationsaustausch mit den Bezirksausschüssen vom 05. März 2015; Einsatz und Zugriff auf GeoInfoWeb für die Bezirksausschüsse; Schreiben des Kommunalreferats vom 05.05.2015
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 5.1.: AntragstellerIn: Arbeitsgemeinschaft St.-Quirin-Fest München Giesing, für die Maßnahme: 18. St.-Quirin-Fest am 02.07.2015; Antragssumme: 6.500,00 ?; Beschlussvorlage des Direktoriums vom 19.05.2015
+- TOP 5.2.: AntragstellerIn: Initiative "Ein Teller Heimat", für die Maßnahme: Projekt "Ein Teller Heimat" vom 01.06.2015 bis 01.05.2016, Antragssumme: 4650,00 ?; Beschlussvorlage des Direktoriums vom 26.05.2015
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
