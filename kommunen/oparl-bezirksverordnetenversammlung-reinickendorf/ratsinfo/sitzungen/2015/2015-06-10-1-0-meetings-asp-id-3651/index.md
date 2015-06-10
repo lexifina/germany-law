@@ -1,0 +1,77 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-06-10T17:00:00+02:00
+- Ende: 2015-06-10T20:40:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3651
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3651
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=83735
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 42. Sitzung der BVV am 10.06.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 42. Sitzung der BVV am 10.06.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 42. Sitzung der BVV am 10.06.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Öffentlicher Bücherschrank auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Simmelstraße öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Dorfschule Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Auf Kampagne "Stadtbäume für Berlin" hinweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Parkplätze Feuerwehrschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Fahrradparkhaus in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Umgehend Umstrukturierungsverordnung für die Siedlung "Am Steinberg" aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Sozialverträgliche Modernisierung der Siedlung am Steinberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Einwohnerantrag gem. § 44 Bezirksverwaltungsgesetz betr. "Sanierung der denkmalgeschützten Kleinhaussiedlung am Steinberg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Antrag Sturzprophylaxe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Ampelschaltzeiten Schulzendorfer Straße Ecke Hermsdorfer Damm anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: ÖPNV attraktiver machen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Erhalt des SoproRo-Sozialwarenhauses in Reinickendorf-Ost - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Gestaltung von Verteilerhäuschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Aufstellung des Bebauungsplans 12-56 für das Grundstück Thyssenstraße 28 und einen westlichen Abschnitt der Thyssenstraße im Bezirk Reinickendorf, Ortsteil Wittenau - überwiesen
+- TOP 7.16: Aufstellung des Bebauungsplans 12-58 für die Grundstücke Egellsstraße 21 (teilweise), Biedenkopfer Straße 42, 44 und 64, Sterkrader Straße 60 und 62 sowie einen Abschnitt der verlängerten Egellsstraße im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.17: Durchführung des Förderprogramms Aktive Zentren Residenzstraße im Bezirk Reinickendorf - überwiesen
+- TOP 7.18: Standort der Ellef-Ringnes-Grundschule (12G17) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: GesundheitsWirtschaft in Reinickendorf - alles im grünen Bereich oder wohin führt der Weg? - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Aus Verkehrssicherheitsbericht 2014 lernen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bezirksplanung zur kurz- und mittelfristigen Unterbringung von Flüchtlingen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Hausbesuche bei Tagesmüttern - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Unterstützender Deutschkurs für Flüchtlinge mit Ausbildungsbetrieben in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Auch in Reinickendorf das Projekt Babylotsen einführen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Zwischennutzungsagenturen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Ausstellung "Asyl ist Menschenrecht" - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Abschlussbericht des Temporären Ausschusses "Personalbedarfskonzept" - vertagt
+- TOP 10.9: Anmeldung für die Investitionsplanung 2015 bis 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Abberufung von Bürgerdeputierten nach § 24 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Abberufung von Bürgerdeputierten nach § 24 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Wahl von Bürgerdeputierten / stellv. Bürgerdeputierten - gewählt
+- TOP 11.4: Wahl einer stellv. Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Ortsteilschilder für Konradshöhe und Tegelort - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Wartelisten in Kindertagesstätten - überwiesen
+- TOP 12.3: Hinweiskasten Grünfläche Taldorfer Weg - überwiesen
+- TOP 12.4: Anteil Reinickendorfs an den Potentialflächen zur Beweidung im Land Berlin - überwiesen
+- TOP 12.5: Entgeltfreiheit für minderjährige Flüchtlinge in Musikschulen - überwiesen
+- TOP 12.6: Poller reparieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sichere Fußgängerquerung am Ludolfinger Platz - überwiesen
+- TOP 12.8: I-Planung - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Postfiliale instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Eingliederungsmittel für Langzeitarbeitslose in 2015 vollständig ausschöpfen - überwiesen
+- TOP 13.3: Erhalt des Waldspielplatzes in Heiligensee - ohne Änderungen in der BVV beschlossen
