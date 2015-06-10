@@ -1,0 +1,100 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-06-10T17:00:00+02:00
+- Ende: 2015-06-10T22:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2526
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2526
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-31 ("Gutshof Britz") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Flüchtlingsunterkunft in der Karl-Marx-Straße - beantwortet
+- TOP 9.2: Neuköllner Bezirkswappen - beantwortet
+- TOP 9.3: Potentielles Milieuschutzgebiet Reuterkiez - beantwortet
+- TOP 9.4: Diskriminiert das Bezirksamt Neukölln Frauen mit Kopftuch? - beantwortet
+- TOP 9.5: Reservierte Kita-Plätze - beantwortet
+- TOP 9.6: Unternehmensnetzwerke in Neukölln - beantwortet
+- TOP 9.7: Bürgerservice im Süden Neukölln - beantwortet
+- TOP 9.8: Verbotsantrag A-Nur-Moschee - beantwortet
+- TOP 9.9: Muslimische Grabstellen auf Neuköllner Friedhöfen - schriftlich beantwortet
+- TOP 9.10: Drohnen in Neukölln - schriftlich beantwortet
+- TOP 9.11: Frauenviertel oder Gartenstadt - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Parkbestand ehem. Thomas-Kirchhof gesichert? - beantwortet
+- TOP 10.2: Notfallversorgung BER - beantwortet
+- TOP 10.3: Islamismusprävention in der Jugendarbeit - beantwortet
+- TOP 10.4: Ankauf des Grundstücks an der Haarlemer Straße/II - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Neukölln braucht die Landesberatungs und Koordinierungsstelle. - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Plattformneutrale Fachverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Fachtagung zur Jugendberufsagentur - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Berufliche Perspektive für Stadtteilmütter - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bezirksamtsprotokolle - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Einwohnerantrag - in der BVV abgelehnt
+- TOP 11.7: Zeitplan für Milieuschutzgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Warmbadetage im Stadtbad Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Bezahlbaren Wohnraum schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Änderung des § 52 Geschäftsordnung - in der BVV abgelehnt
+- TOP 11.11: GO-Antrag zur Erweiterung des § 19 - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Diskriminierung in der Bezirksverordnetenversammlung keinen Raum geben - in der BVV abgelehnt
+- TOP 11.13: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln I - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Maßnahmen gegen religös motivierte Radikalisierung in Neukölln II - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Änderung der Geschäftsordnung der BVV-Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Kein Referendariat für Kopftuchträgerinnen in Neukölln? - beantwortet
+- TOP 12.2: Konsequenzen aus dem Prüfkatalog zur Senkung der HzE-Kosten - vertagt
+- TOP 12.3: Verwahrlosungstendenzen in der Gropiusstadt?! - vertagt
+- TOP 12.4: Laufende Bebauungsplanverfahren - vertagt
+- TOP 12.5: Abriss der Flüchtlingsunterkunft in der Haarlemer Straße zum Jahresende? - vertagt
+- TOP 12.6: Mobilitätshilfedienst in Neukölln - vertagt
+- TOP 12.7: Jugendberufsagentur - vertagt
+- TOP 12.8: Auswirkungen des Bundesprogramms "Soziale Teilhabe am Arbeitsmarkt" für Neukölln - vertagt
+- TOP 12.9: Reform der Grünflächenpflege? - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Barrierefreier Fußgängerüberweg Sonnenallee/Hermannplatz - überwiesen
+- TOP 14.2: Seniorengerechtes Wohnen - überwiesen
+- TOP 14.3: Gutachten veröffentlichen - überwiesen
+- TOP 14.4: Bezirkswebseite für mobile Geräte optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Makkabi-Games unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Beteiligung der Rudower Seniorinnen und Senioren - überwiesen
+- TOP 14.7: Straßenumbenennung nach Kirsten Heisig - überwiesen
+- TOP 14.8: Tee- und Wärmstube - überwiesen
+- TOP 14.9: Mobilitätshilfedienste in Neukölln - überwiesen
+- TOP 14.10: Laufende Öffentlichkeitsbeteiligungen auf die Startseite des Bezirksamts - überwiesen
+- TOP 14.11: IHK – Außenstelle in Neukölln - überwiesen
+- TOP 14.12: Verbesserung der Verkehrssicherheit - überwiesen
+- TOP 14.13: Zusätzlicher Fahrradweg in der Kanalstraße - überwiesen
+- TOP 14.14: Fahrradweg zwischen dem Neudecker Weg und der Köpenicker Straße - überwiesen
+- TOP 14.15: Ausschilderung Späthstraße - überwiesen
+- TOP 14.16: Verbesserung der Straßenbeleuchtung Thomasstraße / Hermannstraße - überwiesen
+- TOP 14.17: Aufstellungsbeschluss für zwei soziale Erhaltungsgebiete - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Vorbereitung der Ablösung von Windows 7 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Toilettensanierung an der Albrecht-Dürer-Oberschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Klimawerkstatt in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Antrag auf Änderung der Geschäftsordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Schlaumäuse für Kitas - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Treffpunkt von Nazis in Neukölln veröffentlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Einsicht in die Pflegedokumentation - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Internationale Woche gegen Rassismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Ausweisung eines Hundeauslaufgebietes an der Groß-Ziethener Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Keine politiktheoretischen Spielwiesen in Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Vandalismus verhindern - Kunst fördern - mit Abschlussbericht zur Kenntnis genommen
