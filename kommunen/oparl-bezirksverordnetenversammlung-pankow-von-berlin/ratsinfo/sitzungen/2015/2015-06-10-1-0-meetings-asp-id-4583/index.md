@@ -1,0 +1,77 @@
+# 32. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-06-10T17:30:00+02:00
+- Ende: 2015-06-10T20:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4583
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4583
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=116&id=68123
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Entwurf des Doppelhaushaltsplans 2016/2017 für den Bezirk Pankow (einschließlich Vorbericht, Anlagen 1 - 3 und Stellenplan) - überwiesen
+- TOP 1.10: Gründung eines Gymnasiums im Ortsteil Prenzlauer Berg am Standort Conrad-Blenkle Straße 34 in 10407 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Vorhaben- und Projektliste des Bezirks Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Beauftragten für Seniorenprobleme - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Zukunft der Jugendverkehrsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Wohnmobilstellplätze in Pankow - zurückgezogen
+- TOP 1.15: Kein Rückbau der sog. Planstraße D - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Pankower Vergabebericht erstellen - in der BVV abgelehnt
+- TOP 1.17: Jugendmigrationsdienst (JMD) auch für Pankow - jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Faire Angebote an Senioren zur Verringerung der Wohnfläche ihrer kommunalen Mietwohnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Sicherstellung der Verkehrssicherheit für Fußgänger*innen in der Siegfriedstr. im Abschnitt Blankenburger Str. bis Herthaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Bezirke an der Entscheidung zur Aufgabe von Ehrengräbern beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Sichere Straßenquerung der Darßer Straße auch für behinderte Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Litfaßsäulen in der Prenzlauer Allee Ecke Kanzowstraße und Zelterstraße (stadteinwärts) - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Sportentwicklungsplan für Pankow - überwiesen
+- TOP 1.24: Erhöhung der Barrierefreiheit in den bezirklichen Gebäuden und bei Veranstaltungen - überwiesen
+- TOP 1.25: Mehr Sicherheit für die in der Storkower Straße 139c lebenden Kinder und Jugendlichen! - überwiesen
+- TOP 1.26: Projekt "Pankower Tor" voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Barrierefreie Internetpräsenz für Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Kooperation für saubere Grünflächen - Beispiel Stadtplatz "Marie" - überwiesen
+- TOP 1.29: Verkaufsflächen in Pankow und Einwohnerprognose - beantwortet
+- TOP 1.30: Inklusionssporthalle jetzt - überwiesen
+- TOP 1.31: Angebote der Pflegestützpunkte im Bezirk besser bekannt machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Signet "Berlin barrierefrei" für bezirkliche Gebäude - überwiesen
+- TOP 1.33: Fahrräder an Bahnhöfen - überwiesen
+- TOP 1.34: Das Sportanlagensanierungsprogramm (Sssp) aufstocken - überwiesen
+- TOP 1.35: Verkehrssicherheit an der Flüchtlingseinrichtung Storkower Straße erhöhen - überwiesen
+- TOP 1.36: Terminplan für die Beratungen der BVV zum Doppelhaushaltsplanentwurf 2016/2017 - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Gefährdungen vermeiden; Illegale Nutzung unterbinden - überwiesen
+- TOP 1.38: Berlin Service-App bekannt machen - überwiesen
+- TOP 1.39: Erhöhung der Verkehrssicherheit in der Priesterstege in Blankenburg - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Zusätzliche Tischtennisplatten für den Platz Stargarder Str. / Dunckerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Brandschutz an Pankower Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Pankow soll Fairtrade Town werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Integration durch Sport - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Begrünte Fassaden im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Perspektive für junge, erwachsene Flüchtlinge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Regelmäßiges Forum gegen Rechtsradikalismus in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Fahrradabstellanlagen schaffen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Ausbildung Erziehungsfachkräfte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Querungshilfe in der Straße Alt-Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Hinweisschilder an der Bucher Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Einrichtung einer temporären Spielstraße in der Gudvanger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Gemeinsam für wirksamen Lärmschutz an der Bahn - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Erhöhung der Verkehrssicherheit in der Friedrich-Engels-Straße im Ortsteil Niederschönhausen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Festsetzung der Eckwerte für die Aufstellung des Doppelhaushaltsplans 2016/2017 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
