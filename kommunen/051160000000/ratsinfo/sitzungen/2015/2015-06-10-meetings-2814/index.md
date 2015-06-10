@@ -1,0 +1,55 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-06-10T17:00:00+02:00
+- Ende: 2015-06-10T20:20:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2814
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2814
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 6. Sitzung des Hauptausschusses am 22.04.2015 -öffentlicher Teil- - Genehmigt
+- TOP 2: Verleihung des goldenen Schöffensiegels (HSP Maßnahme 2012-0180) - Einstimmiger Beschluss
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2013 - Einstimmiger Beschluss
+- TOP 4: Sachstandsbericht Kompetenzzentrum Sauberkeit - Kenntnisnahme
+- TOP 4.1: Kompetenzzentrum Sauberkeit als Anstalt des öffentlichen Rechts (AöR) - Mit Stimmenmehrheit beschlossen
+- TOP 4.2: Bericht zum Sachstand der Arbeitsgruppe Maßnahmen im Projekt Saubere Stadt - Kenntnisnahme
+- TOP 5: Beteiligung der NEW Kommunalholding GmbH - Einstimmiger Beschluss
+- TOP 6: Beteiligung der NEW AG - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 7: Wahl der Arbeitnehmervertreter in den Aufsichtsrat der Städtische Kliniken Mönchengladbach GmbH - Kenntnisnahme
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 9: Beherbergungssteuersatzung - An den Rat verwiesen
+- TOP 10: Exkursion zu den Auswirkungen des Tagebaus Garzweiler II - Einstimmiger Beschluss
+- TOP 11: Sechzehnter Nachtrag zur Abfallsatzung - An den Rat verwiesen
+- TOP 12: Jahresbericht zur Abwasserbeseitigung 2014 der NEW AG - Kenntnisnahme
+- TOP 13: Beitritt der Stadt Mönchengladbach zur Einkaufsgemeinschaft Komm. Verwaltungen eG / Köln ( EKV ) - Einstimmiger Beschluss
+- TOP 14: Flüchtlingseinrichtung des Landes Nordrhein-Westfalen im ehemaligen JHQ - An den Rat verwiesen
+- TOP 15: Nutzungsänderung der öffentlichen Tennisplätze Giesenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 16: Zweiter Nachtrag zur OGS-Elternbeitragssatzung - Einstimmiger Beschluss
+- TOP 17: Betreuungsangebot an Schulen - Einstimmiger Beschluss
+- TOP 18: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 20: Satzung für das Jugendamt der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 21: Fortführung des Projektes Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 22: Veränderungssperre Eicken - Einstimmiger Beschluss
+- TOP 23: Bebauungsplan Nr. 754/N - Stadtbezirk Nord, Gladbach und Eicken - Einstimmiger Beschluss
+- TOP 24: Aufhebung des VBP 526/I - Stadtbezirk West - Holt - Einstimmiger Beschluss
+- TOP 25: VBP 764/N, Stadtbezirk Nord - Gladbach, Fliethstraße, An der Flieschermühle - An den Rat verwiesen
+- TOP 26: Verlängerung der Regiobahn von Kaarst nach Viersen (S 28) - Hier: Beitritt der Stadt MG - Von Verwaltung zurückgezogen
+- TOP 26.1: Verlängerung der Regiobahn von Kaarst nach Viersen / Vorlage 806/IX - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 27: Jahresabschluss 2014 der Gebäudereinigung der Stadt Mönchengladbach (GSM) - Einstimmiger Beschluss
+- TOP 28: Aufgrund der Änderung der TO bleibt dieser TOP leer
+- TOP 29: Städtebaulicher Rahmenplan für den Bereich der City Ost - Mit Stimmenmehrheit beschlossen
+- TOP 30: Sauberkeit auf Spielplätzen - An den Rat verwiesen
+- TOP 31: Städtebauliche Integration und Aufwertung des Hochschulquartiers Mönchengladbach - Vom Antragsteller zurückgezogen
+- TOP 32: Tagesobdachlosigkeit von Jugendlichen; hier: Fraktionsantrag der Fraktion DIE LINKE vom 05.05.2015 - An den Rat verwiesen
+- TOP 33: Einführung von Fragestunden in den Bezirksvertretungen gemäß § 3 Abs. 6 der Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in der Stadt Mönchengladbach - An den Rat verwiesen
+- TOP 34: Rückerstattung von Elternbeiträgen bei mehr als dreitägigen Mitarbeiter(innen)streiks - An den Rat verwiesen
+- TOP 35: Resolution an den Minister für Inneres und Kommunales NRW zur Ermöglichung der Erstattung - An den Rat verwiesen
+- TOP 36: Anfragen und Mitteilungen
+- TOP 36.1: Anfrage von Ratsfrau Brombeis, Bündnis 90/Die Grünen
+- TOP 36.2: Anfrage von Ratsherrn Sasserath, Bündnis 90/Die Grünen
