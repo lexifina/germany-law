@@ -1,0 +1,93 @@
+# 38. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-06-11T16:30:00+02:00
+- Ende: 2015-06-11T21:40:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4220
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4220
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=109233
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-43 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Wahl eines Bürgerdeputierten und eines stellvertretenden Bürgerdeputierten für den Ausschuss für Arbeit, Soziales und Gesundheit - gewählt
+- TOP 8.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 3 - gewählt
+- TOP 8.4: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 5 - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des vorhabenbezogenen Bebauungsplans 9-57 VE ("Marienhain") nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-57 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für den Förderverein der Kiefholz-Grundschule e. V. (SM 15-22) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für den KULTURspreePARK e. V. (SM 15-23) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für den Verein Allende 2 hilft e. V. (SM 15-29) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Förderverein KIEZKLUB Rahnsdorf e. V. (SM 15-30) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für den Verein Schutzhülle e. V. (SM 15-32) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für den Verein FiPP e. V. (SM 15-33) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für den Verein TJP e. V. (SM 15-34) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für den Verein TJP e. V. (SM 15-35) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für den Seesportclub Berlin-Grünau e. V. (SM 15-36) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für den Sport-Spiel-Verein Köpenick-Oberspree e. V. (SM 15-37) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Querung der Bulgarischen Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Biotopkartierung für den "Spreepark" - in der BVV abgelehnt
+- TOP 12.3: Errichtung und Erhalt von Jugendfreizeiteinrichtungen in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Verkehrsstrukturierung der Hämmerlingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Versicherungskarte für Asylsuchende und Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Ertüchtigung der Bushaltestelle am S-Bahnhof Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Erdwärme in Wasserschutzgebieten Zone 3b - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Längerer Betrieb der Fähre zwischen Grünau und Wendenschloss - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: "Zug der Liebe" aus dem Treptower Park heraus halten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kreuzung Kiefholz- Ecke Wildenbruchstraße schadenfrei kreuzen und queren - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Kurzzeitparken für Bibliotheksnutzerinnen und Bibliotheksnutzer - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Attraktivität Uferpromenade Luisenhain steigern, Müllproblem verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Beseitigung der Pfützenbildung bei Starkregen in der Ewaldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: "Zebrastreifen" zur sicheren Querung der Schnellerstraße Höhe Rudower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Parken an der Marggraffbrücke unterbinden - in der BVV zurückgezogen
+- TOP 12.16: Urban Gardening - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Treptow-Köpenick bewirbt sich als Fairtrade-Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Vorbereitung der Ablösung von Windows 7 - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Verkehrssicherheit in der Hartriegelstraße - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bund-Länder-Förderprogramm "Aktive Zentren" – Beschluss des Integrierten städtebaulichen Entwicklungskonzeptes für die Förderkulisse Dörpfeldstraße im Bezirk Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2016/2017 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Vorhabenbezogener Bebauungsplan 9-61 VE ("Makarenko-Quartier") hier: Planreife für die Vorhaben gemäß den Anträgen vom 26. Februar 2015 und 22. April 2015 für die Grundstücke Südostallee 132 und 134 im Bezirk Treptow-Köpenick, Ortsteil Johannisthal - überwiesen
+- TOP 13.4: Benennung von zwei Privatstraßen im Ortsteil Altglienicke in Alfonsstraße und Traudelstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Stilljestanden! Auftritt der Hauptmanngarde sicherstellen - im Ältestenrat zurückgezogen
+- TOP 14.2: Musikschule: Kooperationen stärken - Kosten- und Leistungsrechnung verbessern - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Einrichtung eines Radweges auf der Kiefholzstraße - überwiesen
+- TOP 14.4: Ökologische Bauleitplanung und artenschutzrechtliche Maßnahmen im Bebauungsplan (B-Plan) 9-34 "Regatta-Quartier" - überwiesen
+- TOP 14.5: Bordsteinabsenkung für Radfahrerinnen und Radfahrer an der Kreuzung der Matthesstraße - überwiesen
+- TOP 14.6: Alte Turnhalle für Veranstaltungen öffnen - überwiesen
+- TOP 14.7: Eindeutiger Hinweis der Linksabbiegefahrspur von der Oberspreestraße in die Ottomar-Geschke-Straße - überwiesen
+- TOP 14.8: Berücksichtigung der freizeitorientierten Bedürfnisse von Jugendlichen und Senioren/-innen auf den Freiflächen bei der Bauausführung im Plangebiet des Bebauungsplans 9-34 - überwiesen
+- TOP 14.9: Sauberkeit im Landschaftspark Altglienicke - überwiesen
+- TOP 14.10: Fahrbahnmarkierung am Dammweg aus Richtung Grenzallee kommend entfernen - überwiesen
+- TOP 14.11: Wiederherstellung des westlichen Zugangs zum Treptower Park - überwiesen
+- TOP 14.12: Verbesserung der Raumakustik im BVV-Saal des Rathauses Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Umfeld der Kindertagesstätten sicherer gestalten - überwiesen
+- TOP 14.14: Sicherung des Standortes Schmetterlingshorst als Schul-, Sport- und Wanderstützpunkt - überwiesen
+- TOP 14.15: Sportstättensanierungsprogramm aufstocken - überwiesen
+- TOP 14.16: Erkennbarkeit von Lichtsignalanlagen an den Kreuzungen Bahnhofstraße / Friedrichshagener Straße und Bellevuestraße / Fürstenwalder Damm verbessern - überwiesen
+- TOP 14.17: Sanierung der Sporthalle Winckelmannstraße 56 - überwiesen
+- TOP 14.18: Wegeleitsystem für Sportvereine - überwiesen
+- TOP 14.19: Schutz der ökologischen Nischen im "Schlesischen Busch" oder "Ick hör Dir" nicht mehr "trapsen" - überwiesen
+- TOP 14.20: Spielstättenförderung für das Stadttheater Cöpenick - überwiesen
+- TOP 14.21: Kommunales Multifunktionsbad in Treptow-Köpenick - überwiesen
+- TOP 14.22: A100-Baustelle in der Kiefholzstraße für nichtmotorisierte Verkehrsteilnehmerinnen und Verkehrsteilnehmer sicher gestalten - überwiesen
+- TOP 14.23: Sicherung von Gebäuden und Flächen - überwiesen
+- TOP 14.24: "Eierhäuschen" in eigenem Bebauungsplan entwickeln - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Umsetzung des Beschlusses "Schließung der Kultureinrichtungen in freier Trägerschaft abwenden" - vertagt
