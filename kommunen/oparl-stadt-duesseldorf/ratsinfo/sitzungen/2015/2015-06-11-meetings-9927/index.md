@@ -1,0 +1,59 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-11T17:00:00+02:00
+- Ende: 2015-06-11T20:35:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9927
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9927
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242001.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242001.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242001.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Gubener Straße - Radweg - Bericht der Verwaltung - zur Kenntnis genommen
+- TOP 5: Kriminalitätsstatistik 2014 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Eller Kamp / Kamper Weg - Umgestaltung des Knotenpunktes und Markierung von Schutzstreifen - Planung - mehrheitlich beschlossen
+- TOP 8: Behindertenparkplätze in Unterbach - einstimmig beschlossen
+- TOP 9: Verkehrsregelung Kreuzung Reisholzer Straße/Schlesische Straße/Kuthsweg - mehrheitlich beschlossen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 11: Verkehrssituation Kreuzung Vennhauser Allee / Rothenbergstraße - beantwortet
+- TOP 12: Gaslaternen im Stadtbezirk 8 - beantwortet
+- TOP 13: Mauer entlang der Ronsdorfer Straße - beantwortet
+- TOP 14: Kinderspielplatz Buchenweg - beantwortet
+- TOP 15: Sturmschäden am Friedhof Unterbach - beantwortet
+- TOP 16: Grünordnungsplan Stadtbezirk 8 und Parkpflegewerk Schlosspark Eller - beantwortet
+- TOP 17: Lichtmasterplan Teil 2 im Stadtbezirk 8 - beantwortet
+- TOP 18: W-LAN im Stadtbezirk 8 - beantwortet
+- TOP 19: Brückensanierungen im Stadtbezirk 8 - beantwortet
+- TOP 20: Bordsteinabsenkung Gumbertstraße, Haltestelle Eller-Mitte - beantwortet
+- TOP 21: Bahnunterführungen im Stadtbezirk 8 - beantwortet
+- TOP 22: Baumfällungen Südliche Düssel - beantwortet
+- TOP 23: Pflege Grünanlage Schlesische Straße / Posener Straße - einstimmig beschlossen
+- TOP 24: Radwegemarkierungen Schlesische Straße / Kuthsweg - einstimmig beschlossen
+- TOP 25: Kinderspielplatz Grüner Weg - einstimmig beschlossen
+- TOP 26: Lärmbelsatung Güterbahnstrecke Rath - Eller - einstimmig beschlossen
+- TOP 27: Abbruchantrag Freiheitstraße 78 - mehrheitlich beschlossen
+- TOP 28: Logistik-Zentrum Dillenburger Weg - einstimmig beschlossen
+- TOP 29: Verkehrsregelung Kreuzung Reisholzer Straße / Schlesische Straße / Kuthsweg - zur Kenntnis genommen
+- TOP 30: Fußweg Grünanlage Zwickauer Straße / Chemnitzer Straße - zur Kenntnis genommen
+- TOP 31: Fußweg zwischen Kulturbahnhof Eller und KGV Kikweg - zur Kenntnis genommen
+- TOP 32: Verkehrsregelung Kreuzung Karlsruher Straße / Marburger Straße - zur Kenntnis genommen
+- TOP 33: Blühstreifen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Errichtung einer Skateranlage an der Heidelberger Straße – aktueller Stand - zur Kenntnis genommen
+- TOP 35: RRX - Lärmschutz im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Straßenumbau Sebastiansweg zwischen An der Schützenwiese und Egilweg - zur Kenntnis genommen
+- TOP 37: Kanalbaumaßnahme Ellerkirchstraße - zur Kenntnis genommen
+- TOP 38: Abfallbehälter im Bereich Minigolfplatz Vennhauser Allee - zur Kenntnis genommen
+- TOP 39: Lärmschutzauflagen Logistikzentrum Dillenburger Weg - zur Kenntnis genommen
+- TOP 40: Bordsteinabsenkungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Bebauungsplan Am Kleinforst - zur Kenntnis genommen
+- TOP 42: Gaslaternen im Stadtbezirk 8 - zur Kenntnis genommen
