@@ -1,0 +1,7 @@
+# TOP 5: Kriminalitätsstatistik 2014 im Stadtbezirk 8
+
+- Sitzung: Bezirksvertretung 8 (2015-06-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/196272
+- Ergebnis: zur Kenntnis genommen
