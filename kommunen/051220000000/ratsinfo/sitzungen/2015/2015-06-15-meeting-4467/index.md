@@ -1,0 +1,56 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-06-15T17:00:00+02:00
+- Ende: 2015-06-15T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZR3XTjHAkyS7-qJaxvffGhs
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4467
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXayT14GnptbFsIiceagsvgLrmHdF4zOeFWIqnRjg0cb/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_15.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: KlimaExpo NRW
+- TOP 4: Standardabsenkung bei Hoch- und Tiefbaumaßnahmen
+- TOP 5: Zwischenbericht über die Umsetzung des Programms City 2013
+- TOP 6: Instandhaltung Dickenbusch
+- TOP 7: Hochwasserrisikomanagement-Richtlinie (EG-HWRM-RL)
+- TOP 8: Ausgleichs- und Ersatzleistungen auf der Grundlage des Landschaftsgesetzes NW in Solingen
+- TOP 9: Sicher Rad fahren in Solingen
+- TOP 10: Verkehrskonzept Hackhauser Straße
+- TOP 11: Verkehrskonzept Hackhauser Straße
+- TOP 12: Ansiedlung eines Designer-Outlet-Centers (DOC) in Remscheid
+- TOP 13: Bauleitplanung Stöcken/ Peter-Rasspe-Straße
+- TOP 14: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 15: Bauleitplanung Wittenbergstraße/ Nippesstraße
+- TOP 16: Bauleitplanung Höhscheider Weg
+- TOP 17: Bauleitplanung Richterweg
+- TOP 18: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 19: Bauleitplanung Klinikum/ Botanischer Garten
+- TOP 20: Fahrradboxen
+- TOP 21: Stellplätze für Wohnmobile auf dem Parkplatz Weyersberg
+- TOP 22: Verschiedenes
+- TOP 23: Umgang mit Meldungen von Schimmel-/Schadstoffbelastungen
+- TOP 24: Brückensanierung Brühler Straße
+- TOP 25: Parkhaus Hofgarten
+- TOP 26: Erweiterung des Busangebotes der Linie 782 von Solingen nach Düsseldorf während der Streiktage
+- TOP 27: Naturdenkmale
+- TOP 28: Projekt „Stadtverträgliche Lkw-Navigation“
+- TOP 29: Teilnahme der Stadt Solingen am Flächenpool NRW
+- TOP 30: VRR: Neuer S-Bahn-Takt ab 2019
+- TOP 31: Projektaufruf „Nationale Projekte des Städtebaus"
+- TOP 32: Entwicklung eines Factory-Outlet-Centers im Bereich Döppersberg in Wuppertal-Elberfeld
+- TOP 33: Kölner Straße / Dickenbusch
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bauleitplanung Richterweg
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die . Sitzung des ASUKM am
+- TOP 4: Verkauf einer städtischen Liegenschaft
+- TOP 5: Verschiedenes
+- TOP 6: Verkauf einer städtischen Liegenschaft
