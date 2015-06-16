@@ -1,0 +1,88 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484743
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484743
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Antworten zu den Fragen aus den Sitzungen vom 14.04. und 12.05.2015
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 30.04.2015 Gefährliche Verkehrssituation vor dem Kinderhaus St. Vitus
+- TOP .2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 11.05.2015 Nutzung des Spiel- und Bolzplatzes am Alten Nördlichen Friedhof
+- TOP .3.: Beschwerde einer Bürgerin aus der Bürgersprechstunde vom 12.05.2015 Lärmbelästigung durch eine Gaststätte in der Nordendstraße, Umwandlung der Nordend- straße in eine Einbahnstraße
+- TOP .4.: Schreiben eines Bürgers vom 26.05.2015 Tempo-30-Zone in der Arcisstraße zwischen Königsplatz und Schellingstraße
+- TOP .5.: Schreiben eines Bürgers vom 31.05.2015 Begrünungs- und Aufwertungsmaßnahmen in der Maxvorstadt
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.2.: Schrottfahrräder im Arnulfpark beseitigen
+- TOP 5.3.3.: Neue und verschiedene Formen der Baumscheibenabdeckung in München anwenden
+- TOP 5.3.4.: Der Bezirksausschuss 3 Maxvorstadt fordert die Landeshautstadt München auf, in der Maxvorstadt E-Parkplätze auszuweisen, die Parkplätze für Elektroautos besonders zu kennzeichnen und mit Ladestationen auszurüsten.
+- TOP 5.3.6.: Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der Zufahrt zum Karolinenplatz
+- TOP 5.3.7.: Erhalt des Kindertheaters an der Dachauer Straße
+- TOP 5.3.8.: Baureferat, Antwortschreiben vom 28.05.2015 Errichtung eines Zebrastreifens über die Arcisstraße
+- TOP 5.3.9.: entfällt
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Abschaffung der Einbahnregelung in der Türkenstraße (zwischen Gabelsberger- und Theresienstraße), der Gabelsbergerstraße (bis Arcisstraße) und der Theresienstraße (bis Luisenstraße) sowie Schaffung neuer Radverkehrsverbindungen
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: Marsstraße 46 ? 48, Aufstockung einer Leerguthalle
+- TOP 7.2.: Theresienstraße 77, Neubau eines Wohngebäudes mit Stellplätzen im Innenhof Vorbescheid
+- TOP 7.3.: Listen der Abgeschlossenheitsbescheinigungen: 19., 20., 21., 22. KW
+- TOP 7.4.: LBK-Listen der Bauvorhaben: 18., 19., 20., 21., 22. KW
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.1.: Ludwigstraße 25, Errichtung einer Zentralbibliothek für die philologischen Fächer
+- TOP 7.1.: Fürstenstraße 11, eine Winterlinde
+- TOP 7.2.: Barer Straße 71, eine Birke
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrages aus der Vollversammlung vom 19.12.2012 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015 Sitzungsvorlage Nr. 14-20 / V 01862
+- TOP 7.2.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BimSchV); a)Ausnahmezulassung gem § 7 Abs. 2 der 32. BimSchV für die Mülleinsammlung b) Ausnahmezulassung gem. § 7 Abs. 2 der 32 BImschV für Mäharbeiten des Straßen- begleitgrüns
+- TOP 7.2.: Antrag der CSU-Fraktion im BA 3 vom 29.05.2015 Auf dem südlichen und nördlichen Fahrradweg Ecke Görres-/Zentnerstraße soll der Zebrastreifen weitergezeichnet werden
+- TOP 7.4.: Antrag der CSU-Fraktion im BA 3 vom 01.06.2015 Entfernung der Schrotträder am Josephsplatz
+- TOP 7.5.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 11.05.2015 Aufhebung der Radwegbenutzungspflicht in der Nymphenburger Straße
+- TOP 7.6.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 01.06.2015 Neue Straßennutzungen ermöglichen ? verkehrsberuhigte Bereiche schaffen
+- TOP 7.2.1: Verkehr
+- TOP 2: (E) Erhalt dreier Ampelanlagen: Georgen-/ Tengstraße, Georgen-/ Isabellastraße und Görres-/ Tengstraße Die Ampelanlage Augusten-/ Görresstraße und die dazugehörige Rechtsabbiegespur sollen beibehalten werden Die bereits abgebauten Ampeln Ecke Görres-/ Schwindstraße sowie Görres-/ Zentnerstraße sollen wieder installiert werden Im Interesse der Schulwegsicherheit sollen die Ampelanlagen an der Kreuzung Augusten-/ Görresstraße sowie Teng-/ Görresstraße wieder vollständig errichtet und in Betrieb genommen werden
+- TOP 2.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Anhörung Radverkehr: beidseitige Markierung von Radfahrstreifen auf der Brienner Straße zwischen Königsplatz und Stiglmaierplatz
+- TOP 2.2.2: Öffentlicher Raum
+- TOP 2.2.3: Gaststätten
+- TOP 2.2.4: Veranstaltungen
+- TOP 2.1.: Kreisverwaltungsreferat, Anhörungen Straßenfest in der Georgenstraße Höhe HausNr. 144 (zwischen Winzererstraße und Schleißheimer Straße) am 01.08.2015
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Münchner Sportfestival am 05.07.2015, Königsplatz
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Pfarrfest am Ferdinand-Miller-Platz ? Fußgängerbereich um die Pfarrkirche am 04.07.2015 von 12.00 Uhr bis 19.00 Uhr
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Kinderuni ?Richtig gut essen? und ?Kindertag der Ernährung? des Bayerischen Staatsmi- nisteriums für Ernährung, Landwirtschaft und Forsten am 27.06.2015, Ludwigstraße 2 Schmuckhof, Grünfläche und öffentlicher Grund
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Klassik am Odeonsplatz am 11. und 12.07.2015
+- TOP 2.1.: Kreisverwaltungsreferat, Straßenverkehr, Verkehrsmanagement Anlieferungszone Penny, Sandstraße 37, Schriftverkehr und Bericht über einen Ortstermin
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid Streetlife Festival/Corso Leopold
+- TOP 2.4.: Baumaßnahmen der Stadtwerke a) Görresstraße 38, Strom b) Marsstraße-Wredestraße ReHa, Fernwärme
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro United Against Poverty ? Informationsveranstaltung am 06.06.2015 auf dem Königsplatz Eilentscheidung des Vorsitzenden vom 23.05.2015: Zustimmung
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Skatepark-Mobil von Mai bis September, Maßmannpark Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 2.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 37. Münchner Stadtlauf, 4. Nachtrag Eilentscheidung der 1. stellvertretenden Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 2.8.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Vollzug des Bayer.StrWG; Versagung einer beantragten Erlaubnis zur Erweiterung einer Freischankfläche
+- TOP 2.1.: Antrag des Kinder- und Jugendbeauftragten vom 29.05.2015 Bricht über die Sanierung des BSZ Thomas Wimmer
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 MFM-Projekt am 24.06. und 03.07.2015
+- TOP 2.2.: Sozialreferat, Stadtjugendamt ?Jugend im öffentlichen Raum? - Ausbau der regionalen, stadtteilorientierten Streetwork? Anhörung zum Beschlussentwurf für den Kinder- und Jugendhilfeausschuss
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Münchner Diskussionsforum für Entwicklungsfragen e.V. Buchprojekt ?München NICHT wie geplant?, Herausgabe Ende Juli 2015
+- TOP 2.1.: Referat für Bildung und Sport u.a., Beschlussvorlage Schulbauoffensive 2013 ? 2030 Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauaus- schuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss des Stadtrates vom 08.07.2015 Eilentscheidung des Vorsitzenden vom 18.05.2015: Zustimmung zur Vorlage
+- TOP 2.2.: Sozialreferat, Beschlussvorlage REGSAM ? Ein starkes Netzwerk für München, Trägerantrag auf Ressourcenerweiterung Antrag des BA 16 auf eigene REGSAM-Stelle Sitzungsvorlage Nr. 14-20 / V 01463
+- TOP 2.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.05.2015 Unterführung in der Ludwigstraße/Ecke Altstadtring künstlerisch aufwerten
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Ausstellungsprojekt SpielRaum" Ausstellungsreihe "SpielRaum" vom 21.05. - 14.06.2015
+- TOP 2.1.: Kassenbericht vertagt aus der Sitzung vom 12.05.2015
+- TOP 2.2.: Ferienausschuss, Termin, Sitzungsort, Besetzung etc.
+- TOP 2.4.: Internetauftritt des BA 3
+- TOP 2.2.: Entscheidungen und Anhörungen
+- TOP 2.3.: Aktuelle Sachstandsberichte
+- TOP 2.4.: Unterrichtungen
+- TOP 2.1.: Anträge
