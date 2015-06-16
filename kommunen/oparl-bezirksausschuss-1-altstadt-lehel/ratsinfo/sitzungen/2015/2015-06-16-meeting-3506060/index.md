@@ -1,0 +1,110 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-06-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506060
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506060
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächtes Sommertheaterproduktion im August/September 2015 - <div></div>
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Bestellung eines Ferienausschusses für die Sitzung am 18.08.2015
+- TOP .1.: Bürgeranliegen: Zweckentfremdung in der Damenstiftstraße
+- TOP .2.: Bürgeranliegen: Verkehrsplanung im Zusammenhang mit der Tiefgarage am Thomas-Wimmer-Ring
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sendlinger Str. 35: Ausbau einer Wohneinheit im DG
+- TOP .2.: Karlsplatz 3: Nutzungsänderung von extensiver Dachbegrünung in eine Dachterrasse
+- TOP .3.: Pestalozzistr. 2: Unterbringung von Flüchtlingen und Wohnungslosen ? Errichtung eines Gebäudes in System-/Modulbauweisen zur vorübergehenden Unterbringung von unbegleiteten, minderjährigen Flüchtlingen (vertagt aus 2015.05 B 3.1.12 N)
+- TOP .4.: Falckenbergstr. 9: Ausbau der 2. DG-Ebene (vertagt aus 2015.05 B 3.1.13 N)
+- TOP .5.: Falckenbergstr. 9: Erweiterung eines Ladens vom EG bis ins 2. OG durch Nutzungsänderung der Wohnungen im 2. OG (vertagt aus 2015.05 B 3.1.14 N)
+- TOP .6.: Müllerstr. 56, Umbau und Nutzungsänderung eines Spielsalons zu einem Café/Deli, Fassadenänderung EG im Bereich des Cafe?
+- TOP .7.: Weinstr. 6, Neubau eines Geschäfts- und Bürogebäudes
+- TOP .8.: Frauenplatz 2, Erweiterung der Freischankfläche, Einbau von Schirmsockeln - s. TOP C 2.1.4 (vertagt aus 2015.03 B 3.1.11)
+- TOP .1.: Marienhof/Landschaftsstraße, Herstellung von Fahrradabstellplätzen (temporärer Doppelstockparker)
+- TOP .2.: Beschlussvorlage ?Stadt und Fluss ? Rahmenplanung innerstädtischer Isarraum? des Referates für Stadtplanung und Bauordnung
+- TOP .1.: Bürgeranliegen: Grünfläche Isartorplatz (vertagt aus 2015.05 C 1.2)
+- TOP .2.1: Gaststätten
+- TOP .1.: Papa-Schmid-Straße 1, Gaststätte ?Samrat?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Tal 11, Gaststätte ?Böhmler Tal 11?, Genehmigung einer Freischankfläche
+- TOP .3.: Odeonsplatz 18, Grand Caviar GmbH, Genehmigung einer Freischankfläche (vertagt aus 2015. 06 C 1.2)
+- TOP .4.: Frauenplatz 2, Gaststätte ?Augustiner Klosterwirt?, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Herzogspitalstr. 5, Kurani Italy Mode, Aufstellung von neuen Verkaufseinrichtungen
+- TOP .2.: Salvatorplatz 1, Stiftung Literaturhaus, Veranstaltung ?Sommer-Lese? 2015 mit Sondernutzung
+- TOP .3.: Ledererstr. 17, Einzelhandel Obacht, Aufstellung von neuen Verkaufseinrichtungen
+- TOP .4.: Sendlinger Str. 33, Scotch & Soda Retail GmbH, Antrag auf Aufstellung einer Sitzgelegenheit
+- TOP .5.: Marienplatz 1, Biebl Küche + Messer, Aufstellung von neuen Verkaufseinrichtungen
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: ASB-Infoveranstaltung am 18.07.2015 am Richard-Strauss-Brunnen
+- TOP 1.2.: Angertorstraßenfest am 04.07.2015
+- TOP 1.3.: Kulturstraßenfest am 29.06.2015 in der Sparkassenstraße
+- TOP 1.4.: Straßenfest am 18.07.2015 in der Mariannenstraße
+- TOP 1.5.: Open-Air-Vorlesung mit Film am Salvatorplatz am 09.07., 16.07. und 30.07.2015
+- TOP 1.6.: UniCredit Festspielnacht 2015 am 04.07.2015 in der Kardinal-Faulhaber-Straße/Salvatorstraße
+- TOP 1.7.: Informationsveranstaltung der Lebenshilfe Memmingen/Unterallgäu e. V. vom 23.-25.09.2015 am Richard-Strauss-Brunnen
+- TOP 1.8.: Informationsveranstaltung der Plan International Deutschland e. V. Am 10.10.2015 am Richard-Strauss-Brunnen
+- TOP 1.9.: Christopher Street Day, Straßenfest am 11./12.07.2015 am Rindermarkt, Pettenbeckstraße, Rosenstraße, Marienplatz, Weinstraße, Dienerstraße, Marienhof und Landschaftsstraße
+- TOP 1.10.: Klassik am Odeonsplatz vom 11.-12.07.2015
+- TOP 1.11.: Kirchenzug zum Gärtnerjahrtag am 04.08.2015 durch die Innenstadt
+- TOP 1.12.: Informationsveranstaltung ?Herzenssache Schlaganfall? des Universitätklinikums München in der Neuhauserstr. 8
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Bürgeranliegen: Umbau Wilhelmsgymnasium ? Fahrradstellplätze an der renovierten Schule
+- TOP 1.4.: Bürgeranliegen: Müllbelastung im Englischen Garten
+- TOP 1.1.: Wege zum Münchner Hofbräuhaus barrierefrei gestalten (vertagt aus 2015.05 D 3.6 N)
+- TOP 1.2.: Fußgängerquerung Fürstenfelder Straße/Sendlinger Straße
+- TOP 1.1.: Betrieb Kunsthaus Maximilian und Urban Art Organization
+- TOP 1.1.: Bürgeranliegen: Planungen für das Ateliergebäude auf der Praterinsel
+- TOP 1.1.: Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.09.2015
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Lebendige neue Stadtviertel und Stadt der kurzen Wege durch belebte und vielfältige Erdgeschosszonen; Antrag Nr. 08-14 / 05260 der Stadtratsfraktion DIE GRÜNEN/RL vom 14.03.2014
+- TOP 0.4.: Bauvorhaben Prinzregentenstr. 11 a, Stellungnahme des Referates für Stadtplanung und Bauordnung zu BA-Schreiben, Abdruck des Vorbescheids
+- TOP 0.5.: Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums in der Thierschstr. 46, Beschluss des Bildungsausschusses des Stadtrates vom 17.06.2015, Sitzungsvorlage Nr. 14-20/V 03311
+- TOP 0.6.: Ehrenpreis für guten Wohnungsbau, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 (SB), Sitzungsvorlage Nr. 14-20/V 03176
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.6.: Kunst im öffentlichen Raum ? Shabbyshabby Apartments vom 03.09.-18.10.2015: - Gold House, Prinzregentenstraße - Zur feinsten Seide, Maximilianstraße - Parking Loft, Maximilianstraße - Give and Take, Maximilianstraße
+- TOP 0.7.: Eilentscheidung des Vorsitzenden zur/zum: - Nachtrag des 37. Münchner Stadtlaufs 2015 - Verkehrssicherheitstag am 20.06.2015 auf dem sog. Odeonsplatz - Veranstaltung ?Euromaché? vom 17.06.-20.06.2015 auf dem Rindermarkt - Lesung mit Livemusik in der Neuhauser Str. 8 am 08.06.201 - Fuzo-Straßenfest Sendlinger Straße am 14.06.2015 - Kulturstrand 2015 - Standortvorschläge
+- TOP 0.8.: Zustimmung zur Gedenkveranstaltung am 15.06.2015 auf dem Salvatorplatz durch Fristablauf
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Max-Joseph-Platz, Busanfahrtszone - Sternstraße, Höhenbeschränkung - Fußgängerzone Viktualienmarkt - Eingeschränkte und absolute Halteverbote am Rinderma
+- TOP 0.2.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012, Hinweis/Ergänzung zur Sitzungsvorlage Nr. 14-20/V 01862, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015
+- TOP 0.3.: Folgen der Hugendubel Baustelleneinrichtung am Marienplatz für Bus- und Radverkehr, BA-Antrag Nr. 14-20/B 00978 vom 10.03.2015, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.4.: Kürzer getaktete Reinigung am St.-Anna-Brunnen, BA-Antrag-Nr. 14-20 / B 00976 vom 10.03.2015, Antwortschreiben des Baureferats
+- TOP 0.5.: Oettingenstraße 6 ? 8, Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BimSchV
+- TOP 0.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.7.: Urbane Gemeinschaftsgärten in München, Antrag-Nr. 14-20 / A 00199, 14-20 / A 00200, 14-20 / A 00202 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 21.08.2014, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.04.2015
+- TOP 0.8.: Parkraumbewirtschaftung im 1. Stadtbezirk, BA-Antrag Nr. 14-20/B 00853 vom 10.02.2015, Antwortschreiben des Referates für Stadtplanung und Bauordnung
+- TOP 0.9.: Maximilianstr. 39, Stellungnahme der Regierung von Oberbayern zu Bürgeranliegen vom 22.04.2015
+- TOP 0.10.: Doppelstock-Fahrradständer Marienhof, Informationsschreiben des Baureferates
+- TOP 0.11.: Anbringen von Hundeverbotsschildern auf Kinderspielplätzen, BA-Antrag Nr. 14-20/B 00975 vom 10.03.2015, Antwortschreiben des Baureferates
+- TOP 0.12.: Umwandlung eines KFZ-Stellplatzes in Fahrradabstellplätze in der Westenriederstraße, BA-Antrag Nr. 08-14/B 03122 vom 22.03.2011, Antwortschreiben des Referates für Stadtplanung und Bauordnung
+- TOP 0.13.: Taxiverkehr am Marienplatz, BA-Antrag Nr. 11-20/B 01222 vom 12.05.2015, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 0.14.: Beseitigung höhengleicher Bahnübergänge, Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015, Sitzungsvorlage Nr. 14-20/V 0234
+- TOP 0.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Ausstellungsprojekt FADEN-KREUZ, Sachbericht
+- TOP 0.3.: Zuschussnehmerdatei 2015; Vollzug des Haushaltsplanes 2015 für den Bereich ?Förderung freier Träger? des Sozialreferates / Zentrale; Sitzungsvorlage Nr. 14-20 / V 02270; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.04.2015
+- TOP 0.4.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen, 4. Standortbeschluss, Sitzungsvorlage Nr. 14-20/V 03051, Beschluss der Vollversammlung vom 29.04.2015
+- TOP 0.5.: REGSAM ? Ein starkes Neztwerk für München, Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigenen REGSAM-Stelle, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.2015 (VB), Sitzungsvorlage Nr. 14-20/V 01463
+- TOP 0.6.: Mieterbeiratswahl 2015, Beschluss des Sozialausschusses vom 18.06.2015 (VB), Sitzungsvorlage Nr. 14-20/V 03011
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
+- TOP 0.5.: Bürgeranliegen: Situation an der städtischen Grünanlage am Isartorplatz, Stellungnahme der Polizeiinspektion 11 zu BA-Schreiben vom 11.02.2015 (2015.02 C 1.2)
+- TOP 1: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT </div> (E) Maßnahmen zur Lärm und Schmutzminderung in der Müllerstraße
