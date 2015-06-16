@@ -1,0 +1,100 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3546262
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3546262
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung der Fachstelle für Allparteiliches Konfliktmanagement ("AKIM") des Sozialreferates
+- TOP 2.2.: Information durch das Kulturreferat zu den finanziellen Fördermöglichkeiten der LHM
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Schellenbergstraße (vor Edeka) - Parksituation - Ortstermin mit dem Baureferat-Tiefbau und dem KVR - verwiesen aus der Sitzung vom 21.04.2015
+- TOP 3.2.: Rabenkopfstraße - Bericht zum Ortstermin mit dem Baureferat-Tiefbau und dem KVR (Sanierung / verkehrsberuhigende Maßnahmen / Diskussion Gesamtkonzept) - verwiesen aus der Sitzung vom 21.04.15 und 19.05.15
+- TOP 3.3.: Säbener Straße - Sanierung zwischen Naupliastraße und Oberbiberger Straße - Bericht zum Ortstermin mit dem Baureferat-Gartenbau und Baureferat-Tiefbau - verwiesen aus der Sitzung vom 21.04.15 und 19.05.15
+- TOP 3.1.: Errichtung eines Kreisverkehrs an der Kreuzung Säbener Straße / Oberbiberger Straße; Antrag der SPD-Fraktion - <div>zurückgezogen / Alternativantrag beschlossen</div>
+- TOP 3.1.: ANFRAGE - Auswirkungen der Tunnelplanungen Tegernseer Landstraße; Initiative der Fraktion Bündnis 90/Die Grünen im BA 18; Schreiben des BA 18 vom 20.03.2015; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 11.05.2015 (neutrale Erledigung)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Grünstreifen Lohstraße; Bürgerschreiben vom 18.05.2015 (verwiesen aus der Sitzung vom 19.05.2015)
+- TOP 3.1.: Stadtpark Am Hollerbusch - Hundekottütenspender und Hundekotabfalleimer mit Deckel sowie erkennbare Hundeverbotsschilder für die Spielwiese; BA-Antrag Nr. 14-20 / B 01007 vom 17.03.2015; Antwortschreiben des Baureferats-Gartenbau vom 26.05.2015 (neutrale Erledigung)
+- TOP 3.2.: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Stellungnahme des BA 18 aus der Sitzung vom 21.04.2015; Antwortschreiben der Unteren Naturschutzbehörde vom 18.05.2015 (positive Erledigung)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Fromundschule - Lärmbelästigung; Bürgerschreiben vom 03.05.2015 (verwiesen aus der Sitzung vom 19.05.2015)
+- TOP 3.1.: Renovierung der vorhandenen Einrichtungen für kleinere Kinder und Schaffung von Spielmöglichkeiten für größere Kinder am Spielplatz Schmorellplatz; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 19.05.2015) - <div>nach Antrag</div>
+- TOP 3.1.: Schulbauoffensive 2013/2030 - Aktionsprogramm Schul- und Kita-Bau - Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen; Beschlussentwurf des RBS mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 19.05.2015)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Parkhauskonzept ?Auenland? am Tierpark Hellabrunn; Zuleitung des Architekturbüros Dorn Architekten Ingenieure (DAI GmbH) - verwiesen aus der Sitzung vom 19.05.2015
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Lebscheestraße 1, DG-Ausbau zu Studenten-WG; Anhörung vom 06.05.2015 (vertagt aus der Sitzung vom 19.05.2015)
+- TOP 3.2.: Obere Weidenstraße 9, Neubau / Erweiterung einer Tiefgarage; Anhörung vom 08.05.2015 (vertagt aus der Sitzung vom 19.05.2015)
+- TOP 3.3.: Hauberrißerstraße 3, Neubau eines Mehrfamilienhauses mit Tiegarage und Gartenhaus - TEKTUR; Anhörung vom 21.05.2015
+- TOP 3.4.: Lindenstraße 28a, Neubau eines Einfamilienhauses mit Einliegerwohnung sowie eines Carports und einer Garage; Anhörung vom 22.05.2015
+- TOP 3.5.: Widdersteinstraße 8, Neubau eines Einfamilienhauses; Anhörung vom 27.05.2015
+- TOP 3.6.: Hans-Mielich-Straße 7, Nutzungsänderung zweier Dachräume zu 2 Wohnungen (Hans-Mielich-Straße 7 / Konradinstraße 12 - Whg. Nr. 91 und 92); Anhörung vom 18.05.2015
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Der Bezirksausschuss 18 bittet die LHM, auf der Fläche des Baureferats-Gartenbau am Hollerbusch 1 1. bis zum Mai 2015 die Lagerung eines Maibaums für den Maibaumverein Harlaching zuzulassen, 2. nach Abriss des Bestandsgebäudes einen Kindergarten/eine Kinderkrippe zu errichten, 3. an der Grundstücksgrenze Gartenhäuschen aufzustellen, welche von außen zugänglich sind und 4. auf dem Vorplatz neben dem Schachspiel einen Spielplatz zu gestalten; BA-Antrag Nr. 14-20 / B 00786 vom 20.01.2015; Antwortschreiben des Baureferats-Gartenbau vom 08.05.2015 (Punkt 1 bis 3 - neutrale bzw. negative Erledigung) mit der Bitte um Rückmeldung zu Punkt 4.
+- TOP 3.2.: Öffentliche Grünfläche Am Hollerbusch 1 - Umwandlung in einen Spielplatz; BA-Antrag Nr. 14-20 / B 787 vom 20.01.2015; Antwortschreiben des Baureferats-Gartenbau vom 08.04.2015 (positive Erledigung) mit der Bitte um Bestätigung der weiteren Planungen
+- TOP 3.3.: Errichtung eines barrierefreien Zugangs für die Gaststätte "Gartenstadt"; BA-Antrag Nr. 14-20 / B 00532 vom 21.10.2014; Antwortschreiben der GEWOFAG vom 26.05.2015 (positive Erledigung)
+- TOP 3.1.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraun; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.1.1 Anwesen Lindenstraße; Mitteilung vom 05.05.2015
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Ludmilla's", Ludmillastraße 20a; Mitteilung vom 19.05.2015
+- TOP 3.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Bauernmarkt am Mangfallplatz; Antrag der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.1.: Veranstaltung in einer städtischen Grünanlage am 11.07.2015; hier: Athener Platz, Sommefest der Kita Wichtel Akademie; Zuleitung des KVR mit der Bitte um Stellungnahme bis 19.06.2015
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest in der Untere Weidenstraße; Zuleitung des KVR mit der Bitte um Stellungnahm
+- TOP 3.1.: Kunst im öffentlichen Raum - Shabbyshabby Apartments in der Kupferhammerstraße / Hebenstreitstraße vom 03.09.2015 bis 18.10.2015; Unterrichtung des Baureferats vom 11.05.2015
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Dreifachturnhalle des städtischen Theodolinden-Gymnasiums - Anfrage zur Belegung; Antrag der SPD-Fraktion - <div>nach Antrag / mit Ergänzung</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Errichtung des Pfarrverbands Mariahilf - St. Franziskus ab 1. Juli 2015; Mitteilung des Erzbischöflichen Ordinariates München
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
