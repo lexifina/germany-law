@@ -1,0 +1,68 @@
+# öffentliche / nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-06-16T16:02:00+02:00
+- Ende: 2015-06-16T18:11:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12175
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12175
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (Stand: 03.06.2015) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00181727.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00182798.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Konzernabschluss 2014 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2014 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2014 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2014 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2014 der Gemeinschaftswerk Hattingen GmbH (GWH) - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2014 Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2013/2014 - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2014 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2014 der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2014 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss der Lokalfunk Wuppertal Beteiligungsgesellschaft mbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2014 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss 2014 der Regiobahn GmbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 2.2: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2015/2016 - ungeändert beschlossen
+- TOP 2.3: Wirtschaftsplan 2015 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Geschäftsordnung des Aufsichtsrates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.2: Liquidation der VGW Verkehrsgesellschaft Wuppertal GmbH - ungeändert beschlossen
+- TOP 3.3: Leitungsstruktur der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.4: Umsetzung einer EU-konformen Direktvergabe im ÖPNV - ungeändert beschlossen
+- TOP 3.5: Verschmelzung der Hotel AG mit der GWG Gemeinnützige Wohnungsbaugesellschaft Wuppertal mbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Sachstandsbericht zur Umsetzung von Maßnahmen im Einwohnermeldeamt - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Stadtentwässerung - Maßnahmenkatalog 2016/Katalogentwurf 2017 - ungeändert beschlossen
+- TOP 7.2: Satzungsänderungen Harmonisierung Trinkwassergebühren und Schmutzwassergebühren - ungeändert beschlossen
+- TOP 7.3: Qualitätsoffensive Innenstadt: Entwicklungskonzept City Elberfeld - ungeändert beschlossen
+- TOP 7.4: Neubau eines Geheges im Wildgatterstil für Milus (Davidshirsche) - ungeändert beschlossen
+- TOP 7.5: Schaffung des Kompetenz- und Bildungszentrums "Fuhlrott-Campus" - ungeändert beschlossen
+- TOP 7.6: Standortverlegung des Notarzteinsatzfahrzeuges 2 mit Erweiterung der Rettungswache Barmen - ungeändert beschlossen
+- TOP 7.7: Gewährung einer Ausgleichszahlung für vereinnahmte Elternbeiträge im aktuellen Streik - ungeändert beschlossen
+- TOP 7.8: Große Anfrage der FDP-Fraktion vom 23.04.2015 – Pachtverträge - Entgegennahme ohne Beschluss
+- TOP 7.8.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 23.04.2015 - Pachtverträge - Entgegennahme ohne Beschluss
+- TOP 7.9: Große Anfrage der Fraktion DIE LINKE vom 12.05.2015 - Gesundheitsmanagement - Entgegennahme ohne Beschluss
+- TOP 7.9.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 12.05.2015 - Gesundheitsmanagement - Entgegennahme ohne Beschluss
+- TOP 7.10: Erweiterung der Grundstücksflächenprüfung für mögliche Kindertagesstätten (KiTas) im Bereich Wichlinghausen, Heckinghausen und Oberbarmen - ungeändert beschlossen
+- TOP 7.11: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.06.2015 -Personalsituation Informations- und Kommunikationstechnologie - eingebracht
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Bestellung und Abberufung der/des Betriebsleiters/-leiterin des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
