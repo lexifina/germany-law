@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-06-17T15:00:00+02:00
+- Ende: 2015-06-17T19:45:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2820
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2820
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Verleihung des goldenen Schöffensiegels (HSP Maßnahme 2012-0180) - Einstimmiger Beschluss
+- TOP 3: Feststellung des Jahresabschlusses 31.12.2013 - Einstimmiger Beschluss
+- TOP 4: Sachstandsbericht Kompetenzzentrum Sauberkeit - Kenntnisnahme
+- TOP 4.1: Kompetenzzentrum Sauberkeit als Anstalt des öffentlichen Rechts (AöR) - Mit Stimmenmehrheit beschlossen
+- TOP 5: Bericht zum Sachstand der Arbeitsgruppe Maßnahmen im Projekt Saubere Stadt - Kenntnisnahme
+- TOP 5.1: Verlängerung der Regiobahn von Kaarst nach Viersen - Siehe Niederschrift
+- TOP 6: Beteiligung der NEW Kommunalholding GmbH - Einstimmiger Beschluss
+- TOP 7: Beteiligung der NEW AG - Getrennte Abstimmung (s. Niederschrift)
+- TOP 8: Wahl der Arbeitnehmervertreter in den Aufsichtsrat der Städtische Kliniken Mönchengladbach GmbH - Kenntnisnahme
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 10: Beherbergungssteuersatzung - In den nächsten Ratszug geschoben
+- TOP 11: Sechzehnter Nachtrag zur Abfallsatzung - Mit Stimmenmehrheit beschlossen
+- TOP 12: Jahresbericht zur Abwasserbeseitigung 2014 der NEW AG - Kenntnisnahme
+- TOP 13: Genehmigung der Wiederbestellung - Einstimmiger Beschluss
+- TOP 14: Vertretung der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 15: Beitritt der Stadt Mönchengladbach zur Einkaufsgemeinschaft Komm. Verwaltungen eG / Köln ( EKV ) - Einstimmiger Beschluss
+- TOP 16: Jahresabschluss 2014 der Gebäudereinigung der Stadt Mönchengladbach (GSM) - Einstimmiger Beschluss
+- TOP 17: Wahl einer/eines Beigeordneten - Vertagt (s. Niederschrift)
+- TOP 18: Flüchtlingseinrichtung des Landes Nordrhein-Westfalen im ehemaligen JHQ - Mit Stimmenmehrheit beschlossen
+- TOP 19: Nutzungsänderung der öffentlichen Tennisplätze Giesenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 20: Zweiter Nachtrag zur OGS-Elternbeitragssatzung - Einstimmiger Beschluss
+- TOP 21: Betreuungsangebot an Schulen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 22: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 23: Rückerstattung von Elternbeiträgen - Ohne Abstimmung
+- TOP 23.1: Rückerstattung von Elternbeiträgen bei mehr als dreitägigen Mitarbeiter(innen)streiks - Mit Stimmenmehrheit abgelehnt
+- TOP 23.2: Resolution an den Minister für Inneres und Kommunales NRW zur Ermöglichung der Erstattung - Vom Antragsteller zurückgezogen
+- TOP 23.3: Rückerstattung von Elternbeiträgen - Ohne Abstimmung
+- TOP 23.4: Rückerstattung von Elternbeiträgen - Mit Stimmenmehrheit beschlossen
+- TOP 24: Leistungsvereinbarung Suchtberatung - Mit Stimmenmehrheit beschlossen
+- TOP 25: Satzung für das Jugendamt der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 26: Fortführung des Projektes Kommunale Schulsozialarbeit - Mit Stimmenmehrheit beschlossen
+- TOP 27: Veränderungssperre Eicken - Einstimmiger Beschluss
+- TOP 28: Bebauungsplan Nr. 754/N - Stadtbezirk Nord, Gladbach und Eicken - Einstimmiger Beschluss
+- TOP 29: Aufhebung des VBP 526/I - Stadtbezirk West - Holt - Einstimmiger Beschluss
+- TOP 30: VBP 764/N, Stadtbezirk Nord - Gladbach, Fliethstraße, An der Flieschermühle - Mit Stimmenmehrheit beschlossen
+- TOP 31: Bürgerantrag zur Dorfentwicklungsplanung Wanlo - Einstimmiger Beschluss
+- TOP 32: Städtebaulicher Rahmenplan City Ost - Mit Stimmenmehrheit beschlossen
+- TOP 33: Sauberkeit auf Spielplätzen - Siehe Niederschrift
+- TOP 34: Tagesobdachlosigkeit von Jugendlichen - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Einführung von Fragestunden in den Bezirksvertretungen gemäß § 3 Abs. 6 der Geschäftsordnung - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Resolution: Unverzügliche und dauerhafte Abschaltung des belgischen Kernkraftwerks Tihange - Mit Stimmenmehrheit beschlossen
+- TOP 37: Anfragen und Mitteilungen
+- TOP 37.1: Mitteilung von Beigeordnetem Schnaß - Zur Kenntnis genommen
+- TOP 37.2: Anfrage von RH Sasserath (Bündnsi 90/Die Grünen) zu Flüchtlingen - Zur Kenntnis genommen
+- TOP 37.3: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zu einer Klage - Zur Kenntnis genommen
+- TOP 37.4: Anfrage von RH Dr. Schlegelmilch (CDU) zu Aufbruchgebühren - Zur Kenntnis genommen
+- TOP 37.5: Anfrage von RF Berten (SPD) zur Mikrofonanlage - Zur Kenntnis genommen
