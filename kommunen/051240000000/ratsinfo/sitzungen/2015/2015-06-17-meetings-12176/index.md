@@ -1,0 +1,84 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-06-17T16:03:00+02:00
+- Ende: 2015-06-17T16:30:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12176
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12176
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00181655.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung einer Schriftführerin für den Hauptausschuss
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Umzugspläne Bereitschaftspolizei
+- TOP 2.2: Personalsituation im Geschäftsbereich 1, Stadtentwicklung, Bauen, Verkehr, Umwelt
+- TOP 2.3: Personalsituation im Einwohnermeldeamt
+- TOP 2.4: Benchmarking Personalausstattung anderer Städte
+- TOP 2.5: Unbesetzte Stellen
+- TOP 2.6: Gewerbesteuer runter macht Wuppertal munter?
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gem. § 24 GO NRW zur Kastrations- und Kennzeichnungspflicht für freilaufende Katzen
+- TOP 3.2: Radverkehrsführung Baustelle Brücke Brändströmstraße
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Beitritt zum kommunalen Bündnis gegen Asyl-Missbrauch
+- TOP 4.2: Antrag: Gemeinsames Gedenken von Stadt und DITIB an den Genozid an den christlichen Minderheiten des Osmanischen Reiches
+- TOP 4.3: Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter
+- TOP 4.4: Vorlage des Maßnahmenkataloges „Bürgerbüros offenhalten“
+- TOP 4.5: Resolution Streik der Beschäftigten in den Sozial- und Erziehungsdiensten
+- TOP 4.6: ÖPNV-Anbindung IKEA
+- TOP 4.7: Erweiterung der Grundstücksflächenprüfung für mögliche Kindertagesstätten (KiTas) im Bereich Wichlinghausen, Heckinghausen und Oberbarmen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Öffentliches WLAN in Wuppertal fördern - Freifunk-Standorte auf städtischen Gebäuden einrichten
+- TOP 5.2: Antrag – Fahrradboxen fürs Tal
+- TOP 6: Ortsrecht
+- TOP 6.1: Zweite Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich
+- TOP 6.2: Satzungsänderungen Harmonisierung Trinkwassergebühren und Schmutzwassergebühren
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Gewährung einer Ausgleichszahlung für vereinnahmte Elternbeiträge im aktuellen Streikverfahren
+- TOP 7.1.1: Erstattung der Elternbeiträge und Verpflegungskosten wegen des Streiks in den städtischen Kindertageseinrichtungen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2014 der Wirtschaftsförderung Wuppertal AöR
+- TOP 8.2: Jahresabschluss 2014 der Jobcenter Wuppertal AöR
+- TOP 8.3: Liquidation der VGW Verkehrsgesellschaft Wuppertal GmbH
+- TOP 8.4: Bestellung und Abberufung der/des Betriebsleiters/-leiterin des Eigenbetriebs Wasser und Abwasser Wuppertal
+- TOP 8.5: Verschmelzung der Hotel AG mit der GWG Gemeinnützige Wohnungsbaugesellschaft Wuppertal mbH
+- TOP 8.6: Bestellung der Mitglieder für den Aufsichtsrat der Hotel AG (Rat)
+- TOP 8.7: Gründung einer GmbH in Zusammenhang mit der Übernahme des Betriebes der Hebammenschule der St. Anna-Klinik (Rat)
+- TOP 9: Planverfahren
+- TOP 9.1: 90. Änderung des Flächennutzungsplan (Einrichtungshaus / Dreigrenzen)
+- TOP 9.2: Bebauungsplan 1202 - Einrichtungshaus / Dreigrenzen -
+- TOP 9.3: Bebauungsplan 1208 - Berliner Straße / Rauer Werth -
+- TOP 9.4: Bebauungsplan 1205 - Märkische Straße / Hatzfelder Straße -
+- TOP 9.5: Bebauungsplan 1207 - Westring -
+- TOP 9.6: Bebauungsplan 1206 - Carnaper Straße / Hatzfelder Straße -
+- TOP 9.7: Bebauungsplan 1213 - Hohenstaufenstraße -
+- TOP 9.8: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße -
+- TOP 9.9: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße -
+- TOP 9.10: Bebauungsplan 1081, 2. Änderung - Mittelstandspark VohRang -
+- TOP 9.11: Bebauungsplan 1081, 3. Änderung - Mittelstandspark VohRang -
+- TOP 9.12: Durchführungsplan 145 - Bereich Schubertstraße / Lortzingstraße / Forestastraße -
+- TOP 9.13: Bebauungsplan 1181 - Sportplatz Lortzingstraße -
+- TOP 9.14: Vorhabenbezogener Bebauungsplan 1194 -südlich Lüttringhauser Straße -
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau eines Geheges im Wildgatterstil für Milus (Davidshirsche)
+- TOP 10.2: Standortverlegung des Notarzteinsatzfahrzeuges 2 mit Erweiterung der Rettungswache Barmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2016/Katalogentwurf 2017
+- TOP 11.2: Einzelhandels- und Zentrenkonzept
+- TOP 11.3: Qualitätsoffensive Innenstadt: Entwicklungskonzept City Elberfeld
+- TOP 11.4: Umbenennung der Nordtribüne des Stadions am Zoo in Horst-Szymaniak-Tribüne
+- TOP 11.5: Einrichtung einer 5. OGS-Gruppe an der offenen Ganztagsgrundschule Thorner Str. zum 01.08.2015
+- TOP 11.6: Schaffung des Kompetenz- und Bildungszentrums "Fuhlrott-Campus"
+- TOP 11.7: Ausbau der Betreuungsplätze für Kinder in Tageseinrichtungen
+- TOP 11.8: Umsetzung einer EU-konformen Direktvergabe im ÖPNV
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 12.2: Umbesetzung in der Verbandsversammlung des Wupperverbandes
+- TOP 12.3: Neuwahlen zu Gremien des Wupperverbandes
+- TOP 12.4: Gremienbesetzung / Benennung
