@@ -1,0 +1,8 @@
+# TOP 6: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2015
+
+- Sitzung: 8. Sitzung (2015-06-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/150343
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/58060
