@@ -1,0 +1,72 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-06-17T17:00:00+02:00
+- Ende: 2015-06-17T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3103
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3103
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sanierungsstau Schule - beantwortet
+- TOP 3.2: Krankenversicherung für ausländische Mitbürger - beantwortet
+- TOP 3.3: Geplante Flüchtlingsunterkünfte im Bezirk - beantwortet
+- TOP 3.4: Schandfleck V - beantwortet
+- TOP 3.5: Was passiert mit dem Gelände des "Freilandlabors" in Lankwitz? - beantwortet
+- TOP 3.6: Jugendkunstschule - beantwortet
+- TOP 3.7: Auch 2014 weniger Straßenbäume? - vertagt
+- TOP 3.8: Finanzierung von Arbeitsgemeinschaften an Schulen in unserem Bezirk - vertagt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Anträge - erledigt
+- TOP 4.1.1: Bezirkssportbund unterstützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Schul- und Hochschulsport schnell wieder ermöglichen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bahnhofsvorplatz Berlin Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Parkscheinautomaten auf "Brötchentaste" umstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Bezirkliche Sammelbehälter für Pfandflaschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Musikschule von Haushaltssperre ausnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Jugendverkehrsschule Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.6: Taxi-Halteplatz am S-Bahnhof Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.7: Einsicht in den aktuellen Stand über den Gesamtsanierungsbedarf des Fichtenberg-Gymnasiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.8: Schulen mehr Autonomie einräumen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.9: Familienfreundlicher Bezirk I: Elternbefragung zu Kinderbetreuung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.10: "Arrivo Berlin" auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.11: Genossenschaftliches Wohnen im Bezirk fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Liste der Baumaßnahmen im Hinblick auf den Sanierungsstau der Schulen im Bezirk - überwiesen
+- TOP 5.1.1: Integrationsbericht für Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.2: Soziale Verpflichtung der BImA - überwiesen
+- TOP 5.1.3: Dokumentenprüfgeräte in die Bürgerämter - überwiesen
+- TOP 5.1.4: Einrichtung einer neuen Buslinie durch die Matterhornstraße - überwiesen
+- TOP 5.1.5: Park and Ride am S-Bahnhof Wannsee - überwiesen
+- TOP 5.1.6: Info-App für Flüchtlinge und Unterstützer - überwiesen
+- TOP 5.1.7: Das Sportsanierungsprogramm (Ssp) aufstocken - überwiesen
+- TOP 5.1.8: Weltkulturerbe "Landschaftspark Glienicke" in einer Hand zusammenführen - überwiesen
+- TOP 5.1.9: Bürgersteigabsenkung an der Mühlenau-Grundschule - überwiesen
+- TOP 5.1.10: Hindernisbewältigung für Menschen mit Behinderung! - überwiesen
+- TOP 5.1.11: Bessere Ausschilderung im Rathaus Zehlendorf - überwiesen
+- TOP 5.1.12: Vogelschutz an Gebäuden bei Bauvorhaben - überwiesen
+- TOP 5.1.13: Fairtrade-Town Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.14: Erteilung der Baugenehmigung nach Vorstellung der Gutachten - überwiesen
+- TOP 5.1.15: Mehr Schulpsychologen für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.2.1: Neue Parkregelung am Steglitzer Damm anwohnerfreundlicher gestalten - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Wahlen - erledigt
+- TOP 7.1: Wahlvorschläge - erledigt
+- TOP 7.1.1: Wahl eines Bezirksstadtrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Truman Plaza - Verkauf Grünstreifen - die VII. - beantwortet
+- TOP 8.3: Notfallversorgung in Steglitz-Zehlendorf - beantwortet
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Resolution: Politisches Engagement der Schüler unterstützen - in der BVV zurückgezogen
+- TOP 10: Schlusswort des Vorstehers - erledigt
