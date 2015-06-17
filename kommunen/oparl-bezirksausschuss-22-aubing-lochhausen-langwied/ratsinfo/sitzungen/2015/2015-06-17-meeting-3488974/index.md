@@ -1,0 +1,108 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3488974
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3488974
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung des Betriebskonzeptes UBO9 durch das Kulturreferat
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Radwegeplanung Böhmerweiher
+- TOP 2.2.: Schaffung eines Bürgersteigs in der Rothenfelserstraße zwischen Limes-/Freienfelsstraße
+- TOP 2.3.: Erneuerung Treppenaufgang vom Bahnhof zum Gewerbegebiet Stockacher Str.; Anlagen einer Wege-Verbindung vom Rewe-Center zur Tettnanger Str. bzw. Schwetzinger Str.
+- TOP 2.4.: Bauvorhaben Limesstr. 39
+- TOP 2.5.: Fußweg Bodenseestr. - Überlinger Weg
+- TOP 2.6.: Flüchtlings-Container Langwieder Hauptstraße
+- TOP 2.7.: Energieverschwendung wegen nicht verbrauchsgesteuerter Anwendung
+- TOP 2.8.: Absolute Vermüllung und nicht angemeldetet zugemüllte Autos am Neuaubinger Bahnhofsvorplatz
+- TOP 2.9.: Wiederholte Großbrände im Gewerbegebiet Rupert-Bodner-Str.
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Ablehnungbescheid einer Baumfällung: Erlbachstr. 45, Schr. Planungsreferat vom 22.05.15
+- TOP 3.2.: Baumfällung zu einem Bauvorhaben: - Schrimpfstr. 4, Anhörung Planungsreferat vom 13.05.15
+- TOP 3.3.: Baumfällungen auf Anforderung: - Zwingenberger Str. 3 - Zwingenberger Str. 5 - Eichelhäherstr. 44 - Bergsonstr. 163 - Mainaustr. 22 - Altostr. 99 - Wildenfelser Str. 25 - Ostermoostr. 7 - Lichtenfelser Str. 18 - Bodenseestr. 320 - Streitbergstr. 17 - Wertheimer Str. 13 - Solnhofener Str. 9 - Dinkelsbühler Str. 23 - Wiesentfelser Str. 13 - Fabrikstr. 17 - Brunhamstr. 40 - Schussenrieder Str. 16 - Erlbachstr. 1 - Hohenesterstr. 11 - Kronwinkler Str. - Voglerstr. - Biburger Str. 3 (N) - Brachvogelstr. 5
+- TOP 4: Anträge
+- TOP 4.1.: Aufnahme des Dorfensembles Aubing in ein Städtebauförderprogramm
+- TOP 4.2.: Verbesserung der Gestaltung des öffentlichen Raums im Ensemble Aubing
+- TOP 4.3.: Antrag zur Zuschusserhöhung für die Kinder- und Jugendfarm Neuaubing
+- TOP 4.4.: Denkmalgeschützte Baracke 5 auf dem Gelände des ehem. Zwangsarbeiterlagers Ehrenbürgstraße 9
+- TOP 4.5.: Anfrage auf Herstellung des Verbindungsweges
+- TOP 4.6.: Absicherung des Basketballplatzes am Spielplatz Kastelburgstraße
+- TOP 4.7.: Anfrage: Informationen zu personellen Strukturen von Sozialeinrichtungen
+- TOP 4.8.: Runder Tisch zur temporären Errichtung von Flächen zur Freizeitnutzung im Gewerbegebiet Freiham
+- TOP 4.9.: Finanzierung des Kinder- und Jugendfonds "Lasst uns mal ran"
+- TOP 4.10.: Eilantrag: Verschmutzung Böhmerweiher durch Reiter
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse SOS-Kinderdorf München, Familien- und Kindertageszentrum Neuaubing Internationales Sommerfest am 10.07.2015
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Betriebskonzept für UBO 9 und Weiterführung der Kultureinrichtung, Anhörung Kulturreferat vom 19.01.15 (vertagt aus 02/15, 03/15, 04/15, 05/15)
+- TOP 6.2.: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" - Beschlussentwurf für den Kinder- und Jugendausschuss am 15.09.15, Anhörung Sozialreferat vom 20.05.15
+- TOP 6.3.: Veranstaltung im Freien ein einer städt. Grünanlage: "Mittendrin" am 11.07.15 in der Grünanlage Radolfzeller-/Altenburg-/Nonnenhornstraße, Anhörung KVR vom 19.05.15
+- TOP 6.1.: Beteiligungsprozess Freiham - akuteller Stand, Schr. Sozialreferat vom 13.05.15
+- TOP 6.2.: Fitness-Parcour für ältere Bürger, Schr. Baureferat vom 13.05.15
+- TOP 6.3.: Münchner Wochenmärkte: Schließung des Standort Neuaubing, Mainaustraße, Schr. Kommunalreferat vom 11.05.15
+- TOP 6.4.: Stadtteilcheck der Mittelschule an der Wiesentfelser Straße, Schr. Kreisjugendring vom 27.05.15
+- TOP 6.5.: Gespräch mit Anwohnern der Centa-Hafenbrädl-Straße
+- TOP 6.6.: Verlängerung Zirkus Baldoni bis 21.06.15, Schr. Baureferat vom 09.06.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Runder Tisch Ravensburger Ring - Stellungnahme des Elternbeirats, Schr. Elternbeirat Tagesheim Ravensburger Ring vom 12.05.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Verkehrsrechtliche Anordnung: Absolutes Haltverbot in der Hohenrechbergstraße, Anhörung KVR vom 12.05.15
+- TOP 6.1.: Bau der P&R-Anlage Georg-Böhmer-Straße, Schr. KVR vom 18.05.15
+- TOP 6.2.: Fußgängerunterführung Bodenseestr. / Aufseßer Platz, Schr. KVR vom 18.05.15
+- TOP 6.3.: Verbesserung der Beleuchtungssituation Schussenrieder Str. Höhe kath. Kirche St. Michael Lochhausen, Schr. Baureferat vom 18.05.15
+- TOP 6.4.: S-Bahn / U-Bahn - Straßenbahn nach Freiham, Schr. Planungsreferat vom 12.05.15
+- TOP 6.5.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, hier: Federsee- und Eichelhäherstr. zwischen Ziegeleistr. und Buswendeschleife (Fahrbahnsanierung), Schr. KVR vom 26.05.15
+- TOP 6.6.: Verkehrsrechtliche Anordnung, Änderung der Radverkehrsführung in der Aubinger Straße, Schr. KVR vom 04.08.14
+- TOP 6.7.: Untertunnelung Lochhausener Straße, Schr. Planungsreferat vom 18.05.15
+- TOP 6.8.: Verkehrsrechtliche Anordnung, Aufhebung der Tonnagebeschränkung in der Schussenrieder Straße, Schr. KVR vom 26.03.15
+- TOP 6.9.: Fahrradständer am S-Bahnhof Lochhausen, Schr. KVR vom 02.06.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Aubing-Ost-Straße - Neubau einer Kindertageseinrichtung mit 3 Kindergarten- und 3 Hortgruppen, Anhörung Planungsreferat vom 21.05.15
+- TOP 6.2.: Henschelstr. 7 - Neubau einer Wohnanlage mit Tiefgarage, Anhörung Planungsreferat vom 21.05.15
+- TOP 6.3.: Projektgenehmigungsbeschluss zum 1. Realisierungsabschnitt Freiham Nord, Anhörung Baureferat vom 01.06.15
+- TOP 6.1.: Baufälle im 22. Stadtbezirk vom 04.05.-10.05.15, 25.05.-31.05.15, 01.06.-07.06.15 Schr. Planungsreferat vom 26.05.15, 02.06.15, 08.06.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München - Stichtag: 18.05.15, 26.05.15, 01.06.15, 08.06.15
+- TOP 6.3.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte und Maschinenlärmschutzverordnung: Ausnahmegenehmigung für Mäharbeiten des Straßenbegleitgrüns, Schr. RGU vom 12.05.15
+- TOP 6.4.: Einrichten eines Gullis in der Lichtenfelserstraße an der Ecke Lichtenfelserstr. 4 zu Lichtenfelserstr. 5, Schr. Baureferat vom 26.05.15
+- TOP 6.5.: Zurückschneiden der Sträucher am Kinderspielplatz - Altostraße, Schr. Baureferat vom 19.05.15
+- TOP 6.6.: Prüf-Antrag zur Aufstellung eines Mülleimers, Schr. Baureferat vom 27.05.15
+- TOP 6.7.: Leinenzwang in der Langwieder Haide im Landschaftsbestandteil, Schr. Planungsreferat vom 26.05.15
+- TOP 6.8.: Bebauungsplan mit Grünordnung Nr. 1998 b, "Bitte nur Reines Wohngebiet zulassen, kein Allgemeines Wohngebiet schaffen!", Schr. Planungsreferat vom 26.05.15
+- TOP 6.9.: Sperrmüllentfernung in der Verlängerung der Englburgstraße, Schr. AWM vom 01.06.15
+- TOP 6.10.: Entfernung des Mülls in der Rupert-Bodner-Straße
+- TOP 6.11.: Baumaßnahmen der SWM, Stromprojekt Hoheneckstr., Schr. SWM vom 28.05.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Verkauf einer städtischen Immobilie, hier: Hans-Steinkohl-Straße, Flst. 3508/2ß, 3508/31, Anhörung Kommunalreferat vom 27.05.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mitteilung über ein Grundstücksgeschäft, hier: Anton-Böck-Straße, Flst. 3509/7 und 3509/8, Schr. Kommunalreferat vom 28.05.15
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Gemeinsamer Austausch am 15.04.15, Rückmeldung zu den offenen Themen, Schr. OB vom 30.04.15
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 29.04.15: - Bebauungsplan mit Grünordnung Nr. 2068: Germeringer Weg, Freihamer Weg, Kunreuthstraße, Wiesentfelser Straße, Anton-Böck-Straße, S-Bahnlinie München-Herrsching, Bodenseestraße, verlängerte Freihamer Allee (geänderter Beschluss)
+- TOP 10.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung im Zeitraum vom 01.07.14-31.12.14
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15: - Bebauungsplan mit Grünordnung Nr. 1998 b, Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Papinstr. (südlich und östlich), Gewerbegebiet ehem. Ausbesserungswerk (nördlich) - Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-System U-S-Bahnfahrzeugen für die Region München - Ehrenpreis für guten Wohnungsbau, Verleihung der Ehrenpreise 2015
+- TOP 10.4.: Beschluss des Sozialausschusses vom 18.06.15: Mieterbeiratswahl 2015, Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mietglieder
+- TOP 10.5.: Bekanntabe in der Sitzung des Bauausschusses vom 12.05.15: Beseitigung höhengleicher Bahnübergänge
+- TOP 10.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.15: REGSAM - Ein starkes Netzwerk für München, Trägerantrag auf Ressourcenerweiterung
+- TOP 10.7.: Beschluss der Vollversammlung vom 20.05.15: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfantrages aus der Vollversammlung vom 19.12.12
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Workshop "Freiham inklusiv" am 17.07.15 von 9.00-17.00 Uhr im Bauzentrum der LHM, Willy-Brandt-Allee 10
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Montag, 15.07.15 um 19.30 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 08.06.15 um 19 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Montag, 08.06.15 um 19 Uhr im Bayer. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, 10.06.15 um 18.30 Uhr in der Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, 11.06.15
+- TOP 13: Nichtöffentliche Sitzung
