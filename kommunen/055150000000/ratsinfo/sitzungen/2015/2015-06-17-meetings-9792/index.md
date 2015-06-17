@@ -1,0 +1,98 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-06-17T18:52:00+02:00
+- Ende: 2015-06-17T23:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9792
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9792
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00372934.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gem. § 24 GO
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Bestätigung des Gesamtabschlusses 2011 der Stadt Münster - einstimmig beschlossen
+- TOP 13: Digitale Stadt Münster
+- TOP 13.1: Digitale Stadt Münster: Breitbandausbau - einstimmig beschlossen
+- TOP 13.2: Digitale Stadt Münster: WLAN-Ausbau - einstimmig geändert beschlossen
+- TOP 13.3: Digitale Stadt Münster - Weiterentwicklung der elektronisch unterstützten Rats- und Gremienarbeit - mehrheitlich geändert beschlossen
+- TOP 14: Münster als Stadt des Friedens weiter profilieren - Umsetzbarkeit der Ergebnisse des Fachbeirates Frieden - einstimmig beschlossen
+- TOP 15: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2014 - einstimmig beschlossen
+- TOP 16: Außerplanmäßige Personalkompensation der Überleitung von Rettungsassistenten zu Notfallsanitätern - einstimmig geändert beschlossen
+- TOP 17: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012 und 2014 - einstimmig beschlossen
+- TOP 18: Anregung § 24 GO NRW 2015-00009 - Senkung der Hebesätze für die Grundsteuern auf den Stand von 2014 - - mehrheitlich beschlossen
+- TOP 19: Änderung des Gesellschaftsvertrages der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 20: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - von der Tagesordnung abgesetzt
+- TOP 21: Änderung des Gesellschaftsvertrages der "RELiGIO Westfälisches Museum für religiöse Kultur GmbH" (RELiGIO) - einstimmig beschlossen
+- TOP 22: Antrag der SPD-Fraktion Nr. A-R/0005/2015 "Konsequenzen für das Schuldenmanagement: Risiken begrenzen" Antrag der CDU-Fraktion Nr. A-R/0021/2015 "Solide wirtschaften - sicher finanzieren" - einstimmig beschlossen
+- TOP 23: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2014 - einstimmig beschlossen
+- TOP 24: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen - - mehrheitlich beschlossen
+- TOP 24.1: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen -
+- TOP 24.1.1: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen -
+- TOP 25: Konversionsprozess der York- und Oxford-Kaserne sowie der ehemals von den britischen Streitkräften genutzten Wohnstandorte - zur Kenntnis genommen
+- TOP 26: Münsterland e.V. - Ergebnisse der Strategiekommission - einstimmig geändert beschlossen
+- TOP 27: Bürgerumfrage 2015: Zentrale Ergebnisse zu den Fragenkomplexen "Leben in Münster", "Lebensbedingungen in Münster" - einstimmig beschlossen
+- TOP 28: Ausgleich von Mindereinnahmen im Ausbildungsverkehr - von der Tagesordnung abgesetzt
+- TOP 29: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2014 - einstimmig beschlossen
+- TOP 30: Vorteilsausgleich für den Neubau von Kreuzungsanlagen - zur Kenntnis genommen
+- TOP 31: Änderung des Schulnamens der "Lehranstalt für pharmazeutisch-technische Assistenten der Stadt Münster (PTA-Lehranstalt) - mehrheitlich beschlossen
+- TOP 32: Grundschulentwicklung im Stadtteil Wolbeck - einstimmig beschlossen
+- TOP 32.1: Grundschulentwicklung im Stadtteil Wolbeck
+- TOP 33: 1.Dauerhafte Übernahme der Trägerschaft der städtischen Kindertageseinrichtung Hornstraße 2. Einrichtung von Planstellen in städtischen Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 34: Jugendrat der Stadt Münster – Umstellung der Jugendratswahl auf eine Onlinewahl – Änderung der Wahlordnung und Satzung - mehrheitlich geändert beschlossen
+- TOP 35: Nutzung der ehemaligen Wartburg-Hauptschule, Von-Esmarch-Straße 15, als Notunterkunft des Landes zur Unterbringung von Flüchtlingen - mehrheitlich geändert beschlossen
+- TOP 36: Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, Aktivierung eines weiteren Gebäudes und Konzeption der zentralen Einrichtung für Flüchtlinge sowie der Übergänge in die dezentralen Flüchtlingseinrichtungen - mehrheitlich beschlossen
+- TOP 37: Ratsantrag A-R 0027/2013: Teilhabe an Arbeit für Menschen mit Behinderung in Münster erhöhen - einen inklusiven Arbeitsmarkt schaffen - einstimmig beschlossen
+- TOP 37.1: Ratsantrag A-R 0027/2013: Teilhabe an Arbeit für Menschen mit Behinderung in Münster erhöhen - einen inklusiven Arbeitsmarkt schaffen
+- TOP 38: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen in Pavillonbauweise in Hiltrup und Amelsbüren - mehrheitlich beschlossen
+- TOP 38.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen in Pavillonbauweise in Hiltrup und Amelsbüren
+- TOP 39: Pflegebedarfsplan 2015 - 2018, Ergänzung zur Umsetzung der Bedarfsfeststellung - einstimmig beschlossen
+- TOP 39.1: Pflegebedarfsplan 2015 - 2018, Ergänzung zur Umsetzung der Bedarfsfeststellung
+- TOP 40: Beirat für Klimaschutz der Stadt Münster - Prüfergebnisse der Verwaltung zur Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln" - zur Kenntnis genommen
+- TOP 41: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig beschlossen
+- TOP 42: Weiterführung der Wärmedämmstandards in Münster - von der Tagesordnung abgesetzt
+- TOP 42.1: Weiterführung der Wärmedämmstandards in Münster
+- TOP 43: Umweltpreis - einstimmig beschlossen
+- TOP 44: Masterplan 100% Klimaschutz - Teilnahme der Stadt Münster - einstimmig beschlossen
+- TOP 45: Feststellung der Jahresabschlüsse 2014 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 46: Bauleitplanung
+- TOP 46.1: Stadtbezirk Münster-Mitte
+- TOP 46.1.1: Vorhabenbezogener Bebauungsplan Nr. 574 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 46.2: Stadtbezirk Münster-West
+- TOP 46.2.1: 64. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 572 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 46.3: Stadtbezirk Münster-Hiltrup
+- TOP 46.3.1: Bebauungsplan Nr. 566 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 46.4: Stadtbezirk Münster-Südost
+- TOP 46.4.1: Bebauungsplan Nr. 280, vorhabenbezogene 2. Änderung - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - einstimmig beschlossen
+- TOP 46.4.2: Bebauungsplan Nr. 533 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 47: Erstattung anteiliger Elternbeiträge für streikbedingte Schließungstage im Jahr 2015 - mehrheitlich geändert beschlossen
+- TOP 48: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 48.1: Beitragserstattung für streikbetroffene Eltern
+- TOP 48.2: Sozial- und Erziehungsdienst aufwerten! - Elternbeiträge erstatten!
+- TOP 48.3: Kompensation von streikbedingten Aufwänden seitens der betroffenen Eltern
+- TOP 48.4: Moratorium für Jobcenter-Sanktionen - verwiesen
+- TOP 48.5: Keine Abschiebungen in den Kosovo - verwiesen
+- TOP 49: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 49.1: Mit DEFI Leben retten - Städtische Sportstätten mit Defibrillatoren ausstatten - verwiesen
+- TOP 49.2: Weniger Kosten, weniger Sorgen - KiTa-Investorenmodelle ermöglichen - verwiesen
+- TOP 49.3: Notwendige Balance bei Verleihung der Paulusplakette wiederherstellen – Sichtbarkeit von Frauen im Ehrenamt erhöhen - verwiesen
+- TOP 49.4: Nitratkonzentration in der Werse - Wasserverschmutzung an der Quelle bekämpfen - verwiesen
+- TOP 49.5: Bürgerfreundlich und Kundenorientiert - Höchste Zeit für bessere Bäder in Münster - verwiesen
+- TOP 49.6: Erweiterung des Bürgerhaushalts - verwiesen
+- TOP 49.7: Ausbauoffensive Kindertagesbetreuung - verwiesen
+- TOP 50: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 51: Verschiedenes
