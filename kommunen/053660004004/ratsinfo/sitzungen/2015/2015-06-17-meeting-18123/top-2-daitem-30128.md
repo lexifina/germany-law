@@ -1,0 +1,7 @@
+# TOP 2.: Kanalbaumaßnahme Michelsberg; hier: Erweiterung des Auftrages 1. BA "An der Hasenhecke" mit den Leistungsphasen 8 und 9
+
+- Sitzung: Betriebsausschuss "Stadtwerke" (3. Sitzung) (2015-06-17)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/30128
+- Ergebnis: Einstimmiger Beschluss:
