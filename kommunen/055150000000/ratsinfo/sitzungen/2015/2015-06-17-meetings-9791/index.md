@@ -1,0 +1,91 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-06-17T17:38:00+02:00
+- Ende: 2015-06-17T23:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9791
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9791
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00372932.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag Nr. A-R/0018/2015 der CDU-Fraktion "Wolfgang-Borchert Theater nicht noch einmal im Regen stehen lassen!" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis90/Die Grünen/'GAL Münster Nr. A-R/0023/2015 "Kein Geld für Atomstrom - Klage gegen britische Subventionen für Hinkley Point C unterstützen!" - mehrheitlich beschlossen
+- TOP 2.3: Antrag Nr. A-R/0017/2015 der SPD-Fraktion an den Rat vom 13.03.2015 - einstimmig geändert beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion an den Rat Nr. A-R/0015/2015 vom 10.03.2015 - einstimmig beschlossen
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht über die Beschäftigung von Menschen mit Schwerbehinderung und diesen Gleichgestellten bei der Stadt Münster - zur Kenntnis genommen
+- TOP 4: Jahresabschluss 2014 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 5: Nutzung des Festsaales der Waldorfschule durch den Verein "KULTUR erLEBEN e. V."/ Beiratsbesetzung - einstimmig beschlossen
+- TOP 6: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2015 - mehrheitlich beschlossen
+- TOP 6.1: Arbeitsmarkt- und Integrationsprogramm des Jobcenters Münster 2015
+- TOP 7: Steuerung von Leistungen mit Bezug zu Aufgaben für Arbeitssuchende (SGB II), hier: Kooperations- und Vernetzungsbericht - zur Kenntnis genommen
+- TOP 8: Erfahrungsbericht "Hilfen beim Umzug" - einstimmig beschlossen
+- TOP 9: Behandlung von Beschwerden
+- TOP 9.1: Beschwerde nach § 24 Gemeindeordnung NRW wegen mangelnder Unterrichtung gemäß § 23 GO NRW - einstimmig beschlossen
+- TOP 9.2: Beschwerde nach § 24 Gemeindeordnung NRW wegen mangelnder Unterrichtung gemäß § 23 GO NRW - einstimmig beschlossen
+- TOP 9.3: Beschwerde nach § 24 Gemeindeordnung NRW wegen Verletzung der Sitzungsöffentlichkeit - mehrheitlich beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Bestätigung des Gesamtabschlusses 2011 der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11: Digitale Stadt Münster
+- TOP 11.1: Digitale Stadt Münster: Breitbandausbau - ohne Beschlussfassung geschoben
+- TOP 11.2: Digitale Stadt Münster: WLAN-Ausbau - ohne Beschlussfassung geschoben
+- TOP 11.3: Digitale Stadt Münster - Weiterentwicklung der elektronisch unterstützten Rats- und Gremienarbeit - ohne Beschlussfassung geschoben
+- TOP 12: Münster als Stadt des Friedens weiter profilieren - Umsetzbarkeit der Ergebnisse des Fachbeirates Frieden - ohne Beschlussfassung geschoben
+- TOP 13: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2014 - ohne Beschlussfassung geschoben
+- TOP 14: Außerplanmäßige Personalkompensation der Überleitung von Rettungsassistenten zu Notfallsanitätern - ohne Beschlussfassung geschoben
+- TOP 15: Gesamtrechenschaftsbericht der Bürgerhaushalte 2011, 2012 und 2014 - ohne Beschlussfassung geschoben
+- TOP 16: Anregung § 24 GO NRW 2015-00009 - Senkung der Hebesätze für die Grundsteuern auf den Stand von 2014 - - ohne Beschlussfassung geschoben
+- TOP 17: Änderung des Gesellschaftsvertrages der Stadtwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 18: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - von der Tagesordnung abgesetzt
+- TOP 19: Änderung des Gesellschaftsvertrages der "RELiGIO Westfälisches Museum für religiöse Kultur GmbH" (RELiGIO) - ohne Beschlussfassung geschoben
+- TOP 20: Antrag der SPD-Fraktion Nr. A-R/0005/2015 "Konsequenzen für das Schuldenmanagement: Risiken begrenzen" Antrag der CDU-Fraktion Nr. A-R/0021/2015 "Solide wirtschaften - sicher finanzieren" - ohne Beschlussfassung geschoben
+- TOP 21: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2014 - ohne Beschlussfassung geschoben
+- TOP 22: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen - - ohne Beschlussfassung geschoben
+- TOP 22.1: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen -
+- TOP 22.1.1: Grundsätze für die Vergabe städtischer Grundstücke - Mehrfamilienhäuser, Gemeinschaftswohnformen -
+- TOP 23: Konversionsprozess der York- und Oxford-Kaserne sowie der ehemals von den britischen Streitkräften genutzten Wohnstandorte - ohne Beschlussfassung geschoben
+- TOP 24: Münsterland e.V. - Ergebnisse der Strategiekommission - ohne Beschlussfassung geschoben
+- TOP 25: Bürgerumfrage 2015: Zentrale Ergebnisse zu den Fragenkomplexen "Leben in Münster", "Lebensbedingungen in Münster" - ohne Beschlussfassung geschoben
+- TOP 26: Ausgleich von Mindereinnahmen im Ausbildungsverkehr - von der Tagesordnung abgesetzt
+- TOP 27: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2014 - ohne Beschlussfassung geschoben
+- TOP 28: Vorteilsausgleich für den Neubau von Kreuzungsanlagen - ohne Beschlussfassung geschoben
+- TOP 29: Änderung des Schulnamens der "Lehranstalt für pharmazeutisch-technische Assistenten der Stadt Münster (PTA-Lehranstalt) - ohne Beschlussfassung geschoben
+- TOP 30: Grundschulentwicklung im Stadtteil Wolbeck - ohne Beschlussfassung geschoben
+- TOP 30.1: Grundschulentwicklung im Stadtteil Wolbeck
+- TOP 31: 1.Dauerhafte Übernahme der Trägerschaft der städtischen Kindertageseinrichtung Hornstraße 2. Einrichtung von Planstellen in städtischen Kindertageseinrichtungen - ohne Beschlussfassung geschoben
+- TOP 32: Jugendrat der Stadt Münster – Umstellung der Jugendratswahl auf eine Onlinewahl – Änderung der Wahlordnung und Satzung - ohne Beschlussfassung geschoben
+- TOP 33: Nutzung der ehemaligen Wartburg-Hauptschule, Von-Esmarch-Straße 15, als Notunterkunft des Landes zur Unterbringung von Flüchtlingen - ohne Beschlussfassung geschoben
+- TOP 34: Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, Aktivierung eines weiteren Gebäudes und Konzeption der zentralen Einrichtung für Flüchtlinge sowie der Übergänge in die dezentralen Flüchtlingseinrichtungen - ohne Beschlussfassung geschoben
+- TOP 35: Ratsantrag A-R 0027/2013: Teilhabe an Arbeit für Menschen mit Behinderung in Münster erhöhen - einen inklusiven Arbeitsmarkt schaffen - ohne Beschlussfassung geschoben
+- TOP 35.1: Ratsantrag A-R 0027/2013: Teilhabe an Arbeit für Menschen mit Behinderung in Münster erhöhen - einen inklusiven Arbeitsmarkt schaffen
+- TOP 36: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen in Pavillonbauweise in Hiltrup und Amelsbüren - ohne Beschlussfassung geschoben
+- TOP 36.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen in Pavillonbauweise in Hiltrup und Amelsbüren
+- TOP 37: Pflegebedarfsplan 2015 - 2018, Ergänzung zur Umsetzung der Bedarfsfeststellung - ohne Beschlussfassung geschoben
+- TOP 37.1: Pflegebedarfsplan 2015 - 2018, Ergänzung zur Umsetzung der Bedarfsfeststellung
+- TOP 38: Beirat für Klimaschutz der Stadt Münster - Prüfergebnisse der Verwaltung zur Empfehlungsliste zum Thema "Anreizsysteme zu klimafreundlichem Handeln" - ohne Beschlussfassung geschoben
+- TOP 39: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 40: Weiterführung der Wärmedämmstandards in Münster - von der Tagesordnung abgesetzt
+- TOP 40.1: Weiterführung der Wärmedämmstandards in Münster
+- TOP 41: Umweltpreis - ohne Beschlussfassung geschoben
+- TOP 42: Masterplan 100% Klimaschutz - Teilnahme der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 43: Feststellung der Jahresabschlüsse 2014 der Kommunalen Stiftungen - ohne Beschlussfassung geschoben
+- TOP 44: Bauleitplanung
+- TOP 44.1: Stadtbezirk Mitte
+- TOP 44.1.1: Vorhabenbezogener Bebauungsplan Nr. 574 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 44.2: Stadtbezirk West
+- TOP 44.2.1: 64. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 572 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 44.3: Stadtbezirk Hiltrup
+- TOP 44.3.1: Bebauungsplan Nr. 566 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 44.4: Stadtbezirk Südost
+- TOP 44.4.1: Bebauungsplan Nr. 280, vorhabenbezogene 2. Änderung - Beschluss zur Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - ohne Beschlussfassung geschoben
+- TOP 44.4.2: Bebauungsplan Nr. 533 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 45: Erstattung anteiliger Elternbeiträge für streikbedingte Schließungstage im Jahr 2015 - ohne Beschlussfassung geschoben
+- TOP 46: Verschiedenes
