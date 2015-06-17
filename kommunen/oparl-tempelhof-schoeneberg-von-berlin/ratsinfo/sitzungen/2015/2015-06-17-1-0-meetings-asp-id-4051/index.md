@@ -1,0 +1,108 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-06-17T17:00:00+02:00
+- Ende: 2015-06-17T21:00:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4051
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4051
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=71590
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - (offen)
+- TOP 3.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gem. § 24 ABs. 1 Buchstabe c BezVG i.V.m. § 71 Abs. 1 (3) GO BVV - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Renovierung der Fenster und Zäune in der Bruno-H.-Bürgel Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Zaun für die Spreewald-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Neue Zäune an der Grundschule am Barbarossaplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Fahrradständer auf dem Hof der Grundschule am Barbarossaplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Unerledigte Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Die Prignitz-Schule erhalten und unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Von der Bankiers-Bahn zum Fahrrad-Schnellweg - überwiesen
+- TOP 9.3: Umbenennung der Udetzeile - überwiesen
+- TOP 9.4: Verlängerung für die Gerhard-Hauptmann-Bücherei im Rathaus Friedenau - überwiesen
+- TOP 9.5: Tempelhof-Schöneberg bekennt sich zur Öffnung der Ehe für gleichgeschlechtliche Partnerschaften - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Mittel für die Sanierung von Sportanlagen im Rahmen des Sportanlagensanierungsprogramms deutlich aufstocken - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Bebauungsplan für die Umwidmung der Lauterstrasse am Breslauer Platz - in der BVV abgelehnt
+- TOP 9.8: Eckpunkte Bereich "alte Mälzerei" in Lichtenrade - überwiesen
+- TOP 9.9: Schulpsychologie stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Keine Ausweitung von Sportflächen auf historischen Orten des Tempelhofer Feldes - überwiesen
+- TOP 9.11: Tempelhofer Damhirsche im Schöneberger Fadenkreuz - in der BVV abgelehnt
+- TOP 9.12: Dog Stations für weniger Hundekot auf den Straßen in Lichtenrade, Marienfelde und Mariendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Kleine Maßnahmen, große Wirkung - Außenbereich der Bezirkszentralbibliothek reinigen und Mülleimer aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Endlich mehr Sitzbänke im Bezirk - überwiesen
+- TOP 9.15: Planungswerkstatt Kommunale Entwicklungszusammenarbeit II - in der BVV abgelehnt
+- TOP 9.16: Videoüberwachung auf Tempelhof-Schöneberger S-Bahnhöfen verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Tempelhofer Weg in beiden Richtungen für Radverkehr ermöglichen - überwiesen
+- TOP 9.18: Sicherung des Bahnbetriebs am Crelle-Urwald - in der BVV abgelehnt
+- TOP 9.19: Archiv über Kunstwerke im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Radfahrhemmnis Torgauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Schulungen für die Mitarbeiter des Jugendamtes - überwiesen
+- TOP 9.22: Quartiere stärken - Zwischennutzungsagentur etablieren - überwiesen
+- TOP 9.23: Unterführung in der Großgörschenstraße besser ausleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 9.24: Blümelteich amphibienfreundlich sanieren - überwiesen
+- TOP 9.25: Neuer Raum für die Seniorenvertretung - auf die Größe kommt es (auch) an! - überwiesen
+- TOP 9.26: Ampelanlage Kolonnenstraße Ecke Feurigstraße fußgängerfreundlicher schalten - überwiesen
+- TOP 9.27: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.28: Falls Dringlichkeit festgestellt: Die Situation "Grunewald 87" lösungsorientiert angehen - überwiesen
+- TOP 9.29: Falls Dringlichkeit festgestellt Enteignung prüfen! - überwiesen
+- TOP 10: übrige Große Anfragen - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bekenntnis zu Diversity in Vergabeverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Prioritäre, aber nicht finanzierte Baumaßnahmen bei allen Bezirken abfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Bürgerbeteiligung als eigenes Produkt dauerhaft im Bezirkshaushalt verankern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Konzept gegen gruppenbezogene Menschenfeindlichkeit aufgrund der sexuellen Orientierung oder der geschlechtlichen Identität - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Schulentwicklungsplan vorantreiben - überwiesen
+- TOP 11.6: Beschlüsse der Schulkonferenz umsetzen - rechtmäßig handeln - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Neue Flüchtlingsunterkunft - Willkommenskultur unterstützen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Finanzielle Ausstattung der Schuldner- und Insolvenzberatung aufstocken - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: des Bezirksamtes Tempelhof-Schöneberg von Berlin gemäß § 12 Absatz 2 Nummer 4 des Bezirksverwaltungsgesetzes (BezVG) über eine Erhaltungsverordnung für das Gebiet "Schöneberger Insel", für die Grundstücke zwischen Monumentenstraße, östliche Grenze des Grundstücks Monumentenstraße 13, Verlängerung der Grundstücksgrenze bis zur Kesselsdorfstraße, Kesselsdorfstraße, Kolonnenstraße, Naumannstraße, Torgauer Straße, Cherusker Park und Wannseebahngraben im Bezirk Tempelhof-Schöneberg, OT Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: "Radspuren frei!" Aktionstag in Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Halteverbot in der Hauptstraße zur Geltungszeit der Busspur durchsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Prioritäten im "Plätzeprogramm" - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Beschlussfassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gebündeltes Wirtschaftsmanagement in Tempelhof-Schöneberg - überwiesen
+- TOP 13.2: Zielplanung zum bezirklichen Einsatz von EU - Strukturfondsmitteln bis 2013 - überwiesen
+- TOP 13.3: Warenhaus- und Einzelhandelsstandorte erhalten - Arbeitsplätze retten - überwiesen
+- TOP 13.4: Stärkung der gewerblichen Struktur am Werdauer Weg (Schöneberg) - überwiesen
+- TOP 13.5: Bezirkliche Tourismusstrategie intensivieren - überwiesen
+- TOP 13.6: Effektives Leerstandsmanagement am Tempelhofer Damm - überwiesen
+- TOP 13.7: Touristisches Wege-Leitsystem in Tempelhof-Schöneberg ausweiten - überwiesen
+- TOP 13.8: Informationsbereitstellung im epub-Format - überwiesen
+- TOP 13.9: Bezirkliche Wirtschaftskompetenz nutzen - überwiesen
+- TOP 13.10: Neue Funktionen für das Internetportal www.berlin.de - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.11: Einsatz von Quick-Response-Codes in Tempelhof-Schöneberg prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: „Platz der Luftbrücke“ beleben - überwiesen
+- TOP 13.13: Ehemaliges Straßenbahndepot Belziger Straße - überwiesen
+- TOP 13.14: Migrantische Wirtschaft bei der Startphase unterstützen - überwiesen
+- TOP 13.15: Sicherheitsaktiviertes W - Lan im BVV Saal und Sitzungsräumen - überwiesen
+- TOP 13.16: Registerstelle in Tempelhof-Schöneberg einrichten - überwiesen
+- TOP 13.17: Dabeisein für Alle - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.18: Ferienwohnungen im Bezirk, wie geht es weiter? - überwiesen
+- TOP 13.19: Informationsangebot zu Bolzplätzen im Bezirk und zur Nutzung von Sportstätten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.20: Sammeln von Pfandflaschen neben Abfallbehälter - überwiesen
+- TOP 13.21: Berlin Ticket S für 24,- Euro - überwiesen
+- TOP 13.22: Straßenbäume im Bezirk - überwiesen
+- TOP 13.23: Durchgang Carl-Steffeck-Straße durch Beleuchtungsanlage sicher machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.24: Multifunktionsbad Mariendorf: Chancen für einen Neubau ergreifen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.25: Dresdner Bahn nur im Tunnel! - vertagt
+- TOP 13.26: Bezirks - Senioren - Plan aufstellen - überwiesen
+- TOP 13.27: Müllbehälter zwischen Leuthener Platz und Hildegard-Knef-Platz aufstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.28: Spendenboxen für Straßenbäume - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.29: Das Rathaus Schöneberg erstrahlen lassen - überwiesen
+- TOP 13.30: Tempo 30 in der Weskammstraße während des Schulbetriebes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.31: Beschluss des "Integrierten Handlungs- und Entwicklungskonzepts 2015" des Team Quartiersmanagement Schöneberger Norden - überwiesen
+- TOP 13.32: Klares Bekenntnis zur Tunnellösung für die Dresdner Bahn - 16.000 Bürgerinnen und Bürger müssen ernst genommen werden! - vertagt
+- TOP 13.33: Abwägungsergebnis aus der erneuten öffentlichen Auslegung gem. § 3 Abs. 2 des Baugesetzbuchs (BauGB) und der Behördenbeteiligung gem. § 4 Abs. 2 BauGB zum Entwurf des Bebauungsplanes 7-29 vom 16. April 2009, mit Deckblättern vom 12. Juni 2009, vom 16. September 2010 und vom 18. März 2013 für die Grundstücke Torgauer Str. 12-15, Tempelhofer Weg 64 und Teilflächen der Torgauer Str., des Tempelhofer Weges und der Grundstücke Torgauer Str., 16-21, Tempelhofer Weg 5-9, 63, 65-68 und Sachsendamm 87-88 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Termin der nächsten Sitzung - überwiesen
