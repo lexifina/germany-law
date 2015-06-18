@@ -1,0 +1,8 @@
+# TOP 4: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen -Haushaltsjahr 2015- ÖPNV-Anbindung des Gewerbegebietes Avantis
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses (2015-06-18)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=69433
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=18984&bi=23935
