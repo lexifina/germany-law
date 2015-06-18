@@ -1,0 +1,105 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-06-18T18:08:00+02:00
+- Ende: 2015-06-18T21:01:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1222
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1222
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Resolution zu Top 2.2.1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062518.pdf
+- Ergebnisprotokoll: Resolution zu Top 2.2.1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062518.pdf
+- Wortprotokoll: Resolution zu Top 2.2.1 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00062518.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: CDU, Antrag Nr. 152/15 - einstimmig
+- TOP 2.1.2: CDU, Antrag Nr. 153/15 - einstimmig
+- TOP 2.1.3: CDU, Antrag Nr. 154/15 - einstimmig
+- TOP 2.1.4: CDU, Antrag Nr. 155/15 - einstimmig
+- TOP 2.1.5: CDU, Antrag Nr. 156/15 - einstimmig
+- TOP 2.1.6: SPD, Antrag Nr. 146/15 - einstimmig
+- TOP 2.1.7: SPD, Antrag Nr. 147/15 - einstimmig
+- TOP 2.1.8: SPD, Antrag Nr. 148/15 - einstimmig
+- TOP 2.2: SPD
+- TOP 2.2.1: SPD, Antrag Nr. 105/15 - einstimmig
+- TOP 2.3: UWG
+- TOP 2.4: FDP
+- TOP 2.4.1: FDP, Antrag Nr. 133/15 - einstimmig
+- TOP 2.4.2: FDP, Antrag Nr. 137/15 - mehrheitlich bei
+- TOP 2.4.3: FDP, Antrag Nr. 142/2015 - Kenntnisnahme
+- TOP 2.4.4: FDP, Antrag Nr. 143/2015 - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.6: ABG
+- TOP 2.6.1: AGB, Antrag Nr. 134/15 - einstimmig
+- TOP 2.7: Mein Grevenbroich
+- TOP 2.8: Die Linke/Piraten
+- TOP 2.8.1: Die Linke/Piraten, Antrag Nr. 141/15 - Kenntnisnahme
+- TOP 2.8.2: Die Linke/Piraten, Antrag Nr. 141/15 - einstimmig
+- TOP 2.9: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: SPD
+- TOP 3.1.1: SPD, Anfrage Nr. 149/15 - Kenntnisnahme
+- TOP 3.2: UWG
+- TOP 3.2.1: UWG, Anfrage Nr. 120/15 - Kenntnisnahme
+- TOP 3.3: FDP
+- TOP 3.3.1: FDP, Anfrage Nr. 150/15 - Kenntnisnahme
+- TOP 3.4: B 90/DIE GRÜNEN
+- TOP 3.5: ABG
+- TOP 3.6: CDU
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.7.1: Mein GV, Anfrage Nr. 157/15 - Kenntnisnahme
+- TOP 3.8: Die Linke/Piraten
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Geschäftsanteile Bauverein - einstimmig
+- TOP 7: JA 2013 - einstimmig
+- TOP 8: Beteiligungsbericht - Kenntnisnahme
+- TOP 9: Bekanntgabe ÜPL/APL 2014 - Kenntnisnahme
+- TOP 10: Bekanntmachung ÜPL/APL 2015 - Kenntnisnahme
+- TOP 11: Einführung KLR - Kenntnisnahme
+- TOP 12: Bestellung zum Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - mehrheitlich bei
+- TOP 12.1: Gemeinschaftsantrag Top 12, Bestellung Leiter freiw. Feuerwehr - mehrheitlich bei
+- TOP 13: Bestellung zum stellvertretenden Leiter der Freiwilligen Feuerwehr der Stadt Grevenbroich - einstimmig
+- TOP 14: RPA 11.05.2015
+- TOP 14.1: Feststellung des Jahresabschlusses 2012 und abschließende Beschlussfassung über das Ergebnis der Prü - einstimmig
+- TOP 15: HFD-A 28.05.2015
+- TOP 15.1.1: SPD, Antrag Nr. 145/15 - mehrheitlich bei
+- TOP 15.2: Fortschreibung Brandschutzbedarfsplan - mehrheitlich bei
+- TOP 16: Entscheidung PlanungsA
+- TOP 16.1: 20. Änd. FNP "Bogensportanlage Frimmersdorf" - Aufst. + Öffentlichkeitsbet. - einstimmig
+- TOP 16.2: städtebaul.Vertrag 3.Änd. G 173 - einstimmig
+- TOP 16.3: 3. Änd.G 173- Satzungsbeschl. - einstimmig
+- TOP 16.4: DEP Frimmersdorf - Abschlussbericht - einstimmig
+- TOP 16.5: CDU, Antrag Nr. 98/15 - Kenntnisnahme
+- TOP 17: JHA 10.06.2015
+- TOP 17.1: Satzung des Jugendamtes - einstimmig
+- TOP 18: SchulA 17.06.2015
+- TOP 18.1: Sicherung von Schullaufbahnen - einstimmig
+- TOP 19: Beantwortung Anträge
+- TOP 19.1: mein GV, Antrag Nr. 25/2015 - Kenntnisnahme
+- TOP 20: Beantwortung Anfragen
+- TOP 20.1: UWG, Anfrage Nr. 84/15 - Kenntnisnahme
+- TOP 20.2: SPD, Anfrage Nr. 108/15 - Kenntnisnahme
+- TOP 20.3: Mein GV, Anfrage Nr. 113/15 - Kenntnisnahme
+- TOP 20.4: Mein GV, Anfrage Nr. 116/15 - Kenntnisnahme
+- TOP 20.5: Mein GV, Anfrage Nr. 119/15 - Kenntnisnahme
+- TOP 20.6: UWG, Anfrage Nr. 59/15 - Kenntnisnahme
+- TOP 20.7: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 20.8: Relaunch des städt. Internetangebotes - Kenntnisnahme
+- TOP 20.9: Beantwortung von 2 mündlichen Anfragen - Kenntnisnahme
+- TOP 21: mündliche Anträge/Anfragen
+- TOP 21.1: Rh Rinkert, Antrag 89/2013
+- TOP 21.2: Rh Rinkert, Anfrage 167/15
+- TOP 21.3: Rf Schäfer, Anfrage Nr. 168/15
+- TOP 21.4: Rh Windler, Antrag Nr. 169/15
+- TOP 21.5: Rh Schumacher, Anfrage Nr. 170/15
+- TOP 22: Mitteilungen BM'in
+- TOP 22.1: Mitteilungen der Bürgermeisterin
+- TOP 22.2: Terminankündigung
+- TOP 22.3: Störung der städt. Telefonanlage
