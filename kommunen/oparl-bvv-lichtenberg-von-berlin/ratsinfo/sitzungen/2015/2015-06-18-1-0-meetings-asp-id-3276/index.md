@@ -1,0 +1,81 @@
+# 45. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-06-18T17:00:00+02:00
+- Ende: 2015-06-18T21:11:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3276
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3276
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=120399
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Familienfest Bunte Platte - vertagt
+- TOP 5.2: Resolution für die Schaffung von neuen Schulen und Schulplätzen im Bezirk Lichtenberg - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 6.1: Einwohnerantrag: "Wir wollen im Hubertusbad schwimmen" - überwiesen
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Fahrstreifenbegrenzung in der Konrad-Wolf-Straße - beantwortet
+- TOP 8.2: Lichtenberger Sonnenblumenlabyrinth - beantwortet
+- TOP 8.3: Ambrosia Ausbreitung - beantwortet
+- TOP 8.4: Aushebelung von Bürgerbegehren durch den Senat - schriftlich beantwortet
+- TOP 8.5: Beflaggung der Regenbogenfahne vor dem Rathaus - beantwortet
+- TOP 8.6: Unterstützung von Flüchtlingen bei der Wohnungssuche - beantwortet
+- TOP 8.7: Notfallversorgung für Lichtenbergerinnen und Lichtenberger - beantwortet
+- TOP 8.8: Brunnen im Mühlengrund - beantwortet
+- TOP 8.9: Bauarbeiten Frankfurter Allee/Buchberger Straße/Atzpodienstraße ein Rückschritt im Bereich der Inklusion? - beantwortet
+- TOP 9: Einwohnerfragestunde - erledigt
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen
+- TOP 10.1: Sanierungsplan für die Sanitäranlagen in den Schul- und Sporthallen im Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Alternden oder mobilitätseingeschränkten Menschen den Verbleib im bewährten Wohnumfeld nachhaltig ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Informationen über Sportangebote für Menschen mit Behinderungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Fußweg am S-Bahnhof Hohenschönhausen beleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Quick Response Cobble - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Straßenmarkierung soll Sicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Kulturelle Angebote für Flüchtlinge ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Haltestelle nach Frankfurter Allee/Stefan-Heym-Platz benennen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Einbau einer öffentlichen Toilette im Bereich des nordöstlichen Vorplatzes am S- und Regionalbahnhof Ostkreuz - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Einbau einer öffentlichen Toilette im Bereich des Bahnhofsvorplatzes Lichtenberg in der Weitlingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Finanzierung von Projekten der Jugendberufshilfe - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Mies van der Rohe-Haus als Partner vor Ort etablieren - überwiesen
+- TOP 10.13: Pflegesachleistungsverfahren verbessern und Verwaltungsaufwand reduzieren - überwiesen
+- TOP 10.14: Nutzhanf als Entlastung des Grünflächenamtes - überwiesen
+- TOP 10.15: Freifunk für bezirkseigene Immobilien - überwiesen
+- TOP 10.16: Unterstützung der Kampagne "Handel(n) verbindet" - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Tempo 30 vor der Kita in der Ehrlichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Anerkennungskultur für Ehrenamtliche in Kiezbeiräten stärken - überwiesen
+- TOP 10.19: Gebäudebewohnenden geschützten Vogel- und Fledermausarten in Lichtenberg helfen und diese schützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: ÖPNV-Entlastung im Nordosten schaffen - überwiesen
+- TOP 10.21: Bessere Information auf den Bezirksamtsseiten über selbstständige und sichere Mobilität von Kindern im Stadtraum - überwiesen
+- TOP 10.22: Vorbild Österreich: Gegen diskriminierende, frauenfeindliche und sexistische Außenwerbung! Verbindliche Regel für bezirkseigene Werbeflächen - überwiesen
+- TOP 10.23: Holztreppe am Spielplatz Paul-Junius-Straße 52-54 reparieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.25: Integriertes kommunales Klimaschutzkonzept - eine Zwischenbilanz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.26: Weitere Orte in die Gedenkveranstaltungen am 27. Januar einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Information an die BVV bei Aufgabenverlagerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.28: Größere Müllbehälter für Ober- und Orankesee - Sauberkeit forcieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: Beteiligung am Wettbewerb Zukunftsstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Nutzungskonzept für Dienstgebäude der Lichtenberger Verwaltung erarbeiten - überwiesen
+- TOP 10.31: Änderung des Schulnamens: "Manfred-von-Ardenne-Schule (Gymnasium)" in "Manfred-von-Ardenne-Gymnasium", Werneuchener Straße 27, 13055 Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.32: Vorhabenbezogener Bebauungsplan 11-65 VE - Festsetzung und Erklärung der Planreife Arbeitstitel: Buchberger Straße 5 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.33: Gewährung von Sachmitteln für freiwilliges Engagement in Nachbarschaften im Jahr 2015 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - gegenstandslos
+- TOP 11.1: Memorandum zur Zukunft der 12 vom Land Berlin geförderten Pflegestützpunkte ab 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Finanzierung Jugendarbeit - überwiesen
+- TOP 12.2: Sicherung der Kleingartenanlagen in Lichtenberg - überwiesen
+- TOP 12.3: Lichtenberger Netzwerk für Alleinerziehende schaffen - überwiesen
+- TOP 12.4: Das Sportanlagensanierungsprogramm aufstocken - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Big Jump Challenge im Rummelsburger See am Europäischen Flussbadetag - in der BVV abgelehnt
+- TOP 12.6: Lichtenberger Ampeln als Signal für Vielfalt und Toleranz - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - gegenstandslos
+- TOP 14: Schließung der Sitzung - erledigt
