@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-06-18T17:00:00+02:00
+- Ende: 2015-06-18T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQrdJB19rUckDXToesU4QuI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4470
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVFQkc-LTKuOSVPLraFaOCnclIET6gqLLn4S70pkYNG0/Oeffentliche_Niederschrift_Rat_18.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Vorschlag für die En-bloc-Abstimmung
+- TOP 2: Umbesetzung von Ausschüssen und Gremien
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Delegiertenversammlung 2015 der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE)
+- TOP 5: Bestätigung der Rechtsauffassung zur und Praxis der Nachverschickung in Solingen durch eine klarstellende Präzisierung der Geschäftsordnung
+- TOP 6: Erstattung von Elternbeiträgen während des Streiks in den Kindertagesstätten
+- TOP 7: Erstattung von Elternbeiträgen während des Streiks in den Kindertagesstätten
+- TOP 8: Erstattung von Elternbeiträgen
+- TOP 9: Streik im Sozial- und Erziehungsdienst
+- TOP 10: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Teilnahme am Mittagessen in Kindertageseinrichtungen der Stadt Solingen
+- TOP 11: Satzung für die Übergangsheime der Stadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 12: Satzung für die Übergangsheime der Stadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 13: Satzung für die Übergangsheime der Stadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 14: Aufnahme und Versorgung von Flüchtlingen
+- TOP 15: Rettungsdienstbedarfsplan
+- TOP 16: Kooperation im Bereich Beschaffungswesen
+- TOP 17: Förderung des Rad- und Wander-Tourismus
+- TOP 18: VII. Änderungssatzung über die Erhebung der Vergnügungssteuer der Stadt Solingen (Vergnügungssteuersatzung)
+- TOP 19: Aufhebung der Rechtsverordnung über die Bildung von Schulbezirken für die Gesamtschulen der Stadt Solingen vom 24.08.1982
+- TOP 20: Aufhebung der Rechtsverordnung über die Bildung von Schulbezirken für die berufsbildenden Schulen der Stadt Solingen vom 01.12.1980
+- TOP 21: Aufhebung der Rechtsverordnung über die Bildung von Schulbezirken für die Sonderschulen der Stadt Solingen vom 01.12.1980
+- TOP 22: Außerplanmäßige Ausgaben im Kommunalen Jobcenter - SD 59
+- TOP 23: Jahresabschluss 2014 der Technischen Betriebe Solingen
+- TOP 24: Jahresabschluss 2014 der Technischen Betriebe Solingen
+- TOP 25: Bauleitplanung Friedenstraße/ Höhscheider Straße
+- TOP 26: Bauleitplanung Wittenbergstraße/ Nippesstraße
+- TOP 27: Bauleitplanung Stöcken/ Peter-Rasspe-Straße
+- TOP 28: Bieterverfahren Rasspe-Gelände
+- TOP 29: Bauleitplanung Richterweg
+- TOP 30: Optimierung des Solinger Wanderwegenetzes
+- TOP 31: Schäden in der Decke des Konzertsaales
+- TOP 32: Sozialarbeit im Flüchtlingsbereich
+- TOP 33: Polizeieinsatz in der Asylbewerberunterkunft Focher Straße
+- TOP 34: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 35: Homepage der Stadt Solingen
+- TOP 36: Ältestenrat/Informationsfreiheitsgesetz NRW
+- TOP 37: Naturdenkmale
+- TOP 38: Bürgergärten in Solingen
+- TOP 39: Aufwertung der Sozial- und Erziehungsberufe in der Verwaltung
+- TOP 40: Kooperation im Bereich Beschaffungswesen
+- TOP 41: Auswirkungen der Aufhebung der kommunalen Sperrklausel auf das politische Entscheidungssystem in NRW
+- TOP 42: Entsendung von Mitgliedern des Zuwanderer- und Integrationsrat - beratend - in andere politische Gremien
+- TOP 43: Dienstanweisung Finanzgeschäfte
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Erklärung nach § 41 Absatz 1 in Verbindung mit § 87 Absatz 2 GO NRW für die Kita Nordstadt
+- TOP 2: Vorberatung eines Gesellschafterbeschlusses der Stadtwerke Solingen GmbH (SWS)
+- TOP 3: Bauleitplanung Richterweg
+- TOP 4: Gehälter von Geschäftsführern städtischer Unternehmen, Eigenbetrieben und Sparkassen-Vorständen auf den Prüfstand stellen
+- TOP 5: Satzung für die Übergangsheime der Stadt Solingen für Flüchtlinge und Spätaussiedler/innen
