@@ -1,0 +1,58 @@
+# Stadtentwicklungsausschuss (4. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2015-06-18T18:30:00+02:00
+- Ende: 2015-06-18T21:10:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfVsUAWzU-hvdIY34pvalNs
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/18569
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQnSvCgThsFrwzyaCjCpQxHt2avuqNoAUGcwuVTHUmUr/Bekanntmachung_Stadtentwicklungsausschuss_18.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU7odMGq3bIuAFj1_BaiAQ0P48dJcn8ImAh928NGxNyY/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_18.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 03.03.2015 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.1: Einwendungen gegen die Niederschrift des Stadtentwicklungsausschusses vom 03.03.2015 sowie Zusendung der Verträge zur Übertragung der Parkplätze hier: Antrag der SPD-Fraktion vom 25.04.2015 - Beschluss
+- TOP -: Einwendungen gegen die Niederschrift des Stadtentwicklungsausschusses vom 03.03.2015 sowie Zusendung der Verträge zur Übertragung der Parkplätze hier: Antrag der SPD-Fraktion vom 25.04.2015 - Einstimmiger Beschluss: 
+- TOP 3.: Verkehrsplanung Nördliche Vorstadt hier: Vorstellung der Planung zur Kreuzuung Bendenweg/Josef-Jonas-Str./Kölner Straße - Einstimmiger Beschluss:
+- TOP 4.: 5. Änderung des Bebauungsplanes Nr. 5a "Gewerbegebiet Bad Münstereifel-Kernstadt" im beschleunigten Verfahren gem. § 13 a BauGB ohne Durchführung einer Umweltprüfung hier: Entwurfsbeschluss - Einstimmiger Beschluss: 
+- TOP 5.: Kindergartenbedarfsplanung in der Kernstadt Bad Münstereifel; hier: Anfrage des Kreises Euskirchen vom 10.04.2015 - Empfehlungsbeschluss bei 4 Gegenstimmen: 
+- TOP 6.: Unterbringung ausländischer Flüchtlinge - Einstimmiger Beschluss:
+- TOP 7.: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel (Sondernutzungssatzung) - Umsetzung HSK-Maßnahme Nr. M 022; hier: Erlass der 11. Änderungssatzung - Empfehlungsbeschluss bei 2 Gegenstimmen und 1 Enthaltung: 
+- TOP 8.: Anbindung an den Frühzug durch zusätzliche TaxiBus-Fahrten; hier: Antrag der SPD-Fraktion vom 26.09.2014 - Einstimmiger Empfehlungsbeschluss: 
+- TOP 9.: Verkehrsberuhigungsmaßnahme Hardtberg; hier: Sperrung der Hardtburgstraße für Schwerlastverkehr; Antrag der CDU-Fraktion vom 05.03.2015 - Einstimmiger Beschluss: 
+- TOP 10.: Ergänzungsantrag zum Neubaugebiet Hardtberg - Leitplanken zur Gestaltung des Erschließungsvertrages hier: Antrag der CDU-Fraktion vom 11.03.2015 - Einstimmiger Beschluss:
+- TOP 11.: Verein für Deutsche Schäferhunde e.V., Ortsgruppe Mutscheid; Lösungsfindung für den Erhalt der Übungsfläche hier: Antrag der CDU-Fraktion vom 17.03.2015 - Einstimmiger Beschluss: 
+- TOP -: Verein für Deutsche Schäferhunde e.V., Ortsgruppe Mutscheid; Lösungsfindung für den Erhalt der Übungsfläche hier: Antrag der CDU-Fraktion vom 17.03.2015 - Beschluss
+- TOP 12.: Verkehrssituation auf der L 165 Nöthener Straße; hier: Antrag der CDU-Fraktion vom 26.02.2015 - Einstimmiger Beschluss:
+- TOP 13.: Fuß- und Radweg zwischen Arloff und Kalkar hier: Antrag der SPD-Fraktion vom 23.04.2015 - Einstimmiger Beschluss:
+- TOP 14.: Konzept zur Minderung von Verkehrslärm, im Speziellen von Motorrädern; hier: Antrag der SPD-Fraktion vom 25.03.2014 - Einstimmiger Beschluss:
+- TOP -: Konzept zur Minderung von Verkehrslärm, im Speziellen von Motorrädern; hier: Antrag der SPD-Fraktion vom 25.03.2014; hier: Stellungnahme des Ministeriums für Bauen, Wohnen, Stadtentwicklung und Verkehr - Beschluss
+- TOP 15.: 26. Änderung des Flächennutzungsplanes für den Bereich "Parkplatz Friedwald'" hier: Vorverfahren gem. § 3 Abs. 1 BauGB und § 4 Abs. 1 BauGB - Einstimmiger Beschluss:
+- TOP 16.: 6. Änderung des Bebauungsplanes Nr. 10 "Bad Münstereifel, Kurhausgebiet" im beschleunigten Verfahren gem. § 13a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse, Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss: 
+- TOP 17.: 1. Änderung der Satzung der Stadt Bad Münstereifel über die Einbeziehung einzelner Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Reckerscheid im Bereich "An der Haag" hier. Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 18.: Stadtmauer Bad Münstereifel- hier: Bewerbungen der Stadt Bad Münstereifel am Bundesprogramm "Nationale Projekte des Städtebaus" -Genehmigung der Dringlichkeit- - Beschluss bei 2 Gegenstimmen und 2 Enthaltungen: 
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: Anfragen und Mitteilungen: Verkehrsberuhigung Arloff "In der Fließ"/Kirspenich "Im Floting"; hier: Antrag der SPD-Fraktion vom 18.02.2013
+- TOP 20.2: Anfragen und Mitteilungen: Verkehrsberuhigung der Ortsdurchfahrt Esch; hier: Anfrage der UWV-Fraktion vom 03.05.2015
+- TOP 20.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.4: Einrichtung der City Outlet-Information im Gebäude Orchheimer Straße 4
+- TOP 20.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.6: Anfragen und Mitteilungen: Bürgerantrag gem. § 24 Gemeindeordnung NRW (GO NRW) hier: Brücke über die Erft in Bad Münstereifel im Bereich ALDI/St.-Angela-Gymnasium - Abschließende Prüfung zur Einrichtung eines zusätzlichen Fußgängerüberweges
+- TOP 20.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Grundstückstausch von Flächen in Bad Münstereifel-Arloff - Beschluss
+- TOP 2.: Bahnhofsumfeld - ZOB- II.BA mit Umbau des Bahnsteigs, Schienenstrangverkürzung, Angleichung der Flächen, etc. hier: Auftragsvergabe der Kostenüberprüfung und der Planungsleistungen - Beschluss bei 1 Enthaltung: 
+- TOP 3.: Bebauungsplan Nr. 5 a "Gewerbegebiet Bad Münstereifel - Kernstadt", 5. Änderung hier: Auftragsvergaben - Genehmigung der Dringlichkeit - - Einstimmiger Beschluss:
+- TOP 4.: Verein für Deutsche Schäferhunde e.V., Ortsgruppe Mutscheid, Hundeübungsplatz Odesheim hier: Anfrage der UWV-Fraktion vom 03.05.2015 - Beschluss
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Tagesordnungspunkt (betrifft Privatpersonen)
