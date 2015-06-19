@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-19T16:00:00+02:00
+- Ende: 2015-06-19T19:10:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10124
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10124
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242830.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242830.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242830.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Pfitznerstraße 3 - Neubau eines Wohnhausese mit zwei oberirdischen Garagen und einer Tiefgarage. - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Wiederaufbau der denkmalgeschützten Parkanlage Schlosspark Benrath - zur Kenntnis genommen
+- TOP 7: Schulbaumaßnahmen im Stadtbezirk 9 - mündlicher Bericht - zur Kenntnis genommen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2015 - zur Kenntnis genommen
+- TOP 9: Anfrage: Lagerung von Substanzen auf dem Eckgrundstück Am Trippelsberg 71/Reisholzer Werftstraße - zur Kenntnis genommen
+- TOP 10: Anfrage: Bäderkonzept Benrath
+- TOP 11: Anfrage: Nationales Hochwasserschutzkonzept - zur Kenntnis genommen
+- TOP 12: Anfrage: Algenwachstum Benrather Schlossweiher und Schlossgräben - zur Kenntnis genommen
+- TOP 13: Anfrage: Barrierefreie Kinderspielplätze im Stadtbezirk 09 - zur Kenntnis genommen
+- TOP 14: Anfrage: Armutsgefährdung von Kindern, Jugendlichen und jungen Erwachsenen im Stadtbezirk 09 - zur Kenntnis genommen
+- TOP 15: Anfrage: Geschwindigkeitsbegrenzung auf A59
+- TOP 16: Anfrage: Lärmbelastung A59
+- TOP 17: Anfrage: Lärmschutz durch Geschwindigkeitsbegrenzungen / Großversuch der NRW-Landesregierung
+- TOP 18: Anfrage: Sachstandsbericht DM-Markt Kölner Landstraße 193-195 - zur Kenntnis genommen
+- TOP 19: Anfrage: Sachstand Straßenordnung, Nutzung von Spielplätzen
+- TOP 20: Anfrage: Tennenspielfeld SG Benrath-Hassels
+- TOP 21: Anfrage: Brachfläche Paulsmühle - zur Kenntnis genommen
+- TOP 22: Antrag: Schulzentrum Koblenzer Straße - zur Kenntnis genommen
+- TOP 23: Antrag: Verkehrskonzept für die Spielstraße Angerstraße und Tiroler Weg - zur Kenntnis genommen
+- TOP 24: Antrag: Erweiterung von Forstflächen - zur Kenntnis genommen
+- TOP 25: Antrag: Prioritätenliste Mischverkehrsflächen - zur Kenntnis genommen
+- TOP 26: Antrag: Verlängerung Ampelphase Fußgängerampel Urdenbacher Dorfstraße - zur Kenntnis genommen
+- TOP 27: Antrag: Tiefgarage des Mehrgenerationen-Wohnprojektes Hospitalstr./ Benrodestr. in Benrath - zur Kenntnis genommen
+- TOP 28: Antrag: Einrichtung einer Fahrbahnmarkierung im Bereich "Im Besental 50-60" - zur Kenntnis genommen
+- TOP 29: Antrag: Schiffshaltepunkt in Benrath - zur Kenntnis genommen
+- TOP 30: Antrag: Einrichtung unechte Einbahnstraße Rotdornweg - zur Kenntnis genommen
+- TOP 31: Antrag: Lärmsituation A59 - zur Kenntnis genommen
+- TOP 32: Antrag: Zweiter Zugang Spielplatz Corelli-/Franz-Liszt-Str. - zur Kenntnis genommen
+- TOP 33: Antrag: Schimmelpfennig- / Einsiedelstr. - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel LVR-Karl-Tietenberg-Schule, "Vogelnestschaukel" - zur Kenntnis genommen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Gutachterverfahren Langenfelder Straße - zur Kenntnis genommen
+- TOP 37: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath; Sommerfest 2015 - zur Kenntnis genommen
+- TOP 38: Antrag: Ausbau Bushaltestellen Ickerswarder Straße - zur Kenntnis genommen
+- TOP 39: Antrag: Änderung des Antrags TOP 25 - zur Kenntnis genommen
+- TOP 40: Albrecht-Dürer-Berufskolleg - Mündlicher Bericht - zur Kenntnis genommen
