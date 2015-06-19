@@ -1,0 +1,56 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2015-06-19T16:00:00+02:00
+- Ende: 2015-06-19T19:45:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZX84H9gVts7Hv5_GqluIsuU
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3175
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWM8FVrNyFPdnm25-4ibLyGJOd7qji8IKyB1hJvBiSh1/Einladung_Rat_19.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQzLCJyAPGhmvBDuODdIrBJJ0qz9U5F0QV46k3GhFR3T/Oeffentliche_Niederschrift_Rat_19.06.2015.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 24.04.2015
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.29: Antrag der SPD vom 03.06.15: “Errichtung einer Zentralen Unterbringungseinrichtung des Landes NRW für Asylbewerber in Herford“ - (kein Text vorhanden)
+- TOP A.25: Antrag der Fraktion Bündnis90/ DIE GRÜNEN vom 02.06.15: Hanse-Aktivitäten der Stadt Herford - (kein Text vorhanden)
+- TOP A.24: Arbeitnehmer/-innenmitbestimmung in fakultativen Aufsichtsräten
+- TOP A.24a: Antrag der Fraktion SPD vom 19.05.15: Arbeitnehmer/-innenmitbestimmung in fakultativen Aufsichtsräten - (kein Text vorhanden)
+- TOP A.24b: Antrag der Fraktion Bündnis90/ DIE GRÜNEN vom 03.06.15: Arbeitnehmermitbestimmung in Aufsichtsräten städtischer Unternehmen - (kein Text vorhanden)
+- TOP A.5: Genehmigung einer Dringlichkeitsentscheidung zur Stellung des Zuschussantrages „Sanierung der Markthalle“ - (kein Text vorhanden)
+- TOP A.6: Aktueller Sachstand zum Asylkonzept
+- TOP A.7: Neuorganisation der Stabsbereiche - (kein Text vorhanden)
+- TOP A.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.8a: Beteiligungscontrolling zum Stichtag 31. März 2015 - (kein Text vorhanden)
+- TOP A.8b: HVV GmbH: a) Jahresabschluss 2014 (Einzelabschluss) b) Konzernabschluss 2014 - (kein Text vorhanden)
+- TOP A.8c: WWS GmbH: Jahresabschluss 2014 - (kein Text vorhanden)
+- TOP A.8d: AOV GbR und AOV IT.Services GmbH: Änderung der Gesellschaftsverträge - (kein Text vorhanden)
+- TOP A.8e: Compliance Richtlinien - (kein Text vorhanden)
+- TOP A.8e: Compliance Richtlinien - (kein Text vorhanden)
+- TOP A.8f: Spenden und Sponsoring - (kein Text vorhanden)
+- TOP A.8g: WWE Westfalen Weser Energie GmbH & Co. KG: Abgabe verbindlicher Kooperationsangebote mit Beteiligungsoption im Rahmen von Konzessionsverfahren - (kein Text vorhanden)
+- TOP A.9: 1. Situationsbericht zur Haushaltswirtschaft 2015 - (kein Text vorhanden)
+- TOP A.10: Künftige räumliche Unterbringung der City-Wache - (kein Text vorhanden)
+- TOP A.11: Handlungskonzept Wohnen Herford 2030 Teil 1: Darstellung der Ziele- und Maßnahmenempfehlungen Teil 2: Entwicklung einer neuen Wohnbaulandstrategie Herford 2030 - (kein Text vorhanden)
+- TOP A.12: Zentren- und Nahversorgungskonzept Beschluss der Fortschreibung - (kein Text vorhanden)
+- TOP A.13: Themenfeld Kindertagesbetreuung: Erstattung Elternbeiträge aufgrund des Streiks in städtischen Kindertageseinrichtungen - (kein Text vorhanden)
+- TOP A.14: Frühe Hilfen: Projekt „Baby-Hotel Bärenbude“ - (kein Text vorhanden)
+- TOP A.15: Erneuerung/Umgestaltung der "Bäckerstraße" hier: Satzung über den Ausbau und die Abrechnung nach § 8 KAG (Kommunalabgabengesetz) - (kein Text vorhanden)
+- TOP A.16: Vereinbarung mit dem Kreis Herford über die Übernahme der Aufgabe der Erteilung von Ausnahmegenehmigungen nach § 46Abs.1 Ziff. 5 und 7 StVO - (kein Text vorhanden)
+- TOP A.17: Änderung der Satzung über die Erhebung von Elternbeiträgen zur Finanzierung außerunterrichtlicher Angebote im Rahmen der offenen Ganztagsgrundschule entsprechend des Haushaltsbeschlusses für das Jahr 2015 aus der Ratssitzung vom 24.04.2015 - (kein Text vorhanden)
+- TOP A.18: Kooperationsvereinbarung "Offene Ganztagsgrundschule" - (kein Text vorhanden)
+- TOP A.19: Neubenennung der Werrepromenade hinter dem Friedrichsgymnasium mit Antrag vom 26.01.2015 - (kein Text vorhanden)
+- TOP A.20: Gebührenhaushalt Straßenreinigung hier: 4. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Hansestadt Herford - (kein Text vorhanden)
+- TOP A.21: Abrechnung von Straßenbaumaßnahmen nach dem Baugesetzbuch (BauGB) und nach dem Kommunalabgabengesetz (KAG) hier: 7. Satzung zur Änderung der Erschließungsbeitragssatzung und 8. Satzung zur Änderung der Straßenbaubeitragssatzung der Stadt Herford - (kein Text vorhanden)
+- TOP A.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.23: Antrag Fraktion DIE LINKE vom 27.05.15 zur Unterstützung der ver.di-Aufwertungskampagne MitarbeiterInnen in Sozial- und Erziehungsberufen - (kein Text vorhanden)
+- TOP A.28: Antrag der SPD vom 03.06.15 zu den KITA-Tarifverhandlungen - (kein Text vorhanden)
+- TOP A.26: Antrag der Fraktion Bündnis90/ DIE GRÜNEN vom 03.06.15: Diskriminierende Einlasspraktiken von Herforder Diskotheken - (kein Text vorhanden)
+- TOP A.27: Antrag der SPD vom 03.06.15: Resolution Integration von Flüchtlingen: Eine gesamtstaatliche Aufgabe – Keine Überforderung der Kommunen - (kein Text vorhanden)
