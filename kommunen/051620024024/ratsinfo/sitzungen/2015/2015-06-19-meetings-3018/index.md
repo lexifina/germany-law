@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2015-06-19T16:05:00+02:00
+- Ende: 2015-06-19T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3018
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3018
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Beschlusscontrolling
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 6: Carl-Schurz-Straße, Einrichtung einer Querungsstelle und eines Parkstreifens - mehrheitlich zugestimmt
+- TOP 7: Ausbau Bergheimer Straße zwischen Friedrich-Ebert-Platz und Kantstraße - mehrheitlich zugestimmt
+- TOP 8: BP V 348/1 - Furth-Mitte, FurtherStraße / Venloer Sraße (Lebensmittelmarkt) - verwiesen
+- TOP 9: Neugestaltung Freithof West - Entwurf - mehrheitlich zugestimmt
+- TOP 10: BP 390/1 - Stadionviertel, Konrad-Adenauer-Ring (Internationale Schule / KUE) - mehrheitlich zugestimmt
+- TOP 11: Mittelalterliche Stadtmauer - einstimmig zugestimmt
+- TOP 12: Bebauungsplan Nr. 200/1 - Erfttal, Bezirkssportanlage (KUE) - - mehrheitlich zugestimmt
+- TOP 13: Meertal, Einrichtung einer Querungsstelle - einstimmig zugestimmt
+- TOP 14: Römerstraße - Straßenwiederherstellung im Zuge des Kanalbaus - einstimmig zugestimmt
+- TOP 15: Preußenstraße - Straßenwiederherstellung im Zuge der Kanalsanierung - einstimmig zugestimmt
+- TOP 16: Sanierung Östlicher Innenstadtrand - Herstellung Stadtmauerweg - einstimmig zugestimmt
+- TOP 17: Straßenbegleitgrün Kruppstraße zwischen Kreisverkehr Ruhrstraße und Autobahn A 57 - einstimmig zugestimmt
+- TOP 18: BPL 445 - Allerheiligen, Schule, Kinder- und Jugendzentrum: Bau Gehweg parallel zur Bustrasse - einstimmig zugestimmt
+- TOP 19: Antrag der SPD-Fraktion: Städtepartnerschaft mit der belgischen Stadt Leuven - einstimmig zugestimmt
+- TOP 20: Teilnahme der Stadt Neuss am Modelversuch "EEA-Plus- Klimaanpassung - einstimmig zugestimmt
+- TOP 21: Straßenbegleitgrün Bataverstraße -Umbau Kreuzung Gladbacher Straße bis Lebensmittelmarkt, inkl. Krei - einstimmig zugestimmt
+- TOP 22: Entsendung Mitglied in UA Kinder - abgesetzt
+- TOP 23: Benutzungsordnung für Schulhöfe der Stadt Neuss vom 12.11.1997 - einstimmig zugestimmt
+- TOP 24: Umbesetzung des Jugendhilfeausschusses - einstimmig zugestimmt
+- TOP 25: Bedarfsplan Kinderbetreuung im Kindergartenjahr 2015/2016 und Ausbauplanung 2015ff. - einstimmig zugestimmt
+- TOP 26: Beschluss über das Einzelhandels- und Zentrenkonzept - abgesetzt
+- TOP 27: Bebauungsplan Nr 462/1 - Hammfeld, Stresemannallee (Zentrale Unterbringungseinrichtung NRW) - - einstimmig zugestimmt
+- TOP 28: Dienstreisegenehmigung für Kilb - einstimmig zugestimmt
+- TOP 29: Dienstreisegenehmigung - einstimmig zugestimmt
+- TOP 30: Wahl eines Beigeordneten - mehrheitlich zugestimmt
+- TOP 31: Bestellung eines neuen Betriebsleiters für das Tiefbaumanagement Neuss - einstimmig zugestimmt
+- TOP 32: Antrag der Fraktionen SPD und FDP betr.: Transparenz bei der Annahme und Vergabe von Spenden - mehrheitlich zugestimmt
+- TOP 33: Antrag der SPD-Fraktion: Städtebaulicher Wettbewerb zur Umgestaltung des Wendersplatz - zur Kenntnis genommen
+- TOP 34: Antrag der SPD-Fraktion: Abriss der Münsterschule und Bebauung des Münsterschulareals - zur Kenntnis genommen
+- TOP 35: Antrag der AfD-Fraktion betr.: Auflistung Kosten - mehrheitlich abgelehnt
+- TOP 36: Antrag der SPD-Fraktion betr.: Gemeinsam gegen Korruption und Misswirtschaft - vertagt
+- TOP 37: Antrag der SPD-Fraktion betr.: Neuss hat mehr als ein Zentrum - Jetzt sind die Stadtteile dran! - mehrheitlich abgelehnt
+- TOP 38: Antrag der SPD-Fraktion betr.: Alphabetisierungskurse/Zertifizierungskurse bei der VHS - verwiesen
+- TOP 39: Antrag der SPD-Fraktion betr.: Eltern entlasten – keine Beitragserhebung während des Kita-Streiks - mehrheitlich abgelehnt
+- TOP 40: Antrag der Fraktionen DIE LINKE betr.: Erstattung von Kita-Beiträgen für Streiktage - zur Kenntnis genommen
+- TOP 41: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Zukunftskommission Digitale Agenda - mehrheitlich zugestimmt
+- TOP 42: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Bürgeranliegen bei der Errichtung von Flüchtlings - mehrheitlich zugestimmt
+- TOP 43: Antrag der Fraktionen DIE LINKE betr.: Fortführung des Projekts „Wir kümmern uns in der Nordstadt“ - verwiesen
+- TOP 44: Antrag der Fraktionen DIE LINKE betr.: Optimierung des Verfahrens bei künftigen Dezernentenwahlen - einstimmig zugestimmt
+- TOP 45: Anfrage von Herrn Stadtverordneten Ott betr.: Fortschreibung des Brandschutzbedarfsplans der Stad - zur Kenntnis genommen
+- TOP 46: Anfrage von Herrn Stadtverordneten Hildebrandt betr.: Baufehler Am Linckhof in Allerheiligen - zur Kenntnis genommen
+- TOP 46.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Mündlicher Bericht zum Schiedsgutachten Neusser Bauverein ./. Stadt Neuss - zur Kenntnis genommen
+- TOP 48: Dezernatsverteilungsplan - zur Kenntnis genommen
+- TOP 49: Einwohnerfragestunde - zur Kenntnis genommen
