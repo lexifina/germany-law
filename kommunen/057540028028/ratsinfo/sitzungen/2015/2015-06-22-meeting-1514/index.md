@@ -1,0 +1,58 @@
+# Rat der Stadt Rheda-Wiedenbrück (7. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2015-06-22T17:00:00+02:00
+- Ende: 2015-06-22T19:50:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZQ0sRhOeC3xkASXtb8-TPs
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1514
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZce9vlACqFVEFOqK8sYwLGHoRrbcIcuOQEVYMkhw_-Tx/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_22.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa9AnC-4ZhVc5P26Kg1xtZgvgIW7CgqnFnGksT09SMO7/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_22.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 3.1: Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege - 21 Ja-Stimme(n), 14 Nein-Stimme(n)
+- TOP 4: Besetzung des Aufsichtsrates der Stadtwerk Rheda-Wiedenbrück GmbH Co. KG : Benennung von Stellvertreter/innen - Einstimmig
+- TOP 5: Umbesetzung im Bau-, Stadtentwicklung-, Umwelt- und Verkehrsausschuss - Einstimmig
+- TOP 6: Antrag der FDP-Ratsfraktion vom 21.03.2015 auf Einrichtung eines Ausschusses für Wirtschaftsförderung - 33 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 7: Neubau einer Stadthalle: Antrag der FDP-Fraktion auf Durchführung eines Ratsbürgerentscheides - Kenntnisnahme
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: 4. Änderung der Geschäftsordnung für den Rat und die Ausschüsse - Verlängerung der Ladungsfristen - Einstimmig
+- TOP 10: Straßenreinigung: 3. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig
+- TOP 11: Elternbeitragssatzung für die Offene Ganztagsschule im Primarbereich - Absetzung
+- TOP 12: Änderung der technischen Entwässerungssatzung der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 13: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen Genehmigung einer Dringlichkeitsentscheidung - Einstimmig
+- TOP 14: Einrichtung Gemeinsamen Lernens am Grundschulverbund Andreas-Wenneber - Einstimmig
+- TOP 15: Jahresabschluss zum 31.12.2013; Feststellung und Entlastung des Bürgermeisters - Einstimmig
+- TOP 16: Jahresabschluss 2014: Übertragung von Ermächtigungen nach § 22 GemHVO NRW - Kenntnisnahme
+- TOP 17: Überörtliche Prüfung von Staatszuweisungen durch die Gemeindeprüfungsanstalt - Einstimmig
+- TOP 18: Haushaltsplanung 2016 und Haushalt der Zukunft: Eckwertebeschlüsse - Einstimmig
+- TOP 19: Stiftung Ausstellungs- und Begegnungsstätte Wiedenbrücker Schule - Wirtschaftsplan 2015 - Einstimmig
+- TOP 20: Umlegungsverfahren - Einstimmig
+- TOP 21: 65. Änderung des Flächennutzungsplanes (Woermannstraße) a)Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und der Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs.2 Baugesetzbuch (BauGB) b) Feststell - Einstimmig
+- TOP 22: Bebauungsplan Nr. 372 B „Woermannstraße, Teilplan-Ost“a) Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und der Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs.2 Baugesetzbuch (BauGB) b) Satzungsbe - Einstimmig
+- TOP 23: Aufstellung des vorhabenbezogenen Bebauungsplans VEP Nr. 7 „Fritz-Burmann-Straße“ im beschleunigten Verfahren nach § 13 a BauGB a) Beschluss über die Behandlung der Stellungnahmen aus den frühzeitigen Beteiligungsschritten nach § 3 (1) und § 4 (1) BauGB b) Beschluss über die Behandlung der Stellungnahmen aus der Offenlage nach § 3 (2) und § 4 (2) BauGB c) Satzungsbeschluss - Einstimmig
+- TOP 24: Bebauungsplanes Nr. 297.3 „Emssee“, 3. Änderung Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes - 34 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 25: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 26: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 27: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 28: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 29: Erklärung von Ausschließungsgründen
+- TOP 30: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31.1: Genehmigung einer Dringlichkeitsentscheidung: Annahme einer Erbschaft - Einstimmig
+- TOP 32: Auftragsvergabe - Einstimmig
+- TOP 33: Stadtwerk Rheda-Wiedenbrück GmbH & Co. KG: Ergänzung des Gesellschaftervertrages - Einstimmig
+- TOP 34: Durchführungsvertrag zum vorhabenbezogenen Bebauungsplan VEP Nr. 7 "Fritz-Burmann-Straße" - Einstimmig
+- TOP 35: Stundung und Niederschlagung städtischer Forderungen - Einstimmig
+- TOP 36: Aktueller Stand der städtischen Geldanlagen - Einstimmig
+- TOP 37: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 38: Dringende Anfragen und Anregungen
