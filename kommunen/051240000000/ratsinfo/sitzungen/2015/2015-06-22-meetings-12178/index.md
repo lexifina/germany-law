@@ -1,0 +1,92 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-06-22T16:04:00+02:00
+- Ende: 2015-06-22T18:53:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12178
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12178
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung (1) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00182179.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00182730.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung einer stellvertretenden Schriftführerin für den Rat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Umzugspläne Bereitschaftspolizei - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Umzugspläne der Bereitschaftspolizei - abschließend zur Kenntnis genommen
+- TOP 2.2: Personalsituation im Geschäftsbereich 1, Stadtentwicklung, Bauen, Verkehr, Umwelt - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Personalsituation im GB 1 - Antwort der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.3: Personalsituation im Einwohnermeldeamt - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 08.06.2015 – Personalsituation im Einwohnermeldeamt - abschließend zur Kenntnis genommen
+- TOP 2.4: Benchmarking Personalausstattung anderer Städte - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 08.06.2015 – Benchmarking Personalausstattung anderer Städte - abschließend zur Kenntnis genommen
+- TOP 2.5: Unbesetzte Stellen - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 10.06.2015 - Unbesetzte Stellen - abschließend zur Kenntnis genommen
+- TOP 2.6: Gewerbesteuer runter macht Wuppertal munter? - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Gewerbesteuer - Antwort der Verwaltung zur Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 11.06.2015 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Kastrations- und Kennzeichnungspflicht für freilaufende Katzen
+- TOP 3.2: Bürgerantrag zur Radverkehrsführung Baustelle Brücke Brändströmstraße
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Beitritt zum kommunalen Bündnis gegen Asyl-Missbrauch - abgelehnt
+- TOP 4.2: Antrag: Gemeinsames Gedenken von Stadt und DITIB an den Genozid an den christlichen Minderheiten des Osmanischen Reiches - abgelehnt
+- TOP 4.3: Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter - zur Vorberatung verwiesen
+- TOP 4.4: Vorlage des Maßnahmenkataloges „Bürgerbüros offenhalten“ - ungeändert beschlossen
+- TOP 4.5: Resolution Streik der Beschäftigten in den Sozial- und Erziehungsdiensten - abgelehnt
+- TOP 4.6: ÖPNV-Anbindung IKEA - zur Vorberatung verwiesen
+- TOP 4.7: Erweiterung der Grundstücksflächenprüfung für mögliche Kindertagesstätten (KiTas) im Bereich Wichlinghausen, Heckinghausen und Oberbarmen - ungeändert beschlossen
+- TOP 4.8: Dringlichkeitsantrag der Fraktionen von CDU und SPD gemäß § 48 Abs. 1 Satz 5 Gemeindeordnung zur Verbesserung der Situation am Döppersberg - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Öffentliches WLAN in Wuppertal fördern - Freifunk-Standorte auf städtischen Gebäuden einrichten
+- TOP 5.2: Antrag – Fahrradboxen fürs Tal
+- TOP 6: Ortsrecht
+- TOP 6.1: Zweite Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich - ungeändert beschlossen
+- TOP 6.2: Satzungsänderungen Harmonisierung Trinkwassergebühren und Schmutzwassergebühren - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Gewährung einer Ausgleichszahlung für vereinnahmte Elternbeiträge im aktuellen Streikverfahren - ungeändert beschlossen
+- TOP 7.1.1: Abgesetzt. Die Drucksache wurde von der Antrag stellenden Fraktion zurückhezogen. Erstattung der Elternbeiträge und Verpflegungskosten wegen des Streiks in den städtischen Kindertageseinrichtungen - zurückgezogen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2014 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2014 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.3: Liquidation der VGW Verkehrsgesellschaft Wuppertal GmbH - ungeändert beschlossen
+- TOP 8.4: Bestellung und Abberufung der/des Betriebsleiters/-leiterin des Eigenbetriebs Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 8.5: Verschmelzung der Hotel AG mit der GWG Gemeinnützige Wohnungsbaugesellschaft Wuppertal mbH - ungeändert beschlossen
+- TOP 8.6: Bestellung der Mitglieder für den Aufsichtsrat der Hotel AG - ungeändert beschlossen
+- TOP 8.7: Gründung einer GmbH in Zusammenhang mit der Übernahme des Betriebes der Hebammenschule der St. Anna-Klinik - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: 90. Änderung des Flächennutzungsplan (Einrichtungshaus / Dreigrenzen) - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1202 - Einrichtungshaus / Dreigrenzen - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1208 - Berliner Straße / Rauer Werth - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1205 - Märkische Straße / Hatzfelder Straße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan 1207 - Westring - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1206 - Carnaper Straße / Hatzfelder Straße - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1213 - Hohenstaufenstraße - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße - - ungeändert beschlossen
+- TOP 9.9: Bebauungsplan 1030 - Am Cleefkothen / Carl-Schurz-Straße - - ungeändert beschlossen
+- TOP 9.10: Bebauungsplan 1081, 2. Änderung - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 9.11: Bebauungsplan 1081, 3. Änderung - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 9.12: Durchführungsplan 145 - Bereich Schubertstraße / Lortzingstraße / Forestastraße - - ungeändert beschlossen
+- TOP 9.13: Bebauungsplan 1181 - Sportplatz Lortzingstraße - - ungeändert beschlossen
+- TOP 9.14: Vorhabenbezogener Bebauungsplan 1194 -südlich Lüttringhauser Straße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau eines Geheges im Wildgatterstil für Milus (Davidshirsche) - ungeändert beschlossen
+- TOP 10.2: Standortverlegung des Notarzteinsatzfahrzeuges 2 mit Erweiterung der Rettungswache Barmen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2016/Katalogentwurf 2017 - ungeändert beschlossen
+- TOP 11.2: Einzelhandels- und Zentrenkonzept - ungeändert beschlossen
+- TOP 11.3: Qualitätsoffensive Innenstadt: Entwicklungskonzept City Elberfeld - ungeändert beschlossen
+- TOP 11.4: Umbenennung der Nordtribüne des Stadions am Zoo in Horst-Szymaniak-Tribüne - abgesetzt
+- TOP 11.5: Einrichtung einer 5. OGS-Gruppe an der offenen Ganztagsgrundschule Thorner Str. zum 01.08.2015 - ungeändert beschlossen
+- TOP 11.6: Schaffung des Kompetenz- und Bildungszentrums "Fuhlrott-Campus" - ungeändert beschlossen
+- TOP 11.7: Ausbau der Betreuungsplätze für Kinder in Tageseinrichtungen - ungeändert beschlossen
+- TOP 11.8: Umsetzung einer EU-konformen Direktvergabe im ÖPNV - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.3: Neuwahlen zu Gremien des Wupperverbandes - geändert beschlossen
+- TOP 12.4: Gremienbesetzung / Benennung - ungeändert beschlossen
