@@ -1,0 +1,68 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-06-22T18:00:00+02:00
+- Ende: 2015-06-22T20:25:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQjQm0vOpnLwc_1j40wzVZs
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6256
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdSNr7AMDRD7debfueD_1V5RrEibct59D7rKPAvceDh1/Bekanntmachung_Rat_22.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaP0rLtQYkwm2UvSVi_9abzzFKcxw0NuFHdxWTE9OZjF/Oeffentliche_Niederschrift_Rat_22.06.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 27.04.2015
+- TOP 3.: Gründung einer Anstalt öffentlichen Rechts (AöR)
+- TOP 3.1: Gründung einer Anstalt öffentlichen Rechts (AöR) - (kein Text vorhanden)
+- TOP 3.2: AöR hier: Antrag der Fraktionen CDU und Grüne vom 27.04.2015, eingegangen per Mail am 22.06.2015
+- TOP 4.: Bebauungsplan 06.16 'Alte Bonnstraße / Steingasse', 1. Änderung - Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 5.: Vertretung des Bürgermeisters gemäß § 68 GO NRW - (kein Text vorhanden)
+- TOP 6.: Überplanmäßige Ausgabe für niedrigschwellige Betreuungsangebote für Kinder der Altersgruppe vor Schuleintritt aus Flüchtlingsfamilien und vergleichbaren Lebenslagen - (kein Text vorhanden)
+- TOP 7.: Überplanmäßige Auszahlung für U3-Mittel aus dem 3. Investitionsprogramm "Kinderbetreuungsfinanzierung 2015-2018" für das Kinder-und Familienzentrm Vochem - (kein Text vorhanden)
+- TOP 8.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 8.1: Dachsanierung Max-Ernst-Gymnasium hier: überplanmäßige Ausgabe - (kein Text vorhanden)
+- TOP 8.2: Überplanmäßige Mittelbereitstellung hier: Sanierung VHS - (kein Text vorhanden)
+- TOP 9.: Neues Friedhofskonzept - (kein Text vorhanden)
+- TOP 10.: Satzungen
+- TOP 10.1: Änderungen der Friedhofs- und Bestattungssatzung der Stadt Brühl und der Gebührensatzung für das Friedhofs- und Bestattungswesen der Stadt Brühl - (kein Text vorhanden)
+- TOP 10.2: 5. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS – „Jedem Kind Instrument, Tanzen, Singen (JeKits)“; Bezug: Rat 27.04.2015; SchA 12.05.2015 - (kein Text vorhanden)
+- TOP 11.: Stellenplan 2015 - Änderung - (kein Text vorhanden)
+- TOP 12.: brühlermarkt 2016 - (kein Text vorhanden)
+- TOP 13.: Unterzeichnung der ‚Charta der Vielfalt‘ - (kein Text vorhanden)
+- TOP 14.: Entwurf des Jahresabschlusses 2014 - (kein Text vorhanden)
+- TOP 15.: Gesellschafterversammlung Gebausie - Jahresabschluss 2014 - (kein Text vorhanden)
+- TOP 16.: Neubenennungen für die Ausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (Deutsch-Französischer Ausschuss, Deutsch-Polnischer Ausschuss und Ausschuss für kommunale Entwicklungszusammenarbeit) hier: Anfrage des RGRE vom 10.04.2015 - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Barrierefreiheit am DB-Bahnhof am Schloss hier: Antrag der Fraktionen CDU und GRÜNE vom 15.5.2015
+- TOP 17.2.1: Bahnhof Brühl hier: Barrierefreiheit DB-Bahnhof am Schloss Antrag der CDU und Bündnis 90 / Die Grünen vom 15.05.2015 - (kein Text vorhanden)
+- TOP 17.3: Visualisierung des Haushaltes der Stadt Brühl hier: Antrag der Fraktion Linke&Piraten vom 12.05.2015 - (kein Text vorhanden)
+- TOP 17.4: Einführung eines anonymisierten Bewerbungsverfahrens hier: Antrag der Fraktion Linke&Piraten vom 12.05.2015 - (kein Text vorhanden)
+- TOP 17.5: Störfälle in der chemischen Industrie in Wesseling und Godorf hier: Antrag der FDP-Fraktion vom 13.05.2015 - (kein Text vorhanden)
+- TOP 17.6: Neugestaltung des Internet Auftritts der Stadt Brühl und Brühl App hier: Antrag der FDP-Fraktion vom 14.05.2015
+- TOP 17.6.1: Neugestaltung des Internet Auftritts der Stadt Brühl und Brühl App hier: Antrag der FDP-Fraktion vom 14.05.2015 - (kein Text vorhanden)
+- TOP 17.7: Schlesinger Kunstwerk in der Unterführung Brühl Mitte hier: Antrag der FDP-Fraktion vom 14.05.2015
+- TOP 17.8: Anbringung von Geländern bzw. Handläufen in der neu gestalteten Unterführung Carl-Schurz-Straße/Balthasar-Neumann-Platz hier: Antrag der SPD-Fraktion vom 08.06.2015
+- TOP 18.: Freihandelsabkommen TTIP, CETA, und TiSA hier: Anregungen und Beschwerden gem. § 24 Gemeindeordnung vom Brühler Bürgerbündnis gegen Freihandelsabkommen vom 05.06.2015 - (kein Text vorhanden)
+- TOP 19.: Umbesetzung in Ausschüssen
+- TOP 19.1: Umbesetzungen im Schulausschuss hier: Vertreter der Schulen - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 20.1: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahre 2014 hier: Schreiben der KSK vom 19.5.2015 - (kein Text vorhanden)
+- TOP 20.2: Baumaßnahme K1/K7
+- TOP 21.: Anfragen
+- TOP B): Nichtöffentliche Sitzung
+- TOP 22.: Besetzung der Schulleiterstelle an der GGS Astrid-Lindgren - (kein Text vorhanden)
+- TOP 23.: Besetzung der Schulleitung an der Gesamtschule Brühl - (kein Text vorhanden)
+- TOP 24.: Gestattungsvertrag zur Errichtung und zum Betrieb von Windenergieanlagen - (kein Text vorhanden)
+- TOP 25.: Wegenutzungsvertrag nach § 46 Abs. 1 EnWG Strom - Vertragsfortsetzung- - (kein Text vorhanden)
+- TOP 26.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk I (südlicher Stadtbezirk) - (kein Text vorhanden)
+- TOP 27.: Beförderung einer/eines Mitarbeiterin/Mitarbeiters - (kein Text vorhanden)
+- TOP 27.1: Erläuterungen zur Vorlage 245/2015 - (kein Text vorhanden)
+- TOP 28.: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 29.: Mitteilungen
+- TOP 30.: Anfragen
