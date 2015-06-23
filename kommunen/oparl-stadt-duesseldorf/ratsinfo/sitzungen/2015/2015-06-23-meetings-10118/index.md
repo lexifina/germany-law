@@ -1,0 +1,51 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-23T17:00:00+02:00
+- Ende: 2015-06-23T21:00:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10118
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10118
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243185.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243185.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243185.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Anerkennung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen/Einwohnern - zur Kenntnis genommen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 4.1: Vorstellung des neuen Polizeipräsidenten Norbert Wesseler und Tätigkeitsbericht der Polizei im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Vorstellung des Kinder- und Jugendförderplans 2015-2020 - zur Kenntnis genommen
+- TOP 4.4: Zusätzliche Versorgung des Stadtbezirkes 10 mit Pflegeheimplätzen - zur Kenntnis genommen
+- TOP 4.5: Trödelmärkte in Garath Zentrum Ost im 2. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 4.6: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmidt-Straße 2, im 2. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 4.7: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 5: Verfügungsmittel der Bezirksvertretung 10 - zur Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Sitzbänke - zur Kenntnis genommen
+- TOP 8: Nebenzentrum Garath S/W - zur Kenntnis genommen
+- TOP 9: Rahmenplan Einzelhandel2015 und Wohnungsmarkt - zur Kenntnis genommen
+- TOP 10: Kreuzungsbereich Koblenzer Straße - zur Kenntnis genommen
+- TOP 11: Ampelschaltung - zur Kenntnis genommen
+- TOP 12: "Bürgerwiese" Carl-Friedrich-Goerdeler-Straße - zur Kenntnis genommen
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Vorstellung des Bäderkonzeptes Mehrgenerationen-Gesundheitsbad Benrath - zur Kenntnis genommen
+- TOP 15: Wohnbebauung auf Freiflächen – Schonung bewaldeter Flächen - zur Kenntnis genommen
+- TOP 16: Schaffung von Parkmöglichkeiten im Wendehammer am Ende der Wilhelm-Schmidtbonn-Straße - zur Kenntnis genommen
+- TOP 17: Prüfantrag: Fördermittel für die vier Nebeneinkaufszentren Garaths - zur Kenntnis genommen
+- TOP 18: Prüfantrag: Wiederkehrende Frühjahrsbepflanzung in den Hochbeeten im Hauptzentrum Garath - zur Kenntnis genommen
+- TOP 19: Festlegung der Nebenzentren Garaths als Nahversorgungszentren im Rahmenplan Einzelhandel 2015 - zur Kenntnis genommen
+- TOP 20: Zebrastreifen auf der Carlo-Schmid Straße EKZ Hellerhof - zur Kenntnis genommen
+- TOP 21: Sachstandsbericht zum Verkauf der ehemalige Hoffnungskirche - zur Kenntnis genommen
+- TOP 22: Reinigung und Entfernung von Begleitvegetationen im HEKZ und Wiederherstellung der Blumenbeete, - zur Kenntnis genommen
+- TOP 23: Künftiger Betrieb und Neuplanung Hallen-/Freibad Benrath - zur Kenntnis genommen
+- TOP 24: Pflege der öffentlichen Grünflächen - zur Kenntnis genommen
+- TOP 25: Dauerhafte Bepflanzung am Ortseingang Düsseldorf-Hellerhof - zur Kenntnis genommen
+- TOP 26: Informationsvorlagen - zur Kenntnis genommen
+- TOP 26.1: Verschiedene Stellungnahmen - zur Kenntnis genommen
