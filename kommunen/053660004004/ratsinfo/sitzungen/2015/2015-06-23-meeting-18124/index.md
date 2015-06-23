@@ -1,0 +1,65 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2015-06-23T18:00:00+02:00
+- Ende: 2015-06-23T20:18:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYqm7KYau9HF5apTGjn5QVk
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/18124
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZoAP076tZOtA-fSejmiSs-g8GEzn9nmVB8WZu6QSQ_Y/Bekanntmachung_Rat_23.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTUNboQ62o47o05kpd9jyO35XMXodmEwkycFURa5VxlE/Oeffentliche_Niederschrift_Rat_23.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 24.03.2015 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Regelung der Nachfolge für eine ausgeschiedene Stadtverordnete - Beschluss
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Zukunft Hallenbad und Goldenes Tal hier: Antrag der FDP-Fraktion vom 05.05.2015 - Einstimmiger Beschluss:
+- TOP 9.: Kindergartenbedarfsplanung in der Kernstadt Bad Münstereifel; hier: Anfrage des Kreises Euskirchen vom 10.04.2015 - Beschluss
+- TOP -: Kindergartenbedarfsplanung in der Kernstadt Bad Münstereifel; hier: Anfrage des Kreises Euskirchen vom 10.04.2015 - Beschluss:
+- TOP 10.: Kommunaler Kinder- und Jugendförderplan; hier: Personalförderung des KICK und Jugendtreff Arloff durch den Kreis Euskirchen hier: SPD-Antrag vom 02.04.2015 - Einstimmiger Beschluss:
+- TOP 11.: Fortführung des Grundschulverbundes Höhengebiet - Beschluss mit 27 Ja- zu 3 Nein-Stimmen:
+- TOP 12.: Elektrifizierung der Erfttalbahn hier: SPD-Antrag vom 11.05.2015 - Einstimmiger Beschluss:
+- TOP 13.: Anbindung an den Frühzug durch zusätzliche TaxiBus-Fahrten; hier: Antrag der SPD-Fraktion vom 26.09.2014 - Einstimmiger Beschluss:
+- TOP 14.: 2. Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an einer offenen Ganztagsschule im Primarbereich der Stadt Bad Münstereifel - Einstimmiger Beschluss: 
+- TOP 15.: Erlebnisraum Römerstraße - Perspektive 2015 + - Beschluss
+- TOP -: Erlebnisraum Römerstraße - Perspektive 2015 + - Einstimmiger Beschluss:
+- TOP 16.: 6. Satzung zur Änderung der Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage - Entwässerungssatzung - der Stadt Bad Münstereifel vom 25.06.1997 - Einstimmiger Beschluss:
+- TOP 17.: 40. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Bad Münstereifel vom 28.07.1981 hier: Kalkulation der Einheitssätze für Kanalanschlusskosten - Beschluss mit 27 Ja- zu 2 Nein-Stimmen bei 1 Enthaltung:
+- TOP -: 40. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Bad Münstereifel vom 28.07.1981 hier: Kalkulation der Einheitssätze für Kanalanschlusskosten
+- TOP 18.: Endgültige Herstellung von Erschließungsanlagen - Abweichungssatzung - - Einstimmiger Beschluss:
+- TOP 19.: Stadtmauer Bad Münstereifel- hier: Bewerbungen der Stadt Bad Münstereifel am Bundesprogramm "Nationale Projekte des Städtebaus" -Genehmigung der Dringlichkeit- - Beschluss mit 23 Ja- zu 6 Nein-Stimmen bei 1 Enthaltung:
+- TOP 20.: 6. Änderung des Bebauungsplanes Nr. 10 "Bad Münstereifel, Kurhausgebiet" im beschleunigten Verfahren gem. § 13a BauGB ohne Durchführung einer Umweltprüfung hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss
+- TOP 21.: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen im Gebiet der Stadt Bad Münstereifel (Sondernutzungssatzung) - Umsetzung HSK-Maßnahme Nr. M 022; hier: Erlass der 11. Änderungssatzung - Beschluss: mit 4 Ja- zu 26 Nein-Stimmen wird der FDP-Antrag, die Sondernutzungsgebühren erst zum 01.01.2016 um 16 % zu erhöhen, abgelehnt.
+- TOP 22.: Übernahme der Straßenreinigung hier: FDP-Antrag vom 25.05.2015 - Beschluss
+- TOP -: Übernahme der Straßenreinigung hier: FDP-Antrag vom 25.05.2015 - Beschluss mit 4 Ja- zu 26 Nein-Stimmen abgelehnt:
+- TOP 23.: Kalkulation der Friedhofsgebühren auf der Grundlage der aktuellen Kosten- und Einnahmesituation sowie Darstellung von Möglichkeiten zur Kostendämpfung - Beschluss
+- TOP -: Kalkulation der Friedhofsgebühren auf der Grundlage der aktuellen Kosten- und Einnahmesituation sowie Darstellung von Möglichkeiten zur Kostendämpfung - Beschluss mit 29 Ja-Stimmen zu 1 Nein-Stimme:
+- TOP -: Kalkulation der Friedhofsgebühren auf der Grundlage der aktuellen Kosten- und Einnahmesituation sowie Darstellung von Möglichkeiten zur Kostendämpfung - Beschluss
+- TOP 24.: Gesamtabschluss 2011 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Gesamtabschlusses 2011 und Entlastung gem. 116 GO NRW i.V.m. § 96 GO NRW - Beschluss mit 21 Ja- zu 6 Nein-Stimmen bei 3 Enthaltungen:
+- TOP 25.: Gesamtabschluss 2012 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Gesamtabschlusses 2012 und Entlastung gem. § 116 GO NRW i.V.m. § 96 GO NRW - Beschluss mit 21 Ja- zu 6 Nein-Stimmen bei 3 Enthaltungen:
+- TOP 26.: Jahresabschluss 2014 hier: Zuleitung des Prüfberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses 2014 und Entlastung gem. § 96 Abs. 1 GO NRW - Beschluss mit 23 Ja-Stimmen bei 7 Enthaltungen:
+- TOP 27.: Haushalt 2015 hier: Bericht zum 31.03.2015 im Rahmen des Finanzcontrollings - Einstimmiger Beschluss:
+- TOP -: Haushalt 2015 hier: Bericht zum 31.03.2015 im Rahmen des Finanzcontrollings - Beschluss
+- TOP 28.: Anfragen und Mitteilungen
+- TOP 28.1: Anfragen und Mitteilungen: Verlegung der Postfiliale in Bad Münstereifel-Arloff zum 01.07.2015
+- TOP 28.2: Kreisstraßenausbau
+- TOP 28.3: Partnerschaftstreffen 2015 in Ashford
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Fortschreibung des Frauenförderplans für den Zeitraum 2015 bis 2017 und Bericht zur Umsetzung des Plans zur beruflichen Gleichstellung von Frauen und Männern (Frauenförderplan 2011 - 2014) - Einstimmiger Beschluss:
+- TOP 2.: Grundstückstausch von Flächen in Bad Münstereifel-Arloff - Beschluss
+- TOP -: Grundstückstausch von Flächen in Bad Münstereifel-Arloff - Beschluss mit 23 Ja- zu 7 Nein-Stimmen:
+- TOP 3.: Genehmigung einer überplanmäßigen Ausgabe für die Reinigung im eifelbad - Einstimmiger Beschluss: 
+- TOP 4.: Genehmigung überplanmäßiger Ausgaben für Reinigung - Einstimmiger Beschluss:
+- TOP 5.: Personalbericht und personalwirtschaftliche Auswirkungen - Einstimmiger Beschluss:
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Verein für Deutsche Schäferhunde e.V., Ortsgruppe Mutscheid Lösungsfindung für den Erhalt der Übungsfläche hier: Beschluss des Stadtentwicklungsausschusses vom 18.06.2015
+- TOP 6.2: Stellenausschreibungen
