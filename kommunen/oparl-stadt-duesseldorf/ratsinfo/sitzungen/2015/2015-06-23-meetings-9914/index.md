@@ -1,0 +1,65 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-23T16:00:00+02:00
+- Ende: 2015-06-23T19:55:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9914
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9914
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243005.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243005.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243005.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3.1: Durchführung einer Einwohnerfragestunde in der Sitzung am 22.09.2015 - einstimmig beschlossen
+- TOP 4: Vorstellung des Kinder- und Jugendförderplans - zur Kenntnis genommen
+- TOP 5: Bezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 6: B-Plan Vorentwurf 02-008 - Wohnhochhaus Mercedesstraße - - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Chamissostraße 8a und 8b - Neubau zweier Stadtvillen - einstimmig beschlossen
+- TOP 9: Flinger Broich 3 - Neubau einer Schützenhalle - mehrheitlich beschlossen
+- TOP 10: Abbruchantrag Mettmanner Straße 16 - einstimmig beschlossen
+- TOP 11: Wiederaufbau der Parkanlage Zoopark - einstimmig beschlossen
+- TOP 12: Integrationsprojekt "Jugend International" - zur Kenntnis genommen
+- TOP 13: Benennung der Planstraße 3418 in Frank-Zappa-Straße - mehrheitlich beschlossen
+- TOP 14: Bezirksbezogene Bauunterhaltungsmaßnahmen 2015 - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel 2015 - zur Kenntnis genommen
+- TOP 16: Zuwendung an den Förderverein Klangwelt e.V. - zur Kenntnis genommen
+- TOP 17: bezirksbezogene Haushaltsmittel – Sommernachtmusik - zur Kenntnis genommen
+- TOP 18: Bezirksbezogene Haushaltsmittel - Jugendkunstprojekt RapLab - zur Kenntnis genommen
+- TOP 19: Zuwendung an die Filmwerkstatt Düsseldorf für das Projekt RapLab - zur Kenntnis genommen
+- TOP 20: Bezirksbezogene Haushaltsmittel - Zuwendung GGS Flurstr. - zur Kenntnis genommen
+- TOP 21: Zuwendung an die GGS Flustraße für die Projekte „Mein Körper gehört mir 2015“ und „Die große Nein-To - zur Kenntnis genommen
+- TOP 22: Zuschuss zum Sommer-Nachbarschaftsfest von „Helle“ - zur Kenntnis genommen
+- TOP 23: Zuschuss zum Seniorennachmittag der Bürgerinitiative Flingern - zur Kenntnis genommen
+- TOP 24: Sicherung stillgelegter Bahnanlage für den Radverkehr - zur Kenntnis genommen
+- TOP 25: Fahrradweg vor Haus Birkenstraße 143 dauerhaft sichern - zur Kenntnis genommen
+- TOP 26: Zoopark - zurückgezogen
+- TOP 27: Fahrradständer Kühlwetterstraße - einstimmig beschlossen
+- TOP 28: Fahrradständer auf der Kühlwetterstraße - einstimmig beschlossen
+- TOP 29: Vorstellung der Erfahrungen nach dem Umbau der Birkenstraße - einstimmig beschlossen
+- TOP 30: Taxistandplätze Graf-Recke-Straße - einstimmig beschlossen
+- TOP 31: Antrag auf Überprüfung der Möglichkeit zur Aufstellung eines WC-Häuschens an - einstimmig beschlossen
+- TOP 32: Nutzungsvereinbarung zur Bahntrasse Düsseldorf-Grafenberg / Industriegebiet Lierenfeld - einstimmig beschlossen
+- TOP 33: Bericht zum preisgedämpften Wohnen im Living Circle (ehem. Thyssen-Trade-Center) - einstimmig beschlossen
+- TOP 34: Rückbau bzw. Umrüstung der Gaslaternen im Bezirk 2 - einstimmig beschlossen
+- TOP 35: Geschäftsordnung - zurückgezogen
+- TOP 36: Ausbau der Schulen im Stadtbezirk 2 - schriftlich beantwortet
+- TOP 37: Pflegeeinrichtung für ältere Menschen in Düsseltal - schriftlich beantwortet
+- TOP 38: Fernwärmenetz im Bezirk 2
+- TOP 39: Unfälle im Stadtbezirk 2 - schriftlich beantwortet
+- TOP 40: Bericht Emissionsdaten Kraftwerk Flingern - schriftlich beantwortet
+- TOP 41: Aufstellung von Fahrradständern im Stadtbezirk - zur Kenntnis genommen
+- TOP 42: Radverkehr Graf-Recke-Straße - zur Kenntnis genommen
+- TOP 43: Haltestellenbereich Grafenberger Allee / Uhlandstraße - zur Kenntnis genommen
+- TOP 44: Metrostraße/Neumannstraße - Radwegekennzeichnung - zur Kenntnis genommen
+- TOP 45: Anlage von Blühstreifen - zur Kenntnis genommen
+- TOP 46: Wildblumenwiese Altenbergstraße - zur Kenntnis genommen
+- TOP 47: Hochwasserschutzmaßnahme an der Nördlichen Düssel im Bereich der Altenbergstraße - Ausführungs- und - zur Kenntnis genommen
