@@ -1,0 +1,90 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-23T17:00:00+02:00
+- Ende: 2015-06-23T19:58:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10133
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10133
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242898.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242898.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00242898.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 24.03.2015 und 28.04.2015 - einstimmig beschlossen
+- TOP 3: Kinderspielplatz Gerricusstraße - einstimmig beschlossen
+- TOP 4: Haltestelle Burgmüllerstraße - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14.1: Jahrmarkt "Lebenslust Düsseldorf" auf der Galopprennbahn in der Zeit vom 18.09. bis 20.09.2015 - einstimmig beschlossen
+- TOP 15: Umbau und Neubau von Straßenlaternen - einstimmig beschlossen
+- TOP 16: Straßenbeleuchtung - einstimmig beschlossen
+- TOP 17: Ferienbetreuung Sommer 2016 - einstimmig beschlossen
+- TOP 18: Marketing für den Stadtbezirk 7 - einstimmig beschlossen
+- TOP 19: Gehwegerneuerung Ernst-Poensgen-Allee - einstimmig beschlossen
+- TOP 20: Mittelstand im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 21: Radschnellweg Knittkuhl - Ratinger Weg - mehrheitlich beschlossen
+- TOP 22: Rheinbahn-Busse am Rotthäuser Weg - mehrheitlich beschlossen
+- TOP 23: Naturschutzgebiet Düsselaue - mehrheitlich abgelehnt
+- TOP 24: Fahrradabstellanlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 25: Fahrradständer und -häuschen am Staufenplatz - einstimmig beschlossen
+- TOP 26: Ausbau KiTa Versorgung Blanckertzstr./Hülsmeyerstr. - einstimmig beschlossen
+- TOP 27: Lüftung der Gastronomie Fuchsjagd - mehrheitlich beschlossen
+- TOP 28: Bolzplatz/Bolzwiese im Quartier Blanckertzstr. - einstimmig beschlossen
+- TOP 29: Verkehrsentlastung Bergische Landstraße/ Ludenberger Straße - einstimmig beschlossen
+- TOP 30: Flachdachbegrünung - einstimmig beschlossen
+- TOP 31: Begrünte Dächer auf städtischem Eigentum - einstimmig beschlossen
+- TOP 32: Parkplätze Straße „Am Gartenkamp“ - einstimmig beschlossen
+- TOP 33: Trimmpfad Grafenberger Wald - einstimmig beschlossen
+- TOP 34: Weiterer Ausbau der Halleschen Straße - einstimmig beschlossen
+- TOP 35: Spielangebote für ältere Kinder im Diepenpark - einstimmig beschlossen
+- TOP 36: Wohnmobile Gräulinger Straße - mehrheitlich beschlossen
+- TOP 37: Fahrbahnerneuerung Am Poth - einstimmig beschlossen
+- TOP 38: U- Bahn - Anbindung Bergisches Viertel - mehrheitlich abgelehnt
+- TOP 39: Transparente Einsicht in Bearbeitungsstand von Beschlüssen - mehrheitlich abgelehnt
+- TOP 40: Sanierung BAB3 Bereich Hubbelrath - mehrheitlich abgelehnt
+- TOP 41: Verspätung S8 - vertagt
+- TOP 42: Breitbandausbau im Stadtbezirk 7 - vertagt
+- TOP 43: Ausgewogenes Wohnungsangebot „Am Quellenbusch“ - zur Kenntnis genommen
+- TOP 44: Lager 61/ B-Plan „Nach den Mauresköthen“, Nr. 5976/24 - zur Kenntnis genommen
+- TOP 45: Großbaustelle Heyestraße - zur Kenntnis genommen
+- TOP 46: Schäden durch Bauarbeiten Glashüttengelände - zur Kenntnis genommen
+- TOP 47: Künftige Nutzung Gut Buscherhof - vertagt
+- TOP 48: Taxiplätze Baustelle Benderstraße - zur Kenntnis genommen
+- TOP 49: Taxistand Benderstraße - zur Kenntnis genommen
+- TOP 50: Jugendfreizeiteinrichtung (JFE) Quellenbusch - zur Kenntnis genommen
+- TOP 51: Umbaumaßnahme Benderstraße - zur Kenntnis genommen
+- TOP 52: Piktogramme Stratenweg - zur Kenntnis genommen
+- TOP 53: Verkehrsstausituation im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 54: Durchgangsverkehr am Gerricusplatz eindämmen - zur Kenntnis genommen
+- TOP 55: Begrünung Mauer Dreherpark - zur Kenntnis genommen
+- TOP 56: Ampelanlage B7/Rotthäuser Weg - zur Kenntnis genommen
+- TOP 57: Pavillon am Staufenplatz - zur Kenntnis genommen
+- TOP 58: Fahrbahndecken-Erneuerung an der Sichelstraße - zur Kenntnis genommen
+- TOP 59: Obstbäume und Obststräucher für den Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 60: Optimierung Verkehrsbeziehung Düsseldorf-Ost/Landeshauptstadt - zur Kenntnis genommen
+- TOP 61: Blühwiesen für den Bezirk 7 - zur Kenntnis genommen
+- TOP 62: Planung der Baumaßnahmen im nördlichen Gerresheim - zur Kenntnis genommen
+- TOP 63: Mobile Ampelanlage Morper Straße, Im Brühl - zur Kenntnis genommen
+- TOP 64: Benderstraßenbaustelle aus der Sicht von mobilitätseingeschränkten Menschen - zur Kenntnis genommen
+- TOP 65: Sicherung des Schulwegs an der Baustelle Marie-Curie-Straße - zur Kenntnis genommen
+- TOP 66: Spielplätze Häuser Torfbruchstraße 85, 87 und Josef-Neuberger-Straße - zur Kenntnis genommen
+- TOP 67: Blindengerechte Ausstattung der Fußgängerampel Dreherstraße/Benderstraße - zur Kenntnis genommen
+- TOP 68: Handläufe an Treppen im öffentlichen Raum - zur Kenntnis genommen
+- TOP 69: Aufbringung einer wassergebundenen Wege-Decke - zur Kenntnis genommen
+- TOP 70: Graffiti-Jugendprojekt an der Mauer "Nach den Mauresköthen" - zur Kenntnis genommen
+- TOP 71: Pferdetränke Grafenberg - zur Kenntnis genommen
+- TOP 72: Jüdische Erinnerungsorte im Stadtteil Gerresheim - zur Kenntnis genommen
