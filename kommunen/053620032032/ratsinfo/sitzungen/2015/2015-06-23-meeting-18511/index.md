@@ -1,0 +1,54 @@
+# Stadtrat (8. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-06-23T17:03:00+02:00
+- Ende: 2015-06-23T19:31:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZSOoM4uu054CQxcyf7Z-H8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18511
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWKNUiObyTs16P3OpnkuwRSMKEiXyjD_mP_asCZu-PEX/Bekanntmachung_Stadtrat_23.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQM1lD2d1uBZfvNHNCPf9ikmAafVBrUt0kFl7axAMqm_/Oeffentliche_Niederschrift_Stadtrat_23.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Einwendungen gegen die Richtigkeit der Niederschrift über die Ratssitzung vom 12.05.2015; hier: Antrag der Linksfraktion
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: hier: Antrag des Stadtverordneten Wolfgang Scharping
+- TOP 3.2: Umbesetzung von Ausschüssen und Gremien; hier: Antrag der CDU-Fraktion
+- TOP 3.3: Umbesetzung des Jugendhilfeausschusses; hier: Antrag des Jugendamtselternbeirates
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Neufassung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass
+- TOP 4.2: Neufassung der Rechnungsprüfungsordnung der Kolpingstadt Kerpen
+- TOP 5.: Neufassung der Dienstanweisung für die örtliche Rechnungsprüfung der Kolpingstadt Kerpen
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Aufhebung des vorhabenbezogenen Bebauungsplanes HO 290 B "Waldweg", Stadtteil Horrem hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 6.2: Vorhabenbezogener Bebauungsplan HO 351 "Waldweg", Stadtteil Horrem hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 6.3: Bebauungsplan HO Nr. 351 "VEP Waldweg"; hier: Abschluss eines Durchführungsvertrages
+- TOP 6.4: 70. Änderung des Flächennutzungsplanes "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Stadtteil Sindorf hier: Wirksamkeitsbeschluss
+- TOP 6.5: Bebauungsplan SI 357 "Anlage für soziale Zwecke - Flüchtlingsunterkünfte an der Großen Erft", Staddteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.6: ZukunftsEnsemble Schloß Türnich; Städtebauliche Anbindung, Erschließung und Sicherung des Denkmalensembles Schloß Türnich
+- TOP 7.: Gründung von Stadtwerken Kerpen - (kein Text vorhanden)
+- TOP 8.: Lösungsmöglichkeiten für die u3 Versorgung im Planungsbereich Buir
+- TOP 9.: Streik in städtischen Kitas/ Rückerstattung Elternbeitrag
+- TOP 10.: Freihandelsabkommen (TTIP, CETA und TiSA)
+- TOP 11.: "Wirtschaftsstandort Kerpen sichern - Solidarität mit den Menschen im Rheinischen Revier"; hier: Antrag der SPD-Fraktion
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Gesamtabschlüsse auf den 31.12.2010, 31.12.2011 und 31.12.2012
+- TOP 17.: Bericht über die Prüfung des Jahresabschlusses einschließlich Lagebericht zum 31.12.2012
+- TOP 18.: Prüfung der Jahresabschlüsse 2014 und 2015
+- TOP 19.: Abschluss einer Bürgschaft
+- TOP 20.: Grunderwerb einer Straßenverkehrsfläche in Brüggen, Heerstraße
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
