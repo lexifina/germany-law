@@ -1,0 +1,130 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-06-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490784
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490784
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Antrag der UA KJS und PB vom 24.04.2015 Toilette am Gärtnerplatz, Standortvorschläge, Plenumsbeschluss
+- TOP .2.: Antrag des UA KJS Überquerungshilfe Kinder über die Thalkirchner Straße, Höhe Waltherstraße
+- TOP 1: (E) Nutzung der großen Turnhalle des MTV durch die Grundschule in der Tumblingerstr. und Einstufung des Ganztagsklassenprojekts "KISS" beim MTV als schulische Pflichtveranstaltung
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Künstler des Atelierhauses Baumstraße Offene Ateliers 2015 vom 26. - 28.06.2015
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Regsam e.V. Veranstaltung zur Planung des Viehhofgeländes am 19.07.2015
+- TOP 1.4.: (E) Budget der Bezirksausschüsse koop e.V. Veranstaltung ?Isarsprudel? im August 2015
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Münchner Diskussionsforum für Entwicklungsfragen e.V. Buchprojekt ?München NICHT wie geplant?, Herausgabe Ende Juli 2015
+- TOP 1.1.: Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.09.2015
+- TOP 1.2.: Schulbauoffensive 2013/2030, Aktionsprogramm Schul- und Kita-Bau, Fortführung des Pavillonbauprogrammes für in 2016 aufzustellenden Pavillonanlagen (vertagt aus 2015.05 A 3.3 N) ? Eilentscheidung (Frist 09.06.2015)
+- TOP 1.1.: Unterbringung von Flüchtlingen und Wohnungslosen, fortlaufende Themensammlung
+- TOP 1.2.: Bücherschrank, fortlaufende Themensammlung
+- TOP 1.3.: Kulturzentrum ?Südbahnhof 2/6?, fortlaufende Themensammlung
+- TOP 1.4.: Toilette am Gärtnerplatz (siehe TOP 1.1)
+- TOP 1.5.: Konzept AKIM Müllerstraße
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Arndtstr. 2, Neubau eines Mehrfamilienhauses mit Tiefgarage (vertagt aus 2015.05 B 3.1.14 N) - Eilentscheidung
+- TOP 1.2.: Adlzreiterstr. 21, Nutzungsänderung EG: Änderung einer Gaststätte und einer Gewerbeeinheit in eine Wohnung und einen Laden mit Cafe zum Verkauf von Backwaren; DG-Ausbau: Abbruch und Wiederaufbau des Dachstuhls + energetische Sanierung; Balkonanbau: Abbruch und Wiedererrichtung von Balkonen; RGB: Abbruch und Wiedererrichtung des hofseitigen Anbaus mit Nutzungsänderung Gewerbe zu Wohnen
+- TOP 1.3.: Klenzestraße 69, Ausbau des 2. Dachgeschosses, Plenumsbeschluss
+- TOP 1.4.: Schillerstraße 30, Nutzungsänderung: Laden zu Wettbüro, Plenumsbeschluss
+- TOP 1.5.: Karlsplatz 25, Abbruch Hotel Königshof und Zwischenbauwerk, Errichtung des Baugru- benverbaus, Plenumsbeschluss
+- TOP 1.6.: Baumstr. 19, Erhöhung des Dachstuhls, Umbau der Wohnungen und Errichtung von Balkonen, Plenumsbeschluss
+- TOP 1.7.: St.-Pauls-Platz 4, Anbau eines Außenaufzugs, Plenumsbeschluss
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Kapuzinerstraße, Baumfällungsantrag vom 02.06.2015, Ahorn
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Entwurf Beschlussvorlage Stadt und Fluss ? Rahmenplanung innerstädtischer Isarraum
+- TOP 1.1.: Viehhof-Gelände, fortlaufende Themensammlung
+- TOP 1.2.: Deutsches Museum: Ertüchtigung der Kaimauer - diverse Baumfällungen, Vorabinformation durch die Museumsleitung
+- TOP 1.3.: Ersatzpflanzung von Kastanien an der Ecke Fraunhoferstraße / Ecke Ehrengutstraße (vertagt aus 2015.05 B 5.4)
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: Häberlstr. 15, Restaurant Olé Madrid, Erweiterung einer bestehenden Freischankfläche
+- TOP 1.2.: Thalkirchner Str. 23, Gaststätte ?Pigalle?, Antrag auf Sperrzeitaufhebung
+- TOP 1.3.: Schwanthalerstr. 24, Pipasa GmbH, Erweiterung einer bestehenden Freischankfläche (vertagt aus 2015.05 C 2.1.3)
+- TOP 1.4.: Reichenbachstr. 16, Gaststätte ?Geschmacksspiel?, Genehmigung einer Freischankfläche
+- TOP 1.5.: Kapuzinerstr. 45, Speis-Girls, Genehmigung einer Freischankfläche
+- TOP 1.6.: Goethestr. 41, Tagescafé ?Galerie Conte?, Genehmigung einer Freischankfläche
+- TOP 1.7.: Landwehrstraße 32 b, Safinatou Al Sahara GmbH, Genehmigung einer Freischankfläche
+- TOP 1.8.: Landwehrstraße 72, Genehmigung einer Freischankfläche, Plenumsbeschluss
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Häberlstr. 23, Ski + Bike, Antrag auf Genehmigung einer Fahrradabstellfläche
+- TOP 1.2.: Klenzestr. 88, Kinder-Tagesstätte ?Fischstäbchen e. V.?, Antrag für einen mobilen Fahrradständer
+- TOP 1.3.: Rumfordstraße 48, mobiler Fahrradständer
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Maibaum-Glockenbachfest auf dem Karl-Heinrich-Ulrichs-Platz am 20.06.2015 ? Eilentscheidung (Termin: 12.06.2015)
+- TOP 1.2.: Theaterperformance ?Wir waren nie weg? am 23.-26.07.2015 auf der Theresienwiese
+- TOP 1.3.: Gärtnerplatzfest am 25./26.Juli 2015 auf dem Gärtnerplatz und in der Reichenbachstraße
+- TOP 1.4.: Straßenfest am 17.07.2015 in der Isartalstraße
+- TOP 1.5.: 40jähriges Jubiliäum Diözesanes neokatechumenales Zentrum e.V. in der Deutingerstraße am 12.07.2015
+- TOP 1.6.: Oktoberfest Wiesnzüge 2015 a) Wiesneinzug der Festwirte und Brauereien ab Josephspitalstraße am 19.09.2015 b) Oktoberfest Trachten- und Schützenzug ab Maximilianstraße am 20.09.2015
+- TOP 1.7.: Radlnacht 08.08.2015, Vorprüfung neu geplante Streckenführung
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: MVG Rad-Standort Theresienwiese/Bavariaring
+- TOP 1.1.: Genehmigungsverfahren Shabbyshabby Apartments ?Just an Illusion? auf dem Gelände des Deutschen Museums
+- TOP 1.2.: Genehmigungsverfahren Shabbyshabby Apartments Corneliusbastion
+- TOP 1.1.: Bürgeranliegen: Errichtung eines Pollers am Zebrastreifen Baaderstraße 13
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Kunsteisbahn am Gärtnerplatz zu 150 Jahre Gärtnerplatztheater Für und wieder wurde im UA lebhaft diskutiert, wobei bisher nur Absichten bekannt sind und kein Antrag vorliegt. Wichtig erscheint den UA-Mitgliedern, dass die Anwohner intensiv mit einbezogen und um ihre Meinung gefragt werden. Ein ?Geschenk? gegen die ?Beschenkten? scheint uns nicht sinnvoll. Wir warten den Antrag ab.
+- TOP 1.4.: Ladezonen für die Geschäfte und die Kita im neuen Rodenstockgelände Der UA stimmt den Ladezonen für die Geschäfte zu. ?Ladezonen? für die ?Anlieferung von Kindern? zur Kita lehnt der UA ab. Der UA schlägt vor, nachzufragen, ob genügend Flächen für ?die Anlieferung mit dem Rad? und entsprechende Abstellmöglichkeiten für Kinderräder, Anhänger etc. vorhanden sind.
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Bestellung eines Ferienausschusses für die Sitzung am 25.08.2015
+- TOP 1.2.: Sitzungstermine 2016
+- TOP 1.3.: Kollaborationsplattform, Plenumsbeschluss
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 13.07.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP 1.2.: Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 14.07.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München
+- TOP 1.3.: Die BA-Sitzung findet am Dienstag, den 28.07.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.4.: Unterausschuss ?Planen, Bauen? am Mittwoch, den 15.07.2015 um 18 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München, davon 18 bis 19 Uhr Isarplan.
+- TOP 1.5.: Die Vorstandssitzung findet am Montag, den 20.07.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt.
+- TOP 1.1.: Jour Fixe des Kulturreferates am Montag, den 13.07.2015 um 17:00 Uhr im NS-Dokumentationszentrum
+- TOP 1.2.: Behindertenbeirat am 01.07.2015.
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.3.: Errichtung eines öffentlichen Bücherschrankes am Karl-Heinrich-Ulrichs-Platz, Stellungnahme des Kreisverwaltungsreferates
+- TOP 1.4.: Verstärkt Maßnahmen gegen Zweckentfremdung von Wohnraum ergreifen, Stellungnahme des Oberbürgermeisters zum Beschluss des BA zur Erledigung der BV-Empfehlung Nr. 14-20 / E 00212 vom 06.11.2014
+- TOP 1.5.: Mieterbeiratswahl 2015, Beschluss des Sozialausschusses vom 18.06.2015 (VB), Sitzungsvorlage Nr. 14-20 / V 03011
+- TOP 1.6.: REGSAM ? Ein starkes Netzwerk für München, Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigene REGSAM-Stelle, Beschluss des Kinder- und Jugendhilfeauschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.2015 (VB), Sitzungsvorlage Nr. 14-20 / V 01463
+- TOP 1.7.: Sozialreferat, Beschlussvorlage, Mieterbeiratswahl 2015 Beschluss des Sozialausschusses vom 18.06.2015 Sitzungsvorlage Nr. 14-20 / V 03011
+- TOP 1.8.: Referat für Bildung und Sport Schulbauoffensive 2013/20130, Aktionsprogramm Schul- und Kita-Bau, Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen Eilentscheidung des Vorsitzenden vom 09.06.2015: Zustimmung
+- TOP 1.9.: Nutzung ehemaliges Trafohaus am Glockenbachspielplatz als Unterstand für Spielplatzbesucher, BA-Antrags-Nr. 14-20 / B 01029 vom 24.03.2015
+- TOP 1.1.: Baureferat, Beschlussvorlage, Beseitigung höhengleicher Bahnübergänge Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015 Sitzungsvorlage Nr. 14-20 / V 02324
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ehrenpreis für guten Wohnungsbau, Verleihung der Ehrenpreise 2015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03176
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Demografiebericht München ? Teil 1 und Teil 2 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03197
+- TOP 1.4.: Baumaßnahmen der Stadtwerke München
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen - Schwanthalerstraße 58, Hotelanfahrtszone
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Stellungnahme der Bezirksausschüsse zum Oktoberfestschlussbericht 2014, Schreiben des Referates für Arbeit und Wirtschaft
+- TOP 1.7.: Querung während Wiesnauf- und abbau; Auf- und Abbauzeiten allgemein, Referat für Arbeit und Wirtschaft
+- TOP 1.8.: Die Nutzung der Theresienwiese, BA-Antrag Nr. 14-20 / B 01032 vom 24.03.2015, Antwortschreiben des Referates für Arbeit und Wirtschaft
+- TOP 1.9.: Barrierefreier Ausbau der Bushaltestelle am Baldeplatz, Abdruck der Stellungnahme des Baureferats zum Schreiben der Seniorenvertretung des 2. Stadtbezirkes
+- TOP 1.10.: Umwandlung eines PKW-Stellplatzes vor dem Anwesen Thalkirchner Str. 86 (Kinderhaus St. Anton) in eine Abstellfläche für Fahrräder, Roller und Kinderanhänger, BA-Antrag Nr. 14-20 / B 00477 vom 21.10.2014, Antwortschreiben des Baureferates
+- TOP 1.11.: Verschiedene Anträge und Anfragen zur Theresienwiese, Stellungnahme des Bezirksausschusses 8 - Schwanthalerhöhe
+- TOP 1.12.: Gehweg vor ?Motorland? in der Thalkirchner Str. 66-68 freihalten, BA-Antrag Nr. 14-20 / B 01028 vom 24.03.2015, Antwortschreiben des Kreisverwaltungsreferates
+- TOP 1.13.: Fehlende Parkplatzmarkierung in der Auenstraße vor dem Anwesen 100 bis 104
+- TOP 1.14.: Ballonstart auf der Theresienwiese im Zeitraum 20.06. bis 23.06.2015
+- TOP 1.15.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03124
+- TOP 1.16.: Baureferat, Schrotträder an der Kreuzung Dreimühlenstraße/Ehrengutstraße
+- TOP 1.17.: Geplante Veranstaltung ?Eisfläche am Gärtnerplatz?, Stellungnahme des Kreisverwaltungsreferates zu BA-Schreiben vom 05.05.2015
+- TOP 1.18.: Sachstandsmitteilung zum BA-Antrag Nr. 14-20 / B 00252 Fahrradständer
+- TOP 1.19.: Information über Betriebskonzept der Linien U3/U6 während der Bauwerksprüfung Poccistraße
+- TOP 1.20.: Aufstellung einer Rundbank am Karl-Heinrich-Ulrichs-Platz
+- TOP 1.1.: Lese-Aktion am Karl-Heinrich-Ulrichs-Platz am 27.06.2015, Veranstaltung des Bezirksausschusses, Bestätigung des städtischen Interesses vom Direktorium
+- TOP 1.2.: Gärtnerplatzfest am 25.07.-26.07.2015, Veranstaltung des Bezirksausschusses, Bestätigung des städtischen Interesses vom Direktorium
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
