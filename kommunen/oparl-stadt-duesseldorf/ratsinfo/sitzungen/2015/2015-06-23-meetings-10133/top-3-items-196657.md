@@ -1,0 +1,8 @@
+# TOP 3: Kinderspielplatz Gerricusstraße
+
+- Sitzung: Bezirksvertretung 7 (2015-06-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/196657
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/76438
