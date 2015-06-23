@@ -1,0 +1,57 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2015-06-23T18:00:00+02:00
+- Ende: 2015-06-23T21:50:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZD7dwQrqByCMqT3iMLAfmA
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5321
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSsjeJ4IM9kn05_E01gmsQshTWQVvvVmRpbOwImQUUzM/Einladung_Rat_23.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeH-pjzGHIZ95r_LH8BdUmEq-wfC9dLSqCXl6WjpgLnY/Oeffentliche_Niederschrift_Rat_23.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Einführung und Verpflichtung eines Stadtverordneten
+- TOP 3.: Beschlussfassung über die Tagesordnung
+- TOP 4.: Einwohnerfragestunde
+- TOP 5.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 6.: Beschlusskontrolle
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2015/2016 und seiner Anlagen sowie über den Entwurf des Haushaltssicherungskonzeptes
+- TOP 7.1.: Haushaltsreden
+- TOP 7.2.: Leitentscheidungen und Feststellung der Budgets für die Haushaltsjahre 2015/2016
+- TOP 7.3.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für die Haushaltsjahre 2015/2016 und zum Haushaltssicherungskonzept
+- TOP 7.4.: Haushalt 2015/2016: Stellenplan - 31 Ja-Stimmen, 4 Nein-Stimmen, 0 Enthaltungen 
+- TOP 7.5.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für die Wirtschaftsjahre 2015/2016 - Einstimmig, 0 Enthaltungen
+- TOP 7.6.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für die Wirtschaftsjahre 2015/2016 - Einstimmig, 0 Enthaltungen
+- TOP 7.7.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für die Wirtschaftsjahre 2015/2016 - Einstimmig, 0 Enthaltungen
+- TOP 7.8.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für die Wirtschaftsjahre 2015/2016 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2014
+- TOP 8.1.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2014 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Benennung eines ehrenamtlichen stellvertretenden Behindertenbeauftragten - Einstimmig, 0 Enthaltungen
+- TOP 10.: Satzung für das Jugendamt
+- TOP 10.1.: Satzung für das Jugendamt - Einstimmig, 0 Enthaltungen
+- TOP 11.: Fortschreibung und Aktualisierung des Integrationskonzeptes der Stadt Wesseling
+- TOP 11.1.: Fortschreibung und Aktualisierung des Integrationskonzeptes der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 12.: Kommunales Wahlrecht für Menschen mit nicht-deutscher Staatsangehörigkeit - NachnameVornameAbstimmungAdamKarinNicht anwesendAugeStephanNeinBachJürgenNeinBobowkMonikaNicht anwesendBöhnerGeorgNeinDanielRalfNeinDobbersteinDanielaNeinEngels-BremerMartinaNicht anwesendEngels-WelterMonikaNeinFlinkPetraNeinFlorinTanjaJaGiesen-PätzSusann
+- TOP 13.: Bebauungsplan Nr. 1/107 „Saint Gobain“, 1. Änderung „Birkenstraße“ hier: Satzungsbeschluss gemäß § 10 (1) Baugesetzbuch - Einstimmig, 0 Enthaltungen
+- TOP 14.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 14.1.: Antrag der CDU-Fraktion: Umbesetzung im Auschuss für Sport und Freizeit
+- TOP 15.: Antrag der SPD-Fraktion: Entsendung von Vertretern der Stadt Wesseling in externe Gremien - Umbesetzung - Einstimmig, 0 Enthaltungen
+- TOP 16.: Antrag der SPD-Fraktion: Ausbau Godorfer Hafen - Einstimmig, 0 Enthaltungen
+- TOP 17.: Antrag der SPD-Fraktion: Streik der Erzieherinnen und Erzieher in Kindertageseinrichtungen - Einstimmig, 0 Enthaltungen
+- TOP 18.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Einstellung eines Co-Dezernenten „Soziales, Jugend, Familie und Ordnung“ im Dezernat II
+- TOP 1.1.: Einstellung eines Co-Dezernenten „Soziales, Jugend, Familie und Ordnung“ im Dezernat II - 31 Ja-Stimmen, 4 Nein-Stimmen, 1 Enthaltung
+- TOP 2.: Einstellung eines Co-Dezernenten „Finanzen und Schule“ im Dezernat II
+- TOP 2.1.: Einstellung eines Co-Dezernenten „Finanzen und Schule“ im Dezernat II - 31 Ja-Stimmen, 4 Nein-Stimmen, 1 EnthaltungIm Anschluss an die Abstimmung weißt Herr Bürgermeister Esser die Ratsmitglieder eindringlich auf die Einhaltung der Verschwiegenheitspflicht hin. Es dürfe nicht sein, dass Inhalte nichtöffentlicher Tagesordnungs
+- TOP 3.: Besetzung der Einigungsstelle gemäß § 67 Landespersonalvertretungsgesetz - Einstimmig, 0 Enthaltungen
+- TOP 4.: Beratung über den Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen (GPA NRW) über die überörtliche Prüfung der Stadt Wesseling von Juli 2013 bis März 2014 (Bericht vom 03.11.2014) - Einstimmig, 0 Enthaltungen
+- TOP 5.: Europaweite Ausschreibung von Entsorgungsdienstleistungen für die Stadt Wesseling zum 01.01.2016 hier: Vergabeentscheidung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Mitteilungen und Anfragen
+- TOP 7.: Presseveröffentlichungen
