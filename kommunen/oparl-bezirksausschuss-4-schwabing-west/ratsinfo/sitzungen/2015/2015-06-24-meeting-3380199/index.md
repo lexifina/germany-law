@@ -1,0 +1,71 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-06-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3380199
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3380199
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Bürger: Suche nach einem Kindergartenplatz
+- TOP 1.2.: Johanneskolleg
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Förderverein der Städtischen Hermann-Frieb-Realschule 2 Kurse für 40 SchülerInnen vom 24.07. - 30.07.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Zirkusprojekt vom 29.06. - 03.07.2015
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.2: Kultur
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Münchner Filmwerkstatt e.V. Projekt "KALIBER35" vom 18. - 24.06.2015
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Luitpoldpark: Spendenlauf des Willi-Graf-Gymnasiums am 20.07.2015
+- TOP 2.3.2.: Ackermannbogen: Nachbarschaftspicknick am 25.07.2015
+- TOP 2.3.3.: Straßenfest in der Georgenstraße am 01.08.2015
+- TOP 2.3.4.: Luitpoldpark: Sommerfest zugunsten Pro Animale am 11.07.2015
+- TOP 2.3.5.: Elisabethplatz: SPD-Bürgerfest am 25.07.2015
+- TOP 2.3.6.: Hohenzollernplatz: Marktveranstaltung ?Alpenmarkt? vom 17. bis 26.07.2015
+- TOP 1: Anträge (3)
+- TOP 1.1.: BA 3: Erlass einer Erhaltungssatzung für das Gebiet Ludwig-/Barer Straße/ Oskar-von-Miller-Ring bis Georgenstraße mit Nebenstraßen
+- TOP 1.2.: FDP und Beschwerde einer Anwohnerin: Haltverbote in der Cherubinistraße zur Sicherung der Feuerwehranfahrt (vgl. TOP E 1.2)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Farinellistr. 5-7 - Schulbauoffensive Nutzungsänderung: Einbau eines Mulitfunktionsraumes in die Pausenhalle
+- TOP 2.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.3.: Schleißheimer Str. 139: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (?Schwabinger Carrée II?, Bauteil 3.1)
+- TOP 2.1.4.: Herzogstr. 142: Neubau eines Wohnhauses mit Tiefgarage (?Schwabinger Carrée II?, Bauteil 3.2 ? Herzogstr. 142/Winzererstr. 104)
+- TOP 2.1.5.: Tektur Herzogstr. 49: Neubau eines Wohnhauses mit Tiefgarage
+- TOP 2.1.6.: Hohenzollernstr. 116: Ausbau 2. DG mit 2 Maisonettewohnungen, Einbau einer Dachterrasse im 1. DG, Anbau eines Außenaufzugs
+- TOP 2.1.7.: Belgradstr. 22: Anbau von Balkonen und eines Aufzugs an der Hoffassade
+- TOP 2.1.8.: Tektur Viktor-Scheffel-Str. 10: DG- Erneuerung und Balkonerweiterung im DG
+- TOP 2.1.9.: Tektur Herzogstr. 54/RGB: Dachgeschossausbau
+- TOP 2.1.10.: Hiltenspergerstr. 47: Errichtung eines Wintergartens
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürgerin: Fahrradständer an der Elisabeth-/Ecke Hiltenspergerstraße
+- TOP 1.2.: Bürger: Anbringen eines Spiegels an der Einmündung der Unertl- in die Belgradstraße
+- TOP 1.3.: FDP und Beschwerde einer Anwohnerin: Haltverbote in der Cherubinistraße zur Sicherung der Feuerwehranfahrt (vgl. TOP D 1.2)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Isoldenstr. 5: Fällung einer Birke
+- TOP 2.1.2.: Elisabethstr. 28: Fällung einer Robinie
+- TOP 2.1.3.: Infanteriestr. 11: Fällung von mehreren Bäumen in Zusammenhang mit einem Bauvorhaben (Umbau eines Bürogebäudes mit Tiefgarage mit erdgeschossiger Erweiterung des rückwärtigen Anbaus und Nutzungsänderung von Büro zu Hochschule im EG, vgl. TOP D 2.1 der letzten Sitzung)
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Erinnerungsverfahren des Baureferats Tiefbau: a) Kurfürstenstr. 57: Umbau von Geh- und Radweg für verkehrssichere Entwässerung
+- TOP 2.2.2.: Abstimmung des Fragenkatalogs an Verkehrsplaner und -experten aus dem Verkehrs-Workshop vom 9.5.2015
+- TOP 2.2.3.: Barrierefreier Ausbau der Bushaltestelle ?Klopstockstraße? in der Rümannstraße Entscheidung über die Projektplanung
+- TOP 2.2.4.: Ortstermin zu den Haltverboten an der Bregenzer / Birnauer Straße: KVR bittet um Terminvorschläge
+- TOP 2.2.5.: Verkehrsführung im Bereich Elisabethplatz während der Bauarbeiten zur Verlegung neuer Stromkabel (dazu eingeladen: Vertreter des KVR)
+- TOP 2.2.1.: Ferienausschuss am 26.08.2015 1.1 Benennung der Mitglieder 1.2 Wahl der/des Ausschussvorsitzenden
+- TOP 2.2.2.: Verlagerung der Bezirksinspektion Nord
+- TOP 2.2.1.: Aufstellung von Sitzbänken vor dem Nordbad
