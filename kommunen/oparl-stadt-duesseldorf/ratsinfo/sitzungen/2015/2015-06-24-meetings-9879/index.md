@@ -1,0 +1,55 @@
+# Bezirksvertretung 4
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-24T15:00:00+02:00
+- Ende: 2015-06-24T17:55:00+02:00
+- Ort: Luegallee 65, 40545 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/35
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9879
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9879
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243090.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243090.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243090.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführerin - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Sachstand zu Orkan "Ela" - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 5: Erhaltungssatzungen im SB 4 Zustimmende Kenntnisnahme - zur Kenntnis genommen
+- TOP 5.1: Ergänzungsantrag zu TOP 5 Erhaltungssatzung im Stadtbezirk 4 - zur Kenntnis genommen
+- TOP 6: B-Plan 04/004 Hansaallee / Böhlerstraße Stellungnahmen, rote Änderung, Satzung - zur Kenntnis genommen
+- TOP 7: Grünanlage Belsenpark - zur Kenntnis genommen
+- TOP 7.1: Ergänzungsantrag zu TOP 7 - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 7.2: Ergänzungsantrag zum TOP 7 Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 8: Heerdter Landstraße 186, Bau einer Kinder- und Jugendfreizeiteinrichtung - Ausführungs- und Finanzie - zur Kenntnis genommen
+- TOP 9: Errichtung einer Lärmschutzanlage an der Kevelaerer Straße - Ausführungs- und Finanzierungsbeschluss - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Container für das Comenius-Gymnasium
+- TOP 13: Wochenmarkt auf dem Barbarossaplatz - zur Kenntnis genommen
+- TOP 14: Planungsstand B-Planverfahren südl. Viersener Straße
+- TOP 15: Fernwärmenetz im Bezirk 4 - zur Kenntnis genommen
+- TOP 16: Umsetzung beschlossener Maßnahmen
+- TOP 17: Feuerwache 2 modernisieren
+- TOP 18: Schulbaumaßnahmen linksrheinisch
+- TOP 19: Müllentsorgung im Rheinvorland
+- TOP 20: Zufahrt Schwerlastverkehr Schanzenstraße - zur Kenntnis genommen
+- TOP 21: Zuschuss an den Tennisclub - zur Kenntnis genommen
+- TOP 22: Bauunterhaltungsmaßnahmen 2015 - zur Kenntnis genommen
+- TOP 23: Bepflanzung Behelfscontainer Comenius-Gymnasium - zur Kenntnis genommen
+- TOP 24: Planungsstand zur Umgestaltung Drakeplatz - zur Kenntnis genommen
+- TOP 25: Fahrradabstellanlagen im Stadtbezirk - zur Kenntnis genommen
+- TOP 26: Umgestaltung Kreuzungsbereich Schiessstraße - zur Kenntnis genommen
+- TOP 27: Einrichtung Fußgängerüberweg Krefelder Straße - zur Kenntnis genommen
+- TOP 28: Bezirksorientierte Altenhilfe - zur Kenntnis genommen
+- TOP 29: Hallenbad - Bürgerhaus und Wohnen am Standort - zur Kenntnis genommen
+- TOP 30: Parkraumsituation Neuwerker und Viersener Straße - zur Kenntnis genommen
+- TOP 31: Erhalt von Gaslaternen - zur Kenntnis genommen
+- TOP 32: Gefahrenstelle Drususstraße / Pariser Straße - zur Kenntnis genommen
+- TOP 33: Kinder- und Jugendförderplan 2015 - 2020 - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 34: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 35: Ersatzpflanzungen im Bezirk 4 - zur Kenntnis genommen
