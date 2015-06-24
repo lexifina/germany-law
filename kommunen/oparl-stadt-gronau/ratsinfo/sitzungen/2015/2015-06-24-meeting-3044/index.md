@@ -1,0 +1,66 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2015-06-24T18:00:00+02:00
+- Ende: 2015-06-24T22:19:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcV0g7Iz5OTLj4mG2CgAMQA
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3044
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbUgW19k5rdbZN_PwKXkbK8PRZgYh4CgNeHkBxWgw8SO/Bekanntmachung_Rat_24.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVx8Tw-5JryATz9GHHFoI6zIR-cCuPmfRRDBRHAikVo-/Oeffentliche_Niederschrift_Rat_24.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 10.06.2015
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Regionale; Antrag der GAL-Fraktion vom 12.06.2015 - 4 Jastimmen, 29 Neinstimmen, 4 Enthaltungen
+- TOP 5.: Entwurf des Jahresabschlusses 2014 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2014 der Sparkasse Gronau Kenntnisnahme des Jahresabschlussergebnisses Beschluss über die Verwendung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2014 der Sparkasse Gronau Entlastung der Organe der Sparkasse Gronau - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2014 Schlussbesprechung und Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Zukunft der Förderschulen Lernen im Kreis Borken - Pestalozzischule - 35 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 10.: Bürgerbusverein Gronau + Epe e.V. - Bereitstellung der Einrichtungs- und Betriebskosten - Einstimmig, 0 Enthaltungen
+- TOP 11.: Eigenbeteiligung von Vorwärts Epe an den Kosten für die Umwandlung des Tennenplatzes in einen Kunstrasenplatz - Einstimmig, 1 Enthaltungen
+- TOP 12.: Unterbringung von Fundtieren - Vertragsentwürfe - 11 Jastimmen, 27 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Fortschreibung bzw. Änderung des Einzelhandelskonzepts für die Stadt Gronau - Ohne Abstimmung
+- TOP 14.: Innenstadtentwicklung A. Weiterführung der Vorbereitenden Untersuchungen nach § 141 BauGB B. Beschluss über die städtebauliche Rahmenplanung "Zukunftstbild Innenstadt 2020+" C. Realisierungswettbewerb "Hertie und Umfeld" - Einstimmig, 0 Enthaltungen
+- TOP 15.: Konzeptionelle und bauliche Entwicklung der Gesamtschule Gronau unter Berücksichtigung der Schulentwicklung in den Ortsteilen Gronau und Epe - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 16 „Kamp Alstätter Straße“ – 3. Änderung - Stadtteil Gronau (Vereinfachtes Verfahren gem. § 13 BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - 35 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 69 „Forstgarten“ – 3. Änderung - Stadtteil Gronau (Vereinfachtes Verfahren gem. § 13 BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - 36 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 148 „Schwartenkamp/Tieker Damm“, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB für den Bebauungsplanvorentwurf 2. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB für Entwurf des Bebauungsplans 3. Behandlung der Stellungnahmen aus der erneuten öffentlichen Auslegung gem. § 4a Abs. 3 BauGB sowie aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4a Abs. 3 BauGB für den überarbeiten Entwurf des Bebauungsplans 4. Satzungsbeschluss - 19 Jastimmen, 15 Neinstimmen, 4 Enthaltungen
+- TOP 19.: Erhebung von Erschließungsbeiträgen nach dem BauGB: Beitragserhebung bei der Erneuerung der Straßenbeleuchtung bei noch nicht endgültig hergestellten Straßen; Grundsatzbeschluss zur Kostenspaltung Ergänzung der Zuständigkeitsordnung der Ausschüsse - Einstimmig, 0 Enthaltungen
+- TOP 20.: Erhebung von Erschließungsbeiträgen nach dem BauGB; Planerfordernis, planungsrechtliche Bindung und bebauungsplanersetzende Planung bei der Erschließungsanlagen-Herstellung (§ 125 BauGB) Ergänzung der Zuständigkeitsordnung der Ausschüsse - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bildung von Abrechnungs-Abschnitten bei der erstmaligen Herstellung von Erschließungsanlagen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Ergänzungen zur Abwasserbeseitigungssatzung - Einstimmig, 0 Enthaltungen
+- TOP 23.: Strukturelle Flüchtlingshilfe - Ohne Abstimmung
+- TOP 23.1: Strukturelle Flüchtlingshilfe Ergänzungsvorlage zur Vorlage 253/2015 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 24.1: Einladung ins Rock´n´Popmuseum (RM Bartels)
+- TOP 25.: Mitteilungen der Verwaltung
+- TOP 25.1: Einführung der digitalen Ratsarbeit
+- TOP 25.2: Teerauflösung an den Straßenoberflächen
+- TOP 25.3: Aktivitäten "Wege zur Vielfalt"
+- TOP 25.4: Entschädigungsleistung an Vorwärts Epe
+- TOP 25.5: Entwicklung Gewerbegebiete "Füchtenfeld" und "An der Eßseite"
+- TOP 25.6: Haushaltspläne 2015
+- TOP 26.: Anfragen
+- TOP 26.1: Benennung von schadhafter Teerdecke betroffener Straßen (RM Bartels)
+- TOP 26.2: Höhere Gewinnabführung von der Stadtwerke Gronau GmbH? (RM Bartels)
+- TOP 26.3: Stellungnahme der Stadt zur geplanten Unterschutzstellung des Rathauses (RM Laschke)
+- TOP 26.4: Unzureichende Beleuchtung an Zebrastreifen (RM Hübler)
+- TOP 26.5: Verlängerung des Riekenhof-Radweges bis zum katholischen Friedhof geplant? (RM Hönerlage)
+- TOP 26.6: Gefährliche Situationen an der Behelfsampel an der Gildehauser Straße bekannt? (1. Stellv. d. BM Doetkotte)
+- TOP 26.7: Einschränkung der Parkmöglichkeiten auf der Losserstraße (1. Stellv. d. BM Doetkotte)
+- TOP 26.8: Einweihung des Piratenschiffs (RM Arends)
+- TOP 26.9: Radweg der Gildehauser Straße im Abschnitt zwischen "Am Schwartenkamp" und "Spinnereistraße" in Fahrtrichtung Innenstadt sicherer machen (RM Buchholz)
+- TOP 26.10: Gewinnung von Fördermitteln/Drittmitteln (RM Gabbe)
+- TOP 26.11: Verlauf des Fietsenschnellweges in Gronau (RM Dust)
+- TOP 26.12: Probleme mit dem Nachversand? (RM Krefter)
+- TOP 26.13: Befahrung des niederländischen Radschnellweges auch mit Gronauer Beteiligung? (RM Buchholz)
+- TOP 26.14: Planungen für einen Radweg entlang des Alfertrings (3. Stellv. d. BM Tegetmeyer)
