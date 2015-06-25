@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-25T14:00:00+02:00
+- Ende: 2015-06-25T21:20:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10216
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10216
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243308.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243308.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243308.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage CDU: Sachstand 1000-Bänke-Programm - beantwortet
+- TOP 4.2: Anfrage Linke:Lärmschutzmaßnahmen in den Entschädigungsgebieten des Flughafens Düsseldorf - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion von BÜ90/GRÜ: Museum Kunstpalast: Zuständigkeit bündeln, Sanierung erleicht - einstimmig abgelehnt
+- TOP 4.4: Anfrage des Ratsherrn Maniera: Entwicklung der Wohnraumsituation in Düsseldorf - beantwortet
+- TOP 4.5: Anfrage Rh Maniera:Wohnmodule/Containerunterbringung von Asylanten - beantwortet
+- TOP 4.6: Anfrage FDP: Stiftung für Düsseldorfer Gasbeleuchtung......... - schriftlich beantwortet
+- TOP 4.7: Anfrage CDU: Unterstützung von Bund und Land bei der Unterbringung und Versorgung von Flüchtlingen - schriftlich beantwortet
+- TOP 4.8: Anfrage Rh Lehne:Erstaufnahme- bzw. zentrale Unterbringungseinrichtung d. Landes NRW f. Flüchtlinge - schriftlich beantwortet
+- TOP 4.9: Anfrage Bü90/GRÜ: Integrationskräfte im Offenen Ganztag - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh Grenda: Offene Daten für Düsseldorf - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Grenda: Investitionen in "Kunst am Bau" - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - beantwortet
+- TOP 6: NKF – Gesamtabschluss - mehrheitlich beschlossen
+- TOP 6.1: ÄA Rh Grenda: NKF – Gesamtabschluss - mehrheitlich abgelehnt
+- TOP 7: Entwurf Jahresabschluss 2014 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 8: Kämmererliste - einstimmig beschlossen
+- TOP 9: Bereitstellung überplanmäßiger Mittel zur Anmietung, Herrichtung und Unterhaltung von Flächen zur Un - mehrheitlich beschlossen
+- TOP 9.1: ÄA Rh Grenda: Bereitstellung überplanmäßiger Mittel zur Anmietung, Herrich-tung und Unterhaltung vo - mehrheitlich abgelehnt
+- TOP 10: Hochwasserschutzmaßnahme an der Nördlichen Düssel im Bereich der Altenbergstraße - Ausführungs- und - einstimmig beschlossen
+- TOP 11: Marktplatz 5-6, Verwaltungsgebäude - Gesamtsanierung - Ausführungs- und Finanzierungsbeschluss - - zurückgezogen
+- TOP 12: U-Bahnhof Nordstraße, Aufzugsnachrüstung, Taktiles Leitsystem BuF - einstimmig beschlossen
+- TOP 13: Grünanlage Belsenpark - einstimmig beschlossen
+- TOP 14: Wiederaufbau der denkmalgeschützten Parkanlage Hofgarten - einstimmig beschlossen
+- TOP 15: Wiederaufbau der Parkanlage Rheinpark - einstimmig beschlossen
+- TOP 16: Wiederaufbau der Parkanlage Zoopark - einstimmig beschlossen
+- TOP 17: Erneuerung Brücke Aderkirchweg u. verl Hst. Josef-Kardinal-Frings-Brücke - mehrheitlich beschlossen
+- TOP 18: Äußere Verkehrserschließung Glasmacherviertel Düsseldorf - mehrheitlich beschlossen
+- TOP 19: Kaiserswerther Straße 380, Aquazoo/Löbbecke Museum – Sanierung - Änderungsbeschluss - - mehrheitlich beschlossen
+- TOP 20: Mittel Beschluss Rat Kommunale Beschäftigungsförderung AGH Hartz IV Langzeitarbeitslose - mehrheitlich beschlossen
+- TOP 21: Mittel Asyl soziale Betreuung Flüchtlinge Ehrenamtliche Asylbewerber Unterbringung Liga Diakonie - mehrheitlich beschlossen
+- TOP 21.1: Änderungsantrag der Ratsfraktion DIE LINKE: Soziale Betreuung von Flüchtlingen - mehrheitlich abgelehnt
+- TOP 22: Rhein-Ruhr-Express – Begleitung der RRX-Planung durch die Stadt und Einrichtung einer Kleinen Kommis - einstimmig beschlossen
+- TOP 23: Quartiersentwicklung nördlich Paulsmühlenstraße einschließlich des Neubaus für die Albrecht-Dürer-Sc - mehrheitlich beschlossen
+- TOP 24: Grünordnungsplan 2025 - einstimmig beschlossen
+- TOP 25: Satzungsänderung für die Friedhöfe und Feuerbestattungsanlage - einstimmig beschlossen
+- TOP 26: 5. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - einstimmig beschlossen
+- TOP 27: Einrichtung einer Koordinierungsstelle Kultur- und Kreativwirtschaft - zur Kenntnis genommen
+- TOP 28: Aufsichtsrat Flughafen Düsseldorf GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 29: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in Ratsausschüsse - einstimmig beschlossen
+- TOP 30: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 31: B-Plan Nr. 01/003 - Schwannstraße - Stellungnahmen, Änderungen in roter Farbe, Satzung - mehrheitlich beschlossen
+- TOP 32: B-Plan 04/004 Hansaallee / Böhlerstraße Stellungnahmen, rote Änderung, Satzung - mehrheitlich beschlossen
+- TOP 33: Abschluss eines Durchführungsvertrages nach § 12 Baugesetzbuch (BauGB) zum Vorhabenbezogenen Bebauun - mehrheitlich beschlossen
+- TOP 34: Flächennutzungsplanänderung Nr. 51 - Nördlich Westfalenstraße - - einstimmig beschlossen
+- TOP 35: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 06/002 (eh. Nr. 5781/038) - Nördlich Westfalenstraße (Sü - mehrheitlich beschlossen
+- TOP 36: Anträge
+- TOP 36.1: Antrag Die Linke: Arbeitsbedingungen an der Volkshochschule verbessern - mehrheitlich abgelehnt
+- TOP 36.2: Antrag SPD, BÜ90-GRÜ und FDP: Kunstkommission – Kunst im öffentlichen Raum - mehrheitlich beschlossen
+- TOP 36.3: Antrag Die Linke: Aufstellung des städtischen Haushalts 2016 - vertagt
+- TOP 36.4: Antrag Die Linke: Aufenthaltsgenehmigung für armenisches Flüchtlingspaar - zur Kenntnis genommen
+- TOP 36.5: Antrag Die Linke: Übernahme der Kosten für Integrationskräfte in der Ferienbetreuung - mehrheitlich abgelehnt
+- TOP 36.5.1: ÄA von CDU, SPD; BÜ90-GRÜ, FDP:Übernahme der Kosten für Integrationskräfte in der Ferienbetreuung" - mehrheitlich beschlossen
+- TOP 36.6: Antrag Die Linke:Aussetzung von Hart IV-Sanktionen - mehrheitlich abgelehnt
+- TOP 36.7: Antrag Die Linke: Keine Nachtabschiebungen in Düsseldorf - mehrheitlich abgelehnt
+- TOP 36.7.1: ÄA BÜ90/GRÜ:, SPD und FDP:Keine Nachtabschiebung in Düsseldorf - mehrheitlich beschlossen
+- TOP 36.8: Antrag Die Linke: Kein Empfang und kene Unterstützung für Schießwettbewerb der Bundeswehr - vertagt
+- TOP 36.9: Antrag Die Linke: Kein Werben fürs Sterben - vertagt
+- TOP 37: Deutsche Oper am Rhein; Verlängerung der Theatergemeinschaft - einstimmig beschlossen
