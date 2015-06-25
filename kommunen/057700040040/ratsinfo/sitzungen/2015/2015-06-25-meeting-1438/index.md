@@ -1,0 +1,55 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2015-06-25T17:00:00+02:00
+- Ende: 2015-06-25T20:30:00+02:00
+- Ort: Grundschule Rahden, Schulstraße 2, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYe1GZQkKE2REqycaRqSmeI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1438
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcSW-wic-Sj-9dAmteBkxWKaor8SmpU8GBjFXj4zVQEr/Bekanntmachung_Rat_25.06.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUHmnvAPHWyhnSKNTKPKboWvvnEDrtxZwurrekVctxtN/Oeffentliche_Niederschrift_Rat_25.06.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Ärztehaus Rahden
+- TOP 4.: Gesundheitszentrum Rahden - 28 Stimmen dafür, 1 dagegen (Specht), 0 Enthaltungen
+- TOP 5.: Fortschreibung des Einzelhandelskonzeptes der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 6.: Städtebauförderungsgebiet "Aktives Stadtzentrum" Innenstadt Rahden; hier: a) Beratung und Beschlussfassung über die Fortschreibung des "Integrierten städtischen Entwicklungskonzepts Rahden-Innenstadt" über weitere fünf Jahre b) Beratung und Beschlussfassung über die Verlängerung der Sanierungssatzung für das förmlich festgelegte Sanierungsgebiet "Rahden-Innenstadt" für weitere fünf Jahre gemäß § 142 Abs. 3 Satz 4 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 7.: Städtebauförderungsgebiet "Aktives Stadtzentrum" Innenstadt Rahden; hier: Änderung der Vergaberichtlinie der Stadt Rahden über die Gewährung von Zuwendungen zur Förderung der Profilierung und Standortaufwertung im Sanierungsgebiet "Rahden-Innenstadt" - Einstimmig, 0 Enthaltungen
+- TOP 8.: Einrichtung des Stadtmarketing - Einstimmig, 0 Enthaltungen
+- TOP 9.: Aufstellung des Bebauungsplanes Nr. 90 "Gewerbegebiet Pr. Ströhen -B 239-" und 78. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) zur Erweiterung des bestehenden Gewerbegebietes in der Ortschaft Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Förderung der Dorferneuerung; hier: Gestaltung des Vorplatzes am Friedhof in Wehe - Einstimmig, 0 Enthaltungen
+- TOP 11.: Erneuerung der Mischwasserkanalisation im Bereich Weher Straße - Lerchenweg bis zur Einmündung Im Bahndreieck - Einstimmig, 0 Enthaltungen
+- TOP 12.: Erlass einer Elternbeitragssatzung für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Betreuungsangeboten in der Offenen Ganztagsgrundschule Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Antrag der SPD-Fraktion zur Bildung eines Seniorenbeirats - 6 Stimmen dafür, 17 dagegen, 6 Enthaltungen
+- TOP 14.: Gesetz zur Förderung von Investitionen finanzschwacher Kommunen (KlnvFG) - Ohne Abstimmung
+- TOP 15.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2015 - Ohne Abstimmung
+- TOP 16.: Sparkassenangelegenheiten: Entlastung der Organe / Verteilung Jahresüberschuss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Neu- bzw. Wiederwahl von Schiedspersonen für die Schiedsamtsbezirke Rahden und Rahden-Kleinendorf - Einstimmig, 0 Enthaltungen
+- TOP 18.: Wahl eines stellvertretenden Ausschussvorsitzenden für den Feuerwehrausschuss - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bekanntgaben
+- TOP 19.1: Besetzung der Schulleiterstelle an der Grundschule Tonnenheide-Wehe
+- TOP 19.2: Einrichtung einer Haltestelle an der Sudriede im Stadtbusverkehr
+- TOP 19.3: Einführung eines "ChillTickets" im Schulbusverkehr
+- TOP 19.4: Besuch aus Glindow
+- TOP 19.5: Plakattafeln zur Bürgermeisterwahl
+- TOP 19.6: Schulwegsicherungskonzept
+- TOP 19.7: Umgestaltung der Wehme -Mehrgenerationenpark-
+- TOP 20.: Verschiedenes
+- TOP 20.1: Werbeanlagen Wiese Museumshof
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 21.: Gesundheitszentrum Rahden - Einstimmig, 0 Enthaltungen
+- TOP 22.: Einrichtung des Stadtmarketing - Einstimmig, 0 Enthaltungen
+- TOP 23.: Konzessionsverträge für Strom und Gas - Einstimmig, 0 Enthaltungen
+- TOP 24.: Fortschreibung des Einzelhandelskonzeptes der Stadt Rahden; hier: Auftragsvergabe - Einstimmig, 0 Enthaltungen
+- TOP 25.: Anschaffung eines Mannschaftstransportfahrzeuges (MTF-EL) für den Löschzug Pr. Ströhen; hier: Auftragsvergabe - 27 Stimmen dafür, 1 dagegen (Zimmermann), 1 Enthaltung (Korte)
+- TOP 26.: Grundstücksangelegenheiten
+- TOP 27.: Bekanntgaben
+- TOP 28.: Verschiedenes
