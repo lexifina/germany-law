@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-06-26T14:00:00+02:00
+- Ende: 2015-06-26T19:30:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10257
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10257
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243380.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243380.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00243380.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Sicherheitslage 2014 - zur Kenntnis genommen
+- TOP 5: Königsallee: Aufstellung von farbig beleuchteten Bänken - zur Kenntnis genommen
+- TOP 6: Bolzplatz Schwanenmarkt - zur Kenntnis genommen
+- TOP 7: Heinrich-Erhardt-Straße 61, ehemaliges Straßenverkehrsamt - zur Kenntnis genommen
+- TOP 8: Genehmigung eines Dringlichkeitsbeschlusses B-Plan Nr. 01/003 -Schwannstraße- - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Umgestaltung Straßenzüge Friedrichstraße - Breite Straße und Kasernenstraße – Elisabethstraße - zur Kenntnis genommen
+- TOP 14: Radwegehauptnetz - zur Kenntnis genommen
+- TOP 15: Gleiseckverbindung Berliner Allee/Graf-Adolf-Straße - zur Kenntnis genommen
+- TOP 16: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 17: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 18: Genehmigung eines Dringlichkeitsbeschlusses - einstimmig beschlossen
+- TOP 19: Zuschussantrag: Freundeskreis Kinderhilfezentrum Eulerstraße e.V. - einstimmig beschlossen
+- TOP 20: Neue Bäume für den Golzheimer Friedhof - einstimmig beschlossen
+- TOP 21: Zustand der Zugangsbereiche des SPNV - einstimmig beschlossen
+- TOP 22: Alter Hafen: Reinigung der Mauer - mehrheitlich abgelehnt
+- TOP 23: Kastanie im Innenhof des Hetjens-Museums - zurückgezogen
+- TOP 24: Kein Camping vor dem Rheingärtchen/Tonhallenufer - Schaffung einer Alternative - mehrheitlich abgelehnt
+- TOP 25: Prinz-Georg-Straße: Optimierung der Radwegeverbindungen - einstimmig beschlossen
+- TOP 26: Uerdinger Straße: Schrägparkbuchten / Anwohnerparken - mehrheitlich beschlossen
+- TOP 27: Parkplatzeinfahrt Rotterdamer Straße 30: Entschärfung einer Gefahrensituation - mehrheitlich abgelehnt
+- TOP 28: Danziger Straße stadteinwärts: Entschärfung einer erheblichen Gefahrenabwehr - einstimmig beschlossen
+- TOP 29: Gestaltung Kö-Gärtchen - einstimmig beschlossen
+- TOP 30: Gehweg am Kö-Graben entlang des Fahrradweges - mehrheitlich beschlossen
+- TOP 31: Stresemannplatz: Wiederherrichtungsmaßnahmen - zurückgezogen
+- TOP 32: Golzheim: Einrichten eines Bolzplatzes - mehrheitlich beschlossen
+- TOP 33: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 34: Gustaf-Gründgens-Platz: Öffentlichkeitsbeteiligung zur Platzgestaltung - mehrheitlich beschlossen
