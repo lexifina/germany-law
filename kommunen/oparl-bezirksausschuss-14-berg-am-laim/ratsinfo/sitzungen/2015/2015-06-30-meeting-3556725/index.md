@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-06-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche); Asia 2000 Heimservice, Isareckstr. 52
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Entschärfung der Glücksspieloffensive in Berg am Laim und München
+- TOP 3.2.: Haltverbot als Ausweichstelle für den Linienbusverkehr in der Grafinger Straße
+- TOP 3.3.: Halteverbot Ampfingstraße 33 (Höhe Ausfahrt Parkhaus)
+- TOP 3.4.: Sommerfest "Miteinander in der Maikäfersiedlung" am 04.07.2015 Grünanlage nördlich der Bad-Kreuther-Straße bis zur Gögginger Straße
+- TOP 3.5.: Sommerfest der Kita Ali Baba e.V. am 25.07.2015 Behrpark (östlicher Teil, Berlinger Weg 1)
+- TOP 3.1.: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientieren Streetwork (Beschlussentwurf)
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Innere Mission München; Sozialdienst für Flüchtlinge Fußballtraining ab 23.06. bis Dezember 2015 - <div></div>
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Palestrina Ensemble München Sommerkonzert am 27.06.2015 - <div></div>
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Spielen in der Stadt e.V. Baumobil vom 19. bis 21.08.2015 - <div></div>
+- TOP 3.4.: (E) Budget der Bezirksausschüsse MAG's & More e.V., Nachbarschaftstreff Gotteszeller Straße 10jähriges Jubiläumsfest am 17.07.2015 - <div></div>
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Initiative "Weltkindertag" Weltkindertag am 20.09.2015 - <div></div>
+- TOP 3.6.: Initiative der Klassenelternsprecher der Klasse 4 c, Grundschule Berg am Laim; Finanzierung des Projekttages "Ziegelei" auf der pädagogischen Farm für die Klasse 4 c der Grundschule Berg am Laim
+- TOP 3.1.: Sonnwendjochstraße 43
+- TOP 3.2.: Halserspitzstraße 25/27
+- TOP 3.3.: Mutschellestraße 24
+- TOP 3.4.: Kranzhornstraße 29
+- TOP 3.5.: Josephsburgstraße 152
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogenem Bebauungsplan mit Grünordnung Nr. 2097 Anzinger Straße 23/29; Aufhebung gemäß § 173 Abs. 3 Bundesbaugesetzbuch (BBauG) übergeleiteter einfacher Bebauungspläne - Einleitungs und Aufstellungsbeschluss -
+- TOP 4.3.: Demografieberichte München Teil 1 und Teil 2
+- TOP 4.4.: Bebauungsplan mit Grünordnung, Haldenseestraße (beidseits) Bad-Schachener-Straße (südlich), Hechtseestraße (westlich und nördlich) Echardinger Straße und Krumbadstraße (östlich), Eckdaten und Aufstellungsbeschluss, Durchführung eines städtebaulichen und landschaftsplanerischen Planungswettbewerb; Schreiben des BA 16 Ramersdorf-Perlach an das Referat für Stadtplanung und Bauordnung
+- TOP 4.5.: Bauprogramm 2013 zur Realisierung von Kinderbetreuungsplätzen Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kinderkrippe-, 2 Kindergarten- und einer Hortgruppe in der Hermann-Weinhauser-Straße (Baumkirchen Mitte) im 14. Stadtbezirk Berg am Laim
+- TOP 4.1.: Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2015
+- TOP 4.2.: Mieterbeiratswahl 2015 Berufung der stimmberectigten Mitglieder Bekanntgabe der beratenden Mitglieder Entfristung und Finanzierung der Stelle für eine Bürokraft des Mieterbeirates
+- TOP 4.3.: Zweckentfremdung von Wohnraum; Zehntfeldstraße 91
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Namensgebung für den Weg zwischen Kreillerstraße und Gustav-Schwab-Straße; Zwischennachricht durch das Kommunalreferat vom 13.05.15
+- TOP 4.2.: Sitzmöglichkeiten an der Bushaltestelle Baumkirchner Straße
+- TOP 4.3.: Josephsburgstraße 69, Anlieferzone
+- TOP 4.4.: Englmannstraße, Kurzparkzone
+- TOP 4.5.: Errichtung einer Bücherbushaltestelle in der Grafinger Straße
+- TOP 4.6.: Beseitigung höhengleicher Bahnübergänge 1. Gegenwärtiger Stand 2. Feldmochinger Straße Beseitigung des höhengleichen Bahnüberganges "Jährlicher Sachstandsbericht"
+- TOP 4.7.: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen; die INZELL-Initiative untersucht das Potential von Zwei-System U-S-Bahnfahrzeugen für die Region München
+- TOP 4.8.: Isareckstüberl - unveränderte Fortführung
+- TOP 4.9.: Club Casa Amore (ehemals Casa Amore) - unveränderte Fortführung
+- TOP 4.10.: Robert? Kneipe (ehemals "Zur Freiheit") - unveränderte Fortführung
+- TOP 4.1.: Nutzungskonzept für die Sportflächen an der Fehwiesenstraße BA-Antrag Nr. 08-14/B05570 des BA 14 Berg am Laim vom 28.01.2014 Schul- und Sportstandort Fehwiesenstraße BA-Antrag Nr. 14-20/B00720 des BA 14 Berg am Laim vom 16.12.2014
+- TOP 4.2.: Schulbauoffensive 2013/2030 Aktionsprogramm Schul- und Kita-Bau Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen
+- TOP 4.1.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen 4. Standortbeschluss
+- TOP 4.2.: REGSAM - Ein starkes Netzwerk für München Trägerantrag auf Ressourcenerweiterung
+- TOP 4.1.: Aktion Übersetzung von Doletschern - Verwendungsnachweis
+- TOP 4.2.: Bericht über die Aktion Einsatz von Dolmetschern in der Asylsozialberatung München
+- TOP 4.3.: Projekt Kollaborationsplattform; Anforderungen des Direktoriums
+- TOP 4.4.: Ablauf von Bürgerversammlungen optimieren, BA-Antrag Nr. 14-20/B01177 des BA 14 Berg am Laim vom 28.04.2015
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
