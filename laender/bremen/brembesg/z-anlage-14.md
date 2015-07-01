@@ -1,26 +1,26 @@
 # Anlage 14 - Besoldungsordnung C
 Anlage 14
 Besoldungsordnung C
-Gültig ab 01. September 2014
+Gültig ab 01. Juli 2015
 Besoldungsordnung C
-Grundgehaltssätze
-(Monatsbeträge in Euro)
+Grundgehaltssätze (Monatsbeträge in Euro)
 Besol- dungs- gruppe | Erfahrungsstufe |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 
-C 1 | 3.186,76 | 3.294,81 | 3.402,81 | 3.510,81 | 3.618,85 | 3.726,87 | 3.834,87 | 3.942,88 | 4.050,88 | 4.158,91 | 4.266,92 | 4.374,93 | 4.482,97 | 4.590,99 | 
-C 2 | 3.193,51 | 3.365,66 | 3.537,79 | 3.709,96 | 3.882,09 | 4.054,22 | 4.226,38 | 4.398,51 | 4.570,64 | 4.742,80 | 4.914,92 | 5.087,06 | 5.259,20 | 5.431,35 | 5.603,49
-C 3 | 3.505,44 | 3.700,35 | 3.895,28 | 4.090,21 | 4.285,12 | 4.480,03 | 4.674,94 | 4.869,84 | 5.064,76 | 5.259,66 | 5.454,57 | 5.649,50 | 5.844,39 | 6.039,32 | 6.234,21
-C 4 | 4.423,06 | 4.619,01 | 4.814,94 | 5.010,87 | 5.206,82 | 5.402,74 | 5.598,71 | 5.794,60 | 5.990,55 | 6.186,48 | 6.382,43 | 6.578,35 | 6.774,29 | 6.970,22 | 7.166,15
-Zulagen C-Besoldung (Monatsbeträge in Euro)
+C 1 | 3.253,68 | 3.364,00 | 3.474,27 | 3.584,54 | 3.694,85 | 3.805,13 | 3.915,40 | 4.025,68 | 4.135,95 | 4.246,25 | 4.356,53 | 4.466,80 | 4.577,11 | 4.687,40 | 
+C 2 | 3.260,57 | 3.436,34 | 3.612,08 | 3.787,87 | 3.963,61 | 4.139,36 | 4.315,13 | 4.490,88 | 4.666,62 | 4.842,40 | 5.018,13 | 5.193,89 | 5.369,64 | 5.545,41 | 5.721,16
+C 3 | 3.579,05 | 3.778,06 | 3.977,08 | 4.176,10 | 4.375,11 | 4.574,11 | 4.773,11 | 4.972,11 | 5.171,12 | 5.370,11 | 5.569,12 | 5.768,14 | 5.967,12 | 6.166,15 | 6.365,13
+C 4 | 4.515,94 | 4.716,01 | 4.916,05 | 5.116,10 | 5.316,16 | 5.516,20 | 5.716,28 | 5.916,29 | 6.116,35 | 6.316,40 | 6.516,46 | 6.716,50 | 6.916,55 | 7.116,59 | 7.316,64
+Zulagen C-Besoldung
+(Monatsbeträge in Euro)
 Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil | Dem Grunde nach geregelt in | Betrag in Euro Vomhundert, Bruchteil |  |  | 
-Bundesbesoldungsordnung C | Nummer 3 | Nummer 5 |  |  |  |  |  | 
-Vorbemerkungen |  | Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*) |  | wenn ein Amt ausgeübt wird |  |  | 
-Nummer 2 b | 83,50 |  | der Besoldungsgruppe R 1 | 205,54 |  |  |  | 
- |  |  | der Besoldungsgruppe R 2 | 230,08 |  |  |  | 
+Bundesbesoldungsordnung C |  | Nummer 3 |  | Nummer 5 |  |  |  | 
+Vorbemerkungen |  |  | Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*) |  | wenn ein Amt ausgeübt wird |  | 
+Nummer 2 b | 85,25 |  |  |  | der Besoldungsgruppe R 1 | 205,54 |  | 
+ |  |  |  |  | der Besoldungsgruppe R 2 | 230,08 |  | 
  |  |  | für Beamte der |  |  |  |  | 
- |  |  | Besoldungsgruppe(n) |  |  | Besoldungsgruppe | Fußnote | 
- |  |  | C 1 | A 13 |  | C 2 | 1 | 104,32
- |  |  | C 2 | A 15 |  |  |  | 
- |  |  | C 3 und C 4 | B 3 |  |  |  | 
+ |  |  | Besoldungsgruppe(n) |  | Besoldungsgruppe | Fußnote |  | 
+ |  |  |  | C 1 | A 13 | C 2 | 1 | 104,32
+ |  |  |  | C 2 | A 15 |  |  | 
+ |  |  |  | C 3 und C 4 | B 3 |  |  | 
 Fußnoten
 *) Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes
