@@ -36,23 +36,23 @@ Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerd
 Leipzig II | Borna, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 g) | grenzüberschreitende Arbeitnehmerüberlassung, im Ausland ansässige Werkvertragsunternehmen und Werkvertrags-arbeitnehmer sowie Fälle des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 9. | Lohnsteuer-Außenprüfung |  | 
-a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-Chemnitz-Mitte | Annaberg Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Stollberg Zschopau
+a) | für Betriebe mit 100 oder mehr Arbeitnehmern | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
+Bautzen | Bautzen Görlitz Hoyerswerda Löbau
 Dresden-Nord | Dresden-Nord Dresden-Süd Freital Meißen Pirna
-Leipzig II | Borna Döbeln Eilenburg Grimma Leipzig I Leipzig II Oschatz
-Zwickau | Plauen Schwarzenberg Zwickau
-b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Mitte | Freistaat Sachsen
+Eilenburg | Eilenburg Oschatz
+Freiberg | Döbeln Freiberg Mittweida
+Grimma | Borna Grimma
+Zwickau | Hohenstein-Ernstthal Zwickau
+b) | bei Arbeitgebern im Sinne des § 20a AO | Chemnitz-Süd | Freistaat Sachsen
 10. | Steuerfahndung sowie Bußgeld- und Strafsachenstelle
 a) | allgemein | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Borna, Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 b) | bei zentralisierter Zuständigkeit für Fälle des § 20a AO oder Nummer 7 dieser Anlage | Chemnitz-Süd | Freistaat Sachsen
-11. | Grunderwerbsteuer | Borna | Borna Döbeln Grimma Oschatz
-Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
+11. | Grunderwerbsteuer | Dresden-Süd | Dresden-Nord Dresden-Süd Meißen
 Leipzig I | Eilenburg Leipzig I Leipzig II
 Löbau | Bautzen Freital Görlitz Hoyerswerda Löbau Pirna
-Plauen | Hohenstein-Ernstthal Plauen Zwickau
-Schwarzenberg | Annaberg Chemnitz-Mitte Chemnitz-Süd Freiberg Mittweida Schwarzenberg Stollberg Zschopau
+Schwarzenberg | Annaberg Borna Chemnitz-Mitte Chemnitz-Süd Döbeln Freiberg Grimma Hohenstein-Ernstthal Mittweida Oschatz Plauen Schwarzenberg Stollberg Zschopau Zwickau
 12. | Umsatzsteuer-Sonderprüfungen, Umsatzsteuer-Nachschauen und sonstige Ermittlungshandlungen im Sinne des § 88 AO zur Umsatzsteuer in länderübergreifenden und grenzüberschreitenden Fällen in Zusammenarbeit mit der Zentralen Koordinierungsstelle beim Bundeszentralamt für Steuern | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Borna, Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
