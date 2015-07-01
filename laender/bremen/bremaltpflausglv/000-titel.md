@@ -1,1 +1,1 @@
-# Verordnung über die Erhebung von Ausgleichsbeträgen zur Finanzierung der Ausbildungsvergütungen in der Altenpflege vom 9. September 2008
+# Verordnung über die Erhebung von Ausgleichsbeträgen zur Finanzierung der Ausbildungsvergütungen in der Altenpflegeausbildung (Bremische Altenpflegeausgleichsverordnung - BremAltPflAusglVO) vom 21. April 2015
