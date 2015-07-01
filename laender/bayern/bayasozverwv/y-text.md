@@ -1,0 +1,1 @@
+Auf Grund des § 1 Abs. 1 der Verordnung über die Einrichtung der staatlichen Behörden (BayRS 200-1-S) erlässt das Bayerische Staatsministerium für Arbeit und Soziales, Familie und Integration im Einvernehmen mit dem Bayerischen Staatsministerium für Umwelt und Verbraucherschutz folgende Verordnung:
