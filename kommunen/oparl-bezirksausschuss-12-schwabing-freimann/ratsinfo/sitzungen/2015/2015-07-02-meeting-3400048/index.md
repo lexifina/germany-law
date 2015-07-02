@@ -1,0 +1,125 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-07-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3400048
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3400048
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Vorstellung des kleinen Disc Golf Parcour im Norteil des Fröttmaninger Berges durch das Baureferat - Gartenbau
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 7.1.: Eilentscheidungen des Vorsitzenden a) Fußballturnier am 13.06.2015 auf dem Fußballplatz Guerickestraße - zugestimmt b) Sommerfest des Nachbarschaftstreffs Parkstadt Schwabing am 14.06.2015 - zugestimmt c) Kleiner Disc Golf Parcour im Norteil des Fröttmaninger Berges - zugestimmt
+- TOP 7.2.: Projekt ?Kollaborationsplattform?
+- TOP 7.3.: Überparteiliches Statement des Bezirksausschusses 12 zur Münchner Konzertsaaldebatte
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Verlagerung der Bezirksinspektion Nord
+- TOP 10: sonstiges
+- TOP 10.1.: Ferienausschuss 2015 (Beschluss über die Mitglieder; Wahl des Vorsitzenden)
+- TOP 10.2.: Sitzungstermine 2016
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Anlieferzone in der Feilitzschstraße 7-9
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Freimanner Bahnhofsstraße 24, Wesentliche Änderung der Abfallentsorgungsanlage der Münchener Akten + Daten Vernichtung GmbH
+- TOP 3.2.2.: Verfahren zur Inschutznahme des geplanten Naturschutzgebietes ?Südliche Fröttmaninger Heide?
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Anbringung eines ?Grünen Pfeils? an der Kreuzung (von Norden kommend) Ungererstraße / Schenkendorfstraße
+- TOP 4.2.: Keine dauerhafte Erhöhung der Zuschauerzahlen in der Allianz-Arena ? Entwicklung eines Anwohnerschutzkonzeptes
+- TOP 4.3.: Änderung der Parksituation in der Dietlindenstraße
+- TOP 4.4.: Beseitigung des ?Abfalls? an der Echinger Straße
+- TOP 4.5.: Unterbindung der Veranstaltungen des ?Fanprojekts München? am Admiralbogen
+- TOP 4.6.: div. Anfragen zur Verkehrsplanung am Mittleren Ring und an der Kreuzung Franz-Josef-Straße / Leopoldstraße
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Einrichtung eines Zebrastreifens und einer Tempo-30-Zone in der Ungererstraße zwischen Leopold- und Dietlindenstraße (OB-Entscheidung zur BV-Empfehlung E 00111)
+- TOP 5.1.2.: weiterer Eingang zum Nordfriedhof
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Kurzzeitparken und Haltverbot Weimarer Straße; Beschilderung der Geh- und Radwege
+- TOP 5.2.2.: Verlegung der Bücherbushaltestelle vom Carl-Orff-Bogen in die Paul-Hindemith-Allee
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Anbringung eines grünen Pfeils an der Ampel am östlichen Ende der Max-Bill-Straße zum Rechtsabbiegen in den Frankfurter Ring (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.2.: Errichtung einer Brücke über den Garchinger Mühlbachkanal und einer Brücke über den Garchinger Mühlbach ? Wasserrechtliche Genehmigung
+- TOP 5.3.3.: Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-System-U-S-Bahnfahrzeugen für die Region München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 (Sitzungsvorlage Nr. 14-20 / V 03124)
+- TOP 5.3.4.: Rechts- und Beschlusslage bezüglich Laubbläser (incl. Beschluss des Umweltausschusses vom 05.05.2015; Sitzungsvorlage Nr.: 14-20 / V 02862)
+- TOP 5.3.5.: Straßenbauarbeiten in der Max-Bill-Straße (Nordseite) ? Informationsschreiben des Baureferats an die Anwohner
+- TOP 5.3.6.: Information der MVG über das Betriebskonzept der Linien U3/U6 während der Bauwerksprüfung Poccistraße
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Theater Heppel & Ettlich Podiumsgespräche von Juli - Dezember 2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Domagkateliers gGmbH Offene Ateliertage vom 03. - 05.07.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion im August/September 2015
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Fußballabteilung des ESV München Freimann 60-Jahr-Feier der Fußballabteilung des ESV München Freimann vom 24.07. - 26.07.2015
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Zirkusprojekt vom 29.06. - 03.07.2015
+- TOP 3: Anhörungen (3)
+- TOP 3.1.: ?Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork? Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.09.2015
+- TOP 3.2.: Errichtung eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen auf dem Gebiet der ehemaligen Funkkaserne (Beschlussentwurf)
+- TOP 3.3.: Spielefest im Carl-Orff-Bogen-Park am 05.08.2015
+- TOP 3.4.: Grünanlage Sondermeierstraße ? Gottesdienst im Grünen am 25.07.2015
+- TOP 3.5.: Pfarr-Biergarten St. Ursula am 25.07.2015 auf dem Kaiserplatz
+- TOP 3.6.: Vereinsfest: 60 Jahre Fußballabteilung ESV Freimann, Frankplatz 15, vom 24. bis 26.07.2015
+- TOP 4: Bürgeranliegen (2)
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Kino im B-Plan Bayernkaserne
+- TOP 5.1.2.: Standortvorschlag für den neuen Konzertsaal in München
+- TOP 5.1.3.: Neubau eines Konzertsaals im Nordbereich der Münchner Freiheit
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Mr. Eis?, Cafe, Leopoldstraße 33
+- TOP 5.2.2.: ?Maggie Vietkitchen?, Schank- und Speisewirtschaft, Marktstraße 6
+- TOP 5.2.3.: ?Dhaba? (ehemals ?Ai Castelli?), Schank- und Speisewirtschaft, Herzogstraße 1 b
+- TOP 5.2.4.: ?Al Pacino?, Schank- und Speisewirtschaft, Leopoldstraße 87
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Mietvertrag für das Trainingsgelände des IsarDojo e.V. Leinthaler Straße 8
+- TOP 5.3.2.: Sofortprogramm für Einrichtungen zur Unterbringung von Flüchtlingen ? 4. Standortbeschluss Beschluss der Vollversammlung vom 29.04.2015; Sitzungsvorlage Nr.: 14-20 / V 03051
+- TOP 5.3.3.: Mehrjahresinvestitionsprogramm 2015-2019 (Antwort des Sozialreferats zur Stellungnahme des BA vom 24.03.2015)
+- TOP 5.3.4.: Verwendungsnachweise a) Konsortium Domagkpark für eine Neubürgerveranstaltung am 17.03.2015 b) Sozialservice-Gesellschaft des BRK GmbH für ein Weihnachtskonzert am 09.12.2014 c) Initiative ?Domagkpark? für die Info-Veranstaltung am 06.05.2015 d) Mohr-Villa Freimann e.V. für ein Theaterprojekt am 25.03.2015
+- TOP 5.3.5.: Bescheide a) KJR München Stadt/Freizeittreff Freimann für ein Mädchenwochenende am Walchensee vom 26. bis 28.06.2015 in Höhe von 750,00 ? b) KJR München Stadt/Freizeittreff Freimann für die Veranstaltung ?Spiel Spaß Spannung? am 05.08.2015 im Carl-Orff-Bogen-Park in Höhe von 796,50 ? c) Eltern-Kind-Initiative Osterwald e.V. für das Projekt ?Werkstadt 2015? - Ablehnung
+- TOP 5.3.6.: REGSAM ? Ein starkes Netzwerk für München: Trägerantrag auf Ressourcenerweiterung Beschluss des Kinder- und Jugendhilfe sowie Sozialausschusses vom 16.06.2015, Sitzungsvorlage Nr. 14-20 / V 01463
+- TOP 5.3.7.: Verschönerung des Kinderspielplatzes an der Alten Heide (Information des Baureferats-Gartenbau)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: Aufstellung von neuen Verkaufseinrichtungen, Hohenzollernstraße 26
+- TOP 2.2.: Erweiterung einer bestehenden Freischankfläche aufgrund der veränderten Gehwegsituation, Occamstraße 13
+- TOP 2.3.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Occamstraße 1
+- TOP 2.4.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Marktstraße 18
+- TOP 3: Anhörungen (4)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Osterwaldstraße 108, Fl.Nr. 1070/5, Neubau von Geschosswohnungen mit Tiefgarage ? Vorbescheid (3 Varianten), Fällungen gemäß Baumbestandsplänen
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Schererhofstraße, Fl.Nr. 969/3, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 3.2.2.: Tristanstraße 5, Fl.Nr. 799/19, Umbau / Sanierung eines Einfamilienhauses, Aufstockung 1. OG - Vorbescheid
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Brunnen erst im Winter abdrehen
+- TOP 5.1.2.: Workshop zur "Ertüchtigung der vorhandenen öffentlichen Grünflächen? in der Parkstadt Schwabing
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Ifflandstraße, Fl.Nr.; 1186/34, Fällung einer Esche als Gefahrenbaum
+- TOP 5.2.2.: Grünanlage Rohmederstraße, Fällung einer Esche als Gefahrenbaum
+- TOP 5.2.3.: Klementinenstraße 11, Fällung einer Fichte
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Baumaßnahmen der Stadtwerke München a) Fernwärmeprojekt Kaiserstraße b) Fernwärmeprojekt Maria-Probst-Straße
+- TOP 5.3.2.: Novellierung der Baumschutzverordnung ? Herausnahme der Gattung Fichte: Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.2012; Sitzungsvorlage Nr. 14-20 / V 01862; 6. Änderungsantrag Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2015
+- TOP 5.3.3.: Bebauungsplan für das Areal Heidemannstraße und Lokhalle 24 ? Antwort des Referats für Stadtplanung und Bauordnung auf BA-Schreiben vom 29.04.2015
+- TOP 5.3.4.: Erhalt des Heinrich-Mann-Hauses Leopoldstraße 59 - Antwort des Referats für Stadtplanung und Bauordnung auf BA-Schreiben vom 19.05.2015
+- TOP 5.3.5.: Mieterbeiratswahl 2015: Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder; Beschluss des Sozialausschusses vom 18.06.2015, Sitzungsvorlage Nr. 14-20 / V 03011
+- TOP 5.3.6.: Ehrenpreis für guten Wohnungsbau ? Verleihung der Ehrenpreise 2015; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015; Sitzungsvorlage Nr. 14-20 / V 03176
+- TOP 5.3.7.: Demografiebericht München - Teil 1 und 2; Analyse und Bevölkerungsprognose 2013 bis 2030 für die Stadtbezirke ; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015; Sitzungsvorlage Nr.: 14-20 / V 03197
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
