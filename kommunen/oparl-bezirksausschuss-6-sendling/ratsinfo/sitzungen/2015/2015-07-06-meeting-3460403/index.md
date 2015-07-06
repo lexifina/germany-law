@@ -1,0 +1,82 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2015-07-06T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3460403
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3460403
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: Schrebergartenmarkt am Harras
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Unterkunft für Flüchtlinge am Standort Meindlstraße Informationsveranstaltung am 07. Juli 2015
+- TOP 4.2.: Informationsschreiben für Flüchtlinge
+- TOP 4.3.: Jugendgang am Kidlerplatz Wiedervorlage
+- TOP 4.4.: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork; Stellungnahme Unterausschuss
+- TOP 4.5.: Mieterbeiratswahl 2015
+- TOP 4.6.: REGSAM
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Zukunft der Mittagsbetreuung der Plinganserschule / Sanierungsplan für die Plinganserschule Raumsituation an der Grundschule Implerstraße; Errichtung von Containerschulräumen
+- TOP 6.1.: Freischankfläche der Gaststätte "Agora", Aberlestraße 1
+- TOP 7.1.: Sommerfest SPD-Ortsverein Sendling in der Kidlerstr. 16, 08.08.2015
+- TOP 7.2.: Pfarrfest St. Margaret auf dem Margaretenplatz; 19.07.2015
+- TOP 7.3.: Anordnung von Tempo 30 am Greinerberg - <div>Kenntnisahme</div>
+- TOP 7.4.: Bavariastraße 12-16; Installation eines Verkehrsspiegels
+- TOP 7.5.: Parksituation Implerstraße 23; Verkehrsrechtliche Anordnung
+- TOP 7.6.: Verkehrsführung vom Luise-Kiesselbach-Tunnel ins Stadtzentrum; Fristverlängerung
+- TOP 7.7.: Fahrplanlinie U3/U6 während Bauwerksprüfung Poccistraße
+- TOP 8.2.: (E) Budget der Bezirksausschüsse Freunde und Förderer Geistlicher Musik an St. Margaret e.V. Chor- und Orchesterkonzert am 25.10.2015
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Sendlinger Kulturschmiede e.V. Broschüre "Menschen aus Sendling"
+- TOP 8.4.: (E) Budget der Bezirksausschüsse Sendlinger Kulturschmiede e.V. Sommerfeierabend am 25.07.2015
+- TOP 8.5.: (E) Budget der Bezirksausschüsse Initiative "Historische Lernorte Sendling" Stufe 2 des Projektes "Sendling-arisiert" ab 17.08.2015
+- TOP 8.6.: (E) Budget der Bezirksausschüsse Anschwung Initiative "Sendling" Herausgabe eines Familienatlas
+- TOP 8.7.: Budget-Antrag Teestube "komm"-Streetwork; Sommerfest am 07.08.2015, ? 180,-
+- TOP 8.8.: Projekt Kollaborationsplattform
+- TOP 8.9.: Ablauf von Bürgerversammlungen optimieren
+- TOP 8.10.: Form der Einladung zur Bürgerversammlung
+- TOP 8.11.: Anhörungsrecht bei Änderung der Perspektive München Leitlinie
+- TOP 8.12.: (E) Budget der Bezirksausschüsse Theater I-piccoli Figurentheaterstück am 13./14.06.2015 und im Dezember 2015/Januar 2016
+- TOP 8.13.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube ?komm?-Streetwork am 07.08.2015
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldelisten Bauvorhaben
+- TOP 9.2.: Bauvorhaben Lindwurmstraße 185
+- TOP 9.3.: Bauvorhaben Flößergasse
+- TOP 9.4.: Bauvorhaben Kidlerstraße 20
+- TOP 9.5.: Barrierefreiheit von der Marbach- zur Heckenstallerstraße
+- TOP 9.6.: Zwei-System U-S-Bahnfahrzeuge
+- TOP 9.7.: Ehrenpreis für guten Wohnungsbau
+- TOP 9.8.: Demografiebericht München
+- TOP 10: Baureferat
+- TOP 10.1.: Parkpflegewerk Flaucheranlagen
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Schäftlarnstraße 100
+- TOP 11.2.: Baumfällung Plinganserstraße 7
+- TOP 11.3.: Efeubewachsener Baum an der Südostecke der Danklstraße/Oberländerstraße Umgefahrener Baum an der Kreuzung Albert-Roßhaupter-Straße/Meindlstraße
+- TOP 11.4.: Gefahrenbaumfällung Karwendelstraße 38
+- TOP 11.5.: Laubbläser
+- TOP 12: Anträge
+- TOP 1: (E) Radlweg in der Schäftlarnstraße Empfehlung Nr. 14-20 / E 00284 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 18.11.2014
+- TOP 1.2.: Radweg Radlkoferstraße; abweichender Beschluss
+- TOP 1.3.: Verkehrsberuhigung Brudermühlstraße; abweichender Beschluss
+- TOP 1.4.: Barrierefreier Aufgang Zechstraße/Flößergasse; Fristverlängerung
+- TOP 1.5.: Umsetzung der Baumschutzverordnung in Sendling; Fristverlängerung
+- TOP 1.6.: Innenhof des Anwesens Implerstraße 69 für Kinder der Elterninitiative "Die Buntstifte e.V."; abweichender Beschluss BV-Empfehlung Nr. 246 vom 18.11.2014
+- TOP 14: Verschiedenes
+- TOP 14.1.: Bürgerhaushalte; Informationsveranstaltung 24.06.2015
+- TOP 14.2.: Oktoberfest 2015
+- TOP 14.3.: Öffnung der gesperrten Isartalstr. am Westufer des Großen Stadtbachs, sowie Öffnung der Unterführung unter dem Mittleren Ring auf dem SWM-Areal für Fußgänger und Radfahrer - <div>zur Kenntnis genommen</div>
+- TOP 14.4.: Nachnutzung für die SWM-Lagerhalle in der Hans-Preißinger-Straße
+- TOP 14.5.: Einladung zum Jour-Fixe des Kulturreferates am 13.07.2015
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
+- TOP 8.3.: (E) Budget der Bezirksausschüsse Sendlinger Kulturschmiede e.V. Broschüre "Menschen aus Sendling"
