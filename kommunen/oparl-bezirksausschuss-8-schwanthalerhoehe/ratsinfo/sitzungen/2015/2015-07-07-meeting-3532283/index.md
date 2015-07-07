@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2015-07-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3532283
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3532283
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 2.1.: Amtsniederlegung von Andreas Lotte und Amtseinführung von Holger Henkel
+- TOP 2.2.: Bekanntgabe der Nach- und Neubesetzung der Unterausschüsse durch die Fraktionen
+- TOP 2.3.: Wahl des/der Vorsitzenden des UA Bauen, Planen, Wohnen und Gewerbe
+- TOP 2.4.: Wahl des/der Vorsitzenden des UA Budget und Finanzen
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: AKIM (Allparteiliches Konfliktmanagement München) stellt sich vor
+- TOP 3.3.: Ganztag Bergmannschule
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1.: Genehmigung einer Freischankfläche in der Kazmairstraße 33
+- TOP 6.2.: Sondernutzungserlaubnis Kazmairstraße 24
+- TOP 6.1.: Bauvorhaben Tulbeckstraße 32
+- TOP 6.2.: Einkaufsquartier Theresienhöhe; Theresienhöhe 5, 6, 6 a-c, /Gollierstraße 6
+- TOP 6.1.: Modernisierungsmaßnahme Guldeinstraße
+- TOP 6.2.: Gaststättenfortführung Schwanthaler Straße 135
+- TOP 6.3.: Meldelisten
+- TOP 6.4.: Lärmbelästigung von Corps Alemannia- Bürgerschreiben
+- TOP 6.5.: Gaststättenfortführung Garmischer Straße 10
+- TOP 6.6.: Beschluss der Vollversammlung des Stadtrates vom 01.07.2015
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.1.: Zwischennachricht; Antrag Nr. 1223
+- TOP 7.2.: Errichtung eines Neubaus auf dem Anwesen der Schrenkstraße 8/Westendstraße 66a
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Bewohnerparken in der Schießstättstraße
+- TOP 8.2.: Anhörung, Empfehlung 421
+- TOP 8.3.: Eröffnungsfeier MVG-Rad
+- TOP 8.1.: Versammlung auf öffentlichem Grund
+- TOP 8.2.: Nachrüstung von Sicherheitseinrichtungen - Trappentreutunnel
+- TOP 8.3.: Oktoberfest 2015 - Schlussbericht
+- TOP 8.4.: Radeln im Stadtbezirk
+- TOP 8.5.: Filmaufnahmen - 1; Kurt-Haertel-Passage zu Theresienhöhe
+- TOP 8.6.: Filmaufnahmen -2; Hackerbrücke
+- TOP 8.7.: Einrichtung Sonderparkplatz Westenstraße
+- TOP 8.8.: Carl-Benz-Denkmal
+- TOP 8.9.: Internationales Fest des Evang. Migrationszentrums im Griechischen Haus, Gollierplatz am 27.06.2015
+- TOP 8.10.: Versammlung auf dem St.Pauls-Platz am 25.06.2015
+- TOP 8.11.: Versammlung auf dem St-Pauls-Platz am 25.07.2015
+- TOP 9: Budget und Finanzen
+- TOP 9.2.: (E) Budget der Bezirksausschüsse IG - InitiativGruppe Interkulturelle Begegnung und Bildung e.V. Jubiläumsfeier am 24.07.2015
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung Jour Fixe - Kulturreferat
+- TOP 11.2.: Ablauf der Bürgerversammlungen
+- TOP 11.3.: Neuer Vorstand im Kreisjugendring München-Stadt
+- TOP 12: Protokoll und Umlauf
+- TOP 9.9.1: Entscheidungen
+- TOP 9.9.2: Anhörungen
+- TOP 9.9.3: Unterrichtungen
