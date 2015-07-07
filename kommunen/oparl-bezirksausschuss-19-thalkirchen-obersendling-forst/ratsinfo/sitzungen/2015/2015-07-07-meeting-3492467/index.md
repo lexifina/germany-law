@@ -1,0 +1,63 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-07-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492467
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492467
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 09.06.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 2.1.: (Antrag) BA20 ? Satzungsänderung ? Perspektive München
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (A) Wertstoffcontainer Wilhelm-Busch-Str./Alfred-Kubin-Weg
+- TOP 4.3.: (Antrag) Grillplätze am Südpark einrichten
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrsgutachten Campus Süd
+- TOP 5.2.: (Antrag) Herterichstr./Sörgelstr.
+- TOP 5.3.: (Antrag) Parksituation Pognerstr.
+- TOP 5.4.: (Antrag) Schleichverkehr Steinkirchner Str.
+- TOP 5.5.: Verkehrskonzept 19. Stadtbezirk
+- TOP 5.6.: (A/U) Veranstaltungen
+- TOP 5.7.: (E) Freischankfläche Zielstattstr. 12
+- TOP 5.8.: (U) Verkehrsrechtliche Anordnungen
+- TOP 5.9.: (U) Gaststättenfortführung: Boschetsrieder Str. 136
+- TOP 0: Bericht (3)
+- TOP 0.10.: Auskunft zur Sperrung der Thalkirchner Brücke wegen Filmaufnahmen am 15.04.2015 - <div></div>
+- TOP 0.11.: Umbenennung "Thalkirchner Platz" - <div></div>
+- TOP 0.12.: Harmonisches Zusammenleben der Generationen im Stadtbezirk fördern - Drygalski-Allee-118 - <div></div>
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Bauleitplanung Gemeinde Neuried ?Südlich Grubenstraße?
+- TOP 6.3.: (U) Grundstücksverkauf Gewerbegebiet Koppstr.
+- TOP 6.4.: (A) Bebauungsplan Nr. 40 Gemeinde Pullach ?Hans-Kreis-Straße?
+- TOP 6.5.: (Antrag) Gestaltung von Dächern in Gartenstädten und Einfamilienhausgebieten
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (Antrag) Sportplatz Katholisches Jugendsozialwerk
+- TOP 7.2.: (A) Generalinstandsetzung des Sporthallen- und Schwimmbadtraktes im Schulzentrum Fürstenried West
+- TOP 7.3.: (Antrag) Kostenloser Internetzugang für Flüchtlinge
+- TOP 0: Bericht (5)
+- TOP 0.4.: Bildungseinrichtungen im Münchner Süden; Probleme - Konzepte - Lösungen - <div></div>
+- TOP 0.5.: Standortverlagerung des Sozialbürgerhauses der Sozialregion 19 und 20 - <div></div>
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: (Antrag) Stadtteilwoche, Kulturtage
+- TOP 0: Bericht (6)
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.13.: Auskunft Verkehrsgutachten Campus Süd - <div></div>
+- TOP 0.14.: Schaukasten am Schweizer Platz - <div></div>
+- TOP 1: Allgemeiner Teil
