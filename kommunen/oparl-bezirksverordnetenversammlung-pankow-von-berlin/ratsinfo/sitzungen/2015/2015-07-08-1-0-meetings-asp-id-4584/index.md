@@ -1,0 +1,71 @@
+# 33. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2015-07-08T17:30:00+02:00
+- Ende: 2015-07-08T20:15:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4584
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=4584
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=68243
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 - die Grenze verläuft entlang den Straßenzügen Prenzlauer Allee, Danziger Straße, Greifswalder Straße sowie entlang der Grenze zum Ortsteil Weißensee - im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wahl einer Schiedsperson für den Schiedsamtsbezirk 7 - die Grenze verläuft entlang der Straßenzüge Schönhauser Allee und Danziger Straße sowie entlang der Grenze zu den Bezirken Friedrichshain - Kreuzberg und Mitte - im Bezirk Pan-kow - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Übertragung der Kita Agnes-Wabnitz-Str. 9 in 10249 Berlin an den Träger Bürgerhaus e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Informationspolitik zur Unterbringung von geflüchteten Menschen in Berlin Buch ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Bürgerinformation zur Änderung der B-Pläne XVIII-20a und XVIII-24-1 - in der BVV abgelehnt
+- TOP 1.13: Mitglieder des Widerspruchsbeirates für Sozialhilfeangelegenheiten auf der Internetseite des Bezirksamtes veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Europäische Initiative zur verantwortungsvollen Wohnungswirtschaft - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausweitung der Gebiete des sozialen Erhaltungsrechts ("Milieuschutzgebiete") im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Erstellung eines Integrierten Stadtentwicklungskonzeptes für den Mühlenkiez - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Finanzielle Unterstützung für ehrenamtliche Betreuung Geflüchteter - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Erweiterung des Denkmalbereichs Gesamtanlage Ernst-Thälmann-Park - überwiesen
+- TOP 1.19: Bezirkliches Konzept zur Ladeinfrastruktur für Elektrofahrzeuge - überwiesen
+- TOP 1.20: Mobilitätshilfedienste sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Öffnungszeiten des Sommerbad Pankow: Auch für Berufstätige - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Evaluation der erhaltungsrechtlichen Genehmigungskriterien und ihrer Anwendung in den Milieuschutzgebieten Pankows - überwiesen
+- TOP 1.23: Einwohnerversammlung in Karow einberufen - in der BVV abgelehnt
+- TOP 1.24: Kampagne "Handel(n) verbindet" unterstützen! - überwiesen
+- TOP 1.25: Stellenzuweisung der Jugendämter für die Aufgabenerfüllung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Umgang mit Altkleidersammelcontainern - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Generationenspielplatz in der Stadtrandsiedlung Kappgraben mit einem Schwerpunkt Sport und Spiel für Erwachsene - überwiesen
+- TOP 1.28: Entgeltverhandlungen für die Eingliederungshilfen nach § 53 und 54 SGB XII unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Krähensichere Abfallbehälter für die Parkanlagen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Migrations- und Rechtsberatung für Menschen ohne Aufenthaltsstatus - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Spielleitplan umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Freies WLAN für Pankow und Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Pilotprojekt flexible Betreuungszeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4.1: Neue Angebote zur Flexiblen Kinderbetreuung in Pankow entwickeln und erproben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Türschließung bei Tatra-Straßenbahnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Thomas-Mann-Schwimmhalle weitersanieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Internetportal und Webserver von jugendnetz-berlin.de als Ressource für Stadt und Bezirk retten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Sportbetontes Schulangebot im Bezirk Pankow ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Ausbildung Pflegefachkräfte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Erster Betriebskindergarten im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Lebensqualität in einstiger Bürostadt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Sportplatz-Benennung nach Helmut Faeder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Schnelles Internet und W-LAN für die Kurt-Tucholsky-Bibliothek - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Personelle Ausstattung mit Schulhausmeistern und Platzwarten an tatsächlichen Bedarf anpassen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Kirche von Unten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Bezirkliche Archive dauerhaft im Landesarchivgesetz verankern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Spielplatz nicht für Flüchtlinge? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Information zum Jahresabschlussergebnis 2014 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Aufstellung des Bebauungsplans 3-18 für die Grundstücke Tollerstraße 1 - 4, die westlich der Straße 78 gelegenen Grundstücke und das Gelände der Kleingartenanlage "Am Bahnhof Wilhelmsruh", die Grundstücke Kopenhagener Straße 82 und 96, das Flurstück29 der Flur 145 sowie ein Abschnitt der Tollerstraße im Bezirk Pankow, Ortsteile Wilhelmsruh und Niederschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Verteilung der Erträge der Sammelstiftung Kreuzberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennung des Sportplatzes des SV Buchholz e.V. Chamissostraße 9 - 11, 13127 Berlin "Helmut-Faeder-Sportplatz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennungsabsicht für einen öffentlichen Platz im Ortsteil Prenzlauer Berg in "Minna-Flake-Platz" - mit Abschlussbericht zur Kenntnis genommen
