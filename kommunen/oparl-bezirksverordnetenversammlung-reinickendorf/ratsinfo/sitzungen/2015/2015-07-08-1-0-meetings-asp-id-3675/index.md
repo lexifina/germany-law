@@ -1,0 +1,85 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-07-08T17:00:00+02:00
+- Ende: 2015-07-08T18:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3675
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3675
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=84252
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 43. Sitzung der BVV am 08.07.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 43. Sitzung der BVV am 08.07.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 43. Sitzung der BVV am 08.07.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Abschlussbericht des Temporären Ausschusses "Personalbedarfskonzept" - mit Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Schlaglochsanierung Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Schulwegsicherung Miraustraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Gelände- und Übersichtspläne für den Freizeitpark Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Zusätzliche Grundschule für Reinickendorf-OST dringend benötigt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Reinigung der Entwässerungsgräben kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Verkehrssituation an der Feuerwache Wittenau verbessern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Rechte und Pflichten der Patientenfürsprecher detaillierter regeln - überwiesen
+- TOP 7.8: Palliativversorgung in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Videoüberwachung auf Reinickendorfer S-Bahnhöfen verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Dem "Lehrer-burn-out" vorbeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Standort Fahrradparkhaus (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.12: Notinselprojekt bekannter machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Parkbänke ersetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Berufsbezogene Deutschkurse für Migranten für Kunden des Jobcenters - überwiesen
+- TOP 7.15: Auswertung der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4a Abs. 3 BauGB zum Bebauungsplanverfahren 12-26B-1 für die Grundstücke Blankestraße 4, 5, 7 ,8, 8A und 8B sowie Gotthardstraße 92, 96 und 100 im Bezirk Reinickendorf - überwiesen
+- TOP 7.16: Bericht des Partnerschaftsbeauftragten - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Sekundarschulangebot ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Geeignete Angebote für Schüler mit Verhaltensauffälligkeiten entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Verkehrsfluss Beyschlagstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Unterflurhydranten Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Eine Uhr für das Fontanehaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Wettbewerb "Blühender Schulhof" - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wartezeiten im Bürgeramt abbauen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Zusätzliche Gewaltprävention an Oberschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Verkehr in der Heinsestraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Einführung von Dokumentenprüfgeräten in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Infotafel vor dem Luftschutzbunker in Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Lärmschutz in Heiligensee verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Bearbeitungszeiten im Jugendbereich - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Nutzungszeiten für öffentliche Sportstätten - erledigt
+- TOP 10.15: Information über IGA 2017 am Außenstandort Frohnau einrichten und für Spenden werben - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Die Ausstellung "Was glaubst du denn" nach Reinickendorf holen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Beschluss über den Bebauungsplanentwurf 12-31 vom 14. Oktober 2014 und über den Entwurf der Rechtsverordnung für Teilflächen des Grundstücks Bernauer Straße 151 im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Rauch- und Alkoholverbot auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Regenschutz für Fahrradabstellanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Wirtschaftszeitung für Schüler kostenlos - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Klassenfrequenz für Kinder mit emotional sozialen Symptomen - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Globalsumme für die Jugendarbeit - überwiesen
+- TOP 10.23: Verkehrskonzept Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: "Zu Fuß zur Schule - selbst sicher mobil" - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Arbeiten des Straßen- und Grünflächenamtes auf der Internetseite mittels Arbeitskalenders rechtzeitig ankündigen - überwiesen
+- TOP 12.3: Reinickendorf summt - überwiesen
+- TOP 12.4: Reinickendorfer THW-Standort sichtbar machen - überwiesen
+- TOP 12.5: Bolzplatz Wittenau - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Flohmarkt Markstraße - überwiesen
+- TOP 13.2: Volkspark Wittenau umbenennen in Göschenpark - überwiesen
+- TOP 13.3: Bushaltestelle Welfenallee mit Wartehäuschen ausstatten - überwiesen
+- TOP 13.4: Genehmigungsverfahren von Gebrauchtwarenmärkten mit sensibler Umfeldbetrachtung - überwiesen
+- TOP 13.5: Lichtsignale für Radfahrer in der Scharnweberstraße sichtbar machen - überwiesen
+- TOP 13.6: Übertragung Strandbad Tegel - überwiesen
+- TOP 13.7: Uhr am S-Bhf. Wittenau dauerhaft reparieren - ohne Änderungen in der BVV beschlossen
