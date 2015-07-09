@@ -1,0 +1,78 @@
+# 39. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-07-09T16:30:00+02:00
+- Ende: 2015-07-09T21:40:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4221
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4221
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=109940
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-44 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - im Ausschuss abgelehnt
+- TOP 8.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Wirtschaftsförderung, Tourismus und Immobilien - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Umsetzung des Beschlusses "Schließung der Kultureinrichtungen in freier Trägerschaft abwenden" - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2016 und 2017 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verkehrssicherheit in der Hartriegelstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Kooperation(en) in der Umweltbildung an Schulen und Kindertagesstätten fördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sichere Wege trotz Durchgangsverkehr in der Köllnischen Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Veranstaltungsort in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Einrichtung eines Radweges auf der Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Ökologische Bauleitplanung und artenschutzrechtliche Maßnahmen im Bebauungsplan (B-Plan) 9-34 "Regatta-Quartier" - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Eindeutiger Hinweis der Linksabbiegefahrspur von der Oberspreestraße in die Ottomar-Geschke-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Sauberkeit im Landschaftspark Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Fahrbahnmarkierung am Dammweg aus Richtung Grenzallee kommend entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Erkennbarkeit von Lichtsignalanlagen an den Kreuzungen Bahnhofstraße / Friedrichshagener Straße und Bellevuestraße / Fürstenwalder Damm verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: A100-Baustelle in der Kiefholzstraße für nichtmotorisierte Verkehrsteilnehmerinnen und Verkehrsteilnehmer sicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Straßenbenennung Alois Kloecker - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sammlung über die Plastiken, Denkmäler und Brunnen veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Gedenken an Märzgefallene - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Hunzinger-Skulptur "Die sich Erhebende" am alten Standort aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Inklusion und Barrierefreiheit in Anlagen und Einrichtungen des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Zentrum für Demokratie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Zentrum für Demokratie - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.4: Bezirksregionenprofile (BZRP) für Niederschöneweide, Adlershof, Köllnische Vorstadt / Spindlersfeld - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Stasiüberprüfung der Bezirksverordneten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Straßenbenennung nach Lucie Großer - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Rodelberg im Mentzelpark - überwiesen
+- TOP 14.3: Einzugsbereich von Gemeinschaftsschulen klar definieren - überwiesen
+- TOP 14.4: Beteiligung am europaweiten autofreien Tag - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Rettet die Kultur - Für den Erhalt des Stadttheater Cöpenick - überwiesen
+- TOP 14.6: Regionale Archive erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Gemeinbedarfsflächen im Entwicklungsgebiet Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Kontrollen der ausgeführten Straßenbauarbeiten - überwiesen
+- TOP 14.9: Fahrradstraße Stellingdamm und Waldburgweg - überwiesen
+- TOP 14.10: Straßenbenennung in Bernhard-Langwaldt-Weg - überwiesen
+- TOP 14.11: Beleuchtung im Bellevuepark wiederherstellen - überwiesen
+- TOP 14.12: Parken in Kreuzungsbereichen - überwiesen
+- TOP 14.13: Schutz der öffentlichen Erholungs- und Grünanlagen <span style="color: #888a85" title="Zusatzinfo">(Betreff mit Änderungsantrag geändert)</span> - überwiesen
+- TOP 14.14: Postversorgung in Baumschulenweg vollumfänglich erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Kein Gift auf dem Kunstrasenplatz - überwiesen
+- TOP 14.16: Hinweisschild für "Bunkerberg" in Adlershof - überwiesen
+- TOP 14.17: Kompensationsmaßnahme "Schwimminseln" am Spreeufer - überwiesen
+- TOP 14.18: Bedarfsplanung zur ärztlichen Versorgung - überwiesen
+- TOP 14.19: Vereinbarkeit von Beruf und Familie verbessern - überwiesen
+- TOP 14.20: Beleuchtung am S-Bahnhof Treptower Park - überwiesen
+- TOP 14.21: Verkehrssicherheit für Fußgängerinnen / Fußgänger und Radfahrerinnen / Radfahrer an der S-Bahnbrücke am Treptower Park erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Finanzierung Kulturarbeit - überwiesen
+- TOP 15: Große Anfragen - (offen)
