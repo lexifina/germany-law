@@ -1,0 +1,89 @@
+# 46. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-07-09T17:00:00+02:00
+- Ende: 2015-07-09T21:15:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3308
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3308
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=120873
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Einwohnerfragestunde - erledigt
+- TOP 9: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 9.1: Stand der Umsetzung des Antrages Inklusion im Bereich Kultur und Weiterbildung sichern - DS/1235/VII - beantwortet
+- TOP 9.2: Kinderopernhaus Lichtenberg - beantwortet
+- TOP 9.3: Zukunft an der Landsberger Allee - beantwortet
+- TOP 9.4: Sportgeräte im Quartierspark Gensinger Straße wieder fit machen - beantwortet
+- TOP 9.5: Jugendamtsprotest auch in Lichtenberg? - beantwortet
+- TOP 9.6: Straßenschäden durch Hitze im Bezirk - beantwortet
+- TOP 9.7: Treppengeländer in der Max-Taut-Aula - beantwortet
+- TOP 9.8: Grundschule in der Victoriastadt - beantwortet
+- TOP 9.9: Terminvergabe in Bürgerämtern - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Einwohnerantrag: "Wir wollen im Hubertusbad schwimmen" - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Sicherung der Kleingartenanlagen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Personelle Voraussetzungen zur Sicherung der Aufgabenerfüllung im Jugendamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Generelle Finanzierung der Mobilitätskosten für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Für junge Geflüchtete - Schule und Ausbildung - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Geflüchtete Menschen in Wohnungen statt in Gemeinschaftsunterkünfte unterbringen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sichere Fahrbahnüberquerung in der Gotlindestraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Aufhebung der Rückbauverpflichtung nach senioren- und behindertengerechten Wohnungsanpassungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Berufsbezogene Deutschsprachkurse für Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Unterstützung nach Vandalismusschaden - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: BVV-Sondermittel für Ausstellung in Hohenschönhausen - überwiesen
+- TOP 10.12: Mehr Integrationslotsenstellen für den Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Einrichtung einer Spielstraße im Kyllburger Weg - überwiesen
+- TOP 10.14: Entwicklung der Wirtschaftsverkehre in der Vulkanstraße berücksichtigen - überwiesen
+- TOP 10.15: Rattenbekämpfung am Anton-Saefkow-Platz - überwiesen
+- TOP 10.16: Baustellen inklusiv gestalten! - überwiesen
+- TOP 10.17: Lichtenberg beteiligt sich an der Europäischen Woche der Mobilität - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Gärtnerische Pflege von landeseigenen Friedhöfen verbessern - überwiesen
+- TOP 10.19: Bezirkliche Kulturarbeit für die Zukunft sichern - überwiesen
+- TOP 10.20: Parkplatzmarkierung Frankfurter Allee Süd - überwiesen
+- TOP 10.21: Parken an/auf der Frankfurter Allee - überwiesen
+- TOP 10.22: Ein vierter Flaggenmast für das Lichtenberger Rathaus - überwiesen
+- TOP 10.23: Pflegestützpunkte bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Sicherheit für Fußgänger/innen und Fahrradfahrer/innen am U-Bahnhof Frankfurter Allee/Ecke Gürtelstraße erhöhen - überwiesen
+- TOP 10.25: Sporthallen für Jugendfreizeiteinrichtungen öffnen - überwiesen
+- TOP 10.26: Herausgabe einer Sonderbriefmarke unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Rummelsburger See wird Landschaftsschutzgebiet - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.28: Würdigung der VerkehrshelferInnen (Schülerlotsen) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.29: 120 Jahre Karlshorst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Mehr öffentliche Toiletten in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.31: Fahrstreifenbegrenzung in der Konrad-Wolf-Straße - überwiesen
+- TOP 10.32: Trinkwasserangebot für wartende Kundinnen und Kunden in den Lichtenberger Bürgerämtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.33: Willkommensinitiative und Willkommensportal für Ärzte einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.34: Fahrbahnmarkierung Kreuzung Landsberger Allee/Judith-Auer-Straße - überwiesen
+- TOP 10.35: Parken am Wochenende vor den Kitas in der Schulze-Boysen-Straße erlauben - überwiesen
+- TOP 10.36: Falkenberger Infrastruktur an neue Bedarfe anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: 105 Jahre Frauentag 2016: Eine Ausstellung über Lichtenbergerinnen und ihre Berufe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.38: Umsetzung der SIWA-Mittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.39: Ergebnisse der Studie zum Gewerbegebiet Herzbergstraße - überwiesen
+- TOP 10.40: Bebauungsplan 11-9c - Änderung des Geltungsbereichs Arbeitstitel: östlich Konrad-Wolf-Straße 45 - 46 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.41: Bebauungsplan 11-93 - frühzeitige Beteiligungen Arbeitstitel: Frankfurter Allee 135 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.42: Einführung eines berlineinheitlichen elektronischen Verfahrens Anliegenmanagement - AMS im Ordnungsamt ab 01.07.2015 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.43: Bebauungsplan 11-109 - Aufstellungsbeschluss Arbeitstitel: KGAen "Frühauf II" und "Gute Hoffnung" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Resolution für die Schaffung von neuen Schulen und Schulplätzen im Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Fundfahrräder in Lichtenberg nutzbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Transparenz bei kommunalen Wohnungsunternehmen einfordern - überwiesen
+- TOP 12.4: Mehr Lärmschutz und Verkehrssicherheit in Falkenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 13.1: Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - überwiesen
+- TOP 13.2: Finanzielle Handlungsspielräume 2015 nutzen - überwiesen
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Bessere Kommunikation in Flüchtlingsfragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15: Schließung der Sitzung - erledigt
