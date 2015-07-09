@@ -1,0 +1,76 @@
+# 13. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-07-09T16:00:00+02:00
+- Ende: 2015-07-10T21:38:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4147
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4147
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2015_07_09/10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00212750.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Aktuelle Stunde zum Dresdner Sozialticket - erledigt
+- TOP 4: Dresdner Sozialticket – Mobilität für alle Menschen - Zustimmung mit Änderung
+- TOP 5: Einigungsverfahren Gremienbesetzung - beschließende Ausschüsse
+- TOP 5.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Diensleistungen) - Einigung
+- TOP 5.2: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 5.3: Ausschuss für Stadtentwicklung und Bau - Einigung
+- TOP 5.4: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 5.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen) - Einigung
+- TOP 5.6: Jugendhilfeausschuss - erledigt
+- TOP 5.7: Ausschuss für Kultur - Einigung
+- TOP 5.8: Ausschuss für Soziales und Wohnen - Einigung
+- TOP 5.9: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 5.10: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 5.11: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 5.12: Ausschuss für Petitionen und Bürgeranliegen - Einigung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Stellvertretung Beiräte - Fraktionssitze
+- TOP 6.1: Seniorenbeirat - Einigung
+- TOP 6.2: Ausländerbeirat - Einigung
+- TOP 6.3: Beirat Gesunde Städte - Einigung
+- TOP 6.4: Kleingartenbeirat - Einigung
+- TOP 6.5: Behindertenbeirat - Einigung
+- TOP 6.6: Wohnbeirat - Einigung
+- TOP 7: Umbesetzungen im Ortsbeirat Prohlis - Zustimmung
+- TOP 8: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 9: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 10: Besetzung von Stellvertretern in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 11: Wahl eines Amtsverwesers/einer Amtsverweserin - Vertagung
+- TOP 12: Tagesordnungspunkte ohne Debatte
+- TOP 13: Vertagungen Stadtratssitzung 7. Mai 2015
+- TOP 13.1: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - punktweise Zustimmung
+- TOP 13.2: Wahl der Vertreter/innen der Landeshauptstadt Dresden und ihrer Stellvertreter/innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsische Sparkasse Dresden - punktweise Zustimmung
+- TOP 14: Vertagungen Stadtratssitzung 18. Juni 2015
+- TOP 14.1: Wiederherstellung der originalen Fassung der Beleuchtung Kuppelhalle bei der Sanierung des Neuen Rathauses Dresden - Zustimmung mit Änderung
+- TOP 14.2: Strategiepapier zur Suchtprävention in Dresden - Zustimmung
+- TOP 14.3: Kinderbetreuung gut bezahlen: Eltern bei Mehraufwendungen für Ersatzbetreuung entlasten - Vertagung
+- TOP 15: Vergabe des Grundstückes Katharinenstraße 9, Änderung des Beschlusses zum Antrag A0843/14, SR/066/2014 - Vertagung
+- TOP 16: Grunderwerb für den Schulstandort 32. Oberschule und Gymnasium Tolkewitz am ehemaligen "Straßenbahnhof Tolkewitz" - Zustimmung
+- TOP 17: Einbeziehung weiterer Beteiligungsgesellschaften in den Liquiditätsverbund der Landeshauptstadt Dresden - Zustimmung
+- TOP 18: Übernahme einer modifizierten Ausfallbürgschaft für die STESAD GmbH - Zustimmung
+- TOP 19: Langfristige Sicherung eines stabilen Zinsniveaus für Investitionsfinanzierungen für den Bereich Abwasser - Zustimmung mit Änderung
+- TOP 20: Änderung der Geschäftsordnung des Stadtrates der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 21: Entgeltordnung für die zeitweise Überlassung von Räumen im Kulturrathaus Dresden, Königstr. 15 - Zustimmung mit Änderung
+- TOP 22: Eintrittspreise der Dresdner Musikfestspiele 2016 - Zustimmung
+- TOP 23: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2015/2016 - Verweisung
+- TOP 24: Schließung der Kindertageseinrichtung Oskar-Seyffert-Straße 11 in 01189 Dresden - Vertagung
+- TOP 25: Aufnahme der Kindertageseinrichtung Darwinstraße 19 in 01109 Dresden in den Bedarfsplan der Landeshauptstadt Dresden unter der Trägerschaft des Caritasverbandes für Dresden e. V. - Zustimmung
+- TOP 26: Aufnahme der Kindertageseinrichtung Loschwitzer Straße 23 in den Bedarfsplan der Landeshauptstadt Dresden unter der Trägerschaft der BEB Dienstleistung GmbH Dresden-Mitte - Vertagung
+- TOP 27: Trägerschaftswechsel der Kindertageseinrichtung Pirnaer Landstraße 191 in 01257 Dresden vom Träger KILALOMA e. V. zum Träger Berufsbildungswerk Sachsen GmbH - Zustimmung mit Ergänzung
+- TOP 28: Vorgaben der Landeshauptstadt Dresden für die anstehende Neukonzessionierung der Straßenbahn- und Buslinien sowie einer Direktvergabe an die Dresdner Verkehrsbetriebe (DVB) AG - Zustimmung mit Änderung
+- TOP 29: Bebauungsplan Nr. 304, Dresden-Weißig Nr. 15, Am Lindenberg - Zustimmung
+- TOP 30: Flächennutzungsplan-Änderung Nr. 31, Ortschaft Schönfeld-Weißig, Teilbereich Am Lindenberg - Zustimmung
+- TOP 31: Bebauungsplan Nr. 3001, Dresden-Neustadt Nr. 39, Gehestraße - Zustimmung mit Ergänzung
+- TOP 32: Umgang mit Kleingartenanlagen im Abflussbereich der Elbe - Zustimmung
+- TOP 33: Verbesserung des Livestreamings von Stadtratssitzungen - Zustimmung
+- TOP 34: Ein städtischer Beitrag zum Wohnungsbau in Dresden - Vertagung
+- TOP 35: Gründung einer kommunalen Wohnungsbaugesellschaft - Vertagung
+- TOP 36: Mietpreisbremse für Dresden - Zustimmung mit Änderung
+- TOP 37: Ein Rathaus für die Bürger - Konzept für Verwaltungsstandorte - Zustimmung mit Änderung
+- TOP 38: Gestaltung des Scheune-Vorplatzes - Ersetzung
