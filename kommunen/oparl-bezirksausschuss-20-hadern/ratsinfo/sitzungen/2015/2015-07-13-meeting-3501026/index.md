@@ -1,0 +1,110 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-07-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501026
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501026
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Anhänger zu Werbezwecken Waldwiesenstr. 26, 26a, 26b
+- TOP 1.2.: Bauvorhaben Pfingstrosenstraße in Höhe von Haus 55
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Soziales und Kultur
+- TOP 3.2.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Fußballplatz nördlich Treff 21 (Terofalstraße) und Bolzplatz Krokusstraße / Veilchenstraße (SPD-Fraktion)
+- TOP 4.2.: barrierefreier Ausbau der Bushaltestellen in der Fürstenrieder Straße (CSU-Fraktion)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters; Terofalstr. 25 (Bushaltestelle), Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Kreisverwaltungsreferat, 15.06.15)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren Neufriedenheimer Str. 12-18 mit Schietweg 5 - 7 (Baureferat, 03.06.15)
+- TOP 6.2.: Blumenauer Straße: Straßenfest am 25.07.15 (Kreisverwaltungsreferat, 10.06.15)
+- TOP 6.3.: Sauerbruchstraße gegenüber Zöllerstraße: Wertstoffcontainerstandort (Kommunalreferat, 08.06.15)
+- TOP 6.4.: Heiglhofstr. 13: Umbau und Erweiterung des Landgasthofs "Erdinger Weißbräu" (Referat für Stadtplanung und Bauordnung, 11.06.15)
+- TOP 6.5.: Bauleitplanung der Gemeinde Neuried; Aufstellung des Bebauungsplanes Nr. 45 für das Gebiet "Südlich Grubenstraße) (Referat für Stadtplanung und Bauordnung, 12.06.15)
+- TOP 6.6.: Max-Lebsche-Platz: Fastenfestival Bayram vom 18. - 19.07.15 (Kreisverwaltungsreferat, 18.06.15)
+- TOP 6.7.: Änderung der Bezirkausschuss-Geschäftsordnung, Abstimmung über einzelne Teile eines Antrages (Direktorium, 22.06.15) Antrag Nr. 14-20 / B 01057 des BA 7 - Sendling-Westpark
+- TOP 6.8.: Beschlussentwurf "Regionalmanagement in der Region München" (Referat für Stadtplanung und Bauordnung, 25.06.15)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Pfingstrosenstr. 23, 1 Thuje
+- TOP 7.2.: Gräfelfinger Str. 121, 18 Fichten
+- TOP 7.3.: Veilchenstr. 42, 1 Zypresse
+- TOP 7.4.: Zinckgrafstr. 8, 1 Tanne
+- TOP 7.5.: Veilchenstr. 24, 2 Silbertannen
+- TOP 7.6.: Pfundmayerstr. 2, Baumbestandsplan
+- TOP 7.7.: Schachblumenweg 15a, 1 Lärche
+- TOP 7.8.: Farnweg 5, 1 Linde
+- TOP 7.9.: Immastr. 9, 1 Fichte
+- TOP 7.10.: Haseneystr. 4, 1 Fichte
+- TOP 7.11.: Gräfelfinger Str. 56-61, 2 Birken
+- TOP 7.12.: Sonnenblumenstr. 5, 1 Nadelbaum
+- TOP 7.13.: Kurparkstr. 46, Baumbestandsplan
+- TOP 7.14.: Heiglhofstr. 13, Baumbestandsplan
+- TOP 7.15.: Myrtenstr. 10, 2 Douglasien
+- TOP 7.16.: Brunellenweg 41, 1 Coloradotanne
+- TOP 7.17.: Krokusstr. 19, 1 Berg-Ahorn
+- TOP 7.18.: Gelbhofstr. 8, 1 Fichte, 1 Blutpflaume
+- TOP 7.19.: Am Ährenfeld 17, 5 Thujen
+- TOP 7.20.: Hohenklingenstr. 24, 3 Birken
+- TOP 7.21.: Guardinistr. 10, 1 Weißtanne
+- TOP 7.22.: Nothkaufstr. 8, 2 serbische Fichten
+- TOP 7.23.: Krokusstr. 19a, 1 Berg-Ahorn
+- TOP 7.24.: Am Waldspitz 23, 1 Sandbirke
+- TOP 7.25.: Veilchenstr. 18, 1 Hainbuche
+- TOP 7.26.: Hohenklingenstr. 16, Baumbestandsplan
+- TOP 7.27.: Fürstenrieder Str. 220, Baumbestandsplan
+- TOP 7.28.: Steinbrechweg 16, 3 Weisstannen
+- TOP 7.29.: Würmtalstr. 129, 1 Tanne
+- TOP 7.30.: Zypressenweg 7, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Gräfelfinger Str. 59-61, 2 Birken
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: unveränderte Fortführung einer Gaststätte, hier: - "Hangover", Guardinistr. 4 (Kreisverwaltungsreferat, 27.05.15) - "Sushi Wok", Würmtalstr. 99 (Kreisverwaltungsreferat, 28.05.15)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Guardinistraße (Sozialreferat, 26.05.15) - Canisiusstraße (Sozialreferat, 28.05.15) - Haderunstraße (Sozialreferat, 23.06.15)
+- TOP 8.3.: Rechts- und Beschlusslage bezüglich Laubbläser (Referat für Gesundheit und Umwelt, 10.06.15)
+- TOP 8.4.: Projekt Kollaborationsplattform; Anforderungen des Direktoriums (Direktorium, 08.06.15)
+- TOP 8.5.: Ablauf von Bürgerversammlungen optimieren (Direktorium, 01.06.15)
+- TOP 8.6.: Verlängerung des Haltverbots zur Freihaltung der Bushaltestelle Waldfriedhof in der Fürstenrieder Straße, Fahrtrichtung Aidenbachstraße (Kreisverwaltungsreferat, 06.05.15)
+- TOP 8.7.: Infrastrukturprogramm Sport in München - Teil 1 Städtische Sportbaumaßnahmen; Maßnahmenpaket 1 Kunstrasenplatzbau; u.a. Bezirkssportanlage Wolkerweg 17, Projektgenehmigung (Referat für Bildung und Sport, 12.06.15)
+- TOP 8.8.: Information über Betriebskonzept der Linien U3/U6 während der Bauwerksprüfung Poccistraße (Münchner Verkehrsgesellschaft, 09.06.15)
+- TOP 8.9.: Regionalmanagement München Südwest - Musterbeschlussvorlage Vereinsgründung (Referat für Stadtplanung und Bauordnung, 17.06.15)
+- TOP 8.10.: Baumaßnahmen der Stadtwerke München: - Blumenauer Str. 15 / Wastl-Witt-Straße Gas (SWM, 15.06.15) - Lupinenweg / Heiglhofstraße Strom (SWM, 02.03.15)
+- TOP 8.11.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (Stadtwerke München GmbH, 24.06.15)
+- TOP 8.12.: Lärmschutzbelag für die Zu- und Abfahrten der A 96 (Referat für Umwelt und Gesundheit, 11.06.15) BA-Antrags-Nr. 14-20 / B 00958 des BA 25 vom 03.03.15
+- TOP 8.13.: verkehrsrechtliche Erlaubnis, hier: Buschrosenweg; Straßenfest (Kreisverwaltungsreferat, 25.06.15)
+- TOP 8.14.: Akteneinsichtsrecht für Bezirksausschussmitglieder (Herr Oberbürgermeister Dieter Reiter, 26.06.15)
+- TOP 8.15.: Personalsituation in den BA-Geschäftsstellen (Direktorium, 29.06.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Errichtung eines Kinderspielplatzes Gräfelfinger Straße / Ludwig-Hunger-Straße, Genehmigungsbescheid LBK vom 15.05.15 (Baureferat, 05.06.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Container Stiftsbogen 102; Reinigung (REMONDIS, 26.05.15)
+- TOP 10.2.: Würmtalstraße: Verkehrssituation im Wohngebiet (LMU Klinikum, 08.06.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2015; Reservierungen der Bezirksausschüsse (Frau Bürgermeisterin Christine Strobl, 25.06.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 20.05.15 zur Sitzungsvorlage-Nr. 14-20 / V 01862: Novellierung der Baumschutzverordnung - Herausnahme der Gattung Fichte; Ergebnisse des Prüfauftrags aus der Vollversammlung vom 19.12.12
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03124: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-System U-S-Bahnfahrzeugen für die Region München
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03176: Ehrenpreis für guten Wohnungsbau; Verleihung der Ehrenpreise 2015
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Sozialausschusses vom 18.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03011: Mieterbeiratswahl 2015; Berufung der stimmberechtigten Mitglieder und Bekanntgabe der beratenden Mitglieder; Entfristung und Finanzierung der Stelle für eine Bürokraft des Mieterbeirates
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.15 zur Sitzungsvorlage Nr. 14-20 / V 01463: REGSAM - Ein starkes Netzwerk für München; Trägerantrag auf Ressourcenerweiterung und Antrag des BA 16 auf eigene REGSAM-Stelle
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 15.04.15 zur Sitzungsvorlage Nr. 14-20 / V 02786: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2014 - 31.12.2014
+- TOP 12.2.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15 zur Sitzungsvorlage Nr. 14-20 / V 02324: Beseitigung höhengleicher Bahnübergänge
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03197: Demografieberichte München: - Teil 1: Analyse und Bevölkerungsprognose 2013 bis 2030 - Teil 2: Kleinräumige Bevölkerungsprognose 2013 bis 2030 für die Stadtbezirke
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
