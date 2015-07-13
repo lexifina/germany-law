@@ -1,0 +1,7 @@
+# TOP 1: Bauliche Unterhaltung im Bereich Jugendfreizeiteinrichtungen (Wunsch CDU-Fraktion) (BD: BzStR Krüger, BzStR Schworck)
+
+- Sitzung: 46. öffentliche Sitzung des Jugendhilfeausschusses (2015-07-13)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=38761
+- Ergebnis: erledigt
