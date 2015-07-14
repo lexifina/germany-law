@@ -1,0 +1,106 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-07-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3467989
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3467989
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 05.05.2015
+- TOP 1.4.2.: Protokoll UA Familie, Bildung und Soziales vom 09.04.15
+- TOP 1.4.3.: Protokoll UA Familie, Bildung und Soziales vom 02.06.15
+- TOP 1.4.4.: Protokoll UA Verkehr vom 16.06.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Geplante Öffnung des Grundstücks zwischen Stieglstraße und August-Föppl-Straße, Flurnr. 219/21 u. 22
+- TOP 2.2.: Grünanlage an der Servetstraße 29
+- TOP 2.3.: Spielplatz an der Megerlestraße
+- TOP 2.4.: Wohnraumverdichtung verträglicher gestalten um den Gartenstadtcharakter zu bewahren
+- TOP 2.5.: Flaschencontainer in der Hitlstraße
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 4.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Krayweg, Projekt-Nr.: 100697
+- TOP 5: Anhörungen
+- TOP 5.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes gegenüber der Finsterwalderstr. 1
+- TOP 5.2.: Georg-Reismüller-Str. 40, Gemarkung: Allach, Fl.Nr.: 1027/0 Umbau und Nutzungsänderung eines Laborgebäudes in ein Arbeiterwohnheim (befristet auf 2 Jahre) - TEKTUR
+- TOP 5.3.: Willstätterstr. 19, Gemarkung: Untermenzing, Fl.Nr.: 84/0 Neubau zweier Mehrfamilienhäuser mit Tiefgarage - VORBESCHEID (Var. 1, 2, 2a, 3) + Vollzug der BaumschutzVO
+- TOP 5.4.: Bauleitplanung der Gemeinde Karlsfeld Aufstellung des Bebauungsplanes Nr. 103 für das Gebiet "Rothschwaige - westlich der Münchner Straße und südlich des Weiherweges"; Verfahren nach § 4 Abs. 1 BauGB
+- TOP 5.5.: Vogelloh / Bergetstraße Änderung der Haltverbotsbeschilderung
+- TOP 5.6.: Oktoberfest-Traditionsschießen vom 11.09. und 12.09.15, Servetstr. 1
+- TOP 5.7.: Erinnerungsverfahren Germeringer Weg - Goteboldstraße - Paul-Ehrlich-Weg
+- TOP 5.8.: Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO) Abstimmung über einzelne Teile eines Antrages
+- TOP 5.9.: Bauleitplanung der Gemeinde Karlsfeld 1. Änderung des Flächennutzungsplans für den Bereich "zwischen Hochstraße und Bajuwarenstraße" und den Bereich "nördlich der Nikolaus-Lenau-Straße" Verfahren nach § 4 Abs. 1 BauGB
+- TOP 5.10.: Eversbuschstr. 12, Gemarkung: Untermenzing, Fl.Nr.: 17/0 Neubau eines Wohnbaues (15 WE) mit Tiefgarage - VORBESCHEID
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Baureferates vom 21.04.15: Ludwigsfelder Straße zwischen Spielbergstraße und ca. 250 m westlich Am Neubruch im 10. Stadtbezirk Moosach und im 23. Stadtbezirk Allach-Untermenzing; Erstmalige Herstellung (Sitzungsvorlage Nr. 02246)
+- TOP 6.2.: Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.15: Beseitigung höhengleicher Bahnübergänge (Sitzungsvorlage Nr. 02324)
+- TOP 6.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.15: REGSAM - Ein starkes Netzwerk für München; Trägerantrag auf Ressourcenerweiterung; Antrag des BA 16 auf eigenen REGSAM-Stelle (Sitzungsvorlage Nr. 01463)
+- TOP 6.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15: a) Zukunftschancen für den ÖPNV MÜnchen XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-System U-S_Bahnfahrzeugen für die Region München (Sitzungsvorlage Nr. 03124) b) Ehrenpreis für guten Wohnungsbau; Verleihung der Ehrenpreise 2015 (Sitzungsvorlage Nr. 3176) c) Demografieberichte München - Teil 1 und Teil 2 (Sitzungsvorlage Nr. 03197)
+- TOP 6.5.: Beschluss des Sozialreferates vom 18.06.15: Mieterbeiratswahl 2015; Berufung der stimmberechtigten Mitglieder; Bekanntgabe der beratenden Mitglieder (Sitzungsvorlage Nr. 3011)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: a) A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie München-Treuchtlingen (westlich) B) Bebauungsplan mit Grünordnung Nr. ..., Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich) (aufhebung oder Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) C) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes; weiteres Vorgehen Aufstellungs- und Eckdatenbeschluss (Sitzungsvorlage Nr. 03479) b) Freiflächengestaltungssatzung ändern; Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik (Sitzungsvorlage Nr. 03433) c) Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Sitzungsvorlage Nr. 02900) d) Wohnen in München VI - Zeitplan und Themenvorschau; Zielzahl für den Wohnungsbau erhöhen! (Sitzungsvorlage Nr. 03161) e) Koordination und Service im Radverkehr (Sitzungsvorlage Nr. 03026) f) Workshop zur verkehrlichen Situation in Allach-Untermenzing (Sitzungsvorlage Nr. 02945)
+- TOP 6.7.: Beschluss des Bildungsausschusses des Stadtrates vom 08.07.15: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseintrichtungen; Kindertagesstätte sonstiger Träger-Haus für Kinder an der Prießnitzstraße 4 im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvorlage Nr. 03490)
+- TOP 6.8.: Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss des Stadtrates vom 09.07.15: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 03448)
+- TOP 6.9.: Beschluss des Kommunalausschusses vom 16.07.15: Wegebenennung in Grünanlagen ermöglichen (Sitzungsvorlage Nr. 02923)
+- TOP 6.10.: Beschluss des Sozialausschusses vom 09.07.15: Nachbarschaftsarbeit in München stärken (Sitzungsvorlage Nr. 01597)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Pflegeheim Franz-Nißl-Straße
+- TOP 7.2.: Einwohnerversammlung zur Gestaltung der öffentlichen Flächen am Oertelplatz am 22.07.15, Beginn 19:00 Uhr, in der Aula des Louise-Schroder-Gymnasiums
+- TOP 7.3.: Schaukästen für Kultur- und Spielpfad Untermenzing
+- TOP 7.4.: Flüchtlingsunterkunft für max. 40 minderjährige Flüchtlinge, Obere Mühlstraße, Flst. 985/0
+- TOP 7.5.: Oktoberfest 2015, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 7.6.: Trägerwechsel und Mittagsbetreuung
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Oberbürgermeister vom 26.06.15: Akteneinsicht für Bezirksausschussmitglieder
+- TOP 9.2.: Schreiben Oberbürgermeister vom 26.06.2015: Akteneinsicht für Bezirksausschussmitglieder
+- TOP 9.3.: Schreiben BA 20 Hadern vom 10.06.15: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München Leitlinie (Leitbild) aller Referate (Antr. Nr. 01264)
+- TOP 9.4.: Schreiben BA 21 Pasing-Obermenzing vom 12.06.15: Neugestaltung des Pausenhofs der Carl-Spitzweg-Realschule (Antrag aus der Kindersprechstunde des BA 21 am 15.05.15)
+- TOP 9.5.: Schreiben Referat für Gesundheit und Umwelt vom 10.06.15: Rechts- und Beschlusslage bezgl. Laubbläser
+- TOP 9.6.: Schreiben Baureferat vom 02.06.15: Straßenbeleuchtung Spielplatz Ossanastraße / Stieglstaße
+- TOP 9.7.: Schreiben Baureferat vom 23.06.15: Fehlende Beleuchtung in der Naglerstraße und Rudorffstraße
+- TOP 9.8.: Schreiben Baureferat vom 23.06.15: Sanierung des Rettungsweges in Verlängerung der Goteboldstraße
+- TOP 9.9.: Schreiben vom 01.06.15 der städt. Friedhofsverwaltung: Kirchefriedhof Allach, St. Peter und Paul, Friedhofsmauer
+- TOP 9.10.: Schreiben Münchner Stadtentwässerung vom 30.04.15: Kanalbau im Umgriff d. Bebauungsplanes Nr. 2044 Gerberau (Südlich), Bauschingerstr. (westlich), Otto-Warburg-Str. (Staatsstr. 2063) und Zum Schwabenbächl (nördlich), Mannertstraße (östich), 1.BA
+- TOP 9.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.12.: Schreiben Direktorium vom 20.05.15: Neue Form der Einladung zur Bürgerversammlung
+- TOP 9.13.: Schreiben Direktorium vom 08.06.15: Projekt Kollaborationsplattform; Anforderungen des Direktoriums
+- TOP 9.14.: Schreiben Direktorium vom 01.06.15: Ablauf von Bürgerversammlungen optimieren
+- TOP 9.15.: Schreiben Referat für Arbeit und Wirtschaft vom 15.06.15: Vergabe eines Gewerbegrundstücks an der Eversbuschstaße (Teilfläche des Flst. 1319/0, Gem. Allach)
+- TOP 9.16.: Schreiben Sozialreferat vom 16.06.15: Antrag auf Zweckentfremdung von Wohnraum, Zeißstr.
+- TOP 9.17.: Schreiben Sozialreferat vom 09.06.15: Informationsschreiben für Flüchtlinge
+- TOP 9.18.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.06.15: Fällung Gefahrenbaum Gleichweg 15
+- TOP 9.19.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.06.15, 12.06.15: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben, Schweidnitz Str., Karl-von-Roth-Str. 31
+- TOP 9.20.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (25.05.-31.05.15, 01.06.-07.06.15, 08.06.-14.06.15, 15.06.-21.06.15, 22.06.-28.06.15)
+- TOP 9.21.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Kirchhoffweg 12, Zittauer Str. 27, Wiebekingstr. 2, Weidmannstr. 32, Zaunerstr. 7, Allacher Str. 185, Mannertstr. 33, Schlehbuschstr. 1, Karl-Schmolz-Str. 4, Karl-Hänel-Str. 39, Eversbuschstr. 1, Bauschweg 6, Mayrstr. 3, Dirrstr. 1, Menzinger Str., Spiegelbergstr. 27, Am Waldspitz 23, August-Föppl-Str. 9
+- TOP 9.22.: Schreiben Stadtwerke München vom 24.06.15: Neue Bäderpreise ab 1. Juli 2015
+- TOP 9.23.: Schreiben Stadtwerke München vom 01.06.15, 08.06.15, 22.06.15, 29.06.15: Baumaßnahmen
+- TOP 9.24.: Schreiben Kreisverwaltungsreferat vom 19.06.15: Antrag auf unveränderte Fortführung der "Trattoria da Angelo", Willi-Wien-Str. 8
+- TOP 9.25.: Schreiben Kreisverwaltungsreferat vom 25.06.15: Antrag auf unveränderte Fortführung des "Kegelstüberl", Eversbuschstr. 161
+- TOP 9.26.: Schreiben Referat für Arbeit und Wirtschaft vom 30.06.15: Europe Direct Informationen 03/2015
+- TOP 9.27.: Schreiben Kulturreferat vom 02.07.15: Veranstaltungsübersicht Juli
+- TOP 9.28.: Schreiben Fachinformationsstelle gegen Rechtsextremismus vom 10.06.15: Ausstellung und Rahmenprogramm: Jugendkulturen und Diskriminierung vom 16.07.-30.07.15
+- TOP 9.29.: Schreiben Selbshilfezentrum München vom 05.06.15: Einladung zum Fachtag "Beiräte als Instrument der Partizipation" und zum 30jährigen Jubiläum des Selbsthilfebeirats am 10.07.15, 14:00-18:00 Uhr
+- TOP 10: Nachtrag
+- TOP 10.1.: Anhörungen: Dachauer Str. 665, Gemarkung: Allach, Fl.Nr.: 1409/0 Geb. 045 - Neubau eines Gerüsttreppenturms als 2. Rettungsweg am Seminarraum
+- TOP 10.9.: A) Bebauungsplan mit Grünordnung Nr. ....Bundesautobahn A8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich)-Aufstellungsbeschluss- B) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den bereich IV/25 Bergsonstraße (nördlich), Bundesautobahn A8 (südwestlich), Bundesautobahn A99 (südöstlich), Bahnlinie München-Stuttgart (nördlich) C) "Machbarkeitsstudie zur Gewerbeflächenentwicklung Mühlangerstraße" Südgrenze des neuen Standortes der Paulaner Brauerei (südlich), Hanfgartenstraße (südlich), Lochhausener Straße (südlich), Bundesautobahn A8 (südwestlich), Mühlangerstraße (nördlich), An der Langwieder Heide (östlich), Bacherbreite (östlich)-Aufstellungsbeschluss-
+- TOP 10.2.: Umlauf: Schreiben der Stadtwerke München vom 06.07.15: Baumaßnahmen
+- TOP 10.10.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO: Einzelfällungsanträge: Zwiedineckstr. 12, Klessingweg 29
+- TOP 10.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.07.15: Bauanträge (29.06.-05.07.15)
+- TOP 10.4.: Schreiben Baureferat vom 06.07.2015: Gehwegverbreiterung Ecke Eversbuschstr. 166
+- TOP 10.5.: Stadtrats- und Ausschussbeschlüsse: Beschluss der Vollversammlung des Stadtrates vom 01.07.2015: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss (Sitzungsvorlage Nr. 03518)
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 03603)
+- TOP 10.7.: Beschluss des Kreisverwaltungsausschusses vom 28.04.15: Wohnungseinbrüche & Co.: Die Stadt unterstützt die Polizei bei ihrer Aufklärungsarbeit (Sitzungsvorlage Nr. 02933)
+- TOP 10.8.: Verschiedenes: Baumobil 27.08.-29.08.15 (15:00-19:00 Uhr), Spielplatz / Kneipp-Anlage Servetstraße Artmobil 08.09.-10.09.15 (15:00-19:00 Uhr), Spielplatz Megerlestraße
+- TOP 4.1.: Budget der Bezirksausschüsse Mittelschule an der Franz-Nißl-Straße kostenloses Schulfrühstück
