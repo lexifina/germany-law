@@ -1,0 +1,132 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3534048
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3534048
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der Mai-Sitzung 1.3.2 Protokoll der Juni-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.: Parksituation Werner-Schlierf-Straße; Bürgeschreiben
+- TOP 2.3.: Verkehrsbelastung in der Traunsteiner Straße; Schreiben der Eigentümergemeinschaft
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.1.: Bericht des Beauftragten gegen Rechtsextremismus aus der März-Sitzung; Antwortschreiben des KVR vom 21.05.2015
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Münchberger Straße 7, 1 Kolorado-Tanne
+- TOP 2.2.: Marklandstraße 29, 2 Birken
+- TOP 2.3.: Cincinnatistraße 31, 1 Korkenzieher-Weide u. 6 weitere Bäume mit Baumveränderung
+- TOP 2.4.: Kapellenfeldstraße 21, 1 Rotfichte
+- TOP 2.5.: Schloss-Berg-Straße 16, 1 Eiche
+- TOP 2.6.: Cincinnati-, Leif-, Lincoln- u. Wikingerstraße, 1 Stieleiche, 1 Rotbuche und 8 weitere Bäume mit Baumveränderungen
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Fahrradbügel in der Tegernseer Landstraße nördlich Tegernseer Platz; Antrag der Fratkion B'90 Die Grünen im BA 17 - <div>nach Antrag / mit Ergänzung</div>
+- TOP 4.2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München Leitlinie (Leitbild) aller Referate; Antrag Nr. 14-20 / B 01264 des BA 20 mit der Bitte um Unterstützung durch alle Münchner Bezirksausschüsse
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Initiative ?Ein Teller Heimat?, für die Maßnahme: Projekt ?Ein Teller Heimat? vom 01.06.2015 bis 01.05.2016; Antragssumme: 4.650,00 ?; Beschlussvorlage des Direktoriums vom 22.05.2015 (vertagt aus der Sitzung vom 09.06.2015 - FF: UA FSA)
+- TOP 5.2.: AntragstellerIn: Die ersten Münchner Böllermadln e.V., für die Maßnahme: 5jähriges Jubiläum am 07.05.2016; Antragssumme: 3.517,95 ?; Beschlussvorlage des Direktoriums vom 11.06.2015
+- TOP 5.3.: AntragstellerIn: SpVgg 1906 Haidhausen e.V., für die Maßnahme: Anschaffung von Materialien, Sanitätskoffer und Trikots; Antragssumme: 4.433,00 ?; Beschlussvorlage des Direktoriums vom 26.06.2015
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 0.1.: Kesselbergstraße 10, Umbau und Sanierung eines denkmalgeschützten Wohnhauses, DG-Ausbau, Einbau eines Personenlifts und Anbau / Erneuerung von Balkonen; Anhörung vom 16.06.2015
+- TOP 0.2.: St.-Martin-Straße 41, Ersatzneubau Krematorium Ostfriedhof in Verbindung mit dem Umbau der denkmalgeschützten Aussegnungshalle u. Neubau eines Cafés mit Seelsorgepräsenz - VORBESCHEID; Anhörung vom 21.05.2015 (vertagt aus der Sitzung vom 09.06.2015) zu 6.1.3.1 Betriebsbeschreibung Friedhofcafé und Betriebsbeschreibung Ersatzneubau Krematorium
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.2.1 Anwesen Bad-Berneck-Straße; Mitteilung vom 28.05.2015
+- TOP 0.3.: Ehrenpreis für guten Wohnungsbau; Verleihung der Ehrenpreise 2015; Sitzungsvorlagen Nr. 14-20 / V 03176; Beschluss des Aussschusses für Stadtplanung und Bauordnung vom 17.06.2015 (SB)
+- TOP 0.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/24 Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Erweiterung der Europäischen Schule München - Endgültiger Beschluss; Sitzungsvorlagen Nr. 14-20 / V 03115; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.06.2015 (VB)
+- TOP 0.5.: Bebauungsplan mit Grünordnung Nr. 2037, Lincolnstraße (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Erweiterung der Europäischen Schule in München - Satzungsbeschluss - Sitzungsvorlage Nr. 14-20 / V 03164; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.06.2015 (SB)
+- TOP 0.6.: Demografieberichte München - Teil 1 und Teil 2; Demografieberichte München - Teil 1, Analyse und Bevölkerungsprognose 2013 bis 2030; Demografiebericht München - Teil 2, Kleinräumige Bevölkerungsprognose 2013 bis 2030 für die Stadtbezirke; Sitzungsvorlagen Nr. 14-20 / V 03197; Bekanntgabe des Ausschusses für Stadtplanung u. Bauordnung vom 17.06.2015
+- TOP 0.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 Regerstraße (nordwestlich), Welfenstraße (südlich), Ohlmüllerstraße (beidseits); Billigungsbeschluss und vorbehaltlich endgültiger Beschluss; Sitzungsvorlagen Nr. 14-20 / V 03421; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.07.2015 (VB)
+- TOP 0.8.: Wohnen in München VI - Zeitplan und Themenvorschau; Zielzahl für den Wohnungsbau erhöhen! Sitzungsvorlagen Nr. 14-20 / V 03161; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (VB)
+- TOP 0.9.: Freiflächengestaltungssatzung ändern; Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik; Sitzungsvorlagen Nr. 14-20 / V 03433; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.07.2015 (SB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" - Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 15.09.2015; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme bis 15.07.2015 (vertagt aus der Sitzung vom 09.06.2015)
+- TOP 0.1.: REGSAM - Ein starkes Netzwerk für München; Trägerantrag auf Ressourcenerweiterung; Antrag des BA 16 auf eigene REGSAM-Stelle; Sitzungsvorlage Nr. 14-20 / V 01463; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.2015 (VB)
+- TOP 0.2.: Mieterbeiratswahl 2015; Berufung der stimmberechtigten Mitglieder; Bekanntgabe der beratenden Mitglieder; Entfristung und Finanzierung der Stelle für eine Bürokraft des Mieterbeirats; Sitzungsvorlage Nr. 14-20 / V 03011; Beschluss des Sozialausschusses vom 18.06.2015 (VB)
+- TOP 0.3.: Flüchtlingskinder - Elternberatungsstelle RBS-KITA; Information des RBS
+- TOP 0.4.: Ergebnisprotokoll der Sitzung zum Thema "Mensaausbau" im Schulzentrum am Perlacher Forst; Zuleitung des RBS
+- TOP 0.5.: Schulbauoffensive 2013 - 2030; Sitzungsvorlage Nr. 14-20 7 V 03448; Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtpl. u. Bauordnung, dem Finanzausschuss u. dem Umweltausschuss des Stadtrates vom 09.07.2015 (VB)
+- TOP 0.1.: Müllentsorgung über die Spixstraße; Bitte um neue Standortprüfung; Bürgeranliegen vom 03.06.2015 (verwiesen aus der Sitzung vom 09.06.2015)
+- TOP 0.2.: 2-Richtungs-Radweg in der Chiemgaustraße im Bereich zwischen der Tegernseer Landstraße und der Bodelschwinghstraße; Bürgerantrag vom 08.06.2015 (verwiesen aus der Sitzung vom 09.06.2015)
+- TOP 0.3.: Verkehrssituation Aignerstraße; Bürgerschreiben (verwiesen aus der Sitzung vom 09.06.2015)
+- TOP 0.4.: Radwege im 17. Stadtbezirk (Sanierung und Umbau) - Bericht zum Ortstermin mit dem Baureferat-Tiefbau (verwiesen aus der Sitzung vom 09.06.2015)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes gegenüber der Watzmannstraße 22; Zuleitung des KVR mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 09.06.2015)
+- TOP 0.2.: Erinnerungsverfahren; Stettnerstraße 3-41; Straßensanierung; Zuleitung des Baureferats-Tiefbau mit der Bitte um Zustimmung
+- TOP 0.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Weinbauernstraße 4; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potential von Zwei-System U-S-Bahnfahrzeugen für die Region München; Sitzungsvorlagen Nr. 14-20 / V 03124; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 17.06.2015 (SB)
+- TOP 0.3.: Marklandstraße - Umbau Verbindungsweg; Information des Baureferats-Tiefbau vom 05.06.2015
+- TOP 0.4.: Tram - Tegernseer Landstraße - Verbesserung des anliegenden Straßenraums im 17. Stadtbezirk Obergiesing-Fasangarten; Finanzierung für die öffentlichen Verkehrsflächen; Sitzungsvorlage Nr. 14-20 / V 02387; Beschluss des Bauausschusses vom 21.04.2015 (SB)
+- TOP 0.5.: Umlaufsperre am Giesinger Bahnhofsweg vor der Chiemgaustraße; BA-Antrag Nr. 14-20 / B 01069 vom 14.04.15; Antwortschreiben des Baureferats-Gartenbau vom 16.06.2015
+- TOP 0.6.: Verkehrsregulierung jetzt! Verkehrsleitsystem Autobahnkreuz München-Süd und Ampel A 995 Höhe (vor) Ausfahrt Unteraching Nord; BA-Antrag Nr. 14-20 / B 01065 vom 14.04.2015; Antwortschreiben des KVR vom 09.06.2015
+- TOP 0.7.: Verkehrsspiegel für die Balanstraße / Ecke Grenzstraße; BA-Antrag Nr. 14-20 / B 00845 vom 10.02.15; Stellungnahme des BA 17 vom 28.04.2015 zum Antwortschreiben des Baureferats; Stellungnahme des Baureferats vom 28.05.2015
+- TOP 0.8.: Anfrage wegen Verkehrsunfallgeschehen in der Spixstraße, Tiefgaragenausfahrt Werner-Schlierf-Weg; Antwortschreiben der PI 23
+- TOP 0.9.: Arbeiten im Straßenraum Tegernseer Landstraße zwischen Silberhornstraße und Candidstraße (Gleisbau); Abdruck der verkehrsrechtliche Anordnung des KVR
+- TOP 0.10.: Koordination und Service im Radverkehr a) Radverkehrsbeauftragte oder -beauftragter b) Konzept zur Bearbeitung von Anregungen und Beschwerden c) Anträge Sitzungsvorlagen Nr. 14-20 / V 03026; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 08.07.2015 (VB)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Fasangartenstraße, Ablehnungsbescheid vom 22.06.2015
+- TOP 0.2.: Sofortmaßnahmen zur Reduzierung der Abgas- und Lärmbelastungen für die Bevölkerung am Mittleren Ring im Stadtbezirk 17; BA-Antrag Nr. 14-20 / B 01059; Schreiben des RGU vom 21.05.2015 mit der Bitte um Terminverlängerung
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Konzept zur Vergabe des Budgets - Auftrag des BA-Vorstands an den UA Kultur/Vereine/Initiativen/Sport (ohne Vorgang - vertagt aus den Sitzungen vom 12.05.15 und 09.06.15)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007 6.6.2.1.1 Tegernseer Landstraße 22, Neuantrag Warenauslage; Beschluss des BA 17 vom 14.07.2015 6.6.2.1.2 Rißbachstraße 12, Neuantrag Fahrradständer; Beschluss des BA 17 vom 14.07.2015
+- TOP 0.1.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3; Umrüstung der Werbevitrine in eine Wechselanlage am Wartehäuschen gegenüber Tegernseer Landstraße 114; Anhörung der Lbk vom 23.06.2015
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 SSW "Tela 92", Tegernseer Landstraße 92; Mitteilung vom 15.06.2015
+- TOP 0.2.: Information der Bezirksausschüsse; Neue Bädereintrittspreise ab 1. Juli 2015; Infoschreiben der SWM GmbH vom 24.06.2015
+- TOP 0.3.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels; Sitzungsvorlagen Nr. 14-20 / V 02900; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.07.2015 (SB)
+- TOP 0.1.: Anhörung der Initiative TeLa-Aktiv bei Neuvermietung der städt. Immobilie St.-Martin-Straße 2 (Georg-Niedermair-Stiftung, Stadtbibliothek); Antrag des Vereins Tela Aktiv e.V. mit der Bitte um Unterstützung durch den BA 17
+- TOP 0.2.: Messe / Ausstellung für Handwerker und weitere interessierte Firmen im Stadtbezirk 17; Antrag der SPD-Fraktion
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO); Abstimmung über einzelne Teile eines Antrags; Antrag Nr. 14-20 / B 01057 des BA 07 vom 14.04.2015; Schreiben des Direktoriums vom 22.06.15 mit der Bitte um Stellungnahme
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Ablauf von Bürgerversammlungen optimieren; BA-Antrag Nr. 14-20 / B 01177 des BA 14 vom 28.04.2015; Antwortschreiben des Direktoriums vom 01.06.2015 für alle Bezirksausschüsse zur Information
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.1.: Edelweißstraße als Hauptverkehrsstraße
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
+- TOP 5.2.: AntragstellerIn: Die ersten Münchner Böllermadln e.V., für die Maßnahme: 5jähriges Jubiläum am 07.05.2016; Antragssumme: 3.517,95 ?; Beschlussvorlage des Direktoriums vom 11.06.2015
