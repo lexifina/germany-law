@@ -1,6 +1,6 @@
-# Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Durchführung des Weinrechts (WeinrechtsDVO)
+# Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft und des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz zur Durchführung des Weinrechts (Sächsische Weinrechtsdurchführungsverordnung – SächsWeinRDVO )
 Vom 30. November 2012
-Rechtsbereinigt mit Stand vom 1. Mai 2014
+Rechtsbereinigt mit Stand vom 14. Juli 2015
 Es wird verordnet
 1. durch das Staatsministerium für Umwelt und Landwirtschaft aufgrund von
 a)
