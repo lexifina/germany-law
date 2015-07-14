@@ -1,0 +1,107 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484824
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484824
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 03.06.2015 diverse Anliegen: Baumfällung, Behinderung von Gehwegen durch Heckenwuchs, Sprech- stunden des BA 3 etc.
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 10.06.2015 Wiederherstellung von Brunnen und Gehweg am sog. ?Norkauerplatz?
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 15.06.2015 Durchfahrverbot für Fahrzeugen über 7,5 t in der Winzererstraße
+- TOP .4.: Schreiben eines Bürgers aus der Maxvorstadt vom 31.05.2015 Aufwertungs- und Begrünungsmaßnahmen für die Maxvorstadt vertagt aus der Sitzung vom 16.06.2015, TOP A 5.2.5
+- TOP .5.: Schreiben einer Bürgerin aus Schwabing-West (Arbeitsweg durch die Maxvorstadt) Radlerfreundlichere Schaltung der Ampelanlage an der Kreuzung Adalbert-/Arcisstraße
+- TOP .6.: Schreiben eines Bürgers aus der Maxvorstadt vom 29.06.2015 Vorübergehende Öffnung des stets leeren Parkplatzes der Pinakothek der Moderne für Anwohner als Ausgleich für Stellplätze, die wegen Baumaßnahmen und Haltverboten entfallen
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.3.1.: Die Landeshauptstadt München wird auf gefordert, die Befahrung des Georg-Elser-Platzes während der Schulzeit in der Zeit vom 07.00 Uhr und 18.00 Uhr einzuschränken.
+- TOP 5.3.2.: Beleuchtung der Wartehäuschen an den Haltestellen der Buslinien 153 und 154 in der Schellingstraße sowie am Josephsplatz
+- TOP 5.3.3.: Flächenentsiegelung im Hof der Städt. Kindertagesstätte Heßstraße 85
+- TOP 5.3.4.: Auskunft über leerstehende Gebäude in der Karlstraße 20 und 22
+- TOP 5.3.5.: Provisorische gelbe Fahrbahnmarkierungen an der Einmündung der Maßmann- in die Dachauer Straße durch dauerhafte weiße Markierungen ersetzen
+- TOP 5.3.6.: Versammlungen von PEGIDA/BAGIDA/MÜGIDA auf der Brienner Straße künftig an einen anderen Versammlungsort verlegen
+- TOP 5.3.7.: Verstärkte Überwachung des ruhenden Verkehrs sowie verstärkte Geschwindigkeitskontrollen in der Maxvorstadt
+- TOP 5.3.8.: Der Bezirksausschuss 3 Maxvorstadt beauftragt die Landeshauptstadt München, den ERlass einer Erhaltungssatzung für das Gebiet Pappenheim-, Nymphenburger-, Blutenburgerstraße und Landshuter Allee zu prüfen.
+- TOP 5.3.9.: Der BA 3 Maxvorstadt beauftragt die Landeshauptstadt München, den Erlass einer Erhaltungssatzung für das Gebiet Ludwig- bis Barer Straße, Oskar-von-Miller-Ring bis Georgenstraße mit Nebenstraßen zu prüfen.
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: LBK-Listen der Bauvorhaben: 23., 24., 25. und 26. KW
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage, Anhörung Bebauungsplan mit Grünordnung Nr. 2093 Deroystraße (westlich), Arnulfstraße (nördlich), Marsstraße (östlich u. Südlich) Änderung des Bebauungsplanes Nr. 945 ? Steuerzentrum -
+- TOP 7.3.: Ludwigstraße 25, Errichtung einer Zentralbibliothek für die philologischen Fächer
+- TOP 7.4.: Schellingstraße 42, Umbau und Sanierung Laden VGB / EG, Sanierung Dach und Hofgebäude Laden / EG mit Ausbildung einer begehbaren Terrasse, Erneuerung und Vergrößerung der Balkone / VGB
+- TOP 7.5.: Schellingstraße 42, Aufstockung, Erweiterung, Sanierung und Nutzungsänderung des Rückgebäudes mit hinterem Seitengebäude - Vorbescheid
+- TOP 7.6.: Amalienstraße 93-95, Aufstockung von zwei Wohngebäuden ? Vorbescheid
+- TOP 7.7.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.1.: Vollzug der Baumschutzverordnung Steinickeweg 7, Erweiterung eines Studentenwohnheims ? Tektur
+- TOP 7.3.2: Baumfällungen
+- TOP 7.1.: Georgenstraße 17, ein zweistämmiger Bergahorn und zwei Eschen
+- TOP 7.2.: Mailingerstraße 15, eine Robinie
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Referat für Stadtplanung und Bauordnung, Billigungs- und Satzungsbeschluss Vorhabenbezogener Bebauungsplan mit Grünrdnung Nr. 2056, Deroystraße (östlich) zwischen Tillystraße und Arnulfstraße Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.03.2015 Sitzungsvorlage Nr. 14-20 / V 02099
+- TOP 7.2.: Referat für Gesundheit und Umweltausschuss Vollzug des Bundesimmissinsschutzgesetzes (BImSchG) und der Geräte und Maschinen- lärmschutzverordnung 832. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für den im Rahmen von Dreharbeiten erforderlichen Betrieb von Kraftstromer- zeugern im Straßenraum
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung, Stadtsanierung und Wohnungsbau Ehrenpreis für guten Wohnungsbau, Verleihung der Ehrenpreise 2015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03176
+- TOP 7.4.: Referat für Gesundheit und Umwelt, Beschlussvorlage Verbot von Laubbläsern durch die Stadt München Beschluss des Umweltausschusses vom 05.05.2015
+- TOP 7.5.: Referat für Stadtplanung und Bauordnung, Bekanntgabe Demografiebericht München, Teil 1 und 2 Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03197
+- TOP 7.6.: BA 9 Neuhausen-Nymphenburg Unterstützung des Antrags Nr. 14-20 / B 01200 vom 12.05.2015 ?Erlass einer Erhaltungssatzung für das Gebiet Pappenheim-, Nymhenburger, Bluten- burgstraße und Landshuter Allee?
+- TOP 7.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München VI ? Zeitplan und Themenvorschau Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr. 14-20 / V 03161
+- TOP 7.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Freiflächengestaltungssatzung ändern ? Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr. 14-20 / V 3433
+- TOP 7.9.: BA 4 Schwabing-West Unterstützung des Antrags Nr. 14-20 / B 01201 vom 12.05.2015 ?Erlass einer Erhaltungssatzung für das Gebiet Ludwig- bis Barer Straße, Oskar-von-Miller-Ring bis Georgenstraße mit Nebenstraßen zu prüfen?
+- TOP 7.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.06.2015 Einrichtung eines verkehrsberuhigten Bereichs in der Maillingerstraße
+- TOP 7.2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.06.2015 Aufhebung der Vorfahrtsregelung an der Kreuzung Georgen- / Winzererstraße und Einführung von Rechts vor Links
+- TOP 7.3.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.06.2015 Radfahren entgegen der Einbahnstraßenregelung in der Blütenstraße erlauben
+- TOP 7.6.: Antrag der CSU-Fraktion im BA 3 vom 30.06.2015 Baumpflanzung in der Blütenstraße
+- TOP 7.7.: Antrag der CSU-Fraktion im BA 3 vom 30.06.2015 Aufwertung des Rudi-Hierl-Platzes
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der Zufahrt zum Karolinenplatz
+- TOP 7.2.2: Öffentlicher Raum
+- TOP 7.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Anhörung Augustenstraße 21: Anbringen einer Werbeanlage (hinterleuchteter Plakatwechsler)
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Anhörung Elisenstraße: Aufstellen einer City-Light-Säule für wechselnde Produktwerbung (Alternative zum nicht genehmigungsfähigen Standort Bayerstraße)
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Anhörung Umrüstung der Werbevitrine in eine Wechselanlage am Wartehäuschen a) gegenüber Arnulfstraße 29 b) gegenüber Seidlstraße 27
+- TOP 7.2.3: Gaststätten
+- TOP 7.1.: Kreisverwaltungsreferat, Freischankflächen, Sondernutzungen a) Augustenstraße 16, Genehmigung einer Freischankfläche b) Schellingstraße 27, Erweiterung einer bestehenden Freischankfläche (erneute Vorlage mit Stellungnahme der BI zur BA-Entscheidung vom 16.06.2015)
+- TOP 7.2.4: Veranstaltungen
+- TOP 7.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest am 26.09.2015 in der Adalbertstraße zwischen Barer Straße und Nordendstraße
+- TOP 7.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro ?Cool bleiben-friedlich feiern in München? am 25.07.2015 in der Grünanlage am Maximiliansplatz
+- TOP 7.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Bayernmarkt vom 22.08. bis 06.09.2015 auf dem Wittelsbacherplatz
+- TOP 7.1.: Baureferat, Beschlussvorlage Beseitigung höhengleicher Bahnübergänge (Gegenwärtiger Planungsstrand und Feldmochinger Straße ? Beseitigung des höhengleichen Bahnüberganges ?Jährlicher Sachstandsbericht?) Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015 Sitzungsvorlage Nr. 14-20 / B 02324
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-Sysstem U-S-Bahnfahrzeugen für die Region München Antrag Nr. 08-4 / A 02044 von Herrn Stadtrat Dr. Georg Kronawitter Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.2015 Sitzungsvorlage Nr. 14-20 / V 03124
+- TOP 7.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Film- und Fernsehaufnahmen auf öffentlichem Verkehrsgrund, Genehmigung für die Zeit vom 01.07.2015 bis 31.12.2015
+- TOP 7.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Zusätzliche Haltestelle für Stadtrundfahrten in der Luisenstraße am Elisenhof
+- TOP 7.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes in der Prielmayerstraße 5, Seite Elisenstraße
+- TOP 7.6.: Kreisverwaltungsreferat, Genehmigungsbescheid Augustenstraße 77, Freischankfläche
+- TOP 7.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum Karlstraße/Seidlstraße, Fernwärme, 18.06.2015 bis 30.08.2015
+- TOP 7.8.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Genauere Prüfung der Genehmigung weiterer Freischankflächen und weitere Beeinträchtigungen der Anwohner verhindern (Ziff. 1) Empfehlung Nr. 14-20 / E 00168 der Bürgerversammlung des 3. Stadbezirkes Maxvorstadt vom 16.10.2014 Einholen einer OB-Entscheidung nach Ablehnung der Beschlussvorlage durch den BA 3
+- TOP 7.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro LMU-Sommerfest am 03.07.2015 auf dem Gelände der Universität Eilentscheidung des Vorsitzenden vom 22.06.2015: Zustimmung
+- TOP 7.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung der Vorfahrtsregelung Augusten- / Görresstraße
+- TOP 7.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Kunstareal ? modifizierte Alternative 5 Beschluss der Vollversammlung vom 01.07.2015 Sitzungsvorlage Nr. 14-20 / V 02480
+- TOP 7.12.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Koordination und Service im Radverkehr a) Radverkehrsbeauftragte oder -beauftragter b) Konzept zur Bearbeitung von Anregungen und Beschwerden c) Anträge Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr. 14-20 / V 03026
+- TOP 7.1.: Sozialreferat, Amt für Wohnen und Migration, Beschlussvorlage Mieterbeiratswahl 2015, Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder Entfristung und Finanzierung der Stelle für eine Bürokraft des Mieterbeirates Beschluss des Sozialausschusses vom 18.06.2015 Sitzungsvorlage Nr. 14-20 / V 03011
+- TOP 7.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.06.2015 Einbeziehung des Museumsareals in die Planungen zum freien WLAN
+- TOP 7.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 7.1.: Direktorium, Budgetangelegenheiten Rückforderung des Zuschusses für das Sachbuch ?Münchner Bahnhofsviertel?
+- TOP 7.1.: Sitzungstermine 2016
+- TOP 7.2.: Antrag des BA 20 Hadern vom 08.06.2015 Anhörungsrecht für Bezirksausschüsse bei Änderung der Perspektive München, Leit- linie (Leitbild) aller Referate Der BA 20 bittet um Unterstützung seines Antrages.
+- TOP 7.3.: Oktoberfest-Reservierung für den BA: 3 Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP 7.4.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der BA-Geschäftsordnung: Abstimmung über einzelne Teile eines Antrags Antrag Nr. 14-20 / B 01057 des BA 7 Sendling-Westpark vom 14.04.2015
+- TOP 7.5.: Oberbürgermeister, Unterrichtung Akteneinsichtsrecht für Bezirksausschussmitglieder
+- TOP 7.1.: Anträge
+- TOP 7.2.: Entscheidungen und Anhörungen
+- TOP 7.3.: Aktuelle Sachstandsberichte
+- TOP 7.4.: Unterrichtungen
+- TOP 7.5.: Antrag der CSU-Fraktion im BA 3 vom 30.06.2015 Befristete Freischankfläche Adalbertstraße 28 ? Genehmigung auf Verlängerung durch den BA nicht erteilt
