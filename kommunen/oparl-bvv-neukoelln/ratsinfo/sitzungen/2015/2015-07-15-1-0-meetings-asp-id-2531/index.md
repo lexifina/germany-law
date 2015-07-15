@@ -1,0 +1,102 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-07-15T17:00:00+02:00
+- Ende: 2015-07-15T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2531
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2531
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 6.1: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 6.2: Wahl eines stellv. Bürgerdeputierten im Ausschuß für BiSchuKu - gewählt
+- TOP 6.3: Wahl eines Bürgerdeputierten in den Ausschuss für Wirtschaft - gewählt
+- TOP 6.4: Wahl eines stellv. Bürgerdeputierten in den Ausschuss für Wirtschaft - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Veränderungssperre XIV-60/29 für die Grundstücke mit der Lagebezeichnung Buckower Damm 50 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee / Buckower Damm") - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Berufung eines Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: U-Bahn-Werbung für den Stadtrat? - beantwortet
+- TOP 9.2: Prüfungszeit der VPU der Leonardo-da-Vinci-Schule - beantwortet
+- TOP 9.3: Einrichtung einer Fahrradstraße in der Bürknerstraße - beantwortet
+- TOP 9.4: Unterstellungen statt Abschleppen - beantwortet
+- TOP 9.5: Jobcenter Neukölln und Poststreik? - beantwortet
+- TOP 9.6: Medienkonzepte in den Neuköllner Kitas - beantwortet
+- TOP 9.7: Neuköllner Spielplätze auf belastetem Boden? - beantwortet
+- TOP 9.8: Kein Bettelverbot für Kinder in Neukölln? - schriftlich beantwortet
+- TOP 9.9: Online-Ordnungsamt auch in Neukölln? - schriftlich beantwortet
+- TOP 9.10: Probejahr am Gymnasium - schriftlich beantwortet
+- TOP 9.11: Maccabi Games nur außerhalb Neuköllns? - schriftlich beantwortet
+- TOP 9.12: Straßenbreite der August-Fröhlich-Straße - schriftlich beantwortet
+- TOP 9.13: Seniorenfreizeitstätte Alt-Rudow - schriftlich beantwortet
+- TOP 9.14: Ramadan bei Neuköllner Kindern und Jugendlichen? - schriftlich beantwortet
+- TOP 9.15: Einschränkung der Spätverkäufe? - schriftlich beantwortet
+- TOP 9.16: Rudower Dorfteich - schriftlich beantwortet
+- TOP 9.17: Cyber-Mobbing an Schulen - schriftlich beantwortet
+- TOP 9.18: Geplante Umsetzung der Seniorenfreizeitstätte auf dem Gelände der Alten Dorfschule - schriftlich beantwortet
+- TOP 9.19: Nutzung des Grundstückes Kiefholzstraße 74 - schriftlich beantwortet
+- TOP 9.20: Archäologische Ausgrabung auf dem zukünftigen Gelände der Clay-Schule - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Konsequenzen aus dem Prüfkatalog zur Senkung der HzE-Kosten - beantwortet
+- TOP 10.2: Verwahrlosungstendenzen in der Gropiusstadt?! - beantwortet
+- TOP 10.3: Laufende Bebauungsplanverfahren - beantwortet
+- TOP 10.4: Abriss der Flüchtlingsunterkunft in der Haarlemer Straße zum Jahresende? - beantwortet
+- TOP 10.5: Mobilitätshilfedienst in Neukölln - schriftlich beantwortet
+- TOP 10.6: Jugendberufsagentur - vertagt
+- TOP 10.7: Auswirkungen des Bundesprogramms "Soziale Teilhabe am Arbeitsmarkt" für Neukölln - vertagt
+- TOP 10.8: Reform der Grünflächenpflege? - vertagt
+- TOP 10.9: Ankauf des Grundstücks an der Haarlemer Straße/II - mit Änderungen in der BVV beschlossen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Umbenennung der Bushaltestelle "Werbellinstraße" in "Alfred-Scholz-Platz" - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Einrichtung von Wartehäuschen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Zusätzlicher Fahrradweg in der Kanalstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Anlaufstelle LSBTI im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Offene Daten Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Vorbereitungskurse für Pflegeberufe ausbauen - vertagt
+- TOP 11.7: Aufstellungsbeschluss für zwei soziale Erhaltungsgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Gutachten veröffentlichen - in der BVV abgelehnt
+- TOP 11.9: IHK – Außenstelle in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Computer statt Spielplatz - vertagt
+- TOP 12.2: Perspektiven für die Flüchtlingsunterbringung in Neukölln - vertagt
+- TOP 12.3: Pflegeheim an der Sonnenallee - vertagt
+- TOP 12.4: Deutsch-Arabisches-Zentrum ohne arabische Vereine? - vertagt
+- TOP 12.5: Reaktion des Bezirksamts auf den zunehmenden Fahrradverkehr - vertagt
+- TOP 12.6: Sanierung unseriös - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Seniorenarbeit neu strukturieren - überwiesen
+- TOP 14.2: Schutz und Förderung der Menschen in den Flüchtlingsunterkünften sicherstellen und verbessern - überwiesen
+- TOP 14.3: Vermittlung vom Bezirksamt - vertagt
+- TOP 14.4: Interkulturelle Seniorenarbeit im Reuterkiez - überwiesen
+- TOP 14.5: Mehr Fahrradabstellplätze vor den Neukölln Arcaden - überwiesen
+- TOP 14.6: Mehr Radbügel auf dem Rathausvorplatz - überwiesen
+- TOP 14.7: Das Alpha-Bündnis weiter finanzieren - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Beschulung der Flüchtlingskinder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Öffentliche Information über Kunst im öffentlichen Raum - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Ersatz für Seniorentagesstätte Alt-Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Grundausstattung - Schulbedarf für die Schüler*innen der Notunterkunft - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Öffentliche Toilette in der Parchimer Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Stärkung des Kulturstandortes Alt-Rudow 60 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.7: Parken in der Bouchéstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Zustimmung zur Entscheidung über die Erneuerung der Mischwasserkanäle der Mierstraße zwischen Lahnstraße und Mittelbuschweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Postalische Versorgung sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Freihaltung einer Radverkehrsanlage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Bebauungsplan 8-16a ("Clay-Oberschule") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Fahr-Rat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: "Infobox" am Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Umbenennung der "4. Gemeinschaftsschule Neukölln auf dem Campus Efeuweg" in "Gemeinschaftsschule Campus Efeuweg" - zur Kenntnis genommen (Beratungsfolge beendet)
