@@ -1,0 +1,61 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-07-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3527456
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3527456
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse koop e.V. Veranstaltung ?Isarsprudel? im August 2015
+- TOP .2.: (E) Budget der Bezirksausschüsse Miteinander. Füreinander. Das Sozialwerk München Ost e.V. Begegnungsnachmittag am 19.09.2015
+- TOP .3.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube ?komm?-Streetwork am 07.08.2015
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP 1: (E) Darstellung der zu erwartenden Schülerzahlen .... - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: (E) Größere und abdeckbare Abfallkörbe in den Isarauen Empfehlung Nr. 14-20 / E 00400 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen, Bezirksteil Au am 26.02.2015 - <div>nach Antrag mit Ergänzungen</div>
+- TOP 3: (E) WC- Anlage in den Frühlingsanlagen Eduard-Schmid- / Ohlmüllerstraße Empfehlung Nr. 14-20 / E 00401 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen, Bezirksteil Au am 26.02.2015 - <div>nach Antrag mit Ergänzungen</div>
+- TOP 4: (E) Entfernung der Altglascontainer auf der Brücke über den Auer Mühlbach an der Tauben- / Nockherstraße Empfehlung Nr. 14-20 / E 00399 der Bürger- versammlung des Stadtbezirkes 05 ? Au- Haidhausen, Bezirksteil Au am 26.02.2015 - <div>nach Antrag</div>
+- TOP 4.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 4.1.: Städtischer Wohnungsbestand in Au-Haidhausen
+- TOP 4.2.: Überarbeitung der Regelungen zur Sozialgerechten Bodennutzung
+- TOP 4.3.: Vergabe der frei finanzierten Wohnungen der GWG
+- TOP 4.4.: Einhaltung / Umsetzung der Hundehaltungsverordnung durch Beschilderung und verstärkte Kontrollen
+- TOP 4.5.: Verwendung von für Bienen geeigneten Samen und Blumen bei der Bepflanzung von öffentlichen Grünanlagen und Straßenrändern
+- TOP 4.7.: Kein Zuparken der Gehsteige in der Hochstraße
+- TOP 4.9.: Urheberrechtschutz am Orleansplatz
+- TOP 4.11.: Baumersatzpflanzungen 2008 - 2014
+- TOP 4.12.: Sicherheit in der Au
+- TOP 4.13.: Schulwegsicherheit an der Schweigerstraße
+- TOP 4.8.2: Reaktionen auf BA-Schreiben
+- TOP 4.8.3: Weitere Unterrichtungen
+- TOP 4.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 4.1.: Regsam
+- TOP 4.2.: Kinder und Jugend
+- TOP 4.3.: Behinderte und Barrierefreiheit
+- TOP 4.4.: Ausländer und Flüchtlinge
+- TOP 4.5.: Frauen und Mädchen
+- TOP 4.6.: Internet
+- TOP 4.7.: Baumschutz
+- TOP 4.1.: Berichte von wahrgenommenen Terminen
+- TOP 4.2.: Nächste UA-Sitzungen
+- TOP 4.3.: Nächste BA-Sitzung
+- TOP 4.4.: Sonstige Termine
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.8.: Behindertenstellplatz in der Haidhauser Straße
+- TOP 4.10.: Antrag auf artgerechte Reduzierung der Taubenpopulation, Errichtung eines Taubenhauses in Haidhausen
