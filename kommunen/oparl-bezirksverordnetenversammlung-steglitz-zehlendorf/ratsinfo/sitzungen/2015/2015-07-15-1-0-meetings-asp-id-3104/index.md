@@ -1,0 +1,83 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-07-15T17:00:00+02:00
+- Ende: 2015-07-15T22:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3104
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3104
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Auch 2014 weniger Straßenbäume? - beantwortet
+- TOP 3.2: Finanzierung von Arbeitsgemeinschaften an Schulen in unserem Bezirk - beantwortet
+- TOP 3.3: Gesundheitsgefährdung durch Ambrosia - beantwortet
+- TOP 3.4: Bearbeitung der Anträge "Härtefallmittel für Schulmittagessen" im Jugendamt - beantwortet
+- TOP 3.5: Baumpflanzungen - beantwortet
+- TOP 3.6: Zusätzliche Stellen für den Hochbauservice? - in der BVV zurückgezogen
+- TOP 3.7: Dauerparty an Schlachtensee und Kumme Lanke? - beantwortet
+- TOP 3.8: Umgang mit dem Bedarf an öffentlichen Spielplatzflächen - schriftlich beantwortet
+- TOP 3.9: Flexibles Betreuungsangebot - 24-Stunden-Kita im Bezirk - vertagt
+- TOP 3.10: Brücke am S-Bahnhof Botanischer Garten - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: An das Sanatorium Schlachtensee erinnern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan X - B 15 [südlich der Pücklerstraße] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Bebauungsplan X - B 17 [südlich der Schorlemerallee] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Bebauungsplan 6 - 27 (Post Hindenburgdamm) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan XII-252 (Gewerbegebiet Lichterfelde-Süd) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.2: Bebauungsplan 6-38 (Gewerbegebiet Giesensdorf) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Gewaltschutz im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: Ausschussanträge - erledigt
+- TOP 4.5.1: Fortführung des Projektes "fraueninfothek Steglitz-Zehlendorf" ab dem 01.01.2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Pilotprojekt "Nette Toilette" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Ombudsstelle beim JobCenter Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Dämmputz anbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Mit Arbeit und Ausbildung Flüchtlinge integrieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Das Sportsanierungsprogramm (Ssp) aufstocken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Erteilung der Baugenehmigung nach Vorstellung der Gutachten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Bessere Ausschilderung im Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Mieter und Mieterinnen von Seniorenwohnungen informieren - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Ehemalige Gutshofmauer Domäne Dahlem - überwiesen
+- TOP 5.2.2: IT-Beauftragte für unsere Schulen - überwiesen
+- TOP 5.2.3: Südender Parkplätze wieder herstellen! - überwiesen
+- TOP 5.2.4: Fußgängerampel Kaiser-Wilhelm-/ Ecke Dillgesstraße - überwiesen
+- TOP 5.2.5: City-Wiesen - überwiesen
+- TOP 5.2.6: Familienfreundlicher Bezirk III: Spielleitplanung für Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.7: Sichere Überquerung der Carstennstraße ermöglichen - überwiesen
+- TOP 5.2.8: Kreuzung Unterführung Stadtautobahn/ Schildhornstraße/ Kreuznacher Straße - überwiesen
+- TOP 5.2.9: Familienfreundlicher Bezirk IV: Stadtplanung für Kinder und Jugendliche - überwiesen
+- TOP 5.2.10: Parkplatzangebot Mexikoplatz - überwiesen
+- TOP 5.2.11: Situation der Gedenkstätte 17. Juni 1953 verbessern - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Aufhebung Haushaltssperre, Verhängung Stellenbesetzungssperre - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Jugend- und Musikarbeit der Schottenburg - Eine unendliche Geschichte? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Hilfe für Bezirksstadtrat Karnetzki - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Wer trägt das Ausfallrisiko für das Projekt Sozialraumorientierte Leistungen des Jugendamtes? - beantwortet
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Resolution: Steglitz-Zehlendorf bekennt sich zur Ehe für Alle - vertagt
+- TOP 10.2: Bundesjugendspiele durch den Bezirkssportbund durchführen lassen - vertagt
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Milieuschutz in Steglitz-Zehlendorf - vertagt
+- TOP 11.2: Einrichtung einer neuen Buslinie durch die Matterhornstraße - vertagt
+- TOP 12: Schlusswort des Vorstehers - erledigt
