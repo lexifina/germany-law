@@ -1,0 +1,135 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3546377
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3546377
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der Mai-Sitzung 1.3.2 Protokoll der Juni-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Erhöhung der Reinigungsfrequenz der Grünflächen und Mülleimern - am Wettersteinplatz - an der Ecke Fromundstraße / Otkerstraße - auf den Spielplätzen Bad-Wiesseestraße / Ecke Fromundstraße; Bürgerantrag vom 05.07.2015
+- TOP 2.2.: Fahrbahnmarkierung (Naupliastraße in Richtung Krankenhaus Harlaching) und Asphaltierung (Neu) des Radweges (Geiselgasteigstraße bis Menterschwaige - Haltestelle); Bürgerschreiben vom 20.06.2015
+- TOP 2.3.: Projekt Flaucher - neue Beschilderung für Radfahrer, Tempolimit etc. Befragung der Anwohner; Bürgerantrag zu 2.1.2.3 weitere Informationen des Antragstellers
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Antragstellerin: Kath. Kirchenstiftung Hl. Familie, für die Maßnahme: Konzert am 22.11.2015; Antragssumme: 1.400,00 ?; Beschlussvorlage des Direktoriums vom 29.06.2015
+- TOP 3.2.: AntragstellerIn: Carpe Diem München e.V., für die Maßnahme: Tanz- und Erzählcafe vom 15.09.2015 bis 15.09.2016; Antragssumme: 645,00 ?; Beschlussvorlage des Direktoriums vom 01.07.2015
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tierpark Hellabrunn - Verkehrsgutachten - Ergebnisbericht - Verkehrserhebung aus 2013 als Grundlage für das Verkehrsgutachten Zuleitung der Münchener Tierpark Hellabrunn AG (verwiesen aus der Sitzung vom 16.06.2015) zu 3.2.1.1 Parkhauskonzept "Auenland" am Tierpark Hellabrunn; Zuleitung eines Architekturbüros und Tierpark-Verkehrskonzept / Parkhaus; Bürgerschreiben vom 10.06.2015 (verwiesen aus der Sitzung vom 16.06.2015
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Giesinger Berg ? Fahrrad- und Fußgängerbrücke von der Lutherkirche zur Kreuzkirche; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 (vertagt aus der Sitzung vom 16.06.2015) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.3.: Tempo 30 in Untergiesing; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 (vertagt aus der Sitzung vom 16.06.2015) - <div></div>
+
+  						<div>nach Antrag / mit Änderung</div>
+- TOP 3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hochkalterstraße 6; Zuleitung des KVR mit der Bitte um Stellungnahme bis 29.07.2015
+- TOP 3.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2016; Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft am 14.07.2015; Zuleitung des RAW mit der Bitte um Stellungnahme hinsichtlich der BÜV-Empfehlung Nr. 14-20 / E 00293 - Taktverdichtung der Buslinie 139
+- TOP 3.1.: Verkehrsregulierung jetzt! Verkehrsleitsystem Autobahnkreuz München-Süd und Ampel A 995 Höhe (vor) Ausfahrt Unterhaching Nord; BA-Antrag Nr. 14-20 / B 01122 vom 21.04.15; Antwortschreiben des KVR vom 09.06.2015 (neutrale Erledigung)
+- TOP 3.2.: Wendeschleife Großhesseloher Brücke - Erhalt der Parkplätze; BA-Antrag Nr. 14-20 / B 01110 vom 21.04.15; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 03.06.2015 (neutrale Erledigung)
+- TOP 3.3.: Radwege in beide Richtungen zu befahren im 18. Stadtbezirk; BA-Antrag Nr. 14-20 / B 01214 vom 19.05.2015; Antwortschreiben des KVR vom 23.06.15 (negative Erledigung)
+- TOP 3.4.: Überplanung Humboldstraße, Freibadstraße, Schyrenstraße; BA-Antrag Nr. 14-20 / B 00732 vom 16.12.14; Antwortschreiben des Baureferats-Tiefbau vom 29.06.15 (positive Erledigung)
+- TOP 3.5.: Rechts vor Links in der Schyrenstraße / Freibadstraße beibehalten; BA-Antrag Nr. 14-20 / B 00579 vom 18.11.14; Antwortschreiben des KVR vom 25.06.15 (negative Erledigung)
+- TOP 3.1.: Taxistandplatz Sanatoriumsplatz: vorübergehende Verlängerung aufgrund der baustellenbedingten Aufhebung des Taxistandplaztes Großhesseloher Brücke; verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 3.2.: Koordination und Service im Radverkehr a) Radverkehrsbeauftragte oder -beauftragter b) Konzept zur Bearbeitung von Anregungen und Beschwerden c) Anträge Sitzungsvorlagen Nr. 14-20 / V 03026; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 08.07.2015 (VB)
+- TOP 3.3.: Beseitigung höhengleicher Bahnübergänge; Sitzungsvorlage Nr. 14-20 / V 02324; Bekanntgabe in der Sitzung des Bauausschusses vom 12.05.2015
+- TOP 3.4.: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potential von Zwei-System U-S-Bahnfahrzeugen für die Region München; Sitzungsvorlagen Nr. 14-20 / V 03124; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 17.06.2015 (SB)
+- TOP 3.5.: Nahverkehrsplan der LHM a) Sachstandsbericht b) Vorschlag zur Evaluierung u. Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens u. weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge u. Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 03603; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 08.07.2015 (VB)
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Mülleimer mit Deckel für den Spielplatz Gerhardstraße; Bürgeranliegen aus der BA-Sitzung vom 21.04.2015; Antwortschreiben des Baureferats-Gartenbau vom 09.06.2015 (positive Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Hauberrißerstraße 2; Ablehnungsbescheid vom 03.07.2015 3.3.6.1.2 Anwesen Harthauser Straße 25a; Genehmigungsbescheid vom 03.07.2015
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Neue Stangen für ein Volleyballnetz bei dem Beachvolleyballplatz am Perlacher Forst neben dem Münchner-Kindl-Heim - Wiese an der Oberbiberger Straße; BA-Antrag Nr. 14-20 / B 01121 vom 21.04.15; Antwortschreiben des Baureferats-Gartenbau vom 17.06.15 (positive Erledigung)
+- TOP 3.2.: Untersuchung des akutellen Raumbedarfs der Grund- und Mittelschulen durch das RBS; BA-Antrag Nr. 14-20 / B 00355 vom 16.09.2014; Antwortschreiben des RBS (positive Erledigung)
+- TOP 3.1.: Schulbauoffensive 2013 - 2030; Sitzungsvorlage Nr. 14-20 / V 03448; Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- u. Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss des Stadtrates vom 09.07.2015 (VB)
+- TOP 3.2.: Flüchtlingskinder - Elternberatungsstelle RBS-KITA; Information des RBS vom 05.06.2015
+- TOP 3.3.: REGSAM - Ein starkes Netzwerk für München; Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigene REGSAM-Stelle; Sitzungsvorlage Nr. 14-20 / V 01463; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 16.06.2015 (VB)
+- TOP 3.4.: Information über das neue Wohn- und Integrationsprojekt für UMF (unbegleitete minderjährige Flüchtlinge) in der Theodolindenstraße 24
+- TOP 3.5.: Nachbarschaftstreffs in München stärken; Begleitung des Bürgerschaftlichen Engagements, Finanzierung der Raumverwaltung u. Fortbildung u. Qualifizierung in Münchner Nachbarschaftstreffs; Sitzungsvorlage Nr. 14-20 / V 01597; Beschluss des Sozialausschusses vom 09.07.2015
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 1: (E) Kiosk Großhesseloher Brücke, geringe Auflagen für den/die Betreiber/in Empfehlung Nr. 14-20 / E 00301 der Bürgerversammlung des Stadtbezirks 18 Untergiesing - Harlaching am 13.11.14 - <div></div>
+- TOP 1.1.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München Leitlinie (Leitbild) aller Referate; BA-Antrag Nr. 14-20 / B 01264 des BA 20 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 1.2.: Auskunft über den Stand der Umsetzung des Sanierungskonzeptes zum Erhalt des überregionalen Notfallzentrums am Klinikum Harlaching; Antrag der CSU-Fraktion - <div></div>
+
+  						<div>nach Antrag / mit Ergänzung</div>
+- TOP 1.1.: Gemeinde Pullach im Isartal; Bebauungsplan Nr. 40 Hans-Kreis-Straße; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 05.08.2015
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Gabriel-Max-Straße 35, Neubau 2er Mehrfamilienhäuser mit TG sowie Rückbau 2er Gebäude - VORBESCHEID (Gabriel-Max-Straße 35 / Prößlstraße 15); Anhörung vom 03.06.2015 (vertagt aus der Sitzung vom 16.06.15)
+- TOP 1.2.: Säbener Straße 53, Neuerrichtung eines Staffelgeschosses auf ein Leistungszentrum; Anhörung vom 10.06.15 (vertagt aus der Sitzung vom 16.06.15)
+- TOP 1.3.: Gabriel-Max-Straße 19 - 19a, Neubau zweier Mehrfamilienhäuser mit Tiefgarage; Anhörung vom 19.06.2015
+- TOP 1.4.: Reinerstraße 4, Balkonanbau, Sanierung, Neuaufteilung der Wohneinheiten und Einbau einer Terrasse - TEKTUR; Anhörung vom 22.06.2015
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Sachstand zum BV Schmorellplatz 8; Anfrage des BA 18 aus der Mai-Sitzung; Antwortschreiben der Lokalbaukommission vom 22.06.2015
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen Lindenstraße; Mitteilung vom 09.06.2015 3.5.6.2.2 Anwesen Geiselgasteigstraße; Mitteilung vom 16.06.2015 3.5.6.2.3 Anwesen Willroider Straße; Mitteilung vom 25.06.2015
+- TOP 1.3.: Wohnen in München VI - Zeitplan und Themenvorschau; Zielzahl für den Wohnungsbau erhöhen! Sitzungsvorlagen Nr. 14-20 / V 03161; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 08.07.2015 (VB)
+- TOP 1.4.: Freiflächengestaltungssatzung ändern; Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik; Sitzungsvorlagen Nr. 14-20 / V 03433; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (SB)
+- TOP 1.5.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels; Sitzungsvorlagen Nr. 14-20 / V 02900; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 08.07.2015 (SB)
+- TOP 1.6.: Ehrenpreis für guten Wohnungsbau; Verleihung der Ehrenpreise 2015; Sitzungsvorlagen Nr. 14-20 / V 03176; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 17.06.2015 (SB)
+- TOP 1.7.: Ehemaliges Osram-Gelände; Empfehlungen aus der Bürgerversammlung des 18. Stadtbezirkes - Untergiesing-Harlaching - am 13.11.2014; Sitzungsvorlagen Nr. 14-20 / V 02548; Beschluss des Ausschusses für Stadtpl. und Bauordnung vom 17.06.2015 (SB)
+- TOP 1.8.: Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen; Kindertagesstätten sonstiger Träger; Kindergarten an der Wunderhornstraße 7a im 18. Stadtbezirk Untergiesing-Harlaching; Leistung eines Baukostenzuschusses; Sitzungsvorlage Nr. 14-20 / V 03438; Beschluss des Bildungsausschusses des Stadtrates vom 08.07.2015 (SB)
+- TOP 1.9.: Demografieberichte München - Teil 1 und Teil 2; Demografiebericht München - Teil 1 - Analyse und Bevölkerungsprognose 2013 bis 2030; Demografiebericht München - Teil 2 - Kleinräumige Bevölkerungsprognose 2013 bis 2030 für die Stadtbezirke; Sitzungsvorlagen Nr. 14-20 / V 03197; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 17.06.2015
+- TOP 1.1.: St.-Magnus-Str. 35, Neubau eines Wohnhauses mit Tiefgarage - VORBESCHEID; negative Stellungnahme des BA 18 aus der Mai-Sitzung; Abdruck des Vorbescheides vom 30.06.2015
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Errichtung eines Außendusch- und Umkleidebereichs im Freigelände des Bad Giesing-Harlaching; Antrag der SPD-Fraktion - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO), Abstimmung über einzelne Teile eines Antrags; Antrag Nr. 14-20 / B 01057 des BA 7 vom 14.04.2015; Schreiben des Direktoriums vom 22.06.2015 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Ablauf von Bügerversammlungen optimieren; BA-Antrag Nr. 14-20 / B 01177 des BA 14 vom 28.04.2015; Infoschreiben des Direktoriums vom 01.06.2015 für alle Bezirksausschüsse
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Akteneinsicht für Bezirksausschussmitglieder; Informationsschreiben von Herrn Oberbürgermeister Reiter vom 26.06.2015
+- TOP 4.2.: Information der Bezirksausschüsse; Neue Bädereintrittspreise ab 1. Juli 2015; Schreiben der SWM GmbH vom 24.06.2015
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
