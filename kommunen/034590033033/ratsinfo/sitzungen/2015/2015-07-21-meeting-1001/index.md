@@ -1,0 +1,53 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2015-07-21T18:50:00+02:00
+- Ende: 2015-07-21T22:18:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZW8qg4J9ndK60O-dy-UTUJw
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1001
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfwyGXnBPbIOkEzY2H1bwmj6qcP2NMTee6bGWw9nPKbE/Bekanntmachung_Rat_21.07.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSgbsuHzMlrGG8D0TG22oZ5GpydvJhqEiBWgAHd4J1gQ/Oeffentliche_Niederschrift_Rat_21.07.2015.pdf
+
+## Tagesordnung
+
+- TOP II.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 28.05.2015
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Benennung eines weiteren Vertreters in die beschließenden Ausschüssen für die Fraktion CDW
+- TOP 3.2: Verweisungsbeschluss
+- TOP 3.3: Familienwegweiser
+- TOP 4.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 4.1: Interessenbekundungsverfahren Grundstück "Große Straße / Franksmannstraße" hier: Bestätigung der Juryempfehlung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Projekt „Arkaden-Center“
+- TOP 4.3: Teilnahme am Programm „Wohnen mit Zukunft / Orte mit Zukunft“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Stellungnahme zur Neuaufstellung des Regionalen Raumordnungsprogramms des Landkreises Osnabrück - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sicherheit und Ordnung
+- TOP 5.1: Brandschutzbedarfsplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Jugendangelegenheiten
+- TOP 6.1: Antrag des "Fördervereins Jugendprojekt Bahnwaggon Lechtingen e.V." auf finanzielle Unterstützung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Hollager Mühle - Änderung der Benutzungsordnung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Hollager Mühle - Änderung der Entgeltordnung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Familie und Soziales
+- TOP 7.1: Kostenbeitrag für die Ferienbetreuung für Kinder im Alter von 6 bis 13 Jahren - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Kindertagesstätten
+- TOP 8.1: Mehrkosten bei der Umbaumaßnahme am Kindergarten St. Stephanus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kulturangelegenheiten
+- TOP 9.1: Überarbeitung der Richtlinie für die Kulturförderung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sportangelegenheiten
+- TOP 10.1: Antrag des Sportvereins BW Hollage auf Erstellung einer zusätzlichen Trainingshalle im Sportzentrum Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Umwelt- und Energieangelegenheiten
+- TOP 11.1: Einrichtung eines Carsharing-Angebots in Wallenhorst - mehrheitlich mit 21 Ja-Stimme(n), 10 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.: Straßenbau
+- TOP 12.1: Ausbau "Dörnter Weg" im Bereich des Bebauungsplanes "Hollage West" hier: Entscheidung über den Einbau von Fahrbahnschwellen - mehrheitlich mit 19 Ja-Stimme(n), 11 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 12.2: Antrag auf Planung eines interkommunalen Fuß- und Radweges entlang der „Moorbachstraße“ mit der Stadt Osnabrück - mehrheitlich mit 19 Ja-Stimme(n), 10 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen für das Haushaltsjahr 2014 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Genehmigung zur Annahme von Zuwendungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Bodenschwellen
+- TOP 14.2: Verhaltensregeln in Sitzungen
