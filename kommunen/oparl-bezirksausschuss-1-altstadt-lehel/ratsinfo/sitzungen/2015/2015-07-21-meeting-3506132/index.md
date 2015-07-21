@@ -1,0 +1,126 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-07-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506132
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506132
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .1.: Bürgerbegehren zum Erhalt des Landschaftsschutzgebiets ?Isarauen/Isaranlagen?
+- TOP .2.: Personelle Besetzung der Bezirksausschuss-Geschäftsstelle
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Änderung der BA-Geschäftsordnung: Abstimmung über einzelne Teile eines Antrags, Antrag Nr. 14-20 / B 01057 des BA 7 Sendling-Westpark vom 14.04.2015
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Um- bzw. Neubesetzungen in den Unterausschüssen
+- TOP .3.: Neuwahl der/des Vorsitzenden des Unterausschusses Gastronomie und öffentlicher Raum
+- TOP .5.: Sitzungstermine 2016
+- TOP .6.: Oktoberfest 2015: Reservierung der Ratsboxe für den BA 1: Wunschtermine, Uhrzeit und Dauer, Anzahl der Plätze
+- TOP .1.: Wasserhaltung während der Rohbaumaßnahmen Sendlinger Str. 46 / Kreuzstr. 17
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Prannerstr. 5 / Promenadeplatz 6: Ersatzbau Hoteltrakt (vertagt aus 2015.06 B 3.1.9 N)
+- TOP .2.: Prannerstr. 13: Fassadenänderung durch Fenstererneuerung im 4. OG
+- TOP .3.: Löwengrube 18 / Promenadeplatz 3: Nutzungsänderung und Umbau des Erdgeschosses in einen Bar- und Lounge-Betrieb sowie eines Keller-Teilbereichs in Gasträume des Gastronomiebetriebs ?Hugo's?
+- TOP .6.: Frauenstr. 7: Aufstockung eines Wohn-, Geschäfts- und Bürohauses
+- TOP .7.: Viktualienmarkt: Abt. II Umbau einer Gaststätte mit Erweiterung des Wirtsgartens, befristet auf 5 Jahre
+- TOP .8.: Pilotystr. 8 Rgb.: Nutzungsänderung und Umbau des Erdgeschosses von Werkstatt in Büro und/oder Kunstatelier, Grundrissänderung der zusammengehörigen Wohneinheit im 1. + 2. OG
+- TOP .9.: Müllerstraße 26: Nutzungsänderung einer Bankfiliale in einen Laden (Verkauf) und eine Gaststätte (Bar) in Wechselnutzung ? befristet bis zum 30.09.2016
+- TOP .10.: Sendlinger Str. 38: Umbau KG + EG, Teilung eines Ladens in zwei Läden im EG
+- TOP .11.: Löwengrube 10: Ausbau 2. DG (1.+2. Ebene), Errichtung von Gauben, Nutzungsänderung 1. DG: 2 Wohnungen zu Büros
+- TOP .12.: Thomas-Wimmer-Ring 9: Nutzungsänderung Büro- zu Wohnfläche / 1.OG
+- TOP .13.: Marienplatz 22: Umbau und Fassaden-Neugestaltung eines Geschäftshauses und Errichtung einer Freischankfläche (94,5 m²)
+- TOP .1.: Beschlussvorlage ?Stadt und Fluss ? Rahmenplanung innerstädtischer Isarraum? des Referates für Stadtplanung und Bauordnung (vertagt aus 2015.06 B 3.2.2 )
+- TOP .2.1: Gaststätten
+- TOP .1.: Altheimer Eck 14, Gaststätte ?Nigin?, Genehmigung einer Freischankfläche
+- TOP .2.: Maximiliansplatz 18, Gaststätte ?Lenbachs & Söhne?: Erweiterung der Freischankfläche
+- TOP .3.: Sendlinger-Tor-Platz 10 und 11: Änderung der Freischankflächen während des Umbaus des U-Bahnhofes
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Sendlinger Str. 33, Scotch & Soda Retail GmbH, Antrag auf Aufstellung einer Sitzgelegenheit (vertagt aus 2015.06 C 2.2.4 ? dazu Ortstermin des UA geplant)
+- TOP .2.: Herzogspitalstr. 10, Seasons Gmbh, Antrag auf Aufstellung einer Sitzgelegenheit
+- TOP .3.: Alter Hof 8 / Eingang Sparkassenstraße, Aufstellung von neuen Verkaufseinrichtungen
+- TOP .1.: Maßnahmen zur Lärm- und Schmutzminderung in der Müllerstraße, Beschlussvorlage zur Erledigung der Empfehlung Nr. 14-20/E 00351 der Bürgerversammlung vom 04.12.2014, Sitzungsvorlage Nr. 14-20/V 02639 mit Darstellung des aktuellen Sachstands vom 08.06.2015 (vertagt aus 2015.05 C 1.3/D 2.3 u. 2015.06 C 2.3.1 N)
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: Australisches Kulturfest vom 07. bis 09.08.2015 auf dem Rindermarkt
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Bürgeranliegen: Umbau Wilhelmsgymnasium ? Fahrradstellplätze an der renovierten Schule (vertagt aus 2015.6 D 1.3)
+- TOP 2.3.: Antrag Bündnis 90/Die Grünen: Öffnung der Westenriederstraße für den Radverkehr entgegen der Einbahnrichtung zwischen Viktualienmarkt und Radlsteg
+- TOP 2.5.: Antrag Bündnis 90/Die Grünen: Wiederherstellung der Poller im Bereich des öffentlichen Spazierweges/der Ballspielfläche auf der Praterinsel
+- TOP 2.6.: Antrag Bündnis 90/Die Grünen: Wiedereinrichtung des Brunnens und der Wasserablaufkonstruktion am Spielplatz südlich des Wehrsteges
+- TOP 2.7.: Antrag Bündnis 90/Die Grünen: Öffnung der Einbahnstraßenregelung für den Fahrradverkehr in entgegengesetzter Richtung im Bereich Josephspitalstraße, Brunnstraße, Hackenstraße
+- TOP 2.1.: Antrag auf Fällung einer Linde in der Wallstraße in Zusammenhang mit der Modernisierung des U-Bahnhofes Sendlinger Tor
+- TOP 2.3.: Antrag auf Fällung einer Platane in der Reichenbachstraße 5
+- TOP 2.4.: Odeonsplatz erweitern ? Fußgängerzone oder Shared Space für die Brienner Straße ? Gestaltungsideen für nördlichen Odeonsplatz / südliche Ludwigstraße gesucht Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 2.1.: Vorstellung ?Hofspielhaus?
+- TOP 2.1.: Bürgeranliegen: Unzureichende Raum- und Betreuungssituation zukünftiger Schüler der Grundschule am Gärtnerplatz
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Münchner Diskussionsforum für Entwicklungsfragen e.V. Buchprojekt ?München NICHT wie geplant?, Herausgabe Ende Juli 2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Freunde des St.-Anna-Gymnasiums e.V. Workshop und Aufführung eines Musik- und Tanzprojektes vom 13. - 25.07.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse ASZ Lehel Sommerkonzert am 23.09.2015
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Zusammen Aktiv Bleiben e.V. Beschaffung von Sport-Kleingeräten
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Demografieberichte München ? Teil 1 und Teil 2, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 17.06.2015, Sitzungsvorlage Nr. 14-20/V 03197
+- TOP 0.3.: Bauvorhaben Altheimer Eck 4, Antwort des Referates für Stadtplanung und Bauordnung auf die BA-Stellungnahme vom 21.01.2015, Abdruck der Baugenehmigung
+- TOP 0.5.: Wohnen in München IV ? Zeitplan und Themenvorschau: Zielzahl für den Wohnungsbau erhöhen! Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 08.07.2015, Sitzungsvorlage Nr. 14-20 / V 03191
+- TOP 0.7.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 08.07.2015, Sitzungsvorlage Nr. 14-20 / V 02900
+- TOP 0.8.: Bebauungsplan mit Grünordnung Nr. 2102 Sattlerstraße (beiderseits) zwischen Fürstenfelder Straße und Färbergraben -Aufstellungsbeschluss-, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 08.07.2015, Sitzungsvorlage Nr. 14-20 / V 03481
+- TOP 0.10.: Hinweis auf Zweckentfremdung von Wohnraum in der Damenstiftstr. 11, Antwort des Amtes für Wohnen und Migration auf das Schreiben des BA vom 17.06.2015
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.6.: Fränkisches Weinfest vom 10.07.-26.07.2015 im Alten Hof, Veranstaltung auf Privatgrund
+- TOP 0.8.: Sonntagsöffnungszeiten von Händlerbetrieben auf dem Viktualienmarkt
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.3.: Änderung der Straßenreinigungssatzung, Beschlussvorlage des Bauausschusses vom 12.05.2015 (VB), Sitzungsvorlage Nr. 14-20/V 02716
+- TOP 0.4.: Trinkwasserbrunnen für Münchner Plätze und Fußgängerzonen, Beschluss des Bauausschusses vom 23.06.2015 (VB), Sitzungsvorlage Nr. 14-20/V 02428
+- TOP 0.5.: Ausnahmezulassung des Referates für Gesundheit und Umwelt für nächtliche Bauarbeiten an Anlagen des ÖPNV zwischen 26. und 29. KW im Bereich Rumford-/Zwingerstraße
+- TOP 0.7.: Koordination und Service im Radverkehr: a) Radverkehrsbeauftragte oder -beauftragte; b) Konzept zur Bearbeitung von Anregungen und Beschwerden; c) Anträge, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. 14-20 / V 03026
+- TOP 0.9.: Ausnahmezulassung für nächtliche Tiefbauarbeiten an den Straßenbahngleisen vom 13. bis 18.07.2015 in der Maximilianstraße zwischen Sternstraße und Maximilianbrücke
+- TOP 0.2.: Förderung der Veranstaltung ?Thailändischer Folklore Abend? am 09.05.2015, Antwort des Kulturreferats auf Nachfrage des BA vom 18.05.2015
+- TOP 0.3.: Eilentscheidung des Vorsitzenden zur/zum: - Beschlussvorlage Schulbauoffensive 2013/2030
+- TOP 0.5.: Neue Bädereintrittspreise ab 01.07.2015
+- TOP 0.6.: Schulbauoffensive 2013-2030, Beschlussvorlage für die gemeinsame Sitzung des Bildungsausschusses mit dem Sport-, dem Bau-, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanz- und dem Umweltausschuss vom 09.07.2015, Sitzungsvorlage Nr. 14-20 / V 03448
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .5: Allgemeine Themen
+- TOP .4.: Betreuung des BA-Schaukastens an der Prälat-Zistl-Straße
+- TOP .7.: Antrag Bündnis 90/Die Grünen: Der Vorsitzende berichtet dem BA bei jeder Sitzung
+- TOP .1.: Bürgeranliegen: Umgestaltung des Max-Josephs-Platzes
+- TOP .4.: Neuhauser Str. 3: Umbau 7. OG und DG-Ausbau sowie Teilabbruch des Daches
+- TOP .5.: Sonnenstr. 9: Einbau von Dachgauben
+- TOP 2: (E) Maßnahmen zur Lärm und Schmutzminderung in der Müllerstraße
+- TOP 2.2.: Oktoberfestzüge 2015
+- TOP 2.3.: Bayerisches Genussfestival vom 31.07. bis 02.08.2015 auf dem Odeonsplatz
+- TOP 2.4.: Radlnacht 2015 am 08.08.2015
+- TOP 2.4.: Antrag Bündnis 90/Die Grünen: Wanderbäume auf dem Marienhof
+- TOP 2.2.: Umrüstung der Werbevitrine in eine Wechselanlage am Wartehäuschen ggü. Maffeistr. 4
+- TOP 2.2.: Glockenbachwerkstatt: Raumnot der Mittagsbetreuung an der Grundschule am Gärtnerplatz
+- TOP 0: Unterrichtungen
+- TOP 0.4.: Denkmalschutz-Richtlinien im Altstadt-Ensemble, Antwort des Referates für Stadtplanung und Bauordnung auf BA-Schreiben vom 19.05.2015
+- TOP 0.6.: Freiflächengestaltungssatzung ändern ? Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 08.07.2015, Sitzungsvorlage Nr. 14-20 / V 03433
+- TOP 0.9.: Bauvorhaben Dreifaltigkeitsplatz 2, Antwort des Referates für Stadtplanung und Bauordnung auf die BA-Stellungnahme vom 24.09.2014, Abdruck der Baugenehmigung
+- TOP 0.11.: Sanierung und Umbau ?Ruffiniblock?, stadteigenes Verwaltungsgebäude mit Ladengeschäften, Sendlinger Str. 1/Rosental 1/Rindermarkt 10 inkl. Behandlung des BA-Antrags vom 16.06.2015, Beschlussvorlage für den Kommunalausschuss am 16.07.2015
+- TOP 0.5.: Eilentscheidung des Vorsitzenden zur/zum: - Infoveranstaltung ShareTheMeal am 31.07.2015 auf dem Karlsplatz - Radl-Kulturage am 17. und 18.07.2015 auf dem Odeonsplatz - ?Baucamp? auf dem Marstallplatz im Rahmen des Projekts ?Shabbyshabby Apartments? - Sommerfest des Literaturhauses am 23.07.2015 auf dem Salvatorplatz - Radlnacht 2015: Vorprüfung möglicher Streckenvarianten - Verabschiedung von Kirchenmusikern am 25.07.2015 auf dem Mariannenplatz - Tag der offenen Tür der Landeshauptstadt München am 18.07.2015
+- TOP 0.7.: Vergabeverfahren Kulturstrand 2015, Antwort des Kreisverwaltungsreferat auf BA-Schreiben vom 13.05.2015
+- TOP 0.9.: Weihnachtsdorf in der Residenz vom 23.11. bis 22.12.2015, Veranstaltung auf Privatgrund
+- TOP 0.10.: Keine Veranstaltungen am Vater-Rhein-Brunnen und in der Steinsdorfstraße, BV-Empfehlung Nr. 14-20 / E 00337 am 04.12.2014, Entscheidung des Oberbürgermeisters vom 01.07.2015 nach Ablehnung der Beschlussvorlage durch den BA 1
+- TOP 0.11.: Münchner Christkindlmarkt 2015 (27.11. bis 24.12.2015), Beschluss des Ausschusses für Arbeit und Wirtschaft vom 23.06.2015, Sitzungsvorlage Nr. 14-20 / V 03166
+- TOP 0.2.: Verbot von Laubbläsern durch die Stadt München, Beschluss des Umweltausschusses vom 05.05.2015 (VB), Sitzungsvorlage Nr. 14-20/V 02862
+- TOP 0.6.: Fällung einer Kastanie in Herzog-Wilhelm-Str. 25 als Gefahrenbaum ? Mitteilung des Baureferats Gartenbau
+- TOP 0.8.: Nahverkehrsplan (NVP) der Landeshauptstadt München: a) Sachstandsbericht; b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards; c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen; d) Vergabe der Beratungs- und Gutachterleistungen; e) Anträge und Empfehlungen, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 08.07.2015 (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 0.10.: Betriebskonzept der Linien U3/U6 während der Stellwerkarbeiten im Bereich U-Bahnhof Poccistraße an den Sonntagen 16. und 23.08.2015
+- TOP 0.11.: Ausnahmegenehmigung für eine Baustelleneinrichtung Auf der Insel zur Durchführung von Probebohrungen an der Isar-Ufermauer
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.4.: Dokumentation zum bezuschussten Puppentheater-Festival ANFÄNGE(R) im März 2015
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge und Bürgeranliegen
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP 2.3.2: Sonstige
+- TOP 0.8.: Nachbarschaftsarbeit in München stärken ? Begleitung des Bürgerschaftlichen Engagements, Finanzierung der Raumverwaltung und Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs, Beschlussvorlage für den Sozialausschuss vom 09.07.2015, Sitzungsvorlage Nr. 14-20 / V 01597
