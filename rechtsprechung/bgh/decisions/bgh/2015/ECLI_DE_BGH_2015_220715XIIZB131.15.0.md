@@ -1,0 +1,311 @@
+---
+ecli: "ECLI:DE:BGH:2015:220715XIIZB131.15.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 131/15"
+decided: "2015-07-22"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2015&Sort=1&Seite=58&nr=72128&anz=3079&pos=1741&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2015-07-22_XII_ZB_131_15_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0313.md", "germany/bund/acts/bgb/1578b.md", "germany/bund/acts/famfg/0115.md", "germany/bund/acts/famfg/0117.md", "germany/bund/acts/famfg/0120.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/zpo/0117.md", "germany/bund/acts/zpo/0520.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0530.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, XII ZB 131/15 vom 2015-07-22
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                            BESCHLUSS
+XII ZB 131/15
+
+                                    vom
+
+                                22. Juli 2015
+
+                            in der Familiensache
+
+
+Nachschlagewerk:      ja
+
+BGHZ:               nein
+
+BGHR:                 ja
+
+
+
+FamFG § 117 Abs. 1 Satz 1; ZPO § 520 Abs. 3
+
+
+Zur Frage, wann in Ehe- und Familienstreitsachen eine Eingabe, mit der der
+Beschwerdeführer um die Einstellung der Zwangsvollstreckung aus dem erstinstanzlichen Beschluss nachsucht, gleichzeitig auch die Beschwerdebegründung
+darstellt (Fortführung der Senatsbeschlüsse vom 7. März 2012 - XII ZB 421/11 -
+FamRZ 2012, 962 und vom 15. Februar 1995 - XII ZB 7/95 - NJW 1995, 2112).
+
+BGH, Beschluss vom 22. Juli 2015 - XII ZB 131/15 - OLG Celle
+                                                    AG Tostedt
+
+                                          -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 22. Juli 2015 durch den Vorsitzenden Richter Dose, die Richterin Weber-Monecke und die Richter Schilling,
+    Dr. Nedden-Boeger und Guhling
+
+    beschlossen:
+
+
+          Auf die Rechtsbeschwerde des Antragsgegners wird der Beschluss des 21. Zivilsenats - Senat für Familiensachen - des Oberlandesgerichts Celle vom 16. Februar 2015 aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+          über die Kosten des Rechtsbeschwerdeverfahrens, an das Beschwerdegericht zurückverwiesen.
+
+          Beschwerdewert: 38.839 €
+
+
+
+
+                                       Gründe:
+
+                                           I.
+
+1         Die Antragstellerin nimmt den Antragsgegner, ihren früheren Ehemann,
+    auf nachehelichen Unterhalt in Anspruch.
+
+2         Die im Jahr 2005 geschiedenen Beteiligten regelten den nachehelichen
+    Unterhalt durch einen im April 2004 abgeschlossenen notariellen Vertrag. Seit
+    2007 leistete der Antragsgegner keine Zahlungen mehr. Mit ihrem beim Familiengericht eingereichten Antrag hat die Antragstellerin ihn auf Unterhaltszahlung
+    ab Juli 2012 in Anspruch genommen.
+
+                                         -3-
+
+
+
+3         Das Amtsgericht hat dem Antrag teilweise stattgegeben und den Antragsgegner verpflichtet, an die Antragstellerin ab dem Monat Juli 2012 nachehelichen Unterhalt in Höhe von monatlich 2.427,46 € zu zahlen.
+
+4         Gegen diesen ihm am 4. Juli 2014 zugestellten Beschluss hat der Antragsgegner mit am 22. Juli 2014 beim Amtsgericht eingegangenem Schriftsatz
+    Beschwerde eingelegt. Die Beschwerdeschrift enthält den Antrag, den amtsgerichtlichen Beschluss aufzuheben und die Anträge der Antragstellerin zurückzuweisen. Auf entsprechenden Antrag des Antragsgegners hat das Oberlandesgericht die Beschwerdebegründungsfrist am 8. August 2014 bis 6. Oktober
+    2014 verlängert.
+
+5         Nachdem sie Akteneinsicht genommen hatte, hat die Verfahrensbevollmächtigte des Antragsgegners mit Schriftsatz vom 13. August 2014 die Einstellung der Zwangsvollstreckung beantragt und unter Ziffer 2 der Begründung
+    ausgeführt: "Die inhaltliche Begründung des Rechtsmittels wird innerhalb der
+    Beschwerdebegründungsfrist erfolgen. Im Vorgriff darauf wird Folgendes vorgetragen: …"
+
+6         Binnen der auf weiteren Antrag vom 15. September 2014 nochmals bis
+    einschließlich 6. Dezember 2014 verlängerten Beschwerdebegründungsfrist ist
+    kein als Beschwerdebegründung bezeichneter Schriftsatz beim Oberlandesgericht eingegangen. Nach einem Hinweis des Beschwerdegerichts, dass es die
+    Beschwerde mangels Beschwerdebegründung zu verwerfen beabsichtige, hat
+    der Antragsgegner hilfsweise Wiedereinsetzung in den vorigen Stand beantragt
+    und am 15. Januar 2015 einen als Beschwerdebegründung bezeichneten
+    Schriftsatz eingereicht.
+
+                                          -4-
+
+
+
+7          Das Oberlandesgericht hat mit dem angefochtenen Beschluss den Wiedereinsetzungsantrag als unbegründet zurückgewiesen und die Beschwerde
+     verworfen. Hiergegen richtet sich die Rechtsbeschwerde des Antragsgegners.
+
+
+
+
+                                           II.
+
+8          Die Rechtsbeschwerde hat Erfolg.
+
+9          1. Sie ist gemäß § 117 Abs. 1 Satz 4 FamFG i.V.m. §§ 522 Abs. 1
+     Satz 4, 574 Abs. 1 Satz 1 Nr. 1 ZPO statthaft und auch im Übrigen zulässig. Die
+     Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des
+     Senats (§ 574 Abs. 2 Nr. 2 ZPO). Der angefochtene Beschluss verletzt den Antragsgegner in seinem Verfahrensgrundrecht auf Gewährung wirkungsvollen
+     Rechtsschutzes (Art. 2 Abs. 1 GG i.V.m. dem Rechtsstaatsprinzip), das den
+     Gerichten verbietet, den Beteiligten den Zugang zu einer in der Verfahrensordnung eingeräumten Instanz in unzumutbarer, aus Sachgründen nicht zu rechtfertigender Weise zu erschweren (st. Rspr., vgl. etwa Senatsbeschluss vom
+     23. Januar 2013 - XII ZB 167/11 - FamRZ 2013, 1117 Rn. 4 mwN).
+
+10         2. Die Rechtsbeschwerde ist auch begründet.
+
+11         a) Das Beschwerdegericht ist der Auffassung, eine Wiedereinsetzung
+     komme nicht in Betracht, weil ein dem Antragsgegner zuzurechnendes (Organisations-)Verschulden seiner Verfahrensbevollmächtigten vorliege. Die Beschwerde sei mithin als unzulässig zu verwerfen, nachdem sie nicht fristgerecht
+     begründet worden sei. Daran ändere auch der Schriftsatz vom 13. August 2014
+     nichts, weil er nicht den Anforderungen an eine Beschwerdebegründung genüge. Dabei könne dahinstehen, ob - woran Zweifel bestünden - er den von
+     §§ 117 FamFG, 520 Abs. 3 ZPO geforderten Vortrag enthalte. Denn um eine
+
+                                          -5-
+
+
+
+     wirksame Beschwerdebegründung darzustellen, müsse er auch zur Begründung des Rechtsmittels bestimmt sein.
+
+12         Das sei hier nicht der Fall. Der Antragsgegner habe vielmehr erklärt, die
+     Begründung noch innerhalb der Frist nachliefern zu wollen. Auch in der Folgezeit sei er nicht davon ausgegangen, sein Rechtsmittel ausreichend oder gar
+     abschließend begründet zu haben. Im Grundsatz sei bei einem gleichzeitigen
+     Antrag auf Verlängerung der Rechtsmittelbegründungsfrist nicht anzunehmen,
+     ein Schriftsatz sei zur Begründung bestimmt. Hier gelte angesichts des nachfolgenden Verlängerungsantrags vom 15. September 2014 nichts anderes. Darüber hinaus habe der Antragsgegner durch den Eingangssatz, wonach die Beschwerdebegründung innerhalb der Frist vorgelegt werde, deutlich zum Ausdruck gebracht, das Rechtsmittel noch nicht inhaltlich begründen zu wollen.
+
+13         Zudem diene die fristgebundene Beschwerdebegründung der Beschleunigung und Konzentration des Beschwerdeverfahrens sowie dazu, dass Gegner
+     und Gericht sich auf die erhobenen Einwendungen einstellen könnten. Dieser
+     Zweck würde aber vollständig vereitelt, wenn man einen vom Beschwerdeführer
+     selbst als lückenhaft und nicht der inhaltlichen Begründung dienend bezeichneten Schriftsatz als gesetzlich geforderte Begründung ausreichen ließe.
+
+14         b) Das hält rechtlicher Überprüfung nicht stand. Entgegen der Annahme
+     des Beschwerdegerichts erfüllt der Schriftsatz vom 13. August 2014 die gesetzlichen Anforderungen der §§ 117 Abs. 1 Satz 1 FamFG, 520 Abs. 3 ZPO an
+     eine Beschwerdebegründung. Nachdem diese binnen der Frist des § 117
+     Abs. 1 Satz 3 FamFG beim Oberlandesgericht eingegangen ist, stellt sich die
+     Frage einer Wiedereinsetzung in den vorigen Stand gegen die Versäumung der
+     Beschwerdebegründungsfrist nicht.
+
+                                           -6-
+
+
+
+15         aa) In Ehesachen und Familienstreitsachen hat der Beschwerdeführer
+     gemäß § 117 Abs. 1 Satz 1 FamFG zur Begründung der Beschwerde einen
+     bestimmten Sachantrag zu stellen und diesen zu begründen. Er muss demnach
+     in der Beschwerdebegründung darlegen, in welchem Umfang er die erstinstanzliche Entscheidung angreifen will und wie er den Angriff begründet. Da § 117
+     FamFG keine speziellen Regelungen zum Inhalt der Beschwerdebegründung
+     enthält, beurteilt sich nach den allgemeinen Grundsätzen, ob ein Beschwerdeantrag hinreichend bestimmt und ausreichend begründet ist. Deshalb können
+     für den notwendigen Inhalt der Beschwerdebegründung im Wesentlichen die
+     Anforderungen herangezogen werden, die für eine Berufungsbegründung nach
+     § 520 Abs. 3 Satz 2 ZPO gelten, auch wenn § 117 Abs. 1 Satz 4 FamFG nicht
+     auf § 520 Abs. 3 ZPO verweist (st. Rspr. des Senats, vgl. etwa Senatsbeschlüsse vom 1. April 2015 - XII ZB 503/14 - FamRZ 2015, 1009 Rn. 10 und
+     vom 25. Juni 2014 - XII ZB 134/13 - FamRZ 2014, 1443 Rn. 15).
+
+16         (1) Nach § 520 Abs. 3 Satz 2 Nr. 2 ZPO muss die Berufungsbegründung
+     die Umstände bezeichnen, aus denen sich nach Ansicht des Berufungsklägers
+     die Rechtsverletzung und deren Erheblichkeit für die angefochtene Entscheidung ergeben. Dazu gehört eine aus sich heraus verständliche Angabe, welche
+     bestimmten Punkte des angefochtenen Urteils der Berufungskläger bekämpft
+     und welche tatsächlichen oder rechtlichen Gründe er ihnen im Einzelnen entgegensetzt. Besondere formale Anforderungen bestehen nicht; für die Zulässigkeit
+     der Berufung ist es insbesondere ohne Bedeutung, ob die Ausführungen in sich
+     schlüssig oder rechtlich haltbar sind. Jedoch muss die Berufungsbegründung
+     auf den konkreten Streitfall zugeschnitten sein. Es reicht nicht aus, die Auffassung des Erstgerichts mit formularmäßigen Sätzen oder allgemeinen Redewendungen zu rügen oder lediglich auf das Vorbringen erster Instanz zu verweisen (BGH Beschlüsse vom 10. März 2015 - VI ZB 28/14 - NJW 2015, 1458
+     Rn. 8 und vom 23. Oktober 2012 - XI ZB 25/11 - NJW 2013, 174 Rn. 10, jeweils
+
+                                          -7-
+
+
+
+     mwN; vgl. auch Senatsbeschluss vom 22. November 2006 - XII ZB 130/02 -
+     FamRZ 2007, 206).
+
+17           (2) Der Berufungsbegründungspflicht ist allerdings nicht schon dadurch
+     genügt, dass innerhalb der Begründungsfrist ein Schriftsatz des Berufungsklägers eingeht, der Berufungsrügen im Sinne von § 520 Abs. 3 Satz 2 ZPO enthält. Vielmehr ist erforderlich, dass der Schriftsatz auch zur Begründung bestimmt ist (BGH Beschluss vom 14. März 2005 - II ZB 31/03 - FamRZ 2005,
+     882).
+
+18           Dabei muss der Schriftsatz jedoch nicht als Berufungsbegründung bezeichnet sein. Vielmehr kann nach der Rechtsprechung des Bundesgerichtshofs auch eine Eingabe, mit der der Berufungskläger um die Einstellung der
+     Zwangsvollstreckung aus dem erstinstanzlichen Urteil oder um Bewilligung von
+     Prozesskostenhilfe nachsucht, gleichzeitig die Berufungsbegründung darstellen
+     (vgl. etwa Senatsbeschlüsse vom 7. März 2012 - XII ZB 421/11 - FamRZ 2012,
+     962 Rn. 11 und vom 15. Februar 1995 - XII ZB 7/95 - NJW 1995, 2112, 2113;
+     Senatsurteil vom 15. Februar 1989 - IVb ZR 55/88 - FamRZ 1989, 849; vgl.
+     auch BGH Beschluss vom 30. Juli 1998 - III ZB 19/98 - NJW-RR 1999, 212).
+     Dies muss der Berufungskläger nicht ausdrücklich hervorheben, sondern es
+     genügt, dass sich eine entsprechende Bestimmung aus dem Zusammenhang
+     und den Begleitumständen ergibt. Da im Allgemeinen keine Partei die mit der
+     Versäumung einer Rechtsmittelfrist verbundenen prozessualen Nachteile in
+     Kauf nehmen will, ist davon auszugehen, dass ein inhaltlich den Anforderungen
+     des § 520 Abs. 3 ZPO entsprechendes Gesuch um Prozesskostenhilfe oder
+     Einstellung der Zwangsvollstreckung auch als Berufungsbegründung dienen
+     soll, sofern sich nicht ein anderer Wille des Berufungsklägers aus den Begleitumständen mit einer jeden vernünftigen Zweifel ausschließenden Deutlichkeit
+     ergibt. Bei der hiernach erforderlichen Prüfung der Willensrichtung des Beru-
+
+                                           -8-
+
+
+
+     fungsklägers kommt es allein auf dessen erklärten, nach außen hervorgetretenen Willen im Zeitpunkt der Einreichung des Schriftsatzes an (Senatsbeschlüsse vom 5. März 2008 - XII ZB 182/04 - FamRZ 2008, 1063 Rn. 12; BGHZ 165,
+     318 = FamRZ 2006, 400 und vom 15. Februar 1995 - XII ZB 7/95 - NJW 1995,
+     2112, 2113; Senatsurteil vom 15. Februar 1989 - IVb ZR 55/88 - FamRZ 1989,
+     849 f.; BGH Beschluss vom 14. März 1995 - VI ZB 4/95 - VersR 1995, 1462).
+
+19         bb) Gemessen hieran genügt der Schriftsatz des Antragsgegners vom
+     13. August 2014 den Anforderungen des § 117 Abs. 1 Satz 1 FamFG an eine
+     Beschwerdebegründung.
+
+20         (1) Der Antragsgegner hatte bereits in seiner Beschwerdeschrift einen
+     konkreten Beschwerdeantrag im Sinne von §§ 117 Abs. 1 Satz 1 FamFG, 520
+     Abs. 3 Satz 2 Nr. 1 ZPO gestellt.
+
+21         (2) Zu Unrecht bezweifelt das Beschwerdegericht, dass der Schriftsatz
+     vom 13. August 2014 den von §§ 117 Abs. 1 Satz 1 FamFG, 520 Abs. 3 Satz 2
+     Nr. 2 bis 4 ZPO geforderten Vortrag enthält.
+
+22         Das Amtsgericht hatte eine Anpassung des notariellen Vertrags wegen
+     Störung der Geschäftsgrundlage im Sinne des § 313 BGB unter Verweis auf
+     den Vertragswortlaut abgelehnt. In dem Schriftsatz vom 13. August 2014 hat
+     der Antragsgegner unter anderem dargelegt, weshalb demgegenüber eine Anpassung dahin vorzunehmen sei, dass er sich wegen der Neuregelung des
+     § 1578 b BGB auf die nach dieser Vorschrift gegebenen Befristungs- und Begrenzungsmöglichkeiten berufen könne. Dieser Vortrag genügt § 520 Abs. 3
+     Satz 2 Nr. 2 ZPO, weil er in ausreichender Weise und auf den konkreten Streitfall zugeschnitten Umstände bezeichnet, aus denen sich eine Rechtsverletzung
+     und deren Erheblichkeit für die angefochtene Entscheidung ergibt. Mithin hat
+
+                                          -9-
+
+
+
+     der Antragsgegner seine verfahrensrechtliche Pflicht zur Darlegung eines Beschwerdegrundes erfüllt.
+
+23         (3) Anders als das Beschwerdegericht meint, war der Schriftsatz vom
+     13. August 2014 (auch) zur Begründung der Beschwerde bestimmt. Es fehlt an
+     ausreichenden Anhaltspunkten für einen entgegenstehenden Willen des Antragsgegners.
+
+24         Sie ergeben sich wie dargelegt nicht schon aus dem Umstand, dass die
+     Ausführungen zur Begründung der Beschwerde im Rahmen des mit "Antrag auf
+     Einstellung der Zwangsvollstreckung nach § 120 FamFG" überschriebenen
+     Schriftsatzes erfolgten. Soweit das Beschwerdegericht zur Begründung seiner
+     Entscheidung auf spätere Anträge zur Verlängerung der Beschwerdebegründungsfrist abstellt, nimmt es dem Schriftsatz nachfolgendes Verhalten des Antragsgegners in den Blick. Auf ein solches kann aber bei der Prüfung der dem
+     Schriftsatz zugrunde liegenden Willensrichtung des Rechtsmittelführers nicht
+     abgehoben werden, weil es hierfür nur auf dessen erklärten, nach außen getretenen Willen im Zeitpunkt der Einreichung des Schriftsatzes ankommt (Senatsurteil vom 15. Februar 1989 - IVb ZR 55/88 - FamRZ 1989, 849, 850). Dies unterscheidet die vorliegende Fallgestaltung von derjenigen, bei der der Schriftsatz selbst zusätzlich auch ein Gesuch auf Verlängerung der Beschwerdebegründungsfrist enthält (vgl. dazu BGH Beschluss vom 14. März 2005
+     - II ZB 31/03 - FamRZ 2005, 882).
+
+25         Schließlich kann auch dem einleitenden Passus, wonach "im Vorgriff" auf
+     die innerhalb der Beschwerdebegründungsfrist erfolgende inhaltliche Begründung des Rechtsmittels vorgetragen werde, nicht entnommen werden, dass die
+     Ausführungen nicht zur Beschwerdebegründung bestimmt sein sollten. Zwar
+     kündigt der Antragsgegner mit dieser Aussage einen (weiteren) Begründungs-
+
+                                         - 10 -
+
+
+
+     schriftsatz an, doch er macht zugleich deutlich, dass die nachfolgenden Erwägungen bereits ebenfalls der Begründung seines Rechtsmittels dienen sollen.
+     Denn die Erklärung, im Vorgriff zur Begründung vortragen zu wollen, kann nur
+     dahin verstanden werden, dass schon die nachfolgenden Ausführungen (vorab)
+     die Beschwerde begründen sollen. Ein Beschwerdeführer ist auch rechtlich
+     nicht gehindert, seine das Rechtsmittel begründenden Ausführungen in mehreren Schriftsätzen innerhalb der Beschwerdebegründungsfrist vorzunehmen (vgl.
+     Thomas/Putzo/Reichold ZPO 36. Aufl. § 520 Rn. 1). Sofern - wie hier - bereits
+     der erste Schriftsatz den Anforderungen an eine Beschwerdebegründung genügt und zumindest auch zur Begründung bestimmt ist, stellt ein weiterer fristgerecht eingehender Schriftsatz selbst dann, wenn er mit "Beschwerdebegründung" überschrieben ist, lediglich eine ohne weiteres erlaubte Ergänzung des
+     Beschwerdevorbringens dar. Umgekehrt hat das Unterbleiben eines solchen
+     weiteren Schriftsatzes trotz entsprechender Ankündigung nicht zur Folge, dass
+     die zuvor erfolgte Begründung ihre verfahrensrechtliche Wirkung im Sinne des
+     § 117 Abs. 1 FamFG verliert.
+
+26         Zu einem anderen Ergebnis führt auch nicht die Überlegung des Beschwerdegerichts, die an eine Frist gebundene Beschwerdebegründung nach
+     §§ 117 FamFG, 520 ZPO diene der Beschleunigung und der Konzentration des
+     Beschwerdeverfahrens sowie dazu, dass sich Gegner und Gericht auf die erhobenen Einwendungen einrichten könnten. In den Familienstreitsachen betreffenden Beschwerdeverfahren ist - anders als im Berufungsrechtszug - mangels
+     entsprechenden Verweises in § 117 Abs. 2 Satz 1 FamFG die Bestimmung des
+     § 530 ZPO nicht anwendbar, sondern die Zulassung von erst nach Ablauf der
+     Beschwerdebegründungsfrist vorgebrachten Beschwerdegründen allein an
+     § 115 FamFG zu messen (vgl. etwa Keidel/Weber FamFG 18. Aufl. § 117
+     Rn. 22; Borth/Grandel in Musielak/Borth FamFG 5. Aufl. § 117 Rn. 1; Prütting/
+     Helms/Feskorn FamFG 3. Aufl. § 117 Rn. 45; Schulte-Bunert/Weinreich/Unger
+
+                                       - 11 -
+
+
+
+FamFG 4. Aufl. § 117 Rn. 19 f.; vgl. auch BT-Drucks. 16/6308 S. 224 f.). Unabhängig davon hat der Rechtsmittelführer - hier der Antragsgegner - mit Einreichung des ersten zur Begründung der Beschwerde bestimmten Schriftsatzes
+für Gericht und Verfahrensgegner erkennbar die Umstände bezeichnet, die er
+jedenfalls gegen die angegriffene Entscheidung einwendet. Ob binnen der Frist
+des § 117 Abs. 1 Satz 3 FamFG noch weitere Einwendungen erhoben werden,
+ist eine hiervon zu trennende Frage.
+
+
+
+
+Dose                          Weber-Monecke                          Schilling
+
+         Nedden-Boeger                               Guhling
+
+
+
+
+Vorinstanzen:
+AG Tostedt, Entscheidung vom 01.07.2014 - 14 F 388/12 -
+OLG Celle, Entscheidung vom 16.02.2015 - 21 UF 195/14 -
