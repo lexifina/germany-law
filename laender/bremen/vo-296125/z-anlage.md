@@ -5,7 +5,7 @@ BKZ | Bezeichnung | Verarbeitungsbefugnis
 011 | Rechnungshof | Audit
 020 | Senatskanzlei | Audit, ZWB, HHB, VN1, VN2
 028 | Bevollmächtigte beim Bund und Europa | Audit, ZWB, HHB, VN1, VN2
-030 | Senator für Inneres und Sport | Audit, ZWB, HHB, VN1, VN2
+030 | Senator für Inneres | Audit, ZWB, HHB, VN1, VN2
 060 | Ortsamt Hemelingen | Audit, ZWB, HHB, VN1, VN2
 061 | Ortsamt Burglesum | Audit, ZWB, HHB, VN1, VN2
 062 | Ortsamt Vegesack | Audit, ZWB, HHB, VN1, VN2
@@ -25,15 +25,15 @@ BKZ | Bezeichnung | Verarbeitungsbefugnis
 078 | Ortsamt Schwachhausen/Vahr | Audit, ZWB, HHB, VN1, VN2
 100 | Senator für Justiz und Verfassung | Audit, ZWB, HHB, VN1, VN2
 192 | Sportamt | Audit, ZWB, HHB, VN1, VN2
-200 | Senatorin für Bildung und Wissenschaft -Bildung- | Audit, ZWB, HHB, VN1, VN2
-200 | Senatorin für Bildung und Wissenschaft -Wissenschaft- | Audit, ZWB, HHB, VN1, VN2
+200 | Senatorin für Kinder und Bildung -Bildung- | Audit, ZWB, HHB, VN1, VN2
+200 | Senatorin für Wissenschaft, Gesundheit und Verbraucherschutz -Wissenschaft- | Audit, ZWB, HHB, VN1, VN2
 250 | Senator für Kultur | Audit, ZWB, HHB, VN1, VN2
 256 | Landesamt für Denkmalpflege | Audit, ZWB, HHB, VN1, VN2
 257 | Landeszentrale für politische Bildung | Audit, ZWB, HHB, VN1, VN2
 300 | Senator für Wirtschaft, Arbeit und Häfen -Arbeit- | Audit, ZWB, HHB, VN1, VN2
-400 | Senatorin für Soz., Kinder, Jugend u. Frauen | Audit, ZWB, HHB, VN1, VN2
+400 | Senatorin für Soziales, Jugend, Frauen, Integration und Sport | Audit, ZWB, HHB, VN1, VN2
 490 | Amt für soziale Dienste | Audit, ZWB, HHB, VN1, VN2
-500 | Senator für Gesundheit | Audit, ZWB, HHB, VN1, VN2
+500 | Senatorin für Wissenschaft, Gesundheit und Verbraucherschutz | Audit, ZWB, HHB, VN1, VN2
 510 | Gesundheitsamt Bremen | Audit, ZWB, HHB, VN1, VN2
 600 | Senator für Umwelt, Bau und Verkehr -Umwelt- | Audit, ZWB, HHB, VN1, VN2
 680 | Senator für Umwelt, Bau und Verkehr -Bau und Verkehr- | Audit, ZWB, HHB, VN1, VN2
