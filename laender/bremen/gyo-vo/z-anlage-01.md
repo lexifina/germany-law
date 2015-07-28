@@ -19,7 +19,7 @@ KUN | Kunst |  | ERN | Ernährungslehre |
 MUS | Musik |  |  |  | 
 DAR | Darstellendes |  |  |  | 
 Spiel | (Grundkurs) |  |  |  | 
-Mit Zustimmung der Senatorin für Bildung und Wissenschaft kann die Schule weitere Fächer anbieten. Bilinguale Fächer sind der Senatorin für Bildung und Wissenschaft anzugeben.
+Mit Zustimmung der Senatorin für Kinder und Bildung kann die Schule weitere Fächer anbieten. Bilinguale Fächer sind der Senatorin für Bildung und Wissenschaft anzugeben.
 Verzeichnis der Bewegungsfelder im Fach Sport / Sportarten
 Laufen, Springen, Werfen, Stoßen | Spielen | Bewegen an und mit Geräten | Bewegung gymnastisch, rhythmisch und tänzerisch gestalten |  |  |  |  | 
 LE | Leichtathletik | BB | Basketball | GT | Geräteturnen | Gy | Gymnastik | 
@@ -34,6 +34,6 @@ LE | Leichtathletik | BB | Basketball | GT | Geräteturnen | Gy | Gymnastik |
 Bewegen im Wasser | Mit/gegen Partner kämpfen | Fahren, Gleiten, Rollen | Fit sein und fit bleiben |  |  |  |  | 
 SW Sportschwimmen | JU |  | Judo | KA | Kanu | GF gesundheitsorientiertes Kraft- und Ausdauertraining* |  | 
 TW | Taekwondo | RU | Rudern |  |  |  |  | 
-Mit Zustimmung der Senatorin für Bildung und Wissenschaft kann die Schule weitere Sportarten anbieten.
+Mit Zustimmung der Senatorin für Kinder und Bildung kann die Schule weitere Sportarten anbieten.
 Fußnoten
 * Das Bewegungsfeld ist nicht Gegenstand der praktischen Abiturprüfung.
