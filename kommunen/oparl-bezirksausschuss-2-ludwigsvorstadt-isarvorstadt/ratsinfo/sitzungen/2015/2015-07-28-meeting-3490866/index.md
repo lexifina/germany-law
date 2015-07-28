@@ -1,0 +1,156 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490866
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490866
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Maßnahmen Raumnot Mittagsbetreuung der Grundschule im Viertel, insbesondere Klenze 27, Klenze 48, Schwanthalerschule
+- TOP .1.: (E) Budget der Bezirksausschüsse Caritasverband der Erzdiözese München und Freising e.V. Zentrum Innenstadt / KUBU Fußballturnier am 23.07.2015
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Rock Camp" Girls Rock Camp vom 17. bis 22.08.2015
+- TOP .3.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube ?komm?-Streetwork am 07.08.2015
+- TOP .4.: (E) Budget der Bezirksausschüsse Elternverein Montessori-Kindergarten Güllstraße e.V. Küchenrenovierung
+- TOP .1.: Bürgeranliegen: Unzureichende Raum- und Betreuungssituation in der Grundschule am Gärtnerplatz
+- TOP .2.: Anhörung Planen und Bauen TOP 4.3: Umwandlung von Kerngebieten in ?Besondere Wohngebiete? im südlichen Bahnhofsviertel, BA-Antrags-Nr. 14-20 / B 01157 des BA 2 vom 28.04.2015, Antwortschreiben vom Referat für Stadtplanung und Bauordnung
+- TOP .3.: Gärtnerplatzfest am 25./26.07.2015
+- TOP .1.: Begrünung und Verkehrsberuhigung der Geyerstraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Baumstr. 19, Erhöhung des Dachstuhls, Umbau der Wohnungen und Errichtung von Balkonen
+- TOP .2.: Karlsplatz 25, Abbruch Hotel Königshof und Zwischenbauwerk, Errichtung des Baugru- benverbaus
+- TOP .3.: Fraunhoferstraße, Umrüstung der Werbevitrine in eine Wechselanlage am Wartehäuschen W. H. 72 gegenüber Fraunhoferstraße 44
+- TOP .4.: Sendlinger-Tor-Platz, Umrüstung der Werbevitrine in eine Wechselanlage am Wartehäuschen W. H. 796 bei Kirche St.-Matthäus
+- TOP .5.: Kapuzinerplatz 2, Nutzungsänderung eines Ladens in ein Wettbüro
+- TOP .6.: Jahnstraße 41, Umbau Wohngebäude mit Pflegeabteilung und Tiefgarage (Jahnstraße 41 / Klenzestraße 70)
+- TOP .7.: Augsburgerstraße 21, VGB: Umbau der DG-Wohnungen mit teilweisem Galerieeinbau im Spitzboden, Anbau von Balkonen mit Notleiteranlagen und Abbruch von Dachgauben mit Einbau von Dachflächenfenstern; RGB: Abbruch Bestands- und Neubau Bürogebäude
+- TOP .8.: Schillerstraße 29, Errichtung eines Wintergartens auf vorhandenem Balkon im 5. OG
+- TOP .9.: Buttermelcherstraße 14, Städtebauliche Neuordnung eines Firmengeländes ? Vorbescheid (Buttermelcherstraße 14,16 und Baaderstraße 38 RGB) Baumfällung, siehe TOP B 3.2.2
+- TOP .10.: Lindwurmstraße 70a, Errichtung Vordach und Erweiterung Innenhofgebäude sowie Nutzungsänderung von Räumen im UG
+- TOP .11.: Ruppertstraße 19, Aufstockung eines Bürogebäude, Vorbescheid
+- TOP .12.: Corneliusstraße 30, Umbau und Aufstockung des Rückgebäudes
+- TOP .13.: Paul-Heyse-Straße 17/Rgb., Anbau eines Balkons (Ostseite)
+- TOP .14.: Hans-Sachs-Straße 5, Verschiedene Nutzungsänderungen und Anbringen von Balkonen und Notleiteranlagen als 2. Rettungsweg (Hans-Sachs-Straße 5/Ickstattstraße 1/Kolosse- umstraße 6) ? Tektur zu 1.1-2009-31132-21
+- TOP .15.: Goethestraße 9, Umbau, Sanierung und Aufstockung eines Jugendwohnheims
+- TOP .16.: Kapuzinerstraße 11, Nutzungsänderung: Laden zu Fitnessstudio
+- TOP .17.: Baaderstraße 86, Aufstockung mit Hofbebauung - Vorbescheid
+- TOP .18.: Erhardtstraße 10, Neubau eines Wohngebäudes (Vgb. u. Rgb.) mit Tiefgarage, Vorbescheid PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Paul-Heyse-Str. 19, Baumfällungsantrag vom 23.06.2015 einer Robinie
+- TOP .2.: Buttermelcherstraße 14, Baumfällungantrag vom 09.07.2015, Bauvorhaben, siehe TOP B 3.1.9
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum, Referat für Stadtplanung und Bauordnung, Entwurf Beschlussvorlage ? Eilentscheidung
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Bürgeranliegen: Verkehrsberuhigung und Begrünung der Geyerstraße
+- TOP .2.: Bürgeranliegen: Einzäunung der Wiese zwischen Holzstraße und Westermühlbach
+- TOP .3.: Bürgeranliegen: Sanierung der Straße ?Am Glockenbach?
+- TOP .4.: Erneuerung Bürgersteig Müllerstraße 3-7
+- TOP 0: Vortrag
+- TOP 0.1.: Veranstaltung Isarboulevard, Vorstellung durch den Veranstalter
+- TOP 0.1.: Einbahnregelung Reichenbachstraße und Klenzestraße
+- TOP 0.2.1: Gaststättenangelegenheiten
+- TOP 0.1.: Körnerstraße 5, T. Handels GmbH, Genehmigung einer Freischankfläche
+- TOP 0.2.: Pettenkoferstraße 8, Genehmigung einer Freischankfläche
+- TOP 0.3.: Schwanthalerstraße 79, Genehmigung einer Freischankfläche
+- TOP 0.4.: Goethestraße 41, Tagescafe, Genehmigung einer Freischankfläche
+- TOP 0.5.: Kapuzinerstraße 12, Erweiterung einer bestehenden Freischankfläche
+- TOP 0.6.: Thalkirchner Straße 23, Erweiterung einer bestehenden Freischankfläche, Plenumsbeschluss
+- TOP 0.7.: Bayerstraße 35 ? 37, Genehmigung einer Freischankfläche
+- TOP 0.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 0.1.: Reichenbachstraße 15 bis 17, 4 Bücherstellagen
+- TOP 0.2.: Thalkirchner Straße 1, mobiler Fahrradständer
+- TOP 0.3.: Auenstraße 84, mobiler Fahrradständer
+- TOP 0.4.: Lindwurmstraße 84, zwei Kleiderpuppen
+- TOP 0.5.: Tumblingerstraße 19, mobiler Fahrradständer
+- TOP 0.6.: Auenstraße 2, Seite Fraunhoferstraße, eine Warenauslage und eine Sitzgelegenheit
+- TOP 0.7.: Baaderstraße 84, zwei Sitzgelegenheiten und eine Warenauslage
+- TOP 0.8.: Müllerstraße 15, eine Sitzgelegenheit und eine Warenauslage
+- TOP 0.9.: Zeitungsverkaufseinrichtungen der AZ, diverse Standplätze im Stadtbezirk 2
+- TOP 0.10.: Ickstattstraße 3, eine Sitzgelegenheit, PLENUMSBESCHLUSS
+- TOP 0.11.: Auenstraße 78, Aufstellung einer Sitzgelegenheit, PLENUMSBESCHLUSS
+- TOP 0.2.3: Sonstige Entscheidungen
+- TOP 0.1.: Straßenfest in der Pestalozzistraße am 29.08.2015 (Ersatztermin 05.09.2015)
+- TOP 0.2.: Straßenfest in der Hans-Sachs-Straße, Ickstattstraße und Jahnstraße am 15.08.2015
+- TOP 0.3.: Straßenfest in der Baumstraße am 25.07.2015
+- TOP 0.4.: Internationaler Kinderzirkus ?Trau dich? in der Grünanlage Ziemssenstraße/Nußbaumpark am 18.07.2015
+- TOP 0.5.: Radlnacht 2015 am 08.08.2015 - Eilentscheidung
+- TOP 0.6.: Stadtteilwoche Ludwigsvorstadt-Isarvorstadt 2016 auf der Theresienwiese
+- TOP 0.3.2: Verkehr
+- TOP 0.1.: Umwandlung eines PKW-Stellplatzes vor dem Anwesen Thalkirchner Straße 86 (Kinderhaus St. Anton) in eine Abstellfläche für Fahrräder, Roller oder Kinderanhänger, BA-Antrags-Nr. 14 ? 20 / B 00477 des BA 2 Ludwigsvorstadt-Isarvorstadt vom 21.10.2014
+- TOP 0.1.: Antrag für eine Bank vor dem Anwesen Hans-Sachs-Straße 3
+- TOP 0.1.: Bürgeranliegen: Straßenarbeiten Rumfordstraße
+- TOP 0.2.: Bürgeranliegen: Rücksichtslose Radfahrer Thalkirchnerstraße Kinderspielplatz (alter Südfriedhof) und am Glockenbachplatz
+- TOP 0.3.: Bürgeranliegen: Verbesserung der Verkehrssituation Landwehrstraße
+- TOP 0.4.: Bürgeranliegen: Anregungen und Vorschläge zur Stadt- und Verkehrsgestaltung, Fußgängerzone Bahnhofsplatz
+- TOP 0.5.: Bürgeranliegen: Rothmundstraße 5, Erweiterung des Gaststättenbereichs
+- TOP 0.6.: Bürgeranliegen: Hundekot auf Gehwegen und Müllablagerungen auf dem Gärtnerplatz PLENUMSBESCHLUSS
+- TOP 0.7.: Bürgerbeschwerde über massives Grillen an der Isar, insbesondere außerhalb der ausgewiesenen Zonen
+- TOP 0.8.: Sitzgelegenheit Bushaltestelle Gärtnerplatz mit Überdachung
+- TOP 0.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 0.1.: Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO), Abstimmung über einzelne Teile eines Antrages, Antrag Nr. 14-20 / B 01057 vom 14.04.2015
+- TOP 0.2.: Oktoberfest 2015, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 0.3.: Vorschlag Sitzungstermine 2016
+- TOP 0.4.: Antrag: Aufstellung der BA-Sitzungsgelder
+- TOP 0.2: Termine
+- TOP 0.&nbsp;: Unterrichtungen
+- TOP 0.1.: BA-Budget: Bescheide
+- TOP 0.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 0.3.: Ablauf von Bürgerversammlungen optimieren
+- TOP 0.4.: Schulbauoffensive 2013 - 2030
+- TOP 0.5.: Maßnahmen Raumnot Tumblingerschule
+- TOP 0.6.: Nachbarschaftsarbeit in München stärken, Begleitung des Bürgerschaftlichen Engagements, Finanzierung der Raumverwaltung und Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs, Produkt 60 4.1.7, Stadtratsziel 2016 ? S 4 A 1.4 und Antrag Nr. 14 ? 20 / A 00855, Sitzungsvorlage Nr. 14-20 / V 01597, Beschluss des Sozialausschusses vom 09.07.2015 (VB)
+- TOP 0.7.: Raumnot der Mittagsbetreuung an der Grundschule am Gärtnerplatz, Schreiben der Glockenbachwerkstatt vom 03.07.2015
+- TOP 0.8.: Erstinformation Standort Landwehrstr. 73-75 ? Überbrückungsprogramm Sommer Unterbringung von Asylbewerbern
+- TOP 0.9.: Direktorium Kindergarten ? Schule ? Mittagsbetreuung: Schnelle Lösungen fr den Kindergarten Eltern- initiative Isarvorstadt, die Nachbarshaftshilfe Westermühlbach und die Grundschule an der Klenzestraße und am Gärtnerplatz Antrag Nr. 14-20 / A 01200 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 09.07.2015
+- TOP 0.10.: Stattpark OLGA e.V., Dankschreiben vom 30.06.2015, Einladung
+- TOP 0.1.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 0.2.: Freiflächengestaltungssatzung ändern, Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik, Antrag Nr. 14 ? 20 / A 00715 vom 26.02.2015, Sitzungsvorlagen Nr. 14 ? 20 / V 03433, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (SB)
+- TOP 0.3.: Umwandlung von Kergebieten in 'Besondere Wohngebiete' im südlichen Bahnhofsviertel
+- TOP 0.4.: Goetheplatz 2, Erweiterung der Gaststätte um zwei teilweise offene Gasträume, Stellungnahme des BA 2 vom 28.01.2015, Baugenehmigungsbescheid des Referates für Stadtplanung und Bauordnung
+- TOP 0.5.: Referat für Stadtplanung und Bauordnung, ?Wohngebiet Isarvorstadt? BA-Antrag Nr. 14-20 / B 01159 des BA 2 vom 28.04.2015, Antwortschreiben
+- TOP 0.6.: Referat für Stadtplanung und Bauordnung, Verfügung Müllerstraße 3 ? 7, Zugang für die Allgemeinheit zum Kinderspielplatz
+- TOP 0.7.: Sozialreferat, Beschlussvorlage Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten; Verordnung zur Stärkung dest städtebaulichen Milieu- schutzes vom 04.02.2014 Bekanntgabe in der Sitzung des Sozialausschusses vom 18.06.2015 Sitzungsvorlage Nr. 14-20 / V 03023
+- TOP 0.8.: Begrünung der Fraunhoferstraße; Ersatzpflanzungen Fraunhofer-/Erhardtstraße Antwortschreiben des Referats für Stadtplanung und Bauordnung auf ein BA-Schreiben
+- TOP 0.1.: Versammlungen unter freiem Himmel
+- TOP 0.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 0.3.: Unveränderte Gaststättenfortführungen
+- TOP 0.4.: Verkehrsrechtliche Anordnungen
+- TOP 0.5.: Erlaubnisbescheide
+- TOP 0.6.: Verkehrsbesprechung im Vorfeld des Oktoberfestes 2015
+- TOP 0.7.: Gastronomieobjekt Bayerstaße 35 bis 37, Erteilung einer Freischankflächenerlaubnis
+- TOP 0.8.: Installation von Fahrradparkern im Dreimühlen- und Glockenbachviertel, BA-Antrag Nr. 14 - 20 / B 00252 vom 29.07.2014, aktuelle Sachstandsmitteilung des Baureferates
+- TOP 0.9.: Wiederherstellung der Grünfläche "Theresienwiese"
+- TOP 0.10.: Wiederherstellung der Theresienwiese als Naherholungsfläche
+- TOP 0.11.: Rollstuhl-, Kinderwagen- und Fußgängerfreundliche Gestaltung der Kreuzung Isartalstraße / Dreimühlenstraße
+- TOP 0.12.: Vollzug der Grünanlagensatzung vom 15.06.2012, Baustelleneinrichtung an der Kapuziner Straße 40
+- TOP 0.13.: Anfrage zum "Wohngebiet Isarvorstadt"
+- TOP 0.14.: Information Stadtwerke München GmbH, neue Bädereintrittspreise ab 01.07.2015
+- TOP 0.15.: Wohnen in München VI ? Zeitplan und Themenvorschau, Zielzahl für den Wohnungsbau erhöhen! Antwort des Referates für Stadtplanung und Bauordnung zum Antrag Nr. 08 ? 14 / A 051126 vom 19.02.2014
+- TOP 0.16.: Koordination und Service im Radverkehr, Sitzungsvorlagen Nr. 14 -20 / V 03026, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP 0.17.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels, Antrag Nr. 14 ? 20 / A 00660 vom 04.02.2015, Sitzungsvorlagen Nr. 14 ? 20 / V 02900, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (SB)
+- TOP 0.18.: Einrichtung eines verkehrsberuhigten Bereichs zwischen dem Kinder- und Jugendhaus "KuBu" und dem Spielplatz Am Glockenbach
+- TOP 0.19.: Bauzäune um die Theresienwiese als Werbefläche nutzen, Information des BA 8
+- TOP 0.20.: Ausnahmegenehmigung für nächtliche Arbeiten am Fernwärmenetz ? Bescheid des Referats für Gesundheit und Umwelt
+- TOP 0.21.: Aufstellung von mobilen Fahrradabstellanlagen zum Oktoberfest (BA-Antrags-Nr. 14 ? 20 / B 01036) ? Ergebnisse des Ortstermins vom 30.06.2015
+- TOP 0.22.: Die Rolle der Sondergrünfläche der Theresienwiese
+- TOP 0.23.: Erlaubnisbescheid 40jähriges Jubiläum des Diözesanes neokatechumenalen Zentrums e.V. mit Besuch des Kardinal Marx in der Deutinger Straße am 12.07.2015
+- TOP 0.24.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Kaiser-Ludwig-Platz ab Nordseite beidseitig bis Herzog-Heinrich-Straße Herzog-Heinrich-Straße ab Kaiser-Ludwig-Platz bis Höhe 25 beidseitig
+- TOP 0.25.: Optimierung des Verkehrsflusses an der Kreuzung Lindwurm-/Kapuziner-/Herzog-Heinrich-Straße
+- TOP 0.1.: Gärtnerplatzfest am 25. und 26.07.2015
+- TOP 0.2.: Akteneinsichtsrecht für Bezirkausschussmitglieder
+- TOP 0.5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 0.3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .6: Berichte der Beauftragten
+- TOP 0.3: Veranstaltungen
