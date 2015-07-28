@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556786
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556786
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.: Umbesetzung in den Unterausschüssen; Beschlussfassung
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Antrag auf Sperrzeitaufhebung: Diskothek Bullit, Friedenstraße 10, Optimolwerke; Vorlage des KVR
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Barrierefrei durch München? U-Bahnstation Michaelibad Antrag der CSU-Fraktion
+- TOP 3.2.: Das Werksviertel als Alternativstandort für den neuen Konzertsaal und die Münchner Musikhochschule; Antrag der CSU-Fraktion
+- TOP 3.3.: Verkauf einer städtischen Immobilie: unbebautes Grundstück (zwei Flurstücke) an der Kreillerstraße; Anhörung durch das Kommunalreferat
+- TOP 3.1.: Baumkirchen Mitte: Antrag auf Namensgebung Quartiersplatz
+- TOP 3.3.1.3.: Umwelt
+- TOP 3.1.: Ausbau der Ladeinfrastruktur für Elektrofahrzeuge in Berg am Laim; Antrag der SPD-Fraktion
+- TOP 3.1.: Entspannung der Verkehrssituation in der Grafinger Straße
+- TOP 3.2.: Verkehrssituation an der Truderinger Straße 172-182; Antrag der CSU-Fraktion
+- TOP 3.3.: Fahrbahnmarkierungen auf der Baumkirchner Straße; Antrag der CSU-Fraktion
+- TOP 3.4.: Sicherheit und Ordnung an der Kreuzung Berg-am-Laim-Str. / Leuchtenbergring erhöhen
+- TOP 3.5.: Bürgerantrag Verkehrsberuhigung Michaeliburgstraße
+- TOP 3.6.: Straßenfest des Bürgerkreises Berg am Laim e. V. am Sonntag, den 13.09.2015, in der Baumkirchner Str. zwischen Berg-am-Laim-Str. und Neumarkter Str.; Grüner Markt und Behrpark; Anhörung durch das KVR
+- TOP 3.1.: Sichere Perspektive für die Grundschulversorgung im Osten Berg am Laims schaffen; Antrag der SPD-Fraktion
+- TOP 3.1.: Soziale Verwendung langzeitgeparkter und unbewegter, aber fahrtauglicher Fahrräder; Antrag der SPD-Fraktion
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Straßenfest am 13.09.2015
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Jubiläums-Katalog
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Herbstausstellung 06. bis 15.11.2015
+- TOP 3.4.: Änderung der Bezirksausschuus-Geschäftsordnung, Abstimmung über einzelne Teile eines Antrags; Anhörung durch das Direktorium
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Linkshänder e.V. KulturVERSTRICKUNGEN am 20.09.2015
+- TOP 3.1.: Gronsdorfer Straße 1
+- TOP 3.2.: Blombergstraße 14
+- TOP 3.3.: Hochfellnstraße 11
+- TOP 3.4.: Gratlspitzstraße 51
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Bebauungsplan mit Grünordnung Nr. 2100 Haldenseestraße (beidseits) Bad-Schachener-Straße (südlich) Hechtseestraße (nördlich) Echardinger Straße und Krumbadstraße (östlich) - Eckdaten- und Aufstellungsbeschluss- Durchführung eines städtebaulichen und landschaftsplanerischen Planungswettbewerbs; Sitzungsvorlage Nr. 14-20 / V 03410
+- TOP 4.1.: Wohnen in München VI-Zeitplan und Themenvorschau; Sitzungsvorlage Nr. 14-20 / V 03161
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.1.: Biotopflächen im Baugebiet "Baumkirchen-Mitte"; Antwortschreiben des Kommunalreferats
+- TOP 4.2.: Freiflächengestaltungssatzung ändern; Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik; Sitzungsvorlage Nr. 14-20 / V 03433
+- TOP 4.1.: Unerlaubtes Befahren des Fuß- und Radwegs an der St.-Michael-Straße
+- TOP 4.2.: Fehlende Beleuchtung im Bereich des Fußwegs zwischen Gustav-Schwab-Straße und Kreillerstraße
+- TOP 4.3.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 4.4.: Koordination und Service im Radverkehr; Sitzungsvorlage Nr. 14-20 / V 03026
+- TOP 4.5.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels; Sitzungsvorlage Nr. 14-20 / V 02900
+- TOP 4.6.: Einrichtung einer zusätzlichen Bushaltestelle an der Truderinger Straße
+- TOP 4.1.: Ludwig-Thoma-Realschule, Fehweisenstraße 118, Fußweg zum Pavillon, Innsbrucker Ring 75, Nutzung öffentliche Grünanlage (Bolzplatz), Joseph-Hörwick-Weg
+- TOP 4.2.: Neue Bädereintrittspreise ab 01.07.2015, Information der Bezirksausschüsse
+- TOP 4.1.: Ersatzstandort Nachbarschaftstreff -Maikäfertreff Träger MAGS & MORE - Investitionskostenzuschuss für Ersatzstandort; Sitzungsvorlage Nr. 14-20 / V 03410
+- TOP 4.2.: Nachbarschaftsarbeit in München stärken Begleitung des Bürgerschaftlichen Engagements Finanzierung der Raumverwaltung und Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs; Sitzungsvorlage Nr. 14-20 / V 01597
+- TOP 4.3.: Erstinformation Standort Grafinger Straße 6 / Zündapphalle - Überbrückungsprogramm Sommer, Unterbringung von Asylbewerbern
+- TOP 4.1.: Verwendungsnachweise zu gewährten Zuschüssen aus dem BA-Budget Trägerverein KulturBürgerHaus Berg am Laim e.V. ( Beschaffung Pavillon) Bürgerkreis Berg am Laim e.V. (Madonnenausstellung) Initiative Weltspieltag (Weltspieltag am 28.05.15)
+- TOP 4.2.: Akteneinsichtsrecht für Bezirksausschussmitglieder; Schreiben des Oberbürgermeisters vom 26.06.15
+- TOP 4.3.: Personalsituation in den BA-Geschäftsstellen; Schreiben des Direktoriums vom 29.06.15
+- TOP 4.1.: Unterrichtung über bevorstehende Beseitigungen von Gefahrenbäumen durch das Baureferat-Gartenbeu, hier: Feuerwache 5, Anzinger Straße 41, 3 Winter-Linden
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Stadtteilkultur, Verkehr und Gewerbe
+- TOP 5.5.1.4.: Unterausschuss Soziales / Integration
+- TOP 5.5.1.5.: Unterausschuss Budget / Organisation
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.4.1.2.: Wohnen
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
