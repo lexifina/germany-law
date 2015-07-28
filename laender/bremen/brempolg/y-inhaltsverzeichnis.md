@@ -99,7 +99,7 @@ Zweiter Teil: Organisation der Polizei
 § 70 | Polizeivollzugsdienst des Landes
 § 71 | Aufgaben der Polizei Bremen
 § 72 | Aufgaben des Landeskriminalamts
-§ 73 | Vollzugspolizeiliche Aufgaben des Senators für Inneres und Sport
+§ 73 | Vollzugspolizeiliche Aufgaben des Senators für Inneres
 § 74 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
 § 75 | Unterstützung und gemeinsamer Einsatz
 § 76 | Hilfspolizeibeamte
