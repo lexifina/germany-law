@@ -1,0 +1,117 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: Vorstellung der Planung zur Neugestaltung des Umfeldes ? Siegestor durch das Baureferat
+- TOP 3.2.: Hornbach ? Erreichbarkeit und Nachbarschaftsparkplätze
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 6.1.: NSG Fröttmaninger Heide (überparteilicher Antrag) siehe auch C.1.2.
+- TOP 7: Unterrichtungen (1)
+- TOP 7.1.: Akteneinsichtsrecht für Bezirksausschussmitglieder (Schreiben des Oberbürgermeisters)
+- TOP 7.2.: Besetzung des Feriensenats 2015
+- TOP 7.3.: Eilentscheidung: Sommerfest mit Bedürftigen am 26.07.2015 am Adam-Erminger-Platz
+- TOP 7.4.: Sitzungstermine 2016
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 9.1.: Änderung der BA-Geschäftsordnung: Äbstimmung über einzelne Teile eines Antrages (BA-Antrag Nr.: B 01057 des BA 7 Sendling-Westpark)
+- TOP 10: sonstiges
+- TOP 10.1.: Oktoberfest 2015 (Wunschtermin, 2 Ausweichtermine, 30 Personen, ab wann und für welchen Zeitraum)
+- TOP 10.1.: Gestaltung der Platzfläche an der Tram 23, Domagkstraße
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Erweiterung der bestehenden Freischankfläche, Occamstraße 7
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Mies-van-der-Rohe-Straße 1, Fl.Nr.: 864/35, Umbau eines Verwaltungsgebäudes, Fällung von zwei Robinien
+- TOP 3.1.2.: Ingolstädter Straße, Fl.Nr.: 320/12, Neubau Akademiegebäude mit Außenanlagen im Nachwuchsleistungszentrum FC-Bayern München, Fällungen gemäß Plan
+- TOP 3.1.3.: Kaiserstraße 5, Umbau und Nutzungsänderung eines denkmalgeschützten Hauses, Fällung von drei serbischen Fichten und einer Thujahecke
+- TOP 3.1.4.: Lilienthalallee 35-45, Fl.Nr.: 170/196, Umbau der ehemaligen Dampflokrichthalle in ein Oldtimer- und Sportwagen-Zentrum, Fällung div. Bäume
+- TOP 3.1.5.: Leopoldstraße 202 ? 202a, Fl.Nr.: 894/9, Neubau zweier Wohngebäude anstelle / auf vorhandener Bausubstanz ? Vorbescheid, Fällungen gemäß Plan
+- TOP 3.1.6.: Hackmahdgasse 4, Fl.Nr.: 309/5019, Neubau dreier Stadthäuser mit Garagen, Fällung gemäß Plan
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Bauleitplanung der Gemeinde Ismaning ? Aufstellung des Bebauungsplanes Nr. 82a für das Gebiet ?Westlich der Münchener Straße, nördlich der Wasserturmstraße?
+- TOP 3.2.2.: Bauleitplanung der Gemeinde Ismaning ? 15. Änderung des Flächennutzungsplanes und Aufstellung des Bebauungsplanes Nr. 29c ? Erweiterung des Gewerbegebietes ?AGROB Medien- und Gewerbepark?
+- TOP 3.2.3.: Ingolstädter Straße, Fl.Nr.: 320/12, Neubau Spielstätte im Nachwuchsleistungszentrum FC Bayern München
+- TOP 3.2.4.: Lindberghstraße 3, Fl.Nr.: 170/159, Umbau eines Büro- und Gewerbehauses - Vorbescheid
+- TOP 3.2.5.: Leopoldstraße 120, Fl.Nr.: 911/3, Erweiterung eines Hotels - Vorbescheid
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Baumaßnahmen der Stadtwerke München a) Stromprojekt Herzogstraße b) Stromprojekt Otto-Sendtner-Straße c) Stromprojekt Leopoldstraße
+- TOP 5.3.2.: Freiflächengestaltungssatzung ändern ? Begrünung nur noch bei erdgeschössigen Dächern oder Garagen wegen der Optik (Antrag der AfD vom 26.02.2015) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr.: 14-20 / V 03433
+- TOP 5.3.3.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Antrag von DIE LINKE und der ÖDP vom 04.02.2015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr.: 14-20 / V 02900
+- TOP 5.3.4.: Wohnen in München VI ? Zeitplan und Themenvorschau Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr.: 14-20 / V 03161
+- TOP 5.3.5.: Städtebauliche Entwicklungsmaßnahme Bayernkaserne und Bereich östlich der Bayernkaserne ? Ergebnisse des des VOF-Verfahrens einschließlich Wettbewerb und weiteres Vorgehen sowie Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (incl. BA-Antrag B 01152); Sitzungsvorlage Nr.: 14-20 / V 02994 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP 5.3.6.: Städtebauliche Entwicklungsmaßnahme Funkkaserne ? Bebauungsplan mit Grünordnung Nr. 1943 b Bauquartier WA 16 und WA 18; Sitzungsvorlage Nr.: 14-20 / V 3436 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP 1: Anträge (3)
+- TOP 1.1.: Verbesserung der Beleuchtungssituation in der Fußgängerunterführung an der Erlöserkirche
+- TOP 1.2.: Inschutznahme der Fröttmaninger Heide gemäß Beschluss des BA vom 02.07.2015
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Errichtung eines absoluten Haltverbots auf der Nordseite der Rümannstraße vor den Anwesen 21-23, 27-31 und 35-39 werktags (di ? do) von 7.00 bis 12.00 Uhr
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Neubau und Austausch von Lichtsignalanlagen an folgenden Kreuzungen: Frankfurter Ring / Ungererstraße Domagkstraße / Ungererstraße Grasmeierstraße / Ungererstraße
+- TOP 3.2.2.: Radtour durch den Stadtbezirk (Terminvorschläge)
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Verkehrskonzept an der Kreuzung Franz-Joseph-Straße / Leopoldstraße und Aufstellung von Mülleimern im Leopoldpark
+- TOP 4.2.: Flugrouten über Schwabing
+- TOP 4.3.: Öffnung des Radweges auf der Nordseite der Heidemannstraße für alle Radfahrer
+- TOP 4.4.: Änderung der Verkehrsführung am Admiralbogen und Errichtung einer Anwohnerparkzone
+- TOP 4.5.: Feilitzschstraße: Zufahrt nur für Anwohner, keine Durchfahrt für LKW's
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Verkehrsberuhigung Ungererstraße
+- TOP 5.1.2.: Schulweg zur Grundschule am Bauhausplatz für die Schulkinder der Parkstadt Schwabing
+- TOP 3: (E) Ablehnung der beantragten Erhöhung der Zuschauerkapazität in der Allianz-Arena auf 75.000 Empfehlung Nr. 14-20 / E 00090 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 08.07.2014
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Tram 23 mit großer Umkehrschleife (Antwort des Referats für Stadtplanung und Bauordnung auf ein Bürgeranliegen)
+- TOP 5.3.2.: Baustelleneinrichtung auf der städtischen Grünanlage am Kaiserplatz 1 vom 01.07. bis 31.12.2015
+- TOP 5.3.3.: Koordination und Service im Radverkehr; Sitzungsvorlage Nr.: 14-20 / V 03026 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP 5.3.4.: Parklizenzgebiet Kieferngarten ? Anwohner der Allianz Arena schützen! (Antwort des Referats für Stadtplanung und Bauordnung auf einen Antrag der AfD vom 22.04.2015
+- TOP 5.3.5.: Nahverkehrsplan der Landeshauptstadt München; Sitzungsvorlage Nr.: 14-20 / V 03603 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015
+- TOP 5.3.6.: Änderungen im Projektablauf MVG-Rad- Information der MVG
+- TOP 5.3.7.: Fußgänger- und Radfahrerquerung über die Ingolstädter Straße am Euro-Industriepark West (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.8.: Information über das Betriebskonzept der Linien U3/U6 während der Stellwerksarbeiten im Bereich U-Bahnhof Poccistraße am 16./23.08.2015
+- TOP 5.3.9.: Anbringung eines ?Grünen Pfeils? an der Kreuzung (von Norden kommend) Ungererstraße / Schenkendorfstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kinderschutz e.V. Workshop "Dance Borderless" vom 10. - 30.08.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube ?komm?-Streetwork am 07.08.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt ? Projekt ?Willkommen in München? Sommerprogramm für unbegleitete Minderjährige vom 03. bis 14.08.2015
+- TOP 3: Anhörungen (4)
+- TOP 3.1.: Spielaktion des Freizeittreffs Freimann am 30.09.2015 am Spielplatz im Haidpark
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.1.1.: Verlegung der Räumlichkeiten des Mieterbeirates in der Burgstraße 4
+- TOP 5.1.2.: Benennung von Beauftragten in Flüchtlingsfragen
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: Errichtung eines Hauses für Kinder mit 3 Kinderkrippen- und 3 Kindergartengruppen auf dem Gebiet der ehemaligen Funkkaserne II an der Max-Bill-Straße 65 Genehmigung des Nutzerbedarfsprogramms; Sitzungsvorlage Nr.: 14-20 / V 03498 Beschluss des Bildungsausschusses des Stadtrates vom 08.07.2015
+- TOP 5.3.2.: Schulbauoffensive 2013 ? 2020; Sitzungsvorlage Nr.: 14-20 / V 03448 Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss des Stadtrates am 09.07.2015
+- TOP 5.3.3.: Nachbarschaftsarbeit in München stärken; Sitzungsvorlage Nr.: 14-20 / V 01597 Beschluss des Sozialausschusses vom 09.07.2015
+- TOP 5.3.4.: Bescheide: a) Theater Heppel & Ettlich für Podiumsgespräche von Juli bis Dezember 2015 in Höhe von 1.875,00 ? b) Domagkateliers gGmbH für die Offenen Ateliertage von 03. - 05.07.2015 in Höhe von 2.500,00 ? c) Theater des Hölzernen Gelächters für Sommertheaterproduktion im August/September 2015 in Höhe von 3.150,00 ? d) Fußballabteilung des ESV München Freimann für die 60-Jahr-Feier der Fußballabteilung des ESV München Freimann vom 24.07. - 26.07.2015 in Höhe von 1.500,00 ? e) Wilhelmschule-Förderverein e.V. für ein Zirkusprojekt vom 29.06. - 03.07.2015 in Höhe von 500,00 ?
+- TOP 5.3.5.: Verwendungsnachweise a) Bewohnerinitiative Kunigundenstraße 29 für die Herstellung und Anbringung einer Gedenktafel in Höhe von 1.200,00 ? b) Linkshänder e.V. für das Straßenkunstprojekt ?Ein Platz für alle? am 16./17.05.2015 in Höhe von 400,00 ?
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
