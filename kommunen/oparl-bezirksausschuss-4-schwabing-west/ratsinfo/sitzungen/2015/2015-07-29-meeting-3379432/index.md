@@ -1,0 +1,72 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-07-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379432
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379432
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm vom 03.08.2015 bis 06.09.2015
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Jugendzentrum Schwabing-West/CVJM München e.V. AktivFerien am Ackermannbogen vom 02. - 07.08.2015
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Jugendzentrum Schwabing-West/CVJM München e.V. Beschaffung von Spielgeräten
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt ? Projekt ?Willkommen in München? Sommerprogramm für unbegleitete Minderjährige vom 03. bis 14.08.2015
+- TOP 1: Anträge (2)
+- TOP 1.1.: Bürger: Lärmbelästigung durch den ?Alpenmarkt? auf dem Hohenzollernplatz
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: 2.1.1 Umrüstung der Werbevitrinen in Wechselanlagen an den Wartehäuschen a) gegenüber Kurfürstenplatz 7 b) gegenüber Nordendstr. 52 c) gegenüber Schwere-Reiter-Str. 39
+- TOP 2.1.2.: Agnesstr. 8 ?Kalypso?: Aufstellung von zwei mobilen Fahrradständern
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Keuslinstr. 15-17: Dachgeschossausbau
+- TOP 2.1.2.: Lerchenauer Str. 12: Dachausbau mit Gauben im Zuge einer Dachsanierung
+- TOP 2.1.3.: Ackermannstr. 81-83: Nutzungsänderung HPT Michael-Haus: Werkraum zu Gemeinschaftsraum (EG) und Lager zu Aufenthaltsraum (1. OG)
+- TOP 2.1.4.: Tektur Viktor-Scheffel-Str. 10: DG-Erneuerung und Balkonerweiterungen ? hier: Wohnungsausbau im Bestand; Ergänzung zweiter DG-Ebene (Whg. links)
+- TOP 2.1.5.: Tektur Petra-Kelly-Str. 4: Neubau eines Hotel Garni
+- TOP 2.1.6.: Tektur Hohenzollernstr. 49: Aufstockung eines Hinterhauses um jetzt eine Wohneinheit
+- TOP 2.1.7.: Hohenzollernstr. 105: Energetische Dachsanierung, DG-Ausbau (2 WE)
+- TOP 2.1.8.: Clemensstr. 101: Teil-Dachgeschossausbau (1 WE) und Errichtung Balkone
+- TOP 2.1.9.: Vorbescheid Kraepelinstr. 2-10: Neubau einer psychiatrischen Klinik mit 5 Stationen sowie Verwaltung, Forschungsambulanz/Funktionsdiagnostik, Tagklinik, physikalische Therapie mit Schwimmbad und Sporthalle, Ergotherapie, klinisches Labor, Cafeteria inkl. Logistikfkächen
+- TOP 2.1.10.: Vorbescheid Fallmerayerstr. 22: Nutzungsänderung: Boardinghouse zu Hotel mit untergeordneter Büro-/gewerblicher Nutzung, Erweiterung des Bestandsgebäudes sowie Neubau eines Rückgebäudes (2 Varianten)
+- TOP 2.1.11.: Barlachstr. 36 c: Umgestaltung und Sanierung der Schulaula mit Pausenverkauf
+- TOP 2.1.12.: Georgenstr. 62: Nutzungsänderung: Erteilung einer Schankerlaubnis für eine Bäckerei mit Café
+- TOP 2.1.13.: Tektur Hiltenspergerstr. 82 a: Nutzungsänderung der ehemaligen Fachakademie für Sozialpädagogik zur Unterbringung von Flüchtlingen und Wohnungslosen
+- TOP 2.1.14.: Tektur Agnesstr. 52: Energetische Sanierung und Dacherneuerung, DG-Ausbau mit Dachgauben (Vorder- und Rückgebäude), hofseitige Balkonsanierung, straßenseitige Balkonverglasung hier: Änderung der Freiflächengestaltung
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürgerin: Parksituation in der Ansbacher Straße
+- TOP 1.2.: Bürgerin: Verbesserung der öffentlichen Grünflächen im Bereich Fallmerayerstraße
+- TOP 1.3.: Bürger: Verkehrsgefährdung an der Schwere-Reiter-Straße
+- TOP 1.4.: Leiterin der städt. Kinderkrippe Elisabeth-Kohn-Str. 15: Kurzzeitparkplätze vor der Einrichtung
+- TOP 1.5.: Bürger: Abstellen von Fahrrädern im Grünstreifen vor dem Gebäude Degenfeldstr. 14
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Parzivalstr. 63: Fällung eines Silberahorn
+- TOP 2.1.2.: Elisabethstr. 2: Fällung eines Ahorn
+- TOP 2.1.3.: Kölner Platz 1: Fällung eines japanischen Schnurbaums und eines Spitzahorn
+- TOP 2.1.4.: Elisabethstr. 42: Fällung einer Birke
+- TOP 2.1.5.: Friedrichstr. 5: Fällung eines Ahorn
+- TOP 2.1.6.: Infanteriestr. 8: Fällung eines Ahorn und einer dreistämmigen Esche
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Abstimmung des Fragenkatalogs an Verkehrsplaner und -experten aus dem Verkehrs-Workshop vom 9.5.2015 (vertagt aus 06/15)
+- TOP 2.2.2.: MVG Rad: Bitte um Ortstermin für neuen Standort Hohenzollernplatz
+- TOP 2.2.1.: Sitzungstermine 2016
+- TOP 2.2.2.: Oktoberfest-Reservierung für den BA 4: Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP 2.2.1.: Instrumente zur Durchsetzung von Nachpflanzungen schaffen
+- TOP 2.2.4.: Änderung der BA-Geschäftsordnung: Abstimmung über einzelne Teile eines Antrags Anhörung zu einem Antrag des BA 7 Sendling-Westpark
