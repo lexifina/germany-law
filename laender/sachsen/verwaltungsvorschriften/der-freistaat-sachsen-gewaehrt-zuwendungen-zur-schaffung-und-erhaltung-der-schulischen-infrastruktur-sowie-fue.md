@@ -1,0 +1,297 @@
+# Der Freistaat Sachsen gewährt Zuwendungen zur Schaffung und Erhaltung der schulischen Infrastruktur sowie für Maßnahmen zur Reduzierung der CO₂-Emissionen von Schulgebäuden einschließlich Schulsporthallen, die durch die Steigerung der Energieeffizien
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2015-07-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16235.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+I.
+
+Zuwendungszweck, Rechtsgrundlagen
+
+Der Freistaat Sachsen gewährt Zuwendungen zur Schaffung und Erhaltung der schulischen Infrastruktur sowie für Maßnahmen zur Reduzierung der CO₂-Emissionen von Schulgebäuden einschließlich Schulsporthallen, die durch die Steigerung der Energieeffizienz erzielt wird. Die Vergabe der Zuwendungen richtet sich nach den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere den §§
+23
+und 44 der
+Sächsischen Haushaltsordnung
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, in der jeweils geltenden Fassung, den
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 20. März 2015 (SächsABl. S. 537) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848), in der jeweils geltenden Fassung, den verfügbaren Haushaltsmitteln und nach dieser Förderrichtlinie. Dabei sind eine nachhaltige Entwicklung der schulbezogenen Infrastruktur auch unter Berücksichtigung der absehbaren demografischen Veränderungen zu sichern und Folgekosten zu beachten. Mit der Zuwendung sollen die Schulträger im Freistaat Sachsen bei der Wahrnehmung ihrer Pflichten nach § 23 des
+Schulgesetzes für den Freistaat Sachsen
+in der Fassung der Bekanntmachung vom 16. Juli 2004 (SächsGVBl. S. 298), das zuletzt durch Artikel 2 Absatz 10 des Gesetzes vom 19. Mai 2010 (SächsGVBl. S. 142) geändert worden ist, in der jeweils geltenden Fassung, sowie örtliche Träger der öffentlichen Jugendhilfe bei der Wahrnehmung ihrer Pflichten nach § 3 des
+Gesetzes über Kindertageseinrichtungen
+in der Fassung der Bekanntmachung vom 15. Mai 2009 (SächsGVBl. S. 225), das zuletzt durch Artikel 7 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, in der jeweils geltenden Fassung, unterstützt werden.
+
+Zuwendungen im Rahmen des Europäischen Fonds für regionale Entwicklung (EFRE) werden darüber hinaus nach Maßgabe folgender Regelungen gewährt:
+
+Operationelles Programm des Freistaates Sachsen für den Europäischen Fonds für regionale Entwicklung (EFRE) in der Förderperiode 2014 bis 2020,
+
+EFRE/ESF-Rahmenrichtlinie
+vom 12. März 2015 (SächsABl. S. 411), in der jeweils geltenden Fassung, soweit in dieser Förderrichtlinie keine abweichenden Regelungen getroffen werden.
+
+Abweichend von Nummer 1.7 der
+EFRE/ESF-Rahmenrichtlinie
+ist die Anwendung der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK
+, Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) einschließlich der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung an kommunale Körperschaften (ANBest-K
+, Anlage 3a zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) ausgeschlossen, soweit in dieser Förderrichtlinie keine abweichenden Regelungen getroffen werden.
+
+Ein Anspruch des Antragstellers auf Gewährung einer Zuwendung besteht nicht. Vielmehr erfolgt die Bewilligung auf der Grundlage pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+
+II.
+
+Gegenstand der Förderung
+
+Teil A:
+
+Gefördert werden der Neubau, die Erweiterung und die Sanierung sowie Teilsanierung von Schulgebäuden, Schulaußenanlagen, Schulsporthallen, Schulsportaußenanlagen und Schulhorten sowie mit dem Gebäude bestimmungsgemäß fest verbundene Ausstattung.
+
+Teil B:
+
+Gegenstand der Förderung im Rahmen des EFRE und des für den Freistaat Sachsen geltenden Operationellen Programms sind energetische Maßnahmen bei Bestandssanierungen einschließlich Maßnahmen zum Einsatz regenerativer Energien als auch die Errichtung von energetisch innovativen Neubauten in Form von Schulgebäuden, Schulhorten und Schulsporthallen. Bei Neubaumaßnahmen werden energetisch innovative Modell-/Pilotvorhaben gefördert, bevorzugt in Zusammenarbeit mit Forschungseinrichtungen oder Hochschulen.
+
+III.
+
+Zuwendungsempfänger
+
+Zuwendungen können gewährt werden an Gemeinden, Landkreise und an kommunale Zusammenschlüsse als Träger von Schulen gemäß § 4 des Schulgesetzes für den Freistaat Sachsen, an freie Träger entsprechender genehmigter Ersatzschulen, die gemäß § 14 des
+Gesetzes über Schulen in freier Trägerschaft
+vom 4. Februar 1992 (SächsGVBl. S. 37), das zuletzt durch Artikel 10 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387) geändert worden ist, in der jeweils geltenden Fassung, durch den Freistaat Sachsen bezuschusst werden und deren Wartefrist abgelaufen ist sowie an freie Träger staatlich anerkannter Internationaler Schulen.
+
+IV.
+
+Zuwendungsvoraussetzungen
+
+1.
+Baumaßnahmen werden nur gefördert, wenn die Nutzung des Gebäudes beziehungsweise der Außenanlage unter Berücksichtigung der absehbaren demografischen Entwicklungen und der Maßgaben in § 4a des Schulgesetzes für den Freistaat Sachsen für die Dauer der Zweckbindung gemäß Ziffer VI Nummer 1 gesichert ist. Die Förderung bedarf der vorherigen Zustimmung des Staatsministeriums für Kultus (SMK).
+2.
+
+Abweichend von Nummer 5.1 der
+EFRE/ESF-Rahmenrichtlinie
+werden Zuwendungen nur für solche Vorhaben bewilligt, die noch nicht begonnen worden sind.
+
+3.
+Eine Förderung wird nur gewährt, wenn der Antragsteller Eigentümer oder Erbbauberechtigter des betroffenen Grundstücks ist.
+4.
+Investitionen für Schulsporthallen können nur dann gefördert werden, wenn es Sporthallen sind, in denen überwiegend Schulsportunterricht erteilt wird. Gleiches gilt für Schulsportaußenanlagen.
+5.
+
+Investitionen für Schulhorte als Bestandteil der Gesamtbaumaßnahme können nach dieser Richtlinie nur dann gefördert werden, wenn die Schulhorte in einem unmittelbaren räumlichen Zusammenhang mit der Grund- beziehungsweise Förderschule stehen und eine Förderung der Maßnahme nach der
+VwV Kita Bau
+vom 10. April 2012 (SächsABl. S. 499), die durch die Verwaltungsvorschrift vom 18. Februar 2013 (SächsABl. S. 272) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 895), nicht erfolgt. Die Schulhorte müssen in den Bedarfsplan des örtlichen Trägers der öffentlichen Jugendhilfe aufgenommen sein. Darüber hinaus müssen sich Schule und Schulhort in ein und derselben Trägerschaft befinden.
+
+6.
+
+Um eine Doppelförderung zu vermeiden, kann eine Zuwendung nach dieser Richtlinie nur gewährt werden, wenn und soweit eine Förderung des Projektes nach der
+Förderrichtlinie LEADER
+vom 15. Dezember 2014 (SächsABl. SDr. 2015 S. S 13), der Förderrichtlinie Klimaschutz vom 22. Dezember 2014 (SächsABl. 2015 S. 100), der Verwaltungsvorschrift Städtebauliche Erneuerung vom 20. August 2009 (SächsABl. S. 1467), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), oder der RL Nachhaltige Stadtentwicklung EFRE 2014 bis 2020 vom 14. April 2015 (SächsABl. S. 564) nicht erfolgt.
+
+7.
+Für den Teil B gilt zusätzlich, dass vor Beginn der Baumaßnahme der jährliche Primärenergiebedarf und der Kennwert der Treibhausgasemission von einem Sachverständigen zu bestätigen sind. Nach Beendigung der Baumaßnahme sind von einem Sachverständigen der (erwartete) jährliche Primärenergiebedarf wie auch der Rückgang der Treibhausgasemission sowie die energiesanierte Fläche festzuhalten. Es ist ein mindestens einjähriges Verbrauchsmonitoring einzurichten.
+8.
+Eine Kumulierung von Fördermitteln der Teile A und B wird ausgeschlossen.
+9.
+Nicht gefördert werden Investitionen in bauliche Anlagen, die innerhalb von festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten liegen. Im besonderen Ausnahmefall kann eine Förderung erfolgen, wenn für das Vorhaben eine Genehmigung oder Zustimmung der zuständigen unteren Wasserbehörde vorgelegt wird.
+
+V.
+
+Art und Umfang, Höhe der Zuwendungen
+
+1.
+Die Zuwendung wird als projektgebundene Anteilfinanzierung in Form eines nicht rückzahlbaren Zuschusses gewährt.
+2.
+Als Bemessungsgrundlage für die zuwendungsfähigen Ausgaben dienen die beantragten Gesamtausgaben, soweit diese im Rahmen einer wirtschaftlichen und zweckmäßigen Planung entstehen. Zur Bewertung werden unter anderem die in § 4a des Schulgesetzes für den Freistaat Sachsen festgelegten Parameter für die Zügigkeit und die Klassenobergrenze herangezogen. Bei Neu- und Erweiterungsbauten ist eine, sich aufgrund des von den gesetzlichen Unfallversicherern empfohlenen Platzbedarfs von 2,0 Quadratmetern bis 2,5 Quadratmetern pro Schüler ergebende, Mindestgrundfläche pro Unterrichtsraum von 70,0 Quadratmetern einzuhalten. Zur Plausibilisierung der Angaben für die Kostengruppen 300 und 400 werden die Statistischen Bauwerkskostenkennwerte für den Neubau von Schulgebäuden des Baukosteninformationszentrums Deutscher Architektenkammern GmbH (BKI) herangezogen. Schulhorte sind dabei wie Grund- beziehungsweise Förderschulen zu betrachten. Beim Neubau von Schulsporthallen gelten die Orientierungswerte des Staatsbetriebes Sächsisches Immobilien- und Baumanagement.
+3.
+Bei Baumaßnahmen können Ausgaben für die Bau- und/oder Fachplanung, die Baugrunduntersuchung und das Herrichten des Grundstücks (zum Beispiel Gebäudeabbruch, Planieren) gefördert werden, sofern diese nicht alleiniger Zweck der Zuwendung sind.
+4.
+Nicht zuwendungsfähig sind Baumaßnahmen mit einer beantragten Zuwendung von jeweils unter 50 000 Euro.
+5.
+Für Teil A gilt:
+
+a)
+Baumaßnahmen werden in Höhe von 40 Prozent der zuwendungsfähigen Ausgaben gefördert.
+
+b)
+Nicht zuwendungsfähig sind Aufwendungen für Behelfsbauten, Räume, die nicht überwiegend für schulische Zwecke genutzt werden (ausgenommen Schulhorte), Kfz-Stellplätze (ausgenommen Stellplätze für Kfz von Menschen mit Behinderungen), das Herrichten von Ausweichobjekten, für die öffentliche Erschließung, für Kontroll- und Sicherheitsdienste, für Umzüge oder sonstige Ausgaben, die für die Realisierung des Zuwendungszweckes nicht unmittelbar erforderlich sind.
+6.
+Für Teil B gilt:
+
+a)
+Es gelten differenzierte Fördersätze, die vom Grad der erzielten Überschreitung der gesetzlichen Standards gemäß der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 1 der Verordnung vom 18. November 2013 (BGBl. S. 3951) geändert worden ist, beziehungsweise nach dem Erneuerbare-Energien-Wärmegesetz vom 7. August 2008 (BGBl. I S. 1658), das zuletzt durch Artikel 14 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, abhängig sind.
+
+aa)
+Innovativer Neubau: 75 Prozent
+
+bb)
+
+Bestandssanierung Überschreitung EnEV um 30 Prozent – Fördersatz 100 Prozent der förderfähigen Kosten
+
+Überschreitung EnEV um 20 Prozent – Fördersatz 90 Prozent der förderfähigen Kosten
+
+Überschreitung EnEV um 10 Prozent – Fördersatz 80 Prozent der förderfähigen Kosten
+
+b)
+Förderfähig sind alle durch die energetischen Maßnahmen unmittelbar sowie für die notwendigen Nebenarbeiten zur ordnungsgemäßen Fertigstellung und Funktionsfähigkeit der energetischen Maßnahme bedingten Ausgaben der Kostengruppen 300, 400 und 700, die die Überschreitung des gesetzlichen Standards, bewirken. Dazu zählen beispielsweise die Erneuerung von Fenstern und Eingangstüren, Dämmmaßnahmen an der Gebäudehülle und Sonnenschutzmaßnahmen sowie grundsätzlich Maßnahmen an Wärmeversorgungs-, Beleuchtungs-, Gebäudeautomations- und lufttechnischen Anlagen.
+
+Förderfähig sind darüber hinaus die im Zusammenhang mit der geförderten Baumaßnahme anfallenden Kosten für Sachverständige, Gutachten (beispielsweise auch Simulationen) und Planungsleistungen sowie bei innovativen Neubauten die wissenschaftliche Begleitung und die verpflichtende Veröffentlichung der Auswertungen.
+
+VI.
+
+Sonstige Zuwendungsbestimmungen
+
+1.
+Für die Zuwendung ist eine zeitliche Zweckbindung festzulegen. Die Dauer der Zweckbindung beträgt für eine Zuwendung:
+
+a)
+bis 150 000 Euro fünf Jahre,
+
+b)
+für mehr als 150 000 Euro und bis 5 Millionen Euro zehn Jahre sowie
+
+c)
+für mehr als 5 Millionen Euro:
+
+–
+bei Sanierungen fünfzehn Jahre
+
+–
+bei Neubauten und grundhaften Sanierungen, die wirtschaftlich einem Neubau gleichkommen, zwanzig Jahre.
+2.
+Einschlägige Maßgaben und Anlagen der in Ziffer I genannten Rechtsgrundlagen sind zum Bestandteil des Zuwendungsbescheides zu machen.
+3.
+Zweckgebundene Spenden sowie Spenden, die der Schulträger für die Umsetzung der Maßnahme einwerben musste, können als Eigenmittelersatz anerkannt werden.
+4.
+Bei Zuwendungen an freie Schulträger ist eine Besicherung etwaiger Erstattungsansprüche ab einer Zuwendung von mehr als 150 000 Euro vorzunehmen.
+
+VII.
+
+Verfahren
+
+1.
+
+Antragsverfahren
+
+Die Koordination des Antragsverfahrens erfolgt durch die Bewilligungsstelle. Bewilligungsstelle ist die Sächsische Aufbaubank – Förderbank – (SAB), Pirnaische Straße 9, 01069 Dresden.
+
+Der Staatsbetrieb Sächsisches Immobilien- und Baumanagement, Außenstelle Chemnitz, Brückenstraße 12, 09111 Chemnitz berät bereits vor Antragstellung zu baufachlichen Fragen.
+
+1.1
+
+Antragstellung
+
+Für die Bewilligung einer Zuwendung bedarf es eines schriftlichen und nach Maßgaben der Ziffer VII Nummer 1.2 vollständigen Antrages. Der Antrag ist auf den dafür vorgesehenen Vordrucken für Teil A oder Teil B bis spätestens 1. September des der Förderung vorangehenden Jahres bei der Bewilligungsstelle einzureichen. Der Antrag ist in einfacher, bei Baumaßnahmen mit beantragter Zuwendung über 2 Millionen Euro in dreifacher Ausfertigung abzugeben.
+
+1.2
+
+Antragsunterlagen
+
+Die Anträge müssen folgende Angaben enthalten:
+
+a)
+Bezeichnung und Beschreibung der Maßnahme,
+
+b)
+Aufstellung über die Gesamtausgaben einschließlich förderfähiger Ausgaben, die Kostenberechnung gegliedert nach den DIN 276, Grundflächen und Rauminhalte im Bau- und/oder Raum-Programm gegliedert nach DIN 277, die Einhaltung der Statistischen Bauwerkskostenkennwerte des BKI ist durch den Planer zu bestätigen,
+
+c)
+bei Anträgen auf Zuwendungen mit Gesamtausgaben ab 2,5 Millionen Euro veranlasst die Bewilligungsstelle eine landesplanerische Stellungnahme der oberen Raumordnungsbehörde – liegt innerhalb von sechs Wochen ab Anforderung durch die Bewilligungsstelle die landesplanerische Stellungnahme nicht vor, ist von einer Zustimmung zu dem Vorhaben aus landesplanerischer Sicht auszugehen,
+
+d)
+
+bei kommunalen Zuwendungsempfängern zur Darstellung der Finanzierung bei geplanten Gesamtausgaben von mehr als 100 000 Euro:
+
+Vorlage einer befürwortenden gemeindewirtschaftlichen Stellungnahme gemäß Großbuchstabe D der
+VwV Kommunale Haushaltswirtschaft
+vom 20. Dezember 2010 (SächsABl. 2011 S. 61, 260), die zuletzt durch Ziffer II der Verwaltungsvorschrift vom 6. Dezember 2012 (SächsABl. S. 1565) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), in der jeweils geltenden Fassung, oder Großbuchstabe D der
+VwV Kommunale Haushaltswirtschaft-Doppik
+vom 10. Dezember 2013 (SächsABl. 2014 S. 104), in der jeweils geltenden Fassung,
+
+e)
+Erklärung des Hauptverwaltungsbeamten oder eines Vertretungsberechtigten des freien Trägers, dass das Vorhaben einem Fördergegenstand nach Ziffer II Teil A oder B entspricht, die Zuwendungsvoraussetzungen nach Ziffer IV vorliegen, die Gesamtausgaben einer wirtschaftlichen und sparsamen Haushaltsplanung entsprechen und die Gesamtfinanzierung der Baumaßnahme gesichert ist,
+
+f)
+Bestätigung der jeweils zuständigen Bewilligungsstelle, dass eine Förderung des Projektes nach den in Ziffer IV Nummer 6 genannten Förderrichtlinien/Verwaltungsvorschriften nicht erfolgt,
+
+g)
+
+bei Baumaßnahmen freier und kommunaler Träger mit beantragter Zuwendung über 2 Millionen Euro gelten die Regelungen der Nummer 6.2 der
+Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung
+beziehungsweise der Nummer 6.2
+VVK
+, Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung;
+
+bei allen übrigen Baumaßnahmen sind folgende Bauunterlagen einzureichen:
+
+–
+bei Neu- und Erweiterungsbauten das Bau- und/oder Raum-Programm,
+
+–
+Übersichtsplan,
+
+–
+Lageplan des Bauvorhabens,
+
+–
+Angabe des kommunalen Trägers beziehungsweise des Bauvorlageberechtigten des freien Trägers zur baurechtlichen Genehmigungspflicht,
+
+–
+Beschreibung des Bauvorhabens,
+
+–
+Planungs- und Kostendatenblatt,
+
+–
+Erklärung zum Vorsteuerabzug,
+
+h)
+Nachweis des Eigentums/des Erbbaurechts für das Grundstück gemäß Ziffer IV Nummer 3,
+
+i)
+bei Erweiterungs-, Sanierungs- und Teilsanierungsmaßnahmen eine Zustandsanalyse des Baukörpers oder der zu sanierenden Gebäudeteile und eine Gesamtanalyse des Schulstandortes, soweit ein weiterer Bedarf an baulichen Maßnahmen in den nächsten fünf Jahren absehbar ist,
+
+j)
+Bestätigung eines Sachverständigen nach § 21 der Energieeinsparverordnung über das Vorliegen der Zuwendungsvoraussetzungen nach Ziffer IV Nummer 7.
+2.
+Bewilligung, Auszahlung und Verwendungsnachweisverfahren
+
+a)
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung, für den Nachweis und die Prüfung der Verwendung, für die gegebenenfalls erforderliche Aufhebung von Bewilligungsbescheiden sowie die Rückforderung der gewährten Mittel gilt die
+Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung
+, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind oder sich aus den in Ziffer I genannten Vorschriften der Europäischen Union (EU) etwas anderes ergibt.
+
+b)
+Bei baurechtlicher Genehmigungspflicht ist vor der ersten Auszahlung die Baugenehmigung vorzulegen.
+
+c)
+
+Für Teil B gilt:
+
+Die Bewilligungsstelle verpflichtet die Zuwendungsempfänger die Anforderungen aus den Bestimmungen der EU für die Förderung, insbesondere zur Kennzeichnung der EU-finanzierten Projekte, zur Aufbewahrung von Belegen, zur Vorlage von Originalbelegen als Grundlage für Zahlungen, zur Einräumung von Prüfrechten der Gemeinschaft, zu Informations- und Publizitätspflichten, zur Aufnahme in das Verzeichnis der Begünstigten und zu Berichtspflichten einzuhalten.
+
+VIII.
+
+Hilfen für die Schadensbeseitigung und den nachhaltigen Wiederaufbau zerstörter schulischer Infrastruktur
+
+Die Förderung bei außergewöhnlichen Notständen an schulischer Infrastruktur infolge von Schäden, die durch Elementarschadensereignisse von überörtlicher Bedeutung verursacht wurden, richtet sich nach der
+RL Elementarschäden
+vom 29. Juni 2011 (SächsABl. S. 988, 1191), zuletzt enthalten in der Verwaltungsvorschrift vom 6. Dezember 2013 (SächsABl. SDr. S. S 808), in der jeweils geltenden Fassung, sowie den im Einzelfall ergänzend erlassenen Regelungen. Im Übrigen gelten die Bestimmungen dieser Förderrichtlinie.
+
+IX.
+
+Inkrafttreten, Außerkrafttreten
+
+1.
+Diese Richtlinie tritt am Tage nach ihrer Veröffentlichung in Kraft.
+2.
+
+Gleichzeitig tritt die
+Förderrichtlinie SchulInfra
+vom 10. Mai 2012 (SächsABl. S. 638), enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 895), außer Kraft.
+
+Dresden, den 29. Juni 2015
+
+Die Staatsministerin für Kultus
+
+Brunhild Kurth
