@@ -13,10 +13,7 @@ Geschichte | 2***
 Zwei weitere Fächer des Aufgabenfelds II | 4****
 Aufgabenfeld III | 
 Mathematik | 4
-Naturwissenschaftliche Fächer | 6
-Biologie | 2***
-Chemie | 2***
-Physik | 2***
+Naturwissenschaftliche Fächer (Biologie, Chemie, Physik) | 6*****
 Sport | 2***
 Wahlpflichtbereich | 8**
 1. Fächer, die nicht in der Sek. I Gegenstand sind (INF, AF II, SPO-Theorie, ...) 2. Fremdsprachen 3. Methodenunterricht (1 - 2-stündig) 4. Fördern | 
@@ -29,7 +26,5 @@ Fußnoten
 *** auch dreistündig möglich
 *** auch dreistündig möglich
 *** auch dreistündig möglich
-*** auch dreistündig möglich
-*** auch dreistündig möglich
-*** auch dreistündig möglich
 **** wird Geschichte dreistündig unterrichtet, ist nur ein weiteres Fach im Rahmen des AF-II-Kontingents möglich
+***** zwei Fächer dreistündig oder drei Fächer mindestens zweistündig
