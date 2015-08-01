@@ -1,0 +1,1 @@
+Auf Grund von Art. 19 Abs. 2 und Art. 115 Abs. 2 Satz 2 Halbsatz 2 des Bayerischen Beamtengesetzes erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Staatsministerium der Finanzen und dem Bayerischen Landespersonalausschuß folgende Verordnung:
