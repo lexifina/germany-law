@@ -1,0 +1,93 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-08-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539640
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539640
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Fahrradweg Elsenheimerstraße
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Pavillonbauten Camerloher Schule (vertagt aus der BA-Sitzung vom 07.07.15)
+- TOP 2.2.: CSU: Absolutes Haltverbot für LKW und Busse auf der Brücke über die Lindauer Autobahn zwischen Westpark und Westendstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 650 ? für Bauernhoffahrt vom 24.0-26.06.15; Antragsteller: Laimer Spielmäuse e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 750 ? für Spielaktion vom 16.09. - 25.09.15; Antragsteller: Familienzentrum Laim, DKSB München e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 22.06.15: Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO), Abstimmung über einzelne Teile eines Antrages (Antrag Nr. 14-20 / B 01057 des BA 7 Sendling-Westpark vom 14.04.15)
+- TOP 4.2.: St.-Ulrich-Str. 4: Antrag auf Fällung von 1 Tanne
+- TOP 4.3.: Berchemstr. 24: Antrag auf Fällung von 1 Tanne
+- TOP 4.4.: Sturmstr. 4: Antrag auf Fällung von 1 Weißtanne
+- TOP 4.5.: Valpichlerstr. 19: Fällung von 1 Douglasie
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 23.07.15: Straßenfest am 19.09.15 in der Byecherstraße
+- TOP 4.7.: Schreiben Baureferat vom 23.07.15: Fahrradstellplatzkonzept (3. Realisierungsabschnitt); Anhörung der Bezirksausschüsse zu Detailplanungen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Siglstr. 19-21: Errichtung einer Wohnanlage mit Tiefgarage und zwei Kindertagesstätten (Brantstraße / Siglstr. 19 + 21 / Walter-Scott-Straße)
+- TOP 5.2.: Fürstenrieder Str. 41: Neubau einer Wohnanlage; Antrag auf Teilbaugenehmigung für Aushub, Sicherung und Verbau
+- TOP 5.3.: Schrobenhausener Str. 15: Schulbauoffensive; Neubau einer Containeranlage für eine Grund- und Mittelschule als Interimsmaßnahme für 44 Monate
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 07.07.15
+- TOP 7.2.: Sitzung UA Kultur vom 08.07.15
+- TOP 7.3.: Gemeinsame Sitzung UA Kultur BA 25 und UA Kultur BA 7 vom 08.07.15
+- TOP 7.4.: Gemeinsame Sitzung UA Bildung und Sozialplanung und UA Soziales und Senioren vom 13.07.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 26.06.15: Akteneinsichtsrecht für Bezirksausschussmitglieder
+- TOP 8.2.: Schreiben Direktorium vom 29.06.15: Personalsituation in den BA-Geschäftsstellen
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 09.06.15: Gaststätte "Cafeteria Restaurant Westpark", Westendstr. 174; unvränderte Fortführung
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 23.06.15: Gaststätte "Absolut", Landsberger Str. 216; unvränderte Fortführung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 23.06.15: Gaststätte "Dillinger", Laimer Platz 2; unvränderte Fortführung
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 08.07.15: Jubiläuumsstiftung der Münchner Bürgerschaft "Alte Heimat", Sperrung der Balkone Kiem-Pauli-Weg und Zschokkestraße (Schreiben BA vom 18.06.15)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 09.07.15: Ampelschaltung Friedenheimer Straße / Gotthardstraße sowie Schrobenhausener Straße / Burgkmairstraße / Zschokkestraße (Antrag Nr. 14-20 / B 01266 vom 009.06.15)
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 15.07.15: Oktoberfest 2015 (Schreiben BA vom 18.06.15)
+- TOP 8.9.: Schreiben Baureferat vom 24.06.15: Senftenauerstraße (zwischen Hönigschmidplatz udn Ammerseestraße)
+- TOP 8.10.: Schreiben Baureferat vom 24.06.15: Gotthardstraße (zwischen Riegerhofstraße und Von-der-Pfordten-Straße)
+- TOP 8.11.: Schreiben Baureferat vom 06.07.15: Einwohnerversammlung für Kinder und Jugendliche in Laim vom 14.11.14; Anträge von 2 Jugendlichen auf Einrichtung eines Hartplatzes für Handball am Hogenbergplatz
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.06.15: Fällungsantrag Friedenheimer Str. 100
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 06.07.15: Nahverkehrsplan der Landeshauptstadt München
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.07.15: Gotthardstr. 53 / Fürstenrieder Str. 70: Neubau eines Wohn- und Geschäftsgebäudes / Vorbescheid
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.07.15: Nachverdichtung in Laim (Anfrage Nr. 08-14 / Q 00444 der Bürgerversammlung vom 20.11.12)
+- TOP 8.16.: Schreiben Referat für Stadtplanung und Bauordnung vom 22.07.15: Bauvorhaben Aindorferstr. 77b, Haus 1, Tektur
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 24.06.15: Mobilfunk; Erweiterungsvorhaben am (an) bestehenden Mobilfunkstandorten mit LTE
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 08.07.15: Mobilfunk; Baubeginnsanzeige einer Mobilfunkanlage
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 20.07.15: Mobilfunk; Erweiterungsvorhaben am (an) bestehenden Mobilfunkstandorten mit LTE
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 24.06.15: Information der Bezirksausschüsse; Neue Bädereintrittspreise ab 01.07.15
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 03.07.15: Baumaßnahmen der SWM; Stromprojekt Straubinger Straße, Netztrafostation 1. Bauabschnitt
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 20.07.15: Baumaßnahmen der SWM; Stichtag: 20.07.15
+- TOP 8.23.: Schreiben Referat für Arbeit und Wirtschaft vom 07.07.15: Zustand S-Bahnhof Laim; Fahrstuhl (Schreiben BA vom 18.05.15)
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 08.07.15: Information zu Änderungen im Projektablauf MVG Rad
+- TOP 8.25.: Schreiben Referat für Arbeit und Wirtschaft vom 08.07.15: Zustand S-Bahnhof Laim (Schreiben BA vom 24.11.14)
+- TOP 8.26.: Schreiben Referat für Arbeit und Wirtschaft vom 08.07.15: S-Bahnhof Laim - Wartehäuschen / Windschutz (Antrag Nr. 08-14 / B 04583 vom 05.02.13)
+- TOP 8.27.: Bautenliste vom 15.06.-21.06.15: 1. Erstantragsverfahren a) Veit-Stoß-Straße b) Agricolastraße 2. Änderungsverfahren a) Seehoferstraße 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) St.-Ulrich-Str. 4
+- TOP 8.28.: Bautenliste vom 22.06.-28.06.15: 1. Erstantragsverfahren a) Aindorferstr. 77d b) Siglstr. 19 2. Änderungsverfahren a) Mitterhoferstr. 2
+- TOP 8.29.: Bautenliste vom 29.06.-05.07.15: 1. Erstantragsverfahren a) Landsberger Str. 183
+- TOP 8.30.: Bautenliste vom 06.07.-12.07.15 1. Erstantragsverfahren a) Schrobenhausener Str. 15 b) Fürstenrieder Str. 41
+- TOP 8.31.: Bautenliste vom 13.07.-19.07.15 1. Änderungsverfahren a) Landsberger Str. 191
+- TOP 8.32.: Bekanntgabe in der Sitzung des Sozialausschusses vom 18.06.15: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.14 (Sitzungsvorlage Nr. 14-20 / V 03023)
+- TOP 8.33.: Beschluss der Vollversammlung vom 01.07.15: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss (Sitzungsvorlage Nr. 14-20 / V 03518)
+- TOP 8.34.: Beschluss der Vollversammlung vom 01.07.15: Ergänzung zum Aufstellungsbeschluss, Bebauungsplan mit Grünordnung Nr. 2027 Zschokkestraße (südlich), Westendstraße (westlich), Barmer Straße und Hans-Thonauer-Straße (östlich) - Erweiterung des Umgriffs (Busbetriebshofgelände) - (Teiländerung des Bebauungsplanes Nr. 58 d), Aufstellungsbeschluss (Sitzungsvorlage Nr. 14-20 / V 03072)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Koordination und Service im Radverkehr (Sitzungsvorlage Nr. 14-20 / V 03026)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Projekt Hauptbahnhof - Laim - Pasing; Teilbereich Birketweg (Sitzungsvorlage Nr. 14-20 / V 02285)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Freiflächengestaltungssatzung ändern, Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik (Sitzungsvorlage Nr. 14-20 / V 03433)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Sitzungsvorlage Nr. 14-20 / V 02900)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Wohnen in München VI - Zeitplan und Themenvorschau (Sitzungsvorlage Nr. 14-20 / V 03161)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Sachstandsbericht, b) Vorschlag zur Evaluierung nd Fortschreibung der Qualitätsstandards, c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen, d) Vergabe von Beratungs- und Gutachterleistungen, e) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 8.41.: Beschluss des Sozialausschusses vom 09.07.15: Nachbarschaftsarbeit in München stärken, Begleitung des Bürgerschaftlichen Engagements, Finanzierung der Raumverwaltung und Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs (Sitzungsvorlage Nr. 14-20 / V 01597)
+- TOP 8.42.: Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss des Stadtrates vom 09.07.15: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 14-20 / V 03448)
+- TOP 8.43.: Beschluss des Bauausschusses vom 14.07.15: Verlängerung der U-Bahn-Linie 5 West von Laim nach Pasing (Sitzungsvorlage Nr. 14-20 / V 03325)
+- TOP 8.44.: Beschluss des Bauausschusses vom 14.07.15: Trappentreutunnel, Dreispurige Ausfahrt des Mittleren Ringes aus dem Trappentreutunnel in Richtung Norden (Sitzungsvorlage Nr. 14-20 / V 02752)
+- TOP 8.45.: Beschluss des Kommunalausschusses vom 16.07.15: Wegebenennung in Grünanlagen ermöglichen (Sitzungsvorlage Nr. 14-20 / V 02923)
+- TOP 8.46.: Beschluss des Kommunalausschusses vom 16.07.15: Jubiläuumsstiftung der Münchner Bürgerschaft Alte Heimat (Sitzungsvorlage Nr. 14-20 / V 03722)
+- TOP 8.47.: Beschluss der Vollversammlung vom 29.07.15: Nahmobilitätspauschale (Sitzungsvorlage Nr. 14-20 / V 02702)
+- TOP 8.48.: Schreiben Deutscher KinderschutzBund Ortsverband München e.V. vom 13.07.15: Zuwendung aus dem Budget; Elternkurs "Starke Eltern - starke Kinder" in türckischer Sprache - Kurzbericht
+- TOP 8.49.: Schreiben MVV vom Juli 2015: Münchner Verkehrs- und Tarifverbund - aktueller Verbundbericht 2014
+- TOP 8.50.: Schreiben Mieterbeirat vom 21.07.15: Protokoll der öffentlichen Sitzung des Mieterbeirates, Rechenschaftsbericht vom 2013-2015
+- TOP 8.51.: Schreiben Behindertenbeirat vom 23.07.15: Protokoll Sitzung BA und FAK Mobilität am 01.07.15
+- TOP 1.2: Bürgerpost an den BA
