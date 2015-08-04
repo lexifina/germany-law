@@ -1,0 +1,94 @@
+---
+ecli: "ECLI:DE:BVerfG:2015:rk20150804.1bvr151515"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 1515/15"
+decided: "2015-08-04"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 4. August 2015\n- 1 BvR 1515/15 -, Rn. 1-3,\n                    https://www.bverfg.de/e/rk20150804_1bvr151515"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/08/rk20150804_1bvr151515.html"
+corpus_doc_id: "BVerfG_2015-08-04_K_1_BvR_1515_15_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/famfg/0042.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 1515/15 vom 2015-08-04
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 1 BvR 1515/15 -
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+des Herrn Z…,
+
+- Bevollmächtigter:   Rechtsanwalt Georg Rixe
+                      in Sozietät Rechtsanwälte Dr. Joachim Baltes, Georg Rixe,
+                      Hauptstraße 60, 33647 Bielefeld -
+
+ gegen a) den Beschluss des Oberlandesgerichts Frankfurt am Main
+
+              vom 27. Mai 2015 - 3 UF 373/14 -,
+
+         b) den Beschluss des Amtsgerichts Frankfurt am Main
+
+              vom 15. Oktober 2014 - 456 F 5201/14 UG -
+
+hat die 1. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+
+                                 den Vizepräsidenten Kirchhof,
+
+                                 den Richter Eichberger
+
+                                 und die Richterin Britz
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473)
+
+am 4. August 2015 einstimmig beschlossen:
+
+        Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                   Gründe:
+ Die Voraussetzungen für die Annahme der Verfassungsbeschwerde liegen nicht vor      1
+(§ 93a Abs. 2 BVerfGG). Der Verfassungsbeschwerde kommt keine grundsätzliche
+Bedeutung zu. Ihre Annahme ist auch nicht zur Durchsetzung der Grundrechte oder
+grundrechtsgleichen Rechte des Beschwerdeführers angezeigt, denn sie hat keine
+Aussicht auf Erfolg. Insbesondere ist die Verfassungsbeschwerde unzulässig, soweit
+der Beschwerdeführer beanstandet, dass zwischen Tenor und Gründen der Entscheidung des Oberlandesgerichts ein Widerspruch bestehe, weil nach dem Tenor
+der Entscheidung ab dem 7. September 2015 wöchentlich Umgang stattfinden soll,
+wohingegen es in den Gründen heißt, dass der Rhythmus des Umgangs nach den
+Sommerferien 2015 auf 14 Tage erweitert werde. Ungeachtet der Frage, ob hiermit
+
+
+                                         1/3
+
+eine Grundrechtsverletzung verbunden sein könnte, ist die Verfassungsbeschwerde
+insoweit wegen der Subsidiarität der Verfassungsbeschwerde unzulässig, weil der
+Beschwerdeführer diesbezüglich zunächst nach § 42 FamFG hätte versuchen können, eine Berichtigung des Beschlusses zu beantragen. Dass dies geschehen ist, ist
+weder dargetan noch auf sonstige Weise ersichtlich.
+
+ Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                3
+
+              Kirchhof             Eichberger               Britz
+
+
+
+
+                                        2/3
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Ersten Senats vom 4. August 2015 - 1 BvR 1515/15
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 4. August 2015 - 1 BvR 1515/15 - Rn. (1 - 3), http://www.bverfg.de/e/
+                rk20150804_1bvr151515.html
+
+ECLI            ECLI:DE:BVerfG:2015:rk20150804.1bvr151515
+
+
+
+
+                                        3/3
