@@ -1,8 +1,8 @@
 # Der Freistaat Sachsen gewährt auf der Grundlage des Entwicklungsprogramms für den ländlichen Raum im Freistaat Sachsen (EPLR) in der Förderperiode 2014 - 2020 in der jeweils geltenden Fassung und nach Maßgabe dieser Richtlinie sowie unter Beachtung d
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2014-12-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14206.1
+- Datum: 2015-08-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14206.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -825,7 +825,7 @@ Anträge auf Förderung sind unter Verwendung der dafür vorgesehenen Formulare 
 
 3.
 
-Die jeweils geltenden Antragsformulare, Vordrucke und Erklärungen sind im Internet veröffentlicht. Im Falle der Eröffnung einer elektronischen Antragstellung ist der Zugang zum Antragsportal ebenfalls über diese Adresse (Adresse: http://www.smul.sachsen.de/foerderung/3428.htm) erreichbar.
+Die jeweils geltenden Antragsformulare, Vordrucke und Erklärungen sind im Internet veröffentlicht. Im Falle der Eröffnung einer elektronischen Antragstellung ist der Zugang zum Antragsportal ebenfalls über diese Adresse (Adresse: http://www.smul.sachsen. de/foerderung/3428.htm) erreichbar.
 
 4.
 
@@ -1109,6 +1109,7 @@ Förderfähigkeit von Ausgaben
 3.1
 
 Personalkosten werden auf der Grundlage der tatsächlichen Kosten (Nachweis durch Beschäftigungsdokument und Lohn-/Gehaltsabrechnungen) erstattet. Bei teilzeitiger Abordnung für das Vorhaben bedarf es darüber hinaus eines Dokuments des Arbeitgebers, in dem der für das Vorhaben aufzuwendende Prozentsatz der Arbeitszeit festgelegt ist. Bei auf Stundenbasis beschäftigten Personen bedarf es darüber hinaus eines Dokuments, aus dem sich die tatsächlich für das Vorhaben aufgewendeten und anhand eines Arbeitszeiterfassungssystems ermittelten Arbeitsstunden ergeben.
+
 Der vorstehende Absatz findet keine Anwendung, soweit Personalkosten über standardisierte Einheitskosten, Pauschalfinanzierungen oder Pauschalsätze gefördert werden.
 
 3.2
@@ -1117,11 +1118,12 @@ Die Mehrwertsteuer gehört, soweit sie nicht als Vorsteuer nach nationalem Recht
 
 3.3
 
-Skonti sind von den förderfähigen Ausgaben abzuziehen, soweit sie der Begünstigte tatsächlich in Anspruch genommen hat.
+Skonti, Boni, Rabatte und Gutschriften sind von den förderfähigen Ausgaben abzuziehen, soweit sie der Begünstigte tatsächlich in Anspruch genommen hat.
 
 3.4
 
 Indirekte Kosten (Gemeinkosten) sind förderfähige Ausgaben, sofern sie auf den tatsächlichen Kosten beruhen, die sich auf die Durchführung des aus dem ELER-finanzierten Vorhabens beziehen und dem Vorhaben nach einer angemessenen Methode anteilig zugerechnet werden.
+
 Der vorstehende Absatz findet keine Anwendung, soweit indirekte Kosten über standardisierte Einheitskosten, Pauschalfinanzierungen oder Pauschalsätze gefördert werden.
 
 3.5
@@ -1143,9 +1145,16 @@ Vergabe von Aufträgen
 4.1
 
 Ist der Begünstigte aufgrund von §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 5 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, und der Vergabeverordnung in der Fassung der Bekanntmachung vom 11. Februar 2003 (BGBl. I S. 169), die zuletzt durch Artikel 1 der Verordnung vom 15. Oktober 2013 (BGBl. I S. 3854) geändert worden ist, sowie von § 1 Absatz 1 des
-Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), in der jeweils geltenden Fassung, verpflichtet, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder die Vergabeordnung für freiberufliche Leistungen (VOF) anzuwenden oder andere Vergabebestimmungen einzuhalten, so hat er die Einhaltung dieser Verpflichtung der Bewilligungsbehörde durch die Vorlage der Vergabedokumentation (§ 20 VOB/A, § 20 VOL/A, § 24 EG-VOL/A, § 12 VOF) einschließlich eines Preisspiegels, der Bekanntmachung (§ 12 VOB/A, § 12 VOL/A, § 23 EG-VOL/A, § 9 VOF), der Niederschrift über die Angebotsöffnung (§ 14 VOB/A, § 14 VOL/A, § 17 EG-VOL/A und § 11 VOF) und des Zuschlags (§ 18 VOB/A , § 18 VOL/A, § 21 EG-VOL/A und § 11 VOF) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen nachzuweisen. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen nachzufordern und Vergabeprüfungen durchzuführen.
+Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), in der jeweils geltenden Fassung, verpflichtet, die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder die Vergabeordnung für freiberufliche Leistungen (VOF) anzuwenden oder andere Vergabebestimmungen einzuhalten, so hat er die Einhaltung dieser Verpflichtung der Bewilligungsbehörde durch die Vorlage der Vergabedokumentation (§ 20 VOB/A, § 20 EG-VOB/A, § 20 VOL/A, § 24 EG-VOL/A, § 12 VOF) einschließlich eines Preisspiegels, der Bekanntmachung (§ 12 VOB/A, § 12 EG-VOB/A, § 12 VOL/A, § 10 EG-VOL/A, § 15 EG-VOL/A, § 9 VOF), der Niederschrift über die Angebotsöffnung (§ 14 VOB/A, § 14 EG-VOB/A, § 14 VOL/A, § 17 EG-VOL/A und § 11 VOF) und des Zuschlags (§ 18 VOB/A, § 18 EG-VOB/A, § 18 VOL/A, § 21 EG-VOL/A und § 11 VOF) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen nachzuweisen. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen nachzufordern und Vergabeprüfungen durchzuführen.
 
 4.2
+
+Begünstigte als öffentliche Auftraggeber im Sinne des § 98 des Gesetzes gegen Wettbewerbsbeschränkungen sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag möglicherweise für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von Interesse sein könnte. Bei Aufträgen nach der VOL ab 5 000 Euro, nach der VOB ab 10 000 Euro und nach der VOF ab 20 000 Euro ist grundsätzlich von einer Binnenmarktrelevanz auszugehen.
+
+Nach der „Mitteilung der Kommission zu Auslegungsfragen in Bezug auf das Gemeinschaftsrecht, das für die Vergabe öffentlicher Aufträge gilt, die nicht oder nur teilweise unter die Vergaberichtlinien fallen“ vom 24. Juli 2006 (ABl. C 179 vom 1.8.2006, S. 2) sind binnenmarktrelevante Aufträge öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben. Weitere Einzelheiten können der Mitteilung entnommen werden. Es ist der Nachweis der öffentlichen Bekanntgabe vorzulegen.
+
+Liegen bei Aufträgen nach Absatz 1 Satz 1 besondere Umstände vor, die ein grenzüberschreitendes Interesse ausschließen (keine Binnenmarktrelevanz) und wird auf eine Veröffentlichung verzichtet, ist dies zu begründen. Als Nachweis ist der Bewilligungsbehörde die Begründung vorzulegen.
+4.3
 
 Ist der Begünstigte nach Nummer 4.1 zur Beachtung der vergaberechtlichen Vorschriften verpflichtet und kommt es im förmlichen Vergabeverfahren zu erheblichen Verstößen oder kann der Nachweis des ordnungsgemäßen Vergabeverfahrens durch den Begünstigten nicht erbracht werden, so wird die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise zurückgenommen.
 Schwere Vergabeverstöße im förmlichen Vergabeverfahren sind insbesondere:
@@ -1182,6 +1191,7 @@ f)
 
 zusätzliche Bau- oder Dienstleistungen, die die in den einschlägigen Vorschriften festgelegten Schwellenwerte übersteigen.
 
+Ist der Begünstigte nach Nummer 4.2 verpflichtet, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten und können die erforderlichen Nachweise nicht erbracht werden oder liegen Verstöße gegen die Anforderungen an eine transparente und diskriminierungsfreie Bekanntmachung vor, wird die Auszahlung ganz oder teilweise abgelehnt und die Zuwendung ganz oder teilweise zurückgenommen.
 5.
 
 Dauerhaftigkeit (Zweckbindungsfrist)
