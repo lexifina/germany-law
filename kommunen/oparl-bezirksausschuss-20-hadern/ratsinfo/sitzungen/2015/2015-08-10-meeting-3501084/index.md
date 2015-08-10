@@ -1,0 +1,101 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-08-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501084
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501084
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.2.: Buslinie 167 Am Hedernfeld - Sitzgelegenheiten
+- TOP 1.3.: Schlimme Zustände in der Kriegerheimstraße / Naturlehrpfad
+- TOP 1.4.: Teerbelag auf dem Gehweg beim U-Bahn-Abgang Guardinistraße neben St. Ignatius
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6.1.: Erinnerungsverfahren Fürstenrieder Str. 172-176 (Baureferat, 08.07.15)
+- TOP 7: Baumschutz
+- TOP 7.3.: Windeckstr. 53, 1 Tanne
+- TOP 7.4.: Sonnenblumenstr. 3, 2 Kiefern
+- TOP 7.5.: Pfingstrosenstr. 63c, 2 Fichten
+- TOP 7.11.: Gräfelfinger Str. 91b, Baumbestandsplan
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Kurparkstraße (Sozialreferat, 10.07.15) - Tannenwaldstraße (Sozialreferat, 13.07.15)
+- TOP 8.4.: Nahverkehrsplan der Landeshauptstadt München (Referat für Stadtplanung und Bauordnung, 06.07.15)
+- TOP 9: Antworten der Stadt
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.2.: Wohnanlage Stiftsbogen 83-93 (Heimag München GmbH, 15.07.15)
+- TOP 11.2.: Protokoll der öffentlichen Sitzung des Mieterbeirates, Rechenschaftsbericht von 2013-2015 (Mieterbeirat, 21.07.15)
+- TOP 11.4.: Protokoll der Sitzung BA und FAK Mobilität vom 01.07.15 (Behindertenbeirat, 23.07.15)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Beschluss vom 29.07.15 zur Sitzungsvorlage Nr. 14-20 / V 02702: Nahmobilitätspauschale
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03153 (nach Antrag): Bessere technische Unterstützung für ein längeres selbstbestimmtes Leben der Senioren (Abgelehnt unter Berufung auf die derzeitigen "Hilfssysteme")
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03433: Freiflächengestaltungssatzung ändern Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik (Abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kulturausschusses vom 09.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03567 (nach Antrag): Betriebsaufnahme der stadtteilkulturellen und bürgerschaftlichen Einrichtung im Gebäude Guardinistr. 90 im 20. Stadtbezirk Hadern Kosten in 2016 = 117.310,-- ? (Rumpfjahr), ab 2017 = 130.746,-- ? / Jahr
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03161: Wohnen in München VI - Zeitplan und Themenvorschau Zielzahl für den Wohnungsbau erhöhen! (Kosten für neue Stellen: 260.960,-- ?)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.2.: Bekanntgabe des Sozialausschusses zur Sitzungsvorlage Nr. 14-20 / V 03023: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.14, Vollzug der Erhaltungssatzung, Vollzug der Zweckentfremdungssatzung; Bekanntgabe der Jahresstatistik 2014 In Hadern werden 1 "gewerbliche Nutzung" und 1 "Leerstand" aufgegriffen (Seite 6).
+- TOP 12.3.: Beschluss vom 01.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03518 (nach Antrag idF von 2 Änderungsanträgen): Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 3.1.: UA Kinder / Jugend / Sport
+- TOP 5.1.: (E) Budget der Bezirksausschüsse REGSAM, mobiles Spielangebot vom 28.09. bis 02.10.2015 (Direktorium, 13.07.15) - <div>nach Antrag</div>
+- TOP 6.6.: Terofalstr. 19, Errichtung von Einzelhandelsflächen als Erweiterung, 9 Wohnungen und einer Tiefgarage (Referat für Stadtplanung und Bauordnung, 30.07.15)
+- TOP 6.8.: Hosigaustraße ? Auf der Vogelwiese, Haltverbot (Kreisverwaltungsreferat, 29.07.15)
+- TOP 7.14.: Schlüsselblumenweg 7, 2 Scheinzypressen
+- TOP 7.16.: Terofalstr. 19, Baumbestandsplan
+- TOP 7.18.: Würmtalstr. 139, 1 Birke
+- TOP 7.19.: Gräfelfinger Str. 133b, 1 Fichte
+- TOP 1.1.: Einkaufszentrum Haderner Stern und überhöhte Randsteine
+- TOP 1.5.: Sachstand Umbau Erdinger Weißbräu, Heiglhofstr. 13
+- TOP 3: Ausschussberichte
+- TOP 6: Anhörungsfälle
+- TOP 6.2.: Straßenfest in der Windeckstraße am 05.09.15 (Kreisverwaltungsreferat, 15.07.15)
+- TOP 6.3.: Stadtjugendamt, Förderung freier Träger, Haushaltsjahr 2016; Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 21.07.15)
+- TOP 6.4.: Großhaderner Str. 50, Schulbauoffensive, Errichtung einer mobilen Schulraum- einheit als Interimsgebäude mit einer Standzeit von weniger als 24 Monaten (Referat für Stadtplanung und Bauordnung, 23.07.15)
+- TOP 6.5.: Straßenfest Guardinistraße am 22.08.15 (Kreisverwaltungsreferat, 24.07.15)
+- TOP 6.7.: Wildtaubenweg, Haltverbot (Kreisverwaltungsreferat, 29.07.15)
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Magnolienweg 2a, 1 Fichte
+- TOP 7.2.: Efeustr. 8, 1 Zeder, 2 Fichten
+- TOP 7.6.: Großhaderner Str. 21-23, Baumbestandsplan
+- TOP 7.7.: Sonnenblumenstr. 42 + 44b, 1 Fichte
+- TOP 7.8.: Fürstenrieder Str. 166, Baumbestandsplan
+- TOP 7.9.: Pfingstrosenstr. 12, 1 Fichte
+- TOP 7.10.: Heiglhofstr. 8, Baumbestandsplan
+- TOP 7.12.: Pfingstrosenstr. 17, 3 Thujen
+- TOP 7.13.: Großhaderner Str. 50, Baumbestandsplan
+- TOP 7.15.: Krokusstr. 2, 1 Blaufichte
+- TOP 7.17.: Kurparckstr. 44, 1 Fichte, 1 Walnuss
+- TOP 7.1.: Haderunstr. 76, 1 Linde (Baureferat, 25.06.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Information über Betriebskonzept der Linien U3/U6 während der Stellwerksarbeiten im Bereich U-Bhf. Poccistraße (MVG, 07.07.15)
+- TOP 8.3.: Sanierung Blumenauer Straße zwischen Flemischweg und Terofalstraße (Baureferat, 15.07.15)
+- TOP 9.1.: Stiftsbogen: Rückschnitt der Bäume an der südöstlichen Seite auf Höhe des Bolzplatzes (Baureferat, 07.07.15)
+- TOP 9.2.: Sanierung diverser Straßen im Stadtbezirk 20 Hadern (Baureferat, 08.07.15)
+- TOP 10.1.: Aufstellung eine Buswartehäuschens in der Waldwiesenstraße (Ostseite) an der Bushaltestelle "Haderunstraße" (Stadtwerke München GmbH, 22.06.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Informationen bezüglich dem Projekt: MVG Rad (Stadtwerke München GmbH, 08.07.15)
+- TOP 11.3.: Änderung der BA-Satzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München Leitlinie (Leitbild) aller Referate; Antrag Nr. 14-20 / B 01264 des BA 20 Hadern vom 08.06.15 - BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 13.07.15 - BA 13 Bogenhausen vom 17.07.15 - BA 17 Obergiesing-Fasangarten vom 16.07.15
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03124 (nach Antrag): Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zwei-System U-S-Bahnfahrzeugen für die Region München (Abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03176 (nach Antrag): Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2015 (Hadern ist nicht betroffen)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 02900: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Abgelehnt unter Berufung auf das vorhandene "Zentrenkonzept")
+- TOP 12.3.: Beschluss des Kommunalausschusses vom 16.07.15 zur Sitzungsvorlage Nr. 14-20 / V 02923: Wegebenennung in Grünanlagen ermöglichen; Benennung von Grünanlagen und Wegebenennung in Grünanlagen; Benennung von Straßen und Wegen in Grünzügen; Erneute Befassung des Stadtrates mit dem Thema "Benennung von Straßen und Wegen in Grünzügen" Abgelehnt unter Berufung auf den Grundsatzbeschluss vom 18.04.2002. Der BA Hadern hat sich für eine Benennung von "großen Wegen" eingesetzt (Beschluss vom 10.03.2004)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zu Sitzungsvorlage Nr. 14-20 / V 03603: Nahverkehrsplan (NVP) der Landeshauptstadt München (Vom BA Hadern mit Beschluss vom 11.05.2011 abgelehnt) a) Sachstandsbericht b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge und Empfehlungen, insbesondere zur ?Verlängerung der U6 nach Martinsried? (Seite 9) und zur ?Tram-Westtangente? (Seite 10-11). Im Zuge dieser Maßnahme soll am Bahnhof ?Laim? ein 4. S-Bahn-Gleis eingerichtet werden (Seite 1).
+- TOP 12.3.: Beschluss des Bildungsausschusses gemeinsam mit dem Sportausschuss, dem Bauausschuss, dem Verwaltungs- und Personalausschuss, dem Ausschuss für Stadtplanung und Bauordnung, dem Finanzausschuss und dem Umweltausschuss vom 09.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03448: Schulbauoffensive 2013-2030 Im Schuljahr 2016/17 sollen in der Grundschule (GS) an der Guardinistraße 10 Klassenzimmer und 4 Ganztagesräume als Pavillons bereitstehen (Kosten: 6,4 Mio. ?, Seite 24). Ein späterer Festbau ist vorgesehen. Die angedachte Pavillon-Anlage in der GS an der Großhaderner Straße entfällt wegen der nicht ausreichenden Grundstücksfläche (Seite 27, 33). Die Entwicklung der GS an der Senftenauerstraße werde weiter beobachtet. Derzeit sei keine Aufstellung von neuen Pavillons notwendig. Wegen des Abbruches von 3 ?alten Pavillons? und des Neubaus einer Sporthalle würden jedoch ?Pavillons für Auslagerungen? notwendig. Auch könnten Verwaltungsräume umgebaut werden (Seite 35-36). Zur Anmerkung 4 der Stellungnahme des BA Hadern vom 9.6.2015 (Anlage C 12) wird mitgeteilt, daß auf Grund der ?Sprengelungebundenheit? der Gymnasien und Realschulen die Schulversorgung auch in anderen Stadtbezirken hergestellt werden könne (Seite 112). Wegen der Anmerkungen 1-3 wird auf die o.g. BA-Stellungnahme Bezug genommen.
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03026: Koordination und Service im Radverkehr a) Radverkehrsbeauftragte oder -beauftragter b) Konzept zur Bearbeitung von Anregungen und Beschwerden c) Anträge (Kosten für 2 Planstellen: 184.130,-- ?)
+- TOP 12.5.: Beschluss des Sozialausschusses vom 09.07.15 zur Sitzungsvorlage Nr. 14-20 / V 01597: Nachbarschaftsarbeit in München stärken Begleitung des Bürgerschaftlichen Engagements Finanzierung Raumverwaltung und Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs Die Gesamtkosten betragen in 2016 einmalig = 2.370,-- ?, ab 2016 laufend = 768.621,-- ?/Jahr. Davon entfallen auf die ?Betreuungsinsel in der Blumenau? in 2014 = 8.000,-- ?, in 2015 = 10.000,-- ? und ab 2016 = 2.000,-- ?/Jahr (Seite 6) sowie auf die ?Evangelische Freikirche, Na klar!? in 2014 und 2015 je 10.000,-- ? (Seite 9). Der BA Hadern hat diese BV begrüßt (Anlage 3).
+- TOP 12.1.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 17.06.15 zur Sitzungsvorlage Nr. 14-20 / V 03197: Demografieberichte München: - Teil 1: Analyse und Bevölkerungsprognose 2013 bis 2030 - Teil 2: Kleinräumige Bevölkerungsprognose 2013 bis 2030 für die Stadtbezirke (In Hadern wird mit einer Zunahme um 14 % gerechnet (Seite 5).
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
