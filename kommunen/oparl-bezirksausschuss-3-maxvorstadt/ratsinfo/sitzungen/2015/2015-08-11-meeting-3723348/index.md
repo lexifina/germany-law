@@ -1,0 +1,59 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-08-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3723348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3723348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 31.05.2015 Aufwertungs- und Begrünungsmaßnahmen für die Maxvorstadt vertagt aus der Sitzung vom 16.06.2015, TOP A 5.2.5 erneut vertagt aus der Sitzung vom 14.07.2015, TOP A 5.2.4 Unterlagen liegen bereits vor
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt, eingegangen am 17.07.2015 Beeinträchtigungen durch Straßenbauarbeiten und Filmaufnahmen
+- TOP .6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP .1.: Zügige Abmarkierung der zugesagten Radfahrstreifen in der Brienner Straße zwischen Königsplatz und Karolinenplatz
+- TOP .3.: Genauere Prüfung der Genehmigung weiterer Freischankflächen und weitere Beeinträch- tigungen der Anwohner verhindern, Unterrichtung Empfehlung Nr. 08-14 / E 00168 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt vom 16.10.2014 Sitzungsvorlage Nr. 14-20 / V 02564
+- TOP .4.: Baureferat, Antwortschreiben Sanierung der Kreuzung Maillinger-/Blutenburgstraße BA-Antrag Nr. 14-20 / B 1299 des BA 3 vom 16.6.2015
+- TOP .5.: Weiterzeichnung des Zebrastreifens am Fahrradweg Ecke Görres-/ Zentnerstraße
+- TOP .6.: Münchner Stadtrat soll die "modifizierte Alternative 5" endlich beschließen!
+- TOP .7.: Überplanung des Gebietes Seidl-, Pappenheim-, Karl- und Marsstraße
+- TOP .8.: Verschönerung des Platzes vor dem Ausgang des Alten Botanischen Gartens
+- TOP .1.: Unterrichtung der LBK über Bauvorhaben: 27., 28., 29., 30. KW
+- TOP .2.: Unterrichtung der LBK über Abgeschlossenheitsbescheinigungen: 25., 26., 27., 28., 29. KW
+- TOP .3.: Isabellastraße 13, Energetische Dachsanierung, DG-Ausbau (1 WE), Umbau einer Dachwohnung sowie Fassadensanierung mit Erneuerung der Fenster
+- TOP .4.: Schellingstraße 35, Aufstockung ? Vorbescheid (Schellingstraße 35 und 45)
+- TOP .10.: Schleißheimer Straße 16 ? Tektur, Neubau eines Wohn- und Geschäftshauses
+- TOP .3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP .1.: Georgenstraße 19, eine Hänge-Birke
+- TOP .3.: Katharina-von-Bora-Str. 10, sechs Spitzahorne laut Baumbestandsplan
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällgenehmigung, Theresienstraße 134, ein Hollunder
+- TOP .5.: Kommunalreferat, GeodatenService Wegebenennungen in Grünanlagen ermöglichen Beschluss des Kommunalausschusses vom 16.07.2015 Sitzungsvorlage Nr. 14-20 / V 03603
+- TOP .2.1: Verkehr
+- TOP .1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage (Entwurf) Beschlussentwurf Odeonsplatz erweitern ? Fußgängerzone oder Shared Space für die Brienner Straße ? Gestaltungsideen für nördlichen Odeonsplatz/südliche Ludwigstraße gesucht
+- TOP .2.: Baureferat, Tiefbau, Beschlussvorlage, Entscheidung Projektname: Arcis-/Heßstraße, ProjektNr. 100667
+- TOP .3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der zufahrt zum Karolinenplatz BA-Antrag Nr. 08-14 / B 05729 vom 13.03.2014 vertagt aus der Sitzung 07/2015, Unterlagen liegen bereits vor
+- TOP .5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Entscheidung Einrichtung einer Ladezone in der Max-Joseph-Straße
+- TOP .6.: Baureferat Ingenieurbau, Anhörung Arnulfpark ? Neubau einer Lärmschutzwand zwischen Erika-Mann-Straße 11 und 17
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Kreisverwaltungsreferat, Sondernutzung Augustenstraße 119, Aufstellung einer Sitzgelegenheit
+- TOP .2.3: Gaststätten
+- TOP .1.: Kreisverwaltungsreferat, Freischankflächen, Sondernutzungen a) Barer Straße 86 a, Genehmigung einer Freischankfläche b) Barer Straße 56, Genehmigung einer Freischankfläche c) Theresienstraße 51 links, Genehmigung einer Freischankfläche d) Marsstr. 16, Erweiterung einer bestehenden Freischankfläche e) Schellingstr. 27, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Referat für Stadtplanung und Bauordnung Nahverkehrsplan der Landeshauptstadt München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 Sitzungsvorlage Nr. 14-20 / V 03603
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Großbaustellen Karlstraße/Seidlstraße, Fernwärme Bauphase 3
+- TOP .4.: Kreisverwaltungsreferat, Verkehrssteuerung Bau der Lichtzeichensignalanlage an der Kreuzung Heß- / Lothstraßehe
+- TOP .2.: (E) Budget der Bezirksausschüsse Kindergarten Die wilde 13 e.V. Nutzung und Einrichtung der Außenfläche
+- TOP .1.: Direktorium, Budgetangelegenheiten Rauminstallation mit interaktivem Theaterstück vom 06. bis 19.04.2015 beantragter Zuschuss: 1.250,00 ?; Verwendungsnachweis
+- TOP .1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .4.: Unterrichtungen
