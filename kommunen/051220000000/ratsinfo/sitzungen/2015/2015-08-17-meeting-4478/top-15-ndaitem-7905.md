@@ -1,0 +1,7 @@
+# TOP 15: Koordinierung der Antirassismus- und Antidiskriminierungsarbeit
+
+- Sitzung: Zuwanderer- und Integrationsrat (7. Sitzung) (2015-08-17)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/7905
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/24484
