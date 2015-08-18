@@ -1,0 +1,8 @@
+# TOP 4: Erfahrungsbericht der Schwangerschaftsberatungsstellen im Stadtgebiet Münster und Bericht über die Entwicklung des Sonderfonds "Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" für die Jahre 2013 und 2014
+
+- Sitzung: Sitzung (2015-08-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/151479
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/57711
