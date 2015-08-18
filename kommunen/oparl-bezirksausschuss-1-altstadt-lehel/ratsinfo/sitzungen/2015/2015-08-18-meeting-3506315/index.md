@@ -1,0 +1,83 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-08-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506315
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506315
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: 18.jetzt ? Fest junger Erwachsener (Teilnahme des BA)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Personelle Besetzung der BA-Geschäftsstelle Mitte, Antwort des Direktoriums auf eine Bürgeranfrage aus der BA-Sitzung am 21.07.2015
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sendlinger Str. 44: Abbruch eines Geschäftshauses
+- TOP .2.: Karlsplatz 11-12: Neubau einer Rolltreppe und Fassadenänderung einer bestehenden Verkaufsstätte
+- TOP .3.: Vorbescheid Oettingenstr. 40: Aufstockung eines Mehrfamilienhauses (vertagt aus 2015.07 B 3.1.14 N)
+- TOP .4.: Tektur Müllerstr. 42: Umbau einer Schank- und Speisewirtschaft mit regelmäßiger Kleinkunst-, Theater- und Varieténutzung im EG + 1. OG, Nutzungsänderung eines Lagers zu einem Gastraum im UG (vertagt aus 2015.07 B 3.1.15 N)
+- TOP .5.: Tektur Herzogspitalstr. 6: Neustrukturierung eines gastronomischen Betriebs mit Erweiterung
+- TOP .6.: Vorbescheid Frauenstr. 8: DG-Abbruch, -Neuerrichtung und -Ausbau
+- TOP .7.: Klosterhofstraße 4, Änderung / Aufstockung und hofseitige Anbauten ? Vorbescheid (Variante 1 Mansardendach ? Variante 2 Staffelgeschosse)
+- TOP .1.: Fahrräder Isartorplatz; Verkehrssituation zwischen Thierschstraße und Liebherrstraße
+- TOP .2.: Bücherflohmarkt LISAR an der Isar; Errichtung von festen Toiletten
+- TOP .2.1: Gaststätten
+- TOP .1.: Maximilianstr. 17, Hotel ?Vier Jahreszeiten?: Genehmigung einer Freischankfläche
+- TOP .2.: Sonnenstr. 9, Bäckerei-Café Müller-Höflinger: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Abstellflächen für Fahrräder zum Verleih und/oder Stadtführungen 1) Neuturm-/ Ecke Hochbrückenstraße 2) Herrnstraße (am Wendehammer) 3) Herrnstr. 36 / Ecke Stollbergstraße 4) Kanalstr. 17 (Seite Thomas-Wimmer-Ring) 5) Thomas-Wimmer-Ring 1 (am Isartor vor der Zwingmauer) 6) Kanalstr. 14 (Seite Knöbelstraße) 7) Prälat-Miller-Weg (dort 3 Flächen) 8) Petersplatz 9) Weinstraße / Ecke Landschaftsstraße (Marienhof ? nicht auf der Rasenfläche) 10) Blumenstraße 22 11) Unterführung Thomas-Wimmer-Ring in Höhe Knöbelstraße
+- TOP .2.: Prannerstr. 7: Aufstellung von neuen Verkaufseinrichtungen
+- TOP .3.: Marienplatz 8, Seite Weinstraße, Warenstellagen, nochmalige Rückfrage zu BA-Beschluss vom 16.06.2015
+- TOP .4.: Petersplatz 1, Sendlinger Tor Platz, Weinstraße, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichen Grund für den Verkauf von selbst gefertigten künstlerischen und kunsthandwerklichen Gegenständen
+- TOP .5.: Alter Hof 8 (Eingang Sparkassenstraße), Aufstellung von neuer Verkaufseinrichtung, Beschluss des BA 1 vom 21.07.2015, TOP 2015.07 C 2.2.3
+- TOP .1.: Bücherflohmarkt am 26.09.2015 Widenmayerstraße/Isarpromenade
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Genussmarkt Herbst Steiermark vom 03. bis 06.09.2015 am Rindermarkt
+- TOP .2.: Isarinselfest 2015 vom 04. bis 06.09.2015
+- TOP .3.: Infoveranstaltung Kaminkehrerinnung am 15.10.2015, Neuhauser Str. 8 am Richard-Strauss-Brunnen
+- TOP .4.: Straßenfest Westenriederstraße am 12. und 13.09.2015
+- TOP .1.: Prinzregentenstraße Haltestelle Nationalmuseum / Haus der Kunst, barrierefreier Ausbau der Bushaltestelle
+- TOP .1.: Absolutes Haltverbot in der Widenmayerstraße südlich der Gewürzmühlstraße
+- TOP .2.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt) Detailplanung für den Odeonsplatz und für das Platzl
+- TOP .3.: Antrag auf Fällung einer Akazie in der Stollbergstr. 18
+- TOP .4.: Antrag auf Fällung von 12 Bäumen auf dem Grundstück Wallstraße
+- TOP .1.: Marienhof: Veranstaltung in Grünanlagen ? Kultur und Spiel aktiv vom 09.10 bis 11.10.2015
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Genehmigungsvorbehalt bei Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten: Vollzug der Erhaltungssatzungen und der Zweckentfremdungssatzung ? Bekanntgabe der Jahresstatistik 2014 im Sozialausschuss vom 18.06.2015, Sitzungsvorlage Nr. 14-20/V 03023
+- TOP 0.3.: Bauvorhaben Mannhardtstr. 7, Antwort des Referates für Stadtplanung und Bauordnung auf die BA-Stellungnahme vom 10.12.2014, Abdruck der Baugenehmigung
+- TOP 0.4.: Bauvorhaben Theatinerstr. 8, Antwort des Referates für Stadtplanung und Bauordnung auf die BA-Stellungnahme vom 12.03.2015, Abdruck des Vorbescheids
+- TOP 0.5.: Bauvorhaben Falckenbergstr. 9, 2. OG: Genehmigung der Zweckentfremdung von Wohnraum durch Nutzungsänderung
+- TOP 0.6.: Umgestaltung des Max-Joseph-Platzes inkl. Verkehrsführung, Antwort des Referates für Stadtplanung und Bauordnung auf einen Bürgervorschlag aus der BA-Sitzung am 21.07.2015
+- TOP 0.7.: Brunnstraße 4, Bürgerbeschwerde über jahrelangen Leerstand des Anwesens, Antwortschreiben des Sozialreferates vom 05.08.2015
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Lärm- und Geruchsbelästigung durch Entlüftung der Lagerkeller unter dem Viktualienmarkt, TOP 2015.07 A 3.3 b ? Information des Referates für Gesundheit und Umwelt vom 04.08.2015
+- TOP 0.6.: Bürgeranliegen Belästigung der Anwohner durch Gäste vor der Gaststätte ?Sausalitos? und durch aggressive Bettler; Informationsschreiben des Kreisverwaltungsreferates vom 04.08.2015
+- TOP 0.1.: Verkehrsrechtliche Anordnungen - Verkürzung von Haltverbotszonen am Mariannenplatz und Entfernung einer Bodenmarkierung
+- TOP 0.2.: Ausnahmezulassung für nächtliche Dreharbeiten in der Frauenstraße (ggü. Hausnr. 42) in insgesamt 2 Werktagsnächten im Zeitraum vom 22.07. bis 12.08.2015 von 20 Uhr bis 2 Uhr
+- TOP 0.3.: Nahverkehrspauschale, Beschluss der Vollversammlung vom 29.07.2015, Sitzungsvorlage Nr. 14-20/V 02702
+- TOP 0.4.: Trinkwasserbrunnen, Beschluss der Vollversammlung vom 01.07.2015, Sitzungsvorlage Nr. 14-20/V 02428
+- TOP 0.5.: Standort der Ersatzpflanzung für Linde, die in Zusammenhang mit der Sanierung des U-Bahnhofs Sendlinger-Tor-Platz gefällt werden muss (vgl.TOP D 3.1, 2015.07); Rückmeldung der SWM vom 22.07.2015
+- TOP 0.6.: Umsetzungsbeschluss zum Fahrradvermietsystem ?MVG Rad? II, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 23.06.2015, Sitzungsvorlage Nr. 14-20/V 03195
+- TOP 0.7.: Steigende Müllmengen im Englischen Garten, Antwort der Verwaltung des Englischen Gartens auf ein Bürgeranliegen aus der BA-Sitzung am 21.07.2015
+- TOP 0.8.: Reichenbachstraße 5 ? 7a; Baumfällungsantrag vom 08.06.2015 auf dem Grundstück; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 05.08.2015
+- TOP 0.9.: Ausnahmezulassung des Bundes-Immissionsschutzgesetzes für Umbauarbeiten zu einem Fernwärmeschacht im Straßenraum der Oettingenstraße 8 vom 10.08. bis 28.08.2015
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss, Beschluss der Vollversammlung vom 01.07.2015, Sitzungsvorlage Nr. 14-20/V 03518
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge und Bürgeranliegen
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
