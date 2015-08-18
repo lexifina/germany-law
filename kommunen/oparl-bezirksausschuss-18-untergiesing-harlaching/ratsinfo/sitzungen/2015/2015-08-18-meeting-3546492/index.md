@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-08-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3546492
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3546492
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der Juni-Sitzung 1.3.2 Protokoll der Juli-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Verschmutzungen durch Dauercamper / Candidplatz; Bürgerschreiben vom 23.07.2015
+- TOP 2.2.: Einsatz / Verbot von Laubbläsern / Laubsaugern in Harlaching; Bürgerschreiben vom 29.07.2015
+- TOP 2.3.: Immissionsmessungen im Bereich der Grillzone Isar Süd; Bürgerschreiben vom 04.08.2015
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweise 3.1.6.1.1 BRK KVR München-Wasserwacht München Mitte für die Maßnahme: 4 Elektrofahrräder; Mitteilung vom 15.05.2015 3.1.6.1.2 BI "Mehr Platz zum Leben" für die Maßnahme: verschiedene Veranstaltungen 2014
+- TOP 3.2.: Budgetantrag der Heiligen Familie; Beschluss des BA 18 aus der Juli-Sitzung; Sachstandsinformation des Direktoriums vom 03.08.2015 an den Antragsteller
+- TOP 3.3.: Ausstattung der Freiwilligen Feuerwehr München mit Automatischen Externen Defibrilationsgeräten; Information der Budgetstelle des Direktoriums zum Umgang mit Anträgen auf Zuwendung
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Bauernmarkt am Mangfallplatz - Bitte um ersatzlose Entfernung einer Sitzbank für ein einfacheres An- und Abfahren der Händler; Antrag der Markthallen München vom 14.07.2015 (verwiesen aus der Sitzung vom 21.07.2015 - siehe auch TOP 3.5.1.1)
+- TOP 3.2.: Parklizenzbereich für das Gebiet rund um die Schönstraße; Bürgeranliegen (verwiesen aus der Sitzung vom 21.07.2015 - ohne Vorgang)
+- TOP 3.3.: Verbesserung der Verkehrssituation beim Abbiegen aus dem Münchner-Kindl-Weg rechts in die Tegernseer Landstraße (stadtauswärts); Bürgerantrag (verwiesen aus der Sitzung vom 21.07.2015)
+- TOP 3.4.: Verbesserung der Verkehrssituation an der Einmündung Münchner-Kindl-Weg / Tegernseer Landstraße (stadtauswärts); Bürgerantrag (verwiesen aus der Sitzung vom 21.07.2015)
+- TOP 3.5.: Bezirksübergreifende Zusammenarbeit der BA`s 14/16/17/18 als Ergebnis der Informationsveranstaltung am 15.07.15 im "Alten Wirt" in Ramersdorf; Benennung der Vertreter des BA 18
+- TOP 3.1.: Gefährliche Verkehrssituation an der Klobensteiner Straße / Südtiroler Straße / Grünwalder Straße; Bürgerschreiben vom 20.03.2015; Antwortschreiben des KVR vom 30.07.2015 (neutrale Erledigung) - <div></div>
+- TOP 3.1.: Nahmobilitätspauschale; Sitzungsvorlage Nr. 14-20 / V 02702; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 3.2.: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" - II; Konzeptvorstellung und Regelung der Sondernutzungsgebühren für Vermietstationen; Fahrradtypen/Mobilitätshilfen für Menschen mit Mobilitätseinschränkung; Sitzungsvorlage Nr. 14-20 / V 03195; Beschluss der Vollversammlung des Stadtrates vom 01.07.2015
+- TOP 3.3.3: UA Umwelt und Gesundheit
+- TOP 3.1.: Baumfällungen; Bürgeranfrage (verwiesen aus der Sitzung vom 21.07.2015)
+- TOP 3.2.: Einhaltung der neuen Hundeverordnung mit Leinenpflicht südlich des Münchner-Kindl-Weges; Bürgerantrag (verwiesen aus der Sitzung vom 21.07.2015) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.1.: Unterstützung zur Laubbeseitigung; Beschluss des BA 18 vom 19.05.2015; hier: Änderungsantrag zum Beschluss; Schreiben des AWM vom 23.07.2015 mit der Bitte um erneute Beschlussfassung und Stellungnahme
+- TOP 3.1.: Isar - Bürgeranliegen aus der Mai-Sitzung des BA 18; Antwortschreiben des Baureferats-Gartenbau vom 10.07.2015 (neutrale Erledigung)
+- TOP 3.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.1.1 Rabenkopfstraße 9-11; Bescheid vom 28.07.2015
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Boule-Platz für den Miesbacher Platz; Bürgerantrag (verwiesen aus der Sitzung vom 21.07.2015) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Renovierung der vorhandenen Einrichtungen für kleinere Kinder und Schaffung von Spielmöglichkeiten für größere Kinder am Spielplatz Schmorellplatz; BA-Antrag Nr. 14-20 / B 01287 vom 16.06.2015; Antwortschreiben des Baureferats-Gartenbau vom 29.07.15 mit dem Vorschlag zur Durchführung eines Ortstermins zur Abstimmung mögl. Maßnahmen
+- TOP 3.1.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss; Sitzungsvorlage Nr. 14-20 / V 03518; Beschluss der Vollversammlung vom 01.07.2015
+- TOP 3.2.: Informationen des RBS zum "kita barometer"
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Bauernmarkt am Mangfallplatz - Bitte um ersatzlose Entfernung einer Sitzbank für ein einfacheres An- und Abfahren der Händler; Antrag der Markthallen München vom 14.07.2015 (verwiesen aus der Sitzung vom 21.07.2015 - siehe auch TOP 3.2.1.1)
+- TOP 3.1.: Tragluftturnhalle für den 18. Stadtbezirk Untergiesing-Harlaching; Antrag der SPD-Fraktion vom 20.07.2015 (verwiesen aus der Sitzung vom 21.07.2015)
+- TOP 3.1.: 3.5.4.3 Standortsuche zur Errichtung einer Bikepolo-Anlage; Flächensuche für Bikepolo; Stadtratsantrag Nr. 08-14 / A 05148 vom 21.02.2015; Schaffung einer Spielstätte für Bikepolo im 18. Stadtbezirk; Antrag des Vereins Bikepolo München e.V. vom 29.11.2013; BA-Antrag Nr. 08-14 / B 05489 vom 17.12.2013; Fläche für Bikepolo; BA-Antrag Nr. 08-14 / B 05736 vom 11.03.2014; Beschlussentwurf für die Sitzung des Sportausschusses des Stadtrates vom 16.09.2015 (SB) mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Am Perlacher Forst 186, Neubau von zwei Doppelhäusern mit Garagen - VORBESCHEID; Anhörung vom 15.07.2015 (vertagt aus der Sitzung vom 21.07.15)
+- TOP 3.2.: Tierparkstraße 30, Polarwelt - 2. Bauabschnitt - Umbau der Polaranlage für Mähnenrobben, Vielfraße, Polarfüchse und Schneeeulen sowie Errichtung einer unterirdischen Technikzentrale und eines Besucherunterstands mit Schleusenfunktion; Anhörung vom 17.07.2015
+- TOP 3.3.: Karneidplatz 15, Anbau eines unterirdischen Schwimmbads an ein Zweifamilienhaus mit Büro und Tiefgarage; Anhörung vom 24.07.2015
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Arnpeckstraße 6, Neubau eines Mehrfamilienhauses mit TG ? Baumbestands- und Freiflächengestaltungsplan; Anhörung vom 03.08.2015
+- TOP 3.1.: Bauaufträge an die Leitner Wohnbau GmbH - Stellungnahme der LHM und Überprüfung; BA-Antrag Nr. 14-20 / B 01250 vom 19.05.2015 sowie zwei Bürgerbeschwerden aus der Sitzung zu den Themen Bebauungsplansituation und Müllmissstände; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 21.07.2015 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Wegebenennung in Grünanlagen ermöglichen; Stadtratsantrag Nr. 08-14 / A 04929 vom 17.12.2013; Benennung von Grünanlagen und Wegebenennung in Grünanlagen; BA-Antrag Nr. 08-14 / B 05503 des BA 7 vom 14.01.2014; Benennung von Straßen und Wegen in Grünzügen; BA-Antrag Nr. 08-14 / B 04763 des BA 11 vom 10.04.13; Erneute Befassung des Stadtrates mit dem Thema "Benennung von Straßen und Wegen in Grünzügen"; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 (Sitzungsvorlage Nr. 08-14 / V 14059); Sitzungsvorlage Nr. 14-20 / V 02923; Kurzübersicht zum Beschluss des Kommunalausschusses vom 16.07.2015 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gem. Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 18.10.2015 (Ersatztermin: 25.10.2015) auf dem Hans-Mielich-Platz; Beschluss des BA 18 vom 18.08.2015
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Flohmarkt Kirschbaumkindergarten auf dem Hans-Mielich-Platz am 18.10.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 07.09.2015
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Straßenfest am 12.09.2015 in der Aggensteinstraße zwischen Widdersteinstraße und Söllereckstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 21.08.2015
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Änderung der Bezirksausschuss-Geschäftsordnung (BA-GeschO), Abstimmung über einzelne Teile eines Antrages; BA-Antrag Nr. 14-20 / B 01057 des BA 7 vom 14.04.2015; Schreiben des Direktoriums vom 22.06.2015 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 21.07.2015)
+- TOP 4.2.: 4.3.3 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat: "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.15; Zuleitung des Direktoriums mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: M-WLAN für Harlaching und Untergiesing; Standort Mangfallplatz und Kolumbusplatz; BA-Antrag Nr. 08-14 / B 04916 vom 18.06.13; Sachstandsinfo vom 21.07.2015 (positive Erledigung)
+- TOP 4.2.: Einrichtung eines Sparkassen SB-Geldautomat im Sperrengeschoss U-Bahnhaltestelle Wettersteinplatz; BA-Antrag Nr. 14-20 / B 01253 vom 19.05.15; Antwortschreiben der SWM GmbH vom 26.06.15 (positive Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
