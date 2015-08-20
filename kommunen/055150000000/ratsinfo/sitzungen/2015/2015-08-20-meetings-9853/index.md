@@ -1,0 +1,57 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-08-20T17:12:00+02:00
+- Ende: 2015-08-20T20:31:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9853
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9853
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00374769.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Planungsstand hinsichtlich der Hydraulik der Hunnebecke - zur Kenntnis genommen
+- TOP 4.2: Tempo 30 vor Schulen, Kitas und Altenheimen - eingebracht
+- TOP 5: Berichte
+- TOP 5.1: Grünflächenpflege in den Bezirken
+- TOP 5.2: Zahlen und Informationen zum Stand der Unterbringung von Flüchtlingen
+- TOP 6: Entscheidungen
+- TOP 6.1: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.2: Infrastruktur am DB Haltepunkt verbessern, Antrag A-W/0005/2013 der SPD-Fraktion vom 09.06.2013 - einstimmig beschlossen
+- TOP 6.3: Wiederwahl der Schiedsperson für den Bezirk 5 Münster - Roxel - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020
+- TOP 7.1.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - einstimmig beschlossen
+- TOP 7.2: Programm "Verbesserungen an Haltestellen" für 2016/2017 - einstimmig beschlossen
+- TOP 7.3: Vorhabenbezogene 6. Änderung des Bebauungsplans Nr. 396 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.4: Beantragung und Bewilligung von Zuschussmaßnahmen - mehrheitlich beschlossen
+- TOP 7.5: Kindertagesbetreuungsbericht 2015/2016 - einstimmig beschlossen
+- TOP 7.6: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Systembauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten - mehrheitlich beschlossen
+- TOP 8: neue Anregungen/Anträge
+- TOP 8.1: Parkscheibenregelung an der Annette-von-Droste-Hülshoff-Straße - eingebracht
+- TOP 8.2: Verkehrsberuhigung Potstiege - eingebracht
+- TOP 8.3: Ausbau des Dachbodens der Ludgerus-Grundschule - eingebracht
+- TOP 8.4: Verkehrssituation auf der Altenroxeler Straße - eingebracht
+- TOP 8.5: Schleichweg "Auf dem Dorn" schließen - eingebracht
+- TOP 8.6: Radweg Roxeler Straße besser markieren - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Bedarfsgerechte Aufstockung der Ü3-Kindergartenplätze in Roxel - zur Kenntnis genommen
+- TOP 9.2: Barrierefreier Überweg auf der Pantaleonstraße am Hofmannspättken - zur Kenntnis genommen
+- TOP 9.3: Bau einer Aufpflasterung auf der Straße Borkenfeld - zur Kenntnis genommen
+- TOP 9.4: Aufstellung eines mobilen Dialog-Displays - vertagt
+- TOP 9.5: Tempo 50 auf der Roxeler Straße - zur Kenntnis genommen
+- TOP 9.6: Unfallhäufigkeit an der Kreuzung Roxeler Straße / Ramertsweg - zur Kenntnis genommen
+- TOP 9.7: Radweg südlich der L551 Weseler Straße von Kreuzung Oberort bis BAB 1 - zur Kenntnis genommen
+- TOP 9.8: Einheitliche Regelung 30 km/h auf der Mecklenbecker Straße - zur Kenntnis genommen
+- TOP 9.9: Querungshilfe Gievenbecker Weg / Sportpark deutlich kennzeichnen - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.10: Bahnhof Roxel: Aufstellung von Wegweisern zur verbesserten Auffindbarkeit - zur Kenntnis genommen
+- TOP 10: Verschiedenes
