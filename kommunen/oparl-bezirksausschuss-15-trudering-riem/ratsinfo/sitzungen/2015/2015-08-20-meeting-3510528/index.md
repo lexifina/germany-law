@@ -1,0 +1,54 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-08-20T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510528
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510528
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Nachbarschaftswerk wagnis e.V. Kabarett Vorstellung am 09.10.2015 - <div>nach Antrag</div>
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 2.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - <div>Zustimmung zum Obstverkaufsstand</div>
+- TOP 3: Bürgeranliegen
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Allen BA- Mitgliedern die Ausübung ihres ehrenamtlichen Mandats zeitgemäß ermöglichen Antrag Nr. 14-20 / B 01146 des BA 15 vom 23.04.2015 Zwischennachricht des Direktoriums vom 06.08.2015 - <div>Zustimmung zur Terminverlängerung durch das Direktorium</div>
+- TOP 5.2.: Modellprojekt Flüchtlingsunterkunft Willy-Brandt-Allee - <div>Kenntnisnahme des Schreibens des Sozialreferates</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Einrichtung einer Überquerungshilfe (Ampel oder Querungsinsel) für Fußgänger über die Friedenspromenade im Bereich der Bushaltestelle Ottilienstraße Empfehlung Nr. 14-20 / E 00174 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 09.10.2014 Sitzungsvorlage Nr 14-20 / V 03370 Beschluss des Bezirksausschusses des Stadtbezirkes Trudering-Riem vom 25.06.2015 - <div>zur Kenntnis genommen</div>
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Anhörung §29 StVO, Platz der Menschenrechte, Soccer Turnier am 18.09.2015 - Termin 07.09.2015 - <div>nach Antrag</div>
+- TOP 7.1.: Bistritzer Weg 4 Lehrer Götz Weg 20 Solalindenstraße 101 Spertentalstraße 2 Von-Erckert-Str. 80 Zehntfeldstraße 180
+- TOP 7.1.: 18 jetzt - Fest junger Erwachsener im Rathaus am 17. Oktober 2015 Teilnahme des BA 15 - <div>Zustimmung zur grundsätzlichen Teilnahme, die Verfügbarkeit der BA-Mitglieder wird geprüft</div>
+- TOP 7.2.: TSV Waldtrudering e.V. Vertragsverlängerung Sitzungsvorlage Nr. 14-20 / V 03711 Beschlussentwurf für die Sitzung des Sportausschusses des Stadtrates vom 16.09.2015 (SB) mit der Bitte um Stellungnahme - <div>zur Kenntnis genommen</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Truderinger Straße 265; Baumfällungen auf Straßenbegleitgrün - <div>zur Kenntnis genommen</div>
+- TOP 8.1.2.: Bajuwarenstraße 99 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.3.: Achenseeplatz 1 Adlerstraße 10b Möwestraße 44 Togostraße 3 Toni-Schmidt-Straße 25a Von-Gravenreuth-Straße 20 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: Achenseeplatz 21 Bajuwarenstraße 99 Frau von Uta Straße 19 Gartenstadtstraße 54 Geitnerweg 20 Graf Ottenburg Straße 8 Großfriedrichsburgerstraße 23 Hippelstraße 7a Ingeborgstraße 20 Lehrer-Götz-Weg 20 Nauestraße 4 Postweg 34 Riemer Straße 361 Schatzbogen 6 Schneebergstraße 24-26 Solalindenstraße 101 Sonnenspitzstraße 27 Schwanenweg 12 Schwanenweg 18 Toni Schmidt Straße 25a Vogesenstraße 46 Wachtelweg 38 Wasserburger Landstraße 152 Widmannstraße 25 Windhuker Straße 26 - <div>zur Kenntnis genommen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Verkehrsrechtliche Anordnung: Arbeiten im Straßenraum Erdinger Straße, Elizabeth-Baerleins-Str., Am Oberfeld; Straßenbauarbeiten (Wendehammer) vom 15.08.2015 - 14.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Dachsteinstraße 22 Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Gemeinschaftsunterkunft Willy-Brandt-Allee - Ortstermin am 04.08.2015 Ergebnisprotokoll - <div>zur Kenntnis genommen</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
