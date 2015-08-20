@@ -1,0 +1,82 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-08-20T17:00:00+02:00
+- Ende: 2015-08-20T20:07:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00245421.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00245421.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00245421.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Verpflichtung von zwei Mitgliedern der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Kinder- und Jugendförderplan 2015-2020 - zur Kenntnis genommen
+- TOP 6: Sturmschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 7: Erdverlegung eines 110 kV Kabels im Düsseldorfer Süden - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Umbau des Kinderspielplatzes Bingener Weg - einstimmig beschlossen
+- TOP 10: Straßenumbau Sebastiansweg - vertagt
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2015 - einstimmig beschlossen
+- TOP 13: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 14: Umgestaltung Breidenplatz - vertagt
+- TOP 15: Grünschnitt an der Düssel am Neusalzer Weg / Reichenbacher Weg - vertagt
+- TOP 16: Reinigung der Parkplätze an der GGS Gumbertstraße - vertagt
+- TOP 17: Durchgang Vennhauser Allee 232 zum Veenpark - vertagt
+- TOP 18: Bebauung In der Elb - vertagt
+- TOP 19: Radargeräte Vennhauser Allee / Hürthstraße - vertagt
+- TOP 20: Fuß- / Radweg Gubener Straße - vertagt
+- TOP 21: Nebengebäude Schloss Eller - vertagt
+- TOP 22: Regenrückhaltebecken Karlsruher Straße - vertagt
+- TOP 23: Wehrhahnlinien-Netzkonzept und Taktverdichtung der Linien 715 und U75 - vertagt
+- TOP 24: Skateranlage Heidelberger Straße - beantwortet
+- TOP 25: Car Sharing im Stadtbezirk 8 - vertagt
+- TOP 26: Geschwindigkeitsregelung Kamper Weg - vertagt
+- TOP 27: Abfallbeseitigung Wasserspielplatz Schlosspark Eller - vertagt
+- TOP 28: Ampelschaltung Vennhauser Allee / Hürthstraße - vertagt
+- TOP 29: Fußweg Grünanlage Zwickauer Straße / Chemnitzer Straße - vertagt
+- TOP 30: Ampelschaltung Karl-Geusen-Straße / Ausfahrt Lierenfeld - Betriebshof - vertagt
+- TOP 31: Toilettenanlage Gertrudisplatz - vertagt
+- TOP 32: Behindertenparkplatz Am Pfaffenbusch - vertagt
+- TOP 33: Radverkehr Neusalzer Weg - vertagt
+- TOP 34: Abbiegesituation von der Ohlauer Straße in den Neusalzer Weg - vertagt
+- TOP 35: Leitungen Wasserspielplatz Tannenhofweg - vertagt
+- TOP 36: Verkehrsregelung Karlsruher Straße / Marburger Straße - vertagt
+- TOP 37: Fahrradabstellmöglichkeiten am S-Bahnhof Eller-Süd - vertagt
+- TOP 38: Pfandflaschenringe im Stadtbezirk 8 - vertagt
+- TOP 39: Verkehrszählungen in Vennhausen - vertagt
+- TOP 40: Unterbacher See - Spielplatz Strandbad Nord - vertagt
+- TOP 41: Gaslaternen im Stadtbezirk 8 - vertagt
+- TOP 42: Kleingartenanlage Vennhauser Allee - vertagt
+- TOP 43: Grünschnitt Parkplatz Schalbruch / Breidenbruch - vertagt
+- TOP 44: Schrägparken Schlesische Straße - vertagt
+- TOP 45: Verkehrserschließung Glasmacherviertel - vertagt
+- TOP 46: Kleine Kommission RRX - vertagt
+- TOP 47: Verkehrssicherheit Am Turnisch / Reisholzer Straße - einstimmig beschlossen
+- TOP 48: Festsetzung von Überschwemmungsgebieten - Information - zur Kenntnis genommen
+- TOP 49: Lebende Weihnachtsbäume im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Grünanlage Schlesische Straße / Posener Straße - zur Kenntnis genommen
+- TOP 51: Beleuchtung an der GGS Arnstadter Weg, Volker-Rosin-Schule - zur Kenntnis genommen
+- TOP 52: Güterzugstrecke Rath - Eller - zur Kenntnis genommen
+- TOP 53: Straßenumbau Sebastiansweg zwischen An der Schützenwiese und Egilweg - zur Kenntnis genommen
+- TOP 54: Kinderspielplatz "Grüner Weg" - zur Kenntnis genommen
+- TOP 55: 1000-Bänke-Programm / Sachstand - zur Kenntnis genommen
+- TOP 56: Baumfällung Alt-Eller 31 - zur Kenntnis genommen
+- TOP 57: Schlossgrabenweiher Schloss Eller - zur Kenntnis genommen
+- TOP 58: Bushaltestelle In den Maisbanden - zur Kenntnis genommen
+- TOP 59: Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 60: Zufahrt Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 61: Verkehrsregelung im Bereich Dillenburger Weg - zur Kenntnis genommen
+- TOP 62: Lärmschutz A 46 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 63: Lichtmasterplan Teil 2 für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 65: Bauvorhaben Unterbacher Straße / Am Stufstock / Kempgensweg - zur Kenntnis genommen
