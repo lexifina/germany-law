@@ -1,0 +1,56 @@
+# Hauptausschuss (32. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-08-24T18:00:00+02:00
+- Ende: 2015-08-24T21:25:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSd4oOVUKu0W9mlebP-XVzs
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6261
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYnoEPGyAQ8jadD_Q5mut0d1ED7RfMmiRPS_W6ngBJct/Bekanntmachung_Hauptausschuss_24.08.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYHpxZbijKlPnq9iQz5ap0U2Q2GfzoxUpLJ8zzcyTnza/Oeffentliche_Niederschrift_Hauptausschuss_24.08.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Nichtöffentliche Sitzung
+- TOP 1.: Zur Tagesordnung
+- TOP 2.: Kaufantrag für ein städtisches Gebäude hier: Konzeptvorstellung
+- TOP 3.: Verlegung von Stolpersteinen hier: Anregungen und Beschwerden gem. § 24 Gemeindeordnung
+- TOP 3.1: Verlegung von Stolpersteinen hier: Anregungen und Beschwerden gem. § 24 Gemeindeordnung - (kein Text vorhanden)
+- TOP 4.: Konsolidierungsvorschläge im Bereich Örtliche Rechnungsprüfung - Stellungnahme FB 14
+- TOP 5.: Niederschlagungen
+- TOP 5.1: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.2: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.3: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.4: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.5: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.6: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.7: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.8: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 5.9: Unbefristete Niederschlagung einer Forderung - (kein Text vorhanden)
+- TOP 5.10: Niederschlagung einer Insolvenzforderung - (kein Text vorhanden)
+- TOP 6.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 7.: Gründung einer Anstalt öffentlichen Rechts (AöR) hier: Konkretisierung der weiteren Vorgehensweise
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen
+- TOP B): Öffentliche Sitzung
+- TOP 10.: Niederschrift vom 15.06.2015
+- TOP 11.: 1. Zwischenbericht zur Haushaltslage 2015 zum 30.06.15 mit Prognose zum 31.12.15
+- TOP 12.: Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Bezug: HA 19.01., 23.03.2015
+- TOP 12.1: 
+- TOP 12.2: Konsolidierung des städtischen Haushalts 1. Vorstellung neuer TEP-Datenblätter- 2. Abstimmungsliste zu den neuen Datenblättern 3. Antworten zur Frageliste CDU-Fraktion v. 15.06.15 4. Sachstand Bürgerbeteiligung Bezug: bisherige HA-Sitzungen und Rat 22.06.15
+- TOP 12.3: Anträge/Anregungen zur Konsolidierung hier: Schreiben von CDU/Grüne vom 13.06.2015
+- TOP 13.: Anmietung eines Objektes zur Unterbringung von Flüchtlingen; überplanmäßige Mittelbereitstellung hier: Dringlichkeitsentscheidung Bürgermeister Freytag und Ratsherr Klug (CDU) vom 11.8.2015 Bezug: VgLA 10.8.2015 - (kein Text vorhanden)
+- TOP 14.: Betreuungskonzept Flüchtlinge hier: Gemeinsame Anfrage der Fraktionen CDU und Grüne vom 17.08.2015
+- TOP 15.: Erneuerung Parkleitsystem - Belvedere - (kein Text vorhanden)
+- TOP 16.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2014 - - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen
+- TOP 18.1: Kosten Inklusion Bezug: Mailanfrage CDU-Fraktion vom 4.8.2015
+- TOP 18.2: Kreisverkehrsanlage Kaiserstraße - Kurfürstenstraße
+- TOP 18.3: Brunnenanlage Steinweg
+- TOP 18.4: Viktoria Gruhlwerk
+- TOP 18.5: Pflasterschäden Thüringer Platz
+- TOP 18.6: Fassade Kaufhof
