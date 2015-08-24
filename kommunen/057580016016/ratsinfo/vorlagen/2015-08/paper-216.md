@@ -1,0 +1,10 @@
+# Mitteilung (betrifft Privatpersonen)
+
+- Körperschaft: Gemeinde Hiddenhausen
+- Drucksache/Vorlage: MV-39/2015
+- Art: Mitteilung
+- Datum: 2015-08-24
+- Ratsinformationssystem: https://hiddenhausen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZYop6bDGubp8B4tNp0_XFhM
+- OParl: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/216
+- Quelle: https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Inhalt: nicht übernommen - die Vorlage betrifft Privatpersonen (nur die Angaben oben)
