@@ -1,0 +1,52 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-08-24T17:00:00+02:00
+- Ende: 2015-08-24T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSq0CTPIlx5OKUgxGrNuj7s
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4486
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfqXgRepGnF3c4DOQwbVRWl8Dv19RNSB5sRDfUveNaTq/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_24.08.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: European Energy Award
+- TOP 4: Ausgleichs- und Ersatzleistungen auf der Grundlage des Landschaftsgesetzes NW in Solingen
+- TOP 5: Zusammenarbeit der Städte Solingen und Thiès im Projekt „50 Kommunale Klimapartnerschaften bis 2015“
+- TOP 6: Abwasserinformationssystem der Stadt Solingen
+- TOP 7: Instandhaltung Dickenbusch
+- TOP 8: Solingen Burg: Integriertes Stadtteilentwicklungskonzept
+- TOP 9: Solingen Burg: Integriertes Stadtteilentwicklungskonzept
+- TOP 10: Integriertes Stadtteilentwicklungskonzept Ohligs - Entwurfsplanung für die Spielflächen im östl. Teilbereich
+- TOP 11: Bauleitplanung Friedrichstraße/ Am Neumarkt
+- TOP 12: Bauleitplanung Mummstraße
+- TOP 13: Bauleitplanung Emdenstraße/ Forststraße
+- TOP 14: Bauleitplanung Steinstraße/ Sauerbreystraße
+- TOP 15: Bauleitplanung Hochstraße/Sauerbreystraße
+- TOP 16: Standardisierung Hoch-/Tiefbau
+- TOP 17: Anbindung Gewerbegebiet Scheuren an die Viehbachtalstraße
+- TOP 18: Verkehrssituation Friedrichstraße
+- TOP 19: Verkehrssituation Neumarkt/Hofgarten
+- TOP 20: Ausweitung des Projekts Fifty-Fifty ENERGIEsparen
+- TOP 21: LED-Programm Beleuchtung
+- TOP 22: Gewerbebrachen
+- TOP 23: Verschiedenes
+- TOP 24: Sicher Rad fahren in Solingen
+- TOP 25: Stellplatzabgabe
+- TOP 26: Aktueller Sachstand Clemens-Galerien
+- TOP 27: VRR: Neuer S-Bahn-Takt ab 2019
+- TOP 28: Neubau eines Lebensmittelmarktes an der Scheidter Straße
+- TOP 29: Bauleitplanung Hermann-Löns-Stadion
+- TOP 30: Stellplätze für Wohnmobile auf dem Parkplatz Weyersberg
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die . Sitzung des ASUKM am
+- TOP 3: Verschiedenes
+- TOP 4: Firma ALDI, Neuenhofer Str. 99
+- TOP 5: Antrag auf Bauvorbescheid für das OLBO-Gelände
