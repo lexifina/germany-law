@@ -1,0 +1,71 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-08-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399609
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399609
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 10: sonstiges
+- TOP 1: Anträge (1)
+- TOP 1.1.: ?Say hello? - Strukturierte Internet-Verabredungen mit Immigranten
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Discgolf-Turnier am 11.10.2015 am Fröttmaninger Berg
+- TOP 3.2.: 18. jetzt ? Fest junger Erwachsener (Teilnahme des BA)
+- TOP 3.3.: Martinsumzug in der Grünanlage Alte Heide 3 am 11.11.2015
+- TOP 3.4.: München Marathon am 13.10.2015 und Trachtenlauf am 10.10.2015
+- TOP 3.5.: Marktveranstaltung ?Die Kunst des italienischen Geschmacks? vom 16. bis 21.10.2015 an der Münchner Freiheit
+- TOP 3.6.: Streetlife Festival / Corso Leopold am 12. und 13.09.2015 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 4: Bürgeranliegen (1)
+- TOP 5: Unterrichtungen (1)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tunnel Englischer Garten
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Wilhelmstraße 41, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.: Feilitzschstraße 15, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.: Hohenzollernstraße 36 (40), Aufstellung eines Kleiderständers auf öffentlichem Grund
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Max-Bill-Straße, Fl.Nr.: 880/143, Neubau einer Wohnanlage (4 Häuser/55WE) mit Tiefgarage Fällung von sieben Bäumen
+- TOP 3.1.2.: Lilienthalallee 45, Fl.Nr.: 170/196, Umbau der ehemaligen Dampflockrichthalle in ein Baumarkt-Fachzentrum (Fällungen gemäß Plan)
+- TOP 3.1.3.: Max-Bill-Straße, Fl.Nr.: 880/132, Neubau einer Wohnanlage mit Gewerbeeinheiten und Tiefgarage Fällung von fünf Bäumen gemäß Plan
+- TOP 3.1.4.: Osterwaldstr. 131-145: Fällung einer Vogelkirsche
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Anni-Albers-Straße, Fl.Nr.: 865/11, Neubau eines Interimsparkplatzes für PKW, befristet bis 30.06.2015
+- TOP 3.2.2.: Max-Bill-Straße, Fl.Nr.: 880/132, Neubau einer Wohnanlage mit Gewerbeeinheiten und Tiefgarage
+- TOP 3.2.3.: Instandsetzung Wagnerstr. 3 durch die Gewofag
+- TOP 3.2.4.: Destouchesstraße 18, Fl.Nr.: 379/13, Umbau zweier DG-Wohnungen mit Erweiterung in der Dachspitze
+- TOP 4: Bürgeranliegen (2)
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Ausdehnung der Parkbeschränkung am Parkplatz Nordfriedhof / Ungererstraße
+- TOP 3.1.2.: Errichtung eines personenbezogenen Behindertenparkplatzes, Simmernstraße 12
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Umgestaltung der Kreuzung Freisinger Landstraße / Josef-Wirth-Weg und Herstellung eines baulichen Rad- und Gehweges in der Freisinger Landstraße (Ostseite)
+- TOP 3.2.2.: Fahrradstellplatzkonzept (3. Realisierungsabschnitt) - Detailplanungen
+- TOP 4: Bürgeranliegen (3)
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
