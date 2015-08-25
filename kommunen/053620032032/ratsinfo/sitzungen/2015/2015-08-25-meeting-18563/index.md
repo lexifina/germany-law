@@ -1,0 +1,52 @@
+# Ausschuss für Stadtplanung und Verkehr (8. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-08-25T17:00:00+02:00
+- Ende: 2015-08-25T21:25:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZezfktyZm-6ScavQ37OClhI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18563
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYRb6HeZ0uxME8zOCjWg4yqJZP1wTmm29CWAzhfx-lFP/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_25.08.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Vorstellung der geplanten Struktur zu einem gesamtstädtischen Masterplan der Kolpingstadt Kerpen - Vortrag der DSK
+- TOP 2.: Vorstellung möglicher Förderanträge im Stadtgebiet Kerpen - Vortrag der DSK
+- TOP 3.: Einzelhandelskonzept der Kolpingstadt Kerpen hier: Präsentation des Zwischenergebnisses
+- TOP 4.: Einwohner/innen - Fragestunde
+- TOP 5.: Bericht über die Ausführung der Ausschussbeschlüsse, Aufträge und Empfehlungen
+- TOP 6.: Fassung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 Satz 2 bzw. Abs. 2 Satz 1 GO NW Abgabe einer Stellungnahme zum Autohof Elsdorf
+- TOP 7.: Umsiedlung Manheim
+- TOP 7.1: Bericht der Verwaltung
+- TOP 8.: Stadtentwicklung
+- TOP 8.1: Umlegungsverfahren "Burgackerstraße"; hier: Auflösung des Umlegungsausschusses
+- TOP 8.2: Auftragsvergabe eines Gutachtens zur Ertüchtigung der vorhandenen aktiven Lärmschutzeinrichtungen im Bereich der A 4 neu bei Kerpen-Buir
+- TOP 8.3: Gestaltung des Jamaikaplatzes im Stadtteil Sindorf
+- TOP 9.: Bauleitplanung
+- TOP 9.1: Bebauungsplan Ho 322 " Am Winterberg", Stadtteil Horrem A Aufstellungsbeschluss gem. §2 (1) BauGB B Teilaufhebung des Bebauungsplanes Nr. 26 "Hemmersbacher Erbbusch"
+- TOP 9.2: Bebauungsplan KE 352 "Westliche Stiftsstraße", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 9.3: Umgestaltung Marktplatz Türnich
+- TOP 9.4: BP BR Nr. 356 "Eifelstraße/Heerstraße" im Stadtteil Brüggen; hier: Abschluss einer Planungsvereinbarung
+- TOP 10.: Verkehrsplanung
+- TOP 10.1: Niederschrift der 3. Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit vom 11.08.2015
+- TOP 10.2: Niederschrift der 2. Sitzung des Arbeitskreises ÖPNV vom 12.08.2015
+- TOP 10.3: Neuer Kreisverkehr auf der Heppendorfer Straße in Kerpen-Sindorf; hier. Antrag der SPD-Fraktion
+- TOP 10.4: Implementierung einer Fahrradabstellplatzsatzung
+- TOP 10.5: Förderung des Radverkehrs hier: Eingabe der Stadt Kerpen an den Bundesverkehrsminister zur Änderung der Straßenverkehrsordnung (StVO)
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Querungshilfen für Fußgänger und Fahrradfahrer insbesondere an klassifizierten Straßen
+- TOP 12.2: Wohnbaulandentwicklung in Buir
+- TOP 12.3: Ortsentwicklung in Sindorf
+- TOP 12.4: Gehweg Wallraffstraße, Götzenkirchen
+- TOP 12.5: Nutzung des Gebäudes des ehemaligen EDEKA-Marktes in Sindorf
+- TOP II.: Nichtöffentlicher Teil
+- TOP 13.: Stadtentwicklung
+- TOP 13.1: Auftragsvergabe eines Gutachtens zur Ertüchtigung der vorhandenen aktiven Lärmschutzeinrichtungen im Bereich der A4 neu bei Kerpen - Buir.
+- TOP 13.2: Gestaltung des Jamaikaplatzes im Stadtteil Sindorf
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
