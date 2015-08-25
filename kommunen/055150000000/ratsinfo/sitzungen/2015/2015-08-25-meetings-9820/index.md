@@ -1,0 +1,56 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-08-25T17:05:00+02:00
+- Ende: 2015-08-25T19:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9820
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9820
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00375228.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Berichte
+- TOP 4.1: Schulverpflegung
+- TOP 4.2: Besetzung von Schulleiterstellen im Versetzungsverfahren - zur Kenntnis genommen
+- TOP 4.3: Vorhabenbezogener Bebauungsplan Nr. 565: Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 4.4: Errichtung einer temporären Buswende im Bereich Maikottenweg - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Erarbeitung eines Sanierungs- und Entwicklungskonzeptes für den Südpark - vertagt
+- TOP 6: Anhörungen
+- TOP 6.1: Optimierung bürgerorientierter Dienstleistungen: - ohne Beschlussfassung geschoben
+- TOP 6.2: Verordnung zur Aufhebung der Ordnungsbehördlichen Verordnungen vom 26.09.2013 und 07.05.2015 über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel und Hammer Straße am 25.10.2015 - einstimmig beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, an zwei Sonntagen im Kalenderjahr 2016 - mehrheitlich beschlossen
+- TOP 6.4: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - einstimmig beschlossen
+- TOP 6.4.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020
+- TOP 6.5: Programm "Verbesserungen an Haltestellen" für 2016/2017 - einstimmig beschlossen
+- TOP 6.6: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 267 Teilabschnitt I: Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.7: Anregung der Bezirksvertretung Münster-Mitte an den Rat Nr. ABV/0001/2015 " Verkehrsberuhigungskonzept im Bereich zwischen der Warendorfer Straße - Hohenzollernring - Wolbecker Straße und Friedrichstraße - einstimmig beschlossen
+- TOP 6.8: Beantragung und Bewilligung von Zuschussmaßnahmen - einstimmig beschlossen
+- TOP 6.9: Grevener Straße – York-Ring bis Kanalstraße: Einmündung Dorpatweg / Jahnstraße - einstimmig beschlossen
+- TOP 6.10: Lauenburgstraße und Kösliner Straße - einstimmig beschlossen
+- TOP 6.11: Erneuerung der Regenwasserkanalisation in der Schillerstraße, zwischen dem DEK-Brückenbauwerk - einstimmig beschlossen
+- TOP 6.12: Düesbergweg - Einmündungsbereich Hammer Straße - einstimmig beschlossen
+- TOP 6.13: 1. Änderung des Schulnamens der Karl-Wagenfeld-Realschule in Erna-de-Vries-Realschule, Städtische Realschule - einstimmig beschlossen
+- TOP 6.14: Genehmigung einer Dringlichkeitsentscheidung: Dreifaltigkeitsschule VOF-Verfahren - einstimmig beschlossen
+- TOP 6.15: Ersatzbau und Erweiterung der Kindergruppe Kleine Wiese in Mitte - einstimmig beschlossen
+- TOP 6.16: Kindertagesbetreuungsbericht 2015/2016 - einstimmig beschlossen
+- TOP 6.17: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Systembauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten - einstimmig beschlossen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Verlegung des Eingangs Kita Inselbogen prüfen - zur Kenntnis genommen
+- TOP 8.2: Handgriffstangen rund um das Hafenbecken installieren - zur Kenntnis genommen
+- TOP 8.3: Begrenzungspfosten im Einmündungsbereich Kampstraße/Hoyastraße anbringen - zur Kenntnis genommen
+- TOP 8.4: Gleisstrecke Münster - Wanne-Eickel sichern - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.5: Anwohnerparken Hansaring / Wolbecker Straße / Kanal - zur Kenntnis genommen
+- TOP 8.6: Situation an der Kreuzung Cheruskerring/Langemarckstraße - zur Kenntnis genommen
+- TOP 8.7: Anbringung von Piktogrammen vor den Arkaden am Durchgang zur Bushaltestelle "Picasso-Museum" - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
