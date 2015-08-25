@@ -1,0 +1,100 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-08-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3490948
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3490948
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .1.: (E) Budget der Bezirksausschüsse Koreanisch Deutsches Sportinstitut e.V. Ausflug auf den Bauernhof vom 25. bis 26.07.2015
+- TOP .1.: Stadtjugendamt ? Förderung Freier Träger; Projekt: Nachbarschaft Westermühlbach
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Mozartstraße 13 / RGB a) Errichtung eines Aufzugs b) Errichtung von Balkonen c) DG-Ausbau
+- TOP .2.: Pettenkoferstraße 31 Nutzungsänderung; Werkstatt zu Zahnarztpraxis (Erweiterung der Zahnarztpraxis im EG), Einbau eines Aufzuges, Errichtung einer Parkliftanlage mit vier Stellplätzen im Hof
+- TOP .3.: Schillerstraße 41, Nutzungsänderung im EG: Wohnen zu Gewerbe / Büro-Verwaltung eines Online-Optikers (Entfall von neun nicht errichteten Appartments)
+- TOP .4.: Zenettistraße 13 ? 19, Nutzungsänderung eines denkmalgeschützten Gebäudes (Zenettistraße 15 ? 19), Abbruch Garagenanbau Nordseite + Zenettistraße 13
+- TOP .5.: Baaderstraße 58, Aufstockung und Erweiterung eines Wohn- und Garagengebäudes
+- TOP .6.: Kaiser-Ludwig-Platz 10, Neubau eines Wohnhauses mit Tiefgarage (incl. Vollzug der Baumschutzverordnung)
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Lindwurmstraße 2, Baumfällungsantrag vom 22.07.2015 von vier Bäumen
+- TOP .2.: Mathildenstraße 8, Baumfällungsantrag vom 23.07.2014 von einer Robinie
+- TOP .3.: Pettenkoferstraße 37, Baumfällungsantrag vom 22.07.2014 von einem Götterbaum
+- TOP .4.: Reichenbachstraße 41, Baumfällungsantrag vom 29.07.2015 von einer Trauerweide
+- TOP .5.: Pettenkoferstraße 18, Baumfällungsantrag vom 24.07.2015 von einer Robinie
+- TOP .6.: Klenzestraße 27, Baumfällungsantrag vom 30.07.2015 von einer Kastanie inclusive Fällgenehmigung vom 12.08.2015
+- TOP .7.: Bayerstraße 34, Baumfällungsantrag vom 03.08.2015 von einer Säulen-Pappel
+- TOP .8.: Pettenkoferstraße 12, Baumfällungsantrag vom 29.07.2015 von einer Akazie
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Immissions- und Schadstoffmessungen an der Isar durch das Referat für Gesundheit und Umwelt
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Klenzestraße 39, Heimvorteil und Ehrlich Handels GmbH, Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Fraunhoferstraße 32, Super Danke GmbH, Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Lindwurmstraße 115, Aufstellung von Warenstellagen, Vertagung aus der Sitzung vom 19.05.2015, Ergebnis nach Ortstermin
+- TOP .2.: Schützenstraße, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichen Grund für den Verkauf von selbst gefertigten künstlerischen und kunsthandwerklichen Gegenständen
+- TOP .3.: Auenstraße 2, Seite Fraunhoferstraße, Antrag für einen Postkartenständer
+- TOP .4.: Müllerstraße 15, Antrag für Warenauslagen (eine Kleiderpuppe, ein Warenkorb, eine Kleiderstange)
+- TOP .5.: Baaderstraße 84, Antrag für Warenauslagen (ein Kleiderständer, eine Stellage/Podest)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: München Marathon am 11.10.2015 und Trachtenlauf am 10.10.2015
+- TOP .3.2: Verkehr
+- TOP .1.: Fahrradstellplatzkonzept (3. Realisierungsabschnitt) ? Detailplanungen incl. BV-Empfehlung Nr.: 08-14 / E 02052 ?Umwandlung von vier KfZ-Stellplätzen in Fahrradstellplätze Dreimühlenstraße / Ehrengutstraße?
+- TOP .2.: Haydnstraße 7, Einrichtung eines allgemeinen Behindertenparkplatzes
+- TOP .1.: Ickstattstraße 22, Aufstellung einer Sitzgelegenheit
+- TOP .2.: Baaderstraße 19, Aufstellung einer Sitzgelegenheit
+- TOP .3.: Baaderstraße 53, Aufstellung einer Sitzgelegenheit
+- TOP .4.: Aufstellung eines Streetworkerbusses des Condrobs e.V. am Esperantoplatz während des Oktoberfestes (19.09. bis 04.10.2015)
+- TOP .5.: Holzstraße 43, Aufstellung einer Sitzgelegenheit
+- TOP .6.: Kapuzinerstraße 43, Aufstellung einer Sitzgelegenheit
+- TOP .7.: Holzstraße 11, Aufstellung einer Sitzgelegenheit
+- TOP .8.: Baaderstraße 32, Aufstellung einer Sitzgelegenheit
+- TOP .1.: Bürgeranliegen: Lärmbelästigung durch einen neuen Gastronomiebetrieb in der Buttermelcherstraße 15, Hinterhof, Einspruch gegen die Schankkonzession, Widerspruch gegen die Nutzung von Freischankflächen etc.
+- TOP .1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP .1.: ?]18.jetzt[ - Fest junger Erwachsener im Rathaus?, 17.10.2015, Teilnahme des BA
+- TOP .2.: Entscheidungen und Besprechungen zum Oktoberfest, Satzungsänderung, BA-Antrags-Nr. 08 ? 14 / B 04288 des BA 2 vom 02.10.2012
+- TOP .2: Termine
+- TOP .1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 14.09.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 15.09.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 16.09.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 21.09.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 29.09.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP .3.: Mieterbeiratswahl 2015; Berufung der stimmberechtigten und Bekanntgabe der beratenden Mitglieder; Beschluss der Vollversammlung des Stadtrates vom 01.07.2015, Sitzungsvorlage Nr.: 14-20 / V 03011
+- TOP .4.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit; 6. Standortbeschluss; Sitzungsvorlage Nr.: 14-20 / V 03518 Beschluss der Vollversammlung des Stadtrates vom 01.07.2015
+- TOP .5.: Ruhestörung durch Gäste des Apartmenthauses Landwehrstraße 40 ? Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen
+- TOP .6.: Unterbringung von Flüchtlingen im Rahmen des Überbrückungsprogrammes; Sitzungsvorlage Nr. 14 ? 20 / V 03725
+- TOP .7.: Formen der dezentralen und individuellen Gedenkens an die Opfer des NS-Regimes in München, inclusive Stolpersteine in München auf öffentlichem Grund verlegen, BA- Antrags-Nr. 14 ? 20 / B 00476 des BA 2 vom 21.10.2014; Sitzungsvorlage Nr. 14 ? 20 / V 03773
+- TOP .8.: Information Ausstattung der Freiwilligen Feuerwehr mit automatischen externen Defibrillati onsgeräten; Zustimmung des Kreisverwaltungsausschuss am 28.07.2015 zu der Vorlage Nr. 14 ? 20 / V 03674 zum Stadtratsantrag vom 25.02.2015 Nr. 14 20 / A 00700.
+- TOP .9.: Kurzbericht zum Ablauf des ?Offenen Ateliers 2015?
+- TOP .10.: Wohnen in München VI ? Zeitplan und Themenvorschau, Zielzahl für den Wohnungsbau erhöhen! Beschluss der Vollversammlung des Stadtrates vom 29.07.2015; Sitzungsvorlagen Nr. 14 ? 20 / V 03161
+- TOP .1.: Baumaßnahmen der Stadtwerke München
+- TOP .2.: Wegebenennung in Grünanlagen ermöglichen, Antrag Nr. 08 ? 14 / A 04929 vom 17.12.2013; Benennung von Grünanlagen und Wegebenennung in Grünanlagen BA-Antrags-Nr. 08 ? 14 / B 05503 des BA 7 vom 14.01.2014; Benennung von Straßen und Wegen in Grünzügen BA-Antrags-Nr. 08 ? 14 / B 04763 des BA 11 vom 10.04.2013; Erneute Befassung des Stadtrates mit dem Thema ?Benennung von Straßen und Wegen in Grünzügen?, Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 (Sitzungsvorlage Nr. 08 ? 14 / V 14059); Sitzungsvorlage Nr. 14 ? 20 / V 02923
+- TOP .3.: Baaderstraße 60; Rückgebäude: Umbau, Nutzungsänderung von Werkstatt und Büro in Wohnen, Neubau des Dachstuhls, Einbau eines Kombilifts mit fünf Stellplätzen; Baugenehmigung im vereinfachten Genehmigungsverfahren vom Referat für Stadtplanung und Bauordnung vom 12.08.2015
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen:
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Nahmobilitätspauschale; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015, Sitzungsvorlage Nr.: 14-20 / V 02702
+- TOP .7.: Umsetzungsbeschluss zum Fahrradvermietsystem ?MVG Rad? - II; Beschluss des Ausschusses für Arbeit und Wirtschaft am 23.06.2015, Sitzungsvorlage Nr.: 14-20 / V 03195 incl. Beschluss der Vollversammlung des Stadtrates am 01.07.2015
+- TOP .8.: Behinderungen für Fußgänger, Lindwurmstraße ? Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen
+- TOP .9.: Umgebung Theresienwiese, Wies'n 2015, Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV, Einsatz von Müllsammelfahrzeugen in den Wohngebieten um die Theresienwiese
+- TOP .10.: Errichtung von mobilen Fahrradabstellanlagen zum Oktoberfest; Antwortschreiben des Referates für Arbeit und Wirtschaft vom 31.07.2015
+- TOP .11.: Toiletten an der Isar, Änderung des Mehrjahresinvestionsprogrammes 2014 ? 2018, Sitzungsvorlage Nr. 14 ? 20 / V 03047, Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP .12.: Bürgerbeschwerde Reichenbachstraße / Ecke Fraunhoferstraße ? Antwortschreiben des Kreisverwaltungsreferates ? Bezirksinspektion Mitte vom 11.08.2015
+- TOP .13.: Bürgerbeschwerde ?Rennbahn? Straßenabschnitt Corneliusstraße ? zwischen Müllerstraße und dem Gärtnerplatz; Antwortschreiben der Polizeiinspektion 14 vom 29.07.2015
+- TOP .14.: Verbesserung der Verkehrssituation in der Landwehrstraße, TOP 2015.07 C 5.2, Antwortschreiben des Kreisverwaltungsreferates auf ein Bürgeranliegen
+- TOP .15.: Koordination und Service im Radverkehr; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015, Sitzungsvorlagen Nr. 14 ? 20 / V 03026
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .5: Sonstiges
+- TOP .6: Berichte der Beauftragten
+- TOP .3: Veranstaltungen
