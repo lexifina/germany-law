@@ -1,0 +1,6 @@
+# TOP 11: Betrauung der Solinger Bädergesellschaft mbH mit der gemeinwirtschaftlichen Verpflichtung zum Vorhalten und zum Betrieb von Bäder- und Sportanlagen im Gebiet der Stadt Solingen
+
+- Sitzung: Haupt- und Personalausschuss (2015-08-25)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/17901
