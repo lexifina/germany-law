@@ -1,0 +1,64 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-08-26T17:03:00+02:00
+- Ende: 2015-08-26T19:34:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9937
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9937
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246117.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246117.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246117.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 4: B-Plan-Vorentwurf Nr. 06/006 - Westfalenstraße 46-48 -Verfahren gem. § 13a BauGB Verfahren gem. § 13 - vertagt
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage mehrere: Stand Bebauung Theodorstraße - beantwortet
+- TOP 9: Anfrage GRÜNE: Lärmreduzierung Bochumer Straße - vertagt
+- TOP 10: Anfrage Linke: Ersatzpflanzungen im Stadtgebiet 06 - vertagt
+- TOP 11: Anfrage BÜ 90/GRÜNE: Verkehrskontrollen der Polizei - beantwortet
+- TOP 12: Anfrage BÜ 90/GRÜNE: Bunkeranlagen - beantwortet
+- TOP 13: Anfrage BÜ 90/GRÜNE: Wildtierbestand - beantwortet
+- TOP 14: Anfrage SPD: Radweg Westfalenstraße - beantwortet
+- TOP 15: Anfrage CDU: Bolzplatz Osterfelder Straße - vertagt
+- TOP 16: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 17: Anfrage Daxenberger: Verbindungsbrücke U 81 - beantwortet
+- TOP 18: Anfrage Daxenberger: Auswirkungen auf Bevölkerung im Stadtgebiet 6 - vertagt
+- TOP 19: Antrag SPD: Absenkung Bordsteinkante - einstimmig beschlossen
+- TOP 20: Antrag SPD: Installierung Verkehrsspiegel - einstimmig beschlossen
+- TOP 21: Antrag mehrere: Ersatzpflanzung von Bäumen - einstimmig beschlossen
+- TOP 22: Antrag SPD: Busbucht Autobücherei - einstimmig beschlossen
+- TOP 23: Antrag mehrere: Fernwärme Netzausbau Unterrath - einstimmig beschlossen
+- TOP 24: Antrag SPD: Spender für Hundekotbeutel - einstimmig beschlossen
+- TOP 25: Antrag Bü90/Grüne: Ersatzpflanzung Lichtenbroich - mehrheitlich beschlossen
+- TOP 26: Antrag mehrere: Hundeauslaufwiese - einstimmig beschlossen
+- TOP 27: Antrag mehrere: Bahnlärm - einstimmig beschlossen
+- TOP 28: Antrag Daxenberger: Immissionswerte Hülsmeyerplatz - einstimmig beschlossen
+- TOP 29: Antrag Daxenberger: Unterrather Schwimmbad - mehrheitlich abgelehnt
+- TOP 30: Festsetzung von Überschwemmungsgebieten - Information - zur Kenntnis genommen
+- TOP 31: Zuschussvergabe 2015 - mehrheitlich beschlossen
+- TOP 32: Bauunterhaltungsmittel 2015 - KSP - einstimmig beschlossen
+- TOP 33: MdV- 176/35/2015 - zur Kenntnis genommen
+- TOP 34: MdV - 176/43/2015 - zur Kenntnis genommen
+- TOP 35: MdV - 176/46/2015 + 176/57/2015 - zur Kenntnis genommen
+- TOP 36: MdV - 176/85/2015 - zur Kenntnis genommen
+- TOP 37: MdV - 176/74/2015 - zur Kenntnis genommen
+- TOP 38: MdV - 176/71/2015 - zur Kenntnis genommen
+- TOP 39: MdV - 176/101/2015 - zur Kenntnis genommen
+- TOP 40: MdV - 176/72/2015 - zur Kenntnis genommen
+- TOP 41: MdV - 176/130/2014 - zur Kenntnis genommen
+- TOP 42: MdV - 176/93/2015 - zur Kenntnis genommen
+- TOP 43: MdV - 176/67/2015 - zur Kenntnis genommen
+- TOP 44: MdV - Unterbringung Asyl suchender Personen - zur Kenntnis genommen
+- TOP 45: MdV - 176/42/2015 - zur Kenntnis genommen
+- TOP 46: MdV - 176/108/2015 - zur Kenntnis genommen
+- TOP 47: MdV - 176/73/2015 - zur Kenntnis genommen
