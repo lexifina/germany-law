@@ -1,0 +1,51 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2015-08-26T17:00:00+02:00
+- Ende: 2015-08-26T20:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3282
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b936f3d1d8f32e9185e9444
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 24.06.2015 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner - (offen)
+- TOP 4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - (offen)
+- TOP 5: Genehmigung der Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW KiTa Kalverbenden - Übernahme der nicht über KiBiz refinanzierbaren Mietkosten (Kaltmiete) - ungeändert beschlossen
+- TOP 6: Genehmigung einer Dringlichkeitsentscheidung für den Rat der Stadt Aachen gem. § 60 GO NRW Unterbringung von Flüchtlingen - über- und außerplanmäßige Aufwendungen, Auszahlungen und Verpflichtungsermächtigungen Haushaltsjahr 2015 - ungeändert beschlossen
+- TOP 7: Ausschreibung der Stelle der/des Beigeordneten für Personal, Organisation, Stadtbetrieb, Feuerwehr und Umwelt - geändert beschlossen
+- TOP 8: Nahverkehrsplan der Stadt Aachen 2015, 2. Fortschreibung - ungeändert beschlossen
+- TOP 9: Einrichtung eines Feierabendmarktes Ratsantrag der FDP-Fraktion im Rat der Stadt Aachen vom 19.03.2015 - zurückgezogen
+- TOP 10: Satzungsänderungen der Stiftungen Dassen, Poth und van Gils - ungeändert beschlossen
+- TOP 11: Verlegung von Stolpersteinen Projekt des Kölner Künstlers Gunter Demnig Volkshochschule Aachen - ungeändert beschlossen
+- TOP 12: Anfragen - (offen)
+- TOP 12.1: Ratsanfragen - ungeändert beschlossen
+- TOP 12.2: Stellungnahmen der Verwaltung zu Ratsanfragen - zur Kenntnis genommen
+- TOP 13: Umbesetzung von Ausschüssen und anderen Gremien - (offen)
+- TOP 13.1: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen - ungeändert beschlossen
+- TOP 13.2: Umbesetzung im Zweckverband Region Aachen - Verbandsversammlung - ungeändert beschlossen
+- TOP 14: Mitteilungen der Verwaltung - (offen)
+- TOP 15: Ratsanträge - ungeändert beschlossen
+- TOP 16: Neues Kurhaus: Nutzungskonzept neu Entwickeln; hier: Tagesordnungsantrag der Fraktion Die Grünen vom 10.08.2015 zur Sitzung des Rates der Stadt am 26.08.2015 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
