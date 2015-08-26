@@ -1,0 +1,66 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-08-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379566
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379566
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.1.: entfällt
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Knuddelmonster e.V. Anschaffung eines Laptops für die Medienerziehung der Kinder
+- TOP 2.2.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 17.10.2015: Teilnahme BA 4?
+- TOP 2.3.: Zuschuss aus dem BA-Budget an die Seniorenvertretung Schwabing-West für die Vorstellung des Seniorenstadtteilplans
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Belgradstr. 26, ?Blütenzauber?: Aufstellung von zusätzlichen Verkaufseinrichtungen
+- TOP 2.1.2.: Karl-Theodor-Str. 55, Vinzenzmurr Vertriebs GmbH, Genehmigung einer Freischankfläche
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 2.3.1.: Anwohnerstraßenfest Agnesstraße am 19.09.2015
+- TOP 2.3.2.: München Marathon am 11.10.2015 und Trachtenlauf am 10.10.2015
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Hohenzollernstr. 29 / RGB: Aufstockung einer Werkstatt um ein Gewerbe- sowie drei Wohngeschosse
+- TOP 2.1.2.: Herzogstr. 60: Errichtung einer Dachterrasse auf einem Flachdach
+- TOP 2.1.3.: Tektur Georgenstr. 66: Umbau EG mit Fassadenänderung
+- TOP 2.1.4.: Tektur Therese-Studer-Straße: Neubau von jetzt 2 Wohn-/Arbeitseinheiten
+- TOP 2.1.5.: Tektur Wertherstr. 5: Neubau einer eingruppigen Kinderkrippe mit einer Wohn- und einer Gewerbeeinheit (Büro o.ä.)
+- TOP 2.1.6.: Tektur Fallmerayerstr. 16: Zusammenlegung der Gaststätten 171+172 und Errichtung eines gemeinsamen Wirtsgartens (hier: Umbau der Arkade zu einem Windfang, Anbau einer Eingangsüberdachung)
+- TOP 2.1.7.: Kraepelinstr. 2-10: Neubau einer psychiatrischen Klinik mit 5 Stationen sowie Verwaltung, Forschungsambulanz/Funktionsdiagnostik, Tagklinik, physikalische Therapie mit Schwimmbad und Sporthalle, Ergotherapie, klinisches Labor, Cafeteria inkl. Logistikfkächen ? Vollzug der Baumschutzverordnung
+- TOP 2.1.8.: Tektur Bauerstr. 10: DG-Um- und -Ausbau sowie Neubau einer Garage mit mechanischem Parksystem
+- TOP 2.1.9.: Belgradstraße: Unterbringung von Flüchtlingen und Wohnungslosen (befristet bis 31.01.2026) Errichtung eines Gebäudes in Modulbauweise inkl. Antrag auf Baumfällungen lt. Baumbestandsplan
+- TOP 2.1.10.: Hiltenspergerstr. 21 und 23: Erneuerung und Vergrößerung der Balkone
+- TOP 2.1.11.: Lerchenauer Str. 11: Dachausbau mit Gauben im Zuge einer Dachsanierung
+- TOP 2.1.12.: Tektur Isoldenstraße: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 2.1.13.: Tektur Petra-Kelly-Str. 4: Neubau eines Hotel Garni
+- TOP 2.1.14.: Tektur Ainmillerstr. 32: Neubau eines Wohn- und Bürogebäudes mit Tiefgarage (RGB) und Errichtung eines Außenaufzugs (VGB)
+- TOP 2.1.15.: Belgradstr. 55, Erhöhung einer Lärmschutzwand um 4 Meter
+- TOP 2.1.16.: Vorbescheid Barlachstr. 6: Neubau eines Wohngebäudes (25 WE) mit Sparkassenfiliale und Tiefgarage inkl. Antrag auf Baumfällungen
+- TOP 2.1.17.: Franz-Joseph-Str. 30: Aufstockung eines Wohnhauses mit zwei Wohneinheiten
+- TOP 2.1.18.: Tektur Keuslinstr. 15-17: Dachgeschossausbau
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Keuslinstr. 5: Fällung einer Birke
+- TOP 2.1.2.: Isoldenstraße 1, Fällung einer Schwarzkiefer
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt): Anhörung zur Detailplanung für Hohenzollernstraße und Kurfürstenplatz
+- TOP 2.2.2.: Absolute Haltverbote auf der Nordseite der Rümannstraße westlich der Zufahrten zu den Anwesen 21-23, 27-31 und 35-39 (Dienstag bis Donnerstag 7 bis 12 Uhr)
+- TOP 2.2.1.: Anordnung von Haltverboten in der Cherubinistraße 4-8 zur Sicherung der Feuerwehrzufahrt für nachträglich ausgebaute Dachgeschosse
+- TOP 2.2.2.: Fehlende Hort- bzw. (Nach-)Mittagsbetreuungsplätze an der Grundschule Bayernplatz
