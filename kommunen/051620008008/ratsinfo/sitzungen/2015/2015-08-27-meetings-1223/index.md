@@ -1,0 +1,102 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-08-27T18:11:00+02:00
+- Ende: 2015-08-27T23:27:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1223
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1223
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Ceta, TTIP & Co., Auswirkungen auf die kommunale Daseinsvorsorge http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00064626.pdf
+- Ergebnisprotokoll: Ceta, TTIP & Co., Auswirkungen auf die kommunale Daseinsvorsorge http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00064626.pdf
+- Wortprotokoll: Ceta, TTIP & Co., Auswirkungen auf die kommunale Daseinsvorsorge http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00064626.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Vortrag
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: SPD, Antrag Nr. 194/15 - einstimmig
+- TOP 3.3: UWG
+- TOP 3.3.1: UWG, Antrag Nr. 179/15 - einstimmig
+- TOP 3.3.2: FDP-Antrag Nr. 178/15 - einstimmig
+- TOP 3.3.3: FDP-Antrag Nr. 184/15 - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: FDP, Antrag Nr. 185/15 - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Bündnis 90/Die Grünen Antrag Nr. 189/15 - einstimmig
+- TOP 3.5.2: ABG, Antrag Nr. 190/15 - einstimmig
+- TOP 3.6: ABG
+- TOP 3.6.1: ABG, Antrag Nr. 188/15 - einstimmig
+- TOP 3.7: Mein Grevenbroich
+- TOP 3.8: Die Linke/Piraten
+- TOP 3.8.1: Die Linke/Piraten, Antrag Nr. 186/15 - einstimmig
+- TOP 3.8.2: Die Linke/Piraten (Antrag Nr. 191/15) - einstimmig
+- TOP 3.9: Gemeinschaftsanträge
+- TOP 3.9.1: Gemeinschaftsantrag Nr. 183/15 - mehrheitlich bei
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: SPD
+- TOP 4.2: UWG
+- TOP 4.2.1: UWG, Anfrage Nr. 177/15 - Kenntnisnahme
+- TOP 4.2.2: UWG, Anfrage Nr. 187/15 - Kenntnisnahme
+- TOP 4.3: FDP
+- TOP 4.4: B 90/DIE GRÜNEN
+- TOP 4.5: ABG
+- TOP 4.6: CDU
+- TOP 4.7: Mein Grevenbroich
+- TOP 4.8: Die Linke/Piraten
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Finanzzwischenbericht - Kenntnisnahme
+- TOP 8: Nachtragshaushalt 2015 - einstimmig
+- TOP 9: DA Finanzbuchhaltung - Kenntnisnahme
+- TOP 10: ÜPL/APL - Kenntnisnahme
+- TOP 11: Reinigung Toilette Bahnhof GV - Kenntnisnahme
+- TOP 12: Vertretung in Gremien Dritter
+- TOP 12.1: Nachbenennung Delegiertenversammlung Erftverband - einstimmig
+- TOP 12.2: Kreisverkehrsgesellschaft - einstimmig
+- TOP 13: Beratungspunkte Ausschüsse
+- TOP 13.1: Grundsatzbeschluss Grün - einstimmig
+- TOP 14: BetriebsA 24.06.2015
+- TOP 14.1: Jahresabschluss 2013 Eigenbetrieb Abwasseranlagen - einstimmig
+- TOP 15: Entscheidung PlanungsA
+- TOP 15.1: H 19 - ern. Aufstell. + Satzungsbeschluss - mehrheitlich bei
+- TOP 15.2: Wahl Mitglied Umlegungsausschuss - Wiederwahl Maluche - einstimmig
+- TOP 15.3: Richtlinie Verfügungsfonds ISEK - einstimmig
+- TOP 15.4: Aufstellung G 213 - § 13a Verfahren - einstimmig
+- TOP 15.5: 1. Änd. G 114 Obere Lindenstraße- Aufstellung § 13a - einstimmig
+- TOP 15.6: 3. Änd. G 92 - Aufstell. + Öff. Bet. analog § 13a - einstimmig
+- TOP 15.7: 19. Änd. FNP - Beschluss gemäß § 6 BauGB - einstimmig
+- TOP 16: Beantwortung Anträge
+- TOP 16.1: UWG, Antrag Nr. 87/15 - Kenntnisnahme
+- TOP 17: Beantwortung Anfragen
+- TOP 17.1: FDP, Anfrage Nr. 95/14 - Kenntnisnahme
+- TOP 17.2: Beantwortung Mein GV, Antrag Nr. 110/15 - Kenntnisnahme
+- TOP 17.3: Mein GV, Anfrage Nr. 117/15 - Kenntnisnahme
+- TOP 17.4: UWG, Anfrage Nr. 120/15 - Kenntnisnahme
+- TOP 17.5: Anfrage "Finanzielle Situation der Stadt Grevenbroich" (Anfrage Nr. 140/15) - Kenntnisnahme
+- TOP 17.6: SPD, Antrag Nr. 147/15 - Kenntnisnahme
+- TOP 17.7: FDP, Anfrage Nr. 150/15 - Kenntnisnahme
+- TOP 17.8: Beantwortung Anfragen - Kenntnisnahme
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: Kommandowagen (Antrag Nr. 198/15) - einstimmig
+- TOP 18.2: Überprüfung RPA (Antrag Nr. 199/15)
+- TOP 18.3: Rf Florack, Anfrage Nr. 200/15
+- TOP 18.4: Rh Windler/Rh Rogel-Obermanns, Anfrage Nr. 201/15
+- TOP 18.5: Rf Troles, Anfrage Nr. 202/15
+- TOP 18.6: Rh Bayer, Anfrage Nr. 203/15
+- TOP 18.7: Rh G. Schillings, Anfrage Nr. 204/15
+- TOP 18.8: Rh R. Kaiser, Anfrage Nr. 205/15
+- TOP 18.9: Rh Rinkert, Anfrage Nr. 206/15
+- TOP 18.10: Rh Rinkert, Anfrage Nr. 207/15
+- TOP 18.11: Rh Cremers, Anfrage Nr. 208/15
+- TOP 18.12: Rh Dorok, Anfrage Nr. 209/15
+- TOP 18.13: Rh Thalmann, Anfrage Nr. 130/15
+- TOP 18.14: Rf Schwab, Anfrage Nr. 210/15
+- TOP 18.15: Rf Suermann, Anfrage Nr. 211/15
+- TOP 18.16: Rh von Borzestowski, Anfrage Nr. 212/15
+- TOP 19: Mitteilungen BM'in - Kenntnisnahme
