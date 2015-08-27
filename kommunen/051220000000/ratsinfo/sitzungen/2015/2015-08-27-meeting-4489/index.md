@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2015-08-27T17:00:00+02:00
+- Ende: 2015-08-27T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa6Zw6aky-1SOf0EX2rQg-4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4489
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTMXMm_zY6BxqvSluHjNw-ehqYlB1EkRgi64N1BtirKe/Oeffentliche_Niederschrift_Rat_27.08.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Vorschlag für die En-bloc-Abstimmung
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Delegiertenversammlung 2015 der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE)
+- TOP 5: Delegiertenversammlung 2015 der Deutschen Sektion des Rates der Gemeinden und Regionen Europas (RGRE)
+- TOP 6: Beirat Untere Landschaftsbehörde
+- TOP 7: Altenzentren der Stadt Solingen gGmbH
+- TOP 8: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 9: Richtlinien und Standards bei der Unterbringung von Flüchtlingen in den kommunalen Gemeinschaftseinrichtungen
+- TOP 10: Richtlinien und Standards bei der Unterbringung von Flüchtlingen in den kommunalen Gemeinschaftseinrichtungen
+- TOP 11: Richtlinien und Standards bei der Unterbringung von Flüchtlingen in den kommunalen Gemeinschaftseinrichtungen
+- TOP 12: Einführung der Gesundheitskarte für Flüchtlinge in Solingen
+- TOP 13: Einführung der Gesundheitskarte für Flüchtlinge in Solingen
+- TOP 14: Einführung der Gesundheitskarte für Flüchtlinge in Solingen
+- TOP 15: Maßnahmen zur Situation und Unterbringung von Flüchtlingen
+- TOP 16: Maßnahmen zur Situation und Unterbringung von Flüchtlingen
+- TOP 17: Erstattung von Elternbeiträgen für die streikbedingten Schließungszeiten in den städtischen Kindertageseinrichtungen
+- TOP 18: Verkaufsoffene Sonntage im Jahr 2016
+- TOP 19: Verkaufsoffene Sonntage im Jahr 2016
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Zusammenarbeit der Städte Solingen und Thiès im Projekt „50 Kommunale Klimapartnerschaften bis 2015“
+- TOP 22: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW
+- TOP 23: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2014
+- TOP 24: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2014
+- TOP 25: Entwicklungen im Bereich der Wasserstoff- und Brennstofftechnologie
+- TOP 26: Solingen Burg: Integriertes Stadtteilentwicklungskonzept
+- TOP 27: Solingen Burg: Integriertes Stadtteilentwicklungskonzept
+- TOP 28: Bauleitplanung Steinstraße/ Sauerbreystraße
+- TOP 29: Bauleitplanung Emdenstraße/ Forststraße
+- TOP 30: Bauleitplanung Mummstraße
+- TOP 31: Bauleitplanung Friedrichstraße/ Am Neumarkt
+- TOP 32: Bauleitplanung Hochstraße/Sauerbreystraße
+- TOP 33: Resolution Krankenhausstrukturgesetz
+- TOP 34: Gaststätte Kleingartenanlage Böckerhof
+- TOP 35: Optimierung des Solinger Wanderwegenetzes
+- TOP 36: Erdaushub Bergstraße
+- TOP 37: Homepage der Stadt Solingen
+- TOP 38: Ältestenrat/Informationsfreiheitsgesetz NRW
+- TOP 39: Aufbereitung und Bereitstellung von Unterlagen über das Sitzungsdienstsystem und über E-Mail
+- TOP 40: Entwicklung der Clemens-Galerien
+- TOP 41: Anlieferung im Müllheizkraftwerk
+- TOP 42: VRR: Neuer S-Bahn-Takt ab 2019
+- TOP 43: Anfrage der Ratsfraktion "Die Linke" vom 14.8.2015
+- TOP 44: Tätigkeitsbericht des Seniorenbeirats
+- TOP 45: Umsetzung der HSP-Maßnahme M280 - Organisatorische Veränderungen beim Dienstleistungsbetrieb Gebäude -
+- TOP 46: Gründung der Fraktion „Fraktionsgemeinschaft Bürger Fraktion Solingen - BFS“
+- TOP 47: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. und 2. Quartal 2015
+- TOP 48: Service Center der Deutschen Bahn AG im Solinger Hauptbahnhof
+- TOP 49: Haushaltsverfügung für das Jahr 2015
+- TOP 50: Budgetfreigaben nach Genehmigung des Haushaltes 2015
+- TOP 51: Aktuelle Flüchtlingssituation in Solingen
+- TOP 52: Vorläufige Geschäftskreise der Ressortleiter
+- TOP 53: Beseitigung von Mängeln im Gebäude der Löscheinheit 2
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Betrauung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Wirtschaftsförderung der Stadt Solingen
+- TOP 2: Betrauung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Wirtschaftsförderung der Stadt Solingen
+- TOP 3: Betrauung der Wirtschaftsförderung Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Förderung der wirtschaftlichen und sozialen Struktur und Attraktivität der Stadt Solingen.
+- TOP 4: Betrauung der Wirtschaftsförderung Solingen GmbH & Co. KG mit der gemeinwirtschaftlichen Verpflichtung der Förderung der wirtschaftlichen und sozialen Struktur und Attraktivität der Stadt Solingen.
+- TOP 5: Betrauung der Solinger Bädergesellschaft mbH mit der gemeinwirtschaftlichen Verpflichtung zum Vorhalten und zum Betrieb von Bäder- und Sportanlagen im Gebiet der Stadt Solingen
+- TOP 6: Betrauung der Solinger Bädergesellschaft mbH mit der gemeinwirtschaftlichen Verpflichtung zum Vorhalten und zum Betrieb von Bäder- und Sportanlagen im Gebiet der Stadt Solingen
+- TOP 7: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Kapitalausstattung und Änderung des Pachtvertrages mit der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 8: Wahlwerbung auf Großflächen der Firma Ströer
+- TOP 9: Klärungsbedarf zur Anfrage Beratungsaufträge an die "Big Four"
