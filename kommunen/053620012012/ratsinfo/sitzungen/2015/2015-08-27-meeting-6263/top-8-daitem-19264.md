@@ -1,0 +1,7 @@
+# TOP 8.: Unterführung Balthasar-Neumann-Platz Bezug: Anfragen der Fraktionen CDU und Grüne vom 24.07.2015
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (19. Sitzung) (2015-08-27)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/19264
+- Beratung: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/consultation/25825
