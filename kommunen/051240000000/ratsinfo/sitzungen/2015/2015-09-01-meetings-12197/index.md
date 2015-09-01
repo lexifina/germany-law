@@ -1,0 +1,56 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-09-01T16:04:00+02:00
+- Ende: 2015-09-01T17:36:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12197
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12197
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand: 21.08.2015) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00183630.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00184498.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2014 der GWG und des Konzerns GWG - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2014 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2014 Bergische Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2014 der Kinder- und Jugendwohngruppen (KIJU) - Entgegennahme ohne Beschluss
+- TOP 1.5: Jahresabschluss 2014 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2016 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 3.1: Änderung der Betriebssatzung APH - ungeändert beschlossen
+- TOP 3.2: Änderung der Betriebssatzung KIJU - ungeändert beschlossen
+- TOP 3.3: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.4: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2014 - zur Entscheidung verwiesen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Stand der Schulden und Kassenkredite zum 30.06.2015 - Entgegennahme ohne Beschluss
+- TOP 5.2: Externe Einstellungen im Zeitraum Januar - Juni 2015 - Entgegennahme ohne Beschluss
+- TOP 5.3: Übertragung der Aufgaben der Regionalagentur auf die Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSWG) - aktueller Sachstand - Entgegennahme ohne Beschluss
+- TOP 5.4: Umsetzung des Personalentwicklungskonzeptes für den Zeitraum 2015-2017 - Entgegennahme ohne Beschluss
+- TOP 5.5: Geplante Umsetzung des Bundesinvestitionsprogramms durch das Land NRW - Entgegennahme ohne Beschluss
+- TOP 6: Haushaltsangelegenheiten
+- TOP 6.1: Haushaltsplan 2016/2017 und 5. Fortschreibung des Haushaltssanierungsplanes 2012 - 2021 - Entgegennahme ohne Beschluss
+- TOP 6.2: Bürgerbeteiligung im Rahmen der Haushaltsplanung 2016/2017 - Entgegennahme ohne Beschluss
+- TOP 7: Anträge und Anfragen / Allgemeine Vorlagen
+- TOP 7.1: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.06.2015 - Personalsituation Informations- und Kommunikationstechnologie - Entgegennahme ohne Beschluss
+- TOP 7.1.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.06.2015 - Personalsituation Informations- und Kommunikationstechnologie - Entgegennahme ohne Beschluss
+- TOP 7.2: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 15.06.2015 - Resolution: Faire Verteilung der Mittel aus dem Kommunalinvestitionsförderungsgesetz des Bundes - vertagt auf Rat
+- TOP 7.3: Antrag der FDP-Fraktion vom 12.05.2015 - Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter - vertagen
+- TOP 7.4: Antrag der WfW-Fraktion vom 15.06.2015 - Die WfW beantragt, den Stand der städtischen Überschuldung in jedem Finco-Bericht zu nennen - zurückgezogen
+- TOP 7.5: Große Anfrage der FDP-Fraktion vom 20.08.2015 – Pensionsrückstellungen bei städtischen Gesellschaften - Entgegennahme ohne Beschluss
+- TOP 7.5.1: Antwort auf die Große Anfrage der FDP-Fraktion zu Pensionsrückstellungen bei städtischen Gesellschaften - Entgegennahme ohne Beschluss
+- TOP 7.6: Neubau Brücke Remlingrade - ungeändert beschlossen
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Temporärer Einsatz früherer Mitarbeiter der Stadtverwaltung in Ausnahmesituationen - Anfrage der CDU-Fraktion vom 26.08.2015 - eingebracht
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten des Eigenbetriebes WAW
+- TOP 9: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
