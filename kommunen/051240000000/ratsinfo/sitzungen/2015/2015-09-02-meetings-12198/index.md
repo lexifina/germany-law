@@ -1,0 +1,78 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-09-02T16:00:00+02:00
+- Ende: 2015-09-02T16:30:00+02:00
+- Ort: Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12198
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12198
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00183924.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Entscheidung über die Zulässigkeit eines Einwohnerantrages gem. § 25 GO NRW - "KiTa-Streik" (nur Rat)
+- TOP 1.2: Einwohnerantrag "KiTa-Streik" gem. § 25 GO NRW (nur Rat)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Elektrofahrzeuge im städtischen Fuhrpark
+- TOP 2.2: Personalmangel im Rechnungsprüfungsamt
+- TOP 2.3: Kostenersparnis durch unbesetzte Stellen in der Verwaltung
+- TOP 2.4: Verwaltungsgebäude der Wuppertaler Stadtwerke GmbH - Bromberger Straße
+- TOP 2.5: Nutzung von Busspuren durch den Radverkehr
+- TOP 2.6: Mängelmelder der Stadt Wuppertal - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.08.2015
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Förderung der Elektromobilität
+- TOP 4.2.1: Ergänzungsantrag zu VO/1623/15 Förderung der Elektromobilität
+- TOP 4.3: Vorstellung des Konzepts für Bürgerbeteiligung
+- TOP 4.4: Bürgerbeteiligung am Haushalt 2016/17
+- TOP 4.4.1: Ersetzungsantrag zu Drs. VO/1677/15 - Antrag der Fraktion Die Linke „Bürgerbeteiligung am Haushalt 2016/17“ (TOP 4.4)
+- TOP 4.5: Resolution: Faire Verteilung der Mittel aus dem Kommunalinvestitionsförderungsgesetz des Bundes
+- TOP 4.5.1: Ersetzungsantrag zu Drs. VO/1576/15 - Resolution: „Faire Verteilung der Mittel aus dem Kommunalinvestitioinsförderungsgesetz des Bundes“ – Antrag der Fraktion Bündnis 90/ Die Grünen (TOP 4.5)
+- TOP 4.6: Gesundheitskarte für Flüchtlinge
+- TOP 4.6.1: Der Rahmenvereinbarung zur Einführung der Gesundheitskarte für Flüchtlinge beitreten!
+- TOP 4.7: Resolution: Wuppertal erklärt sich zur TTIP/CETA freien Kommune
+- TOP 4.8: Melde-App für Wuppertal
+- TOP 4.9: Beschluss- und Handlungsfähigkeit des Stadtrates - Antrag der Fraktion Pro Deutschland/DIE REPUBLIKANER vom 20.08.2015
+- TOP 4.10: "Kostenuhr" kommunaler Belastungen durch Asylbewerber und Asylanten - Antrag der Fraktion Pro Deutschland/DIE REPUBLIKANER vom 20.08.2015
+- TOP 4.11: Spielsuchtberatung aus Vergnügungsteuer finanzieren
+- TOP 4.12: Sanktionen im Jobcenter aussetzen
+- TOP 4.13: Errichtung einer Begleitkommission Kinder- und Jugendförderplan
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: ÖPNV-Anbindung IKEA
+- TOP 5.2: Öffentliches WLAN in Wuppertal fördern - Freifunk-Standorte auf städtischen Gebäuden einrichten
+- TOP 5.2.1: Öffentliches WLAN in Wuppertal
+- TOP 5.3: Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Betriebssatzung der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU)
+- TOP 6.2: Änderung der Betriebssatzung der Alten- und Altenpflegeheime (APH)
+- TOP 6.3: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen (Hof- u. Fassadenprogramm)
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Jahr 2016
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2014 der Kinder- und Jugendwohngruppen (KIJU)
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2014
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 1150V - Katernberger Straße / Am Buschhäuschen -
+- TOP 9.2: Bebauungsplan 1184 - Albrechtstraße / Gathe - Satzungsbeschluss - Bebauungsplan 90 - Friedrichschulstraße / Nordstraße / Albrechtstraße / Höchsten / Karlstraße und Gathe - Satzungsbeschluss zur Teilaufhebung
+- TOP 9.3: Bebauungsplan 1076 - Rangierbahnhof Wichlinghausen -
+- TOP 9.4: Bebauungsplan 1195 - Uellendahler Straße / Bornberg -
+- TOP 9.5: Vorhabenbezogener Bebauungsplan Nr. 1115V - Parkstraße / Erbschlö -
+- TOP 9.6: Bebauungsplan 1070V - Einkaufszentrum Unterkirchen -
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung des Wilhelm-Dörpfeld-Gymnasiums, Johannisberg 20, 42103 Wuppertal
+- TOP 10.2: Neubau Brücke Remlingrade
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bericht über den 1. Aktionsplan zur Gleichstellung von Frauen und Männern (EU-Charta)
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH
+- TOP 12.2: Gremienumbesetzung Ausschuss für Umwelt
+- TOP 12.3: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen
+- TOP 12.4: Bestellung eines sachkundigen Einwohners für den Ausschuss für Stadtentwicklung, Wirtschaft und Bauen
+- TOP 12.5: Umbesetzung im Ausschuss für Soziales, Familie und Gesundheit
+- TOP 12.6: Gremienbesetzung - Umbenennung
+- TOP 12.7: Gremienbesetzung - Beteiligung des Beirates der Menschen mit Behinderung an Ausschussberatungen
