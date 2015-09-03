@@ -1,0 +1,76 @@
+# 15. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-09-03T16:00:00+02:00
+- Ende: 2015-09-03T20:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4148
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4148
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00218238.pdf
+
+## Tagesordnung
+
+- TOP 1: Wahl eines/einer Verpflichtenden des Oberbürgermeisters - Zustimmung
+- TOP 2: Vereidigung des neuen Amtsinhabers
+- TOP 3: Bestellung eines Amtsverwesers gemäß § 54 Abs. 5 SächsGemO - erledigt
+- TOP 4: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 2 - Mandat Bündnis 90/Die Grünen (GRÜNE) - Zustimmung
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 5 - Mandat Sozialdemokratische Partei Deutschlands (SPD) - Zustimmung
+- TOP 7: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 8: Bericht des Oberbürgermeisters
+- TOP 9: Fragestunde der Stadträtinnen und Stadträte
+- TOP 9.1: Sachstand Bebauungsplan Am Lindenberg - erledigt
+- TOP 9.2: Koordinierung der Straßenbaumaßnahmen in der LHD - erledigt
+- TOP 9.3: Stand der Umsetzung des Antrages A0073/15 "Dresdner Sozialticket - Mobilität füt alle Menschen" - erledigt
+- TOP 9.4: Einstellung der direkten Bahnverbindung zwischen Dresden und Wroclaw/Breslau - erledigt
+- TOP 9.5: 49. Grundschule - erledigt
+- TOP 9.6: Einrichtung Asylantenheim Heidenauer Straße 49 - erledigt
+- TOP 9.7: Radweg zum Gänsefuß - erledigt
+- TOP 9.8: Gemeinsamer Geh- und Radweg Toeplerpark - erledigt
+- TOP 9.9: Verhandlungen mit der Dresdner Kreuzkirchgemeinde zur Finanzierung des Dresdner Kreuzchores - erledigt
+- TOP 9.10: Einsparungspotenziale durch den Vollzug der Haushaltssperre - erledigt
+- TOP 9.11: Sozialticket - erledigt
+- TOP 9.12: Tennishalle in Pappritz - erledigt
+- TOP 10: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 10.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 10.2: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 10.3: Ausschuss für Stadtentwicklung und Bau - Einigung
+- TOP 10.4: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 10.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofswesen) - erledigt
+- TOP 10.6: Ausschuss für Kultur - Einigung
+- TOP 10.7: Ausschuss für Soziales und Wohnen - erledigt
+- TOP 10.8: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 10.9: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Einigung
+- TOP 10.10: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - erledigt
+- TOP 10.11: Ausschuss für Petitionen und Bürgeranliegen - erledigt
+- TOP 11: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 11.1: Seniorenbeirat - Einigung
+- TOP 11.2: Integrations- und Ausländerbeirat - Einigung
+- TOP 11.3: Beirat Gesunde Städte - Einigung
+- TOP 11.4: Kleingartenbeirat - Einigung
+- TOP 11.5: Beirat für Menschen mit Behinderungen - Einigung
+- TOP 11.6: Wohnbeirat - Einigung
+- TOP 12: Umbesetzung im Jugendhilfeausschuss - punktweise Abstimmung mit Ergänzung
+- TOP 13: Umbesetzung im Ortsbeirat Loschwitz - Zustimmung
+- TOP 14: Tagesordnungspunkte ohne Debatte
+- TOP 15: Vertagungen Stadtratssitzung 9. Juli 2015
+- TOP 15.1: Vergabe des Grundstückes Katharinenstraße 9, Änderung des Beschlusses zum Antrag A0843/14, SR/066/2014 - Vertagung
+- TOP 15.2: Schließung der Kindertageseinrichtung Oskar-Seyffert-Straße 11 in 01189 Dresden - Vertagung
+- TOP 15.3: Aufnahme der Kindertageseinrichtung Loschwitzer Straße 23 in den Bedarfsplan der Landeshauptstadt Dresden unter der Trägerschaft der BEB Dienstleistung GmbH Dresden-Mitte - Vertagung
+- TOP 15.4: Für den Erhalt des Fußgängertunnels am Neustädter Markt - Vertagung
+- TOP 15.5: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2015/2016 - Vertagung
+- TOP 15.6: Kinderbetreuung gut bezahlen: Eltern bei Mehraufwendungen für Ersatzbetreuung entlasten - Vertagung
+- TOP 16: Kita Streik - finanzielle Auswirkungen - Vertagung
+- TOP 17: Satzung der Landeshauptstadt Dresden zur Nutzung öffentlicher Flächen für Jahr- und Spezialmärkte (Jahr- und Spezialmarktsatzung) - Vertagung
+- TOP 18: Öffnung von Schulsportanlagen zur freien sportlichen Nutzung - Zustimmung mit Änderung
+- TOP 19: Open Data-Strategie für Dresden - Zustimmung mit Änderung
+- TOP 20: Einführung einer Förderrichtlinie für die Erneuerung der Veranstaltungstechnik in Dresdner Kultureinrichtungen - Vertagung
+- TOP 21: Vollständige Übernahme der Kosten für die Unterbringung und Betreuung von Flüchtlingen und Asylbewerbern beim Freistaat einfordern - Zustimmung
+- TOP 22: Notfallplanung zur Asylbewerberunterbringung - Ersetzung
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Stadtratsbeschlüsse umsetzen und nicht ignorieren, hier: Planungen zur Stauffenbergallee West unverzüglich vorlegen - Vertagung
+- TOP 25: Hochwasserschutz in Übigau - Zustimmung mit Änderung
+- TOP 26: Haushaltsvollzug 2015 - Finanzzwischenbericht gem. § 75 Abs 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2015 gem. § 8 Abs. 3 SächsEigBVO - zur Kenntnis genommen
