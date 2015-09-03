@@ -1,0 +1,6 @@
+# TOP 2.1: Emmerbrücke in Thal
+
+- Sitzung: Ortsrat Thal (7. Sitzung) (2015-09-03)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/23298
