@@ -1,0 +1,70 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-04T16:00:00+02:00
+- Ende: 2015-09-04T19:47:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11071
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/11071
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246716.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246716.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00246716.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Informationsvorlage: Steinkaul - Barrierefreier Ausbau der Haltestelle "Alt-Himmelgeist"
+- TOP 5: Informationsvorlage "Ickerswarder Str."
+- TOP 6: Anfrage: Ausbau der Kreuzung Münchener Str./Ickerswarder Str.; Bushaltestellen Ickerswarder Str.
+- TOP 7: Projekt Südstadt Erdverlegung eines 110-kV-Kabels im Düsseldorfer Süden - zur Kenntnis genommen
+- TOP 8: B-Plan 09/003 - Nördlich Paulsmühlenstraße - - zur Kenntnis genommen
+- TOP 9: FNP-Ä 179 - Nördl. Paulsmühlenstr. - frühz. ÖB - zur Kenntnis genommen
+- TOP 10: Rahmenplan Einzelhandel 2015 - Vorentwurf - - zur Kenntnis genommen
+- TOP 11: Immigrather Straße 45, Stadtteiltreff Wersten, Neubau - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2015 - zur Kenntnis genommen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2016 - zur Kenntnis genommen
+- TOP 14: Genehmigung einer Dringlichkeitsentscheidung - zur Kenntnis genommen
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Benennung einer Platzfläche nach Josef Kürten - zur Kenntnis genommen
+- TOP 17: Erklärung gem. 125 (2) Ickerswarder Str. ,Teil 4 - zur Kenntnis genommen
+- TOP 18: Festsetzung von Überschwemmungsgebieten - Information - zur Kenntnis genommen
+- TOP 19: Anfrage: Bäderkonzept Benrath - zur Kenntnis genommen
+- TOP 20: Anfrage: Lärmschutz durch Geschwindigkeitsbegrenzungen / Großversuch der NRW-Landesregierung - zur Kenntnis genommen
+- TOP 21: Anfrage: Geschwindigkeitsbegrenzung auf A59
+- TOP 22: Anfrage: Lärmbelastung A59
+- TOP 23: Anfrage: Sachstand Straßenordnung, Nutzung von Spielplätzen - zur Kenntnis genommen
+- TOP 24: Anfrage: Tennenspielfeld SG Benrath-Hassels - zur Kenntnis genommen
+- TOP 25: Anfrage: Nirosta Werk Düsseldorf - zur Kenntnis genommen
+- TOP 26: Anfrage: Gehweg Hügelstraße - zur Kenntnis genommen
+- TOP 27: Anfrage: Kreuzung Henkelstr./ Altenbrückstr./ Spangerstr./ Further Str.
+- TOP 28: Antrag: Kleingartenanlage Hügelstraße 70-76 - zur Kenntnis genommen
+- TOP 29: Antrag: Errichtung eines Kinderspielplatzes im Bereich des Urdenbacher Grünzuges - zur Kenntnis genommen
+- TOP 30: Antrag: Sanierung der Marktplatztoilette - zur Kenntnis genommen
+- TOP 31: Antrag: Bericht Planungsstand Reisholzer Hafen - zur Kenntnis genommen
+- TOP 32: Antrag: Car-Sharing - zur Kenntnis genommen
+- TOP 33: Antrag: Taxidurchfahrt Heubesstraße - zur Kenntnis genommen
+- TOP 34: Antrag: Benennung Mühlenplatz - zur Kenntnis genommen
+- TOP 35: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz - zur Kenntnis genommen
+- TOP 36: Antrag: Verfügungsmittel "Benrather Tüte"; Weihnachtspäckchen - zur Kenntnis genommen
+- TOP 37: Antrag: Verfügungsmittel St.Seb.- Schützen-Bruderschaft von 1641 Düsseldorf-Himmelgeist e.V. - zur Kenntnis genommen
+- TOP 38: Antrag:Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeistt - zur Kenntnis genommen
+- TOP 39: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist - zur Kenntnis genommen
+- TOP 40: Antrag: Verfügungsmittel Chorverband Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 24.10.2015 - Sanierung Rheinufer Benrath-Urdenbach - zur Kenntnis genommen
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 23.01.2015 - Verlängerung der Straßenbahnlinie 715 - zur Kenntnis genommen
+- TOP 43: Informationsvorlage zum Beschluss der BV 9 vom 23.01.2015 - Beleuchtung Wetterhäuschen - zur Kenntnis genommen
+- TOP 44: Informationsvorlage zum Beschluss der BV 9 vom 20.02.2015 - zur Kenntnis genommen
+- TOP 45: Informationsvorlage zum Beschluss der BV 9 vom 08.05.2015 - zur Kenntnis genommen
+- TOP 46: Informationsvorlage zum Beschluss der BV 9 vom 08.05.2015 - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 08.05.2015 - zur Kenntnis genommen
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 08.05.2015 - zur Kenntnis genommen
+- TOP 49: Informationsvorlage zum Beschluss der Bv 9 vom 08.05.2015 - zur Kenntnis genommen
+- TOP 50: Informationsvorlage zum Beschluss der BV 9 vom 12.12.2014 - zur Kenntnis genommen
+- TOP 51: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015 - zur Kenntnis genommen
+- TOP 52: Informationsvorlage zum Bauvorhaben Kölner Landstraße 193-195 - zur Kenntnis genommen
+- TOP 53: Wiederaufbau der denkmalgeschützten Parkanlage Schlosspark Benrath - zur Kenntnis genommen
