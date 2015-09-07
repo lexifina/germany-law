@@ -1,0 +1,64 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-09-07T18:00:00+02:00
+- Ende: 2015-09-07T19:35:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdjPmN3pwcmyRWv6BB3lDjQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6266
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQbzKRbv6H13OLX4SoFyYoqLCNIlLvNIrPQBXpT8YBeX/Bekanntmachung_Rat_07.09.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaEveOOur04P1NsjBNzBNr-lTD9Is0DC1itbxvqIKOCK/Oeffentliche_Niederschrift_Rat_07.09.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.: Niederschrift vom 22.06.2015
+- TOP 3.: Anmietung eines Objektes zur Unterbringung von Flüchtlingen; überplanmäßige Mittelbereitstellung hier: Dringlichkeitsentscheidung Bürgermeister Freytag und Ratsherr Klug (CDU) vom 11.8.2015 Bezug: VgLA 10.8.2015 - (kein Text vorhanden)
+- TOP 4.: Gründung einer Anstalt öffentlichen Rechts (AöR)
+- TOP 4.1: AöR hier: Antrag der Fraktionen CDU und Grüne vom 27.04.2015, eingegangen per Mail am 22.06.2015
+- TOP 4.2: Gründung einer Anstalt öffentlichen Rechts (AöR) Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 01.09.2015 - (kein Text vorhanden)
+- TOP 4.3: Gründung einer AöR hier: Satzungsbeschluss - (kein Text vorhanden)
+- TOP 5.: Neues Friedhofskonzept - (kein Text vorhanden)
+- TOP 5.1: Neues Friedhofskonzept hier: Besprechung mit Bestattern, Steinmetz und Friedhofsgärtnern - (kein Text vorhanden)
+- TOP 6.: Schulentwicklungsplan, Fortschreibung 2015 mit Ausblick bis 2022 - (kein Text vorhanden)
+- TOP 7.: Einführung der Ehrenamtskarte für Nordrhein-Westfalen in der Stadt Brühl Bezug: Sitzung HA vom 12.05.2014, Vorlagen-Nr. 124/2014 - (kein Text vorhanden)
+- TOP 8.: Erneuerung Parkleitsystem - Belvedere - (kein Text vorhanden)
+- TOP 8.1: Parkleitsystem Erläuterungen zum Bau und Betrieb des städtischen Parkleitsystems - (kein Text vorhanden)
+- TOP 9.: Flächendeckende Einführung der Biotonne - (kein Text vorhanden)
+- TOP 10.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2014 - - (kein Text vorhanden)
+- TOP 11.: Beteiligung der Kreissparkasse Köln an der Wirtschaftsförderung Rhein-Erft GmbH (WFG) - (kein Text vorhanden)
+- TOP 12.: Anträge
+- TOP 12.1: Anpflanzung von Straßenbäumen auf beiden Seiten der Straße "Zum Sommersberg" zwischen Kierberger Straße und Stiftstraße Bezug: Antrag der FDP-Fraktion vom 22.08.2015 - (kein Text vorhanden)
+- TOP 13.: Umbesetzung in Ausschüssen
+- TOP 13.1: Umbesetzung im Ausschuss für Planung und Stadtentwicklung, im Verkehrsausschuss und im Ausschuss für Bauen und Umwelt Bezug: Antrag der Fraktion Linke & Piraten vom 17.08.2015 - (kein Text vorhanden)
+- TOP 13.2: Umbesetzung im Schulausschuss hier: Vertreterin der Gesamtschule - (kein Text vorhanden)
+- TOP 14.: Mitteilungen
+- TOP 14.1: Flüchtlingssituation in Brühl
+- TOP 15.: Anfragen
+- TOP 15.1: Kunice
+- TOP 15.2: Taschengeldbörse
+- TOP 15.3: Gesundheitskarte für Flüchtlinge
+- TOP 15.4: Anfragen eines Vochemer Bürgers
+- TOP 15.5: Papierlose Ratsarbeit
+- TOP 15.6: Spielplatz St. Franziskus Schule
+- TOP 15.7: Magnolienbaum Liblarer Straße/Uhlstraße
+- TOP 15.8: Linksabbieger Schwadorf
+- TOP 15.9: Nebeneingang Rathaus A
+- TOP 15.10: Luftverschmutzung in Schwadorf
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Gründung einer Anstalt öffentlichen Rechts (AöR)
+- TOP 16.1: Gründung einer AöR hier: Personalübergang - (kein Text vorhanden)
+- TOP 16.2: Gründung einer Anstalt öffentlichen Rechts (AöR) Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 01.09.2015 - (kein Text vorhanden)
+- TOP 17.: Anerkennung von ruhegehaltsfähigen Dienstzeiten - (kein Text vorhanden)
+- TOP 18.: Bericht über die 126. Sitzung des Aufsichtsrates der REVG am 25.06.2015 - (kein Text vorhanden)
+- TOP 19.: Mitteilungen
+- TOP 19.1: Brandschutzbedarfsplan
+- TOP 19.2: Balthasar-Neumann-Platz
+- TOP 20.: Anfragen
+- TOP 20.1: Thüringer Platz
+- TOP 20.2: Sichtschutz im Ratssaal
+- TOP 20.3: Anglifizierung
