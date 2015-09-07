@@ -1,0 +1,86 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-09-07T16:05:00+02:00
+- Ende: 2015-09-07T20:50:00+02:00
+- Ort: Ratssaal, Rathaus Barmen
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12200
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12200
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00183667.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00184500.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Entscheidung über die Zulässigkeit eines Einwohnerantrages gemäß § 25 GO NRW - ungeändert beschlossen
+- TOP 1.2: Einwohnerantrag „KiTa-Streik“ gem. § 25 GO NRW - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Abgesetzt. Beantwortung erfolgt schriftlich - Elektrofahrzeuge im städtischen Fuhrpark - abgesetzt
+- TOP 2.2: Personalmangel im Rechnungsprüfungsamt - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE vom 19.08.2015 - Personalmangel im Rechnungsprüfungsamt - abschließend zur Kenntnis genommen
+- TOP 2.3: Kostenersparnis durch unbesetzte Stellen in der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE vom 19.08.2015 - Kostenersparnis durch unbesetzte Stellen in der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.4: Verwaltungsgebäude der WSW Wuppertaler Stadtwerke GmbH Bromberger Straße - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die Anfrage der FDP-Fraktion zum Verwaltungsgebäude der WSW Wuppertaler Stadtwerke GmbH - Bromberger Straße - abschließend zur Kenntnis genommen
+- TOP 2.5: Abgesetzt. Beantwortung erfolgt schriftlich - Nutzung von Busspuren durch den Radverkehr - abgesetzt
+- TOP 2.6: Mängelmelder der Stadt Wuppertal - Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.08.2015 - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 25.08.2015 - Mängelmelder der Stadt Wuppertal - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Förderung der Elektromobilität - abgelehnt
+- TOP 4.2.1: Ergänzungsantrag zu VO/1623/15 Förderung der Elektromobilität - abgelehnt
+- TOP 4.3: Vorstellung des Konzepts für Bürgerbeteiligung - abgelehnt
+- TOP 4.3.1: Vorstellung des Konzepts für Bürgerbeteiligung - Ergänzungsantrag zur Drucksache VO/1646/15 - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 07.09.2015 - abgelehnt
+- TOP 4.4: Bürgerbeteiligung am Haushalt 2016/17 - Antrag der Fraktion DIE LINKE vom 06.08.2015 - abgelehnt
+- TOP 4.4.1: Ersetzungsantrag zu Drs. VO/1677/15 - „Bürgerbeteiligung am Haushalt 2016/17“ - Antrag der FDP-Fraktion vom 02.09.2015 - abgelehnt
+- TOP 4.5: Resolution: Faire Verteilung der Mittel aus dem Kommunalinvestitionsförderungsgesetz des Bundes - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 15.06.2015 - zurückgezogen
+- TOP 4.5.1: Ersetzungsantrag zu Drs. VO/1576/15 - Resolution: „Faire Verteilung der Mittel aus dem Kommunalinvestitioinsförderungsgesetz des Bundes“ – Antrag der FDP-Fraktion vom 02.09.2015 - zurückgezogen
+- TOP 4.5.2: Verteilungsschlüssel der Mittel aus dem KlnvFG – Modell des Städtetages NRW folgen - Antrag der Fraktionen von CDU und SPD vom 04.09.2015 - ungeändert beschlossen
+- TOP 4.6: Abgesetzt. Der Antrag wird von der Antrag stellenden Fraktion für erledigt erklärt. - Gesundheitskarte für Flüchtlinge - für erledigt erklärt
+- TOP 4.6.1: Der Rahmenvereinbarung zur Einführung der Gesundheitskarte für Flüchtlinge beitreten! - Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 31.08.2015 - zur Vorberatung verwiesen
+- TOP 4.7: Resolution: Wuppertal erklärt sich zur TTIP/CETA freien Kommune - abgelehnt
+- TOP 4.8: Melde-App für Wuppertal - abgelehnt
+- TOP 4.9: Beschluss- und Handlungsfähigkeit des Stadtrates - abgelehnt
+- TOP 4.10: „Kostenuhr“ kommunaler Belastungen durch Asylbewerber und Asylanten - abgelehnt
+- TOP 4.11: Spielsuchtberatung aus Vergnügungsteuer finanzieren - abgelehnt
+- TOP 4.12: Antrag Sanktionen im Jobcenter aussetzen - abgelehnt
+- TOP 4.13: Errichtung einer Begleitkommission Kinder- und Jugendförderplan - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: ÖPNV-Anbindung IKEA - abgelehnt
+- TOP 5.2: Öffentliches WLAN in Wuppertal fördern - Freifunk-Standorte auf städtischen Gebäuden einrichten - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.2.1: Öffentliches WLAN in Wuppertal - ungeändert beschlossen
+- TOP 5.3: Abgesetzt. Vorberatung nicht abgeschlossen. - Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Betriebssatzung der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) - ungeändert beschlossen
+- TOP 6.2: Änderung der Betriebssatzung der Alten- und Altenpflegeheime (APH) - ungeändert beschlossen
+- TOP 6.3: Richtlinien der Stadt Wuppertal über die Gewährung von Zuwendungen (Hof- u. Fassadenprogramm) - ungeändert beschlossen
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Jahr 2016 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung von überplanmäßigen Mitteln für eine Ersatzvornahme der Unteren Bauaufsichtsbehörde - Gebäude Nützenberger Straße 190 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2014 der Kinder- und Jugendwohngruppen (KIJU) - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 1150V - Katernberger Straße / Am Buschhäuschen - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1184 - Albrechtstraße / Gathe - Satzungsbeschluss - Bebauungsplan 90 - Friedrichschulstraße / Nordstraße / Albrechtstraße / Höchsten / Karlstraße und Gathe - Satzungsbeschluss zur Teilaufhebung - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1076 - Rangierbahnhof Wichlinghausen - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1195 - Uellendahler Straße / Bornberg - - ungeändert beschlossen
+- TOP 9.5: Vorhabenbezogener Bebauungsplan Nr. 1115V - Parkstraße / Erbschlö - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan 1070V - Einkaufszentrum Unterkirchen - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung des Wilhelm-Dörpfeld-Gymnasiums - ungeändert beschlossen
+- TOP 10.2: Neubau Brücke Remlingrade - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bericht über den 1. Aktionsplan zur Gleichstellung von Frauen und Männern (EU-Charta) - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung der Mitglieder des Beirates der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung Ausschuss für Umwelt - ungeändert beschlossen
+- TOP 12.3: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.4: Bestellung eines sachkundigen Einwohners für den Ausschuss für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 12.5: Umbesetzung im Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzung - Umbenennung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung - Beteiligung des Beirates der Menschen mit Behinderung an Ausschussberatungen - ungeändert beschlossen
