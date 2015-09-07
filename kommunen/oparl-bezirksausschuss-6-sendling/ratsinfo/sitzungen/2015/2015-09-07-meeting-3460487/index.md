@@ -1,0 +1,57 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2015-09-07T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3460487
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3460487
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Bürgersprechstunde (von 18:30 - 19:00 Uhr)
+- TOP 1.1.: "Schrotthalde" Am Isarkanal
+- TOP 1.2.: Ruhestörungen durch ständige Lautsprecherdurchsagen am Bahnsteig Harras
+- TOP 2: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 3: Referatsvertreter und eingeladene Gäste nehmen Stellung
+- TOP 4: Soziales und Sozialreferat
+- TOP 4.1.: Bericht aus der Informationsveranstaltung zur Unterbringung von Flüchtlingen und Wohnungslosen am 28.07.15
+- TOP 5: Referat für Bildung und Sport
+- TOP 5.1.: Zukünftige Standorte für die Montessorischule in der Reutberger Str. 10
+- TOP 5.2.: Nutzung des Innenhofes des Anwesens Implerstr. 69 durch die Kinder der Elterninitiative "Die Buntstifte e.V." - Ortstermin
+- TOP 6.1.: Erweiterung der Freischankfläche Oberländerstr. 24a
+- TOP 6.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1.: Genehmigung keiner Veranstaltung in Grünanlagen; Ausnahmegenehmigungen sind gegenüber dem BA zu begründen
+- TOP 7.2.: Fußgänger- / Radwegmarkierung am Eingang in die Jägerwirtstr. von der Plinganserstr. aus
+- TOP 7.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2016 (Sitzungsvorlage Nr. 14-20 / V 03316)
+- TOP 8.1.: Anhörungsrecht des Bezirksausschusses 2 bei Entscheidungen und Besprechungen zum Oktoberfest
+- TOP 8.2.: Änderung der BA-Satzung; Entscheidungsrecht bei der "Neuaufstellung bzw. Änderung von Wegweiseranlagen"
+- TOP 8.3.: Änderung der BA-Satzung; Anhörungsrecht bei der "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firman, nicht jedoch der Person des Nutzers oder andere Fragen)"
+- TOP 8.4.: Änderung der Satzung für die Bezirksausschüsse; BA-Satzungskommission vom 10.06.2015 (Sitzungsvorlage Nr. 14-20 / V 03494)
+- TOP 8.5.: Fest junger Erwachsener am 17.10.2015
+- TOP 8.6.: Oktoberfesttermin BA6 am Samstag, 26.09.2015, 18:00 Uhr
+- TOP 8.7.: (E) Budget der Bezirksausschüsse Isarlust e.V. Aufstellen von öffentlichen Klavieren vom 08.10. - 25.10.2015
+- TOP 9: Referat für Stadtplanung und Bauordnung
+- TOP 9.1.: Meldeliste Bauvorhaben
+- TOP 9.2.: Bauvorhaben Alramstr. 15
+- TOP 9.3.: Bauvorhaben Karwendelstr. 24
+- TOP 9.4.: MK6 am Herzog-Ernst-Platz als Gewerbestandort stärken - Anwort Stadtratsanfrage
+- TOP 9.5.: Baugrundstück an der Karwendelstr. 39
+- TOP 10: Baureferat
+- TOP 10.1.: Dreispurige Ausfahrt des Mittleren Ringes aus dem Trappentreutunnel in Richtung Norden (Sitzungsvorlage Nr. 14-20 / V 02752)
+- TOP 10.2.: Parkpflegewerk Flaucheranlagen auf die Zielvorgaben des FFH-Gebietes abstimmen (Sitzungsvorlage Nr. 14-20 / V 02024)
+- TOP 11: Baum- und Umweltschutz
+- TOP 11.1.: Baumfällung Heinrich-Stieglitz-Kehre 14 - Fällgenehmigung
+- TOP 11.2.: Baumfällung Schäftlarnstr. 100 - Fällgenehmigung
+- TOP 12: Anträge
+- TOP 14: Verschiedenes
+- TOP 14.1.: Bauzäune um die Theresienwiese als Werbeflächen nutzen
+- TOP 14.2.: Wegebenennungen in Grünanlagen ermöglichen (Sitzungsvorlage Nr. 14-20 / V 02923)
+- TOP 14.3.: Shabbyshabby Apartments - 21.09. - 13.10.2015
+- TOP 6: Gaststättenangelegenheiten
+- TOP 7: Verkehrsangelegenheiten
+- TOP 8: BA- und BA-Satzungsangelegenheiten / Budget
+- TOP 13: Bürgerversammlungsempfehlungen
