@@ -1,0 +1,52 @@
+# Stadtrat (10. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-09-08T17:00:00+02:00
+- Ende: 2015-09-08T21:46:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZlHqBwAUCNCZj9dlvAEIhc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18512
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZc1vaj2v7ITU5lHG9Vm8af6p4E4thN0Ta1mdxisj6_8Z/Bekanntmachung_Stadtrat_08.09.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYJuhA8guaxNHVvxzvru5I3pEAEEPmaNPPkq3WB5AFib/Oeffentliche_Niederschrift_Stadtrat_08.09.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Wiederwahl eines Schiedsmannes für die Schiedsamtsbezirke I und II (Kerpen/ Mödrath/Langenich/Bergerhausen) - (kein Text vorhanden)
+- TOP 3.: Besetzung und Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung des Jugendhilfeausschusses - (kein Text vorhanden)
+- TOP 3.2: Umlegungsverfahren "Burgackerstraße"; hier: Auflösung des Umlegungsausschusses - (kein Text vorhanden)
+- TOP 3.3: Aufnahme eines Mitgliedes des Netzwerkes 55 Plus mit beratender Funktion im Sozialausschuss; hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 4.: Wirtschaftsförderung Rhein-Erft GmbH; hier: Zustimmung zum Übergang von Gesellschaftsanteilen - (kein Text vorhanden)
+- TOP 5.: Einwendungen gegen die Richtigkeit der Niederschrift über die Ratssitzung vom 29.07.2015; hier. Antrag des Stadtverordneten Scharping
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Bebauungsplan KE 352 "Westliche Stiftsstraße", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.2: Bebauungsplan Ho 322 " Am Winterberg", Stadtteil Horrem A Aufstellungsbeschluss gem. §2 (1) BauGB B Teilaufhebung des Bebauungsplanes Nr. 26 "Hemmersbacher Erbbusch" - (kein Text vorhanden)
+- TOP 6.3: BP BR Nr. 356 "Eifelstraße/Heerstraße" im Stadtteil Brüggen; hier: Abschluss einer Planungsvereinbarung - (kein Text vorhanden)
+- TOP 6.4: Fassung einer Dringlichkeitsentscheidung gem. § 60 Abs. 1 Satz 2 bzw. Abs. 2 Satz 1 GO NW Abgabe einer Stellungnahme zum Autohof Elsdorf - (kein Text vorhanden)
+- TOP 7.: Gründung von Stadtwerken Kerpen - (kein Text vorhanden)
+- TOP 8.: Generalunternehmervergabe Bürgerzentrum Manheim-Neu - (kein Text vorhanden)
+- TOP 9.: Sachstand Sanierung Erftlagune/ Weitere Nutzung Sauna- und Gastronomiebereich - (kein Text vorhanden)
+- TOP 10.: Unterbringung von Flüchtlingen in der Kolpingstadt Kerpen - (kein Text vorhanden)
+- TOP 11.: Bau der Flüchtlingsunterkunft Erftstraße; Hier: außerplanmäßige Verpflichtungsermächtigung für den 2. Bauabschnitt - (kein Text vorhanden)
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Rohbau Hüttenstraße in Kerpen-Sindorf; hier: Anfrage der SPD-Fraktion
+- TOP 15.2: Durchführungsvertrag Kolpingzentrum; hier: Anfrage der Linksfraktion
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Auftragsvergabe eines Gutachtens zur Ertüchtigung der vorhandenen aktiven Lärmschutzeinrichtungen im Bereich der A4 neu bei Kerpen - Buir. - (kein Text vorhanden)
+- TOP 17.: Auftragsvergabe: Neubau einer Flüchtlingsunterkunft in Containerbauweise Erftstraße, 1. BA (Häuser 3, 4 und 5 inkl. Treppen und Laubengang) - (kein Text vorhanden)
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.1: Ernennung eines Stadtverwaltungsrates zum Stadtoberverwaltungsrat - (kein Text vorhanden)
+- TOP 18.2: Antrag auf Anrechnung von Vordienstzeiten auf die ruhegehaltsfähigen Dienstzeiten - (kein Text vorhanden)
+- TOP 19.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 22.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 23.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
