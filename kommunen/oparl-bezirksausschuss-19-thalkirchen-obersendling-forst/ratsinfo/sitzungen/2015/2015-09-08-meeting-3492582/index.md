@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-09-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492582
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492582
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: (E) Ersatzpflanzungen für die entlang des alten Thalkirchner Bahnhofs an der Maria-Einsiedel-Straße gefällten Bäume im Rahmen des Ausbaus des Isartalbahn Fuß- und Radweges Empfehlung Nr. 14-20 / E 00448 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 5.5.: (E) Fahrradabstellplätze Einkaufszentrum Südseite BV-Empfehlung Nr. 14-20 / E 00442
+- TOP 6: (E) Fußwegverkürzung Siemensallee / Ludwigshöher Straße Empfehlung Nr. 14-20 / E 00443 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 7: (E) Radweg in der Boschetsrieder Straße Empfehlung Nr. 14-20 / E 00444 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 8: (E) Ziffer 1: Anpassung der Fahrbahnbreite Rietschel- und Schultheißstraße an Plattlinger Straße südlich Herterichstraße Empfehlung Nr. 14-20 / E 00438 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 3.7.: Südpark aufwerten - Die Stadt für ihre Menschen öffnen - <div></div>
+- TOP 8.14.: Gehweg in der Forst-Kasten-Allee - <div></div>
+- TOP 8.15.: Fahrradabstellmöglichkeit an der S-Bahn-Station " Siemenswerke" - <div></div>
+- TOP 17: (E) Prüfung der Verkehrsführung Wolfratshauser Straße / Plinganserstraße Empfehlung Nr. 14-20 / E 00440 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 8.2.: Stadtteilwoche, Kulturtage - <div></div>
+- TOP 3.8.: Umsetzung der Resolution zum Schutz des oberen Isartals - <div></div>
+- TOP 17.18.: Erlass einer Werbeanlagensatzung - <div></div>
+- TOP 17.19.: Entfernung der Haltverbotsbeschilderung zwischen der Sollner Str. 46 und der Frans-Hals-Straße - <div></div>
+- TOP 17.20.: Kreuzung Boschetsrieder Str. / Tölzer Str. - <div></div>
+- TOP 17.21.: Taxistand am Sollner Bahnhof - <div></div>
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 04.08.2015
+- TOP 2: Anträge, Aktuelles
+- TOP 2.1.: Terminplanung 2016
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kleingartenverein München SW 58 e.V. Anbringung von Nistkästen und Futtersäulen
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: Handhabe Anhörungsrecht bei Feuerwerken
+- TOP 3.4.: (U) Baubeginnsanzeigen Mobilfunkanlagen
+- TOP 3.5.: (A) Wertstoffcontainer Koppstr.
+- TOP 3.6.: (Antrag) Aktion Pro Isar
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Bericht Sachstand
+- TOP 5.2.: (A) Forst-Kasten-Allee: Gehweg
+- TOP 5.3.: (A/U) Veranstaltungen
+- TOP 5.3.1: (A) Sollner Weinfest am 12.09.2015
+- TOP 5.3.2: (A) Herbstflohmarkt der Wiesenwerkstatt am 16.10.2015
+- TOP 5.3.3: (A) Kanu-Freestyle Wettkampf am 20.09.2015
+- TOP 5.3.4: (A) Wildwasser-Abfahrtsrennen am 26.09.2015
+- TOP 5.3.5: (A) Kanu-Slalom am 03.10.2015
+- TOP 5.4.: (U) Haltverbot Stäblistr.
+- TOP 8.9.: (E) Forstenrieder Allee ? Barrierefreier Ausbau Haltestelle Spielmannsauer Str.
+- TOP 8.10.: (E) Prüfung der Verkehrsführung Wolfratshauser Straße / Plinganserstraße BV-Empfehlung Nr. 14-20 / E 00440
+- TOP 8.11.: (U) Haltverbot Rupert-Mayer-Str.
+- TOP 8.12.: (E) Obstverkaufsstand Schäftlarnstr.
+- TOP 8.13.: (A) Satzungsänderung: Neuaufstellung bzw. Änderung von Wegweiseranlagen
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Bebauungsplan mit Grünordnung Nr. 1769a (Ratzingerplatz)
+- TOP 6.3.: (U) Denkmalschutz Ludwig-Werder-Weg
+- TOP 6.4.: (U) Grundstücksverkauf Forstenried
+- TOP 6.5.: (U) Grundstücksrückübereignung Forstenried
+- TOP 6.6.: (A) Satzungsänderung: Vergabe von städtischen Grundstücken
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Satzungsänderung: Änderung der Öffnungszeiten von Kindertagesstätten
+- TOP 7.2.: (A) Fest junger Erwachsener (18-jetzt)
+- TOP 8: Unterausschuss Kultur
+- TOP 8.1.: Sommerfestival Forstenried 2016
+- TOP 9: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
