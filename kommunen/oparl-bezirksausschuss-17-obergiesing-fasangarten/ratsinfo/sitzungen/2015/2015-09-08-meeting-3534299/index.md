@@ -1,0 +1,131 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2015-09-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3534299
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3534299
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: 1.3.1 Protokoll der Juni-Sitzung 1.3.2 Protokoll der Juli-Sitzung 1.3.3 Protokoll der Sitzung des Ferienausschusses
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Verkehrssituation Simsseestraße / Sachranger Straße - Wildparker; Bürgerschreiben vom 13.08.2015 - <div>an Polizei</div>
+- TOP 2.2.: Verkehrssituation Deisenhofener Straße (Einführung von Tempo 30 / Fahrbahnverengung / Schrägparker); Bürgerschreiben vom 15.07.2015 - <div>nach Antrag</div>
+- TOP 2.3.: MVG-Buslinienverkehr durch die Minnewitstraße; Bürgerantrag - <div>Ablehnung</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.3.: Berichte der Beauftragten
+- TOP 2.3.1: Integration
+- TOP 2.3.2: Inklusion
+- TOP 2.3.3: Genderfragen
+- TOP 2.3.4: Kinder und Jugend
+- TOP 2.3.5: Seniorinnen und Senioren
+- TOP 2.3.6: Mieterbeirat
+- TOP 2.3.7: gegen Rechtsextremismus
+- TOP 2.3.8: Baumschutz
+- TOP 2.3.8.1: Einzelfälle
+- TOP 2.1.: Hohenschwangauplatz 12, 1 Fichte
+- TOP 2.3.8.2: Baumbestandspläne
+- TOP 4: Anträge/Anfragen
+- TOP 4.1.: Gestaltung der Außenanlage der Hl. Kreuzkirche; Antrag der Fraktion Bündnis 90/Die Grünen im BA 17 - <div>nach Antrag</div>
+- TOP 5: Budget
+- TOP 5.5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: Ensemble La Vie ? Das Leben e.V., für die Maßnahme: Projekt ?Giesing ? das unterschätzte Viertel? am 06. und 07.11.2015; Antragssumme: 7.170,00 ?; Beschlussvorlage des Direktoriums vom 14.07.2015 (FF: UA Kultur) - <div>nach Antrag</div>
+- TOP 5.5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.1.: AntragstellerIn: 103er - Freizeittreff Obergiesing für die Maßnahme: Theatertage für die Grundschulen an der Ichstraße und Weißenseestraße; Antragssumme: 1.025,00 ?; Antrag vom 11.08.2015 - <div>ohne Entscheidung</div>
+- TOP 6: Unterausschüsse
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (1)
+- TOP 1: Lichtreflexion an Dachaufbauten; BÜV-Empfehlung Nr. 14-20 / E 00484 vom 18.06.2015; Sitzungsvorlagen Nr. 14-20 / V 03858; Beschluss des BA 17 am 08.09.2015 - <div>nach Antrag</div>
+- TOP 1.1.: 6.1.3.1 Anhörungen zu Bauvorhaben 6.1.3.1.1 Kiefernstraße 21 - 21a, Neubau zweier Apartmenthäuser mit Tiefgarage; Anhörung vom 28.07.2015 6.1.3.1.2 Tegernseer Landstraße 135, Umbau mit Änderung tragender Bauteile, Änderung der Erschließung zweier Nutzungseinheiten; Anhörung vom 24.08.2015 - <div>gemäß Ausschussbeschluss</div>
+- TOP 1.1.: Baufälle im 17. Stadtbezirk
+- TOP 1.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraun; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 6.1.4.2.1 Anwesen Kapellenfeldstraße; Mitteilung vom 24.07.2015
+- TOP 1.3.: Wegebenennung in Grünanlagen ermöglichen; Stadtratsantrag Nr. 08-14 / A 04929 vom 17.12.2013; Benennung von Grünanlagen und Wegebenennung in Grünanlagen; BA-Antrag Nr. 08-14 / B 05503 vom 14.01.2014; Benennung von Straßen und Wegen in Grünzügen; BA-Antrags-Nr. 08-14 / B 04763 vom 10.04.2013; Erneute Befassung des Stadtrates mit dem Thema "Benennung von Straßen und Wegen in Grünzügen"; Beschluss der Vollversammlung des Stadtrates vom 19.03.2014 (Sitzungsvorlage Nr. 08-14 / V 14059); Sitzungsvorlage Nr. 14-20 / V 02923; Kurzübersicht zum Beschluss des Kommunalausschusses vom 16.07.2015 (SB)
+- TOP 1.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/35 Regerstraße (nordwestlich), Welfenstraße (südlich), Ohlmüllerstraße (beidseits); Billigungsbeschluss und vorbehaltlich endgültiger Beschluss; Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 1.5.: Aufstellung von Bänken am Fuß- und Radweg zwischen Wallbergstraße und Chiemgaustraße; BA-Antrag Nr. 14-20 / B 01184 vom 12.05.15; Antwortschreiben des Baureferats-Gartenbau vom 21.07.2015
+- TOP 1.6.: Cincinnatistraße 63a, Schulbauoffensive - Neubau Grundschule, Sporthalle und Kindergarten / "Europäische Schule München" (Cincinnatistraße 63a, 65, 67 / Lincolnstraße 74 / Marklandstraße 11); Erklärung zum BV der Baudienststelle; Zuleitung der Lbk vom 11.08.2015
+- TOP 1.7.: Marklandstraße 11, Fl.Nr. 2641/37, Gemarkung Perlach, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage; Stellungnahme des BA 17 vom 11.02.2015; Abdruck der Baugenehmigung vom 12.08.2015
+- TOP 1.8.: Wohnen in München VI-Zeitplan und Themenvorschau; Zielzahl für den Wohnungsbau erhöhen! Stadtratsantrag Nr. 08-14 / A 05126 vom 19.02.2014; Sitzungsvorlagen Nr. 14-20 / V 03161; Hinweis/Ergänzung vom 06.07.2015 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (VB)
+- TOP 1.9.: Mitteilung des Kommunalreferats über ein Grundstücksgeschäft im 17. Stadtbezirk; hier: Kauf - Untersbergstraße, Flst. 16132/3
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (2)
+- TOP 0.1.: Informationen des RBS zum "kita Barometer"
+- TOP 0.2.: Nachbarschaftsarbeit in München stärken; Begleitung des Bürgerschaftlichen Engagements, Finanzierung der Raumverwaltung u. Fortbildung und Qualifizierung in Münchner Nachbarschaftstreffs; Sitzungsvorlage Nr. 14-20 / V 01597; Beschluss des Sozialausschusses vom 09.07.2015 (VB)
+- TOP 0.3.: BA-Erstinformation des Sozialreferates zum geplanten Standort für Wohnungslose/Flüchtlinge in kommunaler Zuständigkeit Herbert-Quandt-Straße 1
+- TOP 0.4.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss; Sitzungsvorlage Nr. 14-20 / V 03518; Beschluss der Vollversammlung vom 01.07.2015
+- TOP 0.1.: Anfahrts-/Zufahrtssituation vor der Heckscher-Klinik in der Deisenhofener Straße (verwiesen aus der Juli-Sitzung)
+- TOP 0.2.: Verkehrsbelastung in der Traunsteiner Straße; Schreiben der Eigentümergemeinschaft und weiteres Schreiben (verwiesen aus der Juli-Sitzung)
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (3)
+- TOP 0.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 17 Obergiesing-Fasangarten; Widmung von Teilstrecken der Werner-Schlierf-Straße; Sitzungsvorlage Nr. 14-20 / V 03874; Beschluss des BA 17vom 08.09.2015 - <div>nach Antrag</div>
+- TOP 2: Anbringen eines Beobachtungsspiegels an der Ecke Balanstraße / Grenzstraße; BÜV-Empfehlung Nr. 14-20 / E 00504 vom 18.06.2015; Sitzungsvorlage Nr. 14-20 / V 03882; Beschluss des BA 17 am 08.09.2015 - <div>Kenntnisnahme</div>
+- TOP 3: Erneuerung des Fahrbahnbelags und des Gehwegbelags (teilw.) in der Waldmünchener Straße und der Tirschenreuther Straße; BÜV-Empfehlung Nr. 14-20 / E 00501 vom 18.06.2015; Sitzungsvorlage Nr. 14-20 / V 03883; Beschluss des BA 17 am 08.09.2015 - <div>nach Antrag</div>
+- TOP 3.1.: Erinnerungsverfahren; Marklandstraße - Verbindungsweg zwischen Hermelinweg und Fasangartenstraße bei Hausnr. 6-8; Zuleitung des Baureferats-Tiefbau
+- TOP 3.2.: ÖPNV-Offensive - St.-Quirin-Platz, Haltestelle St.-Quirin-Platz, barrierefreier Ausbau; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.1.: Nahmobilitätspauschale; Sitzungsvorlage Nr. 14-20 / V 02702; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 3.2.: Kiesmüllerstraße und Waldsassener Straße zwischen Fasangartenstraße und Balanstraße; Erneuerung der öffentlichen Verkehrsfläche; Mitteilung des Baureferats-Tiefbau vom 15.07.2015
+- TOP 3.3.: Verlängerung des Bustaktes 220 bis nach Unterhaching; BA-Antrag Nr. 14-20 / B 01185 vom 12.05.2015; Antwortschreiben des RAW vom 28.06.2015
+- TOP 3.4.: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" - II; Konzeptvorstellung und Regelung der Sondernutzungsgebühren für Vermietstationen Fahrradtypen/Mobilitätshilfen für Menschen mit Mobilitätseinschränkung; Sitzungsvorlage Nr. 14-20 / V 03195; Beschluss des Ausschusses für Arbeit und Wirtschaft am 23.06.2015 (VB)
+- TOP 3.6.: Fahrradbügel in der Tegernseer Landstraße nördlich Tegernseer Platz; BA-Antrag Nr. 14-20 / B 01385 vom 14.07.2015; Antwortschreiben des Baureferats-Tiefbau vom 19.08.2015
+- TOP 3.7.: Ausbau und fahrradgerechte Asphaltierung des General- Kalb- Weges zwischen der Feuerzufahrt zum Gelände der Hauptschule an der Cincinnatistraße und der Lincolnstraße; BA-Antrag Nr. 14-20 / B 01270 vom 07.06.2015; Antwortschreiben des Baureferats-Tiefbau vom 19.08.2015
+- TOP 3.8.: Nahverkehrsplan (NVP) der LHM a) Sachstandsbericht b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 03603; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 08.07.2015 (VB)
+- TOP 3.9.: Parksituation Werner-Schlierf-Straße; Bürgeschreiben; Sachstandsinformation der PI 23 vom 07.08.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (4)
+- TOP 0.1.: Begrünung der Grünfläche Kreuzung Werinherstraße / Heimgartenstraße; BA-Antrag Nr. 14-20 / B 01272 vom 09.06.2015; Antwortschreiben des Baureferats-Gartenbau vom 28.07.2015
+- TOP 0.2.: Imkerverbände bei Entscheidungen hinsichtlich der Umwandlung von Grasflächen mit einbeziehen; BA-Antrag Nr. 14-20 / B 01206 vom 12.05.2015; Antwortschreiben des Baureferats-Gartenbau
+- TOP 0.3.: Einbau von Schallschutzfenstern in der Ichoschule - Antrag aus der Einwohnerversammlung zur Rahmenplanung Tegernseer Landstraße vom 12.12.2013; BA-Antrag Nr. 08-14 / B 05586 vom 21.01.2014; Antwortschreiben des RBS vom 10.07.2015
+- TOP 0.4.: Abfallbehälter für die Bushaltestelle Schwanseestraße / Ecke Chiemgaustraße (Buslinie 220 / 147 Richtung St.-Quirin-Platz); BA-Antrag Nr. 14-20 / B 00970 vom 10.03.2015; Antwortschreiben des RAW vom 01.07.2015
+- TOP 0.5.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 6.4.4.1.1 Marklandstraße 29; Bescheid vom 29.07.2015 6.4.4.1.2 Holtzendorffstraße 36; Bescheid vom 21.07.2015 6.4.4.1.3 Cincinnatistr. 57-61, Leifstr. 1-5, Wikinger Str. 1-29; Bescheid vom 21.07.2015 6.4.4.1.4 Kapellenfeldstraße 21; Bescheid vom 17.08.2015 6.4.4.1.5 Perlacher Straße 28-30, Spixstraße, Wirtstraße; Bescheid vom 17.08.2015 6.4.4.1.6 Pennstraße 17, Bescheid vom 24.08.2015
+- TOP 0.6.: Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße"; Lärmschutzmaßnahmen an der Chiemgaustraße; BA-Antrag Nr. 14-20 / B 01186 vom 12.05.2015; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 07.08.2015
+- TOP 0.7.: Defibrilator und Notfallrucksack für alle Freiwilligen Feuerwehren in München; Beschluss des Kreisverwaltungsausschusses vom 28.07.2015 (SB); Sitzungsvorlage Nr. 14-20 / V 03674
+- TOP 0.9.: Straßenbegrünung Landlstraße; BA-Antrag Nr. 14-20 / B 01271 vom 09.06.2015; Antwortschreiben des Baureferats-Tiefbau vom 13.08.2015
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (5)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Festival der Marionetten Maatz im Weißenseepark vom 20.10. bis 02.11.2015; Zuleitung des KVR mit der Bitte um Stellungnahme bis 21.09.2015
+- TOP 0.2.: 18.jetzt - Fest junger Erwachsener im Rathaus am 17. Oktober 2015; Schreiben des Direktoriums mit der Bitte um Benennung zweier Vertretungen des BA 17 und Teilnahmebestätigung
+- TOP 0.3.: Standortsuche zur Errichtung einer Bikepolo-Anlage; Flächensuche für Bikepolo; Stadtratsantrag Nr. 08-14 / A 05148 vom 21.02.2014; Schaffung einer Spielstätte für Bikepolo im 18. Stadtbezirk; BA-Antrag Nr. 08-14 / B 05489 vom 17.12.2013; Fläche für Bikepolo; BA-Antrag Nr. 08-14 / B 05736 vom 11.03.2014; Beschlussentwurf des RBS für den Sportausschuss am 16.09.2015 mit der Bitte um Stellungnahme
+- TOP 0: zuletzt in den Unterausschuss verwiesene Themen: (6)
+- TOP 0.1.: Freischankfläche für "Feinkost Gustoteca", Tegernseer Landstraße 27; Beschluss des BA 17 aus der Juli-Sitzung; Nachfrage der BI Süd mit der Bitte um erneute Behandlung und Beschlussfassung (verwiesen aus der Sitzung des Ferienausschusses) - <div>nach Antrag</div>
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 6.6.4.1.1 Kleingaststätte "Cafe Bar Good Times", Schwanseestraße 81; Mitteilung vom 14.07.2015 6.6.4.1.2 SSW "Machete Bar Cantina", Bergstraße 5; Mitteilung vom 03.07.2015 - <div>Kenntnisnahme</div>
+- TOP 0.2.: Anhörungsrecht für den Bezirksausschuss bei der Neuvermietung der städtischen Immobilie St.-Martin-Straße 2 (Georg-Niedermair-Stiftung, Stadtbibliothek); BA-Antrag Nr. 14-20 / B 01205 vom 12.05.2015; Antwortschreiben des Sozialreferats vom 23.07.2015 - <div>Kenntnisnahme</div>
+- TOP 0.3.: Keine weiteren Schließungen von Filialen der HypoVereinsbank - Unicredit Bank in München; BA-Antrag Nr. 14-20 / B 00974 vom 10.03.2015; Antwortschreiben des RAW vom 28.07.2015 - <div>Kenntnisnahme</div>
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder anderen Fragen)" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 05.08.2015 mit der Bitte um Stellungnahme - <div>Abweichung von Referentenvorl.</div>
+- TOP 7.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung, Ziffer 4, Abschnitt Kreisverwaltungsreferat: "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in ein Entscheidungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 03.08.2015 mit der Bitte um Stellungnahme - <div>Verweisung an Fachausschuss</div>
+- TOP 7.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 13.08.2015 mit der Bitte um Stellungnahme - <div>Verweisung an Fachausschuss</div>
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Stellungnahme des BA 19 zur Thematik "Bürgerhaushalt" mit der Bitte um Kenntnisnahme - <div>Kenntnisnahme</div>
+- TOP 7.2.: Ausstattung der Freiwilligen Feuerwehr München mit Automatischen Externen Defibrilationsgeräten; Information der Budgetstelle im Direktorium vom 05.08.2015 - <div>Kenntnisnahme</div>
+- TOP 7.3.: Änderung der Satzung für die Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 10.06.2015 2. Umsetzung der Empfehlungen in eine Änderungssatzung Sitzungsvorlage Nr. 14-20 / V 03494; Beschluss des Verwaltungs- und Personalausschusses vom 15.07.2015 (VB) - <div>Kenntnisnahme</div>
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.4.: Mehr Mülleimer für den 17. Stadtbezirk; Bürgerantrag - <div>Verweisung an Fachausschuss</div>
+- TOP 0.6.6.6: Sonstiges
+- TOP 8.8.1.1: UA Bau/Planung/Wohnen
+- TOP 0.6.6.1: Bericht
+- TOP 0.6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.6.6.5: Anträge
+- TOP 8.8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt und Gesundheit
+- TOP 8.8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.8.1.6: UA lokale Wirtschaft und Arbeit
