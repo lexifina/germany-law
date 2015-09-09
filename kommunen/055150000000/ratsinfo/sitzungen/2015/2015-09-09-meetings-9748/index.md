@@ -1,0 +1,74 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-09-09T17:05:00+02:00
+- Ende: 2015-09-09T19:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9748
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9748
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00375951.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0025/2015 - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der FDP-Fraktion an den Rat A-R/0034/2015 "Weniger Kosten, weniger Sorgen - KiTa-Investorenmodelle ermöglichen" - einstimmig geändert beschlossen
+- TOP 3: Beschwerde nach § 24 GO NRW betreffend der Zuschüsse der Stadt an das Bistum Münster für die Papst-Johannes-Schule - einstimmig beschlossen
+- TOP 4: Jahresabschlüsse von Gesellschaften
+- TOP 4.1: Jahresabschluss 2014 der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 4.2: Jahresabschluss 2014 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 4.3: Jahresabschluss 2014 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 4.4: Jahresabschluss 2014 der AirportPark FMO GmbH - einstimmig beschlossen
+- TOP 4.5: Jahresabschluss 2014 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 4.6: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2014 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr 2014 und Rückgewährung - einstimmig geändert beschlossen
+- TOP 4.7: Jahresabschluss 2014 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 4.8: Jahresabschluss 2014 der GML Gewerbepark Münster-Loddenheide GmbH (GML GmbH) - einstimmig beschlossen
+- TOP 5: Nachhaltige städtische Finanzanlagen – Neufassung der städtischen Anlagerichtlinie - von der Tagesordnung abgesetzt
+- TOP 5.1: Nachhaltige städtische Finanzanlagen – Neufassung der städtischen Anlagerichtlinie - von der Tagesordnung abgesetzt
+- TOP 6: Zwischenbericht zur Haushaltswirtschaft - Finanzbericht 2.Quartal 2015 - zur Kenntnis genommen
+- TOP 7: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2015) - einstimmig beschlossen
+- TOP 8: Beantragung und Bewilligung von Zuschussmaßnahmen - einstimmig beschlossen
+- TOP 8.1: Beantragung und Bewilligung von Zuschussmaßnahmen
+- TOP 9: Sanierungs- und Investitionsmaßnahmen priorisieren - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Optimierung bürgerorientierter Dienstleistungen: - ohne Beschlussfassung geschoben
+- TOP 11: 1. Abbau geringfügiger Beschäftigungsverhältnisse bei der Stadt Münster - Antrag Nr. A-R/0051/2014 der SPD-Fraktion vom 27.11.2014 - von der Tagesordnung abgesetzt
+- TOP 12: Verordnung zur Aufhebung der Ordnungsbehördlichen Verordnungen vom 26.09.2013 und 07.05.2015 über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel und Hammer Straße am 25.10.2015 - einstimmig beschlossen
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, an zwei Sonntagen im Kalenderjahr 2016 - mehrheitlich beschlossen
+- TOP 14: Taxiordnung für die von der Stadt Münser zugelassenen Taxen - einstimmig beschlossen
+- TOP 15: Umsetzung des Gesetzes für die gleichberechtigte Teilhabe von Frauen und Männern - ohne Beschlussfassung geschoben
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 17: Änderung des Gesellschaftsvertrages der Wohnungsgesellschaft Große Lodden mbH (WGL) - einstimmig beschlossen
+- TOP 18: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - ohne Beschlussfassung geschoben
+- TOP 18.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020
+- TOP 19: Ausgleich von Mindereinnahmen im Ausbildungsverkehr - einstimmig beschlossen
+- TOP 20: Öffentliche Straßenbeleuchtung, Umrüstung auf LED-Technik - einstimmig beschlossen
+- TOP 21: 1. Änderung des Schulnamens der Karl-Wagenfeld-Realschule in Erna-de-Vries-Realschule, Städtische Realschule - einstimmig beschlossen
+- TOP 22: Neufassung der Satzung für die Volkshochschule der Stadt Münster - einstimmig beschlossen
+- TOP 23: Genehmigung einer Dringlichkeitsentscheidung: Dreifaltigkeitsschule VOF-Verfahren - einstimmig beschlossen
+- TOP 24: Landesprogramm "Kulturagenten für kreative Schulen NRW" - einstimmig beschlossen
+- TOP 25: Kindertagesbetreuungsbericht 2015/2016 - einstimmig beschlossen
+- TOP 25.1: Kindertagesbetreuungsbericht 2015/2016
+- TOP 26: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - - von der Tagesordnung abgesetzt
+- TOP 27: Ersatzbau und Erweiterung der Kindergruppe Kleine Wiese e.V. in Mitte - einstimmig beschlossen
+- TOP 28: Anregung gem. § 24 GO NRW, Nr.: 2014-00062 "Verantwortungsvolle Regulierung von Cannabis auf kommunaler Ebene" - mehrheitlich geändert beschlossen
+- TOP 29: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Holzrahmenbauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten - einstimmig beschlossen
+- TOP 29.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Holzrahmenbauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten
+- TOP 30: Genehmigung einer Dringlichkeitsentscheidung: Zusätzliche Finanzierungsbedarfe für die notwendige Möblierung von Übeergangseinrichtungen für Flüchtlinge - einstimmig beschlossen
+- TOP 31: Perspektivzentrum des Jobcenters - verbesserte Angebotsstruktur - einstimmig beschlossen
+- TOP 32: Bauleitplanung
+- TOP 32.1: Stadtbezirk Mitte
+- TOP 32.1.1: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 267 Teilabschnitt I: Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32.2: Stadtbezirk West
+- TOP 32.2.1: Vorhabenbezogene 6. Änderung des Bebauungsplans Nr. 396 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32.3: Stadtbezirk Hiltrup
+- TOP 32.3.1: Bebauungsplan Nr. 510 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32.4: Stadtbezirk Südost
+- TOP 32.4.1: Vorhabenbezogene 1. Änderung des vorhabenbezogenen Bebauungsplans Nr. 517: Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 33: Verschiedenes
+- TOP 34: Dringlichkeitsentscheidung - Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, Aktivierung weiterer Gebäude - einstimmig geändert beschlossen
