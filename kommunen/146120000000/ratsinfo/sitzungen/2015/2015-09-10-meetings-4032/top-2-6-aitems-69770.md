@@ -1,0 +1,8 @@
+# TOP 2.6: Vergabenummer: 5034/15 Grundhafter Ausbau "Am Spritzenberg" im OT Malschendorf, Los - Straßen- und Tiefbau
+
+- Sitzung: 16. Sitzung des Ausschusses für Wirtschaftsförderung (2015-09-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/69770
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/21138
