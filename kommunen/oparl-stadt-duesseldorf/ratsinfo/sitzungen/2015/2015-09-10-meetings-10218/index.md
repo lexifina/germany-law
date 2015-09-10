@@ -1,0 +1,89 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-10T14:00:00+02:00
+- Ende: 2015-09-10T20:15:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10218
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10218
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247073.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247073.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247073.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl einer Stadtkämmerin - mehrheitlich beschlossen
+- TOP 4: Wiederwahl von Frau Beigeordnete Stulgies - einstimmig beschlossen
+- TOP 5: Bestellung eines Stadtdirektors - einstimmig beschlossen
+- TOP 6: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 6.1: Anfrage aktuell von Bü90-Grü: Bäume auf der neuen Schadowstraße - beantwortet
+- TOP 6.2: Anfrage aus aktuellem Anlass der FDP-Ratsfraktion: Flüchtlingssituation - beantwortet
+- TOP 7: Anfragen - zur Kenntnis genommen
+- TOP 7.1: Anfrage der CDU-Ratsfraktion: "Abflug" der Lufthansa aus Düsseldorf - Was tut der Oberbürgermeister - beantwortet
+- TOP 7.2: Anfrage der CDU-Ratsfraktion: Sind Städtepartnerschaften noch zeitgemäß? - beantwortet
+- TOP 7.3: Anfrage Linke: Zwangsräumungen in Düsseldorf - beantwortet
+- TOP 7.4: Anfrage der Ratsfraktion DIE LINKE: Unterbringung anerkannter Flüchtlinge in Düsseldorf - beantwortet
+- TOP 7.5: Anfrage des Ratsherrn Lehne: Erstaufnahmestelle des Landes für Flüchtlinge? - schriftlich beantwortet
+- TOP 7.6: Anfrage des Ratsherrn Maniera: Entwicklung der Asylbewerber- und Flüchtlingszahlen 2015 - zur Kenntnis genommen
+- TOP 7.7: Anfrage der SPD-Ratsfraktion: Umrüstung von Gaslichtpunkten - schriftlich beantwortet
+- TOP 7.8: Anfrage des Ratsherrn Blanchard: Integrationskräfte in der offenen Ganztagsschule - schriftlich beantwortet
+- TOP 7.9: Anfrage des Ratsherrn Pfundner: Beschlagnahmung von Wohnungen für Flüchtlingsunterkünfte - schriftlich beantwortet
+- TOP 7.10: Anfrage des Ratsherrn Maniera: Kundgebungen und Gegenkundgebungen DÜGIDA und PEGIDA - schriftlich beantwortet
+- TOP 7.11: Anfrage des Ratsherrn Hartnigk: IPM-Schulbau-beschleunigte Maßnahmenumsetzung? - schriftlich beantwortet
+- TOP 8: Einbringung des Haushaltsplanentwurfs 2016 - zur Kenntnis genommen
+- TOP 9: Kämmererliste - zur Kenntnis genommen
+- TOP 10: Errichtung einer Lärmschutzanlage an der Kevelaerer Straße - Ausführungs- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 11: Verlängerung Böhlerstraße - einstimmig beschlossen
+- TOP 12: Straßenkanal (Regenwasser), Karl-Geusen-Straße - westlicher Seeheimer Weg - Ausführungs- und Finanzi - einstimmig beschlossen
+- TOP 13: Immigrather Straße 45, Stadtteiltreff Wersten, Neubau - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 14: Sanierung mechanische Reinigungsstufe Klärwerk Süd (803061 3011) - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 15: Umgestaltung Straßenzüge Friedrichstraße - Breite Straße und Kasernenstraße – Elisabethstraße - mehrheitlich beschlossen
+- TOP 16: Umsetzung Bäderkonzept: Oberkassel - einstimmig beschlossen
+- TOP 16.1: EA Bü90-Grü, SPD und FDP: Umsetzung Bäderkonzept 2020: Neubau Hallenbad Oberkassel - mehrheitlich beschlossen
+- TOP 17: Städtische Förderung zum Erwerb von Wohneigentum - Evaluation der städtischen Richtlinien - einstimmig beschlossen
+- TOP 18: Benennung einer Platzfläche nach Josef Kürten - einstimmig beschlossen
+- TOP 19: Annahme einer Spende im Zusammenhang mit dem Orkan Ela für die Neupflanzung von Bäumen in der Landes - einstimmig beschlossen
+- TOP 20: Nutzung einer Teilfläche des Nordparks im Rahmen der Messe Druck und Papier (Drupa) 2016 - einstimmig beschlossen
+- TOP 21: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur der Landesha - einstimmig beschlossen
+- TOP 22: Verleihung des Förderpreises für Wissenschaften - einstimmig beschlossen
+- TOP 23: Überarbeitung Richtlinie Förderung, Prämierung, Auszeichnung u. Vergabe Umweltpreis... - Beschluss - - einstimmig beschlossen
+- TOP 24: ARTIG Zentrale für Culturelle Entwicklung/Bericht - einstimmig beschlossen
+- TOP 25: Änderung der öffentlich-rechtlichen Vereinbarung mit dem Kreis Mettmann zur Mitbenutzung des Sondera - einstimmig beschlossen
+- TOP 26: Public Corporate Governance Kodex für die Beteiligungen der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 26.1: EA Die Linke: Corporate Governance Kodex für die Beteiligungen der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 27: Einrichtung eines Gebietszentrums innerhalb des Competence Centers Beihilfe - einstimmig beschlossen
+- TOP 28: Entsendung von Vertretern der Landeshauptstadt Düsseldorf in die Ausschüsse der Deutschen Sektion de - einstimmig beschlossen
+- TOP 29: Bestellung von Mitgliedern in den Euregiorat des Zweckverbandes Euregio Rhein-Waal - einstimmig beschlossen
+- TOP 30: Mitgliedschaft der Landeshauptstadt Düsseldorf in den Zweckverband euregio rhein-maas-nord und Beste - einstimmig beschlossen
+- TOP 31: Aufsichtsrat der Düsseldorf Marketing & Tourismus GmbH – Ersatzwahl - einstimmig beschlossen
+- TOP 32: Aufsichtsrat der NRW-Forum Düsseldorf gGmbH - Neuwahl - einstimmig beschlossen
+- TOP 33: AR Neue Schauspiel Gesellschaft - - Neuwahl der städt. Vertreter/innen nach Änderung des Gesellschaf - einstimmig beschlossen
+- TOP 34: Neu- bzw. Wiederbestellung von Mitgliedern des Gutachterausschusses für Grundstückswert - einstimmig beschlossen
+- TOP 35: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland-Ersatzbestellungen - einstimmig beschlossen
+- TOP 36: Polizeibeirat - einstimmig beschlossen
+- TOP 37: Genehmigung einer dringlichen Entscheidung gemäß § 60 Abs.1 S.2 GO NRW: Errichtung von insgesamt zwe - mehrheitlich beschlossen
+- TOP 38: Sitzungsgelder für Sitzungen des Seniorenrates, des Jugendrates und des Beirates für Menschen mit Be - einstimmig beschlossen
+- TOP 39: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldor - einstimmig beschlossen
+- TOP 40: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 41: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 42: Erhaltungssatzungen im SB 4 Zustimmende Kenntnisnahme - mehrheitlich beschlossen
+- TOP 43: Anträge
+- TOP 43.1: Antrag Die Linke: Kein Empfang und keine Unterstützung für Schießwettbewerb der Bundeswehr - mehrheitlich beschlossen
+- TOP 43.2: Antrag Die Linke: Kein Werben fürs Sterben - mehrheitlich beschlossen
+- TOP 43.3: Antrag Die Linke: Honorarordnung der VHS anpassen - vertagt
+- TOP 43.4: Antrag DIE LINKE: Bäderkonzept 2020 - mehrheitlich beschlossen
+- TOP 43.5: Antrag der Ratsfraktion DIE LINKE: Wohnungen statt Zelte - mehrheitlich beschlossen
+- TOP 43.6: Antrag der Ratsfraktion DIE LINKE: Kita-Streik verhindern
+- TOP 43.7: Antrag der Ratsfraktion DIE LINKE: Integrationskräfte in der Ferienbetreuung - zurückgezogen
+- TOP 43.8: Antrag SPD,BÜ90-GRÜ und FDP: Finanzielle Unterstützung der Kommunen bei der Versorgung und Unter
+- TOP 43.9: Antrag von, SPD, BÜ90-GRÜ und FDP:Neue Bleiberechtsregelung: sicherer Aufenthalt
+- TOP 43.10: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Schwimmbad im Rhein – Anker für neues urbanes L
+- TOP 43.11: Antrag CDU: Finanzielle Unterstützung der Kommunen bei der Versorgung und Unterbringung von Flüchtli
+- TOP 44: Konzept für ein beim Büro für die Gleichstellung von Frauen und Männern angesiedeltes Diversity-Mana - mehrheitlich beschlossen
+- TOP 45: Bestelung beratender Mitglieder in Ausschüsse - einstimmig beschlossen
+- TOP 46: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zur Kenntnis genommen
