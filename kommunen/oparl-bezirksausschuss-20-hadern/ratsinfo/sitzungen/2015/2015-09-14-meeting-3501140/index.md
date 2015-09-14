@@ -1,0 +1,103 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501140
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501140
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Immastraße: einseitiges Haltverbot
+- TOP 1.2.: Sitzgelegenheit Bushaltestelle "Am Hedernfeld Nord", Buslinie 167
+- TOP 1.3.: Antrag auf Verbot von diesel- und benzinbetriebenen Laubbläsern im gesamten Stadtgebiet
+- TOP 1.4.: Radfahren am Haderner Stern
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Verkehrsführung von der BAB A 96 zur BAB A 95 (SPD-Fraktion)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Sang&Klang in EdH e.V. Werk "Carmina Burana" vom 24. - 30.06.2016
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung, Ziffer 4 Abschnitt Kreisverwaltungsreferat: "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in eine Entscheidungsrecht (Direktorium, 03.08.15)
+- TOP 6.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder anderer Fragen) in ein Anhörungsrecht (Direktorium, 05.08.15)
+- TOP 6.3.: Pirmaterstr. 10, Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid (Referat für Stadtplanung und Bauordnung, 11.08.15)
+- TOP 6.4.: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht (Direktorium, 13.08.15)
+- TOP 6.5.: Austausch von Lichtzeichenanlagen, Würmtal- / Eichenstraße (Kreisverwaltungsreferat, 14.08.15)
+- TOP 6.6.: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht (Direktorium, 28.08.15)
+- TOP 6.7.: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung ?Grundsätzliche Fragen der Müllbeseitigung? in ein An-hörungsrecht (Direktorium, 28.08.15)
+- TOP 6.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes Am Hedernfeld 5 (Kreisverwaltungsreferat, 03.09.15)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Pirmaterstr. 10, Baumbestandsplan
+- TOP 7.2.: Geroldseckstr. 10, 2 Tannen, 2 Kiefern, 1 Fichte, 1 Lärche
+- TOP 7.3.: Altenastr. 14, 1 Kirsche
+- TOP 7.4.: Waldesruhe 36, 1 Tanne
+- TOP 7.5.: Magnolienweg 4, 1 Tanne
+- TOP 7.6.: Terofalstr. 103-125, 1 Hainbuche
+- TOP 7.7.: Gräfelfinger Str. 132, 3 Fichten
+- TOP 7.8.: Maenherstr. 13, Baumbestandsplan
+- TOP 7.9.: Cochemstr. 8, 1 Birke
+- TOP 7.10.: Am Waldspitz 28, 1 Fichte
+- TOP 7.11.: Waldgartenstr. 23, 1 Birke
+- TOP 7.12.: Toemlingerstr. 25, 2 Birken
+- TOP 7.13.: Hertlstr. 3, 1 Tanne
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Waldfriedhof (Baureferat, 13.08.15)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Regionalmanagement München Südwest: Entwurf des Förderantrags und der Vereinssatzung (Referat für Stadtplanung und Bauordnung, 28.07.15)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Pfundmayerstraße (Sozialreferat, 28.07.15)
+- TOP 8.3.: Änderung bzw. Ergänzung der verkehrsaufsichtlichen Erlaubnis vom 07.07.15, Inanspruchnahme von öffentlichem Verkehrsgrund vom 24.08.-25.09.15, Immastr. 11 (Kreisverwaltungsreferat, 03.08.15)
+- TOP 8.4.: Stiftsbogen 74: Leistungssteigerung eines Blockheizkraftwerkes von 998 kW auf eine Feuerungswärmeleistung von 1291 kW (Referat für Umwelt und Gesundheit, 07.08.15)
+- TOP 8.5.: Hubschrauberflugplatz München-Klinikum Großhadern; Niederschrift über die Besprechung am 22.06.15 (Bayerisches Staatsministerium des Inneren, für Bau und Verkehr, 29.07.15)
+- TOP 8.6.: ÖPNV-Offensive IV ? Waldwiesenstraße Bushaltestelle ?Großhadern? (Baureferat, 21.08.15)
+- TOP 8.7.: Beschleunigung Buslinie 56 / 166 ? Waldwiesenstraße Bushaltestelle ?Am Ährenfeld? (Baureferat, 21.08.15)
+- TOP 8.8.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Jahresdrehgenehmigung 15.09.15-14.04.16 (Kreisverwaltungsreferat, 27.08.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Gestaltung der Unterführung Silberdistelstraße (Baureferat, 29.07.15)
+- TOP 9.2.: Heiglhofstraße / Ecke Farnweg; Aufstellung eines Mülleimers unter dem BA-Schaukasten (Baureferat, 13.08.15)
+- TOP 9.3.: Bauvorhaben Pfingstrosenstraße in Höhe Hausnummer 55 (Baureferat, 20.08.15)
+- TOP 9.4.: Versand des Mehrjahresinvestitionsprogramms (Stadtkämmerei, 01.09.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Änderung der Bezirksausschuss-Satzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate; BA-Antrag Nr. 14-20 / B 01264 des BA 20 Hadern vom 08.06.15 - BA 16 Ramersdorf-Perlach vom 22.07.15 - BA 22 Aubing-Lochhausen-Langwied vom 23.07.15 - BA 18 Untergiesing-Harlaching vom 24.07.15
+- TOP 10.2.: Haltestelle "Blumenau" Anschlusssicherung der Buslinien 56 und 168 (MVG, 20.07.15) BA-Antrag Nr. 14-20 / B 01262
+- TOP 10.3.: Eichhornstraße und Platanenstraße: Spielstraße (Polizeiinspektion 41, 04.08.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 29.06.15 (Sozialreferat, 24.07.15)
+- TOP 11.2.: Stadtteilwoche 2016; Vorbereitungstreffen am 10.11.15 und 19.01.16, jeweils 19.00 Uhr im Theatersaal des Wohnstifts Augustinum, Stiftsbogen 74 (Kulturreferat, 30.07.15)
+- TOP 11.3.: ]18.jetzt[ - Fest junger Erwachsener am 17.10.15; Einladung (Direktorium, 05.08.15)
+- TOP 11.4.: Thematik Bürgerhaushalt: Stellungnahme des BA 19 (Direktorium, 07.08.15)
+- TOP 11.5.: Bus & Bahn Begleitservice (Behindertenbeirat, 12.08.15)
+- TOP 11.6.: Regionalgespräche mit der Lokalbaukommission; Terminvorschläge (Referat für Stadtplanung und Bauordnung, 25.08.15)
+- TOP 11.7.: Terminplanung 2016
+- TOP 11.8.: Regionale Wohnungsbaukonferenz am 18.03.2015 im Alten Rathaussaal München, hier: Dokumentation (Oberbürgermeister Reiter, 07.09.15)
+- TOP 11.9.: Information zum Start MVG Rad (SWM, 04.09.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 29.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03567 (nach Antrag): Betriebsaufnahme der stadtteilkulturellen und bürgerschaftlichen Einrichtung im Gebäude Guardinistr. 90 Kosten in 2016 (Rumpfjahr) = 110.310,-- ?, ab 2017 = 130.746,-- ? (Anlage, Seite 5)
+- TOP 12.2.: Beschluss vom 01.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03195 (nach Referentenantrag idF von 2 mündlichen Ergänzungsanträgen vom 23.06.2015 zu Punkt 3 und 4): Umsetzungsbeschluss zum Fahrradvermietsystem 'MVG Rad' - II; Konzeptvorstellung und Regelung der Sondernutzungsgebühren für Vermietstationen Fahrradtypen/Mobilitätshilfen für Menschen mit Mobilitätseinschränkungen
+- TOP 12.3.: Beschluss vom 29.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03026 (nach Referentenantrag idF des Änderungsantrages vom 29.07.2015): Koordination und Service im Radverkehr, a) Radwegsbeauftragte oder -beauftragter, b) Konzept zur Bearbeitung von Anregungen und Beschwerden, c) Anträge
+- TOP 12.4.: Beschluss vom 29.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03161 (nach Referentenantrag idF des Ausschussbeschlusses vom 08.07.2015 zu Punkt 2): Wohnen in München VI-Zeitplan und Themenvorschau, Zielzahl für den Wohnungsbau erhöhen Jährlich sollen 1.800-2.000 Wohnungen gefördert werden (Punkt 2).
+- TOP 12.5.: Beschluss vom 08.07.2015 zur Sitzungsvorlage Nr. 14-20 / V 03603 (Vertagt): Nahverkehrsplan (NVP) der Landeshauptstadt München; Dieser Plan wird vom BA Hadern abgelehnt (Beschluss vom 11.05.2011, Seite 29) a) Sachstandsbericht, b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards, c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen, d) Vergabe von Beratungs- und Gutachterleistungen, e) Anträge und Empfehlungen, insbesondere zur ?Verlängerung der U5 nach Pasing? (Seite 7-8) zur ?Verlängerung der U6 nach Martinsried? (Seite 9) und zur ?Tram-West-Tangente von Neuhausen nach Obersendling? (Seite 10-11). Im Zuge dieser Maßnahme soll am S-Bahnhof ?Laim? ein 4. S-Bahn-Gleis eingerichtet werden (Seite1). Der Abzweig vom ?Waldfriedhof? zum ?Lorettoplatz? entfällt (Beschluss vom 24.07.2013, Seite 6): Mit dem Bau der U-Bahn-Strecke vom ?Klinikum Großhadern? nach ?Martinsried? soll Ende 2016 begonnen werden. Der Betriebsbeginn ist für 2020 vorgesehen. Die Baukosten werden zu 95 % vom Freistaat Bayern und vom Bundesver- kehrsministerium übernommen.
+- TOP 12.6.: Beschluss vom 29.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03591 (nach Antrag): Regionalmanagement in der Region München a) Regionalmanagement München Südwest: Gründung eines interkommunalen Vereins b) Region München gemeinsam entwickeln (II) Stadt und Umland: Verbesserung der interkommunalen Zusammenarbeit durch Regionalmanagement Der BA Hadern hat dieser BV zugestimmt. Zum Vereinsgebiet gehören neben den Umlandgemeinden im Münchner Süd-westen die Stadtbezirke 19-22 (§1 Abs. 2 der Vereinssatzung).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 16.07.15 zur Sitzungsvorlage Nr. 14-20 / V 02923 (nach Referetenantrag abgelehnt unter Berufung auf den ?Grundsatzbeschluss? vom 18.04.2002): Wegebenennung in Grünanlagen ermöglichen; Benennung von Grünanlagen und Wegebenennung in Grünanlagen; Benennung von Straßen und Wegen in Grünzügen; Erneute Befassung des Stadtrates mit dem Thema "Benennung von Straßen und Wegen in Grünzügen" Der BA Hadern hatte dieses Benennungsrecht gefordert (Seite 4, Anlage 4).
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03433 (nach Antrag): Freiflächengestaltungssatzung ändern, Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik (Abgelehnt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15 zur Sitzungsvorlage Nr. 14-20 / V 02900 (Vertagt): Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Wird vom Planungsreferat abgelehnt unter Berufung auf das vorhandene ?Zentrenkonzept?)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (nach Antrag)- Teil 1: Änderung der Satzung für die Bezirksausschüsse der LH München (BA-Satzung) 1. Vorberatung durch die BA-Satzungskommission vom 10.06.15: a) Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" Für ?überörtliche Veranstaltungen der städtischen Kulturinstitute und kulturelle Sonderveranstaltungen des Kulturreferates, z.B. temporäre Kunst im öffentlichen Raum? wird ein ?Unterrichtungsrecht? (U) eingefügt (BA-Katalog = Anlage 1 zur BA-Satzung, Abschnitt ?Kulturreferat?, Nr. 7 idF des § 1 Nr. 3 des Entwurfs der Änderungssatzung). Der BA Hadern unterstützt den Antrag des BA 3 Maxvorstadt (Beschluss vom 11.08.2014, Anlage I.38).
+- TOP 12.2.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (nach Antrag) - Teil 2: b) Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen, Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz (Entscheidungsrecht für die Bezirksausschüsse) Für die ?Genehmigung von gewerblichen, mehrtägigen Veranstaltungen auf öffentlichem Grund und in städtischen Grünanlagen? wird ein ?Unterrichtungsrecht? (U) eingeführt (BA-Katalog = Anlage 1 zur BA-Satzung, Abschnitt ?KVR?, Nr. 20 lit.c, idF von § 1 Nr. 2 des Entwurfs der Änderungssatzung). Der BA Hadern unterstützt den Antrag der Bezirksausschüsse 6 und 9 (Anlage II.45). c) Erlaubnis von Vergnügungsveranstaltungen nach Art. 19 LStVG (= Bayer. Landesstraf- und Verordnungsgesetz), Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung Der BA Hadern stimmt dem ablehnenden Referentenantrag des Direktoriums zu (Beschluss vom 09.02.2015, Anlage III.30).
+- TOP 12.3.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (nach Antrag) - Teil 4: g) Kinderbetreuungskosten während der BA-Tätigkeit, Änderung der BA-Satzung Erstattungsfähig sind Kosten iHv 5 x 12,-- ? = 60,-- ? / Sitzung (§ 18 Abs. 10 der BA-Satzung idF des Entwurfs der Änderungssatzung). Der BA Hadern stimmt dieser Satzungsänderung zu (Beschluss vom 13.04.2015, Anlage VII.32). h) Satzungsänderung zum Anhörungsrecht nach § 13 Abs. 2 BA-Satzung Der BA Hadern schließt sich dem ablehnenden Referentantrag an (Beschluss vom 13.04.2015, Anlage VIII.28). i) Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen, Änderung der BA-Geschäftsordnung Der BA Hadern stimmt der vorgeschlagenen Ergänzung des § 7 Abs. 1 der BA-Geschäftsordnung (GeschO) um einen neuen Satz 4 (Einwohnersprechstunde) zu. Die beantragte Änderung des § 9 Abs. 6 der BA-GeschO (Worterteilung an Einwohner und Interessengruppen) wird vom BA Hadern abgelehnt (Beschluss vom 13.04.2015, Anlage IX.26). 2. Umsetzung der Empfehlungen in einer Änderungssatzung
+- TOP 12.4.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (nach Antrag) - Teil 3: d) Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM- Gelände Der BA Hadern unterstützt den Antrag des BA 12 (Beschluss vom 03.04.2015, Anlage IV.28). e) Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Der BA Hadern lehnt in Übereinstimmung mit dem BA 2 die von der Verwaltung vorgeschlagene Änderung ab (Beschluss vom 13.04.2015, Anlage V.29). f) Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse Die Zahl der entschädigungsfähigen Sitzungen wird rückwirkend ab 01.01.2015 ?von 60 auf 72? bzw. ?von 48 auf 60? erhöht (§ 18 Abs. 4 Satz 1 lit. a und b der BA-Satzung idF des § 2 des Entwurfs der Änderungssatzung). Der BA Hadern unterstützt diese Satzungsänderung (Beschluss vom 13.04.2015, Anlage VI.72).
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
