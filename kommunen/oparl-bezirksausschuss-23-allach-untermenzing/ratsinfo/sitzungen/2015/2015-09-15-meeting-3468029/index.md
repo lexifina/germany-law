@@ -1,0 +1,109 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-09-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3468029
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3468029
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Protokoll der Sitzung vom 14.07.2015
+- TOP 1.2.: Protokoll des Ferienausschusses vom 11.08.2015
+- TOP 1.3.: Protokoll der Einwohnerversammlung vom 22.07.2015
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll UA Planung und Bau vom 10.07.2015
+- TOP 1.4.2.: Protokoll UA Kultur vom 18.08.2015
+- TOP 1.4.3.: Protokoll UA Familie, Bildung und Soziales vom 01.09.2015
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Geplantes Asylantenheim für unbegleitete Flüchtlinge Obere Mühlstraße
+- TOP 2.2.: Straßenüberquerung am Pasinger Heuweg / Kreuzung Mühlangerstraße
+- TOP 2.3.: Sperrung Schöllstraße vom 20.07.15 - 24.07.15
+- TOP 2.4.: MVV-Fahrplan am Sonntag
+- TOP 2.5.: Wiedereröffnung des Allacher Sommerbades
+- TOP 2.6.: Würm-Grünzug/Beergelände/Behringstraße (Fahrradstraße); Grundstücksverkauf an Fa. Thyssen Dück GmbH, Schrotthandel
+- TOP 3: Anträge
+- TOP 3.1.: Flüchtlingsunterkunft (UMF) Obere Mühlstraße
+- TOP 3.2.: Haltverbot Kreuzung Franz-Albert-Straße / Nigglstraße zwischen Hsnr. 9-11
+- TOP 3.3.: Fußgänger Symbol beidseitig für Gehwege in der Manzostraße
+- TOP 3.4.: Spielmöglichkeiten Tubeufstraße
+- TOP 3.5.: Wlan Tubeufstraße
+- TOP 3.6.: Fahrräder für Flüchtlingsunterkünfte
+- TOP 3.7.: Sanitäreinrichtungen Tubeufstraße
+- TOP 3.8.: Aufenthaltsraum Tubeufstraße
+- TOP 4: Entscheidungen
+- TOP 4.1.: (E) Budget der Bezirksausschüsse TSV Allach 09 Turnen und Handball e.V. Beschaffung von Trainingsjacken
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Verein für Jugend-, Alten- und Familienpflege in Allach-Untermenzing e.V. Schulfrühstück
+- TOP 3: (E) Prüfung Zweckentfremdung als Arbeiterwohnheim in der Eversbuschstr. 186 (Antrag 14, Ziffer 1) Empfehlung Nr. 14-20 / E 00522 ...........................
+- TOP 5: Anhörungen
+- TOP 5.1.: Wiedereröffnung des Allacher Sommerbades BV-Empf. 00527 der Bürgerversammlung vom 23.06.2015
+- TOP 5.2.: Neubau eines Stadtteilkulturzentrums und Ertüchtigung des bestehenden Vereinsheims im 23. Stadtbezirk Allach-Untermenzing BV-Empf. 01915 und 01917 der Bürgerversammlung vom 23.07.13
+- TOP 5.3.: 1. Verkauf des Grundstücks Eversbuschstraße 155/157, Flurnummer 81, 82, 82/2, 101/7 in Allach 2. Bürgerhaus für Allach-Untermenzing
+- TOP 5.4.: Bürgerzentrum Allach-Untermenzing
+- TOP 5.5.: Neuplanung des Pflegeheims an der Franz-Nißl-Straße und Prüfung Erhalt des Hans-Sieber-Hauses BV-Empf. 00517 der Bürgerversammlung vom 23.06.15
+- TOP 5.6.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderung der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht
+- TOP 5.7.: Bauvorhaben Penzoltstr. 19, Flurst. 351/4 Errichtung von Dachaufbauten
+- TOP 5.8.: Dachauer Str. 667, Gemarkung Allach, FlMr.: 1409/4 Neubau eines Forschungs- und Entwicklungsgebäudes mit Büro-, Werkstatt- und Lagerflächen (Dachauer Str. 667/Otto-Warburg-Str.)
+- TOP 5.9.: Bauvorhaben Pfarrer-Grimm-Str. 3, Flurst. 266/0 Nutzungsänderung: Hausmeisterwohnung zu Mittagsbetreuung
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss der Vollversammlung des Stadtrates vom 29.07.2015: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich Pasteurstraße (südlich), Georg-Reismüller-Straße (östlich), Bahnlinie München-Treuchtlingen (westlich) B) Bebauungsplan mit Grünordnung Nr. 2103, Georg-Reismüller-Straße (östlich), Ludwigsfelder Straße (südlich), Bahnlinie München-Treuchtlingen (westlich) und imaginäre Verlängerung der Höcherstraße (nördlich) (Aufhebung oder Verdrängung des Bebauungsplanes mit Grünordnung Nr. 1904) C) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbes; weiteres Vorgehen (Sitzungsvorlage Nr. 03479)
+- TOP 6.2.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015: Unterbringung von Flüchtlingen und Wohnungslosen/Flüchtlingen in kommunaler Zuständigkeit; 7. Standortbeschluss (Sitzungsvorlage Nr. 03729)
+- TOP 6.3.: Beschluss der Vollversammlung vom 29.07.15: Schulbauoffensive 2013-2030 (Sitzungsvorlage Nr. 03448)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Teilnahme Projekt "München lebt interkulturelle Vielfalt"
+- TOP 7.2.: 18.jetzt - Fest junger Erwachsener im Rathaus am 17.10.2015
+- TOP 7.3.: Regionalgespräch 2015 mit LBK 17.11.2015 oder 19.11.2015
+- TOP 7.4.: Bürgeranträge zur Einwohnerversammlung vom 22.07.15
+- TOP 7.5.: Sitzungstermine 2016 (Entwurf)
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Sozialreferat vom 11.08.2015: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Wilhelm-Zwölfer-Str. 28a
+- TOP 9.2.: Schreiben Sozialreferat vom 28.08.15: Höheres Kontingent an Streetworkern für den Stadtbezirk 23 Allach-Untermenzing
+- TOP 9.3.: Schreiben Baureferat vom 10.08.15: Sanierung des Rettungsweges in Verlängerung der Goteboldstraße
+- TOP 9.4.: Schreiben Baureferat vom 25.08.2015: Zusätzliche Fahrradstellplätze auf der Ostseite der Unterführung am S-Bahn Haltepunkt Allach Zusätzliche Fahrradstellplätze am S-Bahn Haltepunkt Untermenzing
+- TOP 9.5.: Schreiben Baureferat vom 12.08.15: Geplante Öffnung des Grundstücks zwischen Stieglstraße und August-Föppl-Straße, Flurnr. 219/21 und 22
+- TOP 9.6.: Schreiben Referat für Gesundheit und Umwelt vom 18.08.15: Änderungsgenehmigung Fa. MTU Aero Engines AG; Erweiterung un die neu zu errichtenden Kabinen 11 und 12
+- TOP 9.7.: Schreiben Referat für Bildung und Sport vom 20.08.15: Neugestaltung des Pausenhofs der Carl-Spitzweg-Realschule in der Zwiedineckstr. 35; Antrag aus der Kindersprechstunde des Bezirksausschusses 21 Pasing-Obermenzing
+- TOP 9.8.: Schreiben Kreisverwaltungsreferat vom 27.08.15: Jahresdrehgenehmigung Bayer. Rundfunk "FreitagsComedy Grünwald"
+- TOP 9.9.: Schreiben Kreisverwaltungsreferat vom 25.08.15: Antrag auf Haltverbot gegnüber der Zufahrt zur Theodor-Fischer-Straße 37
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.08.15: Verlängerung des Lippweges zur Eversbuschstraße ; BV-Empf. 00516 vom 23.06.15
+- TOP 9.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.08.15: Planung weiterer Nord-Süd-Verbindungen zur Eversbuschstraße; BV-Empf. 00514 vom 23.06.15
+- TOP 9.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.08.15: Ablehnung Fällungsantrag: Ernst-Haeckel-Str. 90, Hortigstr. 12-12b, Kunstmannstr. 7, Bauschweg 6, Klessingweg 29
+- TOP 9.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.08.15: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben: Behringstr. 83
+- TOP 9.14.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Auenbruggerstr. 26, Dachauer Str. 1 (mit Gutachten), Dachauerstr. 2, August-Föppl-Str. 18, Nußhäherstr. 33, Von-Kahr-Str. 11, Hubert-Beckers-Str. 13, Stieglstr. 46
+- TOP 9.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.08.15, 18.08.15, 24.08.15, 31.08.15: Bauanträge (03.08.-09.08.15, 10.08.-16.08.15, 17.08.-23.08.15, 24.08.-30.08.15)
+- TOP 9.16.: Schreiben Stadtwerke München vom 10.08.15, 17.08.15, 24.08.15, 31.08.15: Baumaßnahmen
+- TOP 9.17.: Schreiben BA 22 Aubing-Lochhausen-Langwied vom 20.08.15: Verkehrsberuhigung der Wohngebiete Alte Allee, Bergsonstraße und Pippinger Straße nördlich
+- TOP 9.18.: Schreiben BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 07.08.15: Stellungnahme zur Thematik Bürgerhaushalt
+- TOP 9.19.: Schreiben Behindertenbeirat vom 12.08.15: Bus & Bahn Begleitservice
+- TOP 9.20.: Schreiben Münchner Selbsthilfezentrum vom 02.09.15: Selbsthilfejournal Einblick 03/2015
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Antrag Verbot Laubbläser
+- TOP 10.2.: Abfallkorb am nördlichen Eingang zur Würm-Grünanlage an der Behringstraße Links-Abbiege-Situation Behring-/Nigglstraße
+- TOP 10.3.: Anhörung: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht
+- TOP 10.4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder andre Fragen)" in ein Anhörungsrecht
+- TOP 10.5.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung" in ein Anhörungsrecht
+- TOP 10.6.: Theodor-Fischer-Str. 79, Gemarkung: Untermenzing, Fl.Nr.: 1041/8 Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 10.7.: Umlauf: Schreiben Oberbürgermeister vom 07.09.15: Regionale Wohnungsbaukonferenz am 18.03.15 i Alten Rathaussaal München Hier: Dokumentation
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 01.09.15: Verkehrsberuhigung der Wohngebiete Alte Allee, Bergsonstraße und Pippinger Straße nördlich; Variante 3b zur Anbindung der Mühlangerstraße an den Obermenzinger Kreisel; Workshop mit den Bezirksausschüssen 21, 22 und 23
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 07.09.15: Bauanträge (31.08.-06.09.15)
+- TOP 10.10.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Manzostr. 12, Jennerstr. 27, Finsterwalderstraße 43, Karl-Hänel-Str. 11, Spiegelbergstr. 27
+- TOP 10.11.: Schreiben Kreisverwaltungsreferat vom 02.09.15: Verkehrssituation Pasteurstraße
+- TOP 10.12.: Schreiben Kreisverwaltungsrefert vom 07.09.15: Verbesserung des Verkehrsflusses im Paul-Ehrlich-Weg
+- TOP 10.13.: Schreiben Kreisverwaltungsreferat vom 03.09.15: Drehgenehmigung, Goteboldstr. 117
+- TOP 10.14.: Schreiben Kreisverwaltungsreferat vom 09.09.15: Sperre Gleichplatz 8 bis 9 vom 14.09.15-30.11.15
+- TOP 10.15.: Schreiben Baureferat vom 07.09.15: Mülleimer am Grünstreifen an der Behringstraße
+- TOP 10.16.: Schreiben Stadtwerke München vom 07.09.15: Baumaßnahmen der Stadtwerke
+- TOP 10.17.: Schreiben Stadtwerke München vom 04.09.15: Information zum Start MVG Rad
+- TOP 10.18.: Stadtrats- und Ausschussbeschluss: Beschluss der Vollversammlung des Stadtrates vom 29.07.2015: a) REGSAM - Ein starkes Netwerk für München; Trägerantrag auf Ressourcenerweiterung; Antrag des BA 16 auf eigene REGSAM-Stelle (Sitzungsvorlage Nr. 01463) b) Leistungsprogramm der MVG für die Fahrplanperiode 2016 (Sitzungsvorlage Nr. 03316)
+- TOP 10.19.: Beschluss des Bauausschusses vom 22.09.15: Toilettenanlage im Maßmannpark; Öffentl. Toiletten in Grünanlagen; Öffentl. Toiletten - Konzept "Nette Toilette" für Spiel- un Bolzplätze (Sitzungsvorlage Nr. 03798)
