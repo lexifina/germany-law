@@ -1,0 +1,7 @@
+# TOP .4.: Schreiben eines Bürgers aus der Maxvorstadt vom 17.08.2015 Müllproblem in der Karlstraße zwischen Luisen- und Augustenstraße
+
+- Sitzung: BA 03 - Vollgremium (2015-09-15)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/411471
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/411471
