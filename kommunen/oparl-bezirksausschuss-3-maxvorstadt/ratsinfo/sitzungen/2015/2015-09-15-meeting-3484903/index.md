@@ -1,0 +1,111 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484903
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484903
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .1.: Beantwortung der Fragen aus der Sitzung vom 14.07.2015
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben eines Bürgers aus der Maxvorstadt vom 21.07.2015 Kreuzung Görres-/Augustenstraße; Wildparken auf Fußgängerfurten
+- TOP .2.: Schreiben eines Bürgers aus der Maxvorstadt vom 31.07.2015 incl. Antwort des Kreisverwaltungsreferats; Baustellenbedingte Einbahnstraßenregelung in der Türkenstraße
+- TOP .3.: Schreiben eines Bürgers aus der Maxvorstadt vom 04.08.2015 Grünanlage an der Ecke Schelling-/Luisenstraße
+- TOP .4.: Schreiben eines Bürgers aus der Maxvorstadt vom 17.08.2015 Müllproblem in der Karlstraße zwischen Luisen- und Augustenstraße
+- TOP .5.: Schreiben eines Bürgers aus der Maxvorstadt vom 05.09.2015 Überwachung der Fahrradstraßen in München
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: Baureferat Tiefbau Vorstellung der Pläne zur Neugestaltung des Bereiches um das Siegestor (zugleich Anhörung)
+- TOP 5.3.6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.3.1.: Freischankfläche Adalbertstraße 28 - Genehmigung auf Verlängerung durch den Bezirksausschuss 3 Maxvorstadt nicht erteilt
+- TOP 5.3.2.: Reinigungsmaßnahmen an den Mauern des Alten Nordfriedhofes; Prüfung inwiefern die Mauern begrünt werden können
+- TOP 5.3.3.: Kreisverwaltungsreferat, Straßenverkehr, Zwischennachricht Abmarkierter Fahrradweg auf der östlichen Fahrspur des Oskar-von-Miller-Rings zwischen Briener Straße und Gabelsbergerstraße, BA-Antrag Nr. 14-20 / B 01075 vom 12.05.2015
+- TOP 5.3.4.: Künstlerische Aufwertung der Unterführung in der Ludwigstraße / Ecke Altstadtring
+- TOP 5.3.5.: Aufnahme des "Kinder von gestern" e.V. (Jugendzentrum für Senioren) in der Schleißheimer Straße 53 in die Regelförderung des Sozialreferates
+- TOP 5.3.6.: Baureferat ? Tiefbau, Straßenunterhalt, Antwortschreiben Schrotträder im Umfeld des U-Bahnhofs Theresienstraße und am Josephsplatz umgehend entfernen; BA-Anträge Nr.: 14-20 / B 01296 und 14-20 / B 01297 vom 16.06.2015
+- TOP 5.3.7.: 6.8 Baureferat ? Tiefbau, Antwortschreiben Baumfällungen am zukünftig wegfallenden Parkplatz Zentner- / Görresstraße BA-Antrag Nr.: 14-20 / B 01294 vom 16.06.2015
+- TOP 5.3.8.: Den Gastwirtschaften in der Maxvorstadt soll untersagt werden, ihre alkoholischen Getränke für den Verzehr auf offener Straße in Plastikbechern oder anderen Einweggefäßen auszuschenken.
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 3 Begrünung der Maxvorstadt
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: LBK-Listen der Bauvorhaben: 31., 32., 33. KW
+- TOP 7.2.: Listen der Abgeschlossenheitsbescheinigungen: 32., 33. KW
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung,Stadtplanung, Anhörung vorhabenbezogener Bebauungsplan Nr. 2082a, Katharina-von-Bora-Straße (östlich) und Karlstraße (nördlich)
+- TOP 7.4.: Seidlstr. 27, Vorbescheid - Erneuerung der Fassade, Erweiterung EG, Umnutzung EG + 1. OG von Büro in Verkaufs- bzw. Gaststätte, Neubau Penthouse mit Terrasse
+- TOP 7.5.: Karlstr. 47a, Errichtung einer Freischankfläche (85 m² / 100 Sitzplätze)
+- TOP 7.6.: Maßmannstr. 6, Zusammenlegung von zwei Wohneinheiten mit Vereinnahmung der Erschließungstreppe aus dem 4. OG
+- TOP 7.7.: Maßmannstr. 6, Einbau einer Fahrstuhlanlage in freistehendem Glasschacht
+- TOP 7.8.: a) Barer Str. 77, Abbruch eines Wohn- und Bürogebäudes mit Nebenräumen b) Barer Str. 77, Wohnbebauung mit 24 WE und 3 Stadthäusern einschl. Büro + Tiefgarage
+- TOP 7.9.: Arcostr. 3, Vorbescheid - Hofseitige Dachanhebung sowie Balkonanbau und DG-Ausbau
+- TOP 7.10.: Cranachstr. 2-10, Vorbescheid - Ausbau der Dachgeschosse
+- TOP 7.11.: Denisstr. 2, Vorbescheid - Nutzungsänderung und Erweiterung eines Bürogebäudes
+- TOP 7.12.: Schönfeldstr. 14, Vorbescheid - Errichtung eines Anbaus, Aufstockung VGB und Hofgebäude, Anbau einer Fluchttreppe und eines Aufzugturms sowie Erweiterung der Tiefgarage
+- TOP 7.13.: Katharina-von-Bora-Straße 5-7, Neubau eines Verwaltungsgebäudes mit Cafeteria vertagt aus dem Ferienausschuss vom 11.08.2015, TOP B 2.1.9
+- TOP 7.14.: entfällt
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.1.: Schönfeldstraße 12, Neubau eines Wohn- und Bürogebäudes (Vgb. und Rgb.) mit TG vertagt aus dem Ferienausschuss vom 11.08.2015, TOP B 3.1.1
+- TOP 7.2.: Kaulbachstraße 29 a, Neubau eines Gebäudes mit Verwaltungsnutzung, Wohnungen (12) und Tiefgarage (vgl. dazu TOP B 5.4) vertagt aus dem Ferienausschuss vom 11.08.2015, TOP B 3.1.2
+- TOP 7.3.2: Baumfällungen
+- TOP 7.1.: Schönfeldstraße 16, Fällung einer Scheinakazie
+- TOP 7.2.: Königinstraße 37, Fällung einer Hängebirke
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Fällgenehmigung, Georgenstraße 17, ein Bergahorn
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 3 Anbindung des NS-Dokumentationszentrums an den öffentlichen Nahverkehr
+- TOP 7.2.: Antrag der CSU-Fraktion im BA 3 Erklärung des Straßennamens ?Heßstraße?
+- TOP 7.3.: Antrag der CSU-Fraktion im BA 3 Bodenmarkierung Teng-/Görresstraße
+- TOP 7.4.: Antrag der CSU-Fraktion im BA 3 Abstellung von Security Personal bei Veranstaltungen am Königsplatz auf dem Spielplatz Luisenstraße 20
+- TOP 7.5.: Antrag der Fraktion Bündnis 90 Die Grünen im BA 3 Baumpflanzung in der Adalbertstraße
+- TOP 7.6.: Antrag der CSU-Fraktion im BA 3 Begrünung Ziebland- / Luisenstraße
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Kommunalreferat, Straßenbenennung, Anhörung Aufwertung des Rudi-Hierl-Platzes Rückfrage zum BA-Antrag Nr. 14-20/B 01410 vom 14.07.2015: Anzahl und Art der Straßennamenerläuterungsschilder, Kostenübernahmeerklärung des BA
+- TOP 7.2.: Kreisverwaltungsreferat, Verkehrssteuerung, Anhörungen Austausch der Lichtzeichensignalanlage in der Adalbert- / Arcisstraße
+- TOP 7.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anbringen eines Zebrastreifens zum Überqueren der Brienner Straße an der Zufahrt zum Karolinenplatz BA-Antrag Nr. 08-14 / B 05729 vom 13.03.2014 vertagt aus der Sitzung 07/2015, 08/2015, Unterlagen liegen bereits vor
+- TOP 7.3.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung, Anhörung eingeschränktes Haltverbot in der Fürstenstraße 12, Hotel Carlton Astoria
+- TOP 7.1.: Kommunalreferat, Abfallwirtschaftsbetrieb München, Anhörung Verlegung des Wertstoffcontainerstandortes Luisen- / Theresienstraße
+- TOP 7.2.2: Öffentlicher Raum
+- TOP 7.2.3: Gaststätten
+- TOP 7.1.: Kreisverwaltungsreferat, Freischankflächen, Sondernutzungen a) Augustenstraße 74, Genehmigung einer Freischankfläche b) Barer Straße 48, Erweiterung einer bestehenden Freischankfläche
+- TOP 7.2.: Kreisverwaltungsreferat, Sondernutzung, Entscheidung Barer Straße 84, zwei Warenauslagen
+- TOP 7.1.: München Marathon am 11.10.2015
+- TOP 7.3.: Kreisverwaltungsreferat, Sondernutzung, Anhörungen Barer Straße 84, Aufstellung einer Sitzgelegenheit
+- TOP 7.2.4: Veranstaltungen
+- TOP 7.2.: Veranstaltung ?Brot und Fisch? am 25.10.2015 auf dem Odeonsplatz mit Umzug
+- TOP 7.3.: Bauernmarktmeile am 27.09.2015 auf dem Odeonsplatz und in der Ludwigstraße
+- TOP 7.1.: Errichtung eines Radweges in Ost/West-Richtung durch die Gabelsbergerstraße von der Schleißheimer Straße bis zum Altstadtring u.ä. div. Bürgerversammlungsempfehlungen Auftrag aus der Sitzung vom 14.07.2015
+- TOP 7.3.: Eilentscheidung des BA-Vorsitzenden vom 19.08.2015 Streetlife Festival/Corso Leopold am 12./13.09.2015 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 7.1.: Kreisverwaltungsreferat, Verkehrsanordnungen, Großbaustellen Totalsperrung nördlich der Karlstraße, Arbeiten im Straßenraum ? Fernwärme, vom 10.08. bis 04.09.2015
+- TOP 7.2.: Kreisverwaltungsreferat, Verkehrsanordnungen Verlängerung des Haltverbots in der Luisenstraße südlich der Kreuzung Theresienstraße
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 3 Freies WLAN für die Flüchtlingsunterkunft in der Karlstraße
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Kindergarten Die wilde 13 e.V. Nutzung und Einrichtung der Außenfläche
+- TOP 7.2.: Sozialreferat, Öffentlichkeitsarbeit Informationen zum geplanten Überbrückungsstandortfür Flüchtlinge Karlstraße 77-79
+- TOP 7.1.: Direktorium, Budgetangelegenheiten Ausstattung der Freiwilligen Feuerwehr mit Automatischen Externen Defibrillationsgeräten
+- TOP 7.4.: Sozialreferat Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 7. Standortbeschluss Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015 Sitzungsvorlage Nr. 14-20 / V 03729
+- TOP 7.3.: Sozialreferat, Öffentlichkeitsarbeit Weitere Information zum geplanten Überbrückungsstandort für Flüchtlinge Karlstraße 77-79
+- TOP 7.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 7.1.: Nächste BA- und UA-Sitzungen
+- TOP 7.1.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 4 Kreisverwaltungsreferat ?Neuaufstellung bzw. Änderung von Wegweiseranlagen? - Umwandlung des Anhörungs- rechts in ein Entscheidungsrecht; Antrag Nr. 14-20 / B 01057 des BA 16 vom 14.04.2015
+- TOP 7.1.: Bürgerversammlung 2016: Datum, Ort
+- TOP 7.3.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 4 Kreisverwaltungsreferat ?Neuaufstellung bzw. Änderung von Wegweiseranlagen? - Umwandlung des Anhörungs- rechts in ein Entscheidungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015
+- TOP 7.5.: 18 jetzt ? Fest junger Erwachsener (Teilnahme des BA)
+- TOP 7.2.: Direktorium, Unterrichtungen Änderung der Satzung für die Bezirksausschüsse
+- TOP 7.4.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 3 Referat für Arbeit und Wirtschaft ?Vergabe von städtischen Grundstücken? - Umwandlung des Unterrichtungs- rechts in ein Anhörungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015
+- TOP 7.8.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 5.1 Kommunalreferat ?Grundsätzliche Fragen der Müllbeseitigung? - Umwandlung des Unterrichtungsrechts in ein Anhörungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015
+- TOP 7.6.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 5 Referat für Bildung und Sport ?Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen? Umwandlung des Unterrichtungsrechts in ein Anhörungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015
+- TOP 7.7.: Direktorium, BA-Angelegenheiten, Anhörung Änderung der Anlage 1 der BA-Satzung Ziffer 15 Referat für Stadtplanung und Bauordnung ?Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist? - Umwandlung des Unterrichtungsrechts in ein Anhörungsrecht; Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015
+- TOP 7.1.: Anträge
+- TOP 7.2.: Entscheidungen und Anhörungen
+- TOP 7.3.: Aktuelle Sachstandsberichte
+- TOP 7.4.: Unterrichtungen
