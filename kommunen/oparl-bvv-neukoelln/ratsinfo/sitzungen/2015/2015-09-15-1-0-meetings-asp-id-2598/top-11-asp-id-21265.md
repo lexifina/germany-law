@@ -1,0 +1,7 @@
+# TOP 11: Nächste Sitzung 06.10.2015
+
+- Sitzung: 28. öffentliche Sitzung des Wirtschaftsausschusses (2015-09-15)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=21265
+- Ergebnis: erledigt
