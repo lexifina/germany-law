@@ -1,0 +1,129 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2015-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3546606
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3546606
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.: Authariplatz / Radweg (Geiselgasteig) - neue Asphaltierung; Bürgerantrag vom 16.08.2015 - <div></div>
+- TOP 2.4.: BV Am Perlacher Forst 162 - Baugrubensicherung mti Verankerung im Bereich der Eiche; Bürgerschreiben an die Lbk und den BA 18 vom 27.08.2015 - <div></div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 1: (E) U-Bahnhof Kolumbusplatz, Eingang Plattnerstraße 1. Freihaltung des Gehweges zur U-Bahn durch Abgrenzung der Querparkplätze 2. Erweiterung der Fahrradabstellplätze Empfehlung Nr. 14-20 / E 00295 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 13.11.2014 - <div></div>
+- TOP 1.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Seybothstraße, Haltestelle Autharistraße (barrierefreier Ausbau); Beschluss des BA 18 vom 15.09.2015
+- TOP 1.1.: Gemeinsamer Antrag der Bezirksausschüsse 14, 16, 17 und 18 hinsichtlich der notwendigen, zeitnahen, weitergehenden Planungen für den südöstlichen Mittleren Ring; Entwurf des Arbeitskreises
+- TOP 1.1.: Erweitertes Verkehrskonzept zur Tunnelplanung Tegernseer Landstraße; BA-Antrag Nr. 14-20 / B 01125 vom 21.04.2015; Schreiben des Referates für Stadtpl. u. Bauordnung vom 24.08.2015 mit der Bitte um Zustimmung zur Fristverlängerung bis Ende des 4. Quartals 2015
+- TOP 1.1.: Sanierung der Bahn-Unterführung Perlacher Forst, Höhe "Nußbaumranch"; BA-Antrag Nr. 14-20 / B 01218 vom 19.05.2015; Antwortschreiben des RAW vom 07.08.2015 (negative Erledigung)
+- TOP 1.2.: Warn- / Sicherheitshinweisschilder am Eingang zum Perlacher / Grünwalder Forst, Höhe "Giesinger Waldhaus"; BA-Antrag Nr. 14-20 / B 01249 vom 19.05.2015; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 14.08.2015 mit der Bitte um Konkretisierung und Rückmeldung an die Bayer. Staatsforsten
+- TOP 1.3.: Säbener Straße / Oberbiberger Straße - Schaffung einer grünen Verkehrsinsel; BA-Antrag Nr. 14-20 / B 01290 vom 16.06.2015; Antwortschreiben des Baureferats-Tiefbau vom 25.08.2015 (neutrale Erledigung)
+- TOP 1.3.3: UA Umwelt und Gesundheit
+- TOP 1.1.: Verbesserung der Sauberkeit an Haltestellen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.1.: Immissionsmessungen im Bereich der Grillzone Isar Süd; Bürgerschreiben vom 04.08.2015; Beschluss des BA 18 aus der August-Sitzung; Stellungnahme des Baureferates-Gartenbau vom 31.08.2015 zum Punkt "intensivere Kontrollen / Ahndung von Ordnungswidrigkeiten" - <div></div>
+- TOP 1.1.: Defibrillator und Notfallrucksack für alle Freiwilligen Feuerwehren in Mücnhen; Stadtratsantrag Nr. 14-20 / A 00700 vom 25.02.2015; Bedarfsfeststellung und Finanzierung; Sitzungsvorlage Nr. 14-20 / V 03674; Beschluss des Kreisverwaltungsausschusses vom 28.07.2015 (SB)
+- TOP 1.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Tegernseer Landstraße 256; Ablehnungsbescheid vom 19.08.2015 3.3.6.1.2 Stilfser-Joch-Straße 40; Ablehnungsbescheid vom 20.08.2015 3.3.6.1.3 Armanspergstraße 3; Genehmigungsbescheid vom 25.08.2015
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Schulbauoffensive 2013 - 2030; Sitzungsvorlage Nr. 14-20 / V 03448; Beschluss der Vollversammlung des Stadtrats vom 29.07.2015
+- TOP 1.2.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit - 7. Standortbeschluss; Sitzungsvorlage Nr. 14-20 / V 03729; Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.1.: Tragluftturnhalle für den 18. Stadtbezirk Untergiesing-Harlaching; Antrag der SPD-Fraktion vom 20.07.2015 (verwiesen aus den Sitzungen vom 21.07. und 18.08.15) - <div></div>
+
+  						<div>abgelehnt, da Änderungsantrag beschlossen</div>
+- TOP 1.2.: Illegale Kleidersammel-Container entfernen; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Agilolfingerplatz 1, Schulbauoffensive - Errichtung von mobilen Schulraumeinheiten für 4 Klassen und 2 Ü-Klassen inkl. Mensa für eine Grundschule; Anhörung vom 20.08.2015
+- TOP 1.2.: Karolingerallee 20, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (7 Stpl.); Anhörung vom 21.08.2015
+- TOP 1.3.: Tierparkstraße 30, Neubau einer Löwenanlage; Anhörung vom 25.08.2015
+- TOP 1.4.: Schönchenstraße 4, Umbau und Erweiterung (Anbau) eines Wohnhauses - VORBESCHEID; Anhörung vom 26.08.2015
+- TOP 1.5.: Konradinstraße 23 - 29, Energetische Sanierung einer Wohnanlage mit Dachanhebung und Balkonanbau / TEKTUR; Anhörung vom 31.08.2015
+- TOP 1.6.: Aggensteinstraße 13a, Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Aggensteinstraße 13a / Perathonstraße 17 / Widersteinstraße 18); Anhörung vom 31.08.2015
+- TOP 1.7.: Bruggspergerstraße 54, Errichtung eines Anbaus an eine Doppelhaushälfte; Anhörung vom 31.08.2015
+- TOP 1.8.: Seybothstraße 18, Errichtung zweier Dachgauben; Anhörung vom 31.08.2015
+- TOP 1.9.: Laurinplatz 4, Erweiterung zweier Dachgauben im Zuge einer energetischen Sanierung; Anhörung vom 31.08.2015
+- TOP 1.10.: Alemannenstraße, Befristete Genehmigung eines Besucherparkplatzes bis zum 30.06.2020; Anhörung vom 31.08.2015
+- TOP 1.11.: Claude-Lorrain-Straße 29, Erneuerung und Vergrößerung von 2 x 3 Balkonen; Anhörung vom 31.08.2015
+- TOP 1.12.: Rotbuchenstraße 54, Aufstockung und Fassadensanierung eines Wohngebäudes - VORBESCHEID; Anhörung vom 01.09.2015
+- TOP 1.13.: Aretinstraße 10, Neubau eines Doppelhauses mit 2 Garagen; Anhörung vom 01.09.2015
+- TOP 1.14.: Holzkirchner Straße 2, DG-Ausbau - TEKTUR; Anhörung vom 01.09.2015
+- TOP 1.15.: Bonteweg 2, Neubau eines Dreifamilienhauses mit Einzelgarage und 2 Carports; Anhörung vom 01.09.2015
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Alois-Wohlmuth-Straße 13, Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage; Anhörung vom 11.08.2015 (vertagt aus der Sitzung vom 18.08.2015)
+- TOP 1.1.: Toilettenanlagen am Rotkreuz-Parkplatz (Endhaltestelle Bus 52 - Alemannenstraße) - Ablehnung des geplanten Standorts; BA-Antrag Nr. 14-20 / B 01439 vom 21.07.2015; Antwortschreiben des Baureferats vom 17.08.2015 (negative Erledigung)
+- TOP 1.2.: U-Bahnhof Candidplatz; Instandsetzungsarbeiten an den Wänden des Bahnhofs; BÜV-Empfehlung Nr. 14-20 / E 00271; Zwischennachricht des RAW vom 14.08.2015 an die Antragstellerin
+- TOP 1.1.: Baufälle im 18. Stadtbezirk
+- TOP 1.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Giasinga Schlümpfe", Humboldtstraße 12; Mitteilung vom 12.08.2015
+- TOP 1.3.: Städtisches Klinikum München GmbH (StKM) - Sanierungsumsetzungskonzept; Sitzungsvorlage Nr. 14-20 / V 03572; Beschluss der Vollversammlung vom 29.07.2015
+- TOP 1.4.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Agatharieder Straße; Mitteilung vom 07.08.2015 3.5.6.3.2 Anwesen Kastensee Straße; Mitteilung vom 11.08.2015 3.5.6.3.3 Anwesen Meichelbeckstraße; Mitteilung vom 27.08.2015
+- TOP 1.1.: Gabriel-Max-Straße 19, Fl.Nr. 12863/79, Gemarkung: Sektion VII, Neubau zweier Mehrfamilienhäuser mit Tiefgarage; negative Stellungnahme des BA 18 vom 23.07.2015; Abdruck der Baugenehmigung vom 10.08.2015
+- TOP 1.2.: Meichelbeckstraße 1, Neubau dreier Mehrfamilienhäuser mit Tiefgarage; negative Stellungnahme des BA 18 vom 01.06.2015; Abdruck der Baugenehmigung vom 20.08.2015
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Karolingerallee, Ecke Harlachinger Straße, offenes Feuer in Feuerkorb anlässlich St. Martin, Biene Maja Kindergarten; Zuleitung des KVR mit der Bitte um Stellungnahme bis 16.10.2015
+- TOP 1.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Jubiläumsfeier Kreisjugendring München Stadt am 16.10.2015 in der Fromundstraße 1-5; Zuleitung des KVR mit der Bitte um Stellungnahme bis 25.09.2015
+- TOP 1.1.: Bauernmarkt am Mangfallplatz; BA-Antrag Nr. 14-20 / B 01288 vom 16.06.2015; Antwortschreiben des Kommunalreferats vom 01.09.2015 (negative Erledigung)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesschulheimen" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums mit der Bitte um Stellungnahme
+- TOP 4.2.: 4.3.3 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Persone des Nutzers oder anderen Fragen)" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 05.08.2015 mit der Bitte um Stellungnahme
+- TOP 4.3.: 4.3.4 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtpl. u. Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 28.08.2015 mit der Bitte um Stellungnahme
+- TOP 4.4.: 4.3.5 Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung" in ein Anhörungsrecht; BA-Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.2015; Schreiben des Direktoriums vom 28.08.2015 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Errichtung eines Außendusch- und Umkleidebereichs im Freigelände des Bad Giesing-Harlaching; BA-Antrag Nr. 14-20 / B 01423 vom 21.07.2015; Antwortschreiben der SWM GmbH vom 12.08.2015 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 10.06.2015 2. Umsetzung der Empfehlungen in eine Änderungssatzung; Sitzungsvorlage Nr. 14-20 / V 03494; Beschluss des Verwaltungs- und Personalausschusses vom 15.07.2015 (VB)
+- TOP 4.2.: Stellungnahme des BA 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln zur Thematik Bürgerhaushalt mit der Bitte um Kenntnisnahme
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.3.5.4: Jugend
+- TOP 5.3.5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 2.3.: Erhalt der augenärztlichen Versorgung in Untergiesing-Harlaching; Bürgerschreiben vom 25.08.2015 - <div></div>
+- TOP 2.1.: Antrag für Bau eines Radweges auf der rechten Seite der Oberbiberger Straße vom Mangfallplatz bis Vollmarstraße stadtauswärts; Bürgerantrag vom 13.08.2015 - <div>vertagt</div>
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
