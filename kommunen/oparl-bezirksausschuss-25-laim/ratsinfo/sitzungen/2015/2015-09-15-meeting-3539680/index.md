@@ -1,0 +1,100 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2: Information zum Aufzugsneubau Burgkmairstr. 9; Teilnahme durch Vertreter des Kommunalreferates
+- TOP 0.3: Veranstaltungskonzept Laimer Anger; Teilnahme durch Vertreter des Kreis-verwaltungsreferates
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.3: Information zu den geplanten Unterkünften für Flüchtlinge im Einzugs-bereich Laim
+- TOP 1.2.1.: Parkplätze / Lizensierung südliche Anwohnerstraße der Landsberger Straße stadteinwärts ab Hausnr. 283 abwärts
+- TOP 1.2.2.: Bauvorhaben Schedelstr. 10-12; Errichtung von Kfz-Stellplätzen im Innenhof / Unterschriften-Appell von hundert Mietern
+- TOP 1.2.3.: Verkehrssituation Käthe-Bauer-Weg / Droste-Hülshoff-Straße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.968,75 ? für Fotoausstellung "Über den Dächern von Laim" vom 30.03.16 - 30.06.15; Antragsteller: Initiative "Fotoausstellung" - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.019,36 ? für Ausbildungsfahrt der StreitschlichterInnen vom 26. bis 30.10.15; Antragsteller: STÜPS Laim, Schulsozialarbeit - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 23.07.15: Erinnerungsverfahren Siglstraße / Ludwig-Richter-Straße; Gehbahn / Radweg
+- TOP 4.2.: Schreiben Direktorium vom 03.08.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung, Ziffer 4 Abschnitt Kreisverwaltungsreferat: "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in eine Entscheidungsrecht
+- TOP 4.3.: Schreiben Direktorium vom 05.08.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderung der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht
+- TOP 4.4.: Schreiben Direktorium vom 05.08.15: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung: "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder anderer Fragen)" in ein Anhörungsrecht
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 25.08.15: Flohmarkt am 08.04.15 auf dem Hogenbergplatz
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 26.08.15: Flohmarkt am 16.04.15 auf dem Hogenbergplatz
+- TOP 4.7.: Schreiben Direktorium vom 28.08.15: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht
+- TOP 4.8.: Schreiben Direktorium vom 28.08.15: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung ?Grundsätzliche Fragen der Müllbeseitigung? in ein An-hörungsrecht
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Camerloherstr. 110: Schulbauoffensive, Anbau von Außentreppen zur Errichtung des 2. baulichen Rettungswegs aus den Klassenzimmern des 1. + 2. OGs und der Gymnasikhalle
+- TOP 5.2.: Fürstenrieder Str. 30: Schulbauoffensive, Errichtung von mobilen Schulraumeinheiten für 4 Klassen für eine Grundschule (Standzeit: 08/2016 - 12/2014)
+- TOP 5.3.: Geyerspergerstr. 51: Neubau eines Doppelhauses mit Garage
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 05.08.15: 18.jetzt - Fest junger Erwachsener im Rathaus am 17.10.15
+- TOP 6.2.: Schreiben Referat für Gesundheit und Umwelt vom 18.08.15: Stadtteilpläne für die Bezirke 11, 9, 16, 15 und 25; Wettbewerb "Gesund älter werden in den Kommunen"
+- TOP 6.3.: Schreiben Veteranen- und Kriegerverein Laim 1890 / 2010 e.V. vom 01.09.15: Einladung zur Ökomenischen Gedenkfeier zum Volkstrauertag 2015 am 14.11.15
+- TOP 6.4.: Terminplanung 2016
+- TOP 7: Protokolle
+- TOP 7.1.: Einwohnerversammlung vom 09.07.15
+- TOP 7.2.: BA-Sitzung vom 04.08.15
+- TOP 7.3.: Sitzung UA Kultur vom 11.08.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 20.07.15: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt (PFA) 1 München West, Bereich Laim bis Weststeite Karlsplatz mit Haltepunkt Hauptbahnhof
+- TOP 8.2.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.07.15: Bauvorhaben Agricolastr. 52 (Schreiben BA vom 23.07.15)
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.07.15: Bauvorhaben Valpichlerstr. 97; Eingabe wegen fehlender Parkplätze bei Neubau (Schreiben BA vom 23.07.15)
+- TOP 8.4.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.08.15: Fällungsantrag Valpichlerstr. 19
+- TOP 8.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.08.15: Einrichten eines Zweirichtungsradweges auf der westlichen Seite der über die Autobahn A 96 führenden Westendstraße (Antrag Nr. 08-14 / B 4734 vom 09.04.13)
+- TOP 8.6.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.08.15: Fachnerstr. 55, Sanierung und Änderung der Fassade, Nutzungsänderung von Pension und von Laden zu Wohnen, Anbau Balkone, DG-Neubau (46 WE), Errichtung eines Mehrfamilienhauses (5 WE) mit Tiefgarage (Fachnerstr. 55 / Friedenheimer Str. 137) / Tektur
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.08.15: Camerloherstr. 135; Nutzungsänderung einer Steuerkanzlei in ein Vereinshaus mit Aufenthalts- / Schulungsräumen und Gebetsmöglichkeit
+- TOP 8.8.: Schreiben Referat für Arbeit und Wirtschaft vom 23.07.15: Kreuzungsbereich Gotthardstraße / Fürstenrieder Straße; Verlegung des U-Bahnaufgangs in das Neubauvorhaben Fürstenrieder Str. 70 (Schreiben BA vom 26.01.159
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 17.08.15: Filiale der Stadtsparkasse in der Friedenheimer Straße; Behindertengerechter Umbau des Bankautomaten (Empfehlung Nr. 14-20 / E 00312 der Bürgerversammlung vom 25.11.14); Beschluss BA vom 05.05.15
+- TOP 8.10.: Schreiben Sozialreferat vom 24.07.15: Protokoll der Informationsveranstaltung für die Bezirksausschüsse vom 29.06.15
+- TOP 8.11.: Schreiben Sozialreferat vom 06.08.15: BA-Information zum geplanten Standort für Flüchtlinge Mitterhofstr. 7
+- TOP 8.12.: Schreiben Baureferat vom 09.07.15: Friedenheimer Brücke / Landsberger Straße; Erhöhung der Verkehrssicherheit an der Einmündung des Radweges in die Anliegerfahrbahn der Landsberger Straße (Empfehlung Nr. 14-20 / E 00309 der Bürgerversammlung vom 25.11.14); Beschluss BA 25 vom 03.03.15 bzgl. Roteinfärbung
+- TOP 8.13.: Schreiben Baureferat vom 14.07.15: Schulbauoffensive 2013-2030, Fortschreibung des Schulbaupavillon-Bauprogramms 2015 mit Fertigstellung in 2016; Errichtung von zwei Häusern für Kinder in der Zschokkestraße
+- TOP 8.14.: Schreiben Baureferat vom 24.07.15: Reparatur der Sitzbank in der Kurve Lautensackstraße / Agnes-Bernauer-Straße (Schreiben BA vom 24.07.15)
+- TOP 8.15.: Schreiben Baureferat vom 13.08.15: Zustand des Schlangenwegerl zwischen Von-der-Pfordten-Straße und Vohburger Straße (Schreiben BA vom 23.07.15)
+- TOP 8.16.: Schreiben Baureferat vom 17.08.15: Baumgraben in der Helmpertstraße
+- TOP 8.17.: Schreiben Baureferat vom 18.08.15: Straßensanierung Stöberlstraße
+- TOP 8.18.: Schreiben Kommunalreferat vom 04.08.15: Zuleitung des Beschlusses zum städtebaulichen Entwicklungskonzept der Jubiläumsstiftung der Münchner Bürgerschaft "Alte Heimat" (Stadtrat Vollversammlung vom 29.07.15, Sitzungsvorlage Nr. 14-20 / V 03722)
+- TOP 8.19.: Schreiben Direktorium vom 04.08.15: Budgetantrag Kath. Pfarrei Fronleichnam
+- TOP 8.20.: Schreiben Direktorium vom 05.08.15: Ausstattung der Freiwilligen Feuerwehr München mit Automatischen Externen Defibrillationsgeräten
+- TOP 8.21.: Schreiben Referat für Bildung und Sport vom 05.08.15: Information über Vergaberichtlinien und Dringlichkeitsstufen zur Vergabe von Plätzen in Kinderkrippen und Kindergärten (Antrag Nr. 08-14 / B 3537 vom 06.12.11)
+- TOP 8.22.: Schreiben Kreisverwaltungsreferat vom 06.08.15: Errichtung einer Ampel in der Elsenheimerstr. 41 (Schreiben BA vom 22.07.15)
+- TOP 8.23.: Schreiben Kreisverwaltungsreferat vom 10.08.15: Verkehrsprobleme in Laim (Schreiben BA vom 10.08.15)
+- TOP 8.24.: Schreiben Kreisverwaltungsreferat vom 21.08.15: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung Kärtner Platz
+- TOP 8.25.: Schreiben Kreisverwaltungsreferat vom 27.08.15: Filmaufnahmen auf öffentlichem Verkehrsgrund; Jahresgenehmigung 15.09. - 14.04.16
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 21.08.15: Baumaßnahmen der SWM; Stromprojekt Geyerspergerstraße
+- TOP 8.27.: Bautenliste vom 20.07-26.07.15 1. Erstantragsverfahren a) Camerloherstr. 110 2. Änderungsverfahren a) Queristr. 12
+- TOP 8.28.: Bautenliste vom 03.08.-09.08.15 1. Erstantragsverfahren a) Valpichlerstr. 92 b) Ossietzkystr. 12 c) Valpichlerstr. 84 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Stürzerstr. 38
+- TOP 8.29.: Bautenliste vom 10.08.-16.08.15 1. Erstantragsverfahren a) Fürstenrieder Str. 30 b) Camerloherstr. 110
+- TOP 8.30.: Bautenliste vom 17.08.-23.08.15 1. Erstantragsverfahren a) Geyerspergerstr. 51 b) Junkerstr. 75
+- TOP 8.31.: Bautenliste vom 24.08.-30.08.15 1. Erstantragsverfahren a) Fürstenrieder Str. 62 b) Krichmairstr. 16 c) Senftenauerstr. 124 d) Flantinstr. 8a e) Perhamerstr. 78a 2. Änderungsverfahren a) Agricolastraße 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Hörkherstr. 3a
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 31.08.15: Baumaßnahmen der Stadtwerke; Stichtag: 31.08.15
+- TOP 8.33.: Beschluss der Vollversammlung vom 01.07.15: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" - II, Konzeptvorstellung und Regelung der Sondernutzungsgebühren für Vermietstationen, Fahrradtypen / Mobilitätshilfen für Menschen mit Mobilitätseinschränkung (Sitzungsvorlage Nr. 14-20 / V 03195)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.15: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Sitzungsvorlage Nr. 14-20 / V 02900)
+- TOP 8.35.: Beschluss des Bauausschusses vom 14.07.15: Trappentreutunnel, Dreispurige Ausfahrt des Mittleren Ringes aus dem Trappentreutunnel in Richtung Norden (Sitzungsvorlage Nr. 14-20 / V 02752)
+- TOP 8.36.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (Teil 1): Änderung der Satzung für die Bezirksausschüsse der LH München, 1. Vorberatung durch die BA-Satzungskommission vom 10.06.15: a) Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum", b) Frühzeitige Information des Bezirksausschusses über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung, Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen, Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz (Entscheidungsrecht für die Bezirksausschüsse), c) Erlaubnis von Vergnügungsveranstaltungen nach Art. 19 LstVG, Aufnahme als Anhörungsrecht in den Katalog des Kreisverwaltungsreferates der BA-Satzung
+- TOP 8.37.: Beschluss des Verwaltungs-und Personalausschusses vom 15.07.15 zur Sitzungsvorlage Nr. 14-20 / V 03494 (Teil 2): d) Anhörungsrecht der Bezirksausschüsse bei Veranstaltungen auf SWM-Gelände, e) Mitwirkung der Bezirksausschüsse beim Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, f) Erhöhung der zu entschädigenden Termine für die Mitglieder der Bezirksausschüsse, g) Kinderbetreuungskosten während der BA-Tätigkeit, Änderung der BA-Satzung, h) Satzungsänderung zum Anhörungsrecht nach § 13 Abs. 2 BA-Satzung, i) Rederecht von Einwohnerinnen und Einwohnern in Bezirksausschuss-Sitzungen, Änderung der BA-Geschäftsordnung; 2. Umsetzung der Empfehlungen in einer Änderungssatzung
+- TOP 8.38.: Beschluss der Vollversammlung vom 29.07.15: Projekt Hauptbahnhof-Laim-Pasing, Teilbereich Birketweg (Sitzungsvorlage Nr. 14-20 / V 02285)
+- TOP 8.39.: Beschluss der Vollversammlung vom 29.07.15: Koordination und Service im Radverkehr (Sitzungsvorlage Nr. 14-20 / V 03026)
+- TOP 8.40.: Beschluss der Vollversammlung vom 29.07.15: Wohnen in München VI - Zeitplan und Themenvorschau (Sitzungsvorlage Nr. 14-20 / V 03161)
+- TOP 8.41.: Beschluss der Vollversammlung vom 29.07.15: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Sachstandsbericht, b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards, c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen, d) Vergabe von Beratungs- und Gutachterleistungen, e) Anträge und Empfehlungen (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 8.42.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.15: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit; 7. Standortbeschluss (Sitzungsvorlage Nr. 14-20 / V 03729)
+- TOP 8.43.: Schreiben BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 07.08.15: Stellungnahme zur Thematik "Bürgerhaushalt"
+- TOP 8.44.: Schreiben Behindertenbeirat vom 12.08.15: Bus & Bahn Begleitservice
+- TOP 8.45.: Schreiben Kleingartenverein SW 12 vom 14.08.15: Jubiläum des Kleingartenvereins vom 03.07.-05.07.15
+- TOP 8.46.: Schreiben Familienzentrum Laim e.V. vom 13.07.15: Verwendungsnachweis über Budgetzuschuss für Elternkurs "Starke Eltern - Starke Kinder"
+- TOP 8.47.: Schreiben Laimer Maibaumfreunde vom 23.07.15: Verwendungsnachweis über Budgetzuschuss für Bürgerfest
+- TOP 8.48.: Schreiben freispiel Kulturagentur vom 07.08.15: Verwendungsnachweis über Budgetzuschuss für "Sing out loud for your rights"
+- TOP 8.49.: Schreiben BA 7 Sendling-Westpark vom 17.08.15: Unterkunft für Flüchtlinge Tübinger Str. 1-3
+- TOP 8.50.: Bürgerschreiben vom 26.07.15: Engagement des Historischen Vereins für das historische Zentrum Laim
+- TOP 1.2: Bürgerpost an den BA
