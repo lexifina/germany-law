@@ -1,0 +1,64 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-09-16T17:00:00+02:00
+- Ende: 2015-09-16T20:55:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2815
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2815
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 7. Sitzung des Hauptausschusses am 10.06.2015 -öffentlicher Teil- - Genehmigt
+- TOP 1.1: Strategische Weiterentwicklung der städtischen IT - Mit Stimmenmehrheit beschlossen
+- TOP 2: Bekanntmachung des Abschlussergebnisses - Einstimmiger Beschluss
+- TOP 2.1: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 3: Neubenennung eines sachkundigen Einwohners - Einstimmiger Beschluss
+- TOP 4: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement; Sachstand 2014 - Kenntnisnahme
+- TOP 5: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2015 - An den Rat verwiesen
+- TOP 6: 2. Sachstandsbericht Kompetenzzentrum Sauberkeit - Kenntnisnahme
+- TOP 7: Bericht zur Umsetzung des Haushaltssanierungsplanes zum 30.06.2015 - Kenntnisnahme
+- TOP 8: 884/IX wurde unter TOP 2 behandelt
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung für die Bereitstellung überplanmäßiger Haushaltsmittel - Einstimmiger Beschluss
+- TOP 9.1: Außerplanmäßige Ausgabe des Haushaltsjahres 2015 - Mit Stimmenmehrheit beschlossen
+- TOP 9.2: Erste Nachtragssatzung für das Haushaltsjahr 2015 - Kenntnisnahme
+- TOP 10: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 11: Beherbergungssteuersatzung - An den Rat verwiesen
+- TOP 12: Verbandsversammlung des Niersverbandes; - Einstimmiger Beschluss
+- TOP 13: Straßen- und Anlagenverordnung - Verweisung in zuständige Fachausschüsse
+- TOP 14: 1078/IX wurde bereits unter TOP 1A behandelt - Zur Kenntnis genommen
+- TOP 15: Zweiter Nachtrag Tarif Hallenbäder - Mit Stimmenmehrheit beschlossen
+- TOP 16: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Freizeit-, Sport- und Bäderausschu - Einstimmiger Beschluss
+- TOP 17: Standort der Musikschule und der Volkshochschule in Rheydt (HSP-Maßnahmen 2012-0100; 2012-0101) - Einstimmiger Beschluss
+- TOP 18: Flüchtlingseinrichtung des Landes NRW im ehemaligen JHQ - Einstimmiger Beschluss
+- TOP 19: Konzept Flüchtlingsunterbringung - Einstimmiger Beschluss
+- TOP 20: Netzwerk Frühe Hilfen - Einstimmiger Beschluss
+- TOP 21: Anordnung der Umlegungen für den Bereich des Bebauungsplans Nr. 611/IX - Einstimmiger Beschluss
+- TOP 22: Anmietung der Flächen im Vitus Center für eine Nutzung durch die Stadtverwaltung - Kenntnisnahme
+- TOP 23: Bebauungsplan Nr. 704/N, Bebauungsplan der Innenentwicklung gemäß § 13a Baugesetzbuch (BauGB) - Mit Stimmenmehrheit beschlossen
+- TOP 24: Bebauungsplan Nr. 768/S - Stadtbezirk Süd - Güdderath - - Mit Stimmenmehrheit beschlossen
+- TOP 25: Anordnung der Umlegung für den Bereich des Bebauungsplans Nr. 519/IX - Einstimmiger Beschluss
+- TOP 26: Zulassung von Zirkusbetrieben/Tierschauen in Mönchengladbach; hier: Antrag der Fraktion Bündnis 90/DIe Grünen vom 18.08.2015 - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Einrichtung einer "Wegweiser - gemeinsam gegen gewaltbereiten Salafismus"-Beratungsstelle in MG; hier: Antrag der Fraktion Bündnis 90/Die Grünen und der DIE PIRATEN-PARTEI Ratsgruppe v. 24.07.2015 - Einstimmiger Beschluss
+- TOP 28: Aufbau einer Verwaltungseinheit zur Akquise von Mitteln aus Förderprogrammen der EU-Struktur- und Investitionsfonds und deren Umsetzung in kommunalen Programmen; Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 19.08.2015 - Vom Antragsteller zurückgezogen
+- TOP 29: Situation von Asylbewerbern in Mönchengladbach verbessern – Die Hilfe besser koordinieren; hier: Antrag der Ratsfraktionen CDU und SPD vom 26.08.2015 - Einstimmiger Beschluss
+- TOP 29.1: Benennung eines/einer Flüchtlingsbeauftragten in der Stadtverwaltung; Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 20.08.2015 - Ohne Abstimmung
+- TOP 30: Überprüfung geeigneter, leer stehender Immobilien im öffentlichen Eigentum zur Unterbringung von Flüchtlingen in Mönchengladbach; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 20.08.215 - Mit Stimmenmehrheit abgelehnt
+- TOP 31: 1054/IX wurde unter TOP 29 behandelt - Zur Kenntnis genommen
+- TOP 32: Erarbeitung eines Public Corporate Governance Kodex (PCGK) für die kommunalen; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 26.08.2015 - An den Rat verwiesen
+- TOP 33: Beteiligung der Stadt Mönchengladbach über die NEW AG am Steinkohle-Kraftwerk Hamm (Gekko); hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 26.08.2015 - An den Rat verwiesen
+- TOP 34: Antrag auf Erweiterung der Betriebsgenehmigung für den Flughafen Düsseldorf; hier: Antrag der Fraktion Bündnis ´90/Die Grünen vom 19.08.2015 - Vom Antragsteller zurückgezogen
+- TOP 35: Resolution KiBiz – Reform zur Verbesserung der Basisfinanzierung; hier: gemeinsamer Fraktionsantrag DIE LINKE, Bündnis 90/Die Grünen, Die PiratenPARTEI vom 26.08.2015 - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Verleihung des Ehrenringes der Stadt an Josef Heynckes; hier: Antrag der CDU und SPD Fraktion vom 28.08.2015 - Einstimmiger Beschluss
+- TOP 37: Einfach, schnell, transparent, bürgerfreundlich – Die Online-Dienstleistungen der Stadtverwaltung - An den Rat verwiesen
+- TOP 37.1: Gesundheitskarte für Flüchtlinge - An den Rat verwiesen
+- TOP 38: Anfrage von Ratsherrn Schultz, DIE LINKE
+- TOP 38.1: Anfrage von Ratsherrn Gutowski, Die PiratenPARTEI
+- TOP 38.2: Anfrage von Ratsfrau Brombeis,
+- TOP 38.3: Anfrage von Ratsherrn Fegers, SPD
+- TOP 38.4: Anfrage von Ratsherrn Sasserath,
+- TOP 38.5: Anfrage von Ratsherrn Dr. Schlegelmilch, CDU
+- TOP 38.6: Anfrage von Ratsherrn Gutowski, Die PiratenPARTEI
