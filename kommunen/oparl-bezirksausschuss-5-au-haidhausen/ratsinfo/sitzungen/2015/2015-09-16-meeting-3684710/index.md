@@ -1,0 +1,146 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-09-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3684710
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3684710
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .1.: Rücktritt der Internetbeauftragten - <div>zur Kenntnis genommen</div>
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Verbot von diesel- und benzinbetriebenen Laubbläsern im gesamten Stadtgebiet - <div>zur Kenntnis genommen, Verweis auf RGU Beschluss</div>
+- TOP .5.: Anträge
+- TOP .1.: Sitzmöglichkeiten vor dem Amt für Wohnen und Migration - <div>nach Antrag</div>
+- TOP .2.: Anfrage zu Änderungen an der Kreuzung Seeriederstraße/Kirchenstraße/ Wolfgangstraße - <div>Zustimmung und Weiterleitung der Anfrage</div>
+- TOP .3.: Durchführung von Baumersatzpflanzungen - <div>Nach Antrag mit Ergänzungen</div>
+- TOP .4.: Bordeauxplatz- Kreuzungsbereich sichern
+- TOP .5.: Haltestelle Haidenauplatz- Mehr Sicherheit und Komfort für Fahrgäste - <div>nach Antrag</div>
+- TOP .6.: Wiedererrichtung der Umlaufsperre am Spielplatz Kegelhof - <div>nach Antrag</div>
+- TOP .7.: Straßenmarkierungen kostenbewusst durchführen - <div>nach Antrag</div>
+- TOP .8.: Ersatzpflanzung für fehlende Bäume am Ostbahnhof - <div>nach Antrag</div>
+- TOP .9.: Sanierungen und Baumaßnahmen des RBS im 5. Stadtbezirk - <div>nach Antrag</div>
+- TOP .10.: Bedeutung der Kästen an den Bäumen am Pariser Platz und am Bordeauxplatz - <div>nach Antrag</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Kauf von Haushaltsgegenständen für betreute Jugendliche
+- TOP .2.: (E) Budget der Bezirksausschüsse Stadtpropheten GbR Projekt ?Wer wollt ihr werden?? vom 27.11. bis 13.12.2015
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis /Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, Vinzenz Murr, Weißenburger Straße 38
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, erlaubnisfreier Gaststättenbetrieb, Oefelestraße 2
+- TOP .3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007, 4 Anträge für Zeitungsverkaufseinrichtungen, Weißenburgerstraße 38, 2x Weißenburger Straße 19, Pariser Platz 1
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Emtscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.01.2007, erlaubnisfreie Gatstätte "Özdeveli", Kellerstraße 1
+- TOP .6.3: Weitere Entscheidungen
+- TOP 1: (E) Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise - <div>nach Antrag mit Ergänzungen</div>
+- TOP 2: (E) Fußgängerschutzanlage oder -überweg über die Ohlmüllerstraße in Höhe der Zeppelin- / Entenbachstraße Empfehlung Nr. 14-20 / E 00393 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen, Bezirksteil Au am 26.02.2015 - <div>Zustimmung</div>
+- TOP 3: (E) Deutlichere Kennzeichnung der Tempo-30-Zonenregelung in der Eduard-Schmid-Straße, Höhe Zeppelinstraße (Ziffer 2 des Antrages) Empfehlung Nr. 14-20 / E 00394 der Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen, Bezirksteil Au am 26.02.2015 - <div>Ergänzung</div>
+- TOP 4: (E) Anbringen einer Verkehrsbeschilderung (Achtung Fahrradgegenverkehr und entsprechendes Bild auf dem Boden) in der Orleansstraße in Höhe der Zufahrt zum alten Zollamt Empfehlung Nr. 14-20 / E 00357 der Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen am 05.03.2015 - <div>Zustimmung</div>
+- TOP 5: (E) Neue Ampelanlagen in der wlfen- und Auerfeldstraße westlich des Schwester-Eubulina-Platzes Einrichtung eines Fußgängerüberweges über die Welfenstraße am westlichen Ende des Tassiloplatzes / Schwester Eubulina-Platzes Höhe Sieboldstraße Empfehlungen Nr. 2168 und 2169 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen-Bezirksteil Au am 23.01.2014
+- TOP 6: (E) Errichtung einer Signalanlage an der Falken- / Pilgersheimer Straße in Höhe Kolumbusstraße Empfehlung Nr. 14-20 / E 00395 der Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen, Bezirksteil Au am 26.02.2015
+- TOP 6.1.: Kompetenz vor Ort anerkenn und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in ein Entscheidungsrecht; BA-Antrags-Nr. 14-20/ B01092 des Bezirksausschusses des Stadtbezirks 16-Ramersdorf-Perlach vom 16.04.2015
+- TOP 6.2.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes gemäß der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder andere Fragen)" in ein Anhörungsrecht; BA-Antrags-Nr. 14-20/ B01092 des Bezirksausschusses des Stadtbezirks 16-Ramersdorf-Perlach vom 16.04.2015
+- TOP 6.3.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtugnsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist", BA-Antrags-Nr. 14-20/ B 01092 des Bezirksausschusses des Stadtbezirks 16- Ramersdorf- Perlach vom 16.04.2015
+- TOP 6.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 6.1.: Anschaffung eines Seitenradars zur Erfassung der Verkehrsbelastung - <div>erneute Nachfrage beim KVR</div>
+- TOP 6.2.: Christbaumverkauf am Johannisplatz - <div>zur Kenntnis genommen</div>
+- TOP 6.3.: Nachfragen zur Sanierung der Wasser-/Abwasserleitungen in der Welfenstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.4.: Anbringen von Pfeilmarkierungen auf der Eduard-Schmid-Straße vor den Lichtsignalanlagen (LSA) Schweigerstraße und Ohlmüllerstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.5.: Dritter Serviceterminal in der Filiale der Stadtsparkasse am Pariser Platz - <div>zur Kenntnis genommen</div>
+- TOP 6.6.: Ausbau von Betreuungsangeboten an der Grundschule Flurstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.7.: Barrierefreie und sichere Querung für Fuß- und Radverkehr unterhalb des Maximilianeums
+- TOP 6.9.: Pestalozzi-Gymnasium: Einbau eines Aufzugs - <div>zur Kenntnis genommen</div>
+- TOP 6.10.: Schädlingsbekämpfung in der Grünfläche vor der Steinhauser Straße 1 - 5 - <div>zur Kenntnis genommen</div>
+- TOP 6.11.: Ausbau der Bushaltestelle Schweigerstraße (stadteinwärts) - <div>zur Kenntnis genommen</div>
+- TOP 6.12.: Sanierung des Spielplatzes auf der Nordseite des Johannisplatz - <div>zur Kenntnis genommen</div>
+- TOP 6.13.: Treppe und Rolltreppe am Rosenheimer Platz instandsetzen - <div>zur Kenntnis genommen</div>
+- TOP 6.14.: Versuchstierhaltung im 5. Stadtbezirk
+- TOP 6.15.: Öffentliches WLAN für Au-Haidhausen - <div>zur Kenntnis genommen</div>
+- TOP 6.16.: Pflegeentwicklungskonzept für die Kleine Isar
+- TOP 6.17.: Baumersatzpflanzungen 2008 - 2014 - <div>zur Kenntnis genommen</div>
+- TOP 6.18.: Rasche Ertüchtigung bzw. Wiederinbetriebnahme des Aufzugs auf Gleis1/2 am Ostbahnhof - <div>zur Kenntnis genommen</div>
+- TOP 6.19.: Wörthstraße: Schutzstreifen schützen
+- TOP 6.20.: Sperrung des öffentlichen Fußwegs am Lilienberg
+- TOP 6.21.: Pfeilrichtungen auf dem Max-Weber-Platz nachbessern! - <div>zur Kenntnis genommen</div>
+- TOP 6.22.: Bahnsteigdach am Ostbahnhof instandsetzen
+- TOP 6.23.: Schiebetüren am Ostbahnhof-Haupteingang
+- TOP 6.24.: Überprüfung der Ampelschaltung an der Einfahrt zum MVG-Gelände an der Einsteinstraße - <div>zur Kenntnis genommen</div>
+- TOP 6.8.2: Reaktionen auf BA-Schreiben
+- TOP 6.1.: Verlängerung der Grünphase für Fußgänger an der Kreuzung Orleans-/Rosenheimer Straße, Bürgeranliegen aus der Sitzung desd BA 5 vom 20.05.2015; Antwortschreiben des Kreisverwaltungsreferates vom 14.08.2015
+- TOP 6.2.: Kapazitäten am Ostbahnhof; Anfrage des BA 5 aus der Sitzung am 15.04.2015; Antwortschreiben der MVG vom 26.08.2015
+- TOP 6.3.: Lärmreduzierung am Genoveva-Scheuer-Platz, Fahrbahnbelag/Fugenglättung; Schreiben des Baureferates vom 01.09.2015
+- TOP 6.8.3: Weitere Unterrichtungen
+- TOP 6.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 6.1.: Erziehungshilfezentrum Adelgundelheim, Bericht und Schnappschüsse zum Sommerfest am 01.07.2015
+- TOP 6.2.: Linkshänder e.V., Strick- und Häkelaktion in Haidhausen, Flyer und Foto vom 13.06.2015
+- TOP 6.1.: Regsam
+- TOP 6.2.: Kinder und Jugend
+- TOP 6.3.: Behinderte und Barrierefreiheit
+- TOP 6.4.: Ausländer und Flüchtlinge
+- TOP 6.5.: Frauen und Mädchen
+- TOP 6.6.: Internet
+- TOP 6.7.: Baumschutz
+- TOP 6.1.: Belfortstraße 6-8; Fällung von 3 Ahornbäumen
+- TOP 6.1.: Koop e.V. Isarspudel; Bericht der Veranstalter (TOP 6.1.1 vom 15.07.2015)
+- TOP 6.2.: Kultur braucht Raum, Ausstellung im Einstein Kultur im Juni 2016, Stand der Dinge, Organisation
+- TOP 6.3.: Nachfrage betreffs Graffitigestaltung der Radwegunterführung Gebsattelstraße am Auer Mühlbach
+- TOP 6.1.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschuss mehr Entscheidungsrechte übertragen; Änderung ders Unterrichtungsrechts in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht, BA-Antrags-Nr. 14-20/ B 01092 des Bezirksausschusses des Stadtbezirks 16- Ramersdorf-Perlach vom 16.04.2015
+- TOP 6.1.: Anmeldung eines Jugendtreffs bei der Nachbebauung des Paulaner Geländes (Ziffer 2)
+- TOP 6.2.: Unterbringung von Flüchtlingen und Wohnungslosen/Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss Produkt:4.1.4 akute Wohnungslosigkeit, Sitzungsvolrage Nr. 14-20/ V03518, Beschluss der Vollversammlung vom 01.07.2015
+- TOP 6.3.: Unterbringung von Flüchtlingen und Wohnungslosen/Flüchtilingen in kommunaler Zuständigkeit, 7. Standortbeschluss, Sitzungsvorlage Nr. 14-20/ V03729; Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015
+- TOP 6.1.: siehe TOP 6.2
+- TOP 6.1.: Presseinformation des RAW zur Jakobidult 2013
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.: Unveränderte Fortführung von Gaststättenbetrieben Kleingaststätte "Namal", Weißenburger Straße 39 Schank- und Speisewirtschaft "Dublin Castle", Gravelottestraße 7 Schank- und Speisewirtschaft "Escobar, Breisacher Straße 19 Schank- und Speisewirtschaft "Uyghur King", Weißenburger Straße 27 Schank- und Speisewirtschaft "Bozo und Loui", Pariser Straße 17
+- TOP 6.1.: Definition von Minimalstandards bei der Bürgerbeteiligung in der Bauleitplanung (Ziffer 4 des Antrags), Empfehlung Nr. 14-20/ E 00361 der Bürgerversammlung des Stadtbezirkes 05-Au-Haidhausen am 05.03.2015, Sitzungsvorlage Nr. 14-20/ V 03846; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 (SB)
+- TOP 6.2.: Verkauf einer städtischen Immobilie, Flst.: 14942 (Teilfläche), Sektion 8, Nähe Lilienstraße, Anhörung des Kommunalreferates vom 20.08.2015
+- TOP 6.3.: Rosenheimer Straße 103, Aufteilung Gewerbeinheit/Einzelhandel in 3 Nutzungseinheiten mit 2 Nutzungsänderungen in Gastronomie für den angrenzenden Hotelbetrieb (Nutzung 1: Cocktailbar- Nutzung 2: Bistro)- Nutzung 3: Kiosk mit Lotto/Toto/Wettannahmestelle); Anhörung der LBK vom 04.08.2015
+- TOP 6.4.: Welfenstraße 23, Umbau und Nutzungsänderung einer Gaststätte in eine Wohnung; Anhörung der LBK vom 03.08.2015
+- TOP 6.5.: Entenbachstraße 6, Nutzungsänderung von "Laden-Werkstatt" in "Yoga und Seminarraum" (EG rechts); Anhörung der LBK vom 04.08.2015
+- TOP 6.6.: Maria-Theresia-Straße 5, Nutzungsänderung: Bürofläche zu Wohnungen; Anhörung der LBK vom 03.08.2015
+- TOP 6.7.: Ernst-Reuter-Straße 4, Schulbauoffensive- Errichtung eines temporären Schulpavillons für e. Realschulcluster und e. Mensa als Interimsmaßnahme für die Schulanlage (Standzeit unter 10 Jahren); Anhörung der LBK vom 11.08.2015
+- TOP 6.8.: Welfenstraße 39-41, Errichtung eines Rückgebäudes (5WE) mit Kita und Tiefgarage sowei DG-Ausbau (4WE) und Anbau eines Lifts und von Balkonen (VGB)-VORBESCHEID; Anhörung der LBK vom 27.07.2015
+- TOP 6.9.: Am Neudeck 10-14, TEKTUR zu 1.2-2015-11036-21- Nutzungsänderung der ehem. JVA zu einem Wohngebäude, UMbau und Sanierung der Bestandgebäude, Anfügen von Anbauten und DG-Ausbau; Anhörung der LBK vom 10.08.2015
+- TOP 6.10.: Schlotthauerstraße 13, Aufstockung sowie Errichtung von neuen Balkonen und eines Personenaufzugs; Anhörung der LBK vom 03.08.2015
+- TOP 6.11.: Preysingplatz 3-7, Errichtung von Gewürzgärten; Anhörung der LBK vom 01.09.2015
+- TOP 6.12.: Versailler Straße 16-18, Aufstockung um ein Voll- und ein ausgebautes Dachgeschoss (Versailler Straße 16+18), Anbau eines Außenlifts (Versailler Straße 16); Anhörung der LBK vom 01.09.2015
+- TOP 6.1.: Wörthstraße 27, Vorbescheid der LBK vom 28.07.2015
+- TOP 6.2.: Vollzug der Wassergesetze; Anträge auf wasserrechtlic he Erlaubnis nach Art. 15 WG Sanierung und Modernisierung des Deutschen Museums; Informationen des RGU
+- TOP 6.1.: siehe TOP 6.3
+- TOP 6.1.: Altplatznachgenehmigung für den Wertstoffcontainerstandort Humboldstraße/Claude-Lorrain-Straße; Anhörung der AWM vom 23.07.2015
+- TOP 6.2.: Fahrradabstellkonzept (3. Realisierungsabschnitt); Anhörung des Baureferates vom 23.07.2015
+- TOP 6.3.: Verbsserung der Verkehrssituation in der Oberen Preysingstraße (TOP 4.1.2 vom 15.07.2015)
+- TOP 6.4.: Kompetenz vor Ort anerkennen und wertschätzen- den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechts der Anlage 1 Ziffer 5.1. (Abschnitt Kommunalreferat) BA-Satzung "Grundrechtliche Fragen der Müllbeseitigung" in ein Anhörungsrecht, BA-Antrags-Nr.14-20/ B01092 des Bezirksausschusses des Stadtbezirkes 16- Ramersdorf- Perlach vom 16.04.2015; Anhörung des Direktoriums vom 28.08.2015
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Preysingplatz 6
+- TOP 6.3.: Wiederherstellung der Verkehrsflächen im Breiteranger
+- TOP 6.4.: Nahmobilitätspauschale Erhöhung der Nahmobilitätspauschale durch Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 aufgrund eines gemeinsamen Änderungsantrages der Stadtratsfraktionen der CSU und der SPD Verwendung der Nahmolitätspauschale, Antrag Nr. 14-20/ A 00873 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 08.04.2015 Sitzungsvorlage Nr. 14-20/ V 02702; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 6.5.: Umsetzungsbeschluss zum Fahrradmietsystem "MVG Rad"- II Konzeptvorstellung und Regelung er Sondernutzungsgebühren für Vermietstationen Fahrradtypen/Mobiliätshilfen für Menschen mit Mobilitätseinschränkung Sitzungsvorlage Nr. 14-20/ V 03195; Beschluss des Ausschusses für Arbeit und Wirschaft am 23.06.2015 (VB)
+- TOP 6.6.: Auerfeldstraße 27; Verdeutlichung der Feuerwehrzufahrt durch Errichtung eines aboluten Haltverbotszone nach Zeichen 283 StVO mit dem Zusatz "Feuerwehrzufahrt"
+- TOP 6.1.: Berichte von wahrgenommenen Terminen
+- TOP 6.2.: Nächste UA-Sitzungen
+- TOP 6.3.: Nächste BA-Sitzung
+- TOP 6.4.: Sonstige Termine
+- TOP 6.1.: 11. Night-Wiesn Anstich am 16.09.2015
+- TOP 6.2.: Informations- und Diskussionsveranstaltung zum Thema Mieten und Wohnen in München am 23.09.2015 im Eine Welt Haus, 19.00 Uhr
+- TOP 6.3.: 18.jetzt- Fest junger Erwachsener im Rathaus am 17.Oktober 2015
+- TOP 6.4.: 30 Jahre Selbsthilfe in München am 23.10.2015
+- TOP 6.5.: Erste Ergebnispräsentation zum Forschungsprojekt Messestadt Riem am 20.10.2015
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.: Regionalgespräche 2015 mit der Lokalbaukommission am 13.10.2015 oder am 15.10.2015 um 17 Uhr , Blumenstraße 16, 6. Stock, Besprechungsraum 614
+- TOP 6.8.: Gründung der Brückenallianz Giesinger Berg am 28.10.2015, um 17 Uhr im Münchner Forum, Schellingstraße 65
+- TOP .11.: Dringende Verbesserungen am Bordeauxplatz - <div>Verweis in den UA Gesundheit, Umwelt und Verkehr</div>
+- TOP 6.1.: Entscheidungen
+- TOP 6.2.: Anhörungen
+- TOP 6.3.: Unterrichtungen
+- TOP 6.8.: Unterstützung der BA-Geschäftsstelle
