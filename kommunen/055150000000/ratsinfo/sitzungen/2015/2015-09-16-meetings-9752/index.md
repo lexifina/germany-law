@@ -1,0 +1,88 @@
+# 11. Sitzung (Einbringung Haushalt 2016)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-09-16T17:07:00+02:00
+- Ende: 2015-09-16T20:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9752
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9752
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00376221.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Flüchtlingen in Erstaufnahmeeinrichtungen des Landes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Planung zur Entwicklung des Baugebietes südlich der Hiltruper Straße forcieren - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2016 - einstimmig beschlossen
+- TOP 11: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa 2016) - Vorlage eingebracht
+- TOP 12: Optimierung bürgerorientierter Dienstleistungen: - einstimmig geändert beschlossen
+- TOP 12.1: Optimierung bürgerorientierter Dienstleistungen:
+- TOP 13: 1. Abbau geringfügiger Beschäftigungsverhältnisse bei der Stadt Münster - Antrag Nr. A-R/0051/2014 der SPD-Fraktion vom 27.11.2014 - von der Tagesordnung abgesetzt
+- TOP 14: Verordnung zur Aufhebung der Ordnungsbehördlichen Verordnungen vom 26.09.2013 und 07.05.2015 über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel und Hammer Straße am 25.10.2015 - einstimmig beschlossen
+- TOP 15: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, an zwei Sonntagen im Kalenderjahr 2016 - mehrheitlich beschlossen
+- TOP 16: Taxiordnung für die von der Stadt Münser zugelassenen Taxen - einstimmig beschlossen
+- TOP 17: Umsetzung des Gesetzes für die gleichberechtigte Teilhabe von Frauen und Männern in Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst (Teilhabegesetz) - einstimmig beschlossen
+- TOP 18: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2015 - zur Kenntnis genommen
+- TOP 19: Änderung des Gesellschaftsvertrages der Wohnungsgesellschaft Große Lodden mbH (WGL) - einstimmig beschlossen
+- TOP 20: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020 - einstimmig geändert beschlossen
+- TOP 20.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020
+- TOP 20.1.1: Bericht zur Wohnbaulandentwicklung 2014 und Fortschreibung des Baulandprogramms 2015 - 2020
+- TOP 21: Ausgleich von Mindereinnahmen im Ausbildungsverkehr - einstimmig beschlossen
+- TOP 22: Öffentliche Straßenbeleuchtung, Umrüstung auf LED-Technik - einstimmig beschlossen
+- TOP 22.1: Öffentliche Straßenbeleuchtung, Umrüstung auf LED-Technik
+- TOP 23: 1. Änderung des Schulnamens der Karl-Wagenfeld-Realschule in Erna-de-Vries-Realschule, Städtische Realschule - einstimmig beschlossen
+- TOP 24: Neufassung der Satzung für die Volkshochschule der Stadt Münster - einstimmig beschlossen
+- TOP 25: Genehmigung einer Dringlichkeitsentscheidung: Dreifaltigkeitsschule VOF-Verfahren - einstimmig beschlossen
+- TOP 26: Landesprogramm "Kulturagenten für kreative Schulen NRW" - einstimmig beschlossen
+- TOP 27: Kindertagesbetreuungsbericht 2015/2016 - einstimmig beschlossen
+- TOP 27.1: Kindertagesbetreuungsbericht 2015/2016
+- TOP 28: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - - von der Tagesordnung abgesetzt
+- TOP 29: Ersatzbau und Erweiterung der Kindergruppe Kleine Wiese e.V. in Mitte - einstimmig beschlossen
+- TOP 30: Anregung gem. § 24 GO NRW, Nr.: 2014-00062 "Verantwortungsvolle Regulierung von Cannabis auf kommunaler Ebene" - mehrheitlich geändert beschlossen
+- TOP 31: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Holzrahmenbauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten - mehrheitlich beschlossen
+- TOP 31.1: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Neue zeitlich befristete Flüchtlingseinrichtungen in Holzrahmenbauweise sowie Erweiterung von Containergebäuden an verschiedenen Standorten
+- TOP 32: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 32.1: Genehmigung einer Dringlichkeitsentscheidung: Zusätzliche Finanzierungsbedarfe für die notwendige Möblierung von Übeergangseinrichtungen für Flüchtlinge - mehrheitlich beschlossen
+- TOP 32.2: Genehmigung einer Dringlichkeitsentscheidung: Städtische Erstaufnahmeeinrichtung für Flüchtlinge in der ehemaligen Oxford-Kaserne, Aktivierung weiterer Gebäude - einstimmig beschlossen
+- TOP 33: Perspektivzentrum - verbesserte Angebotsstruktur - einstimmig beschlossen
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-Mitte
+- TOP 34.1.1: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 267 Teilabschnitt I: Beschluss zur Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.2: Stadtbezirk Münster-West
+- TOP 34.2.1: Vorhabenbezogene 6. Änderung des Bebauungsplans Nr. 396 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Münster-Hiltrup
+- TOP 34.3.1: Bebauungsplan Nr. 510 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 34.4: Stadtbezirk Münster-Südost
+- TOP 34.4.1: Vorhabenbezogene 1. Änderung des vorhabenbezogenen Bebauungsplans Nr. 517: Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 35: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 35.1: Kaufleute auf der Hammer Straße nicht benachteiligen:Verkaufsoffener Adventssonntag jetzt! - mehrheitlich abgelehnt
+- TOP 35.2: Münster bleibt Fahrradmetropole - mehrheitlich beschlossen
+- TOP 36: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 36.1: Masterplan Aasee prüfen und optimieren - verwiesen
+- TOP 36.2: Münster-Bikes-Sharing - Innovativ, umweltfreundlich und praktisch - verwiesen
+- TOP 36.3: LGBTTI*-Menschen in den Flüchtlingsheimen unterstützen - verwiesen
+- TOP 36.4: KiTa Loddenheide jetzt planen und bauen - verwiesen
+- TOP 36.5: Wohnen + Leben in Münster 2030 - Wachstum braucht Planung - verwiesen
+- TOP 36.6: Münster wird familienfreundlichste Stadt Deutschlands - Städtische Förderung für eigene vier Wände verbessern! - verwiesen
+- TOP 36.7: Das Herz des Schlaun-Gymnasiums wieder zum Schlagen bringen - verwiesen
+- TOP 36.8: Mehr Qualität im offenen Ganztag - Mehr Chancen auf gute Bildung sicherstellen - verwiesen
+- TOP 36.9: Medienentwicklungsplan (kurz: MEP), hier: Für eine schnellstmögliche WLAN-Ausstattung der Münsteraner Schulen - verwiesen
+- TOP 36.10: Mehr Individuelle Mobilität in der beruflichen Aus- und Weiterbildung mit einem neuen Azubi-Ticket - verwiesen
+- TOP 36.11: Handorf: Sportplatz zügig verlagern und Wohnraum schaffen - verwiesen
+- TOP 36.12: Für mehr münsterländische Solidarität: - stärkere finanzielle Beteiligung der Münsterlandkreise am FMO - verwiesen
+- TOP 36.13: Flüchtlinge brauchen Perspektiven - Neues Konzept für Unterbringung und Integration - verwiesen
+- TOP 36.14: Wohnungen für alle in einer lebenswerten Stadt Münster - Wohnungskonzept 2015 - 2050 - verwiesen
+- TOP 37: Umbesetzungen und Besetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 38: Verschiedenes
