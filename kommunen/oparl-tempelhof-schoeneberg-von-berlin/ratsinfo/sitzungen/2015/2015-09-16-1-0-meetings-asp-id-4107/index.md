@@ -1,0 +1,94 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-09-16T17:00:00+02:00
+- Ende: 2015-09-16T22:00:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4107
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4107
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=72880
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen der Vorsteherin - erledigt
+- TOP 3.1: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz "Friedenauer Stadtteilbibliothek retten: Ersatzstandort sofort einrichten" - erledigt
+- TOP 3.2: Gerhard-Hauptmann-Bibliothek im Rathaus Friedenau erhalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Einwohnerantrag gemäß § 44 Bezirksverwaltungsgesetz - "Zur Erhaltung des Gaslichts in Tempelhof-Schöneberg" - in der BVV abgelehnt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Sanierung der Toiletten der Johanna-Eck-Oberschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - erledigt
+- TOP 8: Änderung der Tagesordnung - (offen)
+- TOP 8.1: Kinder- und Jugendeinrichtungen PallasT, Potse und Drugstore am Standort Potsdamer Straße 180 erhalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Senatszuschüsse für Potse und Drugstore - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wertschätzung des Drugstores ist Wertschöpfung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Große Anfragen - erledigt
+- TOP 9.1: Wie ist Tempelhof-Schöneberg kurz- und mittelfristig auf den dauerhaften Zuzug von Flüchtlingen und Asylbewerbern vorbereitet? - beantwortet
+- TOP 9.2: Nicht vergessen zu erinnern! - Gedenkort Annedore und Julius Leber - vertagt
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Willkommenskultur in Tempelhof-Schöneberg ermutigend - Danke! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Koordinationsstelle kommunale Willkommenskultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Entscheidung über die Entwicklung auf dem EUREF-Campus treffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Umstellung des B-Plan Verfahrens 7-29 (EUREF) - in der BVV abgelehnt
+- TOP 10.5: Klare und einheitliche Beteiligung von Beschäftigtenvertretungen bei IT-Verfahren - überwiesen
+- TOP 10.6: Die Situation in der Grunewaldstraße 87 lösungsorientiert angehen - vertagt
+- TOP 10.7: Kunst und Kultur vor Ort fördern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Flüchtlingszentrum Rathaus Friedenau - vertagt
+- TOP 10.9: Sofortige Umsetzung der BVV-Beschlüsse zum Breslauer Platz - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Das Kita-Angebot an geeigneten Orten bedarfsgerecht erweitern und eine 24- Stunden-Kita modellhaft anbieten - überwiesen
+- TOP 10.11: Kommunale Willkommenskultur - in der BVV abgelehnt
+- TOP 10.12: Flucht-Unterkunft im ehem. Flughafen Tempelhof - Notwendige Infrastruktur mitdenken! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Möglichkeit einer "Bezirks-App" prüfen - überwiesen
+- TOP 10.14: Freiflächen für den Hundeauslauf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Investitionen im Lassen Park - in der BVV abgelehnt
+- TOP 10.16: Planungsvarianten Radspur Boelckestraße - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: Sankt-Matthias-Kirche stärker in den Fokus rücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.18: Kurzzeitparken an der Wünsdorfer Straße - überwiesen
+- TOP 10.19: Angebote in bezirklichen Bibliotheken für geflüchtete Menschen schaffen - überwiesen
+- TOP 10.20: Mehr Sicherheit für den Radverkehr im Bereich Martin-Luther-Straße / Hauptstraße - überwiesen
+- TOP 10.21: Beteiligung am bundesweiten Vorlesetag - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Wahl eines stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: Keine Umsetzung der "Rossebändiger" vom Kleistpark zum "Stadtschloss" - vertagt
+- TOP 10.24: Schankterrassen im öffentlichen Land - vertagt
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 11.1: Radverkehrspolitik - vertagt
+- TOP 11.2: Kann das bezirkliche Soziale Hilfesystem Menschen in Not adäquat unterstützen? - vertagt
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Anliegen der „Senioren-BVV“ ernst nehmen - überwiesen
+- TOP 12.2: "Free Open Air"-Flächen ausweisen und Partys einfach machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: W 40 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Von der Bankiers-Bahn zum Multifunktionsweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Ampelanlage Kolonnenstraße Ecke Feurigstraße fußgängerfreundlicher schalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Die Situation "Grunewald 87" lösungsorientiert angehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Enteignung prüfen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Eckpunkte Bauvorhaben Lichtenrader Damm 229-241 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Einsatz des Beteiligungsportals „Maerker“ prüfen - überwiesen
+- TOP 14.2: Wahlbeteiligung zur Seniorenvertretung steigern – Seniorenarbeit sichtbarer machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Klare und verständliche Sprache der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Quo vadis Bahnhofstraße? Geweckte Erwartungen nicht enttäuschen, Planungsprozesse transparent gestalten! - überwiesen
+- TOP 14.5: Fahrradständer für die Endhaltestelle der Buslinien X 76 und X83 in der Nahariyastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Eingesparte Landesmittel aus Bahnstreik für vordringliche Sanierung des S-Bahnhofs Yorckstraße verwenden! - überwiesen
+- TOP 14.7: Kältehilfe rettet Leben – Der Warmlufthalle „Halle-Luja“ der Berliner Stadtmission in Tempelhof-Schöneberg eine Perspektive geben! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Finanzielle Ausstattung der Schuldner- und Insolvenzberatung aufstocken - überwiesen
+- TOP 14.9: Fußballrasen an der Bruno- H.-Bürgel Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Renovierung der Fenster und Zäune in der Bruno-H.-Bürgel Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.11: Sozialarbeiter für das Ulrich-von-Hutten Gymnasium - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.12: Fahrradständer auf dem Hof der Grundschule am Barbarossaplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.13: Voraussetzungen für barrierefreien Zugang zum U-Bahnhof Friedrich-Wilhelm-Platz schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.14: Für barrierefreien Zugang zum U-Bahnhof Friedrich-Wilhelm-Platz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.15: Für eine Kinder- und Jugendbibliothek in Friedenau - Standort Handjerystraße 44 umfassend pfüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.16: Teilnahme der Grundschulen in Tempelhof-Schöneberg an den Aktionswochen "Zu Fuß zur Schule" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.17: Mittel für die Sanierung von Sportanlagen im Rahmen des Sportanlagensanierungsprogramms deutlich aufstocken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.18: Dog Stations für weniger Hundekot auf den Straßen in Lichtenrade, Marienfelde und Mariendorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.19: Einreichung von drei Anträgen auf Fördermittel aus dem Baufonds - Soziale Stadt, PJ 2016/ 2017 (Gebiet "Bülowstraße/ Wohnen am Kleistpark") - überwiesen
+- TOP 14.20: des Bezirksamtes Tempelhof-Schöneberg von Berlin über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zum vorhabenbezogenen Bebauungsplanentwurf 7-73VE für die Grundstücke Tempelhofer Weg 13-24, Sachsendamm 67-71 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 14.21: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des vorhaben-bezogen Bebauungsplans 7-81 VE für das Grundstück Gotenstr. 52-53 / Tempelhofer Weg 39-47 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 15: Termin der nächsten Sitzung - (offen)
