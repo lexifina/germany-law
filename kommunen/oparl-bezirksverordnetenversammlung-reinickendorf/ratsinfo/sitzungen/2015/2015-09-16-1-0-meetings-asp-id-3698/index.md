@@ -1,0 +1,149 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-09-16T17:00:00+02:00
+- Ende: 2015-09-16T21:25:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3698
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3698
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=85007
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 44. Sitzung der BVV am 16.09.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 44. Sitzung der BVV am 16.09.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 44. Sitzung der BVV am 16.09.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Planlos in die Zukunft? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines WLAN-Zugangs in den Sitzungsräumen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Initiative "Erstausbildung junger Erwachsener" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Transparenz - Bürgernähe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Finanzierung der Integrationslotsen II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Schulwegsicherung Sigismundkorso Ecke Alemannenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Transparente Bürgerbeteiligung auch in den Reinickendorfer Schulen umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Sicherheit für Radfahrer in Frohnau erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Tempo 30 / Am Dachsbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Pilotprojekt verschlüsselte E-Mail-Kommunikation mit der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Register in Reinickendorf einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Sanierung der Ellef-Ringnes-Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Verkehrsfluss in Tegel-Süd verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Tempo 30 vor der Kindertagesstätte St. Marien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Prideweek 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Aufenthaltsqualität am U+S-Bahnhof Wittenau verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Sicher Radfahren auf dem Hermsdorfer Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Sicherer Fußweg in Heiligensee (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.20: Modellbaukasten bei Neuplanung/ Baumaßnahmen von wichtigen Straßen und Plätzen für Barrierefreiheit einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Schulsekretariatsstunden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Gesundheitskarte nach dem Bremer Modell - überwiesen
+- TOP 7.23: Inklusion - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Kostenlose Smartphone-App "Japp" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Begegnungsverkehr auf dem Zabel-Krüger-Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Sexistische Werbung in Wirtschaft und Sport - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Kiezfonds II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Reinickendorfer Kreditinstitute sollen weiterhin Sparschweine entgegennehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Mehr Begrünung und Pflege der Insel im Mittelfeldbecken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Kosten für Verlängerung der U 8 ermitteln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Jugendverkehrsschulen dezentral erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Praktika für Flüchtlinge - überwiesen
+- TOP 7.33: Keine Unterbringung von Flüchtlingen in Turnhallen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Auch in Reinickendorf das Projekt Babylotsen einführen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.35: Einführung von Dokumentenprüfgeräten in den Bürgerämtern (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.36: Zwischennutzungsagenturen - überwiesen
+- TOP 7.37: Umleitungsstrecken für U6-Dammsanierung rechtzeitig abstimmen und frei halten (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.38: Poller reparieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.39: Erhalt des Waldspielplatzes in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.40: Uhr am S-Bhf. Wittenau dauerhaft reparieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.41: Annahme von Belohnungen, Geschenken und sonstigen Vorteilen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Neuwahl des/r Patientenfürsprechers/in für das Vivantes Humbuldt-Klinikum - Psychiatrie, Psychotherapie und Psychosomatik im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG - überwiesen
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - gewählt
+- TOP 9.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) - 2. Nachschiebeliste - - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Schulessen für Flüchtlingskinder sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Resolution der Bezirksverordnetenversammlung Reinickendorf zur Auswirkung der geplanten Handelsabkommen auf das Bezirkshandeln - erledigt
+- TOP 10.3: Grobscreening für potentielle Milieuschutzgebiete - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Sitzgelegenheiten am U-Bhf Rathaus Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Gleisreste im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Fahrradabstellanlagen am S-Bahnhof Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Verbesserung der Situation Waidmannsluster Damm / A111 - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Markstraße sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Schulwegsicherung in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Hinweiskasten Grünfläche Taldorfer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Anteil Reinickendorfs an den Potentialflächen zur Beweidung im Land Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Wartelisten in Kindertagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausstattung von Willkommensklassen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bürgeramt in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Unterstützung Netzwerk "Wir in Reinickendorf" - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausreichende Personalausstattung in der Betreuung sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Vorplanung Milieuschutz Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Prioritätenliste Schulsanierungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bericht zu Neubewertungen ehrenamtlicher Arbeit im Jugendbereich - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bereitstellung von Investitionsmitteln für den Neubau einer Sporthalle - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Flüchtlingsintegration - Verantwortung des gesamten Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Erziehungshilfen dürfen kein finanzielles Risiko für den Bezirk sein - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Zuschläge für Flüchtlingsbetreuung - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Zusätzliche Aufgaben in der Volkshochschule abfedern - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Personalengpässe im Stadtplanungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Unterstützung der ersten Gemeinschaftsschule in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Entwicklung des Lauterbach-Standortes zum "Leuchtturm-Projekt" für Inklusion - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bearbeitungszeiten für Geburts- und Sterbeurkunden verkürzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Stadtplanung und Elterngeldstelle stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Flüchtlingsintegration in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Bezirkliche Grünflächenpflege - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Schwerpunkte im Bereich Straßenbau - ohne Änderungen in der BVV beschlossen
+- TOP 10.33: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Schülerzahlen der Musikschule erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 10.34: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausschöpfung des Härtefallfonds für das Schulmittagessen prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.35: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Anschaffung von Medien zur Förderung der Integration - ohne Änderungen in der BVV beschlossen
+- TOP 10.36: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Feriensprachlernschulen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.37: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Produkte im Bereich Hilfen zur Erziehung evaluieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.38: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Sonderprogramme in Haushaltsplanung integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.39: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Weiterentwicklung der Kosten- und Leistungsrechnung - ohne Änderungen in der BVV beschlossen
+- TOP 10.40: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Straßensozialarbeit unterstützen und aktive Flüchtlings- und Integrationsarbeit in Reinickendorf stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.41: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Vertretung langzeiterkrankter Beamter - ohne Änderungen in der BVV beschlossen
+- TOP 10.42: Zusätzliche Stellen "Wachsende Stadt" - erledigt
+- TOP 10.43: I-Planung - erledigt
+- TOP 10.44: Globalsumme für die Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 10.45: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 10.46: Übertragung Strandbad Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Information während der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Zusätzliche Fahrradständer in Reinickendorf-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Bürgerinnen und Bürger sowie BVV bei baulichen Veränderungen im Tegel-Center frühzeitig einbinden - überwiesen
+- TOP 12.3: Zukunftskonzept Reinickendorf - überwiesen
+- TOP 12.4: Unerlaubtes Parken verhindern - überwiesen
+- TOP 12.5: Jährlich über Jahresprogramm Straßenbau berichten - überwiesen
+- TOP 12.6: Verkehrsberuhigende Maßnahmen Landesgrenze - überwiesen
+- TOP 12.7: Bushaltestellen Landesgrenze - überwiesen
+- TOP 12.8: Museum Reinickendorf richtig ausschildern - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Hinweisschilder Schildower Straße - überwiesen
+- TOP 12.10: Ausbildungs- und Arbeitsplatzbörse "Workeer" bekannt machen - überwiesen
+- TOP 12.11: Haltestelle Antonienstr. - überwiesen
+- TOP 12.12: Kurzparkzone Tegel-City prüfen - überwiesen
+- TOP 12.13: 50-jährige Partnerschaften mit Antony/Frankreich und Greenwich/Großbritannien im Jahr 2016 - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Auf Lokale Allianz für Menschen mit Demenz aufmerksam machen - überwiesen
+- TOP 13.2: Graspflege "Bei den Wörden" - überwiesen
+- TOP 13.3: Geschwindigkeit in der Frohnauer Straße stärker kontrollieren - überwiesen
+- TOP 13.4: Radfahrschutzstreifen Landesgrenze - überwiesen
+- TOP 13.5: "Praxistag Bus" durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Wahrung der Intimsphäre bei der Altersbestimmung bei jungen geflüchteten Menschen sicherstellen - überwiesen
+- TOP 13.7: Stationäre Geschwindigkeitsüberwachungsanlage - überwiesen
+- TOP 13.8: Sanierung U6 - überwiesen
+- TOP 13.9: Geplante Mittel für das Betreuungsgeld in den Kita-Ausbau stecken - überwiesen
+- TOP 13.10: Fahrradabstellanlagen Max-Beckmann-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Fernbushaltestelle in Tegel - überwiesen
+- TOP 13.12: Abschiebung aus Willkommensklassen unterbinden - ohne Änderungen in der BVV beschlossen
