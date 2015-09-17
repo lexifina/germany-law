@@ -1,0 +1,177 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510604
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510604
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.1.: 3.2.8 Truderinger Straße - Erstellung eines Zebrastreifens Höhe Hausnummer 304
+- TOP 1.2.: 4.6 Glasfaseranschluss im städtischen Wohnungsbau
+- TOP 1.3.: 4.7 Neuer Planungswettbewerb für den Willy-Brandt-Platz Antrag zu TOP 5.14
+- TOP 1.4.: 4.8 Öffentliche Toilette im Riemer Park
+- TOP 1.5.: 7.1.6 Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung ?Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder andere Fragen)? in ein Anhörungsrecht BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 Ramersdorf-Perlach vom 16.04.2015 - <div>nach Antrag</div>
+- TOP 1.6.: 7.3.3 Messestadt Riem Sicherung und Teilsanierung der Tribünenanlage Projektänderung zum Projektauftrag vom 27.09.2012 Nutzung des Kopfbaus 15. Stadtbezirk Trudering-Riem 1. Genehmigung des geänderten Nutzerbedarfsprogrammes Durchführung in zwei Bauabschnitten 2. Genehmigung der Projektänderung zum Projektauftrag vom 27.09.2012 Bestätigung der Projektkosten (Kostenobergrenze) 1.760.000,00 ? Beschlussvorlage für die Sitzung des Kommunalausschusses am 15.10.2015 - <div>Zustimmung zur Beschlussvorlage nur unter Maßgaben (s. Protokollnotiz)</div>
+- TOP 1.7.: 8.1.8 Waldtruderinger Straße 56 - Fällerlaubnis - <div>s. 8.1</div>
+- TOP 1.8.: 8.2.25 Mönchbergstraße 19 8.2.26 Friedenspromenade 10 8.2.27 Häherweg 26 - <div>s. 8.2</div>
+- TOP 1.9.: 10.2.11 Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Mädelegabelstraße
+- TOP 1.10.: 8.2.28 Truderinger Straße 234 - <div>s. 8.2</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse BUND Naturschutz in Bayern e.V. Kinderprogramm im Rahmen des ökologischen Hoffestes am 20.09.2015 - <div>Beschluss nach Antrag</div>
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 2.2.1.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 10.10.2015 auf dem Platz der Menschenrechte - <div>Beschluss nach Entscheidungsvorschlag</div>
+- TOP 2.2.2.: (E) TSV Waldtrudering e. V. Bau eines Flachwasserbrunnens Förderung der Baumaßnahmen nach den Sportförderrichtlinien der LHM - <div>Beschluss nach Antrag</div>
+- TOP 3: (E) Freischaltung des Internetanschlusses .... - <div>Beschluss nach Antrag</div>
+- TOP 3.4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - <div>Beschluss nach Entscheidungsvorschlag</div>
+- TOP 3.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über Projektplanung ÖPNV-Offensive IV - Edinburghplatz Haltestelle Messestadt West Projektnummer 5528 - <div>Beschluss nach Entscheidungsvorschlag</div>
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Parksituation in der Hugo Weiss Str. - <div>Weiterleitung an die PI 25</div>
+- TOP 3.2.: Verkehrssituation am Gymnasium Trudering - Behinderungen durch parkende Wohnmobilie - <div>Kenntnisnahme</div>
+- TOP 3.3.: Messestadt Kennzeichnung der blauen Zone in der Messestadt (Ziffer 1) Kontrollen zur Durchsetzung eines Durchfahrverbotes (Ziffer 2) - <div>Weiterleitung an das KVR und die PI 25</div>
+- TOP 3.4.: Verkehrssituation Feldbergstraße - <div>Weiterleitung an die PI 25, Kenntnisnahme</div>
+- TOP 3.5.: Verkehrssituation Helenenstraße - <div>teilweise Weiterleitung an KVR</div>
+- TOP 3.6.: Autohändler an der Heinrich Wieland Straße - <div>Weiterleitung an die LBK mit der Bitte der Nutzungsuntersagung</div>
+- TOP 3.7.: Zustand der Radwege in Trudering - <div>Weiterleitung an das Baureferat</div>
+- TOP 3.8.: Truderingen Straße - Erstellung eines Zebrastreifens Höhe Hausnummer 304 - <div>Weiterleitung an Aktive Zentren Trudering</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Feinstaubwerte im Bereich Corinthstrasse / Heinrich Wieland Strasse - <div>Weiterleitung an das RGU</div>
+- TOP 3.5.2.: Schneefinkenweg - Verunreinigung des Zugangs zum S-Bahnhof Gronsdorf - <div>Zustimmung, Gespräch Vorsitzender mit Straßenunterhalt</div>
+- TOP 3.5.3.: Verbot von Laubbläsern - <div>Weiterleitung an das RGU</div>
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.2.: Lärmschutzmaßnahmen an Glascontainern Friedenspromenade / Ecke Felicitas-Füss-Straße - <div>Zustimmung mit Ergänzungen</div>
+- TOP 4.3.: Verbesserung der Verkehrssicherheit in der Bajuwarenstraße - Fußgängerampel Ecke Bajuwaren- / Matterhornstraße - <div>Zustimmung mit Ergänzungen</div>
+- TOP 4.4.: Zehn Jahre nach der BUGA: Riemer See vor Ort erläutern - <div>nach Antrag</div>
+- TOP 4.5.: Zehn Jahre nach der BUGA: "Wilde" Wege barrierefrei machen - <div>Zustimmung mit Ergänzungen</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Frei zugängliches WLAN auch am Willy- Brandt- Platz - <div>Kenntnisnahme</div>
+- TOP 5.2.: Kindgerechtes Essen in Kinderkrippen und Kindertagesstätten - <div>Kenntnisnahme</div>
+- TOP 5.3.: Einrichtung eines Kreisverkehrs in der Joseph-Wild-Straße an der Einmündung Am Mitterfeld - <div>Kenntnisnahme</div>
+- TOP 5.4.: Erhöhung der Verkehrssicherheit an der Bahnstraße/Adlerstraße durch die Installation eines Verkehrsspiegels - <div>Kenntnisnahme</div>
+- TOP 5.5.: Naturlerlebnis Kirchtrudering - <div>Kenntnisnahme</div>
+- TOP 5.6.: Kreuzungserneuerung? Erschließung der Arrondierung Kirchtruderings (5. BA)? Dann bitte gleich mit Glasfasererschließung! - <div>Kenntnisnahme</div>
+- TOP 5.7.: Erhöhung der Verkehrssicherheit in der Bajuwarenstraße zwischen Wasserburger Landstraße und St. Augustinusstraße - <div>Kenntnisnahme</div>
+- TOP 5.8.: Öffnung des östlich gelegenen Außengeländes der Markgrafenschule - <div>Kenntnisnahme</div>
+- TOP 5.9.: Aufstellung von Hundekottütenbehälter in der Messestadt - <div>Kenntnisnahme</div>
+- TOP 5.10.: Zum Riemer See mit dem Leihrad- Ausleihstation bei S- Bahnhof Gronsdorf sinnvoll? - <div>Kenntnisnahme</div>
+- TOP 5.11.: Pläne für die Grundschule in Riem vorstellen - <div>Kenntnisnahme</div>
+- TOP 5.12.: Schwerverkehr in der Halfingerstraße - <div>Kenntnisnahme, weitere Nachfrage beim KVR </div>
+- TOP 5.13.: Ergänzung eines Zweirichtungs- Fußwegs entlang Am Hüllgraben - <div>Kenntnisnahme</div>
+- TOP 5.14.: Neuer Planungswettbewerb für den Willy-Brandt-Platz - <div>Kenntnisnahme</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Flohmarkt des Familienzentrums Messestadt Riem e.V. am 10.10.2015 auf dem Platz der Menschenrechte Abgabe der Stellungnahme bis 23.09.2015 - <div>Zustimmung zur Durchführung der Veranstaltung</div>
+- TOP 7.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat: "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in Entscheidungsrecht BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirks 16 - Ramersdorf-Perlach vom 16.04.2015 - <div>nach Antrag</div>
+- TOP 7.3.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 - Ramersdorf-Perlach vom 16.04.2015 Anhörungsschreiben - <div>nach Antrag</div>
+- TOP 7.4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist)" in ein Anhörungsrecht BA-Antrags-Nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 Ramersdorf-Perlach vom 16.04.2015 Anhörungsschreiben - <div>nach Antrag</div>
+- TOP 7.5.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung" in ein Anhörungsrecht BA-Antrags-nr. 14-20 / B 01092 des Bezirksausschusses des Stadtbezirkes 16 - Ramersdorf-Perlach vom 16.04.2015 - <div>nach Antrag</div>
+- TOP 7.1.: Am Mitterfeld - Radweglückenschluss zwischen Trudering und Riem Anhörung gemäß §9 der Satzung für die Bezirksausschüsse - <div>Zustimmung</div>
+- TOP 7.1.: Bauleitplanung der Gemeinde Haar Aufstellung des Bebauungsplaes Nr. 196 für einen Teilbereich der Watzmannstraße in Gronsdorf Verfahren nach § 4 Abs. 1 BauGB - <div>Zustimmung zur Bauleitplanung, BA-Antrag an das Planungsreferat</div>
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.: Nauestraße 4 - <div>Ablehnung des Bauvorhabens</div>
+- TOP 7.5.: Spieljochstraße 7 - 7a - <div>Ablehnung des eingereichten Bauantrags und Forderung nach einer Reduzierung der geplanten Bebauung</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Bahnstraße 13 - <div>Kenntnisnahme aller 8.1er Punkte</div>
+- TOP 8.1.2.: Graf-Lehndorff-Str. 4
+- TOP 8.1.3.: Kaltenbachstraße 2
+- TOP 8.1.4.: Kreuzerstraße 39
+- TOP 8.1.5.: Lohnrößleweg 10
+- TOP 8.1.6.: von-Heydebreck-Str. 10
+- TOP 8.1.7.: Westermeierstraße 32
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: Achenseeplatz 3 - <div>Zustimmung zum Votum des UA für die 8.2er Punkte, auf das UA Protokoll wird verwiesen</div>
+- TOP 8.1.2.: Büchmannstraße 11
+- TOP 8.1.3.: Hans-Pfann-Str. 14
+- TOP 8.1.4.: Heilwigstraße Haus A
+- TOP 8.1.5.: Heilwigstraße Haus B
+- TOP 8.1.6.: Hippelstraße 8
+- TOP 8.1.9.: Ickelsamer Straße 68
+- TOP 8.1.10.: Ilmstraße 2
+- TOP 8.1.11.: Karpatenstraße 10
+- TOP 8.1.12.: Kirtaweg 36
+- TOP 8.1.14.: Linnebrüggerstraße 15a
+- TOP 8.1.15.: Plumserjochstr. 6
+- TOP 8.1.16.: Schönauer Weg 1
+- TOP 8.1.17.: Spieljochstraße 7-7a
+- TOP 8.1.18.: Tsingtauer Str. 65
+- TOP 8.1.19.: Truderinger Straße 210
+- TOP 8.1.20.: Truderinger Straße 324
+- TOP 8.1.21.: Turnerstraße 99
+- TOP 8.1.22.: von-Gravenreuth-Str. 14
+- TOP 8.1.23.: Wachtelweg 30
+- TOP 8.1.24.: Waldstraße 38
+- TOP 8.1.25.: Waterbergstr. 1
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidungen des Vorsitzenden gemäß § 20 Abs. 1 Satz 2 BA- Satzung
+- TOP 9.1.1: Anhörung Marktveranstaltung und Markt "Riemer Pferdetag" am 19. + 20.09.2015
+- TOP 9.1.2: Fällungsantrag Bajuwarenstraße 99
+- TOP 9.2.: Regionalgespräche 2015 mit der Lokalbaukommission
+- TOP 9.3.: Sozialbürgerhaus Trudering -Zwischennachricht
+- TOP 9.4.: Erste Ergebnispräsentation zum Forschungsprojekt Messestadt Riem
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Änderung der Satzung für die BA der LHM 1. Vorberatungen in der BA-Satzungskommission vom 10.06.2015 a)Organisation und Durchführung von Projekten von "Kunst im öffentlichen Raum" 08-14/B05731 b)frühzeitige Information des BA über beantragte Veranstaltungen; Aufnahme als Unterrichtungsrecht in den Katalog des KVR der BA-Satzung, Entscheidungsrecht für die BA bei der Genehmigung von Veranstaltungen auf öffentlichem Verkehrsgrund und in Grünanlagen 08-14/B05869 Genehmigung von Veranstaltungen auf zentralen Plätzen im Stadtviertel, wie dem Rotkreuzplatz (Entscheidungsrecht für BA) 08-14/B00361 c)Erlaubnis von Vergnügungsveranstaltungen nach Art.19 LStVG Aufnahme als Anhörungsrecht in den Katalog des KVR der BA-Satzung 14-20/B00178 d)Anhörungsrecht der BA bei Veranstaltungen auf SWM-Grundstücken 14-20/B00682 e)Mitwirkung der BA beim Genehmigungsvorbehalt bei Umwandlung von Mietwhg. in Eigentumswhg. in Erhaltungssatzungsgebieten 14-20/B00392 f)Erhöhung der zu entschädigenden Termine für die Mitglieder der BA 14-20/A00550 der Herren StR Reissl, Kaplan, Podiuk, Dr. Dietrich g)Kinderbetreuungskosten während der BA-Tätigkeit; Änderung der BA-Satzung 14-20/B00345 h)Satzungsänderung zum Anhörungsrecht nach §13 Abs. 2 BA-Satzung 14-20/B00344 i) Rederecht von Einwohnerinnen und Einwohnern in BA-Sitzungen, Änderung der BA-Geschäftsordnung 2. Umsetzung der Empfehlungen in eine Änderungssatzung Sitzungsvorlage 14-20/V03494 Beschluss des Verwaltungs- und Personalausschusses
+- TOP 10.2.: unveränderte Fortführung von Gaststättenbetrieben:
+- TOP 10.2.1: Schank- und Speisewirtschaft, Imbisse Food Gallery Max, Am Messeturm 3
+- TOP 10.2.2: Schank- und Speisewirtschaft, Imbisse Imbiss A4, Am Messeturm 3
+- TOP 10.2.3: Vereinsgaststätte, Vereinsheim TSV Waldtrudering, Rotkehlchenweg 2
+- TOP 10.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.: Kurzberichte und Verwendungsnachweise
+- TOP 10.4.1: Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V.
+- TOP 10.4.2: Kreativ Musikforum
+- TOP 10.4.3: TSV Maccabi München e.V.
+- TOP 10.4.4: Freundeskreis SFZ München-Ost
+- TOP 10.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.6.: Trägerschaftsauswahlverfahren für die Betreuung im Beherbergungsbetrieb Wasserburger Landstraße 133 Änderung des Mehrjahresinvestitionsprogramms 2014-2018 Sitzungsvorlage Nr. 14-20 / V 03349 Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 10.1.: Astrid-Lindgren-Straße / Ingeborg-Bachmann-Straße; Abbau des vorhandenen Verkehrshelferüberganges und Einrichtung eines Fußgängerüberweges Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 10.2.: Umsetzungsbeschluss zum Fahrradvermietsystem "MVG Rad" - II Konzeptvorstellung und regelung der Sondernutzungsgebühren für Vermietstationen Fahrradtypen/Mobilitätshilfen für Menschen mit Mobilitätseinschränkung Sitzungsvorlage Nr. 14-20 / V 03195 Beschluss der Vollversammlung des Stadtrates am 01.07.2015
+- TOP 10.3.: Nahmobilitätspauschale Erhöhung der Nahmobilitätspauschale durch Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 aufgrund eines gemeinsamen Änderungsantrages der Stadtratsfraktionen der CSU und der SPD Verwendung der Nahmobilitätspauschale Antrag Nr. 14-20 / A 00873 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 08.04.2015 Sitzungsvorlage Nr. 14-20 / V 02702 Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 10.4.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung Riemer Park 10.08.2015 bis 31.12.2016
+- TOP 10.5.: Sanierungsgebiet "Quartierszentrum Trudering" - Gestaltung und Umbau von Straßen im 15. Stadtbezirk Trudering-Riem Bedarfs- und Konzeptgenehmigung Sitzungsvorlage Nr. 14-20 / V 03393 Beschluss des Bauausschusses vom 14.07.2015 (SB)
+- TOP 10.6.: Nachfrage zu TOP 7.2.1 der BA-Sitzung vom 25.06.2015 B-Plan 1958b - Horst-Salzmann-Weg, Projekt-Nr. 100666 Anhörung gemäß §9 der Satzung für die Bezirksausschüsse am 25. Juni 2015
+- TOP 10.7.: Turnerstraße - Verkehrsrechtliche Anordnung nach §45 StVO Umsetzung durchs KVR erfolgt.
+- TOP 10.8.: Information zum Start MVG Rad
+- TOP 10.9.: Inbetriebnahme der neuen Grundschule am Ilse-von-Twardowski-Platz - Schulwegsicherheit
+- TOP 10.10.: Am Mitterfeld - Radweglückenschluss zwischen Trudering und Riem im 15. Stadtbezirk Trudering-Riem Sitzungsvorlage Nr. 14-20 / V 03396 Beschluss des Bauausschusses vom 14.07.2015 (SB)
+- TOP 10.1.: Mitteilung über ein Grundstücksgeschäft Flst. 1408/221, Georg-Kerschensteiner-Straße
+- TOP 10.2.: Waldschulstraße 20, Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG); Nachtrag eines Gebäudes in die Denkmalliste vorliegende Dokumentation
+- TOP 10.1.: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Vollzug der Erhaltungssatzungen Vollzug der Zwecksentfremdungssatzung Bekanntgabe der Jahresstatistik 2014 Sitzungsvorlage Nr. 14-20 / V 03023 Bekanntgabe in der Sitzung des Sozialausschusses vom 18.06.2015
+- TOP 10.2.: Freiflächengestaltungssatzung ändern Begrünung nur noch bei erdgeschossigen Dächern oder Garagen wegen der Optik Antrag Nr. 14-20 / A 00715 der AFD vom 26.02.2015 Sitzungsvorlagen Nr. 14-20 / V 03433 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2015 (SB)
+- TOP 10.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 10.3.1: Adlerstraße 6
+- TOP 10.3.2: Graf-Ottenburg-Str. 15
+- TOP 10.3.3: Herderwiesweg 16
+- TOP 10.3.4: Iltisstra. 55
+- TOP 10.3.5: Phantasiestraße 32
+- TOP 10.3.6: Solalindenstraße 116
+- TOP 10.3.7: Von Eckert Straße 80
+- TOP 10.3.8: Zeisigweg 15
+- TOP 10.1.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 7. Standortbeschluss Sitzungsvorlage Nr. 14-20 / V 03729 Beschluss des Verwaltungs- und Personalausschusses des Feriensenat vom 12.08.2015
+- TOP 10.2.: Mieterbeiratswahl 2015 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder Entfristung und Finanzierung der Stelle für eine Bürokraft des Mieterbeirates Produkt 60 4.1.1 Mietberatung und Mietspiegel Stadtratsziel: A 1.1 Erhalt von Mietverhältnissen Sitzungsvorlage Nr. 14-20 / V 03011 Beschluss der Vollversammlung des Stadtrates vom 01.07.2015
+- TOP 10.3.: Schulbauoffensive 2013 - 2030 Beschluss der Vollversammlung des Stadtrates vom 29.07.2015 Beschluss Nr. 14-20 / V 03448
+- TOP 10.4.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit: 6. Standortbeschluss Produkt 4.1.4 akute Wohnungslosigkeit Sitzungsvorlage Nr. 14-20 / V 03518 Beschluss der Vollversammlung vom 01.07.2015
+- TOP 10.5.: BA-Informationen zum geplanten GU-Standort Am Moosfeld 37
+- TOP 10.6.: Einschulungsuntersuchung vorziehen Teilnahme des Referates für Gesundheit und Umwelt am Pilotprojekt Sitzungsvorlage Nr. 14-20 / V 03980 Bekanntgabe in der Sitzung des Gesundheitsausschusses vom 24.09.2015
+- TOP 10.7.: REGSAM - Ein starkes Netzwerk für München Trägerantrag auf Ressourcenerweiterung Antrag des BA 16 auf eigene REGSAM-Stelle Sitzungsvorlage Nr.14-20 / V 01463 Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 10.8.: BA-Erstinformation zum geplanten GU-Standort Graf-Lehndorff-Str. 36
+- TOP 4.1.: Erweiterung der GS Riem um ein Schulschwimmbecken - <div>vertagt in den UA SKS</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
+- TOP 8.1.7.: Hippelstraße 37
+- TOP 8.1.8.: Hippelstraße 37a
+- TOP 8.1.13.: Kranichweg 27
+- TOP 2.1.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> (E) Budget der Bezirksausschüsse Freunde der FFW Trudering von 1874 e.V. Anschaffung eines Defibrillators - <div>keine Behandlung, da abgesetzt</div>
