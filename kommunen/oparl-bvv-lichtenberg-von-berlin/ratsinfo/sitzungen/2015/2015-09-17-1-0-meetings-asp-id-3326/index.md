@@ -1,0 +1,103 @@
+# 47. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-09-17T17:00:00+02:00
+- Ende: 2015-09-17T19:45:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3326
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3326
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=121660
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - erledigt
+- TOP 8.1: Ausbildung im Bezirksamt - beantwortet
+- TOP 8.2: Sicherung des ehemaligen Sportlerwohnheims am Sportforum - beantwortet
+- TOP 8.3: Parksituation am 24h-Anleger - beantwortet
+- TOP 8.4: Kurzfristige Beantragungen von Personalausweisen - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Stellplätze auf Einzelhandelsflächen für Anwohnende verfügbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Verkehrsplanung TVN aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Ansiedlung von Startups und Internetfirmen fördern für ein zukunftsfähiges Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Erhöhung der Verkehrssicherheit an der Hauptstraße/Ecke Schlichtallee - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Freifunk für bezirkseigene Immobilien - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Finanzierung Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Anerkennungskultur für Ehrenamtliche in Kiezbeiräten stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Entwicklung der Wirtschaftsverkehre in der Vulkanstraße berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Parkplatzmarkierung Frankfurter Allee Süd - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Sicherheit für Fußgänger/innen und Fahrradfahrer/innen am U-Bahnhof Frankfurter Allee/Ecke Gürtelstraße erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Tuberkulosefürsorgezentrum weiter ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Mobile Toilette im Rheinsteinpark - überwiesen
+- TOP 9.13: Kulturelle Ziele für Schulwandertage - überwiesen
+- TOP 9.14: Tempo 30 vor Kita in der Dorfstraße Falkenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Mit festen Platzkontingenten Obdachlosigkeit vermeiden - überwiesen
+- TOP 9.16: Städtebauliche Kriminalprävention bei baulichen Planungsvorhaben - überwiesen
+- TOP 9.17: Sicherheit durch Präventionsrundgänge erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Rückbesinnung auf eine familienfreundliche Wort-Bildmarke des Bezirkes - "Kinder statt Monde" - überwiesen
+- TOP 9.19: Verkehrskonzept für die Straßenkreuzung Hohenschönhausener Straße/Weißenseer Weg erstellen - überwiesen
+- TOP 9.20: Vorhabenbezogener Bebauungsplan 11-72 VE Arbeitstitel: Alt-Friedrichsfelde 69-71 Verfahrensstand: öffentliche Auslegung - überwiesen
+- TOP 9.21: Zweite Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - überwiesen
+- TOP 9.22: Nachweisung der im Haushaltsjahr 2014 für den Bezirk Lichtenberg in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9.23: Nachschiebeliste zum Entwurf des Bezirkshaushaltsplanes Lichtenberg von Berlin für die Haushaltsjahre 2016/2017 - überwiesen
+- TOP 9.24: Bezirkshaushaltsrechnung 2014 - überwiesen
+- TOP 9.25: Nachweisung der im Haushaltsjahr 2015 bis zum 30.06.2015 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9.26: Erinnerung an Wohnsiedlung des Architekten Bruno Taut in der Frankfurter Allee Nord - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Naturkreisläufe sichern - das Bienensterben stoppen - auch in Berlin-Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Öffentliche Würdigung junger Lichtenberger Sportlerinnen und Sportler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Bürgerbeteiligung - in Lichtenberg gelebt; Möglichkeiten für den Bürger transparent und bekannt machen - überwiesen
+- TOP 9.30: Treppengeländer und Stufenmarkierungen in der Max-Taut-Aula - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.31: Kinder- und familienfreundliches Corporate Design - überwiesen
+- TOP 9.32: Öffentlich nutzbare WC`s im Einzelhandel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.33: Inklusion im Bereich Kultur und Weiterbildung sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.34: Weitere Wochenmärkte für Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: Verkehrsberuhigung im Malchower Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Trinkwasserangebot für wartende Kundinnen und Kunden in den Lichtenberger Bürgerämtern - überwiesen
+- TOP 9.37: Parkraumbewirtschaftung in Lichtenberg prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.38: Sichere Ein- und Ausfahrtregelung beim Einkaufszentrum Alfred-Kowalke-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.39: Berufsausbildung für unbegleitete jugendliche Flüchtlinge auch nach dem 18. Lebensjahr sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Ausweitung von Telearbeitsplätzen - Voraussetzungen für Dienstvereinbarung schaffen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.41: Verkehrsberuhigung für Falkenberg - verkehrsberuhigte Zone anordnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.42: Straßenmarkierung soll Sicherheit erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Umgehende Umsetzung des geplanten Aufbaus einer zentralen Impfstelle für geflüchtete Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.44: Schulstandort Rüdigerstraße 76 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.45: Geflüchtete Menschen in Wohnungen statt in Gemeinschaftsunterkünfte unterbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.46: Lichtenberg beteiligt sich an der Europäischen Woche der Mobilität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.47: Aufhebung der Rückbauverpflichtung nach senioren- und behindertengerechten Wohnungsanpassungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.48: Neuregelung Jubiläen im Bezirk Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.49: Bebauungsplan 11-87 - Behördenbeteiligung Arbeitstitel: KGA "Feldtmannsburg Bezirk II" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.50: Programmplanung Stadtumbau Ost - Vornotierung Programmjahr 2016/17 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.51: Neue Wort-Bild-Marke des Bezirksamtes Lichtenberg von Berlin Bezug: DS/1093/VII - überwiesen
+- TOP 9.52: Bebauungsplan 11-60 - Behördenbeteiligung Arbeitstitel: Gotlindestraße 2/20 Lindenhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.53: Planung der Bauunterhaltung 2016/17 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.54: Bebauungsplan 11 - 5 Arbeitstitel: Arendsweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.55: Bebauungsplan 11-54 - Änderungen im Ergebnis der Rechtsprüfung Arbeitstitel: Wohnen am Hechtgraben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 11.1: Vorhabenbezogener Bebauungsplan 11-73 VE - Änderung der Planungsabsicht Arbeitstitel: Wartenberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Inklusion bei Schüler_innentransporten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Umsetzung des Fußgängerschutzwegs Einbecker Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Entwicklungskonzept für Natur und Landschaft in der Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Praktika für Geflüchtete im Bezirksamt ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Vorbild Österreich: Gegen diskriminierende, frauenfeindliche und sexistische Außenwerbung! Verbindliche Regel für bezirkseigene Werbeflächen - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Parken an/auf der Frankfurter Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: BVV-Sondermittel für Ausstellung in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge zur Beschlussfassung - (offen)
+- TOP 12.1: Gift auf unseren Kinderspielplätzen? - in der BVV abgelehnt
+- TOP 12.2: Eigene Spielstätte für das Jugendtheater STRAHL in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Die Wirtschaftsregion aktiver entwickeln - überwiesen
+- TOP 12.4: Refugees are welcome - Willkommen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Anträge über die Einleitung von zwei vorhabenbezogenen Bebauungsplanverfahren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Lichtenberger Kindertagesstättenentwicklungsplan 2015/2016 - überwiesen
+- TOP 15: Schließung der Sitzung - erledigt
