@@ -1,0 +1,86 @@
+# 6. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2015-09-18T11:00:00+02:00
+- Ende: 2015-09-18T13:20:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2015-VV-24
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2015-VV-24
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2015-VV-24
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VV-24
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2015-VV-24
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen
+- TOP 1.1: Neuaufstellung des Bundesverkehrswegeplans (BVWP) 2015 Aktuelle Informationen zum Verfahrensablauf
+- TOP 1.2: Regionaler Vorschlag zum Jahresbauprogramm 2016 für die Maßnahmen des Landesstraßenausbauplans (großes Bauprogramm)
+- TOP 1.2.1: Anfrage der Fraktion B90/Die Grünen vom 25.08.2015, hier: L 821 n - Ortsumgehung Bergkamen
+- TOP 1.2.2: Antwort der Bezirksregierung Münster auf die Anfrage der Fraktion B90/Die Grünen vom 25.08.2015
+- TOP 1.2.3: L 821 n - OU Bergkamen, Änderungsantrag der Fraktionen CDU, SPD und B90/Die Grünen vom 18.09.2015
+- TOP 1.3: Fortschreibung 2015 der landesseitigen 'Planungspriorisierung 2011' der Bundesfernstraßen- und Landesstraßen-Bedarfsplanmaßnahmen Aktuelle Informationen
+- TOP 1.4: Neuaufstellung des ÖPNV-Bedarfsplans 2017 Informationen zum Verfahrensablauf
+- TOP 1.4.1: „Neuaufstellung des ÖPNV-Bedarfsplans 2017“
+- TOP 1.5: Städtebauförderung hier: Veröffentlichung des Städtebauförderprogramms 2015
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.6: 83. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP99) im Gebiet der Städte Kamp-Lintfort, Moers und Rheinberg Halde Kohlenhuck Aufhebung der bergbaulichen zweckgebundenen Nutzung eines Freiraumbereichs als „Aufschüttung/Ablagerung und Halde“ und Festlegung eines Allgemeinen Freiraum- und Agrarbereichs als Windenergiebereich Aufstellungsbeschluss
+- TOP 1.7: Stellungnahme zum Entwurf des Landesplanungsgesetzes
+- TOP 1.7.1: Ergänzung der Stellungnahme zum Entwurf des Landesplanungsgesetzes
+- TOP 1.7.2: Stellungnahme zum Entwurf des Landesplanungsgesetzes
+- TOP 1.8: Anstehendes Raumordnungsverfahren für den Neubau einer Ferngasleitung von Legden nach Kempten (Zeelink 2)
+- TOP 1.9: Mittel aus dem Jahresbauprogramm des Landes NRW für den Radwegebau an bestehenden Landesstraßen zweckgebunden verausgaben
+- TOP 1.10: Anfragen und Mitteilungen
+- TOP -: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Verwaltungsvorlagen
+- TOP 2.1: RVR-interne Angelegenheiten
+- TOP 2.1.1: Umbesetzung in den Gremien, hier: Umbesetzung in den Ausschüssen
+- TOP 2.1.1.1: Besetzungsvorschläge für den Strukturausschuss, Fraktion Bündnis 90/Die Grünen vom 16.09.2015
+- TOP 2.1.2: Gesetzesnovelle RVR-G hier: Änderung der Verbandsordnung
+- TOP 2.2: Unterstützung von freiem Internet- und Informationszugang Antrag der Fraktion „Die Piraten“ hier: Stellungnahme der Verwaltung (Ref. 13/Ref. 18)
+- TOP 2.3: Marktstudie zur Vorbereitung einer Standortmarketingkampagne des Wirtschaftsstandortes Metropole Ruhr
+- TOP 2.4.1: Bericht über die Prüfung des Jahresabschlusses 2013, Feststellung des Jahresabschlusses 2013 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2013 bis 31.12.2013
+- TOP 2.4.2: Beschluss über die Behandlung des Jahresüberschusses 2013
+- TOP 2.5: Haushalt 2016
+- TOP 2.5.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2016
+- TOP 2.5.2: Einbringung des Haushaltes 2016
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Route der Industriekultur, Qualitätskriterien für Ankerpunkte
+- TOP 2.7: Wissenslabor Ruhr (KENNISLAB RUHR)
+- TOP 2.7.1: Wissenslabor Ruhr (KENNISLAB RUHR) hier: Antwort der Verwaltung
+- TOP 2.8: Informationsveranstaltung des Ministeriums für Klimaschutz, Umwelt, Landwirtschaft, Natur- und Verbraucherschutz des Landes NRW zur 'Strukturvision Schiefergas' in den Niederlanden vom 23. April 2015
+- TOP 2.9: Kabinettsbeschluss zur Schiefergasförderung in den Niederlanden Hier: Aussetzen der Schiefergasförderung für fünf Jahre
+- TOP 2.10: Fahrradverleihsystem Metropolradruhr Hier: Sachstandsbericht
+- TOP 2.11: Radschnellwege in der Metropole Ruhr hier: Sachstandsbericht
+- TOP 2.12: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Entwurf des Endberichts 'Leitbilder und Zielaussagen zur Regionalen Mobilität in der Metropole Ruhr'
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.13: Fazit !SING – DAY OF SONG 2014
+- TOP 2.13.1: Day of Song Antrag der Fraktionen CDU, SPD, B90/Die Grünen vom 21.08.2015
+- TOP 2.14: Förderung der freien Kulturszene
+- TOP 2.14.1: Änderungsantrag der FDP-Fraktion zur Förderung der freien Kulturszene
+- TOP 2.14.2: Förderung der freien Kulturszene Änderung der Förderbedingungen und Förderkriterien Antrag der Fraktion Die Linke. vom 25.08.2015
+- TOP 2.14.3: Förderung der freien Kulturszene Antrag der Fraktionen CDU, SPD, B90/Die Grünen vom 21.08.2015
+- TOP 2.15: Ruhr Games 2015 - Rückblick und Evaluation
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.16: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.17: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.18: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2014
+- TOP 2.19: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2014
+- TOP 2.20: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2014
+- TOP 2.21: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.22: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2014
+- TOP 2.23: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.24: Angelegenheiten der TER TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2014
+- TOP 2.25: Bericht über die Gründung der 'Abfallwirtschaft metropoleruhr GmbH' (AmG)
+- TOP 2.26: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Änderung der Betriebssatzung
+- TOP -: Vorlagen aus dem Rechnungsprüfungsausschuss
+- TOP 2.27: Gesamtabschlüsse 2012 bis 2015 Gesetz zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse und zur Änderung kommunalrechtlicher Vorschriften
+- TOP 2.28: Anfragen und Mitteilungen
+- TOP -: ÖPEL-Programm hier: Schreiben der Ministerpräsidentin vom 14.08.2015
+- TOP -: Anfrage der Fraktion B90/Die Grünen vom 28.08.2015, hier: Entwicklung des Freizeitschwerpunkts Glörtalsperre
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
