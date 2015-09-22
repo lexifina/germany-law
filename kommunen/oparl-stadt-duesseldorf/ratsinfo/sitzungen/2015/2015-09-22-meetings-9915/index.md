@@ -1,0 +1,62 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-22T16:00:00+02:00
+- Ende: 2015-09-22T20:05:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9915
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9915
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247965.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247965.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00247965.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 5: Schule der Zukunft - zur Kenntnis genommen
+- TOP 6: Rahmenplan Einzelhandel 2015 - Vorentwurf - - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Änderung der Parkgebührenordnung - mehrheitlich beschlossen
+- TOP 9: Haushaltsplanentwurf 2016 - zur Kenntnis genommen
+- TOP 10: Musik in Matthäi - einstimmig beschlossen
+- TOP 11: Bezirksbezogene Haushaltsmittel/Matthäi-Kirchengemeinde - zur Kenntnis genommen
+- TOP 12: Zuschuss an "Musik in Matthäi" aus bezirksbezogenen Haushaltsmitteln - zur Kenntnis genommen
+- TOP 13: Förderung der HISKO e.V. wegen Engpass bei Sachspenden - einstimmig beschlossen
+- TOP 14: Zuschuss an Hisko-Hilfe im Schwangerschaftskonflikt aus bezirksbezogenen Haushaltsmitteln - zur Kenntnis genommen
+- TOP 15: Sitzbank im Kreuzungsbereich Gerresheimer, Mettmanner und Krahestraße - einstimmig beschlossen
+- TOP 16: Babyschaukeln - einstimmig beschlossen
+- TOP 17: Erhalt der Gaslaternen im Stadtbezirk 2 - einstimmig beschlossen
+- TOP 18: Umwidmung einer Fahrspur auf dem Brahmsplatz - einstimmig beschlossen
+- TOP 19: Tischtennisplatten auf dem Schillerplatz - einstimmig beschlossen
+- TOP 20: Tischtennisplatten Schillerplatz - einstimmig beschlossen
+- TOP 21: Luftmessbericht 2014 - einstimmig beschlossen
+- TOP 22: Straßenumbenennung - einstimmig beschlossen
+- TOP 23: Beschlusskontrolle der Bezirksvertretung - einstimmig beschlossen
+- TOP 24: Tempo 30 Kühlwetterstraße - einstimmig beschlossen
+- TOP 25: Taxistandplätze Grafenberger Allee (in Höhe Einmündung Engerstraße) - einstimmig beschlossen
+- TOP 26: Mobile Geschwindigkeitsanzeige - einstimmig beschlossen
+- TOP 27: Beschilderung Fahrradweg zwischen Mathildenstraße und Heinrichstraße durch Grünanlage "Brille" - einstimmig beschlossen
+- TOP 28: Fernwärmenetz im Bezirk 2 - schriftlich beantwortet
+- TOP 29: Hallbergstraße und Grunerstraße - schriftlich beantwortet
+- TOP 30: Fragestunde für Einwohnerinnen und Einwohner - schriftlich beantwortet
+- TOP 31: Eislauf-Trainingshalle Brehmstraße
+- TOP 32: Fernwärmeausbau Hans-Sachs-Straße / Sohnstraße - zur Kenntnis genommen
+- TOP 33: Bedarf an zusätzlichen Schulplätzen - schriftlich beantwortet
+- TOP 34: Querung der Graf-Recke-Straße vor der Carl-Sonnenschein-Schule - zur Kenntnis genommen
+- TOP 35: Verkehrsführung Herderstraße - zur Kenntnis genommen
+- TOP 36: Erfahrungen nach Umbau Birkenstraße - zur Kenntnis genommen
+- TOP 37: Radwegsicherung - zur Kenntnis genommen
+- TOP 38: Online-Radwege-Meldung - zur Kenntnis genommen
+- TOP 39: Taxistandplätze Graf-Recke-Straße - zur Kenntnis genommen
+- TOP 40: Festsetzung von Überschwemmungsgebieten - Information - zur Kenntnis genommen
+- TOP 41: Plangebiet Nr. 5576/080 "Kölner Straße/ Erkrather Straße" städtebauliches Konzept Living Central - zur Kenntnis genommen
+- TOP 42: B-Plan 02/002 Max-Planck-Straße Sachstandsbericht - zur Kenntnis genommen
+- TOP 43: Widmung von Straßen - zur Kenntnis genommen
+- TOP 44: Installation von Fahrradständern - zur Kenntnis genommen
+- TOP 45: Franklinbrücke / Rethelstraße - Radweg - zur Kenntnis genommen
