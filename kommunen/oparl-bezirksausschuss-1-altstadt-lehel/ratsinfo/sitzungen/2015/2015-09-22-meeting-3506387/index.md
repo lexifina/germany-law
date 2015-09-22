@@ -1,0 +1,104 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-09-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506387
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506387
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 3 Abschnitt Referat: für Arbeit und Wirtschaft ?Vergabe von städtischen Grundstücken? in ein Anhörungsrecht
+- TOP .2.: Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat: ?Neuaufstellung bzw. Änderung von Wegweiseranlagen? in ein Entscheidungsrecht
+- TOP .3.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 5 Abschnitt Referat für Bildung und Sport: ?Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen? in ein Anhörungsrecht
+- TOP .4.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 15 Abschnitt Referat: für Stadtplanung und Bauordnung ?Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist? in ein Anhörungsrecht
+- TOP .5.: Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung ?Grundsätzliche Fragen der Müllbeseitigung? in ein Anhörungsrecht.
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Stichpunkte zu Altstadt/Hackenviertel, Bürgeranfrage
+- TOP 7.2.: Anzahl und Unterbringung der Fahrradstellplätze im modernisierten Wilhelmsgymnasium
+- TOP 7.1.: Antrag der CSU-Fraktion, Initiative Dr. Markus Hundemer: Verunstaltende Werbung in der Altstadt unterbinden
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Tektur Sendlinger Str. 46: Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Büro- und Geschäftshauses / Kreuzstr. 17: Abbruch und Neubau eines Wohn- und Geschäftshauses
+- TOP 7.2.: Vorbescheid Mariannenstr. 5: Errichtung eines Hofgebäudes
+- TOP 7.3.: Ländstr. 3: Sanierung und Modernisierung eines denkmalgeschützten Wohngebäudes, Ausbau des Speicherbodens, Anbau eines Aufzugs im Innenhof
+- TOP 7.4.: Tektur Oberanger 16: Neubau eines Büro- und Geschäftshauses
+- TOP 7.5.: Vorbescheid Oettingenstr. 40 (vertagt aus 2015.07 B 3.1.14 N und 2015.08 B 3.1.13)
+- TOP 7.6.: Vorbescheid Klosterhofstraße 4: Änderung / Aufstockung und hofseitige Anbauten ? Vorbescheid (Variante 1 Mansardendach ? Variante 2 Staffelgeschosse) vertagt aus 2015.08 B 3.1.7
+- TOP 7.7.: Frauenstr. 7: Aufstockung eines Wohn-, Geschäfts- und Bürohauses (vertagt aus 2015.07 B 3.1.6)
+- TOP 7.8.: Vorbescheid Dianastr. 1: Neuerrichtung 1. und 2. DG
+- TOP 7.9.: Vorbescheid Neuhauserstr. 41, Neubau Geschäftshaus Neuhauserstr. 41 sowie Sanierung, Teilabbruch, Umbau und Nutzungsänderung Geschäftshaus Herzog-Wilhelm-Str. 1
+- TOP 7.10.: Viktualienmarkt: Abt. II Umbau einer Gaststätte mit Erweiterung des Wirtsgartens, befristet auf 5 Jahre (vertagt aus 2015.07 B 3.1.7)
+- TOP 7.11.: Vorbescheid Marienstr. 14-16, Aufstockung eines Bürogebäudes um ein Geschoss mit Nutzung als zwei Wohneinheiten oder als Büro
+- TOP 7.12.: Löwengrube 10: Ausbau 2. DG (1.+2. Ebene), Einrichtung von Gauben, Nutzungsänderung 1.DG: 2 Wohnungen zu Büros, Projektvorstellung durch Bauherrin/Architekt
+- TOP 7.1.: Schriftliche Anfrage im Stadtrat: Wiederherstellung des Fischbrunnens vor dem Münchener Rathaus in seiner ursprünglichen Form?
+- TOP 7.1.: Bürgeranliegen: Nächtliche Lärmbelästigung im Tal
+- TOP 7.2.: Bürgeranliegen: ?Bettlersituation? an der Hl. Geist Kirche
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: ?Bar Levante?, Odeonsplatz 14, Genehmigung einer Freischankfläche
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Herzogspitalstr. 10, Aufstellung von neuen Verkaufseinrichtungen
+- TOP 7.2.: Odeonsplatz 11, Aufstellung eines mobilen Fahrradständers
+- TOP 7.3.: Sonnenstr. 17 (Eingang Seite Josephspitalstr.), Aufstellung eines mobilen Fahrradständers
+- TOP 7.1.: Minimierung der Musiklautstärke beim Kulturstrand der Urbanauten 2015 am Vater-Rhein-Brunnen, Beschlussvorlage des KVR zur Erledigung Empfehlung Nr. 14-20 / E 00398 aus der Bürgerversammlung Au-Haidhausen am 26.02.2015
+- TOP 7.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Karlsplatz ? Münchner Eiszauber vom 20.11.2015 bis 17.01.2016
+- TOP 7.2.: München Marathon am 11.10.2015 und Trachtenlauf am 10.10.2015
+- TOP 7.3.: Ungarischer Markt vom 08. bis 11.10.2015 auf dem Rindermarkt
+- TOP 7.4.: Veranstaltung ?Brot und Fische? am 25.10.2015 auf dem Odeonsplatz
+- TOP 7.5.: Info-Veranstaltung des DLRG am 28.11.2015 auf dem Odeonsplatz
+- TOP 7.6.: Lange Nacht der Münchner Museen am 17.10.2015
+- TOP 7.7.: Info Veranstaltung anlässlich des 45-jährigen Bestehens der Scientology Kirche in Bayern am 30.09.2015 am Richard Strauss Brunnen
+- TOP 7.1.: Anhörung für Sondernutzung auf öffentlichem Verkehrsgrund und in städtischen Grünanlagen für die Aktion ?Play me, I'm yours 2015?, 8.10-25.10.2015, verschiedene Standorte
+- TOP 7.1.: Viktualienmarkt: Beschwerden der Marktkaufleute über aggressive Radfahrer
+- TOP 7.1.: Verkehrsspiegel Widenmayerstr. gegenüber Rosenbuschstr./Crusiusstr./Paradiesstr.
+- TOP 1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gewürzmühlstr.
+- TOP 1.2.: Stellungnahme des BA 1, Rückbau von Abbiegespuren in der Oettingen- und Sternstr., Verbesserung des öffentlichen Umfeldes im Zusammenhang mit dem Bauvorhaben Oettingenstr. 6-8 (vertagt aus 2015.02 D 3.1)
+- TOP 1.3.: Anregungen beim Austausch der Lichtsignalanlage Sonnenstr./Postscheckamt
+- TOP 1.1.: Antrag der CSU-Fraktion, Initiative Dr. Markus Hundemer: Einrichtung eines Kinderspielplatzes auf dem Marienhof
+- TOP 1.2.: Unterbringung von unbegleiteten minderjährigen Flüchtlingen in der Pestalozzistr. 2-4
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Erbbaurecht Müllerstr. 2-6, Beschluss der Vollversammlung vom 29.07.2015, Sitzungsvorlage Nr. 14-20/V 02960
+- TOP 0.3.: Vollzug der Grünanlagensatzung vom 15.06.2015, Baustelleneinrichtung an der Herzog-Wilhelm-Straße Lfd. Nr. M 02963/15
+- TOP 0.4.: Vollzug der Wassergesetze, Beschränkte Erlaubnis nach Art. 15 Bayerisches Wassergesetz, Bauvorhaben Sendlingerstr. 46 / Kreuzstr. 17
+- TOP 0.5.: Nutzungsänderung und Umbau Pilotystr. 8 / RGB, Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 0.6.: Generalinstandsetzung und Erweiterung des Staatlichen Wilhelmsgymnasiums, Thierschstr. 46, Beschluss des Bildungsausschusses des Stadtrats vom 17.06.2015, Sitzungsvorlage: V03311
+- TOP 0.7.: Bebauungsplan mit Grünordnung Nr. 2102 Sattlerstr. (beiderseits) zwischen Fürstenfelderstr. Und Färbergraben, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015, Sitzungsvorlage: V03481
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Lärm- und Geruchsbelästigung durch Entlüftung der Lagerkeller unter dem Viktualienmarkt, Antwortschreiben der Markthallen München sowie des Referats für Gesundheit und Umwelt zu einem Bürgeranliegen aus der BA-Sitzung vom 21.07.2015
+- TOP 0.6.: Belästigung der Anwohner durch Gäste vor der Gaststätte ?Sausalitos? und durch aggressive Bettler; Antwort der Polizeiinspektion 11 auf ein Bürgeranliegen aus der BA-Sitzung vom 21.07.2015
+- TOP 0.7.: Eilentscheidung des Vorsitzenden zur/zum: - Stadtraumprojekt ?Shabbyshabby Apartments?, Apartment ?M6? - zugestimmt - Ander Art Festival, 26.09.2015, Odeonsplatz ? zugestimmt - Bauernmarktmeile, 27.09.2015, Odeonsplatz/Ludwigstr. ? zugestimmt - Infoveranstaltung ?Parking Day 2015?, 18.09.2015, Schrammerstr. - zugestimmt
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Privat (Bus-)straße durch den Englischen Garten (zwischen Thiem- und Tivolistraße): Beschränkung der zulässigen Höchstgeschwindigkeit auf 30 km/h
+- TOP 0.2.: BA-Antrag ?Ameisenplage beim Spielplatz Reitmorstr. / Am Gries?, BA-Antragsnr. 14-20 / B 01431 des BA 1 vom 21.07.2015, Antwortschreiben Gartenbau (Unterhalt Nordost, Bau-G2)
+- TOP 0.3.: Toilettenanlage im Maßmannpark, Öffentliche Toiletten in Grünanlagen / Spiel- und Bolzplätzen, Beschlussvorlage des Bauauschusses vom 22.09.2015
+- TOP 0.4.: Leistungsprogramm der MVG für die Fahrplanperiode 2016, Ergänzung 28.07.2015
+- TOP 0.5.: Mobilität in Deutschland 2016, Haushaltsbefragung zum Alltagsverkehr in München, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage: V03899
+- TOP 0.1.: Zuwendungsbewilligungen; Verwendungsnachweise
+- TOP 0.2.: Ausstattung der Freiwilligen Feuerwehr mit Automatischen Externen Defibrillationsgeräten durch das Kreisverwaltungsreferat
+- TOP 0.3.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit, 7. Standortbeschluss, Sitzungsvorlage Nr. 14-20 / V03729, Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015
+- TOP 0.4.: Bürgerhaushalt
+- TOP 0.5.: REGSAM ? Ein starkes netzwerk für München, Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigene REGSAM-Stelle
+- TOP 7.8.: Fotoausstellung ?FotoDoks?, 14.10-01.11.2015 im Marienhof
+- TOP 1: (E) Anbringung von Hinweisschildern für den Stadtteil Lehel Empfehlung Nr. 14-20 / E 00329 der Bürgerversammlung des 01. Stadtbezirkes Altstadt-Lehel am 04.12.2014
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Theater Hofspielhaus Theaterstück "Die Sphinx von Giesing" im Oktober/November 2015
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Figurentheaterfestival ?Anfänger? vom 11. bis 14.03.2016
+- TOP .1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Verkehrskonzept Nord-Süd-Querung der Altstadt für den Radverkehr (NSQ) - Information über die kommende Beschlussvorlage
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 7.3.2: Sonstige
