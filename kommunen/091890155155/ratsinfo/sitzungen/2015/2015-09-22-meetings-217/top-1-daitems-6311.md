@@ -1,0 +1,7 @@
+# TOP 1: Genehmigung der Sitzungsniederschrift vom 21. Juli 2015
+
+- Sitzung: Sitzung des Planungsausschusses (2015-09-22)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/6311
+- Ergebnis: einstimmig beschlossen
