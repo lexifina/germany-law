@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2015-09-23T17:00:00+02:00
+- Ende: 2015-09-23T19:18:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3292
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3292
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 26.08.2015 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Wahl einer/eines ehrenamtlichen Stellvertreterin/Stellvertreters des Oberbürgermeisters - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2015; hier: überplanmäßige Mittel für den Ablösebetrag der Erneuerung der Brücke Entenpfuhler Weg nach dem zweigleisigen Ausbau der DB-Strecke zwischen Aachen und Bundesgrenze und Erneuerung des Buschtunnels - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2015 Bobenden/ LontzenwegEndausbau der Erschließung - ungeändert beschlossen
+- TOP 5.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 20152. Bericht über die Fallzahlen- und Kostenentwicklung im Bereich der Hilfen zur Erziehung und Maßnahmen nach § 35 a SGB VIII für das Haushaltsjahr 2015 (1.1.-27.07.2015) - ungeändert beschlossen
+- TOP 5.4: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen- Haushaltsjahr 2015 -Körperliche Inventur gemäß § 28 Abs. 1 GemHVO Visuellen Zustandserfassung sowie die Aufnahme der Erfassungsparameter - ungeändert beschlossen
+- TOP 5.5: Ersatzbeschaffung von zwei Fahrzeugen beim Ordnungs- und Sicherheitsdienst (OSD)Überplanmäßige Aufwendungen/Auszahlungen und Verpflichtungsermächtigungen - Haushaltsjahr 2015 - ungeändert beschlossen
+- TOP 6: Bebauungsplan Nr. 812 - Kornelimünster West / Oberforstbacher Straße - für den Planbereich im Stadtbezirk Aachen Kornelimünster/ Walheim zwischen Oberforstbacher Straße und Schleckheimer Straßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 7: Gestaltungssatzung - Kornelimünster West / Oberforstbacher Straße -hier: Satzungsbeschluss - ungeändert beschlossen
+- TOP 8: Teilaufhebung Bebauungsplan Nr. 658 - Adlerberg - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Benediktinerstraße, Hauptstraße, Adlerberg und der Schwertbad-Klinikhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Aufhebung des Durchführungsplans Nr. 403 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Benediktinerstraße und Küpperstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Satzung über Werbeanlagen und Warenautomaten - Europaplatz - West - hier: Satzungsbeschluss - ungeändert beschlossen
+- TOP 11: Aufhebung des Durchführungsplans Nr. 387 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Ritter-Chorus-Straße, Katschhof, Domhof und Johannes-Paul-II.-Straßehier: Satzungsbeschluss gem. § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 12: Aufhebung des Durchführungsplans Nr. 413 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Wallstraße 57-67/ Ecke Theaterstraße 34-40hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 13: Aufhebung des Durchführungsplans Nr. 418 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Templergraben/ Ecke Königstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Altkleidersammlung im öffentlichen Straßenraum der Stadt AachenEinführung eines verwaltungsseitigen Standortkonzeptes ab dem 01.01.2016Gebündelte Erteilung von Sondernutzungserlaubnissen an einen Antragsteller (Konzept "aus einer Hand") - ungeändert beschlossen
+- TOP 15: Aufwandsentschädigungen für Schulweghelfer/innen an städtischen SchulenRatsantrag der Fraktion DIE LINKE vom 09.03.2015 - vertagt
+- TOP 16: Anfragen
+- TOP 16.1: Ratsanfragen - ungeändert beschlossen
+- TOP 16.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 17: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 17.1: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 19: Ratsanträge - ungeändert beschlossen
+- TOP 20: Erweiterung der Tagesordnung gem. § 48 Abs. 1, Satz 3 GO NRWFörderschule mit dem Förderschwerpunkt Lernen Am Rödgerbach - Schließung des Teilstandortes Beginenstraße zum Ende der Herbstferien 2015 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
