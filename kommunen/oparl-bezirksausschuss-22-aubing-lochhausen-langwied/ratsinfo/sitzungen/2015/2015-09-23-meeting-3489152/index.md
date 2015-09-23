@@ -1,0 +1,108 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2015-09-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3489152
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3489152
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.: Verbot von diesel- und benzinbetriebenen Laubbläsern im gesamten Stadtgebiet
+- TOP 2.2.: Geplante Flüchtlingsunterkunft an der Mainaustraße
+- TOP 2.3.: Feldweg/ Wanderweg B2 Ende Übergang A99 West
+- TOP 2.4.: Georg-Böhmer-Str. 1, doch keine Verjährung der Ordnungswidrigkeit
+- TOP 2.5.: Anbringung eines Verkehrsspiegels bei der Ausfahrt von der Allinger Str. in die Altostraße
+- TOP 2.2.2: Anliegen und Fragen an die Polizei
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Ablehnungsbescheid zur Baumfällung, Bodenseestr. 260, Schr. Planungsreferat vom 11.08.15
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: - Wiesentfelser Str. 15 - Wiesentfelser Str. 15-19 - Hellensteinstr. 9 - Ilse-Fehling-Str. Fl.Nr. 1630/42 - Sigererstr. 14 - Liebensteinstr. 12
+- TOP 3.3.: Baumfällungen auf Anforderung: - Kräheneckstr. 15 - Eichelhäherstr. 30 a - Ubostr. 29 - Bodenseestr. 300 - Im Stocket 19 - Vestastr. 1 - Kurt-Floericke-Str. 39 - Limesstr. 43 - Lidelstr. 25 - Asmarchstr. 3 - Asmarchstr. 5 (N) - Aubinger Str. 176 (N) - Streitbergstr. 35 (N) - Reichenbergstr. 2 (N) - Ehrenbürgstr. 6 (N) - Schwemmstr. 15 (N) - Erlbachstr. 25
+- TOP 4: Anträge
+- TOP 4.1.: Baupläne für 9 Kavaliershäuser in Freiham
+- TOP 4.2.: Grüne Wohntürme für Freiham
+- TOP 4.3.: Einsicht in den Spielplatz S-Bahn Station Leienfelsstraße
+- TOP 4.4.: Beendigung der Zugausfälle aus betrieblichen Gründen auf der Linie S 8
+- TOP 4.5.: Fußgängerampel Ubostraße / Fabrikstraße
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.: Freihamer Wiesn am 11.10.15 an der Wiesenfelser Str., Anhörung KVR vom 09.09.15
+- TOP 6.1.: Finanzierung Hausaufgabenbetreuung für unbegleitete minderjährige Flüchtlinge im 22. Stadtbezirk, Schr. Sozialreferat vom 13.08.15
+- TOP 6.2.: Stadtteilcheck "Auf Herz und Rampen prüfen" der Mittelschule an der Wiesentfelser Straße "Welche Barrieren gibt es in Neuaubing für Behinderte?" - Zustand des Weges im Park an der Wiesentfelser Straße -, Schr. Baureferat vom 08.09.15
+- TOP 6.6.2: UA Bildung, Schule, Sport
+- TOP 6.1.: Sportpark Freiham, Schr. Ref. f. Bildung u. Sport vom 02.09.15
+- TOP 6.2.: Schulbauoffensive 2013-2030, Fortschreibung des Schulbaupavillon-Bauprogramms 2015 mit Fertigstellung in 2016, Neubau Schulbaupavillon, Anton-Böck-Str., Schr. Baureferat vom 30.07.15
+- TOP 6.3.: SV Aubing - Alternativstandort für Sommerstockbahn, Schr. Ref. f. Bildung u. Sport vom 28.08.15
+- TOP 6.6.3: UA Verkehrsinfrastrukur
+- TOP 6.1.: Verkehrsrechtliche Anordnung: Arbeiten am Straßenraum, Lochhausener Str. zwischen westlich Langwieder Hauptstraße und Keltenafferstraße, Verbreiterung Geh- und Radweg inkl. Fahrbahnsanierung vom 24.08.-25.09.15, Schr. KVR vom 17.08.15
+- TOP 6.2.: Verkehrsberuhigung der Wohngebiete Alte Allee, Bergsonstr. und Pippinger Str. nördlich, Workshop mit den BA 21, 22 und 23, Schr. BA 23 vom 12.08.15 und Schr. Planungsreferat vom 01.09.15
+- TOP 6.3.: Aubinger Straße - Radwegsanierung zwischen Haßfurter Str. und Limesstr., Schr. Baureferat vom 17.08.15
+- TOP 6.4.: Erhebung von Verkehrsdaten mit Hilfe von Seitenradargeräten, Schr. KVR vom 13.08.15
+- TOP 6.5.: Verkehrsrechtliche Anordnung, hier: Kronwinkler Straße Ostseite - Zeichen 283 StVO, Schr. KVR vom 14.08.15
+- TOP 6.6.: Entwicklung eines Verkehrskonzeptes für den 22. Stadtbezirk (Ziffer 1 des Antrages), Schr. Planungsreferat vom 10.08.15
+- TOP 6.7.: Ausnahmegenehmigung, Baustelleneinrichtung an der Hohenesterstraße vom 03.08.-11.09.15, Schr. KVR vom 31.07.15
+- TOP 6.8.: Information zum Start von MVG Rad, Schr. SWM vom 04.09.15
+- TOP 6.9.: Barrierefreier Ausbau des S-Bahnhofs Aubing Zeitpunkt der Fortsetzung des Bauvorhabens, Schr. Ref. f. Arbeit u. Wirtschaft vom 03.09.15
+- TOP 6.10.: Verkehrsrechtliche Anordnung, hier: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Bergsonstr. 148, Schr. KVR vom 06.08.15
+- TOP 6.11.: Prüfung von Lärmschutzmaßnahmen A8 und A99, Schr. Ref. f. Gesundheit u. Umwelt vom 20.08.15
+- TOP 6.12.: Sanierung Federseestraße, Schr. Baureferat vom 28.08.15
+- TOP 6.13.: Verkehrssituation in der Mettnauer Straße, Schr. KVR vom 25.08.15
+- TOP 6.14.: Sanierung der Fahrbahnabschnitte, Kohlmeisenstr. (zwischen Hsnr. 28 und Schwojerstr.), Schwojerstr. (zwischen Eichelhäherstr. und Görbelmoosstr.), Schr. Baureferat vom 20.08.15
+- TOP 6.15.: Wiederinbetriebnahme der Ampelanlage in der Ubostraße, Schr. KVR vom 21.08.15
+- TOP 6.16.: Ausdehnung der Parkscheibenpflicht am Friedhof Lochhausen auf Sonntag, Schr. KVR vom 08.09.15
+- TOP 6.17.: Störung der Bahnschranke am Bahnübergang Hellensteinstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.09.15
+- TOP 6.6.4: UA Planung, Bauen, Umwelt
+- TOP 6.1.: Centa-Hafenbrädl-Str. , Fl.Nr. 3509/13, Unterbringung von Flüchtlingen und Wohnungslosen-Errichtung einer Gemeinschaftsunterkunft, Anhörung Planungsreferat vom 20.08.15
+- TOP 6.3.: Hellensteinstr. 9, Neubau eines Dreifamilienhauses mit 2 Lagerräumen (Garagen) und 3 Stellplätzen - Vorbescheid, Anhörung Planungsreferat vom 02.09.15
+- TOP 6.4.: Quartiersplatz im Bebauungsplangebiet Aubing-Ost-Straße, Anhörung Baureferat vom 09.09.15
+- TOP 6.1.: Bauvorhaben im 22. Stadtbezirk vom 10.08.-16.08.15, vom 17.08.-23.08.15, vom 24.08.-30.08.15, vom 31.08.-06.09.15, Schr. Planungsreferat vom 18.08.15, 24.08.15, 31.08.15, 07.09.15
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München - Stichtag: 17.08.15, 24.08.15, 31.08.15, 07.09.15, 14.09.14
+- TOP 6.3.: E-Werk Deutsche Bahn München Westkreuz - Grundstück, Schr. Referat f. Gesundheit u. Umwelt vom 20.08.15
+- TOP 6.4.: Baumaßnahmen der SWM, Stromprojekt Schwemmstraße/Mundesgasse Netztrafostation, 1. Bauabschnitt, Schr. SWM vom 17.08.15
+- TOP 6.5.: Kreuzungsausbildung B2 / Bodenseestraße/ Spange A 96; Keine Beschlüsse von Bebauungsplänen durch den Stadtrat, die zusätzliches Baurecht auslösen; Entwicklung Verkehrskonzept zur Entlastung der Ortskerne von Aubing und Neuaubing; Bebauungspläne mit neuem Baurecht sind erst nach erfolgreicher Durchführung verkehrlicher Maßnahmen zu beschließen, Schr. Planungsreferat vom 12.08.15
+- TOP 6.6.: Baden am Langwieder See, Schr. Baureferat vom 12.08.15
+- TOP 6.7.: Grundwasserspiegel Langwieder Hauptstraße, Schr. Ref. f. Gesundheit u. Umwelt vom 02.09.15
+- TOP 6.8.: Depotplatz an der Schussenrieder Straße / Schubinweg, Einarbeitung der Änderungswünsche des BA, Schr. Baureferat vom 21.08.15
+- TOP 6.9.: Überarbeitung der Mähkonzepte auf städtischen Grünflächen und im Verkehrsbegleitgrün, Schr. Baureferat vom 14.08.15
+- TOP 6.10.: Prüfung der Möglichkeit von Wohnbebauung im Gewerbegebiet an der Rupert-Bodner-Straße, Schr. Planungsreferat vom 18.08.15
+- TOP 6.11.: Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG); Neubau einer Fahrzeug Instandhaltungs- und Behandlungsanlage (FIBA) Pasing in der Landeshauptstadt München, Gemarkung Aubing der Strecke 5528 München-Pasing, Bahn-km 3,7 bis km 4,8 im Bereich des Betriebshofes Pasing (Strasser-Gelände) Planfeststellungsbeschluss des Eisenbahn-Bundesamtes, Öffentliche Auslegung der Unterlagen, Schr. Planungsreferat vom 03.09.15
+- TOP 6.12.: Sanierungsgebiet "Neuaubing/Westkreuz", Ensembleschutzgebiet Altaubing, Aufnahme in ein Städtebauförderprogramm, Schr. Planungsreferat vom 12.08.15
+- TOP 6.13.: Mobilfunk, Suchkreismeldung im Suchkreis M-Lochhausen-Ost, Suchkreis-Nr. 9733 MXB G 58, Planung eines neuen Mobilfunkstandortes, Schr. Ref. f. Gesundheit u. Umwelt vom 10.09.15
+- TOP 6.14.: Baustelleneinrichtung an der Hohenesterstraße vom 12.09.-25.09.15, Schr. KVR vom 07.09.15
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechts der Anlage 1 Ziffer 5.1 BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung", Anhörung Direktorium vom 28.08.15
+- TOP 7.2.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung der Unterrichtungsrechte der Anlage 1, Ziffer 15 BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht, Anhörung Direktorium vom 28.08.15
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Brunhamstr., Schr. Sozialreferat vom 11.08.15
+- TOP 8.2.: Neuerrichtung Gaststättenbetrieb, "Wichtelwerk", Bertha-Kipfmüller-Str. 44, Schr. KVR vom 01.09.15
+- TOP 8.3.: Unveränderte Fortführung Campingplatz Gaststätte, Eschenrieder Str. 119, Schr. KVR vom 24.08.15
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Verwaltungs- und Personalausschusses im Feriensenat vom 12.08.15: - Unterbringung von Flüchtlingen und Wohnungslosen /Flüchtlingen in kommunaler Zuständigkeit, 7. Standortbeschluss
+- TOP 10.2.: Beschluss der Vollversammlung vom 29.07.15: - Regionalmanagement in der Region München - Koordination und Service im Radverkehr - Nahverkehrsplan der LH München - Wohnen in München VI - Zeitplan und Themenvorschau - Schulbauoffensive 2013-2030 - REGSAM - Ein starkes Netzwerk für München, Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigene REGSAM-Stelle (N) - Leistungsprogramm der MVG für die Fahrplanperiode 2016
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: - A) Bebauungsplan mit Grünordnung Nr. 2105 BAB A 8 (südwestlich), Lochhausener Str. (nördlich), Mälzereistraße (östlich), Hanfgartenstr. (südöstlich) - Aufstellungsbeschluss - B) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 Bergsonstr. (nördlich), BAB A 8 (südwestlich), BAB A 99 (südöstlich), Bahnlinie München-Stuttgart (nördlich) C) "Machbarkeitsstudie zur Gewerbeflächenentwicklung Mühlangerstraße" Südgrenze des neuen Standortes der Paulaner Brauerei (südlich), Hanfgartenstr. (südlich), Lochhausener Str. (südlich), BAB A 8 (südwestlich), Mühlangerstr. (nördlich), An der Langwieder Heide (nördlich), Am Aubinger Feld (östlich), Bacherbreite (östlich) - Auftragserteilung - - Mobilität in Deutschland 2016 (MID), Haushaltsbefragung zum Alltagsverkehr in München, Beteiligung der LH München, Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? - Bebauungsplan mit Grünordnung Nr. 2060 Freihamer Weg (östlich), Bahnlinie München-Buchloe (südlich), Colmdorfstr. (westlich), Pretzfelder Str. (nördlich) (Teiländerung des Bebauungsplanes Nr. 67c, nr. 67d und Nr. 1955) - Satzungsbeschluss - - Bebauungsplan mit Grünordnung Nr. 2104 Bahnlinie München - Herrsching (südlich), Anton-Böck-Straße (beiderseits), Centa-Hafenbrädl-Str. (beiderseits) und Hans-Steinkohl-Str. (beiderseits)
+- TOP 10.4.: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2084 Kleiberweg (südlich), Henschelstr. (südwestlich) und Federseestr. (nordwestlich) - (A) Bebauungsplan mit Grünordnung Nr. 2068 Germeringer Weg (südlich), Freihamer Weg (westlich), Kunreuthstr. (westlich), Wiesentfelser Str. (westlich), Anton-Böck-Str. (beiderseits), S-Bahnlinie München - Herrsching (nördlich), Bodenseestr. (nördlich), verlängerte Freihamer Allee (östlich), Satzungsbeschluss (B) Wohnungsbau verstärken - zusätzliche Wohnungen in Freiham bauen - Nahverkehrsplan der LH München - Wohnen in München V
+- TOP 10.5.: Beschluss des Bauausschusses vom 22.09.15: - Toilettenanlage im Maßmannpark - Kreuzungsbereich Radolfzeller Straße / Aubinger Straße / Hellensteinstraße
+- TOP 10.6.: Beschluss der Vollversammlung vom 30.09.15: - Siedlungsschwerpunkt Freiham, Freiham Nord
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Regionale Wohnungsbaukonferenz am 18.03.2015 im Alten Rathaussaal München, hier: Dokumentation, Schr. Oberbürgermeister Reiter vom 07.09.15
+- TOP 11.2.: Freihamer Herbstfest am 11.10.15
+- TOP 11.3.: Regionalgespräche 2015 mit der Lokalbaukommission am 17.11.15 oder am 19.11.15, Schr. Planungsreferat vom 25.08.15
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 14.10.15um 19.30 Uhr im Bay. Schnitzel und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, 14.09.15 um 19 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, 15.09.15 um 19 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, 16.09.15 um 19 Uhr, Limesstr. 81 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, 17.09.15
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 5.1.: Budget der Bezirksausschüsse Arbeiterwohlfahrt Kreisverband München e.V. Kinderball am 06.02.2016
+- TOP 6.2.: Gotzmannstr. 19, Schulbauoffensive - Errichtung einer Schulpavillonanlage, Anhörung Planungsreferat vom 25.08.15
