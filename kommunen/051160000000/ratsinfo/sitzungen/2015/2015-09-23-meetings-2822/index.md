@@ -1,0 +1,78 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2015-09-23T15:00:00+02:00
+- Ende: 2015-09-23T20:50:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2822
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2822
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 6. Sitzung des Rates am 25.02.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 7. Sitzung des Rates am 16.03.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3: Niederschrift über die 8. Sitzung des Rates am 29.04.2015 - öffentlicher Teil - - Zur Kenntnis genommen
+- TOP 3.1: Wahl einer/eines Beigeordneten - Zur Kenntnis genommen
+- TOP 3.2: Besoldung Technischer Beigeordneter - Mit Stimmenmehrheit beschlossen
+- TOP 4: Bekanntmachung des Abschlussergebnisses - Einstimmiger Beschluss
+- TOP 5: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 6: Neubenennung eines sachkundigen Einwohners - Einstimmiger Beschluss
+- TOP 7: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement; Sachstand 2014 - Kenntnisnahme
+- TOP 8: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2015 - Ohne Abstimmung
+- TOP 8.1: Vergabe der Mittel "Wohnumfeldverbesserung bei bürgerschaftlichem Engagement" für das Jahr 2015 - Einstimmiger Beschluss
+- TOP 9: 2. Sachstandsbericht Kompetenzzentrum Sauberkeit - Kenntnisnahme
+- TOP 10: 10. Konferenz der Ratsmitglieder beim Städtetag NRW am 02.12.2015 in Köln - Gewählt nach Hare Niemeyer
+- TOP 11: Kommunales Wahlrecht für alle Migrantinnen und Migranten in NRW - Kenntnisnahme
+- TOP 12: Bericht zur Umsetzung des Haushaltssanierungsplanes zum 30.06.2015 - Kenntnisnahme
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung für die Bereitstellung überplanmäßiger Haushaltsmittel - Mit Stimmenmehrheit beschlossen
+- TOP 13.1: Außerplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 10 120 30 - Mit Stimmenmehrheit beschlossen
+- TOP 14: Außerplanmäßige Ausgabe des Haushaltsjahres 2015 - Einstimmiger Beschluss
+- TOP 15: Erste Nachtragssatzung für das Haushaltsjahr 2015 - Siehe Niederschrift
+- TOP 15.1: Kurzfristige Maßnahmen zur Schaffung von Wohnraum für Flüchtlinge - Kenntnisnahme
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2015 - Kenntnisnahme
+- TOP 17: Beherbergungssteuersatzung - In den nächsten Ratszug geschoben
+- TOP 18: Verbandsversammlung des Niersverbandes; - Einstimmiger Beschluss
+- TOP 19: Verbandsratsmitglied des Niersverbands - Von Verwaltung zurückgezogen
+- TOP 20: Straßen- und Anlagenverordnung - Verweisung in zuständige Fachausschüsse
+- TOP 21: Zweiter Nachtrag Tarif Hallenbäder - Mit Stimmenmehrheit beschlossen
+- TOP 22: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Freizeit-, Sport- und Bäderausschu - Einstimmiger Beschluss
+- TOP 23: Standort der Musikschule und der Volkshochschule in Rheydt (HSP-Maßnahmen 2012-0100; 2012-0101) - Einstimmiger Beschluss
+- TOP 24: Flüchtlingseinrichtung des Landes NRW im ehemaligen JHQ - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 25: Konzept Flüchtlingsunterbringung - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 26: Netzwerk Frühe Hilfen - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 27: Berufung eines beratenden Mitgliedes - Einstimmiger Beschluss
+- TOP 28: Anordnung der Umlegungen für den Bereich des Bebauungsplans Nr. 611/IX - Einstimmiger Beschluss
+- TOP 29: Anmietung der Flächen im Vitus Center für eine Nutzung durch die Stadtverwaltung - Kenntnisnahme
+- TOP 30: Bebauungsplan Nr. 704/N, Bebauungsplan der Innenentwicklung gemäß § 13a Baugesetzbuch (BauGB) - Mit Stimmenmehrheit beschlossen
+- TOP 31: Bebauungsplan Nr. 768/S - Stadtbezirk Süd - Güdderath - - Mit Stimmenmehrheit beschlossen
+- TOP 32: Anordnung der Umlegung für den Bereich des Bebauungsplans Nr. 519/IX - Einstimmiger Beschluss
+- TOP 33: Einrichtung einer "Wegweiser - gemeinsam gegen gewaltbereiten Salafismus"-Beratungsstelle in MG - Einstimmiger Beschluss
+- TOP 34: Friedhofskonzept und Friedhofsgebühren - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 36: Zulassung von Zirkusbetrieben/Tierschauen in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Akquise von Mitteln aus Förderprogrammen - Vom Antragsteller zurückgezogen
+- TOP 38: Antrag auf Erweiterung der Betriebsgenehmigung für den Flughafen Düsseldorf - Vom Antragsteller zurückgezogen
+- TOP 39: Situation von Asylbewerbern in Mönchengladbach verbessern – Die Hilfe besser koordinieren - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 39.1: Benennung eines/einer Flüchtlingsbeauftragten - Ohne Abstimmung
+- TOP 40: Überprüfung geeigneter, leer stehender Immobilien - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Erarbeitung eines Public Corporate Governance Kodex (PCGK) für die kommunalen - Ohne Abstimmung
+- TOP 41.1: Erarbeitung eines Public Corporate Governance Kodex (PCGK) für die kommunalen - Einstimmiger Beschluss
+- TOP 42: Beteiligung der Stadt Mönchengladbach über die NEW AG am Steinkohle-Kraftwerk Hamm (Gekko) - Ohne Abstimmung
+- TOP 42.1: Beteiligung der Stadt Mönchengladbach über die NEW AG am Steinkohle-Kraftwerk Hamm (Gekko) - Siehe Niederschrift
+- TOP 43: Resolution KiBiz – Reform zur Verbesserung der Basisfinanzierung - Mit Stimmenmehrheit abgelehnt
+- TOP 44: Verleihung des Ehrenringes der Stadt an Josef Heynckes - Einstimmiger Beschluss
+- TOP 45: Einfach, schnell, transparent, bürgerfreundlich – Die Online-Dienstleistungen der Stadtverwaltung - Mit Stimmenmehrheit beschlossen
+- TOP 46: Gesundheitskarte für Flüchtlinge - Verweisung in zuständige Fachausschüsse
+- TOP 47: Umbesetzung des Jugenhilfeausschusses - Einstimmiger Beschluss
+- TOP 48: Projekt Seasons - Mit Stimmenmehrheit beschlossen
+- TOP 49: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 50: Aufhebung Beschluss Odenkirchener Straße - Mit Stimmenmehrheit beschlossen
+- TOP 51: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 51.1: Mitteilung von Stadtdirektor und -kämmerer Kuckels zu Garzweiler II - Zur Kenntnis genommen
+- TOP 51.2: Anfrage zu TOP 48 der heutigen Sitzung von RH Schultz (DIE LINKE) - Zur Kenntnis genommen
+- TOP 51.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zu Ewigkeitskosten im Zusammenhang mit Sümpfungsmaßnahmen von Rheinbraun - Zur Kenntnis genommen
+- TOP 51.4: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum Parkverbot in den Innenhöfen der Rathäuser Abtei und Rheydt - Zur Kenntnis genommen
+- TOP 51.5: Anfrage von RH Dr. Brenner Bündnis 90/Die Grünen zu anstehenden Kita-Streiks - Zur Kenntnis genommen
