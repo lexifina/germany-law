@@ -1,0 +1,86 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2015-09-23T17:20:00+02:00
+- Ende: 2015-09-23T22:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2534
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=2534
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 2.1: Bezirkshaushaltsplan für die Jahre 2016/2017 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2.2: Änderungsantrag für die Sitzung des Hauptausschusses am 22.09.2015 bezüglich der Einrichtung eines neuen Titels bei 3912, bezieht sich auf die Drs. 1375/XIX Doppelhaushalt 2016/2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Die Bürgermeisterin hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl ehrenamtlicher Sozialpfleger(n)innen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Reuterplatz" im Bezirk Neukölln von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan 8-65 vom 29.10.2013 ("Putenweg / Rhodeländerweg") - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bebauungsplan 8-52a ("Pfauenkehre") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken eines stellvertretenden Bürgerdeputierten zum Bürgerdeputierten im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Nachwuchsausbildung bei der freiwilligen Feuerwehr gefährdet - beantwortet
+- TOP 9.2: Seniorenfreizeitangebote nicht gesichert? - beantwortet
+- TOP 9.3: Wirksamkeit der neu eingerichteten Busspur auf der Sonnenallee - beantwortet
+- TOP 9.4: Mängel bei der Versorgung der Flüchtlinge - beantwortet
+- TOP 9.5: Sportangebote für Flüchtlinge - beantwortet
+- TOP 9.6: Bolzplatz Mohnweg - beantwortet
+- TOP 9.7: Müllsammelpressetermin der Bezirksbürgermeisterin - beantwortet
+- TOP 9.8: Altkleidercontainer in Neukölln - beantwortet
+- TOP 9.9: Grundreinigung auf dem städtischen Friedhof Buschkrugallee - beantwortet
+- TOP 9.10: Wasserspielplatz? - beantwortet
+- TOP 9.11: Übersicht über Wohnungsleerstände in Neukölln - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Reaktion des Bezirksamts auf den zunehmenden Fahrradverkehr - beantwortet
+- TOP 10.2: Sanierung unseriös - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Mobilitätshilfedienste in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Mehr Radbügel auf dem Rathausvorplatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bezirklichen Armutsbericht erstellen - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Planung der Seniorentagesstätte - vertagt
+- TOP 12.2: Columbiabad vor dem Aus? - vertagt
+- TOP 12.3: Schulabbrecher*innen - schriftlich beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Weitere Voruntersuchungen für die Einführung von sozialen Erhaltungssatzungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Sperrung Alt-Britz - überwiesen
+- TOP 14.3: Columbiabad erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Genehmigungskriterien für den Milieuschutz - überwiesen
+- TOP 14.5: Fahrradwegende Glasower Straße/Hermannstraße - überwiesen
+- TOP 14.6: Anwohner informieren - überwiesen
+- TOP 14.7: Verlängerung der U7 in Richtung Schönefeld - überwiesen
+- TOP 14.8: Erhalt der Brunnengalerie im Blumenviertel bis 2022 - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Frauenförderpreis im Vereinssport - überwiesen
+- TOP 14.10: Informationen in leichter Sprache - überwiesen
+- TOP 14.11: Sportplatz der neuen Clayschule - überwiesen
+- TOP 14.12: Ausstellung "Gegen die Regeln - Lesben und Schwule im Sport" - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Tempo 30 in der Parchimer Allee - überwiesen
+- TOP 14.14: Internationale Wochen gegen Rassismus vom 10.03. bis zum 23.03.2016 - überwiesen
+- TOP 14.15: Informationsveranstaltung "Bürgernahe Kommunalpolitik" - überwiesen
+- TOP 14.16: Schwerpunkte im Haushalt kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Bürknerstraße zur Fahrradstraße machen - überwiesen
+- TOP 14.18: Weserstraße zur Fahrradstraße machen - überwiesen
+- TOP 14.19: Königsrecht des Parlaments nicht abgeben - zurückgezogen
+- TOP 14.20: Mittel für Jugendberufsagentur - zurückgezogen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Interkulturelle Seniorenarbeit im Reuterkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Tee- und Wärmstube - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Umbenennung der Bushaltestelle "Werbellinstraße" in "Alfred-Scholz-Platz" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bezirkswebseite für mobile Geräte optimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Vivantes Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Fachtagung zur Jugendberufsagentur - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Neukölln braucht die Landesberatungs und Koordinierungsstelle. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Beeinflussung der Lichtsignalanlagen in der Karl-Marx-Straße von Saalestraße bis Lahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Berufliche Perspektive für Stadtteilmütter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Veränderungssperre XIV-60/29 für die Grundstücke mit der Lagebezeichnung Buckower Damm 50 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee / Buckower Damm") - mit Abschlussbericht zur Kenntnis genommen
