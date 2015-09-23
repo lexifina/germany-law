@@ -1,0 +1,66 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-23T17:00:00+02:00
+- Ende: 2015-09-23T19:25:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9938
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9938
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248182.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248182.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248182.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Erneuerung der Gasleitung im Aaper Wald - zur Kenntnis genommen
+- TOP 4: B-Plan-Vorentwurf Nr. 06/006 - Westfalenstraße 46-48 -Verfahren gem. § 13a BauGB Verfahren gem. § 13 - vertagt
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Antrag nach BImSchG (Bundesimmissionsschutzugesetz) Lichtenbroicher Weg 211 - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 9: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 10: Anfrage GRÜNE: Lärmreduzierung Bochumer Straße - vertagt
+- TOP 11: Anfrage Linke: Ersatzpflanzungen im Stadtgebiet 06 - beantwortet
+- TOP 12: Anfrage CDU: Bolzplatz Osterfelder Straße - beantwortet
+- TOP 13: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 14: Anfrage Daxenberger: Auswirkungen auf Bevölkerung im Stadtgebiet 6 - vertagt
+- TOP 15: Anfrage SPD: Gymnasium Borbecker Straße - vertagt
+- TOP 16: Anfrage GRÜNE: Energetische Sanierung - vertagt
+- TOP 17: Anfrage CDU+FDP: Umzug Kath. GS Rather Kreuzweg - vertagt
+- TOP 18: Anfrage CDU: Tagespflegeplätze - beantwortet
+- TOP 19: Antrag SPD: Einbahnstraßenöffnung - einstimmig beschlossen
+- TOP 20: Antrag SPD: Sitzgelegenheiten Hülsmeyerplatz - einstimmig beschlossen
+- TOP 21: Antrag FDP+CDU: Sicherung Hiddenseestraße - einstimmig beschlossen
+- TOP 22: Antrag FDP+CDU: Tankstellengrundstück Kalkumer Straße - einstimmig beschlossen
+- TOP 23: Antrag GRÜNE: Beschlusskontrolle - zurückgezogen
+- TOP 24: Antrag CDU: Wilhelm-Ferdinand-Schüßler-Tagesschule - einstimmig beschlossen
+- TOP 25: Antrag CDU: SEP Friedrich-Rückert-Gymnasium - einstimmig beschlossen
+- TOP 26: Antrag CDU: SEP - Joachim-Neander-Schule - einstimmig beschlossen
+- TOP 27: Interfr.Antrag: 2. Eingang Rückertgymnasium - einstimmig beschlossen
+- TOP 28: Beratung Haushalt 2016 - mehrheitlich beschlossen
+- TOP 29: HH-Antrag SPD: Hülsmeyerplatz/Münsterstraße - einstimmig beschlossen
+- TOP 30: HH-Antrag SPD: Radweg Münsterstraße - einstimmig beschlossen
+- TOP 31: HH-Antrag SPD: JFE Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 32: HH-Antrag SPD: 2. BA Klinke Unterrather Straße - einstimmig beschlossen
+- TOP 33: HH-Antrag CDU: Beleuchtung Kittelbach - einstimmig beschlossen
+- TOP 34: HH-Antrag CDU: Lichtquelle St.-Franziskus-Straße - einstimmig beschlossen
+- TOP 35: HH-Antrag CDU: Ortsumgehung Rath - einstimmig beschlossen
+- TOP 36: HH-Antrag CDU: Überplanung Unterrather/Kalkumer Straße - einstimmig beschlossen
+- TOP 37: HH-Antrag CDU, FDP: JFE Lichtenbroich - einstimmig beschlossen
+- TOP 38: HH-Antrag CDU, Grüne, FDP: Instandsetzung Unterrather Straße - einstimmig beschlossen
+- TOP 39: HH-Antrag CDU,Grüne,FDP: Pflegeintervalle Straßenbegleitgrün - einstimmig beschlossen
+- TOP 40: HH-Antrag CDU: Ascheplatz AGON 08 - einstimmig beschlossen
+- TOP 41: HH-Antrag Grüne: Bezirksradwegenetz - einstimmig beschlossen
+- TOP 42: HH-Antrag Grüne: JFE Lichtenbroich - einstimmig beschlossen
+- TOP 43: HH-Antrag Grüne: Ersatzpflanzungen Heinrichstraße - einstimmig beschlossen
+- TOP 44: HH-Antrag CDU: Bürgersaal Rath - zurückgezogen
+- TOP 45: Zuschussvergabe 2015 - einstimmig beschlossen
+- TOP 46: Bauunterhaltungsmittel 2015 - JFE Ammerweg - einstimmig beschlossen
+- TOP 47: Bauunterhaltungsmittel 2015 - Kalkumer Straße 85 - einstimmig beschlossen
+- TOP 48: MdV - 176/116/2015 - zur Kenntnis genommen
+- TOP 49: Widmung von Straßen: Marler Straße - zur Kenntnis genommen
