@@ -1,0 +1,72 @@
+# 40. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2015-09-24T16:30:00+02:00
+- Ende: 2015-09-24T21:25:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4222
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=4222
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=111619
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-45 und Nr. VII-46 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Treptow-Köpenick 1 - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Genehmigung der im Haushaltsjahr 2014 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sitzungsterminplan 2016 der BVV Treptow-Köpenick von Berlin (VII. Wahlperiode) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2016 und 2017 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Linie 61 mit den Einwohnern vor Ort - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Einseitiges Parken in der Dörpfeldstraße zwischen Arndt- und Wassermannstraße zwischen 19.00 und 06.00 Uhr - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bebauungspläne in Aufstellung online stellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Voraussetzungen für die Umsetzung des Beschlusses "Erbbaupachtvertrag Hasselwerder Villa" schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kulturelle Genüsse im Rathaus Treptow - vertagt
+- TOP 12.7: Sichere Straßenquerung am Alten Wasserwerk Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Berücksichtigung der freizeitorientierten Bedürfnisse von Jugendlichen und Senioreninnen bzw. Senioren auf den Freiflächen bei der Bauausführung im Plangebiet des Bebauungsplans 9-34 - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Umfeld der Kindertagesstätten sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Sicherung des Standortes Schmetterlingshorst als Schul-, Sport- und Wanderstützpunkt - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Schul- und Sportstättensanierung sichern <span style="color: #888a85" title="Zusatzinfo">(Betreff mit Beschlussempfehlung geändert)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Schutz der ökologischen Nischen im "Schlesischen Busch" oder "Ick hör Dir" nicht mehr "trapsen" - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Multifunktionsbad in Treptow-Köpenick <span style="color: #888a85" title="Zusatzinfo">(Betreff geändert über Konsensliste)</span> - mit Änderungen in der BVV beschlossen
+- TOP 12.14: Kontrollen der ausgeführten Straßenbauarbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Beleuchtung im Bellevuepark wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Kompensationsmaßnahme "Schwimminseln" am Spreeufer - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Belegungsplan für die Abteilung F II (Erdwahlgrabstätten) auf dem städtischen Friedhof Rahnsdorf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung der öffentlichen Durchwegung von der Siemensstraße zur Wilhelminenhofstraße im Ortsteil Oberschöneweide in "Waltraud-Krause-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Benennung von der Privatstraße 4 im Ortsteil Altglienicke in Traudelstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Im I. Halbjahr 2015 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Das Bezirksamt beschließt die sich aus dem "Demografiekonzept - Der demografische Wandel – Handlungskonzept des Bezirks Treptow-Köpenick von Berlin" ergebenden Handlungsfelder mit den jeweiligen Zielen, Strategien und Maßnahmen als Handlungs- und Orientierungsrahmen für die weitere kommunale Entwicklung. - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sanierung der Volkshochschule - überwiesen
+- TOP 14.2: Schranke am Müggelschlösschenweg - überwiesen
+- TOP 14.3: Büchertelefonzelle in Rauchfangswerder: Pflasterung der Fläche - vertagt
+- TOP 14.4: Zeitgemäße Fortführung denkmalgeschützter Industrietradition im Bebauungsplan 9-58 (B-Plan) "Rathenau-Hallen" - überwiesen
+- TOP 14.5: Keine Vorratsdatenspeicherung in Treptow-Köpenick - in der BVV abgelehnt
+- TOP 14.6: Bekanntmachung von Veranstaltungen und BVV-Sitzungen im Rathaus Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Fußgängerüberweg Kiefholzstraße Höhe Hänselstraße - überwiesen
+- TOP 14.8: Substanzsicherung Friedrichshagener Str. 10 ehemalige Jugendfreizeiteinrichtung "All" - überwiesen
+- TOP 14.9: Wegweiser zur Mittelpunktbibliothek am S-Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Fachkonferenz zur Perspektive von Geflüchteten - überwiesen
+- TOP 14.11: Sichere Abbiegemöglichkeit für Radfahrerinnen und Radfahrer von der Michael-Brückner-Straße in die Fennstraße schaffen - überwiesen
+- TOP 14.12: 70 Jahre Johannisthaler Filmgeschichte in die Dauerausstellung des Museums Treptow aufnehmen - überwiesen
+- TOP 14.13: Wintersicherung Bärenquell - überwiesen
+- TOP 14.14: Praktikumsinitiative für Flüchtlinge in Treptow-Köpenick - überwiesen
+- TOP 14.15: Ortsnahe Bürgerbeteiligung zum Bebauungsplan Treptower / TwinTower - 2 - - mit Änderungen in der BVV beschlossen
+- TOP 14.16: Bahn-Baracken am Stellingdamm abreißen - überwiesen
+- TOP 14.17: Maßnahmeplan zur Sicherung, Neustrukturierung und finanziellen Konsolidierung der Bildungs- und Kulturangebote - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Langfristige Sicherung der Jugendfreizeiteinrichtung Grimau in Adlershof, der Erziehungs- und Familienberatung (EFB) Plönzeile und der Jugendfreizeiteinrichtung Keplerstraße in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
