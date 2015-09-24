@@ -1,0 +1,75 @@
+# 16. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-09-24T16:00:00+02:00
+- Ende: 2015-09-24T22:04:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4149
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4149
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00220888.pdf
+
+## Tagesordnung
+
+- TOP -: Verleihung des Europapreises an die Landeshauptstadt Dresden
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Wahlkreis 1 - Mandat DIE LINKE (DIE LINKE) - Zustimmung
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Kostenvergleich möglicher Volkshochschulstandorte - erledigt
+- TOP 3.2: Konkreter Stand der Umsetzung des Antrages A0073/15 "Dresdner Sozialticket - Mobilität für alle Menschen" - erledigt
+- TOP 3.3: Verfahrensstand und Nutzung des "Servicebereich" der Wasserskianlage - erledigt
+- TOP 3.4: Planungsunterlagen Stauffenbergallee - erledigt
+- TOP 3.5: Tag der offenen Tür im Asylbewerberheim Heidenauer Straße - erledigt
+- TOP 3.6: Umgang mit unbegleiteten minderjährigen Flüchtlingen - erledigt
+- TOP 3.7: Neues Verwaltungszentrum für Dresden - erledigt
+- TOP 3.8: Volkshochschule Dresden - erledigt
+- TOP 3.9: Anfrage zum ordnungswidrigen Parken und zur Verkehrssicherheit an den Radwegen rechts- und linkselbisch im Bereich des „Blauen Wunder“ - erledigt
+- TOP 3.10: Parkplätze Troppauer Strasse - erledigt
+- TOP 3.11: Situation Radverkehr auf der Königsbrücker Nord - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 4.1: Ausschuss für Finanzen und Liegenschaften (Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 4.2: Ausschuss für Stadtentwicklung und Bau - Einigung
+- TOP 4.3: Ausschuss für Kultur - Einigung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 5.1: Wohnbeirat - erledigt
+- TOP 6: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - Vertagung
+- TOP 9: Vertagungen der Stadtratssitzung vom 3. September 2015
+- TOP 9.1: Schließung der Kindertageseinrichtung Oskar-Seyffert-Straße 11 in 01189 Dresden - Vertagung
+- TOP 9.2: Aufnahme der Kindertageseinrichtung Loschwitzer Straße 23 in den Bedarfsplan der Landeshauptstadt Dresden unter der Trägerschaft der BEB Dienstleistung GmbH Dresden-Mitte - Vertagung
+- TOP 9.3: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2015/2016 - Vertagung
+- TOP 9.4: Kinderbetreuung gut bezahlen: Eltern bei Mehraufwendungen für Ersatzbetreuung entlasten - Vertagung
+- TOP 9.5: Kita Streik - finanzielle Auswirkungen - Vertagung
+- TOP 9.6: Satzung der Landeshauptstadt Dresden zur Nutzung öffentlicher Flächen für Jahr- und Spezialmärkte (Jahr- und Spezialmarktsatzung) - Vertagung
+- TOP 9.7: Einführung einer Förderrichtlinie für die Erneuerung der Veranstaltungstechnik in Dresdner Kultureinrichtungen - Vertagung
+- TOP 9.8: Für den Erhalt des Fußgängertunnels am Neustädter Markt - Vertagung
+- TOP 9.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.10: Stadtratsbeschlüsse umsetzen und nicht ignorieren, hier: Planungen zur Stauffenbergallee West unverzüglich vorlegen - Zustimmung mit Ergänzung
+- TOP 10: Feststellung der Jahresabschlussergebnisse 2013 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 11: Jahresabschluss 2014 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 12: Jahresabschluss 2014 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 13: Jahresabschluss 2014 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 14: Jahresabschluss 2014 des Eigenbetriebes Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum - Zustimmung
+- TOP 15: Jahresabschluss 2014 des Eigenbetriebes Städtisches Krankenhaus Dresden-Neustadt - Zustimmung
+- TOP 16: Jahresabschluss 2014 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 17: Jahresabschluss 2014 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 18: Sanierung und Erweiterung der 82. Oberschule "Am Flughafen" Korolenkostraße 6 in 01109 Dresden mit Neubau einer Einfeldschulsporthalle, Sanierung der denkmalgeschützten Bestandssporthalle sowie Neugestaltung der Freianlagen. - Zustimmung mit Ergänzung
+- TOP 19: Direktvergabe von öffentlichen Personenverkehrsdiensten in der Landeshauptstadt Dresden an die Dresdner Verkehrsbetriebe AG (DVB AG) - Zustimmung
+- TOP 20: Betrauung der Zoo Dresden GmbH - Zustimmung
+- TOP 21: Annahme und Verwendung von eingegangenen Spenden für die Organisationseinheiten in der Landeshauptstadt Dresden im I. Quartal 2015 - Zustimmung
+- TOP 22: Änderung der Richtlinie der Landeshauptstadt Dresden zur kommunalen Kulturförderung vom 15. Dezember 2011 - Zustimmung
+- TOP 23: Bereitstellung und Betreibung des Objektes Prohliser Allee 3 und 5 als Übergangswohnheim mit 20 Plätzen für ältere wohnungslose Menschen und Festsetzung des Kostensatzes zur Betreibung - Zustimmung
+- TOP 24: Vorschläge zur Neuberufung von Mitgliedern in die Gestaltungskommission Kulturhistorisches Zentrum - Zustimmung mit Ergänzung
+- TOP 25: Markenzeichen „Qualität aus Dresden – Dresden quality“ - Ablehnung
+- TOP 26: Einhaltung des Schulnetzplanes (SNP): - Zustimmung
+- TOP 27: Umsetzung der Sächsischen Gemeindeordnung - hier: § 98 Vertretung der Gemeinde in Unternehmen in Privatrechtsform - Abs. 1 und 3 ) Informationspflicht - Zustimmung mit Änderung
+- TOP 28: Gründung eines Medizinischen Versorgungszentrums (MVZ) durch das Städtische Klinikum Dresden - Zustimmung
+- TOP 29: Sonntagsöffnung aus besonderem Anlass im Jahr 2015 - hier: Wiedereinführung von zwei stadtweiten verkaufsoffenen Sonntagen im Advent - Ablehnung
+- TOP 30: Ausbau des Kraftwerk Mitte für Kunst, Kultur und Kreativwirtschaft sichern - Zustimmung mit Änderung
+- TOP 31: Gesundheit, Gesunderhaltung und Gesundheitsförderung der Einwohnerinnen und Einwohner Dresdens- Umsetzung der sächsischen Gesundheitsziele in Dresden - Vertagung
+- TOP 32: Einführung des Dresdner Sozialtickets zum 1. November 2015 - Vertagung
+- TOP 34: Widerspruch zu Beschluss
+- TOP 34.1: Förderung von Angeboten nach Fachförderrichtlinie Sozialamt vom 19. Oktober 2009 im Haushaltsjahr 2015/2016 - Verweisung
