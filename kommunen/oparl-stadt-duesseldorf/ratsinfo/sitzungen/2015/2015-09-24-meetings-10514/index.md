@@ -1,0 +1,69 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-24T17:00:00+02:00
+- Ende: 2015-09-24T20:30:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248230.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248230.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248230.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Satzungsbeschluss zur 2. Landschaftsplanänderung "Elbsee" - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Doppischer Produkthaushalt und bezirksbezogene Haushaltsansätze - mehrheitlich beschlossen
+- TOP 12: Umgestaltung Breidenplatz - beantwortet
+- TOP 13: Grünschnitt an der Düssel am Neusalzer Weg / Reichenbacher Weg - beantwortet
+- TOP 14: Reinigung der Parkplätze an der GGS Gumbertstraße - beantwortet
+- TOP 15: Durchgang Vennhauser Allee 232 zum Veenpark - beantwortet
+- TOP 16: Bebauung In der Elb - beantwortet
+- TOP 17: Radargeräte Vennhauser Allee / Hürthstraße - beantwortet
+- TOP 18: Fuß- / Radweg Gubener Straße - beantwortet
+- TOP 19: Nebengebäude Schloss Eller - beantwortet
+- TOP 20: Regenrückhaltebecken Karlsruher Straße - beantwortet
+- TOP 21: Wehrhahnlinien-Netzkonzept und Taktverdichtung der Linien 715 und U75 - beantwortet
+- TOP 22: Carsharing im Stadtbezirk 8 - beantwortet
+- TOP 23: Geschwindigkeitsregelung Kamper Weg - vertagt
+- TOP 24: Abfallbeseitigung Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 25: Ampelschaltung Vennhauser Allee / Hürthstraße - einstimmig beschlossen
+- TOP 26: Fußweg Grünanlage Zwickauer Straße / Chemnitzer Straße - zurückgezogen
+- TOP 27: Ampelschaltung Karl-Geusen-Straße / Ausfahrt Lierenfeld - Betriebshof - einstimmig beschlossen
+- TOP 28: Toilettenanlage Gertrudisplatz - einstimmig beschlossen
+- TOP 29: Behindertenparkplatz Am Pfaffenbusch - einstimmig beschlossen
+- TOP 30: Radverkehr Neusalzer Weg - einstimmig beschlossen
+- TOP 31: Abbiegesituation von der Ohlauer Straße in den Neusalzer Weg - einstimmig beschlossen
+- TOP 32: Leitungen Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 33: Verkehrsregelung Karlsruher Straße / Marburger Straße - einstimmig beschlossen
+- TOP 34: Fahrradabstellmöglichkeiten am S-Bahnhof Eller-Süd - einstimmig beschlossen
+- TOP 35: Pfandflaschenringe im Stadtbezirk 8 - zurückgezogen
+- TOP 36: Verkehrszählungen in Vennhausen - einstimmig beschlossen
+- TOP 37: Unterbacher See - Spielplatz Strandbad Nord - zurückgezogen
+- TOP 38: Gaslaternen im Stadtbezirk 8 - vertagt
+- TOP 39: Kleingartenanlage Vennhauser Allee - einstimmig beschlossen
+- TOP 40: Grünschnitt Parkplatz Schalbruch / Breidenbruch - einstimmig beschlossen
+- TOP 41: Schrägparken Schlesische Straße - einstimmig beschlossen
+- TOP 42: Verkehrserschließung Glasmacherviertel - einstimmig beschlossen
+- TOP 43: Kleine Kommission RRX - einstimmig beschlossen
+- TOP 44: Carsharing im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Grundstück Königsberger Straße 91 - zur Kenntnis genommen
+- TOP 46: Radwegemarkierungen Schlesische Straße / Kuthsweg - zur Kenntnis genommen
+- TOP 47: Fuß- / Radweg Gubener Straße - zur Kenntnis genommen
+- TOP 48: Planung RRX - zur Kenntnis genommen
+- TOP 49: RRX-Lärmschutz, Gestaltung und Auswirkungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Gymnasium im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Wehrhahnlinien-Netzkonzept und Taktverdichtung der Linien 715 und U75 - zur Kenntnis genommen
+- TOP 52: Graffiti-Projekt Unterführung Vennhauser Allee - zur Kenntnis genommen
