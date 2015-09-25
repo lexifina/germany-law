@@ -1,0 +1,54 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-25T16:00:00+02:00
+- Ende: 2015-09-25T18:40:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10126
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10126
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248503.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248503.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248503.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen/Einwohnern - zur Kenntnis genommen
+- TOP 4: Informationsvorlage: Steinkaul - Barrierefreier Ausbau der Haltestelle "Alt-Himmelgeist" - zur Kenntnis genommen
+- TOP 5: Informationsvorlage "Ickerswarder Str." - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Eingabe: Marktplatz Benrath - zur Kenntnis genommen
+- TOP 8: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - zur Kenntnis genommen
+- TOP 9: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - zur Kenntnis genommen
+- TOP 10: Plan Nr. 09/010 Denkmalbereichssatzung Rathausviertel Benrath; öffentliche Auslegung - zur Kenntnis genommen
+- TOP 11: Anfrage: Geschwindigkeitsbegrenzung auf A59 - zur Kenntnis genommen
+- TOP 12: Anfrage: Lärmbelastung A59 - zur Kenntnis genommen
+- TOP 13: Anfrage: Kreuzung Henkelstr./ Altenbrückstr./ Spangerstr./ Further Str. - zur Kenntnis genommen
+- TOP 14: Anfrage: Jagdausübung Himmelgeister Rheinbogen - zur Kenntnis genommen
+- TOP 15: Anfrage: Auto-Parkplatz an der Orangerie/Bücherei Benrath (Gelände von Schloss Benrath)
+- TOP 16: Anfrage: Neubau Hauptschule, ggfs. Gesamtschule Benrath - zur Kenntnis genommen
+- TOP 17: Anfrage: Anregungen zum Nahverkehrsplan
+- TOP 18: Anfrage: Sachstand "Barrierefreier Zugang zum Post-Shop Henkelstraße" - zur Kenntnis genommen
+- TOP 19: Antrag: Erhalt der Hauptschule Melanchthonstraße - zur Kenntnis genommen
+- TOP 20: Antrag: Bauleitplanverfahren Am Scheitenweg 2.BA - zur Kenntnis genommen
+- TOP 21: Antrag: Rahmenplan Einzelhandel - zur Kenntnis genommen
+- TOP 22: Anfrage: Städtische Grundstücke an der Kölner Landstraße 391/ 393 nicht verkaufen - zur Kenntnis genommen
+- TOP 23: Anfrage: Ladestation für E-Bikes/Pedelecs - zur Kenntnis genommen
+- TOP 24: Antrag: Carsharing ausweiten - zur Kenntnis genommen
+- TOP 25: Antrag: Schulentwicklungsplanung in den Stadtbezirken 9 und 10 - zur Kenntnis genommen
+- TOP 26: Verfügungsmittel: Kulturzentrum "Raduga"; 20 Jahre - Jubiläumsveranstaltung - zur Kenntnis genommen
+- TOP 27: Verfügungsmittel: Benrather Kulturkreis - Winterausstellung des BKK in der Orangerie - zur Kenntnis genommen
+- TOP 28: Antrag: Verfügungsmittel: Lauftreff Düsseldorf Süd e.V.; Grünrückschnitt - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel "Evang. KiTa Wersten - Märchenfieber" Theaterprojekt 2015 - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel "Martinsfreunde Hassels" - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel "Hermann-Gmeiner-Schule" - zur Kenntnis genommen
+- TOP 32: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015 - zur Kenntnis genommen
+- TOP 33: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015 - 2. Zugang Spielplatz Corelli-/Franz-Liszt- - zur Kenntnis genommen
+- TOP 34: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015 - zur Kenntnis genommen
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 05.09.2014 - zur Kenntnis genommen
+- TOP 36: Haushaltsplanberatungen - zur Kenntnis genommen
+- TOP 37: FNP-Änderung Nr. 140 - Südlich Paulsmühlenstraße - - zur Kenntnis genommen
