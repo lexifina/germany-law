@@ -1,0 +1,62 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2015-09-25T16:00:00+02:00
+- Ende: 2015-09-25T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3019
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/3019
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Beschlusscontrolling - zur Kenntnis genommen
+- TOP 4: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 5: Einwohnerfragestunde
+- TOP 6: Konzept zum bezahlbaren Wohnraum in Neuss 2030 - verwiesen
+- TOP 7: BP 162/2 - Weissenberg, Kita Römerstraße - Auslegung - einstimmig zugestimmt
+- TOP 8: VBP 151/2 - Furth-Süd, Wolbero-/Alemannenstr. - Auslegung - einstimmig zugestimmt
+- TOP 9: Innenstadtstärkung weiteres Vorgehen - mehrheitlich zugestimmt
+- TOP 10: Radweg Kölner Straße (Kasterstraße / Nixhütter Weg) - mehrheitlich zugestimmt
+- TOP 11: Bewerbung AGFS - einstimmig zugestimmt
+- TOP 12: BP V 348/1 - Furth-Mitte, FurtherStraße / Venloer Sraße (Lebensmittelmarkt) - mehrheitlich zugestimmt
+- TOP 13: Erweiterung des Botanischen Gartens - einstimmig zugestimmt
+- TOP 14: BP 412 - Allerheiligen Kuckhof - Aufstellung - einstimmig zugestimmt
+- TOP 15: Gestaltung Quartiersplätze Allerheiligen - einstimmig zugestimmt
+- TOP 16: Feststellung des Jahresabschlusses 2014 der Liegenschaften und Vermessung Neuss (LVN) sowie Beschlus - einstimmig zugestimmt
+- TOP 17: Grundvereinbarung zum Breitbandausbau - einstimmig zugestimmt
+- TOP 17.1: Dienstreisegenehmigung für Ratsmitglieder zur Expo Real in München - mehrheitlich zugestimmt
+- TOP 18: Aufgabe von Kinderspielplätzen; hier: Reaktivierung aufgegebener Spielplätze - einstimmig zugestimmt
+- TOP 19: Neuanlage Kinderspielplatz Josef-Selders-Straße-Vogelsang - einstimmig zugestimmt
+- TOP 20: Neubau Skateranlage Rennbahnpark Neuss - mehrheitlich zugestimmt
+- TOP 21: Fortführung der Frühen Hilfen in der Stadt Neuss - einstimmig zugestimmt
+- TOP 22: Genehmigung üpl Kunstrasenplatz Hockeyplatz Jahnstraße - einstimmig zugestimmt
+- TOP 23: Zuschüsse zum Betrieb der Mensa an der Gesamtschule Norf / Ganztagsrealschule Norf - einstimmig zugestimmt
+- TOP 23.1: Flüchtlinge in Neuss - Nutzung von Schulturnhallen zur Flüchtlingsunterbringung, SPD - einstimmig zugestimmt
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Genehmigung der Dringlichkeitsentscheidung Nr. 52 gemäß § 60 GO NRW: Dienstreisegenehmigung - einstimmig zugestimmt
+- TOP 26: Einbringung Haushalt 2016 - einstimmig zugestimmt
+- TOP 27: Bestellung der Betriebsleitung für die Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 28: Aufnahme und Unterbringung von Asylbewerbern und ausländischen Flüchtlingen in der Stadt Neuss - einstimmig zugestimmt
+- TOP 29: Genehmigung der Dringlichkeitsentscheidungen Nr. 53 und 54 – Dienstreisegenehmigungen für die StV. C - einstimmig zugestimmt
+- TOP 30: Antrag der FDP Fraktion betr. Errichtung Flüchtlingsonderfonds - mehrheitlich abgelehnt
+- TOP 31: Antrag der FDP-Fraktion betr.: Betreuungssituation der Flüchtlinge an den 27 Standorten sicherstelle - vertagt
+- TOP 32: Antrag der SPD Fraktion betr. Aufstockung Haushaltsmittel 2016 Bereich Integrationsmittel - verwiesen
+- TOP 33: Antrag der SPD-Fraktion betr.: Car-Sharing und Fahrradverleihsysteme in Neuss - verwiesen
+- TOP 34: Antrag der SPD Fraktion betr.: Wohnraumschutzsatzung - mehrheitlich zugestimmt
+- TOP 35: Antrag der SPD Fraktion betr.: Sanierung / Umbau Bezirkssportanlage Gnadental - verwiesen
+- TOP 36: Antrag der Fraktionen CDU und Bündnis 90/DIE GRÜNEN betr.: Stelle im Kulturbereich - mehrheitlich zugestimmt
+- TOP 37: Antrag der Fraktion DIE LINKE betr.: Ablehnung von Bundeswehreinsätzen bei Berufsmessen - mehrheitlich abgelehnt
+- TOP 38: Antrag der Fraktion DIE LINKE betr.: Einführung einer Gesundheitskarte für Geflüchtete - vertagt
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Dezernatsverteilungsplan ab 15.09.2015 - einstimmig zugestimmt
+- TOP 42: Avisierte Schenkung - einstimmig zugestimmt
+- TOP 43: Ausbauplanung Kindertagesbetreuung; hier Standort Weckhoven - einstimmig zugestimmt
+- TOP 44: Internationaler Hansetag 2022 in Neuss - Sachstandsbericht - einstimmig zugestimmt
+- TOP 45: Entwicklungsmöglichkeiten Hammfeld II westlicher Teil - zur Kenntnis genommen
+- TOP 46: Einwohnerfragestunde - zur Kenntnis genommen
