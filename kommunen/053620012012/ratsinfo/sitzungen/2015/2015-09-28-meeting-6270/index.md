@@ -1,0 +1,53 @@
+# Hauptausschuss (33. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-09-28T18:00:00+02:00
+- Ende: 2015-09-28T19:35:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQrqKwMXaa67OP1yUDokhhg
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6270
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZed9AvC3R7KP5zgJiMSl4UqJ_chliBQEdVmNRySOLUGJ/Bekanntmachung_Hauptausschuss_28.09.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTmxT0DCi8YKOZS_rxGG7Y6nXaRZD5I167IIbcoR9ODx/Oeffentliche_Niederschrift_Hauptausschuss_28.09.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 1.6., 22.6. und 24.08.2015
+- TOP 2.: Personenunterführung Carl-Schurz-Straße/Balthasar-Neumann-Platz hier: Anregungen und Beschwerden gem. § 24 Gemeindeordnung - (kein Text vorhanden)
+- TOP 3.: Energie- und Kostensparkonzept für finanzschwache Haushalte Bezug: HA 18.11.2013, SoMiA 19.11.2013 - (kein Text vorhanden)
+- TOP 4.: Dienstreise des 3. stellvertretenden Bürgermeisters Robert Saß nach Weißwasser - (kein Text vorhanden)
+- TOP 5.: Dringlichkeitsentscheidung hier: Überplanmäßige Ausgabe zur Sicherstellung der Stromversorgung des Wochenmarktes Balthasar-Neumann-Platz - (kein Text vorhanden)
+- TOP 6.: Konsolidierung des städtischen Haushalts
+- TOP 6.1: Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Haushalt 2015 Hier: Konsolidierungsüberlegungen mit der Politik Bezug: HA 19.01., 23.03.2015 - (kein Text vorhanden)
+- TOP 6.2:  - (kein Text vorhanden)
+- TOP 6.3: Anträge/Anregungen zur Konsolidierung hier: Schreiben von CDU/Grüne vom 13.06.2015
+- TOP 6.4: Konsolidierung des städtischen Haushalts 1. Vorstellung neuer TEP-Datenblätter- 2. Abstimmungsliste zu den neuen Datenblättern 3. Antworten zur Frageliste CDU-Fraktion v. 15.06.15 4. Sachstand Bürgerbeteiligung Bezug: bisherige HA-Sitzungen und Rat 22.06.15 - (kein Text vorhanden)
+- TOP 6.5: Konsolidierung des städtischen Haushalts Antworten zur Frageliste CDU-Fraktion vom 15.06.15 Bezug: bisherige HA-Sitzungen - (kein Text vorhanden)
+- TOP 6.6: Konsolidierung des städtischen Haushalts 1. Vorstellung neuer und Ergänzungen zu vorhandenen Datenblättern 2. Abstimmungsliste zu den Datenblättern Bezug: bisherige HA - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 8.: Anfragen
+- TOP 8.1: Kreisumlage
+- TOP 8.2: Belvedere
+- TOP 8.3: Einladungen zu Veranstaltungen
+- TOP 8.4: Friedhof Schwadorf
+- TOP 8.5: Einzelhandel/Internethandel
+- TOP 8.6: Veranstaltungen im Kapitelsaal
+- TOP 8.7: Thüringer Platz
+- TOP 8.8: Falschparker
+- TOP 8.9: Bushaltestelle Mühlenbach
+- TOP 8.10: Sachkundige Bürger
+- TOP 8.11: P&R Parkplatz Vochem
+- TOP 8.12: Kreisel Friedrichstraße/Kaiserstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Versetzung in den Ruhestand - (kein Text vorhanden)
+- TOP 10.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 11.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 12.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Balthasar-Neumann-Platz
+- TOP 14.: Anfragen
+- TOP 14.1: Neuer Zebrastreifen Sommersberg
+- TOP 14.2: Eckerker am Rathaus Steinweg
