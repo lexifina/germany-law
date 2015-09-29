@@ -1,0 +1,122 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-09-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3491030
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3491030
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Rotznase e.V. Renovierung Bauwagen
+- TOP .5.: BA eigenes Budget für die Kinder- und Jugendversammlung, Termin 19. November 2015, Ort: Tröpferlbad; beantragte Summe aus BA eigenem Budget 300,00 ?
+- TOP .1.: AKIM-Einsatz am Gärtnerplatz, Gespräch ?Feiern am Gärtnerplatz? am 06.10.2015
+- TOP .2.: Unterbringung von Flüchtlingen und Wohnungslosen: Standortbeschluss, Sitzungsvorlage Nr. 14 - 20 / V 03729, Neufassung vom 11.08.2015
+- TOP .1.: Anliegen Seniorenbeauftragter: Unterführung Kapuzinerstrasse
+- TOP .2.: Stellungnahme "AK Viehhof" zum Vorbescheid "Neubau Münchner Volkstheater im Viehhof", siehe TOP 2015.09 B 3.1.5 UA Planen / Bauen
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Baldestraße 5, Zusammenlegung zweier Wohnungen (4. und 5. OG) durch den Einbau einer Treppe
+- TOP 1.2.: Haydnstraße 11, Tektur zu 1.2-2015-7062-21 Neubau eines Mehrfamilienhauses (26 WE und 5 Büroeinheiten), Haydnstraße 11/Herzog-Heinrich-Straße 19
+- TOP 1.3.: Adlzreiterstraße 26 - VGB, Umbau und Sanierung mit Anbau 3er Balkonanlagen, Einbau Innenaufzug, DG-Ausbau, Zusammenlegung 2 er Wohnungen zu einer Maisonette-Wohnung und Grundrissänderungen der Bestandseinheiten
+- TOP 1.4.: Tumblingerstraße 27, Neubau des Münchner Volkstheaters mit Werkstätten und Gastronomiebetrieb mit Freischankfläche - Vorbescheid (Tumblingerstraße 27 / Zenettistraße 27)
+- TOP 1.5.: Wittelsbacherstraße 8, Erneuerung des Dachgeschosses und der hofseitigen Balkone, Kaminumbau sowie energetische Sanierung - TEKTUR
+- TOP 1.6.: Lindwurmstraße 65, Aufstockung und Ausbau zu Wohnungen / TEKTUR
+- TOP 1.7.: Fleischerstraße 8, Vergrößerung der Dachgauben 5.OG, DG-Ausbau zu 2 neuen Wohneinheiten, Zusammenlegung einer neuen WE mit einer Wohnung im 5.OG, Errichtung einer neuen Dachterrasse
+- TOP 1.8.: Sonnenstraße 10, Generalsanierung Wohn- und Geschäftsgebäude mit KG-Erweiterung, Einbau eines Aufzugs, Anhebung des Dachstuhls und Nutzungsänderung 4.+5.OG
+- TOP 1.9.: Bahnhofplatz 1, TEKTUR zu 1.1-2015-5413-21 - Aufstockung und Umnutzung von Büro- bzw. Gewerbeflächen in ein Hotel
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Häberlstraße 15, Baumfällungsantrag vom 28.07.2015 einer Thuja
+- TOP 1.2.: Thalkirchner Straße, Baumfällungsantrag vom 27.08.2015 einer Mehlbeere
+- TOP 1.3.: Bavariastraße 1, Baumfällungsantrag vom 06.08.2015 zweier Eiben
+- TOP 1.4.: Reichenbachstraße 41, Baumfällungsantrag vom 29.07.2015 einer Trauerweide, Vertagung aus TOP 2015.08 B 3.2.4
+- TOP 1.5.: Klenzestraße 27, Baumveränderung vom 02.09.2015 einer Kastanie, Vertagung aus TOP 2015.08 B 3.2.6
+- TOP 1.6.: Museumsinsel 1, Baumfällungsantrag oder Baumveränderung vom 03.09.2015 einer Trauerweide
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Bürgeranliegen: Sanierung der Straße ?Am Glockenbach?
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: Maistraße 1, Genehmigung einer Freischankfläche
+- TOP 1.2.: Landwehrstraße 35, Genehmigung einer Freischankfläche
+- TOP 1.3.: Landwehrstraße 83, Genehmigung einer Freischankfläche
+- TOP 1.4.: Schillerstraße 17, Genehmigung einer Freischankfläche und Erweiterung einer bestehenden Freischankfläche
+- TOP 1.5.: Kapuzinerstraße 17, Erweiterung einer bestehender Freischankfläche - PLENUMSBESCHLUSS
+- TOP 1.6.: Fraunhoferstraße 32, Ablehnung der Freischankfläche, vgl. TOP C 2.1.2 aus 2015.08, Schreiben des Kreisverwaltungsreferates vom 04.09.2015 mit der Bitte um erneute Beratung bzw. Revidierung der Entscheidung - PLENUMSBESCHLUSS
+- TOP 1.7.: Bayerstraße 89, Erweiterung einer bestehenden Freischankfläche - PLENUMSBESCHLUSS
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Kapuzinerstraße 43, Antrag für die Aufstellung einer Warenauslage
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: ÖPNV Offensive IV - Corneliusstraße - Haltestelle Gärtnerplatz
+- TOP 1.1.: Aktion "PLAY ME, I'M YOURS 2015" vom 08.10.2015 bis 25.10.2015, 15 Klaviere im öffentlichen Raum - PLENUMSBESCHLUSS
+- TOP 1.2.: 20 Jahre Jesus Freaks München am 26.09.2015 in der Nussbaumstraße 1 - Eilentscheidung (Frist 23.09.2015)
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Bavariaring / Stielerstraße, altersbedingter Austausch von Lichtsignalanlagen
+- TOP 1.2.: Situation rund um den Hauptbahnhof, Einrichtung Runder Tisch, Schreiben des Kreisverwaltungsreferates vom 27.08.2015
+- TOP 1.3.: Auenstraße und Isartalstraße, Wiederherstellung Bauschaden Parkflächen und Gehbahn
+- TOP 1.4.: Fraunhoferstraße 43, Wiederherstellung Bauschaden
+- TOP 1.5.: Landwehrstraße 19 - 21, Erweiterung der Hotelanfahrtszone
+- TOP 1.6.: München Hauptbahnhof - Umbau des Holzkirchner Flügelbahnhofs in der Landeshauptstadt München der Strecke 5510 München - Rosenheim; Planfeststellungsverfahren nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben
+- TOP 1.7.: Sonnenstraße / Postscheckamt, altersbedingter Austausch von Lichtsignalanlagen
+- TOP 1.1.: Müllerstraße, Aufstellung zusätzlicher Mülleimer, mögliche Standorte, Vertagung aus 2015.08 C 3.3.10
+- TOP 1.2.: Jahnstraße 38, Aufstellung einer Sitzgelegenheit
+- TOP 1.1.: Bürgeranliegen Fussgängerübergang Bayerstraße / Ecke Hermann-Lingg-Straße; Verbesserung der Verkehrssituationen
+- TOP 1.2.: Bürgeranliegen, Lärmbelästigung durch einen neuen Gastronomiebetrieb in der Buttermelcherstraße 15, Hinterhof, Einspruch gegen die Schankkonzession, Widerspruch gegen die Nutzung von Freischankflächen etc.
+- TOP 1.3.: Bürgeranliegen Häberlstraße 23, Aufstellen eines Abfallbehälters an der Bushaltestelle
+- TOP 1.4.: Bürgeranliegen Müllerstraße 43, nächtliche Lärmbelästigung
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat: ?Neuaufstellung bzw. Änderung von Wegweiseranlagen? in ein Entscheidungsrecht; BA-Antrags-Nr. 14 ? 20 / B 01092 des BA 16 vom 16.04.2015; Anhörungsschreiben des Direktoriums vom 03.08.2015
+- TOP 1.2.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist)" in ein Anhörungsrecht; Anhörungsschreiben des Direktoriums vom 28.08.2015
+- TOP 1.3.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung" in ein Anhörungsrecht; Anhörungsschreiben des Direktoriums vom 28.08.2015
+- TOP 1.4.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung ?Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder andere Fragen)? in ein Anhörungsrecht; BA-Antrags-Nr. 14 ? 20 / B 01092 des BA 16 vom 16.04.2015; Anhörungsschreiben des Direktoriums vom 05.08.2015
+- TOP 1.5.: Kompetenz vor Ort anerkennen und wertschätzen ? den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung ?Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen? in ein Anhörungsrecht; BA-Antrags-Nr. 14 ? 20 / B 01092 des BA 16 vom 16.04.2015; Anhörungsschreiben des Direktoriums vom 13.08.2015
+- TOP 1.2: Termine
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 12.10.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 13.10.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 14.10.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Vorstandssitzung findet am Montag, den 19.10.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 27.10.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.2.: BA-Budget: Bescheide
+- TOP 1.3.: Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit, 7. Standortbeschluss, Sitzungsvorlage Nr. 14 - 20 / V 03729; Neufassung vom 11.08.2015
+- TOP 1.4.: REGSAM - Ein starkes Netzwerk für München, Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eigene REGSAM-Stelle, Beschluss der Vollversammlung des Stadtrates vom 29.07.2015; Sitzungsvorlage Nr. 14 - 20 /V 01463
+- TOP 1.5.: Wohnen in München V; Erfahrungsbericht für die Jahre 2013/2014 und Handlungs- empfehlungen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 (VB); Sitzungsvorlagen Nr. 14 - 20 / V 3584
+- TOP 1.6.: "Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork" Stadtweiter Ausbau von Streetwork Antrag-Nr. 14 - 20 / A 00515 vom 05.12.2014, Verstärkung Streetwork-Arbeit im Münchner Westen Antrag-Nr. 14 - 20 / B 00707 des BA 22 vom 17.12.2014, Sitzungsvorlage Nr. 14 - 20 / V03137; Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.2015 (VB)
+- TOP 1.7.: Zwischenbericht Kindertheater im Fraunhofer vom 20.09.2015, vgl. hierzu TOP 2014.08 A 2.1
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München
+- TOP 1.2.: Sanierung und Modernisierung des Deutschen Museums, Vollzug der Wassergesetze; Anträge auf wasserrechtliche Erlaubnis nach Art. 15 BayWG
+- TOP 1.3.: Baaderstraße 58, Aufstockung und Erweiterung eines Wohn- und Garagengebäudes, vgl. TOP 2015.08 B 3.1.5 - Ablehnender Vorbescheid des Referates für Stadtplanung und Bauordnung vom 09.09.2015
+- TOP 1.4.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum, vgl. TOP 2015.07 B 3.3.1; Sitzungsvorlagen Nr. 14 - 20 / V 02161; Beschlussvorlage für Beschluss des Referates für Stadtplanung und Bauordnung am 23.09.2015
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Goethestraße 41, Freischankfläche, zu TOP 2015.07 C 2.1.2, Antwortschreiben des Kreisverwaltungsreferates Bezirksinspektion Mitte vom 19.08.2015
+- TOP 1.7.: Bürgeranliegen Baaderstraße, insbesondere zwischen Cornelius- und Fraunhoferstraße, nächtliche Ruhestörung, Antwortschreiben des Kreisverwaltungsreferates, Bezirksinspektion vom 25.08.2015
+- TOP 1.8.: Am Glockenbach - Information zum aktuellen Projektzwischenstand, Schreiben des Baureferates vom 31.08.2015
+- TOP 1.9.: Müllsituation im Isar-Hochwasserbett, BA-Antrags-Nr. 14 - 20 / B 1229 des BA 2 vom 19.05.2015; Antwortschreiben des Baureferates vom 28.08.2015
+- TOP 1.10.: Einbahnregelung Reichenbachstraße und Klenzestraße; BA-Antrag-Nr. 14 - 20 / B 01474 des BA 2 vom 28.07.2015; Antwortschreiben des Kreisverwaltungsreferates vom 03.09.2015
+- TOP 1.11.: Toilettenanlage im Maßmannpark, Antrag-Nr. 14 - 20 / A 00209 vom 27.08.2014; Öffentliche Toiletten in Grünanlagen, Antrag-Nr. 14 -20 / A 00485 vom 25.11.2014 und Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze, Antrag-Nr. 14 - 20 / A 00487 vom 25.11.2014, Sitzungsvorlage Nr. 14 - 20 / V 03798, Beschluss des Bauausschusses vom 22.09.2015
+- TOP 1.12.: Leistungsprogramm der MVG für die Fahrplanperiode 2016, u.a. Antrag-Nr. 08 - 14 / B 05038 des BA 2 vom 30.07.2013; Beschluss der Vollversammlung des Stadtrates am 29.07.2015
+- TOP 1.13.: Beschwerde eines Bürgers bei der Polizei, zugeparkter Radweg Auenstraße / Baldeplatz durch parkendes Müllfahrzeug
+- TOP 1.14.: Bürgeranliegen Hundekot auf Gehwegen und Müllablagerungen auf dem Gärtnerplatz, Grillen an der Isar außerhalb der ausgewiesenen Zonen, vgl. TOP 2015.07 C 5.6 + 5.7; Antwortschreiben des Baureferates, Tiefbau Straßenreinigung vom 07.09.2015
+- TOP 1.15.: Nahverkehrsplan (NVP) der LHSt München; Hinweis / Ergänzung vom 08.09.2015 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 (VB); Sitzungsvorlagen Nr. 14 -20 / V 03603;
+- TOP 1.16.: Nahmobilitätspauschale; Erhöhung der Nahmobilitätspauschale - Verwendung der Nahmobilitätspauschale Antrag Nr. 14 - 20 / A 00873 vom 08.04.2015; Sitzungsvorlage Nr. 14 - 20 / V 02702, Beschluss der Vollversammlung des Stadtrates vom 29.07.2015
+- TOP 1.17.: Bürgeranliegen Baldeplatz Sitzbänke, vgl. Ferienausschuss 2015.08; Antwortschreiben des Baureferates vom 15.09.2015
+- TOP 1.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.19.: Mobilität in Deutschland 2016, Haushaltsbefragung zum Alltagsverkehr in München, Beteiligung der LHSt München; Gesamtverkehrsleistung in München wie sind die Anteil der verschiedenen Verkehrsarten verteilt? Antrag Nr. 14 - 20 / A 01277 vom 31.07.2015, Sitzungsvorlagen Nr. 14 - 20 / V 03899; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015
+- TOP 1.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; Vorberatungen in der BA-Satzungskommission vom 10.06.2015 und Umsetzung der Empfehlungen in eine Änderungssatzung, Sitzungsvorlage Nr. 14 ? 20 / V 03494
+- TOP 1.2.: Aufstellung BA-Sitzungsgelder; BA-Antrags-Nr. 14 - 20 / B 01473 des BA 2 vom 28.07.2015; Antwortschreiben des Direktoriums vom 15.09.2015
+- TOP .2.: (E) Budget der Bezirksausschüsse Kindergruppe Baaderstr. e.V. Malerarbeiten sowie Verbesserung der Abstellmöglichkeiten ab 13.10.2015
+- TOP .3.: (E) Budget der Bezirksausschüsse Alten- und Service-Zentrum Isarvorstadt Feier zum 2jährigen Bestehen des inklusiven Angebotes ?Bunte Runde? am 17.11.2015
+- TOP .4.: (E) Budget der Bezirksausschüsse Evang. Beratungszentrum München e.V. Öffentlichkeitsarbeit für das Jubiläum 40+ der Schwangerschaftsberatung mit Jubiläumsfeier am 19.11.2015
+- TOP 1: (E) Uhr am Baldeplatz Empfehlung Nr. 14-20 / E 00213 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 06.11.2014
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
