@@ -1,0 +1,141 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-09-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556914
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556914
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Auf dem Wasen 4-6, Neubau eines Mehrfamilienhauses mit TG
+- TOP 3.2.: Neumarkter Str. 21 a, Nutzungsänderung und Errichtung zweier Dachaufbauten
+- TOP 3.3.: Kreillerstr. 131, Neubau eines Boardinghauses mit Wohnungen und TG
+- TOP 3.4.: Anzinger Str. 3
+- TOP 3.5.: Neumarkter Str. 85, Neubau eines Hotels mit TG
+- TOP 3.6.: Berg-am-Laim-Str. 128, Erweiterung einer Grundschule
+- TOP 3.7.: Berg-am-Laim-Str. 47, Nutzungsänderung einer Büroeinheit zu Unterrichtsräumen
+- TOP 3.8.: Kreillerstr. 2, Neubau eines Wohn- und Geschäftshauses
+- TOP 3.9.: Grünanlagen gemeinsam gestalten, Antrag der CSU-Fraktion
+- TOP 3.10.: Fahrradabstellkonzept (3. Realisierungsabschnitt)
+- TOP 3.11.: öffentliche Grünanlage Hansjakob-/Hohenburg-/Roßsteinstraße
+- TOP 3.12.: Benennung eines Platzes an der Hermann-Weinhauser-Straße
+- TOP 3.1.: Grünanlage an der Bad-Kreuther-Straße, Maikäferfußballturnier am 24.10.2015
+- TOP 3.2.: Wasseranschluss am Grünen Markt nutzbar machen
+- TOP 3.3.: Unerlaubtes Befahren des Fuß- und Radwegs an der St.-Michael-Straße BA-Antrag Nr. 14-20 / B 01166 des Bezirksausschusses 14 Berg am Laim (TOP 4.2.1./07/15)
+- TOP 3.4.: München Marathon am 11.10.2015 und Trachtenlauf am 10.10.2015
+- TOP 3.5.: Abmarkierung der Mittelinsel zwischen der Schlüsselberg- und Grafinger Straße mit Richtungspfeilen, Antrag SPD-Fraktion
+- TOP 3.6.: Sichere Überquerung für Fahrradfahrer St.-Michael-Str./Höhe Bad-Kreuther-Str., Antrag SPD-Fraktion
+- TOP 3.7.: Mittlerer Ring - Fortführung der Planungen für eine zukunftsfähige und stadtbezirksverträgliche Weiterentwicklung, Antrag der Bezirksausschüsse 14, 16, 17 und 18
+- TOP 3.8.: Mittlerer Ring - strukturell verbessern und entlasten!, Antrag CSU Fraktion
+- TOP 3.9.: Handlungsprogramm Mittlerer Ring
+- TOP 3.1.: Ludwig-Thoma-Realschule, Fehwiesenstraße 118 Fußweg zum Pavillon, Innsbrucker Ring 75, Nutzung öffentliche Grünanlage (Bolzplatz), Joseph-Hörwick-Weg
+- TOP 3.1.: Flüchtlingsunterbringung - Information und Einbeziehung des Bezirksausschusses
+- TOP 3.4.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Anhörungsrechtes der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwaltungsreferat; "Neuaufstellung bzw. Änderung von Wegweiseranlagen" in ein Entscheidungsrecht
+- TOP 3.5.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 3 (Abschnitt Referat für Arbeit und Wirtschaft) BA-Satzung "Vergabe von städtischen Grundstücken (Nutzungsart hinsichtlich der Branche zur Ansiedlung vorgeschlagener Firmen, nicht jedoch der Person des Nutzers oder andere Fragen)" in ein Anhörungsrecht
+- TOP 3.6.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 5 (Abschnitt Referat für Bildung und Sport) BA-Satzung "Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen" in ein Anhörungsrecht
+- TOP 3.7.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit offene Planung beschlossen ist" in ein Anhörungsrecht
+- TOP 3.8.: Kompetenz vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes der Anlage 1 Ziffer 5.1 (Abschnitt Kommunalreferat) BA-Satzung "Grundsätzliche Fragen der Müllbeseitigung" in ein Anhörungsrecht
+- TOP 3.9.: Einrichtung eines Bürgerbüros in Berg am Laim, Antrag SPD-Fraktion
+- TOP 3.1.: Prascheler Str. 11
+- TOP 3.2.: Hermann-Weinhauser-Straße, Neubau Wohnanlage mit TG
+- TOP 3.3.: Ampfingstr. 7, Errichtung eines überdachten Fahrradständerplatzes
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk 14 Berg am Laim
+- TOP 4.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2097 Anzinger Straße 23/29
+- TOP 4.3.: Bebauungsplan mit Grünordnung Nr. 2100 Haldenseestraße (beidseits) Bad-Schachener-Straße (südlich) Hechtseestraße (nördlich) Echardinger Straße und Krumbadstraße (östlich) - Eckdaten und Aufstellungsbeschluss - Durchführung eines städtebaulichen und landschaftsplanerischen Planungswettbewerbs
+- TOP 4.4.: Wohnen in München VI - Zeitplan und Themenvorschau
+- TOP 4.5.: Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Vollzug der Erhaltungssatzung Vollzug der Zweckentfremdungssatzung
+- TOP 4.6.: Baustelleneinrichtung an der Bad-Schachener-Straße 28
+- TOP 4.7.: Baustelleneinrichtung an der Waldstraße
+- TOP 4.8.: Bauvorhaben: Zweckentfremdung von Wohnraum im Stadtbezirk 14 Berg am Laim
+- TOP 4.9.: Verbot von Laubbläsern durch die Stadt München
+- TOP 4.10.: Ausbau der Ladeinfrastruktur für Elektrofahrzeuge in Berg am Laim, BA-Antrag Nr. 14-20 / B 01488 des BA 14 Berg am Laim vom 28.07.2015
+- TOP 4.11.: Toilettenanlage im Maßmannpark
+- TOP 4.1.: Infotafeln an den Straßenschildern Antrag Nr. 14-20 / B 01171 des BA 14 Berg am Laim vom 28.04.2015
+- TOP 4.2.: Wegebenennung in Grünanlagen
+- TOP 4.3.: Erhalt des Mahlerhauses Antrag Nr. 14-20 / B 01126 des BA 14 Berg am Laim vom 24.03.2015
+- TOP 4.4.: "Weltkindertag" am 20.09.2015 in Grünanlage an der St.-Veit-Straße 14.00 Uhr bis 18.00 Uhr
+- TOP 4.5.: Einrichtung einer vorübergehenden Schulbushaltestelle in der Baumkirchner Straße für die Grundschule in der Berg-am-Laim-Straße 142
+- TOP 4.6.: Ablehnung einer Linksabbiegemöglichkeit von der Bad-Schachener-Straße stadteinwärts in die Echardinger Straße
+- TOP 4.7.: Austausch von Lichtzeichenanlagen
+- TOP 4.8.: Radverbindung Kreillerstraße/Halfingerstraße sowie Sonnwendjochstraße/Halfingerstraße schaffen, Antrag des BA 14 Berg am Laim vom 24.02.2015
+- TOP 4.9.: Austausch von Lichtzeichenanlagen: Baumkirchner-/Josephsburgstraße
+- TOP 4.10.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Arnweg 2
+- TOP 4.11.: Optimierung der Lichtsignalanlagentaktung an der Kreuzung Anzinger Straße/Rosenheimer Straße Antrag Nr. 14-20/ B 01348 des BA 14 Berg am Laim vom 19.05.2015
+- TOP 4.12.: Nachhaltige Verkehrsprognose aller Verkehrsteilnehmer auf Basis digitaler Daten, BA-Antrag Nr. 14-20 / B 01343 des BA 14 Berg am Laim vom 19.05.2015
+- TOP 4.13.: Sitzmöglichkeiten an der Bushaltestelle Baumkirchner Straße Antrag Nr. 14-20 / B 01128 des BA 14 Berg am Laim vom 24.03.2015
+- TOP 4.14.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 4.15.: Umsetzungsbeschluss zum Fahrradvermietsystem MVG Rad - II
+- TOP 4.16.: Koordination und Service im Radverkehr
+- TOP 4.17.: Nahmobilitätspauschale
+- TOP 4.18.: Mobilität in Deutschland 2016 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München
+- TOP 4.19.: Leistungsprogramm der MVG für die Fahrplanperiode 2015
+- TOP 4.20.: Baustelle Bahnhof Berg am Laim - Auswirkungen auf die Buslinie 146
+- TOP 4.21.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels
+- TOP 4.22.: "Palm? Club", Friedenstr. 10, Antrag auf unveränderte Fortführung
+- TOP 4.23.: Mechito?, Ampfingstr. 48, Antrag auf unveränderte Fortführung
+- TOP 4.24.: Chateau, Friedenstr. 10, Antrag auf unveränderte Fortführung
+- TOP 4.25.: Legend (Sportsbar), St.-Michael-Str. 2, Antrag auf unveränderte Fortführung
+- TOP 4.26.: Nahversorgung in Berg am Laim fördern Antrag Nr. 14-20 / B 01347 vom 19.05.2015
+- TOP 4.1.: Protokoll über den Ortstermin an der Ludwig-Thoma-Realschule
+- TOP 4.2.: Infoveranstaltung zum "Campus Ost" an der Ludwig-Thoma-Realschule
+- TOP 4.3.: Hygienesituation in den Sanitärräumen an der Ludwig-Thoma-Realschule, Antrag Nr. 14-20 / B 00721 des BA 14 Berg am Laim vom 16.12.2014
+- TOP 4.4.: Raumluftmessungen in "mobilen Schulräumen", Antrag Nr. 14-20 / B 00722 des BA 14 Berg am Laim vom 16.12.2014
+- TOP 4.5.: Schulbauoffensive 2013 - 2030
+- TOP 4.1.: Soziale Verwendung langzeitgeparkter und unbewegter, aber fahrtauglicher Fahrräder, Antrag Nr. 14-20 / B 01493 des BA 14 vom 28.07.2015
+- TOP 4.2.: Ersatzstandort Nachbarschaftstreff-Maikäfertreff Träger MAGS & MORE - Investitionskostenzuschuss für Ersatzstandort -
+- TOP 4.3.: Mieterbeiratswahl 2015
+- TOP 4.4.: Unterbringung von Flüchtlingen im Rahmen des Überbrückungsprogrammes
+- TOP 4.5.: Unterbringung von Flüchtlingen und Wohnungslosen Flüchtlingen in kommunaler Zuständigkeit: 6. Standortsbeschluss 7. Standortsbeschluss
+- TOP 4.6.: REGSAM - Ein starkes Netzwerk für München Trägerantrag auf Ressourcenerweiterung
+- TOP 4.1.: Verwendungsnachweis - streitfeld offen 2015
+- TOP 4.2.: Verwendungsnachweis Maifeier des Maibaumvereines Berg am Laim e.V.
+- TOP 4.3.: Mittel der Landeshauptstadt München aus dem BA-Budget - Dankschreiben des Maibaumvereines Berg am Laim e.V.
+- TOP 4.4.: Sachbericht - Zuschuss Ausstattung mit Vorhängen des AKA e.V.
+- TOP 4.5.: Verwendungsnachweis - Theaterstück "Face me"
+- TOP 4.6.: Zuschuss für Defibrillatoren für die FFW München aus dem BA-Budget
+- TOP 4.7.: Straßenfest am 13.09.2015 in der Baumkirchner Straße - Genehmigung
+- TOP 4.8.: Begrüßung von Seniorenbeirätinnen und Seniorenbeiräten bei städtischen Veranstaltungen
+- TOP 4.9.: Änderungen der Satzung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 4.1.: Gronsdorfer Str. 1 - Ablehnung der Fällung
+- TOP 4.2.: Praschlerstr. 1 - Ablehnung der Fällung
+- TOP 4.3.: Sonnwendjochstr. 17 - Ablehnung der Fällung
+- TOP 4.4.: Sonnwendjochstr. 43 - Ablehnung der Fällung
+- TOP 4.5.: Kranzhornstr. 29 - Ablehnung der Fällung
+- TOP 4.6.: Fehwiesenstr. 102 - 102 c - Ablehnung der Fällung
+- TOP 4.7.: Ellingerweg 52 - Ablehnung der Fällung
+- TOP 4.8.: Freiflächengestaltungssatzung ändern Begrünung nur noch bei erdgeschossigen Dächern und Garagen wegen der Optik
+- TOP 4.9.: Blombergstr. 36
+- TOP 4.10.: Baumkirchner Str. 62
+- TOP 4.11.: Ringbergstr. 11
+- TOP 4.12.: Kreillerstr. 131
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 2: (E) Mehr Mülleimer in Grünanlagen, Parks und auf Plätzen mit Bänken in Berg am Laim Empfehlung Nr. 14-20 / E 00464 der Bürgerversammlung des Stadtbezirks 14 Berg am Laim am 26.03.2015
+- TOP 3: (E) Überdachte und geschützte Unterstandsmöglichkeit an der Straßenbahnhaltestelle Kreillerstraße, beide Fahrtrichtungen Empfehlung Nr. 14-20 / E 00460 der Bürgerversammlung des Stadtbezirks 14 Berg am Laim am 26.03.2015
+- TOP 3.1.: (E) Budget der Bezirksausschüsse MobilSpiel e.V. Veranstaltung Kicklusion ??und alle kicken mit!? am 04.10.2015
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Münchner Tafel Berg am Laim Verlegung eines Pflasters
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Mag's & More e.V., Nachbarschaftstreff Maikäfersiedlung Maikäferfußballturnier am 24.10.2015
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
