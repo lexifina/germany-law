@@ -1,0 +1,108 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-09-29T17:00:00+02:00
+- Ende: 2015-09-29T21:10:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10134
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10134
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248513.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248513.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00248513.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Kinder- und Jugendförderplan 2015 - 2020 - zur Kenntnis genommen
+- TOP 4: Renovierung Heyebad - einstimmig beschlossen
+- TOP 5: Planungsstopp Jugendfreizeiteinrichtung (JFE) - zur Kenntnis genommen
+- TOP 6: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - einstimmig beschlossen
+- TOP 7: Erklärung gem. 125(2) - Bergische Landstraße, Teil 3 - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Rahmenplan Einzelhandel 2015 - Vorentwurf - - zur Kenntnis genommen
+- TOP 10: Rahmenplan Einzelhandel - einstimmig beschlossen
+- TOP 10.1: Rahmenplan EzHdl 2015: Nahversorgung Knittkuhl/ Hubbelrath - mehrheitlich abgelehnt
+- TOP 10.2: Rahmenplan EzHdl 2015: Tiefgarage Apostelplatz - mehrheitlich abgelehnt
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Brücke über die Düssel im Bereich Diepenstraße/Schaustellerplatz - mehrheitlich abgelehnt
+- TOP 11.3: Brücke Pillebach, Verbindungsweg - mehrheitlich abgelehnt
+- TOP 11.4: Rheinbahn - Haltestelle "Knuppertsbrück", Glashüttenstraße Westseite - mehrheitlich abgelehnt
+- TOP 11.5: Machbarkeitsstudie Anbindung Bergische Landstraße an die BAB 44 über Knittkuhler Straße - zurückgezogen
+- TOP 11.6: Staufenhalle am Staufenplatz - zurückgezogen
+- TOP 11.7: Machbarkeitsstudie Tunnel Ludenberger Straße - mehrheitlich abgelehnt
+- TOP 11.8: Einrichtung einer Fußgängerbedarfsampel Ludenberger Straße - mehrheitlich abgelehnt
+- TOP 12: Kita - Gebühren - zurückgezogen
+- TOP 12.1: Haushaltsentwurf 2016 mit Anlagen - mehrheitlich beschlossen
+- TOP 13: Änderung der Parkgebührenordnung - zurückgezogen
+- TOP 14: Änderung der Parkgebührenordnung - mehrheitlich beschlossen
+- TOP 15: Festsetzung von Überschwemmungsgebieten - Information - zur Kenntnis genommen
+- TOP 16: Sitzungstermine der Bezirksvertretung 7 im Jahre 2016 - zur Kenntnis genommen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 17.1: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 18: Seilbahn im Stadtbezirk 7 - zurückgezogen
+- TOP 19: Seilbahn - zurückgezogen
+- TOP 20: Verlängerung der Straßenbahn bis Bergische Kaserne - mehrheitlich abgelehnt
+- TOP 21: Augleichsflächenkataster - vertagt
+- TOP 22: Riesenbärenklau / Herkulesstaude - vertagt
+- TOP 23: Beleuchtung Katharinenstraße - vertagt
+- TOP 24: Informationsangebot im Internet über Gerresheimer Großbaustellen - vertagt
+- TOP 25: Tempo 30 auf der Quadenhofstraße - vertagt
+- TOP 26: Abfluss Heyestraße - vertagt
+- TOP 27: Abschraffierung Grafenberger Allee - vertagt
+- TOP 28: Fahrradfahren auf der Grafenberger Allee - vertagt
+- TOP 29: Umgestaltung Benderstraße - vertagt
+- TOP 30: Arbeiten am Abwasserkanalnetz Heyestraße und Nebenstraßen - vertagt
+- TOP 31: Erhaltungssatzungen - vertagt
+- TOP 32: Fahrbahndecke Heyestraße/ Ecke Hardenbergstraße - vertagt
+- TOP 33: Äußere Erschließung Glasmacherviertel - vertagt
+- TOP 34: Gestaltungssatzung Hahnenfurther Straße - vertagt
+- TOP 35: Einwohnerfragestunde - vertagt
+- TOP 36: Verkehrsstaus Bergische Landstraße/ Ludenberger Straße/ Gräulinger Straße/Dreherstraße/Torfbruchstr - vertagt
+- TOP 37: Berücksichtung der Belange des Fahrradverkehrs bei der Einrichtung von Baustellen im Straßenbau - vertagt
+- TOP 38: Öffnung der Einbahnstraße Kölner Tor für den Radverkehr in beide Fahrtrichtungen - vertagt
+- TOP 39: Öffnung der Fußgängerbrücke über die Dreherstr. für Radfahrer - vertagt
+- TOP 40: Bergische Kaserne I - vertagt
+- TOP 41: Bergische Kaserne II - vertagt
+- TOP 42: Unterkunft Blanckertzstraße - vertagt
+- TOP 42.1: Entschädigungsfonds Geschäftsleute Gerresheim (Nord und Süd) - vertagt
+- TOP 43: Aaper Wald - zurückgezogen
+- TOP 44: Verspätung S8 - vertagt
+- TOP 45: Breitbandausbau im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 46: Künftige Nutzung Gut Buscherhof - zur Kenntnis genommen
+- TOP 47: Baustelle Marie-Curie-Straße - zur Kenntnis genommen
+- TOP 48: Baustellenbedingter Stau auf der B7 - zur Kenntnis genommen
+- TOP 49: Bücherschrank Roter Platz-Heyestraße - vertagt
+- TOP 50: Barrierefreier Ausbau der Bushaltestellen Gerresheim Rathaus - zur Kenntnis genommen
+- TOP 51: Fahrraddiebstähle im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 52: Umbau Benderstraße/Nutzung durch das Brauchtum - zur Kenntnis genommen
+- TOP 53: DB-Unterführung Gerresheimer Bahnhof - zur Kenntnis genommen
+- TOP 54: Sporthallensituation im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 55: Gehwegerneuerung Ernst-Poensgen-Allee - zur Kenntnis genommen
+- TOP 56: Straßenbeleuchtung - zur Kenntnis genommen
+- TOP 57: Fahrbahnerneuerung Am Poth - zur Kenntnis genommen
+- TOP 58: Umbau und Neubau von Straßenlaternen - zur Kenntnis genommen
+- TOP 59: Radweg Knittkuhl - Ratinger Weg - zur Kenntnis genommen
+- TOP 60: Verbindungsweg zwischen der Nymphenburgstraße und der Torfbruchstraße - zur Kenntnis genommen
+- TOP 61: Trimmpfad Grafenberger Wald - zur Kenntnis genommen
+- TOP 62: Geschwindigkeitsüberprüfung Ludenberger Straße - zur Kenntnis genommen
+- TOP 63: Wohnmobile Gräulinger Straße - zur Kenntnis genommen
+- TOP 64: Marketing für den Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 65: Norbert-Schmidt-Straße - zur Kenntnis genommen
+- TOP 66: Sanierung BAB3 Bereich Hubbelrath - zur Kenntnis genommen
+- TOP 67: Verkehrsentlastung Bergische Landstraße/Ludenberger Straße - zur Kenntnis genommen
+- TOP 68: Ausbau KiTa Versorgung Blanckertzstr./Hülsmeyerstr. - zur Kenntnis genommen
+- TOP 69: Bolzplatz/Bolzwiese im Quartier Blanckertzstraße - zur Kenntnis genommen
+- TOP 70: Verkehrssicherheit Glashüttenstraße - zur Kenntnis genommen
+- TOP 71: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 72: Flachdachbegrünung - zur Kenntnis genommen
+- TOP 73: Innenhofgestaltung Heyestraße 51-53 - zur Kenntnis genommen
+- TOP 74: Verbesserung der Anbindung durch den ÖPNV an die Freizeiteinrichtung des Unterbacher Sees - zur Kenntnis genommen
+- TOP 75: Lebende Weihnachtsbäume im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 76: Weiterer Ausbau der Halleschen Straße - zur Kenntnis genommen
+- TOP 77: Filialkonzept der Deutschen Post AG; Veränderung im Filialnetz - zur Kenntnis genommen
