@@ -1,0 +1,67 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-09-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379631
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379631
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: Bürgerin: Geplante Erweiterung des inklusiven Modells am Gisela-Gymnasium
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Herzogstr. 84, ?Liebschaften?: Aufstellung einer zusätzlichen Warenstellage (Kleiderstange)
+- TOP 2.1.2.: Elisabethplatz 4 b, ?Nordsee?: Verlegung der Freischankfläche
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Barbarastr. 2: Neubau eines Bürohauses mit Büroeinheit im EG (450 m²) und Tiefgarage ? 2 Varianten
+- TOP 2.1.2.: Tektur Nordendstr. 41: Ausbau, Umbau und Modernisierung des Dachgeschosses sowie Erneuerung des Dachstuhls
+- TOP 2.1.3.: Tektur Adelheidstr. 13 a: Neubau von Studentenwohnungen (hier: Ergänzung einer befestigten Rampe als westlicher Zugang von der Hiltenspergerstraße)
+- TOP 2.1.4.: Kölner Platz 1: Schulbauoffensive ? Neubau eines Hauses für Kinder inkl. 11 Baumfällungen in Zusammenhang mit dem Bauvorhaben
+- TOP 2.1.5.: Keuslinstr. 17: Dachgeschoss-Ausbau
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Wertstoffcontainer-Standort Infanteriestr. 1
+- TOP 1.2.: Bürgerin: Verödung einer öffentlichen Grünfläche am Rand der Kurfürstenstraße
+- TOP 1.3.: Bürgerin: Gestaltung der Grünflächen am Bonner Platz
+- TOP 1.4.: Bürger: Papierkörbe mit Flaschensammlern ausstatten
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Ausbau von zwei ?Ergänzungsflächen? im Ackermannbogen zu öffentlichen Grünflächen
+- TOP 2.1.2.: Ansprengerstr. 1: Fällung dreier Robinien
+- TOP 2.1.3.: Ansprengerstr. 11: Fällung eines Spitz-Ahorn
+- TOP 2.1.4.: Rossinistr. 12: Fällung einer Hainbuche
+- TOP 2.1.5.: Rossinistr. 10: Fällung zweier Silber-Ahornbäume
+- TOP 2.1.6.: Rossinistr. 6: Fällung dreier serbischer Fichten
+- TOP 2.1.7.: Rossinistr. 2: Fällung einer Sand-Birke und einer Robinie
+- TOP 2.1.8.: Clemensstr. 50: Fällung eines Feuer-Ahorn
+- TOP 2.1.9.: Destouchesstr. 49: Fällung einer Fichte
+- TOP 2.1.10.: Schleißheimer Str. 142 (Nordbad): Fällung eines Spitz-Ahorn
+- TOP 2.1.11.: Belgradstr. 5 a: Fällung eines Götterbaumes
+- TOP 2.1.12.: Ackermannstraße: Fällung einer Roteiche
+- TOP 2.1.13.: Bonner Str. 5: Fällung einer dreistämmigen Zierkirsche
+- TOP 2.2: Verkehr
+- TOP 2.2.1.: Erinnerungsverfahren des Baureferats Tiefbau: Schleißheimer Straße: Asphaltarbeiten zwischen Herzog- und Hohenzollernstraße
+- TOP 2.2.2.: Fahrradabstellplatzkonzept (3. Realisierungsabschnitt): Anhörung zur Detailplanung für den Kurfürstenplatz (vertagt aus 08/15)
+- TOP 2.2.1.: Sitzungstermine 2016 (vertagt aus 07/15)
+- TOP 2.2.2.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 3 Abschnitt Referat: für Arbeit und Wirtschaft ?Vergabe von städtischen Grundstücken? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2.2.3.: Änderung des Anhörungsrechts der Anlage 1 BA-Satzung Ziffer 4 Abschnitt Kreisverwal- tungsreferat: ?Neuaufstellung bzw. Änderung von Wegweiseranlagen? in ein Entscheidungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2.2.4.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 5 Abschnitt Referat: für Bildung und Sport ?Änderungen der Öffnungszeiten von Kindertagesstätten und Tagesheimschulen? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2.2.5.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 15 Abschnitt Referat: für Stadtplanung und Bauordnung ?Sämtliche Vorlagenan die Stadtratsausschüsse oder an das Plenum, wenn Offene Planung beschlossen ist? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
+- TOP 2.2.6.: Änderung des Unterrichtungsrechts der Anlage 1 BA-Satzung Ziffer 5.1 Abschnitt Kommunalreferat ?Grundsätzliche Fragen der Müllbeseitigung? in ein Anhörungsrecht Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach
