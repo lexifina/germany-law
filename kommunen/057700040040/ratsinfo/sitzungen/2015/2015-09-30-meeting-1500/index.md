@@ -1,0 +1,60 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2015-09-30T17:00:00+02:00
+- Ende: 2015-09-30T20:15:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYCm2ep3LeOmPLVYjB05Vx8
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1500
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQr9LqBgnFkdne1Wa6Gy7XwF6_dmSf4nfY8cty1u9H0z/Bekanntmachung_Rat_30.09.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUon25xSMtdXGAWH8IXLAk2X2Hpc7F2RnKJm7DnRO7Sy/Oeffentliche_Niederschrift_Rat_30.09.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Erneuerung der Mischwasserkanalisation und Straßenbeleuchtung im Bereich Lerchenweg
+- TOP 4.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2014; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 5.: Verwendung des auf neue Rechnung vorgetragenen Ergebnisses 2014 des Abwassereigenbetriebes - Einstimmig, 0 Enthaltungen
+- TOP 6.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2014; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 7.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2014; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2014 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Feststellung des Gesamtabschlusses zum 31.12.2014 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Einrichtung des Stadtmarketing - Einstimmig, 0 Enthaltungen
+- TOP 11.: Einstellung einer Wirtschaftsförderin / eines Wirtschaftsförderers - 30 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 12.: Sicherstellung der Haus- und Facharztversorgung in Rahden; hier: Erlass der Richtlinie der Stadt Rahden zur Förderung der Ansiedlung von Ärztinnen und Ärzten im Stadtgebiet Rahden - 28 Stimmen dafür, 5 dagegen (FWG Rahden), 0 Enthaltungen
+- TOP 13.: Aufstellung des Bebauungsplanes Nr. 87 "Südöstlicher Vordamm" sowie 77. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 77. Änderung des Flächennutzungsplanes - 31 Stimmen dafür, 2 dagegen (DIE GRÜNEN), 0 Enthaltungen
+- TOP 14.: 6. Änderung des Bebauungsplanes Nr. 4 "Alter Markt/nördliches Ahlfeld" für den Bereich um das ehemalige Feuerwehrgerätehaus Rahden am Alten Markt; hier: 1. Beratung und Beschlussfassung über den geänderten Entwurf 2. Beratung und Beschlussfassung über die erneute öffentliche Auslegung der 6. Än- derung des Bebauungsplanes Nr. 4 "Alter Markt/nördliches Ahlfeld" gemäß § 13a Abs. 2 i.V.m. § 4a Abs. 3 Satz 1 BauGB und über die erneute Beteiligung der Behör- den und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4a Abs. 3 Satz 1 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erneuerung der Mischwasserkanalisation im Bereich Lerchenweg - Ohne Abstimmung
+- TOP 16.: Neuabschluss der Konzessionsverträge Strom und Gas in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Öffentlicher Personennahverkehr; hier Einführung eines Sozialtickets im MHV-Raum - Einstimmig, 0 Enthaltungen
+- TOP 18.: Änderung und gleichzeitige Neufassung der Öffentlich-rechtlichen Vereinbarung zwischen dem Kreis Minden-Lübbecke und der Stadt Rahden über die Durchführung von Aufgaben zur Vergabe öffentlicher Aufträge durch den Kreis Minden-Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 19.: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen dem Förderschulverband Lübbecke und der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Änderung der Verwaltungsgebührensatzung vom 22.03.2013 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Ersatzwahl zum Verwaltungsrat der Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 22.: Ersatzbeschaffung von Mannschaftstransportfahrzeugen für die Löschzüge Rahden und Pr. Ströhen - 32 Stimmen dafür, 0 dagegen, 1 Enthaltung (Korte)
+- TOP 23.: Erneuerung der Heizkesselanlage an der alten Schule Wehe - Einstimmig, 0 Enthaltungen
+- TOP 24.: Bekanntgaben
+- TOP 24.1: 25jähriges Jubiläum der Städtepartnerschaft Glindow
+- TOP 24.2: W-LAN im Rathaus und der Rahdener Innenstadt
+- TOP 24.3: Förderantrag des Heimatvereins Tonnenheide
+- TOP 25.: Verschiedenes
+- TOP 25.1: Krisenstab Asyl
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 26.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Bestellung eines Vorstandsmitgliedes - Einstimmig, 0 Enthaltungen
+- TOP 27.: Anschaffung eines Mannschaftstransportfahrzeuges (MTF) für den Löschzug Rahden; hier: Auftragsvergabe - Einstimmig, 0 Enthaltungen
+- TOP 28.: Grundstücksangelegenheiten
+- TOP 28.1: Bekanntgabe der im II. Quartal 2015 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 28.2: Erwerb von zwei Grundstücken - 28 Stimmen dafür, 2 dagegen (Die Grünen), 0 Enthaltungen
+- TOP 28.3: Erwerb eines Grundstückes - 28 Stimmen dafür, 2 dagegen (DIE GRÜNEN), 0 Enthaltungen
+- TOP 29.: Bekanntgaben
+- TOP 29.1: Antrag der Rupublikaner
+- TOP 30.: Verschiedenes
+- TOP 30.1: Unterbringung von ausländischen Flüchtlingen in der Begegnungsstätte Wehe
+- TOP 30.2: Sportentwicklungskonzept für den Kreis Minden-Lübbecke
+- TOP 30.3: Feuerwehrgerätehaus Varl/Sielhorst
