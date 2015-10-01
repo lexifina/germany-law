@@ -1,0 +1,89 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2015-10-01T18:07:00+02:00
+- Ende: 2015-10-01T20:49:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1224
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1224
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Vereidigung
+- TOP 3: Verpflichtung Ratsmitglied
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Schriftliche Anträge
+- TOP 5.1: CDU
+- TOP 5.1.1: CDU, Antrag Nr. 231/15 - einstimmig
+- TOP 5.1.2: CDU, Antrag Nr. 232/15 - einstimmig
+- TOP 5.1.3: CDU, Antrag Nr. 233/15 - einstimmig
+- TOP 5.1.4: CDU, Antrag Nr. 234/15 - einstimmig
+- TOP 5.2: SPD
+- TOP 5.2.1: SDP, Antrag Nr. 236/15 - einstimmig
+- TOP 5.2.2: SPD, Antrag Nr. 237/15 - einstimmig
+- TOP 5.2.2.1: UWG, Antrag Nr. 195/15 - Kenntnisnahme
+- TOP 5.3: UWG
+- TOP 5.3.1: UWG, Antrag Nr. 195/15 - Kenntnisnahme
+- TOP 5.3.2: UWG, Antrag Nr. 235/15 - einstimmig
+- TOP 5.3.3: FDP, Antrag Nr. 221/15 - mehrheitlich bei
+- TOP 5.3.4: FDP, Antrag Nr. 216/15 - einstimmig
+- TOP 5.3.5: FDP, Antrag Nr. 217/15 - einstimmig
+- TOP 5.3.6: FDP, Antrag Nr. 218/15 - einstimmig
+- TOP 5.4: FDP
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.5.1: Bündnis 90/Grüne, Antrag Nr. 222/15 - einstimmig
+- TOP 5.5.2: ABG, Antrag Nr. 223/15 - einstimmig
+- TOP 5.6: ABG
+- TOP 5.7: Mein Grevenbroich
+- TOP 5.7.1: Mein GV, Antrag Nr. 224/15 - einstimmig
+- TOP 5.7.2: Mein GV, Antrag Nr. 225/15 - einstimmig
+- TOP 5.7.3: Mein GV, Antrag Nr. 226/15 - einstimmig
+- TOP 5.7.4: Mein GV, Antrag Nr. 227/15 - einstimmig
+- TOP 5.7.5: Mein GV, Antrag Nr. 228/15 - einstimmig
+- TOP 5.7.6: Die Linke/Piraten (Antrag Nr. 229/15) - einstimmig
+- TOP 5.7.7: Die Linke/Piraten (Antrag Nr. 230/15) - einstimmig
+- TOP 5.8: Die Linke/Piraten
+- TOP 5.9: Gemeinschaftsanträge
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: SPD
+- TOP 6.1.1: SPD, Anfrage Nr. 238/15 - Kenntnisnahme
+- TOP 6.2: UWG
+- TOP 6.3: FDP
+- TOP 6.3.1: FDP, Anfrage Nr. 197/15 - Kenntnisnahme
+- TOP 6.3.2: FDP, Anfrage Nr. 219/15 - Kenntnisnahme
+- TOP 6.4: B 90/DIE GRÜNEN
+- TOP 6.5: ABG
+- TOP 6.6: CDU
+- TOP 6.7: Mein Grevenbroich
+- TOP 6.8: Die Linke/Piraten
+- TOP 7: Dringlichkeitsentscheidungen
+- TOP 8: Mittelbereitstellungen
+- TOP 9: Nachtragshaushalt 2015 - einstimmig
+- TOP 10: Haushalt 2016
+- TOP 11: Vertretung Gremien - einstimmig
+- TOP 12: Reinigung Toilette Bahnhof GV - Kenntnisnahme
+- TOP 13: 2. Ausschreibungsrunde - Abgabe der städtischen OGS an Freie Träger (Sanierungsplan Maßnahme Nr. 20) - mehrheitlich bei
+- TOP 14: BauA 17.09.2015
+- TOP 14.1: 7. Änderung der Satzung über die Entsorgung - einstimmig
+- TOP 15: Beratungspunkte Ausschüsse
+- TOP 15.1: Tätigkeitsbericht der GB - Kenntnisnahme
+- TOP 16: Beantwortung Anträge
+- TOP 17: Beantwortung Anfragen
+- TOP 17.1: Mein GV, Anfrage Nr. 157/15 - Kenntnisnahme
+- TOP 17.2: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 17.3: Beantwortung mündlicher Anfragen - Kenntnisnahme
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: Rf Troles, Anfrage Nr. 202/15
+- TOP 18.2: Antrag 241/15
+- TOP 18.3: Rh Schumacher, Antrag Nr. 242/15 - mehrheitlich bei
+- TOP 18.4: Rh Dorok, Anfrage Nr. 243/15
+- TOP 18.5: Rh Dorok, Anfrage Nr. 244/15
+- TOP 18.6: Rh Haines, Anfrage Nr. 245/15
+- TOP 18.7: Rh Thalmann, Anfrage Nr. 246/15
+- TOP 18.8: Rh Thalmann, Anfrage Nr. 247/15
+- TOP 19: Mitteilungen BM'in
+- TOP 19.1: Sachstandsbericht Asyl
