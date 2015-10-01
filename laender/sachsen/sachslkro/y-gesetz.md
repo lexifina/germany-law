@@ -1,5 +1,5 @@
 # Landkreisordnung für den Freistaat Sachsen (Sächsische Landkreisordnung – SächsLKrO)
-Rechtsbereinigt mit Stand vom 9. Mai 2015
+Rechtsbereinigt mit Stand vom 1. Oktober 2015
 Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet des Landkreises
 Erster Abschnitt Rechtsstellung und Aufgaben
