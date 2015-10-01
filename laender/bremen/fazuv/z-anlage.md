@@ -33,10 +33,12 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
 3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
  |  |  | 3.3 | Ausstellung der Bescheinigungen für
- |  |  | 3.3.1 | die Durchführung des Lohnsteuerabzugs nach § 39c Absatz 3 und 4 und § 39d des Einkommensteuergesetzes
+ |  |  | 3.3.1 | die Durchführung des Lohnsteuerabzugs nach § 39c Absatz 3 und 4 des Einkommensteuergesetzes
  |  |  | 3.3.2 | die Freistellung des Arbeitslohns vom Lohnsteuerabzug nach einem Doppelbesteuerungsabkommen und dem Auslandstätigkeitserlass
  |  |  | 3.4 | Genehmigung von Anträgen nach § 40 des Einkommensteuergesetzes und § 4 Absatz 3 der Lohnsteuerdurchführungsverordnung
  |  |  | 3.5 | Anrufungsauskünfte nach § 42e des Einkommensteuergesetzes und sonstige Lohnsteuerangelegenheiten der Arbeitgeber
+ |  |  | 3.6 | Durchführung von Lohnsteuer-Nachschauen nach § 42g des Einkommensteuergesetzes
+ |  |  | 3.7 | Abgleich der angemeldeten Beträge der Lohnsteueranmeldungen mit den bescheinigten Beträgen der Lohnsteuerbescheinigungen eines Arbeitgebers
 4 | Bremerhaven | Alle Finanzämter im Lande Bremen | 4.1 | Straf- und Bußgeldverfahren sowie Wahrnehmung der Aufgaben der Steuerfahndung bei
  |  |  | 4.1.1 | Steuerstraftaten und Steuerordnungswidrigkeiten
  |  |  | 4.1.2 | Straftaten und Ordnungswidrigkeiten, auf die nach den in der Eingangsformel der Verordnung zitierten ermächtigenden Vorschriften die Bestimmungen des achten Teils der Abgabenordnung Anwendung finden.
