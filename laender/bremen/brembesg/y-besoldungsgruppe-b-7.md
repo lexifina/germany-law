@@ -2,7 +2,6 @@
 Besoldungsgruppe B 7
 Bürgermeisterin, Bürgermeister
 - bei der Stadtgemeinde Bremerhaven -
-Direktorin bei der Bürgerschaft, Direktor bei der Bürgerschaft
 Präsidentin des Rechnungshofes, Präsident des Rechnungshofes
 Staatsrätin1)2), Staatsrat1)2)
 Fußnoten

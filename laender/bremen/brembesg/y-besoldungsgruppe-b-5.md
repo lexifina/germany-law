@@ -1,5 +1,6 @@
 # Besoldungsgruppe B 5
 Besoldungsgruppe B 5
+Direktorin bei der Bürgerschaft, Direktor bei der Bürgerschaft
 Landesschulrätin, Landesschulrat
 Polizeipräsidentin, Polizeipräsident
 Rektorin der Universität1), Rektor der Universität1)
