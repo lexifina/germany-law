@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2015-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3492638
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3492638
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 08.09.2015
+- TOP 2: Aktuelles, Anträge
+- TOP 3: Unterausschuss Budget
+- TOP 0: Bericht (1)
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: (A) Baumschutzliste
+- TOP 4.2.: (Antrag) Aktion Pro Isar
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 4.4.: (A) Satzungsänderung: Grundsätzliche Fragen zur Müllbeseitigung
+- TOP 4.5.: (Antrag) Verbot von Laubbläsern mit Verbrennungsmotoren
+- TOP 0: Bericht (2)
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept 19. Stadtbezirk - Bericht Sachstand
+- TOP 5.2.: (U) Haltverbot Hofbrunnstraße/Allescherstraße
+- TOP 5.3.: (A) Temporäre Verlagerung Wochenmarkt Fürstenried Ost nach Fürstenried West
+- TOP 5.4.: (A) Errichtung des Südrings Empfehlung Nr. 08-14 / E 01775 der Bürgerversammlung des 19. Stadtbezirks am 11.04.2013; Sitzungsvorlage Nr. 14-20 / V 03867
+- TOP 5.5.: (A) Haltverbot Forstenrieder Allee
+- TOP 9.10.: (Antrag) Errichtung zusätzlicher Fahrradstellplätze an der U-Bahn Haltestelle Obersendling
+- TOP 0: Bericht (3)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: (A) Bauvorhaben lt. Liste
+- TOP 6.2.: (A) Satzungsänderung: Vorlagen an die Stadtratsausschüsse / das Plenum soweit Offene Planung beschlossen
+- TOP 6.3.: (U) Zweckentfremdung Glötzleweg
+- TOP 6.4.: (A) Beschlussentwurf: Umstrukturierung des Areals Campus Süd / Hochhaus Baierbrunner Str.
+- TOP 0: Bericht (4)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: (A) Haushaltsjahr 2016 ? Bürgertreff München Süd, Treff und Tee
+- TOP 0: Bericht (5)
+- TOP 8: Unterausschuss Kultur
+- TOP 0: Bericht (6)
+- TOP 9: Mitteillungen, Verschiedenes, Berichte
+- TOP 6: (E) Einsatz von Geschwindigkeitswarnanzeigen und Zone 30 Piktogrammen zur Durchsetzung von Zone 30 und Tempo 30 Geschwindigkeitsbegrenzungen Empfehlung Nr. 14-20 / E 00447 der Bürgerversammlung des 19. Stadtbezirkes Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05..2015 - <div></div>
+- TOP 7: (E) Ziffer 2: Verstärkte Polizeipräsenz an der Herterich - / Bleibtreustraße Empfehlung Nr. 14-20 / E 00439 der Bürgerversammlung des 19. Stadtbezirkes -Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln- am 07.05.2015 - <div></div>
+- TOP 8: (E) Untersagung des Betriebs der im DEBA-Wohnhaus unzulässigen Vergnügungsstätte Shisha Nachtbar Diskothek/Videothek als alleinige Ursache für nächtliche Störungen (Ziffer 5) Empfehlung Nr. 14-20 / E 00457 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 07.05.2015 - <div></div>
+- TOP 9: (E) Ziffer 3: Verstärkte nächtliche Polizeikontrollen ab 22.00 Uhr in Bezug auf Fahrzeuge mit getunten überlauten Auspuffanlagen und Motorrad- und Autorennen sowie konsequente Bestrafung der Ruhestörer Ziffer 4: Ahndung von Falschparkern rund um das DEBA-Wohnhaus an der Drygalski-Allee 118 Empfehlungen Nr. 14-20 / E 00455 und 456 der Bürgerversammlung des 19. Stadtbezirkes -Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln- am 07.05.2015 - <div></div>
+- TOP 0.13.: Verkehrsführung Maria-Einsiedel-Straße - <div></div>
+- TOP 0.14.: Kurzparkzone Aidenbachstr. / Aufkirchener Str. - <div></div>
+- TOP 0.15.: Radweg Forstenrieder Allee - <div></div>
+- TOP 1: Allgemeiner Teil
