@@ -1,0 +1,57 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-10-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539720
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539720
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Information zu den geplanten Unterkünften für Flüchtlinge im Einzugsbereich Laim
+- TOP 1.2.1.: Antrag Verbot Laubbläser
+- TOP 1.2.2.: Fehlende Mülleimer in München-Laim, vor allem im Bereich Burgkmairstraße / Zschokkestraße
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Maßnahmen zur Entspannung der Parksituation vor dem Gebäude Landsberger Straße 270-280
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Brosamerstr. 8: Fällung von 1 Fichte
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 08.09.15: Austausch von Lichtsignalanlagen; Gotthard- / Von-der-Pfordten-Straße
+- TOP 4.3.: Schreiben Direktorium vom 28.08.15: Kompetenzen vor Ort anerkennen und wertschätzen - den Bezirksausschüssen mehr Entscheidungsrechte übertragen; Änderung des Unterrichtungsrechtes in Anlage 1, Ziffer 15 (Abschnitt Referat für Stadtplanung und Bauordnung) BA-Satzung "Sämtliche Vorlagen an die Stadtratsausschüsse oder an das Plenum soweit Offene Planung beschlossen ist" in ein Anhörungsrecht (vertagt aus der BA-Sitzung am 15.09.15)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 16-18: Aufstockung von Wohngebäuden
+- TOP 5.2.: Veit-Stoß-Str. 100: 1 beklebte und beleuchtete Großflächentafel im Format 18/1 (als Wandanlage)
+- TOP 5.3.: Fürstenrieder Str. 30: Schulbauoffensive, Errichtung von mobilen Schulraumeinheiten für 4 Klassen für eine Grundschule; Standzeit: 08/2016 - 12/2025 (vertagt aus der BA-Sitzung vom 15.09.15)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 15.09.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Reiter vom 07.09.15: Regionale Wohnungsbaukonferenz am 18.03.15 im Alten Rathaussaal München; hier: Dokumentation
+- TOP 8.2.: Schreiben Referat für Arbeit und Wirtschaft vom 07.09.15: Tram-Westtangente
+- TOP 8.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.09.15: Überplanung des Areals Zschokke- / Westendstraße; Vorsehung gemeinschaftlicher Wohnformen bzw. Festsetzung eines Pflichtkontingentes für Wohngruppen, insbesonder Senioren-Wohngruppen
+- TOP 8.4.: Schreiben Stadtwerke München GmbH vom 04.09.15: Information zum Start MVG Rad
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 21.07.15: Friedrich-von-Pauli-Straße; Haltverbot
+- TOP 8.6.: Schreiben Stadtkämmerei vom 30.07.15. Schulbauoffensive 2013 - 2030; Fortschreibung des Schulbaupavillon-Bauprogramms 2015 mit Fertigstellung in 2016, Neubau Schulbaupavillon Camerloherstr. 110, verwaltungsinterne Projektgenehmigung
+- TOP 8.7.: Bautenliste vom 31.08.-06.09.15 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 16 2. Änderungsverfahren a) Flotowstr. 68
+- TOP 8.8.: Bautenliste vom 07.09.-13.09.15 1. Erstantragsverfahren a) Stöberlstr. 69 b
+- TOP 8.9.: Schreiben Stadtwerke München GmbH vom 14.09.15: Baumaßnahmen der Stadtwerke; Stichtag: 14.09.15
+- TOP 8.10.: Beschluss der Vollversammlung vom 29.07.15: REGSAM - ein starkes Netzwerk für München; Trägerantrag auf Ressourcenerweiterung, Antrag des BA 16 auf eingene REGSAM-Stelle (Sitzungsvorlage Nr. 14-20 / V 014639
+- TOP 8.11.: Beschluss der Vollversammlung vom 29.07.15: Leistungsprogramm MVG für die Fahrplanperiode 2016 (Sitzungsvorlage Nr. 14-20 / V 033169
+- TOP 8.12.: Beschluss der Vollversammlung vom 29.07.15: Nahmobilitätspauschale (Sitzungsvorlage Nr. 14-20 / V 02702)
+- TOP 8.13.: Beschluss des Bauausschusses vom 22.09.15: Toilettenanlagen im Maßmannpark; Öffentliche Toiletten in Grünanlagen; Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze (Sitzungsvorlage Nr. 14-20 / V 03798)
+- TOP 8.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: Mobilität in Deutschland 2016 (MiD), Haushaltsbefragung zum Alltagsverkehr in München, Beteiligung der LH München (Sitzungsvorlage Nr. 14-20 / V 03899)
+- TOP 8.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: Wohnen in München V (Sitzungsvorlage Nr. 14-20 / V 3584)
+- TOP 8.16.: Beschluss des Umweltausschusses vom 06.10.15: Installation eines Lärmmessgerätes an der A 96 zwischen Garmischer Straße und Fürstenrieder Straße und nach Eröffnung des Tunnels SW ein Messgerät zur permanenten Messung der Schadstoffe am Tunnelaus- / eingang (Sitzungsvorlage Nr. 14-20 / V 04012)
+- TOP 8.17.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 8.18.: Schreiben GEWOFAG vom 17.09.15: Serienbrief an alle Mieter-/innen des Anwesens Burgkmairstr. 9 in Sachen Anbau eines Außenaufzugs - neuer Fertigstellungstermin
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 21.09.15: Gaststätte ?Meraviglia?, Riegerhofstraße 20
+- TOP 8.20.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.09.15: Bauvorhaben Schedelstr. 10-12
+- TOP 8.21.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.09.15: Parken in München-Laim
+- TOP 8.22.: Schreiben Kulturreferat vom 22.09.15: Stadtteilwoche in Laim
+- TOP 1: Beschlussvorlage Referat für Arbeit und Wirtschaft: Verteilung von Werbeblättern; Verhinderung der Verschmutzung der Gehwege durch Verpackungsmaterial / Plastikringe (Antrag Nr. 2) Empfehlung Nr. 14-20 / E 00311 der Bürgerversammlung des Stadtbezirkes 25 - Laim am 25.11.2014????? - <div>nach Antrag</div>
+- TOP 1.2: Bürgerpost an den BA
