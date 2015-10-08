@@ -1,0 +1,7 @@
+# TOP 15: Neunte Änderung der Abwasserbeseitigungsabgabensatzung
+
+- Sitzung: Rat der Gemeinde Schiffdorf (121. Sitzung) (2015-10-08)
+- Körperschaft: Gemeinde Schiffdorf
+- Öffentlich: ja
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/19518
+- Beratung: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/6045
