@@ -1,0 +1,22 @@
+# 1. Nachtragshaushaltssatzung 2015/1. Nachtragshaushaltsplan 2015
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 262/2015 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2015-10-08
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbYcOR36nUxecaT-O-UNZnM
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/5231
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (1. Nachtragshaushaltssatzung 2015/1. Nachtragshaushaltsplan 2015) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQeRiZyyjygNWpCz9uWP58aKrCxXSUXZcTVFfcxshmGe/Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWt6XBknzmRJ9oVtU0f7VvjnQjpe_6IooEEFGvk7_nP6/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWCexDFAii2iN78GPefdXFQmlEmlkzKHO6NitT7vHTit/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRLWPcaq4VS710ELql6lcBuJLmC6cDCd9mQ1IMbq7tXf/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbV9KM33pJkXEZIyPLw3seJJybMiMuBF-2SDmlSkHTr8/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcvZW7S5jMd_d3YOr8-1TeBTL_RbKEWqYv5E6AJBZG0S/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUdKPVNZlBpqSdoKBOfzDEEcukU_Cz5O8_OlT0U_Y7Mv/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 262/2015 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnZDEdw7ARI9UCUsJ0zOASSH8sovbS15IuVKg-Llkjp/Anlage_zur_Beschlussvorlage_262-2015_1._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15943 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/16014 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-38
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15953 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/15924 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
