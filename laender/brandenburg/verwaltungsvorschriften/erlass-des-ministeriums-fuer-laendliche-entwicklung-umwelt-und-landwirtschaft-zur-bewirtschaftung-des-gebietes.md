@@ -1,217 +1,179 @@
-# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Lieberoser Endmoräne und Staakower Läuche, Teilfläche Staakower Heide"
+# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Kleinseen bei Carmzow"
 
 - Herausgeber: Land Brandenburg
-- Datum: 2015-03-31 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/lieberoser2015
+- Datum: 2015-10-12 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/carmzow2015
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Lieberoser Endmoräne und Staakower Läuche, Teilfläche Staakower Heide"
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung "Kleinseen bei Carmzow"
 
-vom 31. März 2015
+vom 12. Oktober 2015
 
-(ABl./15, [Nr. 16], S.377)
+(ABl./15, [Nr. 45], S.1172)
 
-Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21.Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368), - FaunaFlora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
+Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
 
 1 Bewirtschaftungsgegenstand
 
-Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses in den Landkreisen Spree-Neiße und Dahme-Spreewald umfasst Teile des Gebietes von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Lieberoser Endmoräne und Staakower Läuche“ und der Gebietsnummer DE 4051-301.
+Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses im Landkreis Uckermark umfasst das Gebiet von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Kleinseen bei Carmzow“ und der Gebietsnummer DE 2650-322.
 
-Der Geltungsbereich des Erlasses hat eine Größe von rund 1 594 Hektar und umfasst Flächen in folgenden Fluren:
+Der Geltungsbereich des Erlasses hat eine Größe von rund 76 Hektar und besteht aus zwei Teilflächen in folgenden Fluren:
 
 | Gemeinde: | Gemarkung: | Flur:
 
-| Lieberose
+| Carmzow-Wallmow/Brüssow
 
-| Lieberose
+| Carmzow
 
-| 17;
-
-
-| Schenkendöbern
-
-| Staakow
-
-| 1, 2, 3, 4, 5;
+| 2, 4;
 
 
-| Schenkendöbern
+| Carmzow-Wallmow/Brüssow
 
-| Pinnow
-
-| 5;
-
-
-| Tauer
-
-| Tauer
-
-| 8;
-
-
-| Tauer
-
-| Schönhöhe
+| Hedwigshof
 
 | 1;
 
 
-| Turnow/Preilack
+| Brüssow/Brüssow
 
-| Preilack
+| Brüssow
 
-| 5, 6.
+| 1, 2, 4;
 
 
-Die Grenze des Geltungsbereiches dieses Erlasses ist in der Kartenskizze (Anlage 1) und in der Biotoptypenkarte im Maßstab 1 : 10 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10 000 und der Zielkarte im Maßstab 1 : 10 000 sowie in den Liegenschaftskarten eingezeichnet. Als Grenze gilt der innere Rand der Linie. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstückliste beim Landesamt für Umwelt, Gesundheit und Verbraucherschutz in Potsdam, beim Landkreis Spree-Neiße als untere Naturschutzbehörde in Forst, beim Landkreis Dahme-Spreewald als untere Naturschutzbehörde in Lübben, beim Landesbetrieb Forst Brandenburg, Oberförsterei Lieberose und Oberförsterei Cottbus und in den Amtsverwaltungen Peitz, Schenkendöbern und Lieberose von jedermann während der Dienstzeiten einsehbar.
+| Brüssow/Brüssow
+
+| Stramehl
+
+| 1.
+
+
+Über die Grenze des FFH-Gebietes hinaus sind unmittelbar angrenzende Flächen in den Geltungsbereich des Bewirtschaftungserlasses einbezogen worden (Pufferflächen), deren Nutzung einen erheblichen ökologischen Einfluss auf das FFH-Gebiet hat. Die Grenze des Geltungsbereichs dieses Erlasses ist in der Kartenskizze (Anlage 1), der Biotoptypenkarte im Maßstab 1 : 10 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10 000 und der Zielkarte im Maßstab
+
+1 : 10 000 sowie in den Liegenschaftskarten (Blatt 1 bis 3) eingezeichnet. Die Darstellung der Grenze des FFH-Gebietes erfolgt mit durchgehender Linie. Die Pufferflächen sind in der Biotoptypenkarte, in der Lebensraumtypenkarte und in der Zielkarte mit gestrichelter Linie und in den Liegenschaftskarten mit durchgehender Linie und T-Signatur dargestellt. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstücksliste beim Landesamt für Umwelt, Gesundheit und Verbraucherschutz in Potsdam, beim Landkreis Uckermark als untere Naturschutzbehörde in Prenzlau, bei der Amtsverwaltung Brüssow und beim Landesbetrieb Forst Brandenburg, Oberförsterei Milmersdorf von jedermann während der Dienstzeiten einsehbar.
 
 2 Beschreibung des Gebietes
 
-Die Staakower Heide liegt östlich der ehemaligen Bahnlinie Peitz - Jamlitz und befindet sich in der naturräumlichen Einheit „Lieberoser Heide und Schlaubegebiet“, die zu der Haupteinheit „Ostbrandenburgisches Heide- und Seengebiet“ zählt. Das Gebiet umfasst eine eiszeitlich geprägte Moränenlandschaft, die mit Kiefernwäldern und ausgedehnten Sandheiden bewachsen ist und nährstoffarme Heidemoore und Stillgewässer aufweist. Die vorherrschende Bodenart sind nährstoffarme Sande.
+Das FFH-Gebiet befindet sich in der nördlichen Uckermark und gliedert sich in zwei Teilbereiche. Der Westteil gehört naturräumlich zum Rückland der Mecklenburgischen Seenplatte und der Ostteil mit Uecker- und Randowtal zum Uckermärkischen Hügelland.
 
-Das natürlicherweise waldreiche Gebiet der Staakower Heide wurde nach einem Großbrand im Jahr 1942 nicht wieder aufgeforstet und in den Folgejahren bis 1990 militärisch als Großmanöverraum und Übungsraum genutzt. Die Aufgabe des Truppenübungsplatzes erfolgte 1994. Infolge der militärischen Nutzung ist das Gebiet Kampfmittel- und Altlastenverdachtsfläche. Einige Wege und Einzelflächen sind durch die Forstverwaltung bereits beräumt. Aktuell wird das Gebiet durch großflächige Kiefernforste mit eingestreuten Offenflächen und Sukzessionswaldflächen sowie kleinflächigen Moorbildungen geprägt.
+Der Brökersee sowie die weiteren in einer Rinne liegenden Seen entstanden aus weichselglazialen Toteisblöcken in der Jungmoränenlandschaft Nordostbrandenburgs. Geologisch finden sich hier periglaziäre und fluviatile Sedimente verschiedenkörniger Sande. Angrenzend sind Grundmoränenbildungen mit Geschiebemergel und Lehm ausgebildet.
+
+Das Gebiet befindet sich in einer hügeligen Agrarlandschaft. Alle Seen sind von schmalen Laubwäldern und Laubgebüschen umgeben. Am Brökersee sind am Ostrand ein Moor- und Bruchwald und ein Eichen-Hainbuchenwald vorhanden. Der Brökersee ist ein Quellsee und entwässert an der Ostseite bei hohem Wasserstand über das Bagemühler Fließ. Brökersee, der nicht im FFH-Gebiet liegende Buckowsee und der Ganznowsee sind über das Bagemühler Fließ miteinander verbunden und sind an die Vorflut angeschlossen. Der Recknowsee hat ein Binneneinzugsgebiet und es führen Drainagen in den See. Der Recknowsee ist nicht an die Vorflut angeschlossen.
+
+In einer großflächig strukturarmen von Ackerbau geprägten Agrarlandschaft übernimmt das FFH-Gebiet für die Tier- und Pflanzenwelt bedeutende Rückzugs-, Ausbreitungs- und Verbundfunktionen.
 
 3 Erhaltungsziele
 
-Die folgenden Erhaltungsziele sind aus dem Standarddatenbogen zum FFH-Gebiet „Lieberoser Endmoräne und Staakower Läuche“ für das Teilgebiet „Staakower Heide“ abgeleitet:
+Die folgenden Erhaltungsziele sind aus dem Standarddatenbogen zum FFH-Gebiet „Kleinseen bei Carmzow“ abgeleitet:
 
-Ziel ist die Erhaltung, Entwicklung und Wiederherstellung der natürlichen Lebensraumtypen von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes, der prioritären natürlichen Lebensraumtypen im Sinne von § 7 Absatz 1 Nummer 5 des Bundesnaturschutzgesetzes und der Arten von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 2 Nummer 10 des Bundesnaturschutzgesetzes.
+Ziel ist die Erhaltung, Entwicklung und Wiederherstellung der natürlichen Lebensraumtypen von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes und der Arten von gemeinschaftlichem Interesse im Sinne von § 7 Absatz 2 Nummer 10 des Bundesnaturschutzgesetzes.
 
-Der Erlass dient somit der Erhaltung des ehemaligen militärischen Übungsgeländes als Standort der Dünen mit offenen Grasflächen mit Corynephorus und Agrostis, der Trockenen europäischen Heiden, der Übergangs- und Schwingrasenmoore, des Waldkiefern-Moorwaldes, der Mitteleuropäischen Flechten-Kiefernwälder, der Entwicklung der Alten bodensauren Eichenwälder auf Sandebenen mit Quercus robur (Stieleiche) sowie der Entwicklung der Habitate des Wolfes sowie der Erhaltung und Entwicklung der Population des Kammmolches einschließlich ihrer für Fortpflanzung, Ernährung, Wanderung und Überwinterung wichtigen Lebensräume.
+Der Erlass dient somit der Erhaltung und Entwicklung der Kleinseen bei Carmzow als Lebensraumtyp 3150 „Natürliche eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions“ und dem LRT 9160 „Subatlantischer oder mitteleuropäischer Stieleichenwald oder Hainbuchenwald (Carpinion betuli) [Stellario-Carpinetum]“.
 
-4 Beschreibung, Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
+4 Beschreibung und Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
 
-Dünen mit offenen Grasflächen mit Corynephorus und Agrostis (Dünen im Binnenland) (LRT-Nummer 2330, Größe: rund 1,35 Hektar), Erhaltungszustand B
+Natürlich eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions (LRT-Nummer 3150, Größe: rund 38 Hektar)
 
-Die zwei Dünen im Gebiet sind überwiegend mit Kiefern bestanden. Mit seinen Vorkommen unter anderem von Silbergras, Kleinem Habichtskraut und Kleinem Sauerampfer weist das Gebiet die für den LRT typische Flora auf und bietet damit Lebensraum für Schlingnatter und Zauneidechse. Die Erhaltung als LRT ist durch periodisches Offenhalten mittels Beweidung und Gehölzentnahmen zu sichern.
+Brökersee
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+Erhaltungszustand C
 
-Trockene Europäische Heiden (LRT-Nummer 4030, Größe: rund 280 Hektar), Erhaltungszustand A (Größe: rund 128,1 Hektar), Erhaltungszustand B (Größe: rund 107 Hektar), Erhaltungszustand C (Größe: rund 44,5 Hektar), Erhaltungszustand E (Größe: rund 2,1 Hektar)
+Nordwestlich von Carmzow befindet sich der 17 Hektar große Brökersee. Den als stark eutroph klassifizierten See umschließen an fast allen Uferbereichen Schilfröhrichtbestände und Teichsimsenröhrichte, die lediglich im Süduferbereich durch Grauweidengebüsche unterbrochen werden. Kleinere Bestände vom Schmalblättrigen Rohrkolben (Typha angustifolia), Ästigem Igelkolben (Sparganium erectum) und Breiten Rohrkolben (Typha latifolia) sind am Südostufer ausgebildet. Diesen Röhrichtbeständen am Südostufer sind Schwimmblattgesellschaften mit Gelber Teichrose (Nuphar lutea) vorgelagert. Stellenweise, vor allem am Südostufer und Nordostufer, kommen Unterwassergesellschaften mit Rauhem Hornblatt (Ceratophyllum demersum), selten auch mit Spiegelndem Laichkraut (Potamogeton lucens) und Krausem Laichkraut (Potamogeton crispus) vor. Das gesamte Gewässer ist von einem standorttypischen, schmalen Gehölzsaum umgeben. Der Röhrichtgürtel des Brökersees wird vor allem am Süduferbereich von mehreren Steganlagen und einer offiziellen Badestelle unterbrochen. Eine weitere inoffizielle Badestelle befindet sich am Ostufer des Brökersees.
 
-Die großflächigen Sandheiden mit Calluna auf den ehemaligen Schieß- und Truppenübungsplätzen sind von voranschreitender Sukzession betroffen. Die Besonderheit der Vorkommen dieses LRT ist zum einen die Großflächigkeit der Bestände und zum anderen ihre Strukturvielfalt, die vor allem aus der engen Verzahnung mit anderen LRT beziehungsweise Biotoptypen resultiert. Aufgrund der fehlenden Nutzung ist die Heide stellenweise vergreist und es besteht keine optimale Ausprägung der verschiedenen Altersphasen (Pionier-, Aufbau-, Reife- und Degenerationsphase). Eine herausragende Bedeutung kommt den Heideflächen auf dem nördlichen, stark munitionsbelasteten Schießplatz zu, die durch ausgedehnte Bestände der Echten Bärentraube (Arctostaphylos uva-ursi) geprägt sind. Diese in Deutschland sehr seltene Art tritt in Brandenburg nur noch an diesem Standort auf und ist vor allem hinsichtlich der typischen Ausprägung und der Größe des Bestandes für das deutsche Tiefland einzigartig. Bei den Vorkommen handelt es sich um eine besondere, im Tiefland extrem seltene Ausbildung des LRT mit einer besonderen Schutzbedürftigkeit.
+Ganznowsee
 
-Die regelmäßige Pflege der Heide erfolgt bereits durch Beweidung mit Schafen und Ziegen. Der Turnus wird in Abhängigkeit vom Vegetationsfortschritt und dem Biotopzustand angepasst. Auf den Heideflächen der ehemaligen Rollbahn sind im Rahmen von Ausgleichs- und Ersatzmaßnamen Gehölzentnahmen durchgeführt worden. Flächen mit einem Gehölzdeckungsgrad unter 10 Prozent werden in einem Abstand zwischen 5 bis 10 Jahren durch Teilentnahme der Gehölze gepflegt. Auf den Flächen mit einer Gehölzdeckung über 35 Prozent soll der Deckungsgrad durch Gehölzentnahmen gesenkt werden, wobei stellenweise auch dichtere Deckungsgrade bestehen bleiben sollten, um das Mosaik aus offenem Boden, Heide und Gehölzen zu erhalten. Ziel der Pflege ist, dass die Gehölzdeckung 35 Prozent nicht übersteigt. Auf geeigneten Flächen ist alternativ Mahd möglich.
+Erhaltungszustand C
 
-Die Waldeigenschaft im Sinne des § 2 des Waldgesetzes des Landes Brandenburg (LWaldG) bleibt von Pflege- und Erhaltungsmaßnahmen unberührt.
+Östlich von Carmzow befindet sich der 15 Hektar große Ganznowsee. Der See wurde als schwach eutroph klassifiziert. Im östlichen und nordöstlichen Teil des Sees befindet sich ein schmaler Schilfröhrichtgürtel mit Schmalblättrigem Rohrkolben (Typha angustifolia) und Breitblättrigem Rohrkolben (Typha latifolia) sowie Sumpffarn (Thelypteris palustris). In diesem Bereich kommen auch Grauweidengebüsche vor. Am Süd- und östlichen Nordufer ist der See von einem schmalen, steil zum See abfallenden Uferwaldstreifen, hauptsächlich bestehend aus Gemeiner Esche (Fraxinus excelsior), Stieleiche (Quercus robur) und Flatterulme (Ulmus laevis) umgeben. Die Strauchschicht besteht aus Haselnuss (Corylus avellana), Pfaffenhütchen (Euonymus europaeus), Holunder (Sambucus nigra) und Schlehe (Prunus spinosa). Am Westufer des Ganznowsees wachsen Hochstaudenfluren mit Sumpf-Reitgras (Calamagrostis canescens) und lokal eine Stelle mit Sumpfdotterblume (Caltha palustris). Teichrosenbestände mit Gelber Teichrose (Nuphar lutea) kommen nur vereinzelt am West- und am Südufer vor.
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+Recknowsee
 
-Übergangs- und Schwingrasenmoore (LRT-Nummer7140, Größe: rund 5 Hektar), Erhaltungszustand B (Größe: rund 0,4 Hektar), Erhaltungszustand C (Größe: rund 4,6 Hektar)
+Erhaltungszustand B
 
-Die zwölf Flächen der Übergangs- und Schwingrasenmoore wurden überwiegend in den Erhaltungszustand C (mittel bis schlecht) eingestuft. Die Hauptursache für den ungünstigen Erhaltungszustand ist der Wassermangel. Im Rahmen der Kartierung konnten keine Entwässerungsgräben im Bereich der Moore festgestellt werden. Für die Stabilisierung des Landschaftswasserhaushaltes der Moore ist in den Moorbereichen der Bestockungsgrad auf ca. 30 Prozent zu reduzieren. In den Wassereinzugsbereichen der Moore sind reine Kiefernbestände aufzulichten und mit standortangepassten Laubgehölzen in Mischwälder umzubauen.
+Westlich von Brüssow befindet sich der 6 Hektar große Recknowsee. Schilfröhrichte sind am nördlichen und südöstlichen Gewässerrand vorhanden. Das Südufer wird von Grauweidengebüschen gesäumt. Zur Seefläche hin schließt sich dem Gehölzgürtel eine Unterwasservegetation mit Rauhem Hornblatt (Ceratophyllum demersum) an.
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+Die Gewässer sind nach § 30 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes (BNatSchG) geschützt.
 
-Alle Maßnahmen zum Erhalt oder zur Entwicklung der LRT 2330, 4030 und 7140 (zum Beispiel Pflegemaßnahmen mit Beseitigung des Aufwuchses von Forstpflanzen/Beweidung ausgewählter Bereiche) werden mit dem Bewirtschafter (Landeswaldoberförsterei Peitz) unter Einhaltung der forstrechtlichen Bestimmungen einvernehmlich abgestimmt.
+Subatlantischer oder mitteleuropäischer Stieleichenwald oder Hainbuchenwald (Carpinion betuli) [Stellario-Carpinetum] (LRT-Nummer 9160, Größe: rund 3 Hektar)
 
-Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (LRT-Nummer 9190, Größe: rund 7,1 Hektar), Erhaltungszustand B
+Erhaltungszustand B
 
-Bei dem alten bodensauren Eichenwald handelt es sich um ein kleinflächiges Vorkommen, das von den östlich angrenzenden „Tauerschen Eichen“ in das Untersuchungsgebiet hineinragt. Der mittelalte Bestand ist überwiegend mit Traubeneichen, Kiefern und Birken bestockt. Der derzeit vorhandene Totholzanteil ist gezielt zu erhöhen: Angestrebt werden 21 bis 40 m3/ha, was aufgrund des relativ jungen Bestandes aber nur langfristig zu erreichen ist.
+Dieser LRT befindet sich am Südufer des Brökersees. Er wird dominiert von Stieleiche (Quercus robur) und Hainbuche (Carpinus betulus), untergeordnet treten Rotbuche (Fagus sylvatica), Winterlinde (Tilia cordata), Spitzahorn (Acer platanoides) und Flatterulme (Ulmus laevis) auf. Mit dem Vorkommen der wesentlichen Hauptbaumarten und charakteristischen Begleitbaumarten sowie mehr als zehn charakteristischen Arten der Krautschicht und zahlreichen Altbäumen, vor allem im nordöstlichen Bereich, weist der Eichen-Hainbuchenwald einen guten bis sehr guten Erhaltungszustand auf. Der Einfluss des Wildes ist gering. Der Umfang des Totholzes fällt mit weniger als 20 m³/Hektar gering aus, da abgängige Bäume in den Jahren zuvor aus dem Bestand entnommen wurden. Der hohe Anteil gebietsfremder Baumarten mit dem Vorkommen der Kanadischen Pappel (Populus canadensis), Rosskastanie (Aesculus hippocastaneum), Roter Heckenkirsche (Lonicera xylosteum), die zahlreichen Exemplare vom Spitzahorn im Unterstand sowie das Vorkommen von alten Zierpflanzen wie Schneeglöckchen (Galanthus nivalis), Efeu (Hedera helix) und Kleinem Immergrün (Vinca minor) weisen auf die Entstehungsgeschichte des Waldes hin, der ehemals als Gutspark angelegt worden ist. Der Baumbestand verfügt über zahlreiche Höhlen und Spalten, die von der Fledermausart Großer Abendsegler (Nyctalus noctula) als Wochenstuben genutzt werden. Zum Siedlungsbereich, an Wegrändern und nach Westen hin macht sich der anthropogene Einfluss mit verstärktem Auftreten von Holunder (Sambucus nigra) und weiteren Stickstoffzeigern wie Girsch (Aegopodium podagraria), Kletten-Labkraut (Galium aparine) und Ruprechtskraut (Geranium robertianum) bemerkbar. Insgesamt ist der Eichen-Hainbuchenwald mit seinen Qualitäten und Beeinträchtigungen im Erhaltungszustand mit B zu bewerten.
 
-Wenn eine künstliche Verjüngung erfolgt, dann nur mit Baumarten der potenziell vorkommenden Arten (Stiel- und Traubeneiche) und nach den Grundsätzen der ordnungsgemäßen Forstwirtschaft (§ 4 LWaldG). Auf der Fläche soll die Nutzung einzelstammweise erfolgen, Stark- und Totholz im Bestand verbleiben und keine Kalkung durchgeführt werden.
+Mögliche Gefährdungsursachen sind Entwässerung des Standortes und die Beseitigung von Tot- und Altholz. Bei der Pflege des Waldes sollen die lebensraumtypischen Baumarten, insbesondere Stieleiche und Hainbuche und ein angemessener Anteil von Altbäumen gefördert werden.
 
-Waldkiefern-Moorwald1 (LRT-Nummer 91D2, Größe: rund 1,2 Hektar), Erhaltungszustand C
+Dieser Lebensraumtyp ist nach § 30 BNatSchG geschützt.
 
-Der Lebensraumtyp kommt auf zwei degradierten Moorflächen vor (Nummern der Teilfläche gemäß Zielkarte: 52, 58) und weist eine sehr homogene Alters- und Habitatstruktur auf. Das typische Arteninventar ist aufgrund der Entwässerung nur noch reliktartig vorhanden und der Moorkörper ist stark vermulmt. Zur Stabilisierung der Grundwasserverhältnisse sind die angrenzenden Kiefernwälder in Mischwälder umzubauen. Die „Moorkiefer“, eine besondere Wuchsform von Pinus sylvestris ist gegenüber dem Vorkommen der Waldkiefer (Pinus sylvestris) zu fördern.
+Erläuterung
 
-Der Lebensraumtyp ist nach § 30 BNatSchG in Verbindung mit § 18 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) geschützt.
+A - hervorragender Erhaltungszustand
 
-Mitteleuropäische Flechten-Kiefernwälder (LRT-Nummer 91T0, Größe: rund 10 Hektar), Erhaltungszustand B (Größe rund 8,7 Hektar), Erhaltungszustand C (Größe rund 1,6 Hektar), Erhaltungszustand E (Größe rund 18,2 Hektar)
+B - guter Erhaltungszustand
 
-Die Flächen des Lebensraumtyps und die Entwicklungsflächen konzentrieren sich überwiegend im Südwesten des Gebietes auf sehr armen Standorten in Richtung der sogenannten Wüste. Eine Ausnahme bilden zwei eng aneinander liegende Entwicklungsflächen östlich der Schießplätze. Die Rückegassen sind so anzulegen, dass die Bestände mit Bodenflechten nicht beeinträchtigt werden. Es ist zu sichern, dass nur die ausgewiesenen Gassen bei der Holzernte befahren werden.
+C - durchschnittlicher oder beschränkter Erhaltungszustand
 
-Wolf2 (Canis lupus), Erhaltungszustand unbekannt
-
-Seit Ende 2009 ist eine feste Ansiedlung eines einzelnen Wolfes in der Lieberoser Heide bekannt. Anfang 2010 konnte ein zweiter Wolf im Bereich der Lieberoser Heide dokumentiert werden. Anfang Juli 2010 wurde die erfolgreiche Reproduktion nachgewiesen (drei Welpen). Damit ist die Gründung eines weiteren Rudels neben den acht bereits bestehenden Rudeln der Lausitz vollzogen. Die Staakower Heide bildet im Osten einen wichtigen Bestandteil des Wolfsreviers (insgesamt 240 bis 270 km2).
-
-Der Wolf galt in Deutschland bereits als ausgestorben und die Wiederansiedlung wird durch Managementkonzepte unterstützt (Ministerium für Umwelt, Gesundheit und Verbraucherschutz [MUGV] 2010). Als streng geschützte Art des § 7 BNatSchG und als prioritäre Art des Anhangs II der FFH-Richtlinie handelt es sich beim Wolf um eine naturschutzfachlich bedeutsame Art.
-
-Das Planungsgebiet der Staakower Heide bildet ein wichtiges Verbindungselement für das Entwicklungspotenzial in Richtung Osten (Tauersche Eichen) sowie nach Norden (Reicherskreuzer Heide). Das Territorium dieses Rudels wird nur durch eine Bundesstraße und den eingezäunten Solarpark Turnow/Preilack zerschnitten. Ziel für die weitere Entwicklung des Wolfes ist der Erhalt der großen, unzerschnittenen naturnahen Landschaften des ehemaligen Truppenübungsplatzes und die Vermeidung von Störungen.
-
-Kammmolch (Triturus cristatus), Erhaltungszustand C
-
-2011 wurde eine kleine Population des Kammmolchs in einem Tümpel (Nummer der Teilfläche gemäß Zielkarte: 260) festgestellt. Die Reproduktion ist abhängig vom Wasserstand in den im Gebiet vorhandenen, zum Teil temporären Kleingewässern und fällt in trockenen Jahren aus. Insgesamt sind die Staakower Läuche, wie auch der Kessel, bereits stark degeneriert. Langfristig sind die Moorgewässer als Habitate des Kammmolches nur durch eine Anhebung der Wasserstände zu erhalten.
-
-Erläuterung zum Erhaltungszustand
-
-A hervorragender Erhaltungszustand
-
-B guter Erhaltungszustand
-
-C durchschnittlicher oder beschränkter Erhaltungszustand
-
-E Entwicklungsfläche
+E - Entwicklungsfläche
 
 5 Bestand und Bewertung weiterer Arten und Biotope
 
 5.1 Nach § 30 BNatSchG in Verbindung mit § 18 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) geschützte Biotope,
 
-5.2 Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben,
+5.2 Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben:
 
-5.3 Lebensräume der Arten nach Anhang I der Vogelschutz-Richtlinie und Anhang IV der FFH-Richtlinie.
+Gräben (Nummern 5.1, 5.2)
 
-Sandtrockenrasen (Nummer 5.1)
+Am Brökersee ist im östlichen Bereich ein Graben vorhanden. Östlich des Ganznowsees sowie südwestlich und nordwestlich am Recknowsee befinden sich ebenfalls nach § 30 BNatSchG in Verbindung mit § 18 BbgNatSchAG geschützte Gräben, die jedoch die Seen nur bei hohen Wasserständen entwässern. Es können weiterhin Unterhaltungsmaßnahmen an den Gewässern 2. Ordnung durchgeführt werden, die den Erhaltungszustand der Seen nicht verschlechtern.
 
-Im Untersuchungsgebiet sind ausgedehnte Bestände dieses Biotoptyps auf den ehemaligen Schießplätzen sowie im Bereich der ehemaligen Rollbahn am Südrand des Gebietes zu finden. Es gibt sowohl Ausbildungen, die weitgehend gehölzfrei sind (Biotoptyp-Nummer: 05121101), als auch Bestände, die stärker mit Gehölzen durchsetzt sind (Biotoptyp-Nummer: 05121102) und bereits Übergänge zu den Vorwäldern darstellen. Im Gebiet wurden auf rund 46,5 Hektar weitgehend gehölzfreie Bestände des Biotoptyps (Biotoptyp-Nummer: 05121101) erfasst und auf rund 19 Hektar des Biotoptyps (Biotoptyp-Nummer: 05121102). Oft kommt der Biotoptyp aber auch kleinflächig vor und ist eng mit Heidebereichen verzahnt. Die zahlreichen Sandwege sind, vor allem im Randbereich, mit Silbergrasreichen Trockenrasen bewachsen.
+Seggenriede und Weidengebüsche nährstoffreicher Moore und Sümpfe (Nummern 5.1, 5.2)
 
-Durch eine Kombination aus Gehölzentnahme und Beweidung soll der Zustand der Biotope wieder hergestellt und verbessert werden.
+Grauweidengebüsche nährstoffreicher Moore und Sümpfe sind nordöstlich am Ganznowsee vorhanden. Die Weidengebüschbiotope bilden die Vorstufe zum Bruchwald und sollen sich als solche weiter entwickeln. Pflegemaßnahmen sind daher nicht nötig.
 
-Birken- und Kiefernvorwald trockener Standorte (Nummer 5.2)
+Schilfröhricht nährstoffreicher Moore und Sümpfe (Nummern 5.1, 5.2)
 
-Im Untersuchungsgebiet wurden zahlreiche Birken- und Kiefernvorwald-Bestände erfasst, die von Sand-Birke und Waldkiefern dominiert werden. Die Krautschicht ist teilweise lückig ausgeprägt und besteht vorwiegend aus Trockenrasen- und Heide-Arten. Die Vorwälder des Gebietes sind eng mit Heide- und Trockenrasenbiotopen verzahnt. Sofern sie einen dichten Unterwuchs aus Calluna-Heide aufweisen, sind sie dem bereits unter Nummer 4 beschriebenen LRT 4030 „Trockene Europäische Sandheiden“ zuzuordnen und zu erhalten. Die anderen Flächen sollen sich durch weiteres Voranschreiten der natürlichen Sukzession zu Beerkraut-Kiefernwald oder Heidekraut-Kiefernwald entwickeln.
+Kartiert wurden insgesamt rund 2 Hektar dieses Biotoptyps, wobei es sich um vier Teilflächen handelt. Die größte Teilfläche befindet sich östlich des Recknowsees (1,2 Hektar) und besteht hauptsächlich aus Schilf (Phragmites australis), Sumpf-Reitgras (Calamogrostis canescens) und Sumpffarn (Thelypteris palustris). Ein ähnliches Biotop mit Übergängen zu Hochstaudenfluren findet sich nordwestlich des Recknowsees. Am Ganznowsee kommen im nordöstlichen und östlichen Bereich ebenfalls Schilfröhrichte in dieser Ausprägung vor. Pflegemaßnahmen sind nicht nötig.
 
-Naturnahe Zwergstrauch-Kiefernwälder (Beerkraut-Kiefernwald, Heidekraut-Kiefernwald) (Nummer 5.1)
+Acker/Grünland (Nummer 5.2)
 
-Auf den frischen bis mäßig trockenen, bodensauren und relativ nährstoffarmen Sandstandorten des Geltungsbereiches kommen großflächig von Waldkiefern beherrschte Forsten vor, deren Unterwuchs durch Zwergsträucher gekennzeichnet wird (Zwergstrauch-Kiefernwälder). Es handelt sich zum einen um Bestände der Waldkiefer mit Heidelbeeren beziehungsweise Preiselbeeren, die zum großen Teil dem LRT 91T0 zuzuordnen sind. Zum anderen tritt im Geltungsbereich Heidekraut-Kiefernwald auf, der zumeist zum LRT 4030 „Trockene europäische Heiden“ zugehörig ist. Beide Ausprägungen haben eine hohe naturschutzfachliche Bedeutung.
+Ackerflächen umgeben den Brökersee am West-, Nord- und Ostrand und am Ganznowsee reichen die Ackerflächen im Südwestbereich bis nahe an die Laubwälder und Laubgebüsche an den Ufern heran. Insbesondere bei starken Niederschlägen können aus diesen Flächen zusätzliche Stoffeinträge in den See gelangen und den Lebensraum mit einer weiteren Nährstoffanreicherung beeinträchtigen. Deshalb sollen die Ackerflächen in einem Streifen von 24 Metern um den See als Pufferzonen entwickelt werden. Dort sollen keine Dünger und keine Pflanzenschutzmittel ausgebracht werden. Zum Schutz von Amphibien soll die Schnitthöhe 10 Zentimeter nicht unterschreiten. Die weiteren Umgebungsbereiche am nördlichen und südöstlichen Ganznowsee sowie um den Recknowsee sind bereits in einer durchschnittlichen Breite von 10 Metern aus der landwirtschaftlichen Produktion genommen und werden gemulcht. Zusätzlich ist am Nordwestufer des Recknowsees eine kleinräumige, rundliche Ackerfläche in die Pufferzone integriert worden.
 
-Auch auf den nicht zu den LRT 4030 und 91T0 zugehörigen Flächen dürfen Umbruch, Graseinsaaten, Aufforstungen und andere Bepflanzungen sowie die Anlage von Kirrungen und Schöpfstellen nicht erfolgen. Unzulässig sind Düngung und Einsatz von Pflanzenschutzmitteln.
+Sofern die Pufferstreifen nicht umgesetzt werden können, soll eine Beeinträchtigung der Seen vermieden werden, indem auf den Anbau weitreihiger Fruchtarten wie Mais, Kartoffeln, Sonnenblumen oder Zuckerrüben verzichtet wird. Ziel soll eine zeitlich lang anhaltende Bodenbedeckung sein, indem zum Beispiel Stoppeln oder eine Mulchsaat zur Bodenbedeckung genutzt oder auf wendende Bodenbearbeitung verzichtet wird.
 
-Der vollständige Verlust der Gehölze nach Katastrophen (Brand, Sturm, Schnee, Insektenkalamitäten) kann in dem Umfang durch Verjüngung ersetzt werden, wie diese die Erhaltung der Offenlandbiotope nicht beeinträchtigt. Generell dürfen nur heimische Baumarten der potenziellen natürlichen Vegetation verwendet werden. Flächiges Befahren und flächige in den Mineralboden eingreifende Bodenverwundungen sind zu vermeiden. Zur Umsetzung von Pflegemaßnahmen auf den Heide-LRT-Flächen und geschützten Biotopen im Verzahnungsbereich zu Waldflächen werden die erforderlichen Einzelmaßnahmen mit dem Flächennutzer abgestimmt.
+Wald- und Forstflächen (Nummer 5.2)
 
-Fledermäuse und Brutvogelarten (Nummer 5.3)
-
-Im Rahmen mehrjähriger Erfassungen wurden in den Geltungsbereich umgebenden Lebensräumen verschiedene Fledermausarten regelmäßig nachgewiesen, unter anderem Großes Mausohr, Bechsteinfledermaus und Mopsfledermaus. Es ist davon auszugehen, dass auch das Untersuchungsgebiet von diesen Arten regelmäßig aufgesucht wird.
-
-Die unter Nummer 4 und Nummer 5.1 genannten Lebensräume umfassen auch die Habitate der im Rahmen der Brutvogelkartierung festgestellten Arten Brachpieper, Fischadler, Heidelerche, Schwarzspecht, Hohltaube, Raufußkauz und Ziegenmelker nach Anhang I der Vogelschutz-Richtlinie.
+Die sonstigen im Gebiet liegenden kleinflächigen Baumbestände beziehungsweise Feldgehölze sollen sich ohne weitere Eingriffe entwickeln. Mit ihrer Pufferwirkung gegen verschiedenartige Störungen für die unter Nummer 4 genannten Lebensräume tragen sie zur Umsetzung der Erhaltungsziele bei. Bestände und Einzelbäume der Kanadischen Pappel (Populus x canadensis) am Nordwestufer des Ganznowsees und Südostufer des Brökersees sollen forstwirtschaftlich genutzt und durch standorttypische Baumarten ersetzt werden. Die forstliche Bewirtschaftung soll so erfolgen, dass vor allem standorttypische Baumarten wie Flatterulme (Ulmus laevis), Schwarz-Erle (Alnus glutinosa), Stieleiche (Quercus robur) und soweit möglich die Esche (Fraxinus excelsior) gefördert werden.
 
 6 Erhaltungsmaßnahmen
 
-Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 benannten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
+Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 aufgeführten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
 
-Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungszustände der trockenen europäischen Heiden besteht in der Fortführung der begonnenen Pflegemaßnahmen (Beweidung und abschnittsweise Gehölzentnahme).
+Die Gewässer sollen in ihrem Wasserhaushalt und in ihrer Trophie erhalten und in Richtung Nährstoffarmut entwickelt werden. Zur Erhaltung und Wiederherstellung des Lebensraumtyps sind vor allem Maßnahmen zur Verringerung von Stoffeinträgen erforderlich. Besonderer Handlungsbedarf besteht in der Einrichtung von Pufferzonen als extensives Dauergrünland beziehungsweise als Blüh- und Schonstreifen. Zuflüsse über Drainagerohre sollen überprüft und gegebenenfalls Maßnahmen zur Reduzierung der Nähr- und Schadstoffeinträge umgesetzt werden. Die Angelfischerei soll dazu beitragen, den Seen Nährstoffe zu entziehen.
 
 Änderungen der Erhaltungs- und Entwicklungsmaßnahmen bedürfen der Zustimmung des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft.
 
 7 Projekte
 
-Es wird darauf hingewiesen, dass Projekte vor ihrer Zulassung oder Durchführung auf ihre Verträglichkeit mit den Erhaltungszielen eines Natura-2000-Gebiets zu überprüfen sind, wenn sie einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet sind, das Gebiet erheblich zu beeinträchtigen, und nicht unmittelbar der Verwaltung des Gebiets dienen. Die Maßstäbe für die Verträglichkeit ergeben sich aus den Erhaltungszielen im Standarddatenbogen.
+Es wird darauf hingewiesen, dass Projekte vor ihrer Zulassung oder Durchführung auf ihre Verträglichkeit mit den Erhaltungszielen eines Natura-2000-Gebietes zu überprüfen sind, wenn sie einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet sind, das Gebiet erheblich zu beeinträchtigen, und nicht unmittelbar der Verwaltung des Gebietes dienen. Die Maßstäbe für die Verträglichkeit ergeben sich aus den Erhaltungszielen im Standarddatenbogen.
 
 Die Förderfähigkeit der Projekte wird auf Antrag im Einzelfall geprüft.
 
 8 Umsetzung
 
-Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweils zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zuständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
-
-Es wird darauf hingewiesen, dass die vom Bewirtschaftungserlass betroffene Fläche des FFH-Gebietes zum größten Teil aus Landeswald besteht.
+Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zuständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
 
 9 Inkrafttreten
 
-Dieser Erlass tritt am Tag nach seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
-
-1 prioritärer natürlicher Lebensraumtyp nach Anhang Ider FFH-Richtlinie
-
-2 prioritäre Art nach Anhang II der FFH-Richtlinie
+Dieser Erlass tritt am Tag seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
 
 Anlagen
 
 1
 
-Anlage 1 Kartenskizze 298.3 KB
+Anlage 1 Kartenskizze 504.2 KB
 
 2
 
-Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Lieberoser Endmoräne und Staakower Läuche“ Teilfläche „Staakower Heide“ 46.0 KB
+Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Kleinseen bei Carmzow“ 186.5 KB
