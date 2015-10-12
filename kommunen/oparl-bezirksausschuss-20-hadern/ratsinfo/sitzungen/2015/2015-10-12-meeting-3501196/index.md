@@ -1,0 +1,93 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501196
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501196
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Georginenstraße 1, gem. Baumbestandsplan Nr. 17925
+- TOP 7.2.: Am Brombeerschlag 20, 1 Colorado-Tanne
+- TOP 7.3.: Am Waldspitz 28, 1 Blauzeder
+- TOP 7.4.: Kruckenburgstraße 40, 2 Fichten
+- TOP 7.5.: Silberblattstraße 1, 3 Fichten
+- TOP 7.6.: Silberblattstraße 22, 1 Zeder
+- TOP 7.7.: Stiftsbogen 93, 1 Spitzahorn
+- TOP 7.8.: Windeckstraße 8 - 14, 1 Eberesche
+- TOP 7.9.: Wolkerweg 14 + 16, 1 Spitzahorn, 3 Hainbuchen, 2 Feldahornbäume
+- TOP 7.10.: Würmtalstraße 18, 1 Kiefer
+- TOP 7.11.: Gaberlstraße 4, 1 Tanne
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Georginenstraße (Sozialreferat, 18.09.15)
+- TOP 8.2.: Information über Betriebskonzept der Linien U3/U6 während der Bauwerksprüfung Poccistraße (MVG, 22.09.15)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München, hier: - Sauerbruchstraße 8, Strom (SWM, 21.09.15)
+- TOP 8.4.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2015 (SWM, 28.09.15)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebes, hier: - "Eldorado 2", Stiftsbogen 43 (Kreisverwaltungsreferat, 29.09.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Barrierefreier Ausbau der Bushaltestellen in der Fürstenrieder Straße (Referat für Arbeit und Wirtschaft, 18.09.15)
+- TOP 9.2.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München Leitlinie (Leitbild) aller Referate (Direktorium, 21.09.15)
+- TOP 9.3.: Abfallkorb an der Bank Kita Stiftsbogen 56 (Referat für Bildung und Sport, 09.09.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Verkehrssituation im Wohngebiet an der Würmtalstraße (LMU, 15.09.15)
+- TOP 10.2.: Buslinie 167 Am Hedernfeld - Sitzgelegenheit (MVG, 22.09.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Schulweg Großhadern: Gehweg Waldhüterstraße
+- TOP 11.2.: Münchner EnergieSparTage 2015 (Referat für Gesundheit und Umwelt, 07.09.15)
+- TOP 11.3.: Einladung zum Abendforum "Licht für Wandel" am Donnerstag, 22.10.2015 (Referat für Gesundheit und Umwelt, 16.09.15)
+- TOP 11.4.: Einladung zum 62. Münchner Kinder- und Jugendforum am Freitag, 13.11.2015 im Rathaus, Marienplatz (Kultur & Spielraum e.V.)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 29.07.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03448 (nach Antrag): Schulbauoffensive 2013 - 2030
+- TOP 12.2.: Beschluss vom 29.07.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02702 (nach Antrag): Nahmobilitätspauschale Erhöhung der Nahmobilitätspauschale durch Beschluss der Vollversammlung des Stadtrates vom 17.12.2014 aufgrund eines gemeinsamen Änderungsantrages der Stadtratsfraktionen der CSU und der SPD
+- TOP 12.3.: Ergänzung vom 28.07.2015 zum Beschluss vom 29.07.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03316 (nach Antrag): Leistungsprogramm der MVG für die Fahrplanperiode 2016
+- TOP 12.4.: Beschluss vom 29.07.2015 zur Sitzungsvorlage-Nr. 14-20 / V 01463 (nach Antrag in der Fassung des Sozialausschusses vom 07.07.2015): REGSAM - Ein starkes Netzwerk für München Trägerantrag auf Ressourcenerweiterung Antrag des BA 16 auf eigene REGSAM-Stelle Der BA Hadern hat am 13.10.2014 der Beschlussvorlage zugestimmt (Anlage 2).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 12.08.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03729 (nach Antrag zu den Punkten 1 - 12, Punkt 13 in der Fassung vom 12.08.2015): Unterbringung von Flüchtlingen und Wohnungslosen / Flüchtlingen in kommunaler Zuständigkeit, 7. Standortbeschluss
+- TOP 12.1.: Beschluss des Bauausschusses vom 22.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03798: Toilettenanlage im Maßmannpark Öffentliche Toiletten in Grünanlagen Öffentliche Toiletten - Konzept "Nette Toilette" für Spiel- und Bolzplätze
+- TOP 12.2.: Beschluss des Umweltausschusses vom 06.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 04012: Installation eines Lärmmessgerätes an der A96 zwischen Garmischer Straße und Fürstenrieder Straße und nach Eröffnung des Tunnels SW ein Messgerät zur permanenten Messung der Schadstoffe am Tunnelaus- / -eingang, insbesondere zum "lärmmindernden Fahrbahnbelag" (S. 3 - 4): In 2012 wurde eine Lärmminderung von 2,5 dB (A) gegenüber 2007 festgestellt. Der BA Hadern hat der BV am 11.05.2015 zugestimmt (Anlage 4).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03899: Mobilität in Deutschland (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? Die LH München beteiligt sich in 2016 mit einer Befragung von 5000 Haushalten.
+- TOP 12.3.: Hinweis / Ergänzung vom 08.09.2015 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03603 (vertagt): Nahverkehrsplan (NVP) der Landeshauptstadt München a) Sachstandsbericht b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge und Empfehlungen
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03137 (Der BA Hadern hat zugestimmt): Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork, insbesondere zur erstmaligen Abgabe der Trägerschaft an einen freien Träger in Form einer Streetwork-Außenstelle Süd (S. 12) für das Gebiet der Stadtbezirke Hadern (ohne Blumenau), 6, 7 und 19 (S. 26): Hadern ist bisher der Region 3 der "städtischen Anbieterabteilung" zugeordnet. Für einzelne Jugendliche und Gruppen kann aktuell und auch in Zukunft in städtischer Regie kein Angebot gemacht werden. Dies wäre aber dringend notwendig. Plätze wie der "Haderner Stern" sind Treffpunkte für Jugendliche und Heranwachsende, die Risikomerkmale, wie auffälliges oder "delinquentes" Verhalten zeigen. Ein regelmäßiges Angebot für Jugendliche und Heranwachsende hätte präventive Wirkung. Das Gebiet der erwähnten Stadtbezirke eignet sich aufgrund der städtebauliche Gegebenheiten zur Abgabe an einen "freien Träger". Durch die natürlichen Grenzen (Stadtgrenze, Ammerseestraße) lässt sich das Gebiet von dem des "stadteigenen Anbieters" gut trennen.
+- TOP 12.5.: Im Stadtbezirk Hadern sollen regelmäßige Absprachen zwischen dem freien und dem öffentlichen Träger (Blumenau) stattfinden, sodass keine Doppelstrukturen entstehen (S. 7 - 8). Es sind insgesamt 1,5 Vollzeitkräfte mit einer Arbeitszeit von 60 Wochenstunden veranschlagt (S. 9). Die exakten Kosten können erst bei Anmietung der Räumlichkeiten berechnet werden (Abschnitt 4, S. 10). Die Anmietung soll durch den künftigen freien Träger erfolgen (Abschnitt 4.2.1, S. 12). Die Raum- und Sachkosten sollen jährlich 40.000,- ? nicht überschreiten. Die Ersteinrichtungskosten in 2016 sollen 30.000,- ? nicht überschreiten (S. 12). Die Gesamtkosten werden mit jährlich 164.989,- ? veranschlagt (S. 19).
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03584: Wohnen in München V 1. Erfahrungsbericht für die Jahre 2013/2014 2. Handlungsempfehlungen 2.1. Geförderter Mietwohnungsbau - Anpassung der Förderung für Projekte, um die Wirtschaftlichkeit trotz unabweisbarer Mehrkosten zu gewährleisten 2.2. Realisierung des Pilotprojekts Thierschstraße 10 (Rückgebäude) 2.3. Teilweiser Entfall der Anwendung der VOB/A in der Wohnraumförderung
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Sicherer Schulweg Senftenauerstraße
+- TOP 1.2.: Hohenklingenstraße - Bereich zwischen Windeckstraße und Stahleckstraße: Antrag auf Begrünung des östlichen Straßenrandes
+- TOP 1.3.: Unterstützung von Umbaumaßnahmen im Kinderhaus Ellen Ammann
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Soziales und Kultur
+- TOP 5.1.: Budget der Bezirksausschüsse, Verein für Sozialarbeit e.V., Nachbarschaftstreff Blumenau, Blumenauer Potpourri 2015 am 13.11.2015 (Direktorium, 08.09.15)
+- TOP 5.2.: Budget der Bezirksausschüsse, FV Haus für Kinder am Stiftsbogen e. V., Anschaffung und Errichtung einer snoozelen Ecke (Direktorium, 23.09.15)
+- TOP 5.3.: Budget der Bezirksausschüsse, Kreisjugendring München-Stadt, Kinderhaus Wolkerweg, Anschaffung einer Einbauküche (Direktorium, 29.09.15)
+- TOP 6.1.: Gestaltung der Silberdistel-Unterführung (Baureferat, 05.10.15)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest im Farnweg zwischen Rebholzstraße und Anwesen Farnweg 5 am 05. und 06.12.2015 (Haderner Christkindlmarkt) (Kreisverwaltungsreferat, 07.10.15)
+- TOP 7.12.: Pelargonienweg 21, 1 Birke
+- TOP 7.13.: Würmtalstraße 27, 1 Mammutbaum
+- TOP 11.5.: Einladung zum Fachforum "Sommerlicher Wärmeschutz" am 20.10.2015 (Referat für Gesundheit und Umwelt, 25.09.15)
+- TOP 11.6.: Stadtteilwoche Hadern 2016, Vorbereitungstreffen am 10.11.2015 und 19.01.2016 (Kulturreferat, 24.09.15)
+- TOP 11.7.: Broschüre "Daheim wohnen bleiben" (Beratungsstelle Wohnen - Stadtteilarbeit e.V., 05.10.15)
+- TOP 11.8.: Einladung zum 25. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Donnerstag, 29.10.2015 (Gleichstellungsstelle für Frauen, 07.10.15)
+- TOP 11.9.: Regionalgespräche der Bezirksausschüsse 2015 mit der Lokalbaukommission, Termin BA 20: Dienstag, 17.11.2015 um 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 05.10.15)
+- TOP 11.10.: Einladung zum Informations-Forum "Fernwärme in der Messestadt" am Sonntag, 15.11.2015 bei den Münchner EnergieSparTagen 2015 (Referat für Gesundheit und Umwelt, 07.10.15)
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
