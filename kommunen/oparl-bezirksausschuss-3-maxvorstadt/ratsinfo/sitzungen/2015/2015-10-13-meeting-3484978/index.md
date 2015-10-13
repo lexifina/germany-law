@@ -1,0 +1,92 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3484978
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3484978
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Fußwegabsenkungen auf der Ost-west-Fahrbahn über den Königsplatz Bürgeranfrage vom 15.09.2015
+- TOP .2.: Geländearbeiten am Studentenwohnheim Heßstraße 77 Bürgeranfrage vom 16.09.2015
+- TOP .3.: Bauvorhaben Augustenstraße 87 -89 und Heßstraße 43 Bürgeranfrage vom 10.09.2015
+- TOP .4.: Akute Parkplatznot Tengstraße 24 ? 26 Bürgeraniegen vom 20.09.2015
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.3.1.: Referat für Stadtplanung und Bauordnung, Antwortschreiben incl. Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.02.2014 Die Barer Straße soll zwischen Gabelsberger- und Theresienstraße im August 2015 probeweise gesperrt werden mit der Maßgabe, dass die Trambahn weiterhin die Barer Straße durchfahren kann; BA-Antrag Nr.: 14-20 / B 01230 vom 12.05.2015
+- TOP 5.3.2.: Vorschläge für Standorte der E-Parkplätze in der Maxvorstadt
+- TOP 5.3.3.: Kunstgießerei München in die Denkmalliste der Stadt München eintragen
+- TOP 5.3.4.: Sanierung der Thomas-Wimmer-Schule
+- TOP 5.3.5.: Aufhebung der Vorfahrtsregelung an der Kreuzung Georgen-/Winzererstraße und Einführung von Rechts vor Links
+- TOP 5.3.6.: Baumpflanzung in der Blütenstraße
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: Listen der Abgeschlossenheitsbescheinigungen: 36./37. KW
+- TOP 7.2.: Marsstraße 19, Unterbringung von Flüchtlingen und Wohnungslosen ? Nutzungsänderung: Bürogebäude zu Ankunftszentrum für unbegleitete minderjährige Flüchtlinge sowie von Wohnungen zu Büros
+- TOP 7.3.: Augustenstraße 4, Erweiterung des Anbaus sowie Ausbau und Sanierung der DG-Wohnung rechts
+- TOP 7.4.: Sandstraße 21 / RGB, Aufstockung eines Gewerbegebäudes (Pension) mit energetischer Ertüchtigung sowie Dach- und Fassadensanierung
+- TOP 7.5.: Schellingstraße 42 Aufstockung, Erweiterung, Sanierung und Nutzungsänderungdes Rückgebäudes mit hin- terem Seitengebäude ? Vorbescheid
+- TOP 7.6.: LBK-Listen der Bauvorhaben: 36., 37., 38., 39. KW
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.3.2: Baumfällungen
+- TOP 7.1.: Winzererstraße 40, eine Robinie
+- TOP 7.2.: Türkenstraße 101-101a, ein Bergahorn
+- TOP 7.3.: Theresienstraße 70, eine Weide
+- TOP 7.4.: Brienner Straße 55, ein Ahorn
+- TOP 7.5.: Gabelsbergerstraße 45, eine Eibe
+- TOP 7.6.: Zentnerstraße 9, ein Silberahorn
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Baureferat ? Gartenbau Toiletten im Maßmannpark, Öffentliche Toiletten in Grünanlagen bzw. Öffentliche Toiletten - Konzept für Spiel und Bolzplätze; Beschluss des Bauausschusses vom 22.09.2015 zu Stadtratsanträgen; Sitzungsvorlage Nr.: 14-20 / V 03798
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München V Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 Sitzungsvorlage Nr. 14-20 / V 3584
+- TOP 7.3.: Referat für Stadtplanung und Bauordnung Beteiligung der Öffentlichkeit Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2082 a Katharina-von-Bora- Straße (östlich), Karlstraße (nördlich); Plandarlegung vom 28.09.2015 mit 28.10.2015
+- TOP 7.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnen in München V Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 Sitzungsvorlage Nr. 14-20 / V 03584
+- TOP 7.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Umsetzung der Baumschutzverordnung in Sendling, Empfehlung Nr. 14-20 / E 00256 der Bürgerversammlung des Stadtbezirkes 06 ? Sendling am 18.11.2014 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 Sitzungsvorlage Nr. 14-20 / V 03840
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 3 Verkehrsüberwachungen in der Ludwigstraße
+- TOP 7.2.: Antrag der CSU-Fraktion im BA 3 vom 24.09.2015 Sondernutzungserlaubnis für eine Ausstellungsfläche vor der Gabelsbergerstraße 7
+- TOP 7.3.: Antrag der CSU-Fraktion im BA 3 vom 26.09.2015 Bayernmarkt am Wittelsbacherplatz war ein Reinfall. Daraus Lernen für die Zukunft?
+- TOP 7.4.: Antrag der SPD-Fraktion im BA 3 vom 27.09.2015 Begrünung der Maxvorstadt
+- TOP 7.5.: Antrag der SPD-Fraktion im BA 3 vom 01.08.2015 Tempo-30-Zone für das gesamte Kunstareal
+- TOP 7.6.: Antrag der SPD-Fraktion im BA 3 vom 11.09.2015 Wegweiser/Hinweisschilder für das öffentliche WC im U-Bahnhof Josephsplatz aufstellen
+- TOP 7.7.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 28.09.2015 Entschärfung der Gefahrenstelle am Radweg Seidlstraße 25 - 29
+- TOP 7.8.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 29.09.2015 Überprüfung der Ampelanlage an der Einmündung der Dachauer Straße in die Seidlstraß
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung, Anhörung Kurzparkzone Erika-Mann-Straße 23 - 25
+- TOP 7.2.2: Öffentlicher Raum
+- TOP 7.1.: Kreisverwaltungsreferat Zeitungsentnahmegeräte für Tageszeitung ?Abendzeitung? auf öffentlichem Grund Schellingstraße 52 vor Tengelmannfiliale, Bushaltestelle rechts der montierten Stuhlreihen
+- TOP 7.2.: Kreisverwaltungsreferat, Beschlussvorlage Dachauer Straße 65, Genehmigung einer Freischankfläche
+- TOP 7.2.3: Gaststätten
+- TOP 7.2.4: Veranstaltungen
+- TOP 7.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen Barer Straße: Austausch des Verkehrszeichens ?Radfahrer kreuzen? gegen das Verkehrszeichen ?Fußgänger?
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung Mobilität in Deutschland 2016 (MiD), Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 23.09.2015 Sitzungsvorlage Nr. 14-20 / V 03899
+- TOP 7.3.: Baureferat, Beschlussvorlage Nahmobilitätspauschale Beschluss der Vollversammlung des Stadtrates vom 29.07.2015 Sitzungsvorlage Nr. 14-20 / V 02702
+- TOP 7.4.: Baulisten der Stadtwerke Winzererstraße 7, Fernwärme
+- TOP 7.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid 6. Bauernmarktmeile am 27.09.2015 auf dem sog. Odeonsplatz und in der Ludwigstraße
+- TOP 7.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nahverkehrsplan (NVP) der Landeshauptstadt München Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 Sitzungsvorlage Nr. 14-20 / V 03603
+- TOP 7.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Nahverkehrsplan (NVP) der Landeshauptstadt München Sitzungsvorlage Nr. 14-20 / V 03603 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 und Neufassung vom 24.09.2015 Sitzungsvorlage Nr. 14-20 / V 03603 Sitzungsvorlage Nr. 14-20 / V 03603
+- TOP 7.1.: Antrag der SPD-Fraktion im BA 3 vom 24.09.2015 Kunstrasen für den Bolzplatz Blutenburgstraße
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Verein für Sozialarbeit e.V. Nachbarschaftstreff Arnulfpark Anlegen einer Wildblumenwiese am 18./19.09.2015
+- TOP 7.1.: Sozialreferat REGSAM ? Ein starkes Netzwerk für München Beschluss der Vollversammlung des Stadtrates vom 29.07.2015 Sitzungsvorlage Nr. 14-20 / V 01463
+- TOP 7.2.: 4.2 Sozialreferat, Beschlussvorlage ?Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork? Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.2015 Sitzungsvorlage Nr. 14-20 / V 03137
+- TOP 7.3.: Baureferat Schulbauoffensive 2013 ? 2030, Fortschreibung des Schulbaupavillon-Bauprogrammes 2015 mit Fertigstellung in 2016 Neubau Schulbaupavillon Dachauer Straße 96/98
+- TOP 7.4.: Referat für Stadtplanung und Bauordnung Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 Sitzungsvorlage Nr. 14-20 / V 02728
+- TOP 7.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 Sitzungsvorlage Nr. 14-20 / V 2734
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Munichor e.V. Konzert ?Strike a Chord? am 29.11.2015
+- TOP 7.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 7.1.: Termin und Örtlichkeit a) Ferienausschuss 2016 b) Bürgerversammlung 2016
+- TOP 7.1.: Anträge
+- TOP 7.2.: Entscheidungen und Anhörungen
+- TOP 7.3.: Aktuelle Sachstandsberichte
+- TOP 7.4.: Unterrichtungen
