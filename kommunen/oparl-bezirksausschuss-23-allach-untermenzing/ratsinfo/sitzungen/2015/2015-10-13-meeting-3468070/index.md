@@ -1,0 +1,78 @@
+# BA 23 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 23: Allach-Untermenzing
+- Beginn: 2015-10-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/368
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3468070
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3468070
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.4: Unterausschuss Protokolle
+- TOP 1.4.1.: Protokoll Unterausschuss Planung und Bau vom 06.08.15
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA
+- TOP 2.1.: Baumfällung Kirchhoffweg 12
+- TOP 2.2.: Schwerlastverkehr Wohngebiet
+- TOP 3: Anträge
+- TOP 4: Entscheidungen
+- TOP 1: (E) Parkverbot Auenbruggerstraße
+- TOP 2: (E) Parkzeitbegrenzung rund um die Pfarrkirche Maria-Himmelfahrt (Antrag 3, Ziffer 1) Empfehlung Nr. 14-20 / E 00511 der Bürgerversammlung des 23. Stadtbezirkes Allach-Untermenzing am 23.06.2015
+- TOP 5: Anhörungen
+- TOP 5.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Behringstr. 113
+- TOP 5.2.: Eversbuschstr. 168, Gemarkung: Allach, Fl.Nr.: 18/0 Neubau eines Wohnhauses mit Tiefgarage - VORBESCHEID
+- TOP 5.3.: Vollzug der BaumschutzVO, Fällungsantrag Streberstr. 6
+- TOP 5.4.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich südlich Ludwigsfelder Straße a) Aufstellungsbeschluss b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses vom 07.10.1970 zum Bebauungsplan Ne. 731 c) Anträge und Empfehlungen
+- TOP 6: Stadtrats-und Ausschussbeschlüsse
+- TOP 6.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: Mobilitaät in Deutschland 2016 (MiD); Haushaltsbefragung zum Alltagsverkehr in München; Beteiligung der Landeshauptstadt München; Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? (Sitzungsvorlage Nr. 03899)
+- TOP 6.2.: Beschluss der Vollversammlung des Stadtrates vom 29.07.15: Nahmobilitätspauschale (Sitzungsvorlage Nr. 02702)
+- TOP 6.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.15: A) Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 03603) B) 2.Hinweis/Ergänzung vom 21.09.15 zum Nahverkehrsplan der Landeshauptstadt München (Sitzungsvorlage Nr. 03603) C) Wohnen in München V (Sitzungsvorlage Nr. 03584)
+- TOP 6.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.15: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork (Sitzungsvorlage Nr. 03137)
+- TOP 6.5.: Beschluss der Vollversammlung vom 30.09.2015: a) Wohnen in München V (Sitzungsvorlage Nr. 03584) b) Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 03603)
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.15: a) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 (Sitzungsvorlage Nr. 02734) b) Umsetzung der BaumschutzVO in Sendling (Sitzungsvorlag Nr. 03840) c) Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 (Sitzungsvorlage Nr. 02728) d) A) Bebauungsplan mit Grünordnung Nr. Bundesautobahn A8 (südwestlich), Lochhausener Straße (nördlich), Mälzereistraße (östlich), Hanfgartenstraße (südöstlich)-Aufstellungsbeschluss- B) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den bereich IV/25 Bergsonstraße (nördlich), Bundesautobahn A8 (südwestlich), Bundesautobahn A99 (südöstlich), Bahnlinie München-Stuttgart (nördlich) C) "Machbarkeitsstudie zur Gewerbeflächenentwicklung Mühlangerstraße" Südgrenze des neuen Standortes der Paulaner Brauerei (südlich), Hanfgartenstraße (südlich), Lochhausener Straße (südlich), Bundesautobahn A8 (südwestlich), Mühlangerstraße (nördlich), An der Langwieder Heide (nördlich), Am Aubinger Feld (ÖStlich), Bacherbreite (östlich)-Auftragserteilung- (Sitzungsvorlage Nr. 04029)
+- TOP 7: Verschiedenes
+- TOP 7.1.: Termine 2016
+- TOP 7.2.: Besichtigungstermin mechanisierte Zustellbasis Am Neubruch 15
+- TOP 7.3.: BA-Veranstaltung im Dezember 2015
+- TOP 8: Berichte aus den Unterausschüssen
+- TOP 9: Umlauf
+- TOP 9.1.: Schreiben Sozialreferat vom 21.09.15: Neuplanung des Pflegeheims an der Franz-Nißl-Straße und Prüfung Erhalt des Hans-Sieber-Hauses; BV-Empf. 517 der BV vom 23.06.15 Kein Abriss und Umwandlung der Nutzung des Hans-Sieber-Hauses; BV-Empf. 518 vom 23.06.15 hier: Stellungnahme
+- TOP 9.2.: Schreiben Baureferat vom 22.09.15: Fehlende Beleuchtung in der Naglerstraße und Rudorffstraße
+- TOP 9.3.: Schreiben Baureferat vom 10.09.15: Bürgeranliegen Fahrradparkhaus am S-Bahnhof Untermenzing
+- TOP 9.5.: Schreiben Kreisverwaltungsreferat vom 06.08.15: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Finsterwalderstr. 1a gegenüber
+- TOP 9.6.: Schreiben Kreisverwaltungsreferat vom 29.09.15: Vollzug der Grünanlagensatzung vom 15.06.15, Baustelleneinrichtung Gleichplatz
+- TOP 9.7.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Nußhäherstr. 29, Manzostr. 36, Drachenfelsstr. 5, Eversbuschstr. 67, Hermann-Paul-Str. 12, Zittauer Str. 23, Bauschweg 11, Pfarrer-Grimm-Str. 6Abbestr. 13, Brückestr. 4, Jennerstr. 21
+- TOP 9.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 09.09.15: Theodor-Fischer-Str. 79, Gemarkung: Untermenzing, Fl.Nr.: 1041/8 Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID hier: Stellungnahme
+- TOP 9.9.: Schreiben Referat für Stadtplanung und Bauordnung: Bauanträge (07.09-13.09.15, 14.09.-20.09.15, 21.09.-27.09.15)
+- TOP 9.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.09.15: Vollzug der BaumschutzVO im Zusammenhang mit einem Bauvorhaben, Ernst-Kuhn-Str. 5
+- TOP 9.11.: Schreiben Stadtwerke München vom 28.09.15: Baumaßnahmen 2. Halbjahr 2015
+- TOP 9.12.: Schreiben Stadtwerke München vom 14.09.15, 21.09.15, 28.09.15: Baumaßnahmen
+- TOP 9.13.: Schreiben Kinderforum vom 28.09.15: Einladung zum Münchner Kinder- und Jugendforum am 13.11.15
+- TOP 10: Nachtrag
+- TOP 10.1.: Bürgerpost an den BA: Verkehrslage in der Zone 30 um die Menzinger Straße / Krautheimstraße
+- TOP 10.2.: Beeinträchtigung des Landschaftsbildes und Lärmemissionen durch gewerbliche genutzte Kieslagerungsstätte in der südlcihen Behringstraße
+- TOP 10.3.: Antrag: Erteilung eines Auftrags für Asyl-Sozialberatung in der Noterstaufnahme Tubeufstr. 19 d
+- TOP 10.4.: Anhörung: Vollzug des Bundesimmissionsschutzgesetzes (BImSchG); MAN Truck & Bus AG, Dachauerstr. 667 hier: Genehmigungsantrag nach § 16 Abs. 1 BImSchG vom 07.07.15, Zubau von zwei BHKW-Anlagen mit einer Feuerungswärmeleistung von 13,2 MW
+- TOP 10.5.: Pasteurstraße; Einrichtung von Haltverboten
+- TOP 10.6.: Verschiedenes: Regionalgespräch Lokalbaukommission am 17.11.15, 17:00 Uhr
+- TOP 10.7.: Umlauf: Schreiben Stadtwerke München vom 05.10.15: Baumaßnahmen
+- TOP 10.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.10.15: Bauanträge (28.09.-04.10.15)
+- TOP 10.9.: Schreiben Referat für Stadtplanung und Bauordnung, Vollzug der BaumschutzVO, Einzelfällungsanträge: Manzostr. 74, Spiegelbergstr. 27, Kindergartenweg 4, Frühaufstr. 63
+- TOP 10.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.10.15: Faltblatt "Wohnungsmarktdaten München 2014"
+- TOP 10.11.: Schreiben Baureferat vom 30.10.15: Straßenbauarbeiten im Kreuzungsbereich Von-Kahr-Straße / Professor- Eichmann-Straße
+- TOP 10.12.: Schreiben Kreisverwaltungsreferat vom 06.10.15: Bedarfsampel für Fußgänger in der Eversbuschstraße
+- TOP 10.13.: Schreiben Kulturreferat vom 01.10.15: Veranstaltungen/Kooperationen Oktober 2015
+- TOP 10.14.: Schreiben Gleichstellungsstelle vom 08.07.15: Einladung
+- TOP 10.15.: Schreiben Beratungsstelle Wohnen Stadtteilarbeit e.V. vom 05.10.15: Broschüre "Daheim wohnen bleiben"
+- TOP 10.16.: Stadtrats- und Ausschussbeschlüsse: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.15: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Sitzungsvorlage Nr. 02900)
+- TOP 10.17.: Beschluss des Verwaltungs- und Personalausschusses vom 23.09.15: Grundwasser Feldmoching: Änderug der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat; BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden (Sitzungsvorlage Nr. 03888)
+- TOP 10.18.: Kurzübesicht zum Beschluss des Kommunalausschusses vom 24.09.15: Straßenbenennung im 23. Stadtbezirk Allach-Untermenzing (Sitzungsvorlage Nr. 03995)
