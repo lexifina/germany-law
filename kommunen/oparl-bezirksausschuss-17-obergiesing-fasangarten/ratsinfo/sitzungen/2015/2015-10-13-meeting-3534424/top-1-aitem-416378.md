@@ -1,0 +1,8 @@
+# TOP 1: (E) Einführung der Radwegbenutzungspflicht in der Fasangartenstraße zwischen Tegernseer Landstraße und Autobahnbrücke spätestens nach der Probephase im Februar 2016 Empfehlung Nr. 14-20 / E 00499 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing am 18.06.2015
+
+- Sitzung: BA 17 - Vollgremium (2015-10-13)
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/416378
+- Ergebnis: <div></div>
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/416378
