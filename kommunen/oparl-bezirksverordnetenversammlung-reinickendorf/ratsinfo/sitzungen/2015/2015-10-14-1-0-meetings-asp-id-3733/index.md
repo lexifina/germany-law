@@ -1,0 +1,76 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2015-10-14T17:00:00+02:00
+- Ende: 2015-10-14T20:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3733
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=3733
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=85746
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für 45. Sitzung der BVV am 14.10.2015 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 45. Sitzung der BVV am 14.10.2015 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 45. Sitzung der BVV am 14.10.2015 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Waldweg an der B96 freilegen als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Brücke Ernststraße als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: ÖPNV-Tarifzone B nach Brandenburg ausweiten und P+R-Plätze im Umland schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Strandbad Tegel als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Elektrofahrzeuge fürs Bezirksamt - überwiesen
+- TOP 7.6: Radweg Schulzendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Schulwegsicherung Jean-Jaurès-Straße mit Tempo 30 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Einrichtung eines Halteverbotes Alemannenstraße / Maximiliankorso - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Gleisbett aus dem Gehweg entfernen als Zwischenbericht - überwiesen
+- TOP 7.10: Gelbe Fußstapfen für Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Standorte für anzeigenunabhängige Spurensicherung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Interkultureller Garten in Reinickendorf als Zwischenbericht - überwiesen
+- TOP 7.13: Wegbeleuchtung zwischen Genfer Straße bis zur Seniorenresidenz Domicil Thaterstraße als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.14: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (1) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Auf Straßenrückbau reagieren - Frohnauer Einzelhandel stärken (2) als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.16: Zusätzliche Fahrradständer am U-Bahnhof Residenzstraße aufstellen als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.17: Aus Verkehrssicherheitsbericht 2014 lernen als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.18: S-Bahnzug nach Reinickendorf benennen als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.19: Fußgängerüberweg AVA-Kiez als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.20: Hinweis zu veränderten Vorfahrtsregeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Lärmschutz in Heiligensee verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Rauch- und Alkoholverbot auf Spielplätzen als Zwischenbericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.23: Postfiliale instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Änderung des Beschlusses über die Aufstellung des Bebauungsplans 12-49 für die Grundstü-cke Alter Bernauer Heerweg 31/35 und Quickborner Straße 192 A-D, 192 E-F (teilweise), 192 G im Bezirk Reinickendorf, Ortsteil Lübars - überwiesen
+- TOP 7.25: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung des Bezirks Reinickendorf für den Zeitraum vom 01.04.2014 bis 31.03.2015 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Gartenstadt Frohnau - Neue Herausforderungen zur Erhaltung des Ortsteilcharakters? - beantwortet
+- TOP 8.1.1: Gartenstadt Frohnau erhalten I - Orientierungshilfe zur Anwendung der Erhaltungsverordnung erstellen - überwiesen
+- TOP 8.1.2: Gartenstadt Frohnau erhalten II - Verstöße gegen die Erhaltungsverordnung höher ahnden - überwiesen
+- TOP 8.2: Nachhaltig und energieeffizient Bauen in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2014 - überwiesen
+- TOP 9.2: Beschlussfassung über die Sitzungstermine des Bezirksverordnetenversammlung für das Jahr 2016 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - gewählt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschulung und Ausbildung junger Flüchtlinge - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Volkspark Wittenau umbenennen in Göschenpark - überwiesen
+- TOP 10.3: Neuwahl des/r Patientenfürsprechers/in für das Vivantes Humboldt-Klinikum - Psychiatrie, Psychotherapie und Psychosomatik im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - gewählt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Dekubitus-Prophylaxe an Reinickendorfer Kliniken - überwiesen
+- TOP 12.2: Hundegarten im Steinbergpark (Wittenau) instand setzen - überwiesen
+- TOP 12.3: Verkehrskonzept Heinsestraße I - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Lehrer für Willkommensklassen frühzeitig einstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Kostenfreier Gesundheitspass für ehrenamtlich Tätige - überwiesen
+- TOP 13.3: Keine Budgetkürzung für Nachnutzung Flughafen Tegel - überwiesen
+- TOP 13.4: Information zur Verhinderungspflege - überwiesen
+- TOP 13.5: Baumaßnahme BAB 111 - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Räume für zentrale Spendenlagerung - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Hostels für Flüchtlinge in Reinickendorf - ohne Änderungen in der BVV beschlossen
