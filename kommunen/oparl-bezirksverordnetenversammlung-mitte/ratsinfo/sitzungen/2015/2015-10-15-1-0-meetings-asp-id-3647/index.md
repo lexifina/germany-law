@@ -1,0 +1,129 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2015-10-15T17:30:00+02:00
+- Ende: 2015-10-15T23:05:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3647
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=3647
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=126473
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Online-Ordnungsamt auch in Mitte? - beantwortet
+- TOP 5.2: Baupläne für Tacheles-Areal (B-Plan I-41) - beantwortet
+- TOP 5.3: Überbaute Schankvorgärten gegenüber dem Holocaust Mahnmal - beantwortet
+- TOP 5.4: Anmeldung für Studierende im Bezirk Mitte von Berlin erleichtern? - beantwortet
+- TOP 5.5: Geschützte Wartebereiche im LaGeSo - beantwortet
+- TOP 5.6: Baumaßnahmen in der Siemensstraße - schriftlich beantwortet
+- TOP 5.7: Parkmanagement Mauerpark - schriftlich beantwortet
+- TOP 5.8: Abbruch ehem. Toilettenhäuschen Ottopark? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Stadtbärin Schnute - vertagt
+- TOP 6.2: Kindeswohlgefährdung durch das Landesamt für Gesundheit und Soziales (LAGeSo)? - beantwortet
+- TOP 6.3: Gedenkplatte für Jonny K. ausgetauscht - mit Wissen des Bezirksamtes? - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Denkmalschutz im Schultheiss-Quartier: Kupferkessel weg, wer sichert den Rest? - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städte-baulichen Gestalt für das Gebiet Karl-Marx-Allee, II. Bauabschnitt im Bezirk Mitte von Berlin gemäß § 172 Abs. 1 Satz 1 Nr. 1 BauGB - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Vorhabenbezogener Bebauungsplan II-125-1VE "Kurfürstenzentrum" sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Be-bauungsplanes II-125-1VE. - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: "Guide Friedrichstraße" realisieren! Umgehend! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Queere Jugendarbeit in Jugendeinrichtungen verankern - überwiesen
+- TOP 11.3: Kältehilfe für Flüchtlinge - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Änderung der Geschäftsordnung: Umgang mit übernommenen Änderungsanträgen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Änderung der Geschäftsordnung der BVV Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Ausweitung des Schul-Umwelt-Zentrum Mitte in Moabit prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Lokale Allianz für Menschen mit Demenz - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Grips-Theater sichern! - mit Änderungen in der BVV beschlossen
+- TOP 12.6: Integration von geflüchteten und asylsuchenden Menschen - Gesamtaufgabe des Bezirkes - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Informations- und Kommunikationsplattform mit, von und für geflüchtete Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Sonderprogramme in Haushaltsplanung integrieren - überwiesen
+- TOP 12.9: Vermeidung von Obdachlosigkeit neu ankommender geflüchteter Menschen - überwiesen
+- TOP 12.10: Mehrbedarfe für Versorgung geflüchteter Menschen klären - Versorgung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Stärkung des Stadtplanungsamtes durch "Wachsende Stadt" - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Leerstehenden Wohnraum für Flüchtlinge nutzen - mit Änderungen in der BVV beschlossen
+- TOP 12.13: Glyphosat aus Mitte verbannen - überwiesen
+- TOP 12.14: Europäische Woche der Mobilität: Motto 2015 "Clever unterwegs, besser leben" - Mitte ab 2016 dabei!? Maßnahmen zur Förderung einer nachhaltigen Mobilität in der Stadt - überwiesen
+- TOP 12.15: Durchgangsverkehr in den Seitenstraßen reduzieren: Verkehrsgutachten für das Gebiet zwischen Beussel- und Stromstraße sowie zwischen Turm- und Quitzowstraße / Siemensstraße erstellen - überwiesen
+- TOP 12.16: Querungshilfe für Fußgänger in der Afrikanischen Straße einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Neugestaltung Waldstraße - überwiesen
+- TOP 12.18: Fahrradwege am Hauptbahnhof sichern - überwiesen
+- TOP 12.19: Stellenbesetzungsverfahren jetzt starten - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Lebensqualität in Moabit Ost verbessern: Stadtplätze als Treffpunkte für die Nachbarschaft schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Schulweg in Moabit - überwiesen
+- TOP 12.22: Sprachliche Vielfalt in Mitte stärken! - überwiesen
+- TOP 12.23: Urban Gardening im Bezirk Mitte stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Trampstellen in Mitte einrichten - überwiesen
+- TOP 12.25: Bessere und ökologischere Müllplätze für die Heinrich-Zille-Siedlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Café Leo nicht über den Jordan - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Liegenschaften überprüfen - Obdachlosigkeit vermeiden - überwiesen
+- TOP 12.28: Tacheles-Areal zum städtebaulichen, ökologischen und wohnungspolitischen Leuchtturmprojekt entwickeln - überwiesen
+- TOP 12.29: Belegrechte im Haus Holon nutzen - geflüchtete oder obdachlose Menschen unterbringen - mit Änderungen in der BVV beschlossen
+- TOP 12.30: Fahrradstellplätze für die Grundschule am Arkonaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Informations- und Erinnerungsstele zu Karl Wolffsohn am Ort des ehemaligen Großkinos Lichtburg in Berlin-Gesundbrunnen - überwiesen
+- TOP 12.32: Info über Nutzung von Plätzen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Dem Fachkräftemangel auch im Bezirk Mitte begegnen: Zusammenarbeit zwischen Unternehmen und Schulen stärken - überwiesen
+- TOP 12.34: Sicherung des kommunalen Pflegekinderdienstes (PKD) - zurückgezogen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 13.1: Kindeswohlgefährdende Wartesituation für Flüchtlingskinder sofort beenden! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Dank für ehrenamtliche Nothilfe in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Dokumentenprüfgeräte in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Ersatzbeschaffung IT-Technik - erledigt
+- TOP 15.3: Finanzierung von durch Verträgen bereits gebundenen Mitteln - erledigt
+- TOP 15.4: Finanzierung von fallunspezifischer Arbeit (FuA), Leistungen nach § 16 SGB VIII sowie Kostensatzsteigerungen bei der externen Erziehungs- und Familienberatung (EFB) - erledigt
+- TOP 15.5: Steigerungen der Betriebskosten - erledigt
+- TOP 15.6: Für eine partizipative, verlässliche und zukunftssichernde Schulentwicklungsplanung in Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Milieuschutz in Mitte: Beobachtungsgebiete nicht nur aus dem Rathaus beobachten - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Wiesenburg als soziokulturellen Standort im QM-Gebiet Pankstraße sichern - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Anmeldung für Studierende im Bezirk Mitte von Berlin - in der BVV abgelehnt
+- TOP 15.10: Technische Gestaltung der Webseite - Terminvergabe im Bürgeramt - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Beteiligungsrechte der Jugendhilfeausschusses nach KJHG einhalten. Hier: B-Plan III-226 (Kolonie Virchow) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Zusammenwirken von Ganztagsschulen und Kinder- und Jugendfreizeiteinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: beabsichtigte Neueinstellungen im 3. Quartal 2015 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Pilotverfahren zur Erprobung von Telearbeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Fußgängerzone am Checkpoint-Charlie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Gewerbetreibende und KünstlerInnen auf dem Schultheiss-Areal unterstützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Eine Fußgängerzone am Potsdamer Platz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.8: Wohnungsbaupotentiale in Moabit-West - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Berufsvorbereitungs- und Ausbildungsangebot für Flüchtlinge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Radweg Berlin-Kopenhagen: Bereich Nordufer und Plötzensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Neues Wohnen in der Kruppstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Mauerreste und Denkmalbereiche am Spreeufer zwischen Paula-Thiede-Ufer und Michaelkirchstraße berücksichtigen (Bebauungsplanentwurf I-32aa) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Mehr Schutz für Kinder und Jugendliche in Tiergarten-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Reinigung von öffentlichen Grünflächen durch die BSR - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Bürgerbeteiligung in Sanierungsgebieten hier: BVV-Beschluss Drs. 0870/III nicht weiter ignorieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Kriterien für die regelmäßige Information des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne über planungsrechtliche Befreiungen bei Bebauungsplänen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Bei Bebauungsvorhaben Köpenicker Straße 104-114 Wege- und Grünachse zwischen Spree und Michaelkirchplatz gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Niemand darf zurückbleiben! Jugendförderung ist keine freiwillige Leistung, sondern ein Muss! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: 1-64aVE - Auslage Unterlagen Öffentliche Auslegung des Bebauungsplanentwurfes Mauerpark auch im Quartiersmanagement Brunnenviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Frauenbeirat und andere Beiräte in Mitte sichtbar und transparent machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Aufstellungsbeschluss zu den vertieften Untersuchungsgebieten für eine soziale Erhaltungssatzung im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Queere Jugendarbeit fördern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.23: Politische Schwerpunkte Haushaltsplanaufstellung 2016/2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Personalabbau nicht übertreiben! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Beschleunigte Stellenbesetzungsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Für einen Nelson-Mandela-Platz in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Platz- oder Straßenbenennung nach Karl Wolffsohn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Aktionspläne zur Überleitung der Quartiersmanagement-Gebiete Magdeburger Platz und Sparrplatz in Regelstrukturen kommunaler Daseinsvorsorge (Verstetigung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Conrad-Stiftung Bürger* für Mitte Förderungen 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.30: Beschluss über das Ergebnis der Beteiligung der Behörden gem. § 4 Abs. 2 Baugesetzbuch (BauGB) zum Bebauungsplanentwurf 1-67 VE (Lehrter Straße Mittelbereich), die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB, die erneute Beteiligung der Behörden gem. § 4 a Abs. 3 BauGB i. V. m. § 4 Abs. 2 BauGB - vertagt
+- TOP 16.31: Benennung einer privaten Verkehrs-/ Platzfläche in Berlin-Mitte, Ortsteil Mitte, an der Ziegelstraße - mit Abschlussbericht zur Kenntnis genommen
