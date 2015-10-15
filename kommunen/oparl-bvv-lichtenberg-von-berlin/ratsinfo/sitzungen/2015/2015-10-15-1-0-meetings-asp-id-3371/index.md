@@ -1,0 +1,91 @@
+# 49. Sitzung in der VII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2015-10-15T17:00:00+02:00
+- Ende: 2015-10-15T20:25:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3371
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=3371
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=122323
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Nachfragen zur Pressemitteilung des Bezirksamtes vom 28. September 2015 - beantwortet
+- TOP 8.2: Bolzplatz in der Paul-Zobel-Straße - beantwortet
+- TOP 8.3: Brunnensaison in Lichtenberg - beantwortet
+- TOP 8.4: Pflege von Grünbereichen in der Zingster Straße/Ribnitzer Straße - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - erledigt
+- TOP 9.1: Vorhabenbezogener Bebauungsplan 11-72 VE Arbeitstitel: Alt-Friedrichsfelde 69-71 Verfahrensstand: öffentliche Auslegung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Gedenktafel für Ilse Stöbe, Frieda Stöbe und Kurt Müller - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: ÖPNV-Entlastung im Nordosten schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Baustellen inklusiv gestalten! - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Verfahren zur Vergabe der Stadtteilzentren - überwiesen
+- TOP 9.6: Praktischere Flüchtlingshilfe und Forderungen an den Senat - überwiesen
+- TOP 9.7: Tag der Freiwilligen Feuerwehr in Lichtenberg - überwiesen
+- TOP 9.8: Trennung von Rad- und Fußweg auf der Brücke Friedrichsfelde Ost in südlicher Richtung - überwiesen
+- TOP 9.9: Parkplätze für Krankenfahrzeuge vor der Möllendorffstraße 52 schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Fairtrade-Stadt - überwiesen
+- TOP 9.11: Mehr Sicherheit an der Kreuzung Gehrenseestraße/Wartenberger Straße! - überwiesen
+- TOP 9.12: Barrierefreier Zugang für Menschen mit Sehbehinderung und Erblindung - überwiesen
+- TOP 9.13: Freies WLAN in allen Flüchtlingsunterkünften im Bezirk gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Wandbild "Nicaraguanisches Dorf" - überwiesen
+- TOP 9.15: Gute und sicherere Fahrradstellplätze an Lichtenberger Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Geschwindigkeit in der Alfred-Kowalke-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Mehr Sicherheit in der Volkradstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Barrierefreie Start- und Zielhaltestelle der Buslinie 396 - überwiesen
+- TOP 9.19: Informationstafel an der Max-Taut-Aula - überwiesen
+- TOP 9.20: Mehr öffentliche Toiletten durch Schankterrassen - überwiesen
+- TOP 9.21: Archivierung von Schulprojekten zur Erinnerungs- und Gedenkkultur - überwiesen
+- TOP 9.22: Biotop am Rummelsburger See schützen - überwiesen
+- TOP 9.23: Kreativität im Gebiet Herzbergstraße dauerhaft sichern - überwiesen
+- TOP 9.24: Tempo 30 in der Lückstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Zuwegung zum Fitnessparcours am Rosenfelder Ring senioren- und inklusionsgerecht umgestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Sicherheit an Lichtenberger Schulen weiter verstärken - überwiesen
+- TOP 9.27: Fußwege sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.28: Sprachkurse für Flüchtlingshelfer - überwiesen
+- TOP 9.29: Umsetzung des "Sportfestes für Demokratie und Toleranz" - überwiesen
+- TOP 9.30: Lichtenberger Inklusionsmedaille - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Das Aus für Mobilitätshelfer verhindern - Begleitservice des VBB fortsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Busverkehr auch in der Margaretenhöhe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: Busanbindung für Garten- und Siedlungsgebiet an der Verlängerten Waldowallee schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: S-Bahnhof Nöldnerplatz - barrierefrei und mit zwei Bahnsteigzugängen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.35: 30 Jahre Hohenschönhausen - Ausstellung fortsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Streuobstwiesen unter Schutz stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.37: 750 Jahre Friedrichsfelde würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.38: Geflüchtete Menschen in Wohnungen statt in Gemeinschaftsunterkünfte unterbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.39: Einwohnerantrag: "Wir wollen im Hubertusbad schwimmen" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.40: Tempo 30 vor der Kita in der Ehrlichstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Bebauungsplan 11-91 - Abwägung der frühzeitigen Beteiligung der Öffentlichkeit Arbeitstitel: KGAen "An der Trainierbahn/Florafreunde" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.42: Bebauungsplan 11-92 - Abwägung der frühzeitigen Beteiligung der Öffentlichkeit Arbeitstitel: KGA "Gartenfreunde Wuhlheide" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.43: Bebauungsplan XVII-50b - Abwägung der frühzeitigen Beteiligung der Öffentlichkeit Arbeitstitel: KGA "Rheinstein" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.44: Bebauungsplan XVII-21 - frühzeitige Öffentlichkeitsbeteiligung Arbeitstitel: Sportplatz Fischerstraße 15 - überwiesen
+- TOP 9.45: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.46: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.47: Bebauungsplan XVII-4 - Abwägung der erneuten Behördenbeteiligung und Änderung des Geltungsbereichs Arbeitstitel: "Ostkreuz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.48: Bebauungsplan XXII-39-1 Arbeitstitel: Am Gehrensee, 1. Änderung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.49: Schaffung eines gemeinsamen Servicezentrums der Berliner Volkshochschulen - überwiesen
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Berlin-Lichtenberg 4 - gewählt
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Finanzielle Handlungsspielräume 2015 nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Gaswerksiedlung für Flüchtlinge öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge zur Beschlussfassung - (offen)
+- TOP 13.1: Würdigung von Ehrenamt - überwiesen
+- TOP 13.2: 10 Jahre Bürgerhaushalt Lichtenberg - überwiesen
+- TOP 13.3: Günstigen Wohnraum und Unterkünfte für Geflüchtete und von Obdachlosigkeit betroffene oder bedrohte Menschen aus Beständen der berlinovo bereitstellen - überwiesen
+- TOP 14: Vorlagen zur Beschlussfassung - (offen)
+- TOP 14.1: Gedenktafel für Ilse Stöbe - in der BVV zurückgezogen
+- TOP 15: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 16: Schließung der Sitzung - erledigt
