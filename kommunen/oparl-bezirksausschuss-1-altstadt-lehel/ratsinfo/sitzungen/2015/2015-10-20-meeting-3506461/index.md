@@ -1,0 +1,93 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2015-10-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3506461
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3506461
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP 7: Bericht des Vorsitzenden
+- TOP 7.1.: Vorbesprechung zur Planung einer Anhörung mit dem Thema ?Umgang mit großflächiger Bewegtbild Werbung im Stadtbezirk 1"
+- TOP 7.1.: Bürgeranliegen, Parkhaus am Sattlerplatz / Färbergraben
+- TOP 7.3.1: Bauvorhaben
+- TOP 7.1.: Löwengrube 10: Ausbau 2. DG (1.+2. Ebene), Einrichtung von Gauben, Nutzungsänderung 1.DG: 2 Wohnungen zu Büros, Projektvorstellung durch Bauherrin/Architekt, vertagt aus 2015.09 B 3.1.12, 2015.07 B 3.1.11
+- TOP 7.2.: Tal 40: Dachsanierung mit Änderung der Tragkonstruktion, Anbau einer Gaube sowie Nutzungsänderung einer Dachfläche zu einer Dachterrasse.
+- TOP 7.3.: Kanalstraße 7: Grundrissänderung Wohnung 4. OG mit DG Ausbau als Wohnfläche, Einbau einer Aufzugsanlage, Anbau von Balkonen und energetische Sanierung
+- TOP 7.4.: Knöbelstraße 29: Nutzungsänderung, Kapelle zu Wohnfläche Errichtung einer Terrasse und Aufstockung um ein Geschoss
+- TOP 7.5.: Prannerstraße 4: Neubau eines Wohn- und Geschäftshauses (42 WE + Verkaufsflächen) mit Tiefgarage und Ladehofgarage für das Nachbarhotel (KF1) <Prannerstr. 4 / Salvatorstr. 11 + 13>
+- TOP 7.6.: Kardinal-Faulhaberstraße 1: Sanierung und Umbau für Hotel mit 150 Zimmern, Konferenzbereich, Restaurant, Bar und Spa (Kardinal-Faulhaberstr. 1 / Prannerstr. 2)
+- TOP 7.7.: Tektur Sendlinger Str. 46: Umbau, Sanierung, Erweiterung und Nutzungsänderung eines Büro- und Geschäftshauses / Kreuzstr. 17: Abbruch und Neubau eines Wohn- und Geschäftshauses, Projektvorstellung durch Bauherr/Architekt, vertagt aus 2015.09 B 3.1.1
+- TOP 7.1.: Bürgeranliegen: Beschwerde wegen Lärms am Praterstrand
+- TOP 7.2.: Bürgeranliegen: Gewerbebetrieb im öffentlichen Raum, Thomas-Wimmer-Ring und Knöbelstraße
+- TOP 7.3.: Bücherflohmarkt und öffentliche Toiletten an der Isar, Klohäuschen Stadtwerke (war 2015.08 C1.2)
+- TOP 7.2.1: Gaststätten
+- TOP 7.1.: Genehmigung einer Freischankfläche, Gaststätte ?Manna&Hosianna?, Hotterstr. 2
+- TOP 7.2.: Genehmigung einer Freischankfläche, Schank- und Speisewirtschaft ?Patollis?, Sendlinger Straße 62
+- TOP 7.2.2: Sondernutzungen
+- TOP 7.1.: Emil-Riedel-Str. 11, 80538 München, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund.
+- TOP 1: (E) Infoveranstaltung zum Planungsstand Boulevard Westufer - Widenmayerstraße Empf. Nr. 14-20 / E 00338 der Bürgerversammlung des Stadtbezirkes 01 Altstadt-Lehel am 12.12.2014 - <div></div>
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Eröffnungsfeier der MVG (Zwischengeschoß und Kundencenter) am Marienplatz
+- TOP 1.2.: Prinzenpaarproklamation auf dem Marienplatz, 11.11.2015
+- TOP 1.3.: Größte Feuerzangenbowle der Welt, Innenhof des Isartors
+- TOP 1.1.: Bürgeranliegen, Verkehrssituation in der Zweibrückenstraße zwischen Thiersch- und Liebherrstraße, vertagt aus 2015.08 C 1.1
+- TOP 1.2.: Bürgeranliegen, Gesundheitliche Beeinträchtigung der Anwohner von Seitz- und Christophstraße durch Not-Einsätze des BRK Rettungsdienstes. Änderungsvorschlag für die Verkehrsführung von Rettungsfahrzeugen.
+- TOP 1.3.: Bürgeranliegen, Antrag auf dauerhaftes Aufstellen eines Verkehrzeichens in der Falkenturmstr. 14
+- TOP 1.4.: Bürgeranliegen, Ungelöste Probleme Fußgängerzone Sendlinger Straße
+- TOP 1.1.: Leistungsprogramm 2016 der MVG ? zusätzliche Maßnahme StadtBuslinie 150
+- TOP 1.2.: Linienänderung der Metrobuslinie 52 und der Stadtbuslinie 132 mit Sperrung des Marienplatzes aufgrund der Baustelle ?Hugendubel?
+- TOP 1.3.: Temporäre Zulassung des Radverkehrs in der Münchner Fußgängerzone, Beschlussentwurf des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage V03783
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Initiative "m+projekte" Kunstprojekt "m+" vom 17.10.2015 - 15.01.2016 - <div></div>
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Theater Hofspielhaus Theaterstück "Schwestern" 13.11.2015 bis Ende Januar 2016 - <div></div>
+- TOP 0: Unterrichtungen
+- TOP 0.1.: BV-Empfehlung Nr. E00576,der Bürgerversammlung des Stadtbezirkes 11, Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015, Sitzungsvorlage V03888
+- TOP 0.1.: Meldelisten: Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Wohnen in München V, Erfahrungsbericht für die Jahre 2013/2014, Handlungsempfehlungen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015, Sitzungsvorlage V3584
+- TOP 0.3.: Stadt und Fluss ? Rahmenplanung innerstädtischer Isarraum, Beschluss des gemeinsamen Ausschusses Stadtplanung und Bauordnung vom 23.09.2015, Sitzungsvorlage V02161
+- TOP 0.4.: Münchener Bevölkerungsbefragung zur Stadtentwicklung 2016, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015, V02728
+- TOP 0.5.: Münchener Bevölkerungsbefragung zur Stadtentwicklung 2016, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015, V02734
+- TOP 0.6.: Wohnen in München V, Beschluss der Vollversammlung des Stadtrates vom 30.09.2015, V03584
+- TOP 0.7.: Bebauungsplan Nr. 2099 Corneliusstraße zwischen Blumenstraße und Müllerstraße, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.20.2015, V03392
+- TOP 0.8.: Umsetzung der Baumschutzverordnung in Sendling, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015, V03840
+- TOP 0.9.: Anzahl und Unterbringung der Fahrradstellplätzeim modernisierten Wilhelmsgymnasium, Zwischenbericht
+- TOP 0.10.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. V02900
+- TOP 0.11.: Gaststätte ?Cafe Nympgenburg Sekt?, Viktualienmarkt Abt. II Stand 5, Antwort auf Anfrage zur Erweiterung des Wirtsgartens / Freischankfläche (siehe 2015.09 B 3.1.10)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Bürgeranliegen: Belästigung von Anwohnern und Passanten durch Gäste vor dem Lokal ?Sausalitos?, Tal 16 sowie durch aggressive, betrunkene Bettler in der Grünfläche an der Westenriederstraße, Antwort KVR
+- TOP 0.6.: Minimierung der Musiklautstärke beim Kulturstrand der Urbanauten 2015 am Vater-Rhein-Brunnen, Beschluss des BA 1 vom 22.09.2015
+- TOP 0.1.: Nahverkehrsplan der Landeshauptstadt München, Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015, Sitzungsvorlage V3603
+- TOP 0.2.: Erhöhung und Verwendung der Nahmobilitätspauschale, Beschluss der Vollversammlung des Stadtrates vom 29.07.2015, Sitzungsvorlage V02702
+- TOP 0.3.: Verlegung der Halteverbotszone zur Sicherstellung polizeilicher Aufgaben in der Hackenstraße, Nordseite vor Anwesen Hackenstr. 4
+- TOP 0.4.: Wiedererrichtung des Brunnens und der Wasserablaufkonstruktion am Spielplatz südlich des Wehrsteges
+- TOP 0.5.: Wiederherstellen der Poller im Bereich des öffentlichen Spazierweges / der Ballspielfläche auf der Praterinsel
+- TOP 0.6.: ÖPNV-Offensive IV Prälat-Zistl-Straße, Information zum Baubeginn und -ende.
+- TOP 0.7.: Anbringung von Hinweisschildern für den Stadtteil Lehel, Beschluss des BA 1 vom 22.09.2015
+- TOP 0.8.: Pflanzen von Bäumen auf dem Marienhof
+- TOP 0.9.: Stellungnahme des BA 1, Rückbau von Abbiegespuren in der Oettingen- und Sternstraße, Verbesserung des öffentlichen Umfeldes im Zusammenhang mit dem Bauvorhaben Oettingenstr. 6-8 (vertagt aus 2015.02 D 3.1), Antwort Baureferat
+- TOP 0.10.: Radweg von der Kanalstraße bis zum Isartorplatz in beiden Fahrtrichtungen freigeben, BV Empfehlung E00342, Beschluss des Ausschusses für Stadtplanung und Bauordnung, Sitzungsvorlage Nr. V02896
+- TOP 0.11.: Aufhebung des Fahrtrichtungsverbotes in der Hans-Sachsstraße an der Einmündung Müllerstraße
+- TOP 0.1.: Genehmigung des offenen Ganztags in der Grundschule des sonderpädagogischen Förderzentrums Mitte 2 ? an der Isar, Beschluss der Vollversammlung des Stadtrates vom 29.07.2015, Sitzungsvorlage V03665
+- TOP 0.2.: ?Jugend im öffentlichen Raum ? Ausbau der regionalen, stadtteilorientierten Streetwork?, Beschluss des Kinder- und Jugendhilfeausschusses vom 6.10.2015, Sitzungsvorlage V03137
+- TOP 0.3.: Investitionsförderung beim Bau nichtstädtischer Kindertageseinreichtungen, Beschluss des Bildungsausschusses des Stadtrates vom 07.10.2015, V04076
+- TOP 0.4.: Verwendungsnachweis, Dankesschreiben zur Zuwendung ?ASZ Sommerkonzert?
+- TOP 0.5.: Raumnot der Mittagsbetreuung der Grundschule am Gärtnerplatz in der Klenzestraße 27
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge und Bürgeranliegen
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
