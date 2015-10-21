@@ -1,0 +1,77 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2015-10-21T17:00:00+02:00
+- Ende: 2015-10-21T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3262
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3262
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Trägerwechsel für das Kinder- und Jugendbüro? - beantwortet
+- TOP 3.2: Beschluss Nr. 605 vom 21. Mai 2014 - beantwortet
+- TOP 3.3: Cannabisdebatte - beantwortet
+- TOP 3.4: Musikschule - beantwortet
+- TOP 3.5: Minderjährige unbegleitete Flüchtlinge - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Resolution: "Demenz-WG" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Abberufungen - erledigt
+- TOP 7.1: Abberufung eines stellvertretenden Bürgerdeputierten aus dem Ausschuss für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Wahlen - erledigt
+- TOP 8.1: Wahlvorschläge - erledigt
+- TOP 8.1.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Umwelt, Naturschutz, Tiefbau und Landschaftsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Haushaltsangelegenheiten - erledigt
+- TOP 9.1: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2014 - überwiesen
+- TOP 9.2: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.2.1: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Bebauungspläne - erledigt
+- TOP 10.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1.1: Verlängerung der Veränderungssperre X-B2c/43 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 10.2.1: Bebauungsplan 6-30 (Lichterfelde Süd) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Anträge - erledigt
+- TOP 11.1: Fahrradschnellweg verlängern in Richtung Potsdam - überwiesen
+- TOP 11.2: Behindertengerechte Kreuzung Drakestraße - Hindenburgdamm - Königsberger Straße - Goerzallee - überwiesen
+- TOP 11.3: SPD-Millionenschaden an der Truman Plaza in den Griff bekommen - überwiesen
+- TOP 11.4: Kältehilfe für Steglitz-Zehlendorf - überwiesen
+- TOP 11.5: Stelle Flüchtlingskoordinator/in ausschreiben - zurückgezogen
+- TOP 11.6: Abgabe von Konsumhilfsmitteln - überwiesen
+- TOP 11.7: Weiterarbeit des Bezirkssportbundes sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Keine Flächenvermietung an Zirkusse mit Wildtieren - überwiesen
+- TOP 11.9: Informationsveranstaltungen zu neuen Flüchtlingsunterkünften - überwiesen
+- TOP 11.10: Denkmalschutz Bahnhof Wannsee - überwiesen
+- TOP 11.11: Niedrigschwellige Unterstützung für Drogenabhängige - überwiesen
+- TOP 11.12: Stundengenaue Abrechnung für geleisteten Unterricht - überwiesen
+- TOP 11.13: Hundefreilauf im Paul-Mebes-Park - überwiesen
+- TOP 11.14: Urinal unter der Brücke Albrechtstraße - überwiesen
+- TOP 11.15: Ballspielplatz Keffenbringweg - Vorschläge der Jugendpartitur 2015 aufgreifen I - - überwiesen
+- TOP 11.16: Newsletter zur Flüchtlingssituation - überwiesen
+- TOP 11.17: Ballspielplatz Pappritzstraße - Vorschläge der Jugendpartitur 2015 aufgreifen II - - überwiesen
+- TOP 11.18: Rücksichtslose Falschparker vor dem Rathaus Zehlendorf - Parken auf den Baumscheiben der Straßenbäume unterbinden! - überwiesen
+- TOP 11.19: Hauptamtliche Leitung für das Hans-Rosenthal-Haus - überwiesen
+- TOP 11.20: Angebote für Flüchtlinge in bezirklichen Bibliotheken - überwiesen
+- TOP 12: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 12.1: Bauprojekt Johannesstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Neue Parkregelung am Steglitzer Damm anwohnerfreundlicher gestalten - in der BVV abgelehnt
+- TOP 12.3: Vogelschutz an Gebäuden bei Bauvorhaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Dokumentenprüfgeräte in die Bürgerämter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Integrationsbericht für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Park and Ride am S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Fairtrade-Town Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Parkplatzangebot Mexikoplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Fußgängerampel Kaiser-Wilhelm-/ Ecke Dillgesstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Weihnachtsmarkt auf dem Hermann-Ehlers-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Anschrift "Schloßstraße" im Boulevard Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: B-Plan zweiter Ausgang S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Schlusswort des Vorstehers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
