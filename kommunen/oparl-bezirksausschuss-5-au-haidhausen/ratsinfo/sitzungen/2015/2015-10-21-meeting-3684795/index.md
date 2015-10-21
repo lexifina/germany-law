@@ -1,0 +1,103 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2015-10-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3684795
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3684795
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Neubesetzung der Unterausschüsse
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .1.: Dringende Verbesserungen am Bordeauxplatz (TOP 5.9 vom 16.09.2015- Behandlung durch den UA GUV) - <div>Zustimmung mit Ergänzungen, Weiterleitung</div>
+- TOP .2.: Verhinderung von Parken auf Schutzstreifen - <div>Zustimmung zum geänderten Antrag</div>
+- TOP .3.: Unterquerung Maximiliansbrücke - <div>Verweis in den UA Gesundheit, Umwelt und Verkehr</div>
+- TOP .4.: Neubau an der Hochstraße - <div>Zustimmung und Weiterleitung der Anfrage</div>
+- TOP .5.: Baumaßnahmen für die Grundschule an der Flurstraße - <div>Zustimmung und Weiterleitung der Anfrage</div>
+- TOP .6.: Ostbahnhof- mehr Platz für Fußgänger - <div>Zustimmung und Weiterleitung </div>
+- TOP .7.: Lilienstraße/Lilienberg: Verkehrsplanerische Beurteilung zur Verkehsverteilung - <div>Zustimmung und Weiterleitung</div>
+- TOP .8.: Beschädigte Löwenfigur auf dem Wiener Platz - <div>Zustimmung und Weiterleitung</div>
+- TOP .9.: Barrierefreier Eingang am Ostbahnhof- Haupteingang - <div>Zustimmung und Weiterleitung</div>
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Umstufung einer Teilstrecke des Tassiloplatzes Einziehung einer Teilstrecke des Tassiloplatzes - <div>nach Antrag</div>
+- TOP .2.: Sitzungstermine 2016
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Orientierung in S- und U-Bahnhöfen verbessern - <div>zur Kenntnis genommen</div>
+- TOP .2.: Rosenheimer Straße: Verkehrserhebung und Emmissionsmessung (für Lärm, NOx und Feinstaub); Verlässliche Prognosewerte bei Tempo 50 km/h sowie Tempo 30 km/h - <div>vertagt in den UA GUV</div>
+- TOP .3.: Rosenheimer Platz/Weißenburger Straße: Platz schaffen - <div>zur Kenntnis genommen</div>
+- TOP .4.: Radfahrschutzschreifen erneuern (Wörthstraße zwischen Metzgerstraße und Bordeauxplatz) - <div>zur Kenntnis genommen</div>
+- TOP .5.: Gastronomie an der Isar und rund um die Isar - <div>zur Kenntnis genommen</div>
+- TOP .6.: Baumaßnahmen Rosenheimer Platz abschließen - <div>zur Kenntnis genommen</div>
+- TOP .7.: Zaun am Giesinger Feld - <div>erneutes Schreiben an das RGU</div>
+- TOP .8.: Vergabe des Quellenbunkers an einen privaten Betreiber - <div>zur Kenntnis genommen</div>
+- TOP .9.: Gespräche mit der IHK über die Nachnutzung der Gebäude an der Orleansstraße 10-12: Verbesserung der örtlichen Infrastruktur durch schulische Nachnutzung und die Einrichtung einer weiteren Kindertageseinrichtung; Öffnung der Tiefgarage für die Anwohner - <div>zur Kenntnis genommen</div>
+- TOP .10.: Weißenburger Platz: mehr Bänke - <div>zur Kenntnis genommen</div>
+- TOP .11.: Zugang zur Postwiese durch Mauer schließen - <div>zur Kenntnis genommen</div>
+- TOP .12.: Mülleimer vor der Grundschule an der Bazeillesschule - <div>zur Kenntnis genommen</div>
+- TOP .13.: Bebauungsplan mit Grünordnung zur Welfenstraße: Radlständer an der neuen Haltestelle Schwester-Eubulina-Platz ohne Baumfällungen realisieren!
+- TOP .14.: Mitnutzung des Fußballplatzes am Johannisplatz durch das Förderzentrum An der Isar - <div>zur Kenntnis genommen</div>
+- TOP .15.: Bedeutung der Kästen an den Bäumen am Pariser Platz und am Bordeauxplatz - <div>zur Kenntnis genommen</div>
+- TOP .16.: Mobilitäts-Hindernis Rosenheimerplatz lösen! - <div>erneute Nachfrage bei der DB</div>
+- TOP .17.: Präventionsmaßnahme MVG und S-Bahn-München: Aufklärungsmaßnahmen für Gefahrensituationen im Gleisbett ergreifen; Beschilderung von Nothaltegriffen an den Haltepunkten Max-Weber-Platz, Kolumbusplatz, Rosenheimer Platz und Ostbahnhof - <div>zur Kenntnis genommen</div>
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Tiefbauprojekt Einsteinstraße Bushaltestelle Max-Weber-Platz; Schreiben des Baureferates vom 15.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Schulpavillons Ernst-Reuter- Straße; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 08.10.2015 zu TOP V 2.8 vom 16.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP .3.: Schulbauoffensive 2013/2030, Aktionsprogramm Schul- und Kita-Bau, Fortführung des Pavillonbauprogrammes für in 2016 aufzustellende Pavillonanlagen; hier: Schulstandort Ernst-Reuter-Straße 4, Planungen zur Situierung der Schulpavillonanlage; Schreiben des RBS vom 07.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Errichtung einer S-Bahn-Haltestelle Regerstraße, neben Bahnbrücke/Ostfriedhof Empfehlung Nr. 14-20/ E 00396 der Bürgerversammlung 05- Au- Haidhausen, Bezirksteil Au am 26.02.2015 - <div>zur Kenntnis genommen,</div>
+- TOP .2.: S-Bahn Ausbau jetzt! Empfehlung Nr. 14-20/ E 00358 der Bürgerversammlung des Stadtbezirkes 05- Au-Haidhausen am 05.03.2015 Sitzungsvorlagen Nr. 14-20/ V 03484; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .3.: Größere und abdeckbare Abfallkörbe in den Isarauen Empfehlung Nr. 14-20/ E 00400 der Bürgerversammlung des Stadtbezirkes Au-Haidhausen, Bezirksteil Au am 26.02.2015; Sitzungsvorlage Nr. 14-20/ 03571; Antwortschreiben des Baureferates zum abweichenden Beschluss des BA 5 vom 15.07.2015 - <div>zur Kenntnis genommen</div>
+- TOP .4.: WC_Anlage in den Frühlingsanlagen Eduard-Schmid-/Ohlmüllerstraße Empfehlung Nr. 14-20/ E 00401 der Bürgerversammlung des Stadtbezirkes 5 Au- Haidhausen, Bezirksteil Au am 26.02.2015, Sitzungsvorlage Nr. 14-20/ V 03585, Antwortschreiben des Baureferates auf den abweichenden Beschluss des BA 5 vom 15.07.2015 - <div>zur Kenntnis genommen</div>
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Entenbachstraße 29
+- TOP .1.: Stadtjugendamt/Förderung freier Träger, Haushaltsjahr 2016 Projekt: Nachbarschaftshilfe in der Au/Stadtbezirk: 5 seitens des Sozialreferates gefördert seit 1989
+- TOP .1.: Genehmigung des offenen Ganztags in der Grundschulstufe des Sonderpädagogischen Förderzentrums München Mitte 2- An der Isar, Sitzungsvorlage Nr. 14-20/V 03665; Beschluss der Vollversammlung des Stadtrates vom 29.07.2015 - <div>zur Kenntnis genommen</div>
+- TOP .1.: Unveränderte Fortführung von Gaststättenbetrieben: - Schank- und Speisewirtschaft "Namsaskar", Wolfgangstraße 19 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Verwendungsnachweise und Sachberichte: - Stadtpropheten GbR - Kulturlust e.V. - OBACHT!-kultur-im-quartier.de - <div>zur Kenntnis genommen</div>
+- TOP .1.: Bazeillesstraße 9, Neubau eines Apartementhauses (7WE); Anhörung der LBK vom 22.09.2015 - <div>abgelehnt</div>
+- TOP .2.: Entenbachstraße 9, Abbruch und Neuerrichtung von Balkonen; Anhörung der LBK vom 22.09.2015 - <div>zugestimmt</div>
+- TOP .3.: Trogerstraße 19-21, Ergeschossartiger Anbau mit Erweiterung des Gastraums sowie Erweiterung des Hotels um 17 Zimmer (EG-2.OG/Trogerstraße 21) und um Zubehörräume im 1. UG (Trogerstraße 19) - <div>abgelehnt</div>
+- TOP .4.: Am Nockherberg 8; Nutzungsänderung einer ehem. Bedürfnisanstalt in einen gastronomischen Betrieb, Reaktivierung eines Gebäude-Teilbereiches sowie Neubau eines Müllhäuschens; Anhörung der LBK vom 01.10.2015 - <div>zugestimmt</div>
+- TOP .5.: Entenbachstraße 44; Sanierung und Aufstockung eines Wohngebäudes mit Tiefgarage; Anhörung der LBK vom 01.10.2015 - <div>zugestimmt</div>
+- TOP .1.: ÖPNV- Offensive IV- Mariahilfplatz, Falkenstraße, Haltestelle Mariahilfplatz- Erläuterung der Eregbnisse durch das Baureferat und KVR - <div>nach Antrag</div>
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Auerfeldstraße 8 - <div>nach Antrag</div>
+- TOP .4.: Linienänderungen der MetroBuslinie 52 und der StadtBuslinie 132 mit Sperrung des Marienplatzes aufgrund der Baustelle "Hugendubel" (Umsetzung vsl. ab Februar 2016), Anhörung der MVG vom 29.09.2015 - <div>Abweichung der Vorlage</div>
+- TOP .1.: Aufhebung eines personenbezogenen Behindertenoarkplatzes im Bereich Gaisbergstraße 8 - <div>zur Kenntnis genommen</div>
+- TOP .2.: Arbeiten im Straßenraum Orleansstraße 34, Reparaturt der Fernwärmeleitung vom 30.09.2015 bis 30.11.2015 - <div>zur Kenntnis genommen</div>
+- TOP .3.: Arbeiten im Straßenraum Welfenstraße und Auerfeldstraße, Umbau zwischen Senftl- und Auerfeldstraße vom 22.09.2015 bis 30.03.2016 - <div>zur Kenntnis genommen</div>
+- TOP .4.: Umsetzung der Baumschutzverordnung in Sendling, Empfehlung Nr. 14-20/ E 00256 der Bürgerversammlung des Stadtbezirkes 06- Sendling am 18.11.2014, Sitzungsvorlage Nr. 14-20/ V 03840, Beschluss des Referates für Stadtplanung und Bauordnung vom 07.10.2014 - <div>zur Kenntnis genommen</div>
+- TOP .5.: Programm zur Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigvorstadt- Isarvorstadt, im 5. Stadtbezirk Au- Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf- Perlach, im 17. Stadtbezirk Obergiesing- Fasangarten, im 21. Stadtbezirk Pasing- Obermenzing, im 22. Stadtbezirk 1. Bedarfs- und Konzeptgenehmigung für alle Einzelprojekte 2. Weiteres Vorgehen bei der Erneuerung von eisenbahnbrücken Sitzungsvorlage Nr. 14-20/ v 02840; Beschluss des Bauausschusses vom 13.10.2015 - <div>zur Kenntnis genommen</div>
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Kunst im öffentlichen Raum; Münchner Volkshochschule "Einstein 28", Sitzungsvorlage Nr. 14-20/ V 04044; Beschluss des Kulturausschusses vom 17.09.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Soziales am 09.11.2015, 19.00 Uhr Büro der Diakonie, Elsässer Str. 30, Rgb. UA Gesundheit, Umwelt und Verkehr am 09.11.2015, 19.00 Uhr, Büro der Diakonie, Elsässer Str. 30, Rgb. UA Arbeit und Wirtschaft am 10.11.2015, 19.30 Uhr, Büro der Diakonie, Elsässer Str. 30, Rgb. UA Kultur und Freizeit am 11.11.2015, 19.00 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung am 12.11.2015, 19.30 Uhr, Büro der Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: 18.1.11.2015
+- TOP .4.: Sonstige Termine
+- TOP .1.: Jahresempfang des BRK am 18.11.2015 um 19 Uhr im Alten Rathaussaal Münchner Energiespartage vom 14.-15.112015, Bauzentrum München KJR Fachtagung Digitale Entschleunigung am 05.11.2015, 9.30 Uhr- 14.00 Uhr Haus des Stiftes, Landshuter Allee 11, 80637 München
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
+- TOP .2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Rosenheimer Straße; zwischen Rosenheimer Platz und Orleansstraße
