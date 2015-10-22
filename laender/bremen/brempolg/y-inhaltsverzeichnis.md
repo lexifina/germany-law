@@ -33,6 +33,7 @@ Erster Teil: Das Recht der Polizei
 § 24 | Durchführung der Sicherstellung
 § 25 | Verwertung, Einziehung, Vernichtung
 § 26 | Herausgabe sichergestellter Sachen oder des Erlöses
+§ 26a | Sicherstellung privater Grundstücke, Gebäude oder Gebäude- oder Grundstücksteile zur Flüchtlingsunterbringung
 2. Unterabschnitt:Befugnisse zur Informationsverarbeitung
 § 27 | Grundsätze der Datenerhebung
 § 28 | Datenerhebung
