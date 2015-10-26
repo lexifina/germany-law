@@ -1,0 +1,60 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2015-10-26T17:00:00+01:00
+- Ende: 2015-10-26T19:50:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Ratssaal A015
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcB5h-g0mLpEMwA3r_4vtX0
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6274
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaF1fO2Y2i2E-prklbMm85nqPe0bMw49YZtRVCBzw_vB/Bekanntmachung_Rat_26.10.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZStYHzb--8vwY5780theeuedtIFCEqcvCOrqWQmxAmcd/Oeffentliche_Niederschrift_Rat_26.10.2015.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3.: Niederschriften vom 27.04.2015 und 07.09.2015
+- TOP 4.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2016 - (kein Text vorhanden)
+- TOP 5.: 8. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 6.: Überplanmäßige Mittelbereitstellung hier: Wertkorrektur auf Forderungen im Bereich UVG - (kein Text vorhanden)
+- TOP 7.: Erneuerung und Erweiterung des Brühler Sirenenalarmsystems hier: Verwendung der Landeszuweisung NRW an Gemeinden und Kreise für den Ausbau ihrer Warnsysteme mit überplanmäßiger Mittelbereitstellung - (kein Text vorhanden)
+- TOP 8.: Überplanmäßige Mittelbereitstellung hier: Unterbringung von zugewiesenen Flüchtlingen - (kein Text vorhanden)
+- TOP 9.: Änderung/Anpassung des Gesellschaftsvertrages der Wirtschaftsförderung Rhein-Erft GmbH (WfG mbH) - (kein Text vorhanden)
+- TOP 10.: Kultur- / Festivalprogramm 2016 - (kein Text vorhanden)
+- TOP 11.: Job-Ticket-Ausgabe im Jahr 2016 - (kein Text vorhanden)
+- TOP 12.: Annahme einer Spende hier: Spende der Mauser-Werke GmbH Brühl - (kein Text vorhanden)
+- TOP 13.: Genehmigung Dringlichkeitsentscheidung
+- TOP 13.1: Dringlichkeitsentscheidung hier: Überplanmäßige Ausgabe zur Sicherstellung der Stromversorgung des Wochenmarktes Balthasar-Neumann-Platz - (kein Text vorhanden)
+- TOP 14.: Umbesetzung in Ausschüssen
+- TOP 14.1: Umbesetzung im KPTA, SchA und WahlA Bezug: Antrag der CDU-Fraktion vom 06.10.2015 - (kein Text vorhanden)
+- TOP 14.2: Umbestzungen im Vergabe- und Liegenschaftsausschuss und im Integrationsrat Bezug: Antrag der SPD-Fraktion vom 17.10.2015 - (kein Text vorhanden)
+- TOP 14.3: Nachbesetzung im Ausschuss für Planung und Stadtentwicklung
+- TOP 15.: Gründung Anstalt öffentlichen Rechts "Stadtservicebetrieb Brühl"
+- TOP 15.1: Bestellung des Vorstandes für den Stadtservicebetrieb Brühl -Anstalt öffentlichen Rechts- - (kein Text vorhanden)
+- TOP 15.2: Gründung AöR „Stadtservicebetrieb Brühl“ hier: Wahl der Mitglieder des Verwaltungsrates - (kein Text vorhanden)
+- TOP 16.: Anträge
+- TOP 16.1: Einführung einer Gesundheitskarte für Flüchtlinge - Ohne Abstimmung
+- TOP 16.1.1: Einführung einer Gesundheitskarte für Flüchtlinge Bezug: Antrag der Fraktion Linke&Piraten vom 10.09.2015 - Ohne Abstimmung
+- TOP 16.1.2: Einführung einer Gesundheitskarte für Flüchtlinge (Vorlage 383/2015) Bezug: Anfrage der Fraktion LINKE & PIRATEN vom 21.10.2015 Bezug: Antrag der Fraktion LINKE & PIRATEN vom 10.09.2015 - (kein Text vorhanden)
+- TOP 16.2: Erweiterung Phantasialand Bezug: Antrag der FDP-Fraktion vom 09.10.2015 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Verkehrsbehinderungen durch Baumaßnahmen im Stadtgebiet
+- TOP 18.: Anfragen
+- TOP 18.1: Stromsperren Bezug: Anfrage der Fraktion Linke&Piraten vom 16.09.2015
+- TOP 18.1.1: Stromsperre Bezug: Vorlage 385/2015 - Ohne Abstimmung
+- TOP 18.2: Belästigungen Franziskanerhof
+- TOP 18.3: Abfallbehälter Rathaus
+- TOP 18.4: Baustraße Friedhof Schwadorf
+- TOP 18.5: Treppenlift Rathaus
+- TOP 18.6: Auswirkungen Flüchtlingsaufnahme
+- TOP 18.7: Vergleich Hebesätze
+- TOP 18.8: ÖPNV-Bedarfsplan
+- TOP 18.9: Freifunk
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Bürgschaftsübernahme Darlehen Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen
