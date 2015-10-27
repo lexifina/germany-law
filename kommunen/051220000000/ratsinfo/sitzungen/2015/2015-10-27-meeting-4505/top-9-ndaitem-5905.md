@@ -1,0 +1,6 @@
+# TOP 9: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für Leistungen für Flüchtlinge und Flüchtlingsunterbringung
+
+- Sitzung: Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (2015-10-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/5905
