@@ -1,0 +1,51 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-10-27T17:00:00+01:00
+- Ende: 2015-10-27T19:25:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10121
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10121
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250958.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250958.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250958.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Anerkennung Niederschrift
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung des Bäderkonzepts Mehrgenerationen-Gesundheitsbad Benrath
+- TOP 4.2: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung
+- TOP 4.3: Beteiligung von Kinder, Jugendlichen und Familien im Stadtteil Garath
+- TOP 4.4: Verfügungsmittel der Bezirksvertretung 10
+- TOP 4.5: Martinszug 2015 in Garath
+- TOP 4.6: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2016
+- TOP 4.7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016
+- TOP 5: Anfragen
+- TOP 5.1: Schließung der Stadtsparkassenfiliale in Hellerhof
+- TOP 5.2: Geplante Schließung der Stadtsparkasse, Filiale Düsseldorf Hellerhof
+- TOP 5.3: Geldautomat der Deutschen Postfiliale in Düsseldorf- Garath
+- TOP 5.4: Aktueller Anteil von Mietwohnungen und geförderten Wohnungen im Stadtbezirk 10
+- TOP 5.5: Erstellung von barrierefreien Zu- und Abgängen im Innenbereich des Wohnviertels
+- TOP 5.6: Anhörung BV 10
+- TOP 6: Anträge
+- TOP 6.1: Einrichtung eines Kreisverkehrs Frankfurter/Rostocker Straße
+- TOP 6.2: Aufstellen eines Fotoautomaten für die Erstellung biometrischer Passfotos im Bürgerbüro Garath
+- TOP 6.3: Umgestaltung eines Platzes an der Peter-Behrens-Straße
+- TOP 6.4: Entschärfung des Kreuzungsbereiches Frankfurter Str./Rostocker Str.
+- TOP 6.5: Parkplätze im Bereich der EFH-Bebauung Rostocker Straße
+- TOP 6.6: Einrichtung einer Beschlusskontrolle in der Bezirksvertretung 10
+- TOP 6.7: Car-Sharing in Hellerhof und Garath
+- TOP 6.8: Vertreter der Malteser stellen ihre Flüchtlingsbetreuungsarbeit in der Tragluft-halle, Düsseldorf -
+- TOP 6.9: Beleuchtung Verbindungsweg Koblenzer Straße Ecke Josef-Maria-Olbrich-Straße
+- TOP 6.10: Durchführung einer Fragestunde für Einwohnerinnen und Einwohner
+- TOP 6.11: Aufstellung eines Tütenspenders zur Beseitigung von Hundekot
+- TOP 6.12: Informationsveranstaltung zu der Veränderungen der Schullandschaft in den Stadtbezirken 9 und 10
+- TOP 6.13: Optimierung der Ampelschaltungen für Fußgänger
+- TOP 7: Informationsvorlagen
+- TOP 7.1: Verschiedene Stellungnahmen
