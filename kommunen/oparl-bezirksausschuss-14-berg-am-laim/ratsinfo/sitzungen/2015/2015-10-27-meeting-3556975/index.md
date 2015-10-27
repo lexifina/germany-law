@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2015-10-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3556975
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3556975
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anhörungen / Stellungnahmen / Anträge
+- TOP 3.1.: Schaffung einer zusätzlichen Sitzgelegenheit am Grünen Markt an der Baumkirchner Straße
+- TOP 3.2.: Fehlende und dringend benötigte Abfallkörbe am U-Bahnhof Josephsburg
+- TOP 3.3.: Sanierung oder Ausbau der Werbetafeln in der Josephsburgstraße
+- TOP 3.1.: Abmarkierung der Mittelinsel zwischen der Schlüsselberg- und Grafinger Straße mit Richtungspfeilen (zu TOP 3.2.5./09/15)
+- TOP 3.2.: Ampelschaltung Berg-am-Laim-Straße/Baumkirchner Straße
+- TOP 3.3.: Einhaltung und Durchsetzung der Straßenverkehrsordnung in der Friedenstraße
+- TOP 3.1.: Sportentwicklung in der Landeshauptstadt München, Anhörung zur Sitzungsvorlage Nr. 14-20/V 04256
+- TOP 3.1.: Neumarkter Str. 85, Gemarkung Berg am Laim, Fl.Nr. 387/10 Neubau eines Hotels mit TG
+- TOP 3.2.: Grafinger Str. 6, Gemarkung Sektion IX, Fl.Nr. 18352/4 Kultfabrik München/Werk 1
+- TOP 3.3.: Zehntfeldstr. 91, Gemarkung Berg am Laim, Fl.Nr. 276/83 Neubau einer Wohnanlage mit einem 6-Familienwohnhaus und einem 1-Familienwohnhaus mit Tiefgarage
+- TOP 3.4.: Guffertstr. 32
+- TOP 3.5.: Gratlspitzstr. 31
+- TOP 3.6.: Halserspitzstr. 32
+- TOP 4: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterrichtung über Bauvorhaben im 14. Stadtbezirk Berg am Laim
+- TOP 4.2.: Aufwertung der öffentlichen Grünanlage (Bolzplatz), Joseph-Hörwick-Weg für Ludwig-Thoma-Realschule, Fehwiesenstraße 118 und Allgemeinheit Planungsauftrag
+- TOP 4.3.: Das Werksviertel als Alternativstandort für den neuen Konzertsaal und die Münchner Musikhochschule; Antrag Nr. 14-20/B 01485 des Bezirksausschusses 14 Berg am Laim vom 28.07.2015 Antwortschreiben
+- TOP 4.4.: Barrierefrei durch München? U-Bahnstation Michaelibad; Antrag Nr. 14-20/B 01484 des Bezirksausschusses 14 Berg am Laim vom 28.07.2015 Antwortschreiben
+- TOP 4.5.: Sinnvolle Verbindungen am Ostbahnhof schaffen; Ausbau der Fußgängertunnel Antrag Nr. 14-20/B 01342 des Bezirksausschusses 14 Berg am Laim vom 19.05.2015 Antwortschreiben
+- TOP 4.6.: Mitteilung über ein Grundstücksgeschäft, Veräußerung stadteigener Flächen, Flst. 350/2 Berg am Laim, Truderinger Straße 158
+- TOP 4.7.: Wohnen in München V 1. Erfahrungsbericht für die Jahre 2013/2014 2. Handlungsempfehlungen
+- TOP 4.8.: Hansjakobstraße, öffentliche Grünfläche mit Spieleinrichtung zwischen Roßsteinstraße und Ursberger Straße, Beschluss des BA 14 Berg am Laim vom 29.09.2015 - Ausfertigung
+- TOP 4.9.: Mehr Mülleimer in Grünanlagen, Parks und auf Plätzen mit Bänken in Berg am Laim, Empfehlung Nr. 14-20/E 00464; Beschluss des BA 14 Berg am Laim vom 29.09.2015 - Ausfertigung
+- TOP 4.10.: Grundwasser Feldmoching, Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat Sitzungsvorlage Nr. 14-20/V 03888
+- TOP 4.11.: Wegesanierung Waldstraße
+- TOP 4.12.: Münchner Befragung zur Stadtentwicklung 2016 Sitzungsvorlage Nr. 14-20/V 02728
+- TOP 4.1.: Rad- und Fußwegquerung an der Berg-am-Laim-Straße in Höhe Kaufland/Josephsburgstraße umgehend verwirklichen Antrag Nr. 14-20/B 01370 des BA 14 Berg am Laim vom 30.06.2015 Antwortschreiben
+- TOP 4.2.: Josephsburgstraße 37 Einrichtung einer Anfahrts-/Lieferzone
+- TOP 4.3.: Halteverbot als Ausweichstelle für den Linienbusverkehr in der Grafinger Straße
+- TOP 4.4.: Nahverkehrsplan der Landeshauptstadt
+- TOP 4.5.: Mobilität in Deutschland 2016 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt?
+- TOP 4.6.: Nahmobilitätspauschale
+- TOP 4.7.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB u.a. im 14. Stadtbezirk Berg am Laim
+- TOP 4.8.: Dehgenehmigung auf öffentlichem Verkehrsgrund
+- TOP 4.9.: Überdachte und geschützte Unterstandsmöglichkeiten an der Straßenbahnhaltestelle Kreillerstraße, beide Fahrtrichtungen Empfehlung Nr. 14-20/E 00460 Beschluss des BA 14 Berg am Laim vom 29.09.2015 - Ausfertigung
+- TOP 4.10.: Entschärfung der Glücksspieloffensive in Berg am Laim und München Antrag Nr. 14-20/B 01449 des BA 14 Berg am Laim vom 30.06.2015 Antwortschreiben
+- TOP 4.11.: Zukunft der Arbeit in München III; München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels
+- TOP 4.12.: Bombay Palace, Schank- und Speisewirtschaft Antrag auf unveränderte Fortführung
+- TOP 4.13.: Eis Cafe Pastello, Schank- und Speisewirtschaft Antrag auf unveränderte Fortführung
+- TOP 4.14.: Berg Döner Pizzahaus, Schank- und Speisewirtschaft Antrag auf unveränderte Fortführung
+- TOP 4.15.: Satyam, Schank- und Speisewirtschaft Antrag auf unveränderte Fortführung
+- TOP 4.1.: Ludwig-Thoma-Realschule, Fehwiesenstraße 118, Anpassung der Machbarkeitsstudie Vormerkung über Ortstermin
+- TOP 4.2.: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork Sitzungsvorlage Nr. 14-20/V 03137
+- TOP 4.2.: Bescheid über die Bewilligung von Mitteln aus dem BA-Budget für die Münchner Tafel e.V.
+- TOP 4.3.: Bescheid über die Bewilligung von Mitteln aus dem BA-Budget für Mag? & More e.V.
+- TOP 4.4.: Bescheid über die Bewilligung von Mitteln aus dem BA-Budget für die Initiative Weltkindertag
+- TOP 4.5.: Sachbericht der Initiative Weltkindertag am 20.09.2015 in Berg am Laim
+- TOP 4.6.: Zuwendungen aus BA-Budget für Kinderfest
+- TOP 4.7.: Verwendungsnachweis für das Theaterstück "Face me"
+- TOP 4.8.: Verwendungsnachweis für das Chorkonzert am 03.05.2015
+- TOP 4.9.: Verwendungsnachweis für die Aktion: streitfeld offen
+- TOP 4.12.: Akteneinsichtsrecht für Bezirksausschussmitglieder (zu TOP 4.5.2./07/15) Antwortschreiben
+- TOP 4.13.: Information der Bürgerversammlung über Ergebnisse der letztjährigen Anträge in geeigneter Weise Sitzungsvorlagen Nr. 14-20/V 03789
+- TOP 4.1.: Umsetzung der BaumschutzVO in Sendling, Sitzungsvorlage Nr. 14-20/V 03840
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 3.1.: (E) Budget der Bezirksausschüsse IG Klettern München und Südbayern e. V. Offener Boulderwettbewerb am 28.11.2015
+- TOP 4.4.1.: Bereich Planung, Bau, Wohnen, Umwelt
+- TOP 4.4.2.: Bereich Stadtteilkultur, Verkehr und Gewerbe
+- TOP 4.4.3.: Bereich Bildung, Betreuung, Familien und Sport
+- TOP 4.4.4.: Bereich Soziales und Integration
+- TOP 4.4.5.: Bereich Budget / Organisation
+- TOP 4.4.6.: Baumschutz
+- TOP 4.11.: Zuwendung aus dem BA-Budget für AKA - Aktiv für interKulturellen Austausch e.V.
