@@ -1,0 +1,66 @@
+# Stadtrat (12. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2015-10-27T17:00:00+01:00
+- Ende: 2015-10-27T20:45:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW-Zlu6Ddc_p1OxR2Y5Vr4Q
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/18513
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcRYf81bUDeksU46GJJzK0KYm9wwGj_JB9wmpdB8YHj7/Bekanntmachung_Stadtrat_27.10.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfo3AlP29RQKMeDKoUx0JAGgJscnzhEYKuR9Ek902v9Y/Oeffentliche_Niederschrift_Stadtrat_27.10.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Vereidigung des Bürgermeisters Dieter Spürck
+- TOP 2.: Einwohner/innen - Fragestunde
+- TOP 3.: Neuwahl einer Schiedsperson für den Schiedsamtsbezirk IV (Sindorf, Geilrath, Haus Hahn und umliegende Gehöfte)
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Vertretung der Kolpingstadt Kerpen in der Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes (NWStGB)
+- TOP 4.2: Vertretung der Kolpingstadt Kerpen im Aufsichtsrat der ERFTLAND Wohnungsbaugesellschaft mbH
+- TOP 4.3: Vertretung der Kolpingstadt Kerpen im Aufsichtsrat der ERFTLAND Holding GmbH
+- TOP 4.4: Vertretung der Kolpingstadt Kerpen in der Zweckverbandsversammlung des Zweckverbandes Musikschule "La Musica" Bergheim
+- TOP 4.5: Vertretung der Kolpingstadt Kerpen in der Zweckverbandsversammlung des Zweckverbandes der Volkshochschule Bergheim
+- TOP 4.6: Vertretung der Kolpingstadt Kerpen im Beirat der Stadtbücherei Kerpen
+- TOP 4.7: Umbesetzung des Umweltausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 4.8: Umbesetzung des Jugendhilfeausschusses
+- TOP 4.9: Umbesetzung des Umweltausschusses; hier: Antrag der SPD-Fraktion
+- TOP 4.10: Umbesetzung des Ausschusses für Sport, Freizeit und Kultur hier: Antrag der FDP-Fraktion
+- TOP 4.11: Umbesetzung des Jugendhilfeausschusses sowie der Gesellschafterversammlung der Netzgesellschaften; hier: Antrag der SPD-Fraktion
+- TOP 5.: Personelle Änderungen in den Gesellschafterversammlungen der Gas- und der Strom-Netzgesellschaft Kolpingstadt Kerpen GmbH & Co. KG, der Gas- und der Strom-Netzgesellschaft Kolpingstadt Kerpen Verwaltungs-GmbH sowie in den Geschäftsführungen der Netzgesellschaften - (kein Text vorhanden)
+- TOP 6.: Ausschreibung der Stelle einer/eines Ersten Beigeordneten
+- TOP 7.: Neufassung des Gesellschaftsvertrages der Wirtschaftsförderung Rhein-Erft GmbH
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: Bebauungsplan KE 338 "Hahnenpassage", Stadtteil Kerpen hier:- Satzungsbeschluss gem. § 10 (1) BauGB - (kein Text vorhanden)
+- TOP 8.2: 72. Änderung des Flächennutzungsplanes "Erfttalstraße (L 122)/Erftstraße", Stadtteil Sindorf hier: Beschluss zur Offenlage gem. § 3 (2) BauGB
+- TOP 8.3: Projekt "Soziale Stadt" - Beauftragung eines ISEK (Integriertes städtebauliches Entwicklungskonzept) für den Bereich "Maastrichter Straße", Stadtteil Kerpen
+- TOP 8.4: Förderantrag "Sportzentrum Kerpen" im Rahmen des kurzfristigen Bundesförderprogramms "Sanierung der Sozialen Infrastruktur in den Bereichen Sport, Jugend und Kultur"
+- TOP 9.: Gründung von Stadtwerken
+- TOP 9.1: Gründung von Stadtwerken Kerpen; hier: Beschluss über die Bekanntmachung der europaweiten Ausschreibung zur Findung eines strategischen Partners
+- TOP 9.2: Gründung von Stadtwerken Kerpen; hier: Bereitstellung überplanmäßiger Haushaltsmittel für die Durchführung der europaweiten Ausschreibung - (kein Text vorhanden)
+- TOP 10.: Beschaffung neuer, aktiver Netzwerkkomponenten für das Verwaltungsnetzwerk (Standorte Rathaus-Bauhof/Feuerwache-Stiftsquartier-hist. Archiv) hier: Bereitstellung überplanmäßiger Haushaltsmittel
+- TOP 11.: Konzept Bürgerhaushalt
+- TOP 12.: Vergabebericht 2013
+- TOP 13.: Projekt "Haus der Familie" hier: Eintragung einer Grundschuld
+- TOP 14.: Verstärkung des Sozialraumprojekts Sindorf
+- TOP 14 a: Grundschule für die Stadtteile Türnich-Balkhausen-Brüggen
+- TOP 15.: Mitteilungen
+- TOP 16.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 17.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Netzverträge mit der RWE Power AG
+- TOP II.: Nichtöffentlicher Teil
+- TOP -: Anlage zu TOP 9.2 - Mandatsvertrag
+- TOP -: Anlage zu TOP 9.2 - Vergütungsvereinbarung
+- TOP 19.: Gründung von Stadtwerken Kerpen; hier: Beschluss über die Durchführung des Ausschreibungsverfahrens zur Findung eines strategischen Partners
+- TOP 20.: Genehmigung der geplanten Verkehrssicherungsmaßnahmen in den Bereichen Neu-Bottenbroicher Wald, Weißer Weg, Rote- Kreuz- Straße, Verlängerung Merodestraße
+- TOP 21.: Zwischenbilanz Photovoltaikanlage Energiepartner Kerpen GmbH
+- TOP 22.: Unterrichtung des Rates durch den Bürgermeister gem. § 55 Abs. 1 GO NRW
+- TOP 23.: Mitteilungen
+- TOP 24.: Berichte aus den Gremien, in denen die Kolpingstadt Kerpen vertreten ist
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.1: Nichterfüllung von Rabattansprüchen
+- TOP 26.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
