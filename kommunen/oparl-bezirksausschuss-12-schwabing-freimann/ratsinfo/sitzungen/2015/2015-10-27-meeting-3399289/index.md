@@ -1,0 +1,115 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2015-10-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3399289
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3399289
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 3.1.: ?Hornbach ? Nachbarschaft? - Ihr Hornbach ist in Gefahr?
+- TOP 4: Kurzbericht der Polizei
+- TOP 5: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6: Anträge (1)
+- TOP 7: Unterrichtungen (1)
+- TOP 7.1.: Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat (Antwort auf BV-Empfehlungen des Stadtbezirkes 11 und 24) Sitzungsvorlage Nr. 14-20 / V 03888; Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015
+- TOP 7.2.: Information der Bürgerversammlungen über die Ergebnissee der letztjährigen Anträge in geeigneter Weise (Beschluss des BA 5 Au-Haidhausen zur BV-Empfehlung E 00390 Sitzungsvorlage Nr. 14-20 / V 03789
+- TOP 8: Entscheidungen (1)
+- TOP 9: Anhörungen (1)
+- TOP 10: sonstiges
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Baumfällungen
+- TOP 3.1.1.: Hermann-Levi-Straße 2, Fällung einer Birke und einer Pappel
+- TOP 3.1.2.: Josef-Raps-Straße 3, Fällung einer Zypresse (blau)
+- TOP 3.1.3.: Heidemannstraße 50, Fällung von vier Bäumen und eine Baumveränderung
+- TOP 3.1.4.: Kleinlappener Straße 1, Fällung einer Kiefer
+- TOP 3.1.5.: Max-Bill-Straße, Fl.N.r. 880/141, Neubau einer Wohnanlage (Häuser A-D) mit Tiefgarage, Fällung von 29 Bäumen gemäß Plan
+- TOP 3.2: Sonstige Anhörungen (1)
+- TOP 3.2.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/56/Freisinger Landstraße, Floriansmühlstraße und Bebauungsplan mit Grünordnung Nr. XXXX Freisinger Landstraße (östlich), Emmerigweg (südlich), Sondermeierstraße (westlich), Floriansmühlstraße (nördlich) ? Aufstellungs- und Eckdatenbeschluss
+- TOP 3.2.2.: Beteiligung am Planfeststellungsverfahren nach § 18 AEG; Abbruch von nicht mehr benötigten Bahnanlagen, Teilrückbau Stellwerk Freimann, östlicher Anbau
+- TOP 3.2.3.: Bebauungsplan der Stadt Garching? ?Gewerbegebiet an der B 13?
+- TOP 4: Bürgeranliegen (1)
+- TOP 4.1.: Sicherheit und Verschönerung der Kreuzung Wilhelmstraße / Kaiserstraße
+- TOP 5: Unterrichtungen (2)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (1)
+- TOP 5.1.1.: Kultur braucht Milieuschutz! Die Schwabinger Kulturszene erhalten!
+- TOP 5.2: Genehmigte Baumfällungen
+- TOP 5.2.1.: Osterwaldstraße 109d, Fällung von zwei Birken
+- TOP 5.2.2.: Neurißweg 6a, Fällung eines Walnussbaumes, Ablehnung der Fällung der Fichte
+- TOP 5.3: Sonstige Unterrichtungen (1)
+- TOP 5.3.1.: Umsetzung der Baumschutzverordnung in Sendling ; Empfehlung Nr. 14-20 / E 00256 der Bürgerversammlung des Stadtbezirkes 06 ? Sendling am 18.11.2014; Sitzungsvorlage Nr.: 14-20 / V 03840; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015
+- TOP 5.3.2.: Baumaßnahmen der Stadtwerke München a) Baumaßnahmen für das 2. Halbjahr 2015 b) Stromprojekt Hohenzollernstraße
+- TOP 5.3.3.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels; Sitzungsvorlage Nr.: 14-20 / V 02900 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015
+- TOP 5.3.4.: Zwischennutzung für Apassionata; Sitzungsvorlage Nr.: 14-20 / V 04113 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015
+- TOP 5.3.5.: Erhalt des Heinrich-Mann-Haus, Leopoldstraße 59 (Antwortschreiben des Referats für Stadtplanung und Bauordnung auf ein Bürgeranliegen)
+- TOP 5.3.6.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 (auch unter TOP C.5.3.6 und D.5.3.7)
+- TOP 5.3.7.: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016; Sitzungsvorlage Nr.: 14-20 / V 02728 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (3)
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Verkehrsrechtliche Anordnungen (1)
+- TOP 3.1.1.: Zeitliche Änderung des bestehenden Haltverbotes in der Sulzbacher Straße
+- TOP 3.2: Sonstige Anhörungen (2)
+- TOP 3.2.1.: Austausch der Lichtsignalanlage Franz-Joseph-Straße / Friedrichstraße
+- TOP 3.2.2.: Leistungsprogramm 2016 der MVG ? zusätzliche Maßnahme StadtBuslinie 150 (Umsetzung vsl. Sommer 2016)
+- TOP 3.2.3.: Ergänzung einer Verpflechtungsspur zwischen Ifflandstraße und Dietlindenstraße Beschlussentwurf für den Bauausschuss (vertagt aus 09/2015)
+- TOP 4: Bürgeranliegen (2)
+- TOP 4.1.: Verstärkung der Bus-Linie 181
+- TOP 4.2.: Sicherheit und Verschönerung der Kreuzung Wilhelmstraße / Kaiserstraße (siehe B.4.1.)
+- TOP 5: Unterrichtungen (3)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (2)
+- TOP 5.1.1.: Errichtung eines beleuchteten Fußgängerüberweges an der Lotte-Branz-Straße vor Haus Nr.: 2 (Zebrastreifen)
+- TOP 5.1.2.: Verbesserung der Beleuchtungssituation in der Fußgängerunterführung an der Erlöserkirche
+- TOP 5.2: Verkehrsrechtliche Anordnungen (2)
+- TOP 5.2.1.: Frankfurter Ring ? Ungererstraße ? Max-Vallier-Straße: Bauwerksprüfungen für die Autobahndirektion Südbayern vom 05. bis 09.10.2015
+- TOP 5.2.2.: Freisinger Landstraße/Gut Großlappen/Klärwerk Großlappen/Wallnerstraße: Stillegung und Umhängung einer Wasserhauptleitung vom 21.09. bis 20.11.2015
+- TOP 5.2.3.: Errichtung einer Feuerwehranfahrtszone, Völckerstraße
+- TOP 5.2.4.: Ausdehnung der Parkbeschränkung am Parkplatz Nordfriedhof / Ungererstraße
+- TOP 5.2.5.: Vorübergehende Verlegung der Schulbushaltestelle und der Bücherbushaltestelle an der Grundschule in der Fröttmaninger Heide
+- TOP 5.3: Sonstige Unterrichtungen (2)
+- TOP 5.3.1.: Neufassung des Beschlusses zum Nahverkehrsplan der Landeshauptstadt München; Sitzungsvorlage Nr.: 14-20 / V 03603 Beschluss der Vollversammlung des Stadtrates vom 30.09.2015
+- TOP 5.3.2.: Änderungsgenehmigung für die Abfallentsorgungsanlage, Freimanner Bahnhofstraße 24
+- TOP 5.3.3.: Verkehrskonzept an der Kreuzung Franz-Joseph-Straße / Leopoldstraße (Antwort des Kreisverwaltungsreferats auf ein Bürgeranliegen)
+- TOP 5.3.4.: Buslinie 177 am Domagkpark (Antwort der MVG auf ein Bürgeranliegen)
+- TOP 5.3.5.: Überdachung der Haltestelle des Busses 54 an der Münchner Freiheit (BV-Empfehlungen E 00107 vom 15.07.2014 und E 00560 vom 16.07.2015)
+- TOP 5.3.6.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 (auch unter TOP B.5.3.7 und D.5.3.7)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen (4)
+- TOP 3: Anhörungen (4)
+- TOP 3.1.: Schwabinger Weihnachtsmarkt an der Münchner Freiheit vom 27.11. bis 24.12.2015
+- TOP 4: Bürgeranliegen (3)
+- TOP 4.1.: Kunstprojekt ?Isarkiesel? (Vorstellung im UA)
+- TOP 5: Unterrichtungen (4)
+- TOP 5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 (auch unter TOP B.5.3.7 und C.5.3.6)
+- TOP 5.1: Erledigte BA-Anträge und BV-Empfehlungen (3)
+- TOP 5.2: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.2.1.: ?Koboldschänke?, (nicht öffentliche) Vereinsschänke, Josef-Wirth-Weg 17
+- TOP 5.2.2.: ?Shami Bistro?, Schank- und Speisewirtschaft, Marktstraße 6
+- TOP 5.2.3.: ?Plaza Mayor?, Schank- und Speisewirtschaft, Ursulastraße 10
+- TOP 5.3: Sonstige Unterrichtungen (3)
+- TOP 5.3.1.: ?Jugend im öffentlichen Raum ? Ausbau der regionalen, stadteilorientierten Streetwork? Sitzungsvorlage Nr.: 14-20 / V 03137 Beschlussvorlage für den Kinder- und Jugendhilfeausschusses vom 06.10.2015
+- TOP 5.3.2.: Bescheid / Zuwendungsbewilligung TamS Theater für die Maßnahme: Adventskalender 2015 in Höhe von 3.000,00 ?
+- TOP 5.3.3.: Verwendungsnachweise: Fußballabteilung des ESV München Freimann für die 60-Jahr-Feier der Fußballabteilung des ESV München Freimann vom 24.07. - 26.07.2015 in Höhe von 1.500,00?
+- TOP 5.3.4.: Erlaubnisbescheid: ?Internationaler Weltmädchentag? am 11.10.2015 auf dem Forum ? Münchner Freiheit
+- TOP 5.3.5.: Erlaubnisbescheid: München Marathon am 11.10.2015
+- TOP 5.3.6.: Erlaubnisbescheid: Italienischer Markt an der Münchner Freiheit vom 16.10. bis 21.10.2015
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung einer Teilstrecke des Admiralbogens
+- TOP 1: (E) Einrichtung eines Haltverbots Am Schlößlanger Ahndung von Parkverstößen bei Veranstaltungen in der Allianz-Arena Sperrung des Wohngebietes Freimann für den Allgemeinverkehr Burmester- und Bauerfeindstraße Parksuchverkehr
+- TOP 2: (E) Entfernung der Sträucher entlang der Treppe vom Harnierplatz zur Unterführung in Richtung St. Nikolaus Kirche Empfehlung Nr. 14-20 / E 00534 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 07.07.2015
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Poesieboten e. V. Mitmach-Poesie 2 im ASZ Freimann am 17.11.2015
+- TOP 2: (E) Verlängerung der Finanzierung des Projekts Pontis in Freimann durch den Stadtrat Empfehlung Nr. 14-20 / E 00529 ..................
+- TOP 2.3.: (E) Budget der Bezirksausschüsse KuVe Kulturverein Alte Heide e.V. Theaterstück "Yvonne, die Burgunderprinzessin" von November 2015 bis Juni 2016
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes GmbH Weihnachtssingen am 07.12.2015
