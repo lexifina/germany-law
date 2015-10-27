@@ -1,0 +1,96 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2015-10-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3491115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3491115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP 1.1.: Radweginfrastruktur zwischen Lindwurmstraße und Bayerstraße
+- TOP 1.2.: Bericht über Schäden auf der Weideninsel
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Baaderstraße 86 - 90, Neubau eines Mehrfamilienhauses auf Bestandgründung und Erweiterung der Tiefgarage unterhalb des Neubaus - Vorbescheid
+- TOP 1.2.: Baaderstraße 27, Anbau von Balkonen und eines Personenaufzugs an ein denkmalgeschütztes Haus - TEKTUR (hier Positionsänderung der Balkone)
+- TOP 1.3.: Geyerstraße 24/RGB, Abbruch und Neubau eines Wohngebäudes
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Adlzreiterstraße 20, Baumfällungsantrag vom 27.09.2015 für eine Robinie
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Kaiser-Ludwig-Platz, Theresien-Gymnasium, Interims-Pausenhof auf dem Kaiser-Ludwig-Platz, Vertagung aus 2015.09 TOP B 3.3.1; Ortstermin am 15.10.2015, PLENUMSBESCHLUSS
+- TOP 1.1.: Bericht Veranstaltung Hauptbahnhof Neubau am 19.10.2015
+- TOP 1.1.: Erstellung eines Pflegewerks für den Alten Südlichen Friedhof
+- TOP 1.2.: Fahrradstrasse im südlichen Abschnitt der Pestalozzistraße
+- TOP 1.3.: Radwegekreuzung Hans-Fischer-Unterführung
+- TOP 1.4.: Radwegmarkierung Parkbucht Thalkirchner Strasse
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: Schwanthalerstraße 22, Antrag auf Sperrzeitaufhebung
+- TOP 1.2.: Bayerstraße 89, Erweiterung einer bestehenden Freischankfläche, Vertagung aus 2015.09 TOP C 2.1.7
+- TOP 1.3.: Karlsplatz 21, Erweiterung einer bestehenden Freischankfläche
+- TOP 1.4.: Schwanthalerstraße 2 - 6; Erweiterung einer bestehenden Freischankfläche
+- TOP 1.5.: Fraunhoferstraße 32; Ablehnung Freischankfläche, Beschluss des BA 2 vom 25.08.2015, vgl. hier zu TOP 2015.09 C 2.1.5; Geänderter Plan aufgrund Ortsbesichtigung
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Auenstraße 2, Ablehnung einer Warenauslage (Postkartenständer), vgl. TOP 2015.08 C 2.2.3, Schreiben des Kreisverwaltungsreferates, Bezirksinspektion Mitte vom 21.09.2015; Vertagung aus 2015.09 TOP C 2.2.2 - Ortstermin am 09.10.2015
+- TOP 1.2.: Hans-Sachs-Straße 22, Holzstraße 27, Klenzestraße 48, Klenzestraße 74; Aufstellung von jeweils einem Zeitungsentnahmegerät; PLENUMSBESCHLUSS
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: 150 Jahre Staatstheater am 04.11.2015 auf dem Gärtnerplatz (Eilentscheidung)
+- TOP 1.2.: Nutzungsanfrage Theresienwiese 2016, Anhörung des Referats für Arbeit und Wirtschaft, PLENUMSBESCHLUSS
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Leistungsprogramm 2016 der MVG - zusätzliche Maßnahme StadtBuslinie 150
+- TOP 1.2.: Linienänderung der MetroBuslinie 52 und der StadtBuslinie 132 mit Sperrung des Marienplatzes aufgrund der Baustelle "Hugendubel" (Umsetzung vsl. ab Februar 2016)
+- TOP 1.1.: Bürgeranliegen: Parkraummanagement zur Oktoberfest Zeit
+- TOP 1.2.: Bürgeranliegen: Dreimühlenstraße, Straßenbeleuchtung
+- TOP 1.3.: Bürgeranliegen: Reichenbachstraße, Lärm- / Abgasschutz
+- TOP 1.4.: Bürgeranliegen: Bereich Bahnhofsplatz Alkoholszenerien und Trambahnverspätungen durch die Ampelanlage Arnulf-/Luisen-/Prielmayerstraße
+- TOP 1.1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Unterausschuss ?Kultur, Jugend, Soziales? am Montag, den 09.11.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Öffentlicher Raum, Mobilität? am Dienstag, den 10.11.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Unterausschuss ?Planen, Bauen? am Mittwoch, den 11.11.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München Die Bürgerversammlung findet am Donnerstag, den 12.11.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt. Die Vorstandssitzung findet am Montag, den 16.11.2015 um 19 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG), 80331 München statt. Die BA-Sitzung findet am Dienstag, den 24.11.2015 um 19 Uhr im Saal der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München statt.
+- TOP 1.2: Termine
+- TOP 1.1.: Stadtteilwoche Ludwigsvorstadt-Isarvorstadt 2016, Termin 10. bis 16.06.2016 - Einladung des Kulturreferates unter dem Motto "Wir machen was" zu zwei Vorbereitungssitzungen am 17.11.2015 und 13.01.2016
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP 1.3.: Wohnen in München V; Erfahrungsbericht für die Jahre 2013/2014, Handlungsempfehlungen; Geförderter Mietwohnungsbau; Teilweiser Entfall der Anwendung der VOB/A in der Wohnraumförderung, Beschluss der Vollversammlung des Stadtrates vom 30.09.2015, Sitzungsvorlagen Nr. 14 - 20 / V 03584
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 (VB); Nichtöffentliche und Öffentliche Sitzung; Sitzungsvorlagen Nr. 14 - 20 / V 02728
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bebauungsplan Nr. 2099 Corneliusstraße zwischen Blumenstraße und Müllerstraße - Aufstellungsbeschluss und Anträge; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 (SB), Sitzungsvorlagen Nr. 14 - 20 / V 03392
+- TOP 1.4.: Schützenstraße; Information des Kreisverwaltungsreferates - Bezirksinspektion Mitte vom 28.09.2015, bezüglich Verlegung Maronistand aufgrund einer Baumaßnahme
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels, Antrag Nr. 14 - 20 / A 00660 vom 04.02.2015; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015; Sitzungsvorlagen Nr. 14 - 20 / V 02900
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum, vgl. TOP 2015.07 B 3.3.1 und TOP 2015.08 B 4.4, Sitzungsvorlagen Nr. 14 - 20 / V 02161; Beschluss des gemeinsamen Ausschusses Stadtplanung und Bauordnung vom 23.09.2015 - Änderungsanträge und Hinweis / Ergänzung vom 05.10.2015
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Umsetzung der Baumschutzverordnung in Sendling, Empfehlung Nr. 14 - 20 / E 00256 der Bürgerversammlung des Stadtbezirkes 06 am 18.11.2014; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015, Sitzungsvorlagen Nr. 14 - 20 / V 03840
+- TOP 1.8.: Zenettistraße 13 - 19, Nutzungsänderung eines denkmalgeschützten Gebäudes etc., Vorbescheid gemäß Art. 71 Bayerische Bauordnung (BayBO)
+- TOP 1.9.: Kapuzinerstraße, Änderungsantrag zur Versetzung der bereits genehmigten City-Light-Säule für wechselnde Produktwerbung; Baugenehmigung gem. Art. 59 und Art. 68 Bayerische Bauordnung (BayBO) im vereinfachten Genehmigungsverfahren (Werbeanlage) vom Referat für Stadtplanung und Bauordnung vom 15.10.2015
+- TOP 1.10.: Begrünung Geyerstraße
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen
+- TOP 1.4.: Verkehrsrechtliche Anordnungen
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Information des MVG über Betriebskonzept der Linien U3/U6 während der Bauwerksprüfung Poccistraße
+- TOP 1.7.: Oktoberfest 2015, Erstellung Schluss- und Erfahrungsbericht, Schreiben des Referates für Arbeit und Wirtschaft vom 01.10.2015
+- TOP 1.8.: Baureferat, Beschlussvorlage Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB; Bedarfs- und Konzeptgenehmigung für alle Einzelprojekte; Weiteres Vorgehen bei der Erneuerung von Eisenbahnbrücken; Beschluss des Bauausschusses vom 13.10.2015 (VB), Sitzungsvorlagen Nr. 14 - 20 / V 02840
+- TOP 1.9.: Immissions- und Schadstoffmessungen an der Isar durch das RGU
+- TOP 1.10.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV für den Betrieb von Müllsammelfahrzeugen; Information des Referates für Gesundheit und Umwelt vom 14.10.2015
+- TOP 1.11.: Unterflur-Wertstoffinseln in der Altstadt errichten! Antrag Nr. 14 - 20 / A 00996 vom 04.05.2015 und Unterflur-Wertstoffinseln auch für sensible Standorte im gesamten Stadtgebiet prüfen! Antrag Nr. 14 - 20 / A 00997 vom 04.05.2015; Kurzübersicht zum Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 24.09.2015; Sitzungsvorlage Nr. 14 - 20 / V 03993
+- TOP 1.12.: Anbieten alternativer Festplätze für vom BA 2 dauerhaft und/oder mehrfach abgelehnte Veranstaltungen
+- TOP 1.1.: Direktorium, Beschluss Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerversamm lungsempfehlungen im Stadtrat, Empfehlung Nr. 14 - 20 / E 00410 der Bürgerversammlung des Stadtbezirks 24 vom 16.04.2015 BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden, BV - Empfehlung Nr. 14 - 20 / E 00576 der Bürgerversammlung des Stadtbezirkes 11 vom 23.07.2015 Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015 (VB), Sitzungsvorlage Nr. 14 - 20 / V 03888
+- TOP 1.2.: Direktorium, Beschlussfähigkeit Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise; BV-Empfehlung Nr. 14 - 20 / E 00390 der Bürgerversammlung des Stadtbezirkes 5 vom 05.03.2015; Beschluss des BA 5 am 16.09.2015; Sitzungsvorlage Nr. 14 - 20 / V 03789
+- TOP 1.3.: Mehrjahresinvestitionsprogramm für Jahre 2015 - 2019; Beschlussvorlage für die Vollversammlung des Stadtrates am 21.10.2015; Schreiben der Stadtkämmerei vom 12.10.2015
+- TOP 1.4.: Gegenseitige Vertretung der FDP und der CSU in den Unterausschüssen; Antwortschreiben des Direktoriums vom 15.10.2015
+- TOP 1: (E) Neue Räume für Sport- und Kulturzentrum für Capoeira Gerais-Sport und Kultur e. V.
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Ateliergemeinschaft 104 Ausstellung "Vie(h)lhof" vom 13.11. bis 13.12.2015
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Kirchenstiftung St. Andreas Andreaskonzert am 27.11.2015
+- TOP 1: (E) Vermehrte Maßnahmen zur Geschwindigkeitsüberwachung, nächtliches Tempo 30 auf Hauptstraßen Empfehlung Nr. 08-14 / E 02061 der Bürgerversammlung des 02. Stadtbezirkes - Ludwigsvorstadt-Isarvorstadt am 07.11.2013
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6: Berichte der Beauftragten
+- TOP 1.3: Veranstaltungen
