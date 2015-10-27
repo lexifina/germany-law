@@ -45,7 +45,7 @@ GKG | Gerichtskostengesetz
 LBG | Gesetz über die Landbeschaffung für Aufgaben der Verteidigung (Landbeschaffungsgesetz)
 PBefG | Personenbeförderungsgesetz
 SGB II | Sozialgesetzbuch - Zweites Buch - Grundsicherung für Arbeitssuchende
-StrabBlV | Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen (Straßenbahn-Betriebsleiter-Prüfungsverordnung)
+StrabBIPV | Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen (Straßenbahn-Betriebsleiter-Prüfungsverordnung)
 WEG | Gesetz über das Wohnungseigentum und das Dauerwohnrecht (Wohnungseigentumsgesetz)
 WoFG | Gesetz über die soziale Wohnraumförderung (Wohnraumförderungsgesetz)
 Tarifziffer | Gebührentatbestand | Gebühr in Euro
@@ -64,7 +64,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 101.03.02 | Genehmigung zur Änderung der Nutzungsart einer bestandsgeschützten baulichen Anlage je nach Umfang des Prüfaufwandes | 
 101.03.02.00 | - bei Änderung der Nutzungsart in Wohnen | 107 bis 1 000
 101.03.02.01 | - bei Änderung in sonstige Nutzungsart | 135 bis 2 500
-101.03.02.02 | Anmerkung zu 101.03.02 bis 101.03.02.01: Die Gebühr nach 101.00 bis 101.02 ist zusätzlich zu erheben, wenn Baukosten anfallen. Außerdem gilt 101.03. entsprechend. | 
+101.03.02.02 | Anmerkung zu 101.03.02 bis 101.03.02.01: Die Gebühr nach 101.00 bis 101.02 ist zusätzlich zu erheben, wenn Baukosten anfallen. Außerdem gilt 101.03 entsprechend. | 
 101.04 | Genehmigung eines Nachtrages für ein genehmigtes und noch nicht abgeschlossenes Bauvorhaben | 
 101.04.00 | Erweiterungen und Ergänzungen zu genehmigten Bauvorhaben für die zusätzlich genehmigten Bauteile je nach Art des Bauvorhabens | Gebühr nach 101.00 bis 101.02
 101.04.00.00 | Anmerkung zu 101.04.00: Wie Anmerkung 101.03 | 
@@ -124,7 +124,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 101.17.00.01 | durch Lkw-Stellplätze je Stellplatz | 158
 101.17.01 | Abweichungen von Baulinien oder Häuserlinien, soweit sie keine Befreiung darstellen | 29
 101.17.02 | Zulassung von Abstandsflächen in der geschlossenen Bauweise | 112
-101.17.03 | Schließung von Veranden nach § 21 der Bauordnung für die Stadt Bremen und das Landgebiet vom 21. Oktober 1906 | 74
+101.17.03 | Schließung von Veranden nach § 21 der Bauordnung für die Stadt und das Landgebiet vom 21. Oktober 1906 | 74
 101.17.04 | Ausnahmen von den Vorschriften über die zulässige Art der baulichen Nutzung | 
 101.17.04.00 | bis zu 15 qm | 50
 101.17.04.01 | über 15 qm für jeden weiteren qm | 4
@@ -143,8 +143,29 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 101.19.03 | Für jede wiederholte Abnahme nach § 81 Absatz 1 BremLBO | 49 bis 241
 101.20 | Bauüberwachung nach § 80 Absatz 1 BremLBO | 43 bis 161
 101.21 | Für jede notwendige Nachforderung von Baubeginn- und Bauzustandsanzeigen nach §§ 72 und 81 BremLBO | je Schreiben 32
-101.22 | Bereitstellung von Archivakten zur Einsichtnahme und/oder zur Anfertigung von Ablichtungen, Pausen oder dergleichen je Grundstück (Zusätzlich entstehende bare Aufwendungen durch Dritte, die aufgrund eines besonderen Verlangens eines Kostenschuldners entstehen, sind zu erstatten.) | 24
-101.22.01 | Anmerkung zu 101.22: Wird die Akteneinsicht in Form der Herstellung von Abschriften, Ablichtungen, Vervielfältigungen und Negativen gewährt, werden zusätzlich Gebühren nach 101.01 und 101.02 der Anlage zu § 1 AllKostV erhoben. | 
+101.22 | Akteneinsicht | 
+101.22.01 | Einsicht in die digitale Bauakte | 
+101.22.01.00 | Grundgebühr | 
+101.22.01.00.00 | Bis 25 MB der digitalisierten Akte | 40
+101.22.01.00.01 | Für jede weiteren angefangenen 50 MB | 30
+101.22.01.00.02 | Höchstens | 400
+101.22.01.00.03 | Anmerkung zu 101.22.01.00: Die Grundgebühr 101.22.01.00.00 bis 101.22.01.00.02 wird zusätzlich zu den Gebühren nach 101.22.01.01 bis 101.22.01.03.09 erhoben. | 
+101.22.01.01 | Digitale 1-wöchige Bereitstellung der Bauakte mit Passwort zum Download via externem Online-Zugang | gebührenfrei
+101.22.01.02 | Digitale Abgabe der Akte auf Speicherstick, einmalig | 8
+101.22.01.03 | Ausdrucke aus der digitalen Bauakte | 
+101.22.01.03.00 | DIN A 4 je Ausdruck schwarz/weiß | 0,10
+101.22.01.03.01 | DIN A 4 je Ausdruck farbig | 0,15
+101.22.01.03.02 | DIN A 3 je Ausdruck schwarz/weiß | 0,20
+101.22.01.03.03 | DIN A 3 je Ausdruck farbig | 0,30
+101.22.01.03.04 | Format bis DIN A 2 oder bis 0,25 m2 schwarz/weiß | 2
+101.22.01.03.05 | Format bis DIN A 1 oder bis 0,5 m2 schwarz/weiß | 3
+101.22.01.03.06 | Format über DIN A 1 oder über 0,5 m2 schwarz/weiß | 6
+101.22.01.03.07 | Format bis DIN A 2 oder bis 0,25 m2 farbig | 4
+101.22.01.03.08 | Format bis DIN A 1 oder bis 0,5 m2 farbig | 6
+101.22.01.03.09 | Format über DIN A 1 oder über 0,5 m2 farbig | 10
+101.22.02 | Einsicht in die analoge Bauakte | 
+101.22.02.00 | Bereitstellung von Archivakten zur Einsichtnahme, zur Anfertigungen von Ablichtungen, Pausen oder dergleichen je Grundstück oder zu beiden Zwecken (Zusätzlich entstehende bare Aufwendungen durch Dritte, die aufgrund eines besonderen Verlangens eines Kostenschuldners entstehen, sind zu erstatten.) | 25
+101.22.02.01 | Anmerkung zu 101.22.00: Wird die Akteneinsicht in Form der Herstellung von Abschriften, Ablichtungen, Vervielfältigungen und Negativen gewährt, werden zusätzlich Gebühren nach 101.01 und 101.02 der Anlage zu § 1 AllKostV erhoben. | 
 101.23 | Verfügungen im Verwaltungszwang | 
 101.23.00 | Ge- und Verbote | 150 bis 500
 101.23.01 | Androhung von Zwangsmitteln nach §§ 11 und 17 BremVwVG oder entsprechenden anderen Rechtsvorschriften | 50 bis 500
@@ -169,7 +190,8 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 101.28.00 | Zustimmung zur Eintragung oder Löschung einer öffentlichen Grundlast je Sachgegenstand | 80 mindestens 160
 101.28.01 | Anmerkung zu 101.28.00: Wie 101.27.02 | 
 101.29 | Festsetzung oder Änderung amtlicher Haus- oder Grundstücksnummern je Haus- oder Grundstücksnummer | 48
-101.30 | Gebühr für fiktiv zurückgenommene Bauanträge wegen Unvollständigkeit oder sonstiger erheblicher Mängel der Bauvorlagen nach Fristablauf nach § 69 Absatz 2 Satz 3 BremLBO | 50 bis 500
+101.30 | Richtet sich ein Rechtsbehelf eines Dritten gegen eine Maßnahme im baurechtlichen Genehmigungsverfahren so ist als Berechnungsgrundlage nach § 8 BremGebBeitrG die dem Vorhaben entsprechende Gebühr nach 101.07.00 oder 101.07.01 einzusetzen. | 
+101.31 | Gebühr für fiktiv zurückgenommene Bauanträge wegen Unvollständigkeit oder sonstiger erheblicher Mängel der Bauvorlagen nach Fristablauf nach § 69 Absatz 2 Satz 3 BremLBO | 50 bis 500
 102 | Bauprodukte und Bauarten, Anerkennung von Prüf-, Zertifizierungs- und Überwachungsstellen, Anerkennung von Prüfingenieuren und Prüfsachverständigen | 
 102.00.01 | Marktüberwachung von Bauprodukten | 
 102.00.01.00 | Aufgrund von festgestellten Rechtsverstößen erforderliche Amtshandlungen im Rahmen der Marktüberwachung von Bauprodukten nach dem BauPG oder dem BremBauPMÜG | 250 bis 5 000
@@ -189,23 +211,23 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 102.02.01.00 | für jede weitere Fachrichtung | 500 bis 2 500
 102.02.02 | Anerkennung von Prüfsachverständigen für sicherheitstechnische Anlagen (erste Fachrichtung) sowie für Erd- und Grundbau nach § 1 Satz 2 Nummer 1 und 2 BremPPV | 1 000 bis 2 000
 102.02.02.00 | Anerkennung einer weiteren Fachrichtung von Prüfsachverständigen für sicherheitstechnische Anlagen | 500 bis 1 000
-102.02.03 | Anmerkung zu 102.02.01, 102.02.01.00, 102.02.02 und 102.02.02.00: Unabhängig von den Gebühren für das Anerkennungsverfahren sind die Kosten für die Feststellung der besonderen Voraussetzungen nach §§ 10, 16, 20 oder 23BremPPV vom Antragsteller direkt an die Begutachtungsstelle zu entrichten. Entstehen der Anerkennungsbehörde im Rahmen des Anerkennungsverfahrens Auslagen nach § 11 BremGebBeitrG (z.B. Reisekosten), so sind diese vom Antragsteller zu erstatten. | 
+102.02.03 | Anmerkung zu 102.02.01, 102.02.01.00, 102.02.02 und 102.02.02.00: Unabhängig von den Gebühren für das Anerkennungsverfahren sind die Kosten für die Feststellung der besonderen Voraussetzungen nach §§ 10, 16, 20 oder 23 BremPPV vom Antragsteller direkt an die Begutachtungsstelle zu entrichten. Entstehen der Anerkennungsbehörde im Rahmen des Anerkennungsverfahrens Auslagen nach § 11 BremGebBeitrG (z.B. Reisekosten), so sind diese vom Antragsteller zu erstatten. | 
 102.02.04 | Genehmigung einer Zweitniederlassung für Prüfingenieure oder Prüfsachverständige nach § 5 Absatz 2a BremPPV | 500 bis 1 000
 102.03 | Anmerkung zu 102: Müssen zur Beurteilung von bautechnischen Einzelfragen Sachverständige herangezogen werden, so sind die Kosten für die Sachverständigen als Auslagen zu erheben. | 
 110 | Stadtplanung | 
 110.00 | Analoge Abgabe von rechtsverbindlichen oder wirksamen Bauleitplänen einschließlich zeichnerischer und textlicher Festsetzungen sowie Erschließungsplänen | 
 110.00.00 | Sofern sie als schwarz/weiß Fotokopie hergestellt worden sind | 
-110.00.00.00 | bei Format DIN A4 oder bis 6,25 dm² | 15
-110.00.00.01 | bei Format DIN A3 oder bis 12,5 dm² | 20
-110.00.00.02 | bei Format DIN A2 oder bis 25 dm² | 25
-110.00.00.03 | bei Format DIN A1 oder bis 50 dm² | 30
-110.00.00.04 | bei Format über 50 dm² | 30 zuzüglich 0,50 je dm² für die über 50 dm² hinausgehende Fläche
+110.00.00.00 | bei Format DIN A4 oder bis 6,25 dm2 | 15
+110.00.00.01 | bei Format DIN A3 oder bis 12,5 dm2 | 20
+110.00.00.02 | bei Format DIN A2 oder bis 25 dm2 | 25
+110.00.00.03 | bei Format DIN A1 oder bis 50 dm2 | 30
+110.00.00.04 | bei Format über 50 dm2 | 30 zuzüglich 0,50 je dm2 für die über 50 dm2 hinausgehende Fläche
 110.00.01 | Analoge Abgabe von Auszügen aus rechtsverbindlichen bzw. -wirksamen Bauleitplänen einschließlich zeichnerischen und textlichen Festsetzungen sowie Erschließungsplänen und Übersichtsplänen als mehrfarbiger Plot | 
-110.00.01.00 | bei Format DIN A4 oder bis 6,25 dm² | 50
-110.00.01.01 | bei Format DIN A3 oder bis 12,5 dm² | 55
-110.00.01.02 | bei Format DIN A2 oder bis 25 dm² | 80
-110.00.01.03 | bei Format DIN A1 oder bis 50 dm² | 95
-110.00.01.04 | bei Format über 50 dm² | 95 zuzüglich 1,00 je dm² für die über 50 dm² hinausgehende Fläche
+110.00.01.00 | bei Format DIN A4 oder bis 6,25 dm2 | 50
+110.00.01.01 | bei Format DIN A3 oder bis 12,5 dm2 | 55
+110.00.01.02 | bei Format DIN A2 oder bis 25 dm2 | 80
+110.00.01.03 | bei Format DIN A1 oder bis 50 dm2 | 95
+110.00.01.04 | bei Format über 50 dm2 | 95 zuzüglich 1,00 je dm2 für die über 50 dm2 hinausgehende Fläche
 110.00.02 | Ausnahmen | 
 110.00.02.00 | Abgabe von Auszügen eingestellter oder ungültiger Bauleitplänen einschließlich zeichnerischer und textlicher Festsetzungen | Sätze nach 110.00.00.00 bis 110.00.01.04
 110.00.02.01 | Abgabe von Übersichtsplänen zu Planaufstellungsbeschlüssen | 50 v. H. der Sätze nach 110.00.00.00 bis 110.00.01.04
@@ -218,20 +240,19 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 110.00.04.00 | Abgabe von Vorlagen zu Planaufstellungsbeschlüssen als Fotokopie | 50 v. H. des Satzes nach 110.00.03.00
 110.00.04.01 | Abgabe von Auszügen aus Begründungen/Erläuterungsberichten zu nicht rechtsverbindlichen Bauleitplänen als Fotokopie, nachdem die Deputation die öffentliche Auslegung beschlossen hat | 50 v. H. des Satzes nach 110.00.03.00
 110.01 | Flächennutzungsplan als Druck | 
-110.01.00 | Abgabe des geltenden Flächennutzungsplanes (Farbdruck) einschließlich Erläuterungsbericht und der inzwischen beschlossenen Flächennutzungsplanänderungen 1:25 000 | 20
-110.01.01 | Abgabe des geltenden Flächennutzungsplanes (Farbdruck 1:50 000) | 10
+110.01.00 | Abgabe des geltenden Flächennutzungsplanes (Farbdruck) einschließlich Erläuterungsbericht und der inzwischen beschlossenen Flächennutzungsplanänderungen 1 :30 000 | 20
 110.02 | Beglaubigungen | 
 110.02.00 | Beglaubigung von Auszügen aus rechtsverbindlichen bzw. -wirksamen Bauleitplänen | 14 und zusätzlich Kosten nach 110.00.00.00 bis 110.00.01.04
 110.02.01 | Beglaubigung von Auszügen aus Begründungen/Erläuterungsberichten zu rechtsverbindlichen oder -wirksamen Bauleitplänen | je angefangene Seite 1,90 ab 6. Seite 0,38 und zusätzlich die Kosten nach 110.00.03.00
 110.03 | Abgabe von analogen historischen Karten | 
 110.03.00 | Sofern als Fotokopie hergestellt | 
-110.03.00.00 | Format bis DIN A2 oder bis 0,25 m² | 2
-110.03.00.01 | Format bis DIN A1 oder bis 0,50 m² | 3
-110.03.00.02 | Format über DIN A1 oder über 0,50 m² | 6
+110.03.00.00 | Format bis DIN A2 oder bis 0,25 m2 | 2
+110.03.00.01 | Format bis DIN A1 oder bis 0,50 m2 | 3
+110.03.00.02 | Format über DIN A1 oder über 0,50 m2 | 6
 110.03.01 | sofern als mehrfarbiger Druck hergestellt | 
-110.03.01.00 | Format bis DIN A2 oder bis 0,25 m² | 4
-110.03.01.01 | Format bis DIN A1 oder bis 0,50 m² | 6
-110.03.01.02 | Format über DIN A1 oder über 0,50 m² | 10
+110.03.01.00 | Format bis DIN A2 oder bis 0,25 m2 | 4
+110.03.01.01 | Format bis DIN A1 oder bis 0,50 m2 | 6
+110.03.01.02 | Format über DIN A1 oder über 0,50 m2 | 10
 110.04 | Digitaler Bauleitplan | 
 110.04.00 | Digitale Abgabe von Bauleitplänen oder thematischen Karten der Stadtplanung (ohne Geobasisdaten) über INSPIRE-konforme, web-basierte Darstellungs- und Download-Dienste (WMS und WFS) | gebührenfrei
 110.04.02 | Digitale Abgabe von Bauleitplänen oder thematischen Karten der Stadtplanung (ohne Geobasisdaten) als Datei | nach Zeitaufwand zzgl. Materialkosten
@@ -245,10 +266,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 110.09 | Erstellung von Berichtsplänen (Lageplan für Grundstücksgeschäfte) | je Plan 50 bis 300
 110.09.01 | Änderungen von erstellten Berichtsplänen | je Plan 25 bis 150
 12 | Zustimmung zur Verlegung und Änderung von Telekommunikationslinien | 
-120 | Kleine Baumaßnahmen: | 
- | Tiefbauvorhaben mit einer Grabenlänge bis zu 150m und 0,5m Grabenbreite sowie Baugruben bis ca. 3m³ in Rad- und Gehwegen sowie Trenn-, Seiten-, Rand- und Sicherheitsstreifen außerhalb des Innenstadtbereichs Bremen-Stadt. Im Innenstadtbereich verringert sich die Grabenlänge auf 100m. Der Innenstadtbereich umfasst das Gebiet zwischen dem Hauptbahnhof und der Weser und wird nordwestlich von der Bürgermeister-Smidt-Straße sowie südöstlich von den Straßen Altenwall, Am Wall, Contrescarpe und Rembertistraße begrenzt. | 
- | Erweiterung des oberirdischen Telekommunikationsnetzes bis zu 5 Mastenfeldern | 
- | Tiefbaumaßnahmen im Zusammenhang mit Straßenquerungen sind keine Kleinen Baumaßnahmen, sondern den Großen Baumaßnahmen zugeordnet. | 
+120 | Kleine Baumaßnahmen: Tiefbauvorhaben mit einer Grabenlänge bis zu 150m und 0,5m Grabenbreite sowie Baugruben bis ca. 3m3 in Rad-und Gehwegen sowie Trenn-, Seiten-, Rand- und Sicherheitsstreifen außerhalb des Innenstadtbereichs Bremen-Stadt. Im Innenstadtbereich verringert sich die Grabenlänge auf 100m. Der Innenstadtbereich umfasst das Gebiet zwischen dem Hauptbahnhof und der Weser und wird nordwestlich von der Bürgermeister-Smidt-Straße sowie südöstlich von den Straßen Altenwall, Am Wall, Contrescarpe und Rembertistraße begrenzt. Erweiterung des oberirdischen Telekommunikationsnetzes bis zu 5 Mastenfeldern Tiefbaumaßnahmen im Zusammenhang mit Straßenquerungen sind keine Kleinen Baumaßnahmen, sondern den Großen Baumaßnahmen zugeordnet. | 
 120.00 | Einzelzustimmung zu Kleinen Baumaßnahmen wie 120, aber rechtlich relevante Belange des Trägers der Straßenbaulast oder Dritter sind in besonderer Weise betroffen (z.B. Straßen, bei denen ein Aufgrabungsverbot besteht; Straßen im Innenstadtbereich; Baumaßnahmen, bei denen wegen der Art und der Dauer der Durchführung der Maßnahme straßenverkehrsrechtliche Belange in besonderer Weise betroffen sind). | 277
 120.01 | Vereinfachte Zustimmung zu Kleinen Baumaßnahmen wie 120 ohne die Gebührentatbestände nach 120.00 | 108
 121 | Große Baumaßnahmen: alle Tiefbaumaßnahmen, die nicht unter 120 fallen. Hierunter fällt auch jedes Tiefbauvorhaben, das mit einer Straßenquerung verbunden ist. | 
@@ -262,7 +280,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 140.01 | Enteignungen zugunsten der Freien Hansestadt Bremen und der Stadtgemeinden Bremen und Bremerhaven | gebührenfrei
 140.02 | Entscheidungen der Enteignungsbehörde oder der höheren Verwaltungsbehörde über Entschädigungsanträge aufgrund des Baugesetzbuches | Gebühr nach § 34 GKG
 15 | Straßenrecht | 
-150.00 | Zulassung von Ausnahmen von Baubeschränkungen längs der Bundesfernstraßen und von der Veränderungssperre (§ 9 Absatz 8 und § 9 a Absatz 5 FStrG) | 28 bis 549
+150.00 | Zulassung von Ausnahmen von Baubeschränkungen längs der Bundesfernstraßen und von der Veränderungssperre (§ 9 Absatz 8 und § 9a Absatz 5 FStrG) | 28 bis 549
 150.01 | Genehmigung von Bauanlagen längs der Bundesfernstraßen in den Fällen des § 9 Absatz 5 FStrG | 11 bis 165
 150.02 | Erlaubnis zu einer Sondernutzung an freien Strecken der Bundesfernstraßen (§ 8 Absatz 1 FStrG) | 6 bis 275
 150.03 | Planfeststellungsbeschlüsse und Plangenehmigungen für den Bau oder die Änderung von Bundesfernstraßen (§ 17 FStrG) | gebührenfrei
@@ -277,18 +295,18 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 160.00.01 | Im Falle der Ablehnung der beantragten Genehmigung nach § 11 II. BV | 60
 160.01 | Entscheidung über Anträge auf Übertragung von Fördermitteln nach WoFG und II. WoBauG für Mietwohnungen (ausgenommen bei Erwerb durch Mieter) | 90 bis 650
 160.02 | Erteilung einer Genehmigung nach § 7 Absatz 6 oder 7 BremWoBindG | 35 bis 300
-160.03 | Erteilung von Wohnberechtigungsscheinen zum Bezug einer geförderten Wohnung nach § 27 WoFG/ § 5 BremWoBindG (inkl. Ablehnungsbescheide) | 15
+160.03 | Erteilung von Wohnberechtigungsscheinen zum Bezug einer geförderten Wohnung nach § 27 WoFG/§ 5 BremWoBindG (inkl. Ablehnungsbescheide) | 15
 160.04 | Erteilung von Einkommensbescheinigungen für die Bewilligung von Fördermitteln für selbstgenutztes Wohneigentum, für die Herabsetzung der Verzinsung von nichtöffentlichen Baudarlehen oder für die Herabsetzung der höheren Tilgung von öffentlichen Baudarlehen (inkl. Ablehnungsbescheide) | 15
 160.04.00 | Erteilung von Zweitschriften nach 160.03 und 160.04 | 10
 160.04.01 | Verwaltungshandlungen nach 160.03, 160.04 und 160.04.00 für Empfänger von Hilfe oder ergänzender Hilfe zum Lebensunterhalt oder Grundsicherung oder Leistungen nach dem SGB II | gebührenfrei
 160.05 | Erteilung einer vom Eigentümer beantragten Freistellung von den Belegungsbindungen hinsichtlich der Einhaltung der Einkommensgrenze oder der Wohnfläche nach § 30 WoFG/§ 6 BremWoBindG zu seinen Gunsten oder zugunsten eines nicht wohnberechtigten Mieters (Ausnahme: Globalfreistellung im Rahmen eines Kooperationsvertrages nach §§ 14 und 15 WoFG) | 40
-160.06 | Genehmigung von Zweckentfremdung und von baulichen Änderungen von Wohnraum nach § 27 Absatz 7WoFG /§ 6 BremWoBindG | 5 v. H der einmaligen Ausgleichszahlung, mindestens 100
+160.06 | Genehmigung von Zweckentfremdung und von baulichen Änderungen von Wohnraum nach § 27 Absatz 7 WoFG/§ 6 BremWoBindG | 5 v. H der einmaligen Ausgleichszahlung, mindestens 100
 160.06.00 | Ablehnung der Genehmigung nach Nr. 160.06 | 60
 160.07 | sonstige Amtshandlungen auf dem Gebiete des Wohnungswesens (ausgenommen Rechtsbehelfsverfahren - 101.09 u. 101.10 - und Verwaltungszwang - 102 der AllKostV | gebührenfrei
 17 | Städtebauförderungsrecht | 
 17.01 | Teilungsgenehmigung nach § 144 Absatz 2 Nr. 5 BauGB | 108 bis 1 183
 17.02 | Versagung einer Teilungsgenehmigung nach § 144 Absatz 2 Nr. 5 BauGB | 50 v. H. der Gebühr nach 17.01
-17.03 | Bescheinigung nach den „Bescheinigungsrichtlinien Anwendung der §§ 7 h, 10 f und 11a des EStG“ bei einem bescheinigten Wert | 
+17.03 | Bescheinigung nach den „Bescheinigungsrichtlinien Anwendung der §§ 7h, 10f und 11a des EStG“ bei einem bescheinigten Wert | 
  | bis 10 000 | 50
  | bis 50 000 | 86
  | je weitere angefangene 50 000 | 86
@@ -300,34 +318,38 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 180.03 | Feststellung des Planes für Betriebsanlagen nach § 28 Absatz 1 PBefG | 
  | bei einem Kostenvolumen der Maßnahme bis zu 5 000 000 | 0,045 v. H. des Kostenvolumens
  | bei einem Kostenvolumen der Maßnahme über 5 000 000 | 2 000 zuzüglich 0,006 v. H. des 5 000 000 übersteigenden Kostenvolumens
- | Anmerkungen zu 180.03 Erstreckt sich das Verfahren auch auf die bauaufsichtliche Genehmigung, so erhöht sich die Gebühr um die im Baugenehmigungsverfahren vorgeschriebene Gebühr nach 101. | 
- | Sofern innerhalb des Verfahrens eine Umweltverträglichkeitsprüfung vorzunehmen ist, erhöht sich die Genehmigungsgebühr um bis zu 30 v. H. der vorgeschriebenen Gebühr. | 
-180.04 | Erteilung einer Plangenehmigung nach § 28 Absatz 1a PBefG | 70 bis 1 000
+ | Anmerkungen zu 180.03 Erstreckt sich das Verfahren auch auf die bauaufsichtliche Genehmigung, so erhöht sich die Gebühr um die im Baugenehmigungsverfahren vorgeschriebene Gebühr nach 101. Sofern innerhalb des Verfahrens eine Umweltverträglichkeitsprüfung vorzunehmen ist, erhöht sich die Genehmigungsgebühr um bis zu 30 v. H. der vorgeschriebenen Gebühr. | 
+180.04 | Erteilung einer Plangenehmigung nach § 28 Absatz 1a PBefG | 150 bis 1 000
+180.05 | Feststellung einer Maßnahme von unwesentlicher Bedeutung nach § 28 Abs. 2 PBefG | 70
 180.07 | Gestattung der zur Planung erforderlichen Vorarbeiten | 60 bis 170
 180.08 | Zustimmung zur Betriebseröffnung | 60 bis 170
 180.09 | Zustimmung zu den Beförderungsentgelten und deren Änderung, soweit nicht in Verkehrs- oder Tarifverbund integriert. | 70 bis 1 400
 180.10 | Zustimmung zu besonderen Beförderungsbedingungen und deren Änderung, soweit nicht in Verkehrs- oder Tarifverbund integriert. | 60 bis 170
 180.11 | Zustimmung zu den Fahrplänen und deren Änderung, soweit nicht in Verkehrsverbund integriert. | 35 bis 170
-180.12 | Bestätigung der Bestellung eines Betriebsleiters oder dessen Stellvertreter nach § 9 BOStrab | 95
-180.13 | Entscheidung über die Zulassung zur Betriebsleiterprüfung nach § 9 StrabBlPV) | 98
-180.14 | Prüfung von Unterlagen für den Neubau oder die Änderung von Betriebsanlagen (§ 60 Absatz 1 BOStrab) oder von sonstigen Anlagen (§ 60 Absatz 10 BOStrab) und Erteilung des Abnahmebescheides | 
- | für die ersten 1 Mio. der Herstellungskosten | 2 v. T. der Herstellungskosten mindestens 135
+180.12 | Bestätigung der Bestellung eines Betriebsleiters oder dessen Stellvertreter nach § 9 BOStrab | 102
+180.13 | Prüfung zum Straßenbahnbetriebsleiter | 
+180.13.01 | Entscheidung über die Zulassung zur Betriebsleiterprüfung nach § 9 StrabBIPV | 105
+180.13.02 | Kosten für die Prüfung zum Straßenbahnbetriebsleiter | Die Gebührensätze richten sich nach der Kostenregelung der Geschäftsordnung des gemeinsamen Prüfungsausschusses für die Prüfung zum Straßenbahnbetriebsleiter
+180.14 | Prüfung von Bauunterlagen nach § 60 BOStrab und Erteilung des Abnahmebescheides | 
+ | für die ersten 1 Mio. der Herstellungskosten | 2 v. T. der Herstellungskosten mindestens 145
  | für die über 1 Mio. hinausgehenden Herstellungskosten bis zur Höhe von 2,5 Mio. | 0,5 v. T. der Herstellungskosten
  | für die über 2,5 Mio. hinausgehenden Herstellungskosten bis zur Höhe von 5 Mio. | 0,25 v. T. der Herstellungskosten
  | für die über 5 Mio. hinausgehenden Herstellungskosten | 0,125 v. T. der Herstellungskosten
-180.15 | Prüfung von Unterlagen für den Neubau oder die Änderung von Betriebsanlagen (§ 60 Absatz 1 BOStrab) oder sonstigen Anlagen (§ 60 Absatz 10 BOStrab), für die eine Typzustimmung nach § 60 Absatz 8 BOStrab vorliegt. | 50 v. H. der Gebühr nach 180.14 mindestens 135
-180.16 | Bescheid über die Abnahme von Fahrzeugen | 
- | bei Neubau - für das erste Fahrzeug einer Serie | 449
- | bei Neubau - für jedes weitere Fahrzeug derselben Serie | 37
- | bei Umbau - für das erste Fahrzeug einer Serie | 236
- | bei Umbau - für jedes weitere Fahrzeug derselben Serie | 37
-180.17 | Prüfung von Bauunterlagen außerhalb eines Abnahmeverfahrens, z.B. Typzustimmung (§ 60 Absatz 8 BOStrab) Anmerkung zu 180.14 und 180.17: Erstreckt sich das Verfahren auf die bauaufsichtliche Genehmigung, so erhöht sich die Gebühr um die im Baugenehmigungsverfahren vorgeschriebene Gebühr. | 37 bis 569
-180.18 | Ausnahmegenehmigung nach § 6 BOStrab | 80 bis 569
-180.19 | Festsetzung von Untersuchungsfristen, die von § 57 Absatz 3 BOStrab abweichen (§ 57 Absatz 5 BOStrab) | 80
-180.20 | Festsetzung von Höchstgeschwindigkeiten (§ 50 Absatz 1 BOStrab) | 80
-180.21 | Festsetzung von Fristen zur Behebung von Mängeln, Anordnung der Einstellung oder Unterbrechung von Bauarbeiten oder Untersagung der Benutzung bestimmter Betriebsanlagen und Fahrzeuge (§ 5 Absatz 5 BOStrab) | 80
-180.22 | Anordnung bezüglich Art und Umfang der Sicherung an Kreuzungen mit Eisenbahnen des nichtöffentlichen Verkehrs (§ 15 Absatz 4 BOStrab) | 80
-180.23 | Genehmigung der Benutzung besonderer und unabhängiger Bahnkörper durch Kraftomnibusse oder Obusse des Linienverkehrs (§ 58 Absatz 3 BOStrab) | 32
+180.15 | Prüfung von Bauunterlagen nach § 60 BOStrab, für die eine Typzustimmung vorliegt | 50 v. H. der Gebühr nach 180.14 mindestens 145
+180.16 | Fahrzeugabnahmen | 
+ | für das erste Fahrzeug einer Neubauserie | 482
+ | für jedes weitere Fahrzeug derselben Neubauserie | 40
+ | für das erste Fahrzeug einer Umbauserie | 253
+ | für jedes weitere Fahrzeug derselben Umbauserie | 40
+ | für sonstige Betriebsfahrzeuge | 253
+180.17 | Prüfung von Bauunterlagen außerhalb eines Abnahmeverfahrens, z.B. Typzustimmung (§ 60 Absatz 8 BOStrab) | 95 bis 569
+ | Anmerkung zu 180.14 und 180.17: Erstreckt sich das Verfahren auf die bauaufsichtliche Genehmigung, so erhöht sich die Gebühr um die in dem Baugenehmigungsverfahren vorgeschriebene Gebühr. | 
+180.18 | Ausnahmegenehmigung nach § 6 BOStrab | 138 bis 569
+180.19 | Festsetzungen nach § 57 Absatz 5 BOStrab | 86
+180.20 | Festsetzungen nach § 50 Absatz 1 BOStrab | 86
+180.21 | Maßnahmen nach § 5 Absatz 5 BOStrab | 86
+180.22 | Entscheidungen nach § 15 Absatz 4 BOStrab | 86
+180.23 | Genehmigungen nach § 58 Absatz 3 BOStrab | 34
 181 | Eisenbahnverkehr | 
 181.00 | Erbringung von Eisenbahnverkehrsleistungen bzw. Betreiben einer Eisenbahninfrastruktur | 
 181.00.00 | Genehmigung | 500 bis 10 000
@@ -355,9 +377,10 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 181.08 | Genehmigung zur Inbetriebnahme von genehmigungspflichtigen Anlagen auf Triebfahrzeugen und ortsfesten Anlagen (z.B. Funk- und sonstige Fernsteuerungsanlagen etc.), Bauartänderungen an Fahrzeugen | 7 v. T. der Baukosten mindestens 300
 181.09 | Eisenbahnbetriebsleiter und deren Stellvertreter | 
 181.09.01 | Kosten für die Prüfung zum Eisenbahnbetriebsleiter | Die Gebührensätze richten sich nach der Kostenregelung der Geschäftsordnung des gemeinsamen Prüfungsausschuss es für die Prüfung zum Eisenbahnbetriebsleiter nach der EBV
-181.09.02 | Kosten für die Wiederholung der Prüfung zum Eisenbahnbetriebsleiter | Die Gebührensätze richten sich nach der Kostenregelung der Geschäftsordnung des gemeinsamen Prüfungsausschusses für die Prüfung zum Eisenbahnbetriebsleiter nach der EBV
-181.09.03 | Bestätigung | 345
+181.09.02 | Kosten für die Wiederholung der Prüfung zum Eisenbahnbetriebsleiter | Die Gebührensätze richten sich nach der Kostenregelung der Geschäftsordnung des gemeinsamen Prüfungsausschuss es für die Prüfung zum Eisenbahnbetriebsleiter nach der EBV
+181.09.03 | Bestätigung | 71 bis 500
 181.09.04 | Versagung bzw. Widerruf oder Rücknahme einer Bestätigung | 170
+181.09.05 | Bestätigung der Änderung der Anzahl oder Reihenfolge von Eisenbahnbetriebsleitern und deren Stellvertretern im Unternehmen | 71 bis 300
 181.10 | Aufsichtsbereisungen der nichtbundeseigenen Eisenbahnen | 
 181.10.00 | Nichtbundeseigene Eisenbahn des öffentlichen Verkehrs | 300 bis 6 000
 181.10.01 | Nichtbundeseigene Eisenbahn des nichtöffentlichen Verkehrs | 300 bis 6 000
