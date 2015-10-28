@@ -1,0 +1,72 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2015-10-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3379695
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3379695
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Beschlussfähigkeit
+- TOP 2: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4: Fragen an Polizei und Bezirksinspektion
+- TOP 5: Bürgeranliegen
+- TOP 1: Anträge (1)
+- TOP 1.1.: SPD: Isarcard für unbegleitete minderjährige Flüchtlinge
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: EDEKA: Wertstoffcontainer vor dem neuen Supermarkt in der Isoldenstraße
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Wirtschaft
+- TOP 2.1.1.: Belgradstr. 45 ?Longrain Thai Cuisine?: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.1.2.: Elisabethmarkt: Freischankfläche ?Wintergarten? - Ergebnis des Ortstermins
+- TOP 2.2: Kultur
+- TOP 2.3: Veranstaltungen
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1: Planen
+- TOP 2.1.1.: Vorbescheid Bauerstr. 26: Aufstockung des Rückgebäudes um eine zusätzliche Etage (Erweiterung der bestehenden Wohneinheit)
+- TOP 2.1.2.: Herzogstr. 60: Abbruch und Neuerrichtung von 12 Balkonen
+- TOP 2.1.3.: Hohenzollernstr. 105: DG-Ausbau für 2 Wohnungen, Aufstockung und zusätzlicher Balkon (6. OG Südseite), Vergrößerung und Neuerrichtung von Dachgauben
+- TOP 2.1.4.: Belgradstr. 22: Abbruch und Neuerrichtung des Dachstuhls mit 2 Wohneinheiten
+- TOP 2.1.5.: Agnesstr. 36: DG-Ausbau (1 Wohneinheit)
+- TOP 2.1.6.: Ansprengerstr. 3, 5, 7 und Rossinistr. 4, 6, 10: Anbau von Balkonen und freistehenden Aufzügen
+- TOP 2.1.7.: Karl-Theodor-Str. 92: Schulbauoffensive: Neubau eines 2-geschossigen Schulpavillons (12 Klassenzimmer + Nebenräume) in Modulbauweise mit Aufzug, befristet auf max. 11 Jahr inkl. Baumfällungen in Zusammenhang mit dem Bauvorhaben
+- TOP 2.1.8.: Vorbescheid Infanteriestr. 8: Neubau eines Rückgebäudes auf bestehender Tiefgarage
+- TOP 2.1.9.: Destouchesstr. 83: Sanierung eines Wohn- und Geschäftshauses, Aufstockung des Dachgeschosses, Errichtung von Balkon- und Erkerbauten
+- TOP 2.1.10.: Schleißheimer Str. 198: DG-Neubau durch Aufstockung zur Wohnnutzung
+- TOP 2.1.11.: Ainmillerstr. 32: DG-Ausbau (Wohnung mit Dachterrasse und Rettungspodest)
+- TOP 2.1.12.: Erich-Kästner-Str. 21: Erweiterung einer vorhandenen und Anbau einer zusätzlichen Balkonanlage
+- TOP 2.1.13.: Infanteriestr. 11 a: Nutzungsänderung in ein Büro- und Verwaltungsgebäude mit Erwachsenenbildung (Haus E)
+- TOP 2.1.14.: Hohenzollernstr. 112: Nutzungsänderung Ballett-/Tonstudio zu Wohnung
+- TOP 2.1.15.: Clemensstr. 102: Schulbauoffensive: Neubau einer Pavillonanlage für die Erweiterung der Grundschule Hiltenspergerstr. 72 als Interimsmaßnahme
+- TOP 2.1.16.: Ansprengerstr. 22: Aufstockung des einstöckigen Rückgebäudes (3 WE) und Nutzungsänderung im EG: Büro- zu Wohnflächen
+- TOP 2.1.17.: Lerchenauer Str. 14: Aufstockung Wohnhaus um ein Geschoss
+- TOP 2.1.18.: Vorbescheid Belgradstraße: Errichtung eines geförderten Wohngebäudes mit 5-gruppigem Kinderhaus, Kindertagestreff, Bürgerbüro und Tiefgarage
+- TOP 2.1.19.: Kaiserstr. 56: Abbruch eines Balkons und Errichtung zweier neuer Balkone im 2. und 3. OG eines Mehrfamilienhauses
+- TOP 2.1.20.: Adelheidstr. 31: Balkonsanierung und Anbau von Balkonen
+- TOP 2.2: Wohnen
+- TOP 1: Anträge (4)
+- TOP 1.1.: Bürger: Verkehrsbelastung Winzererstraße ? Vorschlag zur Änderung der Verkehrsführung
+- TOP 1.2.: Grüne: Mehr Fahrradstraßen!
+- TOP 1.3.: Bürger: Parkplatzsituation in Schwabing-West
+- TOP 1.4.: Bürger: Gefährdung für Fußgänger an der neuen Straßenbahnhaltestelle Barbarastraße
+- TOP 1.5.: Bürger: Fahrradstreifen Karl-Theodor-Straße: Blockade durch Lieferfahrzeuge
+- TOP 1.6.: Bürger: Akute Parkplatznot in der Tengstr. 24-26
+- TOP 1.7.: Bürger: Umgestaltung des Vorplatzes Hohenzollernstr. 41 Ecke Römerstraße
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1: Umwelt
+- TOP 2.1.1.: Emanuelstr. 25: Fällung eines Laubbaums
+- TOP 2.1.2.: Baumfällungen wegen Sanierung der Tiefgarage im Block Ansprenger- / Clemens- Rossini- / Destouchesstraße (vertagt aus 09/15; Ortstermin am 12.10.2015)
+- TOP 2.2: Verkehr
+- TOP 1.2.: Austausch der Lichtsignalanlage Franz-Joseph-/Friedrichstraße
+- TOP 1.3.: Entscheidungen über Projektplanungen des Baureferats Tiefbau: 1. Errichtung eines Fußgängerüberwegs an der Clemens-/Mittermayrstraße 2. Errichtung zweier Fußgängerüberwege an der Clemens-/Hiltenspergerstraße
+- TOP 1.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Infanteriestr. 12
+- TOP 1.1.: Einrichtung eines WLAN-Hotspots am Hohenzollernplatz
+- TOP 1: (E) Verdeutlichung der Radwegführung in der Ackermannstraße zum Schutz von Anwohnern und Fußgängern Empfehlung Nr. 08-14 / E 01937 der Bürgerversammlung des 4. Stadtbezirkes -Schwabing-West am 01.10.2013
