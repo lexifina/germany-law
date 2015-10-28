@@ -1,0 +1,58 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-10-28T17:00:00+01:00
+- Ende: 2015-10-28T20:38:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9939
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9939
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250946.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250946.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00250946.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Situation der Flüchtlinge - zur Kenntnis genommen
+- TOP 4: B-Plan-Vorentwurf Nr. 06/006 - Westfalenstraße 46-48 -Verfahren gem. § 13a BauGB Verfahren gem. § 13 - einstimmig abgelehnt
+- TOP 5: FNP-Änderung Nr. 51 - Nördlich Westfalenstraße - - einstimmig beschlossen
+- TOP 6: Bebauungsplan Nr. 06/001 -Nördlich Volkardeyer Weg - - mehrheitlich beschlossen
+- TOP 7: Rahmenplan Einzelhandel 2015 - Vorentwurf - - einstimmig beschlossen
+- TOP 8: Anfrage GRÜNE: Lärmreduzierung Bochumer Straße - vertagt
+- TOP 9: Anfrage CDU: Mühlenbroich/Oberhausener Straße - vertagt
+- TOP 10: Anfrage Daxenberger: Auswirkungen auf Bevölkerung im Stadtgebiet 6 - vertagt
+- TOP 11: Anfrage GRÜNE: Energetische Sanierung - vertagt
+- TOP 12: Anfrage CDU+FDP: Umzug Kath. GS Rather Kreuzweg - vertagt
+- TOP 13: Anfrage CDU: Gasleitung Aaper Wald - vertagt
+- TOP 14: Anfrage CDU: Flüchtlinge und Obdachlose im Stadtbezirk - beantwortet
+- TOP 15: Anfrage SPD: Umbau Haltestellen - vertagt
+- TOP 16: Anfrage SPD: Toilette in Rath - vertagt
+- TOP 17: AnfrageFDP+Sül: Tankstelle Kalkumer straße - vertagt
+- TOP 18: Anfrage Meier: Bruthilfen - vertagt
+- TOP 19: Anfrage Grüne: Baumbestand in Privatbesitz - vertagt
+- TOP 20: Anfrage Freitag (SPD): Autohändler Driburger Straße - vertagt
+- TOP 21: Anfrage Daxenberger: Verkauf von Holz Aaper Wald - vertagt
+- TOP 22: Antrag CDU, FDP, Bü90/Grüne: Grundstück Nutzung Urban Gardening - vertagt
+- TOP 23: Antrag FDP/CDU: Busanbindung Airport City - vertagt
+- TOP 24: Antrag Grüne: Bürgerbeteiligung Gasleitung - vertagt
+- TOP 25: Antrag FDP und CDU: Bau- und Planungsmaßnahmen Theodorstraße - vertagt
+- TOP 26: Trödelmärkte Rather Broich 1. Halbjahr 2016 - einstimmig beschlossen
+- TOP 27: Zuschussvergabe und Förderung Dritter 2015 - einstimmig beschlossen
+- TOP 28: Beschlusskontrolle Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 29: MdV - KSP Schwietzkestraße - 176/91/2015 - zur Kenntnis genommen
+- TOP 30: MdV - Fußgängersicherheit An der Piwipp usw. - zur Kenntnis genommen
+- TOP 31: MdV - Hundeauslaufwiese Tunneldeckel A44 - zur Kenntnis genommen
+- TOP 32: MdV - Bahnlärm in der Bezirksvertretung 6 (176/152/2015) - zur Kenntnis genommen
+- TOP 33: MdV - Vogelsanger Weg/ALDI - Zebrastreifen - zur Kenntnis genommen
+- TOP 34: MdV - Spender für Hundekotbeutel Einbrunger Weg - zur Kenntnis genommen
+- TOP 35: MdV- Baumfällungen aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 36: MdV - Ersatzpflanzung Lichtenbroich - zur Kenntnis genommen
+- TOP 37: MdV - Wildtierbestand in der Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 38: Mdv - Hundeauslaufwiese im Flughafenpark - zur Kenntnis genommen
+- TOP 39: MdV - Fernwärme Unterrath - zur Kenntnis genommen
+- TOP 40: Sitzungen BV 6 in 2016 - zur Kenntnis genommen
+- TOP 41: Bauunterhaltungsmittel 2015 - einstimmig beschlossen
