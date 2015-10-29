@@ -1,0 +1,61 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-10-29T17:00:00+01:00
+- Ende: 2015-10-29T19:50:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251068.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251068.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251068.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Verpflichtung eines Mitgliedes der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 4: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 5: Straßenumbau Sebastiansweg - mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Sport und Bewegung in Düsseldorf - zur Kenntnis genommen
+- TOP 8: Lebenssituation von Kindern und Jugendlichen in Düsseldorf - zur Kenntnis genommen
+- TOP 9: Rahmenplan Einzelhandel 2015 - Vorentwurf - - einstimmig beschlossen
+- TOP 10: Weihnachtsmarkt in Unterbach - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 13: Wohnungen im Stadtbezirk 8 - beantwortet
+- TOP 14: Im Hochfeld - ehemaliges REWE-Gelände - beantwortet
+- TOP 15: Radwegeplanung Höherweg - beantwortet
+- TOP 16: Ortsumgehung Flingern 2. Bauabschnitt - beantwortet
+- TOP 17: Renaturierung Südliche Düssel - beantwortet
+- TOP 18: Luftmessbericht Stadtbezirk 8 - beantwortet
+- TOP 19: Straßensanierungsmaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 20: Barrierefreie Bushaltestellen im Stadtbezirk 8 - beantwortet
+- TOP 21: Baumfällungen im Stadtbezirk 8 - beantwortet
+- TOP 22: Jugendfreizeiteinrichtung Gatherweg - beantwortet
+- TOP 23: Parken auf Mittelstreifen im Stadtbezirk 8 - beantwortet
+- TOP 24: Umgestaltung Kreuzungsbereich Sandträgerweg / Gubener Straße / Neusalzer Weg - beantwortet
+- TOP 25: Kulturbahnhof Eller - beantwortet
+- TOP 26: Bücherbus im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Flüchtlingsunterkunft Posener Straße - einstimmig beschlossen
+- TOP 28: Schaltkästen im Bereich Parkplatz Eller-Mitte und Gertrudisplatz - einstimmig beschlossen
+- TOP 29: Bahnböschung Eller-Mitte - einstimmig beschlossen
+- TOP 30: Straßenbeleuchtung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 31: Ampelschaltung Am Zault / Millrather Weg - einstimmig beschlossen
+- TOP 32: Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 33: Gestaltung Freiheitplatz - einstimmig beschlossen
+- TOP 34: Gaslaternen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Behindertenparkplatz Am Pfaffenbusch - zur Kenntnis genommen
+- TOP 37: Bauvorhaben Unterbacher Straße / Am Stufstock / Kempgensweg - zur Kenntnis genommen
+- TOP 38: Verkehrssicherheit Am Turnisch / Reisholzer Straße - zur Kenntnis genommen
+- TOP 39: Kanalsanierung Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 40: Verkehrsregelung Karlsruher Straße / Marburger Straße - zur Kenntnis genommen
+- TOP 41: Kleingartenanlage Vennhauser Allee 71 - zur Kenntnis genommen
+- TOP 42: Luftmessbericht Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Sitzungstermine der Bezirksvertretung 8 - zur Kenntnis genommen
+- TOP 44: Geschwindigkeitsregelung Kamper Weg - zur Kenntnis genommen
