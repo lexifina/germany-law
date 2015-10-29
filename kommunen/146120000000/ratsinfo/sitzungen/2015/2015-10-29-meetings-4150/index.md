@@ -1,0 +1,70 @@
+# 17. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-10-29T16:00:00+01:00
+- Ende: 2015-10-29T21:24:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/4150
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/4150
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00226301.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde
+- TOP 3.1: Personalbedarf im Bereich Asyl - erledigt
+- TOP 3.2: Sicherung Asylbewerberunterkünfte - erledigt
+- TOP 3.3: Personalkostenbudget - erledigt
+- TOP 3.4: Zustand der Sosaer Straße - erledigt
+- TOP 3.5: Prävention und Sicherheit in Dresden - erledigt
+- TOP 3.6: Betreiberkonzepte für Asyl-Notunterkünfte in Dresden - erledigt
+- TOP 4: Aktuelle Stunde: Weitere Planungen der Landeshauptstadt Dresden bei der Asylbewerber-Unterbringung - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 5.1: Ausschuss für Wirtschaftsförderung - Einigung
+- TOP 5.2: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Einigung
+- TOP 5.3: Ausschuss für Gesundheit (Eigenbetriebe der Krankenhäuser) - Einigung
+- TOP 5.4: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Einigung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Beiräte (Fraktionssitze)
+- TOP 6.1: Seniorenbeirat - Einigung
+- TOP 6.2: Integrations- und Ausländerbeirat - Einigung
+- TOP 6.3: Beirat Gesunde Städte - Einigung
+- TOP 6.4: Kleingartenbeirat - Einigung
+- TOP 6.5: Beirat für Menschen mit Behinderungen - Einigung
+- TOP 6.6: Wohnbeirat - Einigung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Aufsichtsräte
+- TOP 7.1: Aufsichtsrat der STESAD GmbH - Einigung
+- TOP 7.2: Aufsichtsrat der Dresdner Verkehrsbetriebe AG - Einigung
+- TOP 7.3: Aufsichtsrat der Dresden Marketing GmbH - Einigung
+- TOP 8: Umbesetzungen Ortsbeiräte
+- TOP 8.1: Umbesetzung im Ortsbeirat Leuben - Einigung
+- TOP 8.2: Umbesetzung im Ortsbeirat Neustadt - Einigung
+- TOP 8.3: Umbesetzung im Ortsbeirat Blasewitz - Einigung
+- TOP 8.4: Nachbesetzung im Ortsbeirat Cotta - Einigung
+- TOP 8.5: Umbesetzung im OBR Pieschen - Einigung
+- TOP 9: Umbesetzung Verbandsversammlung des Zweckverbandes VVO (Z-VOE) - gewählt
+- TOP 10: Umbesetzung Vorstand Heinrich-Schütz-Konservatorium - zurückgezogen
+- TOP 11: Tagesordnungspunkte ohne Debatte
+- TOP 12: Vertagungen der Stadtratssitzung vom 24. September 2015
+- TOP 12.1: Reihenfolge der Vertretung des Oberbürgermeisters durch die Beigeordneten im Falle der Verhinderung - Zustimmung
+- TOP 12.2: Förderung von Angeboten nach Fachförderrichtlinie Sozialamt vom 19. Oktober 2009 im Haushaltsjahr 2015/2016 - Zustimmung mit Änderung
+- TOP 12.3: Schließung der Kindertageseinrichtung Oskar-Seyffert-Straße 11 in 01189 Dresden - punktweise Abstimmung mit Ergänzung
+- TOP 12.4: Aufnahme der Kindertageseinrichtung Loschwitzer Straße 23 in den Bedarfsplan der Landeshauptstadt Dresden unter der Trägerschaft der BEB Dienstleistung GmbH Dresden-Mitte - Ersetzung
+- TOP 12.5: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2015/2016 - Zustimmung mit Änderung
+- TOP 12.6: Kinderbetreuung gut bezahlen: Eltern bei Mehraufwendungen für Ersatzbetreuung entlasten - Vertagung
+- TOP 12.7: Satzung der Landeshauptstadt Dresden zur Nutzung öffentlicher Flächen für Jahr- und Spezialmärkte (Jahr- und Spezialmarktsatzung) - Vertagung
+- TOP 12.8: Gesundheit, Gesunderhaltung und Gesundheitsförderung der Einwohnerinnen und Einwohner Dresdens- Umsetzung der sächsischen Gesundheitsziele in Dresden - Vertagung
+- TOP 13: Aufhebung des Erbbaurechtes für das Grundstück Junghansstraße 2 - Zustimmung
+- TOP 14: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 15: Satzung zur Änderung der Zweitwohnungssteuersatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Satzung der Landeshauptstadt Dresden über die Durchführung einer Kommunalstatistik zur Erhebung von Daten für die Erstellung des Dresdner Mietspiegels (Mietspiegel-Satzung) vom xx.xx.2015 - Zustimmung
+- TOP 17: Eintrittspreise im Europäischen Zentrum der Künste Hellerau ab der Spielzeit 2015/2016 - Zustimmung mit Änderung
+- TOP 18: Anmietung einer neu zu schaffenden Kindertageseinrichtung nach Umbau und Sanierung des Gebäudebestandes auf einer Teilfläche der Liegenschaft Max-Schwan-Straße 1 in 01156 Dresden sowie Aufnahme der Kindertageseinrichtung in den Bedarfsplan - Zustimmung
+- TOP 19: Kostensatzveränderung aufgrund eines Trägerwechsels rückwirkend zum 1. Januar 2015 im Übergangswohnheim Mathildenstraße 15 - Zustimmung
+- TOP 20: Vorplanungen der Verkehrsanlagen - Zustimmung
+- TOP 21: Neubenennung von Straßen und Wegen - Zustimmung
+- TOP 22: Geplante Erweiterung des Palitzschhofes als Kulturzentrum in Prohlis umsetzen - Zustimmung mit Änderung
+- TOP 23: Damit Dresden weiter summt! Aktionsplan gegen das Bienensterben - Zustimmung mit Änderung
