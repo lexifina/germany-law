@@ -1,0 +1,139 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2015-10-29T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3510683
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3510683
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Wahl einer/s neuen/r UA-Vorsitzenden/r Neubesetzung der UA
+- TOP 1.1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.1.3: Ergänzungen zur Tagesordnung
+- TOP 1.6.: 8.1.18 Fällerlaubnis Am Eulenhorst 55a (s. auch TOP 8.2.1)
+- TOP 1.7.: 8.2.48 Schäßburger Straße 10
+- TOP 1.8.: 8.2.49 Elfriedenstraße 35
+- TOP 1.9.: 8.2.50 Solalindenstraße 83
+- TOP 1.10.: 8.2.51 Elfriedenstraße 17 (2. Antrag)
+- TOP 1.11.: 10.3.6 Vorstellung des SWM Projektes "Seismik-Messungen in München" Bericht über die Vorstellung des Projektes im UA Infrastruktur und Stadtteilentwicklung - <div>zur Kenntnis genommen</div>
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 2.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung Horst Salzmann Weg - Jugendspielplatz im 15. Stadtbezirk Trudering-Riem
+- TOP 3: Bürgeranliegen
+- TOP 3.1.: Landshamer Straße - Verkehrs-/Parksituation - <div>Weiterleitung an die Polizei</div>
+- TOP 3.2.: Einrichtung einer Kurzparkzone in der Kreillerstraße - <div>Vertagung in die nächste Sitzung des UA Bau und Verkehr</div>
+- TOP 3.3.: Waldweg zwischen Jagdhornstraße und Von-Eckert-Platz - <div>Weiterleitung an das Baureferat unter Beteiligung der Unteren Naturschutzbehörde</div>
+- TOP 3.4.: Habichtstraße - absolutes Halteverbot - <div>Weiterleitung an das KVR zur Prüfung</div>
+- TOP 3.5.: Kreillerstr. 189 - 191 Garageneinfahrt - <div>Weiterleitung an das Baureferat und das KVR sowie die Polizei</div>
+- TOP 10.10.5: UA Schule, Soziales und Kultur
+- TOP 3.5.1.: Nutzung der Sporthalle der Grundschule am Ilse-von-Twardowsky-Platz durch den TV Riem-Dornach - <div>Weiterleitung an das RBS</div>
+- TOP 3.5.3.7: ohne Vorberatung im UA
+- TOP 3.5.1.: Willy-Brandt-Allee Gemeinschaftsunterkunft: Gestaltung der Außenanlagen - <div>Weiterleitung an das Sozialreferat</div>
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 4.1.: Gelände für eine weitere Grundschule im 15. Stadtbezirk und Bau des 3. Zuges mit Schwimmbad der Riemer Grundschule - <div>Weiterleitung RBS</div>
+- TOP 4.2.: STATTAUTO / Neue Station Feldbergstraße - <div>Weiterleitung PlanRef</div>
+- TOP 4.3.: Verteilerkästen für Street-Art - <div>Weiterleitung an das RAW</div>
+- TOP 4.4.: Messestadt 4. Bauabschnitt wann kommt hier ein Unterflurcontainer für Wertstoffe - <div>Weiterleitung Kommunalreferat</div>
+- TOP 4.5.: Tempo 30 vor der Pestalozzi Realschule in der Truderinger Straße - <div>Weiterleitung KVR</div>
+- TOP 4.6.: Verlegung der Wasserwacht am Riemer See - <div>Weiterleitung an das Baureferat</div>
+- TOP 4.7.: Öffentlichkeitsveranstaltung zur künftigen Verkehrserschließung des ehemaligen "Piedestorfer Geländes" - <div>Weiterleitung PlanRef</div>
+- TOP 4.8.: Absolutes Halteverbot in der Wimbachtalstraße bei Einmündung von der Friedenspromenade - <div>Weiterleitung KVR</div>
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 5.1.: Errichtung von Absperrpfosten am neu erstellten Schulradweg Trudering- Messestadt - <div>zur Kenntnis genommen</div>
+- TOP 5.2.: Überprüfung der Umlaufzeiten und Zahl der eingesetzten Fahrzeuge der Buslinie 146 - <div>zur Kenntnis genommen</div>
+- TOP 5.3.: Reicht die Geothermie Riem auch für das neue Schulzentrum? - <div>zur Kenntnis genommen</div>
+- TOP 5.4.: Besseres Notfallmanagement für die Tiefgarage der Riem- Arcaden - <div>zur Kenntnis genommen</div>
+- TOP 5.5.: Einrichtung einer Anwohnerparkzone in der Marianne- Plehn- Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.6.: Neue Heimat für die Truderinger Schützen Antrag Nr. 08-14 / B 05682 des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 20.02.2014 Sitzungsvorlage Nr. 14-20 / V 03324 Beschluss des Sportausschusses des Stadtrates vom 16.09.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 5.7.: Zonenhaltverbot Messestadt Ost - <div>zur Kenntnis genommen</div>
+- TOP 5.8.: Zum Riemer See mit dem Leihrad- Ausleihstation bei S- Bahnhof Gronsdorf sinnvoll? (Antwortschreiben des Referates für Arbeit und Wirtschaft) - <div>zur Kenntnis genommen</div>
+- TOP 5.9.: Erweiterung der Schulsportanlage an der Grundschule Astrrid- Lindgren- Straße - <div>zur Kenntnis genommen</div>
+- TOP 5.10.: Radverkehrsführung in der Gartenstadtstraße - <div>zur Kenntnis genommen</div>
+- TOP 5.11.: Optimale Beleuchtung für die Grundschule in Riem - <div>zur Kenntnis genommen</div>
+- TOP 5.12.: Was geschieht mit dem Standort SBH Trudering? - <div>zur Kenntnis genommen (Änderung der FF und neue Frist)</div>
+- TOP 5.13.: Truderinger Rathaus - <div>zur Kenntnis genommen</div>
+- TOP 5.14.: Behördensprechstunde in den Gemeinschaftsunterkünften im 15. Stadtbezirk - <div>zur Kenntnis genommen</div>
+- TOP 5.15.: Messestadt Riem Sicherung und Teilsanierung der Tribünenanlage Projektänderung zum Projektauftrag vom 27.09.2012 Nutzung des Kopfbaus 15. Stadtbezirk Trudering-Riem 1. Genehmigung des geänderten Nutzerbedarfsprogrammes Durchführung in 2 Bauabschnitten 2. Genehmigung der Projektänderung zum Projektauftrag vom 27.09.2012 Bestätigung der Projektkosten (Kostenobergrenze) 1.760.000,00? Zukunftsfähiges Sanierungskonzept der Flughafentribüne BA-Antrags-Nr. 08-14 / B 05872 des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 10.04.2014 Heizung für den Kopfbau BA-Antrags-Nr. 08-14 / B 05875 des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 30.03.2014 Sitzungsvorlage Nr. 14-20 / V 04457 - <div>zur Kenntnis genommen, Nachfrage Sachstand in den Stadtratsfraktionen durch Frau Salzmann-Brünjes</div>
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 7.1.: Vorabanfrage Veranstaltung in Grünanlagen "Polar Run 2016" im Riemer Park und der Sonderfreifläche Riem - Mitte Januar - Mitte/Ende Februar 2016 - <div>nach Antrag</div>
+- TOP 7.2.: Stadteigenes Grundstück Flst. 1476 (Tlfl.) / 1408/281 Tlfl. Gemarkung Trudering-Riem An der Paul-Wassermann-Straße/Am Hüllgraben 15. Stadtbezirk Platz für die Lagerung von Christbäumen - <div>nach Antrag</div>
+- TOP 7.3.: Stadteigenes Grundstück Flst. 1408/281 Tlfl. Gemarkung Trudering-Riem An der Paul-Wassermann-Straße/Am Hüllgraben 15. Stadtbezirk Platz für den Verkauf von Christbäumen - <div>nach Antrag</div>
+- TOP 7.4.: Anhörung Veranstaltung in Grünanlagen; Bergmesse auf dem Rodelhügel am 05.05.2016 - <div>nach Antrag</div>
+- TOP 7.1.: Haltverbot Herderwiesweg Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung - <div>nach Antrag</div>
+- TOP 7.1.: Vollzug von §13 der BA-Satzung Katalog Angelegenheit Nr. 8.2 bzw. 8.3 Erdinger Straße 11, 1 einseitige, freihstehende Plakat Werbetafel im Euro-Format, unbeleuchtet - <div>Ablehnung</div>
+- TOP 7.2.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß §13 der Bezirksausschusssatzung Horst-Salzmann-Weg (Grundstück ohne Bebauung) - <div>nach Antrag</div>
+- TOP 7.3.: Verfahren nach § 4 Abs. 1 BauGB Gemeinde Aschheim Bebauungsplan Nr. 133/02 "Teiländerung des Bebauungsplans Nr. 133 im Bereich des O/W-Walls an der Münchner Straße und Erweiterung des Baugebietes an der Bürgermeister-Ruthus-Straße und der Pfarrer-Fischer-Straße" - <div>nach Antrag</div>
+- TOP 7.4.: Verfahren nach § 13a i.V.m. §13 Abs. 2 Nr. 3 und §4 Abs. 1 BauGB Gemeinde Aschheim Bebauungsplan Nr. 146 "Wohnbauflächen nördlich der Weidachstraße, östlich der Rosenstraße und südlich der Tulpenstraße" - <div>nach Antrag</div>
+- TOP 7.1.: Tsingtauer Straße 31, Fl.Nr. 523/61 Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage - <div>Ablehnung</div>
+- TOP 7.2.: Damaschkestraße 91, Fl.Nr. 344/26 Neubau Mehrfamilien- und Einfamilienhaus - VORBESCHEID - <div>Ablehnung</div>
+- TOP 7.3.: TrdueringerStraße 278, Fl.Nr. 276/0 Nutzungsänderung (EG) der Ladenflächen in Spielothek - <div>keine Behandlung, da Bauherr durch die LBK zur Zurückziehung des Antrags aufgefordert wurde.</div>
+- TOP 7.4.: Birkhahnweg 24, Fl.Nr.: 485/28 Neubau zweier Wohnhäuser (6+4 WE) mit Tiefgarage - <div>Ablehnung</div>
+- TOP 7.5.: Drosselweg 20, Fl.Nr.: 204/65 Neubau eines Fünffamilienhauses mit Garagen (4-fach-Doppelparkanlage + Einzelgarage) - <div>Ablehnung</div>
+- TOP 7.6.: Wasserburger Landstraße 182, Fl.Nr.: 213/13 Neubau einer Radiologie mit Tiefgarage - <div>ausnahmsweise Zustimmung zur Befreiung hinsichtlich der beiden Überschreitungen der Bauräume.</div>
+- TOP 7.7.: Mönchbergstraße 19, Fl.Nr. 334/217 Neubau dreier Doppelhaushälften und eines Wohnhauses, Abbruch Bestand - <div>nach Antrag</div>
+- TOP 7.1.: Erweiterung der GS Riem um ein Schulschwimmbecken (TOP 4.1 vom 17.09.2015) - <div>Zustimmung, mit der Anpassung der grundsätzlichen Prüfung eines Standortes</div>
+- TOP 7.2.: Sportentwicklung in der Landeshauptstadt München Sitzungsvorlage Nr. 14-20 / V 04256 verschiedene BA-Anträge und BV-Empfehlungen Beschluss des Sportausschusses des Stadtrates vom 02.12.2015 (VB) - <div>Zustimmung mit der Bitte um Berücksichtigung der neuen Zahlen (s. Protokollnotiz)</div>
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.1.1.: Frau von Uta Straße 19 Gartenstadtstraße 54 Graßdorferweg 3 Ingeborgstraße 20 Kathreinweg 22 Lamprechtstraße 5 Mattseestraße 21 Plumserjochstraße 6a Rotfuchsweg 9 Solalindenstraße 49 Schwanenweg 12 Teuchertstraße 26-28 Truderinger Straße 210 Tsingtauer Straße 69-71 Wachtelweg 38 Wasserburger Landstraße 153 Waterbergstraße 1 - <div>zur Kenntnis genommen</div>
+- TOP 8.1.8.2: Beantragte Baumfällungen
+- TOP 8.1.1.: Am Eulenhorst 55a Anechostraße 35 Bajuwarenstraße 99 Batschkastraße 22 Birkhahnweg (bisher ohne Hausr.) Dompfaffweg 3 Drosselweg 33 Dualastraße 8 Edeltrautstraße 17 Elritzenstraße 15 Emplstraße 3 Feldbergstraße 58 Geitnerweg 18 Gerstäckerstraße 6a - Ablehnung Gerstäckerstraße 45 Günderogestraße 6 Hippelstraße 69 Iltisstraße 44 In der Rosenau 9 Kathreinweg 22 - Fällerlaubnis (s. TOP 8.1) Kirchtruderinger Straße 19 Lachenmeyrstraße 29 Mattseestr. 21 - Fällerlaubnis (s. TOP 8.1) Nauestraße 9 Otto-Lederer-Weg 19 Rotfuchsweg 9 Salzmesserstraße 26 Scheibmeirstraße 46 Schramminger Weg 52 Teuchertstraße 4 Teuchertstraße 61 Togostraße 45 Tsingtauer Straße 6 Tsingtauer Straße 31 Tsingtauer Straße 69/71 - Fällerlaubnis (s. TOP 8.1) Tsingtauer Straße 80 Tsingtauer Straße 82 Vogesenstr. 11 Von Erckert Straße 47 (Haus A) Von Erckert Straße 47 (Haus B) Von Erckert Straße 74 Wachtelweg 24 Wasserburger Landstraße 19 Wasserburger Landstraße 36 Zeisigweg 9 Zeisigweg 16 - <div>Zustimmung zum Votum des UA, auf das UA Protokoll wird verwiesen</div>
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidungen des Vorsitzenden gemäß §20 Abs. 1 Satz 2 BA-Satzung
+- TOP 9.1.1: verkehrsrechtliche Maßnahmen im Umgriff der neuen Grundschule am Ilse-von-Twardowski-Platz - <div>zur Kenntnis genommen</div>
+- TOP 10: Unterrichtungen
+- TOP 10.1.: unveränderte Fortführung von Gaststättenbetrieben: Kleingaststätte Kreta, Stahlgruberring 14 Schank- und Speisewirtschaft Truderinger Waldwirtschaft (ehemaliges Lehners), Wasserburger Landstraße 272 - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Ärger am Platz der Menschenrechte Antwortschreiben ECHO e.V. zu TOP 3.1.1 (Ziffer 2) der Sitzung vom 20.08.2015 - <div>zur Kenntnis genommen; E-Mail an das Sozialreferat mit der Bitte einer schnellen Terminsetzung</div>
+- TOP 10.3.: Verwendungsnachweis Chorgemeinschaft St. Peter und Paul Trudering - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat Empfehlung Nr.14-20 / E 00410 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 16.04.2015 BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden Empfehlung Nr.14-20 / E 00576 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 23.07.2015 Sitzungsvorlage Nr. 14-20 / V 03888 Beschluss des verwaltungs- und Personalausschusses vom 23.09.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Mehrjahresinvestitionsprogramm für die Jahre 2015-2019 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2016 Sitzungsvorlage Nr. 14-20 / V 03316 Beschluss der Vollversammlung des Stadtrates am 29.07.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.3.: Mobilität in Deutschland 2016 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? Antrag Nr. 14-20 / A 01277 von Herrn Stadtrat Richard Quaas vom 31.07.2015 Sitzungsvorlagen Nr. 14-20 / V 03899 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Leibengerstraße und Mittbacher Straße; Beschilderung mit Gefahrenzeichen "Kinder" und Zusatzzeichen "Schule" Verkehrsrechtliche Anordnung nach §45 StVO - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Schulwegsicherheit im Umgriff der neuen Grundschule am Ilse-von-Twardowski-Platz - <div>zur Kenntnis genommen</div>
+- TOP 10.6.: Baumaßnahme Kreiller-/Damaschkestraße Austausch der Lichtsignalanlage und Teilumbau des Fuß- und Radweges - <div>zur Kenntnis genommen</div>
+- TOP 10.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Lehrer-Wirth-Straße - <div>zur Kenntnis genommen</div>
+- TOP 10.8.: Vollzug der Grünanlagensatzung vom 15.06.2012 Baustelleneinrichtung an der Gerstäckerstraße 52c Lfd. Nr. M 03527/15 - <div>zur Kenntnis genommen</div>
+- TOP 10.9.: Friedrich-Creuzer-Straße - Haltverbot verkehrsrechtliche Anordnung nach §45 StVO - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Bebauungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg (westlich), Karl-Marx-Ring (östlich), Niederalmstraße (südlich), Stemplingeranger (nördlich) Bekanntgabe des Wettbewerbsergebnisses und weiteres Vorgehen Sitzungsvorlagen Nr. 14-20 / V 04052 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.: Münchener Bevölkerungsbefragung zur Stadtentwicklung 2016 Sitzungsvorlagen Nr. 14-20 / V 02728 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 (VB) - <div>zur Kenntnis genommen</div>
+- TOP 10.4.: Wohnen in München V 1. Erfahrungsbericht für die Jahre 2013/2014 2. Handlungsempfehlungen 2.1. Geförderter Mietwohnungsbau - Anpassung der Förderung für Projekte, um die Wirtschaftlichkeit trotz unabweisbarer Mehrkosten zu gewährleisten 2.2. Teilweiser Entfall der Anwendung der VOB/A in der Wohnraumförderung Sitzungsvorlagen Nr. 14-20 / V 03584 Beschluss der Vollversammlung des Stadtrates vom 30.09.2015 - <div>zur Kenntnis genommen</div>
+- TOP 10.5.: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels Antrag Nr. 14-20 / A 00660 von DIE LINKE und der ÖDP vom 04.02.2015 Sitzungsvorlagen Nr. 14-20 / V 02900 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum Florastraße 10 Kranichweg 27 Niobestraße 26 Von Eckert Straße 47 Zehntfeldstraße 180 Zeisigweg 26 - <div>zur Kenntnis genommen</div>
+- TOP 10.1.: Mensa-Erweiterungsbau mit Küche sowie zwei Aufenthaltsräumen für die Grundschule an dere Turnerstraße 46 im Stadtbezirk 15 Trudering-Riem Ausführungsgenehmigung Sitzungsvorlage Nr. 14-20 / V 03312 Beschluss des Bildungsausschusses des Stadtrates vom 17.06.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 10.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.: Umsetzung der Baumschutzverordnung in Sendling Empfehlung Nr. 14-20 / E 00256 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 18.11.2014 Sitzungsvorlagen Nr. 14-20 / V 03840 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: 2.1.6 BA eigene Veranstaltung: Stehempfang Flüchtlings-Helferkreise
+- TOP 1.14.: 3.5.1 Nutzung der Sporthalle der Grundschule am Ilse-von-Twardowsky-Platz durch den TV Riem-Dornach BA-Initiative Nr. 14-20 / I 00731
+- TOP 1.4.: 4.9 Zweigstelle des KVR ins Alte Truderinger Rathaus! - und: zwei Gemeinwohlinteressen nicht gegeneinander ausspielen!
+- TOP 1.5.: 7.4.8 Heilwigstraße, Fl. Nr. 334/217 Neubau dreier Doppelhaushälften und eines Wohnhauses, Abbruch Bestand - <div>Ablehnung</div>
+- TOP 1.12.: 10.4.2 Abgesetzt
+- TOP 1.13.: 10.6.2 ehemaliger TOP 10.5.4. - <div>zur Kenntnis genommen</div>
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse Katholische Kirchenstiftung Christi Himmelfahrt Festkonzert am 22.11.2015 - <div>nach Antrag</div>
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e. V. Beschaffung eines Elektrolüfters - <div>nach Antrag</div>
+- TOP 2.1.3.: (E) Budget der Bezirksausschüsse Gewerbe & Eigentümerverband Trudering e. V. (GEVTe.V.) Auf- und Abbau der Weihnachtsbeleuchtung vom 27.11.2015 bis 11.01.2016 - <div>nach Antrag, mit der Betonung dass es sich um einen Defizitausgleich handelt</div>
+- TOP 2.1.4.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Trudering Musikerhonorare für das "Große Truderinger Neujahrskonzert" am 24.01.2016 - <div>nach Antrag</div>
+- TOP 2.1.5.: (E) Budget der Bezirksausschüsse Kindergarten Spatzennest e. V. Austausch von Regalen und Schränken - <div>Vertagung in die nächste Sitzung</div>
+- TOP 10.10.1: UA Allgemeines
+- TOP 10.10.2: UA Bau und Verkehr
+- TOP 10.10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.10.4: UA Planung
+- TOP 10.10.6: UA Umwelt
+- TOP 10.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Schulbauoffensive 2013/2030; Hier Schulstandort: Ernst-Reuter-Straße 4, Planungen zur Situierung der Schulpavillonanlage; Schreiben des Referates für Bildung und Sport vom 07.10.2015
