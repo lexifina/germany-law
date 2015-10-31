@@ -1,4 +1,5 @@
-# Inhaltsübersicht
+# Verordnung des Sächsischen Staatsministeriums der Justiz über die Organisation der Justiz (Sächsische Justizorganisationsverordnung – SächsJOrgVO)
+Inhaltsübersicht
 Teil 1 Gerichtsverfassung, Bereitschaftsdienst und Aufhebung von Richtervorbehalten
 § 1 Kammern für Handelssachen
 § 2 Auswärtige Strafvollstreckungskammern
@@ -6,6 +7,7 @@ Teil 1 Gerichtsverfassung, Bereitschaftsdienst und Aufhebung von Richtervorbehal
 § 4 Zuständigkeit der Zweigstellen
 § 5 Bereitschaftsdienst
 § 5a Aufhebung von Richtervorbehalten
+§ 5b Zuständigkeit im Verfahren über die Bewilligung von Prozesskostenhilfe
 Teil 2 Sonderzuständigkeiten
 Abschnitt 1 Zivilrecht
 Unterabschnitt 1 Prozesskostenhilfe
@@ -16,7 +18,7 @@ Unterabschnitt 2 Bürgerlich-rechtliche Angelegenheiten
 Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
 § 9 Führung des Vereins-, Handels-, Partnerschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
 § 10 Gesellschaftsrechtliche Angelegenheiten
-§ 11 Angelegenheiten nach dem Wertpapiererwerbs- und Übernahmegesetz
+§ 11 Wertpapiererwerbs- und Übernahmegesetz
 § 12 Kartellrecht
 § 13 Wettbewerbsstreitsachen
 Unterabschnitt 4 Gewerblicher Rechtsschutz und Urheberrecht
