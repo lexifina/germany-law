@@ -1,5 +1,5 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 6. Juli 2010
+Rechtsbereinigt mit Stand vom 1. November 2015
 Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
@@ -38,7 +38,9 @@ Fünfter Abschnitt Frühförderung, Schutz von Kindern und Jugendlichen in Pfleg
 § 30 Mitteilungspflichten der Einrichtungsträger und Jugendämter
 § 31 Zusammenwirken aufsichtsführender Stellen
 § 32 Sicherstellung des Schulunterrichts bei Gewährung von Hilfe zur Erziehung in einer Einrichtung
-Sechster Abschnitt Sonstige Vorschriften
+Sechster Abschnitt Unbegleitete ausländische Kinder und Jugendliche
+§ 32a Verteilung
+Siebenter Abschnitt Sonstige Vorschriften
 § 33 Zuständigkeiten
 § 34 Befreiung von familiengerichtlicher Aufsicht
 § 35 Verwaltung des Mündelvermögens
@@ -46,7 +48,7 @@ Sechster Abschnitt Sonstige Vorschriften
 § 37 Zuständigkeit nach dem Jugendschutzgesetz
 § 38 Erlaubnis zur Übernahme von Vormundschaften, Pflegschaften und Beistandschaften durch Vereine
 § 39 Vereinsbeistandschaften
-Siebenter Abschnitt Übergangs-, Durchführungs- und Verwaltungsvorschriften
+Achter Abschnitt Übergangs-, Durchführungs- und Verwaltungsvorschriften
 § 40 Anwendung des Zehnten Buches Sozialgesetzbuch
 § 41 Verwaltungsvorschriften
 § 42 (Inkrafttreten)
