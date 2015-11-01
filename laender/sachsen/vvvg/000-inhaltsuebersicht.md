@@ -75,4 +75,4 @@ Teil 6 Schlussbestimmungen
 § 53 Übergangsregelung
 § 54 Fristen und Termine
 § 54a Einschränkung von Grundrechten
-§ 55 In-Kraft-Treten
+§ 55 Inkrafttreten
