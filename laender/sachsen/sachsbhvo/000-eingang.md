@@ -1,6 +1,7 @@
 # Verordnung des Sächsischen Staatsministeriums der Finanzen über die Gewährung von Beihilfe in Krankheits-, Pflege-, Geburts- und sonstigen Fällen (Sächsische Beihilfeverordnung – SächsBhVO)
 erlassen als Artikel 21 der Sächsischen Dienstrechtsneuordnungsverordnung
 Vom 16. September 2014
+Rechtsbereinigt mit Stand vom 1. November 2015
 Inhaltsübersicht
 Abschnitt 1 Allgemeine Regelungen
 § 1 Anwendungsbereich und Rechtsnatur
