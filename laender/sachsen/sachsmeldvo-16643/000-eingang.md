@@ -1,0 +1,9 @@
+# Verordnung des Sächsischen Staatsministeriums des Innern und des Sächsischen Staatsministeriums der Finanzen zur Neuregelung melderechtlicher Vorschriften
+Vom 9. Oktober 2015
+Auf Grund
+– des § 11 Nummer 1 bis 8 des Sächsischen Gesetzes zur Ausführung des Bundesmeldegesetzes vom 9. Juli 2014 (SächsGVBl. S. 376) und des § 16 Absatz 1 Satz 2 Nummer 1 des Sächsischen Verwaltungsorganisationsgesetzes vom 25. November 2003 (SächsGVBl. S. 899) verordnet das Staatsministerium des Innern hinsichtlich des Artikels 1,
+– des § 3 Absatz 1 Satz 4 des Sächsischen Früherkennungsdurchführungsgesetzes vom 1. Juni 2006 (SächsGVBl. S. 150), der durch Artikel 9 des Gesetzes vom 9. Juli 2014 (SächsGVBl. S. 376) geändert worden ist, verordnet das Staatsministerium des Innern im Einvernehmen mit dem Staatsministerium für Soziales und Verbraucherschutz hinsichtlich des Artikels 1 § 31,
+– des § 52 des Sächsischen Wahlgesetzes in der Fassung der Bekanntmachung vom 15. September 2003 (SächsGVBl. S. 525) verordnet das Staatsministerium des Innern hinsichtlich des Artikels 2 Absatz 1,
+– des § 62 des Kommunalwahlgesetzes in der Fassung der Bekanntmachung vom 3. März 2014 (SächsGVBl. S. 211) verordnet das Staatsministerium des Innern hinsichtlich des Artikels 2 Absatz 2,
+– des § 6 Absatz 2 des Verwaltungskostengesetzes des Freistaates Sachsen in der Fassung der Bekanntmachung vom 17. September 2003 (SächsGVBl. S. 698), der durch Artikel 3 des Gesetzes vom 13. August 2009 (SächsGVBl. S. 438) geändert worden ist, verordnet das Staatsministerium der Finanzen im Einvernehmen mit dem Staatsministerium des Innern hinsichtlich des Artikels 2 Absatz 3 und
+– des § 7 des Verwaltungskostengesetzes des Freistaates Sachsen in der Fassung der Bekanntmachung vom 17. September 2003 (SächsGVBl. S. 698) verordnet das Staatsministerium der Finanzen im Benehmen mit dem Staatsministerium des Innern hinsichtlich des Artikels 2 Absatz 3:
