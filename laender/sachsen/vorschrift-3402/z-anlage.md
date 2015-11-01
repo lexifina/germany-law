@@ -16,18 +16,19 @@ Leipzig I | Borna, Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
 7. | Besteuerung grenzüberschreitender Arbeitnehmerüberlassung sowie die Besteuerung der im Ausland ansässigen Werkvertragsunternehmen und deren Werkvertragsarbeitnehmer, soweit sich die Zuständigkeit nicht nach § 20a AO bestimmt | Chemnitz-Süd | Freistaat Sachsen
 8. | Betriebsprüfung |  | 
 a) | Betriebsprüfung allgemein | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
-Chemnitz-Süd | Chemnitz-Mitte Chemnitz-Süd Freiberg Mittweida
+Chemnitz-Süd | Freiberg Mittweida
 Dresden-Nord | Dresden-Nord Meißen
 Dresden-Süd | Dresden-Süd Freital Pirna
-Hohenstein-Ernstthal | Annaberg Hohenstein-Ernstthal Stollberg Zschopau
-Zwickau | Plauen Schwarzenberg Zwickau
-b) | Amtsbetriebsprüfung | Eilenburg | Eilenburg Oschatz
+b) | Amtsbetriebsprüfung | Annaberg | Annaberg Schwarzenberg Stollberg Zschopau
+Eilenburg | Eilenburg Oschatz
 Grimma | Borna Döbeln Grimma
-c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 10 Millionen Euro | Leipzig II | Borna Eilenburg Grimma Leipzig I Leipzig II Oschatz
-Chemnitz-Süd | Döbeln
+Zwickau | Hohenstein-Ernstthal Zwickau
+c) | Betriebsprüfung Großbetriebe mit Umsatzerlösen ab 10 Millionen Euro | Chemnitz-Süd | Annaberg Chemnitz-Mitte Chemnitz-Süd Döbeln Schwarzenberg Stollberg Zschopau
+Leipzig II | Borna Eilenburg Grimma Leipzig I Leipzig II Oschatz
+Zwickau | Hohenstein-Ernstthal Plauen Zwickau
 d) | land- und forstwirtschaftliche Betriebe (einschließlich Garten- und Landschaftsbaubetriebe mit gewerblichen Einkünften) | Bautzen | Bautzen Görlitz Hoyerswerda Löbau
 Dresden-Nord | Dresden-Nord Dresden-Süd Freital Meißen Pirna
-Hohenstein-Ernstthal | Annaberg Chemnitz-Mitte Chemnitz-Süd Freiberg Hohenstein-Ernstthal Mittweida Plauen Schwarzenberg Stollberg Zschopau Zwickau
+Chemnitz-Süd | Freiberg Mittweida
 e) | Kreditinstitute, Versicherungsunternehmen | Chemnitz-Süd | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Döbeln, Freiberg, Hohenstein-Ernstthal, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Dresden-Nord | Bautzen, Dresden-Nord Dresden-Süd, Freital, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig II | Borna, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz
@@ -64,7 +65,7 @@ für | auf FA (FÄ) | für | auf FA (FÄ)
 Annaberg | Vom Erzgebirgskreis die Gemeinden Annaberg-Buchholz, Bärenstein, Crottendorf, Ehrenfriedersdorf, Elterlein, Gelenau/Erzgeb., Geyer, Jöhstadt, Königswalde, Mildenau, Oberwiesenthal, Scheibenberg, Schlettau, Sehmatal, Tannenberg, Thermalbad Wiesenbad, Thum |  |  |  | 
 Bautzen | Vom Landkreis Bautzen die Gemeinden Bautzen, Bischofswerda, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig, Frankenthal, Göda, Großdubrau, Großharthau, Großpostwitz/O.L., Hochkirch, Königswartha, Kubschütz, Malschwitz, Neschwitz, Neukirch/Lausitz, Obergurig, Puschwitz, Radibor, Rammenau, Schirgiswalde-Kirschau, Schmölln-Putzkau, Sohland a. d. Spree, Steinigtwolmsdorf, Weißenberg, Wilthen |  |  |  | 
 Borna | Vom Landkreis Leipzig die Gemeinden Böhlen, Borna, Elstertrebnitz, Espenhain, Frohburg, Geithain, Groitzsch, Großpösna, Kitzscher, Kohren-Sahlis, Markkleeberg, Markranstädt, Narsdorf, Neukieritzsch, Pegau, Regis-Breitingen, Rötha, Zwenkau |  |  |  | 
-Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  |  | Bewertung des Grundbesitzes | Chemnitz- Süd
+Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  |  | Bewertung des Grundbesitzes | Chemnitz-Süd
  | Altendorf |  |  |  | 
  | Borna-Heinersdorf |  |  |  | 
  | Ebersdorf |  |  |  | 
@@ -89,7 +90,7 @@ Chemnitz-Mitte, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile |  
  | Wittgensdorf |  |  |  | 
  | Yorckgebiet |  |  |  | 
  | Zentrum |  |  |  | 
-Chemnitz-Süd, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile | Bewertung des Grundbesitzes | Chemnitz- Mitte |  | 
+Chemnitz-Süd, Chemnitz | Von der Kreisfreien Stadt Chemnitz die Stadtteile | Bewertung des Grundbesitzes | Chemnitz-Mitte |  | 
 Adelsberg |  |  |  | 
 Altchemnitz |  |  |  | 
  | Bernsdorf |  |  |  | 
