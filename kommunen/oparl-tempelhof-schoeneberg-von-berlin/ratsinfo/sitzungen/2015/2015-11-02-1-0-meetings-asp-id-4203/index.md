@@ -1,0 +1,14 @@
+# 36. nichtöffentliche Sitzung des Ausschusses für Eingaben und Beschwerden
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2015-11-02T18:00:00+01:00
+- Ende: 2015-11-02T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Ratsinformationssystem: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4203
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4203
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
