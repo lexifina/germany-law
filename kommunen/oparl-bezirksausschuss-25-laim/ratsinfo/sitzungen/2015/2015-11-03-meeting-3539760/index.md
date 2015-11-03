@@ -1,0 +1,81 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2015-11-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3539760
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3539760
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Vorstellung der neuen Leitung des Sozialbürgerhauses Laim / Schwanthalerhöhe
+- TOP 1.0: Information zu den geplanten Unterkünften für Flüchtlinge im Einzugsbereich Laim
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Baumfällungen St.-Ulrich-Str. 14
+- TOP 1.2.2.: Parksituation Camerloherstr. 115
+- TOP 1.2.3.: Sicherer Schulweg Senftenauerstraße
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Austausch der Abfallbehälter in den Grünanlagen durch Behälter mit Deckel
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 02.10.15: Flohmarkt am 09.04.16 (Ausweichtermin 30.04.16) auf dem Hogenbergplatz
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 23.09.15: Flohmarkt am 14.05.16 (Ausweichtermin 04.06.16) auf dem Hogenbergplatz
+- TOP 4.3.: Schreiben Direktorium vom 20.10.15: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse; Schluss mit der Bevormundung - Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Schreiben Referat für Stadtplanung und Bauordnung vom 13.10.15: Camerloherstr. 110: Schulbauoffensive, Neubau eines Schulpavillons mit 6 Klassenräumen und 2 Ganztagesbetreuungsräumen befristet bis 31.12.2024; hier: Vollzug der Baumschutzverordnung
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Gemeinsame Sitzung des UA Bildung und Sozialplanung und UA Senioren und Soziales vom 05.10.15
+- TOP 7.2.: BA-Sitzung vom 06.10.15
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kommunalreferat vom 25.09.15: Jubiläumsstiftung der Münchner Bürgerschaft "Alte Heimat" (Schreiben BA vom 18.06.15)
+- TOP 8.2.: Schreiben Baureferat vom 28.09.15: Einbeziehung des BA 21 in die Umgestaltung des Willibaldplatzes (Antrag Nr. 14-20 / B 01483 des BA 21 vom 28.07.15)
+- TOP 8.3.: Schreiben Baureferat vom 12.10.15: Fürstenrieder Straße; Teilsanierung des Radweges zwischen der BAB 96 und der Landsberger Straße
+- TOP 8.4.: Schreiben Baureferat vom 13.10.15: Grünanlage Burgkmairstraße (Schreiben BA vom 27.08.15)
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 24.09.15: Gaststätte "Da Toto", Landsberger Str. 199; Antrag auf unveränderte Fortführung
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 30.09.15: Vollzug der Grünanlagensatzung vom 15.06.12; Baustelleneinrichtung an der Brantstraße
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 01.10.15: Verkehrssituation Käthe-Bauer-Weg / Droste-Hülshoff-Straße
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 05.10.15: Gaststätte "Harry`s Getränkeecke"; Antrag auf Neuerrichtung
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 06.10.15: Absolutes Haltverbot auf der Brücke über die Lindauer Autobahn zwischen Westpark und Westendstraße (Antrag Nr. 14-20 / B 01551 vom 04.08.15)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.09.15: Parkplätze / Lizensierung südliche Anwohnerstraße der Landsberger Str. 283
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 24.09.15: Fällungsantrag Brosamerstr. 8
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.10.15: Faltblatt "Wohnungsmarktdaten München 2014"
+- TOP 8.13.: Schreiben Münchner Stadtentwässerung vom 25.09.15: Projekt: Kanalnetzsanierung Landsberger Straße, 2. BA, Abschnitt Laimer Kreisel; Information über Baumfällung
+- TOP 8.14.: Schreiben Referat für Arbeit und Wirtschaft vom 09.10.15: Bus und Bahn Begleitservice
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 22.09.15: Baumaßnahme der SWM; Stromprojekt Siglstraße - Änderung im Terminablauf
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 28.09.15: Baumaßnahmen der SWM; Fernwärmeprojekt Laim Ost - 1. Bauabschnitt
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 28.09.15: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2015 für den BA
+- TOP 8.18.: Schreiben MVG vom 13.10.15: Information über U-Bahn-Betriebskonzept bei Schienenschleifarbeiten
+- TOP 8.19.: Schreiben Stadtkämmerei vom 12.10.15: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019
+- TOP 8.20.: Schreiben Sozialreferat vom 06.10.15: Jugendzentrum "Das Laimers", Von-der-Pfordten-Str. 59; Erweiterung des Abenteuerspielplatzes, Personalausstattung
+- TOP 8.21.: Schreiben Sozialreferat vom 12.10.15: Antrag auf Zweckentfremdung von Wohnraum; Camerloherstraße
+- TOP 8.22.: Schreiben Direktorium vom 14.10.15: Antrag Nr. 14-20 / B 01092 des BA 16 vom 16.04.15 auf Satzungänderungen; vorzeitige Beendigung von drei Anhörungsverfahren wegen Antragsrücknahme
+- TOP 8.23.: Schreiben Fachstelle für Demokratie - gegen Rechtsextremismus, Rassismus und Menschenfeindlichkeit vom 16.10.15: Veranstaltungsstörungen durch die extreme Rechte
+- TOP 8.24.: Schreiben Referat für Gesundheit und Umwelt vom 14.10.15: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Betrieb von Müllfahrzeugen
+- TOP 8.25.: Schreiben Gleichstellungsstelle für Frauen vom 25.09.15: Protokoll des 24. Treffens der Gleichstellungsbeauftragten und Interessierten der Bezirksausschüsse am 11.06.15
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 19.10.15: Baumaßnahmen der Stadtwerke München; Stichtag: 19.10.15
+- TOP 8.27.: Bautenliste vom 14.09.-20.09.15 1. Erstantragsverfahren a) Lautensackstr. 2a b) Camerloherstr. 110
+- TOP 8.28.: Bautenliste vom 21.09.-27.09.15 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 37 b) Fürstenrieder Str. 21
+- TOP 8.29.: Bautenliste vom 28.09.-04.10.15 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Rushaimerstr. 54
+- TOP 8.30.: Bautenliste vom 05.10.-11.10.15 1. Erstantragsverfahren a) Camerloherstr. 76 b) Josef-Schick-Str. 37 2. Änderungsverfahren a) Fürstenrieder Str. 8 b 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Egetterstr. 3
+- TOP 8.31.: Beschluss des Bezirksausschusses des 5. Stadtbezirkes vom 16.09.15: Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise (Sitzungsvorlage Nr. 14-20 / V 03789)
+- TOP 8.32.: Beschluss des Verwaltungs- und Personalausschusses vom 23.09.15: Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat; BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden (Sitzungsvorlage Nr. 14-20 / V 03888)
+- TOP 8.33.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 24.09.15: Unterflur-Wertstoffinseln in der Altstadt errichten!, Unterflur-Wertstoffinseln auch für sensible Standorte im gesamten Stadtgebiet prüfen (Sitzungsvorlage Nr. 14-20 / V 03993)
+- TOP 8.34.: Beschluss der Vollversammlung vom 30.09.15: Nahverkehrsplan (NVP) der Landeshauptstadt München (Sitzungsvorlage Nr. 14-20 / V 03603)
+- TOP 8.35.: Beschluss der Vollversammlung vom 30.09.15: Wohnen in München V (Sitzungsvorlage Nr. 14-20 / V 03584)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.15: Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 (Sitzungsvorlage Nr. 14-20 / V 02728)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.15: Umsetzung der Baumschutzverordnung in Sendling (Sitzungsvorlage Nr. 14-20 / V 03840)
+- TOP 8.38.: Beschluss des Bauausschusses vom 13.10.15: Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach (Sitzungsvorlage Nr. 14-20 / V 03086)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.15: Zunkunft der Arbeit in München III; München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels (Sitzungsvorlage Nr. 14-20 / V 02900)
+- TOP 8.40.: Schreiben Pfarrjugend Fronleichnahm vom 06.09.15: Verwendungsnachweis über Budget-Zuschuss
+- TOP 8.41.: Schreiben Kleingartenverein SW 12 vom 28.08.15: Verwendungsnachweis über Budget-Zuschuss
+- TOP 8.42.: Schreiben Laimer Spielmäuse e.V. vom 13.10.15: Kurzbericht über bezuschusste Maßnahme
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.962,50 Euro für Faschingstreiben am 06.02.16; Antragsteller: Faschingsclub Laim e. V. - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 2: Beschlussvorlage Referat für Bildung und Sport: Mehr Hortplätze für die Schulen in Laim (Empfehlung Nr. 08-14 / E 02110 der Bürgerversammlung vom 26.11.13) - <div></div>
+- TOP 1.2: Bürgerpost an den BA
