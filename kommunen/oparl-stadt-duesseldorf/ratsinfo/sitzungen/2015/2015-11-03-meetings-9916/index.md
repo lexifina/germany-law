@@ -1,0 +1,55 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-03T16:00:00+01:00
+- Ende: 2015-11-03T20:00:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9916
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/9916
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251437.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251437.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251437.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Arbeit der Zentralen Fachstelle für Wohnungsnotfälle - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Dorotheenplatz - vertagt
+- TOP 7: Barrierefreier Neubau der Bushaltestelle nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 8: Barrierefreier Neubau der Bushaltestellen im Zuge des zu ergänzenden Busnetzes nach Inbetriebnahme d - einstimmig beschlossen
+- TOP 9: Sitzungstermine 2016 - einstimmig beschlossen
+- TOP 10: Fragestunde für Einwohnerinnen und Einwohner - einstimmig beschlossen
+- TOP 11: Mobile Geschwindigkeitsanzeige Ackerstraße - einstimmig beschlossen
+- TOP 12: Theaterlabor Traumgesicht e.V. - mehrheitlich abgelehnt
+- TOP 13: Generationenwerkstatt Flingern-Süd - zur Kenntnis genommen
+- TOP 14: Zuschuss an den Verein Keywork e. V. - mehrheitlich beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel - zur Kenntnis genommen
+- TOP 16: Aufstellung von Fahrradständern im Stadtbezirk - einstimmig beschlossen
+- TOP 17: Barrierefreie Fußgängerbrücke/Hochwasserschutzmaßnahme (23/21/2015) - einstimmig beschlossen
+- TOP 18: Ergebnisse der Untersuchung von Park- und Pendlerverkehren im Stadtbezirk 2 - einstimmig beschlossen
+- TOP 19: Erläuterung Baurecht an der Werdener Straße - einstimmig beschlossen
+- TOP 20: Dorotheenstraße 85, Baumaßnahme - einstimmig beschlossen
+- TOP 21: Zusatzinformation an Straßenschildern - einstimmig beschlossen
+- TOP 22: Gehwegplatten - Instandsetzung - einstimmig beschlossen
+- TOP 23: Rubensstraße - Fahrbahnerneuerung - mehrheitlich abgelehnt
+- TOP 24: Parkraumbewirtschaftung Uhlandstraße / Rethelstraße - einstimmig beschlossen
+- TOP 25: Brahmsplatz - einstimmig beschlossen
+- TOP 26: Eislauf-Trainingshalle Brehmstraße - einstimmig beschlossen
+- TOP 27: Entwicklung Stadtsparkassenfilialnetz - schriftlich beantwortet
+- TOP 28: Parkplätze Grafenberger Allee - schriftlich beantwortet
+- TOP 29: Unterbringung von Flüchtlingen im Stadtbezirk 2 - schriftlich beantwortet
+- TOP 30: Verkehrszählung im Bereich Höherweg / Albertstraße / Behrenstraße - schriftlich beantwortet
+- TOP 31: Blühstreifen bzw. Blühecken und Blumenkübel auf dem Lindenplatz
+- TOP 32: Pflanzzeit - schriftlich beantwortet
+- TOP 33: Anmeldezahlen der Kitas im Stadtbezirk 2 - schriftlich beantwortet
+- TOP 34: Haltestelle Dorotheenstraße 706 - schriftlich beantwortet
+- TOP 35: Fahrradweg Birkenstraße 143 sichern - zur Kenntnis genommen
+- TOP 36: Sitzbank im Kreuzungsbereich Gerresheimer, Mettmanner und Krahestraße - zur Kenntnis genommen
+- TOP 37: Luftmessbericht 2014 - zur Kenntnis genommen
+- TOP 38: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016 - mehrheitlich beschlossen
