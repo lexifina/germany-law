@@ -1,0 +1,60 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2015-11-04T17:02:00+01:00
+- Ende: 2015-11-04T19:11:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/9753
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/9753
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00378699.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion A-R/0042/2015 "Ausbauoffensive Kindertagesbetreuung" - von der Tagesordnung abgesetzt
+- TOP 3: Anonymisierte Bewerbungsverfahren - mehrheitlich geändert beschlossen
+- TOP 4: Jahresabschluss 2014 der Theaterhaus Pumpenhaus gGmbH - einstimmig beschlossen
+- TOP 5: Jahresabschluss 2014 und Wirtschaftsplan 2015 der Institut für vergleichende Städtegeschichte - IStG - GmbH (IStG) - einstimmig beschlossen
+- TOP 6: Nachhaltige städtische Finanzanlagen – Neufassung der städtischen Anlagerichtlinie - mehrheitlich beschlossen
+- TOP 6.1: Nachhaltige städtische Finanzanlagen – Neufassung der städtischen Anlagerichtlinie
+- TOP 7: Umbau Hansaring zur Anbindung des Hafencenters, - Planungs- und Baubeschluss - - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Maßnahmen aufgrund der weiter ansteigenden Flüchtlingszahlen, hier: Zeitlich befristete Flüchtlingseinrichtungen an verschiedenen Standorten - einstimmig beschlossen
+- TOP 9: Absicherung und Ausbau der pädagogischen Angebote für Kinder und Jugendliche aus Flüchtlingseinrichtungen - von der Tagesordnung abgesetzt
+- TOP 10: Europäische Charta , Aktionsplan 2013 - 2015, Auftrag Nr.3 Partizipation von Frauen und Mädchen - einstimmig beschlossen
+- TOP 10.1: Europäische Charta , Aktionsplan 2013 - 2015, Auftrag Nr.3 Partizipation von Frauen und Mädchen
+- TOP 11: Nachhaltige Haushaltssanierung der Stadt Münster (NaSa 2016) - vertagt
+- TOP 12: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2015 - einstimmig beschlossen
+- TOP 13: Entwurf des Jahresabschlusses zum 31.12.2014 der Stadt Münster - einstimmig beschlossen
+- TOP 14: Flughafen Münster/Osnabrück GmbH: Änderung des Gesellschaftsvertrages - einstimmig beschlossen
+- TOP 15: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 16: Ausstieg aus der Gekko-Beteiligung - einstimmig beschlossen
+- TOP 17: Konzernabschluss 2014 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 18: Bürgerumfrage 2015: Zentrale Ergebnisse zu den Themenbereichen "Wohnen" und "Einkaufsmöglichkeiten im Stadtteil" - zur Kenntnis genommen
+- TOP 19: Meldungen der Stadt Münster zum ÖPNV Bedarfsplan 2017 des Landes Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 20: Ausstieg aus der landwirtschaftlichen Klärschlammverwertung - von der Tagesordnung abgesetzt
+- TOP 21: Errichtungsbeschluss zur Sanierung und Erweiterung des Betriebsgebäudes auf der Hauptkläranlage - einstimmig beschlossen
+- TOP 22: Anordnung der Umlegung gemäß § 46 Abs. 1 Baugesetzbuch für den Bereich des aufzustellenden Bebauungsplans Nr. 569 "Südlich Markweg" - von der Tagesordnung abgesetzt
+- TOP 23: Rahmenbedingungen für den Aufbau der 2. städtischen Gesamtschule - ohne Beschlussfassung geschoben
+- TOP 24: Einrichtung: Dreijähriger vollzeitschulischer Bildungsgang "Berufliches Gymnasium für Agrar" am Wilhelm-Emmanuel-von-Ketteler-Berufskolleg zum Schuljahr 2017 - einstimmig beschlossen
+- TOP 25: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 - - einstimmig beschlossen
+- TOP 25.1: Maßnahmenprogramm einer kind- und jugendbezogenen Armutsprävention in Münster - Umsetzung weiterer Maßnahmen 2015 - 2017 -
+- TOP 26: Errichtungsbeschluss: Neubau der Kindertageseinrichtung York-Höfe an der Gasselstiege (ehemaliges TÜV Gelände) in Mitte - einstimmig beschlossen
+- TOP 27: Nachfolgenutzung der Räume in der alten kath. Kita St. Nikolaus Wolbeck - einstimmig beschlossen
+- TOP 28: Streikbedingt eingesparte Personalkosten - Umsetzungsvorschlag zur Mittelverteilung für Kindertageseinrichtungen und Offene Ganztagsschulen - einstimmig beschlossen
+- TOP 29: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Mitte
+- TOP 30.1.1: 39. Änderung FNP - Bebauungsplan Nr. 535 - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 30.1.2: Bebauungsplan Nr. 569 - Beschluss zur Aufstellung - Kenntnisnahme des Entwurfs zur Offenlegung - von der Tagesordnung abgesetzt
+- TOP 30.2: Stadtbezirk Hiltrup
+- TOP 30.2.1: Vorhabenbezogener Bebauungsplan Nr. 543: Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 30.3: Stadtbezirk Südost
+- TOP 30.3.1: 51. Änderung FNP - Vorhabenbezogener Bebauungsplan Nr. 564 - Beschluss über die Stellungnahmen - Abschließender Beschluss - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 30.3.2: Bebauungsplan Nr. 280, vorhabenbezogene 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 31: Verschiedenes
