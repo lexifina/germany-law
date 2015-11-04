@@ -1,0 +1,52 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2015-11-04T18:00:00+01:00
+- Ende: 2015-11-04T21:22:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcOuFaYmGVosOuweLUheNJg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3054
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQKIibgK49UIYxuuzxmFBohG92-i3RoqLWQJ_ln-OudN/Bekanntmachung_Rat_04.11.2015.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSYlknvzYv_kAIXac-NFRRRGhlhGG2YWO6GjiGwOPTB5/Oeffentliche_Niederschrift_Rat_04.11.2015.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 30.09.2015
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Zuführung von Mitteln aus dem Kommunalinvestitionsförderungsgesetz; Antrag der Fraktion Pro!Bürgerschaft/Piraten vom 25.10.2015 - 20 Jastimmen, 17 Neinstimmen, 0 Enthaltungen
+- TOP 3.2: Gutachten auf der Internetseite der Stadt Gronau; Antrag der GAL-Fraktion vom 25.10.2015 - Einstimmig, 0 Enthaltungen
+- TOP 3.3: Straßenschilder in Außenbereichen; Antrag der GAL-Fraktion vom 25.10.2015 - 36 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 3.4: Antrag der Fraktion Die Linke: Entfernung der Wasserzeichen bei den nichtöffentlichen Unterlagen im Sitzungsdienst - 7 Jastimmen, 27 Neinstimmen, 4 Enthaltungen
+- TOP 4.: Schreiben an die Bundeskanzlerin im Kontext der Flüchtlingszuwanderung - Ohne Abstimmung
+- TOP 5.: Jahresabschluss 2014 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Behandlung des Jahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2014 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2014 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 8.: Harmonisierung/Angleichung der Förderung der Heimatvereine Gronau e.V. und Epe e.V. - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neufassung der Verwaltungsgebührensatzung der Stadt Gronau - 34 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 10.: 3. Änderungssatzung zur Satzung für das Jugendamt der Stadt Gronau (Westf.) vom 18.06.2009 - Einstimmig, 3 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 234 "Hoher Weg" Teilbereich I, 3. Änderung, Stadtteil Epe 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und Träger öffentlicher Belange - Einstimmig, 1 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 173 "Brookstraße - Nordwest", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13 a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 3. Beteiligung der Behörden gem. § 4 Abs. 1 BauGB 4. Anordnung der Umlegung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 42 "Bonhoefferring", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und Träger öffentlicher Belange - Einstimmig, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 208 "Buschgarten", 4. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 3. Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltungen
+- TOP 15.: Antrag auf Aufstellung eines vorhabenbezogenen Bebauungsplans an der Lennestraße - Einstimmig, 2 Enthaltungen
+- TOP 16.: Sitzungstermine 2016 - Ohne Abstimmung
+- TOP 17.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 18.: Situation der Unterbringung von Flüchtlingen in Gronau - aktueller Sachstand
+- TOP 18.1: Situation der Unterbringung von Flüchtlingen in Gronau - aktueller Sachstand - Ohne Abstimmung
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Gemeinsame Sitzung des Ausschusses für Schule und Kultur und des Ausschusses für Planen, Bauen und Denkmalschutz
+- TOP 19.2: Förderschule Lernen
+- TOP 20.: Anfragen
+- TOP 20.1: Fehlende Anlage zur Sitzungsvorlage im Fachausschuss (RM Greitenevert)
+- TOP 20.2: Fischsterben nach Bauarbeiten (RM Buchholz)
+- TOP 20.3: Neue Erkenntnisse zum Rettungsdienstvertrag mit dem Kreis Borken? (RM Kendzierski)
+- TOP 20.4: Neuer Termin für den AK Brandschutzbedarfsplan anberaumt? (RM Kendzierski)
+- TOP 20.5: Hegt die Verwaltung Überlegungen zum Umzug der Carl-Sonnenschein-Realschule? (RM Post)
+- TOP 20.6: Wann wird die Beschlusskontrolle im digitalen Sitzungsdienst implementiert? (RM von Borczyskowski)
+- TOP 20.7: Kino-Angebot für Jugendliche in der Luise möglich? (RM Buchholz)
+- TOP 20.8: Videoüberwachung in der Radstation (RM Alfers)
