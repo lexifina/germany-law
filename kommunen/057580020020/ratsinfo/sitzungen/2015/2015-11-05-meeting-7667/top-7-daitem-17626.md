@@ -1,0 +1,10 @@
+# TOP 7.: Unterbringung von Flüchtlingen Erneuerung einer Lüftungsanlage sowie überplanmäßige Mittelbereitstellung
+
+- Sitzung: Rat (12. Sitzung) (2015-11-05)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/17626
+- Ergebnis: 31 Stimme(n) dafür, 1 Stimme(n) dagegen, 0 Enthaltung(en)
+- Beratung: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/7327
+- Beschluss (Datei): Beschlusstext (Unterbringung von Flüchtlingen
+Erneuerung einer Lüftungsanlage sowie überplanmäßige Mittelbereitstellung) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZFOYHmdlqo-3g3IRCfUMv5WnDFpkXa1GVcOUiWcX2PV/Beschlusstext_103-2015_-oeffentlich-_Rat_05.11.2015.pdf
