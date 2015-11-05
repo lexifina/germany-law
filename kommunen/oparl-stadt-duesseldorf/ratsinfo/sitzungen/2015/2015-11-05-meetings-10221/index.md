@@ -1,0 +1,97 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-05T14:00:00+01:00
+- Ende: 2015-11-05T21:50:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10221
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10221
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251862.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251862.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251862.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell Rh Grenda: Fehlendes Internet- WLAN in Flüchtlingsheimen.... - beantwortet
+- TOP 3.2: Anfrage aktuell Rh Grenda: Tour de France - Zuschüssevon städtischen Töchtern, Land + Bund - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion DIE LINKE: Fördermittel für Sozialwohnungen - beantwortet
+- TOP 4.2: AnfrageT ierschutz/FW: Erster Bauabschnitt U81 - beantwortet
+- TOP 4.3: Anfrage Tierschutz/FW: Bildung einer Versorgungsrücklage - beantwortet
+- TOP 4.4: Anfrage Bü90-Grü: Sanierung der Boden- und Grundwasser-Verunreinigungen mit PFT - beantwortet
+- TOP 4.5: Anfrage Bü90-Grü: Chancen für die Stadt Düsseldorf - Zugang zu Förderprojekten bestmöglich unterstü - beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Maniera: Registrierung von Asylanten und Flüchtlingen in Düsseldorf - schriftlich beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Maniera: Erstuntersuchung von Asylanten und Flüchtlingen - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfrau Krüger: Sperrklausel bei den nächsten Kommunalwahlen in NRW - schriftlich beantwortet
+- TOP 4.9: Anfrage Die Linke: Ehrenamtliche Flüchtlingshilfe am Flughafen-Bahnhof - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Grenda: Gelände nördliche Paulsmühlenstrasse - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Grenda: Nutzung von Geoinformationen in Düsseldorf - schriftlich beantwortet
+- TOP 4.12: Anfrage der CDU-Ratsfraktion: Mehr Flüchtlinge, mehr Personal? - schriftlich beantwortet
+- TOP 4.13: Anfrage der CDU-Ratsfraktion: Status quo und Entwicklungspotential der ITK Rheinland - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommisssion RRX - zur Kenntnis genommen
+- TOP 7: Bereitstellung überplanmäßiger Mittel zur Anmietung, Herrichtung und Unterhaltung von Flächen zur Un - einstimmig beschlossen
+- TOP 8: Brehmstraße 27a, Eisstadion - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 9: Nachrüstung Blindenleitsystem und brandschutztechnische Ertüchtigung des U-Bahnhofes Dssd HBF - einstimmig beschlossen
+- TOP 10: Sanierung der Ufermauer im Zollhafen - Änderungsbeschluss - - einstimmig beschlossen
+- TOP 11: Theodor-Litt-Straße 5-11 – Theodor-Litt-Realschule Gesamtsanierung inklusive PCB-Sanierung - Grundsa - einstimmig beschlossen
+- TOP 12: Änderung der Parkgebührenordnung - mehrheitlich beschlossen
+- TOP 12.1: Änderungsantrag der CDU-Ratsfraktion: Änderung der Parkgebührenordnung - mehrheitlich abgelehnt
+- TOP 13: Gesundheitskarte für Flüchtlinge - mehrheitlich beschlossen
+- TOP 13.1: Ergänzungsantrag des Ratsherrn Grenda: Gesundheitskarte für Flüchtlinge - mehrheitlich beschlossen
+- TOP 14: Neustrukturierung des Stadtmarketings - mehrheitlich beschlossen
+- TOP 15: Tour de France 2017 - mehrheitlich beschlossen
+- TOP 15.1: Änderungsantrag des Ratsherrn Grenda: Tour de France 2017 - mehrheitlich beschlossen
+- TOP 16: Stadtbüchereien - Einstellung des Betriebs des Bücherbusses - zurückgezogen
+- TOP 16.1: ÄA Die Linke: Stadtbüchereien - Einstellung des Betriebs des Bücherbusses - zurückgezogen
+- TOP 17: Benennung eines Saals in der Tonhalle - einstimmig beschlossen
+- TOP 18: Annahme einer Schenkung für die städtische Sammlung des Museum Kunstpalast, Glasmuseum Hentrich - einstimmig beschlossen
+- TOP 19: Annahme einer Schenkung für die städtische Sammlung des Museum Kunstpalast, AFORK - einstimmig beschlossen
+- TOP 20: Annahme eines Vermächtnisses für die städtische Sammlung des Museum Kunstpalast, Gemäldegalerie - einstimmig beschlossen
+- TOP 21: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - zur Kenntnis genommen
+- TOP 22: Umsetzung Maßnahmen der 4. Integrierten Jugendhilfe- und Schulentwicklungsplanung - zur Kenntnis genommen
+- TOP 23: Zweckverband Verkehrsverbund Rhein Ruhr - zur Kenntnis genommen
+- TOP 24: Änderung der Zuständigkeitsordnung - zur Kenntnis genommen
+- TOP 25: Genehmigung einer dringlichen Entscheidung gem. § 60 Abs. 1 Satz 2: Einrichtung und Betrieb eines Ve - einstimmig beschlossen
+- TOP 26: Genehmigung eines 60ers:: Finanzierungsbeschluss zum Bau einer 2. Trainingshalle - einstimmig beschlossen
+- TOP 27: Kleine Kommission Rhein-Ruhr-Express (RRX) - einstimmig beschlossen
+- TOP 28: Vertretung des Oberbürgermeisters - einstimmig beschlossen
+- TOP 29: Neubesetzung der bisher von Herrn Stadtdirektor und Stadtkämmerer a. D. Manfred Abrahams wahrgenomme - einstimmig beschlossen
+- TOP 30: Aufsichtsrat der neu zu gründenden SWD Städt. Wohnungs-Bau GmbH & Co. KG Düsseldorf – Neuwahl – - zurückgezogen
+- TOP 31: Aufsichtsrat der Düsseldorf Congress Sport & Event GmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 32: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 33: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 34: Verbandsversammlung des Zweckverbandes Verkehrsbund Rhein-Ruhr - einstimmig beschlossen
+- TOP 35: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - einstimmig beschlossen
+- TOP 36: Beirat der Bädergesellschaft Düsseldorf mbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 37: Kuratorium der ZERO-Foundation - Ersatzwahl - einstimmig beschlossen
+- TOP 38: Kuratorium der Stiftung Museum Kunstpalast - Ersatzwahl - einstimmig beschlossen
+- TOP 39: Bestellung sachverständiger Bürgerinnen und Bürger für die Teilnahme an Beratungen des Kulturausschu - einstimmig beschlossen
+- TOP 40: Ersatzwahl eines stellvertretenden Mitgliedes der im Bereich des Jugendamtes wirkenden und anerkannt - einstimmig beschlossen
+- TOP 41: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 42: Erklärung gem. 125(2) - Bergische Landstraße, Teil 3 - mehrheitlich beschlossen
+- TOP 43: Erklärung gem. 125 (2) Ickerswarder Str. ,Teil 4 - mehrheitlich beschlossen
+- TOP 44: Erklärung gem. 125(2) - Rudolfstraße - einstimmig beschlossen
+- TOP 45: B-Plan-Entwurf Nr. 03/012 - Mindener Str.- Stellungn.; Änderungen; Satzung - mehrheitlich beschlossen
+- TOP 46: Antrag des Beirats für Menschen mit Behinderung: - zur Kenntnis genommen
+- TOP 47: Anträge
+- TOP 47.1: Antrag SPD,BÜ90-GRÜ und FDP: Finanzielle Unterstützung der Kommunen bei der Versorgung und Unter - zurückgezogen
+- TOP 47.2: Antrag von, SPD, BÜ90-GRÜ und FDP:Neue Bleiberechtsregelung: sicherer Aufenthalt
+- TOP 47.3: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Schwimmbad im Rhein – Anker für neues urbanes L
+- TOP 47.4: Antrag CDU: Finanzielle Unterstützung der Kommunen bei der Versorgung und Unterbringung von Flüchtli
+- TOP 47.5: Antrag der CDU-Ratsfraktion: Städtebaulicher Wettbewerb für die Schadowstraße
+- TOP 47.5.1: EA Die Linke: Offener und anonymer städtebaulicher Wettbewerb für die Schadowstraße
+- TOP 47.6: Antrag Die Linke: Keine städtischen Mittel für die Tour de France
+- TOP 47.7: Antrag von SPD, BÜ90/GRÜ und FDP: Saubere Luft für Düsseldorf: Reduzierung von NOx- -Emissionen vora
+- TOP 47.8: Antrag der CDU-Ratsfraktion: Vorausschauendes Personalkonzept auf den Weg bringen
+- TOP 47.9: Antrag der CDU-Ratsfraktion: Flutlichtanlage DJK TuSA 06 Düsseldorf e.V. - zurückgezogen
+- TOP 48: Änderungen in der Besetzung des Vorstandes der Psychosozialen Arbeitsgemeinschaft in Düsseldorf - einstimmig beschlossen
+- TOP 49: Änderung in der Besetzung der Düsseldorfer Gesundheitskonferenz - einstimmig beschlossen
+- TOP 50: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH - mehrheitlich beschlossen
+- TOP 51: Wahl eines Mitgliedes sowie dessen Stellvertretung in den Landesverband der Volkshochschulen e.V. - einstimmig beschlossen
