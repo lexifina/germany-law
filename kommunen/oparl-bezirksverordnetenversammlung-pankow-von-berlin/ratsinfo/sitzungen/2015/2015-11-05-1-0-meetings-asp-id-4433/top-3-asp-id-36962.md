@@ -1,0 +1,7 @@
+# TOP 3: Infrastrukturkonzept: Vorstellung und Diskussion
+
+- Sitzung: Öffentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2015-11-05)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=36962
+- Ergebnis: erledigt
