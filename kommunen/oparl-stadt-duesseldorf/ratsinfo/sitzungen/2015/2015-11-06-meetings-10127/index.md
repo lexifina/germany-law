@@ -1,0 +1,55 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2015-11-06T16:00:00+01:00
+- Ende: 2015-11-06T17:25:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10127
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/10127
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251921.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251921.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00251921.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigungen der Niederschriften
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Plan-Nr. 09/012 Forststraße / Hasselsstraße
+- TOP 6: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2015
+- TOP 7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2016
+- TOP 8: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2016
+- TOP 9: Weihnachtsmarkt am Schloss Benrath im Jahre 2015
+- TOP 10: Festlegung der Sitzungstermine für das Jahr 2016
+- TOP 11: Anfrage: Auto-Parkplatz an der Orangerie/Bücherei Benrath (Gelände von Schloss Benrath)
+- TOP 12: Anfrage: Anregungen zum Nahverkehrsplan
+- TOP 13: Anfrage: Auslastung der Parkhäuser im Stadtbezirk 9
+- TOP 14: Anfrage: Verbesserung der Beleuchtungssituation Nosthoffenstraße
+- TOP 15: Anfrage: Fensterreinigung der Schulgebäude im Stadtbezirk 9
+- TOP 16: Anfrage: Sachstand Hotelneubau Bonner Str. 59
+- TOP 17: Anfrage: Fahrradboxen Benrather Bahnhof
+- TOP 18: Antrag: Anbindung des Düsseldorfer Südens an die Uni
+- TOP 19: Antrag: Einbau Sonnenschutz, Räume SV Wersten 04
+- TOP 20: Antrag: Steinhauerstraße
+- TOP 21: Antrag: Zusätzliche Fahrradboxen am Bahnhof Benrath
+- TOP 22: Antrag: Verfügungsmittel Selma Lagerlöf Schule
+- TOP 23: Antrag: Verfügungsmittel Weihnachtsbaum Bürgerhaus Reisholz
+- TOP 24: Antrag: Verfügungsmittel Wir in Wersten e.V.; Lichterkette für Weihnachtsbaum
+- TOP 25: Antrag: Verfügungsmittel Aktion Weihnachtsbaum Hassels; Kauf und Aufstelllung
+- TOP 26: Antrag: Verfügungsmittel Aktion Weihnachtsbaum Hassels
+- TOP 27: Antrag: Verfügungsmittel Karnevalsgesellschaft "Reisholzer Quatschköpp" e.V. 1982
+- TOP 28: Antrag: Verfügungsmittel Städt. Gemeinschaftsgrundschule "Am Köhnen"
+- TOP 29: Antrag: Verfügungsmittel St. Sebastianus-Schützenbruderschaft von 1641, Düsseldorf-Himmelgeist e.V.
+- TOP 30: Antrag: Verfügungsmittel VdK OV Benrath-Garath
+- TOP 31: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V.
+- TOP 32: Antrag: Verfügungsmittel Offene Gruppe Holthausener Bürger und Bürgerinnen
+- TOP 33: Informationsvorlage zum Beschluss der BV9 vom 19.06.2015
+- TOP 34: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 19.06.2015
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 23.01.2015
+- TOP 38: Informationsvorlage: Lebende Weihnachtsbäume im Stadtbezirk 9
