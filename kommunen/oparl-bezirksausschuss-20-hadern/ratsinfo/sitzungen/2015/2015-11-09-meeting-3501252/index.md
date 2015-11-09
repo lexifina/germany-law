@@ -1,0 +1,97 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2015-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3501252
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3501252
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation Waldwiesenstraße
+- TOP 1.2.: Tempo 30 in der Guardinistraße
+- TOP 1.3.: Bürgeranliegen: a. Weiterentwicklung des Stadtteils Großhadern b. Busanbindung des Stadtteils c. Parksituation im Bereich um die Waldhüterstraße
+- TOP 1.4.: Verkehrssituation Waldwiesenstraße zwischen Eichenstraße und Am Ährenfeld / Drozzaweg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Antrag BA 15 Trudering-Riem: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse Stadtratsantrag: Schluss mit Bevormundung - Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen (Direktorium, 20.10.15)
+- TOP 6.2.: Verfahren nach § 4 Abs. 2 BauGB Gemeinde Neuried Bebauungsplan Nr. 11a "Südlich der Gautinger Straße"; 2. Änderung (Referat für Stadtplanung und Bauordnung, 27.10.15)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Farnweg 6, 1 Fichte
+- TOP 7.2.: Kornwegerstraße 57, 2 Fichten
+- TOP 7.3.: Myrtenstraße 1 a, 1 Lärche
+- TOP 7.4.: Terofalstraße 66, 1 Zuckerahorn, 1 Prunus
+- TOP 7.5.: Tratzbergstraße 5, 1 Fichte, 1 Lärche
+- TOP 7.6.: Waldhüterstraße 56, 1 Schwarzkiefer, 1 Esche
+- TOP 7.7.: Wastl-Witt-Straße 20, 1 Fichte
+- TOP 7.8.: Wildanger 25, 1 Nadelbaum
+- TOP 7.9.: Pfingstrosenstraße 65, 1 Eberesche
+- TOP 7.10.: Heckenrosenstraße 7, 1 Kiefer, 2 Weißtannen
+- TOP 7.11.: Haderunstraße 22 - 28, 1 Robinie und 1 Hänge-Birke
+- TOP 7.12.: Goldregenstraße 6, 1 serbische Fichte
+- TOP 7.13.: Ludlstraße 55, 1 Amerikanischer Amberbaum, 3 Silber-Ahorn
+- TOP 7.14.: Rudi-Seibold-Straße 1, 1 Vogelbeere, 1 Zierapfel, 8 Stieleichen
+- TOP 7.15.: Terofalstraße 72, 1 Birke, 1 Kirsche, 3 Ahorn
+- TOP 7.16.: Würmtalstraße 153, gem. Baumbestand- und Freiflächengestaltunsplan Nr. 15704
+- TOP 7.17.: Pfingstrosenstraße 46, 3 Fichten
+- TOP 7.18.: Am Waldrand 9, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 19900
+- TOP 7.19.: Wolkerweg 14 - 16, 1 Birke
+- TOP 7.20.: Heiglhofstraße 25, 1 Linde
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste des Baureferates - vom 22.09.2015: 27 Bäume auf dem Waldfriedhof - vom 21.10.2015: 1 Baum im Verkehrsbegleitgrün Ossingerstraße 4
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Würmtalstraße 27, 1 Urwelt-Mammutbaum (Referat für Stadtplanung und Bauordnung, 22.10.15)
+- TOP 7.2.: Willibaldstraße 130, Fällung von 2 Spitzahorn und 1 Linde, Baumveränderung im Wurzelbereich bei 1 Linde (Referat für Stadtplanung und Bauordnung, 29.10.15)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Beschluss des Bezirksausschusses 5 Au-Haidhausen: Information der Bürgerversammlungen über die Ergebnisse der letztjährigen Anträge in geeigneter Weise (Direktorium, 13.10.15)
+- TOP 8.2.: Baumaßnahmen der SWM: - Fernwärmeprojekt Lupinenweg (SWM, 14.10.15) - Stromprojekt Sauerbruchstraße Netztrafostation, 1. Bauabschnitt (SWM, 21.10.15)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Am Waldrand (Sozialreferat, 29.09.15) - Ebernburgstraße (Sozialreferat, 01.10.15)
+- TOP 8.4.: Faltblatt "Wohnungsmarktdaten München 2014" (Referat für Stadtplanung und Bauordnung, 02.10.15)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: - Hosigaustraße / Auf der Vogelwiese; Haltverbot (Kreisverwaltungsreferat, 08.10.15) - Flemischweg; Feuerwehranfahrtszone (Kreisverwaltungsreferat, 08.10.15) - Wildtaubenweg; Haltverbot (Kreisverwaltungsreferat, 08.10.15)
+- TOP 8.6.: Anträge zur Satzungsänderung des BA 16: Vorzeitige Beendigung von drei Anhörungsverfahren wegen Antragsrücknahme (Direktorium, 14.10.15)
+- TOP 8.7.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV / Verlängerung Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 14.10.15)
+- TOP 8.8.: Mehrjahresinvestitionsprogramm für die Jahre 2015 - 2019 (Stadtkämmerei, 12.10.15)
+- TOP 8.9.: Veranstaltung des BA 20 Hadern, Haderner Christkindlmarkt am 05. / 06.12.2015 (Direktorium, 28.10.15)
+- TOP 8.10.: Änderung der Bezirksausschusssatzung; Aufnahme eines Anhörungsrechtes bei Änderungen der Perspektive München (Leitbild) aller Referate, Antr. BA 20 Hadern (Direktorium, 20.10.15)
+- TOP 8.11.: Filmaufnahmen auf öffentlichem Verkehrsgrund am 14.11.2015, Senftenauerweg (Brücke über die BAB96), Senftenauerstraße 2 (Kreisverwaltungsreferat, 04.11.15)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Austausch von Lichtsignalanlagen, hier: Würmtal- / Eichenstraße (Kreisverwaltungsreferat, 02.10.15)
+- TOP 9.2.: Reinigung der Straßenschilder im 20. Stadtbezirk (Baureferat, 02.10.15)
+- TOP 9.3.: Verbot von Laubbläsern (Referat für Gesundheit und Umwelt, 19.10.15)
+- TOP 9.4.: Einkaufszentrum Haderner Stern und überhöhte Randsteine (Baureferat, 21.10.15)
+- TOP 9.5.: Sicherer Schulweg Senftenauerstraße (Kreisverwaltungsreferat, 27.10.15)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Containerinsel Guardinistraße (AWM, 30.09.15)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Bus und Bahn Begleitservice (2. Bürgermeister Schmid, 09.10.15)
+- TOP 11.2.: Information zur "Veranstaltungsstörungen durch die extreme Rechte" (Fachstelle für Demokratie, 16.10.15)
+- TOP 11.3.: Einladung "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am 25.11.2015 (Referat für Bildung und Sport, 02.11.15)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 30.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03899 (nach Antrag): Mobilität in Deutschland 2016 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Beteiligung der Landeshauptstadt München Gesamtverkehrsleistung in München, wie sind die Anteile der verschiedenen Verkehrsarten verteilt? Mit der Befragung werden in München 5.000 Haushalte erfasst.
+- TOP 12.1.: Beschluss vom 30.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03603 (Vertagt): Nahverkehrsplan (NVP) der Landeshauptstadt München a) Sachstandsbericht b) Vorschlag zur Evaluierung und Fortschreibung der Qualitätsstandards c) Ergebnisse des Anhörungsverfahrens und weiteres Vorgehen d) Vergabe von Beratungs- und Gutachterleistungen e) Anträge und Empfehlungen Der Referentenentwurf des NVP wurde (nach der Vertagung am 23.09.2015) am 24.09.2015 überarbeitet. Insbesondere sollen jetzt - die weitere Verlängerung der "U5" von "Pasing-Bahnhof" nach "Freiham" parallel zu der bereits unterscuhten Verlängerung der Trambahnlinie 19 offengehalten werden (S. 7 Punkt 1 des Referentenantrages) und - die Planung der Neubaustrecke der künftigen "U9" ("Theresienwiese" - "Münchner Freiheit") zusammen mit den Planungen für die U-Bahn-Verbindungsspange von der "U2" (südlich der "Theresienstraße" = "Königsplatz") zur "U6" (= künftige "U26") vorangetrieben werden (S. 9 Punkt 6 des Referentenantrages, bisher S. 9 Punkt 8).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 24.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03993 (nach Referentenantrag unter Berücksichtigung des CSU-Änderungsantrages vom 24.09.2015): Unterflur-Wertstoffinseln in der Altstadt errichten! Unterflur-Wertstoffinseln auch für sensible Standorte im gesamten Stadtgebiet prüfen!
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03840 (nach Antrag): Umsetzung der Baumschutzverordnung in Sendling (abgelehnt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02273 (vertagt): Verkehrssituation und verkehrliche Maßnahmen für den Münchner Südwesten (abgelehnt)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 02900: Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels Der Antrag wird von der Planungsreferentin unter Berufung auf das bereits vorhandene "Zentrenkonzept", das einen "Plan für die Einzelhandelsentwicklung" enthalte, abgelehnt.
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03584 (nach Antrag): Wohnen in München V 1. Erfahrungsbericht für die Jahre 2013 / 2014 2. Handlungsempfehlungen 2.1. Geförderter Mietwohnungsbau - Anpassung der Förderung für Projekte, um die Wirtschaftlichkeit trotz unabweisbarer Mehrkosten zu gewährleisten 2.2. Realisierung des Pilotprojekts Thierschstraße 10 (Rückgebäude) 2.3. Teilweiser Entfall der Anwendung der VOB/A in der Wohnraumförderung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 zur Sitzungsvorlage-Nr 14-20 / V 02728 (nach Referentenantrag unter Berücksichtigung des Änderungsantrages zu Punkt 1 vom 07.10.2015): Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Es soll auch nach der "Priorisierung der Förderung verschiedener Verkehrsmittel" gefragt werden (Punkt 1 des Referentenantrages in der Fassung des Änderungsantrages vom 07.10.2015).
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03888: Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerversammlungsempfehlungen im Stadtrat BV-Anträge, denen mehrheitlich zugestimmt wurde, sollen in diesem Sinne von der Stadtverwaltung umgesetzt werden
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 06.10.2015 zur Sitzungsvorlage-Nr. 14-20 / V 03137: Jugend im öffentlichen Raum - Ausbau der regionalen, stadtteilorientierten Streetwork, insbesondere zur erstmaligen Abgabe der Trägerschaft an einen "freien Träger" in Form einer "Streetwork-Außenstelle Süd" (S. 12) für das Gebiet der Stadtbezirke 6, 7, 19 und 20-Hadern (ohne Blumenau). Das Projekt wurde bereits in der 18. BA-Sitzung am 12.10.2015 befürwortet (S. 7, BV 3.2.4 der damaligen TO). In Hadern wird derzeit noch das leerstehende Ladenlokal der ehemaligen "Metzgerei Winter" in der Guardinistraße 6 / Ecke "Neufriedenheimer Straße" (= westlicher U-Bahn-Ausgang der Haltestelle "Holzapfelkreuth") zur Vermietung angeboten (Telefon: 089-17998017). Hierauf sollte das Sozialreferat hingewiesen werden.
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
