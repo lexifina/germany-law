@@ -1,0 +1,58 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2015-11-09T16:05:00+01:00
+- Ende: 2015-11-09T17:37:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12218
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12218
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00186159.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00186662.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Verleihung des Ehrenrings an Dr. Carsten Gerhardt, Wuppertalbewegung e. V., - ungeändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Flüchtlingssituation - Aktionsplan Integration Wuppertal - vertagen
+- TOP 2.2: Elektrofahrzeugen im städtischen Fuhrpark - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 28.07.2015 - Elektrofahrzeuge im städtischen Fuhrpark - Entgegennahme ohne Beschluss
+- TOP 2.3: Minderung der Verkehrslärmimmissionen am Boltenberg - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Beantwortung der Anfrage BÜNDNIS 90/DIE GRÜNEN zur Minderung der Verkehrslärmimmissionen am Boltenberg - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag gem. § 24 GO NRW zur Kastrations- und Kennzeichnungspflicht für freilaufende Katzen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Keine Verlegung des Lehrbetriebs der Förderschule Hufschmiedstraße - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Prüfauftrag: Einführung des Motoröldialyse-Verfahrens für die Fuhrparks der Stadt und ihrer Töchter - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Entgeltordnung der Stadtbibliothek - abgesetzt
+- TOP 6.2: Änderung der Entgeltordnung für den Zoologischen Garten/Einführung eines ZooAbos und online-Tickets - abgesetzt
+- TOP 6.3: Änderung der Betriebssatzung des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Gewährung von Zuschüssen an den privaten Förderschulträger Troxler-Schule Wuppertal e. V. - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2014 - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses für den Eigenbetrieb Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2014 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 311 - Rädchen - - ungeändert beschlossen
+- TOP 9.2: Sanierungssatzung „Kernbereich Heckinghausen“ - ungeändert beschlossen
+- TOP 9.3: Aufhebung der Sanierungssatzung "Freiraumprogramm Talachse" vom 10.10.2005 - ungeändert beschlossen
+- TOP 9.4: Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung für die Erschließungsanlage Schmachtenbergweg im Bereich der westlichen und östlichen Stichstraße - Abweichungssatzung Schmachtenbergweg - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Schulentwicklung für die weiterführenden Schulen in Wuppertal - ungeändert beschlossen
+- TOP 11.2: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.3: Antrag auf Genehmigung zur Errichtung von Bildungsgängen gem. § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.4: Sanierung Freibad Mählersbeck - Förderantrag Zukunftsinvestitionsprogramm des Bundes (ZIP) - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Besetzung Seniorenbeirat - ungeändert beschlossen
+- TOP 12.2: Einrichtung einer Begleitkommission für den Kinder- und Jugendförderplan 2015 - 2019 - geändert beschlossen
+- TOP 12.3: Bestellung eines Mitgliedes für die Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - ungeändert beschlossen
+- TOP 12.4: Verwaltungsausschuss der Bundesagentur für Arbeit Wuppertal - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.6: Gremientätigkeiten des Oberbürgermeisters - Entgegennahme ohne Beschluss
