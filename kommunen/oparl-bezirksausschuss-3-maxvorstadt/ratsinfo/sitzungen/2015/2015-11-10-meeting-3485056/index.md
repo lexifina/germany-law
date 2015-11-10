@@ -1,0 +1,86 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2015-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/3485056
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/3485056
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Lärmbelästigung durch ?outdoor Partys? auf dem Gelände der Hochschule für Fernsehen und Film Schreiben eines Bürgers vom 09.10.2015
+- TOP .2.: Verkehrsspiegel in der Gabelsbergerstraße gegenüber Hausnummer 48 Schreiben eines Bürgers vom 20.10.2015
+- TOP .3.: Baustelle Türkenstraße 47 Schreiben einer Bürgerin vom 22.10.2015
+- TOP .4.: Seniorenstadtplan für die Maxvorstadt Schreiben der Seniorenvertreterin Maxvorstadt vom 27.10.2015
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 5.3.6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 5.3.1.: Kommunalreferat, Beschlussvorlage, Unterrichtung ?Platz der Münchner Nobelpreistrager? BA-Antrag Nr. 14-20 / B 00987 des BA 3 vom 10.03.2015 Sitzungsvorlage Nr. 14-20 / V 03334
+- TOP 5.3.2.: Einbeziehung des Museumsareals in die Planungen zum freien WLAN
+- TOP 5.3.3.: Freies Wlan für die Flüchtlingsunterkunft in der Karlstraße
+- TOP 5.3.4.: Mehr Bäume rund um den "Norkauer Platz", Karlstraße 47
+- TOP 5.3.5.: Kommunalreferat, Unterrichtungen Verlegung eines Informationsschaukastens im Stadtbezirk 3 Maxvorstadt
+- TOP 7: Bericht des Rechtsextremismusbeauftragten
+- TOP 7.1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 27.10.2015 Wurde der BA 3 mit dem Vorbescheid ?Augustenstraße 87, Aufstockung zweier Wohnge- bäude (Augustenstraße 87 ? 89) bzw. Erweiterung eines Wohngebäudes mit Tiefgarage (Agustenstraße 87 ? 89) und Aufstockung eines Wohngebäudes (Heßstraße 43)? ge- täuscht?
+- TOP 7.2.: Antrag der SPD im BA 3 vom 21.08.2015 Unterrichtung des BA 3 über die aktuellen Planungen zu U 9 und frühzeitige Einbindung in die weiteren Planungen
+- TOP 7.2.1: Bauvorhaben
+- TOP 7.1.: LBK-Listen der Bauvorhaben: 40., 41., 42., 43. KW
+- TOP 7.2.: Listen der Abgeschlossenheitsbescheinigungen: KW
+- TOP 7.3.: Arnulfstraße 52 Neubau Zwischengeschoss unter bestehendem Saal, Errichtung Selbstbedienungsaus- gabe mit Anbindungsgang, Anbau Küche, Nutzungsänderung im 1. OG von Personal- zimmern zu Gastraum und im EG von Küche und Garderobe zu Schänke und Neben- zimmer, Errichtung eines Parkplatzes - Vorbescheid
+- TOP 7.4.: Deroystraße 5 Neubau Wohnüberbauung gemäß B-Plan 2056
+- TOP 7.3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 7.3.1: Vollzug der Baumschutzverordnung
+- TOP 7.1.: Schellingstraße 42 Aufstockung, Erweiterung, Sanierung und Nutzungsänderung des Rückgebäudes mit hinterem Seitengebäude ? Vorbescheid vertagt aus der Sitzung vom 13.10.2015; Freiflächenplan wurde bei der LBK angefordert
+- TOP 7.2.: Dachauer Straße 96 ? 98 MRE_216_DAC ? Neubau einer Pavillonanlage für die Eerweiterung der Grund- und Förderschule als Interimsmaßnahme vertagt aus der Sitzung vom 13.10.2015, Unterlagen liegen bereits vor
+- TOP 7.3.2: Baumfällungen
+- TOP 7.1.: Kaulbachstraße 13, ein Spitzahorn
+- TOP 7.2.: Augustenstraße 87/89, eine Robinie
+- TOP 7.3.3: Grün- und Freiflächenplanung
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunft der Arbeit in München III: München stärkt die vielfältige und kleinteilige Struktur des Einzelhandels Antrag Nr. 14-20 / A 00660 von DIE LINKE und der ÖDP vom 04.02.2015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2015 Sitzungsvorlage Nr. 14-20 / V 029000
+- TOP 7.3.: Baureferat Fuß- und Radwegbrücke Arnulfpark über die zentrale Bahnachse am S-Bahn-Halt Donnersbergerbrücke Beschluss des Bauausschusses vom 13.10.2015 Sitzungsvorlage Nr. 14-20 / V 04370
+- TOP 7.4.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschi- nenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV/Verlängerung Betrieb von Müllsammelfahrzeugen
+- TOP 7.5.: Kommunalreferat, Beschlussvorlage Unterflur-Wertstoffinseln in der Altstadt errichten! Antrag Nr. 14-20 / A 00996 der Stadträte Richard Quaas, Georg Schlagbauer, Dr. Hans Theiss und Heike Kainz vom 04.05.2015 Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbe- trieb München vom 24.09.2015 Sitzungsvorlage Nr. 14-20 / V 03993
+- TOP 7.6.: Referat für Stadtplanung und Bauordnung Münchner Bevölkerungsbefragung zur Stadtentwicklung 2016 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.10.2015 Sitzungsvorlage Nr. 14-20 / V 02728
+- TOP 7.7.: Referat für Stadtplanung und Bauordnung, Referat für Arbeit und Wirtschaft EU-Projekt Smarter Together, Endgültiger EU-Antrag, Personal und Finanzierung Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 07.10.2015 Sitzungsvorlagae Nr. 14-20 7 V03949
+- TOP 7.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Neuordnung der Bauberatung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.11.2015 Sitzungsvorlage Nr. 14-20 / V 03401
+- TOP 7.1.: Antrag der SPD im BA 3 vom 27.09.2015 Begrünung der Maxvorstadt vertagt aus der Sitzung vom 13.10.2015; Spartenpläne wurden beim Baureferat angefor- dert
+- TOP 7.2.: Antrag Bündnis 90/Die Grünen im BA 3 vom 28.10.2015 Zebrastreifen in der Gabelsbergerstraße zur Querung vom Haupteingang TU zur Mensa
+- TOP 7.3.: Antrag Bündnis 90/Die Grünen im BA 3 vom 27.10.2015 Einführung einer Geschwindigkeitsbegrenzung auf Tempo 30 in der Arcisstraße
+- TOP 7.2.1: Verkehr
+- TOP 7.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung, Anhörung Austausch von Lichtsignalanlagen: a) hier Dachauer- / Gabelsbergerstraße b) Adalbert-/Arcisstraße
+- TOP 7.2.: Kreisverwaltungsreferat, Verkehrsmanagement, strategische Konzepte, Anhörung CarSharing in München, Ergebnisse der Evaluation des Pilotversuchs 2011 ? 2015 Stadtratbeschluss (Entwurf) für den Kreisverwaltungsausschuss vom 15.12.2015
+- TOP 7.2.2: Öffentlicher Raum
+- TOP 7.1.: Baureferat, Gartenbau, Antwortschreiben, Anhörung Grünanlage an der Ecke Schelling-/Luisenstraße, TOP Aa 5.2.3/092015
+- TOP 7.2.: Kommunalreferat, Straßenbenennung, Antwortschreiben, Anhörung Benennung des Straßennamens Heßstraße BA-Antrag Nr. 14-20 / B 01585 des BA 3 vom 15.09.2015
+- TOP 7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.: Baureferat, Beschlussvorlage Standortgenehmigung für Parkscheinautomaten, Brienner Straße, Lizenzgebiet Altstadt
+- TOP 7.2.3: Gaststätten
+- TOP 7.1.: Amalienstraße 87, Erweiterung einer bestehenden Freischankfläche
+- TOP 7.2.4: Veranstaltungen
+- TOP 7.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro a) TUNIX Open-Air vom 27.06. bis 02.07.2016 auf der Wiese hinter der Glyptothek b) Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz vom 26.11. bis 23.12.2015
+- TOP 7.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro München Marathon am 11.10.2015 und Trachtenlauf am 10.10.2015 Erlaubnisbescheid
+- TOP 7.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival, Eilentscheidung des Vorsitzenden Antwortschreiben zu TOP C 3.3/092015
+- TOP 7.3.: Baumaßnahmen der Stadtwerke Ludwigstraße, Gas Dachauer Straße, Wasser Arnulfstraße 37, Strom Dachauer Straße 27, Fernwärme Lämmerstraße 3, Reparatur der Versorgungsleitung
+- TOP 7.3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 7.1.: Direktorium, Budget Kirchengemeinde St. Markus zog den Antrag auf Leistungen aus dem Budget der Be- zirksausschüsse zurück; die bereits bewilligten Mittel in Höhe von 2.000,00 ? wurden dem BA 3 wieder gutgeschrieben.
+- TOP 7.1.: Direktorium, Beschlussvorlage, Unterrichtung Grundwasser Feldmoching: Änderung der bisherigen Behandlungspraxis von Bürgerver- sammlungsempfehlungen im Stadtrat Beschluss des Verwaltungs- und Personalausschusses vom 23.09.2015 Sitzungsvorlage Nr. 14-20 / V 03888
+- TOP 7.2.: 2. Direktorium, Beschlussvorlage des BA 5 Au-Haidhausen vom 16.09.2015 Information der Bürgerversammlung über die Ergebnisse der letztjährigen Anträge in geeigneter Weise BV-Empfelung Nr. 14-20 / E 00390 der Bürgerversammlung des Stadtbezirkes 5 Au- Haidhausen vom 05.03.2015 Sitzungsvorlage Nr. 14-20 / V 03789
+- TOP 7.3.: Stadtkämmerei, Unterrichtung Mehrjahresinvestitionsprogramm für die Jahre 2015 ? 2019 für den Stadtbezirk 3
+- TOP 7.4.: Direktorium, Anhörung Partizipation ernst nehmen- Entscheidungsrecht über örtliche Gedenktafeln für die Be- zirksausschüsse BA-Antrag Nr. 08-14 / B 03384 des BA 15 Trudering-Riem vom 20.10.2011 Schluss mit der Bevormundung ? Bezirksausschüsse über örtliche Hinweistafeln wieder selbst entscheiden lassen Antrag Nr. 08-14 / A 04127
+- TOP 7.5.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.10.2015 Der Bezirksausschuss unterstützt die Mieter der Augustenstraße 96
+- TOP 7.1.: Nächste BA- und UA-Sitzungen
+- TOP 7.1.: Anträge
+- TOP 7.2.: Entscheidungen und Anhörungen
+- TOP 7.3.: Aktuelle Sachstandsberichte
+- TOP 7.4.: Unterrichtungen
